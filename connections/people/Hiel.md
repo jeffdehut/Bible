@@ -1,0 +1,25 @@
+---
+name: "Hiel"
+type: "person"
+tipnr: "Hiel@1Ki.16.34"
+strong: "H2419"
+original: ["חִיאֵל"]
+verses: 1
+chapters: 1
+first: "1 Kings 16:34"
+tags: ["person"]
+---
+
+# Hiel
+
+The Bethelite who rebuilt Jericho.
+
+**Original-language names:** חִיאֵל (H2419)
+
+## Appears in
+
+[[connections/chapters/11-1-kings/1 Kings 16|1 Kings 16]]
+
+## Appears in the same verse as
+
+[[connections/people/Abiram (1 Kings 16.34)|Abiram (1 Kings 16.34)]] · [[connections/people/Joshua (Exodus 17.9)|Joshua (Exodus 17.9)]] · [[connections/people/Nun|Nun]] · [[connections/people/Segub (1 Kings 16.34)|Segub (1 Kings 16.34)]] · [[connections/places/Bethel (Genesis 12.8)|Bethel (Genesis 12.8)]] · [[connections/places/Jericho|Jericho]]

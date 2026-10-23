@@ -1,0 +1,25 @@
+---
+name: "Philetus"
+type: "person"
+tipnr: "Philetus@2Ti.2.17"
+strong: "G5372"
+original: ["Φίλητος"]
+verses: 1
+chapters: 1
+first: "2 Timothy 2:17"
+tags: ["person"]
+---
+
+# Philetus
+
+False teacher who opposed Paul
+
+**Original-language names:** Φίλητος (G5372)
+
+## Appears in
+
+[[connections/chapters/55-2-timothy/2 Timothy 2|2 Timothy 2]]
+
+## Appears in the same verse as
+
+[[connections/people/Hymenaeus|Hymenaeus]]

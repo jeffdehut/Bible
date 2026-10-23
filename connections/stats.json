@@ -1,0 +1,18 @@
+{
+  "openbible_date": "2026-10-19",
+  "min_votes": 8,
+  "cross_references_total": 344799,
+  "cross_references_kept": 61387,
+  "cross_references_unresolved": 0,
+  "chapter_pairs": 33542,
+  "stepbible_commit": "ed476a8ee6e3f7b3a46fc48af6c7dabc02387b1d",
+  "tvtms_rows_checked": 4957,
+  "tvtms_rows_passed": 4953,
+  "renumberings": 1970,
+  "people": 3004,
+  "places": 1004,
+  "same_verse_pairs": 15322,
+  "tipnr_references_unresolved": 0,
+  "chapters": 1189,
+  "broken_links": 0
+}

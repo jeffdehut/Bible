@@ -1,0 +1,25 @@
+---
+name: "Shecaniah"
+type: "person"
+tipnr: "Shecaniah@Ezr.8.3"
+strong: "H7935J"
+original: ["שְׁכַנְיָהוּ"]
+verses: 1
+chapters: 1
+first: "Ezra 8:3"
+tags: ["person"]
+---
+
+# Shecaniah (Ezra 8.3)
+
+Descendant of Parosh who returned from exile
+
+**Original-language names:** שְׁכַנְיָהוּ (H7935)
+
+## Appears in
+
+[[connections/chapters/15-ezra/Ezra 8|Ezra 8]]
+
+## Appears in the same verse as
+
+[[connections/people/Parosh (Ezra 8.3)|Parosh (Ezra 8.3)]] · [[connections/people/Zechariah (Ezra 8.3)|Zechariah (Ezra 8.3)]]

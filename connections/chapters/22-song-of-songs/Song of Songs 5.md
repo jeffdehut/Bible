@@ -1,0 +1,27 @@
+---
+book: "Song of Songs"
+chapter: 5
+testament: "OT"
+section: "Wisdom"
+language: "Hebrew"
+verses: 16
+cross_references_out: 1
+cross_references_in: 16
+tags: ["chapter", "ot", "wisdom"]
+---
+
+# Song of Songs 5
+
+← [[connections/chapters/22-song-of-songs/Song of Songs 4|Song of Songs 4]] · [[connections/books/Song of Songs|Song of Songs]] · [[connections/chapters/22-song-of-songs/Song of Songs 6|Song of Songs 6]] →
+
+## Text
+
+![[text/hebrew/22-song-of-songs#Chapter 5]]
+
+## Cross-references
+
+- **5:1** → [[connections/chapters/22-song-of-songs/Song of Songs 6|Song of Songs 6:2]]
+
+## People and places
+
+**Places:** [[connections/places/Jerusalem|Jerusalem]], [[connections/places/Lebanon|Lebanon]]

@@ -1,0 +1,25 @@
+---
+name: "Enan"
+type: "person"
+tipnr: "Enan@Num.1.15-"
+strong: "H5881"
+original: ["עֵינָן"]
+verses: 5
+chapters: 4
+first: "Numbers 1:15"
+tags: ["person"]
+---
+
+# Enan
+
+Father of Ahira, a leader of the tribe of Naphtali.
+
+**Original-language names:** עֵינָן (H5881)
+
+## Appears in
+
+[[connections/chapters/04-numbers/Numbers 1|Numbers 1]] · [[connections/chapters/04-numbers/Numbers 2|Numbers 2]] · [[connections/chapters/04-numbers/Numbers 7|Numbers 7 (2)]] · [[connections/chapters/04-numbers/Numbers 10|Numbers 10]]
+
+## Appears in the same verse as
+
+[[connections/people/Ahira|Ahira (5)]] · [[connections/people/Naphtali|Naphtali (4)]]

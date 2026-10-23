@@ -1,0 +1,8 @@
+{
+  "userIgnoreFilters": [
+    "sources/",
+    "scripts/"
+  ],
+  "alwaysUpdateLinks": false,
+  "newLinkFormat": "absolute"
+}

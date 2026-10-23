@@ -28,12 +28,16 @@ text/
   greek-tr/40-matthew.md …       Textus Receptus (Scrivener 1894), for comparison
 apparatus/
   greek/40-matthew.md …          SBLGNT apparatus: variant readings, verse by verse
+connections/                     Obsidian notes linking chapters, people and places (see below)
+  README.md                      Start here: how to explore the connections in Obsidian
 books.json                       Index: names, OSIS ids, languages, counts, paths, Tanakh order
 sources/                         Raw upstream files, byte for byte (see sources/README.md)
 scripts/
   books.py                       Canonical book list, Tanakh order, Aramaic passages
   build.py                       Regenerates text/, apparatus/ and books.json from sources/
   verify.py                      Checks every verse against the published editions
+  connections.py                 Builds connections/ from open cross-reference and name data
+.obsidian/                       Obsidian settings: graph colors and filters
 VERIFICATION.md                  What was checked, what was found, what was fixed
 ```
 
@@ -63,11 +67,28 @@ see the backslashes.
 Chapter and verse numbers follow each edition's own numbering. Some Hebrew verse numbers
 differ from English Bibles: Psalm titles count as verse 1, and Malachi has 3 chapters.
 
+## Exploring connections in Obsidian
+
+Open this folder as an Obsidian vault. `connections/` recreates the three parts of Chris
+Harrison's [Bible visualizations](https://www.chrisharrison.net/index.php/visualizations/BibleViz)
+as links that Obsidian's graph view can show:
+
+1. **Cross-references:** 1,189 chapter notes, each embedding its Hebrew or Greek text and
+   linking to the chapters it cross-references. That gives 61,387 cross-references,
+   comparable to Harrison's 63,779.
+2. **People and places:** 4,008 notes, each linked to the people and places named in the
+   same verse, as in Harrison's social network.
+3. **Where names occur:** every person and place note lists the chapters it appears in.
+
+The data is open: OpenBible.info cross-references, and STEPBible's tagged names and
+verse-numbering mapping. Start with [connections/README.md](connections/README.md).
+
 ## Rebuilding and verifying
 
 ```
 python3 scripts/build.py     # regenerate text/, apparatus/, books.json
 python3 scripts/verify.py    # compare everything with the published editions (needs network)
+python3 scripts/connections.py   # regenerate connections/ (needs network)
 ```
 
 Both use only the Python standard library. `verify.py` checks every verse against the
@@ -121,5 +142,6 @@ the printed 1894 edition.
 - Word-level morphology and lemmas: MorphGNT for the SBLGNT, and the Open Scriptures Hebrew
   Bible for the Hebrew
 - A lexicon/word-study layer keyed to verses
+- Family-tree links (parents, siblings, children) from TIPNR, alongside the same-verse links
 - Add the Robinson-Pierpont Byzantine text (public domain) as a further comparison edition
 - A small reader or search tool built on `books.json` + `text/`

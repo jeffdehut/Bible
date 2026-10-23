@@ -1,0 +1,26 @@
+---
+name: "Damascus"
+type: "place"
+tipnr: "Damascus@Gen.14.15-Gal"
+strong: "H1834"
+original: ["דַּמֶּ֫שֶׂק", "Δαμασκηνός", "Δαμασκός"]
+location: [33.519299, 36.31344999999999]
+verses: 55
+chapters: 32
+first: "Genesis 14:15"
+tags: ["place"]
+---
+
+# Damascus
+
+Ancient city, capital of Syria, important in biblical history.
+
+**Original-language names:** דַּמֶּ֫שֶׂק (H1834) · Δαμασκηνός (G1153) · Δαμασκός (G1154)
+
+## Appears in
+
+[[connections/chapters/01-genesis/Genesis 14|Genesis 14]] · [[connections/chapters/01-genesis/Genesis 15|Genesis 15]] · [[connections/chapters/10-2-samuel/2 Samuel 8|2 Samuel 8 (2)]] · [[connections/chapters/11-1-kings/1 Kings 11|1 Kings 11]] · [[connections/chapters/11-1-kings/1 Kings 15|1 Kings 15]] · [[connections/chapters/11-1-kings/1 Kings 19|1 Kings 19]] · [[connections/chapters/11-1-kings/1 Kings 20|1 Kings 20]] · [[connections/chapters/12-2-kings/2 Kings 5|2 Kings 5]] · [[connections/chapters/12-2-kings/2 Kings 8|2 Kings 8 (2)]] · [[connections/chapters/12-2-kings/2 Kings 14|2 Kings 14]] · [[connections/chapters/12-2-kings/2 Kings 16|2 Kings 16 (4)]] · [[connections/chapters/13-1-chronicles/1 Chronicles 18|1 Chronicles 18 (2)]] · [[connections/chapters/14-2-chronicles/2 Chronicles 16|2 Chronicles 16]] · [[connections/chapters/14-2-chronicles/2 Chronicles 24|2 Chronicles 24]] · [[connections/chapters/14-2-chronicles/2 Chronicles 28|2 Chronicles 28 (2)]] · [[connections/chapters/22-song-of-songs/Song of Songs 7|Song of Songs 7]] · [[connections/chapters/23-isaiah/Isaiah 7|Isaiah 7]] · [[connections/chapters/23-isaiah/Isaiah 8|Isaiah 8]] · [[connections/chapters/23-isaiah/Isaiah 10|Isaiah 10]] · [[connections/chapters/23-isaiah/Isaiah 17|Isaiah 17 (2)]] · [[connections/chapters/24-jeremiah/Jeremiah 49|Jeremiah 49 (3)]] · [[connections/chapters/26-ezekiel/Ezekiel 27|Ezekiel 27]] · [[connections/chapters/26-ezekiel/Ezekiel 47|Ezekiel 47 (3)]] · [[connections/chapters/26-ezekiel/Ezekiel 48|Ezekiel 48]] · [[connections/chapters/30-amos/Amos 1|Amos 1 (2)]] · [[connections/chapters/30-amos/Amos 5|Amos 5]] · [[connections/chapters/38-zechariah/Zechariah 9|Zechariah 9]] · [[connections/chapters/44-acts/Acts 9|Acts 9 (7)]] · [[connections/chapters/44-acts/Acts 22|Acts 22 (4)]] · [[connections/chapters/44-acts/Acts 26|Acts 26 (2)]] · [[connections/chapters/47-2-corinthians/2 Corinthians 11|2 Corinthians 11]] · [[connections/chapters/48-galatians/Galatians 1|Galatians 1]]
+
+## Appears in the same verse as
+
+[[connections/places/Syria|Syria (15)]] · [[connections/people/Israel|Israel (7)]] · [[connections/places/Hamath|Hamath (6)]] · [[connections/people/David|David (5)]] · [[connections/places/Jerusalem|Jerusalem (5)]] · [[connections/people/Ben-hadad (1 Kings 15.18)|Ben-hadad (1 Kings 15.18) (3)]] · [[connections/people/Paul|Paul (3)]] · [[connections/places/Assyria|Assyria (3)]] · [[connections/places/Samaria|Samaria (3)]] · [[connections/people/Ahaz (2 Kings 15.38)|Ahaz (2 Kings 15.38) (2)]] · [[connections/people/Asa (1 Kings 15.8)|Asa (1 Kings 15.8) (2)]] · [[connections/people/Ben-hadad (2 Kings 6.24)|Ben-hadad (2 Kings 6.24) (2)]] · [[connections/people/Ephraim|Ephraim (2)]] · [[connections/people/Hadadezer|Hadadezer (2)]] · [[connections/people/Hazael|Hazael (2)]] · [[connections/people/Jesus|Jesus (2)]] · [[connections/people/Judah (Genesis 29.35)|Judah (Genesis 29.35) (2)]] · [[connections/people/Rezin (2 Kings 15.37)|Rezin (2 Kings 15.37) (2)]] · [[connections/people/Uriah (2 Kings 16.10)|Uriah (2 Kings 16.10) (2)]] · [[connections/places/Arpad|Arpad (2)]] · [[connections/places/Gilead|Gilead (2)]] · [[connections/places/Hauran|Hauran (2)]] · [[connections/places/Hazar-enan|Hazar-enan (2)]] · [[connections/places/Kir (2 Kings 16.9)|Kir (2 Kings 16.9) (2)]] · [[connections/places/Zobah|Zobah (2)]] · [[connections/people/Abraham|Abraham]] · [[connections/people/Ananias (Acts 9.10)|Ananias (Acts 9.10)]] · [[connections/people/Aretas|Aretas]] · [[connections/people/Barnabas|Barnabas]] · [[connections/people/Eliezer (Genesis 15.2)|Eliezer (Genesis 15.2)]] · [[connections/people/Elisha|Elisha]] · [[connections/people/Hezion|Hezion]] · [[connections/people/Jeroboam (2 Kings 13.13)|Jeroboam (2 Kings 13.13)]] · [[connections/people/Tabrimmon|Tabrimmon]] · [[connections/people/Tiglath-pileser|Tiglath-pileser]] · [[connections/places/Abana|Abana]] · [[connections/places/Arabia|Arabia]] · [[connections/places/Aven Valley|Aven Valley]] · [[connections/places/Bath-rabbim|Bath-rabbim]] · [[connections/places/Berothah|Berothah]] · [[connections/places/Beth-eden|Beth-eden]] · [[connections/places/Calneh|Calneh]] · [[connections/places/Carchemish|Carchemish]] · [[connections/places/Dan|Dan]] · [[connections/places/Hadrach|Hadrach]] · [[connections/places/Hazer-hatticon|Hazer-hatticon]] · [[connections/places/Helbon|Helbon]] · [[connections/places/Heshbon|Heshbon]] · [[connections/places/Hethlon|Hethlon]] · [[connections/places/Hobah|Hobah]] · [[connections/places/Jordan|Jordan]] · [[connections/places/Judea|Judea]] · [[connections/places/Lebanon|Lebanon]] · [[connections/places/Pharpar|Pharpar]] · [[connections/places/Sahar|Sahar]] · [[connections/places/Sibraim|Sibraim]] · [[connections/places/Tamar|Tamar]]

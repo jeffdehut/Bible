@@ -1,0 +1,27 @@
+---
+book: "Job"
+chapter: 17
+testament: "OT"
+section: "Wisdom"
+language: "Hebrew"
+verses: 16
+cross_references_out: 2
+cross_references_in: 11
+tags: ["chapter", "ot", "wisdom"]
+---
+
+# Job 17
+
+← [[connections/chapters/18-job/Job 16|Job 16]] · [[connections/books/Job|Job]] · [[connections/chapters/18-job/Job 18|Job 18]] →
+
+## Text
+
+![[text/hebrew/18-job#Chapter 17]]
+
+## Cross-references
+
+- **17:9** → [[connections/chapters/20-proverbs/Proverbs 4|Proverbs 4:18]] · [[connections/chapters/23-isaiah/Isaiah 1|Isaiah 1:15–16]]
+
+## People and places
+
+*None named.*

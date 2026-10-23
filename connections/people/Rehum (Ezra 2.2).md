@@ -1,0 +1,28 @@
+---
+name: "Rehum"
+aliases: ["Harim", "Nehum"]
+type: "person"
+tipnr: "Rehum@Ezr.2.2-Neh"
+strong: "H7348A"
+original: ["רְחוּם", "חָרִם", "נְחוּם"]
+verses: 5
+chapters: 4
+first: "Ezra 2:2"
+tags: ["person"]
+---
+
+# Rehum (Ezra 2.2)
+
+One of the leaders who returned with Zerubbabel
+
+**Also called:** Harim, Nehum
+
+**Original-language names:** רְחוּם (H7348a) · חָרִם (H2766) · נְחוּם (H5149)
+
+## Appears in
+
+[[connections/chapters/15-ezra/Ezra 2|Ezra 2]] · [[connections/chapters/16-nehemiah/Nehemiah 7|Nehemiah 7]] · [[connections/chapters/16-nehemiah/Nehemiah 10|Nehemiah 10]] · [[connections/chapters/16-nehemiah/Nehemiah 12|Nehemiah 12 (2)]]
+
+## Appears in the same verse as
+
+[[connections/people/Meremoth (Ezra 8.33)|Meremoth (Ezra 8.33) (3)]] · [[connections/people/Baanah (Ezra 2.2)|Baanah (Ezra 2.2) (2)]] · [[connections/people/Bigvai (Ezra 2.2)|Bigvai (Ezra 2.2) (2)]] · [[connections/people/Bilshan|Bilshan (2)]] · [[connections/people/Israel|Israel (2)]] · [[connections/people/Joshua (Ezra 2.2)|Joshua (Ezra 2.2) (2)]] · [[connections/people/Mispar|Mispar (2)]] · [[connections/people/Mordecai (Ezra 2.2)|Mordecai (Ezra 2.2) (2)]] · [[connections/people/Nehemiah (Ezra 2.2)|Nehemiah (Ezra 2.2) (2)]] · [[connections/people/Reelaiah|Reelaiah (2)]] · [[connections/people/Zerubbabel (1 Chronicles 3.19)|Zerubbabel (1 Chronicles 3.19) (2)]] · [[connections/people/Adna (Nehemiah 12.15)|Adna (Nehemiah 12.15)]] · [[connections/people/Azariah (Nehemiah 7.7)|Azariah (Nehemiah 7.7)]] · [[connections/people/Helkai|Helkai]] · [[connections/people/Nahamani|Nahamani]] · [[connections/people/Obadiah (Nehemiah 10.6)|Obadiah (Nehemiah 10.6)]] · [[connections/people/Seraiah (Ezra 2.2)|Seraiah (Ezra 2.2)]] · [[connections/people/Shebaniah (Nehemiah 10.5)|Shebaniah (Nehemiah 10.5)]]

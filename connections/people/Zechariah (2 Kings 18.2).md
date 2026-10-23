@@ -1,0 +1,25 @@
+---
+name: "Zechariah"
+type: "person"
+tipnr: "Zechariah@2Ki.18.2-2Ch"
+strong: "H2148C"
+original: ["זְכַרְיָהוּ"]
+verses: 2
+chapters: 2
+first: "2 Kings 18:2"
+tags: ["person"]
+---
+
+# Zechariah (2 Kings 18.2)
+
+Mentioned in the genealogy of King Hezekiah
+
+**Original-language names:** זְכַרְיָהוּ (H2148a)
+
+## Appears in
+
+[[connections/chapters/12-2-kings/2 Kings 18|2 Kings 18]] · [[connections/chapters/14-2-chronicles/2 Chronicles 29|2 Chronicles 29]]
+
+## Appears in the same verse as
+
+[[connections/people/Abi|Abi (2)]] · [[connections/places/Jerusalem|Jerusalem (2)]] · [[connections/people/Hezekiah (2 Kings 16.20)|Hezekiah (2 Kings 16.20)]]

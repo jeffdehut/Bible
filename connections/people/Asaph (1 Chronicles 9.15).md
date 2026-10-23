@@ -1,0 +1,25 @@
+---
+name: "Asaph"
+type: "person"
+tipnr: "Asaph@1Ch.9.15-Neh"
+strong: "H0623I"
+original: ["אָסָף"]
+verses: 2
+chapters: 2
+first: "1 Chronicles 9:15"
+tags: ["person"]
+---
+
+# Asaph (1 Chronicles 9.15)
+
+Levite descendant who resettled in Jerusalem
+
+**Original-language names:** אָסָף (H0623)
+
+## Appears in
+
+[[connections/chapters/13-1-chronicles/1 Chronicles 9|1 Chronicles 9]] · [[connections/chapters/16-nehemiah/Nehemiah 11|Nehemiah 11]]
+
+## Appears in the same verse as
+
+[[connections/people/Mattaniah (1 Chronicles 9.15)|Mattaniah (1 Chronicles 9.15) (2)]] · [[connections/people/Mica (1 Chronicles 9.15)|Mica (1 Chronicles 9.15) (2)]] · [[connections/people/Zichri (1 Chronicles 9.15)|Zichri (1 Chronicles 9.15) (2)]] · [[connections/people/Bakbakkar|Bakbakkar]] · [[connections/people/Bakbukiah|Bakbukiah]] · [[connections/people/Galal (1 Chronicles 9.15)|Galal (1 Chronicles 9.15)]] · [[connections/people/Galal (1 Chronicles 9.16)|Galal (1 Chronicles 9.16)]] · [[connections/people/Heresh|Heresh]] · [[connections/people/Jeduthun (1 Chronicles 9.16)|Jeduthun (1 Chronicles 9.16)]] · [[connections/people/Obadiah (1 Chronicles 9.16)|Obadiah (1 Chronicles 9.16)]] · [[connections/people/Shemaiah (1 Chronicles 9.16)|Shemaiah (1 Chronicles 9.16)]]

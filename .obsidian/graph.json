@@ -1,0 +1,100 @@
+{
+  "collapse-filter": false,
+  "search": "path:connections/chapters",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": true,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "tag:#torah",
+      "color": {
+        "a": 1,
+        "rgb": 15079755
+      }
+    },
+    {
+      "query": "tag:#history",
+      "color": {
+        "a": 1,
+        "rgb": 16089649
+      }
+    },
+    {
+      "query": "tag:#wisdom",
+      "color": {
+        "a": 1,
+        "rgb": 16769305
+      }
+    },
+    {
+      "query": "tag:#prophets",
+      "color": {
+        "a": 1,
+        "rgb": 12578629
+      }
+    },
+    {
+      "query": "tag:#gospels",
+      "color": {
+        "a": 1,
+        "rgb": 3978315
+      }
+    },
+    {
+      "query": "tag:#acts",
+      "color": {
+        "a": 1,
+        "rgb": 4379892
+      }
+    },
+    {
+      "query": "tag:#pauline-epistles",
+      "color": {
+        "a": 1,
+        "rgb": 4416472
+      }
+    },
+    {
+      "query": "tag:#general-epistles",
+      "color": {
+        "a": 1,
+        "rgb": 9510580
+      }
+    },
+    {
+      "query": "tag:#revelation",
+      "color": {
+        "a": 1,
+        "rgb": 15741670
+      }
+    },
+    {
+      "query": "path:connections/people",
+      "color": {
+        "a": 1,
+        "rgb": 11119017
+      }
+    },
+    {
+      "query": "path:connections/places",
+      "color": {
+        "a": 1,
+        "rgb": 10117924
+      }
+    }
+  ],
+  "collapse-display": true,
+  "showArrow": false,
+  "textFadeMultiplier": -1.5,
+  "nodeSizeMultiplier": 1,
+  "lineSizeMultiplier": 0.3,
+  "collapse-forces": true,
+  "centerStrength": 0.5,
+  "repelStrength": 12,
+  "linkStrength": 0.6,
+  "linkDistance": 180,
+  "scale": 1,
+  "close": false
+}

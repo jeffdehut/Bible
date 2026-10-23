@@ -1,0 +1,25 @@
+---
+name: "Ahishar"
+type: "person"
+tipnr: "Ahishar@1Ki.4.6"
+strong: "H0301"
+original: ["אֲחִישָׁר"]
+verses: 1
+chapters: 1
+first: "1 Kings 4:6"
+tags: ["person"]
+---
+
+# Ahishar
+
+In charge of Solomon's palace
+
+**Original-language names:** אֲחִישָׁר (H0301)
+
+## Appears in
+
+[[connections/chapters/11-1-kings/1 Kings 4|1 Kings 4]]
+
+## Appears in the same verse as
+
+[[connections/people/Abda|Abda]] · [[connections/people/Adoram|Adoram]]

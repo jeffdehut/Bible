@@ -1,0 +1,25 @@
+---
+name: "Mahath"
+type: "person"
+tipnr: "Mahath@2Ch.31.13"
+strong: "H4287H"
+original: ["מַ֫חַת"]
+verses: 1
+chapters: 1
+first: "2 Chronicles 31:13"
+tags: ["person"]
+---
+
+# Mahath (2 Chronicles 31.13)
+
+Levite who assisted in distributing tithes during Hezekiah's reign.
+
+**Original-language names:** מַ֫חַת (H4287)
+
+## Appears in
+
+[[connections/chapters/14-2-chronicles/2 Chronicles 31|2 Chronicles 31]]
+
+## Appears in the same verse as
+
+[[connections/people/Asahel (2 Chronicles 31.13)|Asahel (2 Chronicles 31.13)]] · [[connections/people/Azariah (2 Chronicles 31.10)|Azariah (2 Chronicles 31.10)]] · [[connections/people/Azaziah (2 Chronicles 31.13)|Azaziah (2 Chronicles 31.13)]] · [[connections/people/Benaiah (2 Chronicles 31.13)|Benaiah (2 Chronicles 31.13)]] · [[connections/people/Conaniah|Conaniah]] · [[connections/people/Eliel (2 Chronicles 31.13)|Eliel (2 Chronicles 31.13)]] · [[connections/people/Hezekiah (2 Kings 16.20)|Hezekiah (2 Kings 16.20)]] · [[connections/people/Ismachiah|Ismachiah]] · [[connections/people/Jehiel (2 Chronicles 31.13)|Jehiel (2 Chronicles 31.13)]] · [[connections/people/Jerimoth (2 Chronicles 31.13)|Jerimoth (2 Chronicles 31.13)]] · [[connections/people/Jozabad (2 Chronicles 31.13)|Jozabad (2 Chronicles 31.13)]] · [[connections/people/Nahath (2 Chronicles 31.13)|Nahath (2 Chronicles 31.13)]] · [[connections/people/Shimei (2 Chronicles 31.12)|Shimei (2 Chronicles 31.12)]]

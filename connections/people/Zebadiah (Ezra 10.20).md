@@ -1,0 +1,25 @@
+---
+name: "Zebadiah"
+type: "person"
+tipnr: "Zebadiah@Ezr.10.20"
+strong: "H2069O"
+original: ["זְבַדְיָהוּ"]
+verses: 1
+chapters: 1
+first: "Ezra 10:20"
+tags: ["person"]
+---
+
+# Zebadiah (Ezra 10.20)
+
+Priest who married a foreign woman
+
+**Original-language names:** זְבַדְיָהוּ (H2069)
+
+## Appears in
+
+[[connections/chapters/15-ezra/Ezra 10|Ezra 10]]
+
+## Appears in the same verse as
+
+[[connections/people/Hanani (Ezra 10.20)|Hanani (Ezra 10.20)]] · [[connections/people/Immer (1 Chronicles 24.14)|Immer (1 Chronicles 24.14)]]

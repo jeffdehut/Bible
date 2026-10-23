@@ -1,0 +1,28 @@
+---
+name: "Toi"
+aliases: ["Tou"]
+type: "person"
+tipnr: "Toi@2Sa.8.9-1Ch"
+strong: "H8583"
+original: ["תֹּ֫עִי", "תֹּעוּ"]
+verses: 4
+chapters: 2
+first: "2 Samuel 8:9"
+tags: ["person"]
+---
+
+# Toi
+
+King of Hamath who sent his son to David
+
+**Also called:** Tou
+
+**Original-language names:** תֹּ֫עִי (H8583) · תֹּעוּ (H8583)
+
+## Appears in
+
+[[connections/chapters/10-2-samuel/2 Samuel 8|2 Samuel 8 (2)]] · [[connections/chapters/13-1-chronicles/1 Chronicles 18|1 Chronicles 18 (2)]]
+
+## Appears in the same verse as
+
+[[connections/people/David|David (4)]] · [[connections/people/Hadadezer|Hadadezer (4)]] · [[connections/people/Joram (2 Samuel 8.10)|Joram (2 Samuel 8.10) (2)]] · [[connections/places/Hamath|Hamath (2)]] · [[connections/places/Zobah|Zobah]]

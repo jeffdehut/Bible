@@ -1,0 +1,21 @@
+---
+name: "Jehohanan"
+type: "person"
+tipnr: "Jehohanan@2Ch.17.15"
+strong: "H3076J"
+original: ["יְהוֹחָנָן"]
+verses: 1
+chapters: 1
+first: "2 Chronicles 17:15"
+tags: ["person"]
+---
+
+# Jehohanan (2 Chronicles 17.15)
+
+Military commander under King Jehoshaphat of Judah
+
+**Original-language names:** יְהוֹחָנָן (H3076)
+
+## Appears in
+
+[[connections/chapters/14-2-chronicles/2 Chronicles 17|2 Chronicles 17]]
