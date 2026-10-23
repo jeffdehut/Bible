@@ -28,7 +28,7 @@ Mother of Jesus; wife of Joseph.
 
 - **Father:** [[connections/people/Heli|Heli]]
 - **Mother:** [[connections/people/wife of Heli (Luke 1.5)|wife of Heli (Luke 1.5)]]
-- **Brothers and sisters:** [[connections/people/Salome (Mark 15.40)|Salome (Mark 15.40) (uncertain)]]
+- **Brothers and sisters:** [[connections/people/Salome|Salome (uncertain)]]
 - **Spouses:** [[connections/people/Joseph (Matthew 1.16)|Joseph (Matthew 1.16)]]
 - **Children:** [[connections/people/James (Matthew 13.55)|James (Matthew 13.55)]], [[connections/people/Jesus|Jesus]], [[connections/people/Joses (Matthew 13.55)|Joses (Matthew 13.55)]], [[connections/people/Jude|Jude]], [[connections/people/Simon (Matthew 13.55)|Simon (Matthew 13.55)]]
 - **Tribe or nation:** Tribe of Levi
@@ -48,7 +48,7 @@ flowchart TB
   n4["wife of Heli (Luke 1.5)"]
   n3 --> n4
   n4 --> n0
-  n5["Salome (Mark 15.40)"]
+  n5["Salome"]
   n2 --> n5
   n6["Joseph (Matthew 1.16)"]:::spouse
   n0 -.- n6

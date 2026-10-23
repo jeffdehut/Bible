@@ -41,6 +41,6 @@ Compare: [[text/greek-tr/41-mark#Chapter 16|Textus Receptus]] · [[apparatus/gre
 
 ## People and places
 
-**People:** [[connections/people/Mary Magdalene|Mary Magdalene]], [[connections/people/Peter|Peter]], [[connections/people/James (Matthew 10.3)|James (Matthew 10.3)]], [[connections/people/Jesus|Jesus]], [[connections/people/Mary (Matthew 27.56)|Mary (Matthew 27.56)]], [[connections/people/Salome (Mark 15.40)|Salome (Mark 15.40)]]
+**People:** [[connections/people/Mary Magdalene|Mary Magdalene]], [[connections/people/Peter|Peter]], [[connections/people/James (Matthew 10.3)|James (Matthew 10.3)]], [[connections/people/Jesus|Jesus]], [[connections/people/Mary (Matthew 27.56)|Mary (Matthew 27.56)]], [[connections/people/Salome|Salome]]
 
 **Places:** [[connections/places/Magadan|Magadan]], [[connections/places/Galilee|Galilee]], [[connections/places/Nazareth|Nazareth]]

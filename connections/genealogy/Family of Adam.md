@@ -1255,7 +1255,7 @@ tags: ["genealogy"]
 - [[connections/people/Jude|Jude]] — child of [[connections/people/Joseph (Matthew 1.16)|Joseph (Matthew 1.16)]] & [[connections/people/Mary (Matthew 1.16)|Mary (Matthew 1.16)]]
 - [[connections/people/Mary (Matthew 1.16)|Mary (Matthew 1.16)]] — child of [[connections/people/Heli|Heli]] & [[connections/people/wife of Heli (Luke 1.5)|wife of Heli (Luke 1.5)]]
 - [[connections/people/Matthew|Matthew]] — child of [[connections/people/Alphaeus|Alphaeus]] (uncertain) & [[connections/people/Mary (Matthew 27.56)|Mary (Matthew 27.56)]] (uncertain)
-- [[connections/people/Salome (Mark 15.40)|Salome (Mark 15.40)]] — child of [[connections/people/Heli|Heli]] (uncertain) & [[connections/people/wife of Heli (Luke 1.5)|wife of Heli (Luke 1.5)]] (uncertain)
+- [[connections/people/Salome|Salome]] — child of [[connections/people/Heli|Heli]] (uncertain) & [[connections/people/wife of Heli (Luke 1.5)|wife of Heli (Luke 1.5)]] (uncertain)
 - [[connections/people/Simon (Matthew 13.55)|Simon (Matthew 13.55)]] — child of [[connections/people/Joseph (Matthew 1.16)|Joseph (Matthew 1.16)]] & [[connections/people/Mary (Matthew 1.16)|Mary (Matthew 1.16)]]
 
 ## Generation 77
@@ -1265,5 +1265,5 @@ tags: ["genealogy"]
 
 ## Generation 78
 
-- [[connections/people/James (Matthew 4.21)|James (Matthew 4.21)]] — child of [[connections/people/Salome (Mark 15.40)|Salome (Mark 15.40)]] (uncertain) & [[connections/people/Zebedee|Zebedee]]
-- [[connections/people/John (Matthew 4.21)|John (Matthew 4.21)]] — child of [[connections/people/Salome (Mark 15.40)|Salome (Mark 15.40)]] (uncertain) & [[connections/people/Zebedee|Zebedee]]
+- [[connections/people/James (Matthew 4.21)|James (Matthew 4.21)]] — child of [[connections/people/Salome|Salome]] (uncertain) & [[connections/people/Zebedee|Zebedee]]
+- [[connections/people/John (Matthew 4.21)|John (Matthew 4.21)]] — child of [[connections/people/Salome|Salome]] (uncertain) & [[connections/people/Zebedee|Zebedee]]

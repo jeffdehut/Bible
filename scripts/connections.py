@@ -462,7 +462,7 @@ def main():
 
     # Unique note names: the plain name, or "Name (Book c.v)" when several people (or several
     # places) share it.
-    by_name = collections.Counter((e["kind"], e["name"]) for e in entities)
+    by_name = collections.Counter((e["kind"], e["name"]) for e in entities if e["named"])
     for e in entities:
         first = min(e["verses"] or e["mentioned"], key=lambda r: (ORDER.index(r[0]), r[1], r[2]))
         # Colons can't appear in file names, so "Genesis 11:29" becomes "Genesis 11.29".

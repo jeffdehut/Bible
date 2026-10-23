@@ -25,7 +25,7 @@ The unnamed grandmother of Jesus.
 
 - **Father:** [[connections/people/father of Elizabeth (Luke 1.5)|father of Elizabeth (Luke 1.5)]]
 - **Spouses:** [[connections/people/Heli|Heli]]
-- **Children:** [[connections/people/Mary (Matthew 1.16)|Mary (Matthew 1.16)]], [[connections/people/Salome (Mark 15.40)|Salome (Mark 15.40) (uncertain)]]
+- **Children:** [[connections/people/Mary (Matthew 1.16)|Mary (Matthew 1.16)]], [[connections/people/Salome|Salome (uncertain)]]
 - **Tribe or nation:** Tribe of Levi(?)
 
 **Family group:** [[connections/genealogy/Family of Adam|Family of Adam]], generation 2
@@ -39,7 +39,7 @@ flowchart TB
   n0 -.- n2
   n3["Mary (Matthew 1.16)"]
   n0 --> n3
-  n4["Salome (Mark 15.40)"]
+  n4["Salome"]
   n0 --> n4
   classDef me stroke-width:3px
   classDef spouse stroke-dasharray:4

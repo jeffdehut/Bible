@@ -29,4 +29,4 @@ Follower of Jesus, first witness of His resurrection.
 
 ## Appears in the same verse as
 
-[[connections/places/Magadan|Magadan (12)]] · [[connections/people/Mary (Matthew 27.56)|Mary (Matthew 27.56) (7)]] · [[connections/people/James (Matthew 10.3)|James (Matthew 10.3) (4)]] · [[connections/people/Joses (Matthew 27.56)|Joses (Matthew 27.56) (3)]] · [[connections/people/Jesus|Jesus (2)]] · [[connections/people/Salome (Mark 15.40)|Salome (Mark 15.40) (2)]] · [[connections/people/Alphaeus|Alphaeus]] · [[connections/people/Joanna|Joanna]] · [[connections/people/Mary (Matthew 1.16)|Mary (Matthew 1.16)]] · [[connections/people/Zebedee|Zebedee]]
+[[connections/places/Magadan|Magadan (12)]] · [[connections/people/Mary (Matthew 27.56)|Mary (Matthew 27.56) (7)]] · [[connections/people/James (Matthew 10.3)|James (Matthew 10.3) (4)]] · [[connections/people/Joses (Matthew 27.56)|Joses (Matthew 27.56) (3)]] · [[connections/people/Jesus|Jesus (2)]] · [[connections/people/Salome|Salome (2)]] · [[connections/people/Alphaeus|Alphaeus]] · [[connections/people/Joanna|Joanna]] · [[connections/people/Mary (Matthew 1.16)|Mary (Matthew 1.16)]] · [[connections/people/Zebedee|Zebedee]]

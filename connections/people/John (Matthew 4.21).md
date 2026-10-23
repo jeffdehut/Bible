@@ -30,7 +30,7 @@ Apostle and son of Zebedee
 ## Family
 
 - **Father:** [[connections/people/Zebedee|Zebedee]]
-- **Mother:** [[connections/people/Salome (Mark 15.40)|Salome (Mark 15.40) (uncertain)]]
+- **Mother:** [[connections/people/Salome|Salome (uncertain)]]
 - **Brothers and sisters:** [[connections/people/James (Matthew 4.21)|James (Matthew 4.21)]]
 
 **Family group:** [[connections/genealogy/Family of Adam|Family of Adam]], generation 78
@@ -39,7 +39,7 @@ Apostle and son of Zebedee
 flowchart TB
   n0["John (Matthew 4.21)"]:::me
   n1["Heli"]
-  n2["Salome (Mark 15.40)"]
+  n2["Salome"]
   n1 --> n2
   n3["wife of Heli (Luke 1.5)"]
   n3 --> n2

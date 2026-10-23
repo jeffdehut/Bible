@@ -26,7 +26,7 @@ Father of the apostles James and John
 
 ## Family
 
-- **Spouses:** [[connections/people/Salome (Mark 15.40)|Salome (Mark 15.40) (uncertain)]]
+- **Spouses:** [[connections/people/Salome|Salome (uncertain)]]
 - **Children:** [[connections/people/James (Matthew 4.21)|James (Matthew 4.21)]], [[connections/people/John (Matthew 4.21)|John (Matthew 4.21)]]
 
 **Family group:** [[connections/genealogy/Family of Adam|Family of Adam]], generation 77
@@ -34,7 +34,7 @@ Father of the apostles James and John
 ```mermaid
 flowchart TB
   n0["Zebedee"]:::me
-  n1["Salome (Mark 15.40)"]:::spouse
+  n1["Salome"]:::spouse
   n0 -.- n1
   n2["James (Matthew 4.21)"]
   n0 --> n2

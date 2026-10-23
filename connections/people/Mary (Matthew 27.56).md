@@ -58,4 +58,4 @@ flowchart TB
 
 ## Appears in the same verse as
 
-[[connections/people/Mary Magdalene|Mary Magdalene (7)]] · [[connections/places/Magadan|Magadan (7)]] · [[connections/people/James (Matthew 10.3)|James (Matthew 10.3) (4)]] · [[connections/people/Joses (Matthew 27.56)|Joses (Matthew 27.56) (2)]] · [[connections/people/Salome (Mark 15.40)|Salome (Mark 15.40) (2)]] · [[connections/people/Alphaeus|Alphaeus]] · [[connections/people/Jesus|Jesus]] · [[connections/people/Joanna|Joanna]] · [[connections/people/Zebedee|Zebedee]]
+[[connections/people/Mary Magdalene|Mary Magdalene (7)]] · [[connections/places/Magadan|Magadan (7)]] · [[connections/people/James (Matthew 10.3)|James (Matthew 10.3) (4)]] · [[connections/people/Joses (Matthew 27.56)|Joses (Matthew 27.56) (2)]] · [[connections/people/Salome|Salome (2)]] · [[connections/people/Alphaeus|Alphaeus]] · [[connections/people/Jesus|Jesus]] · [[connections/people/Joanna|Joanna]] · [[connections/people/Zebedee|Zebedee]]
