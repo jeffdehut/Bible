@@ -22,6 +22,10 @@ tags: ["chapter", "nt", "gospels"]
 
 ![[text/greek/41-mark#Chapter 2]]
 
+## Plain English translation
+
+![[text/english/41-mark#Chapter 2]]
+
 Compare: [[text/greek-tr/41-mark#Chapter 2|Textus Receptus]] · [[apparatus/greek/41-mark|SBLGNT apparatus]]
 
 ## Cross-references

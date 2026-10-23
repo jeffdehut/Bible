@@ -1267,3 +1267,334 @@
 [^13-8]: Some manuscripts leave out "his".
 [^13-9]: Or "it".
 [^13-10]: Many manuscripts add "and pray".
+
+## Chapter 14
+
+*Status: draft*
+
+**1** It was two days before the Passover and the Festival of Unleavened Bread. The chief priests and the scribes were looking for a way to arrest Jesus by deceit and kill him.
+
+**2** "But not during the festival," they said, "or there may be a riot among the people."
+
+**3** While Jesus was in Bethany, reclining at table in the house of Simon the leper,[^14-1] a woman came with an alabaster jar of very expensive perfume made of pure nard. She broke the jar and poured the perfume on his head.
+
+**4** Some of those present said indignantly to one another, "Why was this perfume wasted?
+
+**5** It could have been sold for more than three hundred denarii[^14-2] and the money given to the poor." And they scolded her harshly.
+
+**6** But Jesus said, "Leave her alone. Why are you bothering her? She has done a beautiful thing for me.
+
+**7** You always have the poor with you, and you can help them whenever you want. But you will not always have me.
+
+**8** She has done what she could. She has anointed my body beforehand for its burial.
+
+**9** Truly I tell you, wherever the good news is proclaimed in all the world, what she has done will also be told in memory of her."
+
+**10** Then Judas Iscariot, one of the Twelve, went to the chief priests to hand Jesus over to them.
+
+**11** They were delighted to hear it and promised to give him money. So he began looking for an opportunity to hand him over.
+
+**12** On the first day of the Festival of Unleavened Bread, when the Passover lamb was sacrificed, Jesus' disciples asked him, "Where do you want us to go and prepare for you to eat the Passover?"
+
+**13** He sent two of his disciples, telling them, "Go into the city, and a man carrying a jar of water will meet you. Follow him.
+
+**14** Wherever he goes in, say to the owner of the house, 'The Teacher asks: Where is my guest room, where I may eat the Passover with my disciples?'
+
+**15** He will show you a large upstairs room, furnished and ready. Make preparations for us there."
+
+**16** The disciples went out, came into the city, and found everything just as he had told them. And they prepared the Passover.
+
+**17** When evening came, Jesus arrived with the Twelve.
+
+**18** While they were reclining at table and eating, Jesus said, "Truly I tell you, one of you will betray me, one who is eating with me."
+
+**19** They became distressed and said to him one after another, "Surely not I?"
+
+**20** He said to them, "It is one of the Twelve, the one who is dipping bread into the bowl with me.
+
+**21** The Son of Man is going just as it is written about him, but how terrible it will be for that man by whom the Son of Man is betrayed! It would be better for that man if he had never been born."
+
+**22** While they were eating, Jesus took bread, blessed it, broke it, and gave it to them, saying, "Take it;[^14-16] this is my body."
+
+**23** Then he took a cup, gave thanks, and gave it to them, and they all drank from it.
+
+**24** He said to them, "This is my blood of the covenant,[^14-17] which is poured out for many.
+
+**25** Truly I tell you, I will never again drink of the fruit of the vine until that day when I drink it new in the kingdom of God."
+
+**26** After singing a hymn, they went out to the Mount of Olives.
+
+**27** Jesus said to them, "You will all fall away,[^14-3] for it is written: 'I will strike the shepherd, and the sheep will be scattered.'[^14-4]
+
+**28** But after I am raised, I will go ahead of you into Galilee."
+
+**29** Peter said to him, "Even if everyone else falls away, I will not."
+
+**30** Jesus said to him, "Truly I tell you, today, this very night, before the rooster crows twice, you will deny me three times."
+
+**31** But Peter insisted emphatically, "Even if I must die with you, I will never deny you." And all the others said the same.
+
+**32** They came to a place called Gethsemane, and Jesus said to his disciples, "Sit here while I pray."
+
+**33** He took Peter, James, and John with him, and he began to be deeply distressed and troubled.
+
+**34** He said to them, "My soul is overwhelmed with sorrow to the point of death. Stay here and keep watch."
+
+**35** Going a little farther, he fell to the ground and prayed that if it were possible, the hour might pass from him.
+
+**36** "Abba,[^14-5] Father," he said, "everything is possible for you. Take this cup away from me. Yet not what I want, but what you want."
+
+**37** Then he came and found them sleeping, and he said to Peter, "Simon, are you asleep? Couldn't you keep watch for one hour?
+
+**38** Keep watch and pray, so that you will not come into testing.[^14-6] The spirit is willing, but the flesh is weak."
+
+**39** Again he went away and prayed, saying the same words.
+
+**40** When he came back, he again found them sleeping, because their eyes were heavy. They did not know what to say to him.
+
+**41** He came the third time and said to them, "Are you still sleeping and resting?[^14-7] Enough! The hour has come. Look, the Son of Man is being betrayed into the hands of sinners.
+
+**42** Get up, let us go. Look, my betrayer is near."
+
+**43** Just then, while he was still speaking, Judas, one of the Twelve, arrived. With him was a crowd armed with swords and clubs, sent by the chief priests, the scribes, and the elders.
+
+**44** The betrayer had arranged a signal with them: "The one I kiss is the man. Arrest him and lead him away under guard."
+
+**45** As soon as he arrived, Judas went straight to Jesus and said, "Rabbi!" and kissed him.
+
+**46** They seized Jesus and arrested him.
+
+**47** But one of the bystanders drew his sword and struck the high priest's servant, cutting off his ear.
+
+**48** Jesus said to them, "Have you come out with swords and clubs to capture me as though I were a rebel?[^14-8]
+
+**49** Day after day I was with you in the temple, teaching, and you did not arrest me. But this has happened so that the scriptures would be fulfilled."
+
+**50** Then everyone deserted him and fled.
+
+**51** A young man was following him, wearing nothing but a linen cloth. They seized him,
+
+**52** but he left the linen cloth behind and ran away naked.
+
+**53** They led Jesus away to the high priest, and all the chief priests, the elders, and the scribes assembled.
+
+**54** Peter followed him at a distance, right into the courtyard of the high priest. He sat with the guards, warming himself at the fire.
+
+**55** The chief priests and the whole council[^14-9] were looking for testimony against Jesus so that they could put him to death, but they found none.
+
+**56** Many gave false testimony against him, but their statements did not agree.
+
+**57** Then some stood up and gave this false testimony against him:
+
+**58** "We heard him say, 'I will destroy this temple made with human hands, and in three days I will build another, not made with hands.'"
+
+**59** Yet even then their testimony did not agree.
+
+**60** Then the high priest stood up before them and asked Jesus, "Have you no answer? What is this testimony these men are bringing against you?"
+
+**61** But Jesus remained silent and gave no answer. Again the high priest asked him, "Are you the Messiah, the Son of the Blessed One?"
+
+**62** "I am," said Jesus, "and you will see the Son of Man sitting at the right hand of the Power[^14-10] and coming with the clouds of heaven."[^14-11]
+
+**63** The high priest tore his clothes and said, "Why do we need any more witnesses?
+
+**64** You have heard the blasphemy. What is your decision?" They all condemned him as deserving death.
+
+**65** Some began to spit on him. They blindfolded him, struck him with their fists, and said to him, "Prophesy!" And the guards took him and beat him.
+
+**66** While Peter was below in the courtyard, one of the high priest's servant girls came by.
+
+**67** When she saw Peter warming himself, she looked closely at him and said, "You also were with that Nazarene, Jesus."
+
+**68** But he denied it: "I don't know or understand what you're talking about." He went out into the entryway, and a rooster crowed.[^14-12]
+
+**69** The servant girl saw him there and again began to tell those standing around, "This man is one of them."
+
+**70** Again he denied it. A little later those standing nearby said to Peter again, "Surely you are one of them, for you are a Galilean, and your accent shows it."[^14-13]
+
+**71** He began to call down curses[^14-14] and to swear, "I don't know this man you're talking about."
+
+**72** At once the rooster crowed a second time. Then Peter remembered what Jesus had said to him: "Before the rooster crows twice, you will deny me three times." And he broke down and wept.[^14-15]
+
+[^14-1]: That is, someone who had had a skin disease; see 1:40.
+[^14-2]: About a year's wages for a laborer.
+[^14-3]: Or "stumble"; also in verse 29. Many manuscripts add "because of me this night".
+[^14-4]: Zechariah 13:7.
+[^14-5]: Aramaic for "father".
+[^14-6]: Or "temptation".
+[^14-7]: Or "Sleep on now and take your rest."
+[^14-8]: Or "a robber", "a bandit". Greek *lestes*.
+[^14-9]: Greek *synedrion*, the Sanhedrin, the supreme Jewish council.
+[^14-10]: "The Power" is a reverent way of referring to God.
+[^14-11]: Psalm 110:1; Daniel 7:13.
+[^14-12]: Some manuscripts leave out "and a rooster crowed".
+[^14-13]: These words are in the SBLGNT, following most later manuscripts. Many modern editions leave them out.
+[^14-14]: The object of the curses is not stated: on himself, or on those accusing him.
+[^14-15]: The meaning of the Greek word translated "broke down" is uncertain; perhaps "he thought about it" or "he threw himself down".
+[^14-16]: Many manuscripts add "eat".
+[^14-17]: Many manuscripts read "the new covenant".
+
+## Chapter 15
+
+*Status: draft*
+
+**1** At once, early in the morning, the chief priests with the elders, the scribes, and the whole council[^15-1] reached a decision. They bound Jesus, led him away, and handed him over to Pilate.
+
+**2** Pilate asked him, "Are you the king of the Jews?" He answered him, "You say so."[^15-2]
+
+**3** The chief priests accused him of many things.
+
+**4** So Pilate asked him again, "Have you no answer? See how many charges they are bringing against you."
+
+**5** But Jesus made no further answer, so that Pilate was amazed.
+
+**6** At the festival he used to release for them one prisoner, whomever they asked for.
+
+**7** A man called Barabbas was in prison with the rebels who had committed murder during the uprising.
+
+**8** The crowd came up and began asking Pilate to do for them what he usually did.
+
+**9** Pilate answered them, "Do you want me to release for you the king of the Jews?"
+
+**10** For he knew it was out of envy that the chief priests had handed Jesus over.
+
+**11** But the chief priests stirred up the crowd to have him release Barabbas for them instead.
+
+**12** Pilate answered them again, "Then what do you want me to do with the one you call the king of the Jews?"
+
+**13** They shouted back, "Crucify him!"
+
+**14** Pilate said to them, "Why? What wrong has he done?" But they shouted all the louder, "Crucify him!"
+
+**15** Wanting to satisfy the crowd, Pilate released Barabbas for them. He had Jesus flogged, and handed him over to be crucified.
+
+**16** The soldiers led Jesus away into the courtyard, that is, the governor's headquarters,[^15-3] and they called together the whole cohort.[^15-4]
+
+**17** They dressed him in purple, twisted together a crown of thorns, and put it on him.
+
+**18** Then they began to salute him: "Hail, king of the Jews!"
+
+**19** They kept striking his head with a reed and spitting on him, and they knelt down and paid homage to him.
+
+**20** When they had finished mocking him, they took off the purple robe and put his own clothes back on him. Then they led him out to crucify him.
+
+**21** A passerby, Simon of Cyrene, the father of Alexander and Rufus, was coming in from the country, and they forced him to carry Jesus' cross.
+
+**22** They brought Jesus to the place called Golgotha, which means "Place of a Skull".
+
+**23** They offered him wine mixed with myrrh, but he did not take it.
+
+**24** They crucified him and divided his clothes among them, casting lots to decide what each would take.[^15-5]
+
+**25** It was nine in the morning[^15-6] when they crucified him.
+
+**26** The written notice of the charge against him read: "The King of the Jews."
+
+**27** With him they crucified two rebels,[^15-7] one on his right and one on his left.[^15-8]
+
+**29** Those who passed by insulted him, shaking their heads[^15-9] and saying, "Aha! You who would destroy the temple and build it in three days,
+
+**30** save yourself and come down from the cross!"
+
+**31** In the same way the chief priests, with the scribes, mocked him among themselves: "He saved others, but he cannot save himself!
+
+**32** Let the Messiah, the king of Israel, come down now from the cross, so that we may see and believe." Those crucified with him also taunted him.
+
+**33** At noon[^15-10] darkness came over the whole land[^15-11] until three in the afternoon.
+
+**34** At three in the afternoon Jesus cried out with a loud voice, "Eloi, Eloi, lema sabachthani?" which means, "My God, my God, why have you forsaken me?"[^15-12]
+
+**35** When some of those standing nearby heard this, they said, "Listen, he is calling Elijah."
+
+**36** Someone ran, filled a sponge with sour wine,[^15-13] put it on a reed, and gave it to him to drink, saying, "Wait, let us see whether Elijah comes to take him down."
+
+**37** Then Jesus let out a loud cry and breathed his last.
+
+**38** The curtain of the temple was torn in two from top to bottom.
+
+**39** When the centurion who stood facing him saw how he breathed his last,[^15-14] he said, "Truly this man was God's Son!"[^15-15]
+
+**40** Some women were also watching from a distance. Among them were Mary Magdalene, Mary the mother of James the younger and of Joses, and Salome.
+
+**41** When he was in Galilee, these women used to follow him and look after his needs.[^15-16] Many other women who had come up with him to Jerusalem were there too.
+
+**42** Evening had already come. Since it was the day of Preparation, that is, the day before the Sabbath,
+
+**43** Joseph of Arimathea, a respected member of the council,[^15-17] who was himself waiting for the kingdom of God, came and went boldly to Pilate and asked for the body of Jesus.
+
+**44** Pilate was surprised that he was already dead. He summoned the centurion and asked him whether he had been dead for long.
+
+**45** When he learned from the centurion that it was so, he granted the corpse to Joseph.
+
+**46** Joseph bought a linen cloth, took him down, wrapped him in the linen, and laid him in a tomb cut out of the rock. Then he rolled a stone against the entrance of the tomb.
+
+**47** Mary Magdalene and Mary the mother of Joses saw where he was laid.
+
+[^15-1]: Greek *synedrion*, the Sanhedrin.
+[^15-2]: Or "You have said it." The reply neither simply affirms nor denies.
+[^15-3]: Greek *praitorion*, the Praetorium, the Roman governor's residence.
+[^15-4]: A Roman military unit, nominally 600 soldiers.
+[^15-5]: See Psalm 22:19 (22:18 in most English Bibles).
+[^15-6]: Literally "the third hour", counted from sunrise.
+[^15-7]: Or "robbers", "bandits". Greek *lestai*.
+[^15-8]: Many manuscripts add verse 28: "And the scripture was fulfilled that says, 'He was counted among the lawless'" (Isaiah 53:12). The SBLGNT, following the earliest manuscripts, does not include it, so this translation has no verse 28.
+[^15-9]: See Psalm 22:8 (22:7 in most English Bibles).
+[^15-10]: Literally "the sixth hour"; "three in the afternoon" is literally "the ninth hour".
+[^15-11]: Or "the whole earth".
+[^15-12]: Psalm 22:2 (22:1 in most English Bibles), quoted in Aramaic.
+[^15-13]: Cheap wine vinegar, a common drink of soldiers and laborers. See Psalm 69:22 (69:21 in most English Bibles).
+[^15-14]: Many manuscripts read "saw that he cried out and breathed his last".
+[^15-15]: Or "a son of God". The Greek has no article.
+[^15-16]: Or "serve him".
+[^15-17]: Greek *bouleutes*, a member of the Sanhedrin.
+
+## Chapter 16
+
+*Status: draft*
+
+**1** When the Sabbath was over, Mary Magdalene, Mary the mother of James, and Salome bought spices so that they could go and anoint Jesus' body.
+
+**2** Very early on the first day of the week, just after sunrise, they went to the tomb.
+
+**3** They were saying to one another, "Who will roll the stone away from the entrance of the tomb for us?"
+
+**4** But when they looked up, they saw that the stone, which was very large, had already been rolled away.
+
+**5** As they entered the tomb, they saw a young man dressed in a white robe sitting on the right side, and they were alarmed.
+
+**6** "Don't be alarmed," he said to them. "You are looking for Jesus of Nazareth, who was crucified. He has been raised! He is not here. See the place where they laid him.
+
+**7** But go, tell his disciples and Peter, 'He is going ahead of you into Galilee. There you will see him, just as he told you.'"
+
+**8** They went out and fled from the tomb, for trembling and astonishment had seized them. And they said nothing to anyone, because they were afraid.[^16-1] ⟦They reported briefly to Peter and those with him all that they had been told. After this, Jesus himself sent out through them, from east to west, the sacred and imperishable proclamation of eternal salvation. Amen.⟧[^16-2]
+
+**9** ⟦[^16-3]When Jesus rose early on the first day of the week, he appeared first to Mary Magdalene, from whom he had driven out seven demons.
+
+**10** She went and told those who had been with him, who were mourning and weeping.
+
+**11** But when they heard that he was alive and had been seen by her, they did not believe it.
+
+**12** After this he appeared in a different form to two of them as they were walking into the country.
+
+**13** They went back and told the rest, but they did not believe them either.
+
+**14** Later he appeared to the Eleven as they were reclining at table. He rebuked them for their unbelief and their hardness of heart, because they had not believed those who had seen him after he was raised.
+
+**15** He said to them, "Go into all the world and proclaim the good news to all creation.
+
+**16** Whoever believes and is baptized will be saved, but whoever does not believe will be condemned.
+
+**17** These signs will accompany those who believe: in my name they will drive out demons; they will speak in new tongues;[^16-4]
+
+**18** they will pick up snakes;[^16-5] and if they drink anything deadly, it will not harm them at all; they will lay their hands on the sick, and they will recover."
+
+**19** So the Lord Jesus, after he had spoken to them, was taken up into heaven and sat down at the right hand of God.[^16-6]
+
+**20** And they went out and proclaimed everywhere, while the Lord worked with them and confirmed the message by the signs that accompanied it.⟧
+
+[^16-1]: The two oldest complete manuscripts of Mark, Codex Sinaiticus and Codex Vaticanus (4th century), end here, as do some other early witnesses. Many scholars think Mark's Gospel ended at this point, or that its original ending was lost.
+[^16-2]: This "shorter ending" is found in a few manuscripts, usually followed by verses 9–20. The SBLGNT prints it in double brackets ⟦ ⟧, meaning it was almost certainly not part of what Mark wrote; this translation does the same.
+[^16-3]: Verses 9–20, the "longer ending", are in most manuscripts and editions but not in the earliest ones. Its vocabulary and style differ from the rest of Mark, and it draws on accounts in the other Gospels and Acts. The SBLGNT prints it in double brackets ⟦ ⟧, as an early addition rather than part of the original text.
+[^16-4]: Some manuscripts leave out "new".
+[^16-5]: Many manuscripts read "they will pick up snakes with their hands".
+[^16-6]: See Psalm 110:1.

@@ -5,8 +5,8 @@ Greek texts in this repository. It aims to say what the original says, as clearl
 English allows, and to show its work wherever a choice had to be made. It is open: anyone may
 use, copy, adapt and redistribute it.
 
-**Status:** pilot. Three chapters are drafted to settle the approach: Genesis 1, Psalm 23 and
-John 1. See [translation/STATUS.md](translation/STATUS.md). No chapter has had human review
+**Status:** pilot. Three chapters were drafted to settle the approach (Genesis 1, Psalm 23 and
+John 1), followed by the whole Gospel of Mark as the first complete book. See [translation/STATUS.md](translation/STATUS.md). No chapter has had human review
 yet, so nothing here should be quoted as a finished translation.
 
 ## Goals
