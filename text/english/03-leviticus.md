@@ -1320,3 +1320,88 @@
 [^17-8]: Or "makes atonement for the life".
 [^17-9]: The Hebrew is difficult. Literally "For the life of all flesh, its blood is in its life."
 [^17-10]: Literally "he will bear his iniquity".
+
+## Chapter 18
+
+*Status: draft*
+
+**1** Yahweh[^18-1] said to Moses,
+
+**2** "Speak to the Israelites and tell them: I am Yahweh your God.
+
+**3** You must not do as they do in the land of Egypt, where you used to live, and you must not do as they do in the land of Canaan, where I am bringing you. Do not follow their customs.[^18-2]
+
+**4** You are to carry out my rulings and keep my decrees,[^18-3] and live by them. I am Yahweh your God.
+
+**5** Keep my decrees and my rulings, for the person who does them will live by them.[^18-4] I am Yahweh.
+
+**6** "None of you is to approach any close relative[^18-5] to have sexual relations.[^18-6] I am Yahweh.
+
+**7** Do not have sexual relations with your father or with your mother.[^18-7] She is your mother; do not have sexual relations with her.
+
+**8** Do not have sexual relations with your father's wife. That would dishonor your father.[^18-8]
+
+**9** Do not have sexual relations with your sister, your father's daughter or your mother's daughter, whether she was born in the same household or elsewhere.[^18-9]
+
+**10** Do not have sexual relations with your son's daughter or your daughter's daughter, for that would dishonor you.[^18-10]
+
+**11** Do not have sexual relations with the daughter of your father's wife, born to your father. She is your sister; do not have sexual relations with her.
+
+**12** Do not have sexual relations with your father's sister. She is your father's close relative.
+
+**13** Do not have sexual relations with your mother's sister, for she is your mother's close relative.
+
+**14** Do not dishonor your father's brother:[^18-11] do not approach his wife. She is your aunt.
+
+**15** Do not have sexual relations with your daughter-in-law. She is your son's wife; do not have sexual relations with her.
+
+**16** Do not have sexual relations with your brother's wife. That would dishonor your brother.
+
+**17** Do not have sexual relations with a woman and her daughter. Do not marry her son's daughter or her daughter's daughter to have sexual relations with her. They are close relatives.[^18-12] It is depravity.[^18-13]
+
+**18** Do not marry a woman as a rival to her sister, having sexual relations with her while her sister is still alive.
+
+**19** Do not approach a woman to have sexual relations with her while she is unclean during her monthly period.
+
+**20** Do not have sexual intercourse with your neighbor's wife and so make yourself unclean with her.
+
+**21** Do not give any of your children to be handed over[^18-14] to Molech,[^18-15] and so profane the name of your God. I am Yahweh.
+
+**22** Do not lie with a male as one lies with a woman. It is a detestable act.[^18-16]
+
+**23** Do not have sexual intercourse with any animal and so make yourself unclean with it. No woman is to present herself to an animal to mate with it. It is a perversion.[^18-17]
+
+**24** "Do not make yourselves unclean by any of these things, for by all these things the nations that I am driving out before you made themselves unclean.
+
+**25** The land became unclean, so I punished it for its wrongdoing,[^18-18] and the land vomited out its inhabitants.
+
+**26** But you must keep my decrees and my rulings, and you must not do any of these detestable things, neither the native-born nor the foreigner[^18-19] who lives among you.
+
+**27** For the people of the land who were there before you did all these detestable things, and the land became unclean.
+
+**28** Then the land will not vomit you out for making it unclean, as it vomited out the nation that was there before you.
+
+**29** Whoever does any of these detestable things, the people who do them must be cut off from among their people.
+
+**30** So keep my charge,[^18-20] and do not follow any of the detestable customs that were practiced before you, and do not make yourselves unclean by them. I am Yahweh your God."
+
+[^18-1]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^18-2]: Literally "do not walk in their decrees".
+[^18-3]: Hebrew *chuqqot*, "decrees, rules" (the word in the phrase "permanent rule"), and *mishpatim*, "rulings, judgments". Also in verses 5 and 26.
+[^18-4]: Or "will find life through them". Compare Nehemiah 9:29; Ezekiel 20:11; Romans 10:5; Galatians 3:12.
+[^18-5]: Literally "the flesh of his flesh". Also in verses 12, 13 and 17.
+[^18-6]: Literally "to uncover nakedness", an idiom for sexual intercourse used throughout verses 6–19.
+[^18-7]: Literally "The nakedness of your father and the nakedness of your mother you shall not uncover." Many understand this as one prohibition, "Do not dishonor your father by having sexual relations with your mother", since in verses 8, 14 and 16 a man's "nakedness" stands for his wife's (compare 20:11).
+[^18-8]: Literally "It is your father's nakedness." So also in verse 16, "It is your brother's nakedness."
+[^18-9]: Literally "born of the house or born outside". This may mean a sister born in your father's household or one born to another marriage.
+[^18-10]: Literally "for their nakedness is your own nakedness".
+[^18-11]: Literally "Do not uncover the nakedness of your father's brother".
+[^18-12]: The Septuagint reads "They are your close relatives."
+[^18-13]: Hebrew *zimmah*, "wickedness, lewdness": a deliberate, shameful act.
+[^18-14]: Literally "to make pass over". Elsewhere children are "made to pass through the fire" to Molech, that is, sacrificed by burning (2 Kings 23:10; compare Jeremiah 32:35).
+[^18-15]: A god to whom children were sacrificed. The name may be a deliberate distortion of *melekh*, "king".
+[^18-16]: Hebrew *to'evah*, "abomination, something detestable". Also in verses 26, 27, 29 and 30.
+[^18-17]: Hebrew *tevel*, "confusion": a violation of the natural order.
+[^18-18]: Literally "I visited its iniquity upon it".
+[^18-19]: Hebrew *ger*: someone from elsewhere who lives among the Israelites, a resident foreigner.
+[^18-20]: Hebrew *mishmeret*, "guard duty, obligation": what Yahweh requires.
