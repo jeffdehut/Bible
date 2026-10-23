@@ -63,7 +63,9 @@ def parse_chapter(path):
 
 def main():
     args = sys.argv[1:]
-    check_only = bool(args) and args[0] == "--check"
+    if args and args[0] != "--check":
+        sys.exit(__doc__)
+    check_only = bool(args)
     wanted = {a.lower() for a in args[1:]} if check_only else set()
     errors, chapters = [], collections.defaultdict(dict)
     for num, osis, name, testament in BOOKS:
