@@ -7,6 +7,9 @@ original: ["בָּנִי", "בִּנּוּי"]
 verses: 4
 chapters: 4
 first: "Ezra 2:10"
+placed: "456 BC"
+placed_year: -455
+sex: "male"
 tags: ["person"]
 ---
 
@@ -15,6 +18,10 @@ tags: ["person"]
 Ancestor of a family who returned from Babylonian exile.
 
 **Original-language names:** בָּנִי (H1137) · בִּנּוּי (H1131)
+
+## When
+
+- **Placed around:** [[connections/timeline/5th century BC|456 BC]] *(Ussher: the median date of the passages naming them)*
 
 ## Appears in
 

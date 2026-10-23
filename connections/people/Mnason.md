@@ -7,6 +7,9 @@ original: ["Μνάσων"]
 verses: 1
 chapters: 1
 first: "Acts 21:16"
+placed: "AD 60"
+placed_year: 60
+sex: "male"
 tags: ["person"]
 ---
 
@@ -15,6 +18,14 @@ tags: ["person"]
 A Cypriot disciple who hosted Paul in Jerusalem.
 
 **Original-language names:** Μνάσων (G3416)
+
+## When
+
+- **Placed around:** [[connections/timeline/1st century AD|AD 60]] *(Ussher: the median date of the passages naming them)*
+
+## Events
+
+- [[connections/timeline/1st century AD|AD 54]] · [[connections/events/Voyage from Miletus to Jerusalem|Voyage from Miletus to Jerusalem]]
 
 ## Appears in
 

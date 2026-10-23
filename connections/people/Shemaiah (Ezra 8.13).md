@@ -7,6 +7,9 @@ original: ["שְׁמַעְיָ֫הוּ"]
 verses: 1
 chapters: 1
 first: "Ezra 8:13"
+placed: "457 BC"
+placed_year: -456
+sex: "male"
 tags: ["person"]
 ---
 
@@ -15,6 +18,10 @@ tags: ["person"]
 Returnee from Babylon
 
 **Original-language names:** שְׁמַעְיָ֫הוּ (H8098)
+
+## When
+
+- **Placed around:** [[connections/timeline/5th century BC|457 BC]] *(Ussher: the median date of the passages naming them)*
 
 ## Appears in
 

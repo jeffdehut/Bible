@@ -7,6 +7,10 @@ original: ["אֲבִימֶ֫לֶךְ"]
 verses: 37
 chapters: 4
 first: "Judges 8:31"
+placed: "1233 BC"
+placed_year: -1232
+generation: 3
+sex: "male"
 tags: ["person"]
 ---
 
@@ -15,6 +19,38 @@ tags: ["person"]
 Son of Gideon, self-proclaimed king of Shechem
 
 **Original-language names:** אֲבִימֶ֫לֶךְ (H0040)
+
+## When
+
+- **Placed around:** [[connections/timeline/13th century BC|1233 BC]] *(Ussher: the median date of the passages naming them)*
+
+## Family
+
+- **Father:** [[connections/people/Gideon|Gideon]]
+- **Brothers and sisters:** [[connections/people/Jether (Judges 8.20)|Jether (Judges 8.20)]], [[connections/people/Jotham (Judges 9.5)|Jotham (Judges 9.5)]]
+
+**Line of descent** (3 generations, father to son): [[connections/people/Joash (Judges 6.11)|Joash (Judges 6.11)]] → [[connections/people/Gideon|Gideon]] → **Abimelech (Judges 8.31)**
+
+**Family group:** [[connections/genealogy/Family of Joash (Judges 6.11)|Family of Joash (Judges 6.11)]], generation 3
+
+```mermaid
+flowchart TB
+  n0["Abimelech (Judges 8.31)"]:::me
+  n1["Joash (Judges 6.11)"]
+  n2["Gideon"]
+  n1 --> n2
+  n2 --> n0
+  n3["Jether (Judges 8.20)"]
+  n2 --> n3
+  n4["Jotham (Judges 9.5)"]
+  n2 --> n4
+  classDef me stroke-width:3px
+  classDef spouse stroke-dasharray:4
+```
+
+## Events
+
+- [[connections/timeline/13th century BC|1218 BC]] · [[connections/events/Usurpation by Abimelech|Usurpation by Abimelech]]
 
 ## Appears in
 

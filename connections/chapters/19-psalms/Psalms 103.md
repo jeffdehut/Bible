@@ -7,12 +7,16 @@ language: "Hebrew"
 verses: 22
 cross_references_out: 170
 cross_references_in: 115
+dated_from: -1033
+dated_to: -1033
 tags: ["chapter", "ot", "wisdom"]
 ---
 
 # Psalms 103
 
 ← [[connections/chapters/19-psalms/Psalms 102|Psalms 102]] · [[connections/books/Psalms|Psalms]] · [[connections/chapters/19-psalms/Psalms 104|Psalms 104]] →
+
+**Dated** *(Ussher, after the Treasury of Scripture Knowledge)*: [[connections/timeline/11th century BC|1034 BC]]
 
 ## Text
 

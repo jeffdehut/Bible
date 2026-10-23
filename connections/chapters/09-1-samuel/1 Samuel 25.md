@@ -7,12 +7,16 @@ language: "Hebrew"
 verses: 44
 cross_references_out: 2
 cross_references_in: 15
+dated_from: -1059
+dated_to: -1059
 tags: ["chapter", "ot", "history"]
 ---
 
 # 1 Samuel 25
 
 ← [[connections/chapters/09-1-samuel/1 Samuel 24|1 Samuel 24]] · [[connections/books/1 Samuel|1 Samuel]] · [[connections/chapters/09-1-samuel/1 Samuel 26|1 Samuel 26]] →
+
+**Dated** *(Ussher, after the Treasury of Scripture Knowledge)*: [[connections/timeline/11th century BC|1060 BC]]
 
 ## Text
 

@@ -7,12 +7,16 @@ language: "Greek"
 verses: 17
 cross_references_out: 141
 cross_references_in: 111
+dated_from: 66
+dated_to: 66
 tags: ["chapter", "nt", "pauline-epistles"]
 ---
 
 # 2 Timothy 3
 
 ← [[connections/chapters/55-2-timothy/2 Timothy 2|2 Timothy 2]] · [[connections/books/2 Timothy|2 Timothy]] · [[connections/chapters/55-2-timothy/2 Timothy 4|2 Timothy 4]] →
+
+**Dated** *(Ussher, after the Treasury of Scripture Knowledge)*: [[connections/timeline/1st century AD|AD 66]]
 
 ## Text
 

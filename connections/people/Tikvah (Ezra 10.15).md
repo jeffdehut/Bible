@@ -7,6 +7,8 @@ original: ["תִּקְוָה"]
 verses: 1
 chapters: 1
 first: "Ezra 10:15"
+generation: 1
+sex: "male"
 tags: ["person"]
 ---
 
@@ -15,6 +17,21 @@ tags: ["person"]
 Opposed Ezra's reforms regarding foreign wives
 
 **Original-language names:** תִּקְוָה (H8616)
+
+## Family
+
+- **Children:** [[connections/people/Jahzeiah|Jahzeiah]]
+
+**Family group:** [[connections/genealogy/Family of Tikvah (Ezra 10.15)|Family of Tikvah (Ezra 10.15)]], generation 1
+
+```mermaid
+flowchart TB
+  n0["Tikvah (Ezra 10.15)"]:::me
+  n1["Jahzeiah"]
+  n0 --> n1
+  classDef me stroke-width:3px
+  classDef spouse stroke-dasharray:4
+```
 
 ## Appears in
 

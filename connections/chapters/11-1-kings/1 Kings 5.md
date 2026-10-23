@@ -7,12 +7,16 @@ language: "Hebrew"
 verses: 32
 cross_references_out: 12
 cross_references_in: 15
+dated_from: -1013
+dated_to: -1013
 tags: ["chapter", "ot", "history"]
 ---
 
 # 1 Kings 5
 
 ← [[connections/chapters/11-1-kings/1 Kings 4|1 Kings 4]] · [[connections/books/1 Kings|1 Kings]] · [[connections/chapters/11-1-kings/1 Kings 6|1 Kings 6]] →
+
+**Dated** *(Ussher, after the Treasury of Scripture Knowledge)*: [[connections/timeline/11th century BC|1014 BC]]
 
 ## Text
 

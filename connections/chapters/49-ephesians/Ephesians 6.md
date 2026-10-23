@@ -7,12 +7,16 @@ language: "Greek"
 verses: 24
 cross_references_out: 245
 cross_references_in: 175
+dated_from: 64
+dated_to: 64
 tags: ["chapter", "nt", "pauline-epistles"]
 ---
 
 # Ephesians 6
 
 ← [[connections/chapters/49-ephesians/Ephesians 5|Ephesians 5]] · [[connections/books/Ephesians|Ephesians]] · [[connections/chapters/50-philippians/Philippians 1|Philippians 1]] →
+
+**Dated** *(Ussher, after the Treasury of Scripture Knowledge)*: [[connections/timeline/1st century AD|AD 64]]
 
 ## Text
 

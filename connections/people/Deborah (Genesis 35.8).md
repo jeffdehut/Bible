@@ -7,6 +7,7 @@ original: ["דְּבוֹרָה"]
 verses: 1
 chapters: 1
 first: "Genesis 35:8"
+sex: "female"
 tags: ["person"]
 ---
 

@@ -7,12 +7,16 @@ language: "Greek"
 verses: 22
 cross_references_out: 226
 cross_references_in: 256
+dated_from: 60
+dated_to: 60
 tags: ["chapter", "nt", "general-epistles"]
 ---
 
 # 1 Peter 3
 
 ← [[connections/chapters/60-1-peter/1 Peter 2|1 Peter 2]] · [[connections/books/1 Peter|1 Peter]] · [[connections/chapters/60-1-peter/1 Peter 4|1 Peter 4]] →
+
+**Dated** *(Ussher, after the Treasury of Scripture Knowledge)*: [[connections/timeline/1st century AD|AD 60]]
 
 ## Text
 

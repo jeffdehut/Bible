@@ -7,6 +7,10 @@ original: ["עֲמָשָׂא"]
 verses: 11
 chapters: 5
 first: "2 Samuel 17:25"
+placed: "1022 BC"
+placed_year: -1021
+generation: 37
+sex: "male"
 tags: ["person"]
 ---
 
@@ -15,6 +19,33 @@ tags: ["person"]
 Military commander, son of Abigail (David's sister), killed by Joab
 
 **Original-language names:** עֲמָשָׂא (H6021)
+
+## When
+
+- **Placed around:** [[connections/timeline/11th century BC|1022 BC]] *(Ussher: the median date of the passages naming them)*
+
+## Family
+
+- **Father:** [[connections/people/Jether (2 Samuel 17.25)|Jether (2 Samuel 17.25)]]
+- **Mother:** [[connections/people/Abigail (2 Samuel 17.25)|Abigail (2 Samuel 17.25)]]
+- **Tribe or nation:** Arabia
+
+**Family group:** [[connections/genealogy/Family of Adam|Family of Adam]], generation 37
+
+```mermaid
+flowchart TB
+  n0["Amasa (2 Samuel 17.25)"]:::me
+  n1["Jesse"]
+  n2["Abigail (2 Samuel 17.25)"]
+  n1 --> n2
+  n3["Nahash (2 Samuel 17.25)"]
+  n3 --> n2
+  n2 --> n0
+  n4["Jether (2 Samuel 17.25)"]
+  n4 --> n0
+  classDef me stroke-width:3px
+  classDef spouse stroke-dasharray:4
+```
 
 ## Appears in
 

@@ -7,12 +7,16 @@ language: "Greek"
 verses: 55
 cross_references_out: 71
 cross_references_in: 53
+dated_from: 33
+dated_to: 33
 tags: ["chapter", "nt", "gospels"]
 ---
 
 # Luke 23
 
 ← [[connections/chapters/42-luke/Luke 22|Luke 22]] · [[connections/books/Luke|Luke]] · [[connections/chapters/42-luke/Luke 24|Luke 24]] →
+
+**Dated** *(Ussher, after the Treasury of Scripture Knowledge)*: [[connections/timeline/1st century AD|AD 33]]
 
 ## Text
 

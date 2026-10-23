@@ -7,6 +7,10 @@ original: ["עֲזוּבָה"]
 verses: 2
 chapters: 2
 first: "1 Kings 22:42"
+placed: "914 BC"
+placed_year: -913
+generation: 2
+sex: "female"
 tags: ["person"]
 ---
 
@@ -15,6 +19,31 @@ tags: ["person"]
 The mother of King Jehoshaphat of Judah.
 
 **Original-language names:** עֲזוּבָה (H5806)
+
+## When
+
+- **Placed around:** [[connections/timeline/10th century BC|914 BC]] *(Ussher: the median date of the passages naming them)*
+
+## Family
+
+- **Father:** [[connections/people/Shilhi|Shilhi]]
+- **Spouses:** [[connections/people/Asa (1 Kings 15.8)|Asa (1 Kings 15.8)]]
+- **Children:** [[connections/people/Jehoshaphat (1 Kings 15.24)|Jehoshaphat (1 Kings 15.24)]]
+
+**Family group:** [[connections/genealogy/Family of Adam|Family of Adam]], generation 2
+
+```mermaid
+flowchart TB
+  n0["Azubah (1 Kings 22.42)"]:::me
+  n1["Shilhi"]
+  n1 --> n0
+  n2["Asa (1 Kings 15.8)"]:::spouse
+  n0 -.- n2
+  n3["Jehoshaphat (1 Kings 15.24)"]
+  n0 --> n3
+  classDef me stroke-width:3px
+  classDef spouse stroke-dasharray:4
+```
 
 ## Appears in
 

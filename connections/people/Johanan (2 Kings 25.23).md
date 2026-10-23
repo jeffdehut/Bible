@@ -7,6 +7,10 @@ original: ["יוֹחָנָן"]
 verses: 15
 chapters: 5
 first: "2 Kings 25:23"
+placed: "588 BC"
+placed_year: -587
+generation: 2
+sex: "male"
 tags: ["person"]
 ---
 
@@ -15,6 +19,28 @@ tags: ["person"]
 A Judean military leader after the fall of Jerusalem
 
 **Original-language names:** יוֹחָנָן (H3110)
+
+## When
+
+- **Placed around:** [[connections/timeline/6th century BC|588 BC]] *(Ussher: the median date of the passages naming them)*
+
+## Family
+
+- **Father:** [[connections/people/Kareah|Kareah]]
+- **Brothers and sisters:** [[connections/people/Jonathan (Jeremiah 40.8)|Jonathan (Jeremiah 40.8)]]
+
+**Family group:** [[connections/genealogy/Family of Kareah|Family of Kareah]], generation 2
+
+```mermaid
+flowchart TB
+  n0["Johanan (2 Kings 25.23)"]:::me
+  n1["Kareah"]
+  n1 --> n0
+  n2["Jonathan (Jeremiah 40.8)"]
+  n1 --> n2
+  classDef me stroke-width:3px
+  classDef spouse stroke-dasharray:4
+```
 
 ## Appears in
 

@@ -7,12 +7,16 @@ language: "Hebrew"
 verses: 20
 cross_references_out: 26
 cross_references_in: 63
+dated_from: -712
+dated_to: -712
 tags: ["chapter", "ot", "prophets"]
 ---
 
 # Isaiah 32
 
 ← [[connections/chapters/23-isaiah/Isaiah 31|Isaiah 31]] · [[connections/books/Isaiah|Isaiah]] · [[connections/chapters/23-isaiah/Isaiah 33|Isaiah 33]] →
+
+**Dated** *(Ussher, after the Treasury of Scripture Knowledge)*: [[connections/timeline/8th century BC|713 BC]]
 
 ## Text
 

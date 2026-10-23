@@ -7,12 +7,16 @@ language: "Greek"
 verses: 18
 cross_references_out: 166
 cross_references_in: 137
+dated_from: 60
+dated_to: 60
 tags: ["chapter", "nt", "general-epistles"]
 ---
 
 # James 3
 
 ← [[connections/chapters/59-james/James 2|James 2]] · [[connections/books/James|James]] · [[connections/chapters/59-james/James 4|James 4]] →
+
+**Dated** *(Ussher, after the Treasury of Scripture Knowledge)*: [[connections/timeline/1st century AD|AD 60]]
 
 ## Text
 

@@ -7,12 +7,16 @@ language: "Hebrew"
 verses: 44
 cross_references_out: 19
 cross_references_in: 21
+dated_from: -893
+dated_to: -893
 tags: ["chapter", "ot", "history"]
 ---
 
 # 2 Kings 4
 
 ← [[connections/chapters/12-2-kings/2 Kings 3|2 Kings 3]] · [[connections/books/2 Kings|2 Kings]] · [[connections/chapters/12-2-kings/2 Kings 5|2 Kings 5]] →
+
+**Dated** *(Ussher, after the Treasury of Scripture Knowledge)*: [[connections/timeline/9th century BC|894 BC]]
 
 ## Text
 

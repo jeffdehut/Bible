@@ -7,12 +7,16 @@ language: "Hebrew"
 verses: 21
 cross_references_out: 0
 cross_references_in: 0
+dated_from: -877
+dated_to: -877
 tags: ["chapter", "ot", "history"]
 ---
 
 # 2 Chronicles 23
 
 ← [[connections/chapters/14-2-chronicles/2 Chronicles 22|2 Chronicles 22]] · [[connections/books/2 Chronicles|2 Chronicles]] · [[connections/chapters/14-2-chronicles/2 Chronicles 24|2 Chronicles 24]] →
+
+**Dated** *(Ussher, after the Treasury of Scripture Knowledge)*: [[connections/timeline/9th century BC|878 BC]]
 
 ## Text
 

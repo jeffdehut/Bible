@@ -7,6 +7,8 @@ original: ["שְׁמָעָה"]
 verses: 1
 chapters: 1
 first: "1 Chronicles 12:3"
+generation: 1
+sex: "male"
 tags: ["person"]
 ---
 
@@ -15,6 +17,23 @@ tags: ["person"]
 Benjaminite warrior who joined David
 
 **Original-language names:** שְׁמָעָה (H8094)
+
+## Family
+
+- **Children:** [[connections/people/Ahiezer (1 Chronicles 12.3)|Ahiezer (1 Chronicles 12.3)]], [[connections/people/Joash (1 Chronicles 12.3)|Joash (1 Chronicles 12.3)]]
+
+**Family group:** [[connections/genealogy/Family of Shemaah|Family of Shemaah]], generation 1
+
+```mermaid
+flowchart TB
+  n0["Shemaah"]:::me
+  n1["Ahiezer (1 Chronicles 12.3)"]
+  n0 --> n1
+  n2["Joash (1 Chronicles 12.3)"]
+  n0 --> n2
+  classDef me stroke-width:3px
+  classDef spouse stroke-dasharray:4
+```
 
 ## Appears in
 

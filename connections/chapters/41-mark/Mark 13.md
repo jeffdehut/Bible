@@ -7,12 +7,16 @@ language: "Greek"
 verses: 37
 cross_references_out: 62
 cross_references_in: 101
+dated_from: 33
+dated_to: 33
 tags: ["chapter", "nt", "gospels"]
 ---
 
 # Mark 13
 
 ← [[connections/chapters/41-mark/Mark 12|Mark 12]] · [[connections/books/Mark|Mark]] · [[connections/chapters/41-mark/Mark 14|Mark 14]] →
+
+**Dated** *(Ussher, after the Treasury of Scripture Knowledge)*: [[connections/timeline/1st century AD|AD 33]]
 
 ## Text
 

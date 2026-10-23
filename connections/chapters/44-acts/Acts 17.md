@@ -7,12 +7,16 @@ language: "Greek"
 verses: 34
 cross_references_out: 101
 cross_references_in: 89
+dated_from: 53
+dated_to: 53
 tags: ["chapter", "nt", "acts"]
 ---
 
 # Acts 17
 
 ← [[connections/chapters/44-acts/Acts 16|Acts 16]] · [[connections/books/Acts|Acts]] · [[connections/chapters/44-acts/Acts 18|Acts 18]] →
+
+**Dated** *(Ussher, after the Treasury of Scripture Knowledge)*: [[connections/timeline/1st century AD|AD 53]]
 
 ## Text
 

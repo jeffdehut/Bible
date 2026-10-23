@@ -7,6 +7,7 @@ original: ["אַשְׁפְּנַז"]
 verses: 1
 chapters: 1
 first: "Daniel 1:3"
+sex: "male"
 tags: ["person"]
 ---
 

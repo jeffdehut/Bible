@@ -7,12 +7,16 @@ language: "Hebrew/Aramaic"
 verses: 30
 cross_references_out: 1
 cross_references_in: 12
+dated_from: -586
+dated_to: -586
 tags: ["chapter", "ot", "prophets"]
 ---
 
 # Jeremiah 44
 
 ← [[connections/chapters/24-jeremiah/Jeremiah 43|Jeremiah 43]] · [[connections/books/Jeremiah|Jeremiah]] · [[connections/chapters/24-jeremiah/Jeremiah 45|Jeremiah 45]] →
+
+**Dated** *(Ussher, after the Treasury of Scripture Knowledge)*: [[connections/timeline/6th century BC|587 BC]]
 
 ## Text
 

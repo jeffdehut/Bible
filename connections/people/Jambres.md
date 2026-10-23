@@ -7,6 +7,9 @@ original: ["Ἰαμβρῆς"]
 verses: 1
 chapters: 1
 first: "2 Timothy 3:8"
+placed: "AD 66"
+placed_year: 66
+sex: "male"
 tags: ["person"]
 ---
 
@@ -15,6 +18,10 @@ tags: ["person"]
 Egyptian magician who opposed Moses
 
 **Original-language names:** Ἰαμβρῆς (G2387)
+
+## When
+
+- **Placed around:** [[connections/timeline/1st century AD|AD 66]] *(Ussher: the median date of the passages naming them)*
 
 ## Appears in
 

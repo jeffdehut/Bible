@@ -7,6 +7,10 @@ original: ["הַקוֹץ"]
 verses: 2
 chapters: 1
 first: "Nehemiah 3:4"
+placed: "445 BC"
+placed_year: -444
+generation: 1
+sex: "male"
 tags: ["person"]
 ---
 
@@ -15,6 +19,25 @@ tags: ["person"]
 A priest who helped repair the wall of Jerusalem.
 
 **Original-language names:** הַקוֹץ (H6976)
+
+## When
+
+- **Placed around:** [[connections/timeline/5th century BC|445 BC]] *(Ussher: the median date of the passages naming them)*
+
+## Family
+
+- **Children:** [[connections/people/Uriah (Ezra 8.33)|Uriah (Ezra 8.33)]]
+
+**Family group:** [[connections/genealogy/Family of Hakkoz (Nehemiah 3.4)|Family of Hakkoz (Nehemiah 3.4)]], generation 1
+
+```mermaid
+flowchart TB
+  n0["Hakkoz (Nehemiah 3.4)"]:::me
+  n1["Uriah (Ezra 8.33)"]
+  n0 --> n1
+  classDef me stroke-width:3px
+  classDef spouse stroke-dasharray:4
+```
 
 ## Appears in
 

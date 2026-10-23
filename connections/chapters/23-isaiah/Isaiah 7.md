@@ -7,12 +7,16 @@ language: "Hebrew"
 verses: 25
 cross_references_out: 28
 cross_references_in: 43
+dated_from: -740
+dated_to: -740
 tags: ["chapter", "ot", "prophets"]
 ---
 
 # Isaiah 7
 
 ← [[connections/chapters/23-isaiah/Isaiah 6|Isaiah 6]] · [[connections/books/Isaiah|Isaiah]] · [[connections/chapters/23-isaiah/Isaiah 8|Isaiah 8]] →
+
+**Dated** *(Ussher, after the Treasury of Scripture Knowledge)*: [[connections/timeline/8th century BC|741 BC]]
 
 ## Text
 

@@ -7,12 +7,16 @@ language: "Greek"
 verses: 25
 cross_references_out: 307
 cross_references_in: 394
+dated_from: 60
+dated_to: 60
 tags: ["chapter", "nt", "general-epistles"]
 ---
 
 # 1 Peter 1
 
 ← [[connections/chapters/59-james/James 5|James 5]] · [[connections/books/1 Peter|1 Peter]] · [[connections/chapters/60-1-peter/1 Peter 2|1 Peter 2]] →
+
+**Dated** *(Ussher, after the Treasury of Scripture Knowledge)*: [[connections/timeline/1st century AD|AD 60]]
 
 ## Text
 

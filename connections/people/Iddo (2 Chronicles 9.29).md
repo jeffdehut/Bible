@@ -8,6 +8,9 @@ original: ["עִדּוֹ", "יֶעְדּוֹ"]
 verses: 3
 chapters: 3
 first: "2 Chronicles 9:29"
+placed: "958 BC"
+placed_year: -957
+sex: "male"
 tags: ["person"]
 ---
 
@@ -18,6 +21,10 @@ A seer and prophet during the divided monarchy
 **Also called:** Eddo
 
 **Original-language names:** עִדּוֹ (H5714) · יֶעְדּוֹ (H3260)
+
+## When
+
+- **Placed around:** [[connections/timeline/10th century BC|958 BC]] *(Ussher: the median date of the passages naming them)*
 
 ## Appears in
 

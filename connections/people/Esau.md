@@ -8,6 +8,12 @@ original: ["עֵשָׂו", "Ἠσαῦ", "אֱדוֹם"]
 verses: 70
 chapters: 13
 first: "Genesis 25:25"
+born: "1836 BC"
+born_year: -1835
+placed: "1760 BC"
+placed_year: -1759
+generation: 23
+sex: "male"
 tags: ["person"]
 ---
 
@@ -18,6 +24,65 @@ Isaac's firstborn son; sold birthright to Jacob; became Edom.
 **Also called:** Edom
 
 **Original-language names:** עֵשָׂו (H6215) · Ἠσαῦ (G2269) · אֱדוֹם (H0123)
+
+## When
+
+- **Lived:** [[connections/timeline/19th century BC|1836 BC]] – ? *(Jones)*
+- **Placed around:** [[connections/timeline/18th century BC|1760 BC]] *(Ussher: the median date of the passages naming them)*
+
+## Family
+
+- **Father:** [[connections/people/Isaac|Isaac]]
+- **Mother:** [[connections/people/Rebekah|Rebekah]]
+- **Brothers and sisters:** [[connections/people/Israel|Israel]]
+- **Spouses:** [[connections/people/Adah (Genesis 26.34)|Adah (Genesis 26.34)]], [[connections/people/Judith|Judith]], [[connections/people/Mahalath (Genesis 28.9)|Mahalath (Genesis 28.9)]], [[connections/people/Oholibamah|Oholibamah]]
+- **Children:** [[connections/people/Eliphaz (Genesis 36.4)|Eliphaz (Genesis 36.4)]], [[connections/people/Jalam|Jalam]], [[connections/people/Jeush (Genesis 36.5)|Jeush (Genesis 36.5)]], [[connections/people/Korah (Genesis 36.5)|Korah (Genesis 36.5)]], [[connections/people/Reuel (Genesis 36.4)|Reuel (Genesis 36.4)]]
+- **Tribe or nation:** Edom
+
+**Line of descent** (23 generations, father to son): [[connections/people/Adam|Adam]] → [[connections/people/Seth|Seth]] → [[connections/people/Enosh|Enosh]] → [[connections/people/Kenan|Kenan]] → [[connections/people/Mahalalel (Genesis 5.12)|Mahalalel (Genesis 5.12)]] → [[connections/people/Jared|Jared]] → [[connections/people/Enoch (Genesis 5.18)|Enoch (Genesis 5.18)]] → [[connections/people/Methuselah|Methuselah]] → [[connections/people/Lamech (Genesis 5.25)|Lamech (Genesis 5.25)]] → [[connections/people/Noah (Genesis 5.29)|Noah (Genesis 5.29)]] → [[connections/people/Shem|Shem]] → [[connections/people/Arpachshad|Arpachshad]] → [[connections/people/Cainan|Cainan]] → [[connections/people/Shelah (Genesis 10.24)|Shelah (Genesis 10.24)]] → [[connections/people/Eber (Genesis 10.21)|Eber (Genesis 10.21)]] → [[connections/people/Peleg|Peleg]] → [[connections/people/Reu|Reu]] → [[connections/people/Serug|Serug]] → [[connections/people/Nahor (Genesis 11.22)|Nahor (Genesis 11.22)]] → [[connections/people/Terah|Terah]] → [[connections/people/Abraham|Abraham]] → [[connections/people/Isaac|Isaac]] → **Esau**
+
+**Family group:** [[connections/genealogy/Family of Adam|Family of Adam]], generation 23
+
+```mermaid
+flowchart TB
+  n0["Esau"]:::me
+  n1["Abraham"]
+  n2["Isaac"]
+  n1 --> n2
+  n3["Sarah"]
+  n3 --> n2
+  n2 --> n0
+  n4["Bethuel"]
+  n5["Rebekah"]
+  n4 --> n5
+  n5 --> n0
+  n6["Israel"]
+  n2 --> n6
+  n7["Adah (Genesis 26.34)"]:::spouse
+  n0 -.- n7
+  n8["Judith"]:::spouse
+  n0 -.- n8
+  n9["Mahalath (Genesis 28.9)"]:::spouse
+  n0 -.- n9
+  n10["Oholibamah"]:::spouse
+  n0 -.- n10
+  n11["Eliphaz (Genesis 36.4)"]
+  n0 --> n11
+  n12["Jalam"]
+  n0 --> n12
+  n13["Jeush (Genesis 36.5)"]
+  n0 --> n13
+  n14["Korah (Genesis 36.5)"]
+  n0 --> n14
+  n15["Reuel (Genesis 36.4)"]
+  n0 --> n15
+  classDef me stroke-width:3px
+  classDef spouse stroke-dasharray:4
+```
+
+## Events
+
+- [[connections/timeline/19th century BC|1836 BC]] · [[connections/events/Birth of Jacob and Esau|Birth of Jacob and Esau]]
 
 ## Appears in
 

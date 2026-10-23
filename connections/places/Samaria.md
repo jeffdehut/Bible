@@ -17,6 +17,36 @@ Capital city of the northern kingdom of Israel; Samaritan inhabitants
 
 **Original-language names:** שֹׁמְרוֹן (H8111) · שׇֽׁמְרָ֑יִן (H8115) · Σαμάρεια (G4540) · Σαμαρεῖτις (G4542)
 
+## Events
+
+- [[connections/timeline/10th century BC|975 BC]] · [[connections/events/Reign of Jeroboam I|Reign of Jeroboam I]]
+- [[connections/timeline/10th century BC|954 BC]] · [[connections/events/Reign of Nadab|Reign of Nadab]]
+- [[connections/timeline/10th century BC|953 BC]] · [[connections/events/Reign of Baasha|Reign of Baasha]]
+- [[connections/timeline/10th century BC|930 BC]] · [[connections/events/Reign of Elah|Reign of Elah]]
+- [[connections/timeline/10th century BC|929 BC]] · [[connections/events/Reign of Zimri|Reign of Zimri]]
+- [[connections/timeline/10th century BC|929 BC]] · [[connections/events/Reign of Tibni|Reign of Tibni]]
+- [[connections/timeline/10th century BC|929 BC]] · [[connections/events/Reign of Omri|Reign of Omri]]
+- [[connections/timeline/10th century BC|918 BC]] · [[connections/events/Reign of Ahab|Reign of Ahab]]
+- [[connections/timeline/10th century BC|918 BC]] · [[connections/events/Death of Omri|Death of Omri]]
+- [[connections/timeline/9th century BC|897 BC]] · [[connections/events/Reign of Ahaziah|Reign of Ahaziah]]
+- [[connections/timeline/9th century BC|897 BC]] · [[connections/events/Reign of Joram|Reign of Joram]]
+- [[connections/timeline/9th century BC|886 BC]] · [[connections/events/Reign of Jehu|Reign of Jehu]]
+- [[connections/timeline/9th century BC|857 BC]] · [[connections/events/Death of Jehu|Death of Jehu]]
+- [[connections/timeline/9th century BC|857 BC]] · [[connections/events/Reign of Jehoahaz|Reign of Jehoahaz]]
+- [[connections/timeline/9th century BC|840 BC]] · [[connections/events/Death of Jehoahaz|Death of Jehoahaz]]
+- [[connections/timeline/9th century BC|840 BC]] · [[connections/events/Reign of Jehoash|Reign of Jehoash]]
+- [[connections/timeline/9th century BC|825 BC]] · [[connections/events/Death of Jehoahash|Death of Jehoahash]]
+- [[connections/timeline/9th century BC|825 BC]] · [[connections/events/Reign of Jeroboam II|Reign of Jeroboam II]]
+- [[connections/timeline/8th century BC|784 BC]] · [[connections/events/Reign of Zachariah|Reign of Zachariah]]
+- [[connections/timeline/8th century BC|772 BC]] · [[connections/events/Reign of Shallum|Reign of Shallum]]
+- [[connections/timeline/8th century BC|772 BC]] · [[connections/events/Death of Shallum|Death of Shallum]]
+- [[connections/timeline/8th century BC|772 BC]] · [[connections/events/Reign of Menahem|Reign of Menahem]]
+- [[connections/timeline/8th century BC|761 BC]] · [[connections/events/Reign of Pekahiah|Reign of Pekahiah]]
+- [[connections/timeline/8th century BC|759 BC]] · [[connections/events/Death of Pekahiah|Death of Pekahiah]]
+- [[connections/timeline/8th century BC|759 BC]] · [[connections/events/Reign of Pekah|Reign of Pekah]]
+- [[connections/timeline/8th century BC|730 BC]] · [[connections/events/Reign of Hoshea|Reign of Hoshea]]
+- [[connections/timeline/1st century AD|AD 31]] · [[connections/events/Philip preaches in Samaria|Philip preaches in Samaria]]
+
 ## Appears in
 
 [[connections/chapters/11-1-kings/1 Kings 13|1 Kings 13]] · [[connections/chapters/11-1-kings/1 Kings 16|1 Kings 16 (4)]] · [[connections/chapters/11-1-kings/1 Kings 18|1 Kings 18]] · [[connections/chapters/11-1-kings/1 Kings 20|1 Kings 20 (5)]] · [[connections/chapters/11-1-kings/1 Kings 21|1 Kings 21 (2)]] · [[connections/chapters/11-1-kings/1 Kings 22|1 Kings 22 (4)]] · [[connections/chapters/12-2-kings/2 Kings 1|2 Kings 1 (2)]] · [[connections/chapters/12-2-kings/2 Kings 2|2 Kings 2]] · [[connections/chapters/12-2-kings/2 Kings 3|2 Kings 3 (2)]] · [[connections/chapters/12-2-kings/2 Kings 5|2 Kings 5]] · [[connections/chapters/12-2-kings/2 Kings 6|2 Kings 6 (4)]] · [[connections/chapters/12-2-kings/2 Kings 7|2 Kings 7 (2)]] · [[connections/chapters/12-2-kings/2 Kings 10|2 Kings 10 (5)]] · [[connections/chapters/12-2-kings/2 Kings 13|2 Kings 13 (5)]] · [[connections/chapters/12-2-kings/2 Kings 14|2 Kings 14 (3)]] · [[connections/chapters/12-2-kings/2 Kings 15|2 Kings 15 (7)]] · [[connections/chapters/12-2-kings/2 Kings 17|2 Kings 17 (6)]] · [[connections/chapters/12-2-kings/2 Kings 18|2 Kings 18 (3)]] · [[connections/chapters/12-2-kings/2 Kings 21|2 Kings 21]] · [[connections/chapters/12-2-kings/2 Kings 23|2 Kings 23 (2)]] · [[connections/chapters/14-2-chronicles/2 Chronicles 18|2 Chronicles 18 (2)]] · [[connections/chapters/14-2-chronicles/2 Chronicles 22|2 Chronicles 22]] · [[connections/chapters/14-2-chronicles/2 Chronicles 25|2 Chronicles 25 (2)]] · [[connections/chapters/14-2-chronicles/2 Chronicles 28|2 Chronicles 28 (3)]] · [[connections/chapters/15-ezra/Ezra 4|Ezra 4 (2)]] · [[connections/chapters/16-nehemiah/Nehemiah 3|Nehemiah 3]] · [[connections/chapters/23-isaiah/Isaiah 7|Isaiah 7]] · [[connections/chapters/23-isaiah/Isaiah 8|Isaiah 8]] · [[connections/chapters/23-isaiah/Isaiah 9|Isaiah 9]] · [[connections/chapters/23-isaiah/Isaiah 10|Isaiah 10 (3)]] · [[connections/chapters/23-isaiah/Isaiah 36|Isaiah 36]] · [[connections/chapters/24-jeremiah/Jeremiah 23|Jeremiah 23]] · [[connections/chapters/24-jeremiah/Jeremiah 31|Jeremiah 31]] · [[connections/chapters/24-jeremiah/Jeremiah 41|Jeremiah 41]] · [[connections/chapters/26-ezekiel/Ezekiel 16|Ezekiel 16 (4)]] · [[connections/chapters/26-ezekiel/Ezekiel 23|Ezekiel 23 (2)]] · [[connections/chapters/28-hosea/Hosea 7|Hosea 7]] · [[connections/chapters/28-hosea/Hosea 8|Hosea 8 (2)]] · [[connections/chapters/28-hosea/Hosea 10|Hosea 10 (2)]] · [[connections/chapters/28-hosea/Hosea 14|Hosea 14]] · [[connections/chapters/30-amos/Amos 3|Amos 3 (2)]] · [[connections/chapters/30-amos/Amos 4|Amos 4]] · [[connections/chapters/30-amos/Amos 6|Amos 6]] · [[connections/chapters/30-amos/Amos 8|Amos 8]] · [[connections/chapters/31-obadiah/Obadiah 1|Obadiah 1]] · [[connections/chapters/33-micah/Micah 1|Micah 1 (3)]] · [[connections/chapters/42-luke/Luke 17|Luke 17]] · [[connections/chapters/43-john/John 4|John 4 (4)]] · [[connections/chapters/44-acts/Acts 1|Acts 1]] · [[connections/chapters/44-acts/Acts 8|Acts 8 (4)]] · [[connections/chapters/44-acts/Acts 9|Acts 9]] · [[connections/chapters/44-acts/Acts 15|Acts 15]]

@@ -17,6 +17,12 @@ A mountain range where Noah's ark rested after the flood.
 
 **Original-language names:** אֲרָרַט (H0780)
 
+## Events
+
+- [[connections/timeline/24th century BC|2348 BC]] · [[connections/events/The Great Flood|The Great Flood]]
+- [[connections/timeline/24th century BC|2347 BC]] · [[connections/events/The flood subsides|The flood subsides]]
+- [[connections/timeline/24th century BC|2347 BC]] · [[connections/events/Leaving the Ark|Leaving the Ark]]
+
 ## Appears in
 
 [[connections/chapters/01-genesis/Genesis 8|Genesis 8]] · [[connections/chapters/12-2-kings/2 Kings 19|2 Kings 19]] · [[connections/chapters/23-isaiah/Isaiah 37|Isaiah 37]] · [[connections/chapters/24-jeremiah/Jeremiah 51|Jeremiah 51]]

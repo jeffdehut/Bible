@@ -7,6 +7,9 @@ original: ["בֻּנִּי"]
 verses: 1
 chapters: 1
 first: "Nehemiah 10:16"
+placed: "445 BC"
+placed_year: -444
+sex: "male"
 tags: ["person"]
 ---
 
@@ -15,6 +18,10 @@ tags: ["person"]
 Israelite leader who sealed the covenant during Nehemiah's time
 
 **Original-language names:** בֻּנִּי (H1138)
+
+## When
+
+- **Placed around:** [[connections/timeline/5th century BC|445 BC]] *(Ussher: the median date of the passages naming them)*
 
 ## Appears in
 

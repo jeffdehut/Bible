@@ -7,12 +7,16 @@ language: "Hebrew/Aramaic"
 verses: 30
 cross_references_out: 18
 cross_references_in: 22
+dated_from: -597
+dated_to: -597
 tags: ["chapter", "ot", "prophets"]
 ---
 
 # Jeremiah 22
 
 ← [[connections/chapters/24-jeremiah/Jeremiah 21|Jeremiah 21]] · [[connections/books/Jeremiah|Jeremiah]] · [[connections/chapters/24-jeremiah/Jeremiah 23|Jeremiah 23]] →
+
+**Dated** *(Ussher, after the Treasury of Scripture Knowledge)*: [[connections/timeline/6th century BC|598 BC]]
 
 ## Text
 

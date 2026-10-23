@@ -17,6 +17,10 @@ The southern region of Israel, a semi-arid area
 
 **Original-language names:** נֶ֫גֶב (H5045)
 
+## Events
+
+- [[connections/timeline/20th century BC|1921 BC]] · [[connections/events/Abraham enters Canaan|Abraham enters Canaan]]
+
 ## Appears in
 
 [[connections/chapters/01-genesis/Genesis 12|Genesis 12]] · [[connections/chapters/01-genesis/Genesis 13|Genesis 13 (2)]] · [[connections/chapters/01-genesis/Genesis 20|Genesis 20]] · [[connections/chapters/01-genesis/Genesis 24|Genesis 24]] · [[connections/chapters/04-numbers/Numbers 13|Numbers 13 (3)]] · [[connections/chapters/04-numbers/Numbers 21|Numbers 21]] · [[connections/chapters/04-numbers/Numbers 33|Numbers 33]] · [[connections/chapters/05-deuteronomy/Deuteronomy 1|Deuteronomy 1]] · [[connections/chapters/05-deuteronomy/Deuteronomy 34|Deuteronomy 34]] · [[connections/chapters/06-joshua/Joshua 10|Joshua 10]] · [[connections/chapters/06-joshua/Joshua 11|Joshua 11]] · [[connections/chapters/06-joshua/Joshua 12|Joshua 12]] · [[connections/chapters/06-joshua/Joshua 15|Joshua 15 (2)]] · [[connections/chapters/06-joshua/Joshua 19|Joshua 19]] · [[connections/chapters/07-judges/Judges 1|Judges 1 (3)]] · [[connections/chapters/09-1-samuel/1 Samuel 27|1 Samuel 27]] · [[connections/chapters/09-1-samuel/1 Samuel 30|1 Samuel 30 (3)]] · [[connections/chapters/10-2-samuel/2 Samuel 24|2 Samuel 24]] · [[connections/chapters/14-2-chronicles/2 Chronicles 28|2 Chronicles 28]] · [[connections/chapters/19-psalms/Psalms 126|Psalms 126]] · [[connections/chapters/23-isaiah/Isaiah 21|Isaiah 21]] · [[connections/chapters/23-isaiah/Isaiah 30|Isaiah 30]] · [[connections/chapters/24-jeremiah/Jeremiah 13|Jeremiah 13]] · [[connections/chapters/24-jeremiah/Jeremiah 17|Jeremiah 17]] · [[connections/chapters/24-jeremiah/Jeremiah 32|Jeremiah 32]] · [[connections/chapters/24-jeremiah/Jeremiah 33|Jeremiah 33]] · [[connections/chapters/26-ezekiel/Ezekiel 21|Ezekiel 21 (2)]] · [[connections/chapters/31-obadiah/Obadiah 1|Obadiah 1 (2)]] · [[connections/chapters/38-zechariah/Zechariah 7|Zechariah 7]]

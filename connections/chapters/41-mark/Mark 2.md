@@ -7,12 +7,16 @@ language: "Greek"
 verses: 28
 cross_references_out: 41
 cross_references_in: 30
+dated_from: 31
+dated_to: 31
 tags: ["chapter", "nt", "gospels"]
 ---
 
 # Mark 2
 
 ← [[connections/chapters/41-mark/Mark 1|Mark 1]] · [[connections/books/Mark|Mark]] · [[connections/chapters/41-mark/Mark 3|Mark 3]] →
+
+**Dated** *(Ussher, after the Treasury of Scripture Knowledge)*: [[connections/timeline/1st century AD|AD 31]]
 
 ## Text
 

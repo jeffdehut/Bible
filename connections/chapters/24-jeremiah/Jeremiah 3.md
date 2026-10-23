@@ -7,12 +7,16 @@ language: "Hebrew/Aramaic"
 verses: 25
 cross_references_out: 34
 cross_references_in: 52
+dated_from: -611
+dated_to: -611
 tags: ["chapter", "ot", "prophets"]
 ---
 
 # Jeremiah 3
 
 ← [[connections/chapters/24-jeremiah/Jeremiah 2|Jeremiah 2]] · [[connections/books/Jeremiah|Jeremiah]] · [[connections/chapters/24-jeremiah/Jeremiah 4|Jeremiah 4]] →
+
+**Dated** *(Ussher, after the Treasury of Scripture Knowledge)*: [[connections/timeline/7th century BC|612 BC]]
 
 ## Text
 

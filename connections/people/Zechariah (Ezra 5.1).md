@@ -7,6 +7,10 @@ original: ["זְכַרְיָהוּ", "זְכַרְיָה"]
 verses: 6
 chapters: 4
 first: "Ezra 5:1"
+placed: "518 BC"
+placed_year: -517
+generation: 3
+sex: "male"
 tags: ["person"]
 ---
 
@@ -15,6 +19,33 @@ tags: ["person"]
 Post-exilic prophet who wrote the book of Zechariah
 
 **Original-language names:** זְכַרְיָהוּ (H2148a) · זְכַרְיָה (H2148b)
+
+## When
+
+- **Placed around:** [[connections/timeline/6th century BC|518 BC]] *(Ussher: the median date of the passages naming them)*
+
+## Family
+
+- **Father:** [[connections/people/Berechiah (Zechariah 1.1)|Berechiah (Zechariah 1.1)]]
+
+**Line of descent** (3 generations, father to son): [[connections/people/Iddo (Ezra 5.1)|Iddo (Ezra 5.1)]] → [[connections/people/Berechiah (Zechariah 1.1)|Berechiah (Zechariah 1.1)]] → **Zechariah (Ezra 5.1)**
+
+**Family group:** [[connections/genealogy/Family of Iddo (Ezra 5.1)|Family of Iddo (Ezra 5.1)]], generation 3
+
+```mermaid
+flowchart TB
+  n0["Zechariah (Ezra 5.1)"]:::me
+  n1["Iddo (Ezra 5.1)"]
+  n2["Berechiah (Zechariah 1.1)"]
+  n1 --> n2
+  n2 --> n0
+  classDef me stroke-width:3px
+  classDef spouse stroke-dasharray:4
+```
+
+## Events
+
+- [[connections/timeline/6th century BC|520 BC]] · [[connections/events/Prophecies of Zechariah|Prophecies of Zechariah]]
 
 ## Appears in
 

@@ -8,6 +8,9 @@ original: ["תִּגְלַת פִּלְאֶ֫סֶר", "יָרֵב", "פּוּל"
 verses: 9
 chapters: 6
 first: "2 Kings 15:19"
+placed: "759 BC"
+placed_year: -758
+sex: "male"
 tags: ["person"]
 ---
 
@@ -18,6 +21,16 @@ Assyrian king who conquered parts of Israel
 **Also called:** great, Pul
 
 **Original-language names:** תִּגְלַת פִּלְאֶ֫סֶר (H8407) · יָרֵב (H3377) · פּוּל (H6322)
+
+## When
+
+- **Placed around:** [[connections/timeline/8th century BC|759 BC]] *(Ussher: the median date of the passages naming them)*
+- **Reigned / in office:** [[connections/timeline/8th century BC|745 BC]] – [[connections/timeline/8th century BC|727 BC]] *(modern dates)* · Tiglath-Pileser III, Assyria · [Wikidata Q210074](https://www.wikidata.org/wiki/Q210074) · Also called Pul (2 Kings 15:19)
+
+## Family
+
+- **Tribe or nation:** Assyria
+
 
 ## Appears in
 

@@ -7,6 +7,10 @@ original: ["אֲבִינֵר"]
 verses: 53
 chapters: 10
 first: "1 Samuel 14:50"
+placed: "1048 BC"
+placed_year: -1047
+generation: 6
+sex: "male"
 tags: ["person"]
 ---
 
@@ -15,6 +19,35 @@ tags: ["person"]
 Saul's cousin and commander of his army
 
 **Original-language names:** אֲבִינֵר (H0074)
+
+## When
+
+- **Placed around:** [[connections/timeline/11th century BC|1048 BC]] *(Ussher: the median date of the passages naming them)*
+
+## Family
+
+- **Father:** [[connections/people/Ner|Ner]]
+- **Children:** [[connections/people/Jaasiel (1 Chronicles 27.21)|Jaasiel (1 Chronicles 27.21)]]
+- **Tribe or nation:** Tribe of Benjamin
+
+**Line of descent** (6 generations, father to son): [[connections/people/Aphiah|Aphiah]] → [[connections/people/Becorath|Becorath]] → [[connections/people/Zeror|Zeror]] → [[connections/people/Abiel|Abiel]] → [[connections/people/Ner|Ner]] → **Abner**
+
+**Family group:** [[connections/genealogy/Family of Aphiah|Family of Aphiah]], generation 6
+
+```mermaid
+flowchart TB
+  n0["Abner"]:::me
+  n1["Abiel"]
+  n2["Ner"]
+  n1 --> n2
+  n3["Maacah (1 Chronicles 8.29)"]
+  n3 --> n2
+  n2 --> n0
+  n4["Jaasiel (1 Chronicles 27.21)"]
+  n0 --> n4
+  classDef me stroke-width:3px
+  classDef spouse stroke-dasharray:4
+```
 
 ## Appears in
 

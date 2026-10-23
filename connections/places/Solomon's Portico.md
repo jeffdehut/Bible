@@ -17,6 +17,11 @@ Colonnade in Jerusalem's temple where apostles taught
 
 **Original-language names:** Σολομών, Σαλωμών+G4745«G4745=στοά (G4672)
 
+## Events
+
+- [[connections/timeline/1st century AD|AD 30]] · [[connections/events/Peter preaches in Solomon's Portico|Peter preaches in Solomon's Portico]]
+- [[connections/timeline/1st century AD|AD 30]] · [[connections/events/Apostles work signs and wonders in Solomon's Portico|Apostles work signs and wonders in Solomon's Portico]]
+
 ## Appears in
 
 [[connections/chapters/44-acts/Acts 3|Acts 3]] · [[connections/chapters/44-acts/Acts 5|Acts 5]]

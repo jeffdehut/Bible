@@ -7,12 +7,16 @@ language: "Hebrew"
 verses: 13
 cross_references_out: 177
 cross_references_in: 153
+dated_from: -711
+dated_to: -711
 tags: ["chapter", "ot", "prophets"]
 ---
 
 # Isaiah 55
 
 ← [[connections/chapters/23-isaiah/Isaiah 54|Isaiah 54]] · [[connections/books/Isaiah|Isaiah]] · [[connections/chapters/23-isaiah/Isaiah 56|Isaiah 56]] →
+
+**Dated** *(Ussher, after the Treasury of Scripture Knowledge)*: [[connections/timeline/8th century BC|712 BC]]
 
 ## Text
 

@@ -7,6 +7,9 @@ original: ["חַטּוּשׁ"]
 verses: 2
 chapters: 2
 first: "Nehemiah 10:5"
+placed: "445 BC"
+placed_year: -444
+sex: "male"
 tags: ["person"]
 ---
 
@@ -15,6 +18,10 @@ tags: ["person"]
 A priest who sealed the covenant and returned with Zerubbabel.
 
 **Original-language names:** חַטּוּשׁ (H2407)
+
+## When
+
+- **Placed around:** [[connections/timeline/5th century BC|445 BC]] *(Ussher: the median date of the passages naming them)*
 
 ## Appears in
 

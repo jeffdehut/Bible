@@ -7,12 +7,16 @@ language: "Hebrew/Aramaic"
 verses: 54
 cross_references_out: 9
 cross_references_in: 11
+dated_from: -1738
+dated_to: -1738
 tags: ["chapter", "ot", "torah"]
 ---
 
 # Genesis 31
 
 ← [[connections/chapters/01-genesis/Genesis 30|Genesis 30]] · [[connections/books/Genesis|Genesis]] · [[connections/chapters/01-genesis/Genesis 32|Genesis 32]] →
+
+**Dated** *(Ussher, after the Treasury of Scripture Knowledge)*: [[connections/timeline/18th century BC|1739 BC]]
 
 ## Text
 

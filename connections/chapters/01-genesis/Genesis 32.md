@@ -7,12 +7,16 @@ language: "Hebrew/Aramaic"
 verses: 33
 cross_references_out: 26
 cross_references_in: 36
+dated_from: -1738
+dated_to: -1738
 tags: ["chapter", "ot", "torah"]
 ---
 
 # Genesis 32
 
 ← [[connections/chapters/01-genesis/Genesis 31|Genesis 31]] · [[connections/books/Genesis|Genesis]] · [[connections/chapters/01-genesis/Genesis 33|Genesis 33]] →
+
+**Dated** *(Ussher, after the Treasury of Scripture Knowledge)*: [[connections/timeline/18th century BC|1739 BC]]
 
 ## Text
 

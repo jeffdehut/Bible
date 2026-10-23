@@ -7,6 +7,9 @@ original: ["שְׁמַעְיָ֫הוּ"]
 verses: 5
 chapters: 3
 first: "1 Kings 12:22"
+placed: "970 BC"
+placed_year: -969
+sex: "male"
 tags: ["person"]
 ---
 
@@ -15,6 +18,10 @@ tags: ["person"]
 Prophet during the reign of Rehoboam
 
 **Original-language names:** שְׁמַעְיָ֫הוּ (H8098)
+
+## When
+
+- **Placed around:** [[connections/timeline/10th century BC|970 BC]] *(Ussher: the median date of the passages naming them)*
 
 ## Appears in
 

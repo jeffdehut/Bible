@@ -7,6 +7,9 @@ original: ["גֵּיחֲזִי"]
 verses: 12
 chapters: 3
 first: "2 Kings 4:12"
+placed: "894 BC"
+placed_year: -893
+sex: "male"
 tags: ["person"]
 ---
 
@@ -15,6 +18,10 @@ tags: ["person"]
 Elisha's servant; punished with leprosy for greed and deceit.
 
 **Original-language names:** גֵּיחֲזִי (H1522)
+
+## When
+
+- **Placed around:** [[connections/timeline/9th century BC|894 BC]] *(Ussher: the median date of the passages naming them)*
 
 ## Appears in
 

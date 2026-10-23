@@ -7,12 +7,16 @@ language: "Hebrew/Aramaic"
 verses: 31
 cross_references_out: 0
 cross_references_in: 11
+dated_from: -1703
+dated_to: -1688
 tags: ["chapter", "ot", "torah"]
 ---
 
 # Genesis 47
 
 ← [[connections/chapters/01-genesis/Genesis 46|Genesis 46]] · [[connections/books/Genesis|Genesis]] · [[connections/chapters/01-genesis/Genesis 48|Genesis 48]] →
+
+**Dated** *(Ussher, after the Treasury of Scripture Knowledge)*: [[connections/timeline/18th century BC|1704 BC]] – [[connections/timeline/17th century BC|1689 BC]]
 
 ## Text
 

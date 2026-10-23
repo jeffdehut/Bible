@@ -7,6 +7,9 @@ original: ["יָבִין"]
 verses: 6
 chapters: 2
 first: "Judges 4:2"
+placed: "1285 BC"
+placed_year: -1284
+sex: "male"
 tags: ["person"]
 ---
 
@@ -15,6 +18,19 @@ tags: ["person"]
 Canaanite king who oppressed Israel; defeated by Deborah and Barak.
 
 **Original-language names:** יָבִין (H2985)
+
+## When
+
+- **Placed around:** [[connections/timeline/13th century BC|1285 BC]] *(Ussher: the median date of the passages naming them)*
+
+## Family
+
+- **Tribe or nation:** Canaan
+
+
+## Events
+
+- [[connections/timeline/13th century BC|1298 BC]] · [[connections/events/Subjugation by Jabin|Subjugation by Jabin]]
 
 ## Appears in
 

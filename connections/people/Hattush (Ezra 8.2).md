@@ -7,6 +7,9 @@ original: ["חַטּוּשׁ"]
 verses: 1
 chapters: 1
 first: "Ezra 8:2"
+placed: "457 BC"
+placed_year: -456
+sex: "male"
 tags: ["person"]
 ---
 
@@ -15,6 +18,15 @@ tags: ["person"]
 A descendant of David, who returned from exile.
 
 **Original-language names:** חַטּוּשׁ (H2407)
+
+## When
+
+- **Placed around:** [[connections/timeline/5th century BC|457 BC]] *(Ussher: the median date of the passages naming them)*
+
+## Family
+
+- **Tribe or nation:** >Tribe of Judah
+
 
 ## Appears in
 

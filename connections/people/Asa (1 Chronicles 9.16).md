@@ -7,6 +7,10 @@ original: ["אָסָא"]
 verses: 1
 chapters: 1
 first: "1 Chronicles 9:16"
+placed: "536 BC"
+placed_year: -535
+generation: 2
+sex: "male"
 tags: ["person"]
 ---
 
@@ -15,6 +19,29 @@ tags: ["person"]
 Levite gatekeeper who resettled in Jerusalem
 
 **Original-language names:** אָסָא (H0609)
+
+## When
+
+- **Placed around:** [[connections/timeline/6th century BC|536 BC]] *(Ussher: the median date of the passages naming them)*
+
+## Family
+
+- **Father:** [[connections/people/Elkanah (1 Chronicles 9.16)|Elkanah (1 Chronicles 9.16)]]
+- **Children:** [[connections/people/Berechiah (1 Chronicles 9.16)|Berechiah (1 Chronicles 9.16)]]
+- **Tribe or nation:** Tribe of Levi
+
+**Family group:** [[connections/genealogy/Family of Elkanah (1 Chronicles 9.16)|Family of Elkanah (1 Chronicles 9.16)]], generation 2
+
+```mermaid
+flowchart TB
+  n0["Asa (1 Chronicles 9.16)"]:::me
+  n1["Elkanah (1 Chronicles 9.16)"]
+  n1 --> n0
+  n2["Berechiah (1 Chronicles 9.16)"]
+  n0 --> n2
+  classDef me stroke-width:3px
+  classDef spouse stroke-dasharray:4
+```
 
 ## Appears in
 

@@ -7,12 +7,16 @@ language: "Hebrew"
 verses: 28
 cross_references_out: 160
 cross_references_in: 143
+dated_from: -711
+dated_to: -711
 tags: ["chapter", "ot", "prophets"]
 ---
 
 # Isaiah 44
 
 ← [[connections/chapters/23-isaiah/Isaiah 43|Isaiah 43]] · [[connections/books/Isaiah|Isaiah]] · [[connections/chapters/23-isaiah/Isaiah 45|Isaiah 45]] →
+
+**Dated** *(Ussher, after the Treasury of Scripture Knowledge)*: [[connections/timeline/8th century BC|712 BC]]
 
 ## Text
 

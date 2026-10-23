@@ -7,12 +7,16 @@ language: "Hebrew"
 verses: 11
 cross_references_out: 31
 cross_references_in: 19
+dated_from: -456
+dated_to: -456
 tags: ["chapter", "ot", "history"]
 ---
 
 # Nehemiah 1
 
 ← [[connections/chapters/15-ezra/Ezra 10|Ezra 10]] · [[connections/books/Nehemiah|Nehemiah]] · [[connections/chapters/16-nehemiah/Nehemiah 2|Nehemiah 2]] →
+
+**Dated** *(Ussher, after the Treasury of Scripture Knowledge)*: [[connections/timeline/5th century BC|457 BC]]
 
 ## Text
 

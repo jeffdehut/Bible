@@ -17,6 +17,10 @@ First Israelite campsite after leaving Egypt during Exodus
 
 **Original-language names:** סֻכּוֹת (H5523)
 
+## Events
+
+- [[connections/timeline/15th century BC|1491 BC]] · [[connections/events/Wilderness Wanderings|Wilderness Wanderings]]
+
 ## Appears in
 
 [[connections/chapters/02-exodus/Exodus 12|Exodus 12]] · [[connections/chapters/02-exodus/Exodus 13|Exodus 13]] · [[connections/chapters/04-numbers/Numbers 33|Numbers 33 (2)]]

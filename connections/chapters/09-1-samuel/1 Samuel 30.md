@@ -7,12 +7,16 @@ language: "Hebrew"
 verses: 31
 cross_references_out: 46
 cross_references_in: 12
+dated_from: -1055
+dated_to: -1055
 tags: ["chapter", "ot", "history"]
 ---
 
 # 1 Samuel 30
 
 ← [[connections/chapters/09-1-samuel/1 Samuel 29|1 Samuel 29]] · [[connections/books/1 Samuel|1 Samuel]] · [[connections/chapters/09-1-samuel/1 Samuel 31|1 Samuel 31]] →
+
+**Dated** *(Ussher, after the Treasury of Scripture Knowledge)*: [[connections/timeline/11th century BC|1056 BC]]
 
 ## Text
 

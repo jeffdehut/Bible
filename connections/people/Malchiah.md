@@ -7,6 +7,10 @@ original: ["מַלְכִּיָּהוּ"]
 verses: 3
 chapters: 2
 first: "Jeremiah 21:1"
+placed: "598 BC"
+placed_year: -597
+generation: 1
+sex: "male"
 tags: ["person"]
 ---
 
@@ -15,6 +19,25 @@ tags: ["person"]
 Son of Pashur, involved in plot against Jeremiah.
 
 **Original-language names:** מַלְכִּיָּהוּ (H4441)
+
+## When
+
+- **Placed around:** [[connections/timeline/6th century BC|598 BC]] *(Ussher: the median date of the passages naming them)*
+
+## Family
+
+- **Children:** [[connections/people/Pashhur (Jeremiah 21.1)|Pashhur (Jeremiah 21.1)]]
+
+**Family group:** [[connections/genealogy/Family of Malchiah|Family of Malchiah]], generation 1
+
+```mermaid
+flowchart TB
+  n0["Malchiah"]:::me
+  n1["Pashhur (Jeremiah 21.1)"]
+  n0 --> n1
+  classDef me stroke-width:3px
+  classDef spouse stroke-dasharray:4
+```
 
 ## Appears in
 

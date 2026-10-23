@@ -7,6 +7,7 @@ original: ["זְכַרְיָהוּ"]
 verses: 1
 chapters: 1
 first: "Nehemiah 12:16"
+sex: "male"
 tags: ["person"]
 ---
 

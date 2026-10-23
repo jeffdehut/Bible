@@ -7,12 +7,16 @@ language: "Hebrew"
 verses: 20
 cross_references_out: 13
 cross_references_in: 13
+dated_from: -891
+dated_to: -891
 tags: ["chapter", "ot", "history"]
 ---
 
 # 2 Kings 7
 
 ← [[connections/chapters/12-2-kings/2 Kings 6|2 Kings 6]] · [[connections/books/2 Kings|2 Kings]] · [[connections/chapters/12-2-kings/2 Kings 8|2 Kings 8]] →
+
+**Dated** *(Ussher, after the Treasury of Scripture Knowledge)*: [[connections/timeline/9th century BC|892 BC]]
 
 ## Text
 

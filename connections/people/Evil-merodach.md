@@ -7,6 +7,9 @@ original: ["אֱוִיל מְרֹדַךְ"]
 verses: 2
 chapters: 2
 first: "2 Kings 25:27"
+placed: "562 BC"
+placed_year: -561
+sex: "male"
 tags: ["person"]
 ---
 
@@ -15,6 +18,16 @@ tags: ["person"]
 King of Babylon; released Jehoiachin from prison.
 
 **Original-language names:** אֱוִיל מְרֹדַךְ (H0192)
+
+## When
+
+- **Placed around:** [[connections/timeline/6th century BC|562 BC]] *(Ussher: the median date of the passages naming them)*
+- **Reigned / in office:** [[connections/timeline/6th century BC|562 BC]] – [[connections/timeline/6th century BC|560 BC]] *(modern dates)* · Amel-Marduk, Babylon · [Wikidata Q313234](https://www.wikidata.org/wiki/Q313234)
+
+## Family
+
+- **Tribe or nation:** Mesopotamia
+
 
 ## Appears in
 

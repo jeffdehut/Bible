@@ -16,6 +16,10 @@ City near the Judean wilderness; Jesus withdrew there
 
 **Original-language names:** אֶפְרַ֫יִם (H0669) · Ἐφραίμ (G2187)
 
+## Events
+
+- [[connections/timeline/1st century AD|AD 30]] · [[connections/events/Jesus Withdraws to Ephraim|Jesus Withdraws to Ephraim]]
+
 ## Appears in
 
 [[connections/chapters/10-2-samuel/2 Samuel 13|2 Samuel 13]] · [[connections/chapters/43-john/John 11|John 11]]

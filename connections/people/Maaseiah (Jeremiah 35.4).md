@@ -7,6 +7,10 @@ original: ["מַעֲשֵׂיָהוּ"]
 verses: 1
 chapters: 1
 first: "Jeremiah 35:4"
+placed: "607 BC"
+placed_year: -606
+generation: 2
+sex: "male"
 tags: ["person"]
 ---
 
@@ -15,6 +19,25 @@ tags: ["person"]
 Ancestor of Jaazaniah; associated with the Rechabites
 
 **Original-language names:** מַעֲשֵׂיָהוּ (H4641)
+
+## When
+
+- **Placed around:** [[connections/timeline/7th century BC|607 BC]] *(Ussher: the median date of the passages naming them)*
+
+## Family
+
+- **Father:** [[connections/people/Shallum (Jeremiah 35.4)|Shallum (Jeremiah 35.4)]]
+
+**Family group:** [[connections/genealogy/Family of Shallum (Jeremiah 35.4)|Family of Shallum (Jeremiah 35.4)]], generation 2
+
+```mermaid
+flowchart TB
+  n0["Maaseiah (Jeremiah 35.4)"]:::me
+  n1["Shallum (Jeremiah 35.4)"]
+  n1 --> n0
+  classDef me stroke-width:3px
+  classDef spouse stroke-dasharray:4
+```
 
 ## Appears in
 

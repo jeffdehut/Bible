@@ -7,12 +7,16 @@ language: "Hebrew"
 verses: 31
 cross_references_out: 0
 cross_references_in: 2
+dated_from: -1014
+dated_to: -1014
 tags: ["chapter", "ot", "history"]
 ---
 
 # 1 Chronicles 24
 
 ← [[connections/chapters/13-1-chronicles/1 Chronicles 23|1 Chronicles 23]] · [[connections/books/1 Chronicles|1 Chronicles]] · [[connections/chapters/13-1-chronicles/1 Chronicles 25|1 Chronicles 25]] →
+
+**Dated** *(Ussher, after the Treasury of Scripture Knowledge)*: [[connections/timeline/11th century BC|1015 BC]]
 
 ## Text
 

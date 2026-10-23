@@ -7,6 +7,10 @@ original: ["יֵשׁוּעַ"]
 verses: 4
 chapters: 4
 first: "1 Chronicles 24:11"
+placed: "456 BC"
+placed_year: -455
+generation: 2
+sex: "male"
 tags: ["person"]
 ---
 
@@ -15,6 +19,25 @@ tags: ["person"]
 Head of a priestly family that returned from exile.
 
 **Original-language names:** יֵשׁוּעַ (H3442)
+
+## When
+
+- **Placed around:** [[connections/timeline/5th century BC|456 BC]] *(Ussher: the median date of the passages naming them)*
+
+## Family
+
+- **Father:** [[connections/people/Jozadak|Jozadak]]
+
+**Family group:** [[connections/genealogy/Family of Jozadak|Family of Jozadak]], generation 2
+
+```mermaid
+flowchart TB
+  n0["Jeshua (1 Chronicles 24.11)"]:::me
+  n1["Jozadak"]
+  n1 --> n0
+  classDef me stroke-width:3px
+  classDef spouse stroke-dasharray:4
+```
 
 ## Appears in
 

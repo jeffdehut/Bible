@@ -7,6 +7,10 @@ original: ["פְּדָהצוּר"]
 verses: 5
 chapters: 4
 first: "Numbers 1:10"
+placed: "1490 BC"
+placed_year: -1489
+generation: 1
+sex: "male"
 tags: ["person"]
 ---
 
@@ -15,6 +19,26 @@ tags: ["person"]
 Father of Gamaliel, leader from Manasseh
 
 **Original-language names:** פְּדָהצוּר (H6301)
+
+## When
+
+- **Placed around:** [[connections/timeline/15th century BC|1490 BC]] *(Ussher: the median date of the passages naming them)*
+
+## Family
+
+- **Children:** [[connections/people/Gamaliel (Numbers 1.10)|Gamaliel (Numbers 1.10)]]
+- **Tribe or nation:** Tribe of Manasseh
+
+**Family group:** [[connections/genealogy/Family of Pedahzur|Family of Pedahzur]], generation 1
+
+```mermaid
+flowchart TB
+  n0["Pedahzur"]:::me
+  n1["Gamaliel (Numbers 1.10)"]
+  n0 --> n1
+  classDef me stroke-width:3px
+  classDef spouse stroke-dasharray:4
+```
 
 ## Appears in
 

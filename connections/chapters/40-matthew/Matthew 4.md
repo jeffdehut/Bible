@@ -7,12 +7,16 @@ language: "Greek"
 verses: 25
 cross_references_out: 136
 cross_references_in: 81
+dated_from: 26
+dated_to: 26
 tags: ["chapter", "nt", "gospels"]
 ---
 
 # Matthew 4
 
 ← [[connections/chapters/40-matthew/Matthew 3|Matthew 3]] · [[connections/books/Matthew|Matthew]] · [[connections/chapters/40-matthew/Matthew 5|Matthew 5]] →
+
+**Dated** *(Ussher, after the Treasury of Scripture Knowledge)*: [[connections/timeline/1st century AD|AD 26]]
 
 ## Text
 

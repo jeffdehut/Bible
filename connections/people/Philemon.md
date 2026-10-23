@@ -7,6 +7,9 @@ original: ["Φιλήμων"]
 verses: 2
 chapters: 1
 first: "Philemon 1:1"
+placed: "AD 64"
+placed_year: 64
+sex: "male"
 tags: ["person"]
 ---
 
@@ -15,6 +18,10 @@ tags: ["person"]
 Recipient of Paul's letter, Colossian slave owner
 
 **Original-language names:** Φιλήμων (G5371)
+
+## When
+
+- **Placed around:** [[connections/timeline/1st century AD|AD 64]] *(Ussher: the median date of the passages naming them)*
 
 ## Appears in
 

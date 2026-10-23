@@ -7,12 +7,16 @@ language: "Hebrew"
 verses: 27
 cross_references_out: 107
 cross_references_in: 56
+dated_from: -799
+dated_to: -799
 tags: ["chapter", "ot", "prophets"]
 ---
 
 # Joel 2
 
 ← [[connections/chapters/29-joel/Joel 1|Joel 1]] · [[connections/books/Joel|Joel]] · [[connections/chapters/29-joel/Joel 3|Joel 3]] →
+
+**Dated** *(Ussher, after the Treasury of Scripture Knowledge)*: [[connections/timeline/8th century BC|800 BC]]
 
 ## Text
 

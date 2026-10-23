@@ -7,6 +7,10 @@ original: ["Ζεβεδαῖος"]
 verses: 11
 chapters: 10
 first: "Matthew 4:21"
+placed: "AD 31"
+placed_year: 31
+generation: 77
+sex: "male"
 tags: ["person"]
 ---
 
@@ -15,6 +19,34 @@ tags: ["person"]
 Father of the apostles James and John
 
 **Original-language names:** Ζεβεδαῖος (G2199)
+
+## When
+
+- **Placed around:** [[connections/timeline/1st century AD|AD 31]] *(Ussher: the median date of the passages naming them)*
+
+## Family
+
+- **Spouses:** [[connections/people/Salome (Mark 15.40)|Salome (Mark 15.40) (uncertain)]]
+- **Children:** [[connections/people/James (Matthew 4.21)|James (Matthew 4.21)]], [[connections/people/John (Matthew 4.21)|John (Matthew 4.21)]]
+
+**Family group:** [[connections/genealogy/Family of Adam|Family of Adam]], generation 77
+
+```mermaid
+flowchart TB
+  n0["Zebedee"]:::me
+  n1["Salome (Mark 15.40)"]:::spouse
+  n0 -.- n1
+  n2["James (Matthew 4.21)"]
+  n0 --> n2
+  n3["John (Matthew 4.21)"]
+  n0 --> n3
+  classDef me stroke-width:3px
+  classDef spouse stroke-dasharray:4
+```
+
+## Events
+
+- [[connections/timeline/1st century AD|AD 27]] · [[connections/events/Fishers of Men|Fishers of Men]]
 
 ## Appears in
 

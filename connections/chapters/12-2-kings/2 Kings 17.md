@@ -7,12 +7,16 @@ language: "Hebrew"
 verses: 41
 cross_references_out: 3
 cross_references_in: 17
+dated_from: -729
+dated_to: -677
 tags: ["chapter", "ot", "history"]
 ---
 
 # 2 Kings 17
 
 ← [[connections/chapters/12-2-kings/2 Kings 16|2 Kings 16]] · [[connections/books/2 Kings|2 Kings]] · [[connections/chapters/12-2-kings/2 Kings 18|2 Kings 18]] →
+
+**Dated** *(Ussher, after the Treasury of Scripture Knowledge)*: [[connections/timeline/8th century BC|730 BC]] – [[connections/timeline/7th century BC|678 BC]]
 
 ## Text
 

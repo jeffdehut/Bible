@@ -7,6 +7,10 @@ original: ["אֲבִיגַ֫יִל, אֲבִיגַ֫ל"]
 verses: 14
 chapters: 6
 first: "1 Samuel 25:3"
+placed: "1060 BC"
+placed_year: -1059
+generation: 36
+sex: "female"
 tags: ["person"]
 ---
 
@@ -15,6 +19,30 @@ tags: ["person"]
 Wife of Nabal, later married David
 
 **Original-language names:** אֲבִיגַ֫יִל, אֲבִיגַ֫ל (H0026)
+
+## When
+
+- **Placed around:** [[connections/timeline/11th century BC|1060 BC]] *(Ussher: the median date of the passages naming them)*
+
+## Family
+
+- **Spouses:** [[connections/people/David|David]], [[connections/people/Nabal|Nabal]]
+- **Children:** [[connections/people/Chileab|Chileab]]
+
+**Family group:** [[connections/genealogy/Family of Adam|Family of Adam]], generation 36
+
+```mermaid
+flowchart TB
+  n0["Abigail (1 Samuel 25.3)"]:::me
+  n1["David"]:::spouse
+  n0 -.- n1
+  n2["Nabal"]:::spouse
+  n0 -.- n2
+  n3["Chileab"]
+  n0 --> n3
+  classDef me stroke-width:3px
+  classDef spouse stroke-dasharray:4
+```
 
 ## Appears in
 

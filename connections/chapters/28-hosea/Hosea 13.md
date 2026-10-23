@@ -7,12 +7,16 @@ language: "Hebrew"
 verses: 15
 cross_references_out: 19
 cross_references_in: 27
+dated_from: -724
+dated_to: -724
 tags: ["chapter", "ot", "prophets"]
 ---
 
 # Hosea 13
 
 ← [[connections/chapters/28-hosea/Hosea 12|Hosea 12]] · [[connections/books/Hosea|Hosea]] · [[connections/chapters/28-hosea/Hosea 14|Hosea 14]] →
+
+**Dated** *(Ussher, after the Treasury of Scripture Knowledge)*: [[connections/timeline/8th century BC|725 BC]]
 
 ## Text
 

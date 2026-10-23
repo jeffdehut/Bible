@@ -7,6 +7,9 @@ original: ["אֶלְיָשִׁיב"]
 verses: 3
 chapters: 1
 first: "Nehemiah 3:1"
+placed: "445 BC"
+placed_year: -444
+sex: "male"
 tags: ["person"]
 ---
 
@@ -15,6 +18,10 @@ tags: ["person"]
 High priest during Nehemiah's time, involved in rebuilding Jerusalem's wall
 
 **Original-language names:** אֶלְיָשִׁיב (H0475)
+
+## When
+
+- **Placed around:** [[connections/timeline/5th century BC|445 BC]] *(Ussher: the median date of the passages naming them)*
 
 ## Appears in
 

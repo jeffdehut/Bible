@@ -7,12 +7,16 @@ language: "Hebrew"
 verses: 15
 cross_references_out: 7
 cross_references_in: 7
+dated_from: -711
+dated_to: -711
 tags: ["chapter", "ot", "prophets"]
 ---
 
 # Isaiah 47
 
 ← [[connections/chapters/23-isaiah/Isaiah 46|Isaiah 46]] · [[connections/books/Isaiah|Isaiah]] · [[connections/chapters/23-isaiah/Isaiah 48|Isaiah 48]] →
+
+**Dated** *(Ussher, after the Treasury of Scripture Knowledge)*: [[connections/timeline/8th century BC|712 BC]]
 
 ## Text
 

@@ -7,12 +7,16 @@ language: "Greek"
 verses: 25
 cross_references_out: 63
 cross_references_in: 71
+dated_from: 65
+dated_to: 65
 tags: ["chapter", "nt", "pauline-epistles"]
 ---
 
 # 1 Timothy 5
 
 ← [[connections/chapters/54-1-timothy/1 Timothy 4|1 Timothy 4]] · [[connections/books/1 Timothy|1 Timothy]] · [[connections/chapters/54-1-timothy/1 Timothy 6|1 Timothy 6]] →
+
+**Dated** *(Ussher, after the Treasury of Scripture Knowledge)*: [[connections/timeline/1st century AD|AD 65]]
 
 ## Text
 

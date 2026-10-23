@@ -7,6 +7,9 @@ original: ["דַּרְקוֹן"]
 verses: 2
 chapters: 2
 first: "Ezra 2:56"
+placed: "445 BC"
+placed_year: -444
+sex: "male"
 tags: ["person"]
 ---
 
@@ -15,6 +18,10 @@ tags: ["person"]
 Ancestor of a family of temple servants
 
 **Original-language names:** דַּרְקוֹן (H1874)
+
+## When
+
+- **Placed around:** [[connections/timeline/5th century BC|445 BC]] *(Ussher: the median date of the passages naming them)*
 
 ## Appears in
 

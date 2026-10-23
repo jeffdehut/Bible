@@ -7,12 +7,16 @@ language: "Greek"
 verses: 21
 cross_references_out: 94
 cross_references_in: 103
+dated_from: 52
+dated_to: 52
 tags: ["chapter", "nt", "pauline-epistles"]
 ---
 
 # Galatians 2
 
 ← [[connections/chapters/48-galatians/Galatians 1|Galatians 1]] · [[connections/books/Galatians|Galatians]] · [[connections/chapters/48-galatians/Galatians 3|Galatians 3]] →
+
+**Dated** *(Ussher, after the Treasury of Scripture Knowledge)*: [[connections/timeline/1st century AD|AD 52]]
 
 ## Text
 

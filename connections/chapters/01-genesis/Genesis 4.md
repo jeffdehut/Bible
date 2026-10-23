@@ -7,12 +7,16 @@ language: "Hebrew/Aramaic"
 verses: 26
 cross_references_out: 46
 cross_references_in: 16
+dated_from: -4002
+dated_to: -3768
 tags: ["chapter", "ot", "torah"]
 ---
 
 # Genesis 4
 
 ← [[connections/chapters/01-genesis/Genesis 3|Genesis 3]] · [[connections/books/Genesis|Genesis]] · [[connections/chapters/01-genesis/Genesis 5|Genesis 5]] →
+
+**Dated** *(Ussher, after the Treasury of Scripture Knowledge)*: [[connections/timeline/41st century BC|4003 BC]] – [[connections/timeline/38th century BC|3769 BC]]
 
 ## Text
 

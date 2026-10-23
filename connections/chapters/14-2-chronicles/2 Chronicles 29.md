@@ -7,12 +7,16 @@ language: "Hebrew"
 verses: 36
 cross_references_out: 1
 cross_references_in: 4
+dated_from: -725
+dated_to: -725
 tags: ["chapter", "ot", "history"]
 ---
 
 # 2 Chronicles 29
 
 ← [[connections/chapters/14-2-chronicles/2 Chronicles 28|2 Chronicles 28]] · [[connections/books/2 Chronicles|2 Chronicles]] · [[connections/chapters/14-2-chronicles/2 Chronicles 30|2 Chronicles 30]] →
+
+**Dated** *(Ussher, after the Treasury of Scripture Knowledge)*: [[connections/timeline/8th century BC|726 BC]]
 
 ## Text
 

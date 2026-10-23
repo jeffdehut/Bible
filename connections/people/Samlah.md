@@ -7,6 +7,9 @@ original: ["שַׂמְלָה"]
 verses: 4
 chapters: 2
 first: "Genesis 36:36"
+placed: "1743 BC"
+placed_year: -1742
+sex: "male"
 tags: ["person"]
 ---
 
@@ -15,6 +18,15 @@ tags: ["person"]
 King of Edom before Israel had kings
 
 **Original-language names:** שַׂמְלָה (H8072)
+
+## When
+
+- **Placed around:** [[connections/timeline/18th century BC|1743 BC]] *(Ussher: the median date of the passages naming them)*
+
+## Family
+
+- **Tribe or nation:** Edom
+
 
 ## Appears in
 

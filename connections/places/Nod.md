@@ -16,6 +16,10 @@ The land where Cain settled after killing Abel
 
 **Original-language names:** נוֹד (H5113)
 
+## Events
+
+- [[connections/timeline/39th century BC|3875 BC]] · [[connections/events/God curses Cain|God curses Cain]]
+
 ## Appears in
 
 [[connections/chapters/01-genesis/Genesis 4|Genesis 4]]

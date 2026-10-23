@@ -7,12 +7,16 @@ language: "Hebrew"
 verses: 20
 cross_references_out: 112
 cross_references_in: 80
+dated_from: -739
+dated_to: -739
 tags: ["chapter", "ot", "prophets"]
 ---
 
 # Isaiah 9
 
 ← [[connections/chapters/23-isaiah/Isaiah 8|Isaiah 8]] · [[connections/books/Isaiah|Isaiah]] · [[connections/chapters/23-isaiah/Isaiah 10|Isaiah 10]] →
+
+**Dated** *(Ussher, after the Treasury of Scripture Knowledge)*: [[connections/timeline/8th century BC|740 BC]]
 
 ## Text
 

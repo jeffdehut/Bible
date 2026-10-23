@@ -7,6 +7,10 @@ original: ["יוֹאָח"]
 verses: 6
 chapters: 2
 first: "2 Kings 18:18"
+placed: "710 BC"
+placed_year: -709
+generation: 2
+sex: "male"
 tags: ["person"]
 ---
 
@@ -15,6 +19,25 @@ tags: ["person"]
 Son of Asaph, King Hezekiah's secretary
 
 **Original-language names:** יוֹאָח (H3098)
+
+## When
+
+- **Placed around:** [[connections/timeline/8th century BC|710 BC]] *(Ussher: the median date of the passages naming them)*
+
+## Family
+
+- **Father:** [[connections/people/Asaph (2 Kings 18.18)|Asaph (2 Kings 18.18)]]
+
+**Family group:** [[connections/genealogy/Family of Asaph (2 Kings 18.18)|Family of Asaph (2 Kings 18.18)]], generation 2
+
+```mermaid
+flowchart TB
+  n0["Joah (2 Kings 18.18)"]:::me
+  n1["Asaph (2 Kings 18.18)"]
+  n1 --> n0
+  classDef me stroke-width:3px
+  classDef spouse stroke-dasharray:4
+```
 
 ## Appears in
 

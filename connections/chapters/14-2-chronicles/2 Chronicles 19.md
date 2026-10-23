@@ -7,12 +7,16 @@ language: "Hebrew"
 verses: 11
 cross_references_out: 4
 cross_references_in: 21
+dated_from: -895
+dated_to: -895
 tags: ["chapter", "ot", "history"]
 ---
 
 # 2 Chronicles 19
 
 ← [[connections/chapters/14-2-chronicles/2 Chronicles 18|2 Chronicles 18]] · [[connections/books/2 Chronicles|2 Chronicles]] · [[connections/chapters/14-2-chronicles/2 Chronicles 20|2 Chronicles 20]] →
+
+**Dated** *(Ussher, after the Treasury of Scripture Knowledge)*: [[connections/timeline/9th century BC|896 BC]]
 
 ## Text
 

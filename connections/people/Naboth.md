@@ -7,6 +7,9 @@ original: ["נָבוֹת"]
 verses: 18
 chapters: 2
 first: "1 Kings 21:1"
+placed: "899 BC"
+placed_year: -898
+sex: "male"
 tags: ["person"]
 ---
 
@@ -15,6 +18,10 @@ tags: ["person"]
 Jezreelite vineyard owner, unjustly killed by Ahab and Jezebel.
 
 **Original-language names:** נָבוֹת (H5022)
+
+## When
+
+- **Placed around:** [[connections/timeline/9th century BC|899 BC]] *(Ussher: the median date of the passages naming them)*
 
 ## Appears in
 

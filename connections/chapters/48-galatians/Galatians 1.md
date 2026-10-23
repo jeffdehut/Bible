@@ -7,12 +7,16 @@ language: "Greek"
 verses: 24
 cross_references_out: 65
 cross_references_in: 87
+dated_from: 58
+dated_to: 58
 tags: ["chapter", "nt", "pauline-epistles"]
 ---
 
 # Galatians 1
 
 ← [[connections/chapters/47-2-corinthians/2 Corinthians 13|2 Corinthians 13]] · [[connections/books/Galatians|Galatians]] · [[connections/chapters/48-galatians/Galatians 2|Galatians 2]] →
+
+**Dated** *(Ussher, after the Treasury of Scripture Knowledge)*: [[connections/timeline/1st century AD|AD 58]]
 
 ## Text
 

@@ -7,6 +7,7 @@ original: ["עֻזִּי"]
 verses: 1
 chapters: 1
 first: "Nehemiah 12:19"
+sex: "male"
 tags: ["person"]
 ---
 

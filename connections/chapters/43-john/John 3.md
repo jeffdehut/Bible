@@ -7,12 +7,16 @@ language: "Greek"
 verses: 36
 cross_references_out: 295
 cross_references_in: 267
+dated_from: 30
+dated_to: 30
 tags: ["chapter", "nt", "gospels"]
 ---
 
 # John 3
 
 ← [[connections/chapters/43-john/John 2|John 2]] · [[connections/books/John|John]] · [[connections/chapters/43-john/John 4|John 4]] →
+
+**Dated** *(Ussher, after the Treasury of Scripture Knowledge)*: [[connections/timeline/1st century AD|AD 30]]
 
 ## Text
 

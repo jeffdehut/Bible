@@ -7,6 +7,10 @@ original: ["שְׁפַטְיָהוּ"]
 verses: 1
 chapters: 1
 first: "Nehemiah 11:4"
+placed: "445 BC"
+placed_year: -444
+generation: 2
+sex: "male"
 tags: ["person"]
 ---
 
@@ -15,6 +19,28 @@ tags: ["person"]
 Judahite who settled in Jerusalem after exile
 
 **Original-language names:** שְׁפַטְיָהוּ (H8203)
+
+## When
+
+- **Placed around:** [[connections/timeline/5th century BC|445 BC]] *(Ussher: the median date of the passages naming them)*
+
+## Family
+
+- **Father:** [[connections/people/Mahalalel (Nehemiah 11.4)|Mahalalel (Nehemiah 11.4)]]
+- **Children:** [[connections/people/Amariah (Nehemiah 11.4)|Amariah (Nehemiah 11.4)]]
+
+**Family group:** [[connections/genealogy/Family of Mahalalel (Nehemiah 11.4)|Family of Mahalalel (Nehemiah 11.4)]], generation 2
+
+```mermaid
+flowchart TB
+  n0["Shephatiah (Nehemiah 11.4)"]:::me
+  n1["Mahalalel (Nehemiah 11.4)"]
+  n1 --> n0
+  n2["Amariah (Nehemiah 11.4)"]
+  n0 --> n2
+  classDef me stroke-width:3px
+  classDef spouse stroke-dasharray:4
+```
 
 ## Appears in
 

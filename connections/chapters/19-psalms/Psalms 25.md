@@ -7,12 +7,16 @@ language: "Hebrew"
 verses: 22
 cross_references_out: 167
 cross_references_in: 119
+dated_from: -540
+dated_to: -540
 tags: ["chapter", "ot", "wisdom"]
 ---
 
 # Psalms 25
 
 ← [[connections/chapters/19-psalms/Psalms 24|Psalms 24]] · [[connections/books/Psalms|Psalms]] · [[connections/chapters/19-psalms/Psalms 26|Psalms 26]] →
+
+**Dated** *(Ussher, after the Treasury of Scripture Knowledge)*: [[connections/timeline/6th century BC|541 BC]]
 
 ## Text
 

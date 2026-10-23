@@ -7,6 +7,9 @@ original: ["נָחָשׁ"]
 verses: 3
 chapters: 2
 first: "1 Samuel 11:1"
+placed: "1095 BC"
+placed_year: -1094
+sex: "male"
 tags: ["person"]
 ---
 
@@ -15,6 +18,15 @@ tags: ["person"]
 Ammonite king who besieged Jabesh Gilead.
 
 **Original-language names:** נָחָשׁ (H5176)
+
+## When
+
+- **Placed around:** [[connections/timeline/11th century BC|1095 BC]] *(Ussher: the median date of the passages naming them)*
+
+## Family
+
+- **Tribe or nation:** Ammon
+
 
 ## Appears in
 

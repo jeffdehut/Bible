@@ -7,6 +7,10 @@ original: ["גִּדְעֹנִי"]
 verses: 5
 chapters: 4
 first: "Numbers 1:11"
+placed: "1490 BC"
+placed_year: -1489
+generation: 1
+sex: "male"
 tags: ["person"]
 ---
 
@@ -15,6 +19,26 @@ tags: ["person"]
 Leader of the tribe of Benjamin during the Exodus.
 
 **Original-language names:** גִּדְעֹנִי (H1441)
+
+## When
+
+- **Placed around:** [[connections/timeline/15th century BC|1490 BC]] *(Ussher: the median date of the passages naming them)*
+
+## Family
+
+- **Children:** [[connections/people/Abidan|Abidan]]
+- **Tribe or nation:** Tribe of Benjamin
+
+**Family group:** [[connections/genealogy/Family of Gideoni|Family of Gideoni]], generation 1
+
+```mermaid
+flowchart TB
+  n0["Gideoni"]:::me
+  n1["Abidan"]
+  n0 --> n1
+  classDef me stroke-width:3px
+  classDef spouse stroke-dasharray:4
+```
 
 ## Appears in
 

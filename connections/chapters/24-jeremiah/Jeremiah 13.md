@@ -7,12 +7,16 @@ language: "Hebrew/Aramaic"
 verses: 27
 cross_references_out: 7
 cross_references_in: 18
+dated_from: -598
+dated_to: -598
 tags: ["chapter", "ot", "prophets"]
 ---
 
 # Jeremiah 13
 
 ← [[connections/chapters/24-jeremiah/Jeremiah 12|Jeremiah 12]] · [[connections/books/Jeremiah|Jeremiah]] · [[connections/chapters/24-jeremiah/Jeremiah 14|Jeremiah 14]] →
+
+**Dated** *(Ussher, after the Treasury of Scripture Knowledge)*: [[connections/timeline/6th century BC|599 BC]]
 
 ## Text
 

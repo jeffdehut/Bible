@@ -7,12 +7,16 @@ language: "Hebrew"
 verses: 9
 cross_references_out: 3
 cross_references_in: 16
+dated_from: -784
+dated_to: -784
 tags: ["chapter", "ot", "prophets"]
 ---
 
 # Hosea 1
 
 ← [[connections/chapters/27-daniel/Daniel 12|Daniel 12]] · [[connections/books/Hosea|Hosea]] · [[connections/chapters/28-hosea/Hosea 2|Hosea 2]] →
+
+**Dated** *(Ussher, after the Treasury of Scripture Knowledge)*: [[connections/timeline/8th century BC|785 BC]]
 
 ## Text
 

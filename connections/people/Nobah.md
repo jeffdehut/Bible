@@ -7,6 +7,9 @@ original: ["נֹ֫בַח"]
 verses: 1
 chapters: 1
 first: "Numbers 32:42"
+placed: "1452 BC"
+placed_year: -1451
+sex: "male"
 tags: ["person"]
 ---
 
@@ -15,6 +18,10 @@ tags: ["person"]
 Captured Kenath, renamed it Nobah
 
 **Original-language names:** נֹ֫בַח (H5025)
+
+## When
+
+- **Placed around:** [[connections/timeline/15th century BC|1452 BC]] *(Ussher: the median date of the passages naming them)*
 
 ## Appears in
 

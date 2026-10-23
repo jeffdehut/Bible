@@ -7,12 +7,16 @@ language: "Hebrew"
 verses: 35
 cross_references_out: 41
 cross_references_in: 43
+dated_from: -1078
+dated_to: -1078
 tags: ["chapter", "ot", "history"]
 ---
 
 # 1 Samuel 15
 
 ← [[connections/chapters/09-1-samuel/1 Samuel 14|1 Samuel 14]] · [[connections/books/1 Samuel|1 Samuel]] · [[connections/chapters/09-1-samuel/1 Samuel 16|1 Samuel 16]] →
+
+**Dated** *(Ussher, after the Treasury of Scripture Knowledge)*: [[connections/timeline/11th century BC|1079 BC]]
 
 ## Text
 

@@ -7,12 +7,16 @@ language: "Greek"
 verses: 18
 cross_references_out: 184
 cross_references_in: 222
+dated_from: 60
+dated_to: 60
 tags: ["chapter", "nt", "pauline-epistles"]
 ---
 
 # 2 Corinthians 4
 
 ← [[connections/chapters/47-2-corinthians/2 Corinthians 3|2 Corinthians 3]] · [[connections/books/2 Corinthians|2 Corinthians]] · [[connections/chapters/47-2-corinthians/2 Corinthians 5|2 Corinthians 5]] →
+
+**Dated** *(Ussher, after the Treasury of Scripture Knowledge)*: [[connections/timeline/1st century AD|AD 60]]
 
 ## Text
 

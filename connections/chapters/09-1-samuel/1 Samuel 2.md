@@ -7,12 +7,16 @@ language: "Hebrew"
 verses: 36
 cross_references_out: 98
 cross_references_in: 101
+dated_from: -1164
+dated_to: -1164
 tags: ["chapter", "ot", "history"]
 ---
 
 # 1 Samuel 2
 
 ← [[connections/chapters/09-1-samuel/1 Samuel 1|1 Samuel 1]] · [[connections/books/1 Samuel|1 Samuel]] · [[connections/chapters/09-1-samuel/1 Samuel 3|1 Samuel 3]] →
+
+**Dated** *(Ussher, after the Treasury of Scripture Knowledge)*: [[connections/timeline/12th century BC|1165 BC]]
 
 ## Text
 

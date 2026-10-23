@@ -7,12 +7,16 @@ language: "Greek"
 verses: 18
 cross_references_out: 101
 cross_references_in: 123
+dated_from: 64
+dated_to: 64
 tags: ["chapter", "nt", "general-epistles"]
 ---
 
 # Hebrews 2
 
 ← [[connections/chapters/58-hebrews/Hebrews 1|Hebrews 1]] · [[connections/books/Hebrews|Hebrews]] · [[connections/chapters/58-hebrews/Hebrews 3|Hebrews 3]] →
+
+**Dated** *(Ussher, after the Treasury of Scripture Knowledge)*: [[connections/timeline/1st century AD|AD 64]]
 
 ## Text
 

@@ -17,6 +17,10 @@ Island visited by Paul during his second missionary journey
 
 **Original-language names:** Σαμοθρᾴκη (G4543)
 
+## Events
+
+- [[connections/timeline/1st century AD|AD 47]] · [[connections/events/Call to Macedonia|Call to Macedonia]]
+
 ## Appears in
 
 [[connections/chapters/44-acts/Acts 16|Acts 16]]

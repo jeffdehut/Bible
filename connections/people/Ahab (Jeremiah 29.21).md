@@ -7,6 +7,10 @@ original: ["אַחְאָב"]
 verses: 2
 chapters: 1
 first: "Jeremiah 29:21"
+placed: "599 BC"
+placed_year: -598
+generation: 2
+sex: "male"
 tags: ["person"]
 ---
 
@@ -15,6 +19,25 @@ tags: ["person"]
 False prophet during the Babylonian exile
 
 **Original-language names:** אַחְאָב (H0256)
+
+## When
+
+- **Placed around:** [[connections/timeline/6th century BC|599 BC]] *(Ussher: the median date of the passages naming them)*
+
+## Family
+
+- **Father:** [[connections/people/Kolaiah (Jeremiah 29.21)|Kolaiah (Jeremiah 29.21)]]
+
+**Family group:** [[connections/genealogy/Family of Kolaiah (Jeremiah 29.21)|Family of Kolaiah (Jeremiah 29.21)]], generation 2
+
+```mermaid
+flowchart TB
+  n0["Ahab (Jeremiah 29.21)"]:::me
+  n1["Kolaiah (Jeremiah 29.21)"]
+  n1 --> n0
+  classDef me stroke-width:3px
+  classDef spouse stroke-dasharray:4
+```
 
 ## Appears in
 

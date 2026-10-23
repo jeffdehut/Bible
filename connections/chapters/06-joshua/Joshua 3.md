@@ -7,12 +7,16 @@ language: "Hebrew"
 verses: 17
 cross_references_out: 20
 cross_references_in: 9
+dated_from: -1450
+dated_to: -1450
 tags: ["chapter", "ot", "history"]
 ---
 
 # Joshua 3
 
 ← [[connections/chapters/06-joshua/Joshua 2|Joshua 2]] · [[connections/books/Joshua|Joshua]] · [[connections/chapters/06-joshua/Joshua 4|Joshua 4]] →
+
+**Dated** *(Ussher, after the Treasury of Scripture Knowledge)*: [[connections/timeline/15th century BC|1451 BC]]
 
 ## Text
 

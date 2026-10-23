@@ -7,12 +7,16 @@ language: "Hebrew"
 verses: 33
 cross_references_out: 2
 cross_references_in: 3
+dated_from: -1443
+dated_to: -1443
 tags: ["chapter", "ot", "history"]
 ---
 
 # Joshua 13
 
 ← [[connections/chapters/06-joshua/Joshua 12|Joshua 12]] · [[connections/books/Joshua|Joshua]] · [[connections/chapters/06-joshua/Joshua 14|Joshua 14]] →
+
+**Dated** *(Ussher, after the Treasury of Scripture Knowledge)*: [[connections/timeline/15th century BC|1444 BC]]
 
 ## Text
 

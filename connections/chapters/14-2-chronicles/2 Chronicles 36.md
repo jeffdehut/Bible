@@ -7,12 +7,16 @@ language: "Hebrew"
 verses: 23
 cross_references_out: 9
 cross_references_in: 12
+dated_from: -609
+dated_to: -535
 tags: ["chapter", "ot", "history"]
 ---
 
 # 2 Chronicles 36
 
 ← [[connections/chapters/14-2-chronicles/2 Chronicles 35|2 Chronicles 35]] · [[connections/books/2 Chronicles|2 Chronicles]] · [[connections/chapters/15-ezra/Ezra 1|Ezra 1]] →
+
+**Dated** *(Ussher, after the Treasury of Scripture Knowledge)*: [[connections/timeline/7th century BC|610 BC]] – [[connections/timeline/6th century BC|536 BC]]
 
 ## Text
 

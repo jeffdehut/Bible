@@ -17,6 +17,10 @@ A nation and culture, often in opposition to Israel
 
 **Original-language names:** יָוָן (H3120) · Ἑλλάς (G1671)
 
+## Events
+
+- [[connections/timeline/1st century AD|AD 54]] · [[connections/events/Mission to Macedonia and Greece|Mission to Macedonia and Greece]]
+
 ## Appears in
 
 [[connections/chapters/23-isaiah/Isaiah 66|Isaiah 66]] · [[connections/chapters/26-ezekiel/Ezekiel 27|Ezekiel 27 (2)]] · [[connections/chapters/27-daniel/Daniel 8|Daniel 8]] · [[connections/chapters/27-daniel/Daniel 10|Daniel 10]] · [[connections/chapters/27-daniel/Daniel 11|Daniel 11]] · [[connections/chapters/38-zechariah/Zechariah 9|Zechariah 9]] · [[connections/chapters/44-acts/Acts 20|Acts 20]]

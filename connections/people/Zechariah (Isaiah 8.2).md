@@ -7,6 +7,8 @@ original: ["זְכַרְיָהוּ"]
 verses: 1
 chapters: 1
 first: "Isaiah 8:2"
+generation: 2
+sex: "male"
 tags: ["person"]
 ---
 
@@ -15,6 +17,21 @@ tags: ["person"]
 Witness to Isaiah's prophecy about Maher-Shalal-Hash-Baz
 
 **Original-language names:** זְכַרְיָהוּ (H2148a)
+
+## Family
+
+- **Father:** [[connections/people/Jeberechiah|Jeberechiah]]
+
+**Family group:** [[connections/genealogy/Family of Jeberechiah|Family of Jeberechiah]], generation 2
+
+```mermaid
+flowchart TB
+  n0["Zechariah (Isaiah 8.2)"]:::me
+  n1["Jeberechiah"]
+  n1 --> n0
+  classDef me stroke-width:3px
+  classDef spouse stroke-dasharray:4
+```
 
 ## Appears in
 

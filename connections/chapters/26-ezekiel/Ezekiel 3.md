@@ -7,12 +7,16 @@ language: "Hebrew"
 verses: 27
 cross_references_out: 44
 cross_references_in: 35
+dated_from: -594
+dated_to: -594
 tags: ["chapter", "ot", "prophets"]
 ---
 
 # Ezekiel 3
 
 ← [[connections/chapters/26-ezekiel/Ezekiel 2|Ezekiel 2]] · [[connections/books/Ezekiel|Ezekiel]] · [[connections/chapters/26-ezekiel/Ezekiel 4|Ezekiel 4]] →
+
+**Dated** *(Ussher, after the Treasury of Scripture Knowledge)*: [[connections/timeline/6th century BC|595 BC]]
 
 ## Text
 

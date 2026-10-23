@@ -7,6 +7,9 @@ original: ["סִיחוֹן"]
 verses: 34
 chapters: 18
 first: "Numbers 21:21"
+placed: "1451 BC"
+placed_year: -1450
+sex: "male"
 tags: ["person"]
 ---
 
@@ -15,6 +18,15 @@ tags: ["person"]
 Amorite king of Heshbon, defeated by the Israelites.
 
 **Original-language names:** סִיחוֹן (H5511)
+
+## When
+
+- **Placed around:** [[connections/timeline/15th century BC|1451 BC]] *(Ussher: the median date of the passages naming them)*
+
+## Family
+
+- **Tribe or nation:** Sinai
+
 
 ## Appears in
 

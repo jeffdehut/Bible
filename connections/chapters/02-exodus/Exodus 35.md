@@ -7,12 +7,16 @@ language: "Hebrew"
 verses: 35
 cross_references_out: 3
 cross_references_in: 9
+dated_from: -1490
+dated_to: -1490
 tags: ["chapter", "ot", "torah"]
 ---
 
 # Exodus 35
 
 ← [[connections/chapters/02-exodus/Exodus 34|Exodus 34]] · [[connections/books/Exodus|Exodus]] · [[connections/chapters/02-exodus/Exodus 36|Exodus 36]] →
+
+**Dated** *(Ussher, after the Treasury of Scripture Knowledge)*: [[connections/timeline/15th century BC|1491 BC]]
 
 ## Text
 

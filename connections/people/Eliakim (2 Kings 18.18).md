@@ -7,6 +7,10 @@ original: ["אֶלְיָקִים"]
 verses: 9
 chapters: 5
 first: "2 Kings 18:18"
+placed: "710 BC"
+placed_year: -709
+generation: 2
+sex: "male"
 tags: ["person"]
 ---
 
@@ -15,6 +19,25 @@ tags: ["person"]
 Palace administrator under King Hezekiah
 
 **Original-language names:** אֶלְיָקִים (H0471)
+
+## When
+
+- **Placed around:** [[connections/timeline/8th century BC|710 BC]] *(Ussher: the median date of the passages naming them)*
+
+## Family
+
+- **Father:** [[connections/people/Hilkiah (2 Kings 18.18)|Hilkiah (2 Kings 18.18)]]
+
+**Family group:** [[connections/genealogy/Family of Hilkiah (2 Kings 18.18)|Family of Hilkiah (2 Kings 18.18)]], generation 2
+
+```mermaid
+flowchart TB
+  n0["Eliakim (2 Kings 18.18)"]:::me
+  n1["Hilkiah (2 Kings 18.18)"]
+  n1 --> n0
+  classDef me stroke-width:3px
+  classDef spouse stroke-dasharray:4
+```
 
 ## Appears in
 

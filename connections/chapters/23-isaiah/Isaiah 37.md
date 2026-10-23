@@ -7,12 +7,16 @@ language: "Hebrew"
 verses: 38
 cross_references_out: 11
 cross_references_in: 28
+dated_from: -709
+dated_to: -709
 tags: ["chapter", "ot", "prophets"]
 ---
 
 # Isaiah 37
 
 ← [[connections/chapters/23-isaiah/Isaiah 36|Isaiah 36]] · [[connections/books/Isaiah|Isaiah]] · [[connections/chapters/23-isaiah/Isaiah 38|Isaiah 38]] →
+
+**Dated** *(Ussher, after the Treasury of Scripture Knowledge)*: [[connections/timeline/8th century BC|710 BC]]
 
 ## Text
 

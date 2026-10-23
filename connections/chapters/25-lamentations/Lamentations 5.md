@@ -7,12 +7,16 @@ language: "Hebrew"
 verses: 22
 cross_references_out: 11
 cross_references_in: 6
+dated_from: -587
+dated_to: -587
 tags: ["chapter", "ot", "prophets"]
 ---
 
 # Lamentations 5
 
 ← [[connections/chapters/25-lamentations/Lamentations 4|Lamentations 4]] · [[connections/books/Lamentations|Lamentations]] · [[connections/chapters/26-ezekiel/Ezekiel 1|Ezekiel 1]] →
+
+**Dated** *(Ussher, after the Treasury of Scripture Knowledge)*: [[connections/timeline/6th century BC|588 BC]]
 
 ## Text
 

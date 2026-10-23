@@ -7,6 +7,9 @@ original: ["Ἀνανίας"]
 verses: 5
 chapters: 2
 first: "Acts 9:10"
+placed: "AD 35"
+placed_year: 35
+sex: "male"
 tags: ["person"]
 ---
 
@@ -15,6 +18,14 @@ tags: ["person"]
 Disciple in Damascus, baptized Saul (Paul)
 
 **Original-language names:** Ἀνανίας (G0367)
+
+## When
+
+- **Placed around:** [[connections/timeline/1st century AD|AD 35]] *(Ussher: the median date of the passages naming them)*
+
+## Events
+
+- [[connections/timeline/1st century AD|AD 32]] · [[connections/events/Saul is converted|Saul is converted]]
 
 ## Appears in
 

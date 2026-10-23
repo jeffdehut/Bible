@@ -7,6 +7,10 @@ original: ["בֶּרֶכְיָה"]
 verses: 1
 chapters: 1
 first: "2 Chronicles 28:12"
+placed: "742 BC"
+placed_year: -741
+generation: 2
+sex: "male"
 tags: ["person"]
 ---
 
@@ -15,6 +19,25 @@ tags: ["person"]
 Ephraimite leader who opposed taking Judean captives
 
 **Original-language names:** בֶּרֶכְיָה (H1296)
+
+## When
+
+- **Placed around:** [[connections/timeline/8th century BC|742 BC]] *(Ussher: the median date of the passages naming them)*
+
+## Family
+
+- **Father:** [[connections/people/Meshillemoth|Meshillemoth]]
+
+**Family group:** [[connections/genealogy/Family of Meshillemoth|Family of Meshillemoth]], generation 2
+
+```mermaid
+flowchart TB
+  n0["Berechiah (2 Chronicles 28.12)"]:::me
+  n1["Meshillemoth"]
+  n1 --> n0
+  classDef me stroke-width:3px
+  classDef spouse stroke-dasharray:4
+```
 
 ## Appears in
 

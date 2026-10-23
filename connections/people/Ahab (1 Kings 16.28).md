@@ -7,6 +7,10 @@ original: ["אַחְאָב"]
 verses: 79
 chapters: 17
 first: "1 Kings 16:28"
+placed: "899 BC"
+placed_year: -898
+generation: 2
+sex: "male"
 tags: ["person"]
 ---
 
@@ -15,6 +19,42 @@ tags: ["person"]
 Wicked king of Israel; husband of Jezebel
 
 **Original-language names:** אַחְאָב (H0256)
+
+## When
+
+- **Placed around:** [[connections/timeline/9th century BC|899 BC]] *(Ussher: the median date of the passages naming them)*
+
+## Family
+
+- **Father:** [[connections/people/Omri (1 Kings 16.16)|Omri (1 Kings 16.16)]]
+- **Spouses:** [[connections/people/Jezebel|Jezebel]]
+- **Children:** [[connections/people/Ahaziah (1 Kings 22.40)|Ahaziah (1 Kings 22.40)]], [[connections/people/Athaliah (2 Kings 8.26)|Athaliah (2 Kings 8.26)]], [[connections/people/Joram (2 Kings 1.17)|Joram (2 Kings 1.17)]], [[connections/people/Joash (1 Kings 22.26)|Joash (1 Kings 22.26)]]
+- **Tribe or nation:** Israel
+
+**Family group:** [[connections/genealogy/Family of Adam|Family of Adam]], generation 2
+
+```mermaid
+flowchart TB
+  n0["Ahab (1 Kings 16.28)"]:::me
+  n1["Omri (1 Kings 16.16)"]
+  n1 --> n0
+  n2["Jezebel"]:::spouse
+  n0 -.- n2
+  n3["Ahaziah (1 Kings 22.40)"]
+  n0 --> n3
+  n4["Athaliah (2 Kings 8.26)"]
+  n0 --> n4
+  n5["Joram (2 Kings 1.17)"]
+  n0 --> n5
+  n6["Joash (1 Kings 22.26)"]
+  n0 --> n6
+  classDef me stroke-width:3px
+  classDef spouse stroke-dasharray:4
+```
+
+## Events
+
+- [[connections/timeline/10th century BC|918 BC]] · [[connections/events/Reign of Ahab|Reign of Ahab]]
 
 ## Appears in
 

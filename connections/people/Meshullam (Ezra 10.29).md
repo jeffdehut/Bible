@@ -7,6 +7,9 @@ original: ["מְשֻׁלָּם"]
 verses: 1
 chapters: 1
 first: "Ezra 10:29"
+placed: "456 BC"
+placed_year: -455
+sex: "male"
 tags: ["person"]
 ---
 
@@ -15,6 +18,10 @@ tags: ["person"]
 An Israelite who had married a foreign woman.
 
 **Original-language names:** מְשֻׁלָּם (H4918)
+
+## When
+
+- **Placed around:** [[connections/timeline/5th century BC|456 BC]] *(Ussher: the median date of the passages naming them)*
 
 ## Appears in
 

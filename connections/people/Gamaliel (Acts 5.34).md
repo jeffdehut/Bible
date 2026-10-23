@@ -7,6 +7,9 @@ original: ["Γαμαλιήλ"]
 verses: 2
 chapters: 2
 first: "Acts 5:34"
+placed: "AD 60"
+placed_year: 60
+sex: "male"
 tags: ["person"]
 ---
 
@@ -15,6 +18,14 @@ tags: ["person"]
 Pharisee; teacher of the law; Paul's mentor.
 
 **Original-language names:** Γαμαλιήλ (G1059)
+
+## When
+
+- **Placed around:** [[connections/timeline/1st century AD|AD 60]] *(Ussher: the median date of the passages naming them)*
+
+## Events
+
+- [[connections/timeline/1st century AD|AD 30]] · [[connections/events/Gamaliel advises the counsel and Apostles freed|Gamaliel advises the counsel and Apostles freed]]
 
 ## Appears in
 

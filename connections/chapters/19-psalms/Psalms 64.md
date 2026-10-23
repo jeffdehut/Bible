@@ -7,12 +7,16 @@ language: "Hebrew"
 verses: 11
 cross_references_out: 11
 cross_references_in: 18
+dated_from: -1060
+dated_to: -1060
 tags: ["chapter", "ot", "wisdom"]
 ---
 
 # Psalms 64
 
 ← [[connections/chapters/19-psalms/Psalms 63|Psalms 63]] · [[connections/books/Psalms|Psalms]] · [[connections/chapters/19-psalms/Psalms 65|Psalms 65]] →
+
+**Dated** *(Ussher, after the Treasury of Scripture Knowledge)*: [[connections/timeline/11th century BC|1061 BC]]
 
 ## Text
 

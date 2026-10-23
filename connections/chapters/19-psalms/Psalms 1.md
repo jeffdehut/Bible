@@ -7,12 +7,16 @@ language: "Hebrew"
 verses: 6
 cross_references_out: 127
 cross_references_in: 52
+dated_from: -443
+dated_to: -443
 tags: ["chapter", "ot", "wisdom"]
 ---
 
 # Psalms 1
 
 ← [[connections/chapters/18-job/Job 42|Job 42]] · [[connections/books/Psalms|Psalms]] · [[connections/chapters/19-psalms/Psalms 2|Psalms 2]] →
+
+**Dated** *(Ussher, after the Treasury of Scripture Knowledge)*: [[connections/timeline/5th century BC|444 BC]]
 
 ## Text
 

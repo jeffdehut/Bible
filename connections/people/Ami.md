@@ -8,6 +8,9 @@ original: ["אָמִי", "אָמוֹן"]
 verses: 2
 chapters: 2
 first: "Ezra 2:57"
+placed: "445 BC"
+placed_year: -444
+sex: "male"
 tags: ["person"]
 ---
 
@@ -18,6 +21,10 @@ Family of Solomon's servants
 **Also called:** Amon
 
 **Original-language names:** אָמִי (H0532) · אָמוֹן (H0526)
+
+## When
+
+- **Placed around:** [[connections/timeline/5th century BC|445 BC]] *(Ussher: the median date of the passages naming them)*
 
 ## Appears in
 

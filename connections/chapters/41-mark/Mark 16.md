@@ -7,12 +7,16 @@ language: "Greek"
 verses: 20
 cross_references_out: 123
 cross_references_in: 80
+dated_from: 33
+dated_to: 33
 tags: ["chapter", "nt", "gospels"]
 ---
 
 # Mark 16
 
 ← [[connections/chapters/41-mark/Mark 15|Mark 15]] · [[connections/books/Mark|Mark]] · [[connections/chapters/42-luke/Luke 1|Luke 1]] →
+
+**Dated** *(Ussher, after the Treasury of Scripture Knowledge)*: [[connections/timeline/1st century AD|AD 33]]
 
 ## Text
 
@@ -37,6 +41,6 @@ Compare: [[text/greek-tr/41-mark#Chapter 16|Textus Receptus]] · [[apparatus/gre
 
 ## People and places
 
-**People:** [[connections/people/Mary Magdalene|Mary Magdalene]], [[connections/people/Peter|Peter]], [[connections/people/James (Matthew 10.3)|James (Matthew 10.3)]], [[connections/people/Jesus|Jesus]], [[connections/people/Mary (Matthew 27.56)|Mary (Matthew 27.56)]], [[connections/people/Salome|Salome]]
+**People:** [[connections/people/Mary Magdalene|Mary Magdalene]], [[connections/people/Peter|Peter]], [[connections/people/James (Matthew 10.3)|James (Matthew 10.3)]], [[connections/people/Jesus|Jesus]], [[connections/people/Mary (Matthew 27.56)|Mary (Matthew 27.56)]], [[connections/people/Salome (Mark 15.40)|Salome (Mark 15.40)]]
 
 **Places:** [[connections/places/Magadan|Magadan]], [[connections/places/Galilee|Galilee]], [[connections/places/Nazareth|Nazareth]]

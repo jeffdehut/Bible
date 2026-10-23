@@ -7,12 +7,16 @@ language: "Hebrew"
 verses: 34
 cross_references_out: 1
 cross_references_in: 4
+dated_from: -954
+dated_to: -913
 tags: ["chapter", "ot", "history"]
 ---
 
 # 1 Kings 15
 
 ← [[connections/chapters/11-1-kings/1 Kings 14|1 Kings 14]] · [[connections/books/1 Kings|1 Kings]] · [[connections/chapters/11-1-kings/1 Kings 16|1 Kings 16]] →
+
+**Dated** *(Ussher, after the Treasury of Scripture Knowledge)*: [[connections/timeline/10th century BC|955 BC]] – [[connections/timeline/10th century BC|914 BC]]
 
 ## Text
 

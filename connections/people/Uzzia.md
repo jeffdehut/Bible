@@ -7,6 +7,9 @@ original: ["עֻזִּיָּא"]
 verses: 1
 chapters: 1
 first: "1 Chronicles 11:44"
+placed: "1055 BC"
+placed_year: -1054
+sex: "male"
 tags: ["person"]
 ---
 
@@ -15,6 +18,10 @@ tags: ["person"]
 Ashterathite, one of David's mighty warriors
 
 **Original-language names:** עֻזִּיָּא (H5814)
+
+## When
+
+- **Placed around:** [[connections/timeline/11th century BC|1055 BC]] *(Ussher: the median date of the passages naming them)*
 
 ## Appears in
 

@@ -7,6 +7,9 @@ original: ["פַּרְעֹה"]
 verses: 1
 chapters: 1
 first: "Jeremiah 25:19"
+placed: "606 BC"
+placed_year: -605
+sex: "male"
 tags: ["person"]
 ---
 
@@ -15,6 +18,15 @@ tags: ["person"]
 Egyptian Pharaoh during Jeremiah's time
 
 **Original-language names:** פַּרְעֹה (H6547)
+
+## When
+
+- **Placed around:** [[connections/timeline/7th century BC|606 BC]] *(Ussher: the median date of the passages naming them)*
+
+## Family
+
+- **Tribe or nation:** Egypt
+
 
 ## Appears in
 

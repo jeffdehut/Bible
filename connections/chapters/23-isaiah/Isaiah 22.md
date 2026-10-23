@@ -7,12 +7,16 @@ language: "Hebrew"
 verses: 25
 cross_references_out: 6
 cross_references_in: 10
+dated_from: -711
+dated_to: -711
 tags: ["chapter", "ot", "prophets"]
 ---
 
 # Isaiah 22
 
 ← [[connections/chapters/23-isaiah/Isaiah 21|Isaiah 21]] · [[connections/books/Isaiah|Isaiah]] · [[connections/chapters/23-isaiah/Isaiah 23|Isaiah 23]] →
+
+**Dated** *(Ussher, after the Treasury of Scripture Knowledge)*: [[connections/timeline/8th century BC|712 BC]]
 
 ## Text
 

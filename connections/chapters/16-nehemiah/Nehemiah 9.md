@@ -7,12 +7,16 @@ language: "Hebrew"
 verses: 37
 cross_references_out: 28
 cross_references_in: 74
+dated_from: -444
+dated_to: -444
 tags: ["chapter", "ot", "history"]
 ---
 
 # Nehemiah 9
 
 ← [[connections/chapters/16-nehemiah/Nehemiah 8|Nehemiah 8]] · [[connections/books/Nehemiah|Nehemiah]] · [[connections/chapters/16-nehemiah/Nehemiah 10|Nehemiah 10]] →
+
+**Dated** *(Ussher, after the Treasury of Scripture Knowledge)*: [[connections/timeline/5th century BC|445 BC]]
 
 ## Text
 

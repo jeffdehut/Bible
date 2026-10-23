@@ -17,6 +17,11 @@ An island where Paul was shipwrecked
 
 **Original-language names:** Μελίτη (G3194)
 
+## Events
+
+- [[connections/timeline/1st century AD|AD 56]] · [[connections/events/Paul's Journey to Rome|Paul's Journey to Rome]]
+- [[connections/timeline/1st century AD|AD 57]] · [[connections/events/Paul stays at Malta|Paul stays at Malta]]
+
 ## Appears in
 
 [[connections/chapters/44-acts/Acts 28|Acts 28]]

@@ -7,6 +7,10 @@ original: ["שֵׁשַׁי"]
 verses: 3
 chapters: 3
 first: "Numbers 13:22"
+placed: "1443 BC"
+placed_year: -1442
+generation: 3
+sex: "male"
 tags: ["person"]
 ---
 
@@ -15,6 +19,34 @@ tags: ["person"]
 Anakite giant defeated by Caleb
 
 **Original-language names:** שֵׁשַׁי (H8344)
+
+## When
+
+- **Placed around:** [[connections/timeline/15th century BC|1443 BC]] *(Ussher: the median date of the passages naming them)*
+
+## Family
+
+- **Father:** [[connections/people/Anak|Anak]]
+- **Brothers and sisters:** [[connections/people/Ahiman (Numbers 13.22)|Ahiman (Numbers 13.22)]], [[connections/people/Talmai (Numbers 13.22)|Talmai (Numbers 13.22)]]
+
+**Line of descent** (3 generations, father to son): [[connections/people/Arba|Arba]] → [[connections/people/Anak|Anak]] → **Sheshai**
+
+**Family group:** [[connections/genealogy/Family of Arba|Family of Arba]], generation 3
+
+```mermaid
+flowchart TB
+  n0["Sheshai"]:::me
+  n1["Arba"]
+  n2["Anak"]
+  n1 --> n2
+  n2 --> n0
+  n3["Ahiman (Numbers 13.22)"]
+  n2 --> n3
+  n4["Talmai (Numbers 13.22)"]
+  n2 --> n4
+  classDef me stroke-width:3px
+  classDef spouse stroke-dasharray:4
+```
 
 ## Appears in
 

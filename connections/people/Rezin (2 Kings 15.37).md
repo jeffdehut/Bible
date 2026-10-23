@@ -7,6 +7,9 @@ original: ["רְצִין"]
 verses: 9
 chapters: 5
 first: "2 Kings 15:37"
+placed: "741 BC"
+placed_year: -740
+sex: "male"
 tags: ["person"]
 ---
 
@@ -15,6 +18,16 @@ tags: ["person"]
 King of Aram (Syria) during the reign of Ahaz
 
 **Original-language names:** רְצִין (H7526)
+
+## When
+
+- **Placed around:** [[connections/timeline/8th century BC|741 BC]] *(Ussher: the median date of the passages naming them)*
+- **Reigned / in office:** c. [[connections/timeline/8th century BC|754 BC]] – [[connections/timeline/8th century BC|732 BC]] *(modern dates)* · Rezin, Aram · [Wikidata Q878947](https://www.wikidata.org/wiki/Q878947)
+
+## Family
+
+- **Tribe or nation:** Syria
+
 
 ## Appears in
 

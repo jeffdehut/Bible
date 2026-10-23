@@ -7,12 +7,16 @@ language: "Hebrew"
 verses: 10
 cross_references_out: 62
 cross_references_in: 33
+dated_from: -1041
+dated_to: -1041
 tags: ["chapter", "ot", "wisdom"]
 ---
 
 # Psalms 24
 
 ← [[connections/chapters/19-psalms/Psalms 23|Psalms 23]] · [[connections/books/Psalms|Psalms]] · [[connections/chapters/19-psalms/Psalms 25|Psalms 25]] →
+
+**Dated** *(Ussher, after the Treasury of Scripture Knowledge)*: [[connections/timeline/11th century BC|1042 BC]]
 
 ## Text
 

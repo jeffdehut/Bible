@@ -7,12 +7,16 @@ language: "Hebrew"
 verses: 38
 cross_references_out: 0
 cross_references_in: 2
+dated_from: -1489
+dated_to: -1489
 tags: ["chapter", "ot", "torah"]
 ---
 
 # Leviticus 7
 
 ← [[connections/chapters/03-leviticus/Leviticus 6|Leviticus 6]] · [[connections/books/Leviticus|Leviticus]] · [[connections/chapters/03-leviticus/Leviticus 8|Leviticus 8]] →
+
+**Dated** *(Ussher, after the Treasury of Scripture Knowledge)*: [[connections/timeline/15th century BC|1490 BC]]
 
 ## Text
 

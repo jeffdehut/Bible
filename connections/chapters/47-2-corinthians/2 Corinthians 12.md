@@ -7,12 +7,16 @@ language: "Greek"
 verses: 21
 cross_references_out: 70
 cross_references_in: 103
+dated_from: 60
+dated_to: 60
 tags: ["chapter", "nt", "pauline-epistles"]
 ---
 
 # 2 Corinthians 12
 
 ← [[connections/chapters/47-2-corinthians/2 Corinthians 11|2 Corinthians 11]] · [[connections/books/2 Corinthians|2 Corinthians]] · [[connections/chapters/47-2-corinthians/2 Corinthians 13|2 Corinthians 13]] →
+
+**Dated** *(Ussher, after the Treasury of Scripture Knowledge)*: [[connections/timeline/1st century AD|AD 60]]
 
 ## Text
 

@@ -7,6 +7,9 @@ original: ["אֶלְיַחְבָּא"]
 verses: 2
 chapters: 2
 first: "2 Samuel 23:32"
+placed: "1055 BC"
+placed_year: -1054
+sex: "male"
 tags: ["person"]
 ---
 
@@ -15,6 +18,10 @@ tags: ["person"]
 Shaalbonite, one of David's mighty men
 
 **Original-language names:** אֶלְיַחְבָּא (H0455)
+
+## When
+
+- **Placed around:** [[connections/timeline/11th century BC|1055 BC]] *(Ussher: the median date of the passages naming them)*
 
 ## Appears in
 

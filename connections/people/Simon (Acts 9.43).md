@@ -7,6 +7,9 @@ original: ["Σίμων"]
 verses: 4
 chapters: 2
 first: "Acts 9:43"
+placed: "AD 41"
+placed_year: 41
+sex: "male"
 tags: ["person"]
 ---
 
@@ -15,6 +18,15 @@ tags: ["person"]
 A tanner in Joppa who hosted Peter.
 
 **Original-language names:** Σίμων (G4613)
+
+## When
+
+- **Placed around:** [[connections/timeline/1st century AD|AD 41]] *(Ussher: the median date of the passages naming them)*
+
+## Events
+
+- [[connections/timeline/1st century AD|AD 38]] · [[connections/events/Peter heals Aeneas and Dorcas|Peter heals Aeneas and Dorcas]]
+- [[connections/timeline/1st century AD|AD 38]] · [[connections/events/Peter meets Cornelius|Peter meets Cornelius]]
 
 ## Appears in
 

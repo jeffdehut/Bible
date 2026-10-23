@@ -7,6 +7,9 @@ original: ["עֵ֫דֶן"]
 verses: 1
 chapters: 1
 first: "2 Chronicles 31:15"
+placed: "726 BC"
+placed_year: -725
+sex: "male"
 tags: ["person"]
 ---
 
@@ -15,6 +18,10 @@ tags: ["person"]
 Levite appointed by Hezekiah to distribute offerings
 
 **Original-language names:** עֵ֫דֶן (H5731a)
+
+## When
+
+- **Placed around:** [[connections/timeline/8th century BC|726 BC]] *(Ussher: the median date of the passages naming them)*
 
 ## Appears in
 

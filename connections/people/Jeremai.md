@@ -7,6 +7,9 @@ original: ["יְרֵמַי"]
 verses: 1
 chapters: 1
 first: "Ezra 10:33"
+placed: "456 BC"
+placed_year: -455
+sex: "male"
 tags: ["person"]
 ---
 
@@ -15,6 +18,10 @@ tags: ["person"]
 A descendant of Hashum who married a foreign wife.
 
 **Original-language names:** יְרֵמַי (H3413)
+
+## When
+
+- **Placed around:** [[connections/timeline/5th century BC|456 BC]] *(Ussher: the median date of the passages naming them)*
 
 ## Appears in
 

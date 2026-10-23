@@ -7,6 +7,10 @@ original: ["טוֹבִיָּ֫הוּ"]
 verses: 12
 chapters: 5
 first: "Nehemiah 2:10"
+placed: "445 BC"
+placed_year: -444
+generation: 3
+sex: "male"
 tags: ["person"]
 ---
 
@@ -15,6 +19,29 @@ tags: ["person"]
 Ammonite official who opposed Nehemiah's rebuilding efforts
 
 **Original-language names:** טוֹבִיָּ֫הוּ (H2900)
+
+## When
+
+- **Placed around:** [[connections/timeline/5th century BC|445 BC]] *(Ussher: the median date of the passages naming them)*
+
+## Family
+
+- **Spouses:** [[connections/people/daughter of Shecaniah (Nehemiah 6.18)|daughter of Shecaniah (Nehemiah 6.18)]]
+- **Children:** [[connections/people/Jehohanan (Nehemiah 6.18)|Jehohanan (Nehemiah 6.18)]]
+- **Tribe or nation:** Ammon
+
+**Family group:** [[connections/genealogy/Family of Arah (Nehemiah 6.18)|Family of Arah (Nehemiah 6.18)]], generation 3
+
+```mermaid
+flowchart TB
+  n0["Tobiah (Nehemiah 2.10)"]:::me
+  n1["daughter of Shecaniah (Nehemiah 6.18)"]:::spouse
+  n0 -.- n1
+  n2["Jehohanan (Nehemiah 6.18)"]
+  n0 --> n2
+  classDef me stroke-width:3px
+  classDef spouse stroke-dasharray:4
+```
 
 ## Appears in
 

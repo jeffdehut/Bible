@@ -8,6 +8,12 @@ original: ["אֶפְרַ֫יִם", "עֶפְרוֹן"]
 verses: 158
 chapters: 82
 first: "Genesis 41:52"
+born: "1708 BC"
+born_year: -1707
+placed: "896 BC"
+placed_year: -895
+generation: 25
+sex: "male"
 tags: ["person"]
 ---
 
@@ -18,6 +24,54 @@ Second son of Joseph, and a tribe of Israel.
 **Also called:** Ephron
 
 **Original-language names:** אֶפְרַ֫יִם (H0669) · עֶפְרוֹן (H6085)
+
+## When
+
+- **Lived:** [[connections/timeline/18th century BC|1708 BC]] – ? *(Jones)*
+- **Placed around:** [[connections/timeline/9th century BC|896 BC]] *(Ussher: the median date of the passages naming them)*
+
+## Family
+
+- **Father:** [[connections/people/Joseph (Genesis 30.24)|Joseph (Genesis 30.24)]]
+- **Mother:** [[connections/people/Asenath|Asenath]]
+- **Brothers and sisters:** [[connections/people/Manasseh (Genesis 41.51)|Manasseh (Genesis 41.51)]]
+- **Children:** [[connections/people/Becher (Numbers 26.35)|Becher (Numbers 26.35)]], [[connections/people/Beriah (1 Chronicles 7.23)|Beriah (1 Chronicles 7.23)]], [[connections/people/Elead|Elead]], [[connections/people/Ezer (1 Chronicles 7.21)|Ezer (1 Chronicles 7.21)]], [[connections/people/Shuthelah (Numbers 26.35)|Shuthelah (Numbers 26.35)]], [[connections/people/Tahan (Numbers 26.35)|Tahan (Numbers 26.35)]]
+- **Tribe or nation:** Tribe of Ephraim
+
+**Line of descent** (25 generations, father to son): [[connections/people/Adam|Adam]] → [[connections/people/Seth|Seth]] → [[connections/people/Enosh|Enosh]] → [[connections/people/Kenan|Kenan]] → [[connections/people/Mahalalel (Genesis 5.12)|Mahalalel (Genesis 5.12)]] → [[connections/people/Jared|Jared]] → [[connections/people/Enoch (Genesis 5.18)|Enoch (Genesis 5.18)]] → [[connections/people/Methuselah|Methuselah]] → [[connections/people/Lamech (Genesis 5.25)|Lamech (Genesis 5.25)]] → [[connections/people/Noah (Genesis 5.29)|Noah (Genesis 5.29)]] → [[connections/people/Shem|Shem]] → [[connections/people/Arpachshad|Arpachshad]] → [[connections/people/Cainan|Cainan]] → [[connections/people/Shelah (Genesis 10.24)|Shelah (Genesis 10.24)]] → [[connections/people/Eber (Genesis 10.21)|Eber (Genesis 10.21)]] → [[connections/people/Peleg|Peleg]] → [[connections/people/Reu|Reu]] → [[connections/people/Serug|Serug]] → [[connections/people/Nahor (Genesis 11.22)|Nahor (Genesis 11.22)]] → [[connections/people/Terah|Terah]] → [[connections/people/Abraham|Abraham]] → [[connections/people/Isaac|Isaac]] → [[connections/people/Israel|Israel]] → [[connections/people/Joseph (Genesis 30.24)|Joseph (Genesis 30.24)]] → **Ephraim**
+
+**Family group:** [[connections/genealogy/Family of Adam|Family of Adam]], generation 25
+
+```mermaid
+flowchart TB
+  n0["Ephraim"]:::me
+  n1["Potiphera"]
+  n2["Asenath"]
+  n1 --> n2
+  n2 --> n0
+  n3["Israel"]
+  n4["Joseph (Genesis 30.24)"]
+  n3 --> n4
+  n5["Rachel"]
+  n5 --> n4
+  n4 --> n0
+  n6["Manasseh (Genesis 41.51)"]
+  n2 --> n6
+  n7["Becher (Numbers 26.35)"]
+  n0 --> n7
+  n8["Beriah (1 Chronicles 7.23)"]
+  n0 --> n8
+  n9["Elead"]
+  n0 --> n9
+  n10["Ezer (1 Chronicles 7.21)"]
+  n0 --> n10
+  n11["Shuthelah (Numbers 26.35)"]
+  n0 --> n11
+  n12["Tahan (Numbers 26.35)"]
+  n0 --> n12
+  classDef me stroke-width:3px
+  classDef spouse stroke-dasharray:4
+```
 
 ## Appears in
 

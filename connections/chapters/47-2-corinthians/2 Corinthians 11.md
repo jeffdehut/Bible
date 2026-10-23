@@ -7,12 +7,16 @@ language: "Greek"
 verses: 33
 cross_references_out: 40
 cross_references_in: 85
+dated_from: 60
+dated_to: 60
 tags: ["chapter", "nt", "pauline-epistles"]
 ---
 
 # 2 Corinthians 11
 
 ← [[connections/chapters/47-2-corinthians/2 Corinthians 10|2 Corinthians 10]] · [[connections/books/2 Corinthians|2 Corinthians]] · [[connections/chapters/47-2-corinthians/2 Corinthians 12|2 Corinthians 12]] →
+
+**Dated** *(Ussher, after the Treasury of Scripture Knowledge)*: [[connections/timeline/1st century AD|AD 60]]
 
 ## Text
 

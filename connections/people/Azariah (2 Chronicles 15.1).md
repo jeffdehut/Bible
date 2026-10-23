@@ -7,6 +7,8 @@ original: ["עֲזַרְיָ֫הוּ"]
 verses: 1
 chapters: 1
 first: "2 Chronicles 15:1"
+generation: 2
+sex: "male"
 tags: ["person"]
 ---
 
@@ -15,6 +17,21 @@ tags: ["person"]
 Prophet who encouraged King Asa to seek God
 
 **Original-language names:** עֲזַרְיָ֫הוּ (H5838)
+
+## Family
+
+- **Father:** [[connections/people/Oded (2 Chronicles 15.1)|Oded (2 Chronicles 15.1)]]
+
+**Family group:** [[connections/genealogy/Family of Oded (2 Chronicles 15.1)|Family of Oded (2 Chronicles 15.1)]], generation 2
+
+```mermaid
+flowchart TB
+  n0["Azariah (2 Chronicles 15.1)"]:::me
+  n1["Oded (2 Chronicles 15.1)"]
+  n1 --> n0
+  classDef me stroke-width:3px
+  classDef spouse stroke-dasharray:4
+```
 
 ## Appears in
 

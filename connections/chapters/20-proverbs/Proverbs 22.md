@@ -7,12 +7,16 @@ language: "Hebrew"
 verses: 29
 cross_references_out: 93
 cross_references_in: 67
+dated_from: -999
+dated_to: -999
 tags: ["chapter", "ot", "wisdom"]
 ---
 
 # Proverbs 22
 
 ← [[connections/chapters/20-proverbs/Proverbs 21|Proverbs 21]] · [[connections/books/Proverbs|Proverbs]] · [[connections/chapters/20-proverbs/Proverbs 23|Proverbs 23]] →
+
+**Dated** *(Ussher, after the Treasury of Scripture Knowledge)*: [[connections/timeline/10th century BC|1000 BC]]
 
 ## Text
 

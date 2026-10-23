@@ -20,6 +20,13 @@ City of David's birth and Jesus' birth.
 
 **Original-language names:** בֵּית לֶ֫חֶם (H1035) · יָשֻׁ֫בִי לָ֑חֶם (H3433) · אֶפְרָ֫תָה (H0672) · Βηθλεέμ (G0965)
 
+## Events
+
+- [[connections/timeline/18th century BC|1739 BC]] · [[connections/events/Rachel dies giving birth to Benjamin|Rachel dies giving birth to Benjamin]]
+- [[connections/timeline/1st century BC|4 BC]] · [[connections/events/Wise Men Visit Jesus|Wise Men Visit Jesus]]
+- [[connections/timeline/1st century BC|4 BC]] · [[connections/events/Herod slays male children|Herod slays male children]]
+- [[connections/timeline/1st century BC|4 BC]] · [[connections/events/Birth of Jesus|Birth of Jesus]]
+
 ## Appears in
 
 [[connections/chapters/01-genesis/Genesis 35|Genesis 35 (2)]] · [[connections/chapters/01-genesis/Genesis 48|Genesis 48]] · [[connections/chapters/07-judges/Judges 12|Judges 12 (2)]] · [[connections/chapters/07-judges/Judges 17|Judges 17 (3)]] · [[connections/chapters/07-judges/Judges 19|Judges 19 (3)]] · [[connections/chapters/08-ruth/Ruth 1|Ruth 1 (4)]] · [[connections/chapters/08-ruth/Ruth 2|Ruth 2]] · [[connections/chapters/08-ruth/Ruth 4|Ruth 4]] · [[connections/chapters/09-1-samuel/1 Samuel 16|1 Samuel 16]] · [[connections/chapters/09-1-samuel/1 Samuel 17|1 Samuel 17 (2)]] · [[connections/chapters/09-1-samuel/1 Samuel 20|1 Samuel 20 (2)]] · [[connections/chapters/10-2-samuel/2 Samuel 2|2 Samuel 2]] · [[connections/chapters/10-2-samuel/2 Samuel 23|2 Samuel 23 (4)]] · [[connections/chapters/13-1-chronicles/1 Chronicles 2|1 Chronicles 2 (2)]] · [[connections/chapters/13-1-chronicles/1 Chronicles 4|1 Chronicles 4 (2)]] · [[connections/chapters/13-1-chronicles/1 Chronicles 11|1 Chronicles 11 (4)]] · [[connections/chapters/14-2-chronicles/2 Chronicles 11|2 Chronicles 11]] · [[connections/chapters/15-ezra/Ezra 2|Ezra 2]] · [[connections/chapters/16-nehemiah/Nehemiah 7|Nehemiah 7]] · [[connections/chapters/19-psalms/Psalms 132|Psalms 132]] · [[connections/chapters/24-jeremiah/Jeremiah 41|Jeremiah 41]] · [[connections/chapters/33-micah/Micah 5|Micah 5]] · [[connections/chapters/40-matthew/Matthew 2|Matthew 2 (5)]] · [[connections/chapters/42-luke/Luke 2|Luke 2 (2)]] · [[connections/chapters/43-john/John 7|John 7]]

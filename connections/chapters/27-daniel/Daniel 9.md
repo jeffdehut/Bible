@@ -7,12 +7,16 @@ language: "Hebrew/Aramaic"
 verses: 27
 cross_references_out: 54
 cross_references_in: 104
+dated_from: -537
+dated_to: -537
 tags: ["chapter", "ot", "prophets"]
 ---
 
 # Daniel 9
 
 ← [[connections/chapters/27-daniel/Daniel 8|Daniel 8]] · [[connections/books/Daniel|Daniel]] · [[connections/chapters/27-daniel/Daniel 10|Daniel 10]] →
+
+**Dated** *(Ussher, after the Treasury of Scripture Knowledge)*: [[connections/timeline/6th century BC|538 BC]]
 
 ## Text
 

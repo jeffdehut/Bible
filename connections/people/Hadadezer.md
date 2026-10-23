@@ -7,6 +7,10 @@ original: ["הֲדַרְעֶ֫זֶר", "הֲדַדְעֶ֫זֶר"]
 verses: 18
 chapters: 5
 first: "2 Samuel 8:3"
+placed: "1040 BC"
+placed_year: -1039
+generation: 2
+sex: "male"
 tags: ["person"]
 ---
 
@@ -15,6 +19,26 @@ tags: ["person"]
 King of Zobah, defeated by David.
 
 **Original-language names:** הֲדַרְעֶ֫זֶר (H1909) · הֲדַדְעֶ֫זֶר (H1928)
+
+## When
+
+- **Placed around:** [[connections/timeline/11th century BC|1040 BC]] *(Ussher: the median date of the passages naming them)*
+
+## Family
+
+- **Father:** [[connections/people/Rehob (2 Samuel 8.3)|Rehob (2 Samuel 8.3)]]
+- **Tribe or nation:** Syria
+
+**Family group:** [[connections/genealogy/Family of Rehob (2 Samuel 8.3)|Family of Rehob (2 Samuel 8.3)]], generation 2
+
+```mermaid
+flowchart TB
+  n0["Hadadezer"]:::me
+  n1["Rehob (2 Samuel 8.3)"]
+  n1 --> n0
+  classDef me stroke-width:3px
+  classDef spouse stroke-dasharray:4
+```
 
 ## Appears in
 

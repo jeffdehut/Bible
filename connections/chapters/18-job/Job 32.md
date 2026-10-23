@@ -7,12 +7,16 @@ language: "Hebrew"
 verses: 22
 cross_references_out: 16
 cross_references_in: 18
+dated_from: -1519
+dated_to: -1519
 tags: ["chapter", "ot", "wisdom"]
 ---
 
 # Job 32
 
 ← [[connections/chapters/18-job/Job 31|Job 31]] · [[connections/books/Job|Job]] · [[connections/chapters/18-job/Job 33|Job 33]] →
+
+**Dated** *(Ussher, after the Treasury of Scripture Knowledge)*: [[connections/timeline/16th century BC|1520 BC]]
 
 ## Text
 

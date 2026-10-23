@@ -8,6 +8,10 @@ original: ["Βαρνάβας", "Ἰωσήφ", "Ἰωσῆς"]
 verses: 28
 chapters: 10
 first: "Acts 4:36"
+placed: "AD 46"
+placed_year: 46
+generation: 2
+sex: "male"
 tags: ["person"]
 ---
 
@@ -18,6 +22,45 @@ A Levite from Cyprus who accompanied Paul on missionary journeys.
 **Also called:** Joseph, Joses
 
 **Original-language names:** Βαρνάβας (G0921) · Ἰωσήφ (G2501) · Ἰωσῆς (G2500)
+
+## When
+
+- **Placed around:** [[connections/timeline/1st century AD|AD 46]] *(Ussher: the median date of the passages naming them)*
+
+## Family
+
+- **Father:** [[connections/people/father of Barnabas (Colossians 4.10)|father of Barnabas (Colossians 4.10)]]
+- **Brothers and sisters:** [[connections/people/Mary (Acts 12.12)|Mary (Acts 12.12)]]
+- **Tribe or nation:** Tribe of Levi
+
+**Family group:** [[connections/genealogy/Family of father of Barnabas (Colossians 4.10)|Family of father of Barnabas (Colossians 4.10)]], generation 2
+
+```mermaid
+flowchart TB
+  n0["Barnabas"]:::me
+  n1["father of Barnabas (Colossians 4.10)"]
+  n1 --> n0
+  n2["Mary (Acts 12.12)"]
+  n1 --> n2
+  classDef me stroke-width:3px
+  classDef spouse stroke-dasharray:4
+```
+
+## Events
+
+- [[connections/timeline/1st century AD|AD 30]] · [[connections/events/Believers share all things|Believers share all things]]
+- [[connections/timeline/1st century AD|AD 38]] · [[connections/events/Saul proclaims Jesus|Saul proclaims Jesus]]
+- [[connections/timeline/1st century AD|AD 40]] · [[connections/events/Disciples first called Christians|Disciples first called Christians]]
+- [[connections/timeline/1st century AD|AD 45]] · [[connections/events/First missionary journey begins|First missionary journey begins]]
+- [[connections/timeline/1st century AD|AD 45]] · [[connections/events/First Missionary Journey|First Missionary Journey]]
+- [[connections/timeline/1st century AD|AD 45]] · [[connections/events/Barnabas and Saul go to Cyprus|Barnabas and Saul go to Cyprus]]
+- [[connections/timeline/1st century AD|AD 45]] · [[connections/events/Mission to Antioch in Pisidia|Mission to Antioch in Pisidia]]
+- [[connections/timeline/1st century AD|AD 46]] · [[connections/events/Mission to Iconium|Mission to Iconium]]
+- [[connections/timeline/1st century AD|AD 46]] · [[connections/events/Mission to Lystra and Derbe|Mission to Lystra and Derbe]]
+- [[connections/timeline/1st century AD|AD 46]] · [[connections/events/Return to Antioch in Syria|Return to Antioch in Syria]]
+- [[connections/timeline/1st century AD|AD 46]] · [[connections/events/Jerusalem Council|Jerusalem Council]]
+- [[connections/timeline/1st century AD|AD 46]] · [[connections/events/Second Missionary Journey|Second Missionary Journey]]
+- [[connections/timeline/1st century AD|AD 47]] · [[connections/events/Paul and Barnabas part ways|Paul and Barnabas part ways]]
 
 ## Appears in
 

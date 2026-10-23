@@ -7,12 +7,16 @@ language: "Hebrew"
 verses: 21
 cross_references_out: 37
 cross_references_in: 44
+dated_from: -486
+dated_to: -486
 tags: ["chapter", "ot", "prophets"]
 ---
 
 # Zechariah 14
 
 ← [[connections/chapters/38-zechariah/Zechariah 13|Zechariah 13]] · [[connections/books/Zechariah|Zechariah]] · [[connections/chapters/39-malachi/Malachi 1|Malachi 1]] →
+
+**Dated** *(Ussher, after the Treasury of Scripture Knowledge)*: [[connections/timeline/5th century BC|487 BC]]
 
 ## Text
 

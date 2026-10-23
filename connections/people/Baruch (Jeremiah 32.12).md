@@ -7,6 +7,10 @@ original: ["בָּרוּךְ"]
 verses: 21
 chapters: 4
 first: "Jeremiah 32:12"
+placed: "606 BC"
+placed_year: -605
+generation: 3
+sex: "male"
 tags: ["person"]
 ---
 
@@ -15,6 +19,32 @@ tags: ["person"]
 Jeremiah's scribe who recorded and delivered his prophecies.
 
 **Original-language names:** בָּרוּךְ (H1263)
+
+## When
+
+- **Placed around:** [[connections/timeline/7th century BC|606 BC]] *(Ussher: the median date of the passages naming them)*
+
+## Family
+
+- **Father:** [[connections/people/Neriah|Neriah]]
+- **Brothers and sisters:** [[connections/people/Seraiah (Jeremiah 51.59)|Seraiah (Jeremiah 51.59)]]
+
+**Line of descent** (3 generations, father to son): [[connections/people/Mahseiah|Mahseiah]] → [[connections/people/Neriah|Neriah]] → **Baruch (Jeremiah 32.12)**
+
+**Family group:** [[connections/genealogy/Family of Mahseiah|Family of Mahseiah]], generation 3
+
+```mermaid
+flowchart TB
+  n0["Baruch (Jeremiah 32.12)"]:::me
+  n1["Mahseiah"]
+  n2["Neriah"]
+  n1 --> n2
+  n2 --> n0
+  n3["Seraiah (Jeremiah 51.59)"]
+  n2 --> n3
+  classDef me stroke-width:3px
+  classDef spouse stroke-dasharray:4
+```
 
 ## Appears in
 

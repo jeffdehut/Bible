@@ -7,12 +7,16 @@ language: "Hebrew"
 verses: 21
 cross_references_out: 11
 cross_references_in: 18
+dated_from: -1164
+dated_to: -1164
 tags: ["chapter", "ot", "history"]
 ---
 
 # 1 Samuel 3
 
 ← [[connections/chapters/09-1-samuel/1 Samuel 2|1 Samuel 2]] · [[connections/books/1 Samuel|1 Samuel]] · [[connections/chapters/09-1-samuel/1 Samuel 4|1 Samuel 4]] →
+
+**Dated** *(Ussher, after the Treasury of Scripture Knowledge)*: [[connections/timeline/12th century BC|1165 BC]]
 
 ## Text
 

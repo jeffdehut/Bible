@@ -17,6 +17,10 @@ Ancient Mesopotamian city; part of Nimrod's kingdom
 
 **Original-language names:** אֶ֫רֶךְ (H0751) · אַרְכְּוָיֵא (H0756)
 
+## Events
+
+- [[connections/timeline/19th century BC|1822 BC]] · [[connections/events/Nimrod's kingdom begins|Nimrod's kingdom begins]]
+
 ## Appears in
 
 [[connections/chapters/01-genesis/Genesis 10|Genesis 10]] · [[connections/chapters/15-ezra/Ezra 4|Ezra 4]]

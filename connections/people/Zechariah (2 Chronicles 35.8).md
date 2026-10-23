@@ -7,6 +7,7 @@ original: ["זְכַרְיָהוּ"]
 verses: 1
 chapters: 1
 first: "2 Chronicles 35:8"
+sex: "male"
 tags: ["person"]
 ---
 

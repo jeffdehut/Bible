@@ -7,6 +7,10 @@ original: ["Πύρρος"]
 verses: 1
 chapters: 1
 first: "Acts 20:4"
+placed: "AD 60"
+placed_year: 60
+generation: 1
+sex: "male"
 tags: ["person"]
 ---
 
@@ -15,6 +19,25 @@ tags: ["person"]
 A Berean who accompanied Paul to Asia
 
 **Original-language names:** Πύρρος (G6077)
+
+## When
+
+- **Placed around:** [[connections/timeline/1st century AD|AD 60]] *(Ussher: the median date of the passages naming them)*
+
+## Family
+
+- **Children:** [[connections/people/Sopater|Sopater]]
+
+**Family group:** [[connections/genealogy/Family of Pyrrhus|Family of Pyrrhus]], generation 1
+
+```mermaid
+flowchart TB
+  n0["Pyrrhus"]:::me
+  n1["Sopater"]
+  n0 --> n1
+  classDef me stroke-width:3px
+  classDef spouse stroke-dasharray:4
+```
 
 ## Appears in
 

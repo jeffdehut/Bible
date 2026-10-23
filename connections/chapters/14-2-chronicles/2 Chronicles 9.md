@@ -7,12 +7,16 @@ language: "Hebrew"
 verses: 31
 cross_references_out: 0
 cross_references_in: 7
+dated_from: -974
+dated_to: -974
 tags: ["chapter", "ot", "history"]
 ---
 
 # 2 Chronicles 9
 
 ← [[connections/chapters/14-2-chronicles/2 Chronicles 8|2 Chronicles 8]] · [[connections/books/2 Chronicles|2 Chronicles]] · [[connections/chapters/14-2-chronicles/2 Chronicles 10|2 Chronicles 10]] →
+
+**Dated** *(Ussher, after the Treasury of Scripture Knowledge)*: [[connections/timeline/10th century BC|975 BC]]
 
 ## Text
 

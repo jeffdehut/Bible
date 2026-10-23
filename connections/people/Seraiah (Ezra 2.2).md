@@ -7,6 +7,9 @@ original: ["שְׂרָיָהוּ"]
 verses: 4
 chapters: 3
 first: "Ezra 2:2"
+placed: "445 BC"
+placed_year: -444
+sex: "male"
 tags: ["person"]
 ---
 
@@ -15,6 +18,10 @@ tags: ["person"]
 Priest who returned from Babylonian exile
 
 **Original-language names:** שְׂרָיָהוּ (H8304)
+
+## When
+
+- **Placed around:** [[connections/timeline/5th century BC|445 BC]] *(Ussher: the median date of the passages naming them)*
 
 ## Appears in
 

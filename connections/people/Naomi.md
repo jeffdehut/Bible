@@ -8,6 +8,10 @@ original: ["נׇעֳמִי", "מָרָא"]
 verses: 20
 chapters: 4
 first: "Ruth 1:2"
+placed: "1307 BC"
+placed_year: -1306
+generation: 32
+sex: "female"
 tags: ["person"]
 ---
 
@@ -18,6 +22,30 @@ Israelite woman, mother-in-law of Ruth.
 **Also called:** Mara
 
 **Original-language names:** נׇעֳמִי (H5281) · מָרָא (H4755)
+
+## When
+
+- **Placed around:** [[connections/timeline/14th century BC|1307 BC]] *(Ussher: the median date of the passages naming them)*
+
+## Family
+
+- **Spouses:** [[connections/people/Elimelech|Elimelech]]
+- **Children:** [[connections/people/Chilion|Chilion]], [[connections/people/Mahlon|Mahlon]]
+
+**Family group:** [[connections/genealogy/Family of Adam|Family of Adam]], generation 32
+
+```mermaid
+flowchart TB
+  n0["Naomi"]:::me
+  n1["Elimelech"]:::spouse
+  n0 -.- n1
+  n2["Chilion"]
+  n0 --> n2
+  n3["Mahlon"]
+  n0 --> n3
+  classDef me stroke-width:3px
+  classDef spouse stroke-dasharray:4
+```
 
 ## Appears in
 

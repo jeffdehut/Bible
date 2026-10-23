@@ -7,6 +7,10 @@ original: ["יוֹאָב"]
 verses: 120
 chapters: 26
 first: "1 Samuel 26:6"
+placed: "1027 BC"
+placed_year: -1026
+generation: 37
+sex: "male"
 tags: ["person"]
 ---
 
@@ -15,6 +19,38 @@ tags: ["person"]
 Son of Zeruiah, commander of David's army
 
 **Original-language names:** יוֹאָב (H3097)
+
+## When
+
+- **Placed around:** [[connections/timeline/11th century BC|1027 BC]] *(Ussher: the median date of the passages naming them)*
+
+## Family
+
+- **Father:** [[connections/people/husband of Zeruiah (1 Samuel 26.6)|husband of Zeruiah (1 Samuel 26.6)]]
+- **Mother:** [[connections/people/Zeruiah|Zeruiah]]
+- **Brothers and sisters:** [[connections/people/Abishai|Abishai]], [[connections/people/Asahel (2 Samuel 2.18)|Asahel (2 Samuel 2.18)]]
+- **Tribe or nation:** Tribe of Judah
+
+**Family group:** [[connections/genealogy/Family of Adam|Family of Adam]], generation 37
+
+```mermaid
+flowchart TB
+  n0["Joab (1 Samuel 26.6)"]:::me
+  n1["Jesse"]
+  n2["Zeruiah"]
+  n1 --> n2
+  n3["Nahash (2 Samuel 17.25)"]
+  n3 --> n2
+  n2 --> n0
+  n4["husband of Zeruiah (1 Samuel 26.6)"]
+  n4 --> n0
+  n5["Abishai"]
+  n2 --> n5
+  n6["Asahel (2 Samuel 2.18)"]
+  n2 --> n6
+  classDef me stroke-width:3px
+  classDef spouse stroke-dasharray:4
+```
 
 ## Appears in
 

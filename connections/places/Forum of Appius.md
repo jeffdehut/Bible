@@ -17,6 +17,10 @@ Marketplace on Appian Way; Christians met Paul on journey to Rome
 
 **Original-language names:** Φόρον+G0675«G0675=Ἄππιος (G5410)
 
+## Events
+
+- [[connections/timeline/1st century AD|AD 57]] · [[connections/events/Paul arrives at Rome|Paul arrives at Rome]]
+
 ## Appears in
 
 [[connections/chapters/44-acts/Acts 28|Acts 28]]

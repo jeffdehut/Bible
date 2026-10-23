@@ -8,6 +8,10 @@ original: ["Σώπατρος", "Σωσίπατρος"]
 verses: 2
 chapters: 2
 first: "Acts 20:4"
+placed: "AD 60"
+placed_year: 60
+generation: 2
+sex: "male"
 tags: ["person"]
 ---
 
@@ -18,6 +22,29 @@ Companion of Paul from Berea, greeted the Roman church.
 **Also called:** Sosipater
 
 **Original-language names:** Σώπατρος (G4986) · Σωσίπατρος (G4989)
+
+## When
+
+- **Placed around:** [[connections/timeline/1st century AD|AD 60]] *(Ussher: the median date of the passages naming them)*
+
+## Family
+
+- **Father:** [[connections/people/Pyrrhus|Pyrrhus]]
+
+**Family group:** [[connections/genealogy/Family of Pyrrhus|Family of Pyrrhus]], generation 2
+
+```mermaid
+flowchart TB
+  n0["Sopater"]:::me
+  n1["Pyrrhus"]
+  n1 --> n0
+  classDef me stroke-width:3px
+  classDef spouse stroke-dasharray:4
+```
+
+## Events
+
+- [[connections/timeline/1st century AD|AD 54]] · [[connections/events/Mission to Macedonia and Greece|Mission to Macedonia and Greece]]
 
 ## Appears in
 

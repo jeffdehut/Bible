@@ -7,6 +7,7 @@ original: ["אֲדֹנִי־בֶ֫זֶק"]
 verses: 3
 chapters: 1
 first: "Judges 1:5"
+sex: "male"
 tags: ["person"]
 ---
 
@@ -15,6 +16,11 @@ tags: ["person"]
 Canaanite king captured and mutilated by Judah
 
 **Original-language names:** אֲדֹנִי־בֶ֫זֶק (H0137)
+
+## Family
+
+- **Tribe or nation:** Canaan
+
 
 ## Appears in
 

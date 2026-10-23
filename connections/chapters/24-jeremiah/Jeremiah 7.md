@@ -7,12 +7,16 @@ language: "Hebrew/Aramaic"
 verses: 34
 cross_references_out: 28
 cross_references_in: 37
+dated_from: -609
+dated_to: -609
 tags: ["chapter", "ot", "prophets"]
 ---
 
 # Jeremiah 7
 
 ← [[connections/chapters/24-jeremiah/Jeremiah 6|Jeremiah 6]] · [[connections/books/Jeremiah|Jeremiah]] · [[connections/chapters/24-jeremiah/Jeremiah 8|Jeremiah 8]] →
+
+**Dated** *(Ussher, after the Treasury of Scripture Knowledge)*: [[connections/timeline/7th century BC|610 BC]]
 
 ## Text
 

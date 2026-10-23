@@ -7,12 +7,16 @@ language: "Hebrew"
 verses: 17
 cross_references_out: 1
 cross_references_in: 1
+dated_from: -1039
+dated_to: -1039
 tags: ["chapter", "ot", "history"]
 ---
 
 # 1 Chronicles 18
 
 ← [[connections/chapters/13-1-chronicles/1 Chronicles 17|1 Chronicles 17]] · [[connections/books/1 Chronicles|1 Chronicles]] · [[connections/chapters/13-1-chronicles/1 Chronicles 19|1 Chronicles 19]] →
+
+**Dated** *(Ussher, after the Treasury of Scripture Knowledge)*: [[connections/timeline/11th century BC|1040 BC]]
 
 ## Text
 

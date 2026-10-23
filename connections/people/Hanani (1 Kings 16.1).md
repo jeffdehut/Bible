@@ -7,6 +7,10 @@ original: ["חֲנָנִי"]
 verses: 5
 chapters: 4
 first: "1 Kings 16:1"
+placed: "930 BC"
+placed_year: -929
+generation: 1
+sex: "male"
 tags: ["person"]
 ---
 
@@ -15,6 +19,25 @@ tags: ["person"]
 A seer who prophesied during the reign of Asa.
 
 **Original-language names:** חֲנָנִי (H2607)
+
+## When
+
+- **Placed around:** [[connections/timeline/10th century BC|930 BC]] *(Ussher: the median date of the passages naming them)*
+
+## Family
+
+- **Children:** [[connections/people/Jehu (1 Kings 16.1)|Jehu (1 Kings 16.1)]]
+
+**Family group:** [[connections/genealogy/Family of Hanani (1 Kings 16.1)|Family of Hanani (1 Kings 16.1)]], generation 1
+
+```mermaid
+flowchart TB
+  n0["Hanani (1 Kings 16.1)"]:::me
+  n1["Jehu (1 Kings 16.1)"]
+  n0 --> n1
+  classDef me stroke-width:3px
+  classDef spouse stroke-dasharray:4
+```
 
 ## Appears in
 

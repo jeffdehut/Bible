@@ -7,6 +7,9 @@ original: ["בָּנִי"]
 verses: 2
 chapters: 2
 first: "Nehemiah 9:4"
+placed: "445 BC"
+placed_year: -444
+sex: "male"
 tags: ["person"]
 ---
 
@@ -15,6 +18,10 @@ tags: ["person"]
 A Levite who led prayers and sealed Nehemiah's covenant.
 
 **Original-language names:** בָּנִי (H1137)
+
+## When
+
+- **Placed around:** [[connections/timeline/5th century BC|445 BC]] *(Ussher: the median date of the passages naming them)*
 
 ## Appears in
 

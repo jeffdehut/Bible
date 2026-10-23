@@ -7,6 +7,8 @@ original: ["יַחְזְיָה"]
 verses: 1
 chapters: 1
 first: "Ezra 10:15"
+generation: 2
+sex: "male"
 tags: ["person"]
 ---
 
@@ -15,6 +17,21 @@ tags: ["person"]
 Opposed Ezra's command for Israelites to divorce foreign wives.
 
 **Original-language names:** יַחְזְיָה (H3167)
+
+## Family
+
+- **Father:** [[connections/people/Tikvah (Ezra 10.15)|Tikvah (Ezra 10.15)]]
+
+**Family group:** [[connections/genealogy/Family of Tikvah (Ezra 10.15)|Family of Tikvah (Ezra 10.15)]], generation 2
+
+```mermaid
+flowchart TB
+  n0["Jahzeiah"]:::me
+  n1["Tikvah (Ezra 10.15)"]
+  n1 --> n0
+  classDef me stroke-width:3px
+  classDef spouse stroke-dasharray:4
+```
 
 ## Appears in
 

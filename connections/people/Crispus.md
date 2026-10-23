@@ -7,6 +7,9 @@ original: ["Κρίσπος"]
 verses: 2
 chapters: 2
 first: "Acts 18:8"
+placed: "AD 59"
+placed_year: 59
+sex: "male"
 tags: ["person"]
 ---
 
@@ -15,6 +18,14 @@ tags: ["person"]
 Synagogue leader in Corinth who believed in Jesus
 
 **Original-language names:** Κρίσπος (G2921)
+
+## When
+
+- **Placed around:** [[connections/timeline/1st century AD|AD 59]] *(Ussher: the median date of the passages naming them)*
+
+## Events
+
+- [[connections/timeline/1st century AD|AD 49]] · [[connections/events/Mission to Corinth, 1&2 Thess Written|Mission to Corinth, 1&2 Thess Written]]
 
 ## Appears in
 

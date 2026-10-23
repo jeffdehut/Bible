@@ -7,12 +7,16 @@ language: "Hebrew/Aramaic"
 verses: 30
 cross_references_out: 0
 cross_references_in: 1
+dated_from: -1738
+dated_to: -1720
 tags: ["chapter", "ot", "torah"]
 ---
 
 # Genesis 38
 
 ← [[connections/chapters/01-genesis/Genesis 37|Genesis 37]] · [[connections/books/Genesis|Genesis]] · [[connections/chapters/01-genesis/Genesis 39|Genesis 39]] →
+
+**Dated** *(Ussher, after the Treasury of Scripture Knowledge)*: [[connections/timeline/18th century BC|1739 BC]] – [[connections/timeline/18th century BC|1721 BC]]
 
 ## Text
 

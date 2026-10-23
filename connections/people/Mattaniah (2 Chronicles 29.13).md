@@ -7,6 +7,9 @@ original: ["מַתַּנְיָ֫הוּ"]
 verses: 1
 chapters: 1
 first: "2 Chronicles 29:13"
+placed: "726 BC"
+placed_year: -725
+sex: "male"
 tags: ["person"]
 ---
 
@@ -15,6 +18,10 @@ tags: ["person"]
 Levite who helped cleanse the temple during Hezekiah's reign.
 
 **Original-language names:** מַתַּנְיָ֫הוּ (H4983)
+
+## When
+
+- **Placed around:** [[connections/timeline/8th century BC|726 BC]] *(Ussher: the median date of the passages naming them)*
 
 ## Appears in
 

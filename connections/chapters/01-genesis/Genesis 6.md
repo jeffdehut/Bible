@@ -7,12 +7,16 @@ language: "Hebrew/Aramaic"
 verses: 22
 cross_references_out: 78
 cross_references_in: 40
+dated_from: -2467
+dated_to: -2447
 tags: ["chapter", "ot", "torah"]
 ---
 
 # Genesis 6
 
 ← [[connections/chapters/01-genesis/Genesis 5|Genesis 5]] · [[connections/books/Genesis|Genesis]] · [[connections/chapters/01-genesis/Genesis 7|Genesis 7]] →
+
+**Dated** *(Ussher, after the Treasury of Scripture Knowledge)*: [[connections/timeline/25th century BC|2468 BC]] – [[connections/timeline/25th century BC|2448 BC]]
 
 ## Text
 

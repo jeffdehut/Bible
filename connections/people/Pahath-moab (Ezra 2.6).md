@@ -7,6 +7,10 @@ original: ["פַּ֫חַת מוֹאָב"]
 verses: 4
 chapters: 4
 first: "Ezra 2:6"
+placed: "456 BC"
+placed_year: -455
+generation: 1
+sex: "male"
 tags: ["person"]
 ---
 
@@ -15,6 +19,27 @@ tags: ["person"]
 Group of returnees from Babylonian exile
 
 **Original-language names:** פַּ֫חַת מוֹאָב (H6355)
+
+## When
+
+- **Placed around:** [[connections/timeline/5th century BC|456 BC]] *(Ussher: the median date of the passages naming them)*
+
+## Family
+
+- **Children:** [[connections/people/Jeshua (Ezra 2.6)|Jeshua (Ezra 2.6)]], [[connections/people/Joab (Ezra 2.6)|Joab (Ezra 2.6)]]
+
+**Family group:** [[connections/genealogy/Family of Pahath-moab (Ezra 2.6)|Family of Pahath-moab (Ezra 2.6)]], generation 1
+
+```mermaid
+flowchart TB
+  n0["Pahath-moab (Ezra 2.6)"]:::me
+  n1["Jeshua (Ezra 2.6)"]
+  n0 --> n1
+  n2["Joab (Ezra 2.6)"]
+  n0 --> n2
+  classDef me stroke-width:3px
+  classDef spouse stroke-dasharray:4
+```
 
 ## Appears in
 

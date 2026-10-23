@@ -7,6 +7,9 @@ original: ["מִיכָה", "מִיכָֽיְהוּ"]
 verses: 19
 chapters: 2
 first: "Judges 17:1"
+placed: "1406 BC"
+placed_year: -1405
+sex: "male"
 tags: ["person"]
 ---
 
@@ -15,6 +18,15 @@ tags: ["person"]
 A man from Ephraim who set up idolatrous worship.
 
 **Original-language names:** מִיכָה (H4318) · מִיכָֽיְהוּ (H4321)
+
+## When
+
+- **Placed around:** [[connections/timeline/15th century BC|1406 BC]] *(Ussher: the median date of the passages naming them)*
+
+## Family
+
+- **Tribe or nation:** Tribe of Levi
+
 
 ## Appears in
 

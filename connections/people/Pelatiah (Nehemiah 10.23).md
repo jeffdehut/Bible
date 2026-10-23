@@ -7,6 +7,9 @@ original: ["פְּלַטְיָ֫הוּ"]
 verses: 1
 chapters: 1
 first: "Nehemiah 10:23"
+placed: "445 BC"
+placed_year: -444
+sex: "male"
 tags: ["person"]
 ---
 
@@ -15,6 +18,10 @@ tags: ["person"]
 Priest who signed Nehemiah's covenant
 
 **Original-language names:** פְּלַטְיָ֫הוּ (H6410)
+
+## When
+
+- **Placed around:** [[connections/timeline/5th century BC|445 BC]] *(Ussher: the median date of the passages naming them)*
 
 ## Appears in
 

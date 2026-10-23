@@ -7,12 +7,16 @@ language: "Hebrew"
 verses: 48
 cross_references_out: 0
 cross_references_in: 5
+dated_from: -1405
+dated_to: -1405
 tags: ["chapter", "ot", "history"]
 ---
 
 # Judges 20
 
 ← [[connections/chapters/07-judges/Judges 19|Judges 19]] · [[connections/books/Judges|Judges]] · [[connections/chapters/07-judges/Judges 21|Judges 21]] →
+
+**Dated** *(Ussher, after the Treasury of Scripture Knowledge)*: [[connections/timeline/15th century BC|1406 BC]]
 
 ## Text
 

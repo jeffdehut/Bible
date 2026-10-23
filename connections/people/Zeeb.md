@@ -7,6 +7,9 @@ original: ["זְאֵב"]
 verses: 3
 chapters: 3
 first: "Judges 7:25"
+placed: "1245 BC"
+placed_year: -1244
+sex: "male"
 tags: ["person"]
 ---
 
@@ -15,6 +18,10 @@ tags: ["person"]
 Midianite prince defeated by Gideon
 
 **Original-language names:** זְאֵב (H2062)
+
+## When
+
+- **Placed around:** [[connections/timeline/13th century BC|1245 BC]] *(Ussher: the median date of the passages naming them)*
 
 ## Appears in
 

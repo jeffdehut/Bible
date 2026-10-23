@@ -7,12 +7,16 @@ language: "Hebrew"
 verses: 33
 cross_references_out: 75
 cross_references_in: 102
+dated_from: -999
+dated_to: -999
 tags: ["chapter", "ot", "wisdom"]
 ---
 
 # Proverbs 1
 
 ← [[connections/chapters/19-psalms/Psalms 150|Psalms 150]] · [[connections/books/Proverbs|Proverbs]] · [[connections/chapters/20-proverbs/Proverbs 2|Proverbs 2]] →
+
+**Dated** *(Ussher, after the Treasury of Scripture Knowledge)*: [[connections/timeline/10th century BC|1000 BC]]
 
 ## Text
 

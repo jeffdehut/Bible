@@ -7,6 +7,10 @@ original: ["חֹבָב"]
 verses: 2
 chapters: 2
 first: "Numbers 10:29"
+placed: "1285 BC"
+placed_year: -1284
+generation: 2
+sex: "male"
 tags: ["person"]
 ---
 
@@ -15,6 +19,29 @@ tags: ["person"]
 Moses' brother-in-law, a Midianite.
 
 **Original-language names:** חֹבָב (H2246)
+
+## When
+
+- **Placed around:** [[connections/timeline/13th century BC|1285 BC]] *(Ussher: the median date of the passages naming them)*
+
+## Family
+
+- **Father:** [[connections/people/Jethro|Jethro]]
+- **Brothers and sisters:** [[connections/people/Zipporah|Zipporah]]
+- **Tribe or nation:** Midian
+
+**Family group:** [[connections/genealogy/Family of Adam|Family of Adam]], generation 2
+
+```mermaid
+flowchart TB
+  n0["Hobab"]:::me
+  n1["Jethro"]
+  n1 --> n0
+  n2["Zipporah"]
+  n1 --> n2
+  classDef me stroke-width:3px
+  classDef spouse stroke-dasharray:4
+```
 
 ## Appears in
 

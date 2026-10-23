@@ -7,12 +7,16 @@ language: "Greek"
 verses: 39
 cross_references_out: 89
 cross_references_in: 76
+dated_from: 32
+dated_to: 32
 tags: ["chapter", "nt", "gospels"]
 ---
 
 # Matthew 15
 
 ← [[connections/chapters/40-matthew/Matthew 14|Matthew 14]] · [[connections/books/Matthew|Matthew]] · [[connections/chapters/40-matthew/Matthew 16|Matthew 16]] →
+
+**Dated** *(Ussher, after the Treasury of Scripture Knowledge)*: [[connections/timeline/1st century AD|AD 32]]
 
 ## Text
 

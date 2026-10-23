@@ -7,6 +7,10 @@ original: ["צָדוֹק"]
 verses: 2
 chapters: 2
 first: "2 Kings 15:33"
+placed: "753 BC"
+placed_year: -752
+generation: 1
+sex: "male"
 tags: ["person"]
 ---
 
@@ -15,6 +19,25 @@ tags: ["person"]
 Father of Jerusha, wife of King Uzziah
 
 **Original-language names:** צָדוֹק (H6659)
+
+## When
+
+- **Placed around:** [[connections/timeline/8th century BC|753 BC]] *(Ussher: the median date of the passages naming them)*
+
+## Family
+
+- **Children:** [[connections/people/Jerusha|Jerusha]]
+
+**Family group:** [[connections/genealogy/Family of Adam|Family of Adam]], generation 1
+
+```mermaid
+flowchart TB
+  n0["Zadok (2 Kings 15.33)"]:::me
+  n1["Jerusha"]
+  n0 --> n1
+  classDef me stroke-width:3px
+  classDef spouse stroke-dasharray:4
+```
 
 ## Appears in
 

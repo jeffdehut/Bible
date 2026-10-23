@@ -8,6 +8,9 @@ original: ["מִישָׁאֵל", "מִישָׁאֵל", "מֵישַׁךְ", "מֵ
 verses: 18
 chapters: 3
 first: "Daniel 1:6"
+placed: "580 BC"
+placed_year: -579
+sex: "male"
 tags: ["person"]
 ---
 
@@ -18,6 +21,10 @@ A Jewish exile in Babylon, friend of Daniel.
 **Also called:** Meshach
 
 **Original-language names:** מִישָׁאֵל (H4332) · מִישָׁאֵל (H4333) · מֵישַׁךְ (H4336) · מֵישַׁךְ (H4335)
+
+## When
+
+- **Placed around:** [[connections/timeline/6th century BC|580 BC]] *(Ussher: the median date of the passages naming them)*
 
 ## Appears in
 

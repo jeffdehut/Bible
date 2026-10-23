@@ -7,12 +7,16 @@ language: "Hebrew/Aramaic"
 verses: 28
 cross_references_out: 0
 cross_references_in: 5
+dated_from: -597
+dated_to: -597
 tags: ["chapter", "ot", "prophets"]
 ---
 
 # Jeremiah 38
 
 ← [[connections/chapters/24-jeremiah/Jeremiah 37|Jeremiah 37]] · [[connections/books/Jeremiah|Jeremiah]] · [[connections/chapters/24-jeremiah/Jeremiah 39|Jeremiah 39]] →
+
+**Dated** *(Ussher, after the Treasury of Scripture Knowledge)*: [[connections/timeline/6th century BC|598 BC]]
 
 ## Text
 

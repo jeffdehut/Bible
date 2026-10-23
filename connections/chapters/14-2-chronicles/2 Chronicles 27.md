@@ -7,12 +7,16 @@ language: "Hebrew"
 verses: 9
 cross_references_out: 0
 cross_references_in: 0
+dated_from: -752
+dated_to: -752
 tags: ["chapter", "ot", "history"]
 ---
 
 # 2 Chronicles 27
 
 ← [[connections/chapters/14-2-chronicles/2 Chronicles 26|2 Chronicles 26]] · [[connections/books/2 Chronicles|2 Chronicles]] · [[connections/chapters/14-2-chronicles/2 Chronicles 28|2 Chronicles 28]] →
+
+**Dated** *(Ussher, after the Treasury of Scripture Knowledge)*: [[connections/timeline/8th century BC|753 BC]]
 
 ## Text
 

@@ -7,12 +7,16 @@ language: "Hebrew"
 verses: 46
 cross_references_out: 10
 cross_references_in: 16
+dated_from: -1013
+dated_to: -1010
 tags: ["chapter", "ot", "history"]
 ---
 
 # 1 Kings 2
 
 ← [[connections/chapters/11-1-kings/1 Kings 1|1 Kings 1]] · [[connections/books/1 Kings|1 Kings]] · [[connections/chapters/11-1-kings/1 Kings 3|1 Kings 3]] →
+
+**Dated** *(Ussher, after the Treasury of Scripture Knowledge)*: [[connections/timeline/11th century BC|1014 BC]] – [[connections/timeline/11th century BC|1011 BC]]
 
 ## Text
 

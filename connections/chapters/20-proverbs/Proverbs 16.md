@@ -7,12 +7,16 @@ language: "Hebrew"
 verses: 33
 cross_references_out: 127
 cross_references_in: 129
+dated_from: -999
+dated_to: -999
 tags: ["chapter", "ot", "wisdom"]
 ---
 
 # Proverbs 16
 
 ← [[connections/chapters/20-proverbs/Proverbs 15|Proverbs 15]] · [[connections/books/Proverbs|Proverbs]] · [[connections/chapters/20-proverbs/Proverbs 17|Proverbs 17]] →
+
+**Dated** *(Ussher, after the Treasury of Scripture Knowledge)*: [[connections/timeline/10th century BC|1000 BC]]
 
 ## Text
 

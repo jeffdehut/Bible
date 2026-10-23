@@ -7,6 +7,9 @@ original: ["Νικόλαος"]
 verses: 1
 chapters: 1
 first: "Acts 6:5"
+placed: "AD 33"
+placed_year: 33
+sex: "male"
 tags: ["person"]
 ---
 
@@ -15,6 +18,10 @@ tags: ["person"]
 Proselyte chosen as deacon
 
 **Original-language names:** Νικόλαος (G3532)
+
+## When
+
+- **Placed around:** [[connections/timeline/1st century AD|AD 33]] *(Ussher: the median date of the passages naming them)*
 
 ## Appears in
 

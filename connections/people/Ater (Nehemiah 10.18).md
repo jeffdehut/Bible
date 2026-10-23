@@ -7,6 +7,9 @@ original: ["אָטֵר"]
 verses: 1
 chapters: 1
 first: "Nehemiah 10:18"
+placed: "445 BC"
+placed_year: -444
+sex: "male"
 tags: ["person"]
 ---
 
@@ -15,6 +18,10 @@ tags: ["person"]
 One of the signers of the covenant during Nehemiah's time
 
 **Original-language names:** אָטֵר (H0333)
+
+## When
+
+- **Placed around:** [[connections/timeline/5th century BC|445 BC]] *(Ussher: the median date of the passages naming them)*
 
 ## Appears in
 

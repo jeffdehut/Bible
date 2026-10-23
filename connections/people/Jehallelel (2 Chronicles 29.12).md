@@ -7,6 +7,10 @@ original: ["יְהַלֶּלְאֵל"]
 verses: 1
 chapters: 1
 first: "2 Chronicles 29:12"
+placed: "726 BC"
+placed_year: -725
+generation: 1
+sex: "male"
 tags: ["person"]
 ---
 
@@ -15,6 +19,25 @@ tags: ["person"]
 Levite who helped purify the temple under Hezekiah
 
 **Original-language names:** יְהַלֶּלְאֵל (H3094)
+
+## When
+
+- **Placed around:** [[connections/timeline/8th century BC|726 BC]] *(Ussher: the median date of the passages naming them)*
+
+## Family
+
+- **Children:** [[connections/people/Azariah (2 Chronicles 29.12)|Azariah (2 Chronicles 29.12)]]
+
+**Family group:** [[connections/genealogy/Family of Jehallelel (2 Chronicles 29.12)|Family of Jehallelel (2 Chronicles 29.12)]], generation 1
+
+```mermaid
+flowchart TB
+  n0["Jehallelel (2 Chronicles 29.12)"]:::me
+  n1["Azariah (2 Chronicles 29.12)"]
+  n0 --> n1
+  classDef me stroke-width:3px
+  classDef spouse stroke-dasharray:4
+```
 
 ## Appears in
 

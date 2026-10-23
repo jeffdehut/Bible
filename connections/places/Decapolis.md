@@ -17,6 +17,11 @@ A group of ten Hellenistic cities in ancient Palestine.
 
 **Original-language names:** Δεκάπολις (G1179)
 
+## Events
+
+- [[connections/timeline/1st century AD|AD 29]] · [[connections/events/Feeding of Four Thousand|Feeding of Four Thousand]]
+- [[connections/timeline/1st century AD|AD 29]] · [[connections/events/Healing a Crowd near Sea of Galilee|Healing a Crowd near Sea of Galilee]]
+
 ## Appears in
 
 [[connections/chapters/40-matthew/Matthew 4|Matthew 4]] · [[connections/chapters/41-mark/Mark 5|Mark 5]] · [[connections/chapters/41-mark/Mark 7|Mark 7]]

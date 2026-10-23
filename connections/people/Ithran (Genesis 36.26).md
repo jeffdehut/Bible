@@ -7,6 +7,10 @@ original: ["יִתְרָן"]
 verses: 2
 chapters: 2
 first: "Genesis 36:26"
+placed: "1756 BC"
+placed_year: -1755
+generation: 3
+sex: "male"
 tags: ["person"]
 ---
 
@@ -15,6 +19,37 @@ tags: ["person"]
 Descendant of Esau, son of Dishon the Horite.
 
 **Original-language names:** יִתְרָן (H3506)
+
+## When
+
+- **Placed around:** [[connections/timeline/18th century BC|1756 BC]] *(Ussher: the median date of the passages naming them)*
+
+## Family
+
+- **Father:** [[connections/people/Dishon (Genesis 36.21)|Dishon (Genesis 36.21)]]
+- **Brothers and sisters:** [[connections/people/Cheran|Cheran]], [[connections/people/Eshban|Eshban]], [[connections/people/Hemdan|Hemdan]]
+- **Tribe or nation:** Edom
+
+**Line of descent** (3 generations, father to son): [[connections/people/Seir|Seir]] → [[connections/people/Dishon (Genesis 36.21)|Dishon (Genesis 36.21)]] → **Ithran (Genesis 36.26)**
+
+**Family group:** [[connections/genealogy/Family of Adam|Family of Adam]], generation 3
+
+```mermaid
+flowchart TB
+  n0["Ithran (Genesis 36.26)"]:::me
+  n1["Seir"]
+  n2["Dishon (Genesis 36.21)"]
+  n1 --> n2
+  n2 --> n0
+  n3["Cheran"]
+  n2 --> n3
+  n4["Eshban"]
+  n2 --> n4
+  n5["Hemdan"]
+  n2 --> n5
+  classDef me stroke-width:3px
+  classDef spouse stroke-dasharray:4
+```
 
 ## Appears in
 

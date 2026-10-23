@@ -8,6 +8,9 @@ original: ["Κλαύδιος", "Καῖσαρ"]
 verses: 11
 chapters: 7
 first: "Acts 11:28"
+placed: "AD 62"
+placed_year: 62
+sex: "male"
 tags: ["person"]
 ---
 
@@ -18,6 +21,11 @@ Roman emperor during Paul's ministry
 **Also called:** Caesar
 
 **Original-language names:** Κλαύδιος (G2804) · Καῖσαρ (G2541)
+
+## When
+
+- **Placed around:** [[connections/timeline/1st century AD|AD 62]] *(Ussher: the median date of the passages naming them)*
+- **Reigned / in office:** [[connections/timeline/1st century AD|AD 41]] – [[connections/timeline/1st century AD|AD 54]] *(modern dates)* · Claudius, Rome · [Wikidata Q1411](https://www.wikidata.org/wiki/Q1411)
 
 ## Appears in
 

@@ -20,6 +20,10 @@ Pool and tunnel in Jerusalem
 
 **Original-language names:** שֶׁ֫לַח (H7975a) · שִׁלֹחַ (H7975b) · מֶ֫לֶךְ+H1295G«H1295=בְּרֵכָה (H4428) · Σιλωάμ (G4611)
 
+## Events
+
+- [[connections/timeline/1st century AD|AD 29]] · [[connections/events/Blind Man Healed|Blind Man Healed]]
+
 ## Appears in
 
 [[connections/chapters/16-nehemiah/Nehemiah 2|Nehemiah 2]] · [[connections/chapters/16-nehemiah/Nehemiah 3|Nehemiah 3]] · [[connections/chapters/23-isaiah/Isaiah 8|Isaiah 8]] · [[connections/chapters/42-luke/Luke 13|Luke 13]] · [[connections/chapters/43-john/John 9|John 9 (2)]]

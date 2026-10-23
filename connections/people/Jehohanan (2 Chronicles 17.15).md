@@ -7,6 +7,9 @@ original: ["יְהוֹחָנָן"]
 verses: 1
 chapters: 1
 first: "2 Chronicles 17:15"
+placed: "912 BC"
+placed_year: -911
+sex: "male"
 tags: ["person"]
 ---
 
@@ -15,6 +18,10 @@ tags: ["person"]
 Military commander under King Jehoshaphat of Judah
 
 **Original-language names:** יְהוֹחָנָן (H3076)
+
+## When
+
+- **Placed around:** [[connections/timeline/10th century BC|912 BC]] *(Ussher: the median date of the passages naming them)*
 
 ## Appears in
 

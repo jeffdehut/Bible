@@ -7,12 +7,16 @@ language: "Hebrew"
 verses: 16
 cross_references_out: 29
 cross_references_in: 31
+dated_from: -1426
+dated_to: -1426
 tags: ["chapter", "ot", "history"]
 ---
 
 # Joshua 23
 
 ← [[connections/chapters/06-joshua/Joshua 22|Joshua 22]] · [[connections/books/Joshua|Joshua]] · [[connections/chapters/06-joshua/Joshua 24|Joshua 24]] →
+
+**Dated** *(Ussher, after the Treasury of Scripture Knowledge)*: [[connections/timeline/15th century BC|1427 BC]]
 
 ## Text
 

@@ -7,12 +7,16 @@ language: "Hebrew"
 verses: 25
 cross_references_out: 0
 cross_references_in: 2
+dated_from: -573
+dated_to: -573
 tags: ["chapter", "ot", "prophets"]
 ---
 
 # Ezekiel 45
 
 ← [[connections/chapters/26-ezekiel/Ezekiel 44|Ezekiel 44]] · [[connections/books/Ezekiel|Ezekiel]] · [[connections/chapters/26-ezekiel/Ezekiel 46|Ezekiel 46]] →
+
+**Dated** *(Ussher, after the Treasury of Scripture Knowledge)*: [[connections/timeline/6th century BC|574 BC]]
 
 ## Text
 

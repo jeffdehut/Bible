@@ -17,6 +17,10 @@ The hometown of Abraham in Mesopotamia
 
 **Original-language names:** אוּר (H0218b)
 
+## Events
+
+- [[connections/timeline/20th century BC|1996 BC]] · [[connections/events/Birth of Abraham|Birth of Abraham]]
+
 ## Appears in
 
 [[connections/chapters/01-genesis/Genesis 11|Genesis 11 (2)]] · [[connections/chapters/01-genesis/Genesis 15|Genesis 15]] · [[connections/chapters/16-nehemiah/Nehemiah 9|Nehemiah 9]]

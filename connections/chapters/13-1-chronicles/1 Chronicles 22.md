@@ -7,12 +7,16 @@ language: "Hebrew"
 verses: 19
 cross_references_out: 8
 cross_references_in: 22
+dated_from: -1016
+dated_to: -1016
 tags: ["chapter", "ot", "history"]
 ---
 
 # 1 Chronicles 22
 
 ← [[connections/chapters/13-1-chronicles/1 Chronicles 21|1 Chronicles 21]] · [[connections/books/1 Chronicles|1 Chronicles]] · [[connections/chapters/13-1-chronicles/1 Chronicles 23|1 Chronicles 23]] →
+
+**Dated** *(Ussher, after the Treasury of Scripture Knowledge)*: [[connections/timeline/11th century BC|1017 BC]]
 
 ## Text
 

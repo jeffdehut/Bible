@@ -7,12 +7,16 @@ language: "Hebrew/Aramaic"
 verses: 67
 cross_references_out: 15
 cross_references_in: 25
+dated_from: -1856
+dated_to: -1856
 tags: ["chapter", "ot", "torah"]
 ---
 
 # Genesis 24
 
 ← [[connections/chapters/01-genesis/Genesis 23|Genesis 23]] · [[connections/books/Genesis|Genesis]] · [[connections/chapters/01-genesis/Genesis 25|Genesis 25]] →
+
+**Dated** *(Ussher, after the Treasury of Scripture Knowledge)*: [[connections/timeline/19th century BC|1857 BC]]
 
 ## Text
 

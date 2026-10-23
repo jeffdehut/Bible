@@ -7,12 +7,16 @@ language: "Hebrew"
 verses: 16
 cross_references_out: 2
 cross_references_in: 7
+dated_from: -1061
+dated_to: -1061
 tags: ["chapter", "ot", "history"]
 ---
 
 # 1 Samuel 21
 
 ← [[connections/chapters/09-1-samuel/1 Samuel 20|1 Samuel 20]] · [[connections/books/1 Samuel|1 Samuel]] · [[connections/chapters/09-1-samuel/1 Samuel 22|1 Samuel 22]] →
+
+**Dated** *(Ussher, after the Treasury of Scripture Knowledge)*: [[connections/timeline/11th century BC|1062 BC]]
 
 ## Text
 

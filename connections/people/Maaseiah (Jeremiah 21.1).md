@@ -7,6 +7,10 @@ original: ["מַעֲשֵׂיָהוּ"]
 verses: 3
 chapters: 3
 first: "Jeremiah 21:1"
+placed: "598 BC"
+placed_year: -597
+generation: 1
+sex: "male"
 tags: ["person"]
 ---
 
@@ -15,6 +19,25 @@ tags: ["person"]
 Priest during the reigns of Zedekiah and Jehoiakim
 
 **Original-language names:** מַעֲשֵׂיָהוּ (H4641)
+
+## When
+
+- **Placed around:** [[connections/timeline/6th century BC|598 BC]] *(Ussher: the median date of the passages naming them)*
+
+## Family
+
+- **Children:** [[connections/people/Zephaniah (2 Kings 25.18)|Zephaniah (2 Kings 25.18)]]
+
+**Family group:** [[connections/genealogy/Family of Maaseiah (Jeremiah 21.1)|Family of Maaseiah (Jeremiah 21.1)]], generation 1
+
+```mermaid
+flowchart TB
+  n0["Maaseiah (Jeremiah 21.1)"]:::me
+  n1["Zephaniah (2 Kings 25.18)"]
+  n0 --> n1
+  classDef me stroke-width:3px
+  classDef spouse stroke-dasharray:4
+```
 
 ## Appears in
 

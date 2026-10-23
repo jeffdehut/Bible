@@ -7,6 +7,9 @@ original: ["פִּיכֹל"]
 verses: 3
 chapters: 2
 first: "Genesis 21:22"
+placed: "1886 BC"
+placed_year: -1885
+sex: "male"
 tags: ["person"]
 ---
 
@@ -15,6 +18,10 @@ tags: ["person"]
 Commander of Abimelech's army
 
 **Original-language names:** פִּיכֹל (H6369)
+
+## When
+
+- **Placed around:** [[connections/timeline/19th century BC|1886 BC]] *(Ussher: the median date of the passages naming them)*
 
 ## Appears in
 

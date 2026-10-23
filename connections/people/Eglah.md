@@ -7,6 +7,10 @@ original: ["עֶגְלָה"]
 verses: 2
 chapters: 2
 first: "2 Samuel 3:5"
+placed: "1048 BC"
+placed_year: -1047
+generation: 36
+sex: "female"
 tags: ["person"]
 ---
 
@@ -15,6 +19,28 @@ tags: ["person"]
 David's wife and mother of Ithream
 
 **Original-language names:** עֶגְלָה (H5698)
+
+## When
+
+- **Placed around:** [[connections/timeline/11th century BC|1048 BC]] *(Ussher: the median date of the passages naming them)*
+
+## Family
+
+- **Spouses:** [[connections/people/David|David]]
+- **Children:** [[connections/people/Ithream|Ithream]]
+
+**Family group:** [[connections/genealogy/Family of Adam|Family of Adam]], generation 36
+
+```mermaid
+flowchart TB
+  n0["Eglah"]:::me
+  n1["David"]:::spouse
+  n0 -.- n1
+  n2["Ithream"]
+  n0 --> n2
+  classDef me stroke-width:3px
+  classDef spouse stroke-dasharray:4
+```
 
 ## Appears in
 

@@ -7,6 +7,10 @@ original: ["יְפֻנֶּה"]
 verses: 15
 chapters: 11
 first: "Numbers 13:6"
+placed: "1452 BC"
+placed_year: -1451
+generation: 1
+sex: "male"
 tags: ["person"]
 ---
 
@@ -15,6 +19,27 @@ tags: ["person"]
 The Kenizzite, father of Caleb the spy.
 
 **Original-language names:** יְפֻנֶּה (H3312)
+
+## When
+
+- **Placed around:** [[connections/timeline/15th century BC|1452 BC]] *(Ussher: the median date of the passages naming them)*
+
+## Family
+
+- **Children:** [[connections/people/Caleb (Numbers 13.6)|Caleb (Numbers 13.6)]], [[connections/people/Kenaz (Joshua 15.17)|Kenaz (Joshua 15.17)]]
+
+**Family group:** [[connections/genealogy/Family of Jephunneh (Numbers 13.6)|Family of Jephunneh (Numbers 13.6)]], generation 1
+
+```mermaid
+flowchart TB
+  n0["Jephunneh (Numbers 13.6)"]:::me
+  n1["Caleb (Numbers 13.6)"]
+  n0 --> n1
+  n2["Kenaz (Joshua 15.17)"]
+  n0 --> n2
+  classDef me stroke-width:3px
+  classDef spouse stroke-dasharray:4
+```
 
 ## Appears in
 

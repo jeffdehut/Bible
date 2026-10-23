@@ -7,6 +7,9 @@ original: ["יָעֵל"]
 verses: 6
 chapters: 2
 first: "Judges 4:17"
+placed: "1285 BC"
+placed_year: -1284
+sex: "female"
 tags: ["person"]
 ---
 
@@ -15,6 +18,23 @@ tags: ["person"]
 Wife of Heber; killed Sisera, the Canaanite commander.
 
 **Original-language names:** יָעֵל (H3278)
+
+## When
+
+- **Placed around:** [[connections/timeline/13th century BC|1285 BC]] *(Ussher: the median date of the passages naming them)*
+
+## Family
+
+- **Spouses:** [[connections/people/Heber (Judges 4.11)|Heber (Judges 4.11)]]
+
+```mermaid
+flowchart TB
+  n0["Jael"]:::me
+  n1["Heber (Judges 4.11)"]:::spouse
+  n0 -.- n1
+  classDef me stroke-width:3px
+  classDef spouse stroke-dasharray:4
+```
 
 ## Appears in
 

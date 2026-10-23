@@ -7,12 +7,16 @@ language: "Hebrew/Aramaic"
 verses: 38
 cross_references_out: 0
 cross_references_in: 3
+dated_from: -1706
+dated_to: -1706
 tags: ["chapter", "ot", "torah"]
 ---
 
 # Genesis 42
 
 ← [[connections/chapters/01-genesis/Genesis 41|Genesis 41]] · [[connections/books/Genesis|Genesis]] · [[connections/chapters/01-genesis/Genesis 43|Genesis 43]] →
+
+**Dated** *(Ussher, after the Treasury of Scripture Knowledge)*: [[connections/timeline/18th century BC|1707 BC]]
 
 ## Text
 

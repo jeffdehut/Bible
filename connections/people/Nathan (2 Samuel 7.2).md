@@ -7,6 +7,10 @@ original: ["נָתָן"]
 verses: 30
 chapters: 9
 first: "2 Samuel 7:2"
+placed: "1015 BC"
+placed_year: -1014
+generation: 1
+sex: "male"
 tags: ["person"]
 ---
 
@@ -15,6 +19,27 @@ tags: ["person"]
 Prophet during the reigns of David and Solomon.
 
 **Original-language names:** נָתָן (H5416)
+
+## When
+
+- **Placed around:** [[connections/timeline/11th century BC|1015 BC]] *(Ussher: the median date of the passages naming them)*
+
+## Family
+
+- **Children:** [[connections/people/Azariah (1 Kings 4.5)|Azariah (1 Kings 4.5)]], [[connections/people/Zabud|Zabud]]
+
+**Family group:** [[connections/genealogy/Family of Nathan (2 Samuel 7.2)|Family of Nathan (2 Samuel 7.2)]], generation 1
+
+```mermaid
+flowchart TB
+  n0["Nathan (2 Samuel 7.2)"]:::me
+  n1["Azariah (1 Kings 4.5)"]
+  n0 --> n1
+  n2["Zabud"]
+  n0 --> n2
+  classDef me stroke-width:3px
+  classDef spouse stroke-dasharray:4
+```
 
 ## Appears in
 

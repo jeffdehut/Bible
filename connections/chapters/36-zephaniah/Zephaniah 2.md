@@ -7,12 +7,16 @@ language: "Hebrew"
 verses: 15
 cross_references_out: 16
 cross_references_in: 13
+dated_from: -629
+dated_to: -629
 tags: ["chapter", "ot", "prophets"]
 ---
 
 # Zephaniah 2
 
 ← [[connections/chapters/36-zephaniah/Zephaniah 1|Zephaniah 1]] · [[connections/books/Zephaniah|Zephaniah]] · [[connections/chapters/36-zephaniah/Zephaniah 3|Zephaniah 3]] →
+
+**Dated** *(Ussher, after the Treasury of Scripture Knowledge)*: [[connections/timeline/7th century BC|630 BC]]
 
 ## Text
 

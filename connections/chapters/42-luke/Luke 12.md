@@ -7,12 +7,16 @@ language: "Greek"
 verses: 59
 cross_references_out: 205
 cross_references_in: 206
+dated_from: 33
+dated_to: 33
 tags: ["chapter", "nt", "gospels"]
 ---
 
 # Luke 12
 
 ← [[connections/chapters/42-luke/Luke 11|Luke 11]] · [[connections/books/Luke|Luke]] · [[connections/chapters/42-luke/Luke 13|Luke 13]] →
+
+**Dated** *(Ussher, after the Treasury of Scripture Knowledge)*: [[connections/timeline/1st century AD|AD 33]]
 
 ## Text
 

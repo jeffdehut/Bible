@@ -7,6 +7,7 @@ original: ["כּוּשׁ"]
 verses: 1
 chapters: 1
 first: "Psalms 7:0"
+sex: "male"
 tags: ["person"]
 ---
 

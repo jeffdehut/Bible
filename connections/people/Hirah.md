@@ -7,6 +7,9 @@ original: ["חִירָה"]
 verses: 2
 chapters: 1
 first: "Genesis 38:1"
+placed: "1722 BC"
+placed_year: -1721
+sex: "male"
 tags: ["person"]
 ---
 
@@ -15,6 +18,10 @@ tags: ["person"]
 Judah's Adullamite friend.
 
 **Original-language names:** חִירָה (H2437)
+
+## When
+
+- **Placed around:** [[connections/timeline/18th century BC|1722 BC]] *(Ussher: the median date of the passages naming them)*
 
 ## Appears in
 

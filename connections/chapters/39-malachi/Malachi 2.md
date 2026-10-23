@@ -7,12 +7,16 @@ language: "Hebrew"
 verses: 17
 cross_references_out: 30
 cross_references_in: 40
+dated_from: -396
+dated_to: -396
 tags: ["chapter", "ot", "prophets"]
 ---
 
 # Malachi 2
 
 ← [[connections/chapters/39-malachi/Malachi 1|Malachi 1]] · [[connections/books/Malachi|Malachi]] · [[connections/chapters/39-malachi/Malachi 3|Malachi 3]] →
+
+**Dated** *(Ussher, after the Treasury of Scripture Knowledge)*: [[connections/timeline/4th century BC|397 BC]]
 
 ## Text
 

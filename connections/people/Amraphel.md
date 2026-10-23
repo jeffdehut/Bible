@@ -7,6 +7,9 @@ original: ["אַמְרָפֶל"]
 verses: 2
 chapters: 1
 first: "Genesis 14:1"
+placed: "1913 BC"
+placed_year: -1912
+sex: "male"
 tags: ["person"]
 ---
 
@@ -15,6 +18,15 @@ tags: ["person"]
 King of Shinar, ally of Chedorlaomer
 
 **Original-language names:** אַמְרָפֶל (H0569)
+
+## When
+
+- **Placed around:** [[connections/timeline/20th century BC|1913 BC]] *(Ussher: the median date of the passages naming them)*
+
+## Family
+
+- **Tribe or nation:** Mesopotamia
+
 
 ## Appears in
 

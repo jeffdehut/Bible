@@ -7,6 +7,9 @@ original: ["Βερνίκη"]
 verses: 3
 chapters: 2
 first: "Acts 25:13"
+placed: "AD 62"
+placed_year: 62
+sex: "female"
 tags: ["person"]
 ---
 
@@ -15,6 +18,15 @@ tags: ["person"]
 Jewish princess, sister of King Agrippa II
 
 **Original-language names:** Βερνίκη (G0959)
+
+## When
+
+- **Placed around:** [[connections/timeline/1st century AD|AD 62]] *(Ussher: the median date of the passages naming them)*
+
+## Events
+
+- [[connections/timeline/1st century AD|AD 56]] · [[connections/events/Agrippa and Bernice meet Festus|Agrippa and Bernice meet Festus]]
+- [[connections/timeline/1st century AD|AD 56]] · [[connections/events/Paul goes before Agrippa|Paul goes before Agrippa]]
 
 ## Appears in
 

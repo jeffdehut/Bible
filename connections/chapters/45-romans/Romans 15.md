@@ -7,12 +7,16 @@ language: "Greek"
 verses: 33
 cross_references_out: 118
 cross_references_in: 170
+dated_from: 60
+dated_to: 60
 tags: ["chapter", "nt", "pauline-epistles"]
 ---
 
 # Romans 15
 
 ← [[connections/chapters/45-romans/Romans 14|Romans 14]] · [[connections/books/Romans|Romans]] · [[connections/chapters/45-romans/Romans 16|Romans 16]] →
+
+**Dated** *(Ussher, after the Treasury of Scripture Knowledge)*: [[connections/timeline/1st century AD|AD 60]]
 
 ## Text
 

@@ -8,6 +8,9 @@ original: ["חֶלְדַּי", "חֵ֫לֶם"]
 verses: 2
 chapters: 1
 first: "Zechariah 6:10"
+placed: "519 BC"
+placed_year: -518
+sex: "male"
 tags: ["person"]
 ---
 
@@ -18,6 +21,10 @@ A returned exile who helped crown Joshua.
 **Also called:** Helem
 
 **Original-language names:** חֶלְדַּי (H2469) · חֵ֫לֶם (H2494)
+
+## When
+
+- **Placed around:** [[connections/timeline/6th century BC|519 BC]] *(Ussher: the median date of the passages naming them)*
 
 ## Appears in
 

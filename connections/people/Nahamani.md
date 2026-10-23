@@ -7,6 +7,9 @@ original: ["נַחֲמָנִי"]
 verses: 1
 chapters: 1
 first: "Nehemiah 7:7"
+placed: "445 BC"
+placed_year: -444
+sex: "male"
 tags: ["person"]
 ---
 
@@ -15,6 +18,10 @@ tags: ["person"]
 One who returned from Babylonian exile with Zerubbabel.
 
 **Original-language names:** נַחֲמָנִי (H5167)
+
+## When
+
+- **Placed around:** [[connections/timeline/5th century BC|445 BC]] *(Ussher: the median date of the passages naming them)*
 
 ## Appears in
 

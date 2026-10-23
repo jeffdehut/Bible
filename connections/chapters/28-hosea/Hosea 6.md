@@ -7,12 +7,16 @@ language: "Hebrew"
 verses: 11
 cross_references_out: 44
 cross_references_in: 61
+dated_from: -779
+dated_to: -779
 tags: ["chapter", "ot", "prophets"]
 ---
 
 # Hosea 6
 
 ← [[connections/chapters/28-hosea/Hosea 5|Hosea 5]] · [[connections/books/Hosea|Hosea]] · [[connections/chapters/28-hosea/Hosea 7|Hosea 7]] →
+
+**Dated** *(Ussher, after the Treasury of Scripture Knowledge)*: [[connections/timeline/8th century BC|780 BC]]
 
 ## Text
 

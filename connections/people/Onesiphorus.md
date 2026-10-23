@@ -7,6 +7,9 @@ original: ["Ὀνησίφορος"]
 verses: 2
 chapters: 2
 first: "2 Timothy 1:16"
+placed: "AD 66"
+placed_year: 66
+sex: "male"
 tags: ["person"]
 ---
 
@@ -15,6 +18,10 @@ tags: ["person"]
 Friend and supporter of Paul
 
 **Original-language names:** Ὀνησίφορος (G3683)
+
+## When
+
+- **Placed around:** [[connections/timeline/1st century AD|AD 66]] *(Ussher: the median date of the passages naming them)*
 
 ## Appears in
 

@@ -7,6 +7,10 @@ original: ["חֲנַנְיָ֫הוּ"]
 verses: 1
 chapters: 1
 first: "Jeremiah 36:12"
+placed: "606 BC"
+placed_year: -605
+generation: 1
+sex: "male"
 tags: ["person"]
 ---
 
@@ -15,6 +19,25 @@ tags: ["person"]
 An official during the reign of King Jehoiakim.
 
 **Original-language names:** חֲנַנְיָ֫הוּ (H2608a)
+
+## When
+
+- **Placed around:** [[connections/timeline/7th century BC|606 BC]] *(Ussher: the median date of the passages naming them)*
+
+## Family
+
+- **Children:** [[connections/people/Zedekiah (Jeremiah 36.12)|Zedekiah (Jeremiah 36.12)]]
+
+**Family group:** [[connections/genealogy/Family of Hananiah (Jeremiah 36.12)|Family of Hananiah (Jeremiah 36.12)]], generation 1
+
+```mermaid
+flowchart TB
+  n0["Hananiah (Jeremiah 36.12)"]:::me
+  n1["Zedekiah (Jeremiah 36.12)"]
+  n0 --> n1
+  classDef me stroke-width:3px
+  classDef spouse stroke-dasharray:4
+```
 
 ## Appears in
 

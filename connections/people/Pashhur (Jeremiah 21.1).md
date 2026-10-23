@@ -7,6 +7,10 @@ original: ["פַּשְׁחוּר"]
 verses: 2
 chapters: 2
 first: "Jeremiah 21:1"
+placed: "589 BC"
+placed_year: -588
+generation: 2
+sex: "male"
 tags: ["person"]
 ---
 
@@ -15,6 +19,26 @@ tags: ["person"]
 Priest sent by Zedekiah to inquire of Jeremiah
 
 **Original-language names:** פַּשְׁחוּר (H6583)
+
+## When
+
+- **Placed around:** [[connections/timeline/6th century BC|589 BC]] *(Ussher: the median date of the passages naming them)*
+
+## Family
+
+- **Father:** [[connections/people/Malchiah|Malchiah]]
+- **Tribe or nation:** Tribe of Benjamin
+
+**Family group:** [[connections/genealogy/Family of Malchiah|Family of Malchiah]], generation 2
+
+```mermaid
+flowchart TB
+  n0["Pashhur (Jeremiah 21.1)"]:::me
+  n1["Malchiah"]
+  n1 --> n0
+  classDef me stroke-width:3px
+  classDef spouse stroke-dasharray:4
+```
 
 ## Appears in
 

@@ -7,12 +7,16 @@ language: "Hebrew"
 verses: 25
 cross_references_out: 19
 cross_references_in: 23
+dated_from: -1519
+dated_to: -1519
 tags: ["chapter", "ot", "wisdom"]
 ---
 
 # Job 12
 
 ← [[connections/chapters/18-job/Job 11|Job 11]] · [[connections/books/Job|Job]] · [[connections/chapters/18-job/Job 13|Job 13]] →
+
+**Dated** *(Ussher, after the Treasury of Scripture Knowledge)*: [[connections/timeline/16th century BC|1520 BC]]
 
 ## Text
 

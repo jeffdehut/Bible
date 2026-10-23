@@ -8,6 +8,9 @@ original: ["יַעְלָה", "יַעֲלָא"]
 verses: 2
 chapters: 2
 first: "Ezra 2:56"
+placed: "445 BC"
+placed_year: -444
+sex: "male"
 tags: ["person"]
 ---
 
@@ -18,6 +21,10 @@ Returned exile; descendant of Solomon's servants.
 **Also called:** Jaala
 
 **Original-language names:** יַעְלָה (H3279) · יַעֲלָא (H3279)
+
+## When
+
+- **Placed around:** [[connections/timeline/5th century BC|445 BC]] *(Ussher: the median date of the passages naming them)*
 
 ## Appears in
 

@@ -7,6 +7,9 @@ original: ["כְּנָנִי"]
 verses: 1
 chapters: 1
 first: "Nehemiah 9:4"
+placed: "445 BC"
+placed_year: -444
+sex: "male"
 tags: ["person"]
 ---
 
@@ -15,6 +18,10 @@ tags: ["person"]
 Levite who led the people in confession
 
 **Original-language names:** כְּנָנִי (H3662)
+
+## When
+
+- **Placed around:** [[connections/timeline/5th century BC|445 BC]] *(Ussher: the median date of the passages naming them)*
 
 ## Appears in
 

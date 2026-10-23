@@ -7,12 +7,16 @@ language: "Hebrew"
 verses: 26
 cross_references_out: 0
 cross_references_in: 0
+dated_from: -1021
+dated_to: -1021
 tags: ["chapter", "ot", "history"]
 ---
 
 # 2 Samuel 20
 
 ← [[connections/chapters/10-2-samuel/2 Samuel 19|2 Samuel 19]] · [[connections/books/2 Samuel|2 Samuel]] · [[connections/chapters/10-2-samuel/2 Samuel 21|2 Samuel 21]] →
+
+**Dated** *(Ussher, after the Treasury of Scripture Knowledge)*: [[connections/timeline/11th century BC|1022 BC]]
 
 ## Text
 

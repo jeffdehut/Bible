@@ -7,12 +7,16 @@ language: "Greek"
 verses: 27
 cross_references_out: 310
 cross_references_in: 279
+dated_from: 33
+dated_to: 33
 tags: ["chapter", "nt", "gospels"]
 ---
 
 # John 15
 
 ← [[connections/chapters/43-john/John 14|John 14]] · [[connections/books/John|John]] · [[connections/chapters/43-john/John 16|John 16]] →
+
+**Dated** *(Ussher, after the Treasury of Scripture Knowledge)*: [[connections/timeline/1st century AD|AD 33]]
 
 ## Text
 

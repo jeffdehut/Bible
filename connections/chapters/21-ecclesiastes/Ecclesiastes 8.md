@@ -7,12 +7,16 @@ language: "Hebrew"
 verses: 17
 cross_references_out: 24
 cross_references_in: 26
+dated_from: -976
+dated_to: -976
 tags: ["chapter", "ot", "wisdom"]
 ---
 
 # Ecclesiastes 8
 
 ← [[connections/chapters/21-ecclesiastes/Ecclesiastes 7|Ecclesiastes 7]] · [[connections/books/Ecclesiastes|Ecclesiastes]] · [[connections/chapters/21-ecclesiastes/Ecclesiastes 9|Ecclesiastes 9]] →
+
+**Dated** *(Ussher, after the Treasury of Scripture Knowledge)*: [[connections/timeline/10th century BC|977 BC]]
 
 ## Text
 

@@ -7,6 +7,9 @@ original: ["אָמוֹן"]
 verses: 2
 chapters: 2
 first: "1 Kings 22:26"
+placed: "897 BC"
+placed_year: -896
+sex: "male"
 tags: ["person"]
 ---
 
@@ -15,6 +18,10 @@ tags: ["person"]
 Governor of Samaria during Ahab's reign
 
 **Original-language names:** אָמוֹן (H0526)
+
+## When
+
+- **Placed around:** [[connections/timeline/9th century BC|897 BC]] *(Ussher: the median date of the passages naming them)*
 
 ## Appears in
 

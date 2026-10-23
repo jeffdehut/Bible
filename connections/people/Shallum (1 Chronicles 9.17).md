@@ -7,6 +7,10 @@ original: ["שַׁלּוּם"]
 verses: 5
 chapters: 3
 first: "1 Chronicles 9:17"
+placed: "536 BC"
+placed_year: -535
+generation: 1
+sex: "male"
 tags: ["person"]
 ---
 
@@ -15,6 +19,26 @@ tags: ["person"]
 Gatekeeper of the tabernacle during David's reign
 
 **Original-language names:** שַׁלּוּם (H7967)
+
+## When
+
+- **Placed around:** [[connections/timeline/6th century BC|536 BC]] *(Ussher: the median date of the passages naming them)*
+
+## Family
+
+- **Children:** [[connections/people/Mattithiah (1 Chronicles 9.31)|Mattithiah (1 Chronicles 9.31)]]
+- **Tribe or nation:** Tribe of Levi
+
+**Family group:** [[connections/genealogy/Family of Shallum (1 Chronicles 9.17)|Family of Shallum (1 Chronicles 9.17)]], generation 1
+
+```mermaid
+flowchart TB
+  n0["Shallum (1 Chronicles 9.17)"]:::me
+  n1["Mattithiah (1 Chronicles 9.31)"]
+  n0 --> n1
+  classDef me stroke-width:3px
+  classDef spouse stroke-dasharray:4
+```
 
 ## Appears in
 

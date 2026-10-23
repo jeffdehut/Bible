@@ -7,6 +7,10 @@ original: ["קָרֵחַ"]
 verses: 14
 chapters: 5
 first: "2 Kings 25:23"
+placed: "588 BC"
+placed_year: -587
+generation: 1
+sex: "male"
 tags: ["person"]
 ---
 
@@ -15,6 +19,27 @@ tags: ["person"]
 Father of Johanan and Jonathan
 
 **Original-language names:** קָרֵחַ (H7143)
+
+## When
+
+- **Placed around:** [[connections/timeline/6th century BC|588 BC]] *(Ussher: the median date of the passages naming them)*
+
+## Family
+
+- **Children:** [[connections/people/Johanan (2 Kings 25.23)|Johanan (2 Kings 25.23)]], [[connections/people/Jonathan (Jeremiah 40.8)|Jonathan (Jeremiah 40.8)]]
+
+**Family group:** [[connections/genealogy/Family of Kareah|Family of Kareah]], generation 1
+
+```mermaid
+flowchart TB
+  n0["Kareah"]:::me
+  n1["Johanan (2 Kings 25.23)"]
+  n0 --> n1
+  n2["Jonathan (Jeremiah 40.8)"]
+  n0 --> n2
+  classDef me stroke-width:3px
+  classDef spouse stroke-dasharray:4
+```
 
 ## Appears in
 

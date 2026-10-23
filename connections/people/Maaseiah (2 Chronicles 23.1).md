@@ -7,6 +7,10 @@ original: ["מַעֲשֵׂיָהוּ"]
 verses: 1
 chapters: 1
 first: "2 Chronicles 23:1"
+placed: "878 BC"
+placed_year: -877
+generation: 2
+sex: "male"
 tags: ["person"]
 ---
 
@@ -15,6 +19,25 @@ tags: ["person"]
 Priest involved in Joash's coronation
 
 **Original-language names:** מַעֲשֵׂיָהוּ (H4641)
+
+## When
+
+- **Placed around:** [[connections/timeline/9th century BC|878 BC]] *(Ussher: the median date of the passages naming them)*
+
+## Family
+
+- **Father:** [[connections/people/Adaiah (2 Chronicles 23.1)|Adaiah (2 Chronicles 23.1)]]
+
+**Family group:** [[connections/genealogy/Family of Adaiah (2 Chronicles 23.1)|Family of Adaiah (2 Chronicles 23.1)]], generation 2
+
+```mermaid
+flowchart TB
+  n0["Maaseiah (2 Chronicles 23.1)"]:::me
+  n1["Adaiah (2 Chronicles 23.1)"]
+  n1 --> n0
+  classDef me stroke-width:3px
+  classDef spouse stroke-dasharray:4
+```
 
 ## Appears in
 

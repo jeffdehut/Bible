@@ -17,6 +17,16 @@ A city in Macedonia visited by Paul
 
 **Original-language names:** Φίλιπποι (G5375) · Φιλιππήσιος (G5374)
 
+## Events
+
+- [[connections/timeline/1st century AD|AD 47]] · [[connections/events/Call to Macedonia|Call to Macedonia]]
+- [[connections/timeline/1st century AD|AD 47]] · [[connections/events/Lydia's Conversion|Lydia's Conversion]]
+- [[connections/timeline/1st century AD|AD 47]] · [[connections/events/Paul casts demon out of soothsayer|Paul casts demon out of soothsayer]]
+- [[connections/timeline/1st century AD|AD 47]] · [[connections/events/Paul and Silas imprisoned|Paul and Silas imprisoned]]
+- [[connections/timeline/1st century AD|AD 47]] · [[connections/events/Philippian jailer converted|Philippian jailer converted]]
+- [[connections/timeline/1st century AD|AD 47]] · [[connections/events/Paul and Silas released|Paul and Silas released]]
+- [[connections/timeline/1st century AD|AD 54]] · [[connections/events/Mission to Macedonia and Greece|Mission to Macedonia and Greece]]
+
 ## Appears in
 
 [[connections/chapters/44-acts/Acts 16|Acts 16]] · [[connections/chapters/44-acts/Acts 20|Acts 20]] · [[connections/chapters/46-1-corinthians/1 Corinthians 16|1 Corinthians 16]] · [[connections/chapters/47-2-corinthians/2 Corinthians 13|2 Corinthians 13]] · [[connections/chapters/50-philippians/Philippians 1|Philippians 1]] · [[connections/chapters/50-philippians/Philippians 4|Philippians 4]] · [[connections/chapters/52-1-thessalonians/1 Thessalonians 2|1 Thessalonians 2]]

@@ -7,6 +7,14 @@ original: ["דָּוִד", "Δαυείδ, Δαυίδ, Δαβίδ"]
 verses: 964
 chapters: 258
 first: "Ruth 4:17"
+born: "1085 BC"
+born_year: -1084
+died: "1015 BC"
+died_year: -1014
+placed: "1036 BC"
+placed_year: -1035
+generation: 34
+sex: "male"
 tags: ["person"]
 ---
 
@@ -15,6 +23,121 @@ tags: ["person"]
 Anointed king of Israel, ancestor of Jesus Christ
 
 **Original-language names:** דָּוִד (H1732) · Δαυείδ, Δαυίδ, Δαβίδ (G1138)
+
+## When
+
+- **Lived:** [[connections/timeline/11th century BC|1085 BC]] – [[connections/timeline/11th century BC|1015 BC]] *(Jones)*
+- **Placed around:** [[connections/timeline/11th century BC|1036 BC]] *(Ussher: the median date of the passages naming them)*
+
+## Family
+
+- **Father:** [[connections/people/Jesse|Jesse]]
+- **Mother:** [[connections/people/Nahash (2 Samuel 17.25)|Nahash (2 Samuel 17.25)]]
+- **Brothers and sisters:** [[connections/people/Abigail (2 Samuel 17.25)|Abigail (2 Samuel 17.25) (uncertain)]], [[connections/people/Abinadab (1 Samuel 16.8)|Abinadab (1 Samuel 16.8)]], [[connections/people/Eliab (1 Samuel 16.6)|Eliab (1 Samuel 16.6)]], [[connections/people/Elihu (1 Chronicles 27.18)|Elihu (1 Chronicles 27.18)]], [[connections/people/Nethanel (1 Chronicles 2.14)|Nethanel (1 Chronicles 2.14)]], [[connections/people/Ozem (1 Chronicles 2.15)|Ozem (1 Chronicles 2.15)]], [[connections/people/Raddai|Raddai]], [[connections/people/Shimeah (1 Samuel 16.9)|Shimeah (1 Samuel 16.9)]], [[connections/people/Zeruiah|Zeruiah]]
+- **Spouses:** [[connections/people/Abigail (1 Samuel 25.3)|Abigail (1 Samuel 25.3)]], [[connections/people/Abital|Abital]], [[connections/people/Ahinoam (1 Samuel 25.43)|Ahinoam (1 Samuel 25.43)]], [[connections/people/Bathsheba|Bathsheba]], [[connections/people/Eglah|Eglah]], [[connections/people/Haggith|Haggith]], [[connections/people/Jerusalem wives (2 Samuel 5.13)|Jerusalem wives (2 Samuel 5.13)]], [[connections/people/Maacah (2 Samuel 3.3)|Maacah (2 Samuel 3.3)]], [[connections/people/Michal|Michal]]
+- **Children:** [[connections/people/Absalom|Absalom]], [[connections/people/Adonijah (2 Samuel 3.4)|Adonijah (2 Samuel 3.4)]], [[connections/people/Amnon (2 Samuel 3.2)|Amnon (2 Samuel 3.2)]], [[connections/people/Chileab|Chileab]], [[connections/people/Eliada (2 Samuel 5.16)|Eliada (2 Samuel 5.16)]], [[connections/people/Eliphelet (2 Samuel 5.16)|Eliphelet (2 Samuel 5.16)]], [[connections/people/Elishama (2 Samuel 5.16)|Elishama (2 Samuel 5.16)]], [[connections/people/Elishua|Elishua]], [[connections/people/Elpelet|Elpelet]], [[connections/people/Ibhar|Ibhar]], [[connections/people/Ithream|Ithream]], [[connections/people/Japhia (2 Samuel 5.15)|Japhia (2 Samuel 5.15)]], [[connections/people/Jerimoth (2 Chronicles 11.18)|Jerimoth (2 Chronicles 11.18)]], [[connections/people/Nathan (2 Samuel 5.14)|Nathan (2 Samuel 5.14)]], [[connections/people/Nepheg (2 Samuel 5.15)|Nepheg (2 Samuel 5.15)]], [[connections/people/Nogah|Nogah]], [[connections/people/Shammua (2 Samuel 5.14)|Shammua (2 Samuel 5.14)]], [[connections/people/Shephatiah (2 Samuel 3.4)|Shephatiah (2 Samuel 3.4)]], [[connections/people/Shobab (2 Samuel 5.14)|Shobab (2 Samuel 5.14)]], [[connections/people/Solomon|Solomon]], [[connections/people/Tamar (2 Samuel 13.1)|Tamar (2 Samuel 13.1)]]
+- **Tribe or nation:** Tribe of Judah
+
+**Line of descent** (34 generations, father to son): [[connections/people/Adam|Adam]] → [[connections/people/Seth|Seth]] → [[connections/people/Enosh|Enosh]] → [[connections/people/Kenan|Kenan]] → [[connections/people/Mahalalel (Genesis 5.12)|Mahalalel (Genesis 5.12)]] → [[connections/people/Jared|Jared]] → [[connections/people/Enoch (Genesis 5.18)|Enoch (Genesis 5.18)]] → [[connections/people/Methuselah|Methuselah]] → [[connections/people/Lamech (Genesis 5.25)|Lamech (Genesis 5.25)]] → [[connections/people/Noah (Genesis 5.29)|Noah (Genesis 5.29)]] → [[connections/people/Shem|Shem]] → [[connections/people/Arpachshad|Arpachshad]] → [[connections/people/Cainan|Cainan]] → [[connections/people/Shelah (Genesis 10.24)|Shelah (Genesis 10.24)]] → [[connections/people/Eber (Genesis 10.21)|Eber (Genesis 10.21)]] → [[connections/people/Peleg|Peleg]] → [[connections/people/Reu|Reu]] → [[connections/people/Serug|Serug]] → [[connections/people/Nahor (Genesis 11.22)|Nahor (Genesis 11.22)]] → [[connections/people/Terah|Terah]] → [[connections/people/Abraham|Abraham]] → [[connections/people/Isaac|Isaac]] → [[connections/people/Israel|Israel]] → [[connections/people/Judah (Genesis 29.35)|Judah (Genesis 29.35)]] → [[connections/people/Perez|Perez]] → [[connections/people/Hezron (Genesis 46.12)|Hezron (Genesis 46.12)]] → [[connections/people/Ram (Ruth 4.19)|Ram (Ruth 4.19)]] → [[connections/people/Amminadab (Exodus 6.23)|Amminadab (Exodus 6.23)]] → [[connections/people/Nahshon|Nahshon]] → [[connections/people/Salmon|Salmon]] → [[connections/people/Boaz|Boaz]] → [[connections/people/Obed (Ruth 4.17)|Obed (Ruth 4.17)]] → [[connections/people/Jesse|Jesse]] → **David**
+
+**Family group:** [[connections/genealogy/Family of Adam|Family of Adam]], generation 34
+
+```mermaid
+flowchart TB
+  n0["David"]:::me
+  n1["Obed (Ruth 4.17)"]
+  n2["Jesse"]
+  n1 --> n2
+  n2 --> n0
+  n3["Nahash (2 Samuel 17.25)"]
+  n3 --> n0
+  n4["Abigail (2 Samuel 17.25)"]
+  n2 --> n4
+  n5["Abinadab (1 Samuel 16.8)"]
+  n2 --> n5
+  n6["Eliab (1 Samuel 16.6)"]
+  n2 --> n6
+  n7["Elihu (1 Chronicles 27.18)"]
+  n2 --> n7
+  n8["Nethanel (1 Chronicles 2.14)"]
+  n2 --> n8
+  n9["Ozem (1 Chronicles 2.15)"]
+  n2 --> n9
+  n10["Raddai"]
+  n2 --> n10
+  n11["Shimeah (1 Samuel 16.9)"]
+  n2 --> n11
+  n12["Zeruiah"]
+  n2 --> n12
+  n13["Abigail (1 Samuel 25.3)"]:::spouse
+  n0 -.- n13
+  n14["Abital"]:::spouse
+  n0 -.- n14
+  n15["Ahinoam (1 Samuel 25.43)"]:::spouse
+  n0 -.- n15
+  n16["Bathsheba"]:::spouse
+  n0 -.- n16
+  n17["Eglah"]:::spouse
+  n0 -.- n17
+  n18["Haggith"]:::spouse
+  n0 -.- n18
+  n19["Jerusalem wives (2 Samuel 5.13)"]:::spouse
+  n0 -.- n19
+  n20["Maacah (2 Samuel 3.3)"]:::spouse
+  n0 -.- n20
+  n21["Michal"]:::spouse
+  n0 -.- n21
+  n22["Absalom"]
+  n0 --> n22
+  n23["Adonijah (2 Samuel 3.4)"]
+  n0 --> n23
+  n24["Amnon (2 Samuel 3.2)"]
+  n0 --> n24
+  n25["Chileab"]
+  n0 --> n25
+  n26["Eliada (2 Samuel 5.16)"]
+  n0 --> n26
+  n27["Eliphelet (2 Samuel 5.16)"]
+  n0 --> n27
+  n28["Elishama (2 Samuel 5.16)"]
+  n0 --> n28
+  n29["Elishua"]
+  n0 --> n29
+  n30["Elpelet"]
+  n0 --> n30
+  n31["Ibhar"]
+  n0 --> n31
+  n32["Ithream"]
+  n0 --> n32
+  n33["Japhia (2 Samuel 5.15)"]
+  n0 --> n33
+  n34["Jerimoth (2 Chronicles 11.18)"]
+  n0 --> n34
+  n35["Nathan (2 Samuel 5.14)"]
+  n0 --> n35
+  n36["Nepheg (2 Samuel 5.15)"]
+  n0 --> n36
+  n37["Nogah"]
+  n0 --> n37
+  n38["Shammua (2 Samuel 5.14)"]
+  n0 --> n38
+  n39["Shephatiah (2 Samuel 3.4)"]
+  n0 --> n39
+  n40["Shobab (2 Samuel 5.14)"]
+  n0 --> n40
+  n41["Solomon"]
+  n0 --> n41
+  n42["Tamar (2 Samuel 13.1)"]
+  n0 --> n42
+  classDef me stroke-width:3px
+  classDef spouse stroke-dasharray:4
+```
+
+## Events
+
+- [[connections/timeline/11th century BC|1067 BC]] · [[connections/events/David Kills Goliath|David Kills Goliath]]
+- [[connections/timeline/11th century BC|1055 BC]] · [[connections/events/Reign of David|Reign of David]]
+- [[connections/timeline/11th century BC|1015 BC]] · [[connections/events/Death of David|Death of David]]
 
 ## Appears in
 

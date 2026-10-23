@@ -7,6 +7,10 @@ original: ["אֲבִישַׁי"]
 verses: 24
 chapters: 14
 first: "1 Samuel 26:6"
+placed: "1037 BC"
+placed_year: -1036
+generation: 37
+sex: "male"
 tags: ["person"]
 ---
 
@@ -15,6 +19,38 @@ tags: ["person"]
 David's nephew, one of his mighty men and commanders
 
 **Original-language names:** אֲבִישַׁי (H0052)
+
+## When
+
+- **Placed around:** [[connections/timeline/11th century BC|1037 BC]] *(Ussher: the median date of the passages naming them)*
+
+## Family
+
+- **Father:** [[connections/people/husband of Zeruiah (1 Samuel 26.6)|husband of Zeruiah (1 Samuel 26.6)]]
+- **Mother:** [[connections/people/Zeruiah|Zeruiah]]
+- **Brothers and sisters:** [[connections/people/Asahel (2 Samuel 2.18)|Asahel (2 Samuel 2.18)]], [[connections/people/Joab (1 Samuel 26.6)|Joab (1 Samuel 26.6)]]
+- **Tribe or nation:** Tribe of Judah
+
+**Family group:** [[connections/genealogy/Family of Adam|Family of Adam]], generation 37
+
+```mermaid
+flowchart TB
+  n0["Abishai"]:::me
+  n1["Jesse"]
+  n2["Zeruiah"]
+  n1 --> n2
+  n3["Nahash (2 Samuel 17.25)"]
+  n3 --> n2
+  n2 --> n0
+  n4["husband of Zeruiah (1 Samuel 26.6)"]
+  n4 --> n0
+  n5["Asahel (2 Samuel 2.18)"]
+  n2 --> n5
+  n6["Joab (1 Samuel 26.6)"]
+  n2 --> n6
+  classDef me stroke-width:3px
+  classDef spouse stroke-dasharray:4
+```
 
 ## Appears in
 

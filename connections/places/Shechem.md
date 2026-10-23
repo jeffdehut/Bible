@@ -17,6 +17,10 @@ City in Canaan, later allotted to Ephraim
 
 **Original-language names:** שְׁכֶם (H7927) · Συχέμ (G4966)
 
+## Events
+
+- [[connections/timeline/20th century BC|1921 BC]] · [[connections/events/Abraham enters Canaan|Abraham enters Canaan]]
+
 ## Appears in
 
 [[connections/chapters/01-genesis/Genesis 12|Genesis 12]] · [[connections/chapters/01-genesis/Genesis 33|Genesis 33]] · [[connections/chapters/01-genesis/Genesis 35|Genesis 35]] · [[connections/chapters/01-genesis/Genesis 37|Genesis 37 (3)]] · [[connections/chapters/06-joshua/Joshua 17|Joshua 17]] · [[connections/chapters/06-joshua/Joshua 20|Joshua 20]] · [[connections/chapters/06-joshua/Joshua 21|Joshua 21]] · [[connections/chapters/06-joshua/Joshua 24|Joshua 24 (3)]] · [[connections/chapters/07-judges/Judges 8|Judges 8]] · [[connections/chapters/07-judges/Judges 9|Judges 9 (20)]] · [[connections/chapters/07-judges/Judges 21|Judges 21]] · [[connections/chapters/11-1-kings/1 Kings 12|1 Kings 12 (2)]] · [[connections/chapters/13-1-chronicles/1 Chronicles 6|1 Chronicles 6]] · [[connections/chapters/13-1-chronicles/1 Chronicles 7|1 Chronicles 7]] · [[connections/chapters/14-2-chronicles/2 Chronicles 10|2 Chronicles 10]] · [[connections/chapters/19-psalms/Psalms 60|Psalms 60]] · [[connections/chapters/19-psalms/Psalms 108|Psalms 108]] · [[connections/chapters/24-jeremiah/Jeremiah 41|Jeremiah 41]] · [[connections/chapters/28-hosea/Hosea 6|Hosea 6]] · [[connections/chapters/44-acts/Acts 7|Acts 7]]

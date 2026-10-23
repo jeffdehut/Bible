@@ -7,12 +7,16 @@ language: "Hebrew/Aramaic"
 verses: 24
 cross_references_out: 0
 cross_references_in: 12
+dated_from: -609
+dated_to: -609
 tags: ["chapter", "ot", "prophets"]
 ---
 
 # Jeremiah 26
 
 ← [[connections/chapters/24-jeremiah/Jeremiah 25|Jeremiah 25]] · [[connections/books/Jeremiah|Jeremiah]] · [[connections/chapters/24-jeremiah/Jeremiah 27|Jeremiah 27]] →
+
+**Dated** *(Ussher, after the Treasury of Scripture Knowledge)*: [[connections/timeline/7th century BC|610 BC]]
 
 ## Text
 

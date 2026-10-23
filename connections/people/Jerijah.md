@@ -7,6 +7,9 @@ original: ["יְרִיָּהוּ"]
 verses: 1
 chapters: 1
 first: "1 Chronicles 26:31"
+placed: "1015 BC"
+placed_year: -1014
+sex: "male"
 tags: ["person"]
 ---
 
@@ -15,6 +18,10 @@ tags: ["person"]
 A Levite leader during David's reign.
 
 **Original-language names:** יְרִיָּהוּ (H3404)
+
+## When
+
+- **Placed around:** [[connections/timeline/11th century BC|1015 BC]] *(Ussher: the median date of the passages naming them)*
 
 ## Appears in
 

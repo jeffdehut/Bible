@@ -7,6 +7,9 @@ original: ["Μάλχος"]
 verses: 1
 chapters: 1
 first: "John 18:10"
+placed: "AD 33"
+placed_year: 33
+sex: "male"
 tags: ["person"]
 ---
 
@@ -15,6 +18,10 @@ tags: ["person"]
 High priest's servant whose ear was cut off by Peter.
 
 **Original-language names:** Μάλχος (G3124)
+
+## When
+
+- **Placed around:** [[connections/timeline/1st century AD|AD 33]] *(Ussher: the median date of the passages naming them)*
 
 ## Appears in
 

@@ -7,12 +7,16 @@ language: "Hebrew"
 verses: 25
 cross_references_out: 53
 cross_references_in: 45
+dated_from: -1490
+dated_to: -1490
 tags: ["chapter", "ot", "torah"]
 ---
 
 # Exodus 19
 
 ← [[connections/chapters/02-exodus/Exodus 18|Exodus 18]] · [[connections/books/Exodus|Exodus]] · [[connections/chapters/02-exodus/Exodus 20|Exodus 20]] →
+
+**Dated** *(Ussher, after the Treasury of Scripture Knowledge)*: [[connections/timeline/15th century BC|1491 BC]]
 
 ## Text
 

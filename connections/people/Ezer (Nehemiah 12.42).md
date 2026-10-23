@@ -7,6 +7,9 @@ original: ["עָזֶר", "עָזֶר"]
 verses: 1
 chapters: 1
 first: "Nehemiah 12:42"
+placed: "445 BC"
+placed_year: -444
+sex: "male"
 tags: ["person"]
 ---
 
@@ -15,6 +18,10 @@ tags: ["person"]
 Levite; participated in the dedication of Jerusalem's wall.
 
 **Original-language names:** עָזֶר (H5827) · עָזֶר (H5829)
+
+## When
+
+- **Placed around:** [[connections/timeline/5th century BC|445 BC]] *(Ussher: the median date of the passages naming them)*
 
 ## Appears in
 

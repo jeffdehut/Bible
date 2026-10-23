@@ -7,12 +7,16 @@ language: "Hebrew"
 verses: 22
 cross_references_out: 62
 cross_references_in: 58
+dated_from: -1490
+dated_to: -1490
 tags: ["chapter", "ot", "torah"]
 ---
 
 # Deuteronomy 10
 
 ← [[connections/chapters/05-deuteronomy/Deuteronomy 9|Deuteronomy 9]] · [[connections/books/Deuteronomy|Deuteronomy]] · [[connections/chapters/05-deuteronomy/Deuteronomy 11|Deuteronomy 11]] →
+
+**Dated** *(Ussher, after the Treasury of Scripture Knowledge)*: [[connections/timeline/15th century BC|1491 BC]]
 
 ## Text
 

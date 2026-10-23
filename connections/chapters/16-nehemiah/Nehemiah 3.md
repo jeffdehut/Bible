@@ -7,12 +7,16 @@ language: "Hebrew"
 verses: 38
 cross_references_out: 7
 cross_references_in: 7
+dated_from: -444
+dated_to: -444
 tags: ["chapter", "ot", "history"]
 ---
 
 # Nehemiah 3
 
 ← [[connections/chapters/16-nehemiah/Nehemiah 2|Nehemiah 2]] · [[connections/books/Nehemiah|Nehemiah]] · [[connections/chapters/16-nehemiah/Nehemiah 4|Nehemiah 4]] →
+
+**Dated** *(Ussher, after the Treasury of Scripture Knowledge)*: [[connections/timeline/5th century BC|445 BC]]
 
 ## Text
 

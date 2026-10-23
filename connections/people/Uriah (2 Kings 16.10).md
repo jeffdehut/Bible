@@ -7,6 +7,9 @@ original: ["אוּרִיָּה"]
 verses: 5
 chapters: 2
 first: "2 Kings 16:10"
+placed: "740 BC"
+placed_year: -739
+sex: "male"
 tags: ["person"]
 ---
 
@@ -15,6 +18,10 @@ tags: ["person"]
 Priest during the reign of King Ahaz
 
 **Original-language names:** אוּרִיָּה (H0223a)
+
+## When
+
+- **Placed around:** [[connections/timeline/8th century BC|740 BC]] *(Ussher: the median date of the passages naming them)*
 
 ## Appears in
 

@@ -7,6 +7,9 @@ original: ["רֶ֫בַע"]
 verses: 2
 chapters: 2
 first: "Numbers 31:8"
+placed: "1444 BC"
+placed_year: -1443
+sex: "male"
 tags: ["person"]
 ---
 
@@ -15,6 +18,10 @@ tags: ["person"]
 A Midianite king killed by the Israelites
 
 **Original-language names:** רֶ֫בַע (H7254)
+
+## When
+
+- **Placed around:** [[connections/timeline/15th century BC|1444 BC]] *(Ussher: the median date of the passages naming them)*
 
 ## Appears in
 

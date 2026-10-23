@@ -8,6 +8,14 @@ original: ["אַבְרָהָם", "אַבְרָם", "Ἀβραάμ"]
 verses: 275
 chapters: 82
 first: "Genesis 11:26"
+born: "1996 BC"
+born_year: -1995
+died: "1821 BC"
+died_year: -1820
+placed: "1821 BC"
+placed_year: -1820
+generation: 21
+sex: "male"
 tags: ["person"]
 ---
 
@@ -18,6 +26,75 @@ Patriarch, chosen by God to father His people
 **Also called:** Abram
 
 **Original-language names:** אַבְרָהָם (H0085) · אַבְרָם (H0087) · Ἀβραάμ (G0011)
+
+## When
+
+- **Lived:** [[connections/timeline/20th century BC|1996 BC]] – [[connections/timeline/19th century BC|1821 BC]] *(Jones)*
+- **Placed around:** [[connections/timeline/19th century BC|1821 BC]] *(Ussher: the median date of the passages naming them)*
+
+## Family
+
+- **Father:** [[connections/people/Terah|Terah]]
+- **Brothers and sisters:** [[connections/people/Haran (Genesis 11.26)|Haran (Genesis 11.26)]], [[connections/people/Nahor (Genesis 11.26)|Nahor (Genesis 11.26)]], [[connections/people/Sarah|Sarah]]
+- **Spouses:** [[connections/people/Hagar|Hagar]], [[connections/people/Keturah|Keturah]], [[connections/people/Sarah|Sarah]]
+- **Children:** [[connections/people/Isaac|Isaac]], [[connections/people/Ishbak|Ishbak]], [[connections/people/Ishmael (Genesis 16.11)|Ishmael (Genesis 16.11)]], [[connections/people/Jokshan|Jokshan]], [[connections/people/Medan|Medan]], [[connections/people/Midian|Midian]], [[connections/people/Shuah|Shuah]], [[connections/people/Zimran|Zimran]]
+- **Tribe or nation:** Early Patriarch
+
+**Line of descent** (21 generations, father to son): [[connections/people/Adam|Adam]] → [[connections/people/Seth|Seth]] → [[connections/people/Enosh|Enosh]] → [[connections/people/Kenan|Kenan]] → [[connections/people/Mahalalel (Genesis 5.12)|Mahalalel (Genesis 5.12)]] → [[connections/people/Jared|Jared]] → [[connections/people/Enoch (Genesis 5.18)|Enoch (Genesis 5.18)]] → [[connections/people/Methuselah|Methuselah]] → [[connections/people/Lamech (Genesis 5.25)|Lamech (Genesis 5.25)]] → [[connections/people/Noah (Genesis 5.29)|Noah (Genesis 5.29)]] → [[connections/people/Shem|Shem]] → [[connections/people/Arpachshad|Arpachshad]] → [[connections/people/Cainan|Cainan]] → [[connections/people/Shelah (Genesis 10.24)|Shelah (Genesis 10.24)]] → [[connections/people/Eber (Genesis 10.21)|Eber (Genesis 10.21)]] → [[connections/people/Peleg|Peleg]] → [[connections/people/Reu|Reu]] → [[connections/people/Serug|Serug]] → [[connections/people/Nahor (Genesis 11.22)|Nahor (Genesis 11.22)]] → [[connections/people/Terah|Terah]] → **Abraham**
+
+**Family group:** [[connections/genealogy/Family of Adam|Family of Adam]], generation 21
+
+```mermaid
+flowchart TB
+  n0["Abraham"]:::me
+  n1["Nahor (Genesis 11.22)"]
+  n2["Terah"]
+  n1 --> n2
+  n2 --> n0
+  n3["Haran (Genesis 11.26)"]
+  n2 --> n3
+  n4["Nahor (Genesis 11.26)"]
+  n2 --> n4
+  n5["Sarah"]
+  n2 --> n5
+  n6["Hagar"]:::spouse
+  n0 -.- n6
+  n7["Keturah"]:::spouse
+  n0 -.- n7
+  n0 -.- n5
+  n8["Isaac"]
+  n0 --> n8
+  n9["Ishbak"]
+  n0 --> n9
+  n10["Ishmael (Genesis 16.11)"]
+  n0 --> n10
+  n11["Jokshan"]
+  n0 --> n11
+  n12["Medan"]
+  n0 --> n12
+  n13["Midian"]
+  n0 --> n13
+  n14["Shuah"]
+  n0 --> n14
+  n15["Zimran"]
+  n0 --> n15
+  classDef me stroke-width:3px
+  classDef spouse stroke-dasharray:4
+```
+
+## Events
+
+- [[connections/timeline/20th century BC|1997 BC]] · [[connections/events/Lifetime of Abraham|Lifetime of Abraham]]
+- [[connections/timeline/20th century BC|1996 BC]] · [[connections/events/Birth of Abraham|Birth of Abraham]]
+- [[connections/timeline/20th century BC|1921 BC]] · [[connections/events/Abraham enters Canaan|Abraham enters Canaan]]
+- [[connections/timeline/20th century BC|1921 BC]] · [[connections/events/Abrahamic Covenant|Abrahamic Covenant]]
+- [[connections/timeline/20th century BC|1921 BC]] · [[connections/events/Abraham goes to Egypt|Abraham goes to Egypt]]
+- [[connections/timeline/20th century BC|1921 BC]] · [[connections/events/Sojourn in Canaan and Egypt|Sojourn in Canaan and Egypt]]
+- [[connections/timeline/20th century BC|1920 BC]] · [[connections/events/Abraham and Lot Separate|Abraham and Lot Separate]]
+- [[connections/timeline/20th century BC|1910 BC]] · [[connections/events/Birth of Ishmael|Birth of Ishmael]]
+- [[connections/timeline/19th century BC|1897 BC]] · [[connections/events/Sodom Destroyed|Sodom Destroyed]]
+- [[connections/timeline/19th century BC|1896 BC]] · [[connections/events/Birth of Isaac|Birth of Isaac]]
+- [[connections/timeline/19th century BC|1821 BC]] · [[connections/events/Death of Abraham|Death of Abraham]]
 
 ## Appears in
 

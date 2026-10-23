@@ -7,12 +7,16 @@ language: "Hebrew"
 verses: 31
 cross_references_out: 92
 cross_references_in: 110
+dated_from: -758
+dated_to: -758
 tags: ["chapter", "ot", "prophets"]
 ---
 
 # Isaiah 1
 
 ← [[connections/chapters/22-song-of-songs/Song of Songs 8|Song of Songs 8]] · [[connections/books/Isaiah|Isaiah]] · [[connections/chapters/23-isaiah/Isaiah 2|Isaiah 2]] →
+
+**Dated** *(Ussher, after the Treasury of Scripture Knowledge)*: [[connections/timeline/8th century BC|759 BC]]
 
 ## Text
 

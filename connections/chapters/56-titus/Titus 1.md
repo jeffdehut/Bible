@@ -7,12 +7,16 @@ language: "Greek"
 verses: 16
 cross_references_out: 74
 cross_references_in: 104
+dated_from: 65
+dated_to: 65
 tags: ["chapter", "nt", "pauline-epistles"]
 ---
 
 # Titus 1
 
 ← [[connections/chapters/55-2-timothy/2 Timothy 4|2 Timothy 4]] · [[connections/books/Titus|Titus]] · [[connections/chapters/56-titus/Titus 2|Titus 2]] →
+
+**Dated** *(Ussher, after the Treasury of Scripture Knowledge)*: [[connections/timeline/1st century AD|AD 65]]
 
 ## Text
 

@@ -7,6 +7,9 @@ original: ["דֹּאֵג"]
 verses: 5
 chapters: 3
 first: "1 Samuel 21:8"
+placed: "1062 BC"
+placed_year: -1061
+sex: "male"
 tags: ["person"]
 ---
 
@@ -15,6 +18,10 @@ tags: ["person"]
 Edomite chief shepherd who betrayed David to Saul
 
 **Original-language names:** דֹּאֵג (H1673)
+
+## When
+
+- **Placed around:** [[connections/timeline/11th century BC|1062 BC]] *(Ussher: the median date of the passages naming them)*
 
 ## Appears in
 

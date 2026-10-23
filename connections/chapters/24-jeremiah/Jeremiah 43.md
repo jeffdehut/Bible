@@ -7,12 +7,16 @@ language: "Hebrew/Aramaic"
 verses: 13
 cross_references_out: 0
 cross_references_in: 2
+dated_from: -587
+dated_to: -587
 tags: ["chapter", "ot", "prophets"]
 ---
 
 # Jeremiah 43
 
 ← [[connections/chapters/24-jeremiah/Jeremiah 42|Jeremiah 42]] · [[connections/books/Jeremiah|Jeremiah]] · [[connections/chapters/24-jeremiah/Jeremiah 44|Jeremiah 44]] →
+
+**Dated** *(Ussher, after the Treasury of Scripture Knowledge)*: [[connections/timeline/6th century BC|588 BC]]
 
 ## Text
 

@@ -7,12 +7,16 @@ language: "Hebrew"
 verses: 34
 cross_references_out: 3
 cross_references_in: 4
+dated_from: -973
+dated_to: -973
 tags: ["chapter", "ot", "history"]
 ---
 
 # 1 Kings 13
 
 ← [[connections/chapters/11-1-kings/1 Kings 12|1 Kings 12]] · [[connections/books/1 Kings|1 Kings]] · [[connections/chapters/11-1-kings/1 Kings 14|1 Kings 14]] →
+
+**Dated** *(Ussher, after the Treasury of Scripture Knowledge)*: [[connections/timeline/10th century BC|974 BC]]
 
 ## Text
 

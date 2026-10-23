@@ -7,6 +7,9 @@ original: ["מַהֲרַי"]
 verses: 3
 chapters: 3
 first: "2 Samuel 23:28"
+placed: "1055 BC"
+placed_year: -1054
+sex: "male"
 tags: ["person"]
 ---
 
@@ -15,6 +18,15 @@ tags: ["person"]
 One of David's mighty warriors from Netophah
 
 **Original-language names:** מַהֲרַי (H4121)
+
+## When
+
+- **Placed around:** [[connections/timeline/11th century BC|1055 BC]] *(Ussher: the median date of the passages naming them)*
+
+## Family
+
+- **Tribe or nation:** Tribe of Judah(?)
+
 
 ## Appears in
 

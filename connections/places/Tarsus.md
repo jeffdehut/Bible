@@ -17,6 +17,10 @@ City in Cilicia, birthplace of the apostle Paul
 
 **Original-language names:** Ταρσός (G5019)
 
+## Events
+
+- [[connections/timeline/1st century AD|AD 38]] · [[connections/events/Saul proclaims Jesus|Saul proclaims Jesus]]
+
 ## Appears in
 
 [[connections/chapters/44-acts/Acts 9|Acts 9]] · [[connections/chapters/44-acts/Acts 11|Acts 11]] · [[connections/chapters/44-acts/Acts 22|Acts 22]]

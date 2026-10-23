@@ -7,6 +7,7 @@ original: ["צִלְּתַי"]
 verses: 1
 chapters: 1
 first: "1 Chronicles 12:21"
+sex: "male"
 tags: ["person"]
 ---
 

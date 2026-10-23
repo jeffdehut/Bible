@@ -7,6 +7,9 @@ original: ["בֵּצָ֑י"]
 verses: 1
 chapters: 1
 first: "Nehemiah 10:19"
+placed: "445 BC"
+placed_year: -444
+sex: "male"
 tags: ["person"]
 ---
 
@@ -15,6 +18,10 @@ tags: ["person"]
 Judahite leader who sealed the covenant
 
 **Original-language names:** בֵּצָ֑י (H1209)
+
+## When
+
+- **Placed around:** [[connections/timeline/5th century BC|445 BC]] *(Ussher: the median date of the passages naming them)*
 
 ## Appears in
 

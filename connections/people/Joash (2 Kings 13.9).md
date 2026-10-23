@@ -8,6 +8,10 @@ original: ["יוֹאָשׁ", "יְהוֹאָשׁ"]
 verses: 23
 chapters: 5
 first: "2 Kings 13:9"
+placed: "826 BC"
+placed_year: -825
+generation: 5
+sex: "male"
 tags: ["person"]
 ---
 
@@ -18,6 +22,38 @@ King of Israel, son of Jehoahaz
 **Also called:** Jehoash
 
 **Original-language names:** יוֹאָשׁ (H3101) · יְהוֹאָשׁ (H3060)
+
+## When
+
+- **Placed around:** [[connections/timeline/9th century BC|826 BC]] *(Ussher: the median date of the passages naming them)*
+
+## Family
+
+- **Father:** [[connections/people/Jehoahaz (2 Kings 10.35)|Jehoahaz (2 Kings 10.35)]]
+- **Children:** [[connections/people/Jeroboam (2 Kings 13.13)|Jeroboam (2 Kings 13.13)]]
+- **Tribe or nation:** Israel
+
+**Line of descent** (5 generations, father to son): [[connections/people/Nimshi|Nimshi]] → [[connections/people/Jehoshaphat (2 Kings 9.2)|Jehoshaphat (2 Kings 9.2)]] → [[connections/people/Jehu (1 Kings 19.16)|Jehu (1 Kings 19.16)]] → [[connections/people/Jehoahaz (2 Kings 10.35)|Jehoahaz (2 Kings 10.35)]] → **Joash (2 Kings 13.9)**
+
+**Family group:** [[connections/genealogy/Family of Nimshi|Family of Nimshi]], generation 5
+
+```mermaid
+flowchart TB
+  n0["Joash (2 Kings 13.9)"]:::me
+  n1["Jehu (1 Kings 19.16)"]
+  n2["Jehoahaz (2 Kings 10.35)"]
+  n1 --> n2
+  n2 --> n0
+  n3["Jeroboam (2 Kings 13.13)"]
+  n0 --> n3
+  classDef me stroke-width:3px
+  classDef spouse stroke-dasharray:4
+```
+
+## Events
+
+- [[connections/timeline/9th century BC|840 BC]] · [[connections/events/Reign of Jehoash|Reign of Jehoash]]
+- [[connections/timeline/9th century BC|825 BC]] · [[connections/events/Death of Jehoahash|Death of Jehoahash]]
 
 ## Appears in
 

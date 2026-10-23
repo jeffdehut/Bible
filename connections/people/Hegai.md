@@ -7,6 +7,9 @@ original: ["הֵגֵא"]
 verses: 3
 chapters: 1
 first: "Esther 2:3"
+placed: "461 BC"
+placed_year: -460
+sex: "male"
 tags: ["person"]
 ---
 
@@ -15,6 +18,10 @@ tags: ["person"]
 A eunuch in charge of King Ahasuerus' harem.
 
 **Original-language names:** הֵגֵא (H1896)
+
+## When
+
+- **Placed around:** [[connections/timeline/5th century BC|461 BC]] *(Ussher: the median date of the passages naming them)*
 
 ## Appears in
 

@@ -8,6 +8,10 @@ original: ["גִּדְעוֹן", "יְרֻבַּ֫עַל", "יְרֻבֶּשֶׁ
 verses: 50
 chapters: 7
 first: "Judges 6:11"
+placed: "1245 BC"
+placed_year: -1244
+generation: 2
+sex: "male"
 tags: ["person"]
 ---
 
@@ -18,6 +22,36 @@ Judge of Israel; defeated Midianites; tested and reassured by God.
 **Also called:** Jerubbaal, Jerubbesheth
 
 **Original-language names:** גִּדְעוֹן (H1439) · יְרֻבַּ֫עַל (H3378) · יְרֻבֶּשֶׁת (H3380) · Γεδεών (G1066)
+
+## When
+
+- **Placed around:** [[connections/timeline/13th century BC|1245 BC]] *(Ussher: the median date of the passages naming them)*
+
+## Family
+
+- **Father:** [[connections/people/Joash (Judges 6.11)|Joash (Judges 6.11)]]
+- **Children:** [[connections/people/Abimelech (Judges 8.31)|Abimelech (Judges 8.31)]], [[connections/people/Jether (Judges 8.20)|Jether (Judges 8.20)]], [[connections/people/Jotham (Judges 9.5)|Jotham (Judges 9.5)]]
+
+**Family group:** [[connections/genealogy/Family of Joash (Judges 6.11)|Family of Joash (Judges 6.11)]], generation 2
+
+```mermaid
+flowchart TB
+  n0["Gideon"]:::me
+  n1["Joash (Judges 6.11)"]
+  n1 --> n0
+  n2["Abimelech (Judges 8.31)"]
+  n0 --> n2
+  n3["Jether (Judges 8.20)"]
+  n0 --> n3
+  n4["Jotham (Judges 9.5)"]
+  n0 --> n4
+  classDef me stroke-width:3px
+  classDef spouse stroke-dasharray:4
+```
+
+## Events
+
+- [[connections/timeline/13th century BC|1251 BC]] · [[connections/events/Deliverance by Gideon|Deliverance by Gideon]]
 
 ## Appears in
 

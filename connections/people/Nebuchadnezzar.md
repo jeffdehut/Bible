@@ -7,6 +7,10 @@ original: ["נְבוּכַדְרֶאצַּר", "נְבוּכַדְנֶצַּר",
 verses: 88
 chapters: 37
 first: "2 Kings 24:1"
+placed: "589 BC"
+placed_year: -588
+generation: 1
+sex: "male"
 tags: ["person"]
 ---
 
@@ -15,6 +19,27 @@ tags: ["person"]
 Emperor of Babylon who conquered Judah
 
 **Original-language names:** נְבוּכַדְרֶאצַּר (H5019) · נְבוּכַדְנֶצַּר (H5019) · נְבוּכַדְנֶצַּר (H5020) · נְבוּכַדְרֶאצַּר (H5020)
+
+## When
+
+- **Placed around:** [[connections/timeline/6th century BC|589 BC]] *(Ussher: the median date of the passages naming them)*
+- **Reigned / in office:** [[connections/timeline/7th century BC|605 BC]] – [[connections/timeline/6th century BC|562 BC]] *(modern dates)* · Nebuchadnezzar II, Babylon · [Wikidata Q12591](https://www.wikidata.org/wiki/Q12591)
+
+## Family
+
+- **Children:** [[connections/people/Belshazzar|Belshazzar]]
+- **Tribe or nation:** Mesopotamia
+
+**Family group:** [[connections/genealogy/Family of Nebuchadnezzar|Family of Nebuchadnezzar]], generation 1
+
+```mermaid
+flowchart TB
+  n0["Nebuchadnezzar"]:::me
+  n1["Belshazzar"]
+  n0 --> n1
+  classDef me stroke-width:3px
+  classDef spouse stroke-dasharray:4
+```
 
 ## Appears in
 

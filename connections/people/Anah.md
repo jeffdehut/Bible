@@ -7,6 +7,10 @@ original: ["עֲנָה"]
 verses: 10
 chapters: 2
 first: "Genesis 36:2"
+placed: "1756 BC"
+placed_year: -1755
+generation: 3
+sex: "male"
 tags: ["person"]
 ---
 
@@ -15,6 +19,38 @@ tags: ["person"]
 Horite, father of Oholibamah, Esau's wife
 
 **Original-language names:** עֲנָה (H6034)
+
+## When
+
+- **Placed around:** [[connections/timeline/18th century BC|1756 BC]] *(Ussher: the median date of the passages naming them)*
+
+## Family
+
+- **Father:** [[connections/people/Zibeon|Zibeon]]
+- **Brothers and sisters:** [[connections/people/Aiah (Genesis 36.24)|Aiah (Genesis 36.24)]]
+- **Children:** [[connections/people/Dishon (Genesis 36.25)|Dishon (Genesis 36.25)]], [[connections/people/Oholibamah|Oholibamah]]
+- **Tribe or nation:** Edom
+
+**Line of descent** (3 generations, father to son): [[connections/people/Seir|Seir]] → [[connections/people/Zibeon|Zibeon]] → **Anah**
+
+**Family group:** [[connections/genealogy/Family of Adam|Family of Adam]], generation 3
+
+```mermaid
+flowchart TB
+  n0["Anah"]:::me
+  n1["Seir"]
+  n2["Zibeon"]
+  n1 --> n2
+  n2 --> n0
+  n3["Aiah (Genesis 36.24)"]
+  n2 --> n3
+  n4["Dishon (Genesis 36.25)"]
+  n0 --> n4
+  n5["Oholibamah"]
+  n0 --> n5
+  classDef me stroke-width:3px
+  classDef spouse stroke-dasharray:4
+```
 
 ## Appears in
 

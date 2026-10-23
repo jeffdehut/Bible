@@ -17,6 +17,11 @@ A city in Asia Minor visited by Paul
 
 **Original-language names:** Μίλητος (G3399)
 
+## Events
+
+- [[connections/timeline/1st century AD|AD 54]] · [[connections/events/Voyage to Miletus|Voyage to Miletus]]
+- [[connections/timeline/1st century AD|AD 54]] · [[connections/events/Paul speaks to Ephesian Elders|Paul speaks to Ephesian Elders]]
+
 ## Appears in
 
 [[connections/chapters/44-acts/Acts 20|Acts 20 (2)]] · [[connections/chapters/55-2-timothy/2 Timothy 4|2 Timothy 4]]

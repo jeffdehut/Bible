@@ -7,6 +7,10 @@ original: ["אֲחִיקָם"]
 verses: 20
 chapters: 8
 first: "2 Kings 22:12"
+placed: "588 BC"
+placed_year: -587
+generation: 4
+sex: "male"
 tags: ["person"]
 ---
 
@@ -15,6 +19,37 @@ tags: ["person"]
 Son of Shaphan, protected Jeremiah from death
 
 **Original-language names:** אֲחִיקָם (H0296)
+
+## When
+
+- **Placed around:** [[connections/timeline/6th century BC|588 BC]] *(Ussher: the median date of the passages naming them)*
+
+## Family
+
+- **Father:** [[connections/people/Shaphan (2 Kings 22.3)|Shaphan (2 Kings 22.3)]]
+- **Brothers and sisters:** [[connections/people/Elasah (Jeremiah 29.3)|Elasah (Jeremiah 29.3)]], [[connections/people/Gemariah (Jeremiah 36.10)|Gemariah (Jeremiah 36.10)]]
+- **Children:** [[connections/people/Gedaliah (2 Kings 25.22)|Gedaliah (2 Kings 25.22)]]
+
+**Line of descent** (4 generations, father to son): [[connections/people/Meshullam (2 Kings 22.3)|Meshullam (2 Kings 22.3)]] → [[connections/people/Azaliah|Azaliah]] → [[connections/people/Shaphan (2 Kings 22.3)|Shaphan (2 Kings 22.3)]] → **Ahikam**
+
+**Family group:** [[connections/genealogy/Family of Meshullam (2 Kings 22.3)|Family of Meshullam (2 Kings 22.3)]], generation 4
+
+```mermaid
+flowchart TB
+  n0["Ahikam"]:::me
+  n1["Azaliah"]
+  n2["Shaphan (2 Kings 22.3)"]
+  n1 --> n2
+  n2 --> n0
+  n3["Elasah (Jeremiah 29.3)"]
+  n2 --> n3
+  n4["Gemariah (Jeremiah 36.10)"]
+  n2 --> n4
+  n5["Gedaliah (2 Kings 25.22)"]
+  n0 --> n5
+  classDef me stroke-width:3px
+  classDef spouse stroke-dasharray:4
+```
 
 ## Appears in
 

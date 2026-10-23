@@ -7,6 +7,10 @@ original: ["אֶלְיָדָע"]
 verses: 1
 chapters: 1
 first: "1 Kings 11:23"
+placed: "984 BC"
+placed_year: -983
+generation: 1
+sex: "male"
 tags: ["person"]
 ---
 
@@ -15,6 +19,25 @@ tags: ["person"]
 Father of Rezon, an adversary of Solomon
 
 **Original-language names:** אֶלְיָדָע (H0450)
+
+## When
+
+- **Placed around:** [[connections/timeline/10th century BC|984 BC]] *(Ussher: the median date of the passages naming them)*
+
+## Family
+
+- **Children:** [[connections/people/Rezon|Rezon]]
+
+**Family group:** [[connections/genealogy/Family of Eliada (1 Kings 11.23)|Family of Eliada (1 Kings 11.23)]], generation 1
+
+```mermaid
+flowchart TB
+  n0["Eliada (1 Kings 11.23)"]:::me
+  n1["Rezon"]
+  n0 --> n1
+  classDef me stroke-width:3px
+  classDef spouse stroke-dasharray:4
+```
 
 ## Appears in
 

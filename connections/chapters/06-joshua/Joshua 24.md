@@ -7,12 +7,16 @@ language: "Hebrew"
 verses: 33
 cross_references_out: 29
 cross_references_in: 37
+dated_from: -1426
+dated_to: -1426
 tags: ["chapter", "ot", "history"]
 ---
 
 # Joshua 24
 
 ← [[connections/chapters/06-joshua/Joshua 23|Joshua 23]] · [[connections/books/Joshua|Joshua]] · [[connections/chapters/07-judges/Judges 1|Judges 1]] →
+
+**Dated** *(Ussher, after the Treasury of Scripture Knowledge)*: [[connections/timeline/15th century BC|1427 BC]]
 
 ## Text
 

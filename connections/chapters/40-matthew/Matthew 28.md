@@ -7,12 +7,16 @@ language: "Greek"
 verses: 20
 cross_references_out: 123
 cross_references_in: 102
+dated_from: 33
+dated_to: 33
 tags: ["chapter", "nt", "gospels"]
 ---
 
 # Matthew 28
 
 ← [[connections/chapters/40-matthew/Matthew 27|Matthew 27]] · [[connections/books/Matthew|Matthew]] · [[connections/chapters/41-mark/Mark 1|Mark 1]] →
+
+**Dated** *(Ussher, after the Treasury of Scripture Knowledge)*: [[connections/timeline/1st century AD|AD 33]]
 
 ## Text
 

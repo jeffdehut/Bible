@@ -7,12 +7,16 @@ language: "Hebrew/Aramaic"
 verses: 43
 cross_references_out: 1
 cross_references_in: 1
+dated_from: -1868
+dated_to: -1616
 tags: ["chapter", "ot", "torah"]
 ---
 
 # Genesis 36
 
 ← [[connections/chapters/01-genesis/Genesis 35|Genesis 35]] · [[connections/books/Genesis|Genesis]] · [[connections/chapters/01-genesis/Genesis 37|Genesis 37]] →
+
+**Dated** *(Ussher, after the Treasury of Scripture Knowledge)*: [[connections/timeline/19th century BC|1869 BC]] – [[connections/timeline/17th century BC|1617 BC]]
 
 ## Text
 

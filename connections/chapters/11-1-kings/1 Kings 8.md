@@ -7,12 +7,16 @@ language: "Hebrew"
 verses: 66
 cross_references_out: 50
 cross_references_in: 76
+dated_from: -1003
+dated_to: -1003
 tags: ["chapter", "ot", "history"]
 ---
 
 # 1 Kings 8
 
 ← [[connections/chapters/11-1-kings/1 Kings 7|1 Kings 7]] · [[connections/books/1 Kings|1 Kings]] · [[connections/chapters/11-1-kings/1 Kings 9|1 Kings 9]] →
+
+**Dated** *(Ussher, after the Treasury of Scripture Knowledge)*: [[connections/timeline/11th century BC|1004 BC]]
 
 ## Text
 

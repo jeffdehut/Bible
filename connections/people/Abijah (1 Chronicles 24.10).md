@@ -7,6 +7,9 @@ original: ["אֲבִיָּה", "Ἀβιά"]
 verses: 2
 chapters: 2
 first: "1 Chronicles 24:10"
+placed: "5 BC"
+placed_year: -4
+sex: "male"
 tags: ["person"]
 ---
 
@@ -15,6 +18,10 @@ tags: ["person"]
 Head of a priestly division during David's reign
 
 **Original-language names:** אֲבִיָּה (H0029) · Ἀβιά (G0007)
+
+## When
+
+- **Placed around:** [[connections/timeline/1st century BC|5 BC]] *(Ussher: the median date of the passages naming them)*
 
 ## Appears in
 

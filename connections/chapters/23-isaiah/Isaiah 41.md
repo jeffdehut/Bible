@@ -7,12 +7,16 @@ language: "Hebrew"
 verses: 29
 cross_references_out: 114
 cross_references_in: 154
+dated_from: -711
+dated_to: -711
 tags: ["chapter", "ot", "prophets"]
 ---
 
 # Isaiah 41
 
 ← [[connections/chapters/23-isaiah/Isaiah 40|Isaiah 40]] · [[connections/books/Isaiah|Isaiah]] · [[connections/chapters/23-isaiah/Isaiah 42|Isaiah 42]] →
+
+**Dated** *(Ussher, after the Treasury of Scripture Knowledge)*: [[connections/timeline/8th century BC|712 BC]]
 
 ## Text
 

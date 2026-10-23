@@ -8,6 +8,9 @@ original: ["Σίλας", "Σιλουανός"]
 verses: 17
 chapters: 8
 first: "Acts 15:22"
+placed: "AD 53"
+placed_year: 53
+sex: "male"
 tags: ["person"]
 ---
 
@@ -18,6 +21,27 @@ Prominent member of the Jerusalem church, companion of Paul.
 **Also called:** Silvanus
 
 **Original-language names:** Σίλας (G4609) · Σιλουανός (G4610)
+
+## When
+
+- **Placed around:** [[connections/timeline/1st century AD|AD 53]] *(Ussher: the median date of the passages naming them)*
+
+## Events
+
+- [[connections/timeline/1st century AD|AD 46]] · [[connections/events/Jerusalem Council|Jerusalem Council]]
+- [[connections/timeline/1st century AD|AD 46]] · [[connections/events/Second Missionary Journey|Second Missionary Journey]]
+- [[connections/timeline/1st century AD|AD 47]] · [[connections/events/Second Missionary Journey begins|Second Missionary Journey begins]]
+- [[connections/timeline/1st century AD|AD 47]] · [[connections/events/Timothy Joins Paul and Silas|Timothy Joins Paul and Silas]]
+- [[connections/timeline/1st century AD|AD 47]] · [[connections/events/Mission to Phrygia, Galatia and Asia|Mission to Phrygia, Galatia and Asia]]
+- [[connections/timeline/1st century AD|AD 47]] · [[connections/events/Call to Macedonia|Call to Macedonia]]
+- [[connections/timeline/1st century AD|AD 47]] · [[connections/events/Lydia's Conversion|Lydia's Conversion]]
+- [[connections/timeline/1st century AD|AD 47]] · [[connections/events/Paul casts demon out of soothsayer|Paul casts demon out of soothsayer]]
+- [[connections/timeline/1st century AD|AD 47]] · [[connections/events/Paul and Silas imprisoned|Paul and Silas imprisoned]]
+- [[connections/timeline/1st century AD|AD 47]] · [[connections/events/Philippian jailer converted|Philippian jailer converted]]
+- [[connections/timeline/1st century AD|AD 47]] · [[connections/events/Paul and Silas released|Paul and Silas released]]
+- [[connections/timeline/1st century AD|AD 48]] · [[connections/events/Uproar in Thessalonica|Uproar in Thessalonica]]
+- [[connections/timeline/1st century AD|AD 48]] · [[connections/events/Mission to Berea|Mission to Berea]]
+- [[connections/timeline/1st century AD|AD 49]] · [[connections/events/Mission to Corinth, 1&2 Thess Written|Mission to Corinth, 1&2 Thess Written]]
 
 ## Appears in
 

@@ -8,6 +8,9 @@ original: ["אֵלִיָּה", "Ἡλίας"]
 verses: 92
 chapters: 25
 first: "1 Kings 17:1"
+placed: "896 BC"
+placed_year: -895
+sex: "male"
 tags: ["person"]
 ---
 
@@ -18,6 +21,15 @@ A prophet during the reigns of Ahab and Ahaziah.
 **Also called:** Elias
 
 **Original-language names:** אֵלִיָּה (H0452) · Ἡλίας (G2243)
+
+## When
+
+- **Placed around:** [[connections/timeline/9th century BC|896 BC]] *(Ussher: the median date of the passages naming them)*
+
+## Events
+
+- [[connections/timeline/10th century BC|910 BC]] · [[connections/events/Prophecies of Elijah|Prophecies of Elijah]]
+- [[connections/timeline/1st century AD|AD 29]] · [[connections/events/The Transfiguation|The Transfiguation]]
 
 ## Appears in
 

@@ -7,6 +7,9 @@ original: ["אֲבִימֶ֫לֶךְ"]
 verses: 23
 chapters: 3
 first: "Genesis 20:2"
+placed: "1886 BC"
+placed_year: -1885
+sex: "male"
 tags: ["person"]
 ---
 
@@ -15,6 +18,15 @@ tags: ["person"]
 Philistine king who interacted with Abraham and Isaac
 
 **Original-language names:** אֲבִימֶ֫לֶךְ (H0040)
+
+## When
+
+- **Placed around:** [[connections/timeline/19th century BC|1886 BC]] *(Ussher: the median date of the passages naming them)*
+
+## Family
+
+- **Tribe or nation:** Canaan
+
 
 ## Appears in
 

@@ -7,6 +7,9 @@ original: ["רְחוּם"]
 verses: 4
 chapters: 1
 first: "Ezra 4:8"
+placed: "522 BC"
+placed_year: -521
+sex: "male"
 tags: ["person"]
 ---
 
@@ -15,6 +18,10 @@ tags: ["person"]
 A Persian official who wrote to King Artaxerxes
 
 **Original-language names:** רְחוּם (H7348b)
+
+## When
+
+- **Placed around:** [[connections/timeline/6th century BC|522 BC]] *(Ussher: the median date of the passages naming them)*
 
 ## Appears in
 

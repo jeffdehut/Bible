@@ -7,12 +7,16 @@ language: "Greek"
 verses: 43
 cross_references_out: 106
 cross_references_in: 132
+dated_from: 33
+dated_to: 33
 tags: ["chapter", "nt", "gospels"]
 ---
 
 # Luke 18
 
 ← [[connections/chapters/42-luke/Luke 17|Luke 17]] · [[connections/books/Luke|Luke]] · [[connections/chapters/42-luke/Luke 19|Luke 19]] →
+
+**Dated** *(Ussher, after the Treasury of Scripture Knowledge)*: [[connections/timeline/1st century AD|AD 33]]
 
 ## Text
 

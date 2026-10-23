@@ -7,6 +7,10 @@ original: ["עֲזַרְיָ֫הוּ"]
 verses: 1
 chapters: 1
 first: "2 Chronicles 23:1"
+placed: "878 BC"
+placed_year: -877
+generation: 2
+sex: "male"
 tags: ["person"]
 ---
 
@@ -15,6 +19,26 @@ tags: ["person"]
 A commander who supported Joash's coronation
 
 **Original-language names:** עֲזַרְיָ֫הוּ (H5838)
+
+## When
+
+- **Placed around:** [[connections/timeline/9th century BC|878 BC]] *(Ussher: the median date of the passages naming them)*
+
+## Family
+
+- **Father:** [[connections/people/Obed (2 Chronicles 23.1)|Obed (2 Chronicles 23.1)]]
+- **Tribe or nation:** Tribe of Levi
+
+**Family group:** [[connections/genealogy/Family of Obed (2 Chronicles 23.1)|Family of Obed (2 Chronicles 23.1)]], generation 2
+
+```mermaid
+flowchart TB
+  n0["Azariah (2 Chronicles 23.1)"]:::me
+  n1["Obed (2 Chronicles 23.1)"]
+  n1 --> n0
+  classDef me stroke-width:3px
+  classDef spouse stroke-dasharray:4
+```
 
 ## Appears in
 

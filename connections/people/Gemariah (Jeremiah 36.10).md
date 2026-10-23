@@ -7,6 +7,10 @@ original: ["גְּמַרְיָ֫הוּ"]
 verses: 4
 chapters: 1
 first: "Jeremiah 36:10"
+placed: "606 BC"
+placed_year: -605
+generation: 4
+sex: "male"
 tags: ["person"]
 ---
 
@@ -15,6 +19,37 @@ tags: ["person"]
 Son of Shaphan; official during Jehoiakim's reign; opposed burning scroll.
 
 **Original-language names:** גְּמַרְיָ֫הוּ (H1587)
+
+## When
+
+- **Placed around:** [[connections/timeline/7th century BC|606 BC]] *(Ussher: the median date of the passages naming them)*
+
+## Family
+
+- **Father:** [[connections/people/Shaphan (2 Kings 22.3)|Shaphan (2 Kings 22.3)]]
+- **Brothers and sisters:** [[connections/people/Ahikam|Ahikam]], [[connections/people/Elasah (Jeremiah 29.3)|Elasah (Jeremiah 29.3)]]
+- **Children:** [[connections/people/Micaiah (Jeremiah 36.11)|Micaiah (Jeremiah 36.11)]]
+
+**Line of descent** (4 generations, father to son): [[connections/people/Meshullam (2 Kings 22.3)|Meshullam (2 Kings 22.3)]] → [[connections/people/Azaliah|Azaliah]] → [[connections/people/Shaphan (2 Kings 22.3)|Shaphan (2 Kings 22.3)]] → **Gemariah (Jeremiah 36.10)**
+
+**Family group:** [[connections/genealogy/Family of Meshullam (2 Kings 22.3)|Family of Meshullam (2 Kings 22.3)]], generation 4
+
+```mermaid
+flowchart TB
+  n0["Gemariah (Jeremiah 36.10)"]:::me
+  n1["Azaliah"]
+  n2["Shaphan (2 Kings 22.3)"]
+  n1 --> n2
+  n2 --> n0
+  n3["Ahikam"]
+  n2 --> n3
+  n4["Elasah (Jeremiah 29.3)"]
+  n2 --> n4
+  n5["Micaiah (Jeremiah 36.11)"]
+  n0 --> n5
+  classDef me stroke-width:3px
+  classDef spouse stroke-dasharray:4
+```
 
 ## Appears in
 

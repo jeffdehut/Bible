@@ -17,6 +17,10 @@ Island visited by Paul during his travels
 
 **Original-language names:** Σάμος (G4544)
 
+## Events
+
+- [[connections/timeline/1st century AD|AD 54]] · [[connections/events/Voyage to Miletus|Voyage to Miletus]]
+
 ## Appears in
 
 [[connections/chapters/44-acts/Acts 20|Acts 20]]

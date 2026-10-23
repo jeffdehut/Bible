@@ -8,6 +8,9 @@ original: ["Σίμων", "ζηλωτής"]
 verses: 4
 chapters: 4
 first: "Matthew 10:4"
+placed: "AD 33"
+placed_year: 33
+sex: "male"
 tags: ["person"]
 ---
 
@@ -18,6 +21,15 @@ One of the twelve apostles, also called the Zealot.
 **Also called:** Zealot
 
 **Original-language names:** Σίμων (G4613) · ζηλωτής (G2208)
+
+## When
+
+- **Placed around:** [[connections/timeline/1st century AD|AD 33]] *(Ussher: the median date of the passages naming them)*
+
+## Events
+
+- [[connections/timeline/1st century AD|AD 28]] · [[connections/events/Apostles Chosen|Apostles Chosen]]
+- [[connections/timeline/1st century AD|AD 30]] · [[connections/events/Matthias replaces Judas|Matthias replaces Judas]]
 
 ## Appears in
 

@@ -7,12 +7,16 @@ language: "Hebrew"
 verses: 20
 cross_references_out: 9
 cross_references_in: 10
+dated_from: -799
+dated_to: -799
 tags: ["chapter", "ot", "prophets"]
 ---
 
 # Joel 1
 
 ← [[connections/chapters/28-hosea/Hosea 14|Hosea 14]] · [[connections/books/Joel|Joel]] · [[connections/chapters/29-joel/Joel 2|Joel 2]] →
+
+**Dated** *(Ussher, after the Treasury of Scripture Knowledge)*: [[connections/timeline/8th century BC|800 BC]]
 
 ## Text
 

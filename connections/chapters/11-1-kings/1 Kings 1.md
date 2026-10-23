@@ -7,12 +7,16 @@ language: "Hebrew"
 verses: 53
 cross_references_out: 5
 cross_references_in: 5
+dated_from: -1014
+dated_to: -1014
 tags: ["chapter", "ot", "history"]
 ---
 
 # 1 Kings 1
 
 ← [[connections/chapters/10-2-samuel/2 Samuel 24|2 Samuel 24]] · [[connections/books/1 Kings|1 Kings]] · [[connections/chapters/11-1-kings/1 Kings 2|1 Kings 2]] →
+
+**Dated** *(Ussher, after the Treasury of Scripture Knowledge)*: [[connections/timeline/11th century BC|1015 BC]]
 
 ## Text
 

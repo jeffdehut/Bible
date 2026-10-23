@@ -7,12 +7,16 @@ language: "Hebrew"
 verses: 29
 cross_references_out: 62
 cross_references_in: 35
+dated_from: -1041
+dated_to: -1041
 tags: ["chapter", "ot", "history"]
 ---
 
 # 2 Samuel 7
 
 ← [[connections/chapters/10-2-samuel/2 Samuel 6|2 Samuel 6]] · [[connections/books/2 Samuel|2 Samuel]] · [[connections/chapters/10-2-samuel/2 Samuel 8|2 Samuel 8]] →
+
+**Dated** *(Ussher, after the Treasury of Scripture Knowledge)*: [[connections/timeline/11th century BC|1042 BC]]
 
 ## Text
 

@@ -7,12 +7,16 @@ language: "Hebrew"
 verses: 45
 cross_references_out: 59
 cross_references_in: 65
+dated_from: -1041
+dated_to: -1041
 tags: ["chapter", "ot", "wisdom"]
 ---
 
 # Psalms 105
 
 ← [[connections/chapters/19-psalms/Psalms 104|Psalms 104]] · [[connections/books/Psalms|Psalms]] · [[connections/chapters/19-psalms/Psalms 106|Psalms 106]] →
+
+**Dated** *(Ussher, after the Treasury of Scripture Knowledge)*: [[connections/timeline/11th century BC|1042 BC]]
 
 ## Text
 

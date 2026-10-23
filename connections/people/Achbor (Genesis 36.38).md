@@ -7,6 +7,10 @@ original: ["עַכְבּוֹר"]
 verses: 3
 chapters: 2
 first: "Genesis 36:38"
+placed: "1659 BC"
+placed_year: -1658
+generation: 1
+sex: "male"
 tags: ["person"]
 ---
 
@@ -15,6 +19,26 @@ tags: ["person"]
 Edomite king, son of Baal-hanan
 
 **Original-language names:** עַכְבּוֹר (H5907)
+
+## When
+
+- **Placed around:** [[connections/timeline/17th century BC|1659 BC]] *(Ussher: the median date of the passages naming them)*
+
+## Family
+
+- **Children:** [[connections/people/Baal-hanan (Genesis 36.38)|Baal-hanan (Genesis 36.38)]]
+- **Tribe or nation:** Edom
+
+**Family group:** [[connections/genealogy/Family of Achbor (Genesis 36.38)|Family of Achbor (Genesis 36.38)]], generation 1
+
+```mermaid
+flowchart TB
+  n0["Achbor (Genesis 36.38)"]:::me
+  n1["Baal-hanan (Genesis 36.38)"]
+  n0 --> n1
+  classDef me stroke-width:3px
+  classDef spouse stroke-dasharray:4
+```
 
 ## Appears in
 

@@ -7,12 +7,16 @@ language: "Hebrew/Aramaic"
 verses: 13
 cross_references_out: 73
 cross_references_in: 69
+dated_from: -533
+dated_to: -533
 tags: ["chapter", "ot", "prophets"]
 ---
 
 # Daniel 12
 
 ← [[connections/chapters/27-daniel/Daniel 11|Daniel 11]] · [[connections/books/Daniel|Daniel]] · [[connections/chapters/28-hosea/Hosea 1|Hosea 1]] →
+
+**Dated** *(Ussher, after the Treasury of Scripture Knowledge)*: [[connections/timeline/6th century BC|534 BC]]
 
 ## Text
 

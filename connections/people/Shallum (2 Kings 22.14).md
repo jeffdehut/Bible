@@ -7,6 +7,10 @@ original: ["שַׁלּוּם"]
 verses: 2
 chapters: 2
 first: "2 Kings 22:14"
+placed: "624 BC"
+placed_year: -623
+generation: 3
+sex: "male"
 tags: ["person"]
 ---
 
@@ -15,6 +19,32 @@ tags: ["person"]
 Husband of Huldah the prophetess
 
 **Original-language names:** שַׁלּוּם (H7967)
+
+## When
+
+- **Placed around:** [[connections/timeline/7th century BC|624 BC]] *(Ussher: the median date of the passages naming them)*
+
+## Family
+
+- **Father:** [[connections/people/Tikvah (2 Kings 22.14)|Tikvah (2 Kings 22.14)]]
+- **Spouses:** [[connections/people/Huldah|Huldah]]
+
+**Line of descent** (3 generations, father to son): [[connections/people/Harhas|Harhas]] → [[connections/people/Tikvah (2 Kings 22.14)|Tikvah (2 Kings 22.14)]] → **Shallum (2 Kings 22.14)**
+
+**Family group:** [[connections/genealogy/Family of Harhas|Family of Harhas]], generation 3
+
+```mermaid
+flowchart TB
+  n0["Shallum (2 Kings 22.14)"]:::me
+  n1["Harhas"]
+  n2["Tikvah (2 Kings 22.14)"]
+  n1 --> n2
+  n2 --> n0
+  n3["Huldah"]:::spouse
+  n0 -.- n3
+  classDef me stroke-width:3px
+  classDef spouse stroke-dasharray:4
+```
 
 ## Appears in
 

@@ -7,6 +7,9 @@ original: ["Σέργιος+G3972H«G3972=Παῦλος"]
 verses: 1
 chapters: 1
 first: "Acts 13:7"
+placed: "AD 45"
+placed_year: 45
+sex: "male"
 tags: ["person"]
 ---
 
@@ -15,6 +18,10 @@ tags: ["person"]
 Proconsul of Cyprus, converted under Paul's ministry
 
 **Original-language names:** Σέργιος+G3972H«G3972=Παῦλος (G4588)
+
+## When
+
+- **Placed around:** [[connections/timeline/1st century AD|AD 45]] *(Ussher: the median date of the passages naming them)*
 
 ## Appears in
 

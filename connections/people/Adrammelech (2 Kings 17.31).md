@@ -7,6 +7,9 @@ original: ["אַדְרַמֶּ֫לֶךְ"]
 verses: 1
 chapters: 1
 first: "2 Kings 17:31"
+placed: "678 BC"
+placed_year: -677
+sex: "male"
 tags: ["person"]
 ---
 
@@ -15,6 +18,10 @@ tags: ["person"]
 Assyrian god worshipped by Sepharvites in Samaria
 
 **Original-language names:** אַדְרַמֶּ֫לֶךְ (H0152)
+
+## When
+
+- **Placed around:** [[connections/timeline/7th century BC|678 BC]] *(Ussher: the median date of the passages naming them)*
 
 ## Appears in
 

@@ -7,6 +7,9 @@ original: ["אֲבִיָּה"]
 verses: 3
 chapters: 2
 first: "Nehemiah 10:8"
+placed: "445 BC"
+placed_year: -444
+sex: "male"
 tags: ["person"]
 ---
 
@@ -15,6 +18,10 @@ tags: ["person"]
 Priest who sealed Nehemiah's covenant
 
 **Original-language names:** אֲבִיָּה (H0029)
+
+## When
+
+- **Placed around:** [[connections/timeline/5th century BC|445 BC]] *(Ussher: the median date of the passages naming them)*
 
 ## Appears in
 

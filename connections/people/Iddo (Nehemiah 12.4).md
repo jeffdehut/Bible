@@ -7,6 +7,7 @@ original: ["עִדּוֹ", "עִדּוֹא, עֲדָיָא"]
 verses: 2
 chapters: 1
 first: "Nehemiah 12:4"
+sex: "male"
 tags: ["person"]
 ---
 

@@ -20,6 +20,24 @@ Region in northern Israel; key location in Jesus' ministry
 
 **Original-language names:** גָּלִיל (H1551) · גִּלְגָּל (H1537) · Γαλιλαία (G1056)
 
+## Events
+
+- [[connections/timeline/1st century AD|AD 27]] · [[connections/events/Jesus Leaves Judea toward Galilee|Jesus Leaves Judea toward Galilee]]
+- [[connections/timeline/1st century AD|AD 27]] · [[connections/events/Jesus visits Galilee|Jesus visits Galilee]]
+- [[connections/timeline/1st century AD|AD 28]] · [[connections/events/Healing the Leper|Healing the Leper]]
+- [[connections/timeline/1st century AD|AD 28]] · [[connections/events/Jesus' Message on John the Baptist|Jesus' Message on John the Baptist]]
+- [[connections/timeline/1st century AD|AD 28]] · [[connections/events/Woe to Chorazin and Bethsaida|Woe to Chorazin and Bethsaida]]
+- [[connections/timeline/1st century AD|AD 28]] · [[connections/events/Corn on the Sabbath|Corn on the Sabbath]]
+- [[connections/timeline/1st century AD|AD 28]] · [[connections/events/Healing Multitudes|Healing Multitudes]]
+- [[connections/timeline/1st century AD|AD 28]] · [[connections/events/Jesus' 1st Tour of Galilee|Jesus' 1st Tour of Galilee]]
+- [[connections/timeline/1st century AD|AD 28]] · [[connections/events/Anointed by a Sinner Woman|Anointed by a Sinner Woman]]
+- [[connections/timeline/1st century AD|AD 28]] · [[connections/events/Jesus' 2nd Tour of Galilee|Jesus' 2nd Tour of Galilee]]
+- [[connections/timeline/1st century AD|AD 29]] · [[connections/events/3rd Tour of Galilee|3rd Tour of Galilee]]
+- [[connections/timeline/1st century AD|AD 29]] · [[connections/events/Second Foretelling of Death and Resurrection|Second Foretelling of Death and Resurrection]]
+- [[connections/timeline/1st century AD|AD 29]] · [[connections/events/Feast of Tabernacles|Feast of Tabernacles]]
+- [[connections/timeline/1st century AD|AD 30]] · [[connections/events/Lepers Healed|Lepers Healed]]
+- [[connections/timeline/1st century AD|AD 30]] · [[connections/events/Discourse on the Kingdom and Other Parables|Discourse on the Kingdom and Other Parables]]
+
 ## Appears in
 
 [[connections/chapters/06-joshua/Joshua 12|Joshua 12]] · [[connections/chapters/06-joshua/Joshua 20|Joshua 20]] · [[connections/chapters/06-joshua/Joshua 21|Joshua 21]] · [[connections/chapters/11-1-kings/1 Kings 9|1 Kings 9]] · [[connections/chapters/12-2-kings/2 Kings 15|2 Kings 15]] · [[connections/chapters/13-1-chronicles/1 Chronicles 6|1 Chronicles 6]] · [[connections/chapters/23-isaiah/Isaiah 8|Isaiah 8]] · [[connections/chapters/40-matthew/Matthew 2|Matthew 2]] · [[connections/chapters/40-matthew/Matthew 3|Matthew 3]] · [[connections/chapters/40-matthew/Matthew 4|Matthew 4 (4)]] · [[connections/chapters/40-matthew/Matthew 17|Matthew 17]] · [[connections/chapters/40-matthew/Matthew 19|Matthew 19]] · [[connections/chapters/40-matthew/Matthew 21|Matthew 21]] · [[connections/chapters/40-matthew/Matthew 26|Matthew 26]] · [[connections/chapters/40-matthew/Matthew 27|Matthew 27]] · [[connections/chapters/40-matthew/Matthew 28|Matthew 28 (3)]] · [[connections/chapters/41-mark/Mark 1|Mark 1 (4)]] · [[connections/chapters/41-mark/Mark 3|Mark 3]] · [[connections/chapters/41-mark/Mark 6|Mark 6]] · [[connections/chapters/41-mark/Mark 9|Mark 9]] · [[connections/chapters/41-mark/Mark 14|Mark 14]] · [[connections/chapters/41-mark/Mark 15|Mark 15]] · [[connections/chapters/41-mark/Mark 16|Mark 16]] · [[connections/chapters/42-luke/Luke 1|Luke 1]] · [[connections/chapters/42-luke/Luke 2|Luke 2 (2)]] · [[connections/chapters/42-luke/Luke 3|Luke 3]] · [[connections/chapters/42-luke/Luke 4|Luke 4 (3)]] · [[connections/chapters/42-luke/Luke 5|Luke 5]] · [[connections/chapters/42-luke/Luke 8|Luke 8]] · [[connections/chapters/42-luke/Luke 17|Luke 17]] · [[connections/chapters/42-luke/Luke 23|Luke 23 (4)]] · [[connections/chapters/42-luke/Luke 24|Luke 24]] · [[connections/chapters/43-john/John 1|John 1]] · [[connections/chapters/43-john/John 2|John 2 (2)]] · [[connections/chapters/43-john/John 4|John 4 (6)]] · [[connections/chapters/43-john/John 7|John 7 (4)]] · [[connections/chapters/43-john/John 12|John 12]] · [[connections/chapters/43-john/John 21|John 21]] · [[connections/chapters/44-acts/Acts 9|Acts 9]] · [[connections/chapters/44-acts/Acts 10|Acts 10]] · [[connections/chapters/44-acts/Acts 13|Acts 13]]

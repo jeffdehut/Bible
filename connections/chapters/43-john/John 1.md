@@ -7,12 +7,16 @@ language: "Greek"
 verses: 51
 cross_references_out: 472
 cross_references_in: 305
+dated_from: -4003
+dated_to: 5
 tags: ["chapter", "nt", "gospels"]
 ---
 
 # John 1
 
 ← [[connections/chapters/42-luke/Luke 24|Luke 24]] · [[connections/books/John|John]] · [[connections/chapters/43-john/John 2|John 2]] →
+
+**Dated** *(Ussher, after the Treasury of Scripture Knowledge)*: [[connections/timeline/41st century BC|4004 BC]] – [[connections/timeline/1st century AD|AD 5]]
 
 ## Text
 

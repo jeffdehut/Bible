@@ -7,6 +7,9 @@ original: ["Ἰάσων"]
 verses: 5
 chapters: 2
 first: "Acts 17:5"
+placed: "AD 53"
+placed_year: 53
+sex: "male"
 tags: ["person"]
 ---
 
@@ -15,6 +18,14 @@ tags: ["person"]
 Paul's host in Thessalonica; relative of Paul
 
 **Original-language names:** Ἰάσων (G2394)
+
+## When
+
+- **Placed around:** [[connections/timeline/1st century AD|AD 53]] *(Ussher: the median date of the passages naming them)*
+
+## Events
+
+- [[connections/timeline/1st century AD|AD 48]] · [[connections/events/Uproar in Thessalonica|Uproar in Thessalonica]]
 
 ## Appears in
 

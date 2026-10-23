@@ -8,6 +8,10 @@ original: ["אֱלִיעָם", "עַמִּיאֵל"]
 verses: 2
 chapters: 2
 first: "2 Samuel 11:3"
+placed: "1035 BC"
+placed_year: -1034
+generation: 1
+sex: "male"
 tags: ["person"]
 ---
 
@@ -18,6 +22,25 @@ Father of Bathsheba, wife of Uriah the Hittite
 **Also called:** Ammiel
 
 **Original-language names:** אֱלִיעָם (H0463) · עַמִּיאֵל (H5988)
+
+## When
+
+- **Placed around:** [[connections/timeline/11th century BC|1035 BC]] *(Ussher: the median date of the passages naming them)*
+
+## Family
+
+- **Children:** [[connections/people/Bathsheba|Bathsheba]]
+
+**Family group:** [[connections/genealogy/Family of Adam|Family of Adam]], generation 1
+
+```mermaid
+flowchart TB
+  n0["Eliam (2 Samuel 11.3)"]:::me
+  n1["Bathsheba"]
+  n0 --> n1
+  classDef me stroke-width:3px
+  classDef spouse stroke-dasharray:4
+```
 
 ## Appears in
 

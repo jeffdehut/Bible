@@ -7,12 +7,16 @@ language: "Hebrew"
 verses: 20
 cross_references_out: 20
 cross_references_in: 18
+dated_from: -445
+dated_to: -445
 tags: ["chapter", "ot", "history"]
 ---
 
 # Nehemiah 2
 
 ← [[connections/chapters/16-nehemiah/Nehemiah 1|Nehemiah 1]] · [[connections/books/Nehemiah|Nehemiah]] · [[connections/chapters/16-nehemiah/Nehemiah 3|Nehemiah 3]] →
+
+**Dated** *(Ussher, after the Treasury of Scripture Knowledge)*: [[connections/timeline/5th century BC|446 BC]]
 
 ## Text
 

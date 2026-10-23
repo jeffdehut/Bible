@@ -7,6 +7,9 @@ original: ["אוּרִיאֵל"]
 verses: 2
 chapters: 1
 first: "1 Chronicles 15:5"
+placed: "1042 BC"
+placed_year: -1041
+sex: "male"
 tags: ["person"]
 ---
 
@@ -15,6 +18,10 @@ tags: ["person"]
 Kohathite leader who helped bring the ark to Jerusalem
 
 **Original-language names:** אוּרִיאֵל (H0222)
+
+## When
+
+- **Placed around:** [[connections/timeline/11th century BC|1042 BC]] *(Ussher: the median date of the passages naming them)*
 
 ## Appears in
 

@@ -7,12 +7,16 @@ language: "Hebrew"
 verses: 10
 cross_references_out: 36
 cross_references_in: 56
+dated_from: -514
+dated_to: -514
 tags: ["chapter", "ot", "wisdom"]
 ---
 
 # Psalms 146
 
 ← [[connections/chapters/19-psalms/Psalms 145|Psalms 145]] · [[connections/books/Psalms|Psalms]] · [[connections/chapters/19-psalms/Psalms 147|Psalms 147]] →
+
+**Dated** *(Ussher, after the Treasury of Scripture Knowledge)*: [[connections/timeline/6th century BC|515 BC]]
 
 ## Text
 

@@ -7,12 +7,16 @@ language: "Hebrew"
 verses: 29
 cross_references_out: 4
 cross_references_in: 5
+dated_from: -840
+dated_to: -783
 tags: ["chapter", "ot", "history"]
 ---
 
 # 2 Kings 14
 
 ← [[connections/chapters/12-2-kings/2 Kings 13|2 Kings 13]] · [[connections/books/2 Kings|2 Kings]] · [[connections/chapters/12-2-kings/2 Kings 15|2 Kings 15]] →
+
+**Dated** *(Ussher, after the Treasury of Scripture Knowledge)*: [[connections/timeline/9th century BC|841 BC]] – [[connections/timeline/8th century BC|784 BC]]
 
 ## Text
 

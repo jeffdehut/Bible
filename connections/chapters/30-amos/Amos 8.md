@@ -7,12 +7,16 @@ language: "Hebrew"
 verses: 14
 cross_references_out: 18
 cross_references_in: 19
+dated_from: -786
+dated_to: -786
 tags: ["chapter", "ot", "prophets"]
 ---
 
 # Amos 8
 
 ← [[connections/chapters/30-amos/Amos 7|Amos 7]] · [[connections/books/Amos|Amos]] · [[connections/chapters/30-amos/Amos 9|Amos 9]] →
+
+**Dated** *(Ussher, after the Treasury of Scripture Knowledge)*: [[connections/timeline/8th century BC|787 BC]]
 
 ## Text
 

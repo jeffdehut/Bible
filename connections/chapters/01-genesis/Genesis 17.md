@@ -7,12 +7,16 @@ language: "Hebrew/Aramaic"
 verses: 27
 cross_references_out: 43
 cross_references_in: 90
+dated_from: -1896
+dated_to: -1896
 tags: ["chapter", "ot", "torah"]
 ---
 
 # Genesis 17
 
 ← [[connections/chapters/01-genesis/Genesis 16|Genesis 16]] · [[connections/books/Genesis|Genesis]] · [[connections/chapters/01-genesis/Genesis 18|Genesis 18]] →
+
+**Dated** *(Ussher, after the Treasury of Scripture Knowledge)*: [[connections/timeline/19th century BC|1897 BC]]
 
 ## Text
 

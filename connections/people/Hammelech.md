@@ -7,6 +7,10 @@ original: ["הַמֶּלֶךְ"]
 verses: 2
 chapters: 2
 first: "Jeremiah 36:26"
+placed: "598 BC"
+placed_year: -597
+generation: 1
+sex: "male"
 tags: ["person"]
 ---
 
@@ -15,6 +19,27 @@ tags: ["person"]
 Father of Jerahmeel and Malchijah (or 'Malchiah'), officials during Jeremiah's time.
 
 **Original-language names:** הַמֶּלֶךְ (H4428)
+
+## When
+
+- **Placed around:** [[connections/timeline/6th century BC|598 BC]] *(Ussher: the median date of the passages naming them)*
+
+## Family
+
+- **Children:** [[connections/people/Jerahmeel (Jeremiah 36.26)|Jerahmeel (Jeremiah 36.26)]], [[connections/people/Malchijah (1 Chronicles 9.12)|Malchijah (1 Chronicles 9.12)]]
+
+**Family group:** [[connections/genealogy/Family of Hammelech|Family of Hammelech]], generation 1
+
+```mermaid
+flowchart TB
+  n0["Hammelech"]:::me
+  n1["Jerahmeel (Jeremiah 36.26)"]
+  n0 --> n1
+  n2["Malchijah (1 Chronicles 9.12)"]
+  n0 --> n2
+  classDef me stroke-width:3px
+  classDef spouse stroke-dasharray:4
+```
 
 ## Appears in
 

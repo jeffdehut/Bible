@@ -7,6 +7,9 @@ original: ["מִיכָיָה"]
 verses: 1
 chapters: 1
 first: "Nehemiah 12:41"
+placed: "445 BC"
+placed_year: -444
+sex: "male"
 tags: ["person"]
 ---
 
@@ -15,6 +18,10 @@ tags: ["person"]
 A priest who participated in the dedication of Jerusalem's wall.
 
 **Original-language names:** מִיכָיָה (H4320)
+
+## When
+
+- **Placed around:** [[connections/timeline/5th century BC|445 BC]] *(Ussher: the median date of the passages naming them)*
 
 ## Appears in
 

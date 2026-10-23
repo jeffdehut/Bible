@@ -7,6 +7,10 @@ original: ["יִשְׁמָעֵאל"]
 verses: 21
 chapters: 3
 first: "2 Kings 25:23"
+placed: "588 BC"
+placed_year: -587
+generation: 3
+sex: "male"
 tags: ["person"]
 ---
 
@@ -15,6 +19,29 @@ tags: ["person"]
 Assassinated Gedaliah the governor; led captives to Ammon.
 
 **Original-language names:** יִשְׁמָעֵאל (H3458)
+
+## When
+
+- **Placed around:** [[connections/timeline/6th century BC|588 BC]] *(Ussher: the median date of the passages naming them)*
+
+## Family
+
+- **Father:** [[connections/people/Nethaniah (2 Kings 25.23)|Nethaniah (2 Kings 25.23)]]
+
+**Line of descent** (3 generations, father to son): [[connections/people/Elishama (2 Kings 25.25)|Elishama (2 Kings 25.25)]] → [[connections/people/Nethaniah (2 Kings 25.23)|Nethaniah (2 Kings 25.23)]] → **Ishmael (2 Kings 25.23)**
+
+**Family group:** [[connections/genealogy/Family of Elishama (2 Kings 25.25)|Family of Elishama (2 Kings 25.25)]], generation 3
+
+```mermaid
+flowchart TB
+  n0["Ishmael (2 Kings 25.23)"]:::me
+  n1["Elishama (2 Kings 25.25)"]
+  n2["Nethaniah (2 Kings 25.23)"]
+  n1 --> n2
+  n2 --> n0
+  classDef me stroke-width:3px
+  classDef spouse stroke-dasharray:4
+```
 
 ## Appears in
 

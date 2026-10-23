@@ -7,12 +7,16 @@ language: "Greek"
 verses: 25
 cross_references_out: 61
 cross_references_in: 35
+dated_from: -3
+dated_to: -3
 tags: ["chapter", "nt", "gospels"]
 ---
 
 # John 2
 
 ← [[connections/chapters/43-john/John 1|John 1]] · [[connections/books/John|John]] · [[connections/chapters/43-john/John 3|John 3]] →
+
+**Dated** *(Ussher, after the Treasury of Scripture Knowledge)*: [[connections/timeline/1st century BC|4 BC]]
 
 ## Text
 

@@ -7,12 +7,16 @@ language: "Greek"
 verses: 46
 cross_references_out: 19
 cross_references_in: 34
+dated_from: 33
+dated_to: 33
 tags: ["chapter", "nt", "gospels"]
 ---
 
 # Mark 15
 
 ← [[connections/chapters/41-mark/Mark 14|Mark 14]] · [[connections/books/Mark|Mark]] · [[connections/chapters/41-mark/Mark 16|Mark 16]] →
+
+**Dated** *(Ussher, after the Treasury of Scripture Knowledge)*: [[connections/timeline/1st century AD|AD 33]]
 
 ## Text
 
@@ -28,6 +32,6 @@ Compare: [[text/greek-tr/41-mark#Chapter 15|Textus Receptus]] · [[apparatus/gre
 
 ## People and places
 
-**People:** [[connections/people/Pilate|Pilate]], [[connections/people/Jesus|Jesus]], [[connections/people/Barabbas|Barabbas]], [[connections/people/Elijah (1 Kings 17.1)|Elijah (1 Kings 17.1)]], [[connections/people/Joseph (Matthew 27.57)|Joseph (Matthew 27.57)]], [[connections/people/Joses (Matthew 27.56)|Joses (Matthew 27.56)]], [[connections/people/Mary Magdalene|Mary Magdalene]], [[connections/people/Alexander (Mark 15.21)|Alexander (Mark 15.21)]], [[connections/people/Israel|Israel]], [[connections/people/James (Matthew 10.3)|James (Matthew 10.3)]], [[connections/people/Mary (Matthew 1.16)|Mary (Matthew 1.16)]], [[connections/people/Mary (Matthew 27.56)|Mary (Matthew 27.56)]], [[connections/people/Rufus (Mark 15.21)|Rufus (Mark 15.21)]], [[connections/people/Salome|Salome]], [[connections/people/Simon (Matthew 27.32)|Simon (Matthew 27.32)]]
+**People:** [[connections/people/Pilate|Pilate]], [[connections/people/Jesus|Jesus]], [[connections/people/Barabbas|Barabbas]], [[connections/people/Elijah (1 Kings 17.1)|Elijah (1 Kings 17.1)]], [[connections/people/Joseph (Matthew 27.57)|Joseph (Matthew 27.57)]], [[connections/people/Joses (Matthew 27.56)|Joses (Matthew 27.56)]], [[connections/people/Mary Magdalene|Mary Magdalene]], [[connections/people/Alexander (Mark 15.21)|Alexander (Mark 15.21)]], [[connections/people/Israel|Israel]], [[connections/people/James (Matthew 10.3)|James (Matthew 10.3)]], [[connections/people/Mary (Matthew 1.16)|Mary (Matthew 1.16)]], [[connections/people/Mary (Matthew 27.56)|Mary (Matthew 27.56)]], [[connections/people/Rufus (Mark 15.21)|Rufus (Mark 15.21)]], [[connections/people/Salome (Mark 15.40)|Salome (Mark 15.40)]], [[connections/people/Simon (Matthew 27.32)|Simon (Matthew 27.32)]]
 
 **Places:** [[connections/places/Magadan|Magadan]], [[connections/places/Cyrene|Cyrene]], [[connections/places/Galilee|Galilee]], [[connections/places/Golgotha|Golgotha]], [[connections/places/Jerusalem|Jerusalem]], [[connections/places/Mizpah|Mizpah]]

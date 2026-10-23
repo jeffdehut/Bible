@@ -7,6 +7,9 @@ original: ["אִמֵּר"]
 verses: 5
 chapters: 5
 first: "1 Chronicles 24:14"
+placed: "456 BC"
+placed_year: -455
+sex: "male"
 tags: ["person"]
 ---
 
@@ -15,6 +18,10 @@ tags: ["person"]
 A priestly division and its descendants.
 
 **Original-language names:** אִמֵּר (H0564)
+
+## When
+
+- **Placed around:** [[connections/timeline/5th century BC|456 BC]] *(Ussher: the median date of the passages naming them)*
 
 ## Appears in
 

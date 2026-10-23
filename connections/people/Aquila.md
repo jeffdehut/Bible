@@ -7,6 +7,9 @@ original: ["Ἀκύλας"]
 verses: 6
 chapters: 4
 first: "Acts 18:2"
+placed: "AD 59"
+placed_year: 59
+sex: "male"
 tags: ["person"]
 ---
 
@@ -15,6 +18,31 @@ tags: ["person"]
 Jewish Christian tentmaker, co-worker with Paul
 
 **Original-language names:** Ἀκύλας (G0207)
+
+## When
+
+- **Placed around:** [[connections/timeline/1st century AD|AD 59]] *(Ussher: the median date of the passages naming them)*
+
+## Family
+
+- **Spouses:** [[connections/people/Priscilla|Priscilla]]
+
+```mermaid
+flowchart TB
+  n0["Aquila"]:::me
+  n1["Priscilla"]:::spouse
+  n0 -.- n1
+  classDef me stroke-width:3px
+  classDef spouse stroke-dasharray:4
+```
+
+## Events
+
+- [[connections/timeline/1st century AD|AD 46]] · [[connections/events/Second Missionary Journey|Second Missionary Journey]]
+- [[connections/timeline/1st century AD|AD 49]] · [[connections/events/Mission to Corinth, 1&2 Thess Written|Mission to Corinth, 1&2 Thess Written]]
+- [[connections/timeline/1st century AD|AD 50]] · [[connections/events/Return from Second Missionary Journey|Return from Second Missionary Journey]]
+- [[connections/timeline/1st century AD|AD 50]] · [[connections/events/Third Missionary Journey Begins|Third Missionary Journey Begins]]
+- [[connections/timeline/1st century AD|AD 50]] · [[connections/events/Third Missionary Journey|Third Missionary Journey]]
 
 ## Appears in
 

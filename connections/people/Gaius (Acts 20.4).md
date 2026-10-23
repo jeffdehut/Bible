@@ -7,6 +7,9 @@ original: ["Γάϊος"]
 verses: 1
 chapters: 1
 first: "Acts 20:4"
+placed: "AD 60"
+placed_year: 60
+sex: "male"
 tags: ["person"]
 ---
 
@@ -15,6 +18,14 @@ tags: ["person"]
 Derbean; accompanied Paul on his journey to Jerusalem.
 
 **Original-language names:** Γάϊος (G1050)
+
+## When
+
+- **Placed around:** [[connections/timeline/1st century AD|AD 60]] *(Ussher: the median date of the passages naming them)*
+
+## Events
+
+- [[connections/timeline/1st century AD|AD 54]] · [[connections/events/Mission to Macedonia and Greece|Mission to Macedonia and Greece]]
 
 ## Appears in
 

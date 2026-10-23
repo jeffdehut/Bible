@@ -7,6 +7,9 @@ original: ["Στέφανος"]
 verses: 7
 chapters: 5
 first: "Acts 6:5"
+placed: "AD 33"
+placed_year: 33
+sex: "male"
 tags: ["person"]
 ---
 
@@ -15,6 +18,18 @@ tags: ["person"]
 One of seven deacons, full of faith, performed miracles, martyred.
 
 **Original-language names:** Στέφανος (G4736)
+
+## When
+
+- **Placed around:** [[connections/timeline/1st century AD|AD 33]] *(Ussher: the median date of the passages naming them)*
+
+## Events
+
+- [[connections/timeline/1st century AD|AD 30]] · [[connections/events/Seven chosen to serve|Seven chosen to serve]]
+- [[connections/timeline/1st century AD|AD 30]] · [[connections/events/Stephen is seized|Stephen is seized]]
+- [[connections/timeline/1st century AD|AD 30]] · [[connections/events/Stephen addresses the council|Stephen addresses the council]]
+- [[connections/timeline/1st century AD|AD 31]] · [[connections/events/Stephen is stoned|Stephen is stoned]]
+- [[connections/timeline/1st century AD|AD 31]] · [[connections/events/Saul persecutes the church|Saul persecutes the church]]
 
 ## Appears in
 

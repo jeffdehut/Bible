@@ -17,6 +17,11 @@ A city in Lycia where Paul's ship stopped
 
 **Original-language names:** Μύρα (G3460)
 
+## Events
+
+- [[connections/timeline/1st century AD|AD 56]] · [[connections/events/Journey to Rome begins|Journey to Rome begins]]
+- [[connections/timeline/1st century AD|AD 56]] · [[connections/events/Paul's Journey to Rome|Paul's Journey to Rome]]
+
 ## Appears in
 
 [[connections/chapters/44-acts/Acts 27|Acts 27]]

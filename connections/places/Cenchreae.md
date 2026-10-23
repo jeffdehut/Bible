@@ -17,6 +17,10 @@ Port of Corinth; home of Phoebe
 
 **Original-language names:** Κεγχρεαί (G2747)
 
+## Events
+
+- [[connections/timeline/1st century AD|AD 50]] · [[connections/events/Return from Second Missionary Journey|Return from Second Missionary Journey]]
+
 ## Appears in
 
 [[connections/chapters/44-acts/Acts 18|Acts 18]] · [[connections/chapters/45-romans/Romans 16|Romans 16 (2)]]

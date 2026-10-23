@@ -7,6 +7,9 @@ original: ["Τρόφιμος"]
 verses: 3
 chapters: 3
 first: "Acts 20:4"
+placed: "AD 60"
+placed_year: 60
+sex: "male"
 tags: ["person"]
 ---
 
@@ -15,6 +18,16 @@ tags: ["person"]
 Gentile Christian from Ephesus, companion of Paul
 
 **Original-language names:** Τρόφιμος (G5161)
+
+## When
+
+- **Placed around:** [[connections/timeline/1st century AD|AD 60]] *(Ussher: the median date of the passages naming them)*
+
+## Events
+
+- [[connections/timeline/1st century AD|AD 50]] · [[connections/events/Third Missionary Journey|Third Missionary Journey]]
+- [[connections/timeline/1st century AD|AD 54]] · [[connections/events/Mission to Macedonia and Greece|Mission to Macedonia and Greece]]
+- [[connections/timeline/1st century AD|AD 54]] · [[connections/events/Paul arrested in the Temple|Paul arrested in the Temple]]
 
 ## Appears in
 

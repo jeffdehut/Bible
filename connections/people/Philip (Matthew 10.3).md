@@ -7,6 +7,9 @@ original: ["Φίλιππος"]
 verses: 15
 chapters: 8
 first: "Matthew 10:3"
+placed: "AD 32"
+placed_year: 32
+sex: "male"
 tags: ["person"]
 ---
 
@@ -15,6 +18,17 @@ tags: ["person"]
 One of the twelve apostles of Jesus
 
 **Original-language names:** Φίλιππος (G5376)
+
+## When
+
+- **Placed around:** [[connections/timeline/1st century AD|AD 32]] *(Ussher: the median date of the passages naming them)*
+
+## Events
+
+- [[connections/timeline/1st century AD|AD 27]] · [[connections/events/First Disciples Gathered|First Disciples Gathered]]
+- [[connections/timeline/1st century AD|AD 28]] · [[connections/events/Apostles Chosen|Apostles Chosen]]
+- [[connections/timeline/1st century AD|AD 29]] · [[connections/events/Feeding of Five Thousand|Feeding of Five Thousand]]
+- [[connections/timeline/1st century AD|AD 30]] · [[connections/events/Matthias replaces Judas|Matthias replaces Judas]]
 
 ## Appears in
 

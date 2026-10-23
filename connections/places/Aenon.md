@@ -17,6 +17,10 @@ A place near Salim where John the Baptist baptized.
 
 **Original-language names:** Αἰνών (G0137)
 
+## Events
+
+- [[connections/timeline/1st century AD|AD 27]] · [[connections/events/John the Baptist Witnesses|John the Baptist Witnesses]]
+
 ## Appears in
 
 [[connections/chapters/43-john/John 3|John 3]]

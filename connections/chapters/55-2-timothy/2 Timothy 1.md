@@ -7,12 +7,16 @@ language: "Greek"
 verses: 18
 cross_references_out: 124
 cross_references_in: 144
+dated_from: 66
+dated_to: 66
 tags: ["chapter", "nt", "pauline-epistles"]
 ---
 
 # 2 Timothy 1
 
 ← [[connections/chapters/54-1-timothy/1 Timothy 6|1 Timothy 6]] · [[connections/books/2 Timothy|2 Timothy]] · [[connections/chapters/55-2-timothy/2 Timothy 2|2 Timothy 2]] →
+
+**Dated** *(Ussher, after the Treasury of Scripture Knowledge)*: [[connections/timeline/1st century AD|AD 66]]
 
 ## Text
 

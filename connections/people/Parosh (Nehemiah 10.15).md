@@ -7,6 +7,9 @@ original: ["פַּרְעֹשׁ"]
 verses: 1
 chapters: 1
 first: "Nehemiah 10:15"
+placed: "445 BC"
+placed_year: -444
+sex: "male"
 tags: ["person"]
 ---
 
@@ -15,6 +18,10 @@ tags: ["person"]
 A clan leader who sealed Nehemiah's covenant
 
 **Original-language names:** פַּרְעֹשׁ (H6551)
+
+## When
+
+- **Placed around:** [[connections/timeline/5th century BC|445 BC]] *(Ussher: the median date of the passages naming them)*
 
 ## Appears in
 

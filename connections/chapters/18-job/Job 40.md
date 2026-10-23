@@ -7,12 +7,16 @@ language: "Hebrew"
 verses: 32
 cross_references_out: 11
 cross_references_in: 13
+dated_from: -1519
+dated_to: -1519
 tags: ["chapter", "ot", "wisdom"]
 ---
 
 # Job 40
 
 ← [[connections/chapters/18-job/Job 39|Job 39]] · [[connections/books/Job|Job]] · [[connections/chapters/18-job/Job 41|Job 41]] →
+
+**Dated** *(Ussher, after the Treasury of Scripture Knowledge)*: [[connections/timeline/16th century BC|1520 BC]]
 
 ## Text
 

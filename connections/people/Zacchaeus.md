@@ -7,6 +7,9 @@ original: ["Ζακχαῖος"]
 verses: 3
 chapters: 1
 first: "Luke 19:2"
+placed: "AD 33"
+placed_year: 33
+sex: "male"
 tags: ["person"]
 ---
 
@@ -15,6 +18,14 @@ tags: ["person"]
 Tax collector who hosted Jesus in Jericho
 
 **Original-language names:** Ζακχαῖος (G2195)
+
+## When
+
+- **Placed around:** [[connections/timeline/1st century AD|AD 33]] *(Ussher: the median date of the passages naming them)*
+
+## Events
+
+- [[connections/timeline/1st century AD|AD 30]] · [[connections/events/Zaccheus Converted and Parable of the Pounds|Zaccheus Converted and Parable of the Pounds]]
 
 ## Appears in
 

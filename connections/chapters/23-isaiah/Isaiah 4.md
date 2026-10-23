@@ -7,12 +7,16 @@ language: "Hebrew"
 verses: 6
 cross_references_out: 18
 cross_references_in: 21
+dated_from: -758
+dated_to: -758
 tags: ["chapter", "ot", "prophets"]
 ---
 
 # Isaiah 4
 
 ← [[connections/chapters/23-isaiah/Isaiah 3|Isaiah 3]] · [[connections/books/Isaiah|Isaiah]] · [[connections/chapters/23-isaiah/Isaiah 5|Isaiah 5]] →
+
+**Dated** *(Ussher, after the Treasury of Scripture Knowledge)*: [[connections/timeline/8th century BC|759 BC]]
 
 ## Text
 

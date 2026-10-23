@@ -8,6 +8,10 @@ original: ["בָּרָק", "בְּדָן", "Βαράκ"]
 verses: 14
 chapters: 4
 first: "Judges 4:6"
+placed: "1285 BC"
+placed_year: -1284
+generation: 2
+sex: "male"
 tags: ["person"]
 ---
 
@@ -18,6 +22,29 @@ An Israelite commander who defeated Canaanite forces with Deborah.
 **Also called:** Bedan
 
 **Original-language names:** בָּרָק (H1301) · בְּדָן (H0917) · Βαράκ (G0913)
+
+## When
+
+- **Placed around:** [[connections/timeline/13th century BC|1285 BC]] *(Ussher: the median date of the passages naming them)*
+
+## Family
+
+- **Father:** [[connections/people/Abinoam|Abinoam]]
+
+**Family group:** [[connections/genealogy/Family of Abinoam|Family of Abinoam]], generation 2
+
+```mermaid
+flowchart TB
+  n0["Barak"]:::me
+  n1["Abinoam"]
+  n1 --> n0
+  classDef me stroke-width:3px
+  classDef spouse stroke-dasharray:4
+```
+
+## Events
+
+- [[connections/timeline/13th century BC|1278 BC]] · [[connections/events/Deliverance by Barak And Deborah|Deliverance by Barak And Deborah]]
 
 ## Appears in
 

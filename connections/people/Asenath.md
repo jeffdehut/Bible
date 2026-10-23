@@ -7,6 +7,10 @@ original: ["אָֽסְנַת"]
 verses: 3
 chapters: 2
 first: "Genesis 41:45"
+placed: "1715 BC"
+placed_year: -1714
+generation: 2
+sex: "female"
 tags: ["person"]
 ---
 
@@ -15,6 +19,33 @@ tags: ["person"]
 Egyptian wife of Joseph; mother of Manasseh and Ephraim
 
 **Original-language names:** אָֽסְנַת (H0621)
+
+## When
+
+- **Placed around:** [[connections/timeline/18th century BC|1715 BC]] *(Ussher: the median date of the passages naming them)*
+
+## Family
+
+- **Father:** [[connections/people/Potiphera|Potiphera]]
+- **Spouses:** [[connections/people/Joseph (Genesis 30.24)|Joseph (Genesis 30.24)]]
+- **Children:** [[connections/people/Ephraim|Ephraim]], [[connections/people/Manasseh (Genesis 41.51)|Manasseh (Genesis 41.51)]]
+
+**Family group:** [[connections/genealogy/Family of Adam|Family of Adam]], generation 2
+
+```mermaid
+flowchart TB
+  n0["Asenath"]:::me
+  n1["Potiphera"]
+  n1 --> n0
+  n2["Joseph (Genesis 30.24)"]:::spouse
+  n0 -.- n2
+  n3["Ephraim"]
+  n0 --> n3
+  n4["Manasseh (Genesis 41.51)"]
+  n0 --> n4
+  classDef me stroke-width:3px
+  classDef spouse stroke-dasharray:4
+```
 
 ## Appears in
 

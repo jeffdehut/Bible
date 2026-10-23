@@ -7,6 +7,9 @@ original: ["חָנוּן"]
 verses: 1
 chapters: 1
 first: "Nehemiah 3:13"
+placed: "445 BC"
+placed_year: -444
+sex: "male"
 tags: ["person"]
 ---
 
@@ -15,6 +18,10 @@ tags: ["person"]
 One of the repairers of the Valley Gate in Jerusalem.
 
 **Original-language names:** חָנוּן (H2586)
+
+## When
+
+- **Placed around:** [[connections/timeline/5th century BC|445 BC]] *(Ussher: the median date of the passages naming them)*
 
 ## Appears in
 

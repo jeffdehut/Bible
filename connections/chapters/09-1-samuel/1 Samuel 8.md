@@ -7,12 +7,16 @@ language: "Hebrew"
 verses: 22
 cross_references_out: 4
 cross_references_in: 3
+dated_from: -1111
+dated_to: -1111
 tags: ["chapter", "ot", "history"]
 ---
 
 # 1 Samuel 8
 
 ← [[connections/chapters/09-1-samuel/1 Samuel 7|1 Samuel 7]] · [[connections/books/1 Samuel|1 Samuel]] · [[connections/chapters/09-1-samuel/1 Samuel 9|1 Samuel 9]] →
+
+**Dated** *(Ussher, after the Treasury of Scripture Knowledge)*: [[connections/timeline/12th century BC|1112 BC]]
 
 ## Text
 

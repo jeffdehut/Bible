@@ -7,6 +7,9 @@ original: ["Ἀχαϊκός"]
 verses: 2
 chapters: 1
 first: "1 Corinthians 16:17"
+placed: "AD 59"
+placed_year: 59
+sex: "male"
 tags: ["person"]
 ---
 
@@ -15,6 +18,10 @@ tags: ["person"]
 A Corinthian Christian who visited Paul.
 
 **Original-language names:** Ἀχαϊκός (G0883)
+
+## When
+
+- **Placed around:** [[connections/timeline/1st century AD|AD 59]] *(Ussher: the median date of the passages naming them)*
 
 ## Appears in
 

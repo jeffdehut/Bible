@@ -7,12 +7,16 @@ language: "Greek"
 verses: 34
 cross_references_out: 146
 cross_references_in: 125
+dated_from: 32
+dated_to: 32
 tags: ["chapter", "nt", "gospels"]
 ---
 
 # Matthew 18
 
 ← [[connections/chapters/40-matthew/Matthew 17|Matthew 17]] · [[connections/books/Matthew|Matthew]] · [[connections/chapters/40-matthew/Matthew 19|Matthew 19]] →
+
+**Dated** *(Ussher, after the Treasury of Scripture Knowledge)*: [[connections/timeline/1st century AD|AD 32]]
 
 ## Text
 

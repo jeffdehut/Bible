@@ -7,6 +7,10 @@ original: ["פַּשְׁחוּר"]
 verses: 5
 chapters: 5
 first: "1 Chronicles 9:12"
+placed: "445 BC"
+placed_year: -444
+generation: 3
+sex: "male"
 tags: ["person"]
 ---
 
@@ -15,6 +19,33 @@ tags: ["person"]
 Head of a priestly family that returned from exile
 
 **Original-language names:** פַּשְׁחוּר (H6583)
+
+## When
+
+- **Placed around:** [[connections/timeline/5th century BC|445 BC]] *(Ussher: the median date of the passages naming them)*
+
+## Family
+
+- **Father:** [[connections/people/Malchijah (1 Chronicles 9.12)|Malchijah (1 Chronicles 9.12)]]
+- **Children:** [[connections/people/Zechariah (Nehemiah 11.12)|Zechariah (Nehemiah 11.12)]]
+- **Tribe or nation:** Tribe of Levi
+
+**Line of descent** (3 generations, father to son): [[connections/people/Hammelech|Hammelech]] → [[connections/people/Malchijah (1 Chronicles 9.12)|Malchijah (1 Chronicles 9.12)]] → **Pashhur (1 Chronicles 9.12)**
+
+**Family group:** [[connections/genealogy/Family of Hammelech|Family of Hammelech]], generation 3
+
+```mermaid
+flowchart TB
+  n0["Pashhur (1 Chronicles 9.12)"]:::me
+  n1["Hammelech"]
+  n2["Malchijah (1 Chronicles 9.12)"]
+  n1 --> n2
+  n2 --> n0
+  n3["Zechariah (Nehemiah 11.12)"]
+  n0 --> n3
+  classDef me stroke-width:3px
+  classDef spouse stroke-dasharray:4
+```
 
 ## Appears in
 

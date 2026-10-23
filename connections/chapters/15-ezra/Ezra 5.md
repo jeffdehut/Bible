@@ -7,12 +7,16 @@ language: "Hebrew/Aramaic"
 verses: 17
 cross_references_out: 0
 cross_references_in: 3
+dated_from: -535
+dated_to: -518
 tags: ["chapter", "ot", "history"]
 ---
 
 # Ezra 5
 
 ← [[connections/chapters/15-ezra/Ezra 4|Ezra 4]] · [[connections/books/Ezra|Ezra]] · [[connections/chapters/15-ezra/Ezra 6|Ezra 6]] →
+
+**Dated** *(Ussher, after the Treasury of Scripture Knowledge)*: [[connections/timeline/6th century BC|536 BC]] – [[connections/timeline/6th century BC|519 BC]]
 
 ## Text
 

@@ -7,6 +7,9 @@ original: ["אָסָף"]
 verses: 1
 chapters: 1
 first: "Nehemiah 2:8"
+placed: "446 BC"
+placed_year: -445
+sex: "male"
 tags: ["person"]
 ---
 
@@ -15,6 +18,10 @@ tags: ["person"]
 Keeper of the king's forest during Nehemiah's time
 
 **Original-language names:** אָסָף (H0623)
+
+## When
+
+- **Placed around:** [[connections/timeline/5th century BC|446 BC]] *(Ussher: the median date of the passages naming them)*
 
 ## Appears in
 

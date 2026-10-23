@@ -7,6 +7,9 @@ original: ["זְכַרְיָהוּ"]
 verses: 1
 chapters: 1
 first: "Nehemiah 12:41"
+placed: "445 BC"
+placed_year: -444
+sex: "male"
 tags: ["person"]
 ---
 
@@ -15,6 +18,10 @@ tags: ["person"]
 Priest who participated in the wall dedication
 
 **Original-language names:** זְכַרְיָהוּ (H2148a)
+
+## When
+
+- **Placed around:** [[connections/timeline/5th century BC|445 BC]] *(Ussher: the median date of the passages naming them)*
 
 ## Appears in
 

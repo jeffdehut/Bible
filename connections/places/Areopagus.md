@@ -17,6 +17,10 @@ A hill in Athens where Paul preached the gospel.
 
 **Original-language names:** Ἄρειος Πάγος (G0697)
 
+## Events
+
+- [[connections/timeline/1st century AD|AD 48]] · [[connections/events/Paul preaches in Athens|Paul preaches in Athens]]
+
 ## Appears in
 
 [[connections/chapters/44-acts/Acts 17|Acts 17 (2)]]

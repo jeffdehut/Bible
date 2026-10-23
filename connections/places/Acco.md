@@ -20,6 +20,10 @@ A seaport in Asher, also called Ptolemais.
 
 **Original-language names:** עַכּוֹ (H5910) · Πτολεμαΐς (G4424)
 
+## Events
+
+- [[connections/timeline/1st century AD|AD 54]] · [[connections/events/Voyage from Miletus to Jerusalem|Voyage from Miletus to Jerusalem]]
+
 ## Appears in
 
 [[connections/chapters/07-judges/Judges 1|Judges 1]] · [[connections/chapters/44-acts/Acts 21|Acts 21]]

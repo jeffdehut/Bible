@@ -17,6 +17,10 @@ A city in Lycia visited by Paul
 
 **Original-language names:** Πάταρα (G3959)
 
+## Events
+
+- [[connections/timeline/1st century AD|AD 54]] · [[connections/events/Voyage from Miletus to Jerusalem|Voyage from Miletus to Jerusalem]]
+
 ## Appears in
 
 [[connections/chapters/44-acts/Acts 21|Acts 21]]

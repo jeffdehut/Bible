@@ -8,6 +8,9 @@ original: ["יוֹרָה", "חָרִיף"]
 verses: 2
 chapters: 2
 first: "Ezra 2:18"
+placed: "445 BC"
+placed_year: -444
+sex: "male"
 tags: ["person"]
 ---
 
@@ -18,6 +21,10 @@ Ancestor of exiles who returned to Jerusalem
 **Also called:** Hariph
 
 **Original-language names:** יוֹרָה (H3139) · חָרִיף (H2756)
+
+## When
+
+- **Placed around:** [[connections/timeline/5th century BC|445 BC]] *(Ussher: the median date of the passages naming them)*
 
 ## Appears in
 

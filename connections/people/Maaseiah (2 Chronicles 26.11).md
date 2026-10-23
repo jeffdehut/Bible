@@ -7,6 +7,9 @@ original: ["מַעֲשֵׂיָהוּ"]
 verses: 1
 chapters: 1
 first: "2 Chronicles 26:11"
+placed: "810 BC"
+placed_year: -809
+sex: "male"
 tags: ["person"]
 ---
 
@@ -15,6 +18,10 @@ tags: ["person"]
 Army officer during King Uzziah's reign
 
 **Original-language names:** מַעֲשֵׂיָהוּ (H4641)
+
+## When
+
+- **Placed around:** [[connections/timeline/9th century BC|810 BC]] *(Ussher: the median date of the passages naming them)*
 
 ## Appears in
 

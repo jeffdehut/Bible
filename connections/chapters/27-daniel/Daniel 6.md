@@ -7,12 +7,16 @@ language: "Hebrew/Aramaic"
 verses: 29
 cross_references_out: 44
 cross_references_in: 38
+dated_from: -537
+dated_to: -537
 tags: ["chapter", "ot", "prophets"]
 ---
 
 # Daniel 6
 
 ← [[connections/chapters/27-daniel/Daniel 5|Daniel 5]] · [[connections/books/Daniel|Daniel]] · [[connections/chapters/27-daniel/Daniel 7|Daniel 7]] →
+
+**Dated** *(Ussher, after the Treasury of Scripture Knowledge)*: [[connections/timeline/6th century BC|538 BC]]
 
 ## Text
 

@@ -7,6 +7,7 @@ original: ["מִשְׁמַנָּה"]
 verses: 1
 chapters: 1
 first: "1 Chronicles 12:11"
+sex: "male"
 tags: ["person"]
 ---
 

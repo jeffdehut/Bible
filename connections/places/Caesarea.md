@@ -17,6 +17,19 @@ Coastal city, center of Roman rule in Judea
 
 **Original-language names:** Καισάρεια (G2542)
 
+## Events
+
+- [[connections/timeline/1st century AD|AD 38]] · [[connections/events/Saul proclaims Jesus|Saul proclaims Jesus]]
+- [[connections/timeline/1st century AD|AD 38]] · [[connections/events/Peter meets Cornelius|Peter meets Cornelius]]
+- [[connections/timeline/1st century AD|AD 38]] · [[connections/events/Peter preaches to gentiles in Caesarea|Peter preaches to gentiles in Caesarea]]
+- [[connections/timeline/1st century AD|AD 45]] · [[connections/events/Herod dies|Herod dies]]
+- [[connections/timeline/1st century AD|AD 50]] · [[connections/events/Return from Second Missionary Journey|Return from Second Missionary Journey]]
+- [[connections/timeline/1st century AD|AD 54]] · [[connections/events/Voyage from Miletus to Jerusalem|Voyage from Miletus to Jerusalem]]
+- [[connections/timeline/1st century AD|AD 56]] · [[connections/events/Paul sent to Felix|Paul sent to Felix]]
+- [[connections/timeline/1st century AD|AD 56]] · [[connections/events/Paul appeals to Caesar|Paul appeals to Caesar]]
+- [[connections/timeline/1st century AD|AD 56]] · [[connections/events/Agrippa and Bernice meet Festus|Agrippa and Bernice meet Festus]]
+- [[connections/timeline/1st century AD|AD 56]] · [[connections/events/Paul goes before Agrippa|Paul goes before Agrippa]]
+
 ## Appears in
 
 [[connections/chapters/44-acts/Acts 8|Acts 8]] · [[connections/chapters/44-acts/Acts 9|Acts 9]] · [[connections/chapters/44-acts/Acts 10|Acts 10 (2)]] · [[connections/chapters/44-acts/Acts 11|Acts 11]] · [[connections/chapters/44-acts/Acts 12|Acts 12]] · [[connections/chapters/44-acts/Acts 18|Acts 18]] · [[connections/chapters/44-acts/Acts 21|Acts 21 (2)]] · [[connections/chapters/44-acts/Acts 23|Acts 23 (2)]] · [[connections/chapters/44-acts/Acts 25|Acts 25 (4)]]

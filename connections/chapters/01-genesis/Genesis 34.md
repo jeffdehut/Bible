@@ -7,12 +7,16 @@ language: "Hebrew/Aramaic"
 verses: 31
 cross_references_out: 0
 cross_references_in: 3
+dated_from: -1731
+dated_to: -1731
 tags: ["chapter", "ot", "torah"]
 ---
 
 # Genesis 34
 
 ← [[connections/chapters/01-genesis/Genesis 33|Genesis 33]] · [[connections/books/Genesis|Genesis]] · [[connections/chapters/01-genesis/Genesis 35|Genesis 35]] →
+
+**Dated** *(Ussher, after the Treasury of Scripture Knowledge)*: [[connections/timeline/18th century BC|1732 BC]]
 
 ## Text
 

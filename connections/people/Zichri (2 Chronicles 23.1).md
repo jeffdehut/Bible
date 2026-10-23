@@ -7,6 +7,10 @@ original: ["זִכְרִי"]
 verses: 1
 chapters: 1
 first: "2 Chronicles 23:1"
+placed: "878 BC"
+placed_year: -877
+generation: 1
+sex: "male"
 tags: ["person"]
 ---
 
@@ -15,6 +19,25 @@ tags: ["person"]
 Father of Elishaphat, a supporter of Jehoiada
 
 **Original-language names:** זִכְרִי (H2147)
+
+## When
+
+- **Placed around:** [[connections/timeline/9th century BC|878 BC]] *(Ussher: the median date of the passages naming them)*
+
+## Family
+
+- **Children:** [[connections/people/Elishaphat|Elishaphat]]
+
+**Family group:** [[connections/genealogy/Family of Zichri (2 Chronicles 23.1)|Family of Zichri (2 Chronicles 23.1)]], generation 1
+
+```mermaid
+flowchart TB
+  n0["Zichri (2 Chronicles 23.1)"]:::me
+  n1["Elishaphat"]
+  n0 --> n1
+  classDef me stroke-width:3px
+  classDef spouse stroke-dasharray:4
+```
 
 ## Appears in
 

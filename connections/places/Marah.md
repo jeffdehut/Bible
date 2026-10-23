@@ -17,6 +17,10 @@ A place with bitter water on the Exodus route
 
 **Original-language names:** מָרָה (H4785)
 
+## Events
+
+- [[connections/timeline/15th century BC|1491 BC]] · [[connections/events/Wilderness Wanderings|Wilderness Wanderings]]
+
 ## Appears in
 
 [[connections/chapters/02-exodus/Exodus 15|Exodus 15]] · [[connections/chapters/04-numbers/Numbers 33|Numbers 33 (2)]]

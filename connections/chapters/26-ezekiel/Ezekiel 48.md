@@ -7,12 +7,16 @@ language: "Hebrew"
 verses: 35
 cross_references_out: 4
 cross_references_in: 2
+dated_from: -573
+dated_to: -573
 tags: ["chapter", "ot", "prophets"]
 ---
 
 # Ezekiel 48
 
 ← [[connections/chapters/26-ezekiel/Ezekiel 47|Ezekiel 47]] · [[connections/books/Ezekiel|Ezekiel]] · [[connections/chapters/27-daniel/Daniel 1|Daniel 1]] →
+
+**Dated** *(Ussher, after the Treasury of Scripture Knowledge)*: [[connections/timeline/6th century BC|574 BC]]
 
 ## Text
 

@@ -7,6 +7,9 @@ original: ["נַעֲמָן", "Νεεμάν, Ναιμάν"]
 verses: 11
 chapters: 2
 first: "2 Kings 5:1"
+placed: "894 BC"
+placed_year: -893
+sex: "male"
 tags: ["person"]
 ---
 
@@ -15,6 +18,15 @@ tags: ["person"]
 Aramean commander healed of leprosy by Elisha.
 
 **Original-language names:** נַעֲמָן (H5283) · Νεεμάν, Ναιμάν (G3497)
+
+## When
+
+- **Placed around:** [[connections/timeline/9th century BC|894 BC]] *(Ussher: the median date of the passages naming them)*
+
+## Family
+
+- **Tribe or nation:** Syria
+
 
 ## Appears in
 

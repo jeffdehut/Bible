@@ -7,12 +7,16 @@ language: "Hebrew"
 verses: 12
 cross_references_out: 14
 cross_references_in: 12
+dated_from: -1450
+dated_to: -1450
 tags: ["chapter", "ot", "torah"]
 ---
 
 # Deuteronomy 34
 
 ← [[connections/chapters/05-deuteronomy/Deuteronomy 33|Deuteronomy 33]] · [[connections/books/Deuteronomy|Deuteronomy]] · [[connections/chapters/06-joshua/Joshua 1|Joshua 1]] →
+
+**Dated** *(Ussher, after the Treasury of Scripture Knowledge)*: [[connections/timeline/15th century BC|1451 BC]]
 
 ## Text
 

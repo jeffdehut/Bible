@@ -7,12 +7,16 @@ language: "Hebrew"
 verses: 21
 cross_references_out: 18
 cross_references_in: 16
+dated_from: -905
+dated_to: -905
 tags: ["chapter", "ot", "history"]
 ---
 
 # 1 Kings 19
 
 ← [[connections/chapters/11-1-kings/1 Kings 18|1 Kings 18]] · [[connections/books/1 Kings|1 Kings]] · [[connections/chapters/11-1-kings/1 Kings 20|1 Kings 20]] →
+
+**Dated** *(Ussher, after the Treasury of Scripture Knowledge)*: [[connections/timeline/10th century BC|906 BC]]
 
 ## Text
 

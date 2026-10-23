@@ -7,6 +7,10 @@ original: ["אֲבִינֹ֫עַם"]
 verses: 4
 chapters: 2
 first: "Judges 4:6"
+placed: "1285 BC"
+placed_year: -1284
+generation: 1
+sex: "male"
 tags: ["person"]
 ---
 
@@ -15,6 +19,25 @@ tags: ["person"]
 Father of Barak, the Israelite commander
 
 **Original-language names:** אֲבִינֹ֫עַם (H0042)
+
+## When
+
+- **Placed around:** [[connections/timeline/13th century BC|1285 BC]] *(Ussher: the median date of the passages naming them)*
+
+## Family
+
+- **Children:** [[connections/people/Barak|Barak]]
+
+**Family group:** [[connections/genealogy/Family of Abinoam|Family of Abinoam]], generation 1
+
+```mermaid
+flowchart TB
+  n0["Abinoam"]:::me
+  n1["Barak"]
+  n0 --> n1
+  classDef me stroke-width:3px
+  classDef spouse stroke-dasharray:4
+```
 
 ## Appears in
 

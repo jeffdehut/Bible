@@ -17,6 +17,11 @@ A garden where Manasseh and Amon were buried
 
 **Original-language names:** עֻזָּא+H1588G«H1588=גַּן (H5798a)
 
+## Events
+
+- [[connections/timeline/7th century BC|642 BC]] · [[connections/events/Death of Manasseh|Death of Manasseh]]
+- [[connections/timeline/7th century BC|640 BC]] · [[connections/events/Death of Amon|Death of Amon]]
+
 ## Appears in
 
 [[connections/chapters/12-2-kings/2 Kings 21|2 Kings 21 (2)]]

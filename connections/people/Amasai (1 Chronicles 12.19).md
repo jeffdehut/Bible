@@ -7,6 +7,7 @@ original: ["עֲמָשַׂי"]
 verses: 1
 chapters: 1
 first: "1 Chronicles 12:19"
+sex: "male"
 tags: ["person"]
 ---
 

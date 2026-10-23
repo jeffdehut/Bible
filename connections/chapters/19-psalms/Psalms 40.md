@@ -7,12 +7,16 @@ language: "Hebrew"
 verses: 18
 cross_references_out: 92
 cross_references_in: 117
+dated_from: -1033
+dated_to: -1033
 tags: ["chapter", "ot", "wisdom"]
 ---
 
 # Psalms 40
 
 ← [[connections/chapters/19-psalms/Psalms 39|Psalms 39]] · [[connections/books/Psalms|Psalms]] · [[connections/chapters/19-psalms/Psalms 41|Psalms 41]] →
+
+**Dated** *(Ussher, after the Treasury of Scripture Knowledge)*: [[connections/timeline/11th century BC|1034 BC]]
 
 ## Text
 

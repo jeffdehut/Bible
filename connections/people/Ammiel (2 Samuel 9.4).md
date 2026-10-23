@@ -7,6 +7,10 @@ original: ["עַמִּיאֵל"]
 verses: 3
 chapters: 2
 first: "2 Samuel 9:4"
+placed: "1040 BC"
+placed_year: -1039
+generation: 1
+sex: "male"
 tags: ["person"]
 ---
 
@@ -15,6 +19,25 @@ tags: ["person"]
 Father of Machir, David's ally
 
 **Original-language names:** עַמִּיאֵל (H5988)
+
+## When
+
+- **Placed around:** [[connections/timeline/11th century BC|1040 BC]] *(Ussher: the median date of the passages naming them)*
+
+## Family
+
+- **Children:** [[connections/people/Machir (2 Samuel 9.4)|Machir (2 Samuel 9.4)]]
+
+**Family group:** [[connections/genealogy/Family of Ammiel (2 Samuel 9.4)|Family of Ammiel (2 Samuel 9.4)]], generation 1
+
+```mermaid
+flowchart TB
+  n0["Ammiel (2 Samuel 9.4)"]:::me
+  n1["Machir (2 Samuel 9.4)"]
+  n0 --> n1
+  classDef me stroke-width:3px
+  classDef spouse stroke-dasharray:4
+```
 
 ## Appears in
 

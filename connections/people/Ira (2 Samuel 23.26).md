@@ -7,6 +7,10 @@ original: ["עִירָא"]
 verses: 3
 chapters: 3
 first: "2 Samuel 23:26"
+placed: "1055 BC"
+placed_year: -1054
+generation: 2
+sex: "male"
 tags: ["person"]
 ---
 
@@ -15,6 +19,25 @@ tags: ["person"]
 One of David's Thirty warriors, from Tekoa.
 
 **Original-language names:** עִירָא (H5896)
+
+## When
+
+- **Placed around:** [[connections/timeline/11th century BC|1055 BC]] *(Ussher: the median date of the passages naming them)*
+
+## Family
+
+- **Father:** [[connections/people/Ikkesh|Ikkesh]]
+
+**Family group:** [[connections/genealogy/Family of Ikkesh|Family of Ikkesh]], generation 2
+
+```mermaid
+flowchart TB
+  n0["Ira (2 Samuel 23.26)"]:::me
+  n1["Ikkesh"]
+  n1 --> n0
+  classDef me stroke-width:3px
+  classDef spouse stroke-dasharray:4
+```
 
 ## Appears in
 

@@ -7,6 +7,9 @@ original: ["אֱלִישָׁמָע"]
 verses: 3
 chapters: 1
 first: "Jeremiah 36:12"
+placed: "606 BC"
+placed_year: -605
+sex: "male"
 tags: ["person"]
 ---
 
@@ -15,6 +18,10 @@ tags: ["person"]
 A secretary during Jehoiakim's reign.
 
 **Original-language names:** אֱלִישָׁמָע (H0476)
+
+## When
+
+- **Placed around:** [[connections/timeline/7th century BC|606 BC]] *(Ussher: the median date of the passages naming them)*
 
 ## Appears in
 

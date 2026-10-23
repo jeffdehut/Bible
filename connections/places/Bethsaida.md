@@ -17,6 +17,11 @@ Town where Jesus performed miracles, home of several disciples
 
 **Original-language names:** Βηθσαϊδά (G0966)
 
+## Events
+
+- [[connections/timeline/1st century AD|AD 29]] · [[connections/events/Feeding of Five Thousand|Feeding of Five Thousand]]
+- [[connections/timeline/1st century AD|AD 29]] · [[connections/events/Healing a Blind Man at Bethsaida|Healing a Blind Man at Bethsaida]]
+
 ## Appears in
 
 [[connections/chapters/40-matthew/Matthew 11|Matthew 11]] · [[connections/chapters/41-mark/Mark 6|Mark 6]] · [[connections/chapters/41-mark/Mark 8|Mark 8]] · [[connections/chapters/42-luke/Luke 9|Luke 9]] · [[connections/chapters/42-luke/Luke 10|Luke 10]] · [[connections/chapters/43-john/John 1|John 1]] · [[connections/chapters/43-john/John 12|John 12]]

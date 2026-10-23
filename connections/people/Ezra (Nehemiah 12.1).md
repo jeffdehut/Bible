@@ -7,6 +7,9 @@ original: ["עֶזְרָא"]
 verses: 3
 chapters: 1
 first: "Nehemiah 12:1"
+placed: "445 BC"
+placed_year: -444
+sex: "male"
 tags: ["person"]
 ---
 
@@ -15,6 +18,10 @@ tags: ["person"]
 Priest; returned from Babylon with Zerubbabel; participated in wall dedication.
 
 **Original-language names:** עֶזְרָא (H5830)
+
+## When
+
+- **Placed around:** [[connections/timeline/5th century BC|445 BC]] *(Ussher: the median date of the passages naming them)*
 
 ## Appears in
 

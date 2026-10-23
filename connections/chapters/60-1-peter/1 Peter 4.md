@@ -7,12 +7,16 @@ language: "Greek"
 verses: 19
 cross_references_out: 189
 cross_references_in: 234
+dated_from: 60
+dated_to: 60
 tags: ["chapter", "nt", "general-epistles"]
 ---
 
 # 1 Peter 4
 
 ← [[connections/chapters/60-1-peter/1 Peter 3|1 Peter 3]] · [[connections/books/1 Peter|1 Peter]] · [[connections/chapters/60-1-peter/1 Peter 5|1 Peter 5]] →
+
+**Dated** *(Ussher, after the Treasury of Scripture Knowledge)*: [[connections/timeline/1st century AD|AD 60]]
 
 ## Text
 

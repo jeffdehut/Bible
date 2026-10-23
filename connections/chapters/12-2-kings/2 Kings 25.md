@@ -7,12 +7,16 @@ language: "Hebrew"
 verses: 30
 cross_references_out: 7
 cross_references_in: 4
+dated_from: -589
+dated_to: -561
 tags: ["chapter", "ot", "history"]
 ---
 
 # 2 Kings 25
 
 ← [[connections/chapters/12-2-kings/2 Kings 24|2 Kings 24]] · [[connections/books/2 Kings|2 Kings]] · [[connections/chapters/13-1-chronicles/1 Chronicles 1|1 Chronicles 1]] →
+
+**Dated** *(Ussher, after the Treasury of Scripture Knowledge)*: [[connections/timeline/6th century BC|590 BC]] – [[connections/timeline/6th century BC|562 BC]]
 
 ## Text
 

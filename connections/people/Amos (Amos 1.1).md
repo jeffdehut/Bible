@@ -7,6 +7,9 @@ original: ["עָמוֹס"]
 verses: 7
 chapters: 3
 first: "Amos 1:1"
+placed: "787 BC"
+placed_year: -786
+sex: "male"
 tags: ["person"]
 ---
 
@@ -15,6 +18,14 @@ tags: ["person"]
 Prophet from Tekoa who prophesied to Israel
 
 **Original-language names:** עָמוֹס (H5986)
+
+## When
+
+- **Placed around:** [[connections/timeline/8th century BC|787 BC]] *(Ussher: the median date of the passages naming them)*
+
+## Events
+
+- [[connections/timeline/8th century BC|788 BC]] · [[connections/events/Prophecies of Amos|Prophecies of Amos]]
 
 ## Appears in
 

@@ -7,6 +7,10 @@ original: ["יָֽרָבְעָם"]
 verses: 81
 chapters: 21
 first: "1 Kings 11:26"
+placed: "955 BC"
+placed_year: -954
+generation: 2
+sex: "male"
 tags: ["person"]
 ---
 
@@ -15,6 +19,38 @@ tags: ["person"]
 First king of the northern kingdom of Israel.
 
 **Original-language names:** יָֽרָבְעָם (H3379)
+
+## When
+
+- **Placed around:** [[connections/timeline/10th century BC|955 BC]] *(Ussher: the median date of the passages naming them)*
+
+## Family
+
+- **Father:** [[connections/people/Nebat|Nebat]]
+- **Mother:** [[connections/people/Zeruah|Zeruah]]
+- **Children:** [[connections/people/Abijah (1 Kings 14.1)|Abijah (1 Kings 14.1)]], [[connections/people/Nadab (1 Kings 14.20)|Nadab (1 Kings 14.20)]]
+- **Tribe or nation:** Israel
+
+**Family group:** [[connections/genealogy/Family of Nebat|Family of Nebat]], generation 2
+
+```mermaid
+flowchart TB
+  n0["Jeroboam (1 Kings 11.26)"]:::me
+  n1["Nebat"]
+  n1 --> n0
+  n2["Zeruah"]
+  n2 --> n0
+  n3["Abijah (1 Kings 14.1)"]
+  n0 --> n3
+  n4["Nadab (1 Kings 14.20)"]
+  n0 --> n4
+  classDef me stroke-width:3px
+  classDef spouse stroke-dasharray:4
+```
+
+## Events
+
+- [[connections/timeline/10th century BC|975 BC]] · [[connections/events/Reign of Jeroboam I|Reign of Jeroboam I]]
 
 ## Appears in
 

@@ -7,12 +7,16 @@ language: "Greek"
 verses: 17
 cross_references_out: 72
 cross_references_in: 131
+dated_from: 54
+dated_to: 54
 tags: ["chapter", "nt", "pauline-epistles"]
 ---
 
 # 2 Thessalonians 2
 
 ← [[connections/chapters/53-2-thessalonians/2 Thessalonians 1|2 Thessalonians 1]] · [[connections/books/2 Thessalonians|2 Thessalonians]] · [[connections/chapters/53-2-thessalonians/2 Thessalonians 3|2 Thessalonians 3]] →
+
+**Dated** *(Ussher, after the Treasury of Scripture Knowledge)*: [[connections/timeline/1st century AD|AD 54]]
 
 ## Text
 

@@ -8,6 +8,9 @@ original: ["הוֹדִיָּה", "יְהוּדָה"]
 verses: 4
 chapters: 4
 first: "Nehemiah 8:7"
+placed: "445 BC"
+placed_year: -444
+sex: "male"
 tags: ["person"]
 ---
 
@@ -18,6 +21,10 @@ A Levite involved in teaching and worship.
 **Also called:** Judah
 
 **Original-language names:** הוֹדִיָּה (H1941) · יְהוּדָה (H3063)
+
+## When
+
+- **Placed around:** [[connections/timeline/5th century BC|445 BC]] *(Ussher: the median date of the passages naming them)*
 
 ## Appears in
 

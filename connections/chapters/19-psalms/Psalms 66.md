@@ -7,12 +7,16 @@ language: "Hebrew"
 verses: 20
 cross_references_out: 38
 cross_references_in: 63
+dated_from: -534
+dated_to: -534
 tags: ["chapter", "ot", "wisdom"]
 ---
 
 # Psalms 66
 
 ← [[connections/chapters/19-psalms/Psalms 65|Psalms 65]] · [[connections/books/Psalms|Psalms]] · [[connections/chapters/19-psalms/Psalms 67|Psalms 67]] →
+
+**Dated** *(Ussher, after the Treasury of Scripture Knowledge)*: [[connections/timeline/6th century BC|535 BC]]
 
 ## Text
 

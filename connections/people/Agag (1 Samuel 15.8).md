@@ -7,6 +7,9 @@ original: ["אֲגָג"]
 verses: 5
 chapters: 1
 first: "1 Samuel 15:8"
+placed: "1079 BC"
+placed_year: -1078
+sex: "male"
 tags: ["person"]
 ---
 
@@ -15,6 +18,15 @@ tags: ["person"]
 Amalekite king captured and killed by Samuel
 
 **Original-language names:** אֲגָג (H0090)
+
+## When
+
+- **Placed around:** [[connections/timeline/11th century BC|1079 BC]] *(Ussher: the median date of the passages naming them)*
+
+## Family
+
+- **Tribe or nation:** Sinai
+
 
 ## Appears in
 

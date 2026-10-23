@@ -7,6 +7,9 @@ original: ["אֶלְקָנָה"]
 verses: 1
 chapters: 1
 first: "2 Chronicles 28:7"
+placed: "742 BC"
+placed_year: -741
+sex: "male"
 tags: ["person"]
 ---
 
@@ -15,6 +18,10 @@ tags: ["person"]
 A palace officer under King Ahaz.
 
 **Original-language names:** אֶלְקָנָה (H0511)
+
+## When
+
+- **Placed around:** [[connections/timeline/8th century BC|742 BC]] *(Ussher: the median date of the passages naming them)*
 
 ## Appears in
 

@@ -7,6 +7,7 @@ original: ["עַקּוּב"]
 verses: 1
 chapters: 1
 first: "Ezra 2:45"
+sex: "male"
 tags: ["person"]
 ---
 

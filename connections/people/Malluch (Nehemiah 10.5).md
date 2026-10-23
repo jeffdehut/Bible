@@ -7,6 +7,9 @@ original: ["מַלּוּךְ", "מְלוּכִי"]
 verses: 3
 chapters: 2
 first: "Nehemiah 10:5"
+placed: "445 BC"
+placed_year: -444
+sex: "male"
 tags: ["person"]
 ---
 
@@ -15,6 +18,10 @@ tags: ["person"]
 Priest who sealed the covenant with Nehemiah.
 
 **Original-language names:** מַלּוּךְ (H4409a) · מְלוּכִי (H4409b)
+
+## When
+
+- **Placed around:** [[connections/timeline/5th century BC|445 BC]] *(Ussher: the median date of the passages naming them)*
 
 ## Appears in
 

@@ -8,6 +8,9 @@ original: ["נְכוֹ", "נְכוֹ+H6547Q«H6547=פַּרְעֹה", "נְכֹ�
 verses: 10
 chapters: 4
 first: "2 Kings 23:29"
+placed: "610 BC"
+placed_year: -609
+sex: "male"
 tags: ["person"]
 ---
 
@@ -18,6 +21,16 @@ Egyptian Pharaoh during the reigns of Josiah and Jehoiakim.
 **Also called:** PharaohNeco, PharaohNecoh, Pharaoh
 
 **Original-language names:** נְכוֹ (H5224) · נְכוֹ+H6547Q«H6547=פַּרְעֹה (H5224) · נְכֹה+H6547Q«H6547=פַּרְעֹה (H5224) · פַּרְעֹה נְכֹה (H6549) · פַּרְעֹה (H6547)
+
+## When
+
+- **Placed around:** [[connections/timeline/7th century BC|610 BC]] *(Ussher: the median date of the passages naming them)*
+- **Reigned / in office:** [[connections/timeline/7th century BC|610 BC]] – [[connections/timeline/6th century BC|595 BC]] *(modern dates)* · Necho II, Egypt · [Wikidata Q125102](https://www.wikidata.org/wiki/Q125102)
+
+## Family
+
+- **Tribe or nation:** Egypt
+
 
 ## Appears in
 

@@ -7,12 +7,16 @@ language: "Hebrew"
 verses: 20
 cross_references_out: 74
 cross_references_in: 58
+dated_from: -629
+dated_to: -629
 tags: ["chapter", "ot", "prophets"]
 ---
 
 # Zephaniah 3
 
 ← [[connections/chapters/36-zephaniah/Zephaniah 2|Zephaniah 2]] · [[connections/books/Zephaniah|Zephaniah]] · [[connections/chapters/37-haggai/Haggai 1|Haggai 1]] →
+
+**Dated** *(Ussher, after the Treasury of Scripture Knowledge)*: [[connections/timeline/7th century BC|630 BC]]
 
 ## Text
 

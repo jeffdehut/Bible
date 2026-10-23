@@ -7,12 +7,16 @@ language: "Hebrew"
 verses: 33
 cross_references_out: 43
 cross_references_in: 21
+dated_from: -892
+dated_to: -892
 tags: ["chapter", "ot", "history"]
 ---
 
 # 2 Kings 6
 
 ← [[connections/chapters/12-2-kings/2 Kings 5|2 Kings 5]] · [[connections/books/2 Kings|2 Kings]] · [[connections/chapters/12-2-kings/2 Kings 7|2 Kings 7]] →
+
+**Dated** *(Ussher, after the Treasury of Scripture Knowledge)*: [[connections/timeline/9th century BC|893 BC]]
 
 ## Text
 

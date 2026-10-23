@@ -20,6 +20,10 @@ Major Canaanite city conquered by Joshua
 
 **Original-language names:** חָצוֹר (H2674) · חֶצְרוֹן (H2696)
 
+## Events
+
+- [[connections/timeline/13th century BC|1298 BC]] · [[connections/events/Subjugation by Jabin|Subjugation by Jabin]]
+
 ## Appears in
 
 [[connections/chapters/06-joshua/Joshua 11|Joshua 11 (4)]] · [[connections/chapters/06-joshua/Joshua 12|Joshua 12]] · [[connections/chapters/06-joshua/Joshua 15|Joshua 15]] · [[connections/chapters/06-joshua/Joshua 19|Joshua 19]] · [[connections/chapters/07-judges/Judges 4|Judges 4 (2)]] · [[connections/chapters/09-1-samuel/1 Samuel 12|1 Samuel 12]] · [[connections/chapters/11-1-kings/1 Kings 9|1 Kings 9]] · [[connections/chapters/12-2-kings/2 Kings 15|2 Kings 15]]

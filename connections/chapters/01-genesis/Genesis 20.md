@@ -7,12 +7,16 @@ language: "Hebrew/Aramaic"
 verses: 18
 cross_references_out: 2
 cross_references_in: 16
+dated_from: -1896
+dated_to: -1896
 tags: ["chapter", "ot", "torah"]
 ---
 
 # Genesis 20
 
 ← [[connections/chapters/01-genesis/Genesis 19|Genesis 19]] · [[connections/books/Genesis|Genesis]] · [[connections/chapters/01-genesis/Genesis 21|Genesis 21]] →
+
+**Dated** *(Ussher, after the Treasury of Scripture Knowledge)*: [[connections/timeline/19th century BC|1897 BC]]
 
 ## Text
 

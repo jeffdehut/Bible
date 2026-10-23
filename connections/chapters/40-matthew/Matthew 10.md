@@ -7,12 +7,16 @@ language: "Greek"
 verses: 42
 cross_references_out: 209
 cross_references_in: 191
+dated_from: 33
+dated_to: 33
 tags: ["chapter", "nt", "gospels"]
 ---
 
 # Matthew 10
 
 ← [[connections/chapters/40-matthew/Matthew 9|Matthew 9]] · [[connections/books/Matthew|Matthew]] · [[connections/chapters/40-matthew/Matthew 11|Matthew 11]] →
+
+**Dated** *(Ussher, after the Treasury of Scripture Knowledge)*: [[connections/timeline/1st century AD|AD 33]]
 
 ## Text
 

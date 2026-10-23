@@ -7,6 +7,9 @@ original: ["תַּרְתָּן"]
 verses: 2
 chapters: 2
 first: "2 Kings 18:17"
+placed: "710 BC"
+placed_year: -709
+sex: "male"
 tags: ["person"]
 ---
 
@@ -15,6 +18,10 @@ tags: ["person"]
 Title of an Assyrian military commander
 
 **Original-language names:** תַּרְתָּן (H8661)
+
+## When
+
+- **Placed around:** [[connections/timeline/8th century BC|710 BC]] *(Ussher: the median date of the passages naming them)*
 
 ## Appears in
 

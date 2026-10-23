@@ -7,12 +7,16 @@ language: "Hebrew"
 verses: 32
 cross_references_out: 52
 cross_references_in: 37
+dated_from: -725
+dated_to: -725
 tags: ["chapter", "ot", "prophets"]
 ---
 
 # Isaiah 14
 
 ← [[connections/chapters/23-isaiah/Isaiah 13|Isaiah 13]] · [[connections/books/Isaiah|Isaiah]] · [[connections/chapters/23-isaiah/Isaiah 15|Isaiah 15]] →
+
+**Dated** *(Ussher, after the Treasury of Scripture Knowledge)*: [[connections/timeline/8th century BC|726 BC]]
 
 ## Text
 

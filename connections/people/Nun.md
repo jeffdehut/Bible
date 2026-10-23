@@ -7,6 +7,10 @@ original: ["נוּן"]
 verses: 30
 chapters: 24
 first: "Exodus 33:11"
+placed: "1451 BC"
+placed_year: -1450
+generation: 33
+sex: "male"
 tags: ["person"]
 ---
 
@@ -15,6 +19,33 @@ tags: ["person"]
 Father of Joshua
 
 **Original-language names:** נוּן (H5126)
+
+## When
+
+- **Placed around:** [[connections/timeline/15th century BC|1451 BC]] *(Ussher: the median date of the passages naming them)*
+
+## Family
+
+- **Father:** [[connections/people/Elishama (Numbers 1.10)|Elishama (Numbers 1.10)]]
+- **Children:** [[connections/people/Joshua (Exodus 17.9)|Joshua (Exodus 17.9)]]
+- **Tribe or nation:** Tribe of Ephraim
+
+**Line of descent** (33 generations, father to son): [[connections/people/Adam|Adam]] → [[connections/people/Seth|Seth]] → [[connections/people/Enosh|Enosh]] → [[connections/people/Kenan|Kenan]] → [[connections/people/Mahalalel (Genesis 5.12)|Mahalalel (Genesis 5.12)]] → [[connections/people/Jared|Jared]] → [[connections/people/Enoch (Genesis 5.18)|Enoch (Genesis 5.18)]] → [[connections/people/Methuselah|Methuselah]] → [[connections/people/Lamech (Genesis 5.25)|Lamech (Genesis 5.25)]] → [[connections/people/Noah (Genesis 5.29)|Noah (Genesis 5.29)]] → [[connections/people/Shem|Shem]] → [[connections/people/Arpachshad|Arpachshad]] → [[connections/people/Cainan|Cainan]] → [[connections/people/Shelah (Genesis 10.24)|Shelah (Genesis 10.24)]] → [[connections/people/Eber (Genesis 10.21)|Eber (Genesis 10.21)]] → [[connections/people/Peleg|Peleg]] → [[connections/people/Reu|Reu]] → [[connections/people/Serug|Serug]] → [[connections/people/Nahor (Genesis 11.22)|Nahor (Genesis 11.22)]] → [[connections/people/Terah|Terah]] → [[connections/people/Abraham|Abraham]] → [[connections/people/Isaac|Isaac]] → [[connections/people/Israel|Israel]] → [[connections/people/Joseph (Genesis 30.24)|Joseph (Genesis 30.24)]] → [[connections/people/Ephraim|Ephraim]] → [[connections/people/Beriah (1 Chronicles 7.23)|Beriah (1 Chronicles 7.23)]] → [[connections/people/Resheph|Resheph]] → [[connections/people/Telah|Telah]] → [[connections/people/Tahan (1 Chronicles 7.25)|Tahan (1 Chronicles 7.25)]] → [[connections/people/Ladan|Ladan]] → [[connections/people/Ammihud (Numbers 1.10)|Ammihud (Numbers 1.10)]] → [[connections/people/Elishama (Numbers 1.10)|Elishama (Numbers 1.10)]] → **Nun**
+
+**Family group:** [[connections/genealogy/Family of Adam|Family of Adam]], generation 33
+
+```mermaid
+flowchart TB
+  n0["Nun"]:::me
+  n1["Ammihud (Numbers 1.10)"]
+  n2["Elishama (Numbers 1.10)"]
+  n1 --> n2
+  n2 --> n0
+  n3["Joshua (Exodus 17.9)"]
+  n0 --> n3
+  classDef me stroke-width:3px
+  classDef spouse stroke-dasharray:4
+```
 
 ## Appears in
 

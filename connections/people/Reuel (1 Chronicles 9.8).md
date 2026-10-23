@@ -7,6 +7,10 @@ original: ["רְעוּאֵל"]
 verses: 1
 chapters: 1
 first: "1 Chronicles 9:8"
+placed: "536 BC"
+placed_year: -535
+generation: 2
+sex: "male"
 tags: ["person"]
 ---
 
@@ -15,6 +19,28 @@ tags: ["person"]
 A Benjamite, son of Ibnijah
 
 **Original-language names:** רְעוּאֵל (H7467)
+
+## When
+
+- **Placed around:** [[connections/timeline/6th century BC|536 BC]] *(Ussher: the median date of the passages naming them)*
+
+## Family
+
+- **Father:** [[connections/people/Ibnijah|Ibnijah]]
+- **Children:** [[connections/people/Shephatiah (1 Chronicles 9.8)|Shephatiah (1 Chronicles 9.8)]]
+
+**Family group:** [[connections/genealogy/Family of Ibnijah|Family of Ibnijah]], generation 2
+
+```mermaid
+flowchart TB
+  n0["Reuel (1 Chronicles 9.8)"]:::me
+  n1["Ibnijah"]
+  n1 --> n0
+  n2["Shephatiah (1 Chronicles 9.8)"]
+  n0 --> n2
+  classDef me stroke-width:3px
+  classDef spouse stroke-dasharray:4
+```
 
 ## Appears in
 

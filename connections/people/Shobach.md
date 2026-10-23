@@ -8,6 +8,9 @@ original: ["שׁוֹבַךְ", "שׁוֹפָךְ"]
 verses: 4
 chapters: 2
 first: "2 Samuel 10:16"
+placed: "1036 BC"
+placed_year: -1035
+sex: "male"
 tags: ["person"]
 ---
 
@@ -18,6 +21,10 @@ Commander of Hadadezer's army, killed by David's men.
 **Also called:** Shophach
 
 **Original-language names:** שׁוֹבַךְ (H7731) · שׁוֹפָךְ (H7780)
+
+## When
+
+- **Placed around:** [[connections/timeline/11th century BC|1036 BC]] *(Ussher: the median date of the passages naming them)*
 
 ## Appears in
 

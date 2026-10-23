@@ -7,6 +7,9 @@ original: ["Πούδης"]
 verses: 1
 chapters: 1
 first: "2 Timothy 4:21"
+placed: "AD 66"
+placed_year: 66
+sex: "male"
 tags: ["person"]
 ---
 
@@ -15,6 +18,10 @@ tags: ["person"]
 Christian in Rome who greeted Timothy
 
 **Original-language names:** Πούδης (G4227)
+
+## When
+
+- **Placed around:** [[connections/timeline/1st century AD|AD 66]] *(Ussher: the median date of the passages naming them)*
 
 ## Appears in
 

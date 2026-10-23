@@ -7,6 +7,10 @@ original: ["חוּשַׁי"]
 verses: 13
 chapters: 5
 first: "2 Samuel 15:32"
+placed: "1023 BC"
+placed_year: -1022
+generation: 1
+sex: "male"
 tags: ["person"]
 ---
 
@@ -15,6 +19,25 @@ tags: ["person"]
 David's friend and advisor who helped him during Absalom's rebellion.
 
 **Original-language names:** חוּשַׁי (H2365)
+
+## When
+
+- **Placed around:** [[connections/timeline/11th century BC|1023 BC]] *(Ussher: the median date of the passages naming them)*
+
+## Family
+
+- **Children:** [[connections/people/Baana (1 Kings 4.16)|Baana (1 Kings 4.16)]]
+
+**Family group:** [[connections/genealogy/Family of Hushai|Family of Hushai]], generation 1
+
+```mermaid
+flowchart TB
+  n0["Hushai"]:::me
+  n1["Baana (1 Kings 4.16)"]
+  n0 --> n1
+  classDef me stroke-width:3px
+  classDef spouse stroke-dasharray:4
+```
 
 ## Appears in
 

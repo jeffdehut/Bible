@@ -7,12 +7,16 @@ language: "Greek"
 verses: 21
 cross_references_out: 221
 cross_references_in: 179
+dated_from: 64
+dated_to: 64
 tags: ["chapter", "nt", "pauline-epistles"]
 ---
 
 # Philippians 3
 
 ← [[connections/chapters/50-philippians/Philippians 2|Philippians 2]] · [[connections/books/Philippians|Philippians]] · [[connections/chapters/50-philippians/Philippians 4|Philippians 4]] →
+
+**Dated** *(Ussher, after the Treasury of Scripture Knowledge)*: [[connections/timeline/1st century AD|AD 64]]
 
 ## Text
 

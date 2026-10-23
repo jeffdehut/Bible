@@ -7,6 +7,7 @@ original: ["חָגָב"]
 verses: 1
 chapters: 1
 first: "Ezra 2:46"
+sex: "male"
 tags: ["person"]
 ---
 

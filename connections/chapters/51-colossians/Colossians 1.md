@@ -7,12 +7,16 @@ language: "Greek"
 verses: 29
 cross_references_out: 348
 cross_references_in: 326
+dated_from: 64
+dated_to: 64
 tags: ["chapter", "nt", "pauline-epistles"]
 ---
 
 # Colossians 1
 
 ← [[connections/chapters/50-philippians/Philippians 4|Philippians 4]] · [[connections/books/Colossians|Colossians]] · [[connections/chapters/51-colossians/Colossians 2|Colossians 2]] →
+
+**Dated** *(Ussher, after the Treasury of Scripture Knowledge)*: [[connections/timeline/1st century AD|AD 64]]
 
 ## Text
 

@@ -17,6 +17,10 @@ Island visited by Paul on his journey
 
 **Original-language names:** Χίος (G5508)
 
+## Events
+
+- [[connections/timeline/1st century AD|AD 54]] · [[connections/events/Voyage to Miletus|Voyage to Miletus]]
+
 ## Appears in
 
 [[connections/chapters/44-acts/Acts 20|Acts 20]]

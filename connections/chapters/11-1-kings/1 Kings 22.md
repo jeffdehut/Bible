@@ -7,12 +7,16 @@ language: "Hebrew"
 verses: 54
 cross_references_out: 8
 cross_references_in: 16
+dated_from: -917
+dated_to: -888
 tags: ["chapter", "ot", "history"]
 ---
 
 # 1 Kings 22
 
 ← [[connections/chapters/11-1-kings/1 Kings 21|1 Kings 21]] · [[connections/books/1 Kings|1 Kings]] · [[connections/chapters/12-2-kings/2 Kings 1|2 Kings 1]] →
+
+**Dated** *(Ussher, after the Treasury of Scripture Knowledge)*: [[connections/timeline/10th century BC|918 BC]] – [[connections/timeline/9th century BC|889 BC]]
 
 ## Text
 

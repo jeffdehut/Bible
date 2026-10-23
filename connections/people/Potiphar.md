@@ -7,6 +7,9 @@ original: ["פּוֹטִיפַר"]
 verses: 2
 chapters: 2
 first: "Genesis 37:36"
+placed: "1728 BC"
+placed_year: -1727
+sex: "male"
 tags: ["person"]
 ---
 
@@ -15,6 +18,15 @@ tags: ["person"]
 Egyptian official who bought Joseph as a slave
 
 **Original-language names:** פּוֹטִיפַר (H6318)
+
+## When
+
+- **Placed around:** [[connections/timeline/18th century BC|1728 BC]] *(Ussher: the median date of the passages naming them)*
+
+## Family
+
+- **Tribe or nation:** Egypt
+
 
 ## Appears in
 

@@ -7,6 +7,10 @@ original: ["בֶּן־הֲדַד"]
 verses: 17
 chapters: 4
 first: "1 Kings 15:18"
+placed: "901 BC"
+placed_year: -900
+generation: 3
+sex: "male"
 tags: ["person"]
 ---
 
@@ -15,6 +19,30 @@ tags: ["person"]
 King of Aram, contemporary of Asa and Baasha.
 
 **Original-language names:** בֶּן־הֲדַד (H1130)
+
+## When
+
+- **Placed around:** [[connections/timeline/10th century BC|901 BC]] *(Ussher: the median date of the passages naming them)*
+
+## Family
+
+- **Father:** [[connections/people/Tabrimmon|Tabrimmon]]
+- **Tribe or nation:** Syria
+
+**Line of descent** (3 generations, father to son): [[connections/people/Hezion|Hezion]] → [[connections/people/Tabrimmon|Tabrimmon]] → **Ben-hadad (1 Kings 15.18)**
+
+**Family group:** [[connections/genealogy/Family of Hezion|Family of Hezion]], generation 3
+
+```mermaid
+flowchart TB
+  n0["Ben-hadad (1 Kings 15.18)"]:::me
+  n1["Hezion"]
+  n2["Tabrimmon"]
+  n1 --> n2
+  n2 --> n0
+  classDef me stroke-width:3px
+  classDef spouse stroke-dasharray:4
+```
 
 ## Appears in
 

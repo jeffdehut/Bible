@@ -7,12 +7,16 @@ language: "Hebrew"
 verses: 15
 cross_references_out: 3
 cross_references_in: 16
+dated_from: -518
+dated_to: -518
 tags: ["chapter", "ot", "prophets"]
 ---
 
 # Zechariah 6
 
 ← [[connections/chapters/38-zechariah/Zechariah 5|Zechariah 5]] · [[connections/books/Zechariah|Zechariah]] · [[connections/chapters/38-zechariah/Zechariah 7|Zechariah 7]] →
+
+**Dated** *(Ussher, after the Treasury of Scripture Knowledge)*: [[connections/timeline/6th century BC|519 BC]]
 
 ## Text
 

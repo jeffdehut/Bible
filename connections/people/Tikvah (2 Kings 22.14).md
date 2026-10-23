@@ -8,6 +8,10 @@ original: ["תִּקְוָה", "תּוֹקַהַת"]
 verses: 2
 chapters: 2
 first: "2 Kings 22:14"
+placed: "624 BC"
+placed_year: -623
+generation: 2
+sex: "male"
 tags: ["person"]
 ---
 
@@ -18,6 +22,28 @@ Father of Shallum, husband of Huldah the prophetess
 **Also called:** Tokhath
 
 **Original-language names:** תִּקְוָה (H8616) · תּוֹקַהַת (H8445)
+
+## When
+
+- **Placed around:** [[connections/timeline/7th century BC|624 BC]] *(Ussher: the median date of the passages naming them)*
+
+## Family
+
+- **Father:** [[connections/people/Harhas|Harhas]]
+- **Children:** [[connections/people/Shallum (2 Kings 22.14)|Shallum (2 Kings 22.14)]]
+
+**Family group:** [[connections/genealogy/Family of Harhas|Family of Harhas]], generation 2
+
+```mermaid
+flowchart TB
+  n0["Tikvah (2 Kings 22.14)"]:::me
+  n1["Harhas"]
+  n1 --> n0
+  n2["Shallum (2 Kings 22.14)"]
+  n0 --> n2
+  classDef me stroke-width:3px
+  classDef spouse stroke-dasharray:4
+```
 
 ## Appears in
 

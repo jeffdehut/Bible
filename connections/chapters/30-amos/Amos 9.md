@@ -7,12 +7,16 @@ language: "Hebrew"
 verses: 15
 cross_references_out: 19
 cross_references_in: 40
+dated_from: -786
+dated_to: -786
 tags: ["chapter", "ot", "prophets"]
 ---
 
 # Amos 9
 
 ← [[connections/chapters/30-amos/Amos 8|Amos 8]] · [[connections/books/Amos|Amos]] · [[connections/chapters/31-obadiah/Obadiah 1|Obadiah 1]] →
+
+**Dated** *(Ussher, after the Treasury of Scripture Knowledge)*: [[connections/timeline/8th century BC|787 BC]]
 
 ## Text
 

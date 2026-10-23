@@ -7,6 +7,9 @@ original: ["Βαρθολομαῖος"]
 verses: 4
 chapters: 4
 first: "Matthew 10:3"
+placed: "AD 33"
+placed_year: 33
+sex: "male"
 tags: ["person"]
 ---
 
@@ -15,6 +18,15 @@ tags: ["person"]
 One of the twelve apostles of Jesus Christ.
 
 **Original-language names:** Βαρθολομαῖος (G0918)
+
+## When
+
+- **Placed around:** [[connections/timeline/1st century AD|AD 33]] *(Ussher: the median date of the passages naming them)*
+
+## Events
+
+- [[connections/timeline/1st century AD|AD 28]] · [[connections/events/Apostles Chosen|Apostles Chosen]]
+- [[connections/timeline/1st century AD|AD 30]] · [[connections/events/Matthias replaces Judas|Matthias replaces Judas]]
 
 ## Appears in
 

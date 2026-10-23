@@ -7,6 +7,7 @@ original: ["אֶלְקָנָה"]
 verses: 1
 chapters: 1
 first: "1 Chronicles 12:7"
+sex: "male"
 tags: ["person"]
 ---
 

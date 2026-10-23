@@ -8,6 +8,7 @@ original: ["סַלּוּ", "סַלַּי"]
 verses: 2
 chapters: 1
 first: "Nehemiah 12:7"
+sex: "male"
 tags: ["person"]
 ---
 

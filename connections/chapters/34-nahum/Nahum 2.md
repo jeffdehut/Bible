@@ -7,12 +7,16 @@ language: "Hebrew"
 verses: 14
 cross_references_out: 5
 cross_references_in: 2
+dated_from: -712
+dated_to: -712
 tags: ["chapter", "ot", "prophets"]
 ---
 
 # Nahum 2
 
 ← [[connections/chapters/34-nahum/Nahum 1|Nahum 1]] · [[connections/books/Nahum|Nahum]] · [[connections/chapters/34-nahum/Nahum 3|Nahum 3]] →
+
+**Dated** *(Ussher, after the Treasury of Scripture Knowledge)*: [[connections/timeline/8th century BC|713 BC]]
 
 ## Text
 

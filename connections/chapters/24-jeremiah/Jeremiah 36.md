@@ -7,12 +7,16 @@ language: "Hebrew/Aramaic"
 verses: 32
 cross_references_out: 2
 cross_references_in: 4
+dated_from: -605
+dated_to: -605
 tags: ["chapter", "ot", "prophets"]
 ---
 
 # Jeremiah 36
 
 ← [[connections/chapters/24-jeremiah/Jeremiah 35|Jeremiah 35]] · [[connections/books/Jeremiah|Jeremiah]] · [[connections/chapters/24-jeremiah/Jeremiah 37|Jeremiah 37]] →
+
+**Dated** *(Ussher, after the Treasury of Scripture Knowledge)*: [[connections/timeline/7th century BC|606 BC]]
 
 ## Text
 

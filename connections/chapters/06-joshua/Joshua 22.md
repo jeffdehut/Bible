@@ -7,12 +7,16 @@ language: "Hebrew"
 verses: 34
 cross_references_out: 4
 cross_references_in: 11
+dated_from: -1442
+dated_to: -1442
 tags: ["chapter", "ot", "history"]
 ---
 
 # Joshua 22
 
 ← [[connections/chapters/06-joshua/Joshua 21|Joshua 21]] · [[connections/books/Joshua|Joshua]] · [[connections/chapters/06-joshua/Joshua 23|Joshua 23]] →
+
+**Dated** *(Ussher, after the Treasury of Scripture Knowledge)*: [[connections/timeline/15th century BC|1443 BC]]
 
 ## Text
 

@@ -7,6 +7,9 @@ original: ["שְׁבַנְיָהוּ"]
 verses: 3
 chapters: 2
 first: "Nehemiah 9:4"
+placed: "445 BC"
+placed_year: -444
+sex: "male"
 tags: ["person"]
 ---
 
@@ -15,6 +18,10 @@ tags: ["person"]
 Levite who led the people in prayer
 
 **Original-language names:** שְׁבַנְיָהוּ (H7645)
+
+## When
+
+- **Placed around:** [[connections/timeline/5th century BC|445 BC]] *(Ussher: the median date of the passages naming them)*
 
 ## Appears in
 

@@ -7,12 +7,16 @@ language: "Greek"
 verses: 30
 cross_references_out: 17
 cross_references_in: 34
+dated_from: 62
+dated_to: 62
 tags: ["chapter", "nt", "acts"]
 ---
 
 # Acts 28
 
 ← [[connections/chapters/44-acts/Acts 27|Acts 27]] · [[connections/books/Acts|Acts]] · [[connections/chapters/45-romans/Romans 1|Romans 1]] →
+
+**Dated** *(Ussher, after the Treasury of Scripture Knowledge)*: [[connections/timeline/1st century AD|AD 62]]
 
 ## Text
 

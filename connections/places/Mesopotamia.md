@@ -17,6 +17,10 @@ The region between the Tigris and Euphrates rivers
 
 **Original-language names:** אֲרַם נַהֲרַיִם (H0763) · אֲרָם (H0758) · Μεσοποταμία (G3318)
 
+## Events
+
+- [[connections/timeline/15th century BC|1418 BC]] · [[connections/events/Subjugation by Cushan-rishathaim|Subjugation by Cushan-rishathaim]]
+
 ## Appears in
 
 [[connections/chapters/01-genesis/Genesis 24|Genesis 24]] · [[connections/chapters/05-deuteronomy/Deuteronomy 23|Deuteronomy 23]] · [[connections/chapters/07-judges/Judges 3|Judges 3 (2)]] · [[connections/chapters/13-1-chronicles/1 Chronicles 19|1 Chronicles 19]] · [[connections/chapters/44-acts/Acts 2|Acts 2]] · [[connections/chapters/44-acts/Acts 7|Acts 7]]

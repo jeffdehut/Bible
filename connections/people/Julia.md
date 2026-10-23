@@ -7,6 +7,9 @@ original: ["Ἰουλία"]
 verses: 1
 chapters: 1
 first: "Romans 16:15"
+placed: "AD 60"
+placed_year: 60
+sex: "female"
 tags: ["person"]
 ---
 
@@ -15,6 +18,10 @@ tags: ["person"]
 A Christian woman greeted by Paul in Romans
 
 **Original-language names:** Ἰουλία (G2456)
+
+## When
+
+- **Placed around:** [[connections/timeline/1st century AD|AD 60]] *(Ussher: the median date of the passages naming them)*
 
 ## Appears in
 

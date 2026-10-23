@@ -7,12 +7,16 @@ language: "Hebrew/Aramaic"
 verses: 17
 cross_references_out: 14
 cross_references_in: 4
+dated_from: -594
+dated_to: -594
 tags: ["chapter", "ot", "prophets"]
 ---
 
 # Jeremiah 28
 
 ← [[connections/chapters/24-jeremiah/Jeremiah 27|Jeremiah 27]] · [[connections/books/Jeremiah|Jeremiah]] · [[connections/chapters/24-jeremiah/Jeremiah 29|Jeremiah 29]] →
+
+**Dated** *(Ussher, after the Treasury of Scripture Knowledge)*: [[connections/timeline/6th century BC|595 BC]]
 
 ## Text
 

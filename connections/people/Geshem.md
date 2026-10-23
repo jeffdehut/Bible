@@ -7,6 +7,9 @@ original: ["גֶּ֫שֶׁם"]
 verses: 4
 chapters: 2
 first: "Nehemiah 2:19"
+placed: "445 BC"
+placed_year: -444
+sex: "male"
 tags: ["person"]
 ---
 
@@ -15,6 +18,10 @@ tags: ["person"]
 Arab opponent of Nehemiah; tried to hinder wall rebuilding.
 
 **Original-language names:** גֶּ֫שֶׁם (H1654)
+
+## When
+
+- **Placed around:** [[connections/timeline/5th century BC|445 BC]] *(Ussher: the median date of the passages naming them)*
 
 ## Appears in
 

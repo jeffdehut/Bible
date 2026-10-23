@@ -7,6 +7,10 @@ original: ["נְבָט"]
 verses: 25
 chapters: 17
 first: "1 Kings 11:26"
+placed: "884 BC"
+placed_year: -883
+generation: 1
+sex: "male"
 tags: ["person"]
 ---
 
@@ -15,6 +19,29 @@ tags: ["person"]
 Father of Jeroboam, the first king of Israel.
 
 **Original-language names:** נְבָט (H5028)
+
+## When
+
+- **Placed around:** [[connections/timeline/9th century BC|884 BC]] *(Ussher: the median date of the passages naming them)*
+
+## Family
+
+- **Spouses:** [[connections/people/Zeruah|Zeruah]]
+- **Children:** [[connections/people/Jeroboam (1 Kings 11.26)|Jeroboam (1 Kings 11.26)]]
+- **Tribe or nation:** Israel
+
+**Family group:** [[connections/genealogy/Family of Nebat|Family of Nebat]], generation 1
+
+```mermaid
+flowchart TB
+  n0["Nebat"]:::me
+  n1["Zeruah"]:::spouse
+  n0 -.- n1
+  n2["Jeroboam (1 Kings 11.26)"]
+  n0 --> n2
+  classDef me stroke-width:3px
+  classDef spouse stroke-dasharray:4
+```
 
 ## Appears in
 

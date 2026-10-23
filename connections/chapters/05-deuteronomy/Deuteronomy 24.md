@@ -7,12 +7,16 @@ language: "Hebrew"
 verses: 22
 cross_references_out: 23
 cross_references_in: 22
+dated_from: -1450
+dated_to: -1450
 tags: ["chapter", "ot", "torah"]
 ---
 
 # Deuteronomy 24
 
 ← [[connections/chapters/05-deuteronomy/Deuteronomy 23|Deuteronomy 23]] · [[connections/books/Deuteronomy|Deuteronomy]] · [[connections/chapters/05-deuteronomy/Deuteronomy 25|Deuteronomy 25]] →
+
+**Dated** *(Ussher, after the Treasury of Scripture Knowledge)*: [[connections/timeline/15th century BC|1451 BC]]
 
 ## Text
 

@@ -7,6 +7,10 @@ original: ["שָׁפָן"]
 verses: 23
 chapters: 10
 first: "2 Kings 22:3"
+placed: "610 BC"
+placed_year: -609
+generation: 3
+sex: "male"
 tags: ["person"]
 ---
 
@@ -15,6 +19,36 @@ tags: ["person"]
 Scribe during the reign of King Josiah
 
 **Original-language names:** שָׁפָן (H8227b)
+
+## When
+
+- **Placed around:** [[connections/timeline/7th century BC|610 BC]] *(Ussher: the median date of the passages naming them)*
+
+## Family
+
+- **Father:** [[connections/people/Azaliah|Azaliah]]
+- **Children:** [[connections/people/Ahikam|Ahikam]], [[connections/people/Elasah (Jeremiah 29.3)|Elasah (Jeremiah 29.3)]], [[connections/people/Gemariah (Jeremiah 36.10)|Gemariah (Jeremiah 36.10)]]
+
+**Line of descent** (3 generations, father to son): [[connections/people/Meshullam (2 Kings 22.3)|Meshullam (2 Kings 22.3)]] → [[connections/people/Azaliah|Azaliah]] → **Shaphan (2 Kings 22.3)**
+
+**Family group:** [[connections/genealogy/Family of Meshullam (2 Kings 22.3)|Family of Meshullam (2 Kings 22.3)]], generation 3
+
+```mermaid
+flowchart TB
+  n0["Shaphan (2 Kings 22.3)"]:::me
+  n1["Meshullam (2 Kings 22.3)"]
+  n2["Azaliah"]
+  n1 --> n2
+  n2 --> n0
+  n3["Ahikam"]
+  n0 --> n3
+  n4["Elasah (Jeremiah 29.3)"]
+  n0 --> n4
+  n5["Gemariah (Jeremiah 36.10)"]
+  n0 --> n5
+  classDef me stroke-width:3px
+  classDef spouse stroke-dasharray:4
+```
 
 ## Appears in
 

@@ -7,6 +7,10 @@ original: ["סַנְבַלַּט"]
 verses: 10
 chapters: 5
 first: "Nehemiah 2:10"
+placed: "445 BC"
+placed_year: -444
+generation: 1
+sex: "male"
 tags: ["person"]
 ---
 
@@ -15,6 +19,25 @@ tags: ["person"]
 Governor of Samaria, opposed Nehemiah's rebuilding of Jerusalem
 
 **Original-language names:** סַנְבַלַּט (H5571)
+
+## When
+
+- **Placed around:** [[connections/timeline/5th century BC|445 BC]] *(Ussher: the median date of the passages naming them)*
+
+## Family
+
+- **Children:** [[connections/people/daughter of Sanballat (Nehemiah 13.28)|daughter of Sanballat (Nehemiah 13.28)]]
+
+**Family group:** [[connections/genealogy/Family of Sanballat|Family of Sanballat]], generation 1
+
+```mermaid
+flowchart TB
+  n0["Sanballat"]:::me
+  n1["daughter of Sanballat (Nehemiah 13.28)"]
+  n0 --> n1
+  classDef me stroke-width:3px
+  classDef spouse stroke-dasharray:4
+```
 
 ## Appears in
 

@@ -7,6 +7,9 @@ original: ["מְשֵׁיזַבְאֵל"]
 verses: 1
 chapters: 1
 first: "Nehemiah 10:22"
+placed: "445 BC"
+placed_year: -444
+sex: "male"
 tags: ["person"]
 ---
 
@@ -15,6 +18,10 @@ tags: ["person"]
 A leader who sealed the covenant with Nehemiah.
 
 **Original-language names:** מְשֵׁיזַבְאֵל (H4898)
+
+## When
+
+- **Placed around:** [[connections/timeline/5th century BC|445 BC]] *(Ussher: the median date of the passages naming them)*
 
 ## Appears in
 

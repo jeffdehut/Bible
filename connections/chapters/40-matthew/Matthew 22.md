@@ -7,12 +7,16 @@ language: "Greek"
 verses: 46
 cross_references_out: 66
 cross_references_in: 77
+dated_from: 33
+dated_to: 33
 tags: ["chapter", "nt", "gospels"]
 ---
 
 # Matthew 22
 
 ← [[connections/chapters/40-matthew/Matthew 21|Matthew 21]] · [[connections/books/Matthew|Matthew]] · [[connections/chapters/40-matthew/Matthew 23|Matthew 23]] →
+
+**Dated** *(Ussher, after the Treasury of Scripture Knowledge)*: [[connections/timeline/1st century AD|AD 33]]
 
 ## Text
 

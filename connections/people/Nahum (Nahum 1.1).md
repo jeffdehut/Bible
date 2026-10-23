@@ -7,6 +7,9 @@ original: ["נַחוּם"]
 verses: 1
 chapters: 1
 first: "Nahum 1:1"
+placed: "713 BC"
+placed_year: -712
+sex: "male"
 tags: ["person"]
 ---
 
@@ -15,6 +18,14 @@ tags: ["person"]
 Old Testament prophet, author of the Book of Nahum.
 
 **Original-language names:** נַחוּם (H5151)
+
+## When
+
+- **Placed around:** [[connections/timeline/8th century BC|713 BC]] *(Ussher: the median date of the passages naming them)*
+
+## Events
+
+- [[connections/timeline/7th century BC|663 BC]] · [[connections/events/Prophecies of Nahum|Prophecies of Nahum]]
 
 ## Appears in
 

@@ -8,6 +8,10 @@ original: ["Πέτρος", "Σίμων", "Συμεών", "Κηφᾶς", "Βα
 verses: 179
 chapters: 54
 first: "Matthew 4:18"
+placed: "AD 33"
+placed_year: 33
+generation: 2
+sex: "male"
 tags: ["person"]
 ---
 
@@ -18,6 +22,68 @@ Apostle of Jesus, leader in the early church
 **Also called:** Simon, Simeon, Cephas, Bar-Jonah
 
 **Original-language names:** Πέτρος (G4074) · Σίμων (G4613) · Συμεών (G4826) · Κηφᾶς (G2786) · Βαριωνᾶς (G0920)
+
+## When
+
+- **Placed around:** [[connections/timeline/1st century AD|AD 33]] *(Ussher: the median date of the passages naming them)*
+
+## Family
+
+- **Father:** [[connections/people/John (Matthew 16.17)|John (Matthew 16.17)]]
+- **Brothers and sisters:** [[connections/people/Andrew|Andrew]]
+- **Spouses:** [[connections/people/a wife of Peter (Matthew 8.14)|a wife of Peter (Matthew 8.14)]]
+
+**Family group:** [[connections/genealogy/Family of John (Matthew 16.17)|Family of John (Matthew 16.17)]], generation 2
+
+```mermaid
+flowchart TB
+  n0["Peter"]:::me
+  n1["John (Matthew 16.17)"]
+  n1 --> n0
+  n2["Andrew"]
+  n1 --> n2
+  n3["a wife of Peter (Matthew 8.14)"]:::spouse
+  n0 -.- n3
+  classDef me stroke-width:3px
+  classDef spouse stroke-dasharray:4
+```
+
+## Events
+
+- [[connections/timeline/1st century AD|AD 27]] · [[connections/events/Fishers of Men|Fishers of Men]]
+- [[connections/timeline/1st century AD|AD 27]] · [[connections/events/First Disciples Gathered|First Disciples Gathered]]
+- [[connections/timeline/1st century AD|AD 28]] · [[connections/events/Apostles Chosen|Apostles Chosen]]
+- [[connections/timeline/1st century AD|AD 28]] · [[connections/events/Jesus' 1st Tour of Galilee|Jesus' 1st Tour of Galilee]]
+- [[connections/timeline/1st century AD|AD 29]] · [[connections/events/Jesus Walks on Water|Jesus Walks on Water]]
+- [[connections/timeline/1st century AD|AD 29]] · [[connections/events/Commandments and Tradition Discourse|Commandments and Tradition Discourse]]
+- [[connections/timeline/1st century AD|AD 29]] · [[connections/events/Peter's Confession -Upon this Rock-|Peter's Confession "Upon this Rock"]]
+- [[connections/timeline/1st century AD|AD 29]] · [[connections/events/Foretelling the Death and Resurrection|Foretelling the Death and Resurrection]]
+- [[connections/timeline/1st century AD|AD 29]] · [[connections/events/The Transfiguation|The Transfiguation]]
+- [[connections/timeline/1st century AD|AD 29]] · [[connections/events/Tax Coin in a Fish's Mouth|Tax Coin in a Fish's Mouth]]
+- [[connections/timeline/1st century AD|AD 29]] · [[connections/events/Woes and Parables with Pharisees|Woes and Parables with Pharisees]]
+- [[connections/timeline/1st century AD|AD 29]] · [[connections/events/Bread of Life Sermon|Bread of Life Sermon]]
+- [[connections/timeline/1st century AD|AD 30]] · [[connections/events/Olivet Discourse|Olivet Discourse]]
+- [[connections/timeline/1st century AD|AD 30]] · [[connections/events/Prayer and Betrayal in Gethsemane|Prayer and Betrayal in Gethsemane]]
+- [[connections/timeline/1st century AD|AD 30]] · [[connections/events/Jewish Trials|Jewish Trials]]
+- [[connections/timeline/1st century AD|AD 30]] · [[connections/events/Roman Trials|Roman Trials]]
+- [[connections/timeline/1st century AD|AD 30]] · [[connections/events/Teaching by the Fig Tree|Teaching by the Fig Tree]]
+- [[connections/timeline/1st century AD|AD 30]] · [[connections/events/Matthias replaces Judas|Matthias replaces Judas]]
+- [[connections/timeline/1st century AD|AD 30]] · [[connections/events/Peter preaches at Pentecost|Peter preaches at Pentecost]]
+- [[connections/timeline/1st century AD|AD 30]] · [[connections/events/Lame man healed|Lame man healed]]
+- [[connections/timeline/1st century AD|AD 30]] · [[connections/events/Peter preaches in Solomon's Portico|Peter preaches in Solomon's Portico]]
+- [[connections/timeline/1st century AD|AD 30]] · [[connections/events/Peter and John's Trial|Peter and John's Trial]]
+- [[connections/timeline/1st century AD|AD 30]] · [[connections/events/Ananias and Sapphira lie to God|Ananias and Sapphira lie to God]]
+- [[connections/timeline/1st century AD|AD 30]] · [[connections/events/Apostles work signs and wonders in Solomon's Portico|Apostles work signs and wonders in Solomon's Portico]]
+- [[connections/timeline/1st century AD|AD 30]] · [[connections/events/Apostles arrested, put on trial|Apostles arrested, put on trial]]
+- [[connections/timeline/1st century AD|AD 31]] · [[connections/events/Philip preaches in Samaria|Philip preaches in Samaria]]
+- [[connections/timeline/1st century AD|AD 38]] · [[connections/events/Peter heals Aeneas and Dorcas|Peter heals Aeneas and Dorcas]]
+- [[connections/timeline/1st century AD|AD 38]] · [[connections/events/Peter meets Cornelius|Peter meets Cornelius]]
+- [[connections/timeline/1st century AD|AD 38]] · [[connections/events/Peter preaches to gentiles in Caesarea|Peter preaches to gentiles in Caesarea]]
+- [[connections/timeline/1st century AD|AD 38]] · [[connections/events/Peter defends Gentile salvation|Peter defends Gentile salvation]]
+- [[connections/timeline/1st century AD|AD 40]] · [[connections/events/Herod imprisons Peter|Herod imprisons Peter]]
+- [[connections/timeline/1st century AD|AD 40]] · [[connections/events/An angel rescues Peter from prison|An angel rescues Peter from prison]]
+- [[connections/timeline/1st century AD|AD 46]] · [[connections/events/Jerusalem Council|Jerusalem Council]]
+- [[connections/timeline/1st century AD|AD 46]] · [[connections/events/Second Missionary Journey|Second Missionary Journey]]
 
 ## Appears in
 

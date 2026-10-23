@@ -17,6 +17,14 @@ A Roman province in Asia Minor
 
 **Original-language names:** Παμφυλία (G3828)
 
+## Events
+
+- [[connections/timeline/1st century AD|AD 45]] · [[connections/events/First Missionary Journey|First Missionary Journey]]
+- [[connections/timeline/1st century AD|AD 45]] · [[connections/events/Mission to Antioch in Pisidia|Mission to Antioch in Pisidia]]
+- [[connections/timeline/1st century AD|AD 46]] · [[connections/events/Return to Antioch in Syria|Return to Antioch in Syria]]
+- [[connections/timeline/1st century AD|AD 56]] · [[connections/events/Journey to Rome begins|Journey to Rome begins]]
+- [[connections/timeline/1st century AD|AD 56]] · [[connections/events/Paul's Journey to Rome|Paul's Journey to Rome]]
+
 ## Appears in
 
 [[connections/chapters/44-acts/Acts 2|Acts 2]] · [[connections/chapters/44-acts/Acts 13|Acts 13]] · [[connections/chapters/44-acts/Acts 14|Acts 14]] · [[connections/chapters/44-acts/Acts 15|Acts 15]] · [[connections/chapters/44-acts/Acts 27|Acts 27]]

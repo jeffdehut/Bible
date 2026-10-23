@@ -7,6 +7,9 @@ original: ["Βλάστος"]
 verses: 1
 chapters: 1
 first: "Acts 12:20"
+placed: "AD 44"
+placed_year: 44
+sex: "male"
 tags: ["person"]
 ---
 
@@ -15,6 +18,10 @@ tags: ["person"]
 Herod's chamberlain who helped the people of Tyre and Sidon
 
 **Original-language names:** Βλάστος (G0986)
+
+## When
+
+- **Placed around:** [[connections/timeline/1st century AD|AD 44]] *(Ussher: the median date of the passages naming them)*
 
 ## Appears in
 

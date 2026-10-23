@@ -8,6 +8,10 @@ original: ["עֹבַדְיָ֫הוּ", "עַבְדָּא"]
 verses: 3
 chapters: 3
 first: "1 Chronicles 9:16"
+placed: "445 BC"
+placed_year: -444
+generation: 4
+sex: "male"
 tags: ["person"]
 ---
 
@@ -18,6 +22,30 @@ Gatekeeper, descendant of Jeduthun
 **Also called:** Abda
 
 **Original-language names:** עֹבַדְיָ֫הוּ (H5662) · עַבְדָּא (H5653)
+
+## When
+
+- **Placed around:** [[connections/timeline/5th century BC|445 BC]] *(Ussher: the median date of the passages naming them)*
+
+## Family
+
+- **Father:** [[connections/people/Shemaiah (1 Chronicles 9.16)|Shemaiah (1 Chronicles 9.16)]]
+- **Tribe or nation:** Tribe of Levi
+
+**Line of descent** (4 generations, father to son): [[connections/people/Jeduthun (1 Chronicles 9.16)|Jeduthun (1 Chronicles 9.16)]] → [[connections/people/Galal (1 Chronicles 9.16)|Galal (1 Chronicles 9.16)]] → [[connections/people/Shemaiah (1 Chronicles 9.16)|Shemaiah (1 Chronicles 9.16)]] → **Obadiah (1 Chronicles 9.16)**
+
+**Family group:** [[connections/genealogy/Family of Jeduthun (1 Chronicles 9.16)|Family of Jeduthun (1 Chronicles 9.16)]], generation 4
+
+```mermaid
+flowchart TB
+  n0["Obadiah (1 Chronicles 9.16)"]:::me
+  n1["Galal (1 Chronicles 9.16)"]
+  n2["Shemaiah (1 Chronicles 9.16)"]
+  n1 --> n2
+  n2 --> n0
+  classDef me stroke-width:3px
+  classDef spouse stroke-dasharray:4
+```
 
 ## Appears in
 

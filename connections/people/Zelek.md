@@ -7,6 +7,9 @@ original: ["צֶ֫לֶק"]
 verses: 2
 chapters: 2
 first: "2 Samuel 23:37"
+placed: "1055 BC"
+placed_year: -1054
+sex: "male"
 tags: ["person"]
 ---
 
@@ -15,6 +18,15 @@ tags: ["person"]
 Ammonite, one of David's mighty men
 
 **Original-language names:** צֶ֫לֶק (H6768)
+
+## When
+
+- **Placed around:** [[connections/timeline/11th century BC|1055 BC]] *(Ussher: the median date of the passages naming them)*
+
+## Family
+
+- **Tribe or nation:** Ammon
+
 
 ## Appears in
 

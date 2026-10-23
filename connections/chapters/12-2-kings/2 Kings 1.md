@@ -7,12 +7,16 @@ language: "Hebrew"
 verses: 18
 cross_references_out: 5
 cross_references_in: 7
+dated_from: -895
+dated_to: -895
 tags: ["chapter", "ot", "history"]
 ---
 
 # 2 Kings 1
 
 ← [[connections/chapters/11-1-kings/1 Kings 22|1 Kings 22]] · [[connections/books/2 Kings|2 Kings]] · [[connections/chapters/12-2-kings/2 Kings 2|2 Kings 2]] →
+
+**Dated** *(Ussher, after the Treasury of Scripture Knowledge)*: [[connections/timeline/9th century BC|896 BC]]
 
 ## Text
 

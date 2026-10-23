@@ -7,6 +7,10 @@ original: ["מְשֻׁלָּם"]
 verses: 3
 chapters: 2
 first: "Nehemiah 3:4"
+placed: "445 BC"
+placed_year: -444
+generation: 3
+sex: "male"
 tags: ["person"]
 ---
 
@@ -15,6 +19,32 @@ tags: ["person"]
 Helped repair the wall of Jerusalem under Nehemiah.
 
 **Original-language names:** מְשֻׁלָּם (H4918)
+
+## When
+
+- **Placed around:** [[connections/timeline/5th century BC|445 BC]] *(Ussher: the median date of the passages naming them)*
+
+## Family
+
+- **Father:** [[connections/people/Berechiah (Nehemiah 3.4)|Berechiah (Nehemiah 3.4)]]
+- **Children:** [[connections/people/daughter of Meshullam (Nehemiah 6.18)|daughter of Meshullam (Nehemiah 6.18)]]
+
+**Line of descent** (3 generations, father to son): [[connections/people/Meshezabel (Nehemiah 3.4)|Meshezabel (Nehemiah 3.4)]] → [[connections/people/Berechiah (Nehemiah 3.4)|Berechiah (Nehemiah 3.4)]] → **Meshullam (Nehemiah 3.4)**
+
+**Family group:** [[connections/genealogy/Family of Meshezabel (Nehemiah 3.4)|Family of Meshezabel (Nehemiah 3.4)]], generation 3
+
+```mermaid
+flowchart TB
+  n0["Meshullam (Nehemiah 3.4)"]:::me
+  n1["Meshezabel (Nehemiah 3.4)"]
+  n2["Berechiah (Nehemiah 3.4)"]
+  n1 --> n2
+  n2 --> n0
+  n3["daughter of Meshullam (Nehemiah 6.18)"]
+  n0 --> n3
+  classDef me stroke-width:3px
+  classDef spouse stroke-dasharray:4
+```
 
 ## Appears in
 

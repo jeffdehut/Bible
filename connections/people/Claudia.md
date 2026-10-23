@@ -7,6 +7,9 @@ original: ["Κλαυδία"]
 verses: 1
 chapters: 1
 first: "2 Timothy 4:21"
+placed: "AD 66"
+placed_year: 66
+sex: "female"
 tags: ["person"]
 ---
 
@@ -15,6 +18,10 @@ tags: ["person"]
 Believer in Rome who sent greetings to Timothy
 
 **Original-language names:** Κλαυδία (G2803)
+
+## When
+
+- **Placed around:** [[connections/timeline/1st century AD|AD 66]] *(Ussher: the median date of the passages naming them)*
 
 ## Appears in
 

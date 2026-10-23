@@ -17,6 +17,10 @@ A place where the Israelites tested God
 
 **Original-language names:** מַסָּה (H4532)
 
+## Events
+
+- [[connections/timeline/15th century BC|1491 BC]] · [[connections/events/Wilderness Wanderings|Wilderness Wanderings]]
+
 ## Appears in
 
 [[connections/chapters/02-exodus/Exodus 17|Exodus 17]] · [[connections/chapters/05-deuteronomy/Deuteronomy 6|Deuteronomy 6]] · [[connections/chapters/05-deuteronomy/Deuteronomy 9|Deuteronomy 9]] · [[connections/chapters/05-deuteronomy/Deuteronomy 33|Deuteronomy 33]] · [[connections/chapters/19-psalms/Psalms 95|Psalms 95]]

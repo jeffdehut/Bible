@@ -7,6 +7,9 @@ original: ["פַּרְעֹה", "Φαραώ"]
 verses: 111
 chapters: 26
 first: "Exodus 3:10"
+placed: "1491 BC"
+placed_year: -1490
+sex: "male"
 tags: ["person"]
 ---
 
@@ -15,6 +18,15 @@ tags: ["person"]
 Egyptian Pharaoh during the Exodus
 
 **Original-language names:** פַּרְעֹה (H6547) · Φαραώ (G5328)
+
+## When
+
+- **Placed around:** [[connections/timeline/15th century BC|1491 BC]] *(Ussher: the median date of the passages naming them)*
+
+## Family
+
+- **Tribe or nation:** Egypt
+
 
 ## Appears in
 

@@ -7,6 +7,10 @@ original: ["רָחָב", "Ῥαάβ", "Ῥαχάβ"]
 verses: 8
 chapters: 5
 first: "Joshua 2:1"
+placed: "1451 BC"
+placed_year: -1450
+generation: 32
+sex: "female"
 tags: ["person"]
 ---
 
@@ -15,6 +19,28 @@ tags: ["person"]
 A Canaanite woman who helped the Israelite spies in Jericho
 
 **Original-language names:** רָחָב (H7343) · Ῥαάβ (G4460) · Ῥαχάβ (G4477)
+
+## When
+
+- **Placed around:** [[connections/timeline/15th century BC|1451 BC]] *(Ussher: the median date of the passages naming them)*
+
+## Family
+
+- **Spouses:** [[connections/people/Salmon|Salmon]]
+- **Children:** [[connections/people/Boaz|Boaz (uncertain, descendants)]]
+
+**Family group:** [[connections/genealogy/Family of Adam|Family of Adam]], generation 32
+
+```mermaid
+flowchart TB
+  n0["Rahab"]:::me
+  n1["Salmon"]:::spouse
+  n0 -.- n1
+  n2["Boaz"]
+  n0 --> n2
+  classDef me stroke-width:3px
+  classDef spouse stroke-dasharray:4
+```
 
 ## Appears in
 

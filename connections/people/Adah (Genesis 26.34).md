@@ -8,6 +8,10 @@ original: ["עָדָה", "בָּֽשְׂמַת"]
 verses: 6
 chapters: 2
 first: "Genesis 26:34"
+placed: "1774 BC"
+placed_year: -1773
+generation: 2
+sex: "female"
 tags: ["person"]
 ---
 
@@ -18,6 +22,32 @@ Hittite wife of Esau; mother of Eliphaz
 **Also called:** Basemath
 
 **Original-language names:** עָדָה (H5711) · בָּֽשְׂמַת (H1315)
+
+## When
+
+- **Placed around:** [[connections/timeline/18th century BC|1774 BC]] *(Ussher: the median date of the passages naming them)*
+
+## Family
+
+- **Father:** [[connections/people/Elon (Genesis 26.34)|Elon (Genesis 26.34)]]
+- **Spouses:** [[connections/people/Esau|Esau]]
+- **Children:** [[connections/people/Eliphaz (Genesis 36.4)|Eliphaz (Genesis 36.4)]]
+- **Tribe or nation:** Edom
+
+**Family group:** [[connections/genealogy/Family of Adam|Family of Adam]], generation 2
+
+```mermaid
+flowchart TB
+  n0["Adah (Genesis 26.34)"]:::me
+  n1["Elon (Genesis 26.34)"]
+  n1 --> n0
+  n2["Esau"]:::spouse
+  n0 -.- n2
+  n3["Eliphaz (Genesis 36.4)"]
+  n0 --> n3
+  classDef me stroke-width:3px
+  classDef spouse stroke-dasharray:4
+```
 
 ## Appears in
 

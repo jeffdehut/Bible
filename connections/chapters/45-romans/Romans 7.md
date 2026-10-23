@@ -7,12 +7,16 @@ language: "Greek"
 verses: 25
 cross_references_out: 112
 cross_references_in: 109
+dated_from: 60
+dated_to: 60
 tags: ["chapter", "nt", "pauline-epistles"]
 ---
 
 # Romans 7
 
 ← [[connections/chapters/45-romans/Romans 6|Romans 6]] · [[connections/books/Romans|Romans]] · [[connections/chapters/45-romans/Romans 8|Romans 8]] →
+
+**Dated** *(Ussher, after the Treasury of Scripture Knowledge)*: [[connections/timeline/1st century AD|AD 60]]
 
 ## Text
 

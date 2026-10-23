@@ -7,6 +7,9 @@ original: ["מַתִּתְיָ֫הוּ"]
 verses: 1
 chapters: 1
 first: "Ezra 10:43"
+placed: "456 BC"
+placed_year: -455
+sex: "male"
 tags: ["person"]
 ---
 
@@ -15,6 +18,10 @@ tags: ["person"]
 Descendant of Nebo, who divorced his foreign wife.
 
 **Original-language names:** מַתִּתְיָ֫הוּ (H4993)
+
+## When
+
+- **Placed around:** [[connections/timeline/5th century BC|456 BC]] *(Ussher: the median date of the passages naming them)*
 
 ## Appears in
 

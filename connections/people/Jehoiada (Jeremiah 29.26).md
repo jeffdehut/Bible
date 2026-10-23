@@ -7,6 +7,9 @@ original: ["יְהוֹיָדָע"]
 verses: 1
 chapters: 1
 first: "Jeremiah 29:26"
+placed: "599 BC"
+placed_year: -598
+sex: "male"
 tags: ["person"]
 ---
 
@@ -15,6 +18,10 @@ tags: ["person"]
 Overseer in the house of the Lord
 
 **Original-language names:** יְהוֹיָדָע (H3077)
+
+## When
+
+- **Placed around:** [[connections/timeline/6th century BC|599 BC]] *(Ussher: the median date of the passages naming them)*
 
 ## Appears in
 

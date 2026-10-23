@@ -7,6 +7,10 @@ original: ["חֲנַנְיָ֫הוּ"]
 verses: 8
 chapters: 1
 first: "Jeremiah 28:1"
+placed: "595 BC"
+placed_year: -594
+generation: 2
+sex: "male"
 tags: ["person"]
 ---
 
@@ -15,6 +19,25 @@ tags: ["person"]
 A false prophet who opposed Jeremiah's prophecies.
 
 **Original-language names:** חֲנַנְיָ֫הוּ (H2608a)
+
+## When
+
+- **Placed around:** [[connections/timeline/6th century BC|595 BC]] *(Ussher: the median date of the passages naming them)*
+
+## Family
+
+- **Father:** [[connections/people/Azzur (Jeremiah 28.1)|Azzur (Jeremiah 28.1)]]
+
+**Family group:** [[connections/genealogy/Family of Azzur (Jeremiah 28.1)|Family of Azzur (Jeremiah 28.1)]], generation 2
+
+```mermaid
+flowchart TB
+  n0["Hananiah (Jeremiah 28.1)"]:::me
+  n1["Azzur (Jeremiah 28.1)"]
+  n1 --> n0
+  classDef me stroke-width:3px
+  classDef spouse stroke-dasharray:4
+```
 
 ## Appears in
 

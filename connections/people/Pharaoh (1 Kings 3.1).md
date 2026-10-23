@@ -7,6 +7,10 @@ original: ["פַּרְעֹה"]
 verses: 12
 chapters: 6
 first: "1 Kings 3:1"
+placed: "984 BC"
+placed_year: -983
+generation: 2
+sex: "male"
 tags: ["person"]
 ---
 
@@ -15,6 +19,29 @@ tags: ["person"]
 Egyptian Pharaoh during Solomon's reign
 
 **Original-language names:** פַּרְעֹה (H6547)
+
+## When
+
+- **Placed around:** [[connections/timeline/10th century BC|984 BC]] *(Ussher: the median date of the passages naming them)*
+
+## Family
+
+- **Spouses:** [[connections/people/Tahpenes|Tahpenes]]
+- **Children:** [[connections/people/daughter of Pharaoh (1 Kings 3.1)|daughter of Pharaoh (1 Kings 3.1)]]
+- **Tribe or nation:** Egypt
+
+**Family group:** [[connections/genealogy/Family of father of Tahpenes (1 Kings 11.19)|Family of father of Tahpenes (1 Kings 11.19)]], generation 2
+
+```mermaid
+flowchart TB
+  n0["Pharaoh (1 Kings 3.1)"]:::me
+  n1["Tahpenes"]:::spouse
+  n0 -.- n1
+  n2["daughter of Pharaoh (1 Kings 3.1)"]
+  n0 --> n2
+  classDef me stroke-width:3px
+  classDef spouse stroke-dasharray:4
+```
 
 ## Appears in
 

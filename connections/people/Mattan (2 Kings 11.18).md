@@ -7,6 +7,9 @@ original: ["מַתָּן"]
 verses: 2
 chapters: 2
 first: "2 Kings 11:18"
+placed: "878 BC"
+placed_year: -877
+sex: "male"
 tags: ["person"]
 ---
 
@@ -15,6 +18,10 @@ tags: ["person"]
 Priest of Baal, killed during Jehoiada's reforms.
 
 **Original-language names:** מַתָּן (H4977)
+
+## When
+
+- **Placed around:** [[connections/timeline/9th century BC|878 BC]] *(Ussher: the median date of the passages naming them)*
 
 ## Appears in
 

@@ -7,12 +7,16 @@ language: "Hebrew"
 verses: 29
 cross_references_out: 1
 cross_references_in: 10
+dated_from: -1490
+dated_to: -1490
 tags: ["chapter", "ot", "torah"]
 ---
 
 # Exodus 10
 
 ← [[connections/chapters/02-exodus/Exodus 9|Exodus 9]] · [[connections/books/Exodus|Exodus]] · [[connections/chapters/02-exodus/Exodus 11|Exodus 11]] →
+
+**Dated** *(Ussher, after the Treasury of Scripture Knowledge)*: [[connections/timeline/15th century BC|1491 BC]]
 
 ## Text
 

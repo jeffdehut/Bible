@@ -7,6 +7,9 @@ original: ["אֲמַרְיָ֫הוּ"]
 verses: 1
 chapters: 1
 first: "2 Chronicles 19:11"
+placed: "896 BC"
+placed_year: -895
+sex: "male"
 tags: ["person"]
 ---
 
@@ -15,6 +18,10 @@ tags: ["person"]
 Chief priest under King Jehoshaphat of Judah
 
 **Original-language names:** אֲמַרְיָ֫הוּ (H0568)
+
+## When
+
+- **Placed around:** [[connections/timeline/9th century BC|896 BC]] *(Ussher: the median date of the passages naming them)*
 
 ## Appears in
 

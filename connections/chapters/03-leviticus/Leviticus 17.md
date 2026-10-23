@@ -7,12 +7,16 @@ language: "Hebrew"
 verses: 16
 cross_references_out: 25
 cross_references_in: 7
+dated_from: -1489
+dated_to: -1489
 tags: ["chapter", "ot", "torah"]
 ---
 
 # Leviticus 17
 
 ← [[connections/chapters/03-leviticus/Leviticus 16|Leviticus 16]] · [[connections/books/Leviticus|Leviticus]] · [[connections/chapters/03-leviticus/Leviticus 18|Leviticus 18]] →
+
+**Dated** *(Ussher, after the Treasury of Scripture Knowledge)*: [[connections/timeline/15th century BC|1490 BC]]
 
 ## Text
 

@@ -7,12 +7,16 @@ language: "Hebrew"
 verses: 27
 cross_references_out: 5
 cross_references_in: 10
+dated_from: -1490
+dated_to: -1490
 tags: ["chapter", "ot", "torah"]
 ---
 
 # Exodus 18
 
 ← [[connections/chapters/02-exodus/Exodus 17|Exodus 17]] · [[connections/books/Exodus|Exodus]] · [[connections/chapters/02-exodus/Exodus 19|Exodus 19]] →
+
+**Dated** *(Ussher, after the Treasury of Scripture Knowledge)*: [[connections/timeline/15th century BC|1491 BC]]
 
 ## Text
 

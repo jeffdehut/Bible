@@ -7,12 +7,16 @@ language: "Hebrew"
 verses: 24
 cross_references_out: 3
 cross_references_in: 14
+dated_from: -593
+dated_to: -593
 tags: ["chapter", "ot", "prophets"]
 ---
 
 # Ezekiel 17
 
 ← [[connections/chapters/26-ezekiel/Ezekiel 16|Ezekiel 16]] · [[connections/books/Ezekiel|Ezekiel]] · [[connections/chapters/26-ezekiel/Ezekiel 18|Ezekiel 18]] →
+
+**Dated** *(Ussher, after the Treasury of Scripture Knowledge)*: [[connections/timeline/6th century BC|594 BC]]
 
 ## Text
 

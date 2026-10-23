@@ -7,6 +7,10 @@ original: ["מַלְכִּיָּהוּ"]
 verses: 2
 chapters: 2
 first: "1 Chronicles 9:12"
+placed: "445 BC"
+placed_year: -444
+generation: 2
+sex: "male"
 tags: ["person"]
 ---
 
@@ -15,6 +19,32 @@ tags: ["person"]
 Priest during the time of Nehemiah.
 
 **Original-language names:** מַלְכִּיָּהוּ (H4441)
+
+## When
+
+- **Placed around:** [[connections/timeline/5th century BC|445 BC]] *(Ussher: the median date of the passages naming them)*
+
+## Family
+
+- **Father:** [[connections/people/Hammelech|Hammelech]]
+- **Brothers and sisters:** [[connections/people/Jerahmeel (Jeremiah 36.26)|Jerahmeel (Jeremiah 36.26)]]
+- **Children:** [[connections/people/Pashhur (1 Chronicles 9.12)|Pashhur (1 Chronicles 9.12)]]
+- **Tribe or nation:** Tribe of Levi
+
+**Family group:** [[connections/genealogy/Family of Hammelech|Family of Hammelech]], generation 2
+
+```mermaid
+flowchart TB
+  n0["Malchijah (1 Chronicles 9.12)"]:::me
+  n1["Hammelech"]
+  n1 --> n0
+  n2["Jerahmeel (Jeremiah 36.26)"]
+  n1 --> n2
+  n3["Pashhur (1 Chronicles 9.12)"]
+  n0 --> n3
+  classDef me stroke-width:3px
+  classDef spouse stroke-dasharray:4
+```
 
 ## Appears in
 

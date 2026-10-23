@@ -7,12 +7,16 @@ language: "Hebrew"
 verses: 47
 cross_references_out: 12
 cross_references_in: 16
+dated_from: -1489
+dated_to: -1489
 tags: ["chapter", "ot", "torah"]
 ---
 
 # Leviticus 11
 
 ← [[connections/chapters/03-leviticus/Leviticus 10|Leviticus 10]] · [[connections/books/Leviticus|Leviticus]] · [[connections/chapters/03-leviticus/Leviticus 12|Leviticus 12]] →
+
+**Dated** *(Ussher, after the Treasury of Scripture Knowledge)*: [[connections/timeline/15th century BC|1490 BC]]
 
 ## Text
 

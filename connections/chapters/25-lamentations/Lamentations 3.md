@@ -7,12 +7,16 @@ language: "Hebrew"
 verses: 66
 cross_references_out: 131
 cross_references_in: 116
+dated_from: -587
+dated_to: -587
 tags: ["chapter", "ot", "prophets"]
 ---
 
 # Lamentations 3
 
 ← [[connections/chapters/25-lamentations/Lamentations 2|Lamentations 2]] · [[connections/books/Lamentations|Lamentations]] · [[connections/chapters/25-lamentations/Lamentations 4|Lamentations 4]] →
+
+**Dated** *(Ussher, after the Treasury of Scripture Knowledge)*: [[connections/timeline/6th century BC|588 BC]]
 
 ## Text
 

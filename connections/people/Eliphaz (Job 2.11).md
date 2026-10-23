@@ -7,6 +7,9 @@ original: ["אֱלִיפַז"]
 verses: 6
 chapters: 5
 first: "Job 2:11"
+placed: "1520 BC"
+placed_year: -1519
+sex: "male"
 tags: ["person"]
 ---
 
@@ -15,6 +18,10 @@ tags: ["person"]
 A Temanite, one of Job's three friends.
 
 **Original-language names:** אֱלִיפַז (H0464)
+
+## When
+
+- **Placed around:** [[connections/timeline/16th century BC|1520 BC]] *(Ussher: the median date of the passages naming them)*
 
 ## Appears in
 

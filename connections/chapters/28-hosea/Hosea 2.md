@@ -7,12 +7,16 @@ language: "Hebrew"
 verses: 25
 cross_references_out: 63
 cross_references_in: 42
+dated_from: -784
+dated_to: -784
 tags: ["chapter", "ot", "prophets"]
 ---
 
 # Hosea 2
 
 ← [[connections/chapters/28-hosea/Hosea 1|Hosea 1]] · [[connections/books/Hosea|Hosea]] · [[connections/chapters/28-hosea/Hosea 3|Hosea 3]] →
+
+**Dated** *(Ussher, after the Treasury of Scripture Knowledge)*: [[connections/timeline/8th century BC|785 BC]]
 
 ## Text
 

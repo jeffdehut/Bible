@@ -7,6 +7,10 @@ original: ["שַׁמְגַּר"]
 verses: 2
 chapters: 2
 first: "Judges 3:31"
+placed: "1325 BC"
+placed_year: -1324
+generation: 2
+sex: "male"
 tags: ["person"]
 ---
 
@@ -15,6 +19,25 @@ tags: ["person"]
 Judge of Israel who killed 600 Philistines
 
 **Original-language names:** שַׁמְגַּר (H8044)
+
+## When
+
+- **Placed around:** [[connections/timeline/14th century BC|1325 BC]] *(Ussher: the median date of the passages naming them)*
+
+## Family
+
+- **Father:** [[connections/people/Anath|Anath]]
+
+**Family group:** [[connections/genealogy/Family of Anath|Family of Anath]], generation 2
+
+```mermaid
+flowchart TB
+  n0["Shamgar"]:::me
+  n1["Anath"]
+  n1 --> n0
+  classDef me stroke-width:3px
+  classDef spouse stroke-dasharray:4
+```
 
 ## Appears in
 

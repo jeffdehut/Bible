@@ -7,12 +7,16 @@ language: "Hebrew"
 verses: 17
 cross_references_out: 9
 cross_references_in: 18
+dated_from: -486
+dated_to: -486
 tags: ["chapter", "ot", "prophets"]
 ---
 
 # Zechariah 11
 
 ← [[connections/chapters/38-zechariah/Zechariah 10|Zechariah 10]] · [[connections/books/Zechariah|Zechariah]] · [[connections/chapters/38-zechariah/Zechariah 12|Zechariah 12]] →
+
+**Dated** *(Ussher, after the Treasury of Scripture Knowledge)*: [[connections/timeline/5th century BC|487 BC]]
 
 ## Text
 

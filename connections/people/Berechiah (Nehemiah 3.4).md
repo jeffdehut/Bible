@@ -7,6 +7,10 @@ original: ["בֶּרֶכְיָה"]
 verses: 3
 chapters: 2
 first: "Nehemiah 3:4"
+placed: "445 BC"
+placed_year: -444
+generation: 2
+sex: "male"
 tags: ["person"]
 ---
 
@@ -15,6 +19,28 @@ tags: ["person"]
 Israelite who helped repair Jerusalem's wall
 
 **Original-language names:** בֶּרֶכְיָה (H1296)
+
+## When
+
+- **Placed around:** [[connections/timeline/5th century BC|445 BC]] *(Ussher: the median date of the passages naming them)*
+
+## Family
+
+- **Father:** [[connections/people/Meshezabel (Nehemiah 3.4)|Meshezabel (Nehemiah 3.4)]]
+- **Children:** [[connections/people/Meshullam (Nehemiah 3.4)|Meshullam (Nehemiah 3.4)]]
+
+**Family group:** [[connections/genealogy/Family of Meshezabel (Nehemiah 3.4)|Family of Meshezabel (Nehemiah 3.4)]], generation 2
+
+```mermaid
+flowchart TB
+  n0["Berechiah (Nehemiah 3.4)"]:::me
+  n1["Meshezabel (Nehemiah 3.4)"]
+  n1 --> n0
+  n2["Meshullam (Nehemiah 3.4)"]
+  n0 --> n2
+  classDef me stroke-width:3px
+  classDef spouse stroke-dasharray:4
+```
 
 ## Appears in
 

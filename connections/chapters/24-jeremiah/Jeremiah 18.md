@@ -7,12 +7,16 @@ language: "Hebrew/Aramaic"
 verses: 23
 cross_references_out: 16
 cross_references_in: 22
+dated_from: -607
+dated_to: -607
 tags: ["chapter", "ot", "prophets"]
 ---
 
 # Jeremiah 18
 
 ← [[connections/chapters/24-jeremiah/Jeremiah 17|Jeremiah 17]] · [[connections/books/Jeremiah|Jeremiah]] · [[connections/chapters/24-jeremiah/Jeremiah 19|Jeremiah 19]] →
+
+**Dated** *(Ussher, after the Treasury of Scripture Knowledge)*: [[connections/timeline/7th century BC|608 BC]]
 
 ## Text
 

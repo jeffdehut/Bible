@@ -7,12 +7,16 @@ language: "Hebrew"
 verses: 17
 cross_references_out: 40
 cross_references_in: 39
+dated_from: -1519
+dated_to: -1519
 tags: ["chapter", "ot", "wisdom"]
 ---
 
 # Job 23
 
 ← [[connections/chapters/18-job/Job 22|Job 22]] · [[connections/books/Job|Job]] · [[connections/chapters/18-job/Job 24|Job 24]] →
+
+**Dated** *(Ussher, after the Treasury of Scripture Knowledge)*: [[connections/timeline/16th century BC|1520 BC]]
 
 ## Text
 

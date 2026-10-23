@@ -7,12 +7,16 @@ language: "Hebrew"
 verses: 29
 cross_references_out: 10
 cross_references_in: 20
+dated_from: -1450
+dated_to: -1450
 tags: ["chapter", "ot", "torah"]
 ---
 
 # Deuteronomy 14
 
 ← [[connections/chapters/05-deuteronomy/Deuteronomy 13|Deuteronomy 13]] · [[connections/books/Deuteronomy|Deuteronomy]] · [[connections/chapters/05-deuteronomy/Deuteronomy 15|Deuteronomy 15]] →
+
+**Dated** *(Ussher, after the Treasury of Scripture Knowledge)*: [[connections/timeline/15th century BC|1451 BC]]
 
 ## Text
 

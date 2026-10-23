@@ -7,12 +7,16 @@ language: "Hebrew"
 verses: 38
 cross_references_out: 1
 cross_references_in: 2
+dated_from: -1490
+dated_to: -1490
 tags: ["chapter", "ot", "torah"]
 ---
 
 # Exodus 36
 
 ← [[connections/chapters/02-exodus/Exodus 35|Exodus 35]] · [[connections/books/Exodus|Exodus]] · [[connections/chapters/02-exodus/Exodus 37|Exodus 37]] →
+
+**Dated** *(Ussher, after the Treasury of Scripture Knowledge)*: [[connections/timeline/15th century BC|1491 BC]]
 
 ## Text
 

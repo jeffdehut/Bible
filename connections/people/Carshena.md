@@ -7,6 +7,9 @@ original: ["כַּרְשְׁנָא"]
 verses: 1
 chapters: 1
 first: "Esther 1:14"
+placed: "462 BC"
+placed_year: -461
+sex: "male"
 tags: ["person"]
 ---
 
@@ -15,6 +18,10 @@ tags: ["person"]
 Prince in King Ahasuerus' court
 
 **Original-language names:** כַּרְשְׁנָא (H3771)
+
+## When
+
+- **Placed around:** [[connections/timeline/5th century BC|462 BC]] *(Ussher: the median date of the passages naming them)*
 
 ## Appears in
 

@@ -7,12 +7,16 @@ language: "Hebrew"
 verses: 14
 cross_references_out: 7
 cross_references_in: 23
+dated_from: -517
+dated_to: -517
 tags: ["chapter", "ot", "prophets"]
 ---
 
 # Zechariah 7
 
 ← [[connections/chapters/38-zechariah/Zechariah 6|Zechariah 6]] · [[connections/books/Zechariah|Zechariah]] · [[connections/chapters/38-zechariah/Zechariah 8|Zechariah 8]] →
+
+**Dated** *(Ussher, after the Treasury of Scripture Knowledge)*: [[connections/timeline/6th century BC|518 BC]]
 
 ## Text
 

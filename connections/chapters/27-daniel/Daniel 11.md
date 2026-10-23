@@ -7,12 +7,16 @@ language: "Hebrew/Aramaic"
 verses: 45
 cross_references_out: 20
 cross_references_in: 19
+dated_from: -533
+dated_to: -533
 tags: ["chapter", "ot", "prophets"]
 ---
 
 # Daniel 11
 
 ← [[connections/chapters/27-daniel/Daniel 10|Daniel 10]] · [[connections/books/Daniel|Daniel]] · [[connections/chapters/27-daniel/Daniel 12|Daniel 12]] →
+
+**Dated** *(Ussher, after the Treasury of Scripture Knowledge)*: [[connections/timeline/6th century BC|534 BC]]
 
 ## Text
 

@@ -7,12 +7,16 @@ language: "Hebrew"
 verses: 33
 cross_references_out: 1
 cross_references_in: 12
+dated_from: -640
+dated_to: -623
 tags: ["chapter", "ot", "history"]
 ---
 
 # 2 Chronicles 34
 
 ← [[connections/chapters/14-2-chronicles/2 Chronicles 33|2 Chronicles 33]] · [[connections/books/2 Chronicles|2 Chronicles]] · [[connections/chapters/14-2-chronicles/2 Chronicles 35|2 Chronicles 35]] →
+
+**Dated** *(Ussher, after the Treasury of Scripture Knowledge)*: [[connections/timeline/7th century BC|641 BC]] – [[connections/timeline/7th century BC|624 BC]]
 
 ## Text
 

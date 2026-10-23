@@ -7,12 +7,16 @@ language: "Hebrew/Aramaic"
 verses: 21
 cross_references_out: 15
 cross_references_in: 27
+dated_from: -604
+dated_to: -604
 tags: ["chapter", "ot", "prophets"]
 ---
 
 # Jeremiah 16
 
 ← [[connections/chapters/24-jeremiah/Jeremiah 15|Jeremiah 15]] · [[connections/books/Jeremiah|Jeremiah]] · [[connections/chapters/24-jeremiah/Jeremiah 17|Jeremiah 17]] →
+
+**Dated** *(Ussher, after the Treasury of Scripture Knowledge)*: [[connections/timeline/7th century BC|605 BC]]
 
 ## Text
 

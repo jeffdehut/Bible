@@ -7,6 +7,9 @@ original: ["עִירָא"]
 verses: 2
 chapters: 2
 first: "2 Samuel 23:38"
+placed: "1055 BC"
+placed_year: -1054
+sex: "male"
 tags: ["person"]
 ---
 
@@ -15,6 +18,10 @@ tags: ["person"]
 One of David's Thirty warriors, an Ithrite.
 
 **Original-language names:** עִירָא (H5896)
+
+## When
+
+- **Placed around:** [[connections/timeline/11th century BC|1055 BC]] *(Ussher: the median date of the passages naming them)*
 
 ## Appears in
 

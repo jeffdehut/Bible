@@ -8,6 +8,9 @@ original: ["Φῆστος", "Πόρκιος"]
 verses: 13
 chapters: 3
 first: "Acts 24:27"
+placed: "AD 62"
+placed_year: 62
+sex: "male"
 tags: ["person"]
 ---
 
@@ -18,6 +21,18 @@ Roman governor of Judea; heard Paul's case; sent him to Rome.
 **Also called:** Porcius
 
 **Original-language names:** Φῆστος (G5347) · Πόρκιος (G4201)
+
+## When
+
+- **Placed around:** [[connections/timeline/1st century AD|AD 62]] *(Ussher: the median date of the passages naming them)*
+- **Reigned / in office:** c. [[connections/timeline/1st century AD|AD 60]] – [[connections/timeline/1st century AD|AD 62]] *(modern dates)* · Porcius Festus, Roman officials · [Wikidata Q464307](https://www.wikidata.org/wiki/Q464307) · Procurator of Judea
+
+## Events
+
+- [[connections/timeline/1st century AD|AD 56]] · [[connections/events/Paul sent to Felix|Paul sent to Felix]]
+- [[connections/timeline/1st century AD|AD 56]] · [[connections/events/Paul appeals to Caesar|Paul appeals to Caesar]]
+- [[connections/timeline/1st century AD|AD 56]] · [[connections/events/Agrippa and Bernice meet Festus|Agrippa and Bernice meet Festus]]
+- [[connections/timeline/1st century AD|AD 56]] · [[connections/events/Paul goes before Agrippa|Paul goes before Agrippa]]
 
 ## Appears in
 

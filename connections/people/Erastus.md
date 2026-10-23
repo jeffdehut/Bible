@@ -7,6 +7,9 @@ original: ["Ἔραστος"]
 verses: 3
 chapters: 3
 first: "Acts 19:22"
+placed: "AD 60"
+placed_year: 60
+sex: "male"
 tags: ["person"]
 ---
 
@@ -15,6 +18,14 @@ tags: ["person"]
 Companion of Paul; served as city treasurer in Corinth.
 
 **Original-language names:** Ἔραστος (G2037)
+
+## When
+
+- **Placed around:** [[connections/timeline/1st century AD|AD 60]] *(Ussher: the median date of the passages naming them)*
+
+## Events
+
+- [[connections/timeline/1st century AD|AD 53]] · [[connections/events/Mission to Ephesus-1 Cor Written|Mission to Ephesus/1 Cor Written]]
 
 ## Appears in
 

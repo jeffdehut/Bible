@@ -7,12 +7,16 @@ language: "Greek"
 verses: 23
 cross_references_out: 187
 cross_references_in: 182
+dated_from: 64
+dated_to: 64
 tags: ["chapter", "nt", "pauline-epistles"]
 ---
 
 # Colossians 2
 
 ← [[connections/chapters/51-colossians/Colossians 1|Colossians 1]] · [[connections/books/Colossians|Colossians]] · [[connections/chapters/51-colossians/Colossians 3|Colossians 3]] →
+
+**Dated** *(Ussher, after the Treasury of Scripture Knowledge)*: [[connections/timeline/1st century AD|AD 64]]
 
 ## Text
 

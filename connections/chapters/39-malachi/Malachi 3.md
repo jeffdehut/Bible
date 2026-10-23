@@ -7,12 +7,16 @@ language: "Hebrew"
 verses: 24
 cross_references_out: 218
 cross_references_in: 175
+dated_from: -396
+dated_to: -396
 tags: ["chapter", "ot", "prophets"]
 ---
 
 # Malachi 3
 
 ← [[connections/chapters/39-malachi/Malachi 2|Malachi 2]] · [[connections/books/Malachi|Malachi]] · [[connections/chapters/40-matthew/Matthew 1|Matthew 1]] →
+
+**Dated** *(Ussher, after the Treasury of Scripture Knowledge)*: [[connections/timeline/4th century BC|397 BC]]
 
 ## Text
 

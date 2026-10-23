@@ -20,6 +20,10 @@ Lake in northern Israel; and the plain on its north west
 
 **Original-language names:** כִּנֶּ֫רֶת (H3672) · כִּנֶּ֫רוֹת (H3672) · Γαλιλαία (G1056) · Γεννησαρέτ (G1082) · Τιβεριάς (G5085)
 
+## Events
+
+- [[connections/timeline/1st century AD|AD 29]] · [[connections/events/Healing in Gennesaret|Healing in Gennesaret]]
+
 ## Appears in
 
 [[connections/chapters/04-numbers/Numbers 34|Numbers 34]] · [[connections/chapters/05-deuteronomy/Deuteronomy 3|Deuteronomy 3]] · [[connections/chapters/06-joshua/Joshua 11|Joshua 11]] · [[connections/chapters/06-joshua/Joshua 12|Joshua 12]] · [[connections/chapters/06-joshua/Joshua 13|Joshua 13]] · [[connections/chapters/06-joshua/Joshua 19|Joshua 19]] · [[connections/chapters/11-1-kings/1 Kings 15|1 Kings 15]] · [[connections/chapters/40-matthew/Matthew 4|Matthew 4]] · [[connections/chapters/40-matthew/Matthew 14|Matthew 14]] · [[connections/chapters/40-matthew/Matthew 15|Matthew 15]] · [[connections/chapters/41-mark/Mark 1|Mark 1]] · [[connections/chapters/41-mark/Mark 6|Mark 6]] · [[connections/chapters/41-mark/Mark 7|Mark 7]] · [[connections/chapters/42-luke/Luke 5|Luke 5]] · [[connections/chapters/43-john/John 6|John 6]] · [[connections/chapters/43-john/John 21|John 21]]

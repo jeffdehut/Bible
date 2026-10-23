@@ -7,6 +7,9 @@ original: ["צִיבָא"]
 verses: 13
 chapters: 3
 first: "2 Samuel 9:2"
+placed: "1040 BC"
+placed_year: -1039
+sex: "male"
 tags: ["person"]
 ---
 
@@ -15,6 +18,10 @@ tags: ["person"]
 Servant of Saul's household, later served David
 
 **Original-language names:** צִיבָא (H6717)
+
+## When
+
+- **Placed around:** [[connections/timeline/11th century BC|1040 BC]] *(Ussher: the median date of the passages naming them)*
 
 ## Appears in
 

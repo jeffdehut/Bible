@@ -7,12 +7,16 @@ language: "Greek"
 verses: 25
 cross_references_out: 12
 cross_references_in: 17
+dated_from: 64
+dated_to: 64
 tags: ["chapter", "nt", "pauline-epistles"]
 ---
 
 # Philemon 1
 
 ← [[connections/chapters/56-titus/Titus 3|Titus 3]] · [[connections/books/Philemon|Philemon]] · [[connections/chapters/58-hebrews/Hebrews 1|Hebrews 1]] →
+
+**Dated** *(Ussher, after the Treasury of Scripture Knowledge)*: [[connections/timeline/1st century AD|AD 64]]
 
 ## Text
 

@@ -8,6 +8,9 @@ original: ["Ταβιθά", "Δορκάς"]
 verses: 3
 chapters: 1
 first: "Acts 9:36"
+placed: "AD 35"
+placed_year: 35
+sex: "female"
 tags: ["person"]
 ---
 
@@ -18,6 +21,14 @@ Charitable woman in Joppa whom Peter raised from the dead
 **Also called:** Dorcas
 
 **Original-language names:** Ταβιθά (G5000) · Δορκάς (G1393)
+
+## When
+
+- **Placed around:** [[connections/timeline/1st century AD|AD 35]] *(Ussher: the median date of the passages naming them)*
+
+## Events
+
+- [[connections/timeline/1st century AD|AD 38]] · [[connections/events/Peter heals Aeneas and Dorcas|Peter heals Aeneas and Dorcas]]
 
 ## Appears in
 

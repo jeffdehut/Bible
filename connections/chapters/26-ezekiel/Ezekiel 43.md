@@ -7,12 +7,16 @@ language: "Hebrew"
 verses: 27
 cross_references_out: 2
 cross_references_in: 17
+dated_from: -573
+dated_to: -573
 tags: ["chapter", "ot", "prophets"]
 ---
 
 # Ezekiel 43
 
 ← [[connections/chapters/26-ezekiel/Ezekiel 42|Ezekiel 42]] · [[connections/books/Ezekiel|Ezekiel]] · [[connections/chapters/26-ezekiel/Ezekiel 44|Ezekiel 44]] →
+
+**Dated** *(Ussher, after the Treasury of Scripture Knowledge)*: [[connections/timeline/6th century BC|574 BC]]
 
 ## Text
 

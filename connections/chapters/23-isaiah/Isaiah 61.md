@@ -7,12 +7,16 @@ language: "Hebrew"
 verses: 11
 cross_references_out: 121
 cross_references_in: 132
+dated_from: -697
+dated_to: -697
 tags: ["chapter", "ot", "prophets"]
 ---
 
 # Isaiah 61
 
 ← [[connections/chapters/23-isaiah/Isaiah 60|Isaiah 60]] · [[connections/books/Isaiah|Isaiah]] · [[connections/chapters/23-isaiah/Isaiah 62|Isaiah 62]] →
+
+**Dated** *(Ussher, after the Treasury of Scripture Knowledge)*: [[connections/timeline/7th century BC|698 BC]]
 
 ## Text
 

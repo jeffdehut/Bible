@@ -7,12 +7,16 @@ language: "Greek"
 verses: 29
 cross_references_out: 176
 cross_references_in: 198
+dated_from: 58
+dated_to: 58
 tags: ["chapter", "nt", "pauline-epistles"]
 ---
 
 # Galatians 3
 
 ← [[connections/chapters/48-galatians/Galatians 2|Galatians 2]] · [[connections/books/Galatians|Galatians]] · [[connections/chapters/48-galatians/Galatians 4|Galatians 4]] →
+
+**Dated** *(Ussher, after the Treasury of Scripture Knowledge)*: [[connections/timeline/1st century AD|AD 58]]
 
 ## Text
 

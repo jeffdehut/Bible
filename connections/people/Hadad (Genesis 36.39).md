@@ -8,6 +8,9 @@ original: ["הֲדַד", "הֲדַר"]
 verses: 3
 chapters: 2
 first: "Genesis 36:39"
+placed: "1853 BC"
+placed_year: -1852
+sex: "male"
 tags: ["person"]
 ---
 
@@ -18,6 +21,24 @@ The last king of Edom before Israelite rule.
 **Also called:** Hadar
 
 **Original-language names:** הֲדַד (H1908) · הֲדַר (H1924)
+
+## When
+
+- **Placed around:** [[connections/timeline/19th century BC|1853 BC]] *(Ussher: the median date of the passages naming them)*
+
+## Family
+
+- **Spouses:** [[connections/people/Mehetabel (Genesis 36.39)|Mehetabel (Genesis 36.39)]]
+- **Tribe or nation:** Edom
+
+```mermaid
+flowchart TB
+  n0["Hadad (Genesis 36.39)"]:::me
+  n1["Mehetabel (Genesis 36.39)"]:::spouse
+  n0 -.- n1
+  classDef me stroke-width:3px
+  classDef spouse stroke-dasharray:4
+```
 
 ## Appears in
 

@@ -7,12 +7,16 @@ language: "Hebrew"
 verses: 28
 cross_references_out: 42
 cross_references_in: 52
+dated_from: -1061
+dated_to: -1061
 tags: ["chapter", "ot", "wisdom"]
 ---
 
 # Psalms 35
 
 ← [[connections/chapters/19-psalms/Psalms 34|Psalms 34]] · [[connections/books/Psalms|Psalms]] · [[connections/chapters/19-psalms/Psalms 36|Psalms 36]] →
+
+**Dated** *(Ussher, after the Treasury of Scripture Knowledge)*: [[connections/timeline/11th century BC|1062 BC]]
 
 ## Text
 

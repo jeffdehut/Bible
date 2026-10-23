@@ -17,6 +17,10 @@ Wilderness area between Canaan and Egypt
 
 **Original-language names:** שׁוּר (H7793)
 
+## Events
+
+- [[connections/timeline/15th century BC|1491 BC]] · [[connections/events/Wilderness Wanderings|Wilderness Wanderings]]
+
 ## Appears in
 
 [[connections/chapters/01-genesis/Genesis 16|Genesis 16]] · [[connections/chapters/01-genesis/Genesis 20|Genesis 20]] · [[connections/chapters/01-genesis/Genesis 25|Genesis 25]] · [[connections/chapters/02-exodus/Exodus 15|Exodus 15]] · [[connections/chapters/09-1-samuel/1 Samuel 15|1 Samuel 15]] · [[connections/chapters/09-1-samuel/1 Samuel 27|1 Samuel 27]]

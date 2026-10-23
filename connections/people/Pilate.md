@@ -8,6 +8,9 @@ original: ["Πιλᾶτος", "Πόντιος"]
 verses: 53
 chapters: 11
 first: "Matthew 27:2"
+placed: "AD 33"
+placed_year: 33
+sex: "male"
 tags: ["person"]
 ---
 
@@ -18,6 +21,16 @@ Roman governor who presided over Jesus' trial
 **Also called:** Pontius
 
 **Original-language names:** Πιλᾶτος (G4091) · Πόντιος (G4194)
+
+## When
+
+- **Placed around:** [[connections/timeline/1st century AD|AD 33]] *(Ussher: the median date of the passages naming them)*
+- **Reigned / in office:** [[connections/timeline/1st century AD|AD 26]] – [[connections/timeline/1st century AD|AD 36]] *(modern dates)* · Pontius Pilate, Roman officials · Prefect of Judea
+
+## Events
+
+- [[connections/timeline/1st century AD|AD 30]] · [[connections/events/Roman Trials|Roman Trials]]
+- [[connections/timeline/1st century AD|AD 30]] · [[connections/events/Crucifixion and Burial|Crucifixion and Burial]]
 
 ## Appears in
 

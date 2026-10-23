@@ -7,12 +7,16 @@ language: "Greek"
 verses: 13
 cross_references_out: 161
 cross_references_in: 77
+dated_from: 59
+dated_to: 59
 tags: ["chapter", "nt", "pauline-epistles"]
 ---
 
 # 1 Corinthians 13
 
 ← [[connections/chapters/46-1-corinthians/1 Corinthians 12|1 Corinthians 12]] · [[connections/books/1 Corinthians|1 Corinthians]] · [[connections/chapters/46-1-corinthians/1 Corinthians 14|1 Corinthians 14]] →
+
+**Dated** *(Ussher, after the Treasury of Scripture Knowledge)*: [[connections/timeline/1st century AD|AD 59]]
 
 ## Text
 

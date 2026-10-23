@@ -7,12 +7,16 @@ language: "Hebrew"
 verses: 51
 cross_references_out: 0
 cross_references_in: 2
+dated_from: -1489
+dated_to: -1489
 tags: ["chapter", "ot", "torah"]
 ---
 
 # Numbers 3
 
 ← [[connections/chapters/04-numbers/Numbers 2|Numbers 2]] · [[connections/books/Numbers|Numbers]] · [[connections/chapters/04-numbers/Numbers 4|Numbers 4]] →
+
+**Dated** *(Ussher, after the Treasury of Scripture Knowledge)*: [[connections/timeline/15th century BC|1490 BC]]
 
 ## Text
 

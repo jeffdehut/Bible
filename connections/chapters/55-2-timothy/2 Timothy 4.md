@@ -7,12 +7,16 @@ language: "Greek"
 verses: 22
 cross_references_out: 133
 cross_references_in: 159
+dated_from: 66
+dated_to: 66
 tags: ["chapter", "nt", "pauline-epistles"]
 ---
 
 # 2 Timothy 4
 
 ← [[connections/chapters/55-2-timothy/2 Timothy 3|2 Timothy 3]] · [[connections/books/2 Timothy|2 Timothy]] · [[connections/chapters/56-titus/Titus 1|Titus 1]] →
+
+**Dated** *(Ussher, after the Treasury of Scripture Knowledge)*: [[connections/timeline/1st century AD|AD 66]]
 
 ## Text
 

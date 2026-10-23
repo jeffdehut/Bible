@@ -7,12 +7,16 @@ language: "Hebrew"
 verses: 14
 cross_references_out: 11
 cross_references_in: 21
+dated_from: -1061
+dated_to: -1061
 tags: ["chapter", "ot", "wisdom"]
 ---
 
 # Psalms 140
 
 ← [[connections/chapters/19-psalms/Psalms 139|Psalms 139]] · [[connections/books/Psalms|Psalms]] · [[connections/chapters/19-psalms/Psalms 141|Psalms 141]] →
+
+**Dated** *(Ussher, after the Treasury of Scripture Knowledge)*: [[connections/timeline/11th century BC|1062 BC]]
 
 ## Text
 

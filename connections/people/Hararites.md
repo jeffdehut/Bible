@@ -7,6 +7,8 @@ original: ["ארָרִֽי"]
 verses: 1
 chapters: 1
 first: "2 Samuel 23:33"
+placed: "1055 BC"
+placed_year: -1054
 tags: ["person"]
 ---
 
@@ -15,6 +17,10 @@ tags: ["person"]
 A group mentioned in the context of David's mighty men.
 
 **Original-language names:** ארָרִֽי (H2043)
+
+## When
+
+- **Placed around:** [[connections/timeline/11th century BC|1055 BC]] *(Ussher: the median date of the passages naming them)*
 
 ## Appears in
 

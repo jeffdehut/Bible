@@ -7,6 +7,10 @@ original: ["נִמְשִׁי"]
 verses: 5
 chapters: 3
 first: "1 Kings 19:16"
+placed: "884 BC"
+placed_year: -883
+generation: 1
+sex: "male"
 tags: ["person"]
 ---
 
@@ -15,6 +19,26 @@ tags: ["person"]
 Grandfather of Jehu
 
 **Original-language names:** נִמְשִׁי (H5250)
+
+## When
+
+- **Placed around:** [[connections/timeline/9th century BC|884 BC]] *(Ussher: the median date of the passages naming them)*
+
+## Family
+
+- **Children:** [[connections/people/Jehoshaphat (2 Kings 9.2)|Jehoshaphat (2 Kings 9.2)]]
+- **Tribe or nation:** Israel
+
+**Family group:** [[connections/genealogy/Family of Nimshi|Family of Nimshi]], generation 1
+
+```mermaid
+flowchart TB
+  n0["Nimshi"]:::me
+  n1["Jehoshaphat (2 Kings 9.2)"]
+  n0 --> n1
+  classDef me stroke-width:3px
+  classDef spouse stroke-dasharray:4
+```
 
 ## Appears in
 

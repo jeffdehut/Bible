@@ -7,12 +7,16 @@ language: "Hebrew"
 verses: 16
 cross_references_out: 2
 cross_references_in: 10
+dated_from: -749
+dated_to: -749
 tags: ["chapter", "ot", "prophets"]
 ---
 
 # Micah 1
 
 ← [[connections/chapters/32-jonah/Jonah 4|Jonah 4]] · [[connections/books/Micah|Micah]] · [[connections/chapters/33-micah/Micah 2|Micah 2]] →
+
+**Dated** *(Ussher, after the Treasury of Scripture Knowledge)*: [[connections/timeline/8th century BC|750 BC]]
 
 ## Text
 

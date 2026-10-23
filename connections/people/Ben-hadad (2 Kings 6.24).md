@@ -7,6 +7,9 @@ original: ["בֶּן־הֲדַד"]
 verses: 3
 chapters: 2
 first: "2 Kings 6:24"
+placed: "885 BC"
+placed_year: -884
+sex: "male"
 tags: ["person"]
 ---
 
@@ -15,6 +18,15 @@ tags: ["person"]
 King of Aram, besieged Samaria, contemporary of Elisha.
 
 **Original-language names:** בֶּן־הֲדַד (H1130)
+
+## When
+
+- **Placed around:** [[connections/timeline/9th century BC|885 BC]] *(Ussher: the median date of the passages naming them)*
+
+## Family
+
+- **Tribe or nation:** Syria
+
 
 ## Appears in
 

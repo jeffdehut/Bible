@@ -7,12 +7,16 @@ language: "Hebrew"
 verses: 66
 cross_references_out: 0
 cross_references_in: 0
+dated_from: -1699
+dated_to: -1041
 tags: ["chapter", "ot", "history"]
 ---
 
 # 1 Chronicles 6
 
 ← [[connections/chapters/13-1-chronicles/1 Chronicles 5|1 Chronicles 5]] · [[connections/books/1 Chronicles|1 Chronicles]] · [[connections/chapters/13-1-chronicles/1 Chronicles 7|1 Chronicles 7]] →
+
+**Dated** *(Ussher, after the Treasury of Scripture Knowledge)*: [[connections/timeline/17th century BC|1700 BC]] – [[connections/timeline/11th century BC|1042 BC]]
 
 ## Text
 

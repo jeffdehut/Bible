@@ -17,6 +17,10 @@ Israelite encampment during the Exodus
 
 **Original-language names:** רְפִידִים (H7508)
 
+## Events
+
+- [[connections/timeline/15th century BC|1491 BC]] · [[connections/events/Wilderness Wanderings|Wilderness Wanderings]]
+
 ## Appears in
 
 [[connections/chapters/02-exodus/Exodus 17|Exodus 17 (2)]] · [[connections/chapters/02-exodus/Exodus 19|Exodus 19]] · [[connections/chapters/04-numbers/Numbers 33|Numbers 33 (2)]]

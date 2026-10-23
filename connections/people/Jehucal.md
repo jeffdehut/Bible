@@ -8,6 +8,10 @@ original: ["יְהוּכַל", "יוּכַל"]
 verses: 2
 chapters: 2
 first: "Jeremiah 37:3"
+placed: "598 BC"
+placed_year: -597
+generation: 2
+sex: "male"
 tags: ["person"]
 ---
 
@@ -18,6 +22,25 @@ An official during Zedekiah's reign, opposed Jeremiah.
 **Also called:** Jucal
 
 **Original-language names:** יְהוּכַל (H3081) · יוּכַל (H3116)
+
+## When
+
+- **Placed around:** [[connections/timeline/6th century BC|598 BC]] *(Ussher: the median date of the passages naming them)*
+
+## Family
+
+- **Father:** [[connections/people/Shelemiah (Jeremiah 37.3)|Shelemiah (Jeremiah 37.3)]]
+
+**Family group:** [[connections/genealogy/Family of Shelemiah (Jeremiah 37.3)|Family of Shelemiah (Jeremiah 37.3)]], generation 2
+
+```mermaid
+flowchart TB
+  n0["Jehucal"]:::me
+  n1["Shelemiah (Jeremiah 37.3)"]
+  n1 --> n0
+  classDef me stroke-width:3px
+  classDef spouse stroke-dasharray:4
+```
 
 ## Appears in
 

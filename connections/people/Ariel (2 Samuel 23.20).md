@@ -7,6 +7,8 @@ original: ["אֲרִיאֵל"]
 verses: 2
 chapters: 2
 first: "2 Samuel 23:20"
+placed: "1055 BC"
+placed_year: -1054
 tags: ["person"]
 ---
 
@@ -15,6 +17,15 @@ tags: ["person"]
 Two lion-like men of Moab killed by Benaiah
 
 **Original-language names:** אֲרִיאֵל (H0739)
+
+## When
+
+- **Placed around:** [[connections/timeline/11th century BC|1055 BC]] *(Ussher: the median date of the passages naming them)*
+
+## Family
+
+- **Tribe or nation:** Moab
+
 
 ## Appears in
 

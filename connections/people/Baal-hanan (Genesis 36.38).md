@@ -7,6 +7,10 @@ original: ["בַּ֫עַל חָנָן"]
 verses: 4
 chapters: 2
 first: "Genesis 36:38"
+placed: "1659 BC"
+placed_year: -1658
+generation: 2
+sex: "male"
 tags: ["person"]
 ---
 
@@ -15,6 +19,26 @@ tags: ["person"]
 A king of Edom.
 
 **Original-language names:** בַּ֫עַל חָנָן (H1177)
+
+## When
+
+- **Placed around:** [[connections/timeline/17th century BC|1659 BC]] *(Ussher: the median date of the passages naming them)*
+
+## Family
+
+- **Father:** [[connections/people/Achbor (Genesis 36.38)|Achbor (Genesis 36.38)]]
+- **Tribe or nation:** Edom
+
+**Family group:** [[connections/genealogy/Family of Achbor (Genesis 36.38)|Family of Achbor (Genesis 36.38)]], generation 2
+
+```mermaid
+flowchart TB
+  n0["Baal-hanan (Genesis 36.38)"]:::me
+  n1["Achbor (Genesis 36.38)"]
+  n1 --> n0
+  classDef me stroke-width:3px
+  classDef spouse stroke-dasharray:4
+```
 
 ## Appears in
 

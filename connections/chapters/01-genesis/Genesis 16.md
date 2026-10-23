@@ -7,12 +7,16 @@ language: "Hebrew/Aramaic"
 verses: 16
 cross_references_out: 23
 cross_references_in: 11
+dated_from: -1911
+dated_to: -1909
 tags: ["chapter", "ot", "torah"]
 ---
 
 # Genesis 16
 
 ← [[connections/chapters/01-genesis/Genesis 15|Genesis 15]] · [[connections/books/Genesis|Genesis]] · [[connections/chapters/01-genesis/Genesis 17|Genesis 17]] →
+
+**Dated** *(Ussher, after the Treasury of Scripture Knowledge)*: [[connections/timeline/20th century BC|1912 BC]] – [[connections/timeline/20th century BC|1910 BC]]
 
 ## Text
 

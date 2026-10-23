@@ -8,6 +8,9 @@ original: ["מַלְכִּיָּהוּ"]
 verses: 1
 chapters: 1
 first: "Ezra 10:25"
+placed: "456 BC"
+placed_year: -455
+sex: "male"
 tags: ["person"]
 ---
 
@@ -18,6 +21,10 @@ Descendant of Parosh, who divorced his foreign wife.
 **Also called:** Hashabiah
 
 **Original-language names:** מַלְכִּיָּהוּ (H4441)
+
+## When
+
+- **Placed around:** [[connections/timeline/5th century BC|456 BC]] *(Ussher: the median date of the passages naming them)*
 
 ## Appears in
 

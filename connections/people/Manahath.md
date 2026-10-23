@@ -8,6 +8,10 @@ original: ["מָנַ֫חַת", "מָנַ֫חַת+H2677=חֲצִי"]
 verses: 3
 chapters: 3
 first: "Genesis 36:23"
+placed: "1756 BC"
+placed_year: -1755
+generation: 3
+sex: "male"
 tags: ["person"]
 ---
 
@@ -18,6 +22,39 @@ Son of Shobal, a Horite.
 **Also called:** half Manahathites
 
 **Original-language names:** מָנַ֫חַת (H4506b) · מָנַ֫חַת+H2677=חֲצִי (H4506a)
+
+## When
+
+- **Placed around:** [[connections/timeline/18th century BC|1756 BC]] *(Ussher: the median date of the passages naming them)*
+
+## Family
+
+- **Father:** [[connections/people/Shobal (Genesis 36.20)|Shobal (Genesis 36.20)]]
+- **Brothers and sisters:** [[connections/people/Alvan|Alvan]], [[connections/people/Ebal|Ebal]], [[connections/people/Onam (Genesis 36.23)|Onam (Genesis 36.23)]], [[connections/people/Shepho|Shepho]]
+- **Tribe or nation:** Edom
+
+**Line of descent** (3 generations, father to son): [[connections/people/Seir|Seir]] → [[connections/people/Shobal (Genesis 36.20)|Shobal (Genesis 36.20)]] → **Manahath**
+
+**Family group:** [[connections/genealogy/Family of Adam|Family of Adam]], generation 3
+
+```mermaid
+flowchart TB
+  n0["Manahath"]:::me
+  n1["Seir"]
+  n2["Shobal (Genesis 36.20)"]
+  n1 --> n2
+  n2 --> n0
+  n3["Alvan"]
+  n2 --> n3
+  n4["Ebal"]
+  n2 --> n4
+  n5["Onam (Genesis 36.23)"]
+  n2 --> n5
+  n6["Shepho"]
+  n2 --> n6
+  classDef me stroke-width:3px
+  classDef spouse stroke-dasharray:4
+```
 
 ## Appears in
 

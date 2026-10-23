@@ -7,12 +7,16 @@ language: "Hebrew"
 verses: 19
 cross_references_out: 7
 cross_references_in: 16
+dated_from: -1450
+dated_to: -1450
 tags: ["chapter", "ot", "torah"]
 ---
 
 # Deuteronomy 25
 
 ← [[connections/chapters/05-deuteronomy/Deuteronomy 24|Deuteronomy 24]] · [[connections/books/Deuteronomy|Deuteronomy]] · [[connections/chapters/05-deuteronomy/Deuteronomy 26|Deuteronomy 26]] →
+
+**Dated** *(Ussher, after the Treasury of Scripture Knowledge)*: [[connections/timeline/15th century BC|1451 BC]]
 
 ## Text
 

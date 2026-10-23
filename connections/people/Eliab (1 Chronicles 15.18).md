@@ -7,6 +7,9 @@ original: ["אֱלִיאָב"]
 verses: 3
 chapters: 2
 first: "1 Chronicles 15:18"
+placed: "1042 BC"
+placed_year: -1041
+sex: "male"
 tags: ["person"]
 ---
 
@@ -15,6 +18,10 @@ tags: ["person"]
 Levite musician during David's reign
 
 **Original-language names:** אֱלִיאָב (H0446)
+
+## When
+
+- **Placed around:** [[connections/timeline/11th century BC|1042 BC]] *(Ussher: the median date of the passages naming them)*
 
 ## Appears in
 

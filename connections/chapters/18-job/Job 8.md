@@ -7,12 +7,16 @@ language: "Hebrew"
 verses: 22
 cross_references_out: 30
 cross_references_in: 19
+dated_from: -1519
+dated_to: -1519
 tags: ["chapter", "ot", "wisdom"]
 ---
 
 # Job 8
 
 ← [[connections/chapters/18-job/Job 7|Job 7]] · [[connections/books/Job|Job]] · [[connections/chapters/18-job/Job 9|Job 9]] →
+
+**Dated** *(Ussher, after the Treasury of Scripture Knowledge)*: [[connections/timeline/16th century BC|1520 BC]]
 
 ## Text
 

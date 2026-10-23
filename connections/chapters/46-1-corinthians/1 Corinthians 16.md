@@ -7,12 +7,16 @@ language: "Greek"
 verses: 24
 cross_references_out: 77
 cross_references_in: 49
+dated_from: 59
+dated_to: 59
 tags: ["chapter", "nt", "pauline-epistles"]
 ---
 
 # 1 Corinthians 16
 
 ← [[connections/chapters/46-1-corinthians/1 Corinthians 15|1 Corinthians 15]] · [[connections/books/1 Corinthians|1 Corinthians]] · [[connections/chapters/47-2-corinthians/2 Corinthians 1|2 Corinthians 1]] →
+
+**Dated** *(Ussher, after the Treasury of Scripture Knowledge)*: [[connections/timeline/1st century AD|AD 59]]
 
 ## Text
 

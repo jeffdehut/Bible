@@ -7,6 +7,14 @@ original: ["אִיּוֹב", "Ἰώβ"]
 verses: 53
 chapters: 24
 first: "Job 1:1"
+born: "1720 BC"
+born_year: -1719
+died: "1580 BC"
+died_year: -1579
+placed: "1520 BC"
+placed_year: -1519
+generation: 1
+sex: "male"
 tags: ["person"]
 ---
 
@@ -15,6 +23,37 @@ tags: ["person"]
 A righteous man who endured great suffering
 
 **Original-language names:** אִיּוֹב (H0347) · Ἰώβ (G2492)
+
+## When
+
+- **Lived:** [[connections/timeline/18th century BC|1720 BC]] – [[connections/timeline/16th century BC|1580 BC]] *(Jones)*
+- **Placed around:** [[connections/timeline/16th century BC|1520 BC]] *(Ussher: the median date of the passages naming them)*
+
+## Family
+
+- **Children:** [[connections/people/Jemimah|Jemimah]], [[connections/people/Keren-happuch|Keren-happuch]], [[connections/people/Keziah|Keziah]]
+
+**Family group:** [[connections/genealogy/Family of Job|Family of Job]], generation 1
+
+```mermaid
+flowchart TB
+  n0["Job"]:::me
+  n1["Jemimah"]
+  n0 --> n1
+  n2["Keren-happuch"]
+  n0 --> n2
+  n3["Keziah"]
+  n0 --> n3
+  classDef me stroke-width:3px
+  classDef spouse stroke-dasharray:4
+```
+
+## Events
+
+- [[connections/timeline/18th century BC|1720 BC]] · [[connections/events/Birth of Job|Birth of Job]]
+- [[connections/timeline/18th century BC|1720 BC]] · [[connections/events/Lifetime of Job|Lifetime of Job]]
+- [[connections/timeline/17th century BC|1650 BC]] · [[connections/events/Job's Trial|Job's Trial]]
+- [[connections/timeline/16th century BC|1580 BC]] · [[connections/events/Death of Job|Death of Job]]
 
 ## Appears in
 

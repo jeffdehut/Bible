@@ -7,6 +7,10 @@ original: ["אֶלְנָתָן"]
 verses: 3
 chapters: 2
 first: "Jeremiah 26:22"
+placed: "606 BC"
+placed_year: -605
+generation: 3
+sex: "male"
 tags: ["person"]
 ---
 
@@ -15,6 +19,29 @@ tags: ["person"]
 A royal official during the reign of King Jehoiakim.
 
 **Original-language names:** אֶלְנָתָן (H0494)
+
+## When
+
+- **Placed around:** [[connections/timeline/7th century BC|606 BC]] *(Ussher: the median date of the passages naming them)*
+
+## Family
+
+- **Father:** [[connections/people/Achbor (2 Kings 22.12)|Achbor (2 Kings 22.12)]]
+
+**Line of descent** (3 generations, father to son): [[connections/people/Micaiah (2 Kings 22.12)|Micaiah (2 Kings 22.12)]] → [[connections/people/Achbor (2 Kings 22.12)|Achbor (2 Kings 22.12)]] → **Elnathan (Jeremiah 26.22)**
+
+**Family group:** [[connections/genealogy/Family of Micaiah (2 Kings 22.12)|Family of Micaiah (2 Kings 22.12)]], generation 3
+
+```mermaid
+flowchart TB
+  n0["Elnathan (Jeremiah 26.22)"]:::me
+  n1["Micaiah (2 Kings 22.12)"]
+  n2["Achbor (2 Kings 22.12)"]
+  n1 --> n2
+  n2 --> n0
+  classDef me stroke-width:3px
+  classDef spouse stroke-dasharray:4
+```
 
 ## Appears in
 

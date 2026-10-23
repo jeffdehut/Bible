@@ -7,12 +7,16 @@ language: "Hebrew"
 verses: 3
 cross_references_out: 1
 cross_references_in: 3
+dated_from: -451
+dated_to: -451
 tags: ["chapter", "ot", "history"]
 ---
 
 # Esther 10
 
 ← [[connections/chapters/17-esther/Esther 9|Esther 9]] · [[connections/books/Esther|Esther]] · [[connections/chapters/18-job/Job 1|Job 1]] →
+
+**Dated** *(Ussher, after the Treasury of Scripture Knowledge)*: [[connections/timeline/5th century BC|452 BC]]
 
 ## Text
 

@@ -7,12 +7,16 @@ language: "Hebrew"
 verses: 22
 cross_references_out: 47
 cross_references_in: 38
+dated_from: -1450
+dated_to: -1450
 tags: ["chapter", "ot", "torah"]
 ---
 
 # Deuteronomy 18
 
 ← [[connections/chapters/05-deuteronomy/Deuteronomy 17|Deuteronomy 17]] · [[connections/books/Deuteronomy|Deuteronomy]] · [[connections/chapters/05-deuteronomy/Deuteronomy 19|Deuteronomy 19]] →
+
+**Dated** *(Ussher, after the Treasury of Scripture Knowledge)*: [[connections/timeline/15th century BC|1451 BC]]
 
 ## Text
 

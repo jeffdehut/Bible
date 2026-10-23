@@ -7,12 +7,16 @@ language: "Hebrew"
 verses: 27
 cross_references_out: 127
 cross_references_in: 97
+dated_from: -999
+dated_to: -999
 tags: ["chapter", "ot", "wisdom"]
 ---
 
 # Proverbs 4
 
 ← [[connections/chapters/20-proverbs/Proverbs 3|Proverbs 3]] · [[connections/books/Proverbs|Proverbs]] · [[connections/chapters/20-proverbs/Proverbs 5|Proverbs 5]] →
+
+**Dated** *(Ussher, after the Treasury of Scripture Knowledge)*: [[connections/timeline/10th century BC|1000 BC]]
 
 ## Text
 

@@ -7,12 +7,16 @@ language: "Hebrew"
 verses: 19
 cross_references_out: 2
 cross_references_in: 9
+dated_from: -1451
+dated_to: -1451
 tags: ["chapter", "ot", "torah"]
 ---
 
 # Numbers 25
 
 ← [[connections/chapters/04-numbers/Numbers 24|Numbers 24]] · [[connections/books/Numbers|Numbers]] · [[connections/chapters/04-numbers/Numbers 26|Numbers 26]] →
+
+**Dated** *(Ussher, after the Treasury of Scripture Knowledge)*: [[connections/timeline/15th century BC|1452 BC]]
 
 ## Text
 

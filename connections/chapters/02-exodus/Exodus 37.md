@@ -7,12 +7,16 @@ language: "Hebrew"
 verses: 29
 cross_references_out: 0
 cross_references_in: 1
+dated_from: -1490
+dated_to: -1490
 tags: ["chapter", "ot", "torah"]
 ---
 
 # Exodus 37
 
 ← [[connections/chapters/02-exodus/Exodus 36|Exodus 36]] · [[connections/books/Exodus|Exodus]] · [[connections/chapters/02-exodus/Exodus 38|Exodus 38]] →
+
+**Dated** *(Ussher, after the Treasury of Scripture Knowledge)*: [[connections/timeline/15th century BC|1491 BC]]
 
 ## Text
 

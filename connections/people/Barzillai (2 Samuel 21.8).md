@@ -7,6 +7,10 @@ original: ["בַּרְזִלַּי"]
 verses: 1
 chapters: 1
 first: "2 Samuel 21:8"
+placed: "1018 BC"
+placed_year: -1017
+generation: 1
+sex: "male"
 tags: ["person"]
 ---
 
@@ -15,6 +19,25 @@ tags: ["person"]
 Grandfather of Michal's adopted sons.
 
 **Original-language names:** בַּרְזִלַּי (H1271)
+
+## When
+
+- **Placed around:** [[connections/timeline/11th century BC|1018 BC]] *(Ussher: the median date of the passages naming them)*
+
+## Family
+
+- **Children:** [[connections/people/Adriel|Adriel]]
+
+**Family group:** [[connections/genealogy/Family of Barzillai (2 Samuel 21.8)|Family of Barzillai (2 Samuel 21.8)]], generation 1
+
+```mermaid
+flowchart TB
+  n0["Barzillai (2 Samuel 21.8)"]:::me
+  n1["Adriel"]
+  n0 --> n1
+  classDef me stroke-width:3px
+  classDef spouse stroke-dasharray:4
+```
 
 ## Appears in
 

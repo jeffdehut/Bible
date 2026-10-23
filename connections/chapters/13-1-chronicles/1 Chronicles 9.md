@@ -7,12 +7,16 @@ language: "Hebrew"
 verses: 44
 cross_references_out: 2
 cross_references_in: 1
+dated_from: -1199
+dated_to: -535
 tags: ["chapter", "ot", "history"]
 ---
 
 # 1 Chronicles 9
 
 ← [[connections/chapters/13-1-chronicles/1 Chronicles 8|1 Chronicles 8]] · [[connections/books/1 Chronicles|1 Chronicles]] · [[connections/chapters/13-1-chronicles/1 Chronicles 10|1 Chronicles 10]] →
+
+**Dated** *(Ussher, after the Treasury of Scripture Knowledge)*: [[connections/timeline/12th century BC|1200 BC]] – [[connections/timeline/6th century BC|536 BC]]
 
 ## Text
 

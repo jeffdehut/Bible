@@ -7,6 +7,10 @@ original: ["אָמוֹץ"]
 verses: 13
 chapters: 10
 first: "2 Kings 19:2"
+placed: "713 BC"
+placed_year: -712
+generation: 1
+sex: "male"
 tags: ["person"]
 ---
 
@@ -15,6 +19,25 @@ tags: ["person"]
 Father of the prophet Isaiah
 
 **Original-language names:** אָמוֹץ (H0531)
+
+## When
+
+- **Placed around:** [[connections/timeline/8th century BC|713 BC]] *(Ussher: the median date of the passages naming them)*
+
+## Family
+
+- **Children:** [[connections/people/Isaiah|Isaiah]]
+
+**Family group:** [[connections/genealogy/Family of Amoz|Family of Amoz]], generation 1
+
+```mermaid
+flowchart TB
+  n0["Amoz"]:::me
+  n1["Isaiah"]
+  n0 --> n1
+  classDef me stroke-width:3px
+  classDef spouse stroke-dasharray:4
+```
 
 ## Appears in
 

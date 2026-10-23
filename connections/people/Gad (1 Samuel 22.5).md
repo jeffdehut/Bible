@@ -7,6 +7,9 @@ original: ["גָּד"]
 verses: 13
 chapters: 5
 first: "1 Samuel 22:5"
+placed: "1017 BC"
+placed_year: -1016
+sex: "male"
 tags: ["person"]
 ---
 
@@ -15,6 +18,10 @@ tags: ["person"]
 Prophet during the reigns of David and Solomon.
 
 **Original-language names:** גָּד (H1410)
+
+## When
+
+- **Placed around:** [[connections/timeline/11th century BC|1017 BC]] *(Ussher: the median date of the passages naming them)*
 
 ## Appears in
 

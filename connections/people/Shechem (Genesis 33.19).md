@@ -7,6 +7,10 @@ original: ["שְׁכֶם"]
 verses: 11
 chapters: 2
 first: "Genesis 33:19"
+placed: "1732 BC"
+placed_year: -1731
+generation: 2
+sex: "male"
 tags: ["person"]
 ---
 
@@ -15,6 +19,25 @@ tags: ["person"]
 Founded the city where Dinah was raped
 
 **Original-language names:** שְׁכֶם (H7927)
+
+## When
+
+- **Placed around:** [[connections/timeline/18th century BC|1732 BC]] *(Ussher: the median date of the passages naming them)*
+
+## Family
+
+- **Father:** [[connections/people/Hamor|Hamor]]
+
+**Family group:** [[connections/genealogy/Family of Hamor|Family of Hamor]], generation 2
+
+```mermaid
+flowchart TB
+  n0["Shechem (Genesis 33.19)"]:::me
+  n1["Hamor"]
+  n1 --> n0
+  classDef me stroke-width:3px
+  classDef spouse stroke-dasharray:4
+```
 
 ## Appears in
 

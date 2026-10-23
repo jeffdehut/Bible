@@ -7,6 +7,9 @@ original: ["שְׁפַטְיָהוּ"]
 verses: 3
 chapters: 3
 first: "Ezra 2:4"
+placed: "445 BC"
+placed_year: -444
+sex: "male"
 tags: ["person"]
 ---
 
@@ -15,6 +18,10 @@ tags: ["person"]
 Ancestor of exiles who returned to Jerusalem
 
 **Original-language names:** שְׁפַטְיָהוּ (H8203)
+
+## When
+
+- **Placed around:** [[connections/timeline/5th century BC|445 BC]] *(Ussher: the median date of the passages naming them)*
 
 ## Appears in
 

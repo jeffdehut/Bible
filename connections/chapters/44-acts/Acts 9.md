@@ -7,12 +7,16 @@ language: "Greek"
 verses: 43
 cross_references_out: 48
 cross_references_in: 68
+dated_from: 35
+dated_to: 35
 tags: ["chapter", "nt", "acts"]
 ---
 
 # Acts 9
 
 ← [[connections/chapters/44-acts/Acts 8|Acts 8]] · [[connections/books/Acts|Acts]] · [[connections/chapters/44-acts/Acts 10|Acts 10]] →
+
+**Dated** *(Ussher, after the Treasury of Scripture Knowledge)*: [[connections/timeline/1st century AD|AD 35]]
 
 ## Text
 

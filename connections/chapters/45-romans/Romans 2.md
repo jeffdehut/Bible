@@ -7,12 +7,16 @@ language: "Greek"
 verses: 29
 cross_references_out: 99
 cross_references_in: 162
+dated_from: 60
+dated_to: 60
 tags: ["chapter", "nt", "pauline-epistles"]
 ---
 
 # Romans 2
 
 ← [[connections/chapters/45-romans/Romans 1|Romans 1]] · [[connections/books/Romans|Romans]] · [[connections/chapters/45-romans/Romans 3|Romans 3]] →
+
+**Dated** *(Ussher, after the Treasury of Scripture Knowledge)*: [[connections/timeline/1st century AD|AD 60]]
 
 ## Text
 

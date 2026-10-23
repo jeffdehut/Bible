@@ -7,6 +7,9 @@ original: ["זַתּוּא"]
 verses: 4
 chapters: 4
 first: "Ezra 2:8"
+placed: "456 BC"
+placed_year: -455
+sex: "male"
 tags: ["person"]
 ---
 
@@ -15,6 +18,10 @@ tags: ["person"]
 Ancestor of returning exiles
 
 **Original-language names:** זַתּוּא (H2240)
+
+## When
+
+- **Placed around:** [[connections/timeline/5th century BC|456 BC]] *(Ussher: the median date of the passages naming them)*
 
 ## Appears in
 

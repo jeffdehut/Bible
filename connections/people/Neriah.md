@@ -7,6 +7,10 @@ original: ["נֵרִיָהוּ"]
 verses: 10
 chapters: 5
 first: "Jeremiah 32:12"
+placed: "589 BC"
+placed_year: -588
+generation: 2
+sex: "male"
 tags: ["person"]
 ---
 
@@ -15,6 +19,30 @@ tags: ["person"]
 Father of Baruch
 
 **Original-language names:** נֵרִיָהוּ (H5374)
+
+## When
+
+- **Placed around:** [[connections/timeline/6th century BC|589 BC]] *(Ussher: the median date of the passages naming them)*
+
+## Family
+
+- **Father:** [[connections/people/Mahseiah|Mahseiah]]
+- **Children:** [[connections/people/Baruch (Jeremiah 32.12)|Baruch (Jeremiah 32.12)]], [[connections/people/Seraiah (Jeremiah 51.59)|Seraiah (Jeremiah 51.59)]]
+
+**Family group:** [[connections/genealogy/Family of Mahseiah|Family of Mahseiah]], generation 2
+
+```mermaid
+flowchart TB
+  n0["Neriah"]:::me
+  n1["Mahseiah"]
+  n1 --> n0
+  n2["Baruch (Jeremiah 32.12)"]
+  n0 --> n2
+  n3["Seraiah (Jeremiah 51.59)"]
+  n0 --> n3
+  classDef me stroke-width:3px
+  classDef spouse stroke-dasharray:4
+```
 
 ## Appears in
 

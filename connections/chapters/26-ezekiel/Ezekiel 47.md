@@ -7,12 +7,16 @@ language: "Hebrew"
 verses: 23
 cross_references_out: 21
 cross_references_in: 15
+dated_from: -573
+dated_to: -573
 tags: ["chapter", "ot", "prophets"]
 ---
 
 # Ezekiel 47
 
 ← [[connections/chapters/26-ezekiel/Ezekiel 46|Ezekiel 46]] · [[connections/books/Ezekiel|Ezekiel]] · [[connections/chapters/26-ezekiel/Ezekiel 48|Ezekiel 48]] →
+
+**Dated** *(Ussher, after the Treasury of Scripture Knowledge)*: [[connections/timeline/6th century BC|574 BC]]
 
 ## Text
 

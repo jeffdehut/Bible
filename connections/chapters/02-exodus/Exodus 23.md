@@ -7,12 +7,16 @@ language: "Hebrew"
 verses: 33
 cross_references_out: 98
 cross_references_in: 68
+dated_from: -1490
+dated_to: -1490
 tags: ["chapter", "ot", "torah"]
 ---
 
 # Exodus 23
 
 ← [[connections/chapters/02-exodus/Exodus 22|Exodus 22]] · [[connections/books/Exodus|Exodus]] · [[connections/chapters/02-exodus/Exodus 24|Exodus 24]] →
+
+**Dated** *(Ussher, after the Treasury of Scripture Knowledge)*: [[connections/timeline/15th century BC|1491 BC]]
 
 ## Text
 

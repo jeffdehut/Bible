@@ -7,6 +7,9 @@ original: ["נְבוּזַרְאֲדָן"]
 verses: 15
 chapters: 6
 first: "2 Kings 25:8"
+placed: "588 BC"
+placed_year: -587
+sex: "male"
 tags: ["person"]
 ---
 
@@ -15,6 +18,10 @@ tags: ["person"]
 Babylonian captain of the guard during Jerusalem's fall.
 
 **Original-language names:** נְבוּזַרְאֲדָן (H5018)
+
+## When
+
+- **Placed around:** [[connections/timeline/6th century BC|588 BC]] *(Ussher: the median date of the passages naming them)*
 
 ## Appears in
 

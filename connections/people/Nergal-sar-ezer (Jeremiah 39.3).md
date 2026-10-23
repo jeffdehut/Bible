@@ -7,6 +7,9 @@ original: ["נֵרְגַּל שַׁרְאֶ֫צֶר"]
 verses: 2
 chapters: 1
 first: "Jeremiah 39:3"
+placed: "588 BC"
+placed_year: -587
+sex: "male"
 tags: ["person"]
 ---
 
@@ -15,6 +18,10 @@ tags: ["person"]
 Babylonian official at Jerusalem's fall
 
 **Original-language names:** נֵרְגַּל שַׁרְאֶ֫צֶר (H5371)
+
+## When
+
+- **Placed around:** [[connections/timeline/6th century BC|588 BC]] *(Ussher: the median date of the passages naming them)*
 
 ## Appears in
 

@@ -7,6 +7,10 @@ original: ["כְּנַעֲנָה"]
 verses: 4
 chapters: 2
 first: "1 Kings 22:11"
+placed: "897 BC"
+placed_year: -896
+generation: 1
+sex: "male"
 tags: ["person"]
 ---
 
@@ -15,6 +19,25 @@ tags: ["person"]
 False prophet who opposed Micaiah
 
 **Original-language names:** כְּנַעֲנָה (H3668)
+
+## When
+
+- **Placed around:** [[connections/timeline/9th century BC|897 BC]] *(Ussher: the median date of the passages naming them)*
+
+## Family
+
+- **Children:** [[connections/people/Zedekiah (1 Kings 22.11)|Zedekiah (1 Kings 22.11)]]
+
+**Family group:** [[connections/genealogy/Family of Chenaanah (1 Kings 22.11)|Family of Chenaanah (1 Kings 22.11)]], generation 1
+
+```mermaid
+flowchart TB
+  n0["Chenaanah (1 Kings 22.11)"]:::me
+  n1["Zedekiah (1 Kings 22.11)"]
+  n0 --> n1
+  classDef me stroke-width:3px
+  classDef spouse stroke-dasharray:4
+```
 
 ## Appears in
 

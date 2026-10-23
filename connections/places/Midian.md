@@ -17,6 +17,10 @@ A nation descended from Abraham; oppressed Israel in the time of the judges
 
 **Original-language names:** מִדְיָן (H4080) · מְדָנִי (H4092) · Μαδιάν (G3099)
 
+## Events
+
+- [[connections/timeline/13th century BC|1258 BC]] · [[connections/events/Subjugation by Midian|Subjugation by Midian]]
+
 ## Appears in
 
 [[connections/chapters/01-genesis/Genesis 36|Genesis 36]] · [[connections/chapters/01-genesis/Genesis 37|Genesis 37]] · [[connections/chapters/02-exodus/Exodus 2|Exodus 2 (2)]] · [[connections/chapters/02-exodus/Exodus 3|Exodus 3]] · [[connections/chapters/02-exodus/Exodus 4|Exodus 4]] · [[connections/chapters/02-exodus/Exodus 18|Exodus 18]] · [[connections/chapters/04-numbers/Numbers 22|Numbers 22 (2)]] · [[connections/chapters/04-numbers/Numbers 25|Numbers 25 (2)]] · [[connections/chapters/04-numbers/Numbers 31|Numbers 31 (4)]] · [[connections/chapters/06-joshua/Joshua 13|Joshua 13]] · [[connections/chapters/07-judges/Judges 6|Judges 6 (10)]] · [[connections/chapters/07-judges/Judges 7|Judges 7 (11)]] · [[connections/chapters/07-judges/Judges 8|Judges 8 (7)]] · [[connections/chapters/07-judges/Judges 9|Judges 9]] · [[connections/chapters/11-1-kings/1 Kings 11|1 Kings 11]] · [[connections/chapters/13-1-chronicles/1 Chronicles 1|1 Chronicles 1]] · [[connections/chapters/19-psalms/Psalms 83|Psalms 83]] · [[connections/chapters/23-isaiah/Isaiah 9|Isaiah 9]] · [[connections/chapters/23-isaiah/Isaiah 10|Isaiah 10]] · [[connections/chapters/23-isaiah/Isaiah 60|Isaiah 60]] · [[connections/chapters/35-habakkuk/Habakkuk 3|Habakkuk 3]] · [[connections/chapters/44-acts/Acts 7|Acts 7]]

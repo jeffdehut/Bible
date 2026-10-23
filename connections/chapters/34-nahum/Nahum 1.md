@@ -7,12 +7,16 @@ language: "Hebrew"
 verses: 14
 cross_references_out: 65
 cross_references_in: 48
+dated_from: -712
+dated_to: -712
 tags: ["chapter", "ot", "prophets"]
 ---
 
 # Nahum 1
 
 ← [[connections/chapters/33-micah/Micah 7|Micah 7]] · [[connections/books/Nahum|Nahum]] · [[connections/chapters/34-nahum/Nahum 2|Nahum 2]] →
+
+**Dated** *(Ussher, after the Treasury of Scripture Knowledge)*: [[connections/timeline/8th century BC|713 BC]]
 
 ## Text
 

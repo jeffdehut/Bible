@@ -7,12 +7,16 @@ language: "Hebrew"
 verses: 41
 cross_references_out: 23
 cross_references_in: 15
+dated_from: -1709
+dated_to: -587
 tags: ["chapter", "ot", "history"]
 ---
 
 # 1 Chronicles 5
 
 ← [[connections/chapters/13-1-chronicles/1 Chronicles 4|1 Chronicles 4]] · [[connections/books/1 Chronicles|1 Chronicles]] · [[connections/chapters/13-1-chronicles/1 Chronicles 6|1 Chronicles 6]] →
+
+**Dated** *(Ussher, after the Treasury of Scripture Knowledge)*: [[connections/timeline/18th century BC|1710 BC]] – [[connections/timeline/6th century BC|588 BC]]
 
 ## Text
 

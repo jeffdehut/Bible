@@ -7,6 +7,7 @@ original: ["בַּעֲרָא"]
 verses: 1
 chapters: 1
 first: "1 Chronicles 8:8"
+sex: "female"
 tags: ["person"]
 ---
 
@@ -15,6 +16,20 @@ tags: ["person"]
 A wife of Shaharaim, a Benjamite.
 
 **Original-language names:** בַּעֲרָא (H1199)
+
+## Family
+
+- **Spouses:** [[connections/people/Shaharaim|Shaharaim]]
+- **Tribe or nation:** Tribe of Benjamin
+
+```mermaid
+flowchart TB
+  n0["Baara"]:::me
+  n1["Shaharaim"]:::spouse
+  n0 -.- n1
+  classDef me stroke-width:3px
+  classDef spouse stroke-dasharray:4
+```
 
 ## Appears in
 

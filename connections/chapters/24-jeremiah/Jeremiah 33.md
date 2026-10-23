@@ -7,12 +7,16 @@ language: "Hebrew/Aramaic"
 verses: 26
 cross_references_out: 56
 cross_references_in: 88
+dated_from: -587
+dated_to: -587
 tags: ["chapter", "ot", "prophets"]
 ---
 
 # Jeremiah 33
 
 ← [[connections/chapters/24-jeremiah/Jeremiah 32|Jeremiah 32]] · [[connections/books/Jeremiah|Jeremiah]] · [[connections/chapters/24-jeremiah/Jeremiah 34|Jeremiah 34]] →
+
+**Dated** *(Ussher, after the Treasury of Scripture Knowledge)*: [[connections/timeline/6th century BC|588 BC]]
 
 ## Text
 

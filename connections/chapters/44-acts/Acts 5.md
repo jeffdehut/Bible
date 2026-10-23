@@ -7,12 +7,16 @@ language: "Greek"
 verses: 42
 cross_references_out: 61
 cross_references_in: 79
+dated_from: 33
+dated_to: 33
 tags: ["chapter", "nt", "acts"]
 ---
 
 # Acts 5
 
 ← [[connections/chapters/44-acts/Acts 4|Acts 4]] · [[connections/books/Acts|Acts]] · [[connections/chapters/44-acts/Acts 6|Acts 6]] →
+
+**Dated** *(Ussher, after the Treasury of Scripture Knowledge)*: [[connections/timeline/1st century AD|AD 33]]
 
 ## Text
 

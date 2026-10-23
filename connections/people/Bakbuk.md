@@ -7,6 +7,9 @@ original: ["בַּקְבּוּק"]
 verses: 2
 chapters: 2
 first: "Ezra 2:51"
+placed: "445 BC"
+placed_year: -444
+sex: "male"
 tags: ["person"]
 ---
 
@@ -15,6 +18,10 @@ tags: ["person"]
 Ancestor of temple servants who returned from Babylonian exile.
 
 **Original-language names:** בַּקְבּוּק (H1227)
+
+## When
+
+- **Placed around:** [[connections/timeline/5th century BC|445 BC]] *(Ussher: the median date of the passages naming them)*
 
 ## Appears in
 

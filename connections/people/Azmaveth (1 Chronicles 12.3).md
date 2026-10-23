@@ -7,6 +7,8 @@ original: ["עַזְמָ֫וֶת"]
 verses: 1
 chapters: 1
 first: "1 Chronicles 12:3"
+generation: 1
+sex: "male"
 tags: ["person"]
 ---
 
@@ -15,6 +17,23 @@ tags: ["person"]
 Benjamite warrior who joined David at Ziklag
 
 **Original-language names:** עַזְמָ֫וֶת (H5820)
+
+## Family
+
+- **Children:** [[connections/people/Jeziel|Jeziel]], [[connections/people/Pelet (1 Chronicles 12.3)|Pelet (1 Chronicles 12.3)]]
+
+**Family group:** [[connections/genealogy/Family of Azmaveth (1 Chronicles 12.3)|Family of Azmaveth (1 Chronicles 12.3)]], generation 1
+
+```mermaid
+flowchart TB
+  n0["Azmaveth (1 Chronicles 12.3)"]:::me
+  n1["Jeziel"]
+  n0 --> n1
+  n2["Pelet (1 Chronicles 12.3)"]
+  n0 --> n2
+  classDef me stroke-width:3px
+  classDef spouse stroke-dasharray:4
+```
 
 ## Appears in
 

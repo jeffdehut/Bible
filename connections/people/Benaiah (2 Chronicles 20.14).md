@@ -7,6 +7,8 @@ original: ["בְּנָיָ֫הוּ"]
 verses: 1
 chapters: 1
 first: "2 Chronicles 20:14"
+generation: 3
+sex: "male"
 tags: ["person"]
 ---
 
@@ -15,6 +17,28 @@ tags: ["person"]
 A Levite of the sons of Asaph, filled with the Spirit.
 
 **Original-language names:** בְּנָיָ֫הוּ (H1141)
+
+## Family
+
+- **Father:** [[connections/people/Jeiel (2 Chronicles 20.14)|Jeiel (2 Chronicles 20.14)]]
+- **Children:** [[connections/people/Zechariah (2 Chronicles 20.14)|Zechariah (2 Chronicles 20.14)]]
+
+**Line of descent** (3 generations, father to son): [[connections/people/Mattaniah (2 Chronicles 20.14)|Mattaniah (2 Chronicles 20.14)]] → [[connections/people/Jeiel (2 Chronicles 20.14)|Jeiel (2 Chronicles 20.14)]] → **Benaiah (2 Chronicles 20.14)**
+
+**Family group:** [[connections/genealogy/Family of Mattaniah (2 Chronicles 20.14)|Family of Mattaniah (2 Chronicles 20.14)]], generation 3
+
+```mermaid
+flowchart TB
+  n0["Benaiah (2 Chronicles 20.14)"]:::me
+  n1["Mattaniah (2 Chronicles 20.14)"]
+  n2["Jeiel (2 Chronicles 20.14)"]
+  n1 --> n2
+  n2 --> n0
+  n3["Zechariah (2 Chronicles 20.14)"]
+  n0 --> n3
+  classDef me stroke-width:3px
+  classDef spouse stroke-dasharray:4
+```
 
 ## Appears in
 

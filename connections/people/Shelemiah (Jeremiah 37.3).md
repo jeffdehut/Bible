@@ -7,6 +7,10 @@ original: ["שֶׁלֶמְיָהוּ"]
 verses: 2
 chapters: 2
 first: "Jeremiah 37:3"
+placed: "598 BC"
+placed_year: -597
+generation: 1
+sex: "male"
 tags: ["person"]
 ---
 
@@ -15,6 +19,25 @@ tags: ["person"]
 Priest during Zedekiah's reign
 
 **Original-language names:** שֶׁלֶמְיָהוּ (H8018)
+
+## When
+
+- **Placed around:** [[connections/timeline/6th century BC|598 BC]] *(Ussher: the median date of the passages naming them)*
+
+## Family
+
+- **Children:** [[connections/people/Jehucal|Jehucal]]
+
+**Family group:** [[connections/genealogy/Family of Shelemiah (Jeremiah 37.3)|Family of Shelemiah (Jeremiah 37.3)]], generation 1
+
+```mermaid
+flowchart TB
+  n0["Shelemiah (Jeremiah 37.3)"]:::me
+  n1["Jehucal"]
+  n0 --> n1
+  classDef me stroke-width:3px
+  classDef spouse stroke-dasharray:4
+```
 
 ## Appears in
 

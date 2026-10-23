@@ -7,6 +7,10 @@ original: ["מִכְרִי"]
 verses: 1
 chapters: 1
 first: "1 Chronicles 9:8"
+placed: "536 BC"
+placed_year: -535
+generation: 1
+sex: "male"
 tags: ["person"]
 ---
 
@@ -15,6 +19,25 @@ tags: ["person"]
 A Benjamite who lived in Jerusalem.
 
 **Original-language names:** מִכְרִי (H4381)
+
+## When
+
+- **Placed around:** [[connections/timeline/6th century BC|536 BC]] *(Ussher: the median date of the passages naming them)*
+
+## Family
+
+- **Children:** [[connections/people/Uzzi (1 Chronicles 9.8)|Uzzi (1 Chronicles 9.8)]]
+
+**Family group:** [[connections/genealogy/Family of Michri|Family of Michri]], generation 1
+
+```mermaid
+flowchart TB
+  n0["Michri"]:::me
+  n1["Uzzi (1 Chronicles 9.8)"]
+  n0 --> n1
+  classDef me stroke-width:3px
+  classDef spouse stroke-dasharray:4
+```
 
 ## Appears in
 

@@ -7,6 +7,9 @@ original: ["חֲנַנְיָ֫הוּ"]
 verses: 1
 chapters: 1
 first: "Ezra 10:28"
+placed: "456 BC"
+placed_year: -455
+sex: "male"
 tags: ["person"]
 ---
 
@@ -15,6 +18,10 @@ tags: ["person"]
 One who married a foreign wife during Ezra's time
 
 **Original-language names:** חֲנַנְיָ֫הוּ (H2608a)
+
+## When
+
+- **Placed around:** [[connections/timeline/5th century BC|456 BC]] *(Ussher: the median date of the passages naming them)*
 
 ## Appears in
 

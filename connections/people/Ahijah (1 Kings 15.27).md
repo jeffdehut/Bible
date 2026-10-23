@@ -7,6 +7,10 @@ original: ["אֲחִיָּ֫הוּ"]
 verses: 4
 chapters: 3
 first: "1 Kings 15:27"
+placed: "899 BC"
+placed_year: -898
+generation: 1
+sex: "male"
 tags: ["person"]
 ---
 
@@ -15,6 +19,26 @@ tags: ["person"]
 Father of Baasha, king of Israel
 
 **Original-language names:** אֲחִיָּ֫הוּ (H0281)
+
+## When
+
+- **Placed around:** [[connections/timeline/9th century BC|899 BC]] *(Ussher: the median date of the passages naming them)*
+
+## Family
+
+- **Children:** [[connections/people/Baasha|Baasha]]
+- **Tribe or nation:** Israel
+
+**Family group:** [[connections/genealogy/Family of Ahijah (1 Kings 15.27)|Family of Ahijah (1 Kings 15.27)]], generation 1
+
+```mermaid
+flowchart TB
+  n0["Ahijah (1 Kings 15.27)"]:::me
+  n1["Baasha"]
+  n0 --> n1
+  classDef me stroke-width:3px
+  classDef spouse stroke-dasharray:4
+```
 
 ## Appears in
 

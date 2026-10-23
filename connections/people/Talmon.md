@@ -7,6 +7,9 @@ original: ["טַלְמוֹן"]
 verses: 5
 chapters: 5
 first: "1 Chronicles 9:17"
+placed: "445 BC"
+placed_year: -444
+sex: "male"
 tags: ["person"]
 ---
 
@@ -15,6 +18,15 @@ tags: ["person"]
 Levite gatekeeper who returned from Babylonian exile
 
 **Original-language names:** טַלְמוֹן (H2929)
+
+## When
+
+- **Placed around:** [[connections/timeline/5th century BC|445 BC]] *(Ussher: the median date of the passages naming them)*
+
+## Family
+
+- **Tribe or nation:** Tribe of Levi
+
 
 ## Appears in
 

@@ -7,12 +7,16 @@ language: "Hebrew"
 verses: 8
 cross_references_out: 0
 cross_references_in: 1
+dated_from: -1034
+dated_to: -1017
 tags: ["chapter", "ot", "history"]
 ---
 
 # 1 Chronicles 20
 
 ← [[connections/chapters/13-1-chronicles/1 Chronicles 19|1 Chronicles 19]] · [[connections/books/1 Chronicles|1 Chronicles]] · [[connections/chapters/13-1-chronicles/1 Chronicles 21|1 Chronicles 21]] →
+
+**Dated** *(Ussher, after the Treasury of Scripture Knowledge)*: [[connections/timeline/11th century BC|1035 BC]] – [[connections/timeline/11th century BC|1018 BC]]
 
 ## Text
 

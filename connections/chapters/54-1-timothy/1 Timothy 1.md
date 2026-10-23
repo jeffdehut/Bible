@@ -7,12 +7,16 @@ language: "Greek"
 verses: 20
 cross_references_out: 110
 cross_references_in: 133
+dated_from: 65
+dated_to: 65
 tags: ["chapter", "nt", "pauline-epistles"]
 ---
 
 # 1 Timothy 1
 
 ← [[connections/chapters/53-2-thessalonians/2 Thessalonians 3|2 Thessalonians 3]] · [[connections/books/1 Timothy|1 Timothy]] · [[connections/chapters/54-1-timothy/1 Timothy 2|1 Timothy 2]] →
+
+**Dated** *(Ussher, after the Treasury of Scripture Knowledge)*: [[connections/timeline/1st century AD|AD 65]]
 
 ## Text
 

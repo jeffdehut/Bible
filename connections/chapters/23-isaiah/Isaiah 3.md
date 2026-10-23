@@ -7,12 +7,16 @@ language: "Hebrew"
 verses: 26
 cross_references_out: 21
 cross_references_in: 42
+dated_from: -758
+dated_to: -758
 tags: ["chapter", "ot", "prophets"]
 ---
 
 # Isaiah 3
 
 ← [[connections/chapters/23-isaiah/Isaiah 2|Isaiah 2]] · [[connections/books/Isaiah|Isaiah]] · [[connections/chapters/23-isaiah/Isaiah 4|Isaiah 4]] →
+
+**Dated** *(Ussher, after the Treasury of Scripture Knowledge)*: [[connections/timeline/8th century BC|759 BC]]
 
 ## Text
 

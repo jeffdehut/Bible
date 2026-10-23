@@ -7,12 +7,16 @@ language: "Hebrew"
 verses: 20
 cross_references_out: 75
 cross_references_in: 46
+dated_from: -625
+dated_to: -625
 tags: ["chapter", "ot", "prophets"]
 ---
 
 # Habakkuk 2
 
 ← [[connections/chapters/35-habakkuk/Habakkuk 1|Habakkuk 1]] · [[connections/books/Habakkuk|Habakkuk]] · [[connections/chapters/35-habakkuk/Habakkuk 3|Habakkuk 3]] →
+
+**Dated** *(Ussher, after the Treasury of Scripture Knowledge)*: [[connections/timeline/7th century BC|626 BC]]
 
 ## Text
 

@@ -7,6 +7,9 @@ original: ["Διονύσιος"]
 verses: 1
 chapters: 1
 first: "Acts 17:34"
+placed: "AD 53"
+placed_year: 53
+sex: "male"
 tags: ["person"]
 ---
 
@@ -15,6 +18,14 @@ tags: ["person"]
 Areopagite who believed Paul's message in Athens
 
 **Original-language names:** Διονύσιος (G1354)
+
+## When
+
+- **Placed around:** [[connections/timeline/1st century AD|AD 53]] *(Ussher: the median date of the passages naming them)*
+
+## Events
+
+- [[connections/timeline/1st century AD|AD 48]] · [[connections/events/Paul preaches in Athens|Paul preaches in Athens]]
 
 ## Appears in
 

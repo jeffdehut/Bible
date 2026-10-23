@@ -7,6 +7,10 @@ original: ["אֱלִישָׁע", "Ἐλισσαῖος"]
 verses: 53
 chapters: 11
 first: "1 Kings 19:16"
+placed: "894 BC"
+placed_year: -893
+generation: 2
+sex: "male"
 tags: ["person"]
 ---
 
@@ -15,6 +19,29 @@ tags: ["person"]
 A prophet who succeeded Elijah.
 
 **Original-language names:** אֱלִישָׁע (H0477) · Ἐλισσαῖος (G1666)
+
+## When
+
+- **Placed around:** [[connections/timeline/9th century BC|894 BC]] *(Ussher: the median date of the passages naming them)*
+
+## Family
+
+- **Father:** [[connections/people/Shaphat (1 Kings 19.16)|Shaphat (1 Kings 19.16)]]
+
+**Family group:** [[connections/genealogy/Family of Shaphat (1 Kings 19.16)|Family of Shaphat (1 Kings 19.16)]], generation 2
+
+```mermaid
+flowchart TB
+  n0["Elisha"]:::me
+  n1["Shaphat (1 Kings 19.16)"]
+  n1 --> n0
+  classDef me stroke-width:3px
+  classDef spouse stroke-dasharray:4
+```
+
+## Events
+
+- [[connections/timeline/9th century BC|897 BC]] · [[connections/events/Prophecies of Elisha|Prophecies of Elisha]]
 
 ## Appears in
 

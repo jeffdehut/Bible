@@ -7,6 +7,10 @@ original: ["אִיתִיאֵל"]
 verses: 1
 chapters: 1
 first: "Nehemiah 11:7"
+placed: "445 BC"
+placed_year: -444
+generation: 2
+sex: "male"
 tags: ["person"]
 ---
 
@@ -15,6 +19,28 @@ tags: ["person"]
 Descendant of Benjamin living in Jerusalem.
 
 **Original-language names:** אִיתִיאֵל (H0384)
+
+## When
+
+- **Placed around:** [[connections/timeline/5th century BC|445 BC]] *(Ussher: the median date of the passages naming them)*
+
+## Family
+
+- **Father:** [[connections/people/Jeshaiah (Nehemiah 11.7)|Jeshaiah (Nehemiah 11.7)]]
+- **Children:** [[connections/people/Maaseiah (Nehemiah 11.7)|Maaseiah (Nehemiah 11.7)]]
+
+**Family group:** [[connections/genealogy/Family of Jeshaiah (Nehemiah 11.7)|Family of Jeshaiah (Nehemiah 11.7)]], generation 2
+
+```mermaid
+flowchart TB
+  n0["Ithiel (Nehemiah 11.7)"]:::me
+  n1["Jeshaiah (Nehemiah 11.7)"]
+  n1 --> n0
+  n2["Maaseiah (Nehemiah 11.7)"]
+  n0 --> n2
+  classDef me stroke-width:3px
+  classDef spouse stroke-dasharray:4
+```
 
 ## Appears in
 

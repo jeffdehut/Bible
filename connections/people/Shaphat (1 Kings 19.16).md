@@ -7,6 +7,10 @@ original: ["שָׁפָט"]
 verses: 4
 chapters: 3
 first: "1 Kings 19:16"
+placed: "895 BC"
+placed_year: -894
+generation: 1
+sex: "male"
 tags: ["person"]
 ---
 
@@ -15,6 +19,25 @@ tags: ["person"]
 Father of Elisha the prophet
 
 **Original-language names:** שָׁפָט (H8202)
+
+## When
+
+- **Placed around:** [[connections/timeline/9th century BC|895 BC]] *(Ussher: the median date of the passages naming them)*
+
+## Family
+
+- **Children:** [[connections/people/Elisha|Elisha]]
+
+**Family group:** [[connections/genealogy/Family of Shaphat (1 Kings 19.16)|Family of Shaphat (1 Kings 19.16)]], generation 1
+
+```mermaid
+flowchart TB
+  n0["Shaphat (1 Kings 19.16)"]:::me
+  n1["Elisha"]
+  n0 --> n1
+  classDef me stroke-width:3px
+  classDef spouse stroke-dasharray:4
+```
 
 ## Appears in
 

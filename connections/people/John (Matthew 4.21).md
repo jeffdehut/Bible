@@ -8,6 +8,10 @@ original: ["Ἰωάννης", "Βοανεργές"]
 verses: 35
 chapters: 24
 first: "Matthew 4:21"
+placed: "AD 33"
+placed_year: 33
+generation: 78
+sex: "male"
 tags: ["person"]
 ---
 
@@ -18,6 +22,46 @@ Apostle and son of Zebedee
 **Also called:** Boanerges
 
 **Original-language names:** Ἰωάννης (G2491) · Βοανεργές (G0993)
+
+## When
+
+- **Placed around:** [[connections/timeline/1st century AD|AD 33]] *(Ussher: the median date of the passages naming them)*
+
+## Family
+
+- **Father:** [[connections/people/Zebedee|Zebedee]]
+- **Mother:** [[connections/people/Salome (Mark 15.40)|Salome (Mark 15.40) (uncertain)]]
+- **Brothers and sisters:** [[connections/people/James (Matthew 4.21)|James (Matthew 4.21)]]
+
+**Family group:** [[connections/genealogy/Family of Adam|Family of Adam]], generation 78
+
+```mermaid
+flowchart TB
+  n0["John (Matthew 4.21)"]:::me
+  n1["Heli"]
+  n2["Salome (Mark 15.40)"]
+  n1 --> n2
+  n3["wife of Heli (Luke 1.5)"]
+  n3 --> n2
+  n2 --> n0
+  n4["Zebedee"]
+  n4 --> n0
+  n5["James (Matthew 4.21)"]
+  n2 --> n5
+  classDef me stroke-width:3px
+  classDef spouse stroke-dasharray:4
+```
+
+## Events
+
+- [[connections/timeline/1st century AD|AD 27]] · [[connections/events/First Disciples Gathered|First Disciples Gathered]]
+- [[connections/timeline/1st century AD|AD 28]] · [[connections/events/Apostles Chosen|Apostles Chosen]]
+- [[connections/timeline/1st century AD|AD 29]] · [[connections/events/The Transfiguation|The Transfiguation]]
+- [[connections/timeline/1st century AD|AD 30]] · [[connections/events/Olivet Discourse|Olivet Discourse]]
+- [[connections/timeline/1st century AD|AD 30]] · [[connections/events/Matthias replaces Judas|Matthias replaces Judas]]
+- [[connections/timeline/1st century AD|AD 30]] · [[connections/events/Lame man healed|Lame man healed]]
+- [[connections/timeline/1st century AD|AD 30]] · [[connections/events/Peter and John's Trial|Peter and John's Trial]]
+- [[connections/timeline/1st century AD|AD 31]] · [[connections/events/Philip preaches in Samaria|Philip preaches in Samaria]]
 
 ## Appears in
 

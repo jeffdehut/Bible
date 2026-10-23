@@ -7,6 +7,7 @@ original: ["פְּנִנָּה"]
 verses: 2
 chapters: 1
 first: "1 Samuel 1:2"
+sex: "female"
 tags: ["person"]
 ---
 
@@ -15,6 +16,19 @@ tags: ["person"]
 Elkanah's wife, rival of Hannah
 
 **Original-language names:** פְּנִנָּה (H6444)
+
+## Family
+
+- **Spouses:** [[connections/people/Elkanah (1 Samuel 1.1)|Elkanah (1 Samuel 1.1)]]
+
+```mermaid
+flowchart TB
+  n0["Peninnah"]:::me
+  n1["Elkanah (1 Samuel 1.1)"]:::spouse
+  n0 -.- n1
+  classDef me stroke-width:3px
+  classDef spouse stroke-dasharray:4
+```
 
 ## Appears in
 

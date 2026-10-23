@@ -7,6 +7,7 @@ original: ["מְרָיָה"]
 verses: 1
 chapters: 1
 first: "Nehemiah 12:12"
+sex: "male"
 tags: ["person"]
 ---
 

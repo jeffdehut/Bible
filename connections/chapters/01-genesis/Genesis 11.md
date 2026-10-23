@@ -7,12 +7,16 @@ language: "Hebrew/Aramaic"
 verses: 32
 cross_references_out: 24
 cross_references_in: 11
+dated_from: -2345
+dated_to: -1816
 tags: ["chapter", "ot", "torah"]
 ---
 
 # Genesis 11
 
 ← [[connections/chapters/01-genesis/Genesis 10|Genesis 10]] · [[connections/books/Genesis|Genesis]] · [[connections/chapters/01-genesis/Genesis 12|Genesis 12]] →
+
+**Dated** *(Ussher, after the Treasury of Scripture Knowledge)*: [[connections/timeline/24th century BC|2346 BC]] – [[connections/timeline/19th century BC|1817 BC]]
 
 ## Text
 

@@ -7,12 +7,16 @@ language: "Hebrew"
 verses: 6
 cross_references_out: 34
 cross_references_in: 18
+dated_from: -539
+dated_to: -539
 tags: ["chapter", "ot", "wisdom"]
 ---
 
 # Psalms 13
 
 ← [[connections/chapters/19-psalms/Psalms 12|Psalms 12]] · [[connections/books/Psalms|Psalms]] · [[connections/chapters/19-psalms/Psalms 14|Psalms 14]] →
+
+**Dated** *(Ussher, after the Treasury of Scripture Knowledge)*: [[connections/timeline/6th century BC|540 BC]]
 
 ## Text
 

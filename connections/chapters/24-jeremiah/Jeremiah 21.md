@@ -7,12 +7,16 @@ language: "Hebrew/Aramaic"
 verses: 14
 cross_references_out: 8
 cross_references_in: 8
+dated_from: -588
+dated_to: -588
 tags: ["chapter", "ot", "prophets"]
 ---
 
 # Jeremiah 21
 
 ← [[connections/chapters/24-jeremiah/Jeremiah 20|Jeremiah 20]] · [[connections/books/Jeremiah|Jeremiah]] · [[connections/chapters/24-jeremiah/Jeremiah 22|Jeremiah 22]] →
+
+**Dated** *(Ussher, after the Treasury of Scripture Knowledge)*: [[connections/timeline/6th century BC|589 BC]]
 
 ## Text
 

@@ -7,6 +7,9 @@ original: ["זַכּוּר", "זָבוּד"]
 verses: 1
 chapters: 1
 first: "Ezra 8:14"
+placed: "457 BC"
+placed_year: -456
+sex: "male"
 tags: ["person"]
 ---
 
@@ -15,6 +18,10 @@ tags: ["person"]
 Leader of returning exiles with Shecaniah
 
 **Original-language names:** זַכּוּר (H2139) · זָבוּד (H2072)
+
+## When
+
+- **Placed around:** [[connections/timeline/5th century BC|457 BC]] *(Ussher: the median date of the passages naming them)*
 
 ## Appears in
 

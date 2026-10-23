@@ -8,6 +8,9 @@ original: ["מִסְפָּר", "מִסְפֶּרֶת"]
 verses: 2
 chapters: 2
 first: "Ezra 2:2"
+placed: "445 BC"
+placed_year: -444
+sex: "male"
 tags: ["person"]
 ---
 
@@ -18,6 +21,10 @@ One of the returnees from Babylonian exile.
 **Also called:** Mispereth
 
 **Original-language names:** מִסְפָּר (H4558) · מִסְפֶּרֶת (H4559)
+
+## When
+
+- **Placed around:** [[connections/timeline/5th century BC|445 BC]] *(Ussher: the median date of the passages naming them)*
 
 ## Appears in
 

@@ -8,6 +8,10 @@ original: ["מִיכָא", "מִיכָיָה"]
 verses: 2
 chapters: 2
 first: "Nehemiah 11:22"
+placed: "445 BC"
+placed_year: -444
+generation: 1
+sex: "male"
 tags: ["person"]
 ---
 
@@ -18,6 +22,25 @@ A Levite leader in Jerusalem after the exile.
 **Also called:** Micaiah
 
 **Original-language names:** מִיכָא (H4316) · מִיכָיָה (H4320)
+
+## When
+
+- **Placed around:** [[connections/timeline/5th century BC|445 BC]] *(Ussher: the median date of the passages naming them)*
+
+## Family
+
+- **Children:** [[connections/people/Mattaniah (Nehemiah 11.22)|Mattaniah (Nehemiah 11.22)]]
+
+**Family group:** [[connections/genealogy/Family of Mica (Nehemiah 11.22)|Family of Mica (Nehemiah 11.22)]], generation 1
+
+```mermaid
+flowchart TB
+  n0["Mica (Nehemiah 11.22)"]:::me
+  n1["Mattaniah (Nehemiah 11.22)"]
+  n0 --> n1
+  classDef me stroke-width:3px
+  classDef spouse stroke-dasharray:4
+```
 
 ## Appears in
 

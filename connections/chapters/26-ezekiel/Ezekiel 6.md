@@ -7,12 +7,16 @@ language: "Hebrew"
 verses: 14
 cross_references_out: 8
 cross_references_in: 3
+dated_from: -593
+dated_to: -593
 tags: ["chapter", "ot", "prophets"]
 ---
 
 # Ezekiel 6
 
 ← [[connections/chapters/26-ezekiel/Ezekiel 5|Ezekiel 5]] · [[connections/books/Ezekiel|Ezekiel]] · [[connections/chapters/26-ezekiel/Ezekiel 7|Ezekiel 7]] →
+
+**Dated** *(Ussher, after the Treasury of Scripture Knowledge)*: [[connections/timeline/6th century BC|594 BC]]
 
 ## Text
 

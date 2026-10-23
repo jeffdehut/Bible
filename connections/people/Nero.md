@@ -8,6 +8,9 @@ original: ["Νέρων", "Καῖσαρ"]
 verses: 2
 chapters: 2
 first: "Philippians 4:22"
+placed: "AD 66"
+placed_year: 66
+sex: "male"
 tags: ["person"]
 ---
 
@@ -18,6 +21,15 @@ Roman emperor
 **Also called:** Caesar
 
 **Original-language names:** Νέρων (G3505) · Καῖσαρ (G2541)
+
+## When
+
+- **Placed around:** [[connections/timeline/1st century AD|AD 66]] *(Ussher: the median date of the passages naming them)*
+
+## Family
+
+- **Tribe or nation:** Italy
+
 
 ## Appears in
 

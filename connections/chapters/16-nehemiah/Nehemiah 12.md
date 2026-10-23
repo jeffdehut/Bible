@@ -7,12 +7,16 @@ language: "Hebrew"
 verses: 47
 cross_references_out: 1
 cross_references_in: 5
+dated_from: -444
+dated_to: -444
 tags: ["chapter", "ot", "history"]
 ---
 
 # Nehemiah 12
 
 ← [[connections/chapters/16-nehemiah/Nehemiah 11|Nehemiah 11]] · [[connections/books/Nehemiah|Nehemiah]] · [[connections/chapters/16-nehemiah/Nehemiah 13|Nehemiah 13]] →
+
+**Dated** *(Ussher, after the Treasury of Scripture Knowledge)*: [[connections/timeline/5th century BC|445 BC]]
 
 ## Text
 

@@ -8,6 +8,9 @@ original: ["הוֹדַוְיָה", "הוֹדְיָה", "יְהוּדָה"]
 verses: 3
 chapters: 3
 first: "Ezra 2:40"
+placed: "445 BC"
+placed_year: -444
+sex: "male"
 tags: ["person"]
 ---
 
@@ -18,6 +21,10 @@ A Levite who returned from exile.
 **Also called:** Hodevah, Judah
 
 **Original-language names:** הוֹדַוְיָה (H1938) · הוֹדְיָה (H1937) · יְהוּדָה (H3063)
+
+## When
+
+- **Placed around:** [[connections/timeline/5th century BC|445 BC]] *(Ussher: the median date of the passages naming them)*
 
 ## Appears in
 

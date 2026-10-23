@@ -7,6 +7,10 @@ original: ["אֲחִיסָמָךְ"]
 verses: 3
 chapters: 3
 first: "Exodus 31:6"
+placed: "1491 BC"
+placed_year: -1490
+generation: 1
+sex: "male"
 tags: ["person"]
 ---
 
@@ -15,6 +19,25 @@ tags: ["person"]
 Father of Oholiab, a skilled artisan for the tabernacle
 
 **Original-language names:** אֲחִיסָמָךְ (H0294)
+
+## When
+
+- **Placed around:** [[connections/timeline/15th century BC|1491 BC]] *(Ussher: the median date of the passages naming them)*
+
+## Family
+
+- **Children:** [[connections/people/Oholiab|Oholiab]]
+
+**Family group:** [[connections/genealogy/Family of Ahisamach|Family of Ahisamach]], generation 1
+
+```mermaid
+flowchart TB
+  n0["Ahisamach"]:::me
+  n1["Oholiab"]
+  n0 --> n1
+  classDef me stroke-width:3px
+  classDef spouse stroke-dasharray:4
+```
 
 ## Appears in
 

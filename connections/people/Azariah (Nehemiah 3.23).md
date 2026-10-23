@@ -7,6 +7,10 @@ original: ["עֲזַרְיָה"]
 verses: 2
 chapters: 1
 first: "Nehemiah 3:23"
+placed: "445 BC"
+placed_year: -444
+generation: 3
+sex: "male"
 tags: ["person"]
 ---
 
@@ -15,6 +19,29 @@ tags: ["person"]
 Son of Maaseiah, repairer of Jerusalem's wall
 
 **Original-language names:** עֲזַרְיָה (H5838)
+
+## When
+
+- **Placed around:** [[connections/timeline/5th century BC|445 BC]] *(Ussher: the median date of the passages naming them)*
+
+## Family
+
+- **Father:** [[connections/people/Maaseiah (Nehemiah 3.23)|Maaseiah (Nehemiah 3.23)]]
+
+**Line of descent** (3 generations, father to son): [[connections/people/Ananiah|Ananiah]] → [[connections/people/Maaseiah (Nehemiah 3.23)|Maaseiah (Nehemiah 3.23)]] → **Azariah (Nehemiah 3.23)**
+
+**Family group:** [[connections/genealogy/Family of Ananiah|Family of Ananiah]], generation 3
+
+```mermaid
+flowchart TB
+  n0["Azariah (Nehemiah 3.23)"]:::me
+  n1["Ananiah"]
+  n2["Maaseiah (Nehemiah 3.23)"]
+  n1 --> n2
+  n2 --> n0
+  classDef me stroke-width:3px
+  classDef spouse stroke-dasharray:4
+```
 
 ## Appears in
 

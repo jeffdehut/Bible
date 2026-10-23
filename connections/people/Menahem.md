@@ -7,6 +7,10 @@ original: ["מְנַחֵם"]
 verses: 8
 chapters: 1
 first: "2 Kings 15:14"
+placed: "772 BC"
+placed_year: -771
+generation: 2
+sex: "male"
 tags: ["person"]
 ---
 
@@ -15,6 +19,35 @@ tags: ["person"]
 King of Israel who reigned for ten years.
 
 **Original-language names:** מְנַחֵם (H4505)
+
+## When
+
+- **Placed around:** [[connections/timeline/8th century BC|772 BC]] *(Ussher: the median date of the passages naming them)*
+
+## Family
+
+- **Father:** [[connections/people/Gadi|Gadi]]
+- **Children:** [[connections/people/Pekahiah|Pekahiah]]
+- **Tribe or nation:** Israel
+
+**Family group:** [[connections/genealogy/Family of Gadi|Family of Gadi]], generation 2
+
+```mermaid
+flowchart TB
+  n0["Menahem"]:::me
+  n1["Gadi"]
+  n1 --> n0
+  n2["Pekahiah"]
+  n0 --> n2
+  classDef me stroke-width:3px
+  classDef spouse stroke-dasharray:4
+```
+
+## Events
+
+- [[connections/timeline/8th century BC|772 BC]] · [[connections/events/Death of Shallum|Death of Shallum]]
+- [[connections/timeline/8th century BC|772 BC]] · [[connections/events/Reign of Menahem|Reign of Menahem]]
+- [[connections/timeline/8th century BC|761 BC]] · [[connections/events/Death of Menahem|Death of Menahem]]
 
 ## Appears in
 

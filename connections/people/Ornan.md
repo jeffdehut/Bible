@@ -8,6 +8,9 @@ original: ["אׇרְנָן", "אֲרַוְנָה"]
 verses: 17
 chapters: 3
 first: "2 Samuel 24:16"
+placed: "1017 BC"
+placed_year: -1016
+sex: "male"
 tags: ["person"]
 ---
 
@@ -18,6 +21,10 @@ Jebusite, sold threshing floor to David
 **Also called:** Araunah
 
 **Original-language names:** אׇרְנָן (H0771) · אֲרַוְנָה (H0728)
+
+## When
+
+- **Placed around:** [[connections/timeline/11th century BC|1017 BC]] *(Ussher: the median date of the passages naming them)*
 
 ## Appears in
 

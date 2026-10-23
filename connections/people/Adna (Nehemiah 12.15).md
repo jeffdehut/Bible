@@ -7,6 +7,7 @@ original: ["עַדְנָא"]
 verses: 1
 chapters: 1
 first: "Nehemiah 12:15"
+sex: "male"
 tags: ["person"]
 ---
 

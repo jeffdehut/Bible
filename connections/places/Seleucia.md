@@ -17,6 +17,11 @@ Port city from which Paul and Barnabas sailed
 
 **Original-language names:** Σελεύκεια (G4581)
 
+## Events
+
+- [[connections/timeline/1st century AD|AD 45]] · [[connections/events/First Missionary Journey|First Missionary Journey]]
+- [[connections/timeline/1st century AD|AD 45]] · [[connections/events/Barnabas and Saul go to Cyprus|Barnabas and Saul go to Cyprus]]
+
 ## Appears in
 
 [[connections/chapters/44-acts/Acts 13|Acts 13]]

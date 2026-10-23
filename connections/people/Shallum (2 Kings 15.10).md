@@ -7,6 +7,10 @@ original: ["שַׁלּוּם"]
 verses: 4
 chapters: 1
 first: "2 Kings 15:10"
+placed: "772 BC"
+placed_year: -771
+generation: 2
+sex: "male"
 tags: ["person"]
 ---
 
@@ -15,6 +19,32 @@ tags: ["person"]
 King of Israel who conspired against Zechariah
 
 **Original-language names:** שַׁלּוּם (H7967)
+
+## When
+
+- **Placed around:** [[connections/timeline/8th century BC|772 BC]] *(Ussher: the median date of the passages naming them)*
+
+## Family
+
+- **Father:** [[connections/people/Jabesh|Jabesh]]
+- **Tribe or nation:** Israel
+
+**Family group:** [[connections/genealogy/Family of Jabesh|Family of Jabesh]], generation 2
+
+```mermaid
+flowchart TB
+  n0["Shallum (2 Kings 15.10)"]:::me
+  n1["Jabesh"]
+  n1 --> n0
+  classDef me stroke-width:3px
+  classDef spouse stroke-dasharray:4
+```
+
+## Events
+
+- [[connections/timeline/8th century BC|772 BC]] · [[connections/events/Reign of Shallum|Reign of Shallum]]
+- [[connections/timeline/8th century BC|772 BC]] · [[connections/events/Death of Zachariah|Death of Zachariah]]
+- [[connections/timeline/8th century BC|772 BC]] · [[connections/events/Death of Shallum|Death of Shallum]]
 
 ## Appears in
 

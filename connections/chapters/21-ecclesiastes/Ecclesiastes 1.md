@@ -7,12 +7,16 @@ language: "Hebrew"
 verses: 18
 cross_references_out: 32
 cross_references_in: 17
+dated_from: -976
+dated_to: -976
 tags: ["chapter", "ot", "wisdom"]
 ---
 
 # Ecclesiastes 1
 
 ← [[connections/chapters/20-proverbs/Proverbs 31|Proverbs 31]] · [[connections/books/Ecclesiastes|Ecclesiastes]] · [[connections/chapters/21-ecclesiastes/Ecclesiastes 2|Ecclesiastes 2]] →
+
+**Dated** *(Ussher, after the Treasury of Scripture Knowledge)*: [[connections/timeline/10th century BC|977 BC]]
 
 ## Text
 

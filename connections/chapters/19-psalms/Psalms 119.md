@@ -7,12 +7,16 @@ language: "Hebrew"
 verses: 176
 cross_references_out: 509
 cross_references_in: 503
+dated_from: -443
+dated_to: -443
 tags: ["chapter", "ot", "wisdom"]
 ---
 
 # Psalms 119
 
 ← [[connections/chapters/19-psalms/Psalms 118|Psalms 118]] · [[connections/books/Psalms|Psalms]] · [[connections/chapters/19-psalms/Psalms 120|Psalms 120]] →
+
+**Dated** *(Ussher, after the Treasury of Scripture Knowledge)*: [[connections/timeline/5th century BC|444 BC]]
 
 ## Text
 

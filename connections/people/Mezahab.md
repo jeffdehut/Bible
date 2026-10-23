@@ -7,6 +7,10 @@ original: ["מֵי זָהָב"]
 verses: 2
 chapters: 2
 first: "Genesis 36:39"
+placed: "1617 BC"
+placed_year: -1616
+generation: 1
+sex: "male"
 tags: ["person"]
 ---
 
@@ -15,6 +19,26 @@ tags: ["person"]
 Grandfather of Mehetabel, wife of Edomite king Hadar.
 
 **Original-language names:** מֵי זָהָב (H4314)
+
+## When
+
+- **Placed around:** [[connections/timeline/17th century BC|1617 BC]] *(Ussher: the median date of the passages naming them)*
+
+## Family
+
+- **Children:** [[connections/people/Matred|Matred]]
+- **Tribe or nation:** Edom
+
+**Family group:** [[connections/genealogy/Family of Mezahab|Family of Mezahab]], generation 1
+
+```mermaid
+flowchart TB
+  n0["Mezahab"]:::me
+  n1["Matred"]
+  n0 --> n1
+  classDef me stroke-width:3px
+  classDef spouse stroke-dasharray:4
+```
 
 ## Appears in
 

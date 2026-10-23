@@ -7,12 +7,16 @@ language: "Hebrew"
 verses: 23
 cross_references_out: 8
 cross_references_in: 4
+dated_from: -1092
+dated_to: -1092
 tags: ["chapter", "ot", "history"]
 ---
 
 # 1 Samuel 13
 
 ← [[connections/chapters/09-1-samuel/1 Samuel 12|1 Samuel 12]] · [[connections/books/1 Samuel|1 Samuel]] · [[connections/chapters/09-1-samuel/1 Samuel 14|1 Samuel 14]] →
+
+**Dated** *(Ussher, after the Treasury of Scripture Knowledge)*: [[connections/timeline/11th century BC|1093 BC]]
 
 ## Text
 

@@ -7,12 +7,16 @@ language: "Hebrew"
 verses: 12
 cross_references_out: 59
 cross_references_in: 55
+dated_from: -1020
+dated_to: -1020
 tags: ["chapter", "ot", "wisdom"]
 ---
 
 # Psalms 42
 
 ← [[connections/chapters/19-psalms/Psalms 41|Psalms 41]] · [[connections/books/Psalms|Psalms]] · [[connections/chapters/19-psalms/Psalms 43|Psalms 43]] →
+
+**Dated** *(Ussher, after the Treasury of Scripture Knowledge)*: [[connections/timeline/11th century BC|1021 BC]]
 
 ## Text
 

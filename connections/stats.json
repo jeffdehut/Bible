@@ -9,9 +9,55 @@
   "tvtms_rows_checked": 4957,
   "tvtms_rows_passed": 4953,
   "renumberings": 1970,
-  "people": 3004,
+  "people": 3003,
   "places": 1004,
-  "same_verse_pairs": 15322,
+  "unnamed_people": 55,
+  "same_verse_pairs": 15318,
+  "parent_child_links": 1921,
+  "families": 330,
+  "people_in_families": 2064,
+  "largest_family": 1025,
+  "largest_family_generations": 78,
+  "theographic_commit": "744355c7a5f38efd407bc67a5257c99aca9532bc",
+  "theographic_parents_agree": 1418,
+  "theographic_parents_differ": 22,
+  "theographic_people_matched": 2694,
+  "theographic_places_matched": 1131,
+  "dated_verses": 28020,
+  "events": 450,
+  "centuries": 42,
+  "people_with_lifespans": 84,
+  "synchronisms": 23,
+  "rulers": 41,
+  "undated_chapters": 127,
+  "undated_psalms": 113,
+  "ussher_anchors": [
+    [
+      "Creation",
+      -4003,
+      -4003
+    ],
+    [
+      "The Flood",
+      -2347,
+      -2347
+    ],
+    [
+      "Terah dies; Abram leaves Haran",
+      -1920,
+      -1920
+    ],
+    [
+      "The Exodus",
+      -1490,
+      -1490
+    ],
+    [
+      "Temple begun",
+      -1011,
+      -1010
+    ]
+  ],
   "tipnr_references_unresolved": 0,
   "chapters": 1189,
   "broken_links": 0

@@ -7,6 +7,8 @@ original: ["מְעוּנִים"]
 verses: 1
 chapters: 1
 first: "1 Chronicles 4:41"
+placed: "1721 BC"
+placed_year: -1720
 tags: ["person"]
 ---
 
@@ -15,6 +17,15 @@ tags: ["person"]
 A people group who were enemies of Israel.
 
 **Original-language names:** מְעוּנִים (H4586)
+
+## When
+
+- **Placed around:** [[connections/timeline/18th century BC|1721 BC]] *(Ussher: the median date of the passages naming them)*
+
+## Family
+
+- **Tribe or nation:** Canaan
+
 
 ## Appears in
 

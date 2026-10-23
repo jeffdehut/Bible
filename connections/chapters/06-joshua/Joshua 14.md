@@ -7,12 +7,16 @@ language: "Hebrew"
 verses: 15
 cross_references_out: 6
 cross_references_in: 9
+dated_from: -1443
+dated_to: -1443
 tags: ["chapter", "ot", "history"]
 ---
 
 # Joshua 14
 
 ← [[connections/chapters/06-joshua/Joshua 13|Joshua 13]] · [[connections/books/Joshua|Joshua]] · [[connections/chapters/06-joshua/Joshua 15|Joshua 15]] →
+
+**Dated** *(Ussher, after the Treasury of Scripture Knowledge)*: [[connections/timeline/15th century BC|1444 BC]]
 
 ## Text
 

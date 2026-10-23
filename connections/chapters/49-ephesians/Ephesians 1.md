@@ -7,12 +7,16 @@ language: "Greek"
 verses: 23
 cross_references_out: 359
 cross_references_in: 299
+dated_from: 64
+dated_to: 64
 tags: ["chapter", "nt", "pauline-epistles"]
 ---
 
 # Ephesians 1
 
 ← [[connections/chapters/48-galatians/Galatians 6|Galatians 6]] · [[connections/books/Ephesians|Ephesians]] · [[connections/chapters/49-ephesians/Ephesians 2|Ephesians 2]] →
+
+**Dated** *(Ussher, after the Treasury of Scripture Knowledge)*: [[connections/timeline/1st century AD|AD 64]]
 
 ## Text
 

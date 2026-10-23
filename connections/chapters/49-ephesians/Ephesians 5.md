@@ -7,12 +7,16 @@ language: "Greek"
 verses: 33
 cross_references_out: 300
 cross_references_in: 322
+dated_from: 64
+dated_to: 64
 tags: ["chapter", "nt", "pauline-epistles"]
 ---
 
 # Ephesians 5
 
 ← [[connections/chapters/49-ephesians/Ephesians 4|Ephesians 4]] · [[connections/books/Ephesians|Ephesians]] · [[connections/chapters/49-ephesians/Ephesians 6|Ephesians 6]] →
+
+**Dated** *(Ussher, after the Treasury of Scripture Knowledge)*: [[connections/timeline/1st century AD|AD 64]]
 
 ## Text
 

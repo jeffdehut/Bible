@@ -7,6 +7,10 @@ original: ["בְּעוֹר", "Βοσόρ, Βεώρ"]
 verses: 9
 chapters: 8
 first: "Numbers 22:5"
+placed: "1451 BC"
+placed_year: -1450
+generation: 1
+sex: "male"
 tags: ["person"]
 ---
 
@@ -15,6 +19,25 @@ tags: ["person"]
 Father of Balaam
 
 **Original-language names:** בְּעוֹר (H1160) · Βοσόρ, Βεώρ (G1007)
+
+## When
+
+- **Placed around:** [[connections/timeline/15th century BC|1451 BC]] *(Ussher: the median date of the passages naming them)*
+
+## Family
+
+- **Children:** [[connections/people/Balaam|Balaam]]
+
+**Family group:** [[connections/genealogy/Family of Beor (Numbers 22.5)|Family of Beor (Numbers 22.5)]], generation 1
+
+```mermaid
+flowchart TB
+  n0["Beor (Numbers 22.5)"]:::me
+  n1["Balaam"]
+  n0 --> n1
+  classDef me stroke-width:3px
+  classDef spouse stroke-dasharray:4
+```
 
 ## Appears in
 

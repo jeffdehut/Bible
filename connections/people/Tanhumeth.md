@@ -7,6 +7,10 @@ original: ["תַּנְחֻ֫מֶת"]
 verses: 2
 chapters: 2
 first: "2 Kings 25:23"
+placed: "588 BC"
+placed_year: -587
+generation: 1
+sex: "male"
 tags: ["person"]
 ---
 
@@ -15,6 +19,26 @@ tags: ["person"]
 Supporter of Gedaliah after Jerusalem's fall
 
 **Original-language names:** תַּנְחֻ֫מֶת (H8576)
+
+## When
+
+- **Placed around:** [[connections/timeline/6th century BC|588 BC]] *(Ussher: the median date of the passages naming them)*
+
+## Family
+
+- **Children:** [[connections/people/Seraiah (2 Kings 25.23)|Seraiah (2 Kings 25.23)]]
+- **Tribe or nation:** Tribe of Judah(?)
+
+**Family group:** [[connections/genealogy/Family of Tanhumeth|Family of Tanhumeth]], generation 1
+
+```mermaid
+flowchart TB
+  n0["Tanhumeth"]:::me
+  n1["Seraiah (2 Kings 25.23)"]
+  n0 --> n1
+  classDef me stroke-width:3px
+  classDef spouse stroke-dasharray:4
+```
 
 ## Appears in
 

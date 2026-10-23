@@ -7,6 +7,10 @@ original: ["אֵלָה"]
 verses: 1
 chapters: 1
 first: "1 Chronicles 9:8"
+placed: "536 BC"
+placed_year: -535
+generation: 3
+sex: "male"
 tags: ["person"]
 ---
 
@@ -15,6 +19,29 @@ tags: ["person"]
 Son of Uzzi, a Benjamite
 
 **Original-language names:** אֵלָה (H0425)
+
+## When
+
+- **Placed around:** [[connections/timeline/6th century BC|536 BC]] *(Ussher: the median date of the passages naming them)*
+
+## Family
+
+- **Father:** [[connections/people/Uzzi (1 Chronicles 9.8)|Uzzi (1 Chronicles 9.8)]]
+
+**Line of descent** (3 generations, father to son): [[connections/people/Michri|Michri]] → [[connections/people/Uzzi (1 Chronicles 9.8)|Uzzi (1 Chronicles 9.8)]] → **Elah (1 Chronicles 9.8)**
+
+**Family group:** [[connections/genealogy/Family of Michri|Family of Michri]], generation 3
+
+```mermaid
+flowchart TB
+  n0["Elah (1 Chronicles 9.8)"]:::me
+  n1["Michri"]
+  n2["Uzzi (1 Chronicles 9.8)"]
+  n1 --> n2
+  n2 --> n0
+  classDef me stroke-width:3px
+  classDef spouse stroke-dasharray:4
+```
 
 ## Appears in
 

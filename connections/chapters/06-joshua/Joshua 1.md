@@ -7,12 +7,16 @@ language: "Hebrew"
 verses: 18
 cross_references_out: 98
 cross_references_in: 77
+dated_from: -1450
+dated_to: -1450
 tags: ["chapter", "ot", "history"]
 ---
 
 # Joshua 1
 
 ← [[connections/chapters/05-deuteronomy/Deuteronomy 34|Deuteronomy 34]] · [[connections/books/Joshua|Joshua]] · [[connections/chapters/06-joshua/Joshua 2|Joshua 2]] →
+
+**Dated** *(Ussher, after the Treasury of Scripture Knowledge)*: [[connections/timeline/15th century BC|1451 BC]]
 
 ## Text
 

@@ -7,12 +7,16 @@ language: "Hebrew"
 verses: 43
 cross_references_out: 114
 cross_references_in: 99
+dated_from: -535
+dated_to: -535
 tags: ["chapter", "ot", "wisdom"]
 ---
 
 # Psalms 107
 
 ← [[connections/chapters/19-psalms/Psalms 106|Psalms 106]] · [[connections/books/Psalms|Psalms]] · [[connections/chapters/19-psalms/Psalms 108|Psalms 108]] →
+
+**Dated** *(Ussher, after the Treasury of Scripture Knowledge)*: [[connections/timeline/6th century BC|536 BC]]
 
 ## Text
 

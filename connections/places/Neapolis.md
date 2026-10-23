@@ -17,6 +17,10 @@ A port city in Macedonia visited by Paul
 
 **Original-language names:** Νεάπολις (G3496)
 
+## Events
+
+- [[connections/timeline/1st century AD|AD 47]] · [[connections/events/Call to Macedonia|Call to Macedonia]]
+
 ## Appears in
 
 [[connections/chapters/44-acts/Acts 16|Acts 16]]

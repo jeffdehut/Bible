@@ -7,12 +7,16 @@ language: "Hebrew"
 verses: 28
 cross_references_out: 38
 cross_references_in: 33
+dated_from: -1450
+dated_to: -1450
 tags: ["chapter", "ot", "torah"]
 ---
 
 # Deuteronomy 29
 
 ← [[connections/chapters/05-deuteronomy/Deuteronomy 28|Deuteronomy 28]] · [[connections/books/Deuteronomy|Deuteronomy]] · [[connections/chapters/05-deuteronomy/Deuteronomy 30|Deuteronomy 30]] →
+
+**Dated** *(Ussher, after the Treasury of Scripture Knowledge)*: [[connections/timeline/15th century BC|1451 BC]]
 
 ## Text
 

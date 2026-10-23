@@ -7,12 +7,16 @@ language: "Hebrew"
 verses: 12
 cross_references_out: 0
 cross_references_in: 2
+dated_from: -1057
+dated_to: -1055
 tags: ["chapter", "ot", "history"]
 ---
 
 # 1 Samuel 27
 
 ← [[connections/chapters/09-1-samuel/1 Samuel 26|1 Samuel 26]] · [[connections/books/1 Samuel|1 Samuel]] · [[connections/chapters/09-1-samuel/1 Samuel 28|1 Samuel 28]] →
+
+**Dated** *(Ussher, after the Treasury of Scripture Knowledge)*: [[connections/timeline/11th century BC|1058 BC]] – [[connections/timeline/11th century BC|1056 BC]]
 
 ## Text
 

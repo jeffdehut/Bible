@@ -17,6 +17,10 @@ An ancient city in Nimrod's kingdom, probably Akkad.
 
 **Original-language names:** אַכַּד (H0390)
 
+## Events
+
+- [[connections/timeline/19th century BC|1822 BC]] · [[connections/events/Nimrod's kingdom begins|Nimrod's kingdom begins]]
+
 ## Appears in
 
 [[connections/chapters/01-genesis/Genesis 10|Genesis 10]]

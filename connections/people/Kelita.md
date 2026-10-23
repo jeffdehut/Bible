@@ -7,6 +7,9 @@ original: ["קְלִיטָא"]
 verses: 2
 chapters: 2
 first: "Nehemiah 8:7"
+placed: "445 BC"
+placed_year: -444
+sex: "male"
 tags: ["person"]
 ---
 
@@ -15,6 +18,10 @@ tags: ["person"]
 A Levite who taught the Law and sealed the covenant
 
 **Original-language names:** קְלִיטָא (H7042)
+
+## When
+
+- **Placed around:** [[connections/timeline/5th century BC|445 BC]] *(Ussher: the median date of the passages naming them)*
 
 ## Appears in
 

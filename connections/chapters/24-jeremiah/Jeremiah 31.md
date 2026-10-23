@@ -7,12 +7,16 @@ language: "Hebrew/Aramaic"
 verses: 40
 cross_references_out: 141
 cross_references_in: 182
+dated_from: -605
+dated_to: -605
 tags: ["chapter", "ot", "prophets"]
 ---
 
 # Jeremiah 31
 
 ← [[connections/chapters/24-jeremiah/Jeremiah 30|Jeremiah 30]] · [[connections/books/Jeremiah|Jeremiah]] · [[connections/chapters/24-jeremiah/Jeremiah 32|Jeremiah 32]] →
+
+**Dated** *(Ussher, after the Treasury of Scripture Knowledge)*: [[connections/timeline/7th century BC|606 BC]]
 
 ## Text
 

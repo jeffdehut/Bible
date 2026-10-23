@@ -20,6 +20,10 @@ Philistine city; Samson's exploits; Philip's ministry
 
 **Original-language names:** עַזָּה (H5804) · עַיָּה (H5804) · עַזָּתִי (H5841) · Γάζα (G1048)
 
+## Events
+
+- [[connections/timeline/1st century AD|AD 32]] · [[connections/events/Conversion of Ethiopian Eunuch|Conversion of Ethiopian Eunuch]]
+
 ## Appears in
 
 [[connections/chapters/01-genesis/Genesis 10|Genesis 10]] · [[connections/chapters/05-deuteronomy/Deuteronomy 2|Deuteronomy 2]] · [[connections/chapters/06-joshua/Joshua 10|Joshua 10]] · [[connections/chapters/06-joshua/Joshua 11|Joshua 11]] · [[connections/chapters/06-joshua/Joshua 13|Joshua 13]] · [[connections/chapters/06-joshua/Joshua 15|Joshua 15]] · [[connections/chapters/07-judges/Judges 1|Judges 1]] · [[connections/chapters/07-judges/Judges 6|Judges 6]] · [[connections/chapters/07-judges/Judges 16|Judges 16 (3)]] · [[connections/chapters/09-1-samuel/1 Samuel 6|1 Samuel 6]] · [[connections/chapters/11-1-kings/1 Kings 5|1 Kings 5]] · [[connections/chapters/12-2-kings/2 Kings 18|2 Kings 18]] · [[connections/chapters/13-1-chronicles/1 Chronicles 7|1 Chronicles 7]] · [[connections/chapters/24-jeremiah/Jeremiah 25|Jeremiah 25]] · [[connections/chapters/24-jeremiah/Jeremiah 47|Jeremiah 47 (2)]] · [[connections/chapters/30-amos/Amos 1|Amos 1 (2)]] · [[connections/chapters/36-zephaniah/Zephaniah 2|Zephaniah 2]] · [[connections/chapters/38-zechariah/Zechariah 9|Zechariah 9]] · [[connections/chapters/44-acts/Acts 8|Acts 8]]

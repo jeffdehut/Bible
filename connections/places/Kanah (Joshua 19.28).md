@@ -20,6 +20,10 @@ Town in Asher's territory; village where Jesus performed miracles
 
 **Original-language names:** קָנָה (H7071) · Κανᾶ (G2580)
 
+## Events
+
+- [[connections/timeline/1st century AD|AD 27]] · [[connections/events/Water to Wine|Water to Wine]]
+
 ## Appears in
 
 [[connections/chapters/06-joshua/Joshua 19|Joshua 19]] · [[connections/chapters/43-john/John 2|John 2 (2)]] · [[connections/chapters/43-john/John 4|John 4]] · [[connections/chapters/43-john/John 21|John 21]]

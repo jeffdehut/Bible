@@ -7,6 +7,9 @@ original: ["חֲבַיָה"]
 verses: 2
 chapters: 2
 first: "Ezra 2:61"
+placed: "445 BC"
+placed_year: -444
+sex: "male"
 tags: ["person"]
 ---
 
@@ -15,6 +18,10 @@ tags: ["person"]
 A priest whose descendants were unable to prove their lineage.
 
 **Original-language names:** חֲבַיָה (H2252)
+
+## When
+
+- **Placed around:** [[connections/timeline/5th century BC|445 BC]] *(Ussher: the median date of the passages naming them)*
 
 ## Appears in
 

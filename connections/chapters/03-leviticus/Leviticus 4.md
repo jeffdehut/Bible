@@ -7,12 +7,16 @@ language: "Hebrew"
 verses: 35
 cross_references_out: 4
 cross_references_in: 4
+dated_from: -1489
+dated_to: -1489
 tags: ["chapter", "ot", "torah"]
 ---
 
 # Leviticus 4
 
 ← [[connections/chapters/03-leviticus/Leviticus 3|Leviticus 3]] · [[connections/books/Leviticus|Leviticus]] · [[connections/chapters/03-leviticus/Leviticus 5|Leviticus 5]] →
+
+**Dated** *(Ussher, after the Treasury of Scripture Knowledge)*: [[connections/timeline/15th century BC|1490 BC]]
 
 ## Text
 

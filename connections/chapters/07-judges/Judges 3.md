@@ -7,12 +7,16 @@ language: "Hebrew"
 verses: 31
 cross_references_out: 0
 cross_references_in: 8
+dated_from: -1442
+dated_to: -1324
 tags: ["chapter", "ot", "history"]
 ---
 
 # Judges 3
 
 ← [[connections/chapters/07-judges/Judges 2|Judges 2]] · [[connections/books/Judges|Judges]] · [[connections/chapters/07-judges/Judges 4|Judges 4]] →
+
+**Dated** *(Ussher, after the Treasury of Scripture Knowledge)*: [[connections/timeline/15th century BC|1443 BC]] – [[connections/timeline/14th century BC|1325 BC]]
 
 ## Text
 

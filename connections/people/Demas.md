@@ -7,6 +7,9 @@ original: ["Δημᾶς"]
 verses: 3
 chapters: 3
 first: "Colossians 4:14"
+placed: "AD 64"
+placed_year: 64
+sex: "male"
 tags: ["person"]
 ---
 
@@ -15,6 +18,14 @@ tags: ["person"]
 Companion of Paul who later deserted him
 
 **Original-language names:** Δημᾶς (G1214)
+
+## When
+
+- **Placed around:** [[connections/timeline/1st century AD|AD 64]] *(Ussher: the median date of the passages naming them)*
+
+## Events
+
+- [[connections/timeline/1st century AD|AD 57]] · [[connections/events/Paul's First Roman imprisonment|Paul's First Roman imprisonment]]
 
 ## Appears in
 

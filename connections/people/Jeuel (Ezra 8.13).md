@@ -7,6 +7,9 @@ original: ["יְעִיאֵל"]
 verses: 1
 chapters: 1
 first: "Ezra 8:13"
+placed: "457 BC"
+placed_year: -456
+sex: "male"
 tags: ["person"]
 ---
 
@@ -15,6 +18,10 @@ tags: ["person"]
 A descendant of Adonikam who returned from exile
 
 **Original-language names:** יְעִיאֵל (H3273)
+
+## When
+
+- **Placed around:** [[connections/timeline/5th century BC|457 BC]] *(Ussher: the median date of the passages naming them)*
 
 ## Appears in
 

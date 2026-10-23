@@ -7,6 +7,12 @@ original: ["שָׁאוּל", "Σαούλ"]
 verses: 327
 chapters: 50
 first: "1 Samuel 9:2"
+died: "1056 BC"
+died_year: -1055
+placed: "1062 BC"
+placed_year: -1061
+generation: 6
+sex: "male"
 tags: ["person"]
 ---
 
@@ -15,6 +21,61 @@ tags: ["person"]
 First king of Israel, anointed by Samuel
 
 **Original-language names:** שָׁאוּל (H7586) · Σαούλ (G4549)
+
+## When
+
+- **Lived:** ? – [[connections/timeline/11th century BC|1056 BC]] *(Jones)*
+- **Placed around:** [[connections/timeline/11th century BC|1062 BC]] *(Ussher: the median date of the passages naming them)*
+
+## Family
+
+- **Father:** [[connections/people/Kish (1 Samuel 9.1)|Kish (1 Samuel 9.1)]]
+- **Spouses:** [[connections/people/Ahinoam (1 Samuel 14.50)|Ahinoam (1 Samuel 14.50)]], [[connections/people/Rizpah|Rizpah]]
+- **Children:** [[connections/people/Abinadab (1 Samuel 14.49)|Abinadab (1 Samuel 14.49)]], [[connections/people/Armoni|Armoni]], [[connections/people/Ish-bosheth|Ish-bosheth]], [[connections/people/Jonathan (1 Samuel 13.2)|Jonathan (1 Samuel 13.2)]], [[connections/people/Malchi-shua|Malchi-shua]], [[connections/people/Mephibosheth (2 Samuel 21.8)|Mephibosheth (2 Samuel 21.8)]], [[connections/people/Merab|Merab]], [[connections/people/Michal|Michal]]
+- **Tribe or nation:** Tribe of Benjamin
+
+**Line of descent** (6 generations, father to son): [[connections/people/Aphiah|Aphiah]] → [[connections/people/Becorath|Becorath]] → [[connections/people/Zeror|Zeror]] → [[connections/people/Abiel|Abiel]] → [[connections/people/Kish (1 Samuel 9.1)|Kish (1 Samuel 9.1)]] → **Saul**
+
+**Family group:** [[connections/genealogy/Family of Aphiah|Family of Aphiah]], generation 6
+
+```mermaid
+flowchart TB
+  n0["Saul"]:::me
+  n1["Abiel"]
+  n2["Kish (1 Samuel 9.1)"]
+  n1 --> n2
+  n3["Maacah (1 Chronicles 8.29)"]
+  n3 --> n2
+  n2 --> n0
+  n4["Ahinoam (1 Samuel 14.50)"]:::spouse
+  n0 -.- n4
+  n5["Rizpah"]:::spouse
+  n0 -.- n5
+  n6["Abinadab (1 Samuel 14.49)"]
+  n0 --> n6
+  n7["Armoni"]
+  n0 --> n7
+  n8["Ish-bosheth"]
+  n0 --> n8
+  n9["Jonathan (1 Samuel 13.2)"]
+  n0 --> n9
+  n10["Malchi-shua"]
+  n0 --> n10
+  n11["Mephibosheth (2 Samuel 21.8)"]
+  n0 --> n11
+  n12["Merab"]
+  n0 --> n12
+  n13["Michal"]
+  n0 --> n13
+  classDef me stroke-width:3px
+  classDef spouse stroke-dasharray:4
+```
+
+## Events
+
+- [[connections/timeline/12th century BC|1135 BC]] · [[connections/events/Birth of Saul|Birth of Saul]]
+- [[connections/timeline/11th century BC|1095 BC]] · [[connections/events/Reign of Saul|Reign of Saul]]
+- [[connections/timeline/11th century BC|1056 BC]] · [[connections/events/Death of Saul|Death of Saul]]
 
 ## Appears in
 

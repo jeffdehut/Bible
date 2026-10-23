@@ -7,12 +7,16 @@ language: "Hebrew"
 verses: 22
 cross_references_out: 68
 cross_references_in: 38
+dated_from: -1519
+dated_to: -1519
 tags: ["chapter", "ot", "wisdom"]
 ---
 
 # Job 1
 
 ← [[connections/chapters/17-esther/Esther 10|Esther 10]] · [[connections/books/Job|Job]] · [[connections/chapters/18-job/Job 2|Job 2]] →
+
+**Dated** *(Ussher, after the Treasury of Scripture Knowledge)*: [[connections/timeline/16th century BC|1520 BC]]
 
 ## Text
 

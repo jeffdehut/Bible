@@ -7,6 +7,10 @@ original: ["חֲבַצִּנְיָה"]
 verses: 1
 chapters: 1
 first: "Jeremiah 35:3"
+placed: "607 BC"
+placed_year: -606
+generation: 1
+sex: "male"
 tags: ["person"]
 ---
 
@@ -15,6 +19,25 @@ tags: ["person"]
 Grandfather of Jaazaniah, a Rechabite leader.
 
 **Original-language names:** חֲבַצִּנְיָה (H2262)
+
+## When
+
+- **Placed around:** [[connections/timeline/7th century BC|607 BC]] *(Ussher: the median date of the passages naming them)*
+
+## Family
+
+- **Children:** [[connections/people/Jeremiah (Jeremiah 35.3)|Jeremiah (Jeremiah 35.3)]]
+
+**Family group:** [[connections/genealogy/Family of Habazziniah|Family of Habazziniah]], generation 1
+
+```mermaid
+flowchart TB
+  n0["Habazziniah"]:::me
+  n1["Jeremiah (Jeremiah 35.3)"]
+  n0 --> n1
+  classDef me stroke-width:3px
+  classDef spouse stroke-dasharray:4
+```
 
 ## Appears in
 

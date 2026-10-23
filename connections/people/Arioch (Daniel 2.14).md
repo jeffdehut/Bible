@@ -7,6 +7,9 @@ original: ["אֲרְיוֹךְ"]
 verses: 4
 chapters: 1
 first: "Daniel 2:14"
+placed: "603 BC"
+placed_year: -602
+sex: "male"
 tags: ["person"]
 ---
 
@@ -15,6 +18,10 @@ tags: ["person"]
 Captain of Nebuchadnezzar's guard
 
 **Original-language names:** אֲרְיוֹךְ (H0746b)
+
+## When
+
+- **Placed around:** [[connections/timeline/7th century BC|603 BC]] *(Ussher: the median date of the passages naming them)*
 
 ## Appears in
 

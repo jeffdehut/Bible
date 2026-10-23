@@ -7,6 +7,9 @@ original: ["עֲזַזְיָ֫הוּ"]
 verses: 1
 chapters: 1
 first: "1 Chronicles 15:21"
+placed: "1042 BC"
+placed_year: -1041
+sex: "male"
 tags: ["person"]
 ---
 
@@ -15,6 +18,10 @@ tags: ["person"]
 Levite musician during David's reign
 
 **Original-language names:** עֲזַזְיָ֫הוּ (H5812)
+
+## When
+
+- **Placed around:** [[connections/timeline/11th century BC|1042 BC]] *(Ussher: the median date of the passages naming them)*
 
 ## Appears in
 

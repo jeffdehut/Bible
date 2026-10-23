@@ -7,6 +7,9 @@ original: ["אֲבִישַׁג"]
 verses: 5
 chapters: 2
 first: "1 Kings 1:3"
+placed: "1014 BC"
+placed_year: -1013
+sex: "female"
 tags: ["person"]
 ---
 
@@ -15,6 +18,10 @@ tags: ["person"]
 Beautiful Shunammite who served King David
 
 **Original-language names:** אֲבִישַׁג (H0049)
+
+## When
+
+- **Placed around:** [[connections/timeline/11th century BC|1014 BC]] *(Ussher: the median date of the passages naming them)*
 
 ## Appears in
 

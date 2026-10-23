@@ -7,6 +7,10 @@ original: ["דָּֽרְיָ֫וֶשׁ", "דָּֽרְיָ֫וֶשׁ"]
 verses: 16
 chapters: 7
 first: "Ezra 4:5"
+placed: "519 BC"
+placed_year: -518
+generation: 1
+sex: "male"
 tags: ["person"]
 ---
 
@@ -15,6 +19,27 @@ tags: ["person"]
 Persian king who decreed the rebuilding of the Temple
 
 **Original-language names:** דָּֽרְיָ֫וֶשׁ (H1867) · דָּֽרְיָ֫וֶשׁ (H1868)
+
+## When
+
+- **Placed around:** [[connections/timeline/6th century BC|519 BC]] *(Ussher: the median date of the passages naming them)*
+- **Reigned / in office:** [[connections/timeline/6th century BC|522 BC]] – [[connections/timeline/5th century BC|486 BC]] *(modern dates)* · Darius I, Persia · [Wikidata Q44387](https://www.wikidata.org/wiki/Q44387)
+
+## Family
+
+- **Children:** [[connections/people/Ahasuerus|Ahasuerus]]
+- **Tribe or nation:** Persia
+
+**Family group:** [[connections/genealogy/Family of Darius (Ezra 4.5)|Family of Darius (Ezra 4.5)]], generation 1
+
+```mermaid
+flowchart TB
+  n0["Darius (Ezra 4.5)"]:::me
+  n1["Ahasuerus"]
+  n0 --> n1
+  classDef me stroke-width:3px
+  classDef spouse stroke-dasharray:4
+```
 
 ## Appears in
 

@@ -7,12 +7,16 @@ language: "Hebrew/Aramaic"
 verses: 36
 cross_references_out: 34
 cross_references_in: 8
+dated_from: -456
+dated_to: -456
 tags: ["chapter", "ot", "history"]
 ---
 
 # Ezra 8
 
 ← [[connections/chapters/15-ezra/Ezra 7|Ezra 7]] · [[connections/books/Ezra|Ezra]] · [[connections/chapters/15-ezra/Ezra 9|Ezra 9]] →
+
+**Dated** *(Ussher, after the Treasury of Scripture Knowledge)*: [[connections/timeline/5th century BC|457 BC]]
 
 ## Text
 

@@ -7,12 +7,16 @@ language: "Hebrew"
 verses: 23
 cross_references_out: 30
 cross_references_in: 22
+dated_from: -1306
+dated_to: -1306
 tags: ["chapter", "ot", "history"]
 ---
 
 # Ruth 2
 
 ← [[connections/chapters/08-ruth/Ruth 1|Ruth 1]] · [[connections/books/Ruth|Ruth]] · [[connections/chapters/08-ruth/Ruth 3|Ruth 3]] →
+
+**Dated** *(Ussher, after the Treasury of Scripture Knowledge)*: [[connections/timeline/14th century BC|1307 BC]]
 
 ## Text
 

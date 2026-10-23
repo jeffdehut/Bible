@@ -7,12 +7,16 @@ language: "Hebrew/Aramaic"
 verses: 47
 cross_references_out: 5
 cross_references_in: 6
+dated_from: -583
+dated_to: -583
 tags: ["chapter", "ot", "prophets"]
 ---
 
 # Jeremiah 48
 
 ← [[connections/chapters/24-jeremiah/Jeremiah 47|Jeremiah 47]] · [[connections/books/Jeremiah|Jeremiah]] · [[connections/chapters/24-jeremiah/Jeremiah 49|Jeremiah 49]] →
+
+**Dated** *(Ussher, after the Treasury of Scripture Knowledge)*: [[connections/timeline/6th century BC|584 BC]]
 
 ## Text
 

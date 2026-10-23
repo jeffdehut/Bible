@@ -7,6 +7,10 @@ original: ["Ἰάκωβος"]
 verses: 19
 chapters: 16
 first: "Matthew 4:21"
+placed: "AD 31"
+placed_year: 31
+generation: 78
+sex: "male"
 tags: ["person"]
 ---
 
@@ -15,6 +19,43 @@ tags: ["person"]
 Son of Zebedee, one of the Twelve Apostles
 
 **Original-language names:** Ἰάκωβος (G2385)
+
+## When
+
+- **Placed around:** [[connections/timeline/1st century AD|AD 31]] *(Ussher: the median date of the passages naming them)*
+
+## Family
+
+- **Father:** [[connections/people/Zebedee|Zebedee]]
+- **Mother:** [[connections/people/Salome (Mark 15.40)|Salome (Mark 15.40) (uncertain)]]
+- **Brothers and sisters:** [[connections/people/John (Matthew 4.21)|John (Matthew 4.21)]]
+
+**Family group:** [[connections/genealogy/Family of Adam|Family of Adam]], generation 78
+
+```mermaid
+flowchart TB
+  n0["James (Matthew 4.21)"]:::me
+  n1["Heli"]
+  n2["Salome (Mark 15.40)"]
+  n1 --> n2
+  n3["wife of Heli (Luke 1.5)"]
+  n3 --> n2
+  n2 --> n0
+  n4["Zebedee"]
+  n4 --> n0
+  n5["John (Matthew 4.21)"]
+  n2 --> n5
+  classDef me stroke-width:3px
+  classDef spouse stroke-dasharray:4
+```
+
+## Events
+
+- [[connections/timeline/1st century AD|AD 27]] · [[connections/events/Fishers of Men|Fishers of Men]]
+- [[connections/timeline/1st century AD|AD 28]] · [[connections/events/Apostles Chosen|Apostles Chosen]]
+- [[connections/timeline/1st century AD|AD 29]] · [[connections/events/The Transfiguation|The Transfiguation]]
+- [[connections/timeline/1st century AD|AD 30]] · [[connections/events/Olivet Discourse|Olivet Discourse]]
+- [[connections/timeline/1st century AD|AD 40]] · [[connections/events/Herod kills James|Herod kills James]]
 
 ## Appears in
 

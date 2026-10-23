@@ -7,6 +7,9 @@ original: ["חֻלְדָּה"]
 verses: 2
 chapters: 2
 first: "2 Kings 22:14"
+placed: "624 BC"
+placed_year: -623
+sex: "female"
 tags: ["person"]
 ---
 
@@ -15,6 +18,23 @@ tags: ["person"]
 A prophetess during the reign of King Josiah.
 
 **Original-language names:** חֻלְדָּה (H2468)
+
+## When
+
+- **Placed around:** [[connections/timeline/7th century BC|624 BC]] *(Ussher: the median date of the passages naming them)*
+
+## Family
+
+- **Spouses:** [[connections/people/Shallum (2 Kings 22.14)|Shallum (2 Kings 22.14)]]
+
+```mermaid
+flowchart TB
+  n0["Huldah"]:::me
+  n1["Shallum (2 Kings 22.14)"]:::spouse
+  n0 -.- n1
+  classDef me stroke-width:3px
+  classDef spouse stroke-dasharray:4
+```
 
 ## Appears in
 

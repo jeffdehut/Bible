@@ -7,12 +7,16 @@ language: "Hebrew/Aramaic"
 verses: 21
 cross_references_out: 33
 cross_references_in: 8
+dated_from: -602
+dated_to: -602
 tags: ["chapter", "ot", "prophets"]
 ---
 
 # Daniel 1
 
 ← [[connections/chapters/26-ezekiel/Ezekiel 48|Ezekiel 48]] · [[connections/books/Daniel|Daniel]] · [[connections/chapters/27-daniel/Daniel 2|Daniel 2]] →
+
+**Dated** *(Ussher, after the Treasury of Scripture Knowledge)*: [[connections/timeline/7th century BC|603 BC]]
 
 ## Text
 

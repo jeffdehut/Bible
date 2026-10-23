@@ -7,12 +7,16 @@ language: "Hebrew"
 verses: 30
 cross_references_out: 16
 cross_references_in: 22
+dated_from: -1489
+dated_to: -1489
 tags: ["chapter", "ot", "torah"]
 ---
 
 # Leviticus 18
 
 ← [[connections/chapters/03-leviticus/Leviticus 17|Leviticus 17]] · [[connections/books/Leviticus|Leviticus]] · [[connections/chapters/03-leviticus/Leviticus 19|Leviticus 19]] →
+
+**Dated** *(Ussher, after the Treasury of Scripture Knowledge)*: [[connections/timeline/15th century BC|1490 BC]]
 
 ## Text
 

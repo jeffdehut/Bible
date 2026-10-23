@@ -7,12 +7,16 @@ language: "Hebrew"
 verses: 51
 cross_references_out: 42
 cross_references_in: 38
+dated_from: -1490
+dated_to: -1490
 tags: ["chapter", "ot", "torah"]
 ---
 
 # Exodus 12
 
 ← [[connections/chapters/02-exodus/Exodus 11|Exodus 11]] · [[connections/books/Exodus|Exodus]] · [[connections/chapters/02-exodus/Exodus 13|Exodus 13]] →
+
+**Dated** *(Ussher, after the Treasury of Scripture Knowledge)*: [[connections/timeline/15th century BC|1491 BC]]
 
 ## Text
 

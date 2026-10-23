@@ -7,12 +7,16 @@ language: "Hebrew"
 verses: 11
 cross_references_out: 6
 cross_references_in: 11
+dated_from: -1013
+dated_to: -1013
 tags: ["chapter", "ot", "wisdom"]
 ---
 
 # Song of Songs 3
 
 ← [[connections/chapters/22-song-of-songs/Song of Songs 2|Song of Songs 2]] · [[connections/books/Song of Songs|Song of Songs]] · [[connections/chapters/22-song-of-songs/Song of Songs 4|Song of Songs 4]] →
+
+**Dated** *(Ussher, after the Treasury of Scripture Knowledge)*: [[connections/timeline/11th century BC|1014 BC]]
 
 ## Text
 

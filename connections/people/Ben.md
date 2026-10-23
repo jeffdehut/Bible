@@ -7,6 +7,9 @@ original: ["בֵּן"]
 verses: 1
 chapters: 1
 first: "1 Chronicles 15:18"
+placed: "1042 BC"
+placed_year: -1041
+sex: "male"
 tags: ["person"]
 ---
 
@@ -15,6 +18,10 @@ tags: ["person"]
 A Levite appointed as a gatekeeper for the ark.
 
 **Original-language names:** בֵּן (H1122)
+
+## When
+
+- **Placed around:** [[connections/timeline/11th century BC|1042 BC]] *(Ussher: the median date of the passages naming them)*
 
 ## Appears in
 

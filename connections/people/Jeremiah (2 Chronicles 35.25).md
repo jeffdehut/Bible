@@ -7,6 +7,10 @@ original: ["יִרְמְיָ֫הוּ", "Ἱερεμίας"]
 verses: 124
 chapters: 40
 first: "2 Chronicles 35:25"
+placed: "598 BC"
+placed_year: -597
+generation: 3
+sex: "male"
 tags: ["person"]
 ---
 
@@ -15,6 +19,33 @@ tags: ["person"]
 Son of Hilkiah, the prophet during Judah's final days.
 
 **Original-language names:** יִרְמְיָ֫הוּ (H3414) · Ἱερεμίας (G2408)
+
+## When
+
+- **Placed around:** [[connections/timeline/6th century BC|598 BC]] *(Ussher: the median date of the passages naming them)*
+
+## Family
+
+- **Father:** [[connections/people/Hilkiah (Jeremiah 1.1)|Hilkiah (Jeremiah 1.1)]]
+
+**Line of descent** (3 generations, father to son): [[connections/people/father of Hilkiah (Jeremiah 32.7)|father of Hilkiah (Jeremiah 32.7)]] → [[connections/people/Hilkiah (Jeremiah 1.1)|Hilkiah (Jeremiah 1.1)]] → **Jeremiah (2 Chronicles 35.25)**
+
+**Family group:** [[connections/genealogy/Family of father of Hilkiah (Jeremiah 32.7)|Family of father of Hilkiah (Jeremiah 32.7)]], generation 3
+
+```mermaid
+flowchart TB
+  n0["Jeremiah (2 Chronicles 35.25)"]:::me
+  n1["father of Hilkiah (Jeremiah 32.7)"]
+  n2["Hilkiah (Jeremiah 1.1)"]
+  n1 --> n2
+  n2 --> n0
+  classDef me stroke-width:3px
+  classDef spouse stroke-dasharray:4
+```
+
+## Events
+
+- [[connections/timeline/7th century BC|628 BC]] · [[connections/events/Prophecies of Jeremiah|Prophecies of Jeremiah]]
 
 ## Appears in
 

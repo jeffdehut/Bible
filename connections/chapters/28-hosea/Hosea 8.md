@@ -7,12 +7,16 @@ language: "Hebrew"
 verses: 14
 cross_references_out: 4
 cross_references_in: 16
+dated_from: -779
+dated_to: -779
 tags: ["chapter", "ot", "prophets"]
 ---
 
 # Hosea 8
 
 ← [[connections/chapters/28-hosea/Hosea 7|Hosea 7]] · [[connections/books/Hosea|Hosea]] · [[connections/chapters/28-hosea/Hosea 9|Hosea 9]] →
+
+**Dated** *(Ussher, after the Treasury of Scripture Knowledge)*: [[connections/timeline/8th century BC|780 BC]]
 
 ## Text
 

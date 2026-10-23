@@ -17,6 +17,10 @@ Place near Shechem; also a hill near Gilgal
 
 **Original-language names:** מוֹרֶה (H4176)
 
+## Events
+
+- [[connections/timeline/20th century BC|1921 BC]] · [[connections/events/Abraham enters Canaan|Abraham enters Canaan]]
+
 ## Appears in
 
 [[connections/chapters/01-genesis/Genesis 12|Genesis 12]] · [[connections/chapters/05-deuteronomy/Deuteronomy 11|Deuteronomy 11]]

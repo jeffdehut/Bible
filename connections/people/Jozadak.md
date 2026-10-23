@@ -7,6 +7,10 @@ original: ["יוֹצָדָק"]
 verses: 1
 chapters: 1
 first: "Ezra 10:18"
+placed: "456 BC"
+placed_year: -455
+generation: 1
+sex: "male"
 tags: ["person"]
 ---
 
@@ -15,6 +19,25 @@ tags: ["person"]
 A priest whose descendants married foreign women
 
 **Original-language names:** יוֹצָדָק (H3136a)
+
+## When
+
+- **Placed around:** [[connections/timeline/5th century BC|456 BC]] *(Ussher: the median date of the passages naming them)*
+
+## Family
+
+- **Children:** [[connections/people/Jeshua (1 Chronicles 24.11)|Jeshua (1 Chronicles 24.11)]]
+
+**Family group:** [[connections/genealogy/Family of Jozadak|Family of Jozadak]], generation 1
+
+```mermaid
+flowchart TB
+  n0["Jozadak"]:::me
+  n1["Jeshua (1 Chronicles 24.11)"]
+  n0 --> n1
+  classDef me stroke-width:3px
+  classDef spouse stroke-dasharray:4
+```
 
 ## Appears in
 

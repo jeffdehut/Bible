@@ -7,12 +7,16 @@ language: "Hebrew"
 verses: 18
 cross_references_out: 15
 cross_references_in: 29
+dated_from: -629
+dated_to: -629
 tags: ["chapter", "ot", "prophets"]
 ---
 
 # Zephaniah 1
 
 ← [[connections/chapters/35-habakkuk/Habakkuk 3|Habakkuk 3]] · [[connections/books/Zephaniah|Zephaniah]] · [[connections/chapters/36-zephaniah/Zephaniah 2|Zephaniah 2]] →
+
+**Dated** *(Ussher, after the Treasury of Scripture Knowledge)*: [[connections/timeline/7th century BC|630 BC]]
 
 ## Text
 

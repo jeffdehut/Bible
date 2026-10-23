@@ -7,6 +7,9 @@ original: ["אֲמַצְיָ֫הוּ"]
 verses: 3
 chapters: 1
 first: "Amos 7:10"
+placed: "787 BC"
+placed_year: -786
+sex: "male"
 tags: ["person"]
 ---
 
@@ -15,6 +18,10 @@ tags: ["person"]
 Priest of Bethel during Amos' ministry
 
 **Original-language names:** אֲמַצְיָ֫הוּ (H0558)
+
+## When
+
+- **Placed around:** [[connections/timeline/8th century BC|787 BC]] *(Ussher: the median date of the passages naming them)*
 
 ## Appears in
 

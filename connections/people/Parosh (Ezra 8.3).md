@@ -7,6 +7,9 @@ original: ["פַּרְעֹשׁ"]
 verses: 1
 chapters: 1
 first: "Ezra 8:3"
+placed: "457 BC"
+placed_year: -456
+sex: "male"
 tags: ["person"]
 ---
 
@@ -15,6 +18,10 @@ tags: ["person"]
 Leader who returned with Zerubbabel
 
 **Original-language names:** פַּרְעֹשׁ (H6551)
+
+## When
+
+- **Placed around:** [[connections/timeline/5th century BC|457 BC]] *(Ussher: the median date of the passages naming them)*
 
 ## Appears in
 

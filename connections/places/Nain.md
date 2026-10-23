@@ -17,6 +17,10 @@ A town in Galilee where Jesus raised a widow's son
 
 **Original-language names:** Ναΐν (G3484)
 
+## Events
+
+- [[connections/timeline/1st century AD|AD 28]] · [[connections/events/Widow's Son Resurrected|Widow's Son Resurrected]]
+
 ## Appears in
 
 [[connections/chapters/42-luke/Luke 7|Luke 7]]

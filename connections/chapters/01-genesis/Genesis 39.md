@@ -7,12 +7,16 @@ language: "Hebrew/Aramaic"
 verses: 23
 cross_references_out: 29
 cross_references_in: 31
+dated_from: -1727
+dated_to: -1718
 tags: ["chapter", "ot", "torah"]
 ---
 
 # Genesis 39
 
 ← [[connections/chapters/01-genesis/Genesis 38|Genesis 38]] · [[connections/books/Genesis|Genesis]] · [[connections/chapters/01-genesis/Genesis 40|Genesis 40]] →
+
+**Dated** *(Ussher, after the Treasury of Scripture Knowledge)*: [[connections/timeline/18th century BC|1728 BC]] – [[connections/timeline/18th century BC|1719 BC]]
 
 ## Text
 

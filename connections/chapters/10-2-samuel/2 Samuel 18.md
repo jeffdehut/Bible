@@ -7,12 +7,16 @@ language: "Hebrew"
 verses: 32
 cross_references_out: 0
 cross_references_in: 5
+dated_from: -1022
+dated_to: -1022
 tags: ["chapter", "ot", "history"]
 ---
 
 # 2 Samuel 18
 
 ← [[connections/chapters/10-2-samuel/2 Samuel 17|2 Samuel 17]] · [[connections/books/2 Samuel|2 Samuel]] · [[connections/chapters/10-2-samuel/2 Samuel 19|2 Samuel 19]] →
+
+**Dated** *(Ussher, after the Treasury of Scripture Knowledge)*: [[connections/timeline/11th century BC|1023 BC]]
 
 ## Text
 

@@ -7,12 +7,16 @@ language: "Hebrew"
 verses: 10
 cross_references_out: 28
 cross_references_in: 32
+dated_from: -518
+dated_to: -518
 tags: ["chapter", "ot", "prophets"]
 ---
 
 # Zechariah 3
 
 ← [[connections/chapters/38-zechariah/Zechariah 2|Zechariah 2]] · [[connections/books/Zechariah|Zechariah]] · [[connections/chapters/38-zechariah/Zechariah 4|Zechariah 4]] →
+
+**Dated** *(Ussher, after the Treasury of Scripture Knowledge)*: [[connections/timeline/6th century BC|519 BC]]
 
 ## Text
 

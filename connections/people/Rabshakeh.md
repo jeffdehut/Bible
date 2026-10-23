@@ -7,6 +7,9 @@ original: ["רַבְשָׁקֵה"]
 verses: 16
 chapters: 4
 first: "2 Kings 18:17"
+placed: "710 BC"
+placed_year: -709
+sex: "male"
 tags: ["person"]
 ---
 
@@ -15,6 +18,10 @@ tags: ["person"]
 A Babylonian official who taunted Hezekiah and Jerusalem's people
 
 **Original-language names:** רַבְשָׁקֵה (H7262)
+
+## When
+
+- **Placed around:** [[connections/timeline/8th century BC|710 BC]] *(Ussher: the median date of the passages naming them)*
 
 ## Appears in
 

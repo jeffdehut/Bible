@@ -7,12 +7,16 @@ language: "Hebrew"
 verses: 41
 cross_references_out: 7
 cross_references_in: 8
+dated_from: -1451
+dated_to: -1451
 tags: ["chapter", "ot", "torah"]
 ---
 
 # Numbers 22
 
 ← [[connections/chapters/04-numbers/Numbers 21|Numbers 21]] · [[connections/books/Numbers|Numbers]] · [[connections/chapters/04-numbers/Numbers 23|Numbers 23]] →
+
+**Dated** *(Ussher, after the Treasury of Scripture Knowledge)*: [[connections/timeline/15th century BC|1452 BC]]
 
 ## Text
 

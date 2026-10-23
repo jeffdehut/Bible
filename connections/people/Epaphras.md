@@ -7,6 +7,9 @@ original: ["Ἐπαφρᾶς"]
 verses: 3
 chapters: 3
 first: "Colossians 1:7"
+placed: "AD 64"
+placed_year: 64
+sex: "male"
 tags: ["person"]
 ---
 
@@ -15,6 +18,14 @@ tags: ["person"]
 A faithful minister and fellow servant of Paul.
 
 **Original-language names:** Ἐπαφρᾶς (G1889)
+
+## When
+
+- **Placed around:** [[connections/timeline/1st century AD|AD 64]] *(Ussher: the median date of the passages naming them)*
+
+## Events
+
+- [[connections/timeline/1st century AD|AD 57]] · [[connections/events/Paul's First Roman imprisonment|Paul's First Roman imprisonment]]
 
 ## Appears in
 

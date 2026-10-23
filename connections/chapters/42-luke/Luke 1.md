@@ -7,12 +7,16 @@ language: "Greek"
 verses: 80
 cross_references_out: 258
 cross_references_in: 275
+dated_from: -4
+dated_to: -4
 tags: ["chapter", "nt", "gospels"]
 ---
 
 # Luke 1
 
 ← [[connections/chapters/41-mark/Mark 16|Mark 16]] · [[connections/books/Luke|Luke]] · [[connections/chapters/42-luke/Luke 2|Luke 2]] →
+
+**Dated** *(Ussher, after the Treasury of Scripture Knowledge)*: [[connections/timeline/1st century BC|5 BC]]
 
 ## Text
 

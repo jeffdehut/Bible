@@ -7,12 +7,16 @@ language: "Hebrew"
 verses: 10
 cross_references_out: 12
 cross_references_in: 14
+dated_from: -861
+dated_to: -861
 tags: ["chapter", "ot", "prophets"]
 ---
 
 # Jonah 3
 
 ← [[connections/chapters/32-jonah/Jonah 2|Jonah 2]] · [[connections/books/Jonah|Jonah]] · [[connections/chapters/32-jonah/Jonah 4|Jonah 4]] →
+
+**Dated** *(Ussher, after the Treasury of Scripture Knowledge)*: [[connections/timeline/9th century BC|862 BC]]
 
 ## Text
 

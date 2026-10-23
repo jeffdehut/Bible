@@ -7,6 +7,10 @@ original: ["מַחְסֵיָה"]
 verses: 2
 chapters: 2
 first: "Jeremiah 32:12"
+placed: "589 BC"
+placed_year: -588
+generation: 1
+sex: "male"
 tags: ["person"]
 ---
 
@@ -15,6 +19,25 @@ tags: ["person"]
 Grandfather of Baruch, Jeremiah's scribe.
 
 **Original-language names:** מַחְסֵיָה (H4271)
+
+## When
+
+- **Placed around:** [[connections/timeline/6th century BC|589 BC]] *(Ussher: the median date of the passages naming them)*
+
+## Family
+
+- **Children:** [[connections/people/Neriah|Neriah]]
+
+**Family group:** [[connections/genealogy/Family of Mahseiah|Family of Mahseiah]], generation 1
+
+```mermaid
+flowchart TB
+  n0["Mahseiah"]:::me
+  n1["Neriah"]
+  n0 --> n1
+  classDef me stroke-width:3px
+  classDef spouse stroke-dasharray:4
+```
 
 ## Appears in
 

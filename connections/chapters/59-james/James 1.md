@@ -7,12 +7,16 @@ language: "Greek"
 verses: 27
 cross_references_out: 353
 cross_references_in: 317
+dated_from: 60
+dated_to: 60
 tags: ["chapter", "nt", "general-epistles"]
 ---
 
 # James 1
 
 ← [[connections/chapters/58-hebrews/Hebrews 13|Hebrews 13]] · [[connections/books/James|James]] · [[connections/chapters/59-james/James 2|James 2]] →
+
+**Dated** *(Ussher, after the Treasury of Scripture Knowledge)*: [[connections/timeline/1st century AD|AD 60]]
 
 ## Text
 

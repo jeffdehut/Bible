@@ -7,12 +7,16 @@ language: "Hebrew"
 verses: 28
 cross_references_out: 34
 cross_references_in: 25
+dated_from: -594
+dated_to: -594
 tags: ["chapter", "ot", "prophets"]
 ---
 
 # Ezekiel 1
 
 ← [[connections/chapters/25-lamentations/Lamentations 5|Lamentations 5]] · [[connections/books/Ezekiel|Ezekiel]] · [[connections/chapters/26-ezekiel/Ezekiel 2|Ezekiel 2]] →
+
+**Dated** *(Ussher, after the Treasury of Scripture Knowledge)*: [[connections/timeline/6th century BC|595 BC]]
 
 ## Text
 

@@ -7,6 +7,9 @@ original: ["דְּבִיר"]
 verses: 1
 chapters: 1
 first: "Joshua 10:3"
+placed: "1451 BC"
+placed_year: -1450
+sex: "male"
 tags: ["person"]
 ---
 
@@ -15,6 +18,15 @@ tags: ["person"]
 Amorite king of Eglon, defeated by Joshua
 
 **Original-language names:** דְּבִיר (H1688a)
+
+## When
+
+- **Placed around:** [[connections/timeline/15th century BC|1451 BC]] *(Ussher: the median date of the passages naming them)*
+
+## Family
+
+- **Tribe or nation:** Sinai
+
 
 ## Appears in
 

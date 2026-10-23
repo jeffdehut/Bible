@@ -7,6 +7,10 @@ original: ["אֵפֹד"]
 verses: 1
 chapters: 1
 first: "Numbers 34:23"
+placed: "1452 BC"
+placed_year: -1451
+generation: 1
+sex: "male"
 tags: ["person"]
 ---
 
@@ -15,6 +19,25 @@ tags: ["person"]
 A leader from the tribe of Manasseh.
 
 **Original-language names:** אֵפֹד (H0641)
+
+## When
+
+- **Placed around:** [[connections/timeline/15th century BC|1452 BC]] *(Ussher: the median date of the passages naming them)*
+
+## Family
+
+- **Children:** [[connections/people/Hanniel (Numbers 34.23)|Hanniel (Numbers 34.23)]]
+
+**Family group:** [[connections/genealogy/Family of Ephod|Family of Ephod]], generation 1
+
+```mermaid
+flowchart TB
+  n0["Ephod"]:::me
+  n1["Hanniel (Numbers 34.23)"]
+  n0 --> n1
+  classDef me stroke-width:3px
+  classDef spouse stroke-dasharray:4
+```
 
 ## Appears in
 

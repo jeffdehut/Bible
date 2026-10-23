@@ -7,6 +7,10 @@ original: ["הֲדַד"]
 verses: 4
 chapters: 2
 first: "Genesis 36:35"
+placed: "1785 BC"
+placed_year: -1784
+generation: 2
+sex: "male"
 tags: ["person"]
 ---
 
@@ -15,6 +19,26 @@ tags: ["person"]
 King of Edom, succeeded Husham.
 
 **Original-language names:** הֲדַד (H1908)
+
+## When
+
+- **Placed around:** [[connections/timeline/18th century BC|1785 BC]] *(Ussher: the median date of the passages naming them)*
+
+## Family
+
+- **Father:** [[connections/people/Bedad|Bedad]]
+- **Tribe or nation:** Edom
+
+**Family group:** [[connections/genealogy/Family of Bedad|Family of Bedad]], generation 2
+
+```mermaid
+flowchart TB
+  n0["Hadad (Genesis 36.35)"]:::me
+  n1["Bedad"]
+  n1 --> n0
+  classDef me stroke-width:3px
+  classDef spouse stroke-dasharray:4
+```
 
 ## Appears in
 

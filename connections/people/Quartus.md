@@ -7,6 +7,9 @@ original: ["Κούαρτος"]
 verses: 1
 chapters: 1
 first: "Romans 16:23"
+placed: "AD 60"
+placed_year: 60
+sex: "male"
 tags: ["person"]
 ---
 
@@ -15,6 +18,10 @@ tags: ["person"]
 A Christian brother in Corinth who sent greetings to Rome
 
 **Original-language names:** Κούαρτος (G2890)
+
+## When
+
+- **Placed around:** [[connections/timeline/1st century AD|AD 60]] *(Ussher: the median date of the passages naming them)*
 
 ## Appears in
 

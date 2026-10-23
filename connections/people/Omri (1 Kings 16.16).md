@@ -7,6 +7,10 @@ original: ["עׇמְרִי"]
 verses: 13
 chapters: 4
 first: "1 Kings 16:16"
+placed: "925 BC"
+placed_year: -924
+generation: 1
+sex: "male"
 tags: ["person"]
 ---
 
@@ -15,6 +19,31 @@ tags: ["person"]
 King of Israel; father of Ahab
 
 **Original-language names:** עׇמְרִי (H6018)
+
+## When
+
+- **Placed around:** [[connections/timeline/10th century BC|925 BC]] *(Ussher: the median date of the passages naming them)*
+
+## Family
+
+- **Children:** [[connections/people/Ahab (1 Kings 16.28)|Ahab (1 Kings 16.28)]]
+- **Tribe or nation:** Israel
+
+**Family group:** [[connections/genealogy/Family of Adam|Family of Adam]], generation 1
+
+```mermaid
+flowchart TB
+  n0["Omri (1 Kings 16.16)"]:::me
+  n1["Ahab (1 Kings 16.28)"]
+  n0 --> n1
+  classDef me stroke-width:3px
+  classDef spouse stroke-dasharray:4
+```
+
+## Events
+
+- [[connections/timeline/10th century BC|929 BC]] · [[connections/events/Reign of Omri|Reign of Omri]]
+- [[connections/timeline/10th century BC|918 BC]] · [[connections/events/Death of Omri|Death of Omri]]
 
 ## Appears in
 

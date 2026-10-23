@@ -7,12 +7,16 @@ language: "Greek"
 verses: 51
 cross_references_out: 284
 cross_references_in: 206
+dated_from: 33
+dated_to: 33
 tags: ["chapter", "nt", "gospels"]
 ---
 
 # Matthew 24
 
 ← [[connections/chapters/40-matthew/Matthew 23|Matthew 23]] · [[connections/books/Matthew|Matthew]] · [[connections/chapters/40-matthew/Matthew 25|Matthew 25]] →
+
+**Dated** *(Ussher, after the Treasury of Scripture Knowledge)*: [[connections/timeline/1st century AD|AD 33]]
 
 ## Text
 

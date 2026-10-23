@@ -7,6 +7,10 @@ original: ["יֵהוּא"]
 verses: 46
 chapters: 10
 first: "1 Kings 19:16"
+placed: "884 BC"
+placed_year: -883
+generation: 3
+sex: "male"
 tags: ["person"]
 ---
 
@@ -15,6 +19,38 @@ tags: ["person"]
 Son of Jehoshaphat, king of Israel, destroyed Ahab's dynasty.
 
 **Original-language names:** יֵהוּא (H3058)
+
+## When
+
+- **Placed around:** [[connections/timeline/9th century BC|884 BC]] *(Ussher: the median date of the passages naming them)*
+
+## Family
+
+- **Father:** [[connections/people/Jehoshaphat (2 Kings 9.2)|Jehoshaphat (2 Kings 9.2)]]
+- **Children:** [[connections/people/Jehoahaz (2 Kings 10.35)|Jehoahaz (2 Kings 10.35)]]
+- **Tribe or nation:** Israel
+
+**Line of descent** (3 generations, father to son): [[connections/people/Nimshi|Nimshi]] → [[connections/people/Jehoshaphat (2 Kings 9.2)|Jehoshaphat (2 Kings 9.2)]] → **Jehu (1 Kings 19.16)**
+
+**Family group:** [[connections/genealogy/Family of Nimshi|Family of Nimshi]], generation 3
+
+```mermaid
+flowchart TB
+  n0["Jehu (1 Kings 19.16)"]:::me
+  n1["Nimshi"]
+  n2["Jehoshaphat (2 Kings 9.2)"]
+  n1 --> n2
+  n2 --> n0
+  n3["Jehoahaz (2 Kings 10.35)"]
+  n0 --> n3
+  classDef me stroke-width:3px
+  classDef spouse stroke-dasharray:4
+```
+
+## Events
+
+- [[connections/timeline/9th century BC|886 BC]] · [[connections/events/Reign of Jehu|Reign of Jehu]]
+- [[connections/timeline/9th century BC|857 BC]] · [[connections/events/Death of Jehu|Death of Jehu]]
 
 ## Appears in
 

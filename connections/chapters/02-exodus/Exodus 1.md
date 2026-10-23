@@ -7,12 +7,16 @@ language: "Hebrew"
 verses: 22
 cross_references_out: 14
 cross_references_in: 14
+dated_from: -1634
+dated_to: -1572
 tags: ["chapter", "ot", "torah"]
 ---
 
 # Exodus 1
 
 ← [[connections/chapters/01-genesis/Genesis 50|Genesis 50]] · [[connections/books/Exodus|Exodus]] · [[connections/chapters/02-exodus/Exodus 2|Exodus 2]] →
+
+**Dated** *(Ussher, after the Treasury of Scripture Knowledge)*: [[connections/timeline/17th century BC|1635 BC]] – [[connections/timeline/16th century BC|1573 BC]]
 
 ## Text
 

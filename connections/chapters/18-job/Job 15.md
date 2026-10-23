@@ -7,12 +7,16 @@ language: "Hebrew"
 verses: 35
 cross_references_out: 7
 cross_references_in: 27
+dated_from: -1519
+dated_to: -1519
 tags: ["chapter", "ot", "wisdom"]
 ---
 
 # Job 15
 
 ← [[connections/chapters/18-job/Job 14|Job 14]] · [[connections/books/Job|Job]] · [[connections/chapters/18-job/Job 16|Job 16]] →
+
+**Dated** *(Ussher, after the Treasury of Scripture Knowledge)*: [[connections/timeline/16th century BC|1520 BC]]
 
 ## Text
 

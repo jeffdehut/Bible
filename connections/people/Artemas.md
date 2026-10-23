@@ -7,6 +7,9 @@ original: ["Ἀρτεμάς"]
 verses: 1
 chapters: 1
 first: "Titus 3:12"
+placed: "AD 65"
+placed_year: 65
+sex: "male"
 tags: ["person"]
 ---
 
@@ -15,6 +18,10 @@ tags: ["person"]
 Companion of Paul, potential replacement for Titus
 
 **Original-language names:** Ἀρτεμάς (G0734)
+
+## When
+
+- **Placed around:** [[connections/timeline/1st century AD|AD 65]] *(Ussher: the median date of the passages naming them)*
 
 ## Appears in
 

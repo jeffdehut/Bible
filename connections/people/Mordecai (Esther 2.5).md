@@ -7,6 +7,10 @@ original: ["מׇרְדֳּכַי"]
 verses: 50
 chapters: 9
 first: "Esther 2:5"
+placed: "453 BC"
+placed_year: -452
+generation: 4
+sex: "male"
 tags: ["person"]
 ---
 
@@ -15,6 +19,30 @@ tags: ["person"]
 Esther's cousin, a Jewish leader in the Persian court.
 
 **Original-language names:** מׇרְדֳּכַי (H4782)
+
+## When
+
+- **Placed around:** [[connections/timeline/5th century BC|453 BC]] *(Ussher: the median date of the passages naming them)*
+
+## Family
+
+- **Father:** [[connections/people/Jair (Esther 2.5)|Jair (Esther 2.5)]]
+- **Tribe or nation:** Tribe of Judah
+
+**Line of descent** (4 generations, father to son): [[connections/people/Kish (Esther 2.5)|Kish (Esther 2.5)]] → [[connections/people/Shimei (Esther 2.5)|Shimei (Esther 2.5)]] → [[connections/people/Jair (Esther 2.5)|Jair (Esther 2.5)]] → **Mordecai (Esther 2.5)**
+
+**Family group:** [[connections/genealogy/Family of Kish (Esther 2.5)|Family of Kish (Esther 2.5)]], generation 4
+
+```mermaid
+flowchart TB
+  n0["Mordecai (Esther 2.5)"]:::me
+  n1["Shimei (Esther 2.5)"]
+  n2["Jair (Esther 2.5)"]
+  n1 --> n2
+  n2 --> n0
+  classDef me stroke-width:3px
+  classDef spouse stroke-dasharray:4
+```
 
 ## Appears in
 

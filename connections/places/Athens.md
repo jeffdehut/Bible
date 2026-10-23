@@ -17,6 +17,10 @@ A major city in Greece, visited by Paul.
 
 **Original-language names:** Ἀθῆναι (G0116)
 
+## Events
+
+- [[connections/timeline/1st century AD|AD 48]] · [[connections/events/Paul preaches in Athens|Paul preaches in Athens]]
+
 ## Appears in
 
 [[connections/chapters/44-acts/Acts 17|Acts 17 (2)]] · [[connections/chapters/44-acts/Acts 18|Acts 18]] · [[connections/chapters/52-1-thessalonians/1 Thessalonians 3|1 Thessalonians 3]] · [[connections/chapters/52-1-thessalonians/1 Thessalonians 5|1 Thessalonians 5]] · [[connections/chapters/53-2-thessalonians/2 Thessalonians 3|2 Thessalonians 3]]

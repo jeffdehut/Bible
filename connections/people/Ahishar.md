@@ -7,6 +7,9 @@ original: ["אֲחִישָׁר"]
 verses: 1
 chapters: 1
 first: "1 Kings 4:6"
+placed: "1014 BC"
+placed_year: -1013
+sex: "male"
 tags: ["person"]
 ---
 
@@ -15,6 +18,10 @@ tags: ["person"]
 In charge of Solomon's palace
 
 **Original-language names:** אֲחִישָׁר (H0301)
+
+## When
+
+- **Placed around:** [[connections/timeline/11th century BC|1014 BC]] *(Ussher: the median date of the passages naming them)*
 
 ## Appears in
 

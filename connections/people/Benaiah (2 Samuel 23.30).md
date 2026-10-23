@@ -7,6 +7,9 @@ original: ["בְּנָיָ֫הוּ"]
 verses: 3
 chapters: 3
 first: "2 Samuel 23:30"
+placed: "1055 BC"
+placed_year: -1054
+sex: "male"
 tags: ["person"]
 ---
 
@@ -15,6 +18,10 @@ tags: ["person"]
 A Pirathonite, one of David's mighty warriors.
 
 **Original-language names:** בְּנָיָ֫הוּ (H1141)
+
+## When
+
+- **Placed around:** [[connections/timeline/11th century BC|1055 BC]] *(Ussher: the median date of the passages naming them)*
 
 ## Appears in
 

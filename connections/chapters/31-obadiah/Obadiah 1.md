@@ -7,12 +7,16 @@ language: "Hebrew"
 verses: 21
 cross_references_out: 21
 cross_references_in: 9
+dated_from: -586
+dated_to: -586
 tags: ["chapter", "ot", "prophets"]
 ---
 
 # Obadiah 1
 
 ← [[connections/chapters/30-amos/Amos 9|Amos 9]] · [[connections/books/Obadiah|Obadiah]] · [[connections/chapters/32-jonah/Jonah 1|Jonah 1]] →
+
+**Dated** *(Ussher, after the Treasury of Scripture Knowledge)*: [[connections/timeline/6th century BC|587 BC]]
 
 ## Text
 

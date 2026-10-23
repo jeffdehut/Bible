@@ -7,6 +7,10 @@ original: ["שִׁמְעִי"]
 verses: 2
 chapters: 1
 first: "2 Chronicles 31:12"
+placed: "726 BC"
+placed_year: -725
+generation: 2
+sex: "male"
 tags: ["person"]
 ---
 
@@ -15,6 +19,28 @@ tags: ["person"]
 Levite appointed as an overseer of temple contributions.
 
 **Original-language names:** שִׁמְעִי (H8096)
+
+## When
+
+- **Placed around:** [[connections/timeline/8th century BC|726 BC]] *(Ussher: the median date of the passages naming them)*
+
+## Family
+
+- **Father:** [[connections/people/father of Conaniah (2 Chronicles 31.12)|father of Conaniah (2 Chronicles 31.12)]]
+- **Brothers and sisters:** [[connections/people/Conaniah|Conaniah]]
+
+**Family group:** [[connections/genealogy/Family of father of Conaniah (2 Chronicles 31.12)|Family of father of Conaniah (2 Chronicles 31.12)]], generation 2
+
+```mermaid
+flowchart TB
+  n0["Shimei (2 Chronicles 31.12)"]:::me
+  n1["father of Conaniah (2 Chronicles 31.12)"]
+  n1 --> n0
+  n2["Conaniah"]
+  n1 --> n2
+  classDef me stroke-width:3px
+  classDef spouse stroke-dasharray:4
+```
 
 ## Appears in
 

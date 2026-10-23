@@ -8,6 +8,9 @@ original: ["Παῦλος", "Σαούλ", "Σαῦλος"]
 verses: 182
 chapters: 44
 first: "Acts 7:58"
+placed: "AD 60"
+placed_year: 60
+sex: "male"
 tags: ["person"]
 ---
 
@@ -18,6 +21,66 @@ Apostle to the Gentiles, author of many NT epistles
 **Also called:** Saul
 
 **Original-language names:** Παῦλος (G3972) · Σαούλ (G4549) · Σαῦλος (G4569)
+
+## When
+
+- **Placed around:** [[connections/timeline/1st century AD|AD 60]] *(Ussher: the median date of the passages naming them)*
+
+## Events
+
+- [[connections/timeline/1st century AD|AD 31]] · [[connections/events/Stephen is stoned|Stephen is stoned]]
+- [[connections/timeline/1st century AD|AD 31]] · [[connections/events/Saul persecutes the church|Saul persecutes the church]]
+- [[connections/timeline/1st century AD|AD 32]] · [[connections/events/Saul is converted|Saul is converted]]
+- [[connections/timeline/1st century AD|AD 38]] · [[connections/events/Saul proclaims Jesus|Saul proclaims Jesus]]
+- [[connections/timeline/1st century AD|AD 40]] · [[connections/events/Disciples first called Christians|Disciples first called Christians]]
+- [[connections/timeline/1st century AD|AD 45]] · [[connections/events/First missionary journey begins|First missionary journey begins]]
+- [[connections/timeline/1st century AD|AD 45]] · [[connections/events/First Missionary Journey|First Missionary Journey]]
+- [[connections/timeline/1st century AD|AD 45]] · [[connections/events/Barnabas and Saul go to Cyprus|Barnabas and Saul go to Cyprus]]
+- [[connections/timeline/1st century AD|AD 45]] · [[connections/events/Mission to Antioch in Pisidia|Mission to Antioch in Pisidia]]
+- [[connections/timeline/1st century AD|AD 46]] · [[connections/events/Mission to Iconium|Mission to Iconium]]
+- [[connections/timeline/1st century AD|AD 46]] · [[connections/events/Mission to Lystra and Derbe|Mission to Lystra and Derbe]]
+- [[connections/timeline/1st century AD|AD 46]] · [[connections/events/Return to Antioch in Syria|Return to Antioch in Syria]]
+- [[connections/timeline/1st century AD|AD 46]] · [[connections/events/Jerusalem Council|Jerusalem Council]]
+- [[connections/timeline/1st century AD|AD 46]] · [[connections/events/Second Missionary Journey|Second Missionary Journey]]
+- [[connections/timeline/1st century AD|AD 47]] · [[connections/events/Paul and Barnabas part ways|Paul and Barnabas part ways]]
+- [[connections/timeline/1st century AD|AD 47]] · [[connections/events/Second Missionary Journey begins|Second Missionary Journey begins]]
+- [[connections/timeline/1st century AD|AD 47]] · [[connections/events/Timothy Joins Paul and Silas|Timothy Joins Paul and Silas]]
+- [[connections/timeline/1st century AD|AD 47]] · [[connections/events/Mission to Phrygia, Galatia and Asia|Mission to Phrygia, Galatia and Asia]]
+- [[connections/timeline/1st century AD|AD 47]] · [[connections/events/Call to Macedonia|Call to Macedonia]]
+- [[connections/timeline/1st century AD|AD 47]] · [[connections/events/Lydia's Conversion|Lydia's Conversion]]
+- [[connections/timeline/1st century AD|AD 47]] · [[connections/events/Paul casts demon out of soothsayer|Paul casts demon out of soothsayer]]
+- [[connections/timeline/1st century AD|AD 47]] · [[connections/events/Paul and Silas imprisoned|Paul and Silas imprisoned]]
+- [[connections/timeline/1st century AD|AD 47]] · [[connections/events/Philippian jailer converted|Philippian jailer converted]]
+- [[connections/timeline/1st century AD|AD 47]] · [[connections/events/Paul and Silas released|Paul and Silas released]]
+- [[connections/timeline/1st century AD|AD 48]] · [[connections/events/Uproar in Thessalonica|Uproar in Thessalonica]]
+- [[connections/timeline/1st century AD|AD 48]] · [[connections/events/Mission to Berea|Mission to Berea]]
+- [[connections/timeline/1st century AD|AD 48]] · [[connections/events/Paul preaches in Athens|Paul preaches in Athens]]
+- [[connections/timeline/1st century AD|AD 49]] · [[connections/events/Mission to Corinth, 1&2 Thess Written|Mission to Corinth, 1&2 Thess Written]]
+- [[connections/timeline/1st century AD|AD 49]] · [[connections/events/Paul Writes Galatians|Paul Writes Galatians]]
+- [[connections/timeline/1st century AD|AD 50]] · [[connections/events/Return from Second Missionary Journey|Return from Second Missionary Journey]]
+- [[connections/timeline/1st century AD|AD 50]] · [[connections/events/Third Missionary Journey|Third Missionary Journey]]
+- [[connections/timeline/1st century AD|AD 53]] · [[connections/events/Mission to Ephesus-1 Cor Written|Mission to Ephesus/1 Cor Written]]
+- [[connections/timeline/1st century AD|AD 53]] · [[connections/events/Riot in Ephesus|Riot in Ephesus]]
+- [[connections/timeline/1st century AD|AD 54]] · [[connections/events/Mission to Macedonia and Greece|Mission to Macedonia and Greece]]
+- [[connections/timeline/1st century AD|AD 54]] · [[connections/events/Eutychus revived|Eutychus revived]]
+- [[connections/timeline/1st century AD|AD 54]] · [[connections/events/Voyage to Miletus|Voyage to Miletus]]
+- [[connections/timeline/1st century AD|AD 54]] · [[connections/events/Paul speaks to Ephesian Elders|Paul speaks to Ephesian Elders]]
+- [[connections/timeline/1st century AD|AD 54]] · [[connections/events/Voyage from Miletus to Jerusalem|Voyage from Miletus to Jerusalem]]
+- [[connections/timeline/1st century AD|AD 54]] · [[connections/events/Paul visits elders in Jerusalem|Paul visits elders in Jerusalem]]
+- [[connections/timeline/1st century AD|AD 54]] · [[connections/events/Paul arrested in the Temple|Paul arrested in the Temple]]
+- [[connections/timeline/1st century AD|AD 54]] · [[connections/events/Paul gives his testimony|Paul gives his testimony]]
+- [[connections/timeline/1st century AD|AD 54]] · [[connections/events/Paul goes before the Council|Paul goes before the Council]]
+- [[connections/timeline/1st century AD|AD 54]] · [[connections/events/The conspiracy to kill Paul|The conspiracy to kill Paul]]
+- [[connections/timeline/1st century AD|AD 56]] · [[connections/events/Paul sent to Felix|Paul sent to Felix]]
+- [[connections/timeline/1st century AD|AD 56]] · [[connections/events/Paul appeals to Caesar|Paul appeals to Caesar]]
+- [[connections/timeline/1st century AD|AD 56]] · [[connections/events/Agrippa and Bernice meet Festus|Agrippa and Bernice meet Festus]]
+- [[connections/timeline/1st century AD|AD 56]] · [[connections/events/Paul goes before Agrippa|Paul goes before Agrippa]]
+- [[connections/timeline/1st century AD|AD 56]] · [[connections/events/Journey to Rome begins|Journey to Rome begins]]
+- [[connections/timeline/1st century AD|AD 56]] · [[connections/events/Paul's Journey to Rome|Paul's Journey to Rome]]
+- [[connections/timeline/1st century AD|AD 57]] · [[connections/events/Paul is shipwrecked by a storm|Paul is shipwrecked by a storm]]
+- [[connections/timeline/1st century AD|AD 57]] · [[connections/events/Paul stays at Malta|Paul stays at Malta]]
+- [[connections/timeline/1st century AD|AD 57]] · [[connections/events/Paul arrives at Rome|Paul arrives at Rome]]
+- [[connections/timeline/1st century AD|AD 57]] · [[connections/events/Paul's First Roman imprisonment|Paul's First Roman imprisonment]]
 
 ## Appears in
 

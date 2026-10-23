@@ -8,6 +8,10 @@ original: ["יִתְרוֹ", "יֶ֫תֶר", "רְעוּאֵל"]
 verses: 11
 chapters: 5
 first: "Exodus 2:18"
+placed: "1491 BC"
+placed_year: -1490
+generation: 1
+sex: "male"
 tags: ["person"]
 ---
 
@@ -18,6 +22,28 @@ Moses' father-in-law, priest of Midian
 **Also called:** Jether, Reuel
 
 **Original-language names:** יִתְרוֹ (H3503) · יֶ֫תֶר (H3500) · רְעוּאֵל (H7467)
+
+## When
+
+- **Placed around:** [[connections/timeline/15th century BC|1491 BC]] *(Ussher: the median date of the passages naming them)*
+
+## Family
+
+- **Children:** [[connections/people/Hobab|Hobab]], [[connections/people/Zipporah|Zipporah]]
+- **Tribe or nation:** Midian
+
+**Family group:** [[connections/genealogy/Family of Adam|Family of Adam]], generation 1
+
+```mermaid
+flowchart TB
+  n0["Jethro"]:::me
+  n1["Hobab"]
+  n0 --> n1
+  n2["Zipporah"]
+  n0 --> n2
+  classDef me stroke-width:3px
+  classDef spouse stroke-dasharray:4
+```
 
 ## Appears in
 

@@ -7,6 +7,10 @@ original: ["יִרְמְיָ֫הוּ"]
 verses: 3
 chapters: 3
 first: "2 Kings 23:31"
+placed: "599 BC"
+placed_year: -598
+generation: 1
+sex: "male"
 tags: ["person"]
 ---
 
@@ -15,6 +19,25 @@ tags: ["person"]
 Father-in-law of Jehoahaz and Zedekiah
 
 **Original-language names:** יִרְמְיָ֫הוּ (H3414)
+
+## When
+
+- **Placed around:** [[connections/timeline/6th century BC|599 BC]] *(Ussher: the median date of the passages naming them)*
+
+## Family
+
+- **Children:** [[connections/people/Hamutal|Hamutal]]
+
+**Family group:** [[connections/genealogy/Family of Adam|Family of Adam]], generation 1
+
+```mermaid
+flowchart TB
+  n0["Jeremiah (2 Kings 23.31)"]:::me
+  n1["Hamutal"]
+  n0 --> n1
+  classDef me stroke-width:3px
+  classDef spouse stroke-dasharray:4
+```
 
 ## Appears in
 

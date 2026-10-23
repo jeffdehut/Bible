@@ -7,12 +7,16 @@ language: "Hebrew"
 verses: 18
 cross_references_out: 19
 cross_references_in: 46
+dated_from: -540
+dated_to: -540
 tags: ["chapter", "ot", "wisdom"]
 ---
 
 # Psalms 10
 
 ← [[connections/chapters/19-psalms/Psalms 9|Psalms 9]] · [[connections/books/Psalms|Psalms]] · [[connections/chapters/19-psalms/Psalms 11|Psalms 11]] →
+
+**Dated** *(Ussher, after the Treasury of Scripture Knowledge)*: [[connections/timeline/6th century BC|541 BC]]
 
 ## Text
 

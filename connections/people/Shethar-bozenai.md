@@ -7,6 +7,9 @@ original: ["שְׁתַר בּוֹזְנַי"]
 verses: 4
 chapters: 2
 first: "Ezra 5:3"
+placed: "519 BC"
+placed_year: -518
+sex: "male"
 tags: ["person"]
 ---
 
@@ -15,6 +18,10 @@ tags: ["person"]
 Persian official who questioned the Jews' temple rebuilding
 
 **Original-language names:** שְׁתַר בּוֹזְנַי (H8370)
+
+## When
+
+- **Placed around:** [[connections/timeline/6th century BC|519 BC]] *(Ussher: the median date of the passages naming them)*
 
 ## Appears in
 

@@ -8,6 +8,9 @@ original: ["Βαραββᾶς", "Ἰησοῦς"]
 verses: 10
 chapters: 4
 first: "Matthew 27:16"
+placed: "AD 33"
+placed_year: 33
+sex: "male"
 tags: ["person"]
 ---
 
@@ -18,6 +21,14 @@ A notorious prisoner released instead of Jesus.
 **Also called:** Jesus
 
 **Original-language names:** Βαραββᾶς (G0912) · Ἰησοῦς (G2424)
+
+## When
+
+- **Placed around:** [[connections/timeline/1st century AD|AD 33]] *(Ussher: the median date of the passages naming them)*
+
+## Events
+
+- [[connections/timeline/1st century AD|AD 30]] · [[connections/events/Roman Trials|Roman Trials]]
 
 ## Appears in
 

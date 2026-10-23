@@ -7,12 +7,16 @@ language: "Greek"
 verses: 15
 cross_references_out: 82
 cross_references_in: 65
+dated_from: 60
+dated_to: 60
 tags: ["chapter", "nt", "pauline-epistles"]
 ---
 
 # 2 Corinthians 9
 
 ← [[connections/chapters/47-2-corinthians/2 Corinthians 8|2 Corinthians 8]] · [[connections/books/2 Corinthians|2 Corinthians]] · [[connections/chapters/47-2-corinthians/2 Corinthians 10|2 Corinthians 10]] →
+
+**Dated** *(Ussher, after the Treasury of Scripture Knowledge)*: [[connections/timeline/1st century AD|AD 60]]
 
 ## Text
 

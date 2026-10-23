@@ -7,12 +7,16 @@ language: "Hebrew/Aramaic"
 verses: 49
 cross_references_out: 65
 cross_references_in: 63
+dated_from: -602
+dated_to: -602
 tags: ["chapter", "ot", "prophets"]
 ---
 
 # Daniel 2
 
 ← [[connections/chapters/27-daniel/Daniel 1|Daniel 1]] · [[connections/books/Daniel|Daniel]] · [[connections/chapters/27-daniel/Daniel 3|Daniel 3]] →
+
+**Dated** *(Ussher, after the Treasury of Scripture Knowledge)*: [[connections/timeline/7th century BC|603 BC]]
 
 ## Text
 

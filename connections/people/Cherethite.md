@@ -8,6 +8,8 @@ original: ["כָּרִי"]
 verses: 3
 chapters: 2
 first: "2 Samuel 20:23"
+placed: "878 BC"
+placed_year: -877
 tags: ["person"]
 ---
 
@@ -18,6 +20,10 @@ Member of Philistine tribe serving as royal guard
 **Also called:** Carite
 
 **Original-language names:** כָּרִי (H3746)
+
+## When
+
+- **Placed around:** [[connections/timeline/9th century BC|878 BC]] *(Ussher: the median date of the passages naming them)*
 
 ## Appears in
 

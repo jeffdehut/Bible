@@ -7,6 +7,9 @@ original: ["הֲתָךְ"]
 verses: 4
 chapters: 1
 first: "Esther 4:5"
+placed: "453 BC"
+placed_year: -452
+sex: "male"
 tags: ["person"]
 ---
 
@@ -15,6 +18,10 @@ tags: ["person"]
 A eunuch in the court of King Ahasuerus.
 
 **Original-language names:** הֲתָךְ (H2047)
+
+## When
+
+- **Placed around:** [[connections/timeline/5th century BC|453 BC]] *(Ussher: the median date of the passages naming them)*
 
 ## Appears in
 

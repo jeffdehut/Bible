@@ -7,6 +7,10 @@ original: ["יוֹנָה", "Ἰωνᾶς"]
 verses: 24
 chapters: 8
 first: "2 Kings 14:25"
+placed: "862 BC"
+placed_year: -861
+generation: 2
+sex: "male"
 tags: ["person"]
 ---
 
@@ -15,6 +19,29 @@ tags: ["person"]
 Prophet swallowed by fish, preached to Nineveh
 
 **Original-language names:** יוֹנָה (H3124) · Ἰωνᾶς (G2495)
+
+## When
+
+- **Placed around:** [[connections/timeline/9th century BC|862 BC]] *(Ussher: the median date of the passages naming them)*
+
+## Family
+
+- **Father:** [[connections/people/Amittai|Amittai]]
+
+**Family group:** [[connections/genealogy/Family of Amittai|Family of Amittai]], generation 2
+
+```mermaid
+flowchart TB
+  n0["Jonah"]:::me
+  n1["Amittai"]
+  n1 --> n0
+  classDef me stroke-width:3px
+  classDef spouse stroke-dasharray:4
+```
+
+## Events
+
+- [[connections/timeline/9th century BC|825 BC]] · [[connections/events/Prophecies of Jonah|Prophecies of Jonah]]
 
 ## Appears in
 

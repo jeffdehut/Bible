@@ -7,6 +7,10 @@ original: ["אֲחִילוּד"]
 verses: 5
 chapters: 4
 first: "2 Samuel 8:16"
+placed: "1022 BC"
+placed_year: -1021
+generation: 1
+sex: "male"
 tags: ["person"]
 ---
 
@@ -15,6 +19,27 @@ tags: ["person"]
 Father of Jehoshaphat and Baana, officials under David and Solomon
 
 **Original-language names:** אֲחִילוּד (H0286)
+
+## When
+
+- **Placed around:** [[connections/timeline/11th century BC|1022 BC]] *(Ussher: the median date of the passages naming them)*
+
+## Family
+
+- **Children:** [[connections/people/Baana (1 Kings 4.12)|Baana (1 Kings 4.12)]], [[connections/people/Jehoshaphat (2 Samuel 8.16)|Jehoshaphat (2 Samuel 8.16)]]
+
+**Family group:** [[connections/genealogy/Family of Ahilud|Family of Ahilud]], generation 1
+
+```mermaid
+flowchart TB
+  n0["Ahilud"]:::me
+  n1["Baana (1 Kings 4.12)"]
+  n0 --> n1
+  n2["Jehoshaphat (2 Samuel 8.16)"]
+  n0 --> n2
+  classDef me stroke-width:3px
+  classDef spouse stroke-dasharray:4
+```
 
 ## Appears in
 

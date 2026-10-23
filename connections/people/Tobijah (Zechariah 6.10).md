@@ -7,6 +7,9 @@ original: ["טוֹבִיָּ֫הוּ"]
 verses: 2
 chapters: 1
 first: "Zechariah 6:10"
+placed: "519 BC"
+placed_year: -518
+sex: "male"
 tags: ["person"]
 ---
 
@@ -15,6 +18,10 @@ tags: ["person"]
 Postexilic Jew who provided silver and gold for crowns
 
 **Original-language names:** טוֹבִיָּ֫הוּ (H2900)
+
+## When
+
+- **Placed around:** [[connections/timeline/6th century BC|519 BC]] *(Ussher: the median date of the passages naming them)*
 
 ## Appears in
 

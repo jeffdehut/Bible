@@ -17,6 +17,10 @@ A Canaanite city conquered by Joshua after initial defeat.
 
 **Original-language names:** עַי (H5857) · עַיַּת (H5857) · עַיָּה (H5857)
 
+## Events
+
+- [[connections/timeline/20th century BC|1921 BC]] · [[connections/events/Abraham enters Canaan|Abraham enters Canaan]]
+
 ## Appears in
 
 [[connections/chapters/01-genesis/Genesis 12|Genesis 12]] · [[connections/chapters/01-genesis/Genesis 13|Genesis 13]] · [[connections/chapters/06-joshua/Joshua 7|Joshua 7 (4)]] · [[connections/chapters/06-joshua/Joshua 8|Joshua 8 (19)]] · [[connections/chapters/06-joshua/Joshua 9|Joshua 9]] · [[connections/chapters/06-joshua/Joshua 10|Joshua 10 (2)]] · [[connections/chapters/06-joshua/Joshua 12|Joshua 12]] · [[connections/chapters/15-ezra/Ezra 2|Ezra 2]] · [[connections/chapters/16-nehemiah/Nehemiah 7|Nehemiah 7]] · [[connections/chapters/16-nehemiah/Nehemiah 11|Nehemiah 11]] · [[connections/chapters/23-isaiah/Isaiah 10|Isaiah 10]]

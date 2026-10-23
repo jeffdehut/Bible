@@ -17,6 +17,11 @@ City in Lycaonia visited by Paul on missionary journeys.
 
 **Original-language names:** Δερβαῖος (G1190) · Δέρβη (G1191)
 
+## Events
+
+- [[connections/timeline/1st century AD|AD 46]] · [[connections/events/Mission to Lystra and Derbe|Mission to Lystra and Derbe]]
+- [[connections/timeline/1st century AD|AD 47]] · [[connections/events/Timothy Joins Paul and Silas|Timothy Joins Paul and Silas]]
+
 ## Appears in
 
 [[connections/chapters/44-acts/Acts 14|Acts 14 (2)]] · [[connections/chapters/44-acts/Acts 16|Acts 16]] · [[connections/chapters/44-acts/Acts 20|Acts 20]]

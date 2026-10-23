@@ -7,6 +7,10 @@ original: ["אֵלָה"]
 verses: 4
 chapters: 3
 first: "2 Kings 15:30"
+placed: "726 BC"
+placed_year: -725
+generation: 1
+sex: "male"
 tags: ["person"]
 ---
 
@@ -15,6 +19,25 @@ tags: ["person"]
 Father of Hoshea, the last king of Israel
 
 **Original-language names:** אֵלָה (H0425)
+
+## When
+
+- **Placed around:** [[connections/timeline/8th century BC|726 BC]] *(Ussher: the median date of the passages naming them)*
+
+## Family
+
+- **Children:** [[connections/people/Hoshea (2 Kings 15.30)|Hoshea (2 Kings 15.30)]]
+
+**Family group:** [[connections/genealogy/Family of Elah (2 Kings 15.30)|Family of Elah (2 Kings 15.30)]], generation 1
+
+```mermaid
+flowchart TB
+  n0["Elah (2 Kings 15.30)"]:::me
+  n1["Hoshea (2 Kings 15.30)"]
+  n0 --> n1
+  classDef me stroke-width:3px
+  classDef spouse stroke-dasharray:4
+```
 
 ## Appears in
 

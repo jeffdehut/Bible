@@ -7,12 +7,16 @@ language: "Hebrew"
 verses: 30
 cross_references_out: 18
 cross_references_in: 17
+dated_from: -1490
+dated_to: -1490
 tags: ["chapter", "ot", "torah"]
 ---
 
 # Exodus 6
 
 ← [[connections/chapters/02-exodus/Exodus 5|Exodus 5]] · [[connections/books/Exodus|Exodus]] · [[connections/chapters/02-exodus/Exodus 7|Exodus 7]] →
+
+**Dated** *(Ussher, after the Treasury of Scripture Knowledge)*: [[connections/timeline/15th century BC|1491 BC]]
 
 ## Text
 

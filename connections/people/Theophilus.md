@@ -7,6 +7,9 @@ original: ["Θεόφιλος"]
 verses: 2
 chapters: 2
 first: "Luke 1:3"
+placed: "AD 33"
+placed_year: 33
+sex: "male"
 tags: ["person"]
 ---
 
@@ -15,6 +18,10 @@ tags: ["person"]
 Recipient of Luke's Gospel and Acts
 
 **Original-language names:** Θεόφιλος (G2321)
+
+## When
+
+- **Placed around:** [[connections/timeline/1st century AD|AD 33]] *(Ussher: the median date of the passages naming them)*
 
 ## Appears in
 

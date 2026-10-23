@@ -7,12 +7,16 @@ language: "Hebrew"
 verses: 31
 cross_references_out: 9
 cross_references_in: 18
+dated_from: -592
+dated_to: -592
 tags: ["chapter", "ot", "prophets"]
 ---
 
 # Ezekiel 22
 
 ← [[connections/chapters/26-ezekiel/Ezekiel 21|Ezekiel 21]] · [[connections/books/Ezekiel|Ezekiel]] · [[connections/chapters/26-ezekiel/Ezekiel 23|Ezekiel 23]] →
+
+**Dated** *(Ussher, after the Treasury of Scripture Knowledge)*: [[connections/timeline/6th century BC|593 BC]]
 
 ## Text
 

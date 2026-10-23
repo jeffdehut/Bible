@@ -7,6 +7,10 @@ original: ["יְהוֹזָבָד"]
 verses: 2
 chapters: 2
 first: "2 Kings 12:22"
+placed: "839 BC"
+placed_year: -838
+generation: 2
+sex: "male"
 tags: ["person"]
 ---
 
@@ -15,6 +19,26 @@ tags: ["person"]
 Son of Shomer, killed King Joash of Judah.
 
 **Original-language names:** יְהוֹזָבָד (H3075)
+
+## When
+
+- **Placed around:** [[connections/timeline/9th century BC|839 BC]] *(Ussher: the median date of the passages naming them)*
+
+## Family
+
+- **Father:** [[connections/people/Shomer (2 Kings 12.22)|Shomer (2 Kings 12.22)]]
+- **Tribe or nation:** Moab
+
+**Family group:** [[connections/genealogy/Family of Shomer (2 Kings 12.22)|Family of Shomer (2 Kings 12.22)]], generation 2
+
+```mermaid
+flowchart TB
+  n0["Jehozabad (2 Kings 12.22)"]:::me
+  n1["Shomer (2 Kings 12.22)"]
+  n1 --> n0
+  classDef me stroke-width:3px
+  classDef spouse stroke-dasharray:4
+```
 
 ## Appears in
 

@@ -17,6 +17,11 @@ A region in Asia Minor with early Christians
 
 **Original-language names:** Φρυγία (G5435)
 
+## Events
+
+- [[connections/timeline/1st century AD|AD 47]] · [[connections/events/Mission to Phrygia, Galatia and Asia|Mission to Phrygia, Galatia and Asia]]
+- [[connections/timeline/1st century AD|AD 50]] · [[connections/events/Return from Second Missionary Journey|Return from Second Missionary Journey]]
+
 ## Appears in
 
 [[connections/chapters/44-acts/Acts 2|Acts 2]] · [[connections/chapters/44-acts/Acts 16|Acts 16]] · [[connections/chapters/44-acts/Acts 18|Acts 18]] · [[connections/chapters/54-1-timothy/1 Timothy 6|1 Timothy 6]]

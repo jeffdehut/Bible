@@ -7,6 +7,9 @@ original: ["עֹבַדְיָ֫הוּ"]
 verses: 6
 chapters: 1
 first: "1 Kings 18:3"
+placed: "906 BC"
+placed_year: -905
+sex: "male"
 tags: ["person"]
 ---
 
@@ -15,6 +18,10 @@ tags: ["person"]
 Ahab's palace administrator, protected prophets
 
 **Original-language names:** עֹבַדְיָ֫הוּ (H5662)
+
+## When
+
+- **Placed around:** [[connections/timeline/10th century BC|906 BC]] *(Ussher: the median date of the passages naming them)*
 
 ## Appears in
 

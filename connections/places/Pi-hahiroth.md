@@ -20,6 +20,10 @@ A place near the Red Sea crossing
 
 **Original-language names:** פִּי הַחִירֹת (H6367) · הַחִירֹת (H6367)
 
+## Events
+
+- [[connections/timeline/15th century BC|1491 BC]] · [[connections/events/Wilderness Wanderings|Wilderness Wanderings]]
+
 ## Appears in
 
 [[connections/chapters/02-exodus/Exodus 14|Exodus 14 (2)]] · [[connections/chapters/04-numbers/Numbers 33|Numbers 33 (2)]]

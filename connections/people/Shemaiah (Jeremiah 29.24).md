@@ -7,6 +7,9 @@ original: ["שְׁמַעְיָ֫הוּ"]
 verses: 3
 chapters: 1
 first: "Jeremiah 29:24"
+placed: "599 BC"
+placed_year: -598
+sex: "male"
 tags: ["person"]
 ---
 
@@ -15,6 +18,10 @@ tags: ["person"]
 False prophet during the Babylonian exile
 
 **Original-language names:** שְׁמַעְיָ֫הוּ (H8098)
+
+## When
+
+- **Placed around:** [[connections/timeline/6th century BC|599 BC]] *(Ussher: the median date of the passages naming them)*
 
 ## Appears in
 

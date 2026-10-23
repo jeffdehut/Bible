@@ -7,6 +7,9 @@ original: ["Πόπλιος"]
 verses: 2
 chapters: 1
 first: "Acts 28:7"
+placed: "AD 62"
+placed_year: 62
+sex: "male"
 tags: ["person"]
 ---
 
@@ -15,6 +18,14 @@ tags: ["person"]
 Chief official of Malta who hosted Paul
 
 **Original-language names:** Πόπλιος (G4196)
+
+## When
+
+- **Placed around:** [[connections/timeline/1st century AD|AD 62]] *(Ussher: the median date of the passages naming them)*
+
+## Events
+
+- [[connections/timeline/1st century AD|AD 57]] · [[connections/events/Paul stays at Malta|Paul stays at Malta]]
 
 ## Appears in
 

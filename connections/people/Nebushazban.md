@@ -7,6 +7,9 @@ original: ["נְבוּשַׁזְבָּן"]
 verses: 1
 chapters: 1
 first: "Jeremiah 39:13"
+placed: "588 BC"
+placed_year: -587
+sex: "male"
 tags: ["person"]
 ---
 
@@ -15,6 +18,10 @@ tags: ["person"]
 Babylonian official during the fall of Jerusalem.
 
 **Original-language names:** נְבוּשַׁזְבָּן (H5021)
+
+## When
+
+- **Placed around:** [[connections/timeline/6th century BC|588 BC]] *(Ussher: the median date of the passages naming them)*
 
 ## Appears in
 

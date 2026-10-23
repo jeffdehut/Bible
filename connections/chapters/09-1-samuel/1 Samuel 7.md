@@ -7,12 +7,16 @@ language: "Hebrew"
 verses: 17
 cross_references_out: 45
 cross_references_in: 15
+dated_from: -1130
+dated_to: -1119
 tags: ["chapter", "ot", "history"]
 ---
 
 # 1 Samuel 7
 
 ← [[connections/chapters/09-1-samuel/1 Samuel 6|1 Samuel 6]] · [[connections/books/1 Samuel|1 Samuel]] · [[connections/chapters/09-1-samuel/1 Samuel 8|1 Samuel 8]] →
+
+**Dated** *(Ussher, after the Treasury of Scripture Knowledge)*: [[connections/timeline/12th century BC|1131 BC]] – [[connections/timeline/12th century BC|1120 BC]]
 
 ## Text
 

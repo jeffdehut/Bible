@@ -20,6 +20,10 @@ Ancient Mesopotamian city, possibly Kullania or Kullanhu
 
 **Original-language names:** כַּלְנֵ֑ה (H3641a) · כַּלְנוֹ (H3641b) · כַּנֶּה (H3656)
 
+## Events
+
+- [[connections/timeline/19th century BC|1822 BC]] · [[connections/events/Nimrod's kingdom begins|Nimrod's kingdom begins]]
+
 ## Appears in
 
 [[connections/chapters/01-genesis/Genesis 10|Genesis 10]] · [[connections/chapters/23-isaiah/Isaiah 10|Isaiah 10]] · [[connections/chapters/26-ezekiel/Ezekiel 27|Ezekiel 27]] · [[connections/chapters/30-amos/Amos 6|Amos 6]]

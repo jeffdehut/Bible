@@ -7,12 +7,16 @@ language: "Hebrew/Aramaic"
 verses: 24
 cross_references_out: 16
 cross_references_in: 16
+dated_from: -2347
+dated_to: -2347
 tags: ["chapter", "ot", "torah"]
 ---
 
 # Genesis 7
 
 ← [[connections/chapters/01-genesis/Genesis 6|Genesis 6]] · [[connections/books/Genesis|Genesis]] · [[connections/chapters/01-genesis/Genesis 8|Genesis 8]] →
+
+**Dated** *(Ussher, after the Treasury of Scripture Knowledge)*: [[connections/timeline/24th century BC|2348 BC]]
 
 ## Text
 

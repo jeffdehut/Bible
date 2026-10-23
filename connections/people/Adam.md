@@ -7,6 +7,14 @@ original: ["אָדָם", "הָאָדָם", "Ἀδάμ"]
 verses: 27
 chapters: 13
 first: "Genesis 2:19"
+born: "4004 BC"
+born_year: -4003
+died: "3074 BC"
+died_year: -3073
+placed: "3874 BC"
+placed_year: -3873
+generation: 1
+sex: "male"
 tags: ["person"]
 ---
 
@@ -15,6 +23,44 @@ tags: ["person"]
 The first man, created by God
 
 **Original-language names:** אָדָם (H0121) · הָאָדָם (H0120) · Ἀδάμ (G0076)
+
+## When
+
+- **Lived:** [[connections/timeline/41st century BC|4004 BC]] – [[connections/timeline/31st century BC|3074 BC]] *(Jones)*
+- **Placed around:** [[connections/timeline/39th century BC|3874 BC]] *(Ussher: the median date of the passages naming them)*
+
+## Family
+
+- **Brothers and sisters:** [[connections/people/Eve|Eve]]
+- **Spouses:** [[connections/people/Eve|Eve]]
+- **Children:** [[connections/people/Abel|Abel]], [[connections/people/Cain|Cain]], [[connections/people/Seth|Seth]]
+- **Tribe or nation:** Early Patriarch
+
+**Family group:** [[connections/genealogy/Family of Adam|Family of Adam]], generation 1
+
+```mermaid
+flowchart TB
+  n0["Adam"]:::me
+  n1["Eve"]
+  n0 ~~~ n1
+  n0 -.- n1
+  n2["Abel"]
+  n0 --> n2
+  n3["Cain"]
+  n0 --> n3
+  n4["Seth"]
+  n0 --> n4
+  classDef me stroke-width:3px
+  classDef spouse stroke-dasharray:4
+```
+
+## Events
+
+- [[connections/timeline/41st century BC|4004 BC]] · [[connections/events/Creation of Adam and Eve|Creation of Adam and Eve]]
+- [[connections/timeline/41st century BC|4004 BC]] · [[connections/events/The Fall|The Fall]]
+- [[connections/timeline/41st century BC|4004 BC]] · [[connections/events/Lifetime of Adam|Lifetime of Adam]]
+- [[connections/timeline/39th century BC|3874 BC]] · [[connections/events/Birth of Seth|Birth of Seth]]
+- [[connections/timeline/31st century BC|3074 BC]] · [[connections/events/Death of Adam|Death of Adam]]
 
 ## Appears in
 

@@ -7,12 +7,16 @@ language: "Hebrew/Aramaic"
 verses: 24
 cross_references_out: 63
 cross_references_in: 58
+dated_from: -1871
+dated_to: -1861
 tags: ["chapter", "ot", "torah"]
 ---
 
 # Genesis 22
 
 ← [[connections/chapters/01-genesis/Genesis 21|Genesis 21]] · [[connections/books/Genesis|Genesis]] · [[connections/chapters/01-genesis/Genesis 23|Genesis 23]] →
+
+**Dated** *(Ussher, after the Treasury of Scripture Knowledge)*: [[connections/timeline/19th century BC|1872 BC]] – [[connections/timeline/19th century BC|1862 BC]]
 
 ## Text
 

@@ -7,12 +7,16 @@ language: "Greek"
 verses: 60
 cross_references_out: 73
 cross_references_in: 98
+dated_from: 33
+dated_to: 33
 tags: ["chapter", "nt", "acts"]
 ---
 
 # Acts 7
 
 ← [[connections/chapters/44-acts/Acts 6|Acts 6]] · [[connections/books/Acts|Acts]] · [[connections/chapters/44-acts/Acts 8|Acts 8]] →
+
+**Dated** *(Ussher, after the Treasury of Scripture Knowledge)*: [[connections/timeline/1st century AD|AD 33]]
 
 ## Text
 

@@ -7,12 +7,16 @@ language: "Hebrew/Aramaic"
 verses: 29
 cross_references_out: 12
 cross_references_in: 28
+dated_from: -1728
+dated_to: -1715
 tags: ["chapter", "ot", "torah"]
 ---
 
 # Genesis 35
 
 ← [[connections/chapters/01-genesis/Genesis 34|Genesis 34]] · [[connections/books/Genesis|Genesis]] · [[connections/chapters/01-genesis/Genesis 36|Genesis 36]] →
+
+**Dated** *(Ussher, after the Treasury of Scripture Knowledge)*: [[connections/timeline/18th century BC|1729 BC]] – [[connections/timeline/18th century BC|1716 BC]]
 
 ## Text
 

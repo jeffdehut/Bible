@@ -7,12 +7,16 @@ language: "Greek"
 verses: 31
 cross_references_out: 60
 cross_references_in: 78
+dated_from: 33
+dated_to: 33
 tags: ["chapter", "nt", "gospels"]
 ---
 
 # Luke 16
 
 ← [[connections/chapters/42-luke/Luke 15|Luke 15]] · [[connections/books/Luke|Luke]] · [[connections/chapters/42-luke/Luke 17|Luke 17]] →
+
+**Dated** *(Ussher, after the Treasury of Scripture Knowledge)*: [[connections/timeline/1st century AD|AD 33]]
 
 ## Text
 

@@ -83,6 +83,27 @@
         "a": 1,
         "rgb": 10117924
       }
+    },
+    {
+      "query": "path:connections/events",
+      "color": {
+        "a": 1,
+        "rgb": 13937677
+      }
+    },
+    {
+      "query": "path:connections/timeline",
+      "color": {
+        "a": 1,
+        "rgb": 1515562
+      }
+    },
+    {
+      "query": "path:connections/genealogy",
+      "color": {
+        "a": 1,
+        "rgb": 7220224
+      }
     }
   ],
   "collapse-display": true,

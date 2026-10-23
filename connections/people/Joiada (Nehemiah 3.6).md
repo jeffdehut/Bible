@@ -7,6 +7,10 @@ original: ["יוֹיָדָע"]
 verses: 1
 chapters: 1
 first: "Nehemiah 3:6"
+placed: "445 BC"
+placed_year: -444
+generation: 2
+sex: "male"
 tags: ["person"]
 ---
 
@@ -15,6 +19,25 @@ tags: ["person"]
 Son of Paseah, who repaired the Old Gate
 
 **Original-language names:** יוֹיָדָע (H3111)
+
+## When
+
+- **Placed around:** [[connections/timeline/5th century BC|445 BC]] *(Ussher: the median date of the passages naming them)*
+
+## Family
+
+- **Father:** [[connections/people/Paseah (Nehemiah 3.6)|Paseah (Nehemiah 3.6)]]
+
+**Family group:** [[connections/genealogy/Family of Paseah (Nehemiah 3.6)|Family of Paseah (Nehemiah 3.6)]], generation 2
+
+```mermaid
+flowchart TB
+  n0["Joiada (Nehemiah 3.6)"]:::me
+  n1["Paseah (Nehemiah 3.6)"]
+  n1 --> n0
+  classDef me stroke-width:3px
+  classDef spouse stroke-dasharray:4
+```
 
 ## Appears in
 

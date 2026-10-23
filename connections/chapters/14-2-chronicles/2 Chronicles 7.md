@@ -7,12 +7,16 @@ language: "Hebrew"
 verses: 22
 cross_references_out: 36
 cross_references_in: 21
+dated_from: -1003
+dated_to: -1003
 tags: ["chapter", "ot", "history"]
 ---
 
 # 2 Chronicles 7
 
 ← [[connections/chapters/14-2-chronicles/2 Chronicles 6|2 Chronicles 6]] · [[connections/books/2 Chronicles|2 Chronicles]] · [[connections/chapters/14-2-chronicles/2 Chronicles 8|2 Chronicles 8]] →
+
+**Dated** *(Ussher, after the Treasury of Scripture Knowledge)*: [[connections/timeline/11th century BC|1004 BC]]
 
 ## Text
 

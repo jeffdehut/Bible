@@ -17,6 +17,10 @@ Wilderness area where Israelites camped during the Exodus
 
 **Original-language names:** אֵתָם (H0864)
 
+## Events
+
+- [[connections/timeline/15th century BC|1491 BC]] · [[connections/events/Wilderness Wanderings|Wilderness Wanderings]]
+
 ## Appears in
 
 [[connections/chapters/02-exodus/Exodus 13|Exodus 13]] · [[connections/chapters/04-numbers/Numbers 33|Numbers 33 (3)]]

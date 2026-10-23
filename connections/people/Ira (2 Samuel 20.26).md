@@ -7,6 +7,9 @@ original: ["עִירָא"]
 verses: 1
 chapters: 1
 first: "2 Samuel 20:26"
+placed: "1022 BC"
+placed_year: -1021
+sex: "male"
 tags: ["person"]
 ---
 
@@ -15,6 +18,10 @@ tags: ["person"]
 David's priest, a Jairite.
 
 **Original-language names:** עִירָא (H5896)
+
+## When
+
+- **Placed around:** [[connections/timeline/11th century BC|1022 BC]] *(Ussher: the median date of the passages naming them)*
 
 ## Appears in
 

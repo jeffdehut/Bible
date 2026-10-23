@@ -7,6 +7,10 @@ original: ["נְתַנְיָ֫הוּ"]
 verses: 16
 chapters: 3
 first: "2 Kings 25:23"
+placed: "588 BC"
+placed_year: -587
+generation: 2
+sex: "male"
 tags: ["person"]
 ---
 
@@ -15,6 +19,29 @@ tags: ["person"]
 Father of Ishmael
 
 **Original-language names:** נְתַנְיָ֫הוּ (H5418)
+
+## When
+
+- **Placed around:** [[connections/timeline/6th century BC|588 BC]] *(Ussher: the median date of the passages naming them)*
+
+## Family
+
+- **Father:** [[connections/people/Elishama (2 Kings 25.25)|Elishama (2 Kings 25.25)]]
+- **Children:** [[connections/people/Ishmael (2 Kings 25.23)|Ishmael (2 Kings 25.23)]]
+- **Tribe or nation:** Tribe of Benjamin
+
+**Family group:** [[connections/genealogy/Family of Elishama (2 Kings 25.25)|Family of Elishama (2 Kings 25.25)]], generation 2
+
+```mermaid
+flowchart TB
+  n0["Nethaniah (2 Kings 25.23)"]:::me
+  n1["Elishama (2 Kings 25.25)"]
+  n1 --> n0
+  n2["Ishmael (2 Kings 25.23)"]
+  n0 --> n2
+  classDef me stroke-width:3px
+  classDef spouse stroke-dasharray:4
+```
 
 ## Appears in
 

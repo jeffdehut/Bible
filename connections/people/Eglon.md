@@ -7,6 +7,9 @@ original: ["עֶגְלוֹן"]
 verses: 4
 chapters: 1
 first: "Judges 3:12"
+placed: "1325 BC"
+placed_year: -1324
+sex: "male"
 tags: ["person"]
 ---
 
@@ -15,6 +18,19 @@ tags: ["person"]
 King of Moab who oppressed Israel
 
 **Original-language names:** עֶגְלוֹן (H5700)
+
+## When
+
+- **Placed around:** [[connections/timeline/14th century BC|1325 BC]] *(Ussher: the median date of the passages naming them)*
+
+## Family
+
+- **Tribe or nation:** Moab
+
+
+## Events
+
+- [[connections/timeline/14th century BC|1378 BC]] · [[connections/events/Subjugation by Eglon|Subjugation by Eglon]]
 
 ## Appears in
 

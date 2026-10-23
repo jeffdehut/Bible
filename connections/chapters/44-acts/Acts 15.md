@@ -7,12 +7,16 @@ language: "Greek"
 verses: 40
 cross_references_out: 39
 cross_references_in: 56
+dated_from: 51
+dated_to: 51
 tags: ["chapter", "nt", "acts"]
 ---
 
 # Acts 15
 
 ← [[connections/chapters/44-acts/Acts 14|Acts 14]] · [[connections/books/Acts|Acts]] · [[connections/chapters/44-acts/Acts 16|Acts 16]] →
+
+**Dated** *(Ussher, after the Treasury of Scripture Knowledge)*: [[connections/timeline/1st century AD|AD 51]]
 
 ## Text
 

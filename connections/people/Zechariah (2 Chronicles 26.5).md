@@ -7,6 +7,9 @@ original: ["זְכַרְיָהוּ"]
 verses: 1
 chapters: 1
 first: "2 Chronicles 26:5"
+placed: "810 BC"
+placed_year: -809
+sex: "male"
 tags: ["person"]
 ---
 
@@ -15,6 +18,10 @@ tags: ["person"]
 Prophet who instructed King Uzziah
 
 **Original-language names:** זְכַרְיָהוּ (H2148a)
+
+## When
+
+- **Placed around:** [[connections/timeline/9th century BC|810 BC]] *(Ussher: the median date of the passages naming them)*
 
 ## Appears in
 

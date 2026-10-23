@@ -8,6 +8,9 @@ original: ["חֲגָבָה", "חֲגָבָא"]
 verses: 2
 chapters: 2
 first: "Ezra 2:45"
+placed: "445 BC"
+placed_year: -444
+sex: "male"
 tags: ["person"]
 ---
 
@@ -18,6 +21,10 @@ A temple servant who returned from Babylonian exile.
 **Also called:** Hagaba
 
 **Original-language names:** חֲגָבָה (H2286b) · חֲגָבָא (H2286a)
+
+## When
+
+- **Placed around:** [[connections/timeline/5th century BC|445 BC]] *(Ussher: the median date of the passages naming them)*
 
 ## Appears in
 

@@ -7,12 +7,16 @@ language: "Hebrew"
 verses: 32
 cross_references_out: 2
 cross_references_in: 8
+dated_from: -451
+dated_to: -451
 tags: ["chapter", "ot", "history"]
 ---
 
 # Esther 9
 
 ← [[connections/chapters/17-esther/Esther 8|Esther 8]] · [[connections/books/Esther|Esther]] · [[connections/chapters/17-esther/Esther 10|Esther 10]] →
+
+**Dated** *(Ussher, after the Treasury of Scripture Knowledge)*: [[connections/timeline/5th century BC|452 BC]]
 
 ## Text
 

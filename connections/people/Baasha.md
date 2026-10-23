@@ -7,6 +7,10 @@ original: ["בַּעְשָׁא"]
 verses: 26
 chapters: 6
 first: "1 Kings 15:16"
+placed: "930 BC"
+placed_year: -929
+generation: 2
+sex: "male"
 tags: ["person"]
 ---
 
@@ -15,6 +19,33 @@ tags: ["person"]
 Third king of Israel who ruled for 24 years.
 
 **Original-language names:** בַּעְשָׁא (H1201)
+
+## When
+
+- **Placed around:** [[connections/timeline/10th century BC|930 BC]] *(Ussher: the median date of the passages naming them)*
+
+## Family
+
+- **Father:** [[connections/people/Ahijah (1 Kings 15.27)|Ahijah (1 Kings 15.27)]]
+- **Children:** [[connections/people/Elah (1 Kings 16.6)|Elah (1 Kings 16.6)]]
+- **Tribe or nation:** Israel
+
+**Family group:** [[connections/genealogy/Family of Ahijah (1 Kings 15.27)|Family of Ahijah (1 Kings 15.27)]], generation 2
+
+```mermaid
+flowchart TB
+  n0["Baasha"]:::me
+  n1["Ahijah (1 Kings 15.27)"]
+  n1 --> n0
+  n2["Elah (1 Kings 16.6)"]
+  n0 --> n2
+  classDef me stroke-width:3px
+  classDef spouse stroke-dasharray:4
+```
+
+## Events
+
+- [[connections/timeline/10th century BC|953 BC]] · [[connections/events/Reign of Baasha|Reign of Baasha]]
 
 ## Appears in
 

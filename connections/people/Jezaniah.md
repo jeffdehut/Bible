@@ -8,6 +8,10 @@ original: ["יְזַנְיָה", "וִֽיזַנְיָהוּ", "יַאֲזַנְ
 verses: 4
 chapters: 4
 first: "2 Kings 25:23"
+placed: "588 BC"
+placed_year: -587
+generation: 2
+sex: "male"
 tags: ["person"]
 ---
 
@@ -18,6 +22,25 @@ A leader of the Judean forces
 **Also called:** Jaazaniah, Azariah
 
 **Original-language names:** יְזַנְיָה (H3153) · וִֽיזַנְיָהוּ (H2970) · יַאֲזַנְיָ֫הוּ (H2970) · עֲזַרְיָה (H5838)
+
+## When
+
+- **Placed around:** [[connections/timeline/6th century BC|588 BC]] *(Ussher: the median date of the passages naming them)*
+
+## Family
+
+- **Father:** [[connections/people/Hoshaiah (Jeremiah 42.1)|Hoshaiah (Jeremiah 42.1)]]
+
+**Family group:** [[connections/genealogy/Family of Hoshaiah (Jeremiah 42.1)|Family of Hoshaiah (Jeremiah 42.1)]], generation 2
+
+```mermaid
+flowchart TB
+  n0["Jezaniah"]:::me
+  n1["Hoshaiah (Jeremiah 42.1)"]
+  n1 --> n0
+  classDef me stroke-width:3px
+  classDef spouse stroke-dasharray:4
+```
 
 ## Appears in
 

@@ -7,6 +7,10 @@ original: ["צָדוֹק"]
 verses: 1
 chapters: 1
 first: "Nehemiah 3:4"
+placed: "445 BC"
+placed_year: -444
+generation: 2
+sex: "male"
 tags: ["person"]
 ---
 
@@ -15,6 +19,25 @@ tags: ["person"]
 Repaired a section of Jerusalem's wall
 
 **Original-language names:** צָדוֹק (H6659)
+
+## When
+
+- **Placed around:** [[connections/timeline/5th century BC|445 BC]] *(Ussher: the median date of the passages naming them)*
+
+## Family
+
+- **Father:** [[connections/people/Baana (Nehemiah 3.4)|Baana (Nehemiah 3.4)]]
+
+**Family group:** [[connections/genealogy/Family of Baana (Nehemiah 3.4)|Family of Baana (Nehemiah 3.4)]], generation 2
+
+```mermaid
+flowchart TB
+  n0["Zadok (Nehemiah 3.4)"]:::me
+  n1["Baana (Nehemiah 3.4)"]
+  n1 --> n0
+  classDef me stroke-width:3px
+  classDef spouse stroke-dasharray:4
+```
 
 ## Appears in
 

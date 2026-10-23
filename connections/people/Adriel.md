@@ -7,6 +7,10 @@ original: ["עַדְרִיאֵל"]
 verses: 2
 chapters: 2
 first: "1 Samuel 18:19"
+placed: "1018 BC"
+placed_year: -1017
+generation: 2
+sex: "male"
 tags: ["person"]
 ---
 
@@ -15,6 +19,28 @@ tags: ["person"]
 Saul's son-in-law; husband of Merab
 
 **Original-language names:** עַדְרִיאֵל (H5741)
+
+## When
+
+- **Placed around:** [[connections/timeline/11th century BC|1018 BC]] *(Ussher: the median date of the passages naming them)*
+
+## Family
+
+- **Father:** [[connections/people/Barzillai (2 Samuel 21.8)|Barzillai (2 Samuel 21.8)]]
+- **Spouses:** [[connections/people/Merab|Merab]]
+
+**Family group:** [[connections/genealogy/Family of Barzillai (2 Samuel 21.8)|Family of Barzillai (2 Samuel 21.8)]], generation 2
+
+```mermaid
+flowchart TB
+  n0["Adriel"]:::me
+  n1["Barzillai (2 Samuel 21.8)"]
+  n1 --> n0
+  n2["Merab"]:::spouse
+  n0 -.- n2
+  classDef me stroke-width:3px
+  classDef spouse stroke-dasharray:4
+```
 
 ## Appears in
 

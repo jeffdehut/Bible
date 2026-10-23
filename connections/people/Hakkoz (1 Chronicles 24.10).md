@@ -7,6 +7,9 @@ original: ["הַקוֹץ"]
 verses: 1
 chapters: 1
 first: "1 Chronicles 24:10"
+placed: "1015 BC"
+placed_year: -1014
+sex: "male"
 tags: ["person"]
 ---
 
@@ -15,6 +18,10 @@ tags: ["person"]
 A priest in the time of David.
 
 **Original-language names:** הַקוֹץ (H6976)
+
+## When
+
+- **Placed around:** [[connections/timeline/11th century BC|1015 BC]] *(Ussher: the median date of the passages naming them)*
 
 ## Appears in
 

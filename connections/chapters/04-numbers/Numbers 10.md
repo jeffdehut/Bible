@@ -7,12 +7,16 @@ language: "Hebrew"
 verses: 36
 cross_references_out: 5
 cross_references_in: 4
+dated_from: -1489
+dated_to: -1489
 tags: ["chapter", "ot", "torah"]
 ---
 
 # Numbers 10
 
 ← [[connections/chapters/04-numbers/Numbers 9|Numbers 9]] · [[connections/books/Numbers|Numbers]] · [[connections/chapters/04-numbers/Numbers 11|Numbers 11]] →
+
+**Dated** *(Ussher, after the Treasury of Scripture Knowledge)*: [[connections/timeline/15th century BC|1490 BC]]
 
 ## Text
 

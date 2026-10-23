@@ -7,12 +7,16 @@ language: "Greek"
 verses: 58
 cross_references_out: 251
 cross_references_in: 228
+dated_from: 59
+dated_to: 59
 tags: ["chapter", "nt", "pauline-epistles"]
 ---
 
 # 1 Corinthians 15
 
 ← [[connections/chapters/46-1-corinthians/1 Corinthians 14|1 Corinthians 14]] · [[connections/books/1 Corinthians|1 Corinthians]] · [[connections/chapters/46-1-corinthians/1 Corinthians 16|1 Corinthians 16]] →
+
+**Dated** *(Ussher, after the Treasury of Scripture Knowledge)*: [[connections/timeline/1st century AD|AD 59]]
 
 ## Text
 

@@ -7,6 +7,9 @@ original: ["מַתִּתְיָ֫הוּ"]
 verses: 1
 chapters: 1
 first: "Nehemiah 8:4"
+placed: "445 BC"
+placed_year: -444
+sex: "male"
 tags: ["person"]
 ---
 
@@ -15,6 +18,10 @@ tags: ["person"]
 Levite who assisted Ezra in reading the Law.
 
 **Original-language names:** מַתִּתְיָ֫הוּ (H4993)
+
+## When
+
+- **Placed around:** [[connections/timeline/5th century BC|445 BC]] *(Ussher: the median date of the passages naming them)*
 
 ## Appears in
 

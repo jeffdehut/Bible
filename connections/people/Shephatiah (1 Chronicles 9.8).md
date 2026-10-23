@@ -7,6 +7,10 @@ original: ["שְׁפַטְיָהוּ"]
 verses: 1
 chapters: 1
 first: "1 Chronicles 9:8"
+placed: "536 BC"
+placed_year: -535
+generation: 3
+sex: "male"
 tags: ["person"]
 ---
 
@@ -15,6 +19,32 @@ tags: ["person"]
 Benjamite who lived in Jerusalem
 
 **Original-language names:** שְׁפַטְיָהוּ (H8203)
+
+## When
+
+- **Placed around:** [[connections/timeline/6th century BC|536 BC]] *(Ussher: the median date of the passages naming them)*
+
+## Family
+
+- **Father:** [[connections/people/Reuel (1 Chronicles 9.8)|Reuel (1 Chronicles 9.8)]]
+- **Children:** [[connections/people/Meshullam (1 Chronicles 9.8)|Meshullam (1 Chronicles 9.8)]]
+
+**Line of descent** (3 generations, father to son): [[connections/people/Ibnijah|Ibnijah]] → [[connections/people/Reuel (1 Chronicles 9.8)|Reuel (1 Chronicles 9.8)]] → **Shephatiah (1 Chronicles 9.8)**
+
+**Family group:** [[connections/genealogy/Family of Ibnijah|Family of Ibnijah]], generation 3
+
+```mermaid
+flowchart TB
+  n0["Shephatiah (1 Chronicles 9.8)"]:::me
+  n1["Ibnijah"]
+  n2["Reuel (1 Chronicles 9.8)"]
+  n1 --> n2
+  n2 --> n0
+  n3["Meshullam (1 Chronicles 9.8)"]
+  n0 --> n3
+  classDef me stroke-width:3px
+  classDef spouse stroke-dasharray:4
+```
 
 ## Appears in
 

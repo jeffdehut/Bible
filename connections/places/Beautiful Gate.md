@@ -17,6 +17,10 @@ Gate of the Jerusalem temple, site of Peter's miracle.
 
 **Original-language names:** ὡραῖος (G5611)
 
+## Events
+
+- [[connections/timeline/1st century AD|AD 30]] · [[connections/events/Lame man healed|Lame man healed]]
+
 ## Appears in
 
 [[connections/chapters/44-acts/Acts 3|Acts 3 (2)]]

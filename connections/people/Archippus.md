@@ -7,6 +7,9 @@ original: ["Ἄρχιππος"]
 verses: 2
 chapters: 2
 first: "Colossians 4:17"
+placed: "AD 64"
+placed_year: 64
+sex: "male"
 tags: ["person"]
 ---
 
@@ -15,6 +18,10 @@ tags: ["person"]
 Fellow soldier and minister in Colossae
 
 **Original-language names:** Ἄρχιππος (G0751)
+
+## When
+
+- **Placed around:** [[connections/timeline/1st century AD|AD 64]] *(Ussher: the median date of the passages naming them)*
 
 ## Appears in
 

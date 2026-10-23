@@ -7,12 +7,16 @@ language: "Hebrew"
 verses: 28
 cross_references_out: 28
 cross_references_in: 28
+dated_from: -1164
+dated_to: -1164
 tags: ["chapter", "ot", "history"]
 ---
 
 # 1 Samuel 1
 
 ← [[connections/chapters/08-ruth/Ruth 4|Ruth 4]] · [[connections/books/1 Samuel|1 Samuel]] · [[connections/chapters/09-1-samuel/1 Samuel 2|1 Samuel 2]] →
+
+**Dated** *(Ussher, after the Treasury of Scripture Knowledge)*: [[connections/timeline/12th century BC|1165 BC]]
 
 ## Text
 

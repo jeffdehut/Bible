@@ -7,6 +7,9 @@ original: ["עַלְוָה"]
 verses: 2
 chapters: 2
 first: "Genesis 36:40"
+placed: "1617 BC"
+placed_year: -1616
+sex: "male"
 tags: ["person"]
 ---
 
@@ -15,6 +18,15 @@ tags: ["person"]
 Edomite chief, descendant of Esau
 
 **Original-language names:** עַלְוָה (H5933)
+
+## When
+
+- **Placed around:** [[connections/timeline/17th century BC|1617 BC]] *(Ussher: the median date of the passages naming them)*
+
+## Family
+
+- **Tribe or nation:** Edom
+
 
 ## Appears in
 

@@ -7,6 +7,10 @@ original: ["אֲחִיתֹ֫פֶל"]
 verses: 17
 chapters: 5
 first: "2 Samuel 15:12"
+placed: "1023 BC"
+placed_year: -1022
+generation: 1
+sex: "male"
 tags: ["person"]
 ---
 
@@ -15,6 +19,25 @@ tags: ["person"]
 David's counselor who joined Absalom's rebellion, later committed suicide
 
 **Original-language names:** אֲחִיתֹ֫פֶל (H0302)
+
+## When
+
+- **Placed around:** [[connections/timeline/11th century BC|1023 BC]] *(Ussher: the median date of the passages naming them)*
+
+## Family
+
+- **Children:** [[connections/people/Eliam (2 Samuel 23.34)|Eliam (2 Samuel 23.34)]]
+
+**Family group:** [[connections/genealogy/Family of Ahithophel|Family of Ahithophel]], generation 1
+
+```mermaid
+flowchart TB
+  n0["Ahithophel"]:::me
+  n1["Eliam (2 Samuel 23.34)"]
+  n0 --> n1
+  classDef me stroke-width:3px
+  classDef spouse stroke-dasharray:4
+```
 
 ## Appears in
 

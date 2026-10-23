@@ -7,6 +7,10 @@ original: ["שִׁלְחִי"]
 verses: 2
 chapters: 2
 first: "1 Kings 22:42"
+placed: "914 BC"
+placed_year: -913
+generation: 1
+sex: "male"
 tags: ["person"]
 ---
 
@@ -15,6 +19,25 @@ tags: ["person"]
 Father of King Jehoshaphat's mother
 
 **Original-language names:** שִׁלְחִי (H7977)
+
+## When
+
+- **Placed around:** [[connections/timeline/10th century BC|914 BC]] *(Ussher: the median date of the passages naming them)*
+
+## Family
+
+- **Children:** [[connections/people/Azubah (1 Kings 22.42)|Azubah (1 Kings 22.42)]]
+
+**Family group:** [[connections/genealogy/Family of Adam|Family of Adam]], generation 1
+
+```mermaid
+flowchart TB
+  n0["Shilhi"]:::me
+  n1["Azubah (1 Kings 22.42)"]
+  n0 --> n1
+  classDef me stroke-width:3px
+  classDef spouse stroke-dasharray:4
+```
 
 ## Appears in
 

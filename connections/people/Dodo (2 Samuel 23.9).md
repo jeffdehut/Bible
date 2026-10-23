@@ -8,6 +8,10 @@ original: ["דּוֹדוֹ", "דּוֹדַי"]
 verses: 3
 chapters: 3
 first: "2 Samuel 23:9"
+placed: "1055 BC"
+placed_year: -1054
+generation: 1
+sex: "male"
 tags: ["person"]
 ---
 
@@ -18,6 +22,25 @@ Father of Eleazar, one of David's mighty men
 **Also called:** Dodai
 
 **Original-language names:** דּוֹדוֹ (H1734) · דּוֹדַי (H1737)
+
+## When
+
+- **Placed around:** [[connections/timeline/11th century BC|1055 BC]] *(Ussher: the median date of the passages naming them)*
+
+## Family
+
+- **Children:** [[connections/people/Eleazar (2 Samuel 23.9)|Eleazar (2 Samuel 23.9)]]
+
+**Family group:** [[connections/genealogy/Family of Dodo (2 Samuel 23.9)|Family of Dodo (2 Samuel 23.9)]], generation 1
+
+```mermaid
+flowchart TB
+  n0["Dodo (2 Samuel 23.9)"]:::me
+  n1["Eleazar (2 Samuel 23.9)"]
+  n0 --> n1
+  classDef me stroke-width:3px
+  classDef spouse stroke-dasharray:4
+```
 
 ## Appears in
 

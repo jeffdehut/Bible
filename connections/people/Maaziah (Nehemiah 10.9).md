@@ -8,6 +8,9 @@ original: ["מַעַזְיָהוּ", "מַעֲדְיָה", "מוֹעַדְיָה
 verses: 3
 chapters: 2
 first: "Nehemiah 10:9"
+placed: "445 BC"
+placed_year: -444
+sex: "male"
 tags: ["person"]
 ---
 
@@ -18,6 +21,10 @@ Priest who sealed the covenant during Nehemiah's time
 **Also called:** Maadiah, Moadiah
 
 **Original-language names:** מַעַזְיָהוּ (H4590) · מַעֲדְיָה (H4573) · מוֹעַדְיָה (H4153)
+
+## When
+
+- **Placed around:** [[connections/timeline/5th century BC|445 BC]] *(Ussher: the median date of the passages naming them)*
 
 ## Appears in
 

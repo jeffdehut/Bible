@@ -17,6 +17,10 @@ A place near Hebron; associated with Abraham
 
 **Original-language names:** מַמְרֵא (H4471)
 
+## Events
+
+- [[connections/timeline/18th century BC|1716 BC]] · [[connections/events/Death of Isaac|Death of Isaac]]
+
 ## Appears in
 
 [[connections/chapters/01-genesis/Genesis 13|Genesis 13]] · [[connections/chapters/01-genesis/Genesis 14|Genesis 14 (2)]] · [[connections/chapters/01-genesis/Genesis 18|Genesis 18]] · [[connections/chapters/01-genesis/Genesis 23|Genesis 23 (2)]] · [[connections/chapters/01-genesis/Genesis 25|Genesis 25]] · [[connections/chapters/01-genesis/Genesis 35|Genesis 35]] · [[connections/chapters/01-genesis/Genesis 49|Genesis 49]] · [[connections/chapters/01-genesis/Genesis 50|Genesis 50]]

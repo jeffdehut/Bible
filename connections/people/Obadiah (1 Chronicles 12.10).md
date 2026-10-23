@@ -7,6 +7,7 @@ original: ["עֹבַדְיָ֫הוּ"]
 verses: 1
 chapters: 1
 first: "1 Chronicles 12:10"
+sex: "male"
 tags: ["person"]
 ---
 

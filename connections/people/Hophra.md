@@ -8,6 +8,9 @@ original: ["פַּרְעֹה", "חָפְרַע+H6547S«H6547=פַּרְעֹה"]
 verses: 18
 chapters: 9
 first: "Jeremiah 37:5"
+placed: "588 BC"
+placed_year: -587
+sex: "male"
 tags: ["person"]
 ---
 
@@ -18,6 +21,16 @@ Pharaoh during Jeremiah's time.
 **Also called:** Pharaoh
 
 **Original-language names:** פַּרְעֹה (H6547) · חָפְרַע+H6547S«H6547=פַּרְעֹה (H6548)
+
+## When
+
+- **Placed around:** [[connections/timeline/6th century BC|588 BC]] *(Ussher: the median date of the passages naming them)*
+- **Reigned / in office:** [[connections/timeline/6th century BC|589 BC]] – [[connections/timeline/6th century BC|570 BC]] *(modern dates)* · Apries, Egypt · [Wikidata Q349291](https://www.wikidata.org/wiki/Q349291)
+
+## Family
+
+- **Tribe or nation:** Egypt
+
 
 ## Appears in
 

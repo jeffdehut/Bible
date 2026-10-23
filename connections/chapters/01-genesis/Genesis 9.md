@@ -7,12 +7,16 @@ language: "Hebrew/Aramaic"
 verses: 29
 cross_references_out: 32
 cross_references_in: 22
+dated_from: -1997
+dated_to: -1997
 tags: ["chapter", "ot", "torah"]
 ---
 
 # Genesis 9
 
 ← [[connections/chapters/01-genesis/Genesis 8|Genesis 8]] · [[connections/books/Genesis|Genesis]] · [[connections/chapters/01-genesis/Genesis 10|Genesis 10]] →
+
+**Dated** *(Ussher, after the Treasury of Scripture Knowledge)*: [[connections/timeline/20th century BC|1998 BC]]
 
 ## Text
 

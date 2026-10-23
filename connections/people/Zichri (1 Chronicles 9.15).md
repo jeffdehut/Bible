@@ -8,6 +8,10 @@ original: ["זִכְרִי", "זַבְדִּי"]
 verses: 2
 chapters: 2
 first: "1 Chronicles 9:15"
+placed: "445 BC"
+placed_year: -444
+generation: 2
+sex: "male"
 tags: ["person"]
 ---
 
@@ -18,6 +22,29 @@ Levite, descendant of Asaph, temple singer
 **Also called:** Zabdi
 
 **Original-language names:** זִכְרִי (H2147) · זַבְדִּי (H2067)
+
+## When
+
+- **Placed around:** [[connections/timeline/5th century BC|445 BC]] *(Ussher: the median date of the passages naming them)*
+
+## Family
+
+- **Father:** [[connections/people/Asaph (1 Chronicles 9.15)|Asaph (1 Chronicles 9.15)]]
+- **Children:** [[connections/people/Mica (1 Chronicles 9.15)|Mica (1 Chronicles 9.15)]]
+- **Tribe or nation:** Tribe of Levi
+
+**Family group:** [[connections/genealogy/Family of Asaph (1 Chronicles 9.15)|Family of Asaph (1 Chronicles 9.15)]], generation 2
+
+```mermaid
+flowchart TB
+  n0["Zichri (1 Chronicles 9.15)"]:::me
+  n1["Asaph (1 Chronicles 9.15)"]
+  n1 --> n0
+  n2["Mica (1 Chronicles 9.15)"]
+  n0 --> n2
+  classDef me stroke-width:3px
+  classDef spouse stroke-dasharray:4
+```
 
 ## Appears in
 

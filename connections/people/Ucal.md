@@ -7,6 +7,9 @@ original: ["אֻכָל"]
 verses: 1
 chapters: 1
 first: "Proverbs 30:1"
+placed: "700 BC"
+placed_year: -699
+sex: "male"
 tags: ["person"]
 ---
 
@@ -15,6 +18,10 @@ tags: ["person"]
 Recipient of Agur's wisdom in Proverbs 30
 
 **Original-language names:** אֻכָל (H0401)
+
+## When
+
+- **Placed around:** [[connections/timeline/7th century BC|700 BC]] *(Ussher: the median date of the passages naming them)*
 
 ## Appears in
 

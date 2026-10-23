@@ -7,6 +7,9 @@ original: ["Περσίς"]
 verses: 1
 chapters: 1
 first: "Romans 16:12"
+placed: "AD 60"
+placed_year: 60
+sex: "female"
 tags: ["person"]
 ---
 
@@ -15,6 +18,10 @@ tags: ["person"]
 Female Christian in Rome greeted by Paul
 
 **Original-language names:** Περσίς (G4069)
+
+## When
+
+- **Placed around:** [[connections/timeline/1st century AD|AD 60]] *(Ussher: the median date of the passages naming them)*
 
 ## Appears in
 

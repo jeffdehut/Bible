@@ -17,6 +17,10 @@ Garden near Jerusalem; site of Jesus' prayer and arrest
 
 **Original-language names:** Γεθσημανῆ (G1068)
 
+## Events
+
+- [[connections/timeline/1st century AD|AD 30]] · [[connections/events/Prayer and Betrayal in Gethsemane|Prayer and Betrayal in Gethsemane]]
+
 ## Appears in
 
 [[connections/chapters/40-matthew/Matthew 26|Matthew 26]] · [[connections/chapters/41-mark/Mark 14|Mark 14]]

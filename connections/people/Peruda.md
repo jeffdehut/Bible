@@ -8,6 +8,9 @@ original: ["פְּרוּדָא", "פְרִידָֽא"]
 verses: 2
 chapters: 2
 first: "Ezra 2:55"
+placed: "445 BC"
+placed_year: -444
+sex: "male"
 tags: ["person"]
 ---
 
@@ -18,6 +21,10 @@ Ancestor of a family of Solomon's servants
 **Also called:** Perida
 
 **Original-language names:** פְּרוּדָא (H6514) · פְרִידָֽא (H6514)
+
+## When
+
+- **Placed around:** [[connections/timeline/5th century BC|445 BC]] *(Ussher: the median date of the passages naming them)*
 
 ## Appears in
 

@@ -7,6 +7,10 @@ original: ["Τιμόθεος"]
 verses: 28
 chapters: 21
 first: "Acts 16:1"
+placed: "AD 60"
+placed_year: 60
+generation: 3
+sex: "male"
 tags: ["person"]
 ---
 
@@ -15,6 +19,46 @@ tags: ["person"]
 Paul's young disciple and co-worker
 
 **Original-language names:** Τιμόθεος (G5095)
+
+## When
+
+- **Placed around:** [[connections/timeline/1st century AD|AD 60]] *(Ussher: the median date of the passages naming them)*
+
+## Family
+
+- **Father:** [[connections/people/father of Timothy (Acts 16.1)|father of Timothy (Acts 16.1)]]
+- **Mother:** [[connections/people/Eunice|Eunice]]
+
+**Family group:** [[connections/genealogy/Family of Lois|Family of Lois]], generation 3
+
+```mermaid
+flowchart TB
+  n0["Timothy"]:::me
+  n1["Lois"]
+  n2["Eunice"]
+  n1 --> n2
+  n3["father of Eunice (2 Timothy 1.5)"]
+  n3 --> n2
+  n2 --> n0
+  n4["father of Timothy (Acts 16.1)"]
+  n4 --> n0
+  classDef me stroke-width:3px
+  classDef spouse stroke-dasharray:4
+```
+
+## Events
+
+- [[connections/timeline/1st century AD|AD 46]] · [[connections/events/Second Missionary Journey|Second Missionary Journey]]
+- [[connections/timeline/1st century AD|AD 47]] · [[connections/events/Timothy Joins Paul and Silas|Timothy Joins Paul and Silas]]
+- [[connections/timeline/1st century AD|AD 47]] · [[connections/events/Mission to Phrygia, Galatia and Asia|Mission to Phrygia, Galatia and Asia]]
+- [[connections/timeline/1st century AD|AD 47]] · [[connections/events/Call to Macedonia|Call to Macedonia]]
+- [[connections/timeline/1st century AD|AD 47]] · [[connections/events/Lydia's Conversion|Lydia's Conversion]]
+- [[connections/timeline/1st century AD|AD 47]] · [[connections/events/Paul casts demon out of soothsayer|Paul casts demon out of soothsayer]]
+- [[connections/timeline/1st century AD|AD 48]] · [[connections/events/Mission to Berea|Mission to Berea]]
+- [[connections/timeline/1st century AD|AD 49]] · [[connections/events/Mission to Corinth, 1&2 Thess Written|Mission to Corinth, 1&2 Thess Written]]
+- [[connections/timeline/1st century AD|AD 50]] · [[connections/events/Third Missionary Journey|Third Missionary Journey]]
+- [[connections/timeline/1st century AD|AD 53]] · [[connections/events/Mission to Ephesus-1 Cor Written|Mission to Ephesus/1 Cor Written]]
+- [[connections/timeline/1st century AD|AD 54]] · [[connections/events/Mission to Macedonia and Greece|Mission to Macedonia and Greece]]
 
 ## Appears in
 

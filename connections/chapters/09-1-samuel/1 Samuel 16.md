@@ -7,12 +7,16 @@ language: "Hebrew"
 verses: 23
 cross_references_out: 39
 cross_references_in: 34
+dated_from: -1062
+dated_to: -1062
 tags: ["chapter", "ot", "history"]
 ---
 
 # 1 Samuel 16
 
 ← [[connections/chapters/09-1-samuel/1 Samuel 15|1 Samuel 15]] · [[connections/books/1 Samuel|1 Samuel]] · [[connections/chapters/09-1-samuel/1 Samuel 17|1 Samuel 17]] →
+
+**Dated** *(Ussher, after the Treasury of Scripture Knowledge)*: [[connections/timeline/11th century BC|1063 BC]]
 
 ## Text
 

@@ -7,6 +7,10 @@ original: ["צִפּוֹר"]
 verses: 7
 chapters: 4
 first: "Numbers 22:2"
+placed: "1452 BC"
+placed_year: -1451
+generation: 1
+sex: "male"
 tags: ["person"]
 ---
 
@@ -15,6 +19,26 @@ tags: ["person"]
 Father of Balak, king of Moab
 
 **Original-language names:** צִפּוֹר (H6834)
+
+## When
+
+- **Placed around:** [[connections/timeline/15th century BC|1452 BC]] *(Ussher: the median date of the passages naming them)*
+
+## Family
+
+- **Children:** [[connections/people/Balak|Balak]]
+- **Tribe or nation:** Moab
+
+**Family group:** [[connections/genealogy/Family of Zippor|Family of Zippor]], generation 1
+
+```mermaid
+flowchart TB
+  n0["Zippor"]:::me
+  n1["Balak"]
+  n0 --> n1
+  classDef me stroke-width:3px
+  classDef spouse stroke-dasharray:4
+```
 
 ## Appears in
 

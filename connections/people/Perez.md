@@ -7,6 +7,12 @@ original: ["פֶּ֫רֶץ", "Φάρες"]
 verses: 15
 chapters: 11
 first: "Genesis 38:29"
+born: "1721 BC"
+born_year: -1720
+placed: "1307 BC"
+placed_year: -1306
+generation: 25
+sex: "male"
 tags: ["person"]
 ---
 
@@ -15,6 +21,54 @@ tags: ["person"]
 Son of Judah, ancestor of David and Jesus
 
 **Original-language names:** פֶּ֫רֶץ (H6557) · Φάρες (G5329)
+
+## When
+
+- **Lived:** [[connections/timeline/18th century BC|1721 BC]] – ? *(Jones)*
+- **Placed around:** [[connections/timeline/14th century BC|1307 BC]] *(Ussher: the median date of the passages naming them)*
+
+## Family
+
+- **Father:** [[connections/people/Judah (Genesis 29.35)|Judah (Genesis 29.35)]]
+- **Mother:** [[connections/people/Tamar (Genesis 38.6)|Tamar (Genesis 38.6)]]
+- **Brothers and sisters:** [[connections/people/Er (Genesis 38.3)|Er (Genesis 38.3)]], [[connections/people/Onan|Onan]], [[connections/people/Shelah (Genesis 38.5)|Shelah (Genesis 38.5)]], [[connections/people/Zerah (Genesis 38.30)|Zerah (Genesis 38.30)]]
+- **Children:** [[connections/people/Hamul|Hamul]], [[connections/people/Hezron (Genesis 46.12)|Hezron (Genesis 46.12)]]
+- **Tribe or nation:** Tribe of Judah
+
+**Line of descent** (25 generations, father to son): [[connections/people/Adam|Adam]] → [[connections/people/Seth|Seth]] → [[connections/people/Enosh|Enosh]] → [[connections/people/Kenan|Kenan]] → [[connections/people/Mahalalel (Genesis 5.12)|Mahalalel (Genesis 5.12)]] → [[connections/people/Jared|Jared]] → [[connections/people/Enoch (Genesis 5.18)|Enoch (Genesis 5.18)]] → [[connections/people/Methuselah|Methuselah]] → [[connections/people/Lamech (Genesis 5.25)|Lamech (Genesis 5.25)]] → [[connections/people/Noah (Genesis 5.29)|Noah (Genesis 5.29)]] → [[connections/people/Shem|Shem]] → [[connections/people/Arpachshad|Arpachshad]] → [[connections/people/Cainan|Cainan]] → [[connections/people/Shelah (Genesis 10.24)|Shelah (Genesis 10.24)]] → [[connections/people/Eber (Genesis 10.21)|Eber (Genesis 10.21)]] → [[connections/people/Peleg|Peleg]] → [[connections/people/Reu|Reu]] → [[connections/people/Serug|Serug]] → [[connections/people/Nahor (Genesis 11.22)|Nahor (Genesis 11.22)]] → [[connections/people/Terah|Terah]] → [[connections/people/Abraham|Abraham]] → [[connections/people/Isaac|Isaac]] → [[connections/people/Israel|Israel]] → [[connections/people/Judah (Genesis 29.35)|Judah (Genesis 29.35)]] → **Perez**
+
+**Family group:** [[connections/genealogy/Family of Adam|Family of Adam]], generation 25
+
+```mermaid
+flowchart TB
+  n0["Perez"]:::me
+  n1["Israel"]
+  n2["Judah (Genesis 29.35)"]
+  n1 --> n2
+  n3["Leah"]
+  n3 --> n2
+  n2 --> n0
+  n4["Tamar (Genesis 38.6)"]
+  n4 --> n0
+  n5["Er (Genesis 38.3)"]
+  n2 --> n5
+  n6["Onan"]
+  n2 --> n6
+  n7["Shelah (Genesis 38.5)"]
+  n2 --> n7
+  n8["Zerah (Genesis 38.30)"]
+  n2 --> n8
+  n9["Hamul"]
+  n0 --> n9
+  n10["Hezron (Genesis 46.12)"]
+  n0 --> n10
+  classDef me stroke-width:3px
+  classDef spouse stroke-dasharray:4
+```
+
+## Events
+
+- [[connections/timeline/18th century BC|1721 BC]] · [[connections/events/Birth of Perez|Birth of Perez]]
 
 ## Appears in
 

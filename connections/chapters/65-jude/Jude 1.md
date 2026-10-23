@@ -7,12 +7,16 @@ language: "Greek"
 verses: 25
 cross_references_out: 184
 cross_references_in: 193
+dated_from: 66
+dated_to: 66
 tags: ["chapter", "nt", "general-epistles"]
 ---
 
 # Jude 1
 
 ← [[connections/chapters/64-3-john/3 John 1|3 John 1]] · [[connections/books/Jude|Jude]] · [[connections/chapters/66-revelation/Revelation 1|Revelation 1]] →
+
+**Dated** *(Ussher, after the Treasury of Scripture Knowledge)*: [[connections/timeline/1st century AD|AD 66]]
 
 ## Text
 

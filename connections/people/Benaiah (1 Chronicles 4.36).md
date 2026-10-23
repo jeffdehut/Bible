@@ -7,6 +7,9 @@ original: ["בְּנָיָ֫הוּ"]
 verses: 1
 chapters: 1
 first: "1 Chronicles 4:36"
+placed: "1721 BC"
+placed_year: -1720
+sex: "male"
 tags: ["person"]
 ---
 
@@ -15,6 +18,15 @@ tags: ["person"]
 A Simeonite leader during the reign of Hezekiah.
 
 **Original-language names:** בְּנָיָ֫הוּ (H1141)
+
+## When
+
+- **Placed around:** [[connections/timeline/18th century BC|1721 BC]] *(Ussher: the median date of the passages naming them)*
+
+## Family
+
+- **Tribe or nation:** Tribe of Simeon
+
 
 ## Appears in
 

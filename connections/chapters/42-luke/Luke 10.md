@@ -7,12 +7,16 @@ language: "Greek"
 verses: 42
 cross_references_out: 139
 cross_references_in: 127
+dated_from: 32
+dated_to: 32
 tags: ["chapter", "nt", "gospels"]
 ---
 
 # Luke 10
 
 ← [[connections/chapters/42-luke/Luke 9|Luke 9]] · [[connections/books/Luke|Luke]] · [[connections/chapters/42-luke/Luke 11|Luke 11]] →
+
+**Dated** *(Ussher, after the Treasury of Scripture Knowledge)*: [[connections/timeline/1st century AD|AD 32]]
 
 ## Text
 

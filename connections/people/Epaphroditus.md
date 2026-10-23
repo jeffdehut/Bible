@@ -7,6 +7,9 @@ original: ["Ἐπαφρόδιτος"]
 verses: 3
 chapters: 2
 first: "Philippians 2:25"
+placed: "AD 64"
+placed_year: 64
+sex: "male"
 tags: ["person"]
 ---
 
@@ -15,6 +18,10 @@ tags: ["person"]
 A messenger and minister to Paul from Philippi.
 
 **Original-language names:** Ἐπαφρόδιτος (G1891)
+
+## When
+
+- **Placed around:** [[connections/timeline/1st century AD|AD 64]] *(Ussher: the median date of the passages naming them)*
 
 ## Appears in
 

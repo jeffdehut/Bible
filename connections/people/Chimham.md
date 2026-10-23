@@ -7,6 +7,9 @@ original: ["כִּמְהָם"]
 verses: 3
 chapters: 1
 first: "2 Samuel 19:38"
+placed: "1023 BC"
+placed_year: -1022
+sex: "male"
 tags: ["person"]
 ---
 
@@ -15,6 +18,10 @@ tags: ["person"]
 Barzillai's son, accompanied David to Jerusalem
 
 **Original-language names:** כִּמְהָם (H3643)
+
+## When
+
+- **Placed around:** [[connections/timeline/11th century BC|1023 BC]] *(Ussher: the median date of the passages naming them)*
 
 ## Appears in
 

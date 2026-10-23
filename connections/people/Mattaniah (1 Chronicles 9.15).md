@@ -7,6 +7,10 @@ original: ["מַתַּנְיָ֫הוּ"]
 verses: 4
 chapters: 3
 first: "1 Chronicles 9:15"
+placed: "445 BC"
+placed_year: -444
+generation: 4
+sex: "male"
 tags: ["person"]
 ---
 
@@ -15,6 +19,30 @@ tags: ["person"]
 Levite singer and gatekeeper during the time of Nehemiah.
 
 **Original-language names:** מַתַּנְיָ֫הוּ (H4983)
+
+## When
+
+- **Placed around:** [[connections/timeline/5th century BC|445 BC]] *(Ussher: the median date of the passages naming them)*
+
+## Family
+
+- **Father:** [[connections/people/Mica (1 Chronicles 9.15)|Mica (1 Chronicles 9.15)]]
+- **Tribe or nation:** Tribe of Levi
+
+**Line of descent** (4 generations, father to son): [[connections/people/Asaph (1 Chronicles 9.15)|Asaph (1 Chronicles 9.15)]] → [[connections/people/Zichri (1 Chronicles 9.15)|Zichri (1 Chronicles 9.15)]] → [[connections/people/Mica (1 Chronicles 9.15)|Mica (1 Chronicles 9.15)]] → **Mattaniah (1 Chronicles 9.15)**
+
+**Family group:** [[connections/genealogy/Family of Asaph (1 Chronicles 9.15)|Family of Asaph (1 Chronicles 9.15)]], generation 4
+
+```mermaid
+flowchart TB
+  n0["Mattaniah (1 Chronicles 9.15)"]:::me
+  n1["Zichri (1 Chronicles 9.15)"]
+  n2["Mica (1 Chronicles 9.15)"]
+  n1 --> n2
+  n2 --> n0
+  classDef me stroke-width:3px
+  classDef spouse stroke-dasharray:4
+```
 
 ## Appears in
 

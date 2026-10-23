@@ -7,6 +7,10 @@ original: ["פֶּ֫לֶת"]
 verses: 1
 chapters: 1
 first: "Numbers 16:1"
+placed: "1471 BC"
+placed_year: -1470
+generation: 1
+sex: "male"
 tags: ["person"]
 ---
 
@@ -15,6 +19,25 @@ tags: ["person"]
 Reubenite, father of On who rebelled against Moses
 
 **Original-language names:** פֶּ֫לֶת (H6431)
+
+## When
+
+- **Placed around:** [[connections/timeline/15th century BC|1471 BC]] *(Ussher: the median date of the passages naming them)*
+
+## Family
+
+- **Children:** [[connections/people/On|On]]
+
+**Family group:** [[connections/genealogy/Family of Peleth (Numbers 16.1)|Family of Peleth (Numbers 16.1)]], generation 1
+
+```mermaid
+flowchart TB
+  n0["Peleth (Numbers 16.1)"]:::me
+  n1["On"]
+  n0 --> n1
+  classDef me stroke-width:3px
+  classDef spouse stroke-dasharray:4
+```
 
 ## Appears in
 

@@ -8,6 +8,10 @@ original: ["שְׂרָיָהוּ", "שַׁוְשָׁא", "שְׁוָא", "שְׁ
 verses: 4
 chapters: 4
 first: "2 Samuel 8:17"
+placed: "1022 BC"
+placed_year: -1021
+generation: 1
+sex: "male"
 tags: ["person"]
 ---
 
@@ -18,6 +22,27 @@ David's scribe, also known as Shavsha, Sheva, Sheya, or Shisha
 **Also called:** Shavsha, Sheva, Sheya, Shisha
 
 **Original-language names:** שְׂרָיָהוּ (H8304) · שַׁוְשָׁא (H7798) · שְׁוָא (H7724) · שְׁיָא (H7864) · שִׁישָׁא (H7894)
+
+## When
+
+- **Placed around:** [[connections/timeline/11th century BC|1022 BC]] *(Ussher: the median date of the passages naming them)*
+
+## Family
+
+- **Children:** [[connections/people/Ahijah (1 Kings 4.3)|Ahijah (1 Kings 4.3)]], [[connections/people/Elihoreph|Elihoreph]]
+
+**Family group:** [[connections/genealogy/Family of Seraiah (2 Samuel 8.17)|Family of Seraiah (2 Samuel 8.17)]], generation 1
+
+```mermaid
+flowchart TB
+  n0["Seraiah (2 Samuel 8.17)"]:::me
+  n1["Ahijah (1 Kings 4.3)"]
+  n0 --> n1
+  n2["Elihoreph"]
+  n0 --> n2
+  classDef me stroke-width:3px
+  classDef spouse stroke-dasharray:4
+```
 
 ## Appears in
 

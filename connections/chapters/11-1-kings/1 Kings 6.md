@@ -7,12 +7,16 @@ language: "Hebrew"
 verses: 38
 cross_references_out: 3
 cross_references_in: 3
+dated_from: -1010
+dated_to: -1010
 tags: ["chapter", "ot", "history"]
 ---
 
 # 1 Kings 6
 
 ← [[connections/chapters/11-1-kings/1 Kings 5|1 Kings 5]] · [[connections/books/1 Kings|1 Kings]] · [[connections/chapters/11-1-kings/1 Kings 7|1 Kings 7]] →
+
+**Dated** *(Ussher, after the Treasury of Scripture Knowledge)*: [[connections/timeline/11th century BC|1011 BC]]
 
 ## Text
 

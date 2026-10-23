@@ -7,12 +7,16 @@ language: "Hebrew"
 verses: 10
 cross_references_out: 59
 cross_references_in: 29
+dated_from: -976
+dated_to: -976
 tags: ["chapter", "ot", "wisdom"]
 ---
 
 # Ecclesiastes 11
 
 ← [[connections/chapters/21-ecclesiastes/Ecclesiastes 10|Ecclesiastes 10]] · [[connections/books/Ecclesiastes|Ecclesiastes]] · [[connections/chapters/21-ecclesiastes/Ecclesiastes 12|Ecclesiastes 12]] →
+
+**Dated** *(Ussher, after the Treasury of Scripture Knowledge)*: [[connections/timeline/10th century BC|977 BC]]
 
 ## Text
 

@@ -7,12 +7,16 @@ language: "Hebrew"
 verses: 14
 cross_references_out: 1
 cross_references_in: 6
+dated_from: -740
+dated_to: -740
 tags: ["chapter", "ot", "prophets"]
 ---
 
 # Isaiah 17
 
 ← [[connections/chapters/23-isaiah/Isaiah 16|Isaiah 16]] · [[connections/books/Isaiah|Isaiah]] · [[connections/chapters/23-isaiah/Isaiah 18|Isaiah 18]] →
+
+**Dated** *(Ussher, after the Treasury of Scripture Knowledge)*: [[connections/timeline/8th century BC|741 BC]]
 
 ## Text
 

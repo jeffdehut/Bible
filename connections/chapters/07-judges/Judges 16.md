@@ -7,12 +7,16 @@ language: "Hebrew"
 verses: 31
 cross_references_out: 4
 cross_references_in: 5
+dated_from: -1119
+dated_to: -1119
 tags: ["chapter", "ot", "history"]
 ---
 
 # Judges 16
 
 ← [[connections/chapters/07-judges/Judges 15|Judges 15]] · [[connections/books/Judges|Judges]] · [[connections/chapters/07-judges/Judges 17|Judges 17]] →
+
+**Dated** *(Ussher, after the Treasury of Scripture Knowledge)*: [[connections/timeline/12th century BC|1120 BC]]
 
 ## Text
 

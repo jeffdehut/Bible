@@ -7,12 +7,16 @@ language: "Hebrew"
 verses: 51
 cross_references_out: 35
 cross_references_in: 41
+dated_from: -1017
+dated_to: -1017
 tags: ["chapter", "ot", "history"]
 ---
 
 # 2 Samuel 22
 
 ← [[connections/chapters/10-2-samuel/2 Samuel 21|2 Samuel 21]] · [[connections/books/2 Samuel|2 Samuel]] · [[connections/chapters/10-2-samuel/2 Samuel 23|2 Samuel 23]] →
+
+**Dated** *(Ussher, after the Treasury of Scripture Knowledge)*: [[connections/timeline/11th century BC|1018 BC]]
 
 ## Text
 

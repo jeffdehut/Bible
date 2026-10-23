@@ -7,6 +7,9 @@ original: ["חַרְבוֹנָא"]
 verses: 2
 chapters: 2
 first: "Esther 1:10"
+placed: "453 BC"
+placed_year: -452
+sex: "male"
 tags: ["person"]
 ---
 
@@ -15,6 +18,10 @@ tags: ["person"]
 A eunuch in King Ahasuerus' court.
 
 **Original-language names:** חַרְבוֹנָא (H2726)
+
+## When
+
+- **Placed around:** [[connections/timeline/5th century BC|453 BC]] *(Ussher: the median date of the passages naming them)*
 
 ## Appears in
 

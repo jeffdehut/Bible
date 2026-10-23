@@ -7,12 +7,16 @@ language: "Greek"
 verses: 34
 cross_references_out: 66
 cross_references_in: 69
+dated_from: 33
+dated_to: 33
 tags: ["chapter", "nt", "gospels"]
 ---
 
 # Matthew 20
 
 ← [[connections/chapters/40-matthew/Matthew 19|Matthew 19]] · [[connections/books/Matthew|Matthew]] · [[connections/chapters/40-matthew/Matthew 21|Matthew 21]] →
+
+**Dated** *(Ussher, after the Treasury of Scripture Knowledge)*: [[connections/timeline/1st century AD|AD 33]]
 
 ## Text
 

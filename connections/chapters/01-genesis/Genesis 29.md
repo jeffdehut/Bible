@@ -7,12 +7,16 @@ language: "Hebrew/Aramaic"
 verses: 35
 cross_references_out: 6
 cross_references_in: 8
+dated_from: -1752
+dated_to: -1748
 tags: ["chapter", "ot", "torah"]
 ---
 
 # Genesis 29
 
 ← [[connections/chapters/01-genesis/Genesis 28|Genesis 28]] · [[connections/books/Genesis|Genesis]] · [[connections/chapters/01-genesis/Genesis 30|Genesis 30]] →
+
+**Dated** *(Ussher, after the Treasury of Scripture Knowledge)*: [[connections/timeline/18th century BC|1753 BC]] – [[connections/timeline/18th century BC|1749 BC]]
 
 ## Text
 

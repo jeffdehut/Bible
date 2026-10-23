@@ -7,12 +7,16 @@ language: "Hebrew"
 verses: 38
 cross_references_out: 7
 cross_references_in: 6
+dated_from: -1490
+dated_to: -1490
 tags: ["chapter", "ot", "torah"]
 ---
 
 # Exodus 40
 
 ← [[connections/chapters/02-exodus/Exodus 39|Exodus 39]] · [[connections/books/Exodus|Exodus]] · [[connections/chapters/03-leviticus/Leviticus 1|Leviticus 1]] →
+
+**Dated** *(Ussher, after the Treasury of Scripture Knowledge)*: [[connections/timeline/15th century BC|1491 BC]]
 
 ## Text
 

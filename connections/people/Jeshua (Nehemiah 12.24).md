@@ -7,6 +7,8 @@ original: ["יֵשׁוּעַ"]
 verses: 1
 chapters: 1
 first: "Nehemiah 12:24"
+generation: 2
+sex: "male"
 tags: ["person"]
 ---
 
@@ -15,6 +17,21 @@ tags: ["person"]
 A Levite leader during Nehemiah's time.
 
 **Original-language names:** יֵשׁוּעַ (H3442)
+
+## Family
+
+- **Father:** [[connections/people/Kadmiel|Kadmiel]]
+
+**Family group:** [[connections/genealogy/Family of Kadmiel|Family of Kadmiel]], generation 2
+
+```mermaid
+flowchart TB
+  n0["Jeshua (Nehemiah 12.24)"]:::me
+  n1["Kadmiel"]
+  n1 --> n0
+  classDef me stroke-width:3px
+  classDef spouse stroke-dasharray:4
+```
 
 ## Appears in
 

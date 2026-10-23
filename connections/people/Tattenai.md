@@ -7,6 +7,9 @@ original: ["תַּתְּנַי"]
 verses: 4
 chapters: 2
 first: "Ezra 5:3"
+placed: "519 BC"
+placed_year: -518
+sex: "male"
 tags: ["person"]
 ---
 
@@ -15,6 +18,10 @@ tags: ["person"]
 Persian governor who questioned the Jews' authority to rebuild
 
 **Original-language names:** תַּתְּנַי (H8674)
+
+## When
+
+- **Placed around:** [[connections/timeline/6th century BC|519 BC]] *(Ussher: the median date of the passages naming them)*
 
 ## Appears in
 

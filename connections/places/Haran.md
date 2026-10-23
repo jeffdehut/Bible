@@ -17,6 +17,11 @@ A city in Mesopotamia, associated with Abraham and his family.
 
 **Original-language names:** חָרָן (H2771a) · Χαρράν (G5488)
 
+## Events
+
+- [[connections/timeline/20th century BC|1921 BC]] · [[connections/events/Death of Terah|Death of Terah]]
+- [[connections/timeline/20th century BC|1921 BC]] · [[connections/events/Abraham enters Canaan|Abraham enters Canaan]]
+
 ## Appears in
 
 [[connections/chapters/01-genesis/Genesis 11|Genesis 11 (2)]] · [[connections/chapters/01-genesis/Genesis 12|Genesis 12 (2)]] · [[connections/chapters/01-genesis/Genesis 27|Genesis 27]] · [[connections/chapters/01-genesis/Genesis 28|Genesis 28]] · [[connections/chapters/01-genesis/Genesis 29|Genesis 29]] · [[connections/chapters/12-2-kings/2 Kings 19|2 Kings 19]] · [[connections/chapters/23-isaiah/Isaiah 37|Isaiah 37]] · [[connections/chapters/26-ezekiel/Ezekiel 27|Ezekiel 27]] · [[connections/chapters/44-acts/Acts 7|Acts 7 (2)]]

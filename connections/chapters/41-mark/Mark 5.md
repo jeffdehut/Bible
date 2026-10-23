@@ -7,12 +7,16 @@ language: "Greek"
 verses: 43
 cross_references_out: 45
 cross_references_in: 26
+dated_from: 31
+dated_to: 31
 tags: ["chapter", "nt", "gospels"]
 ---
 
 # Mark 5
 
 ← [[connections/chapters/41-mark/Mark 4|Mark 4]] · [[connections/books/Mark|Mark]] · [[connections/chapters/41-mark/Mark 6|Mark 6]] →
+
+**Dated** *(Ussher, after the Treasury of Scripture Knowledge)*: [[connections/timeline/1st century AD|AD 31]]
 
 ## Text
 

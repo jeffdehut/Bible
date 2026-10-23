@@ -7,6 +7,9 @@ original: ["זֶ֫רַח"]
 verses: 1
 chapters: 1
 first: "2 Chronicles 14:8"
+placed: "941 BC"
+placed_year: -940
+sex: "male"
 tags: ["person"]
 ---
 
@@ -15,6 +18,10 @@ tags: ["person"]
 Ethiopian commander who invaded Judah
 
 **Original-language names:** זֶ֫רַח (H2226)
+
+## When
+
+- **Placed around:** [[connections/timeline/10th century BC|941 BC]] *(Ussher: the median date of the passages naming them)*
 
 ## Appears in
 

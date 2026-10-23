@@ -17,6 +17,10 @@ Samaritan city near Jacob's well
 
 **Original-language names:** Συχάρ (G4965)
 
+## Events
+
+- [[connections/timeline/1st century AD|AD 27]] · [[connections/events/The Samaritan Woman|The Samaritan Woman]]
+
 ## Appears in
 
 [[connections/chapters/43-john/John 4|John 4]]

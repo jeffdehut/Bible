@@ -7,12 +7,16 @@ language: "Greek"
 verses: 13
 cross_references_out: 17
 cross_references_in: 52
+dated_from: 54
+dated_to: 54
 tags: ["chapter", "nt", "pauline-epistles"]
 ---
 
 # 1 Thessalonians 3
 
 ← [[connections/chapters/52-1-thessalonians/1 Thessalonians 2|1 Thessalonians 2]] · [[connections/books/1 Thessalonians|1 Thessalonians]] · [[connections/chapters/52-1-thessalonians/1 Thessalonians 4|1 Thessalonians 4]] →
+
+**Dated** *(Ussher, after the Treasury of Scripture Knowledge)*: [[connections/timeline/1st century AD|AD 54]]
 
 ## Text
 

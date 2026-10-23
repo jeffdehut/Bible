@@ -7,6 +7,10 @@ original: ["חֲמוֹר", "Ἐμμόρ"]
 verses: 13
 chapters: 5
 first: "Genesis 33:19"
+placed: "1732 BC"
+placed_year: -1731
+generation: 1
+sex: "male"
 tags: ["person"]
 ---
 
@@ -15,6 +19,27 @@ tags: ["person"]
 A Hivite prince, father of Shechem.
 
 **Original-language names:** חֲמוֹר (H2544) · Ἐμμόρ (G1697)
+
+## When
+
+- **Placed around:** [[connections/timeline/18th century BC|1732 BC]] *(Ussher: the median date of the passages naming them)*
+
+## Family
+
+- **Children:** [[connections/people/Shechem (Genesis 33.19)|Shechem (Genesis 33.19)]], [[connections/places/Shechem|Shechem (founder)]]
+
+**Family group:** [[connections/genealogy/Family of Hamor|Family of Hamor]], generation 1
+
+```mermaid
+flowchart TB
+  n0["Hamor"]:::me
+  n1["Shechem (Genesis 33.19)"]
+  n0 --> n1
+  n2["Shechem"]
+  n0 --> n2
+  classDef me stroke-width:3px
+  classDef spouse stroke-dasharray:4
+```
 
 ## Appears in
 

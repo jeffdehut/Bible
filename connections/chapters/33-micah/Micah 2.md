@@ -7,12 +7,16 @@ language: "Hebrew"
 verses: 13
 cross_references_out: 18
 cross_references_in: 18
+dated_from: -729
+dated_to: -729
 tags: ["chapter", "ot", "prophets"]
 ---
 
 # Micah 2
 
 ← [[connections/chapters/33-micah/Micah 1|Micah 1]] · [[connections/books/Micah|Micah]] · [[connections/chapters/33-micah/Micah 3|Micah 3]] →
+
+**Dated** *(Ussher, after the Treasury of Scripture Knowledge)*: [[connections/timeline/8th century BC|730 BC]]
 
 ## Text
 

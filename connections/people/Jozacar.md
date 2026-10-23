@@ -8,6 +8,10 @@ original: ["יוֹזָכָר", "יוֹזָבָד", "זָבָד"]
 verses: 2
 chapters: 2
 first: "2 Kings 12:22"
+placed: "839 BC"
+placed_year: -838
+generation: 2
+sex: "male"
 tags: ["person"]
 ---
 
@@ -18,6 +22,29 @@ One of the servants who killed King Joash
 **Also called:** Zabad
 
 **Original-language names:** יוֹזָכָר (H3108) · יוֹזָבָד (H3107) · זָבָד (H2066)
+
+## When
+
+- **Placed around:** [[connections/timeline/9th century BC|839 BC]] *(Ussher: the median date of the passages naming them)*
+
+## Family
+
+- **Father:** [[connections/people/husband of Shimeath (2 Kings 12.22)|husband of Shimeath (2 Kings 12.22)]]
+- **Mother:** [[connections/people/Shimeath|Shimeath]]
+- **Tribe or nation:** Ammon
+
+**Family group:** [[connections/genealogy/Family of Shimeath|Family of Shimeath]], generation 2
+
+```mermaid
+flowchart TB
+  n0["Jozacar"]:::me
+  n1["Shimeath"]
+  n1 --> n0
+  n2["husband of Shimeath (2 Kings 12.22)"]
+  n2 --> n0
+  classDef me stroke-width:3px
+  classDef spouse stroke-dasharray:4
+```
 
 ## Appears in
 

@@ -7,12 +7,16 @@ language: "Hebrew"
 verses: 43
 cross_references_out: 45
 cross_references_in: 35
+dated_from: -1041
+dated_to: -1041
 tags: ["chapter", "ot", "history"]
 ---
 
 # 1 Chronicles 16
 
 ← [[connections/chapters/13-1-chronicles/1 Chronicles 15|1 Chronicles 15]] · [[connections/books/1 Chronicles|1 Chronicles]] · [[connections/chapters/13-1-chronicles/1 Chronicles 17|1 Chronicles 17]] →
+
+**Dated** *(Ussher, after the Treasury of Scripture Knowledge)*: [[connections/timeline/11th century BC|1042 BC]]
 
 ## Text
 

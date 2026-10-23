@@ -7,6 +7,9 @@ original: ["זִכְרִי"]
 verses: 1
 chapters: 1
 first: "2 Chronicles 28:7"
+placed: "742 BC"
+placed_year: -741
+sex: "male"
 tags: ["person"]
 ---
 
@@ -15,6 +18,15 @@ tags: ["person"]
 Ephraimite warrior who killed Maaseiah, Ahaziah, and Elkanah
 
 **Original-language names:** זִכְרִי (H2147)
+
+## When
+
+- **Placed around:** [[connections/timeline/8th century BC|742 BC]] *(Ussher: the median date of the passages naming them)*
+
+## Family
+
+- **Tribe or nation:** Tribe of Ephraim
+
 
 ## Appears in
 

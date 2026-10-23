@@ -7,6 +7,10 @@ original: ["צוּעָר"]
 verses: 5
 chapters: 4
 first: "Numbers 1:8"
+placed: "1490 BC"
+placed_year: -1489
+generation: 1
+sex: "male"
 tags: ["person"]
 ---
 
@@ -15,6 +19,26 @@ tags: ["person"]
 Father of Nethanel, leader of Issachar
 
 **Original-language names:** צוּעָר (H6686)
+
+## When
+
+- **Placed around:** [[connections/timeline/15th century BC|1490 BC]] *(Ussher: the median date of the passages naming them)*
+
+## Family
+
+- **Children:** [[connections/people/Nethanel (Numbers 1.8)|Nethanel (Numbers 1.8)]]
+- **Tribe or nation:** Tribe of Issachar
+
+**Family group:** [[connections/genealogy/Family of Zuar|Family of Zuar]], generation 1
+
+```mermaid
+flowchart TB
+  n0["Zuar"]:::me
+  n1["Nethanel (Numbers 1.8)"]
+  n0 --> n1
+  classDef me stroke-width:3px
+  classDef spouse stroke-dasharray:4
+```
 
 ## Appears in
 

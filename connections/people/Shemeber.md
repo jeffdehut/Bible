@@ -7,6 +7,9 @@ original: ["שֶׁמְאֵ֫בֶר"]
 verses: 1
 chapters: 1
 first: "Genesis 14:2"
+placed: "1913 BC"
+placed_year: -1912
+sex: "male"
 tags: ["person"]
 ---
 
@@ -15,6 +18,15 @@ tags: ["person"]
 King of Zeboiim
 
 **Original-language names:** שֶׁמְאֵ֫בֶר (H8038)
+
+## When
+
+- **Placed around:** [[connections/timeline/20th century BC|1913 BC]] *(Ussher: the median date of the passages naming them)*
+
+## Family
+
+- **Tribe or nation:** Canaan
+
 
 ## Appears in
 

@@ -7,12 +7,16 @@ language: "Greek"
 verses: 29
 cross_references_out: 178
 cross_references_in: 223
+dated_from: 96
+dated_to: 96
 tags: ["chapter", "nt", "revelation"]
 ---
 
 # Revelation 2
 
 ← [[connections/chapters/66-revelation/Revelation 1|Revelation 1]] · [[connections/books/Revelation|Revelation]] · [[connections/chapters/66-revelation/Revelation 3|Revelation 3]] →
+
+**Dated** *(Ussher, after the Treasury of Scripture Knowledge)*: [[connections/timeline/1st century AD|AD 96]]
 
 ## Text
 

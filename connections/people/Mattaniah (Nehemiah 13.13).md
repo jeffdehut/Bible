@@ -7,6 +7,10 @@ original: ["מַתַּנְיָ֫הוּ"]
 verses: 1
 chapters: 1
 first: "Nehemiah 13:13"
+placed: "445 BC"
+placed_year: -444
+generation: 1
+sex: "male"
 tags: ["person"]
 ---
 
@@ -15,6 +19,25 @@ tags: ["person"]
 Levite appointed as a treasurer during Nehemiah's time.
 
 **Original-language names:** מַתַּנְיָ֫הוּ (H4983)
+
+## When
+
+- **Placed around:** [[connections/timeline/5th century BC|445 BC]] *(Ussher: the median date of the passages naming them)*
+
+## Family
+
+- **Children:** [[connections/people/Zaccur (Nehemiah 13.13)|Zaccur (Nehemiah 13.13)]]
+
+**Family group:** [[connections/genealogy/Family of Mattaniah (Nehemiah 13.13)|Family of Mattaniah (Nehemiah 13.13)]], generation 1
+
+```mermaid
+flowchart TB
+  n0["Mattaniah (Nehemiah 13.13)"]:::me
+  n1["Zaccur (Nehemiah 13.13)"]
+  n0 --> n1
+  classDef me stroke-width:3px
+  classDef spouse stroke-dasharray:4
+```
 
 ## Appears in
 

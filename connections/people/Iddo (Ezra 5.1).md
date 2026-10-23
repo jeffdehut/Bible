@@ -7,6 +7,10 @@ original: ["עִדּוֹ"]
 verses: 4
 chapters: 3
 first: "Ezra 5:1"
+placed: "519 BC"
+placed_year: -518
+generation: 1
+sex: "male"
 tags: ["person"]
 ---
 
@@ -15,6 +19,25 @@ tags: ["person"]
 Zechariah's grandfather, a priest and prophet in post-exilic Judah
 
 **Original-language names:** עִדּוֹ (H5714)
+
+## When
+
+- **Placed around:** [[connections/timeline/6th century BC|519 BC]] *(Ussher: the median date of the passages naming them)*
+
+## Family
+
+- **Children:** [[connections/people/Berechiah (Zechariah 1.1)|Berechiah (Zechariah 1.1)]]
+
+**Family group:** [[connections/genealogy/Family of Iddo (Ezra 5.1)|Family of Iddo (Ezra 5.1)]], generation 1
+
+```mermaid
+flowchart TB
+  n0["Iddo (Ezra 5.1)"]:::me
+  n1["Berechiah (Zechariah 1.1)"]
+  n0 --> n1
+  classDef me stroke-width:3px
+  classDef spouse stroke-dasharray:4
+```
 
 ## Appears in
 

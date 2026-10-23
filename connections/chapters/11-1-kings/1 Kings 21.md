@@ -7,12 +7,16 @@ language: "Hebrew"
 verses: 29
 cross_references_out: 6
 cross_references_in: 7
+dated_from: -898
+dated_to: -898
 tags: ["chapter", "ot", "history"]
 ---
 
 # 1 Kings 21
 
 ← [[connections/chapters/11-1-kings/1 Kings 20|1 Kings 20]] · [[connections/books/1 Kings|1 Kings]] · [[connections/chapters/11-1-kings/1 Kings 22|1 Kings 22]] →
+
+**Dated** *(Ussher, after the Treasury of Scripture Knowledge)*: [[connections/timeline/9th century BC|899 BC]]
 
 ## Text
 

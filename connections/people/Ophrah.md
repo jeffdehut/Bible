@@ -7,6 +7,10 @@ original: ["עׇפְרָה"]
 verses: 1
 chapters: 1
 first: "1 Chronicles 4:14"
+placed: "1721 BC"
+placed_year: -1720
+generation: 5
+sex: "male"
 tags: ["person"]
 ---
 
@@ -15,6 +19,32 @@ tags: ["person"]
 Son of Meonothai
 
 **Original-language names:** עׇפְרָה (H6084)
+
+## When
+
+- **Placed around:** [[connections/timeline/18th century BC|1721 BC]] *(Ussher: the median date of the passages naming them)*
+
+## Family
+
+- **Father:** [[connections/people/Meonothai|Meonothai]]
+- **Tribe or nation:** Tribe of Judah
+
+**Line of descent** (5 generations, father to son): [[connections/people/Jephunneh (Numbers 13.6)|Jephunneh (Numbers 13.6)]] → [[connections/people/Kenaz (Joshua 15.17)|Kenaz (Joshua 15.17)]] → [[connections/people/Othniel|Othniel]] → [[connections/people/Meonothai|Meonothai]] → **Ophrah**
+
+**Family group:** [[connections/genealogy/Family of Jephunneh (Numbers 13.6)|Family of Jephunneh (Numbers 13.6)]], generation 5
+
+```mermaid
+flowchart TB
+  n0["Ophrah"]:::me
+  n1["Achsah (Joshua 15.16)"]
+  n2["Meonothai"]
+  n1 --> n2
+  n3["Othniel"]
+  n3 --> n2
+  n2 --> n0
+  classDef me stroke-width:3px
+  classDef spouse stroke-dasharray:4
+```
 
 ## Appears in
 

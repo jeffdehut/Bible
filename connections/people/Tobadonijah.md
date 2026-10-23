@@ -7,6 +7,9 @@ original: ["טוֹב אֲדֹנִיָּה"]
 verses: 1
 chapters: 1
 first: "2 Chronicles 17:8"
+placed: "912 BC"
+placed_year: -911
+sex: "male"
 tags: ["person"]
 ---
 
@@ -15,6 +18,10 @@ tags: ["person"]
 Levite sent by Jehoshaphat to teach the Law
 
 **Original-language names:** טוֹב אֲדֹנִיָּה (H2899)
+
+## When
+
+- **Placed around:** [[connections/timeline/10th century BC|912 BC]] *(Ussher: the median date of the passages naming them)*
 
 ## Appears in
 

@@ -7,12 +7,16 @@ language: "Hebrew"
 verses: 55
 cross_references_out: 0
 cross_references_in: 0
+dated_from: -1751
+dated_to: -1469
 tags: ["chapter", "ot", "history"]
 ---
 
 # 1 Chronicles 2
 
 ← [[connections/chapters/13-1-chronicles/1 Chronicles 1|1 Chronicles 1]] · [[connections/books/1 Chronicles|1 Chronicles]] · [[connections/chapters/13-1-chronicles/1 Chronicles 3|1 Chronicles 3]] →
+
+**Dated** *(Ussher, after the Treasury of Scripture Knowledge)*: [[connections/timeline/18th century BC|1752 BC]] – [[connections/timeline/15th century BC|1470 BC]]
 
 ## Text
 

@@ -7,6 +7,10 @@ original: ["Μάρθα"]
 verses: 12
 chapters: 3
 first: "Luke 10:38"
+placed: "AD 33"
+placed_year: 33
+generation: 2
+sex: "female"
 tags: ["person"]
 ---
 
@@ -15,6 +19,35 @@ tags: ["person"]
 Sister of Mary and Lazarus, hosted Jesus.
 
 **Original-language names:** Μάρθα (G3136)
+
+## When
+
+- **Placed around:** [[connections/timeline/1st century AD|AD 33]] *(Ussher: the median date of the passages naming them)*
+
+## Family
+
+- **Father:** [[connections/people/father of Lazarus (Luke 10.39)|father of Lazarus (Luke 10.39)]]
+- **Brothers and sisters:** [[connections/people/Lazarus (John 11.1)|Lazarus (John 11.1)]], [[connections/people/Mary (Luke 10.39)|Mary (Luke 10.39)]]
+
+**Family group:** [[connections/genealogy/Family of father of Lazarus (Luke 10.39)|Family of father of Lazarus (Luke 10.39)]], generation 2
+
+```mermaid
+flowchart TB
+  n0["Martha"]:::me
+  n1["father of Lazarus (Luke 10.39)"]
+  n1 --> n0
+  n2["Lazarus (John 11.1)"]
+  n1 --> n2
+  n3["Mary (Luke 10.39)"]
+  n1 --> n3
+  classDef me stroke-width:3px
+  classDef spouse stroke-dasharray:4
+```
+
+## Events
+
+- [[connections/timeline/1st century AD|AD 29]] · [[connections/events/Jesus meets Martha and Mary|Jesus meets Martha and Mary]]
+- [[connections/timeline/1st century AD|AD 30]] · [[connections/events/Mary Anoints Jesus|Mary Anoints Jesus]]
 
 ## Appears in
 

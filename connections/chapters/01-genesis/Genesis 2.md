@@ -7,12 +7,16 @@ language: "Hebrew/Aramaic"
 verses: 25
 cross_references_out: 128
 cross_references_in: 70
+dated_from: -4003
+dated_to: -4003
 tags: ["chapter", "ot", "torah"]
 ---
 
 # Genesis 2
 
 ← [[connections/chapters/01-genesis/Genesis 1|Genesis 1]] · [[connections/books/Genesis|Genesis]] · [[connections/chapters/01-genesis/Genesis 3|Genesis 3]] →
+
+**Dated** *(Ussher, after the Treasury of Scripture Knowledge)*: [[connections/timeline/41st century BC|4004 BC]]
 
 ## Text
 

@@ -7,6 +7,9 @@ original: ["אֲחִיָּ֫הוּ"]
 verses: 11
 chapters: 6
 first: "1 Kings 11:29"
+placed: "975 BC"
+placed_year: -974
+sex: "male"
 tags: ["person"]
 ---
 
@@ -15,6 +18,10 @@ tags: ["person"]
 Prophet from Shiloh who prophesied to Jeroboam
 
 **Original-language names:** אֲחִיָּ֫הוּ (H0281)
+
+## When
+
+- **Placed around:** [[connections/timeline/10th century BC|975 BC]] *(Ussher: the median date of the passages naming them)*
 
 ## Appears in
 

@@ -7,12 +7,16 @@ language: "Greek"
 verses: 26
 cross_references_out: 11
 cross_references_in: 19
+dated_from: 60
+dated_to: 60
 tags: ["chapter", "nt", "acts"]
 ---
 
 # Acts 24
 
 ← [[connections/chapters/44-acts/Acts 23|Acts 23]] · [[connections/books/Acts|Acts]] · [[connections/chapters/44-acts/Acts 25|Acts 25]] →
+
+**Dated** *(Ussher, after the Treasury of Scripture Knowledge)*: [[connections/timeline/1st century AD|AD 60]]
 
 ## Text
 

@@ -7,6 +7,10 @@ original: ["רְמַלְיָ֜הוּ"]
 verses: 13
 chapters: 5
 first: "2 Kings 15:25"
+placed: "741 BC"
+placed_year: -740
+generation: 1
+sex: "male"
 tags: ["person"]
 ---
 
@@ -15,6 +19,26 @@ tags: ["person"]
 Father of Pekah, king of Israel
 
 **Original-language names:** רְמַלְיָ֜הוּ (H7425)
+
+## When
+
+- **Placed around:** [[connections/timeline/8th century BC|741 BC]] *(Ussher: the median date of the passages naming them)*
+
+## Family
+
+- **Children:** [[connections/people/Pekah|Pekah]]
+- **Tribe or nation:** Israel
+
+**Family group:** [[connections/genealogy/Family of Remaliah|Family of Remaliah]], generation 1
+
+```mermaid
+flowchart TB
+  n0["Remaliah"]:::me
+  n1["Pekah"]
+  n0 --> n1
+  classDef me stroke-width:3px
+  classDef spouse stroke-dasharray:4
+```
 
 ## Appears in
 

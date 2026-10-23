@@ -7,6 +7,10 @@ original: ["אוֹן"]
 verses: 1
 chapters: 1
 first: "Numbers 16:1"
+placed: "1471 BC"
+placed_year: -1470
+generation: 2
+sex: "male"
 tags: ["person"]
 ---
 
@@ -15,6 +19,25 @@ tags: ["person"]
 Reubenite involved in Korah's rebellion
 
 **Original-language names:** אוֹן (H0203)
+
+## When
+
+- **Placed around:** [[connections/timeline/15th century BC|1471 BC]] *(Ussher: the median date of the passages naming them)*
+
+## Family
+
+- **Father:** [[connections/people/Peleth (Numbers 16.1)|Peleth (Numbers 16.1)]]
+
+**Family group:** [[connections/genealogy/Family of Peleth (Numbers 16.1)|Family of Peleth (Numbers 16.1)]], generation 2
+
+```mermaid
+flowchart TB
+  n0["On"]:::me
+  n1["Peleth (Numbers 16.1)"]
+  n1 --> n0
+  classDef me stroke-width:3px
+  classDef spouse stroke-dasharray:4
+```
 
 ## Appears in
 

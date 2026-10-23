@@ -7,6 +7,10 @@ original: ["אַיָּה"]
 verses: 4
 chapters: 2
 first: "2 Samuel 3:7"
+placed: "1018 BC"
+placed_year: -1017
+generation: 1
+sex: "male"
 tags: ["person"]
 ---
 
@@ -15,6 +19,25 @@ tags: ["person"]
 Father of Rizpah, Saul's concubine
 
 **Original-language names:** אַיָּה (H0345)
+
+## When
+
+- **Placed around:** [[connections/timeline/11th century BC|1018 BC]] *(Ussher: the median date of the passages naming them)*
+
+## Family
+
+- **Children:** [[connections/people/Rizpah|Rizpah]]
+
+**Family group:** [[connections/genealogy/Family of Aphiah|Family of Aphiah]], generation 1
+
+```mermaid
+flowchart TB
+  n0["Aiah (2 Samuel 3.7)"]:::me
+  n1["Rizpah"]
+  n0 --> n1
+  classDef me stroke-width:3px
+  classDef spouse stroke-dasharray:4
+```
 
 ## Appears in
 

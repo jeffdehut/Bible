@@ -7,12 +7,16 @@ language: "Hebrew/Aramaic"
 verses: 24
 cross_references_out: 116
 cross_references_in: 73
+dated_from: -4003
+dated_to: -4003
 tags: ["chapter", "ot", "torah"]
 ---
 
 # Genesis 3
 
 ← [[connections/chapters/01-genesis/Genesis 2|Genesis 2]] · [[connections/books/Genesis|Genesis]] · [[connections/chapters/01-genesis/Genesis 4|Genesis 4]] →
+
+**Dated** *(Ussher, after the Treasury of Scripture Knowledge)*: [[connections/timeline/41st century BC|4004 BC]]
 
 ## Text
 

@@ -20,6 +20,10 @@ Town allotted to Joshua, where he was buried
 
 **Original-language names:** תִּמְנַת חֶרֶס (H8556a) · תִּמְנַת סֶ֫רַח (H8556b)
 
+## Events
+
+- [[connections/timeline/15th century BC|1424 BC]] · [[connections/events/Death of Joshua|Death of Joshua]]
+
 ## Appears in
 
 [[connections/chapters/06-joshua/Joshua 19|Joshua 19]] · [[connections/chapters/06-joshua/Joshua 24|Joshua 24]] · [[connections/chapters/07-judges/Judges 2|Judges 2]]

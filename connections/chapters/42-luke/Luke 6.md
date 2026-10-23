@@ -7,12 +7,16 @@ language: "Greek"
 verses: 49
 cross_references_out: 222
 cross_references_in: 145
+dated_from: 31
+dated_to: 31
 tags: ["chapter", "nt", "gospels"]
 ---
 
 # Luke 6
 
 ← [[connections/chapters/42-luke/Luke 5|Luke 5]] · [[connections/books/Luke|Luke]] · [[connections/chapters/42-luke/Luke 7|Luke 7]] →
+
+**Dated** *(Ussher, after the Treasury of Scripture Knowledge)*: [[connections/timeline/1st century AD|AD 31]]
 
 ## Text
 

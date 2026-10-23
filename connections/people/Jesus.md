@@ -8,6 +8,14 @@ original: ["Ἰησοῦς", "Χριστός", "עִמָּנוּאֵל", "Ἐμ
 verses: 1157
 chapters: 224
 first: "Isaiah 7:14"
+born: "4 BC"
+born_year: -3
+died: "AD 30"
+died_year: 30
+placed: "AD 33"
+placed_year: 33
+generation: 75
+sex: "male"
 tags: ["person"]
 ---
 
@@ -18,6 +26,165 @@ The Son of God and Savior of the world.
 **Also called:** Lord, Christ, Immanuel
 
 **Original-language names:** Ἰησοῦς (G2424) · Χριστός (G5547) · עִמָּנוּאֵל (H6005) · Ἐμμανουήλ (G1694)
+
+## When
+
+- **Lived:** [[connections/timeline/1st century BC|4 BC]] – [[connections/timeline/1st century AD|AD 30]] *(Jones)*
+- **Placed around:** [[connections/timeline/1st century AD|AD 33]] *(Ussher: the median date of the passages naming them)*
+
+## Family
+
+- **Father:** [[connections/people/Joseph (Matthew 1.16)|Joseph (Matthew 1.16)]]
+- **Mother:** [[connections/people/Mary (Matthew 1.16)|Mary (Matthew 1.16)]]
+- **Brothers and sisters:** [[connections/people/James (Matthew 13.55)|James (Matthew 13.55)]], [[connections/people/Joses (Matthew 13.55)|Joses (Matthew 13.55)]], [[connections/people/Jude|Jude]], [[connections/people/Simon (Matthew 13.55)|Simon (Matthew 13.55)]]
+- **Tribe or nation:** Tribe of Judah
+
+**Line of descent** (75 generations, father to son): [[connections/people/Adam|Adam]] → [[connections/people/Seth|Seth]] → [[connections/people/Enosh|Enosh]] → [[connections/people/Kenan|Kenan]] → [[connections/people/Mahalalel (Genesis 5.12)|Mahalalel (Genesis 5.12)]] → [[connections/people/Jared|Jared]] → [[connections/people/Enoch (Genesis 5.18)|Enoch (Genesis 5.18)]] → [[connections/people/Methuselah|Methuselah]] → [[connections/people/Lamech (Genesis 5.25)|Lamech (Genesis 5.25)]] → [[connections/people/Noah (Genesis 5.29)|Noah (Genesis 5.29)]] → [[connections/people/Shem|Shem]] → [[connections/people/Arpachshad|Arpachshad]] → [[connections/people/Cainan|Cainan]] → [[connections/people/Shelah (Genesis 10.24)|Shelah (Genesis 10.24)]] → [[connections/people/Eber (Genesis 10.21)|Eber (Genesis 10.21)]] → [[connections/people/Peleg|Peleg]] → [[connections/people/Reu|Reu]] → [[connections/people/Serug|Serug]] → [[connections/people/Nahor (Genesis 11.22)|Nahor (Genesis 11.22)]] → [[connections/people/Terah|Terah]] → [[connections/people/Abraham|Abraham]] → [[connections/people/Isaac|Isaac]] → [[connections/people/Israel|Israel]] → [[connections/people/Judah (Genesis 29.35)|Judah (Genesis 29.35)]] → [[connections/people/Perez|Perez]] → [[connections/people/Hezron (Genesis 46.12)|Hezron (Genesis 46.12)]] → [[connections/people/Ram (Ruth 4.19)|Ram (Ruth 4.19)]] → [[connections/people/Amminadab (Exodus 6.23)|Amminadab (Exodus 6.23)]] → [[connections/people/Nahshon|Nahshon]] → [[connections/people/Salmon|Salmon]] → [[connections/people/Boaz|Boaz]] → [[connections/people/Obed (Ruth 4.17)|Obed (Ruth 4.17)]] → [[connections/people/Jesse|Jesse]] → [[connections/people/David|David]] → [[connections/people/Solomon|Solomon]] → [[connections/people/Rehoboam|Rehoboam]] → [[connections/people/Abijah (1 Kings 14.31)|Abijah (1 Kings 14.31)]] → [[connections/people/Asa (1 Kings 15.8)|Asa (1 Kings 15.8)]] → [[connections/people/Jehoshaphat (1 Kings 15.24)|Jehoshaphat (1 Kings 15.24)]] → [[connections/people/Jehoram (1 Kings 22.51)|Jehoram (1 Kings 22.51)]] → [[connections/people/Ahaziah (2 Kings 8.24)|Ahaziah (2 Kings 8.24)]] → [[connections/people/Joash (2 Kings 11.2)|Joash (2 Kings 11.2)]] → [[connections/people/Amaziah (2 Kings 12.22)|Amaziah (2 Kings 12.22)]] → [[connections/people/Uzziah (2 Kings 14.21)|Uzziah (2 Kings 14.21)]] → [[connections/people/Jotham (2 Kings 15.5)|Jotham (2 Kings 15.5)]] → [[connections/people/Ahaz (2 Kings 15.38)|Ahaz (2 Kings 15.38)]] → [[connections/people/Hezekiah (2 Kings 16.20)|Hezekiah (2 Kings 16.20)]] → [[connections/people/Manasseh (2 Kings 20.21)|Manasseh (2 Kings 20.21)]] → [[connections/people/Amon (2 Kings 21.18)|Amon (2 Kings 21.18)]] → [[connections/people/Josiah (1 Kings 13.2)|Josiah (1 Kings 13.2)]] → [[connections/people/Jehoiakim|Jehoiakim]] → [[connections/people/Jehoiachin|Jehoiachin]] → [[connections/people/Shealtiel (1 Chronicles 3.17)|Shealtiel (1 Chronicles 3.17)]] → [[connections/people/Pedaiah (1 Chronicles 3.18)|Pedaiah (1 Chronicles 3.18)]] → [[connections/people/Zerubbabel (1 Chronicles 3.19)|Zerubbabel (1 Chronicles 3.19)]] → [[connections/people/Abiud|Abiud]] → [[connections/people/Eliakim (Matthew 1.13)|Eliakim (Matthew 1.13)]] → [[connections/people/Azor|Azor]] → [[connections/people/Zadok (Matthew 1.14)|Zadok (Matthew 1.14)]] → [[connections/people/Achim|Achim]] → [[connections/people/Eliud|Eliud]] → [[connections/people/Eleazar (Matthew 1.15)|Eleazar (Matthew 1.15)]] → [[connections/people/Matthan|Matthan]] → [[connections/people/Unnamed 1 (Matthew 1.15)|Unnamed 1 (Matthew 1.15)]] → [[connections/people/Unnamed 2 (Matthew 1.15)|Unnamed 2 (Matthew 1.15)]] → [[connections/people/Unnamed 3 (Matthew 1.15)|Unnamed 3 (Matthew 1.15)]] → [[connections/people/Unnamed 4 (Matthew 1.15)|Unnamed 4 (Matthew 1.15)]] → [[connections/people/Unnamed 5 (Matthew 1.15)|Unnamed 5 (Matthew 1.15)]] → [[connections/people/Unnamed 6 (Matthew 1.15)|Unnamed 6 (Matthew 1.15)]] → [[connections/people/Unnamed 7 (Matthew 1.15)|Unnamed 7 (Matthew 1.15)]] → [[connections/people/Unnamed 8 (Matthew 1.15)|Unnamed 8 (Matthew 1.15)]] → [[connections/people/Unnamed 9 (Matthew 1.15)|Unnamed 9 (Matthew 1.15)]] → [[connections/people/Jacob|Jacob]] → [[connections/people/Joseph (Matthew 1.16)|Joseph (Matthew 1.16)]] → **Jesus**
+
+**Family group:** [[connections/genealogy/Family of Adam|Family of Adam]], generation 75
+
+```mermaid
+flowchart TB
+  n0["Jesus"]:::me
+  n1["Jacob"]
+  n2["Joseph (Matthew 1.16)"]
+  n1 --> n2
+  n2 --> n0
+  n3["Heli"]
+  n4["Mary (Matthew 1.16)"]
+  n3 --> n4
+  n5["wife of Heli (Luke 1.5)"]
+  n5 --> n4
+  n4 --> n0
+  n6["James (Matthew 13.55)"]
+  n2 --> n6
+  n7["Joses (Matthew 13.55)"]
+  n2 --> n7
+  n8["Jude"]
+  n2 --> n8
+  n9["Simon (Matthew 13.55)"]
+  n2 --> n9
+  classDef me stroke-width:3px
+  classDef spouse stroke-dasharray:4
+```
+
+## Events
+
+- [[connections/timeline/41st century BC|4004 BC]] · [[connections/events/Creation of all things|Creation of all things]]
+- [[connections/timeline/41st century BC|4004 BC]] · [[connections/events/Creation of Adam and Eve|Creation of Adam and Eve]]
+- [[connections/timeline/41st century BC|4004 BC]] · [[connections/events/The Fall|The Fall]]
+- [[connections/timeline/39th century BC|3875 BC]] · [[connections/events/God curses Cain|God curses Cain]]
+- [[connections/timeline/25th century BC|2468 BC]] · [[connections/events/God decides to destroy every living thing|God decides to destroy every living thing]]
+- [[connections/timeline/24th century BC|2400 BC]] · [[connections/events/God instructs Noah to build the ark|God instructs Noah to build the ark]]
+- [[connections/timeline/24th century BC|2347 BC]] · [[connections/events/God makes a covenant with Noah|God makes a covenant with Noah]]
+- [[connections/timeline/20th century BC|1921 BC]] · [[connections/events/Abrahamic Covenant|Abrahamic Covenant]]
+- [[connections/timeline/19th century BC|1897 BC]] · [[connections/events/Sodom Destroyed|Sodom Destroyed]]
+- [[connections/timeline/15th century BC|1491 BC]] · [[connections/events/Ten Commandments Given|Ten Commandments Given]]
+- [[connections/timeline/1st century BC|4 BC]] · [[connections/events/Joseph and Mary return from Egypt|Joseph and Mary return from Egypt]]
+- [[connections/timeline/1st century BC|4 BC]] · [[connections/events/Joseph and Mary return to Nazareth|Joseph and Mary return to Nazareth]]
+- [[connections/timeline/1st century BC|4 BC]] · [[connections/events/Birth of Jesus|Birth of Jesus]]
+- [[connections/timeline/1st century BC|4 BC]] · [[connections/events/Jesus Circumsized|Jesus Circumsized]]
+- [[connections/timeline/1st century BC|4 BC]] · [[connections/events/Temple Presentation of Jesus|Temple Presentation of Jesus]]
+- [[connections/timeline/1st century BC|4 BC]] · [[connections/events/Childhood of Jesus|Childhood of Jesus]]
+- [[connections/timeline/1st century AD|AD 9]] · [[connections/events/Jesus as a child in the Temple|Jesus as a child in the Temple]]
+- [[connections/timeline/1st century AD|AD 9]] · [[connections/events/Jesus Growing Up|Jesus Growing Up]]
+- [[connections/timeline/1st century AD|AD 26]] · [[connections/events/John Baptizes Jesus|John Baptizes Jesus]]
+- [[connections/timeline/1st century AD|AD 26]] · [[connections/events/Temptations of Jesus|Temptations of Jesus]]
+- [[connections/timeline/1st century AD|AD 27]] · [[connections/events/Jesus Leaves Judea toward Galilee|Jesus Leaves Judea toward Galilee]]
+- [[connections/timeline/1st century AD|AD 27]] · [[connections/events/Jesus visits Galilee|Jesus visits Galilee]]
+- [[connections/timeline/1st century AD|AD 27]] · [[connections/events/Jesus in Capernaum|Jesus in Capernaum]]
+- [[connections/timeline/1st century AD|AD 27]] · [[connections/events/Fishers of Men|Fishers of Men]]
+- [[connections/timeline/1st century AD|AD 27]] · [[connections/events/Peter's Mother-in-law and Others Healed|Peter's Mother-in-law and Others Healed]]
+- [[connections/timeline/1st century AD|AD 27]] · [[connections/events/The Demoniac|The Demoniac]]
+- [[connections/timeline/1st century AD|AD 27]] · [[connections/events/Jesus Rejected at Nazareth|Jesus Rejected at Nazareth]]
+- [[connections/timeline/1st century AD|AD 27]] · [[connections/events/Water to Wine|Water to Wine]]
+- [[connections/timeline/1st century AD|AD 27]] · [[connections/events/Visiting Capernaum|Visiting Capernaum]]
+- [[connections/timeline/1st century AD|AD 27]] · [[connections/events/First Passover and Temple Cleansing|First Passover and Temple Cleansing]]
+- [[connections/timeline/1st century AD|AD 27]] · [[connections/events/Jesus and Nicodemus|Jesus and Nicodemus]]
+- [[connections/timeline/1st century AD|AD 27]] · [[connections/events/The Samaritan Woman|The Samaritan Woman]]
+- [[connections/timeline/1st century AD|AD 28]] · [[connections/events/Sermon on the Mount|Sermon on the Mount]]
+- [[connections/timeline/1st century AD|AD 28]] · [[connections/events/Healing the Leper|Healing the Leper]]
+- [[connections/timeline/1st century AD|AD 28]] · [[connections/events/Healing Centurion's Servant|Healing Centurion's Servant]]
+- [[connections/timeline/1st century AD|AD 28]] · [[connections/events/Gadarene Demoniacs|Gadarene Demoniacs]]
+- [[connections/timeline/1st century AD|AD 28]] · [[connections/events/Healing the Man with Palsy|Healing the Man with Palsy]]
+- [[connections/timeline/1st century AD|AD 28]] · [[connections/events/Jesus Calls Matthew|Jesus Calls Matthew]]
+- [[connections/timeline/1st century AD|AD 28]] · [[connections/events/Fasting Question|Fasting Question]]
+- [[connections/timeline/1st century AD|AD 28]] · [[connections/events/Parable of the Winseskins|Parable of the Winseskins]]
+- [[connections/timeline/1st century AD|AD 28]] · [[connections/events/Capernaum Miracles|Capernaum Miracles]]
+- [[connections/timeline/1st century AD|AD 28]] · [[connections/events/Jesus' Message on John the Baptist|Jesus' Message on John the Baptist]]
+- [[connections/timeline/1st century AD|AD 28]] · [[connections/events/Woe to Chorazin and Bethsaida|Woe to Chorazin and Bethsaida]]
+- [[connections/timeline/1st century AD|AD 28]] · [[connections/events/Corn on the Sabbath|Corn on the Sabbath]]
+- [[connections/timeline/1st century AD|AD 28]] · [[connections/events/Healing a Withered Hand|Healing a Withered Hand]]
+- [[connections/timeline/1st century AD|AD 28]] · [[connections/events/Healing Multitudes|Healing Multitudes]]
+- [[connections/timeline/1st century AD|AD 28]] · [[connections/events/Blind and Dumb Demoniac and Following Discourse|Blind and Dumb Demoniac and Following Discourse]]
+- [[connections/timeline/1st century AD|AD 28]] · [[connections/events/Seaside Parables and Miracle|Seaside Parables and Miracle]]
+- [[connections/timeline/1st century AD|AD 28]] · [[connections/events/Jesus' 1st Tour of Galilee|Jesus' 1st Tour of Galilee]]
+- [[connections/timeline/1st century AD|AD 28]] · [[connections/events/Widow's Son Resurrected|Widow's Son Resurrected]]
+- [[connections/timeline/1st century AD|AD 28]] · [[connections/events/Anointed by a Sinner Woman|Anointed by a Sinner Woman]]
+- [[connections/timeline/1st century AD|AD 28]] · [[connections/events/Jesus' 2nd Tour of Galilee|Jesus' 2nd Tour of Galilee]]
+- [[connections/timeline/1st century AD|AD 28]] · [[connections/events/Bethesda pool healing|Bethesda pool healing]]
+- [[connections/timeline/1st century AD|AD 29]] · [[connections/events/3rd Tour of Galilee|3rd Tour of Galilee]]
+- [[connections/timeline/1st century AD|AD 29]] · [[connections/events/2nd Rejection at Nazareth|2nd Rejection at Nazareth]]
+- [[connections/timeline/1st century AD|AD 29]] · [[connections/events/Feeding of Five Thousand|Feeding of Five Thousand]]
+- [[connections/timeline/1st century AD|AD 29]] · [[connections/events/Jesus Walks on Water|Jesus Walks on Water]]
+- [[connections/timeline/1st century AD|AD 29]] · [[connections/events/Healing in Gennesaret|Healing in Gennesaret]]
+- [[connections/timeline/1st century AD|AD 29]] · [[connections/events/Commandments and Tradition Discourse|Commandments and Tradition Discourse]]
+- [[connections/timeline/1st century AD|AD 29]] · [[connections/events/Healing Canaanite Daughter|Healing Canaanite Daughter]]
+- [[connections/timeline/1st century AD|AD 29]] · [[connections/events/Feeding of Four Thousand|Feeding of Four Thousand]]
+- [[connections/timeline/1st century AD|AD 29]] · [[connections/events/Peter's Confession -Upon this Rock-|Peter's Confession "Upon this Rock"]]
+- [[connections/timeline/1st century AD|AD 29]] · [[connections/events/Foretelling the Death and Resurrection|Foretelling the Death and Resurrection]]
+- [[connections/timeline/1st century AD|AD 29]] · [[connections/events/The Transfiguation|The Transfiguation]]
+- [[connections/timeline/1st century AD|AD 29]] · [[connections/events/Healing a Boy with a Demon|Healing a Boy with a Demon]]
+- [[connections/timeline/1st century AD|AD 29]] · [[connections/events/Second Foretelling of Death and Resurrection|Second Foretelling of Death and Resurrection]]
+- [[connections/timeline/1st century AD|AD 29]] · [[connections/events/Tax Coin in a Fish's Mouth|Tax Coin in a Fish's Mouth]]
+- [[connections/timeline/1st century AD|AD 29]] · [[connections/events/Teachings on Humility-Temptation-Reconciliation|Teachings on Humility/Temptation/Reconciliation]]
+- [[connections/timeline/1st century AD|AD 29]] · [[connections/events/Healing a Crowd near Sea of Galilee|Healing a Crowd near Sea of Galilee]]
+- [[connections/timeline/1st century AD|AD 29]] · [[connections/events/Discourse with Pharisees and Saducees|Discourse with Pharisees and Saducees]]
+- [[connections/timeline/1st century AD|AD 29]] · [[connections/events/Healing a Blind Man at Bethsaida|Healing a Blind Man at Bethsaida]]
+- [[connections/timeline/1st century AD|AD 29]] · [[connections/events/Samaritans Reject Jesus|Samaritans Reject Jesus]]
+- [[connections/timeline/1st century AD|AD 29]] · [[connections/events/70 Sent Out|70 Sent Out]]
+- [[connections/timeline/1st century AD|AD 29]] · [[connections/events/Good Samaritan Parable Taught|Good Samaritan Parable Taught]]
+- [[connections/timeline/1st century AD|AD 29]] · [[connections/events/Jesus meets Martha and Mary|Jesus meets Martha and Mary]]
+- [[connections/timeline/1st century AD|AD 29]] · [[connections/events/Lord's Prayer Taught|Lord's Prayer Taught]]
+- [[connections/timeline/1st century AD|AD 29]] · [[connections/events/Woes and Parables with Pharisees|Woes and Parables with Pharisees]]
+- [[connections/timeline/1st century AD|AD 29]] · [[connections/events/Healing Woman With 18-year Infirmity|Healing Woman With 18-year Infirmity]]
+- [[connections/timeline/1st century AD|AD 29]] · [[connections/events/Mustard Seed and Leaven Teaching|Mustard Seed and Leaven Teaching]]
+- [[connections/timeline/1st century AD|AD 29]] · [[connections/events/Bread of Life Sermon|Bread of Life Sermon]]
+- [[connections/timeline/1st century AD|AD 29]] · [[connections/events/Feast of Tabernacles|Feast of Tabernacles]]
+- [[connections/timeline/1st century AD|AD 29]] · [[connections/events/Woman Caught in Adultery|Woman Caught in Adultery]]
+- [[connections/timeline/1st century AD|AD 29]] · [[connections/events/Light of the World-I am discourse|Light of the World/I am discourse]]
+- [[connections/timeline/1st century AD|AD 29]] · [[connections/events/Blind Man Healed|Blind Man Healed]]
+- [[connections/timeline/1st century AD|AD 29]] · [[connections/events/The Good Shepherd Teaching|The Good Shepherd Teaching]]
+- [[connections/timeline/1st century AD|AD 29]] · [[connections/events/Feast of Dedication|Feast of Dedication]]
+- [[connections/timeline/1st century AD|AD 30]] · [[connections/events/Jesus Teaches in Perea|Jesus Teaches in Perea]]
+- [[connections/timeline/1st century AD|AD 30]] · [[connections/events/Healing Blind Bartimaeus|Healing Blind Bartimaeus]]
+- [[connections/timeline/1st century AD|AD 30]] · [[connections/events/Triumphal Entry|Triumphal Entry]]
+- [[connections/timeline/1st century AD|AD 30]] · [[connections/events/Temple Cleansed|Temple Cleansed]]
+- [[connections/timeline/1st century AD|AD 30]] · [[connections/events/Debates in the Temple|Debates in the Temple]]
+- [[connections/timeline/1st century AD|AD 30]] · [[connections/events/Olivet Discourse|Olivet Discourse]]
+- [[connections/timeline/1st century AD|AD 30]] · [[connections/events/The Last Supper|The Last Supper]]
+- [[connections/timeline/1st century AD|AD 30]] · [[connections/events/Prayer and Betrayal in Gethsemane|Prayer and Betrayal in Gethsemane]]
+- [[connections/timeline/1st century AD|AD 30]] · [[connections/events/Jewish Trials|Jewish Trials]]
+- [[connections/timeline/1st century AD|AD 30]] · [[connections/events/Judas' Suicide|Judas' Suicide]]
+- [[connections/timeline/1st century AD|AD 30]] · [[connections/events/Roman Trials|Roman Trials]]
+- [[connections/timeline/1st century AD|AD 30]] · [[connections/events/Bearing Cross to Golgotha|Bearing Cross to Golgotha]]
+- [[connections/timeline/1st century AD|AD 30]] · [[connections/events/Resurrection and Ascension|Resurrection and Ascension]]
+- [[connections/timeline/1st century AD|AD 30]] · [[connections/events/Fig Tree Cursed|Fig Tree Cursed]]
+- [[connections/timeline/1st century AD|AD 30]] · [[connections/events/Teaching by the Fig Tree|Teaching by the Fig Tree]]
+- [[connections/timeline/1st century AD|AD 30]] · [[connections/events/Lepers Healed|Lepers Healed]]
+- [[connections/timeline/1st century AD|AD 30]] · [[connections/events/Discourse on the Kingdom and Other Parables|Discourse on the Kingdom and Other Parables]]
+- [[connections/timeline/1st century AD|AD 30]] · [[connections/events/Zaccheus Converted and Parable of the Pounds|Zaccheus Converted and Parable of the Pounds]]
+- [[connections/timeline/1st century AD|AD 30]] · [[connections/events/Teaching and Healing in Perea to Jerusalem|Teaching and Healing in Perea to Jerusalem]]
+- [[connections/timeline/1st century AD|AD 30]] · [[connections/events/Lazarus Raised form the Dead|Lazarus Raised form the Dead]]
+- [[connections/timeline/1st century AD|AD 30]] · [[connections/events/Jesus Withdraws to Ephraim|Jesus Withdraws to Ephraim]]
+- [[connections/timeline/1st century AD|AD 30]] · [[connections/events/Mary Anoints Jesus|Mary Anoints Jesus]]
+- [[connections/timeline/1st century AD|AD 30]] · [[connections/events/Upper Room Discourse|Upper Room Discourse]]
+- [[connections/timeline/1st century AD|AD 30]] · [[connections/events/Crucifixion and Burial|Crucifixion and Burial]]
+- [[connections/timeline/1st century AD|AD 30]] · [[connections/events/The Holy Spirit is promised|The Holy Spirit is promised]]
+- [[connections/timeline/1st century AD|AD 30]] · [[connections/events/Jesus ascends to Heaven|Jesus ascends to Heaven]]
+- [[connections/timeline/1st century AD|AD 30]] · [[connections/events/The Holy Spirit comes|The Holy Spirit comes]]
+- [[connections/timeline/1st century AD|AD 30]] · [[connections/events/Believers pray for boldness|Believers pray for boldness]]
+- [[connections/timeline/1st century AD|AD 30]] · [[connections/events/Ananias and Sapphira lie to God|Ananias and Sapphira lie to God]]
 
 ## Appears in
 

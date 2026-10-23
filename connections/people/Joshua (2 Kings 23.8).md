@@ -7,6 +7,7 @@ original: ["יְהוֹשׁוּעַ"]
 verses: 1
 chapters: 1
 first: "2 Kings 23:8"
+sex: "male"
 tags: ["person"]
 ---
 

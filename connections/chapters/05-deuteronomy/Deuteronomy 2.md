@@ -7,12 +7,16 @@ language: "Hebrew"
 verses: 37
 cross_references_out: 16
 cross_references_in: 12
+dated_from: -1452
+dated_to: -1452
 tags: ["chapter", "ot", "torah"]
 ---
 
 # Deuteronomy 2
 
 ← [[connections/chapters/05-deuteronomy/Deuteronomy 1|Deuteronomy 1]] · [[connections/books/Deuteronomy|Deuteronomy]] · [[connections/chapters/05-deuteronomy/Deuteronomy 3|Deuteronomy 3]] →
+
+**Dated** *(Ussher, after the Treasury of Scripture Knowledge)*: [[connections/timeline/15th century BC|1453 BC]]
 
 ## Text
 

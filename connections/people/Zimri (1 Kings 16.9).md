@@ -7,6 +7,9 @@ original: ["זִמְרִי"]
 verses: 8
 chapters: 2
 first: "1 Kings 16:9"
+placed: "929 BC"
+placed_year: -928
+sex: "male"
 tags: ["person"]
 ---
 
@@ -15,6 +18,19 @@ tags: ["person"]
 King of Israel, reigned seven days
 
 **Original-language names:** זִמְרִי (H2174a)
+
+## When
+
+- **Placed around:** [[connections/timeline/10th century BC|929 BC]] *(Ussher: the median date of the passages naming them)*
+
+## Family
+
+- **Tribe or nation:** Israel
+
+
+## Events
+
+- [[connections/timeline/10th century BC|929 BC]] · [[connections/events/Reign of Zimri|Reign of Zimri]]
 
 ## Appears in
 

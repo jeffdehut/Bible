@@ -7,6 +7,9 @@ original: ["Λούκιος"]
 verses: 2
 chapters: 2
 first: "Acts 13:1"
+placed: "AD 60"
+placed_year: 60
+sex: "male"
 tags: ["person"]
 ---
 
@@ -15,6 +18,14 @@ tags: ["person"]
 Prophet and teacher in the church at Antioch.
 
 **Original-language names:** Λούκιος (G3066)
+
+## When
+
+- **Placed around:** [[connections/timeline/1st century AD|AD 60]] *(Ussher: the median date of the passages naming them)*
+
+## Events
+
+- [[connections/timeline/1st century AD|AD 45]] · [[connections/events/First missionary journey begins|First missionary journey begins]]
 
 ## Appears in
 

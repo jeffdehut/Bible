@@ -7,6 +7,9 @@ original: ["Φίλιππος"]
 verses: 16
 chapters: 3
 first: "Acts 6:5"
+placed: "AD 34"
+placed_year: 34
+sex: "male"
 tags: ["person"]
 ---
 
@@ -15,6 +18,18 @@ tags: ["person"]
 One of the seven deacons, evangelized in Samaria
 
 **Original-language names:** Φίλιππος (G5376)
+
+## When
+
+- **Placed around:** [[connections/timeline/1st century AD|AD 34]] *(Ussher: the median date of the passages naming them)*
+
+## Events
+
+- [[connections/timeline/1st century AD|AD 30]] · [[connections/events/Seven chosen to serve|Seven chosen to serve]]
+- [[connections/timeline/1st century AD|AD 31]] · [[connections/events/Philip preaches in Samaria|Philip preaches in Samaria]]
+- [[connections/timeline/1st century AD|AD 32]] · [[connections/events/Conversion of Ethiopian Eunuch|Conversion of Ethiopian Eunuch]]
+- [[connections/timeline/1st century AD|AD 50]] · [[connections/events/Third Missionary Journey|Third Missionary Journey]]
+- [[connections/timeline/1st century AD|AD 54]] · [[connections/events/Voyage from Miletus to Jerusalem|Voyage from Miletus to Jerusalem]]
 
 ## Appears in
 

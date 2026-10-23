@@ -17,6 +17,11 @@ An ancient seaport, the main port for Jerusalem
 
 **Original-language names:** יָפוֹ (H3305) · Ἰόππη (G2445)
 
+## Events
+
+- [[connections/timeline/1st century AD|AD 38]] · [[connections/events/Peter heals Aeneas and Dorcas|Peter heals Aeneas and Dorcas]]
+- [[connections/timeline/1st century AD|AD 38]] · [[connections/events/Peter meets Cornelius|Peter meets Cornelius]]
+
 ## Appears in
 
 [[connections/chapters/06-joshua/Joshua 19|Joshua 19]] · [[connections/chapters/14-2-chronicles/2 Chronicles 2|2 Chronicles 2]] · [[connections/chapters/15-ezra/Ezra 3|Ezra 3]] · [[connections/chapters/32-jonah/Jonah 1|Jonah 1]] · [[connections/chapters/44-acts/Acts 9|Acts 9 (4)]] · [[connections/chapters/44-acts/Acts 10|Acts 10 (4)]] · [[connections/chapters/44-acts/Acts 11|Acts 11 (2)]]

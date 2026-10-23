@@ -7,6 +7,8 @@ original: ["עֹדֵד"]
 verses: 2
 chapters: 1
 first: "2 Chronicles 15:1"
+generation: 1
+sex: "male"
 tags: ["person"]
 ---
 
@@ -15,6 +17,21 @@ tags: ["person"]
 Prophet, father of Azariah
 
 **Original-language names:** עֹדֵד (H5752)
+
+## Family
+
+- **Children:** [[connections/people/Azariah (2 Chronicles 15.1)|Azariah (2 Chronicles 15.1)]]
+
+**Family group:** [[connections/genealogy/Family of Oded (2 Chronicles 15.1)|Family of Oded (2 Chronicles 15.1)]], generation 1
+
+```mermaid
+flowchart TB
+  n0["Oded (2 Chronicles 15.1)"]:::me
+  n1["Azariah (2 Chronicles 15.1)"]
+  n0 --> n1
+  classDef me stroke-width:3px
+  classDef spouse stroke-dasharray:4
+```
 
 ## Appears in
 

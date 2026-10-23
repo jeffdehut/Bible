@@ -7,12 +7,16 @@ language: "Hebrew/Aramaic"
 verses: 44
 cross_references_out: 8
 cross_references_in: 6
+dated_from: -455
+dated_to: -455
 tags: ["chapter", "ot", "history"]
 ---
 
 # Ezra 10
 
 ← [[connections/chapters/15-ezra/Ezra 9|Ezra 9]] · [[connections/books/Ezra|Ezra]] · [[connections/chapters/16-nehemiah/Nehemiah 1|Nehemiah 1]] →
+
+**Dated** *(Ussher, after the Treasury of Scripture Knowledge)*: [[connections/timeline/5th century BC|456 BC]]
 
 ## Text
 

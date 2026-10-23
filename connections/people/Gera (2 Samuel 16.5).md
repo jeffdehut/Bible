@@ -7,6 +7,10 @@ original: ["גֵּרָא"]
 verses: 4
 chapters: 3
 first: "2 Samuel 16:5"
+placed: "1023 BC"
+placed_year: -1022
+generation: 1
+sex: "male"
 tags: ["person"]
 ---
 
@@ -15,6 +19,25 @@ tags: ["person"]
 Benjamite; cursed David during Absalom's rebellion; later sought forgiveness.
 
 **Original-language names:** גֵּרָא (H1617)
+
+## When
+
+- **Placed around:** [[connections/timeline/11th century BC|1023 BC]] *(Ussher: the median date of the passages naming them)*
+
+## Family
+
+- **Children:** [[connections/people/Shimei (2 Samuel 16.5)|Shimei (2 Samuel 16.5)]]
+
+**Family group:** [[connections/genealogy/Family of Gera (2 Samuel 16.5)|Family of Gera (2 Samuel 16.5)]], generation 1
+
+```mermaid
+flowchart TB
+  n0["Gera (2 Samuel 16.5)"]:::me
+  n1["Shimei (2 Samuel 16.5)"]
+  n0 --> n1
+  classDef me stroke-width:3px
+  classDef spouse stroke-dasharray:4
+```
 
 ## Appears in
 

@@ -7,6 +7,10 @@ original: ["הַמְּדָתָא"]
 verses: 5
 chapters: 3
 first: "Esther 3:1"
+placed: "453 BC"
+placed_year: -452
+generation: 1
+sex: "male"
 tags: ["person"]
 ---
 
@@ -15,6 +19,25 @@ tags: ["person"]
 The father of Haman, the enemy of the Jews.
 
 **Original-language names:** הַמְּדָתָא (H4099)
+
+## When
+
+- **Placed around:** [[connections/timeline/5th century BC|453 BC]] *(Ussher: the median date of the passages naming them)*
+
+## Family
+
+- **Children:** [[connections/people/Haman|Haman]]
+
+**Family group:** [[connections/genealogy/Family of Hammedatha|Family of Hammedatha]], generation 1
+
+```mermaid
+flowchart TB
+  n0["Hammedatha"]:::me
+  n1["Haman"]
+  n0 --> n1
+  classDef me stroke-width:3px
+  classDef spouse stroke-dasharray:4
+```
 
 ## Appears in
 

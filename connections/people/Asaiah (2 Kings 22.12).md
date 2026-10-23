@@ -7,6 +7,9 @@ original: ["עֲשָׂיָה"]
 verses: 3
 chapters: 2
 first: "2 Kings 22:12"
+placed: "642 BC"
+placed_year: -641
+sex: "male"
 tags: ["person"]
 ---
 
@@ -15,6 +18,10 @@ tags: ["person"]
 Servant of King Josiah during Book of Law discovery
 
 **Original-language names:** עֲשָׂיָה (H6222)
+
+## When
+
+- **Placed around:** [[connections/timeline/7th century BC|642 BC]] *(Ussher: the median date of the passages naming them)*
 
 ## Appears in
 

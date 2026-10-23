@@ -8,6 +8,9 @@ original: ["בָּנִי"]
 verses: 1
 chapters: 1
 first: "Ezra 10:38"
+placed: "456 BC"
+placed_year: -455
+sex: "male"
 tags: ["person"]
 ---
 
@@ -18,6 +21,10 @@ A family group that had married foreign women.
 **Also called:** sons
 
 **Original-language names:** בָּנִי (H1137)
+
+## When
+
+- **Placed around:** [[connections/timeline/5th century BC|456 BC]] *(Ussher: the median date of the passages naming them)*
 
 ## Appears in
 

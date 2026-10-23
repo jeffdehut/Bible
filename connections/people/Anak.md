@@ -7,6 +7,10 @@ original: ["עֲנָק"]
 verses: 8
 chapters: 5
 first: "Numbers 13:22"
+placed: "1451 BC"
+placed_year: -1450
+generation: 2
+sex: "male"
 tags: ["person"]
 ---
 
@@ -15,6 +19,32 @@ tags: ["person"]
 Ancestor of giant people in Canaan
 
 **Original-language names:** עֲנָק (H6061)
+
+## When
+
+- **Placed around:** [[connections/timeline/15th century BC|1451 BC]] *(Ussher: the median date of the passages naming them)*
+
+## Family
+
+- **Father:** [[connections/people/Arba|Arba]]
+- **Children:** [[connections/people/Ahiman (Numbers 13.22)|Ahiman (Numbers 13.22)]], [[connections/people/Sheshai|Sheshai]], [[connections/people/Talmai (Numbers 13.22)|Talmai (Numbers 13.22)]]
+
+**Family group:** [[connections/genealogy/Family of Arba|Family of Arba]], generation 2
+
+```mermaid
+flowchart TB
+  n0["Anak"]:::me
+  n1["Arba"]
+  n1 --> n0
+  n2["Ahiman (Numbers 13.22)"]
+  n0 --> n2
+  n3["Sheshai"]
+  n0 --> n3
+  n4["Talmai (Numbers 13.22)"]
+  n0 --> n4
+  classDef me stroke-width:3px
+  classDef spouse stroke-dasharray:4
+```
 
 ## Appears in
 

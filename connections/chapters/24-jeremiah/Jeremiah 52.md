@@ -7,12 +7,16 @@ language: "Hebrew/Aramaic"
 verses: 34
 cross_references_out: 2
 cross_references_in: 2
+dated_from: -599
+dated_to: -561
 tags: ["chapter", "ot", "prophets"]
 ---
 
 # Jeremiah 52
 
 ← [[connections/chapters/24-jeremiah/Jeremiah 51|Jeremiah 51]] · [[connections/books/Jeremiah|Jeremiah]] · [[connections/chapters/25-lamentations/Lamentations 1|Lamentations 1]] →
+
+**Dated** *(Ussher, after the Treasury of Scripture Knowledge)*: [[connections/timeline/6th century BC|600 BC]] – [[connections/timeline/6th century BC|562 BC]]
 
 ## Text
 

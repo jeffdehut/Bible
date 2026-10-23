@@ -7,6 +7,9 @@ original: ["זֶ֫בַח"]
 verses: 9
 chapters: 2
 first: "Judges 8:5"
+placed: "1245 BC"
+placed_year: -1244
+sex: "male"
 tags: ["person"]
 ---
 
@@ -15,6 +18,15 @@ tags: ["person"]
 Midianite king defeated by Gideon
 
 **Original-language names:** זֶ֫בַח (H2078)
+
+## When
+
+- **Placed around:** [[connections/timeline/13th century BC|1245 BC]] *(Ussher: the median date of the passages naming them)*
+
+## Family
+
+- **Tribe or nation:** Sinai
+
 
 ## Appears in
 

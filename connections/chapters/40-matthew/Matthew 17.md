@@ -7,12 +7,16 @@ language: "Greek"
 verses: 26
 cross_references_out: 53
 cross_references_in: 51
+dated_from: 32
+dated_to: 32
 tags: ["chapter", "nt", "gospels"]
 ---
 
 # Matthew 17
 
 ← [[connections/chapters/40-matthew/Matthew 16|Matthew 16]] · [[connections/books/Matthew|Matthew]] · [[connections/chapters/40-matthew/Matthew 18|Matthew 18]] →
+
+**Dated** *(Ussher, after the Treasury of Scripture Knowledge)*: [[connections/timeline/1st century AD|AD 32]]
 
 ## Text
 

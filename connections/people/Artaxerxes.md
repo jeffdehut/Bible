@@ -7,6 +7,10 @@ original: ["אַרְתַּחְשַׁשְׂתָּא", "אַרְתַּחְשַׁש
 verses: 14
 chapters: 7
 first: "Ezra 4:7"
+placed: "457 BC"
+placed_year: -456
+generation: 3
+sex: "male"
 tags: ["person"]
 ---
 
@@ -15,6 +19,37 @@ tags: ["person"]
 Persian king during Ezra and Nehemiah's time
 
 **Original-language names:** אַרְתַּחְשַׁשְׂתָּא (H0783a) · אַרְתַּחְשַׁשְׂתְּא (H0783b)
+
+## When
+
+- **Placed around:** [[connections/timeline/5th century BC|457 BC]] *(Ussher: the median date of the passages naming them)*
+- **Reigned / in office:** [[connections/timeline/5th century BC|465 BC]] – [[connections/timeline/5th century BC|424 BC]] *(modern dates)* · Artaxerxes I, Persia · [Wikidata Q189689](https://www.wikidata.org/wiki/Q189689)
+
+## Family
+
+- **Father:** [[connections/people/Ahasuerus|Ahasuerus]]
+- **Mother:** [[connections/people/Vashti|Vashti]]
+- **Brothers and sisters:** [[connections/people/Darius (Daniel 6.1)|Darius (Daniel 6.1)]]
+- **Tribe or nation:** Persia
+
+**Line of descent** (3 generations, father to son): [[connections/people/Darius (Ezra 4.5)|Darius (Ezra 4.5)]] → [[connections/people/Ahasuerus|Ahasuerus]] → **Artaxerxes**
+
+**Family group:** [[connections/genealogy/Family of Darius (Ezra 4.5)|Family of Darius (Ezra 4.5)]], generation 3
+
+```mermaid
+flowchart TB
+  n0["Artaxerxes"]:::me
+  n1["Darius (Ezra 4.5)"]
+  n2["Ahasuerus"]
+  n1 --> n2
+  n2 --> n0
+  n3["Vashti"]
+  n3 --> n0
+  n4["Darius (Daniel 6.1)"]
+  n2 --> n4
+  classDef me stroke-width:3px
+  classDef spouse stroke-dasharray:4
+```
 
 ## Appears in
 

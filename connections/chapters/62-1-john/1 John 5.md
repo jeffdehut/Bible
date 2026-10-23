@@ -7,12 +7,16 @@ language: "Greek"
 verses: 21
 cross_references_out: 266
 cross_references_in: 263
+dated_from: 90
+dated_to: 90
 tags: ["chapter", "nt", "general-epistles"]
 ---
 
 # 1 John 5
 
 ← [[connections/chapters/62-1-john/1 John 4|1 John 4]] · [[connections/books/1 John|1 John]] · [[connections/chapters/63-2-john/2 John 1|2 John 1]] →
+
+**Dated** *(Ussher, after the Treasury of Scripture Knowledge)*: [[connections/timeline/1st century AD|AD 90]]
 
 ## Text
 

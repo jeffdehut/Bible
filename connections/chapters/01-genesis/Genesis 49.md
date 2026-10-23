@@ -7,12 +7,16 @@ language: "Hebrew/Aramaic"
 verses: 33
 cross_references_out: 22
 cross_references_in: 52
+dated_from: -1688
+dated_to: -1688
 tags: ["chapter", "ot", "torah"]
 ---
 
 # Genesis 49
 
 ← [[connections/chapters/01-genesis/Genesis 48|Genesis 48]] · [[connections/books/Genesis|Genesis]] · [[connections/chapters/01-genesis/Genesis 50|Genesis 50]] →
+
+**Dated** *(Ussher, after the Treasury of Scripture Knowledge)*: [[connections/timeline/17th century BC|1689 BC]]
 
 ## Text
 

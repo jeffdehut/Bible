@@ -7,12 +7,16 @@ language: "Hebrew/Aramaic"
 verses: 31
 cross_references_out: 236
 cross_references_in: 72
+dated_from: -4003
+dated_to: -4003
 tags: ["chapter", "ot", "torah"]
 ---
 
 # Genesis 1
 
 [[connections/books/Genesis|Genesis]] · [[connections/chapters/01-genesis/Genesis 2|Genesis 2]] →
+
+**Dated** *(Ussher, after the Treasury of Scripture Knowledge)*: [[connections/timeline/41st century BC|4004 BC]]
 
 ## Text
 

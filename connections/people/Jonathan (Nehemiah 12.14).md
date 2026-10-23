@@ -7,6 +7,7 @@ original: ["יוֹנָתָן"]
 verses: 1
 chapters: 1
 first: "Nehemiah 12:14"
+sex: "male"
 tags: ["person"]
 ---
 

@@ -7,6 +7,9 @@ original: ["Ἀπολλῶς"]
 verses: 10
 chapters: 7
 first: "Acts 18:24"
+placed: "AD 59"
+placed_year: 59
+sex: "male"
 tags: ["person"]
 ---
 
@@ -15,6 +18,14 @@ tags: ["person"]
 Eloquent Jewish Christian from Alexandria, co-worker with Paul
 
 **Original-language names:** Ἀπολλῶς (G0625)
+
+## When
+
+- **Placed around:** [[connections/timeline/1st century AD|AD 59]] *(Ussher: the median date of the passages naming them)*
+
+## Events
+
+- [[connections/timeline/1st century AD|AD 50]] · [[connections/events/Third Missionary Journey Begins|Third Missionary Journey Begins]]
 
 ## Appears in
 

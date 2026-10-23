@@ -7,12 +7,16 @@ language: "Hebrew/Aramaic"
 verses: 25
 cross_references_out: 49
 cross_references_in: 75
+dated_from: -606
+dated_to: -599
 tags: ["chapter", "ot", "prophets"]
 ---
 
 # Jeremiah 10
 
 ← [[connections/chapters/24-jeremiah/Jeremiah 9|Jeremiah 9]] · [[connections/books/Jeremiah|Jeremiah]] · [[connections/chapters/24-jeremiah/Jeremiah 11|Jeremiah 11]] →
+
+**Dated** *(Ussher, after the Treasury of Scripture Knowledge)*: [[connections/timeline/7th century BC|607 BC]] – [[connections/timeline/6th century BC|600 BC]]
 
 ## Text
 

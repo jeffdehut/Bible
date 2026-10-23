@@ -7,6 +7,9 @@ original: ["כּ֫וֹרֶשׁ", "כּ֫וֹרֶשׁ"]
 verses: 19
 chapters: 11
 first: "2 Chronicles 36:22"
+placed: "536 BC"
+placed_year: -535
+sex: "male"
 tags: ["person"]
 ---
 
@@ -15,6 +18,16 @@ tags: ["person"]
 Persian Emperor who decreed the rebuilding of the Temple
 
 **Original-language names:** כּ֫וֹרֶשׁ (H3566) · כּ֫וֹרֶשׁ (H3567)
+
+## When
+
+- **Placed around:** [[connections/timeline/6th century BC|536 BC]] *(Ussher: the median date of the passages naming them)*
+- **Reigned / in office:** [[connections/timeline/6th century BC|559 BC]] – [[connections/timeline/6th century BC|530 BC]] *(modern dates)* · Cyrus II, Persia · [Wikidata Q8423](https://www.wikidata.org/wiki/Q8423) · King of Babylon from 539 BC
+
+## Family
+
+- **Tribe or nation:** Persia
+
 
 ## Appears in
 

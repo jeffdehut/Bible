@@ -7,6 +7,10 @@ original: ["חָנוּן"]
 verses: 8
 chapters: 2
 first: "2 Samuel 10:1"
+placed: "1037 BC"
+placed_year: -1036
+generation: 2
+sex: "male"
 tags: ["person"]
 ---
 
@@ -15,6 +19,26 @@ tags: ["person"]
 An Ammonite king who mistreated David's envoys.
 
 **Original-language names:** חָנוּן (H2586)
+
+## When
+
+- **Placed around:** [[connections/timeline/11th century BC|1037 BC]] *(Ussher: the median date of the passages naming them)*
+
+## Family
+
+- **Father:** [[connections/people/Nahash (2 Samuel 10.2)|Nahash (2 Samuel 10.2)]]
+- **Tribe or nation:** Ammon
+
+**Family group:** [[connections/genealogy/Family of Nahash (2 Samuel 10.2)|Family of Nahash (2 Samuel 10.2)]], generation 2
+
+```mermaid
+flowchart TB
+  n0["Hanun (2 Samuel 10.1)"]:::me
+  n1["Nahash (2 Samuel 10.2)"]
+  n1 --> n0
+  classDef me stroke-width:3px
+  classDef spouse stroke-dasharray:4
+```
 
 ## Appears in
 

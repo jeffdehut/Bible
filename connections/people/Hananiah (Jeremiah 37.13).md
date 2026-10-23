@@ -7,6 +7,10 @@ original: ["חֲנַנְיָ֫הוּ"]
 verses: 1
 chapters: 1
 first: "Jeremiah 37:13"
+placed: "598 BC"
+placed_year: -597
+generation: 1
+sex: "male"
 tags: ["person"]
 ---
 
@@ -15,6 +19,25 @@ tags: ["person"]
 A gatekeeper during the time of Jeremiah.
 
 **Original-language names:** חֲנַנְיָ֫הוּ (H2608a)
+
+## When
+
+- **Placed around:** [[connections/timeline/6th century BC|598 BC]] *(Ussher: the median date of the passages naming them)*
+
+## Family
+
+- **Children:** [[connections/people/Shelemiah (Jeremiah 37.13)|Shelemiah (Jeremiah 37.13)]]
+
+**Family group:** [[connections/genealogy/Family of Hananiah (Jeremiah 37.13)|Family of Hananiah (Jeremiah 37.13)]], generation 1
+
+```mermaid
+flowchart TB
+  n0["Hananiah (Jeremiah 37.13)"]:::me
+  n1["Shelemiah (Jeremiah 37.13)"]
+  n0 --> n1
+  classDef me stroke-width:3px
+  classDef spouse stroke-dasharray:4
+```
 
 ## Appears in
 

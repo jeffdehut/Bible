@@ -7,6 +7,9 @@ original: ["הוֹשַׁעֲיָה"]
 verses: 1
 chapters: 1
 first: "Nehemiah 12:32"
+placed: "445 BC"
+placed_year: -444
+sex: "male"
 tags: ["person"]
 ---
 
@@ -15,6 +18,10 @@ tags: ["person"]
 A leader during the dedication of Jerusalem's wall.
 
 **Original-language names:** הוֹשַׁעֲיָה (H1955)
+
+## When
+
+- **Placed around:** [[connections/timeline/5th century BC|445 BC]] *(Ussher: the median date of the passages naming them)*
 
 ## Appears in
 

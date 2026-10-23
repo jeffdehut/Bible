@@ -7,6 +7,9 @@ original: ["שֶׁלֶמְיָהוּ"]
 verses: 1
 chapters: 1
 first: "Nehemiah 13:13"
+placed: "445 BC"
+placed_year: -444
+sex: "male"
 tags: ["person"]
 ---
 
@@ -15,6 +18,10 @@ tags: ["person"]
 Priest appointed as a treasurer
 
 **Original-language names:** שֶׁלֶמְיָהוּ (H8018)
+
+## When
+
+- **Placed around:** [[connections/timeline/5th century BC|445 BC]] *(Ussher: the median date of the passages naming them)*
 
 ## Appears in
 

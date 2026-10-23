@@ -7,6 +7,9 @@ original: ["חֵנָדָד"]
 verses: 2
 chapters: 2
 first: "Ezra 3:9"
+placed: "445 BC"
+placed_year: -444
+sex: "male"
 tags: ["person"]
 ---
 
@@ -15,6 +18,10 @@ tags: ["person"]
 A Levite whose sons assisted in rebuilding the temple.
 
 **Original-language names:** חֵנָדָד (H2582)
+
+## When
+
+- **Placed around:** [[connections/timeline/5th century BC|445 BC]] *(Ussher: the median date of the passages naming them)*
 
 ## Appears in
 

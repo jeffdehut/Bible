@@ -7,6 +7,9 @@ original: ["אוּרִיָּה", "Οὐρίας"]
 verses: 22
 chapters: 6
 first: "2 Samuel 11:3"
+placed: "1035 BC"
+placed_year: -1034
+sex: "male"
 tags: ["person"]
 ---
 
@@ -15,6 +18,23 @@ tags: ["person"]
 Hittite soldier; husband of Bathsheba
 
 **Original-language names:** אוּרִיָּה (H0223a) · Οὐρίας (G3774)
+
+## When
+
+- **Placed around:** [[connections/timeline/11th century BC|1035 BC]] *(Ussher: the median date of the passages naming them)*
+
+## Family
+
+- **Spouses:** [[connections/people/Bathsheba|Bathsheba]]
+
+```mermaid
+flowchart TB
+  n0["Uriah (2 Samuel 11.3)"]:::me
+  n1["Bathsheba"]:::spouse
+  n0 -.- n1
+  classDef me stroke-width:3px
+  classDef spouse stroke-dasharray:4
+```
 
 ## Appears in
 

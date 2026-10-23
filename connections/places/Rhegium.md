@@ -17,6 +17,11 @@ Italian city visited by Paul
 
 **Original-language names:** Ῥήγιον (G4484)
 
+## Events
+
+- [[connections/timeline/1st century AD|AD 56]] · [[connections/events/Paul's Journey to Rome|Paul's Journey to Rome]]
+- [[connections/timeline/1st century AD|AD 57]] · [[connections/events/Paul arrives at Rome|Paul arrives at Rome]]
+
 ## Appears in
 
 [[connections/chapters/44-acts/Acts 28|Acts 28]]

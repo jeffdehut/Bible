@@ -7,6 +7,9 @@ original: ["פַּרְעֹה"]
 verses: 4
 chapters: 1
 first: "Genesis 12:15"
+placed: "1920 BC"
+placed_year: -1919
+sex: "male"
 tags: ["person"]
 ---
 
@@ -15,6 +18,20 @@ tags: ["person"]
 Egyptian ruler during Abraham's visit
 
 **Original-language names:** פַּרְעֹה (H6547)
+
+## When
+
+- **Placed around:** [[connections/timeline/20th century BC|1920 BC]] *(Ussher: the median date of the passages naming them)*
+
+## Family
+
+- **Tribe or nation:** Egypt
+
+
+## Events
+
+- [[connections/timeline/20th century BC|1921 BC]] · [[connections/events/Abraham goes to Egypt|Abraham goes to Egypt]]
+- [[connections/timeline/20th century BC|1921 BC]] · [[connections/events/Sojourn in Canaan and Egypt|Sojourn in Canaan and Egypt]]
 
 ## Appears in
 

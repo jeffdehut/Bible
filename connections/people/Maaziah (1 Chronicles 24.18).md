@@ -7,6 +7,9 @@ original: ["מַעַזְיָהוּ"]
 verses: 1
 chapters: 1
 first: "1 Chronicles 24:18"
+placed: "1015 BC"
+placed_year: -1014
+sex: "male"
 tags: ["person"]
 ---
 
@@ -15,6 +18,10 @@ tags: ["person"]
 Priest who served in the 24th division
 
 **Original-language names:** מַעַזְיָהוּ (H4590)
+
+## When
+
+- **Placed around:** [[connections/timeline/11th century BC|1015 BC]] *(Ussher: the median date of the passages naming them)*
 
 ## Appears in
 

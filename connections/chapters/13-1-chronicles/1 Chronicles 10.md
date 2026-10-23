@@ -7,12 +7,16 @@ language: "Hebrew"
 verses: 14
 cross_references_out: 4
 cross_references_in: 5
+dated_from: -1055
+dated_to: -1055
 tags: ["chapter", "ot", "history"]
 ---
 
 # 1 Chronicles 10
 
 ← [[connections/chapters/13-1-chronicles/1 Chronicles 9|1 Chronicles 9]] · [[connections/books/1 Chronicles|1 Chronicles]] · [[connections/chapters/13-1-chronicles/1 Chronicles 11|1 Chronicles 11]] →
+
+**Dated** *(Ussher, after the Treasury of Scripture Knowledge)*: [[connections/timeline/11th century BC|1056 BC]]
 
 ## Text
 

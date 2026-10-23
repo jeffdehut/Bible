@@ -7,6 +7,10 @@ original: ["יֵהוּא"]
 verses: 5
 chapters: 3
 first: "1 Kings 16:1"
+placed: "929 BC"
+placed_year: -928
+generation: 2
+sex: "male"
 tags: ["person"]
 ---
 
@@ -15,6 +19,25 @@ tags: ["person"]
 Son of Hanani, prophet during the reign of Baasha and Jehoshaphat.
 
 **Original-language names:** יֵהוּא (H3058)
+
+## When
+
+- **Placed around:** [[connections/timeline/10th century BC|929 BC]] *(Ussher: the median date of the passages naming them)*
+
+## Family
+
+- **Father:** [[connections/people/Hanani (1 Kings 16.1)|Hanani (1 Kings 16.1)]]
+
+**Family group:** [[connections/genealogy/Family of Hanani (1 Kings 16.1)|Family of Hanani (1 Kings 16.1)]], generation 2
+
+```mermaid
+flowchart TB
+  n0["Jehu (1 Kings 16.1)"]:::me
+  n1["Hanani (1 Kings 16.1)"]
+  n1 --> n0
+  classDef me stroke-width:3px
+  classDef spouse stroke-dasharray:4
+```
 
 ## Appears in
 

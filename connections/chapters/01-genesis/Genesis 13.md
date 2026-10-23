@@ -7,12 +7,16 @@ language: "Hebrew/Aramaic"
 verses: 18
 cross_references_out: 6
 cross_references_in: 29
+dated_from: -1917
+dated_to: -1916
 tags: ["chapter", "ot", "torah"]
 ---
 
 # Genesis 13
 
 ← [[connections/chapters/01-genesis/Genesis 12|Genesis 12]] · [[connections/books/Genesis|Genesis]] · [[connections/chapters/01-genesis/Genesis 14|Genesis 14]] →
+
+**Dated** *(Ussher, after the Treasury of Scripture Knowledge)*: [[connections/timeline/20th century BC|1918 BC]] – [[connections/timeline/20th century BC|1917 BC]]
 
 ## Text
 

@@ -7,12 +7,16 @@ language: "Hebrew"
 verses: 17
 cross_references_out: 6
 cross_references_in: 22
+dated_from: -518
+dated_to: -518
 tags: ["chapter", "ot", "prophets"]
 ---
 
 # Zechariah 1
 
 ← [[connections/chapters/37-haggai/Haggai 2|Haggai 2]] · [[connections/books/Zechariah|Zechariah]] · [[connections/chapters/38-zechariah/Zechariah 2|Zechariah 2]] →
+
+**Dated** *(Ussher, after the Treasury of Scripture Knowledge)*: [[connections/timeline/6th century BC|519 BC]]
 
 ## Text
 

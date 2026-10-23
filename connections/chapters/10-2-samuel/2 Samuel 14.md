@@ -7,12 +7,16 @@ language: "Hebrew"
 verses: 33
 cross_references_out: 6
 cross_references_in: 7
+dated_from: -1026
+dated_to: -1024
 tags: ["chapter", "ot", "history"]
 ---
 
 # 2 Samuel 14
 
 ← [[connections/chapters/10-2-samuel/2 Samuel 13|2 Samuel 13]] · [[connections/books/2 Samuel|2 Samuel]] · [[connections/chapters/10-2-samuel/2 Samuel 15|2 Samuel 15]] →
+
+**Dated** *(Ussher, after the Treasury of Scripture Knowledge)*: [[connections/timeline/11th century BC|1027 BC]] – [[connections/timeline/11th century BC|1025 BC]]
 
 ## Text
 

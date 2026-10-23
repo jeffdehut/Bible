@@ -17,6 +17,11 @@ A major Phoenician port city, known for its trade
 
 **Original-language names:** צֹר (H6865) · Τύριος (G5183) · Τύρος (G5184)
 
+## Events
+
+- [[connections/timeline/1st century AD|AD 29]] · [[connections/events/Healing Canaanite Daughter|Healing Canaanite Daughter]]
+- [[connections/timeline/1st century AD|AD 54]] · [[connections/events/Voyage from Miletus to Jerusalem|Voyage from Miletus to Jerusalem]]
+
 ## Appears in
 
 [[connections/chapters/06-joshua/Joshua 19|Joshua 19]] · [[connections/chapters/10-2-samuel/2 Samuel 5|2 Samuel 5]] · [[connections/chapters/10-2-samuel/2 Samuel 24|2 Samuel 24]] · [[connections/chapters/11-1-kings/1 Kings 5|1 Kings 5]] · [[connections/chapters/11-1-kings/1 Kings 7|1 Kings 7]] · [[connections/chapters/11-1-kings/1 Kings 9|1 Kings 9 (2)]] · [[connections/chapters/13-1-chronicles/1 Chronicles 14|1 Chronicles 14]] · [[connections/chapters/14-2-chronicles/2 Chronicles 2|2 Chronicles 2 (2)]] · [[connections/chapters/19-psalms/Psalms 45|Psalms 45]] · [[connections/chapters/19-psalms/Psalms 83|Psalms 83]] · [[connections/chapters/19-psalms/Psalms 87|Psalms 87]] · [[connections/chapters/23-isaiah/Isaiah 23|Isaiah 23 (5)]] · [[connections/chapters/24-jeremiah/Jeremiah 25|Jeremiah 25]] · [[connections/chapters/24-jeremiah/Jeremiah 27|Jeremiah 27]] · [[connections/chapters/24-jeremiah/Jeremiah 47|Jeremiah 47]] · [[connections/chapters/26-ezekiel/Ezekiel 26|Ezekiel 26 (5)]] · [[connections/chapters/26-ezekiel/Ezekiel 27|Ezekiel 27 (4)]] · [[connections/chapters/26-ezekiel/Ezekiel 28|Ezekiel 28 (2)]] · [[connections/chapters/26-ezekiel/Ezekiel 29|Ezekiel 29]] · [[connections/chapters/28-hosea/Hosea 9|Hosea 9]] · [[connections/chapters/29-joel/Joel 4|Joel 4]] · [[connections/chapters/30-amos/Amos 1|Amos 1 (2)]] · [[connections/chapters/38-zechariah/Zechariah 9|Zechariah 9 (2)]] · [[connections/chapters/40-matthew/Matthew 11|Matthew 11 (2)]] · [[connections/chapters/40-matthew/Matthew 15|Matthew 15]] · [[connections/chapters/41-mark/Mark 3|Mark 3]] · [[connections/chapters/41-mark/Mark 7|Mark 7 (2)]] · [[connections/chapters/42-luke/Luke 6|Luke 6]] · [[connections/chapters/42-luke/Luke 10|Luke 10 (2)]] · [[connections/chapters/44-acts/Acts 12|Acts 12]] · [[connections/chapters/44-acts/Acts 21|Acts 21 (2)]]

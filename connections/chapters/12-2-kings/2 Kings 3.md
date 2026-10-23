@@ -7,12 +7,16 @@ language: "Hebrew"
 verses: 27
 cross_references_out: 14
 cross_references_in: 5
+dated_from: -894
+dated_to: -894
 tags: ["chapter", "ot", "history"]
 ---
 
 # 2 Kings 3
 
 ← [[connections/chapters/12-2-kings/2 Kings 2|2 Kings 2]] · [[connections/books/2 Kings|2 Kings]] · [[connections/chapters/12-2-kings/2 Kings 4|2 Kings 4]] →
+
+**Dated** *(Ussher, after the Treasury of Scripture Knowledge)*: [[connections/timeline/9th century BC|895 BC]]
 
 ## Text
 

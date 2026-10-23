@@ -7,12 +7,16 @@ language: "Hebrew"
 verses: 25
 cross_references_out: 90
 cross_references_in: 76
+dated_from: -1060
+dated_to: -1060
 tags: ["chapter", "ot", "wisdom"]
 ---
 
 # Psalms 31
 
 ← [[connections/chapters/19-psalms/Psalms 30|Psalms 30]] · [[connections/books/Psalms|Psalms]] · [[connections/chapters/19-psalms/Psalms 32|Psalms 32]] →
+
+**Dated** *(Ussher, after the Treasury of Scripture Knowledge)*: [[connections/timeline/11th century BC|1061 BC]]
 
 ## Text
 

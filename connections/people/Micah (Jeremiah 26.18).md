@@ -7,6 +7,9 @@ original: ["מִיכָה", "מִיכָיָה"]
 verses: 2
 chapters: 2
 first: "Jeremiah 26:18"
+placed: "610 BC"
+placed_year: -609
+sex: "male"
 tags: ["person"]
 ---
 
@@ -15,6 +18,14 @@ tags: ["person"]
 A prophet from Moresheth during the reigns of Jotham, Ahaz, and Hezekiah.
 
 **Original-language names:** מִיכָה (H4318) · מִיכָיָה (H4320)
+
+## When
+
+- **Placed around:** [[connections/timeline/7th century BC|610 BC]] *(Ussher: the median date of the passages naming them)*
+
+## Events
+
+- [[connections/timeline/8th century BC|754 BC]] · [[connections/events/Prophecies of Micah|Prophecies of Micah]]
 
 ## Appears in
 

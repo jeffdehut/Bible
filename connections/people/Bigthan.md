@@ -7,6 +7,9 @@ original: ["בִּגְתָן", "בִּגְתָנָא"]
 verses: 2
 chapters: 2
 first: "Esther 2:21"
+placed: "453 BC"
+placed_year: -452
+sex: "male"
 tags: ["person"]
 ---
 
@@ -15,6 +18,10 @@ tags: ["person"]
 Persian official who plotted against King Ahasuerus
 
 **Original-language names:** בִּגְתָן (H0904) · בִּגְתָנָא (H0904)
+
+## When
+
+- **Placed around:** [[connections/timeline/5th century BC|453 BC]] *(Ussher: the median date of the passages naming them)*
 
 ## Appears in
 

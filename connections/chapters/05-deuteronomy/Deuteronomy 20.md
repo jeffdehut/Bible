@@ -7,12 +7,16 @@ language: "Hebrew"
 verses: 20
 cross_references_out: 20
 cross_references_in: 23
+dated_from: -1450
+dated_to: -1450
 tags: ["chapter", "ot", "torah"]
 ---
 
 # Deuteronomy 20
 
 ← [[connections/chapters/05-deuteronomy/Deuteronomy 19|Deuteronomy 19]] · [[connections/books/Deuteronomy|Deuteronomy]] · [[connections/chapters/05-deuteronomy/Deuteronomy 21|Deuteronomy 21]] →
+
+**Dated** *(Ussher, after the Treasury of Scripture Knowledge)*: [[connections/timeline/15th century BC|1451 BC]]
 
 ## Text
 

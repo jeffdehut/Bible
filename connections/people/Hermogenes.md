@@ -7,6 +7,9 @@ original: ["Ἑρμογένης"]
 verses: 1
 chapters: 1
 first: "2 Timothy 1:15"
+placed: "AD 66"
+placed_year: 66
+sex: "male"
 tags: ["person"]
 ---
 
@@ -15,6 +18,10 @@ tags: ["person"]
 A believer who deserted Paul in Asia.
 
 **Original-language names:** Ἑρμογένης (G2061)
+
+## When
+
+- **Placed around:** [[connections/timeline/1st century AD|AD 66]] *(Ussher: the median date of the passages naming them)*
 
 ## Appears in
 

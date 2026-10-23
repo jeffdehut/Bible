@@ -7,12 +7,16 @@ language: "Hebrew"
 verses: 25
 cross_references_out: 8
 cross_references_in: 8
+dated_from: -1244
+dated_to: -1244
 tags: ["chapter", "ot", "history"]
 ---
 
 # Judges 7
 
 ← [[connections/chapters/07-judges/Judges 6|Judges 6]] · [[connections/books/Judges|Judges]] · [[connections/chapters/07-judges/Judges 8|Judges 8]] →
+
+**Dated** *(Ussher, after the Treasury of Scripture Knowledge)*: [[connections/timeline/13th century BC|1245 BC]]
 
 ## Text
 

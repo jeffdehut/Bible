@@ -7,12 +7,16 @@ language: "Hebrew"
 verses: 25
 cross_references_out: 17
 cross_references_in: 36
+dated_from: -593
+dated_to: -593
 tags: ["chapter", "ot", "prophets"]
 ---
 
 # Ezekiel 11
 
 ← [[connections/chapters/26-ezekiel/Ezekiel 10|Ezekiel 10]] · [[connections/books/Ezekiel|Ezekiel]] · [[connections/chapters/26-ezekiel/Ezekiel 12|Ezekiel 12]] →
+
+**Dated** *(Ussher, after the Treasury of Scripture Knowledge)*: [[connections/timeline/6th century BC|594 BC]]
 
 ## Text
 

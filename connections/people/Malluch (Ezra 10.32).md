@@ -7,6 +7,9 @@ original: ["מַלּוּךְ"]
 verses: 1
 chapters: 1
 first: "Ezra 10:32"
+placed: "456 BC"
+placed_year: -455
+sex: "male"
 tags: ["person"]
 ---
 
@@ -15,6 +18,10 @@ tags: ["person"]
 Descendant of Harim, who divorced his foreign wife.
 
 **Original-language names:** מַלּוּךְ (H4409a)
+
+## When
+
+- **Placed around:** [[connections/timeline/5th century BC|456 BC]] *(Ussher: the median date of the passages naming them)*
 
 ## Appears in
 

@@ -7,12 +7,16 @@ language: "Hebrew"
 verses: 37
 cross_references_out: 6
 cross_references_in: 23
+dated_from: -709
+dated_to: -709
 tags: ["chapter", "ot", "history"]
 ---
 
 # 2 Kings 19
 
 ← [[connections/chapters/12-2-kings/2 Kings 18|2 Kings 18]] · [[connections/books/2 Kings|2 Kings]] · [[connections/chapters/12-2-kings/2 Kings 20|2 Kings 20]] →
+
+**Dated** *(Ussher, after the Treasury of Scripture Knowledge)*: [[connections/timeline/8th century BC|710 BC]]
 
 ## Text
 

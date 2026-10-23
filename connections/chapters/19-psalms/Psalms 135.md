@@ -7,12 +7,16 @@ language: "Hebrew"
 verses: 21
 cross_references_out: 13
 cross_references_in: 24
+dated_from: -1003
+dated_to: -1003
 tags: ["chapter", "ot", "wisdom"]
 ---
 
 # Psalms 135
 
 ← [[connections/chapters/19-psalms/Psalms 134|Psalms 134]] · [[connections/books/Psalms|Psalms]] · [[connections/chapters/19-psalms/Psalms 136|Psalms 136]] →
+
+**Dated** *(Ussher, after the Treasury of Scripture Knowledge)*: [[connections/timeline/11th century BC|1004 BC]]
 
 ## Text
 

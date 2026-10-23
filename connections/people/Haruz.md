@@ -7,6 +7,10 @@ original: ["חָרוּץ"]
 verses: 1
 chapters: 1
 first: "2 Kings 21:19"
+placed: "643 BC"
+placed_year: -642
+generation: 1
+sex: "male"
 tags: ["person"]
 ---
 
@@ -15,6 +19,25 @@ tags: ["person"]
 Father of Meshullemeth, wife of King Manasseh.
 
 **Original-language names:** חָרוּץ (H2743)
+
+## When
+
+- **Placed around:** [[connections/timeline/7th century BC|643 BC]] *(Ussher: the median date of the passages naming them)*
+
+## Family
+
+- **Children:** [[connections/people/Meshullemeth|Meshullemeth]]
+
+**Family group:** [[connections/genealogy/Family of Adam|Family of Adam]], generation 1
+
+```mermaid
+flowchart TB
+  n0["Haruz"]:::me
+  n1["Meshullemeth"]
+  n0 --> n1
+  classDef me stroke-width:3px
+  classDef spouse stroke-dasharray:4
+```
 
 ## Appears in
 

@@ -7,6 +7,9 @@ original: ["נְקוֹדָא"]
 verses: 2
 chapters: 2
 first: "Ezra 2:60"
+placed: "445 BC"
+placed_year: -444
+sex: "male"
 tags: ["person"]
 ---
 
@@ -15,6 +18,10 @@ tags: ["person"]
 Family excluded from the priesthood after the Exile.
 
 **Original-language names:** נְקוֹדָא (H5353)
+
+## When
+
+- **Placed around:** [[connections/timeline/5th century BC|445 BC]] *(Ussher: the median date of the passages naming them)*
 
 ## Appears in
 

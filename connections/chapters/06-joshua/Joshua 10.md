@@ -7,12 +7,16 @@ language: "Hebrew"
 verses: 43
 cross_references_out: 23
 cross_references_in: 25
+dated_from: -1450
+dated_to: -1450
 tags: ["chapter", "ot", "history"]
 ---
 
 # Joshua 10
 
 ← [[connections/chapters/06-joshua/Joshua 9|Joshua 9]] · [[connections/books/Joshua|Joshua]] · [[connections/chapters/06-joshua/Joshua 11|Joshua 11]] →
+
+**Dated** *(Ussher, after the Treasury of Scripture Knowledge)*: [[connections/timeline/15th century BC|1451 BC]]
 
 ## Text
 

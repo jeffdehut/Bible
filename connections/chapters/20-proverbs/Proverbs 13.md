@@ -7,12 +7,16 @@ language: "Hebrew"
 verses: 25
 cross_references_out: 101
 cross_references_in: 75
+dated_from: -999
+dated_to: -999
 tags: ["chapter", "ot", "wisdom"]
 ---
 
 # Proverbs 13
 
 ← [[connections/chapters/20-proverbs/Proverbs 12|Proverbs 12]] · [[connections/books/Proverbs|Proverbs]] · [[connections/chapters/20-proverbs/Proverbs 14|Proverbs 14]] →
+
+**Dated** *(Ussher, after the Treasury of Scripture Knowledge)*: [[connections/timeline/10th century BC|1000 BC]]
 
 ## Text
 

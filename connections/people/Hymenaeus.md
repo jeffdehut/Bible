@@ -7,6 +7,9 @@ original: ["Ὑμεναῖος"]
 verses: 2
 chapters: 2
 first: "1 Timothy 1:20"
+placed: "AD 66"
+placed_year: 66
+sex: "male"
 tags: ["person"]
 ---
 
@@ -15,6 +18,10 @@ tags: ["person"]
 A man who rejected faith and good conscience.
 
 **Original-language names:** Ὑμεναῖος (G5211)
+
+## When
+
+- **Placed around:** [[connections/timeline/1st century AD|AD 66]] *(Ussher: the median date of the passages naming them)*
 
 ## Appears in
 

@@ -7,12 +7,16 @@ language: "Hebrew/Aramaic"
 verses: 32
 cross_references_out: 11
 cross_references_in: 17
+dated_from: -3873
+dated_to: -2347
 tags: ["chapter", "ot", "torah"]
 ---
 
 # Genesis 5
 
 ← [[connections/chapters/01-genesis/Genesis 4|Genesis 4]] · [[connections/books/Genesis|Genesis]] · [[connections/chapters/01-genesis/Genesis 6|Genesis 6]] →
+
+**Dated** *(Ussher, after the Treasury of Scripture Knowledge)*: [[connections/timeline/39th century BC|3874 BC]] – [[connections/timeline/24th century BC|2348 BC]]
 
 ## Text
 

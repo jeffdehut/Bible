@@ -28,8 +28,11 @@ text/
   greek-tr/40-matthew.md …       Textus Receptus (Scrivener 1894), for comparison
 apparatus/
   greek/40-matthew.md …          SBLGNT apparatus: variant readings, verse by verse
-connections/                     Obsidian notes linking chapters, people and places (see below)
+connections/                     Obsidian notes: cross-references, people, places, genealogy, timeline
   README.md                      Start here: how to explore the connections in Obsidian
+  genealogy/                     Family groups, generation by generation
+  events/ timeline/              Dated events, century notes, synchronisms, the chart
+data/                            Curated rulers and synchronisms for the timeline (see data/README.md)
 books.json                       Index: names, OSIS ids, languages, counts, paths, Tanakh order
 sources/                         Raw upstream files, byte for byte (see sources/README.md)
 scripts/
@@ -37,6 +40,8 @@ scripts/
   build.py                       Regenerates text/, apparatus/ and books.json from sources/
   verify.py                      Checks every verse against the published editions
   connections.py                 Builds connections/ from open cross-reference and name data
+  genealogy.py, chronology.py,   Family graph (TIPNR), dates (Theographic), timeline notes,
+  timeline.py, chart.py          and the synchronological chart
 .obsidian/                       Obsidian settings: graph colors and filters
 VERIFICATION.md                  What was checked, what was found, what was fixed
 ```
@@ -80,8 +85,21 @@ as links that Obsidian's graph view can show:
    same verse, as in Harrison's social network.
 3. **Where names occur:** every person and place note lists the chapters it appears in.
 
-The data is open: OpenBible.info cross-references, and STEPBible's tagged names and
-verse-numbering mapping. Start with [connections/README.md](connections/README.md).
+It adds a genealogy and a timeline modeled on Sebastian C. Adams' *Synchronological Chart*
+(1871):
+
+4. **Genealogy:** every family relationship in STEPBible's TIPNR, covering
+   1,921 parent-child links in 330 family groups. Each person note has a
+   family section, a family tree, and the line of descent from father to son. The Family of
+   Adam runs 78 generations. The genealogy is cross-checked against Theographic.
+5. **Timeline:** 42 century notes from Creation to the apostles, and 450 dated events.
+   Ussher's dates appear on 28,020 verses, the chronology Adams used. A table
+   compares Ussher with modern dates for events outside sources also date. An SVG chart in
+   Adams' style draws the Bible's streams beside the surrounding nations.
+
+The data is open: OpenBible.info cross-references; STEPBible's tagged names, family links and
+verse-numbering mapping; Theographic's dates; and Wikidata identifiers. Start with
+[connections/README.md](connections/README.md).
 
 ## Rebuilding and verifying
 
@@ -136,12 +154,17 @@ the printed 1894 edition.
   Testament. Copyright © 2010 Society of Biblical Literature and Logos Bible Software.*
   The license text is in `sources/greek-sblgnt/LICENSE`.
 - **Scrivener 1894** (Robinson's digitization): public domain.
+- **`connections/`**: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). The notes
+  combine OpenBible.info (CC BY), STEPBible (CC BY 4.0) and Theographic (CC BY-SA 4.0) data,
+  so they inherit Theographic's share-alike terms. See `connections/README.md` for
+  attributions.
 
 ## Ideas for next steps
 
 - Word-level morphology and lemmas: MorphGNT for the SBLGNT, and the Open Scriptures Hebrew
   Bible for the Hebrew
 - A lexicon/word-study layer keyed to verses
-- Family-tree links (parents, siblings, children) from TIPNR, alongside the same-verse links
+- More synchronisms and world-history streams (Egyptian dynasties, Greek city-states, China and
+  India, as on Adams' chart), and the modern Thiele dates for the kings of Israel and Judah
 - Add the Robinson-Pierpont Byzantine text (public domain) as a further comparison edition
 - A small reader or search tool built on `books.json` + `text/`

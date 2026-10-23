@@ -7,6 +7,9 @@ original: ["שְׁמַעְיָ֫הוּ"]
 verses: 4
 chapters: 2
 first: "Nehemiah 10:9"
+placed: "445 BC"
+placed_year: -444
+sex: "male"
 tags: ["person"]
 ---
 
@@ -15,6 +18,10 @@ tags: ["person"]
 Priest who sealed the covenant
 
 **Original-language names:** שְׁמַעְיָ֫הוּ (H8098)
+
+## When
+
+- **Placed around:** [[connections/timeline/5th century BC|445 BC]] *(Ussher: the median date of the passages naming them)*
 
 ## Appears in
 

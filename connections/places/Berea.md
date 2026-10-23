@@ -17,6 +17,10 @@ City in Macedonia where Paul preached; home of Sopater.
 
 **Original-language names:** Βέροια (G0960)
 
+## Events
+
+- [[connections/timeline/1st century AD|AD 48]] · [[connections/events/Mission to Berea|Mission to Berea]]
+
 ## Appears in
 
 [[connections/chapters/44-acts/Acts 17|Acts 17 (2)]]

@@ -8,6 +8,9 @@ original: ["בָּנִי", "בִּנּוּי"]
 verses: 5
 chapters: 4
 first: "Nehemiah 8:7"
+placed: "445 BC"
+placed_year: -444
+sex: "male"
 tags: ["person"]
 ---
 
@@ -18,6 +21,10 @@ A Levite who taught the Law and led prayers.
 **Also called:** Binnui
 
 **Original-language names:** בָּנִי (H1137) · בִּנּוּי (H1131)
+
+## When
+
+- **Placed around:** [[connections/timeline/5th century BC|445 BC]] *(Ussher: the median date of the passages naming them)*
 
 ## Appears in
 

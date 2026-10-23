@@ -7,6 +7,7 @@ original: ["נְתַן־מֶ֫לֶךְ"]
 verses: 1
 chapters: 1
 first: "2 Kings 23:11"
+sex: "male"
 tags: ["person"]
 ---
 

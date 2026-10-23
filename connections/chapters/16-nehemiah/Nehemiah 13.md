@@ -7,12 +7,16 @@ language: "Hebrew"
 verses: 31
 cross_references_out: 5
 cross_references_in: 26
+dated_from: -444
+dated_to: -444
 tags: ["chapter", "ot", "history"]
 ---
 
 # Nehemiah 13
 
 ← [[connections/chapters/16-nehemiah/Nehemiah 12|Nehemiah 12]] · [[connections/books/Nehemiah|Nehemiah]] · [[connections/chapters/17-esther/Esther 1|Esther 1]] →
+
+**Dated** *(Ussher, after the Treasury of Scripture Knowledge)*: [[connections/timeline/5th century BC|445 BC]]
 
 ## Text
 

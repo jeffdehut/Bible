@@ -7,6 +7,9 @@ original: ["שֵׁרֵֽבְיָה"]
 verses: 5
 chapters: 3
 first: "Ezra 8:18"
+placed: "445 BC"
+placed_year: -444
+sex: "male"
 tags: ["person"]
 ---
 
@@ -15,6 +18,10 @@ tags: ["person"]
 Levite who assisted Ezra and Nehemiah
 
 **Original-language names:** שֵׁרֵֽבְיָה (H8274)
+
+## When
+
+- **Placed around:** [[connections/timeline/5th century BC|445 BC]] *(Ussher: the median date of the passages naming them)*
 
 ## Appears in
 

@@ -20,6 +20,10 @@ Ancient Greek city; recipient of Paul's epistles
 
 **Original-language names:** Κόρινθος (G2882) · Κορίνθιος (G2881)
 
+## Events
+
+- [[connections/timeline/1st century AD|AD 49]] · [[connections/events/Mission to Corinth, 1&2 Thess Written|Mission to Corinth, 1&2 Thess Written]]
+
 ## Appears in
 
 [[connections/chapters/44-acts/Acts 18|Acts 18]] · [[connections/chapters/44-acts/Acts 19|Acts 19]] · [[connections/chapters/45-romans/Romans 16|Romans 16]] · [[connections/chapters/46-1-corinthians/1 Corinthians 1|1 Corinthians 1]] · [[connections/chapters/46-1-corinthians/1 Corinthians 16|1 Corinthians 16]] · [[connections/chapters/47-2-corinthians/2 Corinthians 1|2 Corinthians 1 (2)]] · [[connections/chapters/47-2-corinthians/2 Corinthians 13|2 Corinthians 13]] · [[connections/chapters/55-2-timothy/2 Timothy 4|2 Timothy 4]]

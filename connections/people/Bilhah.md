@@ -7,6 +7,10 @@ original: ["בִּלְהָה"]
 verses: 10
 chapters: 6
 first: "Genesis 29:29"
+placed: "1729 BC"
+placed_year: -1728
+generation: 25
+sex: "female"
 tags: ["person"]
 ---
 
@@ -15,6 +19,35 @@ tags: ["person"]
 Rachel's maidservant and mother of Dan and Naphtali
 
 **Original-language names:** בִּלְהָה (H1090a)
+
+## When
+
+- **Placed around:** [[connections/timeline/18th century BC|1729 BC]] *(Ussher: the median date of the passages naming them)*
+
+## Family
+
+- **Spouses:** [[connections/people/Israel|Israel]]
+- **Children:** [[connections/people/Dan|Dan]], [[connections/people/Naphtali|Naphtali]]
+
+**Family group:** [[connections/genealogy/Family of Adam|Family of Adam]], generation 25
+
+```mermaid
+flowchart TB
+  n0["Bilhah"]:::me
+  n1["Israel"]:::spouse
+  n0 -.- n1
+  n2["Dan"]
+  n0 --> n2
+  n3["Naphtali"]
+  n0 --> n3
+  classDef me stroke-width:3px
+  classDef spouse stroke-dasharray:4
+```
+
+## Events
+
+- [[connections/timeline/18th century BC|1755 BC]] · [[connections/events/Birth of Dan|Birth of Dan]]
+- [[connections/timeline/18th century BC|1754 BC]] · [[connections/events/Birth of Naphtali|Birth of Naphtali]]
 
 ## Appears in
 

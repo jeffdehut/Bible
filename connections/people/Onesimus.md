@@ -7,6 +7,9 @@ original: ["Ὀνήσιμος"]
 verses: 4
 chapters: 2
 first: "Colossians 4:9"
+placed: "AD 64"
+placed_year: 64
+sex: "male"
 tags: ["person"]
 ---
 
@@ -15,6 +18,10 @@ tags: ["person"]
 Runaway slave, convert of Paul
 
 **Original-language names:** Ὀνήσιμος (G3682)
+
+## When
+
+- **Placed around:** [[connections/timeline/1st century AD|AD 64]] *(Ussher: the median date of the passages naming them)*
 
 ## Appears in
 

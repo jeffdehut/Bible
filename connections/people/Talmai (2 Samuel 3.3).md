@@ -7,6 +7,10 @@ original: ["תַּלְמַי"]
 verses: 3
 chapters: 3
 first: "2 Samuel 3:3"
+placed: "1048 BC"
+placed_year: -1047
+generation: 2
+sex: "male"
 tags: ["person"]
 ---
 
@@ -15,6 +19,29 @@ tags: ["person"]
 King of Geshur; father of David's wife Maacah
 
 **Original-language names:** תַּלְמַי (H8526)
+
+## When
+
+- **Placed around:** [[connections/timeline/11th century BC|1048 BC]] *(Ussher: the median date of the passages naming them)*
+
+## Family
+
+- **Father:** [[connections/people/Ammihud (2 Samuel 13.37)|Ammihud (2 Samuel 13.37)]]
+- **Children:** [[connections/people/Maacah (2 Samuel 3.3)|Maacah (2 Samuel 3.3)]]
+- **Tribe or nation:** Ammon
+
+**Family group:** [[connections/genealogy/Family of Adam|Family of Adam]], generation 2
+
+```mermaid
+flowchart TB
+  n0["Talmai (2 Samuel 3.3)"]:::me
+  n1["Ammihud (2 Samuel 13.37)"]
+  n1 --> n0
+  n2["Maacah (2 Samuel 3.3)"]
+  n0 --> n2
+  classDef me stroke-width:3px
+  classDef spouse stroke-dasharray:4
+```
 
 ## Appears in
 

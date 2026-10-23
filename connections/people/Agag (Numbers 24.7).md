@@ -7,6 +7,9 @@ original: ["אֲגָג"]
 verses: 1
 chapters: 1
 first: "Numbers 24:7"
+placed: "1452 BC"
+placed_year: -1451
+sex: "male"
 tags: ["person"]
 ---
 
@@ -15,6 +18,15 @@ tags: ["person"]
 King mentioned in Balaam's oracle about Israel
 
 **Original-language names:** אֲגָג (H0090)
+
+## When
+
+- **Placed around:** [[connections/timeline/15th century BC|1452 BC]] *(Ussher: the median date of the passages naming them)*
+
+## Family
+
+- **Tribe or nation:** Sinai
+
 
 ## Appears in
 

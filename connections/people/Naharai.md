@@ -7,6 +7,9 @@ original: ["נַחֲרַי"]
 verses: 2
 chapters: 2
 first: "2 Samuel 23:37"
+placed: "1055 BC"
+placed_year: -1054
+sex: "male"
 tags: ["person"]
 ---
 
@@ -15,6 +18,10 @@ tags: ["person"]
 One of David's mighty men, Joab's armor-bearer.
 
 **Original-language names:** נַחֲרַי (H5171)
+
+## When
+
+- **Placed around:** [[connections/timeline/11th century BC|1055 BC]] *(Ussher: the median date of the passages naming them)*
 
 ## Appears in
 

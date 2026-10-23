@@ -7,12 +7,16 @@ language: "Hebrew"
 verses: 22
 cross_references_out: 27
 cross_references_in: 11
+dated_from: -1307
+dated_to: -1307
 tags: ["chapter", "ot", "history"]
 ---
 
 # Ruth 1
 
 ← [[connections/chapters/07-judges/Judges 21|Judges 21]] · [[connections/books/Ruth|Ruth]] · [[connections/chapters/08-ruth/Ruth 2|Ruth 2]] →
+
+**Dated** *(Ussher, after the Treasury of Scripture Knowledge)*: [[connections/timeline/14th century BC|1308 BC]]
 
 ## Text
 

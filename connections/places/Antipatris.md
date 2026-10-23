@@ -17,6 +17,10 @@ A city where Paul was taken during his transfer to Caesarea.
 
 **Original-language names:** Ἀντιπατρίς (G0494)
 
+## Events
+
+- [[connections/timeline/1st century AD|AD 56]] · [[connections/events/Paul sent to Felix|Paul sent to Felix]]
+
 ## Appears in
 
 [[connections/chapters/44-acts/Acts 23|Acts 23]]

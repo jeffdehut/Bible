@@ -7,6 +7,9 @@ original: ["שִׁישַׁק"]
 verses: 6
 chapters: 3
 first: "1 Kings 11:40"
+placed: "970 BC"
+placed_year: -969
+sex: "male"
 tags: ["person"]
 ---
 
@@ -15,6 +18,16 @@ tags: ["person"]
 Egyptian Pharaoh who invaded Judah during Rehoboam's reign.
 
 **Original-language names:** שִׁישַׁק (H7895)
+
+## When
+
+- **Placed around:** [[connections/timeline/10th century BC|970 BC]] *(Ussher: the median date of the passages naming them)*
+- **Reigned / in office:** c. [[connections/timeline/10th century BC|943 BC]] – [[connections/timeline/10th century BC|922 BC]] *(modern dates)* · Shoshenq I, Egypt · [Wikidata Q311811](https://www.wikidata.org/wiki/Q311811)
+
+## Family
+
+- **Tribe or nation:** Egypt
+
 
 ## Appears in
 

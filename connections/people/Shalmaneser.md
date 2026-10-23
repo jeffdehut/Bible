@@ -8,6 +8,9 @@ original: ["שַׁלְמַנְאֶ֫סֶר", "שַׁלְמַן"]
 verses: 3
 chapters: 3
 first: "2 Kings 17:3"
+placed: "730 BC"
+placed_year: -729
+sex: "male"
 tags: ["person"]
 ---
 
@@ -18,6 +21,16 @@ Assyrian king who conquered Samaria and exiled Israelites
 **Also called:** Shalman
 
 **Original-language names:** שַׁלְמַנְאֶ֫סֶר (H8022) · שַׁלְמַן (H8020)
+
+## When
+
+- **Placed around:** [[connections/timeline/8th century BC|730 BC]] *(Ussher: the median date of the passages naming them)*
+- **Reigned / in office:** [[connections/timeline/8th century BC|727 BC]] – [[connections/timeline/8th century BC|722 BC]] *(modern dates)* · Shalmaneser V, Assyria · [Wikidata Q310640](https://www.wikidata.org/wiki/Q310640)
+
+## Family
+
+- **Tribe or nation:** Assyria
+
 
 ## Appears in
 

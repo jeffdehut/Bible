@@ -7,12 +7,16 @@ language: "Greek"
 verses: 23
 cross_references_out: 73
 cross_references_in: 27
+dated_from: -3
+dated_to: -3
 tags: ["chapter", "nt", "gospels"]
 ---
 
 # Matthew 2
 
 ← [[connections/chapters/40-matthew/Matthew 1|Matthew 1]] · [[connections/books/Matthew|Matthew]] · [[connections/chapters/40-matthew/Matthew 3|Matthew 3]] →
+
+**Dated** *(Ussher, after the Treasury of Scripture Knowledge)*: [[connections/timeline/1st century BC|4 BC]]
 
 ## Text
 

@@ -17,6 +17,15 @@ A Roman province in western Asia Minor.
 
 **Original-language names:** Ἀσία (G0773)
 
+## Events
+
+- [[connections/timeline/1st century AD|AD 47]] · [[connections/events/Mission to Phrygia, Galatia and Asia|Mission to Phrygia, Galatia and Asia]]
+- [[connections/timeline/1st century AD|AD 53]] · [[connections/events/Mission to Ephesus-1 Cor Written|Mission to Ephesus/1 Cor Written]]
+- [[connections/timeline/1st century AD|AD 53]] · [[connections/events/Riot in Ephesus|Riot in Ephesus]]
+- [[connections/timeline/1st century AD|AD 54]] · [[connections/events/Voyage to Miletus|Voyage to Miletus]]
+- [[connections/timeline/1st century AD|AD 56]] · [[connections/events/Journey to Rome begins|Journey to Rome begins]]
+- [[connections/timeline/1st century AD|AD 56]] · [[connections/events/Paul's Journey to Rome|Paul's Journey to Rome]]
+
 ## Appears in
 
 [[connections/chapters/44-acts/Acts 2|Acts 2]] · [[connections/chapters/44-acts/Acts 6|Acts 6]] · [[connections/chapters/44-acts/Acts 16|Acts 16]] · [[connections/chapters/44-acts/Acts 19|Acts 19 (4)]] · [[connections/chapters/44-acts/Acts 20|Acts 20 (3)]] · [[connections/chapters/44-acts/Acts 21|Acts 21]] · [[connections/chapters/44-acts/Acts 24|Acts 24]] · [[connections/chapters/44-acts/Acts 27|Acts 27]] · [[connections/chapters/45-romans/Romans 16|Romans 16]] · [[connections/chapters/46-1-corinthians/1 Corinthians 16|1 Corinthians 16]] · [[connections/chapters/47-2-corinthians/2 Corinthians 1|2 Corinthians 1]] · [[connections/chapters/55-2-timothy/2 Timothy 1|2 Timothy 1]] · [[connections/chapters/60-1-peter/1 Peter 1|1 Peter 1]] · [[connections/chapters/66-revelation/Revelation 1|Revelation 1]]

@@ -17,6 +17,10 @@ A place where the Israelites quarreled with Moses
 
 **Original-language names:** מְרִיבָה (H4809)
 
+## Events
+
+- [[connections/timeline/15th century BC|1491 BC]] · [[connections/events/Wilderness Wanderings|Wilderness Wanderings]]
+
 ## Appears in
 
 [[connections/chapters/02-exodus/Exodus 17|Exodus 17]] · [[connections/chapters/05-deuteronomy/Deuteronomy 33|Deuteronomy 33]] · [[connections/chapters/19-psalms/Psalms 95|Psalms 95]]

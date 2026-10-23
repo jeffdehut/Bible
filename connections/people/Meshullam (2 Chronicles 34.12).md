@@ -7,6 +7,9 @@ original: ["מְשֻׁלָּם"]
 verses: 1
 chapters: 1
 first: "2 Chronicles 34:12"
+placed: "624 BC"
+placed_year: -623
+sex: "male"
 tags: ["person"]
 ---
 
@@ -15,6 +18,10 @@ tags: ["person"]
 A Levite who supervised repairs in Josiah's time.
 
 **Original-language names:** מְשֻׁלָּם (H4918)
+
+## When
+
+- **Placed around:** [[connections/timeline/7th century BC|624 BC]] *(Ussher: the median date of the passages naming them)*
 
 ## Appears in
 

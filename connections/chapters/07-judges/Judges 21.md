@@ -7,12 +7,16 @@ language: "Hebrew"
 verses: 25
 cross_references_out: 5
 cross_references_in: 2
+dated_from: -1405
+dated_to: -1405
 tags: ["chapter", "ot", "history"]
 ---
 
 # Judges 21
 
 ← [[connections/chapters/07-judges/Judges 20|Judges 20]] · [[connections/books/Judges|Judges]] · [[connections/chapters/08-ruth/Ruth 1|Ruth 1]] →
+
+**Dated** *(Ussher, after the Treasury of Scripture Knowledge)*: [[connections/timeline/15th century BC|1406 BC]]
 
 ## Text
 

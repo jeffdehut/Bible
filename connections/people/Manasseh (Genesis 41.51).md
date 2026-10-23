@@ -7,6 +7,12 @@ original: ["מְנַשֶּׁה", "Μανασσῆς"]
 verses: 108
 chapters: 50
 first: "Genesis 41:51"
+born: "1709 BC"
+born_year: -1708
+placed: "1443 BC"
+placed_year: -1442
+generation: 25
+sex: "male"
 tags: ["person"]
 ---
 
@@ -15,6 +21,46 @@ tags: ["person"]
 Firstborn son of Joseph, blessed by Jacob.
 
 **Original-language names:** מְנַשֶּׁה (H4519) · Μανασσῆς (G3128)
+
+## When
+
+- **Lived:** [[connections/timeline/18th century BC|1709 BC]] – ? *(Jones)*
+- **Placed around:** [[connections/timeline/15th century BC|1443 BC]] *(Ussher: the median date of the passages naming them)*
+
+## Family
+
+- **Father:** [[connections/people/Joseph (Genesis 30.24)|Joseph (Genesis 30.24)]]
+- **Mother:** [[connections/people/Asenath|Asenath]]
+- **Brothers and sisters:** [[connections/people/Ephraim|Ephraim]]
+- **Children:** [[connections/people/Asriel (1 Chronicles 7.14)|Asriel (1 Chronicles 7.14)]], [[connections/people/Machir (Genesis 50.23)|Machir (Genesis 50.23)]]
+- **Tribe or nation:** Tribe of Manasseh
+
+**Line of descent** (25 generations, father to son): [[connections/people/Adam|Adam]] → [[connections/people/Seth|Seth]] → [[connections/people/Enosh|Enosh]] → [[connections/people/Kenan|Kenan]] → [[connections/people/Mahalalel (Genesis 5.12)|Mahalalel (Genesis 5.12)]] → [[connections/people/Jared|Jared]] → [[connections/people/Enoch (Genesis 5.18)|Enoch (Genesis 5.18)]] → [[connections/people/Methuselah|Methuselah]] → [[connections/people/Lamech (Genesis 5.25)|Lamech (Genesis 5.25)]] → [[connections/people/Noah (Genesis 5.29)|Noah (Genesis 5.29)]] → [[connections/people/Shem|Shem]] → [[connections/people/Arpachshad|Arpachshad]] → [[connections/people/Cainan|Cainan]] → [[connections/people/Shelah (Genesis 10.24)|Shelah (Genesis 10.24)]] → [[connections/people/Eber (Genesis 10.21)|Eber (Genesis 10.21)]] → [[connections/people/Peleg|Peleg]] → [[connections/people/Reu|Reu]] → [[connections/people/Serug|Serug]] → [[connections/people/Nahor (Genesis 11.22)|Nahor (Genesis 11.22)]] → [[connections/people/Terah|Terah]] → [[connections/people/Abraham|Abraham]] → [[connections/people/Isaac|Isaac]] → [[connections/people/Israel|Israel]] → [[connections/people/Joseph (Genesis 30.24)|Joseph (Genesis 30.24)]] → **Manasseh (Genesis 41.51)**
+
+**Family group:** [[connections/genealogy/Family of Adam|Family of Adam]], generation 25
+
+```mermaid
+flowchart TB
+  n0["Manasseh (Genesis 41.51)"]:::me
+  n1["Potiphera"]
+  n2["Asenath"]
+  n1 --> n2
+  n2 --> n0
+  n3["Israel"]
+  n4["Joseph (Genesis 30.24)"]
+  n3 --> n4
+  n5["Rachel"]
+  n5 --> n4
+  n4 --> n0
+  n6["Ephraim"]
+  n2 --> n6
+  n7["Asriel (1 Chronicles 7.14)"]
+  n0 --> n7
+  n8["Machir (Genesis 50.23)"]
+  n0 --> n8
+  classDef me stroke-width:3px
+  classDef spouse stroke-dasharray:4
+```
 
 ## Appears in
 

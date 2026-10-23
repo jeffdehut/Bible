@@ -17,6 +17,10 @@ A cave near Hebron; burial place of patriarchs
 
 **Original-language names:** מַכְפֵּלָה (H4375)
 
+## Events
+
+- [[connections/timeline/19th century BC|1821 BC]] · [[connections/events/Death of Abraham|Death of Abraham]]
+
 ## Appears in
 
 [[connections/chapters/01-genesis/Genesis 23|Genesis 23 (3)]] · [[connections/chapters/01-genesis/Genesis 25|Genesis 25]] · [[connections/chapters/01-genesis/Genesis 49|Genesis 49]] · [[connections/chapters/01-genesis/Genesis 50|Genesis 50]]

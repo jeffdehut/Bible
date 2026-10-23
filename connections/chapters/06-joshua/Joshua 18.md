@@ -7,12 +7,16 @@ language: "Hebrew"
 verses: 28
 cross_references_out: 1
 cross_references_in: 2
+dated_from: -1442
+dated_to: -1442
 tags: ["chapter", "ot", "history"]
 ---
 
 # Joshua 18
 
 ← [[connections/chapters/06-joshua/Joshua 17|Joshua 17]] · [[connections/books/Joshua|Joshua]] · [[connections/chapters/06-joshua/Joshua 19|Joshua 19]] →
+
+**Dated** *(Ussher, after the Treasury of Scripture Knowledge)*: [[connections/timeline/15th century BC|1443 BC]]
 
 ## Text
 

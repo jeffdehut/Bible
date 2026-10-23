@@ -7,12 +7,16 @@ language: "Hebrew"
 verses: 30
 cross_references_out: 48
 cross_references_in: 58
+dated_from: -1450
+dated_to: -1450
 tags: ["chapter", "ot", "torah"]
 ---
 
 # Deuteronomy 31
 
 ← [[connections/chapters/05-deuteronomy/Deuteronomy 30|Deuteronomy 30]] · [[connections/books/Deuteronomy|Deuteronomy]] · [[connections/chapters/05-deuteronomy/Deuteronomy 32|Deuteronomy 32]] →
+
+**Dated** *(Ussher, after the Treasury of Scripture Knowledge)*: [[connections/timeline/15th century BC|1451 BC]]
 
 ## Text
 

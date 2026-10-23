@@ -7,6 +7,10 @@ original: ["דּוֹדוֹ"]
 verses: 1
 chapters: 1
 first: "Judges 10:1"
+placed: "1232 BC"
+placed_year: -1231
+generation: 1
+sex: "male"
 tags: ["person"]
 ---
 
@@ -15,6 +19,25 @@ tags: ["person"]
 Son of Puah, a judge of Israel
 
 **Original-language names:** דּוֹדוֹ (H1734)
+
+## When
+
+- **Placed around:** [[connections/timeline/13th century BC|1232 BC]] *(Ussher: the median date of the passages naming them)*
+
+## Family
+
+- **Children:** [[connections/people/Puah (Judges 10.1)|Puah (Judges 10.1)]]
+
+**Family group:** [[connections/genealogy/Family of Dodo (Judges 10.1)|Family of Dodo (Judges 10.1)]], generation 1
+
+```mermaid
+flowchart TB
+  n0["Dodo (Judges 10.1)"]:::me
+  n1["Puah (Judges 10.1)"]
+  n0 --> n1
+  classDef me stroke-width:3px
+  classDef spouse stroke-dasharray:4
+```
 
 ## Appears in
 

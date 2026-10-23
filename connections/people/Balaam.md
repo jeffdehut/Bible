@@ -7,6 +7,10 @@ original: ["בִּלְעָם", "Βαλαάμ"]
 verses: 59
 chapters: 12
 first: "Numbers 22:5"
+placed: "1452 BC"
+placed_year: -1451
+generation: 2
+sex: "male"
 tags: ["person"]
 ---
 
@@ -15,6 +19,25 @@ tags: ["person"]
 A prophet hired to curse Israel but blessed them instead.
 
 **Original-language names:** בִּלְעָם (H1109a) · Βαλαάμ (G0903)
+
+## When
+
+- **Placed around:** [[connections/timeline/15th century BC|1452 BC]] *(Ussher: the median date of the passages naming them)*
+
+## Family
+
+- **Father:** [[connections/people/Beor (Numbers 22.5)|Beor (Numbers 22.5)]]
+
+**Family group:** [[connections/genealogy/Family of Beor (Numbers 22.5)|Family of Beor (Numbers 22.5)]], generation 2
+
+```mermaid
+flowchart TB
+  n0["Balaam"]:::me
+  n1["Beor (Numbers 22.5)"]
+  n1 --> n0
+  classDef me stroke-width:3px
+  classDef spouse stroke-dasharray:4
+```
 
 ## Appears in
 

@@ -1,0 +1,21 @@
+---
+type: "family"
+root: "Jehallelel (2 Chronicles 29.12)"
+people: 2
+generations: 2
+tags: ["genealogy"]
+---
+
+# Family of Jehallelel (2 Chronicles 29.12)
+
+2 people over 2 generations, counted down from [[connections/people/Jehallelel (2 Chronicles 29.12)|Jehallelel (2 Chronicles 29.12)]]. Generations follow parent-child links in TIPNR; an *ancestor* link (TIPNR flag `(a)`) counts as one step but may span several. People who join through marriage only appear under their own families.
+
+[[connections/genealogy/Genealogy|All families]]
+
+## Generation 1
+
+- [[connections/people/Jehallelel (2 Chronicles 29.12)|Jehallelel (2 Chronicles 29.12)]]
+
+## Generation 2
+
+- [[connections/people/Azariah (2 Chronicles 29.12)|Azariah (2 Chronicles 29.12)]] — child of [[connections/people/Jehallelel (2 Chronicles 29.12)|Jehallelel (2 Chronicles 29.12)]]

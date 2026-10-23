@@ -7,12 +7,16 @@ language: "Hebrew"
 verses: 46
 cross_references_out: 52
 cross_references_in: 85
+dated_from: -1490
+dated_to: -1490
 tags: ["chapter", "ot", "torah"]
 ---
 
 # Leviticus 26
 
 ← [[connections/chapters/03-leviticus/Leviticus 25|Leviticus 25]] · [[connections/books/Leviticus|Leviticus]] · [[connections/chapters/03-leviticus/Leviticus 27|Leviticus 27]] →
+
+**Dated** *(Ussher, after the Treasury of Scripture Knowledge)*: [[connections/timeline/15th century BC|1491 BC]]
 
 ## Text
 

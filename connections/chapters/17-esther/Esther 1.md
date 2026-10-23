@@ -7,12 +7,16 @@ language: "Hebrew"
 verses: 22
 cross_references_out: 1
 cross_references_in: 8
+dated_from: -461
+dated_to: -461
 tags: ["chapter", "ot", "history"]
 ---
 
 # Esther 1
 
 ← [[connections/chapters/16-nehemiah/Nehemiah 13|Nehemiah 13]] · [[connections/books/Esther|Esther]] · [[connections/chapters/17-esther/Esther 2|Esther 2]] →
+
+**Dated** *(Ussher, after the Treasury of Scripture Knowledge)*: [[connections/timeline/5th century BC|462 BC]]
 
 ## Text
 

@@ -7,12 +7,16 @@ language: "Hebrew"
 verses: 33
 cross_references_out: 3
 cross_references_in: 3
+dated_from: -1489
+dated_to: -1489
 tags: ["chapter", "ot", "torah"]
 ---
 
 # Leviticus 15
 
 ← [[connections/chapters/03-leviticus/Leviticus 14|Leviticus 14]] · [[connections/books/Leviticus|Leviticus]] · [[connections/chapters/03-leviticus/Leviticus 16|Leviticus 16]] →
+
+**Dated** *(Ussher, after the Treasury of Scripture Knowledge)*: [[connections/timeline/15th century BC|1490 BC]]
 
 ## Text
 

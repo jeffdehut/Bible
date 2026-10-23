@@ -7,12 +7,16 @@ language: "Hebrew"
 verses: 27
 cross_references_out: 3
 cross_references_in: 7
+dated_from: -1052
+dated_to: -1052
 tags: ["chapter", "ot", "history"]
 ---
 
 # 2 Samuel 1
 
 ← [[connections/chapters/09-1-samuel/1 Samuel 31|1 Samuel 31]] · [[connections/books/2 Samuel|2 Samuel]] · [[connections/chapters/10-2-samuel/2 Samuel 2|2 Samuel 2]] →
+
+**Dated** *(Ussher, after the Treasury of Scripture Knowledge)*: [[connections/timeline/11th century BC|1053 BC]]
 
 ## Text
 

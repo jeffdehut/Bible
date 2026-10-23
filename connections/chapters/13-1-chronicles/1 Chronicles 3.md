@@ -7,12 +7,16 @@ language: "Hebrew"
 verses: 24
 cross_references_out: 0
 cross_references_in: 0
+dated_from: -1052
+dated_to: -1052
 tags: ["chapter", "ot", "history"]
 ---
 
 # 1 Chronicles 3
 
 ← [[connections/chapters/13-1-chronicles/1 Chronicles 2|1 Chronicles 2]] · [[connections/books/1 Chronicles|1 Chronicles]] · [[connections/chapters/13-1-chronicles/1 Chronicles 4|1 Chronicles 4]] →
+
+**Dated** *(Ussher, after the Treasury of Scripture Knowledge)*: [[connections/timeline/11th century BC|1053 BC]]
 
 ## Text
 

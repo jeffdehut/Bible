@@ -7,6 +7,10 @@ original: ["יָֽרָבְעָם"]
 verses: 14
 chapters: 7
 first: "2 Kings 13:13"
+placed: "787 BC"
+placed_year: -786
+generation: 6
+sex: "male"
 tags: ["person"]
 ---
 
@@ -15,6 +19,38 @@ tags: ["person"]
 King of Israel, son of Jehoash.
 
 **Original-language names:** יָֽרָבְעָם (H3379)
+
+## When
+
+- **Placed around:** [[connections/timeline/8th century BC|787 BC]] *(Ussher: the median date of the passages naming them)*
+
+## Family
+
+- **Father:** [[connections/people/Joash (2 Kings 13.9)|Joash (2 Kings 13.9)]]
+- **Children:** [[connections/people/Zechariah (2 Kings 14.29)|Zechariah (2 Kings 14.29)]]
+- **Tribe or nation:** Israel
+
+**Line of descent** (6 generations, father to son): [[connections/people/Nimshi|Nimshi]] → [[connections/people/Jehoshaphat (2 Kings 9.2)|Jehoshaphat (2 Kings 9.2)]] → [[connections/people/Jehu (1 Kings 19.16)|Jehu (1 Kings 19.16)]] → [[connections/people/Jehoahaz (2 Kings 10.35)|Jehoahaz (2 Kings 10.35)]] → [[connections/people/Joash (2 Kings 13.9)|Joash (2 Kings 13.9)]] → **Jeroboam (2 Kings 13.13)**
+
+**Family group:** [[connections/genealogy/Family of Nimshi|Family of Nimshi]], generation 6
+
+```mermaid
+flowchart TB
+  n0["Jeroboam (2 Kings 13.13)"]:::me
+  n1["Jehoahaz (2 Kings 10.35)"]
+  n2["Joash (2 Kings 13.9)"]
+  n1 --> n2
+  n2 --> n0
+  n3["Zechariah (2 Kings 14.29)"]
+  n0 --> n3
+  classDef me stroke-width:3px
+  classDef spouse stroke-dasharray:4
+```
+
+## Events
+
+- [[connections/timeline/9th century BC|825 BC]] · [[connections/events/Reign of Jeroboam II|Reign of Jeroboam II]]
+- [[connections/timeline/8th century BC|784 BC]] · [[connections/events/Death of Jeroboam II|Death of Jeroboam II]]
 
 ## Appears in
 

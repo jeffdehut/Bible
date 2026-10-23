@@ -7,6 +7,9 @@ original: ["עֵילָם"]
 verses: 7
 chapters: 4
 first: "Ezra 2:7"
+placed: "445 BC"
+placed_year: -444
+sex: "male"
 tags: ["person"]
 ---
 
@@ -15,6 +18,10 @@ tags: ["person"]
 Ancestor of exiles who returned to Jerusalem
 
 **Original-language names:** עֵילָם (H5867b)
+
+## When
+
+- **Placed around:** [[connections/timeline/5th century BC|445 BC]] *(Ussher: the median date of the passages naming them)*
 
 ## Appears in
 

@@ -7,6 +7,9 @@ original: ["עֹרֵב"]
 verses: 4
 chapters: 4
 first: "Judges 7:25"
+placed: "1245 BC"
+placed_year: -1244
+sex: "male"
 tags: ["person"]
 ---
 
@@ -15,6 +18,10 @@ tags: ["person"]
 Midianite prince, killed by Ephraimites
 
 **Original-language names:** עֹרֵב (H6159)
+
+## When
+
+- **Placed around:** [[connections/timeline/13th century BC|1245 BC]] *(Ussher: the median date of the passages naming them)*
 
 ## Appears in
 

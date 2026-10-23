@@ -7,12 +7,16 @@ language: "Hebrew"
 verses: 29
 cross_references_out: 5
 cross_references_in: 29
+dated_from: -586
+dated_to: -586
 tags: ["chapter", "ot", "prophets"]
 ---
 
 # Ezekiel 39
 
 ← [[connections/chapters/26-ezekiel/Ezekiel 38|Ezekiel 38]] · [[connections/books/Ezekiel|Ezekiel]] · [[connections/chapters/26-ezekiel/Ezekiel 40|Ezekiel 40]] →
+
+**Dated** *(Ussher, after the Treasury of Scripture Knowledge)*: [[connections/timeline/6th century BC|587 BC]]
 
 ## Text
 

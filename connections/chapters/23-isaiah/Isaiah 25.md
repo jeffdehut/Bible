@@ -7,12 +7,16 @@ language: "Hebrew"
 verses: 12
 cross_references_out: 65
 cross_references_in: 63
+dated_from: -711
+dated_to: -711
 tags: ["chapter", "ot", "prophets"]
 ---
 
 # Isaiah 25
 
 ← [[connections/chapters/23-isaiah/Isaiah 24|Isaiah 24]] · [[connections/books/Isaiah|Isaiah]] · [[connections/chapters/23-isaiah/Isaiah 26|Isaiah 26]] →
+
+**Dated** *(Ussher, after the Treasury of Scripture Knowledge)*: [[connections/timeline/8th century BC|712 BC]]
 
 ## Text
 

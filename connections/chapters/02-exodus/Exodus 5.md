@@ -7,12 +7,16 @@ language: "Hebrew"
 verses: 23
 cross_references_out: 3
 cross_references_in: 3
+dated_from: -1490
+dated_to: -1490
 tags: ["chapter", "ot", "torah"]
 ---
 
 # Exodus 5
 
 ← [[connections/chapters/02-exodus/Exodus 4|Exodus 4]] · [[connections/books/Exodus|Exodus]] · [[connections/chapters/02-exodus/Exodus 6|Exodus 6]] →
+
+**Dated** *(Ussher, after the Treasury of Scripture Knowledge)*: [[connections/timeline/15th century BC|1491 BC]]
 
 ## Text
 

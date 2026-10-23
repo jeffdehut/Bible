@@ -7,12 +7,16 @@ language: "Hebrew"
 verses: 20
 cross_references_out: 0
 cross_references_in: 4
+dated_from: -598
+dated_to: -598
 tags: ["chapter", "ot", "history"]
 ---
 
 # 2 Kings 24
 
 ← [[connections/chapters/12-2-kings/2 Kings 23|2 Kings 23]] · [[connections/books/2 Kings|2 Kings]] · [[connections/chapters/12-2-kings/2 Kings 25|2 Kings 25]] →
+
+**Dated** *(Ussher, after the Treasury of Scripture Knowledge)*: [[connections/timeline/6th century BC|599 BC]]
 
 ## Text
 

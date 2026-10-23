@@ -7,6 +7,10 @@ original: ["יְהוֹנָדָב", "יוֹנָדָב"]
 verses: 9
 chapters: 2
 first: "2 Kings 10:15"
+placed: "607 BC"
+placed_year: -606
+generation: 3
+sex: "male"
 tags: ["person"]
 ---
 
@@ -15,6 +19,30 @@ tags: ["person"]
 Son of Rechab, who promoted Rechabite lifestyle
 
 **Original-language names:** יְהוֹנָדָב (H3082) · יוֹנָדָב (H3122)
+
+## When
+
+- **Placed around:** [[connections/timeline/7th century BC|607 BC]] *(Ussher: the median date of the passages naming them)*
+
+## Family
+
+- **Father:** [[connections/people/Rechab (2 Kings 10.15)|Rechab (2 Kings 10.15)]]
+- **Tribe or nation:** Tribe of Judah
+
+**Line of descent** (3 generations, father to son): [[connections/people/Hammath|Hammath]] → [[connections/people/Rechab (2 Kings 10.15)|Rechab (2 Kings 10.15)]] → **Jonadab (2 Kings 10.15)**
+
+**Family group:** [[connections/genealogy/Family of Hammath|Family of Hammath]], generation 3
+
+```mermaid
+flowchart TB
+  n0["Jonadab (2 Kings 10.15)"]:::me
+  n1["Hammath"]
+  n2["Rechab (2 Kings 10.15)"]
+  n1 --> n2
+  n2 --> n0
+  classDef me stroke-width:3px
+  classDef spouse stroke-dasharray:4
+```
 
 ## Appears in
 

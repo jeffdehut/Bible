@@ -7,6 +7,9 @@ original: ["סִיסְרָא"]
 verses: 17
 chapters: 4
 first: "Judges 4:2"
+placed: "1285 BC"
+placed_year: -1284
+sex: "male"
 tags: ["person"]
 ---
 
@@ -15,6 +18,10 @@ tags: ["person"]
 Canaanite commander defeated by Deborah and Barak.
 
 **Original-language names:** סִיסְרָא (H5516)
+
+## When
+
+- **Placed around:** [[connections/timeline/13th century BC|1285 BC]] *(Ussher: the median date of the passages naming them)*
 
 ## Appears in
 

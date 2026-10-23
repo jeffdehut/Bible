@@ -16,6 +16,10 @@ A city near Ephesus, visited by Paul
 
 **Original-language names:** Τρωγύλλιον (G5175)
 
+## Events
+
+- [[connections/timeline/1st century AD|AD 54]] · [[connections/events/Voyage to Miletus|Voyage to Miletus]]
+
 ## Appears in
 
 [[connections/chapters/44-acts/Acts 20|Acts 20]]

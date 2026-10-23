@@ -20,6 +20,10 @@ A strategic city in the Jezreel Valley
 
 **Original-language names:** מְגִדּוֹ (H4023) · Ἀρμαγεδδών (G0717)
 
+## Events
+
+- [[connections/timeline/7th century BC|609 BC]] · [[connections/events/Death of Josiah|Death of Josiah]]
+
 ## Appears in
 
 [[connections/chapters/06-joshua/Joshua 12|Joshua 12]] · [[connections/chapters/06-joshua/Joshua 17|Joshua 17]] · [[connections/chapters/07-judges/Judges 1|Judges 1]] · [[connections/chapters/07-judges/Judges 5|Judges 5]] · [[connections/chapters/11-1-kings/1 Kings 4|1 Kings 4]] · [[connections/chapters/11-1-kings/1 Kings 9|1 Kings 9]] · [[connections/chapters/12-2-kings/2 Kings 9|2 Kings 9]] · [[connections/chapters/12-2-kings/2 Kings 23|2 Kings 23 (2)]] · [[connections/chapters/13-1-chronicles/1 Chronicles 7|1 Chronicles 7]] · [[connections/chapters/14-2-chronicles/2 Chronicles 35|2 Chronicles 35]] · [[connections/chapters/38-zechariah/Zechariah 12|Zechariah 12]] · [[connections/chapters/66-revelation/Revelation 16|Revelation 16]]

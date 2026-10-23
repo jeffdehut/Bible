@@ -7,6 +7,12 @@ original: ["קַ֫יִן", "Κάϊν"]
 verses: 16
 chapters: 4
 first: "Genesis 4:1"
+born: "4003 BC"
+born_year: -4002
+placed: "4003 BC"
+placed_year: -4002
+generation: 2
+sex: "male"
 tags: ["person"]
 ---
 
@@ -15,6 +21,43 @@ tags: ["person"]
 Adam and Eve's firstborn son, killed his brother Abel
 
 **Original-language names:** קַ֫יִן (H7014b) · Κάϊν (G2535)
+
+## When
+
+- **Lived:** [[connections/timeline/41st century BC|4003 BC]] – ? *(Jones)*
+- **Placed around:** [[connections/timeline/41st century BC|4003 BC]] *(Ussher: the median date of the passages naming them)*
+
+## Family
+
+- **Father:** [[connections/people/Adam|Adam]]
+- **Mother:** [[connections/people/Eve|Eve]]
+- **Brothers and sisters:** [[connections/people/Abel|Abel]], [[connections/people/Seth|Seth]]
+- **Children:** [[connections/people/Enoch (Genesis 4.17)|Enoch (Genesis 4.17)]]
+- **Tribe or nation:** Early Patriarch
+
+**Family group:** [[connections/genealogy/Family of Adam|Family of Adam]], generation 2
+
+```mermaid
+flowchart TB
+  n0["Cain"]:::me
+  n1["Adam"]
+  n1 --> n0
+  n2["Eve"]
+  n2 --> n0
+  n3["Abel"]
+  n1 --> n3
+  n4["Seth"]
+  n1 --> n4
+  n5["Enoch (Genesis 4.17)"]
+  n0 --> n5
+  classDef me stroke-width:3px
+  classDef spouse stroke-dasharray:4
+```
+
+## Events
+
+- [[connections/timeline/39th century BC|3875 BC]] · [[connections/events/Cain kills Abel|Cain kills Abel]]
+- [[connections/timeline/39th century BC|3875 BC]] · [[connections/events/God curses Cain|God curses Cain]]
 
 ## Appears in
 

@@ -7,12 +7,16 @@ language: "Hebrew"
 verses: 43
 cross_references_out: 1
 cross_references_in: 6
+dated_from: -900
+dated_to: -900
 tags: ["chapter", "ot", "history"]
 ---
 
 # 1 Kings 20
 
 ← [[connections/chapters/11-1-kings/1 Kings 19|1 Kings 19]] · [[connections/books/1 Kings|1 Kings]] · [[connections/chapters/11-1-kings/1 Kings 21|1 Kings 21]] →
+
+**Dated** *(Ussher, after the Treasury of Scripture Knowledge)*: [[connections/timeline/10th century BC|901 BC]]
 
 ## Text
 

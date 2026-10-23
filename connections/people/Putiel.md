@@ -7,6 +7,10 @@ original: ["פּוּטִיאֵל"]
 verses: 1
 chapters: 1
 first: "Exodus 6:25"
+placed: "1491 BC"
+placed_year: -1490
+generation: 1
+sex: "male"
 tags: ["person"]
 ---
 
@@ -15,6 +19,25 @@ tags: ["person"]
 Father-in-law of Eleazar, son of Aaron
 
 **Original-language names:** פּוּטִיאֵל (H6317)
+
+## When
+
+- **Placed around:** [[connections/timeline/15th century BC|1491 BC]] *(Ussher: the median date of the passages naming them)*
+
+## Family
+
+- **Children:** [[connections/people/daughter of Putiel (Exodus 6.25)|daughter of Putiel (Exodus 6.25)]]
+
+**Family group:** [[connections/genealogy/Family of Adam|Family of Adam]], generation 1
+
+```mermaid
+flowchart TB
+  n0["Putiel"]:::me
+  n1["daughter of Putiel (Exodus 6.25)"]
+  n0 --> n1
+  classDef me stroke-width:3px
+  classDef spouse stroke-dasharray:4
+```
 
 ## Appears in
 

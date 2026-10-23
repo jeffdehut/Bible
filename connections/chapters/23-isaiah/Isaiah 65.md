@@ -7,12 +7,16 @@ language: "Hebrew"
 verses: 25
 cross_references_out: 56
 cross_references_in: 82
+dated_from: -697
+dated_to: -697
 tags: ["chapter", "ot", "prophets"]
 ---
 
 # Isaiah 65
 
 ← [[connections/chapters/23-isaiah/Isaiah 64|Isaiah 64]] · [[connections/books/Isaiah|Isaiah]] · [[connections/chapters/23-isaiah/Isaiah 66|Isaiah 66]] →
+
+**Dated** *(Ussher, after the Treasury of Scripture Knowledge)*: [[connections/timeline/7th century BC|698 BC]]
 
 ## Text
 

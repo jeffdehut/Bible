@@ -7,6 +7,10 @@ original: ["שִׁמְעָת"]
 verses: 2
 chapters: 2
 first: "2 Kings 12:22"
+placed: "839 BC"
+placed_year: -838
+generation: 1
+sex: "female"
 tags: ["person"]
 ---
 
@@ -15,6 +19,29 @@ tags: ["person"]
 Mother of Jozacar, one of King Joash's assassins.
 
 **Original-language names:** שִׁמְעָת (H8100)
+
+## When
+
+- **Placed around:** [[connections/timeline/9th century BC|839 BC]] *(Ussher: the median date of the passages naming them)*
+
+## Family
+
+- **Spouses:** [[connections/people/husband of Shimeath (2 Kings 12.22)|husband of Shimeath (2 Kings 12.22)]]
+- **Children:** [[connections/people/Jozacar|Jozacar]]
+- **Tribe or nation:** Ammon
+
+**Family group:** [[connections/genealogy/Family of Shimeath|Family of Shimeath]], generation 1
+
+```mermaid
+flowchart TB
+  n0["Shimeath"]:::me
+  n1["husband of Shimeath (2 Kings 12.22)"]:::spouse
+  n0 -.- n1
+  n2["Jozacar"]
+  n0 --> n2
+  classDef me stroke-width:3px
+  classDef spouse stroke-dasharray:4
+```
 
 ## Appears in
 

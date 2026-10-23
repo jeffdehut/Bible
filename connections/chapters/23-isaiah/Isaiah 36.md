@@ -7,12 +7,16 @@ language: "Hebrew"
 verses: 22
 cross_references_out: 1
 cross_references_in: 2
+dated_from: -709
+dated_to: -709
 tags: ["chapter", "ot", "prophets"]
 ---
 
 # Isaiah 36
 
 ← [[connections/chapters/23-isaiah/Isaiah 35|Isaiah 35]] · [[connections/books/Isaiah|Isaiah]] · [[connections/chapters/23-isaiah/Isaiah 37|Isaiah 37]] →
+
+**Dated** *(Ussher, after the Treasury of Scripture Knowledge)*: [[connections/timeline/8th century BC|710 BC]]
 
 ## Text
 

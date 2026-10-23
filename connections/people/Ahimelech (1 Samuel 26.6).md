@@ -7,6 +7,9 @@ original: ["אֲחִימֶ֫לֶךְ"]
 verses: 1
 chapters: 1
 first: "1 Samuel 26:6"
+placed: "1060 BC"
+placed_year: -1059
+sex: "male"
 tags: ["person"]
 ---
 
@@ -15,6 +18,10 @@ tags: ["person"]
 Son of Ahitub, a Hittite warrior who joined David
 
 **Original-language names:** אֲחִימֶ֫לֶךְ (H0288)
+
+## When
+
+- **Placed around:** [[connections/timeline/11th century BC|1060 BC]] *(Ussher: the median date of the passages naming them)*
 
 ## Appears in
 

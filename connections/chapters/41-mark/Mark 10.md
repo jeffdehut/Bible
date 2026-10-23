@@ -7,12 +7,16 @@ language: "Greek"
 verses: 52
 cross_references_out: 133
 cross_references_in: 67
+dated_from: 29
+dated_to: 29
 tags: ["chapter", "nt", "gospels"]
 ---
 
 # Mark 10
 
 ← [[connections/chapters/41-mark/Mark 9|Mark 9]] · [[connections/books/Mark|Mark]] · [[connections/chapters/41-mark/Mark 11|Mark 11]] →
+
+**Dated** *(Ussher, after the Treasury of Scripture Knowledge)*: [[connections/timeline/1st century AD|AD 29]]
 
 ## Text
 

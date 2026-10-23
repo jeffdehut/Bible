@@ -7,12 +7,16 @@ language: "Greek"
 verses: 14
 cross_references_out: 94
 cross_references_in: 129
+dated_from: 96
+dated_to: 96
 tags: ["chapter", "nt", "revelation"]
 ---
 
 # Revelation 5
 
 ← [[connections/chapters/66-revelation/Revelation 4|Revelation 4]] · [[connections/books/Revelation|Revelation]] · [[connections/chapters/66-revelation/Revelation 6|Revelation 6]] →
+
+**Dated** *(Ussher, after the Treasury of Scripture Knowledge)*: [[connections/timeline/1st century AD|AD 96]]
 
 ## Text
 

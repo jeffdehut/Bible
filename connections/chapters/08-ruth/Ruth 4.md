@@ -7,12 +7,16 @@ language: "Hebrew"
 verses: 22
 cross_references_out: 3
 cross_references_in: 5
+dated_from: -1306
+dated_to: -1306
 tags: ["chapter", "ot", "history"]
 ---
 
 # Ruth 4
 
 ← [[connections/chapters/08-ruth/Ruth 3|Ruth 3]] · [[connections/books/Ruth|Ruth]] · [[connections/chapters/09-1-samuel/1 Samuel 1|1 Samuel 1]] →
+
+**Dated** *(Ussher, after the Treasury of Scripture Knowledge)*: [[connections/timeline/14th century BC|1307 BC]]
 
 ## Text
 

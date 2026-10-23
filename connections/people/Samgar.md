@@ -7,6 +7,9 @@ original: ["סַמְגַּר נְבוֹ"]
 verses: 1
 chapters: 1
 first: "Jeremiah 39:3"
+placed: "588 BC"
+placed_year: -587
+sex: "male"
 tags: ["person"]
 ---
 
@@ -15,6 +18,10 @@ tags: ["person"]
 Babylonian official present at the fall of Jerusalem
 
 **Original-language names:** סַמְגַּר נְבוֹ (H5562)
+
+## When
+
+- **Placed around:** [[connections/timeline/6th century BC|588 BC]] *(Ussher: the median date of the passages naming them)*
 
 ## Appears in
 

@@ -7,6 +7,12 @@ original: ["כָּלֵב"]
 verses: 28
 chapters: 14
 first: "Numbers 13:6"
+born: "1529 BC"
+born_year: -1528
+placed: "1444 BC"
+placed_year: -1443
+generation: 2
+sex: "male"
 tags: ["person"]
 ---
 
@@ -15,6 +21,42 @@ tags: ["person"]
 Faithful spy, given Hebron as inheritance
 
 **Original-language names:** כָּלֵב (H3612)
+
+## When
+
+- **Lived:** [[connections/timeline/16th century BC|1529 BC]] – ? *(Jones)*
+- **Placed around:** [[connections/timeline/15th century BC|1444 BC]] *(Ussher: the median date of the passages naming them)*
+
+## Family
+
+- **Father:** [[connections/people/Jephunneh (Numbers 13.6)|Jephunneh (Numbers 13.6)]]
+- **Brothers and sisters:** [[connections/people/Kenaz (Joshua 15.17)|Kenaz (Joshua 15.17)]]
+- **Children:** [[connections/people/Achsah (Joshua 15.16)|Achsah (Joshua 15.16)]], [[connections/people/Elah (1 Chronicles 4.15)|Elah (1 Chronicles 4.15)]], [[connections/people/Iru|Iru]], [[connections/people/Naam|Naam]]
+
+**Family group:** [[connections/genealogy/Family of Jephunneh (Numbers 13.6)|Family of Jephunneh (Numbers 13.6)]], generation 2
+
+```mermaid
+flowchart TB
+  n0["Caleb (Numbers 13.6)"]:::me
+  n1["Jephunneh (Numbers 13.6)"]
+  n1 --> n0
+  n2["Kenaz (Joshua 15.17)"]
+  n1 --> n2
+  n3["Achsah (Joshua 15.16)"]
+  n0 --> n3
+  n4["Elah (1 Chronicles 4.15)"]
+  n0 --> n4
+  n5["Iru"]
+  n0 --> n5
+  n6["Naam"]
+  n0 --> n6
+  classDef me stroke-width:3px
+  classDef spouse stroke-dasharray:4
+```
+
+## Events
+
+- [[connections/timeline/16th century BC|1529 BC]] · [[connections/events/Birth of Caleb|Birth of Caleb]]
 
 ## Appears in
 

@@ -7,6 +7,10 @@ original: ["חֹרִי"]
 verses: 3
 chapters: 2
 first: "Genesis 36:22"
+placed: "1756 BC"
+placed_year: -1755
+generation: 3
+sex: "male"
 tags: ["person"]
 ---
 
@@ -15,6 +19,33 @@ tags: ["person"]
 A Horite people group.
 
 **Original-language names:** חֹרִי (H2753)
+
+## When
+
+- **Placed around:** [[connections/timeline/18th century BC|1756 BC]] *(Ussher: the median date of the passages naming them)*
+
+## Family
+
+- **Father:** [[connections/people/Lotan|Lotan]]
+- **Brothers and sisters:** [[connections/people/Hemam|Hemam]]
+- **Tribe or nation:** Edom
+
+**Line of descent** (3 generations, father to son): [[connections/people/Seir|Seir]] → [[connections/people/Lotan|Lotan]] → **Hori (Genesis 36.22)**
+
+**Family group:** [[connections/genealogy/Family of Adam|Family of Adam]], generation 3
+
+```mermaid
+flowchart TB
+  n0["Hori (Genesis 36.22)"]:::me
+  n1["Seir"]
+  n2["Lotan"]
+  n1 --> n2
+  n2 --> n0
+  n3["Hemam"]
+  n2 --> n3
+  classDef me stroke-width:3px
+  classDef spouse stroke-dasharray:4
+```
 
 ## Appears in
 

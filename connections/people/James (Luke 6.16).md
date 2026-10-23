@@ -7,6 +7,10 @@ original: ["Ἰάκωβος"]
 verses: 2
 chapters: 2
 first: "Luke 6:16"
+placed: "AD 33"
+placed_year: 33
+generation: 1
+sex: "male"
 tags: ["person"]
 ---
 
@@ -15,6 +19,25 @@ tags: ["person"]
 Father of Judas, an Apostles
 
 **Original-language names:** Ἰάκωβος (G2385)
+
+## When
+
+- **Placed around:** [[connections/timeline/1st century AD|AD 33]] *(Ussher: the median date of the passages naming them)*
+
+## Family
+
+- **Children:** [[connections/people/Judas (Matthew 10.3)|Judas (Matthew 10.3)]]
+
+**Family group:** [[connections/genealogy/Family of James (Luke 6.16)|Family of James (Luke 6.16)]], generation 1
+
+```mermaid
+flowchart TB
+  n0["James (Luke 6.16)"]:::me
+  n1["Judas (Matthew 10.3)"]
+  n0 --> n1
+  classDef me stroke-width:3px
+  classDef spouse stroke-dasharray:4
+```
 
 ## Appears in
 

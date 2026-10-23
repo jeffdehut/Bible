@@ -7,6 +7,9 @@ original: ["מַלְכָּה", "βασίλισσα"]
 verses: 10
 chapters: 4
 first: "1 Kings 10:1"
+placed: "990 BC"
+placed_year: -989
+sex: "female"
 tags: ["person"]
 ---
 
@@ -15,6 +18,10 @@ tags: ["person"]
 A queen who visited Solomon and praised his wisdom
 
 **Original-language names:** מַלְכָּה (H4436) · βασίλισσα (G0938)
+
+## When
+
+- **Placed around:** [[connections/timeline/10th century BC|990 BC]] *(Ussher: the median date of the passages naming them)*
 
 ## Appears in
 

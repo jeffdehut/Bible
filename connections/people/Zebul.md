@@ -7,6 +7,9 @@ original: ["זְבֻל"]
 verses: 5
 chapters: 1
 first: "Judges 9:28"
+placed: "1233 BC"
+placed_year: -1232
+sex: "male"
 tags: ["person"]
 ---
 
@@ -15,6 +18,10 @@ tags: ["person"]
 Governor of Shechem under Abimelech
 
 **Original-language names:** זְבֻל (H2083)
+
+## When
+
+- **Placed around:** [[connections/timeline/13th century BC|1233 BC]] *(Ussher: the median date of the passages naming them)*
 
 ## Appears in
 

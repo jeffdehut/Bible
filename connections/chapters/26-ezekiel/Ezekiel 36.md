@@ -7,12 +7,16 @@ language: "Hebrew"
 verses: 38
 cross_references_out: 79
 cross_references_in: 102
+dated_from: -586
+dated_to: -586
 tags: ["chapter", "ot", "prophets"]
 ---
 
 # Ezekiel 36
 
 ← [[connections/chapters/26-ezekiel/Ezekiel 35|Ezekiel 35]] · [[connections/books/Ezekiel|Ezekiel]] · [[connections/chapters/26-ezekiel/Ezekiel 37|Ezekiel 37]] →
+
+**Dated** *(Ussher, after the Treasury of Scripture Knowledge)*: [[connections/timeline/6th century BC|587 BC]]
 
 ## Text
 

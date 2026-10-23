@@ -7,12 +7,16 @@ language: "Greek"
 verses: 47
 cross_references_out: 217
 cross_references_in: 209
+dated_from: 33
+dated_to: 33
 tags: ["chapter", "nt", "acts"]
 ---
 
 # Acts 2
 
 ← [[connections/chapters/44-acts/Acts 1|Acts 1]] · [[connections/books/Acts|Acts]] · [[connections/chapters/44-acts/Acts 3|Acts 3]] →
+
+**Dated** *(Ussher, after the Treasury of Scripture Knowledge)*: [[connections/timeline/1st century AD|AD 33]]
 
 ## Text
 

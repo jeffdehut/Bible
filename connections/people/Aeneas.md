@@ -7,6 +7,9 @@ original: ["Αἰνέας"]
 verses: 2
 chapters: 1
 first: "Acts 9:33"
+placed: "AD 35"
+placed_year: 35
+sex: "male"
 tags: ["person"]
 ---
 
@@ -15,6 +18,14 @@ tags: ["person"]
 Paralyzed man in Lydda healed by Peter
 
 **Original-language names:** Αἰνέας (G0132)
+
+## When
+
+- **Placed around:** [[connections/timeline/1st century AD|AD 35]] *(Ussher: the median date of the passages naming them)*
+
+## Events
+
+- [[connections/timeline/1st century AD|AD 38]] · [[connections/events/Peter heals Aeneas and Dorcas|Peter heals Aeneas and Dorcas]]
 
 ## Appears in
 

@@ -7,6 +7,7 @@ original: ["שְׁמַעְיָ֫הוּ"]
 verses: 1
 chapters: 1
 first: "2 Chronicles 35:9"
+sex: "male"
 tags: ["person"]
 ---
 

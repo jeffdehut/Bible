@@ -7,12 +7,16 @@ language: "Greek"
 verses: 31
 cross_references_out: 172
 cross_references_in: 177
+dated_from: 59
+dated_to: 59
 tags: ["chapter", "nt", "pauline-epistles"]
 ---
 
 # 1 Corinthians 1
 
 ← [[connections/chapters/45-romans/Romans 16|Romans 16]] · [[connections/books/1 Corinthians|1 Corinthians]] · [[connections/chapters/46-1-corinthians/1 Corinthians 2|1 Corinthians 2]] →
+
+**Dated** *(Ussher, after the Treasury of Scripture Knowledge)*: [[connections/timeline/1st century AD|AD 59]]
 
 ## Text
 

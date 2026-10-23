@@ -7,12 +7,16 @@ language: "Hebrew"
 verses: 15
 cross_references_out: 70
 cross_references_in: 63
+dated_from: -1061
+dated_to: -1061
 tags: ["chapter", "ot", "wisdom"]
 ---
 
 # Psalms 17
 
 ← [[connections/chapters/19-psalms/Psalms 16|Psalms 16]] · [[connections/books/Psalms|Psalms]] · [[connections/chapters/19-psalms/Psalms 18|Psalms 18]] →
+
+**Dated** *(Ussher, after the Treasury of Scripture Knowledge)*: [[connections/timeline/11th century BC|1062 BC]]
 
 ## Text
 

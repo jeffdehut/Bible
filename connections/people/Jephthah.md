@@ -7,6 +7,10 @@ original: ["יִפְתָּח", "Ἰεφθάε"]
 verses: 26
 chapters: 4
 first: "Judges 11:1"
+placed: "1187 BC"
+placed_year: -1186
+generation: 2
+sex: "male"
 tags: ["person"]
 ---
 
@@ -15,6 +19,29 @@ tags: ["person"]
 A judge of Israel, known for his tragic vow.
 
 **Original-language names:** יִפְתָּח (H3316) · Ἰεφθάε (G2422)
+
+## When
+
+- **Placed around:** [[connections/timeline/12th century BC|1187 BC]] *(Ussher: the median date of the passages naming them)*
+
+## Family
+
+- **Father:** [[connections/people/Gilead (Judges 11.1)|Gilead (Judges 11.1)]]
+
+**Family group:** [[connections/genealogy/Family of Gilead (Judges 11.1)|Family of Gilead (Judges 11.1)]], generation 2
+
+```mermaid
+flowchart TB
+  n0["Jephthah"]:::me
+  n1["Gilead (Judges 11.1)"]
+  n1 --> n0
+  classDef me stroke-width:3px
+  classDef spouse stroke-dasharray:4
+```
+
+## Events
+
+- [[connections/timeline/12th century BC|1152 BC]] · [[connections/events/Deliverance by Jephthah|Deliverance by Jephthah]]
 
 ## Appears in
 

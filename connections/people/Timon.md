@@ -7,6 +7,9 @@ original: ["Τίμων"]
 verses: 1
 chapters: 1
 first: "Acts 6:5"
+placed: "AD 33"
+placed_year: 33
+sex: "male"
 tags: ["person"]
 ---
 
@@ -15,6 +18,14 @@ tags: ["person"]
 One of the seven chosen to serve the church
 
 **Original-language names:** Τίμων (G5096)
+
+## When
+
+- **Placed around:** [[connections/timeline/1st century AD|AD 33]] *(Ussher: the median date of the passages naming them)*
+
+## Events
+
+- [[connections/timeline/1st century AD|AD 30]] · [[connections/events/Seven chosen to serve|Seven chosen to serve]]
 
 ## Appears in
 

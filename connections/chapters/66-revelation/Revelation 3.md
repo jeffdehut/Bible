@@ -7,12 +7,16 @@ language: "Greek"
 verses: 22
 cross_references_out: 212
 cross_references_in: 229
+dated_from: 96
+dated_to: 96
 tags: ["chapter", "nt", "revelation"]
 ---
 
 # Revelation 3
 
 ← [[connections/chapters/66-revelation/Revelation 2|Revelation 2]] · [[connections/books/Revelation|Revelation]] · [[connections/chapters/66-revelation/Revelation 4|Revelation 4]] →
+
+**Dated** *(Ussher, after the Treasury of Scripture Knowledge)*: [[connections/timeline/1st century AD|AD 96]]
 
 ## Text
 

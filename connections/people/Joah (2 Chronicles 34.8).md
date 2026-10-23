@@ -7,6 +7,10 @@ original: ["יוֹאָח"]
 verses: 1
 chapters: 1
 first: "2 Chronicles 34:8"
+placed: "624 BC"
+placed_year: -623
+generation: 2
+sex: "male"
 tags: ["person"]
 ---
 
@@ -15,6 +19,25 @@ tags: ["person"]
 Son of Joahaz, King Josiah's secretary
 
 **Original-language names:** יוֹאָח (H3098)
+
+## When
+
+- **Placed around:** [[connections/timeline/7th century BC|624 BC]] *(Ussher: the median date of the passages naming them)*
+
+## Family
+
+- **Father:** [[connections/people/Joahaz|Joahaz]]
+
+**Family group:** [[connections/genealogy/Family of Joahaz|Family of Joahaz]], generation 2
+
+```mermaid
+flowchart TB
+  n0["Joah (2 Chronicles 34.8)"]:::me
+  n1["Joahaz"]
+  n1 --> n0
+  classDef me stroke-width:3px
+  classDef spouse stroke-dasharray:4
+```
 
 ## Appears in
 

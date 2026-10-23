@@ -7,12 +7,16 @@ language: "Hebrew"
 verses: 10
 cross_references_out: 12
 cross_references_in: 10
+dated_from: -594
+dated_to: -594
 tags: ["chapter", "ot", "prophets"]
 ---
 
 # Ezekiel 2
 
 ← [[connections/chapters/26-ezekiel/Ezekiel 1|Ezekiel 1]] · [[connections/books/Ezekiel|Ezekiel]] · [[connections/chapters/26-ezekiel/Ezekiel 3|Ezekiel 3]] →
+
+**Dated** *(Ussher, after the Treasury of Scripture Knowledge)*: [[connections/timeline/6th century BC|595 BC]]
 
 ## Text
 

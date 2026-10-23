@@ -7,12 +7,16 @@ language: "Hebrew"
 verses: 22
 cross_references_out: 8
 cross_references_in: 13
+dated_from: -587
+dated_to: -587
 tags: ["chapter", "ot", "prophets"]
 ---
 
 # Lamentations 2
 
 ← [[connections/chapters/25-lamentations/Lamentations 1|Lamentations 1]] · [[connections/books/Lamentations|Lamentations]] · [[connections/chapters/25-lamentations/Lamentations 3|Lamentations 3]] →
+
+**Dated** *(Ussher, after the Treasury of Scripture Knowledge)*: [[connections/timeline/6th century BC|588 BC]]
 
 ## Text
 

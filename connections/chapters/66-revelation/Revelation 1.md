@@ -7,12 +7,16 @@ language: "Greek"
 verses: 20
 cross_references_out: 204
 cross_references_in: 208
+dated_from: 96
+dated_to: 96
 tags: ["chapter", "nt", "revelation"]
 ---
 
 # Revelation 1
 
 ← [[connections/chapters/65-jude/Jude 1|Jude 1]] · [[connections/books/Revelation|Revelation]] · [[connections/chapters/66-revelation/Revelation 2|Revelation 2]] →
+
+**Dated** *(Ussher, after the Treasury of Scripture Knowledge)*: [[connections/timeline/1st century AD|AD 96]]
 
 ## Text
 

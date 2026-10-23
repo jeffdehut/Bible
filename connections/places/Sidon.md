@@ -20,6 +20,12 @@ Phoenician city; home of Jezebel
 
 **Original-language names:** צִידוֹן (H6721) · צִידוֹן+H7227G«H7227a=רַב (H6721) · Σιδών (G4605)
 
+## Events
+
+- [[connections/timeline/1st century AD|AD 29]] · [[connections/events/Healing Canaanite Daughter|Healing Canaanite Daughter]]
+- [[connections/timeline/1st century AD|AD 56]] · [[connections/events/Journey to Rome begins|Journey to Rome begins]]
+- [[connections/timeline/1st century AD|AD 56]] · [[connections/events/Paul's Journey to Rome|Paul's Journey to Rome]]
+
 ## Appears in
 
 [[connections/chapters/01-genesis/Genesis 10|Genesis 10]] · [[connections/chapters/01-genesis/Genesis 49|Genesis 49]] · [[connections/chapters/06-joshua/Joshua 11|Joshua 11]] · [[connections/chapters/06-joshua/Joshua 19|Joshua 19]] · [[connections/chapters/07-judges/Judges 1|Judges 1]] · [[connections/chapters/07-judges/Judges 10|Judges 10]] · [[connections/chapters/07-judges/Judges 18|Judges 18]] · [[connections/chapters/10-2-samuel/2 Samuel 24|2 Samuel 24]] · [[connections/chapters/11-1-kings/1 Kings 17|1 Kings 17]] · [[connections/chapters/23-isaiah/Isaiah 23|Isaiah 23 (3)]] · [[connections/chapters/24-jeremiah/Jeremiah 25|Jeremiah 25]] · [[connections/chapters/24-jeremiah/Jeremiah 27|Jeremiah 27]] · [[connections/chapters/24-jeremiah/Jeremiah 47|Jeremiah 47]] · [[connections/chapters/26-ezekiel/Ezekiel 27|Ezekiel 27]] · [[connections/chapters/26-ezekiel/Ezekiel 28|Ezekiel 28 (2)]] · [[connections/chapters/29-joel/Joel 4|Joel 4]] · [[connections/chapters/38-zechariah/Zechariah 9|Zechariah 9]] · [[connections/chapters/40-matthew/Matthew 11|Matthew 11 (2)]] · [[connections/chapters/40-matthew/Matthew 15|Matthew 15]] · [[connections/chapters/41-mark/Mark 3|Mark 3]] · [[connections/chapters/41-mark/Mark 7|Mark 7 (2)]] · [[connections/chapters/42-luke/Luke 4|Luke 4]] · [[connections/chapters/42-luke/Luke 6|Luke 6]] · [[connections/chapters/42-luke/Luke 10|Luke 10 (2)]] · [[connections/chapters/44-acts/Acts 27|Acts 27]]

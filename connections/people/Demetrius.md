@@ -7,6 +7,9 @@ original: ["Δημήτριος"]
 verses: 3
 chapters: 2
 first: "Acts 19:24"
+placed: "AD 58"
+placed_year: 58
+sex: "male"
 tags: ["person"]
 ---
 
@@ -15,6 +18,14 @@ tags: ["person"]
 Silversmith who opposed Paul in Ephesus
 
 **Original-language names:** Δημήτριος (G1216)
+
+## When
+
+- **Placed around:** [[connections/timeline/1st century AD|AD 58]] *(Ussher: the median date of the passages naming them)*
+
+## Events
+
+- [[connections/timeline/1st century AD|AD 53]] · [[connections/events/Riot in Ephesus|Riot in Ephesus]]
 
 ## Appears in
 

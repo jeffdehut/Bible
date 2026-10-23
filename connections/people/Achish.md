@@ -8,6 +8,10 @@ original: ["אָכִישׁ", "אֲבִימֶ֫לֶךְ"]
 verses: 21
 chapters: 6
 first: "1 Samuel 21:11"
+placed: "1056 BC"
+placed_year: -1055
+generation: 2
+sex: "male"
 tags: ["person"]
 ---
 
@@ -18,6 +22,26 @@ Philistine king of Gath, gave refuge to David
 **Also called:** Abimelech
 
 **Original-language names:** אָכִישׁ (H0397) · אֲבִימֶ֫לֶךְ (H0040)
+
+## When
+
+- **Placed around:** [[connections/timeline/11th century BC|1056 BC]] *(Ussher: the median date of the passages naming them)*
+
+## Family
+
+- **Father:** [[connections/people/Maoch|Maoch]]
+- **Tribe or nation:** Philistia
+
+**Family group:** [[connections/genealogy/Family of Maoch|Family of Maoch]], generation 2
+
+```mermaid
+flowchart TB
+  n0["Achish"]:::me
+  n1["Maoch"]
+  n1 --> n0
+  classDef me stroke-width:3px
+  classDef spouse stroke-dasharray:4
+```
 
 ## Appears in
 

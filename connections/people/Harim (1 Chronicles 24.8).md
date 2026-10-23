@@ -7,6 +7,9 @@ original: ["חָרִם"]
 verses: 5
 chapters: 4
 first: "1 Chronicles 24:8"
+placed: "456 BC"
+placed_year: -455
+sex: "male"
 tags: ["person"]
 ---
 
@@ -15,6 +18,10 @@ tags: ["person"]
 A priestly division during David's reign.
 
 **Original-language names:** חָרִם (H2766)
+
+## When
+
+- **Placed around:** [[connections/timeline/5th century BC|456 BC]] *(Ussher: the median date of the passages naming them)*
 
 ## Appears in
 

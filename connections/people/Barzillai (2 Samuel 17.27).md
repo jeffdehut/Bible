@@ -7,6 +7,9 @@ original: ["בַּרְזִלַּי"]
 verses: 9
 chapters: 5
 first: "2 Samuel 17:27"
+placed: "1023 BC"
+placed_year: -1022
+sex: "male"
 tags: ["person"]
 ---
 
@@ -15,6 +18,10 @@ tags: ["person"]
 A Gileadite who provided for David during Absalom's rebellion.
 
 **Original-language names:** בַּרְזִלַּי (H1271)
+
+## When
+
+- **Placed around:** [[connections/timeline/11th century BC|1023 BC]] *(Ussher: the median date of the passages naming them)*
 
 ## Appears in
 

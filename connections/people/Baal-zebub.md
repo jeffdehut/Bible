@@ -7,6 +7,9 @@ original: ["בַּעַל זְבוּב"]
 verses: 4
 chapters: 1
 first: "2 Kings 1:2"
+placed: "896 BC"
+placed_year: -895
+sex: "male"
 tags: ["person"]
 ---
 
@@ -15,6 +18,10 @@ tags: ["person"]
 A Philistine god worshiped at Ekron.
 
 **Original-language names:** בַּעַל זְבוּב (H1176)
+
+## When
+
+- **Placed around:** [[connections/timeline/9th century BC|896 BC]] *(Ussher: the median date of the passages naming them)*
 
 ## Appears in
 

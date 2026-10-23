@@ -8,6 +8,10 @@ original: ["מְרֵמוֹת", "מְרָיוֹת"]
 verses: 6
 chapters: 4
 first: "Ezra 8:33"
+placed: "445 BC"
+placed_year: -444
+generation: 3
+sex: "male"
 tags: ["person"]
 ---
 
@@ -18,6 +22,29 @@ A priest who returned from the Babylonian exile.
 **Also called:** Meraioth
 
 **Original-language names:** מְרֵמוֹת (H4822) · מְרָיוֹת (H4812)
+
+## When
+
+- **Placed around:** [[connections/timeline/5th century BC|445 BC]] *(Ussher: the median date of the passages naming them)*
+
+## Family
+
+- **Father:** [[connections/people/Uriah (Ezra 8.33)|Uriah (Ezra 8.33)]]
+
+**Line of descent** (3 generations, father to son): [[connections/people/Hakkoz (Nehemiah 3.4)|Hakkoz (Nehemiah 3.4)]] → [[connections/people/Uriah (Ezra 8.33)|Uriah (Ezra 8.33)]] → **Meremoth (Ezra 8.33)**
+
+**Family group:** [[connections/genealogy/Family of Hakkoz (Nehemiah 3.4)|Family of Hakkoz (Nehemiah 3.4)]], generation 3
+
+```mermaid
+flowchart TB
+  n0["Meremoth (Ezra 8.33)"]:::me
+  n1["Hakkoz (Nehemiah 3.4)"]
+  n2["Uriah (Ezra 8.33)"]
+  n1 --> n2
+  n2 --> n0
+  classDef me stroke-width:3px
+  classDef spouse stroke-dasharray:4
+```
 
 ## Appears in
 

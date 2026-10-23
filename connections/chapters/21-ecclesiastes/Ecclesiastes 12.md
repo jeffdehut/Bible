@@ -7,12 +7,16 @@ language: "Hebrew"
 verses: 14
 cross_references_out: 80
 cross_references_in: 59
+dated_from: -976
+dated_to: -976
 tags: ["chapter", "ot", "wisdom"]
 ---
 
 # Ecclesiastes 12
 
 ← [[connections/chapters/21-ecclesiastes/Ecclesiastes 11|Ecclesiastes 11]] · [[connections/books/Ecclesiastes|Ecclesiastes]] · [[connections/chapters/22-song-of-songs/Song of Songs 1|Song of Songs 1]] →
+
+**Dated** *(Ussher, after the Treasury of Scripture Knowledge)*: [[connections/timeline/10th century BC|977 BC]]
 
 ## Text
 

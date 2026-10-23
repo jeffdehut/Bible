@@ -8,6 +8,10 @@ original: ["Ἰούδας", "Λεββαῖος", "Θαδδαῖος"]
 verses: 5
 chapters: 5
 first: "Matthew 10:3"
+placed: "AD 33"
+placed_year: 33
+generation: 2
+sex: "male"
 tags: ["person"]
 ---
 
@@ -18,6 +22,30 @@ One of the twelve apostles of Jesus
 **Also called:** Lebbeus, Thaddeus
 
 **Original-language names:** Ἰούδας (G2455) · Λεββαῖος (G3002) · Θαδδαῖος (G2280)
+
+## When
+
+- **Placed around:** [[connections/timeline/1st century AD|AD 33]] *(Ussher: the median date of the passages naming them)*
+
+## Family
+
+- **Father:** [[connections/people/James (Luke 6.16)|James (Luke 6.16)]]
+
+**Family group:** [[connections/genealogy/Family of James (Luke 6.16)|Family of James (Luke 6.16)]], generation 2
+
+```mermaid
+flowchart TB
+  n0["Judas (Matthew 10.3)"]:::me
+  n1["James (Luke 6.16)"]
+  n1 --> n0
+  classDef me stroke-width:3px
+  classDef spouse stroke-dasharray:4
+```
+
+## Events
+
+- [[connections/timeline/1st century AD|AD 28]] · [[connections/events/Apostles Chosen|Apostles Chosen]]
+- [[connections/timeline/1st century AD|AD 30]] · [[connections/events/Matthias replaces Judas|Matthias replaces Judas]]
 
 ## Appears in
 

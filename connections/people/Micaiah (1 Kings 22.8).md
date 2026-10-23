@@ -8,6 +8,10 @@ original: ["מִיכָֽיְהוּ", "מִיכָהוּ", "מִיכָה"]
 verses: 18
 chapters: 2
 first: "1 Kings 22:8"
+placed: "897 BC"
+placed_year: -896
+generation: 2
+sex: "male"
 tags: ["person"]
 ---
 
@@ -18,6 +22,25 @@ A prophet who foretold King Ahab's death.
 **Also called:** Micahu
 
 **Original-language names:** מִיכָֽיְהוּ (H4321) · מִיכָהוּ (H4319) · מִיכָה (H4318)
+
+## When
+
+- **Placed around:** [[connections/timeline/9th century BC|897 BC]] *(Ussher: the median date of the passages naming them)*
+
+## Family
+
+- **Father:** [[connections/people/Imlah|Imlah]]
+
+**Family group:** [[connections/genealogy/Family of Imlah|Family of Imlah]], generation 2
+
+```mermaid
+flowchart TB
+  n0["Micaiah (1 Kings 22.8)"]:::me
+  n1["Imlah"]
+  n1 --> n0
+  classDef me stroke-width:3px
+  classDef spouse stroke-dasharray:4
+```
 
 ## Appears in
 

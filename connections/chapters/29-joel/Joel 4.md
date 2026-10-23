@@ -7,12 +7,16 @@ language: "Hebrew"
 verses: 21
 cross_references_out: 28
 cross_references_in: 32
+dated_from: -799
+dated_to: -799
 tags: ["chapter", "ot", "prophets"]
 ---
 
 # Joel 4
 
 ← [[connections/chapters/29-joel/Joel 3|Joel 3]] · [[connections/books/Joel|Joel]] · [[connections/chapters/30-amos/Amos 1|Amos 1]] →
+
+**Dated** *(Ussher, after the Treasury of Scripture Knowledge)*: [[connections/timeline/8th century BC|800 BC]]
 
 ## Text
 

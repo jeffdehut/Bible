@@ -7,12 +7,16 @@ language: "Hebrew"
 verses: 12
 cross_references_out: 3
 cross_references_in: 3
+dated_from: -1140
+dated_to: -1140
 tags: ["chapter", "ot", "history"]
 ---
 
 # 1 Samuel 5
 
 ← [[connections/chapters/09-1-samuel/1 Samuel 4|1 Samuel 4]] · [[connections/books/1 Samuel|1 Samuel]] · [[connections/chapters/09-1-samuel/1 Samuel 6|1 Samuel 6]] →
+
+**Dated** *(Ussher, after the Treasury of Scripture Knowledge)*: [[connections/timeline/12th century BC|1141 BC]]
 
 ## Text
 

@@ -8,6 +8,12 @@ original: ["בִּנְיָמִין", "בֶּן־אוֹנִ֑י", "יָמִין",
 verses: 158
 chapters: 76
 first: "Genesis 35:18"
+born: "1739 BC"
+born_year: -1738
+placed: "1406 BC"
+placed_year: -1405
+generation: 24
+sex: "male"
 tags: ["person"]
 ---
 
@@ -18,6 +24,90 @@ Youngest son of Jacob and Rachel
 **Also called:** Ben-oni, Jamin, Jeminite
 
 **Original-language names:** בִּנְיָמִין (H1144) · בֶּן־אוֹנִ֑י (H1126) · יָמִין (H3225) · יְמִינִי (H3227b) · Βενιαμίν (G0958)
+
+## When
+
+- **Lived:** [[connections/timeline/18th century BC|1739 BC]] – ? *(Jones)*
+- **Placed around:** [[connections/timeline/15th century BC|1406 BC]] *(Ussher: the median date of the passages naming them)*
+
+## Family
+
+- **Father:** [[connections/people/Israel|Israel]]
+- **Mother:** [[connections/people/Rachel|Rachel]]
+- **Brothers and sisters:** [[connections/people/Asher|Asher]], [[connections/people/Dan|Dan]], [[connections/people/Dinah|Dinah]], [[connections/people/Gad (Genesis 30.11)|Gad (Genesis 30.11)]], [[connections/people/Issachar (Genesis 30.18)|Issachar (Genesis 30.18)]], [[connections/people/Joseph (Genesis 30.24)|Joseph (Genesis 30.24)]], [[connections/people/Judah (Genesis 29.35)|Judah (Genesis 29.35)]], [[connections/people/Levi (Genesis 29.34)|Levi (Genesis 29.34)]], [[connections/people/Naphtali|Naphtali]], [[connections/people/Reuben|Reuben]], [[connections/people/Simeon (Genesis 29.33)|Simeon (Genesis 29.33)]], [[connections/people/Zebulun|Zebulun]]
+- **Children:** [[connections/people/Ahiram|Ahiram]], [[connections/people/Ard (Genesis 46.21)|Ard (Genesis 46.21)]], [[connections/people/Ashbel|Ashbel]], [[connections/people/Becher (Genesis 46.21)|Becher (Genesis 46.21)]], [[connections/people/Bela (Genesis 46.21)|Bela (Genesis 46.21)]], [[connections/people/Gera (Genesis 46.21)|Gera (Genesis 46.21)]], [[connections/people/Huppim (Genesis 46.21)|Huppim (Genesis 46.21)]], [[connections/people/Jediael (1 Chronicles 7.6)|Jediael (1 Chronicles 7.6)]], [[connections/people/Muppim|Muppim]], [[connections/people/Naaman (Genesis 46.21)|Naaman (Genesis 46.21)]], [[connections/people/Rosh|Rosh]]
+- **Tribe or nation:** Tribe of Benjamin
+
+**Line of descent** (24 generations, father to son): [[connections/people/Adam|Adam]] → [[connections/people/Seth|Seth]] → [[connections/people/Enosh|Enosh]] → [[connections/people/Kenan|Kenan]] → [[connections/people/Mahalalel (Genesis 5.12)|Mahalalel (Genesis 5.12)]] → [[connections/people/Jared|Jared]] → [[connections/people/Enoch (Genesis 5.18)|Enoch (Genesis 5.18)]] → [[connections/people/Methuselah|Methuselah]] → [[connections/people/Lamech (Genesis 5.25)|Lamech (Genesis 5.25)]] → [[connections/people/Noah (Genesis 5.29)|Noah (Genesis 5.29)]] → [[connections/people/Shem|Shem]] → [[connections/people/Arpachshad|Arpachshad]] → [[connections/people/Cainan|Cainan]] → [[connections/people/Shelah (Genesis 10.24)|Shelah (Genesis 10.24)]] → [[connections/people/Eber (Genesis 10.21)|Eber (Genesis 10.21)]] → [[connections/people/Peleg|Peleg]] → [[connections/people/Reu|Reu]] → [[connections/people/Serug|Serug]] → [[connections/people/Nahor (Genesis 11.22)|Nahor (Genesis 11.22)]] → [[connections/people/Terah|Terah]] → [[connections/people/Abraham|Abraham]] → [[connections/people/Isaac|Isaac]] → [[connections/people/Israel|Israel]] → **Benjamin (Genesis 35.18)**
+
+**Family group:** [[connections/genealogy/Family of Adam|Family of Adam]], generation 24
+
+```mermaid
+flowchart TB
+  n0["Benjamin (Genesis 35.18)"]:::me
+  n1["Isaac"]
+  n2["Israel"]
+  n1 --> n2
+  n3["Rebekah"]
+  n3 --> n2
+  n2 --> n0
+  n4["Laban"]
+  n5["Rachel"]
+  n4 --> n5
+  n5 --> n0
+  n6["Asher"]
+  n2 --> n6
+  n7["Dan"]
+  n2 --> n7
+  n8["Dinah"]
+  n2 --> n8
+  n9["Gad (Genesis 30.11)"]
+  n2 --> n9
+  n10["Issachar (Genesis 30.18)"]
+  n2 --> n10
+  n11["Joseph (Genesis 30.24)"]
+  n2 --> n11
+  n12["Judah (Genesis 29.35)"]
+  n2 --> n12
+  n13["Levi (Genesis 29.34)"]
+  n2 --> n13
+  n14["Naphtali"]
+  n2 --> n14
+  n15["Reuben"]
+  n2 --> n15
+  n16["Simeon (Genesis 29.33)"]
+  n2 --> n16
+  n17["Zebulun"]
+  n2 --> n17
+  n18["Ahiram"]
+  n0 --> n18
+  n19["Ard (Genesis 46.21)"]
+  n0 --> n19
+  n20["Ashbel"]
+  n0 --> n20
+  n21["Becher (Genesis 46.21)"]
+  n0 --> n21
+  n22["Bela (Genesis 46.21)"]
+  n0 --> n22
+  n23["Gera (Genesis 46.21)"]
+  n0 --> n23
+  n24["Huppim (Genesis 46.21)"]
+  n0 --> n24
+  n25["Jediael (1 Chronicles 7.6)"]
+  n0 --> n25
+  n26["Muppim"]
+  n0 --> n26
+  n27["Naaman (Genesis 46.21)"]
+  n0 --> n27
+  n28["Rosh"]
+  n0 --> n28
+  classDef me stroke-width:3px
+  classDef spouse stroke-dasharray:4
+```
+
+## Events
+
+- [[connections/timeline/18th century BC|1739 BC]] · [[connections/events/Rachel dies giving birth to Benjamin|Rachel dies giving birth to Benjamin]]
 
 ## Appears in
 

@@ -17,6 +17,10 @@ A seaport in Mysia, visited by Paul.
 
 **Original-language names:** Ἄσσος (G0789)
 
+## Events
+
+- [[connections/timeline/1st century AD|AD 54]] · [[connections/events/Voyage to Miletus|Voyage to Miletus]]
+
 ## Appears in
 
 [[connections/chapters/44-acts/Acts 20|Acts 20 (2)]]

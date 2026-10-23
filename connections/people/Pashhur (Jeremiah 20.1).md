@@ -8,6 +8,9 @@ original: ["פַּשְׁחוּר", "מָגוֹר מִסָּבִיב"]
 verses: 4
 chapters: 1
 first: "Jeremiah 20:1"
+placed: "607 BC"
+placed_year: -606
+sex: "male"
 tags: ["person"]
 ---
 
@@ -18,6 +21,10 @@ Priest who opposed Jeremiah and was renamed Magor-missabib
 **Also called:** Magor-missabib
 
 **Original-language names:** פַּשְׁחוּר (H6583) · מָגוֹר מִסָּבִיב (H4036)
+
+## When
+
+- **Placed around:** [[connections/timeline/7th century BC|607 BC]] *(Ussher: the median date of the passages naming them)*
 
 ## Appears in
 

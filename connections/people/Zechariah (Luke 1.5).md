@@ -7,6 +7,10 @@ original: ["Ζαχαρίας"]
 verses: 9
 chapters: 2
 first: "Luke 1:5"
+placed: "5 BC"
+placed_year: -4
+generation: 2
+sex: "male"
 tags: ["person"]
 ---
 
@@ -15,6 +19,28 @@ tags: ["person"]
 Priest, father of John the Baptist
 
 **Original-language names:** Ζαχαρίας (G2197)
+
+## When
+
+- **Placed around:** [[connections/timeline/1st century BC|5 BC]] *(Ussher: the median date of the passages naming them)*
+
+## Family
+
+- **Spouses:** [[connections/people/Elizabeth|Elizabeth]]
+- **Children:** [[connections/people/John (Matthew 3.1)|John (Matthew 3.1)]]
+
+**Family group:** [[connections/genealogy/Family of Adam|Family of Adam]], generation 2
+
+```mermaid
+flowchart TB
+  n0["Zechariah (Luke 1.5)"]:::me
+  n1["Elizabeth"]:::spouse
+  n0 -.- n1
+  n2["John (Matthew 3.1)"]
+  n0 --> n2
+  classDef me stroke-width:3px
+  classDef spouse stroke-dasharray:4
+```
 
 ## Appears in
 

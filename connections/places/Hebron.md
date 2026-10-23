@@ -20,6 +20,11 @@ An important city in Judah; burial place of patriarchs.
 
 **Original-language names:** חֶבְרוֹן (H2275a) · קִרְיַת אַרְבַּע (H7153)
 
+## Events
+
+- [[connections/timeline/20th century BC|1920 BC]] · [[connections/events/Abraham and Lot Separate|Abraham and Lot Separate]]
+- [[connections/timeline/11th century BC|1055 BC]] · [[connections/events/Reign of David|Reign of David]]
+
 ## Appears in
 
 [[connections/chapters/01-genesis/Genesis 13|Genesis 13]] · [[connections/chapters/01-genesis/Genesis 23|Genesis 23 (2)]] · [[connections/chapters/01-genesis/Genesis 35|Genesis 35]] · [[connections/chapters/04-numbers/Numbers 13|Numbers 13]] · [[connections/chapters/06-joshua/Joshua 10|Joshua 10 (5)]] · [[connections/chapters/06-joshua/Joshua 11|Joshua 11]] · [[connections/chapters/06-joshua/Joshua 12|Joshua 12]] · [[connections/chapters/06-joshua/Joshua 14|Joshua 14 (3)]] · [[connections/chapters/06-joshua/Joshua 15|Joshua 15 (2)]] · [[connections/chapters/06-joshua/Joshua 20|Joshua 20]] · [[connections/chapters/06-joshua/Joshua 21|Joshua 21 (2)]] · [[connections/chapters/07-judges/Judges 1|Judges 1 (2)]] · [[connections/chapters/07-judges/Judges 16|Judges 16]] · [[connections/chapters/09-1-samuel/1 Samuel 30|1 Samuel 30]] · [[connections/chapters/10-2-samuel/2 Samuel 2|2 Samuel 2 (4)]] · [[connections/chapters/10-2-samuel/2 Samuel 3|2 Samuel 3 (7)]] · [[connections/chapters/10-2-samuel/2 Samuel 4|2 Samuel 4 (3)]] · [[connections/chapters/10-2-samuel/2 Samuel 5|2 Samuel 5 (4)]] · [[connections/chapters/10-2-samuel/2 Samuel 15|2 Samuel 15 (3)]] · [[connections/chapters/11-1-kings/1 Kings 2|1 Kings 2]] · [[connections/chapters/13-1-chronicles/1 Chronicles 3|1 Chronicles 3 (2)]] · [[connections/chapters/13-1-chronicles/1 Chronicles 6|1 Chronicles 6 (2)]] · [[connections/chapters/13-1-chronicles/1 Chronicles 11|1 Chronicles 11 (2)]] · [[connections/chapters/13-1-chronicles/1 Chronicles 12|1 Chronicles 12 (2)]] · [[connections/chapters/13-1-chronicles/1 Chronicles 29|1 Chronicles 29]] · [[connections/chapters/14-2-chronicles/2 Chronicles 11|2 Chronicles 11]] · [[connections/chapters/16-nehemiah/Nehemiah 11|Nehemiah 11]]

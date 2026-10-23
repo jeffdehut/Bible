@@ -7,6 +7,14 @@ original: ["אַהֲרֹן", "Ἀαρών"]
 verses: 333
 chapters: 101
 first: "Exodus 4:14"
+born: "1574 BC"
+born_year: -1573
+died: "1452 BC"
+died_year: -1451
+placed: "1490 BC"
+placed_year: -1489
+generation: 27
+sex: "male"
 tags: ["person"]
 ---
 
@@ -15,6 +23,58 @@ tags: ["person"]
 Moses' brother, first high priest of Israel
 
 **Original-language names:** אַהֲרֹן (H0175) · Ἀαρών (G0002)
+
+## When
+
+- **Lived:** [[connections/timeline/16th century BC|1574 BC]] – [[connections/timeline/15th century BC|1452 BC]] *(Jones)*
+- **Placed around:** [[connections/timeline/15th century BC|1490 BC]] *(Ussher: the median date of the passages naming them)*
+
+## Family
+
+- **Father:** [[connections/people/Amram (Exodus 6.18)|Amram (Exodus 6.18)]]
+- **Mother:** [[connections/people/Jochebed|Jochebed]]
+- **Brothers and sisters:** [[connections/people/Miriam (Exodus 15.20)|Miriam (Exodus 15.20)]], [[connections/people/Moses|Moses]]
+- **Spouses:** [[connections/people/Elisheba|Elisheba]]
+- **Children:** [[connections/people/Abihu|Abihu]], [[connections/people/Eleazar (Exodus 6.23)|Eleazar (Exodus 6.23)]], [[connections/people/Ithamar|Ithamar]], [[connections/people/Nadab (Exodus 6.23)|Nadab (Exodus 6.23)]]
+- **Tribe or nation:** Tribe of Levi
+
+**Line of descent** (27 generations, father to son): [[connections/people/Adam|Adam]] → [[connections/people/Seth|Seth]] → [[connections/people/Enosh|Enosh]] → [[connections/people/Kenan|Kenan]] → [[connections/people/Mahalalel (Genesis 5.12)|Mahalalel (Genesis 5.12)]] → [[connections/people/Jared|Jared]] → [[connections/people/Enoch (Genesis 5.18)|Enoch (Genesis 5.18)]] → [[connections/people/Methuselah|Methuselah]] → [[connections/people/Lamech (Genesis 5.25)|Lamech (Genesis 5.25)]] → [[connections/people/Noah (Genesis 5.29)|Noah (Genesis 5.29)]] → [[connections/people/Shem|Shem]] → [[connections/people/Arpachshad|Arpachshad]] → [[connections/people/Cainan|Cainan]] → [[connections/people/Shelah (Genesis 10.24)|Shelah (Genesis 10.24)]] → [[connections/people/Eber (Genesis 10.21)|Eber (Genesis 10.21)]] → [[connections/people/Peleg|Peleg]] → [[connections/people/Reu|Reu]] → [[connections/people/Serug|Serug]] → [[connections/people/Nahor (Genesis 11.22)|Nahor (Genesis 11.22)]] → [[connections/people/Terah|Terah]] → [[connections/people/Abraham|Abraham]] → [[connections/people/Isaac|Isaac]] → [[connections/people/Israel|Israel]] → [[connections/people/Levi (Genesis 29.34)|Levi (Genesis 29.34)]] → [[connections/people/Kohath|Kohath]] → [[connections/people/Amram (Exodus 6.18)|Amram (Exodus 6.18)]] → **Aaron**
+
+**Family group:** [[connections/genealogy/Family of Adam|Family of Adam]], generation 27
+
+```mermaid
+flowchart TB
+  n0["Aaron"]:::me
+  n1["Kohath"]
+  n2["Amram (Exodus 6.18)"]
+  n1 --> n2
+  n2 --> n0
+  n3["Levi (Genesis 29.34)"]
+  n4["Jochebed"]
+  n3 --> n4
+  n4 --> n0
+  n5["Miriam (Exodus 15.20)"]
+  n2 --> n5
+  n6["Moses"]
+  n2 --> n6
+  n7["Elisheba"]:::spouse
+  n0 -.- n7
+  n8["Abihu"]
+  n0 --> n8
+  n9["Eleazar (Exodus 6.23)"]
+  n0 --> n9
+  n10["Ithamar"]
+  n0 --> n10
+  n11["Nadab (Exodus 6.23)"]
+  n0 --> n11
+  classDef me stroke-width:3px
+  classDef spouse stroke-dasharray:4
+```
+
+## Events
+
+- [[connections/timeline/15th century BC|1491 BC]] · [[connections/events/Exodus from Egypt|Exodus from Egypt]]
+- [[connections/timeline/15th century BC|1491 BC]] · [[connections/events/Wilderness Wanderings|Wilderness Wanderings]]
 
 ## Appears in
 

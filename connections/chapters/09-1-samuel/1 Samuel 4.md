@@ -7,12 +7,16 @@ language: "Hebrew"
 verses: 22
 cross_references_out: 3
 cross_references_in: 5
+dated_from: -1140
+dated_to: -1140
 tags: ["chapter", "ot", "history"]
 ---
 
 # 1 Samuel 4
 
 ← [[connections/chapters/09-1-samuel/1 Samuel 3|1 Samuel 3]] · [[connections/books/1 Samuel|1 Samuel]] · [[connections/chapters/09-1-samuel/1 Samuel 5|1 Samuel 5]] →
+
+**Dated** *(Ussher, after the Treasury of Scripture Knowledge)*: [[connections/timeline/12th century BC|1141 BC]]
 
 ## Text
 

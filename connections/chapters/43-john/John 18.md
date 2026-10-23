@@ -7,12 +7,16 @@ language: "Greek"
 verses: 40
 cross_references_out: 32
 cross_references_in: 25
+dated_from: 33
+dated_to: 33
 tags: ["chapter", "nt", "gospels"]
 ---
 
 # John 18
 
 ← [[connections/chapters/43-john/John 17|John 17]] · [[connections/books/John|John]] · [[connections/chapters/43-john/John 19|John 19]] →
+
+**Dated** *(Ussher, after the Treasury of Scripture Knowledge)*: [[connections/timeline/1st century AD|AD 33]]
 
 ## Text
 

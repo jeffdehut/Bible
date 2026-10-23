@@ -7,6 +7,10 @@ original: ["פֶּ֫קַח"]
 verses: 11
 chapters: 4
 first: "2 Kings 15:25"
+placed: "742 BC"
+placed_year: -741
+generation: 2
+sex: "male"
 tags: ["person"]
 ---
 
@@ -15,6 +19,32 @@ tags: ["person"]
 King of Israel who reigned for 20 years
 
 **Original-language names:** פֶּ֫קַח (H6492)
+
+## When
+
+- **Placed around:** [[connections/timeline/8th century BC|742 BC]] *(Ussher: the median date of the passages naming them)*
+
+## Family
+
+- **Father:** [[connections/people/Remaliah|Remaliah]]
+- **Tribe or nation:** Israel
+
+**Family group:** [[connections/genealogy/Family of Remaliah|Family of Remaliah]], generation 2
+
+```mermaid
+flowchart TB
+  n0["Pekah"]:::me
+  n1["Remaliah"]
+  n1 --> n0
+  classDef me stroke-width:3px
+  classDef spouse stroke-dasharray:4
+```
+
+## Events
+
+- [[connections/timeline/8th century BC|759 BC]] · [[connections/events/Death of Pekahiah|Death of Pekahiah]]
+- [[connections/timeline/8th century BC|759 BC]] · [[connections/events/Reign of Pekah|Reign of Pekah]]
+- [[connections/timeline/8th century BC|739 BC]] · [[connections/events/Death of Pekah|Death of Pekah]]
 
 ## Appears in
 

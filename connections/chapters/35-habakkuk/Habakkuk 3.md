@@ -7,12 +7,16 @@ language: "Hebrew"
 verses: 19
 cross_references_out: 64
 cross_references_in: 36
+dated_from: -625
+dated_to: -625
 tags: ["chapter", "ot", "prophets"]
 ---
 
 # Habakkuk 3
 
 ← [[connections/chapters/35-habakkuk/Habakkuk 2|Habakkuk 2]] · [[connections/books/Habakkuk|Habakkuk]] · [[connections/chapters/36-zephaniah/Zephaniah 1|Zephaniah 1]] →
+
+**Dated** *(Ussher, after the Treasury of Scripture Knowledge)*: [[connections/timeline/7th century BC|626 BC]]
 
 ## Text
 

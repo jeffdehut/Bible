@@ -7,12 +7,16 @@ language: "Hebrew"
 verses: 26
 cross_references_out: 0
 cross_references_in: 3
+dated_from: -587
+dated_to: -587
 tags: ["chapter", "ot", "prophets"]
 ---
 
 # Ezekiel 30
 
 ← [[connections/chapters/26-ezekiel/Ezekiel 29|Ezekiel 29]] · [[connections/books/Ezekiel|Ezekiel]] · [[connections/chapters/26-ezekiel/Ezekiel 31|Ezekiel 31]] →
+
+**Dated** *(Ussher, after the Treasury of Scripture Knowledge)*: [[connections/timeline/6th century BC|588 BC]]
 
 ## Text
 

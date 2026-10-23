@@ -7,6 +7,10 @@ original: ["תָּמָר", "Θάμαρ"]
 verses: 7
 chapters: 4
 first: "Genesis 38:6"
+placed: "1722 BC"
+placed_year: -1721
+generation: 26
+sex: "female"
 tags: ["person"]
 ---
 
@@ -15,6 +19,36 @@ tags: ["person"]
 Judah's daughter-in-law who bore Perez and Zerah
 
 **Original-language names:** תָּמָר (H8559) · Θάμαρ (G2283)
+
+## When
+
+- **Placed around:** [[connections/timeline/18th century BC|1722 BC]] *(Ussher: the median date of the passages naming them)*
+
+## Family
+
+- **Spouses:** [[connections/people/Er (Genesis 38.3)|Er (Genesis 38.3)]], [[connections/people/Judah (Genesis 29.35)|Judah (Genesis 29.35)]]
+- **Children:** [[connections/people/Perez|Perez]], [[connections/people/Zerah (Genesis 38.30)|Zerah (Genesis 38.30)]]
+
+**Family group:** [[connections/genealogy/Family of Adam|Family of Adam]], generation 26
+
+```mermaid
+flowchart TB
+  n0["Tamar (Genesis 38.6)"]:::me
+  n1["Er (Genesis 38.3)"]:::spouse
+  n0 -.- n1
+  n2["Judah (Genesis 29.35)"]:::spouse
+  n0 -.- n2
+  n3["Perez"]
+  n0 --> n3
+  n4["Zerah (Genesis 38.30)"]
+  n0 --> n4
+  classDef me stroke-width:3px
+  classDef spouse stroke-dasharray:4
+```
+
+## Events
+
+- [[connections/timeline/18th century BC|1721 BC]] · [[connections/events/Birth of Perez|Birth of Perez]]
 
 ## Appears in
 

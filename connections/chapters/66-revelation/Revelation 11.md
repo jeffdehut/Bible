@@ -7,12 +7,16 @@ language: "Greek"
 verses: 19
 cross_references_out: 44
 cross_references_in: 67
+dated_from: 96
+dated_to: 96
 tags: ["chapter", "nt", "revelation"]
 ---
 
 # Revelation 11
 
 ← [[connections/chapters/66-revelation/Revelation 10|Revelation 10]] · [[connections/books/Revelation|Revelation]] · [[connections/chapters/66-revelation/Revelation 12|Revelation 12]] →
+
+**Dated** *(Ussher, after the Treasury of Scripture Knowledge)*: [[connections/timeline/1st century AD|AD 96]]
 
 ## Text
 

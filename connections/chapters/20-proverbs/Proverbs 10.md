@@ -7,12 +7,16 @@ language: "Hebrew"
 verses: 32
 cross_references_out: 90
 cross_references_in: 86
+dated_from: -999
+dated_to: -999
 tags: ["chapter", "ot", "wisdom"]
 ---
 
 # Proverbs 10
 
 ← [[connections/chapters/20-proverbs/Proverbs 9|Proverbs 9]] · [[connections/books/Proverbs|Proverbs]] · [[connections/chapters/20-proverbs/Proverbs 11|Proverbs 11]] →
+
+**Dated** *(Ussher, after the Treasury of Scripture Knowledge)*: [[connections/timeline/10th century BC|1000 BC]]
 
 ## Text
 

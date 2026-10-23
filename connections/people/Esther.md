@@ -8,6 +8,10 @@ original: ["אֶסְתֵּר", "הֲדַסָּה"]
 verses: 45
 chapters: 7
 first: "Esther 2:7"
+placed: "453 BC"
+placed_year: -452
+generation: 2
+sex: "female"
 tags: ["person"]
 ---
 
@@ -18,6 +22,25 @@ Jewish queen of Persia; saved her people from genocide.
 **Also called:** Hadassah
 
 **Original-language names:** אֶסְתֵּר (H0635) · הֲדַסָּה (H1919)
+
+## When
+
+- **Placed around:** [[connections/timeline/5th century BC|453 BC]] *(Ussher: the median date of the passages naming them)*
+
+## Family
+
+- **Father:** [[connections/people/Abihail (Esther 2.15)|Abihail (Esther 2.15)]]
+
+**Family group:** [[connections/genealogy/Family of Abihail (Esther 2.15)|Family of Abihail (Esther 2.15)]], generation 2
+
+```mermaid
+flowchart TB
+  n0["Esther"]:::me
+  n1["Abihail (Esther 2.15)"]
+  n1 --> n0
+  classDef me stroke-width:3px
+  classDef spouse stroke-dasharray:4
+```
 
 ## Appears in
 

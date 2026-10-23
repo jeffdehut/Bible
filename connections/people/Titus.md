@@ -7,6 +7,9 @@ original: ["Τίτος"]
 verses: 15
 chapters: 9
 first: "2 Corinthians 2:13"
+placed: "AD 60"
+placed_year: 60
+sex: "male"
 tags: ["person"]
 ---
 
@@ -15,6 +18,10 @@ tags: ["person"]
 Gentile convert and companion of Paul
 
 **Original-language names:** Τίτος (G5103)
+
+## When
+
+- **Placed around:** [[connections/timeline/1st century AD|AD 60]] *(Ussher: the median date of the passages naming them)*
 
 ## Appears in
 

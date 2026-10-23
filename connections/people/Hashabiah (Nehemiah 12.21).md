@@ -7,6 +7,7 @@ original: ["חֲשַׁבְיָ֫הוּ"]
 verses: 1
 chapters: 1
 first: "Nehemiah 12:21"
+sex: "male"
 tags: ["person"]
 ---
 

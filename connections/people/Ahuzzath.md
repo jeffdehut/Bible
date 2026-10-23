@@ -7,6 +7,9 @@ original: ["אֲחֻזַּת"]
 verses: 1
 chapters: 1
 first: "Genesis 26:26"
+placed: "1804 BC"
+placed_year: -1803
+sex: "male"
 tags: ["person"]
 ---
 
@@ -15,6 +18,10 @@ tags: ["person"]
 Friend and advisor of Abimelech, Philistine king of Gerar
 
 **Original-language names:** אֲחֻזַּת (H0276)
+
+## When
+
+- **Placed around:** [[connections/timeline/19th century BC|1804 BC]] *(Ussher: the median date of the passages naming them)*
 
 ## Appears in
 

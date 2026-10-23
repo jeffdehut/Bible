@@ -7,6 +7,9 @@ original: ["מַלְכִּי־צֶ֫דֶק", "Μελχισεδέκ"]
 verses: 11
 chapters: 5
 first: "Genesis 14:18"
+placed: "AD 64"
+placed_year: 64
+sex: "male"
 tags: ["person"]
 ---
 
@@ -15,6 +18,15 @@ tags: ["person"]
 King of Salem and priest of God Most High.
 
 **Original-language names:** מַלְכִּי־צֶ֫דֶק (H4442) · Μελχισεδέκ (G3198)
+
+## When
+
+- **Placed around:** [[connections/timeline/1st century AD|AD 64]] *(Ussher: the median date of the passages naming them)*
+
+## Family
+
+- **Tribe or nation:** Canaan
+
 
 ## Appears in
 

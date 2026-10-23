@@ -7,6 +7,10 @@ original: ["יָבֵשׁ"]
 verses: 3
 chapters: 1
 first: "2 Kings 15:10"
+placed: "772 BC"
+placed_year: -771
+generation: 1
+sex: "male"
 tags: ["person"]
 ---
 
@@ -15,6 +19,25 @@ tags: ["person"]
 Assassinated Zechariah; reigned as king of Israel for a month.
 
 **Original-language names:** יָבֵשׁ (H3003)
+
+## When
+
+- **Placed around:** [[connections/timeline/8th century BC|772 BC]] *(Ussher: the median date of the passages naming them)*
+
+## Family
+
+- **Children:** [[connections/people/Shallum (2 Kings 15.10)|Shallum (2 Kings 15.10)]]
+
+**Family group:** [[connections/genealogy/Family of Jabesh|Family of Jabesh]], generation 1
+
+```mermaid
+flowchart TB
+  n0["Jabesh"]:::me
+  n1["Shallum (2 Kings 15.10)"]
+  n0 --> n1
+  classDef me stroke-width:3px
+  classDef spouse stroke-dasharray:4
+```
 
 ## Appears in
 

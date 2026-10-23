@@ -7,12 +7,16 @@ language: "Hebrew"
 verses: 54
 cross_references_out: 0
 cross_references_in: 2
+dated_from: -1489
+dated_to: -1489
 tags: ["chapter", "ot", "torah"]
 ---
 
 # Numbers 1
 
 ← [[connections/chapters/03-leviticus/Leviticus 27|Leviticus 27]] · [[connections/books/Numbers|Numbers]] · [[connections/chapters/04-numbers/Numbers 2|Numbers 2]] →
+
+**Dated** *(Ussher, after the Treasury of Scripture Knowledge)*: [[connections/timeline/15th century BC|1490 BC]]
 
 ## Text
 

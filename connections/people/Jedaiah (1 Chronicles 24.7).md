@@ -7,6 +7,9 @@ original: ["יְדַעְיָה"]
 verses: 3
 chapters: 3
 first: "1 Chronicles 24:7"
+placed: "445 BC"
+placed_year: -444
+sex: "male"
 tags: ["person"]
 ---
 
@@ -15,6 +18,10 @@ tags: ["person"]
 Head of a priestly division during David's reign
 
 **Original-language names:** יְדַעְיָה (H3048)
+
+## When
+
+- **Placed around:** [[connections/timeline/5th century BC|445 BC]] *(Ussher: the median date of the passages naming them)*
 
 ## Appears in
 

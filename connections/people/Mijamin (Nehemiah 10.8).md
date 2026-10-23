@@ -8,6 +8,9 @@ original: ["מִיָּמִן", "מִנְיָמִין"]
 verses: 3
 chapters: 2
 first: "Nehemiah 10:8"
+placed: "445 BC"
+placed_year: -444
+sex: "male"
 tags: ["person"]
 ---
 
@@ -18,6 +21,10 @@ A priest who sealed the covenant with Nehemiah.
 **Also called:** Miniamin
 
 **Original-language names:** מִיָּמִן (H4326) · מִנְיָמִין (H4509)
+
+## When
+
+- **Placed around:** [[connections/timeline/5th century BC|445 BC]] *(Ussher: the median date of the passages naming them)*
 
 ## Appears in
 

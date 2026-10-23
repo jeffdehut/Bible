@@ -7,12 +7,16 @@ language: "Greek"
 verses: 30
 cross_references_out: 154
 cross_references_in: 163
+dated_from: 64
+dated_to: 64
 tags: ["chapter", "nt", "pauline-epistles"]
 ---
 
 # Philippians 1
 
 ← [[connections/chapters/49-ephesians/Ephesians 6|Ephesians 6]] · [[connections/books/Philippians|Philippians]] · [[connections/chapters/50-philippians/Philippians 2|Philippians 2]] →
+
+**Dated** *(Ussher, after the Treasury of Scripture Knowledge)*: [[connections/timeline/1st century AD|AD 64]]
 
 ## Text
 

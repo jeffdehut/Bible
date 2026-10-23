@@ -7,12 +7,16 @@ language: "Hebrew"
 verses: 25
 cross_references_out: 3
 cross_references_in: 2
+dated_from: -855
+dated_to: -835
 tags: ["chapter", "ot", "history"]
 ---
 
 # 2 Kings 13
 
 ← [[connections/chapters/12-2-kings/2 Kings 12|2 Kings 12]] · [[connections/books/2 Kings|2 Kings]] · [[connections/chapters/12-2-kings/2 Kings 14|2 Kings 14]] →
+
+**Dated** *(Ussher, after the Treasury of Scripture Knowledge)*: [[connections/timeline/9th century BC|856 BC]] – [[connections/timeline/9th century BC|836 BC]]
 
 ## Text
 

@@ -7,12 +7,16 @@ language: "Hebrew"
 verses: 39
 cross_references_out: 0
 cross_references_in: 7
+dated_from: -1047
+dated_to: -1047
 tags: ["chapter", "ot", "history"]
 ---
 
 # 2 Samuel 3
 
 ← [[connections/chapters/10-2-samuel/2 Samuel 2|2 Samuel 2]] · [[connections/books/2 Samuel|2 Samuel]] · [[connections/chapters/10-2-samuel/2 Samuel 4|2 Samuel 4]] →
+
+**Dated** *(Ussher, after the Treasury of Scripture Knowledge)*: [[connections/timeline/11th century BC|1048 BC]]
 
 ## Text
 

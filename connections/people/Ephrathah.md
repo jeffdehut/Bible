@@ -7,6 +7,10 @@ original: ["אֶפְרָ֫תָה", "אֶפְרָת"]
 verses: 4
 chapters: 2
 first: "1 Chronicles 2:19"
+placed: "1470 BC"
+placed_year: -1469
+generation: 28
+sex: "female"
 tags: ["person"]
 ---
 
@@ -15,6 +19,33 @@ tags: ["person"]
 A wife of Caleb and founder of Bethlehem.
 
 **Original-language names:** אֶפְרָ֫תָה (H0672) · אֶפְרָת (H0672)
+
+## When
+
+- **Placed around:** [[connections/timeline/15th century BC|1470 BC]] *(Ussher: the median date of the passages naming them)*
+
+## Family
+
+- **Spouses:** [[connections/people/Caleb (1 Chronicles 2.9)|Caleb (1 Chronicles 2.9)]], [[connections/people/Hezron (Genesis 46.12)|Hezron (Genesis 46.12)]]
+- **Children:** [[connections/people/Hur (Exodus 17.10)|Hur (Exodus 17.10)]], [[connections/people/Ram (Ruth 4.19)|Ram (Ruth 4.19)]]
+- **Tribe or nation:** Tribe of Judah(?)
+
+**Family group:** [[connections/genealogy/Family of Adam|Family of Adam]], generation 28
+
+```mermaid
+flowchart TB
+  n0["Ephrathah"]:::me
+  n1["Caleb (1 Chronicles 2.9)"]:::spouse
+  n0 -.- n1
+  n2["Hezron (Genesis 46.12)"]:::spouse
+  n0 -.- n2
+  n3["Hur (Exodus 17.10)"]
+  n0 --> n3
+  n4["Ram (Ruth 4.19)"]
+  n0 --> n4
+  classDef me stroke-width:3px
+  classDef spouse stroke-dasharray:4
+```
 
 ## Appears in
 

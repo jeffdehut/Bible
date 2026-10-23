@@ -7,12 +7,16 @@ language: "Hebrew"
 verses: 26
 cross_references_out: 8
 cross_references_in: 9
+dated_from: -1450
+dated_to: -1450
 tags: ["chapter", "ot", "history"]
 ---
 
 # Joshua 7
 
 ← [[connections/chapters/06-joshua/Joshua 6|Joshua 6]] · [[connections/books/Joshua|Joshua]] · [[connections/chapters/06-joshua/Joshua 8|Joshua 8]] →
+
+**Dated** *(Ussher, after the Treasury of Scripture Knowledge)*: [[connections/timeline/15th century BC|1451 BC]]
 
 ## Text
 

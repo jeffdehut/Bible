@@ -7,6 +7,10 @@ original: ["יְשַׁעְיָ֫הוּ", "Ἡσαΐας"]
 verses: 54
 chapters: 29
 first: "2 Kings 19:2"
+placed: "710 BC"
+placed_year: -709
+generation: 2
+sex: "male"
 tags: ["person"]
 ---
 
@@ -15,6 +19,34 @@ tags: ["person"]
 Prophet during reigns of Uzziah, Jotham, Ahaz, Hezekiah.
 
 **Original-language names:** יְשַׁעְיָ֫הוּ (H3470a) · Ἡσαΐας (G2268)
+
+## When
+
+- **Placed around:** [[connections/timeline/8th century BC|710 BC]] *(Ussher: the median date of the passages naming them)*
+
+## Family
+
+- **Father:** [[connections/people/Amoz|Amoz]]
+- **Children:** [[connections/people/Maher-shalal-hash-baz|Maher-shalal-hash-baz]], [[connections/people/Shear-jashub|Shear-jashub]]
+
+**Family group:** [[connections/genealogy/Family of Amoz|Family of Amoz]], generation 2
+
+```mermaid
+flowchart TB
+  n0["Isaiah"]:::me
+  n1["Amoz"]
+  n1 --> n0
+  n2["Maher-shalal-hash-baz"]
+  n0 --> n2
+  n3["Shear-jashub"]
+  n0 --> n3
+  classDef me stroke-width:3px
+  classDef spouse stroke-dasharray:4
+```
+
+## Events
+
+- [[connections/timeline/8th century BC|759 BC]] · [[connections/events/Prophecies of Isaiah|Prophecies of Isaiah]]
 
 ## Appears in
 

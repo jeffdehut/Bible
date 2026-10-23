@@ -7,6 +7,10 @@ original: ["רִיבַי"]
 verses: 2
 chapters: 2
 first: "2 Samuel 23:29"
+placed: "1055 BC"
+placed_year: -1054
+generation: 1
+sex: "male"
 tags: ["person"]
 ---
 
@@ -15,6 +19,25 @@ tags: ["person"]
 Father of Ittai, one of David's mighty men
 
 **Original-language names:** רִיבַי (H7380)
+
+## When
+
+- **Placed around:** [[connections/timeline/11th century BC|1055 BC]] *(Ussher: the median date of the passages naming them)*
+
+## Family
+
+- **Children:** [[connections/people/Ittai (2 Samuel 23.29)|Ittai (2 Samuel 23.29)]]
+
+**Family group:** [[connections/genealogy/Family of Ribai|Family of Ribai]], generation 1
+
+```mermaid
+flowchart TB
+  n0["Ribai"]:::me
+  n1["Ittai (2 Samuel 23.29)"]
+  n0 --> n1
+  classDef me stroke-width:3px
+  classDef spouse stroke-dasharray:4
+```
 
 ## Appears in
 

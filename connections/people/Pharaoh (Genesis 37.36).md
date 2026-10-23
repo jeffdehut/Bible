@@ -7,6 +7,9 @@ original: ["פַּרְעֹה", "Φαραώ"]
 verses: 70
 chapters: 11
 first: "Genesis 37:36"
+placed: "1715 BC"
+placed_year: -1714
+sex: "male"
 tags: ["person"]
 ---
 
@@ -15,6 +18,20 @@ tags: ["person"]
 Egyptian ruler during Joseph's time
 
 **Original-language names:** פַּרְעֹה (H6547) · Φαραώ (G5328)
+
+## When
+
+- **Placed around:** [[connections/timeline/18th century BC|1715 BC]] *(Ussher: the median date of the passages naming them)*
+
+## Family
+
+- **Tribe or nation:** Egypt
+
+
+## Events
+
+- [[connections/timeline/18th century BC|1718 BC]] · [[connections/events/Joseph imprisoned|Joseph imprisoned]]
+- [[connections/timeline/18th century BC|1715 BC]] · [[connections/events/7 years of plenty|7 years of plenty]]
 
 ## Appears in
 

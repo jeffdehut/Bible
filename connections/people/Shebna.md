@@ -7,6 +7,9 @@ original: ["שֶׁבְנָא"]
 verses: 9
 chapters: 5
 first: "2 Kings 18:18"
+placed: "710 BC"
+placed_year: -709
+sex: "male"
 tags: ["person"]
 ---
 
@@ -15,6 +18,10 @@ tags: ["person"]
 Steward of the palace during Hezekiah's reign
 
 **Original-language names:** שֶׁבְנָא (H7644)
+
+## When
+
+- **Placed around:** [[connections/timeline/8th century BC|710 BC]] *(Ussher: the median date of the passages naming them)*
 
 ## Appears in
 

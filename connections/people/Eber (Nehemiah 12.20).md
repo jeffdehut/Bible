@@ -7,6 +7,7 @@ original: ["עֵ֫בֶר"]
 verses: 1
 chapters: 1
 first: "Nehemiah 12:20"
+sex: "male"
 tags: ["person"]
 ---
 

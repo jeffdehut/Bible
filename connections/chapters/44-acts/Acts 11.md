@@ -7,12 +7,16 @@ language: "Greek"
 verses: 30
 cross_references_out: 12
 cross_references_in: 44
+dated_from: 41
+dated_to: 43
 tags: ["chapter", "nt", "acts"]
 ---
 
 # Acts 11
 
 ← [[connections/chapters/44-acts/Acts 10|Acts 10]] · [[connections/books/Acts|Acts]] · [[connections/chapters/44-acts/Acts 12|Acts 12]] →
+
+**Dated** *(Ussher, after the Treasury of Scripture Knowledge)*: [[connections/timeline/1st century AD|AD 41]] – [[connections/timeline/1st century AD|AD 43]]
 
 ## Text
 

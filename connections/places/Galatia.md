@@ -17,6 +17,11 @@ A region in Asia Minor, recipient of Paul's epistle.
 
 **Original-language names:** Γαλατία (G1053) · Γαλατικός (G1054)
 
+## Events
+
+- [[connections/timeline/1st century AD|AD 47]] · [[connections/events/Mission to Phrygia, Galatia and Asia|Mission to Phrygia, Galatia and Asia]]
+- [[connections/timeline/1st century AD|AD 50]] · [[connections/events/Return from Second Missionary Journey|Return from Second Missionary Journey]]
+
 ## Appears in
 
 [[connections/chapters/44-acts/Acts 16|Acts 16]] · [[connections/chapters/44-acts/Acts 18|Acts 18]] · [[connections/chapters/46-1-corinthians/1 Corinthians 16|1 Corinthians 16]] · [[connections/chapters/48-galatians/Galatians 1|Galatians 1]] · [[connections/chapters/55-2-timothy/2 Timothy 4|2 Timothy 4]] · [[connections/chapters/60-1-peter/1 Peter 1|1 Peter 1]]

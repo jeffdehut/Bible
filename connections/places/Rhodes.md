@@ -17,6 +17,10 @@ Island visited by Paul on his journey
 
 **Original-language names:** Ῥόδος (G4499)
 
+## Events
+
+- [[connections/timeline/1st century AD|AD 54]] · [[connections/events/Voyage from Miletus to Jerusalem|Voyage from Miletus to Jerusalem]]
+
 ## Appears in
 
 [[connections/chapters/44-acts/Acts 21|Acts 21]]

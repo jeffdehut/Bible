@@ -17,6 +17,13 @@ A city in Asia Minor, visited by Paul
 
 **Original-language names:** Τρωάς (G5174)
 
+## Events
+
+- [[connections/timeline/1st century AD|AD 47]] · [[connections/events/Mission to Phrygia, Galatia and Asia|Mission to Phrygia, Galatia and Asia]]
+- [[connections/timeline/1st century AD|AD 47]] · [[connections/events/Call to Macedonia|Call to Macedonia]]
+- [[connections/timeline/1st century AD|AD 54]] · [[connections/events/Mission to Macedonia and Greece|Mission to Macedonia and Greece]]
+- [[connections/timeline/1st century AD|AD 54]] · [[connections/events/Eutychus revived|Eutychus revived]]
+
 ## Appears in
 
 [[connections/chapters/44-acts/Acts 16|Acts 16 (2)]] · [[connections/chapters/44-acts/Acts 20|Acts 20 (2)]] · [[connections/chapters/47-2-corinthians/2 Corinthians 2|2 Corinthians 2]] · [[connections/chapters/55-2-timothy/2 Timothy 4|2 Timothy 4]]

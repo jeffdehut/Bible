@@ -7,6 +7,9 @@ original: ["עֲזַרְיָ֫הוּ"]
 verses: 2
 chapters: 1
 first: "2 Chronicles 31:10"
+placed: "726 BC"
+placed_year: -725
+sex: "male"
 tags: ["person"]
 ---
 
@@ -15,6 +18,10 @@ tags: ["person"]
 Chief priest during Hezekiah's reign
 
 **Original-language names:** עֲזַרְיָ֫הוּ (H5838)
+
+## When
+
+- **Placed around:** [[connections/timeline/8th century BC|726 BC]] *(Ussher: the median date of the passages naming them)*
 
 ## Appears in
 

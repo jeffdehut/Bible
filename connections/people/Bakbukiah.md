@@ -7,6 +7,9 @@ original: ["בַּקְבֻּקְיָה"]
 verses: 3
 chapters: 2
 first: "Nehemiah 11:17"
+placed: "445 BC"
+placed_year: -444
+sex: "male"
 tags: ["person"]
 ---
 
@@ -15,6 +18,10 @@ tags: ["person"]
 A Levite who served in Jerusalem after the exile.
 
 **Original-language names:** בַּקְבֻּקְיָה (H1229)
+
+## When
+
+- **Placed around:** [[connections/timeline/5th century BC|445 BC]] *(Ussher: the median date of the passages naming them)*
 
 ## Appears in
 

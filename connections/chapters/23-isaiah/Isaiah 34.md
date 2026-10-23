@@ -7,12 +7,16 @@ language: "Hebrew"
 verses: 17
 cross_references_out: 19
 cross_references_in: 16
+dated_from: -712
+dated_to: -712
 tags: ["chapter", "ot", "prophets"]
 ---
 
 # Isaiah 34
 
 ← [[connections/chapters/23-isaiah/Isaiah 33|Isaiah 33]] · [[connections/books/Isaiah|Isaiah]] · [[connections/chapters/23-isaiah/Isaiah 35|Isaiah 35]] →
+
+**Dated** *(Ussher, after the Treasury of Scripture Knowledge)*: [[connections/timeline/8th century BC|713 BC]]
 
 ## Text
 

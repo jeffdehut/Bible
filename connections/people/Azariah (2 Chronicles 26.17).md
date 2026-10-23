@@ -7,6 +7,9 @@ original: ["עֲזַרְיָ֫הוּ"]
 verses: 2
 chapters: 1
 first: "2 Chronicles 26:17"
+placed: "810 BC"
+placed_year: -809
+sex: "male"
 tags: ["person"]
 ---
 
@@ -15,6 +18,10 @@ tags: ["person"]
 High priest who confronted King Uzziah
 
 **Original-language names:** עֲזַרְיָ֫הוּ (H5838)
+
+## When
+
+- **Placed around:** [[connections/timeline/9th century BC|810 BC]] *(Ussher: the median date of the passages naming them)*
 
 ## Appears in
 

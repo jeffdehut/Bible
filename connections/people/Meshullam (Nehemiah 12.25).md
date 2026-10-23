@@ -7,6 +7,7 @@ original: ["מְשֻׁלָּם"]
 verses: 1
 chapters: 1
 first: "Nehemiah 12:25"
+sex: "male"
 tags: ["person"]
 ---
 

@@ -8,6 +8,9 @@ original: ["אֲבִי־עַלְבוֹן", "אֲבִיאֵל"]
 verses: 2
 chapters: 2
 first: "2 Samuel 23:31"
+placed: "1055 BC"
+placed_year: -1054
+sex: "male"
 tags: ["person"]
 ---
 
@@ -18,6 +21,10 @@ One of David's mighty men, an Arbathite
 **Also called:** Abiel
 
 **Original-language names:** אֲבִי־עַלְבוֹן (H0045) · אֲבִיאֵל (H0022)
+
+## When
+
+- **Placed around:** [[connections/timeline/11th century BC|1055 BC]] *(Ussher: the median date of the passages naming them)*
 
 ## Appears in
 

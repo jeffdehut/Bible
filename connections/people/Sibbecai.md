@@ -8,6 +8,9 @@ original: ["סִבְּכַי", "מְבֻנַּי"]
 verses: 5
 chapters: 5
 first: "2 Samuel 21:18"
+placed: "1018 BC"
+placed_year: -1017
+sex: "male"
 tags: ["person"]
 ---
 
@@ -18,6 +21,10 @@ One of David's mighty men, a Hushathite.
 **Also called:** Mebunnai
 
 **Original-language names:** סִבְּכַי (H5444) · מְבֻנַּי (H4012)
+
+## When
+
+- **Placed around:** [[connections/timeline/11th century BC|1018 BC]] *(Ussher: the median date of the passages naming them)*
 
 ## Appears in
 

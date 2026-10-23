@@ -7,12 +7,16 @@ language: "Hebrew"
 verses: 30
 cross_references_out: 11
 cross_references_in: 11
+dated_from: -1062
+dated_to: -1062
 tags: ["chapter", "ot", "history"]
 ---
 
 # 1 Samuel 18
 
 ← [[connections/chapters/09-1-samuel/1 Samuel 17|1 Samuel 17]] · [[connections/books/1 Samuel|1 Samuel]] · [[connections/chapters/09-1-samuel/1 Samuel 19|1 Samuel 19]] →
+
+**Dated** *(Ussher, after the Treasury of Scripture Knowledge)*: [[connections/timeline/11th century BC|1063 BC]]
 
 ## Text
 

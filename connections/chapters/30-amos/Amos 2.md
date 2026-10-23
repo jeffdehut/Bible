@@ -7,12 +7,16 @@ language: "Hebrew"
 verses: 16
 cross_references_out: 4
 cross_references_in: 7
+dated_from: -786
+dated_to: -786
 tags: ["chapter", "ot", "prophets"]
 ---
 
 # Amos 2
 
 ← [[connections/chapters/30-amos/Amos 1|Amos 1]] · [[connections/books/Amos|Amos]] · [[connections/chapters/30-amos/Amos 3|Amos 3]] →
+
+**Dated** *(Ussher, after the Treasury of Scripture Knowledge)*: [[connections/timeline/8th century BC|787 BC]]
 
 ## Text
 

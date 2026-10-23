@@ -7,12 +7,16 @@ language: "Greek"
 verses: 10
 cross_references_out: 150
 cross_references_in: 120
+dated_from: 90
+dated_to: 90
 tags: ["chapter", "nt", "general-epistles"]
 ---
 
 # 1 John 1
 
 ← [[connections/chapters/61-2-peter/2 Peter 3|2 Peter 3]] · [[connections/books/1 John|1 John]] · [[connections/chapters/62-1-john/1 John 2|1 John 2]] →
+
+**Dated** *(Ussher, after the Treasury of Scripture Knowledge)*: [[connections/timeline/1st century AD|AD 90]]
 
 ## Text
 

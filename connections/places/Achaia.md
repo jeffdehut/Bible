@@ -17,6 +17,11 @@ A Roman province in southern Greece, including Corinth.
 
 **Original-language names:** Ἀχαΐα (G0882)
 
+## Events
+
+- [[connections/timeline/1st century AD|AD 49]] · [[connections/events/Mission to Corinth, 1&2 Thess Written|Mission to Corinth, 1&2 Thess Written]]
+- [[connections/timeline/1st century AD|AD 50]] · [[connections/events/Third Missionary Journey Begins|Third Missionary Journey Begins]]
+
 ## Appears in
 
 [[connections/chapters/44-acts/Acts 18|Acts 18 (2)]] · [[connections/chapters/44-acts/Acts 19|Acts 19]] · [[connections/chapters/45-romans/Romans 15|Romans 15]] · [[connections/chapters/45-romans/Romans 16|Romans 16]] · [[connections/chapters/46-1-corinthians/1 Corinthians 16|1 Corinthians 16]] · [[connections/chapters/47-2-corinthians/2 Corinthians 1|2 Corinthians 1]] · [[connections/chapters/47-2-corinthians/2 Corinthians 9|2 Corinthians 9]] · [[connections/chapters/47-2-corinthians/2 Corinthians 11|2 Corinthians 11]] · [[connections/chapters/52-1-thessalonians/1 Thessalonians 1|1 Thessalonians 1 (2)]]

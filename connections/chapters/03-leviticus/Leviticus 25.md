@@ -7,12 +7,16 @@ language: "Hebrew"
 verses: 55
 cross_references_out: 11
 cross_references_in: 14
+dated_from: -1490
+dated_to: -1490
 tags: ["chapter", "ot", "torah"]
 ---
 
 # Leviticus 25
 
 ← [[connections/chapters/03-leviticus/Leviticus 24|Leviticus 24]] · [[connections/books/Leviticus|Leviticus]] · [[connections/chapters/03-leviticus/Leviticus 26|Leviticus 26]] →
+
+**Dated** *(Ussher, after the Treasury of Scripture Knowledge)*: [[connections/timeline/15th century BC|1491 BC]]
 
 ## Text
 

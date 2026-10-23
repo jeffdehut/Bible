@@ -7,12 +7,16 @@ language: "Hebrew"
 verses: 25
 cross_references_out: 14
 cross_references_in: 12
+dated_from: -1154
+dated_to: -1154
 tags: ["chapter", "ot", "history"]
 ---
 
 # Judges 13
 
 ← [[connections/chapters/07-judges/Judges 12|Judges 12]] · [[connections/books/Judges|Judges]] · [[connections/chapters/07-judges/Judges 14|Judges 14]] →
+
+**Dated** *(Ussher, after the Treasury of Scripture Knowledge)*: [[connections/timeline/12th century BC|1155 BC]]
 
 ## Text
 

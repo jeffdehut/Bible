@@ -7,6 +7,10 @@ original: ["בִּכְרִי"]
 verses: 8
 chapters: 1
 first: "2 Samuel 20:1"
+placed: "1022 BC"
+placed_year: -1021
+generation: 1
+sex: "male"
 tags: ["person"]
 ---
 
@@ -15,6 +19,26 @@ tags: ["person"]
 Benjamite, father of the rebel Sheba
 
 **Original-language names:** בִּכְרִי (H1075)
+
+## When
+
+- **Placed around:** [[connections/timeline/11th century BC|1022 BC]] *(Ussher: the median date of the passages naming them)*
+
+## Family
+
+- **Children:** [[connections/people/Sheba (2 Samuel 20.1)|Sheba (2 Samuel 20.1)]]
+- **Tribe or nation:** Tribe of Benjamin
+
+**Family group:** [[connections/genealogy/Family of Bichri|Family of Bichri]], generation 1
+
+```mermaid
+flowchart TB
+  n0["Bichri"]:::me
+  n1["Sheba (2 Samuel 20.1)"]
+  n0 --> n1
+  classDef me stroke-width:3px
+  classDef spouse stroke-dasharray:4
+```
 
 ## Appears in
 

@@ -7,12 +7,16 @@ language: "Greek"
 verses: 22
 cross_references_out: 98
 cross_references_in: 160
+dated_from: 66
+dated_to: 66
 tags: ["chapter", "nt", "general-epistles"]
 ---
 
 # 2 Peter 2
 
 ← [[connections/chapters/61-2-peter/2 Peter 1|2 Peter 1]] · [[connections/books/2 Peter|2 Peter]] · [[connections/chapters/61-2-peter/2 Peter 3|2 Peter 3]] →
+
+**Dated** *(Ussher, after the Treasury of Scripture Knowledge)*: [[connections/timeline/1st century AD|AD 66]]
 
 ## Text
 

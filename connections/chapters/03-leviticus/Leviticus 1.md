@@ -7,12 +7,16 @@ language: "Hebrew"
 verses: 17
 cross_references_out: 17
 cross_references_in: 1
+dated_from: -1489
+dated_to: -1489
 tags: ["chapter", "ot", "torah"]
 ---
 
 # Leviticus 1
 
 ← [[connections/chapters/02-exodus/Exodus 40|Exodus 40]] · [[connections/books/Leviticus|Leviticus]] · [[connections/chapters/03-leviticus/Leviticus 2|Leviticus 2]] →
+
+**Dated** *(Ussher, after the Treasury of Scripture Knowledge)*: [[connections/timeline/15th century BC|1490 BC]]
 
 ## Text
 

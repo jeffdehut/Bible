@@ -7,12 +7,16 @@ language: "Hebrew"
 verses: 23
 cross_references_out: 7
 cross_references_in: 16
+dated_from: -1451
+dated_to: -1451
 tags: ["chapter", "ot", "torah"]
 ---
 
 # Numbers 27
 
 ← [[connections/chapters/04-numbers/Numbers 26|Numbers 26]] · [[connections/books/Numbers|Numbers]] · [[connections/chapters/04-numbers/Numbers 28|Numbers 28]] →
+
+**Dated** *(Ussher, after the Treasury of Scripture Knowledge)*: [[connections/timeline/15th century BC|1452 BC]]
 
 ## Text
 

@@ -7,6 +7,9 @@ original: ["אִדּוֹ"]
 verses: 1
 chapters: 1
 first: "Ezra 8:17"
+placed: "457 BC"
+placed_year: -456
+sex: "male"
 tags: ["person"]
 ---
 
@@ -15,6 +18,10 @@ tags: ["person"]
 A prophet in Casiphia during Ezra's time.
 
 **Original-language names:** אִדּוֹ (H0112)
+
+## When
+
+- **Placed around:** [[connections/timeline/5th century BC|457 BC]] *(Ussher: the median date of the passages naming them)*
 
 ## Appears in
 

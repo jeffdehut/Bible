@@ -7,6 +7,10 @@ original: ["אֲבִיטָ֑ל"]
 verses: 2
 chapters: 2
 first: "2 Samuel 3:4"
+placed: "1048 BC"
+placed_year: -1047
+generation: 36
+sex: "female"
 tags: ["person"]
 ---
 
@@ -15,6 +19,28 @@ tags: ["person"]
 One of David's wives; mother of Shephatiah
 
 **Original-language names:** אֲבִיטָ֑ל (H0037)
+
+## When
+
+- **Placed around:** [[connections/timeline/11th century BC|1048 BC]] *(Ussher: the median date of the passages naming them)*
+
+## Family
+
+- **Spouses:** [[connections/people/David|David]]
+- **Children:** [[connections/people/Shephatiah (2 Samuel 3.4)|Shephatiah (2 Samuel 3.4)]]
+
+**Family group:** [[connections/genealogy/Family of Adam|Family of Adam]], generation 36
+
+```mermaid
+flowchart TB
+  n0["Abital"]:::me
+  n1["David"]:::spouse
+  n0 -.- n1
+  n2["Shephatiah (2 Samuel 3.4)"]
+  n0 --> n2
+  classDef me stroke-width:3px
+  classDef spouse stroke-dasharray:4
+```
 
 ## Appears in
 

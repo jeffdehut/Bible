@@ -7,6 +7,9 @@ original: ["אֶלְיָשִׁיב"]
 verses: 2
 chapters: 1
 first: "Nehemiah 13:4"
+placed: "445 BC"
+placed_year: -444
+sex: "male"
 tags: ["person"]
 ---
 
@@ -15,6 +18,10 @@ tags: ["person"]
 Priest who prepared a room for Tobiah in the temple
 
 **Original-language names:** אֶלְיָשִׁיב (H0475)
+
+## When
+
+- **Placed around:** [[connections/timeline/5th century BC|445 BC]] *(Ussher: the median date of the passages naming them)*
 
 ## Appears in
 

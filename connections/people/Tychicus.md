@@ -7,6 +7,9 @@ original: ["Τυχικός"]
 verses: 7
 chapters: 5
 first: "Acts 20:4"
+placed: "AD 64"
+placed_year: 64
+sex: "male"
 tags: ["person"]
 ---
 
@@ -15,6 +18,14 @@ tags: ["person"]
 Faithful companion and messenger of Paul
 
 **Original-language names:** Τυχικός (G5190)
+
+## When
+
+- **Placed around:** [[connections/timeline/1st century AD|AD 64]] *(Ussher: the median date of the passages naming them)*
+
+## Events
+
+- [[connections/timeline/1st century AD|AD 54]] · [[connections/events/Mission to Macedonia and Greece|Mission to Macedonia and Greece]]
 
 ## Appears in
 

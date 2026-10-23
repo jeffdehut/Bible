@@ -7,6 +7,9 @@ original: ["עוֹג"]
 verses: 22
 chapters: 15
 first: "Numbers 21:33"
+placed: "1451 BC"
+placed_year: -1450
+sex: "male"
 tags: ["person"]
 ---
 
@@ -15,6 +18,15 @@ tags: ["person"]
 King of Bashan, defeated by Israel
 
 **Original-language names:** עוֹג (H5747)
+
+## When
+
+- **Placed around:** [[connections/timeline/15th century BC|1451 BC]] *(Ussher: the median date of the passages naming them)*
+
+## Family
+
+- **Tribe or nation:** Ammon
+
 
 ## Appears in
 

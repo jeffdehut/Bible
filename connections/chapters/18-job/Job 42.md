@@ -7,12 +7,16 @@ language: "Hebrew"
 verses: 17
 cross_references_out: 79
 cross_references_in: 45
+dated_from: -1519
+dated_to: -1519
 tags: ["chapter", "ot", "wisdom"]
 ---
 
 # Job 42
 
 ← [[connections/chapters/18-job/Job 41|Job 41]] · [[connections/books/Job|Job]] · [[connections/chapters/19-psalms/Psalms 1|Psalms 1]] →
+
+**Dated** *(Ussher, after the Treasury of Scripture Knowledge)*: [[connections/timeline/16th century BC|1520 BC]]
 
 ## Text
 

@@ -8,6 +8,9 @@ original: ["Τιβέριος", "Καῖσαρ"]
 verses: 12
 chapters: 6
 first: "Matthew 22:17"
+placed: "AD 33"
+placed_year: 33
+sex: "male"
 tags: ["person"]
 ---
 
@@ -18,6 +21,11 @@ Roman emperor during Jesus' ministry and death
 **Also called:** Caesar
 
 **Original-language names:** Τιβέριος (G5086) · Καῖσαρ (G2541)
+
+## When
+
+- **Placed around:** [[connections/timeline/1st century AD|AD 33]] *(Ussher: the median date of the passages naming them)*
+- **Reigned / in office:** [[connections/timeline/1st century AD|AD 14]] – [[connections/timeline/1st century AD|AD 37]] *(modern dates)* · Tiberius, Rome · [Wikidata Q1407](https://www.wikidata.org/wiki/Q1407)
 
 ## Appears in
 

@@ -7,12 +7,16 @@ language: "Hebrew"
 verses: 23
 cross_references_out: 51
 cross_references_in: 45
+dated_from: -587
+dated_to: -587
 tags: ["chapter", "ot", "wisdom"]
 ---
 
 # Psalms 94
 
 ← [[connections/chapters/19-psalms/Psalms 93|Psalms 93]] · [[connections/books/Psalms|Psalms]] · [[connections/chapters/19-psalms/Psalms 95|Psalms 95]] →
+
+**Dated** *(Ussher, after the Treasury of Scripture Knowledge)*: [[connections/timeline/6th century BC|588 BC]]
 
 ## Text
 

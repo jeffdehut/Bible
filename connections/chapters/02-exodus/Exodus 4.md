@@ -7,12 +7,16 @@ language: "Hebrew"
 verses: 31
 cross_references_out: 33
 cross_references_in: 43
+dated_from: -1490
+dated_to: -1490
 tags: ["chapter", "ot", "torah"]
 ---
 
 # Exodus 4
 
 ← [[connections/chapters/02-exodus/Exodus 3|Exodus 3]] · [[connections/books/Exodus|Exodus]] · [[connections/chapters/02-exodus/Exodus 5|Exodus 5]] →
+
+**Dated** *(Ussher, after the Treasury of Scripture Knowledge)*: [[connections/timeline/15th century BC|1491 BC]]
 
 ## Text
 

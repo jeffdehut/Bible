@@ -1,0 +1,21 @@
+---
+type: "family"
+root: "Ur"
+people: 2
+generations: 2
+tags: ["genealogy"]
+---
+
+# Family of Ur
+
+2 people over 2 generations, counted down from [[connections/people/Ur|Ur]]. Generations follow parent-child links in TIPNR; an *ancestor* link (TIPNR flag `(a)`) counts as one step but may span several. People who join through marriage only appear under their own families.
+
+[[connections/genealogy/Genealogy|All families]]
+
+## Generation 1
+
+- [[connections/people/Ur|Ur]]
+
+## Generation 2
+
+- [[connections/people/Eliphal|Eliphal]] — child of [[connections/people/Ur|Ur]]

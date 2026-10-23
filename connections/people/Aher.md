@@ -7,6 +7,8 @@ original: ["אַחֵר"]
 verses: 1
 chapters: 1
 first: "1 Chronicles 7:12"
+generation: 1
+sex: "male"
 tags: ["person"]
 ---
 
@@ -15,6 +17,22 @@ tags: ["person"]
 Son of Shemer, from the tribe of Asher
 
 **Original-language names:** אַחֵר (H0313)
+
+## Family
+
+- **Children:** [[connections/people/Hushim (1 Chronicles 7.12)|Hushim (1 Chronicles 7.12)]]
+- **Tribe or nation:** Tribe of Benjamin(?)
+
+**Family group:** [[connections/genealogy/Family of Aher|Family of Aher]], generation 1
+
+```mermaid
+flowchart TB
+  n0["Aher"]:::me
+  n1["Hushim (1 Chronicles 7.12)"]
+  n0 --> n1
+  classDef me stroke-width:3px
+  classDef spouse stroke-dasharray:4
+```
 
 ## Appears in
 

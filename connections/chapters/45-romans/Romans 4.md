@@ -7,12 +7,16 @@ language: "Greek"
 verses: 25
 cross_references_out: 105
 cross_references_in: 115
+dated_from: 60
+dated_to: 60
 tags: ["chapter", "nt", "pauline-epistles"]
 ---
 
 # Romans 4
 
 ← [[connections/chapters/45-romans/Romans 3|Romans 3]] · [[connections/books/Romans|Romans]] · [[connections/chapters/45-romans/Romans 5|Romans 5]] →
+
+**Dated** *(Ussher, after the Treasury of Scripture Knowledge)*: [[connections/timeline/1st century AD|AD 60]]
 
 ## Text
 

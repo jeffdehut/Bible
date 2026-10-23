@@ -7,6 +7,9 @@ original: ["Γάϊος"]
 verses: 1
 chapters: 1
 first: "3 John 1:1"
+placed: "AD 90"
+placed_year: 90
+sex: "male"
 tags: ["person"]
 ---
 
@@ -15,6 +18,10 @@ tags: ["person"]
 Recipient of John's third epistle; commended for his faithfulness.
 
 **Original-language names:** Γάϊος (G1050)
+
+## When
+
+- **Placed around:** [[connections/timeline/1st century AD|AD 90]] *(Ussher: the median date of the passages naming them)*
 
 ## Appears in
 

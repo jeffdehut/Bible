@@ -7,6 +7,9 @@ original: ["חֻשָׁם"]
 verses: 4
 chapters: 2
 first: "Genesis 36:34"
+placed: "1827 BC"
+placed_year: -1826
+sex: "male"
 tags: ["person"]
 ---
 
@@ -15,6 +18,15 @@ tags: ["person"]
 A king of Edom.
 
 **Original-language names:** חֻשָׁם (H2367)
+
+## When
+
+- **Placed around:** [[connections/timeline/19th century BC|1827 BC]] *(Ussher: the median date of the passages naming them)*
+
+## Family
+
+- **Tribe or nation:** Edom
+
 
 ## Appears in
 

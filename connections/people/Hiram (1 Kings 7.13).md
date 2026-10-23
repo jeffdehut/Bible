@@ -8,6 +8,9 @@ original: ["חִירָם", "חוּרָם", "חוּרָם+H0001H«H0001=אָב"]
 verses: 6
 chapters: 3
 first: "1 Kings 7:13"
+placed: "1011 BC"
+placed_year: -1010
+sex: "male"
 tags: ["person"]
 ---
 
@@ -18,6 +21,15 @@ A skilled craftsman from Tyre.
 **Also called:** Huram, Huram-abi
 
 **Original-language names:** חִירָם (H2438) · חוּרָם (H2361) · חוּרָם+H0001H«H0001=אָב (H2361)
+
+## When
+
+- **Placed around:** [[connections/timeline/11th century BC|1011 BC]] *(Ussher: the median date of the passages naming them)*
+
+## Family
+
+- **Tribe or nation:** Syria
+
 
 ## Appears in
 

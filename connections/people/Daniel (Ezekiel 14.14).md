@@ -8,6 +8,9 @@ original: ["דָּנִיֵּאל, דָּנִאֵל", "דָּנִיֵּאל, דּ
 verses: 72
 chapters: 14
 first: "Ezekiel 14:14"
+placed: "538 BC"
+placed_year: -537
+sex: "male"
 tags: ["person"]
 ---
 
@@ -18,6 +21,14 @@ Prophet in Babylon, known for wisdom and visions
 **Also called:** Belteshazzar
 
 **Original-language names:** דָּנִיֵּאל, דָּנִאֵל (H1840) · דָּנִיֵּאל, דָּנִאֵל (H1841) · בֵּלְטְשַׁאצַּר (H1095) · בֵּלְטְשַׁאצַּר (H1096) · Δανιήλ (G1158)
+
+## When
+
+- **Placed around:** [[connections/timeline/6th century BC|538 BC]] *(Ussher: the median date of the passages naming them)*
+
+## Events
+
+- [[connections/timeline/7th century BC|606 BC]] · [[connections/events/Prophecies of Daniel|Prophecies of Daniel]]
 
 ## Appears in
 

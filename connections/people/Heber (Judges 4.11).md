@@ -7,6 +7,9 @@ original: ["חֶ֫בֶר"]
 verses: 4
 chapters: 2
 first: "Judges 4:11"
+placed: "1285 BC"
+placed_year: -1284
+sex: "male"
 tags: ["person"]
 ---
 
@@ -15,6 +18,23 @@ tags: ["person"]
 A Kenite; husband of Jael.
 
 **Original-language names:** חֶ֫בֶר (H2268)
+
+## When
+
+- **Placed around:** [[connections/timeline/13th century BC|1285 BC]] *(Ussher: the median date of the passages naming them)*
+
+## Family
+
+- **Spouses:** [[connections/people/Jael|Jael]]
+
+```mermaid
+flowchart TB
+  n0["Heber (Judges 4.11)"]:::me
+  n1["Jael"]:::spouse
+  n0 -.- n1
+  classDef me stroke-width:3px
+  classDef spouse stroke-dasharray:4
+```
 
 ## Appears in
 

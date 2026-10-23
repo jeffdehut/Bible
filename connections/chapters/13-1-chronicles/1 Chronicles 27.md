@@ -7,12 +7,16 @@ language: "Hebrew"
 verses: 34
 cross_references_out: 0
 cross_references_in: 2
+dated_from: -1014
+dated_to: -1014
 tags: ["chapter", "ot", "history"]
 ---
 
 # 1 Chronicles 27
 
 ← [[connections/chapters/13-1-chronicles/1 Chronicles 26|1 Chronicles 26]] · [[connections/books/1 Chronicles|1 Chronicles]] · [[connections/chapters/13-1-chronicles/1 Chronicles 28|1 Chronicles 28]] →
+
+**Dated** *(Ussher, after the Treasury of Scripture Knowledge)*: [[connections/timeline/11th century BC|1015 BC]]
 
 ## Text
 

@@ -7,6 +7,8 @@ original: ["מַתַּנְיָ֫הוּ"]
 verses: 1
 chapters: 1
 first: "2 Chronicles 20:14"
+generation: 1
+sex: "male"
 tags: ["person"]
 ---
 
@@ -15,6 +17,21 @@ tags: ["person"]
 Levite, grandfather of Jahaziel, who prophesied during Jehoshaphat's reign.
 
 **Original-language names:** מַתַּנְיָ֫הוּ (H4983)
+
+## Family
+
+- **Children:** [[connections/people/Jeiel (2 Chronicles 20.14)|Jeiel (2 Chronicles 20.14)]]
+
+**Family group:** [[connections/genealogy/Family of Mattaniah (2 Chronicles 20.14)|Family of Mattaniah (2 Chronicles 20.14)]], generation 1
+
+```mermaid
+flowchart TB
+  n0["Mattaniah (2 Chronicles 20.14)"]:::me
+  n1["Jeiel (2 Chronicles 20.14)"]
+  n0 --> n1
+  classDef me stroke-width:3px
+  classDef spouse stroke-dasharray:4
+```
 
 ## Appears in
 

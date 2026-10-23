@@ -7,6 +7,9 @@ original: ["יְהוֹשׁוּעַ"]
 verses: 2
 chapters: 1
 first: "1 Samuel 6:14"
+placed: "1140 BC"
+placed_year: -1139
+sex: "male"
 tags: ["person"]
 ---
 
@@ -15,6 +18,10 @@ tags: ["person"]
 Owner of a field in Beth-shemesh
 
 **Original-language names:** יְהוֹשׁוּעַ (H3091)
+
+## When
+
+- **Placed around:** [[connections/timeline/12th century BC|1140 BC]] *(Ussher: the median date of the passages naming them)*
 
 ## Appears in
 

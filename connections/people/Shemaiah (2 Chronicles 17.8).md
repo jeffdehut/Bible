@@ -7,6 +7,9 @@ original: ["שְׁמַעְיָ֫הוּ"]
 verses: 1
 chapters: 1
 first: "2 Chronicles 17:8"
+placed: "912 BC"
+placed_year: -911
+sex: "male"
 tags: ["person"]
 ---
 
@@ -15,6 +18,10 @@ tags: ["person"]
 Levite who taught the Law during Jehoshaphat's reign
 
 **Original-language names:** שְׁמַעְיָ֫הוּ (H8098)
+
+## When
+
+- **Placed around:** [[connections/timeline/10th century BC|912 BC]] *(Ussher: the median date of the passages naming them)*
 
 ## Appears in
 

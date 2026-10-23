@@ -7,6 +7,10 @@ original: ["אוּרִיָּה"]
 verses: 3
 chapters: 2
 first: "Ezra 8:33"
+placed: "445 BC"
+placed_year: -444
+generation: 2
+sex: "male"
 tags: ["person"]
 ---
 
@@ -15,6 +19,28 @@ tags: ["person"]
 Postexilic priest involved in rebuilding the wall
 
 **Original-language names:** אוּרִיָּה (H0223a)
+
+## When
+
+- **Placed around:** [[connections/timeline/5th century BC|445 BC]] *(Ussher: the median date of the passages naming them)*
+
+## Family
+
+- **Father:** [[connections/people/Hakkoz (Nehemiah 3.4)|Hakkoz (Nehemiah 3.4)]]
+- **Children:** [[connections/people/Meremoth (Ezra 8.33)|Meremoth (Ezra 8.33)]]
+
+**Family group:** [[connections/genealogy/Family of Hakkoz (Nehemiah 3.4)|Family of Hakkoz (Nehemiah 3.4)]], generation 2
+
+```mermaid
+flowchart TB
+  n0["Uriah (Ezra 8.33)"]:::me
+  n1["Hakkoz (Nehemiah 3.4)"]
+  n1 --> n0
+  n2["Meremoth (Ezra 8.33)"]
+  n0 --> n2
+  classDef me stroke-width:3px
+  classDef spouse stroke-dasharray:4
+```
 
 ## Appears in
 

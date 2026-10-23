@@ -7,12 +7,16 @@ language: "Hebrew"
 verses: 25
 cross_references_out: 57
 cross_references_in: 16
+dated_from: -1571
+dated_to: -1499
 tags: ["chapter", "ot", "torah"]
 ---
 
 # Exodus 2
 
 ← [[connections/chapters/02-exodus/Exodus 1|Exodus 1]] · [[connections/books/Exodus|Exodus]] · [[connections/chapters/02-exodus/Exodus 3|Exodus 3]] →
+
+**Dated** *(Ussher, after the Treasury of Scripture Knowledge)*: [[connections/timeline/16th century BC|1572 BC]] – [[connections/timeline/15th century BC|1500 BC]]
 
 ## Text
 

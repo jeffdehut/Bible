@@ -7,12 +7,16 @@ language: "Hebrew"
 verses: 24
 cross_references_out: 27
 cross_references_in: 70
+dated_from: -711
+dated_to: -711
 tags: ["chapter", "ot", "prophets"]
 ---
 
 # Isaiah 29
 
 ← [[connections/chapters/23-isaiah/Isaiah 28|Isaiah 28]] · [[connections/books/Isaiah|Isaiah]] · [[connections/chapters/23-isaiah/Isaiah 30|Isaiah 30]] →
+
+**Dated** *(Ussher, after the Treasury of Scripture Knowledge)*: [[connections/timeline/8th century BC|712 BC]]
 
 ## Text
 

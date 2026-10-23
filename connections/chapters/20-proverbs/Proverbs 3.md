@@ -7,12 +7,16 @@ language: "Hebrew"
 verses: 35
 cross_references_out: 213
 cross_references_in: 167
+dated_from: -999
+dated_to: -999
 tags: ["chapter", "ot", "wisdom"]
 ---
 
 # Proverbs 3
 
 ← [[connections/chapters/20-proverbs/Proverbs 2|Proverbs 2]] · [[connections/books/Proverbs|Proverbs]] · [[connections/chapters/20-proverbs/Proverbs 4|Proverbs 4]] →
+
+**Dated** *(Ussher, after the Treasury of Scripture Knowledge)*: [[connections/timeline/10th century BC|1000 BC]]
 
 ## Text
 

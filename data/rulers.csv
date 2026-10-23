@@ -1,0 +1,42 @@
+stream,name,biblical_name,tipnr,wikidata,start,end,approximate,note
+Tyre,Hiram I,Hiram,Hiram@2Sa.5.11-2Ch,Q467115,980 BC,947 BC,yes,
+Egypt,Shoshenq I,Shishak,Shishak@1Ki.11.40-2Ch,Q311811,943 BC,922 BC,yes,
+Egypt,Osorkon IV,So,So@2Ki.17.4,Q718214,730 BC,715 BC,yes,Identification of So with Osorkon IV is probable but not certain
+Egypt,Taharqa,Tirhakah,Tirhakah@2Ki.19.9-Isa,Q315714,690 BC,664 BC,no,
+Egypt,Necho II,Neco,Neco@2Ki.23.29-Jer,Q125102,610 BC,595 BC,no,
+Egypt,Apries,Hophra,Hophra@Jer.37.5-Ezk,Q349291,589 BC,570 BC,no,
+Aram,Hazael,Hazael,Hazael@1Ki.19.15-Amo,Q127170,842 BC,796 BC,yes,
+Aram,Rezin,Rezin,Rezin@2Ki.15.37-Isa,Q878947,754 BC,732 BC,yes,
+Assyria,Shalmaneser III,,,Q211928,859 BC,824 BC,no,Not named in the Bible; his Black Obelisk shows Jehu paying tribute
+Assyria,Tiglath-Pileser III,Tiglath-pileser,Tiglath-pileser@2Ki.15.19-Hos,Q210074,745 BC,727 BC,no,Also called Pul (2 Kings 15:19)
+Assyria,Shalmaneser V,Shalmaneser,Shalmaneser@2Ki.17.3-Hos,Q310640,727 BC,722 BC,no,
+Assyria,Sargon II,Sargon,,Q208336,722 BC,705 BC,no,"Named in Isaiah 20:1; TIPNR files that verse under Sennacherib, so no person link"
+Assyria,Sennacherib,Sennacherib,Sennacherib@2Ki.18.13-Isa,Q207140,705 BC,681 BC,no,
+Assyria,Esarhaddon,Esarhaddon,Esarhaddon@2Ki.19.37-Isa,,681 BC,669 BC,no,
+Assyria,Ashurbanipal,Osnappar,Osnappar@Ezr.4.10,Q171191,669 BC,631 BC,yes,Identification of Osnappar (Ezra 4:10) with Ashurbanipal is probable
+Babylon,Marduk-apla-iddina II,Merodach-baladan,Merodach-baladan@2Ki.20.12-Isa,Q356505,722 BC,703 BC,no,Reigned 722-710 and again in 703 BC
+Babylon,Nebuchadnezzar II,Nebuchadnezzar,Nebuchadnezzar@2Ki.24.1-Dan,Q12591,605 BC,562 BC,no,
+Babylon,Amel-Marduk,Evil-merodach,Evil-merodach@2Ki.25.27-Jer,Q313234,562 BC,560 BC,no,
+Babylon,Belshazzar,Belshazzar,Belshazzar@Dan.5.1-,Q225198,553 BC,539 BC,yes,Co-regent with his father Nabonidus
+Persia,Cyrus II,Cyrus,Cyrus@2Ch.36.22-Dan,Q8423,559 BC,530 BC,no,King of Babylon from 539 BC
+Persia,Darius I,Darius,Darius@Ezr.4.5-Zec,Q44387,522 BC,486 BC,no,
+Persia,Xerxes I,Ahasuerus,Ahasuerus@Ezr.4.6-Dan,Q129165,486 BC,465 BC,no,Ahasuerus of Esther is usually identified with Xerxes I
+Persia,Artaxerxes I,Artaxerxes,Artaxerxes@Ezr.4.7-Neh,Q189689,465 BC,424 BC,no,
+Greece,Alexander the Great,,,Q8409,336 BC,323 BC,no,Not named in the Bible
+Seleucid,Antiochus IV Epiphanes,,,Q3356,175 BC,164 BC,no,Not named in the Bible
+Rome,Augustus,Augustus,Augustus@Luk.2.1-Act,Q1405,27 BC,AD 14,no,
+Rome,Tiberius,Tiberius,Tiberius@Mat.22.17-Jhn,Q1407,AD 14,AD 37,no,
+Rome,Claudius,Claudius,Claudius@Act.11.28-,Q1411,AD 41,AD 54,no,
+Herodian,Herod the Great,Herod,Herod@Mat.2.1-Act,Q51672,37 BC,4 BC,no,
+Herodian,Herod Archelaus,Archelaus,Archelaus@Mat.2.22,Q244345,4 BC,AD 6,no,
+Herodian,Herod Antipas,Herod,Herod@Mat.14.1-Act,Q192950,4 BC,AD 39,no,Tetrarch of Galilee and Perea
+Herodian,Herod Agrippa I,Herod,Herod@Act.12.1-,Q298636,AD 41,AD 44,no,King of Judea
+Herodian,Herod Agrippa II,Agrippa,Agrippa@Act.25.13-,Q313419,AD 48,AD 93,yes,
+Nabataea,Aretas IV,Aretas,Aretas@2Co.11.32,Q302986,9 BC,AD 40,no,
+Roman officials,Publius Sulpicius Quirinius,Quirinius,Quirinius@Luk.2.2,Q313398,AD 6,AD 12,yes,Governor of Syria; how Luke 2:2 relates to his census is debated
+Roman officials,Pontius Pilate,Pilate,Pilate@Mat.27.2-1Ti,,AD 26,AD 36,no,Prefect of Judea
+Roman officials,Antonius Felix,Felix,Felix@Act.23.24-,Q316915,AD 52,AD 60,yes,Procurator of Judea
+Roman officials,Porcius Festus,Festus,Festus@Act.24.27-,Q464307,AD 60,AD 62,yes,Procurator of Judea
+Roman officials,Gallio,Gallio,Gallio@Act.18.12-,Q452194,AD 51,AD 52,no,Proconsul of Achaia (Delphi inscription)
+High priests,Annas,Annas,Annas@Luk.3.2-Act,Q51680,AD 6,AD 15,no,
+High priests,Caiaphas,Caiaphas,Caiaphas@Mat.26.3-Act,Q211246,AD 18,AD 36,no,

@@ -7,12 +7,16 @@ language: "Hebrew"
 verses: 22
 cross_references_out: 1
 cross_references_in: 2
+dated_from: -587
+dated_to: -587
 tags: ["chapter", "ot", "prophets"]
 ---
 
 # Lamentations 1
 
 ← [[connections/chapters/24-jeremiah/Jeremiah 52|Jeremiah 52]] · [[connections/books/Lamentations|Lamentations]] · [[connections/chapters/25-lamentations/Lamentations 2|Lamentations 2]] →
+
+**Dated** *(Ussher, after the Treasury of Scripture Knowledge)*: [[connections/timeline/6th century BC|588 BC]]
 
 ## Text
 

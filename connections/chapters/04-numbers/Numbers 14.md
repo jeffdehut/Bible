@@ -7,12 +7,16 @@ language: "Hebrew"
 verses: 45
 cross_references_out: 37
 cross_references_in: 63
+dated_from: -1489
+dated_to: -1489
 tags: ["chapter", "ot", "torah"]
 ---
 
 # Numbers 14
 
 ← [[connections/chapters/04-numbers/Numbers 13|Numbers 13]] · [[connections/books/Numbers|Numbers]] · [[connections/chapters/04-numbers/Numbers 15|Numbers 15]] →
+
+**Dated** *(Ussher, after the Treasury of Scripture Knowledge)*: [[connections/timeline/15th century BC|1490 BC]]
 
 ## Text
 

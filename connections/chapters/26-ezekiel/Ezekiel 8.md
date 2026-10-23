@@ -7,12 +7,16 @@ language: "Hebrew"
 verses: 18
 cross_references_out: 5
 cross_references_in: 18
+dated_from: -593
+dated_to: -593
 tags: ["chapter", "ot", "prophets"]
 ---
 
 # Ezekiel 8
 
 ← [[connections/chapters/26-ezekiel/Ezekiel 7|Ezekiel 7]] · [[connections/books/Ezekiel|Ezekiel]] · [[connections/chapters/26-ezekiel/Ezekiel 9|Ezekiel 9]] →
+
+**Dated** *(Ussher, after the Treasury of Scripture Knowledge)*: [[connections/timeline/6th century BC|594 BC]]
 
 ## Text
 

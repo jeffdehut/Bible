@@ -7,6 +7,10 @@ original: ["פַּלְטִי"]
 verses: 1
 chapters: 1
 first: "Numbers 13:9"
+placed: "1490 BC"
+placed_year: -1489
+generation: 2
+sex: "male"
 tags: ["person"]
 ---
 
@@ -15,6 +19,25 @@ tags: ["person"]
 Son of Raphu, spy from Benjamin
 
 **Original-language names:** פַּלְטִי (H6406)
+
+## When
+
+- **Placed around:** [[connections/timeline/15th century BC|1490 BC]] *(Ussher: the median date of the passages naming them)*
+
+## Family
+
+- **Father:** [[connections/people/Raphu|Raphu]]
+
+**Family group:** [[connections/genealogy/Family of Raphu|Family of Raphu]], generation 2
+
+```mermaid
+flowchart TB
+  n0["Palti (Numbers 13.9)"]:::me
+  n1["Raphu"]
+  n1 --> n0
+  classDef me stroke-width:3px
+  classDef spouse stroke-dasharray:4
+```
 
 ## Appears in
 

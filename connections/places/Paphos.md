@@ -17,6 +17,12 @@ A city on the island of Cyprus
 
 **Original-language names:** Πάφος (G3974)
 
+## Events
+
+- [[connections/timeline/1st century AD|AD 45]] · [[connections/events/First Missionary Journey|First Missionary Journey]]
+- [[connections/timeline/1st century AD|AD 45]] · [[connections/events/Barnabas and Saul go to Cyprus|Barnabas and Saul go to Cyprus]]
+- [[connections/timeline/1st century AD|AD 45]] · [[connections/events/Mission to Antioch in Pisidia|Mission to Antioch in Pisidia]]
+
 ## Appears in
 
 [[connections/chapters/44-acts/Acts 13|Acts 13 (2)]]

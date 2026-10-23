@@ -7,6 +7,9 @@ original: ["Ἀπφία"]
 verses: 1
 chapters: 1
 first: "Philemon 1:2"
+placed: "AD 64"
+placed_year: 64
+sex: "female"
 tags: ["person"]
 ---
 
@@ -15,6 +18,10 @@ tags: ["person"]
 Recipient of Paul's letter to Philemon
 
 **Original-language names:** Ἀπφία (G0682)
+
+## When
+
+- **Placed around:** [[connections/timeline/1st century AD|AD 64]] *(Ussher: the median date of the passages naming them)*
 
 ## Appears in
 

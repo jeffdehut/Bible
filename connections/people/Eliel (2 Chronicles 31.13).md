@@ -7,6 +7,9 @@ original: ["אֱלִיאֵל"]
 verses: 1
 chapters: 1
 first: "2 Chronicles 31:13"
+placed: "726 BC"
+placed_year: -725
+sex: "male"
 tags: ["person"]
 ---
 
@@ -15,6 +18,10 @@ tags: ["person"]
 Levite who served as an overseer during Hezekiah's reign
 
 **Original-language names:** אֱלִיאֵל (H0447)
+
+## When
+
+- **Placed around:** [[connections/timeline/8th century BC|726 BC]] *(Ussher: the median date of the passages naming them)*
 
 ## Appears in
 

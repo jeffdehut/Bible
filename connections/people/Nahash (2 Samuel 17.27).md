@@ -7,6 +7,10 @@ original: ["נָחָשׁ"]
 verses: 1
 chapters: 1
 first: "2 Samuel 17:27"
+placed: "1023 BC"
+placed_year: -1022
+generation: 1
+sex: "male"
 tags: ["person"]
 ---
 
@@ -15,6 +19,26 @@ tags: ["person"]
 King of the Ammonites, provided supplies to David.
 
 **Original-language names:** נָחָשׁ (H5176)
+
+## When
+
+- **Placed around:** [[connections/timeline/11th century BC|1023 BC]] *(Ussher: the median date of the passages naming them)*
+
+## Family
+
+- **Children:** [[connections/people/Shobi|Shobi]]
+- **Tribe or nation:** Ammon
+
+**Family group:** [[connections/genealogy/Family of Nahash (2 Samuel 17.27)|Family of Nahash (2 Samuel 17.27)]], generation 1
+
+```mermaid
+flowchart TB
+  n0["Nahash (2 Samuel 17.27)"]:::me
+  n1["Shobi"]
+  n0 --> n1
+  classDef me stroke-width:3px
+  classDef spouse stroke-dasharray:4
+```
 
 ## Appears in
 

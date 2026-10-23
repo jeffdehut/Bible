@@ -7,6 +7,7 @@ original: ["מְשֻׁלָּם"]
 verses: 1
 chapters: 1
 first: "Ezra 10:15"
+sex: "male"
 tags: ["person"]
 ---
 

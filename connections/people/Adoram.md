@@ -8,6 +8,10 @@ original: ["אֲדֹרָם", "אֲדֹנִירָם", "הֲדֹרָם"]
 verses: 5
 chapters: 5
 first: "2 Samuel 20:24"
+placed: "1014 BC"
+placed_year: -1013
+generation: 2
+sex: "male"
 tags: ["person"]
 ---
 
@@ -18,6 +22,25 @@ Official in charge of forced labor under David and Solomon
 **Also called:** Adoniram, Hadoram
 
 **Original-language names:** אֲדֹרָם (H0151) · אֲדֹנִירָם (H0141) · הֲדֹרָם (H1913b)
+
+## When
+
+- **Placed around:** [[connections/timeline/11th century BC|1014 BC]] *(Ussher: the median date of the passages naming them)*
+
+## Family
+
+- **Father:** [[connections/people/Abda|Abda]]
+
+**Family group:** [[connections/genealogy/Family of Abda|Family of Abda]], generation 2
+
+```mermaid
+flowchart TB
+  n0["Adoram"]:::me
+  n1["Abda"]
+  n1 --> n0
+  classDef me stroke-width:3px
+  classDef spouse stroke-dasharray:4
+```
 
 ## Appears in
 

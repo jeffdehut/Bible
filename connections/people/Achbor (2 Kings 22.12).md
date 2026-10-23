@@ -8,6 +8,10 @@ original: ["עַכְבּוֹר", "עַבְדּוֹן"]
 verses: 5
 chapters: 4
 first: "2 Kings 22:12"
+placed: "624 BC"
+placed_year: -623
+generation: 2
+sex: "male"
 tags: ["person"]
 ---
 
@@ -18,6 +22,28 @@ Official during the reign of King Josiah
 **Also called:** Abdon
 
 **Original-language names:** עַכְבּוֹר (H5907) · עַבְדּוֹן (H5658)
+
+## When
+
+- **Placed around:** [[connections/timeline/7th century BC|624 BC]] *(Ussher: the median date of the passages naming them)*
+
+## Family
+
+- **Father:** [[connections/people/Micaiah (2 Kings 22.12)|Micaiah (2 Kings 22.12)]]
+- **Children:** [[connections/people/Elnathan (Jeremiah 26.22)|Elnathan (Jeremiah 26.22)]]
+
+**Family group:** [[connections/genealogy/Family of Micaiah (2 Kings 22.12)|Family of Micaiah (2 Kings 22.12)]], generation 2
+
+```mermaid
+flowchart TB
+  n0["Achbor (2 Kings 22.12)"]:::me
+  n1["Micaiah (2 Kings 22.12)"]
+  n1 --> n0
+  n2["Elnathan (Jeremiah 26.22)"]
+  n0 --> n2
+  classDef me stroke-width:3px
+  classDef spouse stroke-dasharray:4
+```
 
 ## Appears in
 

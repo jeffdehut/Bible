@@ -7,12 +7,16 @@ language: "Hebrew"
 verses: 33
 cross_references_out: 39
 cross_references_in: 50
+dated_from: -586
+dated_to: -586
 tags: ["chapter", "ot", "prophets"]
 ---
 
 # Ezekiel 33
 
 ← [[connections/chapters/26-ezekiel/Ezekiel 32|Ezekiel 32]] · [[connections/books/Ezekiel|Ezekiel]] · [[connections/chapters/26-ezekiel/Ezekiel 34|Ezekiel 34]] →
+
+**Dated** *(Ussher, after the Treasury of Scripture Knowledge)*: [[connections/timeline/6th century BC|587 BC]]
 
 ## Text
 

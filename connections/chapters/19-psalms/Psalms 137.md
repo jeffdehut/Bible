@@ -7,12 +7,16 @@ language: "Hebrew"
 verses: 9
 cross_references_out: 7
 cross_references_in: 7
+dated_from: -540
+dated_to: -540
 tags: ["chapter", "ot", "wisdom"]
 ---
 
 # Psalms 137
 
 ← [[connections/chapters/19-psalms/Psalms 136|Psalms 136]] · [[connections/books/Psalms|Psalms]] · [[connections/chapters/19-psalms/Psalms 138|Psalms 138]] →
+
+**Dated** *(Ussher, after the Treasury of Scripture Knowledge)*: [[connections/timeline/6th century BC|541 BC]]
 
 ## Text
 

@@ -7,6 +7,9 @@ original: ["Κορνήλιος"]
 verses: 10
 chapters: 1
 first: "Acts 10:1"
+placed: "AD 41"
+placed_year: 41
+sex: "male"
 tags: ["person"]
 ---
 
@@ -15,6 +18,14 @@ tags: ["person"]
 Centurion, first Gentile convert to Christianity
 
 **Original-language names:** Κορνήλιος (G2883)
+
+## When
+
+- **Placed around:** [[connections/timeline/1st century AD|AD 41]] *(Ussher: the median date of the passages naming them)*
+
+## Events
+
+- [[connections/timeline/1st century AD|AD 38]] · [[connections/events/Peter meets Cornelius|Peter meets Cornelius]]
 
 ## Appears in
 

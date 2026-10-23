@@ -7,6 +7,9 @@ original: ["בַּעֲלִיס"]
 verses: 1
 chapters: 1
 first: "Jeremiah 40:14"
+placed: "588 BC"
+placed_year: -587
+sex: "male"
 tags: ["person"]
 ---
 
@@ -15,6 +18,15 @@ tags: ["person"]
 King of the Ammonites during the Babylonian exile.
 
 **Original-language names:** בַּעֲלִיס (H1185)
+
+## When
+
+- **Placed around:** [[connections/timeline/6th century BC|588 BC]] *(Ussher: the median date of the passages naming them)*
+
+## Family
+
+- **Tribe or nation:** Ammon
+
 
 ## Appears in
 

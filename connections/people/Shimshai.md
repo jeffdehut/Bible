@@ -7,6 +7,9 @@ original: ["שִׁמְשַׁי"]
 verses: 4
 chapters: 1
 first: "Ezra 4:8"
+placed: "522 BC"
+placed_year: -521
+sex: "male"
 tags: ["person"]
 ---
 
@@ -15,6 +18,10 @@ tags: ["person"]
 Scribe who opposed the rebuilding of Jerusalem.
 
 **Original-language names:** שִׁמְשַׁי (H8124)
+
+## When
+
+- **Placed around:** [[connections/timeline/6th century BC|522 BC]] *(Ussher: the median date of the passages naming them)*
 
 ## Appears in
 

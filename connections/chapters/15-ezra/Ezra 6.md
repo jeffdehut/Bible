@@ -7,12 +7,16 @@ language: "Hebrew/Aramaic"
 verses: 22
 cross_references_out: 6
 cross_references_in: 10
+dated_from: -514
+dated_to: -514
 tags: ["chapter", "ot", "history"]
 ---
 
 # Ezra 6
 
 ← [[connections/chapters/15-ezra/Ezra 5|Ezra 5]] · [[connections/books/Ezra|Ezra]] · [[connections/chapters/15-ezra/Ezra 7|Ezra 7]] →
+
+**Dated** *(Ussher, after the Treasury of Scripture Knowledge)*: [[connections/timeline/6th century BC|515 BC]]
 
 ## Text
 

@@ -17,6 +17,10 @@ A place near the Red Sea where the Israelites camped
 
 **Original-language names:** מִגְדֹּל (H4024b)
 
+## Events
+
+- [[connections/timeline/15th century BC|1491 BC]] · [[connections/events/Wilderness Wanderings|Wilderness Wanderings]]
+
 ## Appears in
 
 [[connections/chapters/02-exodus/Exodus 14|Exodus 14]] · [[connections/chapters/04-numbers/Numbers 33|Numbers 33]] · [[connections/chapters/24-jeremiah/Jeremiah 44|Jeremiah 44]] · [[connections/chapters/24-jeremiah/Jeremiah 46|Jeremiah 46]] · [[connections/chapters/26-ezekiel/Ezekiel 29|Ezekiel 29]] · [[connections/chapters/26-ezekiel/Ezekiel 30|Ezekiel 30]]

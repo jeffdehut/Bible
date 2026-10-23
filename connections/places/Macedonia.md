@@ -17,6 +17,11 @@ A region in northern Greece; Paul preached there
 
 **Original-language names:** Μακεδονία (G3109) · Μακεδών (G3110)
 
+## Events
+
+- [[connections/timeline/1st century AD|AD 47]] · [[connections/events/Call to Macedonia|Call to Macedonia]]
+- [[connections/timeline/1st century AD|AD 54]] · [[connections/events/Mission to Macedonia and Greece|Mission to Macedonia and Greece]]
+
 ## Appears in
 
 [[connections/chapters/44-acts/Acts 16|Acts 16 (3)]] · [[connections/chapters/44-acts/Acts 18|Acts 18]] · [[connections/chapters/44-acts/Acts 19|Acts 19 (3)]] · [[connections/chapters/44-acts/Acts 20|Acts 20 (2)]] · [[connections/chapters/44-acts/Acts 27|Acts 27]] · [[connections/chapters/45-romans/Romans 15|Romans 15]] · [[connections/chapters/46-1-corinthians/1 Corinthians 16|1 Corinthians 16]] · [[connections/chapters/47-2-corinthians/2 Corinthians 1|2 Corinthians 1]] · [[connections/chapters/47-2-corinthians/2 Corinthians 2|2 Corinthians 2]] · [[connections/chapters/47-2-corinthians/2 Corinthians 7|2 Corinthians 7]] · [[connections/chapters/47-2-corinthians/2 Corinthians 8|2 Corinthians 8]] · [[connections/chapters/47-2-corinthians/2 Corinthians 9|2 Corinthians 9 (2)]] · [[connections/chapters/47-2-corinthians/2 Corinthians 11|2 Corinthians 11]] · [[connections/chapters/47-2-corinthians/2 Corinthians 13|2 Corinthians 13]] · [[connections/chapters/50-philippians/Philippians 4|Philippians 4]] · [[connections/chapters/52-1-thessalonians/1 Thessalonians 1|1 Thessalonians 1 (2)]] · [[connections/chapters/52-1-thessalonians/1 Thessalonians 4|1 Thessalonians 4]] · [[connections/chapters/54-1-timothy/1 Timothy 1|1 Timothy 1]] · [[connections/chapters/56-titus/Titus 3|Titus 3]]

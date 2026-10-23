@@ -8,6 +8,9 @@ original: ["Θωμᾶς", "Δίδυμος"]
 verses: 12
 chapters: 8
 first: "Matthew 10:3"
+placed: "AD 33"
+placed_year: 33
+sex: "male"
 tags: ["person"]
 ---
 
@@ -18,6 +21,16 @@ One of Jesus' twelve disciples, known for doubting
 **Also called:** Didymus
 
 **Original-language names:** Θωμᾶς (G2381) · Δίδυμος (G1324)
+
+## When
+
+- **Placed around:** [[connections/timeline/1st century AD|AD 33]] *(Ussher: the median date of the passages naming them)*
+
+## Events
+
+- [[connections/timeline/1st century AD|AD 28]] · [[connections/events/Apostles Chosen|Apostles Chosen]]
+- [[connections/timeline/1st century AD|AD 30]] · [[connections/events/Resurrection and Ascension|Resurrection and Ascension]]
+- [[connections/timeline/1st century AD|AD 30]] · [[connections/events/Matthias replaces Judas|Matthias replaces Judas]]
 
 ## Appears in
 

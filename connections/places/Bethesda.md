@@ -20,6 +20,10 @@ Pool in Jerusalem where Jesus healed a paralyzed man.
 
 **Original-language names:** Βηθεσδά (G0964) · Βηθζαθά (G0964)
 
+## Events
+
+- [[connections/timeline/1st century AD|AD 28]] · [[connections/events/Bethesda pool healing|Bethesda pool healing]]
+
 ## Appears in
 
 [[connections/chapters/43-john/John 5|John 5]]

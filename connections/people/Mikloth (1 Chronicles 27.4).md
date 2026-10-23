@@ -7,6 +7,9 @@ original: ["מִקְלוֹת"]
 verses: 1
 chapters: 1
 first: "1 Chronicles 27:4"
+placed: "1015 BC"
+placed_year: -1014
+sex: "male"
 tags: ["person"]
 ---
 
@@ -15,6 +18,10 @@ tags: ["person"]
 A military commander during David's reign.
 
 **Original-language names:** מִקְלוֹת (H4732)
+
+## When
+
+- **Placed around:** [[connections/timeline/11th century BC|1015 BC]] *(Ussher: the median date of the passages naming them)*
 
 ## Appears in
 

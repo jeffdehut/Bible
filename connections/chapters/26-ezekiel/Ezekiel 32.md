@@ -7,12 +7,16 @@ language: "Hebrew"
 verses: 32
 cross_references_out: 0
 cross_references_in: 5
+dated_from: -586
+dated_to: -586
 tags: ["chapter", "ot", "prophets"]
 ---
 
 # Ezekiel 32
 
 ← [[connections/chapters/26-ezekiel/Ezekiel 31|Ezekiel 31]] · [[connections/books/Ezekiel|Ezekiel]] · [[connections/chapters/26-ezekiel/Ezekiel 33|Ezekiel 33]] →
+
+**Dated** *(Ussher, after the Treasury of Scripture Knowledge)*: [[connections/timeline/6th century BC|587 BC]]
 
 ## Text
 

@@ -7,12 +7,16 @@ language: "Greek"
 verses: 35
 cross_references_out: 73
 cross_references_in: 69
+dated_from: 33
+dated_to: 33
 tags: ["chapter", "nt", "gospels"]
 ---
 
 # Luke 14
 
 ← [[connections/chapters/42-luke/Luke 13|Luke 13]] · [[connections/books/Luke|Luke]] · [[connections/chapters/42-luke/Luke 15|Luke 15]] →
+
+**Dated** *(Ussher, after the Treasury of Scripture Knowledge)*: [[connections/timeline/1st century AD|AD 33]]
 
 ## Text
 

@@ -7,12 +7,16 @@ language: "Hebrew"
 verses: 35
 cross_references_out: 14
 cross_references_in: 13
+dated_from: -1452
+dated_to: -1452
 tags: ["chapter", "ot", "torah"]
 ---
 
 # Numbers 21
 
 ← [[connections/chapters/04-numbers/Numbers 20|Numbers 20]] · [[connections/books/Numbers|Numbers]] · [[connections/chapters/04-numbers/Numbers 22|Numbers 22]] →
+
+**Dated** *(Ussher, after the Treasury of Scripture Knowledge)*: [[connections/timeline/15th century BC|1453 BC]]
 
 ## Text
 

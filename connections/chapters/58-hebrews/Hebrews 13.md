@@ -7,12 +7,16 @@ language: "Greek"
 verses: 25
 cross_references_out: 226
 cross_references_in: 262
+dated_from: 64
+dated_to: 64
 tags: ["chapter", "nt", "general-epistles"]
 ---
 
 # Hebrews 13
 
 ← [[connections/chapters/58-hebrews/Hebrews 12|Hebrews 12]] · [[connections/books/Hebrews|Hebrews]] · [[connections/chapters/59-james/James 1|James 1]] →
+
+**Dated** *(Ussher, after the Treasury of Scripture Knowledge)*: [[connections/timeline/1st century AD|AD 64]]
 
 ## Text
 

@@ -7,12 +7,16 @@ language: "Hebrew"
 verses: 18
 cross_references_out: 5
 cross_references_in: 7
+dated_from: -1231
+dated_to: -1186
 tags: ["chapter", "ot", "history"]
 ---
 
 # Judges 10
 
 ← [[connections/chapters/07-judges/Judges 9|Judges 9]] · [[connections/books/Judges|Judges]] · [[connections/chapters/07-judges/Judges 11|Judges 11]] →
+
+**Dated** *(Ussher, after the Treasury of Scripture Knowledge)*: [[connections/timeline/13th century BC|1232 BC]] – [[connections/timeline/12th century BC|1187 BC]]
 
 ## Text
 

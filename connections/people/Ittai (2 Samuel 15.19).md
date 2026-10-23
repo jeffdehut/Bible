@@ -7,6 +7,9 @@ original: ["אִתַּי"]
 verses: 6
 chapters: 2
 first: "2 Samuel 15:19"
+placed: "1021 BC"
+placed_year: -1020
+sex: "male"
 tags: ["person"]
 ---
 
@@ -15,6 +18,10 @@ tags: ["person"]
 Gittite commander who remained loyal to David.
 
 **Original-language names:** אִתַּי (H0863)
+
+## When
+
+- **Placed around:** [[connections/timeline/11th century BC|1021 BC]] *(Ussher: the median date of the passages naming them)*
 
 ## Appears in
 

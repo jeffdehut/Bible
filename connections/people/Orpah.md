@@ -7,6 +7,9 @@ original: ["עׇרְפָּה"]
 verses: 2
 chapters: 1
 first: "Ruth 1:4"
+placed: "1308 BC"
+placed_year: -1307
+sex: "female"
 tags: ["person"]
 ---
 
@@ -15,6 +18,24 @@ tags: ["person"]
 Naomi's daughter-in-law, stayed in Moab
 
 **Original-language names:** עׇרְפָּה (H6204)
+
+## When
+
+- **Placed around:** [[connections/timeline/14th century BC|1308 BC]] *(Ussher: the median date of the passages naming them)*
+
+## Family
+
+- **Spouses:** [[connections/people/Chilion|Chilion]]
+- **Tribe or nation:** Moab
+
+```mermaid
+flowchart TB
+  n0["Orpah"]:::me
+  n1["Chilion"]:::spouse
+  n0 -.- n1
+  classDef me stroke-width:3px
+  classDef spouse stroke-dasharray:4
+```
 
 ## Appears in
 

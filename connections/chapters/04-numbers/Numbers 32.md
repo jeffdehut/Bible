@@ -7,12 +7,16 @@ language: "Hebrew"
 verses: 42
 cross_references_out: 10
 cross_references_in: 6
+dated_from: -1451
+dated_to: -1451
 tags: ["chapter", "ot", "torah"]
 ---
 
 # Numbers 32
 
 ← [[connections/chapters/04-numbers/Numbers 31|Numbers 31]] · [[connections/books/Numbers|Numbers]] · [[connections/chapters/04-numbers/Numbers 33|Numbers 33]] →
+
+**Dated** *(Ussher, after the Treasury of Scripture Knowledge)*: [[connections/timeline/15th century BC|1452 BC]]
 
 ## Text
 

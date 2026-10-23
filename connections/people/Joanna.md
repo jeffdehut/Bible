@@ -7,6 +7,9 @@ original: ["Ἰωάννα, Ἰωανάν"]
 verses: 2
 chapters: 2
 first: "Luke 8:3"
+placed: "AD 33"
+placed_year: 33
+sex: "female"
 tags: ["person"]
 ---
 
@@ -15,6 +18,27 @@ tags: ["person"]
 A follower of Jesus who supported His ministry
 
 **Original-language names:** Ἰωάννα, Ἰωανάν (G2489)
+
+## When
+
+- **Placed around:** [[connections/timeline/1st century AD|AD 33]] *(Ussher: the median date of the passages naming them)*
+
+## Family
+
+- **Spouses:** [[connections/people/Chuza|Chuza]]
+
+```mermaid
+flowchart TB
+  n0["Joanna"]:::me
+  n1["Chuza"]:::spouse
+  n0 -.- n1
+  classDef me stroke-width:3px
+  classDef spouse stroke-dasharray:4
+```
+
+## Events
+
+- [[connections/timeline/1st century AD|AD 28]] · [[connections/events/Jesus' 2nd Tour of Galilee|Jesus' 2nd Tour of Galilee]]
 
 ## Appears in
 

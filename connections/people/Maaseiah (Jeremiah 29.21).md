@@ -7,6 +7,10 @@ original: ["מַעֲשֵׂיָהוּ"]
 verses: 1
 chapters: 1
 first: "Jeremiah 29:21"
+placed: "599 BC"
+placed_year: -598
+generation: 1
+sex: "male"
 tags: ["person"]
 ---
 
@@ -15,6 +19,25 @@ tags: ["person"]
 False prophet during the Babylonian exile
 
 **Original-language names:** מַעֲשֵׂיָהוּ (H4641)
+
+## When
+
+- **Placed around:** [[connections/timeline/6th century BC|599 BC]] *(Ussher: the median date of the passages naming them)*
+
+## Family
+
+- **Children:** [[connections/people/Zedekiah (Jeremiah 29.21)|Zedekiah (Jeremiah 29.21)]]
+
+**Family group:** [[connections/genealogy/Family of Maaseiah (Jeremiah 29.21)|Family of Maaseiah (Jeremiah 29.21)]], generation 1
+
+```mermaid
+flowchart TB
+  n0["Maaseiah (Jeremiah 29.21)"]:::me
+  n1["Zedekiah (Jeremiah 29.21)"]
+  n0 --> n1
+  classDef me stroke-width:3px
+  classDef spouse stroke-dasharray:4
+```
 
 ## Appears in
 

@@ -7,12 +7,16 @@ language: "Hebrew"
 verses: 17
 cross_references_out: 11
 cross_references_in: 9
+dated_from: -625
+dated_to: -625
 tags: ["chapter", "ot", "prophets"]
 ---
 
 # Habakkuk 1
 
 ← [[connections/chapters/34-nahum/Nahum 3|Nahum 3]] · [[connections/books/Habakkuk|Habakkuk]] · [[connections/chapters/35-habakkuk/Habakkuk 2|Habakkuk 2]] →
+
+**Dated** *(Ussher, after the Treasury of Scripture Knowledge)*: [[connections/timeline/7th century BC|626 BC]]
 
 ## Text
 

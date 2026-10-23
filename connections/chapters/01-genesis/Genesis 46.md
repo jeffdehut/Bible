@@ -7,12 +7,16 @@ language: "Hebrew/Aramaic"
 verses: 34
 cross_references_out: 2
 cross_references_in: 11
+dated_from: -1705
+dated_to: -1705
 tags: ["chapter", "ot", "torah"]
 ---
 
 # Genesis 46
 
 ← [[connections/chapters/01-genesis/Genesis 45|Genesis 45]] · [[connections/books/Genesis|Genesis]] · [[connections/chapters/01-genesis/Genesis 47|Genesis 47]] →
+
+**Dated** *(Ussher, after the Treasury of Scripture Knowledge)*: [[connections/timeline/18th century BC|1706 BC]]
 
 ## Text
 

@@ -1,0 +1,22 @@
+---
+type: "family"
+root: "Shemaah"
+people: 3
+generations: 2
+tags: ["genealogy"]
+---
+
+# Family of Shemaah
+
+3 people over 2 generations, counted down from [[connections/people/Shemaah|Shemaah]]. Generations follow parent-child links in TIPNR; an *ancestor* link (TIPNR flag `(a)`) counts as one step but may span several. People who join through marriage only appear under their own families.
+
+[[connections/genealogy/Genealogy|All families]]
+
+## Generation 1
+
+- [[connections/people/Shemaah|Shemaah]]
+
+## Generation 2
+
+- [[connections/people/Ahiezer (1 Chronicles 12.3)|Ahiezer (1 Chronicles 12.3)]] — child of [[connections/people/Shemaah|Shemaah]]
+- [[connections/people/Joash (1 Chronicles 12.3)|Joash (1 Chronicles 12.3)]] — child of [[connections/people/Shemaah|Shemaah]]

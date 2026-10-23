@@ -7,12 +7,16 @@ language: "Hebrew"
 verses: 13
 cross_references_out: 76
 cross_references_in: 52
+dated_from: -758
+dated_to: -758
 tags: ["chapter", "ot", "prophets"]
 ---
 
 # Isaiah 6
 
 ← [[connections/chapters/23-isaiah/Isaiah 5|Isaiah 5]] · [[connections/books/Isaiah|Isaiah]] · [[connections/chapters/23-isaiah/Isaiah 7|Isaiah 7]] →
+
+**Dated** *(Ussher, after the Treasury of Scripture Knowledge)*: [[connections/timeline/8th century BC|759 BC]]
 
 ## Text
 

@@ -7,6 +7,7 @@ original: ["פִּלְטָ֑י"]
 verses: 1
 chapters: 1
 first: "Nehemiah 12:17"
+sex: "male"
 tags: ["person"]
 ---
 

@@ -7,12 +7,16 @@ language: "Hebrew"
 verses: 15
 cross_references_out: 0
 cross_references_in: 1
+dated_from: -1094
+dated_to: -1094
 tags: ["chapter", "ot", "history"]
 ---
 
 # 1 Samuel 11
 
 ← [[connections/chapters/09-1-samuel/1 Samuel 10|1 Samuel 10]] · [[connections/books/1 Samuel|1 Samuel]] · [[connections/chapters/09-1-samuel/1 Samuel 12|1 Samuel 12]] →
+
+**Dated** *(Ussher, after the Treasury of Scripture Knowledge)*: [[connections/timeline/11th century BC|1095 BC]]
 
 ## Text
 

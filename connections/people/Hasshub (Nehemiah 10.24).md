@@ -7,6 +7,9 @@ original: ["חַשּׁוּב"]
 verses: 1
 chapters: 1
 first: "Nehemiah 10:24"
+placed: "445 BC"
+placed_year: -444
+sex: "male"
 tags: ["person"]
 ---
 
@@ -15,6 +18,10 @@ tags: ["person"]
 One who sealed the covenant with Nehemiah.
 
 **Original-language names:** חַשּׁוּב (H2815)
+
+## When
+
+- **Placed around:** [[connections/timeline/5th century BC|445 BC]] *(Ussher: the median date of the passages naming them)*
 
 ## Appears in
 

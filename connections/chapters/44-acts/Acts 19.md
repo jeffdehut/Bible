@@ -7,12 +7,16 @@ language: "Greek"
 verses: 40
 cross_references_out: 24
 cross_references_in: 45
+dated_from: 58
+dated_to: 58
 tags: ["chapter", "nt", "acts"]
 ---
 
 # Acts 19
 
 ← [[connections/chapters/44-acts/Acts 18|Acts 18]] · [[connections/books/Acts|Acts]] · [[connections/chapters/44-acts/Acts 20|Acts 20]] →
+
+**Dated** *(Ussher, after the Treasury of Scripture Knowledge)*: [[connections/timeline/1st century AD|AD 58]]
 
 ## Text
 

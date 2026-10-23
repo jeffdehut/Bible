@@ -7,6 +7,9 @@ original: ["Ἰωάννης"]
 verses: 1
 chapters: 1
 first: "Acts 4:6"
+placed: "AD 33"
+placed_year: 33
+sex: "male"
 tags: ["person"]
 ---
 
@@ -15,6 +18,19 @@ tags: ["person"]
 A member of the high priest's family
 
 **Original-language names:** Ἰωάννης (G2491)
+
+## When
+
+- **Placed around:** [[connections/timeline/1st century AD|AD 33]] *(Ussher: the median date of the passages naming them)*
+
+## Family
+
+- **Tribe or nation:** Tribe of Levi
+
+
+## Events
+
+- [[connections/timeline/1st century AD|AD 30]] · [[connections/events/Peter and John's Trial|Peter and John's Trial]]
 
 ## Appears in
 

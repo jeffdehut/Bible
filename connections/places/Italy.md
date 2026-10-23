@@ -17,6 +17,11 @@ A region in southern Europe, home to the Roman Empire
 
 **Original-language names:** Ἰταλία (G2482)
 
+## Events
+
+- [[connections/timeline/1st century AD|AD 56]] · [[connections/events/Journey to Rome begins|Journey to Rome begins]]
+- [[connections/timeline/1st century AD|AD 56]] · [[connections/events/Paul's Journey to Rome|Paul's Journey to Rome]]
+
 ## Appears in
 
 [[connections/chapters/44-acts/Acts 18|Acts 18]] · [[connections/chapters/44-acts/Acts 27|Acts 27 (2)]] · [[connections/chapters/58-hebrews/Hebrews 13|Hebrews 13 (2)]]

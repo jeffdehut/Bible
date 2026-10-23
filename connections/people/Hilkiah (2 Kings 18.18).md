@@ -7,6 +7,10 @@ original: ["חִלְקִיָּהוּ"]
 verses: 6
 chapters: 3
 first: "2 Kings 18:18"
+placed: "710 BC"
+placed_year: -709
+generation: 1
+sex: "male"
 tags: ["person"]
 ---
 
@@ -15,6 +19,25 @@ tags: ["person"]
 An official during King Hezekiah's reign.
 
 **Original-language names:** חִלְקִיָּהוּ (H2518)
+
+## When
+
+- **Placed around:** [[connections/timeline/8th century BC|710 BC]] *(Ussher: the median date of the passages naming them)*
+
+## Family
+
+- **Children:** [[connections/people/Eliakim (2 Kings 18.18)|Eliakim (2 Kings 18.18)]]
+
+**Family group:** [[connections/genealogy/Family of Hilkiah (2 Kings 18.18)|Family of Hilkiah (2 Kings 18.18)]], generation 1
+
+```mermaid
+flowchart TB
+  n0["Hilkiah (2 Kings 18.18)"]:::me
+  n1["Eliakim (2 Kings 18.18)"]
+  n0 --> n1
+  classDef me stroke-width:3px
+  classDef spouse stroke-dasharray:4
+```
 
 ## Appears in
 

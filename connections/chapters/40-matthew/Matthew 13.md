@@ -7,12 +7,16 @@ language: "Greek"
 verses: 58
 cross_references_out: 198
 cross_references_in: 184
+dated_from: 31
+dated_to: 31
 tags: ["chapter", "nt", "gospels"]
 ---
 
 # Matthew 13
 
 ← [[connections/chapters/40-matthew/Matthew 12|Matthew 12]] · [[connections/books/Matthew|Matthew]] · [[connections/chapters/40-matthew/Matthew 14|Matthew 14]] →
+
+**Dated** *(Ussher, after the Treasury of Scripture Knowledge)*: [[connections/timeline/1st century AD|AD 31]]
 
 ## Text
 

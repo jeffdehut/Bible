@@ -8,6 +8,9 @@ original: ["עֲזַרְיָה", "עֲזַרְיָה", "עֲבֵד נְגוֹ", 
 verses: 18
 chapters: 3
 first: "Daniel 1:6"
+placed: "580 BC"
+placed_year: -579
+sex: "male"
 tags: ["person"]
 ---
 
@@ -18,6 +21,10 @@ One of Daniel's companions, survived the fiery furnace
 **Also called:** Abednego
 
 **Original-language names:** עֲזַרְיָה (H5838) · עֲזַרְיָה (H5839) · עֲבֵד נְגוֹ (H5664) · עֲבֵד נְגוֹ (H5665)
+
+## When
+
+- **Placed around:** [[connections/timeline/6th century BC|580 BC]] *(Ussher: the median date of the passages naming them)*
 
 ## Appears in
 

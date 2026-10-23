@@ -7,12 +7,16 @@ language: "Hebrew/Aramaic"
 verses: 22
 cross_references_out: 31
 cross_references_in: 19
+dated_from: -2346
+dated_to: -2346
 tags: ["chapter", "ot", "torah"]
 ---
 
 # Genesis 8
 
 ← [[connections/chapters/01-genesis/Genesis 7|Genesis 7]] · [[connections/books/Genesis|Genesis]] · [[connections/chapters/01-genesis/Genesis 9|Genesis 9]] →
+
+**Dated** *(Ussher, after the Treasury of Scripture Knowledge)*: [[connections/timeline/24th century BC|2347 BC]]
 
 ## Text
 

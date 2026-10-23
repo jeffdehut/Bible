@@ -7,12 +7,16 @@ language: "Hebrew"
 verses: 33
 cross_references_out: 55
 cross_references_in: 52
+dated_from: -699
+dated_to: -699
 tags: ["chapter", "ot", "wisdom"]
 ---
 
 # Proverbs 30
 
 ← [[connections/chapters/20-proverbs/Proverbs 29|Proverbs 29]] · [[connections/books/Proverbs|Proverbs]] · [[connections/chapters/20-proverbs/Proverbs 31|Proverbs 31]] →
+
+**Dated** *(Ussher, after the Treasury of Scripture Knowledge)*: [[connections/timeline/7th century BC|700 BC]]
 
 ## Text
 

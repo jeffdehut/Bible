@@ -7,6 +7,9 @@ original: ["יְרֵמוֹת, יְרִימוֹת"]
 verses: 1
 chapters: 1
 first: "2 Chronicles 31:13"
+placed: "726 BC"
+placed_year: -725
+sex: "male"
 tags: ["person"]
 ---
 
@@ -15,6 +18,10 @@ tags: ["person"]
 A Levite overseer during Hezekiah's temple restoration.
 
 **Original-language names:** יְרֵמוֹת, יְרִימוֹת (H3406)
+
+## When
+
+- **Placed around:** [[connections/timeline/8th century BC|726 BC]] *(Ussher: the median date of the passages naming them)*
 
 ## Appears in
 

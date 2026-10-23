@@ -7,12 +7,16 @@ language: "Hebrew"
 verses: 27
 cross_references_out: 98
 cross_references_in: 72
+dated_from: -1490
+dated_to: -1490
 tags: ["chapter", "ot", "torah"]
 ---
 
 # Exodus 15
 
 ← [[connections/chapters/02-exodus/Exodus 14|Exodus 14]] · [[connections/books/Exodus|Exodus]] · [[connections/chapters/02-exodus/Exodus 16|Exodus 16]] →
+
+**Dated** *(Ussher, after the Treasury of Scripture Knowledge)*: [[connections/timeline/15th century BC|1491 BC]]
 
 ## Text
 

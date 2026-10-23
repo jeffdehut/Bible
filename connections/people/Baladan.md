@@ -7,6 +7,10 @@ original: ["בַּלְאֲדָן"]
 verses: 2
 chapters: 2
 first: "2 Kings 20:12"
+placed: "712 BC"
+placed_year: -711
+generation: 1
+sex: "male"
 tags: ["person"]
 ---
 
@@ -15,6 +19,25 @@ tags: ["person"]
 Father of Babylonian king Merodach-baladan (or 'Berodach-baladan').
 
 **Original-language names:** בַּלְאֲדָן (H1081)
+
+## When
+
+- **Placed around:** [[connections/timeline/8th century BC|712 BC]] *(Ussher: the median date of the passages naming them)*
+
+## Family
+
+- **Children:** [[connections/people/Merodach-baladan|Merodach-baladan]]
+
+**Family group:** [[connections/genealogy/Family of Baladan|Family of Baladan]], generation 1
+
+```mermaid
+flowchart TB
+  n0["Baladan"]:::me
+  n1["Merodach-baladan"]
+  n0 --> n1
+  classDef me stroke-width:3px
+  classDef spouse stroke-dasharray:4
+```
 
 ## Appears in
 

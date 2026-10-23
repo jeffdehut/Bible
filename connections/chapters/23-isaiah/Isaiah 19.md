@@ -7,12 +7,16 @@ language: "Hebrew"
 verses: 25
 cross_references_out: 1
 cross_references_in: 15
+dated_from: -713
+dated_to: -713
 tags: ["chapter", "ot", "prophets"]
 ---
 
 # Isaiah 19
 
 ← [[connections/chapters/23-isaiah/Isaiah 18|Isaiah 18]] · [[connections/books/Isaiah|Isaiah]] · [[connections/chapters/23-isaiah/Isaiah 20|Isaiah 20]] →
+
+**Dated** *(Ussher, after the Treasury of Scripture Knowledge)*: [[connections/timeline/8th century BC|714 BC]]
 
 ## Text
 

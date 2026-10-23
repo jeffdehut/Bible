@@ -7,12 +7,16 @@ language: "Hebrew/Aramaic"
 verses: 26
 cross_references_out: 18
 cross_references_in: 15
+dated_from: -1688
+dated_to: -1688
 tags: ["chapter", "ot", "torah"]
 ---
 
 # Genesis 50
 
 ← [[connections/chapters/01-genesis/Genesis 49|Genesis 49]] · [[connections/books/Genesis|Genesis]] · [[connections/chapters/02-exodus/Exodus 1|Exodus 1]] →
+
+**Dated** *(Ussher, after the Treasury of Scripture Knowledge)*: [[connections/timeline/17th century BC|1689 BC]]
 
 ## Text
 

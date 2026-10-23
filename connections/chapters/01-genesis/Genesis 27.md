@@ -7,12 +7,16 @@ language: "Hebrew/Aramaic"
 verses: 46
 cross_references_out: 18
 cross_references_in: 10
+dated_from: -1759
+dated_to: -1759
 tags: ["chapter", "ot", "torah"]
 ---
 
 # Genesis 27
 
 ← [[connections/chapters/01-genesis/Genesis 26|Genesis 26]] · [[connections/books/Genesis|Genesis]] · [[connections/chapters/01-genesis/Genesis 28|Genesis 28]] →
+
+**Dated** *(Ussher, after the Treasury of Scripture Knowledge)*: [[connections/timeline/18th century BC|1760 BC]]
 
 ## Text
 

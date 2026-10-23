@@ -7,6 +7,7 @@ original: ["אַסְנָה"]
 verses: 1
 chapters: 1
 first: "Ezra 2:50"
+sex: "male"
 tags: ["person"]
 ---
 

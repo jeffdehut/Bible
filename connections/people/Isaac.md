@@ -7,6 +7,14 @@ original: ["יִצְחָק", "יִשְׂחָק", "Ἰσαάκ"]
 verses: 123
 chapters: 52
 first: "Genesis 17:19"
+born: "1896 BC"
+born_year: -1895
+died: "1716 BC"
+died_year: -1715
+placed: "1739 BC"
+placed_year: -1738
+generation: 22
+sex: "male"
 tags: ["person"]
 ---
 
@@ -15,6 +23,66 @@ tags: ["person"]
 Son of Abraham; father of Jacob and Esau.
 
 **Original-language names:** יִצְחָק (H3327) · יִשְׂחָק (H3446) · Ἰσαάκ (G2464)
+
+## When
+
+- **Lived:** [[connections/timeline/19th century BC|1896 BC]] – [[connections/timeline/18th century BC|1716 BC]] *(Jones)*
+- **Placed around:** [[connections/timeline/18th century BC|1739 BC]] *(Ussher: the median date of the passages naming them)*
+
+## Family
+
+- **Father:** [[connections/people/Abraham|Abraham]]
+- **Mother:** [[connections/people/Sarah|Sarah]]
+- **Brothers and sisters:** [[connections/people/Ishbak|Ishbak]], [[connections/people/Ishmael (Genesis 16.11)|Ishmael (Genesis 16.11)]], [[connections/people/Jokshan|Jokshan]], [[connections/people/Medan|Medan]], [[connections/people/Midian|Midian]], [[connections/people/Shuah|Shuah]], [[connections/people/Zimran|Zimran]]
+- **Spouses:** [[connections/people/Rebekah|Rebekah]]
+- **Children:** [[connections/people/Esau|Esau]], [[connections/people/Israel|Israel]]
+- **Tribe or nation:** Early Patriarch
+
+**Line of descent** (22 generations, father to son): [[connections/people/Adam|Adam]] → [[connections/people/Seth|Seth]] → [[connections/people/Enosh|Enosh]] → [[connections/people/Kenan|Kenan]] → [[connections/people/Mahalalel (Genesis 5.12)|Mahalalel (Genesis 5.12)]] → [[connections/people/Jared|Jared]] → [[connections/people/Enoch (Genesis 5.18)|Enoch (Genesis 5.18)]] → [[connections/people/Methuselah|Methuselah]] → [[connections/people/Lamech (Genesis 5.25)|Lamech (Genesis 5.25)]] → [[connections/people/Noah (Genesis 5.29)|Noah (Genesis 5.29)]] → [[connections/people/Shem|Shem]] → [[connections/people/Arpachshad|Arpachshad]] → [[connections/people/Cainan|Cainan]] → [[connections/people/Shelah (Genesis 10.24)|Shelah (Genesis 10.24)]] → [[connections/people/Eber (Genesis 10.21)|Eber (Genesis 10.21)]] → [[connections/people/Peleg|Peleg]] → [[connections/people/Reu|Reu]] → [[connections/people/Serug|Serug]] → [[connections/people/Nahor (Genesis 11.22)|Nahor (Genesis 11.22)]] → [[connections/people/Terah|Terah]] → [[connections/people/Abraham|Abraham]] → **Isaac**
+
+**Family group:** [[connections/genealogy/Family of Adam|Family of Adam]], generation 22
+
+```mermaid
+flowchart TB
+  n0["Isaac"]:::me
+  n1["Terah"]
+  n2["Abraham"]
+  n1 --> n2
+  n2 --> n0
+  n3["Sarah"]
+  n1 --> n3
+  n3 --> n0
+  n4["Ishbak"]
+  n2 --> n4
+  n5["Ishmael (Genesis 16.11)"]
+  n2 --> n5
+  n6["Jokshan"]
+  n2 --> n6
+  n7["Medan"]
+  n2 --> n7
+  n8["Midian"]
+  n2 --> n8
+  n9["Shuah"]
+  n2 --> n9
+  n10["Zimran"]
+  n2 --> n10
+  n11["Rebekah"]:::spouse
+  n0 -.- n11
+  n12["Esau"]
+  n0 --> n12
+  n13["Israel"]
+  n0 --> n13
+  classDef me stroke-width:3px
+  classDef spouse stroke-dasharray:4
+```
+
+## Events
+
+- [[connections/timeline/19th century BC|1896 BC]] · [[connections/events/Birth of Isaac|Birth of Isaac]]
+- [[connections/timeline/19th century BC|1896 BC]] · [[connections/events/Lifetime of Isaac|Lifetime of Isaac]]
+- [[connections/timeline/19th century BC|1856 BC]] · [[connections/events/Isaac Marries Rebekah|Isaac Marries Rebekah]]
+- [[connections/timeline/19th century BC|1836 BC]] · [[connections/events/Birth of Jacob and Esau|Birth of Jacob and Esau]]
+- [[connections/timeline/18th century BC|1716 BC]] · [[connections/events/Death of Isaac|Death of Isaac]]
 
 ## Appears in
 

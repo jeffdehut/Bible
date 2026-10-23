@@ -8,6 +8,9 @@ original: ["אִיתִיאֵל"]
 verses: 1
 chapters: 1
 first: "Proverbs 30:1"
+placed: "700 BC"
+placed_year: -699
+sex: "male"
 tags: ["person"]
 ---
 
@@ -18,6 +21,10 @@ Mentioned in Agur's sayings; meaning uncertain.
 **Also called:** weary God
 
 **Original-language names:** אִיתִיאֵל (H0384)
+
+## When
+
+- **Placed around:** [[connections/timeline/7th century BC|700 BC]] *(Ussher: the median date of the passages naming them)*
 
 ## Appears in
 

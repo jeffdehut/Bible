@@ -7,6 +7,9 @@ original: ["יְעִיאֵל"]
 verses: 1
 chapters: 1
 first: "2 Chronicles 26:11"
+placed: "810 BC"
+placed_year: -809
+sex: "male"
 tags: ["person"]
 ---
 
@@ -15,6 +18,10 @@ tags: ["person"]
 A scribe in King Uzziah's army.
 
 **Original-language names:** יְעִיאֵל (H3273)
+
+## When
+
+- **Placed around:** [[connections/timeline/9th century BC|810 BC]] *(Ussher: the median date of the passages naming them)*
 
 ## Appears in
 

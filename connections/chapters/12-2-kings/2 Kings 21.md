@@ -7,12 +7,16 @@ language: "Hebrew"
 verses: 26
 cross_references_out: 0
 cross_references_in: 5
+dated_from: -697
+dated_to: -640
 tags: ["chapter", "ot", "history"]
 ---
 
 # 2 Kings 21
 
 ← [[connections/chapters/12-2-kings/2 Kings 20|2 Kings 20]] · [[connections/books/2 Kings|2 Kings]] · [[connections/chapters/12-2-kings/2 Kings 22|2 Kings 22]] →
+
+**Dated** *(Ussher, after the Treasury of Scripture Knowledge)*: [[connections/timeline/7th century BC|698 BC]] – [[connections/timeline/7th century BC|641 BC]]
 
 ## Text
 

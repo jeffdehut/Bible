@@ -8,6 +8,10 @@ original: ["יְהוֹיָדָע", "Βαραχίας"]
 verses: 26
 chapters: 6
 first: "2 Kings 11:4"
+placed: "878 BC"
+placed_year: -877
+generation: 44
+sex: "male"
 tags: ["person"]
 ---
 
@@ -18,6 +22,29 @@ High priest who overthrew Athaliah and crowned Joash
 **Also called:** Barachiah
 
 **Original-language names:** יְהוֹיָדָע (H3077) · Βαραχίας (G0914)
+
+## When
+
+- **Placed around:** [[connections/timeline/9th century BC|878 BC]] *(Ussher: the median date of the passages naming them)*
+
+## Family
+
+- **Spouses:** [[connections/people/Jehosheba|Jehosheba]]
+- **Children:** [[connections/people/Zechariah (2 Chronicles 24.20)|Zechariah (2 Chronicles 24.20)]]
+- **Tribe or nation:** Tribe of Levi
+
+**Family group:** [[connections/genealogy/Family of Adam|Family of Adam]], generation 44
+
+```mermaid
+flowchart TB
+  n0["Jehoiada (2 Kings 11.4)"]:::me
+  n1["Jehosheba"]:::spouse
+  n0 -.- n1
+  n2["Zechariah (2 Chronicles 24.20)"]
+  n0 --> n2
+  classDef me stroke-width:3px
+  classDef spouse stroke-dasharray:4
+```
 
 ## Appears in
 

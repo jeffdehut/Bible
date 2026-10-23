@@ -7,6 +7,10 @@ original: ["קַדְמִיאֵל"]
 verses: 8
 chapters: 6
 first: "Ezra 2:40"
+placed: "445 BC"
+placed_year: -444
+generation: 1
+sex: "male"
 tags: ["person"]
 ---
 
@@ -15,6 +19,25 @@ tags: ["person"]
 A Levite who returned from Babylonian exile
 
 **Original-language names:** קַדְמִיאֵל (H6934)
+
+## When
+
+- **Placed around:** [[connections/timeline/5th century BC|445 BC]] *(Ussher: the median date of the passages naming them)*
+
+## Family
+
+- **Children:** [[connections/people/Jeshua (Nehemiah 12.24)|Jeshua (Nehemiah 12.24)]]
+
+**Family group:** [[connections/genealogy/Family of Kadmiel|Family of Kadmiel]], generation 1
+
+```mermaid
+flowchart TB
+  n0["Kadmiel"]:::me
+  n1["Jeshua (Nehemiah 12.24)"]
+  n0 --> n1
+  classDef me stroke-width:3px
+  classDef spouse stroke-dasharray:4
+```
 
 ## Appears in
 

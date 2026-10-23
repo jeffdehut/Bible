@@ -7,12 +7,16 @@ language: "Hebrew/Aramaic"
 verses: 18
 cross_references_out: 10
 cross_references_in: 3
+dated_from: -589
+dated_to: -587
 tags: ["chapter", "ot", "prophets"]
 ---
 
 # Jeremiah 39
 
 ← [[connections/chapters/24-jeremiah/Jeremiah 38|Jeremiah 38]] · [[connections/books/Jeremiah|Jeremiah]] · [[connections/chapters/24-jeremiah/Jeremiah 40|Jeremiah 40]] →
+
+**Dated** *(Ussher, after the Treasury of Scripture Knowledge)*: [[connections/timeline/6th century BC|590 BC]] – [[connections/timeline/6th century BC|588 BC]]
 
 ## Text
 

@@ -7,12 +7,16 @@ language: "Hebrew"
 verses: 29
 cross_references_out: 2
 cross_references_in: 9
+dated_from: -1022
+dated_to: -1022
 tags: ["chapter", "ot", "history"]
 ---
 
 # 2 Samuel 17
 
 ← [[connections/chapters/10-2-samuel/2 Samuel 16|2 Samuel 16]] · [[connections/books/2 Samuel|2 Samuel]] · [[connections/chapters/10-2-samuel/2 Samuel 18|2 Samuel 18]] →
+
+**Dated** *(Ussher, after the Treasury of Scripture Knowledge)*: [[connections/timeline/11th century BC|1023 BC]]
 
 ## Text
 

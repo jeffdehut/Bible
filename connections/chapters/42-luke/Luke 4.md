@@ -7,12 +7,16 @@ language: "Greek"
 verses: 44
 cross_references_out: 123
 cross_references_in: 82
+dated_from: 27
+dated_to: 27
 tags: ["chapter", "nt", "gospels"]
 ---
 
 # Luke 4
 
 ← [[connections/chapters/42-luke/Luke 3|Luke 3]] · [[connections/books/Luke|Luke]] · [[connections/chapters/42-luke/Luke 5|Luke 5]] →
+
+**Dated** *(Ussher, after the Treasury of Scripture Knowledge)*: [[connections/timeline/1st century AD|AD 27]]
 
 ## Text
 

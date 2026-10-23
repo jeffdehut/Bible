@@ -7,6 +7,10 @@ original: ["פַּרְעֹה", "Φαραώ"]
 verses: 11
 chapters: 4
 first: "Exodus 1:11"
+placed: "1571 BC"
+placed_year: -1570
+generation: 1
+sex: "male"
 tags: ["person"]
 ---
 
@@ -15,6 +19,26 @@ tags: ["person"]
 Egyptian Pharaoh during Moses' birth and early life
 
 **Original-language names:** פַּרְעֹה (H6547) · Φαραώ (G5328)
+
+## When
+
+- **Placed around:** [[connections/timeline/16th century BC|1571 BC]] *(Ussher: the median date of the passages naming them)*
+
+## Family
+
+- **Children:** [[connections/people/daughter of Pharaoh (Exodus 2.5)|daughter of Pharaoh (Exodus 2.5)]]
+- **Tribe or nation:** Egypt
+
+**Family group:** [[connections/genealogy/Family of Pharaoh (Exodus 1.11)|Family of Pharaoh (Exodus 1.11)]], generation 1
+
+```mermaid
+flowchart TB
+  n0["Pharaoh (Exodus 1.11)"]:::me
+  n1["daughter of Pharaoh (Exodus 2.5)"]
+  n0 --> n1
+  classDef me stroke-width:3px
+  classDef spouse stroke-dasharray:4
+```
 
 ## Appears in
 

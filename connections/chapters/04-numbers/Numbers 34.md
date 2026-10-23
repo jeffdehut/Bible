@@ -7,12 +7,16 @@ language: "Hebrew"
 verses: 29
 cross_references_out: 1
 cross_references_in: 2
+dated_from: -1451
+dated_to: -1451
 tags: ["chapter", "ot", "torah"]
 ---
 
 # Numbers 34
 
 ← [[connections/chapters/04-numbers/Numbers 33|Numbers 33]] · [[connections/books/Numbers|Numbers]] · [[connections/chapters/04-numbers/Numbers 35|Numbers 35]] →
+
+**Dated** *(Ussher, after the Treasury of Scripture Knowledge)*: [[connections/timeline/15th century BC|1452 BC]]
 
 ## Text
 

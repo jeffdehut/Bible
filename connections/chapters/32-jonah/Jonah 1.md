@@ -7,12 +7,16 @@ language: "Hebrew"
 verses: 16
 cross_references_out: 15
 cross_references_in: 13
+dated_from: -861
+dated_to: -861
 tags: ["chapter", "ot", "prophets"]
 ---
 
 # Jonah 1
 
 ← [[connections/chapters/31-obadiah/Obadiah 1|Obadiah 1]] · [[connections/books/Jonah|Jonah]] · [[connections/chapters/32-jonah/Jonah 2|Jonah 2]] →
+
+**Dated** *(Ussher, after the Treasury of Scripture Knowledge)*: [[connections/timeline/9th century BC|862 BC]]
 
 ## Text
 

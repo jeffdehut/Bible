@@ -7,12 +7,16 @@ language: "Hebrew/Aramaic"
 verses: 36
 cross_references_out: 7
 cross_references_in: 11
+dated_from: -1727
+dated_to: -1727
 tags: ["chapter", "ot", "torah"]
 ---
 
 # Genesis 37
 
 ← [[connections/chapters/01-genesis/Genesis 36|Genesis 36]] · [[connections/books/Genesis|Genesis]] · [[connections/chapters/01-genesis/Genesis 38|Genesis 38]] →
+
+**Dated** *(Ussher, after the Treasury of Scripture Knowledge)*: [[connections/timeline/18th century BC|1728 BC]]
 
 ## Text
 

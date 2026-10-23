@@ -7,6 +7,9 @@ original: ["גִּנְּתוֹן", "גִנְּתוֹי"]
 verses: 3
 chapters: 2
 first: "Nehemiah 10:7"
+placed: "445 BC"
+placed_year: -444
+sex: "male"
 tags: ["person"]
 ---
 
@@ -15,6 +18,10 @@ tags: ["person"]
 A priest who sealed the covenant during Nehemiah's time.
 
 **Original-language names:** גִּנְּתוֹן (H1599) · גִנְּתוֹי (H1599)
+
+## When
+
+- **Placed around:** [[connections/timeline/5th century BC|445 BC]] *(Ussher: the median date of the passages naming them)*
 
 ## Appears in
 

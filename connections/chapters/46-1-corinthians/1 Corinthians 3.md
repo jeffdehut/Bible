@@ -7,12 +7,16 @@ language: "Greek"
 verses: 23
 cross_references_out: 130
 cross_references_in: 153
+dated_from: 59
+dated_to: 59
 tags: ["chapter", "nt", "pauline-epistles"]
 ---
 
 # 1 Corinthians 3
 
 ← [[connections/chapters/46-1-corinthians/1 Corinthians 2|1 Corinthians 2]] · [[connections/books/1 Corinthians|1 Corinthians]] · [[connections/chapters/46-1-corinthians/1 Corinthians 4|1 Corinthians 4]] →
+
+**Dated** *(Ussher, after the Treasury of Scripture Knowledge)*: [[connections/timeline/1st century AD|AD 59]]
 
 ## Text
 

@@ -7,6 +7,9 @@ original: ["אַרְצָא"]
 verses: 1
 chapters: 1
 first: "1 Kings 16:9"
+placed: "929 BC"
+placed_year: -928
+sex: "male"
 tags: ["person"]
 ---
 
@@ -15,6 +18,10 @@ tags: ["person"]
 Steward of King Elah's household in Tirzah
 
 **Original-language names:** אַרְצָא (H0777)
+
+## When
+
+- **Placed around:** [[connections/timeline/10th century BC|929 BC]] *(Ussher: the median date of the passages naming them)*
 
 ## Appears in
 

@@ -17,6 +17,12 @@ Province in Asia Minor; Paul's birthplace and ministry area
 
 **Original-language names:** Κιλικία, Κιλικία (G2791)
 
+## Events
+
+- [[connections/timeline/1st century AD|AD 47]] · [[connections/events/Second Missionary Journey begins|Second Missionary Journey begins]]
+- [[connections/timeline/1st century AD|AD 56]] · [[connections/events/Journey to Rome begins|Journey to Rome begins]]
+- [[connections/timeline/1st century AD|AD 56]] · [[connections/events/Paul's Journey to Rome|Paul's Journey to Rome]]
+
 ## Appears in
 
 [[connections/chapters/44-acts/Acts 6|Acts 6]] · [[connections/chapters/44-acts/Acts 15|Acts 15 (2)]] · [[connections/chapters/44-acts/Acts 21|Acts 21]] · [[connections/chapters/44-acts/Acts 22|Acts 22]] · [[connections/chapters/44-acts/Acts 23|Acts 23]] · [[connections/chapters/44-acts/Acts 27|Acts 27]] · [[connections/chapters/48-galatians/Galatians 1|Galatians 1]]

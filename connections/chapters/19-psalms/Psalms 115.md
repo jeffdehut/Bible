@@ -7,12 +7,16 @@ language: "Hebrew"
 verses: 18
 cross_references_out: 54
 cross_references_in: 58
+dated_from: -895
+dated_to: -895
 tags: ["chapter", "ot", "wisdom"]
 ---
 
 # Psalms 115
 
 ← [[connections/chapters/19-psalms/Psalms 114|Psalms 114]] · [[connections/books/Psalms|Psalms]] · [[connections/chapters/19-psalms/Psalms 116|Psalms 116]] →
+
+**Dated** *(Ussher, after the Treasury of Scripture Knowledge)*: [[connections/timeline/9th century BC|896 BC]]
 
 ## Text
 

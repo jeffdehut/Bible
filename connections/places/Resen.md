@@ -17,6 +17,10 @@ Ancient Assyrian city built by Nimrod
 
 **Original-language names:** רֶ֫סֶן (H7449)
 
+## Events
+
+- [[connections/timeline/19th century BC|1822 BC]] · [[connections/events/Nimrod's kingdom begins|Nimrod's kingdom begins]]
+
 ## Appears in
 
 [[connections/chapters/01-genesis/Genesis 10|Genesis 10]]

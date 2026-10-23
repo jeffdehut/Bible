@@ -7,6 +7,10 @@ original: ["יְהוֹיָדָע"]
 verses: 21
 chapters: 10
 first: "2 Samuel 8:18"
+placed: "1015 BC"
+placed_year: -1014
+generation: 1
+sex: "male"
 tags: ["person"]
 ---
 
@@ -15,6 +19,25 @@ tags: ["person"]
 Father of one of David's warriors, Benaiah
 
 **Original-language names:** יְהוֹיָדָע (H3077)
+
+## When
+
+- **Placed around:** [[connections/timeline/11th century BC|1015 BC]] *(Ussher: the median date of the passages naming them)*
+
+## Family
+
+- **Children:** [[connections/people/Benaiah (2 Samuel 8.18)|Benaiah (2 Samuel 8.18)]]
+
+**Family group:** [[connections/genealogy/Family of Jehoiada (2 Samuel 8.18)|Family of Jehoiada (2 Samuel 8.18)]], generation 1
+
+```mermaid
+flowchart TB
+  n0["Jehoiada (2 Samuel 8.18)"]:::me
+  n1["Benaiah (2 Samuel 8.18)"]
+  n0 --> n1
+  classDef me stroke-width:3px
+  classDef spouse stroke-dasharray:4
+```
 
 ## Appears in
 

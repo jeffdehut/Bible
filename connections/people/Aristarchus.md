@@ -7,6 +7,9 @@ original: ["Ἀρίσταρχος"]
 verses: 5
 chapters: 5
 first: "Acts 19:29"
+placed: "AD 62"
+placed_year: 62
+sex: "male"
 tags: ["person"]
 ---
 
@@ -15,6 +18,21 @@ tags: ["person"]
 Macedonian companion of Paul, fellow prisoner
 
 **Original-language names:** Ἀρίσταρχος (G0708)
+
+## When
+
+- **Placed around:** [[connections/timeline/1st century AD|AD 62]] *(Ussher: the median date of the passages naming them)*
+
+## Events
+
+- [[connections/timeline/1st century AD|AD 50]] · [[connections/events/Third Missionary Journey|Third Missionary Journey]]
+- [[connections/timeline/1st century AD|AD 53]] · [[connections/events/Riot in Ephesus|Riot in Ephesus]]
+- [[connections/timeline/1st century AD|AD 54]] · [[connections/events/Mission to Macedonia and Greece|Mission to Macedonia and Greece]]
+- [[connections/timeline/1st century AD|AD 56]] · [[connections/events/Journey to Rome begins|Journey to Rome begins]]
+- [[connections/timeline/1st century AD|AD 56]] · [[connections/events/Paul's Journey to Rome|Paul's Journey to Rome]]
+- [[connections/timeline/1st century AD|AD 57]] · [[connections/events/Paul is shipwrecked by a storm|Paul is shipwrecked by a storm]]
+- [[connections/timeline/1st century AD|AD 57]] · [[connections/events/Paul stays at Malta|Paul stays at Malta]]
+- [[connections/timeline/1st century AD|AD 57]] · [[connections/events/Paul arrives at Rome|Paul arrives at Rome]]
 
 ## Appears in
 

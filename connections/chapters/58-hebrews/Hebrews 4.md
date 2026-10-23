@@ -7,12 +7,16 @@ language: "Greek"
 verses: 16
 cross_references_out: 136
 cross_references_in: 134
+dated_from: 64
+dated_to: 64
 tags: ["chapter", "nt", "general-epistles"]
 ---
 
 # Hebrews 4
 
 ← [[connections/chapters/58-hebrews/Hebrews 3|Hebrews 3]] · [[connections/books/Hebrews|Hebrews]] · [[connections/chapters/58-hebrews/Hebrews 5|Hebrews 5]] →
+
+**Dated** *(Ussher, after the Treasury of Scripture Knowledge)*: [[connections/timeline/1st century AD|AD 64]]
 
 ## Text
 

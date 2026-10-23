@@ -7,6 +7,10 @@ original: ["יוֹאֵל"]
 verses: 1
 chapters: 1
 first: "2 Chronicles 29:12"
+placed: "726 BC"
+placed_year: -725
+generation: 2
+sex: "male"
 tags: ["person"]
 ---
 
@@ -15,6 +19,25 @@ tags: ["person"]
 A Kohathite Levite during Hezekiah's temple restoration
 
 **Original-language names:** יוֹאֵל (H3100)
+
+## When
+
+- **Placed around:** [[connections/timeline/8th century BC|726 BC]] *(Ussher: the median date of the passages naming them)*
+
+## Family
+
+- **Father:** [[connections/people/Azariah (2 Chronicles 29.12)|Azariah (2 Chronicles 29.12)]]
+
+**Family group:** [[connections/genealogy/Family of Azariah (2 Chronicles 29.12)|Family of Azariah (2 Chronicles 29.12)]], generation 2
+
+```mermaid
+flowchart TB
+  n0["Joel (2 Chronicles 29.12)"]:::me
+  n1["Azariah (2 Chronicles 29.12)"]
+  n1 --> n0
+  classDef me stroke-width:3px
+  classDef spouse stroke-dasharray:4
+```
 
 ## Appears in
 

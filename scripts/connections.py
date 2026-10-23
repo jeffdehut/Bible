@@ -36,6 +36,12 @@ import zipfile
 
 from books import BOOKS, file_stem
 from build import parse_book_md
+from chronology import year_label
+from notes import (BOOK, ORDER, chapter_path, frontmatter, link, ref_label, safe_filename,
+                   section_of, slug, write)
+import chronology
+import genealogy
+import timeline
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 CACHE = os.path.join(ROOT, ".cache")
@@ -67,28 +73,6 @@ STEP_BOOKS.update({k.upper(): v for k, v in list(STEP_BOOKS.items())})  # TVTMS 
 # standard, which the SBLGNT follows). Verses the SBLGNT omits, such as Acts 8:37 or
 # Rom 16:25-27, keep their numbers: they still link to the right chapter.
 NT_RENUMBER = {("2Cor", 13, 13): ("2Cor", 13, 12), ("2Cor", 13, 14): ("2Cor", 13, 13)}
-
-SECTIONS = [
-    ("Torah", "Gen", "Deut"), ("History", "Josh", "Esth"), ("Wisdom", "Job", "Song"),
-    ("Prophets", "Isa", "Mal"), ("Gospels", "Matt", "John"), ("Acts", "Acts", "Acts"),
-    ("Pauline Epistles", "Rom", "Phlm"), ("General Epistles", "Heb", "Jude"),
-    ("Revelation", "Rev", "Rev"),
-]
-
-BOOK = {osis: (num, name, testament) for num, osis, name, testament in BOOKS}
-ORDER = [osis for _, osis, _, _ in BOOKS]
-
-
-def section_of(osis):
-    i = ORDER.index(osis)
-    for name, first, last in SECTIONS:
-        if ORDER.index(first) <= i <= ORDER.index(last):
-            return name
-
-
-def slug(s):
-    return s.lower().replace(" ", "-")
-
 
 # ---------------------------------------------------------------- downloads
 
@@ -262,7 +246,12 @@ TIPNR_REF = re.compile(r"([1-3]?[A-Z][a-z]{1,2})\.(\d+)\.(\d+)[a-z]?")
 
 
 def load_tipnr(path, vers, texts):
-    """People and places: [{id, kind, name, brief, forms, location, verses}]."""
+    """People and places: [{id, kind, name, brief, forms, location, verses, mentioned}].
+
+    `verses` holds the verses where the name occurs. `mentioned` holds verses where an
+    unnamed person is referred to (e.g. "the father of ..."); these people are kept for the
+    genealogy but left out of the name network, as in Harrison's graphic.
+    """
     entities, cur, kind = [], None, None
     unresolved = 0
     for line in open(path, encoding="utf-8"):
@@ -278,7 +267,8 @@ def load_tipnr(path, vers, texts):
             uid, _, ustrong = fields[0].partition("=")
             cur = {"id": uid.strip(), "kind": "person" if kind == "PERSON(s)" else "place",
                    "name": uid.split("@")[0].strip().replace("_", " "), "ustrong": ustrong.strip(),
-                   "brief": "", "forms": [], "aliases": [], "location": None, "verses": set()}
+                   "brief": "", "briefest": "", "forms": [], "aliases": [], "location": None,
+                   "verses": set(), "mentioned": set()}
             if cur["kind"] == "place":
                 m = re.search(r"@(-?\d+\.\d+),(-?\d+\.\d+)", line)
                 if m:
@@ -289,9 +279,13 @@ def load_tipnr(path, vers, texts):
             continue
         if line.startswith("@Brief="):
             cur["brief"] = line[len("@Brief="):].strip()
+        elif line.startswith("@Briefest="):
+            cur["briefest"] = line[len("@Briefest="):].strip()
         elif line.startswith("– ") and len(fields) > 4:
             significance = fields[0][2:].strip()
-            if significance not in NAME_SIGNIFICANCE:
+            target = "verses" if significance in NAME_SIGNIFICANCE else \
+                "mentioned" if significance == "Mentioned" and cur["kind"] == "person" else None
+            if target is None:
                 continue
             alias = fields[1].split("|")[0].strip().replace("_", " ") if "|" in fields[1] else None
             if alias and significance != "(same form with alt. meaning)" \
@@ -308,54 +302,18 @@ def load_tipnr(path, vers, texts):
                 if (ref[0], ref[1]) not in chapters_of(texts):
                     unresolved += 1
                     continue
-                cur["verses"].add(ref)
-    return [e for e in entities if e["verses"]], unresolved
-
-
-# ---------------------------------------------------------------- notes
-
-def ref_label(osis, c, v=None, v_end=None):
-    name = BOOK[osis][1]
-    if v is None:
-        return f"{name} {c}"
-    label = f"{name} {c}:{v}"
-    if v_end and v_end != (c, v):
-        label += f"–{v_end[1]}" if v_end[0] == c else f"–{v_end[0]}:{v_end[1]}"
-    return label
-
-
-def chapter_path(osis, c):
-    num, name, _ = BOOK[osis]
-    return f"connections/chapters/{num:02d}-{slug(name)}/{name} {c}"
-
-
-def link(path, label=None):
-    """A wikilink by full path (names like "Ruth" are both a book and a person), shown
-    with a short label instead of the path."""
-    return f"[[{path}|{label or path.rsplit('/', 1)[-1]}]]"
-
-
-def safe_filename(name):
-    return re.sub(r'[\\/:*?"<>|#^\[\]]', "-", name).strip()
-
-
-def frontmatter(fields):
-    out = ["---"]
-    for k, v in fields.items():
-        if v is None:
-            continue
-        if isinstance(v, (list, tuple)):
-            out.append(f"{k}: [{', '.join(json.dumps(x, ensure_ascii=False) for x in v)}]")
-        else:
-            out.append(f"{k}: {json.dumps(v, ensure_ascii=False)}")
-    return out + ["---", ""]
-
-
-def write(path, lines):
-    full = os.path.join(ROOT, path + ".md")
-    os.makedirs(os.path.dirname(full), exist_ok=True)
-    with open(full, "w", encoding="utf-8", newline="\n") as f:
-        f.write("\n".join(lines).rstrip("\n") + "\n")
+                cur[target].add(ref)
+    for e in entities:
+        # TIPNR's placeholders for unnamed links in a genealogy ("Unnamed#1", Strong's
+        # number 0000) are recorded as names; treat them as unnamed.
+        if e["name"].startswith("Unnamed#") or e["ustrong"].endswith("0000"):
+            e["mentioned"] |= e["verses"]
+            e["verses"] = set()
+            e["forms"] = [f for f in e["forms"] if f[0].strip(". ")]
+            e["name"] = e["name"].replace("Unnamed#", "Unnamed ")
+        e["mentioned"] -= e["verses"]
+        e["named"] = bool(e["verses"])
+    return [e for e in entities if e["verses"] or e["mentioned"]], unresolved
 
 
 def write_readme(st):
@@ -379,6 +337,37 @@ def write_readme(st):
         "## 3. Where names occur (Harrison's distribution chart)", "",
         "Each person and place note lists every chapter it appears in, in canonical order, with the "
         "number of verses. Its *Local graph* shows the same thing visually.", "",
+        "## 4. Genealogy", "",
+        f"Every family relationship in TIPNR: {st['parent_child_links']:,} parent-child links connecting "
+        f"{st['people_in_families']:,} people in {st['families']} family groups. The largest, the "
+        f"[[connections/genealogy/Family of Adam|Family of Adam]], has {st['largest_family']:,} people over "
+        f"{st['largest_family_generations']} generations. Each person note has a **Family** section, a family "
+        "tree, and the line of descent from father to son as far back as the records go. Start at "
+        "[[connections/genealogy/Genealogy|Genealogy]]. That note also lists where Theographic's independent "
+        f"family data differs: {st['theographic_parents_agree']:,} parent links agree and "
+        f"{st['theographic_parents_differ']} differ.", "",
+        "## 5. Timeline (after Adams' Synchronological Chart)", "",
+        "Sebastian C. Adams' *Synchronological Chart* (1871) set Bible history beside world history "
+        "using Archbishop Ussher's chronology. Here:", "",
+        f"- **{st['centuries']} century notes**, from Creation (4004 BC) to the 1st century AD. Each lists "
+        "the Bible events, births and deaths, the foreign rulers reigning, synchronisms, and the chapters "
+        "dated to that century.",
+        f"- **{st['events']} event notes** and birth and death years for {st['people_with_lifespans']} "
+        "people (patriarchs, judges, kings). These come from Theographic, after Floyd Nolen Jones's "
+        "refinement of Ussher.",
+        f"- **Dates on chapter notes:** {st['dated_verses']:,} verses carry the Ussher dates printed in the "
+        "margin of the *Treasury of Scripture Knowledge*, so chapter notes show their date wherever the "
+        f"*Treasury* gives one. {st['undated_chapters']} chapters are undated, {st['undated_psalms']} of them Psalms.",
+        f"- **[[connections/timeline/Synchronisms|Synchronisms]]:** {st['synchronisms']} events the Bible "
+        "narrates that outside evidence also dates, with Ussher's date beside the modern one. Ussher runs "
+        "about 45 years earlier in the 10th–9th centuries BC and agrees within a few years from Josiah "
+        f"onward. There are also {st['rulers']} rulers of the surrounding nations, with Wikidata links.",
+        "- **[[connections/timeline/Synchronological Chart|Synchronological Chart]]:** an open "
+        "reconstruction of Adams' chart as SVG, the whole span and five eras.", "",
+        "Ussher anchor dates in the verse data: " + "; ".join(
+            f"{label} {year_label(exp)}" + ("" if found == exp else
+                                           f" (found {year_label(found)})" if found is not None else " (verse undated)")
+            for label, exp, found in st["ussher_anchors"]) + ".", "",
         "## How this differs from Harrison's data", "",
         "| | Harrison (2007) | Here |", "|---|---|---|",
         "| Cross-references | 63,779, compiled by Christoph Römhild (not released) | "
@@ -419,8 +408,18 @@ def write_readme(st):
         f"`{st['stepbible_commit'][:7]}`). **Changes made here:** reformatted as one note per person or "
         "place; references converted to Hebrew verse numbering; groups, unnamed people and "
         "Septuagint-only names left out; underscores in names replaced with spaces.",
-        "- Inspired by Chris Harrison and Christoph Römhild's *Bible Cross-References* (2007). No data "
-        "or images from that work are used.",
+        "- Genealogy cross-check, events, lifespans and verse dates: Theographic Bible Metadata, "
+        "CC BY-SA 4.0, by Robert Rouse (https://github.com/robertrouse/theographic-bible-metadata, "
+        f"commit `{st['theographic_commit'][:7]}`). Event dates and lifespans follow Floyd Nolen Jones, "
+        "*The Chronology of the Old Testament*; verse dates follow Ussher via the *Treasury of Scripture "
+        "Knowledge*.",
+        "- Rulers and synchronisms: curated in `data/rulers.csv` and `data/synchronisms.csv` from "
+        "standard modern chronologies, with identifiers from Wikidata (CC0).",
+        "- Inspired by Chris Harrison and Christoph Römhild's *Bible Cross-References* (2007) and Sebastian "
+        "C. Adams' *Synchronological Chart* (1871). No data or images from either work are used.", "",
+        "**License of these notes:** because they include Theographic data, which is CC BY-SA 4.0, "
+        "everything in `connections/` is shared under the same license, "
+        "[CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/), with the attributions above.",
     ]
     with open(os.path.join(OUT, "README.md"), "w", encoding="utf-8", newline="\n") as f:
         f.write("\n".join(lines) + "\n")
@@ -437,12 +436,12 @@ def check_links():
             with open(os.path.join(dirpath, fn), encoding="utf-8") as f:
                 for target in re.findall(r"\[\[([^\]|]+)", f.read()):
                     path, _, heading = target.partition("#")
-                    full = os.path.join(ROOT, path + ".md")
+                    full = os.path.join(ROOT, path if os.path.splitext(path)[1] in (".svg", ".png") else path + ".md")
                     if full not in headings:
                         headings[full] = None
                         if os.path.exists(full):
                             with open(full, encoding="utf-8") as t:
-                                headings[full] = set(re.findall(r"^#+ (.+)$", t.read(), re.M))
+                                headings[full] = set(re.findall(r"^#+ (.+)$", t.read(), re.M)) if full.endswith(".md") else set()
                     if headings[full] is None or (heading and heading not in headings[full]):
                         broken += 1
                         if broken <= 5:
@@ -465,12 +464,19 @@ def main():
     # places) share it.
     by_name = collections.Counter((e["kind"], e["name"]) for e in entities)
     for e in entities:
-        first = min(e["verses"], key=lambda r: (ORDER.index(r[0]), r[1], r[2]))
+        first = min(e["verses"] or e["mentioned"], key=lambda r: (ORDER.index(r[0]), r[1], r[2]))
         # Colons can't appear in file names, so "Genesis 11:29" becomes "Genesis 11.29".
-        title = e["name"] if by_name[(e["kind"], e["name"])] == 1 else f"{e['name']} ({ref_label(*first).replace(':', '.')})"
+        title = e["name"] if by_name[(e["kind"], e["name"])] == 1 and e["named"] \
+            else f"{e['name']} ({ref_label(*first).replace(':', '.')})"
         folder = "people" if e["kind"] == "person" else "places"
         e["path"] = f"connections/{folder}/{safe_filename(title)}"
         e["first"] = first
+
+    # Genealogy and chronology.
+    gen = genealogy.Genealogy(entities, genealogy.load_family(fetch_stepbible("tipnr")))
+    chron = chronology.Chronology(chronology.fetch(CACHE), vers)
+    ctx = timeline.Context(entities, texts, gen, chron, vers)
+    family_of, groups = timeline.family_groups(ctx)
 
     # Index everything by chapter and by verse.
     out_refs = collections.defaultdict(list)
@@ -507,6 +513,8 @@ def main():
             "language": meta[osis]["language"], "verses": len(verses),
             "cross_references_out": len(out_refs[(osis, c)]),
             "cross_references_in": in_count[(osis, c)],
+            "dated_from": ctx.chapter_span.get((osis, c), (None, None))[0],
+            "dated_to": ctx.chapter_span.get((osis, c), (None, None))[1],
             "tags": ["chapter", testament.lower(), slug(section_of(osis))],
         })
         nav = []
@@ -515,7 +523,12 @@ def main():
         nav.append(link(f"connections/books/{name}", name))
         if idx + 1 < len(all_chapters):
             nav.append(link(chapter_path(*all_chapters[idx + 1]), ref_label(*all_chapters[idx + 1])) + " →")
-        lines += [f"# {name} {c}", "", " · ".join(nav), "", "## Text", "",
+        lines += [f"# {name} {c}", "", " · ".join(nav), ""]
+        span = ctx.chapter_span.get((osis, c))
+        if span:
+            lines += ["**Dated** *(Ussher, after the Treasury of Scripture Knowledge)*: "
+                      + timeline.year_link(span[0]) + (f" – {timeline.year_link(span[1])}" if span[1] != span[0] else ""), ""]
+        lines += ["## Text", "",
                   f"![[{text_path}#Chapter {c}]]", ""]
         if testament == "NT":
             stem = text_path.rsplit("/", 1)[-1]
@@ -558,8 +571,9 @@ def main():
 
     # People and place notes.
     for i, e in enumerate(entities):
-        chs = collections.Counter((r[0], r[1]) for r in e["verses"])
+        chs = collections.Counter((r[0], r[1]) for r in (e["verses"] or e["mentioned"]))
         ordered = sorted(chs, key=lambda r: (ORDER.index(r[0]), r[1]))
+        extra = timeline.person_frontmatter(ctx, i, family_of) if e["kind"] == "person" else {}
         lines = frontmatter({
             "name": e["name"], "aliases": e["aliases"] or None, "type": e["kind"],
             "tipnr": e["id"], "strong": e["ustrong"],
@@ -567,16 +581,25 @@ def main():
             "location": list(e["location"]) if e["location"] else None,
             "verses": len(e["verses"]), "chapters": len(chs),
             "first": ref_label(*e["first"]),
-            "tags": ["person" if e["kind"] == "person" else "place"],
+            **extra,
+            "named": None if e["named"] else False,
+            "tags": ["person" if e["kind"] == "person" else "place"] + ([] if e["named"] else ["unnamed"]),
         })
         lines += [f"# {e['path'].rsplit('/', 1)[-1]}", ""]
         if e["brief"]:
             lines += [e["brief"], ""]
+        if not e["named"]:
+            lines += ["*Not named in the text. Included because a family line passes through this person.*", ""]
         if e["aliases"]:
             lines += ["**Also called:** " + ", ".join(e["aliases"]), ""]
         if e["forms"]:
             lines += ["**Original-language names:** " + " · ".join(f"{f} ({s})" for f, s in e["forms"]), ""]
-        lines += ["## Appears in", ""]
+        if e["kind"] == "person":
+            lines += timeline.person_sections(ctx, i, family_of)
+        elif ctx.events_of.get(i):
+            lines += ["## Events", ""] + [f"- {timeline.year_link(ev['year'])} · {link(ev['path'], ev['title'])}"
+                                          for ev in ctx.events_of[i]] + [""]
+        lines += ["## Appears in" if e["named"] else "## Mentioned in", ""]
         lines += [" · ".join(link(chapter_path(*r), ref_label(*r) + (f" ({chs[r]})" if chs[r] > 1 else ""))
                              for r in ordered), ""]
         if together[i]:
@@ -586,14 +609,28 @@ def main():
                                  for j, n in items), ""]
         write(e["path"], lines)
 
-    people = sum(e["kind"] == "person" for e in entities)
+    crosscheck = timeline.genealogy_crosscheck(ctx)
+    timeline.write_genealogy(ctx, groups, crosscheck)
+    timeline.write_events(ctx)
+    centuries = timeline.write_timeline(ctx, ORDER)
+    timeline.write_synchronisms(ctx)
+    charts = timeline.write_chart_note(ctx)
+
+    people = sum(e["kind"] == "person" and e["named"] for e in entities)
     pairs = sum(len(t) for t in together.values()) // 2
     chapter_pairs = {tuple(sorted([(a[0], a[1]), (b[0], b[1])])) for a, b, _, _ in xrefs if (a[0], a[1]) != (b[0], b[1])}
     print(f"Versification: {vers.rows_passed}/{vers.rows_checked} TVTMS Hebrew rows pass against our text; "
           f"{len(vers.to_hebrew)} English->Hebrew renumberings")
     print(f"Cross-references ({xdate}): {xstats['kept']} of {xstats['total']} kept (votes >= {args.min_votes}), "
           f"{xstats['unresolved']} unresolved; {len(chapter_pairs)} distinct chapter pairs")
-    print(f"People: {people}, places: {len(entities) - people}; {pairs} same-verse pairs; "
+    places = sum(e["kind"] == "place" for e in entities)
+    unnamed = sum(not e["named"] for e in entities)
+    print(f"Genealogy: {len(gen.parent_edges)} parent-child links, {len(groups)} families; "
+          f"Theographic parents agree {crosscheck[0]}, differ {len(crosscheck[2])}")
+    print(f"Chronology: {len(chron.verse_year)} dated verses, {len(chron.events)} events, "
+          f"{len(ctx.person_of)} people and {len(ctx.place_of)} places matched to Theographic, "
+          f"{len(centuries)} centuries; anchors {chron.anchors()}")
+    print(f"People: {people} (+{unnamed} unnamed), places: {places}; {pairs} same-verse pairs; "
           f"{ent_unresolved} references unresolved")
     print(f"Wrote {len(all_chapters)} chapter notes, {len(BOOKS)} book notes, {len(entities)} people/place notes")
     broken = check_links()
@@ -605,7 +642,19 @@ def main():
         "stepbible_commit": STEPBIBLE_COMMIT,
         "tvtms_rows_checked": vers.rows_checked, "tvtms_rows_passed": vers.rows_passed,
         "renumberings": len(vers.to_hebrew),
-        "people": people, "places": len(entities) - people, "same_verse_pairs": pairs,
+        "people": people, "places": places, "unnamed_people": unnamed, "same_verse_pairs": pairs,
+        "parent_child_links": len(gen.parent_edges), "families": len(groups),
+        "people_in_families": sum(len(g[2]) for g in groups),
+        "largest_family": len(groups[0][2]), "largest_family_generations": max(groups[0][3].values()),
+        "theographic_commit": chronology.THEOGRAPHIC_COMMIT,
+        "theographic_parents_agree": crosscheck[0], "theographic_parents_differ": len(crosscheck[2]),
+        "theographic_people_matched": len(ctx.person_of), "theographic_places_matched": len(ctx.place_of),
+        "dated_verses": len(chron.verse_year), "events": len(chron.events), "centuries": len(centuries),
+        "people_with_lifespans": len(set(ctx.born) | set(ctx.died)),
+        "synchronisms": len(ctx.syncs), "rulers": len(ctx.rulers),
+        "undated_chapters": sum(1 for ch in all_chapters if ch not in ctx.chapter_span),
+        "undated_psalms": sum(1 for ch in all_chapters if ch not in ctx.chapter_span and ch[0] == "Ps"),
+        "ussher_anchors": [[label, expected, found] for label, expected, found in chron.anchors()],
         "tipnr_references_unresolved": ent_unresolved,
         "chapters": len(all_chapters),
         "broken_links": broken,

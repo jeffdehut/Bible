@@ -7,6 +7,10 @@ original: ["מָכִיר"]
 verses: 3
 chapters: 2
 first: "2 Samuel 9:4"
+placed: "1040 BC"
+placed_year: -1039
+generation: 2
+sex: "male"
 tags: ["person"]
 ---
 
@@ -15,6 +19,25 @@ tags: ["person"]
 Ammiel's son who hosted Mephibosheth
 
 **Original-language names:** מָכִיר (H4353)
+
+## When
+
+- **Placed around:** [[connections/timeline/11th century BC|1040 BC]] *(Ussher: the median date of the passages naming them)*
+
+## Family
+
+- **Father:** [[connections/people/Ammiel (2 Samuel 9.4)|Ammiel (2 Samuel 9.4)]]
+
+**Family group:** [[connections/genealogy/Family of Ammiel (2 Samuel 9.4)|Family of Ammiel (2 Samuel 9.4)]], generation 2
+
+```mermaid
+flowchart TB
+  n0["Machir (2 Samuel 9.4)"]:::me
+  n1["Ammiel (2 Samuel 9.4)"]
+  n1 --> n0
+  classDef me stroke-width:3px
+  classDef spouse stroke-dasharray:4
+```
 
 ## Appears in
 

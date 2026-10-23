@@ -7,6 +7,10 @@ original: ["פּוֹטִי פֶ֫רַע"]
 verses: 3
 chapters: 2
 first: "Genesis 41:45"
+placed: "1715 BC"
+placed_year: -1714
+generation: 1
+sex: "male"
 tags: ["person"]
 ---
 
@@ -15,6 +19,25 @@ tags: ["person"]
 Egyptian priest, father-in-law of Joseph
 
 **Original-language names:** פּוֹטִי פֶ֫רַע (H6319)
+
+## When
+
+- **Placed around:** [[connections/timeline/18th century BC|1715 BC]] *(Ussher: the median date of the passages naming them)*
+
+## Family
+
+- **Children:** [[connections/people/Asenath|Asenath]]
+
+**Family group:** [[connections/genealogy/Family of Adam|Family of Adam]], generation 1
+
+```mermaid
+flowchart TB
+  n0["Potiphera"]:::me
+  n1["Asenath"]
+  n0 --> n1
+  classDef me stroke-width:3px
+  classDef spouse stroke-dasharray:4
+```
 
 ## Appears in
 

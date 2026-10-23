@@ -7,12 +7,16 @@ language: "Hebrew"
 verses: 22
 cross_references_out: 31
 cross_references_in: 70
+dated_from: -758
+dated_to: -758
 tags: ["chapter", "ot", "prophets"]
 ---
 
 # Isaiah 2
 
 ← [[connections/chapters/23-isaiah/Isaiah 1|Isaiah 1]] · [[connections/books/Isaiah|Isaiah]] · [[connections/chapters/23-isaiah/Isaiah 3|Isaiah 3]] →
+
+**Dated** *(Ussher, after the Treasury of Scripture Knowledge)*: [[connections/timeline/8th century BC|759 BC]]
 
 ## Text
 

@@ -17,6 +17,13 @@ Major city in Asia Minor; important center for early Christianity
 
 **Original-language names:** Ἔφεσος (G2181) · Ἐφεσῖνος (G2179) · Ἐφέσιος (G2180)
 
+## Events
+
+- [[connections/timeline/1st century AD|AD 50]] · [[connections/events/Return from Second Missionary Journey|Return from Second Missionary Journey]]
+- [[connections/timeline/1st century AD|AD 50]] · [[connections/events/Third Missionary Journey Begins|Third Missionary Journey Begins]]
+- [[connections/timeline/1st century AD|AD 53]] · [[connections/events/Mission to Ephesus-1 Cor Written|Mission to Ephesus/1 Cor Written]]
+- [[connections/timeline/1st century AD|AD 53]] · [[connections/events/Riot in Ephesus|Riot in Ephesus]]
+
 ## Appears in
 
 [[connections/chapters/44-acts/Acts 18|Acts 18 (3)]] · [[connections/chapters/44-acts/Acts 19|Acts 19 (3)]] · [[connections/chapters/44-acts/Acts 20|Acts 20 (2)]] · [[connections/chapters/46-1-corinthians/1 Corinthians 15|1 Corinthians 15]] · [[connections/chapters/46-1-corinthians/1 Corinthians 16|1 Corinthians 16]] · [[connections/chapters/49-ephesians/Ephesians 1|Ephesians 1]] · [[connections/chapters/49-ephesians/Ephesians 6|Ephesians 6]] · [[connections/chapters/54-1-timothy/1 Timothy 1|1 Timothy 1]] · [[connections/chapters/55-2-timothy/2 Timothy 1|2 Timothy 1]] · [[connections/chapters/55-2-timothy/2 Timothy 4|2 Timothy 4 (2)]] · [[connections/chapters/66-revelation/Revelation 1|Revelation 1]] · [[connections/chapters/66-revelation/Revelation 2|Revelation 2]]

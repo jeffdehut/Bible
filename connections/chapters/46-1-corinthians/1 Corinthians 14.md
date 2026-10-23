@@ -7,12 +7,16 @@ language: "Greek"
 verses: 40
 cross_references_out: 75
 cross_references_in: 72
+dated_from: 59
+dated_to: 59
 tags: ["chapter", "nt", "pauline-epistles"]
 ---
 
 # 1 Corinthians 14
 
 ← [[connections/chapters/46-1-corinthians/1 Corinthians 13|1 Corinthians 13]] · [[connections/books/1 Corinthians|1 Corinthians]] · [[connections/chapters/46-1-corinthians/1 Corinthians 15|1 Corinthians 15]] →
+
+**Dated** *(Ussher, after the Treasury of Scripture Knowledge)*: [[connections/timeline/1st century AD|AD 59]]
 
 ## Text
 

@@ -7,12 +7,16 @@ language: "Greek"
 verses: 34
 cross_references_out: 420
 cross_references_in: 218
+dated_from: 31
+dated_to: 31
 tags: ["chapter", "nt", "gospels"]
 ---
 
 # Matthew 6
 
 ← [[connections/chapters/40-matthew/Matthew 5|Matthew 5]] · [[connections/books/Matthew|Matthew]] · [[connections/chapters/40-matthew/Matthew 7|Matthew 7]] →
+
+**Dated** *(Ussher, after the Treasury of Scripture Knowledge)*: [[connections/timeline/1st century AD|AD 31]]
 
 ## Text
 

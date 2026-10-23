@@ -7,12 +7,16 @@ language: "Hebrew"
 verses: 51
 cross_references_out: 0
 cross_references_in: 3
+dated_from: -1442
+dated_to: -1442
 tags: ["chapter", "ot", "history"]
 ---
 
 # Joshua 19
 
 ← [[connections/chapters/06-joshua/Joshua 18|Joshua 18]] · [[connections/books/Joshua|Joshua]] · [[connections/chapters/06-joshua/Joshua 20|Joshua 20]] →
+
+**Dated** *(Ussher, after the Treasury of Scripture Knowledge)*: [[connections/timeline/15th century BC|1443 BC]]
 
 ## Text
 

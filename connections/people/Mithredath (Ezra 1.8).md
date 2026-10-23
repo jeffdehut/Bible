@@ -7,6 +7,7 @@ original: ["מִתְרְדָת"]
 verses: 1
 chapters: 1
 first: "Ezra 1:8"
+sex: "male"
 tags: ["person"]
 ---
 

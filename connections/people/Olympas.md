@@ -7,6 +7,9 @@ original: ["Ὀλυμπᾶς"]
 verses: 1
 chapters: 1
 first: "Romans 16:15"
+placed: "AD 60"
+placed_year: 60
+sex: "male"
 tags: ["person"]
 ---
 
@@ -15,6 +18,10 @@ tags: ["person"]
 Believer greeted by Paul
 
 **Original-language names:** Ὀλυμπᾶς (G3652)
+
+## When
+
+- **Placed around:** [[connections/timeline/1st century AD|AD 60]] *(Ussher: the median date of the passages naming them)*
 
 ## Appears in
 

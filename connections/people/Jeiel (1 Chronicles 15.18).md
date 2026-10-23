@@ -8,6 +8,9 @@ original: ["יְעִיאֵל", "יְחִיָּה"]
 verses: 4
 chapters: 2
 first: "1 Chronicles 15:18"
+placed: "1042 BC"
+placed_year: -1041
+sex: "male"
 tags: ["person"]
 ---
 
@@ -18,6 +21,10 @@ A Levite musician and gatekeeper during David's reign.
 **Also called:** Jehiah
 
 **Original-language names:** יְעִיאֵל (H3273) · יְחִיָּה (H3174)
+
+## When
+
+- **Placed around:** [[connections/timeline/11th century BC|1042 BC]] *(Ussher: the median date of the passages naming them)*
 
 ## Appears in
 

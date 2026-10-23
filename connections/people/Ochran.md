@@ -7,6 +7,10 @@ original: ["עׇכְרָן"]
 verses: 5
 chapters: 4
 first: "Numbers 1:13"
+placed: "1490 BC"
+placed_year: -1489
+generation: 1
+sex: "male"
 tags: ["person"]
 ---
 
@@ -15,6 +19,26 @@ tags: ["person"]
 Father of Pagiel
 
 **Original-language names:** עׇכְרָן (H5918)
+
+## When
+
+- **Placed around:** [[connections/timeline/15th century BC|1490 BC]] *(Ussher: the median date of the passages naming them)*
+
+## Family
+
+- **Children:** [[connections/people/Pagiel|Pagiel]]
+- **Tribe or nation:** Tribe of Asher
+
+**Family group:** [[connections/genealogy/Family of Ochran|Family of Ochran]], generation 1
+
+```mermaid
+flowchart TB
+  n0["Ochran"]:::me
+  n1["Pagiel"]
+  n0 --> n1
+  classDef me stroke-width:3px
+  classDef spouse stroke-dasharray:4
+```
 
 ## Appears in
 

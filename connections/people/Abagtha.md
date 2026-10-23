@@ -7,6 +7,9 @@ original: ["אֲבַגְתָא"]
 verses: 1
 chapters: 1
 first: "Esther 1:10"
+placed: "462 BC"
+placed_year: -461
+sex: "male"
 tags: ["person"]
 ---
 
@@ -15,6 +18,10 @@ tags: ["person"]
 One of King Ahasuerus' seven eunuchs
 
 **Original-language names:** אֲבַגְתָא (H0005)
+
+## When
+
+- **Placed around:** [[connections/timeline/5th century BC|462 BC]] *(Ussher: the median date of the passages naming them)*
 
 ## Appears in
 

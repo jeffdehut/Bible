@@ -7,6 +7,10 @@ original: ["שֶׁ֫בַע"]
 verses: 8
 chapters: 1
 first: "2 Samuel 20:1"
+placed: "1022 BC"
+placed_year: -1021
+generation: 2
+sex: "male"
 tags: ["person"]
 ---
 
@@ -15,6 +19,26 @@ tags: ["person"]
 Benjamite rebel against King David
 
 **Original-language names:** שֶׁ֫בַע (H7652a)
+
+## When
+
+- **Placed around:** [[connections/timeline/11th century BC|1022 BC]] *(Ussher: the median date of the passages naming them)*
+
+## Family
+
+- **Father:** [[connections/people/Bichri|Bichri]]
+- **Tribe or nation:** Tribe of Benjamin
+
+**Family group:** [[connections/genealogy/Family of Bichri|Family of Bichri]], generation 2
+
+```mermaid
+flowchart TB
+  n0["Sheba (2 Samuel 20.1)"]:::me
+  n1["Bichri"]
+  n1 --> n0
+  classDef me stroke-width:3px
+  classDef spouse stroke-dasharray:4
+```
 
 ## Appears in
 

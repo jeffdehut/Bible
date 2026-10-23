@@ -7,12 +7,16 @@ language: "Hebrew"
 verses: 23
 cross_references_out: 4
 cross_references_in: 17
+dated_from: -593
+dated_to: -593
 tags: ["chapter", "ot", "prophets"]
 ---
 
 # Ezekiel 13
 
 ← [[connections/chapters/26-ezekiel/Ezekiel 12|Ezekiel 12]] · [[connections/books/Ezekiel|Ezekiel]] · [[connections/chapters/26-ezekiel/Ezekiel 14|Ezekiel 14]] →
+
+**Dated** *(Ussher, after the Treasury of Scripture Knowledge)*: [[connections/timeline/6th century BC|594 BC]]
 
 ## Text
 

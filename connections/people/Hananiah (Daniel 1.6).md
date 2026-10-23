@@ -8,6 +8,9 @@ original: ["חֲנַנְיָ֫הוּ", "חֲנַנְיָה", "שַׁדְרַךְ
 verses: 18
 chapters: 3
 first: "Daniel 1:6"
+placed: "580 BC"
+placed_year: -579
+sex: "male"
 tags: ["person"]
 ---
 
@@ -18,6 +21,10 @@ One of Daniel's three friends in Babylon.
 **Also called:** Shadrach
 
 **Original-language names:** חֲנַנְיָ֫הוּ (H2608a) · חֲנַנְיָה (H2608b) · שַׁדְרַךְ (H7714) · שַׁדְרַךְ (H7715)
+
+## When
+
+- **Placed around:** [[connections/timeline/6th century BC|580 BC]] *(Ussher: the median date of the passages naming them)*
 
 ## Appears in
 

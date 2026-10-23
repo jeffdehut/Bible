@@ -7,6 +7,12 @@ original: ["Ἰωάννης"]
 verses: 89
 chapters: 32
 first: "Matthew 3:1"
+born: "5 BC"
+born_year: -4
+placed: "AD 31"
+placed_year: 31
+generation: 3
+sex: "male"
 tags: ["person"]
 ---
 
@@ -15,6 +21,42 @@ tags: ["person"]
 The Baptist, a prophet who prepared the way for Jesus
 
 **Original-language names:** Ἰωάννης (G2491)
+
+## When
+
+- **Lived:** [[connections/timeline/1st century BC|5 BC]] – ? *(Jones)*
+- **Placed around:** [[connections/timeline/1st century AD|AD 31]] *(Ussher: the median date of the passages naming them)*
+
+## Family
+
+- **Father:** [[connections/people/Zechariah (Luke 1.5)|Zechariah (Luke 1.5)]]
+- **Mother:** [[connections/people/Elizabeth|Elizabeth]]
+- **Tribe or nation:** Tribe of Judah
+
+**Family group:** [[connections/genealogy/Family of Adam|Family of Adam]], generation 3
+
+```mermaid
+flowchart TB
+  n0["John (Matthew 3.1)"]:::me
+  n1["father of Elizabeth (Luke 1.5)"]
+  n2["Elizabeth"]
+  n1 --> n2
+  n2 --> n0
+  n3["Zechariah (Luke 1.5)"]
+  n3 --> n0
+  classDef me stroke-width:3px
+  classDef spouse stroke-dasharray:4
+```
+
+## Events
+
+- [[connections/timeline/1st century BC|5 BC]] · [[connections/events/Birth of John the Baptist|Birth of John the Baptist]]
+- [[connections/timeline/1st century AD|AD 26]] · [[connections/events/John the Baptist Begins Ministry|John the Baptist Begins Ministry]]
+- [[connections/timeline/1st century AD|AD 26]] · [[connections/events/John Baptizes Jesus|John Baptizes Jesus]]
+- [[connections/timeline/1st century AD|AD 27]] · [[connections/events/John the Baptist Imprisoned|John the Baptist Imprisoned]]
+- [[connections/timeline/1st century AD|AD 27]] · [[connections/events/John the Baptist Witnesses|John the Baptist Witnesses]]
+- [[connections/timeline/1st century AD|AD 28]] · [[connections/events/Jesus' Message on John the Baptist|Jesus' Message on John the Baptist]]
+- [[connections/timeline/1st century AD|AD 29]] · [[connections/events/John Beheaded|John Beheaded]]
 
 ## Appears in
 

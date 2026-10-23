@@ -7,12 +7,16 @@ language: "Greek"
 verses: 41
 cross_references_out: 68
 cross_references_in: 54
+dated_from: 33
+dated_to: 33
 tags: ["chapter", "nt", "gospels"]
 ---
 
 # John 9
 
 ← [[connections/chapters/43-john/John 8|John 8]] · [[connections/books/John|John]] · [[connections/chapters/43-john/John 10|John 10]] →
+
+**Dated** *(Ussher, after the Treasury of Scripture Knowledge)*: [[connections/timeline/1st century AD|AD 33]]
 
 ## Text
 

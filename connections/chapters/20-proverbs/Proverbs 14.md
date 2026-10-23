@@ -7,12 +7,16 @@ language: "Hebrew"
 verses: 35
 cross_references_out: 96
 cross_references_in: 85
+dated_from: -999
+dated_to: -999
 tags: ["chapter", "ot", "wisdom"]
 ---
 
 # Proverbs 14
 
 ← [[connections/chapters/20-proverbs/Proverbs 13|Proverbs 13]] · [[connections/books/Proverbs|Proverbs]] · [[connections/chapters/20-proverbs/Proverbs 15|Proverbs 15]] →
+
+**Dated** *(Ussher, after the Treasury of Scripture Knowledge)*: [[connections/timeline/10th century BC|1000 BC]]
 
 ## Text
 

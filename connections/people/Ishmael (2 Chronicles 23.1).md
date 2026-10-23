@@ -7,6 +7,10 @@ original: ["יִשְׁמָעֵאל"]
 verses: 1
 chapters: 1
 first: "2 Chronicles 23:1"
+placed: "878 BC"
+placed_year: -877
+generation: 2
+sex: "male"
 tags: ["person"]
 ---
 
@@ -15,6 +19,25 @@ tags: ["person"]
 Son of Jehohanan; supported Joash as king.
 
 **Original-language names:** יִשְׁמָעֵאל (H3458)
+
+## When
+
+- **Placed around:** [[connections/timeline/9th century BC|878 BC]] *(Ussher: the median date of the passages naming them)*
+
+## Family
+
+- **Father:** [[connections/people/Jehohanan (2 Chronicles 23.1)|Jehohanan (2 Chronicles 23.1)]]
+
+**Family group:** [[connections/genealogy/Family of Jehohanan (2 Chronicles 23.1)|Family of Jehohanan (2 Chronicles 23.1)]], generation 2
+
+```mermaid
+flowchart TB
+  n0["Ishmael (2 Chronicles 23.1)"]:::me
+  n1["Jehohanan (2 Chronicles 23.1)"]
+  n1 --> n0
+  classDef me stroke-width:3px
+  classDef spouse stroke-dasharray:4
+```
 
 ## Appears in
 

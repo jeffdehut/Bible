@@ -7,12 +7,16 @@ language: "Hebrew"
 verses: 29
 cross_references_out: 3
 cross_references_in: 9
+dated_from: -1014
+dated_to: -989
 tags: ["chapter", "ot", "history"]
 ---
 
 # 1 Kings 10
 
 ← [[connections/chapters/11-1-kings/1 Kings 9|1 Kings 9]] · [[connections/books/1 Kings|1 Kings]] · [[connections/chapters/11-1-kings/1 Kings 11|1 Kings 11]] →
+
+**Dated** *(Ussher, after the Treasury of Scripture Knowledge)*: [[connections/timeline/11th century BC|1015 BC]] – [[connections/timeline/10th century BC|990 BC]]
 
 ## Text
 

@@ -7,12 +7,16 @@ language: "Hebrew"
 verses: 33
 cross_references_out: 33
 cross_references_in: 28
+dated_from: -1519
+dated_to: -1519
 tags: ["chapter", "ot", "wisdom"]
 ---
 
 # Job 36
 
 ← [[connections/chapters/18-job/Job 35|Job 35]] · [[connections/books/Job|Job]] · [[connections/chapters/18-job/Job 37|Job 37]] →
+
+**Dated** *(Ussher, after the Treasury of Scripture Knowledge)*: [[connections/timeline/16th century BC|1520 BC]]
 
 ## Text
 

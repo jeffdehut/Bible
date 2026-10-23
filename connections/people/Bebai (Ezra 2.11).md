@@ -7,6 +7,9 @@ original: ["בֵּבַי"]
 verses: 4
 chapters: 4
 first: "Ezra 2:11"
+placed: "456 BC"
+placed_year: -455
+sex: "male"
 tags: ["person"]
 ---
 
@@ -15,6 +18,10 @@ tags: ["person"]
 Head of a family that returned from Babylonian exile.
 
 **Original-language names:** בֵּבַי (H0893)
+
+## When
+
+- **Placed around:** [[connections/timeline/5th century BC|456 BC]] *(Ussher: the median date of the passages naming them)*
 
 ## Appears in
 

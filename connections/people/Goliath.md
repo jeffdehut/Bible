@@ -7,6 +7,10 @@ original: ["גׇּלְיַת"]
 verses: 6
 chapters: 5
 first: "1 Samuel 17:4"
+placed: "1062 BC"
+placed_year: -1061
+generation: 2
+sex: "male"
 tags: ["person"]
 ---
 
@@ -15,6 +19,38 @@ tags: ["person"]
 A Philistine giant defeated by David.
 
 **Original-language names:** גׇּלְיַת (H1555)
+
+## When
+
+- **Placed around:** [[connections/timeline/11th century BC|1062 BC]] *(Ussher: the median date of the passages naming them)*
+
+## Family
+
+- **Father:** [[connections/people/Rapha|Rapha]]
+- **Brothers and sisters:** [[connections/people/huge man|huge man]], [[connections/people/Ishbi-benob|Ishbi-benob]], [[connections/people/Lahmi|Lahmi]], [[connections/people/Saph|Saph]]
+
+**Family group:** [[connections/genealogy/Family of Rapha|Family of Rapha]], generation 2
+
+```mermaid
+flowchart TB
+  n0["Goliath"]:::me
+  n1["Rapha"]
+  n1 --> n0
+  n2["huge man"]
+  n1 --> n2
+  n3["Ishbi-benob"]
+  n1 --> n3
+  n4["Lahmi"]
+  n1 --> n4
+  n5["Saph"]
+  n1 --> n5
+  classDef me stroke-width:3px
+  classDef spouse stroke-dasharray:4
+```
+
+## Events
+
+- [[connections/timeline/11th century BC|1067 BC]] · [[connections/events/David Kills Goliath|David Kills Goliath]]
 
 ## Appears in
 

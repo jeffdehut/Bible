@@ -7,12 +7,16 @@ language: "Hebrew"
 verses: 16
 cross_references_out: 6
 cross_references_in: 4
+dated_from: -1489
+dated_to: -1489
 tags: ["chapter", "ot", "torah"]
 ---
 
 # Leviticus 2
 
 ← [[connections/chapters/03-leviticus/Leviticus 1|Leviticus 1]] · [[connections/books/Leviticus|Leviticus]] · [[connections/chapters/03-leviticus/Leviticus 3|Leviticus 3]] →
+
+**Dated** *(Ussher, after the Treasury of Scripture Knowledge)*: [[connections/timeline/15th century BC|1490 BC]]
 
 ## Text
 

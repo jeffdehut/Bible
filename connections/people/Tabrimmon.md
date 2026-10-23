@@ -7,6 +7,10 @@ original: ["טַבְרִמּוֹן"]
 verses: 1
 chapters: 1
 first: "1 Kings 15:18"
+placed: "930 BC"
+placed_year: -929
+generation: 2
+sex: "male"
 tags: ["person"]
 ---
 
@@ -15,6 +19,28 @@ tags: ["person"]
 Father of Ben-hadad I, king of Syria
 
 **Original-language names:** טַבְרִמּוֹן (H2886)
+
+## When
+
+- **Placed around:** [[connections/timeline/10th century BC|930 BC]] *(Ussher: the median date of the passages naming them)*
+
+## Family
+
+- **Father:** [[connections/people/Hezion|Hezion]]
+- **Children:** [[connections/people/Ben-hadad (1 Kings 15.18)|Ben-hadad (1 Kings 15.18)]]
+
+**Family group:** [[connections/genealogy/Family of Hezion|Family of Hezion]], generation 2
+
+```mermaid
+flowchart TB
+  n0["Tabrimmon"]:::me
+  n1["Hezion"]
+  n1 --> n0
+  n2["Ben-hadad (1 Kings 15.18)"]
+  n0 --> n2
+  classDef me stroke-width:3px
+  classDef spouse stroke-dasharray:4
+```
 
 ## Appears in
 

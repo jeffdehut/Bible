@@ -7,6 +7,9 @@ original: ["Στεφανᾶς"]
 verses: 4
 chapters: 2
 first: "1 Corinthians 1:16"
+placed: "AD 59"
+placed_year: 59
+sex: "male"
 tags: ["person"]
 ---
 
@@ -15,6 +18,10 @@ tags: ["person"]
 Corinthian believer, baptized by Paul, sent to visit him.
 
 **Original-language names:** Στεφανᾶς (G4734)
+
+## When
+
+- **Placed around:** [[connections/timeline/1st century AD|AD 59]] *(Ussher: the median date of the passages naming them)*
 
 ## Appears in
 

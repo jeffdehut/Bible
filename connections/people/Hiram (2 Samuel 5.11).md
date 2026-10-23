@@ -8,6 +8,9 @@ original: ["חִירָם", "חוּרָם"]
 verses: 23
 chapters: 8
 first: "2 Samuel 5:11"
+placed: "1014 BC"
+placed_year: -1013
+sex: "male"
 tags: ["person"]
 ---
 
@@ -18,6 +21,16 @@ King of Tyre, ally of David and Solomon.
 **Also called:** Huram
 
 **Original-language names:** חִירָם (H2438) · חוּרָם (H2361)
+
+## When
+
+- **Placed around:** [[connections/timeline/11th century BC|1014 BC]] *(Ussher: the median date of the passages naming them)*
+- **Reigned / in office:** c. [[connections/timeline/10th century BC|980 BC]] – [[connections/timeline/10th century BC|947 BC]] *(modern dates)* · Hiram I, Tyre · [Wikidata Q467115](https://www.wikidata.org/wiki/Q467115)
+
+## Family
+
+- **Tribe or nation:** Syria
+
 
 ## Appears in
 

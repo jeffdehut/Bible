@@ -7,12 +7,16 @@ language: "Hebrew"
 verses: 26
 cross_references_out: 33
 cross_references_in: 38
+dated_from: -976
+dated_to: -976
 tags: ["chapter", "ot", "wisdom"]
 ---
 
 # Ecclesiastes 2
 
 ← [[connections/chapters/21-ecclesiastes/Ecclesiastes 1|Ecclesiastes 1]] · [[connections/books/Ecclesiastes|Ecclesiastes]] · [[connections/chapters/21-ecclesiastes/Ecclesiastes 3|Ecclesiastes 3]] →
+
+**Dated** *(Ussher, after the Treasury of Scripture Knowledge)*: [[connections/timeline/10th century BC|977 BC]]
 
 ## Text
 

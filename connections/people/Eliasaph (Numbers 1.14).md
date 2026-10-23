@@ -7,6 +7,10 @@ original: ["אֶלְיָסָף"]
 verses: 5
 chapters: 4
 first: "Numbers 1:14"
+placed: "1490 BC"
+placed_year: -1489
+generation: 2
+sex: "male"
 tags: ["person"]
 ---
 
@@ -15,6 +19,26 @@ tags: ["person"]
 Son of Deuel, leader of the tribe of Gad
 
 **Original-language names:** אֶלְיָסָף (H0460)
+
+## When
+
+- **Placed around:** [[connections/timeline/15th century BC|1490 BC]] *(Ussher: the median date of the passages naming them)*
+
+## Family
+
+- **Father:** [[connections/people/Deuel|Deuel]]
+- **Tribe or nation:** Tribe of Gad
+
+**Family group:** [[connections/genealogy/Family of Deuel|Family of Deuel]], generation 2
+
+```mermaid
+flowchart TB
+  n0["Eliasaph (Numbers 1.14)"]:::me
+  n1["Deuel"]
+  n1 --> n0
+  classDef me stroke-width:3px
+  classDef spouse stroke-dasharray:4
+```
 
 ## Appears in
 

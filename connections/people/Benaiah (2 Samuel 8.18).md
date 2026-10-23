@@ -7,6 +7,10 @@ original: ["בְּנָיָ֫הוּ"]
 verses: 23
 chapters: 9
 first: "2 Samuel 8:18"
+placed: "1015 BC"
+placed_year: -1014
+generation: 2
+sex: "male"
 tags: ["person"]
 ---
 
@@ -15,6 +19,28 @@ tags: ["person"]
 Son of Jehoiada, a mighty warrior and loyal supporter of David and Solomon.
 
 **Original-language names:** בְּנָיָ֫הוּ (H1141)
+
+## When
+
+- **Placed around:** [[connections/timeline/11th century BC|1015 BC]] *(Ussher: the median date of the passages naming them)*
+
+## Family
+
+- **Father:** [[connections/people/Jehoiada (2 Samuel 8.18)|Jehoiada (2 Samuel 8.18)]]
+- **Children:** [[connections/people/Ammizabad|Ammizabad]]
+
+**Family group:** [[connections/genealogy/Family of Jehoiada (2 Samuel 8.18)|Family of Jehoiada (2 Samuel 8.18)]], generation 2
+
+```mermaid
+flowchart TB
+  n0["Benaiah (2 Samuel 8.18)"]:::me
+  n1["Jehoiada (2 Samuel 8.18)"]
+  n1 --> n0
+  n2["Ammizabad"]
+  n0 --> n2
+  classDef me stroke-width:3px
+  classDef spouse stroke-dasharray:4
+```
 
 ## Appears in
 

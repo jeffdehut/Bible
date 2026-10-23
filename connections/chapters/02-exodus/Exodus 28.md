@@ -7,12 +7,16 @@ language: "Hebrew"
 verses: 43
 cross_references_out: 11
 cross_references_in: 5
+dated_from: -1490
+dated_to: -1490
 tags: ["chapter", "ot", "torah"]
 ---
 
 # Exodus 28
 
 ← [[connections/chapters/02-exodus/Exodus 27|Exodus 27]] · [[connections/books/Exodus|Exodus]] · [[connections/chapters/02-exodus/Exodus 29|Exodus 29]] →
+
+**Dated** *(Ussher, after the Treasury of Scripture Knowledge)*: [[connections/timeline/15th century BC|1491 BC]]
 
 ## Text
 

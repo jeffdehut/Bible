@@ -7,12 +7,16 @@ language: "Hebrew"
 verses: 49
 cross_references_out: 157
 cross_references_in: 129
+dated_from: -1450
+dated_to: -1450
 tags: ["chapter", "ot", "torah"]
 ---
 
 # Deuteronomy 4
 
 ← [[connections/chapters/05-deuteronomy/Deuteronomy 3|Deuteronomy 3]] · [[connections/books/Deuteronomy|Deuteronomy]] · [[connections/chapters/05-deuteronomy/Deuteronomy 5|Deuteronomy 5]] →
+
+**Dated** *(Ussher, after the Treasury of Scripture Knowledge)*: [[connections/timeline/15th century BC|1451 BC]]
 
 ## Text
 

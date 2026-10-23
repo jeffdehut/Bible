@@ -17,6 +17,12 @@ Village near Jerusalem, home of Mary, Martha, and Lazarus.
 
 **Original-language names:** Βηθανία (G0963)
 
+## Events
+
+- [[connections/timeline/1st century AD|AD 29]] · [[connections/events/Jesus meets Martha and Mary|Jesus meets Martha and Mary]]
+- [[connections/timeline/1st century AD|AD 30]] · [[connections/events/Lazarus Raised form the Dead|Lazarus Raised form the Dead]]
+- [[connections/timeline/1st century AD|AD 30]] · [[connections/events/Mary Anoints Jesus|Mary Anoints Jesus]]
+
 ## Appears in
 
 [[connections/chapters/40-matthew/Matthew 21|Matthew 21]] · [[connections/chapters/40-matthew/Matthew 26|Matthew 26]] · [[connections/chapters/41-mark/Mark 11|Mark 11 (3)]] · [[connections/chapters/41-mark/Mark 14|Mark 14]] · [[connections/chapters/42-luke/Luke 19|Luke 19]] · [[connections/chapters/42-luke/Luke 24|Luke 24]] · [[connections/chapters/43-john/John 11|John 11 (2)]] · [[connections/chapters/43-john/John 12|John 12]]

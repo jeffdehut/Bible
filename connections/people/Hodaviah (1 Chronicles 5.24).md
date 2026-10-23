@@ -7,6 +7,9 @@ original: ["הוֹדַוְיָה"]
 verses: 1
 chapters: 1
 first: "1 Chronicles 5:24"
+placed: "1060 BC"
+placed_year: -1059
+sex: "male"
 tags: ["person"]
 ---
 
@@ -15,6 +18,15 @@ tags: ["person"]
 A leader of the half-tribe of Manasseh.
 
 **Original-language names:** הוֹדַוְיָה (H1938)
+
+## When
+
+- **Placed around:** [[connections/timeline/11th century BC|1060 BC]] *(Ussher: the median date of the passages naming them)*
+
+## Family
+
+- **Tribe or nation:** Tribe of Manasseh
+
 
 ## Appears in
 

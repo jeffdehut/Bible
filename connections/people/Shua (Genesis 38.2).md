@@ -7,6 +7,10 @@ original: ["שׁוּעַ"]
 verses: 3
 chapters: 2
 first: "Genesis 38:2"
+placed: "1739 BC"
+placed_year: -1738
+generation: 1
+sex: "male"
 tags: ["person"]
 ---
 
@@ -15,6 +19,25 @@ tags: ["person"]
 Father of Canaanite wife of Judah, mother of Er, Onan, and Shelah.
 
 **Original-language names:** שׁוּעַ (H7770)
+
+## When
+
+- **Placed around:** [[connections/timeline/18th century BC|1739 BC]] *(Ussher: the median date of the passages naming them)*
+
+## Family
+
+- **Children:** [[connections/people/Bath-shua|Bath-shua]]
+
+**Family group:** [[connections/genealogy/Family of Adam|Family of Adam]], generation 1
+
+```mermaid
+flowchart TB
+  n0["Shua (Genesis 38.2)"]:::me
+  n1["Bath-shua"]
+  n0 --> n1
+  classDef me stroke-width:3px
+  classDef spouse stroke-dasharray:4
+```
 
 ## Appears in
 

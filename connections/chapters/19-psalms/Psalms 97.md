@@ -7,12 +7,16 @@ language: "Hebrew"
 verses: 12
 cross_references_out: 48
 cross_references_in: 46
+dated_from: -1003
+dated_to: -1003
 tags: ["chapter", "ot", "wisdom"]
 ---
 
 # Psalms 97
 
 ← [[connections/chapters/19-psalms/Psalms 96|Psalms 96]] · [[connections/books/Psalms|Psalms]] · [[connections/chapters/19-psalms/Psalms 98|Psalms 98]] →
+
+**Dated** *(Ussher, after the Treasury of Scripture Knowledge)*: [[connections/timeline/11th century BC|1004 BC]]
 
 ## Text
 

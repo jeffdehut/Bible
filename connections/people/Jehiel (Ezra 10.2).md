@@ -7,6 +7,8 @@ original: ["יְחִיאֵל"]
 verses: 1
 chapters: 1
 first: "Ezra 10:2"
+generation: 1
+sex: "male"
 tags: ["person"]
 ---
 
@@ -15,6 +17,21 @@ tags: ["person"]
 A leader who married a foreign wife
 
 **Original-language names:** יְחִיאֵל (H3171)
+
+## Family
+
+- **Children:** [[connections/people/Shecaniah (Ezra 10.2)|Shecaniah (Ezra 10.2)]]
+
+**Family group:** [[connections/genealogy/Family of Jehiel (Ezra 10.2)|Family of Jehiel (Ezra 10.2)]], generation 1
+
+```mermaid
+flowchart TB
+  n0["Jehiel (Ezra 10.2)"]:::me
+  n1["Shecaniah (Ezra 10.2)"]
+  n0 --> n1
+  classDef me stroke-width:3px
+  classDef spouse stroke-dasharray:4
+```
 
 ## Appears in
 

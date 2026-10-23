@@ -7,6 +7,10 @@ original: ["אֲפִיחַ"]
 verses: 1
 chapters: 1
 first: "1 Samuel 9:1"
+placed: "1095 BC"
+placed_year: -1094
+generation: 1
+sex: "male"
 tags: ["person"]
 ---
 
@@ -15,6 +19,26 @@ tags: ["person"]
 Ancestor of King Saul, a Benjamite
 
 **Original-language names:** אֲפִיחַ (H0647)
+
+## When
+
+- **Placed around:** [[connections/timeline/11th century BC|1095 BC]] *(Ussher: the median date of the passages naming them)*
+
+## Family
+
+- **Children:** [[connections/people/Becorath|Becorath]]
+- **Tribe or nation:** Tribe of Benjamin
+
+**Family group:** [[connections/genealogy/Family of Aphiah|Family of Aphiah]], generation 1
+
+```mermaid
+flowchart TB
+  n0["Aphiah"]:::me
+  n1["Becorath"]
+  n0 --> n1
+  classDef me stroke-width:3px
+  classDef spouse stroke-dasharray:4
+```
 
 ## Appears in
 

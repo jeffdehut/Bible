@@ -7,12 +7,16 @@ language: "Hebrew"
 verses: 52
 cross_references_out: 97
 cross_references_in: 142
+dated_from: -1450
+dated_to: -1450
 tags: ["chapter", "ot", "torah"]
 ---
 
 # Deuteronomy 32
 
 ← [[connections/chapters/05-deuteronomy/Deuteronomy 31|Deuteronomy 31]] · [[connections/books/Deuteronomy|Deuteronomy]] · [[connections/chapters/05-deuteronomy/Deuteronomy 33|Deuteronomy 33]] →
+
+**Dated** *(Ussher, after the Treasury of Scripture Knowledge)*: [[connections/timeline/15th century BC|1451 BC]]
 
 ## Text
 

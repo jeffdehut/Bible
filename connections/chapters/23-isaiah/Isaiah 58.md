@@ -7,12 +7,16 @@ language: "Hebrew"
 verses: 14
 cross_references_out: 113
 cross_references_in: 75
+dated_from: -697
+dated_to: -697
 tags: ["chapter", "ot", "prophets"]
 ---
 
 # Isaiah 58
 
 ← [[connections/chapters/23-isaiah/Isaiah 57|Isaiah 57]] · [[connections/books/Isaiah|Isaiah]] · [[connections/chapters/23-isaiah/Isaiah 59|Isaiah 59]] →
+
+**Dated** *(Ussher, after the Treasury of Scripture Knowledge)*: [[connections/timeline/7th century BC|698 BC]]
 
 ## Text
 

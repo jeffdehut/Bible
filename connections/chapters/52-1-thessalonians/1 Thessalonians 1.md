@@ -7,12 +7,16 @@ language: "Greek"
 verses: 10
 cross_references_out: 34
 cross_references_in: 70
+dated_from: 54
+dated_to: 54
 tags: ["chapter", "nt", "pauline-epistles"]
 ---
 
 # 1 Thessalonians 1
 
 ← [[connections/chapters/51-colossians/Colossians 4|Colossians 4]] · [[connections/books/1 Thessalonians|1 Thessalonians]] · [[connections/chapters/52-1-thessalonians/1 Thessalonians 2|1 Thessalonians 2]] →
+
+**Dated** *(Ussher, after the Treasury of Scripture Knowledge)*: [[connections/timeline/1st century AD|AD 54]]
 
 ## Text
 

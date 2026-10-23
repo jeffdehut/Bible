@@ -7,12 +7,16 @@ language: "Greek"
 verses: 21
 cross_references_out: 188
 cross_references_in: 212
+dated_from: 96
+dated_to: 96
 tags: ["chapter", "nt", "revelation"]
 ---
 
 # Revelation 22
 
 ← [[connections/chapters/66-revelation/Revelation 21|Revelation 21]] · [[connections/books/Revelation|Revelation]]
+
+**Dated** *(Ussher, after the Treasury of Scripture Knowledge)*: [[connections/timeline/1st century AD|AD 96]]
 
 ## Text
 

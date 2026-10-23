@@ -7,12 +7,16 @@ language: "Hebrew"
 verses: 30
 cross_references_out: 45
 cross_references_in: 48
+dated_from: -758
+dated_to: -758
 tags: ["chapter", "ot", "prophets"]
 ---
 
 # Isaiah 5
 
 ← [[connections/chapters/23-isaiah/Isaiah 4|Isaiah 4]] · [[connections/books/Isaiah|Isaiah]] · [[connections/chapters/23-isaiah/Isaiah 6|Isaiah 6]] →
+
+**Dated** *(Ussher, after the Treasury of Scripture Knowledge)*: [[connections/timeline/8th century BC|759 BC]]
 
 ## Text
 

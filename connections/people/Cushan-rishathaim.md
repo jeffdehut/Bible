@@ -7,6 +7,9 @@ original: ["כּוּשַׁן רִשְׁעָתַ֫יִם"]
 verses: 2
 chapters: 1
 first: "Judges 3:8"
+placed: "1405 BC"
+placed_year: -1404
+sex: "male"
 tags: ["person"]
 ---
 
@@ -15,6 +18,15 @@ tags: ["person"]
 King of Mesopotamia who oppressed Israel
 
 **Original-language names:** כּוּשַׁן רִשְׁעָתַ֫יִם (H3573)
+
+## When
+
+- **Placed around:** [[connections/timeline/15th century BC|1405 BC]] *(Ussher: the median date of the passages naming them)*
+
+## Family
+
+- **Tribe or nation:** Mesopotamia
+
 
 ## Appears in
 

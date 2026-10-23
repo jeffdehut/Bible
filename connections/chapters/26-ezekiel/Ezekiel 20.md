@@ -7,12 +7,16 @@ language: "Hebrew"
 verses: 44
 cross_references_out: 3
 cross_references_in: 54
+dated_from: -592
+dated_to: -592
 tags: ["chapter", "ot", "prophets"]
 ---
 
 # Ezekiel 20
 
 ← [[connections/chapters/26-ezekiel/Ezekiel 19|Ezekiel 19]] · [[connections/books/Ezekiel|Ezekiel]] · [[connections/chapters/26-ezekiel/Ezekiel 21|Ezekiel 21]] →
+
+**Dated** *(Ussher, after the Treasury of Scripture Knowledge)*: [[connections/timeline/6th century BC|593 BC]]
 
 ## Text
 

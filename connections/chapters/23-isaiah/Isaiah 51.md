@@ -7,12 +7,16 @@ language: "Hebrew"
 verses: 23
 cross_references_out: 77
 cross_references_in: 109
+dated_from: -711
+dated_to: -711
 tags: ["chapter", "ot", "prophets"]
 ---
 
 # Isaiah 51
 
 ← [[connections/chapters/23-isaiah/Isaiah 50|Isaiah 50]] · [[connections/books/Isaiah|Isaiah]] · [[connections/chapters/23-isaiah/Isaiah 52|Isaiah 52]] →
+
+**Dated** *(Ussher, after the Treasury of Scripture Knowledge)*: [[connections/timeline/8th century BC|712 BC]]
 
 ## Text
 

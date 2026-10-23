@@ -7,6 +7,7 @@ original: ["דָּֽרְיָ֫וֶשׁ"]
 verses: 1
 chapters: 1
 first: "Nehemiah 12:22"
+sex: "male"
 tags: ["person"]
 ---
 
@@ -15,6 +16,11 @@ tags: ["person"]
 Persian Emperor during the time of the Levites
 
 **Original-language names:** דָּֽרְיָ֫וֶשׁ (H1867)
+
+## Family
+
+- **Tribe or nation:** Persia
+
 
 ## Appears in
 

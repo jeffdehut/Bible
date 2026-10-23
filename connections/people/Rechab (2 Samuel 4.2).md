@@ -7,6 +7,10 @@ original: ["רֵכָב"]
 verses: 4
 chapters: 1
 first: "2 Samuel 4:2"
+placed: "1048 BC"
+placed_year: -1047
+generation: 2
+sex: "male"
 tags: ["person"]
 ---
 
@@ -15,6 +19,29 @@ tags: ["person"]
 A captain of Ishbosheth's army, with his brother Baanah
 
 **Original-language names:** רֵכָב (H7394)
+
+## When
+
+- **Placed around:** [[connections/timeline/11th century BC|1048 BC]] *(Ussher: the median date of the passages naming them)*
+
+## Family
+
+- **Father:** [[connections/people/Rimmon|Rimmon]]
+- **Brothers and sisters:** [[connections/people/Baanah (2 Samuel 4.2)|Baanah (2 Samuel 4.2)]]
+- **Tribe or nation:** Tribe of Benjamin
+
+**Family group:** [[connections/genealogy/Family of Rimmon|Family of Rimmon]], generation 2
+
+```mermaid
+flowchart TB
+  n0["Rechab (2 Samuel 4.2)"]:::me
+  n1["Rimmon"]
+  n1 --> n0
+  n2["Baanah (2 Samuel 4.2)"]
+  n1 --> n2
+  classDef me stroke-width:3px
+  classDef spouse stroke-dasharray:4
+```
 
 ## Appears in
 

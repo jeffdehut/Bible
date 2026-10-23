@@ -7,6 +7,9 @@ original: ["עֶ֫בֶד מֶ֫לֶךְ"]
 verses: 6
 chapters: 2
 first: "Jeremiah 38:7"
+placed: "598 BC"
+placed_year: -597
+sex: "male"
 tags: ["person"]
 ---
 
@@ -15,6 +18,10 @@ tags: ["person"]
 Ethiopian eunuch who rescued Jeremiah from a cistern
 
 **Original-language names:** עֶ֫בֶד מֶ֫לֶךְ (H5663)
+
+## When
+
+- **Placed around:** [[connections/timeline/6th century BC|598 BC]] *(Ussher: the median date of the passages naming them)*
 
 ## Appears in
 

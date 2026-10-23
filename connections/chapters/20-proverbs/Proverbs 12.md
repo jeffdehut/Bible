@@ -7,12 +7,16 @@ language: "Hebrew"
 verses: 28
 cross_references_out: 87
 cross_references_in: 68
+dated_from: -999
+dated_to: -999
 tags: ["chapter", "ot", "wisdom"]
 ---
 
 # Proverbs 12
 
 ← [[connections/chapters/20-proverbs/Proverbs 11|Proverbs 11]] · [[connections/books/Proverbs|Proverbs]] · [[connections/chapters/20-proverbs/Proverbs 13|Proverbs 13]] →
+
+**Dated** *(Ussher, after the Treasury of Scripture Knowledge)*: [[connections/timeline/10th century BC|1000 BC]]
 
 ## Text
 

@@ -7,6 +7,9 @@ original: ["זְכַרְיָהוּ"]
 verses: 1
 chapters: 1
 first: "1 Chronicles 5:7"
+placed: "1710 BC"
+placed_year: -1709
+sex: "male"
 tags: ["person"]
 ---
 
@@ -15,6 +18,15 @@ tags: ["person"]
 Reubenite chief during the reign of Jotham
 
 **Original-language names:** זְכַרְיָהוּ (H2148a)
+
+## When
+
+- **Placed around:** [[connections/timeline/18th century BC|1710 BC]] *(Ussher: the median date of the passages naming them)*
+
+## Family
+
+- **Tribe or nation:** Tribe of Reuben
+
 
 ## Appears in
 

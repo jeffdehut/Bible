@@ -7,6 +7,8 @@ original: ["יוֹעֵאלָה"]
 verses: 1
 chapters: 1
 first: "1 Chronicles 12:8"
+generation: 2
+sex: "male"
 tags: ["person"]
 ---
 
@@ -15,6 +17,24 @@ tags: ["person"]
 A Benjaminite warrior who joined David at Ziklag
 
 **Original-language names:** יוֹעֵאלָה (H3132)
+
+## Family
+
+- **Father:** [[connections/people/Jeroham (1 Chronicles 12.8)|Jeroham (1 Chronicles 12.8)]]
+- **Brothers and sisters:** [[connections/people/Zebadiah (1 Chronicles 12.8)|Zebadiah (1 Chronicles 12.8)]]
+
+**Family group:** [[connections/genealogy/Family of Jeroham (1 Chronicles 12.8)|Family of Jeroham (1 Chronicles 12.8)]], generation 2
+
+```mermaid
+flowchart TB
+  n0["Joelah"]:::me
+  n1["Jeroham (1 Chronicles 12.8)"]
+  n1 --> n0
+  n2["Zebadiah (1 Chronicles 12.8)"]
+  n1 --> n2
+  classDef me stroke-width:3px
+  classDef spouse stroke-dasharray:4
+```
 
 ## Appears in
 

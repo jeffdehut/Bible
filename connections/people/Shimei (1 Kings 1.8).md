@@ -7,6 +7,10 @@ original: ["שִׁמְעִי"]
 verses: 2
 chapters: 2
 first: "1 Kings 1:8"
+placed: "1014 BC"
+placed_year: -1013
+generation: 2
+sex: "male"
 tags: ["person"]
 ---
 
@@ -15,6 +19,25 @@ tags: ["person"]
 Influential figure during Solomon's reign; son of Ela.
 
 **Original-language names:** שִׁמְעִי (H8096)
+
+## When
+
+- **Placed around:** [[connections/timeline/11th century BC|1014 BC]] *(Ussher: the median date of the passages naming them)*
+
+## Family
+
+- **Father:** [[connections/people/Ela|Ela]]
+
+**Family group:** [[connections/genealogy/Family of Ela|Family of Ela]], generation 2
+
+```mermaid
+flowchart TB
+  n0["Shimei (1 Kings 1.8)"]:::me
+  n1["Ela"]
+  n1 --> n0
+  classDef me stroke-width:3px
+  classDef spouse stroke-dasharray:4
+```
 
 ## Appears in
 

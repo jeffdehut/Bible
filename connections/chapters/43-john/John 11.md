@@ -7,12 +7,16 @@ language: "Greek"
 verses: 57
 cross_references_out: 111
 cross_references_in: 89
+dated_from: 33
+dated_to: 33
 tags: ["chapter", "nt", "gospels"]
 ---
 
 # John 11
 
 ← [[connections/chapters/43-john/John 10|John 10]] · [[connections/books/John|John]] · [[connections/chapters/43-john/John 12|John 12]] →
+
+**Dated** *(Ussher, after the Treasury of Scripture Knowledge)*: [[connections/timeline/1st century AD|AD 33]]
 
 ## Text
 

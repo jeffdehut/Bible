@@ -7,6 +7,10 @@ original: ["גְּדַלְיָ֫הוּ", "גְּדַלְיָה"]
 verses: 26
 chapters: 5
 first: "2 Kings 25:22"
+placed: "588 BC"
+placed_year: -587
+generation: 5
+sex: "male"
 tags: ["person"]
 ---
 
@@ -15,6 +19,29 @@ tags: ["person"]
 Appointed governor of Judah by Babylonians; assassinated by Ishmael.
 
 **Original-language names:** גְּדַלְיָ֫הוּ (H1436b) · גְּדַלְיָה (H1436a)
+
+## When
+
+- **Placed around:** [[connections/timeline/6th century BC|588 BC]] *(Ussher: the median date of the passages naming them)*
+
+## Family
+
+- **Father:** [[connections/people/Ahikam|Ahikam]]
+
+**Line of descent** (5 generations, father to son): [[connections/people/Meshullam (2 Kings 22.3)|Meshullam (2 Kings 22.3)]] → [[connections/people/Azaliah|Azaliah]] → [[connections/people/Shaphan (2 Kings 22.3)|Shaphan (2 Kings 22.3)]] → [[connections/people/Ahikam|Ahikam]] → **Gedaliah (2 Kings 25.22)**
+
+**Family group:** [[connections/genealogy/Family of Meshullam (2 Kings 22.3)|Family of Meshullam (2 Kings 22.3)]], generation 5
+
+```mermaid
+flowchart TB
+  n0["Gedaliah (2 Kings 25.22)"]:::me
+  n1["Shaphan (2 Kings 22.3)"]
+  n2["Ahikam"]
+  n1 --> n2
+  n2 --> n0
+  classDef me stroke-width:3px
+  classDef spouse stroke-dasharray:4
+```
 
 ## Appears in
 

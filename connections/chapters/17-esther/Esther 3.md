@@ -7,12 +7,16 @@ language: "Hebrew"
 verses: 15
 cross_references_out: 2
 cross_references_in: 4
+dated_from: -452
+dated_to: -452
 tags: ["chapter", "ot", "history"]
 ---
 
 # Esther 3
 
 ← [[connections/chapters/17-esther/Esther 2|Esther 2]] · [[connections/books/Esther|Esther]] · [[connections/chapters/17-esther/Esther 4|Esther 4]] →
+
+**Dated** *(Ussher, after the Treasury of Scripture Knowledge)*: [[connections/timeline/5th century BC|453 BC]]
 
 ## Text
 

@@ -17,6 +17,10 @@ Street in Damascus where Saul stayed after conversion
 
 **Original-language names:** εὐθύς (G2117)
 
+## Events
+
+- [[connections/timeline/1st century AD|AD 32]] · [[connections/events/Saul is converted|Saul is converted]]
+
 ## Appears in
 
 [[connections/chapters/44-acts/Acts 9|Acts 9]]

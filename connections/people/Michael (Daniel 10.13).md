@@ -7,6 +7,9 @@ original: ["מִיכָאֵל", "Μιχαήλ"]
 verses: 5
 chapters: 4
 first: "Daniel 10:13"
+placed: "534 BC"
+placed_year: -533
+sex: "male"
 tags: ["person"]
 ---
 
@@ -15,6 +18,10 @@ tags: ["person"]
 An archangel who fights for God's people.
 
 **Original-language names:** מִיכָאֵל (H4317) · Μιχαήλ (G3413)
+
+## When
+
+- **Placed around:** [[connections/timeline/6th century BC|534 BC]] *(Ussher: the median date of the passages naming them)*
 
 ## Appears in
 

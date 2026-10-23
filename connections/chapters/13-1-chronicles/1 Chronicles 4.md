@@ -7,12 +7,16 @@ language: "Hebrew"
 verses: 43
 cross_references_out: 40
 cross_references_in: 6
+dated_from: -1720
+dated_to: -1720
 tags: ["chapter", "ot", "history"]
 ---
 
 # 1 Chronicles 4
 
 ← [[connections/chapters/13-1-chronicles/1 Chronicles 3|1 Chronicles 3]] · [[connections/books/1 Chronicles|1 Chronicles]] · [[connections/chapters/13-1-chronicles/1 Chronicles 5|1 Chronicles 5]] →
+
+**Dated** *(Ussher, after the Treasury of Scripture Knowledge)*: [[connections/timeline/18th century BC|1721 BC]]
 
 ## Text
 

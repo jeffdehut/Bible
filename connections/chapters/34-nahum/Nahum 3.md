@@ -7,12 +7,16 @@ language: "Hebrew"
 verses: 19
 cross_references_out: 1
 cross_references_in: 5
+dated_from: -712
+dated_to: -712
 tags: ["chapter", "ot", "prophets"]
 ---
 
 # Nahum 3
 
 ← [[connections/chapters/34-nahum/Nahum 2|Nahum 2]] · [[connections/books/Nahum|Nahum]] · [[connections/chapters/35-habakkuk/Habakkuk 1|Habakkuk 1]] →
+
+**Dated** *(Ussher, after the Treasury of Scripture Knowledge)*: [[connections/timeline/8th century BC|713 BC]]
 
 ## Text
 

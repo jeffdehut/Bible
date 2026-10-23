@@ -7,12 +7,16 @@ language: "Hebrew/Aramaic"
 verses: 21
 cross_references_out: 1
 cross_references_in: 2
+dated_from: -597
+dated_to: -588
 tags: ["chapter", "ot", "prophets"]
 ---
 
 # Jeremiah 37
 
 ← [[connections/chapters/24-jeremiah/Jeremiah 36|Jeremiah 36]] · [[connections/books/Jeremiah|Jeremiah]] · [[connections/chapters/24-jeremiah/Jeremiah 38|Jeremiah 38]] →
+
+**Dated** *(Ussher, after the Treasury of Scripture Knowledge)*: [[connections/timeline/6th century BC|598 BC]] – [[connections/timeline/6th century BC|589 BC]]
 
 ## Text
 

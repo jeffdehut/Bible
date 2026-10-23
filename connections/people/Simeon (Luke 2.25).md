@@ -7,6 +7,9 @@ original: ["Συμεών"]
 verses: 2
 chapters: 1
 first: "Luke 2:25"
+placed: "AD 4"
+placed_year: 4
+sex: "male"
 tags: ["person"]
 ---
 
@@ -15,6 +18,10 @@ tags: ["person"]
 Righteous and devout man who blessed Jesus in the temple.
 
 **Original-language names:** Συμεών (G4826)
+
+## When
+
+- **Placed around:** [[connections/timeline/1st century AD|AD 4]] *(Ussher: the median date of the passages naming them)*
 
 ## Appears in
 

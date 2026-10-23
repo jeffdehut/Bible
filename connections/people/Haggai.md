@@ -7,6 +7,9 @@ original: ["חַגַּי", "חַגַּי"]
 verses: 11
 chapters: 4
 first: "Ezra 5:1"
+placed: "520 BC"
+placed_year: -519
+sex: "male"
 tags: ["person"]
 ---
 
@@ -15,6 +18,14 @@ tags: ["person"]
 A prophet who encouraged the rebuilding of the temple.
 
 **Original-language names:** חַגַּי (H2292a) · חַגַּי (H2292b)
+
+## When
+
+- **Placed around:** [[connections/timeline/6th century BC|520 BC]] *(Ussher: the median date of the passages naming them)*
+
+## Events
+
+- [[connections/timeline/6th century BC|520 BC]] · [[connections/events/Prophecies of Haggai|Prophecies of Haggai]]
 
 ## Appears in
 

@@ -7,12 +7,16 @@ language: "Greek"
 verses: 13
 cross_references_out: 72
 cross_references_in: 63
+dated_from: 64
+dated_to: 64
 tags: ["chapter", "nt", "general-epistles"]
 ---
 
 # Hebrews 8
 
 ← [[connections/chapters/58-hebrews/Hebrews 7|Hebrews 7]] · [[connections/books/Hebrews|Hebrews]] · [[connections/chapters/58-hebrews/Hebrews 9|Hebrews 9]] →
+
+**Dated** *(Ussher, after the Treasury of Scripture Knowledge)*: [[connections/timeline/1st century AD|AD 64]]
 
 ## Text
 

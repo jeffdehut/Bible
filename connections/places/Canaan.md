@@ -17,6 +17,30 @@ Ancient region; descendants of Ham; promised to Abraham's descendants
 
 **Original-language names:** כְּנַ֫עַן (H3667a) · Χαναάν (G5477)
 
+## Events
+
+- [[connections/timeline/20th century BC|1921 BC]] · [[connections/events/Abraham enters Canaan|Abraham enters Canaan]]
+- [[connections/timeline/20th century BC|1920 BC]] · [[connections/events/Abraham and Lot Separate|Abraham and Lot Separate]]
+- [[connections/timeline/15th century BC|1418 BC]] · [[connections/events/Subjugation by Cushan-rishathaim|Subjugation by Cushan-rishathaim]]
+- [[connections/timeline/15th century BC|1410 BC]] · [[connections/events/Deliverance by Othniel|Deliverance by Othniel]]
+- [[connections/timeline/14th century BC|1378 BC]] · [[connections/events/Subjugation by Eglon|Subjugation by Eglon]]
+- [[connections/timeline/14th century BC|1360 BC]] · [[connections/events/Deliverance by Ehud|Deliverance by Ehud]]
+- [[connections/timeline/13th century BC|1298 BC]] · [[connections/events/Subjugation by Jabin|Subjugation by Jabin]]
+- [[connections/timeline/13th century BC|1278 BC]] · [[connections/events/Deliverance by Barak And Deborah|Deliverance by Barak And Deborah]]
+- [[connections/timeline/13th century BC|1258 BC]] · [[connections/events/Subjugation by Midian|Subjugation by Midian]]
+- [[connections/timeline/13th century BC|1251 BC]] · [[connections/events/Deliverance by Gideon|Deliverance by Gideon]]
+- [[connections/timeline/13th century BC|1218 BC]] · [[connections/events/Usurpation by Abimelech|Usurpation by Abimelech]]
+- [[connections/timeline/13th century BC|1215 BC]] · [[connections/events/Judgeship of Tola|Judgeship of Tola]]
+- [[connections/timeline/12th century BC|1192 BC]] · [[connections/events/Judgeship of Jair|Judgeship of Jair]]
+- [[connections/timeline/12th century BC|1170 BC]] · [[connections/events/Oppression by Ammon and Philistia|Oppression by Ammon and Philistia]]
+- [[connections/timeline/12th century BC|1162 BC]] · [[connections/events/Judgeship of Eli|Judgeship of Eli]]
+- [[connections/timeline/12th century BC|1152 BC]] · [[connections/events/Deliverance by Jephthah|Deliverance by Jephthah]]
+- [[connections/timeline/12th century BC|1146 BC]] · [[connections/events/Judgeship of Ibzan|Judgeship of Ibzan]]
+- [[connections/timeline/12th century BC|1141 BC]] · [[connections/events/Philistine Dominion|Philistine Dominion]]
+- [[connections/timeline/12th century BC|1139 BC]] · [[connections/events/Judgeship of Elon|Judgeship of Elon]]
+- [[connections/timeline/12th century BC|1129 BC]] · [[connections/events/Judgeship of Abdon|Judgeship of Abdon]]
+- [[connections/timeline/12th century BC|1121 BC]] · [[connections/events/Judgeship of Samson|Judgeship of Samson]]
+
 ## Appears in
 
 [[connections/chapters/01-genesis/Genesis 11|Genesis 11]] · [[connections/chapters/01-genesis/Genesis 12|Genesis 12]] · [[connections/chapters/01-genesis/Genesis 13|Genesis 13]] · [[connections/chapters/01-genesis/Genesis 16|Genesis 16]] · [[connections/chapters/01-genesis/Genesis 17|Genesis 17]] · [[connections/chapters/01-genesis/Genesis 23|Genesis 23 (2)]] · [[connections/chapters/01-genesis/Genesis 28|Genesis 28 (3)]] · [[connections/chapters/01-genesis/Genesis 31|Genesis 31]] · [[connections/chapters/01-genesis/Genesis 33|Genesis 33]] · [[connections/chapters/01-genesis/Genesis 35|Genesis 35]] · [[connections/chapters/01-genesis/Genesis 36|Genesis 36 (3)]] · [[connections/chapters/01-genesis/Genesis 37|Genesis 37]] · [[connections/chapters/01-genesis/Genesis 42|Genesis 42 (5)]] · [[connections/chapters/01-genesis/Genesis 44|Genesis 44]] · [[connections/chapters/01-genesis/Genesis 45|Genesis 45 (2)]] · [[connections/chapters/01-genesis/Genesis 46|Genesis 46 (3)]] · [[connections/chapters/01-genesis/Genesis 47|Genesis 47 (5)]] · [[connections/chapters/01-genesis/Genesis 48|Genesis 48 (2)]] · [[connections/chapters/01-genesis/Genesis 49|Genesis 49]] · [[connections/chapters/01-genesis/Genesis 50|Genesis 50 (2)]] · [[connections/chapters/02-exodus/Exodus 6|Exodus 6]] · [[connections/chapters/02-exodus/Exodus 15|Exodus 15]] · [[connections/chapters/02-exodus/Exodus 16|Exodus 16]] · [[connections/chapters/03-leviticus/Leviticus 14|Leviticus 14]] · [[connections/chapters/03-leviticus/Leviticus 18|Leviticus 18]] · [[connections/chapters/03-leviticus/Leviticus 25|Leviticus 25]] · [[connections/chapters/04-numbers/Numbers 13|Numbers 13 (2)]] · [[connections/chapters/04-numbers/Numbers 26|Numbers 26]] · [[connections/chapters/04-numbers/Numbers 32|Numbers 32 (2)]] · [[connections/chapters/04-numbers/Numbers 33|Numbers 33 (2)]] · [[connections/chapters/04-numbers/Numbers 34|Numbers 34 (2)]] · [[connections/chapters/04-numbers/Numbers 35|Numbers 35 (2)]] · [[connections/chapters/05-deuteronomy/Deuteronomy 32|Deuteronomy 32]] · [[connections/chapters/06-joshua/Joshua 5|Joshua 5]] · [[connections/chapters/06-joshua/Joshua 14|Joshua 14]] · [[connections/chapters/06-joshua/Joshua 21|Joshua 21]] · [[connections/chapters/06-joshua/Joshua 22|Joshua 22 (4)]] · [[connections/chapters/06-joshua/Joshua 24|Joshua 24]] · [[connections/chapters/07-judges/Judges 3|Judges 3]] · [[connections/chapters/07-judges/Judges 4|Judges 4 (3)]] · [[connections/chapters/07-judges/Judges 5|Judges 5]] · [[connections/chapters/07-judges/Judges 21|Judges 21]] · [[connections/chapters/13-1-chronicles/1 Chronicles 16|1 Chronicles 16]] · [[connections/chapters/19-psalms/Psalms 105|Psalms 105]] · [[connections/chapters/19-psalms/Psalms 106|Psalms 106]] · [[connections/chapters/19-psalms/Psalms 135|Psalms 135]] · [[connections/chapters/23-isaiah/Isaiah 19|Isaiah 19]] · [[connections/chapters/23-isaiah/Isaiah 23|Isaiah 23]] · [[connections/chapters/36-zephaniah/Zephaniah 2|Zephaniah 2]] · [[connections/chapters/44-acts/Acts 7|Acts 7]] · [[connections/chapters/44-acts/Acts 13|Acts 13]]

@@ -7,12 +7,16 @@ language: "Hebrew"
 verses: 10
 cross_references_out: 87
 cross_references_in: 90
+dated_from: -712
+dated_to: -712
 tags: ["chapter", "ot", "prophets"]
 ---
 
 # Isaiah 35
 
 ← [[connections/chapters/23-isaiah/Isaiah 34|Isaiah 34]] · [[connections/books/Isaiah|Isaiah]] · [[connections/chapters/23-isaiah/Isaiah 36|Isaiah 36]] →
+
+**Dated** *(Ussher, after the Treasury of Scripture Knowledge)*: [[connections/timeline/8th century BC|713 BC]]
 
 ## Text
 

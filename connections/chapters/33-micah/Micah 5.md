@@ -7,12 +7,16 @@ language: "Hebrew"
 verses: 14
 cross_references_out: 15
 cross_references_in: 37
+dated_from: -709
+dated_to: -709
 tags: ["chapter", "ot", "prophets"]
 ---
 
 # Micah 5
 
 ← [[connections/chapters/33-micah/Micah 4|Micah 4]] · [[connections/books/Micah|Micah]] · [[connections/chapters/33-micah/Micah 6|Micah 6]] →
+
+**Dated** *(Ussher, after the Treasury of Scripture Knowledge)*: [[connections/timeline/8th century BC|710 BC]]
 
 ## Text
 

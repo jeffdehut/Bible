@@ -7,6 +7,7 @@ original: ["מֵישַׁע"]
 verses: 1
 chapters: 1
 first: "2 Kings 3:4"
+sex: "male"
 tags: ["person"]
 ---
 
@@ -15,6 +16,11 @@ tags: ["person"]
 King of Moab who rebelled against Israel.
 
 **Original-language names:** מֵישַׁע (H4338)
+
+## Family
+
+- **Tribe or nation:** Moab
+
 
 ## Appears in
 

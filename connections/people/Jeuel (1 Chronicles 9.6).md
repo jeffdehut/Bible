@@ -7,6 +7,9 @@ original: ["יְעוּאֵל"]
 verses: 1
 chapters: 1
 first: "1 Chronicles 9:6"
+placed: "536 BC"
+placed_year: -535
+sex: "male"
 tags: ["person"]
 ---
 
@@ -15,6 +18,15 @@ tags: ["person"]
 A descendant of Zerah
 
 **Original-language names:** יְעוּאֵל (H3262)
+
+## When
+
+- **Placed around:** [[connections/timeline/6th century BC|536 BC]] *(Ussher: the median date of the passages naming them)*
+
+## Family
+
+- **Tribe or nation:** Tribe of Judah
+
 
 ## Appears in
 

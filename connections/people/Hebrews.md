@@ -7,6 +7,8 @@ original: ["Ἑβραῖος"]
 verses: 5
 chapters: 5
 first: "Luke 23:38"
+placed: "AD 60"
+placed_year: 60
 tags: ["person"]
 ---
 
@@ -15,6 +17,10 @@ tags: ["person"]
 An ethnic group descended from Abraham.
 
 **Original-language names:** Ἑβραῖος (G1445)
+
+## When
+
+- **Placed around:** [[connections/timeline/1st century AD|AD 60]] *(Ussher: the median date of the passages naming them)*
 
 ## Appears in
 

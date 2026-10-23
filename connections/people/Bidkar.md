@@ -7,6 +7,9 @@ original: ["בִּדְקַר"]
 verses: 1
 chapters: 1
 first: "2 Kings 9:25"
+placed: "884 BC"
+placed_year: -883
+sex: "male"
 tags: ["person"]
 ---
 
@@ -15,6 +18,10 @@ tags: ["person"]
 Officer of Jehu who witnessed Ahab's judgment
 
 **Original-language names:** בִּדְקַר (H0920)
+
+## When
+
+- **Placed around:** [[connections/timeline/9th century BC|884 BC]] *(Ussher: the median date of the passages naming them)*
 
 ## Appears in
 

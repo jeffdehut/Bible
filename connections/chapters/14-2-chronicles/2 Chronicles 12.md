@@ -7,12 +7,16 @@ language: "Hebrew"
 verses: 16
 cross_references_out: 3
 cross_references_in: 6
+dated_from: -974
+dated_to: -969
 tags: ["chapter", "ot", "history"]
 ---
 
 # 2 Chronicles 12
 
 ← [[connections/chapters/14-2-chronicles/2 Chronicles 11|2 Chronicles 11]] · [[connections/books/2 Chronicles|2 Chronicles]] · [[connections/chapters/14-2-chronicles/2 Chronicles 13|2 Chronicles 13]] →
+
+**Dated** *(Ussher, after the Treasury of Scripture Knowledge)*: [[connections/timeline/10th century BC|975 BC]] – [[connections/timeline/10th century BC|970 BC]]
 
 ## Text
 

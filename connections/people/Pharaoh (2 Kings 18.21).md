@@ -7,6 +7,9 @@ original: ["פַּרְעֹה"]
 verses: 5
 chapters: 4
 first: "2 Kings 18:21"
+placed: "713 BC"
+placed_year: -712
+sex: "male"
 tags: ["person"]
 ---
 
@@ -15,6 +18,15 @@ tags: ["person"]
 Egyptian Pharaoh during Hezekiah's reign
 
 **Original-language names:** פַּרְעֹה (H6547)
+
+## When
+
+- **Placed around:** [[connections/timeline/8th century BC|713 BC]] *(Ussher: the median date of the passages naming them)*
+
+## Family
+
+- **Tribe or nation:** Egypt
+
 
 ## Appears in
 

@@ -7,12 +7,16 @@ language: "Hebrew"
 verses: 27
 cross_references_out: 55
 cross_references_in: 33
+dated_from: -699
+dated_to: -699
 tags: ["chapter", "ot", "wisdom"]
 ---
 
 # Proverbs 27
 
 ← [[connections/chapters/20-proverbs/Proverbs 26|Proverbs 26]] · [[connections/books/Proverbs|Proverbs]] · [[connections/chapters/20-proverbs/Proverbs 28|Proverbs 28]] →
+
+**Dated** *(Ussher, after the Treasury of Scripture Knowledge)*: [[connections/timeline/7th century BC|700 BC]]
 
 ## Text
 

@@ -7,6 +7,10 @@ original: ["אֱלִישָׁפָט"]
 verses: 1
 chapters: 1
 first: "2 Chronicles 23:1"
+placed: "878 BC"
+placed_year: -877
+generation: 2
+sex: "male"
 tags: ["person"]
 ---
 
@@ -15,6 +19,25 @@ tags: ["person"]
 One of the captains who helped Jehoiada overthrow Athaliah.
 
 **Original-language names:** אֱלִישָׁפָט (H0478)
+
+## When
+
+- **Placed around:** [[connections/timeline/9th century BC|878 BC]] *(Ussher: the median date of the passages naming them)*
+
+## Family
+
+- **Father:** [[connections/people/Zichri (2 Chronicles 23.1)|Zichri (2 Chronicles 23.1)]]
+
+**Family group:** [[connections/genealogy/Family of Zichri (2 Chronicles 23.1)|Family of Zichri (2 Chronicles 23.1)]], generation 2
+
+```mermaid
+flowchart TB
+  n0["Elishaphat"]:::me
+  n1["Zichri (2 Chronicles 23.1)"]
+  n1 --> n0
+  classDef me stroke-width:3px
+  classDef spouse stroke-dasharray:4
+```
 
 ## Appears in
 

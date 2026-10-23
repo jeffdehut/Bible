@@ -8,6 +8,10 @@ original: ["חַרְחַס", "חַסְרָה"]
 verses: 2
 chapters: 2
 first: "2 Kings 22:14"
+placed: "624 BC"
+placed_year: -623
+generation: 1
+sex: "male"
 tags: ["person"]
 ---
 
@@ -18,6 +22,25 @@ Father of Tikvah's wife Shallum.
 **Also called:** Hasrah
 
 **Original-language names:** חַרְחַס (H2745) · חַסְרָה (H2641)
+
+## When
+
+- **Placed around:** [[connections/timeline/7th century BC|624 BC]] *(Ussher: the median date of the passages naming them)*
+
+## Family
+
+- **Children:** [[connections/people/Tikvah (2 Kings 22.14)|Tikvah (2 Kings 22.14)]]
+
+**Family group:** [[connections/genealogy/Family of Harhas|Family of Harhas]], generation 1
+
+```mermaid
+flowchart TB
+  n0["Harhas"]:::me
+  n1["Tikvah (2 Kings 22.14)"]
+  n0 --> n1
+  classDef me stroke-width:3px
+  classDef spouse stroke-dasharray:4
+```
 
 ## Appears in
 

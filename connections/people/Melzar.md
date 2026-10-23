@@ -8,6 +8,7 @@ original: ["מֶלְצָר"]
 verses: 2
 chapters: 1
 first: "Daniel 1:11"
+sex: "male"
 tags: ["person"]
 ---
 

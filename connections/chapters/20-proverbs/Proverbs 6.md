@@ -7,12 +7,16 @@ language: "Hebrew"
 verses: 35
 cross_references_out: 66
 cross_references_in: 65
+dated_from: -999
+dated_to: -999
 tags: ["chapter", "ot", "wisdom"]
 ---
 
 # Proverbs 6
 
 ← [[connections/chapters/20-proverbs/Proverbs 5|Proverbs 5]] · [[connections/books/Proverbs|Proverbs]] · [[connections/chapters/20-proverbs/Proverbs 7|Proverbs 7]] →
+
+**Dated** *(Ussher, after the Treasury of Scripture Knowledge)*: [[connections/timeline/10th century BC|1000 BC]]
 
 ## Text
 

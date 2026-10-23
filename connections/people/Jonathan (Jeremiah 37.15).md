@@ -7,6 +7,9 @@ original: ["יְהוֹנָתָן"]
 verses: 3
 chapters: 2
 first: "Jeremiah 37:15"
+placed: "598 BC"
+placed_year: -597
+sex: "male"
 tags: ["person"]
 ---
 
@@ -15,6 +18,10 @@ tags: ["person"]
 Scribe with a house used as prison
 
 **Original-language names:** יְהוֹנָתָן (H3083)
+
+## When
+
+- **Placed around:** [[connections/timeline/6th century BC|598 BC]] *(Ussher: the median date of the passages naming them)*
 
 ## Appears in
 

@@ -7,6 +7,7 @@ original: ["שַׁמּוּעַ"]
 verses: 1
 chapters: 1
 first: "Nehemiah 12:18"
+sex: "male"
 tags: ["person"]
 ---
 

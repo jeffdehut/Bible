@@ -7,12 +7,16 @@ language: "Greek"
 verses: 23
 cross_references_out: 279
 cross_references_in: 181
+dated_from: 64
+dated_to: 64
 tags: ["chapter", "nt", "pauline-epistles"]
 ---
 
 # Philippians 4
 
 ← [[connections/chapters/50-philippians/Philippians 3|Philippians 3]] · [[connections/books/Philippians|Philippians]] · [[connections/chapters/51-colossians/Colossians 1|Colossians 1]] →
+
+**Dated** *(Ussher, after the Treasury of Scripture Knowledge)*: [[connections/timeline/1st century AD|AD 64]]
 
 ## Text
 

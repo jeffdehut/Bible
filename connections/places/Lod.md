@@ -20,6 +20,10 @@ A city in Benjamin; home of Aeneas healed by Peter
 
 **Original-language names:** לֹד (H3850) · Λύδδα (G3069)
 
+## Events
+
+- [[connections/timeline/1st century AD|AD 38]] · [[connections/events/Peter heals Aeneas and Dorcas|Peter heals Aeneas and Dorcas]]
+
 ## Appears in
 
 [[connections/chapters/13-1-chronicles/1 Chronicles 8|1 Chronicles 8]] · [[connections/chapters/15-ezra/Ezra 2|Ezra 2]] · [[connections/chapters/16-nehemiah/Nehemiah 7|Nehemiah 7]] · [[connections/chapters/16-nehemiah/Nehemiah 11|Nehemiah 11]] · [[connections/chapters/44-acts/Acts 9|Acts 9 (3)]]

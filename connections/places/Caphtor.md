@@ -20,6 +20,12 @@ Island home of the Philistines; visited by Paul
 
 **Original-language names:** כַּפְתּוֹר (H3731) · Κρήτη (G2914) · Κρής (G2912)
 
+## Events
+
+- [[connections/timeline/1st century AD|AD 56]] · [[connections/events/Journey to Rome begins|Journey to Rome begins]]
+- [[connections/timeline/1st century AD|AD 56]] · [[connections/events/Paul's Journey to Rome|Paul's Journey to Rome]]
+- [[connections/timeline/1st century AD|AD 57]] · [[connections/events/Paul is shipwrecked by a storm|Paul is shipwrecked by a storm]]
+
 ## Appears in
 
 [[connections/chapters/05-deuteronomy/Deuteronomy 2|Deuteronomy 2]] · [[connections/chapters/24-jeremiah/Jeremiah 47|Jeremiah 47]] · [[connections/chapters/30-amos/Amos 9|Amos 9]] · [[connections/chapters/44-acts/Acts 27|Acts 27 (4)]] · [[connections/chapters/56-titus/Titus 1|Titus 1]] · [[connections/chapters/56-titus/Titus 3|Titus 3]]

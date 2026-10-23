@@ -7,6 +7,10 @@ original: ["חֲזָהאֵל"]
 verses: 21
 chapters: 8
 first: "1 Kings 19:15"
+placed: "884 BC"
+placed_year: -883
+generation: 1
+sex: "male"
 tags: ["person"]
 ---
 
@@ -15,6 +19,27 @@ tags: ["person"]
 King of Aram (Syria), anointed by Elijah.
 
 **Original-language names:** חֲזָהאֵל (H2371)
+
+## When
+
+- **Placed around:** [[connections/timeline/9th century BC|884 BC]] *(Ussher: the median date of the passages naming them)*
+- **Reigned / in office:** c. [[connections/timeline/9th century BC|842 BC]] – [[connections/timeline/8th century BC|796 BC]] *(modern dates)* · Hazael, Aram · [Wikidata Q127170](https://www.wikidata.org/wiki/Q127170)
+
+## Family
+
+- **Children:** [[connections/people/Ben-hadad (2 Kings 13.3)|Ben-hadad (2 Kings 13.3)]]
+- **Tribe or nation:** Syria
+
+**Family group:** [[connections/genealogy/Family of Hazael|Family of Hazael]], generation 1
+
+```mermaid
+flowchart TB
+  n0["Hazael"]:::me
+  n1["Ben-hadad (2 Kings 13.3)"]
+  n0 --> n1
+  classDef me stroke-width:3px
+  classDef spouse stroke-dasharray:4
+```
 
 ## Appears in
 

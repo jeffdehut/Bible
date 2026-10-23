@@ -7,6 +7,9 @@ original: ["פְּלָאיָה"]
 verses: 2
 chapters: 2
 first: "Nehemiah 8:7"
+placed: "445 BC"
+placed_year: -444
+sex: "male"
 tags: ["person"]
 ---
 
@@ -15,6 +18,10 @@ tags: ["person"]
 Levite who helped explain the Law and signed the covenant
 
 **Original-language names:** פְּלָאיָה (H6411a)
+
+## When
+
+- **Placed around:** [[connections/timeline/5th century BC|445 BC]] *(Ussher: the median date of the passages naming them)*
 
 ## Appears in
 

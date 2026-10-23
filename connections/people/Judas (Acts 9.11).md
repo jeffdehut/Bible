@@ -7,6 +7,9 @@ original: ["Ἰούδας"]
 verses: 1
 chapters: 1
 first: "Acts 9:11"
+placed: "AD 35"
+placed_year: 35
+sex: "male"
 tags: ["person"]
 ---
 
@@ -15,6 +18,10 @@ tags: ["person"]
 A Christian living on Straight Street in Damascus
 
 **Original-language names:** Ἰούδας (G2455)
+
+## When
+
+- **Placed around:** [[connections/timeline/1st century AD|AD 35]] *(Ussher: the median date of the passages naming them)*
 
 ## Appears in
 
