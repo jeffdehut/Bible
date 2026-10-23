@@ -1421,3 +1421,131 @@
 [^13-15]: Or "distressed". Literally "it burned to David".
 [^13-16]: *Perez-uzza* means "breaking out against Uzza".
 [^13-17]: That is, a man from Gath.
+
+## Chapter 14
+
+*Status: draft*
+
+**1** Huram[^14-1] king of Tyre sent messengers to David, with cedar logs, stonemasons and carpenters,[^14-2] to build a house for him.
+
+**2** Then David knew that Yahweh[^14-3] had established him as king over Israel, and that his kingdom was highly exalted for the sake of his people Israel.
+
+**3** David took more wives in Jerusalem,[^14-4] and David fathered more sons and daughters.
+
+**4** These are the names of the children born to him in Jerusalem: Shammua, Shobab, Nathan, Solomon,
+
+**5** Ibhar, Elishua, Elpelet,[^14-5]
+
+**6** Nogah, Nepheg, Japhia,
+
+**7** Elishama, Beeliada[^14-6] and Eliphelet.
+
+**8** When the Philistines heard that David had been anointed king over all Israel, all the Philistines went up to search for David. David heard about it and went out to meet them.[^14-7]
+
+**9** The Philistines had come and made a raid in the Valley of Rephaim.
+
+**10** David asked God, "Shall I go up against the Philistines? Will you hand them over to me?" Yahweh said to him, "Go up, and I will hand them over to you."
+
+**11** So they went up to Baal-perazim, and David defeated them there. David said, "God has broken through my enemies by my hand, as water breaks through." That is why that place was called Baal-perazim.[^14-8]
+
+**12** The Philistines abandoned their gods there, and at David's command they were burned in the fire.[^14-9]
+
+**13** Once again the Philistines made a raid in the valley.
+
+**14** Again David asked God, and God said to him, "Do not go up after them. Turn away from them and come at them opposite the balsam trees.[^14-10]
+
+**15** When you hear the sound of marching in the tops of the balsam trees, then go out to battle, for God will have gone out ahead of you to strike down the army of the Philistines."
+
+**16** David did as God had commanded him, and they struck down the army of the Philistines from Gibeon[^14-11] all the way to Gezer.
+
+**17** David's fame spread through all the lands, and Yahweh made all the nations fear him.[^14-12]
+
+[^14-1]: The Hebrew text is written "Hiram" but read "Huram". Verses 1–16 parallel 2 Samuel 5:11–25, which has Hiram.
+[^14-2]: Literally "craftsmen of walls and craftsmen of wood".
+[^14-3]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^14-4]: 2 Samuel 5:13 reads "David took more concubines and wives from Jerusalem".
+[^14-5]: Elpelet and Nogah (verse 6) are not in 2 Samuel 5:15; compare 3:6–7, where Elpelet is called Eliphelet.
+[^14-6]: 3:8 and 2 Samuel 5:16 have Eliada.
+[^14-7]: 2 Samuel 5:17 reads "and went down to the stronghold".
+[^14-8]: *Baal-perazim* means "lord of breakings through". Hebrew *perets* is "breaking through".
+[^14-9]: Literally "and David said, and they were burned in the fire". 2 Samuel 5:21 says that David and his men carried them off.
+[^14-10]: Hebrew *bekha'im*, a kind of tree or shrub that cannot be identified with certainty. Also in verse 15.
+[^14-11]: 2 Samuel 5:25 has Geba.
+[^14-12]: Literally "put the fear of him on all the nations".
+
+## Chapter 15
+
+*Status: draft*
+
+**1** David built houses for himself in the City of David. He prepared a place for the ark of God and pitched a tent for it.
+
+**2** Then David said, "No one but the Levites may carry the ark of God, for Yahweh[^15-1] chose them to carry the ark of Yahweh and to minister to him forever."[^15-2]
+
+**3** David assembled all Israel at Jerusalem to bring up the ark of Yahweh to the place he had prepared for it.
+
+**4** David gathered the descendants of Aaron and the Levites:
+
+**5** of the Kohathites, Uriel the chief, with 120 of his kinsmen;[^15-3]
+
+**6** of the Merarites, Asaiah the chief, with 220 of his kinsmen;
+
+**7** of the Gershomites, Joel the chief, with 130 of his kinsmen;
+
+**8** of the descendants of Elizaphan, Shemaiah the chief, with 200 of his kinsmen;
+
+**9** of the descendants of Hebron, Eliel the chief, with 80 of his kinsmen;
+
+**10** of the descendants of Uzziel, Amminadab the chief, with 112 of his kinsmen.
+
+**11** Then David called for Zadok and Abiathar the priests, and for the Levites Uriel, Asaiah, Joel, Shemaiah, Eliel and Amminadab.
+
+**12** He said to them, "You are the heads of the Levite families. Consecrate yourselves, you and your kinsmen, and bring up the ark of Yahweh, the God of Israel, to the place I have prepared for it.
+
+**13** Because you were not there the first time,[^15-4] Yahweh our God broke out against us, for we did not seek him in the way that is prescribed."
+
+**14** So the priests and the Levites consecrated themselves to bring up the ark of Yahweh, the God of Israel.
+
+**15** The Levites carried the ark of God on their shoulders with the poles on them, as Moses had commanded according to the word of Yahweh.[^15-5]
+
+**16** David told the chiefs of the Levites to appoint their kinsmen as singers, to play loudly on musical instruments, harps, lyres and cymbals, raising sounds of joy.
+
+**17** So the Levites appointed Heman son of Joel; from his kinsmen, Asaph son of Berechiah; and from their kinsmen the Merarites, Ethan son of Kushaiah;[^15-6]
+
+**18** and with them their kinsmen of the second rank: Zechariah, Ben,[^15-7] Jaaziel, Shemiramoth, Jehiel, Unni, Eliab, Benaiah, Maaseiah, Mattithiah, Eliphelehu and Mikneiah, and Obed-edom and Jeiel, the gatekeepers.
+
+**19** The singers Heman, Asaph and Ethan were to sound bronze cymbals;
+
+**20** Zechariah, Aziel, Shemiramoth, Jehiel, Unni, Eliab, Maaseiah and Benaiah were to play harps according to Alamoth;[^15-8]
+
+**21** and Mattithiah, Eliphelehu, Mikneiah, Obed-edom, Jeiel and Azaziah were to lead with lyres according to the Sheminith.[^15-9]
+
+**22** Chenaniah, the chief of the Levites in music, directed the music,[^15-10] because he was skilled in it.
+
+**23** Berechiah and Elkanah were gatekeepers for the ark.
+
+**24** Shebaniah, Joshaphat, Nethanel, Amasai, Zechariah, Benaiah and Eliezer, the priests, were to blow the trumpets before the ark of God. Obed-edom and Jehiah were also gatekeepers for the ark.
+
+**25** So David, the elders of Israel and the commanders of thousands went to bring up the ark of the covenant of Yahweh from the house of Obed-edom with rejoicing.[^15-11]
+
+**26** Because God helped the Levites who were carrying the ark of the covenant of Yahweh, they sacrificed seven bulls and seven rams.[^15-12]
+
+**27** David was clothed in a robe of fine linen,[^15-13] as were all the Levites who were carrying the ark, the singers, and Chenaniah, the leader of the music of the singers. David also wore a linen ephod.[^15-14]
+
+**28** So all Israel brought up the ark of the covenant of Yahweh with shouting, with the sound of the ram's horn, with trumpets and cymbals, playing loudly on harps and lyres.
+
+**29** As the ark of the covenant of Yahweh was coming into the City of David, Michal daughter of Saul looked down through the window. She saw King David dancing and celebrating, and she despised him in her heart.
+
+[^15-1]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^15-2]: Compare Numbers 4:15; Deuteronomy 10:8.
+[^15-3]: Literally "brothers", fellow Levites; also in verses 6–10, 12 and 16–18.
+[^15-4]: The Hebrew is abrupt. Literally "For because at the first time not you". See 13:9–11.
+[^15-5]: Exodus 25:13–15; Numbers 4:15; 7:9.
+[^15-6]: Called Kishi in 6:29 (6:44 in most English Bibles).
+[^15-7]: *Ben* means "son". The name is not in the list in verse 20, where Jaaziel is called Aziel.
+[^15-8]: Hebrew *al alamot*, a musical term of uncertain meaning, perhaps "for soprano voices" (compare the title of Psalm 46).
+[^15-9]: Hebrew *al ha-sheminit*, "on the eighth", a musical term of uncertain meaning, perhaps "on the octave" or "for low voices" (compare the titles of Psalms 6 and 12).
+[^15-10]: Hebrew *massa*, "lifting up": the raising of the voice in song, or the carrying of the ark. Also in verse 27.
+[^15-11]: Verses 25–29 parallel 2 Samuel 6:12–16.
+[^15-12]: 2 Samuel 6:13 reads "When those who carried the ark of Yahweh had gone six steps, he sacrificed an ox and a fattened calf."
+[^15-13]: Hebrew *mekhurbal*, "clothed". In 2 Samuel 6:14 a similar word, *mekharker*, "dancing", is used: "David danced before Yahweh with all his might."
+[^15-14]: Hebrew *ephod*, here a simple linen garment worn by priests serving at the sanctuary (1 Samuel 2:18; 22:18), not the high priest's richly woven ephod (Exodus 28:6–14).

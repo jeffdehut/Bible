@@ -1724,3 +1724,173 @@
 [^21-9]: Builders' tools, used here as images of judgment: Jerusalem will be measured for destruction as Samaria and Ahab's dynasty were (compare Amos 7:7–9).
 [^21-10]: See 11:14.
 [^21-11]: Literally "He buried him".
+
+## Chapter 22
+
+*Status: draft*
+
+**1** Josiah was eight years old when he became king, and he reigned thirty-one years in Jerusalem.[^22-1] His mother's name was Jedidah daughter of Adaiah, from Bozkath.
+
+**2** He did what was right in the eyes of Yahweh[^22-2] and walked in all the way of his ancestor[^22-3] David. He did not turn aside to the right or to the left.
+
+**3** In the eighteenth year of King Josiah, the king sent Shaphan son of Azaliah son of Meshullam, the secretary, to the house of Yahweh, saying,
+
+**4** "Go up to Hilkiah the high priest and have him total up[^22-4] the money that has been brought into the house of Yahweh, which the doorkeepers[^22-5] have collected from the people.
+
+**5** Let them hand it over[^22-6] to the men doing the work, who have been put in charge of the house of Yahweh, and let them pay it to the workers in the house of Yahweh to repair the damage to the house,
+
+**6** to the carpenters, the builders and the masons, and for buying timber and dressed stone to repair the house.
+
+**7** But no accounting is to be required of them for the money handed over to them, for they deal honestly."
+
+**8** Hilkiah the high priest said to Shaphan the secretary, "I have found the book of the Law[^22-7] in the house of Yahweh." Hilkiah gave the book to Shaphan, and he read it.
+
+**9** Then Shaphan the secretary came to the king and reported to him: "Your servants have emptied out[^22-8] the money that was found in the house and have handed it over to the men doing the work, who have been put in charge of the house of Yahweh."
+
+**10** Shaphan the secretary also told the king, "Hilkiah the priest has given me a book." And Shaphan read it aloud before the king.
+
+**11** When the king heard the words of the book of the Law, he tore his clothes.
+
+**12** The king commanded Hilkiah the priest, Ahikam son of Shaphan, Achbor son of Micaiah, Shaphan the secretary and Asaiah the king's servant,[^22-9]
+
+**13** "Go and inquire of Yahweh for me, for the people and for all Judah, about the words of this book that has been found. For great is the wrath of Yahweh that has been kindled against us, because our ancestors did not listen to the words of this book, to do all that is written concerning us."
+
+**14** So Hilkiah the priest, Ahikam, Achbor, Shaphan and Asaiah went to Huldah the prophet, the wife of Shallum son of Tikvah son of Harhas,[^22-10] the keeper of the wardrobe. She lived in Jerusalem, in the Second Quarter.[^22-11] They spoke with her,
+
+**15** and she said to them, "This is what Yahweh, the God of Israel, says: Tell the man who sent you to me,
+
+**16** 'This is what Yahweh says: I am going to bring disaster on this place and on its inhabitants, all the words of the book that the king of Judah has read.
+
+**17** Because they have abandoned me and burned incense to other gods, provoking me to anger with all the work of their hands, my wrath will be kindled against this place, and it will not be quenched.'
+
+**18** But to the king of Judah, who sent you to inquire of Yahweh, say this: 'This is what Yahweh, the God of Israel, says: As for the words you have heard,
+
+**19** because your heart was tender and you humbled yourself before Yahweh when you heard what I spoke against this place and against its inhabitants, that they would become a desolation and a curse, and because you tore your clothes and wept before me, I too have heard you, declares Yahweh.
+
+**20** Therefore I will gather you to your ancestors, and you will be gathered to your grave in peace. Your eyes will not see all the disaster I am going to bring on this place.'" And they brought back word to the king.
+
+[^22-1]: The account of Josiah's reign in 22:1–23:30 is parallel to 2 Chronicles 34–35.
+[^22-2]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles. "The house of Yahweh" is the temple.
+[^22-3]: Literally "his father".
+[^22-4]: Literally "complete". Perhaps "melt down" (compare verse 9).
+[^22-5]: Literally "the keepers of the threshold".
+[^22-6]: The Hebrew text is written "Let him hand it over" but read "Let them hand it over".
+[^22-7]: Hebrew *sefer ha-torah*, "the book of the instruction", here the law given through Moses. It is often thought to be a form of Deuteronomy (compare Deuteronomy 28:58–61; 31:24–26).
+[^22-8]: Or "melted down".
+[^22-9]: The title of a senior royal official.
+[^22-10]: Called Hasrah in 2 Chronicles 34:22.
+[^22-11]: Hebrew *ha-mishneh*, "the second", a newer district of Jerusalem (Zephaniah 1:10).
+
+## Chapter 23
+
+*Status: draft*
+
+**1** Then the king sent word, and all the elders of Judah and Jerusalem were gathered to him.
+
+**2** The king went up to the house of Yahweh,[^23-1] and with him went all the people of Judah and all the inhabitants of Jerusalem, the priests and the prophets, and all the people, from the least to the greatest. He read in their hearing all the words of the book of the covenant that had been found in the house of Yahweh.
+
+**3** The king stood by the pillar and made a covenant before Yahweh to follow Yahweh and to keep his commands, his statutes[^23-2] and his decrees with all his heart and all his soul, to carry out the words of this covenant that were written in this book. And all the people committed themselves to the covenant.[^23-3]
+
+**4** The king commanded Hilkiah the high priest, the priests of the second rank and the doorkeepers[^23-4] to bring out of the temple of Yahweh all the objects made for Baal, for Asherah and for all the host of heaven.[^23-5] He burned them outside Jerusalem in the fields of the Kidron, and he carried their ashes to Bethel.
+
+**5** He did away with the idolatrous priests[^23-6] whom the kings of Judah had appointed to burn incense[^23-7] at the high places[^23-8] in the towns of Judah and around Jerusalem, and those who burned incense to Baal, to the sun and the moon, to the constellations[^23-9] and to all the host of heaven.
+
+**6** He brought the Asherah pole[^23-10] out of the house of Yahweh to the Kidron Valley outside Jerusalem. He burned it in the Kidron Valley, ground it to dust and threw its dust on the graves of the common people.
+
+**7** He tore down the quarters of the male shrine prostitutes[^23-11] that were in the house of Yahweh, where the women wove coverings[^23-12] for Asherah.
+
+**8** He brought all the priests from the towns of Judah, and he defiled the high places where the priests had burned incense, from Geba to Beersheba. He tore down the high places of the gates, which were at the entrance of the gate of Joshua the governor of the city, on the left as one goes through the city gate.
+
+**9** However, the priests of the high places did not go up to the altar of Yahweh in Jerusalem, but they ate unleavened bread among their fellow priests.[^23-13]
+
+**10** He defiled Topheth,[^23-14] which is in the Valley of Ben-hinnom,[^23-15] so that no one could make his son or his daughter pass through the fire to Molech.[^23-16]
+
+**11** He removed the horses that the kings of Judah had dedicated to the sun from the entrance to the house of Yahweh, by the room of Nathan-melech the official, which was in the precincts.[^23-17] And he burned the chariots of the sun with fire.
+
+**12** The king tore down the altars that the kings of Judah had made on the roof, by the upper room of Ahaz, and the altars that Manasseh had made in the two courtyards of the house of Yahweh. He smashed them there[^23-18] and threw their dust into the Kidron Valley.
+
+**13** The king also defiled the high places that were east of Jerusalem, south of the Mount of Destruction,[^23-19] which Solomon king of Israel had built for Ashtoreth the detestable god of the Sidonians, for Chemosh the detestable god of Moab and for Milcom the abomination of the Ammonites.[^23-20]
+
+**14** He smashed the standing stones,[^23-21] cut down the Asherah poles and filled their places with human bones.
+
+**15** Even the altar at Bethel, the high place made by Jeroboam son of Nebat, who caused Israel to sin, even that altar and the high place he tore down. He burned the high place and ground it to dust, and he burned the Asherah pole.
+
+**16** As Josiah turned around, he saw the tombs that were there on the hillside. He sent men and took the bones from the tombs and burned them on the altar, and so defiled it, according to the word of Yahweh that the man of God proclaimed, who had foretold these things.[^23-22]
+
+**17** Then he said, "What is that grave marker I see?" The men of the city told him, "It is the tomb of the man of God who came from Judah and proclaimed these things that you have done against the altar of Bethel."
+
+**18** He said, "Leave him alone. Let no one disturb his bones." So they left his bones undisturbed, together with the bones of the prophet who had come from Samaria.[^23-23]
+
+**19** Josiah also removed all the shrines of the high places in the towns of Samaria, which the kings of Israel had made, provoking Yahweh to anger.[^23-24] He did to them just as he had done at Bethel.
+
+**20** He slaughtered[^23-25] all the priests of the high places who were there on the altars, and he burned human bones on them. Then he returned to Jerusalem.
+
+**21** The king commanded all the people, "Celebrate the Passover to Yahweh your God, as it is written in this book of the covenant."
+
+**22** No Passover like this had been celebrated since the days of the judges who judged Israel, or in all the days of the kings of Israel and the kings of Judah.
+
+**23** But in the eighteenth year of King Josiah this Passover was celebrated to Yahweh in Jerusalem.
+
+**24** Josiah also removed the mediums and the spiritists,[^23-26] the household gods,[^23-27] the idols[^23-28] and all the detestable things that were seen in the land of Judah and in Jerusalem, so as to carry out the words of the law written in the book that Hilkiah the priest had found in the house of Yahweh.
+
+**25** Before him there was no king like him, who turned to Yahweh with all his heart, with all his soul and with all his strength,[^23-29] in keeping with all the Law of Moses. And after him no one like him arose.
+
+**26** Yet Yahweh did not turn from the heat of his great anger, which burned against Judah because of all the ways in which Manasseh had provoked him.
+
+**27** Yahweh said, "I will remove Judah also from my presence, as I removed Israel, and I will reject this city that I chose, Jerusalem, and the house of which I said, 'My name will be there.'"
+
+**28** As for the rest of the acts of Josiah, and all that he did, are they not written in the book of the annals of the kings of Judah?
+
+**29** In his days Pharaoh Neco king of Egypt went up to the king of Assyria[^23-30] at the Euphrates River. King Josiah went to meet him, and Pharaoh killed him at Megiddo as soon as he saw him.
+
+**30** His servants carried his body in a chariot from Megiddo, brought him to Jerusalem and buried him in his own tomb. Then the people of the land[^23-31] took Jehoahaz son of Josiah, anointed him and made him king in place of his father.
+
+**31** Jehoahaz[^23-32] was twenty-three years old when he became king, and he reigned three months in Jerusalem. His mother's name was Hamutal daughter of Jeremiah, from Libnah.
+
+**32** He did what was evil in the eyes of Yahweh, just as his ancestors had done.
+
+**33** Pharaoh Neco put him in chains at Riblah in the land of Hamath, so that he would not reign[^23-33] in Jerusalem, and he imposed on the land a fine of a hundred talents of silver and a talent of gold.[^23-34]
+
+**34** Pharaoh Neco made Eliakim son of Josiah king in place of his father Josiah and changed his name to Jehoiakim. But he took Jehoahaz away, and Jehoahaz came to Egypt and died there.
+
+**35** Jehoiakim gave the silver and the gold to Pharaoh, but he taxed the land to give the money that Pharaoh demanded. He exacted the silver and the gold from the people of the land, from each according to his assessment, to give to Pharaoh Neco.
+
+**36** Jehoiakim was twenty-five years old when he became king, and he reigned eleven years in Jerusalem. His mother's name was Zebudah[^23-35] daughter of Pedaiah, from Rumah.
+
+**37** He did what was evil in the eyes of Yahweh, just as his ancestors had done.
+
+[^23-1]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles. "The house of Yahweh" is the temple.
+[^23-2]: Hebrew *edot*, traditionally "testimonies": the solemn terms of the covenant.
+[^23-3]: Literally "stood in the covenant".
+[^23-4]: Literally "the keepers of the threshold".
+[^23-5]: The sun, moon and stars, worshiped as gods. Also in verse 5.
+[^23-6]: Hebrew *kemarim*, a word used only of priests of other gods (Hosea 10:5; Zephaniah 1:4).
+[^23-7]: Or "burn offerings". The Hebrew verb *qatar* means to make something go up in smoke. Also in verse 8.
+[^23-8]: Hebrew *bamot*: places of worship, often on hilltops.
+[^23-9]: Hebrew *mazzalot*, perhaps the signs of the zodiac.
+[^23-10]: Hebrew *asherah*: a wooden pole or tree that was a symbol of the goddess Asherah. Also in verses 14–15.
+[^23-11]: Hebrew *qedeshim*, "consecrated ones": probably men who served at a shrine and took part in sexual acts as part of its worship (1 Kings 14:24). The exact practice is uncertain.
+[^23-12]: Literally "houses", perhaps hangings for a shrine, or garments for the image.
+[^23-13]: Literally "their brothers".
+[^23-14]: A place where children were burned as sacrifices (Jeremiah 7:31–32).
+[^23-15]: The Hebrew text is written "the Valley of the Sons of Hinnom" but read "the Valley of the Son of Hinnom", that is, Ben-hinnom. It lay south and west of Jerusalem.
+[^23-16]: That is, burn them as sacrifices to Molech, a god to whom children were offered (Leviticus 18:21).
+[^23-17]: Hebrew *parvarim*, a rare word, perhaps "colonnades" or "courts".
+[^23-18]: The Hebrew vowel points read "he ran from there". The same consonants can be read "he smashed them there".
+[^23-19]: Probably the Mount of Olives. Its name *har ha-mashchit*, "Mount of Destruction", may be a scornful play on *har ha-mishchah*, "Mount of Anointing" (oil). On a person facing east, "right" is south.
+[^23-20]: See 1 Kings 11:5–7.
+[^23-21]: Hebrew *matsevot*: standing stones set up as objects of worship.
+[^23-22]: See 1 Kings 13:1–3.
+[^23-23]: The old prophet who lived in Bethel (1 Kings 13:11–32). "Samaria" here means the northern kingdom.
+[^23-24]: Literally "to provoke". The Hebrew does not name Yahweh.
+[^23-25]: Literally "sacrificed".
+[^23-26]: Hebrew *ov* and *yidde'onim*: people who claimed to call up the spirits of the dead, or the spirits themselves.
+[^23-27]: Hebrew *terafim*, small images of gods kept in the home and used to seek oracles.
+[^23-28]: Hebrew *gillulim*: see 17:12.
+[^23-29]: Compare Deuteronomy 6:5.
+[^23-30]: Or "against the king of Assyria". The Hebrew word *al* can mean either. In 609 BC Neco was marching to support Assyria against Babylon.
+[^23-31]: See 11:14.
+[^23-32]: Also called Shallum (Jeremiah 22:11; 1 Chronicles 3:15).
+[^23-33]: The Hebrew text is written "when he reigned" but read "so that he would not reign".
+[^23-34]: A talent was about 75 pounds (34 kg). A hundred talents was about 3¾ tons (3.4 metric tons).
+[^23-35]: The Hebrew text is written "Zebidah" but read "Zebudah".

@@ -608,7 +608,7 @@
 [^9-1]: Hebrew *ben ish yemini*, "son of a man of Jemini", that is, a Benjaminite.
 [^9-2]: Hebrew *gibbor chayil*, which can mean a strong warrior or a man of wealth and influence.
 [^9-3]: Literally "From his shoulders and upward he was taller than all the people."
-[^9-4]: Hebrew *na'ar*, "young man", here a servant. Also in verses 5–8, 10, 22 and 27.
+[^9-4]: Hebrew *na'ar*, "young man", here a servant. Also in verses 5, 7–8, 10, 22 and 27.
 [^9-5]: Literally "tell us our way on which we have walked".
 [^9-6]: A shekel is about 2/5 ounce (11.5 grams), so a quarter of a shekel is about 1/10 ounce (3 grams).
 [^9-7]: Literally "Your word is good."
@@ -695,7 +695,7 @@
 [^10-5]: Hebrew *Giv'at ha-elohim*, "the hill of God".
 [^10-6]: Hebrew *netsiv*, which may mean a garrison, an officer or governor, or a pillar set up as a marker. Compare 13:3.
 [^10-7]: The harp (*nevel*) and the lyre (*kinnor*) were two kinds of stringed instrument.
-[^10-8]: Here the verb describes an ecstatic state, perhaps with music and movement. Also in verses 6 and 10–13.
+[^10-8]: Here the verb describes an ecstatic state, perhaps with music and movement. Also in verses 6, 10, 11 and 13.
 [^10-9]: Hebrew *tsalach*, "rush on, come powerfully on". Also in verse 10.
 [^10-10]: Literally "do for yourself what your hand finds".
 [^10-11]: Hebrew *zivchei shelamim*, traditionally "peace offerings". In these sacrifices most of the meat was eaten by the worshipers.
@@ -2080,7 +2080,7 @@
 [^26-3]: Hebrew *ma'gal*; see 17:20. Also in verse 7.
 [^26-4]: Zeruiah was David's sister (1 Chronicles 2:16).
 [^26-5]: Literally "let me strike him with the spear and into the ground once".
-[^26-6]: Hebrew *meshiach YHWH*, "the anointed one of Yahweh", that is, the king; see 2:10. Also in verses 11, 16 and 23.
+[^26-6]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles. "Yahweh's anointed" (Hebrew *meshiach YHWH*, "the anointed one of Yahweh") is the king; see 2:10. Also in verses 11, 16 and 23.
 [^26-7]: Literally "Far be it from me, from Yahweh".
 [^26-8]: Hebrew *tardemah*, as in Genesis 2:21 and 15:12.
 [^26-9]: Literally "you are sons of death".

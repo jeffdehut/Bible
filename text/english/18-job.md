@@ -934,3 +934,196 @@
 [^14-7]: Literally "a falling mountain withers". The Hebrew of this phrase is uncertain.
 [^14-8]: The Hebrew of this line is uncertain. Literally "its outpourings wash away the dust of the earth".
 [^14-9]: Literally "His flesh on him feels pain, and his soul on him mourns".
+
+## Chapter 15
+
+*Status: draft*
+
+**1** Then Eliphaz the Temanite answered:
+
+**2** "Should a wise man answer with windy knowledge and fill his belly with the east wind?
+
+**3** Should he argue with useless talk, with words that do no good?
+
+**4** But you are doing away with the fear of God[^15-1] and hindering devotion before God.
+
+**5** For your guilt teaches your mouth, and you choose the tongue of the crafty.
+
+**6** Your own mouth condemns you, not I; your own lips testify against you.
+
+**7** Were you the first human being ever born? Were you brought forth before the hills?
+
+**8** Do you listen in on the council of God?[^15-2] Do you keep wisdom to yourself?
+
+**9** What do you know that we do not know? What do you understand that is not with us as well?
+
+**10** Both the gray-haired and the aged are among us, older than your father.
+
+**11** Are the consolations of God too small for you, or a word spoken gently to you?
+
+**12** Why does your heart carry you away, and why do your eyes flash,[^15-3]
+
+**13** that you turn your spirit against God and let such words come out of your mouth?
+
+**14** What is a mortal, that he could be pure, or one born of woman, that he could be righteous?
+
+**15** If God puts no trust in his holy ones,[^15-4] and even the heavens are not pure in his sight,
+
+**16** how much less one who is detestable and corrupt, a man who drinks wickedness like water!
+
+**17** I will explain to you; listen to me, and let me tell what I have seen,
+
+**18** what wise men have declared, and have not hidden, what came from their fathers,
+
+**19** to whom alone the land was given, when no stranger passed among them.
+
+**20** The wicked man writhes in pain all his days, through all the years that are stored up for the ruthless.
+
+**21** The sound of terrors is in his ears; in time of peace the destroyer comes upon him.
+
+**22** He does not believe he will come back out of darkness; he is marked out for the sword.
+
+**23** He wanders about for bread: 'Where is it?'[^15-5] He knows that a day of darkness is ready at hand.
+
+**24** Distress and anguish terrify him; they overpower him like a king ready for the attack.[^15-6]
+
+**25** For he has stretched out his hand against God and defied the Almighty,[^15-7]
+
+**26** charging at him headlong,[^15-8] with the thick bosses of his shields.
+
+**27** For he has covered his face with his fat and put rolls of fat on his loins,
+
+**28** and he has lived in ruined cities, in houses no one should live in, which are destined to become heaps of rubble.
+
+**29** He will not grow rich, and his wealth will not last; his possessions will not spread over the land.[^15-9]
+
+**30** He will not escape the darkness; a flame will wither his shoots, and he will be swept away by the breath of his mouth.[^15-10]
+
+**31** Let him not trust in emptiness, deceiving himself, for emptiness will be his reward.
+
+**32** It will be paid in full before his time, and his branch will not be green.
+
+**33** He will be like a vine that drops its unripe grapes, like an olive tree that sheds its blossoms.
+
+**34** For the company of the godless is barren, and fire consumes the tents of bribery.
+
+**35** They conceive trouble and give birth to wickedness; their womb prepares deceit."
+
+[^15-1]: Literally "fear".
+[^15-2]: Hebrew *Eloah*, a poetic form of *Elohim*, "God", used often in Job. *Council* is Hebrew *sod*, the inner circle of God's advisers, or its secret counsel.
+[^15-3]: Hebrew *razam*, a verb found only here, perhaps "flash" or "wink".
+[^15-4]: The Hebrew text is written "his holy one" but read "his holy ones": heavenly beings (compare 5:1).
+[^15-5]: The Greek Septuagint reads "he is appointed as food for vultures", reading *ayyah*, "kite, bird of prey", for *ayyeh*, "where?".
+[^15-6]: Hebrew *kidor*, a word found only here, perhaps "attack" or "battle".
+[^15-7]: Hebrew *Shaddai*, traditionally "the Almighty"; the meaning is uncertain.
+[^15-8]: Literally "with neck", that is, with head down or neck stiffened.
+[^15-9]: Hebrew *minlam*, a word found only here and of uncertain meaning: perhaps "their possessions" or "their ears of grain". Literally "and their *minlam* will not bend to the earth".
+[^15-10]: Probably the breath of God's mouth (compare 4:9). The Hebrew vowel points read "he will turn away". With a small change, the line reads "his blossom will be swept away by the wind".
+
+## Chapter 16
+
+*Status: draft*
+
+**1** Then Job answered:
+
+**2** "I have heard many things like these; you are all miserable comforters.
+
+**3** Is there no end to windy words? What drives you to keep answering?
+
+**4** I too could talk as you do, if you were in my place.[^16-1] I could string together words against you and shake my head at you.
+
+**5** I could strengthen you with my mouth, and the comfort of my lips would bring you relief.
+
+**6** If I speak, my pain is not relieved; and if I hold back, how much of it leaves me?
+
+**7** But now he has worn me out. You have devastated my whole household.[^16-2]
+
+**8** You have shriveled me up,[^16-3] and it has become a witness; my gauntness rises up against me and testifies to my face.
+
+**9** His anger has torn me, and he hates me; he gnashes his teeth at me. My enemy sharpens his eyes against me.
+
+**10** They open their mouths wide against me; they strike my cheeks in contempt; they mass together against me.
+
+**11** God hands me over to the unjust[^16-4] and throws me into the hands of the wicked.
+
+**12** I was at ease, but he shattered me; he seized me by the neck and dashed me to pieces. He set me up as his target;
+
+**13** his archers[^16-5] surround me. He pierces my kidneys and does not spare; he pours out my gall on the ground.
+
+**14** He breaks through me, breach after breach; he charges at me like a warrior.
+
+**15** I have sewn sackcloth over my skin and buried my horn[^16-6] in the dust.
+
+**16** My face is red with weeping, and deep darkness[^16-7] is on my eyelids,
+
+**17** although there is no violence in my hands, and my prayer is pure.
+
+**18** O earth, do not cover my blood; let my cry find no resting place.
+
+**19** Even now, look, my witness is in heaven, and the one who testifies for me[^16-8] is on high.
+
+**20** My friends scorn me;[^16-9] my eye pours out tears to God.[^16-10]
+
+**21** Let him argue a man's case with God, as a person does for his friend.[^16-11]
+
+**22** For only a few years will pass, and I will go the way of no return.
+
+[^16-1]: Literally "if your soul were in place of my soul".
+[^16-2]: Literally "my whole company". In verses 7–14 Job speaks of God as "he" and to him as "you", moving between the two.
+[^16-3]: Hebrew *qamat*, a rare verb: perhaps "shrivel" or "seize".
+[^16-4]: Hebrew *awil*, probably "the unjust". In 19:18 and 21:11 the same word means "young child".
+[^16-5]: Or "his many", "his troops".
+[^16-6]: A symbol of strength and dignity.
+[^16-7]: Hebrew *tsalmavet*, "deep darkness", traditionally read as "the shadow of death".
+[^16-8]: Hebrew *sahadi*, an Aramaic word for "my witness".
+[^16-9]: The Hebrew of this line is uncertain. Literally "my scorners, my friends". Hebrew *melitsai* can also mean "my spokesmen" or "my intercessors": "My intercessor is my friend". Who the witness of verse 19 is, and who would argue for Job in verse 21, is not said.
+[^16-10]: Hebrew *Eloah*, a poetic form of *Elohim*, "God", used often in Job. Also in verse 21.
+[^16-11]: Literally "and a son of man for his friend".
+
+## Chapter 17
+
+*Status: draft*
+
+**1** "My spirit is broken; my days are snuffed out; the grave awaits me.[^17-1]
+
+**2** Surely mockers are all around me, and my eye must dwell on their provocation.
+
+**3** Give a pledge for me, please, with yourself.[^17-2] Who else will shake hands to guarantee me?[^17-3]
+
+**4** For you have closed their minds to understanding;[^17-4] so you will not let them triumph.
+
+**5** One who denounces his friends for gain,[^17-5] the eyes of his children will fail.
+
+**6** He has made me a byword among the peoples; I have become one in whose face people spit.[^17-6]
+
+**7** My eye has grown dim with grief, and all my limbs are like a shadow.
+
+**8** The upright are appalled at this, and the innocent are stirred up against the godless.
+
+**9** Yet the righteous hold to their way, and those with clean hands grow stronger and stronger.
+
+**10** But as for all of you, come back again, please! I will not find a wise man among you.
+
+**11** My days are past; my plans are broken off, the desires of my heart.[^17-7]
+
+**12** They turn night into day: 'Light is near,' they say, in the face of darkness.[^17-8]
+
+**13** If I look to Sheol[^17-9] as my home, if I spread out my bed in darkness,
+
+**14** if I say to the pit,[^17-10] 'You are my father,' and to the worm, 'My mother,' or 'My sister,'
+
+**15** where then is my hope? Who can see any hope for me?
+
+**16** Will it go down to the bars of Sheol?[^17-11] Shall we rest together in the dust?"
+
+[^17-1]: Literally "graves are for me".
+[^17-2]: Job speaks to God. Literally "Set, please, pledge me with yourself".
+[^17-3]: Literally "Who is he who will strike my hand?", a gesture of guaranteeing someone's debt (Proverbs 6:1; 17:18).
+[^17-4]: Literally "hidden their heart from insight".
+[^17-5]: The Hebrew of this line is uncertain. Literally "For a portion he informs on friends". Or "He invites friends to share his portion, while…".
+[^17-6]: Hebrew *tofet*, "spitting". Literally "I will be a spitting in the face". The Hebrew of this phrase is uncertain.
+[^17-7]: Literally "the possessions of my heart".
+[^17-8]: The Hebrew of this line is uncertain. Literally "light is near from the face of darkness". Or "light is nearer than darkness".
+[^17-9]: Hebrew *Sheol*, the realm of the dead. Also in verse 16.
+[^17-10]: Or "to corruption". Hebrew *shachat*.
+[^17-11]: Literally "They will go down to the bars of Sheol", that is, his hopes. The Hebrew of this verse is uncertain. *Bars* may instead mean "limbs" or "parts".

@@ -180,7 +180,12 @@ from the Hebrew.
   say just "some manuscripts" in the Old Testament. Every note citing an ancient version is
   verified against a critical apparatus (BHS/BHQ, Göttingen or Rahlfs Septuagint) at the
   *checked* stage.
-- A ketiv/qere that changes the form of a name (Janim/Janum) is noted.
+- A ketiv/qere that changes the form of a name (Janim/Janum) is noted; one that only changes
+  word order is noted only if the English would differ. Where the Septuagint arranges a whole
+  passage differently (as in 1 Kings 20–21, Jeremiah, Proverbs 24–31), one note at the start of
+  the passage says so.
+- Within a chapter, a speech's quotation is opened once and closed once; it isn't reopened at
+  each verse. A "list" for the numbers rule is the paragraph its numbers belong to.
 - Technical terms (tabernacle furnishings, sacrifices, priestly garments) get a full note at
   their first occurrence in a book. Later chapters give a short note only where a reader needs
   it, pointing back: "See 25:17."

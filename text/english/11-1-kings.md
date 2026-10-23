@@ -255,8 +255,8 @@
 [^2-9]: That is, he made himself guilty of their blood.
 [^2-10]: Hebrew *Sheol*, the realm of the dead. Also in verse 9.
 [^2-11]: Hebrew *chesed*: loyal, faithful love.
-[^2-12]: Literally "they came near to me", that is, with help (2 Samuel 17:27–29; 19:31–39).
-[^2-13]: See 2 Samuel 16:5–13; 19:16–23.
+[^2-12]: Literally "they came near to me", that is, with help (2 Samuel 17:27–29; 19:32–40, English 19:31–39).
+[^2-13]: See 2 Samuel 16:5–13; 19:17–24 (English 19:16–23).
 [^2-14]: Literally "lay down with his fathers", a way of speaking of death.
 [^2-15]: The fortress of Zion, the oldest part of Jerusalem, which David captured (2 Samuel 5:7, 9).
 [^2-16]: Literally "And the days that David reigned over Israel were forty years."
@@ -615,7 +615,7 @@
 [^6-19]: Literally "I will establish my word with you, which I spoke to David your father." See 2 Samuel 7:12–16.
 [^6-20]: Hebrew *shakhan*, "dwell", the verb from which *mishkan*, "tabernacle", comes.
 [^6-21]: Literally "up to the walls of the ceiling".
-[^6-22]: Hebrew *berosh*, a tall conifer: perhaps the cypress or the juniper (5:22). Also in verse 34.
+[^6-22]: Hebrew *berosh*, a tall conifer: perhaps the cypress or the juniper (5:22, English 5:8). Also in verse 34.
 [^6-23]: Literally "up to the walls".
 [^6-24]: Literally "the holy of holies".
 [^6-25]: The Hebrew word translated "in front of it" (*lifnai*) is unusual, and the meaning is uncertain.
@@ -650,7 +650,7 @@
 
 **5** All the doorways and doorposts had square frames, with window facing window three times.[^7-6]
 
-**6** He made the Hall of Pillars fifty cubits long and thirty cubits wide. There was a porch in front of it, with pillars and a canopy[^7-7] in front of them.
+**6** He made the Hall of Pillars fifty cubits long and thirty cubits wide. There was a porch in front of the pillars, with pillars and a canopy[^7-7] in front of them.
 
 **7** He made the Hall of the Throne where he was to judge, the Hall of Judgment. It was lined with cedar from floor to floor.[^7-8]
 
@@ -754,7 +754,7 @@
 [^7-10]: Hebrew *gazit*: stone cut and dressed to shape. Also in verses 11 and 12.
 [^7-11]: Hebrew *tefachot*, perhaps the top course of the wall, or the eaves.
 [^7-12]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles. "The house of Yahweh" is the temple.
-[^7-13]: Not King Hiram of Tyre (5:15), but a craftsman with the same name. In 2 Chronicles 2:12 (English 2:13) he is called Huram-abi.
+[^7-13]: Not King Hiram of Tyre (5:15, English 5:1), but a craftsman with the same name. In 2 Chronicles 2:12 (English 2:13) he is called Huram-abi.
 [^7-14]: 2 Chronicles 2:13 (English 2:14) says his mother was from the tribe of Dan.
 [^7-15]: Or "copper". Hebrew *nechoshet* means both.
 [^7-16]: Literally "formed".
@@ -959,7 +959,7 @@
 [^8-15]: Literally "keep their way".
 [^8-16]: The Hebrew text is written "your words" but read "your word".
 [^8-17]: Literally "the heavens and the heaven of heavens".
-[^8-18]: Literally "and he lifts against him a curse to curse him": the accused is made to swear an oath that calls down a curse on himself if he is guilty (Exodus 22:10–11; Numbers 5:19–22).
+[^8-18]: Literally "and he lifts against him a curse to curse him": the accused is made to swear an oath that calls down a curse on himself if he is guilty (Exodus 22:9–10, English 22:10–11; Numbers 5:19–22).
 [^8-19]: Literally "declaring the wicked guilty … and declaring the righteous righteous".
 [^8-20]: Or "acknowledge your name". Also in verse 35.
 [^8-21]: Or "when you answer them". The Hebrew *ta'anem* can come from either verb.
@@ -1044,11 +1044,11 @@
 [^9-5]: Literally "a proverb and a sharp saying".
 [^9-6]: Literally "And this house will be high". The sense is uncertain. Compare 2 Chronicles 7:21.
 [^9-7]: Or "whistle", a sound of shock or scorn.
-[^9-8]: Hebrew *berosh*, a tall conifer: perhaps the cypress or the juniper (5:22).
+[^9-8]: Hebrew *berosh*, a tall conifer: perhaps the cypress or the juniper (5:22, English 5:8).
 [^9-9]: Literally "they were not right in his eyes".
 [^9-10]: *Cabul* sounds like a Hebrew phrase meaning "like nothing". A town named Cabul lay in the territory of Asher (Joshua 19:27).
 [^9-11]: A talent was about 75 pounds (34 kg), so 120 talents was about 9,000 pounds (4,100 kg).
-[^9-12]: Hebrew *mas*: work gangs conscripted to labor for the king (4:6; 5:27).
+[^9-12]: Hebrew *mas*: work gangs conscripted to labor for the king (4:6; 5:27, English 5:13).
 [^9-13]: Hebrew *millo*, "filling": probably a terrace or earthwork supporting buildings in the City of David. Also in verse 24.
 [^9-14]: Hebrew *shilluchim*, a parting gift given to a bride by her father.
 [^9-15]: The Hebrew text is written "Tamar" but read "Tadmor". Tamar was a town in the south of Judah (Ezekiel 47:19); Tadmor was the oasis city later called Palmyra, in the Syrian desert (2 Chronicles 8:4).
@@ -1370,7 +1370,7 @@
 [^12-6]: Probably whips with barbs or spikes. Also in verse 14.
 [^12-7]: Literally "for it was a turn of affairs from Yahweh". *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
 [^12-8]: That is, they went home.
-[^12-9]: Called Adoniram in 4:6 and 5:28. Hebrew *mas*: work gangs conscripted to labor for the king.
+[^12-9]: Called Adoniram in 4:6 and 5:28 (English 5:14). Hebrew *mas*: work gangs conscripted to labor for the king.
 [^12-10]: "Man of God" is a title for a prophet.
 [^12-11]: Literally "your brothers".
 [^12-12]: After this verse the Septuagint adds a long passage (often numbered 24a–z) that tells the story of Jeroboam's rise in a different form.
@@ -1559,11 +1559,11 @@
 [^14-15]: Hebrew *bamot*: places of worship, often on hilltops (3:2).
 [^14-16]: Hebrew *matsevot*: standing stones set up as objects of worship.
 [^14-17]: Or "every leafy tree".
-[^14-18]: Hebrew *qadesh*, "consecrated one": probably a man who served at a shrine and took part in sexual acts as part of its worship (Deuteronomy 23:18). The exact practice is uncertain.
+[^14-18]: Hebrew *qadesh*, "consecrated one": probably a man who served at a shrine and took part in sexual acts as part of its worship (Deuteronomy 23:18, English 23:17). The exact practice is uncertain.
 [^14-19]: Pharaoh Sheshonq I, who led a campaign into Judah and Israel about 925 BC.
 [^14-20]: Literally "the runners": the king's bodyguard, who ran ahead of his chariot (1:5). Also in verse 28.
 [^14-21]: Literally "all the days".
-[^14-22]: Called Abijah in 2 Chronicles 12:16–14:1.
+[^14-22]: Called Abijah in 2 Chronicles 13.
 
 ## Chapter 15
 
@@ -2235,7 +2235,7 @@
 
 **22** He said, 'I will go out and be a lying spirit in the mouth of all his prophets.' Yahweh said, 'You will entice him, and you will succeed. Go and do it.'
 
-**23** So now, Yahweh has put a lying spirit in the mouth of all these prophets of yours. Yahweh has decreed disaster for you."[^22-8]
+**23** So now, Yahweh has put a lying spirit in the mouth of all these prophets of yours. Yahweh has pronounced disaster against you."[^22-8]
 
 **24** Then Zedekiah son of Chenaanah came up and struck Micaiah on the cheek and said, "Which way did the Spirit of Yahweh go when he left me to speak to you?"
 

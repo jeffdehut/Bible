@@ -718,3 +718,184 @@
 [^10-10]: Literally "Each man to your tents, Israel!", that is, go home. Compare 2 Samuel 20:1.
 [^10-11]: Called Adoniram in 1 Kings 4:6 and 5:28, and Adoram in 1 Kings 12:18.
 [^10-12]: Hebrew *mas*: work gangs conscripted to labor for the king (8:8).
+
+## Chapter 11
+
+*Status: draft*
+
+**1** When Rehoboam arrived in Jerusalem, he assembled the house of Judah and Benjamin, 180,000 chosen warriors,[^11-1] to fight against Israel and restore the kingdom to Rehoboam.
+
+**2** But the word of Yahweh[^11-2] came to Shemaiah the man of God:
+
+**3** "Say to Rehoboam son of Solomon king of Judah, and to all Israel in Judah and Benjamin,
+
+**4** 'This is what Yahweh says: Do not go up or fight against your brothers. Go home, every one of you, for this has come about from me.'" So they listened to the words of Yahweh and turned back from going against Jeroboam.
+
+**5** Rehoboam lived in Jerusalem, and he built cities for defense in Judah.
+
+**6** He built Bethlehem, Etam, Tekoa,
+
+**7** Beth-zur, Soco, Adullam,
+
+**8** Gath, Mareshah, Ziph,
+
+**9** Adoraim, Lachish, Azekah,
+
+**10** Zorah, Aijalon and Hebron, which are in Judah and Benjamin, fortified cities.
+
+**11** He strengthened the fortresses and put commanders in them, with stores of food, oil and wine.
+
+**12** In every city he put large shields and spears, and he made them very strong. So Judah and Benjamin were his.
+
+**13** The priests and the Levites who were in all Israel came over to him from all their territories.
+
+**14** The Levites left their pasturelands[^11-3] and their property and came to Judah and Jerusalem, because Jeroboam and his sons had rejected them from serving as priests of Yahweh.
+
+**15** He appointed his own priests for the high places,[^11-4] for the goat-demons[^11-5] and for the calves he had made.[^11-6]
+
+**16** After them,[^11-7] those from all the tribes of Israel who had set their hearts on seeking Yahweh, the God of Israel, came to Jerusalem to sacrifice to Yahweh, the God of their ancestors.
+
+**17** They strengthened the kingdom of Judah, and they supported Rehoboam son of Solomon for three years, for they walked in the way of David and Solomon for three years.
+
+**18** Rehoboam married Mahalath daughter[^11-8] of Jerimoth son of David, and of Abihail[^11-9] daughter of Eliab son of Jesse.
+
+**19** She bore him sons: Jeush, Shemariah and Zaham.
+
+**20** After her he married Maacah daughter of Absalom,[^11-10] and she bore him Abijah, Attai, Ziza and Shelomith.
+
+**21** Rehoboam loved Maacah daughter of Absalom more than all his other wives and concubines.[^11-11] He had married eighteen wives and taken sixty concubines, and he fathered twenty-eight sons and sixty daughters.
+
+**22** Rehoboam appointed Abijah son of Maacah as chief, the leader among his brothers, for he intended to make him king.
+
+**23** He acted wisely and distributed some of his sons through all the districts of Judah and Benjamin, in all the fortified cities. He gave them abundant provisions and sought many wives for them.[^11-12]
+
+[^11-1]: Literally "chosen men doing war". Verses 1–4 parallel 1 Kings 12:21–24.
+[^11-2]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^11-3]: Hebrew *migrash*: the open land around the Levites' towns, used for grazing (Numbers 35:2–5).
+[^11-4]: Hebrew *bamot*: places of worship, often on hilltops.
+[^11-5]: Hebrew *se'irim*, "hairy ones, goats": demons or idols thought to live in the wilderness (Leviticus 17:7).
+[^11-6]: The gold calves Jeroboam set up at Bethel and Dan (1 Kings 12:28–33).
+[^11-7]: That is, following the priests and the Levites.
+[^11-8]: The Hebrew text is written "son" but read "daughter".
+[^11-9]: Probably Mahalath's mother. Some take Abihail as a second wife of Rehoboam.
+[^11-10]: In Hebrew "daughter" can mean any female descendant. 13:2 calls Abijah's mother Micaiah daughter of Uriel of Gibeah.
+[^11-11]: Hebrew *pilegesh*, a wife of lower status than a principal wife. Also later in the verse.
+[^11-12]: Literally "and he asked for a multitude of wives".
+
+## Chapter 12
+
+*Status: draft*
+
+**1** When Rehoboam's kingdom was established and he had become strong, he abandoned the law of Yahweh,[^12-1] and all Israel with him.
+
+**2** In the fifth year of King Rehoboam, Shishak[^12-2] king of Egypt came up against Jerusalem, because they had been unfaithful[^12-3] to Yahweh,
+
+**3** with 1,200 chariots and sixty thousand horsemen.[^12-4] The people who came with him from Egypt were beyond number: Libyans, Sukkites[^12-5] and Cushites.[^12-6]
+
+**4** He captured the fortified cities of Judah and came as far as Jerusalem.
+
+**5** Then Shemaiah the prophet came to Rehoboam and the leaders of Judah, who had gathered at Jerusalem because of Shishak, and he said to them, "This is what Yahweh says: You have abandoned me, so I have abandoned you into the hand of Shishak."
+
+**6** Then the leaders of Israel and the king humbled themselves and said, "Yahweh is righteous."
+
+**7** When Yahweh saw that they had humbled themselves, the word of Yahweh came to Shemaiah: "They have humbled themselves. I will not destroy them. I will soon give them some deliverance,[^12-7] and my wrath will not be poured out on Jerusalem by the hand of Shishak.
+
+**8** But they will become his servants, so that they may learn the difference between serving me and serving the kingdoms of other lands."[^12-8]
+
+**9** So Shishak king of Egypt came up against Jerusalem. He took the treasures of the house of Yahweh and the treasures of the king's house. He took everything. He also took the gold shields that Solomon had made.
+
+**10** King Rehoboam made bronze shields in their place and entrusted them to the commanders of the guard[^12-9] who kept the entrance of the king's house.
+
+**11** Whenever the king went into the house of Yahweh, the guards came and carried them, and then brought them back to the guardroom.
+
+**12** Because he humbled himself, the anger of Yahweh turned away from him, so as not to destroy him completely. Indeed, there was still some good in Judah.[^12-10]
+
+**13** King Rehoboam established himself firmly in Jerusalem and reigned. Rehoboam was forty-one years old when he became king, and he reigned seventeen years in Jerusalem, the city that Yahweh had chosen out of all the tribes of Israel to put his name there. His mother's name was Naamah the Ammonite.
+
+**14** He did what was evil, because he did not set his heart on seeking Yahweh.
+
+**15** As for the acts of Rehoboam, from first to last, are they not written in the records[^12-11] of Shemaiah the prophet and of Iddo the seer, in the genealogies?[^12-12] There were wars between Rehoboam and Jeroboam continually.[^12-13]
+
+**16** Rehoboam slept with his ancestors[^12-14] and was buried in the City of David. And his son Abijah[^12-15] became king in his place.
+
+[^12-1]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles. Verses 2–16 parallel 1 Kings 14:21–31, with additions.
+[^12-2]: Pharaoh Sheshonq I, who reigned about 945–924 BC.
+[^12-3]: Hebrew *ma'al*: to break faith, to betray a trust. A key word in Chronicles.
+[^12-4]: Or "horses". Hebrew *parashim*.
+[^12-5]: A people not otherwise known, perhaps from Libya.
+[^12-6]: People from Cush, the region south of Egypt (ancient Nubia).
+[^12-7]: Or "I will give them deliverance in a little while".
+[^12-8]: Literally "and they will know my service and the service of the kingdoms of the lands".
+[^12-9]: Literally "the runners", the king's bodyguard. Also in verse 11.
+[^12-10]: Literally "and also in Judah there were good things".
+[^12-11]: Literally "the words".
+[^12-12]: Literally "to be enrolled by genealogy". The meaning here is uncertain.
+[^12-13]: Literally "all the days".
+[^12-14]: Literally "lay down with his fathers", a way of speaking of death.
+[^12-15]: Called Abijam in 1 Kings 14:31 and 15:1–8.
+
+## Chapter 13
+
+*Status: draft*
+
+**1** In the eighteenth year of King Jeroboam, Abijah became king over Judah.[^13-1]
+
+**2** He reigned three years in Jerusalem. His mother's name was Micaiah daughter of Uriel of Gibeah.[^13-2] There was war between Abijah and Jeroboam.
+
+**3** Abijah went into battle with an army of valiant warriors, four hundred thousand chosen men, and Jeroboam drew up his battle line against him with eight hundred thousand chosen men, mighty warriors.[^13-3]
+
+**4** Abijah stood up on Mount Zemaraim, which is in the hill country of Ephraim, and said, "Listen to me, Jeroboam and all Israel!
+
+**5** Don't you know that Yahweh,[^13-4] the God of Israel, gave the kingship over Israel to David forever, to him and his sons, by a covenant of salt?[^13-5]
+
+**6** Yet Jeroboam son of Nebat, a servant of Solomon son of David, rose up and rebelled against his master.
+
+**7** Worthless men, scoundrels,[^13-6] gathered around him and prevailed against Rehoboam son of Solomon, when Rehoboam was young and inexperienced[^13-7] and could not stand up to them.
+
+**8** And now you think you can stand up to the kingdom of Yahweh, which is in the hands of the sons of David. You are a great multitude, and you have with you the gold calves that Jeroboam made to be your gods.
+
+**9** Haven't you driven out the priests of Yahweh, the sons of Aaron, and the Levites, and made priests for yourselves like the peoples of other lands? Whoever comes to be ordained[^13-8] with a young bull and seven rams becomes a priest of what are not gods.
+
+**10** But as for us, Yahweh is our God, and we have not abandoned him. Priests who are sons of Aaron minister to Yahweh, and the Levites are at their work.
+
+**11** Every morning and every evening they burn burnt offerings and fragrant incense to Yahweh. They set out the rows of bread on the pure table,[^13-9] and they light the gold lampstand with its lamps every evening. For we keep the charge of Yahweh our God,[^13-10] but you have abandoned him.
+
+**12** Look, God is with us at our head, and his priests with their battle trumpets to sound the alarm against you. Israelites, do not fight against Yahweh, the God of your ancestors, for you will not succeed."
+
+**13** But Jeroboam had sent an ambush around to come up behind them, so that his troops were in front of Judah and the ambush was behind them.
+
+**14** When Judah turned, there was the battle, in front of them and behind them. They cried out to Yahweh, and the priests blew the trumpets.
+
+**15** Then the men of Judah raised the battle cry. And when the men of Judah raised the battle cry, God struck down Jeroboam and all Israel before Abijah and Judah.
+
+**16** The Israelites fled before Judah, and God handed them over to them.
+
+**17** Abijah and his people struck them with a great slaughter, and five hundred thousand chosen men of Israel fell slain.
+
+**18** So the Israelites were subdued at that time, and the people of Judah prevailed, because they relied on Yahweh, the God of their ancestors.
+
+**19** Abijah pursued Jeroboam and took cities from him: Bethel and its villages,[^13-11] Jeshanah and its villages, and Ephrain[^13-12] and its villages.
+
+**20** Jeroboam did not regain his strength in the days of Abijah. Yahweh struck him down, and he died.
+
+**21** But Abijah grew strong. He married fourteen wives, and he fathered twenty-two sons and sixteen daughters.
+
+**22** The rest of the acts of Abijah, his ways and his sayings, are written in the commentary[^13-13] of the prophet Iddo.
+
+**23** Abijah slept with his ancestors,[^13-14] and they buried him in the City of David. And his son Asa became king in his place. In his days the land had peace for ten years.[^13-15]
+
+[^13-1]: Verses 1–2 and 22–23 parallel 1 Kings 15:1–2 and 7–8, where he is called Abijam.
+[^13-2]: 11:20 and 1 Kings 15:2 call his mother Maacah daughter of Absalom (Abishalom). The Septuagint here reads Maacah.
+[^13-3]: Hebrew *eleph*, "thousand", may also mean a military unit or a clan (Numbers 1:16), in which case the armies here and in verse 17 were much smaller.
+[^13-4]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^13-5]: That is, a lasting covenant that cannot be broken (Leviticus 2:13; Numbers 18:19).
+[^13-6]: Literally "empty men, sons of worthlessness (*beliyya'al*)".
+[^13-7]: Literally "a youth and soft of heart". Rehoboam was forty-one when he became king (12:13).
+[^13-8]: Literally "to fill his hand", the idiom for ordaining a priest (Exodus 28:41).
+[^13-9]: The bread of the Presence, set out in rows on the gold table (Leviticus 24:5–8).
+[^13-10]: That is, we carry out the duties he has given us.
+[^13-11]: Literally "its daughters". Also later in the verse.
+[^13-12]: The Hebrew text is written "Ephron" but read "Ephrain".
+[^13-13]: Hebrew *midrash*, "study" or "account". In the Bible the word appears only here and in 24:27.
+[^13-14]: Literally "lay down with his fathers", a way of speaking of death.
+[^13-15]: Verse 23 is 14:1 in most English Bibles.
