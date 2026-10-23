@@ -1,0 +1,108 @@
+# Isaiah
+
+> **Text:** Open Plain English Translation. License: CC BY 4.0. New Testament translated from the SBL Greek New Testament (CC BY 4.0, © 2010 Society of Biblical Literature and Logos Bible Software); Old Testament from the Unicode/XML Leningrad Codex (UXLC 2.6, Tanach.us).  
+> Chapters show their review status: *draft*, *checked*, *reviewed* or *approved*. See TRANSLATION.md.
+
+## Chapter 1
+
+*Status: draft*
+
+**1** The vision[^1-1] of Isaiah[^1-2] son of Amoz, which he saw concerning Judah and Jerusalem in the days of Uzziah, Jotham, Ahaz and Hezekiah, kings of Judah.[^1-3]
+
+**2** Hear, you heavens, and listen, you earth, for Yahweh[^1-4] has spoken:[^1-5] I raised children[^1-6] and brought them up, but they have rebelled against me.
+
+**3** The ox knows its owner, and the donkey its master's feeding trough, but Israel does not know; my people do not understand.
+
+**4** Woe to[^1-7] the sinful nation, a people weighed down with guilt, offspring of evildoers, children who act corruptly! They have abandoned Yahweh; they have despised the Holy One of Israel;[^1-8] they have turned their backs on him.[^1-9]
+
+**5** Why will you be beaten again?[^1-10] Why do you keep on rebelling? The whole head is sick, and the whole heart is faint.
+
+**6** From the sole of the foot to the head there is nothing sound in it: only wounds and welts and open sores. They have not been cleaned or bandaged, or soothed with oil.
+
+**7** Your land is a desolation; your cities are burned with fire. As for your fields, foreigners devour them before your eyes. It is desolate, as when foreigners overthrow a land.[^1-11]
+
+**8** Daughter Zion[^1-12] is left like a shelter in a vineyard, like a hut in a cucumber field, like a city under siege.[^1-13]
+
+**9** If Yahweh of Armies[^1-14] had not left us a few survivors,[^1-15] we would have been like Sodom; we would have resembled Gomorrah.
+
+**10** Hear the word of Yahweh, you rulers of Sodom! Listen to the instruction[^1-16] of our God, you people of Gomorrah!
+
+**11** What are all your sacrifices to me? says Yahweh. I have had more than enough of burnt offerings of rams and the fat of fattened animals. I take no pleasure in the blood of bulls, of lambs and of goats.
+
+**12** When you come to appear before me,[^1-17] who asked you to do this, to trample my courts?
+
+**13** Stop bringing worthless offerings![^1-18] Your incense is detestable to me. New moons and Sabbaths, the calling of assemblies: I cannot bear wickedness together with a solemn assembly.[^1-19]
+
+**14** Your new moons and your appointed festivals I hate with all my being.[^1-20] They have become a burden to me; I am tired of carrying them.
+
+**15** When you spread out your hands in prayer, I will hide my eyes from you. Even when you pray and pray, I am not listening. Your hands are full of blood.
+
+**16** Wash yourselves; make yourselves clean. Take your evil deeds out of my sight. Stop doing evil.
+
+**17** Learn to do good. Seek justice; correct the oppressor.[^1-21] Defend the rights of the fatherless;[^1-22] plead the widow's case.
+
+**18** Come now, let us settle this,[^1-23] says Yahweh. Though your sins are like scarlet, they will be as white as snow. Though they are red as crimson, they will become like wool.[^1-24]
+
+**19** If you are willing and obey, you will eat the good things of the land.
+
+**20** But if you refuse and rebel, you will be eaten by the sword.[^1-25] For the mouth of Yahweh has spoken.
+
+**21** How[^1-26] the faithful city has become a prostitute! She was full of justice; righteousness lived in her, but now murderers.
+
+**22** Your silver has become dross; your best wine[^1-27] is watered down.
+
+**23** Your rulers are rebels[^1-28] and companions of thieves. Every one of them loves a bribe and chases after gifts. They do not defend the rights of the fatherless, and the widow's case never comes before them.
+
+**24** Therefore the Lord[^1-29] Yahweh of Armies, the Mighty One of Israel,[^1-30] declares: Ah,[^1-31] I will get relief from my adversaries and take revenge on my enemies!
+
+**25** I will turn my hand against you. I will smelt away your dross as with lye and remove all your impurities.[^1-32]
+
+**26** I will restore your judges as at the first, and your counselors as at the beginning. After that you will be called the City of Righteousness, the Faithful City.
+
+**27** Zion will be redeemed by justice, and those in her who turn back,[^1-33] by righteousness.
+
+**28** But rebels and sinners will be crushed together, and those who abandon Yahweh will come to an end.
+
+**29** For you[^1-34] will be ashamed of the sacred oaks[^1-35] that you delighted in, and you will blush for the gardens that you chose.
+
+**30** For you will be like an oak whose leaves are withering, like a garden that has no water.
+
+**31** The strong one will become tinder,[^1-36] and his work a spark.[^1-37] Both of them will burn together, with no one to put out the fire.
+
+[^1-1]: Hebrew *chazon*, a revelation that a prophet "saw". The word gives its name to the whole book.
+[^1-2]: Hebrew *Yesha'yahu*, "Yahweh saves".
+[^1-3]: These kings reigned in the eighth century BC. Isaiah's call came in the year Uzziah died (6:1), about 740 BC, and his last dated words are from Hezekiah's reign (chapters 36–39), about 701 BC.
+[^1-4]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^1-5]: In Isaiah's poetry the words of the prophet and the words of Yahweh alternate, often with no marked change of speaker. As in Deuteronomy 32, Yahweh's words in the poems are not put in quotation marks.
+[^1-6]: Literally "sons". Also in verse 4.
+[^1-7]: Hebrew *hoy*, a cry of mourning for the dead ("Alas!", 1 Kings 13:30), used by the prophets to announce disaster. It is translated "Woe to" throughout this book.
+[^1-8]: A title of God found often in Isaiah and only rarely elsewhere (2 Kings 19:22; Psalm 71:22): the holy God who has bound himself to Israel.
+[^1-9]: Literally "they are estranged backward".
+[^1-10]: Or "Where can you be beaten again?" The body is already wounded everywhere (verse 6).
+[^1-11]: Literally "like an overthrow by foreigners". *Overthrow* is the word used for the destruction of Sodom and Gomorrah (Genesis 19:25; Deuteronomy 29:22, English 29:23), which are named in verses 9 and 10.
+[^1-12]: A poetic name for Jerusalem and its people, pictured as a young woman.
+[^1-13]: Or "like a guarded city", a watchman's post left standing alone.
+[^1-14]: Hebrew *YHWH tseva'ot*, traditionally "the LORD of hosts" or "the LORD Almighty". *Tseva'ot* means armies: the heavenly hosts and the armies of Israel. The title is used often in Isaiah. Also in verse 24.
+[^1-15]: Literally "a survivor, a little". Or "If Yahweh of Armies had not left us survivors, we would soon have been like Sodom". Romans 9:29 quotes this verse from the Greek Septuagint, which reads "offspring" (literally "seed").
+[^1-16]: Hebrew *torah*, "instruction, teaching, law".
+[^1-17]: Literally "to be seen at my face". The same consonants could be read "to see my face".
+[^1-18]: Hebrew *minchah*, "gift, tribute", in Leviticus a grain offering. Literally "offerings of emptiness".
+[^1-19]: Hebrew *atsarah*, a festive gathering for worship.
+[^1-20]: Hebrew *nephesh*, "soul, self". Literally "my soul hates them".
+[^1-21]: Or "set the oppressed free" or "lead the oppressed". The word translated *oppressor*, Hebrew *chamots*, is found only here. The Septuagint reads "rescue the one who is wronged".
+[^1-22]: Literally "judge the orphan". Also in verse 23.
+[^1-23]: Or "let us argue it out". The verb is a term from the law court. Traditionally "let us reason together".
+[^1-24]: Or "If your sins are like scarlet, can they be as white as snow? If they are red as crimson, can they become like wool?"
+[^1-25]: The same verb as *eat* in verse 19: they will either eat the land's good things or be eaten by the sword.
+[^1-26]: Hebrew *ekhah*, the opening cry of a funeral song, as in Lamentations 1:1.
+[^1-27]: Hebrew *sove*, "drink", probably fine wine or beer.
+[^1-28]: A play on words: *sarayikh sorerim*, "your rulers are rebels".
+[^1-29]: Hebrew *ha-adon*, "the Lord", a title, not the name Yahweh.
+[^1-30]: Hebrew *avir yisra'el*, found only here. Compare "the Mighty One of Jacob" (Genesis 49:24; Isaiah 49:26).
+[^1-31]: Hebrew *hoy*, the word translated "Woe to" in verse 4. Here it is a cry of grim resolve. *Get relief* is literally "comfort myself".
+[^1-32]: Hebrew *bedil*, tin or lead, metals separated from silver when it is refined.
+[^1-33]: Or "her captives who return". Hebrew *shavim* can mean those who repent or those who come back.
+[^1-34]: Literally "they". The Hebrew moves from "they" to "you" within the verse.
+[^1-35]: Or "terebinths". Large trees, and the gardens around them, were places of worship for other gods (57:5; 65:3).
+[^1-36]: Hebrew *ne'oret*, the coarse fibers left from beating flax, which catch fire at once.
+[^1-37]: Or "its maker". If the "work" is an idol, its maker and the idol burn together.

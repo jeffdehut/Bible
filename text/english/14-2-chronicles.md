@@ -1318,3 +1318,171 @@
 [^20-18]: Literally "the words".
 [^20-19]: Or "and in doing so he acted wickedly", referring to Jehoshaphat.
 [^20-20]: Compare 1 Kings 22:49–50 (English 22:48–49).
+
+## Chapter 21
+
+*Status: draft*
+
+**1** Jehoshaphat slept with his ancestors[^21-1] and was buried with his ancestors in the City of David. And his son Jehoram became king in his place.
+
+**2** He had brothers, sons of Jehoshaphat: Azariah, Jehiel, Zechariah, Azariah,[^21-2] Michael and Shephatiah. All these were sons of Jehoshaphat king of Israel.[^21-3]
+
+**3** Their father gave them many gifts of silver, gold and precious things, along with fortified cities in Judah, but he gave the kingdom to Jehoram, because he was the firstborn.
+
+**4** When Jehoram had taken over his father's kingdom and had made himself strong, he killed all his brothers with the sword, and also some of the leaders of Israel.
+
+**5** Jehoram was thirty-two years old when he became king, and he reigned eight years in Jerusalem.[^21-4]
+
+**6** He walked in the way of the kings of Israel, as the house of Ahab had done, for a daughter of Ahab was his wife. He did what was evil in the eyes of Yahweh.[^21-5]
+
+**7** But Yahweh was not willing to destroy the house of David, because of the covenant he had made with David, and since he had promised to give a lamp[^21-6] to him and to his descendants forever.
+
+**8** In his days Edom rebelled against Judah's rule[^21-7] and set up a king of their own.
+
+**9** So Jehoram crossed over with his commanders, and all his chariots with him.[^21-8] He rose by night and struck the Edomites who had surrounded him and the commanders of the chariots.
+
+**10** So Edom has been in rebellion against Judah's rule to this day. Libnah also rebelled against his rule at that time, because he had abandoned Yahweh, the God of his ancestors.
+
+**11** He also made high places[^21-9] in the hills of Judah, and he led the inhabitants of Jerusalem to be unfaithful[^21-10] and led Judah astray.
+
+**12** A letter came to him from Elijah the prophet, saying, "This is what Yahweh, the God of your ancestor David,[^21-11] says: Because you have not walked in the ways of your father Jehoshaphat or in the ways of Asa king of Judah,
+
+**13** but have walked in the way of the kings of Israel, and have led Judah and the inhabitants of Jerusalem to be unfaithful, as the house of Ahab did, and have also killed your brothers, your own father's family, who were better than you,
+
+**14** Yahweh is about to strike your people, your sons, your wives and all your possessions with a great blow.
+
+**15** And you yourself will suffer severe sickness, a disease of your bowels, until your bowels come out because of the disease, day after day."
+
+**16** Yahweh stirred up against Jehoram the spirit of the Philistines and of the Arabs who live near the Cushites.[^21-12]
+
+**17** They came up against Judah, broke into it and carried off all the possessions found in the king's house, and also his sons and his wives. Not a son was left to him except Jehoahaz,[^21-13] his youngest son.
+
+**18** After all this Yahweh struck him in his bowels with an incurable disease.
+
+**19** In the course of time, at the end of two years,[^21-14] his bowels came out because of his disease, and he died in great pain. His people made no fire in his honor like the fire made for his ancestors.[^21-15]
+
+**20** He was thirty-two years old when he became king, and he reigned eight years in Jerusalem. He passed away, and no one was sorry.[^21-16] They buried him in the City of David, but not in the tombs of the kings.
+
+[^21-1]: Literally "lay down with his fathers", a way of speaking of death.
+[^21-2]: The Hebrew has two forms of the name, *Azaryah* and *Azaryahu*.
+[^21-3]: Chronicles sometimes uses "Israel" for Judah (12:6).
+[^21-4]: Verses 5–10 parallel 2 Kings 8:17–22.
+[^21-5]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^21-6]: That is, a descendant on the throne to continue his line (1 Kings 11:36; 15:4).
+[^21-7]: Literally "from under the hand of Judah". Also in verse 10.
+[^21-8]: 2 Kings 8:21 reads "crossed over to Zair with all his chariots", and adds at the end of the verse "and the army fled to their homes".
+[^21-9]: Hebrew *bamot*: places of worship, often on hilltops.
+[^21-10]: Literally "caused the inhabitants of Jerusalem to prostitute themselves", a common image for unfaithfulness to Yahweh. Also in verse 13.
+[^21-11]: Literally "your father David".
+[^21-12]: Literally "who are beside the Cushites". Compare 14:8.
+[^21-13]: Called Ahaziah in 22:1. The two names have the same parts in reverse order and mean "Yahweh has taken hold".
+[^21-14]: Literally "and at the time when the end came out, two days". "Days" here probably means years.
+[^21-15]: See 16:14.
+[^21-16]: Literally "He went without desire."
+
+## Chapter 22
+
+*Status: draft*
+
+**1** The inhabitants of Jerusalem made Ahaziah, his youngest son, king in his place, for the raiding band that came with the Arabs to the camp had killed all the older sons. So Ahaziah son of Jehoram king of Judah became king.[^22-1]
+
+**2** Ahaziah was forty-two years old when he became king,[^22-2] and he reigned one year in Jerusalem. His mother's name was Athaliah daughter of Omri.[^22-3]
+
+**3** He too walked in the ways of the house of Ahab, for his mother was his counselor in doing evil.
+
+**4** He did what was evil in the eyes of Yahweh,[^22-4] as the house of Ahab had done, for after his father's death they were his counselors, to his ruin.
+
+**5** He also followed their advice and went with Jehoram son of Ahab king of Israel to war against Hazael king of Aram at Ramoth-gilead, and the Arameans wounded Joram.[^22-5]
+
+**6** He went back to Jezreel to recover from the wounds they had given him at Ramah,[^22-6] when he fought against Hazael king of Aram. And Azariah[^22-7] son of Jehoram king of Judah went down to Jezreel to see Jehoram son of Ahab, because he was sick.
+
+**7** Ahaziah's downfall came from God, through his visit to Joram. When he arrived, he went out with Jehoram to meet Jehu son of Nimshi,[^22-8] whom Yahweh had anointed to cut off the house of Ahab.
+
+**8** While Jehu was executing judgment on the house of Ahab, he found the leaders of Judah and the sons of Ahaziah's brothers, who were serving Ahaziah, and he killed them.[^22-9]
+
+**9** He searched for Ahaziah, and they captured him while he was hiding in Samaria. They brought him to Jehu and put him to death.[^22-10] They buried him, for they said, "He is the grandson[^22-11] of Jehoshaphat, who sought Yahweh with all his heart." So there was no one in the house of Ahaziah strong enough to rule the kingdom.
+
+**10** When Athaliah, Ahaziah's mother, saw that her son was dead, she set out to destroy[^22-12] the whole royal family[^22-13] of the house of Judah.[^22-14]
+
+**11** But Jehoshabeath,[^22-15] the king's daughter, took Joash son of Ahaziah and stole him away from among the king's sons who were being put to death. She put him and his nurse in the bedroom.[^22-16] So Jehoshabeath, the daughter of King Jehoram and the wife of Jehoiada the priest, since she was Ahaziah's sister, hid him from Athaliah, and Athaliah did not put him to death.
+
+**12** He remained with them, hidden in the house of God, for six years, while Athaliah reigned over the land.
+
+[^22-1]: Verses 1–6 parallel 2 Kings 8:24–29.
+[^22-2]: 2 Kings 8:26 gives his age as twenty-two. According to 21:20, his father died at the age of forty.
+[^22-3]: In Hebrew "daughter" can mean any female descendant. Athaliah was a daughter of Ahab (21:6), Omri's son.
+[^22-4]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^22-5]: Jehoram son of Ahab. *Joram* is a shorter form of the same name. Also in verse 7.
+[^22-6]: That is, Ramoth-gilead (verse 5).
+[^22-7]: That is, Ahaziah. The Septuagint and the Vulgate read "Ahaziah", as in 2 Kings 8:29.
+[^22-8]: Jehu was the son of Jehoshaphat son of Nimshi (2 Kings 9:2, 14).
+[^22-9]: Compare 2 Kings 10:12–14.
+[^22-10]: 2 Kings 9:27–28 tells his death differently: he was struck down near Ibleam, fled to Megiddo and died there, and his servants buried him in Jerusalem.
+[^22-11]: Literally "son".
+[^22-12]: Hebrew *va-tedabber*, an unusual word. 2 Kings 11:1 has *va-te'abbed*, "and she destroyed".
+[^22-13]: Literally "all the offspring of the kingdom".
+[^22-14]: Verses 10–12 parallel 2 Kings 11:1–3.
+[^22-15]: Called Jehosheba in 2 Kings 11:2. Also later in the verse.
+[^22-16]: Literally "the room of the beds", perhaps a storeroom for bedding.
+
+## Chapter 23
+
+*Status: draft*
+
+**1** In the seventh year Jehoiada took courage and made a covenant with the commanders of hundreds: Azariah son of Jeroham, Ishmael son of Jehohanan, Azariah son of Obed, Maaseiah son of Adaiah and Elishaphat son of Zichri.[^23-1]
+
+**2** They went around through Judah and gathered the Levites from all the cities of Judah, and the heads of the ancestral families[^23-2] of Israel, and they came to Jerusalem.
+
+**3** The whole assembly made a covenant with the king in the house of God. Jehoiada said to them, "Here is the king's son! He shall reign, as Yahweh[^23-3] promised concerning the sons of David.
+
+**4** This is what you are to do. A third of you, priests and Levites who come on duty on the Sabbath, are to be gatekeepers at the thresholds,
+
+**5** a third are to be at the king's palace, and a third at the Foundation Gate,[^23-4] and all the people are to be in the courtyards of the house of Yahweh.
+
+**6** No one is to enter the house of Yahweh except the priests and those of the Levites who minister. They may enter, for they are holy, but all the people are to keep the charge of Yahweh.[^23-5]
+
+**7** The Levites are to surround the king on every side, each man with his weapons in his hand. Anyone who enters the house is to be put to death. Stay with the king wherever he goes."[^23-6]
+
+**8** The Levites and all Judah did everything Jehoiada the priest commanded. Each took his men, those coming on duty on the Sabbath together with those going off duty on the Sabbath, for Jehoiada the priest had not dismissed the divisions.
+
+**9** Jehoiada the priest gave the commanders of hundreds the spears, the small shields and the quivers[^23-7] that had belonged to King David, which were in the house of God.
+
+**10** He stationed all the people, each man with his weapon in his hand, from the south side of the house to the north side,[^23-8] by the altar and the house, all around the king.
+
+**11** Then they brought out the king's son and put the crown on him and gave him the statutes,[^23-9] and they made him king. Jehoiada and his sons anointed him, and they said, "Long live the king!"
+
+**12** When Athaliah heard the noise of the people running and praising the king, she came to the people at the house of Yahweh.
+
+**13** She looked, and there was the king, standing by his pillar at the entrance. The commanders and the trumpeters were beside the king, and all the people of the land[^23-10] were rejoicing and blowing trumpets, and the singers with their musical instruments were leading the praise. Athaliah tore her clothes and cried out, "Treason! Treason!"
+
+**14** Jehoiada the priest brought out the commanders of hundreds, who were in charge of the army, and said to them, "Bring her out between the ranks,[^23-11] and put to death with the sword anyone who follows her." For the priest had said, "Do not put her to death in the house of Yahweh."
+
+**15** So they seized her,[^23-12] and she went into the entrance of the Horse Gate of the king's palace, and there they put her to death.
+
+**16** Jehoiada made a covenant between himself and all the people and the king, that they would be Yahweh's people.[^23-13]
+
+**17** Then all the people went to the temple of Baal and tore it down. They smashed its altars and its images, and they killed Mattan the priest of Baal in front of the altars.
+
+**18** Jehoiada put the oversight of the house of Yahweh into the hands of the Levitical priests,[^23-14] whom David had organized in divisions over the house of Yahweh, to offer the burnt offerings of Yahweh as it is written in the Law of Moses, with rejoicing and singing, as David had directed.[^23-15]
+
+**19** He stationed the gatekeepers at the gates of the house of Yahweh, so that no one who was unclean in any way could enter.
+
+**20** He took the commanders of hundreds, the nobles, the rulers of the people and all the people of the land, and he brought the king down from the house of Yahweh. They went through the Upper Gate to the king's palace, and they seated the king on the royal throne.
+
+**21** All the people of the land rejoiced, and the city was quiet, for they had put Athaliah to death with the sword.
+
+[^23-1]: Verses 1–21 parallel 2 Kings 11:4–20.
+[^23-2]: Literally "the heads of the fathers".
+[^23-3]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^23-4]: 2 Kings 11:6 has "the Sur Gate".
+[^23-5]: That is, observe what Yahweh requires and stay outside.
+[^23-6]: Literally "in his coming in and in his going out".
+[^23-7]: Hebrew *shelatim*, perhaps "quivers" or another kind of shield. 2 Kings 11:10 mentions only "the spears and the *shelatim*".
+[^23-8]: Literally "from the right shoulder of the house to the left shoulder of the house". Facing east, the right hand is south.
+[^23-9]: Hebrew *edut*, traditionally "the testimony": the solemn terms of the covenant, perhaps in a written copy.
+[^23-10]: Hebrew *am ha-arets*, the landowning citizens of Judah, who often took part in choosing the king. Also in verses 20–21.
+[^23-11]: Or "out of the temple area".
+[^23-12]: Or "they made way for her". Literally "they put hands to her".
+[^23-13]: 2 Kings 11:17 reads "between Yahweh and the king and the people".
+[^23-14]: Literally "the priests, the Levites".
+[^23-15]: Literally "by the hands of David".

@@ -1876,3 +1876,294 @@
 [^28-22]: Or "appraised it", "counted it".
 [^28-23]: Hebrew *Adonai*, "Lord", used of God only here in Job.
 [^28-24]: The words echo the description of Job in 1:1: he "feared God and turned away from evil". Compare Proverbs 1:7; 9:10.
+
+## Chapter 29
+
+*Status: draft*
+
+**1** Job took up his discourse again:[^29-1]
+
+**2** "If only I were as in the months gone by, as in the days when God[^29-2] watched over me,
+
+**3** when his lamp shone above my head, and by his light I walked through darkness;
+
+**4** as I was in the days of my prime,[^29-3] when the friendship[^29-4] of God was over my tent;
+
+**5** when the Almighty[^29-5] was still with me, and my children[^29-6] were all around me;
+
+**6** when my steps were bathed in cream,[^29-7] and the rock poured out streams of oil for me!
+
+**7** When I went out to the gate of the city[^29-8] and set up my seat in the square,
+
+**8** the young men saw me and drew back,[^29-9] and the old men rose and stood;
+
+**9** officials stopped talking[^29-10] and put their hands over their mouths;
+
+**10** the voices of the nobles were hushed, and their tongues stuck to the roof of their mouths.
+
+**11** For any ear that heard me called me blessed, and any eye that saw me spoke well of me,[^29-11]
+
+**12** because I rescued the poor who cried for help, and the orphan who had no one to help him.
+
+**13** The blessing of the one who was perishing came upon me, and I made the widow's heart sing for joy.
+
+**14** I put on righteousness, and it clothed me;[^29-12] my justice was like a robe and a turban.
+
+**15** I was eyes to the blind and feet to the lame.
+
+**16** I was a father to the needy, and I looked into the case of the stranger.[^29-13]
+
+**17** I broke the jaws of the unjust and made them drop their prey from their teeth.
+
+**18** Then I thought, 'I will die in my nest,[^29-14] and I will multiply my days like the sand.[^29-15]
+
+**19** My roots will be open to the water, and the dew will lie all night on my branches.
+
+**20** My glory will stay fresh with me,[^29-16] and my bow will be renewed in my hand.'
+
+**21** People listened to me and waited; they kept silent for my counsel.
+
+**22** After I had spoken, they did not speak again; my words fell on them drop by drop.[^29-17]
+
+**23** They waited for me as for the rain; they opened their mouths as for the spring rain.[^29-18]
+
+**24** When I smiled at them, they could hardly believe it;[^29-19] they did not let the light of my face fall.[^29-20]
+
+**25** I chose the way for them and sat as their chief; I lived like a king among his troops, like one who comforts mourners.
+
+[^29-1]: Literally "And Job again lifted up his *mashal* and said" (see 27:1).
+[^29-2]: Hebrew *Eloah*, a poetic form of *Elohim*, "God", used often in Job. Also in verse 4.
+[^29-3]: Literally "the days of my autumn", the season of harvest and fullness.
+[^29-4]: Hebrew *sod*, "intimate counsel, close friendship".
+[^29-5]: Hebrew *Shaddai*, traditionally "the Almighty"; the meaning is uncertain.
+[^29-6]: Or "my young men", "my servants". Hebrew *ne'arim*, as in 1:19.
+[^29-7]: Hebrew *chemah*, "curds, butter": a picture of great abundance.
+[^29-8]: Literally "to the gate, up to the city". Elders sat at the city gate to hear cases and give judgment.
+[^29-9]: Literally "hid themselves".
+[^29-10]: Literally "held back words".
+[^29-11]: Literally "testified for me".
+[^29-12]: Literally "and it clothed itself with me".
+[^29-13]: Literally "and the case I did not know I searched out": either the case of someone I did not know, or a case I did not yet understand.
+[^29-14]: That is, at home among my family.
+[^29-15]: Or "like the phoenix". Hebrew *chol* usually means "sand", but an ancient Jewish tradition takes it here as the name of a long-lived bird, the phoenix.
+[^29-16]: Literally "My glory is new with me". Hebrew *kavod*: honor, dignity, vigor.
+[^29-17]: Literally "and my word dripped on them", like rain.
+[^29-18]: The late rain of spring, which ripened the crops before harvest.
+[^29-19]: Literally "I laughed toward them; they did not believe". Or "I smiled at them when they had lost confidence".
+[^29-20]: The meaning of this line is uncertain. Perhaps "they did not cast down the light of my face", that is, they did nothing to lose my favor.
+
+## Chapter 30
+
+*Status: draft*
+
+**1** "But now they laugh at me, those younger than I, whose fathers I would have refused to put with the dogs of my flock.
+
+**2** What use to me was the strength of their hands? Their vigor[^30-1] had perished.
+
+**3** Gaunt from want and hunger, they gnaw the dry ground,[^30-2] in the gloom of desolation and waste.[^30-3]
+
+**4** They pluck saltwort[^30-4] among the bushes, and the root of the broom bush is their food.[^30-5]
+
+**5** They are driven out from the community;[^30-6] people shout after them as after a thief.
+
+**6** They have to live in the gullies of the wadis, in holes in the ground and among the rocks.
+
+**7** Among the bushes they bray;[^30-7] under the nettles they huddle together.
+
+**8** A senseless brood, a nameless brood,[^30-8] they were whipped out of the land.
+
+**9** And now I have become their song;[^30-9] I have become a byword to them.
+
+**10** They detest me; they keep their distance from me; they do not hesitate to spit in my face.
+
+**11** Because he has loosened my cord[^30-10] and humbled me, they have thrown off all restraint before me.[^30-11]
+
+**12** On my right the rabble[^30-12] rise up; they push my feet away[^30-13] and build their roads of ruin against me.[^30-14]
+
+**13** They tear up my path; they profit from my disaster;[^30-15] no one holds them back.[^30-16]
+
+**14** As through a wide breach they come; amid the crash[^30-17] they roll in.
+
+**15** Terrors are turned against me; they chase away my dignity[^30-18] like the wind, and my safety has passed away like a cloud.
+
+**16** And now my life is poured out within me;[^30-19] days of affliction have taken hold of me.
+
+**17** At night my bones are pierced within me,[^30-20] and the pains that gnaw me take no rest.
+
+**18** With great force my garment is disfigured; it binds me like the collar of my tunic.[^30-21]
+
+**19** He has thrown me into the mud,[^30-22] and I have become like dust and ashes.[^30-23]
+
+**20** I cry to you for help, but you do not answer me; I stand up, and you just look at me.[^30-24]
+
+**21** You have turned cruel to me; with the might of your hand you attack me.[^30-25]
+
+**22** You lift me up on the wind and make me ride it; you melt me away, and all my success.[^30-26]
+
+**23** For I know you will bring me back to death,[^30-27] to the house appointed for all the living.
+
+**24** Yet does not one in ruins stretch out a hand, and in his disaster cry for help?[^30-28]
+
+**25** Did I not weep for the one whose life was hard?[^30-29] Was my soul not grieved for the needy?
+
+**26** Yet when I hoped for good, evil came; when I waited for light, darkness came.
+
+**27** My insides are in turmoil and never still;[^30-30] days of affliction confront me.
+
+**28** I go about darkened, but not by the sun;[^30-31] I stand up in the assembly and cry for help.
+
+**29** I have become a brother to jackals and a companion to ostriches.[^30-32]
+
+**30** My skin has turned black and peels from me;[^30-33] my bones burn with fever.[^30-34]
+
+**31** My lyre is turned to mourning, and my pipe to the sound of weeping.
+
+[^30-1]: Hebrew *kelach*, a rare word, perhaps "full vigor" or "ripe old age", as in 5:26.
+[^30-2]: Or "they flee to the dry ground". Hebrew *orqim*, a rare word.
+[^30-3]: Literally "the yesterday (or "night") of ruin and devastation". The meaning of this line is uncertain.
+[^30-4]: Hebrew *malluach*, a salty plant that grows in the desert.
+[^30-5]: Literally "their bread". Broom roots are bitter and were mostly used as fuel (Psalm 120:4). Some read "to warm themselves", with different vowels.
+[^30-6]: Literally "from the midst". Hebrew *gev*, a rare word.
+[^30-7]: Like hungry wild donkeys (compare 6:5).
+[^30-8]: Literally "sons of a fool, also sons of no name".
+[^30-9]: That is, a mocking song.
+[^30-10]: *He* is God, though the Hebrew does not name him. *My cord* is perhaps my bowstring (compare 29:20) or my tent cord (compare 4:21). The Hebrew text is written "his cord" but read "my cord". With "his cord", the line may mean "each of them has loosened his cord (his restraint) and humbled me".
+[^30-11]: Literally "they have let loose the bridle before me".
+[^30-12]: Hebrew *pirchach*, a word found only here, perhaps "brood" or "rabble".
+[^30-13]: Literally "they send away my feet". The meaning is uncertain.
+[^30-14]: Like an army building siege ramps against a city (19:12).
+[^30-15]: Literally "they help toward my disaster".
+[^30-16]: Literally "there is no helper for them": perhaps "they need no one's help". The meaning is uncertain.
+[^30-17]: Hebrew *sho'ah*, "ruin, storm", the word translated "desolation" in verse 3.
+[^30-18]: Hebrew *nedivah*, "nobility, honor".
+[^30-19]: Literally "my soul pours itself out upon me".
+[^30-20]: Literally "The night pierces my bones from upon me".
+[^30-21]: The Hebrew of this verse is uncertain. *Is disfigured* is literally "disguises itself". Some read "seizes my garment", with a small change to the Hebrew, with God as the subject: "With great force he seizes my garment; he grips me by the collar of my tunic".
+[^30-22]: *He* is God.
+[^30-23]: The same pair of words, "dust and ashes", is used in 42:6 (compare Genesis 18:27).
+[^30-24]: Literally "and you consider me".
+[^30-25]: Hebrew *satam*, "bear a grudge against, persecute", a verb close to *satan*, "accuser".
+[^30-26]: The Hebrew text is written *teshuwwah*, "(in) the roar of the storm", but read *tushiyyah*, "success" or "sound wisdom", as in 5:12. With the written form: "you toss me about in the roar of the storm".
+[^30-27]: Literally "you will return me to death".
+[^30-28]: The Hebrew of this verse is uncertain. Literally "Surely not into a heap of ruins does he stretch out a hand; if in his disaster, to them a cry for help". Or "Surely no one strikes a ruined man when he cries for help in his disaster".
+[^30-29]: Literally "the one hard of day".
+[^30-30]: Literally "My bowels boil and are not silent".
+[^30-31]: Literally "I go about dark, without the sun" (Hebrew *chammah*, "heat, sun"): darkened, perhaps in mourning, but not by the sun. Or "I go about mourning, without comfort", reading *nechamah*, "comfort", for *chammah*.
+[^30-32]: Hebrew *benot ya'anah*, perhaps "ostriches" or "eagle owls". Both jackals and these birds make mournful cries in desolate places (Micah 1:8).
+[^30-33]: Literally "My skin is black from upon me".
+[^30-34]: Literally "my bone burns from heat".
+
+## Chapter 31
+
+*Status: draft*
+
+**1** "I made a covenant with my eyes; how then could I gaze at a young woman?[^31-1]
+
+**2** What portion would I have from God[^31-2] above, what inheritance from the Almighty[^31-3] on high?
+
+**3** Is there not disaster for the unjust, and calamity for those who do wrong?
+
+**4** Does he not see my ways and count all my steps?
+
+**5** If I have walked with falsehood, or my foot has hurried after deceit,
+
+**6** let him weigh me on honest scales,[^31-4] and let God know my integrity.
+
+**7** If my steps have turned aside from the way, if my heart has followed my eyes, or if any stain has stuck to my hands,
+
+**8** then let me sow and another eat, and let my crops[^31-5] be uprooted.
+
+**9** If my heart has been enticed by a woman, or I have lain in wait at my neighbor's door,
+
+**10** then let my wife grind grain for another, and let other men kneel over her.[^31-6]
+
+**11** For that would be a shameful crime; it would be an offense for the judges to punish.[^31-7]
+
+**12** For it is a fire that consumes all the way to Abaddon,[^31-8] and it would uproot all my harvest.
+
+**13** If I have denied justice[^31-9] to my male or female servant[^31-10] when they brought a complaint against me,
+
+**14** what then could I do when God rises up? When he calls me to account, what could I answer him?
+
+**15** Did not the one who made me in the womb make them? Did not the same one form us in the womb?
+
+**16** If I have withheld from the poor what they wanted, or let the widow's eyes grow dim with longing,[^31-11]
+
+**17** or eaten my bit of bread by myself, and the orphan has not eaten any of it,
+
+**18** for from my youth the orphan grew up with me as with a father,[^31-12] and from my mother's womb I guided the widow,[^31-13]
+
+**19** if I have seen anyone perishing for lack of clothing, or the needy without covering,
+
+**20** if his body[^31-14] has not blessed me, as he was warmed by the fleece of my sheep,
+
+**21** if I have raised my hand against the orphan, because I saw I had support[^31-15] in the gate,
+
+**22** then let my shoulder fall from its socket,[^31-16] and let my arm be broken off at the elbow.[^31-17]
+
+**23** For disaster from God was a terror to me, and because of his majesty I could not do such things.[^31-18]
+
+**24** If I have made gold my confidence, or called fine gold my security,
+
+**25** if I have rejoiced because my wealth was great, or because my hand had gained so much,
+
+**26** if I have looked at the sun[^31-19] when it shone, or the moon moving in splendor,
+
+**27** and my heart has been secretly enticed, and my hand has thrown them a kiss,[^31-20]
+
+**28** this too would be an offense for the judges to punish, for I would have denied God above.
+
+**29** If I have rejoiced at the ruin of one who hated me, or gloated when evil found him,
+
+**30** I have not let my mouth[^31-21] sin by asking for his life with a curse.
+
+**31** If the men of my tent have not said, 'Who is there who has not had his fill of his meat?'[^31-22]
+
+**32** No stranger had to spend the night in the street; I opened my doors to the traveler.[^31-23]
+
+**33** If I have covered my transgressions as others do,[^31-24] hiding my guilt in my bosom,
+
+**34** because I feared the great crowd, and the contempt of the clans terrified me, so that I kept silent and did not go out of my door—
+
+**35** Oh, that I had someone to hear me! Here is my signature;[^31-25] let the Almighty answer me! Let my opponent write out his charge against me![^31-26]
+
+**36** Surely I would carry it on my shoulder; I would bind it on like a crown.[^31-27]
+
+**37** I would give him an account of all my steps; like a prince I would approach him.
+
+**38** If my land has cried out against me, and its furrows have wept together,
+
+**39** if I have eaten its produce[^31-28] without paying, or made its owners breathe their last,
+
+**40** then let thorns grow instead of wheat, and stinking weeds[^31-29] instead of barley." The words of Job are ended.[^31-30]
+
+[^31-1]: Hebrew *betulah*, "a young woman, a virgin".
+[^31-2]: Hebrew *Eloah*, a poetic form of *Elohim*, "God", used often in Job. Also in verse 6.
+[^31-3]: Hebrew *Shaddai*, traditionally "the Almighty"; the meaning is uncertain. Also in verse 35.
+[^31-4]: Literally "scales of righteousness".
+[^31-5]: Or "my descendants". Hebrew *tse'etsa'im*, "what comes out": produce, or offspring.
+[^31-6]: Grinding grain was the work of a slave woman. *Kneel over her* refers to sexual relations, and the first line may also be meant that way.
+[^31-7]: Literally "an iniquity of judges": a crime that the courts punish. Also in verse 28.
+[^31-8]: Hebrew *Abaddon*, "Destruction", a name for the realm of the dead (see 26:6).
+[^31-9]: Hebrew *mishpat*: justice, right, a legal case.
+[^31-10]: Or "slave".
+[^31-11]: Literally "made the eyes of the widow fail".
+[^31-12]: Literally "he grew me up as a father", a difficult phrase. Perhaps "he (the orphan) grew up with me as with a father", or "he (God) raised me like a father".
+[^31-13]: Literally "I guided her", the widow of verse 16: a way of saying that Job cared for widows all his life.
+[^31-14]: Literally "his loins".
+[^31-15]: Literally "my help": those who would take my side in court at the city gate.
+[^31-16]: Literally "from the shoulder blade".
+[^31-17]: Literally "from the reed", perhaps the upper arm bone.
+[^31-18]: Literally "and from his majesty I was not able".
+[^31-19]: Literally "the light".
+[^31-20]: Literally "and my hand has kissed my mouth", a gesture of worship to the sun and moon.
+[^31-21]: Literally "my palate".
+[^31-22]: Literally "Who will give one who is not satisfied from his flesh?" Job's household could say that everyone had eaten their fill at his table.
+[^31-23]: The Hebrew vowel points read "to the road". The same consonants can be read "to the traveler".
+[^31-24]: Or "as Adam did" (compare Genesis 3:8–10). Hebrew *ke-adam*, "like a human being" or "like Adam".
+[^31-25]: Literally "Here is my *tav*". *Tav* is the last letter of the Hebrew alphabet, written in early Hebrew script as an X: a mark or signature, as at the end of a legal statement.
+[^31-26]: Literally "and the scroll my man of dispute has written".
+[^31-27]: Literally "I would bind it on me as crowns".
+[^31-28]: Literally "its strength".
+[^31-29]: Hebrew *bo'shah*, from a verb meaning "to stink".
+[^31-30]: Job does not speak again until 40:4.

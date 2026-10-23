@@ -2025,3 +2025,322 @@
 [^22-6]: A talent was about 75 pounds (34 kg), so 100,000 talents is about 3,750 tons (3,400 metric tons), and 1,000,000 talents about 37,500 tons (34,000 metric tons).
 [^22-7]: Literally "quarrymen and craftsmen of stone and wood".
 [^22-8]: Hebrew *nephesh*.
+
+## Chapter 23
+
+*Status: draft*
+
+**1** When David was old and full of days,[^23-1] he made his son Solomon king over Israel.
+
+**2** He gathered all the leaders of Israel, and the priests and the Levites.
+
+**3** The Levites thirty years old and over were counted, and their number, counted man by man,[^23-2] was thirty-eight thousand.
+
+**4** Of these, twenty-four thousand were to oversee the work of the house of Yahweh,[^23-3] six thousand were to be officials and judges,
+
+**5** four thousand were to be gatekeepers, and four thousand were to praise Yahweh with the instruments I have made for praise.[^23-4]
+
+**6** David divided them into divisions according to the sons of Levi: Gershon, Kohath and Merari.
+
+**7** Of the Gershonites: Ladan and Shimei.
+
+**8** The sons of Ladan: Jehiel the chief, Zetham and Joel, three.
+
+**9** The sons of Shimei: Shelomith,[^23-5] Haziel and Haran, three. These were the heads of the ancestral families of Ladan.
+
+**10** The sons of Shimei:[^23-6] Jahath, Zina, Jeush and Beriah. These were the sons of Shimei, four.
+
+**11** Jahath was the chief, and Zizah[^23-7] the second. Jeush and Beriah did not have many sons, so they became one ancestral family with one assignment.
+
+**12** The sons of Kohath: Amram, Izhar, Hebron and Uzziel, four.
+
+**13** The sons of Amram: Aaron and Moses. Aaron was set apart to consecrate the most holy things,[^23-8] he and his sons forever, to burn offerings before Yahweh, to minister to him and to pronounce blessings in his name forever.
+
+**14** As for Moses the man of God, his sons were counted as part of the tribe of Levi.
+
+**15** The sons of Moses: Gershom and Eliezer.
+
+**16** The sons of Gershom: Shebuel the chief.
+
+**17** The sons of Eliezer: Rehabiah the chief. Eliezer had no other sons, but the sons of Rehabiah were very numerous.
+
+**18** The sons of Izhar: Shelomith the chief.
+
+**19** The sons of Hebron: Jeriah the chief, Amariah the second, Jahaziel the third and Jekameam the fourth.
+
+**20** The sons of Uzziel: Micah the chief and Isshiah the second.
+
+**21** The sons of Merari: Mahli and Mushi. The sons of Mahli: Eleazar and Kish.
+
+**22** Eleazar died without sons; he had only daughters. Their kinsmen,[^23-9] the sons of Kish, married them.
+
+**23** The sons of Mushi: Mahli, Eder and Jeremoth, three.
+
+**24** These were the descendants of Levi by their ancestral families, the heads of the families as they were registered, counted by name, man by man, who did the work for the service of the house of Yahweh, from twenty years old and upward.[^23-10]
+
+**25** For David said, "Yahweh, the God of Israel, has given rest to his people, and he dwells in Jerusalem forever.
+
+**26** So the Levites no longer need to carry the tabernacle or any of the articles used in its service."
+
+**27** For by the last words of David the Levites were counted from twenty years old and upward.
+
+**28** Their duty was to assist the descendants of Aaron in the service of the house of Yahweh, in charge of the courts and the chambers, the purifying of all the holy things, and the work of the service of the house of God,
+
+**29** and in charge of the bread set out in rows,[^23-11] the fine flour for the grain offering, the wafers made without yeast, what is baked on the griddle, what is mixed with oil,[^23-12] and all measures of quantity and size.
+
+**30** They were to stand every morning to thank and praise Yahweh, and likewise in the evening,
+
+**31** and whenever burnt offerings were offered to Yahweh on Sabbaths, new moons and appointed festivals, in the number required by the rule for them, regularly before Yahweh.
+
+**32** So they were to keep charge of[^23-13] the tent of meeting and of the holy place, and to assist their kinsmen the descendants of Aaron in the service of the house of Yahweh.
+
+[^23-1]: Literally "satisfied with days".
+[^23-2]: Literally "by their skulls, by men", that is, head by head. Also in verse 24.
+[^23-3]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^23-4]: The Hebrew has "I have made", as if David were speaking.
+[^23-5]: The Hebrew text is written "Shelomoth" but read "Shelomith".
+[^23-6]: This Shimei is Ladan's brother (verse 7). The Shimei of verse 9 is counted among the families of Ladan.
+[^23-7]: Called Zina in verse 10.
+[^23-8]: Or "to be consecrated as most holy". Literally "to consecrate him (or it) holy of holies".
+[^23-9]: Literally "brothers". Compare Numbers 36:6–12.
+[^23-10]: Verse 3 counts the Levites from thirty years old. Compare Numbers 4:3; 8:24.
+[^23-11]: See 9:32.
+[^23-12]: Hebrew *murbekhet*, dough soaked or mixed with oil (Leviticus 6:14; 6:21 in most English Bibles).
+[^23-13]: Literally "keep the charge of", that is, guard it and carry out its duties (Numbers 1:53).
+
+## Chapter 24
+
+*Status: draft*
+
+**1** These were the divisions of the descendants of Aaron. The sons of Aaron: Nadab, Abihu, Eleazar and Ithamar.
+
+**2** But Nadab and Abihu died before their father did, and they had no sons.[^24-1] So Eleazar and Ithamar served as priests.
+
+**3** With the help of Zadok of the descendants of Eleazar and Ahimelech of the descendants of Ithamar, David divided them according to their appointed duties in their service.
+
+**4** More chief men were found among the descendants of Eleazar than among the descendants of Ithamar, so they were divided as follows: sixteen heads of ancestral families from the descendants of Eleazar, and eight from the descendants of Ithamar by their ancestral families.
+
+**5** They divided them by lot, one group as well as the other, for there were officials of the sanctuary and officials of God among both the descendants of Eleazar and the descendants of Ithamar.
+
+**6** The scribe Shemaiah son of Nethanel, a Levite, recorded them in the presence of the king, the officials, Zadok the priest, Ahimelech son of Abiathar, and the heads of the ancestral families of the priests and the Levites. One ancestral family was taken for Eleazar, and then one for Ithamar.[^24-2]
+
+**7** The first lot came out for Jehoiarib, the second for Jedaiah,
+
+**8** the third for Harim, the fourth for Seorim,
+
+**9** the fifth for Malchijah, the sixth for Mijamin,
+
+**10** the seventh for Hakkoz, the eighth for Abijah,[^24-3]
+
+**11** the ninth for Jeshua, the tenth for Shecaniah,
+
+**12** the eleventh for Eliashib, the twelfth for Jakim,
+
+**13** the thirteenth for Huppah, the fourteenth for Jeshebeab,
+
+**14** the fifteenth for Bilgah, the sixteenth for Immer,
+
+**15** the seventeenth for Hezir, the eighteenth for Happizzez,
+
+**16** the nineteenth for Pethahiah, the twentieth for Jehezkel,
+
+**17** the twenty-first for Jachin, the twenty-second for Gamul,
+
+**18** the twenty-third for Delaiah, the twenty-fourth for Maaziah.
+
+**19** These were their appointed duties in their service when they came into the house of Yahweh,[^24-4] according to the rule given them through their ancestor Aaron, as Yahweh, the God of Israel, had commanded him.
+
+**20** As for the rest of the descendants of Levi: of the sons of Amram, Shubael;[^24-5] of the sons of Shubael, Jehdeiah.
+
+**21** As for Rehabiah: of the sons of Rehabiah, Isshiah the chief.
+
+**22** Of the Izharites, Shelomoth;[^24-6] of the sons of Shelomoth, Jahath.
+
+**23** The sons of Hebron:[^24-7] Jeriah the chief, Amariah the second, Jahaziel the third, Jekameam the fourth.
+
+**24** The sons of Uzziel: Micah; of the sons of Micah, Shamir.[^24-8]
+
+**25** The brother of Micah: Isshiah; of the sons of Isshiah, Zechariah.
+
+**26** The sons of Merari: Mahli and Mushi. The sons of Jaaziah: Beno.[^24-9]
+
+**27** The sons of Merari by Jaaziah: Beno, Shoham, Zaccur and Ibri.
+
+**28** Of Mahli: Eleazar, who had no sons.
+
+**29** Of Kish: the sons of Kish, Jerahmeel.
+
+**30** The sons of Mushi: Mahli, Eder and Jerimoth. These were the descendants of the Levites by their ancestral families.
+
+**31** They too cast lots, just as their kinsmen the descendants of Aaron did, in the presence of King David, Zadok, Ahimelech, and the heads of the ancestral families of the priests and the Levites, the head of each family on the same terms as his youngest brother.[^24-10]
+
+[^24-1]: Leviticus 10:1–2; Numbers 3:4.
+[^24-2]: The Hebrew is difficult. Literally "one father's house taken for Eleazar, and taken, taken for Ithamar".
+[^24-3]: Zechariah, the father of John the Baptist, belonged to the division of Abijah (Luke 1:5).
+[^24-4]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^24-5]: Called Shebuel in 23:16.
+[^24-6]: Called Shelomith in 23:18.
+[^24-7]: The Hebrew is shortened: "And the sons, Jeriah". "Of Hebron" and "the chief" are supplied from 23:19.
+[^24-8]: The Hebrew text is written "Shamur" but read "Shamir".
+[^24-9]: Or "his son". Hebrew *beno*. Also in verse 27.
+[^24-10]: Literally "the fathers, the chief alongside his brother the younger".
+
+## Chapter 25
+
+*Status: draft*
+
+**1** David and the commanders of the army[^25-1] also set apart for the service some of the sons of Asaph, Heman and Jeduthun, who prophesied[^25-2] with lyres, harps and cymbals. This is the list of the men who did the work of their service:
+
+**2** Of the sons of Asaph: Zaccur, Joseph, Nethaniah and Asarelah, the sons of Asaph, under the direction of Asaph, who prophesied under the direction of the king.
+
+**3** Of Jeduthun, the sons of Jeduthun: Gedaliah, Zeri,[^25-3] Jeshaiah, Hashabiah and Mattithiah, six,[^25-4] under the direction of their father Jeduthun, who prophesied with the lyre in giving thanks and praise to Yahweh.[^25-5]
+
+**4** Of Heman, the sons of Heman: Bukkiah, Mattaniah, Uzziel, Shebuel, Jerimoth, Hananiah, Hanani, Eliathah, Giddalti, Romamti-ezer, Joshbekashah, Mallothi, Hothir and Mahazioth.[^25-6]
+
+**5** All these were sons of Heman, the king's seer, according to the promises of God to exalt him.[^25-7] God gave Heman fourteen sons and three daughters.
+
+**6** All these were under the direction of their father for the music in the house of Yahweh, with cymbals, harps and lyres, for the service of the house of God. Asaph, Jeduthun and Heman were under the direction of the king.
+
+**7** Their number, with their kinsmen who were trained in singing to Yahweh, all of them skilled, was 288.
+
+**8** They cast lots for their duties, small and great alike, teacher and student alike.
+
+**9** The first lot fell to Asaph, to Joseph;[^25-8] the second to Gedaliah, him and his kinsmen and his sons, 12;
+
+**10** the third to Zaccur, his sons and his kinsmen, 12;
+
+**11** the fourth to Izri, his sons and his kinsmen, 12;
+
+**12** the fifth to Nethaniah, his sons and his kinsmen, 12;
+
+**13** the sixth to Bukkiah, his sons and his kinsmen, 12;
+
+**14** the seventh to Jesarelah,[^25-9] his sons and his kinsmen, 12;
+
+**15** the eighth to Jeshaiah, his sons and his kinsmen, 12;
+
+**16** the ninth to Mattaniah, his sons and his kinsmen, 12;
+
+**17** the tenth to Shimei, his sons and his kinsmen, 12;
+
+**18** the eleventh to Azarel,[^25-10] his sons and his kinsmen, 12;
+
+**19** the twelfth to Hashabiah, his sons and his kinsmen, 12;
+
+**20** the thirteenth to Shubael,[^25-11] his sons and his kinsmen, 12;
+
+**21** the fourteenth to Mattithiah, his sons and his kinsmen, 12;
+
+**22** the fifteenth to Jeremoth,[^25-12] his sons and his kinsmen, 12;
+
+**23** the sixteenth to Hananiah, his sons and his kinsmen, 12;
+
+**24** the seventeenth to Joshbekashah, his sons and his kinsmen, 12;
+
+**25** the eighteenth to Hanani, his sons and his kinsmen, 12;
+
+**26** the nineteenth to Mallothi, his sons and his kinsmen, 12;
+
+**27** the twentieth to Eliathah, his sons and his kinsmen, 12;
+
+**28** the twenty-first to Hothir, his sons and his kinsmen, 12;
+
+**29** the twenty-second to Giddalti, his sons and his kinsmen, 12;
+
+**30** the twenty-third to Mahazioth, his sons and his kinsmen, 12;
+
+**31** the twenty-fourth to Romamti-ezer, his sons and his kinsmen, 12.
+
+[^25-1]: Or "the leaders of the service". Hebrew *tsava*, "army, host", is also used of the service of the Levites (Numbers 4:3).
+[^25-2]: The Hebrew text is written "the prophets" but read "who prophesied".
+[^25-3]: Called Izri in verse 11.
+[^25-4]: Only five are named. Shimei (verse 17) may be the sixth.
+[^25-5]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^25-6]: Several of these names are also ordinary Hebrew words. Read together, the names from Hananiah to Mahazioth resemble lines of a prayer: "Be gracious to me, Yah, be gracious to me; you are my God; I have magnified and exalted help …".
+[^25-7]: Literally "to lift up the horn", a sign of strength and honor. Or "to sound the horn".
+[^25-8]: The Hebrew does not give a number for Joseph. With 12 for each of the twenty-four lots, the total is the 288 of verse 7.
+[^25-9]: Called Asarelah in verse 2.
+[^25-10]: Called Uzziel in verse 4.
+[^25-11]: Called Shebuel in verse 4.
+[^25-12]: Called Jerimoth in verse 4.
+
+## Chapter 26
+
+*Status: draft*
+
+**1** The divisions of the gatekeepers. Of the Korahites: Meshelemiah son of Kore, of the sons of Asaph.[^26-1]
+
+**2** Meshelemiah had sons: Zechariah the firstborn, Jediael the second, Zebadiah the third, Jathniel the fourth,
+
+**3** Elam the fifth, Jehohanan the sixth, Eliehoenai the seventh.
+
+**4** Obed-edom had sons: Shemaiah the firstborn, Jehozabad the second, Joah the third, Sachar the fourth, Nethanel the fifth,
+
+**5** Ammiel the sixth, Issachar the seventh, Peullethai the eighth, for God had blessed him.
+
+**6** Sons were also born to his son Shemaiah, who were leaders in their ancestral family, for they were capable men.
+
+**7** The sons of Shemaiah: Othni, Rephael, Obed and Elzabad. His kinsmen[^26-2] Elihu and Semachiah were also capable men.
+
+**8** All these were descendants of Obed-edom. They and their sons and kinsmen were capable men with strength for the service: sixty-two of Obed-edom.
+
+**9** Meshelemiah had sons and kinsmen, capable men, eighteen.
+
+**10** Hosah, of the descendants of Merari, had sons: Shimri the chief (although he was not the firstborn, his father made him chief),
+
+**11** Hilkiah the second, Tebaliah the third, Zechariah the fourth. All the sons and kinsmen of Hosah were thirteen.
+
+**12** To these divisions of the gatekeepers, by their chief men, were given duties, just as to their kinsmen, to minister in the house of Yahweh.[^26-3]
+
+**13** They cast lots for each gate by their ancestral families, small and great alike.
+
+**14** The lot for the east fell to Shelemiah.[^26-4] They cast lots also for his son Zechariah, a wise counselor, and his lot came out for the north.
+
+**15** Obed-edom's lot was for the south, and his sons' lot was for the storehouse.[^26-5]
+
+**16** Shuppim[^26-6] and Hosah's lot was for the west, at the Shallecheth Gate on the road that goes up. Guard was alongside guard.
+
+**17** On the east there were six Levites, on the north four each day, on the south four each day, and at the storehouse two and two.
+
+**18** At the Parbar[^26-7] on the west there were four at the road and two at the Parbar.
+
+**19** These were the divisions of the gatekeepers among the descendants of Korah and the descendants of Merari.
+
+**20** Of the Levites, Ahijah[^26-8] was in charge of the treasuries of the house of God and the treasuries of the dedicated gifts.
+
+**21** The sons of Ladan, the descendants of the Gershonites belonging to Ladan, the heads of the ancestral families belonging to Ladan the Gershonite: Jehieli.
+
+**22** The sons of Jehieli, Zetham and his brother Joel,[^26-9] were in charge of the treasuries of the house of Yahweh.
+
+**23** Of the Amramites, the Izharites, the Hebronites and the Uzzielites:
+
+**24** Shebuel son of Gershom, son of Moses, was the chief officer in charge of the treasuries.
+
+**25** His kinsmen through Eliezer: Rehabiah his son, Jeshaiah his son, Joram his son, Zichri his son and Shelomith[^26-10] his son.
+
+**26** This Shelomoth[^26-11] and his kinsmen were in charge of all the treasuries of the dedicated gifts that King David, the heads of the ancestral families, the commanders of thousands and of hundreds, and the commanders of the army had dedicated.
+
+**27** They dedicated some of the plunder from the wars to maintain the house of Yahweh.
+
+**28** And everything that Samuel the seer, Saul son of Kish, Abner son of Ner and Joab son of Zeruiah had dedicated, all the dedicated gifts, were in the care of Shelomith and his kinsmen.
+
+**29** Of the Izharites, Chenaniah and his sons were assigned to outside duties for Israel, as officials and judges.
+
+**30** Of the Hebronites, Hashabiah and his kinsmen, 1,700 capable men, were in charge of Israel west of the Jordan, for all the work of Yahweh and for the service of the king.
+
+**31** Of the Hebronites, Jerijah[^26-12] was the chief of the Hebronites by their generations and ancestral families. In the fortieth year of David's reign a search was made, and capable men were found among them at Jazer in Gilead.
+
+**32** His kinsmen, capable men, numbered 2,700, heads of ancestral families. King David put them in charge of the Reubenites, the Gadites and the half-tribe of Manasseh, for every matter of God and every matter of the king.
+
+[^26-1]: Compare 9:19, where Kore is the son of Ebiasaph.
+[^26-2]: Literally "brothers"; also "kinsmen" in verses 8–12, 25–26, 28 and 30–32.
+[^26-3]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^26-4]: Called Meshelemiah in verses 1–2 and 9.
+[^26-5]: Hebrew *beit ha-asuppim*, "the house of the gatherings", a storehouse. Also in verse 17.
+[^26-6]: Shuppim is not named in the lists of verses 1–11.
+[^26-7]: Hebrew *parbar*, a word of uncertain meaning, perhaps a colonnade or court on the west side of the temple (compare 2 Kings 23:11).
+[^26-8]: The Septuagint reads "their kinsmen" (Hebrew *acheihem*) instead of "Ahijah" (*achiyyah*).
+[^26-9]: In 23:8 Jehiel, Zetham and Joel are brothers, the sons of Ladan.
+[^26-10]: The Hebrew text is written "Shelomoth" but read "Shelomith".
+[^26-11]: Called Shelomith in verses 25 and 28.
+[^26-12]: Called Jeriah in 23:19 and 24:23.
