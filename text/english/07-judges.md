@@ -190,7 +190,7 @@
 
 **1** These are the nations that Yahweh[^3-1] left in the land to test Israel by them, all those Israelites who had not known any of the wars of Canaan.
 
-**2** He did it only so that the generations of the Israelites would know war, to teach war to those who had not known it before.
+**2** It was only so that the generations of the Israelites would know war, to teach war to those who had not known it before.
 
 **3** They were the five rulers[^3-2] of the Philistines, all the Canaanites, the Sidonians, and the Hivites who lived in the mountains of Lebanon, from Mount Baal-hermon to Lebo-hamath.[^3-3]
 
@@ -961,7 +961,7 @@
 
 **14** Jephthah sent messengers again to the king of the Ammonites,
 
-**15** and they said to him, "This is what Jephthah says: Israel did not take the land of Moab or the land of the Ammonites.
+**15** with this message: "This is what Jephthah says: Israel did not take the land of Moab or the land of the Ammonites.
 
 **16** When they came up from Egypt, Israel went through the wilderness to the Red Sea[^11-6] and came to Kadesh.
 
@@ -1178,9 +1178,9 @@
 
 **15** On the seventh day[^14-7] they said to Samson's wife, "Coax your husband into telling us the riddle, or we will burn you and your father's family to death. Did you invite us here to rob us?"
 
-**16** So Samson's wife wept on him and said, "You only hate me! You don't love me. You have told my people a riddle, but you haven't told me the answer." He said to her, "Look, I haven't told my father or my mother. Should I tell you?"
+**16** So Samson's wife wept in front of him and said, "You only hate me! You don't love me. You have told my people a riddle, but you haven't told me the answer." He said to her, "Look, I haven't told my father or my mother. Should I tell you?"
 
-**17** She wept on him for the rest of the seven days of their feast.[^14-8] On the seventh day he told her, because she pressed him so hard. Then she told the riddle to her people.
+**17** She wept in front of him for the rest of the seven days of their feast.[^14-8] On the seventh day he told her, because she pressed him so hard. Then she told the riddle to her people.
 
 **18** On the seventh day, before the sun went down, the men of the town said to him, "What is sweeter than honey? What is stronger than a lion?" He said to them, "If you had not plowed with my heifer, you would not have found out my riddle."
 
@@ -1467,3 +1467,275 @@
 [^18-14]: Literally "men bitter of soul".
 [^18-15]: Literally "struck them by the mouth of the sword".
 [^18-16]: In the Hebrew text the letter *n* (nun) of *Menasheh*, "Manasseh", is written raised above the line, a scribal mark. Without it the word reads *Mosheh*, "Moses". Gershom was the son of Moses (Exodus 2:22), and the raised letter is generally thought to have been added to keep Moses' name apart from this shrine. The Vulgate reads "Moses".
+
+## Chapter 19
+
+*Status: draft*
+
+**1** In those days, when there was no king in Israel, there was a Levite living in the far parts of the hill country of Ephraim. He took for himself a concubine[^19-1] from Bethlehem in Judah.
+
+**2** But his concubine was unfaithful to him,[^19-2] and she left him and went to her father's house in Bethlehem in Judah. She was there for four months.
+
+**3** Then her husband got up and went after her to speak tenderly to her[^19-3] and bring her back.[^19-4] He had his servant with him and a pair of donkeys. She brought him into her father's house, and when the young woman's father saw him, he was glad to meet him.
+
+**4** His father-in-law, the young woman's father, made him stay, and he stayed with him three days. They ate and drank and spent the nights there.
+
+**5** On the fourth day they got up early in the morning, and he got ready to leave. But the young woman's father said to his son-in-law, "Have a bite to eat to refresh yourself,[^19-5] and then you can go."
+
+**6** So the two of them sat down and ate and drank together. Then the young woman's father said to the man, "Please agree to stay the night, and enjoy yourself."[^19-6]
+
+**7** The man got up to leave, but his father-in-law urged him, so he stayed there again that night.
+
+**8** On the fifth day he got up early in the morning to leave, and the young woman's father said, "Please refresh yourself, and wait until the afternoon."[^19-7] So the two of them ate.
+
+**9** When the man got up to leave, with his concubine and his servant, his father-in-law, the young woman's father, said to him, "Look, the day is drawing toward evening. Please spend the night. The day is coming to an end. Stay here and enjoy yourself. Tomorrow you can get up early for your journey and go home."[^19-8]
+
+**10** But the man was not willing to spend the night. He got up and left, and he came opposite Jebus, that is, Jerusalem. He had with him a pair of saddled donkeys, and his concubine was with him.
+
+**11** When they were near Jebus, the day was almost gone, and the servant said to his master, "Come, let's turn aside into this city of the Jebusites and spend the night in it."
+
+**12** His master said to him, "We will not turn aside into a city of foreigners, who are not Israelites. We will go on to Gibeah."
+
+**13** He said to his servant, "Come, let's try to reach one of these places and spend the night in Gibeah or in Ramah."
+
+**14** So they passed on and went their way, and the sun set on them near Gibeah, which belongs to Benjamin.
+
+**15** They turned aside there to go in and spend the night in Gibeah. He went in and sat down in the city square, but no one took them into his house for the night.
+
+**16** Then in the evening an old man came in from his work in the fields. He was from the hill country of Ephraim, and he was living as a foreigner in Gibeah. The men of the place were Benjaminites.
+
+**17** When he looked up and saw the traveler in the city square, the old man said, "Where are you going? Where do you come from?"
+
+**18** He said to him, "We are traveling from Bethlehem in Judah to the far parts of the hill country of Ephraim. That is where I am from. I went to Bethlehem in Judah, and I am going to the house of Yahweh.[^19-9] But no one will take me into his house.
+
+**19** We have both straw and fodder for our donkeys, and there is also bread and wine for me, for your servant woman, and for the young man with your servants.[^19-10] We don't need anything."
+
+**20** The old man said, "Peace be with you. Let me take care of all your needs. Only don't spend the night in the square."
+
+**21** So he brought him into his house and gave the donkeys fodder. They washed their feet and ate and drank.
+
+**22** While they were enjoying themselves, the men of the city, worthless men,[^19-11] surrounded the house and pounded on the door. They said to the old man, the owner of the house, "Bring out the man who came to your house, so that we can have sex with him."[^19-12]
+
+**23** The man, the owner of the house, went out to them and said to them, "No, my brothers, please don't do such an evil thing. Since this man has come into my house, don't do this outrageous thing.[^19-13]
+
+**24** Here are my virgin daughter and his concubine. Let me bring them out now. Violate them[^19-14] and do to them whatever you like. But don't do such an outrageous thing to this man."
+
+**25** But the men would not listen to him. So the man took hold of his concubine and pushed her outside to them. They raped her[^19-15] and abused her all night until morning, and they let her go as dawn was breaking.
+
+**26** At daybreak the woman came and fell down at the entrance of the man's house where her master was, and she lay there until it was light.
+
+**27** In the morning her master got up, opened the doors of the house, and went out to go on his way. And there was the woman, his concubine, lying at the entrance of the house with her hands on the threshold.
+
+**28** He said to her, "Get up. Let's go." But there was no answer.[^19-16] Then he put her on the donkey, and the man set out and went home.
+
+**29** When he reached his house, he took the knife,[^19-17] took hold of his concubine, and cut her up limb by limb into twelve pieces. And he sent her throughout the territory of Israel.
+
+**30** Everyone who saw it said, "Nothing like this has ever happened or been seen from the day the Israelites came up out of the land of Egypt until this day. Think about it! Take counsel, and speak!"[^19-18]
+
+[^19-1]: Hebrew *pilegesh*: a wife of secondary rank. Literally "a woman, a concubine".
+[^19-2]: Literally "played the prostitute against him". The Septuagint reads "became angry with him".
+[^19-3]: Literally "to speak to her heart".
+[^19-4]: The Hebrew text is written "to bring it back" (perhaps "her heart") but read "to bring her back".
+[^19-5]: Literally "Sustain your heart with a piece of bread"; also in verse 8.
+[^19-6]: Literally "let your heart be good"; also in verses 9 and 22.
+[^19-7]: Literally "until the day declines".
+[^19-8]: Literally "go to your tent".
+[^19-9]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles. The Septuagint reads "and I am going to my home".
+[^19-10]: Polite ways for the Levite to refer to his concubine and his servant, and to himself as the old man's servant.
+[^19-11]: Literally "sons of *beliyya'al*", "sons of worthlessness": scoundrels.
+[^19-12]: Literally "so that we may know him". Compare Genesis 19:5.
+[^19-13]: Hebrew *nevalah*, a shameful act that violates what is sacred or right. Also in verse 24.
+[^19-14]: Hebrew *innah*, "humble, mistreat", here of sexual violence.
+[^19-15]: Literally "knew her".
+[^19-16]: The Septuagint adds "for she was dead".
+[^19-17]: Hebrew *ma'akhelet*, the same word used for the knife Abraham took in Genesis 22:6, 10.
+[^19-18]: The Septuagint has a longer text, in which the Levite tells the men he sends out what they are to say to the Israelites.
+
+## Chapter 20
+
+*Status: draft*
+
+**1** Then all the Israelites came out, from Dan to Beersheba and from the land of Gilead, and the community assembled as one man before Yahweh[^20-1] at Mizpah.
+
+**2** The leaders[^20-2] of all the people, of all the tribes of Israel, took their places in the assembly of the people of God: four hundred thousand foot soldiers armed with swords.
+
+**3** The Benjaminites heard that the Israelites had gone up to Mizpah. The Israelites said, "Tell us how this evil thing happened."
+
+**4** The Levite, the husband of the murdered woman, answered, "I came with my concubine to Gibeah in Benjamin to spend the night.
+
+**5** The men of Gibeah[^20-3] rose against me and surrounded the house at night because of me. They meant to kill me, and they violated my concubine, and she died.
+
+**6** So I took hold of my concubine, cut her in pieces, and sent her throughout the whole territory of Israel's inheritance, because they have committed a lewd and outrageous act[^20-4] in Israel.
+
+**7** Now, all of you Israelites, give your word and your advice here."
+
+**8** All the people rose as one man and said, "None of us will go home to his tent. None of us will return to his house.
+
+**9** Now this is what we will do to Gibeah: we will go up against it by lot.[^20-5]
+
+**10** We will take ten men out of every hundred from all the tribes of Israel, a hundred out of every thousand, and a thousand out of every ten thousand, to get provisions for the troops. Then, when they come to Geba[^20-6] in Benjamin, they can pay it back for all the outrage it has committed in Israel."
+
+**11** So all the men of Israel gathered against the city, united as one man.
+
+**12** The tribes of Israel sent men throughout the tribe of Benjamin,[^20-7] saying, "What is this evil thing that has happened among you?
+
+**13** Now hand over the men, those worthless men[^20-8] in Gibeah, so that we may put them to death and purge the evil from Israel." But the Benjaminites[^20-9] would not listen to their brothers, the Israelites.
+
+**14** Instead the Benjaminites came together from their towns to Gibeah, to go out to battle against the Israelites.
+
+**15** On that day the Benjaminites mustered from their towns twenty-six thousand men armed with swords, besides the people of Gibeah, who mustered seven hundred chosen men.
+
+**16** Among all these troops there were seven hundred chosen men who were left-handed.[^20-10] Every one of them could sling a stone at a hair and not miss.
+
+**17** The men of Israel, not counting Benjamin, mustered four hundred thousand men armed with swords, all of them warriors.
+
+**18** The Israelites set out and went up to Bethel[^20-11] and asked God, "Which of us is to go up first to battle against the Benjaminites?" Yahweh said, "Judah first."
+
+**19** The Israelites got up in the morning and camped against Gibeah.
+
+**20** The men of Israel went out to battle against Benjamin, and the men of Israel drew up their battle lines against them at Gibeah.
+
+**21** The Benjaminites came out of Gibeah and cut down twenty-two thousand Israelites on the battlefield that day.[^20-12]
+
+**22** But the troops, the men of Israel, took courage, and they again drew up their battle lines in the same place where they had drawn them up on the first day.
+
+**23** The Israelites went up and wept before Yahweh until evening. They asked Yahweh, "Shall we go out again to battle against our brothers the Benjaminites?"[^20-13] Yahweh said, "Go up against them."
+
+**24** So the Israelites advanced against the Benjaminites on the second day.
+
+**25** On the second day Benjamin came out of Gibeah to meet them, and they cut down eighteen thousand more Israelites on the battlefield, all of them armed with swords.
+
+**26** Then all the Israelites, the whole army, went up to Bethel. They wept and sat there before Yahweh, and they fasted that day until evening. They offered burnt offerings and fellowship offerings[^20-14] before Yahweh.
+
+**27** The Israelites asked Yahweh (for the ark of the covenant of God was there in those days,
+
+**28** and Phinehas son of Eleazar, son of Aaron, served before it[^20-15] in those days), "Shall we go out yet again to battle against our brothers the Benjaminites, or shall we stop?" Yahweh said, "Go up, for tomorrow I will hand them over to you."
+
+**29** So Israel set men in ambush all around Gibeah.
+
+**30** On the third day the Israelites went up against the Benjaminites and drew up their battle lines against Gibeah as before.
+
+**31** The Benjaminites came out to meet the troops and were drawn away from the city. As before, they began to strike down and kill some of the troops on the roads, one of which goes up to Bethel and the other to Gibeah,[^20-16] in the open country. About thirty men of Israel were killed.
+
+**32** The Benjaminites said, "They are being defeated before us, as before." But the Israelites said, "Let us retreat and draw them away from the city to the roads."
+
+**33** All the men of Israel rose from their places and drew up their battle lines at Baal-tamar, while the Israelites in ambush burst out of their position at Maareh-geba.[^20-17]
+
+**34** Ten thousand chosen men from all Israel came against Gibeah, and the fighting was heavy. But the Benjaminites did not know that disaster was close upon them.
+
+**35** Yahweh defeated Benjamin before Israel, and that day the Israelites cut down 25,100 men of Benjamin, all of them armed with swords.
+
+**36** Then the Benjaminites saw that they were defeated.[^20-18] The men of Israel had given ground to Benjamin, because they were relying on the ambush they had set against Gibeah.
+
+**37** The men in ambush moved quickly and rushed against Gibeah. They spread out and put the whole city to the sword.[^20-19]
+
+**38** The men of Israel had agreed on a signal with the men in ambush: they were to send up a great cloud[^20-20] of smoke from the city.
+
+**39** Then the men of Israel turned around in the battle. Benjamin had begun to strike down and kill about thirty men of Israel, for they said, "They are surely defeated before us, as in the first battle."
+
+**40** But the signal began to rise from the city, a column of smoke, and when the Benjaminites looked behind them, the whole city was going up in smoke to the sky.[^20-21]
+
+**41** Then the men of Israel turned around, and the men of Benjamin were terrified, for they saw that disaster had struck them.
+
+**42** So they turned their backs before the men of Israel and fled toward the wilderness, but the battle caught up with them, and those who came out of the towns cut them down among them.[^20-22]
+
+**43** They surrounded the Benjaminites and chased them. They trampled them down with ease[^20-23] as far as a point opposite Gibeah on the east.
+
+**44** Of Benjamin, 18,000 men fell, all of them valiant warriors.
+
+**45** They turned and fled toward the wilderness to the rock of Rimmon. The Israelites picked off[^20-24] 5,000 men on the roads, and they pursued them closely as far as Gidom and struck down 2,000 more of them.
+
+**46** So all the Benjaminites who fell that day were 25,000 men armed with swords, all of them valiant warriors.
+
+**47** But 600 men turned and fled toward the wilderness to the rock of Rimmon, and they stayed at the rock of Rimmon for four months.
+
+**48** The men of Israel turned back against the Benjaminites and put them to the sword, the people of the towns and the animals, everything they found. They also set on fire all the towns they came to.
+
+[^20-1]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^20-2]: Literally "the corners", that is, the chief men.
+[^20-3]: Literally "the lords of Gibeah", its leading citizens (compare 9:2).
+[^20-4]: Hebrew *zimmah u-nevalah*: shameful wickedness that violates what is sacred or right (compare 19:23). Also in verse 10.
+[^20-5]: Literally "against it by lot". The Hebrew sentence is shortened.
+[^20-6]: Probably another form of the name Gibeah.
+[^20-7]: Literally "all the tribes of Benjamin", that is, its clans.
+[^20-8]: Literally "sons of *beliyya'al*", "sons of worthlessness": scoundrels.
+[^20-9]: The Hebrew text is written "Benjamin", but the reading tradition adds "the sons of", that is, "the Benjaminites".
+[^20-10]: Literally "restricted in his right hand". See 3:15.
+[^20-11]: Or "to the house of God". Also in verse 26.
+[^20-12]: Literally "destroyed to the ground in Israel on that day twenty-two thousand men"; similar wording in verse 25.
+[^20-13]: Literally "my brother, the Benjaminites"; also in verse 28.
+[^20-14]: Hebrew *shelamim*, traditionally "peace offerings", sacrifices shared in a meal by the worshipers.
+[^20-15]: Literally "stood before it".
+[^20-16]: Perhaps "Geba". Compare verse 10.
+[^20-17]: The meaning of *Maareh-geba* is uncertain; perhaps "the open ground near Geba".
+[^20-18]: Verses 36–46 tell the battle again in more detail.
+[^20-19]: Literally "struck the whole city by the mouth of the sword"; similar wording in verse 48.
+[^20-20]: The Hebrew word translated "great" is uncertain.
+[^20-21]: Literally "the whole of the city went up toward heaven". *Kalil*, "whole", is also a word for a whole burnt offering.
+[^20-22]: Literally "and those who were from the towns were destroying him in his midst".
+[^20-23]: Hebrew *menuchah*, "resting place" or "ease". It may be a place name: "from Menuhah".
+[^20-24]: Literally "gleaned".
+
+## Chapter 21
+
+*Status: draft*
+
+**1** The men of Israel had sworn an oath at Mizpah: "None of us will give his daughter to Benjamin as a wife."
+
+**2** The people came to Bethel[^21-1] and sat there before God until evening. They wept aloud, with bitter weeping.[^21-2]
+
+**3** They said, "Yahweh,[^21-3] God of Israel, why has this happened in Israel, that today one tribe should be missing from Israel?"
+
+**4** The next day the people got up early and built an altar there, and they offered burnt offerings and fellowship offerings.[^21-4]
+
+**5** Then the Israelites said, "Who from all the tribes of Israel did not come up to the assembly before Yahweh?" For they had taken a solemn oath concerning anyone who did not come up to Yahweh at Mizpah: "He must be put to death."
+
+**6** The Israelites felt sorry for their brother Benjamin, and they said, "Today one tribe has been cut off from Israel.
+
+**7** What shall we do about wives for those who are left? We have sworn by Yahweh not to give them any of our daughters as wives."
+
+**8** They said, "Which one of the tribes of Israel did not come up to Yahweh at Mizpah?" And it turned out that no one from Jabesh-gilead had come to the camp, to the assembly.
+
+**9** For when the people were counted, not one of the people living in Jabesh-gilead was there.
+
+**10** So the community sent twelve thousand of their bravest men there, and commanded them, "Go and put the people living in Jabesh-gilead to the sword,[^21-5] including the women and the little children.
+
+**11** This is what you are to do: devote to destruction[^21-6] every male and every woman who has slept with a man."
+
+**12** Among the people living in Jabesh-gilead they found four hundred young women who were virgins, who had never slept with a man, and they brought them to the camp at Shiloh, in the land of Canaan.
+
+**13** Then the whole community sent word to the Benjaminites who were at the rock of Rimmon, and they offered them peace.
+
+**14** So Benjamin came back at that time, and they gave them the women of Jabesh-gilead whom they had kept alive. But there were not enough for them.
+
+**15** The people felt sorry for Benjamin, because Yahweh had made a gap in the tribes of Israel.
+
+**16** The elders of the community said, "What shall we do about wives for those who are left, since the women of Benjamin have been wiped out?"
+
+**17** They said, "The survivors of Benjamin must have heirs,[^21-7] so that a tribe will not be blotted out from Israel.
+
+**18** But we cannot give them wives from our daughters, for the Israelites have sworn, 'Cursed is anyone who gives a wife to Benjamin.'"
+
+**19** Then they said, "Look, there is the yearly festival of Yahweh at Shiloh, which is north of Bethel, east of the road that goes up from Bethel to Shechem, and south of Lebonah."
+
+**20** So they instructed[^21-8] the Benjaminites, "Go and lie in wait in the vineyards.
+
+**21** Watch, and when the young women of Shiloh come out to dance in the dances, come out of the vineyards and each of you seize a wife for himself from the young women of Shiloh, and go to the land of Benjamin.
+
+**22** When their fathers or their brothers come to complain to us, we will say to them, 'Be kind to us and let them have them, because we did not get a wife for each of them in the battle. And you are not guilty, because you did not give your daughters to them.'"[^21-9]
+
+**23** The Benjaminites did so. They took wives, as many as they were, from the dancers they had seized. Then they went back to their inheritance, rebuilt the towns, and lived in them.
+
+**24** At that time the Israelites left there, each to his tribe and his clan. Each of them went out from there to his own inheritance.
+
+**25** In those days there was no king in Israel. Everyone did what was right in his own eyes.
+
+[^21-1]: Or "to the house of God".
+[^21-2]: Literally "They lifted up their voice and wept a great weeping."
+[^21-3]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^21-4]: Hebrew *shelamim*, traditionally "peace offerings", sacrifices shared in a meal by the worshipers.
+[^21-5]: Literally "strike … by the mouth of the sword".
+[^21-6]: Hebrew *charam*: to give something over completely to God, which in war meant destroying it. See 1:17.
+[^21-7]: The meaning of the Hebrew is uncertain. Literally "an inheritance of a remnant for Benjamin".
+[^21-8]: The Hebrew text is written "he instructed" but read "they instructed".
+[^21-9]: The Hebrew of this verse is difficult. Literally "Be gracious to us with them, for we did not take each man his wife in the battle; for you did not give to them; at this time you would be guilty."

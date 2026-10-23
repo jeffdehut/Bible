@@ -1448,3 +1448,755 @@
 [^18-21]: The Septuagint reads "a hundred"; compare 2 Samuel 3:14.
 [^18-22]: The Septuagint reads "and that all Israel loved him".
 [^18-23]: Literally "all the days".
+
+## Chapter 19
+
+*Status: draft*
+
+**1** Saul told his son Jonathan and all his servants to kill David. But Saul's son Jonathan was very fond of David.
+
+**2** So Jonathan told David, "My father Saul is trying to kill you. So be on your guard in the morning. Stay in a hiding place and keep out of sight.
+
+**3** I will go out and stand beside my father in the field where you are. I will speak to my father about you, and if I find out anything,[^19-1] I will tell you."
+
+**4** Jonathan spoke well of David to his father Saul. He said to him, "Let the king not sin against his servant David, for he has not sinned against you, and what he has done has been very good for you.
+
+**5** He took his life in his hands[^19-2] and struck down the Philistine, and Yahweh[^19-3] brought about a great victory for all Israel. You saw it and rejoiced. Why then would you sin against innocent blood by killing David for no reason?"
+
+**6** Saul listened to Jonathan, and Saul swore, "As surely as Yahweh lives, he will not be put to death."
+
+**7** Jonathan called David and told him all these things. Then Jonathan brought David to Saul, and he was with him as before.[^19-4]
+
+**8** Once again there was war. David went out and fought against the Philistines and struck them with a great slaughter, and they fled before him.
+
+**9** Then an evil spirit from Yahweh came on Saul as he was sitting in his house with his spear in his hand, while David was playing the lyre.[^19-5]
+
+**10** Saul tried to pin David to the wall with the spear, but David slipped away from Saul, and he drove the spear into the wall. David fled and escaped that night.
+
+**11** Saul sent messengers to David's house to watch it and to kill him in the morning. But Michal, David's wife, warned him, "If you do not escape with your life[^19-6] tonight, tomorrow you will be put to death."
+
+**12** So Michal let David down through the window, and he went and fled and escaped.
+
+**13** Michal took the household god[^19-7] and laid it on the bed. She put a mat of goat hair[^19-8] at its head and covered it with a garment.
+
+**14** When Saul sent messengers to take David, she said, "He is sick."
+
+**15** Then Saul sent the messengers back to see David, saying, "Bring him up to me in his bed, so that I may kill him."
+
+**16** When the messengers came in, there was the household god in the bed, with the goat hair at its head.
+
+**17** Saul said to Michal, "Why have you deceived me like this and let my enemy go, so that he has escaped?" Michal answered Saul, "He said to me, 'Let me go. Why should I kill you?'"
+
+**18** So David fled and escaped, and came to Samuel at Ramah. He told him all that Saul had done to him. Then he and Samuel went and stayed at Naioth.[^19-9]
+
+**19** Saul was told, "David is at Naioth in Ramah."
+
+**20** Saul sent messengers to take David. But when they saw the company[^19-10] of prophets prophesying, with Samuel standing there as their leader, the Spirit of God came on Saul's messengers, and they too prophesied.[^19-11]
+
+**21** When Saul was told, he sent other messengers, and they too prophesied. Saul sent messengers a third time, and they too prophesied.
+
+**22** Then he himself went to Ramah. He came to the great cistern at Secu and asked, "Where are Samuel and David?" Someone said, "They are at Naioth in Ramah."
+
+**23** So he went there, to Naioth in Ramah. The Spirit of God came on him too, and he went on, prophesying as he walked, until he came to Naioth in Ramah.
+
+**24** He too stripped off his clothes, and he too prophesied before Samuel. He lay there naked[^19-12] all that day and all that night. That is why people say, "Is Saul also among the prophets?"
+
+[^19-1]: Literally "and I will see what (there is)".
+[^19-2]: Literally "He put his *nephesh* in his palm".
+[^19-3]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^19-4]: Literally "as yesterday and the day before".
+[^19-5]: Literally "playing with his hand"; see 16:23.
+[^19-6]: Literally "save your *nephesh*".
+[^19-7]: Hebrew *teraphim*, images of gods kept in the home (Genesis 31:19; see 15:23). Here the plural form is used of a single image, apparently the size of a man. Also in verse 16.
+[^19-8]: Hebrew *kevir ha-izzim*, of uncertain meaning: perhaps a quilt, net or tangle of goat hair. Also in verse 16.
+[^19-9]: *Naioth* may mean "dwellings", perhaps the place where the prophets lived. Also in verses 19, 22 and 23.
+[^19-10]: Hebrew *lahaqat*, a word found only here.
+[^19-11]: See 10:5. Also in verses 21, 23 and 24.
+[^19-12]: Or "with only his undergarments".
+
+## Chapter 20
+
+*Status: draft*
+
+**1** David fled from Naioth in Ramah and came and said to Jonathan, "What have I done? What is my guilt? What is my sin against your father, that he is seeking my life?"
+
+**2** Jonathan said to him, "Far from it! You will not die. Look, my father does nothing, great or small, without telling me.[^20-1] Why would my father hide this from me? It is not so!"
+
+**3** But David took an oath again and said, "Your father knows very well that I have found favor in your eyes, and he has thought, 'Jonathan must not know this, or he will be grieved.' But truly, as surely as Yahweh[^20-2] lives and as surely as you live,[^20-3] there is only a step between me and death."
+
+**4** Jonathan said to David, "Whatever you want,[^20-4] I will do for you."
+
+**5** David said to Jonathan, "Look, tomorrow is the new moon,[^20-5] and I am supposed to sit with the king at the meal. But let me go, and I will hide in the field until the evening of the third day.
+
+**6** If your father misses me at all, say, 'David earnestly asked my permission to hurry to Bethlehem, his town, because the yearly sacrifice is there for the whole clan.'
+
+**7** If he says, 'Good,' your servant is safe.[^20-6] But if he becomes angry, you will know that he has made up his mind to harm me.[^20-7]
+
+**8** So show faithful love to your servant, for you have brought your servant into a covenant of Yahweh with you. But if there is guilt in me, kill me yourself. Why should you bring me to your father?"
+
+**9** Jonathan said, "Far be it from you! If I knew for certain that my father had made up his mind to bring harm on you, would I not tell you?"
+
+**10** David said to Jonathan, "Who will tell me if your father gives you a harsh answer?"
+
+**11** Jonathan said to David, "Come, let us go out into the field." So the two of them went out into the field.
+
+**12** Jonathan said to David, "Yahweh, the God of Israel, is my witness![^20-8] I will sound out my father about this time tomorrow, or the day after.[^20-9] If he is well disposed toward David, will I not then send to you and let you know?[^20-10]
+
+**13** But if my father intends to harm you, may Yahweh deal with Jonathan, and more severely,[^20-11] if I do not let you know and send you away, so that you may go in peace. May Yahweh be with you as he was with my father.
+
+**14** And if I am still alive, show me the faithful love of Yahweh, so that I do not die.[^20-12]
+
+**15** And never cut off your faithful love from my family,[^20-13] not even when Yahweh cuts off every one of David's enemies from the face of the earth."
+
+**16** So Jonathan made a covenant with the house of David: "May Yahweh call David's enemies to account."[^20-14]
+
+**17** Jonathan made David swear again because of his love for him,[^20-15] for he loved him as he loved himself.
+
+**18** Jonathan said to him, "Tomorrow is the new moon, and you will be missed, because your seat will be empty.
+
+**19** On the third day, go down quickly[^20-16] and come to the place where you hid on the day of the earlier affair,[^20-17] and stay beside the stone Ezel.[^20-18]
+
+**20** I will shoot three arrows to the side of it, as though I were shooting at a target.
+
+**21** Then I will send the boy: 'Go, find the arrows.' If I say to the boy, 'Look, the arrows are on this side of you, pick them up,' then come, for it is safe for you and there is no danger,[^20-19] as surely as Yahweh lives.
+
+**22** But if I say to the young man, 'Look, the arrows are beyond you,' then go, for Yahweh has sent you away.
+
+**23** As for the matter you and I have spoken about, Yahweh is between you and me[^20-20] for ever."
+
+**24** So David hid in the field. When the new moon came, the king sat down to eat the meal.
+
+**25** The king sat in his seat as usual, the seat by the wall. Jonathan stood up,[^20-21] and Abner sat beside Saul, but David's place was empty.
+
+**26** Saul did not say anything that day, for he thought, "Something has happened to him. He must be unclean; surely he is unclean."[^20-22]
+
+**27** But on the day after the new moon, the second day, David's place was empty again. Saul said to his son Jonathan, "Why hasn't the son of Jesse come to the meal, either yesterday or today?"
+
+**28** Jonathan answered Saul, "David earnestly asked my permission to go to Bethlehem.
+
+**29** He said, 'Please let me go, for our family has a sacrifice in the town, and my brother has ordered me to be there. So now, if I have found favor in your eyes, let me slip away to see my brothers.' That is why he has not come to the king's table."
+
+**30** Then Saul's anger burned against Jonathan, and he said to him, "You son of a perverse, rebellious woman![^20-23] Don't I know that you have sided with[^20-24] the son of Jesse, to your own shame and to the shame of your mother's nakedness?[^20-25]
+
+**31** For as long as the son of Jesse lives on the earth, neither you nor your kingship will be secure. Now send and bring him to me, for he deserves to die."[^20-26]
+
+**32** Jonathan answered his father Saul, "Why should he be put to death? What has he done?"
+
+**33** But Saul hurled his spear at him to strike him. Then Jonathan knew that his father had made up his mind to kill David.
+
+**34** Jonathan got up from the table in fierce anger, and he ate no food on the second day of the new moon, for he was grieved for David, because his father had disgraced him.[^20-27]
+
+**35** In the morning Jonathan went out into the field for his meeting with David,[^20-28] and a young boy was with him.
+
+**36** He said to his boy, "Run, find the arrows I am shooting." As the boy ran, he shot an arrow beyond him.
+
+**37** When the boy came to the place where Jonathan's arrow had fallen, Jonathan called out after the boy, "Isn't the arrow beyond you?"
+
+**38** Jonathan called out after the boy, "Hurry! Be quick! Don't stand still!" So Jonathan's boy gathered up the arrows[^20-29] and came back to his master.
+
+**39** The boy knew nothing; only Jonathan and David knew about the matter.
+
+**40** Then Jonathan gave his weapons to his boy and said to him, "Go, take them to the town."
+
+**41** As soon as the boy had gone, David got up from beside the south side,[^20-30] fell with his face to the ground and bowed down three times. They kissed each other and wept with each other, but David wept the most.[^20-31]
+
+**42** Jonathan said to David, "Go in peace, for the two of us have sworn in the name of Yahweh, saying, 'Yahweh will be between me and you, and between my descendants and your descendants for ever.'"[^20-32]
+
+[^20-1]: Literally "without uncovering my ear".
+[^20-2]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^20-3]: Literally "as your *nephesh* lives".
+[^20-4]: Literally "Whatever your *nephesh* says".
+[^20-5]: The first day of the month, marked with sacrifices and a feast (Numbers 10:10; 28:11–15). Also in verses 18, 24, 27 and 34.
+[^20-6]: Literally "*shalom* (peace) to your servant".
+[^20-7]: Literally "that the evil is decided by him". Also in verses 9 and 33.
+[^20-8]: The Hebrew begins abruptly: "Yahweh, the God of Israel!" The words "is my witness" are added to make the sense clear.
+[^20-9]: Literally "tomorrow, the third (day)".
+[^20-10]: Literally "and uncover your ear". Also in verse 13.
+[^20-11]: Literally "Thus may Yahweh do to Jonathan and thus may he add"; see 3:17.
+[^20-12]: The Hebrew of verses 14–15 is difficult.
+[^20-13]: Literally "house".
+[^20-14]: Literally "And Jonathan cut with the house of David, and Yahweh will seek (it) from the hand of David's enemies." "David's enemies" may stand for David himself, to avoid speaking of a curse on him; compare 25:22.
+[^20-15]: The Septuagint reads "Jonathan swore again to David".
+[^20-16]: Literally "And you will do it a third time; go down greatly". The Hebrew is difficult.
+[^20-17]: Literally "on the day of the deed", perhaps the time described in 19:2–3.
+[^20-18]: Hebrew *ha-even ha-azel*, perhaps "the stone of departure". The Septuagint reads "beside that mound".
+[^20-19]: Literally "for there is *shalom* (peace) for you, and there is nothing".
+[^20-20]: That is, as witness. Also in verse 42.
+[^20-21]: The meaning is uncertain.
+[^20-22]: That is, ritually unclean, and so unable to share in the sacred meal (Leviticus 7:20–21).
+[^20-23]: Literally "son of a perverse woman of rebellion".
+[^20-24]: Literally "are choosing". The Septuagint reads "are a companion of".
+[^20-25]: That is, to the shame of the mother who bore you.
+[^20-26]: Literally "for he is a son of death".
+[^20-27]: The Hebrew does not make clear whether "him" is David or Jonathan.
+[^20-28]: Literally "for the appointed time of David".
+[^20-29]: The Hebrew text is written "the arrow" but read "the arrows".
+[^20-30]: Literally "from beside the south". The Septuagint reads "from beside the mound"; see verse 19.
+[^20-31]: Literally "until David made it great".
+[^20-32]: In most English Bibles, 21:1 is the second half of this verse.
+
+## Chapter 21
+
+*Status: draft*
+
+**1** Then David got up and left, and Jonathan went back to the town.[^21-1]
+
+**2** David came to Nob, to Ahimelech the priest. Ahimelech came trembling to meet David and said to him, "Why are you alone, with no one with you?"
+
+**3** David said to Ahimelech the priest, "The king has given me a mission,[^21-2] and he said to me, 'Let no one know anything about the mission I am sending you on and the orders I have given you.' As for my young men, I have told them to meet me at such and such a place.
+
+**4** Now then, what do you have on hand?[^21-3] Give me five loaves of bread, or whatever can be found."
+
+**5** The priest answered David, "I have no ordinary bread on hand, only holy bread, provided the young men have kept themselves from women."
+
+**6** David answered the priest, "Women have certainly been kept from us, as always when I set out.[^21-4] The young men's bodies[^21-5] are holy even on an ordinary journey. How much more today will they be holy in their bodies!"[^21-6]
+
+**7** So the priest gave him holy bread, for there was no bread there except the bread of the Presence,[^21-7] which had been removed from before Yahweh[^21-8] so that hot bread could be put in its place on the day it was taken away.
+
+**8** Now one of Saul's servants was there that day, detained before Yahweh.[^21-9] His name was Doeg the Edomite, the chief of Saul's shepherds.[^21-10]
+
+**9** David said to Ahimelech, "Don't you have a spear or a sword here on hand? I didn't bring my sword or my weapons with me, because the king's business was urgent."
+
+**10** The priest said, "The sword of Goliath the Philistine, whom you struck down in the Valley of Elah, is here, wrapped in a cloth behind the ephod. If you want to take it, take it, for there is no other here." David said, "There is none like it. Give it to me."
+
+**11** That day David got up and fled from Saul, and came to Achish king of Gath.
+
+**12** But the servants of Achish said to him, "Isn't this David, the king of the land? Isn't he the one they sing about in their dances: 'Saul has struck down his thousands, and David his tens of thousands'?"[^21-11]
+
+**13** David took these words to heart and was very much afraid of Achish king of Gath.
+
+**14** So he changed his behavior[^21-12] in front of them and acted like a madman in their hands. He scribbled[^21-13] on the doors of the gate and let his saliva run down his beard.
+
+**15** Achish said to his servants, "Look, you can see the man is mad! Why did you bring him to me?
+
+**16** Am I short of madmen, that you have brought this one to act like a madman in front of me? Must this man come into my house?"
+
+[^21-1]: Verse 1 is the second half of 20:42 in most English Bibles, and verses 2–16 are 21:1–15.
+[^21-2]: Literally "The king commanded me a matter". Also later in the verse.
+[^21-3]: Literally "under your hand". Also in verses 5 and 9.
+[^21-4]: Literally "as yesterday and the day before when I went out".
+[^21-5]: Literally "vessels", that is, perhaps their bodies, or their gear.
+[^21-6]: The Hebrew of this verse is difficult.
+[^21-7]: Hebrew *lechem ha-panim*, "the bread of the face": twelve loaves set out before Yahweh in the sanctuary and replaced each Sabbath (Exodus 25:30; Leviticus 24:5–9).
+[^21-8]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^21-9]: Hebrew *ne'tsar*, "held back", perhaps to fulfill a vow or for purification.
+[^21-10]: Literally "the mightiest of the shepherds".
+[^21-11]: The Hebrew text is written "his thousand ... his ten thousand" but read "his thousands ... his tens of thousands". Compare 18:7.
+[^21-12]: Literally "changed his sense", that is, pretended to be mad. The title of Psalm 34 refers to this event.
+[^21-13]: Or "made marks". The Septuagint reads "drummed".
+
+## Chapter 22
+
+*Status: draft*
+
+**1** David left there and escaped to the cave of Adullam. When his brothers and all his father's household heard of it, they went down to him there.
+
+**2** Everyone who was in distress, everyone who was in debt, and everyone who was bitter in spirit[^22-1] gathered to him, and he became their commander. About four hundred men were with him.
+
+**3** From there David went to Mizpeh in Moab and said to the king of Moab, "Please let my father and mother come and stay with you[^22-2] until I know what God will do for me."
+
+**4** So he left them with[^22-3] the king of Moab, and they stayed with him the whole time David was in the stronghold.
+
+**5** But the prophet Gad said to David, "Do not stay in the stronghold. Go into the land of Judah." So David left and went to the forest of Hereth.
+
+**6** Saul heard that David and the men with him had been discovered. Saul was sitting at Gibeah under the tamarisk tree on the height,[^22-4] with his spear in his hand, and all his servants were standing around him.
+
+**7** Saul said to his servants who stood around him, "Listen, you Benjaminites! Will the son of Jesse give every one of you fields and vineyards? Will he make all of you commanders of thousands and commanders of hundreds?
+
+**8** Is that why all of you have conspired against me? No one tells me[^22-5] when my son makes a covenant with the son of Jesse. None of you is sorry for me[^22-6] or tells me that my son has stirred up my servant to lie in wait against me, as he does today."
+
+**9** Then Doeg the Edomite, who was standing with Saul's servants,[^22-7] answered, "I saw the son of Jesse come to Nob, to Ahimelech son of Ahitub.
+
+**10** Ahimelech inquired of Yahweh[^22-8] for him, gave him provisions, and gave him the sword of Goliath the Philistine."
+
+**11** Then the king sent for Ahimelech the priest, son of Ahitub, and all his father's family, the priests who were at Nob, and they all came to the king.
+
+**12** Saul said, "Listen, son of Ahitub." He said, "Here I am, my lord."
+
+**13** Saul said to him, "Why have you conspired against me, you and the son of Jesse? You gave him bread and a sword and inquired of God for him, so that he has risen against me to lie in wait, as he does today."
+
+**14** Ahimelech answered the king, "Who among all your servants is as faithful as David? He is the king's son-in-law, captain of your bodyguard,[^22-9] and honored in your household.
+
+**15** Was that day the first time I inquired of God for him? Far from it! Let not the king accuse[^22-10] his servant or any of my father's family, for your servant knew nothing at all about all this, small or great."
+
+**16** The king said, "You will surely die, Ahimelech, you and all your father's family."
+
+**17** Then the king said to the guards[^22-11] standing around him, "Turn and kill the priests of Yahweh, for they too are on David's side.[^22-12] They knew he was fleeing, yet they did not tell me."[^22-13] But the king's servants would not lift a hand to strike down the priests of Yahweh.
+
+**18** The king said to Doeg, "You turn and strike down the priests." So Doeg the Edomite turned and struck down the priests himself. That day he killed eighty-five men who wore the linen ephod.[^22-14]
+
+**19** He also put Nob, the town of the priests, to the sword: men and women, children and babies, oxen, donkeys and sheep, he put to the sword.
+
+**20** But one son of Ahimelech son of Ahitub escaped. His name was Abiathar, and he fled to join David.[^22-15]
+
+**21** Abiathar told David that Saul had killed the priests of Yahweh.
+
+**22** David said to Abiathar, "I knew that day, when Doeg the Edomite was there, that he would be sure to tell Saul. I am to blame for[^22-16] the death of everyone in your father's family.
+
+**23** Stay with me. Do not be afraid. The one who seeks my life seeks your life, but with me you will be safe."[^22-17]
+
+[^22-1]: Literally "bitter of *nephesh*".
+[^22-2]: Literally "go out with you".
+[^22-3]: Literally "he led them before". With different vowels, "he left them with".
+[^22-4]: Or "at Ramah".
+[^22-5]: Literally "No one uncovers my ear". Also later in the verse.
+[^22-6]: Literally "is sick for me".
+[^22-7]: Or "who was in charge of Saul's servants".
+[^22-8]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^22-9]: Hebrew *sar el mishma'tekha*, of uncertain meaning; perhaps "who turns aside to your obedience" or "who has access to your private council".
+[^22-10]: Literally "put a thing against".
+[^22-11]: Literally "runners".
+[^22-12]: Literally "for their hand too is with David".
+[^22-13]: The Hebrew text is written "did not uncover his ear" but read "did not uncover my ear".
+[^22-14]: The Septuagint reads "305 men". For the linen ephod, see 2:18.
+[^22-15]: Literally "fled after David".
+[^22-16]: Literally "I have turned against every *nephesh* of your father's house". The Septuagint reads "I am guilty of".
+[^22-17]: Literally "for you are a charge (in safekeeping) with me".
+
+## Chapter 23
+
+*Status: draft*
+
+**1** David was told, "Look, the Philistines are fighting against Keilah and plundering the threshing floors."
+
+**2** So David inquired of Yahweh,[^23-1] "Shall I go and attack these Philistines?" Yahweh said to David, "Go, attack the Philistines and save Keilah."
+
+**3** But David's men said to him, "Look, we are afraid here in Judah. How much more if we go to Keilah against the ranks of the Philistines!"
+
+**4** Once again David inquired of Yahweh, and Yahweh answered him, "Get up, go down to Keilah, for I am giving the Philistines into your hands."
+
+**5** So David and his men[^23-2] went to Keilah and fought the Philistines. He drove off their livestock and struck them with a great slaughter. So David saved the people of Keilah.
+
+**6** When Abiathar son of Ahimelech fled to David at Keilah, he came down with an ephod in his hand.
+
+**7** Saul was told that David had come to Keilah. Saul said, "God has handed him over[^23-3] to me, for he has shut himself in by entering a town with gates and bars."
+
+**8** Saul summoned all the troops for war, to go down to Keilah and besiege David and his men.
+
+**9** When David learned that Saul was plotting evil against him, he said to Abiathar the priest, "Bring the ephod here."
+
+**10** Then David said, "Yahweh, God of Israel, your servant has clearly heard that Saul intends to come to Keilah to destroy the town because of me.
+
+**11** Will the leading men[^23-4] of Keilah hand me over to him? Will Saul come down, as your servant has heard? Yahweh, God of Israel, please tell your servant." Yahweh said, "He will come down."
+
+**12** David asked, "Will the leading men of Keilah hand me and my men over to Saul?" Yahweh said, "They will hand you over."
+
+**13** So David and his men, about six hundred, got up and left Keilah, and they went wherever they could go.[^23-5] When Saul was told that David had escaped from Keilah, he gave up the expedition.
+
+**14** David stayed in the strongholds in the wilderness, in the hill country of the wilderness of Ziph. Saul searched for him every day, but God did not give him into his hands.
+
+**15** David saw[^23-6] that Saul had come out to seek his life. David was in the wilderness of Ziph at Horesh.[^23-7]
+
+**16** Saul's son Jonathan set out and came to David at Horesh, and strengthened his hand in God.[^23-8]
+
+**17** He said to him, "Do not be afraid, for the hand of my father Saul will not find you. You will be king over Israel, and I will be second to you. Even my father Saul knows this."
+
+**18** The two of them made a covenant before Yahweh. David stayed at Horesh, and Jonathan went home.
+
+**19** Then the Ziphites went up to Saul at Gibeah and said, "Is not David hiding among us in the strongholds at Horesh, on the hill of Hachilah, south of Jeshimon?[^23-9]
+
+**20** Now, O king, come down whenever you wish to come down,[^23-10] and it will be our part to hand him over to the king."
+
+**21** Saul said, "May you be blessed by Yahweh, for you have had compassion on me.
+
+**22** Go and make sure once more.[^23-11] Find out and see the place where he goes[^23-12] and who has seen him there, for I am told he is very cunning.
+
+**23** Look and find out all the hiding places where he hides, and come back to me with certain information. Then I will go with you, and if he is in the land, I will search him out among all the clans[^23-13] of Judah."
+
+**24** So they got up and went to Ziph ahead of Saul. David and his men were in the wilderness of Maon, in the Arabah,[^23-14] south of Jeshimon.
+
+**25** Saul and his men went to search for him. When David was told, he went down to the rock and stayed in the wilderness of Maon. When Saul heard of it, he pursued David into the wilderness of Maon.
+
+**26** Saul went along one side of the mountain, and David and his men along the other side of the mountain. David was hurrying to get away from Saul, while Saul and his men were closing in on David and his men to capture them.
+
+**27** But a messenger came to Saul, saying, "Hurry and come, for the Philistines have made a raid on the land."
+
+**28** So Saul turned back from pursuing David and went to meet the Philistines. That is why that place is called the Rock of Escape.[^23-15]
+
+[^23-1]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^23-2]: The Hebrew text is written "his man" but read "his men".
+[^23-3]: The meaning of the Hebrew verb is uncertain.
+[^23-4]: Hebrew *ba'alei*, "lords, owners", the town's leading citizens. Also in verse 12.
+[^23-5]: Literally "and they went about wherever they went about".
+[^23-6]: Or, with different vowels, "David was afraid".
+[^23-7]: Or "in the thicket". Also in verses 16, 18 and 19.
+[^23-8]: That is, encouraged him to trust in God.
+[^23-9]: Hebrew *ha-yeshimon*, "the wasteland". Literally "on the right of", that is, south of. Also in verse 24.
+[^23-10]: Literally "according to all the desire of your *nephesh* to come down".
+[^23-11]: Literally "make ready yet more".
+[^23-12]: Literally "where his foot is".
+[^23-13]: Literally "thousands".
+[^23-14]: The desert plain of the Jordan valley and the Dead Sea.
+[^23-15]: Hebrew *Sela ha-machleqot*, perhaps "Rock of Parting" or "Slippery Rock". In most English Bibles, 24:1 is verse 29 of this chapter.
+
+## Chapter 24
+
+*Status: draft*
+
+**1** David went up from there and stayed in the strongholds of En-gedi.[^24-1]
+
+**2** When Saul came back from pursuing the Philistines, he was told, "David is in the wilderness of En-gedi."
+
+**3** So Saul took three thousand chosen men from all Israel and went to look for David and his men in front of the Rocks of the Wild Goats.
+
+**4** He came to the sheepfolds by the road, where there was a cave, and Saul went in to relieve himself.[^24-2] David and his men were sitting in the back of the cave.
+
+**5** David's men said to him, "This is the day Yahweh[^24-3] spoke of when he said to you, 'I am giving your enemy[^24-4] into your hands, and you can do to him whatever seems good to you.'" Then David got up and secretly cut off the corner of Saul's robe.
+
+**6** Afterward David's conscience troubled him[^24-5] because he had cut off the corner of Saul's robe.
+
+**7** He said to his men, "Yahweh forbid[^24-6] that I should do such a thing to my lord, Yahweh's anointed,[^24-7] and raise my hand against him, for he is Yahweh's anointed."
+
+**8** With these words David restrained[^24-8] his men and did not let them rise up against Saul. Then Saul got up, left the cave and went on his way.
+
+**9** Afterward David also got up, went out of the cave and called after Saul, "My lord the king!" When Saul looked behind him, David bowed with his face to the ground and lay down before him.
+
+**10** David said to Saul, "Why do you listen to the words of people who say, 'David is seeking to harm you'?
+
+**11** This very day your own eyes have seen how Yahweh gave you into my hands in the cave today. Some told me to kill you,[^24-9] but I spared you.[^24-10] I said, 'I will not raise my hand against my lord, for he is Yahweh's anointed.'
+
+**12** Look, my father, see the corner of your robe in my hand! Since I cut off the corner of your robe and did not kill you, you can know and see that I am guilty of no evil or rebellion.[^24-11] I have not sinned against you, yet you are hunting me down to take my life.
+
+**13** May Yahweh judge between me and you, and may Yahweh avenge me on you, but my hand will not be against you.
+
+**14** As the ancient proverb says, 'Out of the wicked comes wickedness.' But my hand will not be against you.
+
+**15** Against whom has the king of Israel come out? Whom are you pursuing? A dead dog! A single flea!
+
+**16** May Yahweh be the judge and decide between me and you. May he see and plead my cause, and vindicate me by rescuing me from your hand."[^24-12]
+
+**17** When David had finished saying these words to Saul, Saul said, "Is that your voice, my son David?" And Saul wept aloud.
+
+**18** He said to David, "You are more righteous than I, for you have repaid me with good, while I have repaid you with evil.
+
+**19** Today you have shown how well you have dealt with me, for Yahweh handed me over to you, but you did not kill me.
+
+**20** When a man finds his enemy, does he let him go on his way unharmed? May Yahweh reward you with good for what you have done for me today.
+
+**21** Now I know that you will surely be king, and that the kingdom of Israel will be established in your hand.
+
+**22** So swear to me by Yahweh that you will not cut off my descendants after me, or wipe out my name from my father's family."
+
+**23** So David swore this to Saul. Then Saul went home, but David and his men went up to the stronghold.
+
+[^24-1]: Verse 1 is 23:29 in most English Bibles, and verses 2–23 are 24:1–22.
+[^24-2]: Literally "to cover his feet", a polite expression.
+[^24-3]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^24-4]: The Hebrew text is written "your enemies" but read "your enemy".
+[^24-5]: Literally "David's heart struck him".
+[^24-6]: Literally "Far be it from me, from Yahweh".
+[^24-7]: Hebrew *meshiach YHWH*, "the anointed one of Yahweh", that is, the king; see 2:10. Also later in the verse and in verse 11.
+[^24-8]: The meaning of the Hebrew verb is uncertain.
+[^24-9]: Literally "And one said to kill you".
+[^24-10]: Literally "and it had pity on you", that is, my eye. The Septuagint reads "and I spared you".
+[^24-11]: Literally "that there is no evil or rebellion in my hand".
+[^24-12]: Literally "and judge me from your hand".
+
+## Chapter 25
+
+*Status: draft*
+
+**1** Samuel died, and all Israel gathered and mourned for him. They buried him at his home in Ramah. Then David got up and went down to the wilderness of Paran.[^25-1]
+
+**2** There was a man in Maon whose business[^25-2] was in Carmel.[^25-3] The man was very rich. He had three thousand sheep and a thousand goats, and he was shearing his sheep at Carmel.
+
+**3** The man's name was Nabal,[^25-4] and his wife's name was Abigail. The woman was intelligent and beautiful, but the man was harsh and evil in his dealings. He was a Calebite.[^25-5]
+
+**4** While David was in the wilderness, he heard that Nabal was shearing his sheep.
+
+**5** So David sent ten young men. David said to the young men, "Go up to Carmel, go to Nabal and greet him in my name.[^25-6]
+
+**6** Say this:[^25-7] 'Peace to you, peace to your household, and peace to all that is yours!
+
+**7** I hear that you are shearing. Now your shepherds have been with us. We did not harm them, and nothing of theirs went missing the whole time they were at Carmel.
+
+**8** Ask your young men, and they will tell you. So let my young men find favor in your eyes, for we have come on a festive day.[^25-8] Please give whatever you have on hand[^25-9] to your servants and to your son David.'"
+
+**9** When David's young men arrived, they said all this to Nabal in David's name, and then they waited.
+
+**10** Nabal answered David's servants, "Who is David? Who is this son of Jesse? Nowadays there are many servants breaking away from their masters.
+
+**11** Should I take my bread and my water and the meat I have slaughtered for my shearers, and give it to men who come from who knows where?"
+
+**12** So David's young men turned and went back. They came and reported all these words to him.
+
+**13** David said to his men, "Each of you, strap on your sword!" So each of them strapped on his sword, and David also strapped on his sword. About four hundred men went up after David, while two hundred stayed with the supplies.
+
+**14** But one of the young men told Abigail, Nabal's wife, "Look, David sent messengers from the wilderness to greet[^25-10] our master, but he screamed insults at them.[^25-11]
+
+**15** Yet the men were very good to us. They did not harm us, and we did not miss anything the whole time we went about with them while we were in the open country.
+
+**16** They were a wall around us both night and day, the whole time we were with them looking after the sheep.
+
+**17** Now think it over and see what you can do, for disaster is determined against our master and against his whole household. He is such a worthless man[^25-12] that no one can speak to him."
+
+**18** Abigail hurried. She took two hundred loaves of bread, two skins of wine, five sheep already prepared, five seahs[^25-13] of roasted grain, a hundred clusters of raisins and two hundred cakes of pressed figs, and loaded them on donkeys.
+
+**19** She said to her young men, "Go on ahead of me. I am coming after you." But she did not tell her husband Nabal.
+
+**20** As she was riding on her donkey and coming down under cover of the mountain, there were David and his men coming down toward her, and she met them.
+
+**21** Now David had said, "It was all for nothing that I guarded everything this fellow had in the wilderness, so that nothing of his went missing. He has paid me back evil for good.
+
+**22** May God deal with David's enemies, and more severely,[^25-14] if by morning I leave alive a single male[^25-15] of all who belong to him."
+
+**23** When Abigail saw David, she quickly got down from the donkey and fell on her face before David, bowing to the ground.
+
+**24** She fell at his feet and said, "On me, my lord, on me be the guilt! Please let your servant[^25-16] speak to you,[^25-17] and listen to the words of your servant.
+
+**25** Please, my lord, pay no attention to this worthless man,[^25-18] Nabal. He is just like his name. Nabal is his name, and folly[^25-19] goes with him. But I, your servant, did not see the young men my lord sent.
+
+**26** Now, my lord, as surely as Yahweh[^25-20] lives and as surely as you live,[^25-21] since Yahweh has kept you from bloodshed and from taking vengeance with your own hand,[^25-22] now let your enemies and those who seek to harm my lord be like Nabal.
+
+**27** And now let this gift[^25-23] that your servant[^25-24] has brought to my lord be given to the young men who follow my lord.[^25-25]
+
+**28** Please forgive your servant's offense. Yahweh will certainly make a lasting house[^25-26] for my lord, because my lord fights the battles of Yahweh, and no evil will be found in you as long as you live.
+
+**29** If anyone rises up to pursue you and seek your life, the life of my lord will be bound securely in the bundle of the living[^25-27] with Yahweh your God. But the lives of your enemies he will sling away as from the pocket of a sling.
+
+**30** When Yahweh has done for my lord all the good he has promised concerning you, and has appointed you ruler[^25-28] over Israel,
+
+**31** my lord will not have this as a cause of stumbling or a burden on his conscience,[^25-29] that he shed blood for no reason or took vengeance for himself. And when Yahweh has dealt well with my lord, remember your servant."
+
+**32** David said to Abigail, "Blessed be Yahweh, the God of Israel, who sent you to meet me today!
+
+**33** Blessed be your good sense, and blessed be you, for keeping me today from bloodshed and from taking vengeance with my own hand.
+
+**34** But as surely as Yahweh, the God of Israel, lives, who has kept me from harming you, if you had not come quickly to meet me, by morning light not a single male belonging to Nabal would have been left."
+
+**35** Then David accepted from her what she had brought him, and he said to her, "Go home in peace. See, I have listened to you and granted your request."[^25-30]
+
+**36** When Abigail came back to Nabal, he was holding a feast in his house, like a king's feast. Nabal was in high spirits[^25-31] and very drunk, so she told him nothing at all[^25-32] until morning light.
+
+**37** In the morning, when Nabal had sobered up,[^25-33] his wife told him all these things, and his heart died within him, and he became like a stone.
+
+**38** About ten days later Yahweh struck Nabal, and he died.
+
+**39** When David heard that Nabal was dead, he said, "Blessed be Yahweh, who has pleaded my case against Nabal for insulting me, and has kept his servant from doing evil. Yahweh has brought Nabal's evil down on his own head." Then David sent word to Abigail, asking to take her as his wife.
+
+**40** David's servants came to Abigail at Carmel and said to her, "David has sent us to you to take you as his wife."
+
+**41** She got up and bowed with her face to the ground and said, "Here is your servant, a slave[^25-34] ready to wash the feet of my lord's servants."
+
+**42** Abigail quickly got up and mounted a donkey, with her five young women attending her.[^25-35] She followed David's messengers and became his wife.
+
+**43** David had also married Ahinoam of Jezreel, and both of them became his wives.
+
+**44** But Saul had given his daughter Michal, David's wife, to Palti[^25-36] son of Laish, who was from Gallim.
+
+[^25-1]: The Septuagint reads "Maon".
+[^25-2]: Hebrew *ma'aseh*, "work", here his property and flocks.
+[^25-3]: A town in the hill country of Judah (Joshua 15:55), not Mount Carmel. Also later in the verse and in verses 5, 7 and 40.
+[^25-4]: *Nabal* means "fool"; see verse 25.
+[^25-5]: The Hebrew text is written *klbw*, perhaps "like his heart", but read *kalibbi*, "a Calebite", one of the clan of Caleb, which lived around Hebron (Joshua 14:13–14). The word also recalls *kelev*, "dog".
+[^25-6]: Literally "ask him in my name about *shalom* (well-being)".
+[^25-7]: Literally "Say thus: 'To life!'" The meaning of the Hebrew is uncertain.
+[^25-8]: Literally "a good day".
+[^25-9]: Literally "whatever your hand finds".
+[^25-10]: Literally "to bless".
+[^25-11]: The meaning of the Hebrew verb is uncertain: literally "he swooped on them".
+[^25-12]: Literally "a son of *beliyya'al*"; see 2:12.
+[^25-13]: A seah is a dry measure of about 7 quarts (7.3 liters), a third of an ephah.
+[^25-14]: Literally "Thus may God do to the enemies of David, and thus may he add"; see 3:17. "David's enemies" probably stands for David himself, to avoid calling down a curse on himself; compare 20:16. The Septuagint reads "May God deal with David".
+[^25-15]: Literally "one who urinates against a wall", a crude expression for a male. Also in verse 34.
+[^25-16]: Hebrew *amah*, a female servant or slave, a humble way of speaking of oneself (1:11). Also in verses 25, 28, 31 and 41.
+[^25-17]: Literally "speak in your ears".
+[^25-18]: Literally "man of *beliyya'al*"; see 2:12.
+[^25-19]: Hebrew *nevalah*, "folly, disgraceful behavior", a play on Nabal's name.
+[^25-20]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^25-21]: Literally "as your *nephesh* lives".
+[^25-22]: Literally "and your hand saving you". Also in verses 31 and 33.
+[^25-23]: Literally "blessing".
+[^25-24]: Here Hebrew *shiphchah*, "female servant", with the same meaning as *amah*.
+[^25-25]: Literally "who walk at the feet of my lord".
+[^25-26]: Literally "a sure house", that is, a family line of kings; compare 2:35.
+[^25-27]: Literally "the bundle of life", perhaps a pouch in which valuables were kept safe.
+[^25-28]: Hebrew *nagid*, "leader, ruler"; see 9:16.
+[^25-29]: Literally "a staggering and a stumbling of heart".
+[^25-30]: Literally "lifted up your face".
+[^25-31]: Literally "Nabal's heart was good on him".
+[^25-32]: Literally "nothing small or great".
+[^25-33]: Literally "when the wine had gone out of Nabal".
+[^25-34]: Hebrew *shiphchah*, "female servant, slave".
+[^25-35]: Literally "who walked at her feet".
+[^25-36]: Called Paltiel in 2 Samuel 3:15.
+
+## Chapter 26
+
+*Status: draft*
+
+**1** The Ziphites came to Saul at Gibeah and said, "Is not David hiding on the hill of Hachilah, which faces Jeshimon?"[^26-1]
+
+**2** So Saul got up and went down to the wilderness of Ziph with three thousand chosen men of Israel, to search for David in the wilderness of Ziph.
+
+**3** Saul camped on the hill of Hachilah, which faces Jeshimon, beside the road. David was staying in the wilderness. When he saw that Saul had come after him into the wilderness,
+
+**4** David sent out scouts and learned that Saul had certainly come.[^26-2]
+
+**5** Then David set out and came to the place where Saul had camped. David saw the place where Saul lay, with Abner son of Ner, the commander of his army. Saul was lying inside the camp,[^26-3] with the troops camped around him.
+
+**6** David spoke to Ahimelech the Hittite and to Abishai son of Zeruiah,[^26-4] Joab's brother. He asked, "Who will go down with me into the camp to Saul?" Abishai said, "I will go down with you."
+
+**7** So David and Abishai went to the troops by night, and there was Saul, lying asleep inside the camp, with his spear stuck in the ground near his head. Abner and the troops were lying around him.
+
+**8** Abishai said to David, "Today God has handed your enemy over to you. Now please let me pin him to the ground with one thrust of the spear.[^26-5] I won't need to strike him twice."
+
+**9** But David said to Abishai, "Do not destroy him. Who can raise his hand against Yahweh's anointed[^26-6] and be guiltless?"
+
+**10** David said, "As surely as Yahweh lives, Yahweh himself will strike him, or his day will come and he will die, or he will go down into battle and perish.
+
+**11** Yahweh forbid[^26-7] that I should raise my hand against Yahweh's anointed. Now take the spear that is near his head and the water jug, and let us go."
+
+**12** So David took the spear and the water jug from near Saul's head, and they left. No one saw it or knew about it, and no one woke up. They were all asleep, because a deep sleep[^26-8] from Yahweh had fallen on them.
+
+**13** Then David crossed over to the other side and stood on top of the hill some distance away, with a wide space between them.
+
+**14** David called out to the troops and to Abner son of Ner, "Won't you answer, Abner?" Abner answered, "Who are you, calling to the king?"
+
+**15** David said to Abner, "Aren't you a man? Who is like you in Israel? Then why didn't you guard your lord the king? For one of the people came to destroy your lord the king.
+
+**16** What you have done is not good. As surely as Yahweh lives, all of you deserve to die,[^26-9] because you did not guard your lord, Yahweh's anointed. Now look, where are the king's spear and the water jug that were near his head?"
+
+**17** Saul recognized David's voice and said, "Is that your voice, my son David?" David said, "It is my voice, my lord the king."
+
+**18** He said, "Why is my lord pursuing his servant? What have I done? What evil am I guilty of?[^26-10]
+
+**19** Now let my lord the king listen to the words of his servant. If it is Yahweh who has stirred you up against me, may he accept an offering.[^26-11] But if it is human beings, may they be cursed before Yahweh, for they have now driven me out from my share in Yahweh's inheritance,[^26-12] saying, 'Go, serve other gods.'
+
+**20** So now, do not let my blood fall to the ground far from the presence of Yahweh. For the king of Israel has come out to look for a single flea,[^26-13] as one hunts a partridge[^26-14] in the mountains."
+
+**21** Then Saul said, "I have sinned. Come back, my son David. I will never harm you again, because my life was precious in your eyes today. I have acted like a fool and have made a very great mistake."
+
+**22** David answered, "Here is the king's spear.[^26-15] Let one of the young men come over and get it.
+
+**23** Yahweh repays everyone for his righteousness and his faithfulness. Yahweh gave you into my hand[^26-16] today, but I would not raise my hand against Yahweh's anointed.
+
+**24** As your life was precious[^26-17] in my eyes today, so may my life be precious in the eyes of Yahweh, and may he rescue me from all trouble."
+
+**25** Saul said to David, "May you be blessed, my son David! You will do great things and you will surely succeed."[^26-18] So David went on his way, and Saul went back home.[^26-19]
+
+[^26-1]: See 23:19. Also in verse 3.
+[^26-2]: Literally "had come to certain"; some take the last word as a place name.
+[^26-3]: Hebrew *ma'gal*; see 17:20. Also in verse 7.
+[^26-4]: Zeruiah was David's sister (1 Chronicles 2:16).
+[^26-5]: Literally "let me strike him with the spear and into the ground once".
+[^26-6]: Hebrew *meshiach YHWH*, "the anointed one of Yahweh", that is, the king; see 2:10. Also in verses 11, 16 and 23.
+[^26-7]: Literally "Far be it from me, from Yahweh".
+[^26-8]: Hebrew *tardemah*, as in Genesis 2:21 and 15:12.
+[^26-9]: Literally "you are sons of death".
+[^26-10]: Literally "What evil is in my hand?"
+[^26-11]: Literally "may he smell an offering", that is, be pleased with a sacrifice.
+[^26-12]: Literally "from attaching myself to the inheritance of Yahweh".
+[^26-13]: The Septuagint reads "to seek my life".
+[^26-14]: Hebrew *qore*, literally "the caller".
+[^26-15]: The Hebrew text is written "Here is the spear, O king" but read "Here is the king's spear".
+[^26-16]: Literally "into a hand".
+[^26-17]: Literally "great". Also later in the verse.
+[^26-18]: Literally "you will surely do, and you will surely prevail".
+[^26-19]: Literally "to his place".
+
+## Chapter 27
+
+*Status: draft*
+
+**1** David thought to himself,[^27-1] "One of these days I will be swept away by the hand of Saul. There is nothing better for me than to escape to the land of the Philistines. Then Saul will give up searching for me anywhere in the territory of Israel, and I will escape from his hand."
+
+**2** So David set out and crossed over, he and the six hundred men with him, to Achish son of Maoch, king of Gath.
+
+**3** David stayed with Achish at Gath, he and his men, each with his household. David had his two wives, Ahinoam of Jezreel and Abigail of Carmel, Nabal's widow.[^27-2]
+
+**4** When Saul was told that David had fled to Gath, he no longer searched for him.
+
+**5** Then David said to Achish, "If I have found favor in your eyes, let me be given a place in one of the country towns, so that I can live there. Why should your servant live in the royal city with you?"
+
+**6** So that day Achish gave him Ziklag. That is why Ziklag has belonged to the kings of Judah to this day.
+
+**7** The length of time David lived in the territory of the Philistines was a year and four months.[^27-3]
+
+**8** David and his men went up and raided the Geshurites, the Gizrites[^27-4] and the Amalekites. These peoples had lived in the land from ancient times, as you go toward Shur and on to the land of Egypt.
+
+**9** Whenever David attacked the land, he left no man or woman alive, but he took the sheep, cattle, donkeys, camels and clothing, and then came back to Achish.
+
+**10** When Achish asked, "Where did you raid today?"[^27-5] David would say, "Against the Negev[^27-6] of Judah," or "Against the Negev of the Jerahmeelites," or "Against the Negev of the Kenites."
+
+**11** David left no man or woman alive to be brought to Gath, for he thought, "They might report about us and say, 'This is what David did.'" This was his practice[^27-7] the whole time he lived in the territory of the Philistines.
+
+**12** Achish trusted David and thought, "He has made himself utterly hateful[^27-8] to his people Israel, so he will be my servant for ever."
+
+[^27-1]: Literally "said to his heart".
+[^27-2]: Literally "Nabal's wife".
+[^27-3]: Literally "days and four months". "Days" sometimes means a year. The Septuagint reads "four months".
+[^27-4]: The Hebrew text is written "Girzites" but read "Gizrites".
+[^27-5]: Literally "Have you not raided today?" The Septuagint reads "Against whom did you raid today?"
+[^27-6]: The dry country in the south of the land. Also later in the verse.
+[^27-7]: Hebrew *mishpat*, "custom, way of acting". Or the words of the report continue: "This is what David did, and this has been his practice the whole time ..."
+[^27-8]: Literally "He has made himself stink".
+
+## Chapter 28
+
+*Status: draft*
+
+**1** In those days the Philistines gathered their forces for war, to fight against Israel. Achish said to David, "You must understand that you and your men will go out with me in the army."
+
+**2** David said to Achish, "Then you will see what your servant can do." Achish said to David, "Then I will make you my bodyguard[^28-1] for life."
+
+**3** Now Samuel had died, and all Israel had mourned for him and buried him in Ramah, his own town. And Saul had removed the mediums and spiritists[^28-2] from the land.
+
+**4** The Philistines gathered and came and camped at Shunem, and Saul gathered all Israel, and they camped at Gilboa.
+
+**5** When Saul saw the Philistine army, he was afraid, and his heart trembled greatly.
+
+**6** Saul inquired of Yahweh,[^28-3] but Yahweh did not answer him, not by dreams, nor by Urim,[^28-4] nor by prophets.
+
+**7** Then Saul said to his servants, "Find me a woman who is a medium,[^28-5] so that I may go to her and consult her." His servants said to him, "There is a woman who is a medium at En-dor."
+
+**8** So Saul disguised himself by putting on other clothes, and he went with two men. They came to the woman at night, and he said, "Please consult a spirit[^28-6] for me, and bring up for me the one I name to you."
+
+**9** But the woman said to him, "Surely you know what Saul has done, how he has cut off the mediums and spiritists from the land. Why then are you setting a trap for my life to have me killed?"
+
+**10** Saul swore to her by Yahweh, "As surely as Yahweh lives, you will not be punished[^28-7] for this."
+
+**11** Then the woman asked, "Whom shall I bring up for you?" He said, "Bring up Samuel for me."
+
+**12** When the woman saw Samuel, she cried out with a loud voice. The woman said to Saul, "Why have you deceived me? You are Saul!"
+
+**13** The king said to her, "Do not be afraid. What do you see?" The woman said to Saul, "I see a divine being[^28-8] coming up out of the earth."
+
+**14** He said to her, "What does he look like?" She said, "An old man is coming up, wrapped in a robe." Then Saul knew that it was Samuel, and he bowed with his face to the ground and lay down before him.
+
+**15** Samuel said to Saul, "Why have you disturbed me by bringing me up?" Saul said, "I am in great distress. The Philistines are fighting against me, and God has turned away from me. He no longer answers me, either by prophets or by dreams. So I have called you to tell me what I should do."
+
+**16** Samuel said, "Why do you ask me, when Yahweh has turned away from you and become your enemy?[^28-9]
+
+**17** Yahweh has done to you[^28-10] just as he spoke through me. Yahweh has torn the kingdom out of your hand and given it to your neighbor, to David.
+
+**18** Because you did not obey Yahweh[^28-11] and did not carry out his fierce anger against Amalek, Yahweh has done this to you today.
+
+**19** Yahweh will also give Israel along with you into the hands of the Philistines. Tomorrow you and your sons will be with me. Yahweh will also give the army of Israel into the hands of the Philistines."
+
+**20** At once Saul fell full length on the ground, terrified by Samuel's words. There was no strength left in him, for he had eaten nothing[^28-12] all that day and all that night.
+
+**21** The woman came to Saul and saw that he was badly shaken. She said to him, "Look, your servant[^28-13] has obeyed you. I took my life in my hands[^28-14] and did what you told me.
+
+**22** Now please listen to your servant too. Let me set a piece of bread before you. Eat, so that you may have strength when you go on your way."
+
+**23** But he refused and said, "I will not eat." But his servants, and the woman as well, urged him, and he listened to them. He got up from the ground and sat on the bed.
+
+**24** The woman had a fattened calf in the house. She quickly slaughtered it, took flour, kneaded it and baked bread without yeast.
+
+**25** She set it before Saul and his servants, and they ate. Then they got up and left that same night.
+
+[^28-1]: Literally "the keeper of my head".
+[^28-2]: Hebrew *ovot* and *yidde'onim*: spirits of the dead, or people who claimed to call them up and consult them (Leviticus 19:31; Deuteronomy 18:11). Also in verse 9.
+[^28-3]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^28-4]: Hebrew *urim*, objects kept in the high priest's breastpiece and used to learn Yahweh's decision (Exodus 28:30; Numbers 27:21).
+[^28-5]: Literally "a woman who is mistress of an *ov*". Also later in the verse.
+[^28-6]: Hebrew *ov*.
+[^28-7]: Literally "guilt will not meet you".
+[^28-8]: Hebrew *elohim*, "god(s), divine being". The verb "coming up" is plural.
+[^28-9]: Hebrew *arekha*, a rare word, probably "your enemy". The Septuagint reads "and is with your neighbor".
+[^28-10]: Literally "to him", or "for himself".
+[^28-11]: Literally "did not listen to the voice of Yahweh".
+[^28-12]: Literally "he had not eaten bread".
+[^28-13]: Hebrew *shiphchah*, "female servant"; see 1:18. Also in verse 22.
+[^28-14]: Literally "I put my *nephesh* in my palm".

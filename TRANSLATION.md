@@ -136,12 +136,13 @@ from the Hebrew.
 - Numbers: words for one to one hundred and for whole multiples of them by a hundred or a
   thousand ("four hundred", "twelve thousand", "twenty-four thousand", "six hundred thousand",
   "a thousand"); digits for all others, with commas from 1,000 ("130 years", "250", "1,775
-  shekels", "46,500"). In a census, list or calculation where some numbers need digits, all of
-  its numbers are digits (Numbers 1, Ezra 2). Ordinals in words ("the twenty-seventh day").
+  shekels", "46,500", "120,000"). In a census, list, battle tally or calculation where some
+  numbers need digits, all of its numbers are digits (Numbers 1, Judges 20, Ezra 2). Ordinals in words ("the twenty-seventh day").
   Modern measurements and dates in notes are digits.
-- Scribal marks: the extraordinary points (`[4]`), the inverted nuns (`[8]`) and large, small or
-  suspended letters (`[5]`–`[7]`) are not translated, but a short note mentions them where they
-  occur ("In the Hebrew text, dots are written over this word, a scribal mark of doubt").
+- Scribal marks: the extraordinary points (`[4]`), the inverted nuns (`[8]`) and the unusual
+  size or position of large, small or suspended letters (`[5]`–`[7]`) are not reproduced; the
+  letters themselves are translated as part of their word (Judges 18:30 "Manasseh", with
+  "Moses" in a note). A short note mentions each mark where it occurs ("In the Hebrew text, dots are written over this word, a scribal mark of doubt").
 - Where Aramaic begins and ends (Ezra 4:8–6:18, 7:12–26; Jeremiah 10:11; Daniel 2:4b–7:28),
   say so in a note.
 - Psalm titles are part of verse 1 (or verses 1–2) in the Hebrew. Where that makes this

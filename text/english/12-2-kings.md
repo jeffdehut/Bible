@@ -1034,3 +1034,563 @@
 [^13-11]: Elisha spoke the same words of Elijah (2:12).
 [^13-12]: Or "Shoot at the ground".
 [^13-13]: That is, in spring, the season when kings went to war (2 Samuel 11:1).
+
+## Chapter 14
+
+*Status: draft*
+
+**1** In the second year of Joash son of Joahaz[^14-1] king of Israel, Amaziah son of Joash king of Judah became king.
+
+**2** He was twenty-five years old when he became king, and he reigned twenty-nine years in Jerusalem. His mother's name was Jehoaddan,[^14-2] from Jerusalem.
+
+**3** He did what was right in the eyes of Yahweh,[^14-3] but not like his ancestor[^14-4] David. He did everything his father Joash had done.
+
+**4** But the high places[^14-5] were not removed. The people still sacrificed and burned incense at the high places.
+
+**5** As soon as the kingdom was firmly in his hand, he struck down his officials who had struck down his father the king.
+
+**6** But he did not put to death the sons of the murderers, in keeping with what is written in the book of the Law of Moses, where Yahweh commanded, "Fathers are not to be put to death for their sons, and sons are not to be put to death for their fathers. Each is to be put to death for his own sin."[^14-6]
+
+**7** He struck down ten thousand Edomites in the Valley of Salt, and he captured Sela[^14-7] in battle and called it Joktheel, the name it has to this day.
+
+**8** Then Amaziah sent messengers to Jehoash son of Jehoahaz son of Jehu, king of Israel, saying, "Come, let us face each other."[^14-8]
+
+**9** Jehoash king of Israel sent this reply to Amaziah king of Judah: "A thornbush in Lebanon sent word to a cedar in Lebanon, 'Give your daughter to my son as his wife.' Then a wild animal in Lebanon passed by and trampled the thornbush.
+
+**10** You have indeed struck down Edom, and your heart has made you proud. Enjoy your glory, and stay at home. Why stir up trouble, so that you fall, you and Judah with you?"
+
+**11** But Amaziah would not listen. So Jehoash king of Israel went up, and he and Amaziah king of Judah faced each other at Beth-shemesh, which belongs to Judah.
+
+**12** Judah was defeated by Israel, and every man fled to his home.[^14-9]
+
+**13** Jehoash king of Israel captured Amaziah king of Judah, son of Jehoash son of Ahaziah, at Beth-shemesh. Then he came[^14-10] to Jerusalem and broke down the wall of Jerusalem from the Ephraim Gate to the Corner Gate, four hundred cubits.[^14-11]
+
+**14** He took all the gold and silver and all the articles that were found in the house of Yahweh and in the treasuries of the king's palace, as well as hostages, and he returned to Samaria.
+
+**15** As for the rest of the acts of Jehoash, what he did and his mighty deeds, and how he fought against Amaziah king of Judah, are they not written in the book of the annals of the kings of Israel?
+
+**16** Jehoash slept with his ancestors and was buried in Samaria with the kings of Israel. And his son Jeroboam became king in his place.
+
+**17** Amaziah son of Joash king of Judah lived fifteen years after the death of Jehoash son of Jehoahaz king of Israel.
+
+**18** As for the rest of the acts of Amaziah, are they not written in the book of the annals of the kings of Judah?
+
+**19** They formed a conspiracy against him in Jerusalem, and he fled to Lachish. But they sent men after him to Lachish and killed him there.
+
+**20** They brought him back on horses, and he was buried in Jerusalem with his ancestors in the City of David.
+
+**21** Then all the people of Judah took Azariah,[^14-12] who was sixteen years old, and made him king in place of his father Amaziah.
+
+**22** He was the one who rebuilt Elath[^14-13] and restored it to Judah, after the king slept with his ancestors.[^14-14]
+
+**23** In the fifteenth year of Amaziah son of Joash king of Judah, Jeroboam son of Joash king of Israel became king in Samaria, and he reigned forty-one years.
+
+**24** He did what was evil in the eyes of Yahweh. He did not turn away from all the sins of Jeroboam son of Nebat, which he had caused Israel to commit.
+
+**25** He restored the border of Israel from Lebo-hamath[^14-15] to the Sea of the Arabah,[^14-16] according to the word of Yahweh, the God of Israel, which he spoke through his servant Jonah son of Amittai, the prophet from Gath-hepher.[^14-17]
+
+**26** For Yahweh saw that the suffering of Israel was very bitter. There was no one left, slave or free,[^14-18] and there was no one to help Israel.
+
+**27** Yahweh had not said that he would blot out the name of Israel from under heaven, so he saved them through Jeroboam son of Joash.
+
+**28** As for the rest of the acts of Jeroboam, all that he did and his mighty deeds, how he fought, and how he recovered for Israel Damascus and Hamath, which had belonged to Judah,[^14-19] are they not written in the book of the annals of the kings of Israel?
+
+**29** Jeroboam slept with his ancestors, with the kings of Israel. And his son Zechariah became king in his place.
+
+[^14-1]: *Joahaz* is a shorter form of *Jehoahaz* (13:1). In this chapter the Hebrew also uses both *Joash* and *Jehoash* for the kings of Israel and of Judah who bore that name.
+[^14-2]: The Hebrew text is written "Jehoaddin" but read "Jehoaddan".
+[^14-3]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles. "The house of Yahweh" is the temple.
+[^14-4]: Literally "his father".
+[^14-5]: Hebrew *bamot*: places of worship, often on hilltops.
+[^14-6]: Deuteronomy 24:16. The Hebrew text is written "will die" but read "will be put to death".
+[^14-7]: Or "the Rock". The place is in Edom; its exact location is uncertain.
+[^14-8]: Literally "let us look one another in the face", a challenge to battle. Also in verse 11.
+[^14-9]: Literally "to his tent".
+[^14-10]: The Hebrew text is written "they came" but read "he came".
+[^14-11]: A cubit was about 18 inches (45 cm). Four hundred cubits was about 600 feet (180 meters).
+[^14-12]: Also called Uzziah (15:13, 30–34; 2 Chronicles 26).
+[^14-13]: A port on the Gulf of Aqaba, near Ezion-geber (1 Kings 9:26).
+[^14-14]: That is, after the death of his father Amaziah.
+[^14-15]: Or "the entrance to Hamath", at the northern limit of Israel's territory.
+[^14-16]: The Dead Sea.
+[^14-17]: The prophet of the book of Jonah (Jonah 1:1).
+[^14-18]: See 9:8.
+[^14-19]: Literally "how he restored Damascus and Hamath to Judah in Israel". The Hebrew is difficult. It may refer to lands once ruled by David and Solomon (2 Samuel 8:5–10; 1 Kings 8:65).
+
+## Chapter 15
+
+*Status: draft*
+
+**1** In the twenty-seventh year of Jeroboam king of Israel, Azariah son of Amaziah king of Judah became king.
+
+**2** He was sixteen years old when he became king, and he reigned fifty-two years in Jerusalem. His mother's name was Jecoliah, from Jerusalem.
+
+**3** He did what was right in the eyes of Yahweh,[^15-1] just as his father Amaziah had done.
+
+**4** But the high places[^15-2] were not removed. The people still sacrificed and burned incense at the high places.
+
+**5** Yahweh struck the king, and he had a skin disease[^15-3] until the day of his death. He lived in a separate house,[^15-4] and Jotham the king's son was in charge of the palace, governing the people of the land.
+
+**6** As for the rest of the acts of Azariah, and all that he did, are they not written in the book of the annals of the kings of Judah?
+
+**7** Azariah slept with his ancestors, and they buried him with his ancestors in the City of David. And his son Jotham became king in his place.
+
+**8** In the thirty-eighth year of Azariah king of Judah, Zechariah son of Jeroboam became king over Israel in Samaria, and he reigned six months.
+
+**9** He did what was evil in the eyes of Yahweh, as his ancestors had done. He did not turn away from the sins of Jeroboam son of Nebat, which he had caused Israel to commit.
+
+**10** Shallum son of Jabesh conspired against him. He struck him down in front of the people[^15-5] and killed him, and he became king in his place.
+
+**11** As for the rest of the acts of Zechariah, they are written in the book of the annals of the kings of Israel.
+
+**12** This was the word of Yahweh that he spoke to Jehu: "Your descendants to the fourth generation will sit on the throne of Israel."[^15-6] And so it came to pass.
+
+**13** Shallum son of Jabesh became king in the thirty-ninth year of Uzziah[^15-7] king of Judah, and he reigned one full month in Samaria.
+
+**14** Then Menahem son of Gadi went up from Tirzah and came to Samaria. He struck down Shallum son of Jabesh in Samaria and killed him, and he became king in his place.
+
+**15** As for the rest of the acts of Shallum, and the conspiracy he formed, they are written in the book of the annals of the kings of Israel.
+
+**16** At that time Menahem, setting out from Tirzah, attacked Tiphsah[^15-8] and everyone in it and its territory, because they would not open the gates to him. He attacked it and ripped open all its pregnant women.
+
+**17** In the thirty-ninth year of Azariah king of Judah, Menahem son of Gadi became king over Israel, and he reigned ten years in Samaria.
+
+**18** He did what was evil in the eyes of Yahweh. All his days he did not turn away from the sins of Jeroboam son of Nebat, which he had caused Israel to commit.
+
+**19** Pul[^15-9] king of Assyria came against the land, and Menahem gave Pul a thousand talents[^15-10] of silver, so that he would support him[^15-11] and strengthen his hold on the kingdom.
+
+**20** Menahem raised the money from Israel, from all the wealthy men, fifty shekels[^15-12] of silver from each man, to give to the king of Assyria. So the king of Assyria turned back and did not stay there in the land.
+
+**21** As for the rest of the acts of Menahem, and all that he did, are they not written in the book of the annals of the kings of Israel?
+
+**22** Menahem slept with his ancestors, and his son Pekahiah became king in his place.
+
+**23** In the fiftieth year of Azariah king of Judah, Pekahiah son of Menahem became king over Israel in Samaria, and he reigned two years.
+
+**24** He did what was evil in the eyes of Yahweh. He did not turn away from the sins of Jeroboam son of Nebat, which he had caused Israel to commit.
+
+**25** Pekah son of Remaliah, his officer,[^15-13] conspired against him. With fifty men of Gilead, he struck him down in Samaria, in the citadel of the king's palace, along with Argob and Arieh.[^15-14] He killed him and became king in his place.
+
+**26** As for the rest of the acts of Pekahiah, and all that he did, they are written in the book of the annals of the kings of Israel.
+
+**27** In the fifty-second year of Azariah king of Judah, Pekah son of Remaliah became king over Israel in Samaria, and he reigned twenty years.
+
+**28** He did what was evil in the eyes of Yahweh. He did not turn away from the sins of Jeroboam son of Nebat, which he had caused Israel to commit.
+
+**29** In the days of Pekah king of Israel, Tiglath-pileser king of Assyria came and captured Ijon, Abel-beth-maacah, Janoah, Kedesh, Hazor, Gilead and Galilee, all the land of Naphtali, and he deported the people to Assyria.
+
+**30** Then Hoshea son of Elah formed a conspiracy against Pekah son of Remaliah. He struck him down and killed him, and he became king in his place, in the twentieth year of Jotham son of Uzziah.[^15-15]
+
+**31** As for the rest of the acts of Pekah, and all that he did, they are written in the book of the annals of the kings of Israel.
+
+**32** In the second year of Pekah son of Remaliah king of Israel, Jotham son of Uzziah king of Judah became king.
+
+**33** He was twenty-five years old when he became king, and he reigned sixteen years in Jerusalem. His mother's name was Jerusha daughter of Zadok.
+
+**34** He did what was right in the eyes of Yahweh. He did everything his father Uzziah had done.
+
+**35** But the high places were not removed. The people still sacrificed and burned incense at the high places. He built the Upper Gate of the house of Yahweh.
+
+**36** As for the rest of the acts of Jotham, and what he did, are they not written in the book of the annals of the kings of Judah?
+
+**37** In those days Yahweh began to send Rezin king of Aram and Pekah son of Remaliah against Judah.
+
+**38** Jotham slept with his ancestors and was buried with his ancestors in the City of David his ancestor.[^15-16] And his son Ahaz became king in his place.
+
+[^15-1]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles. "The house of Yahweh" is the temple.
+[^15-2]: Hebrew *bamot*: places of worship, often on hilltops.
+[^15-3]: Hebrew *metsora*: see 5:1.
+[^15-4]: Literally "in the house of freedom", that is, set free from his royal duties, or living apart.
+[^15-5]: Hebrew *qoval-am*, an unusual phrase, probably "in front of the people". Some Septuagint manuscripts read "at Ibleam".
+[^15-6]: See 10:30.
+[^15-7]: Azariah (verse 1; 14:21). *Uzziah* is another form of his name, used in verses 13, 30, 32 and 34, and in 2 Chronicles 26.
+[^15-8]: A city on the Euphrates (1 Kings 5:4, 4:24 in most English Bibles). Some Septuagint manuscripts read "Tappuah", a town near Tirzah.
+[^15-9]: Tiglath-pileser III (verse 29), who also ruled Babylon under the name Pulu.
+[^15-10]: A talent was about 75 pounds (34 kg). A thousand talents was about 37 tons (34 metric tons).
+[^15-11]: Literally "so that his hands would be with him".
+[^15-12]: About 1¼ pounds (0.6 kg). A shekel was about ⅖ ounce (11.5 grams).
+[^15-13]: Hebrew *shalish*: see 7:2.
+[^15-14]: Perhaps two of Pekahiah's officers. The Hebrew is difficult.
+[^15-15]: Jotham reigned sixteen years (verse 33). Compare 17:1.
+[^15-16]: Literally "his father".
+
+## Chapter 16
+
+*Status: draft*
+
+**1** In the seventeenth year of Pekah son of Remaliah, Ahaz son of Jotham king of Judah became king.
+
+**2** Ahaz was twenty years old when he became king, and he reigned sixteen years in Jerusalem. He did not do what was right in the eyes of Yahweh[^16-1] his God, as his ancestor[^16-2] David had done.
+
+**3** He walked in the way of the kings of Israel. He even made his son pass through the fire,[^16-3] following the detestable practices of the nations whom Yahweh had driven out before the Israelites.
+
+**4** He sacrificed and burned incense at the high places,[^16-4] on the hills and under every green tree.
+
+**5** Then Rezin king of Aram and Pekah son of Remaliah king of Israel came up to Jerusalem to make war. They besieged Ahaz but could not overcome him.[^16-5]
+
+**6** At that time Rezin king of Aram recovered Elath for Aram[^16-6] and drove the people of Judah[^16-7] out of Elath. Then the Edomites[^16-8] came to Elath, and they have lived there to this day.
+
+**7** Ahaz sent messengers to Tiglath-pileser king of Assyria to say, "I am your servant and your son. Come up and save me from the power[^16-9] of the king of Aram and the king of Israel, who are attacking me."
+
+**8** Ahaz took the silver and gold that was found in the house of Yahweh and in the treasuries of the king's palace, and sent it as a payment[^16-10] to the king of Assyria.
+
+**9** The king of Assyria listened to him. The king of Assyria went up against Damascus and captured it. He deported its people to Kir,[^16-11] and he killed Rezin.
+
+**10** When King Ahaz went to Damascus to meet Tiglath-pileser king of Assyria, he saw the altar that was in Damascus. King Ahaz sent Uriah the priest a model of the altar and a plan of it, with all the details of its construction.
+
+**11** Uriah the priest built the altar. He made it according to everything King Ahaz had sent from Damascus, and Uriah the priest had it finished by the time King Ahaz came back from Damascus.
+
+**12** When the king came back from Damascus, the king saw the altar. The king approached the altar and went up on it.[^16-12]
+
+**13** He burned his burnt offering and his grain offering, poured out his drink offering, and splashed the blood of his fellowship offerings[^16-13] against the altar.
+
+**14** As for the bronze altar that stood before Yahweh, he moved it from the front of the house, from between the new altar[^16-14] and the house of Yahweh, and put it on the north side of the new altar.
+
+**15** King Ahaz commanded Uriah the priest, "On the great altar burn the morning burnt offering and the evening grain offering, the king's burnt offering and his grain offering, and the burnt offering of all the people of the land, their grain offering and their drink offerings. Splash against it all the blood of the burnt offerings and all the blood of the sacrifices. But the bronze altar will be for me to inquire by."[^16-15]
+
+**16** Uriah the priest did everything King Ahaz commanded.
+
+**17** King Ahaz cut off the frames of the stands and removed the basins from them. He took down the Sea from the bronze oxen that were under it and put it on a stone pavement.[^16-16]
+
+**18** Because of the king of Assyria, he removed from the house of Yahweh the covered way for the Sabbath that had been built in the house, and the king's outer entrance.[^16-17]
+
+**19** As for the rest of the acts of Ahaz, what he did, are they not written in the book of the annals of the kings of Judah?
+
+**20** Ahaz slept with his ancestors and was buried with his ancestors in the City of David. And his son Hezekiah became king in his place.
+
+[^16-1]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles. "The house of Yahweh" is the temple.
+[^16-2]: Literally "his father".
+[^16-3]: That is, he burned him as a sacrifice (17:17, 31; Deuteronomy 18:10).
+[^16-4]: Hebrew *bamot*: places of worship, often on hilltops.
+[^16-5]: Literally "could not fight". Compare Isaiah 7:1–9.
+[^16-6]: In Hebrew the names Aram and Edom differ by one letter, and the two letters (*r* and *d*) look much alike.
+[^16-7]: Hebrew *ha-yehudim*, "the Judeans". This is the first time the word appears in the Bible. It later came to mean "the Jews".
+[^16-8]: The Hebrew text is written "Arameans" but read "Edomites".
+[^16-9]: Literally "palm".
+[^16-10]: Hebrew *shochad*, a gift given to win favor, often a bribe.
+[^16-11]: A place in Mesopotamia from which the Arameans had come (Amos 1:5; 9:7).
+[^16-12]: Or "and offered sacrifices on it".
+[^16-13]: Hebrew *shelamim*, traditionally "peace offerings": see Leviticus 3.
+[^16-14]: Literally "the altar". Also later in the verse.
+[^16-15]: Hebrew *levaqqer*, "to inquire" or "to examine", perhaps by looking at the organs of sacrificed animals for omens. The meaning is uncertain.
+[^16-16]: On the stands, the basins and the Sea, see 1 Kings 7:23–39.
+[^16-17]: The meaning of this verse is uncertain. Literally "And the covering of the Sabbath which they had built in the house, and the outer entrance of the king, he turned (in) the house of Yahweh, because of the king of Assyria."
+
+## Chapter 17
+
+*Status: draft*
+
+**1** In the twelfth year of Ahaz king of Judah, Hoshea son of Elah became king over Israel in Samaria, and he reigned nine years.[^17-1]
+
+**2** He did what was evil in the eyes of Yahweh,[^17-2] but not like the kings of Israel who were before him.
+
+**3** Shalmaneser[^17-3] king of Assyria came up against him, and Hoshea became his vassal[^17-4] and paid him tribute.
+
+**4** But the king of Assyria discovered that Hoshea was conspiring against him, for he had sent messengers to So king of Egypt[^17-5] and had not paid tribute to the king of Assyria as he had done year by year. So the king of Assyria arrested him and put him in prison.
+
+**5** The king of Assyria invaded the whole land. He came up to Samaria and besieged it for three years.
+
+**6** In the ninth year of Hoshea, the king of Assyria captured Samaria.[^17-6] He deported Israel to Assyria and settled them in Halah, on the Habor, the river of Gozan,[^17-7] and in the towns of the Medes.
+
+**7** This happened because the Israelites had sinned against Yahweh their God, who had brought them up out of the land of Egypt, from under the power of Pharaoh king of Egypt. They worshiped[^17-8] other gods.
+
+**8** They followed the customs[^17-9] of the nations whom Yahweh had driven out before the Israelites, and the customs that the kings of Israel had introduced.[^17-10]
+
+**9** The Israelites secretly did things against Yahweh their God that were not right.[^17-11] They built themselves high places[^17-12] in all their towns, from watchtower to fortified city.
+
+**10** They set up standing stones[^17-13] and Asherah poles[^17-14] for themselves on every high hill and under every green tree.
+
+**11** There they burned incense at all the high places, like the nations whom Yahweh had driven into exile before them. They did evil things, provoking Yahweh to anger.
+
+**12** They served idols,[^17-15] though Yahweh had said to them, "You must not do this."
+
+**13** Yet Yahweh warned Israel and Judah through every prophet and every seer:[^17-16] "Turn from your evil ways, and keep my commands and my decrees, in keeping with all the law that I commanded your ancestors and sent to you through my servants the prophets."
+
+**14** But they would not listen. They were as stubborn as their ancestors,[^17-17] who did not trust in Yahweh their God.
+
+**15** They rejected his decrees and his covenant that he had made with their ancestors, and the statutes[^17-18] with which he had warned them. They went after worthless things and became worthless themselves.[^17-19] They followed the nations around them, although Yahweh had commanded them not to do as they did.
+
+**16** They abandoned all the commands of Yahweh their God and made themselves images of cast metal,[^17-20] two calves. They made an Asherah pole, bowed down to all the host of heaven[^17-21] and served Baal.
+
+**17** They made their sons and their daughters pass through the fire.[^17-22] They practiced divination and looked for omens, and they sold themselves to do what was evil in the eyes of Yahweh, provoking him to anger.
+
+**18** So Yahweh was very angry with Israel and removed them from his presence. No one was left but the tribe of Judah alone.
+
+**19** Judah too did not keep the commands of Yahweh their God, but followed the customs that Israel had introduced.
+
+**20** So Yahweh rejected all the descendants of Israel. He afflicted them and handed them over to plunderers, until he had cast them out of his presence.
+
+**21** When he tore Israel away from the house of David,[^17-23] they made Jeroboam son of Nebat king. Jeroboam drove Israel away from following Yahweh and made them commit a great sin.
+
+**22** The Israelites walked in all the sins that Jeroboam had committed. They did not turn away from them,
+
+**23** until Yahweh removed Israel from his presence, as he had said through all his servants the prophets. So Israel went into exile from their own land to Assyria, and they are there to this day.
+
+**24** The king of Assyria brought people from Babylon, Cuthah, Avva, Hamath and Sepharvaim and settled them in the towns of Samaria in place of the Israelites. They took possession of Samaria and lived in its towns.
+
+**25** When they first lived there, they did not worship Yahweh, so Yahweh sent lions among them, and they killed some of them.
+
+**26** So the king of Assyria was told, "The nations you deported and settled in the towns of Samaria do not know what the god of the land requires.[^17-24] So he has sent lions among them, and they are killing them, because they do not know what the god of the land requires."
+
+**27** Then the king of Assyria gave this command: "Send back there one of the priests you deported from there. Let him go and live there,[^17-25] and let him teach them what the god of the land requires."
+
+**28** So one of the priests whom they had deported from Samaria came and lived in Bethel, and he taught them how they should worship Yahweh.
+
+**29** But each nation made its own gods and set them up in the shrines of the high places that the people of Samaria[^17-26] had made, each nation in the towns where they lived.
+
+**30** The people of Babylon made Succoth-benoth, the people of Cuth made Nergal, and the people of Hamath made Ashima.[^17-27]
+
+**31** The Avvites made Nibhaz and Tartak, and the Sepharvites burned their children in the fire to Adrammelech and Anammelech, the gods of Sepharvaim.
+
+**32** They also worshiped Yahweh, and they appointed all sorts of people[^17-28] from among themselves as priests for the high places, who served for them in the shrines of the high places.
+
+**33** They worshiped Yahweh, but they also served their own gods, following the custom of the nations from which they had been deported.
+
+**34** To this day they follow their former customs. They do not worship Yahweh, and they do not follow the decrees and rulings given to them,[^17-29] or the law and the command that Yahweh gave to the descendants of Jacob, whom he named Israel.[^17-30]
+
+**35** Yahweh had made a covenant with them and commanded them, "Do not worship other gods. Do not bow down to them, serve them or sacrifice to them.
+
+**36** But Yahweh, who brought you up from the land of Egypt with great power and an outstretched arm, is the one you must worship. To him you must bow down, and to him you must sacrifice.
+
+**37** The decrees and the rulings, the law and the command that he wrote for you, you must always be careful to keep. Do not worship other gods.
+
+**38** Do not forget the covenant I have made with you, and do not worship other gods.
+
+**39** But worship Yahweh your God, and he will rescue you from the power of all your enemies."
+
+**40** But they would not listen. Instead they went on following their former custom.
+
+**41** So these nations worshiped Yahweh, but they also served their carved images. Their children and their grandchildren have done as their ancestors did, to this day.
+
+[^17-1]: Compare 15:30.
+[^17-2]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^17-3]: Shalmaneser V, king of Assyria from 727 to 722 BC.
+[^17-4]: Literally "his servant".
+[^17-5]: This king is not known by this name from other sources. He may be Osorkon IV of Egypt, or "So" may be the Egyptian city of Sais.
+[^17-6]: In 722 BC.
+[^17-7]: The Habor (Khabur) river flows into the Euphrates in northern Mesopotamia. Gozan was a city on its banks.
+[^17-8]: Literally "feared". In this chapter "fear" means to revere and worship. Also in verses 25, 28 and 32–41.
+[^17-9]: Literally "decrees". Also in verse 19.
+[^17-10]: Literally "and of the kings of Israel, which they made". The Hebrew is awkward.
+[^17-11]: The meaning of the Hebrew verb, found only here, is uncertain: perhaps "did secretly" or "spoke".
+[^17-12]: Hebrew *bamot*: places of worship, often on hilltops.
+[^17-13]: Hebrew *matsevot*: standing stones set up as objects of worship.
+[^17-14]: Hebrew *asherim*: wooden poles or trees that were symbols of the goddess Asherah. Also in verse 16.
+[^17-15]: Hebrew *gillulim*, a contemptuous word for idols, perhaps "dung pellets".
+[^17-16]: The Hebrew text is written "through all his prophets, every seer" but read "through all the prophets of every seer".
+[^17-17]: Literally "They hardened their neck like the neck of their ancestors."
+[^17-18]: Hebrew *edot*, traditionally "testimonies": the solemn terms of the covenant.
+[^17-19]: Hebrew *hevel*, "breath, vapor, emptiness", often used of idols. Literally "They went after emptiness and became empty."
+[^17-20]: Hebrew *massekhah*, an image made of molten metal (1 Kings 12:28–29).
+[^17-21]: The sun, moon and stars, worshiped as gods.
+[^17-22]: That is, they burned them as sacrifices (verse 31; 16:3).
+[^17-23]: Or "When Israel tore itself away from the house of David". See 1 Kings 11:29–39; 12:16–20.
+[^17-24]: Hebrew *mishpat*, "ruling, custom": here the right way to worship the god of the land. Also in verse 27.
+[^17-25]: Literally "let them go and live there".
+[^17-26]: Hebrew *ha-shomeronim*, the only time this word occurs in the Hebrew Bible. It means the earlier, Israelite inhabitants of Samaria.
+[^17-27]: Nergal was the god of the underworld, worshiped at Cuthah in Babylonia. The other gods named in verses 30–31 are not certainly known from other sources.
+[^17-28]: Literally "from their ends", that is, from every rank of people (compare 1 Kings 12:31).
+[^17-29]: Literally "their decrees and their ruling".
+[^17-30]: Genesis 32:29 (32:28 in most English Bibles); 35:10.
+
+## Chapter 18
+
+*Status: draft*
+
+**1** In the third year of Hoshea son of Elah king of Israel, Hezekiah son of Ahaz king of Judah became king.
+
+**2** He was twenty-five years old when he became king, and he reigned twenty-nine years in Jerusalem. His mother's name was Abi[^18-1] daughter of Zechariah.
+
+**3** He did what was right in the eyes of Yahweh,[^18-2] just as his ancestor[^18-3] David had done.
+
+**4** He removed the high places,[^18-4] smashed the standing stones[^18-5] and cut down the Asherah pole.[^18-6] He broke into pieces the bronze snake that Moses had made, for until those days the Israelites had been burning incense to it. It was called Nehushtan.[^18-7]
+
+**5** He trusted in Yahweh, the God of Israel. There was no one like him among all the kings of Judah after him, or among those who were before him.
+
+**6** He held fast to Yahweh and did not turn away from following him. He kept the commands that Yahweh had commanded Moses.
+
+**7** Yahweh was with him, and he succeeded in everything he undertook.[^18-8] He rebelled against the king of Assyria and would not serve him.
+
+**8** He defeated the Philistines as far as Gaza and its territory, from watchtower to fortified city.
+
+**9** In the fourth year of King Hezekiah, which was the seventh year of Hoshea son of Elah king of Israel, Shalmaneser king of Assyria came up against Samaria and besieged it.
+
+**10** At the end of three years they captured it. In the sixth year of Hezekiah, which was the ninth year of Hoshea king of Israel, Samaria was captured.
+
+**11** The king of Assyria deported Israel to Assyria and settled them in Halah, on the Habor, the river of Gozan, and in the towns of the Medes,
+
+**12** because they had not obeyed Yahweh their God, but had broken his covenant, all that Moses the servant of Yahweh had commanded. They would neither listen nor obey.
+
+**13** In the fourteenth year of King Hezekiah, Sennacherib king of Assyria came up against all the fortified cities of Judah and captured them.[^18-9]
+
+**14** Then Hezekiah king of Judah sent this message to the king of Assyria at Lachish: "I have done wrong. Withdraw from me, and I will pay whatever you demand of me." The king of Assyria required of Hezekiah king of Judah three hundred talents of silver and thirty talents of gold.[^18-10]
+
+**15** Hezekiah gave him all the silver that was found in the house of Yahweh and in the treasuries of the king's palace.
+
+**16** At that time Hezekiah stripped the doors of the temple of Yahweh, and the doorposts that Hezekiah king of Judah had overlaid,[^18-11] and gave the gold to the king of Assyria.
+
+**17** The king of Assyria sent the Tartan,[^18-12] the Rab-saris[^18-13] and the Rabshakeh[^18-14] with a large army from Lachish to King Hezekiah at Jerusalem. They went up and came to Jerusalem. They went up and came and stood by the conduit of the Upper Pool, which is on the road to the Washerman's Field.[^18-15]
+
+**18** They called for the king, and Eliakim son of Hilkiah, the palace administrator,[^18-16] Shebna the secretary and Joah son of Asaph, the recorder,[^18-17] went out to them.
+
+**19** The Rabshakeh said to them, "Tell Hezekiah, 'This is what the great king, the king of Assyria, says: What is this confidence of yours? What are you trusting in?
+
+**20** You think[^18-18] that mere words are strategy and strength for war. Now, on whom are you relying, that you have rebelled against me?
+
+**21** Look, you are relying on Egypt, that broken reed of a staff, which goes into the hand of anyone who leans on it and pierces it. That is what Pharaoh king of Egypt is to all who rely on him.
+
+**22** But if you say to me, "We are trusting in Yahweh our God," isn't he the one whose high places and altars Hezekiah has removed, saying to Judah and Jerusalem, "You must worship before this altar in Jerusalem"?
+
+**23** So now, make a wager with my master, the king of Assyria: I will give you two thousand horses, if you are able to put riders on them!
+
+**24** How then can you drive back even one officer,[^18-19] one of the least of my master's servants, when you rely on Egypt for chariots and horsemen?
+
+**25** And besides, have I come up against this place to destroy it without Yahweh? Yahweh himself said to me, "Go up against this land and destroy it."'"
+
+**26** Then Eliakim son of Hilkiah, Shebna and Joah said to the Rabshakeh, "Please speak to your servants in Aramaic,[^18-20] for we understand it. Do not speak to us in the language of Judah[^18-21] in the hearing of the people on the wall."
+
+**27** But the Rabshakeh said to them, "Was it to your master and to you that my master sent me to speak these words? Wasn't it to the men sitting on the wall, who, like you, will have to eat their own dung and drink their own urine?"[^18-22]
+
+**28** Then the Rabshakeh stood and called out in a loud voice in the language of Judah. He said, "Hear the word of the great king, the king of Assyria!
+
+**29** This is what the king says: Do not let Hezekiah deceive you, for he will not be able to rescue you from his hand.[^18-23]
+
+**30** Do not let Hezekiah make you trust in Yahweh by saying, 'Yahweh will surely rescue us, and this city will not be handed over to the king of Assyria.'
+
+**31** Do not listen to Hezekiah, for this is what the king of Assyria says: Make peace with me[^18-24] and come out to me. Then each of you will eat from his own vine and his own fig tree, and each of you will drink water from his own cistern,
+
+**32** until I come and take you to a land like your own land, a land of grain and new wine, a land of bread and vineyards, a land of olive trees and honey, so that you may live and not die. Do not listen to Hezekiah, for he is misleading you when he says, 'Yahweh will rescue us.'
+
+**33** Has any of the gods of the nations ever rescued his land from the hand of the king of Assyria?
+
+**34** Where are the gods of Hamath and Arpad? Where are the gods of Sepharvaim, Hena and Ivvah? Did they rescue Samaria from my hand?
+
+**35** Who among all the gods of the lands has rescued his land from my hand, that Yahweh should rescue Jerusalem from my hand?"
+
+**36** But the people kept silent and did not answer him a word, for the king had commanded, "Do not answer him."
+
+**37** Then Eliakim son of Hilkiah, the palace administrator, Shebna the secretary and Joah son of Asaph, the recorder, came to Hezekiah with their clothes torn, and they told him the words of the Rabshakeh.
+
+[^18-1]: Called Abijah in 2 Chronicles 29:1.
+[^18-2]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles. "The house of Yahweh" is the temple.
+[^18-3]: Literally "his father".
+[^18-4]: Hebrew *bamot*: places of worship, often on hilltops. Also in verse 22.
+[^18-5]: Hebrew *matsevot*: standing stones set up as objects of worship.
+[^18-6]: Hebrew *asherah*: a wooden pole or tree that was a symbol of the goddess Asherah.
+[^18-7]: Or "He called it Nehushtan". The name sounds like the Hebrew words for "bronze" (*nechoshet*) and "snake" (*nachash*). On the bronze snake, see Numbers 21:8–9.
+[^18-8]: Literally "in everything to which he went out".
+[^18-9]: In 701 BC. 18:13–20:19 is also found, with small differences, in Isaiah 36:1–39:8. Verses 14–16 are not in Isaiah, and verse 13 is Isaiah 36:1.
+[^18-10]: A talent was about 75 pounds (34 kg). Three hundred talents was about 11 tons (10 metric tons), and thirty talents about 1 ton (1 metric ton).
+[^18-11]: Literally "cut off the doors of the temple of Yahweh and the doorposts that Hezekiah … had overlaid", that is, he stripped off the gold that covered them.
+[^18-12]: Hebrew *tartan*, from the Assyrian title *turtanu*: the commander-in-chief of the army, second only to the king. Isaiah 36:2 names only the Rabshakeh.
+[^18-13]: Hebrew *rav-saris*, "chief official" or "chief eunuch", a senior officer of the Assyrian court.
+[^18-14]: Hebrew *rav-shaqeh*, from the Assyrian title *rab shaqe*, "chief cupbearer", a high official who here speaks for the king. Also in verses 19, 26–28 and 37.
+[^18-15]: A field outside the city where cloth was washed and bleached.
+[^18-16]: Literally "who was over the house": see 10:5. Also in verse 37.
+[^18-17]: Hebrew *mazkir*, "one who brings to remembrance": a senior royal official, perhaps the king's herald or the keeper of records. Also in verse 37.
+[^18-18]: Literally "You say". Isaiah 36:5 reads "I say". Literally "a word of lips: strategy and strength for war".
+[^18-19]: Hebrew *pechah*, "governor".
+[^18-20]: The international language of diplomacy and trade in the Assyrian empire.
+[^18-21]: Literally "in Judean", that is, Hebrew. Also in verse 28.
+[^18-22]: The Hebrew text is written with coarse words for "dung" and "urine", but read with more polite ones, literally "excrement" and "the water of their feet".
+[^18-23]: That is, from the hand of the king of Assyria. Isaiah 36:14 does not have "from his hand".
+[^18-24]: Literally "Make a blessing with me", that is, surrender on terms.
+
+## Chapter 19
+
+*Status: draft*
+
+**1** When King Hezekiah heard it, he tore his clothes, covered himself with sackcloth and went into the house of Yahweh.[^19-1]
+
+**2** He sent Eliakim the palace administrator, Shebna the secretary and the senior priests, all wearing sackcloth, to the prophet Isaiah son of Amoz.
+
+**3** They said to him, "This is what Hezekiah says: Today is a day of distress, of rebuke and of disgrace. Children have come to the point of birth, and there is no strength to deliver them.
+
+**4** Perhaps Yahweh your God will hear all the words of the Rabshakeh,[^19-2] whom his master the king of Assyria has sent to mock the living God, and will rebuke him for the words that Yahweh your God has heard. So pray for the remnant that is left."
+
+**5** When King Hezekiah's servants came to Isaiah,
+
+**6** Isaiah said to them, "Say this to your master: 'This is what Yahweh says: Do not be afraid of the words you have heard, with which the king of Assyria's lackeys[^19-3] have insulted me.
+
+**7** I am going to put a spirit in him, so that he will hear a rumor and go back to his own land, and I will make him fall by the sword in his own land.'"
+
+**8** The Rabshakeh went back and found the king of Assyria fighting against Libnah, for he had heard that the king had left Lachish.
+
+**9** Then the king heard that Tirhakah king of Cush[^19-4] had set out to fight against him. So he again sent messengers to Hezekiah, saying,
+
+**10** "Say this to Hezekiah king of Judah: Do not let your God, in whom you trust, deceive you by saying, 'Jerusalem will not be handed over to the king of Assyria.'
+
+**11** Look, you have heard what the kings of Assyria have done to all the lands, destroying them completely.[^19-5] And will you be rescued?
+
+**12** Did the gods of the nations that my predecessors[^19-6] destroyed rescue them, the nations of Gozan, Haran and Rezeph, and the people of Eden who were in Telassar?
+
+**13** Where is the king of Hamath, the king of Arpad, and the king of the city of Sepharvaim, of Hena and of Ivvah?"
+
+**14** Hezekiah took the letter[^19-7] from the hand of the messengers and read it. Then he went up to the house of Yahweh, and Hezekiah spread it out before Yahweh.
+
+**15** Hezekiah prayed before Yahweh and said, "Yahweh, the God of Israel, enthroned above the cherubim,[^19-8] you alone are God over all the kingdoms of the earth. You made the heavens and the earth.
+
+**16** Turn your ear, Yahweh, and hear. Open your eyes, Yahweh, and see. Hear the words that Sennacherib has sent to mock the living God.
+
+**17** It is true, Yahweh, that the kings of Assyria have laid waste the nations and their lands.
+
+**18** They have thrown their gods into the fire, for they were not gods but only the work of human hands, wood and stone. So they destroyed them.
+
+**19** Now, Yahweh our God, please save us from his hand, so that all the kingdoms of the earth may know that you, Yahweh, alone are God."
+
+**20** Then Isaiah son of Amoz sent this message to Hezekiah: "This is what Yahweh, the God of Israel, says: I have heard what you prayed to me about Sennacherib king of Assyria.
+
+**21** This is the word that Yahweh has spoken against him: The virgin daughter Zion[^19-9] despises you and mocks you. Daughter Jerusalem tosses her head behind your back.
+
+**22** Whom have you mocked and insulted? Against whom have you raised your voice and lifted your eyes in pride? Against the Holy One of Israel!
+
+**23** Through your messengers you have mocked the Lord.[^19-10] You have said, 'With my many chariots[^19-11] I have gone up to the heights of the mountains, to the farthest reaches of Lebanon. I cut down its tallest cedars, its choicest junipers. I came to its farthest lodging place, its densest forest.[^19-12]
+
+**24** I dug wells and drank foreign waters, and with the soles of my feet I dried up all the streams of Egypt.'[^19-13]
+
+**25** Have you not heard? Long ago I planned it.[^19-14] From days of old I formed it. Now I have brought it about, that you should turn fortified cities into heaps of ruins.
+
+**26** Their people, drained of strength,[^19-15] are dismayed and put to shame. They are like plants of the field and tender green shoots, like grass on the rooftops, scorched before it is grown.
+
+**27** I know when you sit down, when you go out and when you come in, and how you rage against me.
+
+**28** Because you rage against me and your arrogance has reached my ears, I will put my hook in your nose and my bit in your mouth, and I will turn you back by the way you came.
+
+**29** And this will be the sign for you:[^19-16] This year you will eat what grows by itself, and in the second year what springs up from that. But in the third year, sow and reap, plant vineyards and eat their fruit.
+
+**30** The survivors of the house of Judah who are left will again take root below and bear fruit above.
+
+**31** For from Jerusalem a remnant will go out, and survivors from Mount Zion. The zeal of Yahweh of Armies[^19-17] will do this.
+
+**32** Therefore this is what Yahweh says concerning the king of Assyria: He will not come into this city or shoot an arrow there. He will not come before it with a shield or build a siege ramp against it.
+
+**33** By the way that he came, he will go back. He will not come into this city, declares Yahweh.
+
+**34** I will defend this city and save it, for my own sake and for the sake of my servant David."
+
+**35** That night the angel[^19-18] of Yahweh went out and struck down 185,000 in the camp of Assyria. When people got up early in the morning, there were all the dead bodies.
+
+**36** So Sennacherib king of Assyria broke camp and went back home, and he stayed in Nineveh.
+
+**37** One day, while he was worshiping in the temple of Nisroch his god, his sons[^19-19] Adrammelech and Sharezer struck him down with the sword and escaped to the land of Ararat.[^19-20] And his son Esarhaddon became king in his place.
+
+[^19-1]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles. "The house of Yahweh" is the temple. This chapter is also found in Isaiah 37:1–38.
+[^19-2]: On this title, see 18:17.
+[^19-3]: Hebrew *na'arim*, "young men, servants", here probably said with contempt.
+[^19-4]: The region south of Egypt (ancient Nubia). Its kings then also ruled Egypt.
+[^19-5]: Hebrew *charam*: to destroy completely, as something devoted to a god.
+[^19-6]: Literally "my fathers".
+[^19-7]: Literally "the letters … and read them". The Hebrew then says "and spread it out".
+[^19-8]: Winged creatures whose images were on the cover of the ark and in the inner sanctuary of the temple (Exodus 25:18–22; 1 Kings 6:23–28).
+[^19-9]: A poetic name for Jerusalem and its people, pictured as a young woman.
+[^19-10]: Hebrew *Adonai*, "the Lord", not the name Yahweh.
+[^19-11]: The Hebrew text is written "With the riding of my chariots" but read "With the great number of my chariots", as in Isaiah 37:24.
+[^19-12]: Literally "the forest of its *karmel*", its fruitful land or orchard.
+[^19-13]: Hebrew *Matsor*, a poetic name for Egypt. Literally "all the Nile streams of Matsor".
+[^19-14]: Literally "From far off I did it".
+[^19-15]: Literally "short of hand".
+[^19-16]: The prophet now speaks to Hezekiah.
+[^19-17]: Hebrew *YHWH tseva'ot*, traditionally "the LORD of hosts". *Tseva'ot* means armies: the heavenly hosts and the armies of Israel. The word *tseva'ot* is read but not written in the Hebrew text here. It is written in Isaiah 37:32.
+[^19-18]: Or "messenger". Hebrew *mal'akh* means both.
+[^19-19]: The words "his sons" are read but not written in the Hebrew text. They are written in Isaiah 37:38.
+[^19-20]: Urartu, a kingdom in what is now Armenia and eastern Turkey. Sennacherib was killed in 681 BC.

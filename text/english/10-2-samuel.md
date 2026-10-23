@@ -181,7 +181,7 @@
 
 **8** Abner was very angry at Ish-bosheth's words, and he said, "Am I a dog's head who belongs to Judah?[^3-6] Today I keep showing faithful love[^3-7] to the house of your father Saul, to his brothers and to his friends, and I have not handed you over to David. Yet today you charge me with a wrong over this woman!
 
-**9** May God deal with Abner severely, and even more,[^3-8] if I do not do for David what Yahweh[^3-9] swore to him:
+**9** May God deal with Abner, and more severely,[^3-8] if I do not do for David what Yahweh[^3-9] swore to him:
 
 **10** to transfer the kingdom from the house of Saul, and to set up the throne of David over Israel and over Judah, from Dan to Beersheba."
 
@@ -219,7 +219,7 @@
 
 **27** When Abner returned to Hebron, Joab took him aside into the gateway to speak with him privately, and there he struck him in the stomach.[^3-18] So he died for the blood of Joab's brother Asahel.[^3-19]
 
-**28** Afterward, when David heard of it, he said, "I and my kingdom are innocent before Yahweh for ever of the blood of Abner son of Ner.
+**28** Afterward, when David heard of it, he said, "I and my kingdom are for ever innocent before Yahweh of the blood of Abner son of Ner.
 
 **29** May it fall[^3-20] on the head of Joab and on all his father's house. May Joab's house never be without someone who has a discharge or a skin disease,[^3-21] or who holds a spindle,[^3-22] or who falls by the sword, or who lacks bread."
 
@@ -233,7 +233,7 @@
 
 **34** Your hands were not bound; your feet were not put in bronze chains. As one falls before the wicked,[^3-24] you fell." And all the people wept over him again.
 
-**35** Then all the people came to urge David to eat some food[^3-25] while it was still day, but David swore, "May God deal with me severely, and even more, if I taste bread or anything else before the sun goes down."
+**35** Then all the people came to urge David to eat some food[^3-25] while it was still day, but David swore, "May God deal with me, and more severely, if I taste bread or anything else before the sun goes down."
 
 **36** All the people took note, and it pleased them, just as everything the king did pleased all the people.
 
@@ -311,7 +311,7 @@
 
 **1** All the tribes of Israel came to David at Hebron and said, "Look, we are your own flesh and blood.[^5-1]
 
-**2** For some time now,[^5-2] while Saul was king over us, it was you who led Israel out to battle and brought it back.[^5-3] And Yahweh[^5-4] said to you, 'You will shepherd my people Israel, and you will be leader[^5-5] over Israel.'"
+**2** For some time now,[^5-2] while Saul was king over us, it was you who led Israel out to battle and brought it back.[^5-3] And Yahweh[^5-4] said to you, 'You will shepherd my people Israel, and you will be ruler[^5-5] over Israel.'"
 
 **3** All the elders of Israel came to the king at Hebron, and King David made a covenant with them at Hebron before Yahweh, and they anointed David king over Israel.
 
@@ -363,7 +363,7 @@
 [^5-2]: Literally "both yesterday and the day before".
 [^5-3]: Literally "you were the one who led out and brought in Israel".
 [^5-4]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
-[^5-5]: Hebrew *nagid*, a leader or ruler designated by God.
+[^5-5]: Hebrew *nagid*, "leader, ruler", someone designated by God to lead (1 Samuel 9:16). Traditionally "prince" or "captain".
 [^5-6]: Or "You will not get in here unless you remove the blind and the lame." The Hebrew can be read either way.
 [^5-7]: Literally "saying".
 [^5-8]: Hebrew *tsinnor*, a rare word of uncertain meaning, perhaps a water channel or shaft leading up into the city. Some take it as a grappling hook, or as the throat ("must strike at the throat"). 1 Chronicles 11:6 reads "Whoever is first to strike down the Jebusites will become chief and commander."
@@ -421,7 +421,7 @@
 
 **20** When David returned to bless his household, Michal daughter of Saul came out to meet David and said, "How the king of Israel has honored himself today, uncovering himself today in the sight of his servants' slave girls, as any worthless fellow would shamelessly uncover himself!"
 
-**21** David said to Michal, "It was before Yahweh, who chose me rather than your father or anyone in his house, and appointed me leader[^6-18] over the people of Yahweh, over Israel. I will celebrate before Yahweh.[^6-19]
+**21** David said to Michal, "It was before Yahweh, who chose me rather than your father or anyone in his house, and appointed me ruler[^6-18] over the people of Yahweh, over Israel. I will celebrate before Yahweh.[^6-19]
 
 **22** I will make myself even more contemptible than this, and I will be humble in my own eyes. But by the slave girls you spoke of, by them I will be held in honor."
 
@@ -465,7 +465,7 @@
 
 **7** Wherever I have moved about among all the Israelites, did I ever say a word to any of the tribes[^7-5] of Israel whom I commanded to shepherd my people Israel, "Why have you not built me a house of cedar?"'
 
-**8** Now this is what you are to say to my servant David: 'This is what Yahweh of Armies[^7-6] says: I took you from the pasture, from following the sheep, to be leader[^7-7] over my people Israel.
+**8** Now this is what you are to say to my servant David: 'This is what Yahweh of Armies[^7-6] says: I took you from the pasture, from following the sheep, to be ruler[^7-7] over my people Israel.
 
 **9** I have been with you wherever you have gone, and I have cut off all your enemies from before you. I will make your name great,[^7-8] like the names of the great ones on the earth.
 
@@ -1361,3 +1361,594 @@
 [^18-17]: Literally "*Shalom*!", "Peace!"
 [^18-18]: Literally "to send the king's servant Joab and your servant".
 [^18-19]: In most English Bibles, the next verse (19:1 in the Hebrew) is numbered 18:33.
+
+## Chapter 19
+
+*Status: draft*
+
+**1** The king was shaken.[^19-1] He went up to the room over the gate and wept. As he went, he said, "My son Absalom! My son, my son Absalom! If only I had died instead of you! Absalom, my son, my son!"
+
+**2** Joab was told, "The king is weeping and mourning for Absalom."
+
+**3** So the victory[^19-2] that day was turned into mourning for all the troops, because the troops heard that day, "The king is grieving for his son."
+
+**4** The troops stole into the city that day, as troops steal in when they are ashamed because they have fled in battle.
+
+**5** The king covered his face, and the king cried out with a loud voice, "My son Absalom! Absalom, my son, my son!"
+
+**6** Then Joab came into the house to the king and said, "Today you have shamed all your servants, who have saved your life today, and the lives of your sons and your daughters, the lives of your wives and the lives of your concubines,
+
+**7** by loving those who hate you and hating those who love you. For you have made it clear today that commanders and servants mean nothing to you. For I know today that if[^19-3] Absalom were alive and all of us were dead today, then it would be right in your eyes.
+
+**8** Now get up, go out and speak kindly to your servants.[^19-4] For I swear by Yahweh[^19-5] that if you do not go out, not one man will stay with you tonight. That will be worse for you than all the trouble that has come upon you from your youth until now."
+
+**9** So the king got up and sat in the gate. When all the troops were told, "Look, the king is sitting in the gate," all the troops came before the king. Meanwhile the Israelites had fled, each to his home.[^19-6]
+
+**10** All the people were arguing throughout all the tribes of Israel, saying, "The king rescued us from the hand of our enemies, and he saved us from the hand of the Philistines. But now he has fled from the land because of Absalom.
+
+**11** And Absalom, whom we anointed over us, has died in battle. So now, why are you saying nothing about bringing the king back?"
+
+**12** King David sent word to Zadok and Abiathar the priests: "Speak to the elders of Judah and say, 'Why should you be the last to bring the king back to his house? What all Israel is saying has reached the king at his house.[^19-7]
+
+**13** You are my brothers; you are my own flesh and blood.[^19-8] Why should you be the last to bring the king back?'
+
+**14** And say to Amasa, 'Are you not my own flesh and blood? May God deal with me, and more severely,[^19-9] if you are not commander of my army from now on,[^19-10] in place of Joab.'"
+
+**15** So he won over the hearts of all the men of Judah as one man, and they sent word to the king: "Come back, you and all your servants."
+
+**16** So the king came back as far as the Jordan. Judah had come to Gilgal to go and meet the king and to bring the king across the Jordan.
+
+**17** Shimei son of Gera, the Benjaminite from Bahurim, hurried down with the men of Judah to meet King David.
+
+**18** With him were a thousand men from Benjamin, and Ziba, the steward of the house of Saul, with his fifteen sons and his twenty servants. They rushed down to the Jordan ahead of the king.
+
+**19** They crossed the ford[^19-11] to bring the king's household over and to do whatever he wished. Shimei son of Gera fell down before the king as he was crossing the Jordan.
+
+**20** He said to the king, "Let not my lord hold me guilty. Do not remember how your servant did wrong on the day my lord the king left[^19-12] Jerusalem. Let not the king take it to heart.
+
+**21** For your servant knows that I have sinned. But look, today I have come, the first of all the house of Joseph,[^19-13] to come down to meet my lord the king."
+
+**22** Abishai son of Zeruiah answered, "Shouldn't Shimei be put to death for this, because he cursed Yahweh's anointed?"[^19-14]
+
+**23** But David said, "What do I have to do with you, you sons of Zeruiah, that you should become an adversary[^19-15] to me today? Should anyone be put to death in Israel today? Don't I know that today I am king over Israel?"
+
+**24** The king said to Shimei, "You will not die." And the king swore an oath to him.
+
+**25** Mephibosheth, the grandson[^19-16] of Saul, also came down to meet the king. He had not cared for his feet or trimmed his mustache or washed his clothes from the day the king left until the day he came back in peace.
+
+**26** When he came to Jerusalem[^19-17] to meet the king, the king said to him, "Why didn't you go with me, Mephibosheth?"
+
+**27** He said, "My lord the king, my servant deceived me. Your servant said, 'Let me saddle the donkey for myself,[^19-18] so that I may ride on it and go with the king,' for your servant is lame.
+
+**28** He has slandered your servant to my lord the king. But my lord the king is like the angel of God.[^19-19] So do whatever seems good to you.
+
+**29** For all my father's house were nothing but men doomed to death before my lord the king, yet you set your servant among those who eat at your table. What right do I have, then, to cry out to the king any more?"
+
+**30** The king said to him, "Why do you go on talking? I have decided: you and Ziba are to divide the land."
+
+**31** Mephibosheth said to the king, "Let him take it all, now that my lord the king has come home in peace."
+
+**32** Barzillai the Gileadite had come down from Rogelim, and he crossed the Jordan with the king, to send him on his way across the Jordan.[^19-20]
+
+**33** Barzillai was very old, eighty years old. He had provided for the king while he stayed at Mahanaim, for he was a very wealthy man.
+
+**34** The king said to Barzillai, "Cross over with me, and I will provide for you at my side in Jerusalem."
+
+**35** But Barzillai said to the king, "How many more years do I have to live,[^19-21] that I should go up with the king to Jerusalem?
+
+**36** I am now eighty years old. Can I tell the difference between good and bad? Can your servant taste what I eat or what I drink? Can I still listen to the voices of men and women singing? Why then should your servant be an added burden to my lord the king?
+
+**37** Your servant will go only a little way across the Jordan with the king. Why should the king repay me with such a reward?
+
+**38** Please let your servant go back, so that I may die in my own town, near the grave of my father and my mother. But here is your servant Chimham.[^19-22] Let him cross over with my lord the king, and do for him whatever seems good to you."
+
+**39** The king said, "Chimham will cross over with me, and I will do for him whatever seems good to you. And anything you ask of me I will do for you."
+
+**40** Then all the people crossed the Jordan, and the king crossed over. The king kissed Barzillai and blessed him, and he went back to his own place.
+
+**41** The king went on to Gilgal, and Chimham went on with him. All the troops of Judah brought the king over,[^19-23] and also half the troops of Israel.
+
+**42** Then all the men of Israel came to the king and said to the king, "Why have our brothers, the men of Judah, stolen you away and brought the king and his household across the Jordan, and all David's men with him?"
+
+**43** All the men of Judah answered the men of Israel, "Because the king is our close relative.[^19-24] Why are you angry about this? Have we eaten anything at the king's expense? Or has any gift been given to us?"[^19-25]
+
+**44** The men of Israel answered the men of Judah, "We have ten shares in the king, and we have more claim on David than you do.[^19-26] Why then did you treat us with contempt? Weren't we the first to speak of bringing back our king?"[^19-27] But the words of the men of Judah were harsher than the words of the men of Israel.
+
+[^19-1]: Verse 1 is 18:33 in most English Bibles, and verses 2–44 are 19:1–43.
+[^19-2]: Or "the deliverance". Hebrew *teshu'ah*.
+[^19-3]: The Hebrew text is written "not" (*lo*) but read "if" (*lu*).
+[^19-4]: Literally "speak to the heart of your servants".
+[^19-5]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^19-6]: Literally "to his tents".
+[^19-7]: The Septuagint has the words "What all Israel is saying has reached the king" at the end of verse 11 (19:10 in English).
+[^19-8]: Literally "my bone and my flesh". Also in verse 14.
+[^19-9]: Literally "Thus may God do to me, and thus may he add", a solemn oath calling down punishment on oneself if one does not keep one's word.
+[^19-10]: Literally "before me all the days".
+[^19-11]: Hebrew *avarah*, "crossing", perhaps a ford or a ferry boat. Literally "And the crossing crossed".
+[^19-12]: In the Hebrew text, dots are written over this word, a scribal mark of doubt.
+[^19-13]: Here the northern tribes of Israel, of which Joseph's descendants, Ephraim and Manasseh, were the largest.
+[^19-14]: Hebrew *meshiach YHWH*: the king anointed at Yahweh's command (1:14).
+[^19-15]: Hebrew *satan*, "adversary, opponent".
+[^19-16]: Literally "son".
+[^19-17]: Literally "When he came Jerusalem", perhaps "When he came from Jerusalem".
+[^19-18]: The Septuagint, the Syriac and the Vulgate read "Saddle the donkey for me", an order to Ziba.
+[^19-19]: Or "the messenger of God".
+[^19-20]: The Hebrew text is written "to send him on his way at the Jordan" but read "to send him on his way across the Jordan".
+[^19-21]: Literally "How many are the days of the years of my life".
+[^19-22]: Probably Barzillai's son (compare 1 Kings 2:7). Also in verses 39 and 41.
+[^19-23]: The Hebrew text is written "crossed over with the king" but read "brought the king over".
+[^19-24]: Literally "is near to me".
+[^19-25]: The meaning of the Hebrew is uncertain. Literally "Or has a carrying been carried to us?"
+[^19-26]: Literally "Ten hands I have in the king, and also in David I am more than you." The Septuagint reads "and I am the firstborn rather than you".
+[^19-27]: Literally "Was not my word first to bring back my king?"
+
+## Chapter 20
+
+*Status: draft*
+
+**1** Now a worthless man[^20-1] happened to be there, named Sheba son of Bichri, a Benjaminite. He blew the ram's horn and said, "We have no share in David, no inheritance in the son of Jesse! Every man to his tents,[^20-2] Israel!"
+
+**2** So all the men of Israel deserted David and followed Sheba son of Bichri. But the men of Judah stayed close to their king, from the Jordan to Jerusalem.
+
+**3** When David came to his house in Jerusalem, the king took the ten women, the concubines he had left to look after the house, and put them in a house under guard. He provided for them, but he did not sleep with them.[^20-3] They were shut away until the day of their death, living as widows.[^20-4]
+
+**4** The king said to Amasa, "Call the men of Judah together for me within three days, and be here yourself."
+
+**5** So Amasa went to call Judah together, but he took longer than the time David had set him.
+
+**6** David said to Abishai, "Now Sheba son of Bichri will do us more harm than Absalom did. Take your lord's servants and pursue him, or he will find himself fortified cities and escape from our sight."[^20-5]
+
+**7** So Joab's men, the Cherethites, the Pelethites and all the warriors went out after him. They left Jerusalem to pursue Sheba son of Bichri.
+
+**8** When they were at the great stone in Gibeon, Amasa came to meet them. Joab was wearing his military tunic,[^20-6] and over it was a belt with a sword in its sheath fastened at his waist. As he stepped forward, it fell out.[^20-7]
+
+**9** Joab said to Amasa, "Are you well, my brother?" And Joab's right hand took Amasa by the beard to kiss him.
+
+**10** Amasa was not on guard against the sword in Joab's hand. Joab struck him in the stomach[^20-8] with it, and his insides spilled out on the ground. He did not strike him a second time, and he died. Then Joab and his brother Abishai pursued Sheba son of Bichri.
+
+**11** One of Joab's young men stood over Amasa and said, "Whoever favors Joab, and whoever is for David, follow Joab!"
+
+**12** Amasa lay wallowing in his blood in the middle of the road. When the man saw that all the troops were stopping, he moved Amasa from the road into the field and threw a garment over him, because he saw that everyone who came by him stopped.
+
+**13** Once he had been removed from the road, everyone went on after Joab to pursue Sheba son of Bichri.
+
+**14** Sheba went through all the tribes of Israel to Abel and Beth-maacah,[^20-9] and all the Berites.[^20-10] They assembled and followed him in.
+
+**15** They came and besieged him in Abel of Beth-maacah. They piled up a siege ramp against the city, and it stood against the outer wall. All the troops who were with Joab were battering the wall to bring it down.
+
+**16** Then a wise woman called out from the city, "Listen! Listen! Please tell Joab, 'Come here, so that I may speak with you.'"
+
+**17** He came near to her, and the woman said, "Are you Joab?" He said, "I am." She said to him, "Listen to the words of your servant." He said, "I am listening."
+
+**18** She said, "In the old days they used to say, 'Let them ask at Abel,' and that settled the matter.[^20-11]
+
+**19** I am one of the peaceful and faithful in Israel.[^20-12] You are trying to destroy a city that is a mother in Israel.[^20-13] Why would you swallow up the inheritance of Yahweh?"[^20-14]
+
+**20** Joab answered, "Far be it from me, far be it, that I should swallow up or destroy!
+
+**21** That is not the case. A man from the hill country of Ephraim, named Sheba son of Bichri, has lifted his hand against the king, against David. Hand over just this one man, and I will withdraw from the city." The woman said to Joab, "His head will be thrown to you over the wall."
+
+**22** Then the woman went to all the people with her wisdom, and they cut off the head of Sheba son of Bichri and threw it out to Joab. He blew the ram's horn, and they dispersed from the city, each to his home.[^20-15] And Joab went back to the king in Jerusalem.
+
+**23** Joab was over the whole army of Israel. Benaiah son of Jehoiada was over the Cherethites[^20-16] and the Pelethites.
+
+**24** Adoram was over the forced labor.[^20-17] Jehoshaphat son of Ahilud was recorder.[^20-18]
+
+**25** Sheva[^20-19] was secretary. Zadok and Abiathar were priests.
+
+**26** And Ira the Jairite was David's priest.[^20-20]
+
+[^20-1]: Literally "a man of *beliyya'al*", "a man of worthlessness": a scoundrel.
+[^20-2]: That is, go home.
+[^20-3]: Literally "go in to them", a Hebrew way of speaking of sexual relations.
+[^20-4]: Literally "in widowhood of life", perhaps meaning widows while their husband was still alive.
+[^20-5]: Literally "and snatch away our eye". The meaning is uncertain.
+[^20-6]: Literally "girded with his garment, his clothing".
+[^20-7]: Literally "and he went out, and it fell". The Hebrew is difficult. The point seems to be that the sword fell out, perhaps deliberately, so that Joab could pick it up and hold it without arousing suspicion.
+[^20-8]: Hebrew *chomesh*; see 2:23.
+[^20-9]: Probably the same town as Abel of Beth-maacah (verse 15), in the far north of Israel.
+[^20-10]: Hebrew *ha-berim*, a name not otherwise known. Many take it to be a copying error for "the Bichrites", Sheba's clan.
+[^20-11]: The Septuagint reads "Let them ask in Abel and in Dan whether what the faithful of Israel established has come to an end."
+[^20-12]: Literally "I am of the peaceful ones, the faithful ones of Israel".
+[^20-13]: That is, a leading city, on which the surrounding towns depended.
+[^20-14]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles. *The inheritance of Yahweh* is his people and their land.
+[^20-15]: Literally "each to his tents".
+[^20-16]: The Hebrew text is written "the Carites" but read "the Cherethites". The Carites were a royal guard (2 Kings 11:4, 19). On the Cherethites and Pelethites, see 8:18.
+[^20-17]: Hebrew *mas*, gangs of forced laborers. In 1 Kings 4:6 he is called Adoniram.
+[^20-18]: See 8:16.
+[^20-19]: The Hebrew text is written "Sheya" but read "Sheva". See 8:17.
+[^20-20]: Hebrew *kohen*, the usual word for priest; compare 8:18.
+
+## Chapter 21
+
+*Status: draft*
+
+**1** In the days of David there was a famine for three years, year after year. David sought the face of Yahweh,[^21-1] and Yahweh said, "It is because of Saul and his house, stained with blood,[^21-2] because he put the Gibeonites to death."
+
+**2** So the king called the Gibeonites and spoke to them. (The Gibeonites were not Israelites but a remnant of the Amorites. The Israelites had sworn an oath to them,[^21-3] but Saul had tried to strike them down in his zeal for the people of Israel and Judah.)
+
+**3** David said to the Gibeonites, "What shall I do for you? How shall I make atonement,[^21-4] so that you will bless the inheritance of Yahweh?"
+
+**4** The Gibeonites said to him, "It is not a matter of silver or gold between us[^21-5] and Saul or his house, and it is not for us to put anyone to death in Israel." He said, "Whatever you say, I will do for you."
+
+**5** They said to the king, "The man who consumed us and planned against us, so that we have been wiped out and have no place anywhere in the territory of Israel,
+
+**6** let seven men of his sons be handed over to us, and we will execute them[^21-6] before Yahweh at Gibeah of Saul, the chosen one of Yahweh."[^21-7] The king said, "I will hand them over."
+
+**7** But the king spared Mephibosheth son of Jonathan, son of Saul, because of the oath before Yahweh[^21-8] that was between them, between David and Jonathan son of Saul.
+
+**8** The king took the two sons of Rizpah daughter of Aiah, whom she had borne to Saul, Armoni and Mephibosheth,[^21-9] and the five sons of Michal[^21-10] daughter of Saul, whom she had borne to Adriel son of Barzillai the Meholathite.
+
+**9** He handed them over to the Gibeonites, and they executed them on the mountain before Yahweh. The seven of them[^21-11] fell together. They were put to death in the first days of the harvest, at the beginning of the barley harvest.
+
+**10** Then Rizpah daughter of Aiah took sackcloth and spread it out for herself on the rock, from the beginning of the harvest until rain poured down on them from the sky. She did not let the birds of the sky settle on them by day, or the wild animals by night.
+
+**11** When David was told what Rizpah daughter of Aiah, Saul's concubine, had done,
+
+**12** David went and took the bones of Saul and the bones of his son Jonathan from the citizens[^21-12] of Jabesh-gilead. They had stolen them from the public square of Beth-shan, where the Philistines had hung them on the day the Philistines struck down Saul at Gilboa.
+
+**13** He brought up from there the bones of Saul and the bones of his son Jonathan, and they gathered the bones of those who had been executed.
+
+**14** They buried the bones of Saul and his son Jonathan in the land of Benjamin, at Zela, in the tomb of his father Kish. They did everything the king commanded. After that, God answered prayers for the land.
+
+**15** Once again there was war between the Philistines and Israel. David went down with his servants, and they fought against the Philistines, and David grew exhausted.
+
+**16** Then Ishbi-benob,[^21-13] one of the descendants of the Raphah,[^21-14] whose spear weighed three hundred shekels[^21-15] of bronze, and who was armed with a new weapon,[^21-16] said he would kill David.
+
+**17** But Abishai son of Zeruiah came to his help, struck the Philistine and killed him. Then David's men swore to him, "You must never again go out with us to battle, so that you do not put out the lamp of Israel."
+
+**18** After this there was another battle with the Philistines, at Gob. Then Sibbecai the Hushathite struck down Saph, who was one of the descendants of the Raphah.
+
+**19** There was another battle with the Philistines at Gob, and Elhanan son of Jaare-oregim the Bethlehemite struck down Goliath the Gittite, the shaft of whose spear was like a weaver's beam.[^21-17]
+
+**20** There was yet another battle, at Gath, where there was a man of great size[^21-18] who had six fingers on each hand and six toes on each foot, twenty-four in number. He too was descended from the Raphah.
+
+**21** When he taunted Israel, Jonathan son of Shimea,[^21-19] David's brother, struck him down.
+
+**22** These four were descended from the Raphah in Gath, and they fell by the hand of David and by the hand of his servants.
+
+[^21-1]: That is, he asked Yahweh for guidance. *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^21-2]: Literally "and the house of bloods".
+[^21-3]: That is, they had sworn to let them live (Joshua 9:3–27).
+[^21-4]: Hebrew *akhapper*, "make atonement, make amends".
+[^21-5]: The Hebrew text is written "me" but read "us".
+[^21-6]: The meaning of the Hebrew verb is uncertain: perhaps "impale", "hang" or "expose" their bodies (compare Numbers 25:4). Also in verses 9 and 13.
+[^21-7]: Hebrew *bechir YHWH*, "the chosen one of Yahweh", that is, Saul (1 Samuel 10:24). Many think the text originally read "on the mountain of Yahweh" (compare verse 9).
+[^21-8]: Literally "the oath of Yahweh" (1 Samuel 20:42).
+[^21-9]: Another son of Saul, not Jonathan's son Mephibosheth (verse 7).
+[^21-10]: Some Hebrew manuscripts and some manuscripts of the Septuagint read "Merab". Merab was given in marriage to Adriel the Meholathite (1 Samuel 18:19), and Michal had no children (6:23).
+[^21-11]: The Hebrew text is written "sevenfold" but read "the seven of them".
+[^21-12]: Hebrew *ba'alei*, "the lords of", meaning the citizens or leading men.
+[^21-13]: The Hebrew text is written "and they stayed at Nob" but read "Ishbi-benob".
+[^21-14]: Hebrew *ha-rapha*, perhaps the ancestor of the Rephaim, a people remembered as giants (Deuteronomy 2:11, 20). Also in verses 18, 20 and 22.
+[^21-15]: A shekel is about 2/5 ounce (11.5 grams), so three hundred shekels is about 7½ pounds (3.5 kg).
+[^21-16]: Literally "girded with a new (one)". The noun is missing: perhaps a new sword or new armor.
+[^21-17]: The heavy rod of a loom. 1 Chronicles 20:5 reads "Elhanan son of Jair struck down Lahmi the brother of Goliath the Gittite". In 1 Samuel 17 David kills Goliath. *Oregim* means "weavers", and the word may have been copied into the name from the end of the verse.
+[^21-18]: The Hebrew text is written *midyan* but read *madon*. Both words are of uncertain meaning here; 1 Chronicles 20:6 has "a man of great size".
+[^21-19]: The Hebrew text is written "Shimei" but read "Shimea".
+
+## Chapter 22
+
+*Status: draft*
+
+**1** David spoke the words of this song to Yahweh[^22-1] on the day when Yahweh rescued him from the hand of all his enemies and from the hand of Saul.[^22-2]
+
+**2** He said: "Yahweh is my rock, my fortress and my deliverer.[^22-3]
+
+**3** My God, my rock,[^22-4] in whom I take refuge; my shield and the horn[^22-5] of my salvation, my stronghold and my refuge; my savior, you save me from violence.[^22-6]
+
+**4** I call on Yahweh, who is worthy of praise, and I am saved from my enemies.
+
+**5** For the breakers of death[^22-7] surrounded me; the torrents of destruction[^22-8] terrified me.
+
+**6** The cords of Sheol[^22-9] coiled around me; the snares of death confronted me.
+
+**7** In my distress I called on Yahweh; to my God I called. From his temple he heard my voice, and my cry for help reached his ears.
+
+**8** Then the earth shook and trembled; the foundations of the heavens[^22-10] quaked; they shook because he was angry.
+
+**9** Smoke went up from his nostrils, and devouring fire from his mouth; coals blazed out from him.
+
+**10** He bent the heavens and came down, with thick darkness under his feet.
+
+**11** He rode on a cherub[^22-11] and flew; he was seen[^22-12] on the wings of the wind.
+
+**12** He made darkness a shelter around him, a mass of waters,[^22-13] thick clouds of the skies.
+
+**13** Out of the brightness before him coals of fire blazed.
+
+**14** Yahweh thundered from heaven; the Most High[^22-14] uttered his voice.
+
+**15** He sent out arrows and scattered them, lightning, and threw them into confusion.
+
+**16** The channels of the sea were seen; the foundations of the world were laid bare at the rebuke of Yahweh, at the blast of the breath of his nostrils.
+
+**17** He reached down from on high and took me; he drew me out of many waters.
+
+**18** He rescued me from my strong enemy, from those who hated me, for they were too strong for me.
+
+**19** They confronted me on the day of my disaster, but Yahweh was my support.
+
+**20** He brought me out into a wide place; he rescued me because he delighted in me.
+
+**21** Yahweh rewarded me according to my righteousness; according to the cleanness of my hands he repaid me.
+
+**22** For I have kept the ways of Yahweh, and I have not done evil by turning from my God.
+
+**23** For all his rulings[^22-15] are before me, and from his decrees I have not turned aside.[^22-16]
+
+**24** I was blameless before him, and I kept myself from my guilt.[^22-17]
+
+**25** So Yahweh has repaid me according to my righteousness, according to my cleanness in his sight.
+
+**26** With the faithful you show yourself faithful;[^22-18] with the blameless warrior you show yourself blameless.
+
+**27** With the pure you show yourself pure, but with the crooked you show yourself shrewd.
+
+**28** You save a humble people, but your eyes are on the haughty, to bring them low.
+
+**29** For you are my lamp, Yahweh; Yahweh lights up my darkness.
+
+**30** For with you I can charge against a troop;[^22-19] with my God I can leap over a wall.
+
+**31** This God, his way is perfect; the word of Yahweh is refined.[^22-20] He is a shield to all who take refuge in him.
+
+**32** For who is God besides Yahweh? And who is a rock besides our God?
+
+**33** This God is my strong refuge,[^22-21] and he sets my way free and blameless.[^22-22]
+
+**34** He makes my feet[^22-23] like the feet of a deer, and sets me on my heights.
+
+**35** He trains my hands for war, so that my arms can bend a bow of bronze.
+
+**36** You have given me the shield of your salvation; your help[^22-24] has made me great.
+
+**37** You make a wide place for my steps beneath me, and my ankles have not slipped.
+
+**38** I pursued my enemies and destroyed them; I did not turn back until they were finished off.
+
+**39** I finished them off and crushed them, so that they could not rise; they fell beneath my feet.
+
+**40** You armed me with strength for battle; you made those who rose against me bow down beneath me.
+
+**41** You made my enemies turn their backs to me;[^22-25] those who hated me, I destroyed them.
+
+**42** They looked for help,[^22-26] but there was no one to save them; they looked to Yahweh, but he did not answer them.
+
+**43** I beat them as fine as the dust of the earth; I crushed them and trampled them like the mud of the streets.
+
+**44** You rescued me from the strife of my people; you kept me as the head of nations. A people I did not know now serve me.
+
+**45** Foreigners come cringing to me;[^22-27] as soon as they hear of me, they obey me.
+
+**46** Foreigners lose heart, and they come limping[^22-28] out of their strongholds.
+
+**47** Yahweh lives! Blessed be my rock! Exalted be God, the rock of my salvation,
+
+**48** the God who grants me vengeance and brings peoples down under me,
+
+**49** who brings me out from my enemies. You lift me high above those who rise against me; you rescue me from violent men.
+
+**50** So I will praise you, Yahweh, among the nations, and sing praises to your name.[^22-29]
+
+**51** He is a tower of salvation[^22-30] for his king; he shows faithful love[^22-31] to his anointed,[^22-32] to David and his offspring for ever."
+
+[^22-1]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^22-2]: This song appears again, with small differences, as Psalm 18. From verse 4 on, its verse numbers match those of Psalm 18 in the Hebrew; in English Bibles the psalm's verses are numbered one lower. The notes below give some of the differences.
+[^22-3]: Psalm 18 begins "I love you, Yahweh, my strength" (18:2) before these words.
+[^22-4]: Literally "the God of my rock". Psalm 18:3 has "my God, my rock".
+[^22-5]: A symbol of strength, like the horns of a wild ox.
+[^22-6]: Psalm 18:3 does not have "and my refuge; my savior, you save me from violence".
+[^22-7]: Psalm 18:5 has "the cords of death".
+[^22-8]: Hebrew *beliyya'al*, "worthlessness", here perhaps destruction or the realm of death.
+[^22-9]: Hebrew *Sheol*: the realm of the dead.
+[^22-10]: Psalm 18:8 has "the foundations of the mountains".
+[^22-11]: Hebrew *keruv*, one of the winged heavenly beings (see 6:2).
+[^22-12]: Hebrew *vayyera*. Psalm 18:11 and many Hebrew manuscripts of Samuel read *vayyede*, "he swooped", which differs by one similar letter.
+[^22-13]: Hebrew *chashrat mayim*, a phrase found only here, perhaps "a gathering of waters". Psalm 18:12 has "dark waters".
+[^22-14]: Hebrew *Elyon*, a title of God.
+[^22-15]: The Hebrew text is written "his ruling" but read "his rulings".
+[^22-16]: Literally "and his decrees, I do not turn aside from it".
+[^22-17]: That is, from doing wrong.
+[^22-18]: Hebrew *chasid*, "faithful, loyal", and the verb from the same root, related to *chesed*, "faithful love".
+[^22-19]: Or "I can run through a barricade".
+[^22-20]: That is, tested and pure, like metal refined in a furnace.
+[^22-21]: Literally "God is my refuge of strength". Psalm 18:33 has "the God who arms me with strength".
+[^22-22]: Literally "and he sets free blameless my way". The meaning of the verb is uncertain. The Hebrew text is written "his way" but read "my way". Psalm 18:33 has "and makes my way blameless".
+[^22-23]: The Hebrew text is written "his feet" but read "my feet".
+[^22-24]: Hebrew *anotkha*, perhaps "your answering" or "your help". Psalm 18:36 has "your gentleness" and adds "your right hand supports me".
+[^22-25]: Literally "My enemies, you gave me their neck."
+[^22-26]: Hebrew *yish'u*, "they looked". Psalm 18:42 has "they cried for help".
+[^22-27]: Or "pretend to obey me".
+[^22-28]: Hebrew *yachgeru*, perhaps "limp", or "gird themselves". Psalm 18:46 has "come trembling".
+[^22-29]: Psalm 18:50 (18:49 in English) is quoted in Romans 15:9.
+[^22-30]: The Hebrew text is written "He gives great victories", as in Psalm 18:51, but read "He is a tower of salvation".
+[^22-31]: Hebrew *chesed*: loyal, faithful love.
+[^22-32]: Hebrew *meshicho*, "his anointed one", the king anointed at Yahweh's command.
+
+## Chapter 23
+
+*Status: draft*
+
+**1** These are the last words of David: "The declaration[^23-1] of David son of Jesse, the declaration of the man who was raised on high,[^23-2] the anointed of the God of Jacob, the sweet singer of the songs of Israel:[^23-3]
+
+**2** The Spirit of Yahweh[^23-4] spoke through me; his word was on my tongue.
+
+**3** The God of Israel spoke; the Rock of Israel said to me: 'One who rules over people in righteousness, who rules in the fear of God,
+
+**4** is like the light of morning when the sun rises, a morning without clouds, when the grass springs from the earth through sunshine after rain.'[^23-5]
+
+**5** Is not my house like this with God?[^23-6] For he has made an everlasting covenant with me, ordered in every part and secured. Will he not make all my salvation and all my desire grow?
+
+**6** But the worthless[^23-7] are all like thorns that are tossed away, for they cannot be picked up by hand.
+
+**7** Whoever touches them must arm himself with iron or the shaft of a spear, and they are utterly burned up with fire where they lie."[^23-8]
+
+**8** These are the names of David's mighty warriors: Josheb-basshebeth[^23-9] the Tahchemonite, the chief of the officers.[^23-10] He was Adino the Eznite, who killed eight hundred men at one time.[^23-11]
+
+**9** Next to him was Eleazar son of Dodo,[^23-12] son of Ahohi,[^23-13] one of the three mighty warriors with David when they taunted the Philistines who were gathered there for battle. The men of Israel withdrew,
+
+**10** but he stood his ground and struck down the Philistines until his hand grew tired and stuck to the sword. Yahweh brought about a great victory that day, and the troops came back after him only to strip the dead.
+
+**11** Next to him was Shammah son of Agee the Hararite. The Philistines had gathered together at Lehi,[^23-14] where there was a plot of ground full of lentils, and the troops fled from the Philistines.
+
+**12** But he took his stand in the middle of the plot, defended it and struck down the Philistines. And Yahweh brought about a great victory.
+
+**13** Three[^23-15] of the Thirty,[^23-16] the chiefs, went down at harvest time[^23-17] and came to David at the cave of Adullam, while a band of Philistines was camped in the Valley of Rephaim.
+
+**14** At that time David was in the stronghold, and a Philistine garrison was then at Bethlehem.
+
+**15** David felt a craving and said, "If only someone would give me water to drink from the well of Bethlehem that is by the gate!"
+
+**16** So the three mighty warriors broke through the Philistine camp, drew water from the well of Bethlehem that was by the gate, and carried it back to David. But he would not drink it. He poured it out to Yahweh
+
+**17** and said, "Far be it from me, Yahweh, that I should do this! Is it not the blood of the men who went at the risk of their lives?"[^23-18] So he would not drink it. These were the deeds of the three mighty warriors.
+
+**18** Abishai, the brother of Joab son of Zeruiah, was chief of the Three.[^23-19] He wielded his spear against three hundred men and killed them, and he won a name among the Three.
+
+**19** Was he not the most honored of the Three?[^23-20] He became their commander, but he did not attain to the Three.
+
+**20** Benaiah son of Jehoiada was the son of a valiant man[^23-21] from Kabzeel, a man of great deeds. He struck down two champions[^23-22] of Moab. He also went down and killed a lion inside a pit on a snowy day.
+
+**21** He also struck down an Egyptian, a man of impressive appearance. The Egyptian had a spear in his hand, but Benaiah went down to him with a club, snatched the spear out of the Egyptian's hand and killed him with his own spear.
+
+**22** These were the deeds of Benaiah son of Jehoiada, and he won a name among the three mighty warriors.
+
+**23** He was more honored than the Thirty, but he did not attain to the Three. And David put him in charge of his bodyguard.[^23-23]
+
+**24** Among the Thirty were Asahel the brother of Joab; Elhanan son of Dodo, of Bethlehem;
+
+**25** Shammah the Harodite; Elika the Harodite;
+
+**26** Helez the Paltite; Ira son of Ikkesh, the Tekoite;
+
+**27** Abiezer the Anathothite; Mebunnai[^23-24] the Hushathite;
+
+**28** Zalmon the Ahohite; Maharai the Netophathite;
+
+**29** Heleb[^23-25] son of Baanah, the Netophathite; Ittai son of Ribai, from Gibeah of the Benjaminites;
+
+**30** Benaiah the Pirathonite; Hiddai of the ravines of Gaash;
+
+**31** Abi-albon the Arbathite; Azmaveth the Barhumite;
+
+**32** Eliahba the Shaalbonite; the sons of Jashen; Jonathan;[^23-26]
+
+**33** Shammah the Hararite; Ahiam son of Sharar the Hararite;[^23-27]
+
+**34** Eliphelet son of Ahasbai, the son of the Maacathite; Eliam son of Ahithophel, the Gilonite;
+
+**35** Hezrai[^23-28] the Carmelite; Paarai the Arbite;
+
+**36** Igal son of Nathan, from Zobah; Bani the Gadite;
+
+**37** Zelek the Ammonite; Naharai the Beerothite, the armor-bearer[^23-29] of Joab son of Zeruiah;
+
+**38** Ira the Ithrite; Gareb the Ithrite;
+
+**39** and Uriah the Hittite. Thirty-seven in all.
+
+[^23-1]: Hebrew *ne'um*, a word often used of a prophet's message: "declaration, oracle".
+[^23-2]: Hebrew *huqam al*, "raised up on high". 4QSam(a), a Dead Sea Scroll of Samuel, reads "whom God raised up".
+[^23-3]: Literally "the pleasant one of the songs of Israel". Or "the favorite of the Strong One of Israel", taking *zemirot* in the sense "strength".
+[^23-4]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^23-5]: Literally "and like the light of morning the sun rises, a morning without clouds; from brightness, from rain, grass from the earth".
+[^23-6]: Or "Truly my house is not so with God."
+[^23-7]: Hebrew *beliyya'al*, "worthlessness": the wicked.
+[^23-8]: Literally "in the sitting", perhaps meaning "on the spot".
+[^23-9]: Hebrew *yoshev ba-shevet*, "one who sits in the seat", probably a damaged form of the name. 1 Chronicles 11:11 has "Jashobeam", and some manuscripts of the Septuagint have "Ishbosheth".
+[^23-10]: Hebrew *ha-shalishi*, perhaps "the officers" (literally "third men", perhaps the third man in a chariot). Many take it as "the Three" (verses 18–23).
+[^23-11]: The Hebrew of this sentence is difficult. Literally "He, Adino the Eznite, over eight hundred slain at one time." The Hebrew text is written *ha-etsno* but read *ha-etsni*, "the Eznite". 1 Chronicles 11:11 reads "He wielded his spear against three hundred, whom he killed at one time" (compare verse 18).
+[^23-12]: The Hebrew text is written "Dodai" but read "Dodo".
+[^23-13]: Or "the Ahohite", as in 1 Chronicles 11:12 (compare verse 28).
+[^23-14]: Hebrew *la-chayyah*, "into a troop", or "at Lehi" (Judges 15:9). The same word is translated "band" in verse 13.
+[^23-15]: The Hebrew text is written "Thirty" but read "Three".
+[^23-16]: David's elite company of warriors, whose names are listed in verses 24–39.
+[^23-17]: Hebrew *el qatsir*, "to the harvest". 1 Chronicles 11:15 has "to the rock".
+[^23-18]: Literally "The blood of the men who went with their lives?" 1 Chronicles 11:19 reads "Shall I drink the blood of these men, who went at the risk of their lives?"
+[^23-19]: The Hebrew text is written *ha-shelishi*, which may mean "the officers" (as in verse 8), but read "the Three". Also in verse 19.
+[^23-20]: Literally "Of the Three, was he not honored?" Since in the second half of the verse Abishai does not attain to the Three, many think "the Thirty" is meant, as in verse 23.
+[^23-21]: The Hebrew text is written "a living man" but read "a valiant man".
+[^23-22]: Hebrew *ari'el*, a word of uncertain meaning, perhaps "champion". The Septuagint reads "the two sons of Ariel of Moab".
+[^23-23]: Hebrew *mishma'ato*, literally "those who obey him", perhaps his personal guard or council.
+[^23-24]: Called Sibbecai in 21:18 and in 1 Chronicles 11:29.
+[^23-25]: 1 Chronicles 11:30 has "Heled".
+[^23-26]: The Hebrew is probably damaged. 1 Chronicles 11:34 reads "the sons of Hashem the Gizonite, Jonathan son of Shagee the Hararite".
+[^23-27]: Hebrew *ha-arari*, probably another spelling of *ha-harari*, "the Hararite".
+[^23-28]: The Hebrew text is written "Hezro" but read "Hezrai".
+[^23-29]: The Hebrew text is written "the armor-bearers" but read "the armor-bearer".
+
+## Chapter 24
+
+*Status: draft*
+
+**1** Again the anger of Yahweh[^24-1] burned against Israel, and he incited David against them, saying, "Go, count Israel and Judah."[^24-2]
+
+**2** So the king said to Joab, the commander of the army, who was with him, "Go through all the tribes of Israel, from Dan to Beersheba, and register the people, so that I may know the number of the people."
+
+**3** Joab said to the king, "May Yahweh your God multiply the people a hundred times over, while the eyes of my lord the king can still see it! But why does my lord the king want to do this?"
+
+**4** But the king's word prevailed against Joab and the commanders of the army. So Joab and the commanders of the army went out from the king's presence to register the people of Israel.
+
+**5** They crossed the Jordan and camped at Aroer, south of the town that is in the middle of the valley,[^24-3] toward Gad and on to Jazer.
+
+**6** Then they came to Gilead and to the land of Tahtim-hodshi,[^24-4] and they came to Dan-jaan[^24-5] and around toward Sidon.
+
+**7** They came to the fortress of Tyre and to all the towns of the Hivites and the Canaanites, and they went out to the Negev of Judah at Beersheba.
+
+**8** So they went through the whole land, and at the end of nine months and twenty days they came back to Jerusalem.
+
+**9** Joab gave the king the total from the registration of the people: in Israel there were eight hundred thousand valiant men who could draw the sword, and the men of Judah were five hundred thousand.[^24-6]
+
+**10** But David's conscience troubled him[^24-7] after he had counted the people. David said to Yahweh, "I have sinned greatly in what I have done. Now, Yahweh, please take away the guilt of your servant, for I have acted very foolishly."
+
+**11** When David got up in the morning, the word of Yahweh had come to the prophet Gad, David's seer:
+
+**12** "Go and tell David, 'This is what Yahweh says: I am setting[^24-8] three things before you. Choose one of them, and I will do it to you.'"
+
+**13** So Gad came to David and told him. He said to him, "Shall seven years[^24-9] of famine come upon you in your land? Or shall you flee for three months before your enemies while they pursue you? Or shall there be three days of plague in your land? Now consider and decide what answer I should take back to the one who sent me."
+
+**14** David said to Gad, "I am in great distress. Let us fall into the hand of Yahweh, for his mercy is great, but do not let me fall into human hands."
+
+**15** So Yahweh sent a plague on Israel from the morning until the appointed time,[^24-10] and seventy thousand of the people died, from Dan to Beersheba.
+
+**16** When the angel[^24-11] stretched out his hand toward Jerusalem to destroy it, Yahweh relented concerning the disaster[^24-12] and said to the angel who was destroying the people, "Enough! Now hold back your hand." The angel of Yahweh was then by the threshing floor of Araunah[^24-13] the Jebusite.
+
+**17** When David saw the angel who was striking down the people, he said to Yahweh, "I am the one who has sinned; I am the one who has done wrong.[^24-14] But these sheep, what have they done? Please let your hand be against me and against my father's house."
+
+**18** That day Gad came to David and said to him, "Go up and set up an altar to Yahweh on the threshing floor of Araunah[^24-15] the Jebusite."
+
+**19** So David went up at Gad's word, as Yahweh had commanded.
+
+**20** When Araunah looked down and saw the king and his servants coming over toward him, Araunah went out and bowed down to the king with his face to the ground.
+
+**21** Araunah said, "Why has my lord the king come to his servant?" David said, "To buy the threshing floor from you, to build an altar to Yahweh, so that the plague may be held back from the people."
+
+**22** Araunah said to David, "Let my lord the king take it and offer up whatever seems good to him. Look, here are the oxen for the burnt offering, and the threshing sledges and the oxen's yokes[^24-16] for the wood.
+
+**23** All this, O king, Araunah gives to the king."[^24-17] And Araunah said to the king, "May Yahweh your God accept you."
+
+**24** But the king said to Araunah, "No, I will buy it from you for a price. I will not offer burnt offerings to Yahweh my God that cost me nothing." So David bought the threshing floor and the oxen for fifty shekels[^24-18] of silver.
+
+**25** David built an altar to Yahweh there and offered burnt offerings and fellowship offerings.[^24-19] Then Yahweh answered prayers for the land, and the plague was held back from Israel.[^24-20]
+
+[^24-1]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^24-2]: 1 Chronicles 21:1 reads "Satan rose up against Israel and incited David to count Israel."
+[^24-3]: Probably the Arnon valley.
+[^24-4]: Hebrew *tachtim chodshi*, an unexplained name. Some manuscripts of the Septuagint read "the land of the Hittites, to Kadesh".
+[^24-5]: Hebrew *Danah ya'an*. The meaning is uncertain: perhaps "Dan and Ijon", or simply Dan.
+[^24-6]: 1 Chronicles 21:5 gives 1,100,000 for Israel and 470,000 for Judah.
+[^24-7]: Literally "David's heart struck him".
+[^24-8]: Hebrew *notel*, "lay upon", perhaps "impose". 1 Chronicles 21:10 has "offer".
+[^24-9]: 1 Chronicles 21:12 and the Septuagint read "three years".
+[^24-10]: The meaning of the Hebrew is uncertain: perhaps the end of the set time of three days, or the time of the evening sacrifice.
+[^24-11]: Or "the messenger". Hebrew *mal'akh* means both. Also in verse 17.
+[^24-12]: Or "changed his mind about the disaster".
+[^24-13]: The Hebrew text is written *ha-ornah* but read *ha-aravnah*, "Araunah". 1 Chronicles 21:15 calls him Ornan.
+[^24-14]: The Septuagint reads "and I, the shepherd, have done wrong".
+[^24-15]: The Hebrew text is written "Araniah" but read "Araunah".
+[^24-16]: Literally "the equipment of the oxen".
+[^24-17]: Literally "The whole, Araunah the king gave to the king." Some take it to mean that Araunah had been the Jebusite king of Jerusalem.
+[^24-18]: A shekel is about 2/5 ounce (11.5 grams), so fifty shekels is about 1¼ pounds (575 grams). In 1 Chronicles 21:25 David pays six hundred shekels of gold for the site.
+[^24-19]: Hebrew *shelamim*; see 6:17.
+[^24-20]: The Septuagint adds "And Solomon later added to the altar, for it was small at first."

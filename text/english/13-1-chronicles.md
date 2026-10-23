@@ -588,3 +588,678 @@
 [^5-17]: Literally "sons".
 [^5-18]: Literally "went".
 [^5-19]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+
+## Chapter 6
+
+*Status: draft*
+
+**1** The sons of Levi: Gershom,[^6-1] Kohath and Merari.
+
+**2** These are the names of the sons of Gershom: Libni and Shimei.
+
+**3** The sons of Kohath: Amram, Izhar, Hebron and Uzziel.
+
+**4** The sons of Merari: Mahli and Mushi. These are the clans of the Levites by their ancestral families.[^6-2]
+
+**5** Of Gershom: Libni his son, Jahath his son, Zimmah his son,
+
+**6** Joah his son, Iddo his son, Zerah his son, Jeatherai his son.
+
+**7** The descendants of Kohath: Amminadab his son,[^6-3] Korah his son, Assir his son,
+
+**8** Elkanah his son, Ebiasaph his son, Assir his son,
+
+**9** Tahath his son, Uriel his son, Uzziah his son, Shaul his son.
+
+**10** The sons of Elkanah: Amasai and Ahimoth.
+
+**11** As for Elkanah, the sons of Elkanah:[^6-4] Zophai his son, Nahath his son,
+
+**12** Eliab his son, Jeroham his son, Elkanah his son.
+
+**13** The sons of Samuel: the firstborn, and the second, Abijah.[^6-5]
+
+**14** The descendants of Merari: Mahli, Libni his son, Shimei his son, Uzzah his son,
+
+**15** Shimea his son, Haggiah his son, Asaiah his son.
+
+**16** These are the men whom David put in charge of the music in the house of Yahweh[^6-6] after the ark came to rest there.
+
+**17** They served with music before the tabernacle, the tent of meeting,[^6-7] until Solomon built the house of Yahweh in Jerusalem. They carried out their service according to the rule laid down for them.
+
+**18** These are the men who served, with their sons. From the Kohathites: Heman the singer, son of Joel, son of Samuel,
+
+**19** son of Elkanah, son of Jeroham, son of Eliel, son of Toah,
+
+**20** son of Zuph,[^6-8] son of Elkanah, son of Mahath, son of Amasai,
+
+**21** son of Elkanah, son of Joel, son of Azariah, son of Zephaniah,
+
+**22** son of Tahath, son of Assir, son of Ebiasaph, son of Korah,
+
+**23** son of Izhar, son of Kohath, son of Levi, son of Israel.
+
+**24** His kinsman[^6-9] Asaph stood at his right hand: Asaph son of Berechiah, son of Shimea,
+
+**25** son of Michael, son of Baaseiah, son of Malchijah,
+
+**26** son of Ethni, son of Zerah, son of Adaiah,
+
+**27** son of Ethan, son of Zimmah, son of Shimei,
+
+**28** son of Jahath, son of Gershom, son of Levi.
+
+**29** On the left were their kinsmen the sons of Merari: Ethan son of Kishi, son of Abdi, son of Malluch,
+
+**30** son of Hashabiah, son of Amaziah, son of Hilkiah,
+
+**31** son of Amzi, son of Bani, son of Shemer,
+
+**32** son of Mahli, son of Mushi, son of Merari, son of Levi.
+
+**33** Their kinsmen the Levites were appointed for all the service of the tabernacle, the house of God.
+
+**34** But Aaron and his sons made offerings[^6-10] on the altar of burnt offering and on the altar of incense. They did all the work of the most holy place[^6-11] and made atonement for Israel, in keeping with all that Moses the servant of God had commanded.
+
+**35** These are the descendants of Aaron: Eleazar his son, Phinehas his son, Abishua his son,
+
+**36** Bukki his son, Uzzi his son, Zerahiah his son,
+
+**37** Meraioth his son, Amariah his son, Ahitub his son,
+
+**38** Zadok his son, Ahimaaz his son.
+
+**39** These were their dwelling places,[^6-12] by their encampments within their territory. To the descendants of Aaron, of the clan of the Kohathites, because the lot fell to them,
+
+**40** they gave Hebron in the land of Judah, with the pasturelands[^6-13] around it.
+
+**41** But the fields of the town and its villages they had given to Caleb son of Jephunneh.
+
+**42** To the descendants of Aaron they gave the towns of refuge:[^6-14] Hebron, and Libnah with its pasturelands, Jattir, and Eshtemoa with its pasturelands,
+
+**43** Hilez[^6-15] with its pasturelands, Debir with its pasturelands,
+
+**44** Ashan with its pasturelands and Beth-shemesh with its pasturelands.[^6-16]
+
+**45** From the tribe of Benjamin they gave Geba with its pasturelands, Alemeth with its pasturelands and Anathoth with its pasturelands. All their towns, clan by clan, came to thirteen towns.[^6-17]
+
+**46** The rest of the Kohathites received by lot ten towns from the clan of the tribe, from the half-tribe, the half of Manasseh.[^6-18]
+
+**47** The Gershonites, clan by clan, received thirteen towns from the tribe of Issachar, the tribe of Asher, the tribe of Naphtali and the tribe of Manasseh in Bashan.
+
+**48** The Merarites, clan by clan, received by lot twelve towns from the tribe of Reuben, the tribe of Gad and the tribe of Zebulun.
+
+**49** So the Israelites gave the Levites the towns with their pasturelands.
+
+**50** By lot they gave these towns, which are mentioned by name, from the tribe of the people of Judah, the tribe of the people of Simeon and the tribe of the people of Benjamin.[^6-19]
+
+**51** Some of the clans of the Kohathites had towns as their territory from the tribe of Ephraim.
+
+**52** They gave them the towns of refuge:[^6-20] Shechem with its pasturelands in the hill country of Ephraim, Gezer with its pasturelands,
+
+**53** Jokmeam[^6-21] with its pasturelands, Beth-horon with its pasturelands,
+
+**54** Aijalon with its pasturelands and Gath-rimmon with its pasturelands.[^6-22]
+
+**55** From the half-tribe of Manasseh they gave Aner with its pasturelands and Bileam with its pasturelands[^6-23] to the rest of the clans of the Kohathites.
+
+**56** To the Gershonites they gave from the clan of the half-tribe of Manasseh Golan in Bashan with its pasturelands and Ashtaroth[^6-24] with its pasturelands;
+
+**57** from the tribe of Issachar, Kedesh[^6-25] with its pasturelands, Daberath with its pasturelands,
+
+**58** Ramoth with its pasturelands and Anem with its pasturelands;[^6-26]
+
+**59** from the tribe of Asher, Mashal[^6-27] with its pasturelands, Abdon with its pasturelands,
+
+**60** Hukok[^6-28] with its pasturelands and Rehob with its pasturelands;
+
+**61** and from the tribe of Naphtali, Kedesh in Galilee with its pasturelands, Hammon with its pasturelands and Kiriathaim with its pasturelands.[^6-29]
+
+**62** To the rest of the Merarites they gave from the tribe of Zebulun Rimmono with its pasturelands and Tabor with its pasturelands;[^6-30]
+
+**63** and beyond the Jordan at Jericho, on the east side of the Jordan, from the tribe of Reuben, Bezer in the wilderness with its pasturelands, Jahzah[^6-31] with its pasturelands,
+
+**64** Kedemoth with its pasturelands and Mephaath with its pasturelands;
+
+**65** and from the tribe of Gad, Ramoth in Gilead with its pasturelands, Mahanaim with its pasturelands,
+
+**66** Heshbon with its pasturelands and Jazer with its pasturelands.
+
+[^6-1]: Also spelled Gershon (5:27). Verses 1–66 are 6:16–81 in most English Bibles.
+[^6-2]: Literally "by their fathers".
+[^6-3]: In verse 23 and in Exodus 6:21 Korah is the son of Izhar.
+[^6-4]: The Hebrew text is written "Elkanah his son, Elkanah" but read "Elkanah, the sons of Elkanah".
+[^6-5]: The firstborn's name is missing in the Hebrew. Verse 18 and 1 Samuel 8:2 name him Joel. The Hebrew *va-shni*, "and the second", was once taken as a name, Vashni.
+[^6-6]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^6-7]: Literally "the tabernacle of the tent of meeting". Hebrew *mishkan*, "dwelling place", and *ohel mo'ed*, the tent where Yahweh met with his people (Exodus 27:21).
+[^6-8]: The Hebrew text is written "Ziph" but read "Zuph". Compare 1 Samuel 1:1, where the name is Zuph and Toah (verse 19) is Tohu.
+[^6-9]: Literally "brother", here a fellow Levite; also "kinsmen" in verses 29 and 33.
+[^6-10]: Hebrew *maqtirim*, "burning to smoke", used of both sacrifices and incense.
+[^6-11]: Literally "the holy of holies". Or "the most holy things".
+[^6-12]: Verses 39–66 parallel the list of the Levites' towns in Joshua 21:10–39, in a different order and with some differences in the names.
+[^6-13]: Hebrew *migrash*: the open land around a town, used for grazing. Also throughout the chapter.
+[^6-14]: Hebrew plural. Of the towns listed here, only Hebron was a town of refuge (Joshua 20:7; 21:13).
+[^6-15]: Most English Bibles have "Hilen". Joshua 21:15 has Holon.
+[^6-16]: Joshua 21:16 has Ain instead of Ashan, and also lists Juttah.
+[^6-17]: Only eleven towns are named in verses 42–45. Joshua 21:13–18 also lists Juttah and Gibeon, and has Almon for Alemeth.
+[^6-18]: The Hebrew seems to have lost some words. Joshua 21:5 reads "from the clans of the tribe of Ephraim, the tribe of Dan and the half-tribe of Manasseh".
+[^6-19]: Verses 49–50 correspond to Joshua 21:8–9, which introduce the list of towns given in verses 42–45.
+[^6-20]: Hebrew plural. Of the towns listed here, only Shechem was a town of refuge (Joshua 21:21).
+[^6-21]: Joshua 21:22 has Kibzaim.
+[^6-22]: In Joshua 21:23–24 Aijalon and Gath-rimmon are towns of Dan, listed with Elteke and Gibbethon, which are not named here.
+[^6-23]: Joshua 21:25 has Taanach and Gath-rimmon.
+[^6-24]: Joshua 21:27 has Beeshterah.
+[^6-25]: Joshua 21:28 has Kishion.
+[^6-26]: Joshua 21:29 has Jarmuth and En-gannim.
+[^6-27]: Joshua 21:30 has Mishal.
+[^6-28]: Joshua 21:31 has Helkath.
+[^6-29]: Joshua 21:32 has Hammoth-dor and Kartan.
+[^6-30]: Joshua 21:34–35 has four towns: Jokneam, Kartah, Dimnah and Nahalal.
+[^6-31]: Joshua 21:36 has Jahaz.
+
+## Chapter 7
+
+*Status: draft*
+
+**1** The sons of Issachar: Tola, Puah,[^7-1] Jashub[^7-2] and Shimron, four.
+
+**2** The sons of Tola: Uzzi, Rephaiah, Jeriel, Jahmai, Ibsam and Shemuel, heads of their ancestral families,[^7-3] the descendants of Tola. They were mighty warriors in their generations, and in the days of David their number was 22,600.
+
+**3** The son[^7-4] of Uzzi: Izrahiah. The sons of Izrahiah: Michael, Obadiah, Joel and Isshiah, five,[^7-5] all of them chiefs.
+
+**4** Along with them, by their generations and their ancestral families, were 36,000 troops of the army ready for war, for they had many wives and sons.
+
+**5** Their kinsmen[^7-6] of all the clans of Issachar were mighty warriors: 87,000 were listed in the genealogy, all together.
+
+**6** Benjamin:[^7-7] Bela, Becher and Jediael, three.
+
+**7** The sons of Bela: Ezbon, Uzzi, Uzziel, Jerimoth and Iri, five, heads of ancestral families, mighty warriors. Listed in the genealogy were 22,034.
+
+**8** The sons of Becher: Zemirah, Joash, Eliezer, Elioenai, Omri, Jeremoth, Abijah, Anathoth and Alemeth. All these were the sons of Becher.
+
+**9** Listed in the genealogy by their generations, as heads of their ancestral families, were 20,200 mighty warriors.
+
+**10** The son of Jediael: Bilhan. The sons of Bilhan: Jeush,[^7-8] Benjamin, Ehud, Chenaanah, Zethan, Tarshish and Ahishahar.
+
+**11** All these were the sons of Jediael, by the heads of their ancestral families, mighty warriors, 17,200 ready to go out to war in the army.
+
+**12** Shuppim and Huppim were the sons of Ir, and Hushim the sons of Aher.[^7-9]
+
+**13** The sons of Naphtali: Jahziel, Guni, Jezer and Shallum,[^7-10] the descendants of Bilhah.
+
+**14** The sons of Manasseh: Asriel, whom his Aramean concubine bore. She bore Machir the father of Gilead.[^7-11]
+
+**15** Machir took a wife for Huppim and for Shuppim. The name of his sister was Maacah. The name of the second was Zelophehad, and Zelophehad had only daughters.[^7-12]
+
+**16** Maacah, Machir's wife, bore a son and named him Peresh. His brother's name was Sheresh, and his sons were Ulam and Rakem.
+
+**17** The son of Ulam: Bedan. These were the sons of Gilead son of Machir, son of Manasseh.
+
+**18** His sister Hammolecheth[^7-13] bore Ishhod, Abiezer and Mahlah.
+
+**19** The sons of Shemida were Ahian, Shechem, Likhi and Aniam.
+
+**20** The descendants of Ephraim: Shuthelah, Bered his son, Tahath his son, Eleadah his son, Tahath his son,
+
+**21** Zabad his son, Shuthelah his son, and Ezer and Elead. The men of Gath, who were born in the land, killed them, because they had gone down to take their livestock.[^7-14]
+
+**22** Their father Ephraim mourned for many days, and his brothers came to comfort him.
+
+**23** Then he slept with[^7-15] his wife, and she conceived and bore a son. He named him Beriah,[^7-16] because disaster had come on his house.
+
+**24** His daughter was Sheerah, who built Lower and Upper Beth-horon, and Uzzen-sheerah.
+
+**25** Rephah was his son, and Resheph, Telah his son, Tahan his son,
+
+**26** Ladan his son, Ammihud his son, Elishama his son,
+
+**27** Nun[^7-17] his son, Joshua his son.
+
+**28** Their possessions and settlements were Bethel and its towns,[^7-18] Naaran to the east, Gezer and its towns to the west, and Shechem and its towns, as far as Ayyah and its towns.
+
+**29** Along the borders of the Manassites were Beth-shean and its towns, Taanach and its towns, Megiddo and its towns, and Dor and its towns. In these lived the descendants of Joseph son of Israel.
+
+**30** The sons of Asher:[^7-19] Imnah, Ishvah, Ishvi and Beriah, and their sister Serah.
+
+**31** The sons of Beriah: Heber and Malchiel, who was the father of Birzaith.[^7-20]
+
+**32** Heber fathered Japhlet, Shomer and Hotham, and their sister Shua.
+
+**33** The sons of Japhlet: Pasach, Bimhal and Ashvath. These were the sons of Japhlet.
+
+**34** The sons of Shemer:[^7-21] Ahi,[^7-22] Rohgah, Hubbah[^7-23] and Aram.
+
+**35** The sons[^7-24] of his brother Helem: Zophah, Imna, Shelesh and Amal.
+
+**36** The sons of Zophah: Suah, Harnepher, Shual, Beri, Imrah,
+
+**37** Bezer, Hod, Shamma, Shilshah, Ithran and Beera.
+
+**38** The sons of Jether: Jephunneh, Pispa and Ara.
+
+**39** The sons of Ulla: Arah, Hanniel and Rizia.
+
+**40** All these were descendants of Asher, heads of ancestral families, choice men, mighty warriors, chiefs among the leaders. The number listed in the genealogy for service in war was 26,000 men.
+
+[^7-1]: Genesis 46:13 and Numbers 26:23 have Puvah.
+[^7-2]: The Hebrew text is written "Jashib" but read "Jashub", as in Numbers 26:24. Genesis 46:13 has Iob.
+[^7-3]: Literally "the house of their fathers": an extended family descended from a common ancestor. Also in verses 4, 7, 9, 11 and 40.
+[^7-4]: Literally "sons".
+[^7-5]: Only four sons are named.
+[^7-6]: Literally "brothers".
+[^7-7]: The sons of Benjamin are listed differently in 8:1–2, Genesis 46:21 and Numbers 26:38–40.
+[^7-8]: The Hebrew text is written "Jeish" but read "Jeush".
+[^7-9]: *Aher* means "another". Genesis 46:23 names Hushim as the son of Dan, a tribe that is otherwise missing from these lists.
+[^7-10]: Genesis 46:24 has Jahzeel and Shillem.
+[^7-11]: The Hebrew is difficult. Literally "Asriel, whom she bore. His Aramean concubine bore Machir". Numbers 26:29–31 lists Asriel as a descendant of Gilead.
+[^7-12]: The Hebrew is difficult and may have lost some words. In verse 16 Maacah is Machir's wife. On Zelophehad's daughters, see Numbers 26:33; 27:1–11.
+[^7-13]: Or "the queen". *Hammolecheth* means "she who reigns".
+[^7-14]: Or "when they came down to take their livestock", that is, the men of Gath.
+[^7-15]: Literally "went in to".
+[^7-16]: *Beriah* sounds like *be-ra'ah*, "in disaster".
+[^7-17]: Hebrew *Non*, another form of Nun (Joshua 1:1).
+[^7-18]: Literally "daughters", the smaller settlements around a town. Also in verse 29.
+[^7-19]: Verses 30–31 match Genesis 46:17, with the addition of Birzaith.
+[^7-20]: The Hebrew text is written "Birzoth" but read "Birzaith".
+[^7-21]: Called Shomer in verse 32.
+[^7-22]: Or "his brother".
+[^7-23]: The Hebrew text is written "Jehubbah" but read "and Hubbah".
+[^7-24]: Literally "son".
+
+## Chapter 8
+
+*Status: draft*
+
+**1** Benjamin fathered Bela his firstborn,[^8-1] Ashbel the second, Aharah the third,
+
+**2** Nohah the fourth and Rapha the fifth.
+
+**3** Bela had sons: Addar, Gera, Abihud,
+
+**4** Abishua, Naaman, Ahoah,
+
+**5** Gera, Shephuphan and Huram.
+
+**6** These are the sons of Ehud.[^8-2] They were heads of ancestral families[^8-3] of those who lived in Geba, and they were taken into exile to Manahath:
+
+**7** Naaman, Ahijah and Gera. It was Gera who took them into exile,[^8-4] and he fathered Uzza and Ahihud.
+
+**8** Shaharaim fathered children in the country of Moab after he had sent away his wives Hushim and Baara.[^8-5]
+
+**9** By his wife Hodesh he fathered Jobab, Zibia, Mesha, Malcam,
+
+**10** Jeuz, Sachia and Mirmah. These were his sons, heads of ancestral families.
+
+**11** By Hushim he had fathered Abitub and Elpaal.
+
+**12** The sons of Elpaal: Eber, Misham and Shemed, who built Ono and Lod with its towns,[^8-6]
+
+**13** and Beriah and Shema. They were heads of ancestral families of those who lived in Aijalon, and they put the inhabitants of Gath to flight.
+
+**14** Ahio,[^8-7] Shashak and Jeremoth,
+
+**15** Zebadiah, Arad, Eder,
+
+**16** Michael, Ishpah and Joha were the sons of Beriah.
+
+**17** Zebadiah, Meshullam, Hizki, Heber,
+
+**18** Ishmerai, Izliah and Jobab were the sons of Elpaal.
+
+**19** Jakim, Zichri, Zabdi,
+
+**20** Elienai, Zillethai, Eliel,
+
+**21** Adaiah, Beraiah and Shimrath were the sons of Shimei.[^8-8]
+
+**22** Ishpan, Eber, Eliel,
+
+**23** Abdon, Zichri, Hanan,
+
+**24** Hananiah, Elam, Anthothijah,
+
+**25** Iphdeiah and Penuel[^8-9] were the sons of Shashak.
+
+**26** Shamsherai, Shehariah, Athaliah,
+
+**27** Jaareshiah, Elijah and Zichri were the sons of Jeroham.
+
+**28** These were heads of ancestral families, chiefs according to their generations. These lived in Jerusalem.
+
+**29** In Gibeon lived the father of Gibeon,[^8-10] and his wife's name was Maacah.
+
+**30** His firstborn son was Abdon, then Zur, Kish, Baal, Nadab,[^8-11]
+
+**31** Gedor, Ahio and Zecher.[^8-12]
+
+**32** Mikloth fathered Shimeah.[^8-13] They too lived in Jerusalem near their kinsmen, with their kinsmen.
+
+**33** Ner fathered Kish,[^8-14] Kish fathered Saul, and Saul fathered Jonathan, Malchi-shua, Abinadab and Eshbaal.[^8-15]
+
+**34** The son of Jonathan was Merib-baal,[^8-16] and Merib-baal fathered Micah.
+
+**35** The sons of Micah: Pithon, Melech, Tarea and Ahaz.
+
+**36** Ahaz fathered Jehoaddah,[^8-17] and Jehoaddah fathered Alemeth, Azmaveth and Zimri. Zimri fathered Moza.
+
+**37** Moza fathered Binea. Raphah[^8-18] was his son, Eleasah his son, Azel his son.
+
+**38** Azel had six sons, and these were their names: Azrikam, Bocheru,[^8-19] Ishmael, Sheariah, Obadiah and Hanan. All these were the sons of Azel.
+
+**39** The sons of his brother Eshek: Ulam his firstborn, Jeush the second and Eliphelet the third.
+
+**40** The sons of Ulam were mighty warriors who drew the bow. They had many sons and grandsons, 150 in all. All these were Benjaminites.
+
+[^8-1]: The sons of Benjamin are listed differently in 7:6, Genesis 46:21 and Numbers 26:38–40.
+[^8-2]: The Hebrew does not say how Ehud was related to the names before. Compare Ehud son of Gera, a Benjaminite (Judges 3:15).
+[^8-3]: Literally "heads of fathers", the leaders of extended families. Also in verses 10, 13 and 28.
+[^8-4]: Or "Gera, that is, Heglam". The Hebrew *hu heglam*, "he took them into exile", can also be read as a name.
+[^8-5]: The Hebrew is difficult. Literally "after his sending them away; Hushim and Baara his wives". The Hebrew does not say how Shaharaim was related to the names before.
+[^8-6]: Literally "daughters", the smaller settlements around a town.
+[^8-7]: Or "his brother".
+[^8-8]: Perhaps Shema (verse 13).
+[^8-9]: The Hebrew text is written "Peniel" but read "Penuel".
+[^8-10]: Verses 29–38 are repeated, with small differences, in 9:35–44. There the father of Gibeon is named Jeiel.
+[^8-11]: 9:36 has Ner between Baal and Nadab.
+[^8-12]: 9:37 has Zechariah for Zecher, and adds Mikloth.
+[^8-13]: 9:38 has Shimeam.
+[^8-14]: In 1 Samuel 9:1 and 14:51 Kish is the son of Abiel, and Ner is the father of Abner.
+[^8-15]: Called Ish-bosheth in 2 Samuel 2:8–4:12. *Eshbaal* means "man of Baal" or "Baal exists"; on the change of *baal* to *boshet*, "shame", see the note at 2 Samuel 2:8. 1 Samuel 14:49 lists Saul's sons as Jonathan, Ishvi and Malchi-shua.
+[^8-16]: Called Mephibosheth in 2 Samuel 4:4 and 9:6.
+[^8-17]: 9:42 has Jarah.
+[^8-18]: 9:43 has Rephaiah.
+[^8-19]: The Hebrew consonants can also be read "his firstborn", which would leave five names.
+
+## Chapter 9
+
+*Status: draft*
+
+**1** So all Israel was listed in the genealogies, and they are written in the Book of the Kings of Israel. Judah was taken into exile to Babylon because of their unfaithfulness.[^9-1]
+
+**2** The first inhabitants who lived in their possessions in their towns[^9-2] were Israelites, priests, Levites and temple servants.[^9-3]
+
+**3** Some of the people of Judah, of Benjamin, and of Ephraim and Manasseh lived in Jerusalem:
+
+**4** Uthai son of Ammihud, son of Omri, son of Imri, son of Bani,[^9-4] from the descendants of Perez son of Judah.
+
+**5** From the Shilonites:[^9-5] Asaiah the firstborn and his sons.
+
+**6** From the descendants of Zerah: Jeuel and their kinsmen,[^9-6] 690.
+
+**7** From the Benjaminites: Sallu son of Meshullam, son of Hodaviah, son of Hassenuah,
+
+**8** Ibneiah son of Jeroham, Elah son of Uzzi, son of Michri, and Meshullam son of Shephatiah, son of Reuel, son of Ibnijah,
+
+**9** and their kinsmen according to their generations, 956. All these men were heads of ancestral families[^9-7] by their families.
+
+**10** From the priests: Jedaiah, Jehoiarib, Jachin,
+
+**11** Azariah son of Hilkiah, son of Meshullam, son of Zadok, son of Meraioth, son of Ahitub, the chief officer[^9-8] of the house of God,
+
+**12** Adaiah son of Jeroham, son of Pashhur, son of Malchijah, and Maasai son of Adiel, son of Jahzerah, son of Meshullam, son of Meshillemith, son of Immer,
+
+**13** and their kinsmen, heads of their ancestral families, 1,760, capable men for the work of the service of the house of God.
+
+**14** From the Levites: Shemaiah son of Hasshub, son of Azrikam, son of Hashabiah, from the descendants of Merari;
+
+**15** Bakbakkar, Heresh, Galal, and Mattaniah son of Mica, son of Zichri, son of Asaph;
+
+**16** Obadiah son of Shemaiah, son of Galal, son of Jeduthun; and Berechiah son of Asa, son of Elkanah, who lived in the villages of the Netophathites.
+
+**17** The gatekeepers: Shallum, Akkub, Talmon, Ahiman and their kinsmen. Shallum was the chief,
+
+**18** and until now they have been stationed at the King's Gate on the east. These were the gatekeepers of the camps of the Levites.
+
+**19** Shallum son of Kore, son of Ebiasaph, son of Korah, and his kinsmen of his ancestral family, the Korahites, were in charge of the work of the service, guarding the thresholds of the tent,[^9-9] as their ancestors had been in charge of the camp of Yahweh,[^9-10] guarding the entrance.
+
+**20** Phinehas son of Eleazar was the officer over them in earlier times. Yahweh was with him.[^9-11]
+
+**21** Zechariah son of Meshelemiah was the gatekeeper at the entrance of the tent of meeting.
+
+**22** All those chosen as gatekeepers at the thresholds numbered 212. They were listed in the genealogies in their villages. David and Samuel the seer had appointed them to their position of trust.
+
+**23** They and their sons were in charge of the gates of the house of Yahweh, the house of the tent, by watches.
+
+**24** The gatekeepers were on the four sides: east, west, north and south.
+
+**25** Their kinsmen in their villages had to come from time to time to be with them for seven days at a time.
+
+**26** For the four chief gatekeepers, who were Levites, were in a position of trust, and they were in charge of the chambers and the treasuries of the house of God.
+
+**27** They spent the night around the house of God, because they had the duty of guarding it, and they were in charge of the key for opening it every morning.
+
+**28** Some of them were in charge of the utensils used in the service. They counted them when they brought them in and counted them when they took them out.
+
+**29** Others were appointed over the furnishings and all the holy utensils, and over the fine flour, the wine, the oil, the frankincense and the spices.
+
+**30** Some of the priests prepared the mixture of spices.
+
+**31** Mattithiah, one of the Levites, the firstborn of Shallum the Korahite, was entrusted with making the griddle cakes.[^9-12]
+
+**32** Some of their kinsmen from the Kohathites were in charge of the bread set out in rows,[^9-13] to prepare it every Sabbath.
+
+**33** These are the singers, heads of Levite families, who stayed in the chambers and were free from other duties, because they were on duty day and night.
+
+**34** These were heads of Levite families, chiefs according to their generations. These lived in Jerusalem.
+
+**35** In Gibeon lived the father of Gibeon, Jeiel,[^9-14] and his wife's name was Maacah.
+
+**36** His firstborn son was Abdon, then Zur, Kish, Baal, Ner, Nadab,
+
+**37** Gedor, Ahio, Zechariah and Mikloth.
+
+**38** Mikloth fathered Shimeam. They too lived in Jerusalem near their kinsmen, with their kinsmen.
+
+**39** Ner fathered Kish, Kish fathered Saul, and Saul fathered Jonathan, Malchi-shua, Abinadab and Eshbaal.
+
+**40** The son of Jonathan was Merib-baal, and Merib-baal[^9-15] fathered Micah.
+
+**41** The sons of Micah: Pithon, Melech and Tahrea.[^9-16]
+
+**42** Ahaz fathered Jarah, and Jarah fathered Alemeth, Azmaveth and Zimri. Zimri fathered Moza.
+
+**43** Moza fathered Binea. Rephaiah was his son, Eleasah his son, Azel his son.
+
+**44** Azel had six sons, and these were their names: Azrikam, Bocheru, Ishmael, Sheariah, Obadiah and Hanan. These were the sons of Azel.
+
+[^9-1]: Or "in the Book of the Kings of Israel and Judah. They were taken into exile to Babylon because of their unfaithfulness."
+[^9-2]: Verses 2–17 have a parallel, with many differences, in Nehemiah 11:3–19, the list of those who lived in Jerusalem after the return from exile.
+[^9-3]: Hebrew *netinim*, "those given", that is, given to the service of the temple. They were temple workers of lower rank than the Levites (Ezra 8:20).
+[^9-4]: The Hebrew text is written as one word, which looks like "Benjamin", but read "Bani, from".
+[^9-5]: Or "the Shelanites", the descendants of Judah's son Shelah (Numbers 26:20).
+[^9-6]: Literally "brothers"; also in verses 9, 13, 17, 19, 25 and 32, and "kinsmen" in verse 38.
+[^9-7]: Literally "heads of fathers by the house of their fathers": leaders of extended families. Also in verses 13 and 33–34.
+[^9-8]: Hebrew *nagid*, "leader, ruler".
+[^9-9]: That is, the sanctuary. The temple is called "the tent" by the name of the tabernacle that came before it; also in verse 23.
+[^9-10]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^9-11]: Or "May Yahweh be with him."
+[^9-12]: Hebrew *chavittim*, cakes made on a griddle (Leviticus 6:14; 6:21 in most English Bibles).
+[^9-13]: Hebrew *lechem ha-ma'arekhet*, "the bread of the arrangement": the bread of the Presence, set out in rows on the table before Yahweh (Exodus 25:30; Leviticus 24:5–9).
+[^9-14]: The Hebrew text is written "Jeuel" but read "Jeiel". Verses 35–44 repeat, with small differences, 8:29–38.
+[^9-15]: Hebrew *Meri-baal*, another spelling of Merib-baal. Called Mephibosheth in 2 Samuel 4:4 and 9:6.
+[^9-16]: 8:35 adds "and Ahaz".
+
+## Chapter 10
+
+*Status: draft*
+
+**1** The Philistines fought against Israel.[^10-1] The men of Israel fled before the Philistines, and many fell slain on Mount Gilboa.
+
+**2** The Philistines pursued Saul and his sons closely, and the Philistines struck down Jonathan, Abinadab and Malchi-shua, the sons of Saul.
+
+**3** The battle pressed hard against Saul. The archers found him, and he was wounded by the archers.[^10-2]
+
+**4** Saul said to his armor-bearer, "Draw your sword and run me through with it, or these uncircumcised men will come and abuse me." But his armor-bearer was unwilling, because he was terrified. So Saul took the sword and fell on it.
+
+**5** When his armor-bearer saw that Saul was dead, he too fell on the sword and died.
+
+**6** So Saul died, and his three sons, and all his house died together.[^10-3]
+
+**7** When all the men of Israel who were in the valley saw that the army had fled and that Saul and his sons were dead, they abandoned their towns and fled. Then the Philistines came and lived in them.
+
+**8** The next day, when the Philistines came to strip the slain, they found Saul and his sons fallen on Mount Gilboa.
+
+**9** They stripped him and took his head and his armor, and they sent messengers throughout the land of the Philistines to carry the good news to their idols and to the people.
+
+**10** They put his armor in the house of their gods, and they fastened his skull in the house of Dagon.[^10-4]
+
+**11** When all Jabesh-gilead heard everything that the Philistines had done to Saul,
+
+**12** all the valiant men set out. They took the body of Saul and the bodies of his sons and brought them to Jabesh. They buried their bones under the oak[^10-5] in Jabesh, and they fasted for seven days.[^10-6]
+
+**13** So Saul died because of his unfaithfulness to Yahweh.[^10-7] He did not keep the word of Yahweh, and he even consulted a medium[^10-8] for guidance
+
+**14** instead of seeking guidance from Yahweh. So he put him to death and turned the kingdom over to David son of Jesse.
+
+[^10-1]: Verses 1–12 parallel 1 Samuel 31:1–13.
+[^10-2]: Or "and he was in anguish because of the archers".
+[^10-3]: 1 Samuel 31:6 reads "So Saul died, and his three sons, and his armor-bearer, and all his men, on that day together."
+[^10-4]: 1 Samuel 31:10 reads "They put his armor in the house of the Ashtaroth, and they fastened his body to the wall of Beth-shan." Dagon was a god of the Philistines (1 Samuel 5:2).
+[^10-5]: Hebrew *elah*, a large tree, perhaps a terebinth. 1 Samuel 31:13 has "the tamarisk".
+[^10-6]: 1 Samuel 31:12 adds that they walked all night to take the bodies from the wall of Beth-shan, and that they burned them at Jabesh.
+[^10-7]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles. Compare 1 Samuel 13:13–14; 15:22–23; 28:6–19.
+[^10-8]: Hebrew *ov*: a spirit of the dead, or a person who claimed to call one up and consult it (1 Samuel 28:7).
+
+## Chapter 11
+
+*Status: draft*
+
+**1** All Israel gathered to David at Hebron[^11-1] and said, "Look, we are your own flesh and blood.[^11-2]
+
+**2** For some time now,[^11-3] even while Saul was king, it was you who led Israel out to battle and brought it back.[^11-4] And Yahweh[^11-5] your God said to you, 'You will shepherd my people Israel, and you will be leader[^11-6] over my people Israel.'"
+
+**3** All the elders of Israel came to the king at Hebron, and David made a covenant with them at Hebron before Yahweh, and they anointed David king over Israel, according to the word of Yahweh through Samuel.[^11-7]
+
+**4** David and all Israel went to Jerusalem, that is, Jebus. The Jebusites, the inhabitants of the land, were there.
+
+**5** The inhabitants of Jebus said to David, "You will not get in here."[^11-8] But David captured the stronghold of Zion, that is, the City of David.
+
+**6** David said, "Whoever is first to strike down the Jebusites will become chief and commander." Joab son of Zeruiah went up first, and he became chief.[^11-9]
+
+**7** David lived in the stronghold. That is why it was called the City of David.
+
+**8** He built the city all around, from the Millo[^11-10] to the surrounding wall,[^11-11] and Joab restored[^11-12] the rest of the city.
+
+**9** David became greater and greater, for Yahweh of Armies[^11-13] was with him.
+
+**10** These are the chiefs of David's mighty warriors,[^11-14] who, together with all Israel, gave him strong support in his kingdom, to make him king according to the word of Yahweh concerning Israel.
+
+**11** This is the list of David's mighty warriors: Jashobeam son of Hachmoni,[^11-15] the chief of the officers.[^11-16] He wielded his spear against three hundred,[^11-17] whom he killed at one time.
+
+**12** Next to him was Eleazar son of Dodo, the Ahohite. He was one of the three mighty warriors.
+
+**13** He was with David at Pas-dammim when the Philistines gathered there for battle.[^11-18] There was a plot of ground full of barley,[^11-19] and the troops fled from the Philistines.
+
+**14** But they took their stand in the middle of the plot, defended it and struck down the Philistines. And Yahweh saved them with a great victory.
+
+**15** Three of the Thirty,[^11-20] the chiefs, went down to the rock,[^11-21] to David at the cave of Adullam, while an army of Philistines was camped in the Valley of Rephaim.
+
+**16** At that time David was in the stronghold, and a Philistine garrison was then at Bethlehem.
+
+**17** David felt a craving and said, "If only someone would give me water to drink from the well of Bethlehem that is by the gate!"
+
+**18** So the Three broke through the Philistine camp, drew water from the well of Bethlehem that was by the gate, and carried it back to David. But David would not drink it. He poured it out to Yahweh
+
+**19** and said, "Far be it from me before my God that I should do this! Shall I drink the blood of these men at the risk of their lives? For at the risk of their lives they brought it."[^11-22] So he would not drink it. These were the deeds of the three mighty warriors.
+
+**20** Abishai, the brother of Joab, was chief of the Three. He wielded his spear against three hundred men and killed them, and he won a name[^11-23] among the Three.
+
+**21** Of the Three he was doubly honored,[^11-24] and he became their commander, but he did not attain to the Three.
+
+**22** Benaiah son of Jehoiada was the son of a valiant man from Kabzeel, a man of great deeds. He struck down the two champions[^11-25] of Moab. He also went down and killed a lion inside a pit on a snowy day.
+
+**23** He also struck down an Egyptian, a man of great height, five cubits tall.[^11-26] The Egyptian had a spear in his hand like a weaver's beam,[^11-27] but Benaiah went down to him with a club, snatched the spear out of the Egyptian's hand and killed him with his own spear.
+
+**24** These were the deeds of Benaiah son of Jehoiada, and he won a name among the three mighty warriors.
+
+**25** He was more honored than the Thirty, but he did not attain to the Three. And David put him in charge of his bodyguard.[^11-28]
+
+**26** The mighty warriors of the army were Asahel the brother of Joab; Elhanan son of Dodo, of Bethlehem;
+
+**27** Shammoth the Harorite;[^11-29] Helez the Pelonite;[^11-30]
+
+**28** Ira son of Ikkesh, the Tekoite; Abiezer the Anathothite;
+
+**29** Sibbecai the Hushathite; Ilai the Ahohite;[^11-31]
+
+**30** Maharai the Netophathite; Heled[^11-32] son of Baanah, the Netophathite;
+
+**31** Ithai[^11-33] son of Ribai, from Gibeah of the Benjaminites; Benaiah the Pirathonite;
+
+**32** Hurai of the ravines of Gaash; Abiel the Arbathite;[^11-34]
+
+**33** Azmaveth the Baharumite;[^11-35] Eliahba the Shaalbonite;
+
+**34** the sons of Hashem the Gizonite; Jonathan son of Shagee the Hararite;[^11-36]
+
+**35** Ahiam son of Sachar the Hararite; Eliphal son of Ur;[^11-37]
+
+**36** Hepher the Mecherathite; Ahijah the Pelonite;[^11-38]
+
+**37** Hezro the Carmelite; Naarai son of Ezbai;[^11-39]
+
+**38** Joel the brother of Nathan; Mibhar son of Hagri;[^11-40]
+
+**39** Zelek the Ammonite; Naharai the Berothite,[^11-41] the armor-bearer of Joab son of Zeruiah;
+
+**40** Ira the Ithrite; Gareb the Ithrite;
+
+**41** Uriah the Hittite; Zabad son of Ahlai;[^11-42]
+
+**42** Adina son of Shiza the Reubenite, a chief of the Reubenites, and thirty with him;[^11-43]
+
+**43** Hanan son of Maacah; Joshaphat the Mithnite;
+
+**44** Uzzia the Ashterathite; Shama and Jeiel,[^11-44] the sons of Hotham the Aroerite;
+
+**45** Jediael son of Shimri, and Joha his brother, the Tizite;
+
+**46** Eliel the Mahavite;[^11-45] Jeribai and Joshaviah, the sons of Elnaam; Ithmah the Moabite;
+
+**47** Eliel, Obed, and Jaasiel the Mezobaite.
+
+[^11-1]: Verses 1–9 parallel 2 Samuel 5:1–3 and 5:6–10.
+[^11-2]: Literally "your bone and your flesh".
+[^11-3]: Literally "both yesterday and the day before".
+[^11-4]: Literally "you were the one who led out and brought in Israel".
+[^11-5]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^11-6]: Hebrew *nagid*, a leader or ruler designated by God.
+[^11-7]: Literally "by the hand of Samuel". See 1 Samuel 16:1–13. Here 2 Samuel 5:4–5 adds David's age and the length of his reign; compare 3:4 and 29:27 in this book.
+[^11-8]: 2 Samuel 5:6 adds "Even the blind and the lame will turn you away."
+[^11-9]: 2 Samuel 5:8 has a different saying about the water shaft, and does not mention Joab.
+[^11-10]: Hebrew *ha-millo*, "the filling": probably a terraced structure of stone and earth on the slope of the city.
+[^11-11]: Literally "to the surrounding". 2 Samuel 5:9 has "inward".
+[^11-12]: Literally "revived".
+[^11-13]: Hebrew *YHWH tseva'ot*, traditionally "the LORD of hosts" or "the LORD Almighty". *Tseva'ot* means armies: the heavenly hosts and the armies of Israel. 2 Samuel 5:10 has "Yahweh, the God of Armies".
+[^11-14]: Verses 10–41 parallel the list in 2 Samuel 23:8–39. Verses 41–47 continue the list beyond it.
+[^11-15]: 2 Samuel 23:8 has "Josheb-basshebeth the Tahchemonite".
+[^11-16]: The Hebrew text is written "the Thirty" but read *ha-shalishim*, perhaps "the officers" (literally "third men"). See 2 Samuel 23:8.
+[^11-17]: 2 Samuel 23:8 has "eight hundred".
+[^11-18]: *Pas-dammim* is probably Ephes-dammim (1 Samuel 17:1). At this point 2 Samuel 23:9–11 has a longer text, which ends the story of Eleazar and tells of Shammah son of Agee. Verses 13b–14 here match what 2 Samuel tells of Shammah.
+[^11-19]: 2 Samuel 23:11 has "lentils".
+[^11-20]: David's elite company of warriors, whose names are listed in verses 26–47.
+[^11-21]: 2 Samuel 23:13 has "at harvest time".
+[^11-22]: Literally "with their *nephesh* … with their *nephesh*". 2 Samuel 23:17 reads "Is it not the blood of the men who went at the risk of their lives?"
+[^11-23]: The Hebrew text is written "and he had no name" but read "and he had a name".
+[^11-24]: Literally "Of the Three, among the two he was honored". 2 Samuel 23:19 reads "Was he not the most honored of the Three?" Since he did not attain to the Three, many think "the Thirty" is meant, as in verse 25.
+[^11-25]: Hebrew *ari'el*, a word of uncertain meaning, perhaps "champion".
+[^11-26]: A cubit is about 18 inches (45 cm), so five cubits is about 7 feet 6 inches (2.3 m). 2 Samuel 23:21 has "a man of impressive appearance", and does not mention the weaver's beam.
+[^11-27]: A heavy wooden bar on a loom; compare Goliath's spear (1 Samuel 17:7).
+[^11-28]: Hebrew *mishma'ato*, literally "those who obey him", perhaps his personal guard or council.
+[^11-29]: 2 Samuel 23:25 has "Shammah the Harodite", followed by "Elika the Harodite", who is not in this list.
+[^11-30]: 2 Samuel 23:26 has "the Paltite".
+[^11-31]: 2 Samuel 23:27–28 has Mebunnai for Sibbecai and Zalmon for Ilai.
+[^11-32]: 2 Samuel 23:29 has "Heleb".
+[^11-33]: 2 Samuel 23:29 has "Ittai".
+[^11-34]: 2 Samuel 23:30–31 has "Hiddai" for Hurai and "Abi-albon" for Abiel.
+[^11-35]: 2 Samuel 23:31 has "the Barhumite".
+[^11-36]: 2 Samuel 23:32–33 has "the sons of Jashen; Jonathan; Shammah the Hararite".
+[^11-37]: 2 Samuel 23:33–34 has "Ahiam son of Sharar the Hararite; Eliphelet son of Ahasbai".
+[^11-38]: 2 Samuel 23:34 has "the son of the Maacathite; Eliam son of Ahithophel, the Gilonite".
+[^11-39]: 2 Samuel 23:35 has "Hezrai the Carmelite; Paarai the Arbite".
+[^11-40]: Or "son of the Hagrite". 2 Samuel 23:36 has "Igal son of Nathan, from Zobah; Bani the Gadite".
+[^11-41]: 2 Samuel 23:37 has "the Beerothite".
+[^11-42]: The list in 2 Samuel 23 ends with Uriah the Hittite.
+[^11-43]: Literally "and over him thirty".
+[^11-44]: The Hebrew text is written "Jeuel" but read "Jeiel".
+[^11-45]: Hebrew plural, "the Mahavites".

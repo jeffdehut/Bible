@@ -125,3 +125,439 @@
 [^2-19]: Hebrew *buts*, a fine linen. Exodus uses *shesh* (Exodus 25:4).
 [^2-20]: Hebrew *gerim*: foreigners living among the Israelites.
 [^2-21]: See 1 Chronicles 22:2.
+
+## Chapter 3
+
+*Status: draft*
+
+**1** Solomon began to build the house of Yahweh[^3-1] in Jerusalem on Mount Moriah,[^3-2] where Yahweh had appeared to his father David,[^3-3] at the place that David had prepared,[^3-4] on the threshing floor of Ornan[^3-5] the Jebusite.
+
+**2** He began to build on the second day of the second month,[^3-6] in the fourth year of his reign.
+
+**3** These are the foundations Solomon laid for building the house of God:[^3-7] the length, in cubits of the old standard,[^3-8] was sixty cubits, and the width twenty cubits.
+
+**4** The porch[^3-9] in front of the house was twenty cubits long, across the width of the house, and 120 high.[^3-10] He overlaid it on the inside with pure gold.
+
+**5** He paneled the great house[^3-11] with cypress wood[^3-12] and overlaid it with fine gold, and he decorated it with palm trees and chains.
+
+**6** He adorned the house with precious stones for beauty, and the gold was gold from Parvaim.[^3-13]
+
+**7** He overlaid the house with gold: its beams, its thresholds, its walls and its doors. And he carved cherubim[^3-14] on the walls.
+
+**8** He made the most holy place.[^3-15] Its length, across the width of the house, was twenty cubits, and its width was twenty cubits. He overlaid it with six hundred talents[^3-16] of fine gold.
+
+**9** The weight of the nails was fifty shekels[^3-17] of gold. He also overlaid the upper rooms with gold.
+
+**10** In the most holy place he made two cherubim of sculptured work,[^3-18] and they overlaid them with gold.
+
+**11** The wings of the cherubim were twenty cubits long in all. One wing of the first cherub, five cubits long, touched the wall of the house, and its other wing, five cubits long, touched the wing of the other cherub.
+
+**12** One wing of the other cherub, five cubits long, touched the wall of the house, and its other wing, five cubits long, was joined to the wing of the first cherub.[^3-19]
+
+**13** The wings of these cherubim spread out twenty cubits. They stood on their feet, facing the house.[^3-20]
+
+**14** He made the veil[^3-21] of blue, purple and crimson yarn and fine linen, and he worked cherubim into it.
+
+**15** In front of the house he made two pillars, thirty-five cubits long,[^3-22] with a capital[^3-23] on top of each, five cubits high.
+
+**16** He made chains in the inner sanctuary[^3-24] and put them on the tops of the pillars. He made a hundred pomegranates and put them on the chains.
+
+**17** He set up the pillars in front of the main hall,[^3-25] one on the right and one on the left. He named the one on the right Jakin[^3-26] and the one on the left Boaz.[^3-27]
+
+[^3-1]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles. "The house of Yahweh" is the temple. This chapter parallels 1 Kings 6 and 7:15–22, in shorter form.
+[^3-2]: The only other place the name Moriah occurs is Genesis 22:2.
+[^3-3]: Literally "which was seen by David his father". See 1 Chronicles 21:15–22:1.
+[^3-4]: Literally "which he prepared in the place of David".
+[^3-5]: Called Araunah in 2 Samuel 24:16–25.
+[^3-6]: Literally "in the second month, in the second".
+[^3-7]: Literally "These Solomon founded to build the house of God".
+[^3-8]: A cubit was about 18 inches (45 cm), so the house was about 90 feet long and 30 feet wide (27 by 9 m). The "old standard" was probably the older, shorter cubit, as against a longer one of about 21 inches (52 cm) (Ezekiel 40:5).
+[^3-9]: Hebrew *ulam*: an entrance hall in front of the main hall; traditionally "porch" or "vestibule".
+[^3-10]: About 180 feet (54 m). 1 Kings 6:3 does not give the height of the porch.
+[^3-11]: That is, the main hall, the large room in front of the most holy place (1 Kings 6:17).
+[^3-12]: Hebrew *berosh*, a tall conifer: perhaps the cypress or the juniper.
+[^3-13]: A place not otherwise known.
+[^3-14]: Hebrew *keruvim* (singular *keruv*, "cherub"): winged heavenly beings who guard holy places (Genesis 3:24; Exodus 25:18–22).
+[^3-15]: Literally "the house of the holy of holies". Also in verse 10.
+[^3-16]: A talent was about 75 pounds (34 kg), so six hundred talents was about 45,000 pounds (20,400 kg).
+[^3-17]: A shekel was about ⅖ ounce (11.5 grams), so fifty shekels was about 1¼ pounds (575 grams).
+[^3-18]: Hebrew *tsa'tsu'im*, a word found only here, of uncertain meaning.
+[^3-19]: Literally "And the wing of the one cherub … to the wing of the other cherub".
+[^3-20]: Literally "and their faces toward the house", that is, toward the main hall.
+[^3-21]: Hebrew *parokhet*: the hanging that screened the most holy place (Exodus 26:31–33). 1 Kings 6:31–32 speaks of doors of olive wood.
+[^3-22]: 1 Kings 7:15 and Jeremiah 52:21 give the height of each pillar as eighteen cubits.
+[^3-23]: Hebrew *tsefet*, found only here. Elsewhere the capitals are called *koterot* (4:12; 1 Kings 7:16).
+[^3-24]: Hebrew *devir*: the innermost room, the most holy place (1 Kings 6:5, 16). The sense here is uncertain.
+[^3-25]: Hebrew *heikhal*, "palace, temple": here the large main room of the house, in front of the inner sanctuary. Traditionally "the temple" or "the nave".
+[^3-26]: *Jakin* probably means "he establishes".
+[^3-27]: *Boaz* probably means "in him is strength".
+
+## Chapter 4
+
+*Status: draft*
+
+**1** He made a bronze altar,[^4-1] twenty cubits[^4-2] long, twenty cubits wide and ten cubits high.
+
+**2** He made the Sea[^4-3] of cast metal, ten cubits from rim to rim, round all around and five cubits high. A line of thirty cubits measured around it.
+
+**3** Under it were figures of oxen[^4-4] encircling it all around, ten to a cubit, going all around the Sea. The oxen were in two rows, cast in one piece with it.
+
+**4** It stood on twelve oxen, three facing north, three facing west,[^4-5] three facing south and three facing east. The Sea rested on top of them, and all their hindquarters were toward the center.
+
+**5** It was a handbreadth[^4-6] thick, and its rim was made like the rim of a cup, like a lily blossom. It could hold three thousand baths.[^4-7]
+
+**6** He made ten basins[^4-8] and put five on the right and five on the left,[^4-9] for washing. In them they rinsed the things used for the burnt offering,[^4-10] but the Sea was for the priests to wash in.
+
+**7** He made ten gold lampstands as prescribed for them[^4-11] and put them in the main hall,[^4-12] five on the right and five on the left.
+
+**8** He made ten tables and placed them in the main hall, five on the right and five on the left. And he made a hundred gold bowls.[^4-13]
+
+**9** He made the courtyard of the priests and the great court,[^4-14] and doors for the court, and he overlaid their doors with bronze.
+
+**10** He put the Sea on the south side, toward the southeast.[^4-15]
+
+**11** Huram[^4-16] made the pots,[^4-17] the shovels and the bowls. So Huram finished the work that he did for King Solomon in the house of God:
+
+**12** the two pillars; the bowls[^4-18] and the capitals on top of the pillars, two of them; the two networks to cover the two bowls of the capitals that were on top of the pillars;
+
+**13** the four hundred pomegranates for the two networks, two rows of pomegranates for each network, to cover the two bowls of the capitals that were on the pillars;[^4-19]
+
+**14** he made the stands,[^4-20] and he made the basins on the stands;
+
+**15** the one Sea, and the twelve oxen under it;
+
+**16** and the pots, the shovels, the forks and all their utensils. Huram-abi[^4-21] made them for King Solomon for the house of Yahweh,[^4-22] of polished bronze.
+
+**17** The king cast them in the plain of the Jordan, in the clay ground[^4-23] between Succoth and Zeredah.[^4-24]
+
+**18** Solomon made all these utensils in such great quantities that the weight of the bronze was never determined.
+
+**19** Solomon also made all the utensils that were in the house of God: the gold altar;[^4-25] the tables on which was the bread of the Presence;[^4-26]
+
+**20** the lampstands and their lamps, to burn as prescribed in front of the inner sanctuary,[^4-27] of pure gold;[^4-28]
+
+**21** the flowers,[^4-29] the lamps and the tongs, of gold, the finest gold;[^4-30]
+
+**22** the wick trimmers, the bowls, the dishes[^4-31] and the firepans, of pure gold; and the entrance[^4-32] of the house, its inner doors to the most holy place[^4-33] and the doors of the house to the main hall, of gold.
+
+[^4-1]: This altar of burnt offering is not described in 1 Kings 7, but see 1 Kings 8:64. Verses 2–22 parallel 1 Kings 7:23–26 and 38–50.
+[^4-2]: A cubit was about 18 inches (45 cm), so the altar was about 30 feet square and 15 feet high (9 by 9 by 4.5 m), and the Sea about 15 feet (4.5 m) across, 7½ feet (2.3 m) high and 45 feet (13.5 m) around.
+[^4-3]: A huge basin of bronze, called "the Sea" for its size (verse 6).
+[^4-4]: 1 Kings 7:24 has *peqa'im*, "gourds", where this verse has *beqarim*, "oxen", a word that looks similar in Hebrew.
+[^4-5]: Literally "toward the sea", that is, the Mediterranean.
+[^4-6]: About 3 inches (7.5 cm).
+[^4-7]: A bath was about 6 gallons (22 liters), so the Sea held about 18,000 gallons (66,000 liters). 1 Kings 7:26 reads "two thousand baths".
+[^4-8]: Hebrew *kiyyor*, the word used for the bronze basin of the tabernacle (Exodus 30:18). Also in verse 14.
+[^4-9]: That is, on the south and on the north. Directions were given facing east, so the right side is the south. Also in verses 7 and 8.
+[^4-10]: Literally "the work of the burnt offering".
+[^4-11]: Hebrew *mishpat*, here "prescribed pattern". Also in verse 20.
+[^4-12]: Hebrew *heikhal*, the large main room of the house, in front of the inner sanctuary (3:17). Also in verses 8 and 22.
+[^4-13]: Hebrew *mizraqim*: bowls, probably for sprinkling the blood of the sacrifices (Exodus 27:3). Also in verses 11 and 22.
+[^4-14]: Hebrew *azarah*, a word for a courtyard found in Chronicles and Ezekiel. Also later in the verse.
+[^4-15]: Literally "from the right shoulder, eastward, opposite the south".
+[^4-16]: The craftsman Huram-abi (2:12; verse 16). The Hebrew text is written "Hiram" in the second half of the verse but read "Huram".
+[^4-17]: Hebrew *sirot*. 1 Kings 7:40 has *kiyyorot*, "basins". Also in verse 16.
+[^4-18]: Hebrew *gullot*, "bowls": the rounded parts of the capitals. Also later in the verse and in verse 13.
+[^4-19]: Literally "on the face of the pillars".
+[^4-20]: Hebrew *mekhonot*: bronze stands on wheels, each carrying a basin (1 Kings 7:27–38).
+[^4-21]: Hebrew *Huram aviv*, "Huram his father". Compare 2:12.
+[^4-22]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^4-23]: Literally "in the thickness of the ground", probably clay ground suitable for molds.
+[^4-24]: 1 Kings 7:46 has Zarethan.
+[^4-25]: The altar of incense (Exodus 30:1–6; 39:38).
+[^4-26]: Literally "bread of the face": bread set out in Yahweh's presence (Exodus 25:30; Leviticus 24:5–9).
+[^4-27]: Hebrew *devir*: the innermost room, the most holy place (3:16).
+[^4-28]: Hebrew *zahav sagur*, perhaps "refined gold" or "solid gold". Also in verse 22.
+[^4-29]: Hebrew *perach*, "blossom": flower-shaped ornaments on the lampstands (Exodus 25:31).
+[^4-30]: Literally "it was the perfection of gold". The meaning is uncertain.
+[^4-31]: Hebrew *kappot*, "palms": small dishes, perhaps for incense (Exodus 25:29).
+[^4-32]: 1 Kings 7:50 has "the sockets" (Hebrew *potot*), a word that looks similar to *petach*, "entrance".
+[^4-33]: Literally "the holy of holies".
+
+## Chapter 5
+
+*Status: draft*
+
+**1** So all the work that Solomon did for the house of Yahweh[^5-1] was finished. Then Solomon brought in the things his father David had dedicated,[^5-2] and he put the silver, the gold and all the utensils in the treasuries of the house of God.
+
+**2** Then Solomon assembled the elders of Israel and all the heads of the tribes, the leaders of the ancestral families[^5-3] of the Israelites, in Jerusalem, to bring up the ark of the covenant of Yahweh from the City of David, which is Zion.
+
+**3** All the men of Israel assembled before the king at the festival in the seventh month.[^5-4]
+
+**4** When all the elders of Israel had come, the Levites[^5-5] took up the ark.
+
+**5** They brought up the ark, the tent of meeting[^5-6] and all the holy utensils that were in the tent. The Levitical priests[^5-7] brought them up.
+
+**6** King Solomon and the whole community of Israel who had gathered to him were before the ark, sacrificing so many sheep and cattle that they could not be counted or numbered.
+
+**7** Then the priests brought the ark of the covenant of Yahweh to its place, in the inner sanctuary[^5-8] of the house, in the most holy place,[^5-9] beneath the wings of the cherubim.[^5-10]
+
+**8** The cherubim spread out their wings over the place of the ark, and the cherubim formed a covering above the ark and its poles.
+
+**9** The poles were so long that their ends could be seen from the ark,[^5-11] in front of the inner sanctuary, but they could not be seen from outside. It is there to this day.[^5-12]
+
+**10** There was nothing in the ark except the two tablets that Moses put there at Horeb,[^5-13] where Yahweh made a covenant[^5-14] with the Israelites when they came out of Egypt.
+
+**11** Now the priests came out of the holy place.[^5-15] All the priests who were present had consecrated themselves, without keeping to their divisions.[^5-16]
+
+**12** All the Levites who were singers, Asaph, Heman and Jeduthun, with their sons and their relatives, dressed in fine linen, stood east of the altar with cymbals, harps and lyres. With them were 120 priests blowing trumpets.
+
+**13** The trumpeters and the singers joined together to make one sound, praising and thanking Yahweh. As they raised the sound with trumpets, cymbals and other musical instruments, and praised Yahweh, "For he is good, for his faithful love[^5-17] endures forever,"[^5-18] the house, the house of Yahweh, was filled with a cloud.
+
+**14** The priests could not stand to minister because of the cloud, for the glory of Yahweh filled the house of God.
+
+[^5-1]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles. "The house of Yahweh" is the temple. Verses 1–14 parallel 1 Kings 7:51–8:11.
+[^5-2]: Literally "the holy things of David his father".
+[^5-3]: Literally "the chiefs of the fathers".
+[^5-4]: Literally "at the festival; it is the seventh month". The festival is the Festival of Shelters, held in that month (Leviticus 23:34). 1 Kings 8:2 also gives the old name of the month, Ethanim.
+[^5-5]: 1 Kings 8:3 has "the priests".
+[^5-6]: Hebrew *ohel mo'ed*: the tent where Yahweh met with Moses and the people, that is, the tabernacle kept at Gibeon (1:3).
+[^5-7]: Literally "the priests, the Levites". 1 Kings 8:4 has "the priests and the Levites".
+[^5-8]: Hebrew *devir*: the innermost room of the temple. Also in verse 9.
+[^5-9]: Literally "the holy of holies".
+[^5-10]: Hebrew *keruvim* (singular *keruv*, "cherub"): winged heavenly beings who guard holy places (3:10–13; Exodus 25:18–22).
+[^5-11]: 1 Kings 8:8 reads "from the holy place".
+[^5-12]: Literally "And it is there to this day", probably the ark.
+[^5-13]: Another name for Mount Sinai.
+[^5-14]: Literally "where Yahweh cut", the usual idiom for making a covenant.
+[^5-15]: The main hall in front of the inner sanctuary. 1 Kings 8:10 goes on at once: "the cloud filled the house of Yahweh". The account of the priests and the singers in verses 11b–13a is not in Kings.
+[^5-16]: The priests normally served in turns, by divisions (8:14; 1 Chronicles 24).
+[^5-17]: Hebrew *chesed*: loyal, faithful love.
+[^5-18]: A refrain of worship found also in 7:3; 1 Chronicles 16:34; Psalms 106:1; 118:1; 136:1.
+
+## Chapter 6
+
+*Status: draft*
+
+**1** Then Solomon said, "Yahweh[^6-1] has said that he would live in thick darkness.[^6-2]
+
+**2** But I have built you a lofty house, a place for you to live in forever."
+
+**3** Then the king turned around and blessed the whole assembly of Israel, while the whole assembly of Israel stood.
+
+**4** He said, "Blessed be Yahweh, the God of Israel, who spoke with his own mouth to my father David, and with his own hands has fulfilled it. He said,
+
+**5** 'Since the day I brought my people out of the land of Egypt, I have not chosen a city from any of the tribes of Israel in which to build a house, so that my name would be there, nor did I choose anyone to be ruler over my people Israel.
+
+**6** But I have chosen Jerusalem for my name to be there, and I have chosen David to be over my people Israel.'
+
+**7** "My father David had it in his heart to build a house for the name of Yahweh, the God of Israel.
+
+**8** But Yahweh said to my father David, 'You had it in your heart to build a house for my name. You did well to have this in your heart.
+
+**9** But you are not the one who will build the house. Your son, who will come from your own body,[^6-3] is the one who will build the house for my name.'
+
+**10** Now Yahweh has kept the promise he made. I have succeeded my father David and sit on the throne of Israel, as Yahweh promised, and I have built the house for the name of Yahweh, the God of Israel.
+
+**11** There I have put the ark, in which is the covenant[^6-4] of Yahweh that he made with the Israelites."
+
+**12** Then Solomon[^6-5] stood before the altar of Yahweh in front of the whole assembly of Israel and spread out his hands.
+
+**13** For Solomon had made a bronze platform,[^6-6] five cubits[^6-7] long, five cubits wide and three cubits high, and had put it in the middle of the court. He stood on it, knelt down in front of the whole assembly of Israel, and spread out his hands toward heaven.
+
+**14** He said, "Yahweh, God of Israel, there is no God like you in heaven or on earth. You keep your covenant and show faithful love[^6-8] to your servants who walk before you with all their heart.
+
+**15** You have kept what you promised to your servant, my father David. With your mouth you promised it, and with your hand you have fulfilled it, as it is today.
+
+**16** So now, Yahweh, God of Israel, keep for your servant, my father David, what you promised him when you said, 'You will never lack a man before me to sit on the throne of Israel,[^6-9] if only your sons take care how they live,[^6-10] walking in my law as you have walked before me.'[^6-11]
+
+**17** So now, Yahweh, God of Israel, let your word that you spoke to your servant David be confirmed.
+
+**18** "But will God really live with human beings on the earth? Look, the heavens, even the highest heavens,[^6-12] cannot contain you. How much less this house that I have built!
+
+**19** Yet turn to your servant's prayer and his plea, Yahweh my God. Listen to the cry and the prayer that your servant is praying before you,
+
+**20** that your eyes may be open toward this house day and night, toward the place where you said you would put your name, so that you will listen to the prayer that your servant prays toward this place.
+
+**21** Listen to the pleas of your servant and of your people Israel when they pray toward this place. Listen from the place where you live, from heaven. Listen and forgive.
+
+**22** "When someone sins against his neighbor and is made to take an oath,[^6-13] and he comes and swears the oath before your altar in this house,
+
+**23** then listen from heaven and act. Judge your servants: repay the guilty by bringing what they have done on their own heads, and vindicate the innocent,[^6-14] rewarding them as their righteousness deserves.
+
+**24** "When your people Israel are defeated by an enemy because they have sinned against you, and they turn back and praise your name,[^6-15] and pray and plead before you in this house,
+
+**25** then listen from heaven and forgive the sin of your people Israel, and bring them back to the land you gave to them and to their ancestors.
+
+**26** "When the heavens are shut up and there is no rain because they have sinned against you, and they pray toward this place and praise your name, and turn from their sin because you afflict them,[^6-16]
+
+**27** then listen in heaven and forgive the sin of your servants, your people Israel. For you will teach them the good way in which they should walk. And send rain on your land, which you have given to your people as their inheritance.
+
+**28** "When there is famine in the land, or plague, or blight or mildew, or locusts or grasshoppers,[^6-17] or when their enemies besiege them in the land of their cities,[^6-18] whatever disaster, whatever sickness there is,
+
+**29** whatever prayer, whatever plea is made by anyone among all your people Israel, each knowing his own affliction and his own pain and spreading out his hands toward this house,
+
+**30** then listen from heaven, the place where you live, and forgive, and give to each person according to all his ways, since you know his heart, for you alone know the hearts of all human beings,
+
+**31** so that they may fear you and walk in your ways all the days they live in the land you gave to our ancestors.
+
+**32** "Likewise the foreigner, who is not of your people Israel but comes from a distant land because of your great name, your strong hand and your outstretched arm, when they come and pray toward this house,
+
+**33** then listen from heaven, the place where you live, and do all that the foreigner asks of you, so that all the peoples of the earth may know your name and fear you, as your people Israel do, and may know that this house I have built bears your name.[^6-19]
+
+**34** "When your people go out to battle against their enemies, wherever you send them, and they pray to you toward this city you have chosen and the house I have built for your name,
+
+**35** then listen from heaven to their prayer and their plea, and uphold their cause.[^6-20]
+
+**36** "When they sin against you, for there is no one who does not sin, and you are angry with them and hand them over to an enemy, and their captors carry them off to a land far away or near,
+
+**37** and they come to their senses[^6-21] in the land where they have been taken captive, and turn and plead with you in the land of their captivity, saying, 'We have sinned, we have done wrong, we have acted wickedly,'
+
+**38** and they turn back to you with all their heart and with all their soul in the land of their captivity where they were taken captive, and pray toward their land, which you gave to their ancestors, the city you have chosen and the house I have built for your name,
+
+**39** then listen from heaven, the place where you live, to their prayer and their pleas, and uphold their cause, and forgive your people who have sinned against you.
+
+**40** "Now, my God, let your eyes be open and your ears attentive to the prayer made in this place.[^6-22]
+
+**41** "Now arise, Yahweh God, and come to your resting place, you and the ark of your might.[^6-23] Let your priests, Yahweh God, be clothed with salvation, and let your faithful ones[^6-24] rejoice in what is good.
+
+**42** Yahweh God, do not reject your anointed ones.[^6-25] Remember the faithful love for David your servant."[^6-26]
+
+[^6-1]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles. Verses 1–39 parallel 1 Kings 8:12–50.
+[^6-2]: Hebrew *arafel*, the thick dark cloud in which God appeared at Sinai (Exodus 20:21).
+[^6-3]: Literally "who will come out from your loins".
+[^6-4]: That is, the stone tablets of the covenant (5:10).
+[^6-5]: Literally "he".
+[^6-6]: Hebrew *kiyyor*, the word for "basin" in 4:6, here a platform, perhaps shaped like a basin. This verse is not in 1 Kings 8.
+[^6-7]: A cubit was about 18 inches (45 cm), so the platform was about 7½ feet square and 4½ feet high (2.3 by 2.3 by 1.4 m).
+[^6-8]: Hebrew *chesed*: loyal, faithful love. Also in verse 42.
+[^6-9]: Literally "A man will not be cut off for you from before me, sitting on the throne of Israel."
+[^6-10]: Literally "keep their way".
+[^6-11]: 1 Kings 8:25 reads "walking before me".
+[^6-12]: Literally "the heavens and the heaven of heavens".
+[^6-13]: Literally "and he lifts against him a curse to curse him": the accused is made to swear an oath that calls down a curse on himself if he is guilty (Exodus 22:10–11; Numbers 5:19–22).
+[^6-14]: Literally "returning to the wicked … and declaring the righteous righteous".
+[^6-15]: Or "acknowledge your name". Also in verse 26.
+[^6-16]: Or "when you answer them". The Hebrew *ta'anem* can come from either verb.
+[^6-17]: Hebrew *arbeh* and *chasil*, two kinds of locusts, or locusts at two stages of growth.
+[^6-18]: Literally "in the land of his gates".
+[^6-19]: Literally "that your name is called over this house", a phrase that marks ownership.
+[^6-20]: Literally "do their justice". Also in verse 39.
+[^6-21]: Literally "bring back to their heart".
+[^6-22]: Literally "to the prayer of this place". 1 Kings 8:52 has a similar request, but verses 40–42 differ from the ending of the prayer in 1 Kings 8:51–53.
+[^6-23]: Verses 41–42 are close to Psalm 132:8–10.
+[^6-24]: Hebrew *chasidim*, a word related to *chesed*, "faithful love".
+[^6-25]: Literally "do not turn back the face of your anointed ones". Psalm 132:10 has the singular, "your anointed one".
+[^6-26]: Literally "the faithful loves of David your servant": either Yahweh's faithful love shown to David (Isaiah 55:3), or David's own faithful deeds.
+
+## Chapter 7
+
+*Status: draft*
+
+**1** When Solomon finished praying, fire came down from heaven and consumed the burnt offering and the sacrifices, and the glory of Yahweh[^7-1] filled the house.
+
+**2** The priests could not enter the house of Yahweh, because the glory of Yahweh filled the house of Yahweh.
+
+**3** When all the Israelites saw the fire come down and the glory of Yahweh on the house, they bowed down on the pavement with their faces to the ground. They worshiped and gave thanks to Yahweh, "For he is good, for his faithful love[^7-2] endures forever."
+
+**4** Then the king and all the people offered sacrifices before Yahweh.[^7-3]
+
+**5** King Solomon offered as a sacrifice 22,000 cattle and 120,000 sheep and goats. So the king and all the people dedicated the house of God.
+
+**6** The priests stood at their posts, and so did the Levites with the instruments for music to Yahweh that King David had made for giving thanks to Yahweh, "for his faithful love endures forever," whenever David offered praise through them.[^7-4] Opposite them the priests blew trumpets, and all Israel was standing.
+
+**7** Solomon consecrated the middle of the courtyard that was in front of the house of Yahweh, for there he offered the burnt offerings and the fat of the fellowship offerings,[^7-5] because the bronze altar that Solomon had made could not hold the burnt offering, the grain offering and the fat.
+
+**8** At that time Solomon held the festival[^7-6] for seven days, and all Israel with him, a very great assembly from Lebo-hamath[^7-7] to the Wadi of Egypt.[^7-8]
+
+**9** On the eighth day they held a closing assembly,[^7-9] for they had celebrated the dedication of the altar for seven days and the festival for seven days.
+
+**10** On the twenty-third day of the seventh month he sent the people away to their homes,[^7-10] joyful and glad of heart for the good that Yahweh had done for David and for Solomon and for his people Israel.
+
+**11** So Solomon finished the house of Yahweh and the king's house.[^7-11] He succeeded in carrying out all that Solomon had in mind to do in the house of Yahweh and in his own house.
+
+**12** Then Yahweh appeared to Solomon at night and said to him, "I have heard your prayer, and I have chosen this place for myself as a house of sacrifice.
+
+**13** When I shut up the heavens so that there is no rain, or command the locusts to devour the land, or send plague among my people,
+
+**14** and my people who are called by my name[^7-12] humble themselves, pray, seek my face and turn from their evil ways, then I will hear from heaven, forgive their sin and heal their land.
+
+**15** Now my eyes will be open and my ears attentive to the prayer made in this place.[^7-13]
+
+**16** Now I have chosen and consecrated this house so that my name may be there forever. My eyes and my heart will be there for all time.
+
+**17** As for you, if you walk before me as your father David walked, doing all that I have commanded you, and if you keep my decrees and my rulings,
+
+**18** then I will establish the throne of your kingdom, as I covenanted with your father David[^7-14] when I said, 'You will never lack a man to rule over Israel.'[^7-15]
+
+**19** But if you[^7-16] turn away and abandon my decrees and my commands that I have set before you, and go and serve other gods and bow down to them,
+
+**20** then I will uproot them[^7-17] from my land that I have given them, and this house that I have consecrated for my name I will cast out of my sight. I will make it a byword and an object of ridicule[^7-18] among all the peoples.
+
+**21** And as for this house, which was so exalted,[^7-19] everyone who passes by it will be appalled and will say, 'Why has Yahweh done this to this land and to this house?'
+
+**22** And people will answer, 'Because they abandoned Yahweh, the God of their ancestors, who brought them out of the land of Egypt, and they embraced other gods and bowed down to them and served them. That is why he has brought all this disaster on them.'"
+
+[^7-1]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles. Verses 1–3 are not in 1 Kings 8, which tells instead how Solomon rose from his knees and blessed the assembly (1 Kings 8:54–61).
+[^7-2]: Hebrew *chesed*: loyal, faithful love. Also in verse 6.
+[^7-3]: Verses 4–10 parallel 1 Kings 8:62–66.
+[^7-4]: Literally "when David praised by their hand".
+[^7-5]: Hebrew *shelamim*, traditionally "peace offerings": sacrifices shared in a meal by the worshipers.
+[^7-6]: The Festival of Shelters (5:3).
+[^7-7]: Or "the entrance to Hamath", at the northern limit of the land (Numbers 34:8).
+[^7-8]: Hebrew *nachal Mitsrayim*, a seasonal stream on the border of Egypt, probably the Wadi el-Arish in northern Sinai.
+[^7-9]: Hebrew *atseret*, a solemn gathering, here the one that closed the festival (Leviticus 23:36).
+[^7-10]: Literally "to their tents".
+[^7-11]: Verses 11–22 parallel 1 Kings 9:1–9. Verses 12b–15 are not in Kings.
+[^7-12]: Literally "over whom my name is called", a phrase that marks ownership.
+[^7-13]: Literally "to the prayer of this place", as in 6:40.
+[^7-14]: Literally "as I cut for David your father", the idiom for making a covenant.
+[^7-15]: Literally "A man will not be cut off for you, ruling in Israel." 1 Kings 9:5 has "on the throne of Israel".
+[^7-16]: Here "you" is plural.
+[^7-17]: That is, the Israelites.
+[^7-18]: Literally "a proverb and a sharp saying".
+[^7-19]: Literally "which was high". Compare 1 Kings 9:8.
+
+## Chapter 8
+
+*Status: draft*
+
+**1** At the end of twenty years, in which Solomon had built the house of Yahweh[^8-1] and his own house,
+
+**2** Solomon built up the cities that Huram[^8-2] had given him, and he settled Israelites there.
+
+**3** Solomon went to Hamath-zobah and seized it.[^8-3]
+
+**4** He built Tadmor[^8-4] in the wilderness and all the storage cities that he built in Hamath.
+
+**5** He built Upper Beth-horon and Lower Beth-horon, fortified cities with walls, gates and bars,
+
+**6** and Baalath, and all the storage cities that Solomon had, all the cities for the chariots and the cities for the horsemen,[^8-5] and whatever Solomon desired to build in Jerusalem, in Lebanon and in all the land under his rule.
+
+**7** As for all the people who were left of the Hittites, the Amorites, the Perizzites, the Hivites and the Jebusites, who were not of Israel,
+
+**8** their descendants who were left after them in the land, whom the Israelites had not wiped out, Solomon conscripted them as forced labor,[^8-6] as they are to this day.
+
+**9** But Solomon did not make slaves of any of the Israelites for his work. They were his soldiers, the commanders of his officers,[^8-7] and the commanders of his chariots and his horsemen.
+
+**10** These were King Solomon's chief officers,[^8-8] 250 of them,[^8-9] who directed the people.
+
+**11** Solomon brought Pharaoh's daughter up from the City of David to the house he had built for her,[^8-10] for he said, "My wife must not live in the house of David king of Israel, for the places to which the ark of Yahweh has come are holy."
+
+**12** Then Solomon offered burnt offerings to Yahweh on the altar of Yahweh that he had built in front of the porch,
+
+**13** as each day required, offering them according to the command of Moses for the Sabbaths, the new moons and the appointed festivals three times a year: the Festival of Unleavened Bread, the Festival of Weeks and the Festival of Shelters.
+
+**14** Following the ruling of his father David, he appointed the divisions of the priests for their service, and the Levites for their duties of praising and ministering beside the priests, as each day required, and the gatekeepers by their divisions for each gate, for this was what David the man of God had commanded.
+
+**15** They did not turn aside from the king's command to the priests and the Levites in any matter, including the treasuries.
+
+**16** So all Solomon's work was carried out, from the day the foundation of the house of Yahweh was laid until it was finished.[^8-11] The house of Yahweh was complete.
+
+**17** Then Solomon went to Ezion-geber and to Eloth on the seashore, in the land of Edom.
+
+**18** Huram sent him ships by his servants, with servants who knew the sea. They went with Solomon's servants to Ophir[^8-12] and took from there 450 talents of gold,[^8-13] which they brought to King Solomon.
+
+[^8-1]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles. Verses 1–18 parallel 1 Kings 9:10–28.
+[^8-2]: Hiram king of Tyre (2:2). Also in verse 18. According to 1 Kings 9:11–13, Solomon gave Hiram twenty towns in Galilee.
+[^8-3]: Literally "and was strong against it".
+[^8-4]: The oasis city later called Palmyra, in the Syrian desert (1 Kings 9:18).
+[^8-5]: Or "horses". Hebrew *parashim*. Also in verse 9.
+[^8-6]: Hebrew *mas*: work gangs conscripted to labor for the king (1 Kings 4:6; 5:27).
+[^8-7]: Hebrew *shalishim*, an officer's title of uncertain meaning, perhaps from "third", the third man in a chariot.
+[^8-8]: Literally "the officers of the officials". The Hebrew text is written *netsivim* but read *nitsavim*; both mean "officials" or "governors".
+[^8-9]: 1 Kings 9:23 gives 550.
+[^8-10]: See 1 Kings 3:1; 9:24.
+[^8-11]: Literally "until the day of the foundation of the house of Yahweh and until its completion".
+[^8-12]: A land famous for its gold, perhaps in southern Arabia or on the coast of East Africa.
+[^8-13]: A talent was about 75 pounds (34 kg), so 450 talents was about 34,000 pounds (15,300 kg). 1 Kings 9:28 gives 420 talents.
