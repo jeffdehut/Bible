@@ -588,3 +588,409 @@
 [^6-9]: Literally "about the fourth watch of the night", between 3 and 6 a.m.
 [^6-10]: Literally "I am". The same words are used of God in the Greek Old Testament (Exodus 3:14; Isaiah 43:10).
 [^6-11]: Or "were saved".
+
+## Chapter 7
+
+*Status: draft*
+
+**1** The Pharisees and some of the scribes who had come from Jerusalem gathered around Jesus.
+
+**2** They saw that some of his disciples were eating with unclean[^7-1] hands, that is, unwashed.
+
+**3** (For the Pharisees, and all the Jews, do not eat unless they wash their hands carefully,[^7-2] holding to the tradition of the elders.
+
+**4** When they come from the marketplace, they do not eat unless they purify themselves.[^7-3] And there are many other traditions they observe, such as washing cups, pitchers, copper pots, and dining couches.)[^7-4]
+
+**5** So the Pharisees and the scribes asked him, "Why don't your disciples live according to the tradition of the elders? Why do they eat with unclean hands?"
+
+**6** He said to them, "Isaiah prophesied rightly about you hypocrites, as it is written: 'These people honor me with their lips, but their hearts are far from me.
+
+**7** They worship me in vain, teaching human rules as if they were doctrines.'[^7-5]
+
+**8** You abandon the commandment of God and hold on to human tradition."
+
+**9** He went on, "How skillfully you set aside the commandment of God in order to keep your own tradition!
+
+**10** For Moses said, 'Honor your father and your mother,'[^7-6] and, 'Whoever curses father or mother must be put to death.'[^7-7]
+
+**11** But you say that if someone tells their father or mother, 'Whatever support you might have had from me is Corban' (that is, an offering to God),
+
+**12** then you no longer let them do anything for their father or mother.
+
+**13** In this way you cancel the word of God by your tradition that you have handed down. And you do many other things like that."
+
+**14** Then he called the crowd to him again and said to them, "Listen to me, all of you, and understand.
+
+**15** Nothing outside a person that goes into them can make them unclean. It is what comes out of a person that makes them unclean."[^7-8]
+
+**17** When he had left the crowd and gone into the house, his disciples asked him about the parable.
+
+**18** He said to them, "Are you so dull too? Don't you see that nothing that goes into a person from outside can make them unclean?
+
+**19** It doesn't go into their heart but into their stomach, and then out of the body." (In saying this, he declared all foods clean.)[^7-9]
+
+**20** He went on, "What comes out of a person is what makes them unclean.
+
+**21** For from within, out of the human heart, come evil thoughts, sexual immorality, theft, murder,
+
+**22** adultery, greed, wickedness, deceit, indecency, envy,[^7-10] slander, arrogance, and folly.
+
+**23** All these evil things come from within, and they make a person unclean."
+
+**24** Jesus left there and went to the region of Tyre.[^7-11] He went into a house and did not want anyone to know, but he could not stay hidden.
+
+**25** At once a woman whose little daughter had an unclean spirit heard about him, and she came and fell at his feet.
+
+**26** The woman was a Greek, born in Syrian Phoenicia. She begged him to drive the demon out of her daughter.
+
+**27** He said to her, "Let the children be fed first. It isn't right to take the children's bread and throw it to the dogs."[^7-12]
+
+**28** But she answered him, "Lord,[^7-13] even the dogs under the table eat the children's crumbs."
+
+**29** He said to her, "Because of that answer, you may go. The demon has left your daughter."
+
+**30** She went home and found the child lying on the bed, and the demon gone.
+
+**31** Then Jesus left the region of Tyre and went through Sidon to the Sea of Galilee, into the region of the Decapolis.
+
+**32** Some people brought to him a man who was deaf and could hardly speak, and they begged Jesus to place his hand on him.
+
+**33** Jesus took him aside, away from the crowd, put his fingers into the man's ears, spat, and touched his tongue.
+
+**34** Then he looked up to heaven, sighed deeply, and said to him, "Ephphatha," which means, "Be opened!"
+
+**35** The man's ears were opened, his tongue was released, and he began to speak plainly.
+
+**36** Jesus ordered them not to tell anyone. But the more he ordered them, the more they kept proclaiming it.
+
+**37** People were overwhelmed with amazement. "He has done everything well," they said. "He even makes the deaf hear and the mute speak."
+
+[^7-1]: Literally "common", meaning ritually unclean.
+[^7-2]: Literally "with a fist", an expression whose exact meaning is uncertain: perhaps "up to the wrist", or "thoroughly".
+[^7-3]: Literally "baptize themselves". Some manuscripts read "sprinkle themselves".
+[^7-4]: Some manuscripts leave out "and dining couches".
+[^7-5]: Isaiah 29:13, quoted from the Greek translation.
+[^7-6]: Exodus 20:12; Deuteronomy 5:16.
+[^7-7]: Exodus 21:17; Leviticus 20:9.
+[^7-8]: Many manuscripts add verse 16: "If anyone has ears to hear, let them hear." The SBLGNT, following the earliest manuscripts, does not include it, so this translation has no verse 16.
+[^7-9]: Literally "cleansing all foods". Most interpreters take these words as Mark's comment on what Jesus said. Some take them as part of Jesus' words, referring to the digestive process.
+[^7-10]: Literally "an evil eye".
+[^7-11]: Many manuscripts add "and Sidon".
+[^7-12]: Greek *kynaria*, "little dogs", house dogs.
+[^7-13]: Or "Sir". Many manuscripts read "Yes, Lord".
+
+## Chapter 8
+
+*Status: draft*
+
+**1** In those days another large crowd gathered, and they had nothing to eat. Jesus called his disciples to him and said to them,
+
+**2** "I have compassion on the crowd, because they have already been with me three days and have nothing to eat.
+
+**3** If I send them home hungry, they will collapse on the way, and some of them have come a long way."
+
+**4** His disciples answered him, "How can anyone find enough bread here in this remote place to feed these people?"
+
+**5** He asked them, "How many loaves do you have?" They said, "Seven."
+
+**6** He told the crowd to sit down on the ground. He took the seven loaves, gave thanks, broke them, and kept giving them to his disciples to distribute, and they distributed them to the crowd.
+
+**7** They also had a few small fish. He blessed them and told the disciples to distribute these too.
+
+**8** The people ate and were satisfied, and the disciples picked up seven large baskets of leftover pieces.
+
+**9** There were about four thousand people. Then he sent them away.
+
+**10** At once he got into the boat with his disciples and went to the district of Dalmanutha.
+
+**11** The Pharisees came out and began to argue with him. To test him, they asked him for a sign from heaven.
+
+**12** He sighed deeply in his spirit and said, "Why does this generation ask for a sign? Truly I tell you, no sign will be given to this generation."[^8-1]
+
+**13** Then he left them, got back into the boat, and went across to the other side.
+
+**14** The disciples had forgotten to bring bread. They had only one loaf with them in the boat.
+
+**15** Jesus warned them, "Watch out! Beware of the yeast of the Pharisees and the yeast of Herod."
+
+**16** They began discussing among themselves that they had no bread.
+
+**17** Aware of this, Jesus said to them, "Why are you talking about having no bread? Don't you see or understand yet? Are your hearts hardened?
+
+**18** You have eyes; can't you see? You have ears; can't you hear?[^8-2] Don't you remember?
+
+**19** When I broke the five loaves for the five thousand, how many baskets full of pieces did you pick up?" They said to him, "Twelve."
+
+**20** "And when I broke the seven loaves for the four thousand, how many large baskets full of pieces did you pick up?" They said to him, "Seven."
+
+**21** He said to them, "Do you still not understand?"
+
+**22** They came to Bethsaida. Some people brought a blind man to Jesus and begged him to touch him.
+
+**23** He took the blind man by the hand and led him out of the village. He spat on the man's eyes, put his hands on him, and asked him, "Do you see anything?"
+
+**24** The man looked up and said, "I see people, but they look like trees walking around."
+
+**25** Then Jesus put his hands on the man's eyes again. The man looked intently, his sight was restored, and he saw everything clearly.
+
+**26** Jesus sent him home, saying, "Don't even go into the village."[^8-3]
+
+**27** Jesus and his disciples went on to the villages around Caesarea Philippi. On the way he asked his disciples, "Who do people say I am?"
+
+**28** They told him, "John the Baptist; others say Elijah; and still others, one of the prophets."
+
+**29** Then he asked them, "But who do you say I am?" Peter answered him, "You are the Messiah."
+
+**30** And Jesus warned them not to tell anyone about him.
+
+**31** Then he began to teach them that the Son of Man must suffer many things and be rejected by the elders, the chief priests, and the scribes, and be killed, and after three days rise again.
+
+**32** He said this plainly. Peter took him aside and began to rebuke him.
+
+**33** But Jesus turned around, looked at his disciples, and rebuked Peter: "Get behind me, Satan! You are not thinking about the things of God, but about human things."
+
+**34** Then he called the crowd to him along with his disciples and said to them, "If anyone wants to follow after me, they must deny themselves, take up their cross, and follow me.
+
+**35** For whoever wants to save their life[^8-4] will lose it, but whoever loses their life for my sake and for the sake of the good news will save it.
+
+**36** What good is it for someone to gain the whole world, yet forfeit their life?
+
+**37** What can anyone give in exchange for their life?
+
+**38** If anyone is ashamed of me and my words in this unfaithful[^8-5] and sinful generation, the Son of Man will also be ashamed of them when he comes in the glory of his Father with the holy angels."
+
+[^8-1]: Literally "if a sign will be given to this generation", a Hebrew form of oath meaning "no sign will be given".
+[^8-2]: Compare Jeremiah 5:21; Ezekiel 12:2.
+[^8-3]: Many manuscripts add "or tell anyone in the village".
+[^8-4]: Greek *psyche*, life, soul, self; also in verses 36–37.
+[^8-5]: Literally "adulterous", unfaithful to God.
+
+## Chapter 9
+
+*Status: draft*
+
+**1** And he said to them, "Truly I tell you, some of those standing here will not taste death before they see the kingdom of God come with power."
+
+**2** Six days later Jesus took Peter, James, and John with him and led them up a high mountain, alone by themselves. There he was transformed in front of them.
+
+**3** His clothes became dazzling white, whiter than anyone on earth could bleach them.
+
+**4** Elijah appeared to them with Moses, and they were talking with Jesus.
+
+**5** Peter said to Jesus, "Rabbi, it is good for us to be here. Let us make three shelters:[^9-1] one for you, one for Moses, and one for Elijah."
+
+**6** He did not know what to say, because they were terrified.
+
+**7** Then a cloud came and overshadowed them, and a voice came from the cloud: "This is my Son, whom I love. Listen to him!"
+
+**8** Suddenly, when they looked around, they no longer saw anyone with them except Jesus.
+
+**9** As they were coming down the mountain, Jesus ordered them not to tell anyone what they had seen until the Son of Man had risen from the dead.
+
+**10** So they kept the matter to themselves, discussing what "rising from the dead" meant.
+
+**11** They asked him, "Why do the scribes say that Elijah must come first?"
+
+**12** He told them, "Elijah does come first and restores all things. Yet why is it written that the Son of Man must suffer many things and be treated with contempt?
+
+**13** But I tell you, Elijah has come, and they did to him whatever they wanted, just as it is written about him."
+
+**14** When they came back to the other disciples, they saw a large crowd around them and some scribes arguing with them.
+
+**15** As soon as the crowd saw Jesus, they were overwhelmed with wonder and ran to greet him.
+
+**16** He asked them, "What are you arguing about with them?"
+
+**17** Someone in the crowd answered him, "Teacher, I brought you my son. He has a spirit that makes him unable to speak.
+
+**18** Whenever it seizes him, it throws him to the ground. He foams at the mouth, grinds his teeth, and becomes rigid. I asked your disciples to drive it out, but they could not."
+
+**19** Jesus answered them, "You unbelieving generation! How long must I be with you? How long must I put up with you? Bring him to me."
+
+**20** So they brought the boy to him. As soon as the spirit saw Jesus, it threw the boy into a convulsion. He fell to the ground and rolled around, foaming at the mouth.
+
+**21** Jesus asked the boy's father, "How long has this been happening to him?" "Since he was a child," he said.
+
+**22** "It has often thrown him into fire or into water to kill him. But if you can do anything, have compassion on us and help us."
+
+**23** Jesus said to him, "'If you can'? Everything is possible for the one who believes."
+
+**24** At once the boy's father cried out,[^9-2] "I believe; help my unbelief!"
+
+**25** When Jesus saw that a crowd was quickly gathering, he rebuked the unclean spirit: "You mute and deaf spirit, I command you, come out of him and never enter him again!"
+
+**26** The spirit shrieked, threw the boy into terrible convulsions, and came out. The boy looked so much like a corpse that many said, "He is dead."
+
+**27** But Jesus took him by the hand and lifted him up, and he stood.
+
+**28** After Jesus had gone indoors, his disciples asked him privately, "Why couldn't we drive it out?"
+
+**29** He told them, "This kind can come out only by prayer."[^9-3]
+
+**30** They left that place and passed through Galilee. Jesus did not want anyone to know,
+
+**31** because he was teaching his disciples. He told them, "The Son of Man is going to be handed over to people who will kill him. Three days after he is killed, he will rise."
+
+**32** But they did not understand what he meant, and they were afraid to ask him.
+
+**33** They came to Capernaum. When he was in the house, he asked them, "What were you discussing on the way?"
+
+**34** But they kept quiet, because on the way they had argued with one another about who was the greatest.
+
+**35** He sat down, called the Twelve, and said to them, "Whoever wants to be first must be last of all and servant of all."
+
+**36** He took a little child and stood the child among them. Taking the child in his arms, he said to them,
+
+**37** "Whoever welcomes one such child in my name welcomes me. And whoever welcomes me welcomes not me but the one who sent me."
+
+**38** John said to him, "Teacher, we saw someone driving out demons in your name, and we tried to stop him, because he was not following us."[^9-4]
+
+**39** But Jesus said, "Don't stop him. No one who does a mighty work in my name can soon afterward speak evil of me.
+
+**40** Whoever is not against us is for us.
+
+**41** Truly I tell you, whoever gives you a cup of water to drink because you belong to the Messiah[^9-5] will certainly not lose their reward.
+
+**42** "If anyone causes one of these little ones who believe in me to stumble,[^9-6] it would be better for them to have a large millstone[^9-7] hung around their neck and be thrown into the sea.
+
+**43** If your hand causes you to stumble, cut it off. It is better for you to enter life maimed than to have two hands and go into hell,[^9-8] into the fire that never goes out.[^9-9]
+
+**45** If your foot causes you to stumble, cut it off. It is better for you to enter life lame than to have two feet and be thrown into hell.
+
+**47** If your eye causes you to stumble, tear it out. It is better for you to enter the kingdom of God with one eye than to have two eyes and be thrown into hell,
+
+**48** where 'their worm does not die, and the fire is not put out.'[^9-10]
+
+**49** Everyone will be salted with fire.[^9-11]
+
+**50** Salt is good, but if salt loses its saltiness, how can you make it salty again? Have salt among yourselves, and be at peace with one another."
+
+[^9-1]: Or "tents".
+[^9-2]: Many manuscripts add "with tears", and "Lord".
+[^9-3]: Many manuscripts add "and fasting".
+[^9-4]: Many manuscripts read "someone who does not follow us driving out demons in your name, and we tried to stop him because he does not follow us".
+[^9-5]: Literally "in the name that you are Christ's".
+[^9-6]: Or "to sin"; also in verses 43–47.
+[^9-7]: Literally "a donkey's millstone", one large enough to be turned by a donkey.
+[^9-8]: Greek *Gehenna*, from the Valley of Hinnom outside Jerusalem, used as a name for the place of final judgment.
+[^9-9]: Many manuscripts add verse 44, and verse 46 after verse 45, both repeating verse 48: "where 'their worm does not die, and the fire is not put out.'" The SBLGNT, following the earliest manuscripts, does not include them, so this translation has no verses 44 and 46.
+[^9-10]: Isaiah 66:24.
+[^9-11]: Many manuscripts add "and every sacrifice will be salted with salt".
+
+## Chapter 10
+
+*Status: draft*
+
+**1** Jesus left there and went into the region of Judea and across the Jordan. Again crowds gathered around him, and again, as was his custom, he taught them.
+
+**2** To test him, some people asked him, "Is it lawful for a man to divorce his wife?"[^10-1]
+
+**3** He answered them, "What did Moses command you?"
+
+**4** They said, "Moses allowed a man to write a certificate of divorce and send her away."[^10-2]
+
+**5** Jesus said to them, "He wrote this commandment for you because your hearts are hard.
+
+**6** But from the beginning of creation, 'he made them male and female.'[^10-3]
+
+**7** 'For this reason a man will leave his father and mother and be joined to his wife,
+
+**8** and the two will become one flesh.'[^10-4] So they are no longer two, but one flesh.
+
+**9** Therefore what God has joined together, no one should separate."
+
+**10** In the house the disciples asked him about this again.
+
+**11** He told them, "Whoever divorces his wife and marries another woman commits adultery against her.
+
+**12** And if she divorces her husband and marries another man, she commits adultery."
+
+**13** People were bringing little children to Jesus for him to touch them, but the disciples rebuked them.
+
+**14** When Jesus saw this, he was indignant and said to them, "Let the little children come to me; don't stop them, for the kingdom of God belongs to such as these.
+
+**15** Truly I tell you, whoever does not receive the kingdom of God like a little child will never enter it."
+
+**16** And he took the children in his arms, placed his hands on them, and blessed them.
+
+**17** As Jesus was setting out on his way, a man ran up, knelt before him, and asked him, "Good Teacher, what must I do to inherit eternal life?"
+
+**18** Jesus said to him, "Why do you call me good? No one is good except God alone.
+
+**19** You know the commandments: 'Do not murder, do not commit adultery, do not steal, do not give false testimony, do not defraud, honor your father and mother.'"[^10-5]
+
+**20** He said to Jesus, "Teacher, I have kept all these since I was young."
+
+**21** Jesus looked at him and loved him. "You lack one thing," he said. "Go, sell everything you have and give to the poor, and you will have treasure in heaven. Then come, follow me."[^10-6]
+
+**22** At this the man's face fell, and he went away grieving, because he had many possessions.
+
+**23** Jesus looked around and said to his disciples, "How hard it will be for those who have wealth to enter the kingdom of God!"
+
+**24** The disciples were amazed at his words. But Jesus said to them again, "Children, how hard it is to enter the kingdom of God![^10-7]
+
+**25** It is easier for a camel to go through the eye of a needle than for a rich person to enter the kingdom of God."
+
+**26** They were even more astonished and said to one another, "Then who can be saved?"
+
+**27** Jesus looked at them and said, "With human beings it is impossible, but not with God. All things are possible with God."
+
+**28** Peter began to say to him, "Look, we have left everything and followed you."
+
+**29** Jesus said, "Truly I tell you, there is no one who has left house or brothers or sisters or mother or father or children or fields for my sake and for the sake of the good news
+
+**30** who will not receive a hundred times as much now in this present age, houses, brothers, sisters, mothers, children, and fields, along with persecutions, and in the age to come eternal life.
+
+**31** But many who are first will be last, and the last first."
+
+**32** They were on the road going up to Jerusalem, and Jesus was walking ahead of them. The disciples were amazed, and those who followed were afraid. Again he took the Twelve aside and began to tell them what was going to happen to him.
+
+**33** "Look," he said, "we are going up to Jerusalem, and the Son of Man will be handed over to the chief priests and the scribes. They will condemn him to death and hand him over to the Gentiles.
+
+**34** They will mock him, spit on him, flog him, and kill him. And after three days he will rise."
+
+**35** James and John, the sons of Zebedee, came to Jesus and said to him, "Teacher, we want you to do for us whatever we ask."
+
+**36** He said to them, "What do you want me to do for you?"
+
+**37** They said to him, "Let us sit, one at your right and one at your left, in your glory."
+
+**38** Jesus said to them, "You don't know what you are asking. Can you drink the cup I drink, or be baptized with the baptism I am baptized with?"
+
+**39** They said to him, "We can." Jesus said to them, "The cup I drink you will drink, and with the baptism I am baptized with you will be baptized.
+
+**40** But to sit at my right or at my left is not mine to grant. Those places belong to those for whom they have been prepared."
+
+**41** When the ten heard about this, they became indignant with James and John.
+
+**42** Jesus called them together and said to them, "You know that those who are recognized as rulers over the Gentiles lord it over them, and their great ones exercise authority over them.
+
+**43** But it is not so among you. Whoever wants to become great among you must be your servant,
+
+**44** and whoever wants to be first among you must be the slave of all.
+
+**45** For even the Son of Man did not come to be served, but to serve, and to give his life as a ransom for many."
+
+**46** They came to Jericho. As Jesus was leaving Jericho with his disciples and a large crowd, Bartimaeus son of Timaeus, a blind beggar, was sitting by the roadside.
+
+**47** When he heard that it was Jesus of Nazareth, he began to shout, "Jesus, Son of David, have mercy on me!"
+
+**48** Many people rebuked him and told him to be quiet, but he shouted all the more, "Son of David, have mercy on me!"
+
+**49** Jesus stopped and said, "Call him." So they called the blind man and said to him, "Take heart! Get up; he is calling you."
+
+**50** Throwing off his cloak, he jumped up and came to Jesus.
+
+**51** Jesus asked him, "What do you want me to do for you?" The blind man said, "Rabbouni,[^10-8] let me see again."
+
+**52** Jesus said to him, "Go; your faith has healed you."[^10-9] At once he regained his sight and followed Jesus on the road.
+
+[^10-1]: The SBLGNT here follows a few manuscripts. Most manuscripts and editions read "Some Pharisees came and, to test him, asked him …"
+[^10-2]: Deuteronomy 24:1.
+[^10-3]: Genesis 1:27; 5:2. "He" is God, the subject in Genesis; many manuscripts add "God" here.
+[^10-4]: Genesis 2:24.
+[^10-5]: Exodus 20:12–16; Deuteronomy 5:16–20. "Do not defraud" may reflect the tenth commandment or Deuteronomy 24:14.
+[^10-6]: Many manuscripts add "taking up the cross".
+[^10-7]: Many manuscripts read "how hard it is for those who trust in riches to enter the kingdom of God!"
+[^10-8]: Aramaic, "my teacher", a respectful form of "Rabbi".
+[^10-9]: Or "has saved you".
