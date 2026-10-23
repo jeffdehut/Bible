@@ -1468,3 +1468,127 @@
 [^18-13]: Literally "from your brothers"; also in verse 18. Acts 3:22–23 and 7:37 apply verses 15–19 to Jesus.
 [^18-14]: Literally "I will require it from him".
 [^18-15]: Literally "You may say in your heart".
+
+## Chapter 19
+
+*Status: draft*
+
+**1** When Yahweh[^19-1] your God has cut off the nations whose land Yahweh your God is giving you, and you have dispossessed them and settled in their towns and their houses,
+
+**2** set apart for yourself three cities in the land that Yahweh your God is giving you to possess.
+
+**3** Prepare the roads,[^19-2] and divide into three parts the territory of the land that Yahweh your God is giving you as an inheritance, so that anyone who has killed someone[^19-3] can flee there.
+
+**4** This is the rule for someone who kills another person and flees there to save his life: he must have killed his neighbor unintentionally, without having been his enemy before.[^19-4]
+
+**5** For example, a man goes into the forest with his neighbor to cut wood. As he swings the axe to cut down a tree, the head flies off the handle and hits his neighbor, and he dies.[^19-5] That man may flee to one of these cities and save his life.
+
+**6** Otherwise the avenger of blood,[^19-6] in hot anger,[^19-7] might pursue the killer and overtake him because the distance is great, and kill him,[^19-8] though he did not deserve to die,[^19-9] since he had not been his enemy before.
+
+**7** That is why I command you to set apart for yourself three cities.
+
+**8** Yahweh your God may enlarge your territory, as he swore to your ancestors,[^19-10] and give you all the land he promised to give your ancestors,
+
+**9** if you are careful to keep all this commandment that I am giving you today, to love Yahweh your God and to walk in his ways always. Then you are to add three more cities to these three.
+
+**10** This is so that innocent blood will not be shed in the land that Yahweh your God is giving you as an inheritance, and you will not be guilty of bloodshed.[^19-11]
+
+**11** But suppose someone hates his neighbor, lies in wait for him, attacks him and kills him, and then flees to one of these cities.
+
+**12** The elders of his town are to send for him and bring him back from there, and hand him over to the avenger of blood to be put to death.
+
+**13** Show him no pity.[^19-12] You must purge[^19-13] the guilt of innocent blood from Israel, so that it may go well with you.
+
+**14** Do not move your neighbor's boundary marker, set up by those who came before you,[^19-14] in the inheritance you will receive in the land that Yahweh your God is giving you to possess.
+
+**15** A single witness is not enough to convict anyone of any wrongdoing or any sin, whatever sin he may have committed. A matter must be established on the testimony[^19-15] of two witnesses or three witnesses.
+
+**16** If a malicious witness[^19-16] comes forward against someone to accuse him of wrongdoing,[^19-17]
+
+**17** the two people involved in the dispute must stand before Yahweh, before the priests and the judges who are in office at that time.
+
+**18** The judges must investigate thoroughly. If the witness turns out to be a false witness, who has given false testimony against his brother,
+
+**19** then do to him what he intended to do to his brother. So you must purge the evil from among you.
+
+**20** The rest of the people will hear and be afraid, and such an evil thing will never again be done among you.
+
+**21** Show no pity: life for life, eye for eye, tooth for tooth, hand for hand, foot for foot.[^19-18]
+
+[^19-1]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^19-2]: Literally "Prepare the way for yourself". Or "Measure the distances".
+[^19-3]: Hebrew *rotseach*, "killer", from the verb used in "Do not murder" (5:17). Here it is someone who has killed without meaning to. Also in verses 4 and 6.
+[^19-4]: Literally "and he was not hating him yesterday and the day before"; also in verse 6.
+[^19-5]: Literally "and his hand is driven with the axe to cut the tree, and the iron slips off the wood and finds his neighbor, and he dies".
+[^19-6]: Hebrew *go'el ha-dam*: the relative responsible for avenging the death of a family member. Also in verse 12.
+[^19-7]: Literally "because his heart is hot".
+[^19-8]: Literally "strike him, life", that is, fatally. Also in verse 11.
+[^19-9]: Literally "and there is no judgment of death for him".
+[^19-10]: Literally "fathers"; also later in the verse.
+[^19-11]: Literally "and there will be blood on you".
+[^19-12]: Literally "Your eye shall not pity him"; also in verse 21.
+[^19-13]: Literally "burn out"; also in verse 19.
+[^19-14]: Literally "which the first ones set as a border".
+[^19-15]: Literally "at the mouth".
+[^19-16]: Literally "a witness of violence" (compare Exodus 23:1).
+[^19-17]: Hebrew *sarah*, "turning aside": a crime, or perhaps turning away from Yahweh (compare 13:6).
+[^19-18]: Compare Exodus 21:23–25 and Leviticus 24:19–20. Jesus quotes "eye for eye and tooth for tooth" in Matthew 5:38.
+
+## Chapter 20
+
+*Status: draft*
+
+**1** When you go out to war against your enemies and see horses and chariots and an army larger than yours,[^20-1] do not be afraid of them, for Yahweh[^20-2] your God, who brought you up out of the land of Egypt, is with you.
+
+**2** When you are about to go into battle, the priest is to come forward and speak to the army.[^20-3]
+
+**3** He is to say to them, "Hear, Israel. Today you are going into battle against your enemies. Do not lose heart.[^20-4] Do not be afraid, or alarmed, or terrified of them.
+
+**4** For Yahweh your God is the one who goes with you, to fight for you against your enemies and to give you victory."[^20-5]
+
+**5** Then the officials[^20-6] are to say to the army, "Has anyone built a new house and not yet dedicated it? Let him go back to his house, or he may die in battle and someone else dedicate it.
+
+**6** Has anyone planted a vineyard and not yet begun to enjoy its fruit?[^20-7] Let him go back to his house, or he may die in battle and someone else enjoy it.
+
+**7** Has anyone become engaged to a woman and not yet married her? Let him go back to his house, or he may die in battle and someone else marry her."
+
+**8** Then the officials are to speak further to the army and say, "Is anyone afraid or fainthearted? Let him go back to his house, so that he does not make his brothers lose heart as he has."[^20-8]
+
+**9** When the officials have finished speaking to the army, commanders are to be appointed at the head of the troops.[^20-9]
+
+**10** When you approach a town to attack it, first offer it terms of peace.
+
+**11** If it accepts your terms[^20-10] and opens its gates to you, all the people found in it are to become forced laborers for you and serve you.
+
+**12** But if it does not make peace with you and goes to war with you, then lay siege to it.
+
+**13** When Yahweh your God hands it over to you, put all its males to the sword.[^20-11]
+
+**14** But the women, the children, the livestock and everything else in the town, all its plunder, you may take as spoil for yourselves. And you may enjoy[^20-12] the spoil of your enemies that Yahweh your God has given you.
+
+**15** This is what you are to do to all the towns that are very far away from you, which are not among the towns of these nations.
+
+**16** But in the towns of these peoples that Yahweh your God is giving you as an inheritance, you must not leave alive anything that breathes.
+
+**17** You must devote them completely to destruction:[^20-13] the Hittites, the Amorites, the Canaanites, the Perizzites, the Hivites and the Jebusites, as Yahweh your God has commanded you,
+
+**18** so that they will not teach you to do all the detestable things they do for their gods, and so cause you to sin against Yahweh your God.
+
+**19** When you besiege a town for a long time, fighting against it to capture it, do not destroy its trees by swinging an axe against them. You may eat from them, but you must not cut them down. Are the trees of the field human beings, that you should besiege them?[^20-14]
+
+**20** Only the trees that you know are not fruit trees may you destroy and cut down, to build siege works against the town that is at war with you, until it falls.
+
+[^20-1]: Literally "a people more numerous than you".
+[^20-2]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^20-3]: Literally "the people"; also in verses 5, 8 and 9.
+[^20-4]: Literally "Do not let your heart be faint".
+[^20-5]: Literally "to save you".
+[^20-6]: Hebrew *shoterim*: officers who kept records and helped the leaders carry out their decisions. Also in verses 8 and 9.
+[^20-7]: Hebrew *chillel*, "make common": begin to use the fruit for ordinary purposes. A vineyard's fruit could be eaten freely only from the fifth year (Leviticus 19:23–25).
+[^20-8]: Literally "so that the heart of his brothers may not melt like his heart".
+[^20-9]: Literally "they shall appoint commanders of armies at the head of the people".
+[^20-10]: Literally "If it answers you peace".
+[^20-11]: Literally "strike all its males with the mouth of the sword".
+[^20-12]: Literally "eat".
+[^20-13]: Hebrew *charam*: to give something over completely to God, which in war meant destroying it and keeping nothing for oneself.
+[^20-14]: The Hebrew vowel points read "for the human being is the tree of the field", which may mean that human life depends on the trees. The same consonants can be read as a question, as here.

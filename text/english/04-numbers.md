@@ -292,7 +292,7 @@
 
 **38** Those who were to camp in front of the tabernacle on the east, in front of the tent of meeting toward the sunrise, were Moses and Aaron and his sons. They were responsible for the care of the sanctuary, carrying out the duty owed by the Israelites. Any outsider who came near was to be put to death.
 
-**39** All the Levites registered, whom Moses and Aaron[^3-13] registered at the command of Yahweh by their clans, every male a month old or more, numbered 22,000.
+**39** All the Levites registered, whom Moses and Aaron[^3-13] registered at the command of Yahweh by their clans, every male a month old or more, numbered twenty-two thousand.
 
 **40** Yahweh said to Moses, "Register every firstborn male among the Israelites a month old or more, and count the number of their names.
 
@@ -327,7 +327,7 @@
 [^3-7]: Literally "given, given", an emphatic form. Compare 8:16.
 [^3-8]: Literally "at the mouth"; also in verses 39 and 51.
 [^3-9]: *The tabernacle* here is probably the inner layer of linen curtains, and *the tent* the layer of goats' hair curtains over it (Exodus 26:1–14).
-[^3-10]: The figures in verses 22, 28 and 34 add up to 22,300, but verse 39 gives a total of 22,000. Some manuscripts of the Septuagint read 8,300 here, which would match that total.
+[^3-10]: The figures in verses 22, 28 and 34 add up to 22,300, but verse 39 gives a total of twenty-two thousand. Some manuscripts of the Septuagint read 8,300 here, which would match that total.
 [^3-11]: Literally "keepers of the charge of the holy place"; also in verse 32.
 [^3-12]: Probably the curtain that hung in front of the ark (4:5).
 [^3-13]: In the Hebrew text the word "and Aaron" has dots written above each of its letters, one of the fifteen places in the Hebrew Bible marked in this way. Traditionally the dots mark a word as doubtful. Aaron is not named in the commands of verses 15 and 40.
@@ -659,9 +659,9 @@
 
 **12** The one who presented his offering on the first day was Nahshon son of Amminadab, of the tribe of Judah.
 
-**13** His offering was one silver plate weighing 130 shekels[^7-5] and one silver basin weighing 70 shekels, by the sanctuary shekel, both of them full of fine flour mixed with oil as a grain offering;
+**13** His offering was one silver plate weighing 130 shekels[^7-5] and one silver basin weighing seventy shekels, by the sanctuary shekel, both of them full of fine flour mixed with oil as a grain offering;
 
-**14** one gold dish weighing 10 shekels,[^7-6] full of incense;
+**14** one gold dish weighing ten shekels,[^7-6] full of incense;
 
 **15** one young bull,[^7-7] one ram and one year-old male lamb as a burnt offering;
 
@@ -671,9 +671,9 @@
 
 **18** On the second day Nethanel son of Zuar, the leader of Issachar, presented an offering.
 
-**19** He presented as his offering one silver plate weighing 130 shekels and one silver basin weighing 70 shekels, by the sanctuary shekel, both of them full of fine flour mixed with oil as a grain offering;
+**19** He presented as his offering one silver plate weighing 130 shekels and one silver basin weighing seventy shekels, by the sanctuary shekel, both of them full of fine flour mixed with oil as a grain offering;
 
-**20** one gold dish weighing 10 shekels, full of incense;
+**20** one gold dish weighing ten shekels, full of incense;
 
 **21** one young bull, one ram and one year-old male lamb as a burnt offering;
 
@@ -683,9 +683,9 @@
 
 **24** On the third day it was the leader of the people of Zebulun, Eliab son of Helon.
 
-**25** His offering was one silver plate weighing 130 shekels and one silver basin weighing 70 shekels, by the sanctuary shekel, both of them full of fine flour mixed with oil as a grain offering;
+**25** His offering was one silver plate weighing 130 shekels and one silver basin weighing seventy shekels, by the sanctuary shekel, both of them full of fine flour mixed with oil as a grain offering;
 
-**26** one gold dish weighing 10 shekels, full of incense;
+**26** one gold dish weighing ten shekels, full of incense;
 
 **27** one young bull, one ram and one year-old male lamb as a burnt offering;
 
@@ -695,9 +695,9 @@
 
 **30** On the fourth day it was the leader of the people of Reuben, Elizur son of Shedeur.
 
-**31** His offering was one silver plate weighing 130 shekels and one silver basin weighing 70 shekels, by the sanctuary shekel, both of them full of fine flour mixed with oil as a grain offering;
+**31** His offering was one silver plate weighing 130 shekels and one silver basin weighing seventy shekels, by the sanctuary shekel, both of them full of fine flour mixed with oil as a grain offering;
 
-**32** one gold dish weighing 10 shekels, full of incense;
+**32** one gold dish weighing ten shekels, full of incense;
 
 **33** one young bull, one ram and one year-old male lamb as a burnt offering;
 
@@ -707,9 +707,9 @@
 
 **36** On the fifth day it was the leader of the people of Simeon, Shelumiel son of Zurishaddai.
 
-**37** His offering was one silver plate weighing 130 shekels and one silver basin weighing 70 shekels, by the sanctuary shekel, both of them full of fine flour mixed with oil as a grain offering;
+**37** His offering was one silver plate weighing 130 shekels and one silver basin weighing seventy shekels, by the sanctuary shekel, both of them full of fine flour mixed with oil as a grain offering;
 
-**38** one gold dish weighing 10 shekels, full of incense;
+**38** one gold dish weighing ten shekels, full of incense;
 
 **39** one young bull, one ram and one year-old male lamb as a burnt offering;
 
@@ -719,9 +719,9 @@
 
 **42** On the sixth day it was the leader of the people of Gad, Eliasaph son of Deuel.
 
-**43** His offering was one silver plate weighing 130 shekels and one silver basin weighing 70 shekels, by the sanctuary shekel, both of them full of fine flour mixed with oil as a grain offering;
+**43** His offering was one silver plate weighing 130 shekels and one silver basin weighing seventy shekels, by the sanctuary shekel, both of them full of fine flour mixed with oil as a grain offering;
 
-**44** one gold dish weighing 10 shekels, full of incense;
+**44** one gold dish weighing ten shekels, full of incense;
 
 **45** one young bull, one ram and one year-old male lamb as a burnt offering;
 
@@ -731,9 +731,9 @@
 
 **48** On the seventh day it was the leader of the people of Ephraim, Elishama son of Ammihud.
 
-**49** His offering was one silver plate weighing 130 shekels and one silver basin weighing 70 shekels, by the sanctuary shekel, both of them full of fine flour mixed with oil as a grain offering;
+**49** His offering was one silver plate weighing 130 shekels and one silver basin weighing seventy shekels, by the sanctuary shekel, both of them full of fine flour mixed with oil as a grain offering;
 
-**50** one gold dish weighing 10 shekels, full of incense;
+**50** one gold dish weighing ten shekels, full of incense;
 
 **51** one young bull, one ram and one year-old male lamb as a burnt offering;
 
@@ -743,9 +743,9 @@
 
 **54** On the eighth day it was the leader of the people of Manasseh, Gamaliel son of Pedahzur.
 
-**55** His offering was one silver plate weighing 130 shekels and one silver basin weighing 70 shekels, by the sanctuary shekel, both of them full of fine flour mixed with oil as a grain offering;
+**55** His offering was one silver plate weighing 130 shekels and one silver basin weighing seventy shekels, by the sanctuary shekel, both of them full of fine flour mixed with oil as a grain offering;
 
-**56** one gold dish weighing 10 shekels, full of incense;
+**56** one gold dish weighing ten shekels, full of incense;
 
 **57** one young bull, one ram and one year-old male lamb as a burnt offering;
 
@@ -755,9 +755,9 @@
 
 **60** On the ninth day it was the leader of the people of Benjamin, Abidan son of Gideoni.
 
-**61** His offering was one silver plate weighing 130 shekels and one silver basin weighing 70 shekels, by the sanctuary shekel, both of them full of fine flour mixed with oil as a grain offering;
+**61** His offering was one silver plate weighing 130 shekels and one silver basin weighing seventy shekels, by the sanctuary shekel, both of them full of fine flour mixed with oil as a grain offering;
 
-**62** one gold dish weighing 10 shekels, full of incense;
+**62** one gold dish weighing ten shekels, full of incense;
 
 **63** one young bull, one ram and one year-old male lamb as a burnt offering;
 
@@ -767,9 +767,9 @@
 
 **66** On the tenth day it was the leader of the people of Dan, Ahiezer son of Ammishaddai.
 
-**67** His offering was one silver plate weighing 130 shekels and one silver basin weighing 70 shekels, by the sanctuary shekel, both of them full of fine flour mixed with oil as a grain offering;
+**67** His offering was one silver plate weighing 130 shekels and one silver basin weighing seventy shekels, by the sanctuary shekel, both of them full of fine flour mixed with oil as a grain offering;
 
-**68** one gold dish weighing 10 shekels, full of incense;
+**68** one gold dish weighing ten shekels, full of incense;
 
 **69** one young bull, one ram and one year-old male lamb as a burnt offering;
 
@@ -779,9 +779,9 @@
 
 **72** On the eleventh day it was the leader of the people of Asher, Pagiel son of Ochran.
 
-**73** His offering was one silver plate weighing 130 shekels and one silver basin weighing 70 shekels, by the sanctuary shekel, both of them full of fine flour mixed with oil as a grain offering;
+**73** His offering was one silver plate weighing 130 shekels and one silver basin weighing seventy shekels, by the sanctuary shekel, both of them full of fine flour mixed with oil as a grain offering;
 
-**74** one gold dish weighing 10 shekels, full of incense;
+**74** one gold dish weighing ten shekels, full of incense;
 
 **75** one young bull, one ram and one year-old male lamb as a burnt offering;
 
@@ -791,9 +791,9 @@
 
 **78** On the twelfth day it was the leader of the people of Naphtali, Ahira son of Enan.
 
-**79** His offering was one silver plate weighing 130 shekels and one silver basin weighing 70 shekels, by the sanctuary shekel, both of them full of fine flour mixed with oil as a grain offering;
+**79** His offering was one silver plate weighing 130 shekels and one silver basin weighing seventy shekels, by the sanctuary shekel, both of them full of fine flour mixed with oil as a grain offering;
 
-**80** one gold dish weighing 10 shekels, full of incense;
+**80** one gold dish weighing ten shekels, full of incense;
 
 **81** one young bull, one ram and one year-old male lamb as a burnt offering;
 
@@ -803,9 +803,9 @@
 
 **84** This was the dedication offering for the altar from the leaders of Israel on the day it was anointed: twelve silver plates, twelve silver basins and twelve gold dishes.
 
-**85** Each silver plate weighed 130 shekels and each basin 70. All the silver of the vessels came to 2,400 shekels,[^7-9] by the sanctuary shekel.
+**85** Each silver plate weighed 130 shekels and each basin seventy. All the silver of the vessels came to 2,400 shekels,[^7-9] by the sanctuary shekel.
 
-**86** The twelve gold dishes full of incense weighed 10 shekels each, by the sanctuary shekel. All the gold of the dishes came to 120 shekels.[^7-10]
+**86** The twelve gold dishes full of incense weighed ten shekels each, by the sanctuary shekel. All the gold of the dishes came to 120 shekels.[^7-10]
 
 **87** All the cattle for the burnt offering came to twelve bulls, together with twelve rams and twelve year-old male lambs, with their grain offerings, and twelve male goats as a sin offering.
 
@@ -3286,3 +3286,39 @@
 [^35-11]: Hebrew *kofer*: a payment in place of a life.
 [^35-12]: Literally "who is guilty to die".
 [^35-13]: Hebrew *chanaf*, "pollute, profane". Also later in the verse.
+
+## Chapter 36
+
+*Status: draft*
+
+**1** The heads of the ancestral families of the clan of the descendants of Gilead son of Machir, son of Manasseh, from the clans of the descendants of Joseph, came forward. They spoke before Moses and before the leaders, the heads of the ancestral families of the Israelites.
+
+**2** They said, "Yahweh[^36-1] commanded my lord to give the land to the Israelites as an inheritance by lot, and my lord was commanded by Yahweh to give the inheritance of our brother Zelophehad to his daughters.
+
+**3** But if they marry men from any of the other tribes of the Israelites, their inheritance will be taken away from the inheritance of our ancestors and added to the inheritance of the tribe they marry into. So it will be taken away from the inheritance allotted to us.
+
+**4** And when the Jubilee[^36-2] comes for the Israelites, their inheritance will be added to the inheritance of the tribe they marry into, and their inheritance will be taken away from the inheritance of our ancestral tribe."
+
+**5** Then at Yahweh's command Moses commanded the Israelites: "What the tribe of the descendants of Joseph says is right.
+
+**6** This is what Yahweh commands concerning the daughters of Zelophehad: They may marry anyone they please,[^36-3] but they must marry within a clan of their father's tribe.
+
+**7** No inheritance of the Israelites may pass from tribe to tribe, for each of the Israelites is to keep hold of the inheritance of his ancestral tribe.
+
+**8** Every daughter who inherits property in any of the tribes of the Israelites must marry someone from a clan of her father's tribe, so that each of the Israelites may possess the inheritance of his ancestors.
+
+**9** No inheritance may pass from one tribe to another, for each of the tribes of the Israelites is to keep hold of its own inheritance."
+
+**10** The daughters of Zelophehad did just as Yahweh had commanded Moses.
+
+**11** Mahlah, Tirzah, Hoglah, Milcah and Noah, the daughters of Zelophehad, married the sons of their uncles.[^36-4]
+
+**12** They married into the clans of the descendants of Manasseh son of Joseph, and their inheritance remained with the tribe of their father's clan.
+
+**13** These are the commands and the rules that Yahweh gave to the Israelites through Moses[^36-5] in the plains of Moab by the Jordan, across from Jericho.
+
+[^36-1]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^36-2]: Hebrew *yovel*: every fiftieth year, when land that had been sold returned to its original owners (Leviticus 25:8–17).
+[^36-3]: Literally "to whoever is good in their eyes".
+[^36-4]: Probably their father's brothers. The order of the daughters' names differs from 26:33 and 27:1.
+[^36-5]: Literally "by the hand of Moses".

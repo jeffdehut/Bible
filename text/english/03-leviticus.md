@@ -1181,3 +1181,142 @@
 [^15-5]: Hebrew *niddah*, "separation, impurity": here the state of a woman during her monthly period. Also in verses 20, 24–26 and 33.
 [^15-6]: The Hebrew is difficult. Literally "And if it is on the bed, or on the article on which she is sitting, when he touches it he will be unclean until evening."
 [^15-7]: Hebrew *mishkan*, "dwelling place": the portable sanctuary, also called the tent of meeting.
+
+## Chapter 16
+
+*Status: draft*
+
+**1** Yahweh[^16-1] spoke to Moses after the death of Aaron's two sons, who died when they came near before Yahweh.[^16-2]
+
+**2** Yahweh said to Moses, "Tell your brother Aaron that he must not come at just any time into the holy place[^16-3] inside the veil, in front of the atonement cover[^16-4] that is on the ark, or he will die. For I appear in the cloud over the atonement cover.
+
+**3** This is how Aaron is to come into the holy place: with a young bull for a sin offering and a ram for a burnt offering.
+
+**4** He is to put on the holy linen tunic, with linen undergarments next to his body. He is to tie the linen sash around him and wrap the linen turban around his head. These are holy garments. He must bathe his body in water and then put them on.
+
+**5** From the community of the Israelites he is to take two male goats for a sin offering and one ram for a burnt offering.
+
+**6** Aaron is to present the bull for his own sin offering and make atonement for himself and for his household.
+
+**7** Then he is to take the two goats and set them before Yahweh at the entrance of the tent of meeting.
+
+**8** Aaron is to cast lots for the two goats, one lot for Yahweh and the other lot for Azazel.[^16-5]
+
+**9** Aaron is to present the goat on which the lot for Yahweh falls and offer it as a sin offering.
+
+**10** But the goat on which the lot for Azazel falls is to be set alive before Yahweh, to make atonement with it,[^16-6] by sending it away into the wilderness to Azazel.
+
+**11** "Aaron is to present the bull for his own sin offering and make atonement for himself and for his household. He is to slaughter the bull for his own sin offering.
+
+**12** He is to take a firepan full of burning coals from the altar before Yahweh, and two handfuls of finely ground fragrant incense, and bring them inside the veil.
+
+**13** He is to put the incense on the fire before Yahweh, so that the cloud of incense covers the atonement cover that is over the testimony,[^16-7] or he will die.
+
+**14** He is to take some of the bull's blood and sprinkle it with his finger on the front of the atonement cover, on the east side.[^16-8] And in front of the atonement cover he is to sprinkle some of the blood with his finger seven times.
+
+**15** "Then he is to slaughter the goat for the people's sin offering and bring its blood inside the veil. He is to do with its blood as he did with the bull's blood, sprinkling it on the atonement cover and in front of the atonement cover.
+
+**16** So he will make atonement for the holy place because of the uncleanness of the Israelites and because of their rebellious acts, all their sins. He is to do the same for the tent of meeting, which stays with them in the midst of their uncleanness.
+
+**17** No one is to be in the tent of meeting from the time he goes in to make atonement in the holy place until he comes out. So he will make atonement for himself, for his household and for the whole assembly of Israel.
+
+**18** Then he is to go out to the altar that is before Yahweh and make atonement for it. He is to take some of the bull's blood and some of the goat's blood and put it on all the horns of the altar.
+
+**19** He is to sprinkle some of the blood on it with his finger seven times, and so cleanse it and consecrate it from the uncleanness of the Israelites.
+
+**20** "When he has finished making atonement for the holy place, the tent of meeting and the altar, he is to present the live goat.
+
+**21** Aaron is to lay both his hands[^16-9] on the head of the live goat and confess over it all the wrongdoings of the Israelites and all their rebellious acts, all their sins. He is to put them on the goat's head and send it away into the wilderness in the care of a man who stands ready.[^16-10]
+
+**22** The goat will carry all their wrongdoings on itself into a remote land.[^16-11] He is to let the goat go in the wilderness.
+
+**23** "Then Aaron is to go into the tent of meeting, take off the linen garments that he put on when he went into the holy place, and leave them there.
+
+**24** He is to bathe his body in water in a holy place and put on his own garments.[^16-12] Then he is to come out and offer his burnt offering and the people's burnt offering, and make atonement for himself and for the people.
+
+**25** He is to burn the fat of the sin offering on the altar.
+
+**26** The man who sent the goat away to Azazel must wash his clothes and bathe his body in water. After that he may come into the camp.
+
+**27** The bull for the sin offering and the goat for the sin offering, whose blood was brought in to make atonement in the holy place, are to be taken outside the camp, and their skins, their flesh and their dung are to be burned up in the fire.
+
+**28** The one who burns them must wash his clothes and bathe his body in water. After that he may come into the camp.
+
+**29** "This is to be a permanent rule for you: in the seventh month,[^16-13] on the tenth day of the month, you must deny yourselves[^16-14] and not do any work, whether you are native-born or a foreigner[^16-15] who lives among you.
+
+**30** For on this day atonement will be made for you, to make you clean. You will be clean from all your sins before Yahweh.
+
+**31** It is a Sabbath of complete rest[^16-16] for you, and you must deny yourselves. It is a permanent rule.
+
+**32** The priest who is anointed and ordained[^16-17] to serve as priest in his father's place is to make atonement. He is to put on the linen garments, the holy garments.
+
+**33** He is to make atonement for the holy sanctuary,[^16-18] and he is to make atonement for the tent of meeting and the altar, and he is to make atonement for the priests and for all the people of the assembly.
+
+**34** This is to be a permanent rule for you, to make atonement for the Israelites once a year for all their sins." And he did as Yahweh had commanded Moses.[^16-19]
+
+[^16-1]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^16-2]: See 10:1–2.
+[^16-3]: Hebrew *ha-qodesh*, "the holy (place)". In this chapter it means the inner room of the tent, behind the veil, where the ark stood. Exodus 26:33 calls it "the most holy place".
+[^16-4]: Hebrew *kapporet*, traditionally "mercy seat": the gold lid of the ark (Exodus 25:17–22). The word comes from the same root as *kipper*, "make atonement".
+[^16-5]: Hebrew *la-azazel*, "for Azazel", also in verses 10 and 26. The meaning is uncertain. *Azazel* may be the name of a wilderness demon or spirit, opposite Yahweh in this verse (compare 17:7); the name of a rugged, remote place; or a word meaning "complete removal". The traditional "scapegoat" comes from reading it as *ez ozel*, "the goat that goes away".
+[^16-6]: Literally "to make atonement on it".
+[^16-7]: The stone tablets of the covenant, which were inside the ark (Exodus 25:16, 21).
+[^16-8]: Or "on the surface of the atonement cover, toward the east".
+[^16-9]: The Hebrew text is written "his hand" but read "his hands".
+[^16-10]: Hebrew *itti*, a word found only here: perhaps "appointed, ready at hand".
+[^16-11]: Literally "a land cut off": a place from which the goat could not return.
+[^16-12]: That is, his usual garments as high priest (Exodus 28).
+[^16-13]: The seventh month of the year, in September–October.
+[^16-14]: Literally "afflict your souls (*nephesh*)", traditionally understood as fasting (Psalm 35:13; Isaiah 58:3, 5). Also in verse 31.
+[^16-15]: Hebrew *ger*: someone from elsewhere who lives among the Israelites, a resident foreigner.
+[^16-16]: Hebrew *shabbat shabbaton*, "a Sabbath of Sabbath-rest": a solemn day of complete rest.
+[^16-17]: Literally "whose hand is filled", the idiom for installing a priest (8:33).
+[^16-18]: Literally "the sanctuary of holiness", the inner room of verse 2.
+[^16-19]: *He* is Aaron, or Moses.
+
+## Chapter 17
+
+*Status: draft*
+
+**1** Yahweh[^17-1] said to Moses,
+
+**2** "Speak to Aaron and his sons and to all the Israelites and tell them: This is what Yahweh has commanded.
+
+**3** Any Israelite[^17-2] who slaughters an ox, a lamb or a goat in the camp, or who slaughters it outside the camp,
+
+**4** and does not bring it to the entrance of the tent of meeting to present it as an offering to Yahweh in front of Yahweh's tabernacle, that man will be held guilty of bloodshed.[^17-3] He has shed blood, and that man must be cut off from among his people.
+
+**5** This is so that the Israelites will bring to Yahweh the sacrifices that they have been sacrificing in the open fields. They are to bring them to the priest at the entrance of the tent of meeting and sacrifice them as fellowship offerings to Yahweh.
+
+**6** The priest is to splash the blood against Yahweh's altar at the entrance of the tent of meeting and burn the fat as a pleasing aroma to Yahweh.
+
+**7** They must no longer offer their sacrifices to the goat-demons,[^17-4] after whom they have prostituted themselves.[^17-5] This is to be a permanent rule for them, for all their generations.
+
+**8** "Tell them also: Any Israelite, or any foreigner[^17-6] who lives among them, who offers a burnt offering or a sacrifice
+
+**9** and does not bring it to the entrance of the tent of meeting to offer it to Yahweh, that man must be cut off from his people.
+
+**10** "Any Israelite, or any foreigner who lives among them, who eats any blood, I will set my face against that person who eats the blood, and I will cut him off from among his people.
+
+**11** For the life[^17-7] of a creature is in the blood, and I have given it to you on the altar to make atonement for your lives, because it is the blood that makes atonement by means of the life.[^17-8]
+
+**12** That is why I have said to the Israelites, 'None of you may eat blood, and no foreigner who lives among you may eat blood.'
+
+**13** "Any Israelite, or any foreigner who lives among them, who hunts and catches a wild animal or a bird that may be eaten must pour out its blood and cover it with earth.
+
+**14** For the life of every creature is its blood; its blood is its life.[^17-9] That is why I have said to the Israelites, 'You must not eat the blood of any creature, because the life of every creature is its blood. Anyone who eats it must be cut off.'
+
+**15** "Anyone, whether native-born or foreigner, who eats an animal that has died or that was torn by wild beasts must wash his clothes and bathe in water, and he will be unclean until evening. Then he will be clean.
+
+**16** But if he does not wash his clothes or bathe his body, he will bear the consequences of his wrongdoing."[^17-10]
+
+[^17-1]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^17-2]: Literally "Any man, any man of the house of Israel". So also in verses 8, 10 and 13.
+[^17-3]: Literally "blood will be counted to that man".
+[^17-4]: Hebrew *se'irim*, "hairy ones, goats": demons or idols thought to live in the wilderness (compare Isaiah 13:21; 34:14).
+[^17-5]: Literally "after whom they go whoring", a common image for unfaithfulness to Yahweh.
+[^17-6]: Hebrew *ger*: someone from elsewhere who lives among the Israelites, a resident foreigner. Also in verses 10, 12, 13 and 15.
+[^17-7]: Hebrew *nephesh*, "life, soul, living being". Also in verse 14.
+[^17-8]: Or "makes atonement for the life".
+[^17-9]: The Hebrew is difficult. Literally "For the life of all flesh, its blood is in its life."
+[^17-10]: Literally "he will bear his iniquity".
