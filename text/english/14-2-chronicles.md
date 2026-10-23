@@ -899,3 +899,48 @@
 [^13-13]: Hebrew *midrash*, "study" or "account". In the Bible the word appears only here and in 24:27.
 [^13-14]: Literally "lay down with his fathers", a way of speaking of death.
 [^13-15]: Verse 23 is 14:1 in most English Bibles.
+
+## Chapter 14
+
+*Status: draft*
+
+**1** Asa did what was good and right in the eyes of Yahweh[^14-1] his God.[^14-2]
+
+**2** He removed the foreign altars and the high places,[^14-3] smashed the standing stones[^14-4] and cut down the Asherah poles.[^14-5]
+
+**3** He commanded Judah to seek Yahweh, the God of their ancestors, and to carry out the law and the command.
+
+**4** He removed the high places and the incense altars[^14-6] from all the cities of Judah, and the kingdom had peace under him.
+
+**5** He built fortified cities in Judah, for the land had peace. There was no war against him in those years, because Yahweh had given him rest.
+
+**6** He said to Judah, "Let us build these cities and surround them with walls and towers, gates and bars. The land is still ours,[^14-7] because we have sought Yahweh our God. We sought him, and he has given us rest on every side." So they built and prospered.
+
+**7** Asa had an army of 300,000 from Judah, carrying large shields and spears, and 280,000 from Benjamin, carrying shields and drawing bows. All these were mighty warriors.
+
+**8** Zerah the Cushite[^14-8] came out against them with an army of a million[^14-9] and three hundred chariots, and he came as far as Mareshah.
+
+**9** Asa went out to meet him, and they drew up their battle lines in the Valley of Zephathah at Mareshah.
+
+**10** Asa called to Yahweh his God and said, "Yahweh, there is no one like you to help the powerless against the mighty.[^14-10] Help us, Yahweh our God, for we rely on you, and in your name we have come against this multitude. Yahweh, you are our God. Do not let mere mortals prevail against you."
+
+**11** So Yahweh struck down the Cushites before Asa and before Judah, and the Cushites fled.
+
+**12** Asa and the people with him pursued them as far as Gerar. So many Cushites fell that they could not recover,[^14-11] for they were shattered before Yahweh and his army. The people of Judah carried off a very great amount of plunder.
+
+**13** They attacked all the cities around Gerar, for the terror of Yahweh had fallen on them. They plundered all the cities, for there was much plunder in them.
+
+**14** They also attacked the tents of the herdsmen[^14-12] and carried off sheep and goats in abundance, and camels. Then they returned to Jerusalem.
+
+[^14-1]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^14-2]: Verses 1–14 are 14:2–15 in most English Bibles. Verses 1–4 are close to 1 Kings 15:11–12.
+[^14-3]: Hebrew *bamot*: places of worship, often on hilltops. Also in verse 4.
+[^14-4]: Hebrew *matsevot*: standing stones set up as objects of worship.
+[^14-5]: Hebrew *asherim*: wooden poles or trees that were symbols of the goddess Asherah.
+[^14-6]: Hebrew *chammanim*, a word of uncertain meaning: perhaps incense altars, or sun pillars (Leviticus 26:30).
+[^14-7]: Literally "The land is still before us".
+[^14-8]: Cush is usually the region south of Egypt (ancient Nubia). Zerah is not otherwise known. Also in verses 11–12.
+[^14-9]: Literally "a thousand thousands".
+[^14-10]: Literally "There is no one with you to help between the many and the one without strength". Or "It makes no difference to you whether you help the strong or the weak".
+[^14-11]: Or "until none of them was left alive".
+[^14-12]: Literally "the tents of livestock".

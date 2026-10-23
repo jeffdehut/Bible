@@ -1894,3 +1894,64 @@
 [^23-33]: The Hebrew text is written "when he reigned" but read "so that he would not reign".
 [^23-34]: A talent was about 75 pounds (34 kg). A hundred talents was about 3¾ tons (3.4 metric tons).
 [^23-35]: The Hebrew text is written "Zebidah" but read "Zebudah".
+
+## Chapter 24
+
+*Status: draft*
+
+**1** In his days Nebuchadnezzar[^24-1] king of Babylon came up, and Jehoiakim became his vassal[^24-2] for three years. Then he turned and rebelled against him.
+
+**2** Yahweh[^24-3] sent against him raiding bands of Babylonians,[^24-4] Arameans, Moabites and Ammonites. He sent them against Judah to destroy it, according to the word of Yahweh that he had spoken through his servants the prophets.
+
+**3** Surely this happened to Judah at Yahweh's command,[^24-5] to remove them from his presence because of the sins of Manasseh, according to all that he had done,
+
+**4** and also because of the innocent blood he had shed. For he had filled Jerusalem with innocent blood, and Yahweh was not willing to forgive.
+
+**5** As for the rest of the acts of Jehoiakim, and all that he did, are they not written in the book of the annals of the kings of Judah?
+
+**6** Jehoiakim slept with his ancestors, and his son Jehoiachin became king in his place.
+
+**7** The king of Egypt did not march out of his land again, for the king of Babylon had taken all that had belonged to the king of Egypt, from the Wadi of Egypt[^24-6] to the Euphrates River.
+
+**8** Jehoiachin[^24-7] was eighteen years old when he became king,[^24-8] and he reigned three months in Jerusalem. His mother's name was Nehushta daughter of Elnathan, from Jerusalem.
+
+**9** He did what was evil in the eyes of Yahweh, just as his father had done.
+
+**10** At that time the officers of Nebuchadnezzar king of Babylon came up[^24-9] to Jerusalem, and the city came under siege.
+
+**11** Nebuchadnezzar king of Babylon came to the city while his officers were besieging it.
+
+**12** Jehoiachin king of Judah went out to the king of Babylon,[^24-10] he, his mother, his servants, his commanders and his officials.[^24-11] And the king of Babylon took him prisoner in the eighth year of his reign.[^24-12]
+
+**13** He carried off from there all the treasures of the house of Yahweh and the treasures of the king's palace, and he cut up all the gold articles that Solomon king of Israel had made in the temple of Yahweh, as Yahweh had said.
+
+**14** He deported all Jerusalem: all the commanders and all the mighty warriors, ten thousand captives, and all the craftsmen and the metalworkers.[^24-13] No one was left except the poorest people of the land.
+
+**15** He deported Jehoiachin to Babylon. He also took into exile from Jerusalem to Babylon the king's mother, the king's wives, his officials and the leading men of the land.
+
+**16** The king of Babylon brought into exile to Babylon all the fighting men, seven thousand, and the craftsmen and metalworkers, a thousand, all of them strong men fit for war.
+
+**17** The king of Babylon made Mattaniah, Jehoiachin's uncle,[^24-14] king in his place and changed his name to Zedekiah.
+
+**18** Zedekiah was twenty-one years old when he became king,[^24-15] and he reigned eleven years in Jerusalem. His mother's name was Hamutal[^24-16] daughter of Jeremiah, from Libnah.
+
+**19** He did what was evil in the eyes of Yahweh, just as Jehoiakim had done.
+
+**20** For it was because of Yahweh's anger that all this happened to Jerusalem and Judah, until he cast them out of his presence. And Zedekiah rebelled against the king of Babylon.
+
+[^24-1]: Nebuchadnezzar II, king of Babylon from 605 to 562 BC.
+[^24-2]: Literally "his servant".
+[^24-3]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles. "The house of Yahweh" is the temple.
+[^24-4]: Hebrew *Kasdim*, traditionally "Chaldeans": the people of southern Mesopotamia whose kings then ruled Babylon.
+[^24-5]: Literally "at the mouth of Yahweh".
+[^24-6]: Probably the Wadi el-Arish in northern Sinai, the traditional border between Canaan and Egypt.
+[^24-7]: Also called Jeconiah or Coniah (Jeremiah 22:24; 24:1).
+[^24-8]: 2 Chronicles 36:9 gives his age as eight.
+[^24-9]: The Hebrew text is written "came up" with a singular verb but read with a plural one.
+[^24-10]: That is, he surrendered.
+[^24-11]: Hebrew *sarisim*, court officials. The word can also mean eunuchs. Also in verse 15.
+[^24-12]: That is, the eighth year of Nebuchadnezzar, 597 BC. Jeremiah 52:28 dates the first deportation to his seventh year.
+[^24-13]: Hebrew *masger*, perhaps "smith" or "locksmith". Also in verse 16.
+[^24-14]: Mattaniah was a son of Josiah (1 Chronicles 3:15; Jeremiah 1:3), Jehoiachin's father's brother. 2 Chronicles 36:10 calls him Jehoiachin's brother.
+[^24-15]: 24:18–25:30 is also found, with small differences, in Jeremiah 52. Parts of it are also told in Jeremiah 39:1–10 and 40:7–41:18.
+[^24-16]: The Hebrew text is written "Hamital" but read "Hamutal".
