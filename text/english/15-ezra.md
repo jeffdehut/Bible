@@ -498,3 +498,82 @@
 [^6-18]: The Aramaic section that began at 4:8 ends here. From verse 19 the text is in Hebrew again.
 [^6-19]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
 [^6-20]: Here the Persian king, who now ruled the lands of the former Assyrian Empire.
+
+## Chapter 7
+
+*Status: draft*
+
+**1** After these things, in the reign of Artaxerxes king of Persia,[^7-1] Ezra son of Seraiah, son of Azariah, son of Hilkiah,[^7-2]
+
+**2** son of Shallum, son of Zadok, son of Ahitub,
+
+**3** son of Amariah, son of Azariah, son of Meraioth,
+
+**4** son of Zerahiah, son of Uzzi, son of Bukki,
+
+**5** son of Abishua, son of Phinehas, son of Eleazar, son of Aaron the chief priest,
+
+**6** this Ezra came up from Babylon. He was a scribe skilled in the Law of Moses, which Yahweh,[^7-3] the God of Israel, had given. The king granted him everything he asked, because the hand of Yahweh his God was on him.
+
+**7** Some of the Israelites, and some of the priests, the Levites, the singers, the gatekeepers and the temple servants, also went up to Jerusalem in the seventh year of King Artaxerxes.
+
+**8** Ezra came to Jerusalem in the fifth month, in the seventh year of the king.
+
+**9** On the first day of the first month he began the journey up from Babylon,[^7-4] and on the first day of the fifth month he came to Jerusalem, because the good hand of his God was on him.
+
+**10** For Ezra had set his heart to study[^7-5] the Law of Yahweh and to do it, and to teach its decrees and rulings[^7-6] in Israel.
+
+**11** This is a copy of the letter that King Artaxerxes gave to Ezra the priest, the scribe, a scribe learned in the words of Yahweh's commands and his decrees for Israel:
+
+**12** "Artaxerxes, king of kings, to Ezra the priest, the scribe of the law[^7-7] of the God of heaven: Perfect peace.[^7-8] And now:
+
+**13** I issue a decree[^7-9] that anyone of the people of Israel in my kingdom, including its priests and Levites, who freely chooses to go to Jerusalem with you, may go.
+
+**14** For you are sent by the king and his seven advisers to inquire about Judah and Jerusalem according to the law of your God, which is in your hand,
+
+**15** and to carry the silver and gold that the king and his advisers have freely offered to the God of Israel, whose dwelling is in Jerusalem,
+
+**16** with all the silver and gold that you find in the whole province of Babylon, and with the freewill offerings of the people and the priests, freely given for the house of their God in Jerusalem.
+
+**17** With this money, then, you are to buy with care bulls, rams and lambs, with their grain offerings and their drink offerings, and you are to offer them on the altar of the house of your God in Jerusalem.
+
+**18** Whatever seems good to you and your brothers to do with the rest of the silver and gold, do it according to the will of your God.
+
+**19** The articles that are given to you for the service of the house of your God, deliver them in full before the God of Jerusalem.
+
+**20** And the rest of what is needed for the house of your God, whatever falls to you to provide, you may provide from the royal treasury.[^7-10]
+
+**21** And I, King Artaxerxes, issue a decree to all the treasurers in the province Beyond the River:[^7-11] Whatever Ezra the priest, the scribe of the law of the God of heaven, asks of you is to be done with care,
+
+**22** up to a hundred talents[^7-12] of silver, a hundred kors[^7-13] of wheat, a hundred baths[^7-14] of wine, a hundred baths of oil, and salt without limit.[^7-15]
+
+**23** Whatever is decreed by the God of heaven is to be done exactly for the house of the God of heaven. Why should wrath come upon the realm of the king and his sons?
+
+**24** We also inform you that it is not permitted to impose tribute, tax or toll on any of the priests, the Levites, the singers, the gatekeepers, the temple servants or the other servants of this house of God.
+
+**25** And you, Ezra, according to the wisdom of your God that is in your hand, appoint magistrates and judges to judge all the people in the province Beyond the River, all who know the laws of your God. And whoever does not know them, you are to teach.
+
+**26** Whoever does not obey the law of your God and the law of the king, let judgment be carried out on him strictly, whether death, banishment,[^7-16] confiscation of property or imprisonment."
+
+**27** Blessed be Yahweh, the God of our ancestors,[^7-17] who put such a thing as this into the king's heart, to bring honor to the house of Yahweh in Jerusalem,
+
+**28** and who has shown me faithful love[^7-18] before the king and his advisers and all the king's powerful officials. I took courage, because the hand of Yahweh my God was on me, and I gathered leaders from Israel to go up with me.
+
+[^7-1]: Artaxerxes I, who reigned from 465 to 424 BC. His seventh year (verse 7) was 458 BC, about sixty years after the temple was finished (6:15).
+[^7-2]: The list in verses 1–5 is shorter than the line of high priests in 1 Chronicles 5:29–41 (English 6:3–15). "Son" can also mean "descendant".
+[^7-3]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^7-4]: Literally "it was the founding of the going up from Babylon".
+[^7-5]: Literally "to seek".
+[^7-6]: Literally "decree and ruling".
+[^7-7]: Aramaic *data*, a word borrowed from Persian. The letter of verses 12–26 is in Aramaic.
+[^7-8]: Aramaic *gemir*, "complete, perfect". It may be part of a greeting, or part of Ezra's title: "a scribe perfect in the law of the God of heaven".
+[^7-9]: Aramaic *te'em*, "order, decree". Also in verses 21 and 23.
+[^7-10]: Literally "from the house of the treasures of the king".
+[^7-11]: The Persian province west of the Euphrates; see 4:10. Also in verse 25.
+[^7-12]: A talent was about 75 pounds (34 kg), so a hundred talents was about 3.75 tons (3.4 metric tons).
+[^7-13]: A kor was probably about 6 bushels (220 liters).
+[^7-14]: A bath was about 6 gallons (22 liters).
+[^7-15]: Literally "salt without writing", that is, without a written limit.
+[^7-16]: Literally "rooting out". The meaning is uncertain: perhaps banishment, or a beating.
+[^7-17]: Literally "fathers". Here the text returns to Hebrew, and Ezra begins to speak in the first person.
+[^7-18]: Hebrew *chesed*: loyal, faithful love. Literally "he has extended faithful love to me".

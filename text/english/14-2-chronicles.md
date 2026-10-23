@@ -561,3 +561,105 @@
 [^8-11]: Literally "until the day of the foundation of the house of Yahweh and until its completion".
 [^8-12]: A land famous for its gold, perhaps in southern Arabia or on the coast of East Africa.
 [^8-13]: A talent was about 75 pounds (34 kg), so 450 talents was about 34,000 pounds (15,300 kg). 1 Kings 9:28 gives 420 talents.
+
+## Chapter 9
+
+*Status: draft*
+
+**1** The queen of Sheba[^9-1] heard of Solomon's fame, and she came to Jerusalem to test Solomon with hard questions.[^9-2] She came with a very great retinue, with camels carrying spices, a great quantity of gold, and precious stones. When she came to Solomon, she talked with him about everything that was on her mind.[^9-3]
+
+**2** Solomon answered all her questions.[^9-4] Nothing was hidden from Solomon that he could not explain to her.
+
+**3** When the queen of Sheba saw Solomon's wisdom, the house he had built,
+
+**4** the food on his table, the seating of his officials,[^9-5] the attendance of his servants and their clothing, his cupbearers and their clothing, and the ascent by which he went up to the house of Yahweh,[^9-6] it took her breath away.[^9-7]
+
+**5** She said to the king, "The report I heard in my own country about your words[^9-8] and your wisdom was true.
+
+**6** But I did not believe their reports until I came and saw it with my own eyes. And look, not even half the greatness of your wisdom was told me. You go beyond the report I heard.
+
+**7** How happy your men must be! How happy these servants of yours, who stand before you continually and hear your wisdom!
+
+**8** Blessed be Yahweh your God, who has delighted in you and set you on his throne as king for Yahweh your God![^9-9] Because your God loves Israel and will establish them forever, he has made you king over them, to do justice and what is right."[^9-10]
+
+**9** Then she gave the king 120 talents[^9-11] of gold, a very great quantity of spices, and precious stones. There were never such spices as those the queen of Sheba gave King Solomon.
+
+**10** The servants of Huram[^9-12] and the servants of Solomon, who brought gold from Ophir, also brought algum wood[^9-13] and precious stones.
+
+**11** The king used the algum wood to make steps[^9-14] for the house of Yahweh and for the king's house, and lyres and harps for the singers. Nothing like them had been seen before in the land of Judah.
+
+**12** King Solomon gave the queen of Sheba everything she desired, whatever she asked for, besides what she had brought to the king.[^9-15] Then she turned and went back to her own country, she and her servants.
+
+**13** The weight of the gold that came to Solomon in one year was 666 talents of gold,[^9-16]
+
+**14** besides what the traders and the merchants brought.[^9-17] All the kings of Arabia and the governors of the land also brought gold and silver to Solomon.
+
+**15** King Solomon made two hundred large shields of hammered gold. Six hundred shekels[^9-18] of hammered gold went into each shield.
+
+**16** He also made three hundred small shields of hammered gold. Three hundred shekels of gold went into each shield.[^9-19] The king put them in the House of the Forest of Lebanon.[^9-20]
+
+**17** The king also made a great throne of ivory and overlaid it with pure gold.
+
+**18** The throne had six steps, and a footstool of gold[^9-21] was attached to the throne. There were armrests on each side of the seat, with two lions standing beside the armrests.
+
+**19** Twelve lions stood there on the six steps, one on each side.[^9-22] Nothing like it had ever been made in any kingdom.
+
+**20** All King Solomon's drinking vessels were gold, and all the vessels of the House of the Forest of Lebanon were pure gold.[^9-23] Silver was considered of no value in Solomon's days.
+
+**21** For the king had ships that went to Tarshish[^9-24] with Huram's servants. Once every three years the Tarshish ships came, bringing gold and silver, ivory, apes and baboons.[^9-25]
+
+**22** So King Solomon was greater than all the kings of the earth in riches and in wisdom.
+
+**23** All the kings of the earth sought an audience with Solomon[^9-26] to hear the wisdom God had put in his heart.
+
+**24** Each of them brought his gift: articles of silver and articles of gold, garments, weapons[^9-27] and spices, horses and mules, so much year by year.
+
+**25** Solomon had four thousand stalls for horses and chariots, and twelve thousand horsemen,[^9-28] and he stationed them in the chariot cities and with the king in Jerusalem.[^9-29]
+
+**26** He ruled over all the kings from the River[^9-30] to the land of the Philistines, as far as the border of Egypt.
+
+**27** The king made silver as common in Jerusalem as stones, and he made cedar as plentiful as the sycamore-fig trees in the Shephelah.[^9-31]
+
+**28** Horses were imported for Solomon from Egypt and from all the lands.
+
+**29** As for the rest of the acts of Solomon,[^9-32] from first to last, are they not written in the records of Nathan the prophet,[^9-33] in the prophecy of Ahijah the Shilonite, and in the visions of Iddo[^9-34] the seer concerning Jeroboam son of Nebat?
+
+**30** Solomon reigned in Jerusalem over all Israel forty years.
+
+**31** Solomon slept with his ancestors[^9-35] and was buried in the City of David his father. And his son Rehoboam became king in his place.
+
+[^9-1]: A kingdom in southwest Arabia, in what is now Yemen. Verses 1–24 parallel 1 Kings 10:1–25.
+[^9-2]: Hebrew *chidot*, "riddles".
+[^9-3]: Literally "with her heart".
+[^9-4]: Literally "told her all her words".
+[^9-5]: Or "servants". Hebrew *avadim*. Also in verse 7.
+[^9-6]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles. Hebrew *aliyyato*, "his ascent". 1 Kings 10:5 has *olato*, "his burnt offerings".
+[^9-7]: Literally "there was no more spirit in her".
+[^9-8]: Or "your affairs". Hebrew *devarim* means both "words" and "matters".
+[^9-9]: 1 Kings 10:9 has "on the throne of Israel".
+[^9-10]: Literally "justice and righteousness".
+[^9-11]: A talent was about 75 pounds (34 kg), so 120 talents was about 9,000 pounds (4,100 kg).
+[^9-12]: Hiram king of Tyre (2:2). The Hebrew text is written "Hiram" but read "Huram".
+[^9-13]: Hebrew *algummim*, a costly wood that cannot be identified with certainty (2:7). 1 Kings 10:11–12 has *almuggim*. Also in verse 11.
+[^9-14]: Hebrew *mesillot*, "raised paths", perhaps steps or terraces. 1 Kings 10:12 has *mis'ad*, "supports".
+[^9-15]: 1 Kings 10:13 reads "besides what he gave her out of his royal generosity".
+[^9-16]: About 50,000 pounds (22,600 kg).
+[^9-17]: Literally "besides the men of the travelers and the merchants bringing". The meaning of "travelers" is uncertain.
+[^9-18]: Literally "six hundred of hammered gold". The word "shekels" is understood. A shekel was about ⅖ ounce (11.5 grams), so six hundred shekels was about 15 pounds (6.9 kg).
+[^9-19]: Literally "three hundred of gold", that is, shekels: about 7½ pounds (3.5 kg). 1 Kings 10:17 has "three minas", that is, 150 shekels.
+[^9-20]: Solomon's great hall, probably named for its many cedar pillars (1 Kings 7:2–5). Also in verse 20.
+[^9-21]: Hebrew *kevesh*, a word found only here, probably "footstool". 1 Kings 10:19 mentions instead a rounded top at the back of the throne.
+[^9-22]: Literally "on this side and on that". Also in verse 18.
+[^9-23]: Hebrew *zahav sagur*, perhaps "refined gold" or "solid gold".
+[^9-24]: A distant port in the west, perhaps in Spain. 1 Kings 10:22 has "a fleet of Tarshish ships", that is, large seagoing ships of the kind that sailed to Tarshish.
+[^9-25]: Or "peacocks". Hebrew *tukkiyyim*, of uncertain meaning.
+[^9-26]: Literally "sought the face of Solomon".
+[^9-27]: Hebrew *neshek*, "weapons". Some take it as a word meaning "myrrh".
+[^9-28]: Or "horses". Hebrew *parashim*.
+[^9-29]: 1 Kings 5:6 (English 4:26) has "forty thousand stalls". Verses 25–28 are close to 1:14–17 and 1 Kings 5:1, 6 (English 4:21, 26) and 10:26–29.
+[^9-30]: The Euphrates.
+[^9-31]: The low hills between the hill country of Judah and the coastal plain.
+[^9-32]: Verses 29–31 parallel 1 Kings 11:41–43.
+[^9-33]: Literally "the words of Nathan the prophet". These records have not survived.
+[^9-34]: Hebrew *Ye'do*, probably another form of the name Iddo (12:15; 13:22).
+[^9-35]: Literally "lay down with his fathers", a way of speaking of death.

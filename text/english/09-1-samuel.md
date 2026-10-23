@@ -2200,3 +2200,39 @@
 [^28-12]: Literally "he had not eaten bread".
 [^28-13]: Hebrew *shiphchah*, "female servant"; see 1:18. Also in verse 22.
 [^28-14]: Literally "I put my *nephesh* in my palm".
+
+## Chapter 29
+
+*Status: draft*
+
+**1** The Philistines gathered all their forces at Aphek, while Israel camped by the spring in Jezreel.
+
+**2** As the rulers of the Philistines were marching past by hundreds and by thousands, David and his men were marching at the rear with Achish.
+
+**3** The commanders of the Philistines asked, "What are these Hebrews doing here?" Achish said to the commanders of the Philistines, "Isn't this David, the servant of Saul king of Israel? He has been with me for some time now, days or even years,[^29-1] and from the day he deserted to me[^29-2] until today I have found nothing wrong with him."
+
+**4** But the commanders of the Philistines were angry with him, and the commanders of the Philistines said to him, "Send the man back, and let him return to the place you assigned him. He must not go down with us into battle, or he may turn into our adversary[^29-3] in the battle. How better could this fellow win back his master's favor than with the heads of our men here?[^29-4]
+
+**5** Isn't this the David they sang about in their dances: 'Saul has struck down his thousands, and David his tens of thousands'?"[^29-5]
+
+**6** So Achish called David and said to him, "As surely as Yahweh[^29-6] lives, you have been honest, and I would be glad to have you march out and in with me in the army.[^29-7] I have found nothing wrong with you from the day you came to me until today. But the rulers do not approve of you.
+
+**7** So now go back, and go in peace, so that you do not displease[^29-8] the rulers of the Philistines."
+
+**8** David said to Achish, "But what have I done? What have you found in your servant from the day I entered your service until today, that I should not go and fight against the enemies of my lord the king?"
+
+**9** Achish answered David, "I know that you are as good in my eyes as an angel of God. But the commanders of the Philistines have said, 'He must not go up with us into battle.'
+
+**10** So now get up early in the morning, you and your lord's servants who came with you.[^29-9] Get up early in the morning, and leave as soon as it is light."
+
+**11** So David and his men got up early in the morning to leave and go back to the land of the Philistines, while the Philistines went up to Jezreel.
+
+[^29-1]: Literally "these days or these years".
+[^29-2]: Literally "from the day of his falling", that is, his going over to me.
+[^29-3]: Hebrew *satan*, "adversary, opponent".
+[^29-4]: Literally "Is it not with the heads of those men?"
+[^29-5]: The Hebrew text is written "his ten thousand" but read "his tens of thousands". Compare 18:7 and 21:12 (English 21:11).
+[^29-6]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^29-7]: Literally "your going out and your coming in with me in the camp is good in my eyes".
+[^29-8]: Literally "do nothing evil in the eyes of".
+[^29-9]: The Septuagint adds "and go to the place where I stationed you. Do not let any evil thought enter your heart, for you are good in my sight."

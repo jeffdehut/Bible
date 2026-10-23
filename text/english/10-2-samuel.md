@@ -847,7 +847,7 @@
 
 *Status: draft*
 
-**1** Some time later this happened. Absalom son of David had a beautiful sister named Tamar, and Amnon son of David fell in love with her.
+**1** Some time after this, Absalom son of David had a beautiful sister named Tamar, and Amnon son of David fell in love with her.
 
 **2** Amnon was so tormented that he made himself ill over his sister Tamar, for she was a virgin, and it seemed impossible to Amnon to do anything to her.
 

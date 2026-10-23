@@ -1594,3 +1594,65 @@
 [^19-18]: Or "messenger". Hebrew *mal'akh* means both.
 [^19-19]: The words "his sons" are read but not written in the Hebrew text. They are written in Isaiah 37:38.
 [^19-20]: Urartu, a kingdom in what is now Armenia and eastern Turkey. Sennacherib was killed in 681 BC.
+
+## Chapter 20
+
+*Status: draft*
+
+**1** In those days Hezekiah became ill and was at the point of death. The prophet Isaiah son of Amoz came to him and said to him, "This is what Yahweh[^20-1] says: Give instructions to your household,[^20-2] for you are going to die. You will not recover."
+
+**2** Then Hezekiah turned his face to the wall and prayed to Yahweh,
+
+**3** "Please, Yahweh, remember how I have walked before you faithfully and with my whole heart, and have done what is good in your eyes." And Hezekiah wept bitterly.
+
+**4** Isaiah had not yet gone out of the middle courtyard[^20-3] when the word of Yahweh came to him:
+
+**5** "Go back and say to Hezekiah, the ruler[^20-4] of my people, 'This is what Yahweh, the God of your ancestor[^20-5] David, says: I have heard your prayer. I have seen your tears. I am going to heal you. On the third day you will go up to the house of Yahweh.
+
+**6** I will add fifteen years to your life. I will rescue you and this city from the power of the king of Assyria, and I will defend this city for my own sake and for the sake of my servant David.'"
+
+**7** Then Isaiah said, "Bring a cake of figs." They brought it and put it on the boil, and he recovered.[^20-6]
+
+**8** Hezekiah said to Isaiah, "What will be the sign that Yahweh will heal me and that I will go up to the house of Yahweh on the third day?"
+
+**9** Isaiah said, "This is the sign to you from Yahweh that Yahweh will do what he has promised: shall the shadow go forward ten steps, or shall it go back ten steps?"[^20-7]
+
+**10** Hezekiah said, "It is easy for the shadow to lengthen ten steps. No, let the shadow go back ten steps."
+
+**11** Then the prophet Isaiah called out to Yahweh, and Yahweh brought the shadow back ten steps, the steps it had gone down on the stairway of Ahaz.[^20-8]
+
+**12** At that time Berodach-baladan[^20-9] son of Baladan king of Babylon sent letters and a gift to Hezekiah, for he had heard that Hezekiah had been ill.
+
+**13** Hezekiah listened to the envoys[^20-10] and showed them his whole treasure house: the silver, the gold, the spices and the fine oil, his armory,[^20-11] and everything that was found in his treasuries. There was nothing in his palace or in all his realm that Hezekiah did not show them.
+
+**14** Then the prophet Isaiah came to King Hezekiah and said to him, "What did these men say? And where did they come to you from?" Hezekiah said, "They came from a distant land, from Babylon."
+
+**15** He asked, "What did they see in your palace?" Hezekiah said, "They saw everything in my palace. There is nothing in my treasuries that I did not show them."
+
+**16** Then Isaiah said to Hezekiah, "Hear the word of Yahweh.
+
+**17** The days are coming when everything in your palace, and all that your ancestors have stored up until this day, will be carried off to Babylon. Nothing will be left, says Yahweh.
+
+**18** And some of your sons, your own descendants whom you will father, will be taken away,[^20-12] and they will be officials[^20-13] in the palace of the king of Babylon."
+
+**19** Hezekiah said to Isaiah, "The word of Yahweh that you have spoken is good." For he said, "Is it not good, if there will be peace and security in my days?"[^20-14]
+
+**20** As for the rest of the acts of Hezekiah, all his mighty deeds, and how he made the pool and the conduit and brought water into the city,[^20-15] are they not written in the book of the annals of the kings of Judah?
+
+**21** Hezekiah slept with his ancestors, and his son Manasseh became king in his place.
+
+[^20-1]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles. "The house of Yahweh" is the temple. This chapter is also found in Isaiah 38:1–8, 21–22 and 39:1–8. Hezekiah's psalm in Isaiah 38:9–20 is not in Kings.
+[^20-2]: Literally "Command your house".
+[^20-3]: The Hebrew text is written "the middle city" but read "the middle courtyard".
+[^20-4]: Hebrew *nagid*, "leader, prince".
+[^20-5]: Literally "your father".
+[^20-6]: Verses 7–8 are found at the end of the account in Isaiah, in Isaiah 38:21–22.
+[^20-7]: Or "The shadow has gone forward ten steps. Shall it go back ten steps?" The "steps" were probably those of a stairway whose shadow marked the time of day.
+[^20-8]: Literally "on the steps of Ahaz". Isaiah 38:8 adds "the sun".
+[^20-9]: Called Merodach-baladan in Isaiah 39:1: Marduk-apla-iddina II, who ruled Babylon in 722–710 and again in 703 BC.
+[^20-10]: Literally "Hezekiah listened to them". Isaiah 39:2 reads "Hezekiah was glad because of them".
+[^20-11]: Literally "the house of his equipment".
+[^20-12]: The Hebrew text is written "he will take" but read "they will be taken".
+[^20-13]: Hebrew *sarisim*, court officials. The word can also mean eunuchs.
+[^20-14]: Literally "Is it not, if there will be peace and truth in my days?"
+[^20-15]: Probably the tunnel that still carries water from the Gihon spring to the Pool of Siloam in Jerusalem. An inscription found in it describes how it was cut.
