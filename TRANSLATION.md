@@ -37,11 +37,18 @@ word for word. We keep:
 Where the plain rendering states a meaning the words only imply, the literal wording goes in
 a note.
 
+**Notes on manuscripts cite our sources.** Variant readings in the New Testament are noted from
+the SBLGNT apparatus; in the Old Testament, from the ketiv/qere and notes in UXLC and the
+ancient versions where widely documented. A note never claims manuscript evidence the
+sources here do not record.
+
 **No interpretation beyond the text.** We don't harmonize passages, resolve doctrinal
 questions, or add explanatory words to the text itself. Explanations go in notes.
 
 **Consistency.** Key terms are translated the same way throughout unless context requires
 otherwise, and each such case is noted. The glossary below records the decisions.
+
+**Cross-references in notes** use the same numbering as this repository's texts: Hebrew numbering in the Old Testament, with the English number added where it differs.
 
 **Verse numbers follow the source.** In the Old Testament this is the Hebrew numbering, so
 Psalm titles are verse 1 and some chapters are divided differently from English Bibles. The
