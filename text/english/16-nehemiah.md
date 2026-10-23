@@ -100,3 +100,115 @@
 [^2-14]: Hebrew *chorim*, literally "free men": the leading families.
 [^2-15]: Literally "for the good".
 [^2-16]: Hebrew *tsedaqah*, "righteousness", here a legal right. Their "memorial" would be a place in the city's memory.
+
+## Chapter 3
+
+*Status: draft*
+
+**1** Then Eliashib the high priest and his fellow priests set to work and built the Sheep Gate.[^3-1] They consecrated it and set up its doors. They consecrated it as far as the Tower of the Hundred, as far as the Tower of Hananel.
+
+**2** Next to him[^3-2] the men of Jericho built, and next to him Zaccur son of Imri built.
+
+**3** The descendants of Hassenaah[^3-3] built the Fish Gate. They laid its beams and set up its doors, its bolts and its bars.
+
+**4** Next to them Meremoth son of Uriah, son of Hakkoz, made repairs.[^3-4] Next to them Meshullam son of Berechiah, son of Meshezabel, made repairs. Next to them Zadok son of Baana made repairs.
+
+**5** Next to them the men of Tekoa made repairs, but their nobles would not put their necks to the work of their lords.[^3-5]
+
+**6** Joiada son of Paseah and Meshullam son of Besodeiah repaired the Old Gate.[^3-6] They laid its beams and set up its doors, its bolts and its bars.
+
+**7** Next to them Melatiah the Gibeonite and Jadon the Meronothite, the men of Gibeon and Mizpah, made repairs, for the seat of the governor of the province Beyond the River.[^3-7]
+
+**8** Next to him Uzziel son of Harhaiah, one of the goldsmiths,[^3-8] made repairs. Next to him Hananiah, one of the perfumers,[^3-9] made repairs. They restored[^3-10] Jerusalem as far as the Broad Wall.
+
+**9** Next to them Rephaiah son of Hur, ruler of half the district[^3-11] of Jerusalem, made repairs.
+
+**10** Next to them Jedaiah son of Harumaph made repairs opposite his house. Next to him Hattush son of Hashabneiah made repairs.
+
+**11** Malchijah son of Harim and Hasshub son of Pahath-moab repaired another section and the Tower of the Ovens.
+
+**12** Next to him Shallum son of Hallohesh, ruler of half the district of Jerusalem, made repairs, he and his daughters.
+
+**13** Hanun and the inhabitants of Zanoah repaired the Valley Gate. They rebuilt it and set up its doors, its bolts and its bars, and they repaired a thousand cubits[^3-12] of the wall, as far as the Dung Gate.
+
+**14** Malchijah son of Rechab, ruler of the district of Beth-haccherem, repaired the Dung Gate. He rebuilt it and set up its doors, its bolts and its bars.
+
+**15** Shallun son of Col-hozeh, ruler of the district of Mizpah, repaired the Fountain Gate. He rebuilt it, roofed it, and set up[^3-13] its doors, its bolts and its bars. He also repaired the wall of the Pool of Shelah[^3-14] by the king's garden, as far as the steps that go down from the City of David.
+
+**16** After him Nehemiah son of Azbuk, ruler of half the district of Beth-zur, made repairs as far as a point opposite the tombs of David, as far as the artificial pool[^3-15] and the House of the Warriors.[^3-16]
+
+**17** After him the Levites made repairs: Rehum son of Bani. Next to him Hashabiah, ruler of half the district of Keilah, made repairs for his district.
+
+**18** After him their kinsmen made repairs: Bavvai son of Henadad,[^3-17] ruler of half the district of Keilah.
+
+**19** Next to him Ezer son of Jeshua, ruler of Mizpah, repaired another section, opposite the ascent to the armory at the angle.[^3-18]
+
+**20** After him Baruch son of Zaccai[^3-19] eagerly[^3-20] repaired another section, from the angle to the door of the house of Eliashib the high priest.
+
+**21** After him Meremoth son of Uriah, son of Hakkoz, repaired another section, from the door of Eliashib's house to the end of Eliashib's house.
+
+**22** After him the priests, the men of the surrounding region,[^3-21] made repairs.
+
+**23** After him Benjamin and Hasshub made repairs opposite their house. After him Azariah son of Maaseiah, son of Ananiah, made repairs beside his house.
+
+**24** After him Binnui son of Henadad repaired another section, from the house of Azariah to the angle and to the corner.
+
+**25** Palal son of Uzai made repairs opposite the angle and the tower that projects from the upper house of the king, at the court of the guard.[^3-22] After him Pedaiah son of Parosh made repairs.
+
+**26** The temple servants were living on the Ophel,[^3-23] as far as a point opposite the Water Gate on the east and the projecting tower.[^3-24]
+
+**27** After him the men of Tekoa repaired another section, from opposite the great projecting tower as far as the wall of the Ophel.
+
+**28** Above the Horse Gate the priests made repairs, each one opposite his own house.
+
+**29** After them Zadok son of Immer made repairs opposite his house. After him Shemaiah son of Shecaniah, the keeper of the East Gate, made repairs.
+
+**30** After him[^3-25] Hananiah son of Shelemiah and Hanun, the sixth son of Zalaph, repaired another section. After him Meshullam son of Berechiah made repairs opposite his room.
+
+**31** After him Malchijah, one of the goldsmiths, made repairs as far as the house of the temple servants and the merchants, opposite the Muster Gate,[^3-26] and as far as the upper room at the corner.
+
+**32** And between the upper room at the corner and the Sheep Gate the goldsmiths and the merchants made repairs.
+
+**33** When Sanballat heard that we were building the wall, he was angry and greatly enraged, and he mocked the Jews.[^3-27]
+
+**34** He said in the presence of his associates[^3-28] and the army of Samaria, "What are these feeble Jews doing? Will they restore it for themselves?[^3-29] Will they offer sacrifices? Will they finish it in a day? Will they bring the stones back to life out of the heaps of rubble, burned as they are?"
+
+**35** Tobiah the Ammonite was beside him, and he said, "Even what they are building, if a fox went up on it, it would break down their stone wall!"
+
+**36** Hear us, our God, for we are despised. Turn their insults back on their own heads, and give them up to be plundered in a land where they are captives.
+
+**37** Do not cover their guilt, and do not let their sin be wiped out from before you, for they have provoked you to anger in front of the builders.[^3-30]
+
+**38** So we built the wall, and the whole wall was joined together up to half its height,[^3-31] for the people had a heart to work.
+
+[^3-1]: The account seems to go around the wall counterclockwise, starting from the Sheep Gate north of the temple and returning to it in verse 32.
+[^3-2]: Literally "at his hand"; so also "next to them", "at their hand", throughout the chapter.
+[^3-3]: Compare "the people of Senaah" in Ezra 2:35 and Nehemiah 7:38.
+[^3-4]: Literally "strengthened". This verb is used for the repairs throughout the chapter. Meremoth is named in Ezra 8:33 and again in verse 21.
+[^3-5]: Or "of their Lord". The Hebrew word is plural in form and can refer to God, or to Nehemiah and the other leaders.
+[^3-6]: Or "the Jeshanah Gate". Literally "the gate of the old".
+[^3-7]: The meaning is uncertain. Perhaps "who were under the authority of the governor", or "as far as the residence of the governor".
+[^3-8]: Literally "goldsmiths". Also in verses 31–32.
+[^3-9]: Literally "the son of the perfumers", that is, a member of their guild.
+[^3-10]: The meaning of the Hebrew verb is uncertain. It may mean "restored" or "left (as it was)".
+[^3-11]: Hebrew *pelekh*, a district or administrative region. Also in verses 12 and 14–18.
+[^3-12]: A cubit was about 18 inches (45 cm), so a thousand cubits was about 1,500 feet (450 meters).
+[^3-13]: The Hebrew text is written "they set up" but read "he set up".
+[^3-14]: Or "the Pool of Siloam" (compare Isaiah 8:6; John 9:7).
+[^3-15]: Literally "the pool that was made".
+[^3-16]: Hebrew *beit ha-gibborim*, perhaps barracks for soldiers.
+[^3-17]: Verse 24 has Binnui son of Henadad.
+[^3-18]: Hebrew *miqtsoa*, a corner or angle in the wall. Also in verses 20 and 24–25.
+[^3-19]: The Hebrew text is written "Zabbai" but read "Zaccai".
+[^3-20]: The meaning of Hebrew *hecherah* is uncertain. It may mean "with zeal".
+[^3-21]: Hebrew *ha-kikkar*, "the circle": the region around Jerusalem, or the Jordan valley.
+[^3-22]: The Hebrew of verses 25–26 has no verb for Palal and Pedaiah; "made repairs" is supplied from the context.
+[^3-23]: The hill on the east side of the city between the City of David and the temple.
+[^3-24]: This seems to describe the section that Pedaiah repaired.
+[^3-25]: The Hebrew text is written "After me" but read "After him". Also at the beginning of verse 31.
+[^3-26]: Hebrew *sha'ar ha-mifqad*, perhaps "the Inspection Gate" or "the Gate of the Appointed Place".
+[^3-27]: Verses 33–38 are 4:1–6 in most English Bibles.
+[^3-28]: Literally "his brothers".
+[^3-29]: The meaning of the Hebrew is uncertain. Literally "Will they leave to themselves?"
+[^3-30]: Or "for they have insulted the builders to their faces".
+[^3-31]: Literally "up to its half".

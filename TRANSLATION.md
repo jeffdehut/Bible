@@ -61,7 +61,7 @@ Decisions marked **proposed** are used in the pilot and are open for review.
 | Source | Rendering | Notes |
 |---|---|---|
 | יהוה (YHWH, the divine name) | **Yahweh** | God's personal name, in its probable pronunciation. Most English Bibles write "the LORD"; a note says so at the name's first occurrence in each chapter where it appears. In the New Testament, Greek *kyrios* is "the Lord", with a note where it quotes a passage using the name. |
-| אֱלֹהִים (Elohim), θεός | God | |
+| אֱלֹהִים (Elohim), אֱלוֹהַּ (Eloah), אֵל (El), θεός | God | A note on the poetic *Eloah* (common in Job) is optional, at most once per chapter. |
 | אָדָם (adam), when it means humanity | humankind / human beings | When it refers to the man Adam, *Adam*. |
 | נֶפֶשׁ (nephesh) | life, self, soul, living being, by context | Not automatically "soul". |
 | חֶסֶד (chesed) | faithful love | Loyal, covenant love. Noted where it matters. |
@@ -182,6 +182,11 @@ from the Hebrew.
   say just "some manuscripts" in the Old Testament. Every note citing an ancient version is
   verified against a critical apparatus (BHS/BHQ, Göttingen or Rahlfs Septuagint) at the
   *checked* stage.
+- Conjectural emendations (changes to the Hebrew proposed by scholars, with no manuscript
+  behind them) may be given only where the Hebrew is very difficult, and always worded so they
+  can't be mistaken for manuscript evidence: "Some scholars read *gal*, 'a heap', with a small
+  change to the Hebrew." A ketiv that differs only in person or number, with no change to the
+  English, is not noted.
 - A ketiv/qere that changes the form of a name (Janim/Janum) is noted; one that only changes
   word order is noted only if the English would differ. Where the Septuagint arranges a whole
   passage differently (as in 1 Kings 20–21, Jeremiah, Proverbs 24–31), one note at the start of

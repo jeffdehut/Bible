@@ -1051,7 +1051,7 @@
 
 **2** He stationed troops in all the fortified cities of Judah and placed garrisons[^17-1] in the land of Judah and in the cities of Ephraim that his father Asa had captured.
 
-**3** Yahweh[^17-2] was with Jehoshaphat, because he walked in the earlier ways of his father David.[^17-3] He did not seek the Baals,[^17-4]
+**3** Yahweh[^17-2] was with Jehoshaphat, because he walked in the earlier ways of his ancestor David.[^17-3] He did not seek the Baals,[^17-4]
 
 **4** but sought the God of his father and walked in his commands, and not according to the practices of Israel.
 
@@ -1184,3 +1184,38 @@
 [^18-14]: Literally "between the joints and the scale armor".
 [^18-15]: Literally "Turn your hand", that is, turn the chariot. The Hebrew text is written "your hands" but read "your hand".
 [^18-16]: Literally "out of the camp".
+
+## Chapter 19
+
+*Status: draft*
+
+**1** Jehoshaphat king of Judah returned safely to his house in Jerusalem.
+
+**2** Jehu son of Hanani the seer went out to meet him and said to King Jehoshaphat, "Should you help the wicked and love those who hate Yahweh?[^19-1] Because of this, wrath from Yahweh is on you.
+
+**3** Nevertheless, some good is found in you, for you have removed the Asherah poles[^19-2] from the land and have set your heart on seeking God."
+
+**4** Jehoshaphat lived in Jerusalem. Then he went out again among the people, from Beersheba to the hill country of Ephraim, and brought them back to Yahweh, the God of their ancestors.
+
+**5** He appointed judges in the land, in all the fortified cities of Judah, city by city.
+
+**6** He said to the judges, "Consider what you are doing, for you do not judge for human beings but for Yahweh. He is with you when you give judgment.[^19-3]
+
+**7** Now let the fear of Yahweh be on you. Be careful what you do, for with Yahweh our God there is no injustice, no partiality[^19-4] and no taking of bribes."
+
+**8** In Jerusalem, too, Jehoshaphat appointed some of the Levites and the priests and of the heads of the ancestral families[^19-5] of Israel, to give judgment for Yahweh and to settle disputes. Then they returned to Jerusalem.[^19-6]
+
+**9** He commanded them: "This is how you must act: in the fear of Yahweh, faithfully and with a whole heart.
+
+**10** In every dispute that comes to you from your brothers who live in their cities, whether it concerns bloodshed[^19-7] or law and command, decrees and rulings, you must warn them so that they do not incur guilt before Yahweh, and wrath come on you and on your brothers. Do this, and you will not incur guilt.
+
+**11** Look, Amariah the chief priest is over you in every matter of Yahweh, and Zebadiah son of Ishmael, the leader of the house of Judah, in every matter of the king. The Levites will serve you as officials.[^19-8] Be strong and act, and may Yahweh be with those who do good."
+
+[^19-1]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^19-2]: Hebrew *asherot*, plural of *Asherah*: wooden poles or trees that were symbols of the goddess Asherah.
+[^19-3]: Literally "and with you in the matter of judgment".
+[^19-4]: Literally "lifting of faces", that is, favoring one person over another.
+[^19-5]: Literally "the heads of the fathers".
+[^19-6]: The meaning is uncertain. Perhaps the judges lived in Jerusalem, or Jehoshaphat and his officials returned there after their tour of the land (verse 4).
+[^19-7]: Literally "between blood and blood", that is, cases involving bloodshed (Deuteronomy 17:8).
+[^19-8]: Hebrew *shoterim*: officers who kept records and helped the leaders carry out their decisions.
