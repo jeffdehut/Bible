@@ -543,7 +543,7 @@
 
 **3** David also defeated Hadadezer son of Rehob, king of Zobah, when he went to restore his control[^8-3] at the River Euphrates.[^8-4]
 
-**4** David captured from him 1,700 horsemen[^8-5] and twenty thousand foot soldiers. David hamstrung all the chariot horses, but he kept back a hundred of them for chariots.
+**4** David captured from him 1,700 horsemen[^8-5] and 20,000 foot soldiers. David hamstrung all the chariot horses, but he kept back a hundred of them for chariots.
 
 **5** When the Arameans of Damascus came to help Hadadezer king of Zobah, David struck down twenty-two thousand of the Arameans.
 
@@ -1127,3 +1127,149 @@
 [^15-14]: The Hebrew text is written "at the fords" but read "at the plains".
 [^15-15]: Literally "And David told, saying". The sense is probably "David was told".
 [^15-16]: Perhaps a title: "the King's Friend", a close adviser (16:16; 1 Kings 4:5).
+
+## Chapter 16
+
+*Status: draft*
+
+**1** When David had gone a little beyond the summit, there was Ziba, Mephibosheth's servant, coming to meet him with a pair of saddled donkeys. On them were two hundred loaves of bread, a hundred clusters of raisins, a hundred summer fruits[^16-1] and a skin of wine.
+
+**2** The king said to Ziba, "What do you mean by these?" Ziba said, "The donkeys are for the king's household to ride, the bread and summer fruit for the young men to eat, and the wine for those who become exhausted in the wilderness to drink."
+
+**3** The king said, "And where is your master's grandson?"[^16-2] Ziba said to the king, "He is staying in Jerusalem, for he said, 'Today the house of Israel will give me back my grandfather's[^16-3] kingdom.'"
+
+**4** The king said to Ziba, "All that belonged to Mephibosheth is now yours." Ziba said, "I bow down. May I find favor in your eyes, my lord the king."
+
+**5** When King David came to Bahurim, a man from the clan of Saul's house came out from there. His name was Shimei son of Gera, and he came out cursing as he went.
+
+**6** He threw stones at David and at all King David's servants, though all the troops and all the warriors were on his right and on his left.
+
+**7** This is what Shimei said as he cursed: "Get out, get out, you man of blood, you scoundrel![^16-4]
+
+**8** Yahweh[^16-5] has paid you back for all the blood of the house of Saul, in whose place you have reigned, and Yahweh has handed the kingdom over to your son Absalom. Look at you now, in your own disaster, because you are a man of blood!"
+
+**9** Abishai son of Zeruiah said to the king, "Why should this dead dog curse my lord the king? Let me go over and cut off his head."
+
+**10** But the king said, "What do I have to do with you, you sons of Zeruiah? Let him curse, for Yahweh has told him, 'Curse David.'[^16-6] Who then can say, 'Why have you done this?'"
+
+**11** David said to Abishai and to all his servants, "Look, my own son, who came from my own body, is seeking my life. How much more now this Benjaminite! Leave him alone, and let him curse, for Yahweh has told him to.
+
+**12** Perhaps Yahweh will look on my tears,[^16-7] and Yahweh will repay me with good for his cursing today."
+
+**13** So David and his men went on their way, while Shimei went along the hillside opposite him, cursing as he went, throwing stones at him and flinging dust.
+
+**14** The king and all the people who were with him arrived exhausted,[^16-8] and he refreshed himself there.
+
+**15** Meanwhile Absalom and all the people, the men of Israel, came to Jerusalem, and Ahithophel was with him.
+
+**16** When Hushai the Archite, David's friend,[^16-9] came to Absalom, Hushai said to Absalom, "Long live the king! Long live the king!"
+
+**17** Absalom said to Hushai, "Is this your loyalty[^16-10] to your friend? Why didn't you go with your friend?"
+
+**18** Hushai said to Absalom, "No. The one whom Yahweh and this people and all the men of Israel have chosen, his I will be,[^16-11] and with him I will stay.
+
+**19** Besides, whom should I serve? Should it not be his son? As I served your father, so I will serve you."[^16-12]
+
+**20** Then Absalom said to Ahithophel, "Give your advice.[^16-13] What should we do?"
+
+**21** Ahithophel said to Absalom, "Sleep with[^16-14] your father's concubines, whom he left to look after the house. Then all Israel will hear that you have made yourself a stench to your father, and all who are with you will be encouraged."[^16-15]
+
+**22** So they pitched the tent for Absalom on the roof, and Absalom slept with his father's concubines in the sight of all Israel.
+
+**23** In those days the advice Ahithophel gave was like that of someone who inquires of the word of God. That is how all the advice of Ahithophel was regarded, both by David and by Absalom.
+
+[^16-1]: Hebrew *qayits*, "summer fruit", probably figs or cakes of figs. Also in verse 2.
+[^16-2]: Literally "your master's son", that is, Mephibosheth, the grandson of Saul.
+[^16-3]: Literally "my father's".
+[^16-4]: Literally "man of *beliyya'al*", "man of worthlessness".
+[^16-5]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^16-6]: The Hebrew text is written "If he curses, and if Yahweh has told him, 'Curse David' …" but read "So let him curse, for Yahweh has told him, 'Curse David.'"
+[^16-7]: Literally "on my eye", as the Hebrew is read, perhaps meaning "my tears". It is written "on my guilt" or "on my affliction". The Septuagint and the Vulgate read "on my affliction".
+[^16-8]: The Hebrew does not name the place, though it goes on to say "there". Some manuscripts of the Septuagint add "at the Jordan" (compare 17:22).
+[^16-9]: See 15:37.
+[^16-10]: Hebrew *chesed*: loyal, faithful love.
+[^16-11]: The Hebrew text is written "not" but read "his". In Hebrew the two words sound the same (*lo*).
+[^16-12]: Literally "so I will be before you".
+[^16-13]: The Hebrew verb is plural, addressed to Ahithophel and the other counselors.
+[^16-14]: Literally "Go in to", a Hebrew way of speaking of sexual relations. Also in verse 22. Taking a king's concubines was a claim to his throne (compare 3:7; 12:11).
+[^16-15]: Literally "the hands of all who are with you will be strong".
+
+## Chapter 17
+
+*Status: draft*
+
+**1** Ahithophel said to Absalom, "Let me choose twelve thousand men, and I will set out and pursue David tonight.
+
+**2** I will come upon him while he is weary and discouraged.[^17-1] I will throw him into panic, and all the people who are with him will flee. I will strike down only the king,
+
+**3** and I will bring all the people back to you. The return of everyone depends on the man you are seeking.[^17-2] Then all the people will be at peace."
+
+**4** The advice seemed right to Absalom and to all the elders of Israel.
+
+**5** Then Absalom said, "Call Hushai the Archite too, and let us hear what he has to say as well."
+
+**6** When Hushai came to Absalom, Absalom said to him, "This is what Ahithophel has said. Should we do what he says? If not, you speak."
+
+**7** Hushai said to Absalom, "This time the advice Ahithophel has given is not good."
+
+**8** Hushai went on, "You know your father and his men, that they are warriors, and that they are enraged,[^17-3] like a bear robbed of her cubs in the wild. Your father is an experienced soldier,[^17-4] and he will not spend the night with the troops.
+
+**9** Even now he is hidden in one of the caves or in some other place. If some of the troops fall at the start,[^17-5] whoever hears of it will say, 'There has been a slaughter among the troops who follow Absalom.'
+
+**10** Then even the bravest man, whose heart is like the heart of a lion, will utterly lose heart.[^17-6] For all Israel knows that your father is a warrior, and that those who are with him are brave men.
+
+**11** So this is my advice: Let all Israel be gathered to you, from Dan to Beersheba, as many as the sand by the sea, and you yourself go into battle.[^17-7]
+
+**12** Then we will come upon him in whatever place he may be found, and we will fall on him as the dew falls on the ground. Not one will be left, neither he nor any of the men who are with him.
+
+**13** If he withdraws into a city, then all Israel will bring ropes to that city, and we will drag it down into the valley until not even a pebble is found there."
+
+**14** Absalom and all the men of Israel said, "The advice of Hushai the Archite is better than the advice of Ahithophel." For Yahweh[^17-8] had ordained that the good advice of Ahithophel should be defeated, so that Yahweh might bring disaster on Absalom.
+
+**15** Then Hushai said to Zadok and Abiathar the priests, "This and this is what Ahithophel advised Absalom and the elders of Israel, and this and this is what I advised.
+
+**16** Now send quickly and tell David, 'Do not spend the night at the plains of the wilderness, but be sure to cross over, or the king and all the people who are with him will be swallowed up.'"[^17-9]
+
+**17** Jonathan and Ahimaaz were waiting at En-rogel. A servant girl would go and tell them, and they would go and tell King David, for they could not risk being seen coming into the city.
+
+**18** But a young man saw them and told Absalom. So the two of them left quickly and came to the house of a man in Bahurim who had a well in his courtyard, and they went down into it.
+
+**19** The man's wife took a covering, spread it over the mouth of the well and scattered grain[^17-10] on it, so that nothing was known.
+
+**20** When Absalom's servants came to the woman at the house, they said, "Where are Ahimaaz and Jonathan?" The woman said to them, "They crossed over the stream of water."[^17-11] They searched but did not find them, so they went back to Jerusalem.
+
+**21** After they had gone, the men came up out of the well and went and told King David. They said to David, "Get up and cross the water quickly, for this is what Ahithophel has advised against you."
+
+**22** So David and all the people who were with him got up and crossed the Jordan. By daybreak not one was left who had not crossed the Jordan.
+
+**23** When Ahithophel saw that his advice had not been followed, he saddled his donkey and set out, and he went home to his own town. He gave instructions to his household[^17-12] and hanged himself. So he died and was buried in his father's tomb.
+
+**24** David came to Mahanaim, and Absalom crossed the Jordan, he and all the men of Israel with him.
+
+**25** Absalom had put Amasa over the army in place of Joab. Amasa was the son of a man named Ithra the Israelite,[^17-13] who had slept with[^17-14] Abigail daughter of Nahash, the sister of Zeruiah, Joab's mother.[^17-15]
+
+**26** Israel and Absalom camped in the land of Gilead.
+
+**27** When David came to Mahanaim, Shobi son of Nahash from Rabbah of the Ammonites, Machir son of Ammiel from Lo-debar, and Barzillai the Gileadite from Rogelim
+
+**28** brought beds, basins and pottery, wheat, barley, flour, roasted grain, beans, lentils and roasted grain,[^17-16]
+
+**29** honey, curds, sheep, and cheese from the herd,[^17-17] for David and the people who were with him to eat. For they said, "The people are hungry and exhausted and thirsty in the wilderness."
+
+[^17-1]: Literally "weary and weak of hands".
+[^17-2]: The Hebrew is difficult. Literally "like the return of the whole is the man whom you are seeking". The Septuagint reads "as a bride returns to her husband. You seek the life of only one man".
+[^17-3]: Literally "bitter of *nephesh*".
+[^17-4]: Literally "a man of war".
+[^17-5]: Or "when he falls on them at the start".
+[^17-6]: Literally "will surely melt".
+[^17-7]: Literally "and your face going into the battle".
+[^17-8]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^17-9]: Literally "lest it be swallowed up for the king".
+[^17-10]: Hebrew *ripot*, perhaps crushed grain. The meaning is uncertain.
+[^17-11]: Hebrew *mikhal ha-mayim*, a phrase found only here. The meaning is uncertain.
+[^17-12]: Or "He set his house in order".
+[^17-13]: 1 Chronicles 2:17 has "Jether the Ishmaelite".
+[^17-14]: Literally "had gone in to", a Hebrew way of speaking of sexual relations.
+[^17-15]: According to 1 Chronicles 2:13–17, Abigail and Zeruiah were sisters of David, daughters of Jesse.
+[^17-16]: The Hebrew repeats "roasted grain".
+[^17-17]: Hebrew *shephot baqar*, a phrase of uncertain meaning, perhaps "cheese from cows".

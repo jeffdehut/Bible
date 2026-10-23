@@ -289,3 +289,196 @@
 [^2-29]: The meaning of the Hebrew is uncertain. *Haroeh* means "the seer"; compare Reaiah son of Shobal in 4:2. The Menuhoth may be the Manahathites of verse 54.
 [^2-30]: Or "the Sopherites", a clan name. Hebrew *sopherim*, "scribes".
 [^2-31]: That is, the ancestor of the Rechabites (Jeremiah 35).
+
+## Chapter 3
+
+*Status: draft*
+
+**1** These were the sons of David who were born to him in Hebron.[^3-1] The firstborn was Amnon, by Ahinoam of Jezreel. The second was Daniel,[^3-2] by Abigail of Carmel.
+
+**2** The third was Absalom son of Maacah, the daughter of Talmai king of Geshur. The fourth was Adonijah son of Haggith.
+
+**3** The fifth was Shephatiah, by Abital. The sixth was Ithream, by his wife Eglah.
+
+**4** Six were born to him in Hebron. He reigned there for seven years and six months, and in Jerusalem he reigned for thirty-three years.
+
+**5** These were born to him in Jerusalem:[^3-3] Shimea,[^3-4] Shobab, Nathan and Solomon, four by Bathshua daughter of Ammiel,[^3-5]
+
+**6** and Ibhar, Elishama,[^3-6] Eliphelet,
+
+**7** Nogah, Nepheg, Japhia,
+
+**8** Elishama, Eliada and Eliphelet, nine.
+
+**9** All these were David's sons, besides the sons of his concubines.[^3-7] And Tamar was their sister.
+
+**10** Solomon's son was Rehoboam,[^3-8] Abijah[^3-9] his son, Asa his son, Jehoshaphat his son,
+
+**11** Joram his son, Ahaziah his son, Joash his son,
+
+**12** Amaziah his son, Azariah[^3-10] his son, Jotham his son,
+
+**13** Ahaz his son, Hezekiah his son, Manasseh his son,
+
+**14** Amon his son, Josiah his son.
+
+**15** The sons of Josiah: the firstborn Johanan, the second Jehoiakim, the third Zedekiah, the fourth Shallum.[^3-11]
+
+**16** The descendants of Jehoiakim: Jeconiah[^3-12] his son, Zedekiah his son.[^3-13]
+
+**17** The sons of Jeconiah the captive:[^3-14] Shealtiel his son,
+
+**18** Malchiram, Pedaiah, Shenazzar, Jekamiah, Hoshama and Nedabiah.
+
+**19** The sons of Pedaiah: Zerubbabel[^3-15] and Shimei. The sons[^3-16] of Zerubbabel: Meshullam and Hananiah, and Shelomith was their sister,
+
+**20** and Hashubah, Ohel, Berechiah, Hasadiah and Jushab-hesed, five.
+
+**21** The sons of Hananiah: Pelatiah and Jeshaiah, the sons of Rephaiah, the sons of Arnan, the sons of Obadiah, the sons of Shecaniah.[^3-17]
+
+**22** The son[^3-18] of Shecaniah: Shemaiah. The sons of Shemaiah: Hattush, Igal, Bariah, Neariah and Shaphat, six.[^3-19]
+
+**23** The sons of Neariah: Elioenai, Hizkiah and Azrikam, three.
+
+**24** The sons of Elioenai: Hodaviah, Eliashib, Pelaiah, Akkub, Johanan, Delaiah and Anani, seven.
+
+[^3-1]: Verses 1–4 parallel 2 Samuel 3:2–5 and 5:5.
+[^3-2]: 2 Samuel 3:3 has Chileab.
+[^3-3]: Verses 5–8 parallel 2 Samuel 5:14–16; compare 14:4–7.
+[^3-4]: 2 Samuel 5:14 has Shammua.
+[^3-5]: Called Bathsheba daughter of Eliam in 2 Samuel 11:3.
+[^3-6]: 2 Samuel 5:15 has Elishua. 2 Samuel 5:15–16 does not list the first Eliphelet or Nogah (verse 7); compare 14:5–6.
+[^3-7]: Hebrew *pilagshim*, wives of lower status than principal wives.
+[^3-8]: Verses 10–16 list the kings of Judah, as in 1 and 2 Kings.
+[^3-9]: Called Abijam in 1 Kings 14:31–15:8.
+[^3-10]: Also called Uzziah (2 Kings 15:13; 2 Chronicles 26:1).
+[^3-11]: Shallum is Jehoahaz, who reigned after Josiah (2 Kings 23:30–31; Jeremiah 22:11).
+[^3-12]: Also called Jehoiachin (2 Kings 24:6).
+[^3-13]: In 2 Kings 24:17 the Zedekiah who reigned after Jehoiachin is his uncle, a son of Josiah (verse 15).
+[^3-14]: Or "The sons of Jeconiah: Assir, Shealtiel his son". Hebrew *assir* means "captive".
+[^3-15]: Elsewhere Zerubbabel is called the son of Shealtiel (Ezra 3:2; Haggai 1:1).
+[^3-16]: Literally "son"; also in verses 21 and 23.
+[^3-17]: The meaning of the Hebrew is uncertain. The Septuagint reads "Jeshaiah his son, Rephaiah his son, Arnan his son, Obadiah his son, Shecaniah his son".
+[^3-18]: Literally "sons".
+[^3-19]: Only five names are given.
+
+## Chapter 4
+
+*Status: draft*
+
+**1** The sons[^4-1] of Judah: Perez, Hezron, Carmi, Hur and Shobal.
+
+**2** Reaiah son of Shobal fathered Jahath, and Jahath fathered Ahumai and Lahad. These were the clans of the Zorathites.
+
+**3** These were the descendants of the father of Etam:[^4-2] Jezreel, Ishma and Idbash. The name of their sister was Hazzelelponi.
+
+**4** Penuel was the father of Gedor, and Ezer the father of Hushah. These were the sons of Hur, the firstborn of Ephrathah, the father of Bethlehem.[^4-3]
+
+**5** Ashhur the father of Tekoa had two wives, Helah and Naarah.
+
+**6** Naarah bore him Ahuzzam, Hepher, Temeni and Haahashtari. These were the sons of Naarah.
+
+**7** The sons of Helah: Zereth, Zohar[^4-4] and Ethnan.
+
+**8** Koz fathered Anub and Zobebah, and the clans of Aharhel son of Harum.
+
+**9** Jabez was more honored than his brothers. His mother had named him Jabez,[^4-5] saying, "Because I bore him in pain."
+
+**10** Jabez called on the God of Israel, saying, "Oh, that you would bless me[^4-6] and enlarge my territory! May your hand be with me, and keep me from harm, so that it may not bring me pain."[^4-7] And God granted what he asked.
+
+**11** Chelub, Shuhah's brother, fathered Mehir, who was the father of Eshton.
+
+**12** Eshton fathered Beth-rapha, Paseah, and Tehinnah the father of Ir-nahash. These were the men of Recah.
+
+**13** The sons of Kenaz: Othniel[^4-8] and Seraiah. The son[^4-9] of Othniel: Hathath.
+
+**14** Meonothai fathered Ophrah, and Seraiah fathered Joab the father of Ge-harashim,[^4-10] so called because they were craftsmen.
+
+**15** The sons of Caleb son of Jephunneh: Iru, Elah and Naam. The son of Elah: Kenaz.[^4-11]
+
+**16** The sons of Jehallelel: Ziph, Ziphah, Tiria and Asarel.
+
+**17** The sons[^4-12] of Ezrah: Jether, Mered, Epher and Jalon. She conceived[^4-13] Miriam, Shammai, and Ishbah the father of Eshtemoa.
+
+**18** His Judean wife[^4-14] bore Jered the father of Gedor, Heber the father of Soco, and Jekuthiel the father of Zanoah. These were the sons of Bithiah, Pharaoh's daughter, whom Mered had married.
+
+**19** The sons of the wife of Hodiah, the sister of Naham: the father of Keilah the Garmite, and Eshtemoa the Maacathite.
+
+**20** The sons of Shimon: Amnon, Rinnah, Ben-hanan and Tilon.[^4-15] The sons of Ishi: Zoheth and Ben-zoheth.[^4-16]
+
+**21** The sons of Shelah son of Judah: Er the father of Lecah, Laadah the father of Mareshah, and the clans of the house of linen workers[^4-17] at Beth-ashbea,
+
+**22** and Jokim, the men of Cozeba, and Joash and Saraph, who ruled in Moab, and Jashubi-lehem.[^4-18] These records are ancient.[^4-19]
+
+**23** They were the potters and the inhabitants of Netaim and Gederah.[^4-20] They lived there with the king, in his service.
+
+**24** The sons of Simeon: Nemuel, Jamin, Jarib, Zerah and Shaul.[^4-21]
+
+**25** Shallum his son, Mibsam his son, Mishma his son.
+
+**26** The descendants of Mishma: Hammuel his son, Zaccur his son, Shimei his son.
+
+**27** Shimei had sixteen sons and six daughters, but his brothers did not have many children, and their whole clan did not become as numerous as the people of Judah.
+
+**28** They lived in Beersheba,[^4-22] Moladah, Hazar-shual,
+
+**29** Bilhah, Ezem, Tolad,
+
+**30** Bethuel, Hormah, Ziklag,
+
+**31** Beth-marcaboth, Hazar-susim, Beth-biri and Shaaraim.[^4-23] These were their towns until David became king.
+
+**32** Their villages were Etam, Ain, Rimmon, Tochen and Ashan, five towns,[^4-24]
+
+**33** with all their villages around these towns as far as Baal.[^4-25] These were their settlements, and they kept their own genealogical record.
+
+**34** Meshobab, Jamlech, Joshah son of Amaziah,
+
+**35** Joel, Jehu son of Joshibiah, son of Seraiah, son of Asiel,
+
+**36** Elioenai, Jaakobah, Jeshohaiah, Asaiah, Adiel, Jesimiel, Benaiah,
+
+**37** and Ziza son of Shiphi, son of Allon, son of Jedaiah, son of Shimri, son of Shemaiah.
+
+**38** These, listed by name, were leaders in their clans, and their ancestral families[^4-26] increased greatly.
+
+**39** They went to the entrance of Gedor,[^4-27] to the east side of the valley, to look for pasture for their flocks.
+
+**40** They found rich, good pasture, and the land was broad,[^4-28] quiet and peaceful, for those who had lived there before were descended from Ham.
+
+**41** These men whose names are written came in the days of Hezekiah king of Judah. They attacked their tents and the Meunites[^4-29] who were found there, and they devoted them to destruction,[^4-30] as it is to this day. Then they settled in their place, because there was pasture there for their flocks.
+
+**42** Some of them, five hundred men of the Simeonites, went to the hill country of Seir, led by Pelatiah, Neariah, Rephaiah and Uzziel, the sons of Ishi.
+
+**43** They struck down the rest of the Amalekites who had escaped, and they have lived there to this day.
+
+[^4-1]: That is, descendants. Perez was Judah's son and Hezron his grandson (2:4–5); for Hur and Shobal see 2:19 and 2:50.
+[^4-2]: The Hebrew is difficult. Literally "And these, the father of Etam".
+[^4-3]: In 2:51 Salma, a son of Hur, is called the father of Bethlehem. On *father* in these lists, see 2:21.
+[^4-4]: The Hebrew text is written "Izhar" but read "and Zohar".
+[^4-5]: *Jabez* (Hebrew *Ya'bets*) sounds like *otsev*, "pain", with two letters reversed.
+[^4-6]: Literally "If you will indeed bless me", the beginning of an earnest wish. The sentence has no conclusion.
+[^4-7]: Or "so that I may not suffer pain". Hebrew *otsbi*, "my pain", plays again on the name Jabez.
+[^4-8]: Othniel son of Kenaz was the first of the judges (Judges 3:9–11).
+[^4-9]: Literally "sons".
+[^4-10]: *Ge-harashim* means "Valley of Craftsmen".
+[^4-11]: The Hebrew reads "and Kenaz", as if a name were missing before it.
+[^4-12]: Literally "son".
+[^4-13]: The Hebrew does not say who "she" is. She may be Bithiah, Mered's wife (verse 18).
+[^4-14]: Literally "his wife, the Judahite", perhaps in contrast to Mered's Egyptian wife Bithiah.
+[^4-15]: The Hebrew text is written "Tulon" but read "Tilon".
+[^4-16]: Or "and the son of Zoheth".
+[^4-17]: Hebrew *butz*, fine linen.
+[^4-18]: The Hebrew is difficult. *Ba'alu le-Moav* can mean "ruled in Moab" or "married into Moab". *Jashubi-lehem* may be a name, or mean "and returned to Lehem", perhaps Bethlehem.
+[^4-19]: Or "These things are ancient".
+[^4-20]: Or "and those who lived among plantations and walled enclosures". *Neta'im* means "plantings" and *gederah* "walled enclosure".
+[^4-21]: Genesis 46:10 and Exodus 6:15 list Jemuel, Jamin, Ohad, Jachin, Zohar and Shaul; Numbers 26:12–13 has Nemuel, Jamin, Jachin, Zerah and Shaul.
+[^4-22]: Verses 28–33 parallel the list of Simeon's towns in Joshua 19:2–8.
+[^4-23]: Joshua 19:3–6 has Balah for Bilhah, Eltolad for Tolad, Bethul for Bethuel, Hazar-susah for Hazar-susim, Beth-lebaoth for Beth-biri and Sharuhen for Shaaraim.
+[^4-24]: Joshua 19:7 has four towns: Ain, Rimmon, Ether and Ashan.
+[^4-25]: Joshua 19:8 has Baalath-beer.
+[^4-26]: Literally "the house of their fathers": an extended family descended from a common ancestor.
+[^4-27]: The Septuagint reads "Gerar".
+[^4-28]: Literally "wide of hands".
+[^4-29]: The Hebrew text is written "the Meinim" but read "the Meunites".
+[^4-30]: Hebrew *charam*: to give over completely to God, which in war meant destroying it. See 2:7.

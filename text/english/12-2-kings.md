@@ -742,3 +742,163 @@
 [^9-28]: That is, Jehu trampled her with his horses and chariot.
 [^9-29]: Jezebel was the daughter of Ethbaal king of the Sidonians (1 Kings 16:31).
 [^9-30]: 1 Kings 21:23.
+
+## Chapter 10
+
+*Status: draft*
+
+**1** Ahab had seventy sons in Samaria. So Jehu wrote letters and sent them to Samaria, to the officials of Jezreel,[^10-1] the elders, and to the guardians of Ahab's sons.[^10-2] They said,
+
+**2** "Now, as soon as this letter reaches you, since your master's sons are with you, and you have the chariots and the horses, a fortified city and the weapons,
+
+**3** choose the best and most capable of your master's sons, set him on his father's throne, and fight for your master's house."
+
+**4** But they were terrified and said, "Look, two kings could not stand against him. How can we stand?"
+
+**5** So the palace administrator,[^10-3] the governor of the city, the elders and the guardians sent this message to Jehu: "We are your servants, and we will do everything you tell us. We will not make anyone king. Do whatever you think best."
+
+**6** Then he wrote them a second letter, saying, "If you are on my side and will obey me, take the heads of your master's sons[^10-4] and come to me at Jezreel by this time tomorrow." Now the king's sons, seventy of them, were with the leading men of the city, who were bringing them up.
+
+**7** When the letter reached them, they took the king's sons and slaughtered all seventy of them. They put their heads in baskets and sent them to Jehu at Jezreel.
+
+**8** The messenger came and told him, "They have brought the heads of the king's sons." He said, "Put them in two piles at the entrance to the gate until morning."
+
+**9** In the morning he went out, stood before all the people and said to them, "You are innocent. It was I who conspired against my master and killed him. But who struck down all these?
+
+**10** Know, then, that nothing Yahweh[^10-5] has spoken against the house of Ahab will fail.[^10-6] Yahweh has done what he said through his servant Elijah."[^10-7]
+
+**11** So Jehu struck down all who were left of the house of Ahab in Jezreel, and all his leading men, his close friends and his priests, until he left him no survivor.
+
+**12** Then he set out and went toward Samaria. On the way, at Beth-eked of the Shepherds,[^10-8]
+
+**13** Jehu met the brothers[^10-9] of Ahaziah king of Judah. He said, "Who are you?" They said, "We are Ahaziah's brothers, and we have come down to greet the king's sons and the sons of the queen mother."[^10-10]
+
+**14** He said, "Take them alive." So they took them alive and slaughtered them at the pit of Beth-eked, forty-two men. He did not leave a single one of them.
+
+**15** When he left there, he met Jehonadab son of Rechab[^10-11] coming to meet him. He greeted him and said to him, "Is your heart true to mine, as mine is to yours?" Jehonadab said, "It is." "If it is," said Jehu, "give me your hand."[^10-12] So he gave him his hand, and Jehu took him up into the chariot with him.
+
+**16** He said, "Come with me and see my zeal for Yahweh." So they had him ride in his chariot.
+
+**17** When Jehu came to Samaria, he struck down all who were left of Ahab's family in Samaria, until he had destroyed them, according to the word Yahweh had spoken to Elijah.
+
+**18** Then Jehu gathered all the people together and said to them, "Ahab served Baal a little. Jehu will serve him a lot.
+
+**19** So now summon to me all the prophets of Baal, all his worshipers and all his priests. Let no one be missing, for I am holding a great sacrifice for Baal. Anyone who is missing will not live." But Jehu was acting with cunning, in order to destroy the worshipers of Baal.
+
+**20** Jehu said, "Proclaim a solemn assembly[^10-13] for Baal." So they proclaimed it.
+
+**21** Jehu sent word throughout Israel, and all the worshipers of Baal came. Not one was left who did not come. They came into the temple of Baal, and the temple of Baal was filled from one end to the other.
+
+**22** Jehu said to the man in charge of the wardrobe, "Bring out robes for all the worshipers of Baal." So he brought out robes for them.
+
+**23** Then Jehu went into the temple of Baal with Jehonadab son of Rechab, and he said to the worshipers of Baal, "Search and make sure that there are no worshipers of Yahweh here with you, only worshipers of Baal."
+
+**24** They went in to offer sacrifices and burnt offerings. Now Jehu had stationed eighty men outside and had said, "If any of the men I am handing over to you escapes, it will be your life for his life."
+
+**25** As soon as he had finished offering the burnt offering, Jehu said to the guards[^10-14] and the officers,[^10-15] "Go in and kill them. Let no one get out." So they killed them with the sword. The guards and the officers threw the bodies out and went into the inner shrine[^10-16] of the temple of Baal.
+
+**26** They brought out the standing stones[^10-17] of the temple of Baal and burned them.[^10-18]
+
+**27** They demolished the standing stone of Baal and tore down the temple of Baal, and they made it a latrine,[^10-19] as it is to this day.
+
+**28** So Jehu wiped out Baal from Israel.
+
+**29** But Jehu did not turn away from the sins of Jeroboam son of Nebat, which he had caused Israel to commit: the golden calves that were at Bethel and in Dan.
+
+**30** Yahweh said to Jehu, "Because you have done well in doing what is right in my eyes, and have done to the house of Ahab all that was in my heart, your descendants to the fourth generation will sit on the throne of Israel."
+
+**31** But Jehu was not careful to walk in the law of Yahweh, the God of Israel, with all his heart. He did not turn away from the sins of Jeroboam, which he had caused Israel to commit.
+
+**32** In those days Yahweh began to cut away parts of Israel.[^10-20] Hazael defeated the Israelites throughout their territory,
+
+**33** from the Jordan eastward: all the land of Gilead, the Gadites, the Reubenites and the Manassites, from Aroer, which is by the Arnon Valley, including Gilead and Bashan.
+
+**34** As for the rest of the acts of Jehu, all that he did and all his mighty deeds, are they not written in the book of the annals of the kings of Israel?
+
+**35** Jehu slept with his ancestors, and they buried him in Samaria. And his son Jehoahaz became king in his place.
+
+**36** The time that Jehu reigned over Israel in Samaria was twenty-eight years.
+
+[^10-1]: The Septuagint and the Vulgate read "the officials of the city".
+[^10-2]: Literally "the guardians of Ahab". Also in verse 5.
+[^10-3]: Literally "the one who was over the house", the title of a senior royal official in charge of the palace and its estates.
+[^10-4]: Literally "the heads of the men of your master's sons". "Heads" can also mean "leaders".
+[^10-5]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^10-6]: Literally "will fall to the ground".
+[^10-7]: 1 Kings 21:21–24.
+[^10-8]: Hebrew *Beit-eqed ha-ro'im*, perhaps "the shearing house of the shepherds". Also in verse 14.
+[^10-9]: Or "relatives". Hebrew *achim* can mean any kinsmen. Compare 2 Chronicles 22:8.
+[^10-10]: Hebrew *gevirah*, "great lady", the title of the king's mother. Here it means Jezebel.
+[^10-11]: The ancestor of the Rechabites, who kept his strict rule of life (Jeremiah 35:6–10).
+[^10-12]: Literally "Jehonadab said, 'It is, and it is. Give your hand.'" The Septuagint reads "Jehonadab said, 'It is.' And Jehu said, 'If it is, give me your hand.'"
+[^10-13]: Hebrew *atsarah*, a festive gathering for worship.
+[^10-14]: Literally "runners", the royal guard.
+[^10-15]: Hebrew *shalishim*: see 7:2.
+[^10-16]: Literally "the city of the house of Baal", perhaps a fortified inner part of the temple.
+[^10-17]: Hebrew *matsevot*: stone pillars set up as objects of worship. Also in verse 27.
+[^10-18]: Literally "burned it".
+[^10-19]: The Hebrew text is written with a coarse word for "latrine" but read with a more polite one, literally "places of going out".
+[^10-20]: Or "to reduce Israel".
+
+## Chapter 11
+
+*Status: draft*
+
+**1** When Athaliah, Ahaziah's mother, saw that her son was dead, she set out to destroy the whole royal family.[^11-1]
+
+**2** But Jehosheba,[^11-2] King Joram's daughter and Ahaziah's sister, took Joash[^11-3] son of Ahaziah and stole him away from among the king's sons who were being put to death. She put him and his nurse in the bedroom.[^11-4] So they hid him from Athaliah, and he was not put to death.
+
+**3** He remained with her, hidden in the house of Yahweh,[^11-5] for six years, while Athaliah reigned over the land.
+
+**4** In the seventh year Jehoiada sent for the commanders of hundreds of the Carites[^11-6] and of the guards,[^11-7] and had them come to him in the house of Yahweh. He made a covenant with them and put them under oath in the house of Yahweh. Then he showed them the king's son.
+
+**5** He commanded them, "This is what you are to do. A third of you, those who come on duty on the Sabbath, are to keep guard over the king's palace,
+
+**6** a third are to be at the Sur Gate, and a third at the gate behind the guards. So you will keep guard over the palace as a barrier.[^11-8]
+
+**7** And your two divisions, all those who go off duty on the Sabbath, are to keep guard over the house of Yahweh for the king.
+
+**8** Surround the king on every side, each man with his weapons in his hand. Anyone who comes into the ranks is to be put to death. Stay with the king wherever he goes."[^11-9]
+
+**9** The commanders of hundreds did everything Jehoiada the priest commanded. Each took his men, those coming on duty on the Sabbath together with those going off duty on the Sabbath, and they came to Jehoiada the priest.
+
+**10** The priest gave the commanders of hundreds the spears and the shields[^11-10] that had belonged to King David, which were in the house of Yahweh.
+
+**11** The guards stood, each with his weapons in his hand, from the south side of the house to the north side,[^11-11] by the altar and the house, all around the king.
+
+**12** Then Jehoiada brought out the king's son and put the crown on him and gave him the statutes.[^11-12] They made him king and anointed him, and they clapped their hands and said, "Long live the king!"
+
+**13** When Athaliah heard the noise of the guards and the people,[^11-13] she came to the people at the house of Yahweh.
+
+**14** She looked, and there was the king, standing by the pillar, as the custom was. The commanders and the trumpeters were beside the king, and all the people of the land[^11-14] were rejoicing and blowing trumpets. Athaliah tore her clothes and cried out, "Treason! Treason!"
+
+**15** Jehoiada the priest commanded the commanders of hundreds, who were in charge of the army, "Bring her out between the ranks,[^11-15] and put to death with the sword anyone who follows her." For the priest had said, "She must not be put to death in the house of Yahweh."
+
+**16** So they seized her,[^11-16] and she went by the way of the horses' entrance to the king's palace, and there she was put to death.
+
+**17** Jehoiada made a covenant between Yahweh and the king and the people, that they would be Yahweh's people, and also between the king and the people.
+
+**18** Then all the people of the land went to the temple of Baal and tore it down. They smashed its altars and its images to pieces, and they killed Mattan the priest of Baal in front of the altars. And the priest posted guards over the house of Yahweh.
+
+**19** He took the commanders of hundreds, the Carites, the guards and all the people of the land, and they brought the king down from the house of Yahweh. They went by the way of the Gate of the Guards to the king's palace, and he took his seat on the royal throne.[^11-17]
+
+**20** All the people of the land rejoiced, and the city was quiet, for they had put Athaliah to death with the sword at the king's palace.[^11-18]
+
+[^11-1]: Literally "all the offspring of the kingdom".
+[^11-2]: Called Jehoshabeath in 2 Chronicles 22:11.
+[^11-3]: Also called Jehoash (12:1). *Joash* is a shorter form of the same name.
+[^11-4]: Literally "the room of the beds", perhaps a storeroom for bedding.
+[^11-5]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles. "The house of Yahweh" is the temple.
+[^11-6]: Probably foreign soldiers in the royal guard, perhaps from Caria in southwest Asia Minor. Also in verse 19.
+[^11-7]: Literally "runners", the royal guard. Also in verses 6, 11, 13 and 19.
+[^11-8]: Hebrew *massach*, a word found only here. Its meaning is uncertain.
+[^11-9]: Literally "in his going out and in his coming in".
+[^11-10]: Hebrew *shelatim*, perhaps "shields" or "quivers".
+[^11-11]: Literally "from the right shoulder of the house to the left shoulder of the house". Facing east, the right hand is south.
+[^11-12]: Hebrew *edut*, traditionally "the testimony": the solemn terms of the covenant, perhaps in a written copy.
+[^11-13]: Literally "the noise of the guards, the people".
+[^11-14]: Hebrew *am ha-arets*, the landowning citizens of Judah, who often took part in choosing the king. Also in verses 18–20.
+[^11-15]: Or "out of the temple area".
+[^11-16]: Or "they made way for her". Literally "they put hands to her".
+[^11-17]: Literally "the throne of the kings".
+[^11-18]: In most English Bibles chapter 11 has one more verse, 11:21, which is 12:1 here.

@@ -1579,7 +1579,7 @@
 
 **4** Now Yahweh your God has given your brothers rest, as he promised them. So now turn and go to your homes,[^22-2] to the land that is your possession, which Moses the servant of Yahweh gave you east of the Jordan.[^22-3]
 
-**5** Only be very careful to keep the commandment and the law[^22-4] that Moses the servant of Yahweh gave you: to love Yahweh your God, to walk in all his ways, to keep his commandments, to hold fast to him, and to serve him with all your heart and with all your soul."
+**5** Only be very careful to keep the command and the law[^22-4] that Moses the servant of Yahweh gave you: to love Yahweh your God, to walk in all his ways, to keep his commands, to hold fast to him, and to serve him with all your heart and with all your soul."
 
 **6** Then Joshua blessed them and sent them away, and they went to their homes.
 
@@ -1658,3 +1658,138 @@
 [^22-17]: Literally "tomorrow". Also in verses 27 and 28.
 [^22-18]: Literally "it was good in their eyes". Also in verse 33.
 [^22-19]: The Hebrew does not give the name itself. The words that follow suggest *Ed*, "Witness".
+
+## Chapter 23
+
+*Status: draft*
+
+**1** A long time afterward, when Yahweh[^23-1] had given Israel rest from all their enemies around them, and Joshua was old and advanced in years,
+
+**2** Joshua summoned all Israel, their elders, their leaders,[^23-2] their judges and their officials, and said to them, "I am old and advanced in years.
+
+**3** You yourselves have seen everything that Yahweh your God has done to all these nations for your sake, for it is Yahweh your God who has fought for you.
+
+**4** See, I have allotted to you[^23-3] as an inheritance for your tribes these nations that remain, as well as all the nations I have wiped out, from the Jordan to the Great Sea in the west.[^23-4]
+
+**5** Yahweh your God himself will push them back before you and drive them out of your way, and you will take possession of their land, as Yahweh your God promised you.
+
+**6** So be very strong, and be careful to do everything that is written in the book of the law of Moses, without turning aside from it to the right or to the left.
+
+**7** Do not mix with these nations, these that remain among you. Do not call on the names of their gods, or make anyone swear by them.[^23-5] Do not serve them or bow down to them.
+
+**8** But hold fast to Yahweh your God, as you have done to this day.
+
+**9** Yahweh has driven out before you great and powerful nations, and as for you, no one has been able to stand against you to this day.
+
+**10** One of you puts a thousand to flight,[^23-6] for it is Yahweh your God who fights for you, as he promised you.
+
+**11** So for your own sake[^23-7] take great care to love Yahweh your God.
+
+**12** For if you ever turn back and cling to the rest of these nations, these that remain among you, and intermarry with them, and you mix with them and they with you,
+
+**13** know for certain that Yahweh your God will no longer drive these nations out before you. They will be a snare and a trap for you, a whip on your sides and thorns in your eyes, until you perish from this good land that Yahweh your God has given you.
+
+**14** Now I am about to go the way of all the earth.[^23-8] You know with all your heart and all your soul that not one word has failed of all the good promises that Yahweh your God made concerning you. All of them have come true for you. Not one word of them has failed.
+
+**15** But just as every good promise that Yahweh your God made to you has come true for you, so Yahweh will bring on you every evil he has threatened,[^23-9] until he has destroyed you from this good land that Yahweh your God has given you,
+
+**16** if you break the covenant of Yahweh your God, which he commanded you to keep, and go and serve other gods and bow down to them. Then the anger of Yahweh will burn against you, and you will quickly perish from the good land that he has given you."
+
+[^23-1]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^23-2]: Literally "heads".
+[^23-3]: Literally "made fall to you", that is, assigned by lot.
+[^23-4]: Literally "and the Great Sea, the going in of the sun".
+[^23-5]: Hebrew *tashbi'u*, "cause to swear", that is, take or administer oaths in their names.
+[^23-6]: Literally "pursues a thousand". Compare Leviticus 26:8; Deuteronomy 32:30.
+[^23-7]: Literally "for your lives".
+[^23-8]: That is, to die.
+[^23-9]: Literally "every evil word".
+
+## Chapter 24
+
+*Status: draft*
+
+**1** Joshua gathered all the tribes of Israel at Shechem.[^24-1] He summoned the elders, the leaders,[^24-2] the judges and the officials of Israel, and they presented themselves before God.
+
+**2** Joshua said to all the people, "This is what Yahweh,[^24-3] the God of Israel, says: 'Long ago your ancestors, Terah the father of Abraham and of Nahor, lived beyond the River,[^24-4] and they served other gods.
+
+**3** But I took your father Abraham from beyond the River and led him through all the land of Canaan. I made his descendants many, and I gave him Isaac.
+
+**4** To Isaac I gave Jacob and Esau. To Esau I gave the hill country of Seir to possess, but Jacob and his sons went down to Egypt.
+
+**5** Then I sent Moses and Aaron, and I struck Egypt with plagues by what I did among them, and afterward I brought you out.
+
+**6** I brought your ancestors out of Egypt, and you came to the sea. The Egyptians pursued your ancestors with chariots and horsemen to the Red Sea.[^24-5]
+
+**7** They cried out to Yahweh, and he put darkness between you and the Egyptians. He brought the sea over them and covered them. Your own eyes saw what I did in Egypt. Then you lived in the wilderness for a long time.
+
+**8** I brought you to the land of the Amorites, who lived east of the Jordan.[^24-6] They fought against you, but I gave them into your hand. You took possession of their land, and I destroyed them before you.
+
+**9** Then Balak son of Zippor, king of Moab, set out to fight against Israel. He sent for Balaam son of Beor to curse you.[^24-7]
+
+**10** But I would not listen to Balaam. He blessed you again and again, and I rescued you from his hand.
+
+**11** Then you crossed the Jordan and came to Jericho. The leaders[^24-8] of Jericho fought against you, and so did the Amorites, the Perizzites, the Canaanites, the Hittites, the Girgashites, the Hivites and the Jebusites, but I gave them into your hand.
+
+**12** I sent the hornet[^24-9] ahead of you, and it drove them out before you, the two kings of the Amorites.[^24-10] It was not by your sword or your bow.
+
+**13** I gave you a land you had not toiled over, and towns you had not built, and you live in them. You eat from vineyards and olive groves that you did not plant.'
+
+**14** So now fear Yahweh and serve him with integrity and faithfulness. Put away the gods your ancestors served beyond the River and in Egypt, and serve Yahweh.
+
+**15** But if you think it wrong[^24-11] to serve Yahweh, choose today whom you will serve, whether the gods your ancestors served beyond the River, or the gods of the Amorites in whose land you are living. But as for me and my household, we will serve Yahweh."
+
+**16** The people answered, "Far be it from us to abandon Yahweh to serve other gods!
+
+**17** For it is Yahweh our God who brought us and our ancestors up from the land of Egypt, out of the place of slavery,[^24-12] and who did those great signs before our eyes. He protected us all along the way we traveled, and among all the peoples through whom we passed.
+
+**18** Yahweh drove out before us all the peoples, and the Amorites who lived in the land. We too will serve Yahweh, for he is our God."
+
+**19** Joshua said to the people, "You cannot serve Yahweh, for he is a holy God.[^24-13] He is a jealous God.[^24-14] He will not forgive your rebellion or your sins.
+
+**20** If you abandon Yahweh and serve foreign gods, he will turn and bring disaster on you and make an end of you, after he has done you good."
+
+**21** The people said to Joshua, "No! We will serve Yahweh."
+
+**22** Joshua said to the people, "You are witnesses against yourselves that you have chosen Yahweh, to serve him." They said, "We are witnesses."
+
+**23** "Then put away the foreign gods that are among you, and turn your hearts to Yahweh, the God of Israel."
+
+**24** The people said to Joshua, "We will serve Yahweh our God, and we will obey his voice."
+
+**25** So on that day Joshua made a covenant for the people, and there at Shechem he set out for them a decree and a ruling.
+
+**26** Joshua wrote these words in the book of the law of God. He took a large stone and set it up there, under the oak[^24-15] that was by the sanctuary of Yahweh.
+
+**27** Joshua said to all the people, "Look, this stone will be a witness against us, for it has heard all the words that Yahweh spoke to us. It will be a witness against you, so that you do not deny your God."
+
+**28** Then Joshua sent the people away, each to his own inheritance.
+
+**29** After these things, Joshua son of Nun, the servant of Yahweh, died at the age of 110.
+
+**30** They buried him within the territory of his inheritance, at Timnath-serah in the hill country of Ephraim, north of Mount Gaash.
+
+**31** Israel served Yahweh all the days of Joshua, and all the days of the elders who outlived Joshua and who had known all the work that Yahweh had done for Israel.
+
+**32** The bones of Joseph, which the Israelites had brought up from Egypt, they buried at Shechem, in the piece of land that Jacob had bought from the sons of Hamor, the father of Shechem, for a hundred *qesitah*.[^24-16] It became an inheritance of the descendants of Joseph.
+
+**33** Eleazar son of Aaron died, and they buried him at Gibeah,[^24-17] the town of his son Phinehas, which had been given to him in the hill country of Ephraim.[^24-18]
+
+[^24-1]: The Greek Septuagint reads "Shiloh" here and in verse 25.
+[^24-2]: Literally "heads".
+[^24-3]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^24-4]: The Euphrates. Also in verses 3, 14 and 15.
+[^24-5]: Hebrew *Yam Suph*, literally "Sea of Reeds". The Greek Septuagint calls it "the Red Sea".
+[^24-6]: Literally "beyond the Jordan".
+[^24-7]: Numbers 22–24.
+[^24-8]: Hebrew *ba'alei Yericho*, "the lords of Jericho", or "the citizens of Jericho".
+[^24-9]: Hebrew *tsir'ah*, of uncertain meaning. It is usually taken as "hornet" or "hornets", but some understand it as "panic" or "plague" (compare Exodus 23:28).
+[^24-10]: The Greek Septuagint reads "the twelve kings of the Amorites".
+[^24-11]: Literally "if it is evil in your eyes".
+[^24-12]: Literally "out of the house of slaves" (Exodus 20:2).
+[^24-13]: The Hebrew word for "holy" is plural here, agreeing with *Elohim*, "God", which is plural in form.
+[^24-14]: Hebrew *el qanno*, a God who demands exclusive loyalty. Or "a zealous God".
+[^24-15]: Or "terebinth".
+[^24-16]: A *qesitah* was a unit of money; its value is not known. See Genesis 33:19; 50:25; Exodus 13:19.
+[^24-17]: Or "Gibeath-phinehas", or "the hill of Phinehas".
+[^24-18]: The Greek Septuagint continues the book with further material after this verse.

@@ -318,21 +318,21 @@
 
 *Status: draft*
 
-**1** "Now, Israel, listen to the statutes and the rulings[^4-1] that I am teaching you to follow, so that you may live, and go in and take possession of the land that Yahweh,[^4-2] the God of your ancestors,[^4-3] is giving you.
+**1** "Now, Israel, listen to the decrees and the rulings[^4-1] that I am teaching you to follow, so that you may live, and go in and take possession of the land that Yahweh,[^4-2] the God of your ancestors,[^4-3] is giving you.
 
-**2** Do not add anything to what I command you, and do not take anything away from it. Keep the commandments of Yahweh your God that I am giving you.
+**2** Do not add anything to what I command you, and do not take anything away from it. Keep the commands of Yahweh your God that I am giving you.
 
 **3** You saw with your own eyes what Yahweh did at Baal-peor.[^4-4] Yahweh your God destroyed from among you everyone who followed the Baal of Peor.
 
 **4** But all of you who held fast to Yahweh your God are alive today.
 
-**5** See, I have taught you statutes and rulings, as Yahweh my God commanded me, so that you may follow them in the land you are entering to take possession of.
+**5** See, I have taught you decrees and rulings, as Yahweh my God commanded me, so that you may follow them in the land you are entering to take possession of.
 
-**6** Keep them and follow them, for this will show your wisdom and understanding to the peoples.[^4-5] When they hear about all these statutes, they will say, 'Surely this great nation is a wise and understanding people.'
+**6** Keep them and follow them, for this will show your wisdom and understanding to the peoples.[^4-5] When they hear about all these decrees, they will say, 'Surely this great nation is a wise and understanding people.'
 
 **7** For what great nation has a god[^4-6] so near to it as Yahweh our God is to us whenever we call on him?
 
-**8** And what great nation has statutes and rulings as righteous as this whole law that I am setting before you today?
+**8** And what great nation has decrees and rulings as righteous as this whole law that I am setting before you today?
 
 **9** Only be careful, and watch yourselves closely,[^4-7] so that you do not forget the things your eyes have seen, and so that they do not slip from your heart[^4-8] as long as you live. Make them known to your children and your grandchildren:
 
@@ -344,7 +344,7 @@
 
 **13** He declared to you his covenant, which he commanded you to keep:[^4-10] the Ten Commandments.[^4-11] And he wrote them on two stone tablets.
 
-**14** At that time Yahweh commanded me to teach you statutes and rulings, for you to follow in the land you are crossing over into to take possession of.
+**14** At that time Yahweh commanded me to teach you decrees and rulings, for you to follow in the land you are crossing over into to take possession of.
 
 **15** So watch yourselves very carefully.[^4-12] Since you saw no form of any kind on the day Yahweh spoke to you at Horeb out of the fire,
 
@@ -396,7 +396,7 @@
 
 **39** So know today, and take it to heart, that Yahweh is God in heaven above and on the earth below. There is no other.
 
-**40** Keep his statutes and his commandments, which I am giving you today, so that it may go well with you and with your children after you, and so that you may live long in the land that Yahweh your God is giving you for all time."
+**40** Keep his decrees and his commands, which I am giving you today, so that it may go well with you and with your children after you, and so that you may live long in the land that Yahweh your God is giving you for all time."
 
 **41** Then Moses set apart three cities east of the Jordan,[^4-28] toward the sunrise,
 
@@ -406,7 +406,7 @@
 
 **44** This is the law that Moses set before the Israelites.
 
-**45** These are the decrees,[^4-32] the statutes and the rulings that Moses spoke to the Israelites after they came out of Egypt,
+**45** These are the statutes,[^4-32] the decrees and the rulings that Moses spoke to the Israelites after they came out of Egypt,
 
 **46** east of the Jordan, in the valley opposite Beth-peor, in the land of Sihon king of the Amorites, who lived in Heshbon. Moses and the Israelites defeated him after they came out of Egypt,
 
@@ -416,7 +416,7 @@
 
 **49** together with all the Arabah east of the Jordan, as far as the Sea of the Arabah,[^4-34] below the slopes of Pisgah.
 
-[^4-1]: Hebrew *chuqqim*, "statutes, decrees", and *mishpatim*, "judgments, rulings". Deuteronomy often pairs the two words for the laws as a whole.
+[^4-1]: Hebrew *chuqqim*, "decrees", and *mishpatim*, "judgments, rulings". Deuteronomy often pairs the two words for the laws as a whole.
 [^4-2]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
 [^4-3]: Literally "fathers"; also in verses 31 and 37.
 [^4-4]: Or "in the matter of Baal-peor", the worship of the Baal of Peor (Numbers 25:1–9).
@@ -444,10 +444,10 @@
 [^4-26]: Literally "his seed after him". The Samaritan Pentateuch and the Septuagint read "their seed after them".
 [^4-27]: Literally "with his face", that is, by his own presence.
 [^4-28]: Literally "beyond the Jordan", seen from the land west of the river. Also in verses 46, 47 and 49.
-[^4-29]: Hebrew *rotseach*, "killer", from the verb used in "You shall not murder" (5:17). Here it is someone who has killed without meaning to.
+[^4-29]: Hebrew *rotseach*, "killer", from the verb used in "You must not murder" (5:17). Here it is someone who has killed without meaning to.
 [^4-30]: Literally "and he was not hating him yesterday and the day before".
 [^4-31]: Hebrew *mishor*, "level land": the high tableland north of the Arnon.
-[^4-32]: Hebrew *edot*, "testimonies, witnesses": the solemn terms of the covenant.
+[^4-32]: Hebrew *edot*, traditionally "testimonies": the solemn terms of the covenant.
 [^4-33]: Hebrew *Si'on*, not the same name as Zion in Jerusalem. The Syriac reads "Sirion", as in 3:9.
 [^4-34]: The Dead Sea.
 
@@ -455,7 +455,7 @@
 
 *Status: draft*
 
-**1** Moses summoned all Israel and said to them,[^5-1] "Hear, Israel, the statutes and the rulings[^5-2] that I am speaking in your hearing today. Learn them and be careful to follow them.
+**1** Moses summoned all Israel and said to them,[^5-1] "Hear, Israel, the decrees and the rulings[^5-2] that I am speaking in your hearing today. Learn them and be careful to follow them.
 
 **2** Yahweh[^5-3] our God made a covenant with us at Horeb.
 
@@ -465,37 +465,37 @@
 
 **5** At that time I was standing between Yahweh and you to tell you the word of Yahweh, because you were afraid of the fire and did not go up the mountain. He said:
 
-**6** 'I am Yahweh your God, who brought you out of the land of Egypt, out of the house of slavery.[^5-5]
+**6** 'I am Yahweh your God, who brought you out of the land of Egypt, out of the place of slavery.[^5-5]
 
-**7** Do not have any other gods besides me.[^5-6]
+**7** You must have no other gods besides me.[^5-6]
 
-**8** Do not make for yourself an idol[^5-7] in the form of anything in the heavens above, on the earth below, or in the waters under the earth.
+**8** You must not make for yourself an idol,[^5-7] an image of anything in the heavens above, or on the earth below, or in the waters under the earth.
 
-**9** Do not bow down to them or serve them, for I, Yahweh your God, am a jealous God.[^5-8] I punish the children for the wrongdoing of the parents, to the third and the fourth generation of those who hate me,[^5-9]
+**9** You must not bow down to them or serve them, for I, Yahweh your God, am a jealous God.[^5-8] I punish children for the wrongdoing of their parents, to the third and the fourth generation of those who hate me,[^5-9]
 
-**10** but I show faithful love[^5-10] to thousands[^5-11] of those who love me and keep my commandments.[^5-12]
+**10** but I show faithful love[^5-10] to thousands[^5-11] of those who love me and keep my commands.[^5-12]
 
-**11** Do not misuse the name of Yahweh your God,[^5-13] for Yahweh will not leave unpunished anyone who misuses his name.
+**11** You must not misuse the name of Yahweh your God,[^5-13] for Yahweh will not leave unpunished anyone who misuses his name.
 
-**12** Observe the Sabbath day and keep it holy, as Yahweh your God has commanded you.[^5-14]
+**12** Observe the Sabbath day, to keep it holy, as Yahweh your God has commanded you.[^5-14]
 
-**13** For six days you are to labor and do all your work,
+**13** For six days you are to work and do all your work,
 
-**14** but the seventh day is a Sabbath[^5-15] to Yahweh your God. On it you must not do any work: not you, or your son or your daughter, or your male or female slave,[^5-16] or your ox or your donkey or any of your livestock, or the foreigner who lives in your towns,[^5-17] so that your male and female slaves may rest as you do.
+**14** but the seventh day is a Sabbath[^5-15] to Yahweh your God. On it you must not do any work, neither you, nor your son or your daughter, nor your male or female slave,[^5-16] nor your ox or your donkey or any of your livestock, nor the foreigner who lives in your towns,[^5-17] so that your male and female slaves may rest as you do.
 
 **15** Remember that you were a slave in the land of Egypt, and Yahweh your God brought you out from there with a mighty hand and an outstretched arm. That is why Yahweh your God has commanded you to keep the Sabbath day.
 
 **16** Honor your father and your mother, as Yahweh your God has commanded you, so that you may live long, and so that it may go well with you in the land that Yahweh your God is giving you.[^5-18]
 
-**17** Do not murder.[^5-19]
+**17** You must not murder.[^5-19]
 
-**18** Do not commit adultery.[^5-20]
+**18** You must not commit adultery.[^5-20]
 
-**19** Do not steal.
+**19** You must not steal.
 
-**20** Do not give false testimony against your neighbor.[^5-21]
+**20** You must not give false testimony against your neighbor.[^5-21]
 
-**21** Do not covet your neighbor's wife. Do not desire your neighbor's house, his field, his male or female slave, his ox or his donkey, or anything that belongs to your neighbor.'[^5-22]
+**21** You must not covet your neighbor's wife. You must not desire your neighbor's house, his field, his male or female slave, his ox or his donkey, or anything that belongs to your neighbor.'[^5-22]
 
 **22** These are the words that Yahweh spoke with a loud voice to your whole assembly at the mountain, out of the fire, the cloud and the thick darkness, and he added nothing more.[^5-23] He wrote them on two stone tablets and gave them to me.
 
@@ -511,28 +511,28 @@
 
 **28** Yahweh heard what you said[^5-25] when you spoke to me, and Yahweh said to me, 'I have heard what this people said to you. Everything they have said is good.
 
-**29** If only they would always have a heart like this, to fear me and keep all my commandments, so that it might go well with them and with their children forever!
+**29** If only they would always have a heart like this, to fear me and keep all my commands, so that it might go well with them and with their children forever!
 
 **30** Go and tell them, "Return to your tents."
 
-**31** But you, stand here with me, and I will tell you all the commandments,[^5-26] the statutes and the rulings that you are to teach them, so that they may follow them in the land that I am giving them to possess.'
+**31** But you, stand here with me, and I will tell you the whole command,[^5-26] the decrees and the rulings that you are to teach them, so that they may follow them in the land that I am giving them to possess.'
 
 **32** So be careful to do as Yahweh your God has commanded you. Do not turn aside to the right or to the left.
 
 **33** Walk in all the way that Yahweh your God has commanded you, so that you may live and prosper, and live long in the land you will possess.
 
 [^5-1]: Moses' second speech begins here. It continues through the laws of chapters 12–26, which are set without quotation marks, and ends at 26:19.
-[^5-2]: Hebrew *chuqqim*, "statutes, decrees", and *mishpatim*, "judgments, rulings".
+[^5-2]: Hebrew *chuqqim*, "decrees", and *mishpatim*, "judgments, rulings".
 [^5-3]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
 [^5-4]: Literally "fathers".
 [^5-5]: Literally "house of slaves". Verses 6–21 are the Ten Commandments, also given in Exodus 20:2–17.
 [^5-6]: Or "before me", "in addition to me". Literally "against my face".
-[^5-7]: Hebrew *pesel*, a carved or cast image. Exodus 20:4 reads "an idol or any likeness".
+[^5-7]: Hebrew *pesel*, a carved or cast image. Exodus 20:4 reads "an idol, or an image of anything".
 [^5-8]: Hebrew *el qanna*: a God who will not share his people's devotion with any other.
 [^5-9]: Literally "visiting the iniquity of fathers on sons, and on the third and on the fourth of those who hate me".
 [^5-10]: Hebrew *chesed*: loyal, faithful love.
 [^5-11]: Or "to a thousand generations".
-[^5-12]: The Hebrew text is written "his commandment" but read "my commandments".
+[^5-12]: The Hebrew text is written "his command" but read "my commands".
 [^5-13]: Literally "Do not lift up the name of Yahweh your God for emptiness". Traditionally "take the name in vain". It may refer to false oaths or to any empty or wrongful use of God's name.
 [^5-14]: Exodus 20:8 reads "Remember the Sabbath day". Here the verb is *shamor*, "keep, observe".
 [^5-15]: Hebrew *shabbat*, from the verb *shavat*, "stop, rest".
@@ -546,15 +546,15 @@
 [^5-23]: Or "and it did not stop". Literally "and he did not add".
 [^5-24]: Literally "all flesh".
 [^5-25]: Literally "the sound of your words"; also later in the verse.
-[^5-26]: Literally "all the commandment". The singular means the law as a whole.
+[^5-26]: The singular means the law as a whole.
 
 ## Chapter 6
 
 *Status: draft*
 
-**1** "This is the commandment, the statutes and the rulings, that Yahweh[^6-1] your God commanded me to teach you, for you to follow in the land you are crossing over into to take possession of,
+**1** "This is the command, the decrees and the rulings, that Yahweh[^6-1] your God commanded me to teach you, for you to follow in the land you are crossing over into to take possession of,
 
-**2** so that you may fear Yahweh your God all the days of your life, you and your children and your grandchildren, by keeping all his statutes and his commandments that I am giving you, and so that you may live long.
+**2** so that you may fear Yahweh your God all the days of your life, you and your children and your grandchildren, by keeping all his decrees and his commands that I am giving you, and so that you may live long.
 
 **3** Listen, Israel, and be careful to follow them, so that it may go well with you and you may increase greatly in number, as Yahweh, the God of your ancestors,[^6-2] has promised you, in a land flowing with milk and honey.[^6-3]
 
@@ -574,7 +574,7 @@
 
 **11** houses full of all kinds of good things that you did not fill, cisterns cut in the rock that you did not dig, and vineyards and olive trees that you did not plant. When you eat and are satisfied,
 
-**12** be careful not to forget Yahweh, who brought you out of the land of Egypt, out of the house of slavery.[^6-10]
+**12** be careful not to forget Yahweh, who brought you out of the land of Egypt, out of the place of slavery.[^6-10]
 
 **13** Fear Yahweh your God. Serve him, and swear by his name.[^6-11]
 
@@ -584,13 +584,13 @@
 
 **16** Do not put Yahweh your God to the test as you tested him at Massah.[^6-13]
 
-**17** Be sure to keep the commandments of Yahweh your God, and the decrees[^6-14] and statutes he has commanded you.
+**17** Be sure to keep the commands of Yahweh your God, and the statutes[^6-14] and decrees he has commanded you.
 
 **18** Do what is right and good in the eyes of Yahweh, so that it may go well with you, and so that you may go in and take possession of the good land that Yahweh swore to give your ancestors,
 
 **19** by driving out all your enemies before you, as Yahweh has promised.
 
-**20** In the future,[^6-15] when your son asks you, 'What is the meaning of the decrees, the statutes and the rulings that Yahweh our God has commanded you?'
+**20** In the future,[^6-15] when your son asks you, 'What is the meaning of the statutes, the decrees and the rulings that Yahweh our God has commanded you?'
 
 **21** then tell your son, 'We were Pharaoh's slaves in Egypt, but Yahweh brought us out of Egypt with a mighty hand.
 
@@ -598,9 +598,9 @@
 
 **23** But he brought us out from there, to bring us in and give us the land he swore to give our ancestors.
 
-**24** Yahweh commanded us to follow all these statutes and to fear Yahweh our God, for our own good always, so that he might keep us alive, as we are today.
+**24** Yahweh commanded us to follow all these decrees and to fear Yahweh our God, for our own good always, so that he might keep us alive, as we are today.
 
-**25** And it will be righteousness for us[^6-16] if we are careful to follow all this commandment before Yahweh our God, as he has commanded us.'
+**25** And it will be righteousness for us[^6-16] if we are careful to follow all this command before Yahweh our God, as he has commanded us.'
 
 [^6-1]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
 [^6-2]: Literally "fathers"; also in verses 10, 18 and 23.
@@ -615,7 +615,7 @@
 [^6-11]: Jesus quotes this verse, in a form close to the Greek Septuagint, in Matthew 4:10 and Luke 4:8.
 [^6-12]: Hebrew *el qanna*: a God who will not share his people's devotion with any other.
 [^6-13]: *Massah* means "testing" (Exodus 17:1–7). Jesus quotes the first part of this verse in Matthew 4:7 and Luke 4:12.
-[^6-14]: Hebrew *edot*, "testimonies, witnesses": the solemn terms of the covenant. Also in verse 20.
+[^6-14]: Hebrew *edot*, traditionally "testimonies": the solemn terms of the covenant. Also in verse 20.
 [^6-15]: Literally "Tomorrow".
 [^6-16]: Or "This will be counted to us as righteousness".
 
@@ -637,13 +637,13 @@
 
 **7** It was not because you were more numerous than all the other peoples that Yahweh set his heart on you and chose you, for you were the fewest of all peoples.
 
-**8** It was because Yahweh loved you, and because he kept the oath that he swore to your ancestors,[^7-7] that Yahweh brought you out with a mighty hand and redeemed you from the house of slavery,[^7-8] from the power[^7-9] of Pharaoh king of Egypt.
+**8** It was because Yahweh loved you, and because he kept the oath that he swore to your ancestors,[^7-7] that Yahweh brought you out with a mighty hand and redeemed you from the place of slavery,[^7-8] from the power[^7-9] of Pharaoh king of Egypt.
 
-**9** So know that Yahweh your God is God. He is the faithful God, who keeps his covenant and his faithful love[^7-10] for a thousand generations with those who love him and keep his commandments,[^7-11]
+**9** So know that Yahweh your God is God. He is the faithful God, who keeps his covenant and his faithful love[^7-10] for a thousand generations with those who love him and keep his commands,[^7-11]
 
 **10** but who repays those who hate him to their face by destroying them. He will not be slow to repay anyone who hates him; he will repay him to his face.
 
-**11** So keep the commandment,[^7-12] the statutes and the rulings that I am giving you today, and follow them.
+**11** So keep the command,[^7-12] the decrees and the rulings that I am giving you today, and follow them.
 
 **12** If you listen to these rulings, and keep them and follow them, then Yahweh your God will keep with you the covenant and the faithful love that he swore to your ancestors.
 
@@ -685,7 +685,7 @@
 [^7-8]: Literally "house of slaves".
 [^7-9]: Literally "hand".
 [^7-10]: Hebrew *chesed*: loyal, faithful love. Also in verse 12.
-[^7-11]: The Hebrew text is written "his commandment" but read "his commandments".
+[^7-11]: The Hebrew text is written "his command" but read "his commands".
 [^7-12]: The singular means the law as a whole.
 [^7-13]: That is, your children.
 [^7-14]: Hebrew *dagan*, *tirosh* and *yitshar*: grain, new wine and fresh olive oil, the three main crops of the land.
@@ -701,9 +701,9 @@
 
 *Status: draft*
 
-**1** "Be careful to follow every commandment[^8-1] that I am giving you today, so that you may live and multiply, and go in and take possession of the land that Yahweh[^8-2] swore to give your ancestors.[^8-3]
+**1** "Be careful to follow every command[^8-1] that I am giving you today, so that you may live and multiply, and go in and take possession of the land that Yahweh[^8-2] swore to give your ancestors.[^8-3]
 
-**2** Remember the whole way that Yahweh your God has led you these forty years in the wilderness, to humble you and to test you, to know what was in your heart, whether you would keep his commandments[^8-4] or not.
+**2** Remember the whole way that Yahweh your God has led you these forty years in the wilderness, to humble you and to test you, to know what was in your heart, whether you would keep his commands[^8-4] or not.
 
 **3** He humbled you and let you go hungry, and then he fed you with manna,[^8-5] which neither you nor your ancestors had known, to teach you that people[^8-6] do not live on bread alone, but on everything that comes from the mouth of Yahweh.[^8-7]
 
@@ -711,7 +711,7 @@
 
 **5** Know then in your heart that Yahweh your God disciplines you as a man disciplines his son.
 
-**6** Keep the commandments of Yahweh your God by walking in his ways and fearing him.
+**6** Keep the commands of Yahweh your God by walking in his ways and fearing him.
 
 **7** For Yahweh your God is bringing you into a good land, a land of streams of water, of springs and deep waters[^8-8] that flow out in the valleys and in the hills,
 
@@ -721,13 +721,13 @@
 
 **10** When you have eaten and are satisfied, you will bless Yahweh your God for the good land he has given you.
 
-**11** Be careful not to forget Yahweh your God by failing to keep his commandments, his rulings and his statutes that I am giving you today.
+**11** Be careful not to forget Yahweh your God by failing to keep his commands, his rulings and his decrees that I am giving you today.
 
 **12** Otherwise, when you have eaten and are satisfied, when you have built fine houses and live in them,
 
 **13** and when your herds and your flocks have grown large, and your silver and gold have increased, and everything you have has increased,
 
-**14** your heart will become proud,[^8-11] and you will forget Yahweh your God, who brought you out of the land of Egypt, out of the house of slavery.[^8-12]
+**14** your heart will become proud,[^8-11] and you will forget Yahweh your God, who brought you out of the land of Egypt, out of the place of slavery.[^8-12]
 
 **15** He led you through the great and terrible wilderness, with its poisonous snakes[^8-13] and scorpions, a thirsty land where there was no water. He brought water out for you from the flint rock.
 
@@ -741,10 +741,10 @@
 
 **20** Like the nations that Yahweh is destroying before you, so you will perish, because you would not listen to the voice of Yahweh your God.
 
-[^8-1]: Literally "all the commandment", the law as a whole.
+[^8-1]: Literally "all the command", the law as a whole.
 [^8-2]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
 [^8-3]: Literally "fathers"; also in verses 3, 16 and 18.
-[^8-4]: The Hebrew text is written "his commandment" but read "his commandments".
+[^8-4]: The Hebrew text is written "his command" but read "his commands".
 [^8-5]: Hebrew *man*, the food God gave in the wilderness (Exodus 16:14–31).
 [^8-6]: Hebrew *adam*, "a human being, humankind".
 [^8-7]: Literally "but on all that goes out of the mouth of Yahweh". Jesus quotes this verse in Matthew 4:4 and Luke 4:4, where the Greek has "every word".
@@ -861,7 +861,7 @@
 
 **12** And now, Israel, what does Yahweh your God ask of you? Only to fear Yahweh your God, to walk in all his ways, to love him, and to serve Yahweh your God with all your heart and with all your soul,[^10-8]
 
-**13** and to keep the commandments and statutes of Yahweh that I am giving you today, for your own good.
+**13** and to keep the commands and decrees of Yahweh that I am giving you today, for your own good.
 
 **14** See, the heavens, even the highest heavens,[^10-9] belong to Yahweh your God, and the earth and everything in it.
 
@@ -902,7 +902,7 @@
 
 *Status: draft*
 
-**1** "Love Yahweh[^11-1] your God, and always keep his charge,[^11-2] his statutes, his rulings and his commandments.
+**1** "Love Yahweh[^11-1] your God, and always keep his charge,[^11-2] his decrees, his rulings and his commands.
 
 **2** Know today that it is not your children I am speaking to,[^11-3] who have not known or seen the discipline of Yahweh your God: his greatness, his mighty hand and his outstretched arm,
 
@@ -916,7 +916,7 @@
 
 **7** For it is your own eyes that have seen all the great work that Yahweh has done.
 
-**8** So keep the whole commandment that I am giving you today, so that you may be strong, and go in and take possession of the land you are crossing over into to possess,
+**8** So keep the whole command that I am giving you today, so that you may be strong, and go in and take possession of the land you are crossing over into to possess,
 
 **9** and so that you may live long in the land that Yahweh swore to your ancestors[^11-7] to give to them and to their descendants, a land flowing with milk and honey.
 
@@ -926,7 +926,7 @@
 
 **12** a land that Yahweh your God cares for. The eyes of Yahweh your God are always on it, from the beginning of the year to the end of the year.
 
-**13** If you truly listen to my commandments[^11-9] that I am giving you today, to love Yahweh your God and to serve him with all your heart and with all your soul,[^11-10]
+**13** If you truly listen to my commands[^11-9] that I am giving you today, to love Yahweh your God and to serve him with all your heart and with all your soul,[^11-10]
 
 **14** then I will give the rain for your land in its season, the autumn rain and the spring rain,[^11-11] and you will gather in your grain, your new wine and your olive oil.
 
@@ -944,7 +944,7 @@
 
 **21** so that you and your children may live long in the land that Yahweh swore to your ancestors to give them, as long as the heavens are above the earth.[^11-13]
 
-**22** For if you are careful to keep all this commandment that I am giving you to follow, to love Yahweh your God, to walk in all his ways and to hold fast to him,
+**22** For if you are careful to keep all this command that I am giving you to follow, to love Yahweh your God, to walk in all his ways and to hold fast to him,
 
 **23** then Yahweh will drive out all these nations before you, and you will dispossess nations greater and stronger than you.
 
@@ -954,9 +954,9 @@
 
 **26** See, I am setting before you today a blessing and a curse:
 
-**27** the blessing, if you listen to the commandments of Yahweh your God that I am giving you today,
+**27** the blessing, if you listen to the commands of Yahweh your God that I am giving you today,
 
-**28** and the curse, if you do not listen to the commandments of Yahweh your God, but turn aside from the way that I am commanding you today, to follow other gods that you have not known.
+**28** and the curse, if you do not listen to the commands of Yahweh your God, but turn aside from the way that I am commanding you today, to follow other gods that you have not known.
 
 **29** When Yahweh your God brings you into the land you are entering to take possession of, you are to proclaim[^11-15] the blessing on Mount Gerizim and the curse on Mount Ebal.
 
@@ -964,7 +964,7 @@
 
 **31** For you are about to cross the Jordan to go in and take possession of the land that Yahweh your God is giving you. When you have taken possession of it and are living in it,
 
-**32** be careful to follow all the statutes and the rulings that I am setting before you today.
+**32** be careful to follow all the decrees and the rulings that I am setting before you today.
 
 [^11-1]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
 [^11-2]: Hebrew *mishmeret*, "what is to be kept": his requirements.
@@ -988,7 +988,7 @@
 
 *Status: draft*
 
-**1** These are the statutes and the rulings[^12-1] that you must be careful to follow in the land that Yahweh,[^12-2] the God of your ancestors,[^12-3] has given you to possess, all the days you live on the earth.
+**1** These are the decrees and the rulings[^12-1] that you must be careful to follow in the land that Yahweh,[^12-2] the God of your ancestors,[^12-3] has given you to possess, all the days you live on the earth.
 
 **2** You must completely destroy all the places where the nations you are dispossessing served their gods, on the high mountains, on the hills and under every leafy tree.
 
@@ -1078,9 +1078,9 @@
 
 **4** do not listen to the words of that prophet or that dreamer. For Yahweh[^13-3] your God is testing you, to find out whether you love Yahweh your God with all your heart and with all your soul.[^13-4]
 
-**5** You must follow Yahweh your God and fear him. Keep his commandments and listen to his voice. Serve him and hold fast to him.
+**5** You must follow Yahweh your God and fear him. Keep his commands and listen to his voice. Serve him and hold fast to him.
 
-**6** That prophet or that dreamer must be put to death, because he has preached rebellion against Yahweh your God, who brought you out of the land of Egypt and redeemed you from the house of slavery.[^13-5] He has tried to lead you away from the way that Yahweh your God commanded you to walk in. So you must purge[^13-6] the evil from among you.
+**6** That prophet or that dreamer must be put to death, because he has preached rebellion against Yahweh your God, who brought you out of the land of Egypt and redeemed you from the place of slavery.[^13-5] He has tried to lead you away from the way that Yahweh your God commanded you to walk in. So you must purge[^13-6] the evil from among you.
 
 **7** Your brother, your mother's son,[^13-7] or your son or your daughter, or the wife you embrace,[^13-8] or your friend who is as dear to you as your own life,[^13-9] may secretly entice you, saying, "Let us go and serve other gods," gods that neither you nor your ancestors[^13-10] have known,
 
@@ -1090,7 +1090,7 @@
 
 **10** You must kill him.[^13-11] Your hand must be the first against him to put him to death, and then the hands of all the people.
 
-**11** Stone him to death,[^13-12] because he tried to lead you away from Yahweh your God, who brought you out of the land of Egypt, out of the house of slavery.
+**11** Stone him to death,[^13-12] because he tried to lead you away from Yahweh your God, who brought you out of the land of Egypt, out of the place of slavery.
 
 **12** Then all Israel will hear and be afraid, and no one among you will ever again do such an evil thing.
 
@@ -1106,7 +1106,7 @@
 
 **18** Nothing that is set apart for destruction must stick to your hand, so that Yahweh may turn from his burning anger, and show you mercy and have compassion on you, and multiply you, as he swore to your ancestors,
 
-**19** because you listen to the voice of Yahweh your God, keeping all his commandments that I am giving you today, and doing what is right in the eyes of Yahweh your God.
+**19** because you listen to the voice of Yahweh your God, keeping all his commands that I am giving you today, and doing what is right in the eyes of Yahweh your God.
 
 [^13-1]: Verse 1 is 12:32 in most English Bibles, and verses 2–19 are 13:1–18.
 [^13-2]: Literally "a dreamer of a dream"; also in verses 4 and 6.
@@ -1220,7 +1220,7 @@
 
 **4** However, there should be no poor among you,[^15-7] for Yahweh will richly bless you in the land that Yahweh your God is giving you as an inheritance to possess,
 
-**5** if only you listen carefully to the voice of Yahweh your God and are careful to follow all this commandment that I am giving you today.
+**5** if only you listen carefully to the voice of Yahweh your God and are careful to follow all this command that I am giving you today.
 
 **6** For Yahweh your God will bless you, as he has promised you. You will lend to many nations, but you will not borrow. You will rule over many nations, but they will not rule over you.
 
@@ -1303,7 +1303,7 @@
 
 **11** Rejoice before Yahweh your God at the place that Yahweh your God will choose as a dwelling for his name, you and your son and your daughter, your male and female slaves, the Levite who lives in your towns, and the foreigner,[^16-10] the fatherless[^16-11] and the widow who live among you.
 
-**12** Remember that you were a slave in Egypt, and be careful to follow these statutes.
+**12** Remember that you were a slave in Egypt, and be careful to follow these decrees.
 
 **13** Keep the Festival of Shelters[^16-12] for seven days, when you have gathered in the produce of your threshing floor and your winepress.
 
@@ -1387,9 +1387,9 @@
 
 **18** When he sits on the throne of his kingdom, he is to write for himself on a scroll a copy of this law,[^17-14] taken from the one kept by the Levitical priests.[^17-15]
 
-**19** It is to be with him, and he is to read from it all the days of his life, so that he may learn to fear Yahweh his God by keeping all the words of this law and these statutes and doing them,
+**19** It is to be with him, and he is to read from it all the days of his life, so that he may learn to fear Yahweh his God by keeping all the words of this law and these decrees and doing them,
 
-**20** so that his heart will not be lifted up above his brothers, and so that he will not turn aside from the commandment, to the right or to the left. Then he and his sons will reign long over his kingdom in Israel.
+**20** so that his heart will not be lifted up above his brothers, and so that he will not turn aside from the command, to the right or to the left. Then he and his sons will reign long over his kingdom in Israel.
 
 [^17-1]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
 [^17-2]: Hebrew *to'evah*: something abhorrent, especially in worship. Also in verse 4.
@@ -1491,7 +1491,7 @@
 
 **8** Yahweh your God may enlarge your territory, as he swore to your ancestors,[^19-10] and give you all the land he promised to give your ancestors,
 
-**9** if you are careful to keep all this commandment that I am giving you today, to love Yahweh your God and to walk in his ways always. Then you are to add three more cities to these three.
+**9** if you are careful to keep all this command that I am giving you today, to love Yahweh your God and to walk in his ways always. Then you are to add three more cities to these three.
 
 **10** This is so that innocent blood will not be shed in the land that Yahweh your God is giving you as an inheritance, and you will not be guilty of bloodshed.[^19-11]
 
@@ -1519,7 +1519,7 @@
 
 [^19-1]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
 [^19-2]: Literally "Prepare the way for yourself". Or "Measure the distances".
-[^19-3]: Hebrew *rotseach*, "killer", from the verb used in "Do not murder" (5:17). Here it is someone who has killed without meaning to. Also in verses 4 and 6.
+[^19-3]: Hebrew *rotseach*, "killer", from the verb used in "You must not murder" (5:17). Here it is someone who has killed without meaning to. Also in verses 4 and 6.
 [^19-4]: Literally "and he was not hating him yesterday and the day before"; also in verse 6.
 [^19-5]: Literally "and his hand is driven with the axe to cut the tree, and the iron slips off the wood and finds his neighbor, and he dies".
 [^19-6]: Hebrew *go'el ha-dam*: the relative responsible for avenging the death of a family member. Also in verse 12.
@@ -1981,17 +1981,17 @@
 
 **12** When you have finished setting aside the whole tithe of your produce in the third year, the year of the tithe, and have given it to the Levite, the foreigner, the fatherless[^26-8] and the widow, so that they may eat in your towns[^26-9] and be satisfied,
 
-**13** then say before Yahweh your God, "I have removed the holy portion from my house, and I have given it to the Levite, the foreigner, the fatherless and the widow, just as you commanded me. I have not turned aside from any of your commandments, and I have not forgotten them.
+**13** then say before Yahweh your God, "I have removed the holy portion from my house, and I have given it to the Levite, the foreigner, the fatherless and the widow, just as you commanded me. I have not turned aside from any of your commands, and I have not forgotten them.
 
 **14** I have not eaten any of it while I was in mourning, or removed any of it while I was unclean, or given any of it for the dead.[^26-10] I have listened to the voice of Yahweh my God. I have done everything you commanded me.
 
 **15** Look down from your holy dwelling, from heaven, and bless your people Israel and the land you have given us, as you swore to our ancestors, a land flowing with milk and honey."
 
-**16** This day Yahweh your God commands you to follow these statutes and rulings. Be careful to follow them with all your heart and with all your soul.[^26-11]
+**16** This day Yahweh your God commands you to follow these decrees and rulings. Be careful to follow them with all your heart and with all your soul.[^26-11]
 
-**17** Today you have declared[^26-12] that Yahweh is your God, and that you will walk in his ways, and keep his statutes, his commandments and his rulings, and listen to his voice.
+**17** Today you have declared[^26-12] that Yahweh is your God, and that you will walk in his ways, and keep his decrees, his commands and his rulings, and listen to his voice.
 
-**18** And today Yahweh has declared that you are his people, his treasured possession,[^26-13] as he promised you, and that you are to keep all his commandments,
+**18** And today Yahweh has declared that you are his people, his treasured possession,[^26-13] as he promised you, and that you are to keep all his commands,
 
 **19** and that he will set you high above all the nations he has made, for praise, fame and honor, and that you will be a people holy to Yahweh your God, as he promised.[^26-14]
 
@@ -2014,7 +2014,7 @@
 
 *Status: draft*
 
-**1** Then Moses and the elders of Israel commanded the people, "Keep the whole commandment[^27-1] that I am giving you today.
+**1** Then Moses and the elders of Israel commanded the people, "Keep the whole command[^27-1] that I am giving you today.
 
 **2** On the day you cross the Jordan into the land that Yahweh[^27-2] your God is giving you, set up some large stones and coat them with plaster.
 
@@ -2032,7 +2032,7 @@
 
 **9** Then Moses and the Levitical priests[^27-9] spoke to all Israel, "Be silent and listen, Israel. This day you have become the people of Yahweh your God.
 
-**10** So listen to the voice of Yahweh your God, and follow his commandments and his statutes that I am giving you today."
+**10** So listen to the voice of Yahweh your God, and follow his commands and his decrees that I am giving you today."
 
 **11** That day Moses gave the people this command:
 
@@ -2088,7 +2088,7 @@
 
 *Status: draft*
 
-**1** "If you listen carefully to the voice of Yahweh[^28-1] your God[^28-2] and are careful to follow all his commandments that I am giving you today, Yahweh your God will set you high above all the nations of the earth.
+**1** "If you listen carefully to the voice of Yahweh[^28-1] your God[^28-2] and are careful to follow all his commands that I am giving you today, Yahweh your God will set you high above all the nations of the earth.
 
 **2** All these blessings will come on you and overtake you, if you listen to the voice of Yahweh your God:
 
@@ -2104,7 +2104,7 @@
 
 **8** Yahweh will command the blessing to be with you in your barns and in everything you set your hand to. He will bless you in the land that Yahweh your God is giving you.
 
-**9** Yahweh will establish you as a people holy to himself, as he swore to you, if you keep the commandments of Yahweh your God and walk in his ways.
+**9** Yahweh will establish you as a people holy to himself, as he swore to you, if you keep the commands of Yahweh your God and walk in his ways.
 
 **10** Then all the peoples of the earth will see that you are called by the name of Yahweh,[^28-4] and they will be afraid of you.
 
@@ -2112,11 +2112,11 @@
 
 **12** Yahweh will open for you his rich storehouse, the heavens, to give rain to your land in its season and to bless all the work of your hands. You will lend to many nations, but you will not borrow.
 
-**13** Yahweh will make you the head and not the tail. You will always be at the top and never at the bottom, if you listen to the commandments of Yahweh your God that I am giving you today, and are careful to follow them,
+**13** Yahweh will make you the head and not the tail. You will always be at the top and never at the bottom, if you listen to the commands of Yahweh your God that I am giving you today, and are careful to follow them,
 
 **14** and if you do not turn aside from any of the words that I am commanding you today, to the right or to the left, to follow other gods and serve them.
 
-**15** But if you do not listen to the voice of Yahweh your God, and are not careful to follow all his commandments and his statutes that I am giving you today, then all these curses will come on you and overtake you:
+**15** But if you do not listen to the voice of Yahweh your God, and are not careful to follow all his commands and his decrees that I am giving you today, then all these curses will come on you and overtake you:
 
 **16** You will be cursed in the city, and cursed in the country.
 
@@ -2176,7 +2176,7 @@
 
 **44** He will lend to you, but you will not lend to him. He will be the head, and you will be the tail.
 
-**45** All these curses will come on you. They will pursue you and overtake you until you are destroyed, because you did not listen to the voice of Yahweh your God, to keep his commandments and his statutes that he commanded you.
+**45** All these curses will come on you. They will pursue you and overtake you until you are destroyed, because you did not listen to the voice of Yahweh your God, to keep his commands and his decrees that he commanded you.
 
 **46** They will be a sign and a wonder against you and your descendants forever.
 
@@ -2352,13 +2352,13 @@
 
 **7** Yahweh your God will put all these curses on your enemies and on those who hate you and persecuted you.
 
-**8** And you will again[^30-7] listen to the voice of Yahweh and follow all his commandments that I am giving you today.
+**8** And you will again[^30-7] listen to the voice of Yahweh and follow all his commands that I am giving you today.
 
 **9** Yahweh your God will make you prosper abundantly in all the work of your hands, in the fruit of your womb, the fruit of your livestock and the fruit of your ground. For Yahweh will again delight in you and make you prosper, as he delighted in your ancestors,
 
-**10** when you listen to the voice of Yahweh your God by keeping his commandments and his statutes that are written in this book of the law, when you turn back to Yahweh your God with all your heart and with all your soul.
+**10** when you listen to the voice of Yahweh your God by keeping his commands and his decrees that are written in this book of the law, when you turn back to Yahweh your God with all your heart and with all your soul.
 
-**11** For this commandment that I am giving you today is not too hard for you,[^30-8] and it is not far away.
+**11** For this command that I am giving you today is not too hard for you,[^30-8] and it is not far away.
 
 **12** It is not in heaven, so that you should say, 'Who will go up to heaven for us and bring it to us, and tell it to us so that we may do it?'[^30-9]
 
@@ -2368,7 +2368,7 @@
 
 **15** See, today I have set before you life and good, death and evil.[^30-10]
 
-**16** For I am commanding you today to love Yahweh your God, to walk in his ways, and to keep his commandments, his statutes and his rulings.[^30-11] Then you will live and multiply, and Yahweh your God will bless you in the land you are entering to take possession of.
+**16** For I am commanding you today to love Yahweh your God, to walk in his ways, and to keep his commands, his decrees and his rulings.[^30-11] Then you will live and multiply, and Yahweh your God will bless you in the land you are entering to take possession of.
 
 **17** But if your heart turns away and you do not listen, and you are drawn away to bow down to other gods and serve them,
 
@@ -2388,7 +2388,7 @@
 [^30-8]: Literally "too wonderful for you".
 [^30-9]: Paul uses verses 12–14 in Romans 10:6–8.
 [^30-10]: Or "prosperity and disaster". Hebrew *tov* and *ra*.
-[^30-11]: The Septuagint begins the verse "If you listen to the commandments of the Lord your God that I am commanding you today, to love …".
+[^30-11]: The Septuagint begins the verse "If you listen to the commands of the Lord your God that I am commanding you today, to love …".
 [^30-12]: Or "For that means life for you and length of days".
 
 ## Chapter 31
@@ -2458,7 +2458,7 @@
 [^31-1]: A Dead Sea Scroll (1QDeut-b) and the Septuagint read "When Moses had finished speaking all these words to all Israel".
 [^31-2]: Literally "to go out and to come in", that is, to lead you in war and in daily life.
 [^31-3]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
-[^31-4]: Literally "according to all the commandment that I have commanded you".
+[^31-4]: Literally "according to all the command that I have commanded you".
 [^31-5]: Literally "fathers"; also in verses 16 and 20.
 [^31-6]: Hebrew *shemittah*, "letting drop": the cancellation of debts every seventh year (15:1–11).
 [^31-7]: Hebrew *sukkot*, "booths, shelters". Traditionally "Tabernacles". See 16:13.

@@ -568,7 +568,7 @@
 
 **2** Yahweh[^7-1] said to Gideon, "You have too many people with you for me to hand Midian over to them. Israel might boast against me, 'My own hand has saved me.'
 
-**3** Now announce to the people,[^7-2] 'Whoever is afraid and trembling may turn back and leave Mount Gilead.'"[^7-3] So 22,000 of the people turned back, and ten thousand remained.
+**3** Now announce to the people,[^7-2] 'Whoever is afraid and trembling may turn back and leave Mount Gilead.'"[^7-3] So twenty-two thousand of the people turned back, and ten thousand remained.
 
 **4** Yahweh said to Gideon, "There are still too many people. Take them down to the water, and I will sift them for you there. If I say to you, 'This one is to go with you,' he is to go with you. But anyone of whom I say to you, 'This one is not to go with you,' is not to go."
 
@@ -683,7 +683,7 @@
 
 **25** They said, "We will gladly give them."[^8-14] So they spread out a cloak, and each man threw on it an earring from his plunder.
 
-**26** The weight of the gold earrings that he asked for was 1,700 shekels of gold,[^8-15] besides the crescent ornaments, the pendants and the purple garments worn by the kings of Midian, and besides the chains on their camels' necks.
+**26** The weight of the gold earrings that he asked for was seventeen hundred shekels of gold,[^8-15] besides the crescent ornaments, the pendants and the purple garments worn by the kings of Midian, and besides the chains on their camels' necks.
 
 **27** Gideon made it into an ephod[^8-16] and set it up in his town, in Ophrah. All Israel prostituted themselves to it there,[^8-17] and it became a trap for Gideon and his family.
 
@@ -717,7 +717,7 @@
 [^8-12]: Hebrew *nezem*, an earring or a nose ring. Also in verses 25 and 26.
 [^8-13]: *Ishmaelites* here seems to be a general name for the desert traders. Compare Genesis 37:25–28, where Ishmaelites and Midianites appear together.
 [^8-14]: Literally "We will surely give."
-[^8-15]: Literally "1,700 of gold". A shekel is about 2/5 ounce (11.5 grams), so 1,700 shekels is about 43 pounds (19.5 kg).
+[^8-15]: Literally "seventeen hundred of gold". A shekel is about 2/5 ounce (11.5 grams), so seventeen hundred shekels is about 43 pounds (19.5 kg).
 [^8-16]: Hebrew *ephod*. In Exodus 28:6–14 the ephod is a garment worn by the high priest. Here it seems to be an object used in worship, perhaps to seek guidance from God.
 [^8-17]: Literally "went whoring after it there", an image of unfaithfulness to Yahweh.
 [^8-18]: Literally "was quiet".
@@ -1044,7 +1044,7 @@
 
 **5** The Gileadites seized the fords of the Jordan leading to Ephraim. Whenever a fugitive from Ephraim said, "Let me cross over," the men of Gilead would ask him, "Are you an Ephraimite?" If he said, "No,"
 
-**6** they would say to him, "Then say 'Shibboleth.'" He would say "Sibboleth,"[^12-5] because he could not pronounce it correctly. Then they would seize him and kill him at the fords of the Jordan. At that time 42,000 Ephraimites fell.
+**6** they would say to him, "Then say 'Shibboleth.'" He would say "Sibboleth,"[^12-5] because he could not pronounce it correctly. Then they would seize him and kill him at the fords of the Jordan. At that time forty-two thousand Ephraimites fell.
 
 **7** Jephthah judged Israel for six years. Then Jephthah the Gileadite died and was buried in one of the towns of Gilead.[^12-6]
 
@@ -1254,3 +1254,133 @@
 [^15-10]: Hebrew *makhtesh*, literally "mortar", a hollow in the ground.
 [^15-11]: Literally "his spirit returned".
 [^15-12]: "The spring of the one who called". *Qore* can also mean "partridge".
+
+## Chapter 16
+
+*Status: draft*
+
+**1** Samson went to Gaza. There he saw a prostitute, and he slept with her.[^16-1]
+
+**2** The people of Gaza were told,[^16-2] "Samson has come here!" So they surrounded the place and lay in wait for him all night at the city gate. All night they kept quiet, saying, "At dawn we will kill him."
+
+**3** But Samson lay there until midnight. At midnight he got up, took hold of the doors of the city gate and the two gateposts, and pulled them up, bar and all. He put them on his shoulders and carried them up to the top of the hill that faces Hebron.
+
+**4** After this he fell in love with a woman in the Sorek Valley,[^16-3] whose name was Delilah.
+
+**5** The rulers[^16-4] of the Philistines went up to her and said to her, "Coax him, and find out what makes his strength so great, and how we can overpower him, so that we can tie him up and subdue him. Each of us will give you eleven hundred pieces of silver."[^16-5]
+
+**6** So Delilah said to Samson, "Please tell me what makes your strength so great, and how you could be tied up and subdued."
+
+**7** Samson said to her, "If they tie me with seven fresh bowstrings[^16-6] that have not been dried, I will become weak and be like any other man."
+
+**8** So the rulers of the Philistines brought her seven fresh bowstrings that had not been dried, and she tied him with them.
+
+**9** She had men lying in wait in an inner room. She said to him, "The Philistines are upon you, Samson!" But he snapped the bowstrings as a strand of yarn snaps when it touches fire.[^16-7] So the secret of his strength was not discovered.
+
+**10** Then Delilah said to Samson, "You have made a fool of me and told me lies. Now please tell me how you could be tied up."
+
+**11** He said to her, "If they tie me tightly with new ropes that have never been used, I will become weak and be like any other man."
+
+**12** So Delilah took new ropes and tied him with them, and she said to him, "The Philistines are upon you, Samson!" The men lying in wait were in the inner room. But he snapped the ropes off his arms like thread.
+
+**13** Delilah said to Samson, "Until now you have made a fool of me and told me lies. Tell me how you could be tied up." He said to her, "If you weave the seven braids of my hair into the fabric on the loom …"[^16-8]
+
+**14** She fastened it with the pin and said to him, "The Philistines are upon you, Samson!" He woke up from his sleep and pulled out the pin of the loom, and the fabric.
+
+**15** Then she said to him, "How can you say, 'I love you,' when your heart is not with me? Three times now you have made a fool of me, and you have not told me what makes your strength so great."
+
+**16** Day after day she pressed him with her words and nagged him, until he was worn out to death.[^16-9]
+
+**17** So he told her everything[^16-10] and said to her, "No razor has ever touched my head, for I have been a Nazirite[^16-11] dedicated to God from my mother's womb. If I were shaved, my strength would leave me, and I would become weak and be like any other man."
+
+**18** When Delilah saw that he had told her everything, she sent word to the rulers of the Philistines: "Come up this once, for he has told me everything."[^16-12] So the rulers of the Philistines came up to her, and they brought the silver with them.
+
+**19** She lulled him to sleep on her knees and called a man, and she had the seven braids of his hair shaved off.[^16-13] Then she began to subdue him,[^16-14] and his strength left him.
+
+**20** She said, "The Philistines are upon you, Samson!" He woke up from his sleep and thought, "I will go out as at other times and shake myself free." But he did not know that Yahweh[^16-15] had left him.
+
+**21** The Philistines seized him and gouged out his eyes. They took him down to Gaza and bound him with bronze chains, and he was made to grind grain in the prison.
+
+**22** But the hair of his head began to grow again after it had been shaved.
+
+**23** Now the rulers of the Philistines gathered to offer a great sacrifice to Dagon[^16-16] their god and to celebrate. They said, "Our god has handed over to us Samson our enemy."
+
+**24** When the people saw him, they praised their god, for they said, "Our god has handed over to us our enemy, who laid waste our land and killed so many of us."
+
+**25** When they were in high spirits,[^16-17] they said, "Call Samson to entertain us." So they called Samson from the prison, and he entertained them.[^16-18] They made him stand between the pillars.
+
+**26** Samson said to the young man who was leading him by the hand, "Let me feel the pillars that hold up the temple,[^16-19] so that I can lean against them."
+
+**27** Now the temple was full of men and women. All the rulers of the Philistines were there, and on the roof there were about three thousand men and women watching Samson entertain them.
+
+**28** Then Samson called out to Yahweh, "Lord Yahweh, please remember me. Please give me strength just this once, O God, so that with one act of revenge I may pay back the Philistines for my two eyes."[^16-20]
+
+**29** Samson took hold of the two central pillars that held up the temple, and he braced himself against them, one with his right hand and the other with his left.
+
+**30** Samson said, "Let me die with the Philistines!" He pushed with all his strength, and the temple fell on the rulers and on all the people in it. So those he killed at his death were more than those he had killed during his life.
+
+**31** His brothers and all his father's family came down and took him. They brought him up and buried him between Zorah and Eshtaol in the tomb of his father Manoah. He had judged Israel for twenty years.
+
+[^16-1]: Literally "went in to her", a Hebrew way of speaking of sexual relations.
+[^16-2]: The Hebrew has no verb here: literally "To the people of Gaza, saying". The Septuagint reads "It was told to the people of Gaza".
+[^16-3]: Hebrew *nachal Soreq*, a stream bed that often runs dry in summer.
+[^16-4]: Hebrew *seranim*, a title used only for the rulers of the five Philistine cities (3:3). Also in verses 8, 18, 23, 27 and 30.
+[^16-5]: Literally "eleven hundred of silver", probably shekels: about 28 pounds (12.7 kg).
+[^16-6]: Or "cords", probably made from animal sinew. Also in verses 8 and 9.
+[^16-7]: Literally "as a thread of tow snaps when it smells fire". Tow is the coarse, broken fiber of flax.
+[^16-8]: The Hebrew sentence breaks off here. The Septuagint continues: "… and fasten it with the pin into the wall, I will become weak and be like any other man." In verse 14 it then begins: "While he was asleep, Delilah took the seven braids of his hair and wove them into the fabric."
+[^16-9]: Literally "his soul became short, to death".
+[^16-10]: Literally "all his heart"; also in verse 18.
+[^16-11]: Hebrew *nazir*, "one set apart, dedicated". See 13:5.
+[^16-12]: The Hebrew text is written "he has told her everything" but read "he has told me everything".
+[^16-13]: Literally "she called to the man, and she shaved the seven braids of his head".
+[^16-14]: The Septuagint reads "he began to grow weak".
+[^16-15]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^16-16]: A god worshiped by the Philistines, probably a god of grain (Hebrew *dagan*, "grain").
+[^16-17]: Literally "When their heart was good".
+[^16-18]: Or "he performed for them", or "they made sport of him". The verb can mean to laugh, to play, or to make fun of. Also in verse 27.
+[^16-19]: Literally "the house"; also in verses 27, 29 and 30.
+[^16-20]: Or "for one of my two eyes".
+
+## Chapter 17
+
+*Status: draft*
+
+**1** There was a man from the hill country of Ephraim named Micah.[^17-1]
+
+**2** He said to his mother, "The eleven hundred pieces of silver[^17-2] that were taken from you, about which you pronounced a curse, and said it in my hearing too: look, the silver is with me. I took it." His mother said, "May my son be blessed by Yahweh!"[^17-3]
+
+**3** He gave the eleven hundred pieces of silver back to his mother, and his mother said, "I solemnly dedicate the silver to Yahweh from my hand for my son, to make a carved image and a cast idol.[^17-4] So now I will give it back to you."
+
+**4** So he gave the silver back to his mother, and his mother took two hundred pieces of silver[^17-5] and gave them to a silversmith, who made them into a carved image and a cast idol. And it was in Micah's house.
+
+**5** This man Micah had a shrine.[^17-6] He made an ephod[^17-7] and household gods,[^17-8] and he installed[^17-9] one of his sons, who became his priest.
+
+**6** In those days there was no king in Israel. Everyone did what was right in his own eyes.
+
+**7** There was a young man from Bethlehem in Judah, of the clan of Judah. He was a Levite, and he had been living there as a foreigner.[^17-10]
+
+**8** The man left the town, Bethlehem in Judah, to live wherever he could find a place. On his journey he came to the hill country of Ephraim, to Micah's house.
+
+**9** Micah said to him, "Where do you come from?" He said to him, "I am a Levite from Bethlehem in Judah, and I am going to live wherever I can find a place."
+
+**10** Micah said to him, "Stay with me and be a father and a priest to me. I will give you ten pieces of silver[^17-11] a year, a set of clothes, and your food." So the Levite went in.[^17-12]
+
+**11** The Levite agreed to live with the man, and the young man became like one of his sons.
+
+**12** Micah installed the Levite, and the young man became his priest and lived in Micah's house.
+
+**13** Then Micah said, "Now I know that Yahweh will make me prosper, because I have a Levite as my priest."
+
+[^17-1]: Here and in verse 4 the Hebrew has the longer form of the name, *Mikhayehu*; elsewhere in chapters 17–18 it is *Mikhah*.
+[^17-2]: Literally "eleven hundred of silver", probably shekels: about 28 pounds (12.7 kg). Also in verse 3.
+[^17-3]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^17-4]: Hebrew *pesel u-massekhah*. The two words may describe a single image: a carved figure covered with cast metal. Also in verse 4.
+[^17-5]: Literally "two hundred of silver", about 5 pounds (2.3 kg).
+[^17-6]: Literally "a house of God" or "a house of gods".
+[^17-7]: See 8:27.
+[^17-8]: Hebrew *teraphim*, small images of gods kept in the home (Genesis 31:19).
+[^17-9]: Literally "filled the hand of", an expression for ordaining a priest (Exodus 28:41). Also in verse 12.
+[^17-10]: Hebrew *ger*: someone living away from his own people.
+[^17-11]: Literally "ten of silver", about 4 ounces (115 grams).
+[^17-12]: Literally "And the Levite went."

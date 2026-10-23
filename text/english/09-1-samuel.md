@@ -1039,3 +1039,170 @@
 [^14-28]: Or "He gathered an army". Hebrew *va-ya'as chayil*.
 [^14-29]: Compare the lists of Saul's sons in 31:2 and 1 Chronicles 8:33.
 [^14-30]: Literally "he gathered him to himself".
+
+## Chapter 15
+
+*Status: draft*
+
+**1** Samuel said to Saul, "Yahweh[^15-1] sent me to anoint you king over his people Israel. So now listen to the words of Yahweh.
+
+**2** This is what Yahweh of Armies[^15-2] says: 'I will punish[^15-3] what Amalek did to Israel, how they opposed them on the way when they came up out of Egypt.[^15-4]
+
+**3** Now go and strike Amalek. Devote to destruction[^15-5] everything that belongs to them. Do not spare them, but put them to death, men and women, children and babies, oxen and sheep, camels and donkeys.'"
+
+**4** So Saul summoned the troops and counted them at Telaim: two hundred thousand foot soldiers, and ten thousand men of Judah.
+
+**5** Saul came to the city of Amalek and set an ambush[^15-6] in the valley.
+
+**6** Saul said to the Kenites, "Go, leave, get away from among the Amalekites, so that I do not destroy you along with them. For you showed faithful love to all the Israelites when they came up out of Egypt." So the Kenites withdrew from among the Amalekites.
+
+**7** Then Saul struck down the Amalekites from Havilah all the way to Shur,[^15-7] which is east of Egypt.
+
+**8** He captured Agag king of the Amalekites alive, and he devoted all the people to destruction with the sword.
+
+**9** But Saul and the troops spared Agag, and the best of the sheep and cattle, the fatlings[^15-8] and the lambs, and everything that was good. They were unwilling to devote them to destruction. But everything that was despised and worthless they devoted to destruction.
+
+**10** Then the word of Yahweh came to Samuel:
+
+**11** "I regret[^15-9] that I made Saul king, for he has turned back from following me and has not carried out my words." Samuel was angry,[^15-10] and he cried out to Yahweh all night.
+
+**12** Early in the morning Samuel got up to meet Saul. Samuel was told, "Saul went to Carmel, and there he set up a monument[^15-11] for himself. Then he turned and went on, down to Gilgal."
+
+**13** When Samuel came to Saul, Saul said to him, "May Yahweh bless you! I have carried out the word of Yahweh."
+
+**14** But Samuel said, "Then what is this bleating of sheep in my ears, and the lowing of cattle that I hear?"
+
+**15** Saul said, "They brought them from the Amalekites. The troops spared the best of the sheep and cattle to sacrifice to Yahweh your God, but the rest we devoted to destruction."
+
+**16** Samuel said to Saul, "Stop! Let me tell you what Yahweh said to me last night." He said to him,[^15-12] "Tell me."
+
+**17** Samuel said, "Though you were small in your own eyes, are you not the head of the tribes of Israel? Yahweh anointed you king over Israel.
+
+**18** Yahweh sent you on a mission[^15-13] and said, 'Go and devote the sinners, the Amalekites, to destruction. Fight against them until you have wiped them out.'
+
+**19** Why then did you not obey Yahweh?[^15-14] Why did you pounce on the plunder and do what was evil in the sight of Yahweh?"
+
+**20** Saul said to Samuel, "But I did obey Yahweh. I went on the mission Yahweh sent me on. I brought back Agag king of the Amalekites, and I devoted the Amalekites to destruction.
+
+**21** But the troops took sheep and cattle from the plunder, the best of what was devoted to destruction,[^15-15] to sacrifice to Yahweh your God at Gilgal."
+
+**22** Samuel said, "Does Yahweh delight in burnt offerings and sacrifices as much as in obeying the voice of Yahweh? To obey is better than sacrifice, and to pay attention is better than the fat of rams.
+
+**23** For rebellion is like the sin of divination, and stubbornness like wickedness and household gods.[^15-16] Because you have rejected the word of Yahweh, he has rejected you as king."
+
+**24** Saul said to Samuel, "I have sinned. I have gone against Yahweh's command[^15-17] and your words, because I was afraid of the troops and listened to them.
+
+**25** Now, please forgive my sin and come back with me, so that I may worship Yahweh."
+
+**26** Samuel said to Saul, "I will not come back with you. For you have rejected the word of Yahweh, and Yahweh has rejected you from being king over Israel."
+
+**27** As Samuel turned to leave, Saul[^15-18] seized the hem of his robe, and it tore.
+
+**28** Samuel said to him, "Yahweh has torn the kingdom of Israel from you today and given it to a neighbor of yours who is better than you.
+
+**29** And the Glory of Israel[^15-19] does not lie or change his mind,[^15-20] for he is not a human being, that he should change his mind."
+
+**30** Saul said, "I have sinned. But please honor me now before the elders of my people and before Israel. Come back with me, so that I may worship Yahweh your God."
+
+**31** So Samuel went back with Saul, and Saul worshiped Yahweh.
+
+**32** Then Samuel said, "Bring me Agag king of the Amalekites." Agag came to him in chains.[^15-21] Agag said, "Surely the bitterness of death is past."[^15-22]
+
+**33** But Samuel said, "As your sword has made women childless, so your mother will be the most childless of women." And Samuel hacked Agag to pieces[^15-23] before Yahweh at Gilgal.
+
+**34** Then Samuel went to Ramah, and Saul went up to his home at Gibeah of Saul.
+
+**35** Samuel did not see Saul again until the day of his death, but Samuel mourned for Saul. And Yahweh regretted that he had made Saul king over Israel.
+
+[^15-1]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^15-2]: Hebrew *YHWH tseva'ot*, traditionally "the LORD of hosts" or "the LORD Almighty". *Tseva'ot* means armies: the heavenly hosts and the armies of Israel.
+[^15-3]: Hebrew *paqad*, "attend to", here in the sense of punishing. Or "I have taken note of".
+[^15-4]: See Exodus 17:8–16 and Deuteronomy 25:17–19.
+[^15-5]: Hebrew *charam*, "devote to destruction": give up to God by destroying completely. Also in verses 8–9, 15, 18 and 20.
+[^15-6]: Or "fought". The form of the Hebrew verb is unusual.
+[^15-7]: Literally "as you come to Shur".
+[^15-8]: Hebrew *mishnim*, of uncertain meaning: perhaps "the second best", or, with a slight change, "the fat ones".
+[^15-9]: Hebrew *nicham*, "regret, be sorry, change one's mind". Also in verses 29 and 35.
+[^15-10]: Or "distressed".
+[^15-11]: Literally "a hand".
+[^15-12]: The Hebrew text is written "They said to him" but read "He said to him".
+[^15-13]: Literally "on a way". Also in verse 20.
+[^15-14]: Literally "listen to the voice of Yahweh". Also in verse 20.
+[^15-15]: Hebrew *cherem*, what is devoted to destruction.
+[^15-16]: Hebrew *teraphim*, images of gods kept in the home (Genesis 31:19). The Hebrew of this line is difficult; literally "and pushing (presumption) is wickedness and *teraphim*".
+[^15-17]: Literally "the mouth of Yahweh".
+[^15-18]: Literally "he". The Septuagint reads "Saul".
+[^15-19]: Hebrew *netsach yisra'el*, perhaps "the Glory of Israel" or "the Eternal One of Israel".
+[^15-20]: Hebrew *nicham*, the verb translated "regret" in verses 11 and 35.
+[^15-21]: Hebrew *ma'adannot*, of uncertain meaning: perhaps "in chains", "cheerfully" or "trembling".
+[^15-22]: Or "Surely the bitterness of death has come."
+[^15-23]: The Hebrew verb is found only here; probably "cut to pieces".
+
+## Chapter 16
+
+*Status: draft*
+
+**1** Yahweh[^16-1] said to Samuel, "How long will you mourn for Saul, when I have rejected him from being king over Israel? Fill your horn with oil and go. I am sending you to Jesse of Bethlehem, for I have chosen[^16-2] a king for myself among his sons."
+
+**2** Samuel said, "How can I go? If Saul hears of it, he will kill me." Yahweh said, "Take a heifer with you, and say, 'I have come to sacrifice to Yahweh.'
+
+**3** Invite Jesse to the sacrifice, and I will let you know what to do. You will anoint for me the one I name to you."
+
+**4** Samuel did what Yahweh said and came to Bethlehem. The elders of the town came trembling to meet him and asked, "Do you come in peace?"
+
+**5** He said, "In peace. I have come to sacrifice to Yahweh. Consecrate yourselves and come with me to the sacrifice." Then he consecrated Jesse and his sons and invited them to the sacrifice.
+
+**6** When they arrived, he saw Eliab and thought, "Surely Yahweh's anointed is standing here before him."[^16-3]
+
+**7** But Yahweh said to Samuel, "Do not look at his appearance or at his height, for I have rejected him. It is not as a human being sees.[^16-4] A human being looks at the outward appearance,[^16-5] but Yahweh looks at the heart."
+
+**8** Then Jesse called Abinadab and made him pass before Samuel. But Samuel said, "Yahweh has not chosen this one either."
+
+**9** Then Jesse made Shammah pass by. But Samuel said, "Yahweh has not chosen this one either."
+
+**10** Jesse made seven of his sons pass before Samuel, but Samuel said to Jesse, "Yahweh has not chosen these."
+
+**11** Then Samuel asked Jesse, "Are these all the boys you have?" He said, "There is still the youngest, but he is looking after the sheep." Samuel said to Jesse, "Send for him and bring him. We will not sit down to eat[^16-6] until he comes here."
+
+**12** So he sent for him and brought him in. He was ruddy,[^16-7] with beautiful eyes, and handsome. Yahweh said, "Get up and anoint him, for this is the one."
+
+**13** So Samuel took the horn of oil and anointed him in the presence of his brothers, and the Spirit of Yahweh rushed upon David[^16-8] from that day on. Then Samuel got up and went to Ramah.
+
+**14** Now the Spirit of Yahweh had left Saul, and an evil spirit[^16-9] from Yahweh tormented him.
+
+**15** Saul's servants[^16-10] said to him, "Look, an evil spirit from God is tormenting you.
+
+**16** Let our lord command your servants here before you to look for a man who knows how to play the lyre.[^16-11] Whenever the evil spirit from God comes on you, he will play it,[^16-12] and you will feel better."
+
+**17** So Saul said to his servants, "Find me a man who plays well and bring him to me."
+
+**18** One of the young men[^16-13] answered, "I have seen a son of Jesse of Bethlehem who knows how to play. He is a brave man[^16-14] and a warrior. He speaks well[^16-15] and is handsome, and Yahweh is with him."
+
+**19** So Saul sent messengers to Jesse and said, "Send me your son David, who is with the sheep."
+
+**20** Jesse took a donkey loaded with bread,[^16-16] a skin of wine and a young goat, and sent them by his son David to Saul.
+
+**21** David came to Saul and entered his service.[^16-17] Saul loved him very much, and David became his armor-bearer.
+
+**22** Saul sent word to Jesse: "Let David stay in my service,[^16-18] for he has found favor in my eyes."
+
+**23** Whenever the spirit from God came on Saul, David would take the lyre and play it. Then Saul would be relieved and feel better, and the evil spirit would leave him.
+
+[^16-1]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^16-2]: Literally "I have seen".
+[^16-3]: Literally "Surely before Yahweh is his anointed." Hebrew *meshicho*, "his anointed one"; see 2:10.
+[^16-4]: Literally "For not what a human being sees". The Septuagint reads "For God does not see as a human being sees".
+[^16-5]: Literally "looks to the eyes".
+[^16-6]: Literally "We will not turn around", perhaps meaning "sit around the table".
+[^16-7]: Or "red-haired". Hebrew *admoni*, "reddish", as of Esau in Genesis 25:25.
+[^16-8]: Hebrew *tsalach*, "rush on, come powerfully on"; see 10:6.
+[^16-9]: Or "a harmful spirit". Hebrew *ruach ra'ah*. Also in verses 15, 16 and 23.
+[^16-10]: Or "officials". Hebrew *avadim*, "servants", here the king's courtiers. Also in verses 16 and 17.
+[^16-11]: Hebrew *kinnor*, a stringed instrument. Also in verse 23.
+[^16-12]: Literally "he will play with his hand". Also in verse 23.
+[^16-13]: Hebrew *ne'arim*, "young men", here attendants.
+[^16-14]: Hebrew *gibbor chayil*; see 9:1.
+[^16-15]: Or "He is wise in what he does".
+[^16-16]: Literally "a donkey of bread".
+[^16-17]: Literally "stood before him".
+[^16-18]: Literally "stand before me".

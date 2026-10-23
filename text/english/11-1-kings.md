@@ -156,7 +156,7 @@
 
 **2** "I am about to go the way of all the earth. So be strong, and show yourself a man.
 
-**3** Keep the charge of Yahweh[^2-2] your God:[^2-3] walk in his ways, and keep his statutes, his commandments, his rulings and his decrees,[^2-4] as it is written in the Law of Moses, so that you may succeed[^2-5] in everything you do and wherever you turn,
+**3** Keep the charge of Yahweh[^2-2] your God:[^2-3] walk in his ways, and keep his decrees, his commands, his rulings and his statutes,[^2-4] as it is written in the Law of Moses, so that you may succeed[^2-5] in everything you do and wherever you turn,
 
 **4** and so that Yahweh may keep the promise he made about me: 'If your sons take care how they live,[^2-6] walking before me faithfully with all their heart and with all their soul, you will never lack a man on the throne of Israel.'[^2-7]
 
@@ -247,7 +247,7 @@
 [^2-1]: Literally "The days of David drew near to die".
 [^2-2]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
 [^2-3]: Literally "Keep the keeping of Yahweh your God", that is, what he requires.
-[^2-4]: Hebrew *edot*, "testimonies, witnesses": the solemn terms of the covenant.
+[^2-4]: Hebrew *edot*, traditionally "testimonies": the solemn terms of the covenant.
 [^2-5]: Or "act wisely".
 [^2-6]: Literally "keep their way".
 [^2-7]: Literally "a man will not be cut off for you from upon the throne of Israel". See 2 Samuel 7:12–16.
@@ -287,7 +287,7 @@
 
 **2** The people, however, were still sacrificing at the high places,[^3-2] because no house had yet been built for the name of Yahweh in those days.
 
-**3** Solomon loved Yahweh and walked in the statutes of his father David, except that he offered sacrifices and burned incense[^3-3] at the high places.
+**3** Solomon loved Yahweh and walked in the decrees of his father David, except that he offered sacrifices and burned incense[^3-3] at the high places.
 
 **4** The king went to Gibeon to sacrifice there, because that was the great high place. Solomon offered a thousand burnt offerings on that altar.
 
@@ -309,7 +309,7 @@
 
 **13** I am also giving you what you have not asked for, both riches and honor, so that no one among the kings will be like you as long as you live.[^3-11]
 
-**14** And if you walk in my ways, keeping my statutes and my commandments, as your father David walked, I will give you a long life."[^3-12]
+**14** And if you walk in my ways, keeping my decrees and my commands, as your father David walked, I will give you a long life."[^3-12]
 
 **15** Then Solomon woke up, and he realized it had been a dream. He went to Jerusalem and stood before the ark of the covenant of the Lord. He offered burnt offerings and fellowship offerings,[^3-13] and he held a feast for all his servants.
 
@@ -445,7 +445,7 @@
 
 **11** He was wiser than anyone else, wiser than Ethan the Ezrahite, and Heman, Calcol and Darda, the sons of Mahol.[^5-13] His fame spread through all the surrounding nations.
 
-**12** He spoke three thousand proverbs, and his songs numbered 1,005.
+**12** He spoke 3,000 proverbs, and his songs numbered 1,005.
 
 **13** He spoke about trees, from the cedar in Lebanon to the hyssop that grows out of the wall. He also spoke about animals, birds, creatures that creep on the ground, and fish.
 
@@ -475,11 +475,11 @@
 
 **26** Yahweh gave Solomon wisdom, as he had promised him. There was peace between Hiram and Solomon, and the two of them made a treaty.[^5-22]
 
-**27** King Solomon conscripted forced labor[^5-23] from all Israel, and the forced labor numbered thirty thousand men.
+**27** King Solomon conscripted forced labor[^5-23] from all Israel, and the forced labor numbered 30,000 men.
 
-**28** He sent them to Lebanon in shifts of ten thousand a month. They spent a month in Lebanon and two months at home. Adoniram was in charge of the forced labor.
+**28** He sent them to Lebanon in shifts of 10,000 a month. They spent a month in Lebanon and two months at home. Adoniram was in charge of the forced labor.
 
-**29** Solomon had seventy thousand men who carried loads and eighty thousand who cut stone in the hills,
+**29** Solomon had 70,000 men who carried loads and 80,000 who cut stone in the hills,
 
 **30** besides Solomon's 3,300 chief officers[^5-24] who were in charge of the work and directed the people doing the work.
 
@@ -540,7 +540,7 @@
 
 **11** Then the word of Yahweh came to Solomon:
 
-**12** "As for this house you are building, if you walk in my statutes, carry out my rulings and keep all my commandments by walking in them, I will fulfill through you the promise I made to your father David.[^6-19]
+**12** "As for this house you are building, if you walk in my decrees, carry out my rulings and keep all my commands by walking in them, I will fulfill through you the promise I made to your father David.[^6-19]
 
 **13** I will live[^6-20] among the Israelites, and I will not abandon my people Israel."
 
@@ -924,13 +924,13 @@
 
 **57** May Yahweh our God be with us as he was with our ancestors. May he never leave us or abandon us.
 
-**58** May he turn our hearts to himself, to walk in all his ways and to keep his commandments, his statutes and his rulings, which he commanded our ancestors.
+**58** May he turn our hearts to himself, to walk in all his ways and to keep his commands, his decrees and his rulings, which he commanded our ancestors.
 
 **59** And may these words of mine, with which I have pleaded before Yahweh, be near to Yahweh our God day and night, so that he will uphold the cause of his servant and the cause of his people Israel, as each day requires,
 
 **60** so that all the peoples of the earth may know that Yahweh is God; there is no other.
 
-**61** So let your heart be fully devoted to[^8-29] Yahweh our God, to walk in his statutes and keep his commandments, as you do today."
+**61** So let your heart be fully devoted to[^8-29] Yahweh our God, to walk in his decrees and keep his commands, as you do today."
 
 **62** Then the king and all Israel with him offered sacrifices before Yahweh.
 
@@ -987,11 +987,11 @@
 
 **3** Yahweh said to him, "I have heard your prayer and your plea that you made before me. I have consecrated this house that you have built, by putting my name there forever. My eyes and my heart will be there for all time.
 
-**4** As for you, if you walk before me as your father David walked, with integrity of heart and uprightness, doing all that I have commanded you, and if you keep my statutes and my rulings,
+**4** As for you, if you walk before me as your father David walked, with integrity of heart and uprightness, doing all that I have commanded you, and if you keep my decrees and my rulings,
 
 **5** then I will establish the throne of your kingdom over Israel forever, as I promised your father David when I said, 'You will never lack a man on the throne of Israel.'[^9-3]
 
-**6** But if you and your sons turn away from following me, and do not keep my commandments and my statutes that I have set before you, but go and serve other gods and bow down to them,
+**6** But if you and your sons turn away from following me, and do not keep my commands and my decrees that I have set before you, but go and serve other gods and bow down to them,
 
 **7** then I will cut Israel off from the land I have given them, and I will reject[^9-4] this house that I have consecrated for my name. Israel will become a byword and an object of ridicule[^9-5] among all the peoples.
 
@@ -1119,13 +1119,13 @@
 
 **25** Each of them brought his gift: articles of silver and articles of gold, garments, weapons[^10-30] and spices, horses and mules, so much year by year.
 
-**26** Solomon gathered chariots and horsemen.[^10-31] He had 1,400 chariots and twelve thousand horsemen, and he stationed them in the chariot cities and with the king in Jerusalem.
+**26** Solomon gathered chariots and horsemen.[^10-31] He had 1,400 chariots and 12,000 horsemen, and he stationed them in the chariot cities and with the king in Jerusalem.
 
 **27** The king made silver as common in Jerusalem as stones, and he made cedar as plentiful as the sycamore-fig trees in the Shephelah.[^10-32]
 
 **28** Solomon's horses were imported from Egypt and from Kue.[^10-33] The king's traders bought them from Kue at a price.
 
-**29** A chariot could be imported from Egypt for six hundred shekels of silver,[^10-34] and a horse for 150. In the same way, through their agents,[^10-35] they exported them to all the kings of the Hittites and the kings of Aram.
+**29** A chariot could be imported from Egypt for 600 shekels of silver,[^10-34] and a horse for 150. In the same way, through their agents,[^10-35] they exported them to all the kings of the Hittites and the kings of Aram.
 
 [^10-1]: A kingdom in southwest Arabia, in what is now Yemen.
 [^10-2]: Literally "the report of Solomon for the name of Yahweh". The meaning of the phrase is uncertain. *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
@@ -1162,3 +1162,226 @@
 [^10-33]: Hebrew *miqveh*, probably Kue, that is, Cilicia, in what is now southern Turkey. Also later in the verse. Some take the word as "in droves".
 [^10-34]: Literally "six hundred of silver", that is, shekels: about 15 pounds (6.9 kg). The horse cost 150 shekels, about 3¾ pounds (1.7 kg).
 [^10-35]: Literally "by their hand".
+
+## Chapter 11
+
+*Status: draft*
+
+**1** King Solomon loved many foreign women besides Pharaoh's daughter: Moabite, Ammonite, Edomite, Sidonian and Hittite women,
+
+**2** from the nations of which Yahweh[^11-1] had said to the Israelites, "You must not intermarry with them, and they must not intermarry with you,[^11-2] for they will surely turn your hearts after their gods." Yet Solomon clung to them in love.
+
+**3** He had seven hundred wives of royal birth[^11-3] and three hundred concubines, and his wives turned his heart away.
+
+**4** When Solomon was old, his wives turned his heart after other gods, and his heart was not fully devoted to Yahweh his God, as the heart of his father David had been.
+
+**5** Solomon followed Ashtoreth,[^11-4] the goddess of the Sidonians, and Milcom,[^11-5] the detestable idol[^11-6] of the Ammonites.
+
+**6** So Solomon did what was evil in the eyes of Yahweh, and he did not follow Yahweh fully, as his father David had done.
+
+**7** Then Solomon built a high place[^11-7] for Chemosh, the detestable idol of Moab, on the hill east of Jerusalem,[^11-8] and for Molech, the detestable idol of the Ammonites.
+
+**8** He did the same for all his foreign wives, who burned incense[^11-9] and sacrificed to their gods.
+
+**9** So Yahweh was angry with Solomon, because his heart had turned away from Yahweh, the God of Israel, who had appeared to him twice
+
+**10** and had commanded him about this very thing, that he must not follow other gods. But he did not keep what Yahweh commanded.
+
+**11** So Yahweh said to Solomon, "Since this is what you have done,[^11-10] and you have not kept my covenant and my decrees, which I commanded you, I will certainly tear the kingdom away from you and give it to your servant.
+
+**12** Yet for the sake of your father David I will not do it in your lifetime. I will tear it out of the hand of your son.
+
+**13** But I will not tear away the whole kingdom. I will give your son one tribe, for the sake of my servant David and for the sake of Jerusalem, which I have chosen."
+
+**14** Then Yahweh raised up an adversary[^11-11] against Solomon, Hadad the Edomite. He was of the royal line in Edom.
+
+**15** Earlier, when David was at war with Edom,[^11-12] Joab the commander of the army went up to bury the dead, and he struck down every male in Edom.
+
+**16** For Joab and all Israel stayed there six months, until he had cut off every male in Edom.
+
+**17** But Hadad[^11-13] fled to Egypt with some Edomites who were servants of his father. Hadad was still a young boy.
+
+**18** They set out from Midian and came to Paran. They took men with them from Paran and came to Egypt, to Pharaoh king of Egypt, who gave him a house, provided him with food[^11-14] and gave him land.
+
+**19** Hadad found great favor with Pharaoh,[^11-15] so that he gave him as his wife the sister of his own wife, the sister of Queen[^11-16] Tahpenes.
+
+**20** The sister of Tahpenes bore him his son Genubath, and Tahpenes brought him up[^11-17] in Pharaoh's house. Genubath lived in Pharaoh's house among Pharaoh's sons.
+
+**21** When Hadad heard in Egypt that David slept with his ancestors[^11-18] and that Joab the commander of the army was dead, Hadad said to Pharaoh, "Let me go, so that I can return to my own country."
+
+**22** Pharaoh said to him, "What have you lacked with me, that you now want to go to your own country?" He said, "Nothing. But please let me go."[^11-19]
+
+**23** God also raised up against Solomon[^11-20] another adversary, Rezon son of Eliada, who had fled from his master Hadadezer king of Zobah.
+
+**24** He gathered men around him and became the leader of a raiding band, when David was killing them.[^11-21] They went to Damascus and settled there, and they ruled in Damascus.[^11-22]
+
+**25** He was an adversary of Israel all the days of Solomon, adding to the harm that Hadad did.[^11-23] He loathed Israel, and he reigned over Aram.[^11-24]
+
+**26** Jeroboam son of Nebat also rebelled against the king.[^11-25] He was an Ephraimite[^11-26] from Zeredah, one of Solomon's servants, and his mother's name was Zeruah, a widow.
+
+**27** This is how he came to rebel against the king. Solomon was building the Millo[^11-27] and closing up the gap in the wall of the city of his father David.
+
+**28** Jeroboam was a man of great ability.[^11-28] When Solomon saw how the young man did his work, he put him in charge of all the forced labor[^11-29] of the house of Joseph.[^11-30]
+
+**29** At that time, when Jeroboam went out of Jerusalem, the prophet Ahijah the Shilonite[^11-31] met him on the road. Ahijah was wearing a new cloak,[^11-32] and the two of them were alone in the open country.
+
+**30** Ahijah took hold of the new cloak he was wearing and tore it into twelve pieces.
+
+**31** He said to Jeroboam, "Take ten pieces for yourself, for this is what Yahweh, the God of Israel, says: 'Look, I am about to tear the kingdom out of Solomon's hand, and I will give you ten tribes.
+
+**32** But he will have one tribe, for the sake of my servant David and for the sake of Jerusalem, the city I have chosen out of all the tribes of Israel.
+
+**33** For they have abandoned me and bowed down to Ashtoreth the goddess of the Sidonians, Chemosh the god of Moab, and Milcom the god of the Ammonites. They have not walked in my ways, doing what is right in my eyes and keeping my decrees and my rulings, as his father David did.[^11-33]
+
+**34** But I will not take the whole kingdom out of his hand. I will keep him as ruler[^11-34] all the days of his life, for the sake of my servant David, whom I chose, who kept my commands and my decrees.
+
+**35** I will take the kingdom out of his son's hand and give it to you, ten tribes.
+
+**36** I will give one tribe to his son, so that my servant David may always have a lamp[^11-35] before me in Jerusalem, the city I have chosen for myself, to put my name there.
+
+**37** As for you, I will take you, and you will reign over all that you desire.[^11-36] You will be king over Israel.
+
+**38** If you listen to all that I command you, and walk in my ways, and do what is right in my eyes by keeping my decrees and my commands, as my servant David did, I will be with you. I will build you a lasting dynasty,[^11-37] as I built for David, and I will give Israel to you.
+
+**39** I will humble the descendants of David because of this, but not forever.'"
+
+**40** Solomon tried to kill Jeroboam, but Jeroboam fled to Egypt, to Shishak king of Egypt, and he stayed in Egypt until Solomon died.
+
+**41** As for the rest of the acts of Solomon, and all that he did, and his wisdom, are they not written in the book of the acts of Solomon?[^11-38]
+
+**42** The time that Solomon reigned in Jerusalem over all Israel was forty years.
+
+**43** Then Solomon slept with his ancestors and was buried in the city of his father David. And his son Rehoboam became king in his place.
+
+[^11-1]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^11-2]: Literally "You shall not go in among them, and they shall not go in among you." See Deuteronomy 7:3–4.
+[^11-3]: Literally "princesses".
+[^11-4]: Hebrew *Ashtoret*, the Canaanite goddess Astarte. Also in verse 33.
+[^11-5]: The god of the Ammonites, also called Molech (verse 7). Also in verse 33.
+[^11-6]: Hebrew *shiqquts*, "detestable thing", a contemptuous word for an idol. Also in verse 7.
+[^11-7]: Hebrew *bamah*: a place of worship, often on a hilltop (3:2).
+[^11-8]: Literally "on the mountain that is in front of Jerusalem", the Mount of Olives (2 Kings 23:13).
+[^11-9]: Or "burned offerings".
+[^11-10]: Literally "Because this has been with you".
+[^11-11]: Hebrew *satan*, "adversary, opponent". Also in verses 23 and 25.
+[^11-12]: Literally "when David was with Edom". See 2 Samuel 8:13–14.
+[^11-13]: Hebrew *Adad*, another spelling of the name.
+[^11-14]: Literally "said bread for him".
+[^11-15]: Literally "in the eyes of Pharaoh".
+[^11-16]: Hebrew *gevirah*, "great lady": the title of the queen or of the king's mother.
+[^11-17]: Literally "weaned him".
+[^11-18]: Literally "lay down with his fathers", a way of speaking of death.
+[^11-19]: Literally "No, but you must surely send me away."
+[^11-20]: Literally "against him".
+[^11-21]: That is, when David defeated Hadadezer's forces (2 Samuel 8:3–8; 10:18).
+[^11-22]: Literally "and they reigned in Damascus".
+[^11-23]: Literally "and with the evil that Hadad". The Hebrew is abrupt.
+[^11-24]: The kingdom of the Arameans, in what is now Syria, with its capital at Damascus.
+[^11-25]: Literally "lifted up his hand against the king". Also in verse 27.
+[^11-26]: Hebrew *Ephrati*, here meaning someone from the tribe of Ephraim.
+[^11-27]: Hebrew *millo*, "filling": probably a terrace or earthwork supporting buildings in the City of David (9:15).
+[^11-28]: Hebrew *gibbor chayil*, "a mighty man of valor": a man of strength, standing and ability.
+[^11-29]: Hebrew *sevel*, "burden": the work gangs that carried loads.
+[^11-30]: The tribes of Ephraim and Manasseh.
+[^11-31]: From Shiloh, in Ephraim, where the ark had once been kept (1 Samuel 1–4).
+[^11-32]: Literally "he". The new cloak is Ahijah's (verse 30).
+[^11-33]: The Septuagint, the Syriac and the Vulgate read "he has abandoned me … he has not walked".
+[^11-34]: Hebrew *nasi*, "leader, prince".
+[^11-35]: Hebrew *nir*, probably "lamp", a picture of a family line that continues. Some take it to mean "dominion".
+[^11-36]: Literally "all that your soul desires".
+[^11-37]: Literally "a sure house".
+[^11-38]: This book, like "the book of the annals of the kings of Israel" and "of the kings of Judah" (14:19, 29), has not survived.
+
+## Chapter 12
+
+*Status: draft*
+
+**1** Rehoboam went to Shechem, for all Israel had come to Shechem to make him king.
+
+**2** When Jeroboam son of Nebat heard of it, he was still in Egypt, where he had fled from King Solomon. Jeroboam was living in Egypt.[^12-1]
+
+**3** They sent and summoned him, and Jeroboam and the whole assembly of Israel came and said to Rehoboam,
+
+**4** "Your father made our yoke heavy. Now lighten the hard service your father demanded and the heavy yoke he put on us, and we will serve you."
+
+**5** He said to them, "Go away for three days, then come back to me." So the people went away.
+
+**6** King Rehoboam consulted the elders who had served[^12-2] his father Solomon while he was alive. He asked, "How do you advise me to answer this people?"
+
+**7** They said to him,[^12-3] "If today you will be a servant to this people and serve them, and answer them by speaking kind words to them, they will be your servants forever."
+
+**8** But he rejected the advice the elders gave him, and he consulted the young men[^12-4] who had grown up with him and who served him.
+
+**9** He said to them, "What do you advise that we answer this people, who have said to me, 'Lighten the yoke your father put on us'?"
+
+**10** The young men who had grown up with him said to him, "This is what you should say to this people who said to you, 'Your father made our yoke heavy, but you must make it lighter for us.' This is what you should tell them: 'My little finger[^12-5] is thicker than my father's waist.
+
+**11** My father loaded you with a heavy yoke, but I will add to your yoke. My father disciplined you with whips, but I will discipline you with scorpions.'"[^12-6]
+
+**12** So Jeroboam and all the people came to Rehoboam on the third day, as the king had told them: "Come back to me on the third day."
+
+**13** The king answered the people harshly. He rejected the advice the elders had given him,
+
+**14** and he spoke to them as the young men advised: "My father made your yoke heavy, but I will add to your yoke. My father disciplined you with whips, but I will discipline you with scorpions."
+
+**15** So the king did not listen to the people, for this turn of events came from Yahweh,[^12-7] to fulfill the word that Yahweh had spoken through Ahijah the Shilonite to Jeroboam son of Nebat.
+
+**16** When all Israel saw that the king would not listen to them, the people answered the king, "What share do we have in David? We have no inheritance in the son of Jesse. To your tents, Israel! Now look after your own house, David!" So Israel went to their tents.[^12-8]
+
+**17** But as for the Israelites who lived in the towns of Judah, Rehoboam reigned over them.
+
+**18** Then King Rehoboam sent Adoram, who was in charge of the forced labor,[^12-9] but all Israel stoned him to death. King Rehoboam managed to get into his chariot and flee to Jerusalem.
+
+**19** So Israel has been in rebellion against the house of David to this day.
+
+**20** When all Israel heard that Jeroboam had returned, they sent and called him to the assembly and made him king over all Israel. No one followed the house of David except the tribe of Judah alone.
+
+**21** When Rehoboam arrived in Jerusalem, he assembled all the house of Judah and the tribe of Benjamin, 180,000 chosen warriors, to fight against the house of Israel and restore the kingdom to Rehoboam son of Solomon.
+
+**22** But the word of God came to Shemaiah the man of God:[^12-10]
+
+**23** "Say to Rehoboam son of Solomon, king of Judah, and to all the house of Judah and Benjamin, and to the rest of the people,
+
+**24** 'This is what Yahweh says: Do not go up or fight against your relatives,[^12-11] the Israelites. Go home, every one of you, for this thing is from me.'" So they listened to the word of Yahweh and went home again, as Yahweh had said.[^12-12]
+
+**25** Then Jeroboam built[^12-13] Shechem in the hill country of Ephraim and lived there. From there he went out and built Penuel.
+
+**26** Jeroboam said to himself,[^12-14] "Now the kingdom will go back to the house of David.
+
+**27** If these people go up to offer sacrifices at the house of Yahweh in Jerusalem, the heart of these people will turn back to their lord, Rehoboam king of Judah. They will kill me and go back to Rehoboam king of Judah."
+
+**28** So the king took advice and made two calves of gold. He said to the people,[^12-15] "You have been going up to Jerusalem long enough.[^12-16] Here are your gods,[^12-17] Israel, who brought you up out of the land of Egypt!"
+
+**29** He set up one in Bethel, and the other he put in Dan.
+
+**30** And this became a sin. The people went before the one as far as Dan.[^12-18]
+
+**31** He also made shrines on the high places,[^12-19] and he appointed priests from all sorts of people,[^12-20] who were not Levites.
+
+**32** Jeroboam instituted a festival on the fifteenth day of the eighth month, like the festival in Judah,[^12-21] and he went up to the altar. He did this in Bethel, sacrificing to the calves he had made, and he stationed in Bethel the priests of the high places he had made.
+
+**33** On the fifteenth day of the eighth month, the month he had devised on his own,[^12-22] he went up to the altar he had made in Bethel. He instituted a festival for the Israelites, and he went up to the altar to burn incense.[^12-23]
+
+[^12-1]: 2 Chronicles 10:2 reads "Jeroboam returned from Egypt". In Hebrew "lived" and "returned" are written with the same consonants.
+[^12-2]: Literally "stood before". Also in verse 8.
+[^12-3]: The Hebrew text is written "he said" but read "they said".
+[^12-4]: Literally "the children". Also in verses 10 and 14.
+[^12-5]: Literally "My little one".
+[^12-6]: Probably whips with barbs or spikes. Also in verse 14.
+[^12-7]: Literally "for it was a turn of affairs from Yahweh". *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^12-8]: That is, they went home.
+[^12-9]: Called Adoniram in 4:6 and 5:28. Hebrew *mas*: work gangs conscripted to labor for the king.
+[^12-10]: "Man of God" is a title for a prophet.
+[^12-11]: Literally "your brothers".
+[^12-12]: After this verse the Septuagint adds a long passage (often numbered 24a–z) that tells the story of Jeroboam's rise in a different form.
+[^12-13]: Or "fortified". Also later in the verse.
+[^12-14]: Literally "in his heart".
+[^12-15]: Literally "to them".
+[^12-16]: Or "It is too much for you to go up to Jerusalem."
+[^12-17]: Or "Here is your god". In the Hebrew, "gods" and "brought you up" are plural. See Exodus 32:4, 8.
+[^12-18]: The sentence seems incomplete. It may mean that the people went all the way to Dan to worship before the calf there.
+[^12-19]: Literally "a house of high places". Hebrew *bamot*: places of worship, often on hilltops (3:2).
+[^12-20]: Literally "from the ends of the people".
+[^12-21]: The Festival of Shelters, held in Judah on the fifteenth day of the seventh month (8:2; Leviticus 23:34).
+[^12-22]: The Hebrew text is written *millevad*, "apart", but read *millibbo*, "from his own heart".
+[^12-23]: Or "to burn offerings".
