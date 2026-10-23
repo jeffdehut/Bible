@@ -150,7 +150,7 @@
 
 **16** The priest is to burn them on the altar as food, an offering by fire, a pleasing aroma. All the fat belongs to Yahweh.
 
-**17** This is a permanent rule for all your generations, wherever you live: you must not eat any fat or any blood."
+**17** This is a permanent decree for all your generations, wherever you live: you must not eat any fat or any blood."
 
 [^3-1]: Hebrew *zevach shelamim*, "a sacrifice of *shelamim*", traditionally "peace offering". *Shelamim* is related to *shalom*, "peace, well-being, wholeness", but its exact sense is uncertain. Most of the meat of this sacrifice was eaten by the worshiper and his household (7:11–21).
 [^3-2]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
@@ -359,7 +359,7 @@
 
 **14** It is to be prepared with oil on a griddle. Bring it well soaked,[^6-10] and present the grain offering in broken pieces[^6-11] as a pleasing aroma to Yahweh.
 
-**15** The priest from among his sons who is anointed to succeed him is to prepare it. It is a permanent rule: it is to be burned completely for Yahweh.
+**15** The priest from among his sons who is anointed to succeed him is to prepare it. It is a permanent decree: it is to be burned completely for Yahweh.
 
 **16** Every grain offering of a priest is to be burned completely.[^6-12] It must not be eaten."
 
@@ -375,7 +375,7 @@
 
 **22** Any male among the priests may eat it. It is most holy.
 
-**23** But no sin offering whose blood is brought into the tent of meeting to make atonement in the holy place may be eaten. It must be burned up in the fire."
+**23** But no sin offering whose blood is brought into the tent of meeting to make atonement in the holy place may be eaten. It must be burned up in the fire.
 
 [^6-1]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
 [^6-2]: Verses 1–23 are 6:8–30 in most English Bibles.
@@ -428,7 +428,7 @@
 
 **17** Any meat of the sacrifice that is left on the third day must be burned up in the fire.
 
-**18** If any of the meat of his fellowship offering is eaten on the third day, the one who offered it will not be accepted. It will not be credited to him. It is spoiled meat,[^7-5] and the person who eats any of it will bear the consequences of his wrongdoing.
+**18** If any of the meat of his fellowship offering is eaten on the third day, it will not be accepted. It will not be credited to the one who offered it. It is spoiled meat,[^7-5] and the person who eats any of it will bear the consequences of his wrongdoing.
 
 **19** Meat that touches anything unclean must not be eaten. It must be burned up in the fire. As for other meat, anyone who is clean may eat it.
 
@@ -464,7 +464,7 @@
 
 **35** This is the portion[^7-11] of Aaron and the portion of his sons from the offerings by fire to Yahweh, from the day they were presented to serve Yahweh as priests.
 
-**36** Yahweh commanded that the Israelites should give it to them from the day he anointed them. It is a permanent rule for all their generations."
+**36** Yahweh commanded that the Israelites should give it to them from the day he anointed them. It is a permanent decree for all their generations."
 
 **37** These are the instructions for the burnt offering, the grain offering, the sin offering, the guilt offering, the ordination offering[^7-12] and the fellowship offering,
 
@@ -652,7 +652,7 @@
 
 **8** Yahweh said to Aaron,
 
-**9** "You and your sons with you must not drink wine or beer[^10-8] when you go into the tent of meeting, or you will die. This is a permanent rule for all your generations.
+**9** "You and your sons with you must not drink wine or beer[^10-8] when you go into the tent of meeting, or you will die. This is a permanent decree for all your generations.
 
 **10** You are to distinguish between the holy and the common,[^10-9] and between the unclean and the clean,
 
@@ -662,7 +662,7 @@
 
 **13** Eat it in a holy place, because it is your share and your sons' share of the offerings by fire to Yahweh. That is what I have been commanded.
 
-**14** But the breast of the wave offering and the thigh of the contribution you may eat in any ritually clean place, you and your sons and your daughters with you, for they have been given as your share and your sons' share from the fellowship offerings of the Israelites.
+**14** But the breast of the wave offering and the thigh of the contribution you may eat in a ritually clean place, you and your sons and your daughters with you, for they have been given as your share and your sons' share from the fellowship offerings of the Israelites.
 
 **15** The thigh of the contribution and the breast of the wave offering are to be brought together with the fat portions for the offerings by fire, to be waved as a wave offering before Yahweh. They will belong to you and to your sons with you as a permanent share, just as Yahweh has commanded."
 
@@ -699,7 +699,7 @@
 
 **3** You may eat any animal that has divided hooves, completely split in two, and that chews the cud.[^11-2]
 
-**4** But of those that only chew the cud or only have divided hooves, you must not eat these: the camel, because although it chews the cud, it does not have divided hooves. It is unclean for you.
+**4** But among those that chew the cud or have divided hooves, you must not eat these: the camel, because although it chews the cud, it does not have divided hooves. It is unclean for you.
 
 **5** The rock badger,[^11-3] because although it chews the cud, it does not have divided hooves. It is unclean for you.
 
@@ -854,7 +854,7 @@
 
 **10** The priest is to examine him. If there is a white swelling in the skin, and it has turned the hair white, and there is raw flesh[^13-7] in the swelling,
 
-**11** it is a chronic[^13-8] skin disease in the skin of his body. The priest is to pronounce him unclean. He is not to isolate him, because he is already unclean.
+**11** it is a chronic[^13-8] skin disease in the skin of his body. The priest is to pronounce him unclean. He is not to isolate him, because he is unclean.
 
 **12** If the skin disease breaks out all over the skin, so that the skin disease covers all the skin of the person with the mark from his head to his feet, wherever the priest looks,
 
@@ -1242,17 +1242,17 @@
 
 **28** The one who burns them must wash his clothes and bathe his body in water. After that he may come into the camp.
 
-**29** "This is to be a permanent rule for you: in the seventh month,[^16-13] on the tenth day of the month, you must deny yourselves[^16-14] and not do any work, whether you are native-born or a foreigner[^16-15] who lives among you.
+**29** "This is to be a permanent decree for you: in the seventh month,[^16-13] on the tenth day of the month, you must deny yourselves[^16-14] and not do any work, whether you are native-born or a foreigner[^16-15] who lives among you.
 
 **30** For on this day atonement will be made for you, to make you clean. You will be clean from all your sins before Yahweh.
 
-**31** It is a Sabbath of complete rest[^16-16] for you, and you must deny yourselves. It is a permanent rule.
+**31** It is a Sabbath of complete rest[^16-16] for you, and you must deny yourselves. It is a permanent decree.
 
 **32** The priest who is anointed and ordained[^16-17] to serve as priest in his father's place is to make atonement. He is to put on the linen garments, the holy garments.
 
 **33** He is to make atonement for the holy sanctuary,[^16-18] and he is to make atonement for the tent of meeting and the altar, and he is to make atonement for the priests and for all the people of the assembly.
 
-**34** This is to be a permanent rule for you, to make atonement for the Israelites once a year for all their sins." And he did as Yahweh had commanded Moses.[^16-19]
+**34** This is to be a permanent decree for you, to make atonement for the Israelites once a year for all their sins." And he did as Yahweh had commanded Moses.[^16-19]
 
 [^16-1]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
 [^16-2]: See 10:1–2.
@@ -1290,7 +1290,7 @@
 
 **6** The priest is to splash the blood against Yahweh's altar at the entrance of the tent of meeting and burn the fat as a pleasing aroma to Yahweh.
 
-**7** They must no longer offer their sacrifices to the goat-demons,[^17-4] after whom they have prostituted themselves.[^17-5] This is to be a permanent rule for them, for all their generations.
+**7** They must no longer offer their sacrifices to the goat-demons,[^17-4] after whom they have prostituted themselves.[^17-5] This is to be a permanent decree for them, for all their generations.
 
 **8** "Tell them also: Any Israelite, or any foreigner[^17-6] who lives among them, who offers a burnt offering or a sacrifice
 
@@ -1357,7 +1357,7 @@
 
 **16** Do not have sexual relations with your brother's wife. That would dishonor your brother.
 
-**17** Do not have sexual relations with a woman and her daughter. Do not marry her son's daughter or her daughter's daughter to have sexual relations with her. They are close relatives.[^18-12] It is depravity.[^18-13]
+**17** Do not have sexual relations with a woman and her daughter. Do not marry her son's daughter or her daughter's daughter to have sexual relations with her. They are close relatives. It is depravity.[^18-12]
 
 **18** Do not marry a woman as a rival to her sister, having sexual relations with her while her sister is still alive.
 
@@ -1365,17 +1365,17 @@
 
 **20** Do not have sexual intercourse with your neighbor's wife and so make yourself unclean with her.
 
-**21** Do not give any of your children to be handed over[^18-14] to Molech,[^18-15] and so profane the name of your God. I am Yahweh.
+**21** Do not give any of your children to be handed over[^18-13] to Molech,[^18-14] and so profane the name of your God. I am Yahweh.
 
-**22** Do not lie with a male as one lies with a woman. It is a detestable act.[^18-16]
+**22** Do not lie with a male as one lies with a woman. It is a detestable act.[^18-15]
 
-**23** Do not have sexual intercourse with any animal and so make yourself unclean with it. No woman is to present herself to an animal to mate with it. It is a perversion.[^18-17]
+**23** Do not have sexual intercourse with any animal and so make yourself unclean with it. No woman is to present herself to an animal to mate with it. It is a perversion.[^18-16]
 
 **24** "Do not make yourselves unclean by any of these things, for by all these things the nations that I am driving out before you made themselves unclean.
 
-**25** The land became unclean, so I punished it for its wrongdoing,[^18-18] and the land vomited out its inhabitants.
+**25** The land became unclean, so I punished it for its wrongdoing,[^18-17] and the land vomited out its inhabitants.
 
-**26** But you must keep my decrees and my rulings, and you must not do any of these detestable things, neither the native-born nor the foreigner[^18-19] who lives among you.
+**26** But you must keep my decrees and my rulings, and you must not do any of these detestable things, neither the native-born nor the foreigner[^18-18] who lives among you.
 
 **27** For the people of the land who were there before you did all these detestable things, and the land became unclean.
 
@@ -1383,11 +1383,11 @@
 
 **29** Whoever does any of these detestable things, the people who do them must be cut off from among their people.
 
-**30** So keep my charge,[^18-20] and do not follow any of the detestable customs that were practiced before you, and do not make yourselves unclean by them. I am Yahweh your God."
+**30** So keep my charge,[^18-19] and do not follow any of the detestable customs that were practiced before you, and do not make yourselves unclean by them. I am Yahweh your God."
 
 [^18-1]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
 [^18-2]: Literally "do not walk in their decrees".
-[^18-3]: Hebrew *chuqqot*, "decrees, rules" (the word in the phrase "permanent rule"), and *mishpatim*, "rulings, judgments". Also in verses 5 and 26.
+[^18-3]: Hebrew *chuqqot*, "decrees, rules" (the word in the phrase "permanent decree"), and *mishpatim*, "rulings, judgments". Also in verses 5 and 26.
 [^18-4]: Or "will find life through them". Compare Nehemiah 9:29; Ezekiel 20:11; Romans 10:5; Galatians 3:12.
 [^18-5]: Literally "the flesh of his flesh". Also in verses 12, 13 and 17.
 [^18-6]: Literally "to uncover nakedness", an idiom for sexual intercourse used throughout verses 6–19.
@@ -1396,15 +1396,14 @@
 [^18-9]: Literally "born of the house or born outside". This may mean a sister born in your father's household or one born to another marriage.
 [^18-10]: Literally "for their nakedness is your own nakedness".
 [^18-11]: Literally "Do not uncover the nakedness of your father's brother".
-[^18-12]: The Septuagint reads "They are your close relatives."
-[^18-13]: Hebrew *zimmah*, "wickedness, lewdness": a deliberate, shameful act.
-[^18-14]: Literally "to make pass over". Elsewhere children are "made to pass through the fire" to Molech, that is, sacrificed by burning (2 Kings 23:10; compare Jeremiah 32:35).
-[^18-15]: A god to whom children were sacrificed. The name may be a deliberate distortion of *melekh*, "king".
-[^18-16]: Hebrew *to'evah*, "abomination, something detestable". Also in verses 26, 27, 29 and 30.
-[^18-17]: Hebrew *tevel*, "confusion": a violation of the natural order.
-[^18-18]: Literally "I visited its iniquity upon it".
-[^18-19]: Hebrew *ger*, a resident foreigner (see 16:29).
-[^18-20]: Hebrew *mishmeret*, "guard duty, obligation": what Yahweh requires.
+[^18-12]: Hebrew *zimmah*, "wickedness, lewdness": a deliberate, shameful act.
+[^18-13]: Literally "to make pass over". Elsewhere children are "made to pass through the fire" to Molech, that is, sacrificed by burning (2 Kings 23:10; compare Jeremiah 32:35).
+[^18-14]: A god to whom children were sacrificed. The name may be a deliberate distortion of *melekh*, "king".
+[^18-15]: Hebrew *to'evah*, "abomination, something detestable". Also in verses 26, 27, 29 and 30.
+[^18-16]: Hebrew *tevel*, "confusion": a violation of the natural order.
+[^18-17]: Literally "I visited its iniquity upon it".
+[^18-18]: Hebrew *ger*, a resident foreigner (see 16:29).
+[^18-19]: Hebrew *mishmeret*, "guard duty, obligation": what Yahweh requires.
 
 ## Chapter 19
 
@@ -1643,3 +1642,607 @@
 [^21-10]: The exact meaning of the Hebrew words *charum* and *sarua* is uncertain.
 [^21-11]: The meaning of several of the Hebrew words in this verse is uncertain.
 [^21-12]: Or "my holy things". Literally "my sanctuaries".
+
+## Chapter 22
+
+*Status: draft*
+
+**1** Yahweh[^22-1] said to Moses,
+
+**2** "Tell Aaron and his sons to treat with care[^22-2] the holy offerings of the Israelites, which they consecrate to me, so that they do not profane my holy name. I am Yahweh.
+
+**3** Say to them: In all your generations, if any of your descendants comes near the holy offerings that the Israelites consecrate to Yahweh while he is unclean,[^22-3] that person must be cut off from my presence. I am Yahweh.
+
+**4** None of Aaron's descendants who has a skin disease[^22-4] or a discharge may eat any of the holy offerings until he is clean. If anyone touches anything made unclean by a dead body,[^22-5] or a man has an emission of semen,
+
+**5** or a man touches any swarming creature that makes him unclean, or any person who makes him unclean, whatever his uncleanness may be,
+
+**6** the person who touches any such thing will be unclean until evening. He must not eat any of the holy offerings unless he has bathed his body in water.
+
+**7** When the sun has set, he will be clean, and after that he may eat the holy offerings, for they are his food.
+
+**8** He must not eat an animal that has died or that was torn by wild beasts, and so make himself unclean by it. I am Yahweh.
+
+**9** The priests are to keep my charge, so that they do not incur sin because of it and die for it when they profane it. I am Yahweh, who makes them holy.
+
+**10** "No outsider[^22-6] may eat any holy offering. Neither a priest's resident guest[^22-7] nor a hired worker may eat a holy offering.
+
+**11** But if a priest buys someone with his money,[^22-8] that person may eat it, and those born in his household may eat his food.
+
+**12** If a priest's daughter marries an outsider, she must not eat any of the holy contributions.[^22-9]
+
+**13** But if a priest's daughter becomes a widow or is divorced, and she has no children, and she returns to her father's household as in her youth, she may eat her father's food. But no outsider may eat it.
+
+**14** "If anyone eats a holy offering unintentionally, he must add a fifth of its value to it and give the holy offering to the priest.
+
+**15** The priests must not profane the holy offerings of the Israelites, which they set apart for Yahweh,
+
+**16** by letting them eat their holy offerings and so bringing on them guilt that requires a penalty.[^22-10] For I am Yahweh, who makes them holy."
+
+**17** Yahweh said to Moses,
+
+**18** "Speak to Aaron and his sons and to all the Israelites and tell them: Any Israelite, or any foreigner[^22-11] in Israel, who presents his offering as a burnt offering to Yahweh, whether for any of their vows or as any of their freewill offerings,
+
+**19** must offer a male without defect from the cattle, the sheep or the goats, so that you may be accepted.
+
+**20** Do not offer anything that has a defect, because it will not be accepted on your behalf.
+
+**21** When anyone presents a fellowship offering to Yahweh to fulfill a vow[^22-12] or as a freewill offering, from the herd or from the flock, it must be without defect to be accepted. There must be no defect in it.
+
+**22** You must not offer to Yahweh anything blind, injured or maimed, or anything with a running sore, a festering rash or scabs.[^22-13] You must not put any of these on the altar as an offering by fire to Yahweh.
+
+**23** You may present as a freewill offering an ox or a sheep that has a limb too long or too short,[^22-14] but it will not be accepted for a vow.
+
+**24** You must not offer to Yahweh an animal whose testicles are bruised, crushed, torn or cut. You must not do this in your land.[^22-15]
+
+**25** You must not accept any such animals from a foreigner[^22-16] and offer them as the food of your God. They are damaged; they have a defect. They will not be accepted on your behalf."
+
+**26** Yahweh said to Moses,
+
+**27** "When an ox, a sheep or a goat is born, it is to stay with its mother for seven days. From the eighth day on, it will be accepted as an offering by fire to Yahweh.
+
+**28** But do not slaughter a cow or a ewe and its young on the same day.
+
+**29** When you sacrifice a thanksgiving offering to Yahweh, sacrifice it in such a way that you will be accepted.
+
+**30** It must be eaten the same day. Do not leave any of it until morning. I am Yahweh.
+
+**31** "Keep my commandments and do them. I am Yahweh.
+
+**32** Do not profane my holy name. I must be treated as holy among the Israelites. I am Yahweh, who makes you holy,
+
+**33** who brought you out of the land of Egypt to be your God. I am Yahweh."
+
+[^22-1]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^22-2]: Literally "that they keep themselves separate from the holy things of the Israelites".
+[^22-3]: Literally "and his uncleanness is upon him".
+[^22-4]: Hebrew *tsara'at*, traditionally "leprosy": a range of skin conditions that made a person ritually unclean (chapter 13).
+[^22-5]: Literally "anything unclean by a *nephesh*", here a dead person.
+[^22-6]: Hebrew *zar*, "stranger": here anyone who does not belong to a priest's family. Also in verses 12 and 13.
+[^22-7]: Hebrew *toshav*, someone living in the priest's household who is not a member of the family.
+[^22-8]: That is, a slave.
+[^22-9]: Hebrew *terumat ha-qodashim*: the holy things set apart as a contribution for the priests (7:14).
+[^22-10]: Literally "and they will cause them to bear the iniquity of guilt when they eat their holy things". It is not clear whether "them" means the priests or the people.
+[^22-11]: Hebrew *ger*, a resident foreigner (see 16:29).
+[^22-12]: Or "to make a special vow".
+[^22-13]: The exact meaning of several of the Hebrew words in this verse is uncertain.
+[^22-14]: Literally "overgrown or stunted".
+[^22-15]: That is, you must not offer such animals. Some understand it as "you must not castrate animals".
+[^22-16]: Hebrew *ben nekhar*, a foreigner who is not a resident among the Israelites.
+
+## Chapter 23
+
+*Status: draft*
+
+**1** Yahweh[^23-1] said to Moses,
+
+**2** "Speak to the Israelites and tell them: These are Yahweh's appointed festivals,[^23-2] which you are to proclaim as holy assemblies.[^23-3] These are my appointed festivals.
+
+**3** For six days work may be done, but the seventh day is a Sabbath of complete rest,[^23-4] a holy assembly. You must not do any work. It is a Sabbath to Yahweh wherever you live.
+
+**4** "These are Yahweh's appointed festivals, the holy assemblies that you are to proclaim at their appointed times.
+
+**5** In the first month,[^23-5] on the fourteenth day of the month, at twilight,[^23-6] is Yahweh's Passover.
+
+**6** On the fifteenth day of the same month is Yahweh's Festival of Unleavened Bread. For seven days you are to eat bread made without yeast.
+
+**7** On the first day you are to hold a holy assembly. You must not do any regular work.[^23-7]
+
+**8** For seven days you are to present an offering by fire to Yahweh. On the seventh day there is to be a holy assembly. You must not do any regular work."
+
+**9** Yahweh said to Moses,
+
+**10** "Speak to the Israelites and tell them: When you come into the land that I am giving you and reap its harvest, you are to bring to the priest a sheaf[^23-8] of the first of your harvest.
+
+**11** He is to wave the sheaf before Yahweh so that you may be accepted. The priest is to wave it on the day after the Sabbath.[^23-9]
+
+**12** On the day you wave the sheaf, you are to offer a male lamb a year old without defect as a burnt offering to Yahweh,
+
+**13** with its grain offering of two-tenths of an ephah[^23-10] of fine flour mixed with oil, an offering by fire to Yahweh, a pleasing aroma, and its drink offering of a quarter of a hin[^23-11] of wine.
+
+**14** You must not eat any bread or roasted grain or fresh grain until this very day, until you have brought the offering of your God. This is a permanent decree for all your generations, wherever you live.
+
+**15** "From the day after the Sabbath, the day you bring the sheaf of the wave offering, you are to count off seven full weeks.[^23-12]
+
+**16** Count fifty days, to the day after the seventh Sabbath. Then present a new grain offering to Yahweh.[^23-13]
+
+**17** From wherever you live, bring two loaves of bread as a wave offering, made of two-tenths of an ephah of fine flour and baked with yeast, as firstfruits to Yahweh.
+
+**18** Along with the bread, present seven male lambs a year old without defect, one young bull and two rams. They are to be a burnt offering to Yahweh, with their grain offering and their drink offerings, an offering by fire, a pleasing aroma to Yahweh.
+
+**19** You are also to offer one male goat as a sin offering and two male lambs a year old as a fellowship offering.
+
+**20** The priest is to wave them, together with the bread of the firstfruits, as a wave offering before Yahweh, along with the two lambs. They are to be holy to Yahweh, for the priest.
+
+**21** On that same day you are to make a proclamation: there is to be a holy assembly for you. You must not do any regular work. This is a permanent decree for all your generations, wherever you live.
+
+**22** "When you reap the harvest of your land, do not reap all the way to the edges of your field as you reap, and do not gather the gleanings of your harvest. Leave them for the poor and for the foreigner.[^23-14] I am Yahweh your God."
+
+**23** Yahweh said to Moses,
+
+**24** "Speak to the Israelites and tell them: In the seventh month, on the first day of the month, you are to have a day of complete rest, a day of remembrance announced with blasts of the horn,[^23-15] a holy assembly.
+
+**25** You must not do any regular work, and you are to present an offering by fire to Yahweh."
+
+**26** Yahweh said to Moses,
+
+**27** "But the tenth day of this seventh month is the Day of Atonement.[^23-16] It is to be a holy assembly for you. You must deny yourselves,[^23-17] and you are to present an offering by fire to Yahweh.
+
+**28** Do not do any work on that same day, because it is a Day of Atonement, to make atonement for you before Yahweh your God.
+
+**29** Anyone who does not deny himself on that same day must be cut off from his people.
+
+**30** Anyone who does any work on that same day, I will destroy that person from among his people.
+
+**31** You must not do any work. This is a permanent decree for all your generations, wherever you live.
+
+**32** It is a Sabbath of complete rest for you, and you must deny yourselves. From the evening of the ninth day of the month until the following evening you are to keep your Sabbath."
+
+**33** Yahweh said to Moses,
+
+**34** "Speak to the Israelites and tell them: On the fifteenth day of this seventh month is Yahweh's Festival of Shelters,[^23-18] for seven days.
+
+**35** On the first day there is to be a holy assembly. You must not do any regular work.
+
+**36** For seven days you are to present an offering by fire to Yahweh. On the eighth day you are to hold a holy assembly and present an offering by fire to Yahweh. It is a closing assembly.[^23-19] You must not do any regular work.
+
+**37** "These are Yahweh's appointed festivals, which you are to proclaim as holy assemblies for presenting offerings by fire to Yahweh: burnt offerings and grain offerings, sacrifices and drink offerings, each on its own day.
+
+**38** They are in addition to Yahweh's Sabbaths,[^23-20] and in addition to your gifts, all your vow offerings and all your freewill offerings that you give to Yahweh.
+
+**39** "So on the fifteenth day of the seventh month, when you have gathered in the produce of the land, you are to celebrate Yahweh's festival for seven days. The first day is to be a day of complete rest, and the eighth day is to be a day of complete rest.
+
+**40** On the first day you are to take for yourselves the fruit of majestic trees,[^23-21] palm fronds, branches of leafy trees and willows from the stream,[^23-22] and you are to rejoice before Yahweh your God for seven days.
+
+**41** You are to celebrate it as a festival to Yahweh for seven days each year. This is a permanent decree for all your generations. You are to celebrate it in the seventh month.
+
+**42** You are to live in shelters for seven days. All the native-born in Israel are to live in shelters,
+
+**43** so that your descendants may know that I made the Israelites live in shelters when I brought them out of the land of Egypt. I am Yahweh your God."
+
+**44** So Moses announced Yahweh's appointed festivals to the Israelites.
+
+[^23-1]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^23-2]: Hebrew *mo'adim*, "appointed times": the fixed times for meeting with Yahweh. Also in verses 4, 37 and 44.
+[^23-3]: Hebrew *miqra'ei qodesh*, "holy callings-together": days when the people gathered for worship. Traditionally "holy convocations".
+[^23-4]: Hebrew *shabbat shabbaton*: a solemn day of complete rest (16:31). Also in verse 32; "a day of complete rest" in verses 24 and 39 is *shabbaton*.
+[^23-5]: The month of Abib (Exodus 13:4), later called Nisan, around March–April.
+[^23-6]: Literally "between the two evenings".
+[^23-7]: Literally "work of labor": ordinary daily work. Also in verses 8, 21, 25, 35 and 36.
+[^23-8]: Hebrew *omer*, here a sheaf of grain. Elsewhere the word is a measure (Exodus 16:36).
+[^23-9]: Later Jewish tradition debated whether this means the weekly Sabbath or the first day of the festival (verse 7). Also in verses 15 and 16.
+[^23-10]: Literally "two tenths". An ephah was probably about 22 liters (two-thirds of a bushel), so two-tenths of an ephah was about 4 liters (4 quarts). Also in verse 17.
+[^23-11]: A hin was about a gallon (4 liters), so a quarter of a hin was about a quart (1 liter).
+[^23-12]: Literally "seven complete Sabbaths".
+[^23-13]: This festival is called the Festival of Weeks in Exodus 34:22 and Deuteronomy 16:10. It was later called Pentecost, from the Greek word for "fiftieth".
+[^23-14]: Hebrew *ger*, a resident foreigner (see 16:29).
+[^23-15]: Literally "a remembrance of a blast", probably on the ram's horn (25:9).
+[^23-16]: Hebrew *yom ha-kippurim*, "the day of atonements". See chapter 16.
+[^23-17]: Literally "afflict your souls (*nephesh*)", traditionally understood as fasting (16:29). Also in verses 29 and 32.
+[^23-18]: Hebrew *sukkot*, "booths, shelters": huts made of branches (verses 42–43). Traditionally "Feast of Tabernacles".
+[^23-19]: Hebrew *atseret*, a solemn gathering, perhaps the one that closes the festival.
+[^23-20]: Or "besides the offerings of Yahweh's Sabbaths".
+[^23-21]: Literally "the fruit of a majestic tree". Jewish tradition understands it as the citron.
+[^23-22]: Or "poplars from the stream".
+
+## Chapter 24
+
+*Status: draft*
+
+**1** Yahweh[^24-1] said to Moses,
+
+**2** "Command the Israelites to bring you pure oil of pressed olives[^24-2] for the light, so that a lamp can be kept burning regularly.
+
+**3** Outside the veil of the testimony[^24-3] in the tent of meeting, Aaron is to keep it in order before Yahweh regularly, from evening until morning. This is a permanent decree for all your generations.
+
+**4** He is to keep the lamps on the pure gold lampstand[^24-4] in order before Yahweh regularly.
+
+**5** "Take fine flour and bake twelve loaves[^24-5] with it, using two-tenths of an ephah[^24-6] for each loaf.
+
+**6** Set them in two rows,[^24-7] six to a row, on the pure gold table before Yahweh.
+
+**7** Put pure frankincense on each row, to be a memorial portion for the bread, an offering by fire to Yahweh.
+
+**8** Every Sabbath day he is to set it out before Yahweh regularly. It is an everlasting covenant on the part of the Israelites.[^24-8]
+
+**9** It is to belong to Aaron and his sons, and they are to eat it in a holy place, because it is most holy for him, a portion of the offerings by fire to Yahweh. It is a permanent share."
+
+**10** Now the son of an Israelite woman, whose father was an Egyptian, went out among the Israelites. A fight broke out in the camp between the son of the Israelite woman and an Israelite man.
+
+**11** The son of the Israelite woman blasphemed the Name[^24-9] and cursed. So they brought him to Moses. His mother's name was Shelomith, the daughter of Dibri, of the tribe of Dan.
+
+**12** They put him in custody until the will of Yahweh should be made clear to them.[^24-10]
+
+**13** Then Yahweh said to Moses,
+
+**14** "Take the man who cursed outside the camp. All who heard him are to lay their hands on his head, and the whole community is to stone him.
+
+**15** And tell the Israelites: Anyone who curses his God will bear the consequences of his sin.[^24-11]
+
+**16** Whoever blasphemes the name of Yahweh must be put to death. The whole community must stone him. Whether he is a foreigner[^24-12] or native-born, when he blasphemes the Name, he must be put to death.
+
+**17** "Anyone who takes the life of any human being[^24-13] must be put to death.
+
+**18** Anyone who takes the life of an animal must make it good, life for life.
+
+**19** If anyone injures his neighbor, whatever he has done must be done to him:
+
+**20** fracture for fracture, eye for eye, tooth for tooth. Whatever injury he has caused to someone must be caused to him.[^24-14]
+
+**21** Whoever kills an animal must make it good, but whoever kills a human being must be put to death.
+
+**22** You are to have one law[^24-15] for the foreigner and for the native-born alike, for I am Yahweh your God."
+
+**23** Then Moses spoke to the Israelites, and they took the man who had cursed outside the camp and stoned him. The Israelites did as Yahweh had commanded Moses.
+
+[^24-1]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^24-2]: Literally "pure olive oil, beaten": oil from olives crushed by hand, the finest grade (Exodus 27:20).
+[^24-3]: The veil in front of the ark, which held the testimony, the stone tablets of the covenant (Exodus 25:16; 26:33).
+[^24-4]: Literally "the pure lampstand": the lampstand of pure gold (Exodus 25:31). So also "the pure table" in verse 6 (Exodus 25:23–24).
+[^24-5]: Hebrew *challot*, round loaves or cakes (2:4). These were the bread of the Presence (Exodus 25:30).
+[^24-6]: Literally "two tenths". An ephah was probably about 22 liters (two-thirds of a bushel), so two-tenths of an ephah was about 4 liters (4 quarts).
+[^24-7]: Or "two piles". Also in verse 7.
+[^24-8]: Or "It is from the Israelites, an everlasting covenant."
+[^24-9]: That is, the name of Yahweh (verse 16). The Hebrew verb *naqav* can mean "pronounce, designate" or "pierce", here perhaps "speak the name in a curse". Also in verse 16.
+[^24-10]: Literally "to make a decision for them at the mouth of Yahweh".
+[^24-11]: Literally "he will bear his sin".
+[^24-12]: Hebrew *ger*, a resident foreigner (see 16:29). Also in verse 22.
+[^24-13]: Literally "strikes any *nephesh* of a human being". So also in verse 18, "strikes the *nephesh* of an animal".
+[^24-14]: Compare Exodus 21:23–25; Deuteronomy 19:21; Matthew 5:38.
+[^24-15]: Hebrew *mishpat*, "judgment, ruling".
+
+## Chapter 25
+
+*Status: draft*
+
+**1** Yahweh[^25-1] spoke to Moses on Mount Sinai. He said,
+
+**2** "Speak to the Israelites and tell them: When you come into the land that I am giving you, the land itself is to keep a Sabbath to Yahweh.
+
+**3** For six years you are to sow your field, and for six years you are to prune your vineyard and gather in its produce.
+
+**4** But in the seventh year the land is to have a Sabbath of complete rest, a Sabbath to Yahweh. Do not sow your field or prune your vineyard.
+
+**5** Do not reap what grows by itself from your harvest, and do not gather the grapes of your untended vines.[^25-2] It is to be a year of complete rest for the land.
+
+**6** What the land produces during its Sabbath will be food for you:[^25-3] for you, for your male and female slaves, and for your hired workers and the temporary residents[^25-4] who live with you,
+
+**7** and for your livestock and for the wild animals in your land. All its produce may be eaten.
+
+**8** "You are to count off seven Sabbaths of years, seven times seven years, so that the period of seven Sabbaths of years amounts to forty-nine years.
+
+**9** Then on the tenth day of the seventh month you are to sound the ram's horn[^25-5] loudly. On the Day of Atonement you are to sound the horn throughout your land.
+
+**10** You are to consecrate the fiftieth year and proclaim freedom[^25-6] throughout the land to all its inhabitants. It is to be a jubilee[^25-7] for you. Each of you is to return to his own property, and each of you is to return to his family.
+
+**11** The fiftieth year is to be a jubilee for you. Do not sow, and do not reap what grows by itself, and do not gather the grapes of the untended vines.
+
+**12** For it is a jubilee. It is to be holy to you. You are to eat what the fields produce.[^25-8]
+
+**13** In this year of jubilee each of you is to return to his property.
+
+**14** "If you sell anything to your neighbor or buy anything from your neighbor, do not cheat one another.
+
+**15** You are to buy from your neighbor on the basis of the number of years since the jubilee, and he is to sell to you on the basis of the number of years of harvests that remain.
+
+**16** If there are many years, you are to increase the price, and if there are few years, you are to reduce the price, because what he is selling you is a number of harvests.
+
+**17** Do not cheat one another, but fear your God, for I am Yahweh your God.
+
+**18** "Carry out my decrees, and keep my rulings and do them, and you will live securely in the land.
+
+**19** The land will yield its fruit, and you will eat your fill and live there securely.
+
+**20** If you ask, 'What will we eat in the seventh year, if we may not sow or gather in our produce?'
+
+**21** I will send my blessing on you in the sixth year, so that the land will produce enough for three years.
+
+**22** When you sow in the eighth year, you will still be eating from the old produce. Until the ninth year, until its produce comes in, you will eat the old.
+
+**23** "The land must not be sold permanently, because the land is mine. You are foreigners and temporary residents with me.
+
+**24** Throughout the land you hold as property, you must allow the land to be redeemed.[^25-9]
+
+**25** "If your brother[^25-10] becomes poor and sells some of his property, his nearest redeemer[^25-11] is to come and redeem what his brother has sold.
+
+**26** If a man has no one to redeem it, but he himself prospers and finds enough to redeem it,
+
+**27** he is to calculate the years since he sold it and refund the balance to the man he sold it to. Then he may return to his property.
+
+**28** But if he does not find enough to pay him back, what he sold will remain in the hands of the buyer until the year of jubilee. In the jubilee it is to be released, and he may return to his property.
+
+**29** "If a man sells a house to live in, in a walled city, he has the right to redeem it until a full year after its sale. His right of redemption lasts a year.[^25-12]
+
+**30** If it is not redeemed before a full year has passed, the house in the walled city[^25-13] will belong permanently to the buyer and his descendants. It is not to be released in the jubilee.
+
+**31** But houses in villages that have no walls around them are to be counted as open country. They may be redeemed, and they are to be released in the jubilee.
+
+**32** As for the cities of the Levites, the houses in the cities they hold as property, the Levites always have the right to redeem them.
+
+**33** Whatever is redeemed from the Levites, a house sold in a city that they hold as property, is to be released in the jubilee,[^25-14] because the houses in the cities of the Levites are their property among the Israelites.
+
+**34** But the pastureland around their cities must not be sold, for it is their permanent property.
+
+**35** "If your brother becomes poor and cannot support himself among you,[^25-15] you are to help him as you would a foreigner or a temporary resident,[^25-16] so that he may continue to live among you.
+
+**36** Do not take interest or profit[^25-17] from him, but fear your God, so that your brother may continue to live among you.
+
+**37** Do not lend him your money at interest or give him your food for profit.
+
+**38** I am Yahweh your God, who brought you out of the land of Egypt to give you the land of Canaan and to be your God.
+
+**39** "If your brother becomes poor among you and sells himself to you, do not make him work as a slave.
+
+**40** He is to be with you like a hired worker or a temporary resident. He is to work for you until the year of jubilee.
+
+**41** Then he and his children with him are to go free from you, and he is to return to his family and to the property of his ancestors.
+
+**42** For they are my servants,[^25-18] whom I brought out of the land of Egypt. They must not be sold as slaves are sold.
+
+**43** Do not rule over him harshly, but fear your God.
+
+**44** "As for the male and female slaves you may have, you may buy male and female slaves from the nations around you.
+
+**45** You may also buy them from the children of the temporary residents who live among you, and from their families who are with you, who were born in your land. They may become your property.
+
+**46** You may leave them to your children after you to inherit as property. You may make them your slaves for life. But as for your brothers the Israelites, you must not rule over one another harshly.
+
+**47** "If a foreigner or temporary resident among you becomes rich, and your brother becomes poor beside him and sells himself to the foreigner or temporary resident among you, or to a member of the foreigner's family,
+
+**48** he has the right to be redeemed after he has sold himself. One of his brothers may redeem him,
+
+**49** or his uncle or his uncle's son may redeem him, or any close relative from his family may redeem him. Or if he prospers, he may redeem himself.
+
+**50** He and his buyer are to count the time from the year he sold himself to him until the year of jubilee. The price of his sale is to be based on the number of years, as if he had been with him for the time of a hired worker.
+
+**51** If many years still remain, he must pay for his redemption a share of the price he was bought for, in proportion to them.
+
+**52** If only a few years remain until the year of jubilee, he is to calculate it, and he must pay for his redemption in proportion to his years.
+
+**53** He is to be with him as a worker hired from year to year. The buyer must not rule over him harshly in your sight.
+
+**54** If he is not redeemed in any of these ways, he and his children with him are to go free in the year of jubilee.
+
+**55** For the Israelites are my servants. They are my servants, whom I brought out of the land of Egypt. I am Yahweh your God.
+
+[^25-1]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^25-2]: Literally "your nazirite vine": a vine left unpruned, like the uncut hair of a Nazirite (Numbers 6:5). Also in verse 11.
+[^25-3]: Literally "The Sabbath of the land will be for you for food".
+[^25-4]: Hebrew *toshav*, someone who lives among the Israelites without owning land, often paired with *ger*, "resident foreigner". Also in verses 23, 35, 40, 45 and 47.
+[^25-5]: Hebrew *shofar*.
+[^25-6]: Hebrew *deror*, "release, liberty": freedom for those in debt-slavery, and the return of land to its families.
+[^25-7]: Hebrew *yovel*, "ram's horn", from the horn blown to announce the year. The English "jubilee" comes from it through Latin.
+[^25-8]: That is, what grows by itself (verse 11). Literally "From the field you shall eat its produce."
+[^25-9]: Hebrew *ge'ullah*, "redemption": the right to buy back land that had been sold.
+[^25-10]: Here a fellow Israelite. Also in verses 35, 36, 39, 46 and 47.
+[^25-11]: Hebrew *go'el*, "redeemer": the nearest relative, who was responsible for buying back family land or freeing a relative from slavery (verses 48–49; compare Ruth 4:1–6).
+[^25-12]: Literally "days", here a full year.
+[^25-13]: The Hebrew text is written "the city that has no wall" but read "the city that has a wall".
+[^25-14]: The Hebrew of this verse is difficult. Literally "And what one redeems from the Levites, the sale of a house and a city of his property, shall go out in the jubilee".
+[^25-15]: Literally "and his hand falters with you".
+[^25-16]: Or "you are to support him; he is to live with you as a foreigner and temporary resident".
+[^25-17]: Hebrew *neshekh*, literally "bite", interest taken on a loan of money, and *tarbit*, "increase", profit taken on a loan of food (verse 37).
+[^25-18]: Or "my slaves". The Hebrew word is the same as "slave" in verses 39 and 42. Also in verse 55.
+
+## Chapter 26
+
+*Status: draft*
+
+**1** "Do not make idols[^26-1] for yourselves, and do not set up a carved image or a standing stone[^26-2] for yourselves. Do not place a carved stone[^26-3] in your land to bow down to it, for I am Yahweh[^26-4] your God.
+
+**2** Keep my Sabbaths, and revere my sanctuary. I am Yahweh.
+
+**3** "If you follow my decrees and keep my commandments and do them,
+
+**4** I will give you your rains at the right time, the land will yield its crops, and the trees of the field will yield their fruit.
+
+**5** Your threshing will last until the grape harvest, and the grape harvest will last until sowing time. You will eat your fill of food and live securely in your land.
+
+**6** I will give peace in the land, and you will lie down with no one to make you afraid. I will rid the land of dangerous animals,[^26-5] and the sword will not pass through your land.
+
+**7** You will chase your enemies, and they will fall before you by the sword.
+
+**8** Five of you will chase a hundred, and a hundred of you will chase ten thousand, and your enemies will fall before you by the sword.
+
+**9** I will turn toward you and make you fruitful and multiply you, and I will uphold my covenant with you.
+
+**10** You will still be eating last year's harvest[^26-6] when you have to clear out the old to make room for the new.
+
+**11** I will put my dwelling place[^26-7] among you, and I will not reject you.[^26-8]
+
+**12** I will walk among you and be your God, and you will be my people.
+
+**13** I am Yahweh your God, who brought you out of the land of Egypt so that you would no longer be their slaves. I broke the bars of your yoke and made you walk upright.
+
+**14** "But if you do not listen to me and do not carry out all these commandments,
+
+**15** if you reject my decrees and loathe my rulings, so that you do not carry out all my commandments and you break my covenant,
+
+**16** then I in turn will do this to you: I will bring sudden terror on you, wasting disease and fever that make the eyes fail and the life ebb away.[^26-9] You will sow your seed in vain, because your enemies will eat it.
+
+**17** I will set my face against you, and you will be defeated by your enemies. Those who hate you will rule over you, and you will flee when no one is pursuing you.
+
+**18** "And if after all this you still do not listen to me, I will go on to discipline you seven times over for your sins.
+
+**19** I will break your proud strength. I will make your sky like iron and your land like bronze.
+
+**20** Your strength will be spent in vain, because your land will not yield its crops, and the trees of the land will not yield their fruit.
+
+**21** "If you continue to walk in opposition to me[^26-10] and refuse to listen to me, I will go on to strike you seven times over, as your sins deserve.
+
+**22** I will send wild animals against you, and they will rob you of your children, destroy your livestock and make you few in number, so that your roads will be deserted.
+
+**23** "If in spite of these things you do not accept my discipline, but continue to walk in opposition to me,
+
+**24** then I too will walk in opposition to you, and I myself will strike you seven times over for your sins.
+
+**25** I will bring a sword on you to take vengeance for the covenant.[^26-11] When you gather in your cities, I will send a plague among you, and you will be handed over to the enemy.
+
+**26** When I cut off your supply of bread,[^26-12] ten women will bake your bread in a single oven, and they will dole out your bread by weight. You will eat, but you will not be satisfied.
+
+**27** "If in spite of this you still do not listen to me, but continue to walk in opposition to me,
+
+**28** then I will walk in opposition to you in fury, and I myself will discipline you seven times over for your sins.
+
+**29** You will eat the flesh of your sons, and you will eat the flesh of your daughters.
+
+**30** I will destroy your high places,[^26-13] cut down your incense altars[^26-14] and pile your corpses on the corpses of your idols,[^26-15] and I will reject you.
+
+**31** I will turn your cities into ruins and make your sanctuaries desolate, and I will not take pleasure in your pleasing aromas.[^26-16]
+
+**32** I myself will make the land desolate, so that your enemies who come to live in it will be appalled at it.
+
+**33** I will scatter you among the nations, and I will draw the sword and pursue you. Your land will become desolate, and your cities will become ruins.
+
+**34** Then the land will enjoy its Sabbaths[^26-17] all the time that it lies desolate and you are in the land of your enemies. Then the land will rest and enjoy its Sabbaths.
+
+**35** All the time that it lies desolate it will have rest, the rest it did not have during your Sabbaths when you lived in it.
+
+**36** "As for those of you who are left, I will bring fear into their hearts in the lands of their enemies. The sound of a windblown leaf will put them to flight. They will flee as one flees from the sword, and they will fall when no one is pursuing them.
+
+**37** They will stumble over one another as if fleeing from the sword, though no one is pursuing. You will not be able to stand before your enemies.
+
+**38** You will perish among the nations, and the land of your enemies will devour you.
+
+**39** Those of you who are left will waste away in the lands of your enemies because of their wrongdoing. And because of the wrongdoing of their ancestors also, they will waste away like them.[^26-18]
+
+**40** "But if they confess[^26-19] their wrongdoing and the wrongdoing of their ancestors, the unfaithfulness they committed against me, and also how they walked in opposition to me,
+
+**41** so that I in turn walked in opposition to them and brought them into the land of their enemies, if then their uncircumcised hearts[^26-20] are humbled and they pay for their wrongdoing,
+
+**42** then I will remember my covenant with Jacob. I will remember also my covenant with Isaac and also my covenant with Abraham, and I will remember the land.
+
+**43** For the land will be left behind by them, and it will enjoy its Sabbaths while it lies desolate without them, and they will pay for their wrongdoing, because they rejected my rulings and loathed my decrees.
+
+**44** Yet in spite of this, when they are in the land of their enemies, I will not reject them or loathe them so as to destroy them completely and break my covenant with them, for I am Yahweh their God.
+
+**45** For their sake I will remember the covenant with their ancestors,[^26-21] whom I brought out of the land of Egypt in the sight of the nations, to be their God. I am Yahweh."
+
+**46** These are the decrees, the rulings and the instructions that Yahweh established between himself and the Israelites on Mount Sinai through Moses.[^26-22]
+
+[^26-1]: Hebrew *elilim*, "worthless things". See 19:4.
+[^26-2]: Hebrew *matsevah*: a stone pillar set up as an object of worship (Exodus 23:24).
+[^26-3]: Hebrew *even maskit*, a stone with carved images.
+[^26-4]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^26-5]: Literally "evil beasts".
+[^26-6]: Literally "You will eat old grain, long stored".
+[^26-7]: Hebrew *mishkan*, "dwelling place", the word for the tabernacle (8:10).
+[^26-8]: Literally "My soul will not loathe you." So also in verse 30, "My soul will loathe you."
+[^26-9]: Literally "consuming the eyes and making the soul (*nephesh*) pine away".
+[^26-10]: Hebrew *qeri*, a word found only in this chapter: "hostility, opposition", or perhaps "indifference". Also in verses 23–24, 27–28, 40–41.
+[^26-11]: Literally "a sword avenging the vengeance of the covenant".
+[^26-12]: Literally "When I break for you the staff of bread".
+[^26-13]: Hebrew *bamot*: hilltop shrines and places of worship.
+[^26-14]: Hebrew *chammanim*, a word of uncertain meaning: perhaps incense altars, or sun pillars.
+[^26-15]: Hebrew *gillulim*, a contemptuous word for idols, perhaps related to the word for dung.
+[^26-16]: Literally "I will not smell your pleasing aroma." See 1:9.
+[^26-17]: Or "make up for its Sabbaths", "pay off its Sabbaths". The same verb (*ratsah*) is translated "pay for" in verses 41 and 43.
+[^26-18]: Or "together with them".
+[^26-19]: Or "Then they will confess". The Hebrew can be read as a condition or as a prediction.
+[^26-20]: That is, hearts closed to God and unwilling to obey.
+[^26-21]: Literally "the covenant of the first ones".
+[^26-22]: Literally "by the hand of Moses".
+
+## Chapter 27
+
+*Status: draft*
+
+**1** Yahweh[^27-1] said to Moses,
+
+**2** "Speak to the Israelites and tell them: When anyone makes a special vow to give the value of a person to Yahweh,[^27-2]
+
+**3** the value of a male from twenty to sixty years old is to be fifty shekels[^27-3] of silver, by the sanctuary shekel.
+
+**4** If it is a female, the value is to be thirty shekels.
+
+**5** If the person is from five to twenty years old, the value of a male is to be twenty shekels, and for a female ten shekels.
+
+**6** If the person is from a month to five years old, the value of a male is to be five shekels of silver, and the value of a female three shekels of silver.
+
+**7** If the person is sixty years old or more, the value of a male is to be fifteen shekels, and for a female ten shekels.
+
+**8** But if the one making the vow is too poor to pay the value,[^27-4] the person is to be presented to the priest, and the priest is to set a value for him. The priest is to set the value according to what the one making the vow can afford.
+
+**9** "If the vow concerns an animal of a kind that may be presented as an offering to Yahweh, every such animal that is given to Yahweh becomes holy.
+
+**10** He must not exchange it or substitute another for it, a good one for a bad one or a bad one for a good one. If he does substitute one animal for another, both it and its substitute will become holy.
+
+**11** If the vow concerns any unclean animal, of a kind that may not be presented as an offering to Yahweh, the animal is to be presented to the priest.
+
+**12** The priest is to set its value, whether good or bad. Whatever value the priest sets, so it is to be.
+
+**13** If he wishes to redeem it, he must add a fifth to its value.
+
+**14** "When anyone consecrates his house as holy to Yahweh, the priest is to set its value, whether good or bad. Whatever value the priest sets, so it will stand.
+
+**15** If the one who consecrated it wishes to redeem his house, he must add a fifth to its value in silver, and it will be his again.
+
+**16** "If anyone consecrates to Yahweh part of the land that he holds as family property, its value is to be set according to the seed needed to sow it: fifty shekels of silver for a homer[^27-5] of barley seed.
+
+**17** If he consecrates his field from the year of jubilee onward, it is to stand at the full value.
+
+**18** But if he consecrates his field after the jubilee, the priest is to calculate the price for him according to the years that remain until the year of jubilee, and it is to be deducted from the value.
+
+**19** If the one who consecrated the field wishes to redeem it, he must add a fifth to its value in silver, and it will remain his.
+
+**20** But if he does not redeem the field, or if he has sold the field to someone else, it can no longer be redeemed.
+
+**21** When the field is released in the jubilee, it will be holy to Yahweh, like a field that has been devoted.[^27-6] It will become the priest's property.
+
+**22** If anyone consecrates to Yahweh a field that he has bought, which is not part of the land he holds as family property,
+
+**23** the priest is to calculate for him the amount of its value up to the year of jubilee, and he must pay its value on that day as a holy gift to Yahweh.
+
+**24** In the year of jubilee the field is to return to the person from whom he bought it, the one to whom the land belongs as family property.
+
+**25** Every value is to be set by the sanctuary shekel, twenty gerahs[^27-7] to the shekel.
+
+**26** "But no one may consecrate the firstborn of an animal, since as a firstborn it already belongs to Yahweh. Whether ox or sheep, it is Yahweh's.
+
+**27** If it is an unclean animal, he may buy it back at its value, adding a fifth to it. If it is not redeemed, it is to be sold at its value.
+
+**28** "But nothing that anyone devotes[^27-8] to Yahweh from all that he has, whether a person or an animal or family land, may be sold or redeemed. Everything devoted is most holy to Yahweh.
+
+**29** No person who has been devoted to destruction[^27-9] may be ransomed. He must be put to death.
+
+**30** "A tenth[^27-10] of everything from the land, whether grain from the soil or fruit from the trees, belongs to Yahweh. It is holy to Yahweh.
+
+**31** If anyone wishes to redeem any of his tenth, he must add a fifth to it.
+
+**32** Every tenth of the herd and the flock, every tenth animal that passes under the shepherd's rod,[^27-11] is to be holy to Yahweh.
+
+**33** He must not look to see whether it is good or bad, and he must not substitute another for it. If he does substitute one, both it and its substitute will become holy. It cannot be redeemed."
+
+**34** These are the commandments that Yahweh gave Moses for the Israelites on Mount Sinai.
+
+[^27-1]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^27-2]: Literally "makes a special vow, by your valuation of persons, to Yahweh". A person vowed to Yahweh was released by paying a fixed sum to the sanctuary. The word for "value" (*erekh*, "your valuation") recurs throughout the chapter.
+[^27-3]: A shekel was a weight of silver, about 2/5 ounce (11.5 grams), so fifty shekels was about 1¼ pounds (575 grams). On the sanctuary shekel, see verse 25.
+[^27-4]: Literally "But if he is poorer than your valuation".
+[^27-5]: A homer was probably about 220 liters (6 bushels). The word means "donkey-load".
+[^27-6]: Hebrew *cherem*: something devoted to Yahweh for good, which could not be sold or redeemed (verses 28–29).
+[^27-7]: A gerah was about 1/50 ounce (0.6 gram).
+[^27-8]: Hebrew *charam*, "devote, put under the ban", the verb related to *cherem* (verse 21).
+[^27-9]: That is, a person condemned under the ban (compare Exodus 22:19, English 22:20; Joshua 6:17–19).
+[^27-10]: Hebrew *ma'aser*, "a tenth", traditionally "tithe". Also in verses 31 and 32.
+[^27-11]: Animals were counted as they passed under the shepherd's staff (compare Jeremiah 33:13; Ezekiel 20:37).

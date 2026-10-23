@@ -1716,7 +1716,7 @@
 
 **22** The Israelites must never again come near the tent of meeting, or they will incur sin and die.[^18-27]
 
-**23** The Levites are the ones who are to do the work of the tent of meeting, and they will bear their guilt.[^18-28] This is a permanent rule for all your generations. They will have no inheritance among the Israelites.
+**23** The Levites are the ones who are to do the work of the tent of meeting, and they will bear their guilt.[^18-28] This is a permanent decree for all your generations. They will have no inheritance among the Israelites.
 
 **24** For I have given to the Levites as their inheritance the tithe of the Israelites, which they present to Yahweh as a contribution. That is why I have said of them, 'They will have no inheritance among the Israelites.'"
 
@@ -1745,7 +1745,7 @@
 [^18-7]: Literally "I give your priesthood as a service of gift."
 [^18-8]: Hebrew *terumot*, things set apart for a sacred purpose (see 5:9). Also in verses 11, 19 and 24–29.
 [^18-9]: Hebrew *moshchah*, usually "anointing". Here it probably means "portion" (from a different root); or "because of your anointing".
-[^18-10]: Hebrew *choq olam*, "a permanent due", the same phrase translated "a permanent rule" elsewhere. Also in verses 11 and 19.
+[^18-10]: Hebrew *choq olam*, "a permanent due", the same phrase translated "a permanent decree" elsewhere. Also in verses 11 and 19.
 [^18-11]: Literally "from the fire": the parts of the offerings that were not burned on the altar.
 [^18-12]: Or "purification offering". See 6:11.
 [^18-13]: Literally "that they return to me". This may refer especially to the guilt offering, which involved making restitution.
@@ -1789,7 +1789,7 @@
 
 **9** "A man who is clean is to gather up the ashes of the heifer and put them in a clean place outside the camp. They are to be kept for the community of the Israelites for the water for impurity.[^19-6] It is a sin offering.[^19-7]
 
-**10** The one who gathers up the ashes of the heifer must wash his clothes, and he will be unclean until evening. This is to be a permanent rule for the Israelites and for the foreigner who lives among them.
+**10** The one who gathers up the ashes of the heifer must wash his clothes, and he will be unclean until evening. This is to be a permanent decree for the Israelites and for the foreigner who lives among them.
 
 **11** "Whoever touches the dead body of any human being[^19-8] will be unclean for seven days.
 
@@ -1811,7 +1811,7 @@
 
 **20** But anyone who becomes unclean and does not purify himself is to be cut off from among the assembly, because he has defiled the sanctuary of Yahweh. The water for impurity has not been splashed on him. He is unclean.
 
-**21** This is to be a permanent rule for them. The one who sprinkles the water for impurity must wash his clothes, and whoever touches the water for impurity will be unclean until evening.
+**21** This is to be a permanent decree for them. The one who sprinkles the water for impurity must wash his clothes, and whoever touches the water for impurity will be unclean until evening.
 
 **22** Anything that the unclean person touches will be unclean, and anyone who touches it will be unclean until evening."
 

@@ -435,3 +435,549 @@
 [^7-15]: That is, a descendant of Zerah (verse 18).
 [^7-16]: Hebrew *akhar*, "bring disaster, trouble", sounds like *Achan* and gives the Valley of Achor its name.
 [^7-17]: *Achor* means "disaster, trouble".
+
+## Chapter 8
+
+*Status: draft*
+
+**1** Yahweh[^8-1] said to Joshua, "Do not be afraid or dismayed. Take all the fighting men with you, and get up and go up to Ai. See, I have given into your hand the king of Ai, his people, his town and his land.
+
+**2** Do to Ai and its king as you did to Jericho and its king, except that you may take its spoil and its livestock as plunder for yourselves. Set an ambush against the town, behind it."
+
+**3** So Joshua and all the fighting men got up to go up to Ai. Joshua chose thirty thousand mighty warriors and sent them out by night.
+
+**4** He commanded them, "Listen. You are to lie in ambush against the town, behind it. Do not go very far from the town, and all of you be ready.
+
+**5** I and all the people with me will approach the town. When they come out against us as they did the first time, we will flee from them.
+
+**6** They will come out after us until we have drawn them away from the town, for they will say, 'They are fleeing from us as they did the first time.' While we flee from them,
+
+**7** you are to rise up from the ambush and take possession of the town. Yahweh your God will give it into your hand.
+
+**8** When you have seized the town, set it on fire. Do as Yahweh has said. See, I have given you your orders."
+
+**9** So Joshua sent them out, and they went to the place of ambush and waited between Bethel and Ai, west of Ai. But Joshua spent that night among the people.
+
+**10** Early in the morning Joshua got up and mustered the people, and he and the elders of Israel went up ahead of the people to Ai.
+
+**11** All the fighting men who were with him went up and drew near until they came in front of the town. They camped north of Ai, with the valley between them and Ai.
+
+**12** He took about five thousand men[^8-2] and set them in ambush between Bethel and Ai, west of the town.
+
+**13** So they stationed the people, the main camp north of the town and its rear guard[^8-3] west of the town. That night Joshua went into the middle of the valley.
+
+**14** When the king of Ai saw this, the men of the town hurried and got up early and went out to meet Israel in battle, the king and all his people, at the appointed place[^8-4] facing the Arabah. But he did not know that an ambush was waiting for him behind the town.
+
+**15** Joshua and all Israel let themselves be beaten back before them, and they fled along the road to the wilderness.
+
+**16** All the people who were in Ai[^8-5] were called out to chase them. They chased Joshua and were drawn away from the town.
+
+**17** Not a man was left in Ai or Bethel who did not go out after Israel. They left the town open and chased Israel.
+
+**18** Yahweh said to Joshua, "Stretch out the javelin[^8-6] in your hand toward Ai, for I will give it into your hand." So Joshua stretched out the javelin in his hand toward the town.
+
+**19** As soon as he stretched out his hand, the men in ambush rose quickly from their place and ran. They entered the town and captured it, and they quickly set the town on fire.
+
+**20** The men of Ai looked back and saw the smoke of the town rising to the sky, and they had no strength[^8-7] to flee this way or that. Then the people who had fled toward the wilderness turned back on their pursuers.
+
+**21** When Joshua and all Israel saw that the ambush had captured the town and that the smoke of the town was rising, they turned back and struck down the men of Ai.
+
+**22** The others came out of the town against them, so that the men of Ai were caught in the middle of Israel, some on this side and some on that. Israel struck them down until not one survivor or fugitive was left.
+
+**23** But they took the king of Ai alive and brought him to Joshua.
+
+**24** When Israel had finished killing all the inhabitants of Ai in the open country, in the wilderness where they had chased them, and every one of them had fallen by the sword,[^8-8] all Israel returned to Ai and put it to the sword.
+
+**25** All who fell that day, men and women, numbered twelve thousand, all the people of Ai.
+
+**26** Joshua did not draw back the hand with which he held out the javelin until he had devoted to destruction[^8-9] all the inhabitants of Ai.
+
+**27** Only the livestock and the spoil of that town Israel took as plunder for themselves, in keeping with the word of Yahweh that he had commanded Joshua.
+
+**28** So Joshua burned Ai and made it a ruin mound[^8-10] forever, a desolate place to this day.
+
+**29** He hanged the king of Ai on a tree until evening.[^8-11] At sunset Joshua gave the command, and they took his body down from the tree and threw it down at the entrance of the town gate. They raised over it a great heap of stones, which is there to this day.
+
+**30** Then Joshua built an altar to Yahweh, the God of Israel, on Mount Ebal,[^8-12]
+
+**31** as Moses the servant of Yahweh had commanded the Israelites, as it is written in the book of the law of Moses: an altar of uncut stones, on which no one had used an iron tool.[^8-13] On it they offered burnt offerings[^8-14] to Yahweh and sacrificed fellowship offerings.[^8-15]
+
+**32** There on the stones he wrote a copy of the law of Moses, which he wrote[^8-16] in the presence of the Israelites.
+
+**33** All Israel, with their elders, officials and judges, stood on both sides of the ark, facing the Levitical priests who carried the ark of the covenant of Yahweh, foreigners[^8-17] as well as native-born. Half of them stood in front of Mount Gerizim and half in front of Mount Ebal, as Moses the servant of Yahweh had commanded earlier, to bless the people of Israel.[^8-18]
+
+**34** After that, Joshua read all the words of the law, the blessing and the curse, in keeping with everything written in the book of the law.
+
+**35** There was not a word of all that Moses had commanded that Joshua did not read before the whole assembly of Israel, including the women, the little ones and the foreigners who lived among them.[^8-19]
+
+[^8-1]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^8-2]: Verse 3 gives thirty thousand.
+[^8-3]: Literally "its heel".
+[^8-4]: Or "at the appointed time".
+[^8-5]: The Hebrew text is written "in the town" but read "in Ai".
+[^8-6]: Hebrew *kidon*, a javelin or perhaps a curved sword. Also in verse 26.
+[^8-7]: Literally "no hands".
+[^8-8]: Literally "had fallen to the mouth of the sword until they were finished".
+[^8-9]: Hebrew *charam*: to give something over completely to God, which in war meant destroying it and keeping nothing for oneself.
+[^8-10]: Hebrew *tel*, a mound of ruins. The name Ai means "the ruin".
+[^8-11]: Probably after he had been killed (compare 10:26). See Deuteronomy 21:22–23.
+[^8-12]: In the Greek Septuagint, verses 30–35 come after 9:2.
+[^8-13]: Exodus 20:25; Deuteronomy 27:5–6.
+[^8-14]: Hebrew *olot*: animals burned whole on the altar.
+[^8-15]: Hebrew *shelamim*, traditionally "peace offerings". In these sacrifices most of the meat was eaten by the worshipers.
+[^8-16]: Or "which Moses had written". See Deuteronomy 27:2–8.
+[^8-17]: Hebrew *ger*: someone from elsewhere who lives among the Israelites, a resident foreigner. Also in verse 35.
+[^8-18]: Or "as Moses the servant of Yahweh had commanded, to bless the people of Israel first". See Deuteronomy 11:29; 27:11–13.
+[^8-19]: Literally "who walked among them".
+
+## Chapter 9
+
+*Status: draft*
+
+**1** All the kings west of the Jordan[^9-1] heard of this, those in the hill country, in the western foothills[^9-2] and all along the coast of the Great Sea[^9-3] as far as Lebanon: the Hittites, the Amorites, the Canaanites, the Perizzites, the Hivites and the Jebusites.
+
+**2** They gathered together to fight as one[^9-4] against Joshua and Israel.
+
+**3** But when the inhabitants of Gibeon heard what Joshua had done to Jericho and to Ai,
+
+**4** they too acted with cunning. They went and disguised themselves as envoys.[^9-5] They took worn-out sacks for their donkeys, and wineskins that were worn out, split and patched up,
+
+**5** worn-out, patched sandals on their feet and worn-out clothes on their bodies. All the bread they had brought as provisions was dry and crumbly.[^9-6]
+
+**6** They went to Joshua at the camp at Gilgal and said to him and to the men of Israel, "We have come from a distant land. Now make a covenant with us."
+
+**7** The men of Israel said to the Hivites,[^9-7] "Perhaps you live among us. How then can we make a covenant with you?"
+
+**8** They said to Joshua, "We are your servants." Joshua said to them, "Who are you, and where do you come from?"
+
+**9** They said to him, "Your servants have come from a very distant land because of the name of Yahweh[^9-8] your God. For we have heard reports of him, and of everything he did in Egypt,
+
+**10** and everything he did to the two kings of the Amorites east of the Jordan,[^9-9] Sihon king of Heshbon and Og king of Bashan, who lived in Ashtaroth.
+
+**11** Our elders and all the inhabitants of our land said to us, 'Take provisions with you for the journey. Go to meet them and say to them, "We are your servants. Now make a covenant with us."'
+
+**12** This bread of ours was warm when we took it from our houses as provisions on the day we set out to come to you. But now look, it is dry and crumbly.
+
+**13** These wineskins were new when we filled them, and look, they are split. And these clothes and sandals of ours are worn out from the very long journey."
+
+**14** The men of Israel took some of their provisions,[^9-10] but they did not ask for Yahweh's direction.[^9-11]
+
+**15** Joshua made peace with them and made a covenant with them to let them live, and the leaders of the community swore an oath to them.
+
+**16** Three days after they had made a covenant with them, the Israelites heard that they were their neighbors and lived among them.
+
+**17** So the Israelites set out and came to their towns on the third day. Their towns were Gibeon, Kephirah, Beeroth and Kiriath-jearim.
+
+**18** But the Israelites did not attack them, because the leaders of the community had sworn to them by Yahweh, the God of Israel. The whole community grumbled against the leaders.
+
+**19** But all the leaders said to the whole community, "We have sworn to them by Yahweh, the God of Israel, and now we cannot touch them.
+
+**20** This is what we will do to them: we will let them live, so that wrath does not come on us because of the oath we swore to them."
+
+**21** The leaders said to them, "Let them live." So they became woodcutters and water carriers for the whole community, as the leaders had said about them.
+
+**22** Joshua summoned them and said to them, "Why did you deceive us by saying, 'We live very far from you,' when you live among us?
+
+**23** Now you are cursed. Some of you will always be slaves,[^9-12] woodcutters and water carriers for the house of my God."
+
+**24** They answered Joshua, "Your servants were told plainly that Yahweh your God had commanded his servant Moses to give you the whole land and to destroy all the inhabitants of the land before you. So we were very much afraid for our lives because of you, and we did this.
+
+**25** Now we are in your hands. Do to us whatever seems good and right to you."
+
+**26** So he did this for them: he rescued them from the hands of the Israelites, and they did not kill them.
+
+**27** That day Joshua made them woodcutters and water carriers for the community and for the altar of Yahweh at the place he would choose,[^9-13] as they are to this day.
+
+[^9-1]: Literally "beyond the Jordan", here meaning west of the river.
+[^9-2]: Hebrew *shephelah*: the low hills between the central hill country and the coastal plain.
+[^9-3]: The Mediterranean Sea.
+[^9-4]: Literally "with one mouth".
+[^9-5]: Hebrew *vayitstayyaru*, a rare word, probably "made themselves envoys". The Greek Septuagint reads "they took provisions", a similar Hebrew word, as in verse 12.
+[^9-6]: Hebrew *niqqudim*, "crumbs", or perhaps "spotted with mold". Also in verse 12.
+[^9-7]: The Gibeonites were Hivites (11:19).
+[^9-8]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^9-9]: Literally "beyond the Jordan".
+[^9-10]: Perhaps to examine them, or as a sign of agreement by sharing a meal.
+[^9-11]: Literally "they did not ask the mouth of Yahweh".
+[^9-12]: Literally "A slave will not be cut off from you".
+[^9-13]: The language of Deuteronomy 12:5 for the place of worship that Yahweh would choose. Literally "to the place that he would choose".
+
+## Chapter 10
+
+*Status: draft*
+
+**1** Adoni-zedek king of Jerusalem heard that Joshua had captured Ai and devoted it to destruction,[^10-1] doing to Ai and its king as he had done to Jericho and its king, and that the inhabitants of Gibeon had made peace with Israel and were living among them.
+
+**2** He and his people were very much afraid, because Gibeon was a great town, like one of the royal towns. It was greater than Ai, and all its men were warriors.
+
+**3** So Adoni-zedek king of Jerusalem sent word to Hoham king of Hebron, Piram king of Jarmuth, Japhia king of Lachish and Debir king of Eglon:
+
+**4** "Come up to me and help me, and let us attack Gibeon, for it has made peace with Joshua and the Israelites."
+
+**5** So the five kings of the Amorites, the king of Jerusalem, the king of Hebron, the king of Jarmuth, the king of Lachish and the king of Eglon, gathered and went up, they and all their armies. They camped against Gibeon and attacked it.
+
+**6** The men of Gibeon sent word to Joshua at the camp at Gilgal: "Do not abandon your servants.[^10-2] Come up to us quickly, save us and help us, for all the kings of the Amorites who live in the hill country have gathered against us."
+
+**7** So Joshua went up from Gilgal, he and all the fighting men with him, all the mighty warriors.
+
+**8** Yahweh[^10-3] said to Joshua, "Do not be afraid of them, for I have given them into your hand. Not one of them will be able to stand against you."
+
+**9** Joshua came on them suddenly, having marched all night from Gilgal.
+
+**10** Yahweh threw them into confusion before Israel, and he[^10-4] struck them down in a great slaughter at Gibeon. He chased them along the road that goes up to Beth-horon and struck them down as far as Azekah and Makkedah.
+
+**11** As they fled before Israel, while they were on the way down from Beth-horon, Yahweh threw huge stones down on them from the sky all the way to Azekah, and they died. More of them died from the hailstones than the Israelites killed with the sword.
+
+**12** Then Joshua spoke to Yahweh, on the day Yahweh gave the Amorites over to the Israelites, and he said in the sight of Israel:[^10-5] "Sun, stand still[^10-6] over Gibeon, and moon, over the Valley of Aijalon!"[^10-7]
+
+**13** So the sun stood still, and the moon stopped,[^10-8] until the nation took vengeance on its enemies. Is this not written in the Book of Jashar?[^10-9] The sun stopped in the middle of the sky and did not hurry to set for about a whole day.[^10-10]
+
+**14** There has been no day like it before or since, when Yahweh listened to the voice of a man,[^10-11] for Yahweh fought for Israel.
+
+**15** Then Joshua returned, and all Israel with him, to the camp at Gilgal.[^10-12]
+
+**16** Now these five kings had fled and hidden in the cave at Makkedah.
+
+**17** Joshua was told, "The five kings have been found hiding in the cave at Makkedah."
+
+**18** Joshua said, "Roll large stones against the mouth of the cave, and post men by it to guard them.
+
+**19** But you must not stop. Chase your enemies and attack them from the rear.[^10-13] Do not let them get into their towns, for Yahweh your God has given them into your hand."
+
+**20** Joshua and the Israelites finished striking them down in a very great slaughter, until they were wiped out, though some survivors escaped from them and reached the fortified towns.
+
+**21** Then all the people returned safely to Joshua at the camp at Makkedah. No one dared to say a word against the Israelites.[^10-14]
+
+**22** Joshua said, "Open the mouth of the cave and bring those five kings out of the cave to me."
+
+**23** They did so. They brought those five kings out of the cave to him: the king of Jerusalem, the king of Hebron, the king of Jarmuth, the king of Lachish and the king of Eglon.
+
+**24** When they had brought these kings out to Joshua, Joshua summoned all the men of Israel and said to the commanders of the fighting men who had gone with him, "Come here and put your feet on the necks of these kings." So they came and put their feet on their necks.
+
+**25** Joshua said to them, "Do not be afraid or dismayed. Be strong and courageous. For this is what Yahweh will do to all the enemies you are fighting."
+
+**26** After this Joshua struck them down and put them to death, and he hanged them on five trees. They were left hanging on the trees until evening.
+
+**27** At sunset Joshua gave the command, and they took them down from the trees and threw them into the cave where they had hidden. They put large stones over the mouth of the cave, which are there to this very day.
+
+**28** That day Joshua captured Makkedah and put it and its king to the sword. He devoted them to destruction, with every person[^10-15] in it. He left no survivor. He did to the king of Makkedah as he had done to the king of Jericho.
+
+**29** Joshua and all Israel with him moved on from Makkedah to Libnah and fought against Libnah.
+
+**30** Yahweh gave it also, with its king, into the hand of Israel. He put it and every person in it to the sword. He left no survivor in it. He did to its king as he had done to the king of Jericho.
+
+**31** Joshua and all Israel with him moved on from Libnah to Lachish. He camped against it and attacked it.
+
+**32** Yahweh gave Lachish into the hand of Israel, and he captured it on the second day. He put it and every person in it to the sword, just as he had done to Libnah.
+
+**33** Then Horam king of Gezer came up to help Lachish, but Joshua struck him and his people down until he had left him no survivor.
+
+**34** Joshua and all Israel with him moved on from Lachish to Eglon. They camped against it and attacked it.
+
+**35** They captured it that same day and put it to the sword. He devoted to destruction every person in it that day, just as he had done to Lachish.
+
+**36** Joshua and all Israel with him went up from Eglon to Hebron and attacked it.
+
+**37** They captured it and put it to the sword, with its king, all its towns and every person in it. He left no survivor, just as he had done to Eglon. He devoted it and every person in it to destruction.
+
+**38** Then Joshua and all Israel with him turned back to Debir and attacked it.
+
+**39** He captured it, with its king and all its towns. They put them to the sword and devoted to destruction every person in it. He left no survivor. As he had done to Hebron, so he did to Debir and its king, just as he had done to Libnah and its king.
+
+**40** So Joshua struck the whole land, the hill country, the Negev,[^10-16] the western foothills[^10-17] and the slopes,[^10-18] with all their kings. He left no survivor. He devoted to destruction everything that breathed, as Yahweh, the God of Israel, had commanded.
+
+**41** Joshua struck them from Kadesh-barnea to Gaza, and the whole land of Goshen[^10-19] as far as Gibeon.
+
+**42** Joshua captured all these kings and their land at one time, because Yahweh, the God of Israel, fought for Israel.
+
+**43** Then Joshua returned, and all Israel with him, to the camp at Gilgal.
+
+[^10-1]: Hebrew *charam*: to give something over completely to God, which in war meant destroying it and keeping nothing for oneself. Also in verses 28, 35, 37, 39 and 40.
+[^10-2]: Literally "Do not let your hands drop from your servants".
+[^10-3]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^10-4]: Yahweh, or Joshua. The Hebrew says only "he", here and in the next sentence.
+[^10-5]: Joshua's words, and probably the words "So the sun stood still, and the moon stopped, until the nation took vengeance on its enemies" in verse 13, are poetry quoted from the Book of Jashar (verse 13).
+[^10-6]: Hebrew *dom*, "be still, be silent, wait" (compare 1 Samuel 14:9). Verse 13 describes the sun stopping in its course, and that is how the words have usually been read. Some take the command to mean that the sun should stop shining, or be darkened.
+[^10-7]: Gibeon lies east of the Valley of Aijalon. The picture may be of the early morning, with the sun rising in the east and the moon setting in the west.
+[^10-8]: Literally "stood". The verbs for the sun (*damam*) and the moon (*amad*) are both used of standing still or stopping.
+[^10-9]: Or "the Book of the Upright". *Jashar* means "upright". The book is now lost; it is also quoted in 2 Samuel 1:18.
+[^10-10]: Literally "stood in the half of the heavens and did not hasten to go in, about a complete day".
+[^10-11]: Literally "for Yahweh to listen to the voice of a man".
+[^10-12]: This verse is repeated in verse 43. According to verse 21, the army was still at Makkedah. The Greek Septuagint has neither this verse nor verse 43.
+[^10-13]: Literally "cut off their tail", that is, attack the stragglers at the back.
+[^10-14]: Literally "No one sharpened his tongue against the Israelites, against anyone".
+[^10-15]: Hebrew *nephesh*, "living being". Also in verses 30, 32, 35, 37 and 39.
+[^10-16]: The dry country in the south of the land.
+[^10-17]: Hebrew *shephelah*: the low hills between the central hill country and the coastal plain.
+[^10-18]: Hebrew *ashedot*, the slopes that fall from the hill country, perhaps toward the Dead Sea.
+[^10-19]: A region in the south of Judah (compare 11:16; 15:51), not the Goshen in Egypt.
+
+## Chapter 11
+
+*Status: draft*
+
+**1** When Jabin king of Hazor heard of this, he sent word to Jobab king of Madon, to the king of Shimron, to the king of Achshaph,
+
+**2** and to the kings in the north, in the hill country, in the Arabah[^11-1] south of Kinnereth,[^11-2] in the western foothills[^11-3] and in Naphoth-dor[^11-4] on the west,
+
+**3** to the Canaanites in the east and in the west, to the Amorites, the Hittites, the Perizzites and the Jebusites in the hill country, and to the Hivites below Hermon in the land of Mizpah.
+
+**4** They came out, they and all their armies with them, a great horde, as many as the sand on the seashore, with a very great number of horses and chariots.
+
+**5** All these kings joined forces.[^11-5] They came and camped together at the waters of Merom to fight against Israel.
+
+**6** Yahweh[^11-6] said to Joshua, "Do not be afraid of them, for tomorrow at this time I will hand all of them over to Israel, slain. You are to hamstring their horses and burn their chariots with fire."
+
+**7** So Joshua and all the fighting men with him came against them suddenly at the waters of Merom and fell on them.
+
+**8** Yahweh gave them into the hand of Israel. They struck them down and chased them as far as Greater Sidon and Misrephoth-maim, and as far as the Valley of Mizpeh to the east. They struck them down until no survivor was left.
+
+**9** Joshua did to them as Yahweh had told him. He hamstrung their horses and burned their chariots with fire.
+
+**10** At that time Joshua turned back and captured Hazor, and he put its king to the sword, for Hazor had formerly been the head of all these kingdoms.
+
+**11** They put every person[^11-7] in it to the sword, devoting them to destruction.[^11-8] Nothing that breathed was left, and he burned Hazor with fire.
+
+**12** Joshua captured all the towns of these kings and all their kings, and he put them to the sword. He devoted them to destruction, as Moses the servant of Yahweh had commanded.
+
+**13** But Israel did not burn any of the towns that stood on their mounds,[^11-9] except Hazor alone, which Joshua burned.
+
+**14** The Israelites took all the spoil of these towns and the livestock as plunder for themselves. But they put every human being to the sword until they had destroyed them. They left nothing that breathed.
+
+**15** As Yahweh had commanded his servant Moses, so Moses commanded Joshua, and so Joshua did. He left nothing undone of all that Yahweh had commanded Moses.
+
+**16** So Joshua took this whole land: the hill country, the whole Negev,[^11-10] the whole land of Goshen, the western foothills, the Arabah, and the hill country of Israel with its foothills,
+
+**17** from Mount Halak,[^11-11] which rises toward Seir, as far as Baal-gad in the Valley of Lebanon below Mount Hermon. He captured all their kings and struck them down and put them to death.
+
+**18** Joshua waged war against all these kings for a long time.
+
+**19** Not one town made peace with the Israelites except the Hivites who lived in Gibeon. They took them all in battle.
+
+**20** For it was Yahweh's doing to harden their hearts[^11-12] to meet Israel in battle, so that they would be devoted to destruction and receive no mercy, but be destroyed, as Yahweh had commanded Moses.
+
+**21** At that time Joshua came and wiped out the Anakim[^11-13] from the hill country, from Hebron, from Debir, from Anab, from all the hill country of Judah and from all the hill country of Israel. Joshua devoted them and their towns to destruction.
+
+**22** No Anakim were left in the land of the Israelites. Only in Gaza, in Gath and in Ashdod did some remain.
+
+**23** So Joshua took the whole land, just as Yahweh had told Moses, and Joshua gave it as an inheritance to Israel, tribe by tribe, according to their divisions. And the land had rest from war.
+
+[^11-1]: Hebrew *aravah*: the deep rift valley of the Jordan and the Dead Sea, and its continuation south to the Gulf of Aqaba.
+[^11-2]: Hebrew *Kinarot*, the town and district of Kinnereth on the Sea of Galilee.
+[^11-3]: Hebrew *shephelah*: the low hills between the central hill country and the coastal plain. Also in verse 16.
+[^11-4]: Or "the heights of Dor".
+[^11-5]: Or "met by agreement".
+[^11-6]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^11-7]: Hebrew *nephesh*, "living being".
+[^11-8]: Hebrew *charam*: to give something over completely to God, which in war meant destroying it and keeping nothing for oneself. Also in verses 12, 20 and 21.
+[^11-9]: Hebrew *tel*: the mound formed by the ruins of earlier towns built one on top of another.
+[^11-10]: The dry country in the south of the land.
+[^11-11]: Or "the Bare Mountain". Also in 12:7.
+[^11-12]: Literally "to make their hearts strong", the expression used of Pharaoh (Exodus 4:21; 14:4).
+[^11-13]: A people remembered for their great height (Numbers 13:28, 33; Deuteronomy 2:10–11). Also in verse 22.
+
+## Chapter 12
+
+*Status: draft*
+
+**1** These are the kings of the land whom the Israelites struck down, and whose land they took possession of east of the Jordan, toward the sunrise, from the Arnon Valley[^12-1] to Mount Hermon, with all the Arabah on the east:
+
+**2** Sihon king of the Amorites, who lived in Heshbon. He ruled from Aroer, which is on the edge of the Arnon Valley, and from the middle of the valley, over half of Gilead as far as the Jabbok River,[^12-2] the border of the Ammonites,
+
+**3** and over the Arabah as far as the Sea of Kinnereth[^12-3] on the east, and as far as the Sea of the Arabah, the Salt Sea,[^12-4] on the east, on the road to Beth-jeshimoth, and on the south below the slopes of Pisgah.
+
+**4** Also the territory of Og king of Bashan, one of the last of the Rephaim,[^12-5] who lived in Ashtaroth and in Edrei.
+
+**5** He ruled over Mount Hermon, Salecah and all Bashan, as far as the border of the Geshurites and the Maacathites, and over half of Gilead, as far as the border of Sihon king of Heshbon.
+
+**6** Moses the servant of Yahweh[^12-6] and the Israelites struck them down, and Moses the servant of Yahweh gave their land as a possession to the Reubenites, the Gadites and the half-tribe of Manasseh.
+
+**7** These are the kings of the land whom Joshua and the Israelites struck down west of the Jordan,[^12-7] from Baal-gad in the Valley of Lebanon to Mount Halak, which rises toward Seir. Joshua gave their land to the tribes of Israel as a possession according to their divisions,
+
+**8** in the hill country, the western foothills,[^12-8] the Arabah, the slopes,[^12-9] the wilderness and the Negev,[^12-10] the land of the Hittites, the Amorites, the Canaanites, the Perizzites, the Hivites and the Jebusites:
+
+**9** the king of Jericho, one; the king of Ai, which is beside Bethel, one;
+
+**10** the king of Jerusalem, one; the king of Hebron, one;
+
+**11** the king of Jarmuth, one; the king of Lachish, one;
+
+**12** the king of Eglon, one; the king of Gezer, one;
+
+**13** the king of Debir, one; the king of Geder, one;
+
+**14** the king of Hormah, one; the king of Arad, one;
+
+**15** the king of Libnah, one; the king of Adullam, one;
+
+**16** the king of Makkedah, one; the king of Bethel, one;
+
+**17** the king of Tappuah, one; the king of Hepher, one;
+
+**18** the king of Aphek, one; the king of Lasharon,[^12-11] one;
+
+**19** the king of Madon, one; the king of Hazor, one;
+
+**20** the king of Shimron-meron, one; the king of Achshaph, one;
+
+**21** the king of Taanach, one; the king of Megiddo, one;
+
+**22** the king of Kedesh, one; the king of Jokneam in Carmel, one;
+
+**23** the king of Dor in Naphath-dor,[^12-12] one; the king of Goiim in Gilgal,[^12-13] one;
+
+**24** the king of Tirzah, one. In all, thirty-one kings.
+
+[^12-1]: Hebrew *nachal*: a valley with a stream that flows in the rainy season. Also in verse 2.
+[^12-2]: Literally "the Jabbok, the *nachal*".
+[^12-3]: The Sea of Galilee. Hebrew *Yam Kinarot*.
+[^12-4]: The Dead Sea.
+[^12-5]: An ancient people remembered for their great height (Deuteronomy 2:11; 3:11).
+[^12-6]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^12-7]: Literally "beyond the Jordan toward the sea".
+[^12-8]: Hebrew *shephelah*: the low hills between the central hill country and the coastal plain.
+[^12-9]: Hebrew *ashedot*; see 10:40.
+[^12-10]: The dry country in the south of the land.
+[^12-11]: Or "the king of Sharon". Some take the words with the previous name: "the king of Aphek in Sharon".
+[^12-12]: Or "in the heights of Dor" (11:2).
+[^12-13]: *Goiim* means "nations". The Greek Septuagint reads "Galilee" for "Gilgal".
+
+## Chapter 13
+
+*Status: draft*
+
+**1** Joshua was old, advanced in years, and Yahweh[^13-1] said to him, "You are old and advanced in years, and a great deal of the land remains to be taken over.
+
+**2** This is the land that remains: all the regions of the Philistines, and all the land of the Geshurites,[^13-2]
+
+**3** from the Shihor,[^13-3] which is east of Egypt, northward to the border of Ekron, which is counted as Canaanite, the territory of the five rulers[^13-4] of the Philistines, those of Gaza, Ashdod, Ashkelon, Gath and Ekron; and the Avvim
+
+**4** in the south; all the land of the Canaanites, and Mearah,[^13-5] which belongs to the Sidonians, as far as Aphek, to the border of the Amorites;
+
+**5** the land of the Gebalites,[^13-6] and all Lebanon toward the sunrise, from Baal-gad below Mount Hermon to Lebo-hamath.[^13-7]
+
+**6** All the inhabitants of the hill country from Lebanon to Misrephoth-maim, all the Sidonians, I myself will drive them out before the Israelites. Only allot the land to Israel as an inheritance,[^13-8] as I have commanded you.
+
+**7** So now divide this land as an inheritance among the nine tribes and the half-tribe of Manasseh."
+
+**8** With the other half of Manasseh,[^13-9] the Reubenites and the Gadites had received the inheritance that Moses gave them east of the Jordan, as Moses the servant of Yahweh had given it to them:
+
+**9** from Aroer, which is on the edge of the Arnon Valley,[^13-10] and the town that is in the middle of the valley, and the whole plateau[^13-11] of Medeba as far as Dibon,
+
+**10** and all the towns of Sihon king of the Amorites, who reigned in Heshbon, as far as the border of the Ammonites;
+
+**11** and Gilead, and the territory of the Geshurites and the Maacathites, and all Mount Hermon, and all Bashan as far as Salecah,
+
+**12** the whole kingdom of Og in Bashan, who reigned in Ashtaroth and in Edrei. He was one of the last of the Rephaim.[^13-12] Moses had struck them down and driven them out.
+
+**13** But the Israelites did not drive out the Geshurites or the Maacathites, so Geshur and Maacath live among Israel to this day.
+
+**14** Only to the tribe of Levi he gave no inheritance. The offerings by fire[^13-13] to Yahweh, the God of Israel, are their inheritance, as he promised them.
+
+**15** Moses gave an inheritance to the tribe of the Reubenites, clan by clan.[^13-14]
+
+**16** Their territory was from Aroer, which is on the edge of the Arnon Valley, and the town that is in the middle of the valley, and the whole plateau by Medeba,
+
+**17** Heshbon and all its towns on the plateau: Dibon, Bamoth-baal, Beth-baal-meon,
+
+**18** Jahaz, Kedemoth, Mephaath,
+
+**19** Kiriathaim, Sibmah, Zereth-shahar on the hill in the valley,
+
+**20** Beth-peor, the slopes of Pisgah, and Beth-jeshimoth,
+
+**21** all the towns of the plateau, and the whole kingdom of Sihon king of the Amorites, who reigned in Heshbon. Moses had struck him down, together with the leaders of Midian, Evi, Rekem, Zur, Hur and Reba, the princes[^13-15] of Sihon, who lived in the land.
+
+**22** Along with the others they killed, the Israelites also killed Balaam son of Beor, the diviner, with the sword.[^13-16]
+
+**23** The border of the Reubenites was the Jordan and its bank.[^13-17] This was the inheritance of the Reubenites, clan by clan, the towns and their villages.[^13-18]
+
+**24** Moses gave an inheritance to the tribe of Gad, to the Gadites, clan by clan.
+
+**25** Their territory was Jazer and all the towns of Gilead, and half the land of the Ammonites as far as Aroer, which faces Rabbah,
+
+**26** and from Heshbon to Ramath-mizpeh and Betonim, and from Mahanaim to the border of Debir,[^13-19]
+
+**27** and in the valley, Beth-haram, Beth-nimrah, Succoth and Zaphon, the rest of the kingdom of Sihon king of Heshbon, with the Jordan and its bank as the border, up to the end of the Sea of Kinnereth,[^13-20] east of the Jordan.
+
+**28** This was the inheritance of the Gadites, clan by clan, the towns and their villages.
+
+**29** Moses gave an inheritance to the half-tribe of Manasseh. It was for half the tribe of the Manassites, clan by clan.
+
+**30** Their territory was from Mahanaim, all Bashan, the whole kingdom of Og king of Bashan, and all Havvoth-jair,[^13-21] which is in Bashan, sixty towns,
+
+**31** and half of Gilead, with Ashtaroth and Edrei, the towns of Og's kingdom in Bashan. These were for the descendants of Machir son of Manasseh, for half of the descendants of Machir, clan by clan.
+
+**32** These are the inheritances that Moses gave out in the plains of Moab, beyond the Jordan, east of Jericho.
+
+**33** But to the tribe of Levi Moses gave no inheritance. Yahweh, the God of Israel, is their inheritance, as he promised them.
+
+[^13-1]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^13-2]: A people in the south, near the Philistines (1 Samuel 27:8), not the Geshurites of verses 11 and 13 in the north.
+[^13-3]: A stream on the border of Egypt. *Shihor* means "the black (river)".
+[^13-4]: Hebrew *seranim*, a Philistine word for their rulers.
+[^13-5]: Or "and from the cave".
+[^13-6]: The people of Gebal, the coastal city later called Byblos.
+[^13-7]: Or "the entrance of Hamath".
+[^13-8]: Literally "make it fall to Israel as an inheritance", that is, assign it by lot.
+[^13-9]: Literally "With him", that is, with the half of the tribe of Manasseh that had already received land east of the Jordan (verses 29–31).
+[^13-10]: Hebrew *nachal*: a valley with a stream that flows in the rainy season. Also in verse 16.
+[^13-11]: Hebrew *mishor*, "level land": the high tableland north of the Arnon. Also in verses 16, 17 and 21.
+[^13-12]: An ancient people remembered for their great height (Deuteronomy 2:11; 3:11).
+[^13-13]: Hebrew *ishshe*, traditionally "offerings made by fire": the offerings on the altar, of which the priests received a share (Deuteronomy 18:1).
+[^13-14]: Literally "for their clans". Also in verses 23, 24, 28, 29 and 31.
+[^13-15]: Hebrew *nesikhim*, perhaps "vassals". Numbers 31:8 calls them "the five kings of Midian".
+[^13-16]: Numbers 31:8.
+[^13-17]: Literally "the Jordan and border", that is, the river with the land beside it. Also in verse 27.
+[^13-18]: Hebrew *chatserim*: settlements without walls around a town. Also in verse 28.
+[^13-19]: Hebrew *Lidvir*, perhaps the town of Lo-debar (2 Samuel 9:4).
+[^13-20]: The Sea of Galilee.
+[^13-21]: *Havvoth-jair* means "the tent villages of Jair" (Numbers 32:41; Deuteronomy 3:14).
+
+## Chapter 14
+
+*Status: draft*
+
+**1** These are the inheritances that the Israelites received in the land of Canaan, which Eleazar the priest, Joshua son of Nun and the heads of the families[^14-1] of the tribes of the Israelites gave out to them.
+
+**2** Their inheritance was assigned by lot, as Yahweh[^14-2] had commanded through Moses, for the nine and a half tribes.[^14-3]
+
+**3** For Moses had given the two and a half tribes their inheritance east of the Jordan,[^14-4] but he had given no inheritance among them to the Levites.
+
+**4** For the descendants of Joseph were two tribes, Manasseh and Ephraim. And the Levites were given no share in the land, only towns to live in, with their pasturelands[^14-5] for their livestock and their possessions.
+
+**5** The Israelites did as Yahweh had commanded Moses, and they divided the land.
+
+**6** The people of Judah came to Joshua at Gilgal, and Caleb son of Jephunneh the Kenizzite[^14-6] said to him, "You know what Yahweh said to Moses the man of God about you and me at Kadesh-barnea.[^14-7]
+
+**7** I was forty years old when Moses the servant of Yahweh sent me from Kadesh-barnea to spy out the land, and I brought him back a report of what I truly believed.[^14-8]
+
+**8** But my brothers who went up with me made the people's hearts melt, while I followed Yahweh my God wholeheartedly.[^14-9]
+
+**9** On that day Moses swore, 'The land on which your foot has walked will surely be an inheritance for you and your children forever, because you have followed Yahweh my God wholeheartedly.'[^14-10]
+
+**10** Now look, Yahweh has kept me alive, as he promised, these forty-five years since Yahweh spoke this word to Moses, while Israel journeyed in the wilderness. And now here I am today, eighty-five years old.
+
+**11** I am still as strong today as I was on the day Moses sent me. As my strength was then, so my strength is now, for war and for going out and coming in.[^14-11]
+
+**12** So now give me this hill country that Yahweh spoke of on that day. For you heard on that day that the Anakim[^14-12] were there, with great fortified towns. Perhaps Yahweh will be with me, and I will drive them out, as Yahweh said."
+
+**13** Joshua blessed him and gave Hebron to Caleb son of Jephunneh as an inheritance.
+
+**14** So Hebron has belonged to Caleb son of Jephunneh the Kenizzite as an inheritance to this day, because he followed Yahweh, the God of Israel, wholeheartedly.
+
+**15** The name of Hebron was formerly Kiriath-arba.[^14-13] Arba was the greatest man among the Anakim. And the land had rest from war.
+
+[^14-1]: Literally "the heads of the fathers", the leaders of the family groups within each tribe.
+[^14-2]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^14-3]: Numbers 26:55–56; 34:13.
+[^14-4]: Literally "beyond the Jordan".
+[^14-5]: Hebrew *migrash*: the open land around a town, used for grazing (Numbers 35:2–5).
+[^14-6]: The Kenizzites are listed among the peoples of Canaan in Genesis 15:19, and Kenaz is an Edomite name (Genesis 36:11). Caleb's family belonged to Judah (Numbers 13:6).
+[^14-7]: Numbers 14:24, 30; Deuteronomy 1:36.
+[^14-8]: Literally "as it was with my heart".
+[^14-9]: Literally "I filled after Yahweh my God". Also in verses 9 and 14.
+[^14-10]: Deuteronomy 1:36.
+[^14-11]: That is, for leading in battle and in all the business of life.
+[^14-12]: A people remembered for their great height (Numbers 13:28, 33).
+[^14-13]: *Kiriath-arba* means "town of Arba", or "town of four".

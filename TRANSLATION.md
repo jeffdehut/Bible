@@ -81,7 +81,7 @@ Decisions marked **proposed** are used in the pilot and are open for review.
 | תּוֹרָה (torah) | instruction, law, by context | "The Law" when it means the law given through Moses as a whole. |
 | בְּרִית, διαθήκη | covenant | |
 | צֶדֶק, צְדָקָה, δικαιοσύνη | righteousness, what is right, by context | |
-| מִשְׁפָּט (mishpat) | justice, judgment, ruling, by context | |
+| מִשְׁפָּט (mishpat) | justice, judgment, ruling, by context | In law collections, מִשְׁפָּטִים are "rulings" and חֻקִּים "decrees"; חֻקַּת עוֹלָם is "a permanent decree". |
 | שָׁלוֹם (shalom) | peace, well-being, by context | |
 | רוּחַ (ruach), πνεῦμα | spirit, wind, breath, by context | Noted where more than one sense is possible. |
 | הַשָּׂטָן (Job 1–2, Zechariah 3) | the Accuser (proposed) | Hebrew *ha-satan*, "the adversary, the accuser", with the article: a title rather than a name. Noted at its first occurrence in each chapter. |

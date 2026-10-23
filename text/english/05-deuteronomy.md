@@ -1746,3 +1746,733 @@
 [^22-20]: Hebrew *innah*, "humble, force, violate"; also in verse 29.
 [^22-21]: Literally "and murders him, a life".
 [^22-22]: Literally "fifty of silver", probably shekels: about 1¼ pounds (575 grams) of silver.
+
+## Chapter 23
+
+*Status: draft*
+
+**1** A man must not marry his father's wife. He must not uncover his father's garment.[^23-1]
+
+**2** No one whose testicles are crushed or whose penis is cut off[^23-2] may enter the assembly of Yahweh.[^23-3]
+
+**3** No one born of a forbidden union[^23-4] may enter the assembly of Yahweh. Even to the tenth generation, none of his descendants may enter the assembly of Yahweh.
+
+**4** No Ammonite or Moabite may enter the assembly of Yahweh. Even to the tenth generation, none of their descendants may ever enter the assembly of Yahweh,
+
+**5** because they did not come to meet you with food[^23-5] and water on the way when you came out of Egypt, and because Moab[^23-6] hired Balaam son of Beor, from Pethor in Aram-naharaim,[^23-7] to curse you.
+
+**6** But Yahweh your God would not listen to Balaam. Yahweh your God turned the curse into a blessing for you, because Yahweh your God loves you.
+
+**7** Never seek their peace or their prosperity, as long as you live.[^23-8]
+
+**8** Do not abhor an Edomite, for he is your brother. Do not abhor an Egyptian, because you were a foreigner[^23-9] in his land.
+
+**9** The children born to them in the third generation may enter the assembly of Yahweh.
+
+**10** When you go out as an army against your enemies, keep away from everything improper.[^23-10]
+
+**11** If one of your men is unclean because of an emission during the night,[^23-11] he must go outside the camp. He must not come inside the camp.
+
+**12** As evening approaches he is to wash himself with water, and at sunset he may come back into the camp.
+
+**13** You are to have a place[^23-12] outside the camp, and you are to go out there to relieve yourself.
+
+**14** Among your equipment you are to have a digging tool.[^23-13] When you squat outside,[^23-14] dig a hole with it, and then turn and cover your excrement.
+
+**15** For Yahweh your God walks about in the middle of your camp to rescue you and to hand over your enemies to you. So your camp must be holy, so that he does not see anything indecent[^23-15] among you and turn away from you.
+
+**16** If a slave has escaped from his master and taken refuge with you, do not hand him over to his master.
+
+**17** Let him live among you, in whatever place he chooses in one of your towns,[^23-16] wherever he likes. Do not oppress him.
+
+**18** No daughter of Israel is to be a shrine prostitute, and no son of Israel is to be a shrine prostitute.[^23-17]
+
+**19** Do not bring the earnings of a prostitute or the wages of a dog[^23-18] into the house of Yahweh your God to pay any vow, for both of them are detestable to Yahweh your God.
+
+**20** Do not charge interest to your fellow Israelite,[^23-19] whether on money or on food or on anything else that can earn interest.
+
+**21** You may charge interest to a foreigner,[^23-20] but not to your fellow Israelite, so that Yahweh your God may bless you in everything you set your hand to in the land you are entering to take possession of.
+
+**22** If you make a vow to Yahweh your God, do not be slow to fulfill it, for Yahweh your God will certainly require it of you, and you will be guilty of sin.
+
+**23** But if you refrain from making a vow, you will not be guilty of sin.
+
+**24** Be careful to do what has passed your lips, just as you freely vowed to Yahweh your God with your own mouth.[^23-21]
+
+**25** When you go into your neighbor's vineyard, you may eat as many grapes as you want, until you are satisfied,[^23-22] but you must not put any in your basket.
+
+**26** When you go into your neighbor's standing grain, you may pick the ears with your hand, but you must not put a sickle to your neighbor's standing grain.
+
+[^23-1]: Verse 1 is 22:30 in most English Bibles, and verses 2–26 are 23:1–25. *He must not uncover his father's garment*: literally "uncover the corner of his father's garment", that is, take what belongs to his father (compare Ruth 3:9).
+[^23-2]: Literally "one wounded by crushing, or cut off in the member".
+[^23-3]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^23-4]: Hebrew *mamzer*, a word of uncertain meaning, traditionally "bastard": probably the child of an incestuous or otherwise forbidden union.
+[^23-5]: Literally "bread".
+[^23-6]: Literally "he". See Numbers 22–24.
+[^23-7]: "Aram of the two rivers": northern Mesopotamia.
+[^23-8]: Literally "all your days, forever".
+[^23-9]: Hebrew *ger*: someone from elsewhere who lives in a land not his own, a resident foreigner.
+[^23-10]: Literally "guard yourself from every evil thing".
+[^23-11]: Literally "because of what happens at night", a discharge of semen (Leviticus 15:16).
+[^23-12]: Literally "a hand".
+[^23-13]: Hebrew *yated*, "peg, stake".
+[^23-14]: Literally "sit outside".
+[^23-15]: Literally "nakedness of a thing", the phrase used in 24:1.
+[^23-16]: Literally "gates".
+[^23-17]: Hebrew *qedeshah* (feminine) and *qadesh* (masculine), "consecrated one": probably a person who served at a shrine and took part in sexual acts as part of its worship. The exact practice is uncertain.
+[^23-18]: Probably a male prostitute.
+[^23-19]: Literally "your brother"; also in verse 21.
+[^23-20]: Hebrew *nokhri*: a foreigner from another land who has not settled among the Israelites.
+[^23-21]: Literally "What goes out of your lips you shall keep and do, as you vowed to Yahweh your God a freewill offering that you spoke with your mouth."
+[^23-22]: Literally "as your *nephesh* (appetite) wishes, your fill".
+
+## Chapter 24
+
+*Status: draft*
+
+**1** Suppose a man marries a woman and becomes her husband, and she does not please him because he has found something indecent[^24-1] about her. He writes her a certificate of divorce, puts it in her hand and sends her away from his house.[^24-2]
+
+**2** She leaves his house and goes and becomes another man's wife.
+
+**3** Then the second man turns against her,[^24-3] writes her a certificate of divorce, puts it in her hand and sends her away from his house, or the second man who married her dies.
+
+**4** In that case her first husband, who sent her away, may not take her back to be his wife, since she has been defiled, for that would be detestable to Yahweh.[^24-4] You must not bring sin on the land that Yahweh your God is giving you as an inheritance.
+
+**5** When a man has newly married,[^24-5] he is not to go out with the army or be given any other duty.[^24-6] He is to be free to stay at home for one year and bring joy to the wife he has married.
+
+**6** No one is to take a pair of millstones, or even the upper millstone, as security for a debt,[^24-7] for that would be taking a life as security.
+
+**7** If someone is found kidnapping a fellow Israelite[^24-8] and treating him as a slave[^24-9] or selling him, that kidnapper must die. So you must purge[^24-10] the evil from among you.
+
+**8** In cases of skin disease,[^24-11] be very careful to do everything the Levitical priests[^24-12] instruct you. Be careful to do as I have commanded them.
+
+**9** Remember what Yahweh your God did to Miriam on the way when you came out of Egypt.[^24-13]
+
+**10** When you make your neighbor a loan of any kind, do not go into his house to take what he offers as security.
+
+**11** Stay outside, and let the man to whom you are making the loan bring the security out to you.
+
+**12** If he is poor, do not go to sleep with his security in your keeping.
+
+**13** Be sure to give it back to him at sunset, so that he may sleep in his cloak and bless you. And it will be counted as righteousness for you before Yahweh your God.[^24-14]
+
+**14** Do not take advantage of a hired worker who is poor and needy, whether he is a fellow Israelite or a foreigner[^24-15] who lives in your land, in one of your towns.[^24-16]
+
+**15** Pay him his wages each day before sunset,[^24-17] because he is poor and is counting on it.[^24-18] Otherwise he may cry out to Yahweh against you, and you will be guilty of sin.
+
+**16** Parents are not to be put to death for their children, and children are not to be put to death for their parents.[^24-19] Each is to be put to death for his own sin.
+
+**17** Do not deny justice to the foreigner or the fatherless,[^24-20] and do not take a widow's cloak as security.
+
+**18** Remember that you were a slave in Egypt, and Yahweh your God redeemed you from there. That is why I command you to do this.
+
+**19** When you reap the harvest in your field and forget a sheaf in the field, do not go back to get it. It is to be for the foreigner, the fatherless and the widow, so that Yahweh your God may bless you in all the work of your hands.
+
+**20** When you beat your olive trees, do not go over the branches a second time.[^24-21] What is left is to be for the foreigner, the fatherless and the widow.
+
+**21** When you gather the grapes of your vineyard, do not go over it a second time.[^24-22] What is left is to be for the foreigner, the fatherless and the widow.
+
+**22** Remember that you were a slave in the land of Egypt. That is why I command you to do this.
+
+[^24-1]: Literally "nakedness of a thing". The phrase was much debated in later times.
+[^24-2]: Verses 1–4 are discussed in Mark 10:2–9.
+[^24-3]: Literally "hates her".
+[^24-4]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^24-5]: Literally "takes a new wife".
+[^24-6]: Literally "and nothing shall pass over him for any matter".
+[^24-7]: Millstones were needed every day to grind grain for bread.
+[^24-8]: Literally "stealing a *nephesh* (person) from his brothers, the sons of Israel".
+[^24-9]: Hebrew *hit'ammer*, a rare verb, perhaps "treat as merchandise" or "deal harshly with" (21:14).
+[^24-10]: Literally "burn out".
+[^24-11]: Literally "Guard yourself in the stroke of *tsara'at*". Hebrew *tsara'at*, traditionally "leprosy", covers a range of skin diseases (Leviticus 13–14).
+[^24-12]: Literally "the priests, the Levites".
+[^24-13]: Numbers 12:10–15.
+[^24-14]: Compare Exodus 22:25–26.
+[^24-15]: Hebrew *ger*: someone from elsewhere who lives among the Israelites, a resident foreigner. Also in verses 17, 19, 20 and 21.
+[^24-16]: Literally "in your land, in your gates".
+[^24-17]: Literally "On his day you shall give him his wage, and the sun shall not go down on it".
+[^24-18]: Literally "and to it he lifts up his *nephesh* (self)".
+[^24-19]: Literally "Fathers … sons". This verse is quoted in 2 Kings 14:6.
+[^24-20]: Hebrew *yatom*, a child who has lost his father, traditionally "orphan". Also in verses 19, 20 and 21.
+[^24-21]: Literally "do not go over the boughs after you".
+[^24-22]: Literally "do not glean after you".
+
+## Chapter 25
+
+*Status: draft*
+
+**1** If there is a dispute between people, and they go to court and the judges decide between them, they are to acquit the innocent and condemn the guilty.[^25-1]
+
+**2** If the guilty one deserves to be beaten,[^25-2] the judge is to make him lie down and have him beaten in his presence with the number of lashes his crime deserves.
+
+**3** He may be given forty lashes, but no more. If he is beaten with many more lashes than these, your fellow Israelite[^25-3] will be degraded before your eyes.
+
+**4** Do not muzzle an ox while it is treading out the grain.[^25-4]
+
+**5** If brothers live together and one of them dies without a son, the dead man's widow must not marry outside the family, to a stranger. Her husband's brother is to go to her and take her as his wife, and do the duty of a husband's brother[^25-5] to her.
+
+**6** The first son she bears is to carry on the name of the dead brother, so that his name will not be wiped out from Israel.
+
+**7** But if the man does not want to marry his brother's widow, she is to go up to the elders at the gate and say, "My husband's brother refuses to keep his brother's name alive in Israel. He is not willing to do the duty of a husband's brother to me."
+
+**8** Then the elders of his town are to summon him and speak to him. If he stands firm and says, "I do not want to marry her,"
+
+**9** his brother's widow is to go up to him in the presence of the elders, pull his sandal off his foot, spit in his face, and declare,[^25-6] "This is what is done to the man who will not build up his brother's family."[^25-7]
+
+**10** And his family will be known in Israel as "The house of the man whose sandal was pulled off."[^25-8]
+
+**11** If two men are fighting each other, and the wife of one of them comes near to rescue her husband from the man who is hitting him, and she reaches out and seizes him by his private parts,
+
+**12** you are to cut off her hand. Show her no pity.[^25-9]
+
+**13** Do not have two different weights in your bag, one heavy and one light.[^25-10]
+
+**14** Do not have two different measures[^25-11] in your house, one large and one small.
+
+**15** You must have a full and honest weight and a full and honest measure, so that you may live long in the land that Yahweh[^25-12] your God is giving you.
+
+**16** For anyone who does such things, anyone who acts dishonestly, is detestable to Yahweh your God.
+
+**17** Remember what Amalek did to you on the way when you came out of Egypt,[^25-13]
+
+**18** how he met you on the way when you were faint and weary, and cut off all the stragglers at your rear. He did not fear God.
+
+**19** So when Yahweh your God has given you rest from all your enemies around you in the land that Yahweh your God is giving you as an inheritance to possess, you must wipe out the memory of Amalek from under heaven. Do not forget!
+
+[^25-1]: Literally "declare righteous the righteous one and declare wicked the wicked one".
+[^25-2]: Literally "if the wicked one is a son of beating".
+[^25-3]: Literally "your brother". Compare 2 Corinthians 11:24.
+[^25-4]: Paul quotes this verse in 1 Corinthians 9:9 and 1 Timothy 5:18.
+[^25-5]: Hebrew *yabbem*: the custom traditionally called levirate marriage, from Latin *levir*, "husband's brother". Also in verse 7. Mark 12:19 refers to this law.
+[^25-6]: Literally "answer and say".
+[^25-7]: Literally "house".
+[^25-8]: Literally "And his name shall be called in Israel 'House of the one whose sandal was pulled off.'"
+[^25-9]: Literally "Your eye shall not pity".
+[^25-10]: Literally "a stone and a stone, a large and a small". Weights were made of stone.
+[^25-11]: Hebrew *ephah*, a measure for grain, used here for any measure of volume. Also in verse 15.
+[^25-12]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^25-13]: Exodus 17:8–16.
+
+## Chapter 26
+
+*Status: draft*
+
+**1** When you have come into the land that Yahweh[^26-1] your God is giving you as an inheritance, and have taken possession of it and settled in it,
+
+**2** take some of the first of all the produce of the soil that you bring in from the land that Yahweh your God is giving you, and put it in a basket. Then go to the place that Yahweh your God will choose as a dwelling for his name.[^26-2]
+
+**3** Go to the priest who is in office at that time and say to him, "I declare today to Yahweh your God that I have come into the land that Yahweh swore to our ancestors[^26-3] to give us."
+
+**4** The priest is to take the basket from your hand and set it down in front of the altar of Yahweh your God.
+
+**5** Then you are to declare[^26-4] before Yahweh your God, "My father was a wandering Aramean.[^26-5] He went down to Egypt with only a few people and lived there as a foreigner,[^26-6] and there he became a great nation, mighty and numerous.
+
+**6** But the Egyptians treated us harshly and oppressed us, and they imposed hard labor on us.
+
+**7** Then we cried out to Yahweh, the God of our ancestors, and Yahweh heard our voice and saw our misery, our toil and our oppression.
+
+**8** Yahweh brought us out of Egypt with a mighty hand and an outstretched arm, with great terror,[^26-7] and with signs and wonders.
+
+**9** He brought us to this place and gave us this land, a land flowing with milk and honey.
+
+**10** And now, here I have brought the first of the produce of the soil that you, Yahweh, have given me." Then set it down before Yahweh your God, and bow down before Yahweh your God.
+
+**11** Then you and the Levite and the foreigner who lives among you are to rejoice in all the good things that Yahweh your God has given to you and your household.
+
+**12** When you have finished setting aside the whole tithe of your produce in the third year, the year of the tithe, and have given it to the Levite, the foreigner, the fatherless[^26-8] and the widow, so that they may eat in your towns[^26-9] and be satisfied,
+
+**13** then say before Yahweh your God, "I have removed the holy portion from my house, and I have given it to the Levite, the foreigner, the fatherless and the widow, just as you commanded me. I have not turned aside from any of your commandments, and I have not forgotten them.
+
+**14** I have not eaten any of it while I was in mourning, or removed any of it while I was unclean, or given any of it for the dead.[^26-10] I have listened to the voice of Yahweh my God. I have done everything you commanded me.
+
+**15** Look down from your holy dwelling, from heaven, and bless your people Israel and the land you have given us, as you swore to our ancestors, a land flowing with milk and honey."
+
+**16** This day Yahweh your God commands you to follow these statutes and rulings. Be careful to follow them with all your heart and with all your soul.[^26-11]
+
+**17** Today you have declared[^26-12] that Yahweh is your God, and that you will walk in his ways, and keep his statutes, his commandments and his rulings, and listen to his voice.
+
+**18** And today Yahweh has declared that you are his people, his treasured possession,[^26-13] as he promised you, and that you are to keep all his commandments,
+
+**19** and that he will set you high above all the nations he has made, for praise, fame and honor, and that you will be a people holy to Yahweh your God, as he promised.[^26-14]
+
+[^26-1]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^26-2]: Literally "to make his name dwell there".
+[^26-3]: Literally "fathers"; also in verses 7 and 15.
+[^26-4]: Literally "answer and say".
+[^26-5]: Or "a perishing Aramean", "an Aramean about to perish". Hebrew *arammi oved avi*. The father is probably Jacob, who lived for many years in Aram (Genesis 29–31).
+[^26-6]: Hebrew *gur*, "live as a newcomer", the verb related to *ger*, "resident foreigner".
+[^26-7]: Or "with great and awesome deeds". Hebrew *mora*.
+[^26-8]: Hebrew *yatom*, a child who has lost his father, traditionally "orphan". Also in verse 13.
+[^26-9]: Literally "gates".
+[^26-10]: Perhaps food offered to the dead, or food given for a funeral meal.
+[^26-11]: Hebrew *nephesh*: life, self, soul.
+[^26-12]: Hebrew *he'emarta*, a form of the verb "say" found only here and in verse 18. It may mean "you have declared" or "you have made Yahweh declare".
+[^26-13]: Hebrew *segullah*, a king's or an owner's personal treasure.
+[^26-14]: Moses' speech that began at 5:1 ends here.
+
+## Chapter 27
+
+*Status: draft*
+
+**1** Then Moses and the elders of Israel commanded the people, "Keep the whole commandment[^27-1] that I am giving you today.
+
+**2** On the day you cross the Jordan into the land that Yahweh[^27-2] your God is giving you, set up some large stones and coat them with plaster.
+
+**3** Write on them all the words of this law when you have crossed over, so that you may enter the land that Yahweh your God is giving you, a land flowing with milk and honey, as Yahweh, the God of your ancestors,[^27-3] has promised you.
+
+**4** When you have crossed the Jordan, set up these stones on Mount Ebal,[^27-4] as I am commanding you today, and coat them with plaster.
+
+**5** Build an altar there to Yahweh your God, an altar of stones. Do not use any iron tool on them.[^27-5]
+
+**6** Build the altar of Yahweh your God with uncut stones,[^27-6] and offer burnt offerings on it to Yahweh your God.
+
+**7** Sacrifice fellowship offerings[^27-7] and eat them there, and rejoice before Yahweh your God.
+
+**8** And write very clearly[^27-8] on the stones all the words of this law."
+
+**9** Then Moses and the Levitical priests[^27-9] spoke to all Israel, "Be silent and listen, Israel. This day you have become the people of Yahweh your God.
+
+**10** So listen to the voice of Yahweh your God, and follow his commandments and his statutes that I am giving you today."
+
+**11** That day Moses gave the people this command:
+
+**12** "When you have crossed the Jordan, these tribes are to stand on Mount Gerizim to bless the people: Simeon, Levi, Judah, Issachar, Joseph and Benjamin.
+
+**13** And these tribes are to stand on Mount Ebal for the curse: Reuben, Gad, Asher, Zebulun, Dan and Naphtali.
+
+**14** The Levites are to proclaim in a loud voice to all the people of Israel:[^27-10]
+
+**15** 'Cursed is anyone who makes a carved or cast idol,[^27-11] something detestable to Yahweh, the work of a craftsman's hands, and sets it up in secret.' And all the people are to respond, 'Amen.'[^27-12]
+
+**16** 'Cursed is anyone who treats his father or his mother with contempt.' And all the people are to say, 'Amen.'
+
+**17** 'Cursed is anyone who moves his neighbor's boundary marker.' And all the people are to say, 'Amen.'
+
+**18** 'Cursed is anyone who leads a blind person astray on the road.' And all the people are to say, 'Amen.'
+
+**19** 'Cursed is anyone who denies justice to the foreigner,[^27-13] the fatherless[^27-14] or the widow.' And all the people are to say, 'Amen.'
+
+**20** 'Cursed is anyone who sleeps with his father's wife, for he uncovers his father's garment.'[^27-15] And all the people are to say, 'Amen.'
+
+**21** 'Cursed is anyone who has sexual relations with any animal.' And all the people are to say, 'Amen.'
+
+**22** 'Cursed is anyone who sleeps with his sister, the daughter of his father or the daughter of his mother.' And all the people are to say, 'Amen.'
+
+**23** 'Cursed is anyone who sleeps with his mother-in-law.' And all the people are to say, 'Amen.'
+
+**24** 'Cursed is anyone who strikes down his neighbor in secret.' And all the people are to say, 'Amen.'
+
+**25** 'Cursed is anyone who accepts a bribe to kill an innocent person.'[^27-16] And all the people are to say, 'Amen.'
+
+**26** 'Cursed is anyone who does not uphold the words of this law by doing them.'[^27-17] And all the people are to say, 'Amen.'
+
+[^27-1]: The singular means the law as a whole.
+[^27-2]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^27-3]: Literally "fathers".
+[^27-4]: The Samaritan Pentateuch reads "Mount Gerizim".
+[^27-5]: Literally "Do not wield iron over them". Compare Exodus 20:25.
+[^27-6]: Literally "whole stones".
+[^27-7]: Hebrew *shelamim*, traditionally "peace offerings". In these sacrifices most of the meat was eaten by the worshipers.
+[^27-8]: Literally "making it plain, well". The verb *be'er* is the one used in 1:5.
+[^27-9]: Literally "the priests, the Levites".
+[^27-10]: Literally "The Levites shall answer and say to every man of Israel with a loud voice".
+[^27-11]: Hebrew *pesel* and *massekhah*, an image carved from wood or stone and an image cast in metal.
+[^27-12]: Hebrew *amen*, "surely, so be it".
+[^27-13]: Hebrew *ger*: someone from elsewhere who lives among the Israelites, a resident foreigner.
+[^27-14]: Hebrew *yatom*, a child who has lost his father, traditionally "orphan".
+[^27-15]: Literally "uncovers the corner of his father's garment", that is, takes what belongs to his father (23:1).
+[^27-16]: Literally "to strike a life, innocent blood".
+[^27-17]: Paul quotes this verse in Galatians 3:10, in a form close to the Greek Septuagint, which reads "all the words of this law".
+
+## Chapter 28
+
+*Status: draft*
+
+**1** "If you listen carefully to the voice of Yahweh[^28-1] your God[^28-2] and are careful to follow all his commandments that I am giving you today, Yahweh your God will set you high above all the nations of the earth.
+
+**2** All these blessings will come on you and overtake you, if you listen to the voice of Yahweh your God:
+
+**3** You will be blessed in the city, and blessed in the country.[^28-3]
+
+**4** The fruit of your womb will be blessed, and the fruit of your ground and the fruit of your livestock, the calves of your herds and the lambs of your flocks.
+
+**5** Your basket and your kneading bowl will be blessed.
+
+**6** You will be blessed when you come in, and blessed when you go out.
+
+**7** Yahweh will make your enemies who rise up against you be defeated before you. They will come out against you by one road, and flee from you by seven roads.
+
+**8** Yahweh will command the blessing to be with you in your barns and in everything you set your hand to. He will bless you in the land that Yahweh your God is giving you.
+
+**9** Yahweh will establish you as a people holy to himself, as he swore to you, if you keep the commandments of Yahweh your God and walk in his ways.
+
+**10** Then all the peoples of the earth will see that you are called by the name of Yahweh,[^28-4] and they will be afraid of you.
+
+**11** Yahweh will make you abound in good things:[^28-5] in the fruit of your womb, the fruit of your livestock and the fruit of your ground, in the land that Yahweh swore to your ancestors[^28-6] to give you.
+
+**12** Yahweh will open for you his rich storehouse, the heavens, to give rain to your land in its season and to bless all the work of your hands. You will lend to many nations, but you will not borrow.
+
+**13** Yahweh will make you the head and not the tail. You will always be at the top and never at the bottom, if you listen to the commandments of Yahweh your God that I am giving you today, and are careful to follow them,
+
+**14** and if you do not turn aside from any of the words that I am commanding you today, to the right or to the left, to follow other gods and serve them.
+
+**15** But if you do not listen to the voice of Yahweh your God, and are not careful to follow all his commandments and his statutes that I am giving you today, then all these curses will come on you and overtake you:
+
+**16** You will be cursed in the city, and cursed in the country.
+
+**17** Your basket and your kneading bowl will be cursed.
+
+**18** The fruit of your womb will be cursed, and the fruit of your ground, the calves of your herds and the lambs of your flocks.
+
+**19** You will be cursed when you come in, and cursed when you go out.
+
+**20** Yahweh will send on you curse, confusion and rebuke in everything you set your hand to, until you are destroyed and quickly perish because of the evil of your deeds, because you have abandoned me.[^28-7]
+
+**21** Yahweh will make disease cling to you until he has wiped you out from the land you are entering to take possession of.
+
+**22** Yahweh will strike you with wasting disease, fever and inflammation, with scorching heat and drought,[^28-8] and with blight and mildew. They will pursue you until you perish.
+
+**23** The sky over your head will be bronze, and the earth under you iron.
+
+**24** Yahweh will turn the rain of your land into powder and dust. It will come down on you from the sky until you are destroyed.
+
+**25** Yahweh will make you be defeated before your enemies. You will go out against them by one road, and flee from them by seven roads. You will become a horror to all the kingdoms of the earth.
+
+**26** Your dead bodies will be food for all the birds of the sky and the wild animals,[^28-9] and there will be no one to frighten them away.
+
+**27** Yahweh will strike you with the boils of Egypt, with tumors,[^28-10] with festering sores and with the itch, and you will not be able to be healed.
+
+**28** Yahweh will strike you with madness, blindness and confusion of mind.[^28-11]
+
+**29** At noon you will grope about, as a blind person gropes in the darkness. You will not succeed in anything you do.[^28-12] You will be nothing but oppressed and robbed all the time, and there will be no one to rescue you.
+
+**30** You will become engaged to a woman, but another man will sleep with her.[^28-13] You will build a house, but you will not live in it. You will plant a vineyard, but you will not enjoy its fruit.[^28-14]
+
+**31** Your ox will be slaughtered before your eyes, but you will not eat any of it. Your donkey will be taken from you by force[^28-15] and will not be given back. Your sheep will be given to your enemies, and no one will rescue you.
+
+**32** Your sons and your daughters will be given to another people, while your eyes look on and grow weary with longing for them all day long, and you will be powerless.[^28-16]
+
+**33** A people you have not known will eat the fruit of your ground and everything you have worked for. You will be nothing but oppressed and crushed all the time.
+
+**34** You will be driven mad by the sights your eyes will see.
+
+**35** Yahweh will strike you on the knees and on the legs with painful boils that cannot be healed, from the sole of your foot to the top of your head.
+
+**36** Yahweh will bring you, and the king you set over you, to a nation that neither you nor your ancestors have known. There you will serve other gods, gods of wood and stone.
+
+**37** You will become a horror, a proverb and a byword[^28-17] among all the peoples where Yahweh will drive you.
+
+**38** You will take much seed out to the field but gather little in, for the locusts will devour it.
+
+**39** You will plant vineyards and work them, but you will not drink the wine or gather the grapes, for the worms will eat them.
+
+**40** You will have olive trees throughout your territory, but you will not anoint yourself with the oil, for your olives will drop off.
+
+**41** You will have sons and daughters, but they will not be yours, for they will go into captivity.
+
+**42** Swarming locusts[^28-18] will take over all your trees and the fruit of your ground.
+
+**43** The foreigner[^28-19] who lives among you will rise higher and higher above you, while you sink lower and lower.
+
+**44** He will lend to you, but you will not lend to him. He will be the head, and you will be the tail.
+
+**45** All these curses will come on you. They will pursue you and overtake you until you are destroyed, because you did not listen to the voice of Yahweh your God, to keep his commandments and his statutes that he commanded you.
+
+**46** They will be a sign and a wonder against you and your descendants forever.
+
+**47** Because you did not serve Yahweh your God with joy and gladness of heart when you had plenty of everything,[^28-20]
+
+**48** you will serve the enemies whom Yahweh will send against you, in hunger and thirst, in nakedness and in lack of everything. He will put an iron yoke on your neck until he has destroyed you.
+
+**49** Yahweh will bring against you a nation from far away, from the end of the earth, swooping down like an eagle,[^28-21] a nation whose language you do not understand,
+
+**50** a fierce-looking nation,[^28-22] which shows no respect for the old and no mercy to the young.
+
+**51** It will eat the young of your livestock and the produce of your ground until you are destroyed. It will leave you no grain, new wine or olive oil, no calves of your herds or lambs of your flocks, until it has ruined you.
+
+**52** It will besiege you in all your towns,[^28-23] until the high, fortified walls that you trust in come down throughout your land. It will besiege you in all your towns throughout the land that Yahweh your God has given you.
+
+**53** In the siege and the distress that your enemy will bring on you, you will eat the fruit of your womb, the flesh of your sons and your daughters whom Yahweh your God has given you.
+
+**54** Even the most gentle and refined man among you will look grudgingly[^28-24] at his brother, at the wife he embraces,[^28-25] and at the last of his children who are left,
+
+**55** refusing to give any of them the flesh of his children that he is eating, because he has nothing else left in the siege and the distress that your enemy will bring on you in all your towns.
+
+**56** The most gentle and refined woman among you, so gentle and refined that she would not think of setting the sole of her foot on the ground, will look grudgingly at the husband she embraces, at her son and at her daughter,
+
+**57** and at the afterbirth that comes out from between her legs and at the children she bears. For she will eat them in secret, because she lacks everything, in the siege and the distress that your enemy will bring on you in your towns.
+
+**58** If you are not careful to follow all the words of this law that are written in this book, and to fear this glorious and awesome name, Yahweh your God,
+
+**59** Yahweh will strike you and your descendants with extraordinary plagues,[^28-26] great and lasting plagues, and severe and lasting illnesses.
+
+**60** He will bring back on you all the diseases of Egypt that you dreaded, and they will cling to you.
+
+**61** Yahweh will also bring on you every sickness and every plague that is not written in the book of this law, until you are destroyed.
+
+**62** You who were as numerous as the stars of the sky will be left few in number,[^28-27] because you did not listen to the voice of Yahweh your God.
+
+**63** Just as Yahweh delighted in doing you good and multiplying you, so Yahweh will delight in ruining you and destroying you. You will be torn from the land you are entering to take possession of.
+
+**64** Yahweh will scatter you among all the peoples, from one end of the earth to the other. There you will serve other gods, gods of wood and stone, which neither you nor your ancestors have known.
+
+**65** Among those nations you will find no rest, no resting place for the sole of your foot. There Yahweh will give you an anxious heart, eyes that fail with longing, and a despairing spirit.[^28-28]
+
+**66** Your life will hang in doubt before you.[^28-29] You will be afraid night and day, and you will never be sure of your life.
+
+**67** In the morning you will say, 'If only it were evening!' and in the evening you will say, 'If only it were morning!' because of the dread that fills your heart and the sights your eyes will see.
+
+**68** Yahweh will bring you back to Egypt in ships, by the way that I told you you would never see again. There you will offer yourselves for sale to your enemies as male and female slaves, but no one will buy you."
+
+**69** These are the words of the covenant that Yahweh commanded Moses to make with the Israelites in the land of Moab, in addition to the covenant he had made with them at Horeb.[^28-30]
+
+[^28-1]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^28-2]: Moses is still speaking, continuing the instructions he began in 27:11. His speech ends at verse 68.
+[^28-3]: Literally "field"; also in verse 16.
+[^28-4]: Literally "that the name of Yahweh is called over you", a sign that Israel belongs to him.
+[^28-5]: Literally "make you have more than enough, for good".
+[^28-6]: Literally "fathers"; also in verses 36 and 64.
+[^28-7]: Here Moses speaks in Yahweh's own words.
+[^28-8]: The Hebrew vowel points read "sword". The same consonants can be read "drought", which fits the list of crop diseases that follows.
+[^28-9]: Literally "the beasts of the earth".
+[^28-10]: The Hebrew text is written *ophalim*, "swellings", but read *techorim*, "tumors". Both words probably mean tumors or hemorrhoids; the read form was felt to be less coarse.
+[^28-11]: Literally "of heart".
+[^28-12]: Literally "You will not make your ways prosper".
+[^28-13]: The Hebrew text is written with a coarser verb, "ravish her", but read "sleep with her".
+[^28-14]: Hebrew *chillel*, "make common": begin to use the fruit for ordinary purposes (20:6).
+[^28-15]: Literally "robbed from before your face".
+[^28-16]: Literally "and there will be no power in your hand".
+[^28-17]: Hebrew *shammah*, "something appalling", *mashal*, "proverb", and *sheninah*, "a sharp taunt".
+[^28-18]: Hebrew *tselatsal*, a rare word, probably an insect named for its whirring sound.
+[^28-19]: Hebrew *ger*: someone from elsewhere who lives among the Israelites, a resident foreigner.
+[^28-20]: Literally "because of the abundance of everything".
+[^28-21]: Or "vulture". Hebrew *nesher*.
+[^28-22]: Literally "a nation strong of face".
+[^28-23]: Literally "gates"; also later in the verse and in verses 55 and 57.
+[^28-24]: Literally "his eye will be evil toward"; also in verse 56.
+[^28-25]: Literally "the wife of his bosom". In verse 56, "the husband she embraces" is literally "the husband of her bosom".
+[^28-26]: Literally "Yahweh will make your plagues wonderful".
+[^28-27]: Literally "men of few".
+[^28-28]: Literally "a trembling heart, a failing of eyes and a pining of *nephesh* (self)".
+[^28-29]: Literally "Your life will be hung up for you in front of you".
+[^28-30]: Verse 69 is 29:1 in most English Bibles.
+
+## Chapter 29
+
+*Status: draft*
+
+**1** Moses summoned all Israel and said to them,[^29-1] "You have seen all that Yahweh[^29-2] did before your eyes in the land of Egypt, to Pharaoh and to all his servants and to all his land:
+
+**2** the great trials that your eyes saw, those great signs and wonders.
+
+**3** But to this day Yahweh has not given you a mind to understand, or eyes to see, or ears to hear.[^29-3]
+
+**4** I led you forty years in the wilderness. Your clothes did not wear out on you, and your sandals did not wear out on your feet.[^29-4]
+
+**5** You did not eat bread, and you did not drink wine or beer, so that you might know that I am Yahweh your God.
+
+**6** When you came to this place, Sihon king of Heshbon and Og king of Bashan came out against us to fight, but we defeated them.
+
+**7** We took their land and gave it as an inheritance to the Reubenites, the Gadites and the half-tribe of Manasseh.
+
+**8** So be careful to follow the words of this covenant, so that you may succeed[^29-5] in everything you do.
+
+**9** All of you are standing today before Yahweh your God: your leaders and your tribes,[^29-6] your elders and your officials, all the men of Israel,
+
+**10** your little ones, your wives, and the foreigners[^29-7] who live in your camp, from those who cut your wood to those who draw your water,
+
+**11** so that you may enter into the covenant of Yahweh your God, and into the oath[^29-8] that Yahweh your God is making with you today,
+
+**12** in order to establish you today as his people, and so that he may be your God, as he promised you and as he swore to your ancestors,[^29-9] to Abraham, to Isaac and to Jacob.
+
+**13** It is not with you alone that I am making this covenant and this oath,
+
+**14** but with those who are standing here with us today before Yahweh our God, and also with those who are not here with us today.
+
+**15** For you know how we lived in the land of Egypt, and how we passed through the middle of the nations you passed through.
+
+**16** You saw their detestable things and their idols,[^29-10] of wood and stone, of silver and gold, which they had among them.
+
+**17** Make sure that there is no man or woman, no clan or tribe, among you whose heart turns away today from Yahweh our God, to go and serve the gods of those nations. Make sure that there is no root among you that bears poisonous and bitter fruit.[^29-11]
+
+**18** When such a person hears the words of this oath, he may bless himself in his heart and think, 'I will be safe,[^29-12] though I follow my own stubborn heart.' That would sweep away the watered land and the dry alike.[^29-13]
+
+**19** Yahweh will never be willing to forgive him. Instead, the anger and jealousy of Yahweh will smoke against that man. Every curse written in this book will settle on him, and Yahweh will wipe out his name from under heaven.
+
+**20** Yahweh will single him out from all the tribes of Israel for disaster, according to all the curses of the covenant written in this book of the law.
+
+**21** The generation to come, your children who rise up after you, and the foreigner[^29-14] who comes from a distant land, will speak about it, when they see the plagues of that land and the diseases that Yahweh has brought on it:
+
+**22** the whole land burned out with sulfur and salt, nothing sown, nothing growing, no plant coming up on it, like the overthrow of Sodom and Gomorrah, Admah and Zeboiim, which Yahweh overthrew in his anger and his fury.
+
+**23** All the nations will say, 'Why has Yahweh done this to this land? Why this great, burning anger?'
+
+**24** And people will say, 'It is because they abandoned the covenant of Yahweh, the God of their ancestors, which he made with them when he brought them out of the land of Egypt.
+
+**25** They went and served other gods and bowed down to them, gods they had not known, and that he had not given to them.[^29-15]
+
+**26** So the anger of Yahweh burned against that land, and he brought on it every curse written in this book.
+
+**27** Yahweh uprooted them from their land in anger, in fury and in great rage, and threw them into another land, as it is today.'
+
+**28** The secret things belong to Yahweh our God, but the things that are revealed belong to us and to our children[^29-16] forever, so that we may follow all the words of this law.
+
+[^29-1]: Verses 1–28 are 29:2–29 in most English Bibles. Moses' third speech begins here and runs to 30:20.
+[^29-2]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^29-3]: Literally "a heart to know". Paul quotes this verse, with Isaiah 29:10, in Romans 11:8.
+[^29-4]: In verses 4–5 Moses speaks in Yahweh's own words.
+[^29-5]: Or "act wisely".
+[^29-6]: Literally "your heads, your tribes". The Septuagint and the Syriac read "the heads of your tribes".
+[^29-7]: Hebrew *ger*: someone from elsewhere who lives among the Israelites, a resident foreigner.
+[^29-8]: Hebrew *alah*, a solemn oath with a curse attached to it. Also in verses 13, 18, 19 and 20, where it is translated "oath" or "curse".
+[^29-9]: Literally "fathers"; also in verse 24.
+[^29-10]: Hebrew *gillulim*, a scornful word for idols, perhaps meaning "lumps of dung".
+[^29-11]: Literally "a root bearing poison and wormwood". Compare Hebrews 12:15.
+[^29-12]: Literally "I will have peace".
+[^29-13]: Literally "in order to sweep away the watered with the thirsty". The meaning is uncertain; it may be a saying meaning "everything".
+[^29-14]: Hebrew *nokhri*: a foreigner from another land who has not settled among the Israelites.
+[^29-15]: Literally "and he had not allotted to them" (compare 4:19).
+[^29-16]: In the Hebrew text, dots are written over the words "to us and to our children" and over the first letter of the next word, a scribal mark of uncertain meaning.
+
+## Chapter 30
+
+*Status: draft*
+
+**1** "When all these things have come on you, the blessing and the curse that I have set before you, and you take them to heart among all the nations where Yahweh[^30-1] your God has driven you,
+
+**2** and you return to Yahweh your God and listen to his voice, you and your children, with all your heart and with all your soul,[^30-2] just as I am commanding you today,
+
+**3** then Yahweh your God will restore your fortunes[^30-3] and have compassion on you. He will gather you again from all the peoples where Yahweh your God has scattered you.
+
+**4** Even if you have been driven away to the farthest edge of the heavens,[^30-4] from there Yahweh your God will gather you, and from there he will bring you back.
+
+**5** Yahweh your God will bring you into the land that your ancestors[^30-5] possessed, and you will possess it. He will make you more prosperous and more numerous than your ancestors.
+
+**6** Yahweh your God will circumcise your heart and the hearts of your descendants, so that you will love Yahweh your God with all your heart and with all your soul, and live.[^30-6]
+
+**7** Yahweh your God will put all these curses on your enemies and on those who hate you and persecuted you.
+
+**8** And you will again[^30-7] listen to the voice of Yahweh and follow all his commandments that I am giving you today.
+
+**9** Yahweh your God will make you prosper abundantly in all the work of your hands, in the fruit of your womb, the fruit of your livestock and the fruit of your ground. For Yahweh will again delight in you and make you prosper, as he delighted in your ancestors,
+
+**10** when you listen to the voice of Yahweh your God by keeping his commandments and his statutes that are written in this book of the law, when you turn back to Yahweh your God with all your heart and with all your soul.
+
+**11** For this commandment that I am giving you today is not too hard for you,[^30-8] and it is not far away.
+
+**12** It is not in heaven, so that you should say, 'Who will go up to heaven for us and bring it to us, and tell it to us so that we may do it?'[^30-9]
+
+**13** And it is not beyond the sea, so that you should say, 'Who will cross the sea for us and bring it to us, and tell it to us so that we may do it?'
+
+**14** No, the word is very near you. It is in your mouth and in your heart, so that you can do it.
+
+**15** See, today I have set before you life and good, death and evil.[^30-10]
+
+**16** For I am commanding you today to love Yahweh your God, to walk in his ways, and to keep his commandments, his statutes and his rulings.[^30-11] Then you will live and multiply, and Yahweh your God will bless you in the land you are entering to take possession of.
+
+**17** But if your heart turns away and you do not listen, and you are drawn away to bow down to other gods and serve them,
+
+**18** I declare to you today that you will surely perish. You will not live long in the land you are crossing the Jordan to enter and possess.
+
+**19** I call heaven and earth as witnesses against you today that I have set before you life and death, blessing and curse. So choose life, so that you and your descendants may live,
+
+**20** by loving Yahweh your God, listening to his voice and holding fast to him. For he is your life and the length of your days,[^30-12] so that you may live in the land that Yahweh swore to give to your ancestors, to Abraham, to Isaac and to Jacob."
+
+[^30-1]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^30-2]: Hebrew *nephesh*: life, self, soul. Also in verses 6 and 10.
+[^30-3]: Hebrew *shav et shevutekha*, literally "turn your turning". Or "bring back your captives".
+[^30-4]: Literally "to the end of the heavens".
+[^30-5]: Literally "fathers"; also in verses 9 and 20.
+[^30-6]: Literally "for the sake of your life". Compare 10:16.
+[^30-7]: Literally "you will return and".
+[^30-8]: Literally "too wonderful for you".
+[^30-9]: Paul uses verses 12–14 in Romans 10:6–8.
+[^30-10]: Or "prosperity and disaster". Hebrew *tov* and *ra*.
+[^30-11]: The Septuagint begins the verse "If you listen to the commandments of the Lord your God that I am commanding you today, to love …".
+[^30-12]: Or "For that means life for you and length of days".
+
+## Chapter 31
+
+*Status: draft*
+
+**1** Then Moses went and spoke these words to all Israel.[^31-1]
+
+**2** He said to them, "I am 120 years old today. I am no longer able to lead you,[^31-2] and Yahweh[^31-3] has said to me, 'You will not cross this Jordan.'
+
+**3** Yahweh your God himself will cross over ahead of you. He will destroy these nations before you, and you will dispossess them. Joshua will cross over ahead of you, as Yahweh has said.
+
+**4** Yahweh will do to them as he did to Sihon and Og, the kings of the Amorites, and to their land, when he destroyed them.
+
+**5** Yahweh will hand them over to you, and you must do to them everything I have commanded you.[^31-4]
+
+**6** Be strong and courageous. Do not be afraid or terrified of them, for Yahweh your God is the one who goes with you. He will not fail you or abandon you."
+
+**7** Then Moses summoned Joshua and said to him in the sight of all Israel, "Be strong and courageous, for you will go with this people into the land that Yahweh swore to their ancestors[^31-5] to give them, and you will divide it among them as their inheritance.
+
+**8** Yahweh himself goes ahead of you. He will be with you. He will not fail you or abandon you. Do not be afraid or discouraged."
+
+**9** So Moses wrote down this law and gave it to the priests, the sons of Levi, who carried the ark of Yahweh's covenant, and to all the elders of Israel.
+
+**10** Moses commanded them, "At the end of every seven years, at the set time in the year of release,[^31-6] at the Festival of Shelters,[^31-7]
+
+**11** when all Israel comes to appear before Yahweh your God[^31-8] at the place he will choose, you are to read this law aloud before all Israel, in their hearing.
+
+**12** Assemble the people, the men, the women and the children, and the foreigners[^31-9] who live in your towns,[^31-10] so that they may listen and learn to fear Yahweh your God, and be careful to follow all the words of this law.
+
+**13** Their children, who do not know it, must also listen and learn to fear Yahweh your God, as long as you live in the land you are crossing the Jordan to possess."
+
+**14** Then Yahweh said to Moses, "The day of your death is near.[^31-11] Call Joshua, and present yourselves at the tent of meeting,[^31-12] so that I may give him his orders." So Moses and Joshua went and presented themselves at the tent of meeting.
+
+**15** Yahweh appeared at the tent in a pillar of cloud, and the pillar of cloud stood over the entrance of the tent.
+
+**16** Yahweh said to Moses, "You are about to rest with your ancestors.[^31-13] Then this people will rise up and prostitute themselves to the foreign gods of the land they are entering.[^31-14] They will abandon me and break my covenant that I made with them.
+
+**17** On that day my anger will burn against them. I will abandon them and hide my face from them, and they will be devoured.[^31-15] Many disasters and troubles will come on them, and on that day they will say, 'Haven't these disasters come on us because our God is not among us?'
+
+**18** And I will surely hide my face on that day, because of all the evil they have done by turning to other gods.
+
+**19** So now write down this song for yourselves[^31-16] and teach it to the Israelites. Have them sing it,[^31-17] so that this song may be my witness against the Israelites.
+
+**20** When I have brought them into the land flowing with milk and honey that I swore to give their ancestors, and they eat their fill and grow fat, they will turn to other gods and serve them. They will despise me and break my covenant.
+
+**21** And when many disasters and troubles have come on them, this song will testify against them as a witness, for it will not be forgotten from the mouths of their descendants. For I know what they are inclined to do[^31-18] even now, before I have brought them into the land that I swore to give them."
+
+**22** So Moses wrote down this song that day and taught it to the Israelites.
+
+**23** Then he[^31-19] gave Joshua son of Nun his orders: "Be strong and courageous, for you will bring the Israelites into the land that I swore to give them, and I will be with you."
+
+**24** When Moses had finished writing the words of this law in a book, to the very end,
+
+**25** Moses gave this command to the Levites who carried the ark of Yahweh's covenant:
+
+**26** "Take this book of the law and put it beside the ark of the covenant of Yahweh your God. Let it remain there as a witness against you.
+
+**27** For I know how rebellious and stubborn you are.[^31-20] Even now, while I am still alive with you, you have been rebels against Yahweh. How much more after my death!
+
+**28** Assemble before me all the elders of your tribes and your officials, so that I may speak these words in their hearing and call heaven and earth as witnesses against them.
+
+**29** For I know that after my death you will act very corruptly and turn aside from the way I have commanded you. In days to come,[^31-21] disaster will come on you, because you will do what is evil in the eyes of Yahweh, provoking him to anger by what your hands have made."
+
+**30** Then Moses recited the words of this song to the very end, in the hearing of the whole assembly of Israel:
+
+[^31-1]: A Dead Sea Scroll (1QDeut-b) and the Septuagint read "When Moses had finished speaking all these words to all Israel".
+[^31-2]: Literally "to go out and to come in", that is, to lead you in war and in daily life.
+[^31-3]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^31-4]: Literally "according to all the commandment that I have commanded you".
+[^31-5]: Literally "fathers"; also in verses 16 and 20.
+[^31-6]: Hebrew *shemittah*, "letting drop": the cancellation of debts every seventh year (15:1–11).
+[^31-7]: Hebrew *sukkot*, "booths, shelters". Traditionally "Tabernacles". See 16:13.
+[^31-8]: Literally "to be seen at the face of Yahweh your God". The same consonants could be read "to see the face of Yahweh your God".
+[^31-9]: Hebrew *ger*: someone from elsewhere who lives among the Israelites, a resident foreigner.
+[^31-10]: Literally "gates".
+[^31-11]: Literally "Look, your days have come near to die".
+[^31-12]: Hebrew *ohel mo'ed*: the tent where Yahweh met with Moses and the people (Exodus 33:7–11). Also later in the verse.
+[^31-13]: Literally "You are about to lie down with your fathers", a way of speaking of death.
+[^31-14]: Literally "and prostitute themselves after the gods of the foreigners of the land into whose midst they are going". Unfaithfulness to Yahweh is often pictured as sexual unfaithfulness.
+[^31-15]: Literally "and he will be for devouring".
+[^31-16]: The command is plural, to Moses and Joshua.
+[^31-17]: Literally "put it in their mouths".
+[^31-18]: Hebrew *yetser*, "inclination, intention": what they are forming in their minds.
+[^31-19]: Yahweh is the speaker, as in verse 14.
+[^31-20]: Literally "your rebellion and your hard neck".
+[^31-21]: Literally "in the end of the days".
