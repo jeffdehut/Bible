@@ -994,3 +994,276 @@
 [^10-7]: Many manuscripts read "how hard it is for those who trust in riches to enter the kingdom of God!"
 [^10-8]: Aramaic, "my teacher", a respectful form of "Rabbi".
 [^10-9]: Or "has saved you".
+
+## Chapter 11
+
+*Status: draft*
+
+**1** As they approached Jerusalem, near Bethphage and Bethany at the Mount of Olives, Jesus sent two of his disciples,
+
+**2** telling them, "Go into the village ahead of you. As soon as you enter it, you will find a colt tied there that no one has ever ridden. Untie it and bring it.
+
+**3** If anyone asks you, 'Why are you doing this?' say, 'The Lord[^11-1] needs it and will send it back here right away.'"
+
+**4** They went and found a colt tied at a door, outside in the street, and they untied it.
+
+**5** Some people standing there asked them, "What are you doing, untying the colt?"
+
+**6** They answered as Jesus had told them, and the people let them go.
+
+**7** They brought the colt to Jesus and threw their cloaks on it, and he sat on it.
+
+**8** Many people spread their cloaks on the road, and others spread leafy branches they had cut in the fields.
+
+**9** Those who went ahead and those who followed were shouting, "Hosanna![^11-2] Blessed is the one who comes in the name of the Lord![^11-3]
+
+**10** Blessed is the coming kingdom of our father David! Hosanna in the highest heaven!"
+
+**11** Jesus entered Jerusalem and went into the temple. He looked around at everything, but since it was already late, he went out to Bethany with the Twelve.
+
+**12** The next day, as they were leaving Bethany, he was hungry.
+
+**13** Seeing in the distance a fig tree in leaf, he went to see whether he could find anything on it. When he reached it, he found nothing but leaves, because it was not the season for figs.
+
+**14** He said to the tree, "May no one ever eat fruit from you again." And his disciples heard him say it.
+
+**15** They came to Jerusalem. Jesus went into the temple and began to drive out those who were selling and buying there. He overturned the tables of the money changers and the seats of those selling doves,
+
+**16** and he would not let anyone carry goods[^11-4] through the temple.
+
+**17** Then he taught them: "Is it not written, 'My house will be called a house of prayer for all the nations'?[^11-5] But you have made it a den of robbers."[^11-6]
+
+**18** The chief priests and the scribes heard this and began looking for a way to kill him. They were afraid of him, because the whole crowd was amazed at his teaching.
+
+**19** When evening came, they went out of the city.
+
+**20** In the morning, as they passed by, they saw the fig tree withered from the roots.
+
+**21** Peter remembered and said to him, "Rabbi, look! The fig tree you cursed has withered."
+
+**22** Jesus answered them, "Have faith in God.[^11-7]
+
+**23** Truly I tell you, if anyone says to this mountain, 'Be lifted up and thrown into the sea,' and does not doubt in their heart but believes that what they say will happen, it will be done for them.
+
+**24** So I tell you, whatever you pray and ask for, believe that you have received it, and it will be yours.
+
+**25** And whenever you stand praying, if you have anything against anyone, forgive them, so that your Father in heaven may also forgive you your wrongdoings."[^11-8]
+
+**27** They came again to Jerusalem. As Jesus was walking in the temple, the chief priests, the scribes, and the elders came to him
+
+**28** and asked him, "By what authority are you doing these things? Who gave you the authority to do them?"
+
+**29** Jesus said to them, "I will ask you one question. Answer me, and I will tell you by what authority I do these things.
+
+**30** John's baptism: was it from heaven or from human beings? Answer me."
+
+**31** They discussed it among themselves: "What should we say?[^11-9] If we say, 'From heaven,' he will say, 'Then why didn't you believe him?'
+
+**32** But if we say, 'From human beings' …" They were afraid of the crowd, for everyone held that John really was a prophet.
+
+**33** So they answered Jesus, "We don't know." And Jesus said to them, "Neither will I tell you by what authority I do these things."
+
+[^11-1]: Or "Its master". Greek *kyrios* means "lord, master, owner".
+[^11-2]: A Hebrew expression, originally "Save, please!" (Psalm 118:25), used as a shout of praise.
+[^11-3]: Psalm 118:26. In the Hebrew, "the Lord" is God's personal name, Yahweh.
+[^11-4]: Or "a vessel".
+[^11-5]: Isaiah 56:7.
+[^11-6]: Jeremiah 7:11.
+[^11-7]: Literally "Have faith of God".
+[^11-8]: Many manuscripts add verse 26: "But if you do not forgive, neither will your Father in heaven forgive your wrongdoings." The SBLGNT, following the earliest manuscripts, does not include it, so this translation has no verse 26.
+[^11-9]: These words are in the SBLGNT, following a few manuscripts. They are not in most manuscripts or editions.
+
+## Chapter 12
+
+*Status: draft*
+
+**1** Then Jesus began to speak to them in parables: "A man planted a vineyard. He put a wall around it, dug a pit for the winepress, and built a watchtower. Then he leased it to tenant farmers and went away on a journey.
+
+**2** At harvest time he sent a servant[^12-1] to the tenants to collect from them his share of the fruit of the vineyard.
+
+**3** But they seized him, beat him, and sent him away empty-handed.
+
+**4** Again he sent another servant to them. They struck this one on the head and treated him shamefully.
+
+**5** He sent another, and they killed him. He sent many others too. Some they beat, and some they killed.
+
+**6** He still had one left to send, a beloved son. Finally he sent him to them, saying, 'They will respect my son.'
+
+**7** But those tenants said to one another, 'This is the heir. Come, let us kill him, and the inheritance will be ours.'
+
+**8** So they seized him, killed him, and threw him out of the vineyard.
+
+**9** What will the owner of the vineyard do? He will come and destroy the tenants and give the vineyard to others.
+
+**10** Haven't you read this scripture: 'The stone the builders rejected has become the cornerstone.[^12-2]
+
+**11** This was the Lord's doing, and it is marvelous in our eyes'?"[^12-3]
+
+**12** They wanted to arrest him, because they knew he had told the parable against them. But they were afraid of the crowd, so they left him and went away.
+
+**13** Then they sent some of the Pharisees and the Herodians to Jesus to trap him in what he said.
+
+**14** They came and said to him, "Teacher, we know that you are truthful and don't care what anyone thinks. You pay no attention to people's status,[^12-4] but you teach the way of God in truth. Is it lawful to pay taxes[^12-5] to Caesar or not? Should we pay, or shouldn't we?"
+
+**15** But he knew their hypocrisy and said to them, "Why are you testing me? Bring me a denarius and let me look at it."
+
+**16** They brought one, and he asked them, "Whose image is this, and whose inscription?" "Caesar's," they replied.
+
+**17** Jesus said to them, "Give to Caesar what belongs to Caesar, and to God what belongs to God." And they were utterly amazed at him.
+
+**18** Some Sadducees, who say there is no resurrection, came to him with a question.
+
+**19** "Teacher," they said, "Moses wrote for us that if a man's brother dies and leaves a wife but no child, the man must marry the widow and raise up children for his brother.[^12-6]
+
+**20** There were seven brothers. The first married, and when he died he left no children.
+
+**21** The second married the widow, and he died without leaving any children. The third did the same.
+
+**22** None of the seven left any children. Last of all, the woman died too.
+
+**23** At the resurrection, when they rise again, whose wife will she be? For all seven had her as their wife."
+
+**24** Jesus said to them, "Isn't this why you are mistaken, because you know neither the scriptures nor the power of God?
+
+**25** When people rise from the dead, they neither marry nor are given in marriage. They are like the angels in heaven.
+
+**26** And as for the dead being raised, haven't you read in the book of Moses, in the passage about the bush, how God said to him, 'I am the God of Abraham, the God of Isaac, and the God of Jacob'?[^12-7]
+
+**27** He is not the God of the dead but of the living. You are badly mistaken."
+
+**28** One of the scribes came up and heard them debating. Seeing that Jesus had answered them well, he asked him, "Which commandment is the most important of all?"
+
+**29** Jesus answered, "The most important is, 'Hear, Israel: the Lord our God, the Lord is one.[^12-8]
+
+**30** You shall love the Lord your God with all your heart, with all your soul, with all your mind, and with all your strength.'[^12-9]
+
+**31** The second is this: 'You shall love your neighbor as yourself.'[^12-10] No other commandment is greater than these."
+
+**32** The scribe said to him, "Well said, Teacher! You are right in saying that he is one and there is no other besides him.
+
+**33** And to love him with all one's heart, with all one's understanding, and with all one's strength, and to love one's neighbor as oneself, is far more important than all burnt offerings and sacrifices."
+
+**34** When Jesus saw that he had answered wisely, he said to him, "You are not far from the kingdom of God." After that no one dared to ask him any more questions.
+
+**35** While Jesus was teaching in the temple, he asked, "How can the scribes say that the Messiah is the son of David?
+
+**36** David himself, speaking by the Holy Spirit, declared: 'The Lord said to my Lord, "Sit at my right hand until I put your enemies under your feet."'[^12-11]
+
+**37** David himself calls him 'Lord'. So how can he be his son?" The large crowd listened to him with delight.
+
+**38** In his teaching he said, "Beware of the scribes. They like to walk around in long robes, to be greeted in the marketplaces,
+
+**39** and to have the best seats in the synagogues and the places of honor at banquets.
+
+**40** They devour widows' houses[^12-12] and for show make long prayers. They will receive the greater condemnation."
+
+**41** Jesus sat down opposite the treasury and watched the crowd putting money into it. Many rich people put in large amounts.
+
+**42** A poor widow came and put in two small copper coins,[^12-13] worth a fraction of a penny.
+
+**43** Calling his disciples to him, he said to them, "Truly I tell you, this poor widow has put in more than all those who are contributing to the treasury.
+
+**44** For they all gave out of their abundance, but she, out of her poverty, put in everything she had, all she had to live on."
+
+[^12-1]: Or "slave"; also in verse 4. Greek *doulos*.
+[^12-2]: Literally "the head of the corner".
+[^12-3]: Psalm 118:22–23. In the Hebrew, "the Lord" is God's personal name, Yahweh.
+[^12-4]: Literally "you do not look at the face of people", that is, you show no favoritism.
+[^12-5]: Greek *kensos*, the poll tax paid to Rome.
+[^12-6]: Deuteronomy 25:5–6.
+[^12-7]: Exodus 3:6.
+[^12-8]: Deuteronomy 6:4. In the Hebrew, "the Lord" is God's personal name: "Yahweh our God, Yahweh is one". Also "Yahweh is our God, Yahweh alone."
+[^12-9]: Deuteronomy 6:5.
+[^12-10]: Leviticus 19:18.
+[^12-11]: Psalm 110:1. In the Hebrew: "Yahweh said to my lord".
+[^12-12]: That is, they exploit widows and take their property.
+[^12-13]: Greek *lepta*, the smallest coins. The verse adds "which make a *kodrantes*", a Roman coin worth 1/64 of a denarius.
+
+## Chapter 13
+
+*Status: draft*
+
+**1** As Jesus was leaving the temple, one of his disciples said to him, "Teacher, look! What huge stones and what magnificent buildings!"
+
+**2** Jesus said to him, "Do you see these great buildings? Not one stone here will be left on another; every one will be thrown down."
+
+**3** As he was sitting on the Mount of Olives opposite the temple, Peter, James, John, and Andrew asked him privately,
+
+**4** "Tell us, when will these things happen? And what will be the sign that they are all about to be fulfilled?"
+
+**5** Jesus began to say to them, "Be careful that no one deceives you.
+
+**6** Many will come in my name, saying, 'I am he,'[^13-1] and they will deceive many.
+
+**7** When you hear of wars and rumors of wars, do not be alarmed. These things must happen, but the end is not yet.
+
+**8** Nation will rise against nation, and kingdom against kingdom. There will be earthquakes in various places, and there will be famines. These are the beginning of the birth pains.
+
+**9** "But you must watch out for yourselves. They will hand you over to councils,[^13-2] and you will be beaten in synagogues. You will stand before governors and kings because of me, to bear witness to them.
+
+**10** And the good news must first be proclaimed to all nations.
+
+**11** When they arrest you and hand you over, do not worry beforehand about what to say. Just say whatever is given you at that time, for it is not you who speak, but the Holy Spirit.
+
+**12** Brother will hand over brother to death, and a father his child. Children will rise against their parents and have them put to death.
+
+**13** Everyone will hate you because of my name. But the one who endures to the end will be saved.
+
+**14** "When you see 'the abomination that causes desolation'[^13-3] standing where it[^13-4] should not be—let the reader understand—then those in Judea must flee to the mountains.
+
+**15** Whoever is on the housetop must not go down or go inside to take anything out of the house.
+
+**16** Whoever is in the field must not turn back to get their cloak.
+
+**17** How terrible it will be in those days for women who are pregnant and for those who are nursing!
+
+**18** Pray that it will not happen in winter.
+
+**19** For those days will be a time of distress unequaled from the beginning of the creation that God created until now, and never to be equaled again.
+
+**20** If the Lord had not cut those days short, no one[^13-5] would survive. But for the sake of the elect, whom he has chosen, he has cut the days short.
+
+**21** At that time if anyone says to you, 'Look, here is the Messiah!' or, 'Look, there he is!' do not believe it.
+
+**22** For false messiahs and false prophets will appear and perform signs and wonders to lead astray, if possible, the elect.
+
+**23** So be on your guard. I have told you everything ahead of time.
+
+**24** "But in those days, after that distress, 'the sun will be darkened, and the moon will not give its light;
+
+**25** the stars will fall from the sky, and the powers in the heavens will be shaken.'[^13-6]
+
+**26** Then they will see 'the Son of Man coming in clouds'[^13-7] with great power and glory.
+
+**27** And then he will send out the angels and gather his[^13-8] elect from the four winds, from the ends of the earth to the ends of the sky.
+
+**28** "Learn this lesson from the fig tree: as soon as its branch becomes tender and puts out leaves, you know that summer is near.
+
+**29** In the same way, when you see these things happening, you know that he[^13-9] is near, right at the door.
+
+**30** Truly I tell you, this generation will certainly not pass away until all these things have happened.
+
+**31** Heaven and earth will pass away, but my words will never pass away.
+
+**32** "But about that day or hour no one knows, not even the angels in heaven, nor the Son, but only the Father.
+
+**33** Be on guard! Stay alert![^13-10] You do not know when the time will come.
+
+**34** It is like a man going on a journey. He leaves his house and puts his servants in charge, each with their own task, and tells the doorkeeper to keep watch.
+
+**35** So keep watch, because you do not know when the owner of the house will come: in the evening, at midnight, at cockcrow, or at dawn.
+
+**36** If he comes suddenly, do not let him find you sleeping.
+
+**37** What I say to you, I say to everyone: Keep watch!"
+
+[^13-1]: Literally "I am".
+[^13-2]: Greek *synedria*, local Jewish councils.
+[^13-3]: Daniel 9:27; 11:31; 12:11.
+[^13-4]: Or "he". The Greek participle is masculine, though "abomination" is neuter.
+[^13-5]: Literally "no flesh".
+[^13-6]: Isaiah 13:10; 34:4.
+[^13-7]: Daniel 7:13.
+[^13-8]: Some manuscripts leave out "his".
+[^13-9]: Or "it".
+[^13-10]: Many manuscripts add "and pray".
