@@ -78,6 +78,7 @@ Decisions marked **proposed** are used in the pilot and are open for review.
 | שְׁאוֹל (Sheol) | Sheol | The realm of the dead. Noted at its first occurrence in each chapter. |
 | מִשְׁכָּן, אֹהֶל מוֹעֵד | tabernacle, tent of meeting | The renderings of the tabernacle, its furnishings, the priestly garments and the offerings are set in Exodus 25–40 and Leviticus 1–7; later books reuse them (for example *kapporet* "atonement cover", *choshen* "breastpiece", *shelamim* "fellowship offering", *chatta't* "sin offering" with a note "Or 'purification offering'"). |
 | פָּרֹכֶת (parokhet) | veil | The hanging that screens the most holy place. Not "curtain", which is יְרִיעָה; מָסָךְ is "screen". |
+| אָב (ancestor), "his father David" | his ancestor David | "Father" is kept where it means the actual father (Solomon's father David). For a later king, "his ancestor David", noted "Literally 'his father'". Plural אָבוֹת is "ancestors" ("slept with his ancestors"). |
 | בְּנֵי יִשְׂרָאֵל | the Israelites, the people of Israel | Literally "the sons of Israel". No note needed. |
 | תּוֹרָה (torah) | instruction, law, by context | "The Law" when it means the law given through Moses as a whole. |
 | בְּרִית, διαθήκη | covenant | |
@@ -185,6 +186,8 @@ from the Hebrew.
   word order is noted only if the English would differ. Where the Septuagint arranges a whole
   passage differently (as in 1 Kings 20–21, Jeremiah, Proverbs 24–31), one note at the start of
   the passage says so.
+- Quotation marks: double for speech, single for a quotation inside it. A third level ("This
+  is what Yahweh says: …" inside a message inside a speech) takes a colon and no marks.
 - Within a chapter, a speech's quotation is opened once and closed once; it isn't reopened at
   each verse. A "list" for the numbers rule is the paragraph its numbers belong to.
 - Technical terms (tabernacle furnishings, sacrifices, priestly garments) get a full note at

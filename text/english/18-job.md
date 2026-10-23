@@ -1120,7 +1120,7 @@
 [^17-2]: Job speaks to God. Literally "Set, please, pledge me with yourself".
 [^17-3]: Literally "Who is he who will strike my hand?", a gesture of guaranteeing someone's debt (Proverbs 6:1; 17:18).
 [^17-4]: Literally "hidden their heart from insight".
-[^17-5]: The Hebrew of this line is uncertain. Literally "For a portion he informs on friends". Or "He invites friends to share his portion, while…".
+[^17-5]: The Hebrew of this line is uncertain. Literally "For a portion he informs on friends". Or "He invites friends to share his portion, while the eyes of his own children fail".
 [^17-6]: Hebrew *tofet*, "spitting". Literally "I will be a spitting in the face". The Hebrew of this phrase is uncertain.
 [^17-7]: Literally "the possessions of my heart".
 [^17-8]: The Hebrew of this line is uncertain. Literally "light is near from the face of darkness". Or "light is nearer than darkness".
@@ -1182,3 +1182,612 @@
 [^18-6]: Literally "from without to him". The Hebrew of this line is uncertain. Or "Nothing of his remains in his tent".
 [^18-7]: Literally "on the face of the outside", perhaps "in the streets" or "in the open country".
 [^18-8]: Or "Later generations are appalled at his day, and earlier ones are seized with horror". Literally "those after" and "those before".
+
+## Chapter 19
+
+*Status: draft*
+
+**1** Then Job answered:
+
+**2** "How long will you torment me and crush me with words?
+
+**3** Ten times now you have insulted me; are you not ashamed to wrong me?[^19-1]
+
+**4** Even if it is true that I have gone astray, my error remains my own concern.[^19-2]
+
+**5** If you really want to exalt yourselves over me and use my disgrace as an argument against me,
+
+**6** then know that God[^19-3] has put me in the wrong[^19-4] and closed his net around me.
+
+**7** Look, I cry out, 'Violence!' but I get no answer; I call for help, but there is no justice.
+
+**8** He has walled up my way so that I cannot pass, and he has set darkness on my paths.
+
+**9** He has stripped me of my honor and taken the crown from my head.
+
+**10** He tears me down on every side, and I am gone; he has uprooted my hope like a tree.
+
+**11** He has kindled his anger against me and counts me as one of his enemies.
+
+**12** His troops advance together; they build up a siege ramp against me[^19-5] and camp around my tent.
+
+**13** He has put my brothers far from me; those who know me are wholly estranged from me.
+
+**14** My relatives have failed me; my close friends have forgotten me.
+
+**15** The guests in my house and my female servants count me as a stranger; I have become a foreigner in their eyes.
+
+**16** I call my servant, but he does not answer, though I plead with him with my own mouth.
+
+**17** My breath is repulsive to my wife; I am loathsome to my own brothers.[^19-6]
+
+**18** Even young children despise me; when I get up, they speak against me.
+
+**19** All my intimate friends[^19-7] detest me; those I love have turned against me.
+
+**20** My bones cling to my skin and my flesh; I have escaped by the skin of my teeth.[^19-8]
+
+**21** Have pity on me, have pity on me, you my friends, for the hand of God has struck me!
+
+**22** Why do you pursue me as God does? Will you never have enough of my flesh?[^19-9]
+
+**23** Oh, that my words were written down! Oh, that they were inscribed in a scroll,[^19-10]
+
+**24** with an iron pen and lead, carved in the rock forever!
+
+**25** But I know that my redeemer[^19-11] lives, and that at the last he will rise up upon the earth.[^19-12]
+
+**26** And after my skin has been stripped off like this,[^19-13] yet in my flesh I will see God.[^19-14]
+
+**27** I myself will see him, with my own eyes, I and not a stranger.[^19-15] My heart faints within me![^19-16]
+
+**28** If you say, 'How we will hound him!' and that the root of the trouble is found in me,[^19-17]
+
+**29** be afraid of the sword yourselves, for wrath brings the punishment of the sword,[^19-18] so that you may know there is a judgment."[^19-19]
+
+[^19-1]: Hebrew *tahkeru*, a verb found only here. Its meaning is uncertain: perhaps "wrong", "attack" or "be hard on".
+[^19-2]: Literally "my error lodges with me".
+[^19-3]: Hebrew *Eloah*, a poetic form of *Elohim*, "God", used often in Job. Also in verses 21 and 26.
+[^19-4]: The verb Bildad used in 8:3: "Does God pervert justice?"
+[^19-5]: Literally "they have cast up their way against me".
+[^19-6]: Literally "the sons of my womb", probably the sons of the same mother, his brothers. Job's own children had died (1:19).
+[^19-7]: Literally "the men of my council".
+[^19-8]: The meaning of this phrase is uncertain. It may mean that he has barely escaped with his life, or that nothing is left of him but his gums.
+[^19-9]: To "eat someone's flesh" is an idiom for slandering them (compare Daniel 3:8, in Aramaic).
+[^19-10]: Or "on an inscription". Verse 24 may picture letters cut in the rock and filled with lead.
+[^19-11]: Hebrew *go'el*: the nearest relative, whose duty was to stand up for a family member in need, buying back property or a relative sold into slavery (Leviticus 25:25, 47–49), avenging a killing (Numbers 35:19), and taking up a relative's cause (Proverbs 23:10–11). Here the word may also be rendered "defender" or "vindicator": one who will take up Job's case and clear his name. Job does not say who his *go'el* is. Interpreters have understood God himself, or a heavenly witness or advocate like the ones Job longs for in 9:33 and 16:19–21. Traditionally "my Redeemer".
+[^19-12]: Literally "and last upon the dust he will stand". *At the last* (Hebrew *acharon*) may mean "in the end", "afterward", or "as the last one", the one who has the final word. *Rise up* may be the legal term for a witness standing to testify (Deuteronomy 19:15–16). *The earth* is literally "the dust", which may mean the ground, or the dust of the grave (17:16).
+[^19-13]: The Hebrew of verses 26–27 is very difficult. The first line of verse 26 is literally "and after my skin they have struck off (or "torn") this".
+[^19-14]: Literally "and from my flesh I will see God". *From my flesh* may mean "from within my flesh", still in the body, or "away from my flesh", without the body. So the verse may speak of seeing God in this life, after his disease has done its work, or after death.
+[^19-15]: Or "and not as a stranger", "and not another". *I myself will see him* may also be read "I will see him on my side".
+[^19-16]: Literally "my kidneys fail within my bosom". The kidneys were thought of as the seat of the deepest feelings.
+[^19-17]: Literally "and the root of the matter is found in me". Many interpreters read "in him", as the friends' own words.
+[^19-18]: The Hebrew of this line is uncertain. Literally "for wrath is iniquities of the sword".
+[^19-19]: The Hebrew text is written *shedin*, "that there is judgment", but read *shaddun*, a form of uncertain meaning: perhaps also "that there is a judgment", or a play on *Shaddai*, "the Almighty".
+
+## Chapter 20
+
+*Status: draft*
+
+**1** Then Zophar the Naamathite answered:
+
+**2** "So my troubled thoughts compel me to answer, because of the turmoil within me.[^20-1]
+
+**3** I hear a rebuke that insults me, and a spirit from my understanding answers me.[^20-2]
+
+**4** Do you not know this from of old, ever since humankind was placed on the earth,
+
+**5** that the shout of joy of the wicked is short, and the gladness of the godless lasts only a moment?
+
+**6** Though his pride reaches up to the heavens and his head touches the clouds,
+
+**7** he will perish forever like his own dung; those who saw him will say, 'Where is he?'
+
+**8** He flies away like a dream and cannot be found; he is chased away like a vision of the night.
+
+**9** The eye that saw him will see him no more, and his place will no longer behold him.
+
+**10** His children will seek the favor of the poor,[^20-3] and his own hands will give back his wealth.
+
+**11** His bones are full of youthful vigor, but it will lie down with him in the dust.
+
+**12** Though evil is sweet in his mouth, and he hides it under his tongue,
+
+**13** though he savors it and will not let it go, but holds it in his mouth,
+
+**14** his food turns sour in his stomach; it becomes the venom of cobras within him.[^20-4]
+
+**15** He swallows riches and vomits them up; God makes his belly throw them out.
+
+**16** He will suck the poison of cobras; the tongue of the viper will kill him.
+
+**17** He will not look on the streams, the rivers, the torrents of honey and curds.
+
+**18** He will give back what he toiled for and not swallow it; he will not enjoy the profit of his trading.[^20-5]
+
+**19** For he has crushed and abandoned the poor; he has seized a house that he did not build.
+
+**20** Because his greed knew no rest,[^20-6] he will not escape with anything he desired.
+
+**21** Nothing was left that he did not devour; that is why his prosperity will not last.
+
+**22** In the fullness of his plenty he will be in distress; the full force of misery will come upon him.[^20-7]
+
+**23** When he has filled his belly, God[^20-8] will send his burning anger against him and rain it down on him as his food.[^20-9]
+
+**24** He may flee from an iron weapon, but a bronze arrow[^20-10] will pierce him.
+
+**25** He pulls it out, and it comes out of his back, the glittering point[^20-11] out of his gall; terrors come upon him.
+
+**26** Total darkness lies in wait for his treasures. A fire not fanned by anyone will consume him; it will devour what is left in his tent.
+
+**27** The heavens will reveal his guilt, and the earth will rise up against him.
+
+**28** The produce of his house will be carried off, flowing away on the day of God's anger.[^20-12]
+
+**29** This is the portion of the wicked from God, the inheritance appointed for him by God."[^20-13]
+
+[^20-1]: Literally "because of my haste within me".
+[^20-2]: Or "and my understanding inspires me to answer".
+[^20-3]: Or "The poor will crush his children". The verb *yeratsu* may come from *ratsah*, "seek favor", or *ratsats*, "crush".
+[^20-4]: Literally "the gall of cobras is within him".
+[^20-5]: Literally "according to the wealth of his exchange, and he will not rejoice". The Hebrew of this line is uncertain.
+[^20-6]: Literally "Because he did not know quiet in his belly".
+[^20-7]: Literally "every hand of the wretched will come upon him". Some read *amal*, "misery", for *amel*, "the wretched".
+[^20-8]: Literally "he". God is meant.
+[^20-9]: Hebrew *bilchumo*, a word of uncertain meaning: perhaps "as his food" or "into his flesh".
+[^20-10]: Literally "a bow of bronze".
+[^20-11]: Literally "the lightning", that is, the flashing arrowhead.
+[^20-12]: Literally "his anger". Or "A flood will carry off his house, torrents on the day of his anger".
+[^20-13]: Literally "the inheritance of his word (or decree) from God". The first line has *Elohim*, the second *El*.
+
+## Chapter 21
+
+*Status: draft*
+
+**1** Then Job answered:
+
+**2** "Listen carefully to my words, and let this be the comfort you give me.
+
+**3** Bear with me while I speak, and after I have spoken, mock on.[^21-1]
+
+**4** As for me, is my complaint against a human being? Why should I not be impatient?[^21-2]
+
+**5** Look at me and be appalled; put your hand over your mouth.
+
+**6** When I think about it I am terrified, and trembling seizes my body.
+
+**7** Why do the wicked live on, grow old, and even grow mighty in power?
+
+**8** Their offspring are established in their presence, and their descendants before their eyes.
+
+**9** Their houses are safe from fear, and the rod of God[^21-3] is not upon them.
+
+**10** Their bull breeds without fail; their cow gives birth and does not miscarry.
+
+**11** They send out their little ones like a flock, and their children dance.
+
+**12** They sing to the tambourine and the lyre, and rejoice to the sound of the pipe.
+
+**13** They spend their days in prosperity,[^21-4] and go down to Sheol[^21-5] in an instant.[^21-6]
+
+**14** Yet they say to God, 'Leave us alone! We do not want to know your ways.
+
+**15** Who is the Almighty,[^21-7] that we should serve him? What would we gain if we prayed to him?'
+
+**16** Look, their prosperity is not in their own hands.[^21-8] The counsel of the wicked is far from me.
+
+**17** How often is the lamp of the wicked put out? How often does disaster come upon them? How often does he deal out pains[^21-9] in his anger?
+
+**18** How often are they like straw before the wind, like chaff that the storm carries away?
+
+**19** God stores up his punishment for his children?[^21-10] Let him repay the man himself, so that he knows it!
+
+**20** Let his own eyes[^21-11] see his ruin, and let him drink of the wrath of the Almighty.
+
+**21** For what does he care about his household after him, when the number of his months has been cut off?
+
+**22** Can anyone teach God knowledge, since he judges even those on high?
+
+**23** One person dies in full vigor, completely at ease and secure.
+
+**24** His pails are full of milk,[^21-12] and the marrow of his bones is moist.
+
+**25** Another dies with a bitter soul, never having tasted anything good.
+
+**26** They lie down alike in the dust, and worms cover them both.
+
+**27** Look, I know your thoughts, the schemes by which you would wrong me.
+
+**28** For you say, 'Where is the house of the noble? Where is the tent in which the wicked lived?'
+
+**29** Have you not asked those who travel the roads? Do you not accept their accounts,[^21-13]
+
+**30** that the wicked are spared on the day of disaster, and are rescued on the day of wrath?[^21-14]
+
+**31** Who denounces his way to his face? Who repays him for what he has done?
+
+**32** He is carried to the grave, and watch is kept over his tomb.
+
+**33** The clods of the valley are sweet to him. All humankind follows after him, and those who went before him are without number.
+
+**34** How then can you comfort me with empty words?[^21-15] Nothing is left of your answers but falsehood."
+
+[^21-1]: The Hebrew "you" is singular here, though plural in verse 2.
+[^21-2]: Literally "Why should my spirit not be short?"
+[^21-3]: Hebrew *Eloah*, a poetic form of *Elohim*, "God", used often in Job. Also in verse 19.
+[^21-4]: The Hebrew text is written "they wear out their days" but read "they complete their days".
+[^21-5]: Hebrew *Sheol*, the realm of the dead.
+[^21-6]: That is, quickly, without a long illness. Or "in peace".
+[^21-7]: Hebrew *Shaddai*, traditionally "the Almighty"; the meaning is uncertain. Also in verse 20.
+[^21-8]: Or "Is not their prosperity in their own hands?" The Hebrew of this verse is difficult.
+[^21-9]: Hebrew *chavalim*, "pains", especially of labor. Or "portions", measured out by a cord.
+[^21-10]: Job seems to quote the friends' view (compare 5:4; 20:10). Many translations add "You say". Literally "God stores up his iniquity for his children".
+[^21-11]: The Hebrew text is written "his eye" but read "his eyes".
+[^21-12]: Hebrew *atinav*, a word found only here. Perhaps "his pails" or "his loins"; with different vowels, "full of fat" (*chelev*) instead of "full of milk" (*chalav*).
+[^21-13]: Literally "their signs".
+[^21-14]: Or "that the wicked are kept for the day of disaster, and brought to the day of wrath".
+[^21-15]: Literally "with breath". Hebrew *hevel*.
+
+## Chapter 22
+
+*Status: draft*
+
+**1** Then Eliphaz the Temanite answered:
+
+**2** "Can a man be of use to God? Even a wise man is of use only to himself.
+
+**3** Is it any pleasure to the Almighty[^22-1] if you are righteous? Is it any gain to him if you make your ways blameless?
+
+**4** Is it because of your fear of God[^22-2] that he rebukes you and enters into judgment with you?
+
+**5** Is not your wickedness great? Are not your iniquities endless?
+
+**6** For you took pledges from your brothers for no reason[^22-3] and stripped the naked of their clothing.
+
+**7** You gave no water to the weary to drink, and you withheld bread from the hungry,
+
+**8** while the man with power owned the land, and the man of rank lived in it.[^22-4]
+
+**9** You sent widows away empty-handed, and the arms of orphans were crushed.
+
+**10** That is why snares are all around you, and sudden dread terrifies you,
+
+**11** or darkness, so that you cannot see, and a flood of water covers you.
+
+**12** Is not God[^22-5] in the height of heaven? See the highest stars, how lofty they are!
+
+**13** Yet you say, 'What does God know? Can he judge through thick darkness?
+
+**14** Thick clouds veil him, so that he does not see, as he walks on the vault of heaven.'
+
+**15** Will you keep to the ancient path that wicked men have walked,
+
+**16** who were snatched away before their time, whose foundations were washed away by a river?[^22-6]
+
+**17** They said to God, 'Leave us alone!' and 'What can the Almighty do to us?'[^22-7]
+
+**18** Yet it was he who filled their houses with good things. But the counsel of the wicked is far from me.[^22-8]
+
+**19** The righteous see it and are glad; the innocent mock them:
+
+**20** 'Surely our adversaries[^22-9] are cut off, and fire has consumed what they left.'
+
+**21** Come to terms with him,[^22-10] and be at peace; in this way good will come to you.
+
+**22** Accept instruction from his mouth, and lay up his words in your heart.
+
+**23** If you return to the Almighty, you will be restored.[^22-11] If you remove injustice far from your tents,
+
+**24** if you lay your gold[^22-12] in the dust, the gold of Ophir[^22-13] among the stones of the wadis,
+
+**25** then the Almighty will be your gold and your choicest silver.[^22-14]
+
+**26** For then you will delight in the Almighty and lift up your face to God.
+
+**27** You will pray to him, and he will hear you, and you will fulfill your vows.
+
+**28** You will decide on a matter, and it will be done for you, and light will shine on your ways.
+
+**29** When people are brought low, and you say, 'Lift them up!' he will save the downcast.[^22-15]
+
+**30** He will rescue even someone who is not innocent;[^22-16] he will be rescued through the cleanness of your hands."
+
+[^22-1]: Hebrew *Shaddai*, traditionally "the Almighty"; the meaning is uncertain. Also in verses 17, 23, 25 and 26.
+[^22-2]: Literally "your fear".
+[^22-3]: Hebrew *chinnam*, the word in 1:9 and 2:3.
+[^22-4]: Literally "the man of arm, the land is his, and the lifted of face lives in it". Eliphaz may mean Job himself.
+[^22-5]: Hebrew *Eloah*, a poetic form of *Elohim*, "God", used often in Job. Also in verse 26.
+[^22-6]: Literally "a river was poured out on their foundation". Some see here an allusion to the flood (Genesis 6–8).
+[^22-7]: Literally "to them".
+[^22-8]: Eliphaz repeats Job's words in 21:16.
+[^22-9]: Hebrew *qimanu*, a word found only here, probably "those who rise against us".
+[^22-10]: Hebrew *hasken*, the verb translated "be of use" in verse 2.
+[^22-11]: Literally "you will be built up".
+[^22-12]: Hebrew *betser*, "precious ore". Also in verse 25.
+[^22-13]: A land famous for its fine gold, probably in southern Arabia or East Africa.
+[^22-14]: Literally "silver of heaps (or peaks)". Hebrew *to'afot*, a word of uncertain meaning.
+[^22-15]: The Hebrew of this verse is uncertain. Literally "When they make low, and you say 'Lifting up!', and the lowly of eyes he will save".
+[^22-16]: Hebrew *i-naqi*, "not innocent", a rare form. Some take it as "the innocent".
+
+## Chapter 23
+
+*Status: draft*
+
+**1** Then Job answered:
+
+**2** "Even today my complaint is defiant;[^23-1] the hand on me is heavy in spite of my groaning.[^23-2]
+
+**3** If only I knew where to find him, so that I could come to his dwelling place![^23-3]
+
+**4** I would set out my case before him and fill my mouth with arguments.
+
+**5** I would learn the words he would answer me, and understand what he would say to me.
+
+**6** Would he contend with me with his great power? No, he would surely pay attention to me.[^23-4]
+
+**7** There an upright person could reason with him, and I would escape from my judge forever.[^23-5]
+
+**8** Look, I go forward, and he is not there; backward, and I do not perceive him.[^23-6]
+
+**9** When he is at work on the left, I cannot catch hold of him;[^23-7] he turns aside to the right,[^23-8] and I do not see him.
+
+**10** But he knows the way I take.[^23-9] When he has tested me, I will come out like gold.
+
+**11** My foot has held fast to his steps; I have kept to his way and have not turned aside.
+
+**12** I have not departed from the command of his lips; I have treasured the words of his mouth more than my daily food.[^23-10]
+
+**13** But he is one,[^23-11] and who can turn him back? What he desires, he does.[^23-12]
+
+**14** For he will carry out what he has decreed for me,[^23-13] and he has many such things in mind.[^23-14]
+
+**15** That is why I am terrified in his presence; when I think about it, I am in dread of him.
+
+**16** God has made my heart faint; the Almighty[^23-15] has terrified me.
+
+**17** Yet I have not been silenced by the darkness, by the thick darkness that covers my face.[^23-16]
+
+[^23-1]: Hebrew *meri*, "rebellion, defiance". With a slight change to the Hebrew, "bitter".
+[^23-2]: Literally "my hand is heavy on my groaning". *My hand* may mean the blow that has fallen on me (compare 19:21). Or "I hold down my groaning with a heavy hand". The Greek Septuagint reads "his hand".
+[^23-3]: Hebrew *tekhunah*, "his fixed place": his seat or throne.
+[^23-4]: Literally "No, only he would set (his mind) on me".
+[^23-5]: That is, from his charges against me. Or "I would be acquitted by my judge forever".
+[^23-6]: Or "east … west". The Hebrew words for "forward" and "backward" also mean "east" and "west", and "left" and "right" in verse 9 also mean "north" and "south": Job searches in every direction.
+[^23-7]: Literally "and I do not grasp". Some read "and I do not behold him", with a small change to the Hebrew.
+[^23-8]: Or "he hides himself on the right".
+[^23-9]: Literally "the way with me".
+[^23-10]: Literally "more than my portion". Hebrew *chuqqi*, "what is allotted to me", probably food (compare Proverbs 30:8). The Greek Septuagint reads "in my bosom".
+[^23-11]: Literally "he is in one": he is unique, or unchanging, or of one mind. Some read "he has chosen", with a small change to the Hebrew.
+[^23-12]: Literally "His soul desires, and he does it".
+[^23-13]: Literally "he completes my decree". Hebrew *chuqqi*, the word in verse 12.
+[^23-14]: Literally "and like these, many are with him".
+[^23-15]: Hebrew *Shaddai*, traditionally "the Almighty"; the meaning is uncertain.
+[^23-16]: The Hebrew of this verse is uncertain. Literally "For I have not been silenced (or destroyed) before darkness, and from my face he has covered thick darkness". Or "For I was not cut off before the darkness came, and he did not hide the thick darkness from me".
+
+## Chapter 24
+
+*Status: draft*
+
+**1** "Why are times not stored up by the Almighty?[^24-1] Why do those who know him[^24-2] never see his days?[^24-3]
+
+**2** Some move boundary stones;[^24-4] they seize flocks and pasture them.
+
+**3** They drive away the orphans' donkey; they take the widow's ox as a pledge.[^24-5]
+
+**4** They push the needy off the road; the poor of the land all hide themselves together.
+
+**5** Look, like wild donkeys in the wilderness, they go out to their work, searching for food;[^24-6] the desert gives them bread for their children.[^24-7]
+
+**6** They harvest fodder[^24-8] in the field, and they glean the vineyard of the wicked.
+
+**7** They spend the night naked, without clothing; they have no covering in the cold.
+
+**8** They are drenched by the mountain downpours; with no shelter, they hug the rock.
+
+**9** Some snatch the orphan from the breast,[^24-9] and they take pledges from the poor.[^24-10]
+
+**10** They go about naked, without clothing; hungry, they carry the sheaves.
+
+**11** Between their terraces[^24-11] they press out oil; they tread the winepresses, yet they are thirsty.
+
+**12** From the city men groan,[^24-12] and the wounded[^24-13] cry for help, yet God[^24-14] does not count it as wrong.[^24-15]
+
+**13** These are among those who rebel against the light; they do not know its ways, and they do not stay in its paths.
+
+**14** The murderer rises at daybreak;[^24-16] he kills the poor and the needy, and in the night he is like a thief.
+
+**15** The eye of the adulterer watches for the twilight. He says, 'No eye will see me,' and he puts a covering over his face.
+
+**16** In the dark they break into houses;[^24-17] by day they shut themselves in; they do not know the light.
+
+**17** For to all of them the morning is deep darkness,[^24-18] for they are well acquainted with the terrors of deep darkness.[^24-19]
+
+**18** He is swift on the surface of the waters;[^24-20] their portion in the land is cursed; he does not turn toward the vineyards.[^24-21]
+
+**19** Drought and heat snatch away the snow waters; so does Sheol[^24-22] those who have sinned.
+
+**20** The womb forgets him; the worm feeds on him with relish;[^24-23] he is remembered no more, and wickedness is broken like a tree.
+
+**21** He feeds on[^24-24] the barren woman who bears no child, and does no good to the widow.
+
+**22** Yet by his power he prolongs the life of the mighty;[^24-25] they rise up when they had no hope of living.[^24-26]
+
+**23** He lets them rest secure,[^24-27] and they are supported, and his eyes are on their ways.
+
+**24** They are exalted for a little while, and then they are gone. They are brought low and gathered up like everyone else;[^24-28] they are cut off like the heads of grain.
+
+**25** If it is not so, who can prove me a liar and reduce my words to nothing?"
+
+[^24-1]: Hebrew *Shaddai*, traditionally "the Almighty"; the meaning is uncertain. The *times* are probably times of judgment, when God would call the wicked to account.
+[^24-2]: The Hebrew text is written "and they know" but read "and those who know him".
+[^24-3]: That is, the days when he judges.
+[^24-4]: Literally "They move boundaries". The subject is not stated; the wicked are meant. Boundary stones marked a family's land (Deuteronomy 19:14).
+[^24-5]: A pledge was something taken as security for a debt (compare Deuteronomy 24:17).
+[^24-6]: Literally "seeking early for prey". From here to verse 8, *they* are the poor of verse 4.
+[^24-7]: The Hebrew of this line is uncertain. Literally "the desert, to him, bread for the young ones".
+[^24-8]: Hebrew *belilo*, "his fodder", perhaps the wicked man's. Divided as *beli lo*, "not his": "they reap in a field that is not theirs".
+[^24-9]: Literally "They snatch the orphan from the breast": the wicked, as in verses 2–4.
+[^24-10]: Or "they take the poor man's infant as a pledge", reading *ul*, "infant", for *al*, "on".
+[^24-11]: Hebrew *shurot*, "walls" or "rows": perhaps the terrace walls of olive groves, or rows of olive trees.
+[^24-12]: Or "the dying groan", reading the same Hebrew consonants with different vowels.
+[^24-13]: Literally "the soul of the wounded".
+[^24-14]: Hebrew *Eloah*, a poetic form of *Elohim*, "God", used often in Job.
+[^24-15]: Hebrew *tiflah*, "what is unfitting", the word in 1:22. Or, with different vowels, *tefillah*, "prayer": "yet God does not heed their prayer".
+[^24-16]: Literally "at the light". Some take it to mean "before the light" or "at dusk", or read *lo or*, "when there is no light".
+[^24-17]: Literally "he digs through houses", through their walls of mud brick.
+[^24-18]: Hebrew *tsalmavet*, "deep darkness", traditionally read as "the shadow of death". Also later in the verse.
+[^24-19]: Literally "for he recognizes the terrors of deep darkness".
+[^24-20]: Verses 18–24 describe the swift end of the wicked, as the friends do (compare 18:5–21 and 20:4–29), though Job has just said that God does not call them to account (verses 1 and 12; 21:7–34). Interpreters explain this in different ways: Job is quoting the friends' view in order to reject it (verse 25), or wishing it were true ("Let him be swift …"), or these verses belong to a speech of Bildad or Zophar in this third round of speeches (see the note at 25:1). The Hebrew has no marker, and they are translated here as they stand, as part of Job's speech. The picture in this line is of the wicked man swept away like foam on the water.
+[^24-21]: Literally "he does not turn the way of the vineyards": he will not go out to enjoy them.
+[^24-22]: Hebrew *Sheol*, the realm of the dead.
+[^24-23]: Literally "the worm finds him sweet".
+[^24-24]: Literally "He grazes on", that is, he devours what she has.
+[^24-25]: Literally "he draws out the mighty by his power". *He* is probably God, as in verse 23, though the Hebrew does not say. Or "he drags away the mighty by his power", of the wicked man.
+[^24-26]: Literally "he rises and does not believe in life".
+[^24-27]: Literally "He gives him security".
+[^24-28]: Literally "like all". The Greek Septuagint reads "like mallow (in the heat)", a plant that wilts quickly.
+
+## Chapter 25
+
+*Status: draft*
+
+**1** Then Bildad the Shuhite answered:[^25-1]
+
+**2** "Dominion and dread are his; he makes peace in his high places.[^25-2]
+
+**3** Can his troops be counted?[^25-3] On whom does his light not rise?
+
+**4** How then can a mortal be in the right before God? How can one born of a woman be pure?[^25-4]
+
+**5** Look, even the moon is not bright,[^25-5] and the stars are not pure in his eyes;
+
+**6** how much less a mortal, who is a maggot, and a human being,[^25-6] who is a worm!"
+
+[^25-1]: Bildad's third speech is very short, and Zophar, who spoke after Bildad in the first two rounds of speeches (chapters 11 and 20), has no third speech. Many interpreters think that parts of chapters 24–27 have been moved from their original speakers: some, for example, give 26:5–14 to Bildad and 27:13–23 to Zophar. The text is translated here as it stands.
+[^25-2]: Literally "Ruling and dread are with him". *His high places* are the heavens.
+[^25-3]: Literally "Is there a number to his troops?": probably the stars, or the heavenly beings who serve him.
+[^25-4]: Compare Eliphaz's words in 4:17–19 and 15:14–16.
+[^25-5]: Literally "Look, as far as the moon, and it does not shine". Hebrew *ya'ahil*, a verb found only here, probably "shine".
+[^25-6]: Literally "a son of *adam*", that is, of humankind.
+
+## Chapter 26
+
+*Status: draft*
+
+**1** Then Job answered:
+
+**2** "How you have helped the powerless![^26-1] How you have saved the arm that has no strength!
+
+**3** How you have counseled one who has no wisdom, and what a wealth of sound wisdom[^26-2] you have made known!
+
+**4** With whose help have you uttered these words?[^26-3] Whose breath[^26-4] has come out of you?
+
+**5** The shades of the dead[^26-5] writhe beneath the waters, and so do those who live in them.
+
+**6** Sheol[^26-6] is naked before him, and Abaddon[^26-7] has no covering.
+
+**7** He stretches out the north over empty space[^26-8] and hangs the earth on nothing.
+
+**8** He wraps up the waters in his clouds, and the cloud does not burst under them.
+
+**9** He covers the face of his throne,[^26-9] spreading his cloud over it.
+
+**10** He has marked out a circle on the face of the waters,[^26-10] at the boundary between light and darkness.
+
+**11** The pillars of heaven tremble and are astounded at his rebuke.
+
+**12** By his power he stilled[^26-11] the sea; by his understanding he shattered Rahab.[^26-12]
+
+**13** By his breath[^26-13] the heavens became clear; his hand pierced the fleeing serpent.[^26-14]
+
+**14** Look, these are only the edges of his ways;[^26-15] how faint is the whisper we hear of him![^26-16] But the thunder of his mighty deeds,[^26-17] who can understand?"
+
+[^26-1]: Job is being sarcastic. In verses 2–4, *you* is singular: Job speaks to Bildad.
+[^26-2]: Hebrew *tushiyyah*, "sound wisdom", as in 5:12.
+[^26-3]: Literally "Whom have you told words?": either "To whom" or "With whose help".
+[^26-4]: Or "Whose spirit". Hebrew *neshamah*.
+[^26-5]: Hebrew *repha'im*, the dead in the world below (Psalm 88:11 (English 88:10); Isaiah 14:9). Some interpreters think verses 5–14 belong to Bildad's speech in chapter 25 (see the note at 25:1).
+[^26-6]: Hebrew *Sheol*, the realm of the dead.
+[^26-7]: Hebrew *Abaddon*, "Destruction", a name for the realm of the dead (28:22; 31:12; Proverbs 15:11).
+[^26-8]: Hebrew *tohu*, "emptiness, formlessness", the word in Genesis 1:2. *The north* (Hebrew *tsafon*) may be the northern sky, or the mountain of the gods in the far north (compare Isaiah 14:13).
+[^26-9]: Hebrew *kisseh*, a spelling of *kisse*, "throne". With different vowels, *keseh*, "full moon": "He covers the face of the full moon".
+[^26-10]: Literally "He has circled a limit on the face of the waters". The horizon is pictured as a circle drawn on the waters at the edge of the world (compare Proverbs 8:27).
+[^26-11]: Or "he stirred up". The Hebrew verb *raga* can mean either.
+[^26-12]: A sea monster, a figure of chaos (see 9:13).
+[^26-13]: Or "By his wind". Hebrew *ruach*.
+[^26-14]: Or "the gliding serpent". Isaiah 27:1 uses the same words of Leviathan.
+[^26-15]: The Hebrew text is written "his way" but read "his ways".
+[^26-16]: Literally "how small a whisper of a word is heard of him".
+[^26-17]: The Hebrew text is written "his might" but read "his mighty deeds".
+
+## Chapter 27
+
+*Status: draft*
+
+**1** Job took up his discourse again:[^27-1]
+
+**2** "As God lives, who has denied me justice,[^27-2] and the Almighty,[^27-3] who has made my soul bitter,
+
+**3** as long as my breath is in me, and the breath of God[^27-4] is in my nostrils,
+
+**4** my lips will not speak wickedness, and my tongue will not utter deceit.[^27-5]
+
+**5** Far be it from me to declare that you are right![^27-6] Until I breathe my last, I will not give up my integrity.
+
+**6** I hold fast to my righteousness and will not let it go; my heart does not reproach me for any of my days.
+
+**7** May my enemy be like the wicked, and the one who rises against me like the unjust.
+
+**8** For what hope does the godless have when he is cut off,[^27-7] when God takes away his life?[^27-8]
+
+**9** Will God hear his cry when trouble comes upon him?
+
+**10** Will he take delight in the Almighty? Will he call on God at all times?
+
+**11** I will teach you about the power[^27-9] of God; I will not hide what is with the Almighty.
+
+**12** Look, all of you have seen it yourselves. Why then do you talk such empty nonsense?[^27-10]
+
+**13** This is the portion of a wicked person from God, the inheritance that the ruthless receive from the Almighty:[^27-11]
+
+**14** If his children are many, it is for the sword, and his offspring will not have enough bread.
+
+**15** Those who survive him[^27-12] will be buried by the plague,[^27-13] and his widows will not weep.[^27-14]
+
+**16** Though he heaps up silver like dust and piles up clothing like clay,
+
+**17** he may pile it up, but the righteous will wear it, and the innocent will divide the silver.
+
+**18** He builds his house like a moth,[^27-15] like a hut that a watchman makes.
+
+**19** He lies down rich, but will not do so again;[^27-16] he opens his eyes, and it is gone.[^27-17]
+
+**20** Terrors overtake him like a flood;[^27-18] in the night a storm wind carries him off.
+
+**21** The east wind lifts him up, and he is gone; it sweeps him out of his place.
+
+**22** It hurls itself at him without pity;[^27-19] he flees headlong from its power.
+
+**23** It claps its hands at him and hisses at him from its place.[^27-20]
+
+[^27-1]: Literally "And Job again lifted up his *mashal* and said". Hebrew *mashal* usually means a proverb or a poem; here, a solemn speech. Also in 29:1. This new heading, at the point where Zophar would be expected to speak, is one reason some think the order of this third round of speeches has been disturbed (see the note at 25:1).
+[^27-2]: Literally "who has taken away my justice". Hebrew *mishpat*: justice, the right owed to me in my case. *As God lives* is the form of an oath.
+[^27-3]: Hebrew *Shaddai*, traditionally "the Almighty"; the meaning is uncertain. Also in verses 10, 11 and 13.
+[^27-4]: Hebrew *Eloah*, a poetic form of *Elohim*, "God", used often in Job. Also in verses 8 and 10. *Breath* is Hebrew *ruach*, "breath, spirit".
+[^27-5]: Literally "if my lips speak wickedness, if my tongue utters deceit …", the form of a solemn oath: "may God punish me if I do".
+[^27-6]: Literally "to declare you righteous". Here *you* is plural: Job speaks to the three friends.
+[^27-7]: Hebrew *yivtsa*, "he cuts off" or "he makes gain". Or "however much he has gained".
+[^27-8]: Literally "when God draws out his soul". Hebrew *yeshel*, a rare verb, perhaps "draws out" or "takes away".
+[^27-9]: Literally "the hand".
+[^27-10]: Literally "Why then do you become empty with emptiness?" Hebrew *hevel*, "breath, vapor": what has no substance.
+[^27-11]: Compare Zophar's words in 20:29. Some interpreters think verses 13–23 are Zophar's third speech, which is otherwise missing (see the note at 25:1). Others take them as Job turning his friends' teaching back on them, or as Job's own view of what the wicked deserve. In the Hebrew text they stand within Job's speech.
+[^27-12]: The Hebrew text is written "his survivor" but read "his survivors".
+[^27-13]: Literally "will be buried in death". *Death* here probably means plague (compare Jeremiah 15:2).
+[^27-14]: Perhaps because no proper mourning rites can be held (compare Psalm 78:64).
+[^27-15]: Hebrew *ash*, "moth", perhaps meaning its cocoon. Some interpreters read "spider", as in 8:14.
+[^27-16]: Literally "he will not be gathered". The Greek Septuagint reads "he will not add (to it)", that is, he lies down rich for the last time.
+[^27-17]: Literally "and he is not": either his wealth is gone, or he himself.
+[^27-18]: Literally "like waters".
+[^27-19]: Or "He (God) hurls at him without pity". The subject is not stated.
+[^27-20]: Clapping the hands and hissing were gestures of scorn (Lamentations 2:15). The subject may be the wind, or people who see his fall: "People clap their hands at him and hiss at him from his place".

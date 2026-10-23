@@ -177,7 +177,7 @@
 
 **20** In the morning, at the time when the grain offering is presented,[^3-19] water suddenly came flowing from the direction of Edom, and the land was filled with water.
 
-**21** Now all Moab had heard that the kings had come up to fight against them. So every man old enough to put on a sword belt was called out,[^3-20] and they took their stand at the border.
+**21** Now all Moab had heard that the kings had come up to fight against them. So every man old enough to bear arms was called out,[^3-20] and they took their stand at the border.
 
 **22** When they got up early in the morning, the sun was shining on the water, and the Moabites saw the water across from them, red as blood.[^3-21]
 
@@ -198,7 +198,7 @@
 [^3-5]: Literally "from it".
 [^3-6]: Hebrew *noqed*, the word used of the prophet Amos (Amos 1:1). Mesha's own account of his revolt against Israel survives in a Moabite inscription of the 9th century BC, the Mesha Stele.
 [^3-7]: Literally "on that day".
-[^3-8]: Edom was then ruled by a deputy, not a king of its own line (1 Kings 22:48, 22:47 in most English Bibles).
+[^3-8]: Edom was then ruled by a deputy, not a king of its own line (1 Kings 22:48; 22:47 in most English Bibles).
 [^3-9]: Literally "the animals that were at their feet".
 [^3-10]: Or "servants". Hebrew *avadim* means servants of any rank, including the king's officials.
 [^3-11]: That is, he had been Elijah's personal attendant.
@@ -487,7 +487,7 @@
 [^6-7]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
 [^6-8]: Hebrew *sanverim*, a sudden blinding or confusion of sight. The word is used elsewhere only in Genesis 19:11.
 [^6-9]: That is, prisoners of war were not killed, even those taken in battle.
-[^6-10]: About 2 pounds (0.9 kg) of silver. A shekel was about ⅖ ounce (11.5 grams).
+[^6-10]: Literally "eighty of silver", the unit being understood; also "five of silver" later in the verse. A shekel was about ⅖ ounce (11.5 grams), so eighty shekels was about 2 pounds (0.9 kg).
 [^6-11]: A kab was about 1¼ quarts (1.2 liters), so a quarter of a kab was about a cup (0.3 liter).
 [^6-12]: The Hebrew text is written *chare-yonim*, "dove's dung", but read *divyonim*, a more polite word with the same meaning. It may have been a popular name for some cheap food, such as wild seeds or bulbs.
 [^6-13]: Or "No! Let Yahweh help you. How can I help you?"
@@ -584,7 +584,7 @@
 
 **14** Then Hazael left Elisha and went back to his master, who said to him, "What did Elisha say to you?" He said, "He told me you would certainly recover."
 
-**15** But the next day he took the blanket,[^8-6] dipped it in water and spread it over the king's face, and he died. And Hazael became king in his place.
+**15** But the next day he took the blanket,[^8-6] dipped it in water and spread it over his face, and he died. And Hazael became king in his place.
 
 **16** In the fifth year of Joram[^8-7] son of Ahab king of Israel, when Jehoshaphat was king of Judah,[^8-8] Jehoram son of Jehoshaphat king of Judah became king.
 
@@ -619,7 +619,7 @@
 [^8-3]: Hebrew *saris*, a court official. The word can also mean a eunuch.
 [^8-4]: The Hebrew text is written "Go, say, 'You will not live'", but read "Go, say to him, 'You will certainly live.'" The words "not" and "to him" sound the same in Hebrew (*lo*).
 [^8-5]: Literally "He made his face stand and set it until shame." The Hebrew does not say who stared and who was ashamed. Probably Elisha stared at Hazael.
-[^8-6]: Hebrew *makhber*, a word found only here: a cloth or blanket. The subject of the verb is not named; it is probably Hazael.
+[^8-6]: Hebrew *makhber*, a word found only here: a cloth or blanket. The Hebrew does not name the one who did this. It was probably Hazael, and the one who died Ben-hadad.
 [^8-7]: The king called Jehoram in 1:17 and 3:1. *Joram* is a shorter form of the same name. Also in verses 25, 28 and 29.
 [^8-8]: Literally "and Jehoshaphat king of Judah". These words are missing in some Septuagint manuscripts and in the Syriac.
 [^8-9]: That is, a descendant on the throne to continue his line (1 Kings 11:36; 15:4).
@@ -1204,7 +1204,7 @@
 [^15-5]: Hebrew *qoval-am*, an unusual phrase, probably "in front of the people". Some Septuagint manuscripts read "at Ibleam".
 [^15-6]: See 10:30.
 [^15-7]: Azariah (verse 1; 14:21). *Uzziah* is another form of his name, used in verses 13, 30, 32 and 34, and in 2 Chronicles 26.
-[^15-8]: A city on the Euphrates (1 Kings 5:4, 4:24 in most English Bibles). Some Septuagint manuscripts read "Tappuah", a town near Tirzah.
+[^15-8]: A city on the Euphrates (1 Kings 5:4; 4:24 in most English Bibles). Some Septuagint manuscripts read "Tappuah", a town near Tirzah.
 [^15-9]: Tiglath-pileser III (verse 29), who also ruled Babylon under the name Pulu.
 [^15-10]: A talent was about 75 pounds (34 kg). A thousand talents was about 37 tons (34 metric tons).
 [^15-11]: Literally "so that his hands would be with him".
@@ -1369,7 +1369,7 @@
 [^17-5]: This king is not known by this name from other sources. He may be Osorkon IV of Egypt, or "So" may be the Egyptian city of Sais.
 [^17-6]: In 722 BC.
 [^17-7]: The Habor (Khabur) river flows into the Euphrates in northern Mesopotamia. Gozan was a city on its banks.
-[^17-8]: Literally "feared". In this chapter "fear" means to revere and worship. Also in verses 25, 28 and 32–41.
+[^17-8]: Literally "feared". In this chapter "fear" means to revere and worship. Also in verses 25, 28, 32–39 and 41.
 [^17-9]: Literally "decrees". Also in verse 19.
 [^17-10]: Literally "and of the kings of Israel, which they made". The Hebrew is awkward.
 [^17-11]: The meaning of the Hebrew verb, found only here, is uncertain: perhaps "did secretly" or "spoke".
@@ -1955,3 +1955,90 @@
 [^24-14]: Mattaniah was a son of Josiah (1 Chronicles 3:15; Jeremiah 1:3), Jehoiachin's father's brother. 2 Chronicles 36:10 calls him Jehoiachin's brother.
 [^24-15]: 24:18–25:30 is also found, with small differences, in Jeremiah 52. Parts of it are also told in Jeremiah 39:1–10 and 40:7–41:18.
 [^24-16]: The Hebrew text is written "Hamital" but read "Hamutal".
+
+## Chapter 25
+
+*Status: draft*
+
+**1** So in the ninth year of his reign, in the tenth month, on the tenth day of the month,[^25-1] Nebuchadnezzar king of Babylon came against Jerusalem with his whole army. He camped against it, and they built siege works all around it.
+
+**2** The city was under siege until the eleventh year of King Zedekiah.
+
+**3** On the ninth day of the month[^25-2] the famine in the city was so severe that there was no food for the people of the land.
+
+**4** Then the city wall was broken through, and all the soldiers fled[^25-3] by night by way of the gate between the two walls, near the king's garden, though the Babylonians[^25-4] were all around the city. The king[^25-5] went off in the direction of the Arabah.[^25-6]
+
+**5** But the Babylonian army pursued the king and overtook him in the plains of Jericho, and all his army was scattered from him.
+
+**6** They captured the king and brought him up to the king of Babylon at Riblah, and they passed sentence on him.
+
+**7** They slaughtered Zedekiah's sons before his eyes. Then the king of Babylon put out Zedekiah's eyes, bound him in bronze shackles and brought him to Babylon.
+
+**8** In the fifth month, on the seventh day of the month,[^25-7] which was the nineteenth year of King Nebuchadnezzar king of Babylon, Nebuzaradan the commander of the guard,[^25-8] an officer[^25-9] of the king of Babylon, came to Jerusalem.
+
+**9** He burned the house of Yahweh,[^25-10] the king's palace and all the houses of Jerusalem. Every great house he burned with fire.
+
+**10** The whole Babylonian army that was with the commander of the guard tore down the walls around Jerusalem.
+
+**11** Nebuzaradan the commander of the guard deported the rest of the people who were left in the city, the deserters who had gone over to the king of Babylon, and the rest of the population.
+
+**12** But the commander of the guard left some of the poorest people of the land to work the vineyards and the fields.
+
+**13** The Babylonians broke up the bronze pillars that were in the house of Yahweh, and the stands and the bronze Sea that were in the house of Yahweh, and they carried the bronze to Babylon.
+
+**14** They also took away the pots, the shovels, the wick trimmers, the dishes and all the bronze articles used in the temple service.
+
+**15** The commander of the guard took away the firepans and the sprinkling bowls, whatever was made of gold and whatever was made of silver.
+
+**16** As for the two pillars, the one Sea and the stands that Solomon had made for the house of Yahweh, the bronze of all these articles was beyond weighing.
+
+**17** Each pillar was eighteen cubits[^25-11] high, and the bronze capital on top of it was three cubits high,[^25-12] with a network and pomegranates all around the capital, all of bronze. The second pillar, with its network, was the same.
+
+**18** The commander of the guard took Seraiah the chief priest, Zephaniah the second priest and the three doorkeepers.[^25-13]
+
+**19** From the city he took an official who was in charge of the soldiers, and five of the king's advisers[^25-14] who were found in the city, the secretary of the commander of the army,[^25-15] who mustered the people of the land, and sixty men of the people of the land who were found in the city.
+
+**20** Nebuzaradan the commander of the guard took them and brought them to the king of Babylon at Riblah.
+
+**21** The king of Babylon struck them down and put them to death at Riblah in the land of Hamath. So Judah went into exile from its land.
+
+**22** As for the people who were left in the land of Judah, whom Nebuchadnezzar king of Babylon had left, he appointed Gedaliah son of Ahikam son of Shaphan over them.[^25-16]
+
+**23** When all the commanders of the armed forces and their men heard that the king of Babylon had appointed Gedaliah, they came to Gedaliah at Mizpah: Ishmael son of Nethaniah, Johanan son of Kareah, Seraiah son of Tanhumeth the Netophathite, and Jaazaniah son of the Maacathite, they and their men.
+
+**24** Gedaliah swore an oath to them and their men, and he said to them, "Do not be afraid of the Babylonian officials.[^25-17] Live in the land and serve the king of Babylon, and it will go well with you."
+
+**25** But in the seventh month, Ishmael son of Nethaniah son of Elishama, who was of royal descent, came with ten men, and they struck down Gedaliah, and he died. They also struck down the people of Judah[^25-18] and the Babylonians who were with him at Mizpah.
+
+**26** Then all the people, from the least to the greatest, and the commanders of the armed forces set out and went to Egypt, for they were afraid of the Babylonians.
+
+**27** In the thirty-seventh year of the exile of Jehoiachin king of Judah, in the twelfth month, on the twenty-seventh day of the month,[^25-19] Evil-merodach[^25-20] king of Babylon, in the year he became king, released Jehoiachin king of Judah from prison.[^25-21]
+
+**28** He spoke kindly to him and gave him a seat above the seats of the other kings who were with him in Babylon.
+
+**29** So Jehoiachin took off his prison clothes, and for the rest of his life he regularly ate at the king's table.
+
+**30** As for his allowance, a regular allowance was given him by the king, a portion for each day, for as long as he lived.[^25-22]
+
+[^25-1]: In January 588 BC. 25:1–12 is also told in Jeremiah 39:1–10, and 24:18–25:30 in Jeremiah 52.
+[^25-2]: Jeremiah 52:6 reads "In the fourth month, on the ninth day of the month".
+[^25-3]: The Hebrew has no verb here. "Fled" is supplied from Jeremiah 52:7, which reads "all the soldiers fled and went out of the city by night".
+[^25-4]: Hebrew *Kasdim*, traditionally "Chaldeans": the people of southern Mesopotamia whose kings then ruled Babylon. Also in verses 5, 10, 13 and 24–26.
+[^25-5]: Literally "he". Jeremiah 52:7 reads "they".
+[^25-6]: The Jordan Valley.
+[^25-7]: In the summer of 587 or 586 BC. Jeremiah 52:12 reads "on the tenth day of the month".
+[^25-8]: Hebrew *rav-tabbachim*, literally "chief of the butchers" or "chief of the cooks", a title of the commander of the royal bodyguard. Also in verses 10–12, 15, 18 and 20.
+[^25-9]: Literally "servant".
+[^25-10]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles. "The house of Yahweh" is the temple.
+[^25-11]: A cubit was about 18 inches (45 cm). Eighteen cubits was about 27 feet (8.1 meters).
+[^25-12]: About 4½ feet (1.4 meters). Jeremiah 52:22 and 1 Kings 7:16 read "five cubits".
+[^25-13]: Literally "the keepers of the threshold".
+[^25-14]: Literally "of those who saw the king's face". Jeremiah 52:25 reads "seven".
+[^25-15]: Or "the secretary, the commander of the army".
+[^25-16]: The fuller account is in Jeremiah 40:7–41:18.
+[^25-17]: Literally "the servants of the Babylonians". Jeremiah 40:9 reads "Do not be afraid to serve the Babylonians."
+[^25-18]: Hebrew *ha-yehudim*, "the Judeans": see 16:6.
+[^25-19]: In 561 BC. Jeremiah 52:31 reads "on the twenty-fifth day of the month".
+[^25-20]: Amel-Marduk, son of Nebuchadnezzar, king of Babylon from 562 to 560 BC.
+[^25-21]: Literally "lifted up the head of Jehoiachin king of Judah from the prison house", that is, showed him favor (compare Genesis 40:13, 20).
+[^25-22]: Literally "all the days of his life". Jeremiah 52:34 reads "until the day of his death, all the days of his life".

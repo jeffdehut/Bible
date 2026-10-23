@@ -730,3 +730,116 @@
 [^9-14]: Literally "from mouth to mouth".
 [^9-15]: Verses 11–12 are not a quotation of a single passage, but they draw on Leviticus 18:24–30, Deuteronomy 7:1–3 and 23:7 (English 23:6).
 [^9-16]: Literally "you have held back below our iniquities".
+
+## Chapter 10
+
+*Status: draft*
+
+**1** While Ezra was praying and making confession, weeping and throwing himself down before the house of God, a very large assembly of men, women and children from Israel gathered around him, and the people wept bitterly.
+
+**2** Shecaniah son of Jehiel, of the descendants of Elam,[^10-1] spoke up and said to Ezra, "We have been unfaithful to our God and have married foreign women from the peoples of the land.[^10-2] But even now there is hope for Israel in spite of this.
+
+**3** So now let us make a covenant with our God to send away all these wives and their children, according to the advice of my lord[^10-3] and of those who tremble at the command of our God. Let it be done according to the Law.
+
+**4** Get up, for this matter is your responsibility, and we are with you. Be strong and do it."
+
+**5** So Ezra got up and made the leading priests, the Levites and all Israel swear that they would do as had been said. And they swore.
+
+**6** Then Ezra left the place in front of the house of God and went to the chamber of Jehohanan son of Eliashib. When he went there,[^10-4] he ate no bread and drank no water, because he was mourning over the unfaithfulness of the exiles.
+
+**7** A proclamation was made throughout Judah and Jerusalem to all the returned exiles to assemble at Jerusalem.
+
+**8** Anyone who did not come within three days, by the decision of the leaders and the elders, would have all his property forfeited,[^10-5] and he himself would be excluded from the assembly of the exiles.
+
+**9** So all the men of Judah and Benjamin assembled at Jerusalem within the three days. It was the ninth month, on the twentieth day of the month.[^10-6] All the people sat in the square in front of the house of God, trembling because of this matter and because of the heavy rain.
+
+**10** Then Ezra the priest stood up and said to them, "You have been unfaithful and have married foreign women, adding to the guilt of Israel.
+
+**11** Now make confession[^10-7] to Yahweh,[^10-8] the God of your ancestors, and do his will. Separate yourselves from the peoples of the land and from the foreign women."
+
+**12** Then the whole assembly answered with a loud voice, "Yes! It is our duty to do according to your word.[^10-9]
+
+**13** But the people are many, and it is the rainy season. We do not have the strength to stand outside. Nor is this a task for one day or two, for we have greatly rebelled in this matter.
+
+**14** Let our leaders act for the whole assembly. Let everyone in our towns who has married foreign women come at appointed times, and with them the elders and the judges of each town, until the burning anger of our God over this matter is turned away from us."
+
+**15** Only Jonathan son of Asahel and Jahzeiah son of Tikvah opposed this,[^10-10] and Meshullam and Shabbethai the Levite supported them.
+
+**16** So the returned exiles did so. Ezra the priest and men who were heads of ancestral families, according to their ancestral families, were set apart, all of them by name.[^10-11] On the first day of the tenth month they sat down to examine the matter.
+
+**17** By the first day of the first month they had finished with all the men who had married foreign women.
+
+**18** Among the descendants of the priests, these were found who had married foreign women: from the descendants of Jeshua son of Jozadak and his brothers: Maaseiah, Eliezer, Jarib and Gedaliah.
+
+**19** They pledged themselves[^10-12] to send away their wives, and being guilty, they offered a ram from the flock for their guilt.[^10-13]
+
+**20** From the descendants of Immer: Hanani and Zebadiah.
+
+**21** From the descendants of Harim: Maaseiah, Elijah, Shemaiah, Jehiel and Uzziah.
+
+**22** From the descendants of Pashhur: Elioenai, Maaseiah, Ishmael, Nethanel, Jozabad and Elasah.
+
+**23** From the Levites: Jozabad, Shimei, Kelaiah (that is, Kelita), Pethahiah, Judah and Eliezer.
+
+**24** From the singers: Eliashib. From the gatekeepers: Shallum, Telem and Uri.
+
+**25** And from Israel:[^10-14] from the descendants of Parosh: Ramiah, Izziah, Malchijah, Mijamin, Eleazar, Malchijah and Benaiah.
+
+**26** From the descendants of Elam: Mattaniah, Zechariah, Jehiel, Abdi, Jeremoth and Elijah.
+
+**27** From the descendants of Zattu: Elioenai, Eliashib, Mattaniah, Jeremoth, Zabad and Aziza.
+
+**28** From the descendants of Bebai: Jehohanan, Hananiah, Zabbai and Athlai.
+
+**29** From the descendants of Bani: Meshullam, Malluch, Adaiah, Jashub, Sheal and Ramoth.[^10-15]
+
+**30** From the descendants of Pahath-moab: Adna, Chelal, Benaiah, Maaseiah, Mattaniah, Bezalel, Binnui and Manasseh.
+
+**31** From the descendants of Harim: Eliezer, Isshijah, Malchijah, Shemaiah, Shimeon,
+
+**32** Benjamin, Malluch and Shemariah.
+
+**33** From the descendants of Hashum: Mattenai, Mattattah, Zabad, Eliphelet, Jeremai, Manasseh and Shimei.
+
+**34** From the descendants of Bani:[^10-16] Maadai, Amram, Uel,
+
+**35** Benaiah, Bedeiah, Cheluhu,[^10-17]
+
+**36** Vaniah, Meremoth, Eliashib,
+
+**37** Mattaniah, Mattenai, Jaasai,[^10-18]
+
+**38** Bani, Binnui, Shimei,
+
+**39** Shelemiah, Nathan, Adaiah,
+
+**40** Machnadebai, Shashai, Sharai,
+
+**41** Azarel, Shelemiah, Shemariah,
+
+**42** Shallum, Amariah and Joseph.
+
+**43** From the descendants of Nebo: Jeiel, Mattithiah, Zabad, Zebina, Jaddai,[^10-19] Joel and Benaiah.
+
+**44** All these had married foreign women, and some of them had wives by whom they had children.[^10-20]
+
+[^10-1]: The Hebrew text is written "Olam" but read "Elam".
+[^10-2]: Literally "we have settled foreign women", that is, taken them into our homes as wives. Also in verses 10, 14, 17 and 18.
+[^10-3]: The Hebrew vowel points read "the Lord", meaning God. The same consonants can be read "my lord", meaning Ezra, which fits the rest of the verse better.
+[^10-4]: The parallel in 1 Esdras 9:2, in the Septuagint, reads "he spent the night there".
+[^10-5]: Hebrew *charam*, "devote": to give something up wholly to God, so that it is lost to its owner.
+[^10-6]: The ninth month, Kislev, around November–December, in the rainy season.
+[^10-7]: Or "give praise". Hebrew *todah* can mean either.
+[^10-8]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^10-9]: The Hebrew text is written "your words" but read "your word".
+[^10-10]: Or "were put in charge of this". Literally "stood over this".
+[^10-11]: Or "Ezra the priest selected men who were heads of ancestral families". Literally "And they were set apart, Ezra the priest, men, heads of the fathers, by their fathers' house, and all of them by names".
+[^10-12]: Literally "They gave their hand".
+[^10-13]: Literally "and guilty, a ram of the flock for their guilt". Compare the guilt offering in Leviticus 5:14–19.
+[^10-14]: That is, from the people who were not priests or Levites. All the families named in verses 25–43 are among those who returned in chapter 2 (2:3–35).
+[^10-15]: The Hebrew text is written "Jeremoth" but read "and Ramoth".
+[^10-16]: A second family of this name; compare verse 29.
+[^10-17]: The Hebrew text is written "Cheluhi" but read "Cheluhu".
+[^10-18]: The Hebrew text is written "Jaasu" but read "Jaasai".
+[^10-19]: The Hebrew text is written "Jaddu" but read "Jaddai".
+[^10-20]: The Hebrew is difficult. Literally "and there were from them wives, and they had set sons". The parallel in 1 Esdras 9:36 reads "and they sent them away with their children".

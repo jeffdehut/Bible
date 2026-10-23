@@ -1668,3 +1668,232 @@
 [^16-26]: Hebrew *bamah*, a place of worship, often on a hill.
 [^16-27]: Or "instruments for sacred song".
 [^16-28]: Compare 2 Samuel 6:19–20.
+
+## Chapter 17
+
+*Status: draft*
+
+**1** When David was settled in his house,[^17-1] David said to Nathan the prophet, "Look, I am living in a house of cedar, while the ark of the covenant of Yahweh[^17-2] is under curtains."[^17-3]
+
+**2** Nathan said to David, "Do all that is in your heart, for God is with you."
+
+**3** But that same night the word of God came to Nathan:
+
+**4** "Go and tell my servant David, 'This is what Yahweh says: You are not the one who will build me the house to live in.[^17-4]
+
+**5** For I have not lived in a house from the day I brought Israel up to this day. I have gone from tent to tent and from one tabernacle to another.[^17-5]
+
+**6** Wherever I have moved about among all Israel, did I ever say a word to any of the judges[^17-6] of Israel whom I commanded to shepherd my people, "Why have you not built me a house of cedar?"'
+
+**7** Now this is what you are to say to my servant David: 'This is what Yahweh of Armies[^17-7] says: I took you from the pasture, from following the sheep, to be ruler[^17-8] over my people Israel.
+
+**8** I have been with you wherever you have gone, and I have cut off all your enemies from before you. I will make a name for you[^17-9] like the names of the great ones on the earth.
+
+**9** I will appoint a place for my people Israel, and I will plant them so that they may live in their own place and be disturbed no more. Wicked people[^17-10] will not wear them down any more, as they did at the beginning,
+
+**10** from the days when I appointed judges over my people Israel. I will subdue all your enemies. And I declare to you that Yahweh will build a house for you.[^17-11]
+
+**11** When your days are complete and you go to be with your ancestors, I will raise up your offspring[^17-12] after you, one of your own sons, and I will establish his kingdom.
+
+**12** He will build a house for me, and I will establish his throne forever.
+
+**13** I will be his father, and he will be my son.[^17-13] I will not take my faithful love[^17-14] away from him, as I took it away from the one who was before you.[^17-15]
+
+**14** I will establish him in my house and in my kingdom forever, and his throne will be established forever.'"[^17-16]
+
+**15** Nathan spoke to David in accordance with all these words and all this vision.
+
+**16** Then King David went in and sat before Yahweh and said, "Who am I, Yahweh God, and what is my house, that you have brought me this far?
+
+**17** And yet this was too small a thing in your eyes, God. You have also spoken about your servant's house for a long time to come. You have looked on me as a man of high rank,[^17-17] Yahweh God.
+
+**18** What more can David say to you about the honor you have given your servant? You know your servant.
+
+**19** Yahweh, for the sake of your servant,[^17-18] and as your heart desired, you have done all this great thing, to make known all these great things.
+
+**20** Yahweh, there is no one like you, and there is no God besides you, by all that we have heard with our ears.
+
+**21** And who is like your people Israel, the one nation on earth that God went to redeem as a people for himself, to make a name for yourself by great and awesome things, by driving out nations from before your people whom you redeemed from Egypt?
+
+**22** You made your people Israel your own people forever, and you, Yahweh, became their God.
+
+**23** Now, Yahweh, let the word you have spoken concerning your servant and his house be confirmed forever, and do as you have said.
+
+**24** Let it be confirmed, and let your name be great forever, so that people will say, 'Yahweh of Armies, the God of Israel, is God to Israel.' And the house of your servant David will be established before you.
+
+**25** For you, my God, have revealed to your servant[^17-19] that you will build a house for him. That is why your servant has found the courage[^17-20] to pray before you.
+
+**26** Now, Yahweh, you are God, and you have promised this good thing to your servant.
+
+**27** Now you have been pleased to bless the house of your servant, so that it may continue forever before you. For you, Yahweh, have blessed it, and it will be blessed forever."
+
+[^17-1]: Chapter 17 parallels 2 Samuel 7.
+[^17-2]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^17-3]: Hebrew *yeri'ot*, the curtains of a tent. 2 Samuel 7:2 has "inside a tent".
+[^17-4]: 2 Samuel 7:5 reads "Are you the one to build me a house to live in?"
+[^17-5]: Literally "and from tabernacle"; the Hebrew seems to be shortened. 2 Samuel 7:6 reads "I have been moving about in a tent and a tabernacle."
+[^17-6]: Hebrew *shophtei*, "judges of". 2 Samuel 7:7 has *shivtei*, "tribes of".
+[^17-7]: Hebrew *YHWH tseva'ot*, traditionally "the LORD of hosts" or "the LORD Almighty". *Tseva'ot* means armies: the heavenly hosts and the armies of Israel. Also in verse 24.
+[^17-8]: Hebrew *nagid*, a leader or ruler designated by God.
+[^17-9]: Or "I have made a name for you". The verbs from here to verse 10 can be read as past or future.
+[^17-10]: Literally "sons of injustice".
+[^17-11]: That is, a dynasty, a line of kings from David's descendants. David had wanted to build a "house", a temple, for Yahweh (verse 4).
+[^17-12]: Literally "your seed".
+[^17-13]: Literally "I will be to him a father, and he will be to me a son." 2 Samuel 7:14 adds "When he does wrong, I will discipline him with the rod that men use, with blows inflicted by human beings."
+[^17-14]: Hebrew *chesed*: loyal, faithful love.
+[^17-15]: 2 Samuel 7:15 names him: "as I took it away from Saul, whom I removed from before you".
+[^17-16]: 2 Samuel 7:16 reads "Your house and your kingdom will stand firm forever before you. Your throne will be established forever."
+[^17-17]: The Hebrew is difficult. Literally "and you have seen me like the manner of the man of the going up". The parallel in 2 Samuel 7:19 is also difficult: "And this is instruction for humankind".
+[^17-18]: 2 Samuel 7:21 has "your word".
+[^17-19]: Literally "uncovered the ear of your servant".
+[^17-20]: Literally "has found to pray". 2 Samuel 7:27 has "has found his heart to pray".
+
+## Chapter 18
+
+*Status: draft*
+
+**1** After this, David defeated the Philistines and subdued them, and he took Gath and its towns[^18-1] out of the hand of the Philistines.
+
+**2** He also defeated Moab, and the Moabites became subject[^18-2] to David and brought him tribute.[^18-3]
+
+**3** David also defeated Hadadezer king of Zobah, near Hamath, when he went to set up his control[^18-4] at the River Euphrates.
+
+**4** David captured from him a thousand chariots, seven thousand horsemen and twenty thousand foot soldiers.[^18-5] David hamstrung all the chariot horses, but he kept back a hundred of them for chariots.
+
+**5** When the Arameans of Damascus came to help Hadadezer king of Zobah, David struck down twenty-two thousand of the Arameans.
+
+**6** Then David put garrisons[^18-6] in Aram of Damascus, and the Arameans became subject to David and brought him tribute. Yahweh[^18-7] gave David victory wherever he went.
+
+**7** David took the gold shields[^18-8] that belonged to the officers of Hadadezer and brought them to Jerusalem.
+
+**8** And from Tibhath and Cun, towns of Hadadezer, David took a very large amount of bronze. With it Solomon made the bronze Sea,[^18-9] the pillars and the bronze utensils.
+
+**9** When Tou[^18-10] king of Hamath heard that David had defeated the whole army of Hadadezer king of Zobah,
+
+**10** he sent his son Hadoram[^18-11] to King David to greet him[^18-12] and to congratulate him because he had fought against Hadadezer and defeated him, for Hadadezer had often been at war with Tou.[^18-13] He also sent all kinds of articles of gold, silver and bronze.
+
+**11** King David dedicated these also to Yahweh, along with the silver and gold that he had carried off from all the nations: from Edom, from Moab, from the Ammonites, from the Philistines and from Amalek.
+
+**12** Abishai son of Zeruiah struck down eighteen thousand Edomites in the Valley of Salt.[^18-14]
+
+**13** He put garrisons in Edom, and all the Edomites became subject to David. Yahweh gave David victory wherever he went.
+
+**14** David reigned over all Israel, and he did what was just and right[^18-15] for all his people.
+
+**15** Joab son of Zeruiah was over the army. Jehoshaphat son of Ahilud was recorder.[^18-16]
+
+**16** Zadok son of Ahitub and Abimelech[^18-17] son of Abiathar were priests. Shavsha was secretary.[^18-18]
+
+**17** Benaiah son of Jehoiada was over the Cherethites and the Pelethites.[^18-19] And David's sons were the chief officials at the king's side.[^18-20]
+
+[^18-1]: Literally "daughters", the smaller settlements around a town. Chapter 18 parallels 2 Samuel 8, which has "Metheg-ammah" here.
+[^18-2]: Literally "became servants". Also in verses 6 and 13.
+[^18-3]: 2 Samuel 8:2 also says that David put two-thirds of the Moabites to death.
+[^18-4]: Literally "his hand", perhaps meaning a monument marking his rule. It is not clear whether "he" is David or Hadadezer.
+[^18-5]: 2 Samuel 8:4 has "1,700 horsemen and 20,000 foot soldiers".
+[^18-6]: Or "governors". The Hebrew lacks the word here; it is supplied from 2 Samuel 8:6. Hebrew *netsivim* is used in verse 13.
+[^18-7]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^18-8]: Hebrew *shiltei*, a word of uncertain meaning: shields, or perhaps quivers.
+[^18-9]: The great bronze basin in the courtyard of the temple (1 Kings 7:23–26). 2 Samuel 8:8 has "Betah and Berothai" for Tibhath and Cun, and does not mention Solomon.
+[^18-10]: 2 Samuel 8:9 has Toi.
+[^18-11]: 2 Samuel 8:10 has Joram.
+[^18-12]: Literally "to ask him about his well-being".
+[^18-13]: Literally "for Hadadezer was a man of wars of Tou".
+[^18-14]: 2 Samuel 8:13 reads "David made a name for himself when he returned from striking down Aram in the Valley of Salt, eighteen thousand of them."
+[^18-15]: Literally "was doing justice and righteousness".
+[^18-16]: Hebrew *mazkir*, "one who causes to remember": a high official, perhaps the king's herald or keeper of records.
+[^18-17]: 2 Samuel 8:17 has Ahimelech. Elsewhere Abiathar is the son of Ahimelech (1 Samuel 22:20).
+[^18-18]: Hebrew *sopher*, "scribe", the royal secretary. 2 Samuel 8:17 has Seraiah, and 2 Samuel 20:25 has Sheva.
+[^18-19]: Foreign soldiers who served as David's personal guard. The Cherethites were probably from Crete, and the Pelethites may have been Philistines.
+[^18-20]: Literally "the first at the hand of the king". 2 Samuel 8:18 reads "And David's sons were priests."
+
+## Chapter 19
+
+*Status: draft*
+
+**1** After this, Nahash king of the Ammonites died,[^19-1] and his son became king in his place.
+
+**2** David said, "I will show faithful love[^19-2] to Hanun son of Nahash, because his father showed faithful love to me." So David sent messengers to console him about his father. When David's servants came to the land of the Ammonites, to Hanun, to console him,
+
+**3** the Ammonite commanders said to Hanun, "Do you think David is honoring your father because he has sent you comforters? Isn't it to explore, to overthrow and to spy out the land that his servants have come to you?"
+
+**4** So Hanun took David's servants, shaved them,[^19-3] cut off their garments in the middle, as far as their buttocks, and sent them away.
+
+**5** Some people went and told David about the men, and he sent people to meet them, for the men were deeply humiliated. The king said, "Stay in Jericho until your beards have grown, and then come back."
+
+**6** When the Ammonites saw that they had made themselves a stench to David,[^19-4] Hanun and the Ammonites sent a thousand talents[^19-5] of silver to hire chariots and horsemen from Aram-naharaim,[^19-6] from Aram-maacah and from Zobah.
+
+**7** They hired thirty-two thousand chariots, and the king of Maacah with his army, who came and camped before Medeba.[^19-7] The Ammonites gathered from their towns and came out to battle.
+
+**8** When David heard of it, he sent Joab with the whole army of warriors.[^19-8]
+
+**9** The Ammonites came out and drew up in battle formation at the entrance of the city, while the kings who had come were by themselves in the open country.
+
+**10** When Joab saw that the battle was set against him both in front and behind, he chose some of the best men of Israel and drew them up against the Arameans.
+
+**11** The rest of the troops he put under the command of his brother Abishai, and they drew up against the Ammonites.
+
+**12** He said, "If the Arameans are too strong for me, then you are to come and rescue me. But if the Ammonites are too strong for you, I will rescue you.
+
+**13** Be strong, and let us show ourselves strong for the sake of our people and for the cities of our God. And may Yahweh[^19-9] do what seems good to him."
+
+**14** So Joab and the troops who were with him advanced to fight against the Arameans, and they fled before him.
+
+**15** When the Ammonites saw that the Arameans had fled, they too fled before his brother Abishai and went into the city. Then Joab came to Jerusalem.
+
+**16** When the Arameans saw that they had been defeated by Israel, they sent messengers and brought out the Arameans who were beyond the River,[^19-10] with Shophach[^19-11] the commander of Hadadezer's army at their head.
+
+**17** When David was told, he gathered all Israel, crossed the Jordan, came to them and drew up in battle formation against them.[^19-12] David drew up in battle formation to meet the Arameans, and they fought with him.
+
+**18** But the Arameans fled before Israel, and David killed seven thousand of the Aramean charioteers[^19-13] and forty thousand foot soldiers. He also put to death Shophach the commander of the army.
+
+**19** When Hadadezer's servants[^19-14] saw that they had been defeated by Israel, they made peace with David and became subject to him. So the Arameans were no longer willing to help the Ammonites.
+
+[^19-1]: Chapter 19 parallels 2 Samuel 10.
+[^19-2]: Hebrew *chesed*: loyal, faithful love, here the loyalty owed between allies.
+[^19-3]: 2 Samuel 10:4 reads "shaved off half of each man's beard".
+[^19-4]: That is, they had made David their bitter enemy.
+[^19-5]: A talent was about 75 pounds (34 kg), so a thousand talents was about 37 tons (34 metric tons).
+[^19-6]: That is, "Aram of the two rivers", in northern Mesopotamia.
+[^19-7]: 2 Samuel 10:6 says instead that the Ammonites hired twenty thousand foot soldiers from Beth-rehob and Zobah, the king of Maacah with a thousand men, and twelve thousand men of Tob.
+[^19-8]: Literally "all the army, the mighty men".
+[^19-9]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^19-10]: That is, the Euphrates.
+[^19-11]: 2 Samuel 10:16 has Shobach.
+[^19-12]: 2 Samuel 10:17 reads "and came to Helam".
+[^19-13]: Literally "seven thousand chariots", meaning the men in them. 2 Samuel 10:18 has "seven hundred" charioteers and "forty thousand horsemen".
+[^19-14]: 2 Samuel 10:19 has "all the kings who were subject to Hadadezer".
+
+## Chapter 20
+
+*Status: draft*
+
+**1** In the spring of the year,[^20-1] at the time when kings go out to battle, Joab led out the army and ravaged the land of the Ammonites. He came and besieged Rabbah, while David stayed in Jerusalem. Joab struck Rabbah and overthrew it.[^20-2]
+
+**2** David took the crown of their king[^20-3] from his head. He found that it weighed a talent[^20-4] of gold, and it held a precious stone. It was placed on David's head. He also brought out a very large amount of plunder from the city.
+
+**3** He brought out the people who were in it and cut them with saws,[^20-5] with iron picks and with saws.[^20-6] David did the same to all the towns of the Ammonites. Then David and all the troops returned to Jerusalem.
+
+**4** After this, war broke out with the Philistines at Gezer.[^20-7] At that time Sibbecai the Hushathite struck down Sippai,[^20-8] one of the descendants of the Rephaim,[^20-9] and they were subdued.
+
+**5** There was another battle with the Philistines, and Elhanan son of Jair[^20-10] struck down Lahmi the brother of Goliath the Gittite,[^20-11] the shaft of whose spear was like a weaver's beam.[^20-12]
+
+**6** There was yet another battle, at Gath, where there was a man of great size whose fingers and toes numbered six and six, twenty-four in all.[^20-13] He too was descended from the Raphah.
+
+**7** When he taunted Israel, Jonathan son of Shimea, David's brother, struck him down.
+
+**8** These were descended from the Raphah in Gath, and they fell by the hand of David and by the hand of his servants.
+
+[^20-1]: Literally "at the time of the return of the year". Verse 1 parallels 2 Samuel 11:1, and verses 2–3 parallel 2 Samuel 12:30–31. In between, 2 Samuel tells of David, Bathsheba and Uriah, and in 12:26–29 Joab sends for David to capture the city.
+[^20-2]: Or "destroyed it".
+[^20-3]: Hebrew *malkam*, "their king", which may also be read as Milcom, the god of the Ammonites (1 Kings 11:5).
+[^20-4]: A talent was about 75 pounds (34 kg).
+[^20-5]: Hebrew *vayyasar*, "he sawed". 2 Samuel 12:31 has *vayyasem*, "he set them (to work)", a difference of one letter.
+[^20-6]: The Hebrew repeats "saws". 2 Samuel 12:31 has "iron axes".
+[^20-7]: Verses 4–8 parallel 2 Samuel 21:18–22, which has Gob here.
+[^20-8]: 2 Samuel 21:18 has Saph.
+[^20-9]: Hebrew *ha-repha'im*, a people remembered as giants (Deuteronomy 2:11, 20). In verses 6 and 8 the singular *ha-rapha*, "the Raphah", perhaps their ancestor, is used.
+[^20-10]: The Hebrew text is written "Jaur" but read "Jair".
+[^20-11]: 2 Samuel 21:19 reads "Elhanan son of Jaare-oregim the Bethlehemite struck down Goliath the Gittite". In 1 Samuel 17 David kills Goliath.
+[^20-12]: The heavy rod of a loom.
+[^20-13]: Literally "and his digits were six and six, twenty-four". 2 Samuel 21:20 has "six fingers on each hand and six toes on each foot".

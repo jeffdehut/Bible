@@ -944,3 +944,243 @@
 [^14-10]: Literally "There is no one with you to help between the many and the one without strength". Or "It makes no difference to you whether you help the strong or the weak".
 [^14-11]: Or "until none of them was left alive".
 [^14-12]: Literally "the tents of livestock".
+
+## Chapter 15
+
+*Status: draft*
+
+**1** The Spirit of God came on Azariah son of Oded.
+
+**2** He went out to meet Asa and said to him, "Listen to me, Asa and all Judah and Benjamin. Yahweh[^15-1] is with you when you are with him. If you seek him, he will be found by you, but if you abandon him, he will abandon you.
+
+**3** For a long time Israel was without the true God, without a priest to teach, and without instruction.[^15-2]
+
+**4** But in their distress they turned to Yahweh, the God of Israel. They sought him, and he was found by them.
+
+**5** In those times there was no peace for anyone who went out or came in, for great turmoil afflicted all the inhabitants of the lands.
+
+**6** They were crushed, nation against nation and city against city, for God troubled them with every kind of distress.
+
+**7** But as for you, be strong and do not lose heart,[^15-3] for your work will be rewarded."
+
+**8** When Asa heard these words and the prophecy of Oded the prophet,[^15-4] he took courage. He removed the detestable idols from the whole land of Judah and Benjamin and from the cities he had captured in the hill country of Ephraim. And he restored the altar of Yahweh that was in front of the porch of the house of Yahweh.[^15-5]
+
+**9** He gathered all Judah and Benjamin, and those from Ephraim, Manasseh and Simeon who were living among them, for many had deserted to him from Israel when they saw that Yahweh his God was with him.
+
+**10** They gathered in Jerusalem in the third month of the fifteenth year of Asa's reign.
+
+**11** On that day they sacrificed to Yahweh, from the plunder they had brought, seven hundred cattle and seven thousand sheep and goats.
+
+**12** They entered into a covenant to seek Yahweh, the God of their ancestors, with all their heart and with all their soul.
+
+**13** Anyone who would not seek Yahweh, the God of Israel, was to be put to death, whether small or great, man or woman.
+
+**14** They swore an oath to Yahweh with a loud voice, with shouting, and with trumpets and rams' horns.
+
+**15** All Judah rejoiced over the oath, for they had sworn with all their heart and sought him with all their desire, and he was found by them. So Yahweh gave them rest on every side.
+
+**16** King Asa also removed Maacah, his mother,[^15-6] from her position as queen mother,[^15-7] because she had made a horrible image[^15-8] for Asherah.[^15-9] Asa cut down her image, crushed it and burned it in the Kidron Valley.
+
+**17** But the high places[^15-10] were not removed from Israel. Yet Asa's heart was fully devoted[^15-11] all his days.
+
+**18** He brought into the house of God the things his father had dedicated and the things he himself had dedicated: silver, gold and utensils.
+
+**19** There was no more war until the thirty-fifth year of Asa's reign.
+
+[^15-1]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^15-2]: Hebrew *torah*, "instruction, law". The Hebrew has no verb here, and verses 3–6 can also be read as a description of the future: "For a long time Israel will be without …".
+[^15-3]: Literally "do not let your hands drop".
+[^15-4]: The Hebrew reads "and the prophecy, Oded the prophet". The Vulgate reads "the prophecy of Azariah son of Oded the prophet", as in verse 1.
+[^15-5]: Literally "in front of the porch of Yahweh".
+[^15-6]: Maacah was the mother of Abijah, Asa's father (11:20–22). In Hebrew "mother" can also mean grandmother. Verses 16–18 parallel 1 Kings 15:13–15.
+[^15-7]: Hebrew *gevirah*, "great lady": the title of the king's mother, who held an official position at court.
+[^15-8]: Hebrew *mifletset*, something horrifying, a word found only here and in 1 Kings 15:13. Also later in the verse.
+[^15-9]: A Canaanite goddess, or the wooden pole that was her symbol.
+[^15-10]: Hebrew *bamot*: places of worship, often on hilltops. Compare 14:2, 4.
+[^15-11]: Literally "was whole". 1 Kings 15:14 adds "with Yahweh".
+
+## Chapter 16
+
+*Status: draft*
+
+**1** In the thirty-sixth year of Asa's reign,[^16-1] Baasha king of Israel came up against Judah and fortified[^16-2] Ramah, to keep anyone from going out or coming in to Asa king of Judah.
+
+**2** Then Asa brought out silver and gold from the treasuries of the house of Yahweh[^16-3] and of the king's house and sent them to Ben-hadad king of Aram, who lived in Damascus, with this message:
+
+**3** "There is a treaty[^16-4] between me and you, as there was between my father and your father. Look, I am sending you silver and gold. Go and break your treaty with Baasha king of Israel, so that he will withdraw from me."
+
+**4** Ben-hadad listened to King Asa and sent the commanders of his armies against the cities of Israel. They attacked Ijon, Dan, Abel-maim[^16-5] and all the storehouses in the cities of Naphtali.
+
+**5** When Baasha heard of it, he stopped fortifying Ramah and gave up his work.
+
+**6** Then King Asa brought all Judah, and they carried away the stones and the timber of Ramah, which Baasha had been building, and with them he fortified Geba and Mizpah.
+
+**7** At that time Hanani the seer came to Asa king of Judah and said to him, "Because you relied on the king of Aram and did not rely on Yahweh your God, the army of the king of Aram has escaped from your hand.
+
+**8** Were not the Cushites and the Libyans a vast army, with very many chariots and horsemen?[^16-6] Yet because you relied on Yahweh, he handed them over to you.
+
+**9** For the eyes of Yahweh range throughout the whole earth, to show his strength for those whose hearts are fully devoted to him.[^16-7] You have acted foolishly in this. From now on you will have wars."
+
+**10** Asa was angry with the seer and put him in the stocks,[^16-8] for he was enraged with him over this. At that time Asa also oppressed some of the people.
+
+**11** The acts of Asa, from first to last, are written in the book of the kings of Judah and Israel.[^16-9]
+
+**12** In the thirty-ninth year of his reign Asa was diseased in his feet, and his disease became very severe. Yet even in his disease he did not seek Yahweh, but only the physicians.
+
+**13** Asa slept with his ancestors.[^16-10] He died in the forty-first year of his reign.
+
+**14** They buried him in the tomb he had cut for himself in the City of David. They laid him on a bier filled with spices and various kinds of ointments blended by the perfumer's art, and they made a very great fire in his honor.[^16-11]
+
+[^16-1]: According to 1 Kings 15:33 and 16:8, Baasha reigned from the third to the twenty-sixth year of Asa. Verses 1–6 parallel 1 Kings 15:17–22.
+[^16-2]: Literally "built". Also in verses 5 and 6.
+[^16-3]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^16-4]: Or "Let there be a treaty". Hebrew *berit*, "covenant". Also later in the verse.
+[^16-5]: 1 Kings 15:20 has Abel-beth-maacah, and "all Chinneroth" in place of "all the storehouses in the cities of Naphtali".
+[^16-6]: Or "horses". Hebrew *parashim*.
+[^16-7]: Literally "to show himself strong with those whose heart is whole toward him".
+[^16-8]: Literally "the house of the stocks". Hebrew *mahpekhet*, probably a frame that held a prisoner in a cramped position (Jeremiah 20:2).
+[^16-9]: A record of the kings that the writer of Chronicles cites often. It has not survived as such. Verses 11–14 are close to 1 Kings 15:23–24.
+[^16-10]: Literally "lay down with his fathers", a way of speaking of death.
+[^16-11]: A ceremonial fire, probably of spices, made in honor of a king who died (21:19; Jeremiah 34:5).
+
+## Chapter 17
+
+*Status: draft*
+
+**1** His son Jehoshaphat became king in his place, and he strengthened himself against Israel.
+
+**2** He stationed troops in all the fortified cities of Judah and placed garrisons[^17-1] in the land of Judah and in the cities of Ephraim that his father Asa had captured.
+
+**3** Yahweh[^17-2] was with Jehoshaphat, because he walked in the earlier ways of his father David.[^17-3] He did not seek the Baals,[^17-4]
+
+**4** but sought the God of his father and walked in his commands, and not according to the practices of Israel.
+
+**5** So Yahweh established the kingdom in his hand. All Judah brought gifts to Jehoshaphat, and he had great riches and honor.
+
+**6** His heart was bold in the ways of Yahweh,[^17-5] and he also removed the high places[^17-6] and the Asherah poles[^17-7] from Judah.
+
+**7** In the third year of his reign he sent his officials Ben-hail, Obadiah, Zechariah, Nethanel and Micaiah to teach in the cities of Judah.
+
+**8** With them were the Levites Shemaiah, Nethaniah, Zebadiah, Asahel, Shemiramoth, Jehonathan, Adonijah, Tobijah and Tob-adonijah, the Levites, and with them Elishama and Jehoram the priests.
+
+**9** They taught in Judah, having with them the book of the law of Yahweh. They went around through all the cities of Judah and taught among the people.
+
+**10** The terror of Yahweh fell on all the kingdoms of the lands around Judah, and they did not make war against Jehoshaphat.
+
+**11** Some of the Philistines brought Jehoshaphat gifts and silver as tribute, and the Arabs brought him flocks: 7,700 rams and 7,700 male goats.
+
+**12** Jehoshaphat grew steadily greater, and he built fortresses and storage cities in Judah.
+
+**13** He carried out many works[^17-8] in the cities of Judah, and he had soldiers, mighty warriors, in Jerusalem.
+
+**14** This was their enrollment by their ancestral families.[^17-9] From Judah, the commanders of thousands: Adnah the commander, and with him 300,000 mighty warriors;[^17-10]
+
+**15** next to him Jehohanan the commander, and with him 280,000;
+
+**16** next to him Amasiah son of Zichri, who volunteered for the service of Yahweh, and with him 200,000 mighty warriors.
+
+**17** From Benjamin: Eliada, a mighty warrior, and with him 200,000 armed with bow and shield;
+
+**18** next to him Jehozabad, and with him 180,000 equipped for war.
+
+**19** These were the men who served the king, besides those the king had placed in the fortified cities throughout Judah.
+
+[^17-1]: Or "governors". Hebrew *netsivim*.
+[^17-2]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^17-3]: Literally "in the first ways of David his father". The Septuagint lacks "David", so that "his father" would be Asa.
+[^17-4]: Plural of *Baal*, "lord, master": the Canaanite god Baal, worshiped in many local forms.
+[^17-5]: Literally "His heart was high". The phrase usually means pride; here it means courage or devotion.
+[^17-6]: Hebrew *bamot*: places of worship, often on hilltops. Compare 20:33.
+[^17-7]: Hebrew *asherim*: wooden poles or trees that were symbols of the goddess Asherah.
+[^17-8]: Or "He had large supplies".
+[^17-9]: Literally "by the house of their fathers".
+[^17-10]: On these large numbers, see 13:3.
+
+## Chapter 18
+
+*Status: draft*
+
+**1** Jehoshaphat had great riches and honor, and he made a marriage alliance with Ahab.[^18-1]
+
+**2** Some years later he went down to Ahab in Samaria.[^18-2] Ahab slaughtered sheep and cattle in abundance for him and for the people who were with him, and he persuaded him to go up against Ramoth-gilead.
+
+**3** Ahab king of Israel said to Jehoshaphat king of Judah, "Will you go with me to Ramoth-gilead?" He answered him, "I am as you are, and my people are as your people. We will be with you in the battle."
+
+**4** But Jehoshaphat said to the king of Israel, "First, please, seek the word of Yahweh."[^18-3]
+
+**5** So the king of Israel gathered the prophets, four hundred men, and said to them, "Shall we go to war against Ramoth-gilead, or shall I hold back?" They said, "Go up, for God will hand it over to the king."
+
+**6** But Jehoshaphat said, "Is there no other prophet of Yahweh here, so that we may consult him?"
+
+**7** The king of Israel said to Jehoshaphat, "There is still one man through whom we can consult Yahweh, but I hate him, for he never prophesies anything good about me, but always evil. He is Micaiah son of Imla." Jehoshaphat said, "The king should not say that."
+
+**8** So the king of Israel called one of his officials[^18-4] and said, "Bring Micaiah son of Imla quickly."
+
+**9** The king of Israel and Jehoshaphat king of Judah were sitting each on his throne, dressed in their robes. They were sitting at the threshing floor at the entrance of the gate of Samaria, and all the prophets were prophesying before them.
+
+**10** Zedekiah son of Chenaanah had made iron horns for himself, and he said, "This is what Yahweh says: With these you will gore the Arameans until they are destroyed."
+
+**11** All the prophets were prophesying the same, saying, "Go up to Ramoth-gilead and triumph. Yahweh will hand it over to the king."
+
+**12** The messenger who had gone to call Micaiah said to him, "Look, the prophets are all saying the same thing, good for the king.[^18-5] Let your word be like one of theirs, and speak favorably."
+
+**13** But Micaiah said, "As Yahweh lives, whatever my God says, that is what I will speak."
+
+**14** When he came to the king, the king said to him, "Micah,[^18-6] shall we go to war against Ramoth-gilead, or shall I hold back?" He said, "Go up and triumph. They will be handed over to you."
+
+**15** The king said to him, "How many times must I make you swear to tell me nothing but the truth in the name of Yahweh?"
+
+**16** Then he said, "I saw all Israel scattered on the mountains like sheep that have no shepherd. And Yahweh said, 'These have no master. Let each of them go home in peace.'"
+
+**17** The king of Israel said to Jehoshaphat, "Didn't I tell you he would not prophesy anything good about me, but only evil?"
+
+**18** Micaiah said, "Therefore hear the word of Yahweh. I saw Yahweh sitting on his throne, with all the host of heaven[^18-7] standing on his right and on his left.
+
+**19** Yahweh said, 'Who will entice Ahab king of Israel to go up and fall at Ramoth-gilead?' One said one thing, and another said another.
+
+**20** Then a spirit[^18-8] came forward and stood before Yahweh and said, 'I will entice him.' Yahweh said to him, 'How?'
+
+**21** He said, 'I will go out and be a lying spirit in the mouth of all his prophets.' Yahweh said, 'You will entice him, and you will succeed. Go out and do so.'
+
+**22** So now, Yahweh has put a lying spirit in the mouth of these prophets of yours. Yahweh has decreed disaster for you."[^18-9]
+
+**23** Then Zedekiah son of Chenaanah came up and struck Micaiah on the cheek and said, "Which way did the Spirit of Yahweh go when he passed from me to speak to you?"
+
+**24** Micaiah said, "You will see, on the day when you go into an inner room to hide."[^18-10]
+
+**25** The king of Israel said, "Take Micaiah and send him back to Amon the governor of the city and to Joash the king's son,
+
+**26** and say, 'This is what the king says: Put this man in prison and feed him with scant bread and scant water[^18-11] until I return safely.'"
+
+**27** Micaiah said, "If you ever return safely, Yahweh has not spoken through me." And he said, "Listen, all you peoples!"[^18-12]
+
+**28** So the king of Israel and Jehoshaphat king of Judah went up to Ramoth-gilead.
+
+**29** The king of Israel said to Jehoshaphat, "I will disguise myself and go into battle, but you wear your robes." So the king of Israel disguised himself, and they went into battle.
+
+**30** Now the king of Aram had commanded his chariot commanders, "Do not fight with anyone, small or great, but only with the king of Israel."
+
+**31** When the chariot commanders saw Jehoshaphat, they said, "That is the king of Israel," and they turned to fight against him. But Jehoshaphat cried out, and Yahweh helped him. God drew them away from him.
+
+**32** When the chariot commanders saw that he was not the king of Israel, they turned back from pursuing him.
+
+**33** But a man drew his bow at random[^18-13] and struck the king of Israel between the joints of his armor.[^18-14] He said to his chariot driver, "Turn around[^18-15] and take me out of the battle,[^18-16] for I am wounded."
+
+**34** The battle grew fierce that day, and the king of Israel propped himself up in his chariot facing the Arameans until evening. At sunset he died.
+
+[^18-1]: Jehoshaphat's son Jehoram married Ahab's daughter (21:6; 2 Kings 8:18).
+[^18-2]: Verses 2–34 parallel 1 Kings 22:2–35.
+[^18-3]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles. Literally "Please seek today the word of Yahweh."
+[^18-4]: Hebrew *saris*, a court official. The word can also mean a eunuch.
+[^18-5]: Literally "the words of the prophets are one mouth, good to the king".
+[^18-6]: A short form of the name Micaiah.
+[^18-7]: The heavenly beings who serve Yahweh.
+[^18-8]: Literally "the spirit".
+[^18-9]: Literally "Yahweh has spoken evil against you."
+[^18-10]: Literally "go into a room within a room to hide".
+[^18-11]: Literally "bread of oppression and water of oppression".
+[^18-12]: The same words begin the book of the prophet Micah (Micah 1:2).
+[^18-13]: Literally "in his innocence", that is, without aiming at the king.
+[^18-14]: Literally "between the joints and the scale armor".
+[^18-15]: Literally "Turn your hand", that is, turn the chariot. The Hebrew text is written "your hands" but read "your hand".
+[^18-16]: Literally "out of the camp".
