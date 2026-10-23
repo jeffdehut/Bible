@@ -568,7 +568,7 @@
 [^8-7]: Hebrew *mishkan*, "dwelling place": the portable sanctuary, also called the tent of meeting.
 [^8-8]: Literally "He slaughtered". The Hebrew does not say whether Moses or Aaron did it. So also in verses 19, 20, 21 and 23.
 [^8-9]: Hebrew *chitte*, literally "un-sin", the verb related to *chatta't*, "sin offering".
-[^8-10]: Hebrew *millu'im*, literally "filling", from the idiom "fill the hand" for installing someone as a priest. Also in verses 28, 29, 31 and 33.
+[^8-10]: Hebrew *millu'im*, "filling": see 7:37. Also in verses 28, 29, 31 and 33.
 [^8-11]: The same Hebrew consonants can be read "as I was commanded", as in verse 35.
 [^8-12]: Literally "for seven days he will fill your hand".
 [^8-13]: Or "do what Yahweh requires". Hebrew *mishmeret*, "guard duty, obligation".
@@ -1180,7 +1180,7 @@
 [^15-4]: Hebrew *chatta't*. Here no wrongdoing is involved: the offering removes the impurity. See the note on 4:3. Also in verse 30.
 [^15-5]: Hebrew *niddah*, "separation, impurity": here the state of a woman during her monthly period. Also in verses 20, 24–26 and 33.
 [^15-6]: The Hebrew is difficult. Literally "And if it is on the bed, or on the article on which she is sitting, when he touches it he will be unclean until evening."
-[^15-7]: Hebrew *mishkan*, "dwelling place": the portable sanctuary, also called the tent of meeting.
+[^15-7]: Hebrew *mishkan*, "dwelling place". See 8:10.
 
 ## Chapter 16
 
@@ -1315,7 +1315,7 @@
 [^17-3]: Literally "blood will be counted to that man".
 [^17-4]: Hebrew *se'irim*, "hairy ones, goats": demons or idols thought to live in the wilderness (compare Isaiah 13:21; 34:14).
 [^17-5]: Literally "after whom they go whoring", a common image for unfaithfulness to Yahweh.
-[^17-6]: Hebrew *ger*: someone from elsewhere who lives among the Israelites, a resident foreigner. Also in verses 10, 12, 13 and 15.
+[^17-6]: Hebrew *ger*, a resident foreigner (see 16:29). Also in verses 10, 12, 13 and 15.
 [^17-7]: Hebrew *nephesh*, "life, soul, living being". Also in verse 14.
 [^17-8]: Or "makes atonement for the life".
 [^17-9]: The Hebrew is difficult. Literally "For the life of all flesh, its blood is in its life."
@@ -1403,5 +1403,243 @@
 [^18-16]: Hebrew *to'evah*, "abomination, something detestable". Also in verses 26, 27, 29 and 30.
 [^18-17]: Hebrew *tevel*, "confusion": a violation of the natural order.
 [^18-18]: Literally "I visited its iniquity upon it".
-[^18-19]: Hebrew *ger*: someone from elsewhere who lives among the Israelites, a resident foreigner.
+[^18-19]: Hebrew *ger*, a resident foreigner (see 16:29).
 [^18-20]: Hebrew *mishmeret*, "guard duty, obligation": what Yahweh requires.
+
+## Chapter 19
+
+*Status: draft*
+
+**1** Yahweh[^19-1] said to Moses,
+
+**2** "Speak to the whole community of the Israelites and tell them: Be holy, because I, Yahweh your God, am holy.
+
+**3** Each of you must respect[^19-2] his mother and his father, and you must keep my Sabbaths. I am Yahweh your God.
+
+**4** Do not turn to idols,[^19-3] and do not make gods of cast metal for yourselves. I am Yahweh your God.
+
+**5** "When you sacrifice a fellowship offering to Yahweh, sacrifice it in such a way that you will be accepted.
+
+**6** It must be eaten on the day you sacrifice it or on the next day. Whatever is left over until the third day must be burned up in the fire.
+
+**7** If any of it is eaten on the third day, it is spoiled meat;[^19-4] it will not be accepted.
+
+**8** Whoever eats it will bear the consequences of his wrongdoing, because he has profaned what is holy to Yahweh. That person must be cut off from his people.
+
+**9** "When you reap the harvest of your land, do not reap all the way to the edges of your field, and do not gather the gleanings[^19-5] of your harvest.
+
+**10** Do not go back over your vineyard,[^19-6] and do not gather the grapes that have fallen in your vineyard. Leave them for the poor and for the foreigner.[^19-7] I am Yahweh your God.
+
+**11** "Do not steal. Do not deceive or lie to one another.
+
+**12** Do not swear falsely by my name, and so profane the name of your God. I am Yahweh.
+
+**13** Do not oppress your neighbor or rob him. Do not keep back the wages of a hired worker overnight until morning.
+
+**14** Do not curse the deaf or put a stumbling block in front of the blind. Fear your God. I am Yahweh.
+
+**15** "Do not do wrong in judging. Do not show partiality to the poor or favor to the powerful.[^19-8] Judge your neighbor fairly.
+
+**16** Do not go around spreading slander among your people. Do not stand by when your neighbor's life is at stake.[^19-9] I am Yahweh.
+
+**17** Do not hate your brother in your heart. Rebuke your neighbor frankly, so that you do not incur sin because of him.[^19-10]
+
+**18** Do not take revenge or bear a grudge against any of your people, but love your neighbor as yourself.[^19-11] I am Yahweh.
+
+**19** "Keep my decrees. Do not let two different kinds of your livestock mate. Do not sow your field with two kinds of seed. Do not wear a garment made of two kinds of material.[^19-12]
+
+**20** "If a man lies with a woman and has sexual intercourse with her, and she is a slave woman promised to another man, but she has not been ransomed or given her freedom, there must be an inquiry.[^19-13] They are not to be put to death, because she had not been freed.
+
+**21** He is to bring his guilt offering to Yahweh at the entrance of the tent of meeting, a ram as a guilt offering.
+
+**22** With the ram of the guilt offering the priest is to make atonement for him before Yahweh for the sin he has committed, and he will be forgiven for the sin he has committed.
+
+**23** "When you come into the land and plant any kind of fruit tree, regard its fruit as forbidden.[^19-14] For three years it is to be forbidden to you. It must not be eaten.
+
+**24** In the fourth year all its fruit is to be holy, an offering of praise to Yahweh.
+
+**25** But in the fifth year you may eat its fruit, so that its yield will increase for you. I am Yahweh your God.
+
+**26** "Do not eat anything with the blood.[^19-15] Do not practice divination or sorcery.[^19-16]
+
+**27** Do not round off the hair at the sides of your head, or ruin the edges of your beard.
+
+**28** Do not make cuts in your bodies for the dead,[^19-17] or put tattoo marks[^19-18] on yourselves. I am Yahweh.
+
+**29** Do not profane your daughter by making her a prostitute, or the land will turn to prostitution and the land will be full of depravity.
+
+**30** Keep my Sabbaths, and revere my sanctuary. I am Yahweh.
+
+**31** Do not turn to mediums or to spiritists.[^19-19] Do not seek them out, and so become unclean through them. I am Yahweh your God.
+
+**32** Stand up in the presence of the gray-haired, and show respect to the elderly. Fear your God. I am Yahweh.
+
+**33** "When a foreigner lives with you in your land, do not mistreat him.
+
+**34** The foreigner who lives with you is to be treated like the native-born among you. Love him as yourself, for you were foreigners in the land of Egypt. I am Yahweh your God.
+
+**35** Do not do wrong in judging, or in measures of length, weight or quantity.
+
+**36** You are to have honest scales, honest weights, an honest ephah[^19-20] and an honest hin.[^19-21] I am Yahweh your God, who brought you out of the land of Egypt.
+
+**37** Keep all my decrees and all my rulings, and do them. I am Yahweh."
+
+[^19-1]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^19-2]: Literally "fear". Also in verse 30, "revere".
+[^19-3]: Hebrew *elilim*, "worthless things, nothings", a mocking word for idols.
+[^19-4]: Hebrew *piggul*. See 7:18.
+[^19-5]: The ears of grain that are dropped or missed by the reapers.
+[^19-6]: Or "Do not strip your vineyard bare". The verb means to go over a vineyard a second time to pick the grapes that are left.
+[^19-7]: Hebrew *ger*, a resident foreigner (see 16:29). Also in verses 33 and 34.
+[^19-8]: Literally "Do not lift up the face of the poor, and do not honor the face of the great."
+[^19-9]: Literally "Do not stand on the blood of your neighbor". It may also mean "Do not seek your neighbor's life", for example by false testimony.
+[^19-10]: Or "so that you do not bear sin because of him".
+[^19-11]: Quoted in Matthew 19:19; 22:39; Mark 12:31; Romans 13:9; Galatians 5:14; James 2:8.
+[^19-12]: Hebrew *sha'atnez*, a word of uncertain origin. Deuteronomy 22:11 explains it as wool and linen woven together.
+[^19-13]: Hebrew *biqqoret*, a word found only here: perhaps "investigation", "punishment" or "compensation".
+[^19-14]: Literally "you shall treat its fruit as its foreskin". Also in the next sentence: "it shall be uncircumcised to you".
+[^19-15]: Literally "on the blood": perhaps eating meat with the blood still in it, or eating beside the blood as part of a ritual.
+[^19-16]: Hebrew *nichesh*, reading omens, and *onen*, perhaps reading signs in the clouds.
+[^19-17]: Literally "for a *nephesh*", here a dead person.
+[^19-18]: Hebrew *ketovet qa'aqa*, a phrase found only here: probably marks cut or pricked into the skin.
+[^19-19]: Hebrew *ovot* and *yidde'onim*: spirits of the dead, or people who claimed to call them up and consult them (1 Samuel 28:3–25).
+[^19-20]: An ephah was a dry measure of probably about 22 liters (two-thirds of a bushel).
+[^19-21]: A hin was a liquid measure of about a gallon (4 liters).
+
+## Chapter 20
+
+*Status: draft*
+
+**1** Yahweh[^20-1] said to Moses,
+
+**2** "Tell the Israelites: Any Israelite, or any foreigner[^20-2] who lives in Israel, who gives any of his children to Molech[^20-3] must be put to death. The people of the land[^20-4] are to stone him.
+
+**3** I myself will set my face against that man and cut him off from among his people, because he has given some of his children to Molech, and so made my sanctuary unclean and profaned my holy name.
+
+**4** If the people of the land close their eyes to that man when he gives any of his children to Molech, and do not put him to death,
+
+**5** I myself will set my face against that man and against his family. I will cut off from among their people both him and all who follow him in prostituting themselves to Molech.[^20-5]
+
+**6** If anyone turns to mediums and spiritists,[^20-6] prostituting himself by following them, I will set my face against that person and cut him off from among his people.
+
+**7** Consecrate yourselves and be holy, because I am Yahweh your God.
+
+**8** Keep my decrees and do them. I am Yahweh, who makes you holy.
+
+**9** "Anyone who curses his father or his mother must be put to death. He has cursed his father or his mother; his blood is on his own head.[^20-7]
+
+**10** If a man commits adultery with another man's wife, if he commits adultery with his neighbor's wife, both the man and the woman who commit adultery must be put to death.
+
+**11** If a man lies with his father's wife, he has dishonored his father.[^20-8] Both of them must be put to death; their blood is on their own heads.
+
+**12** If a man lies with his daughter-in-law, both of them must be put to death. They have committed a perversion;[^20-9] their blood is on their own heads.
+
+**13** If a man lies with a male as one lies with a woman, both of them have done a detestable thing. They must be put to death; their blood is on their own heads.
+
+**14** If a man marries a woman and her mother, it is depravity. He and they must be burned in the fire, so that there will be no depravity among you.
+
+**15** If a man has sexual intercourse with an animal, he must be put to death, and you must kill the animal.
+
+**16** If a woman approaches any animal to mate with it, you must kill the woman and the animal. They must be put to death; their blood is on their own heads.
+
+**17** If a man marries his sister, his father's daughter or his mother's daughter, and they have sexual relations,[^20-10] it is a disgrace.[^20-11] They must be cut off in the sight of their people. He has had sexual relations with his sister; he will bear the consequences of his wrongdoing.
+
+**18** If a man lies with a woman during her monthly period and has sexual relations with her, he has laid bare the source of her flow, and she has exposed the source of her blood. Both of them must be cut off from among their people.
+
+**19** Do not have sexual relations with your mother's sister or your father's sister, for that is to lay bare one's own close relative. They will bear the consequences of their wrongdoing.
+
+**20** If a man lies with his aunt,[^20-12] he has dishonored his uncle. They will bear the consequences of their sin; they will die childless.
+
+**21** If a man marries his brother's wife, it is an impurity.[^20-13] He has dishonored his brother. They will be childless.
+
+**22** "Keep all my decrees and all my rulings, and do them, so that the land where I am bringing you to live will not vomit you out.
+
+**23** Do not follow the customs of the nation that I am driving out before you. Because they did all these things, I loathed them.
+
+**24** But I have said to you, 'You will take possession of their land. I will give it to you to possess, a land flowing with milk and honey.' I am Yahweh your God, who has set you apart from the peoples.
+
+**25** So you must distinguish between the clean and the unclean animals, and between the unclean and the clean birds. Do not make yourselves detestable by any animal or bird or anything that moves on the ground, which I have set apart for you as unclean.
+
+**26** You are to be holy to me, because I, Yahweh, am holy, and I have set you apart from the peoples to be mine.
+
+**27** "A man or a woman who is a medium or a spiritist[^20-14] must be put to death. They are to be stoned; their blood is on their own heads."
+
+[^20-1]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^20-2]: Hebrew *ger*, a resident foreigner (see 16:29).
+[^20-3]: See 18:21. Also in verses 3–5.
+[^20-4]: Here the members of the local community. Also in verse 4.
+[^20-5]: Literally "to whore after Molech", a common image for unfaithfulness to Yahweh (17:7). So also in verse 6.
+[^20-6]: Hebrew *ovot* and *yidde'onim*. See 19:31.
+[^20-7]: Literally "his blood is on him": he himself is responsible for his death. So also in verses 11–13, 16 and 27.
+[^20-8]: Literally "he has uncovered his father's nakedness" (see 18:8). So also in verses 17–21 with the other relatives.
+[^20-9]: Hebrew *tevel*. See 18:23.
+[^20-10]: Literally "and he sees her nakedness and she sees his nakedness".
+[^20-11]: Hebrew *chesed*, here a rare word meaning "disgrace", spelled the same as the word for "faithful love".
+[^20-12]: Hebrew *dodah*, the wife of his father's brother (18:14).
+[^20-13]: Hebrew *niddah*, the word used for a woman's menstrual impurity (15:19).
+[^20-14]: Literally "in whom there is a spirit of the dead or a spirit that knows" (19:31).
+
+## Chapter 21
+
+*Status: draft*
+
+**1** Yahweh[^21-1] said to Moses, "Speak to the priests, the sons of Aaron, and tell them: A priest must not make himself unclean for a dead person[^21-2] among his people,
+
+**2** except for a close relative: his mother or his father, his son or his daughter, his brother,
+
+**3** or his unmarried sister, who is close to him because she has no husband. For her he may make himself unclean.
+
+**4** He must not make himself unclean as a husband[^21-3] among his people, and so profane himself.
+
+**5** Priests must not shave bald patches on their heads or shave off the edges of their beards or make cuts in their bodies.
+
+**6** They are to be holy to their God and must not profane the name of their God, because they present the offerings by fire to Yahweh, the food[^21-4] of their God. So they must be holy.
+
+**7** They must not marry a woman who is a prostitute or who has been defiled,[^21-5] and they must not marry a woman divorced from her husband, for the priest is holy to his God.
+
+**8** You are to treat him as holy, because he offers the food of your God. He is to be holy to you, because I, Yahweh, who make you holy, am holy.
+
+**9** If a priest's daughter profanes herself by prostitution, she profanes her father. She must be burned in the fire.
+
+**10** "The priest who is highest among his brothers,[^21-6] on whose head the anointing oil has been poured and who has been ordained[^21-7] to wear the garments, must not let the hair of his head hang loose or tear his clothes.
+
+**11** He must not go near any dead body.[^21-8] He must not make himself unclean even for his father or his mother.
+
+**12** He must not leave the sanctuary, or profane the sanctuary of his God, because the consecration[^21-9] of the anointing oil of his God is on him. I am Yahweh.
+
+**13** He is to marry a woman who is a virgin.
+
+**14** He must not marry a widow, a divorced woman, or a woman defiled by prostitution. He is to marry only a virgin from his own people,
+
+**15** so that he does not profane his descendants among his people, for I am Yahweh, who makes him holy."
+
+**16** Yahweh said to Moses,
+
+**17** "Speak to Aaron and tell him: None of your descendants in any generation who has a defect is to come near to offer the food of his God.
+
+**18** For no man who has a defect may come near: no man who is blind or lame, or who has a disfigured face or a deformed limb,[^21-10]
+
+**19** or a man who has a broken foot or a broken hand,
+
+**20** or who is hunchbacked or a dwarf, or who has a spot in his eye, or who has a festering rash or scabs, or crushed testicles.[^21-11]
+
+**21** No man among the descendants of Aaron the priest who has a defect is to come near to present the offerings by fire to Yahweh. He has a defect; he must not come near to offer the food of his God.
+
+**22** He may eat the food of his God, both the most holy and the holy things.
+
+**23** But he must not go near the veil or come near the altar, because he has a defect. He must not profane my holy places,[^21-12] for I am Yahweh, who makes them holy."
+
+**24** So Moses spoke to Aaron and his sons and to all the Israelites.
+
+[^21-1]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^21-2]: Literally "for a *nephesh*", here a dead person.
+[^21-3]: The Hebrew is difficult. Literally "He shall not make himself unclean, a husband (or master) among his people, to profane himself." It may mean that he must not make himself unclean for his wife's relatives, or that as a leader among his people he must not make himself unclean.
+[^21-4]: Literally "bread", a common word for food in general (3:11). Also in verses 8, 17 and 21–22.
+[^21-5]: Or "a woman defiled by prostitution" (as in verse 14).
+[^21-6]: Literally "the priest who is great among his brothers", that is, the high priest.
+[^21-7]: Literally "who has filled his hand" (8:33).
+[^21-8]: Literally "any *nephesh* of the dead".
+[^21-9]: Hebrew *nezer*, "consecration" or "crown" (8:9).
+[^21-10]: The exact meaning of the Hebrew words *charum* and *sarua* is uncertain.
+[^21-11]: The meaning of several of the Hebrew words in this verse is uncertain.
+[^21-12]: Or "my holy things". Literally "my sanctuaries".

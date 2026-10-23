@@ -329,7 +329,7 @@
 [^3-9]: *The tabernacle* here is probably the inner layer of linen curtains, and *the tent* the layer of goats' hair curtains over it (Exodus 26:1–14).
 [^3-10]: The figures in verses 22, 28 and 34 add up to 22,300, but verse 39 gives a total of twenty-two thousand. Some manuscripts of the Septuagint read 8,300 here, which would match that total.
 [^3-11]: Literally "keepers of the charge of the holy place"; also in verse 32.
-[^3-12]: Probably the curtain that hung in front of the ark (4:5).
+[^3-12]: Probably the veil that hung in front of the ark (4:5).
 [^3-13]: In the Hebrew text the word "and Aaron" has dots written above each of its letters, one of the fifteen places in the Hebrew Bible marked in this way. Traditionally the dots mark a word as doubtful. Aaron is not named in the commands of verses 15 and 40.
 [^3-14]: A shekel was about 0.4 ounce (11.5 grams) of silver.
 [^3-15]: Literally "five, five shekels per skull".
@@ -348,7 +348,7 @@
 
 **4** This is the work of the Kohathites at the tent of meeting: the most holy things.[^4-3]
 
-**5** When the camp is to set out, Aaron and his sons are to go in and take down the screening curtain[^4-4] and cover the ark of the testimony with it.
+**5** When the camp is to set out, Aaron and his sons are to go in and take down the screening veil[^4-4] and cover the ark of the testimony with it.
 
 **6** Then they are to put a covering of fine leather[^4-5] over it, spread a cloth made entirely of blue[^4-6] on top, and put its poles in place.[^4-7]
 
@@ -441,7 +441,7 @@
 [^4-1]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
 [^4-2]: Literally "who come into the army". Hebrew *tsava*, the word used for military service in chapter 1, here means the work force of the sanctuary. Also in verses 23, 30, 35, 39 and 43.
 [^4-3]: Literally "the holy of holies". Or "This is the work of the Kohathites at the tent of meeting concerning the most holy things."
-[^4-4]: Hebrew *parokhet*: the curtain that separated the most holy place from the rest of the tabernacle (Exodus 26:31–33).
+[^4-4]: Hebrew *parokhet*: the veil, the hanging curtain that separated the most holy place from the rest of the tabernacle (Exodus 26:31–33).
 [^4-5]: Hebrew *tachash*, of uncertain meaning. It may be the hide of a sea animal (such as the dugong), or leather of a special kind or color. Traditionally "badgers' skins" or "goatskins". Also in verses 8–14 and 25.
 [^4-6]: Hebrew *tekhelet*, a costly violet-blue dye; also in verses 7, 9, 11 and 12.
 [^4-7]: Literally "put its poles". According to Exodus 25:15 the poles of the ark were never to be removed, so here they are probably adjusted for carrying.
@@ -1684,7 +1684,7 @@
 
 **6** I myself have taken your relatives the Levites from among the Israelites. They are a gift to you, given to Yahweh, to do the work of the tent of meeting.
 
-**7** But you and your sons with you are to carry out your priesthood in everything that concerns the altar and what is inside the curtain.[^18-6] You are to do this service. I am giving you your priesthood as a gift.[^18-7] Any outsider who comes near is to be put to death."
+**7** But you and your sons with you are to carry out your priesthood in everything that concerns the altar and what is inside the veil.[^18-6] You are to do this service. I am giving you your priesthood as a gift.[^18-7] Any outsider who comes near is to be put to death."
 
 **8** Then Yahweh spoke to Aaron: "I myself have put you in charge of the contributions[^18-8] made to me. All the holy gifts of the Israelites I have given to you and to your sons as your portion,[^18-9] as your permanent share.[^18-10]
 
@@ -1741,16 +1741,16 @@
 [^18-3]: Hebrew *yillavu*, "they will join", a play on the name *Levi* (compare Genesis 29:34). Also in verse 4.
 [^18-4]: The tent containing the ark of the testimony, that is, the tabernacle (Exodus 25:16, 22).
 [^18-5]: Hebrew *zar*, "stranger": here anyone who is not a Levite. In verse 7, anyone who is not a priest.
-[^18-6]: Hebrew *paroket*: the curtain that closed off the most holy place (Exodus 26:31–33).
+[^18-6]: The veil in front of the most holy place (see 4:5).
 [^18-7]: Literally "I give your priesthood as a service of gift."
-[^18-8]: Hebrew *terumot*, things set apart and given for a sacred purpose, traditionally "heave offerings". Also in verses 11, 19 and 24–29.
+[^18-8]: Hebrew *terumot*, things set apart for a sacred purpose (see 5:9). Also in verses 11, 19 and 24–29.
 [^18-9]: Hebrew *moshchah*, usually "anointing". Here it probably means "portion" (from a different root); or "because of your anointing".
 [^18-10]: Hebrew *choq olam*, "a permanent due", the same phrase translated "a permanent rule" elsewhere. Also in verses 11 and 19.
 [^18-11]: Literally "from the fire": the parts of the offerings that were not burned on the altar.
-[^18-12]: Hebrew *chatta't*. Many scholars prefer "purification offering".
+[^18-12]: Or "purification offering". See 6:11.
 [^18-13]: Literally "that they return to me". This may refer especially to the guilt offering, which involved making restitution.
 [^18-14]: Or "You are to eat it in the most holy place". Literally "In the holy of holies you shall eat it."
-[^18-15]: Hebrew *tenufot*, offerings lifted up or moved in a gesture of presentation before Yahweh.
+[^18-15]: Hebrew *tenufot*, offerings presented to Yahweh by lifting or moving them (see 6:20).
 [^18-16]: Literally "all the fat of the fresh oil and all the fat of the new wine and grain".
 [^18-17]: Hebrew *cherem*: something given over completely to Yahweh, which could not be bought back.
 [^18-18]: Literally "Every opening of the womb".
@@ -1759,7 +1759,7 @@
 [^18-21]: A shekel was about 2/5 ounce (11.5 grams), so five shekels were about 2 ounces (57 grams).
 [^18-22]: Literally "the shekel of the holy place": the standard weight used at the sanctuary.
 [^18-23]: A gerah was the smallest weight, a twentieth of a shekel.
-[^18-24]: Hebrew *ishsheh*, traditionally "an offering made by fire", as if from *esh*, "fire". Some think it means "gift" or "food offering".
+[^18-24]: Hebrew *ishsheh*. See 15:3.
 [^18-25]: A covenant that cannot be broken. Salt preserves, and it was used in sealing agreements (compare Leviticus 2:13; 2 Chronicles 13:5).
 [^18-26]: A tithe is a tenth, here a tenth of the produce of the land and the herds.
 [^18-27]: Literally "to bear sin, to die".
@@ -1821,10 +1821,10 @@
 [^19-4]: A small bushy plant used for sprinkling (Exodus 12:22; Leviticus 14:4).
 [^19-5]: Literally "crimson of the worm": wool dyed with a crimson dye made from an insect.
 [^19-6]: Hebrew *me niddah*, literally "water of impurity": water for removing impurity. Traditionally "water of separation". Also in verses 13, 20 and 21.
-[^19-7]: Or "a purification offering". Hebrew *chatta't*, the same word in verse 17.
+[^19-7]: Or "a purification offering" (see 6:11). Also in verse 17.
 [^19-8]: Literally "touches a dead one, any *nephesh* of a human being". Here *nephesh* means a person, or a dead body.
 [^19-9]: Literally "with it".
-[^19-10]: Being "cut off" may mean being put to death, or being excluded from the people. The text does not say how it happens. Also in verse 20.
+[^19-10]: See 9:13. Also in verse 20.
 [^19-11]: Literally "on the face of the field".
 [^19-12]: Literally "dust".
 [^19-13]: Literally "living water": running water from a spring or stream.
@@ -1986,14 +1986,14 @@
 [^21-3]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
 [^21-4]: Hebrew *hacharamti*: "I will devote to destruction", that is, give over completely to Yahweh by destroying them. Also in verse 3.
 [^21-5]: *Hormah* sounds like *cherem*, "something devoted to destruction".
-[^21-6]: Hebrew *Yam Suf*, literally "Sea of Reeds", traditionally the Red Sea. Here it probably means the Gulf of Aqaba.
+[^21-6]: Hebrew *Yam Suf* (see 14:25). Here it probably means the Gulf of Aqaba.
 [^21-7]: Literally "the soul of the people became short".
 [^21-8]: Literally "our *nephesh* loathes this worthless bread", that is, the manna.
 [^21-9]: Hebrew *nechashim seraphim*, "burning snakes", perhaps named for the burning pain of their bite, or for their color. *Saraph* is also the word for the winged beings in Isaiah 6:2.
 [^21-10]: Literally "Make for yourself a *saraph*".
 [^21-11]: Hebrew *nechash nechoshet*, a play on words: "snake" and "bronze" (or "copper") sound alike.
 [^21-12]: The name means "ruins of Abarim" or "ruins of the regions beyond".
-[^21-13]: Hebrew *nachal*: a valley with a stream that flows only in the rainy season. Also in verses 14 and 15.
+[^21-13]: Hebrew *nachal*, a stream bed that is dry for much of the year (see 13:23). Also in verses 14 and 15.
 [^21-14]: The quotation begins in the middle of a sentence; the Hebrew has the sign of an object with no verb before it. *Waheb* and *Suphah* are probably place names. Its meaning is uncertain.
 [^21-15]: *Beer* means "well".
 [^21-16]: *Mattanah* means "gift". Some read "from the wilderness, a gift" as the last line of the song.
@@ -2004,7 +2004,7 @@
 [^21-21]: Hebrew *moshelim*, "those who speak in sayings (*meshalim*)": the composers or reciters of popular poems and taunts.
 [^21-22]: Chemosh was the god of Moab.
 [^21-23]: The meaning of the Hebrew is uncertain. Or "Their dominion has perished".
-[^21-24]: In the Masoretic text the last letter of the word translated "which" is marked with a dot, perhaps showing doubt about it. Without that letter the word means "fire" ("fire as far as Medeba"), and the Septuagint has "fire" here.
+[^21-24]: In the Hebrew text a dot is written over the last letter of the word translated "which", a scribal mark of doubt. Without that letter the word means "fire" ("fire as far as Medeba"), and the Septuagint has "fire" here.
 [^21-25]: The Hebrew text is written "took possession of" but read "drove out".
 
 ## Chapter 22
@@ -2156,7 +2156,7 @@
 
 **20** Look, I have received a command to bless. He has blessed, and I cannot turn it back.
 
-**21** He sees no wrongdoing in Jacob; he finds no trouble in Israel.[^23-10] Yahweh their God is with them, and the shout for their king is among them.[^23-11]
+**21** He sees no wrongdoing in Jacob; he finds no trouble in Israel.[^23-10] Yahweh their God is with them, and the shout of a king is among them.[^23-11]
 
 **22** God is bringing them out of Egypt; they have the strength of a wild ox.[^23-12]
 
@@ -2186,7 +2186,7 @@
 [^23-8]: Or "the field of the lookouts".
 [^23-9]: Literally "a son of man".
 [^23-10]: Or "No misfortune is seen in Jacob; no trouble is seen in Israel."
-[^23-11]: Literally "and the shout of a king is in him": the acclaim for a king, perhaps Yahweh as Israel's king.
+[^23-11]: Literally "in him". The shout is the acclaim for a king, perhaps Yahweh as Israel's king.
 [^23-12]: Or "he is for them like the horns of a wild ox". Hebrew *to'afot*, "horns" or "strength", and *re'em*, the wild ox (aurochs), traditionally "unicorn". The same words are in 24:8.
 [^23-13]: Or "there is no sorcery in Jacob, no divination in Israel".
 [^23-14]: Or "over Jeshimon".
@@ -2247,7 +2247,7 @@
 
 [^24-1]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
 [^24-2]: Hebrew *nechashim*: signs read in events or in nature to learn the future.
-[^24-3]: Hebrew *mashal*: a poem or saying, here a prophetic poem. Literally "he lifted up his *mashal*". Also in verses 15, 20, 21 and 23.
+[^24-3]: Hebrew *mashal*; see 23:7. Also in verses 15, 20, 21 and 23.
 [^24-4]: Hebrew *ne'um*, a word used to introduce the solemn words of a prophet. Also in verses 4, 15 and 16.
 [^24-5]: The meaning of the Hebrew word *shetum* is uncertain: "opened", or possibly "closed". Also in verse 15.
 [^24-6]: Hebrew *Shaddai*, traditionally "the Almighty"; the meaning is uncertain. Also in verse 16.
@@ -2301,13 +2301,13 @@
 
 **11** "Phinehas son of Eleazar, son of Aaron the priest, has turned my wrath away from the Israelites, because he was zealous with my zeal[^25-10] among them, so that I did not wipe out the Israelites in my zeal.
 
-**12** Therefore say: 'I am giving him my covenant of peace.[^25-11]
+**12** Therefore say: 'I am giving him my covenant of peace.
 
 **13** It will be for him and for his descendants after him a covenant of a permanent priesthood, because he was zealous for his God and made atonement for the Israelites.'"
 
 **14** The name of the Israelite man who was killed, who was killed with the Midianite woman, was Zimri son of Salu, the leader of an ancestral family of the Simeonites.
 
-**15** The name of the Midianite woman who was killed was Cozbi daughter of Zur. He was the tribal head of an ancestral family in Midian.[^25-12]
+**15** The name of the Midianite woman who was killed was Cozbi daughter of Zur. He was the tribal head of an ancestral family in Midian.[^25-11]
 
 **16** Yahweh said to Moses,
 
@@ -2315,7 +2315,7 @@
 
 **18** because they treated you as enemies by the tricks they used to deceive you in the matter of Peor, and in the matter of Cozbi, the daughter of a leader of Midian, their sister, who was killed on the day of the plague that came because of Peor."
 
-**19** After the plague,[^25-13]
+**19** After the plague,[^25-12]
 
 [^25-1]: The name means "acacia trees".
 [^25-2]: Hebrew *liznot*, "to prostitute themselves". The word is also used of unfaithfulness to Yahweh by worshiping other gods, which follows in verse 2.
@@ -2327,9 +2327,8 @@
 [^25-8]: Hebrew *qubbah*, a word found only here: perhaps an inner room of a tent, a vaulted tent, or a shrine.
 [^25-9]: Hebrew *qevatah*, "her belly" or "her stomach", which sounds like *qubbah* earlier in the verse.
 [^25-10]: Or "with my jealousy". The Hebrew word *qin'ah* means both zeal and jealousy. Also later in the verse and in verse 13.
-[^25-11]: Hebrew *beriti shalom*. In the Hebrew text the letter *vav* in *shalom* is traditionally written with a break in it.
-[^25-12]: Literally "He was head of the peoples of a father's house in Midian."
-[^25-13]: The sentence continues in 26:1. Verse 19 is the beginning of 26:1 in most English Bibles.
+[^25-11]: Literally "He was head of the peoples of a father's house in Midian."
+[^25-12]: The sentence continues in 26:1. Verse 19 is the beginning of 26:1 in most English Bibles.
 
 ## Chapter 26
 
@@ -2474,7 +2473,7 @@
 [^26-7]: Called Abiezer in Joshua 17:2.
 [^26-8]: The total at the first census was 603,550 (1:46).
 [^26-9]: Literally "whom she bore to Levi in Egypt". The mother is not named.
-[^26-10]: Hebrew *esh zarah*, "strange fire": fire that Yahweh had not commanded (Leviticus 10:1–2).
+[^26-10]: Hebrew *esh zarah*, "strange fire". See 3:4.
 [^26-11]: See 14:28–35.
 
 ## Chapter 27
@@ -2489,7 +2488,7 @@
 
 **4** Why should our father's name disappear from his clan because he had no son? Give us property among our father's brothers."
 
-**5** So Moses brought their case before Yahweh.
+**5** So Moses brought their case[^27-3] before Yahweh.
 
 **6** Yahweh said to Moses,
 
@@ -2501,45 +2500,46 @@
 
 **10** If he has no brothers, you are to give his inheritance to his father's brothers.
 
-**11** If his father has no brothers, you are to give his inheritance to the nearest relative in his clan, and he is to take possession of it.' This is to be a rule of law[^27-3] for the Israelites, as Yahweh commanded Moses."
+**11** If his father has no brothers, you are to give his inheritance to the nearest relative in his clan, and he is to take possession of it.' This is to be a rule of law[^27-4] for the Israelites, as Yahweh commanded Moses."
 
-**12** Yahweh said to Moses, "Go up this mountain in the Abarim range[^27-4] and look at the land that I have given to the Israelites.
+**12** Yahweh said to Moses, "Go up this mountain in the Abarim range[^27-5] and look at the land that I have given to the Israelites.
 
-**13** When you have seen it, you too will be gathered to your people,[^27-5] as Aaron your brother was gathered.
+**13** When you have seen it, you too will be gathered to your people,[^27-6] as Aaron your brother was gathered.
 
-**14** For in the wilderness of Zin, when the community quarreled, you both rebelled against my command[^27-6] to show my holiness at the waters before their eyes." These were the waters of Meribah at Kadesh, in the wilderness of Zin.
+**14** For in the wilderness of Zin, when the community quarreled, you both rebelled against my command[^27-7] to show my holiness at the waters before their eyes." These were the waters of Meribah at Kadesh, in the wilderness of Zin.
 
 **15** Moses spoke to Yahweh, saying,
 
-**16** "May Yahweh, the God of the spirits of all living beings,[^27-7] appoint a man over the community
+**16** "May Yahweh, the God of the spirits of all living beings,[^27-8] appoint a man over the community
 
-**17** who will go out before them and come in before them, who will lead them out and bring them in,[^27-8] so that Yahweh's community will not be like sheep that have no shepherd."
+**17** who will go out before them and come in before them, who will lead them out and bring them in,[^27-9] so that Yahweh's community will not be like sheep that have no shepherd."
 
-**18** Yahweh said to Moses, "Take Joshua son of Nun, a man in whom is the Spirit,[^27-9] and lay your hand on him.
+**18** Yahweh said to Moses, "Take Joshua son of Nun, a man in whom is the Spirit,[^27-10] and lay your hand on him.
 
 **19** Have him stand before Eleazar the priest and before the whole community, and commission him in their sight.
 
-**20** Give him some of your authority,[^27-10] so that the whole community of the Israelites will obey him.
+**20** Give him some of your authority,[^27-11] so that the whole community of the Israelites will obey him.
 
-**21** He is to stand before Eleazar the priest, who will ask for him the decision of the Urim[^27-11] before Yahweh. At his word[^27-12] they will go out, and at his word they will come in, he and all the Israelites with him, the whole community."
+**21** He is to stand before Eleazar the priest, who will ask for him the decision of the Urim[^27-12] before Yahweh. At his word[^27-13] they will go out, and at his word they will come in, he and all the Israelites with him, the whole community."
 
 **22** Moses did as Yahweh commanded him. He took Joshua and had him stand before Eleazar the priest and before the whole community.
 
-**23** He laid his hands on him and commissioned him, as Yahweh had said through Moses.[^27-13]
+**23** He laid his hands on him and commissioned him, as Yahweh had said through Moses.[^27-14]
 
 [^27-1]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
-[^27-2]: Literally "in his own sin he died": he died for his own sin, as one of the generation that died in the wilderness (14:29–35), and not for joining Korah's rebellion (chapter 16).
-[^27-3]: Literally "a statute of judgment".
-[^27-4]: Literally "this mountain of the Abarim". *Abarim* means "regions beyond" or "crossings": the mountains east of the Jordan. According to Deuteronomy 32:49 the mountain is Mount Nebo.
-[^27-5]: That is, die, joining your ancestors who had died before you.
-[^27-6]: Literally "my mouth".
-[^27-7]: Literally "of all flesh".
-[^27-8]: An expression for leading the people in all their affairs, especially in war.
-[^27-9]: Or "a man who has the spirit". The Hebrew does not say whether this is God's Spirit or Joshua's own spirit.
-[^27-10]: Hebrew *hod*, "splendor, majesty".
-[^27-11]: Hebrew *urim*, objects kept in the high priest's breastpiece and used to learn Yahweh's decision (Exodus 28:30; 1 Samuel 28:6). Literally "the judgment of the Urim".
-[^27-12]: Literally "at his mouth": the word given through Eleazar, or Eleazar's own command. Also later in the verse.
-[^27-13]: Literally "by the hand of Moses".
+[^27-2]: Literally "in his own sin he died": for his own sin, not for taking part in Korah's rebellion (chapter 16).
+[^27-3]: In the Hebrew text the last letter of this word is written large, a scribal tradition.
+[^27-4]: Literally "a statute of judgment".
+[^27-5]: Literally "this mountain of the Abarim". *Abarim* means "regions beyond" or "crossings": the mountains east of the Jordan. According to Deuteronomy 32:49 the mountain is Mount Nebo.
+[^27-6]: That is, die. See 20:24.
+[^27-7]: Literally "my mouth".
+[^27-8]: Literally "of all flesh".
+[^27-9]: An expression for leading the people in all their affairs, especially in war.
+[^27-10]: Or "a man who has the spirit". The Hebrew does not say whether this is God's Spirit or Joshua's own spirit.
+[^27-11]: Hebrew *hod*, "splendor, majesty".
+[^27-12]: Hebrew *urim*, objects kept in the high priest's breastpiece and used to learn Yahweh's decision (Exodus 28:30; 1 Samuel 28:6). Literally "the judgment of the Urim".
+[^27-13]: Literally "at his mouth": the word given through Eleazar, or Eleazar's own command. Also later in the verse.
+[^27-14]: Literally "by the hand of Moses".
 
 ## Chapter 28
 
@@ -2608,7 +2608,7 @@
 **31** Offer them, with their drink offerings, in addition to the regular burnt offering and its grain offering. They must be without defect.
 
 [^28-1]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
-[^28-2]: Hebrew *ishsheh*, traditionally "an offering made by fire", as if from *esh*, "fire". Some think it means "gift" or "food offering". Literally "my offering, my bread, for my offerings by fire".
+[^28-2]: Literally "my offering, my bread, for my offerings by fire". On *ishsheh*, "offering by fire", see 15:3.
 [^28-3]: Hebrew *tamid*, "continual": offered every day without fail. Also in verses 6, 10, 15, 23, 24 and 31.
 [^28-4]: Literally "between the two evenings", probably the time between sunset and dark. Also in verse 8.
 [^28-5]: Literally "a tenth of the ephah". A tenth of an ephah was about 2 quarts (2 liters).
@@ -2618,7 +2618,7 @@
 [^28-9]: Literally "at the heads of your months", the day of the new moon.
 [^28-10]: Literally "bulls, sons of the herd". Also in verses 19 and 27.
 [^28-11]: Literally "one he-goat of the goats". Also in verses 22 and 30.
-[^28-12]: Or "purification offering". Hebrew *chatta't*. Also in verse 22.
+[^28-12]: Or "purification offering" (see 6:11). Also in verse 22.
 [^28-13]: Hebrew *chag*: one of the three pilgrimage festivals (Exodus 23:14–17). This is the Festival of Unleavened Bread.
 [^28-14]: Literally "any work of labor": ordinary daily work. Also in verses 25 and 26.
 [^28-15]: Literally "in your weeks": the festival held seven weeks after the barley harvest began (Leviticus 23:15–16; Deuteronomy 16:9–10). It is also called the Festival of Harvest (Exodus 23:16).
@@ -2655,7 +2655,7 @@
 
 **14** With them offer their grain offering of fine flour mixed with oil: three tenths for each of the thirteen bulls, two tenths for each of the two rams,
 
-**15** and a tenth for each of the fourteen lambs;
+**15** and a tenth[^29-11] for each of the fourteen lambs;
 
 **16** and one male goat as a sin offering. These are in addition to the regular burnt offering, its grain offering and its drink offering.
 
@@ -2695,7 +2695,7 @@
 
 **34** and one male goat as a sin offering. These are in addition to the regular burnt offering, its grain offering and its drink offering.
 
-**35** "'On the eighth day you are to hold a closing assembly.[^29-11] Do no regular work.
+**35** "'On the eighth day you are to hold a closing assembly.[^29-12] Do no regular work.
 
 **36** Present a burnt offering, an offering by fire, a pleasing aroma to Yahweh: one bull, one ram and seven male lambs a year old, without defect,
 
@@ -2703,20 +2703,21 @@
 
 **38** and one male goat as a sin offering. These are in addition to the regular burnt offering and its grain offering and its drink offering.
 
-**39** "'These are what you are to offer to Yahweh at your appointed festivals, in addition to your vow offerings and your freewill offerings, whether burnt offerings, grain offerings, drink offerings or fellowship offerings.'"[^29-12]
+**39** "'These are what you are to offer to Yahweh at your appointed festivals, in addition to your vow offerings and your freewill offerings, whether burnt offerings, grain offerings, drink offerings or fellowship offerings.'"[^29-13]
 
 [^29-1]: Literally "any work of labor": ordinary daily work. Also in verses 12 and 35.
-[^29-2]: Hebrew *teru'ah*, a loud blast or shout, here probably of the ram's horn (Leviticus 23:24). This day later became the Jewish New Year (*Rosh Hashanah*).
+[^29-2]: Hebrew *teru'ah*, a loud blast or shout (see 10:5), here probably of the ram's horn (Leviticus 23:24). This day later became the Jewish New Year (*Rosh Hashanah*).
 [^29-3]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
 [^29-4]: Literally "a bull, a son of the herd". Also in verses 8, 13 and 17.
 [^29-5]: That is, tenths of an ephah. A tenth of an ephah was about 2 quarts (2 liters).
 [^29-6]: Literally "one he-goat of the goats".
-[^29-7]: Or "purification offering". Hebrew *chatta't*. Also in verses 11–38.
-[^29-8]: Hebrew *ishsheh*, traditionally "an offering made by fire", as if from *esh*, "fire". Some think it means "gift" or "food offering". Also in verses 13 and 36.
+[^29-7]: Or "purification offering" (see 6:11). Also in verses 11–38.
+[^29-8]: Hebrew *ishsheh*. See 15:3. Also in verses 13 and 36.
 [^29-9]: Literally "afflict your souls", usually understood as fasting and going without other comforts. This is the Day of Atonement (Leviticus 16:29–31; 23:27–32).
 [^29-10]: Hebrew *chatta't ha-kippurim*: the sin offering of the Day of Atonement (Leviticus 16:5–19).
-[^29-11]: Hebrew *atseret*, "assembly", perhaps "closing assembly", since it ends the festival season.
-[^29-12]: Hebrew *shelamim*, traditionally "peace offerings": sacrifices in which most of the meat was eaten by the worshipers.
+[^29-11]: In the Hebrew text a dot is written over one letter of this word, a scribal mark.
+[^29-12]: Hebrew *atseret*, "assembly", perhaps "closing assembly", since it ends the festival season.
+[^29-13]: Hebrew *shelamim*, traditionally "peace offerings" (see 6:14).
 
 ## Chapter 30
 
@@ -2777,7 +2778,7 @@
 
 **4** Send a thousand men from each tribe, from all the tribes of Israel, to the war."
 
-**5** So from the clans[^31-3] of Israel a thousand were provided from each tribe, twelve thousand men armed for war.
+**5** So from the clans[^31-3] of Israel a thousand were provided from each tribe, 12,000 men armed for war.
 
 **6** Moses sent them to the war, a thousand from each tribe, together with Phinehas son of Eleazar the priest, who took with him the holy objects[^31-4] and the trumpets for sounding the alarm.
 
@@ -2843,11 +2844,11 @@
 
 **37** and the tribute for Yahweh from the sheep and goats was 675;
 
-**38** 36,000 cattle, and the tribute from them for Yahweh was 72;
+**38** 36,000 cattle, and the tribute from them for Yahweh was seventy-two;
 
-**39** 30,500 donkeys, and the tribute from them for Yahweh was 61;
+**39** 30,500 donkeys, and the tribute from them for Yahweh was sixty-one;
 
-**40** and 16,000 people, and the tribute from them for Yahweh was 32 people.
+**40** and 16,000 people, and the tribute from them for Yahweh was thirty-two people.
 
 **41** Moses gave the tribute, Yahweh's contribution, to Eleazar the priest, as Yahweh had commanded Moses.
 
@@ -2878,8 +2879,8 @@
 **54** Moses and Eleazar the priest received the gold from the commanders of thousands and of hundreds and brought it into the tent of meeting as a reminder[^31-20] for the Israelites before Yahweh.
 
 [^31-1]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
-[^31-2]: That is, you will die, and join your ancestors who died before you.
-[^31-3]: Literally "the thousands". Hebrew *eleph* means "thousand", but it is also used of a clan or of a military unit.
+[^31-2]: That is, you will die. See 20:24.
+[^31-3]: Literally "the thousands" (see 1:16).
 [^31-4]: Literally "the vessels of the holiness". The text does not say what they were.
 [^31-5]: Literally "upon their slain".
 [^31-6]: Hebrew *tirot*, perhaps walled camps or circles of tents.
@@ -2892,7 +2893,7 @@
 [^31-13]: Literally "lift up the head of".
 [^31-14]: Hebrew *mekhes*, a tax or levy. Also in verses 37–41.
 [^31-15]: Hebrew *tson*, the flock: sheep and goats together. Also in verses 30–43.
-[^31-16]: Hebrew *terumah*, traditionally "heave offering". Also in verses 41 and 52.
+[^31-16]: Hebrew *terumah* (see 5:9). Also in verses 41 and 52.
 [^31-17]: Literally "the thousands".
 [^31-18]: Hebrew *kumaz*, of uncertain meaning: perhaps a pendant or necklace.
 [^31-19]: A shekel was about 2/5 ounce (11.5 grams), so this was about 420 pounds (190 kilograms).
@@ -3121,7 +3122,7 @@
 [^33-4]: Literally "Moses wrote down their goings out by their journeys at the mouth of Yahweh, and these are their journeys by their goings out."
 [^33-5]: Literally "with a high hand": confidently, in triumph.
 [^33-6]: Here the name appears as Hahiroth, without the *Pi-* of verse 7.
-[^33-7]: Hebrew *Yam Suf*, literally "Sea of Reeds", traditionally the Red Sea. Also in verse 11.
+[^33-7]: Hebrew *Yam Suf* (see 14:25). Also in verse 11.
 [^33-8]: See 21:1–3.
 [^33-9]: A short form of Iye-abarim (verse 44).
 [^33-10]: Hebrew *maskiyyot*: stones carved with figures, set up for worship.
@@ -3279,7 +3280,7 @@
 [^35-4]: How the measurements of verses 4 and 5 fit together is not explained.
 [^35-5]: Hebrew *rotseach*, a word used both of someone who kills by accident, as here, and of a murderer (verses 16–21 and 30–31).
 [^35-6]: Hebrew *bishgagah*, "by mistake, inadvertently": without intending to. Also in verse 15.
-[^35-7]: Hebrew *go'el*, "redeemer": the nearest relative, whose duty was to protect the family's rights. Here he is the one who avenges a death; in verses 19–27, "the avenger of blood".
+[^35-7]: Hebrew *go'el*, the nearest relative (see 5:8). Here he is the one who avenges a death; in verses 19–27, "the avenger of blood".
 [^35-8]: Literally "with lying in wait": deliberately.
 [^35-9]: Literally "there is no blood for him".
 [^35-10]: Literally "a statute of judgment".

@@ -17,13 +17,13 @@
 
 **5** East of the Jordan, in the land of Moab, Moses began to explain this law.[^1-7] He said:[^1-8]
 
-**6** Yahweh our God spoke to us at Horeb. He said, "You have stayed at this mountain long enough.
+**6** "Yahweh our God spoke to us at Horeb. He said, 'You have stayed at this mountain long enough.
 
 **7** Turn and set out. Go to the hill country of the Amorites and to all their neighbors in the Arabah, in the hill country, in the western foothills,[^1-9] in the Negev[^1-10] and along the seacoast: the land of the Canaanites, and Lebanon, as far as the great river, the river Euphrates.
 
-**8** See, I have set the land before you. Go in and take possession of the land that Yahweh swore to give to your ancestors,[^1-11] to Abraham, to Isaac and to Jacob, and to their descendants after them."
+**8** See, I have set the land before you. Go in and take possession of the land that Yahweh swore to give to your ancestors,[^1-11] to Abraham, to Isaac and to Jacob, and to their descendants after them.'
 
-**9** At that time I said to you, "I cannot carry you by myself.
+**9** At that time I said to you, 'I cannot carry you by myself.
 
 **10** Yahweh your God has multiplied you, and here you are today, as many as the stars of the sky.
 
@@ -31,43 +31,43 @@
 
 **12** How can I bear by myself the weight of you, the burden of you and your quarrels?
 
-**13** Choose[^1-12] wise, discerning and respected[^1-13] men from each of your tribes, and I will make them your leaders."
+**13** Choose[^1-12] wise, discerning and respected[^1-13] men from each of your tribes, and I will make them your leaders.'
 
-**14** You answered me, "What you have told us to do is good."
+**14** You answered me, 'What you have told us to do is good.'
 
 **15** So I took the leaders of your tribes, wise and respected men, and made them leaders over you: commanders of thousands, commanders of hundreds, commanders of fifties and commanders of tens, and officials[^1-14] for your tribes.
 
-**16** At that time I gave your judges this command: "Hear the disputes between your fellow Israelites,[^1-15] and judge fairly between one person and another, whether a fellow Israelite or a foreigner who lives among you.[^1-16]
+**16** At that time I gave your judges this command: 'Hear the disputes between your fellow Israelites,[^1-15] and judge fairly between one person and another, whether a fellow Israelite or a foreigner who lives among you.[^1-16]
 
-**17** Do not show partiality in judging.[^1-17] Hear the small and the great alike. Do not be afraid of anyone, for judgment belongs to God. Bring to me any case that is too hard for you, and I will hear it."
+**17** Do not show partiality in judging.[^1-17] Hear the small and the great alike. Do not be afraid of anyone, for judgment belongs to God. Bring to me any case that is too hard for you, and I will hear it.'
 
 **18** At that time I commanded you all the things you were to do.
 
 **19** Then we set out from Horeb and went through all that great and terrible wilderness that you saw, on the way to the hill country of the Amorites, as Yahweh our God had commanded us. And we came to Kadesh-barnea.
 
-**20** I said to you, "You have come to the hill country of the Amorites, which Yahweh our God is giving us.
+**20** I said to you, 'You have come to the hill country of the Amorites, which Yahweh our God is giving us.
 
-**21** See, Yahweh your God has set the land before you.[^1-18] Go up and take possession of it, as Yahweh, the God of your ancestors, has told you. Do not be afraid or discouraged."
+**21** See, Yahweh your God has set the land before you.[^1-18] Go up and take possession of it, as Yahweh, the God of your ancestors, has told you. Do not be afraid or discouraged.'
 
-**22** Then all of you came to me and said, "Let us send men ahead of us to explore the land for us. Let them bring us back a report about the route we should take up and the cities we will come to."
+**22** Then all of you came to me and said, 'Let us send men ahead of us to explore the land for us. Let them bring us back a report about the route we should take up and the cities we will come to.'
 
 **23** The idea seemed good to me, so I took twelve men from among you, one man from each tribe.
 
 **24** They turned and went up into the hill country and came to the Valley of Eshcol,[^1-19] and they spied out the land.
 
-**25** They took some of the fruit of the land in their hands and brought it down to us. They brought us back a report and said, "The land that Yahweh our God is giving us is good."
+**25** They took some of the fruit of the land in their hands and brought it down to us. They brought us back a report and said, 'The land that Yahweh our God is giving us is good.'
 
 **26** But you were not willing to go up. You rebelled against the command[^1-20] of Yahweh your God.
 
-**27** You grumbled in your tents and said, "Yahweh hates us. That is why he brought us out of the land of Egypt, to hand us over to the Amorites to destroy us.
+**27** You grumbled in your tents and said, 'Yahweh hates us. That is why he brought us out of the land of Egypt, to hand us over to the Amorites to destroy us.
 
-**28** Where can we go up to? Our brothers have made our hearts melt.[^1-21] They say, 'The people are bigger and taller than we are. The cities are large, with walls up to the sky.[^1-22] And we even saw the Anakim[^1-23] there.'"
+**28** Where can we go up to? Our brothers have made our hearts melt.[^1-21] They say, "The people are bigger and taller than we are. The cities are large, with walls up to the sky.[^1-22] And we even saw the Anakim[^1-23] there."'
 
-**29** Then I said to you, "Do not be terrified or afraid of them.
+**29** Then I said to you, 'Do not be terrified or afraid of them.
 
 **30** Yahweh your God, who is going ahead of you, will himself fight for you, just as he did for you in Egypt before your eyes,
 
-**31** and in the wilderness. There you saw how Yahweh your God carried you, as a man carries his son, all the way you went until you came to this place."
+**31** and in the wilderness. There you saw how Yahweh your God carried you, as a man carries his son, all the way you went until you came to this place.'
 
 **32** Yet in spite of this,[^1-24] you did not trust Yahweh your God,
 
@@ -75,21 +75,21 @@
 
 **34** When Yahweh heard what you said,[^1-25] he was angry, and he swore,
 
-**35** "Not one of these men, this evil generation, will see the good land that I swore to give to your ancestors,
+**35** 'Not one of these men, this evil generation, will see the good land that I swore to give to your ancestors,
 
-**36** except Caleb son of Jephunneh. He will see it, and I will give him and his children the land he has walked on, because he followed Yahweh completely."[^1-26]
+**36** except Caleb son of Jephunneh. He will see it, and I will give him and his children the land he has walked on, because he followed Yahweh completely.'[^1-26]
 
-**37** Because of you, Yahweh was angry with me too. He said, "You will not enter it either.
+**37** Because of you, Yahweh was angry with me too. He said, 'You will not enter it either.
 
 **38** Joshua son of Nun, who serves you,[^1-27] will enter it. Encourage him, for he will lead Israel to take possession of it.[^1-28]
 
 **39** And your little ones, who you said would be taken as plunder, and your children, who today do not yet know good from bad, they will enter it. I will give it to them, and they will take possession of it.
 
-**40** But as for you, turn around and set out for the wilderness, by the road to the Red Sea."[^1-29]
+**40** But as for you, turn around and set out for the wilderness, by the road to the Red Sea.'[^1-29]
 
-**41** Then you answered me, "We have sinned against Yahweh. We will go up and fight, just as Yahweh our God commanded us." Each of you put on his weapons, and you thought it easy[^1-30] to go up into the hill country.
+**41** Then you answered me, 'We have sinned against Yahweh. We will go up and fight, just as Yahweh our God commanded us.' Each of you put on his weapons, and you thought it easy[^1-30] to go up into the hill country.
 
-**42** But Yahweh said to me, "Tell them, 'Do not go up and do not fight, for I am not with you.[^1-31] You will be defeated by your enemies.'"
+**42** But Yahweh said to me, 'Tell them, "Do not go up and do not fight, for I am not with you.[^1-31] You will be defeated by your enemies."'
 
 **43** So I told you, but you would not listen. You rebelled against Yahweh's command, and in your arrogance you went up into the hill country.
 
@@ -106,7 +106,7 @@
 [^1-5]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
 [^1-6]: Edrei is where Og was defeated (3:1). Compare Joshua 12:4, "who lived in Ashtaroth and in Edrei".
 [^1-7]: Hebrew *torah*, "instruction, law". The verb *be'er*, "explain", means to make something plain (compare 27:8).
-[^1-8]: Moses' first speech runs from here to 4:40. As in many English Bibles, his long speeches in Deuteronomy are not put inside quotation marks.
+[^1-8]: Moses' first speech runs from verse 6 to 4:40.
 [^1-9]: Hebrew *shephelah*: the low hills between the central hill country and the coastal plain.
 [^1-10]: The dry country in the south of the land.
 [^1-11]: Literally "fathers"; also in verses 11, 21 and 35.
@@ -136,23 +136,23 @@
 
 *Status: draft*
 
-**1** Then we turned and set out for the wilderness by the road to the Red Sea,[^2-1] as Yahweh[^2-2] had told me. For a long time we went around the hill country of Seir.
+**1** "Then we turned and set out for the wilderness by the road to the Red Sea,[^2-1] as Yahweh[^2-2] had told me. For a long time we went around the hill country of Seir.
 
 **2** Then Yahweh said to me,
 
-**3** "You have been going around this hill country long enough. Turn north.
+**3** 'You have been going around this hill country long enough. Turn north.
 
-**4** Give the people this command: 'You are about to pass through the territory of your relatives,[^2-3] the descendants of Esau, who live in Seir. They will be afraid of you, but be very careful.
+**4** Give the people this command: "You are about to pass through the territory of your relatives,[^2-3] the descendants of Esau, who live in Seir. They will be afraid of you, but be very careful.
 
 **5** Do not start a fight with them, for I will not give you any of their land, not even enough to put your foot on.[^2-4] I have given the hill country of Seir to Esau as his possession.
 
 **6** You are to buy food from them with money, so that you may eat, and you are also to buy water from them with money, so that you may drink.
 
-**7** For Yahweh your God has blessed you in all the work of your hands. He has watched over your journey[^2-5] through this great wilderness. For these forty years Yahweh your God has been with you, and you have not lacked anything.'"
+**7** For Yahweh your God has blessed you in all the work of your hands. He has watched over your journey[^2-5] through this great wilderness. For these forty years Yahweh your God has been with you, and you have not lacked anything."'
 
 **8** So we went on past our relatives, the descendants of Esau, who live in Seir, away from the Arabah road, away from Elath and Ezion-geber. Then we turned and went along the road to the wilderness of Moab.
 
-**9** Yahweh said to me, "Do not harass Moab or start a war with them, for I will not give you any of their land as a possession. I have given Ar[^2-6] to the descendants of Lot[^2-7] as their possession."
+**9** Yahweh said to me, 'Do not harass Moab or start a war with them, for I will not give you any of their land as a possession. I have given Ar[^2-6] to the descendants of Lot[^2-7] as their possession.'
 
 **10** (The Emim used to live there, a people great and numerous, and as tall as the Anakim.
 
@@ -160,7 +160,7 @@
 
 **12** The Horites also used to live in Seir, but the descendants of Esau drove them out. They destroyed them and settled in their place, just as Israel did in the land that Yahweh gave them as their possession.)
 
-**13** "Now get up and cross the Zered Valley."[^2-9] So we crossed the Zered Valley.
+**13** 'Now get up and cross the Zered Valley.'[^2-9] So we crossed the Zered Valley.
 
 **14** From the time we left Kadesh-barnea until we crossed the Zered Valley was thirty-eight years, until the whole generation of fighting men had died out from the camp, as Yahweh had sworn to them.
 
@@ -170,9 +170,9 @@
 
 **17** Yahweh said to me,
 
-**18** "Today you are to cross the border of Moab at Ar.
+**18** 'Today you are to cross the border of Moab at Ar.
 
-**19** When you come near the Ammonites,[^2-10] do not harass them or start a fight with them, for I will not give you any of the land of the Ammonites as a possession. I have given it to the descendants of Lot as their possession."
+**19** When you come near the Ammonites,[^2-10] do not harass them or start a fight with them, for I will not give you any of the land of the Ammonites as a possession. I have given it to the descendants of Lot as their possession.'
 
 **20** (That too was counted as a land of the Rephaim. Rephaim used to live there, but the Ammonites call them Zamzummim,
 
@@ -182,21 +182,21 @@
 
 **23** And as for the Avvim, who lived in villages as far as Gaza, the Caphtorim, who came from Caphtor,[^2-12] destroyed them and settled in their place.)
 
-**24** "Get up, set out and cross the Arnon Valley. See, I have handed over to you Sihon the Amorite, king of Heshbon, and his land. Begin to take possession of it. Go to war against him.
+**24** 'Get up, set out and cross the Arnon Valley. See, I have handed over to you Sihon the Amorite, king of Heshbon, and his land. Begin to take possession of it. Go to war against him.
 
-**25** This very day I will begin to put the dread and fear of you on the peoples everywhere under heaven. When they hear the report of you, they will tremble and be in anguish because of you."
+**25** This very day I will begin to put the dread and fear of you on the peoples everywhere under heaven. When they hear the report of you, they will tremble and be in anguish because of you.'
 
 **26** So I sent messengers from the wilderness of Kedemoth to Sihon king of Heshbon with an offer of peace.[^2-13] I said,
 
-**27** "Let me pass through your land. I will keep strictly to the road.[^2-14] I will not turn aside to the right or to the left.
+**27** 'Let me pass through your land. I will keep strictly to the road.[^2-14] I will not turn aside to the right or to the left.
 
 **28** Sell me food for money, so that I may eat, and give me water for money, so that I may drink. Only let me pass through on foot,
 
-**29** as the descendants of Esau who live in Seir and the Moabites who live in Ar did for me, until I cross the Jordan into the land that Yahweh our God is giving us."
+**29** as the descendants of Esau who live in Seir and the Moabites who live in Ar did for me, until I cross the Jordan into the land that Yahweh our God is giving us.'
 
 **30** But Sihon king of Heshbon was not willing to let us pass through his land,[^2-15] for Yahweh your God had made his spirit stubborn and his heart hard, to hand him over to you, as he has now done.[^2-16]
 
-**31** Yahweh said to me, "See, I have begun to hand Sihon and his land over to you. Begin to take possession, so that you may possess his land."
+**31** Yahweh said to me, 'See, I have begun to hand Sihon and his land over to you. Begin to take possession, so that you may possess his land.'
 
 **32** Then Sihon came out against us, he and all his people, to fight at Jahaz.
 
@@ -236,9 +236,9 @@
 
 *Status: draft*
 
-**1** Then we turned and went up the road to Bashan, and Og king of Bashan came out against us, he and all his people, to fight at Edrei.
+**1** "Then we turned and went up the road to Bashan, and Og king of Bashan came out against us, he and all his people, to fight at Edrei.
 
-**2** Yahweh[^3-1] said to me, "Do not be afraid of him, for I have handed him over to you, with all his people and his land. Do to him what you did to Sihon king of the Amorites, who lived in Heshbon."
+**2** Yahweh[^3-1] said to me, 'Do not be afraid of him, for I have handed him over to you, with all his people and his land. Do to him what you did to Sihon king of the Amorites, who lived in Heshbon.'
 
 **3** So Yahweh our God also handed over to us Og king of Bashan and all his people. We struck him down until no survivor was left to him.
 
@@ -270,27 +270,27 @@
 
 **17** Their territory also included the Arabah, with the Jordan as its border, from Kinnereth[^3-12] to the Sea of the Arabah, the Salt Sea,[^3-13] below the slopes of Pisgah on the east.
 
-**18** At that time I commanded you, "Yahweh your God has given you this land to possess. All your fighting men[^3-14] are to cross over armed ahead of your fellow Israelites.[^3-15]
+**18** At that time I commanded you, 'Yahweh your God has given you this land to possess. All your fighting men[^3-14] are to cross over armed ahead of your fellow Israelites.[^3-15]
 
 **19** Only your wives, your little ones and your livestock (I know you have a great deal of livestock) may stay in the towns I have given you,
 
-**20** until Yahweh gives your relatives rest as he has given you, and they too take possession of the land that Yahweh your God is giving them on the other side of the Jordan.[^3-16] Then each of you may return to the possession I have given you."
+**20** until Yahweh gives your relatives rest as he has given you, and they too take possession of the land that Yahweh your God is giving them on the other side of the Jordan.[^3-16] Then each of you may return to the possession I have given you.'
 
-**21** At that time I commanded Joshua, "Your own eyes have seen everything Yahweh your God has done to these two kings. Yahweh will do the same to all the kingdoms you are crossing over into.
+**21** At that time I commanded Joshua, 'Your own eyes have seen everything Yahweh your God has done to these two kings. Yahweh will do the same to all the kingdoms you are crossing over into.
 
-**22** Do not be afraid of them, for Yahweh your God is the one who fights for you."
+**22** Do not be afraid of them, for Yahweh your God is the one who fights for you.'
 
 **23** At that time I pleaded with Yahweh:
 
-**24** "Lord Yahweh,[^3-17] you have begun to show your servant your greatness and your mighty hand. What god is there in heaven or on earth who can do deeds and mighty acts like yours?
+**24** 'Lord Yahweh,[^3-17] you have begun to show your servant your greatness and your mighty hand. What god is there in heaven or on earth who can do deeds and mighty acts like yours?
 
-**25** Please let me cross over and see the good land on the other side of the Jordan, that good hill country, and Lebanon."
+**25** Please let me cross over and see the good land on the other side of the Jordan, that good hill country, and Lebanon.'
 
-**26** But Yahweh was angry with me because of you, and he would not listen to me. Yahweh said to me, "That is enough![^3-18] Do not speak to me about this matter again.
+**26** But Yahweh was angry with me because of you, and he would not listen to me. Yahweh said to me, 'That is enough![^3-18] Do not speak to me about this matter again.
 
 **27** Go up to the top of Pisgah and look west, north, south and east.[^3-19] See it with your own eyes, for you will not cross this Jordan.
 
-**28** Give Joshua his orders. Encourage him and strengthen him, for he will cross over at the head of this people, and he will lead them to take possession of the land that you will see."
+**28** Give Joshua his orders. Encourage him and strengthen him, for he will cross over at the head of this people, and he will lead them to take possession of the land that you will see.'
 
 **29** So we stayed in the valley opposite Beth-peor.
 
@@ -318,7 +318,7 @@
 
 *Status: draft*
 
-**1** Now, Israel, listen to the statutes and the rulings[^4-1] that I am teaching you to follow, so that you may live, and go in and take possession of the land that Yahweh,[^4-2] the God of your ancestors,[^4-3] is giving you.
+**1** "Now, Israel, listen to the statutes and the rulings[^4-1] that I am teaching you to follow, so that you may live, and go in and take possession of the land that Yahweh,[^4-2] the God of your ancestors,[^4-3] is giving you.
 
 **2** Do not add anything to what I command you, and do not take anything away from it. Keep the commandments of Yahweh your God that I am giving you.
 
@@ -328,7 +328,7 @@
 
 **5** See, I have taught you statutes and rulings, as Yahweh my God commanded me, so that you may follow them in the land you are entering to take possession of.
 
-**6** Keep them and follow them, for this will show your wisdom and understanding to the peoples.[^4-5] When they hear about all these statutes, they will say, "Surely this great nation is a wise and understanding people."
+**6** Keep them and follow them, for this will show your wisdom and understanding to the peoples.[^4-5] When they hear about all these statutes, they will say, 'Surely this great nation is a wise and understanding people.'
 
 **7** For what great nation has a god[^4-6] so near to it as Yahweh our God is to us whenever we call on him?
 
@@ -336,7 +336,7 @@
 
 **9** Only be careful, and watch yourselves closely,[^4-7] so that you do not forget the things your eyes have seen, and so that they do not slip from your heart[^4-8] as long as you live. Make them known to your children and your grandchildren:
 
-**10** the day you stood before Yahweh your God at Horeb, when Yahweh said to me, "Assemble the people for me, and I will let them hear my words, so that they may learn to fear me as long as they live on the earth, and may teach their children."
+**10** the day you stood before Yahweh your God at Horeb, when Yahweh said to me, 'Assemble the people for me, and I will let them hear my words, so that they may learn to fear me as long as they live on the earth, and may teach their children.'
 
 **11** You came near and stood at the foot of the mountain, while the mountain blazed with fire up to the heart of the sky,[^4-9] with darkness, cloud and thick gloom.
 
@@ -396,7 +396,7 @@
 
 **39** So know today, and take it to heart, that Yahweh is God in heaven above and on the earth below. There is no other.
 
-**40** Keep his statutes and his commandments, which I am giving you today, so that it may go well with you and with your children after you, and so that you may live long in the land that Yahweh your God is giving you for all time.
+**40** Keep his statutes and his commandments, which I am giving you today, so that it may go well with you and with your children after you, and so that you may live long in the land that Yahweh your God is giving you for all time."
 
 **41** Then Moses set apart three cities east of the Jordan,[^4-28] toward the sunrise,
 
@@ -455,7 +455,7 @@
 
 *Status: draft*
 
-**1** Moses summoned all Israel and said to them:[^5-1] Hear, Israel, the statutes and the rulings[^5-2] that I am speaking in your hearing today. Learn them and be careful to follow them.
+**1** Moses summoned all Israel and said to them,[^5-1] "Hear, Israel, the statutes and the rulings[^5-2] that I am speaking in your hearing today. Learn them and be careful to follow them.
 
 **2** Yahweh[^5-3] our God made a covenant with us at Horeb.
 
@@ -465,7 +465,7 @@
 
 **5** At that time I was standing between Yahweh and you to tell you the word of Yahweh, because you were afraid of the fire and did not go up the mountain. He said:
 
-**6** "I am Yahweh your God, who brought you out of the land of Egypt, out of the house of slavery.[^5-5]
+**6** 'I am Yahweh your God, who brought you out of the land of Egypt, out of the house of slavery.[^5-5]
 
 **7** Do not have any other gods besides me.[^5-6]
 
@@ -495,33 +495,33 @@
 
 **20** Do not give false testimony against your neighbor.[^5-21]
 
-**21** Do not covet your neighbor's wife. Do not desire your neighbor's house, his field, his male or female slave, his ox or his donkey, or anything that belongs to your neighbor."[^5-22]
+**21** Do not covet your neighbor's wife. Do not desire your neighbor's house, his field, his male or female slave, his ox or his donkey, or anything that belongs to your neighbor.'[^5-22]
 
 **22** These are the words that Yahweh spoke with a loud voice to your whole assembly at the mountain, out of the fire, the cloud and the thick darkness, and he added nothing more.[^5-23] He wrote them on two stone tablets and gave them to me.
 
 **23** When you heard the voice out of the darkness, while the mountain was blazing with fire, all the heads of your tribes and your elders came to me
 
-**24** and said, "Yahweh our God has shown us his glory and his greatness, and we have heard his voice out of the fire. Today we have seen that God can speak with a human being and that person still live.
+**24** and said, 'Yahweh our God has shown us his glory and his greatness, and we have heard his voice out of the fire. Today we have seen that God can speak with a human being and that person still live.
 
 **25** But now, why should we die? This great fire will consume us. If we hear the voice of Yahweh our God any longer, we will die.
 
 **26** For who among all humankind[^5-24] has heard the voice of the living God speaking out of fire, as we have, and lived?
 
-**27** You go near and listen to everything that Yahweh our God says. Then tell us everything that Yahweh our God tells you, and we will listen and do it."
+**27** You go near and listen to everything that Yahweh our God says. Then tell us everything that Yahweh our God tells you, and we will listen and do it.'
 
-**28** Yahweh heard what you said[^5-25] when you spoke to me, and Yahweh said to me, "I have heard what this people said to you. Everything they have said is good.
+**28** Yahweh heard what you said[^5-25] when you spoke to me, and Yahweh said to me, 'I have heard what this people said to you. Everything they have said is good.
 
 **29** If only they would always have a heart like this, to fear me and keep all my commandments, so that it might go well with them and with their children forever!
 
-**30** Go and tell them, 'Return to your tents.'
+**30** Go and tell them, "Return to your tents."
 
-**31** But you, stand here with me, and I will tell you all the commandments,[^5-26] the statutes and the rulings that you are to teach them, so that they may follow them in the land that I am giving them to possess."
+**31** But you, stand here with me, and I will tell you all the commandments,[^5-26] the statutes and the rulings that you are to teach them, so that they may follow them in the land that I am giving them to possess.'
 
 **32** So be careful to do as Yahweh your God has commanded you. Do not turn aside to the right or to the left.
 
 **33** Walk in all the way that Yahweh your God has commanded you, so that you may live and prosper, and live long in the land you will possess.
 
-[^5-1]: Moses' second speech begins here. It continues, with the laws of chapters 12–26, to the end of chapter 28.
+[^5-1]: Moses' second speech begins here. It continues through the laws of chapters 12–26, which are set without quotation marks, and ends at 26:19.
 [^5-2]: Hebrew *chuqqim*, "statutes, decrees", and *mishpatim*, "judgments, rulings".
 [^5-3]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
 [^5-4]: Literally "fathers".
@@ -552,47 +552,47 @@
 
 *Status: draft*
 
-**1** This is the commandment, the statutes and the rulings, that Yahweh[^6-1] your God commanded me to teach you, for you to follow in the land you are crossing over into to take possession of,
+**1** "This is the commandment, the statutes and the rulings, that Yahweh[^6-1] your God commanded me to teach you, for you to follow in the land you are crossing over into to take possession of,
 
 **2** so that you may fear Yahweh your God all the days of your life, you and your children and your grandchildren, by keeping all his statutes and his commandments that I am giving you, and so that you may live long.
 
 **3** Listen, Israel, and be careful to follow them, so that it may go well with you and you may increase greatly in number, as Yahweh, the God of your ancestors,[^6-2] has promised you, in a land flowing with milk and honey.[^6-3]
 
-**4** Hear, Israel: Yahweh our God, Yahweh is one.[^6-4]
+**4** Hear, Israel: Yahweh our God, Yahweh is one.[^6-4][^6-5]
 
-**5** You shall love Yahweh your God with all your heart, with all your soul, and with all your strength.[^6-5]
+**5** You shall love Yahweh your God with all your heart, with all your soul, and with all your strength.[^6-6]
 
 **6** These words that I am commanding you today are to be on your heart.
 
-**7** Impress them on your children.[^6-6] Talk about them when you sit in your house and when you walk along the road, when you lie down and when you get up.
+**7** Impress them on your children.[^6-7] Talk about them when you sit in your house and when you walk along the road, when you lie down and when you get up.
 
-**8** Tie them as a sign on your hand, and let them be a band on your forehead.[^6-7]
+**8** Tie them as a sign on your hand, and let them be a band on your forehead.[^6-8]
 
-**9** Write them on the doorposts of your house and on your gates.[^6-8]
+**9** Write them on the doorposts of your house and on your gates.[^6-9]
 
 **10** Yahweh your God will bring you into the land he swore to your ancestors, to Abraham, to Isaac and to Jacob, to give you: a land with large and fine cities that you did not build,
 
 **11** houses full of all kinds of good things that you did not fill, cisterns cut in the rock that you did not dig, and vineyards and olive trees that you did not plant. When you eat and are satisfied,
 
-**12** be careful not to forget Yahweh, who brought you out of the land of Egypt, out of the house of slavery.[^6-9]
+**12** be careful not to forget Yahweh, who brought you out of the land of Egypt, out of the house of slavery.[^6-10]
 
-**13** Fear Yahweh your God. Serve him, and swear by his name.[^6-10]
+**13** Fear Yahweh your God. Serve him, and swear by his name.[^6-11]
 
 **14** Do not follow other gods, the gods of the peoples around you,
 
-**15** for Yahweh your God, who is among you, is a jealous God.[^6-11] Otherwise the anger of Yahweh your God will burn against you, and he will wipe you off the face of the earth.
+**15** for Yahweh your God, who is among you, is a jealous God.[^6-12] Otherwise the anger of Yahweh your God will burn against you, and he will wipe you off the face of the earth.
 
-**16** Do not put Yahweh your God to the test as you tested him at Massah.[^6-12]
+**16** Do not put Yahweh your God to the test as you tested him at Massah.[^6-13]
 
-**17** Be sure to keep the commandments of Yahweh your God, and the decrees[^6-13] and statutes he has commanded you.
+**17** Be sure to keep the commandments of Yahweh your God, and the decrees[^6-14] and statutes he has commanded you.
 
 **18** Do what is right and good in the eyes of Yahweh, so that it may go well with you, and so that you may go in and take possession of the good land that Yahweh swore to give your ancestors,
 
 **19** by driving out all your enemies before you, as Yahweh has promised.
 
-**20** In the future,[^6-14] when your son asks you, "What is the meaning of the decrees, the statutes and the rulings that Yahweh our God has commanded you?"
+**20** In the future,[^6-15] when your son asks you, 'What is the meaning of the decrees, the statutes and the rulings that Yahweh our God has commanded you?'
 
-**21** then tell your son, "We were Pharaoh's slaves in Egypt, but Yahweh brought us out of Egypt with a mighty hand.
+**21** then tell your son, 'We were Pharaoh's slaves in Egypt, but Yahweh brought us out of Egypt with a mighty hand.
 
 **22** Before our eyes Yahweh did great and terrible signs and wonders against Egypt, against Pharaoh and against all his household.
 
@@ -600,29 +600,30 @@
 
 **24** Yahweh commanded us to follow all these statutes and to fear Yahweh our God, for our own good always, so that he might keep us alive, as we are today.
 
-**25** And it will be righteousness for us[^6-15] if we are careful to follow all this commandment before Yahweh our God, as he has commanded us."
+**25** And it will be righteousness for us[^6-16] if we are careful to follow all this commandment before Yahweh our God, as he has commanded us.'
 
 [^6-1]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
 [^6-2]: Literally "fathers"; also in verses 10, 18 and 23.
 [^6-3]: Literally "as Yahweh, the God of your fathers, has spoken to you: a land flowing with milk and honey". A land rich in pasture for flocks and herds, and in honey, either from bees or a syrup made from dates.
 [^6-4]: Or "Yahweh is our God, Yahweh alone", or "Yahweh our God is one Yahweh". The Hebrew has four words, "Yahweh our-God Yahweh one". Verses 4–9 are the opening of the *Shema* (Hebrew "Hear"), and Jesus quotes verses 4–5 in Mark 12:29–30.
-[^6-5]: Hebrew *levav*, "heart", the center of thought and will as well as feeling; *nephesh*, "life, self, soul"; and *me'od*, literally "muchness", all your might and all you have. Mark 12:30 adds "with all your mind".
-[^6-6]: Hebrew *shinnen*, "sharpen": to teach by repeating.
-[^6-7]: Literally "and they shall be *totaphot* between your eyes". *Totaphot* is a word of uncertain meaning, probably a band or emblem worn on the forehead. Later Jewish practice understood this verse and 11:18 literally, in the wearing of *tefillin* (phylacteries).
-[^6-8]: Later Jewish practice fixes a small scroll with these words, called a *mezuzah* ("doorpost"), to the doorposts of homes.
-[^6-9]: Literally "house of slaves".
-[^6-10]: Jesus quotes this verse, in a form close to the Greek Septuagint, in Matthew 4:10 and Luke 4:8.
-[^6-11]: Hebrew *el qanna*: a God who will not share his people's devotion with any other.
-[^6-12]: *Massah* means "testing" (Exodus 17:1–7). Jesus quotes the first part of this verse in Matthew 4:7 and Luke 4:12.
-[^6-13]: Hebrew *edot*, "testimonies, witnesses": the solemn terms of the covenant. Also in verse 20.
-[^6-14]: Literally "Tomorrow".
-[^6-15]: Or "This will be counted to us as righteousness".
+[^6-5]: In the Hebrew text, the last letter of the first word (*shema*, "hear") and of the last word (*echad*, "one") are written large, a scribal mark. Together the two letters spell *ed*, "witness".
+[^6-6]: Hebrew *levav*, "heart", the center of thought and will as well as feeling; *nephesh*, "life, self, soul"; and *me'od*, literally "muchness", all your might and all you have. Mark 12:30 adds "with all your mind".
+[^6-7]: Hebrew *shinnen*, "sharpen": to teach by repeating.
+[^6-8]: Literally "and they shall be *totaphot* between your eyes". *Totaphot* is a word of uncertain meaning, probably a band or emblem worn on the forehead. Later Jewish practice understood this verse and 11:18 literally, in the wearing of *tefillin* (phylacteries).
+[^6-9]: Later Jewish practice fixes a small scroll with these words, called a *mezuzah* ("doorpost"), to the doorposts of homes.
+[^6-10]: Literally "house of slaves".
+[^6-11]: Jesus quotes this verse, in a form close to the Greek Septuagint, in Matthew 4:10 and Luke 4:8.
+[^6-12]: Hebrew *el qanna*: a God who will not share his people's devotion with any other.
+[^6-13]: *Massah* means "testing" (Exodus 17:1–7). Jesus quotes the first part of this verse in Matthew 4:7 and Luke 4:12.
+[^6-14]: Hebrew *edot*, "testimonies, witnesses": the solemn terms of the covenant. Also in verse 20.
+[^6-15]: Literally "Tomorrow".
+[^6-16]: Or "This will be counted to us as righteousness".
 
 ## Chapter 7
 
 *Status: draft*
 
-**1** When Yahweh[^7-1] your God brings you into the land you are entering to take possession of, he will drive out many nations before you: the Hittites, the Girgashites, the Amorites, the Canaanites, the Perizzites, the Hivites and the Jebusites, seven nations larger and stronger than you.
+**1** "When Yahweh[^7-1] your God brings you into the land you are entering to take possession of, he will drive out many nations before you: the Hittites, the Girgashites, the Amorites, the Canaanites, the Perizzites, the Hivites and the Jebusites, seven nations larger and stronger than you.
 
 **2** When Yahweh your God hands them over to you and you defeat them, you must devote them completely to destruction.[^7-2] Do not make a covenant with them, and show them no mercy.
 
@@ -654,7 +655,7 @@
 
 **16** You must destroy[^7-16] all the peoples that Yahweh your God is handing over to you. Do not look on them with pity,[^7-17] and do not serve their gods, for that would be a trap for you.
 
-**17** You may say to yourself,[^7-18] "These nations are more numerous than I am. How can I drive them out?"
+**17** You may say to yourself,[^7-18] 'These nations are more numerous than I am. How can I drive them out?'
 
 **18** But do not be afraid of them. Remember well what Yahweh your God did to Pharaoh and to all Egypt:
 
@@ -700,7 +701,7 @@
 
 *Status: draft*
 
-**1** Be careful to follow every commandment[^8-1] that I am giving you today, so that you may live and multiply, and go in and take possession of the land that Yahweh[^8-2] swore to give your ancestors.[^8-3]
+**1** "Be careful to follow every commandment[^8-1] that I am giving you today, so that you may live and multiply, and go in and take possession of the land that Yahweh[^8-2] swore to give your ancestors.[^8-3]
 
 **2** Remember the whole way that Yahweh your God has led you these forty years in the wilderness, to humble you and to test you, to know what was in your heart, whether you would keep his commandments[^8-4] or not.
 
@@ -732,7 +733,7 @@
 
 **16** He fed you in the wilderness with manna, which your ancestors had not known, to humble you and to test you, so that in the end he might do you good.
 
-**17** You might say to yourself,[^8-14] "My power and the strength of my hand have gained me this wealth."
+**17** You might say to yourself,[^8-14] 'My power and the strength of my hand have gained me this wealth.'
 
 **18** But remember Yahweh your God, for it is he who gives you the power to gain wealth, so that he may confirm his covenant that he swore to your ancestors, as he is doing today.
 
@@ -760,13 +761,13 @@
 
 *Status: draft*
 
-**1** Hear, Israel. Today you are about to cross the Jordan, to go in and dispossess nations greater and stronger than you, with large cities that have walls up to the sky,[^9-1]
+**1** "Hear, Israel. Today you are about to cross the Jordan, to go in and dispossess nations greater and stronger than you, with large cities that have walls up to the sky,[^9-1]
 
-**2** a people great and tall, the Anakim.[^9-2] You know about them, and you have heard it said, "Who can stand up to the Anakim?"[^9-3]
+**2** a people great and tall, the Anakim.[^9-2] You know about them, and you have heard it said, 'Who can stand up to the Anakim?'[^9-3]
 
 **3** Know then today that Yahweh[^9-4] your God is the one who is crossing over ahead of you, a consuming fire. He will destroy them, and he will bring them down before you. You will drive them out and destroy them quickly, as Yahweh has promised you.
 
-**4** When Yahweh your God has driven them out before you, do not say to yourself,[^9-5] "It is because of my righteousness that Yahweh has brought me in to take possession of this land." It is because of the wickedness of these nations that Yahweh is driving them out before you.
+**4** When Yahweh your God has driven them out before you, do not say to yourself,[^9-5] 'It is because of my righteousness that Yahweh has brought me in to take possession of this land.' It is because of the wickedness of these nations that Yahweh is driving them out before you.
 
 **5** It is not because of your righteousness or the uprightness of your heart that you are going in to take possession of their land. It is because of the wickedness of these nations that Yahweh your God is driving them out before you, and in order to fulfill the promise[^9-6] that Yahweh swore to your ancestors,[^9-7] to Abraham, to Isaac and to Jacob.
 
@@ -782,11 +783,11 @@
 
 **11** At the end of the forty days and forty nights, Yahweh gave me the two stone tablets, the tablets of the covenant.
 
-**12** Then Yahweh said to me, "Get up, go down from here at once, for your people, whom you brought out of Egypt, have acted corruptly. They have quickly turned aside from the way I commanded them. They have made themselves a cast idol."[^9-9]
+**12** Then Yahweh said to me, 'Get up, go down from here at once, for your people, whom you brought out of Egypt, have acted corruptly. They have quickly turned aside from the way I commanded them. They have made themselves a cast idol.'[^9-9]
 
-**13** Yahweh also said to me, "I have seen this people, and they are indeed a stubborn people.
+**13** Yahweh also said to me, 'I have seen this people, and they are indeed a stubborn people.
 
-**14** Leave me alone, so that I may destroy them and wipe out their name from under heaven. Then I will make you into a nation stronger and more numerous than they are."
+**14** Leave me alone, so that I may destroy them and wipe out their name from under heaven. Then I will make you into a nation stronger and more numerous than they are.'
 
 **15** So I turned and went down from the mountain, while the mountain was blazing with fire. The two tablets of the covenant were in my two hands.
 
@@ -804,19 +805,19 @@
 
 **22** At Taberah, at Massah and at Kibroth-hattaavah[^9-10] you also provoked Yahweh to anger.
 
-**23** And when Yahweh sent you from Kadesh-barnea and said, "Go up and take possession of the land I have given you," you rebelled against the command[^9-11] of Yahweh your God. You did not trust him or listen to his voice.
+**23** And when Yahweh sent you from Kadesh-barnea and said, 'Go up and take possession of the land I have given you,' you rebelled against the command[^9-11] of Yahweh your God. You did not trust him or listen to his voice.
 
 **24** You have been rebels against Yahweh from the day I first knew you.
 
 **25** So I lay face down before Yahweh for those forty days and forty nights, because Yahweh had said he would destroy you.
 
-**26** I prayed to Yahweh and said, "Lord Yahweh,[^9-12] do not destroy your people, your inheritance, whom you redeemed by your greatness and brought out of Egypt with a mighty hand.
+**26** I prayed to Yahweh and said, 'Lord Yahweh,[^9-12] do not destroy your people, your inheritance, whom you redeemed by your greatness and brought out of Egypt with a mighty hand.
 
 **27** Remember your servants, Abraham, Isaac and Jacob. Do not look at the stubbornness of this people, or at their wickedness, or at their sin.
 
-**28** Otherwise the land you brought us out of[^9-13] will say, 'It was because Yahweh was not able to bring them into the land he had promised them, and because he hated them, that he brought them out to kill them in the wilderness.'
+**28** Otherwise the land you brought us out of[^9-13] will say, "It was because Yahweh was not able to bring them into the land he had promised them, and because he hated them, that he brought them out to kill them in the wilderness."
 
-**29** But they are your people, your inheritance, whom you brought out by your great power and your outstretched arm."
+**29** But they are your people, your inheritance, whom you brought out by your great power and your outstretched arm.'
 
 [^9-1]: Literally "fortified up to the heavens".
 [^9-2]: Literally "the sons of the Anakim", a people known for their great height (1:28).
@@ -836,9 +837,9 @@
 
 *Status: draft*
 
-**1** At that time Yahweh[^10-1] said to me, "Cut two stone tablets like the first ones, and come up to me on the mountain. Also make yourself an ark[^10-2] of wood.
+**1** "At that time Yahweh[^10-1] said to me, 'Cut two stone tablets like the first ones, and come up to me on the mountain. Also make yourself an ark[^10-2] of wood.
 
-**2** I will write on the tablets the words that were on the first tablets, which you broke, and you are to put them in the ark."
+**2** I will write on the tablets the words that were on the first tablets, which you broke, and you are to put them in the ark.'
 
 **3** So I made an ark of acacia wood and cut two stone tablets like the first ones, and I went up the mountain with the two tablets in my hand.
 
@@ -856,7 +857,7 @@
 
 **10** I stayed on the mountain forty days and forty nights, as I had the first time, and Yahweh listened to me that time too. Yahweh was not willing to destroy you.
 
-**11** Then Yahweh said to me, "Get up, set out at the head of the people, so that they may go in and take possession of the land that I swore to their ancestors[^10-7] to give them."
+**11** Then Yahweh said to me, 'Get up, set out at the head of the people, so that they may go in and take possession of the land that I swore to their ancestors[^10-7] to give them.'
 
 **12** And now, Israel, what does Yahweh your God ask of you? Only to fear Yahweh your God, to walk in all his ways, to love him, and to serve Yahweh your God with all your heart and with all your soul,[^10-8]
 
@@ -901,7 +902,7 @@
 
 *Status: draft*
 
-**1** Love Yahweh[^11-1] your God, and always keep his charge,[^11-2] his statutes, his rulings and his commandments.
+**1** "Love Yahweh[^11-1] your God, and always keep his charge,[^11-2] his statutes, his rulings and his commandments.
 
 **2** Know today that it is not your children I am speaking to,[^11-3] who have not known or seen the discipline of Yahweh your God: his greatness, his mighty hand and his outstretched arm,
 
@@ -987,19 +988,19 @@
 
 *Status: draft*
 
-**1** These are the statutes and the rulings that you must be careful to follow in the land that Yahweh,[^12-1] the God of your ancestors,[^12-2] has given you to possess, all the days you live on the earth.
+**1** These are the statutes and the rulings[^12-1] that you must be careful to follow in the land that Yahweh,[^12-2] the God of your ancestors,[^12-3] has given you to possess, all the days you live on the earth.
 
 **2** You must completely destroy all the places where the nations you are dispossessing served their gods, on the high mountains, on the hills and under every leafy tree.
 
-**3** Tear down their altars, smash their standing stones,[^12-3] burn their Asherah poles[^12-4] in the fire, and cut down the idols of their gods. Wipe out their names from that place.
+**3** Tear down their altars, smash their standing stones,[^12-4] burn their Asherah poles[^12-5] in the fire, and cut down the idols of their gods. Wipe out their names from that place.
 
-**4** You must not worship Yahweh your God in their way.[^12-5]
+**4** You must not worship Yahweh your God in their way.[^12-6]
 
-**5** Instead, you must seek the place that Yahweh your God will choose out of all your tribes to put his name there, for his dwelling,[^12-6] and you must go there.
+**5** Instead, you must seek the place that Yahweh your God will choose out of all your tribes to put his name there, for his dwelling,[^12-7] and you must go there.
 
-**6** There you are to bring your burnt offerings and your sacrifices, your tithes and your contributions,[^12-7] your vow offerings and your freewill offerings, and the firstborn of your herds and your flocks.
+**6** There you are to bring your burnt offerings and your sacrifices, your tithes and your contributions,[^12-8] your vow offerings and your freewill offerings, and the firstborn of your herds and your flocks.
 
-**7** There you and your households are to eat before Yahweh your God, and rejoice in everything you have set your hand to,[^12-8] because Yahweh your God has blessed you.
+**7** There you and your households are to eat before Yahweh your God, and rejoice in everything you have set your hand to,[^12-9] because Yahweh your God has blessed you.
 
 **8** You must not do as we are doing here today, each of us doing whatever seems right in his own eyes,
 
@@ -1007,15 +1008,15 @@
 
 **10** But you will cross the Jordan and live in the land that Yahweh your God is giving you as an inheritance. He will give you rest from all your enemies around you, and you will live in safety.
 
-**11** Then you are to bring everything I command you to the place that Yahweh your God will choose as a dwelling for his name:[^12-9] your burnt offerings and your sacrifices, your tithes and your contributions, and all the choice offerings you vow to Yahweh.
+**11** Then you are to bring everything I command you to the place that Yahweh your God will choose as a dwelling for his name:[^12-10] your burnt offerings and your sacrifices, your tithes and your contributions, and all the choice offerings you vow to Yahweh.
 
-**12** And you are to rejoice before Yahweh your God, you and your sons and your daughters, your male and female slaves, and the Levite who lives in your towns,[^12-10] since he has no share or inheritance among you.
+**12** And you are to rejoice before Yahweh your God, you and your sons and your daughters, your male and female slaves, and the Levite who lives in your towns,[^12-11] since he has no share or inheritance among you.
 
 **13** Be careful not to offer your burnt offerings in any place you happen to see.
 
 **14** Only in the place that Yahweh will choose in one of your tribes, there you are to offer your burnt offerings, and there you are to do everything I command you.
 
-**15** However, you may slaughter and eat meat in any of your towns, as much as you want,[^12-11] according to the blessing that Yahweh your God has given you. Both the unclean and the clean[^12-12] may eat it, as they would a gazelle or a deer.
+**15** However, you may slaughter and eat meat in any of your towns, as much as you want,[^12-12] according to the blessing that Yahweh your God has given you. Both the unclean and the clean[^12-13] may eat it, as they would a gazelle or a deer.
 
 **16** But you must not eat the blood. Pour it out on the ground like water.
 
@@ -1031,13 +1032,13 @@
 
 **22** Eat it just as a gazelle or a deer is eaten. Both the unclean and the clean may eat it.
 
-**23** But be sure not to eat the blood, for the blood is the life,[^12-13] and you must not eat the life with the meat.
+**23** But be sure not to eat the blood, for the blood is the life,[^12-14] and you must not eat the life with the meat.
 
 **24** Do not eat it. Pour it out on the ground like water.
 
 **25** Do not eat it, so that it may go well with you and with your children after you, because you will be doing what is right in the eyes of Yahweh.
 
-**26** But take the holy things that are yours to give,[^12-14] and your vow offerings, and go to the place that Yahweh will choose.
+**26** But take the holy things that are yours to give,[^12-15] and your vow offerings, and go to the place that Yahweh will choose.
 
 **27** Offer your burnt offerings, both the meat and the blood, on the altar of Yahweh your God. The blood of your sacrifices is to be poured out on the altar of Yahweh your God, but you may eat the meat.
 
@@ -1049,20 +1050,21 @@
 
 **31** You must not worship Yahweh your God in their way, for they have done for their gods every detestable thing that Yahweh hates. They even burn their sons and their daughters in the fire for their gods.
 
-[^12-1]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
-[^12-2]: Literally "fathers".
-[^12-3]: Hebrew *matsevot*: standing stones set up as objects of worship.
-[^12-4]: Hebrew *asherim*: wooden poles or trees that were symbols of the goddess Asherah.
-[^12-5]: Literally "You shall not do so to Yahweh your God". Also in verse 31.
-[^12-6]: Or "to put his name there, to make it dwell there". The place is not named in Deuteronomy.
-[^12-7]: Literally "the contribution of your hand"; also in verses 11 and 17. Hebrew *terumah*, something set apart and given for a sacred purpose.
-[^12-8]: Literally "in all the sending out of your hand"; also in verse 18.
-[^12-9]: Literally "to make his name dwell there".
-[^12-10]: Literally "within your gates"; also in verses 15, 17, 18 and 21.
-[^12-11]: Literally "in all the desire of your *nephesh* (self)"; also in verses 20 and 21.
-[^12-12]: That is, people who are ritually unclean as well as people who are clean. Also in verse 22.
-[^12-13]: Hebrew *nephesh*, "life"; also later in the verse.
-[^12-14]: Literally "your holy things that will be for you".
+[^12-1]: Moses is still speaking, in the speech that began at 5:1. The laws of chapters 12–26 are set without quotation marks; the speech ends at 26:19.
+[^12-2]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^12-3]: Literally "fathers".
+[^12-4]: Hebrew *matsevot*: standing stones set up as objects of worship.
+[^12-5]: Hebrew *asherim*: wooden poles or trees that were symbols of the goddess Asherah.
+[^12-6]: Literally "You shall not do so to Yahweh your God". Also in verse 31.
+[^12-7]: Or "to put his name there, to make it dwell there". The place is not named in Deuteronomy.
+[^12-8]: Literally "the contribution of your hand"; also in verses 11 and 17. Hebrew *terumah*, something set apart and given for a sacred purpose.
+[^12-9]: Literally "in all the sending out of your hand"; also in verse 18.
+[^12-10]: Literally "to make his name dwell there".
+[^12-11]: Literally "within your gates"; also in verses 15, 17, 18 and 21.
+[^12-12]: Literally "in all the desire of your *nephesh* (self)"; also in verses 20 and 21.
+[^12-13]: That is, people who are ritually unclean as well as people who are clean. Also in verse 22.
+[^12-14]: Hebrew *nephesh*, "life"; also later in the verse.
+[^12-15]: Literally "your holy things that will be for you".
 
 ## Chapter 13
 
@@ -1592,3 +1594,155 @@
 [^20-12]: Literally "eat".
 [^20-13]: Hebrew *charam*: to give something over completely to God, which in war meant destroying it and keeping nothing for oneself.
 [^20-14]: The Hebrew vowel points read "for the human being is the tree of the field", which may mean that human life depends on the trees. The same consonants can be read as a question, as here.
+
+## Chapter 21
+
+*Status: draft*
+
+**1** If someone is found killed, lying in the open country in the land that Yahweh[^21-1] your God is giving you to possess, and it is not known who killed him,
+
+**2** your elders and your judges are to go out and measure the distance to the towns around the body.
+
+**3** The elders of the town nearest to the body are to take a heifer that has never been worked and has never pulled in a yoke.
+
+**4** The elders of that town are to bring the heifer down to a valley with a stream that never runs dry,[^21-2] which has not been plowed or sown, and there in the valley they are to break the heifer's neck.
+
+**5** Then the priests, the sons of Levi, are to come forward, for Yahweh your God has chosen them to serve him and to bless in the name of Yahweh, and by their word every dispute and every case of assault[^21-3] is to be settled.
+
+**6** All the elders of the town nearest to the body are to wash their hands over the heifer whose neck was broken in the valley,
+
+**7** and they are to declare,[^21-4] "Our hands did not shed this blood, and our eyes did not see it.
+
+**8** Yahweh, forgive[^21-5] your people Israel, whom you have redeemed, and do not hold the guilt of innocent blood against your people Israel."[^21-6] Then the bloodshed will be forgiven them.
+
+**9** So you will purge[^21-7] the guilt of innocent blood from among you, for you will be doing what is right in the eyes of Yahweh.
+
+**10** When you go out to war against your enemies, and Yahweh your God hands them over to you and you take some of them captive,
+
+**11** you may see among the captives a beautiful woman, and desire her, and want to take her as your wife.
+
+**12** Bring her into your house. She is to shave her head and trim her nails,
+
+**13** and take off the clothes she was wearing when she was captured. She is to live in your house and mourn her father and her mother for a full month.[^21-8] After that you may go to her and be her husband, and she will be your wife.
+
+**14** But if you are no longer pleased with her, let her go wherever she wishes.[^21-9] You must not sell her for money or treat her as a slave,[^21-10] because you have dishonored her.[^21-11]
+
+**15** If a man has two wives, one loved and the other unloved,[^21-12] and both the loved wife and the unloved wife bear him sons, and the firstborn son is the son of the unloved wife,
+
+**16** then on the day he divides his property among his sons as their inheritance, he may not treat the son of the loved wife as his firstborn in place of the son of the unloved wife, who is the firstborn.
+
+**17** He must acknowledge the son of the unloved wife as the firstborn by giving him a double share[^21-13] of everything he has, for he is the first sign of his father's strength.[^21-14] The right of the firstborn belongs to him.
+
+**18** If someone has a stubborn and rebellious son who will not obey his father or his mother, and will not listen to them even when they discipline him,
+
+**19** his father and his mother are to take hold of him and bring him out to the elders of his town, at the gate of the place where he lives.
+
+**20** They are to say to the elders of his town, "This son of ours is stubborn and rebellious. He will not obey us. He is a glutton and a drunkard."
+
+**21** Then all the men of his town are to stone him to death. So you must purge the evil from among you, and all Israel will hear and be afraid.
+
+**22** If someone has committed a sin that deserves the death penalty and has been put to death, and you hang his body on a tree,[^21-15]
+
+**23** his body must not remain on the tree overnight. You must bury him that same day, for anyone who is hung on a tree is cursed by God.[^21-16] You must not defile the land that Yahweh your God is giving you as an inheritance.
+
+[^21-1]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^21-2]: Hebrew *nachal eitan*: a valley with a stream that flows all year, or perhaps a valley with rough, rocky ground.
+[^21-3]: Hebrew *nega*, "stroke": an injury, or perhaps a skin disease, as in 24:8. Compare 17:8.
+[^21-4]: Literally "they shall answer and say".
+[^21-5]: Hebrew *kapper*, "make atonement for, cover"; also later in the verse.
+[^21-6]: Literally "and do not put innocent blood in the midst of your people Israel".
+[^21-7]: Literally "burn out"; also in verse 21.
+[^21-8]: Literally "a month of days".
+[^21-9]: Literally "send her away to her *nephesh* (self)".
+[^21-10]: Hebrew *hit'ammer*, a rare verb, perhaps "treat as merchandise" or "deal harshly with".
+[^21-11]: Hebrew *innah*, "humble, force, violate".
+[^21-12]: Literally "hated"; also in verses 16 and 17.
+[^21-13]: Literally "a mouth of two", that is, twice as much as each of the other sons.
+[^21-14]: Literally "the beginning of his strength".
+[^21-15]: Or "on a pole": the body of the executed person was displayed.
+[^21-16]: Literally "for a hanged one is a curse of God". Or "is an insult to God". Paul quotes this verse in Galatians 3:13.
+
+## Chapter 22
+
+*Status: draft*
+
+**1** If you see a fellow Israelite's[^22-1] ox or sheep wandering off, do not ignore it.[^22-2] You must take it back to him.
+
+**2** If he does not live near you, or you do not know who he is, bring the animal home and keep it with you until he comes looking for it. Then give it back to him.
+
+**3** Do the same with his donkey, and with his cloak, and with anything else he has lost that you find. You must not ignore it.
+
+**4** If you see a fellow Israelite's donkey or ox fallen on the road, do not ignore it. You must help him get it back on its feet.
+
+**5** A woman must not wear a man's things,[^22-3] and a man must not put on a woman's clothing, for anyone who does these things is detestable to Yahweh[^22-4] your God.
+
+**6** If you come across a bird's nest beside the road, in any tree or on the ground, with young birds or eggs, and the mother sitting on the young or on the eggs, do not take the mother along with the young.
+
+**7** You must let the mother go, but you may take the young for yourself, so that it may go well with you and you may live long.
+
+**8** When you build a new house, make a railing around your roof,[^22-5] so that you will not bring the guilt of bloodshed on your house if someone falls from it.
+
+**9** Do not sow your vineyard with a second kind of seed, or the whole crop, both the seed you have sown and the fruit of the vineyard, will be forfeited.[^22-6]
+
+**10** Do not plow with an ox and a donkey together.
+
+**11** Do not wear clothing of mixed material,[^22-7] wool and linen together.
+
+**12** Make tassels[^22-8] on the four corners of the cloak you wrap yourself in.
+
+**13** Suppose a man marries a woman and sleeps with her,[^22-9] and then turns against her.[^22-10]
+
+**14** He makes up charges against her[^22-11] and gives her a bad name, saying, "I married this woman, but when I came near her I did not find the evidence of her virginity."[^22-12]
+
+**15** Then the young woman's[^22-13] father and mother are to take the evidence of her virginity and bring it out to the elders of the town at the gate.
+
+**16** The young woman's father is to say to the elders, "I gave my daughter to this man as his wife, but he has turned against her.
+
+**17** Now he has made up charges against her, saying, 'I did not find the evidence of your daughter's virginity.' But here is the evidence of my daughter's virginity." Then they are to spread out the cloth before the elders of the town.
+
+**18** The elders of that town are to take the man and punish him.[^22-14]
+
+**19** They are to fine him a hundred shekels of silver[^22-15] and give it to the young woman's father, because the man has given an Israelite virgin a bad name. She will remain his wife, and he may not divorce her[^22-16] as long as he lives.
+
+**20** But if the charge is true, and no evidence of the young woman's virginity is found,
+
+**21** they are to bring the young woman out to the door of her father's house, and the men of her town are to stone her to death. She has done a disgraceful thing in Israel by being promiscuous[^22-17] while in her father's house. So you must purge[^22-18] the evil from among you.
+
+**22** If a man is found sleeping with another man's wife,[^22-19] both of them must die, the man who slept with the woman and the woman. So you must purge the evil from Israel.
+
+**23** If a young woman who is a virgin is engaged to a man, and another man meets her in the town and sleeps with her,
+
+**24** you are to take both of them out to the gate of that town and stone them to death: the young woman because she did not cry for help in the town, and the man because he violated[^22-20] his neighbor's wife. So you must purge the evil from among you.
+
+**25** But if the man meets the engaged young woman in the open country, and seizes her and sleeps with her, only the man who slept with her must die.
+
+**26** Do nothing to the young woman. She has committed no sin that deserves death. This case is like that of a man who attacks his neighbor and murders him.[^22-21]
+
+**27** For he met her in the open country, and though the engaged young woman cried out, there was no one to rescue her.
+
+**28** If a man meets a young woman who is a virgin and is not engaged, and seizes her and sleeps with her, and they are found out,
+
+**29** the man who slept with her must give the young woman's father fifty shekels of silver,[^22-22] and she must become his wife. Because he has violated her, he may not divorce her as long as he lives.
+
+[^22-1]: Literally "your brother's"; also in verses 2, 3 and 4.
+[^22-2]: Literally "do not hide yourself from them"; also in verses 3 and 4. Compare Exodus 23:4–5.
+[^22-3]: Hebrew *keli gever*, "a man's article": his clothing, equipment or weapons.
+[^22-4]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^22-5]: Roofs were flat and were used as living space.
+[^22-6]: Literally "become holy", that is, forfeited to the sanctuary.
+[^22-7]: Hebrew *sha'atnez*, a word of uncertain origin.
+[^22-8]: Hebrew *gedilim*, "twisted threads". Compare Numbers 15:37–41.
+[^22-9]: Literally "goes in to her".
+[^22-10]: Literally "hates her"; also in verse 16.
+[^22-11]: Hebrew *alilot devarim*, a phrase of uncertain meaning, perhaps "accusations of misconduct". Also in verse 17.
+[^22-12]: Hebrew *betulim*, "signs of virginity", probably the bloodstained cloth from the wedding night (verse 17). Also in verses 15, 17 and 20.
+[^22-13]: Here and in verses 16–29 the Hebrew text is written *na'ar*, the form for "young man", but read *na'arah*, "young woman". The Pentateuch often writes the word this way.
+[^22-14]: Or "discipline him", perhaps by flogging.
+[^22-15]: Literally "a hundred of silver", probably shekels: about 2½ pounds (1.15 kg) of silver.
+[^22-16]: Literally "send her away"; also in verse 29.
+[^22-17]: Hebrew *zanah*, "act as a prostitute", used of sexual relations outside marriage.
+[^22-18]: Literally "burn out"; also in verses 22 and 24.
+[^22-19]: Literally "with a woman married to a husband".
+[^22-20]: Hebrew *innah*, "humble, force, violate"; also in verse 29.
+[^22-21]: Literally "and murders him, a life".
+[^22-22]: Literally "fifty of silver", probably shekels: about 1¼ pounds (575 grams) of silver.

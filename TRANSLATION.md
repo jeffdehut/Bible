@@ -75,6 +75,8 @@ Decisions marked **proposed** are used in the pilot and are open for review.
 | אֲדֹנָי (Adonai), of God | the Lord | אֲדֹנָי יְהוִה is "the Lord Yahweh". |
 | אֵל שַׁדַּי, שַׁדַּי | God Almighty, the Almighty | Hebrew *(El) Shaddai*; the meaning is uncertain. Noted at its first occurrence in each chapter. |
 | שְׁאוֹל (Sheol) | Sheol | The realm of the dead. Noted at its first occurrence in each chapter. |
+| מִשְׁכָּן, אֹהֶל מוֹעֵד | tabernacle, tent of meeting | The renderings of the tabernacle, its furnishings, the priestly garments and the offerings are set in Exodus 25–40 and Leviticus 1–7; later books reuse them (for example *kapporet* "atonement cover", *choshen* "breastpiece", *shelamim* "fellowship offering", *chatta't* "sin offering" with a note "Or 'purification offering'"). |
+| פָּרֹכֶת (parokhet) | veil | The hanging that screens the most holy place. Not "curtain", which is יְרִיעָה; מָסָךְ is "screen". |
 | בְּנֵי יִשְׂרָאֵל | the Israelites, the people of Israel | Literally "the sons of Israel". No note needed. |
 | תּוֹרָה (torah) | instruction, law, by context | "The Law" when it means the law given through Moses as a whole. |
 | בְּרִית, διαθήκη | covenant | |
@@ -130,9 +132,12 @@ from the Hebrew.
   speech ends.
   Long law codes (Exodus 21–23, Leviticus, Deuteronomy 12–26) may instead be set without
   quotation marks, with a note at the start saying who is speaking and where the speech ends.
-- Numbers: words for one to one hundred and for round numbers ("four hundred", "six hundred
-  thousand", "a thousand"); digits for all others, with commas from 1,000 ("130 years",
-  "1,775 shekels", "46,500"). Ordinals in words ("the twenty-seventh day").
+- Numbers: words for one to one hundred and for whole multiples of them by a hundred or a
+  thousand ("four hundred", "twelve thousand", "twenty-four thousand", "six hundred thousand",
+  "a thousand"); digits for all others, with commas from 1,000 ("130 years", "250", "1,775
+  shekels", "46,500"). In a census, list or calculation where some numbers need digits, all of
+  its numbers are digits (Numbers 1, Ezra 2). Ordinals in words ("the twenty-seventh day").
+  Modern measurements and dates in notes are digits.
 - Scribal marks: the extraordinary points (`[4]`), the inverted nuns (`[8]`) and large, small or
   suspended letters (`[5]`–`[7]`) are not translated, but a short note mentions them where they
   occur ("In the Hebrew text, dots are written over this word, a scribal mark of doubt").
