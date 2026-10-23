@@ -1,0 +1,21 @@
+stream,kind,name,start,end,approximate,wikidata,note
+World events,event,Great Pyramid of Giza built,2560 BC,,yes,Q37200,Under Khufu
+World events,event,Code of Hammurabi,1754 BC,,yes,Q93304,
+World events,event,Battle of Kadesh,1274 BC,,yes,Q203729,Ramesses II against the Hittites
+World events,event,Merneptah Stele,1208 BC,,yes,Q754378,Earliest mention of Israel outside the Bible
+World events,event,First Olympic Games,776 BC,,no,,Traditional date; the start of Greek dating by Olympiads
+World events,event,Founding of Rome,753 BC,,yes,,Traditional date
+World events,event,Fall of Nineveh,612 BC,,no,Q612286,
+World events,event,Battle of Marathon,490 BC,,no,Q31900,
+World events,event,Battle of Gaugamela,331 BC,,no,Q179670,Alexander defeats Darius III
+World events,event,Maccabean revolt,167 BC,,no,Q7930888,
+World events,event,Pompey takes Jerusalem,63 BC,,no,,
+World events,event,Destruction of the Second Temple,AD 70,,no,,
+Thinkers and writers,figure,Confucius,551 BC,479 BC,no,Q4604,
+Thinkers and writers,figure,Herodotus,484 BC,425 BC,yes,Q26825,
+Thinkers and writers,figure,Socrates,470 BC,399 BC,yes,Q913,
+Thinkers and writers,figure,Thucydides,460 BC,400 BC,yes,Q41683,
+Thinkers and writers,figure,Plato,428 BC,348 BC,yes,Q859,
+Thinkers and writers,figure,Aristotle,384 BC,322 BC,no,Q868,
+Thinkers and writers,figure,Philo of Alexandria,20 BC,AD 50,yes,Q189597,
+Thinkers and writers,figure,Josephus,AD 37,AD 100,yes,Q134461,

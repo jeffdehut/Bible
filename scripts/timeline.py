@@ -18,6 +18,7 @@ from genealogy import flag_note
 from notes import ROOT, chapter_path, frontmatter, link, ref_label, safe_filename, write
 
 EVENTS = "connections/events"
+WORLD = "connections/world"
 TIMELINE = "connections/timeline"
 GENEALOGY = "connections/genealogy"
 MAX_TREE = 24  # most siblings/children drawn in a person's family tree
@@ -79,6 +80,18 @@ class Context:
                 r["entity"] = self.by_id.get(r["tipnr"])
                 self.rulers.append(r)
         self.ruler_of = {r["entity"]: r for r in self.rulers if r["entity"] is not None}
+        # Periods, world events and figures (modern dates); each without a Bible person
+        # gets a note in connections/world/.
+        self.periods, self.world_events = [], []
+        for name, target in (("periods.csv", self.periods), ("world_events.csv", self.world_events)):
+            with open(os.path.join(ROOT, "data", name), encoding="utf-8") as f:
+                for r in csv.DictReader(f):
+                    r["start_y"] = parse_year(r["start"])
+                    r["end_y"] = parse_year(r["end"]) if r["end"] else r["start_y"]
+                    target.append(r)
+        for r in self.rulers + self.periods + self.world_events:
+            if r.get("entity") is None:
+                r["path"] = f"{WORLD}/{safe_filename(r['name'])}"
         self.syncs = []
         with open(os.path.join(ROOT, "data", "synchronisms.csv"), encoding="utf-8") as f:
             for r in csv.DictReader(f):
@@ -381,19 +394,23 @@ def write_timeline(ctx, order):
             lines += ["## Births and deaths *(Jones)*", ""]
             lines += [f"- {year_label(y)} · born: {ctx.elink(i)}" for y, i in births]
             lines += [f"- {year_label(y)} · died: {ctx.elink(i)}" for y, i in deaths] + [""]
-        rulers = [r for r in ctx.rulers if century_of(r["start_y"]) <= cent <= century_of(r["end_y"])]
+        current = lambda r: century_of(r["start_y"]) <= cent <= century_of(r["end_y"])
+        rulers = [r for r in ctx.rulers if current(r)]
+        periods = [r for r in ctx.periods if current(r)]
+        worldev = [r for r in ctx.world_events if current(r)]
         syncs = [s for s in ctx.syncs if cent in (century_of(s["modern_y"]),
                                                     century_of(s["ussher_y"]) if s["ussher_y"] is not None else None)]
-        if rulers or syncs:
+        if rulers or periods or worldev or syncs:
             lines += ["## World history *(modern dates)*", ""]
-            by_stream = collections.defaultdict(list)
-            for r in rulers:
-                by_stream[r["stream"]].append(r)
+            by_stream = collections.OrderedDict()
+            for r in periods + rulers:
+                by_stream.setdefault(r["stream"], []).append(r)
             for stream, rs in by_stream.items():
                 lines.append(f"- **{stream}:** " + ", ".join(
-                    (ctx.elink(r["entity"], f" ({r['name']})" if r["biblical_name"] and r["biblical_name"] != r["name"] else "")
-                     if r["entity"] is not None else r["name"])
-                    + f" {year_label(r['start_y'])}–{year_label(r['end_y'])}" for r in rs))
+                    world_link(ctx, r) + f" {year_label(r['start_y'])}–{year_label(r['end_y'])}" for r in rs))
+            for r in worldev:
+                when = year_label(r["start_y"]) if r["kind"] == "event" else f"{year_label(r['start_y'])}–{year_label(r['end_y'])}"
+                lines.append(f"- **{'Event' if r['kind'] == 'event' else r['stream']}:** {world_link(ctx, r)} {when}")
             for s in syncs:
                 u = year_label(s["ussher_y"]) if s["ussher_y"] is not None else "—"
                 lines.append(f"- **Synchronism:** {s['event']} ({link(chapter_path(*s['verse'][:2]), ref_label(*s['verse']))}) "
@@ -454,7 +471,15 @@ def write_chart_note(ctx):
               "- **Synchronisms:** each event the Bible narrates that outside evidence also dates, drawn at "
               "its Ussher date (upper dot) and its modern date (lower dot). Red lines mark differences of "
               "more than five years. See [[connections/timeline/Synchronisms|Synchronisms]].",
-              "- **Lower streams:** the surrounding nations at modern reign dates.",
+              "- **Lower streams:** the wider world at modern dates: Egypt, Sumer and Akkad, Babylon, "
+              "Assyria, the Hittites and Lydia, Aram, Tyre, Persia, Greece, the Seleucids, Rome, Carthage, the "
+              "Herods and Roman officials, India and China. Each stream shows eras (palest), then dynasties, "
+              "then rulers. A lane of thinkers and writers and a lane of world events come last. Each item has a "
+              "note in `connections/world/` (or its Bible person's note).",
+              "- **Two chronologies side by side:** the upper streams follow Ussher, as Adams did, and the "
+              "lower ones follow modern dating. Before about 1000 BC the two diverge widely. For example, on "
+              "modern dates Egypt's Old Kingdom and Sumer's city-states run straight through Ussher's date for "
+              "the Flood (2348 BC). The chart shows both as they are dated and doesn't try to reconcile them.",
               "- **Axis:** black lines mark centuries and pink lines decades, as on Adams' chart; "
               "years of the world (AM) run along the bottom.", "",
               "Each era chart is wider and easier to read than the whole. Open an SVG in a web browser to zoom "
@@ -463,3 +488,49 @@ def write_chart_note(ctx):
         lines += [f"## {title}", "", f"![[{TIMELINE}/{name}]]", ""]
     write(f"{TIMELINE}/Synchronological Chart", lines)
     return files
+
+
+def world_link(ctx, r):
+    """Link a ruler, period, event or figure: to the Bible person's note when there is one,
+    otherwise to its note in connections/world/."""
+    if r.get("entity") is not None:
+        extra = f" ({r['name']})" if r.get("biblical_name") and r["biblical_name"] != r["name"] else ""
+        return ctx.elink(r["entity"], extra)
+    return link(r["path"], r["name"])
+
+
+def write_world(ctx):
+    """One note per period, non-biblical ruler, world event and figure."""
+    items = [(r, "period" if r in ctx.periods else "ruler") for r in ctx.periods + ctx.rulers if r.get("path")]
+    items += [(r, r["kind"]) for r in ctx.world_events]
+    for r, kind in items:
+        lo, hi = r["start_y"], r["end_y"]
+        approx = "c. " if r["approximate"] == "yes" else ""
+        when = f"{approx}{year_link(lo)}" + (f" – {year_link(hi)}" if hi != lo else "")
+        lines = frontmatter({"type": kind, "stream": r["stream"], "start": year_label(lo), "start_year": lo,
+                             "end": year_label(hi), "end_year": hi, "approximate": r["approximate"] == "yes",
+                             "wikidata": r["wikidata"] or None, "tags": ["world", kind]})
+        lines += [f"# {r['name']}", "", f"**{r['stream']}** · {when} *(modern dates)*", ""]
+        if r.get("level"):
+            lines += [f"*{r['level'].capitalize()}*", ""]
+        if r.get("note"):
+            lines += [r["note"], ""]
+        if r["wikidata"]:
+            lines += [f"[Wikidata {r['wikidata']}](https://www.wikidata.org/wiki/{r['wikidata']})", ""]
+        cents = [c for c in range(century_of(lo), century_of(hi) + 1) if c]
+        lines += ["**Centuries:** " + " · ".join(link(century_path(c)) for c in cents), ""]
+        same = [x for x in ctx.rulers + ctx.periods if x is not r and x["stream"] == r["stream"]
+                and x["start_y"] <= hi and x["end_y"] >= lo]
+        if same and kind in ("period", "ruler"):
+            lines += [f"**Also in {r['stream']} at this time:** " + ", ".join(
+                world_link(ctx, x) for x in sorted(same, key=lambda x: x["start_y"])), ""]
+        evs = [ev for ev in ctx.chron.events if lo <= ev["year"] <= hi]
+        if evs:
+            lines += ["## Bible events in these years *(Ussher–Jones dates)*", ""]
+            shown = evs if len(evs) <= 25 else evs[:12] + [None] + evs[-12:]
+            lines += [f"- {year_label(ev['year'])} · {link(ev['path'], ev['title'])}" if ev else
+                      f"- … {len(evs) - 24} more in the century notes" for ev in shown]
+            lines += ["", "*Bible events are dated by Ussher's chronology (as refined by Jones), this entry by "
+                      "modern dating. Before about 1000 BC the two can differ by decades or more.*", ""]
+        write(r["path"], lines)
+    return len(items)

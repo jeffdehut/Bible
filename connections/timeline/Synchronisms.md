@@ -80,5 +80,29 @@ Adams' *Synchronological Chart* (1871) set biblical history side by side with th
 | Roman officials | Gallio | [[connections/people/Gallio|Gallio]] | [[connections/timeline/1st century AD|AD 51]] – [[connections/timeline/1st century AD|AD 52]] | [Q452194](https://www.wikidata.org/wiki/Q452194) |
 | High priests | Annas | [[connections/people/Annas|Annas]] | [[connections/timeline/1st century AD|AD 6]] – [[connections/timeline/1st century AD|AD 15]] | [Q51680](https://www.wikidata.org/wiki/Q51680) |
 | High priests | Caiaphas | [[connections/people/Caiaphas|Caiaphas]] | [[connections/timeline/1st century AD|AD 18]] – [[connections/timeline/1st century AD|AD 36]] | [Q211246](https://www.wikidata.org/wiki/Q211246) |
+| Egypt | Khufu | — | c. [[connections/timeline/26th century BC|2589 BC]] – [[connections/timeline/26th century BC|2566 BC]] | [Q161904](https://www.wikidata.org/wiki/Q161904) |
+| Egypt | Hatshepsut | — | c. [[connections/timeline/15th century BC|1479 BC]] – [[connections/timeline/15th century BC|1458 BC]] | [Q129234](https://www.wikidata.org/wiki/Q129234) |
+| Egypt | Thutmose III | — | c. [[connections/timeline/15th century BC|1479 BC]] – [[connections/timeline/15th century BC|1425 BC]] | [Q157899](https://www.wikidata.org/wiki/Q157899) |
+| Egypt | Akhenaten | — | c. [[connections/timeline/14th century BC|1353 BC]] – [[connections/timeline/14th century BC|1336 BC]] | [Q81794](https://www.wikidata.org/wiki/Q81794) |
+| Egypt | Tutankhamun | — | c. [[connections/timeline/14th century BC|1332 BC]] – [[connections/timeline/14th century BC|1323 BC]] | [Q12154](https://www.wikidata.org/wiki/Q12154) |
+| Egypt | Ramesses II | — | c. [[connections/timeline/13th century BC|1279 BC]] – [[connections/timeline/13th century BC|1213 BC]] | [Q1523](https://www.wikidata.org/wiki/Q1523) |
+| Egypt | Merneptah | — | c. [[connections/timeline/13th century BC|1213 BC]] – [[connections/timeline/13th century BC|1203 BC]] | [Q158043](https://www.wikidata.org/wiki/Q158043) |
+| Sumer and Akkad | Sargon of Akkad | — | c. [[connections/timeline/24th century BC|2334 BC]] – [[connections/timeline/23rd century BC|2279 BC]] | [Q199461](https://www.wikidata.org/wiki/Q199461) |
+| Sumer and Akkad | Ur-Nammu | — | c. [[connections/timeline/22nd century BC|2112 BC]] – [[connections/timeline/21st century BC|2095 BC]] | [Q297417](https://www.wikidata.org/wiki/Q297417) |
+| Babylon | Hammurabi | — | c. [[connections/timeline/18th century BC|1792 BC]] – [[connections/timeline/18th century BC|1750 BC]] | [Q36359](https://www.wikidata.org/wiki/Q36359) |
+| Babylon | Nabonidus | — | [[connections/timeline/6th century BC|556 BC]] – [[connections/timeline/6th century BC|539 BC]] | [Q239414](https://www.wikidata.org/wiki/Q239414) |
+| Anatolia | Suppiluliuma I | — | c. [[connections/timeline/14th century BC|1344 BC]] – [[connections/timeline/14th century BC|1322 BC]] | [Q354903](https://www.wikidata.org/wiki/Q354903) |
+| Anatolia | Croesus | — | c. [[connections/timeline/6th century BC|560 BC]] – [[connections/timeline/6th century BC|546 BC]] | [Q184462](https://www.wikidata.org/wiki/Q184462) |
+| Persia | Cambyses II | — | [[connections/timeline/6th century BC|530 BC]] – [[connections/timeline/6th century BC|522 BC]] | [Q182483](https://www.wikidata.org/wiki/Q182483) |
+| Persia | Darius II | — | [[connections/timeline/5th century BC|423 BC]] – [[connections/timeline/5th century BC|404 BC]] | [Q202236](https://www.wikidata.org/wiki/Q202236) |
+| Persia | Artaxerxes II | — | [[connections/timeline/5th century BC|404 BC]] – [[connections/timeline/4th century BC|358 BC]] | [Q188472](https://www.wikidata.org/wiki/Q188472) |
+| Rome | Julius Caesar | — | [[connections/timeline/1st century BC|49 BC]] – [[connections/timeline/1st century BC|44 BC]] | [Q1048](https://www.wikidata.org/wiki/Q1048) |
+| Rome | Nero | — | [[connections/timeline/1st century AD|AD 54]] – [[connections/timeline/1st century AD|AD 68]] | [Q1413](https://www.wikidata.org/wiki/Q1413) |
+| Rome | Vespasian | — | [[connections/timeline/1st century AD|AD 69]] – [[connections/timeline/1st century AD|AD 79]] | [Q1419](https://www.wikidata.org/wiki/Q1419) |
+| Rome | Titus | — | [[connections/timeline/1st century AD|AD 79]] – [[connections/timeline/1st century AD|AD 81]] | [Q1421](https://www.wikidata.org/wiki/Q1421) |
+| Rome | Domitian | — | [[connections/timeline/1st century AD|AD 81]] – [[connections/timeline/1st century AD|AD 96]] | [Q1423](https://www.wikidata.org/wiki/Q1423) |
+| India | Ashoka | — | c. [[connections/timeline/3rd century BC|268 BC]] – [[connections/timeline/3rd century BC|232 BC]] | [Q8589](https://www.wikidata.org/wiki/Q8589) |
+| China | Qin Shi Huang | — | [[connections/timeline/3rd century BC|221 BC]] – [[connections/timeline/3rd century BC|210 BC]] | [Q7192](https://www.wikidata.org/wiki/Q7192) |
+| China | Emperor Wu of Han | — | [[connections/timeline/2nd century BC|141 BC]] – [[connections/timeline/1st century BC|87 BC]] | [Q7225](https://www.wikidata.org/wiki/Q7225) |
 
 Reign dates are conventional modern dates; *c.* marks approximate ones. The curated lists are in `data/rulers.csv` and `data/synchronisms.csv`.

@@ -42,9 +42,17 @@ tags: ["timeline"]
 
 ## World history *(modern dates)*
 
-- **Egypt:** [[connections/people/Tirhakah|Tirhakah (Taharqa)]] 690 BC–664 BC, [[connections/people/Neco|Neco (Necho II)]] 610 BC–595 BC
-- **Assyria:** [[connections/people/Sennacherib|Sennacherib]] 705 BC–681 BC, [[connections/people/Esarhaddon|Esarhaddon]] 681 BC–669 BC, [[connections/people/Osnappar|Osnappar (Ashurbanipal)]] 669 BC–631 BC
-- **Babylon:** [[connections/people/Nebuchadnezzar|Nebuchadnezzar (Nebuchadnezzar II)]] 605 BC–562 BC
+- **Egypt:** [[connections/world/Third Intermediate Period|Third Intermediate Period]] 1069 BC–664 BC, [[connections/world/Twenty-fifth Dynasty|Twenty-fifth Dynasty]] 747 BC–656 BC, [[connections/world/Late Period|Late Period]] 664 BC–332 BC, [[connections/world/Twenty-sixth Dynasty|Twenty-sixth Dynasty]] 664 BC–525 BC, [[connections/people/Tirhakah|Tirhakah (Taharqa)]] 690 BC–664 BC, [[connections/people/Neco|Neco (Necho II)]] 610 BC–595 BC
+- **Babylon:** [[connections/world/Neo-Babylonian Empire|Neo-Babylonian Empire]] 626 BC–539 BC, [[connections/people/Nebuchadnezzar|Nebuchadnezzar (Nebuchadnezzar II)]] 605 BC–562 BC
+- **Assyria:** [[connections/world/Neo-Assyrian Empire|Neo-Assyrian Empire]] 911 BC–609 BC, [[connections/people/Sennacherib|Sennacherib]] 705 BC–681 BC, [[connections/people/Esarhaddon|Esarhaddon]] 681 BC–669 BC, [[connections/people/Osnappar|Osnappar (Ashurbanipal)]] 669 BC–631 BC
+- **Anatolia:** [[connections/world/Neo-Hittite states|Neo-Hittite states]] 1180 BC–700 BC, [[connections/world/Kingdom of Lydia|Kingdom of Lydia]] 680 BC–546 BC
+- **Persia:** [[connections/world/Median Empire|Median Empire]] 678 BC–549 BC
+- **Greece:** [[connections/world/Archaic Greece|Archaic Greece]] 800 BC–480 BC
+- **Rome:** [[connections/world/Roman Kingdom|Roman Kingdom]] 753 BC–509 BC
+- **Carthage:** [[connections/world/Carthage|Carthage]] 814 BC–146 BC
+- **India:** [[connections/world/Vedic period|Vedic period]] 1500 BC–500 BC
+- **China:** [[connections/world/Spring and Autumn period|Spring and Autumn period]] 770 BC–476 BC
+- **Event:** [[connections/world/Fall of Nineveh|Fall of Nineveh]] 612 BC
 - **Synchronism:** Josiah killed at Megiddo ([[connections/chapters/12-2-kings/2 Kings 23|2 Kings 23:29]]) — modern 609 BC, Ussher 610 BC
 - **Synchronism:** Battle of Carchemish ([[connections/chapters/24-jeremiah/Jeremiah 46|Jeremiah 46:2]]) — modern 605 BC, Ussher 607 BC
 

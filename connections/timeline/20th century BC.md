@@ -40,6 +40,15 @@ tags: ["timeline"]
 - 1921 BC · died: [[connections/people/Terah|Terah]]
 - 1908 BC · died: [[connections/people/Arpachshad|Arpachshad]]
 
+## World history *(modern dates)*
+
+- **Egypt:** [[connections/world/Middle Kingdom|Middle Kingdom]] 2055 BC–1650 BC, [[connections/world/Twelfth Dynasty|Twelfth Dynasty]] 1985 BC–1773 BC
+- **Sumer and Akkad:** [[connections/world/Isin-Larsa period|Isin-Larsa period]] 2004 BC–1763 BC
+- **Assyria:** [[connections/world/Old Assyrian period|Old Assyrian period]] 2025 BC–1750 BC
+- **Greece:** [[connections/world/Minoan palace civilization|Minoan palace civilization]] 2000 BC–1450 BC
+- **India:** [[connections/world/Mature Harappan civilization|Mature Harappan civilization]] 2600 BC–1900 BC
+- **China:** [[connections/world/Xia dynasty|Xia dynasty]] 2070 BC–1600 BC
+
 ## Passages dated to this century *(Ussher)*
 
 [[connections/chapters/01-genesis/Genesis 9|Genesis 9]] · [[connections/chapters/01-genesis/Genesis 11|Genesis 11]] · [[connections/chapters/01-genesis/Genesis 12|Genesis 12]] · [[connections/chapters/01-genesis/Genesis 13|Genesis 13]] · [[connections/chapters/01-genesis/Genesis 14|Genesis 14]] · [[connections/chapters/01-genesis/Genesis 15|Genesis 15]] · [[connections/chapters/01-genesis/Genesis 16|Genesis 16]] · [[connections/chapters/43-john/John 1|John 1]]

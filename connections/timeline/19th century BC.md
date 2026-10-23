@@ -38,6 +38,16 @@ tags: ["timeline"]
 - 1821 BC · died: [[connections/people/Abraham|Abraham]]
 - 1817 BC · died: [[connections/people/Eber (Genesis 10.21)|Eber (Genesis 10.21)]]
 
+## World history *(modern dates)*
+
+- **Egypt:** [[connections/world/Middle Kingdom|Middle Kingdom]] 2055 BC–1650 BC, [[connections/world/Twelfth Dynasty|Twelfth Dynasty]] 1985 BC–1773 BC
+- **Sumer and Akkad:** [[connections/world/Isin-Larsa period|Isin-Larsa period]] 2004 BC–1763 BC
+- **Babylon:** [[connections/world/First Babylonian dynasty|First Babylonian dynasty]] 1894 BC–1595 BC
+- **Assyria:** [[connections/world/Old Assyrian period|Old Assyrian period]] 2025 BC–1750 BC
+- **Greece:** [[connections/world/Minoan palace civilization|Minoan palace civilization]] 2000 BC–1450 BC
+- **India:** [[connections/world/Mature Harappan civilization|Mature Harappan civilization]] 2600 BC–1900 BC
+- **China:** [[connections/world/Xia dynasty|Xia dynasty]] 2070 BC–1600 BC
+
 ## Passages dated to this century *(Ussher)*
 
 [[connections/chapters/01-genesis/Genesis 11|Genesis 11]] · [[connections/chapters/01-genesis/Genesis 17|Genesis 17]] · [[connections/chapters/01-genesis/Genesis 18|Genesis 18]] · [[connections/chapters/01-genesis/Genesis 19|Genesis 19]] · [[connections/chapters/01-genesis/Genesis 20|Genesis 20]] · [[connections/chapters/01-genesis/Genesis 21|Genesis 21]] · [[connections/chapters/01-genesis/Genesis 22|Genesis 22]] · [[connections/chapters/01-genesis/Genesis 23|Genesis 23]] · [[connections/chapters/01-genesis/Genesis 24|Genesis 24]] · [[connections/chapters/01-genesis/Genesis 25|Genesis 25]] · [[connections/chapters/01-genesis/Genesis 26|Genesis 26]] · [[connections/chapters/01-genesis/Genesis 36|Genesis 36]] · [[connections/chapters/13-1-chronicles/1 Chronicles 1|1 Chronicles 1]] · [[connections/chapters/43-john/John 1|John 1]]

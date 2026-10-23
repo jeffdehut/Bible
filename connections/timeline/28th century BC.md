@@ -21,6 +21,11 @@ tags: ["timeline"]
 
 - 2769 BC · died: [[connections/people/Kenan|Kenan]]
 
+## World history *(modern dates)*
+
+- **Egypt:** [[connections/world/Early Dynastic Period|Early Dynastic Period]] 3000 BC–2686 BC
+- **Sumer and Akkad:** [[connections/world/Early Dynastic Sumer|Early Dynastic Sumer]] 2900 BC–2334 BC
+
 ## Passages dated to this century *(Ussher)*
 
 [[connections/chapters/01-genesis/Genesis 5|Genesis 5]] · [[connections/chapters/43-john/John 1|John 1]]

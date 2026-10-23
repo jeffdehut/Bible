@@ -49,10 +49,18 @@ tags: ["timeline"]
 
 ## World history *(modern dates)*
 
-- **Egypt:** [[connections/people/So|So (Osorkon IV)]] 730 BC–715 BC
+- **Egypt:** [[connections/world/Third Intermediate Period|Third Intermediate Period]] 1069 BC–664 BC, [[connections/world/Twenty-second Dynasty|Twenty-second Dynasty]] 945 BC–715 BC, [[connections/world/Twenty-fifth Dynasty|Twenty-fifth Dynasty]] 747 BC–656 BC, [[connections/people/So|So (Osorkon IV)]] 730 BC–715 BC
+- **Assyria:** [[connections/world/Neo-Assyrian Empire|Neo-Assyrian Empire]] 911 BC–609 BC, [[connections/people/Tiglath-pileser|Tiglath-pileser (Tiglath-Pileser III)]] 745 BC–727 BC, [[connections/people/Shalmaneser|Shalmaneser (Shalmaneser V)]] 727 BC–722 BC, [[connections/world/Sargon II|Sargon II]] 722 BC–705 BC, [[connections/people/Sennacherib|Sennacherib]] 705 BC–681 BC
+- **Anatolia:** [[connections/world/Neo-Hittite states|Neo-Hittite states]] 1180 BC–700 BC
+- **Greece:** [[connections/world/Greek Dark Ages|Greek Dark Ages]] 1100 BC–800 BC, [[connections/world/Archaic Greece|Archaic Greece]] 800 BC–480 BC
+- **Rome:** [[connections/world/Roman Kingdom|Roman Kingdom]] 753 BC–509 BC
+- **Carthage:** [[connections/world/Carthage|Carthage]] 814 BC–146 BC
+- **India:** [[connections/world/Vedic period|Vedic period]] 1500 BC–500 BC
+- **China:** [[connections/world/Western Zhou|Western Zhou]] 1046 BC–771 BC, [[connections/world/Spring and Autumn period|Spring and Autumn period]] 770 BC–476 BC
 - **Aram:** [[connections/people/Hazael|Hazael]] 842 BC–796 BC, [[connections/people/Rezin (2 Kings 15.37)|Rezin (2 Kings 15.37)]] 754 BC–732 BC
-- **Assyria:** [[connections/people/Tiglath-pileser|Tiglath-pileser (Tiglath-Pileser III)]] 745 BC–727 BC, [[connections/people/Shalmaneser|Shalmaneser (Shalmaneser V)]] 727 BC–722 BC, Sargon II 722 BC–705 BC, [[connections/people/Sennacherib|Sennacherib]] 705 BC–681 BC
 - **Babylon:** [[connections/people/Merodach-baladan|Merodach-baladan (Marduk-apla-iddina II)]] 722 BC–703 BC
+- **Event:** [[connections/world/First Olympic Games|First Olympic Games]] 776 BC
+- **Event:** [[connections/world/Founding of Rome|Founding of Rome]] 753 BC
 - **Synchronism:** Menahem pays tribute to Pul ([[connections/chapters/12-2-kings/2 Kings 15|2 Kings 15:19]]) — modern 738 BC, Ussher 771 BC
 - **Synchronism:** Fall of Samaria ([[connections/chapters/12-2-kings/2 Kings 17|2 Kings 17:6]]) — modern 722 BC, Ussher 721 BC
 - **Synchronism:** Sennacherib invades Judah ([[connections/chapters/12-2-kings/2 Kings 18|2 Kings 18:13]]) — modern 701 BC, Ussher 713 BC

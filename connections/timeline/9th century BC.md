@@ -54,8 +54,14 @@ tags: ["timeline"]
 
 ## World history *(modern dates)*
 
+- **Egypt:** [[connections/world/Third Intermediate Period|Third Intermediate Period]] 1069 BC–664 BC, [[connections/world/Twenty-second Dynasty|Twenty-second Dynasty]] 945 BC–715 BC
+- **Assyria:** [[connections/world/Neo-Assyrian Empire|Neo-Assyrian Empire]] 911 BC–609 BC, [[connections/world/Shalmaneser III|Shalmaneser III]] 859 BC–824 BC
+- **Anatolia:** [[connections/world/Neo-Hittite states|Neo-Hittite states]] 1180 BC–700 BC
+- **Greece:** [[connections/world/Greek Dark Ages|Greek Dark Ages]] 1100 BC–800 BC
+- **Carthage:** [[connections/world/Carthage|Carthage]] 814 BC–146 BC
+- **India:** [[connections/world/Vedic period|Vedic period]] 1500 BC–500 BC
+- **China:** [[connections/world/Western Zhou|Western Zhou]] 1046 BC–771 BC
 - **Aram:** [[connections/people/Hazael|Hazael]] 842 BC–796 BC
-- **Assyria:** Shalmaneser III 859 BC–824 BC
 - **Synchronism:** Death of Ahab ([[connections/chapters/11-1-kings/1 Kings 22|1 Kings 22:37]]) — modern 853 BC, Ussher 897 BC
 - **Synchronism:** Mesha of Moab rebels ([[connections/chapters/12-2-kings/2 Kings 3|2 Kings 3:5]]) — modern 850 BC, Ussher 895 BC
 - **Synchronism:** Jehu becomes king of Israel ([[connections/chapters/12-2-kings/2 Kings 9|2 Kings 9:13]]) — modern 841 BC, Ussher 884 BC

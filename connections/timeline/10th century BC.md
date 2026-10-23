@@ -47,8 +47,13 @@ tags: ["timeline"]
 
 ## World history *(modern dates)*
 
+- **Egypt:** [[connections/world/Third Intermediate Period|Third Intermediate Period]] 1069 BC–664 BC, [[connections/world/Twenty-second Dynasty|Twenty-second Dynasty]] 945 BC–715 BC, [[connections/people/Shishak|Shishak (Shoshenq I)]] 943 BC–922 BC
+- **Assyria:** [[connections/world/Neo-Assyrian Empire|Neo-Assyrian Empire]] 911 BC–609 BC
+- **Anatolia:** [[connections/world/Neo-Hittite states|Neo-Hittite states]] 1180 BC–700 BC
+- **Greece:** [[connections/world/Greek Dark Ages|Greek Dark Ages]] 1100 BC–800 BC
+- **India:** [[connections/world/Vedic period|Vedic period]] 1500 BC–500 BC
+- **China:** [[connections/world/Western Zhou|Western Zhou]] 1046 BC–771 BC
 - **Tyre:** [[connections/people/Hiram (2 Samuel 5.11)|Hiram (2 Samuel 5.11) (Hiram I)]] 980 BC–947 BC
-- **Egypt:** [[connections/people/Shishak|Shishak (Shoshenq I)]] 943 BC–922 BC
 - **Synchronism:** Shishak invades Judah ([[connections/chapters/11-1-kings/1 Kings 14|1 Kings 14:25]]) — modern 925 BC, Ussher 970 BC
 
 ## Passages dated to this century *(Ussher)*

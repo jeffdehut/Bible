@@ -18,7 +18,19 @@ tags: ["timeline"]
 
 ## World history *(modern dates)*
 
-- **Persia:** [[connections/people/Darius (Ezra 4.5)|Darius (Ezra 4.5) (Darius I)]] 522 BC–486 BC, [[connections/people/Ahasuerus|Ahasuerus (Xerxes I)]] 486 BC–465 BC, [[connections/people/Artaxerxes|Artaxerxes (Artaxerxes I)]] 465 BC–424 BC
+- **Egypt:** [[connections/world/Late Period|Late Period]] 664 BC–332 BC
+- **Persia:** [[connections/world/Achaemenid Empire|Achaemenid Empire]] 550 BC–330 BC, [[connections/people/Darius (Ezra 4.5)|Darius (Ezra 4.5) (Darius I)]] 522 BC–486 BC, [[connections/people/Ahasuerus|Ahasuerus (Xerxes I)]] 486 BC–465 BC, [[connections/people/Artaxerxes|Artaxerxes (Artaxerxes I)]] 465 BC–424 BC, [[connections/world/Darius II|Darius II]] 423 BC–404 BC, [[connections/world/Artaxerxes II|Artaxerxes II]] 404 BC–358 BC
+- **Greece:** [[connections/world/Archaic Greece|Archaic Greece]] 800 BC–480 BC, [[connections/world/Classical Greece|Classical Greece]] 480 BC–323 BC
+- **Rome:** [[connections/world/Roman Republic|Roman Republic]] 509 BC–27 BC
+- **Carthage:** [[connections/world/Carthage|Carthage]] 814 BC–146 BC
+- **India:** [[connections/world/Vedic period|Vedic period]] 1500 BC–500 BC, [[connections/world/Mahajanapadas|Mahajanapadas]] 600 BC–345 BC
+- **China:** [[connections/world/Spring and Autumn period|Spring and Autumn period]] 770 BC–476 BC, [[connections/world/Warring States period|Warring States period]] 475 BC–221 BC
+- **Event:** [[connections/world/Battle of Marathon|Battle of Marathon]] 490 BC
+- **Thinkers and writers:** [[connections/world/Confucius|Confucius]] 551 BC–479 BC
+- **Thinkers and writers:** [[connections/world/Herodotus|Herodotus]] 484 BC–425 BC
+- **Thinkers and writers:** [[connections/world/Socrates|Socrates]] 470 BC–399 BC
+- **Thinkers and writers:** [[connections/world/Thucydides|Thucydides]] 460 BC–400 BC
+- **Thinkers and writers:** [[connections/world/Plato|Plato]] 428 BC–348 BC
 - **Synchronism:** Ezra comes to Jerusalem ([[connections/chapters/15-ezra/Ezra 7|Ezra 7:8]]) — modern 458 BC, Ussher 457 BC
 - **Synchronism:** Nehemiah comes to Jerusalem ([[connections/chapters/16-nehemiah/Nehemiah 2|Nehemiah 2:1]]) — modern 445 BC, Ussher 446 BC
 

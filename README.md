@@ -32,7 +32,7 @@ connections/                     Obsidian notes: cross-references, people, place
   README.md                      Start here: how to explore the connections in Obsidian
   genealogy/                     Family groups, generation by generation
   events/ timeline/              Dated events, century notes, synchronisms, the chart
-data/                            Curated rulers and synchronisms for the timeline (see data/README.md)
+data/                            Curated rulers, eras, world events and synchronisms (see data/README.md)
 books.json                       Index: names, OSIS ids, languages, counts, paths, Tanakh order
 sources/                         Raw upstream files, byte for byte (see sources/README.md)
 scripts/
@@ -95,7 +95,9 @@ It adds a genealogy and a timeline modeled on Sebastian C. Adams' *Synchronologi
 5. **Timeline:** 42 century notes from Creation to the apostles, and 450 dated events.
    Ussher's dates appear on 28,020 verses, the chronology Adams used. A table
    compares Ussher with modern dates for events outside sources also date. An SVG chart in
-   Adams' style draws the Bible's streams beside the surrounding nations.
+   Adams' style draws the Bible's streams beside the wider world. That covers the eras,
+   dynasties and rulers of Egypt, Mesopotamia, the Hittites, Persia, Greece, Rome, India and
+   China, plus world events and thinkers, all at modern dates.
 
 The data is open: OpenBible.info cross-references; STEPBible's tagged names, family links and
 verse-numbering mapping; Theographic's dates; and Wikidata identifiers. Start with
@@ -164,7 +166,6 @@ the printed 1894 edition.
 - Word-level morphology and lemmas: MorphGNT for the SBLGNT, and the Open Scriptures Hebrew
   Bible for the Hebrew
 - A lexicon/word-study layer keyed to verses
-- More synchronisms and world-history streams (Egyptian dynasties, Greek city-states, China and
-  India, as on Adams' chart), and the modern Thiele dates for the kings of Israel and Judah
+- The modern (Thiele) dates for the kings of Israel and Judah beside Ussher's on the chart
 - Add the Robinson-Pierpont Byzantine text (public domain) as a further comparison edition
 - A small reader or search tool built on `books.json` + `text/`

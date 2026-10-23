@@ -362,6 +362,10 @@ def write_readme(st):
         "narrates that outside evidence also dates, with Ussher's date beside the modern one. Ussher runs "
         "about 45 years earlier in the 10th–9th centuries BC and agrees within a few years from Josiah "
         f"onward. There are also {st['rulers']} rulers of the surrounding nations, with Wikidata links.",
+        f"- **World history:** {st['world_streams']} streams with modern dates for {st['periods']} eras and "
+        f"dynasties, {st['rulers']} rulers, {st['world_events']} world events and {st['world_figures']} "
+        f"thinkers and writers, from Egypt and Sumer to India and China. There are {st['world_notes']} notes "
+        "in `connections/world/`, and each century note lines them up with the Bible.",
         "- **[[connections/timeline/Synchronological Chart|Synchronological Chart]]:** an open "
         "reconstruction of Adams' chart as SVG, the whole span and five eras.", "",
         "Ussher anchor dates in the verse data: " + "; ".join(
@@ -615,6 +619,7 @@ def main():
     centuries = timeline.write_timeline(ctx, ORDER)
     timeline.write_synchronisms(ctx)
     charts = timeline.write_chart_note(ctx)
+    world_notes = timeline.write_world(ctx)
 
     people = sum(e["kind"] == "person" and e["named"] for e in entities)
     pairs = sum(len(t) for t in together.values()) // 2
@@ -651,7 +656,10 @@ def main():
         "theographic_people_matched": len(ctx.person_of), "theographic_places_matched": len(ctx.place_of),
         "dated_verses": len(chron.verse_year), "events": len(chron.events), "centuries": len(centuries),
         "people_with_lifespans": len(set(ctx.born) | set(ctx.died)),
-        "synchronisms": len(ctx.syncs), "rulers": len(ctx.rulers),
+        "synchronisms": len(ctx.syncs), "rulers": len(ctx.rulers), "periods": len(ctx.periods),
+        "world_events": sum(r["kind"] == "event" for r in ctx.world_events),
+        "world_figures": sum(r["kind"] == "figure" for r in ctx.world_events), "world_notes": world_notes,
+        "world_streams": len({r["stream"] for r in ctx.rulers + ctx.periods + ctx.world_events}),
         "undated_chapters": sum(1 for ch in all_chapters if ch not in ctx.chapter_span),
         "undated_psalms": sum(1 for ch in all_chapters if ch not in ctx.chapter_span and ch[0] == "Ps"),
         "ussher_anchors": [[label, expected, found] for label, expected, found in chron.anchors()],

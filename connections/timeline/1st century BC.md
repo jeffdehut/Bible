@@ -38,9 +38,17 @@ tags: ["timeline"]
 
 ## World history *(modern dates)*
 
-- **Rome:** [[connections/people/Augustus|Augustus]] 27 BC–AD 14
+- **Egypt:** [[connections/world/Ptolemaic Kingdom|Ptolemaic Kingdom]] 332 BC–30 BC, [[connections/world/Roman Egypt|Roman Egypt]] 30 BC–AD 100
+- **Persia:** [[connections/world/Parthian Empire|Parthian Empire]] 247 BC–AD 100
+- **Greece:** [[connections/world/Hellenistic period|Hellenistic period]] 323 BC–31 BC
+- **Seleucid:** [[connections/world/Seleucid Empire|Seleucid Empire]] 312 BC–63 BC
+- **Rome:** [[connections/world/Roman Republic|Roman Republic]] 509 BC–27 BC, [[connections/world/Roman Empire|Roman Empire]] 27 BC–AD 100, [[connections/people/Augustus|Augustus]] 27 BC–AD 14, [[connections/world/Julius Caesar|Julius Caesar]] 49 BC–44 BC
+- **India:** [[connections/world/Shunga Empire|Shunga Empire]] 185 BC–73 BC
+- **China:** [[connections/world/Han dynasty|Han dynasty]] 202 BC–AD 100, [[connections/world/Emperor Wu of Han|Emperor Wu of Han]] 141 BC–87 BC
 - **Herodian:** [[connections/people/Herod (Matthew 2.1)|Herod (Matthew 2.1) (Herod the Great)]] 37 BC–4 BC, [[connections/people/Archelaus|Archelaus (Herod Archelaus)]] 4 BC–AD 6, [[connections/people/Herod (Matthew 14.1)|Herod (Matthew 14.1) (Herod Antipas)]] 4 BC–AD 39
 - **Nabataea:** [[connections/people/Aretas|Aretas (Aretas IV)]] 9 BC–AD 40
+- **Event:** [[connections/world/Pompey takes Jerusalem|Pompey takes Jerusalem]] 63 BC
+- **Thinkers and writers:** [[connections/world/Philo of Alexandria|Philo of Alexandria]] 20 BC–AD 50
 - **Synchronism:** Birth of Jesus ([[connections/chapters/40-matthew/Matthew 2|Matthew 2:1]]) — modern 5 BC, Ussher 4 BC
 
 ## Passages dated to this century *(Ussher)*

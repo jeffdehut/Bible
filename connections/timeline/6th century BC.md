@@ -27,9 +27,16 @@ tags: ["timeline"]
 
 ## World history *(modern dates)*
 
-- **Egypt:** [[connections/people/Neco|Neco (Necho II)]] 610 BC–595 BC, [[connections/people/Hophra|Hophra (Apries)]] 589 BC–570 BC
-- **Babylon:** [[connections/people/Nebuchadnezzar|Nebuchadnezzar (Nebuchadnezzar II)]] 605 BC–562 BC, [[connections/people/Evil-merodach|Evil-merodach (Amel-Marduk)]] 562 BC–560 BC, [[connections/people/Belshazzar|Belshazzar]] 553 BC–539 BC
-- **Persia:** [[connections/people/Cyrus|Cyrus (Cyrus II)]] 559 BC–530 BC, [[connections/people/Darius (Ezra 4.5)|Darius (Ezra 4.5) (Darius I)]] 522 BC–486 BC
+- **Egypt:** [[connections/world/Late Period|Late Period]] 664 BC–332 BC, [[connections/world/Twenty-sixth Dynasty|Twenty-sixth Dynasty]] 664 BC–525 BC, [[connections/people/Neco|Neco (Necho II)]] 610 BC–595 BC, [[connections/people/Hophra|Hophra (Apries)]] 589 BC–570 BC
+- **Babylon:** [[connections/world/Neo-Babylonian Empire|Neo-Babylonian Empire]] 626 BC–539 BC, [[connections/people/Nebuchadnezzar|Nebuchadnezzar (Nebuchadnezzar II)]] 605 BC–562 BC, [[connections/people/Evil-merodach|Evil-merodach (Amel-Marduk)]] 562 BC–560 BC, [[connections/people/Belshazzar|Belshazzar]] 553 BC–539 BC, [[connections/world/Nabonidus|Nabonidus]] 556 BC–539 BC
+- **Anatolia:** [[connections/world/Kingdom of Lydia|Kingdom of Lydia]] 680 BC–546 BC, [[connections/world/Croesus|Croesus]] 560 BC–546 BC
+- **Persia:** [[connections/world/Median Empire|Median Empire]] 678 BC–549 BC, [[connections/world/Achaemenid Empire|Achaemenid Empire]] 550 BC–330 BC, [[connections/people/Cyrus|Cyrus (Cyrus II)]] 559 BC–530 BC, [[connections/people/Darius (Ezra 4.5)|Darius (Ezra 4.5) (Darius I)]] 522 BC–486 BC, [[connections/world/Cambyses II|Cambyses II]] 530 BC–522 BC
+- **Greece:** [[connections/world/Archaic Greece|Archaic Greece]] 800 BC–480 BC
+- **Rome:** [[connections/world/Roman Kingdom|Roman Kingdom]] 753 BC–509 BC, [[connections/world/Roman Republic|Roman Republic]] 509 BC–27 BC
+- **Carthage:** [[connections/world/Carthage|Carthage]] 814 BC–146 BC
+- **India:** [[connections/world/Vedic period|Vedic period]] 1500 BC–500 BC, [[connections/world/Mahajanapadas|Mahajanapadas]] 600 BC–345 BC
+- **China:** [[connections/world/Spring and Autumn period|Spring and Autumn period]] 770 BC–476 BC
+- **Thinkers and writers:** [[connections/world/Confucius|Confucius]] 551 BC–479 BC
 - **Synchronism:** Jehoiachin surrenders to Nebuchadnezzar ([[connections/chapters/12-2-kings/2 Kings 24|2 Kings 24:12]]) — modern 597 BC, Ussher 599 BC
 - **Synchronism:** Destruction of Jerusalem and the Temple ([[connections/chapters/12-2-kings/2 Kings 25|2 Kings 25:8]]) — modern 586 BC, Ussher 588 BC
 - **Synchronism:** Evil-merodach releases Jehoiachin ([[connections/chapters/12-2-kings/2 Kings 25|2 Kings 25:27]]) — modern 561 BC, Ussher 562 BC

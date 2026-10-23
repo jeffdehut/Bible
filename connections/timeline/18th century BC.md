@@ -64,6 +64,16 @@ tags: ["timeline"]
 - 1739 BC · died: [[connections/people/Rachel|Rachel]]
 - 1716 BC · died: [[connections/people/Isaac|Isaac]]
 
+## World history *(modern dates)*
+
+- **Egypt:** [[connections/world/Middle Kingdom|Middle Kingdom]] 2055 BC–1650 BC, [[connections/world/Twelfth Dynasty|Twelfth Dynasty]] 1985 BC–1773 BC
+- **Sumer and Akkad:** [[connections/world/Isin-Larsa period|Isin-Larsa period]] 2004 BC–1763 BC
+- **Babylon:** [[connections/world/First Babylonian dynasty|First Babylonian dynasty]] 1894 BC–1595 BC, [[connections/world/Hammurabi|Hammurabi]] 1792 BC–1750 BC
+- **Assyria:** [[connections/world/Old Assyrian period|Old Assyrian period]] 2025 BC–1750 BC
+- **Greece:** [[connections/world/Minoan palace civilization|Minoan palace civilization]] 2000 BC–1450 BC
+- **China:** [[connections/world/Xia dynasty|Xia dynasty]] 2070 BC–1600 BC
+- **Event:** [[connections/world/Code of Hammurabi|Code of Hammurabi]] 1754 BC
+
 ## Passages dated to this century *(Ussher)*
 
 [[connections/chapters/01-genesis/Genesis 25|Genesis 25]] · [[connections/chapters/01-genesis/Genesis 26|Genesis 26]] · [[connections/chapters/01-genesis/Genesis 27|Genesis 27]] · [[connections/chapters/01-genesis/Genesis 28|Genesis 28]] · [[connections/chapters/01-genesis/Genesis 29|Genesis 29]] · [[connections/chapters/01-genesis/Genesis 30|Genesis 30]] · [[connections/chapters/01-genesis/Genesis 31|Genesis 31]] · [[connections/chapters/01-genesis/Genesis 32|Genesis 32]] · [[connections/chapters/01-genesis/Genesis 33|Genesis 33]] · [[connections/chapters/01-genesis/Genesis 34|Genesis 34]] · [[connections/chapters/01-genesis/Genesis 35|Genesis 35]] · [[connections/chapters/01-genesis/Genesis 36|Genesis 36]] · [[connections/chapters/01-genesis/Genesis 37|Genesis 37]] · [[connections/chapters/01-genesis/Genesis 38|Genesis 38]] · [[connections/chapters/01-genesis/Genesis 39|Genesis 39]] · [[connections/chapters/01-genesis/Genesis 40|Genesis 40]] · [[connections/chapters/01-genesis/Genesis 41|Genesis 41]] · [[connections/chapters/01-genesis/Genesis 42|Genesis 42]] · [[connections/chapters/01-genesis/Genesis 43|Genesis 43]] · [[connections/chapters/01-genesis/Genesis 44|Genesis 44]] · [[connections/chapters/01-genesis/Genesis 45|Genesis 45]] · [[connections/chapters/01-genesis/Genesis 46|Genesis 46]] · [[connections/chapters/01-genesis/Genesis 47|Genesis 47]] · [[connections/chapters/13-1-chronicles/1 Chronicles 2|1 Chronicles 2]] · [[connections/chapters/13-1-chronicles/1 Chronicles 4|1 Chronicles 4]] · [[connections/chapters/13-1-chronicles/1 Chronicles 5|1 Chronicles 5]] · [[connections/chapters/43-john/John 1|John 1]]

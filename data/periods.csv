@@ -1,0 +1,60 @@
+stream,level,name,start,end,approximate,wikidata,note
+Egypt,era,Early Dynastic Period,3000 BC,2686 BC,yes,Q187979,Dynasties 1-2
+Egypt,era,Old Kingdom,2686 BC,2160 BC,yes,Q177819,Dynasties 3-8; the age of the pyramids
+Egypt,dynasty,Fourth Dynasty,2613 BC,2494 BC,yes,Q211001,Khufu's Great Pyramid at Giza
+Egypt,era,First Intermediate Period,2160 BC,2055 BC,yes,Q232211,
+Egypt,era,Middle Kingdom,2055 BC,1650 BC,yes,Q191324,
+Egypt,dynasty,Twelfth Dynasty,1985 BC,1773 BC,yes,Q719639,
+Egypt,era,Second Intermediate Period,1650 BC,1550 BC,yes,Q206715,Hyksos rule in the Nile Delta
+Egypt,era,New Kingdom,1550 BC,1069 BC,yes,,
+Egypt,dynasty,Eighteenth Dynasty,1550 BC,1295 BC,yes,Q146055,
+Egypt,dynasty,Nineteenth Dynasty,1295 BC,1186 BC,yes,Q157956,
+Egypt,dynasty,Twentieth Dynasty,1186 BC,1069 BC,yes,Q583501,
+Egypt,era,Third Intermediate Period,1069 BC,664 BC,yes,Q212728,
+Egypt,dynasty,Twenty-second Dynasty,945 BC,715 BC,yes,Q737629,Libyan dynasty founded by Shoshenq I (Shishak)
+Egypt,dynasty,Twenty-fifth Dynasty,747 BC,656 BC,yes,Q737648,Kushite pharaohs including Taharqa (Tirhakah)
+Egypt,era,Late Period,664 BC,332 BC,no,Q621917,
+Egypt,dynasty,Twenty-sixth Dynasty,664 BC,525 BC,no,Q662410,Saite pharaohs including Necho II and Apries (Hophra)
+Egypt,era,Ptolemaic Kingdom,332 BC,30 BC,no,Q2320005,
+Egypt,era,Roman Egypt,30 BC,AD 100,no,Q202311,Continues beyond the chart
+Sumer and Akkad,era,Early Dynastic Sumer,2900 BC,2334 BC,yes,,City-states such as Ur and Uruk
+Sumer and Akkad,era,Akkadian Empire,2334 BC,2154 BC,yes,Q4461035,
+Sumer and Akkad,era,Third Dynasty of Ur,2112 BC,2004 BC,yes,Q723587,
+Sumer and Akkad,era,Isin-Larsa period,2004 BC,1763 BC,yes,Q13577667,
+Babylon,era,First Babylonian dynasty,1894 BC,1595 BC,yes,,Middle chronology; includes Hammurabi
+Babylon,era,Kassite dynasty,1595 BC,1155 BC,yes,Q16630263,
+Babylon,era,Neo-Babylonian Empire,626 BC,539 BC,no,Q624887,
+Assyria,era,Old Assyrian period,2025 BC,1750 BC,yes,Q22948607,
+Assyria,era,Middle Assyrian Empire,1365 BC,1050 BC,yes,Q12642600,
+Assyria,era,Neo-Assyrian Empire,911 BC,609 BC,no,Q10914393,
+Anatolia,era,Old Hittite Kingdom,1650 BC,1500 BC,yes,Q12406731,
+Anatolia,era,Hittite Empire,1400 BC,1180 BC,yes,,
+Anatolia,era,Neo-Hittite states,1180 BC,700 BC,yes,Q770281,The Hittites of the books of Kings
+Anatolia,era,Kingdom of Lydia,680 BC,546 BC,yes,Q620765,Mermnad dynasty; conquered by Cyrus
+Persia,era,Median Empire,678 BC,549 BC,yes,,
+Persia,era,Achaemenid Empire,550 BC,330 BC,no,Q389688,
+Persia,era,Parthian Empire,247 BC,AD 100,no,Q1986139,Continues to AD 224
+Greece,era,Minoan palace civilization,2000 BC,1450 BC,yes,Q134178,Crete
+Greece,era,Mycenaean Greece,1600 BC,1100 BC,yes,Q181264,
+Greece,era,Greek Dark Ages,1100 BC,800 BC,yes,Q210443,
+Greece,era,Archaic Greece,800 BC,480 BC,yes,Q271834,
+Greece,era,Classical Greece,480 BC,323 BC,no,Q843745,
+Greece,era,Hellenistic period,323 BC,31 BC,no,Q428995,
+Seleucid,era,Seleucid Empire,312 BC,63 BC,no,Q93180,
+Rome,era,Roman Kingdom,753 BC,509 BC,yes,Q201038,Traditional dates
+Rome,era,Roman Republic,509 BC,27 BC,yes,Q17167,Traditional start date
+Rome,era,Roman Empire,27 BC,AD 100,no,Q2277,Continues beyond the chart
+Carthage,era,Carthage,814 BC,146 BC,yes,Q2429397,Traditional founding date
+India,era,Mature Harappan civilization,2600 BC,1900 BC,yes,,Indus Valley
+India,era,Vedic period,1500 BC,500 BC,yes,Q215262,
+India,era,Mahajanapadas,600 BC,345 BC,yes,Q846025,
+India,era,Nanda Empire,345 BC,322 BC,yes,Q949268,
+India,era,Maurya Empire,322 BC,185 BC,yes,,
+India,era,Shunga Empire,185 BC,73 BC,yes,Q651377,
+China,era,Xia dynasty,2070 BC,1600 BC,yes,Q169705,Traditional dates; its historicity is debated
+China,era,Shang dynasty,1600 BC,1046 BC,yes,Q128938,
+China,era,Western Zhou,1046 BC,771 BC,no,Q1069609,
+China,era,Spring and Autumn period,770 BC,476 BC,no,Q185047,Eastern Zhou
+China,era,Warring States period,475 BC,221 BC,no,Q185063,Eastern Zhou
+China,era,Qin dynasty,221 BC,206 BC,no,Q7183,
+China,era,Han dynasty,202 BC,AD 100,no,Q7209,Continues to AD 220

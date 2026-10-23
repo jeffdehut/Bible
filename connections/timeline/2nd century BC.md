@@ -14,7 +14,15 @@ tags: ["timeline"]
 
 ## World history *(modern dates)*
 
-- **Seleucid:** Antiochus IV Epiphanes 175 BC–164 BC
+- **Egypt:** [[connections/world/Ptolemaic Kingdom|Ptolemaic Kingdom]] 332 BC–30 BC
+- **Persia:** [[connections/world/Parthian Empire|Parthian Empire]] 247 BC–AD 100
+- **Greece:** [[connections/world/Hellenistic period|Hellenistic period]] 323 BC–31 BC
+- **Seleucid:** [[connections/world/Seleucid Empire|Seleucid Empire]] 312 BC–63 BC, [[connections/world/Antiochus IV Epiphanes|Antiochus IV Epiphanes]] 175 BC–164 BC
+- **Rome:** [[connections/world/Roman Republic|Roman Republic]] 509 BC–27 BC
+- **Carthage:** [[connections/world/Carthage|Carthage]] 814 BC–146 BC
+- **India:** [[connections/world/Maurya Empire|Maurya Empire]] 322 BC–185 BC, [[connections/world/Shunga Empire|Shunga Empire]] 185 BC–73 BC
+- **China:** [[connections/world/Han dynasty|Han dynasty]] 202 BC–AD 100, [[connections/world/Emperor Wu of Han|Emperor Wu of Han]] 141 BC–87 BC
+- **Event:** [[connections/world/Maccabean revolt|Maccabean revolt]] 167 BC
 
 ## Passages dated to this century *(Ussher)*
 

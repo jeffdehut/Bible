@@ -208,11 +208,17 @@ AD 1 – AD 100
 
 ## World history *(modern dates)*
 
-- **Rome:** [[connections/people/Augustus|Augustus]] 27 BC–AD 14, [[connections/people/Tiberius|Tiberius]] AD 14–AD 37, [[connections/people/Claudius|Claudius]] AD 41–AD 54
+- **Egypt:** [[connections/world/Roman Egypt|Roman Egypt]] 30 BC–AD 100
+- **Persia:** [[connections/world/Parthian Empire|Parthian Empire]] 247 BC–AD 100
+- **Rome:** [[connections/world/Roman Empire|Roman Empire]] 27 BC–AD 100, [[connections/people/Augustus|Augustus]] 27 BC–AD 14, [[connections/people/Tiberius|Tiberius]] AD 14–AD 37, [[connections/people/Claudius|Claudius]] AD 41–AD 54, [[connections/world/Nero|Nero]] AD 54–AD 68, [[connections/world/Vespasian|Vespasian]] AD 69–AD 79, [[connections/world/Titus|Titus]] AD 79–AD 81, [[connections/world/Domitian|Domitian]] AD 81–AD 96
+- **China:** [[connections/world/Han dynasty|Han dynasty]] 202 BC–AD 100
 - **Herodian:** [[connections/people/Archelaus|Archelaus (Herod Archelaus)]] 4 BC–AD 6, [[connections/people/Herod (Matthew 14.1)|Herod (Matthew 14.1) (Herod Antipas)]] 4 BC–AD 39, [[connections/people/Herod (Acts 12.1)|Herod (Acts 12.1) (Herod Agrippa I)]] AD 41–AD 44, [[connections/people/Agrippa|Agrippa (Herod Agrippa II)]] AD 48–AD 93
 - **Nabataea:** [[connections/people/Aretas|Aretas (Aretas IV)]] 9 BC–AD 40
 - **Roman officials:** [[connections/people/Quirinius|Quirinius (Publius Sulpicius Quirinius)]] AD 6–AD 12, [[connections/people/Pilate|Pilate (Pontius Pilate)]] AD 26–AD 36, [[connections/people/Felix|Felix (Antonius Felix)]] AD 52–AD 60, [[connections/people/Festus|Festus (Porcius Festus)]] AD 60–AD 62, [[connections/people/Gallio|Gallio]] AD 51–AD 52
 - **High priests:** [[connections/people/Annas|Annas]] AD 6–AD 15, [[connections/people/Caiaphas|Caiaphas]] AD 18–AD 36
+- **Event:** [[connections/world/Destruction of the Second Temple|Destruction of the Second Temple]] AD 70
+- **Thinkers and writers:** [[connections/world/Philo of Alexandria|Philo of Alexandria]] 20 BC–AD 50
+- **Thinkers and writers:** [[connections/world/Josephus|Josephus]] AD 37–AD 100
 - **Synchronism:** Fifteenth year of Tiberius ([[connections/chapters/42-luke/Luke 3|Luke 3:1]]) — modern AD 28, Ussher AD 26
 - **Synchronism:** Death of Herod Agrippa I ([[connections/chapters/44-acts/Acts 12|Acts 12:23]]) — modern AD 44, Ussher AD 44
 - **Synchronism:** Claudius expels the Jews from Rome ([[connections/chapters/44-acts/Acts 18|Acts 18:2]]) — modern AD 49, Ussher AD 54

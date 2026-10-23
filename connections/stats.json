@@ -28,7 +28,12 @@
   "centuries": 42,
   "people_with_lifespans": 84,
   "synchronisms": 23,
-  "rulers": 41,
+  "rulers": 65,
+  "periods": 59,
+  "world_events": 12,
+  "world_figures": 8,
+  "world_notes": 107,
+  "world_streams": 20,
   "undated_chapters": 127,
   "undated_psalms": 113,
   "ussher_anchors": [

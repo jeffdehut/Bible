@@ -104,6 +104,13 @@
         "a": 1,
         "rgb": 7220224
       }
+    },
+    {
+      "query": "path:connections/world",
+      "color": {
+        "a": 1,
+        "rgb": 1145445
+      }
     }
   ],
   "collapse-display": true,

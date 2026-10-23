@@ -1,13 +1,14 @@
 # Curated data
 
 Small hand-curated tables used by `scripts/connections.py` for the timeline in
-`connections/timeline/`. Unlike the other sources in this repository, these were compiled
+`connections/timeline/` and the world-history notes in `connections/world/`. Unlike the other sources in this repository, these were compiled
 here, so every row is meant to be checked and corrected.
 
 ## rulers.csv
 
-Rulers and officials of the nations around Israel, for the world-history streams of the
-Synchronological Chart.
+Rulers and officials, both those the Bible names and other well-known rulers (Hammurabi,
+Ramesses II, Ashoka, Qin Shi Huang), for the world-history streams of the Synchronological
+Chart.
 
 | Column | Meaning |
 |---|---|
@@ -40,3 +41,31 @@ the modern date, in `connections/timeline/Synchronisms.md` and on the chart.
 
 If an anchor verse has no Ussher date in the source data, the nearest dated verse in the
 same chapter is used, and the note says so.
+
+## periods.csv
+
+Eras and dynasties of the wider world, drawn as the pale bands of each stream.
+
+| Column | Meaning |
+|---|---|
+| `stream` | Egypt, Sumer and Akkad, Babylon, Assyria, Anatolia, Persia, Greece, Seleucid, Rome, Carthage, India, China |
+| `level` | `era` (e.g. Old Kingdom) or `dynasty` (e.g. Eighteenth Dynasty) |
+| `name`, `start`, `end`, `approximate`, `wikidata`, `note` | As in `rulers.csv` |
+
+Dates follow common modern references. Egypt follows the dates in *The Oxford History of
+Ancient Egypt* (ed. Shaw), Mesopotamia the "middle chronology", and China the conventional
+dynastic dates (the Xia dynasty's dates are traditional and its historicity is debated).
+Third-millennium dates are uncertain by decades or more.
+
+## world_events.csv
+
+| Column | Meaning |
+|---|---|
+| `stream` | `World events` or `Thinkers and writers` |
+| `kind` | `event` (a single year in `start`) or `figure` (a lifespan, `start`–`end`) |
+| `name`, `start`, `end`, `approximate`, `wikidata`, `note` | As above |
+
+## Wikidata identifiers
+
+Every identifier was found by exact English label in Wikidata and checked against its
+description. Identifiers are left blank where no item could be confirmed, rather than guessed.

@@ -36,6 +36,12 @@ tags: ["timeline"]
 - 2353 BC · died: [[connections/people/Lamech (Genesis 5.25)|Lamech (Genesis 5.25)]]
 - 2348 BC · died: [[connections/people/Methuselah|Methuselah]]
 
+## World history *(modern dates)*
+
+- **Egypt:** [[connections/world/Old Kingdom|Old Kingdom]] 2686 BC–2160 BC
+- **Sumer and Akkad:** [[connections/world/Early Dynastic Sumer|Early Dynastic Sumer]] 2900 BC–2334 BC, [[connections/world/Akkadian Empire|Akkadian Empire]] 2334 BC–2154 BC, [[connections/world/Sargon of Akkad|Sargon of Akkad]] 2334 BC–2279 BC
+- **India:** [[connections/world/Mature Harappan civilization|Mature Harappan civilization]] 2600 BC–1900 BC
+
 ## Passages dated to this century *(Ussher)*
 
 [[connections/chapters/01-genesis/Genesis 5|Genesis 5]] · [[connections/chapters/01-genesis/Genesis 7|Genesis 7]] · [[connections/chapters/01-genesis/Genesis 8|Genesis 8]] · [[connections/chapters/01-genesis/Genesis 10|Genesis 10]] · [[connections/chapters/01-genesis/Genesis 11|Genesis 11]] · [[connections/chapters/43-john/John 1|John 1]]

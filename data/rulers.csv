@@ -40,3 +40,27 @@ Roman officials,Porcius Festus,Festus,Festus@Act.24.27-,Q464307,AD 60,AD 62,yes,
 Roman officials,Gallio,Gallio,Gallio@Act.18.12-,Q452194,AD 51,AD 52,no,Proconsul of Achaia (Delphi inscription)
 High priests,Annas,Annas,Annas@Luk.3.2-Act,Q51680,AD 6,AD 15,no,
 High priests,Caiaphas,Caiaphas,Caiaphas@Mat.26.3-Act,Q211246,AD 18,AD 36,no,
+Egypt,Khufu,,,Q161904,2589 BC,2566 BC,yes,Builder of the Great Pyramid
+Egypt,Hatshepsut,,,Q129234,1479 BC,1458 BC,yes,
+Egypt,Thutmose III,,,Q157899,1479 BC,1425 BC,yes,
+Egypt,Akhenaten,,,Q81794,1353 BC,1336 BC,yes,
+Egypt,Tutankhamun,,,Q12154,1332 BC,1323 BC,yes,
+Egypt,Ramesses II,,,Q1523,1279 BC,1213 BC,yes,
+Egypt,Merneptah,,,Q158043,1213 BC,1203 BC,yes,His stele (c. 1208 BC) is the earliest mention of Israel outside the Bible
+Sumer and Akkad,Sargon of Akkad,,,Q199461,2334 BC,2279 BC,yes,
+Sumer and Akkad,Ur-Nammu,,,Q297417,2112 BC,2095 BC,yes,
+Babylon,Hammurabi,,,Q36359,1792 BC,1750 BC,yes,Middle chronology
+Babylon,Nabonidus,,,Q239414,556 BC,539 BC,no,Father of Belshazzar
+Anatolia,Suppiluliuma I,,,Q354903,1344 BC,1322 BC,yes,
+Anatolia,Croesus,,,Q184462,560 BC,546 BC,yes,
+Persia,Cambyses II,,,Q182483,530 BC,522 BC,no,
+Persia,Darius II,,,Q202236,423 BC,404 BC,no,
+Persia,Artaxerxes II,,,Q188472,404 BC,358 BC,no,
+Rome,Julius Caesar,,,Q1048,49 BC,44 BC,no,Dictator
+Rome,Nero,,,Q1413,AD 54,AD 68,no,The emperor to whom Paul appealed (Acts 25:11)
+Rome,Vespasian,,,Q1419,AD 69,AD 79,no,
+Rome,Titus,,,Q1421,AD 79,AD 81,no,Destroyed Jerusalem and the Temple in AD 70 as general
+Rome,Domitian,,,Q1423,AD 81,AD 96,no,
+India,Ashoka,,,Q8589,268 BC,232 BC,yes,
+China,Qin Shi Huang,,,Q7192,221 BC,210 BC,no,First emperor of China
+China,Emperor Wu of Han,,,Q7225,141 BC,87 BC,no,
