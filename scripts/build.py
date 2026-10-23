@@ -60,7 +60,14 @@ def parse_hebrew(path):
     return title, verses
 
 
+# Words that are not ordinary Greek words. "cxv" is the numeral 666 in Rev 13:18,
+# printed with a stigma (ϛ = 6), not a final sigma.
+GREEK_SPECIAL = {"cxv": "χξϛ"}
+
+
 def greek_word(word):
+    if word in GREEK_SPECIAL:
+        return GREEK_SPECIAL[word]
     out = "".join(GREEK[c] for c in word)
     return out[:-1] + "ς" if out.endswith("σ") else out
 

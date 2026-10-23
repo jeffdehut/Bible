@@ -1,5 +1,5 @@
-‪xxxx    Unicode/XML Leningrad Codex [UXLC 2.5]‬
-‪xxxx    Build: 27.6    -    31 Mar 2026  12:00‬
+‪xxxx    Unicode/XML Leningrad Codex [UXLC 2.6]‬
+‪xxxx    Build: 27.7    -    18 Oct 2026  06:43‬
 ‪xxxx    Layout: Full; Content: Accents.‬
 ‪xxxx‬
 ‪xxxx    Malachi (3 chapters, 55 verses).‬
