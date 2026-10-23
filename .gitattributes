@@ -1,0 +1,3 @@
+sources/** -text linguist-vendored
+*.tsv text eol=lf
+*.py text eol=lf
