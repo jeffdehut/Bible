@@ -364,46 +364,120 @@
 
 *Status: draft*
 
-**1** In the year that King Uzziah died,[^6-year] I saw the Lord[^6-lord] sitting on a throne, high and lifted up, and the hem of his robe filled the temple.[^6-temple]
+**1** In the year that King Uzziah died,[^6-1] I saw the Lord[^6-2] sitting on a throne, high and lifted up, and the hem of his robe filled the temple.[^6-3]
 
-**2** Seraphim[^6-seraphim] stood above him. Each had six wings: with two he covered his face, with two he covered his feet,[^6-feet] and with two he flew.
+**2** Seraphim[^6-4] stood above him. Each had six wings: with two he covered his face, with two he covered his feet,[^6-5] and with two he flew.
 
-**3** And they called to one another: "Holy, holy, holy is Yahweh of Armies![^6-armies] The whole earth is full of his glory."[^6-glory]
+**3** And they called to one another: "Holy, holy, holy is Yahweh of Armies![^6-6] The whole earth is full of his glory."[^6-7]
 
-**4** The doorposts and thresholds[^6-thresholds] shook at the sound of the one who called, and the house was filled with smoke.
+**4** The doorposts and thresholds[^6-8] shook at the sound of the one who called, and the house was filled with smoke.
 
-**5** Then I said, "Woe is me! I am ruined![^6-ruined] For I am a man of unclean lips, and I live among a people of unclean lips, and my eyes have seen the King, Yahweh of Armies!"
+**5** Then I said, "Woe is me! I am ruined![^6-9] For I am a man of unclean lips, and I live among a people of unclean lips, and my eyes have seen the King, Yahweh of Armies!"
 
-**6** Then one of the seraphim flew to me, holding in his hand a glowing coal[^6-coal] that he had taken with tongs from the altar.
+**6** Then one of the seraphim flew to me, holding in his hand a glowing coal[^6-10] that he had taken with tongs from the altar.
 
-**7** He touched my mouth with it and said, "See, this has touched your lips. Your guilt is taken away, and your sin is atoned for."[^6-atoned]
+**7** He touched my mouth with it and said, "See, this has touched your lips. Your guilt is taken away, and your sin is atoned for."[^6-11]
 
-**8** Then I heard the voice of the Lord saying, "Whom shall I send? Who will go for us?"[^6-us] And I said, "Here I am. Send me!"
+**8** Then I heard the voice of the Lord saying, "Whom shall I send? Who will go for us?"[^6-12] And I said, "Here I am. Send me!"
 
 **9** He said, "Go, and say to this people: 'Keep on hearing, but do not understand; keep on seeing, but do not perceive.'
 
-**10** Make the heart of this people dull,[^6-dull] make their ears heavy and shut their eyes, so that they may not see with their eyes, hear with their ears, and understand with their heart, and turn back and be healed."[^6-quoted]
+**10** Make the heart of this people dull,[^6-13] make their ears heavy and shut their eyes, so that they may not see with their eyes, hear with their ears, and understand with their heart, and turn back and be healed."[^6-14]
 
 **11** Then I said, "How long, Lord?" And he answered, "Until cities lie in ruins with no one living in them, and houses with no people, and the land is left utterly desolate,
 
 **12** until Yahweh sends the people far away, and the deserted places are many in the middle of the land.
 
-**13** Even if a tenth remains in it, it will be burned again,[^6-burned] like a terebinth or an oak whose stump remains when it is cut down.[^6-felled] The holy seed is its stump."[^6-seed]
+**13** Even if a tenth remains in it, it will be burned again,[^6-15] like a terebinth or an oak whose stump remains when it is cut down.[^6-16] The holy seed is its stump."[^6-17]
 
-[^6-armies]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles. *Yahweh of Armies* (Hebrew *YHWH tseva'ot*) is traditionally "the LORD of hosts" or "the LORD Almighty". *Tseva'ot* means armies: the heavenly hosts and the armies of Israel. Also in verse 5.
-[^6-atoned]: Hebrew *kipper*, "atone, make atonement", the word used for the removal of sin by sacrifice.
-[^6-burned]: Or "it will be laid waste again".
-[^6-coal]: Or "a hot stone".
-[^6-dull]: Literally "fat".
-[^6-feet]: Perhaps their bodies. "Feet" is sometimes a polite word for the private parts (7:20).
-[^6-felled]: Or "when it is felled". Hebrew *shalleket*, found also in 1 Chronicles 26:16 as the name of a temple gate.
-[^6-glory]: Or "His glory is the fullness of the whole earth". The threefold "holy" is echoed in Revelation 4:8, and this verse is sung in Jewish and Christian worship (the *Kedushah* and the *Sanctus*).
-[^6-lord]: Hebrew *Adonai*, "the Lord", not the name Yahweh. Also in verses 8 and 11.
-[^6-quoted]: Verses 9–10 are quoted in Matthew 13:14–15; Mark 4:12; Luke 8:10; John 12:40 and Acts 28:26–27, mostly from the Greek Septuagint, which turns the commands into a description: "You will indeed hear but never understand … For the heart of this people has grown dull."
-[^6-ruined]: Or "I am silenced". Hebrew *nidmeti*.
-[^6-seed]: The Septuagint does not have this sentence.
-[^6-seraphim]: Hebrew *seraphim*, probably "burning ones". The same word is used of the venomous snakes in the wilderness (Numbers 21:6) and of a "flying serpent" in Isaiah 14:29 and 30:6. Here they are winged beings that attend the throne of God.
-[^6-temple]: Hebrew *heikhal*, the main hall of the temple, or a palace.
-[^6-thresholds]: Literally "the foundations of the thresholds", perhaps the pivots on which the doors turned.
-[^6-us]: The plural may include the heavenly beings around the throne (compare 1 Kings 22:19–22).
-[^6-year]: About 740 BC.
+[^6-1]: About 740 BC.
+[^6-2]: Hebrew *Adonai*, "the Lord", not the name Yahweh. Also in verses 8 and 11.
+[^6-3]: Hebrew *heikhal*, the main hall of the temple, or a palace.
+[^6-4]: Hebrew *seraphim*, probably "burning ones". The same word is used of the venomous snakes in the wilderness (Numbers 21:6) and of a "flying serpent" in Isaiah 14:29 and 30:6. Here they are winged beings that attend the throne of God.
+[^6-5]: Perhaps their bodies. "Feet" is sometimes a polite word for the private parts (7:20).
+[^6-6]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles. *Yahweh of Armies* (Hebrew *YHWH tseva'ot*) is traditionally "the LORD of hosts" or "the LORD Almighty". *Tseva'ot* means armies: the heavenly hosts and the armies of Israel. Also in verse 5.
+[^6-7]: Or "His glory is the fullness of the whole earth". The threefold "holy" is echoed in Revelation 4:8, and this verse is sung in Jewish and Christian worship (the *Kedushah* and the *Sanctus*).
+[^6-8]: Literally "the foundations of the thresholds", perhaps the pivots on which the doors turned.
+[^6-9]: Or "I am silenced". Hebrew *nidmeti*.
+[^6-10]: Or "a hot stone".
+[^6-11]: Hebrew *kipper*, "atone, make atonement", the word used for the removal of sin by sacrifice.
+[^6-12]: The plural may include the heavenly beings around the throne (compare 1 Kings 22:19–22).
+[^6-13]: Literally "fat".
+[^6-14]: Verses 9–10 are quoted in Matthew 13:14–15; Mark 4:12; Luke 8:10; John 12:40 and Acts 28:26–27, mostly from the Greek Septuagint, which turns the commands into a description: "You will indeed hear but never understand … For the heart of this people has grown dull."
+[^6-15]: Or "it will be laid waste again".
+[^6-16]: Or "when it is felled". Hebrew *shalleket*, found also in 1 Chronicles 26:16 as the name of a temple gate.
+[^6-17]: The Septuagint does not have this sentence.
+
+## Chapter 7
+
+*Status: draft*
+
+**1** In the days of Ahaz son of Jotham, son of Uzziah, king of Judah, Rezin king of Aram and Pekah son of Remaliah, king of Israel, marched up to Jerusalem to wage war against it, but they could not conquer it.[^7-1]
+
+**2** When the house of David was told, "Aram has joined forces with Ephraim,"[^7-2] the heart of Ahaz and the hearts of his people shook, as the trees of the forest shake in the wind.
+
+**3** Then Yahweh[^7-3] said to Isaiah, "Go out to meet Ahaz, you and your son Shear-jashub,[^7-4] at the end of the channel of the Upper Pool, on the road to the Launderer's Field.[^7-5]
+
+**4** Say to him, 'Be careful, keep calm, and do not be afraid. Do not lose heart because of these two smoldering stubs of firewood, because of the fierce anger of Rezin and Aram and the son of Remaliah.[^7-6]
+
+**5** Aram, with Ephraim and the son of Remaliah, has plotted evil against you. They have said:
+
+**6** Let us invade Judah and terrify it, and break it open for ourselves, and make the son of Tabeel[^7-7] king in it.
+
+**7** This is what the Lord Yahweh says: It will not stand; it will not happen.
+
+**8** For the head of Aram is Damascus, and the head of Damascus is Rezin. Within sixty-five years Ephraim will be shattered and will no longer be a people.
+
+**9** The head of Ephraim is Samaria, and the head of Samaria is the son of Remaliah. If you do not stand firm in faith, you will not stand firm at all.'"[^7-8]
+
+**10** Again Yahweh spoke to Ahaz:
+
+**11** "Ask Yahweh your God for a sign, whether as deep as Sheol or as high as the heavens above."[^7-9]
+
+**12** But Ahaz said, "I will not ask. I will not put Yahweh to the test."
+
+**13** Then Isaiah[^7-10] said, "Listen now, house of David! Is it not enough for you to wear out the patience of people, that you wear out the patience of my God too?
+
+**14** Therefore the Lord himself will give you a sign: Look, the young woman[^7-11] is pregnant and will give birth to a son,[^7-12] and she will call him Immanuel.[^7-13]
+
+**15** He will eat curds and honey by the time he knows how to reject evil and choose good.[^7-14]
+
+**16** For before the boy knows how to reject evil and choose good, the land whose two kings you dread will be abandoned.
+
+**17** Yahweh will bring on you, on your people and on your father's house days such as have not come since the day Ephraim broke away from Judah:[^7-15] the king of Assyria."
+
+**18** On that day Yahweh will whistle for the fly that is at the far end of the streams of Egypt and for the bee that is in the land of Assyria.
+
+**19** They will all come and settle in the steep ravines and in the clefts of the rocks, on all the thornbushes and on all the watering places.[^7-16]
+
+**20** On that day the Lord will shave with a razor hired from beyond the River,[^7-17] with the king of Assyria, the head and the hair of the feet,[^7-18] and it will sweep away the beard as well.
+
+**21** On that day a man will keep alive a young cow and two sheep.
+
+**22** Because they give so much milk, he will eat curds. Everyone who is left in the land will eat curds and honey.
+
+**23** On that day every place where there used to be a thousand vines, worth a thousand shekels of silver,[^7-19] will become briers and thorns.
+
+**24** People will go there with bow and arrows, for all the land will be briers and thorns.
+
+**25** As for all the hills that used to be dug with a hoe, you will not go there for fear of the briers and thorns. They will become a place where cattle are let loose and sheep trample.
+
+[^7-1]: Literally "but he could not fight against it". Aram, the kingdom of the Arameans with its capital at Damascus, and Israel, the northern kingdom, attacked Judah in about 734 BC (2 Kings 16:5).
+[^7-2]: Literally "Aram has settled on Ephraim". *Ephraim*, the largest tribe of the north, stands for the northern kingdom of Israel.
+[^7-3]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^7-4]: *Shear-jashub* means "A remnant will return" (10:20–22).
+[^7-5]: Traditionally "the Fuller's Field", where cloth was washed and bleached (36:2).
+[^7-6]: Pekah. Isaiah does not use his name, perhaps in contempt.
+[^7-7]: Hebrew *Tav'al*. The name is probably Tabeel, "God is good". The vowels of the Hebrew text may make it sound like "good-for-nothing".
+[^7-8]: A play on words: *im lo ta'aminu ki lo te'amenu*. Both verbs come from the root *aman*, "be firm, be sure", the root of *amen*. The promise to David was that his house would be made firm (2 Samuel 7:16). *You* is plural, addressed to the house of David.
+[^7-9]: The vowel points read "make it deep, ask" (*she'alah*). The same consonants read as *she'olah*, "deep as Sheol", match "high above" in the next line, and that reading is followed here. *Sheol* is the realm of the dead.
+[^7-10]: Literally "he".
+[^7-11]: Hebrew *almah*, "young woman", a girl old enough to marry. It is used of Rebekah (Genesis 24:43) and of Moses' sister (Exodus 2:8). The word does not in itself say whether she is a virgin; the more specific word for that is *betulah*. With the article, "the young woman" is someone the hearers knew of, perhaps the king's wife or the prophet's. The Greek Septuagint translated *almah* here as *parthenos*, "virgin", and Matthew 1:23 quotes the Septuagint in telling of the birth of Jesus.
+[^7-12]: Or "will become pregnant and give birth to a son". The Hebrew has no verb, only the adjective "pregnant", and the time depends on the context.
+[^7-13]: *Immanuel* means "God is with us" (8:8, 10). The Septuagint reads "you will call", and Matthew 1:23 reads "they will call".
+[^7-14]: Or "so that he will know how to reject evil and choose good". *Curds and honey* are the food of a land where no crops are grown and herds graze freely (verses 21–22).
+[^7-15]: When the northern tribes broke away from the house of David after Solomon's death (1 Kings 12).
+[^7-16]: Hebrew *nahalolim*, a word found only here. Perhaps "watering holes" or "pastures".
+[^7-17]: The Euphrates.
+[^7-18]: "The hair of the feet" probably means the hair of the body, including the private parts. Shaving a man's beard was a deep humiliation (2 Samuel 10:4–5).
+[^7-19]: A shekel is about 2/5 ounce (11.5 grams), so a thousand shekels is about 25 pounds (11.5 kg).

@@ -369,3 +369,88 @@
 [^6-13]: Perhaps God.
 [^6-14]: Literally "For there are many words that increase vapor".
 [^6-15]: Literally "the number of the days of the life of his vapor".
+
+## Chapter 7
+
+*Status: draft*
+
+**1** A good name is better than good oil,[^7-1] and the day of death than the day of one's birth.
+
+**2** It is better to go to a house of mourning than to go to a house of feasting, for that is the end of every person, and the living will take it to heart.
+
+**3** Grief[^7-2] is better than laughter, for when the face is sad the heart may be glad.[^7-3]
+
+**4** The heart of the wise is in the house of mourning, but the heart of fools is in the house of pleasure.
+
+**5** It is better to listen to the rebuke of the wise than to listen to the song of fools.
+
+**6** For like the crackling of thorns under a pot,[^7-4] so is the laughter of the fool. This too is vapor.[^7-5]
+
+**7** Surely oppression[^7-6] makes the wise foolish, and a bribe corrupts the heart.
+
+**8** Better is the end of a thing than its beginning; better a patient spirit than a proud spirit.[^7-7]
+
+**9** Do not be quick in your spirit to become angry,[^7-8] for anger lodges in the lap of fools.
+
+**10** Do not say, "Why were the former days better than these?" For it is not from wisdom that you ask about this.
+
+**11** Wisdom is good with an inheritance,[^7-9] and an advantage to those who see the sun.
+
+**12** For to be in the shade of wisdom is to be in the shade of money,[^7-10] and the advantage of knowledge is this: wisdom gives life to those who have it.
+
+**13** Consider the work of God: who can make straight what he has made crooked?
+
+**14** In the day of prosperity, be glad,[^7-11] and in the day of adversity, consider: God has made the one as well as the other, so that no one can find out anything that will come after him.
+
+**15** In my days of vapor[^7-12] I have seen everything: there is a righteous person who perishes in his righteousness, and there is a wicked person who lives long in his wickedness.
+
+**16** Do not be too righteous, and do not make yourself too wise. Why destroy yourself?
+
+**17** Do not be too wicked, and do not be a fool. Why die before your time?
+
+**18** It is good that you should take hold of the one and not let go of the other,[^7-13] for whoever fears God will come through with both.[^7-14]
+
+**19** Wisdom makes the wise stronger than ten rulers in a city.
+
+**20** Surely there is no one on earth so righteous that he does good and never sins.[^7-15]
+
+**21** Also, do not take to heart all the things that people say, or you may hear your servant[^7-16] cursing you.
+
+**22** For your heart knows that many times you yourself have cursed others.
+
+**23** All this I tested by wisdom. I said, "I will be wise," but it was far from me.
+
+**24** What exists is far off, and deep, very deep. Who can find it out?
+
+**25** I turned, I and my heart, to know and to explore and to seek wisdom and the sum of things,[^7-17] and to know that wickedness is folly and that foolishness is madness.
+
+**26** And I find more bitter than death the woman who is a snare, whose heart is a net and whose hands are chains. The one who pleases God[^7-18] escapes her, but the sinner is caught by her.[^7-19]
+
+**27** "See, this is what I have found," says the Teacher,[^7-20] "adding one thing to another to find the sum,
+
+**28** which my soul still seeks but I have not found: one man[^7-21] among a thousand I have found, but a woman among all these I have not found.
+
+**29** Only see, this I have found: that God made human beings upright, but they have sought out many schemes."[^7-22]
+
+[^7-1]: A play on words: *shem*, "name", and *shemen*, "oil", here fragrant oil or perfume.
+[^7-2]: Hebrew *ka'as*, "vexation, grief, anger", as in 1:18.
+[^7-3]: Literally "for by sadness of face the heart is made good". Or "the heart is made better".
+[^7-4]: A play on words: *sirim*, "thorns", under the *sir*, "pot".
+[^7-5]: Hebrew *hevel*, "breath, vapor"; see 1:2.
+[^7-6]: Or "extortion".
+[^7-7]: Literally "better long of spirit than high of spirit".
+[^7-8]: The verb is from *ka'as*, translated "grief" in verse 3.
+[^7-9]: Or "Wisdom is as good as an inheritance".
+[^7-10]: Literally "For in the shade of wisdom, in the shade of silver". Shade is a picture of protection.
+[^7-11]: Literally "In the day of good, be in good".
+[^7-12]: Literally "in the days of my vapor", that is, in my brief life.
+[^7-13]: Literally "and also from this do not rest your hand".
+[^7-14]: Literally "will go out with all of them". Or "will avoid all extremes".
+[^7-15]: Compare 1 Kings 8:46.
+[^7-16]: Or "slave".
+[^7-17]: Hebrew *cheshbon*, "reckoning, account, explanation". Also in verse 27.
+[^7-18]: Literally "who is good before God".
+[^7-19]: Some see here the dangerous woman of Proverbs 5 and 7, or Folly pictured as a woman (Proverbs 9:13–18).
+[^7-20]: Here, as in 1:2 and 12:8–10, the narrator speaks of the Teacher. In the Hebrew the verb "says" is feminine, perhaps matching the feminine form of *Qohelet* (see 1:1).
+[^7-21]: Hebrew *adam*, usually "human being", here set against "woman".
+[^7-22]: Hebrew *chishvonot*, a play on *cheshbon*, "sum", in verses 25 and 27.

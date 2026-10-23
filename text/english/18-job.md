@@ -2658,3 +2658,115 @@
 [^37-22]: Literally "From the north comes gold". The far north was thought of as the place where God (or the gods) lived (compare Isaiah 14:13; Psalm 48:3 (English 48:2)).
 [^37-23]: Hebrew *Shaddai*, traditionally "the Almighty"; the meaning is uncertain.
 [^37-24]: Literally "he does not see all the wise of heart", that is, those who think themselves wise. Some read "all who are wise in heart fear him", with a small change to the Hebrew.
+
+## Chapter 38
+
+*Status: draft*
+
+**1** Then Yahweh[^38-1] answered Job out of the storm:[^38-2]
+
+**2** "Who is this who darkens counsel[^38-3] with words without knowledge?
+
+**3** Brace yourself[^38-4] like a man; I will question you, and you will inform me.
+
+**4** Where were you when I laid the foundations of the earth? Tell me, if you have understanding.
+
+**5** Who fixed its measurements? Surely you know! Or who stretched the measuring line over it?
+
+**6** On what were its bases sunk, or who laid its cornerstone,
+
+**7** while the morning stars sang together and all the sons of God[^38-5] shouted for joy?
+
+**8** Who shut in the sea with doors[^38-6] when it burst out from the womb,
+
+**9** when I made the clouds its garment and thick darkness its swaddling band,
+
+**10** when I set[^38-7] my limit for it and fixed its bars and doors,
+
+**11** and said, 'This far you may come, and no farther; here your proud waves must stop'?[^38-8]
+
+**12** Have you ever in your life[^38-9] commanded the morning, or shown the dawn its place,
+
+**13** so that it might take hold of the edges of the earth and shake the wicked[^38-10] out of it?
+
+**14** The earth[^38-11] is changed like clay under a seal, and its features stand out like a garment.[^38-12]
+
+**15** Their light is withheld from the wicked,[^38-13] and the arm raised high is broken.
+
+**16** Have you entered the springs of the sea, or walked in the recesses of the deep?
+
+**17** Have the gates of death been revealed to you? Have you seen the gates of deep darkness?[^38-14]
+
+**18** Have you understood the breadth of the earth? Tell me, if you know all this.
+
+**19** Where is the way to the place where light lives? And darkness, where is its home,
+
+**20** that you may take it to its territory and know the paths to its house?
+
+**21** You know, for you were born then, and the number of your days is great![^38-15]
+
+**22** Have you entered the storehouses of the snow, or seen the storehouses of the hail,
+
+**23** which I have kept for a time of trouble, for the day of battle and war?
+
+**24** Where is the way to the place where the light is divided,[^38-16] or where the east wind is scattered over the earth?
+
+**25** Who has cut a channel for the torrents of rain and a path for the thunderbolt,[^38-17]
+
+**26** to bring rain on a land where no one lives, on a wilderness where there are no human beings,
+
+**27** to satisfy the desolate wasteland and make the grass sprout?[^38-18]
+
+**28** Does the rain have a father? Who fathered the drops of dew?
+
+**29** From whose womb did the ice come? Who gave birth to the frost of heaven,
+
+**30** when the waters hide themselves as if turned to stone,[^38-19] and the surface of the deep is frozen?
+
+**31** Can you bind the chains of the Pleiades, or loosen the cords of Orion?[^38-20]
+
+**32** Can you bring out the Mazzaroth[^38-21] in its season, or guide the Bear with its children?[^38-22]
+
+**33** Do you know the decrees of the heavens? Can you establish their rule[^38-23] over the earth?
+
+**34** Can you lift up your voice to the clouds, so that a flood of water covers you?
+
+**35** Can you send out lightning bolts, so that they go and say to you, 'Here we are'?
+
+**36** Who has put wisdom in the ibis, or given understanding to the rooster?[^38-24]
+
+**37** Who has the wisdom to count the clouds? Who can tip over the water jars of heaven,
+
+**38** when the dust runs into a mass and the clods stick together?
+
+**39** Can you hunt prey for the lioness, or satisfy the appetite of the young lions,
+
+**40** when they crouch in their dens or lie in wait in the thicket?
+
+**41** Who provides food for the raven, when its young[^38-25] cry out to God and wander about for lack of food?
+
+[^38-1]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles. The name, used in the prose of chapters 1–2, has not appeared in the speeches since 12:9.
+[^38-2]: Or "the whirlwind". Hebrew *se'arah*, a storm wind. Yahweh speaks from here to 40:2, and again in 40:7–41:26 (English 40:7–41:34).
+[^38-3]: Hebrew *etsah*, "counsel, plan": God's purpose for the world.
+[^38-4]: Literally "Gird up your loins": tie up your long robe, ready for action.
+[^38-5]: Heavenly beings (see 1:6).
+[^38-6]: Literally "And he shut in the sea with doors". The question "Who …?" of verses 5–6 continues.
+[^38-7]: Literally "broke": perhaps "cut out", "marked out".
+[^38-8]: Literally "and here one will set (a limit) against the pride of your waves".
+[^38-9]: Literally "since your days".
+[^38-10]: In the Hebrew text the letter *ayin* of *resha'im*, "wicked", is written raised above the line, a scribal mark. Also in verse 15.
+[^38-11]: Literally "It".
+[^38-12]: Literally "and they stand like a garment". The dawn brings out the shape of the land as a seal does in clay, and its colors like a dyed garment. The Hebrew of this line is uncertain.
+[^38-13]: For the wicked, darkness is their light (compare 24:17). On the raised letter in the Hebrew, see verse 13.
+[^38-14]: Hebrew *tsalmavet*, "deep darkness", traditionally read as "the shadow of death".
+[^38-15]: Said in irony.
+[^38-16]: Or "where the lightning is distributed". Hebrew *or*, "light".
+[^38-17]: Literally "for the flash of the thunders", as in 28:26.
+[^38-18]: Literally "to make sprout the going out of grass". Some read "to make the thirsty ground sprout grass".
+[^38-19]: Literally "The waters hide themselves like the stone".
+[^38-20]: Hebrew *Kimah* and *Kesil*, constellations that cannot be identified with certainty (see 9:9). *Chains* (Hebrew *ma'adannot*) may instead mean "bands" or "delights".
+[^38-21]: Hebrew *mazzarot*, a word of uncertain meaning: perhaps the constellations of the zodiac, or a particular star or constellation.
+[^38-22]: Hebrew *Ayish* (in 9:9, *Ash*), perhaps the Great Bear and the stars around it.
+[^38-23]: Hebrew *mishtar*, a word found only here, probably "rule". Literally "his rule", either the heavens' or God's.
+[^38-24]: Hebrew *tuchot* and *sekhvi*, words of uncertain meaning. They may be birds, the ibis (which announced the flooding of the Nile) and the rooster (which announces the dawn), or "the inward parts" and "the mind".
+[^38-25]: The Hebrew text is written "its young one" but read "its young ones".
