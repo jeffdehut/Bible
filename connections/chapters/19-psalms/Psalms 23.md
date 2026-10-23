@@ -18,6 +18,10 @@ tags: ["chapter", "ot", "wisdom"]
 
 ![[text/hebrew/19-psalms#Chapter 23]]
 
+## Plain English translation
+
+![[text/english/19-psalms#Chapter 23]]
+
 ## Cross-references
 
 - **23:1** → [[connections/chapters/50-philippians/Philippians 4|Philippians 4:19]] · [[connections/chapters/43-john/John 10|John 10:11]] · [[connections/chapters/23-isaiah/Isaiah 40|Isaiah 40:11]] · [[connections/chapters/43-john/John 10|John 10:27–30]] · [[connections/chapters/43-john/John 10|John 10:14]] · [[connections/chapters/66-revelation/Revelation 7|Revelation 7:17]] · [[connections/chapters/40-matthew/Matthew 6|Matthew 6:33]] · [[connections/chapters/60-1-peter/1 Peter 2|1 Peter 2:25]] · [[connections/chapters/26-ezekiel/Ezekiel 34|Ezekiel 34:11–12]] · [[connections/chapters/58-hebrews/Hebrews 13|Hebrews 13:5–6]] · [[connections/chapters/19-psalms/Psalms 34|Psalms 34:10–11]] · [[connections/chapters/60-1-peter/1 Peter 5|1 Peter 5:4]] · [[connections/chapters/19-psalms/Psalms 84|Psalms 84:12]] · [[connections/chapters/26-ezekiel/Ezekiel 34|Ezekiel 34:23–24]] · [[connections/chapters/45-romans/Romans 8|Romans 8:32]] · [[connections/chapters/42-luke/Luke 12|Luke 12:30–32]] · [[connections/chapters/58-hebrews/Hebrews 13|Hebrews 13:20]] · [[connections/chapters/33-micah/Micah 5|Micah 5:3]] · [[connections/chapters/19-psalms/Psalms 78|Psalms 78:52]] · [[connections/chapters/24-jeremiah/Jeremiah 23|Jeremiah 23:3–4]] · [[connections/chapters/24-jeremiah/Jeremiah 31|Jeremiah 31:10]] · [[connections/chapters/19-psalms/Psalms 79|Psalms 79:13–80:2]] · [[connections/chapters/33-micah/Micah 5|Micah 5:1]]

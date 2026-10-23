@@ -26,6 +26,8 @@ text/
   hebrew/01-genesis.md …         Old Testament (UXLC)
   greek/40-matthew.md …          New Testament (SBLGNT): the main Greek text
   greek-tr/40-matthew.md …       Textus Receptus (Scrivener 1894), for comparison
+  english/…                      Open Plain English Translation: compiled chapters (pilot)
+translation/                     Translation source: one file per chapter, plus STATUS.md
 apparatus/
   greek/40-matthew.md …          SBLGNT apparatus: variant readings, verse by verse
 connections/                     Obsidian notes: cross-references, people, places, genealogy, timeline
@@ -39,11 +41,13 @@ scripts/
   books.py                       Canonical book list, Tanakh order, Aramaic passages
   build.py                       Regenerates text/, apparatus/ and books.json from sources/
   verify.py                      Checks every verse against the published editions
+  translation.py                 Checks each translated chapter against its source and compiles text/english/
   connections.py                 Builds connections/ from open cross-reference and name data
   genealogy.py, chronology.py,   Family graph (TIPNR), dates (Theographic), timeline notes,
   timeline.py, chart.py          and the synchronological chart
 .obsidian/                       Obsidian settings: graph colors and filters
 VERIFICATION.md                  What was checked, what was found, what was fixed
+TRANSLATION.md                   Translation goals, principles, decisions, format and review process
 ```
 
 Files are numbered 01–66 in the common English book order. Hebrew Bibles use a different
@@ -71,6 +75,16 @@ see the backslashes.
 
 Chapter and verse numbers follow each edition's own numbering. Some Hebrew verse numbers
 differ from English Bibles: Psalm titles count as verse 1, and Malachi has 3 chapters.
+
+## The Open Plain English Translation
+
+A new translation into plain English, made directly from the Hebrew and Greek above. It
+gives a note wherever the source could be read another way, so readers can always see what
+the original says. It is in its pilot stage: Genesis 1, Psalm 23 and John 1 are drafted
+for review. Read [TRANSLATION.md](TRANSLATION.md) for the principles and the decisions still
+open, and [translation/STATUS.md](translation/STATUS.md) for progress. Every chapter carries
+its review status, and drafts are marked as AI-generated until people who read Hebrew or
+Greek have reviewed them.
 
 ## Exploring connections in Obsidian
 
@@ -108,6 +122,7 @@ verse-numbering mapping; Theographic's dates; and Wikidata identifiers. Start wi
 ```
 python3 scripts/build.py     # regenerate text/, apparatus/, books.json
 python3 scripts/verify.py    # compare everything with the published editions (needs network)
+python3 scripts/translation.py   # check and compile the translation into text/english/
 python3 scripts/connections.py   # regenerate connections/ (needs network)
 ```
 
@@ -156,6 +171,8 @@ the printed 1894 edition.
   Testament. Copyright © 2010 Society of Biblical Literature and Logos Bible Software.*
   The license text is in `sources/greek-sblgnt/LICENSE`.
 - **Scrivener 1894** (Robinson's digitization): public domain.
+- **Open Plain English Translation** (`translation/`, `text/english/`): proposed
+  [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). See TRANSLATION.md.
 - **`connections/`**: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). The notes
   combine OpenBible.info (CC BY), STEPBible (CC BY 4.0) and Theographic (CC BY-SA 4.0) data,
   so they inherit Theographic's share-alike terms. See `connections/README.md` for

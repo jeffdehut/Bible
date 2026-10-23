@@ -534,6 +534,10 @@ def main():
                       + timeline.year_link(span[0]) + (f" – {timeline.year_link(span[1])}" if span[1] != span[0] else ""), ""]
         lines += ["## Text", "",
                   f"![[{text_path}#Chapter {c}]]", ""]
+        english = os.path.join(ROOT, "text", "english", file_stem(num, name) + ".md")
+        if os.path.exists(english) and f"\n## Chapter {c}\n" in open(english, encoding="utf-8").read():
+            lines += ["## Plain English translation", "",
+                      f"![[text/english/{file_stem(num, name)}#Chapter {c}]]", ""]
         if testament == "NT":
             stem = text_path.rsplit("/", 1)[-1]
             lines += [f"Compare: [[text/greek-tr/{stem}#Chapter {c}|Textus Receptus]] · "
