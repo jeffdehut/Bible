@@ -171,7 +171,7 @@
 
 **60** the descendants of Delaiah, the descendants of Tobiah and the descendants of Nekoda, 652.[^2-43]
 
-**61** And of the priests: the descendants of Hobaiah, the descendants of Hakkoz and the descendants of Barzillai, who had married one of the daughters of Barzillai the Gileadite and was called by their name.[^2-44]
+**61** And of the descendants of the priests: the descendants of Hobaiah, the descendants of Hakkoz and the descendants of Barzillai, who had married one of the daughters of Barzillai the Gileadite and was called by their name.[^2-44]
 
 **62** These searched for their entry among those recorded in the genealogies, but they were not found, so they were excluded from the priesthood as unclean.[^2-45]
 
@@ -189,7 +189,7 @@
 
 **69** As they were able, they gave to the treasury for the work 61,000 darics[^2-53] of gold, 5,000 minas[^2-54] of silver and 100 priests' garments.[^2-55]
 
-**70** So the priests, the Levites and some of the people, with the singers, the gatekeepers and the temple servants, settled in their towns, and all Israel settled in their towns.
+**70** So the priests, the Levites and some of the people, with the singers, the gatekeepers and the temple servants, settled in their towns, and all Israel settled in their towns.[^2-56]
 
 [^2-1]: Literally "the sons of the province": Judah, now a province of the Persian Empire. This chapter is repeated in Nehemiah 7:6–72, with differences in some names and numbers, which are noted below.
 [^2-2]: Nehemiah 7:6 reads "to Jerusalem and to Judah".
@@ -235,10 +235,10 @@
 [^2-42]: Literally "they could not tell their fathers' house and their seed, whether they were from Israel".
 [^2-43]: Nehemiah 7:62 has 642.
 [^2-44]: That is, he took his father-in-law's name. On Barzillai the Gileadite, see 2 Samuel 17:27; 19:32–40 (English 19:31–39).
-[^2-45]: Literally "they were defiled from the priesthood".
+[^2-45]: Literally "they were defiled from the priesthood". Nehemiah 7:64 has "it was not found".
 [^2-46]: Hebrew *tirshata*, a Persian title of a high official, perhaps meaning "His Excellency". It is used of Nehemiah in Nehemiah 8:9 and 10:2 (English 10:1).
 [^2-47]: Literally "the holy of holies": the priests' share of the most holy offerings (Leviticus 2:3; 6:10–11, English 6:17–18).
-[^2-48]: Literally "until a priest stood for Urim and for Thummim". These were kept in the high priest's breastpiece and used to learn Yahweh's decision (Exodus 28:30; Numbers 27:21).
+[^2-48]: Literally "until a priest stood for Urim and for Thummim". These were kept in the high priest's breastpiece and used to learn Yahweh's decision (Exodus 28:30; Numbers 27:21). Nehemiah 7:65 has "the priest".
 [^2-49]: The numbers given in verses 3–60 add up to 29,818.
 [^2-50]: Nehemiah 7:67 has 245 singers.
 [^2-51]: The Hebrew text of Nehemiah 7 does not have this line on the horses and mules.
@@ -246,6 +246,7 @@
 [^2-53]: Hebrew *darkemonim*: probably darics, Persian gold coins weighing about 0.3 ounce (8.4 g) each; or Greek drachmas.
 [^2-54]: A mina was about 1.25 pounds (0.6 kg).
 [^2-55]: Nehemiah 7:69–71 (English 7:70–72) records the gifts differently.
+[^2-56]: Nehemiah 7:72 lists the groups in a different order and continues with the words of 3:1.
 
 ## Chapter 3
 

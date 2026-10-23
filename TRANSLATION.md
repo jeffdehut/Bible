@@ -120,6 +120,7 @@ from the Hebrew.
   (Mark 10:6 says "he made them", with "God" in a note).
 - Narrative is in the past tense, including Greek and Hebrew historic presents. Mark's εὐθύς is
   "at once" or "immediately", not always "and immediately".
+- American spelling: "honor", "neighbor", "forever", "worshiped", "judgment".
 - Poetry keeps its parallel lines and its images. Each verse is still one line in the file.
 - Divine name: every יהוה is "Yahweh", whatever its vowels (יְהוִה too). Theophoric
   names (Jonathan, Elijah) are spelled as in most English Bibles.

@@ -131,7 +131,7 @@
 
 **25** The Benjaminites rallied behind Abner and formed a single band, and they took their stand on the top of a hill.
 
-**26** Abner called to Joab, "Must the sword go on devouring for ever? Don't you know that it will be bitter in the end? How long will it be before you tell the troops to turn back from chasing their brothers?"
+**26** Abner called to Joab, "Must the sword go on devouring forever? Don't you know that it will be bitter in the end? How long will it be before you tell the troops to turn back from chasing their brothers?"
 
 **27** Joab said, "As God lives, if you had not spoken, the troops would not have given up chasing their brothers until morning."[^2-13]
 
@@ -219,7 +219,7 @@
 
 **27** When Abner returned to Hebron, Joab took him aside into the gateway to speak with him privately, and there he struck him in the stomach.[^3-18] So he died for the blood of Joab's brother Asahel.[^3-19]
 
-**28** Afterward, when David heard of it, he said, "I and my kingdom are for ever innocent before Yahweh of the blood of Abner son of Ner.
+**28** Afterward, when David heard of it, he said, "I and my kingdom are forever innocent before Yahweh of the blood of Abner son of Ner.
 
 **29** May it fall[^3-20] on the head of Joab and on all his father's house. May Joab's house never be without someone who has a discharge or a skin disease,[^3-21] or who holds a spindle,[^3-22] or who falls by the sword, or who lacks bread."
 
@@ -475,13 +475,13 @@
 
 **12** When your days are complete and you lie down with your ancestors, I will raise up your offspring[^7-11] after you, one who will come from your own body, and I will establish his kingdom.
 
-**13** He will build a house for my name, and I will establish the throne of his kingdom for ever.
+**13** He will build a house for my name, and I will establish the throne of his kingdom forever.
 
 **14** I will be his father, and he will be my son.[^7-12] When he does wrong, I will discipline him with the rod that men use, with blows inflicted by human beings.[^7-13]
 
 **15** But my faithful love[^7-14] will not depart from him, as I took it away from Saul, whom I removed from before you.
 
-**16** Your house and your kingdom will stand firm[^7-15] for ever before you.[^7-16] Your throne will be established for ever.'"
+**16** Your house and your kingdom will stand firm[^7-15] forever before you.[^7-16] Your throne will be established forever.'"
 
 **17** Nathan spoke to David in accordance with all these words and all this vision.
 
@@ -497,17 +497,17 @@
 
 **23** And who is like your people Israel, the one nation on earth that God went[^7-20] to redeem as a people for himself, to make a name for himself, and to do great and awesome things for them and for your land, before your people whom you redeemed for yourself from Egypt, from nations and their gods?[^7-21]
 
-**24** You established your people Israel for yourself as your own people for ever, and you, Yahweh, became their God.
+**24** You established your people Israel for yourself as your own people forever, and you, Yahweh, became their God.
 
-**25** Now, Yahweh God, confirm for ever the word you have spoken concerning your servant and his house, and do as you have said.
+**25** Now, Yahweh God, confirm forever the word you have spoken concerning your servant and his house, and do as you have said.
 
-**26** Then your name will be great for ever, and people will say, 'Yahweh of Armies is God over Israel.' And the house of your servant David will be established before you.
+**26** Then your name will be great forever, and people will say, 'Yahweh of Armies is God over Israel.' And the house of your servant David will be established before you.
 
 **27** For you, Yahweh of Armies, the God of Israel, have revealed this to your servant,[^7-22] saying, 'I will build you a house.' That is why your servant has found the courage[^7-23] to pray this prayer to you.
 
 **28** Now, Lord Yahweh, you are God, and your words are true, and you have promised this good thing to your servant.
 
-**29** Now be pleased to bless the house of your servant, so that it may continue for ever before you. For you, Lord Yahweh, have spoken, and with your blessing may the house of your servant be blessed for ever."
+**29** Now be pleased to bless the house of your servant, so that it may continue forever before you. For you, Lord Yahweh, have spoken, and with your blessing may the house of your servant be blessed forever."
 
 [^7-1]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
 [^7-2]: Literally "inside the curtain", that is, the tent curtains (6:17).
@@ -1731,7 +1731,7 @@
 
 **50** So I will praise you, Yahweh, among the nations, and sing praises to your name.[^22-29]
 
-**51** He is a tower of salvation[^22-30] for his king; he shows faithful love[^22-31] to his anointed,[^22-32] to David and his offspring for ever."
+**51** He is a tower of salvation[^22-30] for his king; he shows faithful love[^22-31] to his anointed,[^22-32] to David and his offspring forever."
 
 [^22-1]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
 [^22-2]: This song appears again, with small differences, as Psalm 18. From verse 4 on, its verse numbers match those of Psalm 18 in the Hebrew; in English Bibles the psalm's verses are numbered one lower. The notes below give some of the differences.

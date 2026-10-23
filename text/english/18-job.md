@@ -2167,3 +2167,494 @@
 [^31-28]: Literally "its strength".
 [^31-29]: Hebrew *bo'shah*, from a verb meaning "to stink".
 [^31-30]: Job does not speak again until 40:4.
+
+## Chapter 32
+
+*Status: draft*
+
+**1** So these three men stopped answering Job, because he was righteous in his own eyes.[^32-1]
+
+**2** Then Elihu[^32-2] son of Barachel the Buzite, of the family of Ram, became angry. He was angry with Job because he had justified himself rather than God.[^32-3]
+
+**3** He was also angry with Job's three friends, because they had found no answer and yet had condemned Job.[^32-4]
+
+**4** Elihu had waited to speak to Job,[^32-5] because they were older than he was.
+
+**5** But when Elihu saw that there was no answer in the mouths of the three men, he became angry.
+
+**6** So Elihu son of Barachel the Buzite answered:[^32-6] "I am young in years, and you are old. That is why I held back[^32-7] and was afraid to tell you what I know.
+
+**7** I thought, 'Age should speak, and many years should teach wisdom.'[^32-8]
+
+**8** But it is the spirit in a person,[^32-9] the breath of the Almighty,[^32-10] that gives them understanding.
+
+**9** It is not the old[^32-11] who are wise, nor the aged who understand what is right.
+
+**10** So I say, listen to me; let me also tell you what I know.
+
+**11** Look, I waited for your words; I listened to your reasoning, while you searched for what to say.
+
+**12** I paid close attention to you, but not one of you refuted Job[^32-12] or answered his words.
+
+**13** Do not say, 'We have found wisdom; let God drive him back,[^32-13] not a man.'
+
+**14** He has not directed his words against me, and I will not answer him with your arguments.
+
+**15** They are dismayed; they answer no more; words have deserted them.[^32-14]
+
+**16** Must I wait because they do not speak, because they stand there and answer no more?
+
+**17** I too will give my answer;[^32-15] I too will tell what I know.
+
+**18** For I am full of words; the spirit within me presses me.[^32-16]
+
+**19** Look, my belly is like wine that has no vent; like new wineskins, it is ready to burst.
+
+**20** Let me speak and find relief;[^32-17] let me open my lips and answer.
+
+**21** I will not show partiality to anyone or flatter any person.[^32-18]
+
+**22** For I do not know how to flatter; if I did, my Maker would soon carry me away.[^32-19]
+
+[^32-1]: The Greek Septuagint reads "in their eyes".
+[^32-2]: *Elihu* means "He is my God". *Buz* was a son of Nahor, Abraham's brother (Genesis 22:21).
+[^32-3]: Literally "because he declared his soul righteous rather than God", or "before God".
+[^32-4]: An ancient Jewish scribal tradition counts this among places where the scribes changed the text out of reverence for God, from "and so had condemned God".
+[^32-5]: Literally "Elihu had waited for Job with words".
+[^32-6]: Elihu speaks from here to the end of chapter 37.
+[^32-7]: Hebrew *zachalti*, a rare verb, related to the word for creatures that crawl in the dust (Deuteronomy 32:24).
+[^32-8]: Literally "Days should speak, and many years make wisdom known".
+[^32-9]: Or "But truly it is a spirit in a mortal". Hebrew *ruach*, "spirit, breath".
+[^32-10]: Hebrew *Shaddai*, traditionally "the Almighty"; the meaning is uncertain.
+[^32-11]: Literally "the many", perhaps "the great" or "those many in years".
+[^32-12]: Literally "there was no one among you to rebuke (or convince) Job".
+[^32-13]: Literally "God will drive him away", as the wind drives away chaff.
+[^32-14]: Literally "they have moved words away from themselves". In verses 15–16, Elihu speaks about the three friends rather than to them.
+[^32-15]: Literally "my portion".
+[^32-16]: Literally "the spirit of my belly presses me". Or "the wind in my belly". Hebrew *ruach*.
+[^32-17]: Literally "that it may be roomy for me".
+[^32-18]: Literally "I will not lift up anyone's face, and to a human being (*adam*) I will not give titles".
+[^32-19]: Literally "in a little while my Maker would lift me up".
+
+## Chapter 33
+
+*Status: draft*
+
+**1** "But now, Job, hear what I have to say, and listen to all my words.
+
+**2** Look, I open my mouth; my tongue speaks in my mouth.[^33-1]
+
+**3** My words come from an upright heart, and my lips speak sincerely what they know.[^33-2]
+
+**4** The spirit of God[^33-3] has made me; the breath of the Almighty[^33-4] gives me life.
+
+**5** Answer me if you can; set out your case before me; take your stand.
+
+**6** Look, before God I am just as you are;[^33-5] I too was pinched off from clay.
+
+**7** So no fear of me need terrify you, and my pressure[^33-6] will not be heavy on you.
+
+**8** But you have said in my hearing, and I heard the sound of your words:
+
+**9** 'I am pure, without transgression; I am clean, and there is no guilt in me.
+
+**10** Look, he finds pretexts[^33-7] against me; he counts me as his enemy.
+
+**11** He puts my feet in the stocks; he watches all my paths.'[^33-8]
+
+**12** Look, in this you are not right, I answer you, for God[^33-9] is greater than any mortal.
+
+**13** Why do you contend with him, saying that he answers none of a person's words?[^33-10]
+
+**14** For God speaks in one way, and in two, though people do not notice it.
+
+**15** In a dream, a vision of the night, when deep sleep falls on people as they slumber on their beds,
+
+**16** then he opens people's ears and seals their warning,[^33-11]
+
+**17** to turn a person away from what he is doing,[^33-12] and to keep a man from pride.[^33-13]
+
+**18** He keeps his soul back from the pit,[^33-14] his life from crossing the channel of death.[^33-15]
+
+**19** A person is also disciplined with pain on his bed, while all his bones are in constant torment,[^33-16]
+
+**20** so that his life loathes bread, and his soul the food it once craved.[^33-17]
+
+**21** His flesh wastes away until it cannot be seen, and his bones, once hidden, stick out.[^33-18]
+
+**22** His soul draws near to the pit, and his life to those who bring death.[^33-19]
+
+**23** If there is an angel[^33-20] for him, a mediator,[^33-21] one among a thousand, to tell a person what is right for him,[^33-22]
+
+**24** and he is gracious to him and says, 'Spare him[^33-23] from going down to the pit; I have found a ransom,'
+
+**25** then his flesh becomes fresher than a child's;[^33-24] he returns to the days of his youth.
+
+**26** He prays to God, and God accepts him; he sees his face with a shout of joy, and he restores to the mortal his righteousness.[^33-25]
+
+**27** He sings before people and says, 'I sinned and perverted what was right, but I was not repaid as I deserved.'[^33-26]
+
+**28** He has redeemed his soul from going down to the pit, and his life will see the light.[^33-27]
+
+**29** Look, God does all these things, twice, three times, with a man,
+
+**30** to bring back his soul from the pit, so that he may be lit with the light of life.[^33-28]
+
+**31** Pay attention, Job, listen to me; be silent, and I will speak.
+
+**32** If you have anything to say, answer me; speak, for I want to prove you right.
+
+**33** If not, listen to me; be silent, and I will teach you wisdom."
+
+[^33-1]: Literally "in my palate".
+[^33-2]: Literally "The uprightness of my heart is my sayings, and the knowledge of my lips they speak purely".
+[^33-3]: Or "The Spirit of God", "The breath of God". Hebrew *ruach*.
+[^33-4]: Hebrew *Shaddai*, traditionally "the Almighty"; the meaning is uncertain.
+[^33-5]: Literally "Look, I am like your mouth to God".
+[^33-6]: Hebrew *akhpi*, a word found only here, perhaps "pressure" or "hand" (compare 13:21).
+[^33-7]: Hebrew *tenu'ot*, "pretexts, occasions for hostility".
+[^33-8]: Job's own words in 13:27; compare 13:24.
+[^33-9]: Hebrew *Eloah*, a poetic form of *Elohim*, "God", used often in Job. Also in verse 26.
+[^33-10]: Literally "for all his words he does not answer". Or "for he gives no account of any of his doings".
+[^33-11]: Literally "and he seals their discipline". Some read "and he terrifies them with warnings", with different vowels.
+[^33-12]: Literally "to turn aside a human being (*adam*) from a deed".
+[^33-13]: Literally "and pride from a man he covers".
+[^33-14]: Hebrew *shachat*, the grave, the world of the dead. Also in verses 22, 24, 28 and 30.
+[^33-15]: Hebrew *shelach*, perhaps a channel or river of the underworld, or a weapon: "from perishing by the sword".
+[^33-16]: The Hebrew text is written "and the strife in his bones is constant" but read "and the multitude of his bones is constant", that is, all his bones are in constant pain.
+[^33-17]: Literally "food of desire".
+[^33-18]: The Hebrew text is written "and the bareness of his bones" but read "and his bones are laid bare". Literally "his bones that were not seen are laid bare".
+[^33-19]: Hebrew *memitim*, "those who put to death": perhaps angels of death, or the dead.
+[^33-20]: Or "a messenger". Hebrew *mal'akh*.
+[^33-21]: Hebrew *melits*, "interpreter, spokesman": one who speaks for another (compare 16:20; Genesis 42:23).
+[^33-22]: Literally "to declare to a human being (*adam*) his uprightness": either what is right for him to do, or that he is upright.
+[^33-23]: Hebrew *pede'ehu*, a form found only here. Many read *pedehu*, "Ransom him".
+[^33-24]: Hebrew *rutafash*, a word found only here, probably "grow fresh". Literally "his flesh is fresher than youth".
+[^33-25]: That is, God restores him to a right standing.
+[^33-26]: Literally "and it was not made equal to me".
+[^33-27]: The Hebrew text is written "my soul … my life" but read "his soul … his life". With the written form, the man's words continue to the end of this verse.
+[^33-28]: Literally "to be lit with the light of the living".
+
+## Chapter 34
+
+*Status: draft*
+
+**1** Then Elihu answered:[^34-1]
+
+**2** "Hear my words, you wise men; listen to me, you who have knowledge.
+
+**3** For the ear tests words as the palate tastes food.
+
+**4** Let us choose for ourselves what is right;[^34-2] let us find out among ourselves what is good.
+
+**5** For Job has said, 'I am in the right, and God has denied me justice.[^34-3]
+
+**6** In spite of my right, I am counted a liar;[^34-4] my wound[^34-5] is incurable, though I am without transgression.'
+
+**7** What man is like Job, who drinks up scorn like water,
+
+**8** who keeps company with evildoers, and walks with wicked men?
+
+**9** For he has said, 'It does a man no good to be on good terms with God.'[^34-6]
+
+**10** So listen to me, you men of understanding.[^34-7] Far be it from God to do wickedness, and from the Almighty[^34-8] to do wrong!
+
+**11** For he repays a person for what he has done, and he brings on each one what his conduct deserves.[^34-9]
+
+**12** Truly, God will not act wickedly, and the Almighty will not pervert justice.
+
+**13** Who put him in charge of the earth? Who set the whole world in place?
+
+**14** If he were to set his heart on himself,[^34-10] and gather to himself his spirit and his breath,[^34-11]
+
+**15** all flesh would perish together, and humankind would return to dust.
+
+**16** If you have understanding, hear this; listen to what I say.[^34-12]
+
+**17** Can one who hates justice govern? Will you condemn the one who is righteous and mighty?
+
+**18** Is it fitting to say to a king, 'Worthless one,'[^34-13] or to nobles, 'Wicked'?
+
+**19** He shows no partiality to princes and does not favor the rich over the poor, for they are all the work of his hands.
+
+**20** In a moment they die; at midnight people are shaken and pass away; the mighty are removed without a hand.[^34-14]
+
+**21** For his eyes are on a person's ways, and he sees all his steps.
+
+**22** There is no darkness, no deep darkness,[^34-15] where evildoers can hide.
+
+**23** For he does not need to consider a person further[^34-16] before he comes before God in judgment.
+
+**24** He shatters the mighty without investigation[^34-17] and sets others in their place.
+
+**25** Because he knows their deeds, he overthrows them in the night, and they are crushed.
+
+**26** He strikes them for their wickedness[^34-18] where others can see,
+
+**27** because they turned aside from following him and paid no attention to any of his ways,
+
+**28** so that they brought the cry of the poor before him, and he hears the cry of the afflicted.
+
+**29** But if he keeps quiet, who can condemn him? If he hides his face, who can see him? Yet he watches over nation and individual alike,[^34-19]
+
+**30** so that the godless may not reign, and may not be snares for the people.[^34-20]
+
+**31** For has anyone said to God, 'I have borne punishment; I will not offend again.[^34-21]
+
+**32** Teach me what I cannot see; if I have done wrong, I will do it no more'?
+
+**33** Should he repay on your terms, when you have rejected his ways?[^34-22] For you must choose, not I; so tell us what you know.
+
+**34** Men of understanding will say to me, and any wise man who hears me:
+
+**35** 'Job speaks without knowledge; his words are without insight.'
+
+**36** If only Job were tested to the end[^34-23] for answering like wicked men!
+
+**37** For he adds rebellion to his sin; he claps his hands among us[^34-24] and multiplies his words against God."
+
+[^34-1]: Literally "And Elihu answered and said". No one has spoken since 33:33: the formula marks a new part of Elihu's speech, as in 35:1 and 36:1.
+[^34-2]: Hebrew *mishpat*: justice, what is right.
+[^34-3]: Job's words in 27:2; compare 13:18.
+[^34-4]: Literally "Concerning my right I lie". Or "Should I lie about my right?"
+[^34-5]: Literally "my arrow" (compare 6:4).
+[^34-6]: Literally "when he delights himself with God". Compare 9:22; 21:15.
+[^34-7]: Literally "men of heart". Also in verse 34.
+[^34-8]: Hebrew *Shaddai*, traditionally "the Almighty"; the meaning is uncertain. Also in verse 12.
+[^34-9]: Literally "according to a man's path he makes it find him".
+[^34-10]: Literally "If he sets his heart toward himself", that is, if he thought only of himself. Or "If he set his mind to it".
+[^34-11]: Hebrew *ruach* and *neshamah*, the breath of life that God gives (Genesis 2:7; Psalm 104:29).
+[^34-12]: Here *you* is singular: Elihu speaks to Job.
+[^34-13]: Hebrew *beliyya'al*, "worthless, good-for-nothing".
+[^34-14]: That is, without human help: by God's power.
+[^34-15]: Hebrew *tsalmavet*, "deep darkness", traditionally read as "the shadow of death".
+[^34-16]: Literally "For he does not set upon a man further". Some read *mo'ed*, "an appointed time", for *od*, "further": "he does not set a time for anyone".
+[^34-17]: Literally "without searching".
+[^34-18]: Literally "In place of the wicked he slaps them": either "as wicked people" or "for their wickedness".
+[^34-19]: Literally "both over a nation and over a human being (*adam*) together".
+[^34-20]: The Hebrew of verses 29–33 is very difficult, and the translation is uncertain in places. Literally "from the reigning of a godless man, from snares of a people".
+[^34-21]: Literally "I have borne; I will not act corruptly".
+[^34-22]: Literally "Is it from with you that he will repay it, for you have rejected?"
+[^34-23]: Hebrew *avi*, usually "my father". Here it is perhaps an expression of wish, "If only".
+[^34-24]: A gesture of contempt (compare 27:23).
+
+## Chapter 35
+
+*Status: draft*
+
+**1** Then Elihu answered:[^35-1]
+
+**2** "Do you think this is just? You say, 'I am more in the right than God.'[^35-2]
+
+**3** For you ask, 'What use is it to you?[^35-3] What do I gain by not sinning?'[^35-4]
+
+**4** I will answer you, and your friends with you.
+
+**5** Look up at the heavens and see; gaze at the clouds, high above you.
+
+**6** If you have sinned, what do you do to him? If your transgressions are many, what do you do to him?
+
+**7** If you are righteous, what do you give him? Or what does he receive from your hand?
+
+**8** Your wickedness affects only someone like yourself, and your righteousness only a human being.[^35-5]
+
+**9** Because of the many oppressions,[^35-6] people cry out; they cry for help because of the arm of the mighty.
+
+**10** But no one says, 'Where is God[^35-7] my Maker, who gives songs in the night,
+
+**11** who teaches us more than the animals of the earth, and makes us wiser than the birds of the sky?'[^35-8]
+
+**12** There they cry out, but he does not answer, because of the pride of evildoers.
+
+**13** Surely God does not listen to an empty cry;[^35-9] the Almighty[^35-10] pays no attention to it.
+
+**14** How much less when you say that you do not see him, that your case is before him, and you are waiting for him!
+
+**15** And now, because his anger does not punish, and he does not take much notice of transgression,[^35-11]
+
+**16** Job opens his mouth in empty talk;[^35-12] he multiplies words without knowledge."
+
+[^35-1]: Literally "And Elihu answered and said" (see 34:1).
+[^35-2]: Literally "my righteousness from God": either "my righteousness is more than God's" or "I am in the right before God".
+[^35-3]: Either Job speaking to God, or Elihu repeating Job's question in his own words: "What use is it to you, Job?"
+[^35-4]: Literally "What do I gain more than from my sin?"
+[^35-5]: Literally "a son of *adam*", that is, of humankind.
+[^35-6]: Or "the many oppressors".
+[^35-7]: Hebrew *Eloah*, a poetic form of *Elohim*, "God", used often in Job.
+[^35-8]: Or "who teaches us by the animals of the earth, and makes us wise by the birds of the sky" (compare 12:7).
+[^35-9]: Literally "Surely emptiness God does not hear".
+[^35-10]: Hebrew *Shaddai*, traditionally "the Almighty"; the meaning is uncertain.
+[^35-11]: Hebrew *pash*, a word found only here, perhaps "arrogance" or "folly". Many take it as a form of *pesha*, "transgression".
+[^35-12]: Hebrew *hevel*, "breath, vapor": what has no substance.
+
+## Chapter 36
+
+*Status: draft*
+
+**1** Elihu continued:[^36-1]
+
+**2** "Bear with me a little longer, and I will show you, for there is still more to say on God's behalf.[^36-2]
+
+**3** I will bring my knowledge from far away, and I will ascribe righteousness to my Maker.
+
+**4** For truly my words are not false; one who is perfect in knowledge[^36-3] is with you.
+
+**5** Look, God is mighty, and he does not despise anyone; he is mighty in strength of understanding.[^36-4]
+
+**6** He does not keep the wicked alive, but he gives justice to the afflicted.
+
+**7** He does not take his eyes off the righteous; he seats them with kings on the throne forever, and they are exalted.
+
+**8** But if they are bound in chains, caught in the cords of affliction,
+
+**9** then he tells them what they have done, and their transgressions, that they have behaved arrogantly.
+
+**10** He opens their ears to instruction[^36-5] and tells them to turn back from wickedness.
+
+**11** If they listen and serve him, they will end their days in prosperity, and their years in pleasantness.
+
+**12** But if they do not listen, they will cross the channel of death[^36-6] and die without knowledge.
+
+**13** The godless in heart harbor anger;[^36-7] they do not cry for help when he binds them.
+
+**14** They die in their youth, and their life ends among the shrine prostitutes.[^36-8]
+
+**15** He rescues the afflicted through their affliction and opens their ears through their distress.
+
+**16** He also lured you[^36-9] out of the jaws of distress, into a broad place where there was no constraint,[^36-10] and your table was set with rich food.[^36-11]
+
+**17** But you are full of the judgment due to the wicked; judgment and justice take hold of you.
+
+**18** Beware that wrath[^36-12] does not lure you into scoffing,[^36-13] and do not let a large ransom[^36-14] turn you aside.
+
+**19** Will your cry for help keep you out of distress, or all the efforts of your strength?[^36-15]
+
+**20** Do not long for the night, when peoples are taken away from their place.[^36-16]
+
+**21** Be careful not to turn to wickedness, for you have chosen this rather than affliction.[^36-17]
+
+**22** Look, God is exalted in his power. Who is a teacher like him?
+
+**23** Who has prescribed his way for him? Who can say, 'You have done wrong'?
+
+**24** Remember to extol his work, which people have praised in song.
+
+**25** All humankind has looked on it; mortals see it from afar.
+
+**26** Look, God is great, beyond our knowledge; the number of his years is past searching out.
+
+**27** For he draws up the drops of water; they distill rain from his mist,[^36-18]
+
+**28** which the skies pour down and shower on humankind in abundance.
+
+**29** Can anyone understand the spreading of the clouds, the thundering from his pavilion?[^36-19]
+
+**30** Look, he spreads his light around him, and he covers the roots of the sea.[^36-20]
+
+**31** For by these he judges[^36-21] the peoples; he gives food in abundance.
+
+**32** He covers his hands with lightning[^36-22] and commands it to strike the mark.
+
+**33** His thunder announces him;[^36-23] even the cattle tell of the storm's approach.[^36-24]
+
+[^36-1]: Literally "And Elihu added and said".
+[^36-2]: Literally "for there are still words for God". Hebrew *Eloah*, a poetic form of *Elohim*, "God", used often in Job.
+[^36-3]: Elihu speaks of himself. The same phrase is used of God in 37:16.
+[^36-4]: Literally "mighty in strength of heart". The Hebrew of this verse is uncertain.
+[^36-5]: Or "discipline". Hebrew *musar*.
+[^36-6]: Hebrew *shelach*, as in 33:18. Or "they will perish by the sword".
+[^36-7]: Literally "set anger".
+[^36-8]: Hebrew *qedeshim*, men attached to shrines, probably as cult prostitutes (Deuteronomy 23:18 (English 23:17)). Their lives end early and in shame.
+[^36-9]: Or "He is luring you". The Hebrew of verses 16–20 is very difficult, and the translation is uncertain in places.
+[^36-10]: Literally "breadth, not constraint beneath it".
+[^36-11]: Literally "and the setting of your table was full of fatness".
+[^36-12]: Or "heat", "anger". Literally "For wrath, lest it lure you".
+[^36-13]: Hebrew *safeq*, "clapping", a gesture of scorn (34:37), or "abundance".
+[^36-14]: Or "a large bribe". Hebrew *kofer*, as in 33:24.
+[^36-15]: The Hebrew of this verse is uncertain. Or "Will your wealth be valued, not in gold, nor all the resources of your strength?"
+[^36-16]: Literally "to go up, peoples, beneath them".
+[^36-17]: Or "for because of this you have been tested by affliction", reading *bochanta*, "you have been tested", for *bacharta*, "you have chosen".
+[^36-18]: Hebrew *ed*, a rare word also found in Genesis 2:6.
+[^36-19]: Hebrew *sukkah*, "shelter, booth": the clouds around God (Psalm 18:12 (English 18:11)).
+[^36-20]: That is, the depths of the sea.
+[^36-21]: Some read "he nourishes", with a slight change to the Hebrew, which fits the second line.
+[^36-22]: Literally "with light". Also in 37:3, 11 and 15.
+[^36-23]: The Hebrew of this verse is very uncertain. Literally "His noise tells about him".
+[^36-24]: Literally "the cattle, even concerning what goes up". Or, with different vowels, "he is jealous with anger against wrongdoing".
+
+## Chapter 37
+
+*Status: draft*
+
+**1** "At this my heart also trembles and leaps from its place.
+
+**2** Listen, listen to the roar of his voice,[^37-1] the rumbling that comes from his mouth.
+
+**3** He lets it loose under the whole heaven, and his lightning[^37-2] to the ends of the earth.
+
+**4** After it his voice roars; he thunders with his majestic voice, and he does not hold back the lightning[^37-3] when his voice is heard.
+
+**5** God thunders wonderfully with his voice; he does great things that we cannot understand.
+
+**6** For he says to the snow, 'Fall on the earth,' and to the rain shower, his mighty downpours.[^37-4]
+
+**7** He seals up the hand of every person,[^37-5] so that all the people he has made may know it.[^37-6]
+
+**8** The animals go into their dens and stay in their lairs.
+
+**9** The storm comes out from its chamber,[^37-7] and the cold from the scattering winds.[^37-8]
+
+**10** By the breath of God ice is given, and the broad waters are frozen solid.[^37-9]
+
+**11** He loads the thick cloud with moisture;[^37-10] the clouds scatter his lightning.[^37-11]
+
+**12** They turn round and round by his guidance,[^37-12] to do all that he commands them over the face of the inhabited earth.
+
+**13** Whether for punishment,[^37-13] or for his land, or for faithful love,[^37-14] he makes it happen.
+
+**14** Listen to this, Job; stop and consider the wonders of God.
+
+**15** Do you know how God[^37-15] directs them[^37-16] and makes the lightning of his cloud shine?
+
+**16** Do you know how the clouds are balanced,[^37-17] the wonders of one who is perfect in knowledge?[^37-18]
+
+**17** You, whose clothes are hot when the land lies still under the south wind,
+
+**18** can you, as he does, spread out the skies, hard as a mirror of cast metal?[^37-19]
+
+**19** Teach us what we should say to him; we cannot set out our case because of the darkness.
+
+**20** Should he be told that I want to speak? Would anyone ask to be swallowed up?[^37-20]
+
+**21** Now no one can look at the light when it is bright in the skies, when the wind has passed and swept them clean.[^37-21]
+
+**22** Out of the north comes golden splendor;[^37-22] around God is awesome majesty.
+
+**23** The Almighty:[^37-23] we cannot find him. He is great in power, and in justice and abundant righteousness he does not oppress.
+
+**24** Therefore people fear him; he does not regard any who are wise in their own heart."[^37-24]
+
+[^37-1]: Or "his thunder". Hebrew *qol*, "voice", is also the word for thunder. Also in verses 4 and 5.
+[^37-2]: Literally "his light". Also in verses 11 and 15.
+[^37-3]: Literally "them", probably the lightning bolts of verse 3.
+[^37-4]: Literally "and the shower of rain, and the shower of the rains of his strength".
+[^37-5]: That is, he stops all human work during the storms of winter. Literally "In the hand of every human being (*adam*) he seals".
+[^37-6]: Literally "to know, all the men of his work".
+[^37-7]: Literally "from the chamber", perhaps "the chambers of the south" (9:9).
+[^37-8]: Hebrew *mezarim*, a word of uncertain meaning, perhaps the north winds that scatter the clouds.
+[^37-9]: Literally "and the breadth of the waters is in constraint".
+[^37-10]: Hebrew *ri*, a word found only here, probably "moisture".
+[^37-11]: Literally "the cloud of his light scatters".
+[^37-12]: The Hebrew text is written "his guidance" but read "his directions". *They* are the clouds.
+[^37-13]: Literally "for a rod".
+[^37-14]: Hebrew *chesed*: loyal, faithful love.
+[^37-15]: Hebrew *Eloah*, a poetic form of *Elohim*, "God", used often in Job. Also in verse 22.
+[^37-16]: Literally "sets upon them".
+[^37-17]: Literally "the balancings of the clouds". Hebrew *miflas*, a word found only here.
+[^37-18]: Elihu used the same phrase of himself in 36:4.
+[^37-19]: Ancient mirrors were made of polished bronze. The verb *raqa*, "spread out, beat out (like metal)", is related to *raqia*, the "dome" of the sky in Genesis 1:6.
+[^37-20]: Literally "If a man speaks, surely he will be swallowed up". The meaning is uncertain.
+[^37-21]: Literally "And now they have not seen the light; it is bright in the skies, and a wind has passed and cleansed them".
+[^37-22]: Literally "From the north comes gold". The far north was thought of as the place where God (or the gods) lived (compare Isaiah 14:13; Psalm 48:3 (English 48:2)).
+[^37-23]: Hebrew *Shaddai*, traditionally "the Almighty"; the meaning is uncertain.
+[^37-24]: Literally "he does not see all the wise of heart", that is, those who think themselves wise. Some read "all who are wise in heart fear him", with a small change to the Hebrew.

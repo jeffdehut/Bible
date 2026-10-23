@@ -49,7 +49,7 @@
 
 **21** The man Elkanah went up with all his household to offer to Yahweh the yearly sacrifice and to fulfill his vow.[^1-24]
 
-**22** But Hannah did not go up. She said to her husband, "Not until the boy is weaned. Then I will bring him, so that he may appear before Yahweh and stay there for ever."[^1-25]
+**22** But Hannah did not go up. She said to her husband, "Not until the boy is weaned. Then I will bring him, so that he may appear before Yahweh and stay there forever."[^1-25]
 
 **23** Her husband Elkanah said to her, "Do what seems best to you. Stay here until you have weaned him. Only, may Yahweh confirm his word."[^1-26] So the woman stayed and nursed her son until she weaned him.
 
@@ -87,7 +87,7 @@
 [^1-22]: Literally "at the turning of the days".
 [^1-23]: Hebrew *Shemu'el*. Hannah's explanation plays on the verb *sha'al*, "ask", which sounds like part of the name. The name itself probably means "name of God" or "heard by God".
 [^1-24]: Literally "and his vow", that is, the sacrifice he had vowed.
-[^1-25]: 4QSam(a), a Dead Sea Scroll of Samuel, adds "and I will give him as a Nazirite for ever, all the days of his life".
+[^1-25]: 4QSam(a), a Dead Sea Scroll of Samuel, adds "and I will give him as a Nazirite forever, all the days of his life".
 [^1-26]: 4QSam(a) and the Septuagint read "what has come out of your mouth", that is, Hannah's own vow.
 [^1-27]: 4QSam(a) and the Septuagint read "a three-year-old bull", which fits "the bull" in verse 25.
 [^1-28]: An ephah is a dry measure of about 20 quarts (22 liters).
@@ -159,7 +159,7 @@
 
 **29** Why do you kick at[^2-34] my sacrifice and my offering, which I commanded for my dwelling?[^2-35] Why do you honor your sons more than me, by making yourselves fat on the best part of every offering of my people Israel?
 
-**30** Therefore Yahweh, the God of Israel, declares: I did say that your family and your father's family would walk before me for ever. But now Yahweh declares: Far be it from me! For those who honor me I will honor, and those who despise me will be treated with contempt.
+**30** Therefore Yahweh, the God of Israel, declares: I did say that your family and your father's family would walk before me forever. But now Yahweh declares: Far be it from me! For those who honor me I will honor, and those who despise me will be treated with contempt.
 
 **31** The days are coming when I will cut off your strength[^2-36] and the strength of your father's family, so that there will be no old man in your family.
 
@@ -169,7 +169,7 @@
 
 **34** And what happens to your two sons, Hophni and Phinehas, will be the sign for you: both of them will die on the same day.
 
-**35** I will raise up for myself a faithful priest, who will do what is in my heart and my mind.[^2-40] I will build him a lasting house,[^2-41] and he will walk before my anointed[^2-42] for ever.[^2-43]
+**35** I will raise up for myself a faithful priest, who will do what is in my heart and my mind.[^2-40] I will build him a lasting house,[^2-41] and he will walk before my anointed[^2-42] forever.[^2-43]
 
 **36** Everyone who is left in your family will come and bow down to him for a piece[^2-44] of silver and a loaf of bread. He will say, "Please appoint me to one of the priestly offices, so that I may have a scrap of bread to eat."'"
 
@@ -246,7 +246,7 @@
 
 **12** On that day I will carry out against Eli everything I have spoken against his family, from beginning to end.
 
-**13** I have told him[^3-6] that I am going to judge his family for ever because of the guilt he knew about: his sons were bringing a curse on themselves,[^3-7] and he did not restrain them.
+**13** I have told him[^3-6] that I am going to judge his family forever because of the guilt he knew about: his sons were bringing a curse on themselves,[^3-7] and he did not restrain them.
 
 **14** Therefore I have sworn to the family of Eli that the guilt of Eli's family will never be atoned for[^3-8] by sacrifice or offering."
 
@@ -858,7 +858,7 @@
 
 **12** I thought, 'Now the Philistines will come down against me at Gilgal, and I have not sought the favor of Yahweh.'[^13-12] So I forced myself to offer the burnt offering."
 
-**13** Samuel said to Saul, "You have acted foolishly. You have not kept the command Yahweh your God gave you. If you had, Yahweh would now have established your kingdom over Israel for ever.
+**13** Samuel said to Saul, "You have acted foolishly. You have not kept the command Yahweh your God gave you. If you had, Yahweh would now have established your kingdom over Israel forever.
 
 **14** But now your kingdom will not last. Yahweh has sought out for himself a man after his own heart, and Yahweh has appointed him ruler[^13-13] over his people, because you have not kept what Yahweh commanded you."
 
@@ -1562,7 +1562,7 @@
 
 **22** But if I say to the young man, 'Look, the arrows are beyond you,' then go, for Yahweh has sent you away.
 
-**23** As for the matter you and I have spoken about, Yahweh is between you and me[^20-20] for ever."
+**23** As for the matter you and I have spoken about, Yahweh is between you and me[^20-20] forever."
 
 **24** So David hid in the field. When the new moon came, the king sat down to eat the meal.
 
@@ -1600,7 +1600,7 @@
 
 **41** As soon as the boy had gone, David got up from beside the south side,[^20-30] fell with his face to the ground and bowed down three times. They kissed each other and wept with each other, but David wept the most.[^20-31]
 
-**42** Jonathan said to David, "Go in peace, for the two of us have sworn in the name of Yahweh, saying, 'Yahweh will be between me and you, and between my descendants and your descendants for ever.'"[^20-32]
+**42** Jonathan said to David, "Go in peace, for the two of us have sworn in the name of Yahweh, saying, 'Yahweh will be between me and you, and between my descendants and your descendants forever.'"[^20-32]
 
 [^20-1]: Literally "without uncovering my ear".
 [^20-2]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
@@ -2121,7 +2121,7 @@
 
 **11** David left no man or woman alive to be brought to Gath, for he thought, "They might report about us and say, 'This is what David did.'" This was his practice[^27-7] the whole time he lived in the territory of the Philistines.
 
-**12** Achish trusted David and thought, "He has made himself utterly hateful[^27-8] to his people Israel, so he will be my servant for ever."
+**12** Achish trusted David and thought, "He has made himself utterly hateful[^27-8] to his people Israel, so he will be my servant forever."
 
 [^27-1]: Literally "said to his heart".
 [^27-2]: Literally "Nabal's wife".

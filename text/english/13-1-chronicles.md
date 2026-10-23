@@ -1083,42 +1083,45 @@
 
 *Status: draft*
 
-**1** The Philistines fought against Israel.[^10-1] The men of Israel fled before the Philistines, and many fell slain on Mount Gilboa.
+**1** Now the Philistines fought against Israel.[^10-1] The men of Israel fled before the Philistines, and many fell dead[^10-2] on Mount Gilboa.
 
 **2** The Philistines pursued Saul and his sons closely, and the Philistines struck down Jonathan, Abinadab and Malchi-shua, the sons of Saul.
 
-**3** The battle pressed hard against Saul. The archers found him, and he was wounded by the archers.[^10-2]
+**3** The battle pressed hard against Saul. The archers found him, and he was wounded by the archers.[^10-3]
 
-**4** Saul said to his armor-bearer, "Draw your sword and run me through with it, or these uncircumcised men will come and abuse me." But his armor-bearer was unwilling, because he was terrified. So Saul took the sword and fell on it.
+**4** Saul said to his armor-bearer, "Draw your sword and run me through with it, or these uncircumcised men will come and abuse me."[^10-4] But his armor-bearer would not, for he was very much afraid. So Saul took the sword and fell on it.
 
 **5** When his armor-bearer saw that Saul was dead, he too fell on the sword and died.
 
-**6** So Saul died, and his three sons, and all his house died together.[^10-3]
+**6** So Saul died, and his three sons, and all his house died together.[^10-5]
 
-**7** When all the men of Israel who were in the valley saw that the army had fled and that Saul and his sons were dead, they abandoned their towns and fled. Then the Philistines came and lived in them.
+**7** When all the men of Israel who were in the valley saw that they had fled and that Saul and his sons were dead, they abandoned their towns and fled. And the Philistines came and lived in them.
 
-**8** The next day, when the Philistines came to strip the slain, they found Saul and his sons fallen on Mount Gilboa.
+**8** The next day, when the Philistines came to strip the dead, they found Saul and his sons lying dead[^10-6] on Mount Gilboa.
 
-**9** They stripped him and took his head and his armor, and they sent messengers throughout the land of the Philistines to carry the good news to their idols and to the people.
+**9** They stripped him and took his head and his armor, and they sent messengers throughout the land of the Philistines to spread the good news to their idols and to the people.
 
-**10** They put his armor in the house of their gods, and they fastened his skull in the house of Dagon.[^10-4]
+**10** They put his armor in the temple of their gods, and they fastened his skull in the temple of Dagon.[^10-7]
 
 **11** When all Jabesh-gilead heard everything that the Philistines had done to Saul,
 
-**12** all the valiant men set out. They took the body of Saul and the bodies of his sons and brought them to Jabesh. They buried their bones under the oak[^10-5] in Jabesh, and they fasted for seven days.[^10-6]
+**12** all the valiant men set out. They took the body of Saul and the bodies of his sons and brought them to Jabesh. They buried their bones under the oak[^10-8] at Jabesh, and they fasted for seven days.[^10-9]
 
-**13** So Saul died because of his unfaithfulness to Yahweh.[^10-7] He did not keep the word of Yahweh, and he even consulted a medium[^10-8] for guidance
+**13** So Saul died because of his unfaithfulness to Yahweh.[^10-10] He did not keep the word of Yahweh, and he even consulted a medium[^10-11] for guidance
 
 **14** instead of seeking guidance from Yahweh. So he put him to death and turned the kingdom over to David son of Jesse.
 
 [^10-1]: Verses 1–12 parallel 1 Samuel 31:1–13.
-[^10-2]: Or "and he was in anguish because of the archers".
-[^10-3]: 1 Samuel 31:6 reads "So Saul died, and his three sons, and his armor-bearer, and all his men, on that day together."
-[^10-4]: 1 Samuel 31:10 reads "They put his armor in the house of the Ashtaroth, and they fastened his body to the wall of Beth-shan." Dagon was a god of the Philistines (1 Samuel 5:2).
-[^10-5]: Hebrew *elah*, a large tree, perhaps a terebinth. 1 Samuel 31:13 has "the tamarisk".
-[^10-6]: 1 Samuel 31:12 adds that they walked all night to take the bodies from the wall of Beth-shan, and that they burned them at Jabesh.
-[^10-7]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles. Compare 1 Samuel 13:13–14; 15:22–23; 28:6–19.
-[^10-8]: Hebrew *ov*: a spirit of the dead, or a person who claimed to call one up and consult it (1 Samuel 28:7).
+[^10-2]: Literally "fell slain".
+[^10-3]: Or "he was terrified of the archers".
+[^10-4]: Hebrew *hit'allel*, "deal ruthlessly with, make sport of". 1 Samuel 31:4 reads "will come and run me through and abuse me".
+[^10-5]: 1 Samuel 31:6 reads "So Saul, his three sons, his armor-bearer and all his men died together on that day."
+[^10-6]: Literally "fallen".
+[^10-7]: Literally "the house of their gods … the house of Dagon". 1 Samuel 31:10 reads "They put his armor in the temple of the Ashtoreths, and they fastened his body to the wall of Beth-shan." Dagon was a god of the Philistines (1 Samuel 5:2).
+[^10-8]: Hebrew *elah*, a large tree, perhaps a terebinth. 1 Samuel 31:13 has "the tamarisk tree".
+[^10-9]: 1 Samuel 31:12 adds that they traveled all night to take the bodies from the wall of Beth-shan, and that they burned them at Jabesh.
+[^10-10]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles. Compare 1 Samuel 13:13–14; 15:22–23; 28:6–19.
+[^10-11]: Hebrew *ov*: a spirit of the dead, or a person who claimed to call one up and consult it (1 Samuel 28:7).
 
 ## Chapter 11
 
@@ -1138,7 +1141,7 @@
 
 **7** David lived in the stronghold. That is why it was called the City of David.
 
-**8** He built the city all around, from the Millo[^11-10] to the surrounding wall,[^11-11] and Joab restored[^11-12] the rest of the city.
+**8** He built the city all around, from the Millo[^11-10] to the surrounding area,[^11-11] and Joab restored[^11-12] the rest of the city.
 
 **9** David became greater and greater, for Yahweh of Armies[^11-13] was with him.
 
@@ -2344,3 +2347,235 @@
 [^26-10]: The Hebrew text is written "Shelomoth" but read "Shelomith".
 [^26-11]: Called Shelomith in verses 25 and 28.
 [^26-12]: Called Jeriah in 23:19 and 24:23.
+
+## Chapter 27
+
+*Status: draft*
+
+**1** This is the list of the Israelites, the heads of ancestral families, the commanders of thousands and of hundreds, and their officers, who served the king in every matter concerning the divisions that came and went month by month throughout all the months of the year. Each division numbered twenty-four thousand.
+
+**2** In charge of the first division, for the first month, was Jashobeam[^27-1] son of Zabdiel, and in his division were twenty-four thousand.
+
+**3** He was a descendant of Perez, and chief of all the commanders of the army for the first month.
+
+**4** In charge of the division of the second month was Dodai the Ahohite, with his division, and Mikloth was the chief officer.[^27-2] In his division were twenty-four thousand.
+
+**5** The third commander of the army, for the third month, was Benaiah son of Jehoiada the priest, as chief.[^27-3] In his division were twenty-four thousand.
+
+**6** This is the Benaiah who was a mighty warrior of the Thirty and in command of the Thirty.[^27-4] His son Ammizabad was over his division.
+
+**7** The fourth, for the fourth month, was Asahel the brother of Joab, and his son Zebadiah after him.[^27-5] In his division were twenty-four thousand.
+
+**8** The fifth, for the fifth month, was the commander Shamhuth the Izrahite.[^27-6] In his division were twenty-four thousand.
+
+**9** The sixth, for the sixth month, was Ira son of Ikkesh the Tekoite. In his division were twenty-four thousand.
+
+**10** The seventh, for the seventh month, was Helez the Pelonite, of the Ephraimites. In his division were twenty-four thousand.
+
+**11** The eighth, for the eighth month, was Sibbecai the Hushathite, of the Zerahites. In his division were twenty-four thousand.
+
+**12** The ninth, for the ninth month, was Abiezer the Anathothite, of the Benjaminites. In his division were twenty-four thousand.
+
+**13** The tenth, for the tenth month, was Maharai the Netophathite, of the Zerahites. In his division were twenty-four thousand.
+
+**14** The eleventh, for the eleventh month, was Benaiah the Pirathonite, of the Ephraimites. In his division were twenty-four thousand.
+
+**15** The twelfth, for the twelfth month, was Heldai[^27-7] the Netophathite, of Othniel. In his division were twenty-four thousand.
+
+**16** Over the tribes of Israel: the leader of the Reubenites was Eliezer son of Zichri; of the Simeonites, Shephatiah son of Maacah;
+
+**17** of Levi, Hashabiah son of Kemuel; of Aaron, Zadok;
+
+**18** of Judah, Elihu,[^27-8] one of David's brothers; of Issachar, Omri son of Michael;
+
+**19** of Zebulun, Ishmaiah son of Obadiah; of Naphtali, Jerimoth son of Azriel;
+
+**20** of the Ephraimites, Hoshea son of Azaziah; of the half-tribe of Manasseh, Joel son of Pedaiah;
+
+**21** of the half-tribe of Manasseh in Gilead, Iddo son of Zechariah; of Benjamin, Jaasiel son of Abner;
+
+**22** of Dan, Azarel son of Jeroham. These were the leaders of the tribes of Israel.[^27-9]
+
+**23** David did not count those twenty years old and under, for Yahweh[^27-10] had promised to make Israel as numerous as the stars of the sky.
+
+**24** Joab son of Zeruiah began to count them, but he did not finish. Wrath came on Israel because of it,[^27-11] and the number was not entered in the records of King David.[^27-12]
+
+**25** Azmaveth son of Adiel was in charge of the king's treasuries. Jonathan son of Uzziah was in charge of the storehouses in the country, in the towns, in the villages and in the towers.
+
+**26** Ezri son of Chelub was in charge of the field workers who tilled the ground.
+
+**27** Shimei the Ramathite was in charge of the vineyards, and Zabdi the Shiphmite was in charge of the produce of the vineyards for the wine cellars.
+
+**28** Baal-hanan the Gederite was in charge of the olive and sycamore-fig trees in the western foothills,[^27-13] and Joash was in charge of the stores of oil.
+
+**29** Shirtai[^27-14] the Sharonite was in charge of the herds that grazed in Sharon, and Shaphat son of Adlai was in charge of the herds in the valleys.
+
+**30** Obil the Ishmaelite was in charge of the camels, and Jehdeiah the Meronothite was in charge of the female donkeys.
+
+**31** Jaziz the Hagrite was in charge of the flocks. All these were the officials in charge of King David's property.
+
+**32** Jonathan, David's uncle,[^27-15] was a counselor, a man of understanding and a scribe. Jehiel son of Hachmoni was with the king's sons.[^27-16]
+
+**33** Ahithophel was the king's counselor, and Hushai the Archite was the king's friend.[^27-17]
+
+**34** After Ahithophel came Jehoiada son of Benaiah, and Abiathar. Joab was the commander of the king's army.
+
+[^27-1]: Compare 11:11.
+[^27-2]: The Hebrew is difficult: "and his division, and Mikloth the leader". Compare 11:12, Eleazar son of Dodo the Ahohite.
+[^27-3]: Or "Benaiah son of Jehoiada, the chief priest". Hebrew *ha-kohen rosh*, "the priest, chief".
+[^27-4]: See 11:22–25.
+[^27-5]: Asahel is named first among the Thirty in 11:26. His death is told in 2 Samuel 2:18–23.
+[^27-6]: Perhaps Shammoth the Harorite (11:27).
+[^27-7]: Called Heled in 11:30.
+[^27-8]: Perhaps Eliab, David's eldest brother (2:13).
+[^27-9]: Gad and Asher are not listed.
+[^27-10]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles. Compare Genesis 15:5; 22:17.
+[^27-11]: See chapter 21.
+[^27-12]: Literally "in the number of the chronicles of King David". Hebrew *divrei ha-yamim*, "the matters of the days", the phrase that gives the books of Chronicles their Hebrew name.
+[^27-13]: Hebrew *shephelah*: the low hills between the central hill country and the coastal plain.
+[^27-14]: The Hebrew text is written "Shitrai" but read "Shirtai". Most English Bibles have Shitrai.
+[^27-15]: Hebrew *dod*, "uncle", or more generally "relative".
+[^27-16]: Perhaps as their tutor.
+[^27-17]: Perhaps a title: "the King's Friend", a close adviser (2 Samuel 15:37; 16:16).
+
+## Chapter 28
+
+*Status: draft*
+
+**1** David assembled at Jerusalem all the officials of Israel: the officials of the tribes, the commanders of the divisions that served the king, the commanders of thousands and of hundreds, and the officials in charge of all the property and livestock of the king and his sons, together with the court officials,[^28-1] the mighty warriors and all the valiant men.
+
+**2** Then King David rose to his feet and said, "Listen to me, my brothers and my people. I had it in my heart to build a house of rest for the ark of the covenant of Yahweh,[^28-2] for the footstool of our God,[^28-3] and I made preparations to build it.
+
+**3** But God said to me, 'You are not to build a house for my name, because you are a man of war and have shed blood.'
+
+**4** Yet Yahweh, the God of Israel, chose me from all my father's house to be king over Israel forever. For he chose Judah as leader,[^28-4] and in the house of Judah my father's house, and among my father's sons he was pleased to make me king over all Israel.
+
+**5** And from all my sons, for Yahweh has given me many sons, he has chosen my son Solomon to sit on the throne of the kingdom of Yahweh over Israel.
+
+**6** He said to me, 'Your son Solomon is the one who will build my house and my courts, for I have chosen him to be my son, and I will be his father.
+
+**7** I will establish his kingdom forever if he is resolute in keeping my commands and my rulings, as he is today.'
+
+**8** So now, in the sight of all Israel, the assembly of Yahweh, and in the hearing of our God, keep and seek all the commands of Yahweh your God, so that you may possess this good land and leave it as an inheritance to your children after you forever.
+
+**9** And you, my son Solomon, know the God of your father, and serve him with a whole heart and a willing spirit,[^28-5] for Yahweh searches every heart and understands every plan and thought. If you seek him, he will let you find him, but if you forsake him, he will reject you forever.
+
+**10** See now, Yahweh has chosen you to build a house for the sanctuary. Be strong and do it."
+
+**11** Then David gave his son Solomon the plan[^28-6] of the porch of the temple, its buildings, its treasuries, its upper rooms, its inner rooms, and the room for the atonement cover,[^28-7]
+
+**12** and the plan of all that he had in mind[^28-8] for the courts of the house of Yahweh, for all the surrounding chambers, for the treasuries of the house of God and for the treasuries of the dedicated gifts,
+
+**13** for the divisions of the priests and the Levites, for all the work of the service of the house of Yahweh, and for all the articles for the service of the house of Yahweh;
+
+**14** the weight of gold for all the gold articles for each kind of service, and the weight of silver for all the silver articles for each kind of service;
+
+**15** the weight of the gold lampstands and their gold lamps, with the weight of each lampstand and its lamps; and the weight of silver for the silver lampstands, for each lampstand and its lamps, according to the use of each lampstand;
+
+**16** the weight of gold for the tables for the bread set out in rows,[^28-9] for each table, and silver for the silver tables;
+
+**17** pure gold for the forks, the sprinkling bowls[^28-10] and the jars; the weight of gold for each of the gold bowls, and the weight of silver for each of the silver bowls;
+
+**18** and refined gold by weight for the altar of incense; and gold for the plan of the chariot,[^28-11] the cherubim that spread their wings and covered the ark of the covenant of Yahweh.
+
+**19** All this was in writing from the hand of Yahweh on me; he made me understand all the work of the plan.[^28-12]
+
+**20** Then David said to his son Solomon, "Be strong and courageous, and do it. Do not be afraid or dismayed, for Yahweh God, my God, is with you. He will not fail you or abandon you until all the work for the service of the house of Yahweh is finished.
+
+**21** Here are the divisions of the priests and the Levites for all the service of the house of God. With you in all the work will be every willing person who is skilled in any kind of service, and the officials and all the people will be at your command."
+
+[^28-1]: Hebrew *sarisim*, court officials. The word can also mean "eunuchs".
+[^28-2]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^28-3]: Compare Psalm 99:5; 132:7.
+[^28-4]: Hebrew *nagid*, "leader, ruler".
+[^28-5]: Hebrew *nephesh*.
+[^28-6]: Hebrew *tavnit*, the word used for the pattern of the tabernacle (Exodus 25:9, 40). Also in verses 12, 18 and 19.
+[^28-7]: Hebrew *beit ha-kapporet*, "the house of the atonement cover": the most holy place, where the ark with its cover stood (Exodus 25:17–22).
+[^28-8]: Literally "all that was in the spirit with him". Or "all that he had by the Spirit".
+[^28-9]: See 9:32.
+[^28-10]: Hebrew *mizraqot*, bowls used for splashing the blood of sacrifices against the altar (Exodus 27:3).
+[^28-11]: The cherubim above the ark are pictured as God's chariot; compare Psalm 18:11 (18:10 in most English Bibles) and Ezekiel 1 and 10.
+[^28-12]: The Hebrew changes to the first person, as if David were speaking. Literally "All in writing from the hand of Yahweh on me he gave understanding, all the works of the plan."
+
+## Chapter 29
+
+*Status: draft*
+
+**1** King David said to the whole assembly, "My son Solomon, the one whom God has chosen, is young and inexperienced, and the work is great, for this palace[^29-1] is not for a human being but for Yahweh[^29-2] God.
+
+**2** With all my resources I have provided for the house of my God the gold for the things of gold, the silver for the things of silver, the bronze for the things of bronze, the iron for the things of iron and the wood for the things of wood, as well as onyx stones[^29-3] and stones for setting, dark stones and stones of various colors,[^29-4] all kinds of precious stones, and marble in abundance.
+
+**3** Moreover, in my delight in the house of my God, I have a treasure of my own of gold and silver, and I give it to the house of my God, over and above all that I have provided for the holy house:
+
+**4** three thousand talents of gold, of the gold of Ophir,[^29-5] and seven thousand talents of refined silver,[^29-6] for overlaying the walls of the buildings,
+
+**5** gold for the things of gold and silver for the things of silver, and for all the work to be done by craftsmen. Now who will offer willingly, consecrating himself[^29-7] today to Yahweh?"
+
+**6** Then the heads of the ancestral families, the leaders of the tribes of Israel, the commanders of thousands and of hundreds, and the officials in charge of the king's work offered willingly.
+
+**7** They gave for the service of the house of God five thousand talents and ten thousand darics[^29-8] of gold, ten thousand talents of silver, eighteen thousand talents of bronze and a hundred thousand talents of iron.
+
+**8** Anyone who had precious stones gave them to the treasury of the house of Yahweh, in the care of Jehiel the Gershonite.
+
+**9** The people rejoiced over their willing offerings, for they had given willingly to Yahweh with a whole heart. King David also rejoiced greatly.
+
+**10** Then David blessed Yahweh in the sight of the whole assembly. David said, "Blessed are you, Yahweh, the God of our father Israel, from everlasting to everlasting.
+
+**11** Yours, Yahweh, are the greatness, the power, the glory, the victory[^29-9] and the majesty, for everything in heaven and on earth is yours. Yours, Yahweh, is the kingdom, and you are exalted as head over all.
+
+**12** Riches and honor come from you, and you rule over all. In your hand are strength and might, and it is in your hand to make great and to give strength to all.
+
+**13** Now, our God, we give thanks to you and praise your glorious name.
+
+**14** But who am I, and who are my people, that we should be able to offer so willingly? For everything comes from you, and we have given you only what comes from your hand.
+
+**15** For we are foreigners and strangers[^29-10] before you, as all our ancestors were. Our days on earth are like a shadow, and there is no hope.[^29-11]
+
+**16** Yahweh our God, all this abundance that we have provided to build you a house for your holy name comes from your hand, and all of it is yours.
+
+**17** I know, my God, that you test the heart and are pleased with uprightness. In the uprightness of my heart I have freely offered all these things, and now I have seen with joy your people who are present here offering freely to you.
+
+**18** Yahweh, the God of Abraham, Isaac and Israel, our ancestors, keep this forever in the inclinations of the thoughts of your people's hearts, and direct their hearts toward you.
+
+**19** Give my son Solomon a whole heart to keep your commands, your statutes[^29-12] and your decrees, to do everything, and to build the palace for which I have made preparations."
+
+**20** Then David said to the whole assembly, "Now bless Yahweh your God." And the whole assembly blessed Yahweh, the God of their ancestors. They bowed low and prostrated themselves before Yahweh and the king.
+
+**21** The next day they offered sacrifices to Yahweh and burnt offerings to Yahweh: a thousand bulls, a thousand rams and a thousand lambs, with their drink offerings, and sacrifices in abundance for all Israel.
+
+**22** They ate and drank before Yahweh that day with great joy. They made Solomon son of David king a second time,[^29-13] and they anointed him before Yahweh as ruler,[^29-14] and Zadok as priest.
+
+**23** Solomon sat on the throne of Yahweh as king in place of his father David. He prospered, and all Israel obeyed him.
+
+**24** All the officials and the mighty warriors, and also all King David's sons, pledged their allegiance[^29-15] to King Solomon.
+
+**25** Yahweh made Solomon exceedingly great in the sight of all Israel and gave him royal majesty such as no king over Israel had had before him.
+
+**26** So David son of Jesse reigned over all Israel.
+
+**27** He reigned over Israel for forty years. He reigned seven years in Hebron and thirty-three years in Jerusalem.[^29-16]
+
+**28** He died at a good old age, full of days, riches and honor, and his son Solomon reigned in his place.
+
+**29** The acts of King David, from first to last, are written in the records of Samuel the seer, the records of Nathan the prophet and the records of Gad the seer,[^29-17]
+
+**30** together with all his reign and his might, and the events that came upon him, upon Israel and upon all the kingdoms of the lands.[^29-18]
+
+[^29-1]: Hebrew *birah*, "citadel, palace", here used of the temple. Also in verse 19.
+[^29-2]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^29-3]: Hebrew *shoham*, a precious stone that cannot be identified with certainty.
+[^29-4]: Hebrew *avnei phukh ve-riqmah*. *Phukh* is antimony, a dark mineral used as eye paint; compare Isaiah 54:11. *Riqmah* means "many-colored" or "embroidered work".
+[^29-5]: A land famous for its gold (1 Kings 9:28).
+[^29-6]: A talent was about 75 pounds (34 kg), so three thousand talents was about 110 tons (100 metric tons), and seven thousand talents about 260 tons (240 metric tons).
+[^29-7]: Literally "to fill his hand", an expression used of ordaining priests (Exodus 28:41).
+[^29-8]: Hebrew *adarkonim*, probably darics, Persian gold coins weighing about 1/4 ounce (8.4 grams).
+[^29-9]: Or "the splendor". Hebrew *netsach*, "preeminence, lasting glory, victory".
+[^29-10]: Hebrew *gerim* and *toshavim*, foreigners and temporary residents without the rights of citizens (Leviticus 25:23).
+[^29-11]: Or "nothing that lasts".
+[^29-12]: Hebrew *edot*, traditionally "testimonies": the solemn terms of the covenant.
+[^29-13]: Compare 23:1. 1 Kings 1:32–40 tells how Solomon was first anointed.
+[^29-14]: Hebrew *nagid*, a leader or ruler designated by God.
+[^29-15]: Literally "gave the hand under".
+[^29-16]: Compare 3:4; 2 Samuel 5:4–5; 1 Kings 2:11.
+[^29-17]: Hebrew *divrei*, "words, matters, records", three times. Samuel is called *ro'eh* and Gad *chozeh*; both words mean "seer".
+[^29-18]: Literally "and the times that passed over him and over Israel and over all the kingdoms of the lands".

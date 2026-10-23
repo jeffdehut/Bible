@@ -155,7 +155,7 @@
 
 **25** Palal son of Uzai made repairs opposite the angle and the tower that projects from the upper house of the king, at the court of the guard.[^3-22] After him Pedaiah son of Parosh made repairs.
 
-**26** The temple servants were living on the Ophel,[^3-23] as far as a point opposite the Water Gate on the east and the projecting tower.[^3-24]
+**26** The temple servants[^3-23] were living on the Ophel,[^3-24] as far as a point opposite the Water Gate on the east and the projecting tower.[^3-25]
 
 **27** After him the men of Tekoa repaired another section, from opposite the great projecting tower as far as the wall of the Ophel.
 
@@ -163,23 +163,23 @@
 
 **29** After them Zadok son of Immer made repairs opposite his house. After him Shemaiah son of Shecaniah, the keeper of the East Gate, made repairs.
 
-**30** After him[^3-25] Hananiah son of Shelemiah and Hanun, the sixth son of Zalaph, repaired another section. After him Meshullam son of Berechiah made repairs opposite his room.
+**30** After him[^3-26] Hananiah son of Shelemiah and Hanun, the sixth son of Zalaph, repaired another section. After him Meshullam son of Berechiah made repairs opposite his room.
 
-**31** After him Malchijah, one of the goldsmiths, made repairs as far as the house of the temple servants and the merchants, opposite the Muster Gate,[^3-26] and as far as the upper room at the corner.
+**31** After him Malchijah, one of the goldsmiths, made repairs as far as the house of the temple servants and the merchants, opposite the Muster Gate,[^3-27] and as far as the upper room at the corner.
 
 **32** And between the upper room at the corner and the Sheep Gate the goldsmiths and the merchants made repairs.
 
-**33** When Sanballat heard that we were building the wall, he was angry and greatly enraged, and he mocked the Jews.[^3-27]
+**33** When Sanballat heard that we were building the wall, he was angry and greatly enraged, and he mocked the Jews.[^3-28]
 
-**34** He said in the presence of his associates[^3-28] and the army of Samaria, "What are these feeble Jews doing? Will they restore it for themselves?[^3-29] Will they offer sacrifices? Will they finish it in a day? Will they bring the stones back to life out of the heaps of rubble, burned as they are?"
+**34** He said in the presence of his associates[^3-29] and the army of Samaria, "What are these feeble Jews doing? Will they restore it for themselves?[^3-30] Will they offer sacrifices? Will they finish it in a day? Will they bring the stones back to life out of the heaps of rubble, burned as they are?"
 
 **35** Tobiah the Ammonite was beside him, and he said, "Even what they are building, if a fox went up on it, it would break down their stone wall!"
 
 **36** Hear us, our God, for we are despised. Turn their insults back on their own heads, and give them up to be plundered in a land where they are captives.
 
-**37** Do not cover their guilt, and do not let their sin be wiped out from before you, for they have provoked you to anger in front of the builders.[^3-30]
+**37** Do not cover their guilt, and do not let their sin be wiped out from before you, for they have provoked you to anger in front of the builders.[^3-31]
 
-**38** So we built the wall, and the whole wall was joined together up to half its height,[^3-31] for the people had a heart to work.
+**38** So we built the wall, and the whole wall was joined together up to half its height,[^3-32] for the people had a heart to work.
 
 [^3-1]: The account seems to go around the wall counterclockwise, starting from the Sheep Gate north of the temple and returning to it in verse 32.
 [^3-2]: Literally "at his hand"; so also "next to them", "at their hand", throughout the chapter.
@@ -203,15 +203,16 @@
 [^3-20]: The meaning of Hebrew *hecherah* is uncertain. It may mean "with zeal".
 [^3-21]: Hebrew *ha-kikkar*, "the circle": the region around Jerusalem, or the Jordan valley.
 [^3-22]: The Hebrew of verses 25–26 has no verb for Palal and Pedaiah; "made repairs" is supplied from the context.
-[^3-23]: The hill on the east side of the city between the City of David and the temple.
-[^3-24]: This seems to describe the section that Pedaiah repaired.
-[^3-25]: The Hebrew text is written "After me" but read "After him". Also at the beginning of verse 31.
-[^3-26]: Hebrew *sha'ar ha-mifqad*, perhaps "the Inspection Gate" or "the Gate of the Appointed Place".
-[^3-27]: Verses 33–38 are 4:1–6 in most English Bibles.
-[^3-28]: Literally "his brothers".
-[^3-29]: The meaning of the Hebrew is uncertain. Literally "Will they leave to themselves?"
-[^3-30]: Or "for they have insulted the builders to their faces".
-[^3-31]: Literally "up to its half".
+[^3-23]: Hebrew *netinim*, "those given", that is, given to the service of the temple. They were temple workers of lower rank than the Levites (Ezra 8:20). Also in verse 31.
+[^3-24]: The hill on the east side of the city between the City of David and the temple.
+[^3-25]: This seems to describe the section that Pedaiah repaired.
+[^3-26]: The Hebrew text is written "After me" but read "After him". Also at the beginning of verse 31.
+[^3-27]: Hebrew *sha'ar ha-mifqad*, perhaps "the Inspection Gate" or "the Gate of the Appointed Place".
+[^3-28]: Verses 33–38 are 4:1–6 in most English Bibles.
+[^3-29]: Literally "his brothers".
+[^3-30]: The meaning of the Hebrew is uncertain. Literally "Will they leave to themselves?"
+[^3-31]: Or "for they have insulted the builders to their faces".
+[^3-32]: Literally "up to its half".
 
 ## Chapter 4
 
@@ -570,3 +571,355 @@
 [^7-51]: Hebrew *darkemonim*: probably darics, Persian gold coins weighing about 0.3 ounce (8.4 g) each; or Greek drachmas.
 [^7-52]: A mina was about 1.25 pounds (0.6 kg).
 [^7-53]: Ezra 3:1 has the same words.
+
+## Chapter 8
+
+*Status: draft*
+
+**1** All the people gathered as one man in the square in front of the Water Gate. They asked Ezra the scribe to bring the book of the Law of Moses, which Yahweh[^8-1] had commanded Israel.
+
+**2** So on the first day of the seventh month Ezra the priest brought the Law before the assembly, men and women and all who could understand what they heard.
+
+**3** He read from it in the square in front of the Water Gate from daybreak until midday,[^8-2] in the presence of the men and the women and those who could understand. And all the people listened closely to the book of the Law.[^8-3]
+
+**4** Ezra the scribe stood on a wooden platform[^8-4] that had been made for the purpose. Beside him stood Mattithiah, Shema, Anaiah, Uriah, Hilkiah and Maaseiah on his right, and Pedaiah, Mishael, Malchijah, Hashum, Hashbaddanah, Zechariah and Meshullam on his left.
+
+**5** Ezra opened the book in the sight of all the people, for he was above all the people, and as he opened it, all the people stood up.
+
+**6** Ezra blessed Yahweh, the great God, and all the people answered, "Amen! Amen!"[^8-5] lifting up their hands. Then they bowed down and worshiped Yahweh with their faces to the ground.
+
+**7** Jeshua, Bani, Sherebiah, Jamin, Akkub, Shabbethai, Hodiah, Maaseiah, Kelita, Azariah, Jozabad, Hanan, Pelaiah and the Levites[^8-6] helped the people understand the Law, while the people stayed in their places.
+
+**8** They read from the book, from the Law of God, clearly,[^8-7] and they gave the sense, so that the people understood what was read.
+
+**9** Then Nehemiah, who was the governor,[^8-8] and Ezra the priest and scribe, and the Levites who were teaching the people said to all the people, "This day is holy to Yahweh your God. Do not mourn or weep." For all the people were weeping as they heard the words of the Law.
+
+**10** He said to them, "Go, eat rich food and drink sweet drinks, and send portions to anyone who has nothing ready, for this day is holy to our Lord. Do not grieve, for the joy of Yahweh is your strength."[^8-9]
+
+**11** The Levites calmed all the people, saying, "Be still, for the day is holy. Do not grieve."
+
+**12** Then all the people went away to eat and drink, to send portions and to celebrate with great joy, because they had understood the words that had been made known to them.
+
+**13** On the second day the heads of the ancestral families[^8-10] of all the people, the priests and the Levites gathered to Ezra the scribe to study the words of the Law.
+
+**14** They found written in the Law, which Yahweh had commanded through Moses, that the Israelites were to live in shelters[^8-11] during the festival in the seventh month,
+
+**15** and that they were to announce it and send a proclamation through all their towns and in Jerusalem: "Go out to the hills and bring branches of olive, of wild olive,[^8-12] of myrtle, of palm and of leafy trees, to make shelters, as it is written."[^8-13]
+
+**16** So the people went out and brought them, and they made shelters for themselves, each on his roof, and in their courtyards, in the courts of the house of God, in the square at the Water Gate and in the square at the Gate of Ephraim.
+
+**17** The whole assembly of those who had returned from the captivity made shelters and lived in the shelters. From the days of Joshua[^8-14] son of Nun to that day the Israelites had not done so. And there was very great joy.
+
+**18** Day after day, from the first day to the last day, Ezra read from the book of the Law of God. They kept the festival for seven days, and on the eighth day there was a closing assembly,[^8-15] as prescribed.
+
+[^8-1]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^8-2]: Literally "from the light until the middle of the day".
+[^8-3]: Literally "the ears of all the people were to the book of the Law".
+[^8-4]: Literally "a tower of wood".
+[^8-5]: *Amen* means "So be it", "It is true".
+[^8-6]: The names may be those of the Levites themselves: "Pelaiah, the Levites".
+[^8-7]: Or "with interpretation" or "section by section". Jewish tradition understood it as translating into Aramaic.
+[^8-8]: Hebrew *tirshata*, a Persian title of a high official; see 7:65.
+[^8-9]: Or "your refuge". "The joy of Yahweh" may be the joy that Yahweh gives, or joy in Yahweh.
+[^8-10]: Literally "the heads of the fathers", that is, of the fathers' houses: extended families descended from a common ancestor.
+[^8-11]: Hebrew *sukkot*, "booths, shelters": huts made of branches. See Leviticus 23:39–43. Traditionally the festival is called "Tabernacles".
+[^8-12]: Literally "oil tree": perhaps wild olive, or pine.
+[^8-13]: Leviticus 23:40 names "the fruit of majestic trees, palm fronds, branches of leafy trees and willows from the stream".
+[^8-14]: Hebrew *Yeshua*, a later form of the name Joshua.
+[^8-15]: Hebrew *atseret*, a solemn gathering that closes the festival (Leviticus 23:36; Numbers 29:35).
+
+## Chapter 9
+
+*Status: draft*
+
+**1** On the twenty-fourth day of this month the Israelites assembled, fasting and wearing sackcloth, with earth on their heads.
+
+**2** Those of Israelite descent[^9-1] separated themselves from all foreigners, and they stood and confessed their sins and the iniquities of their ancestors.
+
+**3** They stood up in their places and read from the book of the Law of Yahweh[^9-2] their God for a quarter of the day, and for another quarter they confessed and worshiped Yahweh their God.
+
+**4** On the platform[^9-3] of the Levites stood Jeshua, Bani, Kadmiel, Shebaniah, Bunni, Sherebiah, Bani and Chenani, and they cried out with a loud voice to Yahweh their God.
+
+**5** Then the Levites, Jeshua, Kadmiel, Bani, Hashabneiah, Sherebiah, Hodiah, Shebaniah and Pethahiah, said, "Stand up and bless Yahweh your God from everlasting to everlasting! May they bless your glorious name, which is exalted above all blessing and praise.
+
+**6** You alone are Yahweh.[^9-4] You made the heavens, the highest heavens[^9-5] and all their host, the earth and everything on it, the seas and everything in them. You give life to them all, and the host of heaven worships you.
+
+**7** You are Yahweh, the God who chose Abram and brought him out of Ur of the Chaldeans and gave him the name Abraham.
+
+**8** You found his heart faithful before you, and you made the covenant with him to give the land of the Canaanites, the Hittites, the Amorites, the Perizzites, the Jebusites and the Girgashites, to give it to his descendants.[^9-6] And you have kept your promise,[^9-7] for you are righteous.
+
+**9** You saw the affliction of our ancestors in Egypt and heard their cry at the Red Sea.[^9-8]
+
+**10** You performed signs and wonders against Pharaoh, against all his servants and against all the people of his land, for you knew how arrogantly they had treated them. You made a name for yourself, as it is today.
+
+**11** You split the sea before them, and they passed through the middle of the sea on dry ground. But you threw their pursuers into the depths, like a stone into mighty waters.[^9-9]
+
+**12** By a pillar of cloud you led them by day, and by a pillar of fire by night, to light for them the way they were to go.
+
+**13** You came down on Mount Sinai and spoke with them from heaven. You gave them right rulings and true instructions, good decrees and commands.[^9-10]
+
+**14** You made known to them your holy Sabbath, and through your servant Moses you gave them commands, decrees and a law.
+
+**15** You gave them bread from heaven for their hunger, and you brought water out of the rock for their thirst. You told them to go in and take possession of the land that you had sworn[^9-11] to give them.
+
+**16** But they, our ancestors,[^9-12] acted arrogantly. They stiffened their necks and did not listen to your commands.
+
+**17** They refused to listen and did not remember the wonders you had done among them. They stiffened their necks and in their rebellion appointed a leader to go back to their slavery.[^9-13] But you are a God of forgiveness, gracious and compassionate, slow to anger and abounding in faithful love,[^9-14] and you did not forsake them.
+
+**18** Even when they made for themselves a calf of cast metal and said, 'This is your God who brought you up out of Egypt,'[^9-15] and committed great blasphemies,
+
+**19** you in your great compassion did not forsake them in the wilderness. The pillar of cloud did not leave them by day, to lead them on the way, nor the pillar of fire by night, to light for them the way they were to go.
+
+**20** You gave your good spirit[^9-16] to instruct them. You did not withhold your manna from their mouths, and you gave them water for their thirst.
+
+**21** For forty years you sustained them in the wilderness, and they lacked nothing. Their clothes did not wear out, and their feet did not swell.[^9-17]
+
+**22** You gave them kingdoms and peoples, and you allotted them to every corner.[^9-18] They took possession of the land of Sihon, the land of the king of Heshbon, and the land of Og king of Bashan.
+
+**23** You made their children as many as the stars of the sky, and you brought them into the land that you had told their ancestors to enter and possess.
+
+**24** So the children went in and took possession of the land. You subdued before them the inhabitants of the land, the Canaanites, and gave them into their hands, with their kings and the peoples of the land, to do with them as they pleased.
+
+**25** They captured fortified cities and fertile land. They took possession of houses full of all good things, cisterns already dug, vineyards, olive groves and fruit trees in abundance. They ate and were filled and grew fat, and they delighted in your great goodness.
+
+**26** But they were disobedient and rebelled against you. They threw your law behind their backs. They killed your prophets, who had warned them in order to turn them back to you, and they committed great blasphemies.
+
+**27** So you gave them into the hand of their enemies, who oppressed them. But in the time of their distress they cried out to you, and you heard from heaven, and in your great compassion you gave them deliverers, who delivered them from the hand of their enemies.
+
+**28** But as soon as they had rest, they again did evil before you. So you abandoned them to the hand of their enemies, who ruled over them. Then they cried out to you again, and you heard from heaven, and in your compassion you rescued them many times.
+
+**29** You warned them, to turn them back to your law, but they acted arrogantly and did not listen to your commands. They sinned against your rulings, which give life to the one who does them.[^9-19] They turned a stubborn shoulder, stiffened their necks and would not listen.
+
+**30** For many years you were patient with them.[^9-20] You warned them by your spirit through your prophets, but they would not listen. So you gave them into the hand of the peoples of the lands.
+
+**31** But in your great compassion you did not make an end of them or forsake them, for you are a gracious and compassionate God.
+
+**32** So now, our God, the great, mighty and awesome God, who keeps covenant and faithful love, do not treat as small all the hardship that has come upon us, upon our kings, our leaders, our priests, our prophets, our ancestors and all your people, from the days of the kings of Assyria until this day.
+
+**33** You have been righteous in all that has come upon us, for you have acted faithfully, but we have done wrong.
+
+**34** Our kings, our leaders, our priests and our ancestors did not keep your law. They did not pay attention to your commands and your statutes,[^9-21] which you solemnly declared to them.
+
+**35** Even in their own kingdom, amid the great goodness that you gave them, and in the broad and fertile land that you set before them, they did not serve you or turn from their evil deeds.
+
+**36** Here we are, slaves today, slaves in the very land that you gave our ancestors to enjoy its fruit and its good things.
+
+**37** Its rich produce goes to the kings whom you have set over us because of our sins. They rule over our bodies and over our livestock as they please, and we are in great distress."[^9-22]
+
+[^9-1]: Literally "the seed of Israel".
+[^9-2]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^9-3]: Or "stairs".
+[^9-4]: The Septuagint begins this verse "And Ezra said", making the prayer that follows his.
+[^9-5]: Literally "the heavens of the heavens".
+[^9-6]: See Genesis 15:6, 18–21.
+[^9-7]: Literally "your words".
+[^9-8]: Hebrew *Yam Suph*, literally "Sea of Reeds", traditionally the Red Sea.
+[^9-9]: Compare Exodus 15:5, 10.
+[^9-10]: Hebrew *mishpatim* "rulings", *torot* "instructions, laws", *chuqqim* "decrees" and *mitsvot* "commands". Also in verse 14.
+[^9-11]: Literally "lifted up your hand", a gesture of swearing an oath.
+[^9-12]: Literally "they and our fathers".
+[^9-13]: The Septuagint reads "to go back to their slavery in Egypt". Compare Numbers 14:4.
+[^9-14]: Hebrew *chesed*: loyal, faithful love. Compare Exodus 34:6. The Hebrew text is written "great and faithful love" but read "abounding in faithful love".
+[^9-15]: Exodus 32:4, 8.
+[^9-16]: Hebrew *ruach*. Compare Numbers 11:17, 25. Also in verse 30.
+[^9-17]: Compare Deuteronomy 8:4; 29:4 (English 29:5).
+[^9-18]: The meaning of the Hebrew is uncertain. Perhaps "you allotted to them every region", or "you allotted the land to them as a boundary".
+[^9-19]: Literally "which a person shall do and live by them" (Leviticus 18:5).
+[^9-20]: Literally "you drew out over them".
+[^9-21]: Hebrew *edot*, traditionally "testimonies": the solemn terms of the covenant. The verb that follows, "solemnly declared", is from the same root.
+[^9-22]: Most English Bibles number the next verse, 10:1 in the Hebrew, as 9:38.
+
+## Chapter 10
+
+*Status: draft*
+
+**1** Because of all this, we are making a firm agreement and putting it in writing. On the sealed document are the names of our leaders, our Levites and our priests.[^10-1]
+
+**2** On the sealed documents were:[^10-2] Nehemiah the governor,[^10-3] son of Hacaliah, and Zedekiah;
+
+**3** Seraiah, Azariah, Jeremiah,[^10-4]
+
+**4** Pashhur, Amariah, Malchijah,
+
+**5** Hattush, Shebaniah, Malluch,
+
+**6** Harim, Meremoth, Obadiah,
+
+**7** Daniel, Ginnethon, Baruch,
+
+**8** Meshullam, Abijah, Mijamin,
+
+**9** Maaziah, Bilgai and Shemaiah. These were the priests.
+
+**10** The Levites: Jeshua son of Azaniah, Binnui of the descendants of Henadad, Kadmiel,[^10-5]
+
+**11** and their kinsmen: Shebaniah, Hodiah, Kelita, Pelaiah, Hanan,
+
+**12** Mica, Rehob, Hashabiah,
+
+**13** Zaccur, Sherebiah, Shebaniah,
+
+**14** Hodiah, Bani and Beninu.
+
+**15** The leaders of the people: Parosh, Pahath-moab, Elam, Zattu, Bani,[^10-6]
+
+**16** Bunni, Azgad, Bebai,
+
+**17** Adonijah, Bigvai, Adin,
+
+**18** Ater, Hezekiah, Azzur,
+
+**19** Hodiah, Hashum, Bezai,
+
+**20** Hariph, Anathoth, Nebai,[^10-7]
+
+**21** Magpiash, Meshullam, Hezir,
+
+**22** Meshezabel, Zadok, Jaddua,
+
+**23** Pelatiah, Hanan, Anaiah,
+
+**24** Hoshea, Hananiah, Hasshub,
+
+**25** Hallohesh, Pilha, Shobek,
+
+**26** Rehum, Hashabnah, Maaseiah,
+
+**27** Ahijah, Hanan, Anan,
+
+**28** Malluch, Harim and Baanah.
+
+**29** The rest of the people, the priests, the Levites, the gatekeepers, the singers, the temple servants[^10-8] and all who had separated themselves from the peoples of the lands to keep the Law of God, with their wives, their sons and their daughters, all who had knowledge and understanding,
+
+**30** joined with their kinsmen, their nobles, and bound themselves with a curse and an oath[^10-9] to walk in the Law of God, which was given through Moses the servant of God, and to keep and do all the commands of Yahweh[^10-10] our Lord, and his rulings and his decrees.
+
+**31** We will not give our daughters to the peoples of the land, and we will not take their daughters for our sons.
+
+**32** When the peoples of the land bring goods or any grain to sell on the Sabbath day, we will not buy from them on the Sabbath or on a holy day. And in the seventh year we will leave the land unworked and cancel every debt.[^10-11]
+
+**33** We also take on ourselves the obligation[^10-12] to give a third of a shekel[^10-13] each year for the service of the house of our God:
+
+**34** for the bread of the Presence,[^10-14] for the regular grain offering and the regular burnt offering, for the Sabbaths, the new moons and the appointed festivals, for the holy offerings, and for the sin offerings[^10-15] to make atonement for Israel, and for all the work of the house of our God.
+
+**35** We, the priests, the Levites and the people, have cast lots for the wood offering, to bring it to the house of our God by our ancestral families at appointed times year by year, to burn on the altar of Yahweh our God, as it is written in the Law.
+
+**36** We will bring the firstfruits of our ground and the firstfruits of all the fruit of every tree year by year to the house of Yahweh.
+
+**37** We will also bring to the house of our God, to the priests who minister in the house of our God, the firstborn of our sons and of our livestock, as it is written in the Law, and the firstborn of our herds and of our flocks.
+
+**38** We will bring the first of our dough,[^10-16] our contributions,[^10-17] the fruit of every tree, the new wine and the olive oil to the priests, to the storerooms of the house of our God, and the tithe of our ground to the Levites, for it is the Levites who collect the tithes in all the towns where we work.
+
+**39** A priest descended from Aaron is to be with the Levites when the Levites collect the tithes, and the Levites are to bring a tenth of the tithes up to the house of our God, to the storerooms of the treasury.[^10-18]
+
+**40** For the Israelites and the descendants of Levi are to bring the contribution of grain, new wine and olive oil to the storerooms, where the articles of the sanctuary are kept, and where the priests who minister, the gatekeepers and the singers are. We will not neglect the house of our God.
+
+[^10-1]: Verse 1 is 9:38 in most English Bibles, and verses 2–40 are 10:1–39.
+[^10-2]: Literally "And on the sealed ones". The names were those who set their seals on the agreement.
+[^10-3]: Hebrew *tirshata*, a Persian title of a high official; see 7:65.
+[^10-4]: Most of the names in verses 3–9 are also names of priestly families in 12:1–7 and 12:12–21.
+[^10-5]: Compare the Levites in 12:8 and 12:24.
+[^10-6]: Many of the names in verses 15–28 are family names from the list of those who returned (7:8–38; Ezra 2:3–35).
+[^10-7]: The Hebrew text is written "Nobai" but read "Nebai".
+[^10-8]: Hebrew *netinim*: temple workers of lower rank than the Levites; see 7:46.
+[^10-9]: That is, an oath that called down a curse on anyone who broke it.
+[^10-10]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^10-11]: Literally "we will let go the seventh year and the debt of every hand". See Exodus 23:10–11; Deuteronomy 15:1–2.
+[^10-12]: Literally "we have set commands on ourselves".
+[^10-13]: A shekel was about ⅖ ounce (11.5 grams). Compare the half shekel of Exodus 30:11–16.
+[^10-14]: Hebrew *lechem ha-ma'arekhet*, "the bread of the arrangement": the bread set out in rows on the table before Yahweh (Exodus 25:30; Leviticus 24:5–9).
+[^10-15]: Or "purification offerings". Hebrew *chatta'ot*: offerings to remove the effects of sin and impurity (Leviticus 4).
+[^10-16]: Or "coarse meal". See Numbers 15:20–21.
+[^10-17]: Hebrew *terumot*: things set apart and given for a sacred purpose. Also "contribution" in verse 40.
+[^10-18]: See Numbers 18:25–32.
+
+## Chapter 11
+
+*Status: draft*
+
+**1** The leaders of the people settled in Jerusalem, and the rest of the people cast lots to bring one out of every ten to live in Jerusalem, the holy city, while the other nine stayed in the towns.[^11-1]
+
+**2** The people blessed all the men who volunteered to live in Jerusalem.
+
+**3** These are the heads of the province who lived in Jerusalem.[^11-2] In the towns of Judah, each lived on his own property in their towns: Israelites,[^11-3] the priests, the Levites, the temple servants[^11-4] and the descendants of Solomon's servants.
+
+**4** In Jerusalem lived some of the descendants of Judah and some of the descendants of Benjamin. Of the descendants of Judah: Athaiah son of Uzziah, son of Zechariah, son of Amariah, son of Shephatiah, son of Mahalalel, of the descendants of Perez;
+
+**5** and Maaseiah son of Baruch, son of Col-hozeh, son of Hazaiah, son of Adaiah, son of Joiarib, son of Zechariah, son of the Shilonite.[^11-5]
+
+**6** All the descendants of Perez who lived in Jerusalem were 468 capable men.
+
+**7** These are the descendants of Benjamin: Sallu son of Meshullam, son of Joed, son of Pedaiah, son of Kolaiah, son of Maaseiah, son of Ithiel, son of Jeshaiah;
+
+**8** and after him Gabbai and Sallai,[^11-6] 928.
+
+**9** Joel son of Zichri was the officer over them, and Judah son of Hassenuah was second in command over the city.[^11-7]
+
+**10** Of the priests: Jedaiah son of Joiarib, Jachin,[^11-8]
+
+**11** Seraiah son of Hilkiah, son of Meshullam, son of Zadok, son of Meraioth, son of Ahitub, the officer in charge of the house of God,
+
+**12** and their kinsmen who did the work of the house, 822; and Adaiah son of Jeroham, son of Pelaliah, son of Amzi, son of Zechariah, son of Pashhur, son of Malchijah,
+
+**13** and his kinsmen, heads of ancestral families, 242; and Amashsai son of Azarel, son of Ahzai, son of Meshillemoth, son of Immer,
+
+**14** and their kinsmen, capable warriors, 128. The officer over them was Zabdiel son of Haggedolim.[^11-9]
+
+**15** Of the Levites: Shemaiah son of Hasshub, son of Azrikam, son of Hashabiah, son of Bunni;
+
+**16** and Shabbethai and Jozabad, of the heads of the Levites, who were in charge of the outside work of the house of God;
+
+**17** and Mattaniah son of Mica, son of Zabdi, son of Asaph, the leader who began the thanksgiving at prayer,[^11-10] and Bakbukiah, the second among his kinsmen; and Abda son of Shammua, son of Galal, son of Jeduthun.
+
+**18** All the Levites in the holy city were 284.
+
+**19** The gatekeepers: Akkub, Talmon and their kinsmen, who kept watch at the gates, 172.
+
+**20** The rest of Israel, the priests and the Levites, were in all the towns of Judah, each on his own inheritance.
+
+**21** The temple servants lived on the Ophel, and Ziha and Gishpa were in charge of the temple servants.
+
+**22** The officer of the Levites in Jerusalem was Uzzi son of Bani, son of Hashabiah, son of Mattaniah, son of Mica, of the descendants of Asaph, the singers, over the work of the house of God.
+
+**23** For there was a command from the king concerning them, and a fixed arrangement for the singers, as each day required.[^11-11]
+
+**24** Pethahiah son of Meshezabel, of the descendants of Zerah son of Judah, was the king's agent[^11-12] in every matter concerning the people.
+
+**25** As for the villages with their fields: some of the descendants of Judah lived in Kiriath-arba and its settlements,[^11-13] in Dibon and its settlements, in Jekabzeel and its villages,
+
+**26** in Jeshua, in Moladah and in Beth-pelet,
+
+**27** in Hazar-shual, in Beersheba and its settlements,
+
+**28** in Ziklag, in Meconah and its settlements,
+
+**29** in En-rimmon, in Zorah and in Jarmuth,
+
+**30** Zanoah, Adullam and their villages, Lachish and its fields, Azekah and its settlements. So they camped from Beersheba to the Valley of Hinnom.
+
+**31** The descendants of Benjamin lived from Geba onward: at Michmash, Aija, Bethel and its settlements,
+
+**32** Anathoth, Nob, Ananiah,
+
+**33** Hazor, Ramah, Gittaim,
+
+**34** Hadid, Zeboim, Neballat,
+
+**35** Lod and Ono, and the Valley of the Craftsmen.[^11-14]
+
+**36** Some divisions of the Levites of Judah were joined to Benjamin.[^11-15]
+
+[^11-1]: Literally "and nine of the hands in the towns".
+[^11-2]: Verses 3–19 have a parallel, with many differences, in 1 Chronicles 9:2–17.
+[^11-3]: Literally "Israel", that is, the people who were not priests or Levites.
+[^11-4]: Hebrew *netinim*: temple workers of lower rank than the Levites; see 7:46. Also in verse 21.
+[^11-5]: Or "the Shelanite", a descendant of Shelah son of Judah (Numbers 26:20).
+[^11-6]: The meaning of the Hebrew is uncertain.
+[^11-7]: Or "was over the Second Quarter of the city" (compare 2 Kings 22:14; Zephaniah 1:10).
+[^11-8]: 1 Chronicles 9:10 has "Jedaiah, Jehoiarib and Jachin".
+[^11-9]: Or "a member of one of the great families". *Haggedolim* means "the great ones".
+[^11-10]: The Hebrew is difficult. Literally "the head of the beginning, he gave thanks at the prayer".
+[^11-11]: Literally "the matter of a day in its day". Hebrew *amanah*, "firm agreement", is the word used in 10:1.
+[^11-12]: Literally "at the king's hand".
+[^11-13]: Literally "its daughters": the smaller places that belonged to a town. Also in verses 27–28 and 30–31.
+[^11-14]: Or "Ge-harashim".
+[^11-15]: The meaning of the Hebrew is uncertain. Literally "And of the Levites, divisions of Judah to Benjamin".
