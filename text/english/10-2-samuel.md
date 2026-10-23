@@ -631,3 +631,499 @@
 [^9-4]: Hebrew *na'ar*, "young man", here a household servant or steward.
 [^9-5]: Literally "your master's son". Also twice in verse 10.
 [^9-6]: Hebrew "my table", as though the king were speaking. The Septuagint reads "David's table".
+
+## Chapter 10
+
+*Status: draft*
+
+**1** After this, the king of the Ammonites died, and his son Hanun became king in his place.
+
+**2** David said, "I will show faithful love[^10-1] to Hanun son of Nahash, as his father showed faithful love to me." So David sent his servants to console him about his father. When David's servants came to the land of the Ammonites,
+
+**3** the Ammonite commanders said to their lord Hanun, "Do you think David is honoring your father because he has sent you comforters? Hasn't David sent his servants to you to explore the city, to spy it out and to overthrow it?"
+
+**4** So Hanun took David's servants, shaved off half of each man's beard, cut off their garments in the middle, as far as their buttocks, and sent them away.
+
+**5** When David was told, he sent people to meet them, for the men were deeply humiliated. The king said, "Stay in Jericho until your beards have grown, and then come back."
+
+**6** When the Ammonites saw that they had made themselves a stench to David,[^10-2] the Ammonites sent and hired the Arameans of Beth-rehob and the Arameans of Zobah, twenty thousand foot soldiers, and the king of Maacah with a thousand men, and the men of Tob,[^10-3] twelve thousand men.
+
+**7** When David heard of it, he sent Joab with the whole army of warriors.[^10-4]
+
+**8** The Ammonites came out and drew up in battle formation at the entrance of the city gate, while the Arameans of Zobah and Rehob, and the men of Tob and Maacah, were by themselves in the open country.
+
+**9** When Joab saw that the battle was set against him both in front and behind, he chose some of the best men of Israel and drew them up against the Arameans.
+
+**10** The rest of the troops he put under the command of his brother Abishai, and he drew them up against the Ammonites.
+
+**11** He said, "If the Arameans are too strong for me, then you are to come and rescue me. But if the Ammonites are too strong for you, I will come to rescue you.
+
+**12** Be strong, and let us show ourselves strong for the sake of our people and for the cities of our God. And may Yahweh[^10-5] do what seems good to him."
+
+**13** So Joab and the troops who were with him advanced to fight against the Arameans, and they fled before him.
+
+**14** When the Ammonites saw that the Arameans had fled, they fled before Abishai and went into the city. Then Joab returned from fighting the Ammonites and came to Jerusalem.
+
+**15** When the Arameans saw that they had been defeated by Israel, they gathered together.
+
+**16** Hadadezer sent and brought out the Arameans who were beyond the River,[^10-6] and they came to Helam,[^10-7] with Shobach the commander of Hadadezer's army at their head.
+
+**17** When David was told, he gathered all Israel, crossed the Jordan and came to Helam. The Arameans drew up in battle formation to meet David and fought with him.
+
+**18** But the Arameans fled before Israel, and David killed seven hundred of the Aramean charioteers[^10-8] and forty thousand horsemen. He also struck down Shobach the commander of their army, and he died there.
+
+**19** When all the kings who were subject[^10-9] to Hadadezer saw that they had been defeated by Israel, they made peace with Israel and became subject to them. So the Arameans were afraid to help the Ammonites any more.
+
+[^10-1]: Hebrew *chesed*: loyal, faithful love, here the loyalty owed between allies.
+[^10-2]: That is, they had made David their bitter enemy.
+[^10-3]: Or "Ish-tob". Hebrew *ish tov*, "the man of Tob", meaning its men. Also in verse 8. According to 1 Chronicles 19:6–7, the Ammonites also hired 32,000 chariots.
+[^10-4]: Literally "all the army, the mighty men".
+[^10-5]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^10-6]: That is, the Euphrates.
+[^10-7]: Or "and their army came". The same Hebrew letters can be read either way. 1 Chronicles 19:16 has "Shophach" for "Shobach".
+[^10-8]: Literally "seven hundred chariots", meaning the men in them. 1 Chronicles 19:18 reads "seven thousand charioteers and forty thousand foot soldiers".
+[^10-9]: Literally "the servants of Hadadezer".
+
+## Chapter 11
+
+*Status: draft*
+
+**1** In the spring of the year,[^11-1] at the time when kings go out to battle,[^11-2] David sent Joab, and his servants with him, and all Israel. They ravaged the Ammonites and besieged Rabbah. But David stayed in Jerusalem.
+
+**2** One evening David got up from his bed and walked about on the roof of the king's house. From the roof he saw a woman bathing, and the woman was very beautiful.
+
+**3** David sent someone to inquire about the woman, and he said,[^11-3] "Isn't this Bathsheba daughter of Eliam, the wife of Uriah the Hittite?"
+
+**4** David sent messengers and took her. She came to him, and he slept with her. She had been purifying herself from her uncleanness.[^11-4] Then she went back to her house.
+
+**5** The woman became pregnant, and she sent word to David: "I am pregnant."
+
+**6** So David sent word to Joab: "Send me Uriah the Hittite." And Joab sent Uriah to David.
+
+**7** When Uriah came to him, David asked how Joab was doing, how the troops were doing, and how the war was going.[^11-5]
+
+**8** Then David said to Uriah, "Go down to your house and wash your feet."[^11-6] Uriah left the king's house, and a gift from the king was sent after him.
+
+**9** But Uriah slept at the entrance of the king's house with all his lord's servants, and he did not go down to his house.
+
+**10** David was told, "Uriah did not go down to his house." So David said to Uriah, "Haven't you just come from a journey? Why didn't you go down to your house?"
+
+**11** Uriah said to David, "The ark and Israel and Judah are staying in tents,[^11-7] and my lord Joab and my lord's servants are camping in the open field. Should I then go to my house to eat and drink and sleep with my wife? By your life, by your very life,[^11-8] I will not do this thing!"
+
+**12** David said to Uriah, "Stay here today as well, and tomorrow I will send you back." So Uriah stayed in Jerusalem that day and the next.[^11-9]
+
+**13** David invited him, and he ate and drank with him,[^11-10] and David made him drunk. But in the evening he went out to lie on his bed with his lord's servants, and he did not go down to his house.
+
+**14** In the morning David wrote a letter to Joab and sent it with Uriah.[^11-11]
+
+**15** In the letter he wrote, "Put Uriah in the front line, where the fighting is fiercest. Then withdraw from him, so that he will be struck down and die."
+
+**16** So while Joab was besieging[^11-12] the city, he put Uriah at the place where he knew there were strong warriors.
+
+**17** The men of the city came out and fought against Joab, and some of the troops, some of David's servants, fell. Uriah the Hittite also died.
+
+**18** Joab sent and told David all the news of the battle.
+
+**19** He instructed the messenger, "When you have finished telling the king all the news of the battle,
+
+**20** if the king's anger rises and he says to you, 'Why did you go so near the city to fight? Didn't you know that they would shoot from the wall?
+
+**21** Who killed Abimelech son of Jerubbesheth?[^11-13] Wasn't it a woman who threw an upper millstone down on him from the wall, so that he died at Thebez? Why did you go so near the wall?' then you are to say, 'Your servant Uriah the Hittite is dead too.'"
+
+**22** So the messenger went, and he came and told David everything Joab had sent him to say.[^11-14]
+
+**23** The messenger said to David, "The men were stronger than we were. They came out against us into the open field, but we drove them back to the entrance of the gate.[^11-15]
+
+**24** Then the archers shot at your servants from the wall, and some of the king's servants died. Your servant Uriah the Hittite is dead too."
+
+**25** David said to the messenger, "Say this to Joab: 'Don't let this matter upset you,[^11-16] for the sword devours one as well as another. Press your attack on the city and overthrow it.' And encourage him."
+
+**26** When Uriah's wife heard that her husband Uriah was dead, she mourned for her husband.
+
+**27** When the time of mourning was over, David sent and brought her into his house. She became his wife and bore him a son. But what David had done was evil in the sight of Yahweh.[^11-17]
+
+[^11-1]: Literally "at the return of the year".
+[^11-2]: Hebrew *ha-melakhim*, "the kings", as the word is read and as many Hebrew manuscripts write it. The Leningrad Codex writes it with an extra letter, so that it could be read *ha-mal'akhim*, "the messengers".
+[^11-3]: Or "and someone said".
+[^11-4]: That is, after her monthly period (Leviticus 15:19–28). This explains why she was bathing (verse 2).
+[^11-5]: Literally "asked about the *shalom* (well-being) of Joab, the *shalom* of the troops and the *shalom* of the war".
+[^11-6]: That is, go home and rest. Some see a hint that Uriah should sleep with his wife.
+[^11-7]: Hebrew *sukkot*, "booths, shelters". Or "at Succoth", a town east of the Jordan.
+[^11-8]: Literally "By your life and by the life of your *nephesh* (soul)", a solemn oath.
+[^11-9]: Or "that day. On the next day David invited him …" (verse 13).
+[^11-10]: Literally "he ate before him and drank".
+[^11-11]: Literally "by the hand of Uriah".
+[^11-12]: Literally "watching" or "keeping guard on".
+[^11-13]: That is, Jerubbaal, another name of Gideon (Judges 6:32; 9:50–54), with *bosheth*, "shame", in place of *Baal*; see 2:8.
+[^11-14]: The Septuagint adds that David was angry with Joab and asked the questions Joab had expected in verses 20–21.
+[^11-15]: Literally "but we were upon them as far as the entrance of the gate".
+[^11-16]: Literally "Do not let this thing be evil in your eyes".
+[^11-17]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+
+## Chapter 12
+
+*Status: draft*
+
+**1** Yahweh[^12-1] sent Nathan to David. He came to him and said, "There were two men in a certain city, one rich and the other poor.
+
+**2** The rich man had a very large number of sheep and cattle.
+
+**3** But the poor man had nothing except one little ewe lamb that he had bought. He raised it, and it grew up with him and with his children. It would eat from his bit of food, drink from his cup, and sleep in his arms. It was like a daughter to him.
+
+**4** Now a traveler came to the rich man, but he was unwilling to take one of his own sheep or cattle to prepare for the traveler who had come to him. Instead he took the poor man's lamb and prepared it for the man who had come to him."
+
+**5** David's anger burned hot against the man, and he said to Nathan, "As Yahweh lives, the man who did this deserves to die![^12-2]
+
+**6** He must pay for the lamb four times over,[^12-3] because he did this thing and because he had no pity."
+
+**7** Nathan said to David, "You are the man! This is what Yahweh, the God of Israel, says: 'I anointed you king over Israel, and I rescued you from the hand of Saul.
+
+**8** I gave you your master's house, and your master's wives into your arms.[^12-4] I gave you the house of Israel and Judah. And if that had been too little, I would have given you as much again and more.
+
+**9** Why have you despised the word of Yahweh by doing what is evil in my sight?[^12-5] You struck down Uriah the Hittite with the sword and took his wife to be your wife. You killed him with the sword of the Ammonites.
+
+**10** Now therefore the sword will never depart from your house, because you despised me and took the wife of Uriah the Hittite to be your wife.'
+
+**11** This is what Yahweh says: 'I am going to raise up trouble against you from your own house. Before your eyes I will take your wives and give them to your neighbor, and he will sleep with your wives in broad daylight.[^12-6]
+
+**12** You did it in secret, but I will do this thing before all Israel and before the sun.'"
+
+**13** David said to Nathan, "I have sinned against Yahweh." Nathan said to David, "Yahweh, for his part, has taken away your sin. You will not die.
+
+**14** But because by this deed you have treated the enemies of Yahweh with utter contempt,[^12-7] the son who is born to you will surely die."
+
+**15** Then Nathan went home. Yahweh struck the child that Uriah's wife had borne to David, and he became very ill.
+
+**16** David pleaded with God for the boy. David fasted, and he went in and spent the nights lying on the ground.
+
+**17** The elders of his household stood over him to raise him up from the ground, but he was not willing, and he would not eat food with them.
+
+**18** On the seventh day the child died. David's servants were afraid to tell him that the child was dead, for they said, "While the child was still alive, we spoke to him, and he would not listen to us. How can we tell him the child is dead? He may do something terrible."[^12-8]
+
+**19** When David saw that his servants were whispering together, David realized that the child was dead. David said to his servants, "Is the child dead?" They said, "He is dead."
+
+**20** Then David got up from the ground, washed, anointed himself and changed his clothes.[^12-9] He went into the house of Yahweh and worshiped. Then he went to his own house and asked for food, and they set food before him, and he ate.
+
+**21** His servants said to him, "What is this you have done? While the child was alive, you fasted and wept, but when the child died, you got up and ate food."
+
+**22** He said, "While the child was still alive, I fasted and wept, because I thought, 'Who knows? Yahweh may be gracious to me and let the child live.'
+
+**23** But now he is dead. Why should I fast? Can I bring him back again? I will go to him, but he will not come back to me."
+
+**24** Then David comforted his wife Bathsheba. He went to her and slept with her, and she gave birth to a son, and she named him[^12-10] Solomon. Yahweh loved him,
+
+**25** and he sent word through Nathan the prophet, and he named him Jedidiah,[^12-11] because of Yahweh.
+
+**26** Meanwhile Joab fought against Rabbah of the Ammonites and captured the royal city.
+
+**27** Joab sent messengers to David and said, "I have fought against Rabbah, and I have also captured the city of waters.[^12-12]
+
+**28** Now gather the rest of the troops, camp against the city and capture it. Otherwise I will capture the city, and it will be named after me."[^12-13]
+
+**29** So David gathered all the troops, went to Rabbah, fought against it and captured it.
+
+**30** He took the crown of their king[^12-14] from his head. It weighed a talent[^12-15] of gold, and it held a precious stone. It was placed on David's head. He also brought out a very large amount of plunder from the city.
+
+**31** He brought out the people who were in it and set them to work with saws, iron picks and iron axes, and made them work at the brickworks.[^12-16] He did the same to all the towns of the Ammonites. Then David and all the troops returned to Jerusalem.
+
+[^12-1]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^12-2]: Literally "is a son of death".
+[^12-3]: The Septuagint reads "seven times over". The law required fourfold repayment for a stolen sheep (Exodus 21:37, 22:1 in English).
+[^12-4]: Literally "into your bosom".
+[^12-5]: The Hebrew text is written "in his sight" but read "in my sight".
+[^12-6]: Literally "before the eyes of this sun". This is fulfilled in 16:21–22.
+[^12-7]: Literally "you have greatly scorned the enemies of Yahweh". "The enemies of" was probably added by scribes to avoid writing that David scorned Yahweh himself.
+[^12-8]: Literally "He may do evil", perhaps meaning that he would harm himself.
+[^12-9]: The Hebrew text is written "his garment" but read "his garments".
+[^12-10]: The Hebrew text is written "he named him" but read "she named him". *Solomon* (Hebrew *Shelomoh*) is related to *shalom*, "peace".
+[^12-11]: *Jedidiah* means "beloved of Yahweh".
+[^12-12]: Probably the part of the city that guarded its water supply.
+[^12-13]: Literally "and my name will be called over it".
+[^12-14]: Hebrew *malkam*, "their king", which may also be read as Milcom, the god of the Ammonites (1 Kings 11:5). The Septuagint reads "Milcom their king".
+[^12-15]: A talent was about 75 pounds (34 kg).
+[^12-16]: Literally "put them to the saw, to the iron picks and to the iron axes, and made them pass through the brick mold". Some understand it as torture (compare 1 Chronicles 20:3). The Hebrew text is written *malkan* but read *malben*, "brick mold" or "brickworks".
+
+## Chapter 13
+
+*Status: draft*
+
+**1** Some time later this happened. Absalom son of David had a beautiful sister named Tamar, and Amnon son of David fell in love with her.
+
+**2** Amnon was so tormented that he made himself ill over his sister Tamar, for she was a virgin, and it seemed impossible to Amnon to do anything to her.
+
+**3** But Amnon had a friend named Jonadab son of Shimeah, David's brother. Jonadab was a very shrewd[^13-1] man.
+
+**4** He said to him, "Why are you, the king's son, so haggard morning after morning? Won't you tell me?" Amnon said to him, "I love Tamar, my brother Absalom's sister."
+
+**5** Jonadab said to him, "Lie down on your bed and pretend to be ill. When your father comes to see you, say to him, 'Please let my sister Tamar come and give me something to eat. Let her prepare the food in my sight, so that I may watch and eat it from her hand.'"
+
+**6** So Amnon lay down and pretended to be ill. When the king came to see him, Amnon said to the king, "Please let my sister Tamar come and make a couple of cakes[^13-2] in my sight, so that I may eat from her hand."
+
+**7** David sent word to Tamar at the palace:[^13-3] "Please go to your brother Amnon's house and prepare food for him."
+
+**8** So Tamar went to her brother Amnon's house, where he was lying down. She took dough, kneaded it, made cakes in his sight and baked the cakes.
+
+**9** Then she took the pan and set them out before him,[^13-4] but he refused to eat. Amnon said, "Send everyone out from me." So everyone went out from him.
+
+**10** Then Amnon said to Tamar, "Bring the food into the bedroom, so that I may eat from your hand." So Tamar took the cakes she had made and brought them to her brother Amnon in the bedroom.
+
+**11** When she brought them near to him to eat, he grabbed her and said to her, "Come, lie with me, my sister."
+
+**12** She said to him, "No, my brother! Do not violate me![^13-5] Such a thing is not done in Israel. Do not do this disgraceful thing.[^13-6]
+
+**13** As for me, where could I take my shame? And you would be like one of the disgraceful fools in Israel. Now please speak to the king, for he will not keep me from you."
+
+**14** But he would not listen to her. He overpowered her and raped her.[^13-7]
+
+**15** Then Amnon hated her with a very great hatred. The hatred with which he hated her was greater than the love with which he had loved her. Amnon said to her, "Get up! Go!"
+
+**16** She said to him, "No! Sending me away would be a greater wrong than the other thing you have done to me."[^13-8] But he would not listen to her.
+
+**17** He called the young man who served him and said, "Get this woman out of my sight,[^13-9] put her outside, and bolt the door behind her."
+
+**18** She was wearing a long robe with sleeves,[^13-10] for this is the kind of robe the king's virgin daughters wore. His servant put her out and bolted the door behind her.
+
+**19** Tamar put ashes on her head and tore the long robe she was wearing. She put her hand on her head and went away, crying out as she went.
+
+**20** Her brother Absalom said to her, "Has your brother Amnon[^13-11] been with you? Now, my sister, keep quiet. He is your brother. Don't take this thing to heart." So Tamar lived, a desolate woman, in her brother Absalom's house.
+
+**21** When King David heard about all these things, he was very angry.[^13-12]
+
+**22** Absalom said nothing to Amnon, either bad or good,[^13-13] for Absalom hated Amnon because he had violated his sister Tamar.
+
+**23** Two full years later, Absalom had sheepshearers at Baal-hazor, which is near Ephraim, and Absalom invited all the king's sons.
+
+**24** Absalom came to the king and said, "Your servant has sheepshearers. Please let the king and his servants come with your servant."
+
+**25** The king said to Absalom, "No, my son, we should not all go, or we would be a burden to you." Absalom urged him, but he was not willing to go, though he gave him his blessing.
+
+**26** Then Absalom said, "If not, please let my brother Amnon go with us." The king said to him, "Why should he go with you?"
+
+**27** But Absalom urged him, and he sent Amnon and all the king's sons with him.[^13-14]
+
+**28** Absalom commanded his young men, "Watch for when Amnon's heart is merry with wine. When I say to you, 'Strike Amnon,' then kill him. Don't be afraid. Haven't I myself commanded you? Be strong and courageous."[^13-15]
+
+**29** So Absalom's young men did to Amnon as Absalom had commanded. Then all the king's sons got up, each mounted his mule, and they fled.
+
+**30** While they were on the way, the report came to David: "Absalom has struck down all the king's sons, and not one of them is left."
+
+**31** The king got up, tore his clothes and lay down on the ground, and all his servants stood by with their clothes torn.
+
+**32** But Jonadab son of Shimeah, David's brother, spoke up and said, "My lord should not think that they have killed all the young men, the king's sons. Only Amnon is dead. Absalom has been determined to do this[^13-16] since the day Amnon violated his sister Tamar.
+
+**33** Now my lord the king should not take the matter to heart and think that all the king's sons are dead. Only Amnon is dead."
+
+**34** Meanwhile Absalom fled. The young man who was keeping watch looked up and saw many people coming on the road behind him,[^13-17] from the side of the hill.
+
+**35** Jonadab said to the king, "Look, the king's sons have come. It has happened just as your servant said."
+
+**36** Just as he finished speaking, the king's sons came in, and they wept aloud. The king and all his servants also wept very bitterly.
+
+**37** Absalom fled and went to Talmai son of Ammihud,[^13-18] king of Geshur. And David[^13-19] mourned for his son every day.
+
+**38** Absalom fled and went to Geshur, and he was there for three years.
+
+**39** And King David longed[^13-20] to go out to Absalom, for he had been consoled over Amnon's death.
+
+[^13-1]: Literally "wise".
+[^13-2]: Hebrew *levivot*, a kind of cake. The word sounds like *lev*, "heart", and the verb "make" here is formed from the same word. Also in verses 8 and 10.
+[^13-3]: Literally "to the house".
+[^13-4]: Literally "poured out before him".
+[^13-5]: Hebrew *innah*, "humiliate, violate". Used of sexual relations, it means that he forced her. Also in verses 14, 22 and 32.
+[^13-6]: Hebrew *nevalah*, a disgraceful, senseless act, used of serious sexual crimes (Genesis 34:7; Deuteronomy 22:21). The word for "fools" in verse 13 is from the same root.
+[^13-7]: Literally "He was stronger than she, and he violated her and lay with her."
+[^13-8]: The Hebrew is difficult. Literally "Do not, for this evil is greater than the other that you did with me, to send me away."
+[^13-9]: Literally "Send this one away from me".
+[^13-10]: Hebrew *ketonet passim*, the kind of robe Jacob gave Joseph (Genesis 37:3). The meaning of *passim* is uncertain; it may mean a long robe with sleeves reaching to the wrists, or a robe with decorations. Also in verse 19.
+[^13-11]: Hebrew *Aminon*, perhaps a scornful form of the name.
+[^13-12]: The Septuagint and 4QSam(a), a Dead Sea Scroll of Samuel, add "but he would not hurt the spirit of his son Amnon, because he loved him, for he was his firstborn".
+[^13-13]: Literally "from bad to good", that is, nothing at all.
+[^13-14]: The Septuagint adds "And Absalom made a feast like a king's feast."
+[^13-15]: Literally "be sons of strength".
+[^13-16]: Literally "for it has been set on Absalom's mouth".
+[^13-17]: The Septuagint reads "coming on the Horonaim road, from the side of the hill. And the watchman came and told the king, 'I have seen men coming from the Horonaim road, from the side of the hill.'"
+[^13-18]: The Hebrew text is written "Ammihur" but read "Ammihud".
+[^13-19]: Hebrew "he". The Septuagint reads "King David".
+[^13-20]: Literally "And it longed, King David, to go out to Absalom". The verb is feminine, as if its subject were "spirit". 4QSam(a) and the Septuagint read "And the spirit of the king longed". Some understand the verb as "ceased", so that King David's anger against Absalom came to an end.
+
+## Chapter 14
+
+*Status: draft*
+
+**1** Joab son of Zeruiah knew that the king's heart was set on Absalom.[^14-1]
+
+**2** So Joab sent to Tekoa and brought a wise woman from there. He said to her, "Pretend to be a mourner. Put on mourning clothes, and do not anoint yourself with oil. Act like a woman who has been mourning for the dead for a long time.
+
+**3** Then go to the king and speak to him in this way." And Joab put the words in her mouth.
+
+**4** When the woman of Tekoa spoke[^14-2] to the king, she fell with her face to the ground and bowed down, and she said, "Help, O king!"
+
+**5** The king said to her, "What is the matter?" She said, "Alas, I am a widow. My husband is dead.
+
+**6** Your servant had two sons, and the two of them fought with each other in the field. There was no one to separate them, and one struck the other and killed him.
+
+**7** Now the whole clan has risen against your servant, and they say, 'Hand over the one who struck down his brother, so that we may put him to death for the life of his brother whom he killed.' So they would destroy the heir as well. They would put out my one remaining coal, and leave my husband neither name nor survivor on the face of the earth."
+
+**8** The king said to the woman, "Go home, and I will give orders concerning you."
+
+**9** The woman of Tekoa said to the king, "My lord the king, let the guilt be on me and on my father's house, and let the king and his throne be innocent."
+
+**10** The king said, "If anyone says anything to you, bring him to me, and he will never touch you again."
+
+**11** She said, "Please let the king remember Yahweh[^14-3] your God, so that the avenger of blood[^14-4] may not add to the destruction, and they may not destroy my son." He said, "As Yahweh lives, not one hair of your son will fall to the ground."
+
+**12** Then the woman said, "Please let your servant speak a word to my lord the king." He said, "Speak."
+
+**13** The woman said, "Why then have you planned such a thing against the people of God? For in saying this, the king is like one who is guilty,[^14-5] since the king has not brought back his own banished son.
+
+**14** We must all die. We are like water spilled on the ground, which cannot be gathered up again. But God does not take away life; he devises ways so that a banished person does not remain banished from him.[^14-6]
+
+**15** Now I have come to say this to my lord the king because the people made me afraid. Your servant thought, 'I will speak to the king. Perhaps the king will do what his servant asks.
+
+**16** For the king will listen and rescue his servant from the hand of the man who would cut off both me and my son from the inheritance of God.'[^14-7]
+
+**17** And your servant thought, 'May the word of my lord the king bring me rest, for my lord the king is like the angel of God[^14-8] in discerning good and evil.'[^14-9] May Yahweh your God be with you!"
+
+**18** Then the king answered the woman, "Do not hide from me anything I ask you." The woman said, "Let my lord the king speak."
+
+**19** The king said, "Is the hand of Joab with you in all this?" The woman answered, "As surely as you live,[^14-10] my lord the king, no one can turn to the right or to the left from anything my lord the king has said. Yes, it was your servant Joab who commanded me, and he put all these words in your servant's mouth.
+
+**20** Your servant Joab did this to change the way things stand.[^14-11] But my lord is wise, with the wisdom of the angel of God, to know everything that happens in the land."
+
+**21** Then the king said to Joab, "Very well, I will do this. Go, bring back the young man Absalom."
+
+**22** Joab fell with his face to the ground, bowed down and blessed the king. Joab said, "Today your servant knows that I have found favor in your sight, my lord the king, because the king has done what your servant asked."[^14-12]
+
+**23** So Joab got up, went to Geshur and brought Absalom to Jerusalem.
+
+**24** But the king said, "He must go to his own house. He is not to see my face." So Absalom went to his own house and did not see the king's face.
+
+**25** Now in all Israel there was no one so much praised for his beauty as Absalom. From the sole of his foot to the crown of his head there was no blemish in him.
+
+**26** When he cut the hair of his head (he used to cut it at the end of every year,[^14-13] because it was heavy on him, and so he cut it), he would weigh the hair of his head: two hundred shekels[^14-14] by the king's weight.
+
+**27** Three sons and one daughter were born to Absalom. Her name was Tamar, and she was a beautiful woman.[^14-15]
+
+**28** Absalom lived in Jerusalem for two full years without seeing the king's face.
+
+**29** Then Absalom sent for Joab, to send him to the king, but he would not come to him. He sent again, a second time, but he would not come.
+
+**30** So he said to his servants, "Look, Joab's field is next to mine, and he has barley there. Go and set it on fire."[^14-16] So Absalom's servants set the field on fire.
+
+**31** Then Joab got up and came to Absalom at his house and said to him, "Why have your servants set my field on fire?"
+
+**32** Absalom said to Joab, "Look, I sent word to you: 'Come here, so that I may send you to the king to say, "Why did I come from Geshur? It would be better for me to be there still."' Now let me see the king's face, and if there is guilt in me, let him put me to death."
+
+**33** So Joab went to the king and told him. Then he called Absalom, and he came to the king and bowed down to him with his face to the ground before the king. And the king kissed Absalom.
+
+[^14-1]: Or "was against Absalom". Literally "the heart of the king was on Absalom".
+[^14-2]: Many Hebrew manuscripts, the Septuagint, the Syriac and the Vulgate read "came".
+[^14-3]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^14-4]: Hebrew *go'el ha-dam*, the nearest relative, whose duty it was to avenge a killing (Numbers 35:19).
+[^14-5]: Or "the king convicts himself".
+[^14-6]: The Hebrew is difficult. Literally "And God does not lift a *nephesh* (life), and he devises plans so that the banished one is not banished from him."
+[^14-7]: That is, from Israel, the people and the land that belong to God.
+[^14-8]: Or "the messenger of God". Also in verse 20.
+[^14-9]: Literally "in hearing the good and the bad".
+[^14-10]: Literally "By the life of your *nephesh*".
+[^14-11]: Literally "to turn around the face of the matter".
+[^14-12]: The Hebrew text is written "his servant" but read "your servant".
+[^14-13]: Literally "at the end of days to days".
+[^14-14]: A shekel is about 2/5 ounce (11.5 grams), so two hundred shekels is about 5 pounds (2.3 kg).
+[^14-15]: The Septuagint adds "and she became the wife of Rehoboam son of Solomon and bore him Abijah". Compare 18:18, where Absalom has no son.
+[^14-16]: The Hebrew text is written "and I will set it on fire" but read "set it on fire".
+
+## Chapter 15
+
+*Status: draft*
+
+**1** After this, Absalom got himself a chariot and horses, and fifty men to run ahead of him.
+
+**2** Absalom would get up early and stand beside the road to the gate. Whenever anyone had a dispute to bring before the king for judgment, Absalom would call to him and say, "What town are you from?" And when he said, "Your servant is from one of the tribes of Israel,"
+
+**3** Absalom would say to him, "Look, your case is good and right, but there is no one from the king to hear you."
+
+**4** Absalom would say, "If only someone would appoint me judge in the land! Then anyone who had a dispute or a case could come to me, and I would see that he got justice."
+
+**5** And whenever someone came near to bow down to him, he would reach out his hand, take hold of him and kiss him.
+
+**6** Absalom did this to all the Israelites who came to the king for judgment. So Absalom stole the hearts of the men of Israel.
+
+**7** At the end of forty years,[^15-1] Absalom said to the king, "Please let me go to Hebron and fulfill the vow I made to Yahweh.[^15-2]
+
+**8** For your servant made a vow while I was living at Geshur in Aram: 'If Yahweh really brings me back to Jerusalem, I will worship[^15-3] Yahweh.'"
+
+**9** The king said to him, "Go in peace." So he got up and went to Hebron.
+
+**10** Then Absalom sent secret messengers throughout all the tribes of Israel, saying, "As soon as you hear the sound of the ram's horn, say, 'Absalom has become king in Hebron!'"
+
+**11** Two hundred men from Jerusalem went with Absalom. They had been invited and went in all innocence, knowing nothing about the matter.
+
+**12** While he was offering the sacrifices, Absalom sent for[^15-4] Ahithophel the Gilonite, David's counselor, from his town Giloh. The conspiracy grew strong, and the people with Absalom kept increasing.
+
+**13** A messenger came to David and said, "The hearts of the men of Israel have gone after Absalom."
+
+**14** David said to all his servants who were with him in Jerusalem, "Get up, let us flee, or none of us will escape from Absalom. Leave quickly, or he will soon overtake us, bring disaster down on us, and strike the city with the edge of the sword."
+
+**15** The king's servants said to the king, "Whatever my lord the king decides, your servants are ready."
+
+**16** So the king set out, with all his household following him.[^15-5] But the king left ten women, concubines, to look after the house.
+
+**17** The king set out, with all the people following him, and they stopped at the last house.[^15-6]
+
+**18** All his servants passed by beside him, and all the Cherethites, all the Pelethites, and all the Gittites,[^15-7] six hundred men who had followed him from Gath, passed on before the king.
+
+**19** The king said to Ittai the Gittite, "Why should you go with us too? Go back and stay with the king,[^15-8] for you are a foreigner, and an exile from your own place as well.
+
+**20** You came only yesterday. Should I make you wander about with us today, while I go wherever I may go? Go back, and take your brothers with you. Faithful love and faithfulness be with you."[^15-9]
+
+**21** But Ittai answered the king, "As Yahweh lives, and as my lord the king lives, wherever my lord the king may be, whether for death or for life, there your servant will be."
+
+**22** David said to Ittai, "Go on, then, and cross over." So Ittai the Gittite crossed over with all his men and all the little ones who were with him.
+
+**23** The whole land was weeping aloud as all the people crossed over. The king crossed the Kidron Valley, and all the people crossed over toward the road to the wilderness.
+
+**24** Zadok was there too, and all the Levites with him, carrying the ark of the covenant of God. They set down[^15-10] the ark of God, and Abiathar went up,[^15-11] until all the people had finished crossing over from the city.
+
+**25** Then the king said to Zadok, "Take the ark of God back into the city. If I find favor in the eyes of Yahweh, he will bring me back and let me see both it and the place where it dwells.
+
+**26** But if he says, 'I take no pleasure in you,' here I am. Let him do to me whatever seems good to him."
+
+**27** The king also said to Zadok the priest, "Are you not a seer?[^15-12] Go back to the city in peace, and your two sons with you:[^15-13] your son Ahimaaz and Jonathan son of Abiathar.
+
+**28** See, I will wait at the plains[^15-14] of the wilderness until word comes from you to inform me."
+
+**29** So Zadok and Abiathar took the ark of God back to Jerusalem, and they stayed there.
+
+**30** David went up the ascent of the Mount of Olives, weeping as he went. His head was covered, and he walked barefoot. All the people who were with him covered their heads too, and they went up, weeping as they went.
+
+**31** David was told,[^15-15] "Ahithophel is among the conspirators with Absalom." David said, "Yahweh, please turn the advice of Ahithophel into foolishness."
+
+**32** When David came to the summit, where people used to worship God, Hushai the Archite was there to meet him, with his robe torn and dirt on his head.
+
+**33** David said to him, "If you go on with me, you will be a burden to me.
+
+**34** But if you go back to the city and say to Absalom, 'I will be your servant, O king. I was your father's servant in the past, but now I will be your servant,' then you can defeat the advice of Ahithophel for me.
+
+**35** Won't Zadok and Abiathar the priests be there with you? Whatever you hear from the king's house, tell it to Zadok and Abiathar the priests.
+
+**36** Their two sons are there with them, Ahimaaz son of Zadok and Jonathan son of Abiathar. Send me by them everything you hear."
+
+**37** So Hushai, David's friend,[^15-16] came to the city, just as Absalom was coming into Jerusalem.
+
+[^15-1]: Some manuscripts of the Septuagint and the Syriac read "four years".
+[^15-2]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^15-3]: Literally "serve", here probably by offering sacrifice.
+[^15-4]: Literally "sent".
+[^15-5]: Literally "at his feet". Also in verses 17 and 18.
+[^15-6]: Hebrew *beit ha-merchaq*, "the distant house", perhaps the last house at the edge of the city.
+[^15-7]: Men from the Philistine city of Gath, under the command of Ittai (verse 19).
+[^15-8]: That is, with the new king, Absalom.
+[^15-9]: The Septuagint reads "and may Yahweh show you faithful love and faithfulness". *Faithful love* is Hebrew *chesed*: loyal, faithful love.
+[^15-10]: The Hebrew verb usually means "poured". Here it probably means "set down".
+[^15-11]: Or "offered sacrifices". The Hebrew verb "go up" is also used of offering sacrifices.
+[^15-12]: Hebrew *ha-ro'eh attah*, of uncertain meaning: perhaps "Are you a seer?", "Do you see?" or "Look!"
+[^15-13]: In this sentence "your" and "you" are plural, meaning Zadok and Abiathar.
+[^15-14]: The Hebrew text is written "at the fords" but read "at the plains".
+[^15-15]: Literally "And David told, saying". The sense is probably "David was told".
+[^15-16]: Perhaps a title: "the King's Friend", a close adviser (16:16; 1 Kings 4:5).

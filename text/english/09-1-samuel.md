@@ -629,3 +629,413 @@
 [^9-22]: Or "and the upper part".
 [^9-23]: The Hebrew is difficult. Literally "for to the appointed time it has been kept for you, saying, 'I have invited the people.'"
 [^9-24]: The Septuagint reads "and they spread a bed for Saul on the roof, and he lay down".
+
+## Chapter 10
+
+*Status: draft*
+
+**1** Then Samuel took a flask of olive oil and poured it on Saul's head, and he kissed him and said, "Has not Yahweh[^10-1] anointed you ruler[^10-2] over his own people?[^10-3]
+
+**2** When you leave me today, you will meet two men near Rachel's tomb, at Zelzah in the territory of Benjamin. They will say to you, 'The donkeys you went to look for have been found. Now your father has stopped thinking about the donkeys and is worried about you. He is saying, "What shall I do about my son?"'
+
+**3** Then you will go on from there and come to the oak of Tabor. Three men going up to God at Bethel will meet you there. One will be carrying three young goats, another three loaves of bread, and another a skin of wine.
+
+**4** They will greet you[^10-4] and give you two loaves of bread, which you are to accept from them.
+
+**5** After that you will come to Gibeah of God,[^10-5] where the Philistine garrison[^10-6] is. As you come into the town, you will meet a band of prophets coming down from the high place, with harps, tambourines, flutes and lyres[^10-7] in front of them, and they will be prophesying.[^10-8]
+
+**6** Then the Spirit of Yahweh will rush upon you,[^10-9] and you will prophesy with them and be changed into a different person.
+
+**7** When these signs have come to you, do whatever the occasion calls for,[^10-10] for God is with you.
+
+**8** Then go down ahead of me to Gilgal. I will come down to you to offer burnt offerings and to sacrifice fellowship offerings.[^10-11] Wait seven days until I come to you and tell you what you are to do."
+
+**9** As Saul turned to leave Samuel, God changed his heart,[^10-12] and all these signs came about that day.
+
+**10** When they came to Gibeah, there was a band of prophets coming to meet him. The Spirit of God rushed upon him, and he prophesied among them.
+
+**11** When all who had known him before[^10-13] saw him prophesying with the prophets, the people said to one another, "What has happened to the son of Kish? Is Saul also among the prophets?"
+
+**12** A man who lived there answered, "And who is their father?"[^10-14] So it became a saying: "Is Saul also among the prophets?"
+
+**13** When he had finished prophesying, he went to the high place.
+
+**14** Saul's uncle asked him and his servant, "Where did you go?" He said, "To look for the donkeys. When we saw they were nowhere to be found, we went to Samuel."
+
+**15** Saul's uncle said, "Please tell me what Samuel said to you."
+
+**16** Saul said to his uncle, "He told us plainly that the donkeys had been found." But he did not tell him what Samuel had said about the kingship.
+
+**17** Samuel called the people together to Yahweh at Mizpah.
+
+**18** He said to the Israelites, "This is what Yahweh, the God of Israel, says: 'I brought Israel up out of Egypt, and I rescued you from the power of the Egyptians and from the power of all the kingdoms that were oppressing you.'
+
+**19** But today you have rejected your God, who saves you from all your disasters and your troubles. You have said to him,[^10-15] 'Set a king over us instead.' So now present yourselves before Yahweh by your tribes and by your clans."[^10-16]
+
+**20** Samuel brought all the tribes of Israel forward, and the tribe of Benjamin was chosen by lot.[^10-17]
+
+**21** Then he brought the tribe of Benjamin forward clan by clan,[^10-18] and the clan of Matri was chosen. Then Saul son of Kish was chosen. But when they looked for him, he could not be found.
+
+**22** So they inquired of Yahweh again, "Has the man come here yet?" Yahweh said, "There he is, hiding among the baggage."
+
+**23** They ran and brought him from there. When he stood among the people, he was a head taller than any of them.[^10-19]
+
+**24** Samuel said to all the people, "Do you see the man Yahweh has chosen? There is no one like him among all the people." Then all the people shouted, "Long live the king!"
+
+**25** Samuel told the people the rules of the kingship.[^10-20] He wrote them in a scroll and placed it before Yahweh. Then Samuel sent all the people away, each to his own home.
+
+**26** Saul too went home to Gibeah, and with him went the valiant men[^10-21] whose hearts God had touched.
+
+**27** But some worthless men[^10-22] said, "How can this man save us?" They despised him and brought him no gift. But he kept silent.[^10-23]
+
+[^10-1]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^10-2]: Hebrew *nagid*, "leader, ruler"; see 9:16.
+[^10-3]: Literally "over his inheritance". The Septuagint reads "Has not Yahweh anointed you ruler over his people Israel? You will reign over the people of Yahweh and save them from the power of their enemies around them. And this will be the sign for you that Yahweh has anointed you ruler over his inheritance:"
+[^10-4]: Literally "ask you about *shalom* (well-being)".
+[^10-5]: Hebrew *Giv'at ha-elohim*, "the hill of God".
+[^10-6]: Hebrew *netsiv*, which may mean a garrison, an officer or governor, or a pillar set up as a marker. Compare 13:3.
+[^10-7]: The harp (*nevel*) and the lyre (*kinnor*) were two kinds of stringed instrument.
+[^10-8]: Here the verb describes an ecstatic state, perhaps with music and movement. Also in verses 6 and 10–13.
+[^10-9]: Hebrew *tsalach*, "rush on, come powerfully on". Also in verse 10.
+[^10-10]: Literally "do for yourself what your hand finds".
+[^10-11]: Hebrew *zivchei shelamim*, traditionally "peace offerings". In these sacrifices most of the meat was eaten by the worshipers.
+[^10-12]: Literally "God turned for him another heart".
+[^10-13]: Literally "from yesterday and the day before".
+[^10-14]: Perhaps meaning that prophets do not become prophets by birth, so anyone may be found among them. The Septuagint reads "his father".
+[^10-15]: Literally "You have said to him, 'For a king you will set over us.'" The Septuagint and the Vulgate read "No" (Hebrew *lo'*) instead of "to him" (*lo*): "You have said, 'No, set a king over us'", as in 8:19.
+[^10-16]: Literally "your thousands".
+[^10-17]: Literally "was taken". Also in verse 21.
+[^10-18]: The Hebrew text is written "by its clan" but read "by its clans".
+[^10-19]: Literally "from his shoulders and upward".
+[^10-20]: Hebrew *mishpat ha-melukhah*, the custom or rule of the kingship. Compare 8:9–11 and Deuteronomy 17:14–20.
+[^10-21]: Hebrew *ha-chayil*, "the force, the army", here a band of capable men.
+[^10-22]: Literally "sons of *beliyya'al*"; see 2:12.
+[^10-23]: Literally "and he was like one who keeps silent". With different vowels and one letter changed, the Septuagint reads "about a month later", beginning 11:1. Before those words 4QSam(a), a Dead Sea Scroll of Samuel, has a paragraph not found in the Hebrew text: Nahash king of the Ammonites had been cruelly oppressing the tribes of Gad and Reuben, gouging out the right eye of each of them and letting no one rescue Israel. No Israelite east of the Jordan was left whose right eye Nahash had not gouged out, except seven thousand men who had escaped from the Ammonites and entered Jabesh-gilead. It then continues, "About a month later, Nahash the Ammonite went up ..." (11:1).
+
+## Chapter 11
+
+*Status: draft*
+
+**1** Nahash the Ammonite went up and besieged[^11-1] Jabesh-gilead. All the men of Jabesh said to Nahash, "Make a covenant with us, and we will serve you."
+
+**2** But Nahash the Ammonite said to them, "I will make a covenant with you on one condition: that I gouge out the right eye of every one of you, and so bring disgrace on all Israel."
+
+**3** The elders of Jabesh said to him, "Give us seven days, so that we may send messengers throughout the territory of Israel. If no one comes to save us, we will come out to you."[^11-2]
+
+**4** When the messengers came to Gibeah of Saul and told the people this news, all the people wept aloud.
+
+**5** Just then Saul was coming in from the field behind the oxen. Saul asked, "What is wrong with the people? Why are they weeping?" So they told him what the men of Jabesh had said.
+
+**6** When Saul heard these words, the Spirit of God rushed upon him,[^11-3] and he became very angry.
+
+**7** He took a pair of oxen, cut them into pieces, and sent them throughout the territory of Israel by the messengers, saying, "This is what will be done to the oxen of anyone who does not come out after Saul and after Samuel." Then the dread of Yahweh[^11-4] fell on the people, and they came out as one man.
+
+**8** He counted[^11-5] them at Bezek: there were three hundred thousand Israelites and thirty thousand men of Judah.[^11-6]
+
+**9** They said to the messengers who had come, "Tell the men of Jabesh-gilead this: 'Tomorrow, by the time the sun is hot, you will be rescued.'"[^11-7] When the messengers came and told the men of Jabesh, they were glad.
+
+**10** The men of Jabesh said,[^11-8] "Tomorrow we will come out to you, and you can do to us whatever seems good to you."
+
+**11** The next day Saul divided the troops into three companies. They came into the camp during the morning watch[^11-9] and struck down the Ammonites until the heat of the day. Those who survived were so scattered that no two of them were left together.
+
+**12** Then the people said to Samuel, "Who was it that said, 'Is Saul to reign over us?'[^11-10] Hand those men over, so that we may put them to death."
+
+**13** But Saul said, "No one will be put to death today, for today Yahweh has brought victory to Israel."
+
+**14** Samuel said to the people, "Come, let us go to Gilgal and renew the kingship there."
+
+**15** So all the people went to Gilgal, and there at Gilgal they made Saul king before Yahweh.[^11-11] There they sacrificed fellowship offerings[^11-12] before Yahweh, and Saul and all the men of Israel rejoiced greatly there.
+
+[^11-1]: Literally "camped against". For the paragraph that 4QSam(a) has before this verse, see the note on 10:27.
+[^11-2]: That is, surrender to you. Also in verse 10.
+[^11-3]: Hebrew *tsalach*, "rush on, come powerfully on"; see 10:6.
+[^11-4]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^11-5]: Or "mustered".
+[^11-6]: The Septuagint reads "six hundred thousand ... seventy thousand".
+[^11-7]: Literally "you will have deliverance". Hebrew *teshu'ah*, the word translated "victory" in verse 13.
+[^11-8]: That is, to Nahash and the Ammonites.
+[^11-9]: The last part of the night, before dawn.
+[^11-10]: Literally "Saul will reign over us", said scornfully; see 10:27.
+[^11-11]: The Septuagint reads "and there Samuel anointed Saul as king before Yahweh".
+[^11-12]: Hebrew *zevachim shelamim*, traditionally "peace offerings"; see 10:8.
+
+## Chapter 12
+
+*Status: draft*
+
+**1** Samuel said to all Israel, "I have listened to you in everything you said to me, and I have set a king over you.
+
+**2** Now here is the king, walking before you.[^12-1] As for me, I am old and gray, and my sons are here with you. I have walked before you from my youth until this day.
+
+**3** Here I am. Testify against me before Yahweh[^12-2] and before his anointed:[^12-3] Whose ox have I taken? Whose donkey have I taken? Whom have I cheated? Whom have I oppressed? From whose hand have I taken a bribe to make me shut my eyes?[^12-4] If I have, I will pay it back to you."
+
+**4** They said, "You have not cheated us or oppressed us, and you have not taken anything from anyone's hand."
+
+**5** He said to them, "Yahweh is witness against you, and his anointed is witness this day, that you have found nothing in my hand." They said,[^12-5] "He is witness."
+
+**6** Samuel said to the people, "It is Yahweh who appointed[^12-6] Moses and Aaron and brought your ancestors up out of the land of Egypt.
+
+**7** So now stand here, so that I may plead my case against you before Yahweh concerning all the righteous acts[^12-7] of Yahweh, which he has done for you and for your ancestors.
+
+**8** When Jacob went into Egypt, your ancestors cried out to Yahweh, and Yahweh sent Moses and Aaron, who brought your ancestors out of Egypt and settled them in this place.
+
+**9** But they forgot Yahweh their God, so he sold them into the power of Sisera, the commander of the army of Hazor, and into the power of the Philistines and of the king of Moab, and they fought against them.
+
+**10** Then they cried out to Yahweh and said,[^12-8] 'We have sinned, for we have forsaken Yahweh and served the Baals and the Ashtoreths. But now rescue us from the power of our enemies, and we will serve you.'
+
+**11** So Yahweh sent Jerubbaal,[^12-9] Bedan,[^12-10] Jephthah and Samuel, and he rescued you from the power of your enemies all around you, and you lived in safety.
+
+**12** But when you saw that Nahash king of the Ammonites was coming against you, you said to me, 'No, a king must reign over us,' though Yahweh your God was your king.
+
+**13** Now here is the king you have chosen, the one you asked for. Look, Yahweh has set a king over you.
+
+**14** If you fear Yahweh and serve him and listen to his voice, and do not rebel against Yahweh's command,[^12-11] then both you and the king who reigns over you will follow Yahweh your God.[^12-12]
+
+**15** But if you do not listen to Yahweh's voice, and rebel against Yahweh's command, the hand of Yahweh will be against you, as it was against your ancestors.[^12-13]
+
+**16** Now then, stand still and see this great thing Yahweh is about to do before your eyes.
+
+**17** Is it not wheat harvest today? I will call on Yahweh, and he will send thunder[^12-14] and rain. Then you will know and see how great is the evil you have done in the sight of Yahweh by asking for a king for yourselves."
+
+**18** Then Samuel called on Yahweh, and Yahweh sent thunder and rain that day. All the people greatly feared Yahweh and Samuel.
+
+**19** All the people said to Samuel, "Pray to Yahweh your God for your servants, so that we will not die, for we have added to all our sins this evil of asking for a king for ourselves."
+
+**20** Samuel said to the people, "Do not be afraid. You have done all this evil, yet do not turn aside from following Yahweh, but serve Yahweh with all your heart.
+
+**21** Do not turn aside after empty things,[^12-15] which cannot help you or rescue you, because they are empty.
+
+**22** For the sake of his great name Yahweh will not abandon his people, because Yahweh has been pleased to make you his own people.
+
+**23** As for me, far be it from me to sin against Yahweh by ceasing to pray for you. I will teach you the good and right way.
+
+**24** Only fear Yahweh and serve him faithfully[^12-16] with all your heart. Consider what great things he has done for you.
+
+**25** But if you persist in doing evil, both you and your king will be swept away."
+
+[^12-1]: Or "leading you".
+[^12-2]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^12-3]: Hebrew *meshicho*, "his anointed one", here Saul. Also in verse 5; see 2:10.
+[^12-4]: Literally "to blind my eyes with it". The Septuagint reads "a bribe, or even a pair of sandals? Testify against me".
+[^12-5]: Literally "he said", the people speaking as one.
+[^12-6]: Literally "made". The Hebrew begins abruptly, "Yahweh, who made Moses and Aaron ..."; the Septuagint reads "Yahweh is witness, who made Moses and Aaron ...".
+[^12-7]: Hebrew *tsidqot*, "righteous acts", here Yahweh's acts of rescue.
+[^12-8]: The Hebrew text is written "he said" but read "they said".
+[^12-9]: Another name for Gideon (Judges 6:32).
+[^12-10]: No judge by this name is known from the book of Judges. The Septuagint reads "Barak" (Judges 4–5).
+[^12-11]: Literally "against the mouth of Yahweh". Also in verse 15.
+[^12-12]: Or "and if both you and the king who reigns over you follow Yahweh your God, (all will be well)". Literally "and you will be, both you and the king who reigns over you, after Yahweh your God".
+[^12-13]: Literally "against you and against your fathers". The Septuagint reads "against you and against your king".
+[^12-14]: Literally "voices". Also in verse 18. Rain was very rare at the time of the wheat harvest, in early summer.
+[^12-15]: Hebrew *tohu*, "emptiness", the word translated "formless" in Genesis 1:2. Also at the end of the verse.
+[^12-16]: Literally "in truth".
+
+## Chapter 13
+
+*Status: draft*
+
+**1** Saul was ... years old[^13-1] when he became king, and he reigned over Israel for ... two years.[^13-2]
+
+**2** Saul chose for himself three thousand men of Israel. Two thousand were with Saul at Michmash and in the hill country of Bethel, and a thousand were with Jonathan at Gibeah of Benjamin. The rest of the people he sent home, each to his tent.
+
+**3** Jonathan struck down the Philistine garrison[^13-3] at Geba, and the Philistines heard about it. Then Saul had the trumpet[^13-4] blown throughout the land, saying, "Let the Hebrews hear!"[^13-5]
+
+**4** All Israel heard the news: "Saul has struck down the Philistine garrison, and now Israel has become a stench to the Philistines." And the people were called out to follow Saul to Gilgal.
+
+**5** The Philistines gathered to fight against Israel: thirty thousand chariots,[^13-6] six thousand horsemen, and troops as many as the sand on the seashore. They went up and camped at Michmash, east of Beth-aven.
+
+**6** When the men of Israel saw that they were in trouble, because the troops were hard pressed, the people hid in caves and thickets, among the rocks, and in holes[^13-7] and cisterns.
+
+**7** Some Hebrews even crossed the Jordan[^13-8] to the land of Gad and Gilead. Saul was still at Gilgal, and all the troops who followed him were trembling.
+
+**8** He waited seven days, until the time Samuel had set,[^13-9] but Samuel did not come to Gilgal, and the troops began to scatter from Saul.
+
+**9** So Saul said, "Bring me the burnt offering and the fellowship offerings."[^13-10] And he offered the burnt offering.
+
+**10** Just as he finished offering the burnt offering, Samuel arrived. Saul went out to meet him and greet him.[^13-11]
+
+**11** Samuel said, "What have you done?" Saul said, "When I saw that the troops were scattering from me, and that you did not come at the set time, and that the Philistines were gathering at Michmash,
+
+**12** I thought, 'Now the Philistines will come down against me at Gilgal, and I have not sought the favor of Yahweh.'[^13-12] So I forced myself to offer the burnt offering."
+
+**13** Samuel said to Saul, "You have acted foolishly. You have not kept the command Yahweh your God gave you. If you had, Yahweh would now have established your kingdom over Israel for ever.
+
+**14** But now your kingdom will not last. Yahweh has sought out for himself a man after his own heart, and Yahweh has appointed him ruler[^13-13] over his people, because you have not kept what Yahweh commanded you."
+
+**15** Then Samuel got up and went up from Gilgal to Gibeah of Benjamin.[^13-14] Saul counted the troops who were still with him, about six hundred men.
+
+**16** Saul and his son Jonathan, and the troops who were with them, were staying at Geba of Benjamin, while the Philistines camped at Michmash.
+
+**17** Raiders[^13-15] came out of the Philistine camp in three companies. One company turned toward Ophrah, to the land of Shual;
+
+**18** another company turned toward Beth-horon; and another company turned toward the border that overlooks the Valley of Zeboim, toward the wilderness.
+
+**19** No blacksmith could be found in the whole land of Israel, for the Philistines had said,[^13-16] "Otherwise the Hebrews will make swords or spears."
+
+**20** So all Israel went down to the Philistines to have each man's plowshare, mattock, axe and sickle[^13-17] sharpened.
+
+**21** The charge was a pim[^13-18] for plowshares and mattocks, and a third of a shekel for pitchforks and axes, and for setting goads.[^13-19]
+
+**22** So on the day of battle no sword or spear was to be found in the hands of any of the troops with Saul and Jonathan. Only Saul and his son Jonathan had them.
+
+**23** Meanwhile, a Philistine outpost[^13-20] had gone out to the pass at Michmash.
+
+[^13-1]: The number is missing from the Hebrew text, which reads literally "Saul was a son of a year", the usual way of giving someone's age but without the number. The verse is missing from most manuscripts of the Septuagint; a few later Greek manuscripts read "thirty years old".
+[^13-2]: Literally "and two years he reigned over Israel". Part of the number seems to be missing. Acts 13:21 gives the length of Saul's reign as forty years.
+[^13-3]: Hebrew *netsiv*; see 10:5. Also in verse 4.
+[^13-4]: Hebrew *shofar*, a ram's horn.
+[^13-5]: The Septuagint reads "The slaves have rebelled!"
+[^13-6]: Some manuscripts of the Septuagint, and the Syriac, read "three thousand".
+[^13-7]: Hebrew *tseriachim*, perhaps tombs, cellars or rock shelters.
+[^13-8]: In the Hebrew, "Hebrews" (*ivrim*) and "crossed" (*averu*) sound alike.
+[^13-9]: Literally "for the appointed time which Samuel". A word such as "had set" seems to be missing.
+[^13-10]: Hebrew *shelamim*, traditionally "peace offerings"; see 10:8.
+[^13-11]: Literally "to bless him".
+[^13-12]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles. Literally "I have not soothed the face of Yahweh".
+[^13-13]: Hebrew *nagid*, "leader, ruler"; see 9:16.
+[^13-14]: The Septuagint reads "went up from Gilgal and went on his way. The rest of the people went up after Saul to meet the soldiers, and they came from Gilgal to Gibeah of Benjamin."
+[^13-15]: Literally "the destroyer", that is, a raiding force.
+[^13-16]: The Hebrew text is written "the Philistine had said" but read "the Philistines had said".
+[^13-17]: The Hebrew names of these tools are uncertain. The last word is nearly the same as the word for "plowshare"; the Septuagint reads "sickle".
+[^13-18]: Hebrew *pim*, a weight of about two-thirds of a shekel, about 1/4 ounce (8 grams). The word was not understood until stone weights inscribed with it were found by archaeologists. A shekel is about 2/5 ounce (11.5 grams).
+[^13-19]: The Hebrew of this verse is difficult, and the meaning of some words is uncertain.
+[^13-20]: Hebrew *matsav*, a garrison or post.
+
+## Chapter 14
+
+*Status: draft*
+
+**1** One day Jonathan son of Saul said to the young man who was his armor-bearer, "Come, let us go over to the Philistine outpost on the other side." But he did not tell his father.
+
+**2** Saul was staying at the edge of Gibeah under the pomegranate tree at Migron. The troops with him numbered about six hundred men.
+
+**3** Ahijah son of Ahitub was there, wearing the ephod.[^14-1] Ahitub was the brother of Ichabod son of Phinehas, son of Eli, the priest of Yahweh[^14-2] at Shiloh. The troops did not know that Jonathan had gone.
+
+**4** Between the passes by which Jonathan intended to cross over to the Philistine outpost, there was a rocky crag[^14-3] on one side and a rocky crag on the other. One was called Bozez and the other Seneh.
+
+**5** One crag rose on the north, facing Michmash, and the other on the south, facing Geba.
+
+**6** Jonathan said to the young man who was his armor-bearer, "Come, let us go over to the outpost of these uncircumcised men. Perhaps Yahweh will act for us. Nothing can stop Yahweh from saving, whether by many or by few."
+
+**7** His armor-bearer said to him, "Do all that is in your heart. Go ahead; I am with you, heart and soul."[^14-4]
+
+**8** Jonathan said, "Look, we will cross over to the men and let them see us.
+
+**9** If they say to us, 'Wait there until we come to you,' then we will stay where we are and not go up to them.
+
+**10** But if they say, 'Come up to us,' then we will go up, for Yahweh has given them into our hands. That will be the sign for us."
+
+**11** So the two of them let the Philistine outpost see them. The Philistines said, "Look, Hebrews are coming out of the holes where they have been hiding."
+
+**12** The men of the outpost called out to Jonathan and his armor-bearer, "Come up to us, and we will teach you a lesson!"[^14-5] Jonathan said to his armor-bearer, "Come up after me, for Yahweh has given them into the hands of Israel."
+
+**13** Jonathan climbed up on his hands and feet, with his armor-bearer behind him. The Philistines fell before Jonathan, and his armor-bearer killed them as he came after him.
+
+**14** In that first attack Jonathan and his armor-bearer killed about twenty men, within about half a furrow's length in a field.[^14-6]
+
+**15** Terror spread through the camp, in the field and among all the troops. The outpost and the raiders also trembled. The ground shook, and it became a terror from God.[^14-7]
+
+**16** Saul's lookouts at Gibeah of Benjamin looked, and there was the crowd, melting away and running here and there.[^14-8]
+
+**17** Saul said to the troops who were with him, "Count and see who has left us." When they counted, Jonathan and his armor-bearer were not there.
+
+**18** Saul said to Ahijah, "Bring the ark of God here." For the ark of God was with the Israelites at that time.[^14-9]
+
+**19** While Saul was talking to the priest, the uproar in the Philistine camp kept growing louder and louder. So Saul said to the priest, "Withdraw your hand."[^14-10]
+
+**20** Then Saul and all the troops with him rallied[^14-11] and went into the battle. There they found the Philistines in total confusion, each man's sword against his neighbor.
+
+**21** The Hebrews who had previously been with the Philistines, and had gone up with them into the camp from all around, also went over to the Israelites who were with Saul and Jonathan.[^14-12]
+
+**22** Likewise, when all the men of Israel who had been hiding in the hill country of Ephraim heard that the Philistines were fleeing, they too joined the battle and pursued them closely.
+
+**23** So Yahweh saved Israel that day, and the battle moved on beyond Beth-aven.
+
+**24** The men of Israel were hard pressed that day, for Saul had bound the troops with an oath, saying, "Cursed be anyone who eats food[^14-13] before evening, before I have taken vengeance on my enemies." So none of the troops tasted food.
+
+**25** All the troops[^14-14] came into the forest, and there was honey on the ground.
+
+**26** When the troops entered the forest, there was the honey, flowing,[^14-15] but no one put his hand to his mouth, for the troops were afraid of the oath.
+
+**27** But Jonathan had not heard his father bind the troops with the oath. He reached out the tip of the staff in his hand, dipped it in the honeycomb, and put his hand to his mouth, and his eyes brightened.[^14-16]
+
+**28** Then one of the troops said, "Your father strictly bound the troops with an oath, saying, 'Cursed be anyone who eats food today.'" And the troops were exhausted.
+
+**29** Jonathan said, "My father has brought trouble on the land. See how my eyes have brightened because I tasted a little of this honey.
+
+**30** How much better if the troops had eaten freely today from the plunder they found from their enemies! The slaughter among the Philistines would have been much greater."
+
+**31** That day they struck down the Philistines from Michmash to Aijalon, and the troops were very exhausted.
+
+**32** So the troops pounced on the plunder.[^14-17] They took sheep, cattle and calves, slaughtered them on the ground, and ate them with the blood.[^14-18]
+
+**33** Saul was told, "Look, the troops are sinning against Yahweh by eating with the blood." He said, "You have acted faithlessly. Roll a large stone over to me at once."[^14-19]
+
+**34** Then Saul said, "Go out among the troops and tell them, 'Each of you bring me his ox or his sheep, and slaughter it here and eat. Do not sin against Yahweh by eating with the blood.'" So that night all the troops brought their oxen with them,[^14-20] and they slaughtered them there.
+
+**35** Saul built an altar to Yahweh. It was the first altar he built to Yahweh.
+
+**36** Saul said, "Let us go down after the Philistines by night and plunder them until the morning light. Let us not leave one of them alive." They said, "Do whatever seems good to you." But the priest said, "Let us draw near to God here."
+
+**37** So Saul asked God, "Shall I go down after the Philistines? Will you give them into the hands of Israel?" But he did not answer him that day.
+
+**38** Saul said, "Come here, all you leaders[^14-21] of the people, and find out how this sin has happened today.
+
+**39** For as surely as Yahweh lives, who saves Israel, even if it is in my son Jonathan, he must die." But not one of all the people answered him.
+
+**40** He said to all Israel, "You stand on one side, and I and my son Jonathan will stand on the other side." The people said to Saul, "Do whatever seems good to you."
+
+**41** Then Saul said to Yahweh, the God of Israel, "Give a perfect answer."[^14-22] Jonathan and Saul were taken by the lot, and the people went free.
+
+**42** Saul said, "Cast the lot between me and my son Jonathan." And Jonathan was taken.
+
+**43** Saul said to Jonathan, "Tell me what you have done." Jonathan told him, "I only tasted a little honey with the tip of the staff in my hand. Here I am; I must die!"[^14-23]
+
+**44** Saul said, "May God deal with me, and more severely,[^14-24] if you do not die, Jonathan."
+
+**45** But the people said to Saul, "Should Jonathan die, who has brought about this great victory in Israel? Far from it! As surely as Yahweh lives, not one hair of his head will fall to the ground, for he has acted with God today." So the people ransomed[^14-25] Jonathan, and he did not die.
+
+**46** Then Saul stopped pursuing the Philistines,[^14-26] and the Philistines went back to their own territory.
+
+**47** When Saul had taken the kingship over Israel, he fought against all his enemies on every side: against Moab, the Ammonites, Edom, the kings of Zobah, and the Philistines. Wherever he turned, he defeated them.[^14-27]
+
+**48** He acted valiantly.[^14-28] He struck down the Amalekites and rescued Israel from the power of those who plundered them.
+
+**49** Saul's sons were Jonathan, Ishvi and Malchi-shua.[^14-29] The names of his two daughters were Merab, the firstborn, and Michal, the younger.
+
+**50** Saul's wife was named Ahinoam daughter of Ahimaaz. The commander of his army was named Abner son of Ner, Saul's uncle.
+
+**51** Kish was Saul's father, and Ner, Abner's father, was the son of Abiel.
+
+**52** There was fierce war against the Philistines all the days of Saul. Whenever Saul saw any strong or brave man, he took him into his service.[^14-30]
+
+[^14-1]: Literally "carrying an ephod"; see 2:18 and 2:28. Here it was used to seek God's answers.
+[^14-2]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^14-3]: Literally "a tooth of rock". Also later in the verse and in verse 5.
+[^14-4]: Literally "Turn yourself; here I am with you as your heart."
+[^14-5]: Literally "and we will make known to you a thing".
+[^14-6]: The Hebrew is difficult. Literally "as in half a furrow of a yoke of field", perhaps half the length of a furrow plowed by a yoke of oxen.
+[^14-7]: Or "a very great terror".
+[^14-8]: The Hebrew is difficult. Literally "and it went, and here".
+[^14-9]: Literally "For the ark of God was on that day and the Israelites". The Septuagint reads "Bring the ephod here. For he was carrying the ephod at that time before Israel."
+[^14-10]: That is, stop what you are doing. The priest was seeking God's answer, probably by means of the lots kept in the ephod.
+[^14-11]: Literally "were called together".
+[^14-12]: The Hebrew of this verse is difficult.
+[^14-13]: Literally "bread". Also in verse 28.
+[^14-14]: Literally "All the land".
+[^14-15]: Or "the bees had gone".
+[^14-16]: The Hebrew text is written "and his eyes saw" but read "and his eyes brightened".
+[^14-17]: The Hebrew text is written "The troops made plunder" but read "The troops pounced on the plunder".
+[^14-18]: Literally "on the blood". Eating meat with the blood still in it was forbidden (Leviticus 17:10–14; 19:26). Also in verses 33 and 34.
+[^14-19]: Literally "today".
+[^14-20]: Literally "each his ox in his hand".
+[^14-21]: Literally "cornerstones".
+[^14-22]: Hebrew *havah tamim*, "give what is perfect (right)". With different vowels the words can be read "give Thummim", one of the two lots used to learn God's will (Exodus 28:30). The Septuagint has a longer text: "Then Saul said, 'Yahweh God of Israel, why have you not answered your servant today? If this guilt is in me or in my son Jonathan, Yahweh God of Israel, give Urim; but if it is in your people Israel, give Thummim.'"
+[^14-23]: Or "Here I am, ready to die."
+[^14-24]: Literally "Thus may God do and thus may he add"; see 3:17.
+[^14-25]: Hebrew *padah*, "ransom, redeem", that is, they set him free.
+[^14-26]: Literally "Saul went up from after the Philistines".
+[^14-27]: Literally "he made them guilty", that is, he condemned or punished them.
+[^14-28]: Or "He gathered an army". Hebrew *va-ya'as chayil*.
+[^14-29]: Compare the lists of Saul's sons in 31:2 and 1 Chronicles 8:33.
+[^14-30]: Literally "he gathered him to himself".

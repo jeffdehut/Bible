@@ -501,7 +501,7 @@
 
 **23** When you heard the voice out of the darkness, while the mountain was blazing with fire, all the heads of your tribes and your elders came to me
 
-**24** and said, 'Yahweh our God has shown us his glory and his greatness, and we have heard his voice out of the fire. Today we have seen that God can speak with a human being and that person still live.
+**24** and said, 'See, Yahweh our God has shown us his glory and his greatness, and we have heard his voice out of the fire. Today we have seen that God can speak with a human being and that person still live.
 
 **25** But now, why should we die? This great fire will consume us. If we hear the voice of Yahweh our God any longer, we will die.
 
@@ -532,7 +532,7 @@
 [^5-9]: Literally "visiting the iniquity of fathers on sons, and on the third and on the fourth of those who hate me".
 [^5-10]: Hebrew *chesed*: loyal, faithful love.
 [^5-11]: Or "to a thousand generations".
-[^5-12]: The Hebrew text is written "his commandments" but read "my commandments".
+[^5-12]: The Hebrew text is written "his commandment" but read "my commandments".
 [^5-13]: Literally "Do not lift up the name of Yahweh your God for emptiness". Traditionally "take the name in vain". It may refer to false oaths or to any empty or wrongful use of God's name.
 [^5-14]: Exodus 20:8 reads "Remember the Sabbath day". Here the verb is *shamor*, "keep, observe".
 [^5-15]: Hebrew *shabbat*, from the verb *shavat*, "stop, rest".
@@ -665,7 +665,7 @@
 
 **21** Do not be terrified of them, for Yahweh your God is among you, a great and awesome God.
 
-**22** Yahweh your God will drive out those nations before you little by little. You will not be allowed to make an end of them quickly, or the wild animals would become too many for you.
+**22** Yahweh your God will drive out those nations before you little by little. You will not be able to make an end of them quickly, or the wild animals would become too many for you.
 
 **23** But Yahweh your God will hand them over to you, and throw them into great confusion until they are destroyed.
 
@@ -2476,3 +2476,290 @@
 [^31-19]: Yahweh is the speaker, as in verse 14.
 [^31-20]: Literally "your rebellion and your hard neck".
 [^31-21]: Literally "in the end of the days".
+
+## Chapter 32
+
+*Status: draft*
+
+**1** Give ear, you heavens, and I will speak; let the earth hear the words of my mouth.[^32-1]
+
+**2** Let my teaching fall like rain, my words come down like dew, like gentle rain on new grass, like showers on green plants.
+
+**3** For I will proclaim the name of Yahweh.[^32-2] Ascribe greatness to our God!
+
+**4** The Rock:[^32-3] his work is perfect, for all his ways are just. A faithful God, without wrong, righteous and upright is he.
+
+**5** They have acted corruptly toward him; they are not his children, because of their flaw.[^32-4] They are a crooked and twisted generation.
+
+**6** Is this how you repay Yahweh, you foolish and unwise people? Is he not your father, who created you,[^32-5] who made you and established you?
+
+**7** Remember the days of old; consider the years of generation after generation. Ask your father, and he will tell you, your elders, and they will explain to you.
+
+**8** When the Most High[^32-6] gave the nations their inheritance, when he divided humankind,[^32-7] he set the boundaries of the peoples according to the number of the sons of Israel.[^32-8]
+
+**9** For Yahweh's portion is his people, Jacob his allotted inheritance.[^32-9]
+
+**10** He found him in a desert land, in an empty, howling wasteland. He surrounded him and cared for him; he guarded him like the pupil of his eye.[^32-10]
+
+**11** Like an eagle[^32-11] that stirs up its nest and hovers over its young, he spread out his wings and took him up; he carried him on his feathers.
+
+**12** Yahweh alone guided him; no foreign god was with him.
+
+**13** He made him ride on the heights of the land, and he ate the produce of the field. He nursed him with honey from the rock, and oil from the flint rock,
+
+**14** with curds from the herd and milk from the flock, with the fat of lambs, with rams of Bashan's breed and goats, with the finest of the wheat.[^32-12] And you drank the blood of the grape, foaming wine.[^32-13]
+
+**15** But Jeshurun[^32-14] grew fat and kicked. You grew fat, you grew thick, you were gorged! He abandoned the God[^32-15] who made him, and scorned the Rock of his salvation.
+
+**16** They made him jealous with strange gods; with detestable things they provoked him to anger.
+
+**17** They sacrificed to demons[^32-16] that were not God,[^32-17] to gods they had not known, new gods that had come lately, gods your ancestors had not feared.[^32-18]
+
+**18** You neglected the Rock who fathered you; you forgot the God who gave you birth.[^32-19]
+
+**19** Yahweh saw it and spurned them, because his sons and his daughters provoked him.
+
+**20** He said:[^32-20] I will hide my face from them; I will see what their end will be. For they are a perverse generation, children who cannot be trusted.
+
+**21** They made me jealous with what is no god; they provoked me with their worthless idols.[^32-21] So I will make them jealous with what is no people; I will provoke them with a foolish nation.[^32-22]
+
+**22** For a fire has been kindled by my anger, and it burns to the depths of Sheol.[^32-23] It devours the earth and its produce, and sets fire to the foundations of the mountains.
+
+**23** I will heap disasters on them; I will spend my arrows on them.
+
+**24** They will be wasted by hunger, consumed by plague[^32-24] and bitter destruction. I will send the teeth of wild beasts against them, with the venom of creatures that crawl in the dust.
+
+**25** Outside, the sword will bereave them, and in the inner rooms, terror, for young man and young woman alike, for the nursing child and the gray-haired man.
+
+**26** I said I would cut them to pieces[^32-25] and wipe out their memory from humankind,
+
+**27** had I not feared the enemy's taunts, that their adversaries might misunderstand, that they might say, "Our hand has triumphed;[^32-26] it was not Yahweh who did all this."
+
+**28** For they are a nation without sense,[^32-27] and there is no understanding in them.
+
+**29** If they were wise, they would understand this; they would see what their end will be.
+
+**30** How could one chase a thousand, and two put ten thousand to flight, unless their Rock had sold them, unless Yahweh had handed them over?
+
+**31** For their rock is not like our Rock, as even our enemies must judge.[^32-28]
+
+**32** For their vine comes from the vine of Sodom, and from the fields of Gomorrah. Their grapes are grapes of poison; their clusters are bitter.
+
+**33** Their wine is the venom of serpents, the deadly poison of cobras.
+
+**34** Is this not stored up with me, sealed up in my storehouses?
+
+**35** Vengeance is mine, and repayment,[^32-29] for the time when their foot slips. For the day of their disaster is near, and their doom comes swiftly.
+
+**36** For Yahweh will vindicate[^32-30] his people and have compassion on his servants, when he sees that their strength is gone, and no one is left, slave or free.[^32-31]
+
+**37** Then he will say: Where are their gods, the rock they took refuge in,
+
+**38** who ate the fat of their sacrifices and drank the wine of their drink offerings? Let them rise up and help you! Let them be your shelter!
+
+**39** See now that I, I am he, and there is no god beside me. I put to death and I bring to life; I have wounded and I will heal, and no one can rescue from my hand.
+
+**40** For I lift up my hand to heaven and declare: As surely as I live forever,
+
+**41** when I sharpen my flashing sword[^32-32] and my hand takes hold of judgment, I will take vengeance on my adversaries and repay those who hate me.
+
+**42** I will make my arrows drunk with blood, and my sword will devour flesh, with the blood of the slain and the captives, from the long-haired heads of the enemy.[^32-33]
+
+**43** Praise his people, you nations,[^32-34] for he will avenge the blood of his servants. He will take vengeance on his adversaries and make atonement for his land, his people.[^32-35]
+
+**44** Moses came and recited all the words of this song in the hearing of the people, he and Hoshea[^32-36] son of Nun.
+
+**45** When Moses had finished speaking all these words to all Israel,
+
+**46** he said to them, "Take to heart[^32-37] all the words I am solemnly declaring to you today, so that you may command your children to be careful to follow all the words of this law.
+
+**47** For this is no empty word for you; it is your life. By this word you will live long in the land you are crossing the Jordan to possess."
+
+**48** That same day Yahweh said to Moses,
+
+**49** "Go up into these mountains of the Abarim,[^32-38] to Mount Nebo in the land of Moab, opposite Jericho, and look at the land of Canaan, which I am giving to the Israelites as their possession.
+
+**50** You will die on the mountain you go up, and be gathered to your people,[^32-39] just as your brother Aaron died on Mount Hor and was gathered to his people.
+
+**51** For both of you broke faith with me among the Israelites at the waters of Meribath-kadesh[^32-40] in the wilderness of Zin, because you did not treat me as holy among the Israelites.
+
+**52** You will see the land from a distance, but you will not enter it, the land that I am giving to the Israelites."
+
+[^32-1]: Verses 1–43 are a poem, the Song of Moses (31:19–22, 30).
+[^32-2]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^32-3]: Hebrew *tsur*, "rock": a title for God as a place of safety and strength. It is used often in this song (verses 15, 18, 30, 31 and 37).
+[^32-4]: The Hebrew is difficult. Literally "He corrupted to him, not his sons, their blemish". Or "His children have acted corruptly toward him; the flaw is theirs". The last line is echoed in Philippians 2:15.
+[^32-5]: Or "who acquired you". Hebrew *qanah*.
+[^32-6]: Hebrew *Elyon*, a title of God.
+[^32-7]: Literally "the sons of *adam* (humankind)".
+[^32-8]: A Dead Sea Scroll from Qumran (4QDeut-j) reads "the sons of God", and the Greek Septuagint reads "the angels of God" or "the sons of God". On that reading, the nations were divided according to the number of the heavenly beings around God (compare Job 1:6), while Israel was Yahweh's own portion (verse 9). The Masoretic Text, followed here, reads "the sons of Israel".
+[^32-9]: Literally "the measuring line of his inheritance".
+[^32-10]: Literally "the little man of his eye", the pupil, which is guarded with great care.
+[^32-11]: Or "a vulture". Hebrew *nesher*. *Hovers* is the verb used of the Spirit of God in Genesis 1:2.
+[^32-12]: Literally "with the fat of the kidneys of wheat".
+[^32-13]: Hebrew *chemer*, perhaps "foaming" or "fermented".
+[^32-14]: A poetic name for Israel, probably from *yashar*, "upright". Also in 33:5 and 33:26.
+[^32-15]: Hebrew *Eloah*, a poetic form of *Elohim*, "God". Also in verse 17.
+[^32-16]: Hebrew *shedim*, a word found elsewhere only in Psalm 106:37: spirits or minor gods.
+[^32-17]: Or "to demons, to a no-god".
+[^32-18]: Hebrew *se'arum*, a rare verb. It may mean "shuddered at", "feared", or "known".
+[^32-19]: Literally "who writhed in labor with you". The first line uses a rare verb, *teshi*, probably "neglect, forget".
+[^32-20]: Yahweh speaks from here, perhaps to verse 35, and again in verses 37–42. The poem does not mark where his words begin and end, so they are not put in quotation marks.
+[^32-21]: Literally "their breaths", a scornful word for idols.
+[^32-22]: Paul quotes the second half of this verse in Romans 10:19.
+[^32-23]: Hebrew *Sheol*, the realm of the dead. Literally "to the lowest Sheol".
+[^32-24]: Hebrew *resheph*, "flame, plague", also the name of a Canaanite god of plague.
+[^32-25]: Hebrew *af'ehem*, a word found only here, perhaps "I will scatter them" or "I will make an end of them".
+[^32-26]: Literally "Our hand is high".
+[^32-27]: Literally "a nation lost of counsels". It is not clear whether "they" are Israel or Israel's enemies.
+[^32-28]: Hebrew *pelilim*, a word of uncertain meaning, perhaps "judges": "and our enemies are judges".
+[^32-29]: The Septuagint reads "On the day of vengeance I will repay". Romans 12:19 and Hebrews 10:30 quote this line as "Vengeance is mine, I will repay".
+[^32-30]: Or "judge". Hebrews 10:30 quotes this line, "The Lord will judge his people". In the Hebrew, "the Lord" is God's personal name, Yahweh.
+[^32-31]: Literally "and there is none, shut up or left at large", a phrase of uncertain meaning, probably "no one at all".
+[^32-32]: Literally "the lightning of my sword".
+[^32-33]: Hebrew *par'ot*, perhaps the long hair of warriors, or "leaders". Literally "from the head of the long hair of the enemy".
+[^32-34]: Or "Make his people rejoice, you nations". A Dead Sea Scroll (4QDeut-q) and the Septuagint have a longer form of this verse. The scroll begins "Rejoice, you heavens, with him; bow down to him, all you gods". The Septuagint reads "Rejoice, you nations, with his people", the line quoted in Romans 15:10, and Hebrews 1:6 quotes another line of its longer form.
+[^32-35]: Literally "his land, his people". The Dead Sea Scroll and the Septuagint read "the land of his people".
+[^32-36]: Joshua's earlier name (Numbers 13:16).
+[^32-37]: Literally "Set your hearts on".
+[^32-38]: *Abarim* means "regions beyond": the mountains east of the Dead Sea.
+[^32-39]: A way of speaking of death, as joining one's ancestors.
+[^32-40]: *Meribah* means "quarreling" (Numbers 20:1–13; 27:14).
+
+## Chapter 33
+
+*Status: draft*
+
+**1** This is the blessing with which Moses, the man of God, blessed the Israelites before his death.
+
+**2** He said:[^33-1] Yahweh[^33-2] came from Sinai and dawned on them from Seir; he shone out from Mount Paran. He came from among ten thousands of holy ones,[^33-3] with a fiery law for them at his right hand.[^33-4]
+
+**3** Truly he loves the peoples;[^33-5] all his holy ones are in your hand. They bow down at your feet; each receives your words.[^33-6]
+
+**4** Moses gave us a law,[^33-7] a possession for the assembly of Jacob.
+
+**5** He[^33-8] became king in Jeshurun,[^33-9] when the leaders of the people gathered, the tribes of Israel together.
+
+**6** Let Reuben live and not die, though his men be few.[^33-10]
+
+**7** And this he said about Judah: Hear, Yahweh, the voice of Judah, and bring him to his people. With his own hands he fights for himself;[^33-11] be a help to him against his adversaries.
+
+**8** About Levi he said:[^33-12] Your Thummim and your Urim[^33-13] belong to your faithful one,[^33-14] whom you tested at Massah, with whom you quarreled at the waters of Meribah.
+
+**9** He said of his father and his mother, "I do not regard them."[^33-15] He did not acknowledge his brothers, or recognize his own children.[^33-16] For they kept your word and guarded your covenant.
+
+**10** They teach your rulings to Jacob and your law to Israel. They put incense before you[^33-17] and whole burnt offerings on your altar.
+
+**11** Bless his strength,[^33-18] Yahweh, and accept the work of his hands. Crush the loins of those who rise up against him, of those who hate him, so that they rise no more.
+
+**12** About Benjamin he said: The one Yahweh loves will live securely beside him.[^33-19] He shields him all day long, and he dwells between his shoulders.[^33-20]
+
+**13** About Joseph he said: May his land be blessed by Yahweh with the choicest gifts[^33-21] of heaven, with the dew, and with the deep waters that lie below,
+
+**14** with the choicest of what the sun brings forth, and the choicest of what the months bring out,[^33-22]
+
+**15** with the best of the ancient mountains,[^33-23] and the choicest of the everlasting hills,
+
+**16** with the choicest gifts of the earth and all that fills it, and with the favor of him who dwelt in the bush.[^33-24] Let these rest on the head of Joseph, on the brow of the one set apart among his brothers.[^33-25]
+
+**17** His firstborn bull has majesty,[^33-26] and his horns are the horns of a wild ox.[^33-27] With them he gores the peoples, all of them together, to the ends of the earth. Such are the ten thousands of Ephraim, and such are the thousands of Manasseh.
+
+**18** About Zebulun he said: Rejoice, Zebulun, in your going out, and Issachar, in your tents.
+
+**19** They will call peoples to the mountain; there they will offer right sacrifices.[^33-28] For they will draw from the abundance of the seas, and from the treasures hidden in the sand.
+
+**20** About Gad he said: Blessed is he who enlarges Gad! Gad lies down like a lion, and tears at arm and head.[^33-29]
+
+**21** He chose the best land for himself, for there a commander's portion was kept for him.[^33-30] He came with the leaders of the people; he carried out the justice of Yahweh, and his rulings for Israel.[^33-31]
+
+**22** About Dan he said: Dan is a lion's cub, leaping out from Bashan.
+
+**23** About Naphtali he said: Naphtali, satisfied with favor and full of the blessing of Yahweh, take possession of the sea and the south.[^33-32]
+
+**24** About Asher he said: Most blessed of sons is Asher.[^33-33] May he be the favorite of his brothers, and may he dip his foot in oil.
+
+**25** Your bolts will be iron and bronze, and your strength will last as long as your days.[^33-34]
+
+**26** There is none like God, Jeshurun,[^33-35] who rides through the heavens to help you, through the skies in his majesty.
+
+**27** The eternal God is your refuge,[^33-36] and underneath are the everlasting arms. He drove out the enemy before you, and said, "Destroy!"
+
+**28** So Israel lives in safety, the spring of Jacob alone,[^33-37] in a land of grain and new wine, where the heavens drip with dew.
+
+**29** How happy you are, Israel! Who is like you, a people saved by Yahweh? He is the shield that helps you, the sword of your triumph.[^33-38] Your enemies will cringe before you, and you will tread on their backs.[^33-39]
+
+[^33-1]: Verses 2–29 are a poem, the Blessing of Moses. Compare Jacob's blessing of his sons in Genesis 49.
+[^33-2]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^33-3]: Or "He came with ten thousands of holy ones". Literally "he came from ten thousands of holiness".
+[^33-4]: The Hebrew text is written as one word, *eshdat*, of uncertain meaning, but read as two words, *esh dat*, "a fire of law". The meaning of the line is uncertain.
+[^33-5]: Or "the tribes". The Septuagint reads "his people".
+[^33-6]: The meaning of this verse is uncertain. The verb translated "bow down" occurs only here.
+[^33-7]: Hebrew *torah*, "instruction, law".
+[^33-8]: Probably Yahweh, but possibly Moses.
+[^33-9]: A poetic name for Israel, probably from *yashar*, "upright" (32:15). Also in verse 26.
+[^33-10]: Or "and let not his men be few". Literally "and let his men be a number".
+[^33-11]: Literally "his hands contend for him".
+[^33-12]: A Dead Sea Scroll (4QDeut-h) and the Septuagint read "Give to Levi your Thummim, and your Urim to your faithful one".
+[^33-13]: Hebrew *tummim* and *urim*: objects the priest used to learn God's will (Exodus 28:30).
+[^33-14]: Hebrew *chasid*, "loyal one", a word related to *chesed*, "faithful love".
+[^33-15]: Literally "I have not seen him". Compare Exodus 32:26–29.
+[^33-16]: The Hebrew text is written "his son" but read "his sons".
+[^33-17]: Literally "in your nostril".
+[^33-18]: Or "his wealth". Hebrew *chayil*.
+[^33-19]: Literally "on him".
+[^33-20]: The meaning is uncertain. Yahweh may dwell among Benjamin's hills (his "shoulders"), or Benjamin may rest on Yahweh's shoulders, like a child carried by a parent.
+[^33-21]: Hebrew *meged*, "choice gift", repeated in verses 13–16. Compare Genesis 49:25–26.
+[^33-22]: Literally "the yield of the moons".
+[^33-23]: Literally "the head of the mountains of old".
+[^33-24]: Exodus 3:2–4.
+[^33-25]: Hebrew *nezir*, "one consecrated, a prince" (Genesis 49:26).
+[^33-26]: Literally "The firstborn of his bull, majesty is his".
+[^33-27]: Hebrew *re'em*, traditionally "unicorn": the wild ox, now extinct.
+[^33-28]: Or "sacrifices of righteousness". Hebrew *zivche tsedeq*.
+[^33-29]: Literally "the arm, and also the crown of the head".
+[^33-30]: The meaning is uncertain. Literally "He saw the first part for himself, for there the portion of a commander was stored away".
+[^33-31]: Or "the righteousness of Yahweh". Hebrew *tsidqat YHWH*.
+[^33-32]: Or "the west and the south". Hebrew *yam*, "sea", here perhaps the Sea of Galilee.
+[^33-33]: Or "Blessed above other sons is Asher". *Asher* sounds like the Hebrew word for "happy, blessed".
+[^33-34]: Hebrew *dove*, a word found only here, perhaps "strength" or "rest".
+[^33-35]: The Hebrew vowel points read "like God, Jeshurun". The same consonants can be read "like the God of Jeshurun".
+[^33-36]: Or "dwelling place". Hebrew *me'onah*.
+[^33-37]: The meaning is uncertain. Hebrew *ein* can mean "spring" or "eye"; the line may mean that Jacob's descendants live apart, on their own.
+[^33-38]: Literally "the sword of your majesty".
+[^33-39]: Or "on their high places". Hebrew *bamot*.
+
+## Chapter 34
+
+*Status: draft*
+
+**1** Then Moses went up from the plains of Moab to Mount Nebo, to the top of Pisgah, opposite Jericho. And Yahweh[^34-1] showed him the whole land: Gilead as far as Dan,
+
+**2** all Naphtali, the land of Ephraim and Manasseh, all the land of Judah as far as the western sea,[^34-2]
+
+**3** the Negev, and the plain of the valley of Jericho,[^34-3] the city of palm trees, as far as Zoar.
+
+**4** Then Yahweh said to him, "This is the land I swore to Abraham, to Isaac and to Jacob, when I said, 'I will give it to your descendants.' I have let you see it with your own eyes, but you will not cross over into it."
+
+**5** So Moses the servant of Yahweh died there in the land of Moab, as Yahweh had said.[^34-4]
+
+**6** He[^34-5] buried him in the valley in the land of Moab, opposite Beth-peor, and to this day no one knows where his grave is.
+
+**7** Moses was 120 years old when he died. His eyesight was not dim, and his vigor had not left him.
+
+**8** The Israelites wept for Moses in the plains of Moab for thirty days. Then the days of weeping and mourning for Moses came to an end.
+
+**9** Joshua son of Nun was filled with the spirit of wisdom,[^34-6] because Moses had laid his hands on him. So the Israelites listened to him and did as Yahweh had commanded Moses.
+
+**10** Never since has a prophet arisen in Israel like Moses, whom Yahweh knew face to face,
+
+**11** in all the signs and wonders that Yahweh sent him to do in the land of Egypt, to Pharaoh and to all his servants and to all his land,
+
+**12** and in all the mighty power[^34-7] and all the great and terrifying deeds that Moses performed in the sight of all Israel.
+
+[^34-1]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^34-2]: Literally "the sea behind", the Mediterranean.
+[^34-3]: Hebrew *kikkar*, "circle": the round plain of the Jordan near Jericho.
+[^34-4]: Literally "at the mouth of Yahweh".
+[^34-5]: The Hebrew does not name the subject. It is probably Yahweh; or "he was buried". The Septuagint reads "they buried him".
+[^34-6]: Hebrew *ruach*: spirit, breath.
+[^34-7]: Literally "all the strong hand".

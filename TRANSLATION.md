@@ -81,7 +81,8 @@ Decisions marked **proposed** are used in the pilot and are open for review.
 | תּוֹרָה (torah) | instruction, law, by context | "The Law" when it means the law given through Moses as a whole. |
 | בְּרִית, διαθήκη | covenant | |
 | צֶדֶק, צְדָקָה, δικαιοσύνη | righteousness, what is right, by context | |
-| מִשְׁפָּט (mishpat) | justice, judgment, ruling, by context | In law collections, מִשְׁפָּטִים are "rulings" and חֻקִּים "decrees"; חֻקַּת עוֹלָם is "a permanent decree". |
+| מִשְׁפָּט (mishpat) | justice, judgment, ruling, by context | |
+| Words for God's law (Deuteronomy, Psalms 19 and 119) | תּוֹרָה instruction / law; מִצְוָה command; חֹק, חֻקָּה decree; מִשְׁפָּט ruling; עֵדוֹת, עֵדְוֹת statutes; פִּקּוּדִים precepts; דָּבָר word; אִמְרָה promise | Each Hebrew word keeps its own English word, so readers can follow the pattern. חֻקַּת עוֹלָם is "a permanent decree". עֵדוֹת is noted at its first occurrence in each chapter: "Hebrew *edot*, traditionally 'testimonies': the solemn terms of the covenant." |
 | שָׁלוֹם (shalom) | peace, well-being, by context | |
 | רוּחַ (ruach), πνεῦμα | spirit, wind, breath, by context | Noted where more than one sense is possible. |
 | הַשָּׂטָן (Job 1–2, Zechariah 3) | the Accuser (proposed) | Hebrew *ha-satan*, "the adversary, the accuser", with the article: a title rather than a name. Noted at its first occurrence in each chapter. |

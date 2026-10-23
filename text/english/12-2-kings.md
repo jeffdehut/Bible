@@ -328,3 +328,417 @@
 [^4-16]: That is, as his disciples.
 [^4-17]: Probably colocynth, a wild gourd that looks like a small melon and is a strong, dangerous purgative.
 [^4-18]: The meaning of the Hebrew word translated "sack", *tsiqlon*, is uncertain.
+
+## Chapter 5
+
+*Status: draft*
+
+**1** Naaman, commander of the army of the king of Aram,[^5-1] was a great man in his master's eyes and highly honored,[^5-2] because through him Yahweh[^5-3] had given victory to Aram. He was a mighty warrior, but he had a skin disease.[^5-4]
+
+**2** Raiding bands from Aram had gone out and taken a young girl captive from the land of Israel, and she served Naaman's wife.
+
+**3** She said to her mistress, "If only my master were with the prophet who is in Samaria! Then he would cure him of his skin disease."[^5-5]
+
+**4** Naaman went and told his master, "This is what the girl from the land of Israel said."[^5-6]
+
+**5** The king of Aram said, "Go now, and I will send a letter to the king of Israel." So he went, taking with him ten talents[^5-7] of silver, six thousand shekels[^5-8] of gold and ten changes of clothes.
+
+**6** He brought the letter to the king of Israel. It said, "Now, with this letter,[^5-9] I am sending my servant Naaman to you, so that you may cure him of his skin disease."
+
+**7** When the king of Israel read the letter, he tore his clothes and said, "Am I God, to kill and to make alive, that this man sends word to me to cure a man of his skin disease? Just look and see how he is trying to pick a quarrel with me!"
+
+**8** When Elisha the man of God heard that the king of Israel had torn his clothes, he sent this message to the king: "Why have you torn your clothes? Let him come to me, and he will know that there is a prophet in Israel."
+
+**9** So Naaman came with his horses[^5-10] and his chariots and stopped at the door of Elisha's house.
+
+**10** Elisha sent a messenger to him to say, "Go and wash seven times in the Jordan. Your flesh will be restored, and you will be clean."
+
+**11** But Naaman was angry and went away. He said, "I thought he would surely come out to me, stand and call on the name of Yahweh his God, wave his hand over the place and cure the skin disease.
+
+**12** Aren't the Amana[^5-11] and the Pharpar, the rivers of Damascus, better than all the waters of Israel? Couldn't I wash in them and be clean?" So he turned and went away in a rage.
+
+**13** But his servants came up to him and said, "My father,[^5-12] if the prophet had told you to do something great, wouldn't you have done it? How much more, then, when he tells you, 'Wash and be clean'!"
+
+**14** So he went down and dipped himself in the Jordan seven times, as the man of God had said. His flesh was restored and became like the flesh of a young boy, and he was clean.
+
+**15** Then he went back to the man of God, he and all his company. He came and stood before him and said, "Now I know that there is no God in all the earth except in Israel. So please accept a gift[^5-13] from your servant."
+
+**16** But Elisha said, "As Yahweh lives, whom I serve,[^5-14] I will not accept anything." Naaman urged him to accept it, but he refused.
+
+**17** Naaman said, "If not, then please let your servant be given as much earth as a pair of mules can carry.[^5-15] For your servant will never again offer burnt offering or sacrifice to other gods, but only to Yahweh.
+
+**18** But may Yahweh pardon your servant for this one thing: when my master goes into the temple of Rimmon[^5-16] to bow down there, and he leans on my arm, and I bow down in the temple of Rimmon, when I bow down in the temple of Rimmon, may Yahweh pardon your servant for this."[^5-17]
+
+**19** Elisha said to him, "Go in peace." So Naaman went away from him some distance.
+
+**20** Then Gehazi, the servant of Elisha the man of God, said to himself, "Look, my master has let this Aramean Naaman off without accepting from him what he brought. As Yahweh lives, I will run after him and take something from him."
+
+**21** So Gehazi hurried after Naaman. When Naaman saw someone running after him, he got down from the chariot to meet him and said, "Is everything all right?"
+
+**22** He said, "Everything is all right. My master has sent me to say, 'Just now two young men from the company of prophets[^5-18] have come to me from the hill country of Ephraim. Please give them a talent of silver and two changes of clothes.'"
+
+**23** Naaman said, "Please, take two talents." He urged him to take them, and he tied up two talents of silver in two bags, with two changes of clothes. He gave them to two of his servants, and they carried them ahead of Gehazi.
+
+**24** When Gehazi came to the hill,[^5-19] he took the things from them and put them away in the house. Then he sent the men away, and they left.
+
+**25** He went in and stood before his master, and Elisha said to him, "Where have you been, Gehazi?" He said, "Your servant hasn't gone anywhere."
+
+**26** But Elisha said to him, "Wasn't my heart there when a man turned from his chariot to meet you? Is this the time to accept money and to accept clothes, olive groves and vineyards, sheep and cattle, male and female servants?
+
+**27** Naaman's skin disease will cling to you and to your descendants forever." And Gehazi went out from his presence with a skin disease, white as snow.[^5-20]
+
+[^5-1]: The Aramean kingdom, whose capital was Damascus, in what is now Syria. Traditionally "Syria".
+[^5-2]: Literally "lifted up of face".
+[^5-3]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^5-4]: Hebrew *metsora*, having *tsara'at*, traditionally "leprosy". It was not leprosy (Hansen's disease) as known today, but a range of skin conditions that made a person ritually unclean (Leviticus 13). Also in verses 3, 6, 7, 11 and 27.
+[^5-5]: Literally "Then he would gather him from his skin disease." The same verb is used in verses 6, 7 and 11.
+[^5-6]: Literally "Like this and like this the girl … said."
+[^5-7]: A talent was about 75 pounds (34 kg). Ten talents was about 750 pounds (340 kg).
+[^5-8]: Literally "six thousand", the unit being understood. A shekel was about ⅖ ounce (11.5 grams). Six thousand shekels was about 150 pounds (69 kg).
+[^5-9]: Literally "And now, when this letter comes to you, look,". "And now" marks the start of the letter's message after its greeting.
+[^5-10]: The Hebrew text is written "his horse" but read "his horses".
+[^5-11]: The Hebrew text is written "Abanah" but read "Amanah". Most English Bibles follow the written form, "Abana".
+[^5-12]: A respectful way of addressing a master.
+[^5-13]: Literally "a blessing".
+[^5-14]: Literally "before whom I stand".
+[^5-15]: He wanted soil from Israel to take home, so that he could worship Yahweh on the soil of Yahweh's land.
+[^5-16]: The Aramean storm god, also called Hadad. *Rimmon* means "pomegranate" in Hebrew; it is probably a mocking form of the god's title Rammanu, "the Thunderer".
+[^5-17]: The Hebrew text adds "please" after "may Yahweh", written but not read.
+[^5-18]: See 2:3.
+[^5-19]: Hebrew *ha-ophel*, "the mound": a hill or a fortified part of the city.
+[^5-20]: Literally "diseased, like snow". The comparison is probably to the white, flaking skin.
+
+## Chapter 6
+
+*Status: draft*
+
+**1** The company of prophets[^6-1] said to Elisha, "Look, the place where we live under your leadership[^6-2] is too small for us.
+
+**2** Let us go to the Jordan, and let each of us get a beam from there, and let us make ourselves a place to live there." He said, "Go."
+
+**3** Then one of them said, "Please be willing to go with your servants." He said, "I will go."
+
+**4** So he went with them. When they came to the Jordan, they began cutting down trees.
+
+**5** As one of them was felling a beam, the iron axe head[^6-3] fell into the water. He cried out, "Oh no, my lord! It was borrowed!"
+
+**6** The man of God said, "Where did it fall?" When he showed him the place, Elisha cut off a stick, threw it in there and made the iron float.
+
+**7** He said, "Pick it up." So the man reached out his hand and took it.
+
+**8** Now the king of Aram was at war with Israel. He consulted with his officers and said, "My camp will be at such and such a place."
+
+**9** But the man of God sent word to the king of Israel: "Be careful not to pass that place, because the Arameans are going down there."[^6-4]
+
+**10** So the king of Israel sent word to the place the man of God had told him about. Elisha would warn him,[^6-5] and the king would be on his guard there. This happened more than once or twice.
+
+**11** The king of Aram was enraged[^6-6] by this. He called his officers and said to them, "Won't you tell me which of us is on the side of the king of Israel?"
+
+**12** One of his officers said, "No one, my lord the king. It is Elisha, the prophet who is in Israel. He tells the king of Israel the words you speak in your bedroom."
+
+**13** The king said, "Go and find out where he is, so that I can send men and seize him." He was told, "He is in Dothan."
+
+**14** So he sent horses and chariots and a strong force there. They came by night and surrounded the city.
+
+**15** The attendant of the man of God got up early and went out, and there was an army surrounding the city with horses and chariots. His servant said to him, "Oh no, my lord! What shall we do?"
+
+**16** He said, "Do not be afraid, for there are more with us than with them."
+
+**17** Then Elisha prayed and said, "Yahweh,[^6-7] please open his eyes so that he may see." Yahweh opened the servant's eyes, and he saw that the hill was full of horses and chariots of fire all around Elisha.
+
+**18** As the Arameans came down toward him, Elisha prayed to Yahweh and said, "Please strike this nation with blindness."[^6-8] So he struck them with blindness, as Elisha had asked.
+
+**19** Elisha said to them, "This is not the road, and this is not the city. Follow me, and I will lead you to the man you are looking for." And he led them to Samaria.
+
+**20** As soon as they had come into Samaria, Elisha said, "Yahweh, open the eyes of these men so that they may see." Yahweh opened their eyes, and they saw that they were inside Samaria.
+
+**21** When the king of Israel saw them, he said to Elisha, "Shall I strike them down, my father? Shall I strike them down?"
+
+**22** He said, "Do not strike them down. Would you strike down those you have taken captive with your own sword and bow?[^6-9] Set food and water before them, so that they may eat and drink and go back to their master."
+
+**23** So he prepared a great feast for them, and they ate and drank. Then he sent them away, and they went back to their master. And the raiding bands of Aram did not come into the land of Israel again.
+
+**24** Some time later Ben-hadad king of Aram gathered his whole army, marched up and laid siege to Samaria.
+
+**25** There was a great famine in Samaria. They besieged it until a donkey's head sold for eighty shekels[^6-10] of silver, and a quarter of a kab[^6-11] of dove's dung[^6-12] for five shekels of silver.
+
+**26** As the king of Israel was walking along the wall, a woman cried out to him, "Help, my lord the king!"
+
+**27** He said, "If Yahweh does not help you, how can I help you?[^6-13] With grain from the threshing floor, or with wine from the winepress?"
+
+**28** Then the king asked her, "What is the matter?" She said, "This woman said to me, 'Give up your son, so that we may eat him today, and we will eat my son tomorrow.'
+
+**29** So we cooked my son and ate him. The next day I said to her, 'Give up your son, so that we may eat him.' But she has hidden her son."
+
+**30** When the king heard the woman's words, he tore his clothes. As he was walking along the wall, the people looked, and there was sackcloth underneath, on his body.
+
+**31** He said, "May God do this to me, and more,[^6-14] if the head of Elisha son of Shaphat stays on his shoulders today!"
+
+**32** Elisha was sitting in his house, and the elders were sitting with him. The king sent a man ahead of him, but before the messenger reached him, Elisha said to the elders, "Do you see how this son of a murderer[^6-15] has sent someone to take off my head? Look, when the messenger comes, shut the door and hold the door shut against him. Isn't the sound of his master's footsteps behind him?"
+
+**33** While he was still speaking with them, the messenger came down to him. And he said,[^6-16] "This disaster is from Yahweh. Why should I wait for Yahweh any longer?"
+
+[^6-1]: See 2:3.
+[^6-2]: Literally "where we sit before you".
+[^6-3]: Literally "the iron". Also in verse 6.
+[^6-4]: Hebrew *nechittim*, a rare form, perhaps "going down" or "lying in wait".
+[^6-5]: The Hebrew text is written "warned it" but read "warned him".
+[^6-6]: Literally "The heart of the king of Aram was storm-tossed".
+[^6-7]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^6-8]: Hebrew *sanverim*, a sudden blinding or confusion of sight. The word is used elsewhere only in Genesis 19:11.
+[^6-9]: That is, prisoners of war were not killed, even those taken in battle.
+[^6-10]: About 2 pounds (0.9 kg) of silver. A shekel was about ⅖ ounce (11.5 grams).
+[^6-11]: A kab was about 1¼ quarts (1.2 liters), so a quarter of a kab was about a cup (0.3 liter).
+[^6-12]: The Hebrew text is written *chare-yonim*, "dove's dung", but read *divyonim*, a more polite word with the same meaning. It may have been a popular name for some cheap food, such as wild seeds or bulbs.
+[^6-13]: Or "No! Let Yahweh help you. How can I help you?"
+[^6-14]: Literally "So may God do to me, and so may he add", a solemn oath.
+[^6-15]: Or "this murderer". In Hebrew "son of" can describe a person's character.
+[^6-16]: The speaker is not named. It may be the king, who was following his messenger (verse 32; compare 7:2, 17).
+
+## Chapter 7
+
+*Status: draft*
+
+**1** Elisha said, "Hear the word of Yahweh.[^7-1] This is what Yahweh says: About this time tomorrow, a seah[^7-2] of fine flour will sell for a shekel,[^7-3] and two seahs of barley for a shekel, at the gate of Samaria."
+
+**2** The officer[^7-4] on whose arm the king leaned answered the man of God, "Look, even if Yahweh were to make windows in the sky,[^7-5] could this happen?" Elisha said, "You will see it with your own eyes, but you will not eat any of it."
+
+**3** Now there were four men with a skin disease[^7-6] at the entrance to the gate. They said to one another, "Why are we sitting here until we die?
+
+**4** If we say, 'Let's go into the city,' the famine is in the city, and we will die there. And if we stay here, we will die. So come, let's go over to the camp of the Arameans.[^7-7] If they let us live, we will live, and if they kill us, we will die."
+
+**5** So they got up at dusk to go to the Aramean camp. When they came to the edge of the Aramean camp, there was no one there.
+
+**6** For the Lord[^7-8] had made the Aramean army hear the sound of chariots and the sound of horses, the sound of a great army. They had said to one another, "Look, the king of Israel has hired the kings of the Hittites[^7-9] and the kings of Egypt to attack us."
+
+**7** So they had got up and fled at dusk. They had abandoned their tents, their horses and their donkeys, the camp just as it was, and fled for their lives.
+
+**8** When these men with skin disease came to the edge of the camp, they went into one tent and ate and drank. They carried off silver, gold and clothes from it, and went and hid them. Then they came back and went into another tent, carried things off from it, and went and hid them too.
+
+**9** Then they said to one another, "We are not doing right. This is a day of good news, and we are keeping quiet. If we wait until morning light, we will be punished.[^7-10] So come, let's go and tell the king's household."
+
+**10** So they went and called out to the gatekeepers of the city and told them, "We went to the Aramean camp, and there was no one there, not a human voice. There were only the horses tied up, the donkeys tied up, and the tents just as they were."
+
+**11** The gatekeepers shouted the news, and it was reported inside the king's palace.
+
+**12** The king got up in the night and said to his officers, "Let me tell you what the Arameans have done to us. They know that we are starving, so they have left the camp to hide in the open country. They are thinking, 'When they come out of the city, we will take them alive and get into the city.'"
+
+**13** One of his officers answered, "Let some men take five of the horses that are left, the ones still left in the city. They are like the whole crowd of Israel who are left in it; they are like the whole crowd of Israel who have already died.[^7-11] Let us send them and see."
+
+**14** So they took two chariots with their horses, and the king sent them after the Aramean army, saying, "Go and see."
+
+**15** They followed them as far as the Jordan, and the whole road was strewn with clothes and equipment that the Arameans had thrown away in their haste. The messengers returned and told the king.
+
+**16** Then the people went out and plundered the Aramean camp. So a seah of fine flour sold for a shekel, and two seahs of barley for a shekel, as Yahweh had said.
+
+**17** Now the king had put the officer on whose arm he leaned in charge of the gate. The people trampled him in the gate, and he died, just as the man of God had said when the king came down to him.[^7-12]
+
+**18** For when the man of God had said to the king, "Two seahs of barley will sell for a shekel, and a seah of fine flour for a shekel, about this time tomorrow at the gate of Samaria,"
+
+**19** the officer had answered the man of God, "Look, even if Yahweh were to make windows in the sky, could such a thing happen?" And Elisha had said, "You will see it with your own eyes, but you will not eat any of it."
+
+**20** And that is what happened to him. The people trampled him in the gate, and he died.
+
+[^7-1]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^7-2]: A seah was about 7 quarts (7 liters).
+[^7-3]: A shekel was a weight of silver, about ⅖ ounce (11.5 grams).
+[^7-4]: Hebrew *shalish*, literally "third", probably first the third man in a chariot and then a high-ranking officer or aide. Also in verses 17 and 19.
+[^7-5]: Openings in the sky through which rain falls (Genesis 7:11). Also in verse 19.
+[^7-6]: Hebrew *metsora'im*: on this disease, see 5:1. Also in verse 8.
+[^7-7]: Literally "let's fall to the camp of Aram", that is, surrender to them.
+[^7-8]: Hebrew *Adonai*, "the Lord", not the name Yahweh.
+[^7-9]: The kings of the small states in northern Syria that were heirs of the Hittite empire.
+[^7-10]: Literally "guilt will find us".
+[^7-11]: That is, whatever happens to them, they are no worse off than everyone else in the city.
+[^7-12]: See 6:32–33.
+
+## Chapter 8
+
+*Status: draft*
+
+**1** Now Elisha had said to the woman whose son he had brought back to life,[^8-1] "Get up and go, you and your household, and live wherever you can, for Yahweh[^8-2] has called for a famine, and it will come on the land for seven years."
+
+**2** The woman got up and did as the man of God had said. She went with her household and lived in the land of the Philistines for seven years.
+
+**3** At the end of the seven years, the woman returned from the land of the Philistines and went to appeal to the king for her house and her land.
+
+**4** Now the king was talking with Gehazi, the servant of the man of God, and saying, "Tell me all the great things Elisha has done."
+
+**5** Just as Gehazi was telling the king how Elisha had brought the dead back to life, the woman whose son he had brought back to life came to appeal to the king for her house and her land. Gehazi said, "My lord the king, this is the woman, and this is her son whom Elisha brought back to life."
+
+**6** The king questioned the woman, and she told him about it. Then the king assigned an official[^8-3] to her and said, "Give back everything that was hers, along with all the produce of her land from the day she left the country until now."
+
+**7** Elisha came to Damascus. Ben-hadad king of Aram was sick, and he was told, "The man of God has come here."
+
+**8** The king said to Hazael, "Take a gift with you and go to meet the man of God. Consult Yahweh through him and ask, 'Will I recover from this illness?'"
+
+**9** So Hazael went to meet him, taking with him a gift of every good thing of Damascus, forty camel loads. He came and stood before him and said, "Your son Ben-hadad king of Aram has sent me to you to ask, 'Will I recover from this illness?'"
+
+**10** Elisha said to him, "Go and tell him, 'You will certainly recover.'[^8-4] But Yahweh has shown me that he will certainly die."
+
+**11** He kept his face fixed and stared until the other was ashamed.[^8-5] Then the man of God wept.
+
+**12** Hazael said, "Why is my lord weeping?" He said, "Because I know the harm you will do to the Israelites. You will set their fortresses on fire, kill their young men with the sword, dash their little children to pieces and rip open their pregnant women."
+
+**13** Hazael said, "But what is your servant, a mere dog, that he should do this great thing?" Elisha said, "Yahweh has shown me that you will be king over Aram."
+
+**14** Then Hazael left Elisha and went back to his master, who said to him, "What did Elisha say to you?" He said, "He told me you would certainly recover."
+
+**15** But the next day he took the blanket,[^8-6] dipped it in water and spread it over the king's face, and he died. And Hazael became king in his place.
+
+**16** In the fifth year of Joram[^8-7] son of Ahab king of Israel, when Jehoshaphat was king of Judah,[^8-8] Jehoram son of Jehoshaphat king of Judah became king.
+
+**17** He was thirty-two years old when he became king, and he reigned eight years in Jerusalem.
+
+**18** He walked in the way of the kings of Israel, as the house of Ahab had done, for a daughter of Ahab was his wife. He did what was evil in the eyes of Yahweh.
+
+**19** But Yahweh was not willing to destroy Judah, for the sake of his servant David, since he had promised to give a lamp[^8-9] to him and to his descendants forever.
+
+**20** In his days Edom rebelled against Judah's rule[^8-10] and set up a king of their own.
+
+**21** So Joram[^8-11] crossed over to Zair[^8-12] with all his chariots. He rose by night and struck the Edomites who had surrounded him and the commanders of the chariots, and the army fled to their homes.[^8-13]
+
+**22** So Edom has been in rebellion against Judah's rule to this day. Libnah also rebelled at that time.
+
+**23** As for the rest of the acts of Joram, and all that he did, are they not written in the book of the annals of the kings of Judah?[^8-14]
+
+**24** Joram slept with his ancestors[^8-15] and was buried with his ancestors in the City of David. And his son Ahaziah became king in his place.
+
+**25** In the twelfth year of Joram son of Ahab king of Israel, Ahaziah son of Jehoram king of Judah became king.[^8-16]
+
+**26** Ahaziah was twenty-two years old when he became king,[^8-17] and he reigned one year in Jerusalem. His mother's name was Athaliah daughter of Omri king of Israel.[^8-18]
+
+**27** He walked in the way of the house of Ahab and did what was evil in the eyes of Yahweh, as the house of Ahab had done, for he was related by marriage to the house of Ahab.
+
+**28** He went with Joram son of Ahab to war against Hazael king of Aram at Ramoth-gilead, and the Arameans wounded Joram.
+
+**29** King Joram went back to Jezreel to recover from the wounds the Arameans had given him at Ramah,[^8-19] when he fought against Hazael king of Aram. And Ahaziah son of Jehoram king of Judah went down to Jezreel to see Joram son of Ahab, because he was wounded.
+
+[^8-1]: See 4:8–37.
+[^8-2]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^8-3]: Hebrew *saris*, a court official. The word can also mean a eunuch.
+[^8-4]: The Hebrew text is written "Go, say, 'You will not live'", but read "Go, say to him, 'You will certainly live.'" The words "not" and "to him" sound the same in Hebrew (*lo*).
+[^8-5]: Literally "He made his face stand and set it until shame." The Hebrew does not say who stared and who was ashamed. Probably Elisha stared at Hazael.
+[^8-6]: Hebrew *makhber*, a word found only here: a cloth or blanket. The subject of the verb is not named; it is probably Hazael.
+[^8-7]: The king called Jehoram in 1:17 and 3:1. *Joram* is a shorter form of the same name. Also in verses 25, 28 and 29.
+[^8-8]: Literally "and Jehoshaphat king of Judah". These words are missing in some Septuagint manuscripts and in the Syriac.
+[^8-9]: That is, a descendant on the throne to continue his line (1 Kings 11:36; 15:4).
+[^8-10]: Literally "from under the hand of Judah". Also in verse 22.
+[^8-11]: Jehoram king of Judah (verse 16). *Joram* is a shorter form of the same name. Also in verses 23–24.
+[^8-12]: A place not otherwise known.
+[^8-13]: Literally "to their tents". The Hebrew does not make clear whose army this was, Joram's or Edom's.
+[^8-14]: Literally "the book of the matters of the days of the kings of Judah", an official royal record that has not survived. It is not the biblical book of Chronicles.
+[^8-15]: Literally "lay down with his fathers", a way of speaking of death.
+[^8-16]: 9:29 dates Ahaziah's accession to the eleventh year of Joram.
+[^8-17]: 2 Chronicles 22:2 gives his age as forty-two.
+[^8-18]: In Hebrew "daughter" can mean any female descendant. Verse 18 calls Jehoram's wife a daughter of Ahab, Omri's son.
+[^8-19]: That is, Ramoth-gilead (verse 28).
+
+## Chapter 9
+
+*Status: draft*
+
+**1** Elisha the prophet called one of the company of prophets[^9-1] and said to him, "Tuck up your robe,[^9-2] take this flask of oil with you and go to Ramoth-gilead.
+
+**2** When you get there, look for Jehu son of Jehoshaphat son of Nimshi. Go in, get him to leave his companions,[^9-3] and take him into an inner room.
+
+**3** Then take the flask of oil, pour it on his head and say, 'This is what Yahweh[^9-4] says: I anoint you king over Israel.' Then open the door and run. Do not wait."
+
+**4** So the young man, the young prophet,[^9-5] went to Ramoth-gilead.
+
+**5** When he arrived, the commanders of the army were sitting together. He said, "I have a message for you, commander." Jehu said, "For which one of us?" He said, "For you, commander."
+
+**6** Jehu got up and went into the house, and the young man poured the oil on his head and said to him, "This is what Yahweh, the God of Israel, says: I anoint you king over the people of Yahweh, over Israel.
+
+**7** You are to strike down the house of Ahab your master, and I will avenge on Jezebel the blood of my servants the prophets and the blood of all the servants of Yahweh.[^9-6]
+
+**8** The whole house of Ahab will perish. I will cut off from Ahab every male[^9-7] in Israel, whether slave or free.[^9-8]
+
+**9** I will make the house of Ahab like the house of Jeroboam son of Nebat and like the house of Baasha son of Ahijah.[^9-9]
+
+**10** And the dogs will eat Jezebel on the plot of ground at Jezreel, and no one will bury her."[^9-10] Then he opened the door and ran.
+
+**11** When Jehu came out to his master's officers, someone said to him, "Is everything all right? Why did this madman come to you?" He said to them, "You know the man and the way he talks."
+
+**12** They said, "That's a lie! Tell us." He said, "This is what he said to me: 'This is what Yahweh says: I anoint you king over Israel.'"
+
+**13** At once each of them took his cloak and spread it under him on the bare steps.[^9-11] They blew the ram's horn[^9-12] and said, "Jehu is king!"
+
+**14** So Jehu son of Jehoshaphat son of Nimshi conspired against Joram. Now Joram, with all Israel, had been guarding Ramoth-gilead against Hazael king of Aram,
+
+**15** but King Jehoram[^9-13] had gone back to Jezreel to recover from the wounds the Arameans had given him when he fought against Hazael king of Aram. Jehu said, "If you agree,[^9-14] let no one slip out of the city to go and tell the news in Jezreel."
+
+**16** Then Jehu got into his chariot and went to Jezreel, because Joram was lying there. And Ahaziah king of Judah had come down to see Joram.
+
+**17** The watchman standing on the tower in Jezreel saw Jehu's troops coming, and he said, "I see a company of troops." Jehoram said, "Take a horseman and send him to meet them, and let him ask, 'Is it peace?'"
+
+**18** So the horseman went to meet him and said, "This is what the king says: 'Is it peace?'" Jehu said, "What do you have to do with peace? Fall in behind me." The watchman reported, "The messenger has reached them, but he is not coming back."
+
+**19** Then the king sent a second horseman. He came to them and said, "This is what the king says: 'Is it peace?'" Jehu said, "What do you have to do with peace? Fall in behind me."
+
+**20** The watchman reported, "He has reached them, but he is not coming back. And the driving is like the driving of Jehu son of Nimshi, for he drives like a madman."
+
+**21** Jehoram said, "Harness the chariot." When his chariot was harnessed, Jehoram king of Israel and Ahaziah king of Judah set out, each in his own chariot. They went out to meet Jehu and found him at the plot of ground belonging to Naboth the Jezreelite.
+
+**22** When Jehoram saw Jehu, he said, "Is it peace, Jehu?" He answered, "How can there be peace, as long as the prostitution[^9-15] and the many sorceries of your mother Jezebel go on?"
+
+**23** Jehoram turned his chariot around[^9-16] and fled, calling out to Ahaziah, "Treachery, Ahaziah!"
+
+**24** Then Jehu drew his bow with all his strength[^9-17] and shot Jehoram between the shoulders. The arrow came out through his heart, and he slumped down in his chariot.
+
+**25** Jehu said to Bidkar his officer,[^9-18] "Pick him up and throw him onto the plot of ground belonging to Naboth the Jezreelite. Remember how you and I were riding side by side behind Ahab his father, when Yahweh pronounced this oracle[^9-19] against him:
+
+**26** 'As surely as I saw the blood of Naboth and the blood of his sons yesterday, declares Yahweh, I will repay you on this plot of ground, declares Yahweh.'[^9-20] So now pick him up and throw him onto the plot of ground, as Yahweh said."
+
+**27** When Ahaziah king of Judah saw this, he fled by the road to Beth-haggan.[^9-21] Jehu chased after him and said, "Strike him down too!" And they struck him[^9-22] in his chariot on the ascent to Gur, which is near Ibleam. He fled to Megiddo and died there.
+
+**28** His servants carried him in a chariot to Jerusalem and buried him in his tomb with his ancestors in the City of David.
+
+**29** Ahaziah had become king over Judah in the eleventh year of Joram son of Ahab.[^9-23]
+
+**30** Then Jehu came to Jezreel. When Jezebel heard about it, she painted her eyes,[^9-24] arranged her hair and looked down through the window.
+
+**31** As Jehu came in through the gate, she said, "Is it peace, Zimri, murderer of your master?"[^9-25]
+
+**32** He looked up at the window and said, "Who is on my side? Who?" Two or three officials[^9-26] looked down at him.
+
+**33** He said, "Throw her down!"[^9-27] So they threw her down, and some of her blood spattered on the wall and on the horses, and he trampled her.[^9-28]
+
+**34** Then he went in and ate and drank. He said, "See to this cursed woman and bury her, for she was a king's daughter."[^9-29]
+
+**35** But when they went to bury her, they found nothing of her except the skull, the feet and the palms of her hands.
+
+**36** They came back and told him, and he said, "This is the word of Yahweh, which he spoke through his servant Elijah the Tishbite: 'On the plot of ground at Jezreel the dogs will eat the flesh of Jezebel.[^9-30]
+
+**37** Jezebel's corpse will be like dung on the surface of the field on the plot of ground at Jezreel, so that no one will be able to say, "This is Jezebel."'"
+
+[^9-1]: See 2:3.
+[^9-2]: Literally "Gird up your loins", that is, tuck the long robe into the belt, ready to travel fast.
+[^9-3]: Literally "his brothers".
+[^9-4]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^9-5]: Literally "the young man, the young man the prophet".
+[^9-6]: Literally "from the hand of Jezebel". On her killing of Yahweh's prophets, see 1 Kings 18:4, 13.
+[^9-7]: Literally "everyone who urinates against a wall", a crude expression for a male.
+[^9-8]: The meaning of the Hebrew pair, literally "shut up and left", is uncertain. It probably means "everyone", whether slave or free, or whether under protection or not.
+[^9-9]: Both royal houses were wiped out (1 Kings 15:27–30; 16:8–13).
+[^9-10]: See Elijah's words in 1 Kings 21:23.
+[^9-11]: Literally "on the bone of the steps". The meaning is uncertain: perhaps "on the bare steps" or "at the top of the steps".
+[^9-12]: Hebrew *shofar*, a trumpet made from a ram's horn.
+[^9-13]: Joram (verse 14). *Joram* is the shorter form of the name *Jehoram*. In verses 14–29 the Hebrew uses both forms of this king's name.
+[^9-14]: Literally "If it is your soul", that is, your wish.
+[^9-15]: An image for the worship of other gods.
+[^9-16]: Literally "Jehoram turned his hands", that is, pulled the reins round.
+[^9-17]: Literally "filled his hand with the bow".
+[^9-18]: Hebrew *shalish*: see 7:2.
+[^9-19]: Hebrew *massa*, "burden", often used of a prophet's message of judgment.
+[^9-20]: See 1 Kings 21:19. Naboth's sons are not mentioned there.
+[^9-21]: Or "the garden house".
+[^9-22]: The Hebrew does not have "And they struck him". The words are supplied, as in the Syriac and the Vulgate. Literally "Him too, strike him in the chariot at the ascent of Gur, which is by Ibleam."
+[^9-23]: 8:25 dates Ahaziah's accession to the twelfth year of Joram.
+[^9-24]: Literally "she put her eyes in *pukh*", a dark eye paint (kohl).
+[^9-25]: Zimri killed King Elah and reigned only seven days before he died (1 Kings 16:8–20).
+[^9-26]: Hebrew *sarisim*, court officials. The word can also mean eunuchs.
+[^9-27]: The Hebrew text is written "Throw him down" but read "Throw her down".
+[^9-28]: That is, Jehu trampled her with his horses and chariot.
+[^9-29]: Jezebel was the daughter of Ethbaal king of the Sidonians (1 Kings 16:31).
+[^9-30]: 1 Kings 21:23.

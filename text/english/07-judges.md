@@ -727,3 +727,530 @@
 [^8-22]: *Baal*, "lord, master, owner", was the name of the Canaanite storm god. The plural refers to his local forms, or to other gods in general.
 [^8-23]: "Baal of the covenant". Compare 9:4, 46.
 [^8-24]: Hebrew *chesed*: loyal, faithful love or kindness.
+
+## Chapter 9
+
+*Status: draft*
+
+**1** Abimelech son of Jerubbaal went to Shechem, to his mother's brothers, and he said to them and to the whole clan of his mother's family,[^9-1]
+
+**2** "Please ask all the leaders of Shechem,[^9-2] 'Which is better for you: for seventy men, all the sons of Jerubbaal, to rule over you, or for one man to rule over you?' Remember that I am your own flesh and blood."[^9-3]
+
+**3** His mother's brothers spoke all these words on his behalf to all the leaders of Shechem, and their hearts leaned toward Abimelech, for they said, "He is our brother."
+
+**4** They gave him seventy pieces of silver[^9-4] from the temple of Baal-berith,[^9-5] and with it Abimelech hired worthless and reckless men, who followed him.
+
+**5** He went to his father's house at Ophrah and killed his brothers, the sons of Jerubbaal, seventy men, on one stone. But Jotham, the youngest son of Jerubbaal, was left alive, because he hid.
+
+**6** Then all the leaders of Shechem and all Beth-millo[^9-6] gathered together. They went and made Abimelech king beside the oak of the standing stone[^9-7] at Shechem.
+
+**7** When Jotham was told about it, he went and stood on the top of Mount Gerizim and called out in a loud voice.[^9-8] He said to them, "Listen to me, leaders of Shechem, so that God may listen to you.
+
+**8** Once the trees went out to anoint a king over themselves. They said to the olive tree, 'Reign over us.'
+
+**9** But the olive tree said to them, 'Should I give up my rich oil, by which gods and people are honored,[^9-9] and go to sway over the trees?'
+
+**10** Then the trees said to the fig tree, 'You come and reign over us.'
+
+**11** But the fig tree said to them, 'Should I give up my sweetness and my good fruit, and go to sway over the trees?'
+
+**12** Then the trees said to the vine, 'You come and reign over us.'
+
+**13** But the vine said to them, 'Should I give up my wine, which cheers gods and people, and go to sway over the trees?'
+
+**14** Then all the trees said to the thornbush,[^9-10] 'You come and reign over us.'
+
+**15** The thornbush said to the trees, 'If you really mean to anoint me king over you, come and take shelter in my shade. But if not, let fire come out of the thornbush and consume the cedars of Lebanon.'
+
+**16** Now then, did you act in good faith and with integrity when you made Abimelech king? Have you dealt well with Jerubbaal and his family, and done to him as his deeds deserved?[^9-11]
+
+**17** My father fought for you. He risked his life[^9-12] and rescued you from the power of Midian.
+
+**18** But today you have risen up against my father's family. You have killed his sons, seventy men, on one stone, and you have made Abimelech, the son of his slave woman, king over the leaders of Shechem, because he is your brother.
+
+**19** So if you have acted in good faith and with integrity toward Jerubbaal and his family today, then may you find joy in Abimelech, and may he find joy in you.
+
+**20** But if not, let fire come out from Abimelech and consume the leaders of Shechem and Beth-millo, and let fire come out from the leaders of Shechem and from Beth-millo and consume Abimelech."
+
+**21** Then Jotham ran away and escaped. He went to Beer and lived there, out of the reach of his brother Abimelech.
+
+**22** Abimelech ruled over Israel for three years.
+
+**23** Then God sent an evil spirit[^9-13] between Abimelech and the leaders of Shechem, and the leaders of Shechem betrayed Abimelech.
+
+**24** This happened so that the violence done to the seventy sons of Jerubbaal would come back, and their blood would be laid on their brother Abimelech, who killed them, and on the leaders of Shechem, who helped him[^9-14] kill his brothers.
+
+**25** The leaders of Shechem set men to lie in wait against him on the mountaintops, and they robbed everyone who passed by them on the road. And Abimelech was told about it.
+
+**26** Gaal son of Ebed came with his brothers, and they moved into Shechem, and the leaders of Shechem put their trust in him.
+
+**27** They went out into the fields, gathered the grapes from their vineyards and trod them, and held a festival of praise.[^9-15] They went into the temple of their god, ate and drank, and cursed Abimelech.
+
+**28** Gaal son of Ebed said, "Who is Abimelech, and who is Shechem,[^9-16] that we should serve him? Isn't he the son of Jerubbaal, and isn't Zebul his officer? Serve the men of Hamor, the father of Shechem![^9-17] Why should we serve him?
+
+**29** If only this people were under my command![^9-18] Then I would get rid of Abimelech." And he said to Abimelech,[^9-19] "Muster your army and come out!"
+
+**30** When Zebul, the governor of the city, heard what Gaal son of Ebed had said, he was furious.
+
+**31** He sent messengers to Abimelech secretly,[^9-20] saying, "Gaal son of Ebed and his brothers have come to Shechem, and they are stirring up the city against you.
+
+**32** Now get up during the night, you and the troops with you, and lie in wait in the fields.
+
+**33** In the morning, as soon as the sun rises, get up early and rush against the city. When he and the people with him come out against you, do to him whatever you are able."[^9-21]
+
+**34** So Abimelech and all the troops with him got up during the night and lay in wait against Shechem in four companies.
+
+**35** Gaal son of Ebed went out and stood at the entrance of the city gate, and Abimelech and the troops with him rose from their hiding place.
+
+**36** When Gaal saw the troops, he said to Zebul, "Look, people are coming down from the mountaintops!" Zebul said to him, "You are seeing the shadows of the mountains as if they were men."
+
+**37** Gaal spoke again and said, "Look, people are coming down from the center of the land,[^9-22] and one company is coming by way of the Diviners' Oak."[^9-23]
+
+**38** Zebul said to him, "Where is your big talk now,[^9-24] you who said, 'Who is Abimelech, that we should serve him?' Aren't these the people you despised? Go out now and fight them!"
+
+**39** So Gaal went out at the head of the leaders of Shechem[^9-25] and fought against Abimelech.
+
+**40** Abimelech chased him, and he fled before him. Many fell wounded, all the way to the entrance of the gate.
+
+**41** Abimelech stayed at Arumah, and Zebul drove out Gaal and his brothers, so that they could not stay in Shechem.
+
+**42** The next day the people went out into the fields, and Abimelech was told about it.
+
+**43** He took his troops, divided them into three companies, and lay in wait in the fields. When he saw the people coming out of the city, he rose against them and struck them down.
+
+**44** Abimelech and the company[^9-26] with him rushed forward and took their stand at the entrance of the city gate, while the two other companies rushed on all who were in the fields and struck them down.
+
+**45** Abimelech fought against the city all that day. He captured the city and killed the people in it. Then he tore down the city and sowed it with salt.[^9-27]
+
+**46** When all the leaders of the Tower of Shechem heard of it, they went into the stronghold[^9-28] of the temple of El-berith.[^9-29]
+
+**47** Abimelech was told that all the leaders of the Tower of Shechem had gathered together.
+
+**48** So Abimelech went up Mount Zalmon, he and all the troops with him. Abimelech took an axe[^9-30] in his hand and cut a branch from the trees. He lifted it up and put it on his shoulder, and he said to the troops with him, "What you have seen me do, hurry and do the same."
+
+**49** So all the troops each cut down a branch and followed Abimelech. They piled them against the stronghold and set the stronghold on fire over the people inside. So all the people of the Tower of Shechem also died, about a thousand men and women.
+
+**50** Then Abimelech went to Thebez. He camped against Thebez and captured it.
+
+**51** But there was a strong tower inside the city, and all the men and women, all the leaders of the city, fled there. They shut themselves in and went up on the roof of the tower.
+
+**52** Abimelech came to the tower and attacked it. He came up to the entrance of the tower to set it on fire.
+
+**53** But a woman threw an upper millstone[^9-31] down on Abimelech's head and cracked his skull.
+
+**54** He quickly called the young man who carried his weapons and said to him, "Draw your sword and kill me, so that people will not say of me, 'A woman killed him.'" So his young man ran him through, and he died.
+
+**55** When the men of Israel saw that Abimelech was dead, they all went home.[^9-32]
+
+**56** So God paid back Abimelech for the evil he had done to his father by killing his seventy brothers.
+
+**57** God also brought all the evil of the men of Shechem back on their own heads, and the curse of Jotham son of Jerubbaal came upon them.
+
+[^9-1]: Literally "the whole clan of the house of his mother's father".
+[^9-2]: Literally "Please speak in the ears of all the lords of Shechem". Hebrew *ba'alei Shekhem*, "the lords of Shechem", were its leading citizens or landowners. Also in the rest of the chapter.
+[^9-3]: Literally "your bone and your flesh".
+[^9-4]: Literally "seventy of silver", probably seventy shekels, about 28 ounces (800 grams).
+[^9-5]: "Baal of the covenant". See 8:33.
+[^9-6]: Literally "the house of Millo". *Millo* means "filling", probably an earth-filled terrace or fortress. Also in verse 20.
+[^9-7]: Or "the oak of the pillar". Compare Joshua 24:26.
+[^9-8]: Literally "lifted up his voice and called".
+[^9-9]: Or "by which God and people are honored". Also in verse 13.
+[^9-10]: Hebrew *atad*, a thorny shrub. Also in verse 15.
+[^9-11]: Literally "And now, if you have acted in truth and integrity and made Abimelech king, and if you have done good with Jerubbaal and with his house, and if you have done to him as the deeds of his hands deserved …". The sentence is interrupted in verses 17–18 and taken up again in verse 19.
+[^9-12]: Literally "he threw his life out in front".
+[^9-13]: Or "a spirit of ill will". Hebrew *ruach*, "spirit, wind, breath".
+[^9-14]: Literally "who strengthened his hands".
+[^9-15]: Hebrew *hillulim*, a festival of praise at the harvest (Leviticus 19:24).
+[^9-16]: The meaning is uncertain. Perhaps "who is Shechem's ruler".
+[^9-17]: Hamor was the founder of Shechem in Genesis 33:19; 34:2.
+[^9-18]: Literally "Who will give this people into my hand?"
+[^9-19]: The Septuagint reads "And I would say to Abimelech".
+[^9-20]: Or "at Tormah". The Hebrew word *betormah* is uncertain. It may be a place name, perhaps the Arumah of verse 41.
+[^9-21]: Literally "as your hand finds".
+[^9-22]: Literally "the navel of the land", perhaps the name of a high place near Shechem.
+[^9-23]: Hebrew *elon me'onenim*, "the oak of those who practice divination".
+[^9-24]: Literally "Where is your mouth now".
+[^9-25]: Or "in full view of the leaders of Shechem".
+[^9-26]: Literally "the companies".
+[^9-27]: Probably a symbolic act, marking the place as cursed and barren.
+[^9-28]: Hebrew *tseriach*, a rare word, perhaps a vault or an inner chamber. Also in verse 49.
+[^9-29]: "God of the covenant", probably the same god as Baal-berith (verse 4).
+[^9-30]: Literally "the axes".
+[^9-31]: The upper, movable stone of a hand mill, small enough to be carried.
+[^9-32]: Literally "went each to his place".
+
+## Chapter 10
+
+*Status: draft*
+
+**1** After Abimelech, Tola son of Puah, son of Dodo,[^10-1] a man of Issachar, rose to save Israel. He lived in Shamir in the hill country of Ephraim.
+
+**2** He judged Israel for twenty-three years. Then he died and was buried in Shamir.
+
+**3** After him rose Jair the Gileadite, and he judged Israel for twenty-two years.
+
+**4** He had thirty sons who rode on thirty donkeys, and they had thirty towns.[^10-2] To this day they are called Havvoth-jair,[^10-3] and they are in the land of Gilead.
+
+**5** Jair died and was buried in Kamon.
+
+**6** Once again the Israelites did what was evil in the sight of Yahweh.[^10-4] They served the Baals and the Ashtoreths,[^10-5] the gods of Aram, the gods of Sidon, the gods of Moab, the gods of the Ammonites and the gods of the Philistines. They abandoned Yahweh and did not serve him.
+
+**7** So Yahweh's anger burned against Israel, and he sold them into the power of the Philistines and of the Ammonites.
+
+**8** That year they shattered and crushed the Israelites. For eighteen years they oppressed all the Israelites who were on the other side of the Jordan, in the land of the Amorites, in Gilead.[^10-6]
+
+**9** The Ammonites also crossed the Jordan to fight against Judah, Benjamin and the house of Ephraim, and Israel was in great distress.
+
+**10** Then the Israelites cried out to Yahweh, "We have sinned against you, for we have abandoned our God and served the Baals."
+
+**11** Yahweh said to the Israelites, "Didn't I save you from the Egyptians, the Amorites, the Ammonites and the Philistines?[^10-7]
+
+**12** When the Sidonians, Amalek and Maon[^10-8] oppressed you, and you cried out to me, I saved you from their power.
+
+**13** But you have abandoned me and served other gods. So I will not save you again.
+
+**14** Go and cry out to the gods you have chosen. Let them save you in your time of trouble."
+
+**15** The Israelites said to Yahweh, "We have sinned. Do to us whatever you think best. Only please rescue us today."
+
+**16** So they got rid of the foreign gods among them and served Yahweh, and he could no longer bear Israel's misery.[^10-9]
+
+**17** The Ammonites were called to arms and camped in Gilead, and the Israelites gathered and camped at Mizpah.
+
+**18** The people, the leaders of Gilead, said to one another, "Whoever will begin the fight against the Ammonites will be head over all the people living in Gilead."
+
+[^10-1]: *Dodo* can also be read "his uncle".
+[^10-2]: In Hebrew the words for "donkeys" and "towns" sound alike here.
+[^10-3]: "The tent villages of Jair". Compare Numbers 32:41; Deuteronomy 3:14.
+[^10-4]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^10-5]: *Baal* was the Canaanite storm god, and *Ashtoreth* (Astarte) a Canaanite goddess. The plurals refer to their local forms, or to gods and goddesses in general. See 2:11, 13.
+[^10-6]: Literally "They shattered and crushed the Israelites in that year, eighteen years, all the Israelites who were beyond the Jordan …".
+[^10-7]: Literally "Was it not from Egypt and from the Amorites and from the Ammonites and from the Philistines?" The sentence is unfinished in Hebrew.
+[^10-8]: The Septuagint reads "Midian".
+[^10-9]: Literally "his soul became short with the misery of Israel".
+
+## Chapter 11
+
+*Status: draft*
+
+**1** Jephthah the Gileadite was a mighty warrior. He was the son of a prostitute, and Gilead was Jephthah's father.
+
+**2** Gilead's wife also bore him sons. When his wife's sons grew up, they drove Jephthah out and said to him, "You will have no inheritance in our father's family, for you are the son of another woman."
+
+**3** So Jephthah fled from his brothers and lived in the land of Tob. Worthless men gathered around Jephthah and went out with him.[^11-1]
+
+**4** Some time later the Ammonites made war on Israel.
+
+**5** When the Ammonites made war on Israel, the elders of Gilead went to bring Jephthah back from the land of Tob.
+
+**6** They said to Jephthah, "Come and be our commander, so that we can fight against the Ammonites."
+
+**7** Jephthah said to the elders of Gilead, "Didn't you hate me and drive me out of my father's house? Why have you come to me now, when you are in trouble?"
+
+**8** The elders of Gilead said to Jephthah, "That is why we have come back to you now. Come with us and fight against the Ammonites, and you will be our head, over all the people living in Gilead."
+
+**9** Jephthah said to the elders of Gilead, "If you bring me back to fight against the Ammonites, and Yahweh[^11-2] hands them over to me, I will be your head."[^11-3]
+
+**10** The elders of Gilead said to Jephthah, "Yahweh is our witness: we will do just as you say."[^11-4]
+
+**11** So Jephthah went with the elders of Gilead, and the people made him head and commander over them. And Jephthah spoke all his words before Yahweh at Mizpah.
+
+**12** Then Jephthah sent messengers to the king of the Ammonites, saying, "What do you have against me,[^11-5] that you have come to me to fight against my land?"
+
+**13** The king of the Ammonites said to Jephthah's messengers, "Because Israel took my land when they came up from Egypt, from the Arnon to the Jabbok and to the Jordan. Now give it back peacefully."
+
+**14** Jephthah sent messengers again to the king of the Ammonites,
+
+**15** and they said to him, "This is what Jephthah says: Israel did not take the land of Moab or the land of the Ammonites.
+
+**16** When they came up from Egypt, Israel went through the wilderness to the Red Sea[^11-6] and came to Kadesh.
+
+**17** Israel sent messengers to the king of Edom, saying, 'Please let me pass through your land.' But the king of Edom would not listen. They also sent to the king of Moab, but he refused. So Israel stayed at Kadesh.
+
+**18** Then they traveled through the wilderness and went around the land of Edom and the land of Moab. They came to the east side of the land of Moab and camped on the other side of the Arnon. They did not enter the territory of Moab, for the Arnon was the border of Moab.
+
+**19** Then Israel sent messengers to Sihon king of the Amorites, the king of Heshbon, and Israel said to him, 'Please let us pass through your land to our place.'
+
+**20** But Sihon did not trust Israel to pass through his territory. Sihon gathered all his people and camped at Jahaz, and he fought against Israel.
+
+**21** Yahweh, the God of Israel, handed Sihon and all his people over to Israel, and they defeated them. So Israel took possession of all the land of the Amorites who lived in that land.
+
+**22** They took possession of all the territory of the Amorites, from the Arnon to the Jabbok, and from the wilderness to the Jordan.
+
+**23** So now that Yahweh, the God of Israel, has driven out the Amorites before his people Israel, are you to take possession of it?
+
+**24** Don't you take possession of whatever Chemosh your god[^11-7] gives you to possess? So we will take possession of everything that Yahweh our God has driven out before us.
+
+**25** Now, are you any better than Balak son of Zippor, king of Moab? Did he ever quarrel with Israel, or ever fight against them?
+
+**26** While Israel lived in Heshbon and its villages, in Aroer and its villages, and in all the towns along the Arnon for three hundred years, why didn't you take them back during that time?
+
+**27** I have not sinned against you, but you are doing me wrong by making war on me. May Yahweh, the Judge, decide today between the Israelites and the Ammonites."
+
+**28** But the king of the Ammonites did not listen to the message that Jephthah sent him.
+
+**29** Then the Spirit of Yahweh[^11-8] came on Jephthah. He passed through Gilead and Manasseh. He passed through Mizpah of Gilead, and from Mizpah of Gilead he went on against the Ammonites.
+
+**30** Jephthah made a vow to Yahweh and said, "If you will hand the Ammonites over to me,
+
+**31** then whatever[^11-9] comes out of the doors of my house to meet me, when I return safely[^11-10] from the Ammonites, will belong to Yahweh, and I will offer it up as a burnt offering."
+
+**32** So Jephthah crossed over to the Ammonites to fight against them, and Yahweh handed them over to him.
+
+**33** He defeated them from Aroer to the neighborhood of Minnith, twenty towns, and as far as Abel-keramim.[^11-11] It was a very great defeat, and the Ammonites were brought low before the Israelites.
+
+**34** When Jephthah came to his home at Mizpah, there was his daughter coming out to meet him with tambourines and dancing! She was his only child; apart from her he had neither son nor daughter.
+
+**35** When he saw her, he tore his clothes and said, "Oh no, my daughter! You have brought me to my knees, and you have become the cause of my ruin! For I have opened my mouth to Yahweh, and I cannot take it back."
+
+**36** She said to him, "My father, you have opened your mouth to Yahweh. Do to me as you have promised,[^11-12] now that Yahweh has taken vengeance for you on your enemies, the Ammonites."
+
+**37** She said to her father, "Let this one thing be done for me. Leave me alone for two months, so that I may go and wander[^11-13] on the mountains and weep over my virginity,[^11-14] I and my friends."
+
+**38** He said, "Go." He sent her away for two months, and she went with her friends and wept over her virginity on the mountains.
+
+**39** At the end of two months she came back to her father, and he did to her as he had vowed. She had never slept with a man.[^11-15] It became a custom in Israel
+
+**40** that each year the young women of Israel would go out for four days to commemorate[^11-16] the daughter of Jephthah the Gileadite.
+
+[^11-1]: Perhaps "went out raiding with him". Literally "went out with him".
+[^11-2]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^11-3]: Or "will I really be your head?"
+[^11-4]: Literally "Yahweh will be the one who hears between us, if we do not do as you have said."
+[^11-5]: Literally "What is there to me and to you".
+[^11-6]: Hebrew *Yam Suph*, literally "Sea of Reeds", traditionally the Red Sea. Here it probably means the Gulf of Aqaba.
+[^11-7]: Chemosh was the god of the Moabites (Numbers 21:29). The god of the Ammonites was Milcom (1 Kings 11:5).
+[^11-8]: Or "the spirit of Yahweh". Hebrew *ruach*, "spirit, wind, breath".
+[^11-9]: Or "whoever". The Hebrew can refer to a person or an animal.
+[^11-10]: Literally "in peace".
+[^11-11]: *Abel-keramim* means "meadow of vineyards".
+[^11-12]: Literally "as has gone out from your mouth".
+[^11-13]: Literally "go down on the mountains".
+[^11-14]: That is, because she would die without marrying or having children. Also in verse 38.
+[^11-15]: Literally "She had not known a man", a Hebrew way of speaking of sexual relations.
+[^11-16]: Or "to lament for". The verb, also in 5:11, means to recount or retell.
+
+## Chapter 12
+
+*Status: draft*
+
+**1** The men of Ephraim were called to arms. They crossed over to Zaphon[^12-1] and said to Jephthah, "Why did you cross over to fight against the Ammonites without calling us to go with you? We will burn your house down over you!"
+
+**2** Jephthah said to them, "I and my people were in a bitter struggle with the Ammonites.[^12-2] I called you, but you did not save me from their power.
+
+**3** When I saw that you would not save me, I took my life in my hands and crossed over against the Ammonites, and Yahweh[^12-3] handed them over to me. So why have you come up against me today to fight me?"
+
+**4** Then Jephthah gathered all the men of Gilead and fought against Ephraim. The men of Gilead struck down Ephraim, because the Ephraimites had said, "You Gileadites are only fugitives from Ephraim, in the middle of Ephraim and Manasseh."[^12-4]
+
+**5** The Gileadites seized the fords of the Jordan leading to Ephraim. Whenever a fugitive from Ephraim said, "Let me cross over," the men of Gilead would ask him, "Are you an Ephraimite?" If he said, "No,"
+
+**6** they would say to him, "Then say 'Shibboleth.'" He would say "Sibboleth,"[^12-5] because he could not pronounce it correctly. Then they would seize him and kill him at the fords of the Jordan. At that time 42,000 Ephraimites fell.
+
+**7** Jephthah judged Israel for six years. Then Jephthah the Gileadite died and was buried in one of the towns of Gilead.[^12-6]
+
+**8** After him Ibzan of Bethlehem judged Israel.
+
+**9** He had thirty sons. He gave thirty daughters in marriage outside his clan, and he brought in thirty young women from outside for his sons.[^12-7] He judged Israel for seven years.
+
+**10** Ibzan died and was buried in Bethlehem.
+
+**11** After him Elon the Zebulunite judged Israel. He judged Israel for ten years.
+
+**12** Elon the Zebulunite died and was buried at Aijalon[^12-8] in the land of Zebulun.
+
+**13** After him Abdon son of Hillel the Pirathonite judged Israel.
+
+**14** He had forty sons and thirty grandsons, who rode on seventy donkeys. He judged Israel for eight years.
+
+**15** Abdon son of Hillel the Pirathonite died and was buried at Pirathon in the land of Ephraim, in the hill country of the Amalekites.
+
+[^12-1]: Or "northward". Zaphon was a town east of the Jordan (Joshua 13:27).
+[^12-2]: Literally "I was a man of great strife, I and my people, and the Ammonites."
+[^12-3]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^12-4]: The meaning of the Hebrew is uncertain. Literally "for they said, 'Fugitives of Ephraim are you, Gilead, in the middle of Ephraim, in the middle of Manasseh.'"
+[^12-5]: *Shibboleth* means "ear of grain" or "flowing stream". The Ephraimites evidently could not say the *sh* sound at the start of the word and said *s* instead, so their speech gave them away. From this story English has the word "shibboleth", a word or custom that marks out the members of a group.
+[^12-6]: Literally "in the towns of Gilead". The Septuagint reads "in his town in Gilead".
+[^12-7]: Literally "and thirty daughters he sent outside, and thirty daughters he brought in for his sons from outside".
+[^12-8]: In Hebrew, *Elon* and *Aijalon* are written with the same consonants.
+
+## Chapter 13
+
+*Status: draft*
+
+**1** Once again the Israelites did what was evil in the sight of Yahweh,[^13-1] and Yahweh handed them over to the Philistines for forty years.
+
+**2** There was a man from Zorah, of the clan of the Danites, whose name was Manoah. His wife was unable to have children,[^13-2] and she had borne none.
+
+**3** The angel of Yahweh[^13-3] appeared to the woman and said to her, "You are unable to have children and have borne none, but you will become pregnant and give birth to a son.
+
+**4** So now be careful not to drink wine or beer,[^13-4] and do not eat anything unclean.
+
+**5** For you will become pregnant and give birth to a son. No razor is to touch his head,[^13-5] for the boy will be a Nazirite[^13-6] dedicated to God from the womb. He will begin to save Israel from the power of the Philistines."
+
+**6** The woman went and told her husband, "A man of God came to me. He looked like the angel of God, very awe-inspiring. I did not ask him where he came from, and he did not tell me his name.
+
+**7** But he said to me, 'You will become pregnant and give birth to a son. So now do not drink wine or beer, and do not eat anything unclean, for the boy will be a Nazirite dedicated to God from the womb until the day he dies.'"
+
+**8** Then Manoah prayed to Yahweh and said, "Please, Lord, let the man of God whom you sent come to us again and teach us what we are to do for the boy who is to be born."
+
+**9** God listened to Manoah,[^13-7] and the angel of God came again to the woman while she was sitting in the field. Her husband Manoah was not with her.
+
+**10** The woman ran quickly and told her husband. She said to him, "The man who came to me the other day[^13-8] has appeared to me!"
+
+**11** Manoah got up and followed his wife. He came to the man and said to him, "Are you the man who spoke to the woman?" He said, "I am."
+
+**12** Manoah said, "Now when your words come true, what is to be the boy's way of life, and what is he to do?"[^13-9]
+
+**13** The angel of Yahweh said to Manoah, "The woman must take care to do everything I told her.
+
+**14** She must not eat anything that comes from the grapevine. She must not drink wine or beer, or eat anything unclean. She must observe everything I commanded her."
+
+**15** Manoah said to the angel of Yahweh, "Please stay with us, and let us prepare a young goat for you."
+
+**16** The angel of Yahweh said to Manoah, "Even if you keep me here, I will not eat your food. But if you prepare a burnt offering, offer it to Yahweh." (For Manoah did not know that he was the angel of Yahweh.)
+
+**17** Then Manoah said to the angel of Yahweh, "What is your name, so that when your word comes true[^13-10] we may honor you?"
+
+**18** The angel of Yahweh said to him, "Why do you ask my name? It is wonderful."[^13-11]
+
+**19** So Manoah took the young goat and the grain offering and offered them on the rock to Yahweh. Then he did a wonderful thing,[^13-12] while Manoah and his wife watched.
+
+**20** As the flame went up from the altar toward heaven, the angel of Yahweh went up in the flame of the altar. Manoah and his wife watched, and they fell face down to the ground.
+
+**21** The angel of Yahweh did not appear again to Manoah and his wife. Then Manoah knew that he was the angel of Yahweh.
+
+**22** Manoah said to his wife, "We will surely die, for we have seen God!"[^13-13]
+
+**23** But his wife said to him, "If Yahweh had wanted to kill us, he would not have accepted a burnt offering and a grain offering from our hands. He would not have shown us all these things, or told us anything like this now."
+
+**24** The woman gave birth to a son and named him Samson.[^13-14] The boy grew, and Yahweh blessed him.
+
+**25** The Spirit of Yahweh[^13-15] began to stir him in Mahaneh-dan,[^13-16] between Zorah and Eshtaol.
+
+[^13-1]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^13-2]: Literally "was barren"; also in verse 3.
+[^13-3]: Or "the messenger of Yahweh". Hebrew *mal'akh* means messenger. The same is true of "the angel of God" in verses 6 and 9.
+[^13-4]: Hebrew *shekhar*, an alcoholic drink, probably beer made from grain. Also in verses 7 and 14.
+[^13-5]: Literally "No razor is to go up on his head."
+[^13-6]: Hebrew *nazir*, "one set apart, dedicated". The Nazirite's vow is described in Numbers 6:1–21. Also in verse 7.
+[^13-7]: Literally "listened to the voice of Manoah".
+[^13-8]: Literally "on the day".
+[^13-9]: Literally "what will be the boy's rule and his work?"
+[^13-10]: The Hebrew text is written "your words come true" but read "your word comes true".
+[^13-11]: Hebrew *peli*, "wonderful", that is, beyond human understanding.
+[^13-12]: Literally "and doing wonderfully". The one who acts is not named: Yahweh, or the angel. Some take the words with what comes before: "to Yahweh, who does wonders".
+[^13-13]: Or "a divine being". Hebrew *Elohim*.
+[^13-14]: Hebrew *Shimshon*, probably from *shemesh*, "sun".
+[^13-15]: Or "the spirit of Yahweh". Hebrew *ruach*, "spirit, wind, breath".
+[^13-16]: "The camp of Dan". Compare 18:12.
+
+## Chapter 14
+
+*Status: draft*
+
+**1** Samson went down to Timnah, and in Timnah he saw a woman, one of the Philistine women.[^14-1]
+
+**2** He came back up and told his father and mother, "I have seen a woman in Timnah, one of the Philistine women. Now get her for me as my wife."
+
+**3** His father and mother said to him, "Isn't there a woman among the daughters of your relatives, or among all my people, that you must go and take a wife from the uncircumcised Philistines?" But Samson said to his father, "Get her for me, for she is the one I like."[^14-2]
+
+**4** His father and mother did not know that this was from Yahweh,[^14-3] for he was seeking an occasion[^14-4] against the Philistines. At that time the Philistines were ruling over Israel.
+
+**5** Samson went down to Timnah with his father and mother. When they came to the vineyards of Timnah, a young lion suddenly came roaring toward him.
+
+**6** The Spirit of Yahweh[^14-5] rushed on him, and he tore the lion apart as one tears apart a young goat, with nothing in his hand. But he did not tell his father or mother what he had done.
+
+**7** Then he went down and talked with the woman, and she was the one Samson liked.
+
+**8** Some time later, when he went back to marry her, he turned aside to look at the lion's carcass. There was a swarm of bees in the lion's body, and honey.
+
+**9** He scraped the honey out into his hands and went on, eating as he went. When he came to his father and mother, he gave some to them, and they ate it. But he did not tell them that he had scraped the honey out of the lion's body.
+
+**10** His father went down to the woman, and Samson held a feast[^14-6] there, for that was what young men used to do.
+
+**11** When the people saw him, they brought thirty companions to be with him.
+
+**12** Samson said to them, "Let me tell you a riddle. If you can give me the answer within the seven days of the feast, and find it out, I will give you thirty linen garments and thirty sets of fine clothes.
+
+**13** But if you cannot give me the answer, you must give me thirty linen garments and thirty sets of fine clothes." They said to him, "Tell us your riddle. Let us hear it."
+
+**14** He said to them, "Out of the eater came something to eat; out of the strong came something sweet." For three days they could not give the answer to the riddle.
+
+**15** On the seventh day[^14-7] they said to Samson's wife, "Coax your husband into telling us the riddle, or we will burn you and your father's family to death. Did you invite us here to rob us?"
+
+**16** So Samson's wife wept on him and said, "You only hate me! You don't love me. You have told my people a riddle, but you haven't told me the answer." He said to her, "Look, I haven't told my father or my mother. Should I tell you?"
+
+**17** She wept on him for the rest of the seven days of their feast.[^14-8] On the seventh day he told her, because she pressed him so hard. Then she told the riddle to her people.
+
+**18** On the seventh day, before the sun went down, the men of the town said to him, "What is sweeter than honey? What is stronger than a lion?" He said to them, "If you had not plowed with my heifer, you would not have found out my riddle."
+
+**19** Then the Spirit of Yahweh rushed on him. He went down to Ashkelon and struck down thirty of their men. He took what they wore and gave the sets of clothes to those who had answered the riddle. Then, burning with anger, he went up to his father's house.
+
+**20** And Samson's wife was given to his companion, the one who had been his friend at the wedding.[^14-9]
+
+[^14-1]: Literally "of the daughters of the Philistines"; also in verse 2.
+[^14-2]: Literally "she is right in my eyes"; also in verse 7. Compare 17:6; 21:25.
+[^14-3]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^14-4]: Or "for Samson was seeking an occasion".
+[^14-5]: Or "the spirit of Yahweh". Hebrew *ruach*, "spirit, wind, breath". Also in verse 19.
+[^14-6]: Hebrew *mishteh*, literally "a drinking", here a wedding feast. Also in verses 12 and 17.
+[^14-7]: The Septuagint and the Syriac read "On the fourth day".
+[^14-8]: Literally "She wept on him the seven days that they had the feast."
+[^14-9]: Literally "to his companion, who had been a companion to him", probably the friend who attended the bridegroom.
+
+## Chapter 15
+
+*Status: draft*
+
+**1** Some time later, at the time of the wheat harvest, Samson went to visit his wife with a young goat. He said, "I am going in to my wife in her room."[^15-1] But her father would not let him go in.
+
+**2** Her father said, "I was sure that you hated her, so I gave her to your companion. Isn't her younger sister more beautiful than she is? Please take her instead."
+
+**3** Samson said to them, "This time I will be in the right with the Philistines when I do them harm."[^15-2]
+
+**4** So Samson went and caught three hundred foxes.[^15-3] He took torches, turned the foxes tail to tail, and put a torch between each pair of tails.
+
+**5** He set the torches on fire and let the foxes loose in the Philistines' standing grain. He burned up the stacked grain and the standing grain, and the vineyards and the olive groves too.[^15-4]
+
+**6** The Philistines asked, "Who did this?" They were told, "Samson, the son-in-law of the Timnite, because he took Samson's wife and gave her to his companion." So the Philistines went up and burned her and her father to death.
+
+**7** Samson said to them, "Since you act like this, I will take revenge on you, and only then will I stop."
+
+**8** He struck them down without mercy,[^15-5] a great slaughter. Then he went down and stayed in the cleft of the rock of Etam.
+
+**9** The Philistines went up and camped in Judah, and they spread out at Lehi.[^15-6]
+
+**10** The men of Judah said, "Why have you come up against us?" They said, "We have come up to tie up Samson, to do to him as he did to us."
+
+**11** Then three thousand men of Judah went down to the cleft of the rock of Etam and said to Samson, "Don't you know that the Philistines rule over us? What is this you have done to us?" He said to them, "As they did to me, so I have done to them."
+
+**12** They said to him, "We have come down to tie you up and hand you over to the Philistines." Samson said to them, "Swear to me that you will not attack me yourselves."
+
+**13** They said to him, "No, we will only tie you up and hand you over to them. We certainly won't kill you." So they tied him up with two new ropes and brought him up from the rock.
+
+**14** When he came to Lehi, the Philistines came shouting to meet him. Then the Spirit of Yahweh[^15-7] rushed on him, and the ropes on his arms became like flax that has caught fire, and the bonds melted off his hands.
+
+**15** He found a fresh jawbone of a donkey. He reached out his hand, took it, and struck down a thousand men with it.
+
+**16** Then Samson said, "With the jawbone of a donkey, heaps upon heaps![^15-8] With the jawbone of a donkey I have struck down a thousand men."
+
+**17** When he had finished speaking, he threw the jawbone from his hand, and that place was called Ramath-lehi.[^15-9]
+
+**18** He was very thirsty, and he called out to Yahweh, "You have given this great victory by the hand of your servant. Must I now die of thirst and fall into the hands of the uncircumcised?"
+
+**19** So God split open the hollow[^15-10] at Lehi, and water came out of it. When he drank, his strength returned,[^15-11] and he revived. That is why it was named En-hakkore.[^15-12] It is in Lehi to this day.
+
+**20** Samson judged Israel for twenty years in the days of the Philistines.
+
+[^15-1]: "Go in to" is a Hebrew way of speaking of sexual relations; also later in the verse.
+[^15-2]: Or "This time I am innocent toward the Philistines, when I do them harm."
+[^15-3]: Or "jackals".
+[^15-4]: Literally "from the stacked grain to the standing grain, and to the vineyard, the olive".
+[^15-5]: Literally "leg on thigh", an expression for a complete defeat.
+[^15-6]: *Lehi* means "jawbone". Also in verses 14 and 19.
+[^15-7]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles. Or "the spirit of Yahweh". Hebrew *ruach*, "spirit, wind, breath".
+[^15-8]: Hebrew *chamor chamoratayim*, "a heap, two heaps". The word for "heap" sounds the same as *chamor*, "donkey".
+[^15-9]: "Jawbone Hill".
+[^15-10]: Hebrew *makhtesh*, literally "mortar", a hollow in the ground.
+[^15-11]: Literally "his spirit returned".
+[^15-12]: "The spring of the one who called". *Qore* can also mean "partridge".

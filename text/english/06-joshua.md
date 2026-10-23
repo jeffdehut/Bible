@@ -566,7 +566,7 @@
 
 **16** Three days after they had made a covenant with them, the Israelites heard that they were their neighbors and lived among them.
 
-**17** So the Israelites set out and came to their towns on the third day. Their towns were Gibeon, Kephirah, Beeroth and Kiriath-jearim.
+**17** So the Israelites set out and came to their towns on the third day. Their towns were Gibeon, Chephirah, Beeroth and Kiriath-jearim.
 
 **18** But the Israelites did not attack them, because the leaders of the community had sworn to them by Yahweh, the God of Israel. The whole community grumbled against the leaders.
 
@@ -1144,3 +1144,517 @@
 [^15-30]: The Hebrew text is written "Janim" but read "Janum".
 [^15-31]: The Greek Septuagint adds here another district of eleven towns, among them Tekoa and Ephrathah, that is, Bethlehem.
 [^15-32]: Or "the City of Salt".
+
+## Chapter 16
+
+*Status: draft*
+
+**1** The allotment[^16-1] for the descendants of Joseph went from the Jordan at Jericho, east of the waters of Jericho, through the wilderness that goes up from Jericho into the hill country to Bethel.
+
+**2** From Bethel it went out to Luz[^16-2] and passed along to the territory of the Archites at Ataroth.
+
+**3** It went down westward to the territory of the Japhletites, as far as the territory of Lower Beth-horon and as far as Gezer, and it ended at the sea.
+
+**4** So the descendants of Joseph, Manasseh and Ephraim, received their inheritance.
+
+**5** This was the territory of the Ephraimites, clan by clan. The border of their inheritance on the east was Ataroth-addar, as far as Upper Beth-horon.
+
+**6** The border went out to the sea, with Michmethath on the north. On the east the border turned toward Taanath-shiloh and passed along beyond it, east of Janoah.
+
+**7** From Janoah it went down to Ataroth and to Naarah, reached Jericho and went out at the Jordan.
+
+**8** From Tappuah the border went westward to the Kanah Valley[^16-3] and ended at the sea. This is the inheritance of the tribe of the Ephraimites, clan by clan,
+
+**9** together with the towns that were set apart for the Ephraimites within the inheritance of the Manassites, all those towns with their villages.[^16-4]
+
+**10** But they did not drive out the Canaanites who lived in Gezer. So the Canaanites have lived among Ephraim to this day, and they were made to do forced labor.[^16-5]
+
+[^16-1]: Literally "the lot", the share of land assigned by casting lots.
+[^16-2]: Elsewhere Luz is another name for Bethel (18:13; Genesis 28:19).
+[^16-3]: Hebrew *nachal*: a valley with a stream that flows in the rainy season.
+[^16-4]: Hebrew *chatserim*: settlements without walls around a town.
+[^16-5]: The Greek Septuagint adds that Pharaoh king of Egypt later captured Gezer and burned it (compare 1 Kings 9:16).
+
+## Chapter 17
+
+*Status: draft*
+
+**1** This was the allotment[^17-1] for the tribe of Manasseh, for he was Joseph's firstborn. Machir, Manasseh's firstborn and the father of Gilead, had received Gilead and Bashan, because he was a warrior.
+
+**2** The allotment was also for the rest of the Manassites, clan by clan: for the descendants of Abiezer, Helek, Asriel, Shechem, Hepher and Shemida. These were the male descendants of Manasseh son of Joseph, clan by clan.
+
+**3** Now Zelophehad son of Hepher, son of Gilead, son of Machir, son of Manasseh, had no sons, only daughters. These are the names of his daughters: Mahlah, Noah, Hoglah, Milcah and Tirzah.
+
+**4** They came before Eleazar the priest, Joshua son of Nun and the leaders, and said, "Yahweh[^17-2] commanded Moses to give us an inheritance among our brothers."[^17-3] So, as Yahweh had commanded, Joshua gave them an inheritance among their father's brothers.
+
+**5** So ten portions[^17-4] fell to Manasseh, besides the land of Gilead and Bashan, which is east of the Jordan,[^17-5]
+
+**6** because the daughters of Manasseh received an inheritance among his sons. The land of Gilead belonged to the rest of the Manassites.
+
+**7** The territory of Manasseh went from Asher[^17-6] to Michmethath, which faces Shechem. Then the border went south[^17-7] to the inhabitants of En-tappuah.
+
+**8** The land of Tappuah belonged to Manasseh, but Tappuah itself, on the border of Manasseh, belonged to the Ephraimites.
+
+**9** The border went down to the Kanah Valley.[^17-8] South of the valley, these towns belonged to Ephraim, among the towns of Manasseh. The border of Manasseh ran along the north side of the valley and ended at the sea.
+
+**10** The land to the south belonged to Ephraim and the land to the north to Manasseh, with the sea as its border. They reached Asher on the north and Issachar on the east.
+
+**11** Within Issachar and Asher, Manasseh had Beth-shean and its surrounding towns,[^17-9] Ibleam and its surrounding towns, the inhabitants of Dor and its surrounding towns, the inhabitants of En-dor and its surrounding towns, the inhabitants of Taanach and its surrounding towns, and the inhabitants of Megiddo and its surrounding towns: the three heights.[^17-10]
+
+**12** But the Manassites could not take possession of these towns, for the Canaanites were determined to live in that land.
+
+**13** When the Israelites grew strong, they put the Canaanites to forced labor, but they did not drive them out completely.
+
+**14** The descendants of Joseph said to Joshua, "Why have you given us[^17-11] only one allotment and one portion as an inheritance? We are a numerous people, for Yahweh has blessed us so much."
+
+**15** Joshua said to them, "If you are a numerous people, go up to the forest and clear land for yourselves there, in the land of the Perizzites and the Rephaim,[^17-12] since the hill country of Ephraim is too small for you."
+
+**16** The descendants of Joseph said, "The hill country is not enough for us, and all the Canaanites who live in the valley land have chariots of iron,[^17-13] both those in Beth-shean and its surrounding towns and those in the Valley of Jezreel."
+
+**17** Joshua said to the house of Joseph, to Ephraim and Manasseh, "You are a numerous people and very strong. You will not have only one allotment.
+
+**18** The hill country will be yours. Though it is forest, you will clear it, and it will be yours to its farthest limits. For you will drive out the Canaanites, though they have chariots of iron and though they are strong."
+
+[^17-1]: Literally "the lot", the share of land assigned by casting lots.
+[^17-2]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^17-3]: Numbers 27:1–11; 36:1–12.
+[^17-4]: Hebrew *chavalim*, "measuring lines", and so measured shares of land.
+[^17-5]: Literally "beyond the Jordan".
+[^17-6]: Probably a town, not the tribe of Asher.
+[^17-7]: Literally "to the right", that is, south, for someone facing east.
+[^17-8]: Hebrew *nachal*: a valley with a stream that flows in the rainy season. Also later in the verse.
+[^17-9]: Literally "daughters": the smaller towns that depended on it. Also in verse 16.
+[^17-10]: Hebrew *sheloshet ha-nafet*, of uncertain meaning. It may refer to three hill towns, or to Naphath-dor (11:2; 12:23).
+[^17-11]: Literally "me". The descendants of Joseph speak of themselves as one person in verses 14 and 16.
+[^17-12]: An ancient people remembered for their great height (Deuteronomy 2:11; 3:11).
+[^17-13]: Probably chariots with iron fittings. Also in verse 18.
+
+## Chapter 18
+
+*Status: draft*
+
+**1** The whole community of the Israelites assembled at Shiloh, and they set up the tent of meeting[^18-1] there. The land lay subdued before them.
+
+**2** Seven tribes remained among the Israelites that had not yet been given their inheritance.
+
+**3** So Joshua said to the Israelites, "How long will you put off going in to take possession of the land that Yahweh,[^18-2] the God of your ancestors, has given you?
+
+**4** Appoint three men from each tribe, and I will send them out. They are to set out and go through the land and write a description of it, with a view to their inheritance. Then they are to come back to me.
+
+**5** They are to divide it into seven portions. Judah will stay in its territory in the south, and the house of Joseph will stay in its territory in the north.
+
+**6** You are to write a description of the land in seven portions and bring it here to me, and I will cast lots for you here before Yahweh our God.
+
+**7** For the Levites have no share among you, because the priesthood of Yahweh is their inheritance. And Gad, Reuben and the half-tribe of Manasseh have received their inheritance east of the Jordan,[^18-3] which Moses the servant of Yahweh gave them."
+
+**8** So the men set out and went. Joshua commanded those who went to write a description of the land: "Go and walk through the land and write a description of it, then come back to me, and I will cast lots for you here before Yahweh in Shiloh."
+
+**9** So the men went and passed through the land, and they wrote a description of it in a scroll, town by town, in seven portions. Then they came back to Joshua at the camp at Shiloh.
+
+**10** Joshua cast lots for them in Shiloh before Yahweh, and there Joshua divided the land among the Israelites according to their divisions.
+
+**11** The lot for the tribe of the Benjaminites came up, clan by clan. The territory of their allotment lay between the people of Judah and the descendants of Joseph.
+
+**12** On the north side their border began at the Jordan. The border went up to the slope north of Jericho, went up westward through the hill country, and ended at the wilderness of Beth-aven.
+
+**13** From there the border passed along to Luz, to the slope south of Luz, that is, Bethel. Then the border went down to Ataroth-addar, on the hill south of Lower Beth-horon.
+
+**14** On the west side the border curved and turned south, from the hill that faces Beth-horon on the south, and it ended at Kiriath-baal, that is, Kiriath-jearim, a town of the people of Judah. This was the west side.
+
+**15** The south side began at the edge of Kiriath-jearim. The border went out westward[^18-4] and went out to the spring of the waters of Nephtoah.
+
+**16** The border went down to the edge of the hill that faces the Valley of the Son of Hinnom, at the north end of the Valley of Rephaim. It went down the Valley of Hinnom to the southern slope of the Jebusite town[^18-5] and went down to En-rogel.
+
+**17** It curved northward, went out to En-shemesh, and went out to Geliloth, which is opposite the Ascent of Adummim. Then it went down to the Stone of Bohan son of Reuben.
+
+**18** It passed along to the northern slope opposite the Arabah,[^18-6] and went down into the Arabah.
+
+**19** The border passed along to the northern slope of Beth-hoglah, and the border ended at the northern bay of the Salt Sea,[^18-7] at the southern end of the Jordan. This was the southern border.
+
+**20** The Jordan formed its border on the east side. This was the inheritance of the Benjaminites, clan by clan, with its borders all around.
+
+**21** The towns of the tribe of the Benjaminites, clan by clan, were: Jericho, Beth-hoglah, Emek-keziz,
+
+**22** Beth-arabah, Zemaraim, Bethel,
+
+**23** Avvim, Parah, Ophrah,
+
+**24** Chephar-ammonah,[^18-8] Ophni and Geba: twelve towns, with their villages.[^18-9]
+
+**25** Gibeon, Ramah, Beeroth,
+
+**26** Mizpeh, Chephirah, Mozah,
+
+**27** Rekem, Irpeel, Taralah,
+
+**28** Zela, Haeleph, the Jebusite town, that is, Jerusalem, Gibeath[^18-10] and Kiriath: fourteen towns, with their villages. This was the inheritance of the Benjaminites, clan by clan.
+
+[^18-1]: The tent where Yahweh met with his people, that is, the tabernacle (Exodus 33:7; 40:34–35).
+[^18-2]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^18-3]: Literally "beyond the Jordan toward the sunrise".
+[^18-4]: Literally "toward the sea". The direction is unexpected here; compare 15:9.
+[^18-5]: Literally "to the shoulder of the Jebusite on the south". Also in verse 28.
+[^18-6]: Hebrew *aravah*: the deep rift valley of the Jordan and the Dead Sea, and its continuation south to the Gulf of Aqaba.
+[^18-7]: The Dead Sea.
+[^18-8]: The Hebrew text is written "Chephar-ammoni" but read "Chephar-ammonah".
+[^18-9]: Hebrew *chatserim*: settlements without walls around a town. Also in verse 28.
+[^18-10]: That is, Gibeah. *Kiriath*, "town", may be short for Kiriath-jearim (verse 14).
+
+## Chapter 19
+
+*Status: draft*
+
+**1** The second lot came out for Simeon, for the tribe of the Simeonites, clan by clan. Their inheritance lay within the inheritance of the people of Judah.
+
+**2** For their inheritance they had Beersheba, Sheba,[^19-1] Moladah,
+
+**3** Hazar-shual, Balah, Ezem,
+
+**4** Eltolad, Bethul, Hormah,
+
+**5** Ziklag, Beth-marcaboth, Hazar-susah,
+
+**6** Beth-lebaoth and Sharuhen: thirteen towns, with their villages;[^19-2]
+
+**7** Ain, Rimmon, Ether and Ashan: four towns, with their villages;
+
+**8** and all the villages around these towns as far as Baalath-beer, Ramah of the Negev.[^19-3] This was the inheritance of the tribe of the Simeonites, clan by clan.
+
+**9** The inheritance of the Simeonites was taken from the share of the people of Judah, because the portion of the people of Judah was too large for them. So the Simeonites received their inheritance within Judah's inheritance.
+
+**10** The third lot came up for the Zebulunites, clan by clan. The border of their inheritance went as far as Sarid.
+
+**11** Their border went up westward to Maralah, touched Dabbesheth, and touched the valley[^19-4] that faces Jokneam.
+
+**12** From Sarid it turned east, toward the sunrise, to the border of Chisloth-tabor, went out to Daberath and went up to Japhia.
+
+**13** From there it passed along eastward, toward the sunrise, to Gath-hepher and Eth-kazin, went out to Rimmon and turned toward Neah.[^19-5]
+
+**14** Then the border went around it on the north to Hannathon, and it ended at the Valley of Iphtah-el.
+
+**15** It included Kattath, Nahalal, Shimron, Idalah and Bethlehem:[^19-6] twelve towns, with their villages.[^19-7]
+
+**16** This was the inheritance of the Zebulunites, clan by clan, these towns with their villages.
+
+**17** The fourth lot came out for Issachar, for the Issacharites, clan by clan.
+
+**18** Their territory included Jezreel, Chesulloth, Shunem,
+
+**19** Hapharaim, Shion, Anaharath,
+
+**20** Rabbith, Kishion, Ebez,
+
+**21** Remeth, En-gannim, En-haddah and Beth-pazzez.
+
+**22** The border touched Tabor, Shahazimah[^19-8] and Beth-shemesh, and their border ended at the Jordan: sixteen towns, with their villages.
+
+**23** This was the inheritance of the tribe of the Issacharites, clan by clan, the towns with their villages.
+
+**24** The fifth lot came out for the tribe of the Asherites, clan by clan.
+
+**25** Their territory included Helkath, Hali, Beten, Achshaph,
+
+**26** Allammelech, Amad and Mishal. On the west it touched Carmel and Shihor-libnath.
+
+**27** Then it turned toward the sunrise to Beth-dagon, touched Zebulun and the Valley of Iphtah-el on the north at Beth-emek and Neiel, and went out to Cabul on the north,[^19-9]
+
+**28** Ebron,[^19-10] Rehob, Hammon and Kanah, as far as Greater Sidon.
+
+**29** Then the border turned to Ramah and to the fortified town of Tyre. The border turned to Hosah, and it ended at the sea in the region of Achzib,[^19-11]
+
+**30** Ummah, Aphek and Rehob: twenty-two towns, with their villages.
+
+**31** This was the inheritance of the tribe of the Asherites, clan by clan, these towns with their villages.
+
+**32** The sixth lot came out for the Naphtalites, for the Naphtalites clan by clan.
+
+**33** Their border ran from Heleph, from the oak at Zaanannim,[^19-12] Adami-nekeb and Jabneel as far as Lakkum, and it ended at the Jordan.
+
+**34** The border turned westward to Aznoth-tabor, went out from there to Hukkok, touched Zebulun on the south and Asher on the west, and Judah at the Jordan[^19-13] toward the sunrise.
+
+**35** The fortified towns were Ziddim, Zer, Hammath, Rakkath, Kinnereth,
+
+**36** Adamah, Ramah, Hazor,
+
+**37** Kedesh, Edrei, En-hazor,
+
+**38** Iron, Migdal-el, Horem, Beth-anath and Beth-shemesh: nineteen towns, with their villages.[^19-14]
+
+**39** This was the inheritance of the tribe of the Naphtalites, clan by clan, the towns with their villages.
+
+**40** The seventh lot came out for the tribe of the Danites, clan by clan.
+
+**41** The territory of their inheritance included Zorah, Eshtaol, Ir-shemesh,
+
+**42** Shaalabbin, Aijalon, Ithlah,
+
+**43** Elon, Timnah, Ekron,
+
+**44** Eltekeh, Gibbethon, Baalath,
+
+**45** Jehud, Bene-berak, Gath-rimmon,
+
+**46** Me-jarkon[^19-15] and Rakkon, with the territory facing Joppa.
+
+**47** But the territory of the Danites slipped out of their hands.[^19-16] So the Danites went up and fought against Leshem. They captured it, put it to the sword, took possession of it and settled in it, and they named Leshem Dan, after their ancestor Dan.[^19-17]
+
+**48** This was the inheritance of the tribe of the Danites, clan by clan, these towns with their villages.
+
+**49** When they had finished dividing up the land as inheritances by its borders, the Israelites gave Joshua son of Nun an inheritance among them.
+
+**50** As Yahweh[^19-18] had commanded,[^19-19] they gave him the town he asked for, Timnath-serah[^19-20] in the hill country of Ephraim. He rebuilt the town and settled in it.
+
+**51** These are the inheritances that Eleazar the priest, Joshua son of Nun and the heads of the families[^19-21] of the tribes of the Israelites gave out by lot at Shiloh before Yahweh, at the entrance of the tent of meeting. So they finished dividing the land.
+
+[^19-1]: Sheba is not in the parallel list in 1 Chronicles 4:28. Without it the names in verses 2–6 come to thirteen.
+[^19-2]: Hebrew *chatserim*: settlements without walls around a town. Also in verses 7–8 and throughout the chapter.
+[^19-3]: Or "Ramath-negeb". The Negev is the dry country in the south of the land.
+[^19-4]: Hebrew *nachal*: a valley with a stream that flows in the rainy season.
+[^19-5]: The Hebrew is unusual. Literally "went out to Rimmon, the one curving, the Neah".
+[^19-6]: Not the Bethlehem in Judah.
+[^19-7]: Only five towns are named in this verse.
+[^19-8]: The Hebrew text is written "Shahazumah" but read "Shahazimah".
+[^19-9]: Literally "on the left", that is, north, for someone facing east.
+[^19-10]: Probably Abdon (21:30). In Hebrew the letters for *d* and *r* look very much alike.
+[^19-11]: Hebrew *mechevel Akhzivah*, "from the district, to Achzib". Some take *Mechevel* as a place name, Mahalab.
+[^19-12]: Or "from Elon-bezaanannim". Compare Judges 4:11.
+[^19-13]: The Hebrew is difficult. Literally "and in Judah, the Jordan".
+[^19-14]: The names in verses 35–38 come to sixteen.
+[^19-15]: *Me-jarkon* means "waters of Jarkon", perhaps the Yarkon river north of Joppa.
+[^19-16]: Literally "went out from them".
+[^19-17]: Leshem is called Laish in Judges 18, where the story is told at length (Judges 18:27–29).
+[^19-18]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^19-19]: Literally "At the mouth of Yahweh".
+[^19-20]: Called Timnath-heres in Judges 2:9.
+[^19-21]: Literally "the heads of the fathers", the leaders of the family groups within each tribe.
+
+## Chapter 20
+
+*Status: draft*
+
+**1** Yahweh[^20-1] said to Joshua,
+
+**2** "Tell the Israelites: 'Designate the towns of refuge that I spoke to you about through Moses,[^20-2]
+
+**3** so that anyone who kills a person by mistake, without meaning to, may flee there. They will be a refuge for you from the avenger of blood.[^20-3]
+
+**4** He is to flee to one of these towns, stand at the entrance of the town gate and state his case to the elders of that town. Then they are to take him into the town with them and give him a place, and he will live among them.[^20-4]
+
+**5** If the avenger of blood pursues him, they must not hand the killer over to him, because he struck down his neighbor without meaning to, and he had not been his enemy before.[^20-5]
+
+**6** He is to stay in that town until he has stood trial before the community, until the death of the high priest who is serving at that time. Then the killer may go back to his own town and his own home, to the town he fled from.'"
+
+**7** So they set apart Kedesh in Galilee, in the hill country of Naphtali, Shechem in the hill country of Ephraim, and Kiriath-arba, that is, Hebron, in the hill country of Judah.
+
+**8** East of the Jordan, across from Jericho,[^20-6] they designated Bezer in the wilderness on the plateau,[^20-7] from the tribe of Reuben, Ramoth in Gilead from the tribe of Gad, and Golan in Bashan from the tribe of Manasseh.
+
+**9** These were the designated towns[^20-8] for all the Israelites and for the foreigners[^20-9] living among them, so that anyone who killed a person by mistake could flee there and not die at the hand of the avenger of blood before he had stood trial before the community.
+
+[^20-1]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^20-2]: Numbers 35:9–34; Deuteronomy 4:41–43; 19:1–13.
+[^20-3]: Hebrew *go'el ha-dam*: the relative whose duty was to avenge the death of a family member (Numbers 35:19). Also in verses 5 and 9.
+[^20-4]: The Greek Septuagint does not have most of verses 4–6.
+[^20-5]: Literally "and he did not hate him yesterday and the day before".
+[^20-6]: Literally "Beyond the Jordan of Jericho, toward the sunrise".
+[^20-7]: Hebrew *mishor*, "level land": the high tableland north of the Arnon.
+[^20-8]: Hebrew *mu'adah*, a word found only here, probably "appointed".
+[^20-9]: Hebrew *ger*: someone from elsewhere who lives among the Israelites, a resident foreigner.
+
+## Chapter 21
+
+*Status: draft*
+
+**1** The heads of the families[^21-1] of the Levites came to Eleazar the priest, to Joshua son of Nun and to the heads of the families of the tribes of the Israelites
+
+**2** at Shiloh in the land of Canaan, and said to them, "Yahweh[^21-2] commanded through Moses that we be given towns to live in, with their pasturelands[^21-3] for our livestock."[^21-4]
+
+**3** So, as Yahweh had commanded, the Israelites gave the Levites these towns with their pasturelands out of their own inheritance.
+
+**4** The lot came out for the clans of the Kohathites. The descendants of Aaron the priest, who were among the Levites, received by lot thirteen towns from the tribe of Judah, the tribe of Simeon and the tribe of Benjamin.
+
+**5** The rest of the Kohathites received by lot ten towns from the clans of the tribe of Ephraim, the tribe of Dan and the half-tribe of Manasseh.
+
+**6** The Gershonites received by lot thirteen towns from the clans of the tribe of Issachar, the tribe of Asher, the tribe of Naphtali and the half-tribe of Manasseh in Bashan.
+
+**7** The Merarites, clan by clan, received twelve towns from the tribe of Reuben, the tribe of Gad and the tribe of Zebulun.
+
+**8** So the Israelites gave these towns with their pasturelands to the Levites by lot, as Yahweh had commanded through Moses.
+
+**9** From the tribe of the people of Judah and the tribe of the people of Simeon they gave the following towns, which are mentioned here by name.
+
+**10** They went to the descendants of Aaron, who belonged to the clans of the Kohathites among the Levites, because the first lot fell to them.
+
+**11** They gave them Kiriath-arba, that is, Hebron, in the hill country of Judah, with the pasturelands around it. Arba was the father of Anak.
+
+**12** But the fields of the town and its villages[^21-5] they had given to Caleb son of Jephunneh as his possession.
+
+**13** To the descendants of Aaron the priest they gave Hebron, the town of refuge for anyone who had killed someone,[^21-6] with its pasturelands, Libnah with its pasturelands,
+
+**14** Jattir with its pasturelands, Eshtemoa with its pasturelands,
+
+**15** Holon with its pasturelands, Debir with its pasturelands,
+
+**16** Ain[^21-7] with its pasturelands, Juttah with its pasturelands and Beth-shemesh with its pasturelands: nine towns from these two tribes.
+
+**17** From the tribe of Benjamin they gave Gibeon with its pasturelands, Geba with its pasturelands,
+
+**18** Anathoth with its pasturelands and Almon with its pasturelands: four towns.
+
+**19** The towns of the descendants of Aaron, the priests, came to thirteen towns in all, with their pasturelands.
+
+**20** The rest of the Kohathites, the clans of the Kohathites who were Levites, received their towns by lot from the tribe of Ephraim.
+
+**21** They gave them Shechem, the town of refuge for anyone who had killed someone, with its pasturelands in the hill country of Ephraim, Gezer with its pasturelands,
+
+**22** Kibzaim with its pasturelands and Beth-horon with its pasturelands: four towns.
+
+**23** From the tribe of Dan they gave Elteke with its pasturelands, Gibbethon with its pasturelands,
+
+**24** Aijalon with its pasturelands and Gath-rimmon with its pasturelands: four towns.
+
+**25** From the half-tribe of Manasseh they gave Taanach with its pasturelands and Gath-rimmon[^21-8] with its pasturelands: two towns.
+
+**26** The towns of the clans of the rest of the Kohathites came to ten in all, with their pasturelands.
+
+**27** To the Gershonites, of the clans of the Levites, they gave from the half-tribe of Manasseh Golan in Bashan, the town of refuge for anyone who had killed someone, with its pasturelands, and Beeshterah[^21-9] with its pasturelands: two towns.
+
+**28** From the tribe of Issachar they gave Kishion with its pasturelands, Daberath with its pasturelands,
+
+**29** Jarmuth with its pasturelands and En-gannim with its pasturelands: four towns.
+
+**30** From the tribe of Asher they gave Mishal with its pasturelands, Abdon with its pasturelands,
+
+**31** Helkath with its pasturelands and Rehob with its pasturelands: four towns.
+
+**32** From the tribe of Naphtali they gave Kedesh in Galilee, the town of refuge for anyone who had killed someone, with its pasturelands, Hammoth-dor with its pasturelands and Kartan with its pasturelands: three towns.
+
+**33** The towns of the Gershonites, clan by clan, came to thirteen towns in all, with their pasturelands.
+
+**34** To the clans of the Merarites, the rest of the Levites, they gave from the tribe of Zebulun Jokneam with its pasturelands, Kartah with its pasturelands,
+
+**35** Dimnah[^21-10] with its pasturelands and Nahalal with its pasturelands: four towns.
+
+**36** From the tribe of Reuben they gave Bezer with its pasturelands, Jahaz with its pasturelands,[^21-11]
+
+**37** Kedemoth with its pasturelands and Mephaath with its pasturelands: four towns.
+
+**38** From the tribe of Gad they gave Ramoth in Gilead, the town of refuge for anyone who had killed someone, with its pasturelands, Mahanaim with its pasturelands,
+
+**39** Heshbon with its pasturelands and Jazer with its pasturelands: four towns in all.
+
+**40** All the towns given by lot to the Merarites, clan by clan, the rest of the clans of the Levites, were twelve towns.
+
+**41** The towns of the Levites within the possession of the Israelites came to forty-eight towns in all, with their pasturelands.
+
+**42** Each of these towns had its pasturelands around it. It was the same with all these towns.
+
+**43** So Yahweh gave Israel all the land that he had sworn to give to their ancestors, and they took possession of it and settled in it.
+
+**44** Yahweh gave them rest on every side, just as he had sworn to their ancestors. Not one of all their enemies could stand against them. Yahweh gave all their enemies into their hand.
+
+**45** Not one word of all the good promises that Yahweh had made to the house of Israel failed.[^21-12] Every one came true.
+
+[^21-1]: Literally "the heads of the fathers", the leaders of the family groups. Also later in the verse.
+[^21-2]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^21-3]: Hebrew *migrash*: the open land around a town, used for grazing. Also throughout the chapter.
+[^21-4]: Numbers 35:1–8.
+[^21-5]: Hebrew *chatserim*: settlements without walls around a town.
+[^21-6]: Hebrew *ha-rotseach*, the one who has killed someone by mistake (20:3). Also in verses 21, 27, 32 and 38.
+[^21-7]: The parallel list in 1 Chronicles 6:44 (6:59 in English Bibles) has Ashan.
+[^21-8]: Gath-rimmon is also named in verse 24. The parallel list in 1 Chronicles 6:55 (6:70 in English Bibles) has Aner and Bileam.
+[^21-9]: Called Ashtaroth in 1 Chronicles 6:56 (6:71 in English Bibles).
+[^21-10]: The parallel list in 1 Chronicles 6:62 (6:77 in English Bibles) has Rimmono. In Hebrew the letters for *d* and *r* look very much alike.
+[^21-11]: Verses 36–37 are missing from the Leningrad Codex, the manuscript this translation follows. They are translated here from the text that UXLC supplies. They are also in the Greek Septuagint, and 1 Chronicles 6:63–64 (6:78–79 in English Bibles) lists the same four towns of Reuben. Without them the Merarites would have only eight towns, not the twelve of verses 7 and 40.
+[^21-12]: Literally "Not a word fell".
+
+## Chapter 22
+
+*Status: draft*
+
+**1** Then Joshua summoned the Reubenites, the Gadites and the half-tribe of Manasseh
+
+**2** and said to them, "You have kept everything that Moses the servant of Yahweh[^22-1] commanded you, and you have obeyed me in everything I commanded you.
+
+**3** All this long time, up to this day, you have not abandoned your brothers, and you have faithfully kept the command of Yahweh your God.
+
+**4** Now Yahweh your God has given your brothers rest, as he promised them. So now turn and go to your homes,[^22-2] to the land that is your possession, which Moses the servant of Yahweh gave you east of the Jordan.[^22-3]
+
+**5** Only be very careful to keep the commandment and the law[^22-4] that Moses the servant of Yahweh gave you: to love Yahweh your God, to walk in all his ways, to keep his commandments, to hold fast to him, and to serve him with all your heart and with all your soul."
+
+**6** Then Joshua blessed them and sent them away, and they went to their homes.
+
+**7** To one half of the tribe of Manasseh Moses had given land in Bashan, and to the other half Joshua had given land with their brothers west of the Jordan. When Joshua sent them away to their homes, he blessed them
+
+**8** and said to them, "Go back to your homes with great wealth: with a very large number of livestock, with silver, gold, bronze and iron, and with a great quantity of clothing. Share the spoil of your enemies with your brothers."
+
+**9** So the Reubenites, the Gadites and the half-tribe of Manasseh turned back and left the Israelites at Shiloh in the land of Canaan, to go to the land of Gilead, the land of their own possession, which they had acquired at Yahweh's command through Moses.
+
+**10** When they came to Geliloth[^22-5] by the Jordan in the land of Canaan, the Reubenites, the Gadites and the half-tribe of Manasseh built an altar there by the Jordan, a large altar, impressive to look at.
+
+**11** The Israelites heard it said, "Look, the Reubenites, the Gadites and the half-tribe of Manasseh have built the altar on the frontier of the land of Canaan, at Geliloth by the Jordan, on the Israelites' side."[^22-6]
+
+**12** When the Israelites heard it, the whole community of the Israelites gathered at Shiloh to go up and make war against them.
+
+**13** The Israelites sent Phinehas son of Eleazar the priest to the Reubenites, the Gadites and the half-tribe of Manasseh in the land of Gilead,
+
+**14** and with him ten leaders, one leader for each family of all the tribes of Israel. Each of them was the head of his family among the clans[^22-7] of Israel.
+
+**15** They came to the Reubenites, the Gadites and the half-tribe of Manasseh in the land of Gilead and said to them,
+
+**16** "This is what the whole community of Yahweh says: 'What is this unfaithfulness you have committed against the God of Israel, turning away today from following Yahweh by building yourselves an altar, and so rebelling today against Yahweh?
+
+**17** Was the wrongdoing at Peor[^22-8] not enough for us? We have not cleansed ourselves of it to this day, even though a plague came on the community of Yahweh.
+
+**18** And now you are turning away today from following Yahweh! If you rebel against Yahweh today, tomorrow he will be angry with the whole community of Israel.
+
+**19** But if the land you possess is unclean, cross over into the land that Yahweh possesses, where Yahweh's tabernacle[^22-9] stands, and take possession of land among us. Only do not rebel against Yahweh, and do not rebel against us,[^22-10] by building yourselves an altar other than the altar of Yahweh our God.
+
+**20** When Achan son of Zerah acted unfaithfully in the matter of what was devoted to destruction,[^22-11] did not wrath fall on the whole community of Israel? And he was not the only one to die for his wrongdoing.'"
+
+**21** Then the Reubenites, the Gadites and the half-tribe of Manasseh answered the heads of the clans of Israel:
+
+**22** "The Mighty One, God, Yahweh! The Mighty One, God, Yahweh![^22-12] He knows, and let Israel know! If this was in rebellion or in unfaithfulness against Yahweh, do not spare us[^22-13] today.
+
+**23** If we have built ourselves an altar to turn away from following Yahweh, or to offer burnt offerings[^22-14] and grain offerings[^22-15] on it, or to make fellowship sacrifices[^22-16] on it, may Yahweh himself call us to account.
+
+**24** No, we did it because we were anxious about something. In time to come[^22-17] your descendants might say to our descendants, 'What do you have to do with Yahweh, the God of Israel?
+
+**25** Yahweh has made the Jordan a border between us and you, you Reubenites and Gadites. You have no share in Yahweh.' So your descendants might make our descendants stop fearing Yahweh.
+
+**26** So we said, 'Let us now build an altar, not for burnt offerings or for sacrifices,
+
+**27** but to be a witness between us and you, and between our generations after us, that we will worship Yahweh in his presence with our burnt offerings, our sacrifices and our fellowship offerings. Then your descendants will not be able to say to our descendants in time to come, "You have no share in Yahweh."'
+
+**28** And we said, 'If they ever say this to us or to our descendants in time to come, we will say, "Look at this copy of the altar of Yahweh, which our ancestors made, not for burnt offerings or for sacrifices, but as a witness between us and you."'
+
+**29** Far be it from us to rebel against Yahweh and turn away today from following Yahweh by building an altar for burnt offerings, grain offerings or sacrifices, other than the altar of Yahweh our God that stands in front of his tabernacle!"
+
+**30** Phinehas the priest, the leaders of the community and the heads of the clans of Israel who were with him heard what the Reubenites, the Gadites and the Manassites said, and they were satisfied.[^22-18]
+
+**31** Phinehas son of Eleazar the priest said to the Reubenites, the Gadites and the Manassites, "Today we know that Yahweh is among us, because you have not committed this unfaithfulness against Yahweh. Now you have rescued the Israelites from the hand of Yahweh."
+
+**32** Then Phinehas son of Eleazar the priest and the leaders returned from the Reubenites and the Gadites in the land of Gilead to the land of Canaan, to the Israelites, and brought back word to them.
+
+**33** The Israelites were satisfied with the report, and the Israelites blessed God. They spoke no more of going up to make war against them, to destroy the land where the Reubenites and the Gadites lived.
+
+**34** The Reubenites and the Gadites gave the altar its name:[^22-19] "It is a witness between us that Yahweh is God."
+
+[^22-1]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^22-2]: Literally "to your tents". Also in verses 6–8.
+[^22-3]: Literally "beyond the Jordan". In verse 7, "west of the Jordan" is literally "beyond the Jordan toward the sea".
+[^22-4]: Hebrew *torah*, "instruction, law".
+[^22-5]: Or "the region". Hebrew *gelilot*, "circles", perhaps of stones. Also in verse 11.
+[^22-6]: Literally "on the side of the Israelites", that is, on the west bank of the Jordan.
+[^22-7]: Hebrew *alafim*, literally "thousands", here the clans or divisions of Israel. Also in verses 21 and 30.
+[^22-8]: See Numbers 25:1–9.
+[^22-9]: Hebrew *mishkan*, "dwelling": the tent where Yahweh was present among his people. Also in verse 29.
+[^22-10]: Or "do not make us rebels".
+[^22-11]: Hebrew *cherem*: something given over completely to God, which in war meant destroying it and keeping nothing for oneself. See chapter 7.
+[^22-12]: Hebrew *El Elohim YHWH*, three names for God, repeated for emphasis. It can also be read "The God of gods is Yahweh" (compare Psalm 50:1).
+[^22-13]: Literally "do not save us".
+[^22-14]: Hebrew *olot*: animals burned whole on the altar.
+[^22-15]: Hebrew *minchah*: an offering of flour or grain. Also in verse 29.
+[^22-16]: Hebrew *zivchei shelamim*, traditionally "peace offerings". In these sacrifices most of the meat was eaten by the worshipers. Also in verse 27.
+[^22-17]: Literally "tomorrow". Also in verses 27 and 28.
+[^22-18]: Literally "it was good in their eyes". Also in verse 33.
+[^22-19]: The Hebrew does not give the name itself. The words that follow suggest *Ed*, "Witness".
