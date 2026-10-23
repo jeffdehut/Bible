@@ -171,8 +171,8 @@ the printed 1894 edition.
   Testament. Copyright © 2010 Society of Biblical Literature and Logos Bible Software.*
   The license text is in `sources/greek-sblgnt/LICENSE`.
 - **Scrivener 1894** (Robinson's digitization): public domain.
-- **Open Plain English Translation** (`translation/`, `text/english/`): proposed
-  [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). See TRANSLATION.md.
+- **Open Plain English Translation** (`translation/`, `text/english/`):
+  [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). See translation/LICENSE.md.
 - **`connections/`**: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). The notes
   combine OpenBible.info (CC BY), STEPBible (CC BY 4.0) and Theographic (CC BY-SA 4.0) data,
   so they inherit Theographic's share-alike terms. See `connections/README.md` for

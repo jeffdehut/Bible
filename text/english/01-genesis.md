@@ -1,6 +1,6 @@
 # Genesis
 
-> **Text:** Open Plain English Translation (pilot). Proposed license: CC BY 4.0. New Testament translated from the SBL Greek New Testament (CC BY 4.0, © 2010 Society of Biblical Literature and Logos Bible Software); Old Testament from the Unicode/XML Leningrad Codex (UXLC 2.6, Tanach.us).  
+> **Text:** Open Plain English Translation. License: CC BY 4.0. New Testament translated from the SBL Greek New Testament (CC BY 4.0, © 2010 Society of Biblical Literature and Logos Bible Software); Old Testament from the Unicode/XML Leningrad Codex (UXLC 2.6, Tanach.us).  
 > Chapters show their review status: *draft*, *checked*, *reviewed* or *approved*. See TRANSLATION.md.
 
 ## Chapter 1

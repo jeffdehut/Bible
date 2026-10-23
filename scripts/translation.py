@@ -24,7 +24,7 @@ ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 TRANSLATION = os.path.join(ROOT, "translation")
 OUT = os.path.join(ROOT, "text", "english")
 STATUSES = ["draft", "checked", "reviewed", "approved"]
-LICENSE_LINE = ("Open Plain English Translation (pilot). Proposed license: CC BY 4.0. "
+LICENSE_LINE = ("Open Plain English Translation. License: CC BY 4.0. "
                 "New Testament translated from the SBL Greek New Testament (CC BY 4.0, © 2010 Society of "
                 "Biblical Literature and Logos Bible Software); Old Testament from the Unicode/XML "
                 "Leningrad Codex (UXLC 2.6, Tanach.us).")

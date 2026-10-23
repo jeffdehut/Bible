@@ -1,6 +1,6 @@
 # John
 
-> **Text:** Open Plain English Translation (pilot). Proposed license: CC BY 4.0. New Testament translated from the SBL Greek New Testament (CC BY 4.0, © 2010 Society of Biblical Literature and Logos Bible Software); Old Testament from the Unicode/XML Leningrad Codex (UXLC 2.6, Tanach.us).  
+> **Text:** Open Plain English Translation. License: CC BY 4.0. New Testament translated from the SBL Greek New Testament (CC BY 4.0, © 2010 Society of Biblical Literature and Logos Bible Software); Old Testament from the Unicode/XML Leningrad Codex (UXLC 2.6, Tanach.us).  
 > Chapters show their review status: *draft*, *checked*, *reviewed* or *approved*. See TRANSLATION.md.
 
 ## Chapter 1
@@ -125,7 +125,7 @@
 [^1-14]: Greek *hoi Ioudaioi*, "the Jews" or "the Judeans". Here, as often in John, the word refers to the religious authorities in Jerusalem who send official representatives.
 [^1-15]: Greek *ho christos*, "the Christ", "the Anointed One".
 [^1-16]: The prophet like Moses promised in Deuteronomy 18:15–18.
-[^1-17]: Isaiah 40:3. In Isaiah's Hebrew, "the Lord" is the divine name, YHWH.
+[^1-17]: Isaiah 40:3. In Isaiah's Hebrew, "the Lord" is God's personal name, Yahweh.
 [^1-18]: Or "Some Pharisees had been sent."
 [^1-19]: The SBLGNT reads "the Chosen One of God", with some early manuscripts. Most manuscripts and editions read "the Son of God".
 [^1-20]: Literally "about the tenth hour", counting hours from sunrise.

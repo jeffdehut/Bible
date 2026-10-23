@@ -30,7 +30,7 @@ the SBLGNT apparatus or the Septuagint, are noted rather than adopted.
 
 **Meaning-based, not a paraphrase.** We translate thought for thought within each verse, not
 word for word. We keep:
-- the imagery where an English reader can follow it ("the LORD is my shepherd")
+- the imagery where an English reader can follow it ("Yahweh is my shepherd")
 - the repetition and structure of poetry and narrative
 - the text's own ambiguity where it is deliberate or unresolved
 
@@ -53,14 +53,14 @@ Decisions marked **proposed** are used in the pilot and are open for review.
 
 | Source | Rendering | Notes |
 |---|---|---|
-| יהוה (YHWH, the divine name) | **the LORD** (proposed) | Traditional English convention: small capitals, standing in for the name. Alternatives: *Yahweh* (the probable pronunciation) or *the Eternal*. |
+| יהוה (YHWH, the divine name) | **Yahweh** | God's personal name, in its probable pronunciation. Most English Bibles write "the LORD"; a note says so at the name's first occurrence in each chapter where it appears. In the New Testament, Greek *kyrios* is "the Lord", with a note where it quotes a passage using the name. |
 | אֱלֹהִים (Elohim), θεός | God | |
 | אָדָם (adam), when it means humanity | humankind / human beings | When it refers to the man Adam, *Adam*. |
 | נֶפֶשׁ (nephesh) | life, self, soul, living being, by context | Not automatically "soul". |
 | חֶסֶד (chesed) | faithful love | Loyal, covenant love. Noted where it matters. |
 | ὁ χριστός, מָשִׁיחַ | the Messiah | As a title. "Christ" where it functions as a name, e.g. *Jesus Christ*. |
 | ὁ λόγος (John 1) | the Word | |
-| οἱ Ἰουδαῖοι | the Jews / the Judeans (proposed: *the Jews*, with a note where John means the authorities in Jerusalem) | This needs care. Open for review. |
+| οἱ Ἰουδαῖοι | the Jews | Kept as written. A note explains where the context shows the religious authorities in Jerusalem are meant (common in John). |
 | ἀδελφοί (to a mixed group) | brothers and sisters (proposed) | When the context shows the group includes women; otherwise *brothers*. |
 | Units, money, time of day | modern equivalents in the text, the original in a note | e.g. "about four in the afternoon" for "the tenth hour". |
 
@@ -105,7 +105,6 @@ they're reading.
 
 ## License
 
-**Proposed:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/), the same license as
-the SBL Greek New Testament it is partly made from. Anyone may use, share and adapt it with
-attribution. The alternative is to dedicate it to the public domain (CC0), as the World
-English Bible does. That would still need to credit the SBLGNT for the New Testament.
+[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/): anyone may use, share and adapt the
+translation, including commercially, as long as they give attribution. See
+[translation/LICENSE.md](translation/LICENSE.md) for the attribution wording.
