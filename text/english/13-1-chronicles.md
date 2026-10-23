@@ -1549,3 +1549,122 @@
 [^15-12]: 2 Samuel 6:13 reads "When those who carried the ark of Yahweh had gone six steps, he sacrificed an ox and a fattened calf."
 [^15-13]: Hebrew *mekhurbal*, "clothed". In 2 Samuel 6:14 a similar word, *mekharker*, "dancing", is used: "David danced before Yahweh with all his might."
 [^15-14]: Hebrew *ephod*, here a simple linen garment worn by priests serving at the sanctuary (1 Samuel 2:18; 22:18), not the high priest's richly woven ephod (Exodus 28:6–14).
+
+## Chapter 16
+
+*Status: draft*
+
+**1** They brought in the ark of God and set it inside the tent that David had pitched for it.[^16-1] Then they offered burnt offerings and fellowship offerings[^16-2] before God.
+
+**2** When David had finished offering the burnt offerings and the fellowship offerings, he blessed the people in the name of Yahweh.[^16-3]
+
+**3** He distributed to every Israelite, both men and women, to each one a loaf of bread, a date cake[^16-4] and a raisin cake.
+
+**4** He appointed some of the Levites to minister before the ark of Yahweh, to commemorate,[^16-5] to thank and to praise Yahweh, the God of Israel.
+
+**5** Asaph was the chief, and second to him Zechariah, then Jeiel,[^16-6] Shemiramoth, Jehiel, Mattithiah, Eliab, Benaiah, Obed-edom and Jeiel, with harps and lyres, while Asaph sounded the cymbals.
+
+**6** Benaiah and Jahaziel the priests were to blow the trumpets regularly before the ark of the covenant of God.
+
+**7** That was the day when David first appointed Asaph and his kinsmen to give thanks to Yahweh:[^16-7]
+
+**8** Give thanks to Yahweh; call on his name.[^16-8] Make known his deeds among the peoples.
+
+**9** Sing to him, sing praises to him; tell of all his wonders.
+
+**10** Glory in his holy name; let the hearts of those who seek Yahweh rejoice.
+
+**11** Seek Yahweh and his strength; seek his face[^16-9] always.
+
+**12** Remember the wonders he has done, his miracles and the judgments he has spoken,[^16-10]
+
+**13** you offspring of Israel his servant,[^16-11] children of Jacob, his chosen ones.
+
+**14** He is Yahweh our God; his judgments are in all the earth.
+
+**15** Remember his covenant forever,[^16-12] the word he commanded for a thousand generations,
+
+**16** the covenant he made with Abraham, his oath to Isaac.
+
+**17** He confirmed it to Jacob as a decree, to Israel as an everlasting covenant,
+
+**18** saying, "To you I will give the land of Canaan as the portion of your inheritance."[^16-13]
+
+**19** When you were few in number,[^16-14] very few, and foreigners in the land,
+
+**20** they wandered from nation to nation, from one kingdom to another people.
+
+**21** He allowed no one to oppress them; he rebuked kings on their account:
+
+**22** "Do not touch my anointed ones;[^16-15] do not harm my prophets."
+
+**23** Sing to Yahweh, all the earth;[^16-16] proclaim his salvation day after day.
+
+**24** Declare his glory among the nations, his wonders among all the peoples.
+
+**25** For Yahweh is great and greatly to be praised; he is to be feared above all gods.
+
+**26** For all the gods of the peoples are idols,[^16-17] but Yahweh made the heavens.
+
+**27** Splendor and majesty are before him; strength and joy are in his place.[^16-18]
+
+**28** Ascribe to Yahweh, you families of the peoples, ascribe to Yahweh glory and strength.
+
+**29** Ascribe to Yahweh the glory due his name.[^16-19] Bring an offering and come before him.[^16-20] Worship Yahweh in the splendor of holiness.[^16-21]
+
+**30** Tremble before him, all the earth. The world is firmly established; it cannot be moved.
+
+**31** Let the heavens rejoice and the earth be glad; let them say among the nations, "Yahweh reigns!"[^16-22]
+
+**32** Let the sea roar, and all that fills it; let the fields exult, and everything in them.
+
+**33** Then the trees of the forest will sing for joy before Yahweh, for he comes to judge the earth.
+
+**34** Give thanks to Yahweh, for he is good; his faithful love[^16-23] endures forever.
+
+**35** Say, "Save us, God of our salvation![^16-24] Gather us and rescue us from the nations, so that we may give thanks to your holy name and glory in your praise."
+
+**36** Blessed be Yahweh, the God of Israel, from everlasting to everlasting. Then all the people said, "Amen!" and praised Yahweh.[^16-25]
+
+**37** So David left Asaph and his kinsmen there before the ark of the covenant of Yahweh, to minister before the ark regularly, as each day required.
+
+**38** He also left Obed-edom and their kinsmen, sixty-eight of them. Obed-edom son of Jeduthun and Hosah were gatekeepers.
+
+**39** He left Zadok the priest and his kinsmen the priests before the tabernacle of Yahweh at the high place[^16-26] in Gibeon,
+
+**40** to offer burnt offerings to Yahweh on the altar of burnt offering regularly, morning and evening, according to all that is written in the law of Yahweh, which he commanded Israel.
+
+**41** With them were Heman and Jeduthun and the rest of those chosen and designated by name to give thanks to Yahweh, "for his faithful love endures forever."
+
+**42** Heman and Jeduthun had with them trumpets and cymbals for those who were to play, and instruments for the songs of God.[^16-27] The sons of Jeduthun were at the gate.
+
+**43** Then all the people went away, each to his own home, and David returned to bless his household.[^16-28]
+
+[^16-1]: Verses 1–3 parallel 2 Samuel 6:17–19.
+[^16-2]: Hebrew *shelamim*, traditionally "peace offerings". Most of the meat of these sacrifices was eaten by the worshipers (Leviticus 3; 7:11–21). Also in verse 2.
+[^16-3]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles. 2 Samuel 6:18 has "Yahweh of Armies".
+[^16-4]: Hebrew *eshpar*, a rare word of uncertain meaning: perhaps a cake of dates, or a portion of meat.
+[^16-5]: Or "to invoke". Hebrew *lehazkir*, "to cause to remember".
+[^16-6]: Perhaps the Jaaziel or Aziel of 15:18 and 15:20.
+[^16-7]: Literally "On that day, then David first gave to give thanks to Yahweh by the hand of Asaph and his brothers."
+[^16-8]: Verses 8–22 match Psalm 105:1–15, with small differences.
+[^16-9]: Or "his presence".
+[^16-10]: Literally "the judgments of his mouth".
+[^16-11]: Psalm 105:6 has "Abraham his servant".
+[^16-12]: Psalm 105:8 has "He remembers his covenant forever".
+[^16-13]: Literally "the cord of your inheritance", the measuring line used to mark out a share of land.
+[^16-14]: Psalm 105:12 has "When they were few in number".
+[^16-15]: Hebrew *meshichai*, "my anointed ones", from *mashiach*, the word behind "Messiah". Here it refers to the patriarchs.
+[^16-16]: Verses 23–33 match most of Psalm 96, with some differences in wording and order.
+[^16-17]: Hebrew *elilim*, "worthless things", which sounds like *elohim*, "gods".
+[^16-18]: Psalm 96:6 has "strength and beauty are in his sanctuary".
+[^16-19]: Literally "the glory of his name".
+[^16-20]: Psalm 96:8 has "come into his courts".
+[^16-21]: Or "in holy attire".
+[^16-22]: Or "Yahweh has become king!" In Psalm 96:10 this line comes earlier.
+[^16-23]: Hebrew *chesed*: loyal, faithful love. Also in verse 41. Verses 34–36 match Psalm 106:1 and 47–48.
+[^16-24]: Psalm 106:47 has "Save us, Yahweh our God".
+[^16-25]: Psalm 106:48 has "Let all the people say, 'Amen!' Praise Yahweh!"
+[^16-26]: Hebrew *bamah*, a place of worship, often on a hill.
+[^16-27]: Or "instruments for sacred song".
+[^16-28]: Compare 2 Samuel 6:19–20.

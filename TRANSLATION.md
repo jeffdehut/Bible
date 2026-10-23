@@ -65,7 +65,8 @@ Decisions marked **proposed** are used in the pilot and are open for review.
 | אָדָם (adam), when it means humanity | humankind / human beings | When it refers to the man Adam, *Adam*. |
 | נֶפֶשׁ (nephesh) | life, self, soul, living being, by context | Not automatically "soul". |
 | חֶסֶד (chesed) | faithful love | Loyal, covenant love. Noted where it matters. |
-| ὁ χριστός, מָשִׁיחַ | the Messiah | As a title. "Christ" where it functions as a name, e.g. *Jesus Christ*. |
+| ὁ χριστός | the Messiah | As a title. "Christ" where it functions as a name, e.g. *Jesus Christ*. |
+| מָשִׁיחַ | anointed, anointed one | In the Old Testament it means a king or priest anointed with oil ("Yahweh's anointed", 1 Samuel 24:7). Where later Jewish and Christian readers heard the promised Messiah (Psalm 2:2, Daniel 9:25–26), a note says so; the text keeps "anointed". |
 | ὁ λόγος (John 1) | the Word | |
 | οἱ Ἰουδαῖοι | the Jews | Kept as written. A note explains where the context shows the religious authorities in Jerusalem are meant (common in John). |
 | ἀδελφοί (to a mixed group) | brothers and sisters (proposed) | When the context shows the group includes women; otherwise *brothers*. |
