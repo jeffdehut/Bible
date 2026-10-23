@@ -1,9 +1,15 @@
 # Raw sources
 
-Don't edit these files. Regenerate `text/` with `python3 scripts/build.py` instead, and check
-them with `python3 scripts/verify.py`. File names were normalized to the `NN-book-name.txt`
-scheme. The originals in `the Bible, OG Languages.zip` used a `.md` extension, but they are
-plain text, not Markdown.
+These are the upstream files, kept exactly as published, byte for byte. Only the file
+names were changed, to the `NN-book-name` scheme. Don't edit them. Regenerate the Markdown
+texts with `python3 scripts/build.py`, and check everything with
+`python3 scripts/verify.py`.
+
+**Why these stay `.txt` when everything else is `.md`.** Each file must stay byte-identical
+to its upstream release so it can be checked mechanically. They aren't Markdown either. As
+Markdown, the Hebrew ketiv/qere marks (`*`, `**`) would render as italics and bold, and the
+`[t]`-style notes as links. The readable Markdown versions, with those characters escaped,
+are in `text/` and `apparatus/`.
 
 ## hebrew-uxlc/
 
@@ -32,10 +38,23 @@ The other books had no number, or already had the right one.
 Scrivener's 1894 Textus Receptus as digitized by Dr. Maurice A. Robinson (public domain),
 one verse per line as `chapter:verse text`, in a lowercase ASCII transliteration without
 accents. Every verse matches https://github.com/byztxt/greektext-scrivener word for word.
-The one exception is the numeral `cxv` (Rev 13:18 = χξϛ, 666), which `build.py`
-handles separately.
+When converting to Unicode, `build.py` writes the numeral `cxv` (Rev 13:18, 666) as χξϛ,
+with a stigma; every other word is converted letter by letter:
 
 ```
 a b g d e z h y i k l m n x o p r s t u f c q w v
 α β γ δ ε ζ η θ ι κ λ μ ν ξ ο π ρ σ τ υ φ χ ψ ω ς
 ```
+
+## greek-sblgnt/
+
+The SBL Greek New Testament v1.2 (2023), edited by Michael W. Holmes. These files are
+byte-identical to the official release at https://github.com/LogosBible/SBLGNT:
+
+- `text/`: `data/sblgnt/text/<Book>.txt`. The first line is the Greek book title, then one
+  line per verse: `Book c:v<TAB>text`. The text includes the apparatus markers ⸀ ⸂⸃ ⸁ ⸄⸅.
+- `apparatus/`: `data/sblgntapp/text/<Book>.txt`. A `Book c:v` heading, then the variation
+  units for that verse, separated by `•`.
+- `LICENSE`: Creative Commons Attribution 4.0 International.
+
+Copyright © 2010 Society of Biblical Literature and Logos Bible Software. CC BY 4.0.

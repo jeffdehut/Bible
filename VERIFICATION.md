@@ -4,15 +4,71 @@ This report records how the texts in this repository were checked against their 
 reference editions, what was found, and what was changed. Run `python3 scripts/verify.py`
 to repeat the checks. It downloads the reference editions and compares every verse.
 
-Last verified: 23 Oct 2026.
+Last verified: 23 Oct 2026, with UXLC 2.6, SBLGNT v1.2, MorphGNT (Jan 2024) and
+byztxt Scrivener (May 2017).
 
 ## Summary
 
-| | Reference edition | Result |
+| Text | Checked against | Result |
 |---|---|---|
-| Hebrew OT | UXLC 2.6 (Build 27.7, 18 Oct 2026), [tanach.us](https://tanach.us) | **Identical**, all 23,213 verses, after updating from 2.5 |
-| Greek NT | Robinson's Scrivener 1894, [byztxt/greektext-scrivener](https://github.com/byztxt/greektext-scrivener) | **Identical**, all 7,957 verses, word for word |
-| `text/greek` | Round trip back to the ASCII source | **Identical**, after one conversion fix (Rev 13:18) |
+| Hebrew OT (`text/hebrew`) | UXLC 2.6 (Build 27.7, 18 Oct 2026), [tanach.us](https://tanach.us) | **Identical**, all 23,213 verses, after updating from 2.5 |
+| Greek NT (`text/greek`) | Official SBLGNT v1.2 files, [LogosBible/SBLGNT](https://github.com/LogosBible/SBLGNT) | **Byte-identical** text and apparatus, all 7,939 verses |
+| | SBLGNT XML edition (same release) | **Identical** wording and punctuation. Only the spacing after dashes (—) differs |
+| | MorphGNT SBLGNT, [morphgnt/sblgnt](https://github.com/morphgnt/sblgnt), produced independently | **Identical** except 30 verses, all explained below |
+| TR (`text/greek-tr`) | Robinson's Scrivener 1894, [byztxt/greektext-scrivener](https://github.com/byztxt/greektext-scrivener) | **Identical**, all 7,957 verses, word for word |
+| All Markdown files | Parsed back and compared with their sources | **Identical**, after one conversion fix (Rev 13:18) |
+
+## Greek New Testament: SBLGNT (main text)
+
+**Why it was chosen.** The goal of this project is a text as close as possible to what the
+authors wrote. That calls for a critical text built from the full manuscript evidence. The
+SBLGNT is the critical text with an open license (CC BY 4.0). The Nestle-Aland 28th edition
+and the Tyndale House GNT are not openly licensed.
+
+**Source.** The official SBL/Logos release on GitHub, v1.2 (10 Jul 2023), which added
+John 7:53–8:11. The SBL's published errata for the text (Rom 15:9 ὀνόματί, Matt 27:37
+βασιλεὺς) are already applied in this release.
+
+**Checks.**
+1. **Official files.** `sources/greek-sblgnt/` is byte-identical to the official text and
+   apparatus files.
+2. **Official XML.** Rebuilding every verse from the release's XML gives identical words,
+   accents and punctuation. The only difference is formatting: in 34 verses the text file
+   puts a space after a dash ("ἄρτον— μὴ") where the XML does not ("ἄρτον—μὴ").
+3. **MorphGNT.** MorphGNT, an independent word-by-word edition of the SBLGNT, matches in
+   all but 30 verses once both are Unicode-normalized:
+   - **John 7:53–8:11 (12 verses):** missing from MorphGNT, which predates SBLGNT v1.2.
+   - **Capitalization (2):** the official text capitalizes Ζηνᾶν (Titus 3:13) and Ἰδὼν
+     (Matt 27:24).
+   - **Apparatus markers (6):** present in the official text where the apparatus has an
+     entry (Acts 4:9, 1 Pet 1:6, 2 Pet 3:6, 2 Pet 3:16, 1 John 1:7, 1 John 3:7). 1 Cor 13:3
+     uses the correct dotted bracket ⸅.
+   - **Punctuation (9):** a comma, colon, raised dot or spacing in Matt 21:15, Mark 4:2, Mark 7:19,
+     Luke 18:5, Acts 3:25, 10:29, 13:43, Jas 2:11 and Rev 9:11.
+
+   No word, accent or breathing differs. MorphGNT's own 2023 accent corrections brought it
+   into agreement with the official text, which suggests the official release is the more
+   accurate of the two. We follow the official release.
+
+**Unicode note.** The official files write the Greek question mark mostly as `;` (U+003B)
+and in 28 places as `;` (U+037E). They look identical, and Unicode treats them as
+equivalent. The characters are kept exactly as published, so normalize to NFC before
+searching for `;`. Don't NFC-normalize the Hebrew: it can reorder vowel and accent marks.
+
+**Verse differences from the Textus Receptus.** The SBLGNT has 7,939 verses and the TR
+7,957.
+- **In the TR only:** these are absent from the earliest manuscripts, and the SBLGNT
+  records them in its apparatus.
+  - Matt 17:21, 18:11, 23:14
+  - Mark 7:16, 9:44, 9:46, 11:26, 15:28
+  - Luke 17:36, 23:17
+  - John 5:4
+  - Acts 8:37, 15:34, 24:7, 28:29
+  - Rom 16:25–27: the SBLGNT puts this doxology in the apparatus.
+- **Numbered differently:** Acts 19:41 is part of 19:40 in the SBLGNT, and 2 Cor 13:14 is
+  numbered 13:13.
+- **In the SBLGNT only:** 3 John 1:15 and Rev 12:18. These are numbering differences, not
+  extra text.
 
 ## Hebrew Old Testament
 
@@ -81,7 +137,7 @@ replaced with the official 2.6 text files, byte for byte. These are the correcte
 - **Joshua 21:36–37 are not in the Leningrad Codex.** UXLC supplies them, marked `[X]`, so
   the verse numbering stays continuous.
 
-## Greek New Testament
+## Greek New Testament: Textus Receptus (comparison text)
 
 **What was received.** The files match Dr. Maurice Robinson's public-domain digital text
 of Scrivener's 1894 Textus Receptus word for word in all 7,957 verses. Readings typical of
