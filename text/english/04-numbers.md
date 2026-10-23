@@ -1396,6 +1396,115 @@
 [^14-25]: Hebrew *ya'pilu*, a rare verb: "they acted presumptuously", "they dared".
 [^14-26]: *Hormah* sounds like Hebrew *cherem*, "destruction" (21:3).
 
+## Chapter 15
+
+*Status: draft*
+
+**1** Yahweh[^15-1] said to Moses,
+
+**2** "Speak to the Israelites and tell them: When you enter the land where you are to live, which I am giving you,
+
+**3** and you present to Yahweh an offering by fire,[^15-2] whether a burnt offering or a sacrifice, to fulfill a special vow or as a freewill offering or at your appointed festivals, to make a pleasing aroma[^15-3] for Yahweh from the herd or from the flock,
+
+**4** the one who brings his offering is to present to Yahweh a grain offering of a tenth of an ephah[^15-4] of fine flour mixed with a quarter of a hin[^15-5] of oil.
+
+**5** With each lamb for the burnt offering or the sacrifice, you are also to prepare a quarter of a hin of wine as a drink offering.
+
+**6** For a ram, prepare a grain offering of two tenths of an ephah[^15-6] of fine flour mixed with a third of a hin[^15-7] of oil,
+
+**7** and present a third of a hin of wine as a drink offering, a pleasing aroma to Yahweh.
+
+**8** When you prepare a young bull as a burnt offering or a sacrifice, to fulfill a special vow or as a fellowship offering[^15-8] to Yahweh,
+
+**9** you are to present with the young bull a grain offering of three tenths of an ephah[^15-9] of fine flour mixed with half a hin[^15-10] of oil,
+
+**10** and you are to present half a hin of wine as a drink offering, an offering by fire, a pleasing aroma to Yahweh.
+
+**11** This is how it is to be done for each bull or each ram, or for each lamb or young goat.
+
+**12** However many you prepare, do this for each one, according to their number.
+
+**13** Everyone who is native-born is to do these things in this way when he presents an offering by fire, a pleasing aroma to Yahweh.
+
+**14** If a foreigner[^15-11] is living with you, or anyone else who is among you throughout your generations, and he presents an offering by fire, a pleasing aroma to Yahweh, he is to do just as you do.
+
+**15** For the assembly there is to be one statute for you and for the foreigner who lives among you. It is a permanent statute throughout your generations: you and the foreigner are to be alike before Yahweh.
+
+**16** There is to be one law and one regulation for you and for the foreigner who lives among you."
+
+**17** Yahweh said to Moses,
+
+**18** "Speak to the Israelites and tell them: When you come into the land where I am bringing you
+
+**19** and you eat the food of the land, you are to set aside a contribution[^15-12] for Yahweh.
+
+**20** From the first of your dough[^15-13] you are to set aside a loaf as a contribution. Set it aside just as you do the contribution from the threshing floor.
+
+**21** Throughout your generations you are to give Yahweh a contribution from the first of your dough.
+
+**22** "But suppose you unintentionally fail to keep[^15-14] all these commands that Yahweh gave Moses,
+
+**23** everything that Yahweh has commanded you through Moses, from the day Yahweh gave his commands and on throughout your generations.
+
+**24** If it was done unintentionally, without the community being aware of it,[^15-15] the whole community is to offer one young bull as a burnt offering, a pleasing aroma to Yahweh, with its grain offering and its drink offering as prescribed, and one male goat as a sin offering.[^15-16]
+
+**25** The priest is to make atonement for the whole community of the Israelites, and they will be forgiven, because it was unintentional, and they have brought their offering, an offering by fire to Yahweh, and their sin offering before Yahweh for their unintentional wrong.
+
+**26** The whole community of the Israelites will be forgiven, and the foreigner who lives among them, because all the people were involved in the unintentional wrong.
+
+**27** "If one person sins unintentionally, he is to present a year-old female goat as a sin offering.
+
+**28** The priest is to make atonement before Yahweh for the person who has done wrong by sinning unintentionally, to make atonement for him, and he will be forgiven.
+
+**29** You are to have one law for anyone who acts unintentionally, whether he is a native-born Israelite or a foreigner who lives among them.
+
+**30** But anyone who acts defiantly,[^15-17] whether native-born or foreigner, is insulting Yahweh. That person is to be cut off from among his people.[^15-18]
+
+**31** Because he has despised the word of Yahweh and broken his command, that person must certainly be cut off. His guilt remains on him."
+
+**32** While the Israelites were in the wilderness, they found a man gathering wood on the Sabbath day.
+
+**33** Those who found him gathering wood brought him to Moses and Aaron and to the whole community.
+
+**34** They put him in custody, because it had not been made clear what should be done to him.
+
+**35** Then Yahweh said to Moses, "The man must be put to death. The whole community is to stone him outside the camp."
+
+**36** So the whole community took him outside the camp and stoned him to death, as Yahweh had commanded Moses.
+
+**37** Yahweh said to Moses,
+
+**38** "Speak to the Israelites and tell them to make tassels[^15-19] on the corners of their garments throughout their generations, and to put a blue[^15-20] cord on the tassel at each corner.
+
+**39** You will have the tassel so that when you see it you will remember all Yahweh's commands and do them, and not go about following[^15-21] your own heart and your own eyes, which lead you to be unfaithful.[^15-22]
+
+**40** So you will remember and do all my commands, and you will be holy to your God.
+
+**41** I am Yahweh your God, who brought you out of the land of Egypt to be your God. I am Yahweh your God."
+
+[^15-1]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^15-2]: Hebrew *ishsheh*, traditionally "an offering made by fire", as if from *esh*, "fire". Some think it means "gift" or "food offering". Also in verses 10, 13, 14 and 25.
+[^15-3]: Literally "a soothing smell", an expression for an offering that Yahweh accepts with pleasure. Also in verses 7, 10, 13, 14 and 24.
+[^15-4]: Literally "a tenth", that is, a tenth of an ephah: about 2 quarts (2.2 liters).
+[^15-5]: About 1 quart (1 liter).
+[^15-6]: About 4 1/2 quarts (4.4 liters).
+[^15-7]: About 1 1/4 quarts (1.2 liters).
+[^15-8]: Hebrew *shelamim*, traditionally "peace offering". In these sacrifices most of the meat was eaten by the worshipers.
+[^15-9]: About 7 quarts (6.6 liters).
+[^15-10]: About 2 quarts (1.9 liters).
+[^15-11]: Hebrew *ger*: someone from elsewhere who lives among the Israelites, a resident foreigner. Also in verses 15–16, 26 and 29–30.
+[^15-12]: Hebrew *terumah*: something set apart and given for a sacred purpose (Exodus 25:2). Also in verses 20 and 21.
+[^15-13]: Hebrew *arisah*, a rare word: perhaps "dough" or "coarse meal". Also in verse 21.
+[^15-14]: Literally "go astray and do not do".
+[^15-15]: Literally "away from the eyes of the community".
+[^15-16]: Hebrew *chatta't*, traditionally "sin offering": an offering that removed the uncleanness caused by sin or impurity. Some translate it "purification offering". Also in verses 25 and 27.
+[^15-17]: Literally "with a high hand", that is, openly and deliberately.
+[^15-18]: See the note on 9:13. Also in verse 31.
+[^15-19]: Hebrew *tsitsit*: tassels or fringes. Also in verse 39.
+[^15-20]: Hebrew *tekhelet*, a costly violet-blue dye.
+[^15-21]: Hebrew *tur*, the verb used for exploring the land in chapters 13–14.
+[^15-22]: Literally "after which you prostitute yourselves", an image often used for unfaithfulness to Yahweh.
+
 ## Chapter 18
 
 *Status: draft*
@@ -2625,3 +2734,104 @@
 [^31-18]: Hebrew *kumaz*, of uncertain meaning: perhaps a pendant or necklace.
 [^31-19]: A shekel was about 2/5 ounce (11.5 grams), so this was about 420 pounds (190 kilograms).
 [^31-20]: Or "a memorial".
+
+## Chapter 32
+
+*Status: draft*
+
+**1** The Reubenites and the Gadites had a very great number of livestock. They saw that the land of Jazer and the land of Gilead was a good place for livestock.
+
+**2** So the Gadites and the Reubenites came to Moses, to Eleazar the priest and to the leaders of the community, and said,
+
+**3** "Ataroth, Dibon, Jazer, Nimrah, Heshbon, Elealeh, Sebam, Nebo and Beon,
+
+**4** the land that Yahweh[^32-1] struck down before the community of Israel, is a land for livestock, and your servants have livestock."
+
+**5** They said, "If we have found favor in your eyes, let this land be given to your servants as our property. Do not make us cross the Jordan."
+
+**6** Moses said to the Gadites and the Reubenites, "Are your brothers to go to war while you stay here?
+
+**7** Why would you discourage the Israelites[^32-2] from crossing over into the land that Yahweh has given them?
+
+**8** That is what your fathers did when I sent them from Kadesh-barnea to look at the land.
+
+**9** They went up as far as the Valley of Eshcol and saw the land, and then they discouraged the Israelites from going into the land that Yahweh had given them.
+
+**10** Yahweh's anger burned that day, and he swore an oath:
+
+**11** 'Not one of the men twenty years old or more who came up out of Egypt will see the land that I swore to give to Abraham, Isaac and Jacob,[^32-3] because they have not followed me wholeheartedly,[^32-4]
+
+**12** none except Caleb son of Jephunneh the Kenizzite and Joshua son of Nun, because they have followed Yahweh wholeheartedly.'
+
+**13** Yahweh's anger burned against Israel, and he made them wander in the wilderness for forty years, until the whole generation that had done evil in Yahweh's sight was gone.
+
+**14** And now here you are, standing up in your fathers' place, a brood of sinful men, to add still more to Yahweh's fierce anger against Israel!
+
+**15** If you turn away from following him, he will once again leave them in the wilderness, and you will bring destruction on this whole people."
+
+**16** Then they came up to him and said, "We will build sheep pens here for our livestock, and towns for our little ones.
+
+**17** But we ourselves will arm ourselves and go quickly[^32-5] ahead of the Israelites, until we have brought them to their place. Meanwhile our little ones will live in the fortified towns, safe from the people who live in the land.
+
+**18** We will not return to our homes until every one of the Israelites has taken possession of his inheritance.
+
+**19** For we will not take an inheritance with them across the Jordan and beyond, because our inheritance has come to us on the east side of the Jordan."
+
+**20** Moses said to them, "If you will do this, if you will arm yourselves to go before Yahweh into battle,
+
+**21** and every one of your armed men will cross the Jordan before Yahweh, until he has driven out his enemies from before him,
+
+**22** and the land is brought under control before Yahweh, then after that you may return. You will be free of your obligation to Yahweh and to Israel, and this land will be your property before Yahweh.
+
+**23** But if you do not do this, you will have sinned against Yahweh. And be sure that your sin will find you out.
+
+**24** Build towns for your little ones and pens for your flocks, but do what you have promised."[^32-6]
+
+**25** The Gadites and the Reubenites said to Moses, "Your servants will do as my lord commands.
+
+**26** Our little ones, our wives, our flocks and all our livestock will stay there in the towns of Gilead,
+
+**27** but your servants, every man armed for war, will cross over before Yahweh to the battle, just as my lord says."
+
+**28** So Moses gave orders about them to Eleazar the priest, to Joshua son of Nun and to the heads of the ancestral families of the tribes of the Israelites.
+
+**29** Moses said to them, "If the Gadites and the Reubenites cross the Jordan with you, every man armed for battle before Yahweh, and the land is brought under control before you, then you are to give them the land of Gilead as their property.
+
+**30** But if they do not cross over with you armed, they must receive their property among you in the land of Canaan."
+
+**31** The Gadites and the Reubenites answered, "What Yahweh has said to your servants, that is what we will do.
+
+**32** We will cross over armed before Yahweh into the land of Canaan, but the property we inherit will remain ours across the Jordan."[^32-7]
+
+**33** So Moses gave to the Gadites, the Reubenites and the half-tribe of Manasseh son of Joseph the kingdom of Sihon king of the Amorites and the kingdom of Og king of Bashan: the land with its towns and their territories, the towns of the land all around.
+
+**34** The Gadites built Dibon, Ataroth, Aroer,
+
+**35** Atroth-shophan, Jazer, Jogbehah,
+
+**36** Beth-nimrah and Beth-haran, as fortified towns, and sheep pens.
+
+**37** The Reubenites built Heshbon, Elealeh, Kiriathaim,
+
+**38** Nebo and Baal-meon (their names were changed),[^32-8] and Sibmah. They gave new names to the towns they built.[^32-9]
+
+**39** The descendants of Machir son of Manasseh went to Gilead and captured it, and drove out the Amorites who were there.
+
+**40** So Moses gave Gilead to Machir son of Manasseh, and he settled there.
+
+**41** Jair son of Manasseh went and captured their villages,[^32-10] and he called them Havvoth-jair.[^32-11]
+
+**42** Nobah went and captured Kenath and its villages,[^32-12] and he called it Nobah, after his own name.
+
+[^32-1]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^32-2]: Literally "turn away the heart of the sons of Israel". Also in verse 9.
+[^32-3]: Literally "If the men … will see the land": a form of oath meaning "they will certainly not see it".
+[^32-4]: Literally "they have not filled after me", that is, followed fully. Also in verse 12.
+[^32-5]: Hebrew *chushim*, "hurrying". Some read *chamushim*, "in battle formation", as in Exodus 13:18.
+[^32-6]: Literally "what has gone out of your mouth".
+[^32-7]: That is, east of the Jordan.
+[^32-8]: Nebo and Baal were the names of gods. The note may mean that these names were changed, or that they were not to be spoken.
+[^32-9]: Literally "They called by names the names of the towns that they built."
+[^32-10]: Hebrew *chavvot*, probably tent villages.
+[^32-11]: The name means "villages of Jair".
+[^32-12]: Literally "daughters": the smaller towns that depended on it.

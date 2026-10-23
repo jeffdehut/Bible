@@ -1205,3 +1205,72 @@
 [^14-17]: Hebrew *shekhar*, an intoxicating drink, probably beer made from grain.
 [^14-18]: Literally "anything your *nephesh* (self) asks of you".
 [^14-19]: Hebrew *yatom*, a child who has lost his father, traditionally "orphan".
+
+## Chapter 15
+
+*Status: draft*
+
+**1** At the end of every seven years you must grant a release.[^15-1]
+
+**2** This is how the release is to be done: every creditor is to cancel the loan he has made to his neighbor.[^15-2] He must not press his neighbor, his fellow Israelite,[^15-3] for payment, because a release has been proclaimed for Yahweh.[^15-4]
+
+**3** You may press a foreigner[^15-5] for payment, but you must cancel whatever your fellow Israelite owes you.[^15-6]
+
+**4** However, there should be no poor among you,[^15-7] for Yahweh will richly bless you in the land that Yahweh your God is giving you as an inheritance to possess,
+
+**5** if only you listen carefully to the voice of Yahweh your God and are careful to follow all this commandment that I am giving you today.
+
+**6** For Yahweh your God will bless you, as he has promised you. You will lend to many nations, but you will not borrow. You will rule over many nations, but they will not rule over you.
+
+**7** If there is a poor person among you, one of your fellow Israelites, in any of your towns[^15-8] in the land that Yahweh your God is giving you, do not be hardhearted or tightfisted toward your poor brother.[^15-9]
+
+**8** Instead, open your hand to him freely, and lend him enough for whatever he needs.
+
+**9** Be careful not to harbor this wicked thought:[^15-10] "The seventh year, the year of release, is near," and so look grudgingly[^15-11] on your poor brother and give him nothing. He may cry out to Yahweh against you, and you will be guilty of sin.
+
+**10** Give to him generously, and do not give with a grudging heart,[^15-12] for because of this Yahweh your God will bless you in all your work and in everything you set your hand to.
+
+**11** For there will never cease to be poor people in the land.[^15-13] That is why I command you: open your hand freely to your brother, to the needy and the poor in your land.
+
+**12** If one of your own people, a Hebrew man or a Hebrew woman, is sold to you[^15-14] and serves you for six years, then in the seventh year you must set that person free.
+
+**13** And when you set him free, do not send him away empty-handed.
+
+**14** Supply him generously[^15-15] from your flock, your threshing floor and your winepress. Give to him as Yahweh your God has blessed you.
+
+**15** Remember that you were a slave in the land of Egypt, and Yahweh your God redeemed you. That is why I am giving you this command today.
+
+**16** But if he says to you, "I do not want to leave you," because he loves you and your household and is well off with you,
+
+**17** then take an awl and drive it through his ear into the door, and he will be your slave for life.[^15-16] Do the same for your female slave.
+
+**18** Do not consider it a hardship to set him free, for his six years of service to you have been worth twice the wages of a hired worker.[^15-17] And Yahweh your God will bless you in everything you do.
+
+**19** Set apart for Yahweh your God every firstborn male born in your herd and in your flock. Do not put the firstborn of your oxen to work, and do not shear the firstborn of your sheep.
+
+**20** Each year you and your household are to eat them before Yahweh your God, in the place that Yahweh will choose.
+
+**21** But if an animal has a defect, if it is lame or blind or has any serious defect, you must not sacrifice it to Yahweh your God.
+
+**22** Eat it in your towns. Both the unclean and the clean[^15-18] may eat it, as they would a gazelle or a deer.
+
+**23** But you must not eat its blood. Pour it out on the ground like water.
+
+[^15-1]: Hebrew *shemittah*, "letting drop": a cancellation of debts. Also in verses 2 and 9.
+[^15-2]: Literally "every owner of a loan of his hand shall release what he lends to his neighbor".
+[^15-3]: Literally "his brother"; also in verses 3, 7, 9 and 11.
+[^15-4]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^15-5]: Hebrew *nokhri*: a foreigner from another land who has not settled among the Israelites.
+[^15-6]: Literally "but what is yours with your brother, your hand shall release".
+[^15-7]: Or "there will be no poor among you".
+[^15-8]: Literally "gates"; also in verse 22.
+[^15-9]: Literally "do not harden your heart or shut your hand against your poor brother".
+[^15-10]: Literally "lest there be a word in your heart, a *beliyya'al* (worthless) one".
+[^15-11]: Literally "and your eye is evil toward".
+[^15-12]: Literally "and let your heart not be evil".
+[^15-13]: Compare Mark 14:7.
+[^15-14]: Or "sells himself to you". Literally "your brother, the Hebrew man or the Hebrew woman". Compare Exodus 21:2–11.
+[^15-15]: Hebrew *ha'aneq ta'aniq*, from a word for "necklace": load him with gifts as if hanging them around his neck.
+[^15-16]: Literally "a slave forever".
+[^15-17]: Or "worth the wages of a hired worker". Literally "for double the hire of a hired worker he has served you six years".
+[^15-18]: That is, people who are ritually unclean as well as people who are clean.

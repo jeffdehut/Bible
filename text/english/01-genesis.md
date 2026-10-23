@@ -2087,6 +2087,69 @@
 [^27-7]: The meaning of the Hebrew verb is uncertain.
 [^27-8]: Literally "the daughters of Heth"; also later in this verse. See 10:15.
 
+## Chapter 28
+
+*Status: draft*
+
+**1** So Isaac called Jacob, blessed him and commanded him, "You must not marry one of the Canaanite women.[^28-1]
+
+**2** Get up, go to Paddan-aram, to the house of Bethuel, your mother's father, and take a wife from there, from among the daughters of Laban, your mother's brother.
+
+**3** May God Almighty[^28-2] bless you and make you fruitful and multiply you, so that you become an assembly of peoples.
+
+**4** May he give the blessing of Abraham to you and to your offspring[^28-3] with you, so that you may take possession of the land where you are now living as a foreigner,[^28-4] which God gave to Abraham."
+
+**5** So Isaac sent Jacob away, and he went to Paddan-aram, to Laban son of Bethuel the Aramean, the brother of Rebekah, the mother of Jacob and Esau.
+
+**6** Esau saw that Isaac had blessed Jacob and sent him away to Paddan-aram to take a wife from there, and that as he blessed him he commanded him, "You must not marry one of the Canaanite women,"
+
+**7** and that Jacob had obeyed his father and his mother and gone to Paddan-aram.
+
+**8** Esau saw that the Canaanite women displeased his father Isaac.
+
+**9** So Esau went to Ishmael and married Mahalath, the daughter of Abraham's son Ishmael and the sister of Nebaioth, in addition to the wives he had.
+
+**10** Jacob left Beersheba and set out for Haran.
+
+**11** He came to a certain place[^28-5] and spent the night there, because the sun had set. He took one of the stones of the place, put it under his head,[^28-6] and lay down to sleep in that place.
+
+**12** He dreamed, and there was a stairway[^28-7] set up on the earth, with its top reaching to heaven, and there were angels of God going up and down on it.
+
+**13** And there was Yahweh,[^28-8] standing above it.[^28-9] He said, "I am Yahweh, the God of your father Abraham and the God of Isaac. The land on which you are lying I will give to you and to your offspring.
+
+**14** Your offspring will be like the dust of the earth, and you will spread out to the west and to the east, to the north and to the south. All the families of the earth will be blessed[^28-10] in you and in your offspring.
+
+**15** Look, I am with you and will watch over you wherever you go, and I will bring you back to this land. For I will not leave you until I have done what I have promised you."
+
+**16** Then Jacob woke from his sleep and said, "Surely Yahweh is in this place, and I did not know it."
+
+**17** He was afraid and said, "How awesome this place is! This is none other than the house of God, and this is the gate of heaven."
+
+**18** Jacob got up early in the morning, took the stone that he had put under his head, set it up as a pillar[^28-11] and poured oil on top of it.
+
+**19** He named that place Bethel,[^28-12] though the name of the city was originally Luz.
+
+**20** Then Jacob made a vow, saying, "If God will be with me and watch over me on this journey that I am taking, and give me bread to eat and clothes to wear,
+
+**21** and I return safely[^28-13] to my father's house, then Yahweh will be my God,[^28-14]
+
+**22** and this stone that I have set up as a pillar will be God's house, and of everything you give me I will surely give you a tenth."
+
+[^28-1]: Literally "the daughters of Canaan"; also in verses 6 and 8.
+[^28-2]: Hebrew *El Shaddai*. The meaning of *Shaddai* is uncertain.
+[^28-3]: Literally "seed"; also in verses 13 and 14.
+[^28-4]: Literally "the land of your sojournings"; see 17:8.
+[^28-5]: Literally "the place". Hebrew *maqom* often means a holy site (12:6).
+[^28-6]: Literally "at his head"; also in verse 18.
+[^28-7]: Hebrew *sullam*, a word found only here: perhaps a ramp or stairway. Traditionally "ladder".
+[^28-8]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^28-9]: Or "beside him".
+[^28-10]: Or "will bless themselves by you"; see 12:3. "Earth" here is Hebrew *adamah*, "ground".
+[^28-11]: Hebrew *matsevah*, a standing stone set up as a memorial or for worship; also in verse 22.
+[^28-12]: *Bethel* means "house of God".
+[^28-13]: Literally "in peace". Hebrew *shalom*.
+[^28-14]: Or "and if Yahweh will be my God, then this stone …".
+
 ## Chapter 29
 
 *Status: draft*
@@ -2668,7 +2731,7 @@
 
 **5** As they set out, a terror from God[^35-2] fell on the towns all around them, so that no one pursued Jacob's sons.
 
-**6** Jacob and all the people who were with him came to Luz, that is, Bethel, in the land of Canaan.
+**6** Jacob and all the people who were with him came to Luz (that is, Bethel) in the land of Canaan.
 
 **7** There he built an altar, and he called the place El-bethel,[^35-3] because it was there that God had revealed himself[^35-4] to him when he was running away from his brother.
 
@@ -2694,7 +2757,7 @@
 
 **18** As her life[^35-9] was slipping away, for she was dying, she named him Ben-oni.[^35-10] But his father called him Benjamin.[^35-11]
 
-**19** So Rachel died, and she was buried on the way to Ephrath, that is, Bethlehem.
+**19** So Rachel died, and she was buried on the way to Ephrath (that is, Bethlehem).
 
 **20** Jacob set up a standing stone over her grave. It is the marker of Rachel's grave to this day.
 
@@ -2710,7 +2773,7 @@
 
 **26** The sons of Leah's servant Zilpah: Gad and Asher. These were the sons of Jacob who were born to him in Paddan-aram.
 
-**27** Jacob came to his father Isaac at Mamre, at Kiriath-arba, that is, Hebron, where Abraham and Isaac had lived as foreigners.
+**27** Jacob came to his father Isaac at Mamre, at Kiriath-arba (that is, Hebron), where Abraham and Isaac had lived as foreigners.
 
 **28** Isaac lived a hundred and eighty years.
 
@@ -2728,7 +2791,7 @@
 [^35-10]: *Ben-oni* means "son of my sorrow", or perhaps "son of my strength".
 [^35-11]: *Benjamin* means "son of the right hand", that is, a son of good fortune, or "son of the south".
 [^35-12]: *Migdal-eder* means "tower of the flock".
-[^35-13]: Hebrew *pilegesh*, a secondary wife with lower status than a full wife.
+[^35-13]: Hebrew *pilegesh*, a wife of lower status than a principal wife.
 [^35-14]: The Hebrew text has a paragraph break in the middle of this verse, at this point. The Septuagint adds "and it was evil in his sight".
 [^35-15]: Literally "satisfied with days".
 
@@ -2736,7 +2799,7 @@
 
 *Status: draft*
 
-**1** This is the family history[^36-1] of Esau, that is, Edom.
+**1** These are the generations[^36-1] of Esau (that is, Edom).
 
 **2** Esau took his wives from the women[^36-2] of Canaan: Adah daughter of Elon the Hittite, and Oholibamah daughter of Anah, daughter[^36-3] of Zibeon the Hivite,
 
@@ -2752,7 +2815,7 @@
 
 **8** So Esau settled in the hill country of Seir. Esau is Edom.
 
-**9** This is the family history of Esau, the father of Edom,[^36-7] in the hill country of Seir.
+**9** These are the generations of Esau, the father of Edom,[^36-7] in the hill country of Seir.
 
 **10** These are the names of Esau's sons: Eliphaz, the son of Esau's wife Adah, and Reuel, the son of Esau's wife Basemath.
 
@@ -2822,14 +2885,14 @@
 
 **43** chief Magdiel and chief Iram. These are the chiefs of Edom, according to their settlements in the land they possessed. This is Esau, the father of Edom.
 
-[^36-1]: Hebrew *toledot*, "generations", a heading used throughout Genesis to begin the account of a person's family and descendants. Also in verse 9.
+[^36-1]: Hebrew *toledot*; see 2:4. Also in verse 9.
 [^36-2]: Literally "daughters".
 [^36-3]: Probably "granddaughter": in verse 24 Anah is Zibeon's son. The Samaritan Pentateuch and the Septuagint read "Anah son of Zibeon". Also in verse 14. Verse 20 counts Zibeon among the Horites.
 [^36-4]: The Hebrew text is written "Jeish" but read "Jeush".
 [^36-5]: Hebrew *nephesh*, "persons".
 [^36-6]: Literally "to a land". The Hebrew does not name it; verse 8 says that Esau settled in Seir.
 [^36-7]: That is, the ancestor of the Edomites. Also in verse 43.
-[^36-8]: Hebrew *pilegesh*, a secondary wife with lower status than a full wife.
+[^36-8]: Hebrew *pilegesh*, a wife of lower status than a principal wife.
 [^36-9]: Literally "sons". Also in verses 13, 16 and 17.
 [^36-10]: The Hebrew text is written "Jeish" but read "Jeush", as in verse 5.
 [^36-11]: Hebrew *alluf*, the head of a clan. Some take the word to mean "clan" (Hebrew *eleph*). Also in the rest of the chapter.
@@ -2845,7 +2908,7 @@
 
 **1** Jacob settled in the land where his father had lived as a foreigner, the land of Canaan.
 
-**2** This is the family history[^37-1] of Jacob. Joseph, a young man of seventeen, was tending the flock with his brothers. He was a helper[^37-2] to the sons of Bilhah and the sons of Zilpah, his father's wives. And Joseph brought their father a bad report about them.
+**2** These are the generations[^37-1] of Jacob. Joseph, a young man of seventeen, was tending the flock with his brothers. He was a helper[^37-2] to the sons of Bilhah and the sons of Zilpah, his father's wives. And Joseph brought their father a bad report about them.
 
 **3** Now Israel loved Joseph more than all his other sons, because he was the son of his old age. And he made him a special robe.[^37-3]
 
@@ -2915,7 +2978,7 @@
 
 **36** Meanwhile the Midianites[^37-13] sold Joseph in Egypt to Potiphar, one of Pharaoh's officials,[^37-14] the captain of the guard.[^37-15]
 
-[^37-1]: Hebrew *toledot*, "generations", a heading used throughout Genesis to begin the account of a person's family and descendants. What follows is the story of Jacob's sons.
+[^37-1]: Hebrew *toledot*; see 2:4. What follows is the story of Jacob's family.
 [^37-2]: Hebrew *na'ar*, "boy, young man", also used of a young assistant. Or "He was a boy with the sons of Bilhah and the sons of Zilpah".
 [^37-3]: Hebrew *ketonet passim*. The meaning of *passim* is uncertain; it may mean a long robe with sleeves reaching to the wrists, or a robe with decorations. The Septuagint has "a many-colored robe", the source of the traditional "coat of many colors". Also in verses 23 and 32.
 [^37-4]: In the Hebrew text the small word that marks the object of the verb has dots written above it, one of a few places where the scribes marked a word in this way.
@@ -3769,7 +3832,7 @@
 
 **6** But any children born to you after them will be yours. In their inheritance they will be counted under the names of their brothers.
 
-**7** As for me, when I was coming from Paddan, Rachel died, to my sorrow,[^48-2] in the land of Canaan on the way, while we were still some distance from Ephrath. I buried her there on the way to Ephrath, that is, Bethlehem."
+**7** As for me, when I was coming from Paddan, Rachel died, to my sorrow,[^48-2] in the land of Canaan on the way, while we were still some distance from Ephrath. I buried her there on the way to Ephrath (that is, Bethlehem)."
 
 **8** When Israel saw Joseph's sons, he asked, "Who are these?"
 
