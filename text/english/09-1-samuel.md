@@ -2236,3 +2236,129 @@
 [^29-7]: Literally "your going out and your coming in with me in the camp is good in my eyes".
 [^29-8]: Literally "do nothing evil in the eyes of".
 [^29-9]: The Septuagint adds "and go to the place where I stationed you. Do not let any evil thought enter your heart, for you are good in my sight."
+
+## Chapter 30
+
+*Status: draft*
+
+**1** When David and his men came to Ziklag on the third day, the Amalekites had made a raid on the Negev[^30-1] and on Ziklag. They had attacked Ziklag and burned it with fire.
+
+**2** They had taken captive the women who were in it, from the youngest to the oldest. They had not killed anyone, but had carried them off and gone on their way.
+
+**3** When David and his men came to the town, there it was, burned with fire, and their wives, sons and daughters had been taken captive.
+
+**4** Then David and the troops with him wept aloud until they had no strength left to weep.
+
+**5** David's two wives had been taken captive, Ahinoam of Jezreel and Abigail of Carmel, Nabal's widow.
+
+**6** David was in great distress, because the troops were talking of stoning him. All the troops were bitter in spirit,[^30-2] each one over his sons[^30-3] and daughters. But David found strength in Yahweh[^30-4] his God.
+
+**7** David said to Abiathar the priest, son of Ahimelech, "Please bring me the ephod." So Abiathar brought the ephod to David.
+
+**8** David inquired of Yahweh, "Shall I pursue this raiding party?[^30-5] Will I overtake them?" He answered him, "Pursue, for you will certainly overtake them, and you will certainly rescue the captives."[^30-6]
+
+**9** So David went, he and the six hundred men who were with him, and they came to the Besor Valley,[^30-7] where some stayed behind.
+
+**10** David kept up the pursuit, he and four hundred men. Two hundred men, who were too exhausted to cross the Besor Valley, stayed behind.
+
+**11** They found an Egyptian in the open country and brought him to David. They gave him bread, and he ate, and they gave him water to drink.
+
+**12** They also gave him a piece of a cake of pressed figs and two clusters of raisins. He ate, and his strength came back,[^30-8] for he had not eaten food or drunk water for three days and three nights.
+
+**13** David asked him, "To whom do you belong? Where are you from?" He said, "I am a young Egyptian, the slave of an Amalekite. My master abandoned me three days ago, because I fell sick.
+
+**14** We had made a raid on the Negev of the Cherethites,[^30-9] on the territory belonging to Judah and on the Negev of Caleb, and we burned Ziklag with fire."
+
+**15** David said to him, "Will you take me down to this raiding party?" He said, "Swear to me by God that you will not kill me or hand me over to my master, and I will take you down to this raiding party."
+
+**16** So he took him down, and there they were, spread out over the whole area, eating, drinking and celebrating because of all the great plunder they had taken from the land of the Philistines and from the land of Judah.
+
+**17** David struck them down from twilight[^30-10] until the evening of the next day. Not one of them escaped, except four hundred young men who rode off on camels and fled.
+
+**18** David recovered everything the Amalekites had taken, and David rescued his two wives.
+
+**19** Nothing of theirs was missing, small or great, sons or daughters, plunder or anything they had taken. David brought it all back.
+
+**20** David took all the flocks and herds. They drove them ahead of the other livestock and said, "This is David's plunder."[^30-11]
+
+**21** Then David came to the two hundred men who had been too exhausted to follow David, and who had been left[^30-12] at the Besor Valley. They came out to meet David and the troops with him. When David approached with the troops, he greeted them.[^30-13]
+
+**22** But all the evil and worthless men[^30-14] among those who had gone with David said, "Because they did not go with us,[^30-15] we will not give them any of the plunder we recovered, except that each man may take his wife and his children and go."
+
+**23** But David said, "You must not do that, my brothers, with what Yahweh has given us. He has protected us and handed over to us the raiding party that came against us.
+
+**24** Who would listen to you in this matter? The share of the one who stays with the supplies is to be the same as the share of the one who goes down into battle. They will share alike."
+
+**25** From that day forward he made it a decree and a ruling[^30-16] for Israel, as it is to this day.
+
+**26** When David came to Ziklag, he sent some of the plunder to the elders of Judah, his friends,[^30-17] saying, "Here is a gift[^30-18] for you from the plunder of the enemies of Yahweh."
+
+**27** He sent it to those in Bethel, Ramoth-negev[^30-19] and Jattir,
+
+**28** to those in Aroer, Siphmoth and Eshtemoa,
+
+**29** to those in Racal,[^30-20] in the towns of the Jerahmeelites and in the towns of the Kenites,
+
+**30** to those in Hormah, Bor-ashan and Athach,
+
+**31** to those in Hebron, and to all the places where David and his men had roamed.
+
+[^30-1]: The dry country in the south of the land. Also in verse 14.
+[^30-2]: Literally "the *nephesh* of all the troops was bitter".
+[^30-3]: The Hebrew text is written "his son" but read "his sons".
+[^30-4]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^30-5]: Hebrew *gedud*, a band of raiders. Also in verses 15 and 23.
+[^30-6]: Literally "and you will certainly rescue".
+[^30-7]: Hebrew *nachal*, a valley with a stream that flows in the rainy season. Also in verses 10 and 21.
+[^30-8]: Literally "his spirit came back to him".
+[^30-9]: A people related to the Philistines, perhaps from Crete. Some of them later served in David's bodyguard (2 Samuel 8:18).
+[^30-10]: Hebrew *neshef*, which can mean either evening twilight or dawn.
+[^30-11]: The Hebrew of this verse is difficult. Literally "and they drove before that livestock, and they said, 'This is David's plunder.'"
+[^30-12]: Literally "whom they had made stay".
+[^30-13]: Literally "he asked them about their *shalom* (well-being)".
+[^30-14]: Literally "every evil man and *beliyya'al*"; see 2:12.
+[^30-15]: Literally "with me".
+[^30-16]: Hebrew *choq u-mishpat*.
+[^30-17]: Literally "to his friend".
+[^30-18]: Literally "blessing".
+[^30-19]: Literally "Ramoth of the Negev".
+[^30-20]: The Septuagint reads "Carmel".
+
+## Chapter 31
+
+*Status: draft*
+
+**1** Now the Philistines fought against Israel. The men of Israel fled before the Philistines, and many fell dead[^31-1] on Mount Gilboa.
+
+**2** The Philistines pursued Saul and his sons closely, and the Philistines struck down Jonathan, Abinadab and Malchi-shua, the sons of Saul.
+
+**3** The battle pressed hard against Saul. The archers found him, and he was badly wounded by the archers.[^31-2]
+
+**4** Saul said to his armor-bearer, "Draw your sword and run me through with it, or these uncircumcised men will come and run me through and abuse me."[^31-3] But his armor-bearer would not, for he was very much afraid. So Saul took the sword and fell on it.
+
+**5** When his armor-bearer saw that Saul was dead, he too fell on his sword and died with him.
+
+**6** So Saul, his three sons, his armor-bearer and all his men died together on that day.
+
+**7** When the men of Israel on the other side of the valley and on the other side of the Jordan saw that the men of Israel had fled and that Saul and his sons were dead, they abandoned their towns and fled. And the Philistines came and lived in them.
+
+**8** The next day, when the Philistines came to strip the dead, they found Saul and his three sons lying dead[^31-4] on Mount Gilboa.
+
+**9** They cut off his head and stripped off his armor, and they sent messengers throughout the land of the Philistines to spread the good news in the temples of their idols[^31-5] and among the people.
+
+**10** They put his armor in the temple of the Ashtoreths,[^31-6] and they fastened his body to the wall of Beth-shan.
+
+**11** When the people of Jabesh-gilead heard what the Philistines had done to Saul,[^31-7]
+
+**12** all their valiant men[^31-8] set out and traveled all night. They took the body of Saul and the bodies of his sons from the wall of Beth-shan, came to Jabesh and burned them there.
+
+**13** Then they took their bones and buried them under the tamarisk tree at Jabesh, and they fasted for seven days.
+
+[^31-1]: Literally "fell slain". 1 Chronicles 10:1–12 tells the same story.
+[^31-2]: Or "he was terrified of the archers". Literally "the shooters, men with the bow".
+[^31-3]: Hebrew *hit'allel*, "deal ruthlessly with, make sport of"; see 6:6.
+[^31-4]: Literally "fallen".
+[^31-5]: Literally "in the house of their idols".
+[^31-6]: See 7:3.
+[^31-7]: For what Saul had done for Jabesh-gilead, see 11:1–11.
+[^31-8]: Hebrew *ish chayil*, "man of strength". Literally "every man of strength".

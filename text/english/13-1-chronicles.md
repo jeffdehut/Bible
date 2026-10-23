@@ -1371,3 +1371,53 @@
 [^12-19]: Literally "at their mouth".
 [^12-20]: Literally "without a heart and a heart". The meaning of the verb translated "help" is uncertain.
 [^12-21]: Hebrew *oderei ma'arakhah*. The verb is the one translated "help" in verse 34, and its meaning is uncertain.
+
+## Chapter 13
+
+*Status: draft*
+
+**1** David consulted with the commanders of thousands and of hundreds, with every leader.
+
+**2** David said to the whole assembly of Israel, "If it seems good to you, and if it is from Yahweh[^13-1] our God, let us send word far and wide[^13-2] to our kinsmen who remain in all the regions of Israel, and with them to the priests and the Levites in their towns with pasturelands, so that they may gather to us.
+
+**3** Then let us bring the ark[^13-3] of our God back to us, for we did not seek it[^13-4] in the days of Saul."
+
+**4** The whole assembly agreed to do so, for the thing seemed right to all the people.
+
+**5** So David assembled all Israel,[^13-5] from the Shihor of Egypt[^13-6] to Lebo-hamath,[^13-7] to bring the ark of God from Kiriath-jearim.
+
+**6** David and all Israel went up to Baalah, that is, to Kiriath-jearim, which belongs to Judah, to bring up from there the ark of God, Yahweh, who is enthroned on the cherubim,[^13-8] which is called by his name.[^13-9]
+
+**7** They carried the ark of God on a new cart from the house of Abinadab, and Uzza[^13-10] and Ahio[^13-11] were driving the cart.
+
+**8** David and all Israel were celebrating before God with all their might, with songs, with lyres, harps, tambourines, cymbals and trumpets.[^13-12]
+
+**9** When they came to the threshing floor of Chidon,[^13-13] Uzza reached out his hand to take hold of the ark, because the oxen stumbled.
+
+**10** Yahweh's anger burned against Uzza, and he struck him down because he had reached out his hand to the ark. He died there before God.[^13-14]
+
+**11** David was angry[^13-15] because Yahweh had broken out against Uzza, and that place is called Perez-uzza[^13-16] to this day.
+
+**12** David was afraid of God that day, and he said, "How can I bring the ark of God home to me?"
+
+**13** So David did not move the ark to be with him in the City of David. Instead, he took it aside to the house of Obed-edom the Gittite.[^13-17]
+
+**14** The ark of God stayed with the household of Obed-edom in his house for three months, and Yahweh blessed the household of Obed-edom and everything he had.
+
+[^13-1]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^13-2]: Literally "let us break out, let us send".
+[^13-3]: Hebrew *aron*, "chest": the ark of the covenant, the gold-covered chest that held the tablets of the covenant (Exodus 25:10–22). After its return from the Philistines it had stayed at Kiriath-jearim for many years (1 Samuel 7:1–2).
+[^13-4]: Or "him", that is, God.
+[^13-5]: Verses 5–14 parallel 2 Samuel 6:1–11.
+[^13-6]: A stream on the border of Egypt, or a branch of the Nile (Joshua 13:3).
+[^13-7]: Or "the entrance of Hamath", in the far north.
+[^13-8]: Or "who sits above the cherubim". Hebrew *keruvim*: winged heavenly beings. Two gold cherubim stood on the cover of the ark (Exodus 25:18–22).
+[^13-9]: Literally "which is called by name", or "where the name is called". 2 Samuel 6:2 reads "which is called by the Name, the name of Yahweh of Armies, who is enthroned on the cherubim".
+[^13-10]: 2 Samuel 6:3 has Uzzah, and says that he and Ahio were the sons of Abinadab.
+[^13-11]: The same Hebrew letters can be read *achyo*, "his brother".
+[^13-12]: 2 Samuel 6:5 has "with all kinds of instruments made of cypress wood" instead of "with all their might, with songs", and "rattles" instead of "trumpets".
+[^13-13]: 2 Samuel 6:6 has Nacon.
+[^13-14]: 2 Samuel 6:7 reads "and God struck him down there for his irreverence, and he died there beside the ark of God".
+[^13-15]: Or "distressed". Literally "it burned to David".
+[^13-16]: *Perez-uzza* means "breaking out against Uzza".
+[^13-17]: That is, a man from Gath.

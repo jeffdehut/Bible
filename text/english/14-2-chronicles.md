@@ -663,3 +663,58 @@
 [^9-33]: Literally "the words of Nathan the prophet". These records have not survived.
 [^9-34]: Hebrew *Ye'do*, probably another form of the name Iddo (12:15; 13:22).
 [^9-35]: Literally "lay down with his fathers", a way of speaking of death.
+
+## Chapter 10
+
+*Status: draft*
+
+**1** Rehoboam went to Shechem, for all Israel had come to Shechem to make him king.[^10-1]
+
+**2** When Jeroboam son of Nebat heard of it, he was in Egypt, where he had fled from King Solomon,[^10-2] and Jeroboam returned from Egypt.
+
+**3** They sent for him and called him, and Jeroboam and all Israel came and spoke to Rehoboam:
+
+**4** "Your father made our yoke hard. Now lighten the hard service of your father and the heavy yoke he put on us, and we will serve you."
+
+**5** He said to them, "Come back to me in three days." So the people went away.
+
+**6** King Rehoboam consulted the elders who had served[^10-3] his father Solomon while he was alive. He asked, "How do you advise me to answer this people?"
+
+**7** They said to him, "If you are kind to this people and please them and speak kind words to them, they will be your servants for all time."
+
+**8** But he rejected the advice the elders gave him, and he consulted the young men[^10-4] who had grown up with him and were serving him.
+
+**9** He said to them, "What do you advise that we answer this people, who have said to me, 'Lighten the yoke your father put on us'?"
+
+**10** The young men who had grown up with him said to him, "This is what you should say to the people who said to you, 'Your father made our yoke heavy, but you must lighten it for us.' This is what you should say to them: 'My little finger[^10-5] is thicker than my father's waist.
+
+**11** My father laid a heavy yoke on you, but I will add to your yoke. My father disciplined you with whips, but I will discipline you with scorpions.'"[^10-6]
+
+**12** Jeroboam and all the people came to Rehoboam on the third day, as the king had said, "Come back to me on the third day."
+
+**13** The king answered them harshly. King Rehoboam rejected the advice of the elders
+
+**14** and spoke to them as the young men had advised: "I will make your yoke heavy, and I will add to it. My father disciplined you with whips, but I will discipline you with scorpions."
+
+**15** So the king did not listen to the people, for this turn of events came from God, so that Yahweh[^10-7] might fulfill his word that he had spoken through Ahijah the Shilonite to Jeroboam son of Nebat.[^10-8]
+
+**16** As for all Israel, when the king did not listen to them,[^10-9] the people answered the king: "What share do we have in David? We have no inheritance in the son of Jesse. To your tents, every one of you, Israel![^10-10] Now look after your own house, David!" So all Israel went to their tents.
+
+**17** But as for the Israelites who lived in the cities of Judah, Rehoboam reigned over them.
+
+**18** Then King Rehoboam sent Hadoram,[^10-11] who was in charge of the forced labor,[^10-12] but the Israelites stoned him to death. King Rehoboam hurried to get up into his chariot and fled to Jerusalem.
+
+**19** So Israel has been in rebellion against the house of David to this day.
+
+[^10-1]: Verses 1–19 parallel 1 Kings 12:1–19.
+[^10-2]: See 1 Kings 11:26–40.
+[^10-3]: Literally "who had stood before".
+[^10-4]: Literally "the children", though they had grown up with Rehoboam, who was forty-one when he became king (12:13). Also in verses 10 and 14.
+[^10-5]: Literally "My little one".
+[^10-6]: Probably whips with metal barbs or spikes. Also in verse 14.
+[^10-7]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^10-8]: See 1 Kings 11:29–39.
+[^10-9]: 1 Kings 12:16 reads "When all Israel saw that the king did not listen to them".
+[^10-10]: Literally "Each man to your tents, Israel!", that is, go home. Compare 2 Samuel 20:1.
+[^10-11]: Called Adoniram in 1 Kings 4:6 and 5:28, and Adoram in 1 Kings 12:18.
+[^10-12]: Hebrew *mas*: work gangs conscripted to labor for the king (8:8).

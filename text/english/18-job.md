@@ -737,3 +737,200 @@
 [^11-11]: Or "if there is darkness, it will be like the morning". The Hebrew of this line is uncertain.
 [^11-12]: Literally "dig" or "search". Some take the verb as a different *chafar*, "be ashamed": "you were ashamed, but you will lie down in safety".
 [^11-13]: Literally "many will stroke your face".
+
+## Chapter 12
+
+*Status: draft*
+
+**1** Then Job answered:
+
+**2** "No doubt you are the people who matter,[^12-1] and wisdom will die with you!
+
+**3** But I have understanding as well as you; I am not inferior to you. Who does not know such things as these?
+
+**4** I have become a laughingstock to my friends, I who called on God[^12-2] and he answered me. A righteous, blameless man is a laughingstock!
+
+**5** Those at ease have contempt for disaster;[^12-3] it is ready for those whose feet are slipping.
+
+**6** The tents of robbers are at peace, and those who provoke God are secure, those who carry their god in their hand.[^12-4]
+
+**7** But ask the animals, and they will teach you, the birds of the sky, and they will tell you;
+
+**8** or speak to the earth, and it will teach you, and let the fish of the sea tell you.
+
+**9** Which of all these does not know that the hand of Yahweh[^12-5] has done this?
+
+**10** In his hand is the life of every living thing and the breath of every human being.
+
+**11** Does not the ear test words as the palate tastes food?
+
+**12** Wisdom is with the aged, and understanding comes with length of days.[^12-6]
+
+**13** With him are wisdom and strength; counsel and understanding are his.
+
+**14** Look, what he tears down cannot be rebuilt; when he shuts someone in, no one can open.
+
+**15** Look, if he holds back the waters, they dry up; if he sends them out, they overturn the land.
+
+**16** With him are strength and sound wisdom;[^12-7] the one who is misled and the one who misleads are his.
+
+**17** He leads counselors away stripped[^12-8] and makes fools of judges.
+
+**18** He loosens the belt of kings and ties a loincloth around their waist.[^12-9]
+
+**19** He leads priests away stripped and overthrows those long established.
+
+**20** He silences trusted advisers[^12-10] and takes away the discernment of elders.
+
+**21** He pours contempt on nobles and loosens the belt of the strong.[^12-11]
+
+**22** He uncovers deep things out of darkness and brings deep darkness[^12-12] into the light.
+
+**23** He makes nations great, and destroys them; he enlarges nations, and leads them away.
+
+**24** He takes away the understanding of the leaders of the people of the earth and makes them wander in a trackless waste.[^12-13]
+
+**25** They grope in darkness without light; he makes them stagger like a drunkard.
+
+[^12-1]: Literally "Truly you are the people".
+[^12-2]: Hebrew *Eloah*, a poetic form of *Elohim*, "God", used often in Job. Also in verse 6.
+[^12-3]: The Hebrew of this verse is uncertain. Hebrew *lappid* usually means "torch"; here it is probably *le-pid*, "for disaster".
+[^12-4]: Or "whom God has brought into his power". The Hebrew of this line is uncertain. The first line has *El*, the second *Eloah*.
+[^12-5]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles. This is the only place where the name is used in the speeches of Job and his friends (chapters 3–37). Isaiah 41:20 has the same words.
+[^12-6]: Perhaps a question, or a saying of the friends that Job quotes: "Is wisdom with the aged…?"
+[^12-7]: Hebrew *tushiyyah*, as in 5:12.
+[^12-8]: Hebrew *sholal*, "stripped", perhaps "barefoot" or "plundered", like captives. Also in verse 19.
+[^12-9]: The Hebrew of this verse is uncertain. Perhaps "He undoes the bonds that kings impose, and binds a cloth around their own waist", that is, he makes them captives or slaves.
+[^12-10]: Literally "He removes the lip of the trusted".
+[^12-11]: Hebrew *afiqim*, a word of uncertain meaning here, perhaps "the strong".
+[^12-12]: Hebrew *tsalmavet*, "deep darkness", traditionally read as "the shadow of death".
+[^12-13]: Literally "in a waste (*tohu*) with no road". *Tohu* is the word for the formless earth in Genesis 1:2.
+
+## Chapter 13
+
+*Status: draft*
+
+**1** "Look, my eye has seen all this; my ear has heard and understood it.
+
+**2** What you know, I also know; I am not inferior to you.
+
+**3** But I would speak to the Almighty;[^13-1] I want to argue my case with God.
+
+**4** But you smear over the truth with lies;[^13-2] you are all worthless physicians.
+
+**5** If only you would keep completely silent! That would be wisdom on your part.
+
+**6** Hear now my argument; listen to the pleadings of my lips.
+
+**7** Will you speak what is false on God's behalf? Will you speak deceitfully for him?
+
+**8** Will you take his side?[^13-3] Will you argue the case for God?
+
+**9** Would it go well with you if he examined you? Can you deceive him as one deceives a mortal?
+
+**10** He will surely rebuke you if you secretly take sides.
+
+**11** Will not his majesty terrify you, and dread of him fall on you?
+
+**12** Your memorable sayings are proverbs of ashes; your defenses are defenses of clay.
+
+**13** Be silent before me, and let me speak, and let come on me what may.
+
+**14** Why should I take my flesh in my teeth and put my life in my hands?[^13-4]
+
+**15** Even if he kills me, I will hope in him;[^13-5] yet I will argue my ways to his face.
+
+**16** This too will be my salvation, for no godless person would come before him.
+
+**17** Listen closely to my words; let my declaration be in your ears.
+
+**18** Look now, I have prepared my case; I know that I will be proved right.
+
+**19** Who is there who will contend with me? For then I would be silent and die.[^13-6]
+
+**20** Only do not do two things to me, and then I will not hide from your face:[^13-7]
+
+**21** take your hand far away from me, and do not let dread of you terrify me.
+
+**22** Then call, and I will answer; or let me speak, and you reply to me.
+
+**23** How many are my iniquities and sins? Make me know my offense and my sin.
+
+**24** Why do you hide your face and count me as your enemy?[^13-8]
+
+**25** Will you frighten a windblown leaf? Will you chase dry straw?
+
+**26** For you write bitter charges against me and make me inherit the sins of my youth.
+
+**27** You put my feet in the stocks and watch all my paths; you mark a line around the soles of my feet.[^13-9]
+
+**28** And so he[^13-10] wastes away like something rotten, like a garment eaten by moths.
+
+[^13-1]: Hebrew *Shaddai*, traditionally "the Almighty"; the meaning is uncertain.
+[^13-2]: Literally "you are plasterers of lies".
+[^13-3]: Literally "lift up his face", a phrase for showing partiality in court. Also in verse 10.
+[^13-4]: Both lines mean "risk my life". Or "Whatever happens, I will take my flesh in my teeth".
+[^13-5]: The Hebrew text is written "Look, he will kill me; I have no hope" (*lo*, "not") but read "I will hope in him" (*lo*, "for him"). The verb *yachal* means "hope" or "wait". Traditionally "Though he slay me, yet will I trust in him".
+[^13-6]: That is, if anyone could prove him wrong, he would fall silent and die.
+[^13-7]: Job speaks to God from here to the end of chapter 14.
+[^13-8]: In Hebrew, *oyev*, "enemy", sounds like *Iyyov*, "Job".
+[^13-9]: Literally "you engrave yourself on the roots of my feet": perhaps a mark branded on a slave's feet, or a boundary drawn around them.
+[^13-10]: The human being of 14:1. This verse may belong with chapter 14.
+
+## Chapter 14
+
+*Status: draft*
+
+**1** "A human being, born of woman, is short of days and full of turmoil.
+
+**2** He comes up like a flower and withers; he flees like a shadow and does not last.
+
+**3** Do you really fix your eyes on such a one? Do you bring me into judgment with you?
+
+**4** Who can bring something clean out of something unclean? No one!
+
+**5** Since his days are determined, and the number of his months is with you, and you have set him limits that he cannot pass,[^14-1]
+
+**6** look away from him, and let him rest, so that he can enjoy his day like a hired worker.
+
+**7** For there is hope for a tree: if it is cut down, it will sprout again, and its shoots will not fail.
+
+**8** Though its root grows old in the earth and its stump dies in the dust,
+
+**9** at the scent of water it will bud and put out branches like a young plant.
+
+**10** But a man dies and lies powerless; a human being breathes his last, and where is he?
+
+**11** As water vanishes from a lake[^14-2] and a river dries up and is parched,
+
+**12** so a man lies down and does not rise. Until the heavens are no more, people will not wake, or be roused from their sleep.
+
+**13** If only you would hide me in Sheol,[^14-3] conceal me until your anger is past, set me a fixed time, and then remember me!
+
+**14** If a man dies, will he live again? All the days of my hard service I would wait, until my relief[^14-4] should come.
+
+**15** You would call, and I would answer you; you would long for the work of your hands.
+
+**16** For then you would count my steps, but not keep watch over my sin.[^14-5]
+
+**17** My offense would be sealed up in a bag, and you would cover over my guilt.[^14-6]
+
+**18** But as a mountain falls and crumbles away,[^14-7] and a rock is moved from its place,
+
+**19** as water wears away stones and its torrents wash away the soil of the earth,[^14-8] so you destroy the hope of a mortal.
+
+**20** You overpower him forever, and he passes away; you change his appearance and send him away.
+
+**21** His children are honored, but he does not know it; they are brought low, but he does not notice them.
+
+**22** He feels only the pain of his own body, and mourns only for himself."[^14-9]
+
+[^14-1]: The Hebrew text is written "his limit" but read "his limits".
+[^14-2]: Hebrew *yam*, "sea", used here of a lake or body of water.
+[^14-3]: Hebrew *Sheol*, the realm of the dead.
+[^14-4]: Hebrew *chalifah*, "change", as when soldiers on duty are relieved. *Hard service* is the word in 7:1.
+[^14-5]: Or "For now you count my steps; do you not keep watch over my sin?"
+[^14-6]: Literally "you would plaster over my guilt", the verb used of the friends in 13:4.
+[^14-7]: Literally "a falling mountain withers". The Hebrew of this phrase is uncertain.
+[^14-8]: The Hebrew of this line is uncertain. Literally "its outpourings wash away the dust of the earth".
+[^14-9]: Literally "His flesh on him feels pain, and his soul on him mourns".

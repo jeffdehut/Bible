@@ -683,7 +683,7 @@
 
 **25** They said, "We will gladly give them."[^8-14] So they spread out a cloak, and each man threw on it an earring from his plunder.
 
-**26** The weight of the gold earrings that he asked for was seventeen hundred shekels of gold,[^8-15] besides the crescent ornaments, the pendants and the purple garments worn by the kings of Midian, and besides the chains on their camels' necks.
+**26** The weight of the gold earrings that he asked for was 1,700 shekels of gold,[^8-15] besides the crescent ornaments, the pendants and the purple garments worn by the kings of Midian, and besides the chains on their camels' necks.
 
 **27** Gideon made it into an ephod[^8-16] and set it up in his town, in Ophrah. All Israel prostituted themselves to it there,[^8-17] and it became a trap for Gideon and his family.
 
@@ -717,7 +717,7 @@
 [^8-12]: Hebrew *nezem*, an earring or a nose ring. Also in verses 25 and 26.
 [^8-13]: *Ishmaelites* here seems to be a general name for the desert traders. Compare Genesis 37:25–28, where Ishmaelites and Midianites appear together.
 [^8-14]: Literally "We will surely give."
-[^8-15]: Literally "seventeen hundred of gold". A shekel is about 2/5 ounce (11.5 grams), so seventeen hundred shekels is about 43 pounds (19.5 kg).
+[^8-15]: Literally "a thousand and seven hundred of gold". A shekel is about 2/5 ounce (11.5 grams), so 1,700 shekels is about 43 pounds (19.5 kg).
 [^8-16]: Hebrew *ephod*. In Exodus 28:6–14 the ephod is a garment worn by the high priest. Here it seems to be an object used in worship, perhaps to seek guidance from God.
 [^8-17]: Literally "went whoring after it there", an image of unfaithfulness to Yahweh.
 [^8-18]: Literally "was quiet".
@@ -1267,7 +1267,7 @@
 
 **4** After this he fell in love with a woman in the Sorek Valley,[^16-3] whose name was Delilah.
 
-**5** The rulers[^16-4] of the Philistines went up to her and said to her, "Coax him, and find out what makes his strength so great, and how we can overpower him, so that we can tie him up and subdue him. Each of us will give you eleven hundred pieces of silver."[^16-5]
+**5** The rulers[^16-4] of the Philistines went up to her and said to her, "Coax him, and find out what makes his strength so great, and how we can overpower him, so that we can tie him up and subdue him. Each of us will give you 1,100 pieces of silver."[^16-5]
 
 **6** So Delilah said to Samson, "Please tell me what makes your strength so great, and how you could be tied up and subdued."
 
@@ -1325,7 +1325,7 @@
 [^16-2]: The Hebrew has no verb here: literally "To the people of Gaza, saying". The Septuagint reads "It was told to the people of Gaza".
 [^16-3]: Hebrew *nachal Soreq*, a stream bed that often runs dry in summer.
 [^16-4]: Hebrew *seranim*, a title used only for the rulers of the five Philistine cities (3:3). Also in verses 8, 18, 23, 27 and 30.
-[^16-5]: Literally "eleven hundred of silver", probably shekels: about 28 pounds (12.7 kg).
+[^16-5]: Literally "a thousand and a hundred of silver", probably shekels: about 28 pounds (12.7 kg).
 [^16-6]: Or "cords", probably made from animal sinew. Also in verses 8 and 9.
 [^16-7]: Literally "as a thread of tow snaps when it smells fire". Tow is the coarse, broken fiber of flax.
 [^16-8]: The Hebrew sentence breaks off here. The Septuagint continues: "… and fasten it with the pin into the wall, I will become weak and be like any other man." In verse 14 it then begins: "While he was asleep, Delilah took the seven braids of his hair and wove them into the fabric."
@@ -1348,9 +1348,9 @@
 
 **1** There was a man from the hill country of Ephraim named Micah.[^17-1]
 
-**2** He said to his mother, "The eleven hundred pieces of silver[^17-2] that were taken from you, about which you pronounced a curse, and said it in my hearing too: look, the silver is with me. I took it." His mother said, "May my son be blessed by Yahweh!"[^17-3]
+**2** He said to his mother, "The 1,100 pieces of silver[^17-2] that were taken from you, about which you pronounced a curse, and said it in my hearing too: look, the silver is with me. I took it." His mother said, "May my son be blessed by Yahweh!"[^17-3]
 
-**3** He gave the eleven hundred pieces of silver back to his mother, and his mother said, "I solemnly dedicate the silver to Yahweh from my hand for my son, to make a carved image and a cast idol.[^17-4] So now I will give it back to you."
+**3** He gave the 1,100 pieces of silver back to his mother, and his mother said, "I solemnly dedicate the silver to Yahweh from my hand for my son, to make a carved image and a cast idol.[^17-4] So now I will give it back to you."
 
 **4** So he gave the silver back to his mother, and his mother took two hundred pieces of silver[^17-5] and gave them to a silversmith, who made them into a carved image and a cast idol. And it was in Micah's house.
 
@@ -1373,7 +1373,7 @@
 **13** Then Micah said, "Now I know that Yahweh will make me prosper, because I have a Levite as my priest."
 
 [^17-1]: Here and in verse 4 the Hebrew has the longer form of the name, *Mikhayehu*; elsewhere in chapters 17–18 it is *Mikhah*.
-[^17-2]: Literally "eleven hundred of silver", probably shekels: about 28 pounds (12.7 kg). Also in verse 3.
+[^17-2]: Literally "a thousand and a hundred of silver", probably shekels: about 28 pounds (12.7 kg). Also in verse 3.
 [^17-3]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
 [^17-4]: Hebrew *pesel u-massekhah*. The two words may describe a single image: a carved figure covered with cast metal. Also in verse 4.
 [^17-5]: Literally "two hundred of silver", about 5 pounds (2.3 kg).

@@ -133,10 +133,11 @@ from the Hebrew.
   speech ends.
   Long law codes (Exodus 21–23, Leviticus, Deuteronomy 12–26) may instead be set without
   quotation marks, with a note at the start saying who is speaking and where the speech ends.
-- Numbers: words for one to one hundred and for whole multiples of them by a hundred or a
-  thousand ("four hundred", "twelve thousand", "twenty-four thousand", "six hundred thousand",
-  "a thousand"); digits for all others, with commas from 1,000 ("130 years", "250", "1,775
-  shekels", "46,500", "120,000"). In a census, list, battle tally or calculation where some
+- Numbers: words for one to one hundred; for whole hundreds up to nine hundred ("four
+  hundred"); for one to one hundred thousands ("a thousand", "twelve thousand", "twenty-four
+  thousand", "a hundred thousand"); and for whole hundreds of thousands ("six hundred
+  thousand"). Digits for all others, with commas from 1,000 ("130 years", "250", "1,100",
+  "1,775 shekels", "46,500", "120,000"). Never "eleven hundred" or "seventeen hundred". In a census, list, battle tally or calculation where some
   numbers need digits, all of its numbers are digits (Numbers 1, Judges 20, Ezra 2). Ordinals in words ("the twenty-seventh day").
   Modern measurements and dates in notes are digits.
 - Scribal marks: the extraordinary points (`[4]`), the inverted nuns (`[8]`) and the unusual
