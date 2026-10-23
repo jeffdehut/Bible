@@ -69,7 +69,98 @@ Decisions marked **proposed** are used in the pilot and are open for review.
 | ὁ λόγος (John 1) | the Word | |
 | οἱ Ἰουδαῖοι | the Jews | Kept as written. A note explains where the context shows the religious authorities in Jerusalem are meant (common in John). |
 | ἀδελφοί (to a mixed group) | brothers and sisters (proposed) | When the context shows the group includes women; otherwise *brothers*. |
-| Units, money, time of day | modern equivalents in the text, the original in a note | e.g. "about four in the afternoon" for "the tenth hour". |
+| Time of day | modern equivalent in the text, the original in a note | e.g. "about four in the afternoon" for "the tenth hour". |
+| Units of length, weight, volume; money | the original unit in the text, its approximate value in a note | e.g. "three hundred denarii" with the note "About a year's wages for a laborer"; "a cubit" with "About 18 inches (45 cm)". The note is given at the unit's first occurrence in each chapter. |
+| יהוה צְבָאוֹת | Yahweh of Armies (proposed) | Traditionally "the LORD of hosts" or "the LORD Almighty". *Tseva'ot* means armies: the heavenly hosts and the armies of Israel. Noted at its first occurrence in each chapter. |
+| אֲדֹנָי (Adonai), of God | the Lord | אֲדֹנָי יְהוִה is "the Lord Yahweh". |
+| אֵל שַׁדַּי, שַׁדַּי | God Almighty, the Almighty | Hebrew *(El) Shaddai*; the meaning is uncertain. Noted at its first occurrence in each chapter. |
+| שְׁאוֹל (Sheol) | Sheol | The realm of the dead. Noted at its first occurrence in each chapter. |
+| בְּנֵי יִשְׂרָאֵל | the Israelites, the people of Israel | Literally "the sons of Israel". No note needed. |
+| תּוֹרָה (torah) | instruction, law, by context | "The Law" when it means the law given through Moses as a whole. |
+| בְּרִית, διαθήκη | covenant | |
+| צֶדֶק, צְדָקָה, δικαιοσύνη | righteousness, what is right, by context | |
+| מִשְׁפָּט (mishpat) | justice, judgment, ruling, by context | |
+| שָׁלוֹם (shalom) | peace, well-being, by context | |
+| רוּחַ (ruach), πνεῦμα | spirit, wind, breath, by context | Noted where more than one sense is possible. |
+| הַשָּׂטָן (Job 1–2, Zechariah 3) | the Accuser (proposed) | Hebrew *ha-satan*, "the adversary, the accuser", with the article: a title rather than a name. Noted at its first occurrence in each chapter. |
+| בֶּן־אָדָם (addressing Ezekiel, Daniel 8:17) | son of man | "A human being, a mortal". Noted at its first occurrence in each chapter. |
+| סֶלָה (Selah) | Selah | A musical or liturgical term of uncertain meaning. Noted at its first occurrence in each psalm. |
+| עֶבֶד, δοῦλος | servant; slave where the context is the institution of slavery | "Or 'slave'" noted where either fits. |
+| ἐκκλησία | church | An assembly or community of believers, never a building. In Acts 7:38 and 19:32–41, "assembly". |
+| οἱ ἅγιοι (believers) | God's holy people (proposed) | Literally "the holy ones"; traditionally "saints". |
+| δικαιόω | declare righteous (proposed) | Traditionally "justify". Noted at its first occurrence in each chapter. |
+| σάρξ in Paul's moral sense | the flesh | Human nature in its weakness and opposition to God. Noted at its first occurrence in each chapter where this is the sense. |
+| πίστις Χριστοῦ (Ἰησοῦ) | faith in Christ (Jesus) | Always noted: "Or 'the faithfulness of Christ'". |
+| ᾅδης | Hades | The realm of the dead, like Sheol. Noted at its first occurrence in each chapter. |
+| γέεννα | hell | "Greek *Gehenna*", noted at its first occurrence in each chapter (see Mark 9:43). |
+| ἀμὴν λέγω ὑμῖν | Truly I tell you | |
+| ὁ υἱὸς τοῦ ἀνθρώπου | the Son of Man | |
+| ἡ βασιλεία τοῦ θεοῦ / τῶν οὐρανῶν | the kingdom of God / the kingdom of heaven | Kept as each writer has it. |
+| εὐαγγέλιον | good news | |
+| πνεῦμα ἀκάθαρτον | unclean spirit | |
+| ἐπίσκοπος, πρεσβύτερος, διάκονος | overseer, elder, servant | "Deacon" where the context is an office (Philippians 1:1, 1 Timothy 3). |
+
+## Translator's checklist
+
+These rules come from drafting the Gospel of Mark. Every chapter follows them.
+
+**Reading the source.** `python3 scripts/source.py <book> <chapter>` prints the chapter from
+`text/hebrew` or `text/greek`. For the New Testament it adds the SBLGNT apparatus. For the Old
+Testament it spells out each ketiv/qere and shows the English verse number wherever it differs
+from the Hebrew.
+
+**Text.**
+- Translate every verse, and only what is there. Don't add words to make a point clearer: if a
+  subject or object has to be supplied, use the one the context gives and keep it minimal
+  (Mark 10:6 says "he made them", with "God" in a note).
+- Narrative is in the past tense, including Greek and Hebrew historic presents. Mark's εὐθύς is
+  "at once" or "immediately", not always "and immediately".
+- Poetry keeps its parallel lines and its images. Each verse is still one line in the file.
+- Divine name: every יהוה is "Yahweh", whatever its vowels (יְהוִה too). Theophoric
+  names (Jonathan, Elijah) are spelled as in most English Bibles.
+- Hebrew paragraph marks (פ, ס) at the end of a verse and UXLC's transcription marks (`[t]`,
+  `[c]`, `[m]`, `[d]`, `[q]`, `[y]`, `[4]`–`[8]`) are not text. Don't translate them. `[X]`
+  marks a verse missing from the Leningrad Codex (Joshua 21:36–37): translate it and say so
+  in a note.
+- Ketiv/qere: translate the qere (the read form). Where the ketiv (the written form) means
+  something different, give it in a note: "The Hebrew text is written 'X' but read 'Y'."
+- Where Aramaic begins and ends (Ezra 4:8–6:18, 7:12–26; Jeremiah 10:11; Daniel 2:4b–7:28),
+  say so in a note.
+- Psalm titles are part of verse 1 (or verses 1–2) in the Hebrew. Where that makes this
+  psalm's numbering differ from English Bibles, verse 1 has a note saying so. Elsewhere, the
+  first verse whose number differs from English Bibles gets a note ("Verses 1–5 are 4:21–25
+  in most English Bibles").
+
+**Notes.**
+- Number notes `[^1]`, `[^2]` … in the order they first appear. Put the marker after the word
+  or phrase it explains, after any punctuation that ends the phrase.
+- Standard forms: `Literally "…".` `Or "…".` `Hebrew *nephesh*, …` `Greek *logos*, …`
+  Transliterate simply: *chesed*, *ruach*, *nephesh*, *lestes*.
+- Old Testament quotations and allusions get a reference in a note (Mark 12:10–11). If the
+  quotation names Yahweh, the note says: `In the Hebrew, "the Lord" is God's personal name,
+  Yahweh.` If a New Testament quotation follows the Greek Septuagint where it differs from the
+  Hebrew, say so.
+- The Yahweh note, at the first occurrence in each chapter: `*Yahweh*: God's personal name
+  (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.`
+- **New Testament variants** come only from the SBLGNT apparatus. Note those that change the
+  meaning: a word, phrase or verse added or left out, or a different word. Spelling, word
+  order, the article, εὐθύς/εὐθέως and similar differences are not noted. Wording:
+  - a reading found only in RP, the Byzantine majority text: "Many manuscripts add/read …"
+  - a reading of WH, Treg or NA28: "Some manuscripts read …"
+  - where the SBLGNT follows a minority (its reading is marked only by Holmes, or by RP
+    alone): "These words are in the SBLGNT, following …; many modern editions leave them out."
+  - a verse that is absent: the verse number is skipped in the file, and the previous verse
+    has a note giving the verse and its words (Mark 11:25, 15:27).
+  Check the single-word variants too: one word can change the meaning (Mark 1:41).
+- **Old Testament variants**: the ketiv/qere, and well-known, well-documented readings of
+  the Septuagint, the Dead Sea Scrolls, the Samaritan Pentateuch, the Syriac or the Vulgate
+  (for example Deuteronomy 32:8, Psalm 22:17). Name the version: "The Septuagint reads …".
+  Only note a reading you are sure of. If in doubt, leave it out. Never say "some
+  manuscripts" in the Old Testament without naming them.
+- Notes explain, they don't preach: meaning, alternatives, background, references. No
+  devotional or doctrinal commentary.
+
+**Before you finish.** `python3 scripts/translation.py --check <book>` must pass.
 
 ## Format
 

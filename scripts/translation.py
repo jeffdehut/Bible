@@ -1,12 +1,15 @@
 """Check and compile the Open Plain English Translation.
 
-    python3 scripts/translation.py
+    python3 scripts/translation.py                   check everything, then compile
+    python3 scripts/translation.py --check [BOOK ...]  only check (all books, or the named ones,
+                                                      e.g. "genesis" or "01-genesis"); writes nothing
 
 Reads   translation/NN-book/CCC.md   one file per translated chapter (see TRANSLATION.md)
 Checks  every chapter against its source chapter in text/hebrew or text/greek:
           - one translated line for every source verse, and no others
           - every note referenced in the text is defined, and every defined note is used
           - the front matter has a known status
+          - an Old Testament chapter whose Hebrew has the divine name YHWH says "Yahweh"
 Writes  text/english/NN-book.md      the translated chapters of each book, with notes
         translation/STATUS.md        progress by book and status
 Exits non-zero if any check fails.
@@ -59,15 +62,22 @@ def parse_chapter(path):
 
 
 def main():
+    args = sys.argv[1:]
+    check_only = bool(args) and args[0] == "--check"
+    wanted = {a.lower() for a in args[1:]} if check_only else set()
     errors, chapters = [], collections.defaultdict(dict)
     for num, osis, name, testament in BOOKS:
         folder = os.path.join(TRANSLATION, file_stem(num, name))
         if not os.path.isdir(folder):
             continue
+        if wanted and not wanted & {name.lower(), file_stem(num, name), osis.lower()}:
+            continue
         src_path = os.path.join(ROOT, "text", "hebrew" if testament == "OT" else "greek", file_stem(num, name) + ".md")
-        source = collections.defaultdict(set)
-        for c, v, _ in parse_book_md(src_path):
+        source, has_name = collections.defaultdict(set), set()
+        for c, v, t in parse_book_md(src_path):
             source[c].add(v)
+            if testament == "OT" and "יהוה" in re.sub(r"[\u0591-\u05C7]", "", t):
+                has_name.add(c)
         for fn in sorted(os.listdir(folder)):
             path = os.path.join(folder, fn)
             label = f"{name} {fn}"
@@ -97,11 +107,16 @@ def main():
                 errors.append(f"{label}: undefined notes {sorted(used - set(notes))}")
             if set(notes) - used:
                 errors.append(f"{label}: unused notes {sorted(set(notes) - used)}")
+            if c in has_name and not any("Yahweh" in t for t in verses.values()):
+                errors.append(f"{label}: the Hebrew has the divine name YHWH, but the translation has no \"Yahweh\"")
             chapters[(num, osis, name, testament)][c] = (meta, verses, notes)
 
     if errors:
         print("\n".join(errors))
         sys.exit(1)
+    if check_only:
+        print(f"{sum(len(c) for c in chapters.values())} chapters pass the checks ({len(chapters)} books).")
+        return
 
     os.makedirs(OUT, exist_ok=True)
     for f in os.listdir(OUT):
