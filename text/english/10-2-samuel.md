@@ -532,3 +532,102 @@
 [^7-21]: The Hebrew of the end of this verse is difficult. Literally "and to do for you (plural) the great thing and awesome things for your land, from before your people whom you redeemed for yourself from Egypt, nations and its gods." 1 Chronicles 17:21 reads "by driving out nations from before your people whom you redeemed from Egypt".
 [^7-22]: Literally "uncovered the ear of your servant".
 [^7-23]: Literally "has found his heart".
+
+## Chapter 8
+
+*Status: draft*
+
+**1** After this, David defeated the Philistines and subdued them, and David took Metheg-ammah[^8-1] out of the hand of the Philistines.
+
+**2** He also defeated Moab. He made them lie down on the ground and measured them off with a line. He measured two lengths of line to be put to death, and one full length to be kept alive. So the Moabites became subject[^8-2] to David and brought him tribute.
+
+**3** David also defeated Hadadezer son of Rehob, king of Zobah, when he went to restore his control[^8-3] at the River Euphrates.[^8-4]
+
+**4** David captured from him 1,700 horsemen[^8-5] and twenty thousand foot soldiers. David hamstrung all the chariot horses, but he kept back a hundred of them for chariots.
+
+**5** When the Arameans of Damascus came to help Hadadezer king of Zobah, David struck down twenty-two thousand of the Arameans.
+
+**6** Then David put garrisons[^8-6] in Aram of Damascus, and the Arameans became subject to David and brought him tribute. Yahweh[^8-7] gave David victory wherever he went.
+
+**7** David took the gold shields[^8-8] that belonged to the officers of Hadadezer and brought them to Jerusalem.
+
+**8** And from Betah and Berothai,[^8-9] towns of Hadadezer, King David took a very large amount of bronze.
+
+**9** When Toi king of Hamath heard that David had defeated the whole army of Hadadezer,
+
+**10** Toi sent his son Joram[^8-10] to King David to greet him[^8-11] and to congratulate him because he had fought against Hadadezer and defeated him, for Hadadezer had often been at war with Toi.[^8-12] Joram brought with him articles of silver, articles of gold and articles of bronze.
+
+**11** King David dedicated these also to Yahweh, along with the silver and gold that he had dedicated from all the nations he had subdued:
+
+**12** from Aram,[^8-13] from Moab, from the Ammonites, from the Philistines and from Amalek, and from the plunder of Hadadezer son of Rehob, king of Zobah.
+
+**13** David made a name for himself when he returned from striking down Aram[^8-14] in the Valley of Salt, eighteen thousand of them.
+
+**14** He put garrisons in Edom. Throughout all Edom he put garrisons, and all the Edomites became subject to David. Yahweh gave David victory wherever he went.
+
+**15** David reigned over all Israel, and David did what was just and right[^8-15] for all his people.
+
+**16** Joab son of Zeruiah was over the army. Jehoshaphat son of Ahilud was recorder.[^8-16]
+
+**17** Zadok son of Ahitub and Ahimelech son of Abiathar[^8-17] were priests. Seraiah was secretary.[^8-18]
+
+**18** Benaiah son of Jehoiada was over[^8-19] the Cherethites and the Pelethites.[^8-20] And David's sons were priests.[^8-21]
+
+[^8-1]: Hebrew *meteg ha-ammah*, perhaps "the bridle of the mother city", that is, control of the Philistines' chief city. The meaning is uncertain. 1 Chronicles 18:1 reads "Gath and its villages".
+[^8-2]: Literally "became servants". Also in verses 6 and 14.
+[^8-3]: Literally "his hand", perhaps meaning a monument marking his rule (compare 1 Samuel 15:12, where the same word is used). It is not clear whether "he" is David or Hadadezer.
+[^8-4]: The word "Euphrates" is read but not written in the Hebrew text, which has "the River".
+[^8-5]: 1 Chronicles 18:4 and the Septuagint read "a thousand chariots and seven thousand horsemen".
+[^8-6]: Or "governors". Hebrew *netsivim*. Also in verse 14.
+[^8-7]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^8-8]: Hebrew *shiltei*, a word of uncertain meaning: shields, or perhaps quivers.
+[^8-9]: 1 Chronicles 18:8 has "Tibhath and Cun".
+[^8-10]: 1 Chronicles 18:10 has "Hadoram".
+[^8-11]: Literally "to ask him about his well-being".
+[^8-12]: Literally "for Hadadezer was a man of wars of Toi".
+[^8-13]: Some Hebrew manuscripts, the Septuagint and the Syriac read "Edom", as in 1 Chronicles 18:11. In Hebrew the two names differ by one similar letter.
+[^8-14]: Some Hebrew manuscripts, the Septuagint and the Syriac read "Edom", as in 1 Chronicles 18:12. The Valley of Salt was near Edom (verse 14; compare the title of Psalm 60).
+[^8-15]: Literally "was doing justice and righteousness".
+[^8-16]: Hebrew *mazkir*, "one who causes to remember": a high official, perhaps the king's herald or keeper of records.
+[^8-17]: Elsewhere Abiathar is the son of Ahimelech (1 Samuel 22:20), and Zadok and Abiathar are the priests (20:25).
+[^8-18]: Hebrew *sopher*, "scribe", the royal secretary. He is called Sheva in 20:25 and Shavsha in 1 Chronicles 18:16.
+[^8-19]: The Hebrew lacks "was over". Compare 20:23 and 1 Chronicles 18:17.
+[^8-20]: Foreign soldiers who served as David's personal guard. The Cherethites were probably from Crete, and the Pelethites may have been Philistines.
+[^8-21]: Hebrew *kohanim*, the usual word for priests. 1 Chronicles 18:17 reads "David's sons were the chief officials at the king's side".
+
+## Chapter 9
+
+*Status: draft*
+
+**1** David said, "Is there still anyone left of the house of Saul, so that I may show him faithful love[^9-1] for Jonathan's sake?"
+
+**2** There was a servant of Saul's household whose name was Ziba. They called him to David, and the king said to him, "Are you Ziba?" He said, "I am your servant."
+
+**3** The king said, "Is there no one left of the house of Saul to whom I may show the faithful love of God?"[^9-2] Ziba said to the king, "There is still a son of Jonathan, who is lame in both feet."
+
+**4** The king said to him, "Where is he?" Ziba said to the king, "He is in the house of Machir son of Ammiel, in Lo-debar."
+
+**5** So King David sent and brought him from the house of Machir son of Ammiel, from Lo-debar.
+
+**6** Mephibosheth son of Jonathan, son of Saul, came to David, and he fell on his face and bowed down. David said, "Mephibosheth!" He said, "Here is your servant."
+
+**7** David said to him, "Do not be afraid, for I will surely show you faithful love for the sake of your father Jonathan. I will give back to you all the land of your grandfather[^9-3] Saul, and you will always eat at my table."
+
+**8** He bowed down and said, "What is your servant, that you should take notice of a dead dog like me?"
+
+**9** Then the king called Ziba, Saul's steward,[^9-4] and said to him, "All that belonged to Saul and to all his house I have given to your master's grandson.[^9-5]
+
+**10** You, your sons and your servants are to work the land for him and bring in the harvest, so that your master's grandson may have food to eat. But Mephibosheth, your master's grandson, will always eat at my table." Now Ziba had fifteen sons and twenty servants.
+
+**11** Ziba said to the king, "Your servant will do everything that my lord the king commands his servant." So Mephibosheth ate at my table[^9-6] like one of the king's sons.
+
+**12** Mephibosheth had a young son named Mica. All who lived in Ziba's household became Mephibosheth's servants.
+
+**13** Mephibosheth lived in Jerusalem, because he always ate at the king's table. He was lame in both his feet.
+
+[^9-1]: Hebrew *chesed*: loyal, faithful love, here the loyalty David had promised Jonathan (1 Samuel 20:14–17). Also in verses 3 and 7.
+[^9-2]: That is, kindness like God's, or kindness pledged before God.
+[^9-3]: Literally "your father", as often of an ancestor.
+[^9-4]: Hebrew *na'ar*, "young man", here a household servant or steward.
+[^9-5]: Literally "your master's son". Also twice in verse 10.
+[^9-6]: Hebrew "my table", as though the king were speaking. The Septuagint reads "David's table".

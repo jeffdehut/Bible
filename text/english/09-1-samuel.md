@@ -546,3 +546,86 @@
 [^8-7]: Hebrew *sarisim*, court officials. The word can also mean "eunuchs".
 [^8-8]: The Septuagint reads "your best cattle".
 [^8-9]: Literally "spoke them in the ears of Yahweh".
+
+## Chapter 9
+
+*Status: draft*
+
+**1** There was a man of Benjamin whose name was Kish son of Abiel, son of Zeror, son of Becorath, son of Aphiah, a Benjaminite.[^9-1] He was a man of standing.[^9-2]
+
+**2** He had a son named Saul, a fine young man. There was no one among the Israelites more handsome than he. He was a head taller than any of the people.[^9-3]
+
+**3** Some donkeys belonging to Saul's father Kish were lost. So Kish said to his son Saul, "Take one of the servants[^9-4] with you, and go and look for the donkeys."
+
+**4** He passed through the hill country of Ephraim and through the land of Shalishah, but they did not find them. They passed through the land of Shaalim, but they were not there. He passed through the land of Benjamin, but they did not find them.
+
+**5** When they came to the land of Zuph, Saul said to the servant who was with him, "Come, let us go back, or my father will stop thinking about the donkeys and start worrying about us."
+
+**6** But the servant said to him, "Look, there is a man of God in this town, and he is highly respected. Everything he says comes true. Let us go there now. Perhaps he can tell us about the journey we have set out on."[^9-5]
+
+**7** Saul said to his servant, "But if we go, what can we bring the man? The bread in our bags is gone, and we have no gift to bring to the man of God. What do we have?"
+
+**8** The servant answered Saul again, "Look, I have a quarter of a shekel[^9-6] of silver. I will give it to the man of God, and he will tell us our way."
+
+**9** Formerly in Israel, when someone went to inquire of God, he would say, "Come, let us go to the seer." For the one who is now called a prophet used to be called a seer.
+
+**10** Saul said to his servant, "Good idea.[^9-7] Come, let us go." So they went to the town where the man of God was.
+
+**11** As they were going up the slope to the town, they met some young women coming out to draw water, and they asked them, "Is the seer here?"
+
+**12** They answered, "He is. Look, he is just ahead of you. Hurry now; he has come to town today, because the people have a sacrifice today at the high place.[^9-8]
+
+**13** As soon as you enter the town, you will find him before he goes up to the high place to eat. The people will not eat until he comes, because he blesses the sacrifice; after that, those who are invited eat. So go up now, for you will find him right away."[^9-9]
+
+**14** So they went up to the town. As they were coming into the town, there was Samuel, coming out toward them on his way up to the high place.
+
+**15** Now the day before Saul came, Yahweh[^9-10] had revealed this to Samuel:[^9-11]
+
+**16** "About this time tomorrow I will send you a man from the land of Benjamin. Anoint him to be ruler[^9-12] over my people Israel. He will save my people from the power of the Philistines. For I have looked on my people,[^9-13] because their cry has come to me."
+
+**17** When Samuel saw Saul, Yahweh told him,[^9-14] "There is the man I told you about! He will govern[^9-15] my people."
+
+**18** Saul came up to Samuel in the gateway and said, "Please tell me where the seer's house is."
+
+**19** Samuel answered Saul, "I am the seer. Go up ahead of me to the high place, for today you will eat with me.[^9-16] In the morning I will send you on your way and tell you everything that is on your mind.[^9-17]
+
+**20** As for the donkeys that were lost three days ago, do not worry about them,[^9-18] for they have been found. And to whom does all that Israel desires belong?[^9-19] Is it not to you and to all your father's family?"
+
+**21** Saul answered, "But am I not a Benjaminite, from the smallest of the tribes of Israel? And is my clan not the least of all the clans of the tribe of Benjamin? Why do you say such a thing to me?"
+
+**22** Then Samuel took Saul and his servant, brought them into the hall,[^9-20] and gave them a place at the head of those who had been invited. There were about thirty men.[^9-21]
+
+**23** Samuel said to the cook, "Bring the portion I gave you, the one I told you to set aside."
+
+**24** So the cook took up the thigh and what was on it[^9-22] and set it before Saul. Samuel said, "Here is what has been kept for you. Set it before you and eat, for it has been kept for you for this occasion, ever since I said I had invited the people."[^9-23] So Saul ate with Samuel that day.
+
+**25** They came down from the high place to the town, and he talked with Saul on the roof.[^9-24]
+
+**26** They got up early, and at dawn Samuel called to Saul on the roof, "Get up, and I will send you on your way." So Saul got up, and the two of them, he and Samuel, went outside.
+
+**27** As they were going down to the edge of the town, Samuel said to Saul, "Tell the servant to go on ahead of us." And he went on. "But you stay here for now, so that I may let you hear the word of God."
+
+[^9-1]: Hebrew *ben ish yemini*, "son of a man of Jemini", that is, a Benjaminite.
+[^9-2]: Hebrew *gibbor chayil*, which can mean a strong warrior or a man of wealth and influence.
+[^9-3]: Literally "From his shoulders and upward he was taller than all the people."
+[^9-4]: Hebrew *na'ar*, "young man", here a servant. Also in verses 5–8, 10, 22 and 27.
+[^9-5]: Literally "tell us our way on which we have walked".
+[^9-6]: A shekel is about 2/5 ounce (11.5 grams), so a quarter of a shekel is about 1/10 ounce (3 grams).
+[^9-7]: Literally "Your word is good."
+[^9-8]: Hebrew *bamah*, a place of worship, often on a hill. Also in verses 13, 14, 19 and 25.
+[^9-9]: Literally "for him, as the day, you will find him".
+[^9-10]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^9-11]: Literally "had uncovered Samuel's ear, saying".
+[^9-12]: Hebrew *nagid*, "leader, ruler", someone designated to lead. Traditionally "prince" or "captain".
+[^9-13]: The Septuagint reads "I have looked on the affliction of my people".
+[^9-14]: Literally "answered him".
+[^9-15]: Hebrew *ya'tsor*, literally "will restrain", here "will rule".
+[^9-16]: "You" is plural here: Saul and his servant.
+[^9-17]: Literally "all that is in your heart".
+[^9-18]: Literally "do not set your heart on them".
+[^9-19]: Or "And for whom is all Israel longing?"
+[^9-20]: Hebrew *lishkah*, a room or hall at the sanctuary.
+[^9-21]: The Septuagint reads "about seventy men".
+[^9-22]: Or "and the upper part".
+[^9-23]: The Hebrew is difficult. Literally "for to the appointed time it has been kept for you, saying, 'I have invited the people.'"
+[^9-24]: The Septuagint reads "and they spread a bed for Saul on the roof, and he lay down".

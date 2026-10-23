@@ -981,3 +981,166 @@
 [^14-11]: That is, for leading in battle and in all the business of life.
 [^14-12]: A people remembered for their great height (Numbers 13:28, 33).
 [^14-13]: *Kiriath-arba* means "town of Arba", or "town of four".
+
+## Chapter 15
+
+*Status: draft*
+
+**1** The allotment[^15-1] for the tribe of the people of Judah, clan by clan, reached southward to the border of Edom, to the wilderness of Zin at the far south.
+
+**2** Their southern border ran from the end of the Salt Sea,[^15-2] from the bay[^15-3] that faces south.
+
+**3** It went out south of the Ascent of Akrabbim,[^15-4] passed along to Zin, went up south of Kadesh-barnea, passed along to Hezron, went up to Addar and turned toward Karka.
+
+**4** It passed along to Azmon and went out to the Brook of Egypt,[^15-5] and the border ended at the sea. This will be your southern border.[^15-6]
+
+**5** The eastern border was the Salt Sea, as far as the mouth of the Jordan. The border on the north side ran from the bay of the sea at the mouth of the Jordan.
+
+**6** The border went up to Beth-hoglah and passed along north of Beth-arabah. The border went up to the Stone of Bohan son of Reuben.
+
+**7** The border went up to Debir[^15-7] from the Valley of Achor, and turned north toward Gilgal,[^15-8] which is opposite the Ascent of Adummim,[^15-9] south of the valley.[^15-10] The border passed along to the waters of En-shemesh and ended at En-rogel.
+
+**8** The border went up by the Valley of the Son of Hinnom[^15-11] along the southern slope of the Jebusite town,[^15-12] that is, Jerusalem. The border went up to the top of the hill that faces the Valley of Hinnom on the west, at the northern end of the Valley of Rephaim.
+
+**9** From the top of the hill the border curved to the spring of the waters of Nephtoah, went out to the towns of Mount Ephron, and curved to Baalah, that is, Kiriath-jearim.
+
+**10** From Baalah the border turned west to Mount Seir,[^15-13] passed along to the northern slope of Mount Jearim, that is, Chesalon, went down to Beth-shemesh and passed along to Timnah.
+
+**11** The border went out to the northern slope of Ekron, curved to Shikkeron, passed along to Mount Baalah and went out to Jabneel, and the border ended at the sea.
+
+**12** The western border was the Great Sea[^15-14] and its coast. This is the border all around the people of Judah, clan by clan.
+
+**13** Joshua gave Caleb son of Jephunneh a share among the people of Judah, as Yahweh[^15-15] had commanded him:[^15-16] Kiriath-arba, that is, Hebron. Arba was the father of Anak.
+
+**14** From there Caleb drove out the three sons of Anak, Sheshai, Ahiman and Talmai, the descendants of Anak.
+
+**15** From there he went up against the inhabitants of Debir. Debir was formerly called Kiriath-sepher.[^15-17]
+
+**16** Caleb said, "Whoever attacks Kiriath-sepher and captures it, I will give him my daughter Achsah as his wife."
+
+**17** Othniel son of Kenaz, Caleb's brother,[^15-18] captured it, and Caleb gave him his daughter Achsah as his wife.
+
+**18** When she came to him, she urged him to ask her father for a field. She got down[^15-19] from her donkey, and Caleb said to her, "What do you want?"
+
+**19** She said, "Give me a blessing.[^15-20] Since you have given me land in the Negev,[^15-21] give me springs[^15-22] of water as well." So he gave her the upper springs and the lower springs.
+
+**20** This is the inheritance of the tribe of the people of Judah, clan by clan.
+
+**21** The towns at the far end of the tribe of the people of Judah, toward the border of Edom in the Negev, were: Kabzeel, Eder, Jagur,
+
+**22** Kinah, Dimonah, Adadah,
+
+**23** Kedesh, Hazor, Ithnan,
+
+**24** Ziph, Telem, Bealoth,
+
+**25** Hazor-hadattah, Kerioth-hezron, that is, Hazor,
+
+**26** Amam, Shema, Moladah,
+
+**27** Hazar-gaddah, Heshmon, Beth-pelet,
+
+**28** Hazar-shual, Beersheba, Biziothiah,
+
+**29** Baalah, Iim, Ezem,
+
+**30** Eltolad, Chesil, Hormah,
+
+**31** Ziklag, Madmannah, Sansannah,
+
+**32** Lebaoth, Shilhim, Ain and Rimmon:[^15-23] in all, twenty-nine towns, with their villages.[^15-24]
+
+**33** In the western foothills:[^15-25] Eshtaol, Zorah, Ashnah,
+
+**34** Zanoah, En-gannim, Tappuah, Enam,
+
+**35** Jarmuth, Adullam, Socoh, Azekah,
+
+**36** Shaaraim, Adithaim, Gederah and Gederothaim:[^15-26] fourteen towns, with their villages.
+
+**37** Zenan, Hadashah, Migdal-gad,
+
+**38** Dilean, Mizpeh, Joktheel,
+
+**39** Lachish, Bozkath, Eglon,
+
+**40** Cabbon, Lahmas, Chitlish,
+
+**41** Gederoth, Beth-dagon, Naamah and Makkedah: sixteen towns, with their villages.
+
+**42** Libnah, Ether, Ashan,
+
+**43** Iphtah, Ashnah, Nezib,
+
+**44** Keilah, Achzib and Mareshah: nine towns, with their villages.
+
+**45** Ekron, with its surrounding towns[^15-27] and its villages;
+
+**46** from Ekron to the sea, all the towns near Ashdod, with their villages;
+
+**47** Ashdod, with its surrounding towns and its villages; Gaza, with its surrounding towns and its villages, as far as the Brook of Egypt and the Great Sea[^15-28] with its coast.
+
+**48** In the hill country: Shamir, Jattir, Socoh,
+
+**49** Dannah, Kiriath-sannah, that is, Debir,
+
+**50** Anab, Eshtemoh, Anim,
+
+**51** Goshen, Holon and Giloh: eleven towns, with their villages.
+
+**52** Arab, Rumah,[^15-29] Eshan,
+
+**53** Janum,[^15-30] Beth-tappuah, Aphekah,
+
+**54** Humtah, Kiriath-arba, that is, Hebron, and Zior: nine towns, with their villages.
+
+**55** Maon, Carmel, Ziph, Juttah,
+
+**56** Jezreel, Jokdeam, Zanoah,
+
+**57** Kain, Gibeah and Timnah: ten towns, with their villages.
+
+**58** Halhul, Beth-zur, Gedor,
+
+**59** Maarath, Beth-anoth and Eltekon: six towns, with their villages.[^15-31]
+
+**60** Kiriath-baal, that is, Kiriath-jearim, and Rabbah: two towns, with their villages.
+
+**61** In the wilderness: Beth-arabah, Middin, Secacah,
+
+**62** Nibshan, Ir-hamelah[^15-32] and En-gedi: six towns, with their villages.
+
+**63** But the people of Judah could not drive out the Jebusites, the inhabitants of Jerusalem. So the Jebusites live with the people of Judah in Jerusalem to this day.
+
+[^15-1]: Literally "the lot", the share of land assigned by casting lots.
+[^15-2]: The Dead Sea. Also in verse 5.
+[^15-3]: Literally "the tongue". Also in verse 5.
+[^15-4]: Or "the Scorpion Pass".
+[^15-5]: Hebrew *nachal Mitsrayim*, a valley with a stream that flows in the rainy season, on the border with Egypt, usually identified with the Wadi el-Arish. Also in verse 47.
+[^15-6]: The words of Numbers 34:5–6, where Yahweh is speaking to Israel.
+[^15-7]: Not the Debir of verse 15.
+[^15-8]: Called Geliloth in 18:17.
+[^15-9]: *Adummim* means "red (rocks)".
+[^15-10]: Hebrew *nachal*: a valley with a stream that flows in the rainy season.
+[^15-11]: Hebrew *Gei ben Hinnom*, the valley south of Jerusalem. From its shorter name *Gei Hinnom* comes the word *Gehenna*.
+[^15-12]: Literally "to the shoulder of the Jebusite from the south".
+[^15-13]: Not the Seir of Edom, but a ridge west of Jerusalem.
+[^15-14]: The Mediterranean Sea.
+[^15-15]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^15-16]: Literally "He gave … according to the mouth of Yahweh to Joshua".
+[^15-17]: *Kiriath-sepher* means "town of the book" or "town of the scribe".
+[^15-18]: The Hebrew can mean that either Othniel or Kenaz was Caleb's brother. Compare Judges 1:13; 3:9.
+[^15-19]: The meaning of the Hebrew verb is uncertain. It may mean that she got down quickly, or that she clapped her hands.
+[^15-20]: Or "a gift".
+[^15-21]: The dry country in the south of the land.
+[^15-22]: Hebrew *gullot*, perhaps "pools" or "basins". It may also be a place name, Gulloth.
+[^15-23]: Perhaps one town, En-rimmon (Nehemiah 11:29). The names in verses 21–32 come to more than twenty-nine.
+[^15-24]: Hebrew *chatserim*: settlements without walls around a town.
+[^15-25]: Hebrew *shephelah*: the low hills between the central hill country and the coastal plain.
+[^15-26]: Or "Gederah and its sheepfolds". As one town, the list has fifteen names.
+[^15-27]: Literally "daughters": the smaller towns that depended on it. Also in verse 47.
+[^15-28]: The Hebrew text is written "the sea, the border" but read "the Great Sea".
+[^15-29]: Most English Bibles read "Dumah". In Hebrew the letters for *d* and *r* look very much alike.
+[^15-30]: The Hebrew text is written "Janim" but read "Janum".
+[^15-31]: The Greek Septuagint adds here another district of eleven towns, among them Tekoa and Ephrathah, that is, Bethlehem.
+[^15-32]: Or "the City of Salt".
