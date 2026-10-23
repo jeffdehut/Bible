@@ -122,8 +122,12 @@ from the Hebrew.
   `[c]`, `[m]`, `[d]`, `[q]`, `[y]`, `[4]`–`[8]`) are not text. Don't translate them. `[X]`
   marks a verse missing from the Leningrad Codex (Joshua 21:36–37): translate it and say so
   in a note.
-- Ketiv/qere: translate the qere (the read form). Where the ketiv (the written form) means
-  something different, give it in a note: "The Hebrew text is written 'X' but read 'Y'."
+- Ketiv/qere: translate the qere (the read form). Where the ketiv (the written form) would be
+  translated differently, even only in number ("its post"/"its posts"), give it in a note:
+  "The Hebrew text is written 'X' but read 'Y'." Differences of spelling alone are not noted.
+- A speech that runs on into the next chapter reopens its quotation at the chapter's first
+  verse, as English does for a new paragraph of the same speech, and closes it only where the
+  speech ends.
 - Where Aramaic begins and ends (Ezra 4:8–6:18, 7:12–26; Jeremiah 10:11; Daniel 2:4b–7:28),
   say so in a note.
 - Psalm titles are part of verse 1 (or verses 1–2) in the Hebrew. Where that makes this
@@ -157,6 +161,9 @@ from the Hebrew.
   (for example Deuteronomy 32:8, Psalm 22:17). Name the version: "The Septuagint reads …".
   Only note a reading you are sure of. If in doubt, leave it out. Never say "some
   manuscripts" in the Old Testament without naming them.
+- Technical terms (tabernacle furnishings, sacrifices, priestly garments) get a full note at
+  their first occurrence in a book. Later chapters give a short note only where a reader needs
+  it, pointing back: "See 25:17."
 - Notes explain, they don't preach: meaning, alternatives, background, references. No
   devotional or doctrinal commentary.
 
