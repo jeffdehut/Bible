@@ -1573,41 +1573,41 @@
 
 **2** He reigned three years in Jerusalem. His mother's name was Maacah daughter of Abishalom.[^15-1]
 
-**3** He walked in all the sins that his father had committed before him, and his heart was not fully devoted to Yahweh[^15-2] his God, as the heart of his ancestor David[^15-3] had been.[^15-4]
+**3** He walked in all the sins that his father had committed before him, and his heart was not fully devoted to Yahweh[^15-2] his God, as the heart of his ancestor David had been.[^15-3]
 
-**4** Nevertheless, for David's sake Yahweh his God gave him a lamp[^15-5] in Jerusalem, by raising up his son after him and by establishing Jerusalem,
+**4** Nevertheless, for David's sake Yahweh his God gave him a lamp[^15-4] in Jerusalem, by raising up his son after him and by establishing Jerusalem,
 
-**5** because David had done what was right in the eyes of Yahweh and had not turned aside from anything he commanded him all the days of his life, except in the matter of Uriah the Hittite.[^15-6]
+**5** because David had done what was right in the eyes of Yahweh and had not turned aside from anything he commanded him all the days of his life, except in the matter of Uriah the Hittite.[^15-5]
 
-**6** There was war between Rehoboam and Jeroboam all the days of his life.[^15-7]
+**6** There was war between Rehoboam and Jeroboam all the days of his life.[^15-6]
 
-**7** As for the rest of the acts of Abijam, and all that he did, are they not written in the book of the annals of the kings of Judah?[^15-8] There was war between Abijam and Jeroboam.
+**7** As for the rest of the acts of Abijam, and all that he did, are they not written in the book of the annals of the kings of Judah?[^15-7] There was war between Abijam and Jeroboam.
 
-**8** Then Abijam slept with his ancestors,[^15-9] and they buried him in the City of David. And his son Asa became king in his place.
+**8** Then Abijam slept with his ancestors,[^15-8] and they buried him in the City of David. And his son Asa became king in his place.
 
-**9** In the twentieth year of Jeroboam king of Israel, Asa became king over Judah.[^15-10]
+**9** In the twentieth year of Jeroboam king of Israel, Asa became king over Judah.[^15-9]
 
-**10** He reigned forty-one years in Jerusalem. His mother's name was Maacah daughter of Abishalom.[^15-11]
+**10** He reigned forty-one years in Jerusalem. His mother's name was Maacah daughter of Abishalom.[^15-10]
 
-**11** Asa did what was right in the eyes of Yahweh, as his ancestor David[^15-12] had done.
+**11** Asa did what was right in the eyes of Yahweh, as his ancestor David had done.
 
-**12** He banished the male shrine prostitutes[^15-13] from the land and removed all the idols[^15-14] that his ancestors had made.
+**12** He banished the male shrine prostitutes[^15-11] from the land and removed all the idols[^15-12] that his ancestors had made.
 
-**13** He even removed his mother Maacah from being queen mother,[^15-15] because she had made an obscene image[^15-16] for Asherah.[^15-17] Asa cut down her obscene image and burned it in the Kidron Valley.
+**13** He even removed his mother Maacah from being queen mother,[^15-13] because she had made an obscene image[^15-14] for Asherah.[^15-15] Asa cut down her obscene image and burned it in the Kidron Valley.
 
 **14** But the high places were not taken away. Yet Asa's heart was fully devoted to Yahweh all his days.
 
-**15** He brought in the things his father had dedicated and the dedicated things of the house of Yahweh:[^15-18] silver, gold and utensils.
+**15** He brought in the things his father had dedicated and the dedicated things of the house of Yahweh:[^15-16] silver, gold and utensils.
 
 **16** There was war between Asa and Baasha king of Israel all their days.
 
-**17** Baasha king of Israel went up against Judah and fortified[^15-19] Ramah, to prevent anyone from going out or coming in to Asa king of Judah.
+**17** Baasha king of Israel went up against Judah and fortified[^15-17] Ramah, to prevent anyone from going out or coming in to Asa king of Judah.
 
 **18** Then Asa took all the silver and gold that was left in the treasuries of the house of Yahweh and the treasuries of the king's house, and he gave them into the hands of his servants. King Asa sent them to Ben-hadad son of Tabrimmon son of Hezion, king of Aram, who lived in Damascus, saying,
 
-**19** "There is a treaty between me and you, as there was between my father and your father. Look, I have sent you a gift[^15-20] of silver and gold. Go, break your treaty with Baasha king of Israel, so that he will withdraw from me."
+**19** "There is a treaty between me and you, as there was between my father and your father. Look, I have sent you a gift[^15-18] of silver and gold. Go, break your treaty with Baasha king of Israel, so that he will withdraw from me."
 
-**20** Ben-hadad listened to King Asa and sent the commanders of his armies against the cities of Israel. He struck Ijon, Dan, Abel-beth-maacah and all Chinneroth,[^15-21] together with all the land of Naphtali.
+**20** Ben-hadad listened to King Asa and sent the commanders of his armies against the cities of Israel. He struck Ijon, Dan, Abel-beth-maacah and all Chinneroth,[^15-19] together with all the land of Naphtali.
 
 **21** When Baasha heard of it, he stopped fortifying Ramah and stayed in Tirzah.
 
@@ -1615,7 +1615,7 @@
 
 **23** As for all the rest of the acts of Asa, all his might, all that he did and the cities he built, are they not written in the book of the annals of the kings of Judah? But in his old age he had a disease in his feet.
 
-**24** Then Asa slept with his ancestors and was buried with his ancestors in the city of his ancestor David.[^15-22] And his son Jehoshaphat became king in his place.
+**24** Then Asa slept with his ancestors and was buried with his ancestors in the city of his ancestor David. And his son Jehoshaphat became king in his place.
 
 **25** Nadab son of Jeroboam became king over Israel in the second year of Asa king of Judah, and he reigned over Israel two years.
 
@@ -1625,7 +1625,7 @@
 
 **28** Baasha killed him in the third year of Asa king of Judah and became king in his place.
 
-**29** As soon as he became king, he struck down the whole house of Jeroboam. He did not leave Jeroboam anyone that breathed,[^15-23] until he had destroyed them, according to the word of Yahweh that he had spoken through his servant Ahijah the Shilonite,
+**29** As soon as he became king, he struck down the whole house of Jeroboam. He did not leave Jeroboam anyone that breathed,[^15-20] until he had destroyed them, according to the word of Yahweh that he had spoken through his servant Ahijah the Shilonite,
 
 **30** because of the sins of Jeroboam, which he committed and which he caused Israel to commit, and because of the anger to which he provoked Yahweh, the God of Israel.
 
@@ -1639,27 +1639,24 @@
 
 [^15-1]: A form of the name Absalom (2 Chronicles 11:20–21). 2 Chronicles 13:2 calls Abijah's mother Micaiah daughter of Uriel of Gibeah.
 [^15-2]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
-[^15-3]: Literally "his father", as often of an ancestor.
-[^15-4]: David was Abijam's great-grandfather. In Hebrew "father" can mean any male ancestor. Also in verses 11 and 24.
-[^15-5]: Hebrew *nir*, probably "lamp", a picture of a family line that continues (11:36).
-[^15-6]: See 2 Samuel 11.
-[^15-7]: This repeats 14:30.
-[^15-8]: Literally "the book of the words of the days of the kings of Judah": the royal records, which have not survived (14:19, 29). So also "the annals of the kings of Israel" (verse 31).
-[^15-9]: Literally "lay down with his fathers", a way of speaking of death. Also in verse 24.
-[^15-10]: Literally "Asa king of Judah reigned".
-[^15-11]: Maacah was the mother of Abijam (verse 2). Here she is probably Asa's grandmother, who kept her place as queen mother (verse 13).
-[^15-12]: Literally "his father", as often of an ancestor.
-[^15-13]: Hebrew *qedeshim*, "consecrated ones" (14:24).
-[^15-14]: Hebrew *gillulim*, a contemptuous word for idols, perhaps related to the word for dung (14:10).
-[^15-15]: Hebrew *gevirah*, "great lady": the title of the king's mother, who held an important place at court.
-[^15-16]: Hebrew *mifletset*, "a horrible thing". Its exact nature is unknown. Also later in the verse.
-[^15-17]: A Canaanite goddess, whose symbol was a wooden pole or tree (14:15, 23).
-[^15-18]: The Hebrew text is written "and his own dedicated things, into the house of Yahweh" but read "and the dedicated things of the house of Yahweh". Compare 2 Chronicles 15:18.
-[^15-19]: Literally "built". Also in verses 21 and 22.
-[^15-20]: Hebrew *shochad*, "gift, bribe".
-[^15-21]: The region by the Sea of Galilee, also called Chinnereth (Joshua 11:2; 12:3).
-[^15-22]: Literally "his father", as often of an ancestor.
-[^15-23]: Literally "any breath".
+[^15-3]: Literally "his father": David was Abijam's great-grandfather. In Hebrew "father" can mean any male ancestor. Also in verses 11 and 24.
+[^15-4]: Hebrew *nir*, probably "lamp", a picture of a family line that continues (11:36).
+[^15-5]: See 2 Samuel 11.
+[^15-6]: This repeats 14:30.
+[^15-7]: Literally "the book of the words of the days of the kings of Judah": the royal records, which have not survived (14:19, 29). So also "the annals of the kings of Israel" (verse 31).
+[^15-8]: Literally "lay down with his fathers", a way of speaking of death. Also in verse 24.
+[^15-9]: Literally "Asa king of Judah reigned".
+[^15-10]: Maacah was the mother of Abijam (verse 2). Here she is probably Asa's grandmother, who kept her place as queen mother (verse 13).
+[^15-11]: Hebrew *qedeshim*, "consecrated ones" (14:24).
+[^15-12]: Hebrew *gillulim*, a contemptuous word for idols, perhaps related to the word for dung (14:10).
+[^15-13]: Hebrew *gevirah*, "great lady": the title of the king's mother, who held an important place at court.
+[^15-14]: Hebrew *mifletset*, "a horrible thing". Its exact nature is unknown. Also later in the verse.
+[^15-15]: A Canaanite goddess, whose symbol was a wooden pole or tree (14:15, 23).
+[^15-16]: The Hebrew text is written "and his own dedicated things, into the house of Yahweh" but read "and the dedicated things of the house of Yahweh". Compare 2 Chronicles 15:18.
+[^15-17]: Literally "built". Also in verses 21 and 22.
+[^15-18]: Hebrew *shochad*, "gift, bribe".
+[^15-19]: The region by the Sea of Galilee, also called Chinnereth (Joshua 11:2; 12:3).
+[^15-20]: Literally "any breath".
 
 ## Chapter 16
 
