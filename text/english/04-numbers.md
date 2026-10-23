@@ -1505,6 +1505,169 @@
 [^15-21]: Hebrew *tur*, the verb used for exploring the land in chapters 13–14.
 [^15-22]: Literally "after which you prostitute yourselves", an image often used for unfaithfulness to Yahweh.
 
+## Chapter 16
+
+*Status: draft*
+
+**1** Korah son of Izhar, son of Kohath, son of Levi, took action,[^16-1] together with Dathan and Abiram, the sons of Eliab, and On son of Peleth, who were descendants of Reuben.
+
+**2** They rose up against Moses, along with 250 Israelite men, leaders of the community, chosen from the assembly,[^16-2] men of renown.
+
+**3** They assembled against Moses and Aaron and said to them, "You have gone too far![^16-3] The whole community is holy, every one of them, and Yahweh[^16-4] is among them. So why do you set yourselves above the assembly of Yahweh?"
+
+**4** When Moses heard this, he fell face down.
+
+**5** Then he said to Korah and all his followers,[^16-5] "In the morning Yahweh will make known who belongs to him and who is holy, and he will let that one come near to him. The one he chooses he will let come near to him.
+
+**6** Do this, Korah and all your followers: take censers.[^16-6]
+
+**7** Tomorrow put fire in them and put incense on them before Yahweh. The man Yahweh chooses will be the one who is holy. You have gone too far, you Levites!"
+
+**8** Moses said to Korah, "Listen, you Levites!
+
+**9** Is it not enough for you that the God of Israel has set you apart from the community of Israel to bring you near to himself, to do the work of Yahweh's tabernacle, and to stand before the community and serve them?
+
+**10** He has brought you near, and all your fellow Levites with you, and now you are seeking the priesthood as well?
+
+**11** So it is against Yahweh that you and all your followers have banded together. As for Aaron, who is he, that you grumble against him?"
+
+**12** Then Moses sent for Dathan and Abiram, the sons of Eliab, but they said, "We will not come up!
+
+**13** Is it not enough that you have brought us up out of a land flowing with milk and honey to kill us in the wilderness? Must you also make yourself a prince over us?
+
+**14** What is more, you have not brought us into a land flowing with milk and honey, or given us an inheritance of fields and vineyards. Will you gouge out the eyes of these men?[^16-7] We will not come up!"
+
+**15** Moses became very angry and said to Yahweh, "Do not accept their offering.[^16-8] I have not taken a single donkey from them, and I have not harmed any one of them."
+
+**16** Moses said to Korah, "You and all your followers are to appear before Yahweh tomorrow, you and they and Aaron.
+
+**17** Each of you is to take his censer and put incense on it, and each of you is to present his censer before Yahweh, 250 censers. You and Aaron are also to bring your censers."
+
+**18** So each man took his censer, put fire in it and placed incense on it, and they stood at the entrance of the tent of meeting with Moses and Aaron.
+
+**19** When Korah had gathered the whole community against them at the entrance of the tent of meeting, the glory of Yahweh appeared to the whole community.
+
+**20** Yahweh said to Moses and Aaron,
+
+**21** "Separate yourselves from this community, so that I may destroy them in an instant."
+
+**22** But they fell face down and said, "O God, the God of the spirits of all flesh,[^16-9] when one man sins, will you be angry with the whole community?"
+
+**23** Yahweh said to Moses,
+
+**24** "Tell the community: 'Move away from around the dwelling[^16-10] of Korah, Dathan and Abiram.'"
+
+**25** Then Moses got up and went to Dathan and Abiram, and the elders of Israel followed him.
+
+**26** He said to the community, "Move away from the tents of these wicked men, and do not touch anything that belongs to them, or you will be swept away because of all their sins."
+
+**27** So they moved away from around the dwelling of Korah, Dathan and Abiram. Dathan and Abiram had come out and were standing at the entrance of their tents with their wives, their children and their little ones.
+
+**28** Moses said, "This is how you will know that Yahweh has sent me to do all these things, and that it was not my own idea.[^16-11]
+
+**29** If these men die a natural death, as all people do, and if they suffer the fate of all people,[^16-12] then Yahweh has not sent me.
+
+**30** But if Yahweh brings about something new,[^16-13] and the ground opens its mouth and swallows them and everything that belongs to them, and they go down alive into Sheol,[^16-14] then you will know that these men have treated Yahweh with contempt."
+
+**31** As soon as he had finished saying all these words, the ground under them split open.
+
+**32** The earth opened its mouth and swallowed them and their households,[^16-15] and all the people who belonged to Korah, and all their possessions.
+
+**33** They and everything that belonged to them went down alive into Sheol. The earth closed over them, and they vanished from among the assembly.
+
+**34** All the Israelites who were around them fled at their cry, for they said, "The earth may swallow us too!"
+
+**35** And fire came out from Yahweh and consumed the 250 men who were offering the incense.[^16-16]
+
+[^16-1]: Literally "took", with no object. It may mean "took men", or "took it upon himself".
+[^16-2]: Literally "called ones of the meeting".
+[^16-3]: Literally "Enough for you!"; also in verse 7.
+[^16-4]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^16-5]: Literally "his community" (Hebrew *edah*); also in verses 6, 11 and 16.
+[^16-6]: Hebrew *machtot*: pans for carrying burning coals, the same word translated "firepans" in 4:14.
+[^16-7]: Probably meaning "Do you think you can blind these men to what you are doing?" Literally "Will you bore out the eyes of those men?"
+[^16-8]: Literally "Do not turn to their offering". Hebrew *minchah*, here an offering of any kind.
+[^16-9]: That is, the God who gives life and breath to every living creature. Hebrew *ruchot*, plural of *ruach*, "spirit, breath".
+[^16-10]: Hebrew *mishkan*, the word used elsewhere for the tabernacle. Also in verse 27.
+[^16-11]: Literally "not from my heart".
+[^16-12]: Literally "if the visitation of all humankind is visited on them".
+[^16-13]: Literally "creates a creation". Hebrew *bara*, "create", is the verb used in Genesis 1:1.
+[^16-14]: Hebrew *Sheol*: the realm of the dead. Also in verse 33.
+[^16-15]: Literally "their houses".
+[^16-16]: In most English Bibles chapter 16 continues with verses 36–50, which are 17:1–15 in the Hebrew text.
+
+## Chapter 17
+
+*Status: draft*
+
+**1** Yahweh[^17-1] said to Moses,[^17-2]
+
+**2** "Tell Eleazar son of Aaron the priest to take the censers out of the blaze, and to scatter the coals[^17-3] some distance away, for the censers are holy.
+
+**3** Take the censers of these men who sinned at the cost of their own lives,[^17-4] and have them hammered into thin sheets as plating for the altar. They were presented before Yahweh, and so they have become holy. Let them be a sign to the Israelites."
+
+**4** So Eleazar the priest took the bronze censers that had been presented by those who were burned, and they were hammered out as plating for the altar,
+
+**5** as a reminder to the Israelites that no outsider,[^17-5] no one who is not a descendant of Aaron, should come near to burn incense before Yahweh, so that he would not become like Korah and his followers. This was as Yahweh had told him through Moses.
+
+**6** The next day the whole community of the Israelites grumbled against Moses and Aaron. "You have killed Yahweh's people," they said.
+
+**7** But when the community had assembled against Moses and Aaron, they turned toward the tent of meeting, and there was the cloud covering it, and the glory of Yahweh appeared.
+
+**8** Moses and Aaron went to the front of the tent of meeting,
+
+**9** and Yahweh said to Moses,
+
+**10** "Get away from this community, so that I may destroy them in an instant." And they fell face down.
+
+**11** Moses said to Aaron, "Take the censer, put fire from the altar in it, and put incense on it. Then go quickly to the community and make atonement for them, for wrath has gone out from Yahweh. The plague has begun."
+
+**12** Aaron took it, as Moses had said, and ran into the middle of the assembly. The plague had already begun among the people. He put on the incense and made atonement for the people.
+
+**13** He stood between the dead and the living, and the plague was stopped.
+
+**14** Those who died in the plague numbered 14,700, besides those who had died because of Korah.
+
+**15** Then Aaron returned to Moses at the entrance of the tent of meeting, for the plague had been stopped.
+
+**16** Yahweh said to Moses,[^17-6]
+
+**17** "Speak to the Israelites and get a staff[^17-7] from them for each ancestral family, one from each of their leaders by their ancestral families, twelve staffs. Write each man's name on his staff.
+
+**18** Write Aaron's name on the staff of Levi, for there is to be one staff for the head of each ancestral family.
+
+**19** Place them in the tent of meeting in front of the testimony,[^17-8] where I meet with you.
+
+**20** The staff of the man I choose will sprout. In this way I will rid myself of the grumbling of the Israelites, which they keep making against you."
+
+**21** So Moses spoke to the Israelites, and all their leaders gave him a staff, one for each leader, by their ancestral families, twelve staffs. Aaron's staff was among their staffs.
+
+**22** Moses placed the staffs before Yahweh in the tent of the testimony.
+
+**23** The next day Moses went into the tent of the testimony, and there was Aaron's staff, the staff for the house of Levi. It had sprouted. It had put out buds, produced blossoms and borne ripe almonds.[^17-9]
+
+**24** Then Moses brought out all the staffs from Yahweh's presence to all the Israelites. They looked, and each man took his own staff.
+
+**25** Yahweh said to Moses, "Put Aaron's staff back in front of the testimony, to be kept as a sign for the rebels,[^17-10] so that you may put an end to their grumbling against me, and they will not die."
+
+**26** Moses did so. He did just as Yahweh had commanded him.
+
+**27** The Israelites said to Moses, "We are going to die! We are lost, all of us lost!
+
+**28** Everyone who comes near, anyone who comes near to Yahweh's tabernacle, will die. Are we all going to perish?"[^17-11]
+
+[^17-1]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^17-2]: Verses 1–15 are 16:36–50 in most English Bibles.
+[^17-3]: Literally "the fire".
+[^17-4]: Literally "these sinners against their own lives" (Hebrew *nephesh*).
+[^17-5]: Hebrew *zar*, "stranger": here anyone who is not a priest.
+[^17-6]: Verses 16–28 are 17:1–13 in most English Bibles.
+[^17-7]: Hebrew *matteh*, which means both "staff" and "tribe". Also in verses 18, 20, 21 and 23–25.
+[^17-8]: Hebrew *edut*, "testimony": the stone tablets of the covenant kept in the ark (Exodus 25:16, 22). Also in verses 22, 23 and 25.
+[^17-9]: Hebrew *sheqedim*, "almonds", sounds like *shaqad*, "watch, be awake" (compare Jeremiah 1:11–12).
+[^17-10]: Literally "the sons of rebellion".
+[^17-11]: Or "Will there be no end to our dying?"
+
 ## Chapter 18
 
 *Status: draft*
@@ -2835,3 +2998,291 @@
 [^32-10]: Hebrew *chavvot*, probably tent villages.
 [^32-11]: The name means "villages of Jair".
 [^32-12]: Literally "daughters": the smaller towns that depended on it.
+
+## Chapter 33
+
+*Status: draft*
+
+**1** These were the journeys of the Israelites when they went out of the land of Egypt by their divisions,[^33-1] under the leadership of Moses and Aaron.[^33-2]
+
+**2** At Yahweh's[^33-3] command Moses recorded the places they set out from, stage by stage. These were their journeys, by the places they set out from.[^33-4]
+
+**3** They set out from Rameses in the first month, on the fifteenth day of the first month. On the day after the Passover the Israelites went out boldly[^33-5] in the sight of all the Egyptians,
+
+**4** while the Egyptians were burying all their firstborn, whom Yahweh had struck down among them. Yahweh had also carried out judgments on their gods.
+
+**5** The Israelites set out from Rameses and camped at Succoth.
+
+**6** They set out from Succoth and camped at Etham, which is on the edge of the wilderness.
+
+**7** They set out from Etham and turned back to Pi-hahiroth, which faces Baal-zephon, and they camped in front of Migdol.
+
+**8** They set out from before Hahiroth[^33-6] and passed through the middle of the sea into the wilderness. They went three days' journey in the wilderness of Etham and camped at Marah.
+
+**9** They set out from Marah and came to Elim. At Elim there were twelve springs of water and seventy palm trees, and they camped there.
+
+**10** They set out from Elim and camped by the Red Sea.[^33-7]
+
+**11** They set out from the Red Sea and camped in the wilderness of Sin.
+
+**12** They set out from the wilderness of Sin and camped at Dophkah.
+
+**13** They set out from Dophkah and camped at Alush.
+
+**14** They set out from Alush and camped at Rephidim, where there was no water for the people to drink.
+
+**15** They set out from Rephidim and camped in the wilderness of Sinai.
+
+**16** They set out from the wilderness of Sinai and camped at Kibroth-hattaavah.
+
+**17** They set out from Kibroth-hattaavah and camped at Hazeroth.
+
+**18** They set out from Hazeroth and camped at Rithmah.
+
+**19** They set out from Rithmah and camped at Rimmon-perez.
+
+**20** They set out from Rimmon-perez and camped at Libnah.
+
+**21** They set out from Libnah and camped at Rissah.
+
+**22** They set out from Rissah and camped at Kehelathah.
+
+**23** They set out from Kehelathah and camped at Mount Shepher.
+
+**24** They set out from Mount Shepher and camped at Haradah.
+
+**25** They set out from Haradah and camped at Makheloth.
+
+**26** They set out from Makheloth and camped at Tahath.
+
+**27** They set out from Tahath and camped at Terah.
+
+**28** They set out from Terah and camped at Mithkah.
+
+**29** They set out from Mithkah and camped at Hashmonah.
+
+**30** They set out from Hashmonah and camped at Moseroth.
+
+**31** They set out from Moseroth and camped at Bene-jaakan.
+
+**32** They set out from Bene-jaakan and camped at Hor-haggidgad.
+
+**33** They set out from Hor-haggidgad and camped at Jotbathah.
+
+**34** They set out from Jotbathah and camped at Abronah.
+
+**35** They set out from Abronah and camped at Ezion-geber.
+
+**36** They set out from Ezion-geber and camped in the wilderness of Zin, that is, Kadesh.
+
+**37** They set out from Kadesh and camped at Mount Hor, on the edge of the land of Edom.
+
+**38** Aaron the priest went up Mount Hor at Yahweh's command, and he died there in the fortieth year after the Israelites came out of the land of Egypt, on the first day of the fifth month.
+
+**39** Aaron was 123 years old when he died on Mount Hor.
+
+**40** The Canaanite king of Arad, who lived in the Negev in the land of Canaan, heard that the Israelites were coming.[^33-8]
+
+**41** They set out from Mount Hor and camped at Zalmonah.
+
+**42** They set out from Zalmonah and camped at Punon.
+
+**43** They set out from Punon and camped at Oboth.
+
+**44** They set out from Oboth and camped at Iye-abarim, on the border of Moab.
+
+**45** They set out from Iyim[^33-9] and camped at Dibon-gad.
+
+**46** They set out from Dibon-gad and camped at Almon-diblathaim.
+
+**47** They set out from Almon-diblathaim and camped in the mountains of Abarim, in front of Nebo.
+
+**48** They set out from the mountains of Abarim and camped in the plains of Moab by the Jordan, across from Jericho.
+
+**49** They camped along the Jordan from Beth-jeshimoth as far as Abel-shittim, in the plains of Moab.
+
+**50** In the plains of Moab by the Jordan, across from Jericho, Yahweh said to Moses,
+
+**51** "Speak to the Israelites and say to them: 'When you cross the Jordan into the land of Canaan,
+
+**52** you must drive out all the inhabitants of the land before you. Destroy all their carved stones,[^33-10] destroy all their images of cast metal, and demolish all their high places.[^33-11]
+
+**53** Take possession of the land and settle in it, for I have given you the land to possess.
+
+**54** Divide the land among your clans by lot as your inheritance. To a larger clan you are to give a larger inheritance, and to a smaller clan a smaller inheritance. Wherever the lot falls for anyone, that will be his. You are to receive your inheritance by your ancestral tribes.
+
+**55** But if you do not drive out the inhabitants of the land before you, those you allow to remain will be like barbs in your eyes and thorns in your sides. They will harass you in the land where you live.
+
+**56** And then I will do to you what I planned to do to them.'"
+
+[^33-1]: Literally "by their armies".
+[^33-2]: Literally "by the hand of Moses and Aaron".
+[^33-3]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^33-4]: Literally "Moses wrote down their goings out by their journeys at the mouth of Yahweh, and these are their journeys by their goings out."
+[^33-5]: Literally "with a high hand": confidently, in triumph.
+[^33-6]: Here the name appears as Hahiroth, without the *Pi-* of verse 7.
+[^33-7]: Hebrew *Yam Suf*, literally "Sea of Reeds", traditionally the Red Sea. Also in verse 11.
+[^33-8]: See 21:1–3.
+[^33-9]: A short form of Iye-abarim (verse 44).
+[^33-10]: Hebrew *maskiyyot*: stones carved with figures, set up for worship.
+[^33-11]: Hebrew *bamot*: places of worship, often on hilltops.
+
+## Chapter 34
+
+*Status: draft*
+
+**1** Yahweh[^34-1] said to Moses,
+
+**2** "Command the Israelites and say to them: 'When you enter the land of Canaan, this is the land that will fall to you as an inheritance: the land of Canaan with its borders.
+
+**3** Your southern side will extend from the wilderness of Zin along the side of Edom. Your southern border will begin in the east at the end of the Salt Sea.[^34-2]
+
+**4** Your border will turn south of the Ascent of Akrabbim[^34-3] and pass on to Zin, and its far end will be south of Kadesh-barnea. Then it will go out to Hazar-addar and pass on to Azmon.
+
+**5** From Azmon the border will turn to the Wadi of Egypt,[^34-4] and its far end will be at the sea.
+
+**6** "'As for the western border, the Great Sea[^34-5] and its coast will be your border. This will be your western border.
+
+**7** "'This will be your northern border: from the Great Sea mark out your line[^34-6] to Mount Hor.[^34-7]
+
+**8** From Mount Hor mark it out to Lebo-hamath,[^34-8] and the far end of the border will be at Zedad.
+
+**9** Then the border will go out to Ziphron, and its far end will be at Hazar-enan. This will be your northern border.
+
+**10** "'For your eastern border, mark out your line from Hazar-enan to Shepham.
+
+**11** The border will go down from Shepham to Riblah, on the east side of Ain.[^34-9] Then the border will go down and reach the slope[^34-10] east of the Sea of Kinnereth.[^34-11]
+
+**12** Then the border will go down along the Jordan, and its far end will be at the Salt Sea. This will be your land, with its borders all around.'"
+
+**13** Moses commanded the Israelites: "This is the land that you are to receive as your inheritance by lot, which Yahweh has commanded to be given to the nine and a half tribes.
+
+**14** For the tribe of the Reubenites by their ancestral families and the tribe of the Gadites by their ancestral families have received their inheritance, and the half-tribe of Manasseh has received its inheritance.
+
+**15** The two and a half tribes have received their inheritance across the Jordan from Jericho, to the east, toward the sunrise."
+
+**16** Yahweh said to Moses,
+
+**17** "These are the names of the men who are to divide the land among you as an inheritance: Eleazar the priest and Joshua son of Nun.
+
+**18** Also take one leader from each tribe to divide the land as an inheritance.
+
+**19** These are the names of the men: from the tribe of Judah, Caleb son of Jephunneh;
+
+**20** from the tribe of the Simeonites, Shemuel son of Ammihud;
+
+**21** from the tribe of Benjamin, Elidad son of Chislon;
+
+**22** from the tribe of the Danites, a leader, Bukki son of Jogli;
+
+**23** from the sons of Joseph: from the tribe of the Manassites, a leader, Hanniel son of Ephod;
+
+**24** and from the tribe of the Ephraimites, a leader, Kemuel son of Shiphtan;
+
+**25** from the tribe of the Zebulunites, a leader, Elizaphan son of Parnach;
+
+**26** from the tribe of the Issacharites, a leader, Paltiel son of Azzan;
+
+**27** from the tribe of the Asherites, a leader, Ahihud son of Shelomi;
+
+**28** from the tribe of the Naphtalites, a leader, Pedahel son of Ammihud."
+
+**29** These are the men whom Yahweh commanded to divide the inheritance among the Israelites in the land of Canaan.
+
+[^34-1]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^34-2]: The Dead Sea. Also in verse 12.
+[^34-3]: The name means "ascent of the scorpions": a pass southwest of the Dead Sea.
+[^34-4]: Hebrew *nachal mitsrayim*, a seasonal stream on the border of Egypt, probably the Wadi el-Arish in northern Sinai.
+[^34-5]: The Mediterranean Sea. Also in verse 7.
+[^34-6]: The meaning of the Hebrew verb *ta'u* is uncertain; perhaps "draw a line". Also in verses 8 and 10.
+[^34-7]: Not the Mount Hor where Aaron died (20:22–29), but a mountain in the far north, probably in the Lebanon range.
+[^34-8]: Or "to the entrance of Hamath".
+[^34-9]: Or "the spring".
+[^34-10]: Literally "the shoulder".
+[^34-11]: The Sea of Galilee.
+
+## Chapter 35
+
+*Status: draft*
+
+**1** In the plains of Moab by the Jordan, across from Jericho, Yahweh[^35-1] said to Moses,
+
+**2** "Command the Israelites to give the Levites towns to live in from the inheritance they will possess. You are also to give the Levites pasturelands[^35-2] around the towns.
+
+**3** The towns will be theirs to live in, and their pasturelands will be for their cattle, their goods and all their animals.
+
+**4** The pasturelands of the towns that you give to the Levites are to extend a thousand cubits[^35-3] from the town wall outward, all around.
+
+**5** Measure outside the town two thousand cubits on the east side, two thousand cubits on the south side, two thousand cubits on the west side and two thousand cubits on the north side, with the town in the middle. This will be the pastureland of their towns.[^35-4]
+
+**6** "Among the towns you give to the Levites will be the six cities of refuge, which you are to provide so that anyone who has killed someone[^35-5] may flee there. In addition to them you are to give forty-two towns.
+
+**7** All the towns you give to the Levites will be forty-eight towns, together with their pasturelands.
+
+**8** The towns you give from the property of the Israelites are to be in proportion: take more from a tribe that has more, and fewer from a tribe that has fewer. Each is to give some of its towns to the Levites in proportion to the inheritance it receives."
+
+**9** Yahweh said to Moses,
+
+**10** "Speak to the Israelites and say to them: 'When you cross the Jordan into the land of Canaan,
+
+**11** select towns to be your cities of refuge, so that anyone who kills a person by mistake[^35-6] may flee there.
+
+**12** The towns will be a refuge for you from the avenger,[^35-7] so that the killer will not die until he has stood trial before the community.
+
+**13** The towns you give will be your six cities of refuge.
+
+**14** Give three towns across the Jordan and three towns in the land of Canaan. They will be cities of refuge.
+
+**15** These six towns will be a refuge for the Israelites, and for the foreigner and the temporary resident among them, so that anyone who kills a person by mistake may flee there.
+
+**16** "'But if someone strikes a person with an iron object and he dies, he is a murderer. The murderer must be put to death.
+
+**17** If someone strikes a person with a stone in his hand that could cause death, and he dies, he is a murderer. The murderer must be put to death.
+
+**18** Or if someone strikes a person with a wooden object in his hand that could cause death, and he dies, he is a murderer. The murderer must be put to death.
+
+**19** The avenger of blood himself is to put the murderer to death. When he meets him, he is to put him to death.
+
+**20** If someone pushes another out of hatred, or throws something at him with intent,[^35-8] and he dies,
+
+**21** or strikes him with his hand out of hostility, and he dies, then the one who struck him must be put to death. He is a murderer. The avenger of blood is to put the murderer to death when he meets him.
+
+**22** "'But if someone pushes another suddenly, without hostility, or throws any object at him without intent,
+
+**23** or, without seeing him, drops on him a stone that could cause death, and he dies, though he was not his enemy and did not seek to harm him,
+
+**24** then the community must judge between the one who struck him and the avenger of blood according to these rules.
+
+**25** The community must rescue the killer from the hand of the avenger of blood and return him to the city of refuge to which he fled. He must live there until the death of the high priest, who was anointed with the holy oil.
+
+**26** But if the killer ever goes outside the boundary of the city of refuge to which he fled,
+
+**27** and the avenger of blood finds him outside the boundary of his city of refuge, and the avenger of blood kills the killer, he is not guilty of bloodshed.[^35-9]
+
+**28** For the killer must live in his city of refuge until the death of the high priest. After the death of the high priest the killer may return to the land he owns.
+
+**29** "'These are to be legal rules[^35-10] for you for all your generations, wherever you live.
+
+**30** "'If anyone kills a person, the murderer is to be put to death on the evidence of witnesses. But one witness alone may not testify against a person to have him put to death.
+
+**31** Do not accept a ransom[^35-11] for the life of a murderer who is guilty and deserves to die.[^35-12] He must be put to death.
+
+**32** And do not accept a ransom for anyone who has fled to his city of refuge, so that he may return and live in the land before the death of the priest.
+
+**33** Do not defile[^35-13] the land where you are, for blood defiles the land, and no atonement can be made for the land for the blood that has been shed on it, except by the blood of the one who shed it.
+
+**34** Do not make the land where you live unclean, the land where I live, for I, Yahweh, live among the Israelites.'"
+
+[^35-1]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^35-2]: Hebrew *migrash*: open land around a town, used for grazing. Also in verses 3–7.
+[^35-3]: A cubit was about 18 inches (45 cm), so a thousand cubits was about 1,500 feet (450 meters), and two thousand cubits (verse 5) about 3,000 feet (900 meters).
+[^35-4]: How the measurements of verses 4 and 5 fit together is not explained.
+[^35-5]: Hebrew *rotseach*, a word used both of someone who kills by accident, as here, and of a murderer (verses 16–21 and 30–31).
+[^35-6]: Hebrew *bishgagah*, "by mistake, inadvertently": without intending to. Also in verse 15.
+[^35-7]: Hebrew *go'el*, "redeemer": the nearest relative, whose duty was to protect the family's rights. Here he is the one who avenges a death; in verses 19–27, "the avenger of blood".
+[^35-8]: Literally "with lying in wait": deliberately.
+[^35-9]: Literally "there is no blood for him".
+[^35-10]: Literally "a statute of judgment".
+[^35-11]: Hebrew *kofer*: a payment in place of a life.
+[^35-12]: Literally "who is guilty to die".
+[^35-13]: Hebrew *chanaf*, "pollute, profane". Also later in the verse.

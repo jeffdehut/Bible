@@ -1274,3 +1274,197 @@
 [^15-16]: Literally "a slave forever".
 [^15-17]: Or "worth the wages of a hired worker". Literally "for double the hire of a hired worker he has served you six years".
 [^15-18]: That is, people who are ritually unclean as well as people who are clean.
+
+## Chapter 16
+
+*Status: draft*
+
+**1** Observe the month of Abib[^16-1] and keep the Passover[^16-2] for Yahweh[^16-3] your God, for in the month of Abib Yahweh your God brought you out of Egypt by night.
+
+**2** Sacrifice the Passover animal for Yahweh your God from your flock or your herd, at the place that Yahweh will choose as a dwelling for his name.[^16-4]
+
+**3** Do not eat anything made with yeast with it. For seven days eat bread made without yeast with it, the bread of hardship, because you left the land of Egypt in haste. Do this so that all the days of your life you may remember the day you left the land of Egypt.
+
+**4** No yeast is to be found among you anywhere in your territory for seven days, and none of the meat you sacrifice on the evening of the first day is to be left overnight until morning.
+
+**5** You may not sacrifice the Passover in just any of the towns[^16-5] that Yahweh your God is giving you,
+
+**6** but only at the place that Yahweh your God will choose as a dwelling for his name. There you are to sacrifice the Passover in the evening, at sunset, at the time[^16-6] when you came out of Egypt.
+
+**7** Cook[^16-7] it and eat it at the place that Yahweh your God will choose. Then in the morning turn and go back to your tents.
+
+**8** For six days eat bread made without yeast, and on the seventh day hold a solemn assembly[^16-8] for Yahweh your God. Do no work on that day.
+
+**9** Count seven weeks. Begin to count the seven weeks from the time you first put the sickle to the standing grain.
+
+**10** Then keep the Festival of Weeks for Yahweh your God with a freewill offering from your hand, given in proportion to[^16-9] how Yahweh your God has blessed you.
+
+**11** Rejoice before Yahweh your God at the place that Yahweh your God will choose as a dwelling for his name, you and your son and your daughter, your male and female slaves, the Levite who lives in your towns, and the foreigner,[^16-10] the fatherless[^16-11] and the widow who live among you.
+
+**12** Remember that you were a slave in Egypt, and be careful to follow these statutes.
+
+**13** Keep the Festival of Shelters[^16-12] for seven days, when you have gathered in the produce of your threshing floor and your winepress.
+
+**14** Rejoice at your festival, you and your son and your daughter, your male and female slaves, and the Levite, the foreigner, the fatherless and the widow who live in your towns.
+
+**15** For seven days keep the festival for Yahweh your God at the place that Yahweh will choose, for Yahweh your God will bless you in all your harvest and in all the work of your hands, and you will be full of joy.[^16-13]
+
+**16** Three times a year all your males are to appear before Yahweh your God[^16-14] at the place he will choose: at the Festival of Unleavened Bread, at the Festival of Weeks and at the Festival of Shelters. No one is to appear before Yahweh empty-handed.
+
+**17** Each of you is to give as he is able,[^16-15] according to the blessing that Yahweh your God has given you.
+
+**18** Appoint judges and officials[^16-16] for your tribes in all the towns that Yahweh your God is giving you, and they are to judge the people with righteous judgment.
+
+**19** Do not twist justice. Do not show partiality.[^16-17] Do not accept a bribe, for a bribe blinds the eyes of the wise and twists the words of those who are in the right.[^16-18]
+
+**20** Pursue justice, justice alone,[^16-19] so that you may live and possess the land that Yahweh your God is giving you.
+
+**21** Do not plant any kind of tree as an Asherah pole[^16-20] beside the altar you build for Yahweh your God.
+
+**22** And do not set up a standing stone,[^16-21] which Yahweh your God hates.
+
+[^16-1]: *Abib* means "new ears of grain": the first month of the year, around March–April.
+[^16-2]: Hebrew *pesach*: both the festival and the lamb or young goat sacrificed at it (Exodus 12). Also in verses 2, 5 and 6.
+[^16-3]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^16-4]: Literally "to make his name dwell there"; also in verses 6 and 11.
+[^16-5]: Literally "gates"; also in verses 11, 14 and 18.
+[^16-6]: Hebrew *mo'ed*, "appointed time": either the time of day or the season of the year.
+[^16-7]: Hebrew *bashal*, usually "boil". In Exodus 12:8–9 the Passover lamb is to be roasted and not boiled.
+[^16-8]: Hebrew *atseret*, a closing assembly.
+[^16-9]: Hebrew *missat*, a word found only here, probably meaning "the amount of".
+[^16-10]: Hebrew *ger*: someone from elsewhere who lives among the Israelites, a resident foreigner. Also in verse 14.
+[^16-11]: Hebrew *yatom*, a child who has lost his father, traditionally "orphan". Also in verse 14.
+[^16-12]: Hebrew *sukkot*, "booths, shelters": huts made of branches (Leviticus 23:42–43). Traditionally "Tabernacles". Also in verse 16. Exodus 23:16 calls it the Festival of Ingathering.
+[^16-13]: Literally "and you will be only joyful".
+[^16-14]: Literally "be seen at the face of Yahweh your God"; also later in the verse. The same consonants could be read "see the face of Yahweh your God".
+[^16-15]: Literally "according to the gift of his hand".
+[^16-16]: Hebrew *shoterim*: officers who kept records and helped the leaders carry out their decisions.
+[^16-17]: Literally "Do not recognize faces".
+[^16-18]: Compare Exodus 23:8.
+[^16-19]: Literally "Righteousness, righteousness you shall pursue". Hebrew *tsedeq*.
+[^16-20]: Hebrew *asherah*: a wooden pole or tree that was a symbol of the goddess Asherah.
+[^16-21]: Hebrew *matsevah*: a standing stone set up as an object of worship.
+
+## Chapter 17
+
+*Status: draft*
+
+**1** Do not sacrifice to Yahweh[^17-1] your God an ox or a sheep that has a defect or anything wrong with it, for that is detestable[^17-2] to Yahweh your God.
+
+**2** Suppose a man or a woman is found among you, in one of the towns[^17-3] that Yahweh your God is giving you, who does what is evil in the eyes of Yahweh your God by breaking his covenant.
+
+**3** That person has gone and served other gods and bowed down to them, or to the sun or the moon or any of the host of heaven,[^17-4] which I have forbidden.[^17-5]
+
+**4** If you are told about it and hear of it, you must investigate thoroughly. If it is true and certain that this detestable thing has been done in Israel,
+
+**5** you must bring out to your town gates the man or the woman who has done this evil thing, the man or the woman, and stone that person to death.[^17-6]
+
+**6** The one who is to die must be put to death on the testimony[^17-7] of two witnesses or three witnesses. No one is to be put to death on the testimony of only one witness.
+
+**7** The hands of the witnesses must be the first against him to put him to death, and then the hands of all the people. So you must purge[^17-8] the evil from among you.
+
+**8** If a case comes before you that is too hard for you to judge,[^17-9] whether it concerns bloodshed, a legal claim or an assault,[^17-10] or any dispute in your towns, then get up and go to the place that Yahweh your God will choose.
+
+**9** Go to the Levitical priests[^17-11] and to the judge who is in office at that time. Inquire of them, and they will declare the verdict to you.
+
+**10** You must act according to the verdict they declare to you at the place that Yahweh will choose. Be careful to do everything they instruct you.
+
+**11** Act according to the instruction[^17-12] they give you and the ruling they tell you. Do not turn aside from the verdict they declare to you, either to the right or to the left.
+
+**12** Anyone who acts presumptuously and will not listen to the priest who stands there to serve Yahweh your God, or to the judge, must die. So you must purge the evil from Israel.
+
+**13** Then all the people will hear and be afraid, and they will not act presumptuously again.
+
+**14** When you come into the land that Yahweh your God is giving you, and have taken possession of it and settled in it, you may say, "Let me set a king over me, like all the nations around me."
+
+**15** Then be sure to set over you a king whom Yahweh your God will choose. You are to set over you a king from among your own people.[^17-13] You may not put a foreigner over you, one who is not your brother.
+
+**16** But he must not acquire many horses for himself, or make the people go back to Egypt to acquire many horses, for Yahweh has said to you, "You must never go back that way again."
+
+**17** He must not take many wives for himself, or his heart will turn away. And he must not acquire great amounts of silver and gold for himself.
+
+**18** When he sits on the throne of his kingdom, he is to write for himself on a scroll a copy of this law,[^17-14] taken from the one kept by the Levitical priests.[^17-15]
+
+**19** It is to be with him, and he is to read from it all the days of his life, so that he may learn to fear Yahweh his God by keeping all the words of this law and these statutes and doing them,
+
+**20** so that his heart will not be lifted up above his brothers, and so that he will not turn aside from the commandment, to the right or to the left. Then he and his sons will reign long over his kingdom in Israel.
+
+[^17-1]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^17-2]: Hebrew *to'evah*: something abhorrent, especially in worship. Also in verse 4.
+[^17-3]: Literally "gates"; also in verses 5 and 8.
+[^17-4]: Literally "all the host of the heavens", the heavenly bodies pictured as an army.
+[^17-5]: Literally "which I have not commanded". Moses speaks in Yahweh's own words.
+[^17-6]: Literally "and stone them with stones, and they shall die".
+[^17-7]: Literally "at the mouth"; also later in the verse.
+[^17-8]: Literally "burn out"; also in verse 12.
+[^17-9]: Literally "If a matter is too wonderful for you for judgment".
+[^17-10]: Literally "between blood and blood, between claim and claim, and between stroke and stroke". *Stroke* (Hebrew *nega*) can also mean a skin disease, as in 24:8.
+[^17-11]: Literally "the priests, the Levites"; also in verse 18.
+[^17-12]: Hebrew *torah*.
+[^17-13]: Literally "from among your brothers".
+[^17-14]: Hebrew *mishneh ha-torah ha-zot*, "a copy (or repetition) of this law". The Greek Septuagint translated it *to deuteronomion touto*, "this second law", which gave the book its English name.
+[^17-15]: Literally "from before the priests, the Levites".
+
+## Chapter 18
+
+*Status: draft*
+
+**1** The Levitical priests,[^18-1] the whole tribe of Levi, are to have no share or inheritance with Israel. They are to eat the food offerings for Yahweh,[^18-2] which are his inheritance.[^18-3]
+
+**2** They will have no inheritance among their brothers.[^18-4] Yahweh is their inheritance, as he promised them.
+
+**3** This is what is due to the priests from the people, from those who offer a sacrifice, whether an ox or a sheep: they are to give the priest the shoulder, the two cheeks and the stomach.
+
+**4** You are to give him the first of your grain, your new wine and your olive oil, and the first wool from the shearing of your sheep.
+
+**5** For Yahweh your God has chosen him and his sons out of all your tribes to stand and serve in the name of Yahweh for all time.
+
+**6** If a Levite comes from one of your towns anywhere in Israel where he is living,[^18-5] he may come whenever he wishes[^18-6] to the place that Yahweh will choose,
+
+**7** and serve in the name of Yahweh his God like all his fellow Levites who stand there before Yahweh.
+
+**8** They are to have equal portions to eat, besides what he receives from the sale of his family property.[^18-7]
+
+**9** When you come into the land that Yahweh your God is giving you, do not learn to imitate the detestable practices[^18-8] of those nations.
+
+**10** There must not be found among you anyone who makes his son or his daughter pass through the fire,[^18-9] or who practices divination, or tells fortunes, or interprets omens, or practices sorcery,[^18-10]
+
+**11** or casts spells, or consults ghosts or spirits,[^18-11] or inquires of the dead.
+
+**12** For anyone who does these things is detestable to Yahweh, and it is because of these detestable practices that Yahweh your God is driving those nations out before you.
+
+**13** You must be blameless[^18-12] before Yahweh your God.
+
+**14** These nations you are about to dispossess listen to fortune-tellers and diviners. But as for you, Yahweh your God has not allowed you to do so.
+
+**15** Yahweh your God will raise up for you a prophet like me from among you, from your own people.[^18-13] You must listen to him.
+
+**16** This is just what you asked of Yahweh your God at Horeb on the day of the assembly, when you said, "Let me not hear the voice of Yahweh my God again, or see this great fire any more, or I will die."
+
+**17** And Yahweh said to me, "What they have said is good.
+
+**18** I will raise up for them a prophet like you from among their own people. I will put my words in his mouth, and he will tell them everything I command him.
+
+**19** If anyone does not listen to my words that he speaks in my name, I myself will hold him accountable.[^18-14]
+
+**20** But a prophet who presumes to speak in my name a word I have not commanded him to speak, or who speaks in the name of other gods, that prophet must die."
+
+**21** You may say to yourself,[^18-15] "How can we know which word Yahweh has not spoken?"
+
+**22** If a prophet speaks in the name of Yahweh and the thing does not happen or come true, that is a word Yahweh has not spoken. The prophet has spoken it presumptuously. Do not be afraid of him.
+
+[^18-1]: Literally "the priests, the Levites".
+[^18-2]: Hebrew *ishshe YHWH*, gifts given to Yahweh and usually burned on the altar, traditionally "offerings made by fire". *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^18-3]: Literally "and his inheritance": the portions that belong to Yahweh, or the portion that is Levi's.
+[^18-4]: Literally "He will have no inheritance among his brothers. Yahweh is his inheritance, as he promised him." The singular refers to the tribe of Levi.
+[^18-5]: Hebrew *gar*, "lives as a newcomer", the verb related to *ger*, "resident foreigner".
+[^18-6]: Literally "with all the desire of his *nephesh* (self)".
+[^18-7]: Literally "apart from his sales by the fathers". The meaning is uncertain.
+[^18-8]: Hebrew *to'evot*, things that are abhorrent, especially in worship. Also in verse 12.
+[^18-9]: That is, sacrifices them by burning (12:31).
+[^18-10]: The exact meaning of several of the terms in verses 10–11 is uncertain.
+[^18-11]: Hebrew *ov* and *yidde'oni*: the spirits of the dead, or the people who claim to call them up.
+[^18-12]: Hebrew *tamim*, "whole, complete": wholehearted and without fault.
+[^18-13]: Literally "from your brothers"; also in verse 18. Acts 3:22–23 and 7:37 apply verses 15–19 to Jesus.
+[^18-14]: Literally "I will require it from him".
+[^18-15]: Literally "You may say in your heart".

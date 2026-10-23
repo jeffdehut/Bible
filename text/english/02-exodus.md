@@ -195,7 +195,7 @@
 [^3-10]: Literally "fathers"; also in verses 15 and 16.
 [^3-11]: Hebrew *ehyeh asher ehyeh*. *Ehyeh* is a form of the verb *hayah*, "be", that can mean "I am" or "I will be", and *asher* can mean "who", "what" or "that". So the phrase can also be translated "I will be who I will be" or "I will be what I will be". The Greek Septuagint reads "I am the one who is". It has been understood as a statement of God's own being, as a promise of his presence (compare "I will be with you" in verse 12), or as a refusal to be defined by any name. The text does not explain it.
 [^3-12]: Hebrew *ehyeh*, "I am" or "I will be".
-[^3-13]: The name YHWH sounds like a form of the same verb *hayah*, "be". In verse 14 God speaks of himself as *ehyeh*, "I am"; the name *Yahweh* is probably the matching form, "he is" or "he will be", by which others speak of him. Some scholars take it to mean "he causes to be". Traditionally "the LORD"; see the note on verse 2.
+[^3-13]: The name YHWH appears to come from the same verb, *hayah* (in an older form *hawah*), "be". In verse 14 God speaks of himself as *ehyeh*, "I am"; the name *Yahweh* is probably the matching form, "he is" or "he will be", by which others speak of him. Some scholars take it to mean "he causes to be". Traditionally "the LORD"; see the note on verse 2.
 [^3-14]: Hebrew *paqod paqadti*, "I have surely visited" or "attended to", the words Joseph used in Genesis 50:24–25.
 [^3-15]: Literally "and not by a mighty hand", which may mean "not even when he is forced by a mighty hand". The Greek Septuagint reads "unless by a mighty hand".
 [^3-16]: Literally "I will give this people favor in the eyes of Egypt".
@@ -377,15 +377,15 @@
 
 **15** The sons of Simeon: Jemuel, Jamin, Ohad, Jakin, Zohar, and Shaul the son of a Canaanite woman. These were the clans of Simeon.
 
-**16** These are the names of the sons of Levi according to their family records: Gershon, Kohath and Merari. Levi lived a hundred and thirty-seven years.
+**16** These are the names of the sons of Levi according to their family records: Gershon, Kohath and Merari. Levi lived 137 years.
 
 **17** The sons of Gershon: Libni and Shimei, by their clans.
 
-**18** The sons of Kohath: Amram, Izhar, Hebron and Uzziel. Kohath lived a hundred and thirty-three years.
+**18** The sons of Kohath: Amram, Izhar, Hebron and Uzziel. Kohath lived 133 years.
 
 **19** The sons of Merari: Mahli and Mushi. These were the clans of the Levites according to their family records.
 
-**20** Amram married his father's sister[^6-10] Jochebed, and she bore him Aaron and Moses.[^6-11] Amram lived a hundred and thirty-seven years.
+**20** Amram married his father's sister[^6-10] Jochebed, and she bore him Aaron and Moses.[^6-11] Amram lived 137 years.
 
 **21** The sons of Izhar: Korah, Nepheg and Zichri.
 
@@ -541,7 +541,7 @@
 
 **19** I will make a distinction[^8-11] between my people and your people. This sign will happen tomorrow.'"
 
-**20** And Yahweh did so. Dense swarms of flies came into Pharaoh's palace and into the houses of his officials. Throughout the land of Egypt the land was ruined by the swarms.
+**20** And Yahweh did so. Dense swarms of flies came into Pharaoh's house and into the houses of his officials. Throughout the land of Egypt the land was ruined by the swarms.
 
 **21** Then Pharaoh summoned Moses and Aaron and said, "Go, sacrifice to your God here in the land."
 
@@ -855,9 +855,9 @@
 
 **39** They baked the dough they had brought out of Egypt into flat loaves of unleavened bread. It had not risen, because they had been driven out of Egypt and could not wait, and they had not prepared any provisions for themselves.
 
-**40** The time that the Israelites had lived in Egypt was four hundred and thirty years.[^12-21]
+**40** The time that the Israelites had lived in Egypt was 430 years.[^12-21]
 
-**41** At the end of the four hundred and thirty years, on that very day, all the divisions of Yahweh went out of the land of Egypt.
+**41** At the end of the 430 years, on that very day, all the divisions of Yahweh went out of the land of Egypt.
 
 **42** It was a night of keeping watch for Yahweh, to bring them out of the land of Egypt. This same night belongs to Yahweh, a night of keeping watch for all the Israelites throughout their generations.[^12-22]
 
@@ -1463,7 +1463,7 @@
 
 **25** If you make me an altar of stones, do not build it of cut stones, for if you use a tool[^20-22] on it, you will defile it.
 
-**26** And do not go up to my altar by steps, so that your nakedness is not exposed on it.'
+**26** And do not go up to my altar by steps, so that your nakedness is not exposed on it.'"
 
 [^20-1]: Verses 2–17 are called "the ten words" (34:28; Deuteronomy 4:13; 10:4), traditionally the Ten Commandments. Traditions count them differently. In Jewish tradition verse 2 is the first word and verses 3–6 the second; in many Christian traditions verse 3 is the first commandment and verses 4–6 the second; in Catholic and Lutheran tradition verses 3–6 are the first and verse 17 is divided into two. In verses 2–17 the Hebrew text carries two sets of accents. One divides the passage into verses as numbered here, which is the numbering of the Leningrad Codex and of most English Bibles. The other, used for public reading, treats each commandment as a single unit, so some Jewish editions number the verses of this passage differently.
 [^20-2]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
@@ -1492,7 +1492,7 @@
 
 *Status: draft*
 
-**1** "These are the rulings[^21-1] you are to set before them.
+**1** These are the rulings[^21-1] you are to set before them.
 
 **2** If you buy a Hebrew slave,[^21-2] he is to serve for six years, but in the seventh year he is to go free, without paying anything.
 
@@ -1500,7 +1500,7 @@
 
 **4** If his master gives him a wife and she bears him sons or daughters, the wife and her children will belong to her master, and he is to go out alone.
 
-**5** But if the slave declares, 'I love my master, my wife and my children. I will not go free,'
+**5** But if the slave declares, "I love my master, my wife and my children. I will not go free,"
 
 **6** then his master must bring him to God.[^21-3] He is to bring him to the door or the doorpost, and his master is to pierce his ear with an awl. Then he will be his slave for life.
 
@@ -1605,7 +1605,7 @@
 
 **7** If the thief is not caught, the owner of the house is to come before God[^22-5] to show that he has not laid his hand on his neighbor's property.
 
-**8** In every case of a disputed wrong, whether it concerns an ox, a donkey, a sheep, a garment, or anything lost of which someone says, 'This is mine,' the case of both parties is to come before God. The one whom God declares guilty must pay back double to his neighbor.
+**8** In every case of a disputed wrong, whether it concerns an ox, a donkey, a sheep, a garment, or anything lost of which someone says, "This is mine," the case of both parties is to come before God. The one whom God declares guilty must pay back double to his neighbor.
 
 **9** If a man gives his neighbor a donkey, an ox, a sheep or any other animal to keep safe, and it dies or is injured or is carried off while no one is looking,
 
@@ -2368,7 +2368,7 @@
 
 **22** Yahweh said to Moses,
 
-**23** "Take the finest spices: five hundred shekels[^30-16] of liquid myrrh, half as much fragrant cinnamon, two hundred and fifty shekels, two hundred and fifty shekels of fragrant cane,
+**23** "Take the finest spices: five hundred shekels[^30-16] of liquid myrrh, half as much fragrant cinnamon, 250 shekels, 250 shekels of fragrant cane,
 
 **24** and five hundred shekels of cassia, by the sanctuary shekel, and a hin[^30-17] of olive oil.
 
@@ -3039,17 +3039,17 @@
 
 **23** With him was Oholiab son of Ahisamach, of the tribe of Dan, a craftsman and designer, and an embroiderer in blue, purple and scarlet yarn and fine linen.
 
-**24** All the gold that was used for the work, in all the work on the sanctuary, the gold of the wave offering, came to twenty-nine talents and seven hundred and thirty shekels,[^38-9] by the sanctuary shekel.[^38-10]
+**24** All the gold that was used for the work, in all the work on the sanctuary, the gold of the wave offering, came to twenty-nine talents and 730 shekels,[^38-9] by the sanctuary shekel.[^38-10]
 
-**25** The silver from those of the community who were counted came to a hundred talents and one thousand seven hundred and seventy-five shekels, by the sanctuary shekel.[^38-11]
+**25** The silver from those of the community who were counted came to a hundred talents and 1,775 shekels, by the sanctuary shekel.[^38-11]
 
 **26** That was a beka[^38-12] for each person, that is, half a shekel by the sanctuary shekel, for everyone who crossed over to those counted, from twenty years old and over: 603,550 in all.[^38-13]
 
 **27** The hundred talents of silver were used to cast the bases of the sanctuary and the bases of the veil: a hundred bases from the hundred talents, a talent for each base.
 
-**28** From the one thousand seven hundred and seventy-five shekels he made hooks for the posts, overlaid their tops and made bands for them.
+**28** From the 1,775 shekels he made hooks for the posts, overlaid their tops and made bands for them.
 
-**29** The bronze of the wave offering came to seventy talents and two thousand four hundred shekels.[^38-14]
+**29** The bronze of the wave offering came to seventy talents and 2,400 shekels.[^38-14]
 
 **30** With it he made the bases for the entrance of the tent of meeting, the bronze altar with its bronze grating, and all the utensils of the altar,
 

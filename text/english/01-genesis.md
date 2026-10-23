@@ -253,7 +253,7 @@
 
 **3** In the course of time[^4-5] Cain brought some of the produce of the ground as an offering[^4-6] to Yahweh.
 
-**4** Abel too brought an offering: some of the firstborn of his flock and their fat portions. Yahweh looked with favor on Abel and his offering,
+**4** And Abel, for his part, brought some of the firstborn of his flock and some of their fat portions. Yahweh looked with favor on Abel and his offering,
 
 **5** but on Cain and his offering he did not look with favor. So Cain was very angry, and his face fell.
 
@@ -265,7 +265,7 @@
 
 **9** Then Yahweh said to Cain, "Where is your brother Abel?" He said, "I don't know. Am I my brother's keeper?"
 
-**10** Yahweh said, "What have you done? Your brother's blood is crying out to me from the ground![^4-10]
+**10** Then he said, "What have you done? Your brother's blood is crying out to me from the ground![^4-10]
 
 **11** Now you are cursed from the ground,[^4-11] which opened its mouth to receive your brother's blood from your hand.
 
@@ -524,7 +524,7 @@
 
 **23** He wiped out every living thing that was on the face of the ground, people and livestock, creatures that move along the ground and birds of the sky. They were wiped out from the earth. Only Noah was left, and those who were with him in the ark.
 
-**24** The waters grew mighty on the earth for one hundred and fifty days.
+**24** The waters grew mighty on the earth for 150 days.
 
 [^7-1]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
 [^7-2]: Ritually clean: fit for sacrifice and for food (see Leviticus 11).
@@ -546,7 +546,7 @@
 
 **2** The springs of the deep and the windows of the sky were closed, and the rain from the sky was held back.
 
-**3** The waters steadily receded from the earth. At the end of one hundred and fifty days the waters had gone down,
+**3** The waters steadily receded from the earth. At the end of 150 days the waters had gone down,
 
 **4** and in the seventh month, on the seventeenth day of the month, the ark came to rest on the mountains of Ararat.[^8-2]
 
@@ -851,7 +851,7 @@
 
 **5** Abram took his wife Sarai, his nephew Lot, all the possessions they had gathered, and the people they had acquired[^12-6] in Haran, and they set out for the land of Canaan. They came to the land of Canaan,
 
-**6** and Abram passed through the land as far as the sacred place[^12-7] at Shechem, to the oak[^12-8] of Moreh. At that time the Canaanites were in the land.
+**6** and Abram passed through the land as far as the place[^12-7] at Shechem, to the oak[^12-8] of Moreh. At that time the Canaanites were in the land.
 
 **7** Then Yahweh appeared to Abram and said, "To your offspring[^12-9] I will give this land." So he built an altar there to Yahweh, who had appeared to him.
 
@@ -975,7 +975,7 @@
 
 **13** Then a man who had escaped came and told Abram the Hebrew.[^14-5] Abram was living by the oaks[^14-6] of Mamre the Amorite, the brother of Eshcol and of Aner. These men were Abram's allies.[^14-7]
 
-**14** When Abram heard that his relative[^14-8] had been taken captive, he called out[^14-9] his trained men, born in his household, three hundred and eighteen of them, and he pursued them as far as Dan.
+**14** When Abram heard that his relative[^14-8] had been taken captive, he called out[^14-9] his trained men, born in his household, 318 of them, and he pursued them as far as Dan.
 
 **15** At night he divided his forces against them, he and his servants, and he defeated them and pursued them as far as Hobah, north[^14-10] of Damascus.
 
@@ -1030,7 +1030,7 @@
 
 **5** He brought him outside and said, "Look up at the sky and count the stars, if you are able to count them." Then he said to him, "So will your offspring be."
 
-**6** Abram believed[^15-7] Yahweh, and Yahweh credited it to him as righteousness.[^15-8]
+**6** Abram believed[^15-7] Yahweh, and he credited it to him as righteousness.[^15-8]
 
 **7** Then he said to him, "I am Yahweh, who brought you out of Ur of the Chaldeans to give you this land to possess."
 
@@ -1044,7 +1044,7 @@
 
 **12** As the sun was going down, a deep sleep fell on Abram, and a terror, a great darkness, came over him.
 
-**13** Then he said to Abram, "Know for certain that your offspring will be foreigners in a land that is not theirs. They will be slaves there, and they will be oppressed for 400 years.
+**13** Then he said to Abram, "Know for certain that your offspring will be foreigners in a land that is not theirs. They will be enslaved and oppressed for 400 years.
 
 **14** But I will judge the nation they serve, and afterward they will come out with great possessions.
 
@@ -1069,7 +1069,7 @@
 [^15-5]: Literally "seed"; also in verses 5, 13 and 18.
 [^15-6]: Literally "who comes out of your inner parts".
 [^15-7]: Or "trusted".
-[^15-8]: Literally "and he credited it to him as righteousness". Some understand Abram as the subject: "and he counted it to Yahweh as righteousness".
+[^15-8]: That is, Yahweh counted Abram's trust as righteousness. Some understand Abram as the subject: "and he counted it to Yahweh as righteousness".
 [^15-9]: Hebrew *dor*, which can also mean a lifetime.
 [^15-10]: Literally "cut a covenant", referring to the ceremony of cutting the animals in verses 9–17.
 [^15-11]: Literally "I have given".
@@ -1307,7 +1307,7 @@
 
 **8** Look, I have two daughters who have never slept with a man.[^19-3] Let me bring them out to you, and you can do to them whatever you like. Only don't do anything to these men, for they have come under the protection of my roof."[^19-4]
 
-**9** But they said, "Stand back!" And they said, "This one came here as a foreigner, and now he wants to play the judge! We will treat you worse than them." They pressed hard against the man, against Lot, and moved forward to break down the door.
+**9** But they said, "Stand back!" And they said, "This one came here as a foreigner, and now he wants to play the judge! Now we will treat you worse than them." They pressed hard against the man, against Lot, and moved forward to break down the door.
 
 **10** But the men inside reached out their hands, brought Lot into the house with them, and shut the door.
 
@@ -1674,7 +1674,7 @@
 
 **16** The young woman was very beautiful, a virgin; no man had slept with her.[^24-8] She went down to the spring, filled her jar and came up.
 
-**17** The servant ran to meet her and said, "Please give me a sip of water from your jar."
+**17** The servant ran to meet her and said, "Please give me a little water from your jar to drink."
 
 **18** She said, "Drink, my lord," and she quickly lowered her jar onto her hand and gave him a drink.
 
@@ -2775,7 +2775,7 @@
 
 **27** Jacob came to his father Isaac at Mamre, at Kiriath-arba (that is, Hebron), where Abraham and Isaac had lived as foreigners.
 
-**28** Isaac lived a hundred and eighty years.
+**28** Isaac lived 180 years.
 
 **29** Then Isaac breathed his last and died, and he was gathered to his people, old and full of years.[^35-15] His sons Esau and Jacob buried him.
 
@@ -3760,7 +3760,7 @@
 
 **8** Pharaoh asked Jacob, "How old are you?"[^47-3]
 
-**9** Jacob said to Pharaoh, "The years of my wanderings[^47-4] are a hundred and thirty. The years of my life have been few and hard, and they have not reached the years of the life of my fathers in their wanderings."
+**9** Jacob said to Pharaoh, "The years of my wanderings[^47-4] are 130. The years of my life have been few and hard, and they have not reached the years of the life of my fathers in their wanderings."
 
 **10** Then Jacob blessed Pharaoh and went out from Pharaoh's presence.
 
@@ -3798,7 +3798,7 @@
 
 **27** So Israel settled in the land of Egypt, in the land of Goshen. They acquired property there, and they were fruitful and multiplied greatly.
 
-**28** Jacob lived in the land of Egypt seventeen years, and the length of Jacob's life was a hundred and forty-seven years.
+**28** Jacob lived in the land of Egypt seventeen years, and the length of Jacob's life was 147 years.
 
 **29** When the time came near for Israel to die, he called his son Joseph and said to him, "If I have found favor with you, put your hand under my thigh[^47-7] and show me faithful love and faithfulness:[^47-8] please do not bury me in Egypt.
 
@@ -4018,7 +4018,7 @@
 
 **21** So now, don't be afraid. I will provide for you and your little children." And he comforted them and spoke kindly to them.[^50-4]
 
-**22** Joseph stayed in Egypt, he and his father's household. Joseph lived a hundred and ten years.
+**22** Joseph stayed in Egypt, he and his father's household. Joseph lived 110 years.
 
 **23** Joseph saw Ephraim's children to the third generation. The children of Machir son of Manasseh were also born on Joseph's knees.[^50-5]
 
@@ -4026,7 +4026,7 @@
 
 **25** Joseph made Israel's sons[^50-7] swear an oath. He said, "God will surely come to your aid, and then you must carry my bones up from here."
 
-**26** So Joseph died at the age of a hundred and ten. They embalmed him, and he was placed in a coffin in Egypt.
+**26** So Joseph died at the age of 110. They embalmed him, and he was placed in a coffin in Egypt.
 
 [^50-1]: Literally "in the ears of Pharaoh".
 [^50-2]: Hebrew *kariti*, "I dug", or possibly "I bought".

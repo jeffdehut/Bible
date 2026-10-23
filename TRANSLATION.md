@@ -119,7 +119,7 @@ from the Hebrew.
 - Divine name: every יהוה is "Yahweh", whatever its vowels (יְהוִה too). Theophoric
   names (Jonathan, Elijah) are spelled as in most English Bibles.
 - Hebrew paragraph marks (פ, ס) at the end of a verse and UXLC's transcription marks (`[t]`,
-  `[c]`, `[m]`, `[d]`, `[q]`, `[y]`, `[4]`–`[8]`) are not text. Don't translate them. `[X]`
+  `[c]`, `[m]`, `[d]`, `[q]`, `[y]`) are not text. Don't translate them or note them. `[X]`
   marks a verse missing from the Leningrad Codex (Joshua 21:36–37): translate it and say so
   in a note.
 - Ketiv/qere: translate the qere (the read form). Where the ketiv (the written form) would be
@@ -128,6 +128,14 @@ from the Hebrew.
 - A speech that runs on into the next chapter reopens its quotation at the chapter's first
   verse, as English does for a new paragraph of the same speech, and closes it only where the
   speech ends.
+  Long law codes (Exodus 21–23, Leviticus, Deuteronomy 12–26) may instead be set without
+  quotation marks, with a note at the start saying who is speaking and where the speech ends.
+- Numbers: words for one to one hundred and for round numbers ("four hundred", "six hundred
+  thousand", "a thousand"); digits for all others, with commas from 1,000 ("130 years",
+  "1,775 shekels", "46,500"). Ordinals in words ("the twenty-seventh day").
+- Scribal marks: the extraordinary points (`[4]`), the inverted nuns (`[8]`) and large, small or
+  suspended letters (`[5]`–`[7]`) are not translated, but a short note mentions them where they
+  occur ("In the Hebrew text, dots are written over this word, a scribal mark of doubt").
 - Where Aramaic begins and ends (Ezra 4:8–6:18, 7:12–26; Jeremiah 10:11; Daniel 2:4b–7:28),
   say so in a note.
 - Psalm titles are part of verse 1 (or verses 1–2) in the Hebrew. Where that makes this

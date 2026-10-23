@@ -968,3 +968,216 @@
 [^13-14]: Hebrew *mam'eret*, perhaps "malignant" or "destructive". Also in verse 52.
 [^13-15]: Hebrew *pechetet*, perhaps "an eaten-away spot".
 [^13-16]: Literally "on its back baldness or on its front baldness", using the words for a bald head and a bald forehead in verses 40–43.
+
+## Chapter 14
+
+*Status: draft*
+
+**1** Yahweh[^14-1] said to Moses,
+
+**2** "These are to be the instructions for the person with a skin disease[^14-2] on the day he is to be made clean. He is to be brought to the priest.
+
+**3** The priest is to go outside the camp and examine him. If the mark of skin disease in the diseased person has healed,
+
+**4** the priest is to order that two live clean birds, some cedar wood, scarlet yarn[^14-3] and hyssop[^14-4] be brought for the one who is to be cleansed.
+
+**5** The priest is to order that one of the birds be slaughtered in a clay pot over fresh water.[^14-5]
+
+**6** He is to take the live bird, together with the cedar wood, the scarlet yarn and the hyssop, and dip them and the live bird in the blood of the bird that was slaughtered over the fresh water.
+
+**7** He is to sprinkle it seven times on the one who is to be cleansed from the skin disease, and pronounce him clean. Then he is to let the live bird go free in the open country.
+
+**8** The one who is being cleansed must wash his clothes, shave off all his hair and bathe in water, and he will be clean. After that he may come into the camp, but he must stay outside his tent for seven days.
+
+**9** On the seventh day he must shave off all his hair. He must shave his head, his beard and his eyebrows; he must shave off all his hair. He must wash his clothes and bathe his body in water, and he will be clean.
+
+**10** "On the eighth day he is to take two male lambs without defect and one ewe lamb a year old without defect, three-tenths of an ephah[^14-6] of fine flour mixed with oil for a grain offering, and one log[^14-7] of oil.
+
+**11** The priest who performs the cleansing is to place the man who is being cleansed, together with these offerings, before Yahweh at the entrance of the tent of meeting.
+
+**12** The priest is to take one of the male lambs and offer it as a guilt offering, together with the log of oil, and wave them as a wave offering before Yahweh.
+
+**13** He is to slaughter the lamb in the place where the sin offering and the burnt offering are slaughtered, in the holy area. For the guilt offering, like the sin offering, belongs to the priest. It is most holy.
+
+**14** The priest is to take some of the blood of the guilt offering, and the priest is to put it on the lobe of the right ear of the one who is being cleansed, on the thumb of his right hand and on the big toe of his right foot.
+
+**15** Then the priest is to take some of the log of oil and pour it into the palm of his own left hand.
+
+**16** The priest is to dip his right finger in the oil that is in his left palm, and with his finger sprinkle some of the oil seven times before Yahweh.
+
+**17** From the rest of the oil in his palm, the priest is to put some on the lobe of the right ear of the one who is being cleansed, on the thumb of his right hand and on the big toe of his right foot, on top of the blood of the guilt offering.
+
+**18** The rest of the oil in the priest's palm he is to put on the head of the one who is being cleansed. So the priest will make atonement for him before Yahweh.
+
+**19** "Then the priest is to offer the sin offering and make atonement for the one who is being cleansed from his uncleanness. After that he is to slaughter the burnt offering.
+
+**20** The priest is to offer up the burnt offering and the grain offering on the altar. So the priest will make atonement for him, and he will be clean.
+
+**21** "But if he is poor and cannot afford these, he is to take one male lamb as a guilt offering to be waved, to make atonement for him, and one-tenth of an ephah of fine flour mixed with oil for a grain offering, and a log of oil,
+
+**22** and two turtledoves or two young pigeons, whichever he can afford, one to be a sin offering and the other a burnt offering.
+
+**23** On the eighth day he is to bring them for his cleansing to the priest, at the entrance of the tent of meeting, before Yahweh.
+
+**24** The priest is to take the lamb of the guilt offering and the log of oil, and the priest is to wave them as a wave offering before Yahweh.
+
+**25** He is to slaughter the lamb of the guilt offering, and the priest is to take some of the blood of the guilt offering and put it on the lobe of the right ear of the one who is being cleansed, on the thumb of his right hand and on the big toe of his right foot.
+
+**26** The priest is to pour some of the oil into the palm of his own left hand,
+
+**27** and with his right finger the priest is to sprinkle some of the oil that is in his left palm seven times before Yahweh.
+
+**28** The priest is to put some of the oil in his palm on the lobe of the right ear of the one who is being cleansed, on the thumb of his right hand and on the big toe of his right foot, on the places where he put the blood of the guilt offering.
+
+**29** The rest of the oil in the priest's palm he is to put on the head of the one who is being cleansed, to make atonement for him before Yahweh.
+
+**30** Then he is to offer one of the turtledoves or one of the young pigeons, from whatever he can afford.
+
+**31** From what he can afford,[^14-8] he is to offer one as a sin offering and the other as a burnt offering, together with the grain offering. So the priest will make atonement before Yahweh for the one who is being cleansed.
+
+**32** These are the instructions for someone who has a mark of skin disease and cannot afford the usual offerings for his cleansing."[^14-9]
+
+**33** Yahweh said to Moses and Aaron,
+
+**34** "When you come into the land of Canaan, which I am giving you as your property, and I put a mark of mold[^14-10] in a house in the land you possess,
+
+**35** the owner of the house is to come and tell the priest, 'Something like a mark has appeared in my house.'
+
+**36** The priest is to order the house to be emptied before he comes to examine the mark, so that nothing in the house becomes unclean. After that the priest is to go in to examine the house.
+
+**37** He is to examine the mark. If the mark on the walls of the house consists of greenish or reddish hollows[^14-11] that appear to be lower than the surface of the wall,
+
+**38** the priest is to go out of the house to the doorway of the house and close up the house for seven days.
+
+**39** On the seventh day the priest is to come back and examine it. If the mark has spread on the walls of the house,
+
+**40** the priest is to order that the stones with the mark in them be pulled out and thrown into an unclean place outside the town.
+
+**41** He is to have the inside of the house scraped all around, and the plaster[^14-12] that is scraped off is to be dumped in an unclean place outside the town.
+
+**42** Then they are to take other stones and put them in place of the old stones, and he is to take other plaster and replaster the house.
+
+**43** "If the mark comes back and breaks out in the house after the stones have been pulled out, and after the house has been scraped and replastered,
+
+**44** the priest is to come and examine it. If the mark has spread in the house, it is a persistent mold[^14-13] in the house. It is unclean.
+
+**45** The house must be torn down, its stones, its timbers and all the plaster of the house, and taken outside the town to an unclean place.
+
+**46** Anyone who goes into the house while it is closed up will be unclean until evening.
+
+**47** Anyone who lies down in the house must wash his clothes, and anyone who eats in the house must wash his clothes.
+
+**48** "But if the priest comes and examines it, and the mark has not spread in the house after the house has been replastered, the priest is to pronounce the house clean, because the mark has gone.[^14-14]
+
+**49** To purify[^14-15] the house he is to take two birds, cedar wood, scarlet yarn and hyssop.
+
+**50** He is to slaughter one of the birds in a clay pot over fresh water.
+
+**51** He is to take the cedar wood, the hyssop, the scarlet yarn and the live bird, and dip them in the blood of the slaughtered bird and in the fresh water, and sprinkle the house seven times.
+
+**52** He is to purify the house with the blood of the bird and the fresh water, with the live bird, the cedar wood, the hyssop and the scarlet yarn.
+
+**53** Then he is to let the live bird go free outside the town in the open country. So he will make atonement for the house, and it will be clean.
+
+**54** "These are the instructions for any mark of skin disease, for a scaly patch,
+
+**55** for mold in a garment or in a house,
+
+**56** for a swelling, a scab or a shiny spot,
+
+**57** to teach when something is unclean and when it is clean. These are the instructions about skin disease and mold."[^14-16]
+
+[^14-1]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^14-2]: Hebrew *tsara'at*, traditionally "leprosy". It was not leprosy (Hansen's disease) as known today, but a range of skin conditions that made a person ritually unclean (chapter 13).
+[^14-3]: Literally "crimson of the worm": wool dyed with a crimson dye made from an insect.
+[^14-4]: A small bushy plant, probably a kind of marjoram, used for sprinkling (Exodus 12:22).
+[^14-5]: Literally "living water": water from a spring or a flowing stream. Also in verses 6, 50, 51 and 52.
+[^14-6]: Literally "three tenths". An ephah was probably about 22 liters (two-thirds of a bushel), so three-tenths of an ephah was about 6½ liters (7 quarts), and one-tenth (verse 21) about 2 liters (2 quarts).
+[^14-7]: A log was about a third of a liter (two-thirds of a pint).
+[^14-8]: The words "whichever he can afford" end verse 30 and are repeated at the start of verse 31.
+[^14-9]: Literally "whose hand does not reach in his cleansing".
+[^14-10]: Hebrew *tsara'at*, the word used for the skin disease in verses 1–32 (see 13:47–59).
+[^14-11]: Hebrew *sheqa'arurot*, a word found only here, of uncertain meaning.
+[^14-12]: Literally "dust": the mud plaster on the walls. Also in verses 42 and 45.
+[^14-13]: Hebrew *mam'eret*, perhaps "malignant" or "destructive" (13:51).
+[^14-14]: Literally "has been healed".
+[^14-15]: Hebrew *chitte*, the verb related to *chatta't*, "sin offering" (8:15). Also in verse 52.
+[^14-16]: Literally "This is the instruction of *tsara'at*." The one Hebrew word covers both (verses 34 and 55).
+
+## Chapter 15
+
+*Status: draft*
+
+**1** Yahweh[^15-1] said to Moses and Aaron,
+
+**2** "Speak to the Israelites and tell them: When any man has a discharge from his body,[^15-2] his discharge is unclean.
+
+**3** This is his uncleanness from his discharge: whether his body runs with his discharge or his body is blocked by his discharge, it is his uncleanness.
+
+**4** Every bed on which the man with the discharge lies will be unclean, and everything on which he sits will be unclean.
+
+**5** Anyone who touches his bed must wash his clothes and bathe in water, and he will be unclean until evening.
+
+**6** Whoever sits on anything on which the man with the discharge has sat must wash his clothes and bathe in water, and he will be unclean until evening.
+
+**7** Whoever touches the body of the man with the discharge must wash his clothes and bathe in water, and he will be unclean until evening.
+
+**8** If the man with the discharge spits on someone who is clean, that person must wash his clothes and bathe in water, and he will be unclean until evening.
+
+**9** Any saddle on which the man with the discharge rides will be unclean.
+
+**10** Whoever touches anything that was under him will be unclean until evening, and whoever carries such things must wash his clothes and bathe in water, and he will be unclean until evening.
+
+**11** Anyone whom the man with the discharge touches without having rinsed his hands in water must wash his clothes and bathe in water, and he will be unclean until evening.
+
+**12** A clay pot that the man with the discharge touches must be broken, and any wooden article must be rinsed in water.
+
+**13** "When the man with the discharge becomes clean from his discharge, he is to count off seven days for his cleansing. Then he must wash his clothes and bathe his body in fresh water,[^15-3] and he will be clean.
+
+**14** On the eighth day he is to take two turtledoves or two young pigeons and come before Yahweh at the entrance of the tent of meeting, and give them to the priest.
+
+**15** The priest is to offer them, one as a sin offering[^15-4] and the other as a burnt offering. So the priest will make atonement for him before Yahweh because of his discharge.
+
+**16** "When a man has an emission of semen, he must bathe his whole body in water, and he will be unclean until evening.
+
+**17** Any garment or any leather on which there is semen must be washed with water, and it will be unclean until evening.
+
+**18** When a man lies with a woman and there is an emission of semen, they must both bathe in water, and they will be unclean until evening.
+
+**19** "When a woman has a discharge, and the discharge from her body is blood, she will be in her menstrual impurity[^15-5] for seven days, and anyone who touches her will be unclean until evening.
+
+**20** Anything she lies on during her menstrual impurity will be unclean, and anything she sits on will be unclean.
+
+**21** Anyone who touches her bed must wash his clothes and bathe in water, and he will be unclean until evening.
+
+**22** Anyone who touches anything she sits on must wash his clothes and bathe in water, and he will be unclean until evening.
+
+**23** Whether it is on the bed or on anything on which she is sitting, when someone touches it, he will be unclean until evening.[^15-6]
+
+**24** If a man lies with her, and her menstrual impurity comes on him, he will be unclean for seven days, and every bed he lies on will be unclean.
+
+**25** "When a woman has a discharge of blood for many days, not at the time of her monthly period, or if she has a discharge that continues beyond her period, she will be unclean for all the days of her unclean discharge, just as during the days of her period. She is unclean.
+
+**26** Any bed she lies on during all the days of her discharge will be to her like her bed during her period, and anything she sits on will be unclean, as in her menstrual impurity.
+
+**27** Anyone who touches them will be unclean. He must wash his clothes and bathe in water, and he will be unclean until evening.
+
+**28** When she becomes clean from her discharge, she is to count off seven days, and after that she will be clean.
+
+**29** On the eighth day she is to take two turtledoves or two young pigeons and bring them to the priest at the entrance of the tent of meeting.
+
+**30** The priest is to offer one as a sin offering and the other as a burnt offering. So the priest will make atonement for her before Yahweh because of her unclean discharge.
+
+**31** "In this way you are to keep the Israelites separate from their uncleanness, so that they do not die in their uncleanness by making my tabernacle,[^15-7] which is among them, unclean.
+
+**32** These are the instructions for the man with a discharge, and for the man who has an emission of semen that makes him unclean,
+
+**33** for the woman who is in her menstrual period, for anyone with a discharge, whether male or female, and for a man who lies with a woman who is unclean."
+
+[^15-1]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^15-2]: Literally "from his flesh", here probably a polite way of referring to the genitals. Also in verses 3, 7 and 19.
+[^15-3]: Literally "living water": water from a spring or a flowing stream.
+[^15-4]: Hebrew *chatta't*. Here no wrongdoing is involved: the offering removes the impurity. See the note on 4:3. Also in verse 30.
+[^15-5]: Hebrew *niddah*, "separation, impurity": here the state of a woman during her monthly period. Also in verses 20, 24–26 and 33.
+[^15-6]: The Hebrew is difficult. Literally "And if it is on the bed, or on the article on which she is sitting, when he touches it he will be unclean until evening."
+[^15-7]: Hebrew *mishkan*, "dwelling place": the portable sanctuary, also called the tent of meeting.
