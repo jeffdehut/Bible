@@ -902,3 +902,67 @@
 [^11-16]: Or "they made way for her". Literally "they put hands to her".
 [^11-17]: Literally "the throne of the kings".
 [^11-18]: In most English Bibles chapter 11 has one more verse, 11:21, which is 12:1 here.
+
+## Chapter 12
+
+*Status: draft*
+
+**1** Jehoash[^12-1] was seven years old when he became king.
+
+**2** In the seventh year of Jehu, Jehoash became king, and he reigned forty years in Jerusalem. His mother's name was Zibiah, from Beersheba.
+
+**3** Jehoash did what was right in the eyes of Yahweh[^12-2] all his days, because Jehoiada the priest instructed him.[^12-3]
+
+**4** But the high places[^12-4] were not removed. The people still sacrificed and burned incense[^12-5] at the high places.
+
+**5** Jehoash said to the priests, "All the money from the holy gifts that is brought into the house of Yahweh, the money from the census,[^12-6] the money each person pays at his assessed value,[^12-7] and all the money that anyone freely chooses[^12-8] to bring into the house of Yahweh,
+
+**6** let the priests take it, each from his donor,[^12-9] and let them repair the damage to the house wherever any damage is found."
+
+**7** But by the twenty-third year of King Jehoash, the priests had still not repaired the damage to the house.
+
+**8** So King Jehoash summoned Jehoiada the priest and the other priests and said to them, "Why are you not repairing the damage to the house? Now take no more money from your donors, but hand it over for the damage to the house."
+
+**9** The priests agreed that they would take no more money from the people, and that they would not repair the damage to the house themselves.
+
+**10** Then Jehoiada the priest took a chest, bored a hole in its lid and set it beside the altar, on the right side as one comes into the house of Yahweh. The priests who guarded the threshold put into it all the money that was brought into the house of Yahweh.
+
+**11** Whenever they saw that there was a large amount of money in the chest, the king's secretary and the high priest came up, and they tied up[^12-10] and counted the money that was found in the house of Yahweh.
+
+**12** They would give the money that had been weighed out into the hands of the men doing the work, who had been put in charge of the house of Yahweh. They paid it out to the carpenters and the builders who worked on the house of Yahweh,
+
+**13** to the masons and the stonecutters, and for buying timber and dressed stone to repair the damage to the house of Yahweh, and for everything else that was spent on repairing the house.
+
+**14** But no silver basins, wick trimmers, sprinkling bowls or trumpets, or any articles of gold or articles of silver, were made for the house of Yahweh from the money brought into the house of Yahweh.
+
+**15** It was given to the workers, and with it they repaired the house of Yahweh.
+
+**16** They did not require an accounting from the men to whom they handed the money to pay the workers, for they dealt honestly.
+
+**17** The money from the guilt offerings[^12-11] and the money from the sin offerings[^12-12] was not brought into the house of Yahweh. It belonged to the priests.
+
+**18** At that time Hazael king of Aram went up and fought against Gath and captured it. Then Hazael turned[^12-13] to go up against Jerusalem.
+
+**19** Jehoash king of Judah took all the holy things that his ancestors Jehoshaphat, Jehoram and Ahaziah, kings of Judah, had dedicated, and his own holy things, and all the gold that was found in the treasuries of the house of Yahweh and of the king's palace, and he sent them to Hazael king of Aram. Then Hazael withdrew from Jerusalem.
+
+**20** As for the rest of the acts of Joash, and all that he did, are they not written in the book of the annals of the kings of Judah?
+
+**21** His officers rose up and formed a conspiracy, and they struck down Joash at Beth-millo, on the road that goes down to Silla.[^12-14]
+
+**22** His officers Jozabad[^12-15] son of Shimeath and Jehozabad son of Shomer struck him, and he died. They buried him with his ancestors in the City of David. And his son Amaziah became king in his place.
+
+[^12-1]: Verse 1 is 11:21 in most English Bibles, and verses 2–22 are 12:1–21. *Jehoash* is the longer form of *Joash* (11:2). The Hebrew uses both forms in this chapter (verses 20–21).
+[^12-2]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles. "The house of Yahweh" is the temple.
+[^12-3]: Or "all the days that Jehoiada the priest instructed him" (compare 2 Chronicles 24:2, 17–22).
+[^12-4]: Hebrew *bamot*: places of worship, often on hilltops.
+[^12-5]: Or "burned offerings". The Hebrew verb *qatar* means to make something go up in smoke.
+[^12-6]: Literally "the money of one who passes over", probably the half shekel paid by each man counted in a census (Exodus 30:13–14). Or "money in current use".
+[^12-7]: Literally "each man, the money of the persons of his valuation", probably payments made to fulfill vows at fixed values (Leviticus 27:2–8).
+[^12-8]: Literally "that comes up on anyone's heart".
+[^12-9]: Hebrew *makkar*, a rare word: perhaps "acquaintance", one of the people the priest served, or a temple treasurer. Also in verse 8.
+[^12-10]: Or "melted down". The Hebrew verb can be read either way.
+[^12-11]: Hebrew *asham*: see Leviticus 5:14–26.
+[^12-12]: Or "purification offerings". Hebrew *chatta'ot*.
+[^12-13]: Literally "set his face".
+[^12-14]: Beth-millo means "the house of the Millo", probably a terrace or fortification in Jerusalem (2 Samuel 5:9). Silla is not otherwise known.
+[^12-15]: Called Zabad in 2 Chronicles 24:26.

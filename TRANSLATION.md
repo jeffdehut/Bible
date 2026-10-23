@@ -173,8 +173,12 @@ from the Hebrew.
 - **Old Testament variants**: the ketiv/qere, and well-known, well-documented readings of
   the Septuagint, the Dead Sea Scrolls, the Samaritan Pentateuch, the Syriac or the Vulgate
   (for example Deuteronomy 32:8, Psalm 22:17). Name the version: "The Septuagint reads …".
-  Only note a reading you are sure of. If in doubt, leave it out. Never say "some
-  manuscripts" in the Old Testament without naming them.
+  A well-documented reading of medieval Hebrew manuscripts may be cited as "Some Hebrew
+  manuscripts read …". Only note a reading you are sure of. If in doubt, leave it out. Never
+  say just "some manuscripts" in the Old Testament. Every note citing an ancient version is
+  verified against a critical apparatus (BHS/BHQ, Göttingen or Rahlfs Septuagint) at the
+  *checked* stage.
+- A ketiv/qere that changes the form of a name (Janim/Janum) is noted.
 - Technical terms (tabernacle furnishings, sacrifices, priestly garments) get a full note at
   their first occurrence in a book. Later chapters give a short note only where a reader needs
   it, pointing back: "See 25:17."

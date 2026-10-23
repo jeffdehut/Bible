@@ -1273,3 +1273,91 @@
 [^17-15]: According to 1 Chronicles 2:13–17, Abigail and Zeruiah were sisters of David, daughters of Jesse.
 [^17-16]: The Hebrew repeats "roasted grain".
 [^17-17]: Hebrew *shephot baqar*, a phrase of uncertain meaning, perhaps "cheese from cows".
+
+## Chapter 18
+
+*Status: draft*
+
+**1** David mustered the troops who were with him and set over them commanders of thousands and commanders of hundreds.
+
+**2** David sent out the troops, a third under the command of Joab, a third under the command of Abishai son of Zeruiah, Joab's brother, and a third under the command of Ittai the Gittite. The king said to the troops, "I myself will certainly go out with you too."
+
+**3** But the troops said, "You must not go out. For if we have to flee, they will not care about us.[^18-1] Even if half of us die, they will not care about us. For now there are ten thousand like us.[^18-2] Now it is better for you to be ready to help us from the city."
+
+**4** The king said to them, "Whatever seems best to you I will do." So the king stood beside the gate, while all the troops went out by hundreds and by thousands.
+
+**5** The king commanded Joab, Abishai and Ittai, "Deal gently for my sake with the young man Absalom." And all the troops heard when the king gave orders to all the commanders about Absalom.
+
+**6** So the troops went out into the field against Israel, and the battle took place in the forest of Ephraim.
+
+**7** There the people of Israel were defeated by David's servants. The slaughter there was great that day: twenty thousand men.
+
+**8** The battle spread out over the whole countryside, and the forest devoured more of the people that day than the sword devoured.
+
+**9** Absalom happened to meet David's servants. Absalom was riding on his mule, and the mule went under the thick branches of a great oak.[^18-3] His head caught fast in the oak, and he was left hanging[^18-4] between heaven and earth, while the mule that was under him went on.
+
+**10** A man saw it and told Joab, "Look, I saw Absalom hanging in an oak."
+
+**11** Joab said to the man who told him, "You saw him! Why didn't you strike him to the ground there? Then I would have given you ten pieces of silver[^18-5] and a belt."
+
+**12** The man said to Joab, "Even if[^18-6] I felt the weight of a thousand pieces of silver in my hands, I would not lift my hand against the king's son. For in our hearing the king commanded you and Abishai and Ittai, 'Whoever you are, protect the young man Absalom.'[^18-7]
+
+**13** Or if I had acted treacherously against my own life[^18-8] (and nothing is hidden from the king), you yourself would have stood aloof."
+
+**14** Joab said, "I will not wait like this for you." He took three spears[^18-9] in his hand and thrust them into Absalom's heart while he was still alive in the heart of the oak.
+
+**15** Ten young men, Joab's armor-bearers, surrounded Absalom, struck him and killed him.
+
+**16** Then Joab blew the ram's horn, and the troops turned back from pursuing Israel, for Joab held the troops back.
+
+**17** They took Absalom, threw him into a great pit in the forest, and raised over him a very great heap of stones. And all Israel fled, each to his home.[^18-10]
+
+**18** During his lifetime Absalom had taken and set up for himself a pillar, which is in the King's Valley, for he said, "I have no son to keep my name in remembrance." He called the pillar by his own name, and it is called Absalom's Monument[^18-11] to this day.
+
+**19** Then Ahimaaz son of Zadok said, "Let me run and bring the king the good news that Yahweh[^18-12] has delivered him[^18-13] from the hand of his enemies."
+
+**20** Joab said to him, "You are not the man to take news today. You may take news another day, but today you must not take news, because the king's son is dead."
+
+**21** Then Joab said to a Cushite,[^18-14] "Go, tell the king what you have seen." The Cushite bowed down to Joab and ran.
+
+**22** Ahimaaz son of Zadok said once more to Joab, "Whatever happens, please let me run too, after the Cushite." Joab said, "Why should you run, my son, when you have no news that will bring you a reward?"[^18-15]
+
+**23** "Whatever happens, I will run." So he said to him, "Run!" Then Ahimaaz ran by the way of the plain[^18-16] and outran the Cushite.
+
+**24** David was sitting between the two gates. The watchman went up to the roof of the gate by the wall, and he looked up and saw a man running alone.
+
+**25** The watchman called out and told the king. The king said, "If he is alone, there is news in his mouth." He kept coming closer and closer.
+
+**26** Then the watchman saw another man running. The watchman called to the gatekeeper and said, "Look, another man running alone!" The king said, "He too is bringing news."
+
+**27** The watchman said, "I think the first one runs like Ahimaaz son of Zadok." The king said, "He is a good man, and he comes with good news."
+
+**28** Ahimaaz called out and said to the king, "All is well!"[^18-17] He bowed down to the king with his face to the ground and said, "Blessed be Yahweh your God, who has handed over the men who raised their hand against my lord the king."
+
+**29** The king said, "Is the young man Absalom safe?" Ahimaaz said, "I saw a great commotion when Joab sent the king's servant and me, your servant,[^18-18] but I don't know what it was."
+
+**30** The king said, "Turn aside and stand here." So he turned aside and stood still.
+
+**31** Then the Cushite arrived, and the Cushite said, "Good news for my lord the king! Yahweh has delivered you today from the hand of all who rose up against you."
+
+**32** The king said to the Cushite, "Is the young man Absalom safe?" The Cushite said, "May the enemies of my lord the king, and all who rise up against you to do you harm, be like that young man."[^18-19]
+
+[^18-1]: Literally "they will not set their heart on us".
+[^18-2]: Some Hebrew manuscripts, the Septuagint and the Vulgate read "But you are like ten thousand of us." In Hebrew, "now" and "you" sound alike (*attah*).
+[^18-3]: Hebrew *elah*, a large tree, an oak or a terebinth. Also in verses 10 and 14.
+[^18-4]: Literally "he was put".
+[^18-5]: Literally "ten of silver", probably ten shekels. A shekel is about 2/5 ounce (11.5 grams), so ten shekels is about 4 ounces (115 grams). In verse 12, a thousand shekels is about 25 pounds (11.5 kg).
+[^18-6]: The Hebrew text is written "And not" (*lo*) but read "Even if" (*lu*).
+[^18-7]: Literally "Guard, whoever, the young man Absalom". The Septuagint reads "Guard for me the young man Absalom".
+[^18-8]: The Hebrew text is written "against his life" but read "against my life".
+[^18-9]: Hebrew *shevatim*, "rods, staffs", here perhaps sharpened sticks or spears.
+[^18-10]: Literally "each to his tent". The Hebrew text is written "his tent" but read "his tents".
+[^18-11]: Literally "Absalom's hand", a monument (compare 1 Samuel 15:12). According to 14:27, three sons had been born to Absalom.
+[^18-12]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^18-13]: Literally "has judged him", that is, has given him justice by rescuing him. Also in verse 31.
+[^18-14]: A man from Cush, the region south of Egypt (ancient Nubia).
+[^18-15]: Literally "and for you there is no news that finds", perhaps meaning news that earns a reward. The meaning is uncertain.
+[^18-16]: Hebrew *ha-kikkar*, "the round", the plain of the Jordan.
+[^18-17]: Literally "*Shalom*!", "Peace!"
+[^18-18]: Literally "to send the king's servant Joab and your servant".
+[^18-19]: In most English Bibles, the next verse (19:1 in the Hebrew) is numbered 18:33.

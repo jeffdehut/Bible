@@ -1206,3 +1206,157 @@
 [^16-16]: Literally "a donkey of bread".
 [^16-17]: Literally "stood before him".
 [^16-18]: Literally "stand before me".
+
+## Chapter 17
+
+*Status: draft*
+
+**1** The Philistines gathered their forces for war. They gathered at Socoh, which belongs to Judah, and camped between Socoh and Azekah, at Ephes-dammim.
+
+**2** Saul and the men of Israel gathered and camped in the Valley of Elah,[^17-1] and drew up their battle line to face the Philistines.
+
+**3** The Philistines stood on the hill on one side, and Israel stood on the hill on the other side, with the valley between them.
+
+**4** A champion[^17-2] came out from the Philistine camp. His name was Goliath, from Gath, and he was six cubits and a span tall.[^17-3]
+
+**5** He had a bronze helmet on his head and wore a coat of scale armor. The coat weighed five thousand shekels of bronze.[^17-4]
+
+**6** He had bronze greaves on his legs, and a bronze javelin[^17-5] slung between his shoulders.
+
+**7** The shaft[^17-6] of his spear was like a weaver's beam,[^17-7] and its iron point weighed six hundred shekels.[^17-8] His shield-bearer walked ahead of him.
+
+**8** He stood and shouted to the ranks of Israel, "Why have you come out to draw up for battle? Am I not the Philistine, and are you not servants of Saul? Choose a man for yourselves, and let him come down to me.
+
+**9** If he is able to fight with me and kill me, we will be your slaves. But if I prevail against him and kill him, you will be our slaves and serve us."
+
+**10** The Philistine said, "I defy the ranks of Israel this day! Give me a man, and let us fight each other."
+
+**11** When Saul and all Israel heard these words of the Philistine, they were dismayed and very much afraid.
+
+**12** David was the son of an Ephrathite[^17-9] from Bethlehem in Judah, whose name was Jesse. Jesse had eight sons. In the days of Saul he was already old, advanced in years.[^17-10]
+
+**13** Jesse's three oldest sons had followed Saul to the war. The names of his three sons who went to the war were Eliab the firstborn, Abinadab the second, and Shammah the third.
+
+**14** David was the youngest. The three oldest followed Saul,
+
+**15** but David would go back and forth from Saul to tend his father's sheep at Bethlehem.
+
+**16** For forty days the Philistine came forward morning and evening and took his stand.
+
+**17** Jesse said to his son David, "Take this ephah[^17-11] of roasted grain and these ten loaves of bread for your brothers, and hurry to the camp to your brothers.
+
+**18** And take these ten cheeses[^17-12] to the commander of their thousand. See how your brothers are,[^17-13] and bring back some token from them.[^17-14]
+
+**19** Saul and they and all the men of Israel are in the Valley of Elah, fighting against the Philistines."
+
+**20** David got up early in the morning, left the sheep with a keeper, loaded up, and went as Jesse had commanded him. He came to the camp[^17-15] as the army was going out to the battle line, shouting the war cry.
+
+**21** Israel and the Philistines drew up their lines, battle line facing battle line.
+
+**22** David left his things in the care of the keeper of the supplies, ran to the battle line, and went and greeted his brothers.[^17-16]
+
+**23** While he was talking with them, there was the champion, the Philistine from Gath named Goliath, coming up out of the Philistine ranks.[^17-17] He spoke the same words as before, and David heard them.
+
+**24** When all the men of Israel saw the man, they fled from him in great fear.
+
+**25** The men of Israel said, "Do you see this man who is coming up? He comes up to defy Israel. The king will make the man who kills him very rich. He will give him his daughter, and make his father's family free[^17-18] in Israel."
+
+**26** David asked the men standing near him, "What will be done for the man who kills this Philistine and takes away this disgrace from Israel? Who is this uncircumcised Philistine, that he should defy the ranks of the living God?"
+
+**27** The people told him what they had been saying: "This is what will be done for the man who kills him."
+
+**28** When Eliab, his oldest brother, heard him speaking with the men, he became angry with David and said, "Why have you come down here? And with whom did you leave those few sheep in the wilderness? I know your arrogance and the wickedness of your heart. You came down just to watch the battle!"
+
+**29** David said, "What have I done now? Can't I even speak?"[^17-19]
+
+**30** He turned away from him toward someone else and asked the same question, and the people gave him the same answer as before.
+
+**31** When the words David had spoken were overheard, they were reported to Saul, and he sent for him.
+
+**32** David said to Saul, "Let no one lose heart because of him.[^17-20] Your servant will go and fight this Philistine."
+
+**33** Saul said to David, "You cannot go against this Philistine and fight him. You are only a boy, and he has been a warrior since his youth."
+
+**34** But David said to Saul, "Your servant has been keeping his father's sheep. Whenever a lion or a bear came and carried off a lamb from the flock,
+
+**35** I went after it, struck it and rescued the lamb from its mouth. If it turned on me, I seized it by its beard,[^17-21] struck it and killed it.
+
+**36** Your servant has killed both lions and bears, and this uncircumcised Philistine will be like one of them, for he has defied the ranks of the living God."
+
+**37** David said, "Yahweh,[^17-22] who rescued me from the paw[^17-23] of the lion and from the paw of the bear, will rescue me from the hand of this Philistine." Saul said to David, "Go, and may Yahweh be with you."
+
+**38** Then Saul dressed David in his own tunic.[^17-24] He put a bronze helmet on his head and dressed him in a coat of armor.
+
+**39** David fastened Saul's sword[^17-25] over the tunic and tried to walk, but he was not used to them.[^17-26] David said to Saul, "I cannot walk in these, for I am not used to them." So David took them off.
+
+**40** He took his staff in his hand, chose five smooth stones from the stream, and put them in his shepherd's bag, in the pouch.[^17-27] With his sling in his hand, he approached the Philistine.
+
+**41** The Philistine kept coming closer and closer to David, with his shield-bearer in front of him.
+
+**42** When the Philistine looked and saw David, he despised him, for he was only a boy, ruddy[^17-28] and handsome.
+
+**43** The Philistine said to David, "Am I a dog, that you come at me with sticks?" And the Philistine cursed David by his gods.
+
+**44** The Philistine said to David, "Come here, and I will give your flesh to the birds of the sky and the wild animals."[^17-29]
+
+**45** David said to the Philistine, "You come against me with sword, spear and javelin, but I come against you in the name of Yahweh of Armies,[^17-30] the God of the ranks of Israel, whom you have defied.
+
+**46** This very day Yahweh will hand you over to me. I will strike you down and cut off your head. This very day I will give the corpses of the Philistine army to the birds of the sky and the wild animals of the earth. Then the whole earth will know that there is a God in Israel.
+
+**47** And this whole assembly will know that it is not by sword or spear that Yahweh saves, for the battle is Yahweh's, and he will give all of you into our hands."
+
+**48** As the Philistine got up and came closer to meet David, David ran quickly toward the battle line to meet the Philistine.
+
+**49** David put his hand into his bag, took out a stone, slung it, and struck the Philistine on his forehead. The stone sank into his forehead, and he fell face down on the ground.
+
+**50** So David prevailed over the Philistine with a sling and a stone. He struck the Philistine down and killed him, though there was no sword in David's hand.
+
+**51** David ran and stood over the Philistine. He took hold of his sword, drew it out of its sheath, and finished him off, and he cut off his head with it. When the Philistines saw that their hero was dead, they fled.
+
+**52** The men of Israel and Judah rose up with a shout and pursued the Philistines as far as the entrance to the valley[^17-31] and the gates of Ekron. The Philistine dead lay along the Shaaraim road as far as Gath and Ekron.
+
+**53** When the Israelites came back from chasing the Philistines, they plundered their camp.
+
+**54** David took the Philistine's head and brought it to Jerusalem, and he put his weapons in his own tent.[^17-32]
+
+**55** When Saul saw David going out to meet the Philistine, he said to Abner, the commander of the army, "Abner, whose son is this young man?" Abner said, "As surely as you live, O king,[^17-33] I do not know."
+
+**56** The king said, "Find out whose son this young man is."
+
+**57** As soon as David came back from killing the Philistine, Abner took him and brought him before Saul, with the Philistine's head in his hand.
+
+**58** Saul said to him, "Whose son are you, young man?" David said, "The son of your servant Jesse of Bethlehem."
+
+[^17-1]: *Elah* means "terebinth", a large tree. Also in verse 19.
+[^17-2]: Hebrew *ish ha-benayim*, "the man between", one who fought in single combat between two armies. Also in verse 23.
+[^17-3]: A cubit is about 18 inches (45 cm), and a span about 9 inches (23 cm), so Goliath was about 9 feet 9 inches (3 m) tall. 4QSam(a), a Dead Sea Scroll of Samuel, and the Septuagint read "four cubits and a span", about 6 feet 9 inches (2 m).
+[^17-4]: A shekel is about 2/5 ounce (11.5 grams), so five thousand shekels is about 125 pounds (57 kg).
+[^17-5]: Hebrew *kidon*, perhaps a javelin, or a curved sword. Also in verse 45.
+[^17-6]: The Hebrew text is written "arrow" but read "shaft".
+[^17-7]: A heavy wooden bar on a loom. The comparison may refer to the spear's size, or to a loop and cord attached to it like the rod on a loom.
+[^17-8]: About 15 pounds (7 kg).
+[^17-9]: Hebrew *Ephrati*, someone from Ephrathah, the district of Bethlehem (Ruth 1:2; 4:11). Literally "the son of this Ephrathite". The oldest form of the Septuagint does not have verses 12–31, 41, 48b, 50 and 55–58 of this chapter, or 18:1–5.
+[^17-10]: The Hebrew is difficult. Literally "old, coming among men".
+[^17-11]: An ephah is a dry measure of about 20 quarts (22 liters).
+[^17-12]: Literally "ten slices of milk".
+[^17-13]: Literally "Visit your brothers for *shalom* (well-being)".
+[^17-14]: Hebrew *arubbatam*, "their pledge", perhaps a sign that they are well.
+[^17-15]: Hebrew *ma'gal*, perhaps the circle of wagons around the camp.
+[^17-16]: Literally "asked his brothers about their *shalom* (well-being)".
+[^17-17]: The Hebrew text is written "out of the Philistine caves" but read "out of the Philistine ranks".
+[^17-18]: Hebrew *chofshi*, "free", probably from taxes and forced labor.
+[^17-19]: Literally "Was it not a word?"
+[^17-20]: Literally "Let no man's heart fall on him." The Septuagint reads "Let not my lord's heart fall".
+[^17-21]: That is, by its jaw.
+[^17-22]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^17-23]: Literally "hand". Also later in the verse.
+[^17-24]: Hebrew *madav*, his garment, probably a military tunic. Also in verse 39.
+[^17-25]: Literally "his sword".
+[^17-26]: Literally "and he tried to walk, for he had not tried them".
+[^17-27]: Hebrew *yalqut*, a word found only here.
+[^17-28]: Or "red-haired"; see 16:12.
+[^17-29]: Literally "the beasts of the field".
+[^17-30]: Hebrew *YHWH tseva'ot*, traditionally "the LORD of hosts" or "the LORD Almighty". *Tseva'ot* means armies: the heavenly hosts and the armies of Israel.
+[^17-31]: The Septuagint reads "Gath".
+[^17-32]: Compare 21:10 (English 21:9), where Goliath's sword is kept at the sanctuary at Nob.
+[^17-33]: Literally "By the life of your *nephesh*, O king".

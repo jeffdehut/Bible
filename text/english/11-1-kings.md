@@ -1385,3 +1385,93 @@
 [^12-21]: The Festival of Shelters, held in Judah on the fifteenth day of the seventh month (8:2; Leviticus 23:34).
 [^12-22]: The Hebrew text is written *millevad*, "apart", but read *millibbo*, "from his own heart".
 [^12-23]: Or "to burn offerings".
+
+## Chapter 13
+
+*Status: draft*
+
+**1** Just then a man of God[^13-1] came from Judah to Bethel at the word of Yahweh,[^13-2] while Jeroboam was standing by the altar to burn incense.
+
+**2** He cried out against the altar at the word of Yahweh, "Altar, altar! This is what Yahweh says: 'A son will be born to the house of David, Josiah by name. He will sacrifice on you the priests of the high places who burn incense on you, and human bones will be burned on you.'"[^13-3]
+
+**3** That same day he gave a sign, saying, "This is the sign that Yahweh has spoken: The altar will be split apart, and the ashes[^13-4] on it will be poured out."
+
+**4** When the king heard what the man of God cried out against the altar in Bethel, Jeroboam stretched out his hand from the altar and said, "Seize him!" But the hand he had stretched out against him withered,[^13-5] so that he could not pull it back.
+
+**5** The altar split apart, and the ashes poured out from the altar, as the sign the man of God had given at the word of Yahweh had said.
+
+**6** Then the king said to the man of God, "Please plead with Yahweh your God[^13-6] and pray for me, so that my hand may be restored to me." So the man of God pleaded with Yahweh, and the king's hand was restored to him and became as it was before.
+
+**7** The king said to the man of God, "Come home with me and have something to eat, and I will give you a gift."
+
+**8** But the man of God said to the king, "Even if you gave me half your house, I would not go in with you. I will not eat bread or drink water in this place.
+
+**9** For I was commanded by the word of Yahweh: 'Do not eat bread or drink water, and do not go back by the way you came.'"
+
+**10** So he went another way and did not return by the way he had come to Bethel.
+
+**11** Now an old prophet was living in Bethel. His son came and told him everything the man of God had done that day in Bethel.[^13-7] They also told their father the words he had spoken to the king.
+
+**12** Their father asked them, "Which way did he go?" And his sons showed him[^13-8] the way the man of God who had come from Judah had gone.
+
+**13** He said to his sons, "Saddle the donkey for me." So they saddled the donkey for him, and he mounted it.
+
+**14** He went after the man of God and found him sitting under an oak.[^13-9] He said to him, "Are you the man of God who came from Judah?" He said, "I am."
+
+**15** He said to him, "Come home with me and eat some bread."
+
+**16** But he said, "I cannot go back with you or go in with you, and I will not eat bread or drink water with you in this place.
+
+**17** For I was told by the word of Yahweh, 'You must not eat bread or drink water there. Do not go back by the way you came.'"
+
+**18** He said to him, "I too am a prophet, as you are. An angel[^13-10] spoke to me by the word of Yahweh, saying, 'Bring him back with you to your house, so that he can eat bread and drink water.'" But he was lying to him.
+
+**19** So he went back with him, and he ate bread in his house and drank water.
+
+**20** While they were sitting at the table, the word of Yahweh came to the prophet who had brought him back.
+
+**21** He cried out to the man of God who had come from Judah, "This is what Yahweh says: 'Because you have rebelled against the word of Yahweh[^13-11] and have not kept the command that Yahweh your God gave you,
+
+**22** but have come back and eaten bread and drunk water in the place where he told you, "Do not eat bread or drink water," your body will not be buried in the tomb of your ancestors.'"[^13-12]
+
+**23** After he had eaten bread and after he had drunk, he saddled the donkey for him, for the prophet he had brought back.[^13-13]
+
+**24** He went on his way, and a lion met him on the road and killed him. His body lay thrown on the road, with the donkey standing beside it, and the lion was standing beside the body.
+
+**25** Some men passed by and saw the body thrown on the road, with the lion standing beside the body. They went and told it in the town where the old prophet lived.
+
+**26** When the prophet who had brought him back from his way heard it, he said, "It is the man of God who rebelled against the word of Yahweh. Yahweh has given him to the lion, and it has mauled him and killed him, according to the word Yahweh spoke to him."
+
+**27** He said to his sons, "Saddle the donkey for me," and they saddled it.
+
+**28** He went and found the body thrown on the road, with the donkey and the lion standing beside the body. The lion had not eaten the body or mauled the donkey.
+
+**29** The prophet picked up the body of the man of God, laid it on the donkey and brought it back. The old prophet came into his own town[^13-14] to mourn and to bury him.
+
+**30** He laid the body in his own tomb, and they mourned over him, "Alas, my brother!"
+
+**31** After he had buried him, he said to his sons, "When I die, bury me in the tomb where the man of God is buried. Lay my bones beside his bones.
+
+**32** For the word that he cried out at the word of Yahweh against the altar in Bethel and against all the shrines of the high places in the towns of Samaria[^13-15] will certainly come true."
+
+**33** Even after this, Jeroboam did not turn from his evil way, but again he appointed priests for the high places from all sorts of people.[^13-16] Whoever wanted to, he installed[^13-17] as priests of the high places.
+
+**34** This became the sin of the house of Jeroboam, and it led to its being cut off and destroyed from the face of the earth.
+
+[^13-1]: "Man of God" is a title for a prophet.
+[^13-2]: Or "by the word of Yahweh", that is, at his command. Also in verses 2, 5, 9, 17, 18 and 32. *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^13-3]: See 2 Kings 23:15–20.
+[^13-4]: Hebrew *deshen*, ashes soaked with the fat of the sacrifices (Exodus 27:3). Also in verse 5.
+[^13-5]: Or "became stiff".
+[^13-6]: Literally "Please soften the face of Yahweh your God", an idiom for seeking someone's favor. Also later in the verse.
+[^13-7]: The Septuagint reads "his sons came".
+[^13-8]: The Hebrew vowel points read "his sons had seen". The same consonants can be read "showed him".
+[^13-9]: Or "a terebinth": a large, spreading tree.
+[^13-10]: Or "a messenger". Hebrew *mal'akh* means both.
+[^13-11]: Literally "rebelled against the mouth of Yahweh". Also in verse 26.
+[^13-12]: Literally "your corpse will not come to the grave of your fathers".
+[^13-13]: The Hebrew is unclear. It probably means that the old prophet saddled the donkey for the man of God, here also called a prophet.
+[^13-14]: Literally "He came to the town of the old prophet".
+[^13-15]: The city of Samaria was built later by Omri (16:24). Here its name stands for the northern kingdom.
+[^13-16]: Literally "from the ends of the people" (12:31).
+[^13-17]: Literally "filled his hand", an idiom for installing someone as a priest (Exodus 28:41).

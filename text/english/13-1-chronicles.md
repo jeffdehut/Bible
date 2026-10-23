@@ -482,3 +482,109 @@
 [^4-28]: Literally "wide of hands".
 [^4-29]: The Hebrew text is written "the Meinim" but read "the Meunites".
 [^4-30]: Hebrew *charam*: to give over completely to God, which in war meant destroying it. See 2:7.
+
+## Chapter 5
+
+*Status: draft*
+
+**1** The sons of Reuben, the firstborn of Israel. He was the firstborn, but because he defiled his father's bed,[^5-1] his birthright was given to the sons of Joseph son of Israel. So he is not listed in the genealogy as the firstborn.[^5-2]
+
+**2** Though Judah became strong among his brothers, and a ruler[^5-3] came from him, the birthright belonged to Joseph.
+
+**3** The sons of Reuben, the firstborn of Israel: Hanoch, Pallu, Hezron and Carmi.
+
+**4** The descendants of Joel:[^5-4] Shemaiah his son, Gog his son, Shimei his son,
+
+**5** Micah his son, Reaiah his son, Baal his son,
+
+**6** Beerah his son, whom Tilgath-pilneser[^5-5] king of Assyria carried into exile. He was a leader of the Reubenites.
+
+**7** His kinsmen[^5-6] by their clans, as they were listed in the genealogy of their generations: Jeiel the chief, Zechariah,
+
+**8** and Bela son of Azaz, son of Shema, son of Joel. He lived in Aroer, and as far as Nebo and Baal-meon.
+
+**9** To the east he lived as far as the edge of the desert that stretches from the Euphrates River, because their livestock had increased in the land of Gilead.
+
+**10** In the days of Saul they made war on the Hagrites,[^5-7] who fell into their hands. They lived in their tents throughout the whole region east of Gilead.
+
+**11** The Gadites lived beside them in the land of Bashan as far as Salecah.
+
+**12** Joel was the chief, Shapham the second, then Janai and Shaphat in Bashan.
+
+**13** Their kinsmen by their ancestral families:[^5-8] Michael, Meshullam, Sheba, Jorai, Jacan, Zia and Eber, seven.
+
+**14** These were the sons of Abihail son of Huri, son of Jaroah, son of Gilead, son of Michael, son of Jeshishai, son of Jahdo, son of Buz.
+
+**15** Ahi son of Abdiel, son of Guni, was the head of their ancestral family.
+
+**16** They lived in Gilead, in Bashan and its towns,[^5-9] and in all the pasturelands of Sharon to their limits.
+
+**17** All of them were recorded in the genealogies in the days of Jotham king of Judah and in the days of Jeroboam king of Israel.
+
+**18** The Reubenites, the Gadites and the half-tribe of Manasseh had valiant men who carried shield and sword, drew the bow, and were trained for war: 44,760 ready for military service.
+
+**19** They made war on the Hagrites, Jetur, Naphish and Nodab.[^5-10]
+
+**20** They were helped against them, and the Hagrites and all who were with them were handed over to them, because they cried out to God in the battle. He answered their prayer, because they trusted in him.
+
+**21** They captured their livestock: 50,000 of their camels, 250,000 sheep and 2,000 donkeys, and 100,000 people.[^5-11]
+
+**22** Many fell slain, because the battle was God's. And they lived in their place until the exile.
+
+**23** The people of the half-tribe of Manasseh lived in the land from Bashan to Baal-hermon, Senir and Mount Hermon. They were numerous.
+
+**24** These were the heads of their ancestral families: Epher, Ishi, Eliel, Azriel, Jeremiah, Hodaviah and Jahdiel. They were mighty warriors, famous men, heads of their ancestral families.
+
+**25** But they were unfaithful to the God of their ancestors,[^5-12] and they prostituted themselves[^5-13] by following the gods of the peoples of the land, whom God had destroyed before them.
+
+**26** So the God of Israel stirred up the spirit of Pul king of Assyria, that is, the spirit of Tilgath-pilneser king of Assyria,[^5-14] and he carried them into exile, the Reubenites, the Gadites and the half-tribe of Manasseh. He brought them to Halah, Habor, Hara and the river Gozan,[^5-15] where they are to this day.
+
+**27** The sons of Levi:[^5-16] Gershon, Kohath and Merari.
+
+**28** The sons of Kohath: Amram, Izhar, Hebron and Uzziel.
+
+**29** The children[^5-17] of Amram: Aaron, Moses and Miriam. The sons of Aaron: Nadab, Abihu, Eleazar and Ithamar.
+
+**30** Eleazar fathered Phinehas, and Phinehas fathered Abishua.
+
+**31** Abishua fathered Bukki, and Bukki fathered Uzzi.
+
+**32** Uzzi fathered Zerahiah, and Zerahiah fathered Meraioth.
+
+**33** Meraioth fathered Amariah, and Amariah fathered Ahitub.
+
+**34** Ahitub fathered Zadok, and Zadok fathered Ahimaaz.
+
+**35** Ahimaaz fathered Azariah, and Azariah fathered Johanan.
+
+**36** Johanan fathered Azariah. It was he who served as priest in the house that Solomon built in Jerusalem.
+
+**37** Azariah fathered Amariah, and Amariah fathered Ahitub.
+
+**38** Ahitub fathered Zadok, and Zadok fathered Shallum.
+
+**39** Shallum fathered Hilkiah, and Hilkiah fathered Azariah.
+
+**40** Azariah fathered Seraiah, and Seraiah fathered Jehozadak.
+
+**41** Jehozadak went into exile[^5-18] when Yahweh[^5-19] sent Judah and Jerusalem into exile by the hand of Nebuchadnezzar.
+
+[^5-1]: Literally "profaned his father's couches". See Genesis 35:22; 49:4.
+[^5-2]: Literally "and not to be enrolled in the genealogy for the birthright".
+[^5-3]: Hebrew *nagid*, a leader or ruler designated by God.
+[^5-4]: The Hebrew does not say how Joel was related to Reuben.
+[^5-5]: Tiglath-pileser III, king of Assyria in the eighth century BC (2 Kings 15:29). Chronicles spells his name *Tilgath-pilneser*.
+[^5-6]: Literally "brothers"; also in verse 13.
+[^5-7]: A people of the desert east of the Jordan; also in verses 19–20.
+[^5-8]: Literally "the house of their fathers": an extended family descended from a common ancestor. Also in verses 15 and 24.
+[^5-9]: Literally "its daughters", the smaller settlements around a town.
+[^5-10]: Jetur and Naphish are named among the sons of Ishmael in 1:31.
+[^5-11]: Literally "and human *nephesh* a hundred thousand", that is, captives.
+[^5-12]: Literally "fathers".
+[^5-13]: An image often used in the Old Testament for unfaithfulness to God.
+[^5-14]: Literally "and the spirit of Tilgath-pilneser". The verb that follows is singular. Pul was another name of Tiglath-pileser III (2 Kings 15:19, 29).
+[^5-15]: 2 Kings 17:6 and 18:11 name Halah, Habor the river of Gozan, and the cities of the Medes.
+[^5-16]: Verses 27–41 are 6:1–15 in most English Bibles. Compare Exodus 6:16–25.
+[^5-17]: Literally "sons".
+[^5-18]: Literally "went".
+[^5-19]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.

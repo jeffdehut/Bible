@@ -850,7 +850,7 @@
 
 **2** This is the land that remains: all the regions of the Philistines, and all the land of the Geshurites,[^13-2]
 
-**3** from the Shihor,[^13-3] which is east of Egypt, northward to the border of Ekron, which is counted as Canaanite, the territory of the five rulers[^13-4] of the Philistines, those of Gaza, Ashdod, Ashkelon, Gath and Ekron; and the Avvim
+**3** from the Shihor,[^13-3] which is east of Egypt, northward to the border of Ekron, which is counted as Canaanite: the five rulers[^13-4] of the Philistines, those of Gaza, Ashdod, Ashkelon, Gath and Ekron; and the Avvim
 
 **4** in the south; all the land of the Canaanites, and Mearah,[^13-5] which belongs to the Sidonians, as far as Aphek, to the border of the Amorites;
 
@@ -1159,7 +1159,7 @@
 
 **5** This was the territory of the Ephraimites, clan by clan. The border of their inheritance on the east was Ataroth-addar, as far as Upper Beth-horon.
 
-**6** The border went out to the sea, with Michmethath on the north. On the east the border turned toward Taanath-shiloh and passed along beyond it, east of Janoah.
+**6** The border went out westward, with Michmethath on the north. The border turned eastward to Taanath-shiloh and passed by it on the east to Janoah.
 
 **7** From Janoah it went down to Ataroth and to Naarah, reached Jericho and went out at the Jordan.
 
