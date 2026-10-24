@@ -2027,3 +2027,76 @@
 [^24-22]: Literally "lacking heart". In Hebrew thought the heart is the seat of understanding.
 [^24-23]: Hebrew *musar*: discipline, training and correction (see 1:2).
 [^24-24]: Verses 33–34 repeat 6:10–11.
+
+## Chapter 25
+
+*Status: draft*
+
+**1** These also are proverbs of Solomon, which the men of Hezekiah king of Judah copied.[^25-1]
+
+**2** It is the glory of God to conceal a matter, and the glory of kings to search out a matter.
+
+**3** As the heavens are high and the earth is deep, so the heart of kings is unsearchable.
+
+**4** Remove the dross from silver, and a vessel comes out for the silversmith.
+
+**5** Remove the wicked[^25-2] from the king's presence, and his throne will be established in righteousness.
+
+**6** Do not put yourself forward before the king, and do not stand in the place of the great,
+
+**7** for it is better to be told, "Come up here," than to be put lower in the presence of a noble whom your eyes have seen.[^25-3]
+
+**8** Do not go out hastily to court, for what will you do in the end, when your neighbor puts you to shame?
+
+**9** Argue your case with your neighbor, but do not reveal another's secret,
+
+**10** or the one who hears it will disgrace you,[^25-4] and your bad name will never go away.
+
+**11** Like apples of gold in settings of silver is a word spoken at the right time.[^25-5]
+
+**12** Like a gold earring or an ornament of fine gold is a wise person who corrects a listening ear.
+
+**13** Like the coolness of snow at harvest time is a faithful messenger to those who send him; he refreshes the life of his masters.
+
+**14** Like clouds and wind without rain is a man who boasts of a gift he does not give.
+
+**15** With patience a ruler can be persuaded, and a gentle tongue can break a bone.
+
+**16** If you find honey, eat only what you need, or you will have too much and vomit it up.
+
+**17** Seldom set foot in your neighbor's house, or he will have too much of you and hate you.
+
+**18** Like a club, a sword or a sharp arrow is a man who gives false testimony against his neighbor.
+
+**19** Like a broken tooth or a lame foot is trust in a treacherous person in a time of trouble.
+
+**20** Like one who takes off a garment on a cold day, like vinegar on soda,[^25-6] is one who sings songs to a heavy heart.
+
+**21** If your enemy[^25-7] is hungry, give him bread to eat; if he is thirsty, give him water to drink,
+
+**22** for you will heap burning coals on his head, and Yahweh[^25-8] will reward you.[^25-9]
+
+**23** The north wind brings forth rain, and a secret tongue, angry faces.
+
+**24** Better to live in a corner of the roof than in a house shared with a quarrelsome wife.[^25-10]
+
+**25** Like cold water to a weary soul is good news from a distant land.
+
+**26** Like a muddied spring or a polluted fountain is a righteous person[^25-11] who gives way before the wicked.
+
+**27** It is not good to eat much honey, nor is it glorious to seek one's own glory.[^25-12]
+
+**28** Like a city broken into and left without walls is a person who has no control over his spirit.
+
+[^25-1]: A new collection begins here (chapters 25–29). Hezekiah reigned more than two centuries after Solomon (2 Kings 18–20).
+[^25-2]: Hebrew *rasha*: one who is guilty of wrong (see 2:22).
+[^25-3]: Or "What your eyes have seen, (8) do not bring hastily to court". Compare Luke 14:8–10.
+[^25-4]: Hebrew *yechassedkha*, from the verb related to *chesed*, "disgrace" (14:34).
+[^25-5]: Literally "on its wheels", probably "at the right time" or "in the right way".
+[^25-6]: Hebrew *neter*, natron or soda, which fizzes when vinegar is poured on it.
+[^25-7]: Literally "the one who hates you".
+[^25-8]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^25-9]: Romans 12:20 quotes verses 21–22.
+[^25-10]: The verse repeats 21:9.
+[^25-11]: Hebrew *tsaddiq*: one who does what is right (see 2:20).
+[^25-12]: The Hebrew of this line is difficult. Literally "and searching out their glory is glory". The translation carries over the "not" of the first line.
