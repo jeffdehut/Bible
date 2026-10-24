@@ -208,69 +208,69 @@
 
 *Status: draft*
 
-**1** I have come into my garden, my sister, my bride;[^5-man] I have gathered my myrrh with my spice, I have eaten my honeycomb[^5-comb] with my honey, I have drunk my wine with my milk. Eat, friends, drink, and be drunk with love![^5-lovers]
+**1** I have come into my garden, my sister, my bride;[^5-1] I have gathered my myrrh with my spice, I have eaten my honeycomb[^5-2] with my honey, I have drunk my wine with my milk. Eat, friends, drink, and be drunk with love![^5-3]
 
-**2** I was asleep, but my heart was awake.[^5-woman] Listen! My beloved is knocking.[^5-knock] "Open to me, my sister, my darling, my dove, my perfect one, for my head is wet with dew, my locks with the drops of the night."
+**2** I was asleep, but my heart was awake.[^5-4] Listen! My beloved is knocking.[^5-5] "Open to me, my sister, my darling, my dove, my perfect one, for my head is wet with dew, my locks with the drops of the night."
 
 **3** I have taken off my robe; how could I put it on again? I have washed my feet; how could I soil them?
 
-**4** My beloved put his hand in through the opening,[^5-hole] and my heart[^5-inner] trembled for him.
+**4** My beloved put his hand in through the opening,[^5-6] and my heart[^5-7] trembled for him.
 
 **5** I rose to open to my beloved, and my hands dripped with myrrh, my fingers with flowing myrrh, on the handles of the bolt.
 
-**6** I opened to my beloved, but my beloved had turned and gone. My soul went out when he spoke.[^5-soul] I sought him, but did not find him; I called him, but he did not answer me.
+**6** I opened to my beloved, but my beloved had turned and gone. My soul went out when he spoke.[^5-8] I sought him, but did not find him; I called him, but he did not answer me.
 
 **7** The watchmen found me as they went around the city. They struck me, they wounded me; they took my shawl from me, those watchmen of the walls.
 
 **8** I make you swear, daughters of Jerusalem: if you find my beloved, what will you tell him? That I am sick with love.
 
-**9** What is your beloved more than any other beloved, most beautiful of women? What is your beloved more than any other beloved, that you make us swear like this?[^5-daughters]
+**9** What is your beloved more than any other beloved, most beautiful of women? What is your beloved more than any other beloved, that you make us swear like this?[^5-9]
 
-**10** My beloved is radiant and ruddy,[^5-answer] outstanding among ten thousand.
+**10** My beloved is radiant and ruddy,[^5-10] outstanding among ten thousand.
 
-**11** His head is the finest gold; his locks are wavy,[^5-wavy] black as a raven.
+**11** His head is the finest gold; his locks are wavy,[^5-11] black as a raven.
 
-**12** His eyes are like doves beside streams of water, bathed in milk, sitting by brimming pools.[^5-pools]
+**12** His eyes are like doves beside streams of water, bathed in milk, sitting by brimming pools.[^5-12]
 
-**13** His cheeks are like beds of spices, towers of perfume.[^5-towers] His lips are lilies, dripping with flowing myrrh.
+**13** His cheeks are like beds of spices, towers of perfume.[^5-13] His lips are lilies, dripping with flowing myrrh.
 
-**14** His arms[^5-arms] are rods of gold set with jewels of Tarshish.[^5-tarshish] His body is polished ivory, covered with sapphires.[^5-sapphires]
+**14** His arms[^5-14] are rods of gold set with jewels of Tarshish.[^5-15] His body is polished ivory, covered with sapphires.[^5-16]
 
-**15** His legs are pillars of alabaster,[^5-alabaster] set on bases of fine gold. His appearance is like Lebanon, choice as the cedars.
+**15** His legs are pillars of alabaster,[^5-17] set on bases of fine gold. His appearance is like Lebanon, choice as the cedars.
 
-**16** His mouth[^5-palate] is sweetness itself, and he is altogether desirable. This is my beloved and this is my friend,[^5-friend] daughters of Jerusalem.
+**16** His mouth[^5-18] is sweetness itself, and he is altogether desirable. This is my beloved and this is my friend,[^5-19] daughters of Jerusalem.
 
-[^5-alabaster]: Or "marble". Hebrew *shesh*.
-[^5-answer]: The woman answers in verses 10–16.
-[^5-arms]: Literally "His hands".
-[^5-comb]: Hebrew *ya'ar*, usually "forest", here "honeycomb", as in 1 Samuel 14:27.
-[^5-daughters]: The daughters of Jerusalem speak ("your" is feminine, and "us").
-[^5-friend]: Hebrew *re'i*, the masculine form of *ra'yati*, "my darling" (1:9).
-[^5-hole]: Literally "the hole", perhaps the opening for the key or latch.
-[^5-inner]: Literally "my inner parts".
-[^5-knock]: Literally "The voice of my beloved knocking!"
-[^5-lovers]: Or "drink deeply, you lovers!" Hebrew *dodim* can mean "love" (1:2) or "lovers". Who speaks this line is not clear: the man, or another voice.
-[^5-man]: The man speaks ("my sister, my bride"); see 4:9.
-[^5-palate]: Literally "His palate".
-[^5-pools]: Literally "sitting on fullness": perhaps by full pools, or set like gems in their setting.
-[^5-sapphires]: Hebrew *sappirim*, probably lapis lazuli, a deep blue stone.
-[^5-soul]: Literally "My soul (*nephesh*) went out at his speaking". Or "My heart sank at his leaving".
-[^5-tarshish]: A precious stone, perhaps named after the faraway land of Tarshish: perhaps beryl or topaz.
-[^5-towers]: With different vowels, the Hebrew can be read "that produce perfume", as the Septuagint reads.
-[^5-wavy]: Hebrew *taltallim*, a word found only here, perhaps "wavy", "curly", or "like clusters of dates".
-[^5-woman]: The woman speaks in verses 2–8.
+[^5-1]: The man speaks ("my sister, my bride"); see 4:9.
+[^5-2]: Hebrew *ya'ar*, usually "forest", here "honeycomb", as in 1 Samuel 14:27.
+[^5-3]: Or "drink deeply, you lovers!" Hebrew *dodim* can mean "love" (1:2) or "lovers". Who speaks this line is not clear: the man, or another voice.
+[^5-4]: The woman speaks in verses 2–8.
+[^5-5]: Literally "The voice of my beloved knocking!"
+[^5-6]: Literally "the hole", perhaps the opening for the key or latch.
+[^5-7]: Literally "my inner parts".
+[^5-8]: Literally "My soul (*nephesh*) went out at his speaking". Or "My heart sank at his leaving".
+[^5-9]: The daughters of Jerusalem speak ("your" is feminine, and "us").
+[^5-10]: The woman answers in verses 10–16.
+[^5-11]: Hebrew *taltallim*, a word found only here, perhaps "wavy", "curly", or "like clusters of dates".
+[^5-12]: Literally "sitting on fullness": perhaps by full pools, or set like gems in their setting.
+[^5-13]: With different vowels, the Hebrew can be read "that produce perfume", as the Septuagint reads.
+[^5-14]: Literally "His hands".
+[^5-15]: A precious stone, perhaps named after the faraway land of Tarshish: perhaps beryl or topaz.
+[^5-16]: Hebrew *sappirim*, probably lapis lazuli, a deep blue stone.
+[^5-17]: Or "marble". Hebrew *shesh*.
+[^5-18]: Literally "His palate".
+[^5-19]: Hebrew *re'i*, the masculine form of *ra'yati*, "my darling" (1:9).
 
 ## Chapter 6
 
 *Status: draft*
 
-**1** Where has your beloved gone, most beautiful of women? Where has your beloved turned, that we may seek him with you?[^6-daughters]
+**1** Where has your beloved gone, most beautiful of women? Where has your beloved turned, that we may seek him with you?[^6-1]
 
-**2** My beloved has gone down to his garden, to the beds of spices, to graze in the gardens and to gather lilies.[^6-woman]
+**2** My beloved has gone down to his garden, to the beds of spices, to graze in the gardens and to gather lilies.[^6-2]
 
 **3** I am my beloved's and my beloved is mine; he grazes among the lilies.
 
-**4** You are beautiful, my darling, as Tirzah,[^6-tirzah] lovely as Jerusalem, awe-inspiring as armies with banners.[^6-banners]
+**4** You are beautiful, my darling, as Tirzah,[^6-3] lovely as Jerusalem, awe-inspiring as armies with banners.[^6-4]
 
 **5** Turn your eyes away from me, for they overwhelm me. Your hair is like a flock of goats streaming down from Gilead.
 
@@ -280,70 +280,119 @@
 
 **8** There are sixty queens and eighty concubines, and young women without number.
 
-**9** But my dove, my perfect one, is the only one, the only one of her mother, the favorite of the one who bore her. The young women saw her and called her blessed; the queens and concubines saw her and praised her:[^6-praise]
+**9** But my dove, my perfect one, is the only one, the only one of her mother, the favorite of the one who bore her. The young women saw her and called her blessed; the queens and concubines saw her and praised her:[^6-5]
 
-**10** Who is this who looks down like the dawn, beautiful as the moon, bright as the sun,[^6-moon] awe-inspiring as armies with banners?
+**10** Who is this who looks down like the dawn, beautiful as the moon, bright as the sun,[^6-6] awe-inspiring as armies with banners?
 
-**11** I went down to the walnut grove to look at the green shoots of the valley,[^6-valley] to see whether the vine had budded, whether the pomegranates were in bloom.[^6-who]
+**11** I went down to the walnut grove to look at the green shoots of the valley,[^6-7] to see whether the vine had budded, whether the pomegranates were in bloom.[^6-8]
 
-**12** Before I knew it, my desire set me among the chariots of my noble people.[^6-obscure]
+**12** Before I knew it, my desire set me among the chariots of my noble people.[^6-9]
 
-[^6-banners]: Hebrew *ka-nidgalot*, "like those with banners": perhaps armies, or the stars. Also in verse 10.
-[^6-daughters]: The daughters of Jerusalem speak ("your" is feminine).
-[^6-moon]: Hebrew *levanah*, "the white one", and *chammah*, "the hot one", poetic words for the moon and the sun.
-[^6-obscure]: The Hebrew is very obscure. Literally "I did not know, my soul set me chariots of my people, noble". Or "the chariots of Amminadib", taking the last words as a name.
-[^6-praise]: Literally "and they praised her". Verse 10 may give the words of their praise.
-[^6-tirzah]: An early capital of the northern kingdom of Israel (1 Kings 14:17; 16:23). The name means "pleasing". The man speaks in verses 4–10 ("you" is feminine).
-[^6-valley]: Hebrew *nachal*, a valley with a stream that flows in the rainy season.
-[^6-who]: Who speaks in verses 11–12 is not clear: perhaps the woman, perhaps the man.
-[^6-woman]: The woman speaks in verses 2–3.
+[^6-1]: The daughters of Jerusalem speak ("your" is feminine).
+[^6-2]: The woman speaks in verses 2–3.
+[^6-3]: An early capital of the northern kingdom of Israel (1 Kings 14:17; 16:23). The name means "pleasing". The man speaks in verses 4–10 ("you" is feminine).
+[^6-4]: Hebrew *ka-nidgalot*, "like those with banners": perhaps armies, or the stars. Also in verse 10.
+[^6-5]: Literally "and they praised her". Verse 10 may give the words of their praise.
+[^6-6]: Hebrew *levanah*, "the white one", and *chammah*, "the hot one", poetic words for the moon and the sun.
+[^6-7]: Hebrew *nachal*, a valley with a stream that flows in the rainy season.
+[^6-8]: Who speaks in verses 11–12 is not clear: perhaps the woman, perhaps the man.
+[^6-9]: The Hebrew is very obscure. Literally "I did not know, my soul set me chariots of my people, noble". Or "the chariots of Amminadib", taking the last words as a name.
 
 ## Chapter 7
 
 *Status: draft*
 
-**1** Turn back, turn back, O Shulammite![^7-shulammite] Turn back, turn back, that we may look at you! Why would you look at the Shulammite, as at the dance of the two camps?[^7-camps]
+**1** Turn back, turn back, O Shulammite![^7-1] Turn back, turn back, that we may look at you! Why would you look at the Shulammite, as at the dance of the two camps?[^7-2]
 
-**2** How beautiful are your feet in sandals, O noble daughter![^7-noble] The curves of your thighs are like jewels, the work of a craftsman's hands.
+**2** How beautiful are your feet in sandals, O noble daughter![^7-3] The curves of your thighs are like jewels, the work of a craftsman's hands.
 
-**3** Your navel is a rounded bowl; may it never lack mixed wine.[^7-wine] Your belly is a heap of wheat, encircled with lilies.
+**3** Your navel is a rounded bowl; may it never lack mixed wine.[^7-4] Your belly is a heap of wheat, encircled with lilies.
 
 **4** Your two breasts are like two fawns, twins of a gazelle.
 
-**5** Your neck is like a tower of ivory. Your eyes are pools in Heshbon,[^7-heshbon] by the gate of Bath-rabbim.[^7-bathrabbim] Your nose is like the tower of Lebanon, looking out toward Damascus.
+**5** Your neck is like a tower of ivory. Your eyes are pools in Heshbon,[^7-5] by the gate of Bath-rabbim.[^7-6] Your nose is like the tower of Lebanon, looking out toward Damascus.
 
-**6** Your head crowns you like Carmel,[^7-carmel] and the flowing hair of your head is like purple;[^7-purple] a king is held captive in its tresses.[^7-tresses]
+**6** Your head crowns you like Carmel,[^7-7] and the flowing hair of your head is like purple;[^7-8] a king is held captive in its tresses.[^7-9]
 
 **7** How beautiful you are, and how pleasant, O love, with its delights!
 
 **8** Your stature is like a palm tree, and your breasts are like its clusters.
 
-**9** I said, "I will climb the palm tree; I will take hold of its fruit." Oh, may your breasts be like clusters of the vine, and the fragrance of your breath[^7-nose] like apples,
+**9** I said, "I will climb the palm tree; I will take hold of its fruit." Oh, may your breasts be like clusters of the vine, and the fragrance of your breath[^7-10] like apples,
 
-**10** and your mouth[^7-palate] like the best wine, going down smoothly for my beloved,[^7-mybeloved] gliding over the lips of sleepers.[^7-sleepers]
+**10** and your mouth[^7-11] like the best wine, going down smoothly for my beloved,[^7-12] gliding over the lips of sleepers.[^7-13]
 
-**11** I am my beloved's, and his desire[^7-desire] is for me.
+**11** I am my beloved's, and his desire[^7-14] is for me.
 
-**12** Come, my beloved, let us go out into the fields; let us spend the night in the villages.[^7-villages]
+**12** Come, my beloved, let us go out into the fields; let us spend the night in the villages.[^7-15]
 
-**13** Let us go early to the vineyards; let us see whether the vine has budded, whether its blossoms have opened, whether the pomegranates are in bloom. There I will give you my love.[^7-dodim]
+**13** Let us go early to the vineyards; let us see whether the vine has budded, whether its blossoms have opened, whether the pomegranates are in bloom. There I will give you my love.[^7-16]
 
-**14** The mandrakes[^7-mandrakes] give out their fragrance, and at our doors are all kinds of choice fruits, new as well as old, which I have stored up for you, my beloved.
+**14** The mandrakes[^7-17] give out their fragrance, and at our doors are all kinds of choice fruits, new as well as old, which I have stored up for you, my beloved.
 
-[^7-bathrabbim]: The name means "daughter of many".
-[^7-camps]: Or "the dance of Mahanaim", a place whose name means "two camps" (Genesis 32:3, 32:2 in English Bibles).
-[^7-carmel]: The wooded mountain range on the coast. The same consonants can be read *karmil*, "crimson" (2 Chronicles 2:6).
-[^7-desire]: Hebrew *teshuqah*, found elsewhere only in Genesis 3:16 and 4:7.
-[^7-dodim]: Hebrew *dodim*; see 1:2.
-[^7-heshbon]: A city east of the Jordan, known for its pools.
-[^7-mandrakes]: Hebrew *duda'im*, a plant believed to stir love and help conception (Genesis 30:14–16). The word sounds like *dodim*, "love", and *dodi*, "my beloved".
-[^7-mybeloved]: "My beloved" is the woman's name for the man (1:13). Here she seems to take up the man's words and finish them.
-[^7-noble]: Literally "daughter of a noble". The man probably speaks in verses 2–10 ("you" is feminine).
-[^7-nose]: Literally "your nose".
-[^7-palate]: Literally "your palate".
-[^7-purple]: The costly dark red-purple dye worn by kings.
-[^7-shulammite]: Verse 1 is 6:13 in most English Bibles, and verses 2–14 are 7:1–13. *Shulammite* may mean "woman of Shulem", perhaps Shunem (1 Kings 1:3), or it may be a feminine form of the name Solomon (*Shelomoh*). Others ("we") speak in the first half of the verse; who answers in the second half is not clear.
-[^7-sleepers]: The Septuagint reads "over my lips and teeth".
-[^7-tresses]: Hebrew *rehatim*, elsewhere "watering troughs" (Genesis 30:38), here the flowing locks of her hair.
-[^7-villages]: Or "among the henna bushes". Hebrew *kefarim* can mean either (compare 1:14).
-[^7-wine]: Wine mixed with spices or water.
+[^7-1]: Verse 1 is 6:13 in most English Bibles, and verses 2–14 are 7:1–13. *Shulammite* may mean "woman of Shulem", perhaps Shunem (1 Kings 1:3), or it may be a feminine form of the name Solomon (*Shelomoh*). Others ("we") speak in the first half of the verse; who answers in the second half is not clear.
+[^7-2]: Or "the dance of Mahanaim", a place whose name means "two camps" (Genesis 32:3, 32:2 in English Bibles).
+[^7-3]: Literally "daughter of a noble". The man probably speaks in verses 2–10 ("you" is feminine).
+[^7-4]: Wine mixed with spices or water.
+[^7-5]: A city east of the Jordan, known for its pools.
+[^7-6]: The name means "daughter of many".
+[^7-7]: The wooded mountain range on the coast.
+[^7-8]: The costly dark red-purple dye worn by kings.
+[^7-9]: Hebrew *rehatim*, elsewhere "watering troughs" (Genesis 30:38), here the flowing locks of her hair.
+[^7-10]: Literally "your nose".
+[^7-11]: Literally "your palate".
+[^7-12]: "My beloved" is the woman's name for the man (1:13). Here she seems to take up the man's words and finish them.
+[^7-13]: The Septuagint reads "over my lips and teeth".
+[^7-14]: Hebrew *teshuqah*, found elsewhere only in Genesis 3:16 and 4:7.
+[^7-15]: Or "among the henna bushes". Hebrew *kefarim* can mean either (compare 1:14).
+[^7-16]: Hebrew *dodim*; see 1:2.
+[^7-17]: Hebrew *duda'im*, a plant believed to stir love and help conception (Genesis 30:14–16). The word sounds like *dodim*, "love", and *dodi*, "my beloved".
+
+## Chapter 8
+
+*Status: draft*
+
+**1** Oh, that you were like a brother to me,[^8-1] who nursed at my mother's breasts! If I found you outside, I would kiss you, and no one would despise me.
+
+**2** I would lead you, I would bring you into my mother's house; you would teach me.[^8-2] I would give you spiced wine to drink, the juice of my pomegranates.
+
+**3** His left hand is under my head, and his right hand embraces me.
+
+**4** I make you swear, daughters of Jerusalem: do not stir up or awaken love until it is ready.[^8-3]
+
+**5** Who is this coming up from the wilderness, leaning on her beloved?[^8-4] Under the apple tree I awakened you;[^8-5] there your mother was in labor with you; there she who bore you was in labor.
+
+**6** Set me as a seal on your heart, as a seal on your arm, for love is as strong as death, its passion[^8-6] as unyielding as Sheol.[^8-7] Its flashes are flashes of fire, a flame of Yah.[^8-8]
+
+**7** Many waters cannot quench love, and rivers cannot sweep it away. If a man gave all the wealth of his house for love, he would be utterly despised.[^8-9]
+
+**8** We have a little sister, and she has no breasts.[^8-10] What shall we do for our sister on the day she is spoken for?
+
+**9** If she is a wall, we will build on her a battlement of silver; but if she is a door, we will enclose her with boards of cedar.
+
+**10** I am a wall, and my breasts are like towers; so I have become in his eyes like one who finds peace.[^8-11]
+
+**11** Solomon had a vineyard at Baal-hamon;[^8-12] he gave the vineyard to keepers. Each was to bring for its fruit a thousand pieces of silver.[^8-13]
+
+**12** My vineyard, my very own, is before me.[^8-14] The thousand are yours, Solomon, and two hundred for those who keep its fruit.
+
+**13** You who sit in the gardens, companions are listening for your voice; let me hear it.[^8-15]
+
+**14** Flee, my beloved, and be like a gazelle or a young stag on the mountains of spices.[^8-16]
+
+[^8-1]: The woman speaks in verses 1–4 ("you" is masculine). Literally "Who would make you like a brother to me".
+[^8-2]: Or "she would teach me", that is, my mother. The Septuagint reads "and into the room of the one who conceived me", as in 3:4.
+[^8-3]: Literally "why would you stir up and why would you awaken love until it pleases?" Here the refrain has no oath by the gazelles and does (compare 2:7; 3:5).
+[^8-4]: Others speak, perhaps the daughters of Jerusalem (compare 3:6). In the rest of verse 5 and in verses 6–7 the woman speaks ("you" is masculine).
+[^8-5]: Or "I aroused you".
+[^8-6]: Or "jealousy". Hebrew *qin'ah*, "ardor, zeal, jealousy".
+[^8-7]: Hebrew *Sheol*, the realm of the dead.
+[^8-8]: Hebrew *shalhevetyah*, written as one word in the Leningrad Codex. The ending *-yah* may be *Yah*, the short form of the name Yahweh (as in *hallelu-yah*, "praise Yah"; Exodus 15:2), giving "a flame of Yah", "the very flame of Yahweh". Or it may express a superlative, "a mighty flame", "the hottest flame", as words for God sometimes do in Hebrew (compare "mountains of God", that is, mighty mountains, in Psalm 36:7, 36:6 in English Bibles). Some Hebrew manuscripts write it as two words, *shalhevet yah*, "a flame of Yah". If the divine name is here, it is the only place it appears in the Song.
+[^8-9]: Or "it would be utterly scorned".
+[^8-10]: Perhaps her brothers speak in verses 8–9 (compare 1:6).
+[^8-11]: Hebrew *shalom*, "peace", perhaps a play on *Shelomoh*, "Solomon" (verses 11–12), and on "Shulammite" (7:1). The woman speaks.
+[^8-12]: The place is not known. The name means "owner of a crowd" or "owner of wealth".
+[^8-13]: Literally "a thousand of silver", probably shekels: about 25 pounds (11.5 kg) of silver.
+[^8-14]: Compare 1:6. The speaker is probably the woman, perhaps the man.
+[^8-15]: The man speaks ("you" is feminine).
+[^8-16]: The woman speaks. Compare 2:17.

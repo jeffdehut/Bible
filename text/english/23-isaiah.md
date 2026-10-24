@@ -1024,3 +1024,75 @@
 [^16-12]: Literally "and he will not be able".
 [^16-13]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
 [^16-14]: Literally "like the years of a hired worker", who will not work a day beyond what he is paid for: exactly three years.
+
+## Chapter 17
+
+*Status: draft*
+
+**1** An oracle[^17-1] concerning Damascus: Look, Damascus will cease to be a city; it will become a heap of ruins.
+
+**2** The cities of Aroer[^17-2] are abandoned; they will be for flocks, which will lie down with no one to frighten them.
+
+**3** The fortress will disappear from Ephraim, and the kingdom from Damascus. The remnant of Aram will be like the glory of the Israelites, declares Yahweh of Armies.[^17-3]
+
+**4** On that day the glory of Jacob will fade, and the fat of his body will waste away.
+
+**5** It will be as when a reaper gathers the standing grain and his arm harvests the ears, as when someone gleans ears of grain in the Valley of Rephaim.[^17-4]
+
+**6** Gleanings will be left in it, as when an olive tree is beaten: two or three olives at the very top, four or five on its fruitful branches, declares Yahweh, the God of Israel.
+
+**7** On that day people will look to their Maker, and their eyes will turn to the Holy One of Israel.
+
+**8** They will not look to the altars, the work of their hands, or regard what their fingers have made, the Asherah poles[^17-5] and the incense altars.[^17-6]
+
+**9** On that day their strong cities will be like the abandoned places of the woods and the hilltops,[^17-7] which they abandoned before the Israelites, and there will be desolation.
+
+**10** For you have forgotten the God of your salvation and have not remembered the Rock of your refuge. Therefore, though you plant pleasant plants[^17-8] and set out cuttings for a foreign god,[^17-9]
+
+**11** though on the day you plant them you make them grow, and in the morning you make your seed blossom, the harvest will vanish[^17-10] on the day of sickness and incurable pain.
+
+**12** Woe to[^17-11] the many peoples who roar, who roar like the roaring of the seas, and the nations who rage, who rage like the raging of mighty waters!
+
+**13** The nations rage like the raging of many waters, but he rebukes them, and they flee far away, chased like chaff on the mountains before the wind, like whirling dust before a storm.
+
+**14** At evening, look, sudden terror! Before morning, they are gone. This is the portion of those who loot us, the lot of those who plunder us.
+
+[^17-1]: Hebrew *massa*. See 13:1. The oracle concerns both Damascus, capital of Aram, and its ally Ephraim, the northern kingdom of Israel (7:1–9).
+[^17-2]: Aroer is known as a town on the Arnon in Moab (Deuteronomy 2:36). The name here may stand for towns near Damascus. The Septuagint reads "abandoned forever".
+[^17-3]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles. *Yahweh of Armies* (Hebrew *YHWH tseva'ot*) is traditionally "the LORD of hosts" or "the LORD Almighty". *Tseva'ot* means armies: the heavenly hosts and the armies of Israel.
+[^17-4]: A fertile valley southwest of Jerusalem (2 Samuel 5:18).
+[^17-5]: Hebrew *asherim*: wooden poles or trees that were symbols of the goddess Asherah.
+[^17-6]: Hebrew *chammanim*, probably small altars for burning incense.
+[^17-7]: The Septuagint reads "like the abandoned places of the Amorites and the Hivites", peoples who lived in Canaan before Israel.
+[^17-8]: Hebrew *na'amanim*, "pleasant things". The word may refer to gardens planted in honor of a dying and rising god of fertility, whose title *na'aman*, "the pleasant one", was used of the god Adonis.
+[^17-9]: Literally "a stranger".
+[^17-10]: Or "the harvest will be a heap". The meaning of the Hebrew word *ned* here is uncertain.
+[^17-11]: Hebrew *hoy*, a cry of mourning, used by the prophets to announce disaster (see 1:4).
+
+## Chapter 18
+
+*Status: draft*
+
+**1** Woe to[^18-1] the land of whirring wings,[^18-2] beyond the rivers of Cush,[^18-3]
+
+**2** which sends envoys by sea, in papyrus boats over the waters! Go, swift messengers, to a nation tall and smooth-skinned,[^18-4] to a people feared far and wide,[^18-5] a nation strong and conquering,[^18-6] whose land the rivers divide.
+
+**3** All you inhabitants of the world, you who live on the earth, when a signal flag is raised on the mountains, you will see it; when a ram's horn is blown, you will hear it.
+
+**4** For this is what Yahweh[^18-7] has said to me: I will be still and look on from my dwelling place, like the shimmering heat in the sunshine, like a cloud of dew in the heat of harvest.
+
+**5** For before the harvest, when the blossom is over and the flower becomes a ripening grape, he will cut off the shoots with pruning knives and lop off and clear away the spreading branches.
+
+**6** They will all be left to the birds of prey on the mountains and to the wild animals of the earth. The birds of prey will spend the summer on them, and all the wild animals of the earth the winter.
+
+**7** At that time gifts will be brought to Yahweh of Armies[^18-8] from a people tall and smooth-skinned,[^18-9] from a people feared far and wide, a nation strong and conquering, whose land the rivers divide, to the place of the name of Yahweh of Armies, Mount Zion.
+
+[^18-1]: Hebrew *hoy*, a cry of mourning, used by the prophets to announce disaster (see 1:4).
+[^18-2]: Hebrew *tsiltsal kenafayim*, perhaps the buzzing of insects, or the sails of ships.
+[^18-3]: The region south of Egypt (ancient Nubia). In Isaiah's time its kings also ruled Egypt and sought allies against Assyria.
+[^18-4]: Literally "drawn out and polished". Also in verse 7.
+[^18-5]: Literally "from it and beyond".
+[^18-6]: Hebrew *qav-qav u-mevusah*, literally perhaps "line-line and trampling". The meaning is uncertain; perhaps "of strange speech".
+[^18-7]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^18-8]: *Yahweh of Armies* (Hebrew *YHWH tseva'ot*) is traditionally "the LORD of hosts" or "the LORD Almighty". *Tseva'ot* means armies: the heavenly hosts and the armies of Israel.
+[^18-9]: Literally "a people tall and smooth-skinned, and from a people feared far and wide".

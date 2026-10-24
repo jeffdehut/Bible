@@ -1258,3 +1258,96 @@
 [^15-20]: Literally "makes the bones fat".
 [^15-21]: Literally "gains heart".
 [^15-22]: Or "is training in wisdom".
+
+## Chapter 16
+
+*Status: draft*
+
+**1** The plans of the heart belong to people, but the answer of the tongue comes from Yahweh.[^16-1]
+
+**2** All a person's ways seem pure in his own eyes, but Yahweh weighs the spirits.[^16-2]
+
+**3** Commit your works to Yahweh,[^16-3] and your plans will be established.
+
+**4** Yahweh has made everything for its purpose,[^16-4] even the wicked[^16-5] for the day of disaster.
+
+**5** Everyone who is proud in heart is detestable to Yahweh; you can be sure[^16-6] he will not go unpunished.
+
+**6** By faithful love and truth[^16-7] iniquity is atoned for,[^16-8] and by the fear of Yahweh one turns away from evil.
+
+**7** When a person's ways please Yahweh, he makes even his enemies be at peace with him.
+
+**8** Better a little with righteousness than great income with injustice.
+
+**9** A person's heart plans his way, but Yahweh directs his steps.
+
+**10** Inspired decisions[^16-9] are on the lips of a king; his mouth does not betray justice.
+
+**11** Honest balances and scales belong to Yahweh; all the weights in the bag are his work.
+
+**12** Doing wickedness is detestable to kings,[^16-10] for a throne is established by righteousness.
+
+**13** Righteous lips are the delight of kings, and they love one who speaks what is right.
+
+**14** A king's wrath is a messenger of death, but a wise person will appease it.
+
+**15** In the light of a king's face is life, and his favor is like a cloud that brings the spring rain.[^16-11]
+
+**16** How much better to get wisdom than gold! To get understanding[^16-12] is better than silver.
+
+**17** The highway of the upright turns away from evil; whoever watches his way preserves his life.
+
+**18** Pride comes before destruction, and a haughty spirit before a fall.
+
+**19** Better to be lowly in spirit with the humble[^16-13] than to divide plunder with the proud.
+
+**20** Whoever pays attention to the word[^16-14] will find good, and happy[^16-15] is the one who trusts in Yahweh.
+
+**21** The wise in heart are called discerning, and sweet speech increases learning.[^16-16]
+
+**22** Good sense[^16-17] is a fountain of life to those who have it, but folly is the discipline of fools.[^16-18]
+
+**23** The heart of the wise makes his mouth wise and adds learning to his lips.
+
+**24** Pleasant words are a honeycomb, sweet to the soul and healing to the bones.
+
+**25** There is a way that seems right to a person, but in the end it leads to death.[^16-19]
+
+**26** A worker's appetite works for him, for his hunger[^16-20] drives him on.
+
+**27** A worthless man[^16-21] digs up evil, and on his lips it is like a scorching fire.
+
+**28** A perverse person spreads strife, and a gossip[^16-22] separates close friends.
+
+**29** A violent man entices his neighbor and leads him in a way that is not good.
+
+**30** Whoever winks his eyes is plotting perversity; whoever purses his lips has brought evil about.
+
+**31** Gray hair is a glorious crown; it is found in the way of righteousness.
+
+**32** Better to be slow to anger than a mighty warrior, and to rule one's spirit than to capture a city.
+
+**33** The lot is cast into the lap, but its every decision is from Yahweh.
+
+[^16-1]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^16-2]: Or "the motives". Hebrew *ruchot*, plural of *ruach*.
+[^16-3]: Literally "Roll your works onto Yahweh".
+[^16-4]: Or "for himself".
+[^16-5]: Hebrew *rasha*: one who is guilty of wrong (see 2:22).
+[^16-6]: Literally "hand to hand", as in 11:21.
+[^16-7]: Hebrew *chesed ve-emet*: faithful love and reliability (see 3:3).
+[^16-8]: Literally "is covered". Hebrew *kipper*, the verb used for making atonement in the sacrifices (Leviticus 16:30).
+[^16-9]: Hebrew *qesem*, "divination", elsewhere forbidden (Deuteronomy 18:10); here a decision given as if with divine authority.
+[^16-10]: Or "It is detestable for kings to do wickedness".
+[^16-11]: Hebrew *malqosh*, the late rain of spring that ripened the crops.
+[^16-12]: Hebrew *binah*, as in 1:2.
+[^16-13]: The Hebrew text is written "with the poor" but read "with the humble".
+[^16-14]: Or "Whoever handles a matter wisely". Hebrew *maskil*, as in 10:5.
+[^16-15]: Hebrew *ashrei*: happy, fortunate; traditionally "blessed".
+[^16-16]: Hebrew *leqach*, "learning", as in 1:5, or "persuasiveness" (7:21). Also in verse 23. Literally "sweetness of lips".
+[^16-17]: Hebrew *sekhel*, "good sense, insight".
+[^16-18]: Or "but fools are disciplined by their own folly". Literally "and the discipline (*musar*) of fools (*ewilim*) is folly (*iwwelet*)". On *ewil*, see 1:7.
+[^16-19]: The verse repeats 14:12.
+[^16-20]: Literally "his mouth".
+[^16-21]: Hebrew *ish beliyya'al*, "a man of worthlessness" (see 6:12).
+[^16-22]: Hebrew *nirgan*, "whisperer". In the Hebrew text one letter of this word is written small, a scribal mark.
