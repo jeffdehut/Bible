@@ -160,7 +160,7 @@
 [^2-3]: Literally "at the head of the mountains".
 [^2-4]: Or "will flow to it", like a river.
 [^2-5]: Hebrew *torah*, "instruction, teaching, law".
-[^2-6]: Hebrew *ittim*, probably iron plow points or hoes. Joel 4:10 (English 3:10) turns the image around: "Beat your plowshares into swords."
+[^2-6]: Hebrew *ittim*, probably iron plow points or hoes. Joel 4:10 (3:10 in most English Bibles) turns the image around: "Beat your plowshares into swords."
 [^2-7]: Literally "they are full from the east", perhaps of practices of divination from the east. The Hebrew is difficult.
 [^2-8]: Perhaps "they make deals with foreigners". The meaning of the verb is uncertain.
 [^2-9]: Hebrew *elilim*, "worthless things, nothings", a word that sounds like *elohim*, "gods". Isaiah uses it often for idols.
@@ -357,7 +357,7 @@
 [^5-16]: *Her*: Jerusalem's.
 [^5-17]: Literally "the fat ones". The Septuagint reads "lambs" instead of "strangers". The meaning of the verse is uncertain.
 [^5-18]: Hebrew *torah*, "instruction, teaching, law".
-[^5-19]: This refrain returns in 9:11, 16 and 20 (English 9:12, 17 and 21) and in 10:4.
+[^5-19]: This refrain returns in 9:11, 16 and 20 (9:12, 17 and 21 in most English Bibles) and in 10:4.
 [^5-20]: Literally "for it". The invader is singular in the Hebrew of verses 26–30, a single nation pictured as one army.
 
 ## Chapter 6
@@ -557,7 +557,7 @@
 [^8-23]: Literally "through it".
 [^8-24]: Or "their gods".
 [^8-25]: Verse 23 is 9:1 in most English Bibles, and 9:1–20 are 9:2–21. The first line of this verse is difficult; literally "For there is no gloom to her who is in distress".
-[^8-26]: Or "the district of the nations". Hebrew *galil* means "circle, region". These northern lands were the first to be taken by Assyria (2 Kings 15:29). Matthew 4:15–16 quotes this verse and 9:1 (English 9:1–2).
+[^8-26]: Or "the district of the nations". Hebrew *galil* means "circle, region". These northern lands were the first to be taken by Assyria (2 Kings 15:29). Matthew 4:15–16 quotes this verse and 9:1 (9:1–2 in most English Bibles).
 
 ## Chapter 9
 
@@ -603,7 +603,7 @@
 
 **20** Manasseh devours Ephraim, and Ephraim Manasseh; together they turn against Judah. Yet for all this his anger has not turned away; his hand is still stretched out.
 
-[^9-1]: Verses 1–20 are 9:2–21 in most English Bibles. *Deep darkness* is Hebrew *tsalmavet*, traditionally "the shadow of death" (Psalm 23:4). Matthew 4:15–16 quotes this verse with 8:23 (English 9:1–2).
+[^9-1]: Verses 1–20 are 9:2–21 in most English Bibles. *Deep darkness* is Hebrew *tsalmavet*, traditionally "the shadow of death" (Psalm 23:4). Matthew 4:15–16 quotes this verse with 8:23 (9:1–2 in most English Bibles).
 [^9-2]: The Hebrew text is written "you have not increased the joy" but read "you have increased its joy". The two words sound the same (*lo*).
 [^9-3]: When Gideon defeated Midian with a small band (Judges 7; Isaiah 10:26).
 [^9-4]: Hebrew *se'on*, a word found only here, probably the boot of a soldier. Literally "every boot of one who tramps with noise".
@@ -695,7 +695,7 @@
 [^10-2]: Literally "who decree decrees of wickedness".
 [^10-3]: Literally "the day of visitation", when God comes to call to account.
 [^10-4]: Literally "your glory".
-[^10-5]: The refrain of 5:25 and 9:11, 16 and 20 (English 9:12, 17 and 21).
+[^10-5]: The refrain of 5:25 and 9:11, 16 and 20 (9:12, 17 and 21 in most English Bibles).
 [^10-6]: Literally "the people of my fury".
 [^10-7]: Cities of Syria and northern Mesopotamia that Assyria conquered in the eighth century BC. Samaria fell in 722 BC.
 [^10-8]: Hebrew *elil*, "worthless thing" (see 2:8). Also in verse 11.
@@ -707,7 +707,7 @@
 [^10-14]: Literally "from *nephesh* to flesh", that is, completely.
 [^10-15]: Hebrew *kimsos noses*, words found only here. Perhaps "as a standard-bearer faints".
 [^10-16]: Hebrew *she'ar yashuv*, the name of Isaiah's son Shear-jashub (7:3). *Return* can also mean "turn back" to God.
-[^10-17]: Hebrew *el gibbor*, the title given to the child in 9:5 (English 9:6).
+[^10-17]: Hebrew *el gibbor*, the title given to the child in 9:5 (9:6 in most English Bibles).
 [^10-18]: Romans 9:27–28 quotes verses 22–23 from the Septuagint.
 [^10-19]: Or "of all the land".
 [^10-20]: Literally "in the way of Egypt", as Egypt oppressed Israel before the exodus.
@@ -934,7 +934,7 @@
 [^14-6]: Hebrew *repha'im*, the spirits of the dead (26:14, 19).
 [^14-7]: Literally "he-goats", the leaders of the flock.
 [^14-8]: Hebrew *helel ben shachar*, "shining one, son of the dawn", probably the morning star, the planet Venus, which rises brightly before dawn and then fades in the light of the sun. The poem may draw on an old story of a heavenly being who tried to rise above the gods and was thrown down. The Septuagint translated *helel* as "the morning star", and the Latin Vulgate as *lucifer*, "light-bearer", its word for the morning star; from this came the traditional rendering "Lucifer" (as in the King James Version). Some early Christian writers applied the verse to the fall of Satan (compare Luke 10:18), and "Lucifer" became a name for him. In the poem the words are a taunt against the king of Babylon (verse 4).
-[^14-9]: Hebrew *yarkete tsafon*, "the far reaches of Zaphon". In Canaanite stories the gods met on Mount Zaphon in the north. Psalm 48:3 (English 48:2) uses the same words of Mount Zion.
+[^14-9]: Hebrew *yarkete tsafon*, "the far reaches of Zaphon". In Canaanite stories the gods met on Mount Zaphon in the north. Psalm 48:3 (48:2 in most English Bibles) uses the same words of Mount Zion.
 [^14-10]: Hebrew *Elyon*, a title of God.
 [^14-11]: Literally "in his house".
 [^14-12]: Hebrew *netser*, the word for the "branch" from the roots of Jesse in 11:1.

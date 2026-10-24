@@ -76,6 +76,8 @@ Decisions marked **proposed** are used in the pilot and are open for review.
 | יהוה צְבָאוֹת | Yahweh of Armies (proposed) | Traditionally "the LORD of hosts" or "the LORD Almighty". *Tseva'ot* means armies: the heavenly hosts and the armies of Israel. Noted at its first occurrence in each chapter. |
 | אֲדֹנָי (Adonai), of God | the Lord | אֲדֹנָי יְהוִה is "the Lord Yahweh". |
 | אֵל שַׁדַּי, שַׁדַּי | God Almighty, the Almighty | Hebrew *(El) Shaddai*; the meaning is uncertain. Noted at its first occurrence in each chapter. |
+| הַלְלוּ־יָהּ (hallelu-yah) | Praise Yah! | Noted at its first occurrence in each psalm: "Hebrew *hallelu-yah*, 'praise Yah', the source of the word 'Hallelujah'". *Yah* is a short form of the divine name. |
+| יְהוָה מָלָךְ (Psalms 93, 96–99) | Yahweh reigns! | "Or 'Yahweh has become king!'", noted at 93:1. |
 | שְׁאוֹל (Sheol) | Sheol | The realm of the dead. Noted at its first occurrence in each chapter. |
 | מִשְׁכָּן, אֹהֶל מוֹעֵד | tabernacle, tent of meeting | The renderings of the tabernacle, its furnishings, the priestly garments and the offerings are set in Exodus 25–40 and Leviticus 1–7; later books reuse them (for example *kapporet* "atonement cover", *choshen* "breastpiece", *shelamim* "fellowship offering", *chatta't* "sin offering" with a note "Or 'purification offering'"). |
 | פָּרֹכֶת (parokhet) | veil | The hanging that screens the most holy place. Not "curtain", which is יְרִיעָה; מָסָךְ is "screen". |
@@ -160,6 +162,9 @@ from the Hebrew.
   unknown is transliterated with the Hebrew in a note ("According to Alamoth"). Genre words
   stay lowercase: maskil, miktam, shiggaion. *Selah* stays where the Hebrew has it, even
   mid-sentence.
+- Where the Septuagint gives a title to a psalm that has none in the Hebrew, a short note may
+  give it; it is not required.
+- English verse numbers in notes are written "(89:52 in most English Bibles)".
 - Psalm titles are part of verse 1 (or verses 1–2) in the Hebrew. Where that makes this
   psalm's numbering differ from English Bibles, verse 1 has a note saying so. Elsewhere, the
   first verse whose number differs from English Bibles gets a note ("Verses 1–5 are 4:21–25

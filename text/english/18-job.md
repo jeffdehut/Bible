@@ -178,7 +178,7 @@
 [^3-5]: Literally "redeem it", that is, take it back as their own. Hebrew *ga'al*. Some take the verb as a different *ga'al*, "defile it".
 [^3-6]: Hebrew *kimrire yom*, a phrase of uncertain meaning: perhaps "the darkenings of the day", such as an eclipse, or "the bitterness of the day".
 [^3-7]: The Hebrew vowel points read "let it not rejoice". The same consonants can be read "let it not be joined", which fits the parallel line.
-[^3-8]: A sea monster, a figure of chaos in the poetry of the ancient Near East (40:25 (English 41:1); Psalm 74:14; Isaiah 27:1). Those who "curse days" may be sorcerers thought able to bring disaster. Some interpreters read *yam*, "the Sea", for *yom*, "day", in the first line, as a parallel to Leviathan.
+[^3-8]: A sea monster, a figure of chaos in the poetry of the ancient Near East (40:25 (41:1 in most English Bibles); Psalm 74:14; Isaiah 27:1). Those who "curse days" may be sorcerers thought able to bring disaster. Some interpreters read *yam*, "the Sea", for *yom*, "day", in the first line, as a parallel to Leviathan.
 [^3-9]: Hebrew *neshef*, "twilight", here the twilight before dawn.
 [^3-10]: The first rays of the sun, pictured as the opening eyelids of the dawn.
 [^3-11]: Literally "the doors of my belly".
@@ -306,7 +306,7 @@
 
 **27** Look, we have searched this out; it is true. Hear it, and know it for yourself."
 
-[^5-1]: Heavenly beings (compare 15:15; Psalm 89:6–8 (English 89:5–7)).
+[^5-1]: Heavenly beings (compare 15:15; Psalm 89:6–8 (89:5–7 in most English Bibles)).
 [^5-2]: Or "I declared his home cursed". The Hebrew word for "home" can also mean "pasture".
 [^5-3]: The city gate, where legal cases were heard.
 [^5-4]: The Hebrew of this verse is uncertain. The middle line is literally "and to (or from) thorns he takes it". *The thirsty* reads Hebrew *tsammim* as a short spelling of *tsme'im*. Elsewhere *tsammim* means "snare" (18:9): "and a snare gapes for their wealth".
@@ -464,7 +464,7 @@
 [^7-7]: Hebrew *yam*, "sea", and *tannin*, "sea monster": powers of chaos that God holds in check (Psalm 74:13; Isaiah 51:9).
 [^7-8]: Literally "rather than my bones". Or "rather than my pains".
 [^7-9]: Literally "I refuse" or "I reject", with no object stated: perhaps "I loathe my life".
-[^7-10]: Literally "set your heart on him". Compare Psalm 8:5 (English 8:4), which asks this question in praise.
+[^7-10]: Literally "set your heart on him". Compare Psalm 8:5 (8:4 in most English Bibles), which asks this question in praise.
 [^7-11]: An ancient Jewish scribal tradition counts this among places where the scribes changed the text out of reverence for God, from "a burden to you". The Greek Septuagint reads "a burden to you".
 
 ## Chapter 8
@@ -606,7 +606,7 @@
 [^9-5]: Perhaps the constellations of the southern sky.
 [^9-6]: Job repeats Eliphaz's words in 5:9.
 [^9-7]: Hebrew *Eloah*, a poetic form of *Elohim*, "God", used often in Job.
-[^9-8]: A sea monster, a figure of chaos (26:12; Psalm 89:11 (English 89:10); Isaiah 51:9). This is a different Hebrew word from the name of Rahab in Joshua 2.
+[^9-8]: A sea monster, a figure of chaos (26:12; Psalm 89:11 (89:10 in most English Bibles); Isaiah 51:9). This is a different Hebrew word from the name of Rahab in Joshua 2.
 [^9-9]: Or "my opponent at law". Hebrew *meshofti*.
 [^9-10]: Or "for a trifle", literally "for a hair". The Hebrew word can be read either way.
 [^9-11]: Hebrew *chinnam*, the word in 1:9 and 2:3.
@@ -1707,7 +1707,7 @@
 [^26-2]: Hebrew *tushiyyah*, "sound wisdom", as in 5:12.
 [^26-3]: Literally "Whom have you told words?": either "To whom" or "With whose help".
 [^26-4]: Or "Whose spirit". Hebrew *neshamah*.
-[^26-5]: Hebrew *repha'im*, the dead in the world below (Psalm 88:11 (English 88:10); Isaiah 14:9). Some interpreters think verses 5–14 belong to Bildad's speech in chapter 25 (see the note at 25:1).
+[^26-5]: Hebrew *repha'im*, the dead in the world below (Psalm 88:11 (88:10 in most English Bibles); Isaiah 14:9). Some interpreters think verses 5–14 belong to Bildad's speech in chapter 25 (see the note at 25:1).
 [^26-6]: Hebrew *Sheol*, the realm of the dead.
 [^26-7]: Hebrew *Abaddon*, "Destruction", a name for the realm of the dead (28:22; 31:12; Proverbs 15:11).
 [^26-8]: Hebrew *tohu*, "emptiness, formlessness", the word in Genesis 1:2. *The north* (Hebrew *tsafon*) may be the northern sky, or the mountain of the gods in the far north (compare Isaiah 14:13).
@@ -1860,7 +1860,7 @@
 [^28-6]: Perhaps the fire used to crack rock in mining.
 [^28-7]: Hebrew *sappir*, probably lapis lazuli, a deep blue stone flecked with gold. Also in verse 16.
 [^28-8]: Or "and it (the sapphire) has flecks of gold".
-[^28-9]: Literally "the sons of pride", probably the great wild animals (compare 41:26 (English 41:34)).
+[^28-9]: Literally "the sons of pride", probably the great wild animals (compare 41:26 (41:34 in most English Bibles)).
 [^28-10]: Hebrew *ye'orim*, a word used of the channels of the Nile; here tunnels or water channels in a mine.
 [^28-11]: The Hebrew vowel points read "From the weeping of the rivers he binds", that is, he stops the water from seeping into the mine. The same consonants can be read "the sources of the rivers" (compare "the springs of the sea", 38:16).
 [^28-12]: Or "its place in order". The Greek Septuagint reads "its way".
@@ -2564,7 +2564,7 @@
 [^36-5]: Or "discipline". Hebrew *musar*.
 [^36-6]: Hebrew *shelach*, as in 33:18. Or "they will perish by the sword".
 [^36-7]: Literally "set anger".
-[^36-8]: Hebrew *qedeshim*, men attached to shrines, probably as cult prostitutes (Deuteronomy 23:18 (English 23:17)). Their lives end early and in shame.
+[^36-8]: Hebrew *qedeshim*, men attached to shrines, probably as cult prostitutes (Deuteronomy 23:18 (23:17 in most English Bibles)). Their lives end early and in shame.
 [^36-9]: Or "He is luring you". The Hebrew of verses 16–20 is very difficult, and the translation is uncertain in places.
 [^36-10]: Literally "breadth, not constraint beneath it".
 [^36-11]: Literally "and the setting of your table was full of fatness".
@@ -2575,7 +2575,7 @@
 [^36-16]: Literally "to go up, peoples, beneath them".
 [^36-17]: Some scholars read *bochanta*, "you have been tested", for *bacharta*, "you have chosen", with a small change to the Hebrew: "for because of this you have been tested by affliction".
 [^36-18]: Hebrew *ed*, a rare word also found in Genesis 2:6.
-[^36-19]: Hebrew *sukkah*, "shelter, booth": the clouds around God (Psalm 18:12 (English 18:11)).
+[^36-19]: Hebrew *sukkah*, "shelter, booth": the clouds around God (Psalm 18:12 (18:11 in most English Bibles)).
 [^36-20]: That is, the depths of the sea.
 [^36-21]: Or "he governs". Hebrew *yadin*.
 [^36-22]: Literally "with light". Also in 37:3, 11 and 15.
@@ -2655,7 +2655,7 @@
 [^37-19]: Ancient mirrors were made of polished bronze. The verb *raqa*, "spread out, beat out (like metal)", is related to *raqia*, the "dome" of the sky in Genesis 1:6.
 [^37-20]: Literally "If a man speaks, surely he will be swallowed up". The meaning is uncertain.
 [^37-21]: Literally "And now they have not seen the light; it is bright in the skies, and a wind has passed and cleansed them".
-[^37-22]: Literally "From the north comes gold". The far north was thought of as the place where God (or the gods) lived (compare Isaiah 14:13; Psalm 48:3 (English 48:2)).
+[^37-22]: Literally "From the north comes gold". The far north was thought of as the place where God (or the gods) lived (compare Isaiah 14:13; Psalm 48:3 (48:2 in most English Bibles)).
 [^37-23]: Hebrew *Shaddai*, traditionally "the Almighty"; the meaning is uncertain.
 [^37-24]: Literally "he does not see all the wise of heart", that is, those who think themselves wise.
 
@@ -2746,7 +2746,7 @@
 **41** Who provides food for the raven, when its young[^38-25] cry out to God and wander about for lack of food?
 
 [^38-1]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles. The name, used in the prose of chapters 1–2, has not appeared in the speeches since 12:9.
-[^38-2]: Or "the whirlwind". Hebrew *se'arah*, a storm wind. Yahweh speaks from here to 40:2, and again in 40:7–41:26 (English 40:7–41:34).
+[^38-2]: Or "the whirlwind". Hebrew *se'arah*, a storm wind. Yahweh speaks from here to 40:2, and again in 40:7–41:26 (40:7–41:34 in most English Bibles).
 [^38-3]: Hebrew *etsah*, "counsel, plan": God's purpose for the world.
 [^38-4]: Literally "Gird up your loins": tie up your long robe, ready for action.
 [^38-5]: Heavenly beings (see 1:6).
@@ -2931,7 +2931,7 @@
 [^40-6]: Hebrew *mishpat*: justice, judgment, the right in a case.
 [^40-7]: The world of the dead.
 [^40-8]: Or "acknowledge you".
-[^40-9]: Hebrew *behemot*, the plural of *behemah*, "beast": "the beast" above all others, a huge land animal. Many identify it with the hippopotamus, which lives among the reeds and in the river (verses 21–23); others with the elephant, or with a monster of chaos, paired with Leviathan (40:25–41:26 (English 41:1–34)). Verses 15–24 describe it.
+[^40-9]: Hebrew *behemot*, the plural of *behemah*, "beast": "the beast" above all others, a huge land animal. Many identify it with the hippopotamus, which lives among the reeds and in the river (verses 21–23); others with the elephant, or with a monster of chaos, paired with Leviathan (40:25–41:26 (41:1–34 in most English Bibles)). Verses 15–24 describe it.
 [^40-10]: Literally "which I made with you".
 [^40-11]: Or "It bends its tail like a cedar". Hebrew *yachpots*, a word of uncertain meaning here. Some take *tail* as a euphemism.
 [^40-12]: The Hebrew text is written "its thigh" but read "its thighs".
@@ -3077,6 +3077,6 @@
 [^42-13]: A *qesitah* was a unit of money; its value is not known (Genesis 33:19).
 [^42-14]: Exactly double the numbers in 1:3.
 [^42-15]: Hebrew *shiv'anah*, an unusual form of "seven", which an ancient Jewish tradition takes to mean "twice seven", fourteen.
-[^42-16]: *Jemimah* probably means "dove"; *Keziah*, "cassia", a fragrant spice (Psalm 45:9 (English 45:8)); and *Keren-happuch*, "horn of eye paint", a container for a cosmetic.
+[^42-16]: *Jemimah* probably means "dove"; *Keziah*, "cassia", a fragrant spice (Psalm 45:9 (45:8 in most English Bibles)); and *Keren-happuch*, "horn of eye paint", a container for a cosmetic.
 [^42-17]: Literally "his sons and the sons of his sons, four generations".
 [^42-18]: That is, after a long and full life (compare Genesis 25:8; 35:29). The Greek Septuagint adds a longer ending: it says that Job will rise again with those whom the Lord raises up, and, drawing on a Syriac book, it identifies him with Jobab, a king of Edom (Genesis 36:33).

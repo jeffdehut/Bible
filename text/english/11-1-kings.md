@@ -256,7 +256,7 @@
 [^2-10]: Hebrew *Sheol*, the realm of the dead. Also in verse 9.
 [^2-11]: Hebrew *chesed*: loyal, faithful love.
 [^2-12]: Literally "they came near to me", that is, with help (2 Samuel 17:27–29; 19:32–40, English 19:31–39).
-[^2-13]: See 2 Samuel 16:5–13; 19:17–24 (English 19:16–23).
+[^2-13]: See 2 Samuel 16:5–13; 19:17–24 (19:16–23 in most English Bibles).
 [^2-14]: Literally "lay down with his fathers", a way of speaking of death.
 [^2-15]: The fortress of Zion, the oldest part of Jerusalem, which David captured (2 Samuel 5:7, 9).
 [^2-16]: Literally "And the days that David reigned over Israel were forty years."
@@ -507,10 +507,10 @@
 [^5-18]: Hebrew *satan*, "adversary, opponent".
 [^5-19]: Hebrew *berosh*, a tall conifer: perhaps the cypress or the juniper; traditionally "fir". Also in verse 24.
 [^5-20]: Hebrew *Hirom*, another spelling of the name. Also in verse 32.
-[^5-21]: Literally "beaten oil": oil from olives crushed by hand, the finest grade (Exodus 27:20). 2 Chronicles 2:9 (English 2:10) reads "twenty thousand baths of oil".
+[^5-21]: Literally "beaten oil": oil from olives crushed by hand, the finest grade (Exodus 27:20). 2 Chronicles 2:9 (2:10 in most English Bibles) reads "twenty thousand baths of oil".
 [^5-22]: Hebrew *berit*, "covenant".
 [^5-23]: Hebrew *mas*: work gangs conscripted to labor for the king (4:6). Also in verse 28.
-[^5-24]: Literally "the officers of the governors". 2 Chronicles 2:17 (English 2:18) gives 3,600.
+[^5-24]: Literally "the officers of the governors". 2 Chronicles 2:17 (2:18 in most English Bibles) gives 3,600.
 [^5-25]: Hebrew *gazit*: stone cut and dressed to shape.
 [^5-26]: Hebrew *ha-givlim*, the people of Gebal (Byblos), a Phoenician city north of Sidon known for its craftsmen.
 
@@ -754,8 +754,8 @@
 [^7-10]: Hebrew *gazit*: stone cut and dressed to shape. Also in verses 11 and 12.
 [^7-11]: Hebrew *tefachot*, perhaps the top course of the wall, or the eaves.
 [^7-12]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles. "The house of Yahweh" is the temple.
-[^7-13]: Not King Hiram of Tyre (5:15, English 5:1), but a craftsman with the same name. In 2 Chronicles 2:12 (English 2:13) he is called Huram-abi.
-[^7-14]: 2 Chronicles 2:13 (English 2:14) says his mother was from the tribe of Dan.
+[^7-13]: Not King Hiram of Tyre (5:15, English 5:1), but a craftsman with the same name. In 2 Chronicles 2:12 (2:13 in most English Bibles) he is called Huram-abi.
+[^7-14]: 2 Chronicles 2:13 (2:14 in most English Bibles) says his mother was from the tribe of Dan.
 [^7-15]: Or "copper". Hebrew *nechoshet* means both.
 [^7-16]: Literally "formed".
 [^7-17]: That is, each pillar was about 27 feet (8.1 m) high and 18 feet (5.4 m) around.
@@ -1140,7 +1140,7 @@
 [^10-11]: The Septuagint reads "your wives".
 [^10-12]: Literally "justice and righteousness".
 [^10-13]: A talent was about 75 pounds (34 kg), so 120 talents was about 9,000 pounds (4,100 kg).
-[^10-14]: Hebrew *almuggim*, a costly wood that cannot be identified with certainty; perhaps red sandalwood. In 2 Chronicles 2:7 (English 2:8) and 9:10–11 it is called *algummim*. Also in verse 12.
+[^10-14]: Hebrew *almuggim*, a costly wood that cannot be identified with certainty; perhaps red sandalwood. In 2 Chronicles 2:7 (2:8 in most English Bibles) and 9:10–11 it is called *algummim*. Also in verse 12.
 [^10-15]: Hebrew *mis'ad*, perhaps "railings" or "steps"; the meaning is uncertain.
 [^10-16]: Literally "according to the hand of King Solomon".
 [^10-17]: About 50,000 pounds (22,600 kg).
@@ -1370,7 +1370,7 @@
 [^12-6]: Probably whips with barbs or spikes. Also in verse 14.
 [^12-7]: Literally "for it was a turn of affairs from Yahweh". *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
 [^12-8]: That is, they went home.
-[^12-9]: Called Adoniram in 4:6 and 5:28 (English 5:14). Hebrew *mas*: work gangs conscripted to labor for the king.
+[^12-9]: Called Adoniram in 4:6 and 5:28 (5:14 in most English Bibles). Hebrew *mas*: work gangs conscripted to labor for the king.
 [^12-10]: "Man of God" is a title for a prophet.
 [^12-11]: Literally "your brothers".
 [^12-12]: After this verse the Septuagint adds a long passage (often numbered 24a–z) that tells the story of Jeroboam's rise in a different form.
@@ -1929,7 +1929,7 @@
 [^18-16]: Hebrew *sig*, perhaps a polite way of saying he has gone to relieve himself.
 [^18-17]: Hebrew *yitnabbe'u*, "acted as prophets": here a frenzied ecstasy.
 [^18-18]: Literally "until the offering up of the grain offering", the offering made in the late afternoon. Also in verse 36.
-[^18-19]: See Genesis 32:29 (English 32:28); 35:10.
+[^18-19]: See Genesis 32:29 (32:28 in most English Bibles); 35:10.
 [^18-20]: A seah was about 7 quarts (7 liters). The phrase may also mean that the trench enclosed the area two seahs of seed would sow.
 [^18-21]: In most English Bibles the first sentence of this verse ends verse 33, and verse 34 begins "Do it a second time".
 [^18-22]: The Hebrew text is written "at your words" but read "at your word".

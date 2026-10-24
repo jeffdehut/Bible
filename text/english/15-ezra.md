@@ -234,9 +234,9 @@
 [^2-41]: Nehemiah 7:61 has Addon.
 [^2-42]: Literally "they could not tell their fathers' house and their seed, whether they were from Israel".
 [^2-43]: Nehemiah 7:62 has 642.
-[^2-44]: That is, he took his father-in-law's name. On Barzillai the Gileadite, see 2 Samuel 17:27; 19:32–40 (English 19:31–39).
+[^2-44]: That is, he took his father-in-law's name. On Barzillai the Gileadite, see 2 Samuel 17:27; 19:32–40 (19:31–39 in most English Bibles).
 [^2-45]: Literally "they were defiled from the priesthood". Nehemiah 7:64 has "it was not found".
-[^2-46]: Hebrew *tirshata*, a Persian title of a high official, perhaps meaning "His Excellency". It is used of Nehemiah in Nehemiah 8:9 and 10:2 (English 10:1).
+[^2-46]: Hebrew *tirshata*, a Persian title of a high official, perhaps meaning "His Excellency". It is used of Nehemiah in Nehemiah 8:9 and 10:2 (10:1 in most English Bibles).
 [^2-47]: Literally "the holy of holies": the priests' share of the most holy offerings (Leviticus 2:3; 6:10–11, English 6:17–18).
 [^2-48]: Literally "until a priest stood for Urim and for Thummim". These were kept in the high priest's breastpiece and used to learn Yahweh's decision (Exodus 28:30; Numbers 27:21). Nehemiah 7:65 has "the priest".
 [^2-49]: The numbers given in verses 3–60 add up to 29,818.
@@ -245,7 +245,7 @@
 [^2-52]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
 [^2-53]: Hebrew *darkemonim*: probably darics, Persian gold coins weighing about 0.3 ounce (8.4 g) each; or Greek drachmas.
 [^2-54]: A mina was about 1.25 pounds (0.6 kg).
-[^2-55]: Nehemiah 7:69–71 (English 7:70–72) records the gifts differently.
+[^2-55]: Nehemiah 7:69–71 (7:70–72 in most English Bibles) records the gifts differently.
 [^2-56]: Nehemiah 7:72 lists the groups in a different order and continues with the words of 3:1.
 
 ## Chapter 3
@@ -561,7 +561,7 @@
 **28** and who has shown me faithful love[^7-18] before the king and his advisers and all the king's powerful officials. I took courage, because the hand of Yahweh my God was on me, and I gathered leaders from Israel to go up with me.
 
 [^7-1]: Artaxerxes I, who reigned from 465 to 424 BC. His seventh year (verse 7) was 458 BC, about sixty years after the temple was finished (6:15).
-[^7-2]: The list in verses 1–5 is shorter than the line of high priests in 1 Chronicles 5:29–41 (English 6:3–15). "Son" can also mean "descendant".
+[^7-2]: The list in verses 1–5 is shorter than the line of high priests in 1 Chronicles 5:29–41 (6:3–15 in most English Bibles). "Son" can also mean "descendant".
 [^7-3]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
 [^7-4]: Literally "it was the founding of the going up from Babylon".
 [^7-5]: Literally "to seek".
@@ -716,7 +716,7 @@
 **15** Yahweh, God of Israel, you are righteous, for we are left as survivors, as it is today. Here we are before you in our guilt, though because of this no one can stand before you."
 
 [^9-1]: Hebrew *to'evot*, "abominations, detestable things". Also in verses 11 and 14.
-[^9-2]: Compare Deuteronomy 7:1–4 and 23:4–9 (English 23:3–8).
+[^9-2]: Compare Deuteronomy 7:1–4 and 23:4–9 (23:3–8 in most English Bibles).
 [^9-3]: Or "the holy offspring". Compare Isaiah 6:13.
 [^9-4]: Hebrew *seganim*, a title borrowed from Akkadian: local officials or magistrates.
 [^9-5]: Hebrew *ma'al*: a breach of faith, betraying a trust, especially toward God. Also in verse 4.
@@ -729,7 +729,7 @@
 [^9-12]: Or "a protective wall". Hebrew *gader*, a wall or fence, such as that around a vineyard.
 [^9-13]: Hebrew *niddah*, the word for the impurity of menstruation. Also later in the verse.
 [^9-14]: Literally "from mouth to mouth".
-[^9-15]: Verses 11–12 are not a quotation of a single passage, but they draw on Leviticus 18:24–30, Deuteronomy 7:1–3 and 23:7 (English 23:6).
+[^9-15]: Verses 11–12 are not a quotation of a single passage, but they draw on Leviticus 18:24–30, Deuteronomy 7:1–3 and 23:7 (23:6 in most English Bibles).
 [^9-16]: Literally "you have held back below our iniquities".
 
 ## Chapter 10

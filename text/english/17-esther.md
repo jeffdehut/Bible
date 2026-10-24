@@ -68,7 +68,7 @@
 [^1-15]: Literally "for so was the king's word before all who knew law and judgment".
 [^1-16]: Literally "who saw the king's face". Compare Ezra 7:14.
 [^1-17]: "He asked" is not in the Hebrew; the king's question follows directly from verse 13.
-[^1-18]: Literally "so that it will not pass away". Compare 8:8; Daniel 6:9, 13, 16 (English 6:8, 12, 15).
+[^1-18]: Literally "so that it will not pass away". Compare 8:8; Daniel 6:9, 13, 16 (6:8, 12, 15 in most English Bibles).
 [^1-19]: Hebrew *pitgam*, a word borrowed from Persian.
 [^1-20]: The meaning of the last words is uncertain. Literally "and speaking according to the language of his people".
 

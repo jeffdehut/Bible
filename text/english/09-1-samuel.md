@@ -185,7 +185,7 @@
 [^2-10]: Literally "and make them inherit a throne of glory".
 [^2-11]: Hebrew *metsuqim*, a rare word, perhaps "foundations".
 [^2-12]: Hebrew *chasidim*, a word related to *chesed*, "faithful love". The Hebrew text is written "his faithful one" but read "his faithful ones".
-[^2-13]: The Hebrew text is written "The one who opposes Yahweh will be shattered; he will thunder against him" but read "Those who oppose ... against them". The Septuagint adds at this point words close to Jeremiah 9:22–23 (English 9:23–24): "Let not the wise boast in his wisdom ..."
+[^2-13]: The Hebrew text is written "The one who opposes Yahweh will be shattered; he will thunder against him" but read "Those who oppose ... against them". The Septuagint adds at this point words close to Jeremiah 9:22–23 (9:23–24 in most English Bibles): "Let not the wise boast in his wisdom ..."
 [^2-14]: Hebrew *meshicho*, "his anointed one", from *mashiach*, the word behind "Messiah". Here it means the king anointed by Yahweh.
 [^2-15]: Literally "sons of *beliyya'al*", "sons of worthlessness": scoundrels.
 [^2-16]: Literally "the *mishpat* (custom, rule) of the priests with the people".
@@ -1358,7 +1358,7 @@
 [^17-29]: Literally "the beasts of the field".
 [^17-30]: Hebrew *YHWH tseva'ot*, traditionally "the LORD of hosts" or "the LORD Almighty". *Tseva'ot* means armies: the heavenly hosts and the armies of Israel.
 [^17-31]: The Septuagint reads "Gath".
-[^17-32]: Compare 21:10 (English 21:9), where Goliath's sword is kept at the sanctuary at Nob.
+[^17-32]: Compare 21:10 (21:9 in most English Bibles), where Goliath's sword is kept at the sanctuary at Nob.
 [^17-33]: Literally "By the life of your *nephesh*, O king".
 
 ## Chapter 18
@@ -1443,7 +1443,7 @@
 [^18-16]: Hebrew *chayyai*, "my life", or perhaps "my kin".
 [^18-17]: Literally "the thing was right in his eyes". Also in verse 26.
 [^18-18]: The Hebrew is difficult. Literally "By two you will become my son-in-law today."
-[^18-19]: Hebrew *mohar*, the payment a man made to the family of his bride (Exodus 22:15–16 (English 22:16–17)).
+[^18-19]: Hebrew *mohar*, the payment a man made to the family of his bride (Exodus 22:15–16 (22:16–17 in most English Bibles)).
 [^18-20]: Literally "and the days were not yet full".
 [^18-21]: The Septuagint reads "a hundred"; compare 2 Samuel 3:14.
 [^18-22]: The Septuagint reads "and that all Israel loved him".
@@ -2231,7 +2231,7 @@
 [^29-2]: Literally "from the day of his falling", that is, his going over to me.
 [^29-3]: Hebrew *satan*, "adversary, opponent".
 [^29-4]: Literally "Is it not with the heads of those men?"
-[^29-5]: The Hebrew text is written "his ten thousand" but read "his tens of thousands". Compare 18:7 and 21:12 (English 21:11).
+[^29-5]: The Hebrew text is written "his ten thousand" but read "his tens of thousands". Compare 18:7 and 21:12 (21:11 in most English Bibles).
 [^29-6]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
 [^29-7]: Literally "your going out and your coming in with me in the camp is good in my eyes".
 [^29-8]: Literally "do nothing evil in the eyes of".

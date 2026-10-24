@@ -1667,7 +1667,7 @@
 [^16-22]: Or "Yahweh has become king!" In Psalm 96:10 this line comes earlier.
 [^16-23]: Hebrew *chesed*: loyal, faithful love. Also in verse 41. Verses 34–36 match Psalm 106:1 and 47–48.
 [^16-24]: Psalm 106:47 has "Save us, Yahweh our God".
-[^16-25]: Psalm 106:48 has "Let all the people say, 'Amen!' Praise Yahweh!"
+[^16-25]: Psalm 106:48 has "Let all the people say, 'Amen!' Praise Yah!" (Hebrew *hallelu-yah*). Here the Hebrew is *vehallel la-YHWH*, "and they praised Yahweh".
 [^16-26]: Hebrew *bamah*, a place of worship, often on a hill.
 [^16-27]: Or "instruments for sacred song".
 [^16-28]: Compare 2 Samuel 6:19–20.

@@ -559,9 +559,9 @@
 [^7-39]: Ezra 2:59 has Addan.
 [^7-40]: Literally "they could not tell their fathers' house and their seed, whether they were from Israel".
 [^7-41]: Ezra 2:60 has 652.
-[^7-42]: That is, he took his father-in-law's name. On Barzillai the Gileadite, see 2 Samuel 17:27; 19:32–40 (English 19:31–39).
+[^7-42]: That is, he took his father-in-law's name. On Barzillai the Gileadite, see 2 Samuel 17:27; 19:32–40 (19:31–39 in most English Bibles).
 [^7-43]: Literally "they were defiled from the priesthood". Ezra 2:62 has "they were not found".
-[^7-44]: Hebrew *tirshata*, a Persian title of a high official, perhaps meaning "His Excellency". Also in verse 69. It is used of Nehemiah in 8:9 and 10:2 (English 10:1).
+[^7-44]: Hebrew *tirshata*, a Persian title of a high official, perhaps meaning "His Excellency". Also in verse 69. It is used of Nehemiah in 8:9 and 10:2 (10:1 in most English Bibles).
 [^7-45]: Literally "the holy of holies": the priests' share of the most holy offerings (Leviticus 2:3; 6:10–11, English 6:17–18).
 [^7-46]: Literally "until the priest stood for Urim and Thummim". These were kept in the high priest's breastpiece and used to learn Yahweh's decision (Exodus 28:30; Numbers 27:21). Ezra 2:63 has "a priest".
 [^7-47]: The numbers given in verses 8–62 add up to 31,089.
@@ -722,7 +722,7 @@
 [^9-14]: Hebrew *chesed*: loyal, faithful love. Compare Exodus 34:6. The Hebrew text is written "great and faithful love" but read "abounding in faithful love".
 [^9-15]: Exodus 32:4, 8.
 [^9-16]: Hebrew *ruach*. Compare Numbers 11:17, 25. Also in verse 30.
-[^9-17]: Compare Deuteronomy 8:4; 29:4 (English 29:5).
+[^9-17]: Compare Deuteronomy 8:4; 29:4 (29:5 in most English Bibles).
 [^9-18]: The meaning of the Hebrew is uncertain. Perhaps "you allotted to them every region", or "you allotted the land to them as a boundary".
 [^9-19]: Literally "which a person shall do and live by them" (Leviticus 18:5).
 [^9-20]: Literally "you drew out over them".
@@ -1113,7 +1113,7 @@
 
 **31** and I provided for the wood offering at the appointed times, and for the firstfruits. Remember me for good, my God.
 
-[^13-1]: Deuteronomy 23:4–6 (English 23:3–5). On Balaam, see Numbers 22–24.
+[^13-1]: Deuteronomy 23:4–6 (23:3–5 in most English Bibles). On Balaam, see Numbers 22–24.
 [^13-2]: Hebrew *erev*, "mixture". Compare the "mixed crowd" that left Egypt with Israel (Exodus 12:38).
 [^13-3]: Hebrew *terumah*: something set apart and given for a sacred purpose.
 [^13-4]: 433 BC. The Persian kings also ruled Babylon and used the title "king of Babylon".

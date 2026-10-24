@@ -105,7 +105,7 @@
 **17** He made 70,000 of them carriers of loads and 80,000 stonecutters in the hills, and 3,600 overseers to make the people work.
 
 [^2-1]: Literally "counted".
-[^2-2]: Verses 1–17 are 2:2–18 in most English Bibles. They parallel 1 Kings 5:15–32 (English 5:1–18), which gives the number of overseers as 3,300 (1 Kings 5:30, English 5:16).
+[^2-2]: Verses 1–17 are 2:2–18 in most English Bibles. They parallel 1 Kings 5:15–32 (5:1–18 in most English Bibles), which gives the number of overseers as 3,300 (1 Kings 5:30, English 5:16).
 [^2-3]: Called Hiram in 1 Kings 5. Also in verses 10 and 11.
 [^2-4]: Literally "As you did with David my father, and sent him cedars to build him a house to live in." The words "so do for me" are understood.
 [^2-5]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
@@ -116,9 +116,9 @@
 [^2-10]: Hebrew *berosh*, a tall conifer: perhaps the cypress or the juniper.
 [^2-11]: Hebrew *algummim*, a costly wood that cannot be identified with certainty; perhaps red sandalwood. In 1 Kings 10:11–12 it is called *almuggim* and is brought from Ophir.
 [^2-12]: A kor was probably about 6 bushels (220 liters).
-[^2-13]: Hebrew *chittim makkot*, literally "wheat of blows", probably wheat that had been threshed or ground. 1 Kings 5:25 (English 5:11) has *makkolet*, "food".
+[^2-13]: Hebrew *chittim makkot*, literally "wheat of blows", probably wheat that had been threshed or ground. 1 Kings 5:25 (5:11 in most English Bibles) has *makkolet*, "food".
 [^2-14]: A bath was about 6 gallons (22 liters).
-[^2-15]: 1 Kings 5:25 (English 5:11) says Solomon gave Hiram twenty thousand kors of wheat as food for his household, and twenty kors of pressed olive oil.
+[^2-15]: 1 Kings 5:25 (5:11 in most English Bibles) says Solomon gave Hiram twenty thousand kors of wheat as food for his household, and twenty kors of pressed olive oil.
 [^2-16]: Literally "a house for his kingdom".
 [^2-17]: Hebrew *le-Huram avi*, "Huram my father": probably a name, or a title such as "my master craftsman". In 1 Kings 7:13 he is called Hiram.
 [^2-18]: 1 Kings 7:14 says his mother was a widow from the tribe of Naphtali.
@@ -656,7 +656,7 @@
 [^9-26]: Literally "sought the face of Solomon".
 [^9-27]: Hebrew *neshek*, "weapons". Some take it as a word meaning "myrrh".
 [^9-28]: Or "horses". Hebrew *parashim*.
-[^9-29]: 1 Kings 5:6 (English 4:26) has "forty thousand stalls". Verses 25–28 are close to 1:14–17 and 1 Kings 5:1, 6 (English 4:21, 26) and 10:26–29.
+[^9-29]: 1 Kings 5:6 (4:26 in most English Bibles) has "forty thousand stalls". Verses 25–28 are close to 1:14–17 and 1 Kings 5:1, 6 (4:21, 26 in most English Bibles) and 10:26–29.
 [^9-30]: The Euphrates.
 [^9-31]: The low hills between the hill country of Judah and the coastal plain.
 [^9-32]: Verses 29–31 parallel 1 Kings 11:41–43.
@@ -1317,11 +1317,11 @@
 [^20-13]: Literally "each man helped against his neighbor, to destroy".
 [^20-14]: Hebrew *pegarim*. The Vulgate reads "garments" (Hebrew *begadim*).
 [^20-15]: *Beracah* means "blessing". Also later in the verse.
-[^20-16]: Verses 31–37 are close to 1 Kings 22:41–51 (English 22:41–50).
+[^20-16]: Verses 31–37 are close to 1 Kings 22:41–51 (22:41–50 in most English Bibles).
 [^20-17]: Hebrew *bamot*: places of worship, often on hilltops. Compare 17:6.
 [^20-18]: Literally "the words".
 [^20-19]: Or "and in doing so he acted wickedly", referring to Jehoshaphat.
-[^20-20]: Compare 1 Kings 22:49–50 (English 22:48–49).
+[^20-20]: Compare 1 Kings 22:49–50 (22:48–49 in most English Bibles).
 
 ## Chapter 21
 
@@ -1549,17 +1549,17 @@
 
 **27** As for his sons, the many oracles against him,[^24-20] and the rebuilding of the house of God, they are written in the commentary[^24-21] on the book of the kings. And his son Amaziah became king in his place.
 
-[^24-1]: This chapter parallels 2 Kings 12 (English 11:21–12:21), with many differences.
+[^24-1]: This chapter parallels 2 Kings 12 (11:21–12:21 in most English Bibles), with many differences.
 [^24-2]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
 [^24-3]: Literally "the head".
 [^24-4]: See Exodus 30:12–16.
 [^24-5]: That is, the tabernacle, named after the tablets of the covenant kept in the ark (Hebrew *edut*, "testimony"; Exodus 25:16; Numbers 1:50).
 [^24-6]: Plural of *Baal*, "lord, master": the Canaanite god Baal, worshiped in many local forms.
-[^24-7]: Compare 2 Kings 12:10 (English 12:9).
+[^24-7]: Compare 2 Kings 12:10 (12:9 in most English Bibles).
 [^24-8]: Or "until they had all given".
 [^24-9]: Literally "and healing went up for the work by their hand".
 [^24-10]: Hebrew *kappot*, "palms": small dishes, perhaps for incense (4:22).
-[^24-11]: 2 Kings 12:14 (English 12:13) says that no articles of gold or silver were made from this money.
+[^24-11]: 2 Kings 12:14 (12:13 in most English Bibles) says that no articles of gold or silver were made from this money.
 [^24-12]: Hebrew *asherim*: wooden poles or trees that were symbols of the goddess Asherah.
 [^24-13]: Literally "clothed itself with". Compare Judges 6:34.
 [^24-14]: Probably the Zechariah mentioned in Matthew 23:35 and Luke 11:51.
@@ -1567,7 +1567,7 @@
 [^24-16]: Literally "Jehoiada his father".
 [^24-17]: That is, in the spring.
 [^24-18]: The Septuagint and the Vulgate read "son".
-[^24-19]: 2 Kings 12:22 (English 12:21) has "Jozabad son of Shimeath and Jehozabad son of Shomer".
+[^24-19]: 2 Kings 12:22 (12:21 in most English Bibles) has "Jozabad son of Shimeath and Jehozabad son of Shomer".
 [^24-20]: Or "the heavy tribute laid on him". Hebrew *massa* can mean "oracle" or "burden". The Hebrew text is written "and the abundance of the oracle" but read "and the oracle was great".
 [^24-21]: Hebrew *midrash*, "study" or "account" (13:22).
 
