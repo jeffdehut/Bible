@@ -2778,7 +2778,7 @@
 
 **4** Send a thousand men from each tribe, from all the tribes of Israel, to the war."
 
-**5** So from the clans[^31-3] of Israel a thousand were provided from each tribe, 12,000 men armed for war.
+**5** So from the clans[^31-3] of Israel 1,000 were provided from each tribe, 12,000 men armed for war.
 
 **6** Moses sent them to the war, a thousand from each tribe, together with Phinehas son of Eleazar the priest, who took with him the holy objects[^31-4] and the trumpets for sounding the alarm.
 

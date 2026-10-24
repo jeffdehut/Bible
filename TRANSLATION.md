@@ -142,7 +142,8 @@ from the Hebrew.
   thousand", "a hundred thousand"); and for whole hundreds of thousands ("six hundred
   thousand"). Digits for all others, with commas from 1,000 ("130 years", "250", "1,100",
   "1,775 shekels", "46,500", "120,000"). Never "eleven hundred" or "seventeen hundred". In a census, list, battle tally or calculation where some
-  numbers need digits, all of its numbers are digits (Numbers 1, Judges 20, Ezra 2). Ordinals in words ("the twenty-seventh day").
+  numbers need digits, all of its numbers are digits (Numbers 1, Judges 20, Ezra 2). Numbers
+  counted together in one sentence form such a list: "1,400 chariots and 12,000 horsemen". Ordinals in words ("the twenty-seventh day").
   Modern measurements and dates in notes are digits.
 - Scribal marks: the extraordinary points (`[4]`), the inverted nuns (`[8]`) and the unusual
   size or position of large, small or suspended letters (`[5]`–`[7]`) are not reproduced; the

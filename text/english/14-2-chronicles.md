@@ -33,13 +33,13 @@
 
 **13** Then Solomon came from[^1-14] the high place at Gibeon, from before the tent of meeting, to Jerusalem, and he reigned over Israel.
 
-**14** Solomon gathered chariots and horsemen.[^1-15] He had 1,400 chariots and twelve thousand horsemen, and he stationed them in the chariot cities and with the king in Jerusalem.
+**14** Solomon gathered chariots and horsemen.[^1-15] He had 1,400 chariots and 12,000 horsemen, and he stationed them in the chariot cities and with the king in Jerusalem.
 
 **15** The king made silver and gold[^1-16] as common in Jerusalem as stones, and he made cedar as plentiful as the sycamore-fig trees in the Shephelah.[^1-17]
 
 **16** Solomon's horses were imported from Egypt and from Kue.[^1-18] The king's traders bought them from Kue at a price.
 
-**17** They imported a chariot from Egypt for six hundred shekels of silver,[^1-19] and a horse for 150. In the same way, through their agents,[^1-20] they exported them to all the kings of the Hittites and the kings of Aram.
+**17** They imported a chariot from Egypt for 600 shekels of silver,[^1-19] and a horse for 150. In the same way, through their agents,[^1-20] they exported them to all the kings of the Hittites and the kings of Aram.
 
 **18** Solomon resolved[^1-21] to build a house for the name of Yahweh, and a royal palace for himself.[^1-22]
 
@@ -61,7 +61,7 @@
 [^1-16]: 1 Kings 10:27 has only "silver".
 [^1-17]: The low hills between the hill country of Judah and the coastal plain.
 [^1-18]: Hebrew *miqve'*, probably Kue, that is, Cilicia, in what is now southern Turkey. Also later in the verse. Some take the word as "in droves".
-[^1-19]: Literally "six hundred of silver", that is, shekels. A shekel was about ⅖ ounce (11.5 grams), so six hundred shekels was about 15 pounds (6.9 kg), and 150 shekels about 3¾ pounds (1.7 kg).
+[^1-19]: Literally "six hundred of silver", that is, shekels. A shekel was about ⅖ ounce (11.5 grams), so 600 shekels was about 15 pounds (6.9 kg), and 150 shekels about 3¾ pounds (1.7 kg).
 [^1-20]: Literally "by their hand".
 [^1-21]: Literally "said".
 [^1-22]: Literally "a house for his kingdom". Verse 18 is 2:1 in most English Bibles.
@@ -791,7 +791,7 @@
 
 **2** In the fifth year of King Rehoboam, Shishak[^12-2] king of Egypt came up against Jerusalem, because they had been unfaithful[^12-3] to Yahweh,
 
-**3** with 1,200 chariots and sixty thousand horsemen.[^12-4] The people who came with him from Egypt were beyond number: Libyans, Sukkites[^12-5] and Cushites.[^12-6]
+**3** with 1,200 chariots and 60,000 horsemen.[^12-4] The people who came with him from Egypt were beyond number: Libyans, Sukkites[^12-5] and Cushites.[^12-6]
 
 **4** He captured the fortified cities of Judah and came as far as Jerusalem.
 
@@ -2376,3 +2376,78 @@
 [^35-10]: Hebrew *choq*, "decree, fixed rule".
 [^35-11]: A collection of laments. It is not known whether it is related to the book of Lamentations.
 [^35-12]: Hebrew *chasadim*, plural of *chesed*, "faithful love".
+
+## Chapter 36
+
+*Status: draft*
+
+**1** Then the people of the land[^36-1] took Jehoahaz son of Josiah and made him king in place of his father in Jerusalem.[^36-2]
+
+**2** Joahaz[^36-3] was twenty-three years old when he became king, and he reigned three months in Jerusalem.
+
+**3** The king of Egypt deposed him in Jerusalem and imposed on the land a fine of a hundred talents of silver and a talent of gold.[^36-4]
+
+**4** The king of Egypt made Eliakim, his brother, king over Judah and Jerusalem and changed his name to Jehoiakim. But Neco took Joahaz his brother and brought him to Egypt.
+
+**5** Jehoiakim was twenty-five years old when he became king, and he reigned eleven years in Jerusalem.[^36-5] He did what was evil in the eyes of Yahweh[^36-6] his God.
+
+**6** Nebuchadnezzar[^36-7] king of Babylon came up against him and bound him with bronze chains to take him to Babylon.[^36-8]
+
+**7** Nebuchadnezzar also brought some of the utensils of the house of Yahweh to Babylon and put them in his palace[^36-9] in Babylon.
+
+**8** The rest of the acts of Jehoiakim, the detestable things he did and what was found against him,[^36-10] are written in the book of the kings of Israel and Judah. And his son Jehoiachin became king in his place.
+
+**9** Jehoiachin was eight years old when he became king,[^36-11] and he reigned three months and ten days in Jerusalem. He did what was evil in the eyes of Yahweh.
+
+**10** At the turn of the year[^36-12] King Nebuchadnezzar sent and brought him to Babylon, with the precious utensils of the house of Yahweh, and he made Zedekiah, his brother,[^36-13] king over Judah and Jerusalem.
+
+**11** Zedekiah was twenty-one years old when he became king, and he reigned eleven years in Jerusalem.[^36-14]
+
+**12** He did what was evil in the eyes of Yahweh his God. He did not humble himself before Jeremiah the prophet, who spoke from the mouth of Yahweh.
+
+**13** He also rebelled against King Nebuchadnezzar, who had made him swear by God. He stiffened his neck and hardened his heart against turning to Yahweh, the God of Israel.
+
+**14** Moreover, all the leaders of the priests and the people were very unfaithful,[^36-15] following all the detestable practices of the nations, and they defiled the house of Yahweh that he had consecrated in Jerusalem.
+
+**15** Yahweh, the God of their ancestors, sent word to them through his messengers again and again,[^36-16] because he had compassion on his people and on his dwelling place.
+
+**16** But they kept mocking the messengers of God, despising his words and scoffing at his prophets, until the wrath of Yahweh rose against his people, until there was no remedy.
+
+**17** So he brought against them the king of the Babylonians,[^36-17] who killed their young men with the sword in their sanctuary and had no compassion on young man or young woman, on the old or the very aged. He handed them all over to him.
+
+**18** All the utensils of the house of God, large and small, the treasures of the house of Yahweh, and the treasures of the king and of his officials, he brought them all to Babylon.
+
+**19** They burned the house of God and broke down the wall of Jerusalem. They burned all its fortified buildings with fire and destroyed all its precious things.
+
+**20** He carried into exile to Babylon those who had escaped from the sword, and they became servants to him and to his sons until the kingdom of Persia came to power,[^36-18]
+
+**21** to fulfill the word of Yahweh spoken by Jeremiah,[^36-19] until the land had enjoyed its Sabbaths.[^36-20] All the days that it lay desolate it kept Sabbath, until seventy years were complete.
+
+**22** In the first year of Cyrus king of Persia,[^36-21] to fulfill the word of Yahweh spoken by Jeremiah, Yahweh stirred the spirit of Cyrus king of Persia, and he sent a proclamation throughout his whole kingdom and also put it in writing:[^36-22]
+
+**23** "This is what Cyrus king of Persia says: Yahweh, the God of heaven, has given me all the kingdoms of the earth, and he has appointed me[^36-23] to build him a house in Jerusalem, which is in Judah. Whoever among you belongs to any of his people, may Yahweh his God be with him, and let him go up."[^36-24]
+
+[^36-1]: Hebrew *am ha-arets*, the landowning citizens of Judah, who often took part in choosing the king (23:13).
+[^36-2]: Verses 1–4 parallel 2 Kings 23:30–34.
+[^36-3]: A shorter form of the name Jehoahaz. Also in verse 4. He is also called Shallum (Jeremiah 22:11; 1 Chronicles 3:15).
+[^36-4]: A talent was about 75 pounds (34 kg). A hundred talents was about 3¾ tons (3.4 metric tons).
+[^36-5]: Verses 5–8 are close to 2 Kings 23:36–24:6.
+[^36-6]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^36-7]: Nebuchadnezzar II, king of Babylon from 605 to 562 BC.
+[^36-8]: Compare 2 Kings 24:1, 6 and Daniel 1:1–2.
+[^36-9]: Or "his temple". Hebrew *heikhal*.
+[^36-10]: Literally "what was found upon him".
+[^36-11]: 2 Kings 24:8 gives his age as eighteen. Verses 9–10 parallel 2 Kings 24:8–17.
+[^36-12]: That is, in the spring. This was in 597 BC (2 Kings 24:12).
+[^36-13]: According to 2 Kings 24:17, Zedekiah (Mattaniah) was Jehoiachin's uncle, a son of Josiah (1 Chronicles 3:15). In Hebrew "brother" can mean any close male relative. 1 Chronicles 3:16 also names a Zedekiah who was Jehoiakim's son.
+[^36-14]: Verses 11–20 tell more briefly the events of 2 Kings 24:18–25:21 and Jeremiah 52:1–27. Jerusalem fell in 587 or 586 BC.
+[^36-15]: Hebrew *ma'al*: to break faith, to betray a trust (12:2).
+[^36-16]: Literally "rising early and sending", that is, persistently.
+[^36-17]: Hebrew *Kasdim*, traditionally "Chaldeans": the people of southern Mesopotamia whose kings then ruled Babylon.
+[^36-18]: Babylon fell to Cyrus king of Persia in 539 BC.
+[^36-19]: Literally "by the mouth of Jeremiah". Also in verse 22. See Jeremiah 25:11–12; 29:10.
+[^36-20]: That is, the sabbatical years it had not been given while Israel lived in it (Leviticus 25:1–7; 26:34–35, 43).
+[^36-21]: Verses 22–23 are repeated, with small differences, as the opening words of the book of Ezra (Ezra 1:1–3), where Cyrus's decree continues. Cyrus II of Persia conquered Babylon in 539 BC, so his first year as its king was 538 BC.
+[^36-22]: Literally "and he made a voice pass through all his kingdom, and also in writing, saying".
+[^36-23]: Or "charged me". Literally "he has appointed on me".
+[^36-24]: Here the book ends, in the middle of Cyrus's decree. Ezra 1:3 reads "may his God be with him! Let him go up to Jerusalem, which is in Judah, and build the house of Yahweh, the God of Israel."

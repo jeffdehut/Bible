@@ -2368,7 +2368,7 @@
 
 **22** Yahweh said to Moses,
 
-**23** "Take the finest spices: five hundred shekels[^30-16] of liquid myrrh, half as much fragrant cinnamon, 250 shekels, 250 shekels of fragrant cane,
+**23** "Take the finest spices: 500 shekels[^30-16] of liquid myrrh, half as much fragrant cinnamon, 250 shekels, 250 shekels of fragrant cane,
 
 **24** and five hundred shekels of cassia, by the sanctuary shekel, and a hin[^30-17] of olive oil.
 
@@ -3041,7 +3041,7 @@
 
 **24** All the gold that was used for the work, in all the work on the sanctuary, the gold of the wave offering, came to twenty-nine talents and 730 shekels,[^38-9] by the sanctuary shekel.[^38-10]
 
-**25** The silver from those of the community who were counted came to a hundred talents and 1,775 shekels, by the sanctuary shekel.[^38-11]
+**25** The silver from those of the community who were counted came to 100 talents and 1,775 shekels, by the sanctuary shekel.[^38-11]
 
 **26** That was a beka[^38-12] for each person, that is, half a shekel by the sanctuary shekel, for everyone who crossed over to those counted, from twenty years old and over: 603,550 in all.[^38-13]
 
