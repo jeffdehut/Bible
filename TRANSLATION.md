@@ -136,7 +136,8 @@ from the Hebrew.
   in a note.
 - Ketiv/qere: translate the qere (the read form). Where the ketiv (the written form) would be
   translated differently in English, even only in number ("its post"/"its posts"), give it in a
-  note; where the English would be the same, don't:
+  note; where the English would be the same, don't. Where many in one chapter differ only in
+  singular and plural (Ezekiel 40), one combined note is enough:
   "The Hebrew text is written 'X' but read 'Y'." Differences of spelling alone are not noted.
 - A speech that runs on into the next chapter reopens its quotation at the chapter's first
   verse, as English does for a new paragraph of the same speech, and closes it only where the
@@ -149,7 +150,10 @@ from the Hebrew.
   thousand"). Digits for all others, with commas from 1,000 ("130 years", "250", "1,100",
   "1,775 shekels", "46,500", "120,000"). Never "eleven hundred" or "seventeen hundred". In a census, list, battle tally or calculation where some
   numbers need digits, all of its numbers are digits (Numbers 1, Judges 20, Ezra 2). Numbers
-  counted together in one sentence form such a list: "1,400 chariots and 12,000 horsemen". Ordinals in words ("the twenty-seventh day").
+  counted together in one sentence form such a list: "1,400 chariots and 12,000 horsemen". In a
+  passage of measurements (Exodus 26, Ezekiel 40–48) every measurement is in digits, while counts
+  of other things ("three gates") follow the general rule. Where the Hebrew gives a measurement
+  without its unit (Ezekiel 45:1), don't add the unit in the text; say in a note what is meant. Ordinals in words ("the twenty-seventh day").
   Modern measurements and dates in notes are digits.
 - Scribal marks: the extraordinary points (`[4]`), the inverted nuns (`[8]`) and the unusual
   size or position of large, small or suspended letters (`[5]`–`[7]`) are not reproduced; the

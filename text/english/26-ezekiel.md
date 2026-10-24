@@ -2129,7 +2129,7 @@
 
 **13** You were in Eden, the garden of God. Every precious stone was your covering: carnelian, chrysolite and moonstone, beryl, onyx and jasper, lapis lazuli, turquoise and emerald,[^28-10] and gold. The workmanship of your settings and your mountings[^28-11] was in you; on the day you were created they were prepared.
 
-**14** You were an anointed guardian cherub.[^28-12] I placed you there; you were on the holy mountain of God. You walked among the stones of fire.[^28-13]
+**14** You were an anointed guardian cherub.[^28-12] I placed you; you were on the holy mountain of God. You walked among the stones of fire.[^28-13]
 
 **15** You were blameless in your ways from the day you were created, until wrongdoing was found in you.
 
@@ -2145,7 +2145,7 @@
 
 **21** Son of man, set your face toward Sidon[^28-17] and prophesy against it.
 
-**22** Say: This is what the Lord Yahweh says: I am against you, Sidon, and I will display my glory within you. Then they will know that I am Yahweh, when I carry out judgments on her and show myself holy in her.
+**22** Say: This is what the Lord Yahweh says: Look, I am against you, Sidon, and I will display my glory within you. Then they will know that I am Yahweh, when I carry out judgments on her and show myself holy in her.
 
 **23** I will send plague into her and bloodshed into her streets. The slain will fall within her, by the sword that is against her on every side. Then they will know that I am Yahweh.
 
@@ -2181,11 +2181,11 @@
 
 **2** Son of man,[^29-3] set your face against Pharaoh king of Egypt, and prophesy against him and against all Egypt.
 
-**3** Speak and say: This is what the Lord Yahweh[^29-4] says: I am against you, Pharaoh king of Egypt, the great monster[^29-5] lying in the middle of his streams,[^29-6] who has said, "My Nile is my own; I made it for myself."[^29-7]
+**3** Speak and say: This is what the Lord Yahweh[^29-4] says: Look, I am against you, Pharaoh king of Egypt, the great monster[^29-5] lying in the middle of his streams,[^29-6] who has said, "My Nile is my own; I made it for myself."[^29-7]
 
 **4** I will put hooks in your jaws and make the fish of your streams stick to your scales. I will haul you up out of your streams, with all the fish of your streams sticking to your scales.
 
-**5** I will fling you into the wilderness, you and all the fish of your streams. You will fall on the open field; you will not be gathered up or collected.[^29-8] I have given you as food to the animals of the earth and the birds of the sky.
+**5** I will leave you in the wilderness, you and all the fish of your streams. You will fall on the open field; you will not be gathered up or collected.[^29-8] I have given you as food to the animals of the earth and the birds of the sky.
 
 **6** Then all the inhabitants of Egypt will know that I am Yahweh. Because they have been a staff of reed[^29-9] for the house of Israel,
 
@@ -2195,7 +2195,7 @@
 
 **9** The land of Egypt will become a desolate waste. Then they will know that I am Yahweh. Because he said, "The Nile is mine; I made it,"
 
-**10** therefore I am against you and against your streams. I will make the land of Egypt an utter ruin, a desolate waste, from Migdol to Syene, as far as the border of Cush.[^29-11]
+**10** therefore, look, I am against you and against your streams. I will make the land of Egypt an utter ruin, a desolate waste, from Migdol to Syene, as far as the border of Cush.[^29-11]
 
 **11** No human foot will pass through it, and no animal's foot will pass through it. It will be uninhabited for forty years.
 
@@ -2287,7 +2287,7 @@
 
 **21** Son of man, I have broken the arm of Pharaoh king of Egypt. Look, it has not been bound up for healing; no bandage has been put on it to bind it and make it strong enough to grasp the sword.
 
-**22** Therefore this is what the Lord Yahweh says: I am against Pharaoh king of Egypt. I will break his arms, both the strong one and the broken one, and make the sword fall from his hand.
+**22** Therefore this is what the Lord Yahweh says: Look, I am against Pharaoh king of Egypt. I will break his arms, both the strong one and the broken one, and make the sword fall from his hand.
 
 **23** I will scatter the Egyptians among the nations and disperse them among the countries.
 
@@ -2530,7 +2530,7 @@
 
 **25** Therefore say to them: This is what the Lord Yahweh says: You eat meat with the blood,[^33-15] you lift up your eyes to your idols,[^33-16] and you shed blood. Should you then possess the land?
 
-**26** You rely on your swords,[^33-17] you do detestable things,[^33-18] and each of you defiles his neighbor's wife. Should you then possess the land?
+**26** You rely on your swords,[^33-17] you commit detestable practices,[^33-18] and each of you defiles his neighbor's wife. Should you then possess the land?
 
 **27** Say this to them: This is what the Lord Yahweh says: As I live, those who are in the ruins will fall by the sword; those in the open field I will give to the wild animals to be devoured; and those in the strongholds and the caves will die of plague.
 
@@ -2588,7 +2588,7 @@
 
 **9** therefore, you shepherds, hear the word of Yahweh.
 
-**10** This is what the Lord Yahweh says: I am against the shepherds, and I will demand my flock from their hand.[^34-6] I will stop them from feeding the flock, and the shepherds will no longer feed themselves. I will rescue my flock from their mouths, so that they will no longer be food for them.
+**10** This is what the Lord Yahweh says: Look, I am against the shepherds, and I will demand my flock from their hand.[^34-6] I will stop them from feeding the flock, and the shepherds will no longer feed themselves. I will rescue my flock from their mouths, so that they will no longer be food for them.
 
 **11** For this is what the Lord Yahweh says: I myself will search for my flock and look after them.
 
@@ -2652,7 +2652,7 @@
 
 **2** Son of man,[^35-2] set your face against Mount Seir[^35-3] and prophesy against it.
 
-**3** Say to it: This is what the Lord Yahweh[^35-4] says: I am against you, Mount Seir. I will stretch out my hand against you and make you a desolate waste.
+**3** Say to it: This is what the Lord Yahweh[^35-4] says: Look, I am against you, Mount Seir. I will stretch out my hand against you and make you a desolate waste.
 
 **4** I will lay your cities in ruins, and you will become a desolation. Then you will know that I am Yahweh.
 
@@ -2702,7 +2702,7 @@
 
 **5** therefore this is what the Lord Yahweh says: Surely in the fire of my jealousy I have spoken against the rest of the nations and against all Edom, who with wholehearted joy and utter contempt took my land as their own possession, so that its pastureland would be plunder.[^36-6]
 
-**6** Therefore prophesy concerning the land of Israel, and say to the mountains and the hills, to the ravines and the valleys: This is what the Lord Yahweh says: I am speaking in my jealousy and my wrath, because you have borne the scorn of the nations.
+**6** Therefore prophesy concerning the land of Israel, and say to the mountains and the hills, to the ravines and the valleys: This is what the Lord Yahweh says: Look, I have spoken in my jealousy and my wrath, because you have borne the scorn of the nations.
 
 **7** Therefore this is what the Lord Yahweh says: I raise my hand,[^36-7] swearing that the nations around you will themselves bear their scorn.
 
@@ -2762,11 +2762,11 @@
 
 **35** They will say, "This land that was desolate has become like the garden of Eden, and the cities that were ruined, desolate and torn down are fortified and inhabited."
 
-**36** Then the nations that are left around you will know that I, Yahweh, have rebuilt what was torn down and replanted what was desolate. I, Yahweh, have spoken, and I will do it.
+**36** Then the nations that are left around you will know that I, Yahweh, have rebuilt what was torn down and replanted what was desolate. I, Yahweh, have spoken, and I will do it.[^36-15]
 
-**37** This is what the Lord Yahweh says: Once more I will let the house of Israel ask me[^36-15] to do this for them: I will multiply their people like a flock.
+**37** This is what the Lord Yahweh says: Once more I will let the house of Israel ask me[^36-16] to do this for them: I will multiply their people like a flock.
 
-**38** Like the flock for sacrifices,[^36-16] like the flock of Jerusalem at her appointed festivals, so the ruined cities will be filled with flocks of people. Then they will know that I am Yahweh.
+**38** Like the flock for sacrifices,[^36-17] like the flock of Jerusalem at her appointed festivals, so the ruined cities will be filled with flocks of people. Then they will know that I am Yahweh.
 
 [^36-1]: Hebrew *ben adam*, "son of man": a human being, a mortal.
 [^36-2]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
@@ -2782,8 +2782,9 @@
 [^36-12]: The oldest surviving manuscript of the Septuagint for Ezekiel, Papyrus 967 (about AD 200), does not have the rest of this verse after "I am Yahweh", or verses 24–38. It also places chapter 37 after chapters 38–39.
 [^36-13]: Or "my spirit". Hebrew *ruach*, "spirit, wind, breath", as in verse 26.
 [^36-14]: Literally "loathe your faces".
-[^36-15]: Literally "I will let myself be sought by the house of Israel".
-[^36-16]: Literally "the flock of holy things": the animals brought to Jerusalem for sacrifice at the festivals.
+[^36-15]: Literally "and I have done it".
+[^36-16]: Literally "I will let myself be sought by the house of Israel".
+[^36-17]: Literally "the flock of holy things": the animals brought to Jerusalem for sacrifice at the festivals.
 
 ## Chapter 37
 
@@ -2815,11 +2816,11 @@
 
 **13** Then you will know that I am Yahweh, when I open your graves and bring you up from your graves, my people.
 
-**14** I will put my Spirit in you, and you will come to life, and I will settle you in your own land. Then you will know that I, Yahweh, have spoken, and I have done it, declares Yahweh.'"
+**14** I will put my Spirit in you, and you will come to life, and I will settle you in your own land. Then you will know that I, Yahweh, have spoken, and I will do it,[^37-7] declares Yahweh.'"
 
 **15** The word of Yahweh came to me:
 
-**16** "As for you, son of man, take a stick[^37-7] and write on it, 'For Judah, and for the Israelites, his companions.'[^37-8] Then take another stick and write on it, 'For Joseph, the stick of Ephraim, and all the house of Israel, his companions.'
+**16** "As for you, son of man, take a stick[^37-8] and write on it, 'For Judah, and for the Israelites, his companions.'[^37-9] Then take another stick and write on it, 'For Joseph, the stick of Ephraim, and all the house of Israel, his companions.'
 
 **17** Join them together into one stick, so that they become one in your hand.
 
@@ -2831,17 +2832,17 @@
 
 **21** Then say to them, 'This is what the Lord Yahweh says: I am going to take the Israelites from among the nations where they have gone. I will gather them from all around and bring them into their own land.
 
-**22** I will make them one nation in the land, on the mountains of Israel, and one king will be king over all of them. They will no longer be[^37-9] two nations, and they will never again be divided into two kingdoms.
+**22** I will make them one nation in the land, on the mountains of Israel, and one king will be king over all of them. They will no longer be[^37-10] two nations, and they will never again be divided into two kingdoms.
 
-**23** They will no longer defile themselves with their idols[^37-10] and their vile idols[^37-11] and all their transgressions. I will save them from all their dwelling places[^37-12] where they sinned, and I will cleanse them. They will be my people, and I will be their God.
+**23** They will no longer defile themselves with their idols[^37-11] and their vile idols[^37-12] and all their transgressions. I will save them from all their dwelling places[^37-13] where they sinned, and I will cleanse them. They will be my people, and I will be their God.
 
-**24** My servant David[^37-13] will be king over them, and they will all have one shepherd. They will walk in my rulings and keep my decrees and carry them out.
+**24** My servant David[^37-14] will be king over them, and they will all have one shepherd. They will walk in my rulings and keep my decrees and carry them out.
 
-**25** They will live in the land I gave to my servant Jacob, where your ancestors lived. They will live in it, they and their children and their children's children, forever, and David my servant will be their prince[^37-14] forever.
+**25** They will live in the land I gave to my servant Jacob, where your ancestors lived. They will live in it, they and their children and their children's children, forever, and David my servant will be their prince[^37-15] forever.
 
-**26** I will make a covenant of peace with them; it will be an everlasting covenant with them. I will establish them[^37-15] and multiply them, and I will set my sanctuary among them forever.
+**26** I will make a covenant of peace with them; it will be an everlasting covenant with them. I will establish them[^37-16] and multiply them, and I will set my sanctuary among them forever.
 
-**27** My dwelling place[^37-16] will be with them. I will be their God, and they will be my people.
+**27** My dwelling place[^37-17] will be with them. I will be their God, and they will be my people.
 
 **28** Then the nations will know that I am Yahweh, who makes Israel holy, when my sanctuary is among them forever.'"
 
@@ -2851,16 +2852,17 @@
 [^37-4]: Hebrew *ben adam*, "son of man": a human being, a mortal.
 [^37-5]: Hebrew *Adonai YHWH*, "my Lord Yahweh".
 [^37-6]: Or "a quaking". Hebrew *ra'ash*.
-[^37-7]: Hebrew *ets*, "wood, tree": here a stick, or perhaps a wooden tablet for writing. Also in verses 17, 19 and 20.
-[^37-8]: The Hebrew text is written "his companion" but read "his companions". Also later in the verse and in verse 19.
-[^37-9]: The Hebrew text is written "It will no longer be" but read "They will no longer be".
-[^37-10]: Hebrew *gillulim*, a contemptuous word for idols, perhaps related to the word for dung.
-[^37-11]: Hebrew *shiqqutsim*, "detestable things", a contemptuous word for idols.
-[^37-12]: Some scholars read "from all their backslidings", with a small change to the Hebrew.
-[^37-13]: That is, a king from the line of David (34:23–24).
-[^37-14]: Hebrew *nasi*, "leader, chief", Ezekiel's title for the king of Israel (34:24).
-[^37-15]: Literally "I will give them". The meaning is uncertain.
-[^37-16]: Hebrew *mishkan*, the word used for the tabernacle (Exodus 25:9).
+[^37-7]: Literally "and I have done it".
+[^37-8]: Hebrew *ets*, "wood, tree": here a stick, or perhaps a wooden tablet for writing. Also in verses 17, 19 and 20.
+[^37-9]: The Hebrew text is written "his companion" but read "his companions". Also later in the verse and in verse 19.
+[^37-10]: The Hebrew text is written "It will no longer be" but read "They will no longer be".
+[^37-11]: Hebrew *gillulim*, a contemptuous word for idols, perhaps related to the word for dung.
+[^37-12]: Hebrew *shiqqutsim*, "detestable things", a contemptuous word for idols.
+[^37-13]: Some scholars read "from all their backslidings", with a small change to the Hebrew.
+[^37-14]: That is, a king from the line of David (34:23–24).
+[^37-15]: Hebrew *nasi*, "leader, chief", Ezekiel's title for the king of Israel (34:24).
+[^37-16]: Literally "I will give them". The meaning is uncertain.
+[^37-17]: Hebrew *mishkan*, the word used for the tabernacle (Exodus 25:9).
 
 ## Chapter 38
 
@@ -2870,7 +2872,7 @@
 
 **2** Son of man,[^38-2] set your face toward Gog,[^38-3] of the land of Magog, the chief prince[^38-4] of Meshech and Tubal,[^38-5] and prophesy against him.
 
-**3** Say: This is what the Lord Yahweh[^38-6] says: I am against you, Gog, chief prince of Meshech and Tubal.
+**3** Say: This is what the Lord Yahweh[^38-6] says: Look, I am against you, Gog, chief prince of Meshech and Tubal.
 
 **4** I will turn you around, put hooks in your jaws, and bring you out with all your army, horses and horsemen, all of them in full armor, a great company with large shield and small shield, all of them wielding swords.
 
@@ -2932,7 +2934,7 @@
 
 *Status: draft*
 
-**1** As for you, son of man,[^39-1] prophesy against Gog and say: This is what the Lord Yahweh[^39-2] says: I am against you, Gog, chief prince[^39-3] of Meshech and Tubal.
+**1** As for you, son of man,[^39-1] prophesy against Gog and say: This is what the Lord Yahweh[^39-2] says: Look, I am against you, Gog, chief prince[^39-3] of Meshech and Tubal.
 
 **2** I will turn you around and drive you on,[^39-4] and bring you up from the far reaches of the north, and bring you against the mountains of Israel.
 
@@ -3181,13 +3183,13 @@
 
 **21** The doorposts of the main hall were square. In front of the holy place was something that looked like this:[^41-24]
 
-**22** an altar of wood, three cubits high and two cubits long, with its corners. Its length[^41-25] and its walls were of wood. He said to me, "This is the table that is before Yahweh."[^41-26]
+**22** an altar of wood, three cubits high and two cubits long, with its corners. Its length[^41-25] and its walls were of wood. He said to me, "This is the table[^41-26] that is before Yahweh."[^41-27]
 
 **23** The main hall and the holy place each had a double door.
 
 **24** Each door had two leaves, two leaves that swung: two leaves for one door and two leaves for the other.
 
-**25** On the doors of the main hall were carved cherubim and palm trees like those carved on the walls. There was a canopy[^41-27] of wood on the front of the porch outside.
+**25** On the doors of the main hall were carved cherubim and palm trees like those carved on the walls. There was a canopy[^41-28] of wood on the front of the porch outside.
 
 **26** There were narrow windows and palm trees on either side, on the side walls of the porch, and on the side rooms of the house and on the canopies.
 
@@ -3217,7 +3219,8 @@
 [^41-24]: The meaning is uncertain. Literally "The main hall: a doorpost squared; and the front of the holy place: the appearance like the appearance." *The holy place* is probably the inner room (verse 4).
 [^41-25]: The Septuagint reads "two cubits long and two cubits wide", and "its base" for "its length".
 [^41-26]: Perhaps the table for the bread of the Presence (Exodus 25:23–30), or an altar of incense (Exodus 30:1–10), which stood in front of the inner room.
-[^41-27]: Hebrew *av*, of uncertain meaning: perhaps a canopy, an overhang, or a threshold (1 Kings 7:6). Also in verse 26.
+[^41-27]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^41-28]: Hebrew *av*, of uncertain meaning: perhaps a canopy, an overhang, or a threshold (1 Kings 7:6). Also in verse 26.
 
 ## Chapter 42
 

@@ -135,3 +135,71 @@
 [^2-28]: A play on words: *elilim illemim*, "mute idols". *A teacher of lies* may refer to oracles sought from idols.
 [^2-29]: Hebrew *ruach*, "breath, spirit, wind".
 [^2-30]: Literally "Hush before him, all the earth!" Compare Zephaniah 1:7; Zechariah 2:17 (2:13 in most English Bibles).
+
+## Chapter 3
+
+*Status: draft*
+
+**1** A prayer of Habakkuk the prophet. According to Shigionoth.[^3-1]
+
+**2** Yahweh,[^3-2] I have heard the report of you; I stand in awe, Yahweh, of your work.[^3-3] In the midst of the years revive it; in the midst of the years make it known.[^3-4] In wrath, remember mercy.
+
+**3** God[^3-5] came from Teman, the Holy One from Mount Paran.[^3-6] Selah.[^3-7] His splendor covered the heavens, and the earth was full of his praise.[^3-8]
+
+**4** His brightness was like the light; rays came from his hand,[^3-9] and there his power was hidden.
+
+**5** Plague went before him, and pestilence[^3-10] followed at his heels.
+
+**6** He stood and measured[^3-11] the earth; he looked and made the nations tremble. The ancient mountains were shattered; the everlasting hills sank down. His ways are as of old.[^3-12]
+
+**7** I saw the tents of Cushan in distress;[^3-13] the tent curtains of the land of Midian trembled.
+
+**8** Was your anger against the rivers, Yahweh? Was your wrath against the rivers, or your fury against the sea,[^3-14] when you rode on your horses, on your chariots of victory?
+
+**9** Your bow was laid bare; arrows were sworn by your word.[^3-15] Selah. You split the earth with rivers.
+
+**10** The mountains saw you and writhed; a torrent of water swept by.[^3-16] The deep gave its voice; it lifted its hands on high.
+
+**11** Sun and moon stood still in their dwelling[^3-17] at the light of your arrows as they flew, at the flash of your glittering spear.
+
+**12** In fury you marched through the earth; in anger you trampled the nations.
+
+**13** You went out to save your people, to save your anointed one.[^3-18] You crushed the head of the house of the wicked, laying it bare from foundation to neck.[^3-19] Selah.
+
+**14** With his own arrows you pierced the head of his warriors,[^3-20] who stormed out to scatter me, gloating as if about to devour the poor in secret.
+
+**15** You trampled the sea with your horses, churning the mighty waters.
+
+**16** I heard, and my body trembled;[^3-21] my lips quivered at the sound. Rottenness entered my bones, and my legs trembled beneath me. Yet I will wait quietly[^3-22] for the day of distress to come on the people who invade us.
+
+**17** Though the fig tree does not blossom, and there is no fruit on the vines, though the olive crop fails, and the fields produce no food, though the flock is cut off from the fold, and there are no cattle in the stalls,
+
+**18** yet I will rejoice in Yahweh; I will be joyful in the God of my salvation.
+
+**19** Yahweh, the Lord,[^3-23] is my strength. He makes my feet like the feet of a deer, and makes me walk on my heights.[^3-24] For the director. With my stringed instruments.[^3-25]
+
+[^3-1]: Hebrew *shigyonot*, the plural of *shiggayon* (Psalm 7:1), a term of uncertain meaning, perhaps a lament, or a song with a changing rhythm. This chapter is a psalm, with a title, the word *Selah* (verses 3, 9 and 13) and a note for the musicians at the end (verse 19), like the psalms of the book of Psalms.
+[^3-2]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^3-3]: Or "Yahweh, I have heard of your fame; I fear, Yahweh, your work."
+[^3-4]: The Septuagint reads "In the midst of two living creatures you will be known", reading the Hebrew words for "years" and "revive it" differently.
+[^3-5]: Hebrew *Eloah*, a poetic word for God.
+[^3-6]: Teman, in Edom, and Mount Paran, in the wilderness south of Judah, lay on the way from Sinai. Yahweh is pictured coming from the south, as in Deuteronomy 33:2 and Judges 5:4–5. The verbs in verses 3–15 may describe what Yahweh did in the past, at the exodus and at Sinai, or what he will do.
+[^3-7]: Hebrew *selah*, a musical or liturgical term of uncertain meaning. Also in verses 9 and 13.
+[^3-8]: Or "his glory".
+[^3-9]: Literally "horns from his hand were his". The same word is used of the rays of light from Moses' face (Exodus 34:29–30).
+[^3-10]: Hebrew *deber* and *resheph*. Resheph was the name of a Canaanite god of plague. Here plague and pestilence attend Yahweh like servants.
+[^3-11]: Or "shook". The same consonants can be read either way.
+[^3-12]: Or "Ancient paths are his", or "His ways are everlasting".
+[^3-13]: Literally "under trouble". Cushan was probably a people living near Midian, in the desert east and south of Edom.
+[^3-14]: The waters that Yahweh divided at the Red Sea and at the Jordan (Psalm 114:3–5), and the sea as the power of chaos that he overcomes (Psalm 74:13–14).
+[^3-15]: The Hebrew is very difficult. Literally "oaths of rods, a word". *Rods* may mean "arrows" (verse 14) or "tribes".
+[^3-16]: Compare Psalm 77:17–19 (77:16–18 in most English Bibles).
+[^3-17]: Hebrew *zevulah*, "lofty dwelling". Compare Joshua 10:12–13.
+[^3-18]: Hebrew *mashiach*, a king or priest anointed with oil, here probably the king of Israel, or the people as a whole.
+[^3-19]: Literally "laying bare the foundation up to the neck". The picture moves between a house and a body.
+[^3-20]: Literally "With his rods you pierced the head of his warriors". The Hebrew text is written "his warrior" but read "his warriors". The meaning of the word for warriors, *perazav*, is uncertain.
+[^3-21]: Literally "my belly trembled".
+[^3-22]: Or "I must wait quietly". Hebrew *anuach*, "I will rest".
+[^3-23]: Hebrew *YHWH Adonai*, "Yahweh, my Lord".
+[^3-24]: Nearly the same words are found in Psalm 18:34 (18:33 in most English Bibles).
+[^3-25]: *For the director*: Hebrew *lamenatseach*, probably the leader of the temple music, a note found at the head of many psalms (Psalm 4:1). Here it closes the psalm.
