@@ -1699,6 +1699,111 @@
 [^24-4]: Hebrew *masger*, perhaps "smith" or "locksmith" (2 Kings 24:14).
 [^24-5]: Hebrew *Kasdim*, traditionally "Chaldeans": the people of southern Mesopotamia whose kings then ruled Babylon.
 
+## Chapter 25
+
+*Status: draft*
+
+**1** The word that came to Jeremiah concerning all the people of Judah in the fourth year of Jehoiakim son of Josiah king of Judah, which was the first year of Nebuchadnezzar[^25-1] king of Babylon.
+
+**2** Jeremiah the prophet spoke it to all the people of Judah and to all the inhabitants of Jerusalem:
+
+**3** For twenty-three years, from the thirteenth year of Josiah son of Amon king of Judah until this day, the word of Yahweh[^25-2] has come to me, and I have spoken to you again and again,[^25-3] but you have not listened.
+
+**4** Yahweh has sent you all his servants the prophets, sending them again and again, but you have not listened or paid any attention.
+
+**5** They said, "Turn back, each of you, from your evil way and your evil deeds, and you will live[^25-4] in the land Yahweh gave to you and your ancestors for all time.
+
+**6** Do not follow other gods to serve them and worship them, and do not provoke me to anger with what your hands have made. Then I will not harm you."
+
+**7** But you did not listen to me, declares Yahweh, and so you provoked me to anger with what your hands have made, to your own harm.
+
+**8** Therefore this is what Yahweh of Armies[^25-5] says: Because you have not listened to my words,
+
+**9** I am going to send for all the clans of the north, declares Yahweh, and for my servant Nebuchadnezzar king of Babylon.[^25-6] I will bring them against this land and its inhabitants and against all these nations around it. I will destroy them completely[^25-7] and make them a horror, a thing to hiss at, and an everlasting ruin.
+
+**10** I will banish from them the sound of joy and the sound of gladness, the voice of the bridegroom and the voice of the bride, the sound of the millstones and the light of the lamp.
+
+**11** This whole land will become a ruin and a desolation, and these nations will serve the king of Babylon for seventy years.[^25-8]
+
+**12** But when the seventy years are complete, I will punish the king of Babylon and that nation for their wrongdoing, declares Yahweh, and the land of the Babylonians,[^25-9] and I will make it a desolation forever.
+
+**13** I will bring on that land all the words I have spoken against it, all that is written in this book, which Jeremiah prophesied against all the nations.[^25-10]
+
+**14** For many nations and great kings will make slaves of them too, and I will repay them according to their deeds and the work of their hands.
+
+**15** For this is what Yahweh, the God of Israel, said to me: Take from my hand this cup of the wine of wrath, and make all the nations to whom I send you drink it.
+
+**16** They will drink and stagger and go mad because of the sword I am sending among them.
+
+**17** So I took the cup from Yahweh's hand and made all the nations to whom Yahweh sent me drink it:
+
+**18** Jerusalem and the cities of Judah, its kings and its officials, to make them a ruin, a horror, a thing to hiss at and a curse, as they are today;
+
+**19** Pharaoh king of Egypt, his servants, his officials and all his people;
+
+**20** all the mixed peoples;[^25-11] all the kings of the land of Uz;[^25-12] all the kings of the land of the Philistines: Ashkelon, Gaza, Ekron and what remains of Ashdod;
+
+**21** Edom, Moab and the Ammonites;
+
+**22** all the kings of Tyre, all the kings of Sidon, and the kings of the coastlands across the sea;
+
+**23** Dedan, Tema, Buz[^25-13] and all who clip the hair on their temples;[^25-14]
+
+**24** all the kings of Arabia and all the kings of the mixed peoples who live in the desert;[^25-15]
+
+**25** all the kings of Zimri,[^25-16] all the kings of Elam and all the kings of Media;
+
+**26** all the kings of the north, near and far, one after another; and all the kingdoms of the world on the face of the earth. And after them the king of Sheshach will drink.[^25-17]
+
+**27** Then say to them: This is what Yahweh of Armies, the God of Israel, says: Drink, get drunk and vomit; fall and rise no more, because of the sword I am sending among you.
+
+**28** And if they refuse to take the cup from your hand and drink, say to them: This is what Yahweh of Armies says: You must drink it!
+
+**29** For look, I am beginning to bring disaster on the city that bears my name,[^25-18] and will you go unpunished? You will not go unpunished, for I am summoning a sword against all the inhabitants of the earth, declares Yahweh of Armies.
+
+**30** As for you, prophesy all these words against them, and say to them: Yahweh roars from on high; from his holy dwelling he raises his voice. He roars mightily against his pasture; he shouts like those who tread grapes, against all who live on the earth.[^25-19]
+
+**31** The uproar resounds to the ends of the earth, for Yahweh has a case[^25-20] against the nations; he is entering into judgment with all humankind.[^25-21] The wicked he will hand over to the sword, declares Yahweh.
+
+**32** This is what Yahweh of Armies says: Look, disaster is spreading from nation to nation; a great storm is being stirred up from the farthest parts of the earth.
+
+**33** On that day those slain by Yahweh will lie from one end of the earth to the other. They will not be mourned or gathered up or buried; they will be like dung on the surface of the ground.
+
+**34** Wail, you shepherds, and cry out! Roll in the dust, you leaders of the flock![^25-22] For the days of your slaughter and your scattering have come, and you will fall like a precious vessel.
+
+**35** There will be no escape for the shepherds, no way out for the leaders of the flock.
+
+**36** Listen! The cry of the shepherds, the wailing of the leaders of the flock, for Yahweh is destroying their pasture.
+
+**37** The peaceful meadows are laid waste[^25-23] because of the fierce anger of Yahweh.
+
+**38** Like a lion he has left his lair, for their land has become a desolation because of the fury of the oppressor,[^25-24] and because of his fierce anger.
+
+[^25-1]: Hebrew *Nevukhadre'tsar*: see 21:2. The year is 605 BC, when Nebuchadnezzar defeated the Egyptians at Carchemish (46:2) and became king of Babylon.
+[^25-2]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^25-3]: Literally "rising early and speaking". Also in verse 4.
+[^25-4]: A wordplay: *shuvu*, "turn back", and *u-shevu*, "and live".
+[^25-5]: *Yahweh of Armies* (Hebrew *YHWH tseva'ot*) is traditionally "the LORD of hosts" or "the LORD Almighty". *Tseva'ot* means armies: the heavenly hosts and the armies of Israel. Also in verses 27–29 and 32.
+[^25-6]: The Septuagint does not have "and for my servant Nebuchadnezzar king of Babylon". In its text of verses 1–13 the enemy from the north is not named.
+[^25-7]: Hebrew *charam*, to devote something to destruction, as an offering to God that no one may keep (Deuteronomy 7:2; Joshua 6:17).
+[^25-8]: Compare 29:10; 2 Chronicles 36:21; Daniel 9:2. Babylon fell to the Persians in 539 BC, about seventy years after Nebuchadnezzar came to power.
+[^25-9]: Hebrew *Kasdim*, traditionally "Chaldeans": the people of southern Mesopotamia whose kings then ruled Babylon.
+[^25-10]: The Septuagint of Jeremiah is about one-eighth shorter than the Hebrew text, and it arranges the book differently. It ends this verse at "all that is written in this book", and uses the next words, "which Jeremiah prophesied against the nations", as the heading of the oracles against the nations, which in the Hebrew are chapters 46–51. They follow here, in a different order, and after them comes 25:15–38. Verse 14 is not in the Septuagint. From here on its chapter numbers differ from the Hebrew: Hebrew chapters 26–45 are Septuagint chapters 33–51. Hebrew fragments of Jeremiah found at Qumran (4QJer-b and 4QJer-d) show that a shorter Hebrew text, like the one the Septuagint translates, also existed.
+[^25-11]: Hebrew *ha-erev*, "the mixture", perhaps foreigners living in Egypt (compare Exodus 12:38), or the desert tribes of verse 24.
+[^25-12]: A region east or southeast of Israel, near Edom (Job 1:1; Lamentations 4:21).
+[^25-13]: Peoples and oases of northern Arabia.
+[^25-14]: Literally "all who are cut at the corners": see 9:25 (9:26 in most English Bibles).
+[^25-15]: In Hebrew *arav*, "Arabia", and *ha-erev*, "the mixed peoples", are written with the same consonants.
+[^25-16]: An unknown people.
+[^25-17]: *Sheshach* is a code name for Babylon, made by the cipher called *atbash*, in which each letter of the alphabet is replaced by the letter in the same place counting from the end (the first letter by the last, the second by the next-to-last, and so on). So *Bavel* (the letters *b-b-l*) becomes *Sheshakh* (*sh-sh-k*). It is used again in 51:41, beside the name Babylon. The Septuagint does not have this sentence.
+[^25-18]: Literally "over which my name is called": Jerusalem.
+[^25-19]: Compare Amos 1:2; Joel 4:16 (3:16 in most English Bibles).
+[^25-20]: Hebrew *riv*, to bring a case against someone, as in a court of law.
+[^25-21]: Literally "with all flesh".
+[^25-22]: Literally "you majestic ones of the flock". Also in verses 35 and 36. The shepherds and leaders are the rulers of the nations.
+[^25-23]: Literally "are silenced".
+[^25-24]: Literally "the burning of the oppressor". Some scholars read "the sword of the oppressor", as in 46:16 and 50:16, with a small change to the Hebrew.
+
 ## Chapter 29
 
 *Status: draft*
@@ -2097,3 +2202,76 @@
 [^32-25]: The low hills between the hill country of Judah and the coastal plain.
 [^32-26]: The dry region in the south of Judah.
 [^32-27]: Literally "turn their turning", an idiom for restoring what was lost. Or "bring back their captives".
+
+## Chapter 33
+
+*Status: draft*
+
+**1** The word of Yahweh[^33-1] came to Jeremiah a second time, while he was still confined in the courtyard of the guard:
+
+**2** This is what Yahweh says, who made it, Yahweh who formed it to establish it, Yahweh is his name:[^33-2]
+
+**3** Call to me, and I will answer you and tell you great and hidden things[^33-3] that you have not known.
+
+**4** For this is what Yahweh, the God of Israel, says about the houses of this city and the houses of the kings of Judah that have been torn down to make defenses against the siege ramps and against the sword:[^33-4]
+
+**5** They are coming to fight the Babylonians,[^33-5] only to fill these houses with the corpses of the people I have struck down in my anger and my wrath, for I have hidden my face from this city because of all their evil.
+
+**6** Look, I am going to bring it new flesh and healing. I will heal them and reveal to them an abundance[^33-6] of peace and faithfulness.
+
+**7** I will restore the fortunes[^33-7] of Judah and the fortunes of Israel, and I will rebuild them as they were at first.
+
+**8** I will cleanse them from all the guilt of their sin against me, and I will forgive all the guilt of their sin and their rebellion against me.
+
+**9** This city will be to me a name of joy, a praise and a glory before all the nations of the earth, who will hear of all the good I do for them. They will fear and tremble because of all the good and all the peace that I provide for it.
+
+**10** This is what Yahweh says: In this place, of which you say, "It is a ruin, without human beings or animals," in the cities of Judah and the streets of Jerusalem that are desolate, without human beings, without inhabitants and without animals, there will be heard again
+
+**11** the sound of joy and the sound of gladness, the voice of the bridegroom and the voice of the bride,[^33-8] and the voices of those who say, "Give thanks to Yahweh of Armies,[^33-9] for Yahweh is good; his faithful love[^33-10] endures forever!" as they bring thank offerings to the house of Yahweh. For I will restore the fortunes of the land as they were at first, says Yahweh.
+
+**12** This is what Yahweh of Armies says: In this place that is a ruin, without human beings or animals, and in all its cities, there will again be pasture for shepherds resting their flocks.
+
+**13** In the cities of the hill country, in the cities of the Shephelah and in the cities of the Negev,[^33-11] in the land of Benjamin, in the places around Jerusalem and in the cities of Judah, flocks will again pass under the hands of the one who counts them, says Yahweh.
+
+**14** Look, the days are coming, declares Yahweh, when I will fulfill the good promise I made to the house of Israel and the house of Judah.[^33-12]
+
+**15** In those days and at that time I will cause a righteous Branch[^33-13] to sprout for David, and he will do justice and righteousness in the land.
+
+**16** In those days Judah will be saved, and Jerusalem will live in safety. This is the name by which she will be called: Yahweh Is Our Righteousness.[^33-14]
+
+**17** For this is what Yahweh says: David will never lack a man to sit on the throne of the house of Israel,[^33-15]
+
+**18** and the Levitical priests will never lack a man before me to offer burnt offerings, to burn grain offerings and to make sacrifices for all time.
+
+**19** The word of Yahweh came to Jeremiah:
+
+**20** This is what Yahweh says: If you can break my covenant with the day and my covenant with the night, so that day and night no longer come at their appointed time,
+
+**21** then my covenant with David my servant can also be broken, so that he will have no son to reign on his throne, and my covenant with the Levitical priests, my ministers.
+
+**22** As the host of heaven cannot be counted and the sand of the sea cannot be measured, so I will multiply the descendants of David my servant and the Levites who minister to me.
+
+**23** The word of Yahweh came to Jeremiah:
+
+**24** Have you not seen what this people have been saying: "The two clans that Yahweh chose, he has rejected"?[^33-16] So they despise my people, and no longer regard them as a nation.
+
+**25** This is what Yahweh says: If I have not established my covenant with day and night, and the decrees of heaven and earth,
+
+**26** then I will also reject the descendants of Jacob and of David my servant, and will not choose rulers from his descendants over the descendants of Abraham, Isaac and Jacob. For I will restore their fortunes and have compassion on them.
+
+[^33-1]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^33-2]: *It* is probably the earth. The Septuagint reads "who made the earth".
+[^33-3]: Literally "fortified things", that is, things out of reach.
+[^33-4]: The Hebrew of verses 4–5 is difficult. Houses were pulled down to strengthen the city walls during the siege (compare Isaiah 22:10).
+[^33-5]: Hebrew *Kasdim*, traditionally "Chaldeans": the people of southern Mesopotamia whose kings then ruled Babylon.
+[^33-6]: Hebrew *ateret*, a rare word, perhaps "abundance" or "riches".
+[^33-7]: Literally "turn the turning", an idiom for restoring what was lost. Or "bring back the captives". Also in verses 11 and 26.
+[^33-8]: The sounds that Yahweh had said he would silence (7:34; 16:9; 25:10).
+[^33-9]: *Yahweh of Armies* (Hebrew *YHWH tseva'ot*) is traditionally "the LORD of hosts" or "the LORD Almighty". *Tseva'ot* means armies: the heavenly hosts and the armies of Israel. Also in verse 12.
+[^33-10]: Hebrew *chesed*: loyal, faithful love. The words of thanksgiving are a refrain of the Psalms (Psalm 106:1; 136:1).
+[^33-11]: The Shephelah is the low hills between the hill country of Judah and the coastal plain, and the Negev the dry region in the south of Judah.
+[^33-12]: Verses 14–26 are not in the Septuagint. Verses 14–16 repeat, with some differences, 23:5–6.
+[^33-13]: Hebrew *tsemach*, "sprout, branch", a title of a coming king of David's line (23:5; Zechariah 3:8; 6:12).
+[^33-14]: Hebrew *YHWH tsidqenu*. In 23:6 this is the name of the king; here it is the name of Jerusalem. It may play on the name of King Zedekiah, Hebrew *Tsidqiyyahu*, "Yahweh is my righteousness".
+[^33-15]: Compare 2 Samuel 7:16 and 1 Kings 2:4.
+[^33-16]: The two clans are probably Israel and Judah, or perhaps the families of David and of Levi (verses 17–22).
