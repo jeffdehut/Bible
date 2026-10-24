@@ -1034,7 +1034,7 @@
 
 **51** Samaria did not commit half your sins. You have done more detestable things than they did, and you have made your sisters[^16-42] seem righteous by all the detestable things you have done.
 
-**52** You too must bear your disgrace, for you have pleaded your sisters' case.[^16-43] Because of your sins, in which you acted more detestably than they, they are more in the right than you. So you too be ashamed and bear your disgrace, for you have made your sisters seem righteous.
+**52** You too must bear your disgrace, for you have pleaded your sister's case.[^16-43] Because of your sins, in which you acted more detestably than they, they are more in the right than you. So you too be ashamed and bear your disgrace, for you have made your sisters seem righteous.
 
 **53** I will restore their fortunes,[^16-44] the fortunes of Sodom and her daughters and the fortunes of Samaria and her daughters, and I will restore your fortunes along with theirs,[^16-45]
 
@@ -1100,7 +1100,7 @@
 [^16-40]: Literally "strengthen the hand of".
 [^16-41]: Or "as I saw fit".
 [^16-42]: The Hebrew text is written "your sister" but read "your sisters".
-[^16-43]: Literally "for you have mediated for your sisters": your sins make theirs look small by comparison.
+[^16-43]: Literally "which you have mediated for your sister": your sins make hers look small by comparison.
 [^16-44]: Hebrew *shav shevut*, literally "turn the turning", traditionally "turn the captivity": to restore good fortune.
 [^16-45]: Literally "the fortunes of your fortunes in their midst".
 [^16-46]: Or "Was not your sister Sodom a byword in your mouth".
