@@ -133,7 +133,8 @@ from the Hebrew.
   marks a verse missing from the Leningrad Codex (Joshua 21:36–37): translate it and say so
   in a note.
 - Ketiv/qere: translate the qere (the read form). Where the ketiv (the written form) would be
-  translated differently, even only in number ("its post"/"its posts"), give it in a note:
+  translated differently in English, even only in number ("its post"/"its posts"), give it in a
+  note; where the English would be the same, don't:
   "The Hebrew text is written 'X' but read 'Y'." Differences of spelling alone are not noted.
 - A speech that runs on into the next chapter reopens its quotation at the chapter's first
   verse, as English does for a new paragraph of the same speech, and closes it only where the

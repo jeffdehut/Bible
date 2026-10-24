@@ -1582,3 +1582,448 @@
 [^19-19]: Hebrew *ya'rim*, from the same root as *ormah*, "prudence" (see 1:4).
 [^19-20]: Hebrew *ed beliyya'al*, "a witness of worthlessness" (see 6:12).
 [^19-21]: Hebrew *resha'im*, plural of *rasha*: those who are guilty of wrong (see 2:22).
+
+## Chapter 20
+
+*Status: draft*
+
+**1** Wine is a mocker,[^20-1] beer a brawler, and whoever is led astray by it is not wise.
+
+**2** The terror of a king is like the roar of a lion; whoever provokes him forfeits his life.
+
+**3** It is an honor for a person to keep away from strife, but every fool[^20-2] bursts into quarrels.
+
+**4** The lazy person[^20-3] does not plow in autumn; at harvest he looks for a crop, and there is nothing.
+
+**5** The purpose in a person's heart is deep water, but a person of insight[^20-4] draws it out.
+
+**6** Many a person proclaims his own loyalty,[^20-5] but a faithful person, who can find?
+
+**7** The righteous[^20-6] walks in his integrity; happy[^20-7] are his children after him.
+
+**8** A king who sits on the throne of judgment winnows out all evil with his eyes.
+
+**9** Who can say, "I have made my heart clean; I am pure from my sin"?
+
+**10** Two different weights and two different measures,[^20-8] both are detestable to Yahweh.[^20-9]
+
+**11** Even a child makes himself known by his actions,[^20-10] whether his conduct is pure and right.
+
+**12** The ear that hears and the eye that sees, Yahweh has made them both.
+
+**13** Do not love sleep, or you will become poor; open your eyes, and you will have plenty of bread.
+
+**14** "Bad, bad," says the buyer; but when he goes on his way, then he boasts.
+
+**15** There is gold and plenty of coral,[^20-11] but lips of knowledge are a precious jewel.
+
+**16** Take the garment of one who puts up security for a stranger; hold it in pledge for a foreign woman.[^20-12]
+
+**17** Bread gained by deceit is sweet to a person, but afterward his mouth will be full of gravel.
+
+**18** Plans are established by advice; wage war with guidance.[^20-13]
+
+**19** Whoever goes about as a gossip reveals secrets, so do not associate with one who talks too much.
+
+**20** Whoever curses his father or his mother, his lamp will go out in the blackest darkness.
+
+**21** An inheritance gained in haste at the beginning[^20-14] will not be blessed in the end.
+
+**22** Do not say, "I will pay back evil!" Wait for Yahweh, and he will rescue you.
+
+**23** Two different weights are detestable to Yahweh, and dishonest scales are not good.
+
+**24** A man's steps are from Yahweh; how then can anyone understand his own way?
+
+**25** It is a trap for a person to say rashly, "It is holy!"[^20-15] and only afterward to think about his vows.
+
+**26** A wise king winnows out the wicked[^20-16] and drives the wheel over them.[^20-17]
+
+**27** The human spirit[^20-18] is the lamp of Yahweh, searching all the inner parts of the body.
+
+**28** Faithful love and truth[^20-19] guard a king; by faithful love his throne is upheld.
+
+**29** The glory of young men is their strength, and the splendor of the old is their gray hair.
+
+**30** Blows that wound scour away evil, and beatings, the inner parts of the body.[^20-20]
+
+[^20-1]: Hebrew *lets*, the word used for the person who scorns wisdom (see 1:22).
+[^20-2]: Hebrew *ewil*, the morally perverse, stubborn fool (see 1:7).
+[^20-3]: Hebrew *atsel*, traditionally "sluggard" (see 6:6).
+[^20-4]: Hebrew *tevunah* (see 2:2).
+[^20-5]: Hebrew *chesed*, "faithful love".
+[^20-6]: Hebrew *tsaddiq*: one who does what is right (see 2:20).
+[^20-7]: Hebrew *ashrei*: happy, fortunate; traditionally "blessed".
+[^20-8]: Literally "a stone and a stone, an ephah and an ephah", one for buying and one for selling. Hebrew *ephah*, a measure for grain, used here for any measure of volume. Compare Deuteronomy 25:13–15.
+[^20-9]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^20-10]: Or "Even a child may disguise himself by his actions".
+[^20-11]: Hebrew *peninim*, as in 3:15.
+[^20-12]: The Hebrew text is written "for foreigners" but read "for a foreign woman". Compare 27:13.
+[^20-13]: Hebrew *tachbulot*, as in 1:5.
+[^20-14]: The Hebrew text is written with a different word, perhaps "gained greedily", but read "gained in haste".
+[^20-15]: That is, to dedicate something to God without thinking.
+[^20-16]: Hebrew *resha'im*, plural of *rasha*: those who are guilty of wrong (see 2:22).
+[^20-17]: The wheel of a threshing cart, used to separate grain from straw (Isaiah 28:27–28).
+[^20-18]: Literally "The breath (*neshamah*) of a human being" (Genesis 2:7).
+[^20-19]: Hebrew *chesed ve-emet*: faithful love and reliability (see 3:3).
+[^20-20]: Literally "and blows, the chambers of the belly". The verb of the first line is understood again here.
+
+## Chapter 21
+
+*Status: draft*
+
+**1** The king's heart is like streams of water in the hand of Yahweh;[^21-1] he turns it wherever he wishes.
+
+**2** All a person's ways seem right in his own eyes, but Yahweh weighs hearts.
+
+**3** Doing righteousness and justice is more acceptable to Yahweh than sacrifice.
+
+**4** Haughty eyes and a proud heart, the lamp[^21-2] of the wicked,[^21-3] are sin.
+
+**5** The plans of the diligent lead only to profit, but everyone who is hasty comes only to need.
+
+**6** Getting treasures by a lying tongue is a vapor[^21-4] blown away, for those who seek death.[^21-5]
+
+**7** The violence of the wicked will sweep them away, because they refuse to do what is just.
+
+**8** The way of a guilty person[^21-6] is crooked, but the conduct of the pure is upright.
+
+**9** Better to live in a corner of the roof than in a house shared with a quarrelsome wife.
+
+**10** The soul of the wicked craves evil; his neighbor finds no mercy in his eyes.
+
+**11** When a mocker[^21-7] is punished, the simple[^21-8] becomes wise; when a wise person is instructed, he gains knowledge.
+
+**12** The Righteous One[^21-9] observes the house of the wicked; he throws the wicked down to ruin.
+
+**13** Whoever shuts his ears to the cry of the poor will himself call out and not be answered.
+
+**14** A gift given in secret calms anger, and a bribe in the fold of the cloak calms fierce wrath.
+
+**15** When justice is done, it is a joy to the righteous but terror to evildoers.
+
+**16** Whoever wanders from the way of good sense will rest in the assembly of the dead.[^21-10]
+
+**17** Whoever loves pleasure will be poor; whoever loves wine and oil will not grow rich.
+
+**18** The wicked is a ransom for the righteous, and the treacherous takes the place of the upright.
+
+**19** Better to live in a desert land than with a quarrelsome and angry wife.
+
+**20** Precious treasure and oil are in the dwelling of the wise, but a foolish person[^21-11] swallows it up.
+
+**21** Whoever pursues righteousness and faithful love will find life, righteousness[^21-12] and honor.
+
+**22** A wise person climbs the city of the mighty and brings down the stronghold they trusted in.
+
+**23** Whoever guards his mouth and his tongue guards his life from troubles.
+
+**24** The proud and arrogant person, "Mocker" is his name; he acts with insolent fury.
+
+**25** The craving of the lazy person[^21-13] kills him, for his hands refuse to work.
+
+**26** All day long he craves and craves,[^21-14] but the righteous gives and does not hold back.
+
+**27** The sacrifice of the wicked is detestable; how much more when he brings it with evil intent!
+
+**28** A false witness will perish, but one who listens will speak forever.[^21-15]
+
+**29** A wicked man puts on a bold face, but the upright gives thought to his way.[^21-16]
+
+**30** There is no wisdom, no insight,[^21-17] no counsel that can stand against Yahweh.
+
+**31** The horse is made ready for the day of battle, but victory belongs to Yahweh.
+
+[^21-1]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^21-2]: The Hebrew vowel points read *nir*, "newly plowed ground" (as in 13:23): "the plowing of the wicked". The same consonants can be read *ner*, "lamp" (13:9; 20:27).
+[^21-3]: Hebrew *resha'im*, plural of *rasha*: those who are guilty of wrong (see 2:22).
+[^21-4]: Hebrew *hevel*, "breath, vapor", the word used throughout Ecclesiastes.
+[^21-5]: The Septuagint and the Vulgate read "a snare of death".
+[^21-6]: Hebrew *vazar*, a word found only here, probably "guilty". Or "The way of a man is crooked and strange".
+[^21-7]: Hebrew *lets*: one who scorns wisdom and laughs at correction (see 1:22). Also in verse 24.
+[^21-8]: Hebrew *peti*: a naive, inexperienced person, easily led (see 1:4).
+[^21-9]: Probably God (compare Job 34:17). Or "A righteous person observes the house of the wicked; the wicked are thrown down to ruin". Hebrew *tsaddiq* (see 2:20).
+[^21-10]: Hebrew *rephaim*, the spirits of the dead (see 2:18).
+[^21-11]: Literally "a fool (*kesil*) of a man" (see 1:22).
+[^21-12]: Or "prosperity", as in 8:18.
+[^21-13]: Hebrew *atsel*, traditionally "sluggard" (see 6:6).
+[^21-14]: Literally "he craves a craving", probably the lazy person of verse 25.
+[^21-15]: Or "will speak with lasting effect". Hebrew *lanetsach*, "forever, to the end".
+[^21-16]: The Hebrew text is written "makes his ways firm" but read "gives thought to his way".
+[^21-17]: Hebrew *tevunah* (see 2:2).
+
+## Chapter 22
+
+*Status: draft*
+
+**1** A good name is to be chosen rather than great riches, and favor is better than silver and gold.
+
+**2** The rich and the poor meet together; Yahweh[^22-1] is the maker of them all.
+
+**3** The prudent[^22-2] sees danger and hides himself, but the simple[^22-3] go on and pay for it.
+
+**4** The reward for humility and the fear of Yahweh is riches, honor and life.[^22-4]
+
+**5** Thorns and snares are in the way of the crooked; whoever guards his life will keep far from them.
+
+**6** Train a child in the way he should go;[^22-5] even when he is old he will not turn away from it.
+
+**7** The rich rules over the poor, and the borrower is servant[^22-6] to the lender.
+
+**8** Whoever sows injustice will reap trouble, and the rod of his fury will come to an end.[^22-7]
+
+**9** Whoever has a generous eye will be blessed, for he gives some of his bread to the poor.
+
+**10** Drive out the mocker,[^22-8] and strife goes out; quarreling and insults will stop.
+
+**11** Whoever loves purity of heart[^22-9] and whose speech is gracious will have the king as his friend.
+
+**12** The eyes of Yahweh watch over knowledge, but he overturns the words of the treacherous.
+
+**13** The lazy person[^22-10] says, "There is a lion outside! I will be killed in the streets!"
+
+**14** The mouth of strange women[^22-11] is a deep pit; whoever is cursed by Yahweh will fall into it.
+
+**15** Folly[^22-12] is bound up in the heart of a child, but the rod of discipline[^22-13] will drive it far from him.
+
+**16** Whoever oppresses the poor to increase his own wealth, or gives to the rich, comes only to need.[^22-14]
+
+**17** Turn your ear and listen to the words of the wise,[^22-15] and set your heart on my knowledge,
+
+**18** for it is pleasant if you keep them within you,[^22-16] if all of them are ready on your lips.
+
+**19** So that your trust may be in Yahweh, I have taught you today, even you.
+
+**20** Have I not written for you excellent sayings[^22-17] of advice and knowledge,
+
+**21** to teach you what is right and true, so that you may bring back a true report to those who sent you?
+
+**22** Do not rob the poor because he is poor, and do not crush the afflicted at the gate,[^22-18]
+
+**23** for Yahweh will plead their case and will take the life of those who rob them.
+
+**24** Do not make friends with a hot-tempered person, and do not go about with a man given to anger,
+
+**25** or you will learn his ways[^22-19] and get yourself caught in a snare.
+
+**26** Do not be one of those who shake hands on a pledge, who put up security for debts.
+
+**27** If you have nothing with which to pay, why should your bed be taken from under you?
+
+**28** Do not move the ancient boundary stone that your ancestors set up.
+
+**29** Do you see a man skilled in his work? He will serve before kings; he will not serve before obscure people.
+
+[^22-1]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^22-2]: Hebrew *arum*, "shrewd, prudent" (see 1:4). The verse is repeated in 27:12.
+[^22-3]: Hebrew *peta'im*, plural of *peti*: naive, inexperienced people, easily led (see 1:4).
+[^22-4]: Literally "The reward of humility, the fear of Yahweh, riches and honor and life". Or "The reward of humility, which is the fear of Yahweh, is riches …".
+[^22-5]: Literally "according to his way": the way he should go, or the way that suits him.
+[^22-6]: Or "slave".
+[^22-7]: The Septuagint adds a line, "God blesses a man who is cheerful and generous", echoed in 2 Corinthians 9:7.
+[^22-8]: Hebrew *lets*: one who scorns wisdom and laughs at correction (see 1:22).
+[^22-9]: The Hebrew text is written "the pure of heart" but read "purity of heart".
+[^22-10]: Hebrew *atsel*, traditionally "sluggard" (see 6:6).
+[^22-11]: Hebrew *zarot*, plural of *zarah*, "strange woman", a woman outside one's marriage (see 2:16).
+[^22-12]: Hebrew *iwwelet*, "folly", the word related to *ewil*, "fool" (see 1:7).
+[^22-13]: Hebrew *musar*: discipline, training and correction (see 1:2).
+[^22-14]: The Hebrew is compact. Or "Oppressing the poor may increase a person's wealth, but giving to the rich leads only to need".
+[^22-15]: A new collection begins here (22:17–24:22), "the words of the wise" (compare 24:23). Much of 22:17–23:11 closely resembles an Egyptian work, the Instruction of Amenemope, which is arranged in thirty chapters (compare verse 20).
+[^22-16]: Literally "in your belly".
+[^22-17]: The Hebrew text is written *shilshom*, "formerly", but read *shalishim*, a word that usually means "officers" and is traditionally taken here as "excellent things". Many scholars read *sheloshim*, "thirty (sayings)", with a small change to the Hebrew (compare the note on verse 17).
+[^22-18]: The town gate, where the court met.
+[^22-19]: The Hebrew text is written "his way" but read "his ways".
+
+## Chapter 23
+
+*Status: draft*
+
+**1** When you sit down to eat with a ruler, consider carefully what is before you,[^23-1]
+
+**2** and put a knife to your throat if you have a big appetite.[^23-2]
+
+**3** Do not crave his delicacies, for they are deceptive food.
+
+**4** Do not wear yourself out to get rich; stop relying on your own understanding.[^23-3]
+
+**5** When your eyes fly to it, it is gone;[^23-4] for it will surely make itself wings and fly off to the sky like an eagle.
+
+**6** Do not eat the bread of a stingy person,[^23-5] and do not crave his delicacies,
+
+**7** for he is like one who keeps count in his mind.[^23-6] "Eat and drink!" he says to you, but his heart is not with you.
+
+**8** You will vomit up the morsel you have eaten and waste your pleasant words.
+
+**9** Do not speak in the hearing of a fool,[^23-7] for he will despise the good sense of your words.
+
+**10** Do not move an ancient boundary stone[^23-8] or encroach on the fields of the fatherless,
+
+**11** for their redeemer[^23-9] is strong; he will plead their case against you.
+
+**12** Apply your heart to discipline[^23-10] and your ears to words of knowledge.
+
+**13** Do not withhold discipline from a child; if you strike him with a rod, he will not die.
+
+**14** Strike him with the rod, and you will rescue his life from Sheol.[^23-11]
+
+**15** My son, if your heart is wise, my heart too will be glad,
+
+**16** and my inmost being[^23-12] will rejoice when your lips speak what is right.
+
+**17** Do not let your heart envy sinners, but continue[^23-13] in the fear of Yahweh[^23-14] all day long.
+
+**18** For surely there is a future, and your hope will not be cut off.
+
+**19** Listen, my son, and be wise, and direct your heart in the way.
+
+**20** Do not be among those who drink too much wine or those who gorge themselves on meat,
+
+**21** for the drunkard and the glutton will become poor, and drowsiness clothes them in rags.
+
+**22** Listen to your father, who gave you life, and do not despise your mother when she is old.
+
+**23** Buy truth and do not sell it, wisdom, discipline and understanding.
+
+**24** The father of a righteous person[^23-15] will greatly rejoice; whoever fathers a wise son will be glad in him.
+
+**25** Let your father and mother be glad; let her who bore you rejoice.
+
+**26** My son, give me your heart, and let your eyes keep to my ways.[^23-16]
+
+**27** For a prostitute is a deep pit, and a foreign woman[^23-17] is a narrow well.
+
+**28** She lies in wait like a robber and increases the number of the treacherous among men.
+
+**29** Who has woe? Who has sorrow? Who has quarrels? Who has complaints? Who has wounds for no reason? Who has bloodshot eyes?
+
+**30** Those who linger over wine, who go to taste mixed wine.
+
+**31** Do not look at wine when it is red, when it sparkles in the cup,[^23-18] when it goes down smoothly.
+
+**32** In the end it bites like a snake and stings like a viper.
+
+**33** Your eyes will see strange things,[^23-19] and your heart will speak perverse things.
+
+**34** You will be like one who lies down in the middle of the sea, like one who lies on top of a mast.[^23-20]
+
+**35** "They hit me," you will say,[^23-21] "but I was not hurt; they beat me, but I did not feel it. When will I wake up? I will look for another drink."[^23-22]
+
+[^23-1]: Or "who is before you".
+[^23-2]: Literally "if you are a master of appetite (*nephesh*)".
+[^23-3]: Literally "from your understanding (*binah*), stop". Or "have the sense to stop".
+[^23-4]: Literally "Will you let your eyes fly to it, and it is not?"
+[^23-5]: Literally "one who is evil of eye".
+[^23-6]: The Hebrew of this line is uncertain. Literally "for as he has calculated in his soul, so is he". With different vowels, the same consonants can be read "like a hair in his throat".
+[^23-7]: Hebrew *kesil* (see 1:22).
+[^23-8]: Compare 22:28.
+[^23-9]: Hebrew *go'el*, a relative whose duty was to defend a family member and buy back what he had lost (Leviticus 25:25; Ruth 4:4–6). Here probably God (compare 22:23).
+[^23-10]: Hebrew *musar*: discipline, training and correction (see 1:2). Also in verses 13 and 23.
+[^23-11]: Hebrew *Sheol*, the realm of the dead.
+[^23-12]: Literally "my kidneys", thought of as the seat of the emotions.
+[^23-13]: Literally "but in the fear of Yahweh all day".
+[^23-14]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^23-15]: Hebrew *tsaddiq*: one who does what is right (see 2:20).
+[^23-16]: The Hebrew text is written "delight in my ways" but read "keep to my ways".
+[^23-17]: Hebrew *nokhriyyah*, "foreign woman" (see 2:16).
+[^23-18]: The Hebrew text is written "in the purse" but read "in the cup". Literally "when it gives its eye in the cup".
+[^23-19]: Or "strange women" (22:14).
+[^23-20]: Hebrew *chibbel*, a word found only here, probably "mast" or "rigging".
+[^23-21]: The words *you will say* are not in the Hebrew. The verse gives the drunkard's own words.
+[^23-22]: Literally "I will seek it again".
+
+## Chapter 24
+
+*Status: draft*
+
+**1** Do not envy evil people, and do not desire to be with them,
+
+**2** for their hearts plot violence, and their lips talk of trouble.
+
+**3** By wisdom a house is built, and by insight[^24-1] it is established;
+
+**4** by knowledge its rooms are filled with all kinds of precious and pleasant wealth.
+
+**5** A wise man is strong,[^24-2] and a person of knowledge increases his strength,
+
+**6** for by guidance[^24-3] you wage your war, and with many advisers there is victory.
+
+**7** Wisdom[^24-4] is too high for a fool;[^24-5] in the gate he does not open his mouth.
+
+**8** Whoever plans to do evil will be called a schemer.[^24-6]
+
+**9** The scheming of folly[^24-7] is sin, and a mocker[^24-8] is detestable to people.
+
+**10** If you lose heart in the day of trouble, your strength is small.[^24-9]
+
+**11** Rescue those who are being taken away to death; hold back those who are staggering to the slaughter.
+
+**12** If you say, "But we did not know this," does not the one who weighs hearts understand? Does not the one who guards your life know it? He will repay each person according to what he has done.[^24-10]
+
+**13** Eat honey, my son, for it is good, and the honeycomb is sweet to your taste.
+
+**14** Know that wisdom is like that for your soul; if you find it, there will be a future, and your hope will not be cut off.
+
+**15** Do not lie in wait like a wicked man[^24-11] against the home of the righteous;[^24-12] do not destroy his resting place.
+
+**16** For the righteous falls seven times and rises again, but the wicked stumble in times of disaster.
+
+**17** Do not rejoice when your enemy[^24-13] falls, and do not let your heart be glad when he stumbles,
+
+**18** or Yahweh[^24-14] will see it and be displeased, and turn his anger away from him.
+
+**19** Do not fret because of evildoers or envy the wicked,
+
+**20** for the evil person has no future; the lamp of the wicked will be snuffed out.
+
+**21** My son, fear Yahweh and the king; do not associate with those who are given to change,[^24-15]
+
+**22** for disaster from them will rise suddenly, and who knows the ruin the two of them can bring?[^24-16]
+
+**23** These also are sayings of the wise.[^24-17] Showing partiality[^24-18] in judgment is not good.
+
+**24** Whoever says to the wicked, "You are righteous," peoples will curse him, nations will denounce him.
+
+**25** But those who rebuke the wicked will find delight, and a good blessing will come upon them.
+
+**26** Whoever gives an honest answer kisses the lips.[^24-19]
+
+**27** Put your outdoor work in order and get your fields ready; after that, build your house.[^24-20]
+
+**28** Do not be a witness against your neighbor without cause; would you deceive with your lips?
+
+**29** Do not say, "I will do to him as he has done to me; I will pay the man back for what he has done."
+
+**30** I passed by the field of a lazy man,[^24-21] by the vineyard of a man who lacked sense,[^24-22]
+
+**31** and look, it was all overgrown with thistles; its surface was covered with weeds, and its stone wall was broken down.
+
+**32** I looked and took it to heart; I saw and received discipline:[^24-23]
+
+**33** a little sleep, a little slumber, a little folding of the hands to rest,
+
+**34** and poverty will come on you like a prowler, and need like an armed man.[^24-24]
+
+[^24-1]: Hebrew *tevunah* (see 2:2).
+[^24-2]: Literally "is in strength". The Septuagint reads "A wise man is better than a strong one".
+[^24-3]: Hebrew *tachbulot*, as in 1:5.
+[^24-4]: Hebrew *chokhmot*, as in 1:20.
+[^24-5]: Hebrew *ewil*, the morally perverse, stubborn fool (see 1:7).
+[^24-6]: Literally "a master of schemes". Hebrew *mezimmot*, as in 12:2.
+[^24-7]: Hebrew *iwwelet*, "folly", the word related to *ewil*, "fool" (see 1:7).
+[^24-8]: Hebrew *lets*: one who scorns wisdom and laughs at correction (see 1:22).
+[^24-9]: In Hebrew there is a play on *tsarah*, "trouble", and *tsar*, "small, narrow".
+[^24-10]: Compare Psalm 62:13 (62:12 in most English Bibles); Romans 2:6.
+[^24-11]: Or "Do not lie in wait, you wicked man". Hebrew *rasha* (see 2:22).
+[^24-12]: Hebrew *tsaddiq*: one who does what is right (see 2:20).
+[^24-13]: The Hebrew text is written "your enemies" but read "your enemy".
+[^24-14]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^24-15]: Hebrew *shonim*, "those who change", perhaps rebels. The Septuagint reads "and do not disobey either of them".
+[^24-16]: *The two of them* are probably Yahweh and the king (verse 21).
+[^24-17]: A short collection follows (verses 23–34). From here to the end of the book the Septuagint arranges the material differently. After 24:22 it has 30:1–14, then 24:23–34, then 30:15–33 and 31:1–9, then chapters 25–29, and last 31:10–31.
+[^24-18]: Literally "Recognizing faces".
+[^24-19]: A kiss on the lips may have been a sign of friendship and loyalty.
+[^24-20]: Perhaps "establish your family".
+[^24-21]: Hebrew *atsel*, traditionally "sluggard" (see 6:6).
+[^24-22]: Literally "lacking heart". In Hebrew thought the heart is the seat of understanding.
+[^24-23]: Hebrew *musar*: discipline, training and correction (see 1:2).
+[^24-24]: Verses 33–34 repeat 6:10–11.
