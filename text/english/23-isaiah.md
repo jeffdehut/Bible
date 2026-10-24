@@ -2050,6 +2050,42 @@
 [^34-18]: Hebrew *qippoz*, found only here, perhaps an owl or a kind of snake.
 [^34-19]: Literally "For my mouth, it has commanded, and his Spirit, he has gathered them." The Hebrew moves from "my" to "his". *Spirit* is Hebrew *ruach*, "spirit, wind, breath".
 
+## Chapter 35
+
+*Status: draft*
+
+**1** The wilderness and the dry land will be glad; the desert[^35-1] will rejoice and blossom like the crocus.[^35-2]
+
+**2** It will blossom abundantly and rejoice, yes, rejoice with shouts of joy. The glory of Lebanon will be given to it, the splendor of Carmel and Sharon.[^35-3] They will see the glory of Yahweh,[^35-4] the splendor of our God.
+
+**3** Strengthen the weak hands, and make firm the knees that give way.[^35-5]
+
+**4** Say to those whose hearts are anxious, "Be strong, do not be afraid. Look, your God will come with vengeance; with the recompense of God he will come and save you."
+
+**5** Then the eyes of the blind will be opened and the ears of the deaf unstopped.
+
+**6** Then the lame will leap like a deer, and the tongue of the mute will shout for joy.[^35-6] For water will burst out in the wilderness and streams in the desert.
+
+**7** The burning sand[^35-7] will become a pool, and the thirsty ground springs of water. In the haunts where jackals lay, grass will become reeds and papyrus.[^35-8]
+
+**8** A highway will be there, a road, and it will be called the Way of Holiness. The unclean will not travel on it; it will be for those who walk that way, and fools will not wander onto it.[^35-9]
+
+**9** No lion will be there, and no ravenous beast will go up on it; they will not be found there. But the redeemed[^35-10] will walk there.
+
+**10** Those whom Yahweh has ransomed will return and come to Zion with singing. Everlasting joy will be on their heads. Gladness and joy will overtake them, and sorrow and sighing will flee away.[^35-11]
+
+[^35-1]: Hebrew *aravah*, the dry steppe, and also the name of the rift valley of the Jordan and the Dead Sea (Deuteronomy 1:1). Also in verse 6.
+[^35-2]: Hebrew *chavatselet*, a meadow flower, perhaps a crocus or an asphodel; traditionally "rose" (Song of Songs 2:1).
+[^35-3]: Lebanon was famous for its cedars, and Carmel and Sharon, on the coast of Israel, for their woods and pastures (33:9).
+[^35-4]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^35-5]: Hebrews 12:12 echoes this verse.
+[^35-6]: Jesus' answer to John the Baptist in Matthew 11:5 and Luke 7:22 echoes verses 5–6.
+[^35-7]: Hebrew *sharav*, "scorching heat", perhaps the shimmering heat of the desert or a mirage (49:10).
+[^35-8]: Literally "In the haunt of jackals, its resting place, grass for reed and papyrus." Or "grass and reeds and papyrus". The meaning is uncertain.
+[^35-9]: Or "it will be for them; whoever walks that way, even fools, will not go astray". The Hebrew is difficult.
+[^35-10]: Hebrew *ge'ulim*, those whom Yahweh has rescued as next of kin (41:14).
+[^35-11]: Verse 10 is repeated in 51:11.
+
 ## Chapter 36
 
 *Status: draft*
@@ -2661,3 +2697,1284 @@
 [^43-16]: Hebrew *melitsim*, "interpreters, go-betweens", perhaps the priests and prophets.
 [^43-17]: Or "the holy princes", perhaps the priests. The Hebrew verbs in this verse can also be read as future: "So I will profane … I will hand Jacob over".
 [^43-18]: Hebrew *cherem*, "devotion to destruction" (34:2).
+
+## Chapter 44
+
+*Status: draft*
+
+**1** But now listen, Jacob my servant, Israel whom I have chosen.
+
+**2** This is what Yahweh[^44-1] says, who made you, who formed you from the womb and will help you: Do not be afraid, Jacob my servant, Jeshurun[^44-2] whom I have chosen.
+
+**3** For I will pour water on the thirsty land and streams on the dry ground. I will pour out my Spirit[^44-3] on your offspring and my blessing on your descendants.
+
+**4** They will spring up among the grass,[^44-4] like willows by streams of water.
+
+**5** One will say, "I belong to Yahweh"; another will call himself by the name of Jacob; another will write on his hand, "Yahweh's,"[^44-5] and take the name of Israel as his title.
+
+**6** This is what Yahweh says, the King of Israel and its Redeemer,[^44-6] Yahweh of Armies:[^44-7] I am the first and I am the last; apart from me there is no God.[^44-8]
+
+**7** Who is like me? Let him proclaim it; let him declare it and set it out before me, since I established my ancient people.[^44-9] Let them declare what is coming, and what is going to happen.
+
+**8** Do not tremble or be afraid. Did I not tell you long ago and declare it? You are my witnesses. Is there any God apart from me? There is no other Rock; I know of none.
+
+**9** All who make idols are nothing,[^44-10] and the things they delight in do no good. Their witnesses[^44-11] neither see nor know, so they will be put to shame.
+
+**10** Who would fashion a god or cast an idol that can do no good?
+
+**11** Look, all who join themselves to it[^44-12] will be put to shame; the craftsmen are only human. Let them all gather and take their stand; they will be terrified and put to shame together.
+
+**12** The blacksmith takes a tool and works it over the coals. He shapes the idol with hammers and forges it with his strong arm. He also grows hungry and loses his strength; he drinks no water and grows faint.
+
+**13** The carpenter stretches out a line and marks it out with a stylus. He shapes it with chisels and marks it with compasses. He makes it in the form of a man, with human beauty, to live in a shrine.[^44-13]
+
+**14** He cuts down cedars for himself, or takes a cypress[^44-14] or an oak. He lets it grow strong among the trees of the forest. He plants a laurel,[^44-15] and the rain makes it grow.
+
+**15** Then it becomes fuel for people to burn. He takes some of it and warms himself; he kindles a fire and bakes bread. He also makes a god and worships it; he makes it an idol and bows down to it.
+
+**16** Half of it he burns in the fire. Over that half he eats meat; he roasts a roast and is satisfied. He also warms himself and says, "Ah! I am warm; I have seen the fire!"
+
+**17** And the rest of it he makes into a god, his idol. He bows down to it and worships; he prays to it and says, "Save me, for you are my god!"
+
+**18** They do not know or understand, for their eyes are plastered over so that they cannot see, and their minds[^44-16] so that they cannot understand.
+
+**19** No one stops to think;[^44-17] no one has the knowledge or understanding to say, "Half of it I burned in the fire; I also baked bread on its coals; I roast meat and eat it. Shall I make the rest of it a detestable thing? Shall I bow down to a block of wood?"
+
+**20** He feeds on ashes.[^44-18] A deceived heart has led him astray, and he cannot save himself[^44-19] or say, "Is not this thing in my right hand a lie?"
+
+**21** Remember these things, Jacob, Israel, for you are my servant. I formed you; you are my servant. Israel, you will not be forgotten by me.[^44-20]
+
+**22** I have wiped out your rebellious acts like a cloud, and your sins like mist. Return to me, for I have redeemed you.
+
+**23** Sing for joy, you heavens, for Yahweh has done it! Shout aloud, you depths of the earth! Break into song, you mountains, you forest and every tree in it! For Yahweh has redeemed Jacob, and he shows his glory in Israel.
+
+**24** This is what Yahweh says, your Redeemer, who formed you from the womb: I am Yahweh, who made all things, who alone stretched out the heavens, who spread out the earth by myself,[^44-21]
+
+**25** who frustrates the signs of false prophets[^44-22] and makes fools of diviners, who turns back the wise and makes their knowledge foolish,
+
+**26** who carries out the word of his servant and fulfills the counsel of his messengers, who says of Jerusalem, "She will be inhabited," and of the towns of Judah, "They will be rebuilt, and I will raise up her ruins,"
+
+**27** who says to the deep, "Be dry! I will dry up your rivers,"[^44-23]
+
+**28** who says of Cyrus,[^44-24] "He is my shepherd, and he will carry out all that I desire," saying of Jerusalem, "She will be rebuilt," and of the temple, "Its foundations will be laid."
+
+[^44-1]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^44-2]: A poetic name for Israel, perhaps "the upright one" (Deuteronomy 32:15; 33:5, 26).
+[^44-3]: Hebrew *ruach*, "spirit, wind, breath".
+[^44-4]: Literally "in between grass".
+[^44-5]: Literally "will write his hand: To Yahweh". Or "will write with his hand". The mark would show to whom he belongs, as a slave's or a soldier's mark showed his master.
+[^44-6]: Hebrew *go'el* (41:14). Also in verse 24.
+[^44-7]: *Yahweh of Armies* (Hebrew *YHWH tseva'ot*) is traditionally "the LORD of hosts" or "the LORD Almighty". *Tseva'ot* means armies: the heavenly hosts and the armies of Israel.
+[^44-8]: Compare 41:4; 48:12. Revelation 1:17; 2:8 and 22:13 echo these words.
+[^44-9]: Literally "since I set up a people of long ago". The meaning is uncertain.
+[^44-10]: Hebrew *tohu*, "emptiness" (40:17).
+[^44-11]: In the Hebrew text, dots are written over the next word (*hemmah*, "they"), a scribal mark of doubt.
+[^44-12]: Literally "all its companions", that is, its worshipers.
+[^44-13]: Literally "to sit in a house".
+[^44-14]: Hebrew *tirzah*, a word found only here, perhaps a kind of cypress or holm oak.
+[^44-15]: Hebrew *oren*, perhaps a laurel, pine or cedar. In the Hebrew text one letter of this word (*nun*) is written small, a scribal mark.
+[^44-16]: Literally "their hearts".
+[^44-17]: Literally "No one brings it back to his heart".
+[^44-18]: Or "He tends ashes", as a shepherd tends a flock. Hebrew *ro'eh efer*.
+[^44-19]: Literally "his *nephesh*".
+[^44-20]: Or "you must not forget me". The Hebrew form is unusual.
+[^44-21]: The Hebrew text is written "Who was with me?" but read "by myself".
+[^44-22]: Hebrew *baddim*, "babblers", probably prophets who speak empty words, or diviners.
+[^44-23]: The *deep* (Hebrew *tsulah*) may be the sea or the river of Babylon, and the words recall the drying of the Red Sea (51:10; Exodus 14:21).
+[^44-24]: Cyrus II, king of Persia (559–530 BC). He conquered Babylon in 539 BC and allowed the exiles to return to Judah and rebuild the temple (Ezra 1:1–4). Isaiah names him here and in 45:1.
+
+## Chapter 45
+
+*Status: draft*
+
+**1** This is what Yahweh[^45-1] says to his anointed,[^45-2] to Cyrus, whose right hand I have grasped to subdue nations before him and to strip kings of their armor,[^45-3] to open doors before him, so that gates will not be shut:
+
+**2** I will go before you and level the mountains.[^45-4] I will break down doors of bronze and cut through bars of iron.
+
+**3** I will give you treasures hidden in darkness, riches stored in secret places, so that you may know that I am Yahweh, the God of Israel, who calls you by name.
+
+**4** For the sake of Jacob my servant, and Israel my chosen, I call you by your name; I give you a title of honor, though you do not know me.
+
+**5** I am Yahweh, and there is no other; apart from me there is no God. I will arm you,[^45-5] though you do not know me,
+
+**6** so that people may know, from the rising of the sun to its setting, that there is none besides me. I am Yahweh, and there is no other.
+
+**7** I form light and create darkness; I make well-being and create disaster.[^45-6] I, Yahweh, do all these things.
+
+**8** Rain down from above, you heavens, and let the clouds pour down righteousness.[^45-7] Let the earth open, so that salvation may bear fruit, and let righteousness spring up with it. I, Yahweh, have created it.
+
+**9** Woe to[^45-8] the one who quarrels with his Maker,[^45-9] a pot among the pots of earth! Does the clay say to the one who forms it, "What are you making?" or "Your work has no handles"?[^45-10]
+
+**10** Woe to the one who says to a father, "What are you fathering?" or to a woman, "What are you giving birth to?"
+
+**11** This is what Yahweh says, the Holy One of Israel, and its Maker: Would you question me about things to come, about my children, or give me orders about the work of my hands?[^45-11]
+
+**12** It was I who made the earth and created humankind on it. My own hands stretched out the heavens, and I commanded all their army.[^45-12]
+
+**13** I myself have stirred him up in righteousness,[^45-13] and I will make all his ways straight. He will rebuild my city and set my exiles free, not for a price or a bribe, says Yahweh of Armies.[^45-14]
+
+**14** This is what Yahweh says: The wealth of Egypt and the merchandise of Cush, and the Sabeans,[^45-15] men of great height, will come over to you and be yours.[^45-16] They will walk behind you, coming over in chains. They will bow down to you and plead with you:[^45-17] "Surely God is with you, and there is no other; there is no other god."
+
+**15** Truly you are a God who hides himself, the God of Israel, the Savior.[^45-18]
+
+**16** They will be put to shame and disgraced, all of them; the makers of idols go off together in disgrace.
+
+**17** But Israel is saved by Yahweh with an everlasting salvation. You will not be put to shame or disgraced, to ages everlasting.
+
+**18** For this is what Yahweh says, who created the heavens (he is God), who formed the earth and made it (he established it; he did not create it to be empty,[^45-19] but formed it to be inhabited): I am Yahweh, and there is no other.
+
+**19** I did not speak in secret, somewhere in a land of darkness. I did not say to the offspring of Jacob, "Seek me in vain." I, Yahweh, speak what is right; I declare what is true.[^45-20]
+
+**20** Gather together and come; draw near together, you survivors of the nations! They have no knowledge, those who carry around their wooden idols and keep praying to a god who cannot save.
+
+**21** Declare it and present your case; let them take counsel together. Who announced this long ago, who declared it from of old? Was it not I, Yahweh? There is no other god apart from me, a righteous God and a Savior; there is none besides me.
+
+**22** Turn to me and be saved, all the ends of the earth! For I am God, and there is no other.
+
+**23** By myself I have sworn; a word has gone out from my mouth in righteousness, and it will not turn back: To me every knee will bow, every tongue will swear allegiance.[^45-21]
+
+**24** "Only in Yahweh," it will be said of me,[^45-22] "are righteousness and strength."[^45-23] All who raged against him will come to him and be put to shame.
+
+**25** In Yahweh all the offspring of Israel will be found righteous[^45-24] and will glory.
+
+[^45-1]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^45-2]: Hebrew *meshicho*, "his anointed one" (*mashiach*), the title of Israel's kings (1 Samuel 24:7; Psalm 2:2) and the source of the word "Messiah". Only here is it given to a foreign king. The text does not say that Cyrus was anointed with oil: Yahweh has chosen and appointed him for a task, as a king was set apart by anointing.
+[^45-3]: Literally "to loosen the loins of kings", that is, to ungird them, taking off the belts that held their weapons. Yahweh will "gird" Cyrus in verse 5.
+[^45-4]: Hebrew *hadurim*, a word of uncertain meaning, perhaps "swellings" or "rough places". The Great Isaiah Scroll from Qumran (1QIsa-a) and the Septuagint read "mountains".
+[^45-5]: Literally "I will gird you" (verse 1).
+[^45-6]: Hebrew *shalom*, "peace, well-being", and *ra'*, "evil, harm, disaster". The verse sets Yahweh over all that happens, good and bad.
+[^45-7]: Hebrew *tsedeq* and, later in the verse, *tsedaqah*, here God's saving order, which puts things right. Or "victory", "deliverance".
+[^45-8]: Hebrew *hoy*, a cry of mourning, used by the prophets to announce disaster (see 1:4). Also in verse 10.
+[^45-9]: Hebrew *yotser*, "former, potter", from the verb translated "form" in verses 7 and 18. Also later in this verse, "the one who forms it".
+[^45-10]: Literally "and your work: He has no hands". The pot is made to criticize its potter. Compare 29:16; Jeremiah 18:6; Romans 9:20–21.
+[^45-11]: Literally "The things to come, ask me! Concerning my children and concerning the work of my hands, command me!", perhaps said with irony.
+[^45-12]: The stars, pictured as an army (40:26).
+[^45-13]: Hebrew *tsedeq*, here God's right and saving purpose (41:2). *Him* is Cyrus.
+[^45-14]: *Yahweh of Armies* (Hebrew *YHWH tseva'ot*) is traditionally "the LORD of hosts" or "the LORD Almighty". *Tseva'ot* means armies: the heavenly hosts and the armies of Israel.
+[^45-15]: The people of Seba (43:3), far to the south.
+[^45-16]: *You* is feminine singular in this verse: Zion is addressed as a woman.
+[^45-17]: Literally "pray to you".
+[^45-18]: The speaker may be the nations of verse 14, or the prophet.
+[^45-19]: Hebrew *tohu*, "formless, empty" (Genesis 1:2). In verse 19, "in vain" is the same word.
+[^45-20]: Literally "I speak righteousness; I declare what is upright".
+[^45-21]: Romans 14:11 quotes this verse, and Philippians 2:10–11 echoes it, following the Septuagint: "every tongue will confess to God".
+[^45-22]: Literally "Only in Yahweh, he has said to me" or "of me". The Hebrew is difficult.
+[^45-23]: Hebrew *tsedaqot*, plural, "righteous acts, victories".
+[^45-24]: Or "will be vindicated". Hebrew *yitsdequ*.
+
+## Chapter 46
+
+*Status: draft*
+
+**1** Bel bows down; Nebo stoops.[^46-1] Their idols are loaded on animals and cattle. The things you used to carry in procession are loaded as a burden[^46-2] on weary animals.
+
+**2** They stoop and bow down together; they cannot rescue the burden. They themselves[^46-3] go into captivity.
+
+**3** Listen to me, house of Jacob, all the remnant of the house of Israel, you whom I have carried since birth, whom I have borne since you were in the womb.[^46-4]
+
+**4** Even to your old age I am he,[^46-5] and to your gray hairs I will carry you. I have made you, and I will bear you; I will carry you and rescue you.
+
+**5** To whom will you compare me and make me equal? With whom will you liken me, that we may be alike?
+
+**6** Those who pour out gold from the bag and weigh out silver on the scale hire a goldsmith, and he makes it into a god; they bow down and worship it.
+
+**7** They lift it to their shoulders and carry it; they set it in its place, and it stands there; it cannot move from its place. Even when someone cries out to it, it does not answer; it cannot save anyone from his trouble.
+
+**8** Remember this and stand firm;[^46-6] take it to heart, you rebels.
+
+**9** Remember the former things of long ago, for I am God, and there is no other; I am God, and there is none like me.
+
+**10** I declare the end from the beginning, and from ancient times what has not yet been done. I say, "My plan will stand, and I will do all that I please."
+
+**11** I call a bird of prey from the east, the man of my plan[^46-7] from a far country. I have spoken, and I will bring it about; I have planned it, and I will do it.
+
+**12** Listen to me, you stubborn of heart,[^46-8] who are far from righteousness.
+
+**13** I am bringing my righteousness near; it is not far off, and my salvation will not be delayed. I will give salvation in Zion, and my glory to Israel.[^46-9]
+
+[^46-1]: *Bel*, "lord", is a title of Marduk, the chief god of Babylon; *Nebo* (Nabu), his son, was the god of writing and wisdom. Their images were carried in procession at the New Year festival. Here they are carried off on pack animals as the city falls.
+[^46-2]: Hebrew *massa*, the word translated "oracle" in 13:1. Also in verse 2.
+[^46-3]: Literally "their *nephesh*".
+[^46-4]: Babylon's gods must be carried by their worshipers (verses 1 and 7), but Yahweh has carried his people since their birth.
+[^46-5]: Hebrew *ani hu* (41:4).
+[^46-6]: Hebrew *hit'oshashu*, a word found only here, perhaps "take courage" or "show yourselves men". The meaning is uncertain.
+[^46-7]: The Hebrew text is written "his plan" but read "my plan". The *bird of prey* and the man are Cyrus (44:28; 45:1).
+[^46-8]: Literally "you mighty of heart".
+[^46-9]: Or "I will give salvation in Zion to Israel, my glory".
+
+## Chapter 47
+
+*Status: draft*
+
+**1** Go down and sit in the dust, virgin daughter Babylon![^47-1] Sit on the ground without a throne, daughter of the Chaldeans![^47-2] For you will no longer be called tender and delicate.
+
+**2** Take millstones and grind flour.[^47-3] Remove your veil; strip off your skirt; bare your legs and wade through the rivers.
+
+**3** Your nakedness will be exposed; your shame will be seen. I will take vengeance, and I will spare no one.[^47-4]
+
+**4** Our Redeemer, whose name is Yahweh of Armies,[^47-5] is the Holy One of Israel.[^47-6]
+
+**5** Sit in silence and go into darkness, daughter of the Chaldeans, for you will no longer be called the queen of kingdoms.[^47-7]
+
+**6** I was angry with my people; I profaned my inheritance and handed them over to you. You showed them no mercy; even on the old you made your yoke very heavy.
+
+**7** You said, "I will be queen forever." You did not take these things to heart or think about how it would end.
+
+**8** So now hear this, you lover of pleasure, who sit secure, who say in your heart, "I am, and there is no one besides me.[^47-8] I will never sit as a widow or know the loss of children."
+
+**9** Both of these will come on you in a moment, in a single day: loss of children and widowhood. They will come on you in full measure, in spite of your many sorceries and the great power of your spells.
+
+**10** You trusted in your wickedness; you said, "No one sees me." Your wisdom and your knowledge led you astray, and you said in your heart, "I am, and there is no one besides me."
+
+**11** But disaster[^47-9] will come on you, and you will not know how to charm it away.[^47-10] Ruin will fall on you that you cannot buy off;[^47-11] catastrophe will come on you suddenly, which you do not foresee.
+
+**12** Keep on, then, with your spells and your many sorceries, which you have labored at since your youth. Perhaps you will succeed; perhaps you will cause terror.
+
+**13** You are worn out by all your counsel. Let them stand up and save you, those who divide up the heavens,[^47-12] who gaze at the stars, who make known at each new moon what is coming on you.
+
+**14** Look, they are like straw; the fire burns them up. They cannot save themselves[^47-13] from the power of the flame. This is no coal to warm oneself by, no fire to sit in front of!
+
+**15** That is what they are to you, those you have labored with, those who have traded with you since your youth. Each one wanders off his own way; there is no one to save you.
+
+[^47-1]: A poetic name for the city of Babylon and its people, pictured as a young woman (compare "Daughter Zion", 1:8). *You* is feminine singular throughout this chapter.
+[^47-2]: The people of southern Babylonia, whose kings ruled the Babylonian empire (13:19).
+[^47-3]: Grinding grain with a hand mill was the work of slave women (Exodus 11:5). The once delicate lady must now work and cross rivers on the way into captivity.
+[^47-4]: Literally "I will not meet a human being", perhaps "no one will stand in my way" or "I will not spare anyone".
+[^47-5]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles. *Yahweh of Armies* (Hebrew *YHWH tseva'ot*) is traditionally "the LORD of hosts" or "the LORD Almighty". *Tseva'ot* means armies: the heavenly hosts and the armies of Israel.
+[^47-6]: This verse may be a cry of praise by Israel, breaking into Yahweh's words. *Redeemer* is Hebrew *go'el* (41:14).
+[^47-7]: Hebrew *geveret*, "mistress, lady", the woman who rules a household or a queen mother. Also in verse 7.
+[^47-8]: Babylon's boast takes up the words Yahweh uses of himself (45:5–6, 18, 21). Zephaniah 2:15 puts the same words in the mouth of Nineveh, and Revelation 18:7–8 echoes verses 7–9.
+[^47-9]: Hebrew *ra'ah*, "evil, disaster", the same word as *wickedness* in verse 10.
+[^47-10]: Hebrew *shachrah*, perhaps "to charm it away" or "its dawning": "you will not know when it is coming".
+[^47-11]: Hebrew *kapper*, "atone, appease, ransom", the word used in 6:7 for atonement.
+[^47-12]: Hebrew *hovre shamayim*, probably astrologers who divide the sky into regions to read the stars.
+[^47-13]: Literally "their *nephesh*".
+
+## Chapter 48
+
+*Status: draft*
+
+**1** Hear this, house of Jacob, you who are called by the name of Israel and have come from the waters of Judah,[^48-1] you who swear by the name of Yahweh[^48-2] and invoke the God of Israel, but not in truth or righteousness.
+
+**2** For they call themselves after the holy city and lean on the God of Israel; Yahweh of Armies[^48-3] is his name.
+
+**3** The former things I declared long ago; they went out from my mouth, and I announced them. Then suddenly I acted, and they came to pass.
+
+**4** Because I knew that you are stubborn, your neck an iron sinew and your forehead bronze,
+
+**5** I declared them to you long ago; before they came to pass I announced them to you, so that you could not say, "My idol did them; my carved image and my cast image commanded them."
+
+**6** You have heard it; now see it all.[^48-4] Will you not declare it? From now on I announce to you new things, hidden things that you have not known.
+
+**7** They are created now, not long ago; before today you have not heard of them, so that you could not say, "Look, I knew them."
+
+**8** You have never heard, you have never known; from of old your ear has not been opened. For I knew that you would surely act treacherously, and that you were called a rebel from birth.[^48-5]
+
+**9** For the sake of my name I hold back my anger; for the sake of my praise I restrain it for you, so as not to cut you off.
+
+**10** Look, I have refined you, but not as silver; I have chosen you in the furnace of affliction.[^48-6]
+
+**11** For my own sake, for my own sake, I do it; for how can my name be profaned?[^48-7] I will not give my glory to another.
+
+**12** Listen to me, Jacob, Israel whom I called: I am he;[^48-8] I am the first, and I am also the last.
+
+**13** My own hand laid the foundation of the earth, and my right hand spread out the heavens. When I call to them, they stand up together.
+
+**14** Gather, all of you, and listen! Who among them declared these things? The one Yahweh loves will carry out his purpose against Babylon, and his arm will be against the Chaldeans.[^48-9]
+
+**15** I, I have spoken; I have called him. I have brought him, and he will succeed in his way.
+
+**16** Come near to me and hear this: From the beginning I have not spoken in secret; from the time it came to be, I have been there. And now the Lord Yahweh has sent me, and his Spirit.[^48-10]
+
+**17** This is what Yahweh says, your Redeemer,[^48-11] the Holy One of Israel: I am Yahweh your God, who teaches you what is for your good, who leads you in the way you should go.
+
+**18** If only you had paid attention to my commands! Then your peace would have been like a river, and your righteousness like the waves of the sea.
+
+**19** Your offspring would have been like the sand, and your descendants like its grains. Their name would never be cut off or destroyed from before me.
+
+**20** Go out from Babylon! Flee from the Chaldeans! With a shout of joy declare this, proclaim it, send it out to the end of the earth. Say, "Yahweh has redeemed his servant Jacob!"
+
+**21** They did not thirst when he led them through the deserts. He made water flow for them from the rock; he split the rock, and the water gushed out.[^48-12]
+
+**22** There is no peace, says Yahweh, for the wicked.[^48-13]
+
+[^48-1]: Literally "from the waters of Judah", perhaps "from the spring of Judah", the source of the family. Some scholars read *mimme'e*, "from the body of Judah", with a small change to the Hebrew.
+[^48-2]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^48-3]: *Yahweh of Armies* (Hebrew *YHWH tseva'ot*) is traditionally "the LORD of hosts" or "the LORD Almighty". *Tseva'ot* means armies: the heavenly hosts and the armies of Israel.
+[^48-4]: Literally "You have heard; see all of it".
+[^48-5]: Literally "from the womb".
+[^48-6]: Or "I have tested you". The Hebrew verb *bachar*, "choose", has the sense "test" in later Hebrew and Aramaic. The Great Isaiah Scroll from Qumran (1QIsa-a) reads "I have tested you".
+[^48-7]: Literally "how can it be profaned?"
+[^48-8]: Hebrew *ani hu* (41:4).
+[^48-9]: Or "and his arm will be on the Chaldeans". Literally "and his arm Chaldeans". *The one Yahweh loves* is Cyrus (verse 15; 45:1).
+[^48-10]: Or "the Lord Yahweh and his Spirit have sent me", or "the Lord Yahweh has sent me with his Spirit". Here a new speaker, the prophet or the servant, speaks of being sent (compare 49:1–6; 61:1). *Spirit* is Hebrew *ruach*.
+[^48-11]: Hebrew *go'el* (41:14).
+[^48-12]: As in the wilderness after the exodus (Exodus 17:6; Numbers 20:11).
+[^48-13]: This line is repeated in 57:21. Each closes a section of chapters 40–66.
+
+## Chapter 49
+
+*Status: draft*
+
+**1** Listen to me, you coastlands;[^49-1] pay attention, you peoples far away! Yahweh[^49-2] called me before I was born; from my mother's body he named me.[^49-3]
+
+**2** He made my mouth like a sharp sword; in the shadow of his hand he hid me. He made me a polished arrow; in his quiver he concealed me.[^49-4]
+
+**3** He said to me, "You are my servant, Israel, in whom I will show my glory."[^49-5]
+
+**4** But I said, "I have labored in vain; I have spent my strength for nothing and emptiness. Yet surely my cause[^49-6] is with Yahweh, and my reward with my God."
+
+**5** And now Yahweh says, he who formed me from the womb to be his servant, to bring Jacob back to him, so that Israel might be gathered to him[^49-7] (for I am honored in the eyes of Yahweh, and my God has become my strength),
+
+**6** he says, "It is too small a thing for you to be my servant, to raise up the tribes of Jacob and bring back the survivors of Israel. I will also make you a light for the nations, so that my salvation may reach to the end of the earth."[^49-8]
+
+**7** This is what Yahweh says, the Redeemer[^49-9] of Israel and his Holy One, to the one who is deeply despised,[^49-10] abhorred by the nation, the servant of rulers: Kings will see and rise up; princes will bow down, because of Yahweh, who is faithful, the Holy One of Israel, who has chosen you.
+
+**8** This is what Yahweh says: In a time of favor I have answered you, and on a day of salvation I have helped you.[^49-11] I will keep you and make you a covenant for the people,[^49-12] to restore the land and to give out again the desolate inheritances,
+
+**9** saying to the prisoners, "Come out," and to those in darkness, "Show yourselves." They will graze along the roads, and their pasture will be on all the bare heights.
+
+**10** They will not hunger or thirst; the scorching heat and the sun will not strike them. For he who has compassion on them will lead them and guide them to springs of water.[^49-13]
+
+**11** I will make all my mountains into a road, and my highways will be raised up.
+
+**12** Look, these will come from far away; look, these from the north and from the west,[^49-14] and these from the land of Sinim.[^49-15]
+
+**13** Shout for joy, you heavens! Rejoice, you earth! Break into song, you mountains! For Yahweh has comforted his people and will have compassion on his afflicted ones.
+
+**14** But Zion said, "Yahweh has abandoned me; the Lord has forgotten me."
+
+**15** Can a woman forget her nursing child, or have no compassion on the son of her womb? Even if these forget, I will not forget you.[^49-16]
+
+**16** Look, I have engraved you on the palms of my hands; your walls are always before me.
+
+**17** Your children hurry back;[^49-17] those who destroyed you and laid you waste go away from you.
+
+**18** Lift up your eyes and look around: they all gather and come to you. As surely as I live, declares Yahweh, you will put them all on like jewelry; you will tie them on as a bride does.
+
+**19** For your ruins and your desolate places and your devastated land—now you will be too small for your inhabitants, and those who swallowed you up will be far away.
+
+**20** The children born in your time of bereavement will yet say in your hearing, "This place is too cramped for me; make room for me to live."
+
+**21** Then you will say in your heart, "Who bore me these? I was bereaved and barren, exiled and turned away. Who brought these up? Look, I was left all alone; where have these come from?"
+
+**22** This is what the Lord Yahweh says: Look, I will lift up my hand to the nations and raise my signal flag to the peoples. They will bring your sons in their arms,[^49-18] and your daughters will be carried on their shoulders.
+
+**23** Kings will be your foster fathers, and their queens your nursing mothers. They will bow down to you with their faces to the ground and lick the dust of your feet. Then you will know that I am Yahweh; those who hope in me will not be put to shame.
+
+**24** Can plunder be taken from a warrior, or captives be rescued from a righteous one?[^49-19]
+
+**25** But this is what Yahweh says: Even the captives of the warrior will be taken, and the plunder of the tyrant will be rescued. I will contend with those who contend with you, and I will save your children.
+
+**26** I will make your oppressors eat their own flesh, and they will be drunk on their own blood as on new wine. Then all people[^49-20] will know that I, Yahweh, am your Savior, your Redeemer, the Mighty One of Jacob.[^49-21]
+
+[^49-1]: Hebrew *iyyim*, the islands and coasts of the Mediterranean (11:11), and in these chapters the most distant lands. Verses 1–13 are the second of the servant passages (see 42:1). In verses 1–6 the servant himself speaks.
+[^49-2]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^49-3]: Literally "from the womb he called me; from the inner parts of my mother he made mention of my name". Compare Jeremiah 1:5; Galatians 1:15.
+[^49-4]: The sword and the arrow are kept ready and hidden until the time to use them. Revelation 1:16 and 2:12 echo the first line.
+[^49-5]: Here the servant is named *Israel*, as in 41:8 and 44:1–2. Yet in verses 5–6 he has a task toward Jacob and Israel. Some have taken him to be the true Israel, the faithful within the people; others an individual who embodies Israel. *Show my glory* is Hebrew *etpa'ar*, "I will be glorified" or "I will glory".
+[^49-6]: Hebrew *mishpat*, "justice, right, judgment". *Reward* is literally "wage".
+[^49-7]: The Hebrew text is written "and Israel is not gathered" but read "and Israel to him is gathered". The two words for "not" and "to him" sound alike (*lo*).
+[^49-8]: Literally "to be my salvation to the end of the earth", that is, "so that you may be my salvation" or "so that my salvation may be". Acts 13:47 quotes this sentence from the Septuagint, and Simeon's words in Luke 2:32 echo it.
+[^49-9]: Hebrew *go'el* (41:14). Also in verse 26.
+[^49-10]: Literally "to one despised of *nephesh*". Or "to the one whom people despise".
+[^49-11]: 2 Corinthians 6:2 quotes this sentence from the Septuagint: "At an acceptable time I listened to you, and on a day of salvation I helped you."
+[^49-12]: Hebrew *berit am* (42:6).
+[^49-13]: Revelation 7:16–17 echoes this verse.
+[^49-14]: Literally "from the sea", the Mediterranean, to the west of Israel.
+[^49-15]: An unknown land. The Great Isaiah Scroll from Qumran (1QIsa-a) reads *Sewenim*, that is, Syene (modern Aswan) in southern Egypt (Ezekiel 29:10), where there was a colony of Jews in the Persian period.
+[^49-16]: *You* is feminine singular in verses 15–26: Zion is addressed as a woman and a mother.
+[^49-17]: The same consonants can be read *bonayikh*, "your builders", the reading of the Great Isaiah Scroll from Qumran (1QIsa-a).
+[^49-18]: Literally "in their bosom", the fold of the garment over the chest.
+[^49-19]: The Great Isaiah Scroll from Qumran (1QIsa-a) reads "from a tyrant", as in verse 25.
+[^49-20]: Literally "all flesh".
+[^49-21]: Hebrew *avir ya'aqov*, a title of God (Genesis 49:24; Isaiah 1:24; 60:16).
+
+## Chapter 50
+
+*Status: draft*
+
+**1** This is what Yahweh[^50-1] says: Where is your mother's certificate of divorce, with which I sent her away?[^50-2] Or to which of my creditors did I sell you? Look, it was for your sins that you were sold, and for your rebellious acts that your mother was sent away.
+
+**2** Why was there no one when I came? Why was there no one to answer when I called? Is my hand too short to redeem?[^50-3] Have I no power to rescue? Look, with a rebuke I dry up the sea; I turn rivers into a wilderness. Their fish rot for lack of water and die of thirst.
+
+**3** I clothe the heavens with darkness and make sackcloth their covering.
+
+**4** The Lord Yahweh has given me the tongue of one who is taught,[^50-4] so that I may know how to sustain the weary with a word.[^50-5] Morning by morning he wakens, he wakens my ear to listen like one who is taught.
+
+**5** The Lord Yahweh has opened my ear, and I did not rebel; I did not turn back.
+
+**6** I gave my back to those who struck me, and my cheeks to those who pulled out my beard. I did not hide my face from insults and spitting.[^50-6]
+
+**7** But the Lord Yahweh helps me; therefore I have not been disgraced. Therefore I have set my face like flint, and I know that I will not be put to shame.
+
+**8** He who proves me right is near.[^50-7] Who will bring charges against me? Let us stand up together. Who is my accuser?[^50-8] Let him come near me.
+
+**9** Look, the Lord Yahweh helps me; who will declare me guilty? Look, they will all wear out like a garment; the moth will eat them up.
+
+**10** Who among you fears Yahweh and obeys the voice of his servant? Whoever walks in darkness and has no light, let him trust in the name of Yahweh and rely on his God.
+
+**11** But look, all of you who kindle a fire, who arm yourselves with burning arrows,[^50-9] walk in the light of your fire and among the burning arrows you have lit! This is what you will receive from my hand: you will lie down in torment.
+
+[^50-1]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^50-2]: A husband who divorced his wife gave her a written certificate (Deuteronomy 24:1; Jeremiah 3:8). Yahweh has given Zion, the mother, no such certificate, and he has not sold her children to pay a debt (compare 2 Kings 4:1). Their exile is not a final break.
+[^50-3]: Hebrew *padah*, "ransom, redeem".
+[^50-4]: Hebrew *limmudim*, "those who are taught, disciples" (8:16). Also later in this verse. Verses 4–11 are the third of the servant passages (see 42:1). The speaker is not named, but verse 10 calls him "his servant".
+[^50-5]: Hebrew *la'ut*, a word found only here, of uncertain meaning, perhaps "to help" or "to answer".
+[^50-6]: Compare the treatment of Jesus in Matthew 26:67; Mark 14:65 and 15:19.
+[^50-7]: Hebrew *matsdiq*, "one who declares in the right, vindicates", a term from the law court. Romans 8:33–34 echoes verses 8–9.
+[^50-8]: Literally "Who is the lord of my judgment?", that is, the one who brings a case against me.
+[^50-9]: Or "firebrands". Hebrew *ziqot*, perhaps flaming arrows or sparks. *Arm yourselves* is literally "gird yourselves".
+
+## Chapter 51
+
+*Status: draft*
+
+**1** Listen to me, you who pursue righteousness, you who seek Yahweh:[^51-1] Look to the rock from which you were cut and to the quarry from which you were dug.[^51-2]
+
+**2** Look to your ancestor Abraham[^51-3] and to Sarah who gave birth to you. For he was only one when I called him, and I blessed him and made him many.
+
+**3** For Yahweh will comfort Zion; he will comfort all her ruins. He will make her wilderness like Eden, her desert like the garden of Yahweh. Joy and gladness will be found in her, thanksgiving and the sound of singing.
+
+**4** Pay attention to me, my people; listen to me, my nation. For instruction[^51-4] will go out from me, and I will set my justice as a light for the peoples.[^51-5]
+
+**5** My righteousness draws near; my salvation has gone out, and my arms will judge the peoples. The coastlands[^51-6] will hope in me and wait for my arm.
+
+**6** Lift up your eyes to the heavens, and look at the earth beneath. For the heavens will vanish like smoke, the earth will wear out like a garment, and its inhabitants will die like gnats.[^51-7] But my salvation will last forever, and my righteousness will never fail.
+
+**7** Listen to me, you who know what is right, you people who have my instruction in your hearts. Do not fear the reproach of mere mortals, or be dismayed by their insults.
+
+**8** For the moth will eat them like a garment, and the worm will eat them like wool. But my righteousness will last forever, and my salvation through all generations.
+
+**9** Awake, awake, put on strength, arm of Yahweh! Awake, as in days of old, in generations long ago. Was it not you who cut Rahab to pieces,[^51-8] who pierced the dragon?[^51-9]
+
+**10** Was it not you who dried up the sea, the waters of the great deep, who made the depths of the sea a road for the redeemed to cross?[^51-10]
+
+**11** Those whom Yahweh has ransomed will return and come to Zion with singing. Everlasting joy will be on their heads. Gladness and joy will overtake them, and sorrow and sighing will flee away.[^51-11]
+
+**12** I, I am he[^51-12] who comforts you. Who are you that you are afraid of mortals who die, of human beings who are made like grass?
+
+**13** You have forgotten Yahweh your Maker, who stretched out the heavens and laid the foundations of the earth. You live in constant fear all day long because of the fury of the oppressor, as he prepares to destroy. But where is the fury of the oppressor?
+
+**14** The one bowed down in chains[^51-13] will soon be set free. He will not die and go down to the Pit,[^51-14] and he will not lack bread.
+
+**15** For I am Yahweh your God, who stirs up the sea so that its waves roar.[^51-15] Yahweh of Armies[^51-16] is his name.
+
+**16** I have put my words in your mouth and covered you with the shadow of my hand, to plant the heavens and lay the foundations of the earth, and to say to Zion, "You are my people."
+
+**17** Wake up, wake up! Stand up, Jerusalem, you who have drunk from the hand of Yahweh the cup of his fury, you who have drained to the dregs the bowl, the cup that makes people stagger.[^51-17]
+
+**18** There is no one to guide her among all the children she bore; there is no one to take her by the hand among all the children she brought up.
+
+**19** These two things have happened to you (who will grieve with you?): ruin and destruction, famine and sword. How can I comfort you?[^51-18]
+
+**20** Your children have fainted; they lie at the head of every street like an antelope caught in a net. They are full of the fury of Yahweh, the rebuke of your God.
+
+**21** Therefore hear this, you afflicted one, drunk, but not with wine.
+
+**22** This is what your Lord, Yahweh, says, your God, who defends his people: Look, I have taken from your hand the cup that makes people stagger, the bowl, the cup of my fury. You will never drink it again.
+
+**23** I will put it into the hands of your tormentors, who said to you,[^51-19] "Bow down, so that we may walk over you." And you made your back like the ground, like a street for them to walk over.
+
+[^51-1]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^51-2]: Literally "to the hollow of the pit from which you were dug". The rock and the quarry are Abraham and Sarah (verse 2).
+[^51-3]: Literally "Abraham your father".
+[^51-4]: Hebrew *torah*, "instruction, teaching, law". Also in verse 7.
+[^51-5]: Hebrew *argia*, perhaps "I will establish" or "in a moment", joined to the next verse.
+[^51-6]: Hebrew *iyyim*, the islands and coasts of the Mediterranean (11:11), and in these chapters the most distant lands.
+[^51-7]: Hebrew *kemo-khen*, perhaps "like gnats" (*ken*) or "in the same way".
+[^51-8]: Hebrew *Rahav*, a sea monster, a figure of the chaos that God overcame (Job 9:13; 26:12; Psalm 89:11, 89:10 in most English Bibles), and a poetic name for Egypt (30:7; Psalm 87:4). It is not the Rahab of Joshua 2, whose name is spelled differently in Hebrew.
+[^51-9]: Hebrew *tannin*, "sea monster, dragon" (27:1). The defeat of the monsters of the sea is joined in verse 10 with the crossing of the Red Sea.
+[^51-10]: Hebrew *ge'ulim*, those whom Yahweh has rescued as next of kin (41:14).
+[^51-11]: Verse 11 repeats 35:10.
+[^51-12]: Hebrew *ani hu* (41:4). *You* is plural, then feminine singular ("Who are you"), then masculine singular in verse 13.
+[^51-13]: Hebrew *tso'eh*, "one who stoops", perhaps a prisoner bent under his chains.
+[^51-14]: Hebrew *shachat*, "pit, grave", the world of the dead.
+[^51-15]: Or "who stills the sea when its waves roar". The same line is found in Jeremiah 31:35.
+[^51-16]: *Yahweh of Armies* (Hebrew *YHWH tseva'ot*) is traditionally "the LORD of hosts" or "the LORD Almighty". *Tseva'ot* means armies: the heavenly hosts and the armies of Israel.
+[^51-17]: Literally "the bowl of the cup of reeling you have drunk, you have drained". The cup stands for the judgment God gives his people to drink (Jeremiah 25:15–17; Psalm 75:9, 75:8 in most English Bibles).
+[^51-18]: Literally "Who, I will comfort you?" The Great Isaiah Scroll from Qumran (1QIsa-a) and the Septuagint read "Who will comfort you?"
+[^51-19]: Literally "to your *nephesh*".
+
+## Chapter 52
+
+*Status: draft*
+
+**1** Awake, awake, put on your strength, Zion! Put on your beautiful garments, Jerusalem, the holy city! For the uncircumcised and the unclean will never enter you again.
+
+**2** Shake yourself free from the dust; rise up and take your seat, Jerusalem![^52-1] Loose the bonds from your neck,[^52-2] captive Daughter Zion!
+
+**3** For this is what Yahweh[^52-3] says: You were sold for nothing, and you will be redeemed without silver.
+
+**4** For this is what the Lord Yahweh says: At first my people went down to Egypt to live there as foreigners; then Assyria oppressed them for nothing.
+
+**5** And now what do I have here?[^52-4] declares Yahweh. For my people have been taken away for nothing. Their rulers wail,[^52-5] declares Yahweh, and all day long my name is continually despised.[^52-6]
+
+**6** Therefore my people will know my name; therefore on that day they will know that I am he[^52-7] who speaks: Here I am.
+
+**7** How beautiful on the mountains are the feet of the one who brings good news,[^52-8] who proclaims peace, who brings good news of good things, who proclaims salvation, who says to Zion, "Your God reigns!"[^52-9]
+
+**8** Listen! Your watchmen raise their voices; together they shout for joy. For with their own eyes[^52-10] they will see Yahweh return to Zion.
+
+**9** Break into singing together, you ruins of Jerusalem! For Yahweh has comforted his people; he has redeemed Jerusalem.
+
+**10** Yahweh has bared his holy arm before the eyes of all the nations, and all the ends of the earth will see the salvation of our God.
+
+**11** Depart, depart, go out from there! Touch nothing unclean. Go out from the middle of her; purify yourselves, you who carry the vessels of Yahweh.[^52-11]
+
+**12** But you will not go out in haste or leave in flight.[^52-12] For Yahweh will go before you, and the God of Israel will be your rear guard.
+
+**13** Look, my servant will act wisely;[^52-13] he will be raised and lifted up and greatly exalted.[^52-14]
+
+**14** Just as many were appalled at you,[^52-15] so disfigured was his appearance, beyond that of any man, and his form beyond that of human beings,[^52-16]
+
+**15** so he will sprinkle many nations.[^52-17] Kings will shut their mouths because of him. For what they were not told, they will see, and what they have not heard, they will understand.[^52-18]
+
+[^52-1]: Hebrew *shevi*, "sit", that is, sit enthroned. The same Hebrew word can mean "captivity", and many translate "rise up, captive Jerusalem", matching "captive Daughter Zion" at the end of the verse.
+[^52-2]: The Hebrew text is written "the bonds of your neck have come loose" but read "Loose the bonds from your neck".
+[^52-3]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^52-4]: The Hebrew text is written "Who do I have here?" but read "What do I have here?"
+[^52-5]: Or "Their rulers boast" or "mock". Hebrew *yehelilu*.
+[^52-6]: Romans 2:24 quotes this line from the Septuagint: "Because of you my name is despised among the nations."
+[^52-7]: Hebrew *ani hu* (41:4).
+[^52-8]: Hebrew *mevasser*, from *basar*, "bring good news" (40:9). Also later in this verse. Romans 10:15 quotes the first part of this verse.
+[^52-9]: Or "Your God has become king!" Hebrew *malakh*, as in "Yahweh reigns!" (Psalm 93:1; 96:10; 97:1; 99:1).
+[^52-10]: Literally "eye to eye".
+[^52-11]: The vessels of the temple, which Nebuchadnezzar had carried off to Babylon (Ezra 1:7–11). 2 Corinthians 6:17 quotes this verse.
+[^52-12]: Unlike the exodus from Egypt, when Israel left in haste (Exodus 12:11; Deuteronomy 16:3).
+[^52-13]: Or "will prosper". Hebrew *yaskil* means both "act with insight" and "succeed". 52:13–53:12 is the fourth of the servant passages (see 42:1). The Aramaic Targum begins "Look, my servant the anointed one (Messiah) will prosper", but it applies the suffering in the passage to Israel and the nations rather than to the Messiah. In the New Testament the passage is applied to the suffering and death of Jesus, and many Jewish interpreters have understood the servant as Israel, the righteous within Israel, or the prophet.
+[^52-14]: Literally "he will be high and lifted up and very lofty". The words "high and lifted up" are used of Yahweh on his throne in 6:1 and 57:15.
+[^52-15]: The Syriac and the Aramaic Targum read "at him". The Hebrew moves between "you" and "him".
+[^52-16]: Hebrew *mishchat*, a word found only here, probably "disfigurement". The Great Isaiah Scroll from Qumran (1QIsa-a) has *mashachti*, which may be read "I anointed". The meaning of verses 14–15 is uncertain in places.
+[^52-17]: Hebrew *yazzeh*, "he will sprinkle", the verb used for the priest's sprinkling of blood or water to cleanse (Leviticus 4:6; 16:14; Numbers 19:18). The Septuagint reads "so many nations will marvel at him".
+[^52-18]: Romans 15:21 quotes the end of this verse from the Septuagint.
+
+## Chapter 53
+
+*Status: draft*
+
+**1** Who has believed what we have heard?[^53-1] And to whom has the arm of Yahweh[^53-2] been revealed?
+
+**2** He grew up before him like a young plant, like a root out of dry ground. He had no form or majesty that we should look at him, no appearance that we should desire him.
+
+**3** He was despised and rejected by others,[^53-3] a man of pains, who knew what sickness was.[^53-4] Like one from whom people hide their faces,[^53-5] he was despised, and we held him in no regard.
+
+**4** Surely he has carried our sicknesses and borne our pains.[^53-6] Yet we thought of him as stricken, struck down by God, and afflicted.
+
+**5** But he was pierced[^53-7] for our rebellious acts; he was crushed for our wrongdoings. The punishment that brought us peace[^53-8] was on him, and by his wounds[^53-9] we are healed.
+
+**6** We all, like sheep, have gone astray; we have each turned to his own way. And Yahweh has laid on him the guilt of us all.[^53-10]
+
+**7** He was oppressed, and he let himself be afflicted,[^53-11] yet he did not open his mouth. Like a lamb that is led to the slaughter, and like a sheep that is silent before its shearers, he did not open his mouth.[^53-12]
+
+**8** By oppression and judgment he was taken away.[^53-13] And who of his generation considered[^53-14] that he was cut off from the land of the living, struck down for the rebellion of my people?[^53-15]
+
+**9** They made his grave with the wicked, and with a rich man in his death,[^53-16] although he had done no violence, and there was no deceit in his mouth.[^53-17]
+
+**10** Yet it was Yahweh's will to crush him; he made him sick. When you make his life a guilt offering,[^53-18] he will see offspring and prolong his days, and the will of Yahweh will prosper in his hand.
+
+**11** Out of the anguish of his soul he will see[^53-19] and be satisfied. By his knowledge[^53-20] my righteous servant will make many righteous,[^53-21] and he will bear their wrongdoings.
+
+**12** Therefore I will give him a portion among the many,[^53-22] and he will divide the plunder with the strong, because he poured out his life to death and was counted among the rebels.[^53-23] Yet he bore the sin of many and made intercession for the rebels.[^53-24]
+
+[^53-1]: Or "our message", that is, the message we bring. Hebrew *shemu'ah*, "what is heard, report". John 12:38 and Romans 10:16 quote this verse from the Septuagint: "Lord, who has believed our message?" The speakers in verses 1–10 are not named: the nations and kings of 52:15, or Israel, or the prophet with those who share his view.
+[^53-2]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^53-3]: Literally "lacking men", that is, abandoned by people, or "the lowest of men".
+[^53-4]: Literally "a man of pains, knowing sickness". Traditionally "a man of sorrows, and acquainted with grief". Hebrew *choli*, "sickness", as in verse 4.
+[^53-5]: Or "Like one who hides his face from us", as a leper covered his face (Leviticus 13:45).
+[^53-6]: Matthew 8:17 quotes this line, applying it to Jesus' healing of the sick: "He took our weaknesses and carried our diseases."
+[^53-7]: Or "wounded". Hebrew *mecholal*, from the verb "pierce".
+[^53-8]: Literally "The discipline of our peace". Hebrew *musar*, "discipline, correction, chastisement"; *shalom*, "peace, well-being, wholeness".
+[^53-9]: Hebrew *chabburah*, "wound, welt, bruise" (1:6). 1 Peter 2:24–25 echoes verses 5–6.
+[^53-10]: Literally "has caused to fall on him the guilt of us all". The same verb is translated "made intercession" in verse 12.
+[^53-11]: Or "he humbled himself". Hebrew *na'aneh*.
+[^53-12]: Acts 8:32–33 quotes verses 7–8 from the Septuagint: "Like a sheep he was led to the slaughter, and like a lamb before its shearer is silent, so he does not open his mouth. In his humiliation justice was denied him. Who can describe his generation? For his life is taken away from the earth." Philip begins from this passage to tell the Ethiopian official the good news about Jesus (Acts 8:35).
+[^53-13]: Or "Without restraint and without justice he was taken away", or "From prison and from judgment he was taken away". Hebrew *otser* means "restraint, oppression" or "custody".
+[^53-14]: Or "And who could speak of his descendants?" or "Who could think about his fate?" Hebrew *dor* means "generation", the people living at one time, or perhaps "fate, dwelling". The Hebrew of this line is difficult.
+[^53-15]: Literally "for the rebellion of my people, a blow to them" (or "to him"). The Septuagint reads "for the lawless acts of my people he was led to death".
+[^53-16]: Literally "in his deaths". *They made* is literally "he gave" or "one gave". The *rich* stand in parallel with the *wicked*, perhaps as oppressors. Compare the burial of Jesus in the tomb of Joseph of Arimathea, a rich man (Matthew 27:57–60).
+[^53-17]: 1 Peter 2:22 quotes this line.
+[^53-18]: Or "When his life makes a guilt offering". The Hebrew verb can mean "you make" or "it makes". Hebrew *asham*, the guilt offering (Leviticus 5:14–26, 5:14–6:7 in most English Bibles), also called the reparation offering, which made up for a wrong done. *Life* is Hebrew *nephesh*, also in verses 11–12.
+[^53-19]: The Great Isaiah Scroll from Qumran (1QIsa-a), two other Isaiah scrolls from Qumran and the Septuagint read "he will see light".
+[^53-20]: Or "By knowing him", that is, by the knowledge others gain of him.
+[^53-21]: Hebrew *yatsdiq*, "make righteous, declare righteous, bring justice to" (50:8). *Many* (Hebrew *rabbim*) is repeated from 52:14–15 and is found again twice in verse 12.
+[^53-22]: Or "among the great". Hebrew *rabbim*, "many" or "great". *The strong* (Hebrew *atsumim*) may also mean "the numerous".
+[^53-23]: Luke 22:37 quotes this line, which Jesus applies to himself. *Poured out* is literally "laid bare".
+[^53-24]: Or "and intervened for the rebels". Hebrew *yafgia*, the verb translated "laid on him" in verse 6.
+
+## Chapter 54
+
+*Status: draft*
+
+**1** Sing, barren woman, you who have not given birth! Break into song and shout, you who have not been in labor! For the children of the desolate woman will be more than the children of the married woman, says Yahweh.[^54-1]
+
+**2** Enlarge the place of your tent; let the curtains of your dwellings be stretched out; do not hold back. Lengthen your ropes and strengthen your stakes.
+
+**3** For you will spread out to the right and to the left. Your offspring will possess the nations and will settle the desolate cities.
+
+**4** Do not be afraid, for you will not be put to shame; do not be disgraced, for you will not be humiliated. You will forget the shame of your youth, and you will no longer remember the disgrace of your widowhood.
+
+**5** For your husband[^54-2] is your Maker; Yahweh of Armies[^54-3] is his name. Your Redeemer[^54-4] is the Holy One of Israel; he is called the God of all the earth.
+
+**6** For Yahweh has called you back like a wife abandoned and grieved in spirit, like a wife married in her youth who has been rejected, says your God.
+
+**7** For a brief moment I abandoned you, but with great compassion I will gather you.
+
+**8** In a flood of anger[^54-5] I hid my face from you for a moment, but with everlasting faithful love[^54-6] I will have compassion on you, says Yahweh, your Redeemer.
+
+**9** For this is like the waters of Noah to me:[^54-7] as I swore that the waters of Noah would never again pass over the earth, so I have sworn that I will not be angry with you or rebuke you.
+
+**10** For the mountains may depart and the hills be shaken, but my faithful love will not depart from you, and my covenant of peace will not be shaken, says Yahweh, who has compassion on you.
+
+**11** Afflicted one, storm-tossed and not comforted, look, I will set your stones in black mortar[^54-8] and lay your foundations with sapphires.[^54-9]
+
+**12** I will make your battlements of rubies, your gates of sparkling jewels, and all your walls of precious stones.[^54-10]
+
+**13** All your children will be taught by Yahweh,[^54-11] and great will be the peace of your children.
+
+**14** You will be established in righteousness. You will be far from oppression, for you will have nothing to fear, and from terror, for it will not come near you.
+
+**15** If anyone stirs up trouble,[^54-12] it will not be from me; whoever stirs up trouble against you will fall because of you.
+
+**16** Look, I have created the smith who blows on the coals and produces a weapon fit for its work. I have also created the destroyer to wreak havoc.
+
+**17** No weapon forged against you will succeed, and you will refute every tongue that rises against you in judgment. This is the heritage of the servants of Yahweh,[^54-13] and their vindication[^54-14] comes from me, declares Yahweh.
+
+[^54-1]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles. *You* is feminine singular in this chapter: Zion is addressed as a wife and mother. Galatians 4:27 quotes this verse.
+[^54-2]: Hebrew *bo'alayikh*, "your husband, your master", from *ba'al*, "lord, owner, husband".
+[^54-3]: *Yahweh of Armies* (Hebrew *YHWH tseva'ot*) is traditionally "the LORD of hosts" or "the LORD Almighty". *Tseva'ot* means armies: the heavenly hosts and the armies of Israel.
+[^54-4]: Hebrew *go'el* (41:14). Also in verse 8.
+[^54-5]: Hebrew *shetsef qetsef*, a sound play found only here. *Shetsef* probably means "flood" or "surge".
+[^54-6]: Hebrew *chesed*: loyal, faithful love. Also in verse 10.
+[^54-7]: Literally "For the waters of Noah this is to me". Yahweh's oath after the flood is in Genesis 8:21–22 and 9:11.
+[^54-8]: Hebrew *pukh*, the black paint women used around their eyes (2 Kings 9:30), here perhaps a dark mortar that sets off the stones.
+[^54-9]: Probably lapis lazuli, a deep blue stone (Exodus 24:10). The precious stones of verses 11–12 cannot all be identified with certainty. Revelation 21:18–21 echoes these verses.
+[^54-10]: *Battlements* is literally "suns", perhaps shields or pinnacles that shine in the sun; *rubies* is Hebrew *kadkod*; *sparkling jewels* is *avne eqdach*, "stones of fire", perhaps garnets or beryl; *walls* is literally "border".
+[^54-11]: Literally "will be disciples of Yahweh" (50:4). John 6:45 quotes this line.
+[^54-12]: Hebrew *gur*, "stir up strife". The same word can mean "live as a foreigner".
+[^54-13]: From here to the end of the book, Yahweh's servants are plural: those in Israel who are faithful to him (56:6; 63:17; 65:8–15; 66:14).
+[^54-14]: Hebrew *tsedaqah*, "righteousness", here the right that Yahweh upholds for them.
+
+## Chapter 55
+
+*Status: draft*
+
+**1** Come,[^55-1] all you who are thirsty, come to the waters! And you who have no money, come, buy grain and eat! Come, buy wine and milk without money and without cost.
+
+**2** Why do you spend money on what is not bread, and your earnings on what does not satisfy? Listen carefully to me, and eat what is good, and you will delight in rich food.[^55-2]
+
+**3** Turn your ear and come to me; listen, so that you may live. I will make an everlasting covenant with you, my faithful love promised to David.[^55-3]
+
+**4** Look, I made him a witness to the peoples, a leader and commander for the peoples.
+
+**5** Look, you will call a nation you do not know, and a nation that does not know you will run to you, because of Yahweh[^55-4] your God, the Holy One of Israel, for he has glorified you.
+
+**6** Seek Yahweh while he may be found; call on him while he is near.
+
+**7** Let the wicked abandon his way, and the evildoer his thoughts. Let him turn back to Yahweh, and he will have compassion on him, to our God, for he will freely forgive.
+
+**8** For my thoughts are not your thoughts, and your ways are not my ways, declares Yahweh.
+
+**9** For as the heavens are higher than the earth, so are my ways higher than your ways, and my thoughts than your thoughts.
+
+**10** For as the rain and the snow come down from the heavens and do not return there without watering the earth and making it bear and sprout, giving seed to the sower and bread to the eater,
+
+**11** so will my word be that goes out from my mouth: it will not return to me empty, without accomplishing what I desire and succeeding in the purpose for which I sent it.
+
+**12** For you will go out with joy and be led out in peace. The mountains and the hills will break into singing before you, and all the trees of the field will clap their hands.
+
+**13** Instead of the thornbush the juniper will grow, and instead of the brier the myrtle will grow. This will make a name for Yahweh, an everlasting sign that will not be cut off.
+
+[^55-1]: Hebrew *hoy*, usually "Woe to" (1:4). Here it is a call for attention, like the cry of a seller in the market.
+[^55-2]: Literally "and your *nephesh* will delight in fatness". Also in verse 3, "so that your *nephesh* may live".
+[^55-3]: Literally "the sure faithful acts (*chesed*) of David", the lasting love Yahweh promised to David and his house (2 Samuel 7:15–16; Psalm 89:2–5, 29, 89:1–4, 28 in most English Bibles). Acts 13:34 quotes these words from the Septuagint: "I will give you the holy and sure things of David."
+[^55-4]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+
+## Chapter 56
+
+*Status: draft*
+
+**1** This is what Yahweh[^56-1] says: Keep justice and do what is right,[^56-2] for my salvation is about to come, and my righteousness to be revealed.
+
+**2** Blessed is the person who does this, the human being who holds fast to it, who keeps the Sabbath without profaning it and keeps his hand from doing any evil.
+
+**3** Let no foreigner who has joined himself to Yahweh say, "Yahweh will surely separate me from his people." And let no eunuch say, "Look, I am only a dry tree."[^56-3]
+
+**4** For this is what Yahweh says: To the eunuchs who keep my Sabbaths, who choose what pleases me and hold fast to my covenant,
+
+**5** I will give within my house and within my walls a memorial and a name[^56-4] better than sons and daughters. I will give them an everlasting name that will not be cut off.
+
+**6** And the foreigners who join themselves to Yahweh to serve him, to love the name of Yahweh, and to be his servants, all who keep the Sabbath without profaning it and hold fast to my covenant,
+
+**7** I will bring to my holy mountain and make them joyful in my house of prayer. Their burnt offerings and their sacrifices will be accepted on my altar, for my house will be called a house of prayer for all peoples.[^56-5]
+
+**8** The Lord Yahweh declares, he who gathers the outcasts of Israel: I will gather still others to them besides those already gathered.
+
+**9** All you wild animals of the field, come and devour, all you wild animals in the forest!
+
+**10** Its watchmen[^56-6] are blind; none of them knows anything. They are all mute dogs that cannot bark. They lie around dreaming;[^56-7] they love to sleep.
+
+**11** The dogs have a mighty appetite;[^56-8] they never know when they have had enough. And they are shepherds who have no understanding. They have all turned to their own way, each to his own gain, every one of them.
+
+**12** "Come," they say, "let me get wine, and let us fill ourselves with beer! Tomorrow will be like today, only far better!"
+
+[^56-1]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^56-2]: Hebrew *tsedaqah*, the word translated "righteousness" later in the verse.
+[^56-3]: The law shut men who had been castrated, and some foreigners, out of the assembly of Yahweh (Deuteronomy 23:2–4, 23:1–3 in most English Bibles). A eunuch could have no children to carry on his name.
+[^56-4]: Hebrew *yad va-shem*, literally "a hand and a name": a monument that keeps a name alive (2 Samuel 18:18). *Them* in the next sentence is literally "him", each one of them.
+[^56-5]: Jesus quotes this line in Mark 11:17 when he drives the traders out of the temple courts.
+[^56-6]: The leaders of Israel. *Its* is literally "his", Israel's.
+[^56-7]: Hebrew *hozim*, a word found only here, perhaps "dreaming" or "panting".
+[^56-8]: Literally "are strong of *nephesh*".
+
+## Chapter 57
+
+*Status: draft*
+
+**1** The righteous one perishes, and no one takes it to heart. The faithful[^57-1] are taken away, and no one understands that the righteous one is taken away from the evil to come.[^57-2]
+
+**2** He enters into peace; they rest on their beds,[^57-3] all who walk uprightly.
+
+**3** But you, come here, you children of a sorceress, offspring of an adulterer and a prostitute!
+
+**4** Whom are you mocking? At whom do you open your mouth wide and stick out your tongue? Are you not children of rebellion, offspring of deceit?
+
+**5** You inflame yourselves among the oaks,[^57-4] under every green tree; you slaughter children in the ravines, under the clefts of the rocks.[^57-5]
+
+**6** Among the smooth stones of the ravine is your portion;[^57-6] they, they are your lot. To them you have poured out drink offerings and brought up grain offerings.[^57-7] Should I relent because of these things?
+
+**7** On a high and lofty mountain you have made your bed; there too you went up to offer sacrifice.
+
+**8** Behind the door and the doorpost you have set up your sign.[^57-8] For, deserting me, you uncovered your bed, climbed up into it and opened it wide. You made a bargain for yourself with them; you loved their bed; you gazed on their nakedness.[^57-9]
+
+**9** You went to the king[^57-10] with oil and gave him many perfumes. You sent your envoys far away; you sent them down even to Sheol.[^57-11]
+
+**10** You were wearied by your many journeys, but you did not say, "It is hopeless." You found new strength,[^57-12] so you did not grow faint.
+
+**11** Whom did you dread and fear, that you lied, and did not remember me or take it to heart? Is it not because I have kept silent, and for a long time, that you do not fear me?
+
+**12** I will expose your righteousness and your deeds,[^57-13] and they will not help you.
+
+**13** When you cry out, let your collection of idols[^57-14] save you! The wind will carry them all off; a breath will take them away. But whoever takes refuge in me will inherit the land and possess my holy mountain.
+
+**14** And it will be said, "Build it up, build it up, prepare the road! Remove every obstacle from the way of my people."
+
+**15** For this is what the High and Lofty One says, who lives forever,[^57-15] whose name is Holy: I live in a high and holy place, and also with the one who is crushed and humble in spirit, to revive the spirit of the humble and to revive the heart of the crushed.
+
+**16** For I will not accuse forever, nor will I always be angry. For then the spirit[^57-16] would grow faint before me, the breath of life that I have made.
+
+**17** Because of the guilt of his greed I was angry, and I struck him; I hid my face and was angry. But he went on turning away, in the way of his own heart.
+
+**18** I have seen his ways, but I will heal him. I will lead him and repay him with comfort, him and those who mourn for him,
+
+**19** creating praise on their lips:[^57-17] Peace, peace, to the far and to the near, says Yahweh,[^57-18] and I will heal him.[^57-19]
+
+**20** But the wicked are like the tossing sea, which cannot be still; its waters toss up mud and mire.
+
+**21** There is no peace, says my God, for the wicked.[^57-20]
+
+[^57-1]: Literally "men of *chesed*", those who show faithful love.
+[^57-2]: Literally "from before the evil". Or "because of the evil": the righteous are removed by the wrongdoing of others, or spared the disaster that is coming.
+[^57-3]: Their graves.
+[^57-4]: Or "with the gods". Hebrew *elim*, "sacred trees" (1:29), can also mean "gods". *You* is plural in verses 3–5, then feminine singular in verses 6–13, as the people are addressed as an unfaithful wife.
+[^57-5]: Children were sacrificed to other gods in the Valley of Ben-hinnom near Jerusalem (2 Kings 23:10; Jeremiah 7:31).
+[^57-6]: A play on words: *chalqe nachal*, "the smooth stones of the ravine", and *chelqekh*, "your portion". The smooth stones may have been objects of worship.
+[^57-7]: Hebrew *minchah*, "gift, tribute", in Leviticus a grain offering.
+[^57-8]: Hebrew *zikkaron*, "memorial, reminder", perhaps a pagan symbol placed where the words of Yahweh's law were to be written (Deuteronomy 6:9).
+[^57-9]: Literally "you saw a hand". *Hand* (Hebrew *yad*) may be a polite word for the male organ, or mean a memorial pillar (56:5).
+[^57-10]: Or "to Molech", the god to whom children were sacrificed (Leviticus 18:21), whose name sounds like *melekh*, "king".
+[^57-11]: Hebrew *Sheol*, the realm of the dead.
+[^57-12]: Literally "You found the life of your hand".
+[^57-13]: The words are said with irony: what they call righteousness will be shown for what it is.
+[^57-14]: Literally "your collections", perhaps a gathering of idols or of foreign allies.
+[^57-15]: Or "who inhabits eternity". The words *high and lofty* are the "high and lifted up" of 6:1 and 52:13.
+[^57-16]: Hebrew *ruach*, "spirit, breath", in parallel with *neshamot*, "breaths".
+[^57-17]: Literally "creating the fruit of the lips". Compare Hebrews 13:15.
+[^57-18]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^57-19]: Ephesians 2:17 echoes this verse.
+[^57-20]: This line repeats 48:22, with "my God" instead of "Yahweh".
+
+## Chapter 58
+
+*Status: draft*
+
+**1** Shout aloud;[^58-1] do not hold back! Raise your voice like a ram's horn! Declare to my people their rebellion, and to the house of Jacob their sins.
+
+**2** Yet day after day they seek me and delight to know my ways, as if they were a nation that did what is right and had not abandoned the justice of its God. They ask me for righteous judgments; they delight in drawing near to God.
+
+**3** "Why have we fasted," they say, "and you do not see? Why have we denied ourselves,[^58-2] and you do not notice?" Look, on the day of your fast you pursue your own business and drive all your workers hard.[^58-3]
+
+**4** Look, you fast only to quarrel and fight and to strike with a wicked fist. You cannot fast as you do today and make your voice heard on high.
+
+**5** Is this the kind of fast I choose, a day for a person to deny himself? Is it to bow one's head like a reed and to lie on sackcloth and ashes? Is this what you call a fast, a day acceptable to Yahweh?[^58-4]
+
+**6** Is not this the fast that I choose: to loosen the chains of wickedness, to untie the cords of the yoke, to set the oppressed free and to break every yoke?
+
+**7** Is it not to share your bread with the hungry and to bring the homeless poor into your house, to cover the naked when you see them, and not to turn away from your own flesh and blood?[^58-5]
+
+**8** Then your light will break out like the dawn, and your healing will spring up quickly. Your righteousness will go before you, and the glory of Yahweh will be your rear guard.[^58-6]
+
+**9** Then you will call, and Yahweh will answer; you will cry for help, and he will say, "Here I am." If you remove the yoke from among you, the pointing finger and wicked speech,
+
+**10** if you pour yourself out[^58-7] for the hungry and satisfy the needs of the afflicted, then your light will rise in the darkness, and your gloom will be like noon.
+
+**11** Yahweh will guide you always and satisfy your needs[^58-8] in parched places and strengthen your bones. You will be like a watered garden, like a spring whose waters never fail.
+
+**12** Your people[^58-9] will rebuild the ancient ruins; you will raise up the foundations of many generations. You will be called the Repairer of the Breach, the Restorer of Streets to Live In.
+
+**13** If you keep your feet from trampling the Sabbath,[^58-10] from doing as you please on my holy day; if you call the Sabbath a delight and the holy day of Yahweh honored; if you honor it by not going your own ways, not pursuing your own business or speaking idle words,[^58-11]
+
+**14** then you will find your delight in Yahweh, and I will make you ride on the heights of the earth[^58-12] and feed you with the inheritance of your ancestor Jacob.[^58-13] For the mouth of Yahweh has spoken.
+
+[^58-1]: Literally "Call with the throat".
+[^58-2]: Literally "humbled our *nephesh*", the phrase used for fasting on the Day of Atonement (Leviticus 16:29, 31). Also in verses 5 and 10.
+[^58-3]: Or "and exact all your debts". Hebrew *atsevekhem*, perhaps "your laborers" or "your loans".
+[^58-4]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^58-5]: Literally "from your own flesh", your relatives and fellow Israelites.
+[^58-6]: Compare 52:12, and the pillar of cloud and fire that went before and behind Israel (Exodus 14:19–20).
+[^58-7]: Literally "if you offer your *nephesh*". *The needs of the afflicted* is literally "the afflicted *nephesh*".
+[^58-8]: Literally "satisfy your *nephesh*". Hebrew *tsachtsachot*, "parched places", is found only here.
+[^58-9]: Literally "those from you".
+[^58-10]: Literally "If you turn back your foot from the Sabbath".
+[^58-11]: Literally "or speaking a word". *Your own business* is the phrase translated "your own business" in verse 3.
+[^58-12]: Compare Deuteronomy 32:13.
+[^58-13]: Literally "Jacob your father".
+
+## Chapter 59
+
+*Status: draft*
+
+**1** Look, the hand of Yahweh[^59-1] is not too short to save, nor his ear too dull to hear.
+
+**2** But your wrongdoings have separated you from your God, and your sins have hidden his face from you, so that he does not hear.
+
+**3** For your hands are defiled with blood and your fingers with guilt. Your lips have spoken lies; your tongue mutters wickedness.
+
+**4** No one brings a case justly;[^59-2] no one goes to law honestly. They trust in empty words and speak lies; they conceive trouble and give birth to evil.
+
+**5** They hatch the eggs of vipers and weave spiders' webs. Whoever eats their eggs dies, and when one is crushed, a snake hatches out.
+
+**6** Their webs will not become clothing; they cannot cover themselves with what they make. Their works are works of evil, and acts of violence are in their hands.
+
+**7** Their feet run to evil, and they hurry to shed innocent blood. Their thoughts are thoughts of evil; ruin and destruction are on their highways.
+
+**8** They do not know the way of peace, and there is no justice in their tracks. They have made their paths crooked; no one who walks on them knows peace.[^59-3]
+
+**9** That is why justice is far from us, and righteousness does not reach us. We hope for light, but look, there is darkness; for brightness, but we walk in gloom.
+
+**10** We grope along the wall like the blind; we grope like those who have no eyes. We stumble at noon as in the twilight; among the strong we are like the dead.[^59-4]
+
+**11** We all growl like bears; we moan and moan like doves. We hope for justice, but there is none; for salvation, but it is far from us.
+
+**12** For our rebellious acts are many before you, and our sins testify against us. Our rebellious acts are with us, and we know our wrongdoings:
+
+**13** rebelling and denying Yahweh, turning away from following our God, speaking oppression and revolt, conceiving and uttering lies from the heart.
+
+**14** So justice is driven back, and righteousness stands far away. Truth has stumbled in the public square, and honesty cannot enter.
+
+**15** Truth is missing, and whoever turns away from evil makes himself a prey. Yahweh saw it, and it was evil in his eyes that there was no justice.
+
+**16** He saw that there was no one; he was appalled that there was no one to intervene.[^59-5] So his own arm brought him salvation, and his righteousness upheld him.
+
+**17** He put on righteousness as a breastplate, and the helmet of salvation on his head. He put on garments of vengeance for clothing and wrapped himself in zeal as in a cloak.[^59-6]
+
+**18** According to what they have done, so he will repay: fury to his adversaries, retribution to his enemies; to the coastlands[^59-7] he will repay retribution.
+
+**19** So from the west they will fear the name of Yahweh, and from the rising of the sun his glory. For he will come like a rushing river, driven by the wind of Yahweh.[^59-8]
+
+**20** A Redeemer[^59-9] will come to Zion, to those in Jacob who turn from rebellion, declares Yahweh.[^59-10]
+
+**21** As for me, this is my covenant with them, says Yahweh: My Spirit, who is on you, and my words that I have put in your mouth will not depart from your mouth, or from the mouths of your children, or from the mouths of your children's children, says Yahweh, from now on and forever.
+
+[^59-1]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^59-2]: Literally "No one calls in righteousness".
+[^59-3]: Romans 3:15–17 quotes verses 7–8 from the Septuagint.
+[^59-4]: Hebrew *ashmannim*, a word found only here, perhaps "among the vigorous" or "in desolate places".
+[^59-5]: Hebrew *mafgia*, the verb translated "made intercession" in 53:12.
+[^59-6]: Paul takes up the images of this verse in Ephesians 6:14–17 and 1 Thessalonians 5:8.
+[^59-7]: Hebrew *iyyim*, the islands and coasts of the Mediterranean (11:11), and in these chapters the most distant lands.
+[^59-8]: Or "breath" or "Spirit". Hebrew *ruach*. Literally "like a narrow river, the wind of Yahweh driving it". The words can also be read "When the enemy comes like a river, the Spirit of Yahweh will raise a banner against him", taking *tsar* as "enemy" and *nosesah* from *nes*, "banner".
+[^59-9]: Hebrew *go'el* (41:14).
+[^59-10]: Romans 11:26–27 quotes verses 20–21 from the Septuagint: "The Deliverer will come from Zion; he will turn away ungodliness from Jacob. And this will be my covenant with them."
+
+## Chapter 60
+
+*Status: draft*
+
+**1** Arise, shine, for your light has come, and the glory of Yahweh[^60-1] has risen on you.
+
+**2** For look, darkness covers the earth, and thick darkness the peoples. But Yahweh rises on you, and his glory appears over you.
+
+**3** Nations will come to your light, and kings to the brightness of your dawn.
+
+**4** Lift up your eyes and look around: they all gather and come to you. Your sons will come from far away, and your daughters will be carried on the hip.[^60-2]
+
+**5** Then you will see and be radiant; your heart will throb and swell with joy,[^60-3] for the abundance of the sea will be turned to you, and the wealth of the nations will come to you.
+
+**6** A multitude of camels will cover you, young camels of Midian and Ephah. All those from Sheba will come, bringing gold and frankincense and proclaiming the praises of Yahweh.[^60-4]
+
+**7** All the flocks of Kedar will be gathered to you; the rams of Nebaioth[^60-5] will serve you. They will go up as acceptable offerings on my altar, and I will make my glorious house more glorious still.
+
+**8** Who are these that fly like a cloud, like doves to their windows?[^60-6]
+
+**9** Surely the coastlands[^60-7] wait for me, with the ships of Tarshish[^60-8] in the lead, to bring your sons from far away, their silver and gold with them, for the name of Yahweh your God, for the Holy One of Israel, because he has glorified you.
+
+**10** Foreigners will rebuild your walls, and their kings will serve you. For in my anger I struck you, but in my favor I have had compassion on you.
+
+**11** Your gates will always stand open; day and night they will not be shut, so that people may bring you the wealth of the nations, with their kings led in procession.[^60-9]
+
+**12** For the nation or kingdom that will not serve you will perish; those nations will be utterly ruined.
+
+**13** The glory of Lebanon will come to you, the juniper, the plane tree and the pine together,[^60-10] to beautify the place of my sanctuary, and I will make the place of my feet glorious.
+
+**14** The sons of those who oppressed you will come bowing low to you, and all who despised you will bow down at the soles of your feet.[^60-11] They will call you the City of Yahweh, the Zion of the Holy One of Israel.
+
+**15** Instead of being abandoned and hated, with no one passing through, I will make you an everlasting pride, a joy from generation to generation.
+
+**16** You will drink the milk of nations and nurse at the breasts of kings. Then you will know that I, Yahweh, am your Savior, your Redeemer,[^60-12] the Mighty One of Jacob.
+
+**17** Instead of bronze I will bring gold, and instead of iron I will bring silver; instead of wood, bronze, and instead of stones, iron. I will make peace your overseer and righteousness your ruler.[^60-13]
+
+**18** Violence will no longer be heard in your land, nor ruin or destruction within your borders. You will call your walls Salvation and your gates Praise.
+
+**19** The sun will no longer be your light by day, nor will the brightness of the moon shine on you. But Yahweh will be your everlasting light, and your God will be your glory.[^60-14]
+
+**20** Your sun will never set again, and your moon will not wane,[^60-15] for Yahweh will be your everlasting light, and your days of mourning will be over.
+
+**21** Your people will all be righteous; they will possess the land forever. They are the shoot I planted,[^60-16] the work of my hands, so that I may be glorified.
+
+**22** The least of them will become a thousand, and the smallest a mighty nation. I am Yahweh; when the time comes, I will do this quickly.
+
+[^60-1]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles. *You* is feminine singular in this chapter: Zion is addressed as a woman (verse 14).
+[^60-2]: Literally "will be nursed on the side", carried as small children are carried.
+[^60-3]: Literally "your heart will tremble and grow wide".
+[^60-4]: Midian and Ephah were Arabian tribes descended from Abraham (Genesis 25:2–4), and Sheba was a kingdom in southern Arabia famous for its trade in gold and spices (1 Kings 10:1–2). Compare the gifts of the wise men in Matthew 2:11.
+[^60-5]: Kedar and Nebaioth were Arabian tribes, named as sons of Ishmael in Genesis 25:13.
+[^60-6]: Hebrew *arubbot*, "openings, lattices", perhaps the holes of a dovecote.
+[^60-7]: Hebrew *iyyim*, the islands and coasts of the Mediterranean (11:11), and in these chapters the most distant lands.
+[^60-8]: Large seagoing ships (2:16), of the kind that sailed to Tarshish, a distant port in the west.
+[^60-9]: Revelation 21:24–26 echoes verses 3 and 11.
+[^60-10]: The trees named in 41:19. Their identification is uncertain.
+[^60-11]: Revelation 3:9 echoes this line.
+[^60-12]: Hebrew *go'el* (41:14). The line repeats 49:26.
+[^60-13]: *Overseer* and *ruler* are the officials who once oppressed the people. Hebrew *noges* is the word for the slave drivers of Egypt (Exodus 3:7).
+[^60-14]: Revelation 21:23 and 22:5 echo verses 19–20.
+[^60-15]: Literally "will not be withdrawn".
+[^60-16]: Literally "the shoot of my planting". Hebrew *netser*, the word for the "branch" in 11:1. The Hebrew text is written "his planting" but read "my planting".
+
+## Chapter 61
+
+*Status: draft*
+
+**1** The Spirit[^61-1] of the Lord Yahweh[^61-2] is on me, because Yahweh has anointed me[^61-3] to bring good news[^61-4] to the poor. He has sent me to bind up the brokenhearted, to proclaim freedom[^61-5] for the captives and release for the prisoners,[^61-6]
+
+**2** to proclaim the year of Yahweh's favor and the day of vengeance of our God,[^61-7] to comfort all who mourn,
+
+**3** to provide for those who mourn in Zion: to give them a garland instead of ashes,[^61-8] the oil of gladness instead of mourning, a garment of praise instead of a fainting spirit. They will be called oaks of righteousness, the planting of Yahweh, so that he may be glorified.
+
+**4** They will rebuild the ancient ruins and raise up the places long desolate. They will renew the ruined cities, the places desolate for generations.
+
+**5** Strangers will stand and tend your flocks, and foreigners will be your plowmen and vinedressers.
+
+**6** But you will be called priests of Yahweh; you will be named ministers of our God.[^61-9] You will eat the wealth of the nations, and you will glory in their riches.
+
+**7** Instead of your shame you will have a double portion, and instead of disgrace they will rejoice in their lot.[^61-10] Therefore in their land they will possess a double portion; everlasting joy will be theirs.
+
+**8** For I, Yahweh, love justice; I hate robbery and wrongdoing.[^61-11] I will faithfully give them their reward and make an everlasting covenant with them.
+
+**9** Their offspring will be known among the nations, and their descendants among the peoples. All who see them will recognize that they are offspring Yahweh has blessed.
+
+**10** I will greatly rejoice in Yahweh; my soul will exult in my God. For he has clothed me with garments of salvation and wrapped me in a robe of righteousness, as a bridegroom puts on a garland like a priest,[^61-12] and as a bride adorns herself with her jewels.
+
+**11** For as the earth brings out its sprouts, and as a garden makes what is sown in it spring up, so the Lord Yahweh will make righteousness and praise spring up before all the nations.
+
+[^61-1]: Hebrew *ruach*, "spirit, wind, breath". Also in verse 3, "spirit".
+[^61-2]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^61-3]: Hebrew *mashach*, "anoint", the verb from which *mashiach*, "anointed one" (45:1), comes. Kings and priests were anointed with oil; here the speaker is anointed by the Spirit for his task. The speaker is not named; he may be the prophet or the servant of the earlier chapters (42:1; 48:16; 50:4). In Luke 4:16–21 Jesus reads verses 1–2 in the synagogue at Nazareth, mostly from the Septuagint, and says, "Today this scripture has been fulfilled in your hearing." He stops before "and the day of vengeance of our God".
+[^61-4]: Hebrew *basar*, "bring good news" (40:9; 52:7).
+[^61-5]: Hebrew *deror*, "release, liberty", the word used for the release proclaimed in the year of Jubilee (Leviticus 25:10).
+[^61-6]: Hebrew *peqach-qoach*, probably "opening", that is, the opening of the prison, or of eyes long in darkness. The Septuagint reads "and recovery of sight to the blind", the reading in Luke 4:18, which also adds "to set the oppressed free" from 58:6.
+[^61-7]: The *year of favor* recalls the Jubilee year (Leviticus 25:8–17), and the *day of vengeance* is the day when God puts things right (34:8; 63:4).
+[^61-8]: A play on words: *pe'er*, "headdress, garland", and *efer*, "ashes", which mourners put on their heads (2 Samuel 13:19).
+[^61-9]: Compare Exodus 19:6: "You will be to me a kingdom of priests."
+[^61-10]: The Hebrew moves from "you" to "they" in this verse.
+[^61-11]: The vowels of the Hebrew text read "robbery with a burnt offering", that is, offerings brought from stolen goods. The same consonants can be read *avlah*, "wrongdoing", as the Septuagint understood them.
+[^61-12]: Literally "as a bridegroom acts as priest with a headdress", wearing a garland like the turban of a priest.
+
+## Chapter 62
+
+*Status: draft*
+
+**1** For the sake of Zion I will not keep silent, and for the sake of Jerusalem I will not rest, until her righteousness[^62-1] goes out like brightness, and her salvation like a burning torch.
+
+**2** The nations will see your righteousness, and all kings your glory. You will be called by a new name that the mouth of Yahweh[^62-2] will give you.[^62-3]
+
+**3** You will be a crown of beauty in the hand of Yahweh, a royal diadem in the palm of your God.
+
+**4** You will no longer be called Abandoned, and your land will no longer be called Desolate. But you will be called My Delight Is in Her, and your land Married;[^62-4] for Yahweh delights in you, and your land will be married.
+
+**5** For as a young man marries a young woman, so your sons will marry you;[^62-5] and as a bridegroom rejoices over his bride, so your God will rejoice over you.
+
+**6** On your walls, Jerusalem, I have posted watchmen; all day and all night they will never be silent. You who call on Yahweh to remember,[^62-6] take no rest for yourselves,
+
+**7** and give him no rest until he establishes Jerusalem and makes it the praise of the earth.
+
+**8** Yahweh has sworn by his right hand and by his mighty arm: I will never again give your grain as food to your enemies, and foreigners will never again drink the new wine for which you have labored.[^62-7]
+
+**9** But those who harvest it will eat it and praise Yahweh, and those who gather it will drink it in the courts of my sanctuary.
+
+**10** Go through, go through the gates! Prepare the way for the people! Build up, build up the highway! Clear it of stones! Raise a signal flag over the peoples!
+
+**11** Look, Yahweh has proclaimed to the end of the earth: Say to Daughter Zion, "Look, your salvation is coming! Look, his reward is with him, and his recompense goes before him."[^62-8]
+
+**12** They will be called the Holy People, the Redeemed of Yahweh;[^62-9] and you will be called Sought After, the City Not Abandoned.
+
+[^62-1]: Or "vindication". Hebrew *tsedeq*. Also in verse 2.
+[^62-2]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^62-3]: Literally "will designate". Compare Revelation 2:17 and 3:12.
+[^62-4]: Hebrew *Azuvah*, "Abandoned"; *Shemamah*, "Desolate"; *Cheftsi-vah*, "My Delight Is in Her", traditionally "Hephzibah", the name of King Hezekiah's wife (2 Kings 21:1); *Be'ulah*, "Married", traditionally "Beulah". The verb for "marry" (*ba'al*) also means "become master of" (54:5).
+[^62-5]: The same consonants can be read *bonayikh*, "your Builder", a plural form like *bo'alayikh*, "your husband", in 54:5: "so your Builder will marry you".
+[^62-6]: Literally "you who cause Yahweh to remember", by reminding him in prayer of his promises.
+[^62-7]: Literally "If I give … and if foreigners drink …", the form of a solemn oath.
+[^62-8]: The words repeat 40:10. Matthew 21:5 joins "Say to Daughter Zion" with Zechariah 9:9.
+[^62-9]: Hebrew *ge'ulim*, those whom Yahweh has rescued as next of kin (41:14).
+
+## Chapter 63
+
+*Status: draft*
+
+**1** Who is this coming from Edom,[^63-1] in crimson garments from Bozrah,[^63-2] this one splendid in his clothing, striding forward in the greatness of his strength? It is I, speaking in righteousness, mighty to save.[^63-3]
+
+**2** Why is your clothing red, and your garments like those of one who treads in the winepress?
+
+**3** I have trodden the winepress alone; from the peoples no one was with me. I trod them in my anger and trampled them in my fury. Their lifeblood[^63-4] spattered my garments, and I stained all my clothing.[^63-5]
+
+**4** For the day of vengeance was in my heart, and the year of my redemption had come.[^63-6]
+
+**5** I looked, but there was no one to help; I was appalled that there was no one to support me. So my own arm brought me salvation, and my fury upheld me.[^63-7]
+
+**6** I trampled the peoples in my anger and made them drunk in my fury, and I poured out their lifeblood on the ground.
+
+**7** I will tell of the faithful love[^63-8] of Yahweh,[^63-9] the praises of Yahweh, for all that Yahweh has done for us, the great goodness to the house of Israel that he has shown them in his compassion and in his abundant faithful love.
+
+**8** He said, "Surely they are my people, children who will not be false." So he became their Savior.
+
+**9** In all their distress he too was distressed,[^63-10] and the angel of his presence[^63-11] saved them. In his love and in his pity he redeemed them; he lifted them up and carried them all the days of old.
+
+**10** But they rebelled and grieved his holy Spirit.[^63-12] So he turned and became their enemy; he himself fought against them.
+
+**11** Then his people remembered the days of old, the days of Moses:[^63-13] Where is he who brought them up out of the sea, with the shepherds of his flock? Where is he who put his holy Spirit among them,
+
+**12** who sent his glorious arm to go at the right hand of Moses, who split the waters before them to make for himself an everlasting name,
+
+**13** who led them through the depths? Like a horse in the wilderness, they did not stumble.
+
+**14** Like cattle that go down into the valley, the Spirit of Yahweh gave them rest.[^63-14] So you led your people, to make for yourself a glorious name.
+
+**15** Look down from heaven and see, from your holy and glorious dwelling. Where are your zeal and your mighty deeds? The yearning of your heart[^63-15] and your compassion are held back from me.
+
+**16** For you are our Father, though Abraham does not know us and Israel does not acknowledge us. You, Yahweh, are our Father; "Our Redeemer from of old" is your name.[^63-16]
+
+**17** Why, Yahweh, do you make us wander from your ways and harden our hearts so that we do not fear you? Return for the sake of your servants, the tribes of your inheritance.
+
+**18** Your holy people possessed it for only a little while;[^63-17] our adversaries have trampled down your sanctuary.
+
+**19** We have become like those you have never ruled, like those who were never called by your name. If only you would tear open the heavens and come down, so that the mountains would quake at your presence![^63-18]
+
+[^63-1]: The land south and east of the Dead Sea (34:5–6). *Edom* sounds like *adom*, "red" (verse 2).
+[^63-2]: The chief city of Edom (34:6). *Crimson* is literally "stained" or "bright red".
+[^63-3]: The speaker who comes from Edom is Yahweh, and in verses 1–6 the prophet's questions and Yahweh's answers alternate.
+[^63-4]: Hebrew *netsach*, here "juice, lifeblood", the red juice of the grapes. Also in verse 6.
+[^63-5]: Revelation 14:19–20 and 19:13–15 echo verses 1–6.
+[^63-6]: Or "the year of my redeemed ones had come". Hebrew *ge'ulai*.
+[^63-7]: Compare 59:16.
+[^63-8]: Hebrew *chasdei*, the plural of *chesed*, "acts of faithful love". Also at the end of the verse.
+[^63-9]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^63-10]: Literally "to him was distress". The Hebrew text is written *lo*, "not", but read *lo*, "to him": the written text may mean "In all their distress he did not afflict them". The Septuagint reads "not an envoy or an angel, but he himself saved them".
+[^63-11]: Literally "the angel of his face". Or "the messenger of his presence". Compare Exodus 23:20–23; 33:14–15.
+[^63-12]: Literally "the spirit of his holiness" (Psalm 51:13, 51:11 in most English Bibles). Also in verse 11. Ephesians 4:30 echoes this line.
+[^63-13]: Literally "And he remembered the days of old, Moses, his people". The Hebrew is difficult.
+[^63-14]: Literally "gave him rest", that is, gave rest to the people.
+[^63-15]: Literally "the stirring of your inner parts".
+[^63-16]: Hebrew *go'el* (41:14).
+[^63-17]: The Hebrew of this line is difficult. Literally "For a little while they possessed your holy people".
+[^63-18]: The second half of this verse, "If only you would tear open the heavens …", is 64:1 in most English Bibles, and 64:1–11 are 64:2–12. Compare Judges 5:5 and Psalm 18:10 (18:9 in most English Bibles).
+
+## Chapter 64
+
+*Status: draft*
+
+**1** As when fire kindles brushwood, and fire makes water boil, make your name known to your adversaries, so that the nations may tremble at your presence![^64-1]
+
+**2** When you did awesome things that we did not expect, you came down; the mountains quaked at your presence.
+
+**3** From ages past no one has heard, no ear has perceived, no eye has seen any God besides you, who acts for those who wait for him.[^64-2]
+
+**4** You meet those who gladly do what is right, who remember you in your ways. Look, you were angry, and we sinned. We have been in them a long time; can we be saved?[^64-3]
+
+**5** We have all become like one who is unclean, and all our righteous deeds are like a filthy cloth.[^64-4] We all wither like a leaf, and our wrongdoings carry us away like the wind.
+
+**6** No one calls on your name or rouses himself to take hold of you. For you have hidden your face from us and made us melt away in the grip of our wrongdoings.[^64-5]
+
+**7** But now, Yahweh,[^64-6] you are our Father. We are the clay, and you are our potter; we are all the work of your hand.
+
+**8** Do not be so very angry, Yahweh, and do not remember our wrongdoing forever. Look, please, we are all your people.
+
+**9** Your holy cities have become a wilderness; Zion has become a wilderness, Jerusalem a desolation.
+
+**10** Our holy and beautiful house, where our ancestors praised you, has been burned with fire, and all that we treasured has become ruins.[^64-7]
+
+**11** After all this, Yahweh, will you hold back? Will you keep silent and afflict us so very much?
+
+[^64-1]: Verses 1–11 are 64:2–12 in most English Bibles. The prayer that began in 63:15 continues to the end of this chapter. *Brushwood* is Hebrew *hamasim*, a word found only here.
+[^64-2]: Paul echoes this verse in 1 Corinthians 2:9: "What no eye has seen, nor ear heard … God has prepared for those who love him."
+[^64-3]: The Hebrew of the last line is very difficult. Literally "in them forever, and we will be saved". *Them* may be Yahweh's ways or the people's sins. Some take the line as a statement: "In them we will be saved forever."
+[^64-4]: Literally "a garment of menstruation", a cloth made unclean by menstrual blood (Leviticus 15:19–24).
+[^64-5]: Literally "made us melt in the hand of our wrongdoings".
+[^64-6]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^64-7]: Literally "all our precious things have become a ruin", perhaps the city's treasured places or the temple's treasures. The temple was burned by the Babylonians in 587 or 586 BC (2 Kings 25:9).
+
+## Chapter 65
+
+*Status: draft*
+
+**1** I let myself be sought by those who did not ask for me; I let myself be found by those who did not seek me. I said, "Here I am, here I am," to a nation that was not called by my name.[^65-1]
+
+**2** All day long I have held out my hands to a rebellious people, who walk in a way that is not good, following their own thoughts,
+
+**3** a people who provoke me to my face continually, sacrificing in gardens and burning incense on bricks,[^65-2]
+
+**4** who sit among the graves and spend the night in secret places,[^65-3] who eat the flesh of pigs, with broth of spoiled meat[^65-4] in their pots,
+
+**5** who say, "Keep to yourself; do not come near me, for I am too holy for you!"[^65-5] These are smoke in my nostrils, a fire that burns all day long.
+
+**6** Look, it is written before me: I will not keep silent, but I will repay; I will repay into their laps[^65-6]
+
+**7** both your wrongdoings and the wrongdoings of your ancestors together,[^65-7] says Yahweh,[^65-8] because they burned incense on the mountains and insulted me on the hills. I will measure into their laps full payment for their former deeds.[^65-9]
+
+**8** This is what Yahweh says: As when new wine is found in a cluster of grapes and someone says, "Do not destroy it, for there is a blessing in it,"[^65-10] so I will do for the sake of my servants, so as not to destroy them all.
+
+**9** I will bring out offspring from Jacob, and from Judah heirs to my mountains. My chosen ones will possess them, and my servants will live there.
+
+**10** Sharon will become a pasture for flocks, and the Valley of Achor[^65-11] a resting place for herds, for my people who have sought me.
+
+**11** But you who abandon Yahweh, who forget my holy mountain, who set a table for Fortune and fill bowls of mixed wine for Destiny,[^65-12]
+
+**12** I will destine you for the sword,[^65-13] and all of you will bow down to be slaughtered, because I called and you did not answer, I spoke and you did not listen. You did what was evil in my eyes and chose what does not please me.
+
+**13** Therefore this is what the Lord Yahweh says: Look, my servants will eat, but you will go hungry; look, my servants will drink, but you will go thirsty; look, my servants will rejoice, but you will be put to shame.
+
+**14** Look, my servants will sing for joy with gladness of heart, but you will cry out with pain of heart and wail with a broken spirit.
+
+**15** You will leave your name to my chosen ones as a curse,[^65-14] and the Lord Yahweh will put you to death, but he will call his servants by another name.
+
+**16** So whoever invokes a blessing in the land will be blessed by the God of truth,[^65-15] and whoever swears an oath in the land will swear by the God of truth. For the former troubles will be forgotten and hidden from my eyes.
+
+**17** For look, I am creating new heavens and a new earth. The former things will not be remembered or come to mind.[^65-16]
+
+**18** But be glad and rejoice forever in what I am creating, for look, I am creating Jerusalem to be a delight and its people a joy.
+
+**19** I will rejoice over Jerusalem and delight in my people; the sound of weeping and the sound of crying will no longer be heard in it.[^65-17]
+
+**20** There will no longer be in it an infant who lives only a few days, or an old man who does not live out his days. For one who dies at a hundred years will be thought a youth, and one who falls short of a hundred years will be thought accursed.[^65-18]
+
+**21** They will build houses and live in them; they will plant vineyards and eat their fruit.
+
+**22** They will not build for others to live in, or plant for others to eat. For like the days of a tree will be the days of my people, and my chosen ones will long enjoy the work of their hands.
+
+**23** They will not labor in vain or bear children for sudden disaster, for they will be offspring blessed by Yahweh, and their descendants with them.
+
+**24** Before they call, I will answer; while they are still speaking, I will hear.
+
+**25** The wolf and the lamb will graze together, and the lion will eat straw like the ox, and dust will be the serpent's food.[^65-19] They will not harm or destroy on all my holy mountain, says Yahweh.
+
+[^65-1]: Or "to a nation that did not call on my name", as the Septuagint reads. Romans 10:20–21 quotes verses 1–2 from the Septuagint, applying verse 1 to the nations and verse 2 to Israel.
+[^65-2]: Perhaps altars or tiles of brick used in the worship of other gods.
+[^65-3]: Hebrew *netsurim*, "guarded places", perhaps tombs or caves where people sought messages from the dead.
+[^65-4]: Hebrew *piggulim*, "foul, rotten": meat unfit to eat and offensive to God (Leviticus 7:18). The Hebrew text is written "pieces" but read "broth".
+[^65-5]: Literally "for I am holy to you", or perhaps "for I would make you holy", that is, by contact, as holy things passed on their holiness (Ezekiel 44:19).
+[^65-6]: Literally "into their bosom", the fold of the garment over the chest. Also in verse 7.
+[^65-7]: The Hebrew moves from "their" in verse 6 to "your" here and back to "their".
+[^65-8]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^65-9]: Literally "I will measure their work first into their bosom". Or "I will measure out their payment in full".
+[^65-10]: Perhaps the words of a song sung at the grape harvest. Psalms 57–59 and 75 are set to a tune called "Do Not Destroy".
+[^65-11]: A valley near Jericho, named for the "trouble" (*akhar*) brought on Israel by Achan (Joshua 7:24–26). Hosea 2:17 (2:15 in most English Bibles) promises that it will become "a door of hope".
+[^65-12]: Hebrew *Gad* and *Meni*, gods of good fortune and fate, honored with meals and drink offerings.
+[^65-13]: A play on words: *u-maniti*, "I will destine", and *Meni*, "Destiny", in verse 11.
+[^65-14]: Hebrew *shevu'ah*, "oath", here a formula for cursing: their name will be used in the words "May Yahweh make you like …" (compare Jeremiah 29:22). *You* in the next line is singular.
+[^65-15]: Literally "the God of Amen". *Amen* means "firm, sure, true". Compare Revelation 3:14, where Jesus is called "the Amen".
+[^65-16]: 2 Peter 3:13 and Revelation 21:1 take up the promise of new heavens and a new earth (also 66:22).
+[^65-17]: Revelation 21:4 echoes this line.
+[^65-18]: Or "and the sinner who reaches a hundred years will be accursed". Hebrew *ha-chote* means "the sinner" or "one who misses the mark".
+[^65-19]: The serpent's curse in Genesis 3:14. Verse 25 repeats parts of 11:6–9.
+
+## Chapter 66
+
+*Status: draft*
+
+**1** This is what Yahweh[^66-1] says: Heaven is my throne, and the earth is my footstool. Where is the house you would build for me? Where is the place of my rest?
+
+**2** My hand made all these things, and so they came to be,[^66-2] declares Yahweh. But this is the one I will look to: the one who is humble and contrite in spirit, and who trembles at my word.
+
+**3** Whoever slaughters an ox is like one who kills a person; whoever sacrifices a lamb, like one who breaks a dog's neck; whoever presents a grain offering, like one who offers pig's blood; whoever burns incense as a memorial, like one who blesses an idol.[^66-3] They have chosen their own ways, and they delight in their detestable things.[^66-4]
+
+**4** So I too will choose harsh treatment for them and bring on them what they dread. For I called, and no one answered; I spoke, and they did not listen. They did what was evil in my eyes and chose what does not please me.[^66-5]
+
+**5** Hear the word of Yahweh, you who tremble at his word: Your brothers who hate you and cast you out for my name's sake have said, "Let Yahweh show his glory, so that we may see your joy!" But they will be put to shame.
+
+**6** Listen! An uproar from the city! A sound from the temple! It is the sound of Yahweh repaying his enemies what they deserve.
+
+**7** Before she went into labor, she gave birth; before her pains came on her, she delivered a son.
+
+**8** Who has heard of such a thing? Who has seen such things? Can a land be born in one day, or a nation be brought forth in a moment? Yet as soon as Zion went into labor, she gave birth to her children.
+
+**9** Shall I bring to the moment of birth[^66-6] and not cause delivery? says Yahweh. Shall I, who cause delivery, close the womb? says your God.
+
+**10** Rejoice with Jerusalem and be glad for her, all you who love her! Rejoice greatly with her, all you who mourn over her,
+
+**11** so that you may nurse and be satisfied at her comforting breasts, so that you may drink deeply and delight in her overflowing abundance.[^66-7]
+
+**12** For this is what Yahweh says: Look, I will extend peace to her like a river, and the wealth of the nations like an overflowing stream. You will nurse and be carried on her hip and bounced on her knees.
+
+**13** As a mother comforts her child,[^66-8] so I will comfort you; you will be comforted in Jerusalem.
+
+**14** You will see, and your heart will rejoice; your bones will flourish like grass. The hand of Yahweh will be made known to his servants, but his fury to his enemies.
+
+**15** For look, Yahweh will come in fire, and his chariots like the whirlwind, to repay his anger with fury and his rebuke with flames of fire.
+
+**16** For with fire Yahweh will execute judgment, and with his sword, on all people,[^66-9] and those slain by Yahweh will be many.
+
+**17** Those who consecrate and purify themselves to go into the gardens, following one in the middle,[^66-10] who eat the flesh of pigs and vile things and mice, will come to an end together, declares Yahweh.
+
+**18** As for me, I know their deeds and their thoughts, and the time is coming to gather all nations and languages.[^66-11] They will come and see my glory.
+
+**19** I will set a sign among them, and I will send survivors from them to the nations: to Tarshish, Pul and Lud (who draw the bow), to Tubal and Javan,[^66-12] to the distant coastlands[^66-13] that have not heard of my fame or seen my glory. They will declare my glory among the nations.
+
+**20** They will bring all your brothers from all the nations as an offering[^66-14] to Yahweh, on horses, in chariots and wagons, on mules and on camels,[^66-15] to my holy mountain Jerusalem, says Yahweh, just as the Israelites bring a grain offering in a clean vessel to the house of Yahweh.
+
+**21** And I will also take some of them to be priests and Levites,[^66-16] says Yahweh.
+
+**22** For as the new heavens and the new earth that I am making will endure before me, declares Yahweh, so your offspring and your name will endure.
+
+**23** From new moon to new moon, and from Sabbath to Sabbath, all people will come to bow down before me, says Yahweh.
+
+**24** They will go out and look on the corpses of the people who rebelled against me. For their worm will not die, and their fire will not be quenched,[^66-17] and they will be a horror to all people.[^66-18]
+
+[^66-1]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles. Stephen quotes verses 1–2 in Acts 7:49–50.
+[^66-2]: The Septuagint reads "and all these things are mine".
+[^66-3]: The Hebrew sets each pair side by side without "like": literally "one who slaughters the ox, one who strikes a man; one who sacrifices the lamb, one who breaks a dog's neck …". It may mean that their sacrifices are as unacceptable as murder and unclean offerings, or that the same people who sacrifice also commit these acts. *Idol* is Hebrew *aven*, "wickedness, nothingness" (41:29).
+[^66-4]: Literally "their *nephesh* delights in their detestable things". Hebrew *shiqqutsim*, a word for idols and unclean things.
+[^66-5]: The last two sentences repeat 65:12.
+[^66-6]: Literally "Shall I bring to the breaking point", the word used in 37:3 for the moment of birth.
+[^66-7]: Hebrew *ziz*, a word of uncertain meaning, perhaps "abundance" or "breast". Literally "the abundance of her glory".
+[^66-8]: Literally "As a man whom his mother comforts".
+[^66-9]: Literally "all flesh". Also in verses 23 and 24.
+[^66-10]: The Hebrew text is written with a masculine form but read with a feminine form of "one". The leader of the rites in the gardens (65:3) may have been a priest or priestess. The meaning is uncertain.
+[^66-11]: The Hebrew is incomplete. Literally "And I, their deeds and their thoughts, coming to gather all the nations and languages". The verb "know" is not in the Hebrew, but is found in the Septuagint. *The time* is supplied: the Hebrew has only the feminine form "is coming".
+[^66-12]: Distant peoples. *Tarshish* was a port in the far west (2:16); *Pul* is otherwise unknown as a land, and the Septuagint reads "Put", that is, Libya (Jeremiah 46:9); *Lud* is Lydia in Asia Minor, or a people of Africa; *Tubal* was in eastern Asia Minor; *Javan* is Greece (Ionia). For "who draw the bow" the Septuagint reads "Meshech", another people of Asia Minor (Ezekiel 27:13).
+[^66-13]: Hebrew *iyyim*, the islands and coasts of the Mediterranean (11:11), and in these chapters the most distant lands.
+[^66-14]: Hebrew *minchah*, "gift, tribute", in Leviticus a grain offering, as later in this verse.
+[^66-15]: Hebrew *kirkarot*, a word found only here, probably camels or other swift animals.
+[^66-16]: *Some of them* may be the nations of verses 18–19 or the brothers they bring back in verse 20.
+[^66-17]: Jesus quotes this line in Mark 9:48.
+[^66-18]: Hebrew *dera'on*, "horror, abhorrence", found also in Daniel 12:2, of those who will rise "to everlasting contempt". When this chapter is read aloud in the synagogue, verse 23 is repeated after this verse, so that the reading, and the book, do not end on this note. The same is done at the end of Malachi, Lamentations and Ecclesiastes.

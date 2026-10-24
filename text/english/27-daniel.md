@@ -454,7 +454,7 @@
 
 **30** That very night Belshazzar the Chaldean king was killed.[^5-15]
 
-[^5-1]: Belshazzar was the son of Nabonidus, the last king of Babylon, and ruled in Babylon while his father was away in Arabia. Babylonian records do not give him the title "king".
+[^5-1]: Belshazzar was the son of Nabonidus, the last king of Babylon, and ruled in Babylon while his father was away in Arabia. Babylonian records call him "the king's son", though one text says that Nabonidus entrusted the kingship to him.
 [^5-2]: Or "When he had tasted the wine".
 [^5-3]: Nebuchadnezzar was not Belshazzar's father in the usual sense. The Aramaic word can also mean "ancestor" or "predecessor". Also in verses 11, 13 and 18, and "son" in verse 22.
 [^5-4]: Literally "came out".
@@ -705,3 +705,346 @@
 [^8-28]: Literally "shut up the vision".
 [^8-29]: Literally "was finished". The meaning of the Hebrew *nihyeti* is uncertain.
 [^8-30]: Or "and I did not understand it". Literally "and there was no one who understood".
+
+## Chapter 9
+
+*Status: draft*
+
+**1** In the first year of Darius son of Ahasuerus, a Mede by descent,[^9-1] who was made king over the kingdom of the Babylonians,[^9-2]
+
+**2** in the first year of his reign, I, Daniel, understood from the books the number of years that, according to the word of Yahweh[^9-3] to Jeremiah the prophet, must pass until the desolation of Jerusalem came to an end: seventy years.[^9-4]
+
+**3** So I turned my face to the Lord God,[^9-5] to seek him by prayer and pleas for mercy, with fasting, sackcloth and ashes.
+
+**4** I prayed to Yahweh my God and made confession. I said, "Ah, Lord, the great and awesome God, who keeps covenant and faithful love with those who love him and keep his commands,[^9-6]
+
+**5** we have sinned and done wrong. We have acted wickedly and rebelled, turning away from your commands and your rulings.
+
+**6** We have not listened to your servants the prophets, who spoke in your name to our kings, our officials and our ancestors, and to all the people of the land.
+
+**7** To you, Lord, belongs righteousness, but to us open shame,[^9-7] as it is this day: to the people of Judah, to those who live in Jerusalem, and to all Israel, those near and those far away, in all the lands to which you have driven them because of the unfaithfulness they have committed against you.
+
+**8** Yahweh, to us belongs open shame: to our kings, our officials and our ancestors, because we have sinned against you.
+
+**9** To the Lord our God belong compassion and forgiveness, though we have rebelled against him.[^9-8]
+
+**10** We have not obeyed the voice of Yahweh our God by living according to his instructions,[^9-9] which he set before us through his servants the prophets.
+
+**11** All Israel has broken your law and turned away, refusing to obey your voice. So the curse and the oath written in the Law of Moses, the servant of God, have been poured out on us, because we have sinned against him.[^9-10]
+
+**12** He has carried out his word[^9-11] that he spoke against us and against our rulers who ruled us,[^9-12] by bringing on us a great disaster. Under the whole heaven nothing has ever been done like what has been done to Jerusalem.
+
+**13** Just as it is written in the Law of Moses, all this disaster has come on us. Yet we have not sought the favor of Yahweh our God[^9-13] by turning from our iniquities and paying heed to your truth.
+
+**14** So Yahweh kept watch over the disaster and brought it on us, for Yahweh our God is righteous in all the works he has done, and we have not obeyed his voice.
+
+**15** And now, Lord our God, who brought your people out of the land of Egypt with a mighty hand and made a name for yourself, as it is this day, we have sinned, we have acted wickedly.
+
+**16** Lord, in keeping with all your righteous acts, let your anger and your wrath turn away from your city Jerusalem, your holy mountain. Because of our sins and the iniquities of our ancestors, Jerusalem and your people have become a disgrace to all who are around us.
+
+**17** Now, our God, listen to the prayer of your servant and to his pleas for mercy. For the Lord's sake,[^9-14] make your face shine on your desolate sanctuary.
+
+**18** Turn your ear, my God, and hear. Open your eyes and see our desolations and the city that is called by your name.[^9-15] We do not lay our pleas before you because of our righteous acts, but because of your great compassion.
+
+**19** Lord, hear! Lord, forgive! Lord, listen and act! Do not delay, for your own sake, my God, for your city and your people are called by your name."
+
+**20** While I was still speaking and praying, confessing my sin and the sin of my people Israel, and laying my plea before Yahweh my God for the holy mountain of my God,
+
+**21** while I was still speaking in prayer, the man Gabriel, whom I had seen in the vision at the first, came to me in swift flight[^9-16] at about the time of the evening offering.[^9-17]
+
+**22** He gave me understanding[^9-18] and spoke with me. He said, "Daniel, I have now come out to give you insight and understanding.
+
+**23** At the beginning of your pleas for mercy a word went out, and I have come to tell it to you, for you are greatly loved.[^9-19] So consider the word and understand the vision.
+
+**24** Seventy weeks[^9-20] are decreed for your people and your holy city, to finish the transgression, to put an end to sin,[^9-21] to atone for iniquity, to bring in everlasting righteousness, to seal up vision and prophet, and to anoint a most holy place.[^9-22]
+
+**25** Know and understand this: from the going out of the word to restore and rebuild Jerusalem until an anointed one, a ruler,[^9-23] there will be seven weeks. Then for sixty-two weeks it will be built again, with square and moat,[^9-24] but in troubled times.[^9-25]
+
+**26** After the sixty-two weeks, an anointed one will be cut off and will have nothing.[^9-26] The people of a ruler who is to come will destroy the city and the sanctuary. Its end will come with a flood,[^9-27] and to the end there will be war. Desolations are decreed.
+
+**27** He will make a firm covenant with many[^9-28] for one week, and for half of the week he will put a stop to sacrifice and offering. And on a wing of abominations will come one who makes desolate,[^9-29] until the end that is decreed is poured out on the one who makes desolate."
+
+[^9-1]: Literally "from the seed of Media". On Darius the Mede, see 6:1.
+[^9-2]: Hebrew *Kasdim*, traditionally "the Chaldeans". See 1:4.
+[^9-3]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles. This chapter is the only place in Daniel where the name is used.
+[^9-4]: Jeremiah 25:11–12; 29:10.
+[^9-5]: Hebrew *Adonai ha-Elohim*. *Adonai*, "the Lord", is also used in verses 4, 7, 9, 15–17 and 19.
+[^9-6]: Compare Deuteronomy 7:9; Nehemiah 1:5. *Faithful love* is Hebrew *chesed*, loyal, covenant love.
+[^9-7]: Literally "shame of face". Also in verse 8.
+[^9-8]: Or "for we have rebelled against him".
+[^9-9]: Hebrew *torot*, the plural of *torah*, "instruction, law".
+[^9-10]: See Leviticus 26:14–39; Deuteronomy 28:15–68; 29:19–20 (29:20–21 in most English Bibles).
+[^9-11]: The Hebrew text is written "his words" but read "his word".
+[^9-12]: Literally "our judges who judged us".
+[^9-13]: Literally "we have not softened the face of Yahweh our God".
+[^9-14]: Literally "For the sake of the Lord". Theodotion reads "For your own sake, Lord".
+[^9-15]: Literally "over which your name is called". Also in verse 19.
+[^9-16]: Or "when I was completely weary". The meaning of the Hebrew *mu'af bi'af* is uncertain: it may come from a word meaning "to fly" or from one meaning "to be weary".
+[^9-17]: Hebrew *minchat erev*, offered in the late afternoon (1 Kings 18:36; Ezra 9:4–5).
+[^9-18]: The Septuagint and Theodotion read "He came", a reading that differs from the Hebrew by one letter.
+[^9-19]: Literally "you are precious things". Also in 10:11, 19.
+[^9-20]: Hebrew *shavu'im shiv'im*, "seventy sevens": seventy periods of seven, usually understood as weeks of years, 490 years in all (compare Leviticus 25:8). The seventy years of Jeremiah's prophecy (verse 2) become seventy times seven years. Also in verses 25–27.
+[^9-21]: The Hebrew text is written "to seal up sins" but read "to put an end to sin".
+[^9-22]: Or "a most holy one". Hebrew *qodesh qodashim*, "holy of holies", which elsewhere means the most holy place in the tabernacle and temple (Exodus 26:33–34) or the most holy things of the sanctuary (Exodus 29:37; 30:29). Some ancient and later interpreters understood it of a person.
+[^9-23]: Hebrew *mashiach nagid*, "an anointed one, a ruler" or "an anointed ruler". *Mashiach* means one anointed with oil, as kings and priests were. Interpreters who follow the Masoretic accents (see the next note) have identified this figure with Cyrus, whom Isaiah 45:1 calls Yahweh's anointed, or with Zerubbabel or the high priest Joshua after the exile (Ezra 3:2). Christian tradition read here the coming of the Messiah, Jesus: "unto the Messiah the Prince" (King James Version).
+[^9-24]: Hebrew *rechov ve-charuts*, "open square and moat". *Charuts* may also mean "decreed".
+[^9-25]: The translation follows the Masoretic accents, which separate the seven weeks from the sixty-two weeks. The Vulgate and older English translations such as the King James Version join them: "there will be seven weeks and sixty-two weeks; the street will be built again".
+[^9-26]: Literally "and there will not be to him". The meaning is uncertain: perhaps "and will have no one" or "and will be no more". Many modern interpreters identify this anointed one with the high priest Onias III, who was murdered in about 171 BC (2 Maccabees 4:33–35), and the coming ruler with Antiochus IV (see 8:9). Christian tradition has understood the verse of the death of Jesus and the destruction of Jerusalem by the Romans in AD 70.
+[^9-27]: Or "His end will come in a flood", referring to the ruler.
+[^9-28]: Hebrew *la-rabbim*, "with the many", a phrase that recurs in 11:33, 39; 12:3. *He* is probably the coming ruler of verse 26.
+[^9-29]: The Hebrew is difficult. "Wing" may mean a corner or a high point of the temple or its altar. *Shiqqutsim meshomem*, "abominations that make desolate", is echoed in 11:31 and 12:11 ("the abomination that causes desolation"), probably a pagan altar or image set up in the temple in 167 BC (1 Maccabees 1:54). The phrase is taken up in Mark 13:14 and Matthew 24:15.
+
+## Chapter 10
+
+*Status: draft*
+
+**1** In the third year of Cyrus king of Persia,[^10-1] a word was revealed to Daniel, who was called Belteshazzar. The word was true, and it concerned a great conflict.[^10-2] He understood the word and had understanding of the vision.
+
+**2** At that time I, Daniel, had been mourning for three whole weeks.[^10-3]
+
+**3** I ate no rich food,[^10-4] no meat or wine entered my mouth, and I did not anoint myself at all until the three whole weeks were over.
+
+**4** On the twenty-fourth day of the first month,[^10-5] I was on the bank of the great river, the Tigris.[^10-6]
+
+**5** I lifted my eyes and looked, and there was a man dressed in linen, with a belt of fine gold from Uphaz[^10-7] around his waist.
+
+**6** His body was like beryl,[^10-8] his face like the appearance of lightning, his eyes like flaming torches, his arms and his legs like the gleam of polished bronze, and the sound of his words like the sound of a multitude.[^10-9]
+
+**7** I, Daniel, was the only one who saw the vision. The men who were with me did not see the vision, but great terror fell on them, and they fled and hid themselves.
+
+**8** So I was left alone, and I saw this great vision. No strength was left in me. My face turned deathly pale,[^10-10] and I retained no strength.
+
+**9** Then I heard the sound of his words, and as I heard the sound of his words, I fell into a deep sleep on my face, with my face to the ground.
+
+**10** Then a hand touched me and set me trembling on my knees and the palms of my hands.
+
+**11** He said to me, "Daniel, greatly loved man,[^10-11] understand the words that I am speaking to you, and stand up where you are,[^10-12] for I have now been sent to you." When he had spoken this word to me, I stood up trembling.
+
+**12** Then he said to me, "Do not be afraid, Daniel, for from the first day that you set your heart to understand and to humble yourself before your God, your words have been heard, and I have come because of your words.
+
+**13** The prince of the kingdom of Persia[^10-13] stood against me for twenty-one days. Then Michael,[^10-14] one of the chief princes, came to help me, and I was left there with the kings of Persia.[^10-15]
+
+**14** Now I have come to make you understand what will happen to your people in the last days,[^10-16] for the vision is for days yet to come."
+
+**15** While he was speaking these words with me, I turned my face toward the ground and was speechless.
+
+**16** Then one who looked like a human being[^10-17] touched my lips. I opened my mouth and spoke, and I said to the one standing before me, "My lord, because of the vision pains have come over me,[^10-18] and I retain no strength.
+
+**17** How can my lord's servant speak with my lord? As for me, no strength remains in me now, and no breath is left in me."
+
+**18** Then the one who looked like a human being touched me again and strengthened me.
+
+**19** He said, "Do not be afraid, greatly loved man. Peace be with you. Be strong, be strong!" As he spoke with me, I was strengthened, and I said, "Let my lord speak, for you have strengthened me."
+
+**20** Then he said, "Do you know why I have come to you? Now I will go back to fight against the prince of Persia, and when I go out, the prince of Greece will come.
+
+**21** But I will tell you what is written in the book of truth.[^10-19] There is no one who stands firmly with me against these except Michael, your prince.[^10-20]
+
+[^10-1]: About 536 BC.
+[^10-2]: Or "a great hardship". Hebrew *tsava gadol*, literally "a great army" or "a great service".
+[^10-3]: Literally "three weeks of days". Also in verse 3.
+[^10-4]: Literally "bread of delights".
+[^10-5]: The month of Nisan, March–April, the month of Passover (Exodus 12:2, 18).
+[^10-6]: Hebrew *Chiddeqel*.
+[^10-7]: The location of Uphaz is unknown (Jeremiah 10:9).
+[^10-8]: Hebrew *tarshish*, a precious stone, perhaps yellow jasper or topaz (Exodus 28:20; Ezekiel 1:16).
+[^10-9]: Compare Ezekiel 1:7, 13–14, 24; Revelation 1:13–15.
+[^10-10]: Literally "my splendor was turned on me to ruin".
+[^10-11]: Literally "man of precious things". See 9:23. Also in verse 19.
+[^10-12]: Literally "stand on your standing".
+[^10-13]: An angelic being, the heavenly ruler of Persia. Compare "the prince of Greece" in verse 20.
+[^10-14]: Michael means "Who is like God?". He is the angel who protects Israel (verse 21; 12:1). Compare Jude 9 and Revelation 12:7.
+[^10-15]: The Septuagint and Theodotion read "and I left him there with the prince of the kingdom of Persia".
+[^10-16]: Literally "at the end of the days". See 2:28.
+[^10-17]: Literally "like the likeness of the sons of man"; in verse 18, "like the appearance of a man". Compare 7:13.
+[^10-18]: Literally "my pangs have turned upon me", the word used for the pains of childbirth (1 Samuel 4:19).
+[^10-19]: Or "the true book". Literally "the writing of truth".
+[^10-20]: The Hebrew "your" is plural: the prince of Daniel's people (12:1).
+
+## Chapter 11
+
+*Status: draft*
+
+**1** "And as for me, in the first year of Darius the Mede, I stood up to support and strengthen him.[^11-1]
+
+**2** Now I will tell you the truth. Three more kings will arise in Persia, and the fourth will be far richer than all of them. When he has grown strong through his riches, he will stir up everyone against the kingdom of Greece.[^11-2]
+
+**3** Then a mighty king will arise, who will rule with great authority and do as he pleases.[^11-3]
+
+**4** But as soon as he has arisen, his kingdom will be broken and divided toward the four winds of heaven. It will not go to his descendants, nor will it have the power with which he ruled, for his kingdom will be uprooted and given to others besides these.
+
+**5** The king of the south will grow strong, but one of his commanders will grow stronger than he and will rule, and his dominion will be a great dominion.[^11-4]
+
+**6** After some years they will make an alliance. The daughter of the king of the south will come to the king of the north to make an agreement, but she will not keep her power,[^11-5] and he and his power[^11-6] will not last. She will be given up, together with those who brought her, her father[^11-7] and the one who supported her in those times.[^11-8]
+
+**7** A shoot from her roots will arise in his place.[^11-9] He will come against the army and enter the fortress of the king of the north. He will deal with them and prevail.
+
+**8** He will also carry off to Egypt their gods, with their cast images[^11-10] and their precious vessels of silver and gold. Then for some years he will keep away from the king of the north.
+
+**9** Then the king of the north[^11-11] will come into the realm of the king of the south, but he will return to his own land.
+
+**10** His sons will prepare for war and assemble a multitude of great forces. One of them will keep coming, overflow and pass through, and again he will wage war as far as his fortress.[^11-12]
+
+**11** Then the king of the south will be enraged and go out and fight against him, the king of the north. He will raise a great multitude, but the multitude will be given into his hand.[^11-13]
+
+**12** When the multitude has been carried off, his heart will be lifted up. He will bring down tens of thousands, but he will not prevail.
+
+**13** For the king of the north will again raise a multitude, greater than the first, and after some years[^11-14] he will come on with a great army and much equipment.
+
+**14** In those times many will rise up against the king of the south. Violent men from among your own people will lift themselves up to fulfill the vision, but they will stumble.
+
+**15** Then the king of the north will come and pile up a siege ramp and capture a fortified city. The forces of the south will not stand, not even his chosen troops, and there will be no strength to stand.
+
+**16** The one who comes against him will do as he pleases, and no one will stand before him. He will stand in the beautiful land,[^11-15] and destruction will be in his hand.[^11-16]
+
+**17** He will set his face to come with the strength of his whole kingdom, and he will make an agreement with him[^11-17] and carry it out. He will give him a daughter in marriage[^11-18] in order to destroy the kingdom,[^11-19] but she will not stand by him or be on his side.
+
+**18** Then he will turn his face to the coastlands and capture many. But a commander will put an end to his insolence; indeed, he will turn his insolence back on him.[^11-20]
+
+**19** Then he will turn his face back toward the fortresses of his own land, but he will stumble and fall and be found no more.[^11-21]
+
+**20** In his place will arise one who sends an oppressor through the glory of the kingdom.[^11-22] But within a few days he will be broken, though not in anger or in battle.
+
+**21** In his place will arise a contemptible person, who has not been given royal majesty. He will come in without warning[^11-23] and seize the kingdom through intrigue.[^11-24]
+
+**22** Overwhelming forces will be swept away before him[^11-25] and broken, and also a prince of the covenant.[^11-26]
+
+**23** After an alliance is made with him, he will act deceitfully. He will rise to power with only a small nation.
+
+**24** Without warning he will come into the richest parts of the province and do what neither his ancestors nor their ancestors had done: he will scatter plunder, spoil and goods among them. He will devise plans against fortresses, but only for a time.
+
+**25** He will stir up his strength and his courage against the king of the south with a great army, and the king of the south will wage war with a very great and powerful army, but he will not stand, because of the plots devised against him.[^11-27]
+
+**26** Those who eat his food[^11-28] will destroy him. His army will be swept away,[^11-29] and many will fall slain.
+
+**27** The two kings, their hearts set on evil, will sit at one table and speak lies to each other, but it will not succeed, for the end is still to come at the appointed time.
+
+**28** He will return to his land with great wealth, but his heart will be set against the holy covenant. He will take action and return to his own land.[^11-30]
+
+**29** At the appointed time he will come again into the south, but this time it will not be as it was before.
+
+**30** Ships of Kittim[^11-31] will come against him, and he will lose heart. He will turn back and rage against the holy covenant and take action. He will return and pay heed to those who abandon the holy covenant.
+
+**31** Forces sent by him[^11-32] will rise up and profane the sanctuary, the fortress. They will take away the regular offering[^11-33] and set up the abomination that causes desolation.[^11-34]
+
+**32** Those who act wickedly against the covenant he will corrupt with flattery, but the people who know their God will stand firm and take action.
+
+**33** Those among the people who are wise[^11-35] will give understanding to many, though for some days they will fall by sword and flame, by captivity and plunder.
+
+**34** When they fall, they will receive a little help,[^11-36] and many will join them insincerely.
+
+**35** Some of the wise will fall, so that they may be refined, purified and made white, until the time of the end, for it is still to come at the appointed time.
+
+**36** The king will do as he pleases. He will exalt himself and make himself greater than every god, and he will say astonishing things against the God of gods. He will succeed until the wrath is completed, for what has been decreed will be done.
+
+**37** He will pay no attention to the gods of his ancestors,[^11-37] or to the one desired by women,[^11-38] or to any god, for he will make himself greater than them all.
+
+**38** Instead, he will honor a god of fortresses in their place.[^11-39] A god whom his ancestors did not know he will honor with gold and silver, with precious stones and costly gifts.
+
+**39** He will deal with the strongest fortresses with the help of a foreign god.[^11-40] Those who acknowledge him he will greatly honor. He will make them rulers over many and distribute land as a reward.[^11-41]
+
+**40** At the time of the end the king of the south will engage him in battle,[^11-42] but the king of the north will storm against him with chariots and horsemen and many ships. He will invade countries, overflow and pass through.
+
+**41** He will enter the beautiful land, and many[^11-43] will fall. But these will escape from his hand: Edom, Moab and the leaders of the Ammonites.[^11-44]
+
+**42** He will stretch out his hand against countries, and the land of Egypt will not escape.
+
+**43** He will gain control of the treasures of gold and silver and all the precious things of Egypt, and the Libyans and the Cushites[^11-45] will follow in his steps.
+
+**44** But reports from the east and the north will alarm him, and he will go out in great fury to destroy many and devote them to destruction.[^11-46]
+
+**45** He will pitch his royal tents[^11-47] between the seas and the beautiful holy mountain.[^11-48] Yet he will come to his end, and no one will help him.
+
+[^11-1]: Probably Michael (10:21). The speech of the man dressed in linen (10:5) continues to 12:4. The kings in this chapter are not named; the notes give the rulers most interpreters identify them with.
+[^11-2]: Probably Xerxes I (486–465 BC), who invaded Greece in 480 BC.
+[^11-3]: Alexander the Great (336–323 BC). See 8:21–22.
+[^11-4]: The king of the south is Ptolemy I of Egypt; the commander who became stronger is probably Seleucus I, who founded the Seleucid kingdom of Syria and Mesopotamia, the kingdom of "the king of the north".
+[^11-5]: Literally "she will not retain the strength of the arm".
+[^11-6]: Or "his offspring", reading the same consonants differently. Literally "his arm".
+[^11-7]: Literally "the one who begot her". The same consonants can be read "her child".
+[^11-8]: Probably Berenice, daughter of Ptolemy II, who married the Seleucid king Antiochus II in about 252 BC. After his death she and her infant son were murdered.
+[^11-9]: Literally "on his base". Probably Berenice's brother Ptolemy III, who invaded the Seleucid kingdom in 246 BC.
+[^11-10]: Or "their princes". Hebrew *nesikhehem*.
+[^11-11]: Literally "he". Probably Seleucus II.
+[^11-12]: The Hebrew text is written "His son … and they will wage war as far as its fortress" but read "His sons … and he will wage war as far as his fortress". The sons are probably Seleucus III and Antiochus III, who campaigned against Egypt.
+[^11-13]: The king of the north will raise a great army, but it will be given into the hand of the king of the south: probably the defeat of Antiochus III by Ptolemy IV at Raphia in 217 BC.
+[^11-14]: Literally "at the end of the times, years". Antiochus III returned and defeated Egypt at Panium in about 200 BC, and took control of Judea.
+[^11-15]: The land of Israel. See 8:9.
+[^11-16]: Or "and all of it will be in his hand".
+[^11-17]: Or "he will bring an agreement with him". The meaning of the Hebrew is uncertain.
+[^11-18]: Literally "the daughter of women". Probably Cleopatra I, daughter of Antiochus III, who married Ptolemy V in 194/193 BC.
+[^11-19]: Literally "to destroy it" or "to destroy her".
+[^11-20]: The second half of the verse is difficult in Hebrew. Antiochus III campaigned in Asia Minor and Greece and was defeated by the Romans under Lucius Scipio at Magnesia in 190 BC.
+[^11-21]: Antiochus III was killed in 187 BC while plundering a temple in Elymais.
+[^11-22]: Or "for the glory of the kingdom", that is, to raise money. Probably Seleucus IV (187–175 BC), whose minister Heliodorus tried to seize the temple treasury in Jerusalem (2 Maccabees 3). "The glory of the kingdom" may be the land of Israel or its temple. Seleucus IV was murdered.
+[^11-23]: Literally "in ease". See 8:25. Also in verse 24. The contemptible person is Antiochus IV Epiphanes (175–164 BC), the small horn of 8:9.
+[^11-24]: Literally "smooth things". Also in verse 34, "insincerely".
+[^11-25]: Literally "The arms of the flood will be flooded before him".
+[^11-26]: Perhaps the high priest Onias III, who was deposed in 175 BC and murdered in about 171 BC (2 Maccabees 4:7–10, 33–35; compare Daniel 9:26).
+[^11-27]: Antiochus IV's first campaign against Egypt and Ptolemy VI, in 170–169 BC.
+[^11-28]: Hebrew *pat-bag*. See 1:5.
+[^11-29]: Or "His army will sweep everything away".
+[^11-30]: On his return from Egypt in 169 BC Antiochus IV plundered the temple in Jerusalem (1 Maccabees 1:20–24).
+[^11-31]: Hebrew *Kittim*, the people of Cyprus, later used of other peoples of the west. Here the Romans: in 168 BC a Roman envoy forced Antiochus IV to leave Egypt.
+[^11-32]: Literally "Arms from him".
+[^11-33]: See 8:11.
+[^11-34]: Hebrew *ha-shiqquts meshomem*. In 167 BC a pagan altar was built on the altar of burnt offering in the temple (1 Maccabees 1:54, 59). Compare 9:27; 12:11; Mark 13:14.
+[^11-35]: Hebrew *maskilim*, "those who have insight" or "those who give insight". Also in verse 35 and 12:3, 10.
+[^11-36]: Perhaps the revolt led by Judas Maccabeus, which began in 167 BC.
+[^11-37]: Or "the God of his ancestors".
+[^11-38]: Probably a god popular among women, such as Tammuz or Adonis (compare Ezekiel 8:14).
+[^11-39]: Literally "on his base".
+[^11-40]: Or "He will man the strongest fortresses with the people of a foreign god", reading the same consonants differently (*am*, "people", for *im*, "with").
+[^11-41]: Or "for a price".
+[^11-42]: Literally "will butt against him" (compare 8:4). Verses 40–45 do not match what is known of the end of Antiochus IV, who died in Persia in 164 BC (1 Maccabees 6:1–16; see 8:25). Interpreters differ on whether they describe his end in general or symbolic terms, or the end of a ruler still to come.
+[^11-43]: Or "many countries". The same consonants can be read "tens of thousands".
+[^11-44]: Literally "the first of the sons of Ammon".
+[^11-45]: The people of Cush, the region south of Egypt (ancient Nubia).
+[^11-46]: Hebrew *le-hacharim*, to devote to God by destroying completely (as in Joshua 6:17–21).
+[^11-47]: Hebrew *appeden*, a word borrowed from Persian for a palace or a royal pavilion.
+[^11-48]: Literally "the mountain of holy beauty": Mount Zion, where the temple stood. "The seas" may be the Mediterranean.
+
+## Chapter 12
+
+*Status: draft*
+
+**1** "At that time Michael, the great prince who stands guard over your people,[^12-1] will arise. There will be a time of distress such as has never been since there was a nation until that time. But at that time your people will be delivered, everyone who is found written in the book.[^12-2]
+
+**2** Many of those who sleep in the dust of the earth[^12-3] will awake, some to everlasting life, and some to disgrace and everlasting contempt.[^12-4]
+
+**3** Those who are wise[^12-5] will shine like the brightness of the sky,[^12-6] and those who lead many to righteousness will shine like the stars forever and ever.
+
+**4** But you, Daniel, keep the words secret and seal the book until the time of the end. Many will run to and fro, and knowledge will increase."[^12-7]
+
+**5** Then I, Daniel, looked, and there stood two others, one on this bank of the river and one on that bank of the river.[^12-8]
+
+**6** One of them said to the man dressed in linen, who was above the waters of the river, "How long will it be until the end of these wonders?"
+
+**7** I heard the man dressed in linen, who was above the waters of the river. He raised his right hand and his left hand toward heaven and swore by the one who lives forever that it would be for a time, times and half a time,[^12-9] and that when the shattering of the power of the holy people comes to an end, all these things will be completed.[^12-10]
+
+**8** I heard, but I did not understand. So I said, "My lord, what will be the outcome of these things?"
+
+**9** He said, "Go your way, Daniel, for the words are kept secret and sealed until the time of the end.
+
+**10** Many will be purified, made white and refined, but the wicked will act wickedly. None of the wicked will understand, but those who are wise will understand.
+
+**11** From the time that the regular offering[^12-11] is taken away and the abomination that causes desolation[^12-12] is set up, there will be 1,290 days.
+
+**12** Blessed is the one who waits and reaches 1,335 days.[^12-13]
+
+**13** But you, go your way to the end. You will rest, and you will rise to receive your allotted share at the end of the days."[^12-14]
+
+[^12-1]: Literally "who stands over the sons of your people". See 10:13, 21.
+[^12-2]: Compare Exodus 32:32–33; Psalm 69:29 (69:28 in most English Bibles); Malachi 3:16; Revelation 20:12.
+[^12-3]: Literally "the ground of dust". Compare Genesis 3:19.
+[^12-4]: This is the clearest statement in the Old Testament of a resurrection of the dead (compare Isaiah 26:19). "Many" may mean a great number, or it may mean that not all will rise. Hebrew *dir'on*, "contempt, abhorrence", is found elsewhere only in Isaiah 66:24. Compare John 5:28–29.
+[^12-5]: Hebrew *maskilim*. See 11:33. Also in verse 10.
+[^12-6]: Literally "the brightness of the dome", Hebrew *raqia*, the sky pictured as a solid vault (Genesis 1:6–8).
+[^12-7]: The Septuagint reads "and the land will be filled with injustice".
+[^12-8]: Hebrew *ye'or*, a word usually used of the Nile; here the Tigris (10:4). Also in verses 6–7.
+[^12-9]: That is, probably three and a half years. See 7:25.
+[^12-10]: Literally "the hand of the holy people". Compare Revelation 10:5–7.
+[^12-11]: See 8:11.
+[^12-12]: Hebrew *shiqquts shomem*. See 11:31; compare 9:27 and Mark 13:14.
+[^12-13]: The numbers in verses 11 and 12 differ from each other and from 8:14. Each is a little more than three and a half years (compare verse 7).
+[^12-14]: Literally "and you will stand for your lot at the end of the days". *Rest* may refer to death and *rise* to resurrection (compare verse 2).

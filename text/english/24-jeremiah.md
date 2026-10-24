@@ -2013,7 +2013,7 @@
 
 **17** This is what Yahweh of Armies says: I am going to send against them the sword, famine and plague, and I will make them like rotten[^29-15] figs that are too bad to be eaten.
 
-**18** I will pursue them with the sword, famine and plague, and I will make them an object of terror to all the kingdoms of the earth, a curse, an object of horror, of hissing[^29-16] and of scorn among all the nations where I have driven them,
+**18** I will pursue them with the sword, famine and plague, and I will make them a horror to all the kingdoms of the earth, and a curse, a horror,[^29-16] a thing to hiss at and a disgrace among all the nations where I have driven them,
 
 **19** because they did not listen to my words, declares Yahweh, which I sent to them through my servants the prophets, sending them again and again.[^29-17] But you did not listen, declares Yahweh.
 
@@ -2058,9 +2058,9 @@
 [^29-13]: Verse 15 leads into verses 21–23, which deal with the prophets in Babylon. The Septuagint does not have verses 16–20.
 [^29-14]: The king is Zedekiah, and the city Jerusalem. Verses 16–19 take up the picture of the figs in chapter 24.
 [^29-15]: Hebrew *sho'arim*, a rare word, perhaps "split open" or "disgusting".
-[^29-16]: Or "whistling", a sound of shock or scorn.
+[^29-16]: Two different Hebrew words are translated "horror" in this verse, *za'avah* and *shammah*. Hissing or whistling was a sound of shock or scorn.
 [^29-17]: Literally "rising early and sending".
-[^29-18]: Hebrew *Nevukhadretsar*, the spelling Jeremiah usually uses, nearer to the Babylonian *Nabu-kudurri-usur*. Verses 1 and 3 have the more familiar *Nevukhadnetsar*. This translation writes "Nebuchadnezzar" throughout.
+[^29-18]: Hebrew *Nevukhadre'tsar*: see 21:2. Verses 1 and 3 have *Nevukhadne'tsar*, as in chapters 27–28.
 [^29-19]: Literally "From them a curse will be taken by all the exiles of Judah". A wordplay: *qelalah*, "curse", sounds like *qalam*, "roasted them".
 [^29-20]: Perhaps "from Nehelam", a place otherwise unknown. The name sounds like *chalam*, "to dream" (verse 8).
 [^29-21]: Shemaiah's letter is quoted in verses 26–28. The sentence that begins with "Because" is not completed; the sentence against Shemaiah is given in verses 31–32.
@@ -2270,7 +2270,7 @@
 
 **6** Jeremiah said: The word of Yahweh came to me:
 
-**7** Hanamel son of Shallum your uncle is going to come to you and say, "Buy my field in Anathoth, for the right of redemption is yours to buy it."[^32-7]
+**7** "Hanamel son of Shallum your uncle is going to come to you and say, 'Buy my field in Anathoth, for the right of redemption is yours to buy it.'"[^32-7]
 
 **8** Then Hanamel my cousin[^32-8] came to me in the courtyard of the guard, just as Yahweh had said, and he said to me, "Please buy my field in Anathoth, in the land of Benjamin, for the right of possession and of redemption is yours. Buy it for yourself." Then I knew that this was the word of Yahweh.
 
@@ -2284,9 +2284,9 @@
 
 **13** In their presence I charged Baruch:
 
-**14** This is what Yahweh of Armies,[^32-14] the God of Israel, says: Take these documents, this deed of purchase, both the sealed copy and this open copy, and put them in a clay jar, so that they will last for a long time.
+**14** "This is what Yahweh of Armies,[^32-14] the God of Israel, says: Take these documents, this deed of purchase, both the sealed copy and this open copy, and put them in a clay jar, so that they will last for a long time.
 
-**15** For this is what Yahweh of Armies, the God of Israel, says: Houses and fields and vineyards will again be bought in this land.
+**15** For this is what Yahweh of Armies, the God of Israel, says: Houses and fields and vineyards will again be bought in this land."
 
 **16** After I had given the deed of purchase to Baruch son of Neriah, I prayed to Yahweh:
 
@@ -2459,7 +2459,7 @@
 
 **4** Yet hear the word of Yahweh, Zedekiah king of Judah. This is what Yahweh says about you: You will not die by the sword.
 
-**5** You will die in peace. As they burned spices for your ancestors, the former kings who were before you, so they will burn spices for you[^34-4] and mourn for you, "Alas, lord!"[^34-5] For I myself have spoken the word, declares Yahweh.
+**5** You will die in peace. As they burned spices for your ancestors, the former kings who were before you, so they will burn spices for you[^34-4] and mourn for you, "Alas, master!"[^34-5] For I myself have spoken the word, declares Yahweh.
 
 **6** Jeremiah the prophet spoke all these words to Zedekiah king of Judah in Jerusalem,
 
@@ -2519,7 +2519,7 @@
 
 **1** The word that came to Jeremiah from Yahweh[^35-1] in the days of Jehoiakim son of Josiah king of Judah:[^35-2]
 
-**2** Go to the house of the Rechabites[^35-3] and speak with them. Bring them to the house of Yahweh, into one of the rooms, and give them wine to drink.
+**2** "Go to the house of the Rechabites[^35-3] and speak with them. Bring them to the house of Yahweh, into one of the rooms, and give them wine to drink."
 
 **3** So I took Jaazaniah son of Jeremiah son of Habazziniah, his brothers and all his sons, the whole house of the Rechabites.
 
@@ -2541,15 +2541,15 @@
 
 **12** Then the word of Yahweh came to Jeremiah:
 
-**13** This is what Yahweh of Armies,[^35-8] the God of Israel, says: Go and say to the people of Judah and the inhabitants of Jerusalem: Will you not accept discipline and listen to my words? declares Yahweh.
+**13** "This is what Yahweh of Armies,[^35-8] the God of Israel, says: Go and say to the people of Judah and the inhabitants of Jerusalem: 'Will you not accept discipline and listen to my words? declares Yahweh.
 
 **14** The words of Jonadab son of Rechab, who commanded his descendants not to drink wine, have been kept. They have not drunk wine to this day, because they have obeyed their ancestor's command. But I have spoken to you again and again,[^35-9] and you have not listened to me.
 
-**15** I have sent you all my servants the prophets, sending them again and again, to say, "Turn now, each of you, from his evil way, and make your deeds good. Do not follow other gods to serve them. Then you will live in the land I gave to you and your ancestors." But you did not pay attention or listen to me.[^35-10]
+**15** I have sent you all my servants the prophets, sending them again and again, to say: Turn now, each of you, from his evil way, and make your deeds good. Do not follow other gods to serve them. Then you will live in the land I gave to you and your ancestors. But you did not pay attention or listen to me.[^35-10]
 
 **16** The descendants of Jonadab son of Rechab have kept the command their ancestor gave them, but this people has not listened to me.
 
-**17** Therefore this is what Yahweh, the God of Armies, the God of Israel, says:[^35-11] I am going to bring on Judah and on all the inhabitants of Jerusalem all the disaster I have pronounced against them, because I spoke to them, but they did not listen, and I called to them, but they did not answer.
+**17** Therefore this is what Yahweh, the God of Armies, the God of Israel, says:[^35-11] I am going to bring on Judah and on all the inhabitants of Jerusalem all the disaster I have pronounced against them, because I spoke to them, but they did not listen, and I called to them, but they did not answer.'"
 
 **18** To the house of the Rechabites Jeremiah said, "This is what Yahweh of Armies, the God of Israel, says: Because you have obeyed the command of Jonadab your ancestor, and kept all his commands, and done everything he commanded you,
 
@@ -2574,9 +2574,9 @@
 
 **1** In the fourth year of Jehoiakim son of Josiah king of Judah,[^36-1] this word came to Jeremiah from Yahweh:[^36-2]
 
-**2** Take a scroll[^36-3] and write on it all the words I have spoken to you concerning Israel and Judah and all the nations, from the day I first spoke to you, in the days of Josiah, until today.
+**2** "Take a scroll[^36-3] and write on it all the words I have spoken to you concerning Israel and Judah and all the nations, from the day I first spoke to you, in the days of Josiah, until today.
 
-**3** Perhaps when the house of Judah hears of all the disaster I intend to bring on them, each of them will turn from his evil way, and I will forgive their wrongdoing and their sin.
+**3** Perhaps when the house of Judah hears of all the disaster I intend to bring on them, each of them will turn from his evil way, and I will forgive their wrongdoing and their sin."
 
 **4** So Jeremiah called Baruch son of Neriah, and Baruch wrote on a scroll at Jeremiah's dictation[^36-4] all the words of Yahweh that he had spoken to him.
 
@@ -2626,13 +2626,13 @@
 
 **27** After the king had burned the scroll with the words that Baruch had written at Jeremiah's dictation, the word of Yahweh came to Jeremiah:
 
-**28** Take another scroll and write on it all the former words that were on the first scroll, which Jehoiakim king of Judah burned.
+**28** "Take another scroll and write on it all the former words that were on the first scroll, which Jehoiakim king of Judah burned.
 
-**29** And concerning Jehoiakim king of Judah you are to say: This is what Yahweh says: You burned this scroll, saying, "Why have you written on it that the king of Babylon will certainly come and destroy this land and wipe out from it both human beings and animals?"
+**29** And concerning Jehoiakim king of Judah you are to say: 'This is what Yahweh says: You burned this scroll, saying: Why have you written on it that the king of Babylon will certainly come and destroy this land and wipe out from it both human beings and animals?
 
 **30** Therefore this is what Yahweh says about Jehoiakim king of Judah: He will have no one to sit on the throne of David, and his corpse will be thrown out to the heat by day and the frost by night.[^36-16]
 
-**31** I will punish him and his descendants and his servants for their wrongdoing. I will bring on them, on the inhabitants of Jerusalem and on the people of Judah all the disaster I pronounced against them, but they did not listen.
+**31** I will punish him and his descendants and his servants for their wrongdoing. I will bring on them, on the inhabitants of Jerusalem and on the people of Judah all the disaster I pronounced against them, but they did not listen.'"
 
 **32** So Jeremiah took another scroll and gave it to Baruch son of Neriah the scribe, and he wrote on it at Jeremiah's dictation all the words of the scroll that Jehoiakim king of Judah had burned in the fire. And many similar words were added to them.
 
@@ -2652,3 +2652,1275 @@
 [^36-14]: Compare 2 Kings 22:11, where Josiah, Jehoiakim's father, tears his clothes when he hears the words of the book of the law.
 [^36-15]: Or "a prince of the royal family". The title may also have been used of a royal officer.
 [^36-16]: Compare 22:18–19. Jehoiakim's son Jehoiachin reigned only three months before he was taken into exile (2 Kings 24:6–15).
+
+## Chapter 37
+
+*Status: draft*
+
+**1** Zedekiah son of Josiah reigned as king in place of Coniah[^37-1] son of Jehoiakim; Nebuchadnezzar king of Babylon made him king in the land of Judah.
+
+**2** But neither he nor his servants nor the people of the land listened to the words of Yahweh[^37-2] that he spoke through Jeremiah the prophet.
+
+**3** King Zedekiah sent Jehucal son of Shelemiah and Zephaniah son of Maaseiah the priest to Jeremiah the prophet to say, "Please pray to Yahweh our God for us."
+
+**4** Now Jeremiah was still coming and going among the people, for they had not yet put him in prison.
+
+**5** Pharaoh's army had come out of Egypt,[^37-3] and when the Babylonians[^37-4] who were besieging Jerusalem heard the report about them, they withdrew from Jerusalem.
+
+**6** Then the word of Yahweh came to Jeremiah the prophet:
+
+**7** "This is what Yahweh, the God of Israel, says: This is what you are to say to the king of Judah, who sent you to me to inquire of me: 'Pharaoh's army, which has come out to help you, is going back to its own land, to Egypt.
+
+**8** The Babylonians will come back and fight against this city. They will capture it and burn it with fire.
+
+**9** This is what Yahweh says: Do not deceive yourselves, saying: The Babylonians will surely go away from us. For they will not go away.
+
+**10** Even if you were to strike down the whole army of the Babylonians who are fighting against you, and only wounded men were left among them, each in his tent, they would get up and burn this city with fire.'"
+
+**11** When the army of the Babylonians had withdrawn from Jerusalem because of Pharaoh's army,
+
+**12** Jeremiah set out from Jerusalem to go to the land of Benjamin, to receive his share of property there among the people.[^37-5]
+
+**13** When he reached the Benjamin Gate, a captain of the guard named Irijah son of Shelemiah son of Hananiah was there, and he arrested Jeremiah the prophet, saying, "You are deserting to the Babylonians!"
+
+**14** Jeremiah said, "That is a lie! I am not deserting to the Babylonians." But he would not listen to him. Irijah arrested Jeremiah and brought him to the officials.
+
+**15** The officials were furious with Jeremiah. They beat him and put him in prison in the house of Jonathan the secretary, for they had made it into a prison.
+
+**16** So Jeremiah was put into the cistern house, into the vaulted cells,[^37-6] and Jeremiah remained there many days.
+
+**17** Then King Zedekiah sent for him and had him brought, and the king questioned him secretly in his palace. He said, "Is there any word from Yahweh?" Jeremiah said, "There is." And he said, "You will be given into the hand of the king of Babylon."
+
+**18** Then Jeremiah said to King Zedekiah, "What wrong have I done to you or your servants or this people, that you have put me in prison?
+
+**19** Where are your prophets who prophesied to you, 'The king of Babylon will not come against you or against this land'?
+
+**20** Now please listen, my lord the king. Let my plea come before you:[^37-7] do not send me back to the house of Jonathan the secretary, or I will die there."
+
+**21** So King Zedekiah gave orders, and they committed Jeremiah to the courtyard of the guard.[^37-8] He was given a loaf of bread each day from the bakers' street, until all the bread in the city was gone. So Jeremiah remained in the courtyard of the guard.
+
+[^37-1]: That is, Jehoiachin (22:24), taken into exile in 597 BC (2 Kings 24:12–17).
+[^37-2]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^37-3]: Probably the army of Pharaoh Hophra (44:30), in 588 BC.
+[^37-4]: Hebrew *Kasdim*, traditionally "Chaldeans": the people of southern Mesopotamia whose kings then ruled Babylon. Also in verses 8–11 and 13–14.
+[^37-5]: The meaning of the Hebrew *lachaloq*, "to divide, to take a share", is uncertain here. It may concern a family inheritance in Anathoth (compare 32:6–15).
+[^37-6]: Hebrew *beit ha-bor*, "the house of the pit" or "cistern", and *chanuyot*, a rare word, perhaps "vaults" or "cells".
+[^37-7]: Literally "Let my plea fall before you".
+[^37-8]: See 32:2.
+
+## Chapter 38
+
+*Status: draft*
+
+**1** Shephatiah son of Mattan, Gedaliah son of Pashhur, Jucal son of Shelemiah and Pashhur son of Malchiah[^38-1] heard the words that Jeremiah was speaking to all the people:
+
+**2** "This is what Yahweh[^38-2] says: Whoever stays in this city will die by the sword, famine and plague, but whoever goes out to the Babylonians[^38-3] will live. He will escape with his life,[^38-4] and live.
+
+**3** This is what Yahweh says: This city will certainly be given into the hand of the army of the king of Babylon, and he will capture it."
+
+**4** Then the officials said to the king, "This man must be put to death, for he is discouraging[^38-5] the soldiers who are left in this city, and all the people, by speaking such words to them. This man is not seeking the well-being of this people, but their harm."
+
+**5** King Zedekiah said, "He is in your hands, for the king can do nothing against you."
+
+**6** So they took Jeremiah and threw him into the cistern of Malchiah the king's son, which was in the courtyard of the guard. They let Jeremiah down by ropes. There was no water in the cistern, only mud, and Jeremiah sank into the mud.
+
+**7** Ebed-melech the Cushite,[^38-6] an official[^38-7] in the king's palace, heard that they had put Jeremiah into the cistern. The king was sitting in the Benjamin Gate.
+
+**8** Ebed-melech went out from the king's palace and spoke to the king:
+
+**9** "My lord the king, these men have done evil in all they have done to Jeremiah the prophet. They have thrown him into the cistern, and he will die where he is of hunger, for there is no more bread in the city."
+
+**10** Then the king commanded Ebed-melech the Cushite, "Take thirty men with you from here, and pull Jeremiah the prophet up out of the cistern before he dies."
+
+**11** So Ebed-melech took the men with him and went into the king's palace, to a place under the storeroom.[^38-8] He took from there some worn-out rags and worn-out clothes, and let them down by ropes to Jeremiah in the cistern.
+
+**12** Ebed-melech the Cushite said to Jeremiah, "Put these worn-out rags and clothes under your armpits, under the ropes." Jeremiah did so.
+
+**13** Then they pulled Jeremiah up with the ropes and brought him out of the cistern. And Jeremiah remained in the courtyard of the guard.
+
+**14** King Zedekiah sent and had Jeremiah the prophet brought to him at the third entrance of the house of Yahweh. The king said to Jeremiah, "I am going to ask you something. Do not hide anything from me."
+
+**15** Jeremiah said to Zedekiah, "If I tell you, will you not surely put me to death? And if I give you advice, you will not listen to me."
+
+**16** But King Zedekiah swore an oath to Jeremiah in secret: "As surely as Yahweh lives, who has given us this life,[^38-9] I will not put you to death or hand you over to these men who seek your life."
+
+**17** Then Jeremiah said to Zedekiah, "This is what Yahweh, the God of Armies,[^38-10] the God of Israel, says: If you surrender[^38-11] to the officials of the king of Babylon, your life will be spared and this city will not be burned with fire; you and your household will live.
+
+**18** But if you do not surrender to the officials of the king of Babylon, this city will be given into the hand of the Babylonians, and they will burn it with fire, and you yourself will not escape from their hand."
+
+**19** King Zedekiah said to Jeremiah, "I am afraid of the Judeans[^38-12] who have deserted to the Babylonians, that I may be handed over to them and they will mistreat me."
+
+**20** Jeremiah said, "They will not hand you over. Please obey the voice of Yahweh in what I am telling you, and it will go well with you, and your life will be spared.
+
+**21** But if you refuse to surrender, this is what Yahweh has shown me:
+
+**22** All the women who are left in the palace of the king of Judah will be brought out to the officials of the king of Babylon, and they will say, 'Your trusted friends[^38-13] misled you and overcame you. Now that your feet are sunk in the mud, they have turned back.'
+
+**23** All your wives and your children will be brought out to the Babylonians, and you yourself will not escape from their hand. You will be seized by the hand of the king of Babylon, and this city will be burned with fire."[^38-14]
+
+**24** Then Zedekiah said to Jeremiah, "Let no one know about this conversation, and you will not die.
+
+**25** If the officials hear that I have spoken with you, and they come to you and say to you, 'Tell us what you said to the king. Do not hide it from us, and we will not put you to death. And what did the king say to you?'
+
+**26** then say to them, 'I was presenting my plea to the king not to send me back to the house of Jonathan to die there.'"
+
+**27** All the officials did come to Jeremiah and question him, and he told them just what the king had commanded. So they said no more to him, for no one had heard the conversation.
+
+**28** And Jeremiah remained in the courtyard of the guard until the day Jerusalem was captured. This is what happened when Jerusalem was captured:[^38-15]
+
+[^38-1]: Jucal is the Jehucal of 37:3, and Pashhur son of Malchiah is the official of 21:1.
+[^38-2]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles. "The house of Yahweh" in verse 14 is the temple.
+[^38-3]: Hebrew *Kasdim*, traditionally "Chaldeans": the people of southern Mesopotamia whose kings then ruled Babylon. Also in verses 18–19 and 23.
+[^38-4]: Literally "his life will be to him as plunder" (21:9).
+[^38-5]: Literally "weakening the hands of".
+[^38-6]: The name means "servant of the king". A Cushite was a man from Cush, the land on the upper Nile, south of Egypt (13:23).
+[^38-7]: Hebrew *saris*, a court official. The word can also mean a eunuch.
+[^38-8]: Literally "under the treasury".
+[^38-9]: Literally "who made for us this soul".
+[^38-10]: Hebrew *YHWH Elohei tseva'ot*, traditionally "the LORD God of hosts". *Tseva'ot* means armies: the heavenly hosts and the armies of Israel.
+[^38-11]: Literally "go out". Also in verses 18 and 21.
+[^38-12]: Hebrew *ha-yehudim*, the people of Judah.
+[^38-13]: Literally "the men of your peace", your allies (compare Obadiah 7). The women's words sound like a lament, perhaps a mocking one. Jeremiah had sunk into the mud of the cistern (verse 6); now the king will sink.
+[^38-14]: Literally "and you will burn this city with fire", that is, you will be the cause of its burning. The same consonants can be read "and this city will be burned with fire".
+[^38-15]: The second half of this verse leads into 39:3, after the dates given in 39:1–2.
+
+## Chapter 39
+
+*Status: draft*
+
+**1** In the ninth year of Zedekiah king of Judah, in the tenth month, Nebuchadnezzar king of Babylon came against Jerusalem with his whole army and besieged it.[^39-1]
+
+**2** In the eleventh year of Zedekiah, in the fourth month, on the ninth day of the month,[^39-2] the city wall was broken through.
+
+**3** Then all the officials of the king of Babylon came in and sat in the Middle Gate: Nergal-sharezer, Samgar-nebo, Sarsechim the Rab-saris, Nergal-sharezer the Rab-mag, and all the rest of the officials of the king of Babylon.[^39-3]
+
+**4** When Zedekiah king of Judah and all the soldiers saw them, they fled.[^39-4] They went out of the city by night by way of the king's garden, through the gate between the two walls, and he went off in the direction of the Arabah.[^39-5]
+
+**5** But the Babylonian[^39-6] army pursued them and overtook Zedekiah in the plains of Jericho. They captured him and brought him up to Nebuchadnezzar king of Babylon at Riblah in the land of Hamath,[^39-7] and he passed sentence on him.
+
+**6** The king of Babylon slaughtered Zedekiah's sons at Riblah before his eyes, and the king of Babylon slaughtered all the nobles of Judah.
+
+**7** Then he put out Zedekiah's eyes and bound him in bronze shackles to take him to Babylon.
+
+**8** The Babylonians burned the king's palace and the houses of the people with fire,[^39-8] and they tore down the walls of Jerusalem.
+
+**9** Nebuzaradan the commander of the guard[^39-9] deported to Babylon the rest of the people who were left in the city, the deserters who had gone over to him, and the rest of the people who were left.
+
+**10** But Nebuzaradan the commander of the guard left in the land of Judah some of the poor people, who owned nothing, and at that time he gave them vineyards and fields.
+
+**11** Now Nebuchadnezzar king of Babylon had given orders about Jeremiah through Nebuzaradan the commander of the guard:
+
+**12** "Take him and look after him. Do him no harm, but do for him whatever he tells you."
+
+**13** So Nebuzaradan the commander of the guard, Nebushazban[^39-10] the Rab-saris, Nergal-sharezer the Rab-mag and all the chief officers of the king of Babylon sent
+
+**14** and had Jeremiah taken from the courtyard of the guard. They entrusted him to Gedaliah son of Ahikam son of Shaphan, to take him home. So he stayed among the people.[^39-11]
+
+**15** While Jeremiah was still confined in the courtyard of the guard, the word of Yahweh[^39-12] had come to him:
+
+**16** "Go and say to Ebed-melech the Cushite: 'This is what Yahweh of Armies,[^39-13] the God of Israel, says: I am going to bring my words against this city for harm and not for good, and they will take place before your eyes on that day.
+
+**17** But I will rescue you on that day, declares Yahweh, and you will not be given into the hand of the men you fear.
+
+**18** For I will surely save you, and you will not fall by the sword. You will escape with your life,[^39-14] because you have trusted in me, declares Yahweh.'"
+
+[^39-1]: In January 588 BC. Verses 1–2 and 4–10 are also told, more fully, in 52:4–16 and 2 Kings 25:1–12.
+[^39-2]: In July 587 or 586 BC.
+[^39-3]: The names and titles are uncertain, and the Hebrew may be divided differently. *Nergal-sharezer* is the Babylonian name Nergal-shar-usur; a man of that name later became king of Babylon (560–556 BC). *Samgar* may be a Babylonian title, and *Sarsechim* a name. *Rab-saris* means "chief official" (2 Kings 18:17), and *Rab-mag* is another high title, of uncertain meaning. Verse 3 completes the sentence begun in 38:28.
+[^39-4]: The Septuagint does not have verses 4–13.
+[^39-5]: The Jordan Valley.
+[^39-6]: Hebrew *Kasdim*, traditionally "Chaldeans": the people of southern Mesopotamia whose kings then ruled Babylon. Also in verse 8.
+[^39-7]: Riblah was on the Orontes River in Syria, about 200 miles (320 km) north of Jerusalem, where Nebuchadnezzar had his headquarters.
+[^39-8]: Literally "the house of the people". 52:13 and 2 Kings 25:9 read "and all the houses of Jerusalem".
+[^39-9]: Hebrew *rav-tabbachim*, literally "chief of the butchers" or "chief of the cooks", a title of the commander of the royal bodyguard. Also in verses 10–11 and 13.
+[^39-10]: In the Hebrew text one letter of this name is written small, a scribal mark.
+[^39-11]: 40:1–6 tells of Jeremiah's release in a different way: he was taken in chains with the other captives as far as Ramah, where Nebuzaradan set him free.
+[^39-12]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^39-13]: *Yahweh of Armies* (Hebrew *YHWH tseva'ot*) is traditionally "the LORD of hosts" or "the LORD Almighty". *Tseva'ot* means armies: the heavenly hosts and the armies of Israel.
+[^39-14]: Literally "your life will be to you as plunder" (21:9).
+
+## Chapter 40
+
+*Status: draft*
+
+**1** The word that came to Jeremiah from Yahweh,[^40-1] after Nebuzaradan the commander of the guard[^40-2] had released him at Ramah. He had taken him there in chains, among all the exiles of Jerusalem and Judah who were being taken into exile to Babylon.[^40-3]
+
+**2** The commander of the guard took Jeremiah and said to him, "Yahweh your God pronounced this disaster against this place.
+
+**3** Now Yahweh has brought it about; he has done as he said. Because you people sinned against Yahweh and did not obey his voice, this has happened to you.
+
+**4** But now, look, today I am freeing you from the chains on your hands. If you wish to come with me to Babylon, come, and I will look after you. But if you do not wish to come with me to Babylon, then don't. See, the whole land is before you; go wherever you think good and right."
+
+**5** When Jeremiah still had not turned to go, he said,[^40-4] "Go back to Gedaliah son of Ahikam son of Shaphan, whom the king of Babylon has appointed over the cities of Judah, and stay with him among the people, or go wherever you think right." Then the commander of the guard gave him provisions and a gift, and let him go.
+
+**6** So Jeremiah went to Gedaliah son of Ahikam at Mizpah[^40-5] and stayed with him among the people who were left in the land.
+
+**7** All the commanders of the armed forces who were in the open country, they and their men, heard that the king of Babylon had appointed Gedaliah son of Ahikam over the land, and that he had put in his charge men, women and children, those of the poorest of the land who had not been deported to Babylon.[^40-6]
+
+**8** So they came to Gedaliah at Mizpah: Ishmael son of Nethaniah, Johanan and Jonathan the sons of Kareah, Seraiah son of Tanhumeth, the sons of Ephai[^40-7] the Netophathite, and Jezaniah son of the Maacathite, they and their men.
+
+**9** Gedaliah son of Ahikam son of Shaphan swore an oath to them and their men, and he said, "Do not be afraid to serve the Babylonians.[^40-8] Live in the land and serve the king of Babylon, and it will go well with you.
+
+**10** As for me, I will stay at Mizpah to represent you before the Babylonians who come to us.[^40-9] But you, gather wine, summer fruit and oil, store them in your jars, and live in the towns you have taken over."
+
+**11** Likewise all the Judeans[^40-10] who were in Moab, among the Ammonites, in Edom and in all the other lands heard that the king of Babylon had left a remnant in Judah, and that he had appointed Gedaliah son of Ahikam son of Shaphan over them.
+
+**12** Then all the Judeans returned from all the places where they had been scattered and came to the land of Judah, to Gedaliah at Mizpah. And they gathered wine and summer fruit in great abundance.
+
+**13** Johanan son of Kareah and all the commanders of the armed forces who were in the open country came to Gedaliah at Mizpah
+
+**14** and said to him, "Do you know that Baalis king of the Ammonites has sent Ishmael son of Nethaniah to take your life?" But Gedaliah son of Ahikam did not believe them.
+
+**15** Then Johanan son of Kareah said to Gedaliah in secret at Mizpah, "Let me go and kill Ishmael son of Nethaniah, and no one will know. Why should he take your life, so that all the Judeans who have gathered around you would be scattered and the remnant of Judah would perish?"
+
+**16** But Gedaliah son of Ahikam said to Johanan son of Kareah, "Do not do this thing, for what you are saying about Ishmael is a lie."
+
+[^40-1]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles. No word of Yahweh to Jeremiah follows at once. The heading may introduce the whole account of chapters 40–44, in which such a word comes in 42:7.
+[^40-2]: Hebrew *rav-tabbachim*, literally "chief of the butchers" or "chief of the cooks", a title of the commander of the royal bodyguard. Also in verses 2 and 5.
+[^40-3]: Ramah was about 5 miles (8 km) north of Jerusalem (31:15). Compare 39:11–14.
+[^40-4]: The Hebrew of this sentence is difficult. Literally "And he still would not turn back, 'And turn back to Gedaliah …'". "He said" is supplied.
+[^40-5]: A town about 8 miles (13 km) north of Jerusalem, where the Babylonians now set their governor.
+[^40-6]: Verses 7–9 are also told, more briefly, in 2 Kings 25:22–24, and 40:7–41:18 is summarized in 2 Kings 25:22–26.
+[^40-7]: The Hebrew text is written "Ophai" but read "Ephai". 2 Kings 25:23 has "Johanan son of Kareah", "Seraiah son of Tanhumeth the Netophathite" and "Jaazaniah son of the Maacathite". Netophah was a town near Bethlehem.
+[^40-8]: Hebrew *Kasdim*, traditionally "Chaldeans": the people of southern Mesopotamia whose kings then ruled Babylon. Also in verse 10. 2 Kings 25:24 reads "Do not be afraid of the Babylonian officials".
+[^40-9]: Literally "to stand before the Babylonians who come to us".
+[^40-10]: Hebrew *ha-yehudim*, the people of Judah. Also in verses 12 and 15.
+
+## Chapter 41
+
+*Status: draft*
+
+**1** In the seventh month,[^41-1] Ishmael son of Nethaniah son of Elishama, who was of royal descent and one of the king's chief officers,[^41-2] came with ten men to Gedaliah son of Ahikam at Mizpah. As they were eating a meal together there at Mizpah,
+
+**2** Ishmael son of Nethaniah and the ten men who were with him got up and struck down Gedaliah son of Ahikam son of Shaphan with the sword and killed him, the man the king of Babylon had appointed over the land.
+
+**3** Ishmael also struck down all the Judeans[^41-3] who were with Gedaliah at Mizpah, and the Babylonians[^41-4] who were there, the soldiers.
+
+**4** On the day after Gedaliah was killed, before anyone knew of it,
+
+**5** eighty men came from Shechem, from Shiloh and from Samaria, with their beards shaved off, their clothes torn and their bodies gashed,[^41-5] bringing grain offerings and frankincense to present at the house of Yahweh.[^41-6]
+
+**6** Ishmael son of Nethaniah went out from Mizpah to meet them, weeping as he went. When he met them, he said to them, "Come to Gedaliah son of Ahikam."
+
+**7** But when they came into the city, Ishmael son of Nethaniah and the men who were with him slaughtered them and threw them into a cistern.[^41-7]
+
+**8** But there were ten men among them who said to Ishmael, "Do not kill us, for we have stores of wheat and barley, oil and honey hidden in the field." So he held back and did not kill them with their companions.
+
+**9** Now the cistern into which Ishmael threw all the corpses of the men he had struck down because of Gedaliah[^41-8] was the one King Asa had made for fear of Baasha king of Israel.[^41-9] Ishmael son of Nethaniah filled it with the slain.
+
+**10** Then Ishmael took captive all the rest of the people who were in Mizpah, the king's daughters and all the people who were left at Mizpah, whom Nebuzaradan the commander of the guard[^41-10] had put in the charge of Gedaliah son of Ahikam. Ishmael son of Nethaniah took them captive and set out to cross over to the Ammonites.
+
+**11** When Johanan son of Kareah and all the commanders of the armed forces who were with him heard of all the evil Ishmael son of Nethaniah had done,
+
+**12** they took all their men and went to fight against Ishmael son of Nethaniah. They found him by the great pool[^41-11] in Gibeon.
+
+**13** When all the people who were with Ishmael saw Johanan son of Kareah and all the commanders of the armed forces who were with him, they were glad.
+
+**14** All the people Ishmael had taken captive from Mizpah turned around and went back to Johanan son of Kareah.
+
+**15** But Ishmael son of Nethaniah escaped from Johanan with eight men and went to the Ammonites.
+
+**16** Then Johanan son of Kareah and all the commanders of the armed forces who were with him took all the rest of the people from Mizpah whom he had recovered from Ishmael son of Nethaniah, after Ishmael had struck down Gedaliah son of Ahikam: the men who were soldiers, the women, the children and the court officials[^41-12] whom he had brought back from Gibeon.
+
+**17** They went and stayed at Geruth-chimham,[^41-13] near Bethlehem, intending to go on into Egypt
+
+**18** to escape the Babylonians. They were afraid of them, because Ishmael son of Nethaniah had struck down Gedaliah son of Ahikam, whom the king of Babylon had appointed over the land.
+
+[^41-1]: The seventh month fell in September–October. The year is not given; it may have been the year Jerusalem fell (39:2; 52:12). After the exile a fast was kept in the seventh month, probably in memory of Gedaliah's murder (Zechariah 7:5; 8:19). Verses 1–3 are told more briefly in 2 Kings 25:25.
+[^41-2]: The words "and one of the king's chief officers" are not in 2 Kings 25:25.
+[^41-3]: Hebrew *ha-yehudim*, the people of Judah.
+[^41-4]: Hebrew *Kasdim*, traditionally "Chaldeans": the people of southern Mesopotamia whose kings then ruled Babylon. Also in verse 18.
+[^41-5]: Signs of mourning (16:6; 48:37), probably for the destruction of the temple.
+[^41-6]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles. "The house of Yahweh" is the temple, now in ruins.
+[^41-7]: Literally "slaughtered them into the midst of the cistern".
+[^41-8]: Literally "by the hand of Gedaliah". The Septuagint reads "was a great cistern".
+[^41-9]: King Asa of Judah fortified Mizpah against Baasha of Israel (1 Kings 15:22).
+[^41-10]: Hebrew *rav-tabbachim*, literally "chief of the butchers" or "chief of the cooks", a title of the commander of the royal bodyguard.
+[^41-11]: Literally "the great waters" (compare 2 Samuel 2:13).
+[^41-12]: Hebrew *sarisim*, court officials. The word can also mean eunuchs.
+[^41-13]: Perhaps "the lodging place of Chimham". The Hebrew text is written "Kimoham" but read "Chimham". Chimham may be the son of Barzillai to whom David showed kindness (2 Samuel 19:38–41).
+
+## Chapter 42
+
+*Status: draft*
+
+**1** Then all the commanders of the armed forces, with Johanan son of Kareah and Jezaniah son of Hoshaiah,[^42-1] and all the people from the least to the greatest, came near
+
+**2** and said to Jeremiah the prophet, "Please let our plea come before you,[^42-2] and pray to Yahweh[^42-3] your God for us, for all this remnant. For we are only a few left out of many, as your own eyes can see.
+
+**3** Pray that Yahweh your God will tell us the way we should go and the thing we should do."
+
+**4** Jeremiah the prophet said to them, "I have heard you. I will pray to Yahweh your God as you ask, and whatever Yahweh answers you I will tell you. I will keep nothing back from you."
+
+**5** Then they said to Jeremiah, "May Yahweh be a true and faithful witness against us if we do not do everything Yahweh your God sends you to tell us.
+
+**6** Whether it is good or bad, we will obey the voice of Yahweh our God, to whom we are sending you, so that it may go well with us when we obey the voice of Yahweh our God."
+
+**7** At the end of ten days the word of Yahweh came to Jeremiah.
+
+**8** He called Johanan son of Kareah and all the commanders of the armed forces who were with him, and all the people from the least to the greatest,
+
+**9** and said to them, "This is what Yahweh, the God of Israel, to whom you sent me to present your plea before him, says:
+
+**10** If you will stay in this land, I will build you up and not tear you down; I will plant you and not uproot you,[^42-4] for I relent[^42-5] of the disaster I have brought on you.
+
+**11** Do not be afraid of the king of Babylon, whom you now fear. Do not be afraid of him, declares Yahweh, for I am with you to save you and to rescue you from his hand.
+
+**12** I will show you compassion, so that he will have compassion on you and let you return to your own land.
+
+**13** But if you say, 'We will not stay in this land,' and so disobey the voice of Yahweh your God,
+
+**14** and say, 'No, we will go to the land of Egypt, where we will not see war or hear the sound of the ram's horn or be hungry for bread, and there we will live,'
+
+**15** then hear the word of Yahweh, remnant of Judah. This is what Yahweh of Armies,[^42-6] the God of Israel, says: If you are determined to go to Egypt, and you go to live there,[^42-7]
+
+**16** then the sword you fear will overtake you there in the land of Egypt, and the famine you dread will follow close after you there in Egypt, and there you will die.
+
+**17** All the men who are determined to go to Egypt to live there will die by the sword, famine and plague. Not one of them will survive or escape the disaster I am going to bring on them.
+
+**18** For this is what Yahweh of Armies, the God of Israel, says: As my anger and my wrath were poured out on the inhabitants of Jerusalem, so my wrath will be poured out on you when you go to Egypt. You will become a curse, a horror, a curse and a disgrace,[^42-8] and you will never see this place again.
+
+**19** Yahweh has spoken to you, remnant of Judah: Do not go to Egypt. Know for certain that I have warned you today
+
+**20** that you have gone astray at the cost of your lives.[^42-9] For you sent me to Yahweh your God, saying, 'Pray for us to Yahweh our God, and tell us whatever Yahweh our God says, and we will do it.'
+
+**21** So I have told you today, but you have not obeyed the voice of Yahweh your God in anything he has sent me to tell you.
+
+**22** Now know for certain that you will die by the sword, famine and plague in the place where you want to go to live."
+
+[^42-1]: Perhaps the same man as Azariah son of Hoshaiah in 43:2.
+[^42-2]: Literally "Please let our plea fall before you".
+[^42-3]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^42-4]: See 1:10.
+[^42-5]: Or "I am grieved". Hebrew *nicham*.
+[^42-6]: *Yahweh of Armies* (Hebrew *YHWH tseva'ot*) is traditionally "the LORD of hosts" or "the LORD Almighty". *Tseva'ot* means armies: the heavenly hosts and the armies of Israel. Also in verse 18.
+[^42-7]: Hebrew *gur*, to live somewhere as a resident foreigner. Also in verses 17 and 22.
+[^42-8]: Two different Hebrew words are translated "curse" in this verse, *alah* and *qelalah*.
+[^42-9]: Or "you have deceived yourselves". Literally "you have erred in your souls".
+
+## Chapter 43
+
+*Status: draft*
+
+**1** When Jeremiah had finished speaking to all the people all the words of Yahweh[^43-1] their God, all these words that Yahweh their God had sent him to tell them,
+
+**2** Azariah son of Hoshaiah, Johanan son of Kareah and all the arrogant men said to Jeremiah, "You are telling a lie! Yahweh our God has not sent you to say, 'Do not go to Egypt to live there.'
+
+**3** Baruch son of Neriah is inciting you against us, to hand us over to the Babylonians,[^43-2] so that they will kill us or take us into exile in Babylon."
+
+**4** So Johanan son of Kareah, all the commanders of the armed forces and all the people did not obey the voice of Yahweh to stay in the land of Judah.
+
+**5** Instead, Johanan son of Kareah and all the commanders of the armed forces took the whole remnant of Judah, who had come back to live in the land of Judah from all the nations where they had been scattered:
+
+**6** the men, the women, the children, the king's daughters and everyone whom Nebuzaradan the commander of the guard[^43-3] had left with Gedaliah son of Ahikam son of Shaphan, and also Jeremiah the prophet and Baruch son of Neriah.
+
+**7** They came into the land of Egypt, for they did not obey the voice of Yahweh, and they went as far as Tahpanhes.[^43-4]
+
+**8** Then the word of Yahweh came to Jeremiah in Tahpanhes:
+
+**9** "Take some large stones in your hands and bury them in the mortar of the brick pavement[^43-5] at the entrance of Pharaoh's palace[^43-6] in Tahpanhes, while the men of Judah watch.
+
+**10** Then say to them: 'This is what Yahweh of Armies,[^43-7] the God of Israel, says: I am going to send for my servant Nebuchadnezzar king of Babylon, and I will set his throne over these stones I have buried, and he will spread his canopy[^43-8] over them.
+
+**11** He will come and strike the land of Egypt, giving over to death those destined for death, to captivity those destined for captivity, and to the sword those destined for the sword.[^43-9]
+
+**12** I will set fire to the temples of the gods of Egypt, and he will burn them and carry their gods away captive. He will wrap himself in the land of Egypt as a shepherd wraps himself in his cloak,[^43-10] and he will go away from there in peace.
+
+**13** He will smash the sacred pillars of Beth-shemesh[^43-11] in the land of Egypt, and he will burn the temples of the gods of Egypt with fire.'"
+
+[^43-1]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^43-2]: Hebrew *Kasdim*, traditionally "Chaldeans": the people of southern Mesopotamia whose kings then ruled Babylon.
+[^43-3]: Hebrew *rav-tabbachim*, literally "chief of the butchers" or "chief of the cooks", a title of the commander of the royal bodyguard.
+[^43-4]: A fortress city in the eastern Nile delta (2:16).
+[^43-5]: The meaning of the Hebrew words *melet*, perhaps "mortar" or "clay", and *malben*, perhaps "brickwork" or "brick terrace", is uncertain.
+[^43-6]: Literally "Pharaoh's house", perhaps a royal residence or government building.
+[^43-7]: *Yahweh of Armies* (Hebrew *YHWH tseva'ot*) is traditionally "the LORD of hosts" or "the LORD Almighty". *Tseva'ot* means armies: the heavenly hosts and the armies of Israel.
+[^43-8]: Hebrew *shafrir*, a rare word, perhaps a royal canopy or carpet.
+[^43-9]: Compare 15:2. Nebuchadnezzar campaigned against Egypt in 568–567 BC.
+[^43-10]: Or "He will pick the land of Egypt clean as a shepherd picks lice from his cloak". The meaning of the verb *atah* is uncertain here.
+[^43-11]: "House of the Sun", that is, Heliopolis (Egyptian *On*), the city of the sun god, near modern Cairo. Its *pillars* were probably obelisks.
+
+## Chapter 44
+
+*Status: draft*
+
+**1** The word that came to Jeremiah concerning all the Judeans[^44-1] living in the land of Egypt, those living at Migdol, at Tahpanhes, at Memphis and in the land of Pathros:[^44-2]
+
+**2** This is what Yahweh of Armies,[^44-3] the God of Israel, says: You have seen all the disaster I brought on Jerusalem and on all the cities of Judah. Look, today they are a ruin, with no one living in them,
+
+**3** because of the evil they did to provoke me to anger, by going to burn incense[^44-4] and to serve other gods that they had not known, neither they, nor you, nor your ancestors.
+
+**4** I sent you all my servants the prophets again and again,[^44-5] saying, "Do not do this detestable thing that I hate!"
+
+**5** But they did not listen or pay attention;[^44-6] they did not turn from their evil and stop burning incense to other gods.
+
+**6** So my wrath and my anger were poured out and burned in the cities of Judah and in the streets of Jerusalem, and they became a ruin and a desolation, as they are today.
+
+**7** And now this is what Yahweh, the God of Armies,[^44-7] the God of Israel, says: Why are you doing such great harm to yourselves, cutting off from Judah man and woman, child and infant, so that you leave yourselves no remnant?
+
+**8** Why do you provoke me to anger with the works of your hands, burning incense to other gods in the land of Egypt where you have come to live, so that you will be cut off and become a curse and a disgrace among all the nations of the earth?
+
+**9** Have you forgotten the evil deeds of your ancestors, the evil deeds of the kings of Judah and the evil deeds of their wives,[^44-8] your own evil deeds and the evil deeds of your wives, which they committed in the land of Judah and in the streets of Jerusalem?
+
+**10** To this day they have not humbled themselves,[^44-9] nor have they shown fear or walked in my law[^44-10] and my decrees that I set before you and your ancestors.
+
+**11** Therefore this is what Yahweh of Armies, the God of Israel, says: I am going to set my face against you for harm, to cut off all Judah.
+
+**12** I will take the remnant of Judah who set their faces to go to the land of Egypt to live there, and they will all come to an end. In the land of Egypt they will fall; by the sword and by famine they will come to an end. From the least to the greatest they will die by the sword and by famine. They will become a curse, a horror, a curse and a disgrace.[^44-11]
+
+**13** I will punish those who live in the land of Egypt as I punished Jerusalem, with the sword, famine and plague.
+
+**14** None of the remnant of Judah who have come to live in the land of Egypt will escape or survive to return to the land of Judah, where they long[^44-12] to return to live. For none will return except a few fugitives.
+
+**15** Then all the men who knew that their wives were burning incense to other gods, and all the women who stood by, a great assembly, and all the people who lived in the land of Egypt, in Pathros, answered Jeremiah:
+
+**16** "As for the word you have spoken to us in the name of Yahweh, we will not listen to you.
+
+**17** Instead we will certainly do everything we have vowed:[^44-13] we will burn incense to the Queen of Heaven[^44-14] and pour out drink offerings to her, as we did, we and our ancestors, our kings and our officials, in the cities of Judah and in the streets of Jerusalem. For then we had plenty of food, and we were well off and saw no disaster.
+
+**18** But since we stopped burning incense to the Queen of Heaven and pouring out drink offerings to her, we have lacked everything, and we have been consumed by the sword and by famine.
+
+**19** And when we burned incense to the Queen of Heaven and poured out drink offerings to her, was it without our husbands' consent[^44-15] that we made cakes for her bearing her image,[^44-16] and poured out drink offerings to her?"
+
+**20** Then Jeremiah said to all the people, to the men and the women and all the people who had given him this answer,
+
+**21** "As for the incense you burned in the cities of Judah and in the streets of Jerusalem, you and your ancestors, your kings, your officials and the people of the land,[^44-17] did not Yahweh remember it? Did it not come into his mind?
+
+**22** Yahweh could no longer bear your evil deeds and the detestable things you did. So your land became a ruin, a horror and a curse, without inhabitant, as it is today.
+
+**23** It is because you burned incense and sinned against Yahweh, and did not obey the voice of Yahweh or walk in his law, his decrees and his statutes,[^44-18] that this disaster has come upon you, as it is today."
+
+**24** Then Jeremiah said to all the people and to all the women, "Hear the word of Yahweh, all you people of Judah who are in the land of Egypt.
+
+**25** This is what Yahweh of Armies, the God of Israel, says: You and your wives[^44-19] have spoken with your mouths and fulfilled it with your hands, saying, 'We will certainly carry out the vows we have made, to burn incense to the Queen of Heaven and pour out drink offerings to her.' Go ahead then, keep your vows! Carry out your vows!
+
+**26** Therefore hear the word of Yahweh, all you people of Judah who live in the land of Egypt: I have sworn by my great name, says Yahweh, that my name will never again be invoked by any man of Judah in all the land of Egypt, saying, 'As surely as the Lord Yahweh[^44-20] lives.'
+
+**27** I am watching over them[^44-21] for harm and not for good. All the people of Judah who are in the land of Egypt will come to an end by the sword and by famine until they are all gone.
+
+**28** Those who escape the sword will return from the land of Egypt to the land of Judah, few in number. Then the whole remnant of Judah who came to the land of Egypt to live there will know whose word will stand, mine or theirs.
+
+**29** This will be the sign to you, declares Yahweh, that I will punish you in this place, so that you will know that my words against you will surely stand for harm:
+
+**30** This is what Yahweh says: I am going to give Pharaoh Hophra king of Egypt into the hand of his enemies, into the hand of those who seek his life, just as I gave Zedekiah king of Judah into the hand of Nebuchadnezzar king of Babylon, his enemy who sought his life."[^44-22]
+
+[^44-1]: Hebrew *ha-yehudim*, the people of Judah.
+[^44-2]: Migdol and Tahpanhes were in the eastern Nile delta; Memphis (Hebrew *Noph*) was the old capital of Lower Egypt (2:16). Pathros is Upper Egypt, the Nile valley to the south.
+[^44-3]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles. *Yahweh of Armies* (Hebrew *YHWH tseva'ot*) is traditionally "the LORD of hosts" or "the LORD Almighty". *Tseva'ot* means armies: the heavenly hosts and the armies of Israel. Also in verses 11 and 25.
+[^44-4]: Or "burn offerings". The Hebrew verb *qatar* means to make something go up in smoke. Also in verses 5, 8, 15, 17–19, 21, 23 and 25.
+[^44-5]: Literally "rising early and sending".
+[^44-6]: Literally "did not incline their ear".
+[^44-7]: Hebrew *YHWH Elohei tseva'ot*, traditionally "the LORD God of hosts".
+[^44-8]: Literally "his wives".
+[^44-9]: Literally "they have not been crushed".
+[^44-10]: Hebrew *torah*, "instruction, law". Also in verse 23.
+[^44-11]: Two different Hebrew words are translated "curse" in this verse, *alah* and *qelalah* (42:18).
+[^44-12]: Literally "lift up their soul".
+[^44-13]: Literally "every word that has gone out of our mouth".
+[^44-14]: See 7:18.
+[^44-15]: Literally "without our men". A vow made by a wife stood only if her husband did not overrule it (Numbers 30:7–16, which is 30:6–15 in most English Bibles). The women speak in this verse.
+[^44-16]: Hebrew *kavvanim*, a word used only here and in 7:18, a kind of cake. The meaning of the words "bearing her image" is uncertain.
+[^44-17]: Hebrew *am ha-arets*, the landowning citizens of Judah.
+[^44-18]: Hebrew *edot*, traditionally "testimonies": the solemn terms of the covenant.
+[^44-19]: In the Hebrew the verbs that follow are feminine: the women are addressed.
+[^44-20]: Hebrew *Adonai YHWH*, "my Lord Yahweh".
+[^44-21]: Hebrew *shoqed*, the word used in 1:12.
+[^44-22]: Hophra (Egyptian Wahibre, Greek Apries) ruled Egypt from 589 to 570 BC. He was overthrown by his general Amasis, and later killed.
+
+## Chapter 45
+
+*Status: draft*
+
+**1** The word that Jeremiah the prophet spoke to Baruch son of Neriah, when he wrote these words in a scroll at Jeremiah's dictation,[^45-1] in the fourth year of Jehoiakim son of Josiah king of Judah:[^45-2]
+
+**2** This is what Yahweh,[^45-3] the God of Israel, says to you, Baruch:
+
+**3** You said, "Woe is me! For Yahweh has added sorrow to my pain. I am worn out with my groaning, and I find no rest."
+
+**4** This is what you are to say to him:[^45-4] This is what Yahweh says: What I have built I am tearing down, and what I have planted I am uprooting, the whole land.[^45-5]
+
+**5** And you, are you seeking great things for yourself? Do not seek them. For I am going to bring disaster on all humankind,[^45-6] declares Yahweh, but I will let you escape with your life[^45-7] wherever you go.
+
+[^45-1]: Literally "from the mouth of Jeremiah".
+[^45-2]: In 605 BC, the year Baruch wrote the scroll described in 36:1–8.
+[^45-3]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^45-4]: Yahweh now speaks to Jeremiah, telling him what to say to Baruch.
+[^45-5]: Literally "and the whole land, it". See 1:10.
+[^45-6]: Literally "all flesh".
+[^45-7]: Literally "I will give you your life as plunder" (21:9).
+
+## Chapter 46
+
+*Status: draft*
+
+**1** The word of Yahweh[^46-1] that came to Jeremiah the prophet concerning the nations.[^46-2]
+
+**2** Concerning Egypt. About the army of Pharaoh Neco king of Egypt, which was by the Euphrates River at Carchemish, and which Nebuchadnezzar king of Babylon defeated in the fourth year of Jehoiakim son of Josiah king of Judah:[^46-3]
+
+**3** Prepare shield and buckler,[^46-4] and advance to battle!
+
+**4** Harness the horses; mount, you horsemen![^46-5] Take your positions with helmets on! Polish the spears; put on your armor!
+
+**5** Why do I see it? They are terrified; they are falling back. Their warriors are beaten down; they flee headlong and do not look back. Terror on every side![^46-6] declares Yahweh.
+
+**6** The swift cannot flee, nor the warrior escape. In the north, by the Euphrates River, they stumble and fall.
+
+**7** Who is this, rising like the Nile,[^46-7] like rivers whose waters surge?
+
+**8** Egypt rises like the Nile, like rivers whose waters surge. He says, "I will rise and cover the earth; I will destroy cities and those who live in them."
+
+**9** Go up, you horses! Drive furiously, you chariots! Let the warriors go out: Cush and Put, who carry the shield, and the Ludim, who draw the bow.[^46-8]
+
+**10** That day belongs to the Lord Yahweh of Armies,[^46-9] a day of vengeance, to avenge himself on his foes. The sword will devour and be satisfied, and drink its fill of their blood. For the Lord Yahweh of Armies holds a sacrifice in the land of the north, by the Euphrates River.
+
+**11** Go up to Gilead and get balm,[^46-10] virgin daughter Egypt! In vain you have used many medicines;[^46-11] there is no healing for you.
+
+**12** The nations have heard of your shame; your cry fills the earth. For warrior has stumbled against warrior; both have fallen together.
+
+**13** The word that Yahweh spoke to Jeremiah the prophet about the coming of Nebuchadnezzar king of Babylon to strike the land of Egypt:[^46-12]
+
+**14** Declare it in Egypt, proclaim it in Migdol, proclaim it in Memphis and in Tahpanhes.[^46-13] Say: Take your stand and get ready, for the sword devours those around you.
+
+**15** Why has your mighty one been swept away?[^46-14] He did not stand, because Yahweh drove him down.
+
+**16** He made many stumble; they fell, each against the other. They said, "Get up, let us go back to our own people and to the land of our birth, away from the sword of the oppressor."[^46-15]
+
+**17** There they cried out, "Pharaoh king of Egypt is only a noise; he has let the appointed time pass by."[^46-16]
+
+**18** As surely as I live, declares the King, whose name is Yahweh of Armies, one will come like Tabor among the mountains, and like Carmel by the sea.[^46-17]
+
+**19** Pack your bags for exile, you who live there, daughter Egypt, for Memphis will become a desolation, burned[^46-18] and empty of inhabitants.
+
+**20** Egypt is a beautiful heifer, but a gadfly[^46-19] from the north has come, has come!
+
+**21** Even her hired soldiers in her midst are like fattened calves. They too have turned and fled together; they did not stand. For the day of their calamity has come upon them, the time of their punishment.
+
+**22** Her sound is like a snake slithering away,[^46-20] for they march on in force; they come against her with axes, like those who cut down trees.
+
+**23** They will cut down her forest, declares Yahweh, though it cannot be searched through,[^46-21] for they are more numerous than locusts; they cannot be counted.
+
+**24** Daughter Egypt is put to shame; she is given into the hand of the people of the north.
+
+**25** Yahweh of Armies, the God of Israel, says: I am going to punish Amon of Thebes,[^46-22] and Pharaoh and Egypt, her gods and her kings, Pharaoh and those who trust in him.
+
+**26** I will give them into the hand of those who seek their lives, into the hand of Nebuchadnezzar king of Babylon and his servants. But afterward Egypt will be inhabited as in days of old, declares Yahweh.
+
+**27** As for you, do not be afraid, Jacob my servant; do not be dismayed, Israel. For I am going to save you from far away, and your descendants from the land of their captivity. Jacob will return and be at peace and secure, and no one will make him afraid.[^46-23]
+
+**28** As for you, do not be afraid, Jacob my servant, declares Yahweh, for I am with you. I will make a full end of all the nations where I have driven you, but of you I will not make a full end. I will discipline you with justice,[^46-24] and I will by no means leave you unpunished.
+
+[^46-1]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^46-2]: Verse 1 is the heading of the oracles against the nations in chapters 46–51. In the Septuagint they come after 25:13 (see the note there), and in a different order: Elam (49:34–39), Egypt (46), Babylon (50–51), the Philistines (47), Edom (49:7–22), Ammon (49:1–6), Kedar (49:28–33), Damascus (49:23–27) and Moab (48).
+[^46-3]: In 605 BC. Carchemish was on the upper Euphrates, on the present border of Turkey and Syria. Four years earlier Neco had killed King Josiah at Megiddo (2 Kings 23:29).
+[^46-4]: Hebrew *magen*, a small round shield, and *tsinnah*, a large shield that covered the whole body.
+[^46-5]: Or "mount the stallions".
+[^46-6]: Hebrew *magor missaviv*: see 6:25.
+[^46-7]: Hebrew *ye'or*, the Nile, which rose in flood each year. Also in verse 8.
+[^46-8]: Literally "who grasp, who bend the bow". Cush was the land south of Egypt, and Put was probably Libya. The Ludim may be Lydians from Asia Minor. All served in Egypt's army.
+[^46-9]: Hebrew *Adonai YHWH tseva'ot*, "my Lord Yahweh of Armies". *Yahweh of Armies* (Hebrew *YHWH tseva'ot*) is traditionally "the LORD of hosts" or "the LORD Almighty". *Tseva'ot* means armies: the heavenly hosts and the armies of Israel. *Yahweh of Armies* is also in verses 18 and 25.
+[^46-10]: See 8:22.
+[^46-11]: The Hebrew text is written "I have used many medicines" but read "you have used many medicines". The written form may be an old spelling of "you have used" (compare 2:20, 33).
+[^46-12]: Compare 43:8–13.
+[^46-13]: See 44:1.
+[^46-14]: Hebrew *abbirekha*, "your mighty one", a word also used of a bull. The Septuagint divides the letters differently and reads "Why has Apis fled? Your chosen calf did not stand." Apis was the sacred bull worshiped at Memphis.
+[^46-15]: Or "the cruel sword". Hebrew *ha-yonah*, perhaps "the oppressor" (25:38; 50:16).
+[^46-16]: Or, with the same consonants, "Call Pharaoh king of Egypt by the name 'Big Noise, who let the appointed time pass by'." The Hebrew *sha'on*, "noise, uproar", may mock a royal title.
+[^46-17]: Mount Tabor rises alone above the plain of Jezreel, and Mount Carmel above the Mediterranean coast. The one who comes is the king of Babylon.
+[^46-18]: Or "laid waste".
+[^46-19]: Hebrew *qerets*, a rare word, perhaps "gadfly" or "horsefly".
+[^46-20]: Literally "Her sound goes like a snake". Egypt hisses and slips away as the enemy advances.
+[^46-21]: Or "though it is impenetrable".
+[^46-22]: Amon was the chief god of Thebes (Hebrew *No*), the great city of Upper Egypt.
+[^46-23]: Verses 27–28 repeat 30:10–11 with small differences.
+[^46-24]: Or "in due measure". Hebrew *mishpat*, "justice, judgment".
+
+## Chapter 47
+
+*Status: draft*
+
+**1** The word of Yahweh[^47-1] that came to Jeremiah the prophet concerning the Philistines, before Pharaoh struck Gaza.[^47-2]
+
+**2** This is what Yahweh says: Look, waters are rising from the north; they will become an overflowing torrent. They will overflow the land and everything in it, the city and those who live in it. People will cry out, and all who live in the land will wail.
+
+**3** At the sound of the stamping hooves of his stallions, at the rumble of his chariots and the clatter of their wheels, fathers will not turn back for their children, because their hands hang limp.[^47-3]
+
+**4** For the day is coming to destroy all the Philistines, to cut off from Tyre and Sidon every helper who survives. For Yahweh is destroying the Philistines, the remnant of the coastland of Caphtor.[^47-4]
+
+**5** Baldness has come upon Gaza;[^47-5] Ashkelon is silenced. Remnant of their valley,[^47-6] how long will you gash yourself?
+
+**6** Alas,[^47-7] sword of Yahweh! How long until you are quiet? Go back into your sheath; rest and be still.
+
+**7** How can it be quiet,[^47-8] when Yahweh has given it a command? Against Ashkelon and against the seacoast, there he has appointed it.
+
+[^47-1]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^47-2]: The occasion is not known. Gaza, Ashkelon and the other Philistine cities lay on the coastal plain southwest of Judah.
+[^47-3]: Literally "because of the slackness of hands".
+[^47-4]: Caphtor is probably Crete, from which the Philistines had come (Amos 9:7; Deuteronomy 2:23). Hebrew *i*, "coastland, island".
+[^47-5]: The head was shaved in mourning (16:6; 48:37).
+[^47-6]: Hebrew *imqam*, "their valley", perhaps the coastal plain. The Septuagint reads "the remnant of the Anakim", the giants of old who had lived in the Philistine cities (Joshua 11:22).
+[^47-7]: Hebrew *hoy*, translated "Woe to" in 22:13, here a cry of lament.
+[^47-8]: Literally "How can you be quiet".
+
+## Chapter 48
+
+*Status: draft*
+
+**1** Concerning Moab. This is what Yahweh of Armies,[^48-1] the God of Israel, says: Woe to Nebo,[^48-2] for it is devastated! Kiriathaim is put to shame and captured; the stronghold[^48-3] is put to shame and shattered.
+
+**2** Moab's renown is no more. In Heshbon they have planned disaster against her:[^48-4] "Come, let us cut her off from being a nation." You too, Madmen, will be silenced; the sword will pursue you.
+
+**3** Listen! A cry from Horonaim: "Devastation and great destruction!"
+
+**4** Moab is shattered; her little ones raise a cry.[^48-5]
+
+**5** For on the ascent of Luhith they go up weeping bitterly;[^48-6] for on the descent to Horonaim they have heard the anguished cry of destruction.
+
+**6** Flee! Save your lives! Be like a juniper[^48-7] in the wilderness.
+
+**7** Because you trusted in your works and your treasures, you too will be captured. Chemosh[^48-8] will go into exile, together with his priests and his officials.
+
+**8** The destroyer will come against every city, and no city will escape. The valley will perish, and the plateau[^48-9] will be destroyed, as Yahweh has said.
+
+**9** Give wings to Moab,[^48-10] for she will surely fly away. Her cities will become a desolation, with no one living in them.
+
+**10** Cursed is anyone who does the work of Yahweh carelessly; cursed is anyone who keeps his sword from bloodshed!
+
+**11** Moab has been at ease from his youth, settled like wine on its dregs. He has not been poured from jar to jar; he has not gone into exile. So his flavor has stayed in him, and his aroma has not changed.[^48-11]
+
+**12** Therefore, look, the days are coming, declares Yahweh, when I will send him pourers,[^48-12] and they will pour him out. They will empty his jars and smash his jugs.
+
+**13** Then Moab will be ashamed of Chemosh, as the house of Israel was ashamed of Bethel, in which they trusted.[^48-13]
+
+**14** How can you say, "We are warriors, mighty men for battle"?
+
+**15** Moab is devastated, and his cities have been invaded;[^48-14] the best of his young men have gone down to the slaughter, declares the King, whose name is Yahweh of Armies.
+
+**16** Moab's calamity is near at hand; his disaster is coming quickly.
+
+**17** Mourn for him, all you who are around him, all who know his name. Say, "How the mighty scepter is broken, the glorious staff!"
+
+**18** Come down from your glory and sit on the parched ground, you who live there, daughter Dibon,[^48-15] for the destroyer of Moab has come up against you; he has ruined your strongholds.
+
+**19** Stand by the road and watch, you who live in Aroer. Ask the man who flees and the woman who escapes; say, "What has happened?"
+
+**20** Moab is put to shame, for it is shattered. Wail and cry out! Proclaim by the Arnon[^48-16] that Moab is devastated.
+
+**21** Judgment has come to the land of the plateau: to Holon, to Jahzah and to Mephaath,[^48-17]
+
+**22** to Dibon, to Nebo and to Beth-diblathaim,
+
+**23** to Kiriathaim, to Beth-gamul and to Beth-meon,
+
+**24** to Kerioth and to Bozrah,[^48-18] and to all the cities of the land of Moab, far and near.
+
+**25** The horn of Moab is cut off, and his arm is broken,[^48-19] declares Yahweh.
+
+**26** Make him drunk, for he has made himself great against Yahweh. Let Moab wallow in his vomit, and let him also become a laughingstock.
+
+**27** Was not Israel a laughingstock to you? Was he caught among thieves, that whenever you spoke of him you shook your head?
+
+**28** Leave the cities and live among the rocks, you who live in Moab! Be like a dove that nests on the sides of the mouth of a gorge.
+
+**29** We have heard of the pride of Moab, how very proud he is: his loftiness, his pride, his arrogance and his haughty heart.[^48-20]
+
+**30** I know his insolence, declares Yahweh, but it is empty; his boasts accomplish nothing.[^48-21]
+
+**31** Therefore I wail for Moab; for all Moab I cry out; for the men of Kir-heres[^48-22] one moans.
+
+**32** More than the weeping for Jazer I weep for you, vine of Sibmah! Your tendrils crossed over the sea; they reached as far as the sea of Jazer.[^48-23] On your summer fruit and on your grape harvest the destroyer has fallen.
+
+**33** Joy and gladness have been taken away from the orchard[^48-24] and from the land of Moab. I have stopped the wine from the winepresses; no one treads them with shouts of joy. The shouting is no shout of joy.[^48-25]
+
+**34** From the outcry at Heshbon as far as Elealeh, as far as Jahaz they raise their voice, from Zoar to Horonaim and Eglath-shelishiyah.[^48-26] For even the waters of Nimrim have become desolate.
+
+**35** I will put an end in Moab, declares Yahweh, to those who offer sacrifices on the high place and burn incense[^48-27] to their gods.
+
+**36** Therefore my heart moans for Moab like a flute; my heart moans like a flute for the men of Kir-heres. Therefore the wealth they gained has perished.[^48-28]
+
+**37** For every head is shaved bald and every beard cut off; on every hand are gashes, and around the waist is sackcloth.
+
+**38** On all the roofs of Moab and in its squares there is nothing but mourning, for I have broken Moab like a jar that no one wants, declares Yahweh.
+
+**39** How it is shattered! How they wail! How Moab has turned his back in shame! Moab has become a laughingstock and an object of terror to all those around him.
+
+**40** For this is what Yahweh says: Look, one swoops down like an eagle and spreads his wings over Moab.[^48-29]
+
+**41** Kerioth is captured,[^48-30] and the strongholds are seized. On that day the hearts of Moab's warriors will be like the heart of a woman in labor.
+
+**42** Moab will be destroyed and be a people no more, because he made himself great against Yahweh.
+
+**43** Terror, pit and trap are before you, you who live in Moab, declares Yahweh.[^48-31]
+
+**44** Whoever flees from the terror will fall into the pit, and whoever climbs out of the pit will be caught in the trap. For I will bring upon her, upon Moab, the year of their punishment, declares Yahweh.
+
+**45** In the shadow of Heshbon the fugitives stand without strength. For fire has gone out from Heshbon, and a flame from the midst of Sihon.[^48-32] It has devoured the forehead of Moab and the skulls of the boasters.[^48-33]
+
+**46** Woe to you, Moab! The people of Chemosh have perished, for your sons have been taken into captivity, and your daughters into exile.
+
+**47** Yet I will restore the fortunes[^48-34] of Moab in the days to come,[^48-35] declares Yahweh. Thus far the judgment on Moab.
+
+[^48-1]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles. *Yahweh of Armies* (Hebrew *YHWH tseva'ot*) is traditionally "the LORD of hosts" or "the LORD Almighty". *Tseva'ot* means armies: the heavenly hosts and the armies of Israel. Also in verse 15. Much of this chapter has lines in common with Isaiah 15–16.
+[^48-2]: The places named in this chapter are towns of Moab, east of the Dead Sea. Nebo is the town, not the mountain (Numbers 32:38).
+[^48-3]: Hebrew *ha-misgav*, "the high stronghold", perhaps a place name, Misgab.
+[^48-4]: Two wordplays: *Cheshbon*, "Heshbon", and *chashvu*, "they have planned"; *Madmen* and *tiddommi*, "you will be silenced".
+[^48-5]: The Septuagint reads "they raise a cry to Zoar" (compare Isaiah 15:5).
+[^48-6]: Literally "with weeping goes up weeping". Compare Isaiah 15:5.
+[^48-7]: Hebrew *aro'er*, perhaps a desert shrub (compare 17:6), or the town of Aroer (verse 19).
+[^48-8]: The god of Moab (Numbers 21:29; 1 Kings 11:7). The Hebrew text is written "Kemish" but read "Chemosh".
+[^48-9]: Hebrew *ha-mishor*, the high tableland of Moab. Also in verse 21.
+[^48-10]: The meaning of the Hebrew *tsits* is uncertain here. It may mean "wings", "a flower" or "salt".
+[^48-11]: Wine was left to settle on its sediment and then poured off into other jars to clear it.
+[^48-12]: Hebrew *tso'im*, "those who tip", men who tilt jars to pour them out.
+[^48-13]: Bethel was where Jeroboam set up a golden calf for Israel to worship (1 Kings 12:28–29). Or the god Bethel, who was worshiped in the region.
+[^48-14]: The Hebrew is difficult. Literally "and her cities he has gone up".
+[^48-15]: Dibon was a chief city of Moab, north of the Arnon.
+[^48-16]: The deep gorge of the Arnon cuts through Moab to the Dead Sea.
+[^48-17]: The Hebrew text is written "Mophaath" but read "Mephaath".
+[^48-18]: A town in Moab, not the Bozrah of Edom (49:13).
+[^48-19]: Pictures of strength.
+[^48-20]: Verses 29–38 have many lines in common with Isaiah 16:6–11 and 15:2–7.
+[^48-21]: The Hebrew is difficult. Literally "and not right; his empty talk, not right they have done".
+[^48-22]: Called Kir-hareseth in Isaiah 16:7, a chief fortress of Moab. Also in verse 36.
+[^48-23]: Isaiah 16:8 reads "they reached as far as Jazer". The *sea* is probably the Dead Sea.
+[^48-24]: Hebrew *karmel*, "orchard, garden land" (2:7).
+[^48-25]: Literally "the shout is not a shout". The cry of the grape treaders has become the battle cry of the enemy (25:30; 51:14).
+[^48-26]: Or "the third Eglath". Compare Isaiah 15:4–6.
+[^48-27]: Or "burn offerings". The Hebrew verb *qatar* means to make something go up in smoke.
+[^48-28]: Literally "the abundance he made has perished" (Isaiah 15:7). Flutes were played at funerals.
+[^48-29]: Verses 40–41 are nearly the same as 49:22, which is said of Edom.
+[^48-30]: Or "The towns are captured". Hebrew *qeriyyot*, "towns", is also the name of Kerioth (verse 24).
+[^48-31]: A wordplay: *pachad*, "terror", *pachat*, "pit", and *pach*, "trap". Verses 43–44 are nearly the same as Isaiah 24:17–18.
+[^48-32]: Verses 45–46 draw on the ancient song in Numbers 21:28–29 and on Numbers 24:17. Sihon was the Amorite king whose capital was Heshbon (Numbers 21:26).
+[^48-33]: Literally "the sons of tumult". Numbers 24:17 has "the sons of Sheth".
+[^48-34]: Literally "turn the turning", an idiom for restoring what was lost. Or "bring back the captives".
+[^48-35]: Literally "in the latter end of the days".
+
+## Chapter 49
+
+*Status: draft*
+
+**1** Concerning the Ammonites. This is what Yahweh[^49-1] says: Has Israel no sons? Has he no heir? Why then has Milcom[^49-2] taken possession of Gad, and why do his people live in its cities?
+
+**2** Therefore, look, the days are coming, declares Yahweh, when I will make the battle cry heard against Rabbah of the Ammonites.[^49-3] It will become a desolate mound, and its villages[^49-4] will be burned with fire. Then Israel will take possession of those who took possession of him, says Yahweh.
+
+**3** Wail, Heshbon, for Ai is devastated![^49-5] Cry out, daughters of Rabbah! Put on sackcloth and mourn; run back and forth among the walls,[^49-6] for Milcom will go into exile, together with his priests and his officials.
+
+**4** Why do you boast of your valleys, your valley overflowing,[^49-7] faithless daughter, who trusted in her treasures, saying, "Who will come against me?"
+
+**5** I am going to bring terror on you, declares the Lord Yahweh of Armies,[^49-8] from all who are around you. You will be driven away, each one headlong, with no one to gather the fugitives.
+
+**6** But afterward I will restore the fortunes[^49-9] of the Ammonites, declares Yahweh.
+
+**7** Concerning Edom. This is what Yahweh of Armies says: Is there no longer wisdom in Teman?[^49-10] Has counsel perished from the prudent? Has their wisdom gone bad?
+
+**8** Flee, turn back, hide deep down,[^49-11] you who live in Dedan! For I will bring disaster on Esau, the time when I punish him.
+
+**9** If grape pickers came to you, they would leave no gleanings. If thieves came by night, they would destroy all they wanted.[^49-12]
+
+**10** But I have stripped Esau bare; I have uncovered his hiding places, and he cannot hide himself. His offspring are destroyed, his brothers and his neighbors, and he is no more.
+
+**11** Leave your orphans; I will keep them alive. Let your widows trust in me.
+
+**12** For this is what Yahweh says: If those who did not deserve to drink the cup must drink it,[^49-13] will you go unpunished? You will not go unpunished, for you will surely drink it.
+
+**13** For I have sworn by myself, declares Yahweh, that Bozrah[^49-14] will become a horror, a disgrace, a ruin and a curse, and all her cities will be ruins forever.
+
+**14** I have heard a report from Yahweh; an envoy has been sent among the nations: "Gather together and come against her; rise up for battle!"
+
+**15** For look, I will make you small among the nations, despised among human beings.
+
+**16** The terror you inspire[^49-15] and the pride of your heart have deceived you, you who live in the clefts of the rock,[^49-16] who hold the height of the hill. Though you build your nest as high as the eagle's, from there I will bring you down, declares Yahweh.
+
+**17** Edom will become a horror; everyone who passes by it will be appalled and hiss at all its wounds.
+
+**18** As when Sodom and Gomorrah and their neighbors were overthrown, says Yahweh, no one will live there; no human being will stay in it.[^49-17]
+
+**19** Look, like a lion coming up from the thickets of the Jordan[^49-18] to a pasture that is always green,[^49-19] I will suddenly chase them from it, and I will appoint over it whoever is chosen.[^49-20] For who is like me? Who can summon me? What shepherd can stand before me?
+
+**20** Therefore hear the plan that Yahweh has made against Edom, and the purposes he has formed against the inhabitants of Teman: Surely the little ones of the flock will be dragged away; surely their pasture will be made desolate because of them.
+
+**21** At the sound of their fall the earth quakes; their cry is heard at the Red Sea.[^49-21]
+
+**22** Look, like an eagle he will rise and swoop down and spread his wings over Bozrah. On that day the hearts of Edom's warriors will be like the heart of a woman in labor.
+
+**23** Concerning Damascus. Hamath and Arpad[^49-22] are put to shame, for they have heard bad news. They melt in fear; there is anxiety like the sea,[^49-23] which cannot be calm.
+
+**24** Damascus has grown weak; she has turned to flee, and panic has seized her. Distress and pangs have gripped her like a woman in labor.
+
+**25** How is it that the city of praise has not been abandoned, the town of my joy?[^49-24]
+
+**26** Therefore her young men will fall in her squares, and all her soldiers will be silenced on that day, declares Yahweh of Armies.[^49-25]
+
+**27** I will set fire to the wall of Damascus, and it will consume the fortresses of Ben-hadad.[^49-26]
+
+**28** Concerning Kedar and the kingdoms of Hazor, which Nebuchadnezzar king of Babylon struck down.[^49-27] This is what Yahweh says: Rise up, go up against Kedar, and destroy the people of the east.
+
+**29** Their tents and their flocks will be taken, their tent curtains and all their goods; their camels will be carried off from them. People will shout to them, "Terror on every side!"
+
+**30** Flee, wander far away, hide deep down, you who live in Hazor, declares Yahweh. For Nebuchadnezzar king of Babylon has made a plan against you; he has formed a purpose against you.[^49-28]
+
+**31** Rise up, go up against a nation at ease, that lives in security, declares Yahweh, that has no gates or bars; they live alone.
+
+**32** Their camels will become plunder, and their great herds spoil. I will scatter to every wind those who clip the hair at their temples,[^49-29] and I will bring disaster on them from every side, declares Yahweh.
+
+**33** Hazor will become a haunt of jackals, a desolation forever. No one will live there; no human being will stay in it.
+
+**34** The word of Yahweh that came to Jeremiah the prophet concerning Elam,[^49-30] at the beginning of the reign of Zedekiah king of Judah:
+
+**35** This is what Yahweh of Armies says: I am going to break the bow of Elam, the mainstay of their might.[^49-31]
+
+**36** I will bring against Elam the four winds from the four ends of the heavens, and I will scatter them to all these winds. There will be no nation to which the outcasts of Elam[^49-32] will not come.
+
+**37** I will shatter Elam before their enemies, before those who seek their lives. I will bring disaster on them, my fierce anger, declares Yahweh. I will send the sword after them until I have made an end of them.
+
+**38** I will set my throne in Elam and destroy from there its king and officials, declares Yahweh.
+
+**39** But in the days to come[^49-33] I will restore the fortunes of Elam, declares Yahweh.
+
+[^49-1]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^49-2]: The Hebrew is pointed *malkam*, "their king". The same consonants can be read *Milkom*, Milcom, the god of the Ammonites (1 Kings 11:5, 33), as the Septuagint reads. Also in verse 3, where Milcom goes into exile with his priests, as Chemosh does in 48:7.
+[^49-3]: The Ammonite capital, modern Amman.
+[^49-4]: Literally "its daughters".
+[^49-5]: This Ai, in Ammon, is not the town near Bethel. Heshbon lay near the border of Ammon and Moab (48:2).
+[^49-6]: Hebrew *gederot*, "walls" or "sheepfolds". The meaning of the line is uncertain.
+[^49-7]: Literally "your valley flows".
+[^49-8]: Hebrew *Adonai YHWH tseva'ot*, "my Lord Yahweh of Armies". *Yahweh of Armies* (Hebrew *YHWH tseva'ot*) is traditionally "the LORD of hosts" or "the LORD Almighty". *Tseva'ot* means armies: the heavenly hosts and the armies of Israel. *Yahweh of Armies* is also in verses 7, 26 and 35.
+[^49-9]: Literally "turn the turning", an idiom for restoring what was lost. Or "bring back the captives". Also in verse 39.
+[^49-10]: A region or town of Edom, known for its wise men (Job 2:11). Verses 7–22 have many lines in common with Obadiah 1–9.
+[^49-11]: Literally "go deep to dwell", that is, hide in caves. Also in verse 30. Dedan was an Arabian people southeast of Edom (25:23).
+[^49-12]: Or, as questions, as in Obadiah 5: "would they not leave gleanings? … would they not destroy only what they wanted?"
+[^49-13]: The cup of Yahweh's wrath (25:15–29).
+[^49-14]: A chief city of Edom (Isaiah 34:6; Amos 1:12). Also in verse 22.
+[^49-15]: Hebrew *tiflatstekha*, a rare word, perhaps "the horror you cause".
+[^49-16]: Hebrew *sela*, "rock", perhaps also the Edomite stronghold Sela (2 Kings 14:7).
+[^49-17]: Repeated in 50:40.
+[^49-18]: Literally "the pride of the Jordan" (12:5). Verses 19–21 are repeated, of Babylon, in 50:44–46.
+[^49-19]: Hebrew *neveh etan*, "an enduring pasture".
+[^49-20]: The Hebrew of this sentence is difficult. Literally "for I will in a moment make him run from it, and who is chosen I will appoint over it".
+[^49-21]: Hebrew *yam suf*, "Sea of Reeds", here probably the Gulf of Aqaba, south of Edom.
+[^49-22]: Cities of northern Syria (Isaiah 10:9).
+[^49-23]: Literally "in the sea, anxiety".
+[^49-24]: The meaning is uncertain. Literally "How is it not abandoned". Perhaps the citizens lament that they did not leave the city in time.
+[^49-25]: Verse 26 is repeated in 50:30.
+[^49-26]: The name of several kings of Damascus (1 Kings 15:18; 2 Kings 13:3). Compare Amos 1:4.
+[^49-27]: Kedar was a people of the Arabian desert (2:10). This Hazor is not the city in Galilee but probably a group of Arab settlements. Nebuchadnezzar campaigned against the Arabs in 599–598 BC.
+[^49-28]: The Hebrew text is written "against them" but read "against you".
+[^49-29]: See 9:25.
+[^49-30]: Elam lay east of Babylonia, in what is now southwestern Iran. Zedekiah began to reign in 597 BC.
+[^49-31]: Literally "the first of their might". The Elamites were famous archers (Isaiah 22:6).
+[^49-32]: The Hebrew text is written *olam*, "forever", but read *Elam*.
+[^49-33]: Literally "in the latter end of the days".
+
+## Chapter 50
+
+*Status: draft*
+
+**1** The word that Yahweh[^50-1] spoke concerning Babylon, concerning the land of the Babylonians,[^50-2] through Jeremiah the prophet:
+
+**2** Declare it among the nations and proclaim it; raise a signal flag and proclaim it; hide nothing. Say: Babylon is captured; Bel is put to shame; Marduk is shattered.[^50-3] Her images are put to shame; her idols[^50-4] are shattered.
+
+**3** For a nation from the north has come up against her; it will make her land a desolation, and no one will live in it. Both human beings and animals have fled; they are gone.
+
+**4** In those days and at that time, declares Yahweh, the people of Israel will come, they and the people of Judah together. They will come weeping as they go, and they will seek Yahweh their God.
+
+**5** They will ask the way to Zion, with their faces turned toward it: "Come, let us join ourselves to Yahweh[^50-5] in an everlasting covenant that will never be forgotten."
+
+**6** My people have been lost sheep; their shepherds have led them astray, making them roam on the mountains.[^50-6] They have wandered from mountain to hill; they have forgotten their resting place.
+
+**7** All who found them have devoured them, and their foes have said, "We are not guilty, because they sinned against Yahweh, their true pasture,[^50-7] Yahweh, the hope of their ancestors."
+
+**8** Flee from the midst of Babylon; go out[^50-8] from the land of the Babylonians, and be like male goats that go before the flock.
+
+**9** For look, I am stirring up and bringing against Babylon an assembly of great nations from the land of the north. They will draw up their lines against her; from there she will be captured. Their arrows are like those of a skilled warrior who does not return empty-handed.
+
+**10** Babylonia[^50-9] will become plunder; all who plunder her will be satisfied, declares Yahweh.
+
+**11** Though you rejoice, though you exult, you who plunder my inheritance, though you frisk about like a heifer threshing grain[^50-10] and neigh like stallions,
+
+**12** your mother will be greatly ashamed; she who bore you will be disgraced. Look, she will be the least of the nations, a wilderness, a dry land and a desert.
+
+**13** Because of the wrath of Yahweh she will not be inhabited, but will be completely desolate. Everyone who passes by Babylon will be appalled and hiss at all her wounds.
+
+**14** Draw up your lines around Babylon, all you who bend the bow! Shoot at her; spare no arrows, for she has sinned against Yahweh.
+
+**15** Raise the battle cry against her on every side! She has surrendered;[^50-11] her towers[^50-12] have fallen; her walls are torn down. For this is the vengeance of Yahweh. Take vengeance on her; do to her as she has done.
+
+**16** Cut off from Babylon the sower and the one who wields the sickle at harvest time. Because of the sword of the oppressor,[^50-13] they will each turn back to their own people; they will each flee to their own land.
+
+**17** Israel is a scattered sheep, chased away by lions. First the king of Assyria devoured him, and now at the last Nebuchadnezzar king of Babylon has gnawed his bones.[^50-14]
+
+**18** Therefore this is what Yahweh of Armies,[^50-15] the God of Israel, says: I am going to punish the king of Babylon and his land, as I punished the king of Assyria.
+
+**19** I will bring Israel back to his pasture, and he will graze on Carmel and in Bashan, and his appetite will be satisfied on the hills of Ephraim and in Gilead.
+
+**20** In those days and at that time, declares Yahweh, search will be made for Israel's guilt, but there will be none, and for Judah's sins, but none will be found, for I will forgive those I leave as a remnant.
+
+**21** Go up against the land of Merathaim, against it, and against the inhabitants of Pekod.[^50-16] Put them to the sword and devote them to destruction,[^50-17] declares Yahweh; do all that I have commanded you.
+
+**22** The noise of battle is in the land, and great destruction!
+
+**23** How the hammer of the whole earth is cut down and broken! How Babylon has become a horror among the nations!
+
+**24** I set a trap for you, Babylon, and you were caught before you knew it. You were found and seized, because you challenged Yahweh.
+
+**25** Yahweh has opened his armory and brought out the weapons of his wrath, for the Lord Yahweh of Armies[^50-18] has work to do in the land of the Babylonians.
+
+**26** Come against her from every side;[^50-19] open her granaries; pile her up like heaps of grain and devote her to destruction. Let her have no remnant left.
+
+**27** Put all her young bulls to the sword;[^50-20] let them go down to the slaughter. Woe to them, for their day has come, the time of their punishment.
+
+**28** Listen! Fugitives and refugees from the land of Babylon are declaring in Zion the vengeance of Yahweh our God, vengeance for his temple.
+
+**29** Summon archers[^50-21] against Babylon, all who bend the bow. Camp all around her; let none of hers escape.[^50-22] Repay her for her deeds; do to her just as she has done. For she has defied Yahweh, the Holy One of Israel.
+
+**30** Therefore her young men will fall in her squares, and all her soldiers will be silenced on that day, declares Yahweh.[^50-23]
+
+**31** Look, I am against you, Arrogant One,[^50-24] declares the Lord Yahweh of Armies, for your day has come, the time when I will punish you.
+
+**32** The Arrogant One will stumble and fall, with no one to raise him up. I will set fire to his cities, and it will consume everything around him.
+
+**33** This is what Yahweh of Armies says: The people of Israel are oppressed, and the people of Judah with them. All who took them captive hold them fast; they refuse to let them go.
+
+**34** But their Redeemer[^50-25] is strong; Yahweh of Armies is his name. He will surely plead their cause, so that he may give rest to the earth, but unrest to the inhabitants of Babylon.[^50-26]
+
+**35** A sword against the Babylonians, declares Yahweh, and against the inhabitants of Babylon, against her officials and against her wise men!
+
+**36** A sword against her false prophets,[^50-27] and they will become fools! A sword against her warriors, and they will be shattered!
+
+**37** A sword against his horses and his chariots, and against all the foreign troops[^50-28] in her midst, and they will become like women! A sword against her treasures, and they will be plundered!
+
+**38** A drought[^50-29] on her waters, and they will dry up! For it is a land of idols, and they go mad over their terrifying images.
+
+**39** Therefore desert creatures will live there with hyenas,[^50-30] and ostriches will live in her. She will never again be inhabited or lived in from generation to generation.
+
+**40** As when God overthrew Sodom and Gomorrah and their neighbors, declares Yahweh, no one will live there; no human being will stay in it.[^50-31]
+
+**41** Look, a people is coming from the north; a great nation and many kings are being stirred up from the farthest parts of the earth.[^50-32]
+
+**42** They grasp bow and javelin; they are cruel and show no mercy. Their sound is like the roaring sea; they ride on horses, drawn up like warriors for battle against you, daughter Babylon.
+
+**43** The king of Babylon has heard the report of them, and his hands hang limp. Anguish has gripped him, pain like that of a woman in labor.
+
+**44** Look, like a lion coming up from the thickets of the Jordan[^50-33] to a pasture that is always green, I will suddenly chase them from it, and I will appoint over it whoever is chosen. For who is like me? Who can summon me? What shepherd can stand before me?
+
+**45** Therefore hear the plan that Yahweh has made against Babylon, and the purposes he has formed against the land of the Babylonians: Surely the little ones of the flock will be dragged away; surely the pasture will be made desolate because of them.
+
+**46** At the sound of Babylon's capture the earth quakes, and a cry is heard among the nations.
+
+[^50-1]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles. Chapters 50–51 are the last and longest of the oracles against the nations.
+[^50-2]: Hebrew *Kasdim*, traditionally "Chaldeans": the people of southern Mesopotamia whose kings then ruled Babylon. Also in verses 8, 10, 25, 35 and 45.
+[^50-3]: Hebrew *Merodakh*. Marduk was the chief god of Babylon, and *Bel*, "lord", was his title.
+[^50-4]: Hebrew *gillulim*, a scornful word for idols, perhaps "dung pellets".
+[^50-5]: Literally "Come, and they will join themselves to Yahweh".
+[^50-6]: The Hebrew text is written "faithless mountains" but read "they made them roam on the mountains".
+[^50-7]: Literally "the pasture of righteousness" (31:23).
+[^50-8]: The Hebrew text is written "they will go out" but read "go out".
+[^50-9]: Hebrew *Kasdim*, here meaning the land.
+[^50-10]: The same consonants can be read "like a heifer in the grass", as the Septuagint reads.
+[^50-11]: Literally "She has given her hand".
+[^50-12]: Hebrew *ashyot*, a rare word, perhaps "towers" or "foundations".
+[^50-13]: Or "the cruel sword". Hebrew *ha-yonah*, perhaps "the oppressor" (46:16).
+[^50-14]: Literally "has broken his bones". Assyria destroyed the northern kingdom of Israel in 722 BC (2 Kings 17:6), and Babylon took Judah into exile.
+[^50-15]: *Yahweh of Armies* (Hebrew *YHWH tseva'ot*) is traditionally "the LORD of hosts" or "the LORD Almighty". *Tseva'ot* means armies: the heavenly hosts and the armies of Israel. Also in verses 25, 31, 33 and 34.
+[^50-16]: Two wordplays. *Merathaim*, "double rebellion", sounds like *mat marrati*, a Babylonian name for the region at the head of the Persian Gulf. *Pekod*, "punishment", was an Aramean people in eastern Babylonia (Ezekiel 23:23).
+[^50-17]: Literally "Put to the sword and devote to destruction after them". Hebrew *charam*: see 25:9. Also in verse 26.
+[^50-18]: Hebrew *Adonai YHWH tseva'ot*, "my Lord Yahweh of Armies". Also in verse 31.
+[^50-19]: Literally "from the end".
+[^50-20]: Her *young bulls* are her warriors (compare 46:21).
+[^50-21]: Hebrew *rabbim*, "many", here probably "archers" (compare Job 16:13).
+[^50-22]: The words "of hers" are read but not written in the Hebrew text.
+[^50-23]: Verse 30 repeats 49:26, there said of Damascus.
+[^50-24]: Hebrew *zadon*, "arrogance", used as a name for Babylon. Also in verse 32.
+[^50-25]: Hebrew *go'el*, a kinsman who buys back a relative or his property (31:11).
+[^50-26]: A wordplay: *hirgia*, "give rest", and *hirgiz*, "make tremble".
+[^50-27]: Hebrew *baddim*, "empty talkers", probably her diviners (compare Isaiah 44:25).
+[^50-28]: Hebrew *ha-erev*, "the mixture" (25:20), here probably foreign soldiers.
+[^50-29]: Hebrew *chorev*, "drought", a play on *cherev*, "sword", in verses 35–37.
+[^50-30]: The meaning of the Hebrew words *tsiyyim* and *iyyim* is uncertain. Compare Isaiah 13:21–22; 34:14.
+[^50-31]: Verse 40 repeats 49:18, there said of Edom.
+[^50-32]: Verses 41–43 repeat 6:22–24, there said of Jerusalem.
+[^50-33]: Literally "the pride of the Jordan". Verses 44–46 repeat 49:19–21, there said of Edom.
+
+## Chapter 51
+
+*Status: draft*
+
+**1** This is what Yahweh[^51-1] says: I am going to stir up a destroying wind[^51-2] against Babylon and against the people who live in Leb-kamai.[^51-3]
+
+**2** I will send foreigners to Babylon, and they will winnow her[^51-4] and empty her land, for they will come against her from every side on the day of disaster.
+
+**3** Against the archer let the archer bend his bow, and against the one who stands up in his armor.[^51-5] Do not spare her young men; devote her whole army to destruction.[^51-6]
+
+**4** They will fall slain in the land of the Babylonians,[^51-7] pierced through in her streets.
+
+**5** For Israel and Judah have not been widowed by their God, by Yahweh of Armies,[^51-8] though their land is full of guilt against the Holy One of Israel.[^51-9]
+
+**6** Flee from the midst of Babylon! Save your lives, each of you! Do not be destroyed[^51-10] because of her guilt. For this is the time of Yahweh's vengeance; he is repaying her what she deserves.
+
+**7** Babylon was a golden cup in Yahweh's hand, making the whole earth drunk. The nations drank her wine; therefore the nations have gone mad.[^51-11]
+
+**8** Suddenly Babylon has fallen and is shattered.[^51-12] Wail for her! Get balm for her pain; perhaps she can be healed.
+
+**9** "We tried to heal Babylon, but she could not be healed. Leave her, and let us each go to our own land, for her judgment reaches to the heavens and rises as high as the clouds.[^51-13]
+
+**10** Yahweh has brought our vindication to light.[^51-14] Come, let us tell in Zion the work of Yahweh our God."
+
+**11** Sharpen the arrows! Fill the quivers![^51-15] Yahweh has stirred up the spirit of the kings of the Medes,[^51-16] because his purpose is to destroy Babylon. For this is the vengeance of Yahweh, vengeance for his temple.
+
+**12** Raise a signal flag against the walls of Babylon! Strengthen the watch; post the watchmen; prepare the ambushes! For Yahweh has both planned and done what he spoke concerning the inhabitants of Babylon.
+
+**13** You who live by many waters, rich in treasures, your end has come, the measure of your life is cut off.[^51-17]
+
+**14** Yahweh of Armies has sworn by himself: Surely I will fill you with people like a swarm of locusts, and they will raise the shout of victory[^51-18] over you.
+
+**15** He made the earth by his power; he established the world by his wisdom, and by his understanding he stretched out the heavens.[^51-19]
+
+**16** When he thunders,[^51-20] there is a roar of waters in the heavens; he makes the clouds rise from the ends of the earth. He makes lightning for the rain, and brings out the wind from his storehouses.
+
+**17** Every human being is stupid and without knowledge; every goldsmith is put to shame by his idol. For his cast images are a lie; there is no breath in them.
+
+**18** They are worthless, a work of mockery. At the time of their punishment they will perish.
+
+**19** The Portion of Jacob is not like these, for he is the maker of all things, and of the tribe that is his inheritance.[^51-21] Yahweh of Armies is his name.
+
+**20** You are my war club, my weapon for battle:[^51-22] with you I shatter nations; with you I destroy kingdoms;
+
+**21** with you I shatter the horse and its rider; with you I shatter the chariot and its driver;
+
+**22** with you I shatter man and woman; with you I shatter the old and the young; with you I shatter the young man and the young woman;
+
+**23** with you I shatter the shepherd and his flock; with you I shatter the farmer and his team; with you I shatter governors and deputies.[^51-23]
+
+**24** I will repay Babylon and all the inhabitants of Babylonia[^51-24] for all the evil they have done in Zion before your eyes, declares Yahweh.
+
+**25** Look, I am against you, destroying mountain, declares Yahweh, you who destroy the whole earth. I will stretch out my hand against you, roll you down from the cliffs and make you a burned-out mountain.
+
+**26** No stone will be taken from you for a cornerstone, nor any stone for a foundation, for you will be desolate forever, declares Yahweh.
+
+**27** Raise a signal flag in the land! Blow the ram's horn among the nations! Prepare the nations for war against her;[^51-25] summon against her the kingdoms of Ararat, Minni and Ashkenaz.[^51-26] Appoint a commander[^51-27] against her; bring up horses like bristling locusts.[^51-28]
+
+**28** Prepare the nations for war against her, the kings of the Medes, their governors and all their deputies, and every land under their rule.
+
+**29** The earth quakes and writhes, for Yahweh's purposes against Babylon stand: to make the land of Babylon a desolation, with no one living in it.
+
+**30** Babylon's warriors have stopped fighting; they stay in their strongholds. Their strength has failed; they have become like women. Her dwellings are set on fire; the bars of her gates are broken.
+
+**31** Runner runs to meet runner, and messenger to meet messenger, to tell the king of Babylon that his city has been captured from end to end,
+
+**32** the fords have been seized, the marshes[^51-29] set on fire, and the soldiers are terrified.
+
+**33** For this is what Yahweh of Armies, the God of Israel, says: Daughter Babylon is like a threshing floor at the time it is trodden; in a little while the time of her harvest will come.
+
+**34** "Nebuchadnezzar king of Babylon has devoured me;[^51-30] he has crushed me; he has set me down like an empty jar. He has swallowed me like a sea monster;[^51-31] he has filled his belly with my delicacies and rinsed me out."[^51-32]
+
+**35** "May the violence done to me and to my flesh[^51-33] be on Babylon," the people of Zion will say. "May my blood be on the inhabitants of Babylonia," Jerusalem will say.
+
+**36** Therefore this is what Yahweh says: I am going to plead your cause and take vengeance for you. I will dry up her sea[^51-34] and make her spring run dry.
+
+**37** Babylon will become a heap of ruins, a haunt of jackals, a horror and a thing to hiss at, with no one living there.
+
+**38** They roar together like young lions; they growl like lion cubs.
+
+**39** While they are heated, I will set out a feast for them and make them drunk, so that they celebrate, then sleep a perpetual sleep and never wake, declares Yahweh.
+
+**40** I will bring them down like lambs to the slaughter, like rams with male goats.
+
+**41** How Sheshach[^51-35] is captured, the praise of the whole earth seized! How Babylon has become a horror among the nations!
+
+**42** The sea has risen over Babylon; she is covered with its roaring waves.
+
+**43** Her cities have become a desolation, a dry land and a desert, a land where no one lives, through which no human being passes.
+
+**44** I will punish Bel[^51-36] in Babylon and make him spit out what he has swallowed.[^51-37] The nations will no longer stream to him. Even the wall of Babylon has fallen.
+
+**45** Go out from her midst, my people! Save your lives, each of you, from the fierce anger of Yahweh![^51-38]
+
+**46** Do not lose heart or be afraid at the rumors heard in the land, when one rumor comes this year and another the next, with violence in the land and ruler against ruler.
+
+**47** Therefore, look, the days are coming when I will punish the idols of Babylon. Her whole land will be put to shame, and all her slain will fall in her midst.
+
+**48** Then heaven and earth and all that is in them will shout for joy over Babylon, for the destroyers will come against her from the north, declares Yahweh.
+
+**49** Babylon must fall because of the slain of Israel, as the slain of all the earth have fallen because of Babylon.
+
+**50** You who have escaped the sword, go! Do not stand still! Remember Yahweh from far away, and let Jerusalem come to your mind.
+
+**51** "We are ashamed, for we have heard insults; disgrace has covered our faces, for foreigners have entered the holy places of Yahweh's house."[^51-39]
+
+**52** Therefore, look, the days are coming, declares Yahweh, when I will punish her idols, and throughout her land the wounded will groan.
+
+**53** Though Babylon should climb to the heavens, and though she should fortify her lofty stronghold, destroyers will come against her from me, declares Yahweh.
+
+**54** Listen! A cry from Babylon, the sound of great destruction from the land of the Babylonians!
+
+**55** For Yahweh is destroying Babylon and silencing her great noise. Their waves roar like many waters; the sound of their voice resounds.
+
+**56** For a destroyer has come against her, against Babylon. Her warriors are captured; their bows are shattered. For Yahweh is a God of retribution; he will surely repay.
+
+**57** I will make her officials and her wise men drunk, her governors, her deputies and her warriors; they will sleep a perpetual sleep and never wake, declares the King, whose name is Yahweh of Armies.
+
+**58** This is what Yahweh of Armies says: The thick wall of Babylon[^51-40] will be leveled to the ground, and her high gates set on fire. The peoples exhaust themselves for nothing; the nations wear themselves out only for the fire.[^51-41]
+
+**59** This is the command that Jeremiah the prophet gave to Seraiah son of Neriah son of Mahseiah, when he went with Zedekiah king of Judah to Babylon in the fourth year of his reign.[^51-42] Seraiah was the quartermaster.[^51-43]
+
+**60** Jeremiah had written on one scroll all the disaster that would come on Babylon, all these words that are written concerning Babylon.
+
+**61** Jeremiah said to Seraiah, "When you come to Babylon, see that you read all these words aloud.
+
+**62** Then say, 'Yahweh, you have said concerning this place that you will cut it off, so that no one will live in it, neither human beings nor animals, for it will be desolate forever.'
+
+**63** When you finish reading this scroll, tie a stone to it and throw it into the middle of the Euphrates.
+
+**64** Then say, 'So will Babylon sink and never rise again, because of the disaster I am going to bring on her. And they will grow weary.'"[^51-44] Thus far the words of Jeremiah.
+
+[^51-1]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^51-2]: Or "the spirit of a destroyer". Hebrew *ruach*, "wind, spirit".
+[^51-3]: *Leb-kamai*, "the heart of those who rise against me", is a code name for *Kasdim*, Chaldea, made by the cipher *atbash* (see 25:26), in which each letter is replaced by the letter in the same place counting from the end of the alphabet. So *k-s-d-y* becomes *l-b-q-m-y*. The Septuagint reads "the Chaldeans".
+[^51-4]: A wordplay: *zarim*, "foreigners", and *zeruha*, "they will winnow her". The same consonants can be read *zorim*, "winnowers".
+[^51-5]: The Hebrew of these lines is difficult. Some scholars read *al*, "Let not the archer bend his bow, and let him not stand up in his armor", with a small change to the Hebrew.
+[^51-6]: Hebrew *charam*: see 25:9.
+[^51-7]: Hebrew *Kasdim*, traditionally "Chaldeans": the people of southern Mesopotamia whose kings then ruled Babylon. Also in verses 24, 35 and 54.
+[^51-8]: *Yahweh of Armies* (Hebrew *YHWH tseva'ot*) is traditionally "the LORD of hosts" or "the LORD Almighty". *Tseva'ot* means armies: the heavenly hosts and the armies of Israel. Also in verses 14, 19, 33, 57 and 58.
+[^51-9]: *Their land* may be the land of Israel and Judah, or the land of the Babylonians.
+[^51-10]: Or "Do not be silenced".
+[^51-11]: Compare 25:15–29. Revelation 17:2–4 and 18:3 take up this picture.
+[^51-12]: Compare Isaiah 21:9 and Revelation 14:8; 18:2.
+[^51-13]: The speakers in verses 9–10 are probably the foreigners living in Babylon, and then the exiles of Judah.
+[^51-14]: Literally "has brought out our righteousnesses".
+[^51-15]: Hebrew *shelatim*, perhaps "quivers" or "shields".
+[^51-16]: The Medes, from what is now northwestern Iran, joined the Persians under Cyrus, who took Babylon in 539 BC. Also in verse 28.
+[^51-17]: The Hebrew is difficult. Literally "the cubit of your cutting off", perhaps the length of your life, like cloth cut from the loom (Isaiah 38:12).
+[^51-18]: Hebrew *hedad*, the shout of grape treaders (25:30; 48:33).
+[^51-19]: Verses 15–19 repeat 10:12–16.
+[^51-20]: Literally "At the sound of his giving".
+[^51-21]: Literally "and the tribe of his inheritance". 10:16 reads "and Israel is the tribe of his inheritance".
+[^51-22]: *You* may be Babylon, Yahweh's instrument until now, or the conqueror who is coming against her. The verb *naphats*, "shatter", is repeated nine times in verses 20–23.
+[^51-23]: Hebrew *pachot* and *seganim*, titles of officials in the Babylonian and Persian empires. Also in verses 28 and 57.
+[^51-24]: Hebrew *Kasdim*, here meaning the land. Also in verse 35.
+[^51-25]: Literally "Consecrate nations against her", from the religious rites that opened a campaign (6:4). Also in verse 28.
+[^51-26]: Ararat (Urartu), Minni (the Mannaeans) and Ashkenaz (probably the Scythians) were peoples of the mountains north of Mesopotamia.
+[^51-27]: Hebrew *tifsar*, a word borrowed from the Babylonian language, "official".
+[^51-28]: Hebrew *yeleq samar*, perhaps locusts at a stage when their wings are still sheathed.
+[^51-29]: Hebrew *agammim*, "reed marshes", perhaps the reed thickets or defenses along the river.
+[^51-30]: The Hebrew text is written "us" throughout this verse but read "me". Jerusalem speaks in verses 34–35.
+[^51-31]: Hebrew *tannin*, a sea monster or dragon.
+[^51-32]: Or "spewed me out".
+[^51-33]: Literally "my violence and my flesh".
+[^51-34]: Her *sea* may be the Euphrates with its canals.
+[^51-35]: *Sheshach* is a code name for Babylon made by the cipher *atbash*: see 25:26 and verse 1.
+[^51-36]: A title of Marduk, the chief god of Babylon (50:2).
+[^51-37]: The Septuagint does not have the rest of verse 44, or verses 45–48 and the first half of verse 49.
+[^51-38]: Compare Revelation 18:4.
+[^51-39]: The exiles answer in this verse.
+[^51-40]: Literally "the walls of Babylon, the broad".
+[^51-41]: Habakkuk 2:13 has nearly the same words.
+[^51-42]: In 594–593 BC. Seraiah was the brother of Baruch son of Neriah (32:12).
+[^51-43]: Hebrew *sar menuchah*, "officer of the resting place", perhaps the officer in charge of the stopping places on the journey.
+[^51-44]: These words repeat the end of verse 58. They seem to have been copied here to mark where the words of Jeremiah end.
+
+## Chapter 52
+
+*Status: draft*
+
+**1** Zedekiah was twenty-one years old when he became king,[^52-1] and he reigned eleven years in Jerusalem. His mother's name was Hamutal[^52-2] daughter of Jeremiah, from Libnah.
+
+**2** He did what was evil in the eyes of Yahweh,[^52-3] just as Jehoiakim had done.[^52-4]
+
+**3** For it was because of Yahweh's anger that all this happened to Jerusalem and Judah, until he cast them out of his presence. And Zedekiah rebelled against the king of Babylon.
+
+**4** So in the ninth year of his reign, in the tenth month, on the tenth day of the month,[^52-5] Nebuchadnezzar king of Babylon came against Jerusalem with his whole army. They camped against it, and they built siege works all around it.
+
+**5** The city was under siege until the eleventh year of King Zedekiah.
+
+**6** In the fourth month, on the ninth day of the month,[^52-6] the famine in the city was so severe that there was no food for the people of the land.
+
+**7** Then the city wall was broken through, and all the soldiers fled and went out of the city by night by way of the gate between the two walls, near the king's garden, though the Babylonians[^52-7] were all around the city. They went off in the direction of the Arabah.[^52-8]
+
+**8** But the Babylonian army pursued the king and overtook Zedekiah in the plains of Jericho, and all his army was scattered from him.
+
+**9** They captured the king and brought him up to the king of Babylon at Riblah in the land of Hamath,[^52-9] and he passed sentence on him.
+
+**10** The king of Babylon slaughtered Zedekiah's sons before his eyes, and he also slaughtered all the officials of Judah at Riblah.[^52-10]
+
+**11** Then he put out Zedekiah's eyes and bound him in bronze shackles, and the king of Babylon brought him to Babylon and put him in prison[^52-11] until the day of his death.
+
+**12** In the fifth month, on the tenth day of the month,[^52-12] which was the nineteenth year of King Nebuchadnezzar king of Babylon, Nebuzaradan the commander of the guard,[^52-13] who served the king of Babylon,[^52-14] came to Jerusalem.
+
+**13** He burned the house of Yahweh,[^52-15] the king's palace and all the houses of Jerusalem. Every great house he burned with fire.
+
+**14** The whole Babylonian army that was with the commander of the guard tore down all the walls around Jerusalem.
+
+**15** Nebuzaradan the commander of the guard deported some of the poorest of the people,[^52-16] the rest of the people who were left in the city, the deserters who had gone over to the king of Babylon, and the rest of the craftsmen.[^52-17]
+
+**16** But Nebuzaradan the commander of the guard left some of the poorest people of the land to work the vineyards and the fields.
+
+**17** The Babylonians broke up the bronze pillars that belonged to the house of Yahweh, and the stands and the bronze Sea that were in the house of Yahweh, and they carried all the bronze to Babylon.
+
+**18** They also took away the pots, the shovels, the wick trimmers, the sprinkling bowls, the dishes and all the bronze articles used in the temple service.
+
+**19** The commander of the guard took away the basins, the firepans, the sprinkling bowls, the pots, the lampstands, the dishes and the bowls for drink offerings,[^52-18] whatever was made of gold and whatever was made of silver.
+
+**20** As for the two pillars, the one Sea, and the twelve bronze bulls that were under the stands,[^52-19] which King Solomon had made for the house of Yahweh, the bronze of all these articles was beyond weighing.
+
+**21** As for the pillars, each pillar was eighteen cubits[^52-20] high, and a cord of twelve cubits went around it. It was four fingers thick,[^52-21] and hollow.
+
+**22** The bronze capital on top of it was five cubits high,[^52-22] with a network and pomegranates all around the capital, all of bronze. The second pillar, with its pomegranates, was the same.
+
+**23** There were ninety-six pomegranates on the sides;[^52-23] all the pomegranates around the network numbered a hundred.
+
+**24** The commander of the guard took Seraiah the chief priest, Zephaniah the second priest and the three doorkeepers.[^52-24]
+
+**25** From the city he took an official who was in charge of the soldiers, and seven of the king's advisers[^52-25] who were found in the city, the secretary of the commander of the army,[^52-26] who mustered the people of the land, and sixty men of the people of the land who were found in the city.
+
+**26** Nebuzaradan the commander of the guard took them and brought them to the king of Babylon at Riblah.
+
+**27** The king of Babylon struck them down and put them to death at Riblah in the land of Hamath. So Judah went into exile from its land.
+
+**28** These are the people whom Nebuchadnezzar deported:[^52-27] in the seventh year, 3,023 Judeans;[^52-28]
+
+**29** in the eighteenth year of Nebuchadnezzar, 832 people from Jerusalem;[^52-29]
+
+**30** in the twenty-third year of Nebuchadnezzar, Nebuzaradan the commander of the guard deported 745 Judeans.[^52-30] In all there were 4,600 people.
+
+**31** In the thirty-seventh year of the exile of Jehoiachin king of Judah, in the twelfth month, on the twenty-fifth day of the month,[^52-31] Evil-merodach[^52-32] king of Babylon, in the year he became king, showed favor to Jehoiachin king of Judah and brought him out of prison.[^52-33]
+
+**32** He spoke kindly to him and gave him a seat above the seats of the other kings who were with him in Babylon.
+
+**33** So Jehoiachin took off his prison clothes, and for the rest of his life he regularly ate at the king's table.
+
+**34** As for his allowance, a regular allowance was given him by the king of Babylon, a portion for each day, until the day of his death, for as long as he lived.[^52-34]
+
+[^52-1]: This chapter is also found, with small differences, in 2 Kings 24:18–25:30, except for verses 28–30, which only Jeremiah has. Verses 4–16 are also told, more briefly, in 39:1–10. The differences that change the sense are given in the notes.
+[^52-2]: The Hebrew text is written "Hamital" but read "Hamutal". Her father is not Jeremiah the prophet.
+[^52-3]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^52-4]: The Septuagint does not have verses 2–3.
+[^52-5]: In January 588 BC.
+[^52-6]: In July 587 or 586 BC. 2 Kings 25:3 does not have "In the fourth month".
+[^52-7]: Hebrew *Kasdim*, traditionally "Chaldeans": the people of southern Mesopotamia whose kings then ruled Babylon. Also in verses 8, 14 and 17.
+[^52-8]: The Jordan Valley. 2 Kings 25:4 has no verb for the soldiers, and reads "he went off", meaning the king.
+[^52-9]: Riblah was on the Orontes River in Syria, where Nebuchadnezzar had his headquarters. 2 Kings 25:6 does not have "in the land of Hamath", and reads "they passed sentence on him".
+[^52-10]: 2 Kings 25:7 does not mention the killing of the officials.
+[^52-11]: Literally "the house of the punishments". 2 Kings 25:7 does not mention his imprisonment or his death.
+[^52-12]: In the summer of 587 or 586 BC. 2 Kings 25:8 reads "on the seventh day of the month".
+[^52-13]: Hebrew *rav-tabbachim*, literally "chief of the butchers" or "chief of the cooks", a title of the commander of the royal bodyguard. Also in verses 14–16, 19, 24, 26 and 30.
+[^52-14]: Literally "who stood before the king of Babylon". 2 Kings 25:8 reads "an officer of the king of Babylon".
+[^52-15]: "The house of Yahweh" is the temple.
+[^52-16]: These words are not in 2 Kings 25:11, and they seem to conflict with verse 16. The Septuagint does not have verse 15.
+[^52-17]: Hebrew *ha-amon*, perhaps "the craftsmen". 2 Kings 25:11 reads *he-hamon*, "the population".
+[^52-18]: 2 Kings 25:15 names only the firepans and the sprinkling bowls.
+[^52-19]: 2 Kings 25:16 does not mention the bulls. According to 1 Kings 7:25 the twelve bulls stood under the Sea, not under the stands, and King Ahaz had already taken the Sea down from them (2 Kings 16:17).
+[^52-20]: A cubit was about 18 inches (45 cm). Eighteen cubits was about 27 feet (8.1 meters), and twelve cubits about 18 feet (5.4 meters). Verses 21–23 are not in 2 Kings 25, which gives only the height of the pillars and their capitals. Compare 1 Kings 7:15–22.
+[^52-21]: About 3 inches (7.5 cm).
+[^52-22]: About 7½ feet (2.3 meters), as in 1 Kings 7:16. 2 Kings 25:17 reads "three cubits".
+[^52-23]: Hebrew *ruchah*, "toward the wind", perhaps "on the outside" or "exposed to view". The meaning is uncertain.
+[^52-24]: Literally "the keepers of the threshold".
+[^52-25]: Literally "of those who saw the king's face". 2 Kings 25:19 reads "five".
+[^52-26]: Or "the secretary, the commander of the army".
+[^52-27]: Verses 28–30 are found only here, and the Septuagint does not have them.
+[^52-28]: In 597 BC. 2 Kings 24:12 dates this deportation to Nebuchadnezzar's eighth year, and 2 Kings 24:14–16 gives larger numbers. Hebrew *yehudim*, the people of Judah. Also in verse 30.
+[^52-29]: In 587 or 586 BC, when Jerusalem fell. Verse 12 calls that year Nebuchadnezzar's nineteenth.
+[^52-30]: In 582 or 581 BC. This deportation is not mentioned anywhere else.
+[^52-31]: In 561 BC. 2 Kings 25:27 reads "on the twenty-seventh day of the month".
+[^52-32]: Amel-Marduk, son of Nebuchadnezzar, king of Babylon from 562 to 560 BC.
+[^52-33]: Literally "lifted up the head of Jehoiachin king of Judah, and brought him out of the prison house" (compare Genesis 40:13, 20). 2 Kings 25:27 does not have "and brought him out".
+[^52-34]: Literally "all the days of his life". 2 Kings 25:30 reads "by the king", and does not have "until the day of his death".

@@ -1429,7 +1429,7 @@
 
 **16** At that time Hezekiah stripped the doors of the temple of Yahweh, and the doorposts that Hezekiah king of Judah had overlaid,[^18-11] and gave the gold to the king of Assyria.
 
-**17** The king of Assyria sent the Tartan,[^18-12] the Rab-saris[^18-13] and the Rabshakeh[^18-14] with a large army from Lachish to King Hezekiah at Jerusalem. They went up and came to Jerusalem. They went up and came and stood by the conduit of the Upper Pool, which is on the road to the Washerman's Field.[^18-15]
+**17** The king of Assyria sent the Tartan,[^18-12] the Rab-saris[^18-13] and the Rabshakeh[^18-14] with a large army from Lachish to King Hezekiah at Jerusalem. They went up and came to Jerusalem. They went up and came and stood by the channel of the Upper Pool, which is on the road to the Launderer's Field.[^18-15]
 
 **18** They called for the king, and Eliakim son of Hilkiah, the palace administrator,[^18-16] Shebna the secretary and Joah son of Asaph, the recorder,[^18-17] went out to them.
 

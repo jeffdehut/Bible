@@ -212,7 +212,7 @@ from the Hebrew.
   the passage says so.
 - In prophetic and poetic books, Yahweh's own words in the poems are not put in quotation marks
   (as in Deuteronomy 32 and Isaiah); a song or saying the text introduces as speech ("On that
-  day you will say: …") is.
+  day you will say: …") is, and so is a dialogue in which speakers alternate (Isaiah 63:1–6).
 - Quotation marks: double for speech, single for a quotation inside it. A third level ("This
   is what Yahweh says: …" inside a message inside a speech) takes a colon and no marks.
 - Within a chapter, a speech's quotation is opened once and closed once; it isn't reopened at
