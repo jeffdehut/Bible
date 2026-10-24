@@ -871,3 +871,93 @@
 [^31-15]: Or "consoled", as they saw the great tree share their fate.
 [^31-16]: Literally "its arm", those who were its strength.
 [^31-17]: That is, those who died in disgrace (28:10).
+
+## Chapter 32
+
+*Status: draft*
+
+**1** In the twelfth year, in the twelfth month, on the first day of the month,[^32-1] the word of Yahweh[^32-2] came to me:
+
+**2** "Son of man,[^32-3] raise a lament over Pharaoh king of Egypt and say to him, 'You likened yourself to a lion among the nations,[^32-4] but you are like a monster[^32-5] in the seas. You thrashed about in your rivers, churned up the water with your feet and muddied their rivers.
+
+**3** This is what the Lord Yahweh[^32-6] says: I will spread my net over you with a company of many peoples, and they will haul you up in my dragnet.
+
+**4** I will throw you on the land; I will fling you on the open field. I will make all the birds of the sky settle on you, and I will fill the animals of the whole earth with you.
+
+**5** I will lay your flesh on the mountains and fill the valleys with your carcass.[^32-7]
+
+**6** I will drench the land with what flows from you,[^32-8] with your blood, up to the mountains, and the ravines will be filled with you.
+
+**7** When I snuff you out, I will cover the sky and darken its stars. I will cover the sun with a cloud, and the moon will not give its light.
+
+**8** All the shining lights in the sky I will darken over you, and I will bring darkness on your land, declares the Lord Yahweh.
+
+**9** I will trouble the hearts of many peoples when I bring news of your destruction among the nations,[^32-9] to lands you have not known.
+
+**10** I will make many peoples appalled at you, and their kings will shudder with horror over you when I brandish my sword before them. On the day of your downfall they will tremble every moment, each for his own life.
+
+**11** For this is what the Lord Yahweh says: The sword of the king of Babylon will come against you.
+
+**12** I will make your hordes[^32-10] fall by the swords of mighty men, all of them the most ruthless of the nations. They will devastate the pride of Egypt, and all her hordes will be destroyed.
+
+**13** I will destroy all her cattle from beside abundant waters. No human foot will muddy them again, and no cattle's hooves will muddy them.
+
+**14** Then I will let their waters settle and make their rivers run like oil, declares the Lord Yahweh.
+
+**15** When I make the land of Egypt a desolation, and the land is stripped of all that fills it, when I strike down all who live in it, then they will know that I am Yahweh.
+
+**16** This is a lament, and they will chant it. The daughters of the nations will chant it; over Egypt and all her hordes they will chant it, declares the Lord Yahweh.'"
+
+**17** In the twelfth year, on the fifteenth day of the month,[^32-11] the word of Yahweh came to me:
+
+**18** "Son of man, wail over the hordes of Egypt, and bring them down, her and the daughters of mighty nations, to the world below,[^32-12] with those who go down to the Pit.
+
+**19** Whom do you surpass in beauty? Go down and be laid to rest with the uncircumcised![^32-13]
+
+**20** They will fall among those killed by the sword. The sword has been handed over! Drag her away[^32-14] with all her hordes!
+
+**21** From the middle of Sheol[^32-15] the mightiest of the warriors will speak to him and his helpers: 'They have come down; they lie still, the uncircumcised, killed by the sword.'
+
+**22** Assyria is there with all its company, its graves all around it, all of them slain, fallen by the sword.
+
+**23** Its graves are set in the farthest depths of the Pit, and its company lies all around its grave, all of them slain, fallen by the sword, who spread terror in the land of the living.
+
+**24** Elam[^32-16] is there, with all its hordes around its grave, all of them slain, fallen by the sword, who went down uncircumcised to the world below, who spread their terror in the land of the living. They bear their disgrace with those who go down to the Pit.
+
+**25** Among the slain a bed has been made for Elam with all its hordes, its graves all around it, all of them uncircumcised, killed by the sword. For their terror was spread in the land of the living, and they bear their disgrace with those who go down to the Pit. Elam is placed among the slain.
+
+**26** Meshech and Tubal[^32-17] are there, with all their hordes, their graves all around them, all of them uncircumcised, killed by the sword, for they spread their terror in the land of the living.
+
+**27** They do not lie[^32-18] with the mighty warriors, the fallen from among the uncircumcised,[^32-19] who went down to Sheol with their weapons of war, whose swords were laid under their heads, and whose iniquities lie on their bones,[^32-20] though the terror of the mighty was in the land of the living.
+
+**28** As for you, you will be broken among the uncircumcised and lie with those killed by the sword.
+
+**29** Edom is there, its kings and all its princes, who for all their might are laid with those killed by the sword. They lie with the uncircumcised, with those who go down to the Pit.
+
+**30** All the princes of the north are there, and all the Sidonians, who went down with the slain in shame, for all the terror their might once caused. They lie uncircumcised with those killed by the sword, and they bear their disgrace with those who go down to the Pit.
+
+**31** Pharaoh will see them, and he will be comforted over all his hordes, Pharaoh and all his army, killed by the sword, declares the Lord Yahweh.
+
+**32** For I spread my terror[^32-21] in the land of the living, but he will be laid among the uncircumcised, with those killed by the sword, Pharaoh and all his hordes, declares the Lord Yahweh."
+
+[^32-1]: In March 585 BC.
+[^32-2]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^32-3]: Hebrew *ben adam*, "son of man": a human being, a mortal. Yahweh addresses Ezekiel this way more than ninety times in the book.
+[^32-4]: Or "You were like a lion among the nations". The verb *nidmeta* can also mean "you are destroyed".
+[^32-5]: Hebrew *tannim*, a great sea creature, probably the crocodile (29:3).
+[^32-6]: Hebrew *Adonai YHWH*, "my Lord Yahweh", traditionally "the Lord GOD".
+[^32-7]: Hebrew *ramutekha*, a word found only here, of uncertain meaning: perhaps "your carcass" or "your heap".
+[^32-8]: Hebrew *tsafatekha*, of uncertain meaning: perhaps "your outflow".
+[^32-9]: Literally "when I bring your breaking among the nations".
+[^32-10]: Or "your multitude". Hebrew *hamon* (29:19). Also in verses 16, 18, 20, 24–26, 31 and 32.
+[^32-11]: The month is not given; perhaps the twelfth month, as in verse 1 (March 585 BC). The Septuagint reads "in the first month".
+[^32-12]: Hebrew *erets tachtiyyot*, "the land of the lowest places", the underworld. Also in verse 24.
+[^32-13]: That is, those who died in disgrace (28:10; 31:18). Also in verses 21–30 and 32.
+[^32-14]: Or "They have dragged her away".
+[^32-15]: Hebrew *Sheol*, the realm of the dead.
+[^32-16]: A kingdom east of Babylonia, in what is now southwestern Iran.
+[^32-17]: Peoples of central and eastern Asia Minor (27:13).
+[^32-18]: Or "Do they not lie …?"
+[^32-19]: The Septuagint reads "the mighty who fell long ago", which may recall the mighty men of old in Genesis 6:4.
+[^32-20]: Some scholars read "whose shields lie on their bones", with a small change to the Hebrew.
+[^32-21]: The Hebrew text is written "his terror" but read "my terror".

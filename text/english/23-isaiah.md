@@ -2582,3 +2582,82 @@
 [^42-18]: Hebrew *meshullam*, perhaps "the one in a covenant of peace with me", "the one made complete" or "the one paid for". The meaning is uncertain.
 [^42-19]: The Hebrew text is written "You have seen many things" but read "Seeing many things".
 [^42-20]: Hebrew *ba-churim*. The same consonants can be read *bachurim*, "young men": "all their young men are trapped".
+
+## Chapter 43
+
+*Status: draft*
+
+**1** But now, this is what Yahweh[^43-1] says, he who created you, Jacob, he who formed you, Israel: Do not be afraid, for I have redeemed you;[^43-2] I have called you by name; you are mine.
+
+**2** When you pass through the waters, I will be with you; and through the rivers, they will not sweep over you. When you walk through fire, you will not be burned, and the flame will not consume you.
+
+**3** For I am Yahweh your God, the Holy One of Israel, your Savior. I give Egypt as your ransom, Cush and Seba[^43-3] in exchange for you.
+
+**4** Because you are precious in my eyes, and honored, and I love you, I give people in exchange for you, and nations in exchange for your life.
+
+**5** Do not be afraid, for I am with you. I will bring your offspring from the east and gather you from the west.
+
+**6** I will say to the north, "Give them up!" and to the south,[^43-4] "Do not hold them back! Bring my sons from far away and my daughters from the end of the earth,
+
+**7** everyone who is called by my name, whom I created for my glory, whom I formed and made."
+
+**8** Bring out the people who are blind, though they have eyes, who are deaf, though they have ears.
+
+**9** Let all the nations gather together, and let the peoples assemble. Who among them can declare this and tell us the former things? Let them bring their witnesses to prove they are right, so that others may hear and say, "It is true."
+
+**10** You are my witnesses, declares Yahweh, and my servant whom I have chosen,[^43-5] so that you may know and believe me and understand that I am he.[^43-6] Before me no god was formed, and after me there will be none.
+
+**11** I, I am Yahweh, and apart from me there is no savior.
+
+**12** I declared and saved and proclaimed, and there was no foreign god among you. You are my witnesses, declares Yahweh, and I am God.
+
+**13** From this day on[^43-7] I am he. No one can rescue from my hand. I act, and who can turn it back?
+
+**14** This is what Yahweh says, your Redeemer,[^43-8] the Holy One of Israel: For your sake I am sending to Babylon. I will bring them all down as fugitives,[^43-9] and the Chaldeans in the ships they shouted over.[^43-10]
+
+**15** I am Yahweh, your Holy One, the Creator of Israel, your King.
+
+**16** This is what Yahweh says, who makes a way through the sea, a path through the mighty waters,
+
+**17** who brings out chariot and horse, army and warrior together. They lie down, never to rise again; they are snuffed out, quenched like a wick.[^43-11]
+
+**18** Do not remember the former things, or consider the things of old.
+
+**19** Look, I am doing a new thing! Now it springs up; do you not perceive it? I will make a way in the wilderness and rivers in the wasteland.
+
+**20** The wild animals will honor me, the jackals and the ostriches, because I give water in the wilderness, rivers in the wasteland, to give drink to my people, my chosen,
+
+**21** the people I formed for myself, so that they may declare my praise.
+
+**22** Yet you have not called on me, Jacob; you have grown weary of me, Israel.
+
+**23** You have not brought me sheep for your burnt offerings, or honored me with your sacrifices. I have not burdened you with grain offerings,[^43-12] or wearied you with demands for frankincense.
+
+**24** You have not bought me sweet cane[^43-13] with silver, or filled me with the fat of your sacrifices. Instead you have burdened me with your sins; you have wearied me with your wrongdoing.[^43-14]
+
+**25** I, I am he who wipes out your rebellious acts for my own sake, and I will not remember your sins.
+
+**26** Remind me; let us go to court together. State your case, so that you may be proved right.
+
+**27** Your first ancestor[^43-15] sinned, and your spokesmen[^43-16] rebelled against me.
+
+**28** So I profaned the princes of the sanctuary;[^43-17] I handed Jacob over to destruction[^43-18] and Israel to scorn.
+
+[^43-1]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^43-2]: Hebrew *ga'al*, the verb of the *go'el*, the next of kin who buys back or rescues a family member (41:14).
+[^43-3]: *Cush* is the region south of Egypt (ancient Nubia); *Seba* was probably also in Africa (Genesis 10:7; Psalm 72:10).
+[^43-4]: Literally "Teman", the south. The commands to the north and the south are in the feminine form, as if to women holding captives.
+[^43-5]: Or "You are my witnesses, declares Yahweh, my servant whom I have chosen". The servant is Israel, as in 41:8 and 44:1.
+[^43-6]: Hebrew *ani hu* (41:4). Also in verse 13. The Septuagint translates "that I am" (*ego eimi*), and John 8:28 and 13:19 echo it.
+[^43-7]: Or "From the beginning of days". Literally "Also from the day".
+[^43-8]: Hebrew *go'el* (41:14).
+[^43-9]: Or "I will break down all the bars", that is, of the city's gates. Hebrew *barichim* can mean "fugitives", and with other vowels "bars". The Hebrew of the verse is difficult.
+[^43-10]: Literally "in the ships their shout", perhaps the ships they had once been proud of, or ships in which their shouts of joy turn to cries.
+[^43-11]: The destruction of Pharaoh's army at the Red Sea (Exodus 14–15). The same word for *wick* is used in 42:3.
+[^43-12]: Hebrew *minchah*, "gift, tribute", in Leviticus a grain offering. *Burdened* is literally "made you serve".
+[^43-13]: Hebrew *qaneh*, "reed", an aromatic cane used to make the anointing oil (Exodus 30:23, "fragrant cane"). A play on words: *lo qanita … qaneh*, "you have not bought … cane".
+[^43-14]: *Burdened me* and *wearied me* are the verbs of verse 23: Israel has not served Yahweh, but has made Yahweh serve Israel's sins.
+[^43-15]: Literally "Your first father", perhaps Jacob (Hosea 12:3–5, 12:2–4 in most English Bibles), or Abraham.
+[^43-16]: Hebrew *melitsim*, "interpreters, go-betweens", perhaps the priests and prophets.
+[^43-17]: Or "the holy princes", perhaps the priests. The Hebrew verbs in this verse can also be read as future: "So I will profane … I will hand Jacob over".
+[^43-18]: Hebrew *cherem*, "devotion to destruction" (34:2).

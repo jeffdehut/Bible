@@ -2567,3 +2567,88 @@
 [^35-10]: Literally "you did not incline your ear".
 [^35-11]: Hebrew *YHWH Elohei tseva'ot*, traditionally "the LORD God of hosts".
 [^35-12]: To *stand before* Yahweh is to serve him, as priests and prophets did (15:19; 1 Kings 17:1).
+
+## Chapter 36
+
+*Status: draft*
+
+**1** In the fourth year of Jehoiakim son of Josiah king of Judah,[^36-1] this word came to Jeremiah from Yahweh:[^36-2]
+
+**2** Take a scroll[^36-3] and write on it all the words I have spoken to you concerning Israel and Judah and all the nations, from the day I first spoke to you, in the days of Josiah, until today.
+
+**3** Perhaps when the house of Judah hears of all the disaster I intend to bring on them, each of them will turn from his evil way, and I will forgive their wrongdoing and their sin.
+
+**4** So Jeremiah called Baruch son of Neriah, and Baruch wrote on a scroll at Jeremiah's dictation[^36-4] all the words of Yahweh that he had spoken to him.
+
+**5** Then Jeremiah instructed Baruch, "I am restricted;[^36-5] I cannot go into the house of Yahweh.
+
+**6** So you are to go, and on a fast day read the words of Yahweh from the scroll you have written at my dictation, in the hearing of the people in the house of Yahweh. Read them also in the hearing of all the people of Judah who come in from their cities.
+
+**7** Perhaps their plea will come before Yahweh,[^36-6] and each of them will turn from his evil way, for great is the anger and the wrath that Yahweh has pronounced against this people."
+
+**8** Baruch son of Neriah did everything Jeremiah the prophet commanded him, reading the words of Yahweh from the scroll in the house of Yahweh.
+
+**9** In the fifth year of Jehoiakim son of Josiah king of Judah, in the ninth month,[^36-7] all the people in Jerusalem and all the people who had come from the cities of Judah to Jerusalem proclaimed a fast before Yahweh.
+
+**10** Then Baruch read from the scroll the words of Jeremiah in the house of Yahweh, in the room of Gemariah son of Shaphan the secretary,[^36-8] in the upper courtyard at the entrance of the New Gate of the house of Yahweh, in the hearing of all the people.
+
+**11** When Micaiah son of Gemariah son of Shaphan heard all the words of Yahweh from the scroll,
+
+**12** he went down to the king's palace, into the secretary's room, and all the officials were sitting there: Elishama the secretary, Delaiah son of Shemaiah, Elnathan son of Achbor,[^36-9] Gemariah son of Shaphan, Zedekiah son of Hananiah and all the other officials.
+
+**13** Micaiah told them all the words he had heard when Baruch read from the scroll in the hearing of the people.
+
+**14** Then all the officials sent Jehudi son of Nethaniah son of Shelemiah son of Cushi to Baruch to say, "Take in your hand the scroll you read in the hearing of the people, and come." So Baruch son of Neriah took the scroll in his hand and came to them.
+
+**15** They said to him, "Sit down, please, and read it to us." So Baruch read it to them.
+
+**16** When they heard all the words, they turned to one another in fear, and they said to Baruch, "We must report all these words to the king."
+
+**17** Then they asked Baruch, "Tell us, please, how did you write all these words at his dictation?"
+
+**18** Baruch said to them, "He dictated all these words to me,[^36-10] and I wrote them in ink on the scroll."
+
+**19** Then the officials said to Baruch, "Go and hide, you and Jeremiah, and do not let anyone know where you are."
+
+**20** They went in to the king in the courtyard, after leaving the scroll in the room of Elishama the secretary, and they reported all the words in the hearing of the king.
+
+**21** The king sent Jehudi to get the scroll, and he took it from the room of Elishama the secretary. Jehudi read it in the hearing of the king and of all the officials who stood beside the king.
+
+**22** The king was sitting in the winter house, for it was the ninth month, with a fire burning in the brazier[^36-11] before him.
+
+**23** Whenever Jehudi had read three or four columns,[^36-12] the king[^36-13] would cut them off with a scribe's knife and throw them into the fire in the brazier, until the whole scroll was consumed in the fire in the brazier.
+
+**24** Yet neither the king nor any of his servants who heard all these words was afraid, and they did not tear their clothes.[^36-14]
+
+**25** Even when Elnathan, Delaiah and Gemariah pleaded with the king not to burn the scroll, he would not listen to them.
+
+**26** The king commanded Jerahmeel the king's son,[^36-15] Seraiah son of Azriel and Shelemiah son of Abdeel to arrest Baruch the scribe and Jeremiah the prophet. But Yahweh had hidden them.
+
+**27** After the king had burned the scroll with the words that Baruch had written at Jeremiah's dictation, the word of Yahweh came to Jeremiah:
+
+**28** Take another scroll and write on it all the former words that were on the first scroll, which Jehoiakim king of Judah burned.
+
+**29** And concerning Jehoiakim king of Judah you are to say: This is what Yahweh says: You burned this scroll, saying, "Why have you written on it that the king of Babylon will certainly come and destroy this land and wipe out from it both human beings and animals?"
+
+**30** Therefore this is what Yahweh says about Jehoiakim king of Judah: He will have no one to sit on the throne of David, and his corpse will be thrown out to the heat by day and the frost by night.[^36-16]
+
+**31** I will punish him and his descendants and his servants for their wrongdoing. I will bring on them, on the inhabitants of Jerusalem and on the people of Judah all the disaster I pronounced against them, but they did not listen.
+
+**32** So Jeremiah took another scroll and gave it to Baruch son of Neriah the scribe, and he wrote on it at Jeremiah's dictation all the words of the scroll that Jehoiakim king of Judah had burned in the fire. And many similar words were added to them.
+
+[^36-1]: In 605 BC, the year of the Babylonian victory at Carchemish (25:1; 46:2).
+[^36-2]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles. "The house of Yahweh" is the temple.
+[^36-3]: Literally "a scroll of a book".
+[^36-4]: Literally "from the mouth of Jeremiah". Also in verses 6, 17, 27 and 32.
+[^36-5]: Hebrew *atsur*, "held back, shut in". The reason is not given; compare 20:1–2 and 26:7–24.
+[^36-6]: Literally "their plea will fall before Yahweh".
+[^36-7]: In November or December 604 BC.
+[^36-8]: Shaphan was the royal secretary under Josiah (2 Kings 22:3–14). Another of his sons, Ahikam, had protected Jeremiah (26:24).
+[^36-9]: See 26:22.
+[^36-10]: Literally "From his mouth he would call out to me all these words".
+[^36-11]: Hebrew *ach*, a brazier or firepot. Also in verse 23. The ninth month fell in November–December, at the start of the cold, rainy season.
+[^36-12]: Hebrew *delatot*, literally "doors", the columns of writing on a scroll.
+[^36-13]: Literally "he".
+[^36-14]: Compare 2 Kings 22:11, where Josiah, Jehoiakim's father, tears his clothes when he hears the words of the book of the law.
+[^36-15]: Or "a prince of the royal family". The title may also have been used of a royal officer.
+[^36-16]: Compare 22:18–19. Jehoiakim's son Jehoiachin reigned only three months before he was taken into exile (2 Kings 24:6–15).
