@@ -347,3 +347,491 @@
 [^4-21]: Hebrew *karmel*, "orchard, garden land".
 [^4-22]: Literally "tear open your eyes with antimony", a dark eye paint (2 Kings 9:30).
 [^4-23]: A poetic name for Jerusalem and its people, pictured as a young woman.
+
+## Chapter 5
+
+*Status: draft*
+
+**1** Roam through the streets of Jerusalem; look around and take note. Search her squares to see if you can find one person,[^5-1] anyone who does justice and seeks to be faithful, so that I may forgive her.
+
+**2** Though they say, "As surely as Yahweh[^5-2] lives," they are still swearing falsely.
+
+**3** Yahweh, do your eyes not look for faithfulness? You struck them, but they felt no pain; you crushed them, but they refused to accept discipline. They made their faces harder than rock; they refused to turn back.
+
+**4** I thought, "These are only the poor. They are foolish, for they do not know the way of Yahweh, what their God requires.[^5-3]
+
+**5** I will go to the great men and speak to them, for surely they know the way of Yahweh, what their God requires." But they too, all of them, had broken the yoke and torn off the bonds.
+
+**6** So a lion from the forest will strike them down, a wolf from the desert[^5-4] will destroy them, and a leopard is watching[^5-5] their cities. Everyone who goes out of them will be torn to pieces, for their rebellions are many, their acts of faithlessness[^5-6] are numerous.
+
+**7** How can I forgive you for this? Your children have abandoned me and sworn by gods that are not gods. I fed them until they were full, and they committed adultery and thronged[^5-7] to the house of a prostitute.
+
+**8** They are well-fed, lusty stallions;[^5-8] each one neighs for his neighbor's wife.
+
+**9** Should I not punish them for these things? declares Yahweh. Should I not avenge myself[^5-9] on a nation like this?
+
+**10** Go up through her vineyard rows and destroy, but do not make a full end. Strip away her branches, for they do not belong to Yahweh.
+
+**11** For the house of Israel and the house of Judah have been utterly unfaithful to me, declares Yahweh.
+
+**12** They have denied Yahweh and said, "He will do nothing![^5-10] No disaster will come on us; we will not see sword or famine.
+
+**13** The prophets are only wind;[^5-11] the word is not in them. So may it be done to them!"[^5-12]
+
+**14** Therefore this is what Yahweh, the God of Armies,[^5-13] says: Because you people have spoken this word, I am going to make my words in your mouth[^5-14] a fire, and this people wood, and it will consume them.
+
+**15** I am going to bring against you a nation from far away, house of Israel, declares Yahweh. It is an enduring nation, an ancient nation, a nation whose language you do not know, and you will not understand what they say.[^5-15]
+
+**16** Their quiver is like an open grave; all of them are warriors.
+
+**17** They will devour your harvest and your food; they will devour your sons and your daughters. They will devour your flocks and your herds; they will devour your vines and your fig trees. With the sword they will shatter the fortified cities you trust in.
+
+**18** Yet even in those days, declares Yahweh, I will not make a full end of you.
+
+**19** And when you ask, "Why has Yahweh our God done all these things to us?" you[^5-16] are to say to them, "As you have abandoned me and served foreign gods in your land, so you will serve strangers in a land that is not yours."
+
+**20** Declare this in the house of Jacob, and proclaim it in Judah:
+
+**21** Hear this, you foolish and senseless people,[^5-17] who have eyes but do not see, who have ears but do not hear.
+
+**22** Do you not fear me? declares Yahweh. Do you not tremble before me? I placed the sand as a boundary for the sea, a permanent limit that it cannot cross. Its waves toss, but they cannot prevail; they roar, but they cannot cross it.
+
+**23** But this people has a stubborn and rebellious heart; they have turned aside and gone away.
+
+**24** They do not say in their hearts, "Let us fear Yahweh our God, who gives the rain, the autumn rain and the spring rain,[^5-18] in its season, who keeps for us the weeks appointed for the harvest."
+
+**25** Your wrongdoings have turned these away; your sins have kept good things from you.
+
+**26** For among my people are found wicked men. They watch like fowlers lying in wait;[^5-19] they set a trap; they catch human beings.
+
+**27** Like a cage full of birds, their houses are full of deceit. That is how they have become great and rich.
+
+**28** They have grown fat and sleek. They have even gone beyond all bounds in evil.[^5-20] They do not plead the cause, the cause of the fatherless, yet they prosper; they do not defend the rights of the needy.
+
+**29** Should I not punish them for these things? declares Yahweh. Should I not avenge myself on a nation like this?
+
+**30** An appalling and horrible thing has happened in the land:
+
+**31** the prophets prophesy falsely, and the priests rule as they direct,[^5-21] and my people love it so. But what will you do when the end comes?
+
+[^5-1]: Literally "a man".
+[^5-2]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^5-3]: Hebrew *mishpat*, "justice, ruling". Literally "the justice of their God". Also in verse 5.
+[^5-4]: Or "a wolf of the evening".
+[^5-5]: Hebrew *shoqed*, the word used in 1:12.
+[^5-6]: Hebrew *meshuvot*, "turnings away": see 2:19.
+[^5-7]: Or "gashed themselves", as in rites of mourning or worship (16:6; 1 Kings 18:28).
+[^5-8]: The meaning of the Hebrew words is uncertain.
+[^5-9]: Literally "Should my soul not avenge itself". Also in verse 29.
+[^5-10]: Literally "Not he!", that is, he does not count, or he will not act.
+[^5-11]: Hebrew *ruach*, "wind, spirit". The prophets claim to speak by the spirit, but they are only wind.
+[^5-12]: The people's words may end before this sentence, which would then be Yahweh's answer: "So it will be done to them."
+[^5-13]: Hebrew *YHWH Elohei tseva'ot*, traditionally "the LORD God of hosts". *Tseva'ot* means armies: the heavenly hosts and the armies of Israel.
+[^5-14]: *You people* is plural, the people of Judah; *your mouth* is singular, the prophet's.
+[^5-15]: Compare Deuteronomy 28:49.
+[^5-16]: Singular, the prophet. The first "you" in the verse is plural, the people.
+[^5-17]: Literally "without heart". In Hebrew the heart is the seat of thought and understanding.
+[^5-18]: Hebrew *yoreh* and *malqosh*, the rains of autumn (October–November), which soften the ground for sowing, and of spring (March–April), which ripen the crops.
+[^5-19]: The Hebrew is difficult. Literally "He watches like the crouching of fowlers".
+[^5-20]: Literally "they have passed over the matters of evil". Or "they have overlooked evil deeds".
+[^5-21]: Literally "rule on their hands". Or "rule by their own authority".
+
+## Chapter 6
+
+*Status: draft*
+
+**1** Run for safety, people of Benjamin, out of the midst of Jerusalem! Blow the ram's horn in Tekoa,[^6-1] and raise a signal fire over Beth-hakkerem![^6-2] For disaster looms from the north, and great destruction.
+
+**2** Daughter Zion,[^6-3] so lovely and delicate, I will destroy.[^6-4]
+
+**3** Shepherds with their flocks will come to her. They will pitch their tents against her all around; each will graze his own part.
+
+**4** "Prepare for war against her![^6-5] Up, let us attack at noon! Woe to us, for the day is fading; the evening shadows are lengthening.
+
+**5** Up, let us attack by night and destroy her fortresses!"
+
+**6** For this is what Yahweh of Armies[^6-6] says: Cut down her trees and pile up a siege ramp against Jerusalem. This is the city that must be punished;[^6-7] there is nothing but oppression within her.
+
+**7** As a well keeps its water fresh, so she keeps her wickedness fresh. Violence and destruction are heard in her; sickness and wounds are always before me.
+
+**8** Take warning, Jerusalem, or I will turn from you in disgust[^6-8] and make you a desolation, a land where no one lives.
+
+**9** This is what Yahweh of Armies says: They will glean the remnant of Israel as thoroughly as a vine. Pass your hand over the branches again, like a grape picker.
+
+**10** To whom can I speak and give warning, so that they will listen? Look, their ears are uncircumcised,[^6-9] and they cannot pay attention. Look, the word of Yahweh has become an object of scorn to them; they take no pleasure in it.
+
+**11** But I am full of the wrath of Yahweh; I am weary of holding it in. Pour it out on the children in the street, and on the young men gathered together. For husband and wife alike will be caught, the old and those full of years.
+
+**12** Their houses will be turned over to others, their fields and their wives together, for I will stretch out my hand against those who live in the land, declares Yahweh.
+
+**13** For from the least of them to the greatest, every one is greedy for unjust gain; from prophet to priest, every one deals falsely.
+
+**14** They have treated the wound[^6-10] of my people as though it were nothing, saying, "Peace, peace,"[^6-11] when there is no peace.
+
+**15** They acted shamefully, for they did detestable things,[^6-12] yet they were not at all ashamed; they did not even know how to blush. So they will fall among those who fall; when I punish them, they will stumble, says Yahweh.
+
+**16** This is what Yahweh says: Stand by the roads and look, and ask for the ancient paths, where the good way is, and walk in it, and you will find rest for yourselves.[^6-13] But they said, "We will not walk in it."
+
+**17** I appointed watchmen over you: "Listen to the sound of the ram's horn!" But they said, "We will not listen."
+
+**18** Therefore hear, you nations, and know, you assembly,[^6-14] what will happen to them.
+
+**19** Hear, you earth: I am going to bring disaster on this people, the fruit of their own schemes, because they have not paid attention to my words, and they have rejected my instruction.[^6-15]
+
+**20** What use to me is frankincense that comes from Sheba, or sweet cane[^6-16] from a distant land? Your burnt offerings are not acceptable, and your sacrifices do not please me.
+
+**21** Therefore this is what Yahweh says: I am going to put obstacles before this people. Fathers and sons together will stumble over them; neighbor and friend will perish.
+
+**22** This is what Yahweh says: Look, a people is coming from the land of the north; a great nation is being stirred up from the farthest parts of the earth.
+
+**23** They grasp bow and javelin; they are cruel and show no mercy. Their sound is like the roaring sea; they ride on horses, drawn up like warriors for battle against you, daughter Zion.
+
+**24** We have heard the report of them; our hands hang limp. Anguish has gripped us, pain like that of a woman in labor.
+
+**25** Do not go out into the field or walk on the road, for the enemy has a sword. Terror is on every side.[^6-17]
+
+**26** My dear people,[^6-18] put on sackcloth and roll in ashes. Mourn as for an only son, with bitter wailing, for suddenly the destroyer will come upon us.
+
+**27** I have made you a tester of metals among my people, a fortress,[^6-19] so that you may know and test their ways.
+
+**28** They are all the most stubborn of rebels, going about with slander. They are bronze and iron; all of them act corruptly.
+
+**29** The bellows blow fiercely; the lead is consumed by the fire.[^6-20] The refining goes on in vain; the wicked are not drawn off.
+
+**30** They are called rejected silver, for Yahweh has rejected them.
+
+[^6-1]: A wordplay: *bi-teqoa tiq'u*, "in Tekoa blow". Tekoa was a town about 10 miles (16 km) south of Jerusalem, the home of Amos (Amos 1:1).
+[^6-2]: A town near Jerusalem, probably to the south. The name means "house of the vineyard".
+[^6-3]: A poetic name for Jerusalem and its people, pictured as a young woman. Also in verse 23.
+[^6-4]: Or "I will silence". The Hebrew can also be read "I have compared Daughter Zion to a lovely meadow", which would lead into the picture of shepherds in verse 3.
+[^6-5]: Literally "Consecrate war against her", from the religious rites that opened a campaign. The enemy is speaking in verses 4–5.
+[^6-6]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles. *Yahweh of Armies* (Hebrew *YHWH tseva'ot*) is traditionally "the LORD of hosts" or "the LORD Almighty". *Tseva'ot* means armies: the heavenly hosts and the armies of Israel. Also in verse 9.
+[^6-7]: The Hebrew is difficult. Literally "She is the city; it has been punished".
+[^6-8]: Literally "or my soul will be wrenched from you".
+[^6-9]: That is, closed, unable to hear.
+[^6-10]: Hebrew *shever*, "breaking, fracture".
+[^6-11]: Hebrew *shalom*, "peace, well-being": "All is well".
+[^6-12]: Or "Were they ashamed when they did detestable things?"
+[^6-13]: Hebrew *nephesh*, "soul, self". Literally "for your souls".
+[^6-14]: Hebrew *edah*, a gathered community. The meaning of the line is uncertain.
+[^6-15]: Hebrew *torah*, "instruction, law".
+[^6-16]: An aromatic reed used in incense and anointing oil (Exodus 30:23).
+[^6-17]: Hebrew *magor missaviv*, a phrase Jeremiah uses often (20:3, 10; 46:5; 49:29).
+[^6-18]: Literally "Daughter of my people", a tender, poetic name for the nation.
+[^6-19]: Hebrew *mivtsar* usually means "fortress" (compare 1:18). Some scholars connect it here with *betser*, "ore". Jeremiah is to test the people as metal is tested.
+[^6-20]: The Hebrew text is written as one word, perhaps "from their fire", but read as two, "by the fire is consumed". In refining silver, lead was added to carry away the impurities. Here the lead burns away, but the impurities remain.
+
+## Chapter 7
+
+*Status: draft*
+
+**1** The word that came to Jeremiah from Yahweh:[^7-1]
+
+**2** Stand in the gate of Yahweh's house and proclaim this word there. Say: Hear the word of Yahweh, all you people of Judah who come in through these gates to worship Yahweh.[^7-2]
+
+**3** This is what Yahweh of Armies,[^7-3] the God of Israel, says: Make your ways and your deeds good, and I will let you live in this place.[^7-4]
+
+**4** Do not trust in deceptive words: "This is the temple of Yahweh, the temple of Yahweh, the temple of Yahweh!"[^7-5]
+
+**5** For if you truly make your ways and your deeds good, if you truly do justice between one person and another,
+
+**6** if you do not oppress the foreigner, the fatherless and the widow, and do not shed innocent blood in this place, and do not follow other gods to your own harm,
+
+**7** then I will let you live in this place, in the land I gave your ancestors, for all time.[^7-6]
+
+**8** But look, you are trusting in deceptive words that are worthless.
+
+**9** Will you steal, murder, commit adultery, swear falsely, burn incense[^7-7] to Baal and follow other gods you have not known,
+
+**10** and then come and stand before me in this house, which bears my name,[^7-8] and say, "We are safe!", only to go on doing all these detestable things?
+
+**11** Has this house, which bears my name, become a den of robbers in your eyes?[^7-9] But I, look, I have seen it, declares Yahweh.
+
+**12** Go now to my place that was in Shiloh, where I first made my name dwell, and see what I did to it because of the wickedness of my people Israel.[^7-10]
+
+**13** And now, because you have done all these things, declares Yahweh, and though I spoke to you again and again,[^7-11] you did not listen, and when I called you, you did not answer,
+
+**14** I will do to the house that bears my name, the house you trust in, the place I gave to you and your ancestors, just what I did to Shiloh.
+
+**15** I will throw you out of my sight, just as I threw out all your relatives, all the descendants of Ephraim.[^7-12]
+
+**16** As for you, do not pray for this people. Do not raise a cry or a prayer for them, and do not plead with me, for I will not listen to you.
+
+**17** Do you not see what they are doing in the cities of Judah and in the streets of Jerusalem?
+
+**18** The children gather wood, the fathers light the fire, and the women knead dough to make cakes for the Queen of Heaven.[^7-13] They pour out drink offerings to other gods to provoke me to anger.
+
+**19** But is it I they are provoking? declares Yahweh. Is it not themselves, to their own shame?[^7-14]
+
+**20** Therefore this is what the Lord Yahweh[^7-15] says: My anger and my wrath will be poured out on this place, on human beings and animals, on the trees of the field and the produce of the ground. It will burn and not be put out.
+
+**21** This is what Yahweh of Armies, the God of Israel, says: Add your burnt offerings to your sacrifices, and eat the meat yourselves![^7-16]
+
+**22** For when I brought your ancestors out of the land of Egypt, I did not speak to them or command them about burnt offerings and sacrifices.
+
+**23** But this is what I commanded them: "Listen to my voice, and I will be your God, and you will be my people. Walk in all the way that I command you, so that it may go well with you."
+
+**24** But they did not listen or pay attention.[^7-17] They followed their own plans, in the stubbornness of their evil hearts. They went backward and not forward.
+
+**25** From the day your ancestors came out of the land of Egypt until this day, I have sent you all my servants the prophets, sending them again and again, day after day.
+
+**26** But they did not listen to me or pay attention. They stiffened their necks;[^7-18] they did more evil than their ancestors.
+
+**27** When you tell them all these things, they will not listen to you. When you call to them, they will not answer you.
+
+**28** So say to them: This is the nation that has not listened to the voice of Yahweh its God and has not accepted discipline. Truth[^7-19] has perished; it has been cut off from their mouths.
+
+**29** Cut off your hair[^7-20] and throw it away; raise a lament on the bare heights, for Yahweh has rejected and abandoned the generation that has roused his fury.
+
+**30** For the people of Judah have done what is evil in my eyes, declares Yahweh. They have set up their detestable idols in the house that bears my name, and defiled it.
+
+**31** They have built the high places[^7-21] of Topheth in the Valley of Ben-hinnom,[^7-22] to burn their sons and their daughters in the fire, something I did not command, nor did it ever enter my mind.
+
+**32** Therefore, look, the days are coming, declares Yahweh, when it will no longer be called Topheth or the Valley of Ben-hinnom, but the Valley of Slaughter. They will bury the dead in Topheth until there is no room left.[^7-23]
+
+**33** The corpses of this people will be food for the birds of the sky and the animals of the earth, with no one to frighten them away.
+
+**34** I will put an end to the sound of joy and the sound of gladness, the voice of the bridegroom and the voice of the bride, in the cities of Judah and the streets of Jerusalem, for the land will become a ruin.
+
+[^7-1]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles. "Yahweh's house" and "this house" in this chapter are the temple. Chapter 26 tells what happened when Jeremiah gave this message.
+[^7-2]: The message Jeremiah is to proclaim runs to verse 15, and verses 16–34 continue Yahweh's words to him.
+[^7-3]: *Yahweh of Armies* (Hebrew *YHWH tseva'ot*) is traditionally "the LORD of hosts" or "the LORD Almighty". *Tseva'ot* means armies: the heavenly hosts and the armies of Israel. Also in verse 21.
+[^7-4]: The same consonants can be read "and I will live with you in this place". Also in verse 7.
+[^7-5]: Literally "the temple of Yahweh, the temple of Yahweh, the temple of Yahweh are these". The words are a slogan: Yahweh would never let his own temple fall.
+[^7-6]: Literally "from long ago and to forever".
+[^7-7]: Or "burn offerings". The Hebrew verb *qatar* means to make something go up in smoke.
+[^7-8]: Literally "over which my name is called", that is, which belongs to me. Also in verses 11, 14 and 30.
+[^7-9]: Jesus quotes this line in Mark 11:17.
+[^7-10]: The tabernacle stood at Shiloh in the time of Eli (1 Samuel 1–4). The town seems to have been destroyed after the Philistines captured the ark (Psalm 78:60).
+[^7-11]: Literally "rising early and speaking", a phrase Jeremiah uses often for Yahweh's persistent warnings. Also in verse 25.
+[^7-12]: That is, the people of the northern kingdom, taken into exile by Assyria (2 Kings 17:6, 18–23).
+[^7-13]: Probably the Mesopotamian goddess Ishtar, or the Canaanite Astarte, worshiped as a goddess of love and of the sky (44:17–19, 25).
+[^7-14]: Literally "to the shame of their faces".
+[^7-15]: Hebrew *Adonai YHWH*, "my Lord Yahweh".
+[^7-16]: A burnt offering was burned whole on the altar, while the meat of most other sacrifices was eaten by the worshipers. Yahweh scornfully tells them to eat it all.
+[^7-17]: Literally "did not incline their ear". Also in verse 26.
+[^7-18]: That is, they were stubborn, like an ox that will not bend its neck to the yoke.
+[^7-19]: Or "Faithfulness". Hebrew *emunah*.
+[^7-20]: Literally "Shear your crown". The word *nezer* is used of the uncut hair of a Nazirite, consecrated to God (Numbers 6:5–7). *Your* is feminine: Jerusalem is addressed.
+[^7-21]: Hebrew *bamot*: places of worship, often on hilltops.
+[^7-22]: Hebrew *tofet*, perhaps "fireplace, hearth", a place where children were burned as sacrifices (2 Kings 23:10). Ben-hinnom, "the Son of Hinnom", was a valley south and west of Jerusalem.
+[^7-23]: Or "because there will be no other place".
+
+## Chapter 8
+
+*Status: draft*
+
+**1** At that time, declares Yahweh,[^8-1] the bones of the kings of Judah, the bones of its officials, the bones of the priests, the bones of the prophets and the bones of the inhabitants of Jerusalem will be brought out of their graves.
+
+**2** They will be spread out before the sun and the moon and all the host of heaven,[^8-2] which they have loved and served, which they have followed, consulted and worshiped. They will not be gathered up or buried; they will be like dung on the surface of the ground.
+
+**3** Death will be chosen rather than life by all the remnant that is left of this evil family, in all the places where I have driven them,[^8-3] declares Yahweh of Armies.[^8-4]
+
+**4** Say to them: This is what Yahweh says: When people fall, do they not get up? When someone turns away, does he not turn back?[^8-5]
+
+**5** Why then has this people, Jerusalem, turned away in endless faithlessness? They hold fast to deceit; they refuse to turn back.
+
+**6** I have listened carefully, but they do not speak what is right. No one repents of his wickedness, saying, "What have I done?" Each of them turns to his own course, like a horse charging into battle.
+
+**7** Even the stork in the sky knows her seasons, and the dove, the swift[^8-6] and the thrush keep the time of their coming. But my people do not know what Yahweh requires.[^8-7]
+
+**8** How can you say, "We are wise, and the law of Yahweh is with us"? But look, the lying pen of the scribes has turned it into a lie.[^8-8]
+
+**9** The wise will be put to shame; they will be dismayed and caught. Look, they have rejected the word of Yahweh, so what wisdom do they have?
+
+**10** Therefore I will give their wives to others and their fields to new owners.[^8-9] For from the least to the greatest, every one is greedy for unjust gain; from prophet to priest, every one deals falsely.
+
+**11** They have treated the wound of my dear people[^8-10] as though it were nothing, saying, "Peace, peace," when there is no peace.
+
+**12** They acted shamefully, for they did detestable things, yet they were not at all ashamed; they did not know how to blush. So they will fall among those who fall; at the time of their punishment they will stumble, says Yahweh.
+
+**13** I will gather them and make an end of them,[^8-11] declares Yahweh. There will be no grapes on the vine, no figs on the fig tree, and even the leaves will wither. What I gave them will pass away from them.[^8-12]
+
+**14** "Why are we sitting here?[^8-13] Gather together! Let us go into the fortified cities and perish there. For Yahweh our God has doomed us to perish and given us poisoned water to drink, because we have sinned against Yahweh.
+
+**15** We hoped for peace, but no good has come; for a time of healing, but there is only terror."
+
+**16** From Dan the snorting of his horses is heard; at the sound of the neighing of his stallions the whole land quakes. They come and devour the land and everything in it, the city and those who live in it.
+
+**17** For I am sending snakes among you, vipers that no charm can stop, and they will bite you, declares Yahweh.
+
+**18** My joy is gone; grief has come upon me;[^8-14] my heart is sick within me.
+
+**19** Listen! The cry of my dear people from a land far and wide:[^8-15] "Is Yahweh not in Zion? Is her King not in her?" Why have they provoked me to anger with their carved images, with their worthless foreign idols?[^8-16]
+
+**20** "The harvest is past, the summer has ended, and we are not saved."
+
+**21** Because my dear people are broken, I am broken. I go about in mourning; horror has gripped me.
+
+**22** Is there no balm in Gilead?[^8-17] Is there no physician there? Why then has no new skin grown over the wound of my dear people?[^8-18]
+
+**23** Oh, that my head were water and my eyes a fountain of tears, so that I could weep day and night for the slain of my dear people![^8-19]
+
+[^8-1]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^8-2]: The sun, moon and stars, worshiped as gods (2 Kings 21:3–5; 23:4–5).
+[^8-3]: Literally "in all the remaining places where I have driven them".
+[^8-4]: *Yahweh of Armies* (Hebrew *YHWH tseva'ot*) is traditionally "the LORD of hosts" or "the LORD Almighty". *Tseva'ot* means armies: the heavenly hosts and the armies of Israel.
+[^8-5]: Verses 4–5 play on the verb *shuv*, "turn, return", which can mean both turning away from Yahweh and turning back to him (see 2:19; 3:12).
+[^8-6]: The Hebrew text is written *sus*, "horse", but read *sis*, "swift". The names of some of these birds are uncertain.
+[^8-7]: Hebrew *mishpat*, "justice, ruling". Literally "the justice of Yahweh".
+[^8-8]: Or "has worked for a lie". The scribes copied and taught the law, and Jeremiah says they have falsified it.
+[^8-9]: The Septuagint has only the first part of this verse. Verses 10b–12, which repeat 6:13–15 with small differences, are not in it.
+[^8-10]: Literally "the daughter of my people", a tender, poetic name for the nation. Also in verses 19, 21, 22 and 23.
+[^8-11]: The Hebrew is a wordplay. Literally "Gathering, I will make an end of them", combining *asaf*, "gather, harvest", and *suf*, "come to an end". The picture is a harvest that finds nothing.
+[^8-12]: The Hebrew of this line is obscure. Literally "and I gave to them, they pass over them".
+[^8-13]: The people speak in verses 14–15.
+[^8-14]: The Hebrew of this line is obscure. Literally "My brightening up, on me is grief". The prophet speaks in verses 18–23, quoting the people's cry and Yahweh's reply (verse 19).
+[^8-15]: Or "from a distant land", as if from exile.
+[^8-16]: Hebrew *hevel*, "vapor, breath": see 2:5. Literally "with the vapors of a foreign land".
+[^8-17]: Hebrew *tsori*, a healing resin for which Gilead, east of the Jordan, was famous (Genesis 37:25).
+[^8-18]: Literally "Why has the new flesh of the daughter of my people not come up?"
+[^8-19]: In most English Bibles this verse is 9:1, and the verses of chapter 9 are numbered one higher than in the Hebrew.
+
+## Chapter 9
+
+*Status: draft*
+
+**1** Oh, that I had in the wilderness a travelers' shelter,[^9-1] so that I could leave my people and go away from them! For they are all adulterers, a crowd of traitors.
+
+**2** They bend their tongues like bows to shoot lies.[^9-2] It is not by faithfulness that they have grown strong in the land, for they go from evil to evil, and they do not know me, declares Yahweh.[^9-3]
+
+**3** Let everyone be on guard against his neighbor, and do not trust any brother. For every brother is a cheat like Jacob,[^9-4] and every neighbor goes about slandering.
+
+**4** Each one deceives his neighbor, and no one speaks the truth. They have taught their tongues to speak lies; they wear themselves out doing wrong.
+
+**5** You live in the midst of deceit; in their deceit they refuse to know me, declares Yahweh.
+
+**6** Therefore this is what Yahweh of Armies[^9-5] says: I am going to refine them and test them, for what else can I do because of my dear people?[^9-6]
+
+**7** Their tongue is a sharpened arrow;[^9-7] it speaks deceit. With his mouth each one speaks peace to his neighbor, but in his heart he sets an ambush for him.
+
+**8** Should I not punish them for these things? declares Yahweh. Should I not avenge myself[^9-8] on a nation like this?
+
+**9** For the mountains I will take up weeping and wailing, and a lament for the pastures of the wilderness, because they are laid waste, with no one passing through, and the lowing of cattle is not heard. Both the birds of the sky and the animals have fled; they are gone.
+
+**10** I will make Jerusalem a heap of ruins, a haunt of jackals. I will make the cities of Judah a desolation, with no one living there.
+
+**11** Who is wise enough to understand this? To whom has the mouth of Yahweh spoken, so that he can explain it? Why has the land perished and been laid waste like a wilderness, with no one passing through?
+
+**12** Yahweh said: Because they have abandoned my instruction,[^9-9] which I set before them, and have not listened to my voice or walked by it,
+
+**13** but have followed the stubbornness of their hearts and gone after the Baals, as their ancestors taught them,
+
+**14** therefore this is what Yahweh of Armies, the God of Israel, says: I am going to feed this people with wormwood[^9-10] and give them poisoned water to drink.
+
+**15** I will scatter them among nations that neither they nor their ancestors have known, and I will send the sword after them until I have made an end of them.
+
+**16** This is what Yahweh of Armies says: Consider, and call for the mourning women to come; send for the most skilled of them[^9-11] to come.
+
+**17** Let them hurry and raise a lament over us, so that our eyes may run with tears and our eyelids flow with water.
+
+**18** For a sound of wailing is heard from Zion: "How we are ruined! We are utterly put to shame, for we have left the land, because they have torn down our homes."[^9-12]
+
+**19** Now hear the word of Yahweh, you women; let your ears receive the word of his mouth. Teach your daughters a lament, and each woman her neighbor a funeral song.
+
+**20** For death has climbed in through our windows; it has entered our fortresses, to cut off the children from the streets and the young men from the squares.
+
+**21** Speak:[^9-13] This is what Yahweh declares: Human corpses will fall like dung on the open field, like sheaves behind the reaper, with no one to gather them.
+
+**22** This is what Yahweh says: Let not the wise boast of their wisdom, or the strong boast of their strength, or the rich boast of their riches.
+
+**23** But let the one who boasts boast of this: that he understands and knows me, that I am Yahweh, who acts with faithful love,[^9-14] justice and righteousness on the earth, for in these I delight, declares Yahweh.[^9-15]
+
+**24** Look, the days are coming, declares Yahweh, when I will punish all who are circumcised only in the flesh:[^9-16]
+
+**25** Egypt, Judah, Edom, the Ammonites, Moab, and all who clip the hair on their temples[^9-17] and live in the desert. For all the nations are uncircumcised, and the whole house of Israel is uncircumcised in heart.[^9-18]
+
+[^9-1]: Verses 1–25 are 9:2–26 in most English Bibles (see 8:23). Literally "a lodging place of travelers".
+[^9-2]: Literally "They bend their tongue, their bow, falsehood".
+[^9-3]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^9-4]: A wordplay. Hebrew *aqov ya'qov*, "cheats as a cheat", plays on the name Jacob, *Ya'aqov* (Genesis 27:36).
+[^9-5]: *Yahweh of Armies* (Hebrew *YHWH tseva'ot*) is traditionally "the LORD of hosts" or "the LORD Almighty". *Tseva'ot* means armies: the heavenly hosts and the armies of Israel. Also in verses 14 and 16.
+[^9-6]: Literally "because of the daughter of my people", a tender, poetic name for the nation.
+[^9-7]: The Hebrew text is written "a slaughtering arrow" but read "a sharpened arrow".
+[^9-8]: Literally "Should my soul not avenge itself".
+[^9-9]: Hebrew *torah*, "instruction, law".
+[^9-10]: Hebrew *la'anah*, a plant with a very bitter taste.
+[^9-11]: Literally "the wise women", the women skilled in singing laments for the dead.
+[^9-12]: Or "because our homes have cast us out".
+[^9-13]: The Hebrew word *dabber*, "Speak", is unexpected here.
+[^9-14]: Hebrew *chesed*: loyal, faithful love.
+[^9-15]: Paul draws on this verse in 1 Corinthians 1:31 and 2 Corinthians 10:17.
+[^9-16]: Literally "all circumcised in foreskin".
+[^9-17]: Literally "all who are cut at the corners", probably desert tribes who cut their hair short at the sides (25:23; 49:32; compare Leviticus 19:27).
+[^9-18]: Several of the peoples named practiced circumcision. The point seems to be that the outward rite counts for nothing without a changed heart (4:4).
+
+## Chapter 10
+
+*Status: draft*
+
+**1** Hear the word that Yahweh[^10-1] speaks to you, house of Israel.
+
+**2** This is what Yahweh says: Do not learn the way of the nations, and do not be terrified by the signs in the heavens, though the nations are terrified by them.
+
+**3** For the customs[^10-2] of the peoples are worthless.[^10-3] A tree is cut from the forest and shaped with a chisel by a craftsman's hands.
+
+**4** They adorn it with silver and gold; they fasten it with nails and hammers so that it will not totter.
+
+**5** Like a scarecrow in a cucumber field,[^10-4] they cannot speak. They have to be carried, because they cannot walk. Do not be afraid of them, for they can do no harm, and they cannot do any good either.[^10-5]
+
+**6** There is no one like you, Yahweh. You are great, and your name is great in might.
+
+**7** Who would not fear you, King of the nations? It is your due. For among all the wise of the nations and in all their kingdoms there is no one like you.
+
+**8** They are all stupid and foolish alike; the teaching of worthless idols[^10-6] is only wood!
+
+**9** Hammered silver is brought from Tarshish,[^10-7] and gold from Uphaz,[^10-8] the work of a craftsman and of a goldsmith's hands. Their clothing is violet and purple;[^10-9] they are all the work of skilled workers.
+
+**10** But Yahweh is the true God; he is the living God and the everlasting King. At his wrath the earth quakes, and the nations cannot endure his fury.
+
+**11** This is what you are to say to them:[^10-10] The gods who did not make the heavens and the earth will perish from the earth and from under these heavens.
+
+**12** He made the earth by his power; he established the world by his wisdom, and by his understanding he stretched out the heavens.[^10-11]
+
+**13** When he thunders,[^10-12] there is a roar of waters in the heavens; he makes the clouds rise from the ends of the earth. He makes lightning for the rain, and brings out the wind from his storehouses.
+
+**14** Every human being is stupid and without knowledge; every goldsmith is put to shame by his idol. For his cast images are a lie; there is no breath[^10-13] in them.
+
+**15** They are worthless, a work of mockery. At the time of their punishment they will perish.
+
+**16** The Portion of Jacob[^10-14] is not like these, for he is the maker of all things, and Israel is the tribe of his inheritance. Yahweh of Armies[^10-15] is his name.
+
+**17** Gather up your bundle from the ground,[^10-16] you who live under siege!
+
+**18** For this is what Yahweh says: This time I am going to sling out the inhabitants of the land. I will bring distress on them, so that they will feel it.[^10-17]
+
+**19** Woe is me because of my injury! My wound is incurable. But I said, "Surely this is my sickness, and I must bear it."[^10-18]
+
+**20** My tent is destroyed, and all my tent ropes are snapped. My children have gone from me and are no more. There is no one left to pitch my tent again or to set up my tent curtains.
+
+**21** For the shepherds are stupid; they have not sought Yahweh. So they have not prospered,[^10-19] and all their flock is scattered.
+
+**22** Listen! A report is coming, a great commotion from the land of the north, to make the cities of Judah a desolation, a haunt of jackals.
+
+**23** I know, Yahweh, that a human being's way is not in his own control;[^10-20] it is not for anyone who walks to direct his own steps.
+
+**24** Correct me, Yahweh, but only with justice, not in your anger, or you will reduce me to nothing.
+
+**25** Pour out your wrath on the nations that do not know you, and on the clans that do not call on your name. For they have devoured Jacob; they have devoured him and consumed him, and laid waste his homeland.[^10-21]
+
+[^10-1]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^10-2]: Hebrew *chuqqot*, "decrees, customs".
+[^10-3]: Hebrew *hevel*, "breath, vapor": see 2:5. Also in verses 8 and 15.
+[^10-4]: Hebrew *tomer miqshah*, perhaps "a palm post in a cucumber field". Compare the Letter of Jeremiah, verse 70 (Baruch 6:70), which uses the same picture.
+[^10-5]: The Septuagint does not have verses 6–8 and 10, and it places verse 9 within verse 5. A Hebrew manuscript of Jeremiah from Qumran (4QJer-b) has the same shorter text.
+[^10-6]: Literally "the instruction of vapors".
+[^10-7]: A distant land rich in metals, probably in the far west of the Mediterranean.
+[^10-8]: An unknown place, perhaps Ophir, the land of gold (1 Kings 9:28).
+[^10-9]: Hebrew *tekhelet* and *argaman*, costly dyed wool, violet-blue and red-purple.
+[^10-10]: This verse is in Aramaic, the international language of the time, not in Hebrew; Hebrew resumes in verse 12. It is the only Aramaic in Jeremiah. It contains a wordplay: the gods who did not *avadu*, "make", the heavens will *ye'vadu*, "perish".
+[^10-11]: Verses 12–16 are repeated in 51:15–19.
+[^10-12]: Literally "At the sound of his giving".
+[^10-13]: Hebrew *ruach*, "breath, spirit".
+[^10-14]: A title of God (51:19; Psalm 16:5): the one who belongs to Jacob as his share, as the land belongs to the other tribes.
+[^10-15]: *Yahweh of Armies* (Hebrew *YHWH tseva'ot*) is traditionally "the LORD of hosts" or "the LORD Almighty". *Tseva'ot* means armies: the heavenly hosts and the armies of Israel.
+[^10-16]: Or "from the land". The meaning of the Hebrew word *kin'ah*, "bundle", is uncertain. Jerusalem, pictured as a woman, is told to get ready for exile.
+[^10-17]: The Hebrew is difficult. Literally "so that they may find".
+[^10-18]: Jerusalem, pictured as a mother, speaks in verses 19–20.
+[^10-19]: Or "they have not acted wisely". The Hebrew verb can mean either.
+[^10-20]: Literally "is not to him", that is, it does not belong to him to decide.
+[^10-21]: Verse 25 is nearly the same as Psalm 79:6–7.

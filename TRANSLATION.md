@@ -120,6 +120,8 @@ from the Hebrew.
   subject or object has to be supplied, use the one the context gives and keep it minimal
   (Mark 10:6 says "he made them", with "God" in a note). Where a Hebrew clause has no verb and
   English needs one (Nehemiah 3:25), supply the plainest verb the context implies and note it.
+  This is for narrative and lists. The ordinary Hebrew clause without a verb ("Yahweh my
+  shepherd") simply takes "is" or "are" in English, with no note.
 - Narrative is in the past tense, including Greek and Hebrew historic presents. Mark's εὐθύς is
   "at once" or "immediately", not always "and immediately".
 - American spelling: "honor", "neighbor", "forever", "worshiped", "judgment".
@@ -190,7 +192,8 @@ from the Hebrew.
 - Conjectural emendations (changes to the Hebrew proposed by scholars, with no manuscript
   behind them) may be given only where the Hebrew is very difficult, and always worded so they
   can't be mistaken for manuscript evidence: "Some scholars read *gal*, 'a heap', with a small
-  change to the Hebrew." A ketiv that differs only in person or number, with no change to the
+  change to the Hebrew." A reading that keeps the consonants and changes only the vowels is
+  given as "The same consonants can be read …". A ketiv that differs only in person or number, with no change to the
   English, is not noted.
 - A ketiv/qere that changes the form of a name (Janim/Janum) is noted; one that only changes
   word order is noted only if the English would differ. Where the Septuagint arranges a whole

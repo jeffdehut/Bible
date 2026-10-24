@@ -260,7 +260,7 @@
 [^3-19]: The Hebrew text is written "to your neighbors" but read "to your neighbor".
 [^3-20]: Hebrew *to'evah*, something loathsome, traditionally "an abomination". The phrase "detestable to Yahweh" is frequent in Proverbs.
 [^3-21]: Hebrew *letsim*, as in 1:22: those who scorn wisdom and laugh at correction. The verb translated *mocks* is from the same root.
-[^3-22]: The Hebrew text is written "to the afflicted" but read "to the humble". James 4:6 and 1 Peter 5:5 quote this verse from the Septuagint: "God opposes the proud, but gives grace to the humble."
+[^3-22]: The Hebrew text is written "to the poor" but read "to the humble". James 4:6 and 1 Peter 5:5 quote this verse from the Septuagint: "God opposes the proud, but gives grace to the humble."
 [^3-23]: Hebrew *kesilim*, plural of *kesil* (see 1:22).
 [^3-24]: Literally "but fools lift up disgrace". The sense may be that disgrace is the only honor fools receive.
 
@@ -568,7 +568,7 @@
 [^7-14]: Hebrew *kese*, probably the day of the full moon (Psalm 81:4; 81:3 in most English Bibles).
 [^7-15]: Hebrew *leqach*, the word translated "learning" in 1:5, here her persuasive teaching.
 [^7-16]: Hebrew *ewil* (see 1:7).
-[^7-17]: The Hebrew of this line is obscure. Literally "and like an anklet to the discipline of a fool". Some scholars, changing the text slightly, read "like a stag that leaps into a noose".
+[^7-17]: The Hebrew of this line is obscure. Literally "and like an anklet to the discipline of a fool". Some scholars read "like a stag that leaps into a noose", with a small change to the Hebrew.
 [^7-18]: Hebrew *Sheol*, the realm of the dead.
 
 ## Chapter 8
@@ -730,3 +730,531 @@
 [^9-15]: Literally "A woman of folly". Hebrew *kesilut*, from the same root as *kesil*, "fool" (see 1:22). She is pictured as the opposite of Wisdom in verses 1–6.
 [^9-16]: Hebrew *rephaim*, the spirits of the dead (see 2:18).
 [^9-17]: Hebrew *Sheol*, the realm of the dead.
+
+## Chapter 10
+
+*Status: draft*
+
+**1** The proverbs of Solomon.[^10-1] A wise son makes a father glad, but a foolish[^10-2] son is his mother's grief.
+
+**2** Treasures gained by wickedness are of no use, but righteousness rescues from death.
+
+**3** Yahweh[^10-3] will not let the righteous[^10-4] go hungry, but he thrusts away the craving[^10-5] of the wicked.[^10-6]
+
+**4** A slack hand makes a person poor, but the hand of the diligent brings wealth.
+
+**5** A son who gathers in summer is sensible;[^10-7] a son who sleeps at harvest brings shame.
+
+**6** Blessings are on the head of the righteous, but the mouth of the wicked conceals violence.[^10-8]
+
+**7** The memory of the righteous is a blessing, but the name of the wicked will rot.
+
+**8** The wise in heart accept commands, but a chattering fool[^10-9] will be ruined.
+
+**9** Whoever walks in integrity walks securely, but whoever makes his ways crooked will be found out.
+
+**10** Whoever winks with the eye causes trouble, and a chattering fool will be ruined.[^10-10]
+
+**11** The mouth of the righteous is a fountain of life, but the mouth of the wicked conceals violence.
+
+**12** Hatred stirs up quarrels, but love covers all offenses.[^10-11]
+
+**13** Wisdom is found on the lips of the discerning,[^10-12] but a rod is for the back of one who lacks sense.[^10-13]
+
+**14** The wise store up knowledge, but the mouth of a fool brings ruin near.
+
+**15** The wealth of the rich is their strong city; the ruin of the poor is their poverty.
+
+**16** The wages of the righteous lead to life; the income of the wicked leads to sin.[^10-14]
+
+**17** Whoever heeds discipline[^10-15] is on the path to life, but whoever rejects correction leads others astray.[^10-16]
+
+**18** Whoever hides hatred has lying lips, and whoever spreads slander is a fool.
+
+**19** When words are many, wrongdoing is not lacking, but whoever restrains his lips is sensible.
+
+**20** The tongue of the righteous is choice silver; the heart of the wicked is worth little.
+
+**21** The lips of the righteous feed many, but fools die for lack of sense.
+
+**22** The blessing of Yahweh makes rich, and he adds no sorrow to it.[^10-17]
+
+**23** To a fool, doing wrong is like play, and so is wisdom to a person of insight.[^10-18]
+
+**24** What the wicked dreads will come upon him, but what the righteous desire will be granted.
+
+**25** When the storm has passed, the wicked are gone, but the righteous are a lasting foundation.
+
+**26** Like vinegar to the teeth and smoke to the eyes, so is the lazy person[^10-19] to those who send him.
+
+**27** The fear of Yahweh adds days, but the years of the wicked will be cut short.
+
+**28** The hope of the righteous ends in joy, but the expectation of the wicked will perish.
+
+**29** The way of Yahweh is a stronghold for the blameless, but ruin for those who do evil.
+
+**30** The righteous will never be shaken, but the wicked will not remain in the land.
+
+**31** The mouth of the righteous yields wisdom, but a perverse tongue will be cut off.
+
+**32** The lips of the righteous know what is pleasing, but the mouth of the wicked knows what is perverse.
+
+[^10-1]: A new collection begins here (10:1–22:16), made up mostly of two-line sayings, often contrasting the wise and the foolish, the righteous and the wicked.
+[^10-2]: Hebrew *kesil*, the most common word for "fool" in Proverbs: someone dull and self-satisfied who does not want to learn (see 1:22). Also in verses 18 and 23.
+[^10-3]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^10-4]: Hebrew *tsaddiq*: a righteous person, one who does what is right toward God and other people (see 2:20).
+[^10-5]: Hebrew *havvah*, "craving", a word that can also mean "destruction" (Psalm 52:4; 52:2 in most English Bibles).
+[^10-6]: Hebrew *resha'im*, plural of *rasha*: wicked people, those who are guilty of wrong (see 2:22).
+[^10-7]: Hebrew *maskil*, from the same root as *sekhel*, "good sense": one who acts with good sense. Also in verse 19.
+[^10-8]: Or "but violence covers the mouth of the wicked". Also in verse 11.
+[^10-9]: Literally "a fool of lips". Hebrew *ewil*, the morally perverse, stubborn fool (see 1:7). Also in verses 10, 14 and 21.
+[^10-10]: The second line repeats the second line of verse 8. The Septuagint reads "but whoever rebukes openly makes peace".
+[^10-11]: Compare 1 Peter 4:8 and James 5:20.
+[^10-12]: Hebrew *navon*, from the same root as *binah*, "understanding".
+[^10-13]: Literally "lacks heart". In Hebrew thought the heart is the seat of understanding. Also in verse 21.
+[^10-14]: Or "to punishment". Hebrew *chatta't*, "sin", which can also mean its penalty.
+[^10-15]: Hebrew *musar*: discipline, training and correction (see 1:2).
+[^10-16]: Or "goes astray".
+[^10-17]: Or "and toil adds nothing to it".
+[^10-18]: Literally "Like laughter to a fool is doing wickedness, and wisdom to a man of insight (*tevunah*)". That is, a person of insight delights in wisdom as a fool delights in wrongdoing.
+[^10-19]: Hebrew *atsel*, traditionally "sluggard" (see 6:6).
+
+## Chapter 11
+
+*Status: draft*
+
+**1** Dishonest scales are detestable[^11-1] to Yahweh,[^11-2] but an accurate weight[^11-3] is his delight.
+
+**2** When pride comes, disgrace comes too, but with the humble is wisdom.
+
+**3** The integrity of the upright guides them, but the crookedness of the treacherous destroys them.
+
+**4** Wealth is of no use on the day of wrath, but righteousness rescues from death.
+
+**5** The righteousness of the blameless makes their way straight, but the wicked[^11-4] fall by their own wickedness.
+
+**6** The righteousness of the upright rescues them, but the treacherous are caught by their own craving.[^11-5]
+
+**7** When a wicked person dies, his hope perishes, and the expectation placed in wealth perishes too.[^11-6]
+
+**8** The righteous[^11-7] person is rescued from trouble, and the wicked comes in his place.
+
+**9** With his mouth the godless destroys his neighbor, but by knowledge the righteous are rescued.
+
+**10** When the righteous prosper, the city rejoices, and when the wicked perish, there are shouts of joy.
+
+**11** By the blessing of the upright a city is raised up, but by the mouth of the wicked it is torn down.
+
+**12** Whoever belittles his neighbor lacks sense,[^11-8] but a person of insight[^11-9] keeps silent.
+
+**13** A gossip goes around revealing secrets, but one who is trustworthy in spirit keeps a matter hidden.
+
+**14** Without guidance[^11-10] a people falls, but with many advisers there is victory.
+
+**15** Whoever puts up security for a stranger will surely suffer for it, but whoever hates shaking hands on a pledge is safe.[^11-11]
+
+**16** A gracious woman takes hold of honor, and ruthless men take hold of wealth.[^11-12]
+
+**17** A kind man[^11-13] benefits himself, but a cruel man brings trouble on his own body.
+
+**18** The wicked earns deceptive wages, but whoever sows righteousness reaps a true reward.
+
+**19** Truly righteousness leads to life,[^11-14] but whoever pursues evil goes to his death.
+
+**20** People with crooked hearts are detestable to Yahweh, but those whose way is blameless are his delight.
+
+**21** You can be sure[^11-15] the evil person will not go unpunished, but the descendants of the righteous will escape.
+
+**22** Like a gold ring in a pig's snout is a beautiful woman who lacks good judgment.[^11-16]
+
+**23** The desire of the righteous ends only in good; the hope of the wicked, in wrath.
+
+**24** One person gives freely and yet grows richer; another holds back more than is right and only comes to need.
+
+**25** A generous person[^11-17] will grow fat, and whoever gives water will himself be watered.
+
+**26** People curse whoever holds back grain, but blessing is on the head of the one who sells it.
+
+**27** Whoever eagerly seeks good is seeking favor, but evil comes to the one who looks for it.
+
+**28** Whoever trusts in his riches will fall, but the righteous will flourish like a green leaf.
+
+**29** Whoever brings trouble on his household will inherit the wind, and the fool[^11-18] will be servant to the wise of heart.
+
+**30** The fruit of the righteous is a tree of life, and whoever wins people over is wise.[^11-19]
+
+**31** If the righteous are repaid on earth, how much more the wicked and the sinner![^11-20]
+
+[^11-1]: Hebrew *to'evah*, something loathsome, traditionally "an abomination" (see 3:32). Also in verse 20.
+[^11-2]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^11-3]: Literally "a full stone", a weight used with scales.
+[^11-4]: Hebrew *rasha*: a wicked person, one who is guilty of wrong (see 2:22).
+[^11-5]: Or "by their own destructive schemes". Hebrew *havvah*, as in 10:3.
+[^11-6]: Hebrew *onim*, probably "strength, wealth". Or "and the hope of the wicked perishes", taking *onim* from *aven*, "iniquity".
+[^11-7]: Hebrew *tsaddiq*: a righteous person, one who does what is right (see 2:20).
+[^11-8]: Literally "lacks heart". In Hebrew thought the heart is the seat of understanding.
+[^11-9]: Literally "a man of insights". Hebrew *tevunot*, plural of *tevunah* (see 2:2).
+[^11-10]: Hebrew *tachbulot*, as in 1:5.
+[^11-11]: See 6:1–5. *Shaking hands* is literally "those who strike", that is, strike hands to seal a pledge.
+[^11-12]: The Septuagint has four lines: "A gracious wife brings glory to her husband, but a woman who hates righteousness is a throne of dishonor. The lazy come to lack wealth, but the courageous lean on wealth."
+[^11-13]: Hebrew *ish chesed*, "a man of faithful love".
+[^11-14]: Or "One who is steadfast in righteousness will live".
+[^11-15]: Literally "Hand to hand", perhaps the gesture of a pledge.
+[^11-16]: Hebrew *ta'am*, "taste", here discretion, good judgment.
+[^11-17]: Literally "A soul of blessing". Growing fat is a picture of prosperity.
+[^11-18]: Hebrew *ewil*, the morally perverse, stubborn fool (see 1:7).
+[^11-19]: Literally "and whoever takes lives (*nephashot*) is wise". Elsewhere the phrase means "take lives, kill" (1:19), but here it probably means winning people over. The Septuagint reads "but the lives of the lawless are taken away before their time".
+[^11-20]: 1 Peter 4:18 quotes this verse from the Septuagint: "If the righteous is scarcely saved, what will become of the ungodly and the sinner?"
+
+## Chapter 12
+
+*Status: draft*
+
+**1** Whoever loves discipline[^12-1] loves knowledge, but whoever hates correction is stupid.[^12-2]
+
+**2** A good person obtains favor from Yahweh,[^12-3] but he condemns a man who schemes.[^12-4]
+
+**3** No one is made secure by wickedness, but the root of the righteous[^12-5] will never be moved.
+
+**4** A capable wife[^12-6] is her husband's crown, but a wife who brings shame is like rot in his bones.
+
+**5** The plans of the righteous are just; the guidance[^12-7] of the wicked[^12-8] is deceit.
+
+**6** The words of the wicked are an ambush for blood, but the mouth of the upright rescues them.
+
+**7** The wicked are overthrown and are no more, but the house of the righteous will stand.
+
+**8** A man is praised according to his good sense,[^12-9] but one with a twisted heart will be despised.
+
+**9** Better to be lowly and have a servant[^12-10] than to act important and have no bread.
+
+**10** The righteous person cares about the life of his animal,[^12-11] but even the compassion of the wicked is cruel.
+
+**11** Whoever works his land will have plenty of bread, but whoever chases worthless things lacks sense.[^12-12]
+
+**12** The wicked covet the catch of evildoers, but the root of the righteous yields fruit.[^12-13]
+
+**13** By the sin of his lips an evil person is trapped,[^12-14] but the righteous escapes from trouble.
+
+**14** From the fruit of his mouth a person is filled with good, and the deeds of a person's hands are repaid to him.[^12-15]
+
+**15** The way of a fool[^12-16] is right in his own eyes, but whoever listens to advice is wise.
+
+**16** A fool shows his anger at once, but the prudent[^12-17] overlooks an insult.
+
+**17** Whoever speaks the truth[^12-18] tells what is right, but a false witness tells deceit.
+
+**18** Some people's rash words are like sword thrusts, but the tongue of the wise brings healing.
+
+**19** Truthful lips will endure forever, but a lying tongue lasts only a moment.
+
+**20** Deceit is in the heart of those who plot evil, but those who counsel peace have joy.
+
+**21** No harm will happen to the righteous, but the wicked are filled with trouble.
+
+**22** Lying lips are detestable to Yahweh, but those who act faithfully are his delight.
+
+**23** A prudent person conceals knowledge, but the heart of fools[^12-19] proclaims folly.[^12-20]
+
+**24** The hand of the diligent will rule, but the slack hand will be put to forced labor.
+
+**25** Anxiety in a person's heart weighs it down, but a good word makes it glad.
+
+**26** The righteous person guides his neighbor,[^12-21] but the way of the wicked leads them astray.
+
+**27** The lazy man does not roast his game, but diligence is a person's precious wealth.[^12-22]
+
+**28** In the path of righteousness is life, and in its way there is no death.[^12-23]
+
+[^12-1]: Hebrew *musar*: discipline, training and correction (see 1:2).
+[^12-2]: Hebrew *ba'ar*, "brutish", like an animal without understanding (also 30:2).
+[^12-3]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^12-4]: Literally "a man of schemes". Hebrew *mezimmot*, the word translated "discretion" in 1:4, here in a bad sense.
+[^12-5]: Hebrew *tsaddiqim*, plural of *tsaddiq*: one who does what is right (see 2:20).
+[^12-6]: Hebrew *eshet chayil*, "a woman of strength, of worth", as in 31:10 and Ruth 3:11.
+[^12-7]: Hebrew *tachbulot*, as in 1:5.
+[^12-8]: Hebrew *resha'im*, plural of *rasha*: one who is guilty of wrong (see 2:22).
+[^12-9]: Hebrew *sekhel*, "good sense, insight".
+[^12-10]: Or, with different vowels, "and work for oneself".
+[^12-11]: Literally "knows the soul (*nephesh*) of his animal", that is, cares about its needs.
+[^12-12]: Literally "lacks heart". In Hebrew thought the heart is the seat of understanding.
+[^12-13]: The Hebrew of this verse is difficult. Literally "The wicked desires the net (or prey) of evil men, and the root of the righteous gives".
+[^12-14]: Or "In the sin of the lips is an evil trap".
+[^12-15]: The Hebrew text is written "return to him" but read "repay him".
+[^12-16]: Hebrew *ewil*, the morally perverse, stubborn fool (see 1:7). Also in verse 16.
+[^12-17]: Hebrew *arum*, "shrewd, prudent" (see 1:4). Also in verse 23.
+[^12-18]: Literally "Whoever breathes out faithfulness" (compare 6:19).
+[^12-19]: Hebrew *kesilim*, plural of *kesil* (see 1:22).
+[^12-20]: Hebrew *iwwelet*, "folly", the word related to *ewil*, "fool" (see 1:7).
+[^12-21]: The Hebrew of this line is uncertain. Or "The righteous person is better off than his neighbor", or "The righteous person searches out a way for his friend".
+[^12-22]: The Hebrew of this verse is uncertain. Literally "Slackness does not roast its game, and the wealth of a person is precious, diligence". *Roast* may instead mean "catch". Or "but a diligent person gains precious wealth".
+[^12-23]: Literally "and the way of its path, no death". With different vowels, *al*, "no", becomes *el*, "to": "but another path leads to death". The Septuagint has "to death".
+
+## Chapter 13
+
+*Status: draft*
+
+**1** A wise son heeds his father's discipline,[^13-1] but a mocker[^13-2] does not listen to rebuke.
+
+**2** From the fruit of his mouth a person eats what is good, but the treacherous crave violence.[^13-3]
+
+**3** Whoever guards his mouth preserves his life; whoever opens his lips wide comes to ruin.
+
+**4** The lazy person[^13-4] craves and gets nothing, but the diligent are fully satisfied.[^13-5]
+
+**5** The righteous[^13-6] hate what is false, but the wicked[^13-7] bring shame and disgrace.[^13-8]
+
+**6** Righteousness guards the one whose way is blameless, but wickedness overthrows the sinner.[^13-9]
+
+**7** One pretends to be rich, yet has nothing; another pretends to be poor, yet has great wealth.
+
+**8** Wealth is the ransom for a person's life, but the poor hear no threat.
+
+**9** The light of the righteous shines brightly,[^13-10] but the lamp of the wicked will be snuffed out.
+
+**10** Pride brings only strife, but wisdom is with those who take advice.
+
+**11** Wealth gained from nothing[^13-11] dwindles, but whoever gathers little by little makes it grow.
+
+**12** Hope deferred makes the heart sick, but a desire fulfilled is a tree of life.
+
+**13** Whoever despises the word will pay for it,[^13-12] but whoever respects the command will be rewarded.
+
+**14** The instruction of the wise is a fountain of life, for turning away from the snares of death.
+
+**15** Good sense[^13-13] wins favor, but the way of the treacherous is hard.[^13-14]
+
+**16** Every prudent person[^13-15] acts with knowledge, but a fool[^13-16] spreads out his folly.[^13-17]
+
+**17** A wicked messenger falls into trouble, but a faithful envoy brings healing.
+
+**18** Poverty and disgrace come to whoever ignores discipline, but whoever heeds correction will be honored.
+
+**19** Desire fulfilled is sweet to the soul, but turning away from evil is detestable to fools.
+
+**20** Whoever walks with the wise becomes wise,[^13-18] but the companion of fools will suffer harm.[^13-19]
+
+**21** Trouble pursues sinners, but good rewards the righteous.
+
+**22** A good person leaves an inheritance to his grandchildren, but the sinner's wealth is stored up for the righteous.
+
+**23** The unplowed field of the poor yields much food, but it is swept away by injustice.[^13-20]
+
+**24** Whoever spares his rod hates his son, but whoever loves him is careful to discipline him.
+
+**25** The righteous eats until he is satisfied, but the stomach of the wicked goes hungry.
+
+[^13-1]: Literally "A wise son, a father's discipline". Hebrew *musar*: discipline, training and correction (see 1:2). Also in verses 18 and 24.
+[^13-2]: Hebrew *lets*: one who scorns wisdom and laughs at correction (see 1:22).
+[^13-3]: Literally "but the appetite (*nephesh*) of the treacherous, violence".
+[^13-4]: Hebrew *atsel*, traditionally "sluggard" (see 6:6).
+[^13-5]: Literally "the appetite (*nephesh*) of the diligent will be made fat".
+[^13-6]: Hebrew *tsaddiq*: one who does what is right (see 2:20).
+[^13-7]: Hebrew *rasha*: one who is guilty of wrong (see 2:22).
+[^13-8]: Or "make themselves a stench and a disgrace".
+[^13-9]: Literally "overthrows sin".
+[^13-10]: Literally "rejoices".
+[^13-11]: Literally "from a breath (*hevel*)", that is, gained without effort or by dishonest means. The Septuagint reads "Wealth gained in haste".
+[^13-12]: Or "will be held in pledge by it".
+[^13-13]: Hebrew *sekhel tov*, "good sense".
+[^13-14]: Hebrew *eitan*, usually "lasting, enduring"; here perhaps "hard, rough". The Septuagint reads "leads to ruin".
+[^13-15]: Hebrew *arum*, "shrewd, prudent" (see 1:4).
+[^13-16]: Hebrew *kesil* (see 1:22). Also in verses 19 and 20.
+[^13-17]: Hebrew *iwwelet*, "folly", the word related to *ewil*, "fool" (see 1:7).
+[^13-18]: The Hebrew text is written "Walk with the wise and become wise" but read "Whoever walks with the wise becomes wise".
+[^13-19]: In Hebrew there is a play on words: *ro'eh*, "companion", and *yero'a*, "will suffer harm".
+[^13-20]: The Hebrew of this verse is difficult. Literally "Much food, the fallow ground of the poor, but there is what is swept away without justice".
+
+## Chapter 14
+
+*Status: draft*
+
+**1** The wise woman builds her house,[^14-1] but folly[^14-2] tears it down with her own hands.
+
+**2** Whoever walks uprightly fears Yahweh,[^14-3] but whoever is devious in his ways despises him.
+
+**3** In the mouth of a fool[^14-4] is a rod for his pride,[^14-5] but the lips of the wise protect them.
+
+**4** Where there are no oxen, the manger is clean,[^14-6] but much produce comes by the strength of an ox.
+
+**5** A faithful witness does not lie, but a false witness breathes out lies.
+
+**6** A mocker[^14-7] seeks wisdom and finds none, but knowledge comes easily to the discerning.
+
+**7** Leave the presence of a fool,[^14-8] for you will not find words of knowledge on his lips.
+
+**8** The wisdom of the prudent[^14-9] is to understand his way, but the folly of fools is deceit.
+
+**9** Fools mock at making amends,[^14-10] but among the upright there is goodwill.
+
+**10** The heart knows its own bitterness, and no stranger shares in its joy.
+
+**11** The house of the wicked[^14-11] will be destroyed, but the tent of the upright will flourish.
+
+**12** There is a way that seems right to a person, but in the end it leads to death.[^14-12]
+
+**13** Even in laughter the heart may ache, and joy may end in grief.
+
+**14** The faithless in heart will have his fill of his own ways, and a good person of what is his.[^14-13]
+
+**15** The simple[^14-14] believe everything, but the prudent watch their steps.
+
+**16** The wise is cautious[^14-15] and turns away from evil, but a fool is reckless and overconfident.
+
+**17** A quick-tempered person does foolish things, and a man of schemes[^14-16] is hated.
+
+**18** The simple inherit folly, but the prudent are crowned with knowledge.
+
+**19** The evil bow down before the good, and the wicked at the gates of the righteous.[^14-17]
+
+**20** The poor are disliked even by their neighbors, but the rich have many friends.
+
+**21** Whoever despises his neighbor sins, but happy[^14-18] is the one who is kind to the humble.[^14-19]
+
+**22** Do not those who plot evil go astray? But faithful love and truth[^14-20] belong to those who plan good.
+
+**23** In all hard work there is profit, but mere talk leads only to poverty.
+
+**24** The crown of the wise is their wealth, but the folly of fools is folly.
+
+**25** A truthful witness saves lives, but one who breathes out lies is a deceiver.
+
+**26** In the fear of Yahweh there is strong confidence, and his children will have a refuge.
+
+**27** The fear of Yahweh is a fountain of life, for turning away from the snares of death.
+
+**28** In a multitude of people is a king's glory, but without people a ruler is ruined.
+
+**29** Whoever is slow to anger has great insight,[^14-21] but whoever is quick-tempered displays folly.
+
+**30** A calm heart gives life to the body,[^14-22] but envy rots the bones.
+
+**31** Whoever oppresses the poor insults his Maker, but whoever is kind to the needy honors him.
+
+**32** The wicked is thrown down by his own evil, but the righteous finds refuge even in his death.[^14-23]
+
+**33** Wisdom rests in the heart of the discerning, and even among fools she makes herself known.[^14-24]
+
+**34** Righteousness exalts a nation, but sin is a disgrace[^14-25] to any people.
+
+**35** A king delights in a servant who acts with good sense,[^14-26] but his wrath falls on one who acts shamefully.
+
+[^14-1]: Literally "The wise ones of women has built her house". With different vowels, "Wisdom (*chokhmot*, as in 9:1) has built her house", and the second line would then speak of Folly (compare 9:13).
+[^14-2]: Hebrew *iwwelet*, "folly", the word related to *ewil*, "fool" (see 1:7). Also in verses 8, 17, 18, 24 and 29.
+[^14-3]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^14-4]: Hebrew *ewil*, the morally perverse, stubborn fool (see 1:7). Also in verse 9.
+[^14-5]: Literally "a rod of pride". The word for *rod* can also mean "shoot, branch" (Isaiah 11:1): his proud words may bring a beating on him, or his mouth sprouts pride.
+[^14-6]: Or "the manger is empty of grain".
+[^14-7]: Hebrew *lets*: one who scorns wisdom and laughs at correction (see 1:22).
+[^14-8]: Hebrew *kesil* (see 1:22). Also in verses 8, 16, 24 and 33.
+[^14-9]: Hebrew *arum*, "shrewd, prudent" (see 1:4). Also in verses 15 and 18.
+[^14-10]: The Hebrew is difficult. Literally "Fools, he mocks guilt". Hebrew *asham* means "guilt", "making amends" or "guilt offering". Or "Guilt mocks fools".
+[^14-11]: Hebrew *resha'im*, plural of *rasha*: those who are guilty of wrong (see 2:22).
+[^14-12]: Literally "but its end is ways of death". The verse is repeated in 16:25.
+[^14-13]: Literally "and from upon him a good man". Some scholars read "from his deeds", with a small change to the Hebrew.
+[^14-14]: Hebrew *peti*: a naive, inexperienced person, easily led (see 1:4). Also in verse 18.
+[^14-15]: Literally "fears". Or "fears (Yahweh)".
+[^14-16]: Hebrew *mezimmot*, as in 12:2.
+[^14-17]: Hebrew *tsaddiq*: one who does what is right (see 2:20).
+[^14-18]: Hebrew *ashrei*: happy, fortunate; traditionally "blessed".
+[^14-19]: The Hebrew text is written "the poor" but read "the humble".
+[^14-20]: Hebrew *chesed ve-emet*: faithful love and reliability (see 3:3). Literally "faithful love and truth, those who plan good".
+[^14-21]: Hebrew *tevunah* (see 2:2).
+[^14-22]: Literally "A heart of healing (or calm) is the life of the flesh".
+[^14-23]: The Septuagint reads "in his integrity", reading *betummo* in place of *bemoto*, "in his death", a word with the same letters in a different order.
+[^14-24]: The Septuagint reads "but in the heart of fools it is not known".
+[^14-25]: Hebrew *chesed*, here a rarer word meaning "shame, disgrace" (Leviticus 20:17), spelled like the word for "faithful love".
+[^14-26]: Hebrew *maskil*, as in 10:5.
+
+## Chapter 15
+
+*Status: draft*
+
+**1** A gentle answer turns away wrath, but a harsh word stirs up anger.
+
+**2** The tongue of the wise makes knowledge attractive,[^15-1] but the mouth of fools[^15-2] gushes folly.[^15-3]
+
+**3** The eyes of Yahweh[^15-4] are everywhere, watching the evil and the good.
+
+**4** A soothing tongue is a tree of life, but a twisted one crushes the spirit.
+
+**5** A fool[^15-5] despises his father's discipline,[^15-6] but whoever heeds correction is prudent.[^15-7]
+
+**6** In the house of the righteous[^15-8] there is great treasure, but the income of the wicked[^15-9] brings trouble.
+
+**7** The lips of the wise spread knowledge, but the heart of fools is not so.[^15-10]
+
+**8** The sacrifice of the wicked is detestable to Yahweh, but the prayer of the upright is his delight.
+
+**9** The way of the wicked is detestable to Yahweh, but he loves the one who pursues righteousness.
+
+**10** Severe discipline awaits the one who leaves the path; whoever hates correction will die.
+
+**11** Sheol and Abaddon[^15-11] lie open before Yahweh; how much more the hearts of humankind!
+
+**12** A mocker[^15-12] does not love the one who corrects him; he will not go to the wise.
+
+**13** A glad heart makes a cheerful face, but by heartache the spirit is crushed.
+
+**14** The heart of the discerning seeks knowledge, but the mouth of fools[^15-13] feeds on folly.
+
+**15** All the days of the poor are hard, but a cheerful heart has a continual feast.
+
+**16** Better a little with the fear of Yahweh than great treasure with turmoil.
+
+**17** Better a meal of vegetables where there is love than a fattened ox with hatred.
+
+**18** A hot-tempered man stirs up strife, but one who is slow to anger calms a quarrel.
+
+**19** The way of the lazy person[^15-14] is like a hedge of thorns, but the path of the upright is a highway.
+
+**20** A wise son makes a father glad, but a foolish man despises his mother.
+
+**21** Folly is a joy to one who lacks sense,[^15-15] but a person of insight[^15-16] walks straight ahead.
+
+**22** Plans fail without counsel, but with many advisers they succeed.
+
+**23** A person finds joy in giving an apt answer, and a word at the right time, how good it is!
+
+**24** The path of life leads upward for the sensible,[^15-17] so that he may turn away from Sheol below.
+
+**25** Yahweh tears down the house of the proud, but he sets firm the boundary of the widow.
+
+**26** Evil plans are detestable to Yahweh, but gracious words are pure.[^15-18]
+
+**27** Whoever is greedy for gain brings trouble on his household, but whoever hates bribes will live.
+
+**28** The heart of the righteous ponders how to answer, but the mouth of the wicked gushes evil things.
+
+**29** Yahweh is far from the wicked, but he hears the prayer of the righteous.
+
+**30** Bright eyes[^15-19] gladden the heart; good news refreshes the bones.[^15-20]
+
+**31** The ear that listens to life-giving correction will live among the wise.
+
+**32** Whoever ignores discipline despises himself, but whoever listens to correction gains sense.[^15-21]
+
+**33** The fear of Yahweh is the discipline of wisdom,[^15-22] and humility comes before honor.
+
+[^15-1]: Or "uses knowledge well".
+[^15-2]: Hebrew *kesilim*, plural of *kesil* (see 1:22). Also in verses 7, 14 and 20.
+[^15-3]: Hebrew *iwwelet*, "folly", the word related to *ewil*, "fool" (see 1:7). Also in verses 14 and 21.
+[^15-4]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^15-5]: Hebrew *ewil*, the morally perverse, stubborn fool (see 1:7).
+[^15-6]: Hebrew *musar*: discipline, training and correction (see 1:2). Also in verses 10, 32 and 33.
+[^15-7]: Hebrew *ya'rim*, a verb from the same root as *ormah*, "shrewdness, prudence" (see 1:4).
+[^15-8]: Hebrew *tsaddiq*: one who does what is right (see 2:20).
+[^15-9]: Hebrew *rasha*: one who is guilty of wrong (see 2:22).
+[^15-10]: Or "is not steady".
+[^15-11]: Hebrew *Sheol*, the realm of the dead, and *Abaddon*, "Destruction", another name for it (Job 26:6; 28:22). Also in verse 24.
+[^15-12]: Hebrew *lets*: one who scorns wisdom and laughs at correction (see 1:22).
+[^15-13]: The Hebrew text is written "the face of fools" but read "the mouth of fools".
+[^15-14]: Hebrew *atsel*, traditionally "sluggard" (see 6:6).
+[^15-15]: Literally "lacks heart". In Hebrew thought the heart is the seat of understanding.
+[^15-16]: Hebrew *tevunah* (see 2:2).
+[^15-17]: Hebrew *maskil*, as in 10:5.
+[^15-18]: Or "but pleasant words are pure in his sight".
+[^15-19]: Literally "The light of the eyes".
+[^15-20]: Literally "makes the bones fat".
+[^15-21]: Literally "gains heart".
+[^15-22]: Or "is training in wisdom".

@@ -507,3 +507,200 @@
 [^8-12]: Literally "and prolongs for himself".
 [^8-13]: Or "and his days will not be long; they are like a shadow".
 [^8-14]: Literally "There is a vapor that is done on the earth".
+
+## Chapter 9
+
+*Status: draft*
+
+**1** All this I took to heart, and I sought to make all this clear:[^9-1] that the righteous and the wise and their deeds are in the hand of God. Whether it is love or hate, no one knows; everything lies before them.[^9-2]
+
+**2** Everything is the same for everyone:[^9-3] one fate comes to the righteous and the wicked, to the good,[^9-4] to the clean and the unclean, to the one who offers sacrifices and the one who does not. As it is with the good, so it is with the sinner; as it is with the one who swears an oath, so it is with the one who fears an oath.
+
+**3** This is an evil in all that is done under the sun: that one fate comes to all. The hearts of human beings are full of evil, too, and there is madness in their hearts while they live, and after that they go to the dead.[^9-5]
+
+**4** But whoever is joined[^9-6] with all the living has hope, for a living dog is better than a dead lion.
+
+**5** For the living know that they will die, but the dead know nothing at all. They have no more reward, for the memory of them is forgotten.[^9-7]
+
+**6** Their love and their hatred and their envy have already perished, and they will never again have a portion in anything that is done under the sun.
+
+**7** Go, eat your bread with joy, and drink your wine with a glad heart, for God has already approved what you do.
+
+**8** Let your clothes always be white, and let your head never lack oil.
+
+**9** Enjoy life[^9-8] with the wife whom you love, all the days of your life of vapor[^9-9] that he has given you under the sun, all your days of vapor. For that is your portion in life and in your toil at which you toil under the sun.
+
+**10** Whatever your hand finds to do, do it with all your strength, for there is no work or planning or knowledge or wisdom in Sheol,[^9-10] where you are going.
+
+**11** Again I saw under the sun that the race is not to the swift, nor the battle to the strong, nor bread to the wise, nor riches to the intelligent, nor favor to the skilled, for time and chance happen to them all.
+
+**12** For no one knows his time. Like fish caught in a cruel net, and like birds caught in a snare, so human beings are trapped at an evil time, when it falls on them suddenly.
+
+**13** This too I saw as wisdom under the sun, and it seemed great to me.
+
+**14** There was a small city with few people in it, and a great king came against it, surrounded it, and built great siegeworks[^9-11] against it.
+
+**15** Now there was found in it a poor wise man, and he saved the city by his wisdom. Yet no one remembered that poor man.[^9-12]
+
+**16** So I said, "Wisdom is better than strength, but the poor man's wisdom is despised, and his words are not heard."
+
+**17** The words of the wise, heard in quiet, are better than the shouting of a ruler among fools.
+
+**18** Wisdom is better than weapons of war, but one sinner destroys much good.
+
+[^9-1]: Literally "and to examine all this".
+[^9-2]: Or "everything that lies before them is vapor". The Septuagint reads this, with "vapor" (Greek *mataiotes*, its word for *hevel*) in place of the first word of verse 2, "everything".
+[^9-3]: Literally "Everything as to everyone".
+[^9-4]: The Septuagint adds "and to the bad".
+[^9-5]: Literally "and after him, to the dead".
+[^9-6]: The Hebrew text is written "whoever is chosen" but read "whoever is joined".
+[^9-7]: A play on words: *sakhar*, "reward", and *zikhram*, "the memory of them".
+[^9-8]: Literally "See life".
+[^9-9]: Hebrew *hevel*, "breath, vapor"; see 1:2. Here, as in 6:12 and 7:15, the sense is "fleeting".
+[^9-10]: Hebrew *Sheol*, the realm of the dead.
+[^9-11]: Hebrew *metsodim*, "nets" or "strongholds", here the works built to besiege a city.
+[^9-12]: Or "and he could have saved the city by his wisdom, but no one remembered that poor man".
+
+## Chapter 10
+
+*Status: draft*
+
+**1** Dead flies[^10-1] make the perfumer's oil stink and ferment; a little folly outweighs wisdom and honor.[^10-2]
+
+**2** The heart of the wise is at his right hand, but the heart of the fool at his left.[^10-3]
+
+**3** Even when a fool[^10-4] walks along the road, he lacks sense,[^10-5] and he shows everyone that he is a fool.[^10-6]
+
+**4** If the ruler's anger[^10-7] rises against you, do not leave your place, for calmness lays great offenses to rest.
+
+**5** There is an evil I have seen under the sun, like a mistake[^10-8] that comes from the ruler:
+
+**6** folly is set in many high places, while the rich sit in low places.
+
+**7** I have seen servants[^10-9] on horses, and princes walking on foot like servants.
+
+**8** Whoever digs a pit may fall into it, and whoever breaks through a wall may be bitten by a snake.
+
+**9** Whoever quarries stones may be hurt by them, and whoever splits logs may be endangered by them.
+
+**10** If the iron is blunt and one does not sharpen its edge, he must use more strength; but wisdom has the advantage of bringing success.[^10-10]
+
+**11** If the snake bites before it is charmed, there is no gain[^10-11] for the charmer.[^10-12]
+
+**12** The words of a wise person's mouth win favor,[^10-13] but the lips of a fool swallow him up.
+
+**13** The words of his mouth begin in folly, and his talk ends in evil madness.
+
+**14** The fool multiplies words, though no one knows what will happen; and what will come after him, who can tell him?
+
+**15** The toil of fools wears them out, for they do not even know the way to the city.[^10-14]
+
+**16** Woe to you, O land, whose king is a youth,[^10-15] and whose princes feast in the morning!
+
+**17** Happy are you, O land, whose king is the son of nobles, and whose princes eat at the proper time, for strength and not for drunkenness!
+
+**18** Through laziness the roof sinks in, and through idle hands the house leaks.
+
+**19** For laughter they make a feast,[^10-16] and wine gladdens life, and money answers everything.[^10-17]
+
+**20** Even in your thoughts do not curse the king, and in your bedroom do not curse the rich, for a bird of the air may carry your voice, and a winged creature may tell the matter.
+
+[^10-1]: Literally "flies of death". Or "deadly flies".
+[^10-2]: Literally "Weightier than wisdom, than honor, is a little folly".
+[^10-3]: The right hand stood for strength and favor, the left for misfortune.
+[^10-4]: The Hebrew text is written "the fool" but read "a fool".
+[^10-5]: Literally "his heart is lacking".
+[^10-6]: Literally "and he says to everyone, he is a fool". Or "and he says of everyone that they are fools".
+[^10-7]: Literally "spirit". Hebrew *ruach*.
+[^10-8]: Hebrew *shegagah*, an unintentional wrong; see 5:5.
+[^10-9]: Or "slaves". Also later in the verse.
+[^10-10]: The Hebrew of this verse is difficult. Literally "and the advantage of making successful is wisdom".
+[^10-11]: Hebrew *yitron*; see 1:3.
+[^10-12]: Literally "the master of the tongue".
+[^10-13]: Literally "are grace".
+[^10-14]: Perhaps a saying for someone who cannot do even the simplest thing.
+[^10-15]: Or "a servant". Hebrew *na'ar* can mean either, and the contrast in verse 17 is with a king of noble birth.
+[^10-16]: Literally "make bread".
+[^10-17]: Or "money provides for everything", or "money keeps everyone busy".
+
+## Chapter 11
+
+*Status: draft*
+
+**1** Send your bread out on the surface of the waters, for after many days you will find it.[^11-1]
+
+**2** Give a portion to seven, and even to eight, for you do not know what disaster may come upon the earth.
+
+**3** If the clouds are full, they pour out rain on the earth; and whether a tree falls to the south or to the north, in the place where the tree falls, there it will lie.
+
+**4** Whoever watches the wind will not sow, and whoever looks at the clouds will not reap.
+
+**5** Just as you do not know the way of the wind,[^11-2] or how the bones are formed in the womb of a pregnant woman,[^11-3] so you do not know the work of God, who makes everything.
+
+**6** In the morning sow your seed, and in the evening do not let your hand rest, for you do not know which will succeed, this or that, or whether both alike will be good.
+
+**7** Light is sweet, and it is good for the eyes to see the sun.
+
+**8** For if a person lives many years, let him rejoice in them all; but let him remember the days of darkness, for they will be many. All that comes is vapor.[^11-4]
+
+**9** Rejoice, young man, in your youth, and let your heart cheer you in the days of your youth. Walk in the ways of your heart and in the sight of your eyes,[^11-5] but know that for all these things God will bring you into judgment.
+
+**10** Remove grief from your heart, and put away trouble from your body,[^11-6] for youth and the prime of life[^11-7] are vapor.
+
+[^11-1]: Perhaps a picture of trading by sea, or of generosity that is repaid.
+[^11-2]: Or "the way of the breath (or spirit) into the bones in the womb". Hebrew *ruach*.
+[^11-3]: Literally "like the bones in the womb of the full one".
+[^11-4]: Hebrew *hevel*, "breath, vapor"; see 1:2.
+[^11-5]: Compare Numbers 15:39.
+[^11-6]: Literally "flesh".
+[^11-7]: Hebrew *shacharut*, a word found only here: perhaps "the dawn of life" (from *shachar*, "dawn"), or "the time of black hair" (from *shachor*, "black").
+
+## Chapter 12
+
+*Status: draft*
+
+**1** Remember your Creator[^12-1] in the days of your youth, before the days of trouble come and the years draw near when you will say, "I have no pleasure in them";
+
+**2** before the sun and the light, the moon and the stars grow dark, and the clouds return after the rain;
+
+**3** in the day when the keepers of the house tremble, and the strong men are bent, and the women who grind stop because they are few, and those who look through the windows grow dim;[^12-2]
+
+**4** when the doors to the street are shut, as the sound of the mill grows low, and one rises at the sound of a bird,[^12-3] and all the daughters of song[^12-4] are brought low;
+
+**5** when people are afraid of what is high, and terrors are on the road; when the almond tree blossoms, and the grasshopper drags itself along, and the caper berry fails;[^12-5] for a person is going to his eternal home,[^12-6] and the mourners go about in the street;
+
+**6** before the silver cord is snapped[^12-7] and the golden bowl is broken, and the jar is shattered at the spring, and the wheel is broken at the cistern;[^12-8]
+
+**7** and the dust returns to the earth as it was, and the spirit[^12-9] returns to God who gave it.
+
+**8** "Vapor of vapors,"[^12-10] says the Teacher,[^12-11] "everything is vapor."
+
+**9** Besides being wise, the Teacher also taught the people knowledge. He weighed,[^12-12] searched out and arranged many proverbs.
+
+**10** The Teacher sought to find pleasing words, and to write words of truth correctly.[^12-13]
+
+**11** The words of the wise are like goads, and like nails firmly fixed are the collected sayings;[^12-14] they are given by one shepherd.[^12-15]
+
+**12** Beyond these, my son, be warned. Of making many books there is no end, and much study wearies the body.[^12-16]
+
+**13** The end of the matter; all has been heard. Fear God and keep his commands, for this is the whole of a human being.[^12-17]
+
+**14** For God will bring every deed into judgment, with every hidden thing, whether good or evil.
+
+[^12-1]: Hebrew *bor'ekha*, "your Creator", written in a plural form, like the plural of majesty in *Elohim*. Some hear a play on *bor*, "cistern" (compare Proverbs 5:15 and verse 6) or "pit, grave".
+[^12-2]: Verses 2–6 picture old age and death. Many take the images as the failing body (the keepers as arms, the women who grind as teeth, those at the windows as eyes); others as a great house or a town falling into silence and decay.
+[^12-3]: Or "and the sound of the bird rises".
+[^12-4]: That is, the singing voices, or the notes of song.
+[^12-5]: Hebrew *aviyyonah*, "caper berry", which was eaten to stir the appetite. The sense is probably that desire fails.
+[^12-6]: Literally "the house of his eternity".
+[^12-7]: The Hebrew text is written "is removed" but read "is snapped".
+[^12-8]: Hebrew *bor*, perhaps echoing "your Creator" (*bor'ekha*) in verse 1.
+[^12-9]: Or "breath". Hebrew *ruach*. Compare Genesis 2:7; 3:19.
+[^12-10]: Hebrew *hevel*, "breath, vapor": the book ends its words as it began them (1:2).
+[^12-11]: Hebrew *ha-qohelet*, "the Teacher", here with the article; see 1:1. Verses 9–14 speak about the Teacher, perhaps in the voice of the one who collected his words.
+[^12-12]: Or "He listened".
+[^12-13]: Or "and what was written was upright, words of truth".
+[^12-14]: Literally "the masters of collections": the collected sayings, or those who collect them. Or "the masters of assemblies".
+[^12-15]: The shepherd may be God, or the teacher who gathered the sayings.
+[^12-16]: Literally "the flesh".
+[^12-17]: Literally "for this is all the human being". That is, this is the whole duty of everyone, or this is what every person is for.

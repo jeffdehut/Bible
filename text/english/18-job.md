@@ -187,7 +187,7 @@
 [^3-14]: Literally "Or like a hidden miscarriage I would not be".
 [^3-15]: Literally "those weary of strength".
 [^3-16]: God is meant, though the Hebrew does not name him.
-[^3-17]: Literally "who rejoice to rejoicing". Some read *gal*, "a heap (of stones)", for *gil*, "rejoicing": "who would rejoice over a burial mound".
+[^3-17]: Literally "who rejoice to rejoicing". Some scholars read *gal*, "a heap (of stones)", for *gil*, "rejoicing", with a small change to the Hebrew: "who would rejoice over a burial mound".
 [^3-18]: The verb echoes 1:10, where the Accuser says God has "put a hedge around" Job to protect him. Here the hedge hems him in.
 [^3-19]: Literally "before my bread": either "instead of my food" or "at my meals".
 
@@ -674,7 +674,7 @@
 [^10-3]: Literally "made me together all around, and you swallow me up".
 [^10-4]: Hebrew *chesed*: loyal, faithful love.
 [^10-5]: Literally "this is with you".
-[^10-6]: Or "Look at my misery!" The Hebrew vowel points read "see" as a command. Some read *reveh*, "soaked", for *re'eh*, "seeing": "soaked in my misery".
+[^10-6]: Or "Look at my misery!" The Hebrew vowel points read "see" as a command. Some scholars read *reveh*, "soaked", for *re'eh*, "seeing", with a small change to the Hebrew: "soaked in my misery".
 [^10-7]: That is, my head. Literally "it rises up proudly".
 [^10-8]: Literally "changes and an army are with me". Hebrew *chalifot ve-tsava*: perhaps troops coming on in relays.
 [^10-9]: The Hebrew text is written "Let him stop! Let him leave me alone" but read "Stop! Leave me alone".
@@ -1333,7 +1333,7 @@
 [^20-4]: Literally "the gall of cobras is within him".
 [^20-5]: Literally "according to the wealth of his exchange, and he will not rejoice". The Hebrew of this line is uncertain.
 [^20-6]: Literally "Because he did not know quiet in his belly".
-[^20-7]: Literally "every hand of the wretched will come upon him". Some read *amal*, "misery", for *amel*, "the wretched".
+[^20-7]: Literally "every hand of the wretched will come upon him". The same consonants can be read *amal*, "misery", for *amel*, "the wretched".
 [^20-8]: Literally "he". God is meant.
 [^20-9]: Hebrew *bilchumo*, a word of uncertain meaning: perhaps "as his food" or "into his flesh".
 [^20-10]: Literally "a bow of bronze".
@@ -1548,17 +1548,17 @@
 
 **17** Yet I have not been silenced by the darkness, by the thick darkness that covers my face.[^23-16]
 
-[^23-1]: Hebrew *meri*, "rebellion, defiance". With a slight change to the Hebrew, "bitter".
+[^23-1]: Hebrew *meri*, "rebellion, defiance".
 [^23-2]: Literally "my hand is heavy on my groaning". *My hand* may mean the blow that has fallen on me (compare 19:21). Or "I hold down my groaning with a heavy hand". The Greek Septuagint reads "his hand".
 [^23-3]: Hebrew *tekhunah*, "his fixed place": his seat or throne.
 [^23-4]: Literally "No, only he would set (his mind) on me".
 [^23-5]: That is, from his charges against me. Or "I would be acquitted by my judge forever".
 [^23-6]: Or "east … west". The Hebrew words for "forward" and "backward" also mean "east" and "west", and "left" and "right" in verse 9 also mean "north" and "south": Job searches in every direction.
-[^23-7]: Literally "and I do not grasp". Some read "and I do not behold him", with a small change to the Hebrew.
+[^23-7]: Literally "and I do not grasp".
 [^23-8]: Or "he hides himself on the right".
 [^23-9]: Literally "the way with me".
 [^23-10]: Literally "more than my portion". Hebrew *chuqqi*, "what is allotted to me", probably food (compare Proverbs 30:8). The Greek Septuagint reads "in my bosom".
-[^23-11]: Literally "he is in one": he is unique, or unchanging, or of one mind. Some read "he has chosen", with a small change to the Hebrew.
+[^23-11]: Literally "he is in one": he is unique, or unchanging, or of one mind. Some scholars read *bachar*, "he has chosen", with a small change to the Hebrew.
 [^23-12]: Literally "His soul desires, and he does it".
 [^23-13]: Literally "he completes my decree". Hebrew *chuqqi*, the word in verse 12.
 [^23-14]: Literally "and like these, many are with him".
@@ -1626,15 +1626,15 @@
 [^24-5]: A pledge was something taken as security for a debt (compare Deuteronomy 24:17).
 [^24-6]: Literally "seeking early for prey". From here to verse 8, *they* are the poor of verse 4.
 [^24-7]: The Hebrew of this line is uncertain. Literally "the desert, to him, bread for the young ones".
-[^24-8]: Hebrew *belilo*, "his fodder", perhaps the wicked man's. Divided as *beli lo*, "not his": "they reap in a field that is not theirs".
+[^24-8]: Hebrew *belilo*, "his fodder", perhaps the wicked man's. Some scholars divide the word as *beli lo*, "not his": "they reap in a field that is not theirs".
 [^24-9]: Literally "They snatch the orphan from the breast": the wicked, as in verses 2–4.
-[^24-10]: Or "they take the poor man's infant as a pledge", reading *ul*, "infant", for *al*, "on".
+[^24-10]: Literally "and against the poor they take pledges".
 [^24-11]: Hebrew *shurot*, "walls" or "rows": perhaps the terrace walls of olive groves, or rows of olive trees.
-[^24-12]: Or "the dying groan", reading the same Hebrew consonants with different vowels.
+[^24-12]: Or "the dying groan": the same Hebrew consonants read with different vowels.
 [^24-13]: Literally "the soul of the wounded".
 [^24-14]: Hebrew *Eloah*, a poetic form of *Elohim*, "God", used often in Job.
-[^24-15]: Hebrew *tiflah*, "what is unfitting", the word in 1:22. Or, with different vowels, *tefillah*, "prayer": "yet God does not heed their prayer".
-[^24-16]: Literally "at the light". Some take it to mean "before the light" or "at dusk", or read *lo or*, "when there is no light".
+[^24-15]: Hebrew *tiflah*, "what is unfitting", the word in 1:22. The same consonants can be read *tefillah*, "prayer": "yet God does not heed their prayer".
+[^24-16]: Literally "at the light". Some take it to mean "before the light" or "at dusk". Some scholars read *lo or*, "when there is no light", with a small change to the Hebrew.
 [^24-17]: Literally "he digs through houses", through their walls of mud brick.
 [^24-18]: Hebrew *tsalmavet*, "deep darkness", traditionally read as "the shadow of death". Also later in the verse.
 [^24-19]: Literally "for he recognizes the terrors of deep darkness".
@@ -1711,7 +1711,7 @@
 [^26-6]: Hebrew *Sheol*, the realm of the dead.
 [^26-7]: Hebrew *Abaddon*, "Destruction", a name for the realm of the dead (28:22; 31:12; Proverbs 15:11).
 [^26-8]: Hebrew *tohu*, "emptiness, formlessness", the word in Genesis 1:2. *The north* (Hebrew *tsafon*) may be the northern sky, or the mountain of the gods in the far north (compare Isaiah 14:13).
-[^26-9]: Hebrew *kisseh*, a spelling of *kisse*, "throne". With different vowels, *keseh*, "full moon": "He covers the face of the full moon".
+[^26-9]: Hebrew *kisseh*, a spelling of *kisse*, "throne". The same consonants can be read *keseh*, "full moon": "He covers the face of the full moon".
 [^26-10]: Literally "He has circled a limit on the face of the waters". The horizon is pictured as a circle drawn on the waters at the edge of the world (compare Proverbs 8:27).
 [^26-11]: Or "he stirred up". The Hebrew verb *raga* can mean either.
 [^26-12]: A sea monster, a figure of chaos (see 9:13).
@@ -1785,7 +1785,7 @@
 [^27-12]: The Hebrew text is written "his survivor" but read "his survivors".
 [^27-13]: Literally "will be buried in death". *Death* here probably means plague (compare Jeremiah 15:2).
 [^27-14]: Perhaps because no proper mourning rites can be held (compare Psalm 78:64).
-[^27-15]: Hebrew *ash*, "moth", perhaps meaning its cocoon. Some interpreters read "spider", as in 8:14.
+[^27-15]: Hebrew *ash*, "moth", perhaps meaning its cocoon.
 [^27-16]: Literally "he will not be gathered". The Greek Septuagint reads "he will not add (to it)", that is, he lies down rich for the last time.
 [^27-17]: Literally "and he is not": either his wealth is gone, or he himself.
 [^27-18]: Literally "like waters".
@@ -1862,7 +1862,7 @@
 [^28-8]: Or "and it (the sapphire) has flecks of gold".
 [^28-9]: Literally "the sons of pride", probably the great wild animals (compare 41:26 (English 41:34)).
 [^28-10]: Hebrew *ye'orim*, a word used of the channels of the Nile; here tunnels or water channels in a mine.
-[^28-11]: Literally "From the weeping of the rivers he binds": he stops the water from seeping into the mine. Some read "the sources of the rivers" (compare 38:16).
+[^28-11]: The Hebrew vowel points read "From the weeping of the rivers he binds", that is, he stops the water from seeping into the mine. The same consonants can be read "the sources of the rivers" (compare "the springs of the sea", 38:16).
 [^28-12]: Or "its place in order". The Greek Septuagint reads "its way".
 [^28-13]: Hebrew *tehom*, the deep waters under the earth (Genesis 1:2).
 [^28-14]: Hebrew *segor*, a rare word for gold, probably "pure" or "solid" gold. Verses 15–19 use several words for gold and precious stones, some of which cannot be identified with certainty.
@@ -2022,7 +2022,7 @@
 [^30-2]: Or "they flee to the dry ground". Hebrew *orqim*, a rare word.
 [^30-3]: Literally "the yesterday (or "night") of ruin and devastation". The meaning of this line is uncertain.
 [^30-4]: Hebrew *malluach*, a salty plant that grows in the desert.
-[^30-5]: Literally "their bread". Broom roots are bitter and were mostly used as fuel (Psalm 120:4). Some read "to warm themselves", with different vowels.
+[^30-5]: Literally "their bread". Broom roots are bitter and were mostly used as fuel (Psalm 120:4). The same consonants can be read "to warm themselves".
 [^30-6]: Literally "from the midst". Hebrew *gev*, a rare word.
 [^30-7]: Like hungry wild donkeys (compare 6:5).
 [^30-8]: Literally "sons of a fool, also sons of no name".
@@ -2038,7 +2038,7 @@
 [^30-18]: Hebrew *nedivah*, "nobility, honor".
 [^30-19]: Literally "my soul pours itself out upon me".
 [^30-20]: Literally "The night pierces my bones from upon me".
-[^30-21]: The Hebrew of this verse is uncertain. *Is disfigured* is literally "disguises itself". Some read "seizes my garment", with a small change to the Hebrew, with God as the subject: "With great force he seizes my garment; he grips me by the collar of my tunic".
+[^30-21]: The Hebrew of this verse is uncertain. *Is disfigured* is literally "disguises itself". Some scholars read "seizes my garment", with a small change to the Hebrew, with God as the subject: "With great force he seizes my garment; he grips me by the collar of my tunic".
 [^30-22]: *He* is God.
 [^30-23]: The same pair of words, "dust and ashes", is used in 42:6 (compare Genesis 18:27).
 [^30-24]: Literally "and you consider me".
@@ -2048,7 +2048,7 @@
 [^30-28]: The Hebrew of this verse is uncertain. Literally "Surely not into a heap of ruins does he stretch out a hand; if in his disaster, to them a cry for help". Or "Surely no one strikes a ruined man when he cries for help in his disaster".
 [^30-29]: Literally "the one hard of day".
 [^30-30]: Literally "My bowels boil and are not silent".
-[^30-31]: Literally "I go about dark, without the sun" (Hebrew *chammah*, "heat, sun"): darkened, perhaps in mourning, but not by the sun. Or "I go about mourning, without comfort", reading *nechamah*, "comfort", for *chammah*.
+[^30-31]: Literally "I go about dark, without the sun" (Hebrew *chammah*, "heat, sun"): darkened, perhaps in mourning, but not by the sun. Some scholars read *nechamah*, "comfort", for *chammah*, with a small change to the Hebrew: "I go about mourning, without comfort".
 [^30-32]: Hebrew *benot ya'anah*, perhaps "ostriches" or "eagle owls". Both jackals and these birds make mournful cries in desolate places (Micah 1:8).
 [^30-33]: Literally "My skin is black from upon me".
 [^30-34]: Literally "my bone burns from heat".
@@ -2316,7 +2316,7 @@
 [^33-8]: Job's own words in 13:27; compare 13:24.
 [^33-9]: Hebrew *Eloah*, a poetic form of *Elohim*, "God", used often in Job. Also in verse 26.
 [^33-10]: Literally "for all his words he does not answer". Or "for he gives no account of any of his doings".
-[^33-11]: Literally "and he seals their discipline". Some read "and he terrifies them with warnings", with different vowels.
+[^33-11]: Literally "and he seals their discipline". The same consonants can be read "and he terrifies them with warnings".
 [^33-12]: Literally "to turn aside a human being (*adam*) from a deed".
 [^33-13]: Literally "and pride from a man he covers".
 [^33-14]: Hebrew *shachat*, the grave, the world of the dead. Also in verses 22, 24, 28 and 30.
@@ -2328,7 +2328,7 @@
 [^33-20]: Or "a messenger". Hebrew *mal'akh*.
 [^33-21]: Hebrew *melits*, "interpreter, spokesman": one who speaks for another (compare 16:20; Genesis 42:23).
 [^33-22]: Literally "to declare to a human being (*adam*) his uprightness": either what is right for him to do, or that he is upright.
-[^33-23]: Hebrew *pede'ehu*, a form found only here. Many read *pedehu*, "Ransom him".
+[^33-23]: Hebrew *pede'ehu*, a form found only here. Some scholars read *pedehu*, "Ransom him", with a small change to the Hebrew.
 [^33-24]: Hebrew *rutafash*, a word found only here, probably "grow fresh". Literally "his flesh is fresher than youth".
 [^33-25]: That is, God restores him to a right standing.
 [^33-26]: Literally "and it was not made equal to me".
@@ -2428,7 +2428,7 @@
 [^34-13]: Hebrew *beliyya'al*, "worthless, good-for-nothing".
 [^34-14]: That is, without human help: by God's power.
 [^34-15]: Hebrew *tsalmavet*, "deep darkness", traditionally read as "the shadow of death".
-[^34-16]: Literally "For he does not set upon a man further". Some read *mo'ed*, "an appointed time", for *od*, "further": "he does not set a time for anyone".
+[^34-16]: Literally "For he does not set upon a man further". Some scholars read *mo'ed*, "an appointed time", for *od*, "further", with a small change to the Hebrew: "he does not set a time for anyone".
 [^34-17]: Literally "without searching".
 [^34-18]: Literally "In place of the wicked he slaps them": either "as wicked people" or "for their wickedness".
 [^34-19]: Literally "both over a nation and over a human being (*adam*) together".
@@ -2484,7 +2484,7 @@
 [^35-8]: Or "who teaches us by the animals of the earth, and makes us wise by the birds of the sky" (compare 12:7).
 [^35-9]: Literally "Surely emptiness God does not hear".
 [^35-10]: Hebrew *Shaddai*, traditionally "the Almighty"; the meaning is uncertain.
-[^35-11]: Hebrew *pash*, a word found only here, perhaps "arrogance" or "folly". Many take it as a form of *pesha*, "transgression".
+[^35-11]: Hebrew *pash*, a word found only here, perhaps "arrogance" or "folly". It may be a form of *pesha*, "transgression".
 [^35-12]: Hebrew *hevel*, "breath, vapor": what has no substance.
 
 ## Chapter 36
@@ -2573,14 +2573,14 @@
 [^36-14]: Or "a large bribe". Hebrew *kofer*, as in 33:24.
 [^36-15]: The Hebrew of this verse is uncertain. Or "Will your wealth be valued, not in gold, nor all the resources of your strength?"
 [^36-16]: Literally "to go up, peoples, beneath them".
-[^36-17]: Or "for because of this you have been tested by affliction", reading *bochanta*, "you have been tested", for *bacharta*, "you have chosen".
+[^36-17]: Some scholars read *bochanta*, "you have been tested", for *bacharta*, "you have chosen", with a small change to the Hebrew: "for because of this you have been tested by affliction".
 [^36-18]: Hebrew *ed*, a rare word also found in Genesis 2:6.
 [^36-19]: Hebrew *sukkah*, "shelter, booth": the clouds around God (Psalm 18:12 (English 18:11)).
 [^36-20]: That is, the depths of the sea.
-[^36-21]: Some read "he nourishes", with a slight change to the Hebrew, which fits the second line.
+[^36-21]: Or "he governs". Hebrew *yadin*.
 [^36-22]: Literally "with light". Also in 37:3, 11 and 15.
 [^36-23]: The Hebrew of this verse is very uncertain. Literally "His noise tells about him".
-[^36-24]: Literally "the cattle, even concerning what goes up". Or, with different vowels, "he is jealous with anger against wrongdoing".
+[^36-24]: Literally "the cattle, even concerning what goes up". Some scholars read "he is jealous with anger against wrongdoing", with a small change to the Hebrew.
 
 ## Chapter 37
 
@@ -2657,7 +2657,7 @@
 [^37-21]: Literally "And now they have not seen the light; it is bright in the skies, and a wind has passed and cleansed them".
 [^37-22]: Literally "From the north comes gold". The far north was thought of as the place where God (or the gods) lived (compare Isaiah 14:13; Psalm 48:3 (English 48:2)).
 [^37-23]: Hebrew *Shaddai*, traditionally "the Almighty"; the meaning is uncertain.
-[^37-24]: Literally "he does not see all the wise of heart", that is, those who think themselves wise. Some read "all who are wise in heart fear him", with a small change to the Hebrew.
+[^37-24]: Literally "he does not see all the wise of heart", that is, those who think themselves wise.
 
 ## Chapter 38
 
@@ -2762,7 +2762,7 @@
 [^38-15]: Said in irony.
 [^38-16]: Or "where the lightning is distributed". Hebrew *or*, "light".
 [^38-17]: Literally "for the flash of the thunders", as in 28:26.
-[^38-18]: Literally "to make sprout the going out of grass". Some read "to make the thirsty ground sprout grass".
+[^38-18]: Literally "to make sprout the going out of grass".
 [^38-19]: Literally "The waters hide themselves like the stone".
 [^38-20]: Hebrew *Kimah* and *Kesil*, constellations that cannot be identified with certainty (see 9:9). *Chains* (Hebrew *ma'adannot*) may instead mean "bands" or "delights".
 [^38-21]: Hebrew *mazzarot*, a word of uncertain meaning: perhaps the constellations of the zodiac, or a particular star or constellation.
@@ -2854,3 +2854,229 @@
 [^39-17]: Or "the vulture". Hebrew *nesher*.
 [^39-18]: Literally "it digs for food".
 [^39-19]: Compare Matthew 24:28; Luke 17:37.
+
+## Chapter 40
+
+*Status: draft*
+
+**1** Then Yahweh[^40-1] answered Job:
+
+**2** "Will the one who contends with the Almighty[^40-2] correct him? Let the one who argues with God answer it!"[^40-3]
+
+**3** Then Job answered Yahweh:
+
+**4** "Look, I am of small account;[^40-4] what can I answer you? I put my hand over my mouth.
+
+**5** I have spoken once, and I will not answer; twice, but I will say no more."
+
+**6** Then Yahweh answered Job out of the storm:
+
+**7** "Brace yourself like a man; I will question you, and you will inform me.[^40-5]
+
+**8** Would you even annul my justice?[^40-6] Would you condemn me so that you may be in the right?
+
+**9** Do you have an arm like God's? Can you thunder with a voice like his?
+
+**10** Adorn yourself, then, with pride and dignity; clothe yourself with splendor and majesty.
+
+**11** Pour out the floods of your anger; look at everyone who is proud and bring him low.
+
+**12** Look at everyone who is proud and humble him; tread down the wicked where they stand.
+
+**13** Hide them all in the dust together; bind their faces in the hidden place.[^40-7]
+
+**14** Then I too will praise you,[^40-8] for your own right hand can save you.
+
+**15** Look now at Behemoth,[^40-9] which I made, as I made you;[^40-10] it eats grass like an ox.
+
+**16** Look at the strength in its loins, and the power in the muscles of its belly.
+
+**17** It stiffens its tail like a cedar;[^40-11] the sinews of its thighs[^40-12] are knit together.
+
+**18** Its bones are tubes of bronze, its limbs like bars of iron.
+
+**19** It is the first of the ways of God;[^40-13] only its Maker can bring his sword near it.[^40-14]
+
+**20** For the mountains bring it their produce,[^40-15] where all the wild animals play.
+
+**21** Under the lotus plants[^40-16] it lies, in the shelter of the reeds and the marsh.
+
+**22** The lotus plants cover it with their shade; the willows of the wadi surround it.
+
+**23** Look, if the river rages,[^40-17] it is not alarmed; it is confident, though the Jordan bursts against its mouth.
+
+**24** Can anyone take it by its eyes, or pierce its nose with snares?[^40-18]
+
+**25** Can you draw out Leviathan[^40-19] with a fishhook, or press down its tongue with a cord?
+
+**26** Can you put a rope of rushes[^40-20] through its nose, or pierce its jaw with a hook?
+
+**27** Will it plead with you again and again? Will it speak gentle words to you?
+
+**28** Will it make a covenant with you, for you to take it as your servant for life?[^40-21]
+
+**29** Will you play with it as with a bird, or put it on a leash for your young girls?
+
+**30** Will traders[^40-22] bargain over it? Will they divide it up among the merchants?[^40-23]
+
+**31** Can you fill its skin with harpoons, or its head with fishing spears?
+
+**32** Lay your hand on it; remember the battle, and you will not do it again!
+
+[^40-1]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^40-2]: Hebrew *Shaddai*, traditionally "the Almighty"; the meaning is uncertain.
+[^40-3]: The Hebrew of this verse is uncertain. Literally "Is contending with the Almighty correcting? One who reproves God, let him answer it". Or "Will a faultfinder contend with the Almighty?"
+[^40-4]: Literally "I am light", the opposite of "heavy", that is, weighty and honored.
+[^40-5]: Yahweh repeats his words in 38:3.
+[^40-6]: Hebrew *mishpat*: justice, judgment, the right in a case.
+[^40-7]: The world of the dead.
+[^40-8]: Or "acknowledge you".
+[^40-9]: Hebrew *behemot*, the plural of *behemah*, "beast": "the beast" above all others, a huge land animal. Many identify it with the hippopotamus, which lives among the reeds and in the river (verses 21–23); others with the elephant, or with a monster of chaos, paired with Leviathan (40:25–41:26 (English 41:1–34)). Verses 15–24 describe it.
+[^40-10]: Literally "which I made with you".
+[^40-11]: Or "It bends its tail like a cedar". Hebrew *yachpots*, a word of uncertain meaning here. Some take *tail* as a euphemism.
+[^40-12]: The Hebrew text is written "its thigh" but read "its thighs".
+[^40-13]: Literally "the beginning of the ways of God": the chief of his works, or the first he made (compare Proverbs 8:22, said of wisdom).
+[^40-14]: The Hebrew of this line is uncertain. Literally "the one who made it brings near his sword". Or "its Maker gave it its sword", that is, its tusks or teeth.
+[^40-15]: Hebrew *bul*, "produce", perhaps "tribute".
+[^40-16]: Hebrew *tse'elim*, a word found only here and in verse 22, probably the thorny lotus, a shrub of hot, wet places.
+[^40-17]: Literally "oppresses". The Jordan in the next line may stand for any great river.
+[^40-18]: Literally "In its eyes he will take it; with snares he will pierce the nose". The Hebrew has no word marking a question, but the verse is usually read as one.
+[^40-19]: Verses 25–32 are 41:1–8 in most English Bibles. *Leviathan* is a great sea creature, pictured elsewhere as a monster of chaos that God defeated (3:8; Psalm 74:14; Isaiah 27:1; compare Psalm 104:26). Here it is a creature God made, described with features of the crocodile; some think of a whale. The description runs to the end of chapter 41.
+[^40-20]: Hebrew *agmon*, a rope made of rushes.
+[^40-21]: Or "slave". Literally "a servant forever", the term for a slave who chose to stay with his master for life (Deuteronomy 15:17).
+[^40-22]: Hebrew *chabbarim*, "partners", perhaps a guild of fishermen or traders.
+[^40-23]: Literally "among the Canaanites", who were known as traders.
+
+## Chapter 41
+
+*Status: draft*
+
+**1** "Look, the hope of anyone who tries is false;[^41-1] is one not thrown down even at the sight of it?
+
+**2** No one is fierce enough to rouse it. Who then can stand before me?[^41-2]
+
+**3** Who has come to me first, that I should repay him?[^41-3] Everything under the whole heaven is mine.
+
+**4** Shall I keep silent about it, about its limbs, its mighty strength and the grace of its build?[^41-4]
+
+**5** Who can strip off its outer garment? Who can come within its double bridle?[^41-5]
+
+**6** Who can open the doors of its face? All around its teeth is terror.
+
+**7** Its pride is its rows of shields,[^41-6] shut up closely as with a seal.
+
+**8** One is so close to another that no air[^41-7] can come between them.
+
+**9** They are joined one to another; they cling together and cannot be separated.
+
+**10** Its sneezes flash out light, and its eyes are like the eyelids of the dawn.[^41-8]
+
+**11** Out of its mouth go flaming torches; sparks of fire leap out.
+
+**12** Smoke comes out of its nostrils, as from a pot heated and boiling over burning rushes.[^41-9]
+
+**13** Its breath[^41-10] sets coals ablaze, and a flame comes out of its mouth.
+
+**14** Strength lodges in its neck, and terror[^41-11] dances before it.
+
+**15** The folds of its flesh stick together; they are firmly cast on it and cannot be moved.
+
+**16** Its heart is as hard as stone, hard as the lower millstone.
+
+**17** When it rises up, the mighty[^41-12] are afraid; at its crashing they are beside themselves.[^41-13]
+
+**18** The sword that reaches it does not prevail, nor does the spear, the dart or the javelin.[^41-14]
+
+**19** It counts iron as straw, and bronze as rotten wood.
+
+**20** The arrow[^41-15] does not make it flee; sling stones are turned to chaff for it.
+
+**21** Clubs are counted as chaff; it laughs at the rattle of the javelin.[^41-16]
+
+**22** Its underside is jagged potsherds;[^41-17] it spreads itself like a threshing sledge on the mud.
+
+**23** It makes the depths boil like a pot; it makes the sea like a pot of ointment.[^41-18]
+
+**24** Behind it, it leaves a shining wake; one would think the deep had white hair.
+
+**25** On earth there is nothing like it,[^41-19] a creature made without fear.
+
+**26** It looks down on everything that is lofty; it is king over all the proud beasts."[^41-20]
+
+[^41-1]: Verses 1–26 are 41:9–34 in most English Bibles. Literally "Look, his hope is false": the hope of anyone who tries to capture Leviathan (40:25).
+[^41-2]: The argument moves from the creature to its Maker: if no one dares to face Leviathan, who can stand before God?
+[^41-3]: Literally "Who has come before me, that I should repay?" Romans 11:35 echoes this line.
+[^41-4]: The Hebrew text is written "I will not keep silent about its limbs" but read "Concerning it I will keep silent about its limbs", taken here as a question. *Limbs* (Hebrew *baddav*) may also mean "its boasting" (compare 11:3).
+[^41-5]: Literally "within the doubling of its bridle", perhaps its jaws. Some scholars read *siryono*, "its coat of mail", for *risno*, "its bridle", with a small change to the Hebrew.
+[^41-6]: Literally "Pride, channels of shields": its rows of scales. Some scholars read *gevo*, "its back", for *ga'avah*, "pride", with a small change to the Hebrew: "Its back is rows of shields".
+[^41-7]: Or "no breath". Hebrew *ruach*.
+[^41-8]: The first rays of the sun (see 3:9).
+[^41-9]: Literally "like a pot blown upon, and a rush". Hebrew *agmon*, the word for the rope of rushes in 40:26.
+[^41-10]: Hebrew *nephesh*, here "breath" or "throat".
+[^41-11]: Hebrew *de'avah*, "dismay, terror", a word found only here.
+[^41-12]: Or "the gods". Hebrew *elim*.
+[^41-13]: Literally "from crashings they miss (their way)". The meaning is uncertain.
+[^41-14]: Hebrew *massa* and *shiryah*, words of uncertain meaning, perhaps "dart" and "javelin".
+[^41-15]: Literally "the son of the bow".
+[^41-16]: Hebrew *kidon*, as in 39:23.
+[^41-17]: Literally "Beneath it are the sharpest of potsherds".
+[^41-18]: A pot in which perfumed ointment is mixed and heated.
+[^41-19]: Literally "There is not on the dust its like".
+[^41-20]: Literally "the sons of pride", as in 28:8.
+
+## Chapter 42
+
+*Status: draft*
+
+**1** Then Job answered Yahweh:[^42-1]
+
+**2** "I know[^42-2] that you can do all things, and that no purpose of yours can be thwarted.
+
+**3** 'Who is this who hides counsel without knowledge?'[^42-3] So I have spoken of what I did not understand, things too wonderful for me, which I did not know.
+
+**4** 'Listen, and I will speak; I will question you, and you will inform me.'[^42-4]
+
+**5** I had heard of you by the hearing of the ear, but now my eye sees you.
+
+**6** Therefore I retract and repent in dust and ashes."[^42-5]
+
+**7** After Yahweh had spoken these words to Job, Yahweh said to Eliphaz the Temanite, "My anger burns against you and against your two friends, for you have not spoken of me[^42-6] what is right, as my servant Job has.
+
+**8** So now take seven bulls and seven rams, go to my servant Job, and offer a burnt offering for yourselves. My servant Job will pray for you, for I will accept his prayer[^42-7] and not deal with you as your folly deserves.[^42-8] For you have not spoken of me what is right, as my servant Job has."
+
+**9** So Eliphaz the Temanite, Bildad the Shuhite and Zophar the Naamathite went and did as Yahweh had told them, and Yahweh accepted Job's prayer.[^42-9]
+
+**10** When Job had prayed for his friends, Yahweh restored his fortunes,[^42-10] and Yahweh gave Job twice as much as he had before.
+
+**11** Then all his brothers and sisters and all who had known him before came to him and ate a meal[^42-11] with him in his house. They showed him sympathy[^42-12] and comforted him for all the trouble that Yahweh had brought on him, and each of them gave him a *qesitah*[^42-13] and a gold ring.
+
+**12** Yahweh blessed the latter part of Job's life more than the first. He had fourteen thousand sheep, six thousand camels, a thousand yoke of oxen and a thousand female donkeys.[^42-14]
+
+**13** He also had seven sons[^42-15] and three daughters.
+
+**14** He named the first Jemimah, the second Keziah, and the third Keren-happuch.[^42-16]
+
+**15** In all the land no women were found as beautiful as Job's daughters, and their father gave them an inheritance along with their brothers.
+
+**16** After this Job lived 140 years, and he saw his children and their children to the fourth generation.[^42-17]
+
+**17** And Job died, old and full of days.[^42-18]
+
+[^42-1]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^42-2]: The Hebrew text is written "You know" but read "I know".
+[^42-3]: Job quotes Yahweh's words in 38:2.
+[^42-4]: Job takes up Yahweh's challenge in 38:3 and 40:7. Or these are Job's own words to Yahweh, not a quotation.
+[^42-5]: The Hebrew of this verse is notoriously difficult, and each part can be read more than one way. *Retract* is Hebrew *em'as*, "I reject, I despise", with no object stated: "I despise myself" (the traditional rendering, "I abhor myself"), "I reject what I said", or, taking it from a similar verb, "I melt away". *Repent* is Hebrew *nichamti*, which can mean "I am sorry, I change my mind" or "I am comforted, I take comfort". *In dust and ashes* is literally "on" or "concerning dust and ashes": either Job sits in them as a mourner (2:8), or they stand for human frailty (30:19; Genesis 18:27). So the verse can also be read "I despise myself, and I repent in dust and ashes", "I retract, and I give up dust and ashes", that is, my mourning, or "I retract, and I am comforted, though I am dust and ashes".
+[^42-6]: Or "to me". *What is right* is Hebrew *nekhonah*, "what is right, true, firm". Also in verse 8.
+[^42-7]: Literally "I will lift up his face".
+[^42-8]: Literally "so as not to do folly with you". Hebrew *nevalah*, "folly, disgrace", from the same root as the word Job used of his wife's words in 2:10.
+[^42-9]: Literally "lifted up the face of Job".
+[^42-10]: Literally "turned the turning of Job", an idiom for restoring someone's fortunes.
+[^42-11]: Literally "ate bread".
+[^42-12]: Literally "they shook the head for him" (see 2:11).
+[^42-13]: A *qesitah* was a unit of money; its value is not known (Genesis 33:19).
+[^42-14]: Exactly double the numbers in 1:3.
+[^42-15]: Hebrew *shiv'anah*, an unusual form of "seven", which an ancient Jewish tradition takes to mean "twice seven", fourteen.
+[^42-16]: *Jemimah* probably means "dove"; *Keziah*, "cassia", a fragrant spice (Psalm 45:9 (English 45:8)); and *Keren-happuch*, "horn of eye paint", a container for a cosmetic.
+[^42-17]: Literally "his sons and the sons of his sons, four generations".
+[^42-18]: That is, after a long and full life (compare Genesis 25:8; 35:29). The Greek Septuagint adds a longer ending: it says that Job will rise again with those whom the Lord raises up, and, drawing on a Syriac book, it identifies him with Jobab, a king of Edom (Genesis 36:33).
