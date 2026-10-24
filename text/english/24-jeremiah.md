@@ -3161,7 +3161,7 @@
 
 **4** Harness the horses; mount, you horsemen![^46-5] Take your positions with helmets on! Polish the spears; put on your armor!
 
-**5** Why do I see it? They are terrified; they are falling back. Their warriors are beaten down; they flee headlong and do not look back. Terror on every side![^46-6] declares Yahweh.
+**5** Why do I see them terrified, falling back? Their warriors are beaten down; they flee headlong and do not look back. Terror on every side![^46-6] declares Yahweh.
 
 **6** The swift cannot flee, nor the warrior escape. In the north, by the Euphrates River, they stumble and fall.
 

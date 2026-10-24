@@ -134,9 +134,9 @@
 
 *Status: draft*
 
-**1** He said to me, "Son of man,[^3-1] eat what you find here. Eat this scroll, and go, speak to the house of Israel."
+**1** He said to me, "Son of man,[^3-1] eat what you find. Eat this scroll, and go, speak to the house of Israel."
 
-**2** So I opened my mouth, and he fed me the scroll.
+**2** So I opened my mouth, and he fed me this scroll.
 
 **3** He said to me, "Son of man, feed your stomach and fill your belly with this scroll that I am giving you." So I ate it, and in my mouth it was as sweet as honey.
 
@@ -291,7 +291,7 @@
 
 **11** Therefore, as I live, declares the Lord Yahweh,[^5-8] because you have defiled my sanctuary with all your vile idols[^5-9] and with all your detestable practices, I too will cut you down.[^5-10] My eye will not pity, and I will not spare.
 
-**12** A third of you will die of plague or perish by famine in your midst; a third will fall by the sword all around you; and a third I will scatter to every wind, and I will draw a sword after them.
+**12** A third of you will die of plague and perish by famine in your midst; a third will fall by the sword all around you; and a third I will scatter to every wind, and I will draw a sword after them.
 
 **13** Then my anger will be spent, and I will satisfy my fury on them,[^5-11] and I will be appeased.[^5-12] Then they will know that I, Yahweh, have spoken in my jealousy,[^5-13] when I have spent my fury on them.
 
@@ -3608,3 +3608,78 @@
 [^46-15]: The unit is not given; probably the long cubit of 40:5, so that each court was about 70 by 52 feet (21 by 16 m).
 [^46-16]: In the Hebrew text, dots are written over the word for "corner", a scribal mark of doubt.
 [^46-17]: That is, the temple, as throughout chapters 40–48.
+
+## Chapter 47
+
+*Status: draft*
+
+**1** Then he brought me back to the entrance of the house,[^47-1] and there was water flowing out from under the threshold of the house toward the east, for the house faced east. The water was flowing down from under the south side[^47-2] of the house, south of the altar.
+
+**2** He brought me out by way of the north gate and led me around on the outside to the outer gate that faces east, and there the water was trickling out from the south side.
+
+**3** As the man went out toward the east with a measuring line in his hand, he measured a thousand cubits[^47-3] and led me through the water, and it was ankle-deep.
+
+**4** He measured another thousand and led me through the water, and it was knee-deep. He measured another thousand and led me through, and it was waist-deep.
+
+**5** He measured another thousand, and it was a river that I could not cross, for the water had risen. It was deep enough to swim in, a river that could not be crossed.
+
+**6** He said to me, "Son of man,[^47-4] have you seen this?" Then he led me back along the bank of the river.
+
+**7** When I came back, there on the bank of the river were very many trees on both sides.
+
+**8** He said to me, "This water flows out toward the eastern region and goes down into the Arabah,[^47-5] and it enters the sea. When it flows into the sea,[^47-6] the water of the sea will become fresh.[^47-7]
+
+**9** Wherever the river[^47-8] goes, every living creature that swarms will live. There will be very many fish, because this water goes there and makes the water of the sea fresh; so everything will live where the river goes.
+
+**10** Fishermen will stand beside it from En-gedi to En-eglaim;[^47-9] it will be a place for spreading nets. Its fish will be of many kinds, like the fish of the Great Sea,[^47-10] very many.
+
+**11** But its swamps[^47-11] and marshes will not become fresh; they will be left for salt.
+
+**12** On both banks of the river every kind of tree for food will grow. Their leaves will not wither, and their fruit will not fail. They will bear fresh fruit every month, because their water flows from the sanctuary. Their fruit will be for food and their leaves for healing."[^47-12]
+
+**13** "This is what the Lord Yahweh[^47-13] says: These are the boundaries by which you are to divide the land as an inheritance among the twelve tribes of Israel, with two portions for Joseph.[^47-14]
+
+**14** You are to divide it equally among you.[^47-15] I swore[^47-16] to give it to your ancestors, and this land will fall to you as an inheritance.
+
+**15** This is to be the boundary of the land: On the north side, from the Great Sea by the way of Hethlon, as one goes to Zedad,[^47-17]
+
+**16** Hamath, Berothah and Sibraim, which lies between the border of Damascus and the border of Hamath, as far as Hazer-hatticon, which is on the border of Hauran.[^47-18]
+
+**17** So the boundary will run from the sea to Hazar-enan, at the border of Damascus, with the border of Hamath to the north. This is the north side.[^47-19]
+
+**18** On the east side, the boundary will run between Hauran and Damascus, and along the Jordan between Gilead and the land of Israel. You are to measure from the northern boundary to the eastern sea.[^47-20] This is the east side.
+
+**19** On the south side, toward the Negev, it will run from Tamar[^47-21] to the waters of Meribath-kadesh,[^47-22] and along the Wadi[^47-23] to the Great Sea. This is the south side, toward the Negev.
+
+**20** On the west side, the Great Sea will be the boundary, as far as a point opposite Lebo-hamath.[^47-24] This is the west side.
+
+**21** You are to divide this land among yourselves according to the tribes of Israel.
+
+**22** You are to allot it as an inheritance for yourselves and for the foreigners who live among you and have had children among you. They are to be to you like native-born Israelites; with you they are to be allotted an inheritance among the tribes of Israel.
+
+**23** In whatever tribe the foreigner lives, there you are to give him his inheritance, declares the Lord Yahweh.
+
+[^47-1]: That is, the temple, as throughout chapters 40–48.
+[^47-2]: Literally "the right side". Directions were given facing east, so the right side is the south. Also in verse 2.
+[^47-3]: The long cubit of 40:5, about 21 inches (53 cm), so a thousand cubits was about a third of a mile (530 m).
+[^47-4]: Hebrew *ben adam*, "son of man": a human being, a mortal.
+[^47-5]: The deep rift valley of the Jordan and the Dead Sea.
+[^47-6]: Literally "into the sea, the ones brought out". The meaning is uncertain. *The sea* is the Dead Sea, whose water is too salty for fish to live in it.
+[^47-7]: Literally "will be healed". Also in verses 9 and 11.
+[^47-8]: Hebrew *nachalayim*, "two rivers", a dual form. The meaning is uncertain (compare Zechariah 14:8, where living waters flow both east and west).
+[^47-9]: En-gedi was an oasis on the western shore of the Dead Sea. The site of En-eglaim is not known.
+[^47-10]: That is, the Mediterranean. Also in verses 15, 19 and 20.
+[^47-11]: The Hebrew text is written "when it goes out" but read "its swamps".
+[^47-12]: Compare Revelation 22:1–2.
+[^47-13]: Hebrew *Adonai YHWH*, "my Lord Yahweh". *Yahweh* is God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles. These words of Yahweh run to the end of the book (48:35).
+[^47-14]: Literally "Joseph, portions". The descendants of Joseph's two sons, Ephraim and Manasseh, each formed a tribe (Genesis 48:5; Joshua 14:4), so that there were twelve tribal portions without Levi (48:1–7, 23–29).
+[^47-15]: Literally "each man like his brother".
+[^47-16]: Literally "I lifted my hand", a gesture of swearing an oath (20:5–6).
+[^47-17]: Literally "the way of Hethlon, to come to Zedad". Compare 48:1, "the way of Hethlon to Lebo-hamath", and Numbers 34:7–9.
+[^47-18]: These places, on the northern frontier in Syria, are mostly not known. *Hazer-hatticon* means "the middle Hazer"; *Hauran* is the region east of the Sea of Galilee.
+[^47-19]: Literally "and the north side". Also in verses 18 and 19; verse 20 has "This is the west side".
+[^47-20]: The Septuagint and the Syriac read "to the eastern sea, as far as Tamar" (compare verse 19). The eastern sea is the Dead Sea.
+[^47-21]: A place south of the Dead Sea (1 Kings 9:18).
+[^47-22]: Meribah at Kadesh, in the wilderness south of Canaan (Numbers 20:13; 27:14).
+[^47-23]: The Wadi of Egypt, probably the Wadi el-Arish (Numbers 34:5).
+[^47-24]: Or "the entrance to Hamath": the northern frontier of Israel (Numbers 34:8).

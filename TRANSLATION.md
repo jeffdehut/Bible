@@ -219,8 +219,11 @@ from the Hebrew.
   day you will say: …") is, and so is a dialogue in which speakers alternate (Isaiah 63:1–6).
   A document given whole without an introduction (Nebuchadnezzar's letter, Daniel 3:31–4:34)
   takes no quotation marks.
-- Quotation marks: double for speech, single for a quotation inside it. A third level ("This
-  is what Yahweh says: …" inside a message inside a speech) takes a colon and no marks.
+- Quotation marks: double for speech, single for a quotation inside it, and so on alternating
+  for deeper levels. The messenger formula ("This is what Yahweh says: …") inside a message
+  takes a colon and no marks of its own (Jeremiah 27:2–11).
+- Yahweh's speech in a prose narrative is quoted like anyone's ("Yahweh said to Jeremiah,
+  '…'"). A whole oracle or sermon in Yahweh's voice is not put in quotation marks.
 - Within a chapter, a speech's quotation is opened once and closed once; it isn't reopened at
   each verse. A "list" for the numbers rule is the paragraph its numbers belong to.
 - Technical terms (tabernacle furnishings, sacrifices, priestly garments) get a full note at
