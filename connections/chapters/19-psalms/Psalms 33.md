@@ -18,6 +18,10 @@ tags: ["chapter", "ot", "wisdom"]
 
 ![[text/hebrew/19-psalms#Chapter 33]]
 
+## Plain English translation
+
+![[text/english/19-psalms#Chapter 33]]
+
 ## Cross-references
 
 - **33:1** → [[connections/chapters/19-psalms/Psalms 32|Psalms 32:11]] · [[connections/chapters/50-philippians/Philippians 4|Philippians 4:4]] · [[connections/chapters/19-psalms/Psalms 147|Psalms 147:1]]

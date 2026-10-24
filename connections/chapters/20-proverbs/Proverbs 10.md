@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "wisdom"]
 
 ![[text/hebrew/20-proverbs#Chapter 10]]
 
+## Plain English translation
+
+![[text/english/20-proverbs#Chapter 10]]
+
 ## Cross-references
 
 - **10:1** → [[connections/chapters/20-proverbs/Proverbs 1|Proverbs 1:1]] · [[connections/chapters/20-proverbs/Proverbs 29|Proverbs 29:15]] · [[connections/chapters/20-proverbs/Proverbs 17|Proverbs 17:25]] · [[connections/chapters/20-proverbs/Proverbs 23|Proverbs 23:15–16]] · [[connections/chapters/20-proverbs/Proverbs 29|Proverbs 29:3]] · [[connections/chapters/20-proverbs/Proverbs 23|Proverbs 23:24–25]] · [[connections/chapters/20-proverbs/Proverbs 15|Proverbs 15:20]] · [[connections/chapters/20-proverbs/Proverbs 17|Proverbs 17:21]]

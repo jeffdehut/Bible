@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "wisdom"]
 
 ![[text/hebrew/22-song-of-songs#Chapter 2]]
 
+## Plain English translation
+
+![[text/english/22-song-of-songs#Chapter 2]]
+
 ## Cross-references
 
 - **2:1** → [[connections/chapters/28-hosea/Hosea 14|Hosea 14:6]] · [[connections/chapters/23-isaiah/Isaiah 57|Isaiah 57:15]] · [[connections/chapters/23-isaiah/Isaiah 35|Isaiah 35:1–2]]

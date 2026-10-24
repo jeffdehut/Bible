@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "prophets"]
 
 ![[text/hebrew/23-isaiah#Chapter 15]]
 
+## Plain English translation
+
+![[text/english/23-isaiah#Chapter 15]]
+
 ## Cross-references
 
 *No cross-references with at least 8 votes.*

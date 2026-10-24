@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "prophets"]
 
 ![[text/hebrew/23-isaiah#Chapter 17]]
 
+## Plain English translation
+
+![[text/english/23-isaiah#Chapter 17]]
+
 ## Cross-references
 
 - **17:7** → [[connections/chapters/33-micah/Micah 7|Micah 7:7]]

@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "wisdom"]
 
 ![[text/hebrew/19-psalms#Chapter 137]]
 
+## Plain English translation
+
+![[text/english/19-psalms#Chapter 137]]
+
 ## Cross-references
 
 - **137:1** → [[connections/chapters/26-ezekiel/Ezekiel 1|Ezekiel 1:1]]

@@ -18,6 +18,10 @@ tags: ["chapter", "ot", "wisdom"]
 
 ![[text/hebrew/19-psalms#Chapter 69]]
 
+## Plain English translation
+
+![[text/english/19-psalms#Chapter 69]]
+
 ## Cross-references
 
 - **69:2** → [[connections/chapters/23-isaiah/Isaiah 43|Isaiah 43:2]] · [[connections/chapters/19-psalms/Psalms 69|Psalms 69:15–16]]

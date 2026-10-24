@@ -18,6 +18,10 @@ tags: ["chapter", "ot", "wisdom"]
 
 ![[text/hebrew/19-psalms#Chapter 86]]
 
+## Plain English translation
+
+![[text/english/19-psalms#Chapter 86]]
+
 ## Cross-references
 
 - **86:1** → [[connections/chapters/19-psalms/Psalms 31|Psalms 31:3]] · [[connections/chapters/19-psalms/Psalms 40|Psalms 40:18]] · [[connections/chapters/27-daniel/Daniel 9|Daniel 9:18]] · [[connections/chapters/40-matthew/Matthew 5|Matthew 5:3]] · [[connections/chapters/19-psalms/Psalms 34|Psalms 34:7]]

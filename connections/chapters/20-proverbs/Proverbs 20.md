@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "wisdom"]
 
 ![[text/hebrew/20-proverbs#Chapter 20]]
 
+## Plain English translation
+
+![[text/english/20-proverbs#Chapter 20]]
+
 ## Cross-references
 
 - **20:1** → [[connections/chapters/49-ephesians/Ephesians 5|Ephesians 5:18]] · [[connections/chapters/28-hosea/Hosea 4|Hosea 4:11]] · [[connections/chapters/23-isaiah/Isaiah 28|Isaiah 28:7]] · [[connections/chapters/46-1-corinthians/1 Corinthians 6|1 Corinthians 6:10]] · [[connections/chapters/20-proverbs/Proverbs 31|Proverbs 31:4]] · [[connections/chapters/48-galatians/Galatians 5|Galatians 5:21]] · [[connections/chapters/35-habakkuk/Habakkuk 2|Habakkuk 2:15–16]] · [[connections/chapters/10-2-samuel/2 Samuel 11|2 Samuel 11:13]]

@@ -18,6 +18,10 @@ tags: ["chapter", "ot", "wisdom"]
 
 ![[text/hebrew/19-psalms#Chapter 79]]
 
+## Plain English translation
+
+![[text/english/19-psalms#Chapter 79]]
+
 ## Cross-references
 
 - **79:2** → [[connections/chapters/24-jeremiah/Jeremiah 7|Jeremiah 7:33]]

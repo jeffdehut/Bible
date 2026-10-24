@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "wisdom"]
 
 ![[text/hebrew/20-proverbs#Chapter 16]]
 
+## Plain English translation
+
+![[text/english/20-proverbs#Chapter 16]]
+
 ## Cross-references
 
 - **16:1** → [[connections/chapters/20-proverbs/Proverbs 19|Proverbs 19:21]] · [[connections/chapters/20-proverbs/Proverbs 16|Proverbs 16:9]] · [[connections/chapters/42-luke/Luke 21|Luke 21:14–15]] · [[connections/chapters/50-philippians/Philippians 2|Philippians 2:13]] · [[connections/chapters/20-proverbs/Proverbs 20|Proverbs 20:24]] · [[connections/chapters/40-matthew/Matthew 10|Matthew 10:19–20]] · [[connections/chapters/42-luke/Luke 12|Luke 12:11–12]] · [[connections/chapters/24-jeremiah/Jeremiah 10|Jeremiah 10:23]] · [[connections/chapters/26-ezekiel/Ezekiel 36|Ezekiel 36:26–27]] · [[connections/chapters/20-proverbs/Proverbs 21|Proverbs 21:1]]

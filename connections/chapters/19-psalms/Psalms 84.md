@@ -18,6 +18,10 @@ tags: ["chapter", "ot", "wisdom"]
 
 ![[text/hebrew/19-psalms#Chapter 84]]
 
+## Plain English translation
+
+![[text/english/19-psalms#Chapter 84]]
+
 ## Cross-references
 
 - **84:2** → [[connections/chapters/19-psalms/Psalms 27|Psalms 27:4]] · [[connections/chapters/19-psalms/Psalms 43|Psalms 43:3]] · [[connections/chapters/19-psalms/Psalms 36|Psalms 36:9]] · [[connections/chapters/19-psalms/Psalms 122|Psalms 122:1]] · [[connections/chapters/19-psalms/Psalms 8|Psalms 8:2]] · [[connections/chapters/19-psalms/Psalms 132|Psalms 132:5]] · [[connections/chapters/66-revelation/Revelation 21|Revelation 21:22–23]]

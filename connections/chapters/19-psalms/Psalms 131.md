@@ -18,6 +18,10 @@ tags: ["chapter", "ot", "wisdom"]
 
 ![[text/hebrew/19-psalms#Chapter 131]]
 
+## Plain English translation
+
+![[text/english/19-psalms#Chapter 131]]
+
 ## Cross-references
 
 - **131:1** → [[connections/chapters/45-romans/Romans 12|Romans 12:16]] · [[connections/chapters/19-psalms/Psalms 139|Psalms 139:6]] · [[connections/chapters/18-job/Job 42|Job 42:3]] · [[connections/chapters/40-matthew/Matthew 11|Matthew 11:29]] · [[connections/chapters/19-psalms/Psalms 101|Psalms 101:5]] · [[connections/chapters/24-jeremiah/Jeremiah 45|Jeremiah 45:5]] · [[connections/chapters/52-1-thessalonians/1 Thessalonians 2|1 Thessalonians 2:6–7]]

@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "wisdom"]
 
 ![[text/hebrew/22-song-of-songs#Chapter 1]]
 
+## Plain English translation
+
+![[text/english/22-song-of-songs#Chapter 1]]
+
 ## Cross-references
 
 - **1:3** → [[connections/chapters/21-ecclesiastes/Ecclesiastes 7|Ecclesiastes 7:1]] · [[connections/chapters/22-song-of-songs/Song of Songs 4|Song of Songs 4:10]] · [[connections/chapters/43-john/John 12|John 12:3]] · [[connections/chapters/02-exodus/Exodus 30|Exodus 30:23–28]]

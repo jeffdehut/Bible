@@ -18,6 +18,10 @@ tags: ["chapter", "ot", "wisdom"]
 
 ![[text/hebrew/19-psalms#Chapter 121]]
 
+## Plain English translation
+
+![[text/english/19-psalms#Chapter 121]]
+
 ## Cross-references
 
 - **121:1** → [[connections/chapters/19-psalms/Psalms 120|Psalms 120:1]] · [[connections/chapters/19-psalms/Psalms 123|Psalms 123:1]] · [[connections/chapters/24-jeremiah/Jeremiah 3|Jeremiah 3:23]] · [[connections/chapters/23-isaiah/Isaiah 2|Isaiah 2:3]] · [[connections/chapters/19-psalms/Psalms 2|Psalms 2:6]] · [[connections/chapters/19-psalms/Psalms 87|Psalms 87:1]] · [[connections/chapters/19-psalms/Psalms 68|Psalms 68:16–17]] · [[connections/chapters/19-psalms/Psalms 78|Psalms 78:68]]

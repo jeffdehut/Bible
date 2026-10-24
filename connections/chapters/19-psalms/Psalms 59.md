@@ -18,6 +18,10 @@ tags: ["chapter", "ot", "wisdom"]
 
 ![[text/hebrew/19-psalms#Chapter 59]]
 
+## Plain English translation
+
+![[text/english/19-psalms#Chapter 59]]
+
 ## Cross-references
 
 - **59:2** → [[connections/chapters/09-1-samuel/1 Samuel 19|1 Samuel 19:11–24]] · [[connections/chapters/19-psalms/Psalms 18|Psalms 18:49]]

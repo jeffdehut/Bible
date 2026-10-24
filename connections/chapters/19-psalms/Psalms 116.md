@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "wisdom"]
 
 ![[text/hebrew/19-psalms#Chapter 116]]
 
+## Plain English translation
+
+![[text/english/19-psalms#Chapter 116]]
+
 ## Cross-references
 
 - **116:1** → [[connections/chapters/62-1-john/1 John 4|1 John 4:19]] · [[connections/chapters/19-psalms/Psalms 66|Psalms 66:19–20]] · [[connections/chapters/62-1-john/1 John 5|1 John 5:2–3]] · [[connections/chapters/19-psalms/Psalms 34|Psalms 34:4–5]] · [[connections/chapters/43-john/John 16|John 16:24]] · [[connections/chapters/41-mark/Mark 12|Mark 12:33]] · [[connections/chapters/19-psalms/Psalms 69|Psalms 69:34]] · [[connections/chapters/19-psalms/Psalms 40|Psalms 40:2]] · [[connections/chapters/01-genesis/Genesis 35|Genesis 35:2]] · [[connections/chapters/19-psalms/Psalms 119|Psalms 119:132]]

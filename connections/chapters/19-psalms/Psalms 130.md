@@ -18,6 +18,10 @@ tags: ["chapter", "ot", "wisdom"]
 
 ![[text/hebrew/19-psalms#Chapter 130]]
 
+## Plain English translation
+
+![[text/english/19-psalms#Chapter 130]]
+
 ## Cross-references
 
 - **130:1** → [[connections/chapters/58-hebrews/Hebrews 5|Hebrews 5:7]] · [[connections/chapters/19-psalms/Psalms 42|Psalms 42:8]]

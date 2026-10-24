@@ -18,6 +18,10 @@ tags: ["chapter", "ot", "wisdom"]
 
 ![[text/hebrew/19-psalms#Chapter 132]]
 
+## Plain English translation
+
+![[text/english/19-psalms#Chapter 132]]
+
 ## Cross-references
 
 - **132:5** → [[connections/chapters/49-ephesians/Ephesians 2|Ephesians 2:22]]

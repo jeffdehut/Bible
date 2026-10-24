@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "wisdom"]
 
 ![[text/hebrew/19-psalms#Chapter 115]]
 
+## Plain English translation
+
+![[text/english/19-psalms#Chapter 115]]
+
 ## Cross-references
 
 - **115:1** → [[connections/chapters/19-psalms/Psalms 79|Psalms 79:9–10]] · [[connections/chapters/23-isaiah/Isaiah 48|Isaiah 48:11]] · [[connections/chapters/19-psalms/Psalms 96|Psalms 96:8]] · [[connections/chapters/26-ezekiel/Ezekiel 20|Ezekiel 20:14]]

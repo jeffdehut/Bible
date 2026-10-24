@@ -18,6 +18,10 @@ tags: ["chapter", "ot", "wisdom"]
 
 ![[text/hebrew/19-psalms#Chapter 81]]
 
+## Plain English translation
+
+![[text/english/19-psalms#Chapter 81]]
+
 ## Cross-references
 
 - **81:2** → [[connections/chapters/24-jeremiah/Jeremiah 31|Jeremiah 31:7]]

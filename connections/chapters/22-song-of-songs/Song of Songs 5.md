@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "wisdom"]
 
 ![[text/hebrew/22-song-of-songs#Chapter 5]]
 
+## Plain English translation
+
+![[text/english/22-song-of-songs#Chapter 5]]
+
 ## Cross-references
 
 - **5:1** → [[connections/chapters/22-song-of-songs/Song of Songs 6|Song of Songs 6:2]]

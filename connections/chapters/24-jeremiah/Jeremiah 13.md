@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "prophets"]
 
 ![[text/hebrew/24-jeremiah#Chapter 13]]
 
+## Plain English translation
+
+![[text/english/24-jeremiah#Chapter 13]]
+
 ## Cross-references
 
 - **13:16** → [[connections/chapters/23-isaiah/Isaiah 59|Isaiah 59:9]] · [[connections/chapters/23-isaiah/Isaiah 8|Isaiah 8:22]]

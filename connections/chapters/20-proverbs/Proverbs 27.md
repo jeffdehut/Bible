@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "wisdom"]
 
 ![[text/hebrew/20-proverbs#Chapter 27]]
 
+## Plain English translation
+
+![[text/english/20-proverbs#Chapter 27]]
+
 ## Cross-references
 
 - **27:1** → [[connections/chapters/59-james/James 4|James 4:13–16]] · [[connections/chapters/42-luke/Luke 12|Luke 12:19–20]] · [[connections/chapters/47-2-corinthians/2 Corinthians 6|2 Corinthians 6:2]]

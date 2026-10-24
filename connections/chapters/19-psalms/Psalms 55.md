@@ -18,6 +18,10 @@ tags: ["chapter", "ot", "wisdom"]
 
 ![[text/hebrew/19-psalms#Chapter 55]]
 
+## Plain English translation
+
+![[text/english/19-psalms#Chapter 55]]
+
 ## Cross-references
 
 - **55:2** → [[connections/chapters/60-1-peter/1 Peter 3|1 Peter 3:12]] · [[connections/chapters/19-psalms/Psalms 86|Psalms 86:6]] · [[connections/chapters/19-psalms/Psalms 61|Psalms 61:2]] · [[connections/chapters/19-psalms/Psalms 27|Psalms 27:9]] · [[connections/chapters/19-psalms/Psalms 80|Psalms 80:2]] · [[connections/chapters/19-psalms/Psalms 64|Psalms 64:2]]

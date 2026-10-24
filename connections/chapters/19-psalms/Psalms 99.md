@@ -18,6 +18,10 @@ tags: ["chapter", "ot", "wisdom"]
 
 ![[text/hebrew/19-psalms#Chapter 99]]
 
+## Plain English translation
+
+![[text/english/19-psalms#Chapter 99]]
+
 ## Cross-references
 
 - **99:1** → [[connections/chapters/02-exodus/Exodus 25|Exodus 25:22]] · [[connections/chapters/19-psalms/Psalms 97|Psalms 97:1]]

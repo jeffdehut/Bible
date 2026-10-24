@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "wisdom"]
 
 ![[text/hebrew/20-proverbs#Chapter 26]]
 
+## Plain English translation
+
+![[text/english/20-proverbs#Chapter 26]]
+
 ## Cross-references
 
 - **26:2** → [[connections/chapters/04-numbers/Numbers 23|Numbers 23:8]] · [[connections/chapters/16-nehemiah/Nehemiah 13|Nehemiah 13:2]] · [[connections/chapters/19-psalms/Psalms 109|Psalms 109:28]] · [[connections/chapters/10-2-samuel/2 Samuel 16|2 Samuel 16:12]] · [[connections/chapters/05-deuteronomy/Deuteronomy 23|Deuteronomy 23:5–6]] · [[connections/chapters/09-1-samuel/1 Samuel 17|1 Samuel 17:43]] · [[connections/chapters/09-1-samuel/1 Samuel 14|1 Samuel 14:28–29]] · [[connections/chapters/20-proverbs/Proverbs 27|Proverbs 27:8]]

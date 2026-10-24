@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "wisdom"]
 
 ![[text/hebrew/20-proverbs#Chapter 29]]
 
+## Plain English translation
+
+![[text/english/20-proverbs#Chapter 29]]
+
 ## Cross-references
 
 - **29:1** → [[connections/chapters/20-proverbs/Proverbs 6|Proverbs 6:15]] · [[connections/chapters/20-proverbs/Proverbs 1|Proverbs 1:24–31]] · [[connections/chapters/09-1-samuel/1 Samuel 2|1 Samuel 2:25]] · [[connections/chapters/38-zechariah/Zechariah 7|Zechariah 7:11–14]] · [[connections/chapters/20-proverbs/Proverbs 28|Proverbs 28:18]] · [[connections/chapters/43-john/John 13|John 13:18]] · [[connections/chapters/43-john/John 13|John 13:26]] · [[connections/chapters/43-john/John 6|John 6:70–71]] · [[connections/chapters/16-nehemiah/Nehemiah 9|Nehemiah 9:29]] · [[connections/chapters/24-jeremiah/Jeremiah 35|Jeremiah 35:13–16]]

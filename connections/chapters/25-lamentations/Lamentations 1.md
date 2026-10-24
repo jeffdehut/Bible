@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "prophets"]
 
 ![[text/hebrew/25-lamentations#Chapter 1]]
 
+## Plain English translation
+
+![[text/english/25-lamentations#Chapter 1]]
+
 ## Cross-references
 
 - **1:9** → [[connections/chapters/05-deuteronomy/Deuteronomy 32|Deuteronomy 32:29]]

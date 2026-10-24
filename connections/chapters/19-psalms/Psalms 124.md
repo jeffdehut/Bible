@@ -18,6 +18,10 @@ tags: ["chapter", "ot", "wisdom"]
 
 ![[text/hebrew/19-psalms#Chapter 124]]
 
+## Plain English translation
+
+![[text/english/19-psalms#Chapter 124]]
+
 ## Cross-references
 
 - **124:1** → [[connections/chapters/45-romans/Romans 8|Romans 8:31]] · [[connections/chapters/19-psalms/Psalms 56|Psalms 56:10]] · [[connections/chapters/19-psalms/Psalms 54|Psalms 54:6]] · [[connections/chapters/19-psalms/Psalms 120|Psalms 120:1]] · [[connections/chapters/58-hebrews/Hebrews 13|Hebrews 13:5–6]] · [[connections/chapters/19-psalms/Psalms 118|Psalms 118:6–7]] · [[connections/chapters/19-psalms/Psalms 94|Psalms 94:17]] · [[connections/chapters/19-psalms/Psalms 125|Psalms 125:1]] · [[connections/chapters/23-isaiah/Isaiah 8|Isaiah 8:9–10]] · [[connections/chapters/19-psalms/Psalms 121|Psalms 121:1]] · [[connections/chapters/19-psalms/Psalms 27|Psalms 27:1]] · [[connections/chapters/19-psalms/Psalms 46|Psalms 46:8]] · [[connections/chapters/19-psalms/Psalms 127|Psalms 127:1]] · [[connections/chapters/19-psalms/Psalms 128|Psalms 128:1]] · [[connections/chapters/19-psalms/Psalms 130|Psalms 130:1]] · [[connections/chapters/19-psalms/Psalms 129|Psalms 129:1]] · [[connections/chapters/19-psalms/Psalms 126|Psalms 126:1]] · [[connections/chapters/02-exodus/Exodus 15|Exodus 15:1]] · [[connections/chapters/19-psalms/Psalms 133|Psalms 133:1]]

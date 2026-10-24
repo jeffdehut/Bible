@@ -18,6 +18,10 @@ tags: ["chapter", "ot", "wisdom"]
 
 ![[text/hebrew/19-psalms#Chapter 148]]
 
+## Plain English translation
+
+![[text/english/19-psalms#Chapter 148]]
+
 ## Cross-references
 
 - **148:1** → [[connections/chapters/19-psalms/Psalms 89|Psalms 89:6]] · [[connections/chapters/19-psalms/Psalms 69|Psalms 69:35]] · [[connections/chapters/66-revelation/Revelation 19|Revelation 19:1–6]] · [[connections/chapters/42-luke/Luke 2|Luke 2:13–14]]

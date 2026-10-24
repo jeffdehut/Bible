@@ -18,6 +18,10 @@ tags: ["chapter", "ot", "wisdom"]
 
 ![[text/hebrew/19-psalms#Chapter 85]]
 
+## Plain English translation
+
+![[text/english/19-psalms#Chapter 85]]
+
 ## Cross-references
 
 - **85:2** → [[connections/chapters/24-jeremiah/Jeremiah 30|Jeremiah 30:18]] · [[connections/chapters/19-psalms/Psalms 14|Psalms 14:7]] · [[connections/chapters/26-ezekiel/Ezekiel 39|Ezekiel 39:25]]

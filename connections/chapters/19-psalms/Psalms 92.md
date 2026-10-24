@@ -18,6 +18,10 @@ tags: ["chapter", "ot", "wisdom"]
 
 ![[text/hebrew/19-psalms#Chapter 92]]
 
+## Plain English translation
+
+![[text/english/19-psalms#Chapter 92]]
+
 ## Cross-references
 
 - **92:2** → [[connections/chapters/19-psalms/Psalms 147|Psalms 147:1]] · [[connections/chapters/19-psalms/Psalms 107|Psalms 107:1]] · [[connections/chapters/19-psalms/Psalms 107|Psalms 107:21–22]] · [[connections/chapters/49-ephesians/Ephesians 5|Ephesians 5:19]] · [[connections/chapters/19-psalms/Psalms 135|Psalms 135:3]] · [[connections/chapters/19-psalms/Psalms 33|Psalms 33:1]] · [[connections/chapters/19-psalms/Psalms 73|Psalms 73:28]]

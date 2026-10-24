@@ -18,6 +18,10 @@ tags: ["chapter", "ot", "wisdom"]
 
 ![[text/hebrew/19-psalms#Chapter 143]]
 
+## Plain English translation
+
+![[text/english/19-psalms#Chapter 143]]
+
 ## Cross-references
 
 - **143:1** → [[connections/chapters/19-psalms/Psalms 71|Psalms 71:2]] · [[connections/chapters/19-psalms/Psalms 31|Psalms 31:2]] · [[connections/chapters/19-psalms/Psalms 140|Psalms 140:7]]

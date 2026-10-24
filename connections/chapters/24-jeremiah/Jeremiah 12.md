@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "prophets"]
 
 ![[text/hebrew/24-jeremiah#Chapter 12]]
 
+## Plain English translation
+
+![[text/english/24-jeremiah#Chapter 12]]
+
 ## Cross-references
 
 - **12:1** → [[connections/chapters/39-malachi/Malachi 3|Malachi 3:15]] · [[connections/chapters/19-psalms/Psalms 92|Psalms 92:8]] · [[connections/chapters/19-psalms/Psalms 37|Psalms 37:1]] · [[connections/chapters/19-psalms/Psalms 73|Psalms 73:3–28]] · [[connections/chapters/19-psalms/Psalms 51|Psalms 51:6]] · [[connections/chapters/19-psalms/Psalms 37|Psalms 37:35]]

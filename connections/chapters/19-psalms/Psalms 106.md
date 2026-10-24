@@ -18,6 +18,10 @@ tags: ["chapter", "ot", "wisdom"]
 
 ![[text/hebrew/19-psalms#Chapter 106]]
 
+## Plain English translation
+
+![[text/english/19-psalms#Chapter 106]]
+
 ## Cross-references
 
 - **106:1** → [[connections/chapters/52-1-thessalonians/1 Thessalonians 5|1 Thessalonians 5:18]] · [[connections/chapters/13-1-chronicles/1 Chronicles 16|1 Chronicles 16:34]] · [[connections/chapters/19-psalms/Psalms 105|Psalms 105:1]] · [[connections/chapters/19-psalms/Psalms 136|Psalms 136:1]]

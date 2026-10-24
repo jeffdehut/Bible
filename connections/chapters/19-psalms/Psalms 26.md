@@ -18,6 +18,10 @@ tags: ["chapter", "ot", "wisdom"]
 
 ![[text/hebrew/19-psalms#Chapter 26]]
 
+## Plain English translation
+
+![[text/english/19-psalms#Chapter 26]]
+
 ## Cross-references
 
 - **26:1** → [[connections/chapters/19-psalms/Psalms 7|Psalms 7:9]] · [[connections/chapters/19-psalms/Psalms 28|Psalms 28:7]]

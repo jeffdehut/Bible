@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "wisdom"]
 
 ![[text/hebrew/20-proverbs#Chapter 28]]
 
+## Plain English translation
+
+![[text/english/20-proverbs#Chapter 28]]
+
 ## Cross-references
 
 - **28:1** → [[connections/chapters/05-deuteronomy/Deuteronomy 28|Deuteronomy 28:7]] · [[connections/chapters/19-psalms/Psalms 53|Psalms 53:6]] · [[connections/chapters/23-isaiah/Isaiah 26|Isaiah 26:3–4]] · [[connections/chapters/19-psalms/Psalms 27|Psalms 27:1–2]] · [[connections/chapters/19-psalms/Psalms 112|Psalms 112:7]] · [[connections/chapters/52-1-thessalonians/1 Thessalonians 2|1 Thessalonians 2:2]] · [[connections/chapters/44-acts/Acts 4|Acts 4:13]] · [[connections/chapters/27-daniel/Daniel 6|Daniel 6:11–12]] · [[connections/chapters/44-acts/Acts 14|Acts 14:3]] · [[connections/chapters/24-jeremiah/Jeremiah 20|Jeremiah 20:4]] · [[connections/chapters/03-leviticus/Leviticus 26|Leviticus 26:36]] · [[connections/chapters/27-daniel/Daniel 3|Daniel 3:16–18]] · [[connections/chapters/19-psalms/Psalms 46|Psalms 46:3–4]] · [[connections/chapters/12-2-kings/2 Kings 7|2 Kings 7:6–7]] · [[connections/chapters/05-deuteronomy/Deuteronomy 28|Deuteronomy 28:25]] · [[connections/chapters/12-2-kings/2 Kings 7|2 Kings 7:15]] · [[connections/chapters/23-isaiah/Isaiah 7|Isaiah 7:2]] · [[connections/chapters/02-exodus/Exodus 11|Exodus 11:8]] · [[connections/chapters/03-leviticus/Leviticus 26|Leviticus 26:17]]

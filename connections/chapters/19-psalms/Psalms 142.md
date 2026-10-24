@@ -18,6 +18,10 @@ tags: ["chapter", "ot", "wisdom"]
 
 ![[text/hebrew/19-psalms#Chapter 142]]
 
+## Plain English translation
+
+![[text/english/19-psalms#Chapter 142]]
+
 ## Cross-references
 
 - **142:2** → [[connections/chapters/19-psalms/Psalms 30|Psalms 30:9]] · [[connections/chapters/19-psalms/Psalms 57|Psalms 57:2]] · [[connections/chapters/19-psalms/Psalms 141|Psalms 141:1]]

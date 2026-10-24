@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "wisdom"]
 
 ![[text/hebrew/20-proverbs#Chapter 12]]
 
+## Plain English translation
+
+![[text/english/20-proverbs#Chapter 12]]
+
 ## Cross-references
 
 - **12:1** → [[connections/chapters/20-proverbs/Proverbs 15|Proverbs 15:10]] · [[connections/chapters/20-proverbs/Proverbs 9|Proverbs 9:7–8]] · [[connections/chapters/19-psalms/Psalms 119|Psalms 119:97–100]] · [[connections/chapters/20-proverbs/Proverbs 18|Proverbs 18:1]] · [[connections/chapters/20-proverbs/Proverbs 5|Proverbs 5:12–13]] · [[connections/chapters/20-proverbs/Proverbs 8|Proverbs 8:17]] · [[connections/chapters/19-psalms/Psalms 32|Psalms 32:9]] · [[connections/chapters/19-psalms/Psalms 92|Psalms 92:7]] · [[connections/chapters/20-proverbs/Proverbs 2|Proverbs 2:10–11]] · [[connections/chapters/53-2-thessalonians/2 Thessalonians 2|2 Thessalonians 2:10]] · [[connections/chapters/23-isaiah/Isaiah 1|Isaiah 1:3]] · [[connections/chapters/20-proverbs/Proverbs 8|Proverbs 8:32]]

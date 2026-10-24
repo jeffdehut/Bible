@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "prophets"]
 
 ![[text/hebrew/24-jeremiah#Chapter 9]]
 
+## Plain English translation
+
+![[text/english/24-jeremiah#Chapter 9]]
+
 ## Cross-references
 
 - **9:3** → [[connections/chapters/33-micah/Micah 7|Micah 7:5–6]]

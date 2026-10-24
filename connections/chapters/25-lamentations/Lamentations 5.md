@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "prophets"]
 
 ![[text/hebrew/25-lamentations#Chapter 5]]
 
+## Plain English translation
+
+![[text/english/25-lamentations#Chapter 5]]
+
 ## Cross-references
 
 - **5:7** → [[connections/chapters/24-jeremiah/Jeremiah 16|Jeremiah 16:12]] · [[connections/chapters/24-jeremiah/Jeremiah 31|Jeremiah 31:29]] · [[connections/chapters/26-ezekiel/Ezekiel 18|Ezekiel 18:2]] · [[connections/chapters/24-jeremiah/Jeremiah 14|Jeremiah 14:20]] · [[connections/chapters/02-exodus/Exodus 20|Exodus 20:5]]

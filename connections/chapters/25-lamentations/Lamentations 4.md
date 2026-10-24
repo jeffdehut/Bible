@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "prophets"]
 
 ![[text/hebrew/25-lamentations#Chapter 4]]
 
+## Plain English translation
+
+![[text/english/25-lamentations#Chapter 4]]
+
 ## Cross-references
 
 *No cross-references with at least 8 votes.*

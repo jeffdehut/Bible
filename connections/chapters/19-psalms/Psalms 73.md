@@ -18,6 +18,10 @@ tags: ["chapter", "ot", "wisdom"]
 
 ![[text/hebrew/19-psalms#Chapter 73]]
 
+## Plain English translation
+
+![[text/english/19-psalms#Chapter 73]]
+
 ## Cross-references
 
 - **73:1** → [[connections/chapters/40-matthew/Matthew 5|Matthew 5:8]] · [[connections/chapters/19-psalms/Psalms 51|Psalms 51:12]] · [[connections/chapters/42-luke/Luke 12|Luke 12:32]] · [[connections/chapters/19-psalms/Psalms 84|Psalms 84:12]]

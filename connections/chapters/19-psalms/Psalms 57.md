@@ -18,6 +18,10 @@ tags: ["chapter", "ot", "wisdom"]
 
 ![[text/hebrew/19-psalms#Chapter 57]]
 
+## Plain English translation
+
+![[text/english/19-psalms#Chapter 57]]
+
 ## Cross-references
 
 - **57:2** → [[connections/chapters/19-psalms/Psalms 91|Psalms 91:4]] · [[connections/chapters/19-psalms/Psalms 36|Psalms 36:8]] · [[connections/chapters/19-psalms/Psalms 17|Psalms 17:7–8]] · [[connections/chapters/19-psalms/Psalms 9|Psalms 9:11]] · [[connections/chapters/19-psalms/Psalms 63|Psalms 63:8]] · [[connections/chapters/66-revelation/Revelation 21|Revelation 21:4]] · [[connections/chapters/19-psalms/Psalms 61|Psalms 61:5]] · [[connections/chapters/19-psalms/Psalms 69|Psalms 69:14–17]] · [[connections/chapters/59-james/James 5|James 5:10–11]] · [[connections/chapters/23-isaiah/Isaiah 26|Isaiah 26:20]] · [[connections/chapters/08-ruth/Ruth 2|Ruth 2:12]] · [[connections/chapters/19-psalms/Psalms 91|Psalms 91:1]] · [[connections/chapters/19-psalms/Psalms 56|Psalms 56:2]] · [[connections/chapters/66-revelation/Revelation 7|Revelation 7:14]] · [[connections/chapters/19-psalms/Psalms 91|Psalms 91:9]] · [[connections/chapters/19-psalms/Psalms 13|Psalms 13:6]] · [[connections/chapters/23-isaiah/Isaiah 50|Isaiah 50:10]] · [[connections/chapters/19-psalms/Psalms 2|Psalms 2:12]] · [[connections/chapters/19-psalms/Psalms 119|Psalms 119:76–77]]

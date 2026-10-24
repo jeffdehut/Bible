@@ -18,6 +18,10 @@ tags: ["chapter", "ot", "wisdom"]
 
 ![[text/hebrew/19-psalms#Chapter 77]]
 
+## Plain English translation
+
+![[text/english/19-psalms#Chapter 77]]
+
 ## Cross-references
 
 - **77:2** → [[connections/chapters/19-psalms/Psalms 3|Psalms 3:5]]

@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "wisdom"]
 
 ![[text/hebrew/19-psalms#Chapter 96]]
 
+## Plain English translation
+
+![[text/english/19-psalms#Chapter 96]]
+
 ## Cross-references
 
 - **96:1** → [[connections/chapters/13-1-chronicles/1 Chronicles 16|1 Chronicles 16:23–33]] · [[connections/chapters/19-psalms/Psalms 98|Psalms 98:1]] · [[connections/chapters/19-psalms/Psalms 149|Psalms 149:1]] · [[connections/chapters/19-psalms/Psalms 33|Psalms 33:3]] · [[connections/chapters/66-revelation/Revelation 14|Revelation 14:3]] · [[connections/chapters/19-psalms/Psalms 67|Psalms 67:4–7]] · [[connections/chapters/66-revelation/Revelation 5|Revelation 5:9]]

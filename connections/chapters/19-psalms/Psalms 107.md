@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "wisdom"]
 
 ![[text/hebrew/19-psalms#Chapter 107]]
 
+## Plain English translation
+
+![[text/english/19-psalms#Chapter 107]]
+
 ## Cross-references
 
 - **107:1** → [[connections/chapters/13-1-chronicles/1 Chronicles 16|1 Chronicles 16:34]] · [[connections/chapters/19-psalms/Psalms 106|Psalms 106:1]] · [[connections/chapters/14-2-chronicles/2 Chronicles 7|2 Chronicles 7:3]] · [[connections/chapters/19-psalms/Psalms 105|Psalms 105:1]] · [[connections/chapters/19-psalms/Psalms 100|Psalms 100:5]] · [[connections/chapters/42-luke/Luke 1|Luke 1:50]] · [[connections/chapters/19-psalms/Psalms 118|Psalms 118:1]] · [[connections/chapters/14-2-chronicles/2 Chronicles 7|2 Chronicles 7:6]] · [[connections/chapters/19-psalms/Psalms 136|Psalms 136:1–26]] · [[connections/chapters/14-2-chronicles/2 Chronicles 20|2 Chronicles 20:21]] · [[connections/chapters/19-psalms/Psalms 119|Psalms 119:68]] · [[connections/chapters/13-1-chronicles/1 Chronicles 16|1 Chronicles 16:41]] · [[connections/chapters/19-psalms/Psalms 103|Psalms 103:17]] · [[connections/chapters/14-2-chronicles/2 Chronicles 5|2 Chronicles 5:13]] · [[connections/chapters/40-matthew/Matthew 19|Matthew 19:17]]

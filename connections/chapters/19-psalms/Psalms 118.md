@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "wisdom"]
 
 ![[text/hebrew/19-psalms#Chapter 118]]
 
+## Plain English translation
+
+![[text/english/19-psalms#Chapter 118]]
+
 ## Cross-references
 
 - **118:1** → [[connections/chapters/13-1-chronicles/1 Chronicles 16|1 Chronicles 16:34]] · [[connections/chapters/19-psalms/Psalms 107|Psalms 107:1]] · [[connections/chapters/19-psalms/Psalms 106|Psalms 106:1]] · [[connections/chapters/24-jeremiah/Jeremiah 33|Jeremiah 33:11]] · [[connections/chapters/19-psalms/Psalms 118|Psalms 118:29]] · [[connections/chapters/13-1-chronicles/1 Chronicles 16|1 Chronicles 16:8]] · [[connections/chapters/19-psalms/Psalms 103|Psalms 103:17]] · [[connections/chapters/19-psalms/Psalms 136|Psalms 136:1]]

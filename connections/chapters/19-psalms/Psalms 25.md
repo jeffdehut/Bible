@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "wisdom"]
 
 ![[text/hebrew/19-psalms#Chapter 25]]
 
+## Plain English translation
+
+![[text/english/19-psalms#Chapter 25]]
+
 ## Cross-references
 
 - **25:1** → [[connections/chapters/19-psalms/Psalms 143|Psalms 143:8]] · [[connections/chapters/19-psalms/Psalms 86|Psalms 86:4]] · [[connections/chapters/19-psalms/Psalms 24|Psalms 24:4]] · [[connections/chapters/09-1-samuel/1 Samuel 1|1 Samuel 1:15]] · [[connections/chapters/25-lamentations/Lamentations 3|Lamentations 3:41]]

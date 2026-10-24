@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "wisdom"]
 
 ![[text/hebrew/20-proverbs#Chapter 15]]
 
+## Plain English translation
+
+![[text/english/20-proverbs#Chapter 15]]
+
 ## Cross-references
 
 - **15:1** → [[connections/chapters/20-proverbs/Proverbs 10|Proverbs 10:12]] · [[connections/chapters/20-proverbs/Proverbs 25|Proverbs 25:15]] · [[connections/chapters/20-proverbs/Proverbs 15|Proverbs 15:18]] · [[connections/chapters/20-proverbs/Proverbs 29|Proverbs 29:22]] · [[connections/chapters/20-proverbs/Proverbs 28|Proverbs 28:25]] · [[connections/chapters/07-judges/Judges 8|Judges 8:1–3]] · [[connections/chapters/09-1-samuel/1 Samuel 25|1 Samuel 25:10–13]] · [[connections/chapters/11-1-kings/1 Kings 12|1 Kings 12:13–16]]

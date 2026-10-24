@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "prophets"]
 
 ![[text/hebrew/23-isaiah#Chapter 18]]
 
+## Plain English translation
+
+![[text/english/23-isaiah#Chapter 18]]
+
 ## Cross-references
 
 - **18:1** → [[connections/chapters/36-zephaniah/Zephaniah 3|Zephaniah 3:10]]

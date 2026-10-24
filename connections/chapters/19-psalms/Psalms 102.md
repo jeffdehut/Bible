@@ -18,6 +18,10 @@ tags: ["chapter", "ot", "wisdom"]
 
 ![[text/hebrew/19-psalms#Chapter 102]]
 
+## Plain English translation
+
+![[text/english/19-psalms#Chapter 102]]
+
 ## Cross-references
 
 - **102:2** → [[connections/chapters/19-psalms/Psalms 18|Psalms 18:7]] · [[connections/chapters/19-psalms/Psalms 130|Psalms 130:1–2]]

@@ -18,6 +18,10 @@ tags: ["chapter", "ot", "wisdom"]
 
 ![[text/hebrew/19-psalms#Chapter 51]]
 
+## Plain English translation
+
+![[text/english/19-psalms#Chapter 51]]
+
 ## Cross-references
 
 - **51:3** → [[connections/chapters/44-acts/Acts 3|Acts 3:19]] · [[connections/chapters/23-isaiah/Isaiah 44|Isaiah 44:22]] · [[connections/chapters/23-isaiah/Isaiah 43|Isaiah 43:25]] · [[connections/chapters/19-psalms/Psalms 51|Psalms 51:11]] · [[connections/chapters/51-colossians/Colossians 2|Colossians 2:14]] · [[connections/chapters/19-psalms/Psalms 69|Psalms 69:17]] · [[connections/chapters/10-2-samuel/2 Samuel 11|2 Samuel 11:2–12:13]] · [[connections/chapters/49-ephesians/Ephesians 1|Ephesians 1:6–8]] · [[connections/chapters/19-psalms/Psalms 106|Psalms 106:45]] · [[connections/chapters/19-psalms/Psalms 4|Psalms 4:2]] · [[connections/chapters/19-psalms/Psalms 25|Psalms 25:6–7]] · [[connections/chapters/45-romans/Romans 5|Romans 5:20–21]] · [[connections/chapters/02-exodus/Exodus 34|Exodus 34:6–7]] · [[connections/chapters/25-lamentations/Lamentations 3|Lamentations 3:32]] · [[connections/chapters/49-ephesians/Ephesians 2|Ephesians 2:4–7]] · [[connections/chapters/33-micah/Micah 7|Micah 7:18–19]] · [[connections/chapters/19-psalms/Psalms 119|Psalms 119:124]] · [[connections/chapters/04-numbers/Numbers 14|Numbers 14:18–19]] · [[connections/chapters/19-psalms/Psalms 40|Psalms 40:12]] · [[connections/chapters/19-psalms/Psalms 109|Psalms 109:21]] · [[connections/chapters/19-psalms/Psalms 5|Psalms 5:8]]

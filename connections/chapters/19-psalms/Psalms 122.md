@@ -18,6 +18,10 @@ tags: ["chapter", "ot", "wisdom"]
 
 ![[text/hebrew/19-psalms#Chapter 122]]
 
+## Plain English translation
+
+![[text/english/19-psalms#Chapter 122]]
+
 ## Cross-references
 
 - **122:1** → [[connections/chapters/19-psalms/Psalms 84|Psalms 84:11]] · [[connections/chapters/33-micah/Micah 4|Micah 4:2]] · [[connections/chapters/23-isaiah/Isaiah 2|Isaiah 2:3]] · [[connections/chapters/19-psalms/Psalms 84|Psalms 84:2–3]] · [[connections/chapters/19-psalms/Psalms 128|Psalms 128:1]] · [[connections/chapters/19-psalms/Psalms 134|Psalms 134:1]] · [[connections/chapters/19-psalms/Psalms 120|Psalms 120:1]] · [[connections/chapters/38-zechariah/Zechariah 8|Zechariah 8:21–23]] · [[connections/chapters/19-psalms/Psalms 121|Psalms 121:1]] · [[connections/chapters/19-psalms/Psalms 123|Psalms 123:1]] · [[connections/chapters/19-psalms/Psalms 119|Psalms 119:111]] · [[connections/chapters/19-psalms/Psalms 55|Psalms 55:15]] · [[connections/chapters/24-jeremiah/Jeremiah 31|Jeremiah 31:6]]

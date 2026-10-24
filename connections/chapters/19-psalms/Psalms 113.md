@@ -18,6 +18,10 @@ tags: ["chapter", "ot", "wisdom"]
 
 ![[text/hebrew/19-psalms#Chapter 113]]
 
+## Plain English translation
+
+![[text/english/19-psalms#Chapter 113]]
+
 ## Cross-references
 
 - **113:3** → [[connections/chapters/39-malachi/Malachi 1|Malachi 1:11]] · [[connections/chapters/19-psalms/Psalms 18|Psalms 18:4]] · [[connections/chapters/19-psalms/Psalms 86|Psalms 86:9]] · [[connections/chapters/23-isaiah/Isaiah 59|Isaiah 59:19]] · [[connections/chapters/23-isaiah/Isaiah 49|Isaiah 49:13]] · [[connections/chapters/19-psalms/Psalms 48|Psalms 48:11]] · [[connections/chapters/19-psalms/Psalms 72|Psalms 72:11]] · [[connections/chapters/66-revelation/Revelation 11|Revelation 11:15]] · [[connections/chapters/19-psalms/Psalms 72|Psalms 72:17–19]] · [[connections/chapters/35-habakkuk/Habakkuk 2|Habakkuk 2:14]] · [[connections/chapters/19-psalms/Psalms 50|Psalms 50:1]] · [[connections/chapters/45-romans/Romans 15|Romans 15:9–10]] · [[connections/chapters/23-isaiah/Isaiah 42|Isaiah 42:10–12]] · [[connections/chapters/23-isaiah/Isaiah 24|Isaiah 24:16]]

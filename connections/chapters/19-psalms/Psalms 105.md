@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "wisdom"]
 
 ![[text/hebrew/19-psalms#Chapter 105]]
 
+## Plain English translation
+
+![[text/english/19-psalms#Chapter 105]]
+
 ## Cross-references
 
 - **105:1** → [[connections/chapters/23-isaiah/Isaiah 12|Isaiah 12:4]] · [[connections/chapters/45-romans/Romans 10|Romans 10:13]] · [[connections/chapters/19-psalms/Psalms 106|Psalms 106:1]] · [[connections/chapters/19-psalms/Psalms 145|Psalms 145:11–12]] · [[connections/chapters/13-1-chronicles/1 Chronicles 16|1 Chronicles 16:34]] · [[connections/chapters/19-psalms/Psalms 145|Psalms 145:4–6]] · [[connections/chapters/19-psalms/Psalms 96|Psalms 96:3]] · [[connections/chapters/13-1-chronicles/1 Chronicles 29|1 Chronicles 29:13]] · [[connections/chapters/27-daniel/Daniel 3|Daniel 3:31–33]] · [[connections/chapters/19-psalms/Psalms 136|Psalms 136:1–3]] · [[connections/chapters/44-acts/Acts 9|Acts 9:14]]

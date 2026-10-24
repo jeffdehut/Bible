@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "wisdom"]
 
 ![[text/hebrew/20-proverbs#Chapter 23]]
 
+## Plain English translation
+
+![[text/english/20-proverbs#Chapter 23]]
+
 ## Cross-references
 
 - **23:2** → [[connections/chapters/50-philippians/Philippians 3|Philippians 3:19]] · [[connections/chapters/40-matthew/Matthew 18|Matthew 18:8–9]] · [[connections/chapters/46-1-corinthians/1 Corinthians 9|1 Corinthians 9:27]]

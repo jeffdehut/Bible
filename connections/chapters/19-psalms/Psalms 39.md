@@ -18,6 +18,10 @@ tags: ["chapter", "ot", "wisdom"]
 
 ![[text/hebrew/19-psalms#Chapter 39]]
 
+## Plain English translation
+
+![[text/english/19-psalms#Chapter 39]]
+
 ## Cross-references
 
 - **39:2** → [[connections/chapters/20-proverbs/Proverbs 21|Proverbs 21:23]] · [[connections/chapters/19-psalms/Psalms 141|Psalms 141:3]] · [[connections/chapters/59-james/James 1|James 1:26]] · [[connections/chapters/19-psalms/Psalms 119|Psalms 119:9]] · [[connections/chapters/33-micah/Micah 7|Micah 7:5–6]] · [[connections/chapters/19-psalms/Psalms 34|Psalms 34:14]] · [[connections/chapters/59-james/James 3|James 3:2–8]] · [[connections/chapters/20-proverbs/Proverbs 18|Proverbs 18:21]] · [[connections/chapters/58-hebrews/Hebrews 2|Hebrews 2:1]] · [[connections/chapters/20-proverbs/Proverbs 4|Proverbs 4:26–27]] · [[connections/chapters/11-1-kings/1 Kings 2|1 Kings 2:4]] · [[connections/chapters/19-psalms/Psalms 12|Psalms 12:5]] · [[connections/chapters/51-colossians/Colossians 4|Colossians 4:5]] · [[connections/chapters/18-job/Job 2|Job 2:10]] · [[connections/chapters/19-psalms/Psalms 62|Psalms 62:2]] · [[connections/chapters/30-amos/Amos 5|Amos 5:13]] · [[connections/chapters/19-psalms/Psalms 77|Psalms 77:2]]

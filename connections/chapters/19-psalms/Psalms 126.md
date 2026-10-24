@@ -18,6 +18,10 @@ tags: ["chapter", "ot", "wisdom"]
 
 ![[text/hebrew/19-psalms#Chapter 126]]
 
+## Plain English translation
+
+![[text/english/19-psalms#Chapter 126]]
+
 ## Cross-references
 
 - **126:1** → [[connections/chapters/28-hosea/Hosea 6|Hosea 6:11]] · [[connections/chapters/29-joel/Joel 4|Joel 4:1]] · [[connections/chapters/19-psalms/Psalms 85|Psalms 85:2]] · [[connections/chapters/24-jeremiah/Jeremiah 31|Jeremiah 31:8–10]] · [[connections/chapters/44-acts/Acts 12|Acts 12:9]] · [[connections/chapters/19-psalms/Psalms 120|Psalms 120:1]] · [[connections/chapters/19-psalms/Psalms 123|Psalms 123:1]] · [[connections/chapters/19-psalms/Psalms 53|Psalms 53:7]] · [[connections/chapters/18-job/Job 42|Job 42:10]] · [[connections/chapters/19-psalms/Psalms 124|Psalms 124:1]] · [[connections/chapters/19-psalms/Psalms 125|Psalms 125:1]] · [[connections/chapters/19-psalms/Psalms 121|Psalms 121:1]] · [[connections/chapters/19-psalms/Psalms 122|Psalms 122:1]] · [[connections/chapters/15-ezra/Ezra 1|Ezra 1:1–11]] · [[connections/chapters/42-luke/Luke 24|Luke 24:41]]

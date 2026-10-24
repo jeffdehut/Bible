@@ -18,6 +18,10 @@ tags: ["chapter", "ot", "wisdom"]
 
 ![[text/hebrew/19-psalms#Chapter 123]]
 
+## Plain English translation
+
+![[text/english/19-psalms#Chapter 123]]
+
 ## Cross-references
 
 - **123:1** → [[connections/chapters/19-psalms/Psalms 121|Psalms 121:1]] · [[connections/chapters/19-psalms/Psalms 141|Psalms 141:8]] · [[connections/chapters/19-psalms/Psalms 25|Psalms 25:15]] · [[connections/chapters/19-psalms/Psalms 2|Psalms 2:4]] · [[connections/chapters/19-psalms/Psalms 11|Psalms 11:4]] · [[connections/chapters/42-luke/Luke 18|Luke 18:13]] · [[connections/chapters/40-matthew/Matthew 6|Matthew 6:9]] · [[connections/chapters/23-isaiah/Isaiah 57|Isaiah 57:15]] · [[connections/chapters/19-psalms/Psalms 125|Psalms 125:1]] · [[connections/chapters/19-psalms/Psalms 120|Psalms 120:1]] · [[connections/chapters/19-psalms/Psalms 132|Psalms 132:1]]

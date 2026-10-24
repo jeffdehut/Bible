@@ -18,6 +18,10 @@ tags: ["chapter", "ot", "wisdom"]
 
 ![[text/hebrew/19-psalms#Chapter 134]]
 
+## Plain English translation
+
+![[text/english/19-psalms#Chapter 134]]
+
 ## Cross-references
 
 - **134:1** → [[connections/chapters/19-psalms/Psalms 120|Psalms 120:1]] · [[connections/chapters/13-1-chronicles/1 Chronicles 9|1 Chronicles 9:33]] · [[connections/chapters/19-psalms/Psalms 135|Psalms 135:1–2]]

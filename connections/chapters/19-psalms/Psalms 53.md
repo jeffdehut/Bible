@@ -18,6 +18,10 @@ tags: ["chapter", "ot", "wisdom"]
 
 ![[text/hebrew/19-psalms#Chapter 53]]
 
+## Plain English translation
+
+![[text/english/19-psalms#Chapter 53]]
+
 ## Cross-references
 
 - **53:2** → [[connections/chapters/19-psalms/Psalms 10|Psalms 10:4]] · [[connections/chapters/19-psalms/Psalms 14|Psalms 14:1–7]]

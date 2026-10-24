@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "wisdom"]
 
 ![[text/hebrew/22-song-of-songs#Chapter 3]]
 
+## Plain English translation
+
+![[text/english/22-song-of-songs#Chapter 3]]
+
 ## Cross-references
 
 - **3:1** → [[connections/chapters/60-1-peter/1 Peter 1|1 Peter 1:8]] · [[connections/chapters/22-song-of-songs/Song of Songs 5|Song of Songs 5:6]] · [[connections/chapters/22-song-of-songs/Song of Songs 1|Song of Songs 1:7]] · [[connections/chapters/23-isaiah/Isaiah 26|Isaiah 26:9]] · [[connections/chapters/23-isaiah/Isaiah 55|Isaiah 55:6]]

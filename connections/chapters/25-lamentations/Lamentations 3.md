@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "prophets"]
 
 ![[text/hebrew/25-lamentations#Chapter 3]]
 
+## Plain English translation
+
+![[text/english/25-lamentations#Chapter 3]]
+
 ## Cross-references
 
 - **3:22** → [[connections/chapters/19-psalms/Psalms 86|Psalms 86:15]] · [[connections/chapters/42-luke/Luke 1|Luke 1:50]] · [[connections/chapters/16-nehemiah/Nehemiah 9|Nehemiah 9:31]] · [[connections/chapters/33-micah/Micah 7|Micah 7:18–19]] · [[connections/chapters/39-malachi/Malachi 3|Malachi 3:6]] · [[connections/chapters/19-psalms/Psalms 78|Psalms 78:38]] · [[connections/chapters/19-psalms/Psalms 106|Psalms 106:45]] · [[connections/chapters/19-psalms/Psalms 77|Psalms 77:9]] · [[connections/chapters/15-ezra/Ezra 9|Ezra 9:8–9]] · [[connections/chapters/26-ezekiel/Ezekiel 20|Ezekiel 20:8–9]] · [[connections/chapters/15-ezra/Ezra 9|Ezra 9:13–15]] · [[connections/chapters/26-ezekiel/Ezekiel 20|Ezekiel 20:21–22]] · [[connections/chapters/26-ezekiel/Ezekiel 20|Ezekiel 20:13–14]]

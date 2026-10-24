@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "wisdom"]
 
 ![[text/hebrew/19-psalms#Chapter 140]]
 
+## Plain English translation
+
+![[text/english/19-psalms#Chapter 140]]
+
 ## Cross-references
 
 - **140:2** → [[connections/chapters/19-psalms/Psalms 18|Psalms 18:49]] · [[connections/chapters/19-psalms/Psalms 71|Psalms 71:4]] · [[connections/chapters/19-psalms/Psalms 140|Psalms 140:5]] · [[connections/chapters/35-habakkuk/Habakkuk 1|Habakkuk 1:2–3]]

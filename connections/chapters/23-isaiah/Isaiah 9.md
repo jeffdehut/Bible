@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "prophets"]
 
 ![[text/hebrew/23-isaiah#Chapter 9]]
 
+## Plain English translation
+
+![[text/english/23-isaiah#Chapter 9]]
+
 ## Cross-references
 
 - **9:1** → [[connections/chapters/40-matthew/Matthew 4|Matthew 4:16]] · [[connections/chapters/49-ephesians/Ephesians 5|Ephesians 5:8]] · [[connections/chapters/43-john/John 8|John 8:12]] · [[connections/chapters/43-john/John 12|John 12:46]] · [[connections/chapters/42-luke/Luke 1|Luke 1:78–79]] · [[connections/chapters/60-1-peter/1 Peter 2|1 Peter 2:9]] · [[connections/chapters/62-1-john/1 John 1|1 John 1:5–7]] · [[connections/chapters/23-isaiah/Isaiah 60|Isaiah 60:1–3]] · [[connections/chapters/42-luke/Luke 2|Luke 2:32]] · [[connections/chapters/49-ephesians/Ephesians 5|Ephesians 5:13–14]] · [[connections/chapters/23-isaiah/Isaiah 60|Isaiah 60:19]] · [[connections/chapters/19-psalms/Psalms 107|Psalms 107:14]] · [[connections/chapters/19-psalms/Psalms 23|Psalms 23:4]] · [[connections/chapters/23-isaiah/Isaiah 50|Isaiah 50:10]] · [[connections/chapters/19-psalms/Psalms 107|Psalms 107:10]] · [[connections/chapters/43-john/John 12|John 12:35]] · [[connections/chapters/33-micah/Micah 7|Micah 7:8–9]] · [[connections/chapters/23-isaiah/Isaiah 8|Isaiah 8:23]] · [[connections/chapters/30-amos/Amos 5|Amos 5:8]] · [[connections/chapters/18-job/Job 10|Job 10:21]]

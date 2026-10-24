@@ -18,6 +18,10 @@ tags: ["chapter", "ot", "wisdom"]
 
 ![[text/hebrew/19-psalms#Chapter 149]]
 
+## Plain English translation
+
+![[text/english/19-psalms#Chapter 149]]
+
 ## Cross-references
 
 - **149:1** → [[connections/chapters/19-psalms/Psalms 33|Psalms 33:3]] · [[connections/chapters/66-revelation/Revelation 5|Revelation 5:9]] · [[connections/chapters/19-psalms/Psalms 148|Psalms 148:1]] · [[connections/chapters/58-hebrews/Hebrews 2|Hebrews 2:12]]

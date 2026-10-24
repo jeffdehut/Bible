@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "wisdom"]
 
 ![[text/hebrew/20-proverbs#Chapter 18]]
 
+## Plain English translation
+
+![[text/english/20-proverbs#Chapter 18]]
+
 ## Cross-references
 
 - **18:1** → [[connections/chapters/49-ephesians/Ephesians 5|Ephesians 5:15–17]] · [[connections/chapters/20-proverbs/Proverbs 2|Proverbs 2:1–6]] · [[connections/chapters/20-proverbs/Proverbs 20|Proverbs 20:3]] · [[connections/chapters/24-jeremiah/Jeremiah 15|Jeremiah 15:17]] · [[connections/chapters/20-proverbs/Proverbs 24|Proverbs 24:21]] · [[connections/chapters/65-jude/Jude 1|Jude 1:19]] · [[connections/chapters/41-mark/Mark 1|Mark 1:35]]

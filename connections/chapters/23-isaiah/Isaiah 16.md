@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "prophets"]
 
 ![[text/hebrew/23-isaiah#Chapter 16]]
 
+## Plain English translation
+
+![[text/english/23-isaiah#Chapter 16]]
+
 ## Cross-references
 
 - **16:5** → [[connections/chapters/27-daniel/Daniel 7|Daniel 7:14]]

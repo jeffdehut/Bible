@@ -18,6 +18,10 @@ tags: ["chapter", "ot", "wisdom"]
 
 ![[text/hebrew/19-psalms#Chapter 74]]
 
+## Plain English translation
+
+![[text/english/19-psalms#Chapter 74]]
+
 ## Cross-references
 
 - **74:1** → [[connections/chapters/05-deuteronomy/Deuteronomy 29|Deuteronomy 29:19]] · [[connections/chapters/19-psalms/Psalms 100|Psalms 100:3]] · [[connections/chapters/19-psalms/Psalms 79|Psalms 79:13]]

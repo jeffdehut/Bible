@@ -5731,7 +5731,7 @@
 
 **5** The Lord is at your right hand;[^110-11] he will shatter kings on the day of his wrath.
 
-**6** He will judge among the nations and fill them with corpses;[^110-12] he will shatter heads across the wide earth.[^110-13]
+**6** He will judge among the nations, heaping up corpses;[^110-12] he will shatter heads across the wide earth.[^110-13]
 
 **7** He will drink from the stream by the way; so he will lift up his head.[^110-14]
 
@@ -5746,7 +5746,7 @@
 [^110-9]: Literally "From the womb of the dawn, to you (is) the dew of your youth": perhaps the king's youthful strength is renewed each day, like the dew at dawn. Or "your young men will come to you like the dew". The same consonants can be read "I have begotten you", as in 2:7. The Septuagint reads the verse "With you is rule on the day of your power, in the splendor of the holy ones; from the womb, before the morning star, I have begotten you."
 [^110-10]: Hebrew *al-divrati malki-tsedeq*. *Al-divrati* probably means "according to the manner of"; it can also mean "on account of", giving "on my account, a righteous king". Melchizedek was king of Salem and "priest of God Most High" (Genesis 14:18–20); his name means "my king is righteous" or "king of righteousness". The Septuagint reads "according to the order of Melchizedek", the wording quoted in Hebrews 5:6, 10; 6:20, and Hebrews 7 explains the verse at length.
 [^110-11]: In verse 1 the king sits at Yahweh's right hand; here the Lord stands at the king's right hand, as his protector in battle. In verses 5–7 it is not always clear whether the subject is the Lord or the king.
-[^110-12]: Literally "he judges among the nations; full of corpses". Or "he fills (the valleys) with corpses".
+[^110-12]: Literally "he judges among the nations; full of corpses". Or "he fills (the land) with corpses".
 [^110-13]: Literally "he shatters head over a wide land". Or "he shatters the ruler of a vast land".
 [^110-14]: That is, refreshed, he stands tall in victory.
 
@@ -5803,7 +5803,7 @@
 
 **8** His heart is secure; he will not be afraid, until he looks in triumph on his adversaries.[^112-11]
 
-**9** He has scattered his gifts; he has given to the needy. His righteousness endures forever;[^112-12] his horn[^112-13] will be lifted high in honor.
+**9** He has scattered abroad; he has given to the needy. His righteousness endures forever;[^112-12] his horn[^112-13] will be lifted high in honor.
 
 **10** The wicked will see it and be angry; he will grind his teeth and melt away. The desire of the wicked will perish.
 
@@ -5974,10 +5974,10 @@
 [^116-1]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles. *I love Yahweh*: literally "I love, for Yahweh hears". The Septuagint divides this psalm into two, verses 1–9 and verses 10–19 (see the note on 114:1).
 [^116-2]: Literally "my voice, my supplications".
 [^116-3]: Literally "in my days".
-[^116-4]: Hebrew *Sheol*, the realm of the dead. *The distress*: or "the straits", "the pangs". Compare 18:5–6 (18:4–5 in English).
+[^116-4]: Hebrew *Sheol*, the realm of the dead. *The distress*: or "the straits", "the pangs". Compare 18:5–6 (18:4–5 in most English Bibles).
 [^116-5]: Hebrew *nephesh*: soul, life, self. Also in verses 7 and 8.
-[^116-6]: Literally "to your resting places". The psalmist speaks to his own soul (*nephesh*), as in 42:6 (42:5 in English).
-[^116-7]: Literally "in the lands of the living". Compare 56:14 (56:13 in English).
+[^116-6]: Literally "to your resting places". The psalmist speaks to his own soul (*nephesh*), as in 42:6 (42:5 in most English Bibles).
+[^116-7]: Literally "in the lands of the living". Compare 56:14 (56:13 in most English Bibles).
 [^116-8]: Literally "I believed, for I speak". Or "I believed, even when I spoke". The Septuagint reads "I believed, therefore I spoke", the wording quoted in 2 Corinthians 4:13.
 [^116-9]: Literally "All humankind (*adam*) is a liar". Compare Romans 3:4.
 [^116-10]: Literally "the cup of salvations", perhaps a drink offering poured out, or a cup raised in thanksgiving for being rescued.
@@ -6161,7 +6161,7 @@
 
 **37** Turn my eyes away from looking at what is worthless; give me life in your way.
 
-**38** Confirm your promise to your servant, the promise that is for those who fear you.[^119-22]
+**38** Confirm to your servant your promise, which is for those who fear you.[^119-22]
 
 **39** Turn away the disgrace that I dread, for your rulings are good.
 
@@ -6341,7 +6341,7 @@
 
 **127** Therefore I love your commands more than gold, more than fine gold.
 
-**128** Therefore I consider all your precepts right in everything;[^119-62] I hate every false path.
+**128** Therefore I consider all the precepts right in everything;[^119-62] I hate every false path.
 
 **129** Your statutes are wonderful;[^119-63] so my soul keeps them.
 
@@ -6440,7 +6440,7 @@
 **176** I have strayed like a lost sheep; seek your servant, for I do not forget your commands.[^119-81]
 
 [^119-1]: Hebrew *ashrei*: happy, fortunate; traditionally "blessed". Also in verse 2.
-[^119-2]: *Aleph*: each verse of this stanza (verses 1–8) begins in Hebrew with this letter, the first of the alphabet. Psalm 119, the longest psalm, is an acrostic: it has twenty-two stanzas of eight verses, one stanza for each letter of the Hebrew alphabet in order, and every verse of a stanza begins with its letter. Almost every verse names God's teaching with one of eight words, and this translation keeps one English word for each: *law* (*torah*), *statutes* (*edot*), *precepts* (*piqqudim*), *commands* (*mitsvot*), *rulings* (*mishpatim*), *decrees* (*chuqqim*), *promise* (*imrah*) and *word* (*davar*). Compare Psalm 19:8–10 (19:7–9 in English).
+[^119-2]: *Aleph*: each verse of this stanza (verses 1–8) begins in Hebrew with this letter, the first of the alphabet. Psalm 119, the longest psalm, is an acrostic: it has twenty-two stanzas of eight verses, one stanza for each letter of the Hebrew alphabet in order, and every verse of a stanza begins with its letter. Almost every verse names God's teaching with one of eight words, and this translation keeps one English word for each: *law* (*torah*), *statutes* (*edot*), *precepts* (*piqqudim*), *commands* (*mitsvot*), *rulings* (*mishpatim*), *decrees* (*chuqqim*), *promise* (*imrah*) and *word* (*davar*). Compare Psalm 19:8–10 (19:7–9 in most English Bibles).
 [^119-3]: Hebrew *torah*, "instruction, teaching": here God's teaching as a whole.
 [^119-4]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
 [^119-5]: Hebrew *edot*, traditionally "testimonies": the solemn terms of the covenant.
@@ -6508,7 +6508,7 @@
 [^119-67]: Compare the priestly blessing in Numbers 6:25.
 [^119-68]: *Tsade*: each verse of this stanza (verses 137–144) begins in Hebrew with this letter.
 [^119-69]: Literally "You have commanded righteousness, your statutes, and faithfulness, greatly".
-[^119-70]: Like metal tested in the fire and found pure (compare 12:7, 12:6 in English).
+[^119-70]: Like metal tested in the fire and found pure (compare 12:7, 12:6 in most English Bibles).
 [^119-71]: *Qof*: each verse of this stanza (verses 145–152) begins in Hebrew with this letter.
 [^119-72]: The Hebrew text is written "your words" but read "your word".
 [^119-73]: The night was divided into watches. Or "My eyes are awake through the watches of the night".
@@ -6856,7 +6856,7 @@
 [^132-3]: Or "all his self-denial", the oath he kept (verses 3–5). Literally "all his being afflicted".
 [^132-4]: Hebrew *avir ya'aqov*, an ancient title of God (Genesis 49:24; Isaiah 49:26). Also in verse 5.
 [^132-5]: Literally "If I enter the tent of my house, if I go up on the couch of my bed", the form of an oath. Also in verse 4.
-[^132-6]: *It* is probably the ark (verse 8). *Ephrathah* is another name for Bethlehem (Ruth 4:11; Micah 5:1, 5:2 in English), or for the clan around Kiriath-jearim (1 Chronicles 2:50). *Jaar*, "forest", is probably Kiriath-jearim, "town of forests", where the ark stayed for twenty years until David brought it to Jerusalem (1 Samuel 7:1–2).
+[^132-6]: *It* is probably the ark (verse 8). *Ephrathah* is another name for Bethlehem (Ruth 4:11; Micah 5:1, 5:2 in most English Bibles), or for the clan around Kiriath-jearim (1 Chronicles 2:50). *Jaar*, "forest", is probably Kiriath-jearim, "town of forests", where the ark stayed for twenty years until David brought it to Jerusalem (1 Samuel 7:1–2).
 [^132-7]: The ark was pictured as the footstool of Yahweh, who is enthroned above the cherubim (1 Chronicles 28:2; compare 99:5).
 [^132-8]: Verses 8–10 are nearly the same as Solomon's prayer at the dedication of the temple in 2 Chronicles 6:41–42. Compare also Numbers 10:35.
 [^132-9]: Hebrew *chasidim*, "the faithful, the loyal", related to *chesed*, "faithful love". Also in verse 16.
@@ -6964,49 +6964,49 @@
 
 **2** Give thanks to the God of gods, for his faithful love endures forever.
 
-**3** Give thanks to the Lord of lords, for his faithful love endures forever.
+**3** Give thanks to the Lord of lords, for his faithful love endures forever;
 
-**4** to him who alone does great wonders, for his faithful love endures forever.
+**4** to him who alone does great wonders, for his faithful love endures forever;
 
-**5** who by understanding made the heavens, for his faithful love endures forever.
+**5** who by understanding made the heavens, for his faithful love endures forever;
 
-**6** who spread out the earth on the waters, for his faithful love endures forever.
+**6** who spread out the earth on the waters, for his faithful love endures forever;
 
-**7** who made the great lights, for his faithful love endures forever.
+**7** who made the great lights, for his faithful love endures forever;
 
-**8** the sun to rule by day, for his faithful love endures forever.
+**8** the sun to rule by day, for his faithful love endures forever;
 
-**9** the moon and the stars to rule by night, for his faithful love endures forever.
+**9** the moon and the stars to rule by night, for his faithful love endures forever;
 
-**10** who struck down Egypt through their firstborn, for his faithful love endures forever.
+**10** who struck down Egypt through their firstborn, for his faithful love endures forever;
 
-**11** and brought Israel out from among them, for his faithful love endures forever.
+**11** and brought Israel out from among them, for his faithful love endures forever;
 
-**12** with a strong hand and an outstretched arm, for his faithful love endures forever.
+**12** with a strong hand and an outstretched arm, for his faithful love endures forever;
 
-**13** who divided the Red Sea[^136-4] in two,[^136-5] for his faithful love endures forever.
+**13** who divided the Red Sea[^136-4] in two,[^136-5] for his faithful love endures forever;
 
-**14** and made Israel pass through the middle of it, for his faithful love endures forever.
+**14** and made Israel pass through the middle of it, for his faithful love endures forever;
 
-**15** but swept[^136-6] Pharaoh and his army into the Red Sea, for his faithful love endures forever.
+**15** but swept[^136-6] Pharaoh and his army into the Red Sea, for his faithful love endures forever;
 
-**16** who led his people through the wilderness, for his faithful love endures forever.
+**16** who led his people through the wilderness, for his faithful love endures forever;
 
-**17** who struck down great kings, for his faithful love endures forever.
+**17** who struck down great kings, for his faithful love endures forever;
 
-**18** and killed mighty kings, for his faithful love endures forever.
+**18** and killed mighty kings, for his faithful love endures forever;
 
-**19** Sihon king of the Amorites, for his faithful love endures forever.
+**19** Sihon king of the Amorites, for his faithful love endures forever;
 
-**20** and Og king of Bashan,[^136-7] for his faithful love endures forever.
+**20** and Og king of Bashan,[^136-7] for his faithful love endures forever;
 
-**21** and gave their land as an inheritance, for his faithful love endures forever.
+**21** and gave their land as an inheritance, for his faithful love endures forever;
 
-**22** an inheritance to Israel his servant, for his faithful love endures forever.
+**22** an inheritance to Israel his servant, for his faithful love endures forever;
 
-**23** who remembered us in our low condition, for his faithful love endures forever.
+**23** who remembered us in our low condition, for his faithful love endures forever;
 
-**24** and rescued us from our adversaries, for his faithful love endures forever.
+**24** and rescued us from our adversaries, for his faithful love endures forever;
 
 **25** who gives food to every living creature,[^136-8] for his faithful love endures forever.
 
@@ -7053,7 +7053,7 @@
 [^137-8]: A poetic name for the city of Babylon and its people, pictured as a woman.
 [^137-9]: Literally "devastated", that is, about to be devastated.
 [^137-10]: Hebrew *ashrei*: happy, fortunate; traditionally "blessed". Also in verse 9.
-[^137-11]: Conquering armies of the time killed the children of a captured city in this way (2 Kings 8:12; Hosea 14:1, 13:16 in English; Nahum 3:10), and the exiles had seen the children of Jerusalem die when the city fell (Lamentations 2:11, 19–21). The psalm asks that Babylon be paid back in kind (verse 8), as the prophets announced against it (Isaiah 13:16; Jeremiah 51:24, 56).
+[^137-11]: Conquering armies of the time killed the children of a captured city in this way (2 Kings 8:12; Hosea 14:1, 13:16 in most English Bibles; Nahum 3:10), and the exiles had seen the children of Jerusalem die when the city fell (Lamentations 2:11, 19–21). The psalm asks that Babylon be paid back in kind (verse 8), as the prophets announced against it (Isaiah 13:16; Jeremiah 51:24, 56).
 
 ## Chapter 138
 
@@ -7216,7 +7216,7 @@
 
 **4** Do not let my heart turn to anything evil, to do wicked deeds with those who are evildoers; do not let me eat of their delicacies.
 
-**5** If a righteous person strikes me, it is faithful love;[^141-4] if he rebukes me, it is oil for my head; let my head not refuse it. For my prayer is still against their evil deeds.[^141-5]
+**5** Let a righteous person strike me: it is faithful love;[^141-4] let him rebuke me: it is oil for my head; let my head not refuse it. For my prayer is still against their evil deeds.[^141-5]
 
 **6** When their rulers are thrown down from the sides of the cliff,[^141-6] they will hear my words, for they are pleasant.
 
@@ -7231,7 +7231,7 @@
 [^141-1]: *Of David*: or "for David", "about David". In the Hebrew text the title is part of verse 1. In this psalm it shares the verse with the first line, so the verse numbers match English Bibles.
 [^141-2]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
 [^141-3]: Hebrew *minchah*, often the grain offering (Leviticus 2), but also any gift or offering. Incense was offered morning and evening (Exodus 30:7–8), and an offering was made each evening (Exodus 29:39–41; 2 Kings 16:15).
-[^141-4]: Hebrew *chesed*: loyal, faithful love; here, a kindness. Or "Let a righteous person strike me in faithful love and rebuke me".
+[^141-4]: Hebrew *chesed*: loyal, faithful love; here, a kindness. Or "Let a righteous person strike me in faithful love and rebuke me", or "If a righteous person strikes me, it is a kindness".
 [^141-5]: Literally "for still, and my prayer in their evils". The Hebrew of verses 5–7 is very difficult, and every rendering of them is uncertain. Or "my prayer continues even in their troubles".
 [^141-6]: Literally "into the hands of the rock". Or "When their judges are handed over to the rock".
 [^141-7]: Hebrew *Sheol*, the realm of the dead.
@@ -7259,7 +7259,7 @@
 
 **8** Bring me out of prison,[^142-6] so that I may give thanks to your name. The righteous will gather around me,[^142-7] for you will deal generously with me.
 
-[^142-1]: *Maskil*: a term of uncertain meaning, perhaps "a skillful psalm" or "a psalm of instruction". *Of David*: or "for David", "about David". *In the cave*: David hid from Saul in the cave of Adullam (1 Samuel 22:1) and in a cave near En-gedi (1 Samuel 24:4, 24:3 in English); compare the title of Psalm 57. In the Hebrew text the title is verse 1, so verses 2–8 are 142:1–7 in most English Bibles.
+[^142-1]: *Maskil*: a term of uncertain meaning, perhaps "a skillful psalm" or "a psalm of instruction". *Of David*: or "for David", "about David". *In the cave*: David hid from Saul in the cave of Adullam (1 Samuel 22:1) and in a cave near En-gedi (1 Samuel 24:4, 24:3 in most English Bibles); compare the title of Psalm 57. In the Hebrew text the title is verse 1, so verses 2–8 are 142:1–7 in most English Bibles.
 [^142-2]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
 [^142-3]: An advocate or protector stood at a person's right hand (compare 16:8; 109:31; 110:5).
 [^142-4]: Literally "Refuge has perished from me".
@@ -7342,11 +7342,11 @@
 
 **15** Happy[^144-13] are the people for whom it is so; happy are the people whose God is Yahweh!
 
-[^144-1]: *Of David*: or "for David", "about David". In the Hebrew text the title is part of verse 1. In this psalm it shares the verse with the first line, so the verse numbers match English Bibles. Verses 1–11 draw on many lines of Psalm 18 (compare 18:3, 10, 15, 17, 35, 48; in English 18:2, 9, 14, 16, 34, 47).
+[^144-1]: *Of David*: or "for David", "about David". In the Hebrew text the title is part of verse 1. In this psalm it shares the verse with the first line, so the verse numbers match English Bibles. Verses 1–11 draw on many lines of Psalm 18 (compare 18:3, 10, 15, 17, 35, 48; 18:2, 9, 14, 16, 34, 47 in most English Bibles).
 [^144-2]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
 [^144-3]: Hebrew *chasdi*, "my *chesed*" (loyal, faithful love): the God who shows me faithful love.
-[^144-4]: Some Hebrew manuscripts read "who subdues peoples under me", as in 18:48 (18:47 in English).
-[^144-5]: Literally "a son of *enosh* (mortal)". Compare 8:5 (8:4 in English).
+[^144-4]: Some Hebrew manuscripts read "who subdues peoples under me", as in 18:48 (18:47 in most English Bibles).
+[^144-5]: Literally "a son of *enosh* (mortal)". Compare 8:5 (8:4 in most English Bibles).
 [^144-6]: Hebrew *hevel*, "breath, vapor", the word of Ecclesiastes 1:2.
 [^144-7]: The right hand was raised to swear an oath: their oaths are false.
 [^144-8]: Literally "the evil sword". Verse 10 continues verse 9: the song is sung to the one who gives victory to kings.
@@ -7411,7 +7411,7 @@
 [^145-7]: Hebrew *chesed*: loyal, faithful love. The line repeats God's description of himself in Exodus 34:6 (compare 86:15; 103:8).
 [^145-8]: Hebrew *chasidim*, "the faithful, the loyal", related to *chesed*, "faithful love".
 [^145-9]: Literally "to the sons of *adam* (humankind)". *His mighty acts*: the Hebrew turns here from speaking to God ("your") to speaking of him ("his").
-[^145-10]: In the Hebrew text there is no verse for the letter *nun*, which should come between verses 13 and 14. A Dead Sea Scroll (11QPs-a) has one: "God is faithful in his words, and faithful (*chasid*) in all his deeds." The Septuagint has the same line, with "the Lord" for "God". Its second half is the same as verse 17b. Compare also Daniel 3:33 (4:3 in English).
+[^145-10]: In the Hebrew text there is no verse for the letter *nun*, which should come between verses 13 and 14. A Dead Sea Scroll (11QPs-a) has one: "God is faithful in his words, and faithful (*chasid*) in all his deeds." The Septuagint has the same line, with "the Lord" for "God". Its second half is the same as verse 17b. Compare also Daniel 3:33 (4:3 in most English Bibles).
 [^145-11]: Hebrew *chasid*, "faithful, loyal", related to *chesed*, "faithful love".
 [^145-12]: Literally "all flesh".
 
@@ -7506,3 +7506,100 @@
 [^147-10]: Literally "the fat of wheat".
 [^147-11]: Hebrew *imrah*, "saying, word", translated "promise" in Psalm 119.
 [^147-12]: The Hebrew text is written "his word" but read "his words".
+
+## Chapter 148
+
+*Status: draft*
+
+**1** Praise Yah![^148-1] Praise Yahweh[^148-2] from the heavens; praise him in the heights!
+
+**2** Praise him, all his angels; praise him, all his armies![^148-3]
+
+**3** Praise him, sun and moon; praise him, all you shining stars!
+
+**4** Praise him, you highest heavens,[^148-4] and you waters above the heavens!
+
+**5** Let them praise the name of Yahweh, for he commanded, and they were created.
+
+**6** He established them forever and ever; he gave a decree that will not pass away.[^148-5]
+
+**7** Praise Yahweh from the earth, you sea monsters[^148-6] and all the depths,
+
+**8** fire and hail, snow and mist,[^148-7] stormy wind that carries out his word,
+
+**9** mountains and all hills, fruit trees and all cedars,
+
+**10** wild animals and all livestock, creatures that move along the ground and winged birds,
+
+**11** kings of the earth and all peoples, princes and all who rule the earth,[^148-8]
+
+**12** young men and young women alike, old and young together.
+
+**13** Let them praise the name of Yahweh, for his name alone is exalted; his splendor is above the earth and the heavens.
+
+**14** He has raised up a horn[^148-9] for his people, praise for all his faithful ones,[^148-10] for the Israelites, the people close to him. Praise Yah!
+
+[^148-1]: Hebrew *hallelu-yah*, "praise Yah", the source of the word "Hallelujah". *Yah* is a short form of the name Yahweh. Also at the end of verse 14.
+[^148-2]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^148-3]: The heavenly hosts (compare "Yahweh of Armies", 24:10). The Hebrew text is written "his army" but read "his armies".
+[^148-4]: Literally "heavens of the heavens". *The waters above the heavens*: compare Genesis 1:7.
+[^148-5]: Or "a decree that they will not transgress". Compare Jeremiah 31:35–36; 33:25.
+[^148-6]: Hebrew *tanninim*, the great creatures of the sea (Genesis 1:21).
+[^148-7]: Or "smoke". Hebrew *qitor*.
+[^148-8]: Literally "all judges of the earth".
+[^148-9]: A symbol of strength. Perhaps a king for his people, or their strength and honor restored (compare 89:18, 89:17 in most English Bibles; 132:17).
+[^148-10]: Hebrew *chasidim*, "the faithful, the loyal", related to *chesed*, "faithful love". *Praise for all his faithful ones*: either a reason for them to praise, or their glory.
+
+## Chapter 149
+
+*Status: draft*
+
+**1** Praise Yah![^149-1] Sing to Yahweh[^149-2] a new song, his praise in the assembly of the faithful.[^149-3]
+
+**2** Let Israel rejoice in their Maker; let the people of Zion[^149-4] be glad in their King.
+
+**3** Let them praise his name with dancing; let them make music to him with tambourine and lyre.
+
+**4** For Yahweh takes pleasure in his people; he crowns the humble with salvation.[^149-5]
+
+**5** Let the faithful exult in glory; let them sing for joy on their beds.[^149-6]
+
+**6** Let the high praises of God be in their throats, and a two-edged sword in their hands,
+
+**7** to carry out vengeance on the nations, punishment on the peoples,
+
+**8** to bind their kings with chains, and their nobles with fetters of iron,
+
+**9** to carry out on them the judgment written.[^149-7] This is the honor of all his faithful ones. Praise Yah!
+
+[^149-1]: Hebrew *hallelu-yah*, "praise Yah", the source of the word "Hallelujah". *Yah* is a short form of the name Yahweh. Also at the end of verse 9.
+[^149-2]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^149-3]: Hebrew *chasidim*, "the faithful, the loyal", related to *chesed*, "faithful love". Also in verses 5 and 9.
+[^149-4]: Literally "the sons of Zion".
+[^149-5]: Or "he adorns the humble with victory".
+[^149-6]: Perhaps the mats or couches on which they lay down to rest, or reclined at a festival meal.
+[^149-7]: Perhaps the judgment on the nations written down in the prophets' oracles, or in God's own decrees.
+
+## Chapter 150
+
+*Status: draft*
+
+**1** Praise Yah![^150-1] Praise God in his sanctuary;[^150-2] praise him in the mighty dome of the sky![^150-3]
+
+**2** Praise him for his mighty deeds; praise him for his surpassing greatness![^150-4]
+
+**3** Praise him with the blast of the ram's horn;[^150-5] praise him with harp and lyre!
+
+**4** Praise him with tambourine and dancing; praise him with strings and pipe!
+
+**5** Praise him with clashing cymbals; praise him with resounding cymbals![^150-6]
+
+**6** Let everything that has breath praise Yah! Praise Yah![^150-7]
+
+[^150-1]: Hebrew *hallelu-yah*, "praise Yah", the source of the word "Hallelujah". *Yah* is a short form of the name Yahweh. Also at the end of verse 6.
+[^150-2]: Or "in his holiness". Hebrew *qodesh*, "holiness, holy place": the temple on earth, or God's dwelling in heaven.
+[^150-3]: Literally "in the dome of his strength". Hebrew *raqia*, the sky pictured as a solid vault (Genesis 1:6–8; see 19:2).
+[^150-4]: Literally "according to the abundance of his greatness".
+[^150-5]: Hebrew *shofar*.
+[^150-6]: Literally "cymbals of sound" and "cymbals of loud shouting": perhaps two kinds of cymbals, or two ways of sounding them.
+[^150-7]: Psalm 150 closes Book 5 of the Psalms (Psalms 107–150) and the whole book. Each of the other four books ends with a blessing (41:14; 72:18–19; 89:53; 106:48; 41:13 and 89:52 in most English Bibles); here the whole psalm is the closing call to praise, and the last five psalms (146–150) each begin and end with "Praise Yah". The Septuagint adds a short Psalm 151, spoken by David about his victory over Goliath, and a longer Hebrew form of it is found in a Dead Sea Scroll (11QPs-a).

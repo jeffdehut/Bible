@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "wisdom"]
 
 ![[text/hebrew/19-psalms#Chapter 108]]
 
+## Plain English translation
+
+![[text/english/19-psalms#Chapter 108]]
+
 ## Cross-references
 
 - **108:2** → [[connections/chapters/19-psalms/Psalms 57|Psalms 57:8–12]] · [[connections/chapters/19-psalms/Psalms 145|Psalms 145:21–146:2]] · [[connections/chapters/19-psalms/Psalms 104|Psalms 104:33]] · [[connections/chapters/19-psalms/Psalms 71|Psalms 71:15]] · [[connections/chapters/19-psalms/Psalms 71|Psalms 71:23–24]] · [[connections/chapters/19-psalms/Psalms 68|Psalms 68:2]] · [[connections/chapters/19-psalms/Psalms 71|Psalms 71:8]]

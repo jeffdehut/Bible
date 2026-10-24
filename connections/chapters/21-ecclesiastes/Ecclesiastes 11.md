@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "wisdom"]
 
 ![[text/hebrew/21-ecclesiastes#Chapter 11]]
 
+## Plain English translation
+
+![[text/english/21-ecclesiastes#Chapter 11]]
+
 ## Cross-references
 
 - **11:1** → [[connections/chapters/21-ecclesiastes/Ecclesiastes 11|Ecclesiastes 11:6]] · [[connections/chapters/20-proverbs/Proverbs 19|Proverbs 19:17]] · [[connections/chapters/40-matthew/Matthew 10|Matthew 10:42]] · [[connections/chapters/58-hebrews/Hebrews 6|Hebrews 6:10]] · [[connections/chapters/47-2-corinthians/2 Corinthians 9|2 Corinthians 9:6]] · [[connections/chapters/23-isaiah/Isaiah 32|Isaiah 32:20]] · [[connections/chapters/19-psalms/Psalms 41|Psalms 41:2–3]] · [[connections/chapters/48-galatians/Galatians 6|Galatians 6:8–10]] · [[connections/chapters/42-luke/Luke 14|Luke 14:14]] · [[connections/chapters/19-psalms/Psalms 126|Psalms 126:5–6]] · [[connections/chapters/23-isaiah/Isaiah 32|Isaiah 32:8]] · [[connections/chapters/20-proverbs/Proverbs 11|Proverbs 11:18]] · [[connections/chapters/20-proverbs/Proverbs 11|Proverbs 11:24–25]] · [[connections/chapters/05-deuteronomy/Deuteronomy 15|Deuteronomy 15:7–11]] · [[connections/chapters/20-proverbs/Proverbs 22|Proverbs 22:9]]

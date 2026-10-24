@@ -18,6 +18,10 @@ tags: ["chapter", "ot", "wisdom"]
 
 ![[text/hebrew/19-psalms#Chapter 54]]
 
+## Plain English translation
+
+![[text/english/19-psalms#Chapter 54]]
+
 ## Cross-references
 
 - **54:3** → [[connections/chapters/20-proverbs/Proverbs 18|Proverbs 18:10]]

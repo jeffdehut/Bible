@@ -18,6 +18,10 @@ tags: ["chapter", "ot", "wisdom"]
 
 ![[text/hebrew/19-psalms#Chapter 37]]
 
+## Plain English translation
+
+![[text/english/19-psalms#Chapter 37]]
+
 ## Cross-references
 
 - **37:1** → [[connections/chapters/19-psalms/Psalms 37|Psalms 37:7]] · [[connections/chapters/20-proverbs/Proverbs 23|Proverbs 23:17]] · [[connections/chapters/20-proverbs/Proverbs 24|Proverbs 24:19]] · [[connections/chapters/20-proverbs/Proverbs 3|Proverbs 3:31]] · [[connections/chapters/20-proverbs/Proverbs 24|Proverbs 24:1]] · [[connections/chapters/19-psalms/Psalms 73|Psalms 73:3]] · [[connections/chapters/48-galatians/Galatians 5|Galatians 5:21]] · [[connections/chapters/59-james/James 4|James 4:5–6]] · [[connections/chapters/09-1-samuel/1 Samuel 1|1 Samuel 1:6–8]] · [[connections/chapters/20-proverbs/Proverbs 19|Proverbs 19:3]]

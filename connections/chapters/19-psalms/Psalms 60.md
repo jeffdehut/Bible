@@ -18,6 +18,10 @@ tags: ["chapter", "ot", "wisdom"]
 
 ![[text/hebrew/19-psalms#Chapter 60]]
 
+## Plain English translation
+
+![[text/english/19-psalms#Chapter 60]]
+
 ## Cross-references
 
 - **60:3** → [[connections/chapters/10-2-samuel/2 Samuel 8|2 Samuel 8:12–13]]

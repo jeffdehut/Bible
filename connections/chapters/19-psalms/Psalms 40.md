@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "wisdom"]
 
 ![[text/hebrew/19-psalms#Chapter 40]]
 
+## Plain English translation
+
+![[text/english/19-psalms#Chapter 40]]
+
 ## Cross-references
 
 - **40:2** → [[connections/chapters/19-psalms/Psalms 27|Psalms 27:13–14]] · [[connections/chapters/19-psalms/Psalms 37|Psalms 37:7]] · [[connections/chapters/59-james/James 5|James 5:7–11]] · [[connections/chapters/19-psalms/Psalms 116|Psalms 116:2]] · [[connections/chapters/19-psalms/Psalms 34|Psalms 34:16]] · [[connections/chapters/19-psalms/Psalms 130|Psalms 130:2]] · [[connections/chapters/27-daniel/Daniel 9|Daniel 9:18]]

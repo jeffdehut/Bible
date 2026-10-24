@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "prophets"]
 
 ![[text/hebrew/23-isaiah#Chapter 22]]
 
+## Plain English translation
+
+![[text/english/23-isaiah#Chapter 22]]
+
 ## Cross-references
 
 - **22:13** → [[connections/chapters/23-isaiah/Isaiah 56|Isaiah 56:12]]

@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "wisdom"]
 
 ![[text/hebrew/22-song-of-songs#Chapter 7]]
 
+## Plain English translation
+
+![[text/english/22-song-of-songs#Chapter 7]]
+
 ## Cross-references
 
 - **7:11** → [[connections/chapters/19-psalms/Psalms 45|Psalms 45:12]]

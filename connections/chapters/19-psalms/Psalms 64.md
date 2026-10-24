@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "wisdom"]
 
 ![[text/hebrew/19-psalms#Chapter 64]]
 
+## Plain English translation
+
+![[text/english/19-psalms#Chapter 64]]
+
 ## Cross-references
 
 - **64:3** → [[connections/chapters/19-psalms/Psalms 109|Psalms 109:2–3]] · [[connections/chapters/19-psalms/Psalms 31|Psalms 31:21]] · [[connections/chapters/19-psalms/Psalms 59|Psalms 59:3]] · [[connections/chapters/19-psalms/Psalms 143|Psalms 143:9]] · [[connections/chapters/19-psalms/Psalms 27|Psalms 27:5]] · [[connections/chapters/24-jeremiah/Jeremiah 11|Jeremiah 11:19]]

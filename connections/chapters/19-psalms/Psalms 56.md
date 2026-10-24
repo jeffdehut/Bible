@@ -18,6 +18,10 @@ tags: ["chapter", "ot", "wisdom"]
 
 ![[text/hebrew/19-psalms#Chapter 56]]
 
+## Plain English translation
+
+![[text/english/19-psalms#Chapter 56]]
+
 ## Cross-references
 
 - **56:4** → [[connections/chapters/19-psalms/Psalms 34|Psalms 34:5]] · [[connections/chapters/09-1-samuel/1 Samuel 30|1 Samuel 30:6]] · [[connections/chapters/47-2-corinthians/2 Corinthians 7|2 Corinthians 7:5–6]] · [[connections/chapters/19-psalms/Psalms 55|Psalms 55:5–6]] · [[connections/chapters/47-2-corinthians/2 Corinthians 1|2 Corinthians 1:8–10]] · [[connections/chapters/19-psalms/Psalms 11|Psalms 11:1]] · [[connections/chapters/14-2-chronicles/2 Chronicles 20|2 Chronicles 20:3]] · [[connections/chapters/09-1-samuel/1 Samuel 21|1 Samuel 21:13]] · [[connections/chapters/09-1-samuel/1 Samuel 21|1 Samuel 21:11]]

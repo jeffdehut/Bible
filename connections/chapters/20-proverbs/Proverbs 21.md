@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "wisdom"]
 
 ![[text/hebrew/20-proverbs#Chapter 21]]
 
+## Plain English translation
+
+![[text/english/20-proverbs#Chapter 21]]
+
 ## Cross-references
 
 - **21:1** → [[connections/chapters/20-proverbs/Proverbs 16|Proverbs 16:9]] · [[connections/chapters/20-proverbs/Proverbs 20|Proverbs 20:24]] · [[connections/chapters/15-ezra/Ezra 6|Ezra 6:22]] · [[connections/chapters/44-acts/Acts 7|Acts 7:10]] · [[connections/chapters/20-proverbs/Proverbs 16|Proverbs 16:1]] · [[connections/chapters/15-ezra/Ezra 7|Ezra 7:27–28]] · [[connections/chapters/27-daniel/Daniel 4|Daniel 4:32]] · [[connections/chapters/19-psalms/Psalms 106|Psalms 106:46]] · [[connections/chapters/23-isaiah/Isaiah 43|Isaiah 43:19]] · [[connections/chapters/16-nehemiah/Nehemiah 2|Nehemiah 2:4]] · [[connections/chapters/16-nehemiah/Nehemiah 1|Nehemiah 1:11]] · [[connections/chapters/19-psalms/Psalms 105|Psalms 105:25]] · [[connections/chapters/19-psalms/Psalms 74|Psalms 74:15]]

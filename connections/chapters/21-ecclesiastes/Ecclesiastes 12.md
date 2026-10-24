@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "wisdom"]
 
 ![[text/hebrew/21-ecclesiastes#Chapter 12]]
 
+## Plain English translation
+
+![[text/english/21-ecclesiastes#Chapter 12]]
+
 ## Cross-references
 
 - **12:1** → [[connections/chapters/25-lamentations/Lamentations 3|Lamentations 3:27]] · [[connections/chapters/21-ecclesiastes/Ecclesiastes 11|Ecclesiastes 11:8]] · [[connections/chapters/19-psalms/Psalms 71|Psalms 71:17–18]] · [[connections/chapters/20-proverbs/Proverbs 22|Proverbs 22:6]] · [[connections/chapters/42-luke/Luke 18|Luke 18:16]] · [[connections/chapters/19-psalms/Psalms 34|Psalms 34:12]] · [[connections/chapters/55-2-timothy/2 Timothy 3|2 Timothy 3:15]] · [[connections/chapters/09-1-samuel/1 Samuel 16|1 Samuel 16:12–13]] · [[connections/chapters/19-psalms/Psalms 90|Psalms 90:10]] · [[connections/chapters/21-ecclesiastes/Ecclesiastes 11|Ecclesiastes 11:10]] · [[connections/chapters/42-luke/Luke 2|Luke 2:40–52]] · [[connections/chapters/10-2-samuel/2 Samuel 19|2 Samuel 19:36]] · [[connections/chapters/20-proverbs/Proverbs 8|Proverbs 8:17]] · [[connections/chapters/14-2-chronicles/2 Chronicles 34|2 Chronicles 34:2–3]] · [[connections/chapters/19-psalms/Psalms 22|Psalms 22:10–11]] · [[connections/chapters/01-genesis/Genesis 39|Genesis 39:8–9]] · [[connections/chapters/09-1-samuel/1 Samuel 2|1 Samuel 2:26]] · [[connections/chapters/01-genesis/Genesis 39|Genesis 39:2]] · [[connections/chapters/09-1-samuel/1 Samuel 3|1 Samuel 3:19–21]] · [[connections/chapters/27-daniel/Daniel 1|Daniel 1:8–9]] · [[connections/chapters/23-isaiah/Isaiah 26|Isaiah 26:8]] · [[connections/chapters/49-ephesians/Ephesians 6|Ephesians 6:4]] · [[connections/chapters/09-1-samuel/1 Samuel 16|1 Samuel 16:7]] · [[connections/chapters/42-luke/Luke 1|Luke 1:15]] · [[connections/chapters/27-daniel/Daniel 1|Daniel 1:17]] · [[connections/chapters/01-genesis/Genesis 39|Genesis 39:23]] · [[connections/chapters/11-1-kings/1 Kings 3|1 Kings 3:6–12]] · [[connections/chapters/09-1-samuel/1 Samuel 2|1 Samuel 2:18]]

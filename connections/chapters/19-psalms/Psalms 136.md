@@ -18,6 +18,10 @@ tags: ["chapter", "ot", "wisdom"]
 
 ![[text/hebrew/19-psalms#Chapter 136]]
 
+## Plain English translation
+
+![[text/english/19-psalms#Chapter 136]]
+
 ## Cross-references
 
 - **136:1** → [[connections/chapters/13-1-chronicles/1 Chronicles 16|1 Chronicles 16:34]] · [[connections/chapters/19-psalms/Psalms 118|Psalms 118:1]] · [[connections/chapters/13-1-chronicles/1 Chronicles 16|1 Chronicles 16:41]] · [[connections/chapters/19-psalms/Psalms 106|Psalms 106:1]] · [[connections/chapters/19-psalms/Psalms 107|Psalms 107:1]] · [[connections/chapters/14-2-chronicles/2 Chronicles 20|2 Chronicles 20:21]] · [[connections/chapters/15-ezra/Ezra 3|Ezra 3:11]] · [[connections/chapters/14-2-chronicles/2 Chronicles 7|2 Chronicles 7:3]] · [[connections/chapters/42-luke/Luke 1|Luke 1:50]] · [[connections/chapters/24-jeremiah/Jeremiah 33|Jeremiah 33:11]] · [[connections/chapters/14-2-chronicles/2 Chronicles 7|2 Chronicles 7:6]] · [[connections/chapters/19-psalms/Psalms 105|Psalms 105:1]]

@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "wisdom"]
 
 ![[text/hebrew/20-proverbs#Chapter 31]]
 
+## Plain English translation
+
+![[text/english/20-proverbs#Chapter 31]]
+
 ## Cross-references
 
 - **31:2** → [[connections/chapters/23-isaiah/Isaiah 49|Isaiah 49:15]]

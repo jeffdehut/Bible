@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "wisdom"]
 
 ![[text/hebrew/20-proverbs#Chapter 17]]
 
+## Plain English translation
+
+![[text/english/20-proverbs#Chapter 17]]
+
 ## Cross-references
 
 - **17:1** → [[connections/chapters/20-proverbs/Proverbs 15|Proverbs 15:17]] · [[connections/chapters/19-psalms/Psalms 37|Psalms 37:16]] · [[connections/chapters/20-proverbs/Proverbs 21|Proverbs 21:19]] · [[connections/chapters/20-proverbs/Proverbs 21|Proverbs 21:9]]

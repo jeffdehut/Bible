@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "wisdom"]
 
 ![[text/hebrew/22-song-of-songs#Chapter 8]]
 
+## Plain English translation
+
+![[text/english/22-song-of-songs#Chapter 8]]
+
 ## Cross-references
 
 - **8:4** → [[connections/chapters/22-song-of-songs/Song of Songs 2|Song of Songs 2:7]] · [[connections/chapters/22-song-of-songs/Song of Songs 3|Song of Songs 3:5]]

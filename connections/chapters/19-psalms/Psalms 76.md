@@ -18,6 +18,10 @@ tags: ["chapter", "ot", "wisdom"]
 
 ![[text/hebrew/19-psalms#Chapter 76]]
 
+## Plain English translation
+
+![[text/english/19-psalms#Chapter 76]]
+
 ## Cross-references
 
 - **76:3** → [[connections/chapters/01-genesis/Genesis 14|Genesis 14:18]]

@@ -18,6 +18,10 @@ tags: ["chapter", "ot", "wisdom"]
 
 ![[text/hebrew/19-psalms#Chapter 117]]
 
+## Plain English translation
+
+![[text/english/19-psalms#Chapter 117]]
+
 ## Cross-references
 
 - **117:1** → [[connections/chapters/66-revelation/Revelation 15|Revelation 15:4]] · [[connections/chapters/45-romans/Romans 15|Romans 15:11]] · [[connections/chapters/19-psalms/Psalms 67|Psalms 67:4]]

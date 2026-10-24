@@ -18,6 +18,10 @@ tags: ["chapter", "ot", "wisdom"]
 
 ![[text/hebrew/19-psalms#Chapter 34]]
 
+## Plain English translation
+
+![[text/english/19-psalms#Chapter 34]]
+
 ## Cross-references
 
 - **34:2** → [[connections/chapters/52-1-thessalonians/1 Thessalonians 5|1 Thessalonians 5:18]] · [[connections/chapters/51-colossians/Colossians 3|Colossians 3:17]] · [[connections/chapters/19-psalms/Psalms 145|Psalms 145:1–2]] · [[connections/chapters/49-ephesians/Ephesians 5|Ephesians 5:20]] · [[connections/chapters/19-psalms/Psalms 71|Psalms 71:8]] · [[connections/chapters/19-psalms/Psalms 71|Psalms 71:14–15]] · [[connections/chapters/53-2-thessalonians/2 Thessalonians 2|2 Thessalonians 2:13]] · [[connections/chapters/44-acts/Acts 16|Acts 16:25]] · [[connections/chapters/19-psalms/Psalms 71|Psalms 71:6]] · [[connections/chapters/53-2-thessalonians/2 Thessalonians 1|2 Thessalonians 1:3]] · [[connections/chapters/23-isaiah/Isaiah 24|Isaiah 24:15–16]] · [[connections/chapters/20-proverbs/Proverbs 29|Proverbs 29:25]] · [[connections/chapters/44-acts/Acts 5|Acts 5:41]] · [[connections/chapters/09-1-samuel/1 Samuel 21|1 Samuel 21:14–16]]

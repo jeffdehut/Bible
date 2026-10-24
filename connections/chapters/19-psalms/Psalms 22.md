@@ -18,6 +18,10 @@ tags: ["chapter", "ot", "wisdom"]
 
 ![[text/hebrew/19-psalms#Chapter 22]]
 
+## Plain English translation
+
+![[text/english/19-psalms#Chapter 22]]
+
 ## Cross-references
 
 - **22:2** → [[connections/chapters/41-mark/Mark 15|Mark 15:34]] · [[connections/chapters/40-matthew/Matthew 27|Matthew 27:46]] · [[connections/chapters/58-hebrews/Hebrews 5|Hebrews 5:7]] · [[connections/chapters/19-psalms/Psalms 22|Psalms 22:17]] · [[connections/chapters/18-job/Job 3|Job 3:24]] · [[connections/chapters/42-luke/Luke 24|Luke 24:44]] · [[connections/chapters/19-psalms/Psalms 43|Psalms 43:1–5]] · [[connections/chapters/19-psalms/Psalms 10|Psalms 10:1]]

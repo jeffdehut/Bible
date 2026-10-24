@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "prophets"]
 
 ![[text/hebrew/25-lamentations#Chapter 2]]
 
+## Plain English translation
+
+![[text/english/25-lamentations#Chapter 2]]
+
 ## Cross-references
 
 - **2:19** → [[connections/chapters/19-psalms/Psalms 62|Psalms 62:9]] · [[connections/chapters/19-psalms/Psalms 119|Psalms 119:147–148]] · [[connections/chapters/23-isaiah/Isaiah 26|Isaiah 26:9]] · [[connections/chapters/19-psalms/Psalms 142|Psalms 142:3]] · [[connections/chapters/41-mark/Mark 1|Mark 1:35]] · [[connections/chapters/09-1-samuel/1 Samuel 1|1 Samuel 1:15]] · [[connections/chapters/25-lamentations/Lamentations 2|Lamentations 2:11–12]] · [[connections/chapters/19-psalms/Psalms 141|Psalms 141:2]]

@@ -18,6 +18,10 @@ tags: ["chapter", "ot", "wisdom"]
 
 ![[text/hebrew/19-psalms#Chapter 41]]
 
+## Plain English translation
+
+![[text/english/19-psalms#Chapter 41]]
+
 ## Cross-references
 
 - **41:2** → [[connections/chapters/20-proverbs/Proverbs 19|Proverbs 19:17]] · [[connections/chapters/20-proverbs/Proverbs 14|Proverbs 14:21]] · [[connections/chapters/47-2-corinthians/2 Corinthians 9|2 Corinthians 9:8–14]] · [[connections/chapters/44-acts/Acts 20|Acts 20:35]] · [[connections/chapters/40-matthew/Matthew 25|Matthew 25:34–39]] · [[connections/chapters/19-psalms/Psalms 37|Psalms 37:39–40]] · [[connections/chapters/59-james/James 2|James 2:13]] · [[connections/chapters/19-psalms/Psalms 37|Psalms 37:19]] · [[connections/chapters/58-hebrews/Hebrews 6|Hebrews 6:10]] · [[connections/chapters/19-psalms/Psalms 112|Psalms 112:9]] · [[connections/chapters/23-isaiah/Isaiah 58|Isaiah 58:7–11]]

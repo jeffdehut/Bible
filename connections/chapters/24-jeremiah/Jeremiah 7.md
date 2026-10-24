@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "prophets"]
 
 ![[text/hebrew/24-jeremiah#Chapter 7]]
 
+## Plain English translation
+
+![[text/english/24-jeremiah#Chapter 7]]
+
 ## Cross-references
 
 - **7:2** → [[connections/chapters/24-jeremiah/Jeremiah 26|Jeremiah 26:2]]

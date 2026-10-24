@@ -18,6 +18,10 @@ tags: ["chapter", "ot", "wisdom"]
 
 ![[text/hebrew/19-psalms#Chapter 71]]
 
+## Plain English translation
+
+![[text/english/19-psalms#Chapter 71]]
+
 ## Cross-references
 
 - **71:1** → [[connections/chapters/19-psalms/Psalms 31|Psalms 31:2–4]] · [[connections/chapters/19-psalms/Psalms 25|Psalms 25:2–3]] · [[connections/chapters/60-1-peter/1 Peter 2|1 Peter 2:6]] · [[connections/chapters/19-psalms/Psalms 22|Psalms 22:6]] · [[connections/chapters/24-jeremiah/Jeremiah 17|Jeremiah 17:18]]

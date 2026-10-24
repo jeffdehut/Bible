@@ -18,6 +18,10 @@ tags: ["chapter", "ot", "wisdom"]
 
 ![[text/hebrew/19-psalms#Chapter 133]]
 
+## Plain English translation
+
+![[text/english/19-psalms#Chapter 133]]
+
 ## Cross-references
 
 - **133:1** → [[connections/chapters/60-1-peter/1 Peter 3|1 Peter 3:8]] · [[connections/chapters/46-1-corinthians/1 Corinthians 1|1 Corinthians 1:10]] · [[connections/chapters/43-john/John 13|John 13:35]] · [[connections/chapters/58-hebrews/Hebrews 13|Hebrews 13:1]] · [[connections/chapters/50-philippians/Philippians 2|Philippians 2:2–5]] · [[connections/chapters/49-ephesians/Ephesians 4|Ephesians 4:3–6]] · [[connections/chapters/43-john/John 17|John 17:21]] · [[connections/chapters/24-jeremiah/Jeremiah 32|Jeremiah 32:39]] · [[connections/chapters/62-1-john/1 John 3|1 John 3:14–19]] · [[connections/chapters/01-genesis/Genesis 13|Genesis 13:8]] · [[connections/chapters/19-psalms/Psalms 122|Psalms 122:6–8]] · [[connections/chapters/01-genesis/Genesis 45|Genesis 45:24]] · [[connections/chapters/23-isaiah/Isaiah 11|Isaiah 11:6]] · [[connections/chapters/10-2-samuel/2 Samuel 2|2 Samuel 2:26–27]] · [[connections/chapters/19-psalms/Psalms 122|Psalms 122:1]] · [[connections/chapters/19-psalms/Psalms 131|Psalms 131:1]] · [[connections/chapters/23-isaiah/Isaiah 11|Isaiah 11:13]] · [[connections/chapters/19-psalms/Psalms 124|Psalms 124:1]] · [[connections/chapters/23-isaiah/Isaiah 11|Isaiah 11:9]]

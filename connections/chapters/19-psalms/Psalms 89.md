@@ -18,6 +18,10 @@ tags: ["chapter", "ot", "wisdom"]
 
 ![[text/hebrew/19-psalms#Chapter 89]]
 
+## Plain English translation
+
+![[text/english/19-psalms#Chapter 89]]
+
 ## Cross-references
 
 - **89:2** → [[connections/chapters/19-psalms/Psalms 101|Psalms 101:1]] · [[connections/chapters/19-psalms/Psalms 89|Psalms 89:9]]

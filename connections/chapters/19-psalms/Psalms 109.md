@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "wisdom"]
 
 ![[text/hebrew/19-psalms#Chapter 109]]
 
+## Plain English translation
+
+![[text/english/19-psalms#Chapter 109]]
+
 ## Cross-references
 
 - **109:4** → [[connections/chapters/19-psalms/Psalms 38|Psalms 38:21]] · [[connections/chapters/19-psalms/Psalms 69|Psalms 69:13–14]] · [[connections/chapters/19-psalms/Psalms 35|Psalms 35:7]] · [[connections/chapters/42-luke/Luke 23|Luke 23:34]]

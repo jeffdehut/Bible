@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "wisdom"]
 
 ![[text/hebrew/18-job#Chapter 40]]
 
+## Plain English translation
+
+![[text/english/18-job#Chapter 40]]
+
 ## Cross-references
 
 - **40:2** → [[connections/chapters/46-1-corinthians/1 Corinthians 2|1 Corinthians 2:16]] · [[connections/chapters/23-isaiah/Isaiah 40|Isaiah 40:14]] · [[connections/chapters/45-romans/Romans 11|Romans 11:34–36]] · [[connections/chapters/18-job/Job 33|Job 33:13]]

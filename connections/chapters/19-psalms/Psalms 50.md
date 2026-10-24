@@ -18,6 +18,10 @@ tags: ["chapter", "ot", "wisdom"]
 
 ![[text/hebrew/19-psalms#Chapter 50]]
 
+## Plain English translation
+
+![[text/english/19-psalms#Chapter 50]]
+
 ## Cross-references
 
 - **50:1** → [[connections/chapters/19-psalms/Psalms 113|Psalms 113:3]] · [[connections/chapters/40-matthew/Matthew 25|Matthew 25:32]] · [[connections/chapters/06-joshua/Joshua 22|Joshua 22:22]]

@@ -18,6 +18,10 @@ tags: ["chapter", "ot", "wisdom"]
 
 ![[text/hebrew/19-psalms#Chapter 129]]
 
+## Plain English translation
+
+![[text/english/19-psalms#Chapter 129]]
+
 ## Cross-references
 
 - **129:1** → [[connections/chapters/19-psalms/Psalms 124|Psalms 124:1]]

@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "wisdom"]
 
 ![[text/hebrew/21-ecclesiastes#Chapter 10]]
 
+## Plain English translation
+
+![[text/english/21-ecclesiastes#Chapter 10]]
+
 ## Cross-references
 
 - **10:4** → [[connections/chapters/20-proverbs/Proverbs 25|Proverbs 25:15]] · [[connections/chapters/21-ecclesiastes/Ecclesiastes 8|Ecclesiastes 8:3]] · [[connections/chapters/09-1-samuel/1 Samuel 25|1 Samuel 25:24–44]]

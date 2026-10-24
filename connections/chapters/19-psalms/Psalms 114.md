@@ -18,6 +18,10 @@ tags: ["chapter", "ot", "wisdom"]
 
 ![[text/hebrew/19-psalms#Chapter 114]]
 
+## Plain English translation
+
+![[text/english/19-psalms#Chapter 114]]
+
 ## Cross-references
 
 - **114:3** → [[connections/chapters/02-exodus/Exodus 14|Exodus 14:21]] · [[connections/chapters/19-psalms/Psalms 77|Psalms 77:17]]

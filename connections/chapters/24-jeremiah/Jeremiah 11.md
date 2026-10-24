@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "prophets"]
 
 ![[text/hebrew/24-jeremiah#Chapter 11]]
 
+## Plain English translation
+
+![[text/english/24-jeremiah#Chapter 11]]
+
 ## Cross-references
 
 - **11:3** → [[connections/chapters/05-deuteronomy/Deuteronomy 27|Deuteronomy 27:26]]

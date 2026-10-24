@@ -18,6 +18,10 @@ tags: ["chapter", "ot", "wisdom"]
 
 ![[text/hebrew/19-psalms#Chapter 28]]
 
+## Plain English translation
+
+![[text/english/19-psalms#Chapter 28]]
+
 ## Cross-references
 
 - **28:1** → [[connections/chapters/19-psalms/Psalms 143|Psalms 143:7]] · [[connections/chapters/19-psalms/Psalms 18|Psalms 18:3]] · [[connections/chapters/19-psalms/Psalms 88|Psalms 88:5–7]] · [[connections/chapters/20-proverbs/Proverbs 1|Proverbs 1:12]] · [[connections/chapters/19-psalms/Psalms 83|Psalms 83:2]] · [[connections/chapters/23-isaiah/Isaiah 26|Isaiah 26:4]]

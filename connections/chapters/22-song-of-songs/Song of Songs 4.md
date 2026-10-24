@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "wisdom"]
 
 ![[text/hebrew/22-song-of-songs#Chapter 4]]
 
+## Plain English translation
+
+![[text/english/22-song-of-songs#Chapter 4]]
+
 ## Cross-references
 
 - **4:7** → [[connections/chapters/22-song-of-songs/Song of Songs 1|Song of Songs 1:15]]

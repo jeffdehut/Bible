@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "prophets"]
 
 ![[text/hebrew/24-jeremiah#Chapter 6]]
 
+## Plain English translation
+
+![[text/english/24-jeremiah#Chapter 6]]
+
 ## Cross-references
 
 - **6:10** → [[connections/chapters/44-acts/Acts 7|Acts 7:51]] · [[connections/chapters/24-jeremiah/Jeremiah 7|Jeremiah 7:26]] · [[connections/chapters/58-hebrews/Hebrews 11|Hebrews 11:7]] · [[connections/chapters/43-john/John 7|John 7:7]]

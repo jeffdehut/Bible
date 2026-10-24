@@ -18,6 +18,10 @@ tags: ["chapter", "ot", "wisdom"]
 
 ![[text/hebrew/19-psalms#Chapter 75]]
 
+## Plain English translation
+
+![[text/english/19-psalms#Chapter 75]]
+
 ## Cross-references
 
 - **75:2** → [[connections/chapters/19-psalms/Psalms 145|Psalms 145:18]] · [[connections/chapters/24-jeremiah/Jeremiah 10|Jeremiah 10:6]] · [[connections/chapters/19-psalms/Psalms 138|Psalms 138:2]]

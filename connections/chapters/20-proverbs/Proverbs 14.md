@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "wisdom"]
 
 ![[text/hebrew/20-proverbs#Chapter 14]]
 
+## Plain English translation
+
+![[text/english/20-proverbs#Chapter 14]]
+
 ## Cross-references
 
 - **14:1** → [[connections/chapters/20-proverbs/Proverbs 31|Proverbs 31:10–31]] · [[connections/chapters/20-proverbs/Proverbs 24|Proverbs 24:3–4]] · [[connections/chapters/20-proverbs/Proverbs 21|Proverbs 21:9]] · [[connections/chapters/20-proverbs/Proverbs 21|Proverbs 21:19]] · [[connections/chapters/08-ruth/Ruth 4|Ruth 4:11]] · [[connections/chapters/20-proverbs/Proverbs 9|Proverbs 9:13–15]] · [[connections/chapters/20-proverbs/Proverbs 19|Proverbs 19:13]]

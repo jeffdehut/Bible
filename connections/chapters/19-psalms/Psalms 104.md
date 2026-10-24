@@ -18,6 +18,10 @@ tags: ["chapter", "ot", "wisdom"]
 
 ![[text/hebrew/19-psalms#Chapter 104]]
 
+## Plain English translation
+
+![[text/english/19-psalms#Chapter 104]]
+
 ## Cross-references
 
 - **104:1** → [[connections/chapters/19-psalms/Psalms 145|Psalms 145:3]] · [[connections/chapters/19-psalms/Psalms 103|Psalms 103:22]] · [[connections/chapters/19-psalms/Psalms 96|Psalms 96:6]] · [[connections/chapters/23-isaiah/Isaiah 59|Isaiah 59:17]] · [[connections/chapters/19-psalms/Psalms 103|Psalms 103:1–2]] · [[connections/chapters/19-psalms/Psalms 93|Psalms 93:1]] · [[connections/chapters/27-daniel/Daniel 9|Daniel 9:4]] · [[connections/chapters/19-psalms/Psalms 104|Psalms 104:35]] · [[connections/chapters/24-jeremiah/Jeremiah 32|Jeremiah 32:17–19]]

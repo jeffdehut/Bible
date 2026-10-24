@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "wisdom"]
 
 ![[text/hebrew/19-psalms#Chapter 111]]
 
+## Plain English translation
+
+![[text/english/19-psalms#Chapter 111]]
+
 ## Cross-references
 
 - **111:1** → [[connections/chapters/19-psalms/Psalms 138|Psalms 138:1]] · [[connections/chapters/19-psalms/Psalms 149|Psalms 149:1]] · [[connections/chapters/19-psalms/Psalms 106|Psalms 106:1]] · [[connections/chapters/19-psalms/Psalms 109|Psalms 109:30]] · [[connections/chapters/19-psalms/Psalms 35|Psalms 35:18]] · [[connections/chapters/19-psalms/Psalms 108|Psalms 108:4]]

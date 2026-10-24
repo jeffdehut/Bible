@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "prophets"]
 
 ![[text/hebrew/23-isaiah#Chapter 13]]
 
+## Plain English translation
+
+![[text/english/23-isaiah#Chapter 13]]
+
 ## Cross-references
 
 - **13:2** → [[connections/chapters/24-jeremiah/Jeremiah 51|Jeremiah 51:58]] · [[connections/chapters/23-isaiah/Isaiah 5|Isaiah 5:26]] · [[connections/chapters/24-jeremiah/Jeremiah 50|Jeremiah 50:2]] · [[connections/chapters/24-jeremiah/Jeremiah 51|Jeremiah 51:25]] · [[connections/chapters/23-isaiah/Isaiah 45|Isaiah 45:1–3]]

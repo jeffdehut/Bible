@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "wisdom"]
 
 ![[text/hebrew/19-psalms#Chapter 119]]
 
+## Plain English translation
+
+![[text/english/19-psalms#Chapter 119]]
+
 ## Cross-references
 
 - **119:1** → [[connections/chapters/42-luke/Luke 11|Luke 11:28]] · [[connections/chapters/26-ezekiel/Ezekiel 11|Ezekiel 11:20]] · [[connections/chapters/59-james/James 1|James 1:25]] · [[connections/chapters/19-psalms/Psalms 128|Psalms 128:1]] · [[connections/chapters/43-john/John 13|John 13:17]] · [[connections/chapters/42-luke/Luke 1|Luke 1:6]] · [[connections/chapters/19-psalms/Psalms 1|Psalms 1:1–3]] · [[connections/chapters/56-titus/Titus 2|Titus 2:11–12]] · [[connections/chapters/52-1-thessalonians/1 Thessalonians 4|1 Thessalonians 4:1–2]] · [[connections/chapters/19-psalms/Psalms 112|Psalms 112:1]] · [[connections/chapters/44-acts/Acts 24|Acts 24:16]] · [[connections/chapters/20-proverbs/Proverbs 11|Proverbs 11:20]] · [[connections/chapters/40-matthew/Matthew 5|Matthew 5:3–12]] · [[connections/chapters/19-psalms/Psalms 101|Psalms 101:2]] · [[connections/chapters/28-hosea/Hosea 14|Hosea 14:10]] · [[connections/chapters/66-revelation/Revelation 22|Revelation 22:14]] · [[connections/chapters/19-psalms/Psalms 32|Psalms 32:1–2]] · [[connections/chapters/19-psalms/Psalms 101|Psalms 101:6]] · [[connections/chapters/47-2-corinthians/2 Corinthians 1|2 Corinthians 1:12]] · [[connections/chapters/14-2-chronicles/2 Chronicles 31|2 Chronicles 31:20–21]] · [[connections/chapters/18-job/Job 1|Job 1:8]] · [[connections/chapters/43-john/John 1|John 1:47]] · [[connections/chapters/18-job/Job 1|Job 1:1]] · [[connections/chapters/12-2-kings/2 Kings 20|2 Kings 20:3]] · [[connections/chapters/20-proverbs/Proverbs 13|Proverbs 13:6]]

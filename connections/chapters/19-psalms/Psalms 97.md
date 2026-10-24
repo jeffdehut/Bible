@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "wisdom"]
 
 ![[text/hebrew/19-psalms#Chapter 97]]
 
+## Plain English translation
+
+![[text/english/19-psalms#Chapter 97]]
+
 ## Cross-references
 
 - **97:1** → [[connections/chapters/19-psalms/Psalms 96|Psalms 96:10–11]] · [[connections/chapters/19-psalms/Psalms 99|Psalms 99:1]]

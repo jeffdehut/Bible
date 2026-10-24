@@ -18,6 +18,10 @@ tags: ["chapter", "ot", "wisdom"]
 
 ![[text/hebrew/19-psalms#Chapter 70]]
 
+## Plain English translation
+
+![[text/english/19-psalms#Chapter 70]]
+
 ## Cross-references
 
 - **70:2** → [[connections/chapters/19-psalms/Psalms 40|Psalms 40:14–18]] · [[connections/chapters/19-psalms/Psalms 143|Psalms 143:7]] · [[connections/chapters/19-psalms/Psalms 71|Psalms 71:12]] · [[connections/chapters/19-psalms/Psalms 69|Psalms 69:19]]

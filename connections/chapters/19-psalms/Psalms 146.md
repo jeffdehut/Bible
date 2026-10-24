@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "wisdom"]
 
 ![[text/hebrew/19-psalms#Chapter 146]]
 
+## Plain English translation
+
+![[text/english/19-psalms#Chapter 146]]
+
 ## Cross-references
 
 - **146:1** → [[connections/chapters/19-psalms/Psalms 103|Psalms 103:22–104:1]] · [[connections/chapters/19-psalms/Psalms 103|Psalms 103:1]]

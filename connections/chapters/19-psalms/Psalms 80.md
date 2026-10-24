@@ -18,6 +18,10 @@ tags: ["chapter", "ot", "wisdom"]
 
 ![[text/hebrew/19-psalms#Chapter 80]]
 
+## Plain English translation
+
+![[text/english/19-psalms#Chapter 80]]
+
 ## Cross-references
 
 - **80:2** → [[connections/chapters/19-psalms/Psalms 50|Psalms 50:2]] · [[connections/chapters/19-psalms/Psalms 77|Psalms 77:21]] · [[connections/chapters/66-revelation/Revelation 21|Revelation 21:23]]

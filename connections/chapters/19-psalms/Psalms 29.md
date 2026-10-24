@@ -18,6 +18,10 @@ tags: ["chapter", "ot", "wisdom"]
 
 ![[text/hebrew/19-psalms#Chapter 29]]
 
+## Plain English translation
+
+![[text/english/19-psalms#Chapter 29]]
+
 ## Cross-references
 
 - **29:1** → [[connections/chapters/19-psalms/Psalms 96|Psalms 96:7–9]] · [[connections/chapters/66-revelation/Revelation 5|Revelation 5:11–14]] · [[connections/chapters/24-jeremiah/Jeremiah 13|Jeremiah 13:16–18]] · [[connections/chapters/13-1-chronicles/1 Chronicles 16|1 Chronicles 16:28–29]] · [[connections/chapters/23-isaiah/Isaiah 60|Isaiah 60:12]] · [[connections/chapters/19-psalms/Psalms 68|Psalms 68:32–35]]

@@ -18,6 +18,10 @@ tags: ["chapter", "ot", "wisdom"]
 
 ![[text/hebrew/19-psalms#Chapter 61]]
 
+## Plain English translation
+
+![[text/english/19-psalms#Chapter 61]]
+
 ## Cross-references
 
 - **61:2** → [[connections/chapters/50-philippians/Philippians 4|Philippians 4:6]] · [[connections/chapters/19-psalms/Psalms 4|Psalms 4:2]] · [[connections/chapters/19-psalms/Psalms 86|Psalms 86:6]]

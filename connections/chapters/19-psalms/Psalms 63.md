@@ -18,6 +18,10 @@ tags: ["chapter", "ot", "wisdom"]
 
 ![[text/hebrew/19-psalms#Chapter 63]]
 
+## Plain English translation
+
+![[text/english/19-psalms#Chapter 63]]
+
 ## Cross-references
 
 - **63:2** → [[connections/chapters/19-psalms/Psalms 143|Psalms 143:6]] · [[connections/chapters/19-psalms/Psalms 84|Psalms 84:3]] · [[connections/chapters/19-psalms/Psalms 42|Psalms 42:2–3]] · [[connections/chapters/40-matthew/Matthew 6|Matthew 6:33]] · [[connections/chapters/19-psalms/Psalms 91|Psalms 91:2]] · [[connections/chapters/66-revelation/Revelation 7|Revelation 7:16–17]] · [[connections/chapters/23-isaiah/Isaiah 41|Isaiah 41:18]] · [[connections/chapters/02-exodus/Exodus 15|Exodus 15:2]] · [[connections/chapters/19-psalms/Psalms 5|Psalms 5:4]] · [[connections/chapters/43-john/John 7|John 7:37]] · [[connections/chapters/19-psalms/Psalms 118|Psalms 118:28]] · [[connections/chapters/19-psalms/Psalms 143|Psalms 143:10]] · [[connections/chapters/20-proverbs/Proverbs 8|Proverbs 8:17]] · [[connections/chapters/09-1-samuel/1 Samuel 23|1 Samuel 23:23–25]] · [[connections/chapters/09-1-samuel/1 Samuel 22|1 Samuel 22:5]] · [[connections/chapters/19-psalms/Psalms 31|Psalms 31:15]] · [[connections/chapters/22-song-of-songs/Song of Songs 3|Song of Songs 3:1–3]] · [[connections/chapters/20-proverbs/Proverbs 1|Proverbs 1:27–28]] · [[connections/chapters/24-jeremiah/Jeremiah 31|Jeremiah 31:1]] · [[connections/chapters/38-zechariah/Zechariah 13|Zechariah 13:9]] · [[connections/chapters/28-hosea/Hosea 5|Hosea 5:15]]

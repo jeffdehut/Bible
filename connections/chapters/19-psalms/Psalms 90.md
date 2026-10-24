@@ -18,6 +18,10 @@ tags: ["chapter", "ot", "wisdom"]
 
 ![[text/hebrew/19-psalms#Chapter 90]]
 
+## Plain English translation
+
+![[text/english/19-psalms#Chapter 90]]
+
 ## Cross-references
 
 - **90:1** → [[connections/chapters/05-deuteronomy/Deuteronomy 33|Deuteronomy 33:27]] · [[connections/chapters/62-1-john/1 John 4|1 John 4:16]] · [[connections/chapters/19-psalms/Psalms 71|Psalms 71:3]] · [[connections/chapters/19-psalms/Psalms 91|Psalms 91:1]] · [[connections/chapters/26-ezekiel/Ezekiel 11|Ezekiel 11:16]] · [[connections/chapters/19-psalms/Psalms 91|Psalms 91:9]]

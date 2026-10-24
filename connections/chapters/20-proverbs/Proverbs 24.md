@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "wisdom"]
 
 ![[text/hebrew/20-proverbs#Chapter 24]]
 
+## Plain English translation
+
+![[text/english/20-proverbs#Chapter 24]]
+
 ## Cross-references
 
 - **24:1** → [[connections/chapters/19-psalms/Psalms 37|Psalms 37:7]] · [[connections/chapters/20-proverbs/Proverbs 3|Proverbs 3:31]] · [[connections/chapters/20-proverbs/Proverbs 23|Proverbs 23:17]] · [[connections/chapters/59-james/James 4|James 4:5–6]]

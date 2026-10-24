@@ -18,6 +18,10 @@ tags: ["chapter", "ot", "wisdom"]
 
 ![[text/hebrew/19-psalms#Chapter 82]]
 
+## Plain English translation
+
+![[text/english/19-psalms#Chapter 82]]
+
 ## Cross-references
 
 - **82:1** → [[connections/chapters/43-john/John 10|John 10:35]] · [[connections/chapters/14-2-chronicles/2 Chronicles 19|2 Chronicles 19:6–7]] · [[connections/chapters/19-psalms/Psalms 82|Psalms 82:6–7]] · [[connections/chapters/23-isaiah/Isaiah 3|Isaiah 3:13]]

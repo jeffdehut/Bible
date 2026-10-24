@@ -18,6 +18,10 @@ tags: ["chapter", "ot", "wisdom"]
 
 ![[text/hebrew/19-psalms#Chapter 52]]
 
+## Plain English translation
+
+![[text/english/19-psalms#Chapter 52]]
+
 ## Cross-references
 
 - **52:3** → [[connections/chapters/19-psalms/Psalms 103|Psalms 103:17]]

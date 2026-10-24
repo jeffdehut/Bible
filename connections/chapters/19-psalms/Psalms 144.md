@@ -18,6 +18,10 @@ tags: ["chapter", "ot", "wisdom"]
 
 ![[text/hebrew/19-psalms#Chapter 144]]
 
+## Plain English translation
+
+![[text/english/19-psalms#Chapter 144]]
+
 ## Cross-references
 
 - **144:1** → [[connections/chapters/19-psalms/Psalms 18|Psalms 18:35]] · [[connections/chapters/19-psalms/Psalms 18|Psalms 18:3]] · [[connections/chapters/10-2-samuel/2 Samuel 22|2 Samuel 22:35]] · [[connections/chapters/19-psalms/Psalms 44|Psalms 44:4–5]] · [[connections/chapters/49-ephesians/Ephesians 6|Ephesians 6:10–11]] · [[connections/chapters/47-2-corinthians/2 Corinthians 10|2 Corinthians 10:4]] · [[connections/chapters/05-deuteronomy/Deuteronomy 32|Deuteronomy 32:30–31]] · [[connections/chapters/23-isaiah/Isaiah 45|Isaiah 45:24]] · [[connections/chapters/19-psalms/Psalms 60|Psalms 60:14]] · [[connections/chapters/19-psalms/Psalms 18|Psalms 18:32]] · [[connections/chapters/19-psalms/Psalms 71|Psalms 71:3]] · [[connections/chapters/19-psalms/Psalms 95|Psalms 95:1]]

@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "prophets"]
 
 ![[text/hebrew/23-isaiah#Chapter 11]]
 
+## Plain English translation
+
+![[text/english/23-isaiah#Chapter 11]]
+
 ## Cross-references
 
 - **11:1** → [[connections/chapters/24-jeremiah/Jeremiah 23|Jeremiah 23:5]] · [[connections/chapters/66-revelation/Revelation 22|Revelation 22:16]] · [[connections/chapters/38-zechariah/Zechariah 6|Zechariah 6:12]] · [[connections/chapters/66-revelation/Revelation 5|Revelation 5:5]] · [[connections/chapters/44-acts/Acts 13|Acts 13:22–23]] · [[connections/chapters/24-jeremiah/Jeremiah 33|Jeremiah 33:15]] · [[connections/chapters/38-zechariah/Zechariah 3|Zechariah 3:8]] · [[connections/chapters/23-isaiah/Isaiah 53|Isaiah 53:2]] · [[connections/chapters/23-isaiah/Isaiah 9|Isaiah 9:6]] · [[connections/chapters/45-romans/Romans 15|Romans 15:12]] · [[connections/chapters/23-isaiah/Isaiah 4|Isaiah 4:2]] · [[connections/chapters/23-isaiah/Isaiah 11|Isaiah 11:10]] · [[connections/chapters/40-matthew/Matthew 1|Matthew 1:6–16]] · [[connections/chapters/09-1-samuel/1 Samuel 17|1 Samuel 17:58]]

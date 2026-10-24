@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "wisdom"]
 
 ![[text/hebrew/20-proverbs#Chapter 25]]
 
+## Plain English translation
+
+![[text/english/20-proverbs#Chapter 25]]
+
 ## Cross-references
 
 - **25:2** → [[connections/chapters/05-deuteronomy/Deuteronomy 29|Deuteronomy 29:28]] · [[connections/chapters/45-romans/Romans 11|Romans 11:33–34]] · [[connections/chapters/18-job/Job 11|Job 11:7–8]] · [[connections/chapters/18-job/Job 38|Job 38:4–39:30]] · [[connections/chapters/18-job/Job 42|Job 42:3]] · [[connections/chapters/11-1-kings/1 Kings 5|1 Kings 5:9–14]] · [[connections/chapters/18-job/Job 29|Job 29:16]]

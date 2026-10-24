@@ -18,6 +18,10 @@ tags: ["chapter", "ot", "wisdom"]
 
 ![[text/hebrew/19-psalms#Chapter 128]]
 
+## Plain English translation
+
+![[text/english/19-psalms#Chapter 128]]
+
 ## Cross-references
 
 - **128:1** → [[connections/chapters/19-psalms/Psalms 112|Psalms 112:1]] · [[connections/chapters/19-psalms/Psalms 119|Psalms 119:1]] · [[connections/chapters/19-psalms/Psalms 103|Psalms 103:13]] · [[connections/chapters/42-luke/Luke 1|Luke 1:50]] · [[connections/chapters/44-acts/Acts 9|Acts 9:31]] · [[connections/chapters/19-psalms/Psalms 1|Psalms 1:1–3]] · [[connections/chapters/19-psalms/Psalms 147|Psalms 147:11]] · [[connections/chapters/19-psalms/Psalms 127|Psalms 127:1]] · [[connections/chapters/19-psalms/Psalms 103|Psalms 103:17]] · [[connections/chapters/19-psalms/Psalms 115|Psalms 115:13]] · [[connections/chapters/19-psalms/Psalms 120|Psalms 120:1]] · [[connections/chapters/52-1-thessalonians/1 Thessalonians 4|1 Thessalonians 4:1]] · [[connections/chapters/42-luke/Luke 1|Luke 1:6]] · [[connections/chapters/19-psalms/Psalms 121|Psalms 121:1]] · [[connections/chapters/19-psalms/Psalms 103|Psalms 103:1]] · [[connections/chapters/19-psalms/Psalms 119|Psalms 119:3]] · [[connections/chapters/19-psalms/Psalms 125|Psalms 125:1]]

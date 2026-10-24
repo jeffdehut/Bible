@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "prophets"]
 
 ![[text/hebrew/23-isaiah#Chapter 14]]
 
+## Plain English translation
+
+![[text/english/23-isaiah#Chapter 14]]
+
 ## Cross-references
 
 - **14:1** → [[connections/chapters/19-psalms/Psalms 102|Psalms 102:14]] · [[connections/chapters/38-zechariah/Zechariah 1|Zechariah 1:17]]

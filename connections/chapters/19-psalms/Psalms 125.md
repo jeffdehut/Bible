@@ -18,6 +18,10 @@ tags: ["chapter", "ot", "wisdom"]
 
 ![[text/hebrew/19-psalms#Chapter 125]]
 
+## Plain English translation
+
+![[text/english/19-psalms#Chapter 125]]
+
 ## Cross-references
 
 - **125:1** → [[connections/chapters/24-jeremiah/Jeremiah 17|Jeremiah 17:7–8]] · [[connections/chapters/19-psalms/Psalms 62|Psalms 62:3]] · [[connections/chapters/20-proverbs/Proverbs 3|Proverbs 3:5–6]] · [[connections/chapters/19-psalms/Psalms 118|Psalms 118:8–9]] · [[connections/chapters/19-psalms/Psalms 120|Psalms 120:1]] · [[connections/chapters/38-zechariah/Zechariah 1|Zechariah 1:17]] · [[connections/chapters/19-psalms/Psalms 25|Psalms 25:2]] · [[connections/chapters/19-psalms/Psalms 34|Psalms 34:23]] · [[connections/chapters/13-1-chronicles/1 Chronicles 5|1 Chronicles 5:20]] · [[connections/chapters/19-psalms/Psalms 121|Psalms 121:1]] · [[connections/chapters/19-psalms/Psalms 62|Psalms 62:7]] · [[connections/chapters/19-psalms/Psalms 27|Psalms 27:1]] · [[connections/chapters/49-ephesians/Ephesians 1|Ephesians 1:12–13]] · [[connections/chapters/23-isaiah/Isaiah 12|Isaiah 12:6]] · [[connections/chapters/19-psalms/Psalms 122|Psalms 122:1]] · [[connections/chapters/19-psalms/Psalms 132|Psalms 132:13–14]] · [[connections/chapters/19-psalms/Psalms 123|Psalms 123:1]] · [[connections/chapters/33-micah/Micah 4|Micah 4:2]] · [[connections/chapters/23-isaiah/Isaiah 51|Isaiah 51:16]] · [[connections/chapters/66-revelation/Revelation 14|Revelation 14:1]]

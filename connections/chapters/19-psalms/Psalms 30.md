@@ -18,6 +18,10 @@ tags: ["chapter", "ot", "wisdom"]
 
 ![[text/hebrew/19-psalms#Chapter 30]]
 
+## Plain English translation
+
+![[text/english/19-psalms#Chapter 30]]
+
 ## Cross-references
 
 - **30:2** → [[connections/chapters/19-psalms/Psalms 25|Psalms 25:2]] · [[connections/chapters/27-daniel/Daniel 4|Daniel 4:34]] · [[connections/chapters/19-psalms/Psalms 35|Psalms 35:19]]

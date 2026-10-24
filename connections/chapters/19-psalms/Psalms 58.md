@@ -18,6 +18,10 @@ tags: ["chapter", "ot", "wisdom"]
 
 ![[text/hebrew/19-psalms#Chapter 58]]
 
+## Plain English translation
+
+![[text/english/19-psalms#Chapter 58]]
+
 ## Cross-references
 
 - **58:4** → [[connections/chapters/19-psalms/Psalms 51|Psalms 51:7]]

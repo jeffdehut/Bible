@@ -18,6 +18,10 @@ tags: ["chapter", "ot", "wisdom"]
 
 ![[text/hebrew/19-psalms#Chapter 93]]
 
+## Plain English translation
+
+![[text/english/19-psalms#Chapter 93]]
+
 ## Cross-references
 
 - **93:1** → [[connections/chapters/19-psalms/Psalms 96|Psalms 96:10]] · [[connections/chapters/13-1-chronicles/1 Chronicles 29|1 Chronicles 29:12]] · [[connections/chapters/66-revelation/Revelation 19|Revelation 19:6]] · [[connections/chapters/19-psalms/Psalms 99|Psalms 99:1]] · [[connections/chapters/19-psalms/Psalms 103|Psalms 103:19]] · [[connections/chapters/19-psalms/Psalms 65|Psalms 65:7]] · [[connections/chapters/19-psalms/Psalms 97|Psalms 97:1]] · [[connections/chapters/23-isaiah/Isaiah 45|Isaiah 45:18]] · [[connections/chapters/19-psalms/Psalms 104|Psalms 104:1–2]] · [[connections/chapters/23-isaiah/Isaiah 45|Isaiah 45:12]] · [[connections/chapters/27-daniel/Daniel 4|Daniel 4:29–31]] · [[connections/chapters/19-psalms/Psalms 59|Psalms 59:14]] · [[connections/chapters/19-psalms/Psalms 18|Psalms 18:33]]

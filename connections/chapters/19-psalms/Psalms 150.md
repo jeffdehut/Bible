@@ -18,6 +18,10 @@ tags: ["chapter", "ot", "wisdom"]
 
 ![[text/hebrew/19-psalms#Chapter 150]]
 
+## Plain English translation
+
+![[text/english/19-psalms#Chapter 150]]
+
 ## Cross-references
 
 - **150:1** → [[connections/chapters/19-psalms/Psalms 149|Psalms 149:1]] · [[connections/chapters/19-psalms/Psalms 134|Psalms 134:2]]

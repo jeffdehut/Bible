@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "wisdom"]
 
 ![[text/hebrew/20-proverbs#Chapter 22]]
 
+## Plain English translation
+
+![[text/english/20-proverbs#Chapter 22]]
+
 ## Cross-references
 
 - **22:1** → [[connections/chapters/21-ecclesiastes/Ecclesiastes 7|Ecclesiastes 7:1]]

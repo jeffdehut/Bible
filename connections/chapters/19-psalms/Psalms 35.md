@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "wisdom"]
 
 ![[text/hebrew/19-psalms#Chapter 35]]
 
+## Plain English translation
+
+![[text/english/19-psalms#Chapter 35]]
+
 ## Cross-references
 
 - **35:1** → [[connections/chapters/19-psalms/Psalms 43|Psalms 43:1]] · [[connections/chapters/24-jeremiah/Jeremiah 51|Jeremiah 51:36]] · [[connections/chapters/19-psalms/Psalms 119|Psalms 119:154]] · [[connections/chapters/23-isaiah/Isaiah 49|Isaiah 49:25]] · [[connections/chapters/20-proverbs/Proverbs 23|Proverbs 23:11]] · [[connections/chapters/20-proverbs/Proverbs 22|Proverbs 22:23]] · [[connections/chapters/25-lamentations/Lamentations 3|Lamentations 3:58]] · [[connections/chapters/44-acts/Acts 5|Acts 5:39]] · [[connections/chapters/02-exodus/Exodus 14|Exodus 14:25]] · [[connections/chapters/09-1-samuel/1 Samuel 24|1 Samuel 24:16]] · [[connections/chapters/33-micah/Micah 7|Micah 7:9]] · [[connections/chapters/44-acts/Acts 23|Acts 23:9]] · [[connections/chapters/16-nehemiah/Nehemiah 4|Nehemiah 4:14]] · [[connections/chapters/06-joshua/Joshua 10|Joshua 10:42]]

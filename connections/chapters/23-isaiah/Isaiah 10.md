@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "prophets"]
 
 ![[text/hebrew/23-isaiah#Chapter 10]]
 
+## Plain English translation
+
+![[text/english/23-isaiah#Chapter 10]]
+
 ## Cross-references
 
 - **10:1** → [[connections/chapters/42-luke/Luke 11|Luke 11:52]] · [[connections/chapters/33-micah/Micah 3|Micah 3:1–4]]

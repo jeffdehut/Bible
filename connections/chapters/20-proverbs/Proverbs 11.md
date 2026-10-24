@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "wisdom"]
 
 ![[text/hebrew/20-proverbs#Chapter 11]]
 
+## Plain English translation
+
+![[text/english/20-proverbs#Chapter 11]]
+
 ## Cross-references
 
 - **11:1** → [[connections/chapters/05-deuteronomy/Deuteronomy 25|Deuteronomy 25:13–16]] · [[connections/chapters/20-proverbs/Proverbs 20|Proverbs 20:23]] · [[connections/chapters/20-proverbs/Proverbs 16|Proverbs 16:11]] · [[connections/chapters/03-leviticus/Leviticus 19|Leviticus 19:35–36]] · [[connections/chapters/20-proverbs/Proverbs 20|Proverbs 20:10]] · [[connections/chapters/30-amos/Amos 8|Amos 8:5–6]] · [[connections/chapters/28-hosea/Hosea 12|Hosea 12:8]] · [[connections/chapters/26-ezekiel/Ezekiel 45|Ezekiel 45:10–12]] · [[connections/chapters/33-micah/Micah 6|Micah 6:10–11]]

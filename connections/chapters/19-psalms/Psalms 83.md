@@ -18,6 +18,10 @@ tags: ["chapter", "ot", "wisdom"]
 
 ![[text/hebrew/19-psalms#Chapter 83]]
 
+## Plain English translation
+
+![[text/english/19-psalms#Chapter 83]]
+
 ## Cross-references
 
 - **83:4** → [[connections/chapters/19-psalms/Psalms 64|Psalms 64:3]] · [[connections/chapters/19-psalms/Psalms 27|Psalms 27:5]]

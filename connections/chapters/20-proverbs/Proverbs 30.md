@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "wisdom"]
 
 ![[text/hebrew/20-proverbs#Chapter 30]]
 
+## Plain English translation
+
+![[text/english/20-proverbs#Chapter 30]]
+
 ## Cross-references
 
 - **30:4** → [[connections/chapters/43-john/John 3|John 3:13]] · [[connections/chapters/49-ephesians/Ephesians 4|Ephesians 4:8–10]] · [[connections/chapters/18-job/Job 26|Job 26:8]] · [[connections/chapters/23-isaiah/Isaiah 9|Isaiah 9:5]] · [[connections/chapters/23-isaiah/Isaiah 7|Isaiah 7:14]] · [[connections/chapters/05-deuteronomy/Deuteronomy 30|Deuteronomy 30:12]] · [[connections/chapters/40-matthew/Matthew 1|Matthew 1:21–23]] · [[connections/chapters/66-revelation/Revelation 19|Revelation 19:12]] · [[connections/chapters/23-isaiah/Isaiah 40|Isaiah 40:12–31]] · [[connections/chapters/02-exodus/Exodus 34|Exodus 34:5–7]] · [[connections/chapters/18-job/Job 38|Job 38:4–41]]

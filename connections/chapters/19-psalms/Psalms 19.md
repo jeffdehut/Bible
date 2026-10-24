@@ -18,6 +18,10 @@ tags: ["chapter", "ot", "wisdom"]
 
 ![[text/hebrew/19-psalms#Chapter 19]]
 
+## Plain English translation
+
+![[text/english/19-psalms#Chapter 19]]
+
 ## Cross-references
 
 - **19:2** → [[connections/chapters/19-psalms/Psalms 8|Psalms 8:4]] · [[connections/chapters/45-romans/Romans 1|Romans 1:19–20]] · [[connections/chapters/19-psalms/Psalms 50|Psalms 50:6]] · [[connections/chapters/19-psalms/Psalms 148|Psalms 148:3–4]] · [[connections/chapters/19-psalms/Psalms 33|Psalms 33:6]] · [[connections/chapters/01-genesis/Genesis 1|Genesis 1:14–15]] · [[connections/chapters/19-psalms/Psalms 150|Psalms 150:1–2]] · [[connections/chapters/24-jeremiah/Jeremiah 10|Jeremiah 10:11–12]] · [[connections/chapters/27-daniel/Daniel 12|Daniel 12:3]] · [[connections/chapters/19-psalms/Psalms 115|Psalms 115:16]] · [[connections/chapters/23-isaiah/Isaiah 40|Isaiah 40:22–26]] · [[connections/chapters/01-genesis/Genesis 1|Genesis 1:6–8]]

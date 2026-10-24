@@ -18,6 +18,10 @@ tags: ["chapter", "ot", "wisdom"]
 
 ![[text/hebrew/19-psalms#Chapter 88]]
 
+## Plain English translation
+
+![[text/english/19-psalms#Chapter 88]]
+
 ## Cross-references
 
 - **88:2** → [[connections/chapters/23-isaiah/Isaiah 12|Isaiah 12:2]]

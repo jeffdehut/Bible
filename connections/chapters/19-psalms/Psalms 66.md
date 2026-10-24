@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "wisdom"]
 
 ![[text/hebrew/19-psalms#Chapter 66]]
 
+## Plain English translation
+
+![[text/english/19-psalms#Chapter 66]]
+
 ## Cross-references
 
 - **66:1** → [[connections/chapters/13-1-chronicles/1 Chronicles 16|1 Chronicles 16:23–24]] · [[connections/chapters/19-psalms/Psalms 100|Psalms 100:1]] · [[connections/chapters/19-psalms/Psalms 98|Psalms 98:4]]

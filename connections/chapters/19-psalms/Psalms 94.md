@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "wisdom"]
 
 ![[text/hebrew/19-psalms#Chapter 94]]
 
+## Plain English translation
+
+![[text/english/19-psalms#Chapter 94]]
+
 ## Cross-references
 
 - **94:1** → [[connections/chapters/23-isaiah/Isaiah 35|Isaiah 35:4]] · [[connections/chapters/34-nahum/Nahum 1|Nahum 1:2]]

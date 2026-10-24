@@ -18,6 +18,10 @@ tags: ["chapter", "ot", "wisdom"]
 
 ![[text/hebrew/19-psalms#Chapter 87]]
 
+## Plain English translation
+
+![[text/english/19-psalms#Chapter 87]]
+
 ## Cross-references
 
 - **87:1** → [[connections/chapters/23-isaiah/Isaiah 28|Isaiah 28:16]] · [[connections/chapters/23-isaiah/Isaiah 56|Isaiah 56:7]] · [[connections/chapters/49-ephesians/Ephesians 2|Ephesians 2:20–22]] · [[connections/chapters/23-isaiah/Isaiah 2|Isaiah 2:2–3]] · [[connections/chapters/40-matthew/Matthew 16|Matthew 16:18]]

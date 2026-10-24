@@ -18,6 +18,10 @@ tags: ["chapter", "ot", "wisdom"]
 
 ![[text/hebrew/19-psalms#Chapter 65]]
 
+## Plain English translation
+
+![[text/english/19-psalms#Chapter 65]]
+
 ## Cross-references
 
 - **65:2** → [[connections/chapters/19-psalms/Psalms 62|Psalms 62:2]] · [[connections/chapters/19-psalms/Psalms 76|Psalms 76:12]]

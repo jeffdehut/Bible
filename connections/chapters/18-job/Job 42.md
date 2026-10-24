@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "wisdom"]
 
 ![[text/hebrew/18-job#Chapter 42]]
 
+## Plain English translation
+
+![[text/english/18-job#Chapter 42]]
+
 ## Cross-references
 
 - **42:2** → [[connections/chapters/40-matthew/Matthew 19|Matthew 19:26]] · [[connections/chapters/41-mark/Mark 10|Mark 10:27]] · [[connections/chapters/01-genesis/Genesis 18|Genesis 18:14]] · [[connections/chapters/58-hebrews/Hebrews 4|Hebrews 4:12–13]] · [[connections/chapters/24-jeremiah/Jeremiah 32|Jeremiah 32:17]] · [[connections/chapters/23-isaiah/Isaiah 46|Isaiah 46:10]] · [[connections/chapters/49-ephesians/Ephesians 1|Ephesians 1:11]] · [[connections/chapters/20-proverbs/Proverbs 19|Proverbs 19:21]] · [[connections/chapters/19-psalms/Psalms 44|Psalms 44:22]] · [[connections/chapters/18-job/Job 23|Job 23:13]] · [[connections/chapters/23-isaiah/Isaiah 14|Isaiah 14:27]] · [[connections/chapters/23-isaiah/Isaiah 43|Isaiah 43:13]] · [[connections/chapters/21-ecclesiastes/Ecclesiastes 3|Ecclesiastes 3:14]] · [[connections/chapters/27-daniel/Daniel 4|Daniel 4:32]] · [[connections/chapters/43-john/John 2|John 2:24–25]] · [[connections/chapters/19-psalms/Psalms 139|Psalms 139:2]] · [[connections/chapters/26-ezekiel/Ezekiel 38|Ezekiel 38:10]] · [[connections/chapters/41-mark/Mark 14|Mark 14:36]] · [[connections/chapters/24-jeremiah/Jeremiah 17|Jeremiah 17:10]] · [[connections/chapters/42-luke/Luke 18|Luke 18:27]] · [[connections/chapters/43-john/John 21|John 21:17]]

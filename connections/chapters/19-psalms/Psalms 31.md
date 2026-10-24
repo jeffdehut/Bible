@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "wisdom"]
 
 ![[text/hebrew/19-psalms#Chapter 31]]
 
+## Plain English translation
+
+![[text/english/19-psalms#Chapter 31]]
+
 ## Cross-references
 
 - **31:2** → [[connections/chapters/45-romans/Romans 10|Romans 10:11]] · [[connections/chapters/19-psalms/Psalms 25|Psalms 25:2]] · [[connections/chapters/19-psalms/Psalms 71|Psalms 71:1–3]] · [[connections/chapters/19-psalms/Psalms 22|Psalms 22:5–6]] · [[connections/chapters/23-isaiah/Isaiah 49|Isaiah 49:23]] · [[connections/chapters/19-psalms/Psalms 143|Psalms 143:1]] · [[connections/chapters/27-daniel/Daniel 9|Daniel 9:16]] · [[connections/chapters/45-romans/Romans 5|Romans 5:5]] · [[connections/chapters/19-psalms/Psalms 7|Psalms 7:9–10]]

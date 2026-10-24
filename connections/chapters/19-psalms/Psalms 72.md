@@ -18,6 +18,10 @@ tags: ["chapter", "ot", "wisdom"]
 
 ![[text/hebrew/19-psalms#Chapter 72]]
 
+## Plain English translation
+
+![[text/english/19-psalms#Chapter 72]]
+
 ## Cross-references
 
 - **72:1** → [[connections/chapters/24-jeremiah/Jeremiah 23|Jeremiah 23:5–6]] · [[connections/chapters/14-2-chronicles/2 Chronicles 1|2 Chronicles 1:10]] · [[connections/chapters/13-1-chronicles/1 Chronicles 22|1 Chronicles 22:12–13]]

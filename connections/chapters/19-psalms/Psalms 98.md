@@ -18,6 +18,10 @@ tags: ["chapter", "ot", "wisdom"]
 
 ![[text/hebrew/19-psalms#Chapter 98]]
 
+## Plain English translation
+
+![[text/english/19-psalms#Chapter 98]]
+
 ## Cross-references
 
 - **98:1** → [[connections/chapters/02-exodus/Exodus 15|Exodus 15:6]] · [[connections/chapters/23-isaiah/Isaiah 52|Isaiah 52:10]] · [[connections/chapters/66-revelation/Revelation 14|Revelation 14:3]] · [[connections/chapters/19-psalms/Psalms 33|Psalms 33:3]] · [[connections/chapters/19-psalms/Psalms 96|Psalms 96:3]] · [[connections/chapters/19-psalms/Psalms 96|Psalms 96:1]]

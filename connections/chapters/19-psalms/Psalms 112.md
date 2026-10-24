@@ -18,6 +18,10 @@ tags: ["chapter", "ot", "wisdom"]
 
 ![[text/hebrew/19-psalms#Chapter 112]]
 
+## Plain English translation
+
+![[text/english/19-psalms#Chapter 112]]
+
 ## Cross-references
 
 - **112:1** → [[connections/chapters/19-psalms/Psalms 128|Psalms 128:1]] · [[connections/chapters/42-luke/Luke 1|Luke 1:50]] · [[connections/chapters/19-psalms/Psalms 119|Psalms 119:47–48]] · [[connections/chapters/23-isaiah/Isaiah 50|Isaiah 50:10]] · [[connections/chapters/19-psalms/Psalms 119|Psalms 119:35]] · [[connections/chapters/19-psalms/Psalms 115|Psalms 115:7–13]] · [[connections/chapters/19-psalms/Psalms 111|Psalms 111:10]] · [[connections/chapters/19-psalms/Psalms 150|Psalms 150:1]] · [[connections/chapters/19-psalms/Psalms 145|Psalms 145:19]] · [[connections/chapters/19-psalms/Psalms 119|Psalms 119:97]] · [[connections/chapters/45-romans/Romans 7|Romans 7:22]] · [[connections/chapters/19-psalms/Psalms 119|Psalms 119:143]] · [[connections/chapters/19-psalms/Psalms 147|Psalms 147:1]] · [[connections/chapters/19-psalms/Psalms 148|Psalms 148:11–14]] · [[connections/chapters/45-romans/Romans 8|Romans 8:6]] · [[connections/chapters/19-psalms/Psalms 40|Psalms 40:9]] · [[connections/chapters/19-psalms/Psalms 1|Psalms 1:1–2]]

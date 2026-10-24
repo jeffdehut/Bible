@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "wisdom"]
 
 ![[text/hebrew/19-psalms#Chapter 20]]
 
+## Plain English translation
+
+![[text/english/19-psalms#Chapter 20]]
+
 ## Cross-references
 
 - **20:2** → [[connections/chapters/20-proverbs/Proverbs 18|Proverbs 18:10]] · [[connections/chapters/19-psalms/Psalms 138|Psalms 138:7]] · [[connections/chapters/19-psalms/Psalms 91|Psalms 91:14–15]] · [[connections/chapters/19-psalms/Psalms 46|Psalms 46:12]] · [[connections/chapters/23-isaiah/Isaiah 50|Isaiah 50:10]] · [[connections/chapters/58-hebrews/Hebrews 5|Hebrews 5:7]] · [[connections/chapters/19-psalms/Psalms 46|Psalms 46:2]] · [[connections/chapters/40-matthew/Matthew 26|Matthew 26:38–39]] · [[connections/chapters/19-psalms/Psalms 83|Psalms 83:19]] · [[connections/chapters/24-jeremiah/Jeremiah 30|Jeremiah 30:7]] · [[connections/chapters/19-psalms/Psalms 60|Psalms 60:13]] · [[connections/chapters/19-psalms/Psalms 9|Psalms 9:11]] · [[connections/chapters/19-psalms/Psalms 114|Psalms 114:2]] · [[connections/chapters/02-exodus/Exodus 34|Exodus 34:5–7]] · [[connections/chapters/19-psalms/Psalms 46|Psalms 46:8]] · [[connections/chapters/19-psalms/Psalms 50|Psalms 50:5]] · [[connections/chapters/19-psalms/Psalms 18|Psalms 18:3]] · [[connections/chapters/02-exodus/Exodus 3|Exodus 3:13–15]]

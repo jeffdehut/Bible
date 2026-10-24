@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "prophets"]
 
 ![[text/hebrew/24-jeremiah#Chapter 8]]
 
+## Plain English translation
+
+![[text/english/24-jeremiah#Chapter 8]]
+
 ## Cross-references
 
 - **8:3** → [[connections/chapters/66-revelation/Revelation 9|Revelation 9:6]]

@@ -18,6 +18,10 @@ tags: ["chapter", "ot", "wisdom"]
 
 ![[text/hebrew/19-psalms#Chapter 36]]
 
+## Plain English translation
+
+![[text/english/19-psalms#Chapter 36]]
+
 ## Cross-references
 
 - **36:2** → [[connections/chapters/45-romans/Romans 3|Romans 3:18]]

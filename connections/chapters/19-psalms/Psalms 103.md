@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "wisdom"]
 
 ![[text/hebrew/19-psalms#Chapter 103]]
 
+## Plain English translation
+
+![[text/english/19-psalms#Chapter 103]]
+
 ## Cross-references
 
 - **103:1** → [[connections/chapters/19-psalms/Psalms 146|Psalms 146:1–2]] · [[connections/chapters/19-psalms/Psalms 57|Psalms 57:8–12]] · [[connections/chapters/46-1-corinthians/1 Corinthians 14|1 Corinthians 14:15]] · [[connections/chapters/43-john/John 4|John 4:24]] · [[connections/chapters/19-psalms/Psalms 111|Psalms 111:1]] · [[connections/chapters/19-psalms/Psalms 103|Psalms 103:22–104:1]] · [[connections/chapters/51-colossians/Colossians 3|Colossians 3:16]] · [[connections/chapters/19-psalms/Psalms 99|Psalms 99:3]] · [[connections/chapters/41-mark/Mark 12|Mark 12:30–33]] · [[connections/chapters/42-luke/Luke 1|Luke 1:46–47]] · [[connections/chapters/19-psalms/Psalms 63|Psalms 63:6]] · [[connections/chapters/19-psalms/Psalms 47|Psalms 47:8]] · [[connections/chapters/50-philippians/Philippians 1|Philippians 1:9]] · [[connections/chapters/19-psalms/Psalms 138|Psalms 138:1]] · [[connections/chapters/66-revelation/Revelation 4|Revelation 4:8]] · [[connections/chapters/23-isaiah/Isaiah 6|Isaiah 6:3]] · [[connections/chapters/19-psalms/Psalms 86|Psalms 86:12–13]]

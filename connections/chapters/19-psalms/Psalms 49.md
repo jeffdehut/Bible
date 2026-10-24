@@ -18,6 +18,10 @@ tags: ["chapter", "ot", "wisdom"]
 
 ![[text/hebrew/19-psalms#Chapter 49]]
 
+## Plain English translation
+
+![[text/english/19-psalms#Chapter 49]]
+
 ## Cross-references
 
 - **49:4** → [[connections/chapters/40-matthew/Matthew 12|Matthew 12:35]] · [[connections/chapters/19-psalms/Psalms 19|Psalms 19:15]] · [[connections/chapters/20-proverbs/Proverbs 22|Proverbs 22:20–21]]

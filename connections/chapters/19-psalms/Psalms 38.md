@@ -18,6 +18,10 @@ tags: ["chapter", "ot", "wisdom"]
 
 ![[text/hebrew/19-psalms#Chapter 38]]
 
+## Plain English translation
+
+![[text/english/19-psalms#Chapter 38]]
+
 ## Cross-references
 
 - **38:2** → [[connections/chapters/23-isaiah/Isaiah 54|Isaiah 54:8]] · [[connections/chapters/58-hebrews/Hebrews 12|Hebrews 12:5–11]] · [[connections/chapters/19-psalms/Psalms 6|Psalms 6:2]]

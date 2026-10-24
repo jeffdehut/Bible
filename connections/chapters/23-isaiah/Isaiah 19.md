@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "prophets"]
 
 ![[text/hebrew/23-isaiah#Chapter 19]]
 
+## Plain English translation
+
+![[text/english/23-isaiah#Chapter 19]]
+
 ## Cross-references
 
 - **19:25** → [[connections/chapters/23-isaiah/Isaiah 29|Isaiah 29:23]]

@@ -18,6 +18,10 @@ tags: ["chapter", "ot", "wisdom"]
 
 ![[text/hebrew/19-psalms#Chapter 147]]
 
+## Plain English translation
+
+![[text/english/19-psalms#Chapter 147]]
+
 ## Cross-references
 
 - **147:1** → [[connections/chapters/19-psalms/Psalms 135|Psalms 135:3]]

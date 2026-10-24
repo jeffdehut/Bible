@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "wisdom"]
 
 ![[text/hebrew/20-proverbs#Chapter 13]]
 
+## Plain English translation
+
+![[text/english/20-proverbs#Chapter 13]]
+
 ## Cross-references
 
 - **13:1** → [[connections/chapters/20-proverbs/Proverbs 15|Proverbs 15:5]] · [[connections/chapters/20-proverbs/Proverbs 9|Proverbs 9:7–8]] · [[connections/chapters/20-proverbs/Proverbs 15|Proverbs 15:20]]

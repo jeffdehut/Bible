@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "wisdom"]
 
 ![[text/hebrew/20-proverbs#Chapter 19]]
 
+## Plain English translation
+
+![[text/english/20-proverbs#Chapter 19]]
+
 ## Cross-references
 
 - **19:1** → [[connections/chapters/20-proverbs/Proverbs 28|Proverbs 28:6]]

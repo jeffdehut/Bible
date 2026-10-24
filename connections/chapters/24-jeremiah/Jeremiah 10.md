@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "prophets"]
 
 ![[text/hebrew/24-jeremiah#Chapter 10]]
 
+## Plain English translation
+
+![[text/english/24-jeremiah#Chapter 10]]
+
 ## Cross-references
 
 - **10:2** → [[connections/chapters/03-leviticus/Leviticus 20|Leviticus 20:23]] · [[connections/chapters/03-leviticus/Leviticus 18|Leviticus 18:3]] · [[connections/chapters/42-luke/Luke 21|Luke 21:25–28]] · [[connections/chapters/26-ezekiel/Ezekiel 20|Ezekiel 20:32]] · [[connections/chapters/05-deuteronomy/Deuteronomy 12|Deuteronomy 12:30–31]]

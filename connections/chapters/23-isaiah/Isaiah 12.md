@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "prophets"]
 
 ![[text/hebrew/23-isaiah#Chapter 12]]
 
+## Plain English translation
+
+![[text/english/23-isaiah#Chapter 12]]
+
 ## Cross-references
 
 - **12:1** → [[connections/chapters/19-psalms/Psalms 30|Psalms 30:6]] · [[connections/chapters/23-isaiah/Isaiah 54|Isaiah 54:8]] · [[connections/chapters/23-isaiah/Isaiah 25|Isaiah 25:1]] · [[connections/chapters/38-zechariah/Zechariah 14|Zechariah 14:9]] · [[connections/chapters/28-hosea/Hosea 6|Hosea 6:1]] · [[connections/chapters/23-isaiah/Isaiah 40|Isaiah 40:1–2]]

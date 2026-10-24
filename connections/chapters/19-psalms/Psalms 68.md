@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "wisdom"]
 
 ![[text/hebrew/19-psalms#Chapter 68]]
 
+## Plain English translation
+
+![[text/english/19-psalms#Chapter 68]]
+
 ## Cross-references
 
 - **68:2** → [[connections/chapters/04-numbers/Numbers 10|Numbers 10:35]] · [[connections/chapters/23-isaiah/Isaiah 51|Isaiah 51:9–10]] · [[connections/chapters/23-isaiah/Isaiah 42|Isaiah 42:13–14]] · [[connections/chapters/19-psalms/Psalms 44|Psalms 44:27]] · [[connections/chapters/19-psalms/Psalms 89|Psalms 89:11]] · [[connections/chapters/26-ezekiel/Ezekiel 12|Ezekiel 12:14–15]] · [[connections/chapters/19-psalms/Psalms 132|Psalms 132:8–9]] · [[connections/chapters/19-psalms/Psalms 7|Psalms 7:7–8]] · [[connections/chapters/23-isaiah/Isaiah 33|Isaiah 33:3]]

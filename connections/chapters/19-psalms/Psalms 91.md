@@ -18,6 +18,10 @@ tags: ["chapter", "ot", "wisdom"]
 
 ![[text/hebrew/19-psalms#Chapter 91]]
 
+## Plain English translation
+
+![[text/english/19-psalms#Chapter 91]]
+
 ## Cross-references
 
 - **91:1** → [[connections/chapters/19-psalms/Psalms 32|Psalms 32:7]] · [[connections/chapters/19-psalms/Psalms 27|Psalms 27:5]] · [[connections/chapters/19-psalms/Psalms 36|Psalms 36:8]] · [[connections/chapters/19-psalms/Psalms 17|Psalms 17:8]] · [[connections/chapters/62-1-john/1 John 4|1 John 4:15–16]] · [[connections/chapters/19-psalms/Psalms 31|Psalms 31:21]] · [[connections/chapters/23-isaiah/Isaiah 25|Isaiah 25:4]] · [[connections/chapters/19-psalms/Psalms 61|Psalms 61:4–5]] · [[connections/chapters/19-psalms/Psalms 121|Psalms 121:5]] · [[connections/chapters/23-isaiah/Isaiah 32|Isaiah 32:2]] · [[connections/chapters/19-psalms/Psalms 90|Psalms 90:1]] · [[connections/chapters/19-psalms/Psalms 57|Psalms 57:2]] · [[connections/chapters/25-lamentations/Lamentations 4|Lamentations 4:20]] · [[connections/chapters/19-psalms/Psalms 52|Psalms 52:10]] · [[connections/chapters/23-isaiah/Isaiah 4|Isaiah 4:5–6]] · [[connections/chapters/28-hosea/Hosea 14|Hosea 14:6–7]] · [[connections/chapters/19-psalms/Psalms 25|Psalms 25:13]] · [[connections/chapters/22-song-of-songs/Song of Songs 2|Song of Songs 2:3]] · [[connections/chapters/26-ezekiel/Ezekiel 11|Ezekiel 11:16]] · [[connections/chapters/23-isaiah/Isaiah 8|Isaiah 8:14]] · [[connections/chapters/07-judges/Judges 9|Judges 9:15]] · [[connections/chapters/13-1-chronicles/1 Chronicles 28|1 Chronicles 28:1–21]]

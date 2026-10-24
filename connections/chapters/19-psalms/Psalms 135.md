@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "wisdom"]
 
 ![[text/hebrew/19-psalms#Chapter 135]]
 
+## Plain English translation
+
+![[text/english/19-psalms#Chapter 135]]
+
 ## Cross-references
 
 - **135:1** → [[connections/chapters/19-psalms/Psalms 96|Psalms 96:1–4]] · [[connections/chapters/19-psalms/Psalms 7|Psalms 7:18]]

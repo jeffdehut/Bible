@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "wisdom"]
 
 ![[text/hebrew/19-psalms#Chapter 141]]
 
+## Plain English translation
+
+![[text/english/19-psalms#Chapter 141]]
+
 ## Cross-references
 
 - **141:1** → [[connections/chapters/19-psalms/Psalms 70|Psalms 70:6]] · [[connections/chapters/19-psalms/Psalms 40|Psalms 40:14]] · [[connections/chapters/19-psalms/Psalms 71|Psalms 71:12]]

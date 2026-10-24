@@ -18,6 +18,10 @@ tags: ["chapter", "ot", "wisdom"]
 
 ![[text/hebrew/19-psalms#Chapter 138]]
 
+## Plain English translation
+
+![[text/english/19-psalms#Chapter 138]]
+
 ## Cross-references
 
 - **138:1** → [[connections/chapters/19-psalms/Psalms 111|Psalms 111:1]]

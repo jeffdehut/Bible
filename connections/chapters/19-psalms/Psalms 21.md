@@ -18,6 +18,10 @@ tags: ["chapter", "ot", "wisdom"]
 
 ![[text/hebrew/19-psalms#Chapter 21]]
 
+## Plain English translation
+
+![[text/english/19-psalms#Chapter 21]]
+
 ## Cross-references
 
 - **21:2** → [[connections/chapters/58-hebrews/Hebrews 12|Hebrews 12:2]] · [[connections/chapters/19-psalms/Psalms 28|Psalms 28:7]] · [[connections/chapters/19-psalms/Psalms 62|Psalms 62:8]] · [[connections/chapters/40-matthew/Matthew 2|Matthew 2:2]] · [[connections/chapters/19-psalms/Psalms 59|Psalms 59:17–18]] · [[connections/chapters/19-psalms/Psalms 2|Psalms 2:6]] · [[connections/chapters/19-psalms/Psalms 20|Psalms 20:6–7]] · [[connections/chapters/19-psalms/Psalms 99|Psalms 99:4]] · [[connections/chapters/19-psalms/Psalms 71|Psalms 71:17–72:2]] · [[connections/chapters/19-psalms/Psalms 20|Psalms 20:10]] · [[connections/chapters/19-psalms/Psalms 118|Psalms 118:14–15]] · [[connections/chapters/19-psalms/Psalms 95|Psalms 95:1]] · [[connections/chapters/19-psalms/Psalms 63|Psalms 63:12]] · [[connections/chapters/23-isaiah/Isaiah 9|Isaiah 9:5–6]]

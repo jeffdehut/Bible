@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "wisdom"]
 
 ![[text/hebrew/21-ecclesiastes#Chapter 9]]
 
+## Plain English translation
+
+![[text/english/21-ecclesiastes#Chapter 9]]
+
 ## Cross-references
 
 - **9:2** → [[connections/chapters/39-malachi/Malachi 3|Malachi 3:18]]

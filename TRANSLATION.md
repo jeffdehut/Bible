@@ -5,9 +5,8 @@ Greek texts in this repository. It aims to say what the original says, as clearl
 English allows, and to show its work wherever a choice had to be made. It is open: anyone may
 use, copy, adapt and redistribute it.
 
-**Status:** first drafts. Genesis through Esther and the Gospel of Mark are drafted in full,
-and Job, Psalms, Proverbs, Ecclesiastes, Isaiah and Jeremiah are partly drafted (547 of 1,189
-chapters). See [translation/STATUS.md](translation/STATUS.md). No chapter has had human review
+**Status:** first drafts. Genesis through Song of Songs, Lamentations and the Gospel of Mark
+are drafted in full, and Isaiah 1–22 and Jeremiah 1–14 are drafted (737 of 1,189 chapters). See [translation/STATUS.md](translation/STATUS.md). No chapter has had human review
 yet, so nothing here should be quoted as a finished translation.
 
 ## Goals

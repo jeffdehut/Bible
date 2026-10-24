@@ -18,6 +18,10 @@ tags: ["chapter", "ot", "wisdom"]
 
 ![[text/hebrew/19-psalms#Chapter 67]]
 
+## Plain English translation
+
+![[text/english/19-psalms#Chapter 67]]
+
 ## Cross-references
 
 - **67:2** → [[connections/chapters/19-psalms/Psalms 4|Psalms 4:7]] · [[connections/chapters/47-2-corinthians/2 Corinthians 4|2 Corinthians 4:6]] · [[connections/chapters/19-psalms/Psalms 4|Psalms 4:2]] · [[connections/chapters/04-numbers/Numbers 6|Numbers 6:24–27]]

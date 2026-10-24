@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "prophets"]
 
 ![[text/hebrew/24-jeremiah#Chapter 14]]
 
+## Plain English translation
+
+![[text/english/24-jeremiah#Chapter 14]]
+
 ## Cross-references
 
 - **14:2** → [[connections/chapters/23-isaiah/Isaiah 3|Isaiah 3:26]]

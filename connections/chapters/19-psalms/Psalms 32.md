@@ -18,6 +18,10 @@ tags: ["chapter", "ot", "wisdom"]
 
 ![[text/hebrew/19-psalms#Chapter 32]]
 
+## Plain English translation
+
+![[text/english/19-psalms#Chapter 32]]
+
 ## Cross-references
 
 - **32:1** → [[connections/chapters/45-romans/Romans 4|Romans 4:6–8]] · [[connections/chapters/23-isaiah/Isaiah 44|Isaiah 44:22]] · [[connections/chapters/19-psalms/Psalms 85|Psalms 85:3]] · [[connections/chapters/44-acts/Acts 13|Acts 13:38–39]] · [[connections/chapters/23-isaiah/Isaiah 43|Isaiah 43:25]] · [[connections/chapters/33-micah/Micah 7|Micah 7:18–19]] · [[connections/chapters/66-revelation/Revelation 22|Revelation 22:14]] · [[connections/chapters/23-isaiah/Isaiah 1|Isaiah 1:18]] · [[connections/chapters/24-jeremiah/Jeremiah 17|Jeremiah 17:7–8]] · [[connections/chapters/19-psalms/Psalms 40|Psalms 40:5]] · [[connections/chapters/40-matthew/Matthew 5|Matthew 5:3–12]] · [[connections/chapters/19-psalms/Psalms 119|Psalms 119:1–2]] · [[connections/chapters/19-psalms/Psalms 106|Psalms 106:3]] · [[connections/chapters/19-psalms/Psalms 1|Psalms 1:1–2]] · [[connections/chapters/42-luke/Luke 11|Luke 11:28]] · [[connections/chapters/19-psalms/Psalms 53|Psalms 53:2]] · [[connections/chapters/19-psalms/Psalms 42|Psalms 42:2]]

@@ -18,6 +18,10 @@ tags: ["chapter", "ot", "wisdom"]
 
 ![[text/hebrew/19-psalms#Chapter 78]]
 
+## Plain English translation
+
+![[text/english/19-psalms#Chapter 78]]
+
 ## Cross-references
 
 - **78:1** → [[connections/chapters/23-isaiah/Isaiah 51|Isaiah 51:4]] · [[connections/chapters/23-isaiah/Isaiah 55|Isaiah 55:3]]

@@ -18,6 +18,10 @@ tags: ["chapter", "ot", "wisdom"]
 
 ![[text/hebrew/19-psalms#Chapter 62]]
 
+## Plain English translation
+
+![[text/english/19-psalms#Chapter 62]]
+
 ## Cross-references
 
 - **62:2** → [[connections/chapters/25-lamentations/Lamentations 3|Lamentations 3:25]] · [[connections/chapters/19-psalms/Psalms 62|Psalms 62:3]] · [[connections/chapters/23-isaiah/Isaiah 40|Isaiah 40:31]] · [[connections/chapters/19-psalms/Psalms 37|Psalms 37:7]] · [[connections/chapters/19-psalms/Psalms 33|Psalms 33:20]] · [[connections/chapters/23-isaiah/Isaiah 12|Isaiah 12:2]] · [[connections/chapters/59-james/James 5|James 5:7]] · [[connections/chapters/19-psalms/Psalms 40|Psalms 40:2]] · [[connections/chapters/19-psalms/Psalms 123|Psalms 123:2]] · [[connections/chapters/42-luke/Luke 2|Luke 2:30–32]] · [[connections/chapters/19-psalms/Psalms 130|Psalms 130:5–6]] · [[connections/chapters/19-psalms/Psalms 121|Psalms 121:2]] · [[connections/chapters/19-psalms/Psalms 62|Psalms 62:6–7]] · [[connections/chapters/25-lamentations/Lamentations 3|Lamentations 3:38]]

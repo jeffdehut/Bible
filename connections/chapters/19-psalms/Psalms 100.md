@@ -18,6 +18,10 @@ tags: ["chapter", "ot", "wisdom"]
 
 ![[text/hebrew/19-psalms#Chapter 100]]
 
+## Plain English translation
+
+![[text/english/19-psalms#Chapter 100]]
+
 ## Cross-references
 
 - **100:1** → [[connections/chapters/19-psalms/Psalms 98|Psalms 98:4]] · [[connections/chapters/42-luke/Luke 19|Luke 19:37]] · [[connections/chapters/36-zephaniah/Zephaniah 3|Zephaniah 3:14]] · [[connections/chapters/19-psalms/Psalms 32|Psalms 32:11]] · [[connections/chapters/19-psalms/Psalms 95|Psalms 95:1–2]] · [[connections/chapters/45-romans/Romans 15|Romans 15:10]] · [[connections/chapters/23-isaiah/Isaiah 42|Isaiah 42:10–12]] · [[connections/chapters/19-psalms/Psalms 66|Psalms 66:1]] · [[connections/chapters/19-psalms/Psalms 117|Psalms 117:1–2]] · [[connections/chapters/19-psalms/Psalms 67|Psalms 67:5]] · [[connections/chapters/38-zechariah/Zechariah 14|Zechariah 14:9]] · [[connections/chapters/19-psalms/Psalms 47|Psalms 47:2]] · [[connections/chapters/19-psalms/Psalms 47|Psalms 47:6]] · [[connections/chapters/19-psalms/Psalms 66|Psalms 66:4]] · [[connections/chapters/05-deuteronomy/Deuteronomy 32|Deuteronomy 32:43]] · [[connections/chapters/19-psalms/Psalms 145|Psalms 145:1]]

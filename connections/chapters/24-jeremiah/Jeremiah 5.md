@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "prophets"]
 
 ![[text/hebrew/24-jeremiah#Chapter 5]]
 
+## Plain English translation
+
+![[text/english/24-jeremiah#Chapter 5]]
+
 ## Cross-references
 
 - **5:1** → [[connections/chapters/01-genesis/Genesis 18|Genesis 18:23–32]] · [[connections/chapters/26-ezekiel/Ezekiel 22|Ezekiel 22:30]] · [[connections/chapters/14-2-chronicles/2 Chronicles 16|2 Chronicles 16:9]]
