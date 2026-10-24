@@ -2770,3 +2770,87 @@
 [^38-23]: Hebrew *mishtar*, a word found only here, probably "rule". Literally "his rule", either the heavens' or God's.
 [^38-24]: Hebrew *tuchot* and *sekhvi*, words of uncertain meaning. They may be birds, the ibis (which announced the flooding of the Nile) and the rooster (which announces the dawn), or "the inward parts" and "the mind".
 [^38-25]: The Hebrew text is written "its young one" but read "its young ones".
+
+## Chapter 39
+
+*Status: draft*
+
+**1** "Do you know when the mountain goats give birth? Do you watch over the does when they calve?[^39-1]
+
+**2** Can you count the months they must fulfill, and do you know the time when they give birth?
+
+**3** They crouch and bring forth their young; they are delivered of their labor pains.[^39-2]
+
+**4** Their young grow strong and grow up in the open field; they go out and do not return to them.
+
+**5** Who let the wild donkey go free? Who untied the ropes of the wild ass,[^39-3]
+
+**6** to which I gave the desert[^39-4] as its home, and the salt land as its dwelling?
+
+**7** It laughs at the commotion of the town; it does not hear the shouts of a driver.
+
+**8** It ranges the mountains as its pasture and searches for every green thing.
+
+**9** Will the wild ox[^39-5] be willing to serve you? Will it spend the night by your feeding trough?
+
+**10** Can you bind the wild ox in the furrow with ropes? Will it harrow the valleys behind you?
+
+**11** Will you rely on it because its strength is great? Will you leave your heavy work to it?
+
+**12** Will you trust it to bring in[^39-6] your grain and gather it to your threshing floor?
+
+**13** The wings of the ostrich flap joyfully, but are they the pinions and plumage of the stork?[^39-7]
+
+**14** For she leaves her eggs on the ground and lets them warm in the dust,
+
+**15** forgetting that a foot may crush them, and a wild animal may trample them.
+
+**16** She treats her young harshly, as if they were not hers; she does not fear that her labor may be in vain,[^39-8]
+
+**17** for God[^39-9] has made her forget wisdom and has given her no share of understanding.
+
+**18** But when she rises up to run,[^39-10] she laughs at the horse and its rider.
+
+**19** Do you give the horse its might? Do you clothe its neck with a mane?[^39-11]
+
+**20** Do you make it leap like a locust? Its majestic snorting is terrifying.
+
+**21** It paws[^39-12] in the valley and rejoices in its strength; it goes out to meet the weapons.
+
+**22** It laughs at fear and is not dismayed; it does not turn back from the sword.
+
+**23** The quiver rattles against it, the flashing spear and the javelin.[^39-13]
+
+**24** With trembling and excitement it swallows the ground; it cannot stand still[^39-14] when the trumpet[^39-15] sounds.
+
+**25** Whenever the trumpet sounds, it says, 'Aha!' From far away it smells the battle, the thunder of the commanders and the war cry.
+
+**26** Is it by your understanding that the hawk soars and spreads its wings[^39-16] toward the south?
+
+**27** Is it at your command that the eagle[^39-17] mounts up and makes its nest on high?
+
+**28** It lives on the cliff and spends the night there, on the crag of the rock, its stronghold.
+
+**29** From there it spies out its food;[^39-18] its eyes see it from far away.
+
+**30** Its young ones gulp down blood, and where the slain are, there it is."[^39-19]
+
+[^39-1]: Literally "the writhing (in labor) of the does".
+[^39-2]: Literally "they send away their pangs".
+[^39-3]: Hebrew *pere* and *arod*, two words for the wild donkey.
+[^39-4]: Hebrew *aravah*, the dry steppe.
+[^39-5]: Hebrew *re'em*, the wild ox or aurochs, a very large and powerful wild bull, now extinct. Traditionally "unicorn".
+[^39-6]: The Hebrew text is written "that it will return" but read "that it will bring back".
+[^39-7]: The Hebrew of this verse is uncertain. *Ostrich* is Hebrew *renanim*, "the shrill-voiced ones". *Stork* is Hebrew *chasidah*, a word that sounds like *chasid*, "loyal, loving": unlike the stork, the ostrich is not a caring parent (verses 14–16).
+[^39-8]: Literally "in vain is her labor, without fear".
+[^39-9]: Hebrew *Eloah*, a poetic form of *Elohim*, "God", used often in Job.
+[^39-10]: Hebrew *tamri*, a verb found only here, perhaps "rise up" or "flap her wings". Literally "When she lifts herself on high".
+[^39-11]: Hebrew *ra'mah*, a word found only here, perhaps "mane". It sounds like *ra'am*, "thunder", and older translations read "thunder".
+[^39-12]: Literally "They paw".
+[^39-13]: Hebrew *kidon*, perhaps a javelin or a curved sword.
+[^39-14]: Literally "it does not believe", or "it does not stand firm".
+[^39-15]: Hebrew *shofar*, a ram's-horn trumpet. Also in verse 25.
+[^39-16]: The Hebrew text is written "its wing" but read "its wings".
+[^39-17]: Or "the vulture". Hebrew *nesher*.
+[^39-18]: Literally "it digs for food".
+[^39-19]: Compare Matthew 24:28; Luke 17:37.

@@ -257,3 +257,93 @@
 [^3-21]: The people's answer, to the end of verse 25.
 [^3-22]: The Hebrew is difficult. Literally "Surely for a lie from the hills, the tumult of the mountains". The hills and mountains were places of worship of other gods (verse 6).
 [^3-23]: Hebrew *ha-boshet*, "the shame", a scornful name for Baal (11:13).
+
+## Chapter 4
+
+*Status: draft*
+
+**1** If you return, Israel, declares Yahweh,[^4-1] return to me. If you put your detestable idols[^4-2] out of my sight and do not stray,
+
+**2** and if you swear, "As surely as Yahweh lives," in truth, in justice and in righteousness, then the nations will bless themselves by him, and in him they will glory.[^4-3]
+
+**3** For this is what Yahweh says to the people of Judah and to Jerusalem: Break up your unplowed ground,[^4-4] and do not sow among thorns.
+
+**4** Circumcise yourselves to Yahweh; remove the foreskins of your hearts,[^4-5] people of Judah and inhabitants of Jerusalem, or my wrath will break out like fire and burn with no one to put it out, because of the evil of your deeds.
+
+**5** Declare it in Judah, proclaim it in Jerusalem, and say: Blow the ram's horn[^4-6] throughout the land! Shout aloud[^4-7] and say, "Gather together, and let us go into the fortified cities!"
+
+**6** Raise a signal flag toward Zion! Run for safety; do not stand still! For I am bringing disaster from the north, and great destruction.[^4-8]
+
+**7** A lion has come up from its thicket; a destroyer of nations has set out. He has left his place to make your land a desolation. Your cities will be ruined, with no one living in them.
+
+**8** So put on sackcloth, mourn and wail, for the fierce anger of Yahweh has not turned away from us.
+
+**9** On that day, declares Yahweh, the king and the officials will lose heart.[^4-9] The priests will be appalled, and the prophets will be astounded.
+
+**10** Then I said, "Ah, Lord Yahweh![^4-10] Surely you have utterly deceived this people and Jerusalem, saying, 'You will have peace,' when the sword is at our throat!"[^4-11]
+
+**11** At that time it will be said to this people and to Jerusalem: A scorching wind from the bare heights in the wilderness is coming toward my dear people,[^4-12] not to winnow and not to cleanse,
+
+**12** a wind too strong for that,[^4-13] coming at my command. Now I myself will pronounce judgments against them.
+
+**13** Look, he comes up like clouds, his chariots like the whirlwind; his horses are swifter than eagles. Woe to us, for we are ruined!
+
+**14** Wash the evil from your heart, Jerusalem, so that you may be saved. How long will your wicked thoughts lodge within you?
+
+**15** For a voice is declaring from Dan, and proclaiming disaster from the hill country of Ephraim.[^4-14]
+
+**16** Tell the nations, "Look!"[^4-15] Proclaim against Jerusalem: Besiegers[^4-16] are coming from a distant land; they raise their voices against the cities of Judah.
+
+**17** Like men guarding a field, they surround her on every side, because she has rebelled against me, declares Yahweh.
+
+**18** Your own way and your deeds have brought this on you. This is your evil. How bitter it is! How it reaches your heart!
+
+**19** My insides,[^4-17] my insides! I writhe in pain! The walls of my heart! My heart pounds within me; I cannot keep silent. For you have heard, my soul,[^4-18] the sound of the ram's horn, the battle cry.
+
+**20** Disaster follows disaster;[^4-19] the whole land is devastated. Suddenly my tents are devastated, my tent curtains in a moment.
+
+**21** How long must I see the signal flag and hear the sound of the ram's horn?
+
+**22** For my people are foolish; they do not know me. They are senseless children; they have no understanding. They are skilled at doing evil, but they do not know how to do good.
+
+**23** I looked at the earth, and it was formless and empty;[^4-20] at the heavens, and their light was gone.
+
+**24** I looked at the mountains, and they were quaking; all the hills were swaying.
+
+**25** I looked, and there were no human beings, and all the birds of the sky had fled.
+
+**26** I looked, and the fruitful land[^4-21] was a wilderness, and all its cities were torn down before Yahweh, before his fierce anger.
+
+**27** For this is what Yahweh says: The whole land will be a desolation, yet I will not make a full end of it.
+
+**28** Because of this the earth will mourn, and the heavens above will grow dark, because I have spoken, I have purposed, and I have not relented, nor will I turn back from it.
+
+**29** At the noise of horsemen and archers the whole city flees. They go into the thickets and climb up among the rocks. Every city is abandoned; no one lives in them.
+
+**30** And you, devastated one, what are you doing? Though you dress in scarlet, though you put on gold jewelry, though you enlarge your eyes with paint,[^4-22] you make yourself beautiful in vain. Your lovers despise you; they seek your life.
+
+**31** For I hear a cry like that of a woman in labor, the anguish of one bearing her first child, the cry of daughter Zion[^4-23] gasping for breath, stretching out her hands: "Woe is me! My life is fainting before the killers!"
+
+[^4-1]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^4-2]: Hebrew *shiqqutsim*, "detestable things", a contemptuous word for idols.
+[^4-3]: Or "will be blessed by him". Compare Genesis 12:3; 22:18.
+[^4-4]: Hebrew *nir*, ground left unplowed, which has to be broken up before it can be sown.
+[^4-5]: Compare Deuteronomy 10:16; 30:6.
+[^4-6]: Hebrew *shofar*, a trumpet made from a ram's horn, sounded as an alarm in war. The Hebrew text is written "and blow" but read "Blow".
+[^4-7]: Literally "Call out, fill", that is, cry out with a full voice.
+[^4-8]: Hebrew *shever*, "breaking". Also in verse 20.
+[^4-9]: Literally "the heart of the king and the heart of the officials will perish".
+[^4-10]: Hebrew *Adonai YHWH*, "my Lord Yahweh".
+[^4-11]: Literally "and the sword has reached to the life".
+[^4-12]: Literally "the daughter of my people", a tender, poetic name for the nation.
+[^4-13]: Literally "a wind fuller than these". Winnowing needed a gentle breeze to carry off the chaff; this wind will blow everything away.
+[^4-14]: Dan was in the far north of the land, and the hill country of Ephraim just north of Judah: the news comes nearer and nearer to Jerusalem.
+[^4-15]: Or "Remind the nations: Look!" The Hebrew is difficult.
+[^4-16]: Literally "watchers" or "guards", here those who keep watch around a besieged city.
+[^4-17]: Hebrew *me'ai*, "my bowels", thought of as the seat of the emotions.
+[^4-18]: The Hebrew text is written "For I have heard, my soul," but read "For you have heard, my soul".
+[^4-19]: Literally "Breaking upon breaking is proclaimed".
+[^4-20]: Hebrew *tohu va-vohu*, the phrase used of the earth before creation in Genesis 1:2. Verses 23–26 picture creation undone.
+[^4-21]: Hebrew *karmel*, "orchard, garden land".
+[^4-22]: Literally "tear open your eyes with antimony", a dark eye paint (2 Kings 9:30).
+[^4-23]: A poetic name for Jerusalem and its people, pictured as a young woman.

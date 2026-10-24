@@ -481,3 +481,80 @@
 [^7-17]: The Euphrates.
 [^7-18]: "The hair of the feet" probably means the hair of the body, including the private parts. Shaving a man's beard was a deep humiliation (2 Samuel 10:4–5).
 [^7-19]: A shekel is about 2/5 ounce (11.5 grams), so a thousand shekels is about 25 pounds (11.5 kg).
+
+## Chapter 8
+
+*Status: draft*
+
+**1** Yahweh[^8-1] said to me, "Take a large tablet[^8-2] and write on it in ordinary letters:[^8-3] Belonging to Maher-shalal-hash-baz."[^8-4]
+
+**2** So I took reliable witnesses to testify for me,[^8-5] Uriah the priest and Zechariah son of Jeberechiah.
+
+**3** Then I went to the prophetess,[^8-6] and she conceived and gave birth to a son. Yahweh said to me, "Name him Maher-shalal-hash-baz.
+
+**4** For before the boy knows how to say 'My father' or 'My mother,' the wealth of Damascus and the plunder of Samaria will be carried off before the king of Assyria."
+
+**5** Yahweh spoke to me again:
+
+**6** "Because this people has rejected the gently flowing waters of Shiloah[^8-7] and rejoices over Rezin and the son of Remaliah,[^8-8]
+
+**7** therefore, look, the Lord is bringing up against them the waters of the River,[^8-9] mighty and many, the king of Assyria and all his glory. It will rise over all its channels and overflow all its banks.
+
+**8** It will sweep on into Judah, flood it and pass through, reaching up to the neck. Its outspread wings will fill the breadth of your land, Immanuel!"[^8-10]
+
+**9** Raise the war cry,[^8-11] you peoples, and be shattered! Listen, all you distant lands! Arm yourselves, and be shattered! Arm yourselves, and be shattered!
+
+**10** Make your plans, but they will come to nothing! Give your orders, but they will not stand! For God is with us.[^8-12]
+
+**11** For this is what Yahweh said to me, with his strong hand on me,[^8-13] when he warned me not to walk in the way of this people:
+
+**12** "Do not call conspiracy[^8-14] all that this people calls conspiracy. Do not fear what they fear, and do not dread it.
+
+**13** Yahweh of Armies:[^8-15] he is the one you must regard as holy. He is the one you must fear; he is the one you must dread.[^8-16]
+
+**14** He will be a sanctuary, but for both houses of Israel he will be a stone that makes people stumble and a rock that makes them fall, and for those who live in Jerusalem a trap and a snare.[^8-17]
+
+**15** Many among them will stumble; they will fall and be broken, they will be snared and captured."
+
+**16** Bind up the testimony; seal the instruction among my disciples.[^8-18]
+
+**17** I will wait for Yahweh, who is hiding his face from the house of Jacob. I will put my hope in him.
+
+**18** Here am I, and the children Yahweh has given me. We are signs and portents in Israel from Yahweh of Armies, who dwells on Mount Zion.[^8-19]
+
+**19** When people say to you, "Consult the spirits of the dead and the spiritists,[^8-20] who chirp and mutter," should not a people consult their God? Should they consult the dead on behalf of the living?[^8-21]
+
+**20** To the instruction and to the testimony! If they do not speak according to this word, there is no dawn for them.[^8-22]
+
+**21** They will pass through the land,[^8-23] hard-pressed and hungry. When they are hungry, they will become enraged, and they will curse their king and their God[^8-24] as they look upward.
+
+**22** Then they will look to the earth, and see only distress and darkness, the gloom of anguish, and they will be driven into thick darkness.
+
+**23** Yet there will be no more gloom for the land that was in anguish.[^8-25] In the past he brought shame on the land of Zebulun and the land of Naphtali, but in the future he will bring glory to the way of the sea, the land beyond the Jordan, Galilee of the nations.[^8-26]
+
+[^8-1]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^8-2]: Or "scroll". Hebrew *gillayon*, perhaps a smooth sheet or board for writing.
+[^8-3]: Literally "with a man's stylus", that is, in writing everyone can read.
+[^8-4]: *Maher-shalal-hash-baz* means "Quick to the plunder, swift to the spoil".
+[^8-5]: Or "And I will take reliable witnesses to testify for me", as Yahweh's words. Uriah may be the priest of 2 Kings 16:10–16.
+[^8-6]: Isaiah's wife.
+[^8-7]: A channel that carried water from the Gihon spring to a pool in Jerusalem (John 9:7, "Siloam"). Its quiet waters stand for trust in Yahweh's protection, against the flood of verses 7–8.
+[^8-8]: Literally "and rejoicing with Rezin". The Hebrew is difficult; *this people* may be Judah or the northern kingdom.
+[^8-9]: The Euphrates.
+[^8-10]: *Immanuel* means "God is with us" (7:14).
+[^8-11]: Hebrew *ro'u*, perhaps "be broken" or "make an uproar". The Septuagint reads "Know".
+[^8-12]: Hebrew *immanu el*, the name *Immanuel* (verse 8; 7:14).
+[^8-13]: Literally "with strength of the hand", the hand of Yahweh on the prophet.
+[^8-14]: *You* is plural in verses 12–13: the prophet and those who follow him.
+[^8-15]: *Yahweh of Armies* (Hebrew *YHWH tseva'ot*) is traditionally "the LORD of hosts" or "the LORD Almighty". *Tseva'ot* means armies: the heavenly hosts and the armies of Israel. Also in verse 18.
+[^8-16]: Verses 12–13 are echoed in 1 Peter 3:14–15, following the Septuagint.
+[^8-17]: Romans 9:33 and 1 Peter 2:8 combine this verse with 28:16.
+[^8-18]: Hebrew *te'udah*, a solemn, witnessed message; *torah*, "instruction" (also in verse 20). The speaker may be Isaiah or Yahweh.
+[^8-19]: Hebrews 2:13 quotes verses 17–18 from the Septuagint. Isaiah's sons' names were signs: Shear-jashub (7:3), Maher-shalal-hash-baz (verse 3), and perhaps Immanuel (7:14).
+[^8-20]: Hebrew *ovot* and *yidde'onim*, those who claim to speak with the dead (Leviticus 19:31; 1 Samuel 28:3–9).
+[^8-21]: Or, as the words of those who consult the dead: "Should not a people consult their gods, the dead on behalf of the living?" Hebrew *elohim* can mean "God" or "gods", and is used of the spirit of the dead Samuel in 1 Samuel 28:13.
+[^8-22]: Or "it is because there is no dawn for them". The meaning of the line is uncertain.
+[^8-23]: Literally "through it".
+[^8-24]: Or "their gods".
+[^8-25]: Verse 23 is 9:1 in most English Bibles, and 9:1–20 are 9:2–21. The first line of this verse is difficult; literally "For there is no gloom to her who is in distress".
+[^8-26]: Or "the district of the nations". Hebrew *galil* means "circle, region". These northern lands were the first to be taken by Assyria (2 Kings 15:29). Matthew 4:15–16 quotes this verse and 9:1 (English 9:1–2).

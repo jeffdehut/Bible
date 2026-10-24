@@ -1644,3 +1644,100 @@
 [^25-11]: A cubit was about 18 inches (45 cm). Four hundred cubits was about 600 feet (180 meters).
 [^25-12]: Obed-edom's family were gatekeepers in charge of the storehouses (1 Chronicles 26:4–8, 15).
 [^25-13]: That is, Jerusalem. 2 Kings 14:20 reads "in the City of David".
+
+## Chapter 26
+
+*Status: draft*
+
+**1** Then all the people of Judah took Uzziah,[^26-1] who was sixteen years old, and made him king in place of his father Amaziah.
+
+**2** He was the one who rebuilt Eloth[^26-2] and restored it to Judah, after the king slept with his ancestors.[^26-3]
+
+**3** Uzziah was sixteen years old when he became king, and he reigned fifty-two years in Jerusalem. His mother's name was Jecoliah, from Jerusalem.
+
+**4** He did what was right in the eyes of Yahweh,[^26-4] just as his father Amaziah had done.
+
+**5** He set himself to seek God in the days of Zechariah, who had understanding in the visions of God.[^26-5] As long as he sought Yahweh, God made him prosper.
+
+**6** He went out and made war against the Philistines and broke down the wall of Gath, the wall of Jabneh and the wall of Ashdod. He built cities near Ashdod and elsewhere among the Philistines.
+
+**7** God helped him against the Philistines, and against the Arabs who lived in Gur-baal, and the Meunites.
+
+**8** The Ammonites paid tribute to Uzziah, and his fame spread as far as the border of Egypt,[^26-6] for he became very strong.
+
+**9** Uzziah built towers in Jerusalem at the Corner Gate, at the Valley Gate and at the Angle,[^26-7] and he fortified them.
+
+**10** He built towers in the wilderness and dug many cisterns, for he had much livestock in the Shephelah[^26-8] and in the plain. He had farmers and vinedressers in the hills and in the fertile lands,[^26-9] for he loved the soil.
+
+**11** Uzziah had an army of fighting men who went out to war by divisions, according to the number of their muster made by Jeiel the secretary and Maaseiah the officer,[^26-10] under the direction of Hananiah, one of the king's commanders.
+
+**12** The total number of the heads of ancestral families, mighty warriors, was 2,600.
+
+**13** Under their command was an army of 307,500, who made war with mighty power to help the king against the enemy.
+
+**14** Uzziah provided for the whole army shields, spears, helmets, coats of armor, bows and sling stones.
+
+**15** In Jerusalem he made devices designed by skilled men,[^26-11] to be on the towers and on the corners, for shooting arrows and great stones. His fame spread far, for he was marvelously helped until he became strong.
+
+**16** But when he had become strong, his heart grew proud, to his own ruin. He was unfaithful[^26-12] to Yahweh his God, and he entered the temple of Yahweh[^26-13] to burn incense on the altar of incense.
+
+**17** Azariah the priest went in after him, and with him eighty priests of Yahweh, men of courage.
+
+**18** They stood against King Uzziah and said to him, "It is not for you, Uzziah, to burn incense to Yahweh, but for the priests, the sons of Aaron, who are consecrated to burn incense. Go out of the sanctuary, for you have been unfaithful, and it will bring you no honor from Yahweh God."
+
+**19** Uzziah was furious. He had a censer in his hand to burn incense, and while he was raging at the priests, a skin disease[^26-14] broke out on his forehead, in front of the priests in the house of Yahweh, beside the altar of incense.
+
+**20** When Azariah the chief priest and all the priests looked at him, there he was with a skin disease on his forehead. They hurried him out of there, and he himself hastened to go out, because Yahweh had struck him.
+
+**21** King Uzziah had a skin disease until the day of his death. He lived in a separate house,[^26-15] with his skin disease, for he was excluded from the house of Yahweh. His son Jotham was in charge of the palace, governing the people of the land.
+
+**22** The rest of the acts of Uzziah, from first to last, Isaiah the prophet son of Amoz wrote down.[^26-16]
+
+**23** Uzziah slept with his ancestors, and they buried him with his ancestors in the burial field that belonged to the kings, for they said, "He has a skin disease." And his son Jotham became king in his place.
+
+[^26-1]: Called Azariah in 2 Kings 14:21 and 15:1–7. Verses 1–4 and 21–23 parallel 2 Kings 14:21–22 and 15:2–7.
+[^26-2]: Called Elath in 2 Kings 14:22: a port on the Gulf of Aqaba, near Ezion-geber (8:17).
+[^26-3]: Literally "lay down with his fathers", a way of speaking of death. That is, after the death of his father Amaziah.
+[^26-4]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^26-5]: Literally "in the seeing of God". The Septuagint reads "in the fear of God".
+[^26-6]: Literally "as far as the entrance of Egypt".
+[^26-7]: Hebrew *miqtsoa*: a corner or bend in the city wall (Nehemiah 3:19–25).
+[^26-8]: The low hills between the hill country of Judah and the coastal plain.
+[^26-9]: Or "on Carmel". Hebrew *karmel* means "garden land".
+[^26-10]: Hebrew *shoter*: an officer who kept records (19:11).
+[^26-11]: Literally "devices, the design of a designer". They may have been protective frames on the walls, behind which archers and slingers could stand.
+[^26-12]: Hebrew *ma'al*: to break faith, to betray a trust (12:2). Also in verse 18.
+[^26-13]: Hebrew *heikhal*: here the main hall of the temple, where the altar of incense stood (4:7, 19).
+[^26-14]: Hebrew *tsara'at*, traditionally "leprosy". It was not leprosy (Hansen's disease) as known today, but a range of skin conditions that made a person ritually unclean (Leviticus 13). Also in verses 20, 21 and 23.
+[^26-15]: Literally "in the house of freedom", that is, set free from his royal duties, or living apart (2 Kings 15:5). The Hebrew text is written "freedoms" but read "freedom".
+[^26-16]: This writing has not survived. Isaiah 6:1 dates the call of Isaiah to the year that Uzziah died.
+
+## Chapter 27
+
+*Status: draft*
+
+**1** Jotham was twenty-five years old when he became king, and he reigned sixteen years in Jerusalem. His mother's name was Jerushah daughter of Zadok.[^27-1]
+
+**2** He did what was right in the eyes of Yahweh,[^27-2] just as his father Uzziah had done, except that he did not enter the temple of Yahweh.[^27-3] But the people still acted corruptly.
+
+**3** He built the Upper Gate of the house of Yahweh, and he did much building on the wall of Ophel.[^27-4]
+
+**4** He built cities in the hill country of Judah, and in the wooded areas he built fortresses and towers.
+
+**5** He fought with the king of the Ammonites and prevailed over them. That year the Ammonites gave him a hundred talents[^27-5] of silver, ten thousand kors[^27-6] of wheat and ten thousand of barley. The Ammonites paid him the same in the second and the third years.
+
+**6** Jotham became strong, because he ordered his ways before Yahweh his God.
+
+**7** The rest of the acts of Jotham, all his wars and his ways, are written in the book of the kings of Israel and Judah.
+
+**8** He was twenty-five years old when he became king, and he reigned sixteen years in Jerusalem.
+
+**9** Jotham slept with his ancestors,[^27-7] and they buried him in the City of David. And his son Ahaz became king in his place.
+
+[^27-1]: Verses 1–3 and 7–9 parallel 2 Kings 15:33–38.
+[^27-2]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^27-3]: As his father had done (26:16).
+[^27-4]: The hill on which the City of David stood, south of the temple.
+[^27-5]: A talent was about 75 pounds (34 kg), so a hundred talents was about 7,500 pounds (3,400 kg).
+[^27-6]: A kor was probably about 6 bushels (220 liters).
+[^27-7]: Literally "lay down with his fathers", a way of speaking of death.

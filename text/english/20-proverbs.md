@@ -570,3 +570,163 @@
 [^7-16]: Hebrew *ewil* (see 1:7).
 [^7-17]: The Hebrew of this line is obscure. Literally "and like an anklet to the discipline of a fool". Some scholars, changing the text slightly, read "like a stag that leaps into a noose".
 [^7-18]: Hebrew *Sheol*, the realm of the dead.
+
+## Chapter 8
+
+*Status: draft*
+
+**1** Does not wisdom call out?[^8-1] Does not insight[^8-2] raise her voice?
+
+**2** On the heights beside the road, where the paths meet, she takes her stand;
+
+**3** beside the gates at the entrance to the city, at the doorways, she cries aloud:
+
+**4** "To you, people, I call; my voice goes out to all humankind.
+
+**5** You simple ones,[^8-3] learn prudence;[^8-4] you fools,[^8-5] learn good sense.[^8-6]
+
+**6** Listen, for I speak of noble things, and what opens my lips is what is right.
+
+**7** For my mouth speaks truth, and wickedness is detestable to my lips.
+
+**8** All the words of my mouth are righteous; there is nothing twisted or crooked in them.
+
+**9** They are all plain to the one who understands, and right to those who find knowledge.
+
+**10** Take my discipline[^8-7] instead of silver, and knowledge rather than choice gold.
+
+**11** For wisdom is better than coral,[^8-8] and nothing you desire can compare with her.
+
+**12** I, wisdom, live with prudence, and I possess knowledge and discretion.[^8-9]
+
+**13** The fear of Yahweh[^8-10] is hating evil. Pride and arrogance, the way of evil and a perverse mouth, I hate.
+
+**14** Advice and sound wisdom[^8-11] are mine; I am understanding;[^8-12] strength is mine.
+
+**15** By me kings reign, and rulers decree what is just.
+
+**16** By me princes rule, and nobles, all who judge rightly.[^8-13]
+
+**17** I love those who love me,[^8-14] and those who search hard for me find me.
+
+**18** Riches and honor are with me, lasting wealth and righteousness.[^8-15]
+
+**19** My fruit is better than gold, even fine gold, and my yield is better than choice silver.
+
+**20** I walk in the way of righteousness, along the paths of justice,
+
+**21** to give wealth as an inheritance to those who love me,[^8-16] and to fill their treasuries.
+
+**22** Yahweh created me[^8-17] at the beginning of his way,[^8-18] before his works of long ago.
+
+**23** Long ages ago I was installed,[^8-19] at the very first, before the earth began.
+
+**24** When there were no deep waters I was brought forth, when there were no springs heavy with water.
+
+**25** Before the mountains were settled in place, before the hills, I was brought forth,
+
+**26** before he had made the earth and the open fields, or the first of the dust of the world.
+
+**27** When he established the heavens, I was there, when he marked out a circle on the face of the deep,
+
+**28** when he made firm the clouds above, when the springs of the deep grew strong,
+
+**29** when he set for the sea its limit, so that the waters would not overstep his command,[^8-20] when he marked out the foundations of the earth,
+
+**30** then I was beside him as a master craftsman.[^8-21] I was his delight[^8-22] day after day, playing before him at all times,
+
+**31** playing in his inhabited world, and delighting in humankind.
+
+**32** So now, sons, listen to me: happy[^8-23] are those who keep my ways.
+
+**33** Listen to discipline and be wise; do not ignore it.
+
+**34** Happy is the person who listens to me, watching daily at my doors, waiting beside my doorposts.
+
+**35** For whoever finds me finds life[^8-24] and obtains favor from Yahweh.
+
+**36** But whoever misses me[^8-25] harms himself; all who hate me love death."
+
+[^8-1]: Wisdom is again pictured as a woman calling out in public, as in 1:20–33. She speaks in verses 4–36.
+[^8-2]: Hebrew *tevunah*, from the same root as *binah*, "understanding" (see 2:2).
+[^8-3]: Hebrew *peta'im*, plural of *peti*: naive, inexperienced people, easily led (see 1:4).
+[^8-4]: Hebrew *ormah*, "shrewdness, good judgment" (see 1:4). Also in verse 12.
+[^8-5]: Hebrew *kesilim*, plural of *kesil* (see 1:22).
+[^8-6]: Literally "understand heart". In Hebrew thought the heart is the seat of understanding.
+[^8-7]: Hebrew *musar*: discipline, training and correction (see 1:2). Also in verse 33.
+[^8-8]: Hebrew *peninim*, as in 3:15.
+[^8-9]: Literally "I find knowledge of discretion". Hebrew *mezimmot*, plural of *mezimmah* (see 1:4).
+[^8-10]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^8-11]: Hebrew *tushiyyah*, as in 2:7.
+[^8-12]: Hebrew *binah*, as in 1:2. Or "I have understanding".
+[^8-13]: Literally "all the judges of righteousness". Some Hebrew manuscripts read "all the judges of the earth", and the Septuagint has "rule the earth".
+[^8-14]: The Hebrew text is written "those who love her" but read "those who love me".
+[^8-15]: Or "prosperity". Hebrew *tsedaqah*.
+[^8-16]: Literally "to make those who love me inherit substance". Hebrew *yesh*, "there is", here "wealth".
+[^8-17]: Hebrew *qanani*, from the verb *qanah*. It usually means "acquire, get, possess", as in 4:5 and 4:7 ("Get wisdom"). In a few places it probably means "create" or "bring forth" (Genesis 14:19, 22; Deuteronomy 32:6; compare Genesis 4:1). So the line may mean "Yahweh created me", "Yahweh brought me forth" or "Yahweh possessed (or acquired) me". The Septuagint reads "created me"; the Vulgate reads "possessed me", the traditional English rendering. Verses 24–25, "I was brought forth", favor the sense of creating or begetting. The verse was much discussed in early Christian debates about Christ as the Wisdom of God (1 Corinthians 1:24).
+[^8-18]: Or "as the first of his works". Literally "the beginning (*reshit*) of his way".
+[^8-19]: Hebrew *nissakhti*, from a verb meaning "pour out, install" (Psalm 2:6). With different vowels it reads "I was woven", "I was formed" (Psalm 139:13).
+[^8-20]: Literally "would not pass over his mouth".
+[^8-21]: Hebrew *amon*, a word of uncertain meaning. It may mean "master craftsman" (compare *omman*, "craftsman", Song of Songs 7:2), or with different vowels "nursling, little child" (compare Lamentations 4:5), or "constantly, faithfully".
+[^8-22]: Literally "I was delights". Or "I was filled with delight".
+[^8-23]: Hebrew *ashrei*: happy, fortunate; traditionally "blessed". Also in verse 34.
+[^8-24]: The Hebrew text is written "For those who find me find life" but read "For whoever finds me finds life".
+[^8-25]: Or "sins against me". The verb means "miss (the mark)".
+
+## Chapter 9
+
+*Status: draft*
+
+**1** Wisdom[^9-1] has built her house; she has carved out her seven pillars.
+
+**2** She has slaughtered her meat, mixed her wine, and set her table.
+
+**3** She has sent out her young women; she calls from the highest points of the city,
+
+**4** "Whoever is simple,[^9-2] turn in here!" To the one who lacks sense[^9-3] she says,
+
+**5** "Come, eat my bread and drink the wine I have mixed.
+
+**6** Leave simple ways[^9-4] and live, and walk in the way of understanding."[^9-5]
+
+**7** Whoever disciplines a mocker[^9-6] invites insult; whoever corrects a wicked person[^9-7] gets hurt.[^9-8]
+
+**8** Do not correct a mocker, or he will hate you; correct a wise person, and he will love you.
+
+**9** Instruct a wise person,[^9-9] and he will become wiser still; teach a righteous person,[^9-10] and he will add to his learning.
+
+**10** The fear of Yahweh[^9-11] is the beginning[^9-12] of wisdom, and knowledge of the Holy One[^9-13] is understanding.
+
+**11** For through me[^9-14] your days will be many, and years will be added to your life.
+
+**12** If you are wise, you are wise for your own good; if you mock, you alone will bear it.
+
+**13** The woman Folly[^9-15] is loud; she is simple and knows nothing at all.
+
+**14** She sits at the door of her house, on a seat at the highest point of the city,
+
+**15** calling to those who pass by, who are going straight along their way,
+
+**16** "Whoever is simple, turn in here!" And to the one who lacks sense she says,
+
+**17** "Stolen water is sweet, and bread eaten in secret is delicious."
+
+**18** But he does not know that the dead[^9-16] are there, that her guests are in the depths of Sheol.[^9-17]
+
+[^9-1]: Hebrew *chokhmot*, as in 1:20. In verses 1–6 Wisdom is pictured as a woman who gives a banquet and invites the simple. In verses 13–18 Folly makes the same invitation.
+[^9-2]: Hebrew *peti*: a naive, inexperienced person, easily led (see 1:4). Also in verses 6, 13 and 16.
+[^9-3]: Literally "lacking heart". In Hebrew thought the heart is the seat of understanding. Also in verse 16.
+[^9-4]: Or "Leave the simple". Hebrew *peta'im*, "simple ones" or "simpleness".
+[^9-5]: Hebrew *binah*, as in 1:2. Also in verse 10.
+[^9-6]: Hebrew *lets*: one who scorns wisdom and laughs at correction (see 1:22). *Disciplines* is from the same root as *musar*, "discipline". Verses 7–12 interrupt Wisdom's invitation with sayings. It is not clear who speaks them; the speaker of verse 11 may be Wisdom.
+[^9-7]: Hebrew *rasha*: a wicked person, one who is guilty of wrong (see 2:22).
+[^9-8]: Literally "his blemish".
+[^9-9]: Literally "Give to a wise person".
+[^9-10]: Hebrew *tsaddiq*: a righteous person, one who does what is right (see 2:20).
+[^9-11]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles. On *the fear of Yahweh*, see 1:7.
+[^9-12]: Hebrew *techillah*, "beginning, first step", a different word from the one in 1:7.
+[^9-13]: Hebrew *qedoshim*, plural, probably to express majesty, as in 30:3. Or "knowledge of holy things".
+[^9-14]: Wisdom, or the teacher.
+[^9-15]: Literally "A woman of folly". Hebrew *kesilut*, from the same root as *kesil*, "fool" (see 1:22). She is pictured as the opposite of Wisdom in verses 1–6.
+[^9-16]: Hebrew *rephaim*, the spirits of the dead (see 2:18).
+[^9-17]: Hebrew *Sheol*, the realm of the dead.

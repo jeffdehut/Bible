@@ -976,3 +976,120 @@
 [^45-14]: That is, the people of Tyre, or perhaps a princess of Tyre.
 [^45-15]: That is, inside the palace, or in her chamber.
 [^45-16]: Or "in all the earth".
+
+## Chapter 46
+
+*Status: draft*
+
+**1** For the director. Of the sons of Korah. According to Alamoth.[^46-1] A song.[^46-2]
+
+**2** God is our refuge and strength, a help in trouble, always ready to be found.[^46-3]
+
+**3** So we will not fear, though the earth gives way, though the mountains topple into the heart of the seas,
+
+**4** though its waters roar and foam, and the mountains quake at its surging. Selah.[^46-4]
+
+**5** There is a river whose streams make glad the city of God, the holy dwelling place of the Most High.[^46-5]
+
+**6** God is in her midst; she will not be shaken. God will help her at the break of day.[^46-6]
+
+**7** Nations roar, kingdoms totter; he raises his voice, and the earth melts.
+
+**8** Yahweh of Armies[^46-7] is with us; the God of Jacob is our fortress. Selah.
+
+**9** Come, see the works of Yahweh, the desolations[^46-8] he has brought on the earth.
+
+**10** He makes wars cease to the end of the earth; he breaks the bow and snaps the spear; he burns the chariots[^46-9] with fire.
+
+**11** "Be still,[^46-10] and know that I am God. I will be exalted among the nations; I will be exalted in the earth."
+
+**12** Yahweh of Armies is with us; the God of Jacob is our fortress. Selah.
+
+[^46-1]: Hebrew *al-alamot*, a musical term of uncertain meaning, perhaps "for soprano voices" (compare 1 Chronicles 15:20).
+[^46-2]: *For the director*: Hebrew *lamenatseach*, probably the leader of the temple music. *Of the sons of Korah*: or "for the sons of Korah", a family of Levites who served as temple singers. In the Hebrew text the title is verse 1, so verses 2–12 are 46:1–11 in most English Bibles.
+[^46-3]: Literally "a help in troubles, found very much".
+[^46-4]: Hebrew *selah*, a musical or liturgical term of uncertain meaning. Also in verses 8 and 12.
+[^46-5]: Hebrew *Elyon*, a title of God. Literally "the holy place of the dwellings of the Most High".
+[^46-6]: Literally "at the turning of the morning".
+[^46-7]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles. *Yahweh of Armies* (Hebrew *YHWH tseva'ot*) is traditionally "the LORD of hosts" or "the LORD Almighty". *Tseva'ot* means armies: the heavenly hosts and the armies of Israel. Also in verse 12.
+[^46-8]: Or "the astonishing deeds".
+[^46-9]: Hebrew *agalot*, "carts, wagons". The Septuagint reads "shields".
+[^46-10]: Or "Stop!", "Let go!"
+
+## Chapter 47
+
+*Status: draft*
+
+**1** For the director. Of the sons of Korah. A psalm.[^47-1]
+
+**2** Clap your hands, all you peoples; shout to God with loud songs of joy.
+
+**3** For Yahweh,[^47-2] the Most High,[^47-3] is awesome, a great King over all the earth.
+
+**4** He subdues peoples under us, and nations under our feet.
+
+**5** He chose our inheritance for us, the pride of Jacob, whom he loves. Selah.[^47-4]
+
+**6** God has gone up with a shout, Yahweh with the sound of the ram's horn.[^47-5]
+
+**7** Sing praises to God, sing praises; sing praises to our King, sing praises.
+
+**8** For God is the King of all the earth; sing praises with a skillful psalm.[^47-6]
+
+**9** God reigns over the nations; God sits on his holy throne.
+
+**10** The nobles of the peoples have gathered as the people of the God of Abraham.[^47-7] For the shields of the earth[^47-8] belong to God; he is highly exalted.
+
+[^47-1]: *For the director*: Hebrew *lamenatseach*, probably the leader of the temple music. *Of the sons of Korah*: or "for the sons of Korah", a family of Levites who served as temple singers. In the Hebrew text the title is verse 1, so verses 2–10 are 47:1–9 in most English Bibles.
+[^47-2]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^47-3]: Hebrew *Elyon*, a title of God.
+[^47-4]: Hebrew *selah*, a musical or liturgical term of uncertain meaning.
+[^47-5]: Hebrew *shofar*.
+[^47-6]: Hebrew *maskil*, the term found in the titles of some psalms (see 42:1).
+[^47-7]: The Septuagint reads "with the God of Abraham".
+[^47-8]: That is, the rulers who protect the earth's peoples.
+
+## Chapter 48
+
+*Status: draft*
+
+**1** A song. A psalm of the sons of Korah.[^48-1]
+
+**2** Great is Yahweh,[^48-2] and most worthy of praise, in the city of our God, his holy mountain.
+
+**3** Beautiful in its height, the joy of all the earth, is Mount Zion, the heights of Zaphon,[^48-3] the city of the great King.
+
+**4** God, in her citadels, has shown himself a fortress.
+
+**5** For see, the kings assembled; they advanced together.
+
+**6** They saw, and they were astounded; they were terrified and fled in haste.
+
+**7** Trembling seized them there, pain like a woman in labor,
+
+**8** as when you shatter the ships of Tarshish[^48-4] with an east wind.
+
+**9** As we have heard, so we have seen, in the city of Yahweh of Armies,[^48-5] in the city of our God: God will establish it forever. Selah.[^48-6]
+
+**10** We ponder your faithful love,[^48-7] God, within your temple.
+
+**11** Like your name, God, your praise reaches to the ends of the earth; your right hand is full of righteousness.
+
+**12** Let Mount Zion rejoice; let the daughters of Judah[^48-8] be glad because of your judgments.
+
+**13** Walk around Zion, go all around her; count her towers.
+
+**14** Consider well her ramparts; pass through her citadels,[^48-9] so that you may tell the next generation
+
+**15** that this is God, our God, forever and ever. He will guide us until death.[^48-10]
+
+[^48-1]: *Of the sons of Korah*: or "for the sons of Korah", a family of Levites who served as temple singers. In the Hebrew text the title is verse 1, so verses 2–15 are 48:1–14 in most English Bibles.
+[^48-2]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^48-3]: Or "in the far north". *Tsaphon*, "north", was also the name of a mountain in Syria where Canaanite myth placed the home of the gods (compare Isaiah 14:13).
+[^48-4]: Large seagoing ships.
+[^48-5]: Hebrew *YHWH tseva'ot*, traditionally "the LORD of hosts" or "the LORD Almighty". *Tseva'ot* means armies: the heavenly hosts and the armies of Israel.
+[^48-6]: Hebrew *selah*, a musical or liturgical term of uncertain meaning.
+[^48-7]: Hebrew *chesed*: loyal, faithful love.
+[^48-8]: That is, the towns of Judah.
+[^48-9]: Hebrew *passegu*, found only here; the meaning is uncertain, perhaps "view".
+[^48-10]: Hebrew *al-mut*, "until death" or "over death". Some Hebrew manuscripts and the Septuagint read "forever". Some scholars take the words as a musical direction, like *al-mut labben* in the title of Psalm 9.

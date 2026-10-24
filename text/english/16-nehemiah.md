@@ -923,3 +923,126 @@
 [^11-13]: Literally "its daughters": the smaller places that belonged to a town. Also in verses 27–28 and 30–31.
 [^11-14]: Or "Ge-harashim".
 [^11-15]: The meaning of the Hebrew is uncertain. Literally "And of the Levites, divisions of Judah to Benjamin".
+
+## Chapter 12
+
+*Status: draft*
+
+**1** These are the priests and the Levites who came up with Zerubbabel son of Shealtiel and with Jeshua:[^12-1] Seraiah, Jeremiah, Ezra,
+
+**2** Amariah, Malluch, Hattush,
+
+**3** Shecaniah, Rehum, Meremoth,
+
+**4** Iddo, Ginnethoi, Abijah,
+
+**5** Mijamin, Maadiah, Bilgah,
+
+**6** Shemaiah, Joiarib, Jedaiah,
+
+**7** Sallu, Amok, Hilkiah and Jedaiah. These were the heads of the priests and of their kinsmen in the days of Jeshua.
+
+**8** The Levites: Jeshua, Binnui, Kadmiel, Sherebiah, Judah, and Mattaniah, who with his kinsmen was in charge of the songs of thanksgiving.[^12-2]
+
+**9** Bakbukiah and Unni,[^12-3] their kinsmen, stood opposite them in the services.[^12-4]
+
+**10** Jeshua was the father of Joiakim, Joiakim the father of Eliashib, Eliashib the father of Joiada,
+
+**11** Joiada the father of Jonathan,[^12-5] and Jonathan the father of Jaddua.
+
+**12** In the days of Joiakim the priests who were heads of ancestral families[^12-6] were these: of Seraiah, Meraiah; of Jeremiah, Hananiah;
+
+**13** of Ezra, Meshullam; of Amariah, Jehohanan;
+
+**14** of Melicu,[^12-7] Jonathan; of Shebaniah,[^12-8] Joseph;
+
+**15** of Harim,[^12-9] Adna; of Meraioth,[^12-10] Helkai;
+
+**16** of Iddo, Zechariah; of Ginnethon,[^12-11] Meshullam;
+
+**17** of Abijah, Zichri; of Miniamin,[^12-12] …;[^12-13] of Moadiah,[^12-14] Piltai;
+
+**18** of Bilgah, Shammua; of Shemaiah, Jehonathan;
+
+**19** of Joiarib, Mattenai; of Jedaiah, Uzzi;
+
+**20** of Sallai,[^12-15] Kallai; of Amok, Eber;
+
+**21** of Hilkiah, Hashabiah; of Jedaiah, Nethanel.
+
+**22** In the days of Eliashib, Joiada, Johanan and Jaddua, the Levites were recorded as heads of ancestral families, and so were the priests, until the reign of Darius the Persian.[^12-16]
+
+**23** The descendants of Levi, the heads of ancestral families, were recorded in the book of the chronicles,[^12-17] up to the days of Johanan son of Eliashib.
+
+**24** The heads of the Levites were Hashabiah, Sherebiah and Jeshua son of Kadmiel, with their kinsmen opposite them, to praise and give thanks as David the man of God had commanded, one division answering another.
+
+**25** Mattaniah, Bakbukiah, Obadiah, Meshullam, Talmon and Akkub were gatekeepers standing guard at the storehouses of the gates.[^12-18]
+
+**26** These served in the days of Joiakim son of Jeshua, son of Jozadak, and in the days of Nehemiah the governor and of Ezra the priest and scribe.
+
+**27** At the dedication of the wall of Jerusalem they sought out the Levites from all the places where they lived, to bring them to Jerusalem to celebrate the dedication with joy, with thanksgiving and with singing, with cymbals, harps and lyres.
+
+**28** The singers[^12-19] gathered together from the region around Jerusalem, from the villages of the Netophathites,
+
+**29** from Beth-gilgal, and from the fields of Geba and Azmaveth, for the singers had built themselves villages around Jerusalem.
+
+**30** The priests and the Levites purified themselves, and they purified the people, the gates and the wall.
+
+**31** Then I brought the leaders of Judah up onto the wall, and I appointed two large thanksgiving choirs to go in procession. One went to the right on the wall, toward the Dung Gate.[^12-20]
+
+**32** Behind them went Hoshaiah and half the leaders of Judah,
+
+**33** and Azariah, Ezra, Meshullam,
+
+**34** Judah, Benjamin, Shemaiah and Jeremiah,
+
+**35** and some of the priests with trumpets; and Zechariah son of Jonathan, son of Shemaiah, son of Mattaniah, son of Micaiah, son of Zaccur, son of Asaph,
+
+**36** and his kinsmen, Shemaiah, Azarel, Milalai, Gilalai, Maai, Nethanel, Judah and Hanani, with the musical instruments of David the man of God. Ezra the scribe went in front of them.
+
+**37** At the Fountain Gate they went straight up the steps of the City of David, where the wall goes up, above the house of David, as far as the Water Gate on the east.
+
+**38** The second thanksgiving choir went the opposite way,[^12-21] and I followed it with half the people, on the wall, above the Tower of the Ovens, to the Broad Wall,
+
+**39** and above the Gate of Ephraim, by the Old Gate,[^12-22] by the Fish Gate, the Tower of Hananel and the Tower of the Hundred, as far as the Sheep Gate. They stopped at the Gate of the Guard.
+
+**40** So the two thanksgiving choirs took their places in the house of God, and so did I and half of the officials with me,
+
+**41** and the priests Eliakim, Maaseiah, Miniamin, Micaiah, Elioenai, Zechariah and Hananiah, with trumpets,
+
+**42** and Maaseiah, Shemaiah, Eleazar, Uzzi, Jehohanan, Malchijah, Elam and Ezer. The singers sang out, with Jezrahiah as their leader.
+
+**43** That day they offered great sacrifices and rejoiced, for God had made them rejoice with great joy. The women and the children also rejoiced. And the joy of Jerusalem was heard far away.
+
+**44** On that day men were appointed over the storerooms for the contributions,[^12-23] the firstfruits and the tithes, to gather into them from the fields of the towns the portions required by the Law for the priests and for the Levites. For Judah rejoiced over the priests and the Levites who ministered.
+
+**45** They performed the service of their God and the service of purification, as did the singers and the gatekeepers, according to the command of David and of his son Solomon.
+
+**46** For long ago, in the days of David and Asaph, there were leaders[^12-24] of the singers, and songs of praise and thanksgiving to God.
+
+**47** So in the days of Zerubbabel and in the days of Nehemiah all Israel gave the portions for the singers and the gatekeepers, as each day required. They set apart what was due to the Levites, and the Levites set apart what was due to the descendants of Aaron.
+
+[^12-1]: Compare the priests who sealed the agreement in 10:3–9. Verses 12–21 name the heads of the same priestly families a generation later.
+[^12-2]: Hebrew *huyyedot*, found only here: songs or choirs of thanksgiving.
+[^12-3]: The Hebrew text is written "Unno" but read "Unni".
+[^12-4]: Or "according to their divisions". Literally "for watches".
+[^12-5]: Verses 22–23 have Johanan in this place.
+[^12-6]: Literally "the heads of the fathers", that is, of the fathers' houses: extended families descended from a common ancestor. Also in verses 22–23.
+[^12-7]: The Hebrew text is written "Malluchi" but read "Melicu". Verse 2 has Malluch.
+[^12-8]: Verse 3 has Shecaniah.
+[^12-9]: Verse 3 has Rehum.
+[^12-10]: Verse 3 has Meremoth.
+[^12-11]: Verse 4 has Ginnethoi.
+[^12-12]: Verse 5 has Mijamin.
+[^12-13]: The name of the head of this family is missing in the Hebrew text.
+[^12-14]: Verse 5 has Maadiah. Bilgah and Shemaiah follow, as in verses 5–6, but Hattush (verse 2) has no entry in this list.
+[^12-15]: Verse 7 has Sallu.
+[^12-16]: Probably Darius II, who reigned from 423 to 404 BC.
+[^12-17]: Hebrew *sefer divrei ha-yamim*, "the book of the events of the days": an official record, not necessarily the biblical book of Chronicles, which has the same Hebrew name.
+[^12-18]: Mattaniah and Bakbukiah are singers in 11:17 and 12:8–9, so this verse may list singers as well as gatekeepers.
+[^12-19]: Literally "the sons of the singers", that is, the members of their guild.
+[^12-20]: Literally "two great thanksgivings and processions, to the right on the wall, toward the Dung Gate". The second choir is described in verse 38.
+[^12-21]: Literally "in front", that is, facing the first choir.
+[^12-22]: Or "the Jeshanah Gate"; see 3:6.
+[^12-23]: Hebrew *terumot*: things set apart and given for a sacred purpose.
+[^12-24]: The Hebrew text is written "a leader" but read "leaders".
