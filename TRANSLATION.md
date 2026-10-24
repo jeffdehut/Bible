@@ -77,7 +77,7 @@ Decisions marked **proposed** are used in the pilot and are open for review.
 | אֵל שַׁדַּי, שַׁדַּי | God Almighty, the Almighty | Hebrew *(El) Shaddai*; the meaning is uncertain. Noted at its first occurrence in each chapter. |
 | הַלְלוּ־יָהּ (hallelu-yah) | Praise Yah! | Noted at its first occurrence in each psalm: "Hebrew *hallelu-yah*, 'praise Yah', the source of the word 'Hallelujah'". *Yah* is a short form of the divine name. |
 | יְהוָה מָלָךְ (Psalms 93, 96–99) | Yahweh reigns! | "Or 'Yahweh has become king!'", noted at 93:1. |
-| Prophetic formulas | נְאֻם יְהוָה "declares Yahweh"; כֹּה אָמַר יְהוָה "This is what Yahweh says"; הוֹי "Woe to …"; מַשָּׂא "An oracle concerning …"; בַּיּוֹם הַהוּא "On that day"; קְדוֹשׁ יִשְׂרָאֵל "the Holy One of Israel"; וִידַעְתֶּם כִּי אֲנִי יְהוָה "Then you will know that I am Yahweh" | Set in Isaiah and Jeremiah and used in every prophetic book. *Hoy* is noted at its first occurrence in each book; *massa* ("oracle", also "burden") likewise. |
+| Prophetic formulas | נְאֻם יְהוָה "declares Yahweh"; כֹּה אָמַר יְהוָה "This is what Yahweh says"; הוֹי "Woe to …"; מַשָּׂא "An oracle concerning …"; בַּיּוֹם הַהוּא "On that day"; קְדוֹשׁ יִשְׂרָאֵל "the Holy One of Israel"; וִידַעְתֶּם כִּי אֲנִי יְהוָה "Then you will know that I am Yahweh" | Set in Isaiah and Jeremiah and used in every prophetic book. *Hoy* is noted at its first occurrence in each book; *massa* ("oracle", also "burden") likewise. Later chapters may give a short pointer ("See 13:1"). Where *hoy* is not a cry of disaster it is "Ah", noted. |
 | שְׁאוֹל (Sheol) | Sheol | The realm of the dead. Noted at its first occurrence in each chapter. |
 | מִשְׁכָּן, אֹהֶל מוֹעֵד | tabernacle, tent of meeting | The renderings of the tabernacle, its furnishings, the priestly garments and the offerings are set in Exodus 25–40 and Leviticus 1–7; later books reuse them (for example *kapporet* "atonement cover", *choshen* "breastpiece", *shelamim* "fellowship offering", *chatta't* "sin offering" with a note "Or 'purification offering'"). |
 | פָּרֹכֶת (parokhet) | veil | The hanging that screens the most holy place. Not "curtain", which is יְרִיעָה; מָסָךְ is "screen". |
@@ -210,6 +210,9 @@ from the Hebrew.
   word order is noted only if the English would differ. Where the Septuagint arranges a whole
   passage differently (as in 1 Kings 20–21, Jeremiah, Proverbs 24–31), one note at the start of
   the passage says so.
+- In prophetic and poetic books, Yahweh's own words in the poems are not put in quotation marks
+  (as in Deuteronomy 32 and Isaiah); a song or saying the text introduces as speech ("On that
+  day you will say: …") is.
 - Quotation marks: double for speech, single for a quotation inside it. A third level ("This
   is what Yahweh says: …" inside a message inside a speech) takes a colon and no marks.
 - Within a chapter, a speech's quotation is opened once and closed once; it isn't reopened at

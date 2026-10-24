@@ -79,7 +79,7 @@
 [^1-8]: A title of God found often in Isaiah and only rarely elsewhere (2 Kings 19:22; Psalm 71:22): the holy God who has bound himself to Israel.
 [^1-9]: Literally "they are estranged backward".
 [^1-10]: Or "Where can you be beaten again?" The body is already wounded everywhere (verse 6).
-[^1-11]: Literally "like an overthrow by foreigners". *Overthrow* is the word used for the destruction of Sodom and Gomorrah (Genesis 19:25; Deuteronomy 29:22, English 29:23), which are named in verses 9 and 10.
+[^1-11]: Literally "like an overthrow by foreigners". *Overthrow* is the word used for the destruction of Sodom and Gomorrah (Genesis 19:25; Deuteronomy 29:22, 29:23 in most English Bibles), which are named in verses 9 and 10.
 [^1-12]: A poetic name for Jerusalem and its people, pictured as a young woman.
 [^1-13]: Or "like a guarded city", a watchman's post left standing alone.
 [^1-14]: Hebrew *YHWH tseva'ot*, traditionally "the LORD of hosts" or "the LORD Almighty". *Tseva'ot* means armies: the heavenly hosts and the armies of Israel. The title is used often in Isaiah. Also in verse 24.
@@ -273,7 +273,7 @@
 [^4-4]: Literally "everyone written for life", that is, entered in the register of the living.
 [^4-5]: Or "wind" or "breath". Hebrew *ruach*.
 [^4-6]: The cloud and the fire recall the pillar that led Israel through the wilderness (Exodus 13:21–22).
-[^4-7]: Hebrew *chuppah*, a covering or canopy, the word later used for the canopy over a bride and groom (Psalm 19:6, English 19:5; Joel 2:16).
+[^4-7]: Hebrew *chuppah*, a covering or canopy, the word later used for the canopy over a bride and groom (Psalm 19:6, 19:5 in most English Bibles; Joel 2:16).
 
 ## Chapter 5
 
@@ -757,7 +757,7 @@
 **16** There will be a highway for the remnant of his people that is left from Assyria, as there was for Israel on the day they came up from the land of Egypt.
 
 [^11-1]: Jesse was the father of King David (1 Samuel 16). The *stump* suggests a family tree that has been cut down (compare 6:13; 10:33–34).
-[^11-2]: Hebrew *netser*, "branch, shoot". Matthew 2:23, "He will be called a Nazarene", is often thought to echo this word. Both Jewish and Christian interpreters have read verses 1–10 of the Messiah: the Aramaic Targum begins "A king will come out from the sons of Jesse, and the anointed one (Messiah) will grow up from his sons' sons". The Septuagint reads "and a flower will come up from his root".
+[^11-2]: Hebrew *netser*, "branch, shoot". Matthew 2:23, "He will be called a Nazarene", is often thought to echo this word. Both Jewish and Christian interpreters have read verses 1–10 of the Messiah: the Aramaic Targum begins "A king will come out from the sons of Jesse, and the anointed one (Messiah) will grow up from his sons' sons". The Septuagint reads "and a flower will come up from the root".
 [^11-3]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
 [^11-4]: Or "the Spirit of wisdom … the Spirit of counsel … the Spirit of knowledge". Hebrew *ruach*, "spirit, wind, breath". The Septuagint translates "the fear of Yahweh" here as "godliness", and "the fear of Yahweh" in verse 3 as "the fear of God", so that it lists seven qualities. This became the basis of the traditional "seven gifts of the Holy Spirit".
 [^11-5]: Literally "his smelling", that is, his enjoyment, as of a pleasing fragrance.
@@ -1166,7 +1166,7 @@
 [^19-13]: Also called Tanis, a royal city in the Nile Delta.
 [^19-14]: Hebrew *Noph*, Memphis, the ancient capital of Egypt near modern Cairo.
 [^19-15]: Or "dizziness". Literally "a spirit of distortions".
-[^19-16]: The top and bottom of society (9:13–14, English 9:14–15).
+[^19-16]: The top and bottom of society (9:13–14, 9:14–15 in most English Bibles).
 [^19-17]: That is, Hebrew or a related language.
 [^19-18]: Hebrew *ir ha-heres*. Some Hebrew manuscripts, the Great Isaiah Scroll from Qumran (1QIsa-a) and the Vulgate read *ir ha-cheres*, "City of the Sun", that is, Heliopolis in Egypt. The Septuagint reads "City of Righteousness".
 [^19-19]: Hebrew *matsevah*, a standing stone, a pillar set up as a memorial or as an object of worship. The law forbade them in Israel (Deuteronomy 16:22).
@@ -1326,3 +1326,1097 @@
 [^22-16]: Literally "a throne of glory".
 [^22-17]: Hebrew *kavod*, "glory, weight".
 [^22-18]: Hebrew *massa*, the word translated "oracle" in verse 1.
+
+## Chapter 23
+
+*Status: draft*
+
+**1** An oracle[^23-1] concerning Tyre: Wail, you ships of Tarshish![^23-2] For Tyre is destroyed, without house or harbor.[^23-3] From the land of Cyprus[^23-4] the news has reached them.[^23-5]
+
+**2** Be silent, you who live on the coast, you merchants of Sidon, whom the seafarers have made rich.[^23-6]
+
+**3** On the great waters came the grain of Shihor;[^23-7] the harvest of the Nile was her revenue, and she became the marketplace of the nations.
+
+**4** Be ashamed, Sidon, for the sea has spoken, the stronghold of the sea: "I have not been in labor or given birth; I have not raised young men or brought up young women."
+
+**5** When the report reaches Egypt, they will be in anguish at the report about Tyre.
+
+**6** Cross over to Tarshish! Wail, you who live on the coast!
+
+**7** Is this your joyful city,[^23-8] whose origin is from days of old, whose feet carried her to settle in distant places?
+
+**8** Who has planned this against Tyre, the giver of crowns, whose merchants are princes, whose traders[^23-9] are the honored of the earth?
+
+**9** Yahweh of Armies[^23-10] has planned it, to defile the pride of all glory and to humble all the honored of the earth.
+
+**10** Go through your land as the Nile does, Daughter Tarshish; there is no longer any restraint.[^23-11]
+
+**11** He has stretched out his hand over the sea and made kingdoms tremble. Yahweh has given orders concerning Canaan[^23-12] to destroy its strongholds.
+
+**12** He said, "You will no longer celebrate, you oppressed virgin Daughter Sidon! Get up, cross over to Cyprus; even there you will find no rest."
+
+**13** Look at the land of the Chaldeans! This is the people that is no more. Assyria assigned it to desert creatures. They set up their siege towers; they stripped its palaces bare and made it a ruin.[^23-13]
+
+**14** Wail, you ships of Tarshish, for your fortress is destroyed!
+
+**15** On that day Tyre will be forgotten for seventy years, the lifetime of one king.[^23-14] At the end of seventy years it will be with Tyre as in the song about the prostitute:
+
+**16** "Take a lyre, go around the city, you forgotten prostitute! Play skillfully, sing many songs, so that you will be remembered."
+
+**17** At the end of seventy years Yahweh will come to Tyre.[^23-15] She will return to her fees[^23-16] and will prostitute herself with all the kingdoms of the world on the face of the earth.
+
+**18** But her profit and her fees will be holy to Yahweh. They will not be stored up or hoarded, but her profit will go to those who live in Yahweh's presence, so that they may eat their fill and wear fine clothes.[^23-17]
+
+[^23-1]: Hebrew *massa*. See 13:1.
+[^23-2]: Large seagoing ships, of the kind that sailed to Tarshish, a distant port in the west, perhaps in Spain (2:16). Also in verse 14.
+[^23-3]: Literally "it is destroyed, from house, from entering". The meaning is uncertain.
+[^23-4]: Hebrew *Kittim*, the people of Cyprus, later used of other peoples of the west. Also in verse 12.
+[^23-5]: Literally "it has been revealed to them".
+[^23-6]: Literally "who cross the sea have filled you".
+[^23-7]: An arm of the Nile in the eastern Delta, here standing for the Nile.
+[^23-8]: Literally "Is this for you the exultant one?"
+[^23-9]: Literally "her Canaanites". The Canaanites of the coast, the Phoenicians, were known as traders, so *Canaanite* came to mean "merchant".
+[^23-10]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles. *Yahweh of Armies* (Hebrew *YHWH tseva'ot*) is traditionally "the LORD of hosts" or "the LORD Almighty". *Tseva'ot* means armies: the heavenly hosts and the armies of Israel.
+[^23-11]: Or "there is no longer a harbor". Hebrew *mezach*, perhaps "belt" or "dockyard". The meaning of the verse is uncertain.
+[^23-12]: Here Phoenicia, the coastal land of Tyre and Sidon.
+[^23-13]: The Hebrew of this verse is difficult. It seems to point to the fate of Babylon, the land of the Chaldeans, as a warning to Tyre.
+[^23-14]: Literally "like the days of one king", a normal human lifetime (Psalm 90:10).
+[^23-15]: Or "will visit". Hebrew *paqad*, to come to someone to deal with them, in blessing or in punishment.
+[^23-16]: Hebrew *etnan*, a prostitute's pay, here an image for Tyre's trade. Also in verse 18.
+[^23-17]: Literally "for a stately covering".
+
+## Chapter 24
+
+*Status: draft*
+
+**1** Look, Yahweh[^24-1] is about to empty the earth and lay it waste.[^24-2] He will twist its surface and scatter its inhabitants.
+
+**2** It will be the same for people and priest, for servant and master, for maid and mistress, for buyer and seller, for lender and borrower, for creditor and debtor.
+
+**3** The earth will be utterly emptied and utterly plundered, for Yahweh has spoken this word.
+
+**4** The earth dries up[^24-3] and withers; the world languishes and withers; the highest of the people of the earth languish.
+
+**5** The earth is defiled under its inhabitants, for they have broken the laws, violated the decree and broken the everlasting covenant.[^24-4]
+
+**6** Therefore a curse devours the earth, and its people bear their guilt. Therefore the inhabitants of the earth are burned up,[^24-5] and few people are left.
+
+**7** The new wine dries up; the vine languishes. All the merrymakers groan.
+
+**8** The joyful sound of tambourines has stopped; the noise of the revelers has ended; the joyful sound of the lyre has stopped.
+
+**9** They no longer drink wine with a song; beer is bitter to those who drink it.
+
+**10** The city of chaos[^24-6] is broken down; every house is shut up so that no one can enter.
+
+**11** In the streets there is an outcry over wine; all joy has turned to gloom; the gladness of the earth has gone into exile.
+
+**12** Desolation is left in the city, and its gate is battered to ruins.
+
+**13** For so it will be in the middle of the earth, among the peoples: as when an olive tree is beaten, as at the gleaning when the grape harvest is over.
+
+**14** They raise their voices and shout for joy; they cry out from the west[^24-7] over the majesty of Yahweh.
+
+**15** Therefore in the east[^24-8] give glory to Yahweh; in the coastlands of the sea, give glory to the name of Yahweh, the God of Israel.
+
+**16** From the ends of the earth we hear songs: "Glory[^24-9] to the Righteous One!" But I said, "I waste away, I waste away![^24-10] Woe is me! The traitors betray; with treachery the traitors betray!"[^24-11]
+
+**17** Terror and pit and snare are upon you, you who live on the earth![^24-12]
+
+**18** Whoever flees at the sound of terror will fall into the pit, and whoever climbs out of the pit will be caught in the snare. For the windows of heaven are opened,[^24-13] and the foundations of the earth shake.
+
+**19** The earth is utterly broken; the earth is split apart; the earth is violently shaken.
+
+**20** The earth staggers like a drunkard; it sways like a hut.[^24-14] Its rebellion lies heavy on it; it falls and will not rise again.
+
+**21** On that day Yahweh will punish the host of heaven in heaven,[^24-15] and the kings of the earth on the earth.
+
+**22** They will be gathered together like prisoners in a pit; they will be shut up in a prison, and after many days they will be punished.[^24-16]
+
+**23** The moon will be ashamed and the sun abashed,[^24-17] for Yahweh of Armies[^24-18] will reign on Mount Zion and in Jerusalem, and his glory will be before his elders.[^24-19]
+
+[^24-1]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles. Chapters 24–27 are often called the "Isaiah Apocalypse": poems about the judgment of the whole earth and the final triumph of God.
+[^24-2]: A play on sounds: *boqeq … u-voleqah*, "empty … and lay waste". Similar sound-plays run through verses 3, 4, 16, 17 and 19.
+[^24-3]: Or "mourns". Hebrew *avlah*, also in verse 7.
+[^24-4]: Perhaps the covenant with Noah and all living things (Genesis 9:16). *Laws* is Hebrew *torot*, "instructions"; *decree* is *choq*.
+[^24-5]: Or "dwindle". The meaning of the Hebrew verb is uncertain.
+[^24-6]: Hebrew *tohu*, the word for the "formless" earth in Genesis 1:2. The city is not named.
+[^24-7]: Literally "from the sea", the Mediterranean, to the west of Israel.
+[^24-8]: Hebrew *ba'urim*, perhaps "in the regions of light", where the sun rises. The meaning is uncertain.
+[^24-9]: Or "Beauty". Hebrew *tsevi*.
+[^24-10]: Hebrew *razi li*, a phrase of uncertain meaning, perhaps "leanness to me". The Vulgate reads "My secret is mine".
+[^24-11]: A play on words: *bogdim bagadu u-veged bogdim bagadu*.
+[^24-12]: A play on sounds: *pachad va-pachat va-fach*. Jeremiah 48:43–44 repeats verses 17–18.
+[^24-13]: As in the flood (Genesis 7:11).
+[^24-14]: A watchman's hut in a field (1:8).
+[^24-15]: Literally "the army of the height in the height": the heavenly powers, perhaps the stars, or the beings thought to rule the nations.
+[^24-16]: Or "visited". Hebrew *paqad* (verse 21).
+[^24-17]: Hebrew *levanah*, "the white one", and *chammah*, "the hot one", poetic names for the moon and the sun.
+[^24-18]: *Yahweh of Armies* (Hebrew *YHWH tseva'ot*) is traditionally "the LORD of hosts" or "the LORD Almighty". *Tseva'ot* means armies: the heavenly hosts and the armies of Israel.
+[^24-19]: Literally "and before his elders, glory". Compare the elders who saw the God of Israel on Mount Sinai (Exodus 24:9–11).
+
+## Chapter 25
+
+*Status: draft*
+
+**1** Yahweh,[^25-1] you are my God; I will exalt you; I will praise your name. For you have done wonderful things, plans formed long ago, faithful and sure.[^25-2]
+
+**2** For you have made the city a heap of rubble, the fortified town a ruin. The palace of foreigners is a city no more; it will never be rebuilt.
+
+**3** Therefore a strong people will honor you; the city of ruthless nations will fear you.
+
+**4** For you have been a refuge for the poor, a refuge for the needy in their distress, a shelter from the storm and a shade from the heat. For the breath of the ruthless is like a storm against a wall.
+
+**5** Like heat in a dry land, you subdue the uproar of foreigners. As heat is cooled by the shade of a cloud, so the song of the ruthless is silenced.
+
+**6** On this mountain Yahweh of Armies[^25-3] will prepare for all peoples a feast of rich food, a feast of aged wine,[^25-4] of rich food full of marrow, of aged wine well refined.
+
+**7** On this mountain he will swallow up the shroud that covers all peoples, the sheet that is spread over all nations.
+
+**8** He will swallow up death forever.[^25-5] The Lord Yahweh will wipe away the tears from every face and remove the disgrace of his people from all the earth. For Yahweh has spoken.
+
+**9** On that day they will say, "Look, this is our God; we waited for him, and he has saved us. This is Yahweh; we waited for him. Let us rejoice and be glad in his salvation."
+
+**10** For the hand of Yahweh will rest on this mountain. But Moab will be trampled down where he stands, as straw is trampled down in a dung pit.[^25-6]
+
+**11** He will spread out his hands in it, as a swimmer spreads out his hands to swim, but he will bring down his pride, for all the skill of his hands.[^25-7]
+
+**12** The high fortress of your walls he will bring down, lay low and cast to the ground, to the dust.
+
+[^25-1]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^25-2]: Hebrew *emunah omen*, two words from the root *aman*, "be firm" (7:9).
+[^25-3]: *Yahweh of Armies* (Hebrew *YHWH tseva'ot*) is traditionally "the LORD of hosts" or "the LORD Almighty". *Tseva'ot* means armies: the heavenly hosts and the armies of Israel.
+[^25-4]: Literally "of lees", wine left to mature on its sediment. Also later in the verse.
+[^25-5]: Or "in victory". Hebrew *lanetsach*. Paul quotes this line in 1 Corinthians 15:54, "Death has been swallowed up in victory". Revelation 7:17 and 21:4 echo the next line.
+[^25-6]: The Hebrew text is written "in the water of a dung pit" but read "in a dung pit". *Dung pit* (*madmenah*) sounds like Madmen, a town of Moab (Jeremiah 48:2).
+[^25-7]: *He* in the first line is probably Moab, and in the second Yahweh. *Skill* (Hebrew *arbot*) is uncertain; perhaps "the tricks" or "the strokes" of his hands.
+
+## Chapter 26
+
+*Status: draft*
+
+**1** On that day this song will be sung in the land of Judah: "We have a strong city; he sets up salvation as its walls and ramparts.[^26-1]
+
+**2** Open the gates, so that the righteous nation may enter, the nation that keeps faith.
+
+**3** You keep in perfect peace[^26-2] the one whose mind is steadfast,[^26-3] because he trusts in you.
+
+**4** Trust in Yahweh[^26-4] forever, for in Yah, Yahweh,[^26-5] you have an everlasting Rock.
+
+**5** For he has brought down those who live on high, the lofty city. He lays it low, lays it low to the ground, and casts it down to the dust.
+
+**6** The foot tramples it, the feet of the poor, the steps of the needy."
+
+**7** The path of the righteous is level; you, the Upright One, make smooth the way of the righteous.[^26-6]
+
+**8** Yes, Yahweh, in the path of your judgments we wait for you. Your name and your renown are the desire of our soul.
+
+**9** My soul longs for you in the night; yes, my spirit within me seeks you at dawn. For when your judgments come upon the earth, the inhabitants of the world learn righteousness.
+
+**10** If the wicked are shown favor, they do not learn righteousness. In a land of honesty they act unjustly and do not see the majesty of Yahweh.
+
+**11** Yahweh, your hand is lifted up, but they do not see it. Let them see your zeal for your people and be ashamed; let the fire meant for your enemies consume them.
+
+**12** Yahweh, you will establish peace for us; indeed, all that we have done, you have done for us.
+
+**13** Yahweh our God, other lords besides you have ruled over us, but your name alone do we honor.[^26-7]
+
+**14** The dead do not live; the shades[^26-8] do not rise. That is why you punished them and destroyed them, and wiped out all memory of them.
+
+**15** You have enlarged the nation, Yahweh; you have enlarged the nation; you are glorified. You have extended all the borders of the land.
+
+**16** Yahweh, in distress they came looking for you; they poured out a whispered prayer when your discipline was on them.[^26-9]
+
+**17** As a pregnant woman about to give birth writhes and cries out in her pains, so were we because of you, Yahweh.
+
+**18** We were pregnant, we writhed, but we gave birth only to wind. We have not brought salvation to the earth, and no inhabitants of the world have been born.[^26-10]
+
+**19** Your dead will live; my dead bodies will rise.[^26-11] Wake up and shout for joy, you who dwell in the dust! For your dew is a dew of light,[^26-12] and the earth will give birth to the shades.[^26-13]
+
+**20** Go, my people, enter your rooms and shut your door behind you.[^26-14] Hide for a little while, until the wrath has passed by.
+
+**21** For look, Yahweh is coming out from his place to punish the inhabitants of the earth for their guilt. The earth will uncover the blood shed on it and will no longer cover its slain.
+
+[^26-1]: Literally "salvation he sets up, walls and rampart". The song may end at verse 6; the prayer that follows runs to verse 19.
+[^26-2]: Literally "peace, peace". Hebrew *shalom shalom*, doubled for emphasis.
+[^26-3]: Hebrew *yetser*, "what is formed": the mind, its purpose and inclination.
+[^26-4]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^26-5]: Hebrew *Yah YHWH*. *Yah* is a short form of the name Yahweh (12:2).
+[^26-6]: Or "the path of the righteous is level; you make level the way of the righteous". Hebrew *yashar* can be a title, "Upright One", or mean "level".
+[^26-7]: Literally "only by you do we call your name to mind".
+[^26-8]: Hebrew *repha'im*, the spirits of the dead (14:9). Also in verse 19.
+[^26-9]: The Hebrew of this verse is difficult. *Came looking for you* is Hebrew *peqadukha*, perhaps "they missed you".
+[^26-10]: Literally "have not fallen", that is, have not been born.
+[^26-11]: Literally "my corpse", a collective: the dead of the speaker's own people.
+[^26-12]: Or "a dew of herbs". Hebrew *orot* can mean "lights" or "plants" (2 Kings 4:39).
+[^26-13]: This verse is often read, with Daniel 12:2, as a promise that the dead will rise. Others take it as an image of the nation's revival, as in Ezekiel 37.
+[^26-14]: The Hebrew text is written "your doors" but read "your door".
+
+## Chapter 27
+
+*Status: draft*
+
+**1** On that day Yahweh[^27-1] will punish with his sword, hard and great and strong, Leviathan the fleeing serpent, Leviathan the twisting serpent, and he will kill the dragon[^27-2] that is in the sea.[^27-3]
+
+**2** On that day sing of a delightful vineyard:
+
+**3** I, Yahweh, am its keeper; I water it every moment. So that no one may harm it, I guard it night and day.
+
+**4** I have no anger. If only there were briers and thorns to fight against! I would march against them; I would burn them all together.
+
+**5** Or else let them take hold of my protection; let them make peace with me; yes, let them make peace with me.
+
+**6** In days to come[^27-4] Jacob will take root; Israel will blossom and sprout, and fill the face of the world with fruit.
+
+**7** Has he struck him as he struck those who struck him? Has he been killed as those who killed him were killed?[^27-5]
+
+**8** By driving her away, by sending her off, you contended with her.[^27-6] He removed her with his fierce wind on the day of the east wind.
+
+**9** Therefore by this the guilt of Jacob will be atoned for, and this will be the full fruit of the removal of his sin: when he makes all the altar stones like chalk stones crushed to pieces, no Asherah poles[^27-7] or incense altars will be left standing.
+
+**10** For the fortified city is desolate, a settlement abandoned and deserted like the wilderness. There the calf grazes, there it lies down and strips its branches.
+
+**11** When its twigs are dry, they are broken off; women come and make fires with them. For this is a people without understanding; therefore their Maker will have no compassion on them, and the one who formed them will show them no favor.
+
+**12** On that day Yahweh will thresh from the flowing Euphrates[^27-8] to the Wadi of Egypt,[^27-9] and you will be gathered up one by one, people of Israel.
+
+**13** On that day a great ram's horn[^27-10] will be blown, and those who were perishing in the land of Assyria and those who were scattered in the land of Egypt will come and worship Yahweh on the holy mountain in Jerusalem.
+
+[^27-1]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^27-2]: Hebrew *tannin*, a sea monster or serpent (51:9; Genesis 1:21).
+[^27-3]: Leviathan is a sea monster, a picture of the forces of chaos that God overcomes (Psalm 74:13–14; Job 3:8). Older Canaanite poems from Ugarit describe the monster Litan in almost the same words: "the fleeing serpent, the twisting serpent".
+[^27-4]: Literally "Those who come". Or "In the coming days".
+[^27-5]: Israel has been struck, but not destroyed as its enemies were.
+[^27-6]: Hebrew *be-sa'se'ah*, a word found only here, perhaps "by measure" or "by driving away". *Her* is Israel, pictured as a woman sent away.
+[^27-7]: Hebrew *asherim*: wooden poles or trees that were symbols of the goddess Asherah. The *incense altars* (*chammanim*) are as in 17:8.
+[^27-8]: Literally "from the flowing stream of the River". Hebrew *shibbolet* can mean "flowing stream" or "ear of grain", a play on the image of threshing.
+[^27-9]: The Wadi el-Arish, the southwestern border of the promised land.
+[^27-10]: Hebrew *shofar*, a trumpet made from a ram's horn.
+
+## Chapter 28
+
+*Status: draft*
+
+**1** Woe to the proud crown of the drunkards of Ephraim,[^28-1] to the fading flower of its glorious beauty, which is on the head of the fertile valley,[^28-2] of those overcome by wine!
+
+**2** Look, the Lord has one who is mighty and strong. Like a storm of hail, a destroying wind, like a storm of mighty, flooding waters, he will throw it down to the ground with his hand.
+
+**3** The proud crown of the drunkards of Ephraim will be trampled underfoot.
+
+**4** And the fading flower of its glorious beauty, which is on the head of the fertile valley, will be like a fig that ripens before the summer harvest: as soon as someone sees it, he swallows it while it is still in his hand.
+
+**5** On that day Yahweh of Armies[^28-3] will be a crown of glory and a diadem of beauty for the remnant of his people,
+
+**6** a spirit of justice for the one who sits in judgment, and strength for those who turn back the battle at the gate.
+
+**7** But these too reel from wine and stagger from beer: priest and prophet reel from beer; they are swallowed up by wine; they stagger from beer; they reel when they see visions; they stumble when they give judgment.
+
+**8** For all the tables are covered with vomit; no place is without filth.
+
+**9** Whom is he trying to teach? To whom is he explaining his message? To children just weaned from milk, just taken from the breast?[^28-4]
+
+**10** For it is *tsav la-tsav, tsav la-tsav, qav la-qav, qav la-qav*, a little here, a little there.[^28-5]
+
+**11** Very well, then: with stammering lips and in a foreign tongue he will speak to this people,[^28-6]
+
+**12** to whom he said, "This is the place of rest; give rest to the weary; this is the place of repose." But they would not listen.
+
+**13** So the word of Yahweh will be to them *tsav la-tsav, tsav la-tsav, qav la-qav, qav la-qav*, a little here, a little there, so that they will go and fall backward, be broken, be snared and be captured.
+
+**14** Therefore hear the word of Yahweh, you scoffers who rule this people in Jerusalem![^28-7]
+
+**15** For you have said, "We have made a covenant with death,[^28-8] and with Sheol[^28-9] we have made an agreement. When the overwhelming scourge passes through,[^28-10] it will not reach us, for we have made lies our refuge and hidden ourselves in falsehood."
+
+**16** Therefore this is what the Lord Yahweh says: Look, I am laying in Zion a stone, a tested stone, a precious cornerstone, a firm foundation.[^28-11] Whoever trusts will not panic.[^28-12]
+
+**17** I will make justice the measuring line and righteousness the plumb line. Hail will sweep away the refuge of lies, and water will flood the hiding place.
+
+**18** Your covenant with death will be annulled,[^28-13] and your agreement with Sheol will not stand. When the overwhelming scourge passes through, you will be trampled down by it.
+
+**19** As often as it passes through, it will take you; morning after morning it will pass through, by day and by night. To understand the message will be sheer terror.
+
+**20** For the bed is too short to stretch out on, and the blanket too narrow to wrap around you.
+
+**21** For Yahweh will rise up as at Mount Perazim; he will rage as in the valley of Gibeon,[^28-14] to do his work, his strange work, and to perform his task, his alien task.
+
+**22** So now, stop your scoffing, or your chains will be made heavier. For I have heard from the Lord Yahweh of Armies a decree of destruction against the whole land.[^28-15]
+
+**23** Listen and hear my voice; pay attention and hear what I say.
+
+**24** Does the plowman plow all day to plant seed? Does he keep on breaking up and harrowing his ground?
+
+**25** When he has leveled its surface, does he not scatter dill and sow cumin? Does he not put wheat in rows, barley in its place, and spelt at its border?[^28-16]
+
+**26** His God instructs him and teaches him the right way.[^28-17]
+
+**27** Dill is not threshed with a threshing sledge, and a cartwheel is not rolled over cumin. Dill is beaten out with a stick, and cumin with a rod.
+
+**28** Grain for bread is crushed, but not endlessly; he does not keep threshing it forever. He drives the wheel of his cart and his horses over it, but he does not crush it.
+
+**29** This also comes from Yahweh of Armies. His counsel is wonderful, and his wisdom is great.[^28-18]
+
+[^28-1]: Samaria, capital of the northern kingdom (Ephraim), stood on a hill above a fertile valley like a crown or garland on a drinker's head. It fell to Assyria in 722 BC.
+[^28-2]: Literally "the valley of fatness". Also in verse 4.
+[^28-3]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles. *Yahweh of Armies* (Hebrew *YHWH tseva'ot*) is traditionally "the LORD of hosts" or "the LORD Almighty". *Tseva'ot* means armies: the heavenly hosts and the armies of Israel.
+[^28-4]: Verses 9–10 are probably the words of the drunken priests and prophets, mocking Isaiah's teaching as fit only for small children.
+[^28-5]: The Hebrew is a string of short sounds, perhaps baby talk, or the drunken mockery of a teacher. It may also be understood as "command upon command, command upon command, line upon line, line upon line", since *tsav* may come from the word for "command" and *qav* means "measuring line" (verse 17). Some think of the letters *tsade* and *qof* recited by children learning the alphabet. Also in verse 13.
+[^28-6]: The foreign speech of Assyrian soldiers. Paul quotes verses 11–12 in 1 Corinthians 14:21.
+[^28-7]: Or "you scoffers who make proverbs for this people". Hebrew *moshle* can mean "rulers" or "speakers of sayings".
+[^28-8]: Hebrew *mavet*. In Canaanite stories *Mot*, "Death", was also the name of a god of the underworld.
+[^28-9]: Hebrew *Sheol*, the realm of the dead. Also in verse 18. *Agreement* is literally "vision" or "seer" (*chozeh*), perhaps a pact made through a seer.
+[^28-10]: The Hebrew text is written "passed" but read "passes".
+[^28-11]: Literally "Look, I have laid". The form of the Hebrew verb is unusual.
+[^28-12]: Or "will not be in a hurry". The Septuagint reads "will not be put to shame", and Romans 9:33; 10:11 and 1 Peter 2:6 quote the verse in that form.
+[^28-13]: Literally "covered over", the verb used for atonement, here perhaps "wiped out".
+[^28-14]: Where David defeated the Philistines (2 Samuel 5:20, 25; 1 Chronicles 14:16), and where Yahweh fought for Joshua at Gibeon (Joshua 10:10–14).
+[^28-15]: Or "against the whole earth". Compare 10:23.
+[^28-16]: The words translated *in rows* and *in its place* are uncertain.
+[^28-17]: Literally "for judgment", that is, the proper way to do things.
+[^28-18]: Hebrew *tushiyyah*, practical wisdom that brings success.
+
+## Chapter 29
+
+*Status: draft*
+
+**1** Woe to Ariel, Ariel,[^29-1] the city where David camped! Add year to year; let the festivals run their round.
+
+**2** Yet I will bring distress on Ariel. There will be mourning and lamenting,[^29-2] and she will be to me like an altar hearth.[^29-3]
+
+**3** I will camp against you all around;[^29-4] I will besiege you with towers and set up siege works against you.
+
+**4** Brought low, you will speak from the ground, and your words will come muffled from the dust. Your voice will come from the ground like a ghost's,[^29-5] and your words will whisper from the dust.
+
+**5** But the horde of your foes[^29-6] will be like fine dust, the horde of the ruthless like chaff blowing away. Suddenly, in an instant,
+
+**6** you will be visited by Yahweh of Armies[^29-7] with thunder and earthquake and great noise, with whirlwind and storm and the flame of a devouring fire.
+
+**7** The horde of all the nations that fight against Ariel, all who attack her and her stronghold and bring distress on her, will be like a dream, a vision in the night.
+
+**8** It will be as when a hungry man dreams that he is eating, but he wakes up, and his hunger is not satisfied, or as when a thirsty man dreams that he is drinking, but he wakes up faint, and his thirst is not quenched.[^29-8] So it will be with the horde of all the nations that fight against Mount Zion.
+
+**9** Be stunned and stay stunned; blind yourselves and be blind! Be drunk, but not with wine; stagger, but not with beer![^29-9]
+
+**10** For Yahweh has poured out on you a spirit of deep sleep. He has shut your eyes, the prophets, and covered your heads, the seers.[^29-10]
+
+**11** For you this whole vision has become like the words of a sealed scroll. When they give it to someone who can read[^29-11] and say, "Read this, please," he answers, "I cannot, for it is sealed."
+
+**12** Or when they give the scroll to someone who cannot read and say, "Read this, please," he answers, "I cannot read."
+
+**13** The Lord said: Because this people draw near with their mouth and honor me with their lips, while their hearts are far from me, and their fear of me is a human command learned by rote,[^29-12]
+
+**14** therefore, look, I will again do amazing things with this people, wonder upon wonder. The wisdom of their wise will perish, and the understanding of their discerning will vanish.[^29-13]
+
+**15** Woe to those who go to great depths to hide their plans from Yahweh, whose deeds are done in the dark, and who say, "Who sees us? Who knows us?"
+
+**16** How you turn things upside down! Should the potter be thought of as the clay? Should what is made say of its maker, "He did not make me"? Should the pot say of the potter, "He has no understanding"?[^29-14]
+
+**17** In a very little while, will not Lebanon be turned into a fruitful field, and the fruitful field be thought of as a forest?[^29-15]
+
+**18** On that day the deaf will hear the words of a scroll, and out of gloom and darkness the eyes of the blind will see.
+
+**19** The humble will again rejoice in Yahweh, and the poorest of people will exult in the Holy One of Israel.
+
+**20** For the ruthless will be gone, the scoffer will come to an end, and all who watch for a chance to do evil will be cut off,
+
+**21** those who make a person guilty with a word,[^29-16] who lay a trap for the one who argues for justice at the gate,[^29-17] and with empty claims[^29-18] turn aside the innocent.
+
+**22** Therefore this is what Yahweh, who redeemed Abraham, says to the house of Jacob: Jacob will no longer be ashamed; his face will no longer grow pale.
+
+**23** For when he sees his children, the work of my hands, in his midst, they will treat my name as holy. They will treat the Holy One of Jacob as holy and stand in awe of the God of Israel.
+
+**24** Those who go astray in spirit will gain understanding, and those who grumble will accept instruction.
+
+[^29-1]: A name for Jerusalem. Hebrew *ari'el* can mean "lion of God", but in Ezekiel 43:15–16 it is the "altar hearth" where sacrifices were burned (verse 2).
+[^29-2]: A play on sounds: *ta'aniyyah va-aniyyah*.
+[^29-3]: Hebrew *ari'el*. Jerusalem will become like the place of burning on the altar.
+[^29-4]: Literally "like a circle". The Septuagint reads "like David", whose camp is named in verse 1.
+[^29-5]: Hebrew *ov*, the spirit of a dead person called up by a medium (8:19), thought to speak in a faint whisper.
+[^29-6]: Literally "your strangers".
+[^29-7]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles. *Yahweh of Armies* (Hebrew *YHWH tseva'ot*) is traditionally "the LORD of hosts" or "the LORD Almighty". *Tseva'ot* means armies: the heavenly hosts and the armies of Israel.
+[^29-8]: Literally "his *nephesh* is empty … his *nephesh* is longing". Hebrew *nephesh* here means "throat, appetite".
+[^29-9]: Plays on sounds: *hitmahmehu u-temahu, hishta'ash'u va-sho'u*.
+[^29-10]: *The prophets* and *the seers* may explain what *your eyes* and *your heads* mean.
+[^29-11]: Literally "who knows writing". The Hebrew text is written "who knows the scroll" but read "who knows writing".
+[^29-12]: Literally "a commandment of human beings, taught". Jesus quotes verse 13 in Mark 7:6–7 and Matthew 15:8–9, following the Septuagint: "They worship me in vain, teaching human rules as if they were doctrines."
+[^29-13]: Paul quotes the last part of this verse in 1 Corinthians 1:19, following the Septuagint.
+[^29-14]: Compare 45:9 and Romans 9:20.
+[^29-15]: Hebrew *karmel*, "garden land, orchard" (10:18). The great forest will become farmland, and farmland will grow wild, a reversal of the present order.
+[^29-16]: Or "who condemn a person in a lawsuit". Hebrew *davar* means "word" or "case".
+[^29-17]: The town gate was where cases were heard and judged.
+[^29-18]: Hebrew *tohu*, "emptiness" (24:10).
+
+## Chapter 30
+
+*Status: draft*
+
+**1** Woe to the rebellious children, declares Yahweh,[^30-1] who carry out plans that are not mine, and make an alliance,[^30-2] but not by my Spirit,[^30-3] heaping sin on sin,
+
+**2** who set out to go down to Egypt without asking my advice,[^30-4] to take refuge in Pharaoh's protection and to shelter in Egypt's shade!
+
+**3** But Pharaoh's protection will be your shame, and shelter in Egypt's shade your disgrace.
+
+**4** For though his officials are in Zoan and his envoys have reached Hanes,[^30-5]
+
+**5** everyone will be put to shame[^30-6] because of a people who cannot help them, who bring neither help nor benefit, but only shame and disgrace.
+
+**6** An oracle[^30-7] concerning the animals of the Negev:[^30-8] Through a land of trouble and distress, of lioness and lion, of viper and flying serpent,[^30-9] they carry their wealth on the backs of donkeys and their treasures on the humps of camels, to a people that cannot help them.
+
+**7** Egypt's help is worthless and empty. Therefore I have called her "Rahab, who sits still."[^30-10]
+
+**8** Now go, write it on a tablet in their presence, and inscribe it in a scroll, so that it may be there for the time to come, forever and ever.[^30-11]
+
+**9** For they are a rebellious people, lying children, children unwilling to listen to the instruction[^30-12] of Yahweh,
+
+**10** who say to the seers, "Do not see!" and to the prophets, "Do not prophesy to us what is right! Tell us smooth things; prophesy illusions!
+
+**11** Get out of the way; turn aside from the path; stop confronting us with the Holy One of Israel!"[^30-13]
+
+**12** Therefore this is what the Holy One of Israel says: Because you have rejected this word and trusted in oppression and deceit, and relied on them,
+
+**13** this guilt will be for you like a breach in a high wall, bulging out and about to fall, whose collapse comes suddenly, in an instant.
+
+**14** It will break like a potter's jar, smashed so ruthlessly that among its pieces not a fragment is found to take fire from a hearth or to scoop water from a cistern.
+
+**15** For this is what the Lord Yahweh, the Holy One of Israel, says: In returning and rest you will be saved; in quietness and trust will be your strength. But you were not willing.
+
+**16** You said, "No! We will flee on horses." So you will flee! "We will ride on swift horses." So your pursuers will be swift![^30-14]
+
+**17** A thousand will flee at the threat of one; at the threat of five you will all flee, until you are left like a flagpole on a mountaintop, like a signal flag on a hill.
+
+**18** Therefore Yahweh waits to be gracious to you; therefore he rises to show you compassion. For Yahweh is a God of justice. Happy are all who wait for him![^30-15]
+
+**19** You people in Zion, who live in Jerusalem,[^30-16] you will weep no more. He will surely be gracious to you at the sound of your cry; as soon as he hears it, he will answer you.
+
+**20** Though the Lord gives you the bread of adversity and the water of affliction, your teacher[^30-17] will no longer hide himself, but your eyes will see your teacher.
+
+**21** Your ears will hear a word behind you: "This is the way; walk in it," whenever you turn to the right or to the left.
+
+**22** Then you will defile your silver-plated idols and your gold-covered images. You will throw them away like a menstrual cloth and say to them, "Get out!"
+
+**23** He will give rain for the seed you sow in the ground, and the bread that the ground produces will be rich and plentiful. On that day your cattle will graze in broad pastures.
+
+**24** The oxen and donkeys that work the ground will eat seasoned fodder, winnowed with shovel and fork.
+
+**25** On every high mountain and on every lofty hill there will be streams flowing with water, on the day of the great slaughter, when the towers fall.
+
+**26** The light of the moon will be like the light of the sun, and the light of the sun will be seven times brighter, like the light of seven days, on the day Yahweh binds up the wounds of his people and heals the bruises from his blows.
+
+**27** Look, the name of Yahweh comes from far away, burning with his anger, in thick, rising smoke.[^30-18] His lips are full of fury, and his tongue is like a devouring fire.
+
+**28** His breath[^30-19] is like a flooding torrent that rises up to the neck, to sift the nations in the sieve of destruction, and to put in the jaws of the peoples a bridle that leads them astray.
+
+**29** You will have a song as on the night when a festival is kept holy, and gladness of heart as when people go up with the flute to the mountain of Yahweh, to the Rock of Israel.
+
+**30** Yahweh will make his majestic voice heard and show his arm coming down, in raging anger and the flame of a devouring fire, with cloudburst and storm and hailstones.
+
+**31** For at the voice of Yahweh Assyria will be shattered, when he strikes with the rod.
+
+**32** Every stroke of the appointed rod that Yahweh lays on him will be to the sound of tambourines and lyres, as he fights against them[^30-20] in battle with brandished arm.
+
+**33** For a Topheth[^30-21] has long been prepared; it has been made ready for the king.[^30-22] Its fire pit has been made deep and wide, with plenty of fire and wood. The breath of Yahweh, like a stream of sulfur, sets it ablaze.
+
+[^30-1]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^30-2]: Literally "pour out a drink offering", perhaps to seal a treaty, or "weave a web".
+[^30-3]: Or "not by my spirit". Hebrew *ruach*.
+[^30-4]: Literally "and have not asked my mouth".
+[^30-5]: Probably Heracleopolis, a city in Egypt south of Memphis. *Zoan* is Tanis in the Nile Delta (19:11).
+[^30-6]: The Hebrew text is written "Everyone has made a stench" but read "Everyone has been put to shame".
+[^30-7]: Hebrew *massa*. See 13:1.
+[^30-8]: The dry region south of Judah, through which envoys traveled to Egypt with gifts.
+[^30-9]: Hebrew *saraf*, as in 14:29.
+[^30-10]: *Rahab*, "arrogance, storming", is the name of a sea monster, a picture of chaos (51:9; Job 26:12), used also as a name for Egypt (Psalm 87:4). *Who sits still* may mean "the do-nothing". The Hebrew phrase is difficult.
+[^30-11]: The vowel points read "forever" (*la'ad*). The same consonants can be read "as a witness" (*le'ed*).
+[^30-12]: Hebrew *torah*, "instruction, teaching, law".
+[^30-13]: Literally "make the Holy One of Israel cease from before us".
+[^30-14]: A play on words: *nanus*, "we will flee" (on horses, *sus*), and *qal*, "swift", with *yiqqallu*, "will be swift".
+[^30-15]: Hebrew *ashrei*: happy, fortunate; traditionally "blessed".
+[^30-16]: Or "For a people will live in Zion, in Jerusalem".
+[^30-17]: Or "your teachers". The Hebrew form can be singular or plural. Also later in the verse.
+[^30-18]: Literally "and heavy is the lifting up". Hebrew *massa'ah*, related to *massa* (verse 6), here perhaps rising smoke.
+[^30-19]: Or "His spirit". Hebrew *ruach*.
+[^30-20]: The Hebrew text is written "against her" but read "against them".
+[^30-21]: Hebrew *tofteh*, a form of *Topheth*, the burning place in the Valley of Hinnom outside Jerusalem where children were sacrificed (2 Kings 23:10; Jeremiah 7:31).
+[^30-22]: Hebrew *melekh*, "king", perhaps also a play on *Molekh* (Molech), the god to whom children were burned there (Leviticus 18:21; 2 Kings 23:10).
+
+## Chapter 31
+
+*Status: draft*
+
+**1** Woe to those who go down to Egypt for help, who rely on horses, who trust in chariots because they are many and in horsemen because they are very strong, but do not look to the Holy One of Israel or seek Yahweh![^31-1]
+
+**2** Yet he too is wise and brings disaster; he does not take back his words. He will rise up against the house of evildoers and against the helpers of those who do wrong.
+
+**3** The Egyptians are human beings and not God;[^31-2] their horses are flesh and not spirit. When Yahweh stretches out his hand, the helper will stumble and the one who is helped will fall; they will all perish together.
+
+**4** For this is what Yahweh has said to me: As a lion or a young lion growls over its prey, and though a whole band of shepherds is called out against it, it is not terrified by their shouting or daunted by their noise, so Yahweh of Armies[^31-3] will come down to wage war on Mount Zion and on its hill.[^31-4]
+
+**5** Like birds hovering overhead, so Yahweh of Armies will shield Jerusalem; he will shield and rescue it, pass over and deliver it.[^31-5]
+
+**6** Return to the one against whom the Israelites have so deeply rebelled.
+
+**7** For on that day each of you will reject your idols of silver and your idols of gold, which your hands have made for you in sin.[^31-6]
+
+**8** Assyria will fall by a sword not of man; a sword not of a human being will devour him. He will flee from the sword,[^31-7] and his young men will be put to forced labor.
+
+**9** His rock will pass away in terror,[^31-8] and his officers will be dismayed at the signal flag,[^31-9] declares Yahweh, whose fire is in Zion and whose furnace is in Jerusalem.
+
+[^31-1]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^31-2]: Hebrew *el*, "God, a god".
+[^31-3]: *Yahweh of Armies* (Hebrew *YHWH tseva'ot*) is traditionally "the LORD of hosts" or "the LORD Almighty". *Tseva'ot* means armies: the heavenly hosts and the armies of Israel. *To wage war* (*litsbo*) comes from the same root.
+[^31-4]: Or "against Mount Zion". The Hebrew can mean either; verse 5 shows Yahweh protecting the city.
+[^31-5]: Hebrew *pasoach*, the verb of the Passover, when Yahweh "passed over" the houses of Israel (Exodus 12:13, 23, 27).
+[^31-6]: Literally "which your hands have made for you, a sin".
+[^31-7]: Literally "he will flee for himself from before the sword".
+[^31-8]: Perhaps his stronghold, or his king. Hebrew *sal'o*, "his rock".
+[^31-9]: Or "will desert the standard".
+
+## Chapter 32
+
+*Status: draft*
+
+**1** Look, a king will reign in righteousness, and rulers will rule with justice.
+
+**2** Each of them will be like a shelter from the wind and a refuge from the storm, like streams of water in a dry land, like the shade of a great rock in a weary land.
+
+**3** Then the eyes of those who see will no longer be closed,[^32-1] and the ears of those who hear will listen.
+
+**4** The mind of the rash will understand and know, and the tongue of those who stammer will speak quickly and clearly.
+
+**5** The fool will no longer be called noble, and the scoundrel will no longer be called honorable.[^32-2]
+
+**6** For the fool speaks folly, and his mind plots evil: to practice godlessness, to spread error about Yahweh,[^32-3] to leave the hungry empty and to deprive the thirsty of drink.
+
+**7** The scoundrel's ways are evil;[^32-4] he devises wicked schemes to ruin the poor[^32-5] with lies, even when the needy plead their just cause.
+
+**8** But the noble person makes noble plans, and by noble deeds he stands.
+
+**9** You women who are at ease, rise up and hear my voice! You daughters who feel secure, listen to what I say!
+
+**10** In little more than a year[^32-6] you who feel secure will tremble, for the grape harvest will fail, and the harvest of fruit will not come.
+
+**11** Tremble, you women who are at ease! Shudder, you who feel secure! Strip off your clothes, stand bare, and put sackcloth around your waists.
+
+**12** Beat your breasts for the pleasant fields, for the fruitful vine,[^32-7]
+
+**13** for the soil of my people, where thorns and briers grow up, yes, for all the houses of joy in the joyful city.
+
+**14** For the palace is abandoned, the busy city deserted. The hill[^32-8] and the watchtower will become caves forever, the delight of wild donkeys, a pasture for flocks,
+
+**15** until the Spirit[^32-9] is poured out on us from on high, and the wilderness becomes a fruitful field, and the fruitful field is thought of as a forest.[^32-10]
+
+**16** Then justice will dwell in the wilderness, and righteousness will live in the fruitful field.
+
+**17** The work of righteousness will be peace, and the effect of righteousness will be quietness and confidence forever.
+
+**18** My people will live in a peaceful home, in secure dwellings and in undisturbed resting places.
+
+**19** But hail will fall when the forest comes down, and the city will be utterly laid low.[^32-11]
+
+**20** Happy are you[^32-12] who sow beside every stream, who let the ox and the donkey range free!
+
+[^32-1]: Or "will no longer be dim". The Hebrew verb may come from *sha'ah*, "look", or from *sha'a*, "be smeared shut" (6:10).
+[^32-2]: Hebrew *kilai*, a rare word, perhaps "cheat, swindler". Also in verse 7.
+[^32-3]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^32-4]: A play on sounds: *kelai kelav*, "the scoundrel, his tools".
+[^32-5]: The Hebrew text is written "the humble" but read "the poor".
+[^32-6]: Literally "days upon a year".
+[^32-7]: Literally "beating upon breasts". Hebrew *shadayim*, "breasts", sounds like *sede*, "fields".
+[^32-8]: Hebrew *ophel*, "hill, mound", also the name of the fortified hill of Jerusalem south of the temple (2 Chronicles 27:3).
+[^32-9]: Or "a spirit". Hebrew *ruach*.
+[^32-10]: Hebrew *karmel*, "garden land, orchard" (29:17). The Hebrew text is written "and a fruitful field" but read "and the fruitful field". Also in verse 16.
+[^32-11]: A play on sounds: *u-varad be-redet ha-ya'ar*, "and it will hail when the forest comes down". The meaning of the verse is uncertain.
+[^32-12]: Hebrew *ashrei*: happy, fortunate; traditionally "blessed".
+
+## Chapter 33
+
+*Status: draft*
+
+**1** Woe to you, destroyer, you who have not been destroyed, you traitor, whom no one has betrayed! When you have finished destroying, you will be destroyed; when you have done with betraying,[^33-1] they will betray you.
+
+**2** Yahweh,[^33-2] be gracious to us; we wait for you. Be their strength[^33-3] every morning, our salvation in time of distress.
+
+**3** At the sound of the tumult, peoples flee; when you rise up, nations scatter.
+
+**4** Your plunder is gathered as the caterpillar gathers; as locusts swarm, people swarm over it.
+
+**5** Yahweh is exalted, for he dwells on high; he has filled Zion with justice and righteousness.
+
+**6** He will be the stability of your times, a wealth of salvation, of wisdom and knowledge. The fear of Yahweh is Zion's treasure.[^33-4]
+
+**7** Look, their heroes[^33-5] cry out in the streets; the envoys of peace weep bitterly.
+
+**8** The highways are deserted; no one travels the roads. He has broken the treaty and despised the cities;[^33-6] he has no regard for anyone.
+
+**9** The land mourns and languishes; Lebanon is ashamed and withers. Sharon is like the Arabah,[^33-7] and Bashan and Carmel shake off their leaves.
+
+**10** Now I will arise, says Yahweh; now I will lift myself up; now I will be exalted.
+
+**11** You conceive chaff and give birth to straw; your breath[^33-8] is a fire that will consume you.
+
+**12** The peoples will be burned to lime, like cut thorns set on fire.
+
+**13** Hear, you who are far away, what I have done; and you who are near, acknowledge my might.
+
+**14** The sinners in Zion are terrified; trembling has seized the godless: "Who of us can live with the devouring fire? Who of us can live with everlasting burning?"
+
+**15** The one who walks in righteousness and speaks what is right, who rejects gain from extortion, who shakes his hands so that they hold no bribe, who stops his ears from hearing of bloodshed and shuts his eyes from looking at evil,[^33-9]
+
+**16** he will dwell on the heights; his refuge will be the fortress of the rocks. His bread will be given him; his water will not fail.
+
+**17** Your eyes will see the king in his beauty; they will see a land that stretches far away.
+
+**18** Your mind will think back on the terror: "Where is the one who counted? Where is the one who weighed the tribute? Where is the one who counted the towers?"[^33-10]
+
+**19** You will no longer see the insolent people,[^33-11] a people of speech too obscure to understand, with a stammering tongue that no one can make sense of.
+
+**20** Look at Zion, the city of our festivals! Your eyes will see Jerusalem, a peaceful dwelling, a tent that will not be moved, whose stakes will never be pulled up and none of whose ropes will be broken.
+
+**21** But there Yahweh will be majestic for us, a place of rivers and broad streams, where no galley with oars will go, and no mighty ship will pass.
+
+**22** For Yahweh is our judge, Yahweh is our lawgiver, Yahweh is our king; he will save us.
+
+**23** Your ropes hang loose; they cannot hold the mast firm in its place or spread the sail.[^33-12] Then plunder in abundance will be divided; even the lame will carry off the spoil.
+
+**24** No one who lives there will say, "I am sick"; the people who live there will be forgiven their guilt.
+
+[^33-1]: Hebrew *ka-nelotkha*, a word found only here, probably "when you have finished".
+[^33-2]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^33-3]: Literally "their arm". The prayer moves from "us" to "them" and back.
+[^33-4]: Literally "his treasure".
+[^33-5]: Hebrew *er'ellam*, a word of uncertain meaning, perhaps "their heroes" or "their messengers".
+[^33-6]: The Great Isaiah Scroll from Qumran (1QIsa-a) reads "despised the witnesses", a difference of one similar letter.
+[^33-7]: *Sharon*, *Bashan* and *Carmel* were fertile, wooded regions. The *Arabah* is the dry rift valley around the Jordan and the Dead Sea.
+[^33-8]: Or "your spirit". Hebrew *ruach*.
+[^33-9]: Compare the questions and answers of Psalms 15 and 24:3–6.
+[^33-10]: Officials of the enemy who counted and weighed the tribute and surveyed the city's defenses. Paul echoes this verse in 1 Corinthians 1:20.
+[^33-11]: Hebrew *no'az*, a word found only here, perhaps "fierce" or "insolent".
+[^33-12]: *Your* is feminine singular, perhaps addressing the enemy pictured as a disabled ship.
+
+## Chapter 34
+
+*Status: draft*
+
+**1** Come near, you nations, and hear! Pay attention, you peoples! Let the earth hear, and all that fills it, the world and all that comes from it.[^34-1]
+
+**2** For Yahweh[^34-2] is angry with all the nations and furious with all their armies. He has devoted them to destruction;[^34-3] he has handed them over to slaughter.
+
+**3** Their slain will be thrown out, and the stench of their corpses will rise. The mountains will melt with their blood.
+
+**4** All the army of the heavens[^34-4] will rot away, and the heavens will be rolled up like a scroll. All their army will wither, as a leaf withers and falls from the vine, like a withered fig from the fig tree.[^34-5]
+
+**5** For my sword has drunk its fill in the heavens. Look, it comes down on Edom,[^34-6] on the people I have devoted to destruction, to judge them.
+
+**6** Yahweh has a sword; it is filled with blood. It is gorged with fat, with the blood of lambs and goats, with the fat of the kidneys of rams. For Yahweh has a sacrifice in Bozrah[^34-7] and a great slaughter in the land of Edom.
+
+**7** Wild oxen[^34-8] will go down with them, and young bulls with the mighty steers. Their land will drink its fill of blood, and their soil will be gorged with fat.
+
+**8** For Yahweh has a day of vengeance, a year of repayment, to uphold the cause of Zion.[^34-9]
+
+**9** Edom's streams will be turned into pitch, and its soil into sulfur; its land will become burning pitch.[^34-10]
+
+**10** Night and day it will not be quenched; its smoke will go up forever.[^34-11] From generation to generation it will lie in ruins; forever and ever no one will pass through it.
+
+**11** The pelican and the owl[^34-12] will possess it; the great owl and the raven will live there. He will stretch over it the measuring line of chaos and the plumb line of emptiness.[^34-13]
+
+**12** Its nobles will have nothing there to call a kingdom, and all its princes will come to nothing.[^34-14]
+
+**13** Thorns will grow up in its fortresses, nettles and thistles in its strongholds. It will be a haunt for jackals, a home[^34-15] for ostriches.
+
+**14** Desert creatures will meet with hyenas, and the wild goat will call to its fellow.[^34-16] There too the night creature[^34-17] will settle and find for herself a place to rest.
+
+**15** There the owl[^34-18] will nest and lay eggs; it will hatch them and gather its young in its shade. There too the kites will gather, each one with its mate.
+
+**16** Search in the scroll of Yahweh, and read: Not one of these will be missing; none will be without its mate. For it is my mouth that has commanded it, and his Spirit that has gathered them.[^34-19]
+
+**17** He has cast the lot for them, and his hand has divided the land among them with the measuring line. They will possess it forever; they will live in it from generation to generation.
+
+[^34-1]: Or "all its offspring". Hebrew *tse'etsa'im*, what comes out of the earth: its plants, or the living things it brings forth.
+[^34-2]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^34-3]: Hebrew *hecherim*, "devote to destruction": to give over to God by destroying completely (11:15). Also in verse 5, "the people I have devoted to destruction".
+[^34-4]: Hebrew *tseva ha-shamayim*, the sun, moon and stars, pictured as an army. *Tseva* is the word for the nations' *armies* in verse 2.
+[^34-5]: Revelation 6:13–14 echoes this verse; compare Mark 13:25.
+[^34-6]: The land south and east of the Dead Sea, whose people were descended from Esau, Jacob's brother (Genesis 36). Edom was often Israel's enemy, and here it stands for all the nations hostile to Zion (compare 63:1–6).
+[^34-7]: The chief city of Edom (63:1).
+[^34-8]: Hebrew *re'emim*, traditionally "unicorns". The oxen and bulls of this verse may stand for Edom's leaders and warriors.
+[^34-9]: Or "for Zion's cause", that is, to take up Zion's case against her enemies.
+[^34-10]: The burning pitch and sulfur recall the destruction of Sodom and Gomorrah (Genesis 19:24).
+[^34-11]: Revelation 14:11 and 19:3 echo this line.
+[^34-12]: Hebrew *qa'at*, perhaps a pelican or a kind of owl (Leviticus 11:18; Psalm 102:7), and *qippod*, perhaps an owl or a hedgehog (14:23). The identification of many of the creatures in verses 11–15 is uncertain.
+[^34-13]: Literally "the line of *tohu* and the stones of *bohu*", the words used in Genesis 1:2 for the earth before creation, "formless and empty". The builder's tools are used to undo the land. The *stones* are the weights of a plumb line.
+[^34-14]: The Hebrew is difficult. Literally "Its nobles, and there is no kingdom there they will call, and all its princes will be nothing."
+[^34-15]: Hebrew *chatsir*, usually "grass", but here probably a form of *chatser*, "courtyard, dwelling".
+[^34-16]: *Desert creatures*, *hyenas* and *wild goats* are named also in 13:21–22. *Wild goat* is Hebrew *sa'ir*, "hairy one", perhaps a goat-demon thought to haunt ruins (13:21; Leviticus 17:7).
+[^34-17]: Hebrew *lilit*, found only here. It may be a night bird, or the name of a female demon of the night known from Mesopotamian texts and later Jewish tradition as Lilith.
+[^34-18]: Hebrew *qippoz*, found only here, perhaps an owl or a kind of snake.
+[^34-19]: Literally "For my mouth, it has commanded, and his Spirit, he has gathered them." The Hebrew moves from "my" to "his". *Spirit* is Hebrew *ruach*, "spirit, wind, breath".
+
+## Chapter 36
+
+*Status: draft*
+
+**1** In the fourteenth year of King Hezekiah, Sennacherib king of Assyria came up against all the fortified cities of Judah and captured them.[^36-1]
+
+**2** The king of Assyria sent the Rabshakeh[^36-2] with a large army from Lachish[^36-3] to King Hezekiah at Jerusalem. He stood by the channel of the Upper Pool, on the road to the Launderer's Field.[^36-4]
+
+**3** Eliakim son of Hilkiah, the palace administrator,[^36-5] Shebna the secretary and Joah son of Asaph, the recorder,[^36-6] went out to him.
+
+**4** The Rabshakeh said to them, "Tell Hezekiah, 'This is what the great king, the king of Assyria, says: What is this confidence of yours? What are you trusting in?
+
+**5** I say that your strategy and strength for war are mere words.[^36-7] Now, on whom are you relying, that you have rebelled against me?
+
+**6** Look, you are relying on Egypt, that broken reed of a staff, which goes into the hand of anyone who leans on it and pierces it. That is what Pharaoh king of Egypt is to all who rely on him.
+
+**7** But if you say to me, "We are trusting in Yahweh[^36-8] our God," isn't he the one whose high places[^36-9] and altars Hezekiah has removed, saying to Judah and Jerusalem, "You must worship before this altar"?[^36-10]
+
+**8** So now, make a wager with my master, the king of Assyria: I will give you two thousand horses, if you are able to put riders on them!
+
+**9** How then can you drive back even one officer,[^36-11] one of the least of my master's servants, when you rely on Egypt for chariots and horsemen?
+
+**10** And besides, have I come up against this land to destroy it without Yahweh? Yahweh himself said to me, "Go up against this land and destroy it."'"[^36-12]
+
+**11** Then Eliakim, Shebna and Joah said to the Rabshakeh, "Please speak to your servants in Aramaic,[^36-13] for we understand it. Do not speak to us in the language of Judah[^36-14] in the hearing of the people on the wall."
+
+**12** But the Rabshakeh said, "Was it to your master and to you that my master sent me to speak these words? Wasn't it to the men sitting on the wall, who, like you, will have to eat their own dung and drink their own urine?"[^36-15]
+
+**13** Then the Rabshakeh stood and called out in a loud voice in the language of Judah. He said, "Hear the words of the great king, the king of Assyria!
+
+**14** This is what the king says: Do not let Hezekiah deceive you, for he will not be able to rescue you.[^36-16]
+
+**15** Do not let Hezekiah make you trust in Yahweh by saying, 'Yahweh will surely rescue us; this city will not be handed over to the king of Assyria.'
+
+**16** Do not listen to Hezekiah, for this is what the king of Assyria says: Make peace with me[^36-17] and come out to me. Then each of you will eat from his own vine and his own fig tree, and each of you will drink water from his own cistern,
+
+**17** until I come and take you to a land like your own land, a land of grain and new wine, a land of bread and vineyards.[^36-18]
+
+**18** Do not let Hezekiah mislead you by saying, 'Yahweh will rescue us.' Has any of the gods of the nations rescued his land from the hand of the king of Assyria?
+
+**19** Where are the gods of Hamath and Arpad? Where are the gods of Sepharvaim?[^36-19] Did they rescue Samaria from my hand?
+
+**20** Who among all the gods of these lands has rescued his land from my hand, that Yahweh should rescue Jerusalem from my hand?"
+
+**21** But they kept silent and did not answer him a word,[^36-20] for the king had commanded, "Do not answer him."
+
+**22** Then Eliakim son of Hilkiah, the palace administrator, Shebna the secretary and Joah son of Asaph, the recorder, came to Hezekiah with their clothes torn, and they told him the words of the Rabshakeh.
+
+[^36-1]: In 701 BC. Chapters 36–39 are also found, with small differences, in 2 Kings 18:13–20:19, and parts of the story are told in 2 Chronicles 32. Where the Hebrew is the same, the English here follows the translation of 2 Kings. 2 Kings 18:14–16, Hezekiah's payment of tribute to Sennacherib, is not in Isaiah, and Hezekiah's psalm (38:9–20) is not in Kings.
+[^36-2]: Hebrew *rav-shaqeh*, from the Assyrian title *rab shaqe*, "chief cupbearer", a high official who here speaks for the king. Also in verses 4, 11–13 and 22. 2 Kings 18:17 says that the Tartan (the commander-in-chief) and the Rab-saris (the chief official) were sent with him.
+[^36-3]: A fortified city of Judah about 30 miles (50 km) southwest of Jerusalem, which Sennacherib was besieging.
+[^36-4]: Traditionally "the Fuller's Field", a field outside the city where cloth was washed and bleached. It is the place where Isaiah met Ahaz (7:3).
+[^36-5]: Literally "who was over the house", the title of the king's chief minister (22:15, 20–22). Also in verse 22.
+[^36-6]: Hebrew *mazkir*, "one who brings to remembrance": a senior royal official, perhaps the king's herald or the keeper of records. Also in verse 22.
+[^36-7]: Literally "I say: only a word of lips, counsel and strength for war." 2 Kings 18:20 reads "You say", that is, "You think that mere words are strategy and strength for war."
+[^36-8]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^36-9]: Hebrew *bamot*: places of worship, often on hilltops.
+[^36-10]: 2 Kings 18:22 reads "before this altar in Jerusalem".
+[^36-11]: Hebrew *pechah*, "governor".
+[^36-12]: 2 Kings 18:25 reads "against this place" in the first sentence.
+[^36-13]: The international language of diplomacy and trade in the Assyrian empire.
+[^36-14]: Literally "in Judean", that is, Hebrew. Also in verse 13.
+[^36-15]: The Hebrew text is written with coarse words for "dung" and "urine", but read with more polite ones, literally "excrement" and "the water of their feet".
+[^36-16]: 2 Kings 18:29 reads "from his hand", that is, from the hand of the king of Assyria.
+[^36-17]: Literally "Make a blessing with me", that is, surrender on terms.
+[^36-18]: 2 Kings 18:32 continues: "a land of olive trees and honey, so that you may live and not die. Do not listen to Hezekiah, for he is misleading you when he says, 'Yahweh will rescue us.'"
+[^36-19]: Cities of Syria conquered by Assyria (10:9). 2 Kings 18:34 adds "Hena and Ivvah".
+[^36-20]: 2 Kings 18:36 reads "But the people kept silent".
+
+## Chapter 37
+
+*Status: draft*
+
+**1** When King Hezekiah heard it, he tore his clothes, covered himself with sackcloth and went into the house of Yahweh.[^37-1]
+
+**2** He sent Eliakim the palace administrator,[^37-2] Shebna the secretary and the senior priests, all wearing sackcloth, to the prophet Isaiah son of Amoz.
+
+**3** They said to him, "This is what Hezekiah says: Today is a day of distress, of rebuke and of disgrace. Children have come to the point of birth, and there is no strength to deliver them.
+
+**4** Perhaps Yahweh your God will hear the words of the Rabshakeh,[^37-3] whom his master the king of Assyria has sent to mock the living God, and will rebuke him for the words that Yahweh your God has heard. So pray for the remnant that is left."
+
+**5** When King Hezekiah's servants came to Isaiah,
+
+**6** Isaiah said to them, "Say this to your master: 'This is what Yahweh says: Do not be afraid of the words you have heard, with which the king of Assyria's lackeys[^37-4] have insulted me.
+
+**7** I am going to put a spirit in him, so that he will hear a rumor and go back to his own land, and I will make him fall by the sword in his own land.'"
+
+**8** The Rabshakeh went back and found the king of Assyria fighting against Libnah, for he had heard that the king had left Lachish.
+
+**9** Then the king heard that Tirhakah king of Cush[^37-5] had set out to fight against him. When he heard it, he sent messengers to Hezekiah, saying,[^37-6]
+
+**10** "Say this to Hezekiah king of Judah: Do not let your God, in whom you trust, deceive you by saying, 'Jerusalem will not be handed over to the king of Assyria.'
+
+**11** Look, you have heard what the kings of Assyria have done to all the lands, destroying them completely.[^37-7] And will you be rescued?
+
+**12** Did the gods of the nations that my predecessors[^37-8] destroyed rescue them, the nations of Gozan, Haran and Rezeph, and the people of Eden who were in Telassar?
+
+**13** Where is the king of Hamath, the king of Arpad, and the king of the city of Sepharvaim, of Hena and of Ivvah?"
+
+**14** Hezekiah took the letter[^37-9] from the hand of the messengers and read it. Then he went up to the house of Yahweh, and Hezekiah spread it out before Yahweh.
+
+**15** Hezekiah prayed to Yahweh and said,
+
+**16** "Yahweh of Armies,[^37-10] the God of Israel, enthroned above the cherubim,[^37-11] you alone are God over all the kingdoms of the earth. You made the heavens and the earth.
+
+**17** Turn your ear, Yahweh, and hear. Open your eyes, Yahweh, and see. Hear all the words that Sennacherib has sent to mock the living God.
+
+**18** It is true, Yahweh, that the kings of Assyria have laid waste all the countries and their lands.[^37-12]
+
+**19** They have thrown their gods into the fire, for they were not gods but only the work of human hands, wood and stone. So they destroyed them.
+
+**20** Now, Yahweh our God, save us from his hand, so that all the kingdoms of the earth may know that you alone are Yahweh."[^37-13]
+
+**21** Then Isaiah son of Amoz sent this message to Hezekiah: "This is what Yahweh, the God of Israel, says: Because you have prayed to me about Sennacherib king of Assyria,[^37-14]
+
+**22** this is the word that Yahweh has spoken against him: The virgin daughter Zion[^37-15] despises you and mocks you. Daughter Jerusalem tosses her head behind your back.
+
+**23** Whom have you mocked and insulted? Against whom have you raised your voice and lifted your eyes in pride? Against the Holy One of Israel!
+
+**24** Through your servants you have mocked the Lord.[^37-16] You have said, 'With my many chariots I have gone up to the heights of the mountains, to the farthest reaches of Lebanon. I cut down its tallest cedars, its choicest junipers. I came to its farthest heights, its densest forest.[^37-17]
+
+**25** I dug wells and drank water,[^37-18] and with the soles of my feet I dried up all the streams of Egypt.'[^37-19]
+
+**26** Have you not heard? Long ago I planned it.[^37-20] From days of old I formed it. Now I have brought it about, that you should turn fortified cities into heaps of ruins.
+
+**27** Their people, drained of strength,[^37-21] are dismayed and put to shame. They are like plants of the field and tender green shoots, like grass on the rooftops, like a field before the grain is grown.[^37-22]
+
+**28** I know when you sit down, when you go out and when you come in, and how you rage against me.
+
+**29** Because you rage against me and your arrogance has reached my ears, I will put my hook in your nose and my bit in your mouth, and I will turn you back by the way you came.
+
+**30** And this will be the sign for you:[^37-23] This year you will eat what grows by itself, and in the second year what springs up from that. But in the third year, sow and reap, plant vineyards and eat their fruit.
+
+**31** The survivors of the house of Judah who are left will again take root below and bear fruit above.
+
+**32** For from Jerusalem a remnant will go out, and survivors from Mount Zion. The zeal of Yahweh of Armies will do this.
+
+**33** Therefore this is what Yahweh says concerning the king of Assyria: He will not come into this city or shoot an arrow there. He will not come before it with a shield or build a siege ramp against it.
+
+**34** By the way that he came, he will go back. He will not come into this city, declares Yahweh.
+
+**35** I will defend this city and save it, for my own sake and for the sake of my servant David."
+
+**36** Then the angel[^37-24] of Yahweh went out and struck down 185,000 in the camp of Assyria. When people got up early in the morning, there were all the dead bodies.
+
+**37** So Sennacherib king of Assyria broke camp and went back home, and he stayed in Nineveh.
+
+**38** One day, while he was worshiping in the temple of Nisroch his god, his sons Adrammelech and Sharezer struck him down with the sword and escaped to the land of Ararat.[^37-25] And his son Esarhaddon became king in his place.
+
+[^37-1]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles. "The house of Yahweh" is the temple. This chapter is also found in 2 Kings 19:1–37.
+[^37-2]: Literally "who was over the house" (36:3).
+[^37-3]: On this title, see 36:2. 2 Kings 19:4 reads "all the words".
+[^37-4]: Hebrew *na'arim*, "young men, servants", here probably said with contempt.
+[^37-5]: The region south of Egypt (ancient Nubia). Its kings then also ruled Egypt.
+[^37-6]: 2 Kings 19:9 reads "So he again sent messengers".
+[^37-7]: Hebrew *charam*: to destroy completely, as something devoted to a god (34:2).
+[^37-8]: Literally "my fathers".
+[^37-9]: Literally "the letters". The Hebrew then says "and read it … and spread it out".
+[^37-10]: Hebrew *YHWH tseva'ot*, traditionally "the LORD of hosts" or "the LORD Almighty". *Tseva'ot* means armies: the heavenly hosts and the armies of Israel. Also in verse 32. 2 Kings 19:15 reads only "Yahweh".
+[^37-11]: Winged creatures whose images were on the cover of the ark and in the inner sanctuary of the temple (Exodus 25:18–22; 1 Kings 6:23–28).
+[^37-12]: Literally "all the lands and their land". 2 Kings 19:17 reads "the nations and their land".
+[^37-13]: 2 Kings 19:19 reads "that you, Yahweh, alone are God".
+[^37-14]: 2 Kings 19:20 reads "I have heard what you prayed to me about Sennacherib king of Assyria."
+[^37-15]: A poetic name for Jerusalem and its people, pictured as a young woman (1:8).
+[^37-16]: Hebrew *Adonai*, "the Lord", not the name Yahweh. 2 Kings 19:23 reads "Through your messengers".
+[^37-17]: Literally "the forest of its *karmel*", its fruitful land or orchard. 2 Kings 19:23 reads "its farthest lodging place" instead of "its farthest heights".
+[^37-18]: 2 Kings 19:24 reads "foreign waters".
+[^37-19]: Hebrew *Matsor*, a poetic name for Egypt (19:6). Literally "all the Nile streams of Matsor".
+[^37-20]: Literally "From far off I did it".
+[^37-21]: Literally "short of hand".
+[^37-22]: Hebrew *shedemah*, "field" or "terrace". 2 Kings 19:26 reads *shedefah*, "scorched", which differs by one letter: "scorched before it is grown".
+[^37-23]: The prophet now speaks to Hezekiah.
+[^37-24]: Or "messenger". Hebrew *mal'akh* means both. 2 Kings 19:35 begins "That night".
+[^37-25]: Urartu, a kingdom in what is now Armenia and eastern Turkey. Sennacherib was killed in 681 BC.
+
+## Chapter 38
+
+*Status: draft*
+
+**1** In those days Hezekiah became ill and was at the point of death. The prophet Isaiah son of Amoz came to him and said to him, "This is what Yahweh[^38-1] says: Give instructions to your household,[^38-2] for you are going to die. You will not recover."
+
+**2** Then Hezekiah turned his face to the wall and prayed to Yahweh.
+
+**3** He said, "Please, Yahweh, remember how I have walked before you faithfully and with my whole heart, and have done what is good in your eyes." And Hezekiah wept bitterly.
+
+**4** Then the word of Yahweh came to Isaiah:[^38-3]
+
+**5** "Go and say to Hezekiah, 'This is what Yahweh, the God of your ancestor[^38-4] David, says: I have heard your prayer. I have seen your tears. I am going to add fifteen years to your life.
+
+**6** I will rescue you and this city from the power of the king of Assyria, and I will defend this city.[^38-5]
+
+**7** This is the sign to you from Yahweh that Yahweh will do what he has promised:[^38-6]
+
+**8** I am going to make the shadow on the stairway of Ahaz,[^38-7] which has gone down with the sun, go back ten steps.'" So the sun went back ten steps on the stairway it had gone down.
+
+**9** A writing[^38-8] of Hezekiah king of Judah, after he had been ill and had recovered from his illness:
+
+**10** I said, "In the prime of my days[^38-9] I must go through the gates of Sheol;[^38-10] I am robbed of the rest of my years."[^38-11]
+
+**11** I said, "I will not see Yah,[^38-12] Yah in the land of the living. I will no longer look on any human being, when I am among those who live where life has ceased."[^38-13]
+
+**12** My dwelling[^38-14] is pulled up and taken away from me like a shepherd's tent. Like a weaver I have rolled up my life; he cuts me off from the loom.[^38-15] From day to night you bring me to an end.[^38-16]
+
+**13** I composed myself until morning,[^38-17] but like a lion he breaks all my bones. From day to night you bring me to an end.
+
+**14** Like a swift or a thrush[^38-18] I chirp; I moan like a dove. My eyes grow weak from looking upward. Lord,[^38-19] I am oppressed; be my security![^38-20]
+
+**15** What can I say? He has spoken to me, and he himself has done it. I will walk slowly[^38-21] all my years because of the bitterness of my soul.
+
+**16** Lord, by these things people live, and in all of them is the life of my spirit. You restore my health and let me live![^38-22]
+
+**17** Look, it was for my good that I had such bitter grief.[^38-23] In your love you have kept my life from the pit of destruction,[^38-24] for you have thrown all my sins behind your back.
+
+**18** For Sheol cannot thank you; death cannot praise you. Those who go down to the Pit[^38-25] cannot hope for your faithfulness.
+
+**19** The living, the living, they thank you, as I do today. Fathers make known your faithfulness to their children.
+
+**20** Yahweh will save me,[^38-26] and we will play my songs on stringed instruments all the days of our lives in the house of Yahweh.
+
+**21** Isaiah said, "Let them take a cake of figs and spread it on the boil, and he will recover."[^38-27]
+
+**22** And Hezekiah said, "What is the sign that I will go up to the house of Yahweh?"
+
+[^38-1]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles. Verses 1–8 and 21–22 are also found, with differences, in 2 Kings 20:1–11. Hezekiah's psalm (verses 9–20) is found only in Isaiah.
+[^38-2]: Literally "Command your house".
+[^38-3]: 2 Kings 20:4 reads "Isaiah had not yet gone out of the middle courtyard when the word of Yahweh came to him".
+[^38-4]: Literally "your father". 2 Kings 20:5–6 adds "the ruler of my people" after "Hezekiah", and "I am going to heal you. On the third day you will go up to the house of Yahweh" before "I am going to add".
+[^38-5]: 2 Kings 20:6 adds "for my own sake and for the sake of my servant David" (as in 37:35).
+[^38-6]: In 2 Kings 20:8–11 Hezekiah first asks for a sign (compare verse 22), and Isaiah lets him choose whether the shadow will go forward or back.
+[^38-7]: Literally "the shadow of the steps, which has gone down on the steps of Ahaz". The "steps" were probably those of a stairway whose shadow marked the time of day. The Great Isaiah Scroll from Qumran (1QIsa-a) reads "the steps of the upper room of Ahaz" (compare 2 Kings 23:12).
+[^38-8]: Hebrew *mikhtav*. Some scholars read *miktam*, a term found in the titles of Psalms 16 and 56–60, with a small change to the Hebrew. The psalm in verses 10–20 has many rare words, and its meaning is uncertain in places.
+[^38-9]: Hebrew *bidmi yamai*, perhaps "in the quiet of my days" or "in the middle of my days" (compare Psalm 102:25, 102:24 in most English Bibles).
+[^38-10]: Hebrew *Sheol*, the realm of the dead. Also in verse 18.
+[^38-11]: Or "I am consigned there for the rest of my years".
+[^38-12]: *Yah* is a short form of the name Yahweh (12:2).
+[^38-13]: Literally "with the inhabitants of cessation". Some scholars read *cheled*, "the world", with a small change to the Hebrew: "with those who live in the world".
+[^38-14]: Hebrew *dor*, usually "generation", here probably "dwelling".
+[^38-15]: Literally "from the thrum", the threads that held the woven cloth to the loom. The weaver cut them when the cloth was finished.
+[^38-16]: That is, between morning and evening, before the day is out. Also in verse 13.
+[^38-17]: Or "I waited quietly until morning". Some scholars read *shivva'ti*, "I cried for help", with a small change to the Hebrew.
+[^38-18]: Hebrew *sus agur*. *Sus* (written for *sis*) and *agur* are birds named together in Jeremiah 8:7. Their identification is uncertain.
+[^38-19]: Hebrew *Adonai*, "the Lord", not the name Yahweh. Also in verse 16.
+[^38-20]: Literally "Lord, oppression is mine; stand surety for me!", that is, take up my debt and my cause.
+[^38-21]: Hebrew *eddaddeh*, perhaps "I will walk humbly" or "I will wander". The meaning is uncertain.
+[^38-22]: The Hebrew of this verse is very difficult. Literally "Lord, on them they live, and for all in them the life of my spirit, and you restore me and make me live." It may also be read as a prayer: "Restore my health and let me live!"
+[^38-23]: Literally "Look, for peace it was bitter to me, bitter".
+[^38-24]: Literally "you loved my life from the pit of nothingness".
+[^38-25]: Hebrew *bor*, "pit, cistern", a name for the grave and the world of the dead.
+[^38-26]: Literally "Yahweh, to save me", perhaps "Yahweh is ready to save me".
+[^38-27]: Verses 21–22 are found in 2 Kings 20:7–8, where they come before the sign of the shadow, after verse 6 here. 2 Kings 20:7 reads "Then Isaiah said, 'Bring a cake of figs.' They brought it and put it on the boil, and he recovered." 2 Kings 20:8 reads "What will be the sign that Yahweh will heal me and that I will go up to the house of Yahweh on the third day?"
+
+## Chapter 39
+
+*Status: draft*
+
+**1** At that time Merodach-baladan[^39-1] son of Baladan king of Babylon sent letters and a gift to Hezekiah, for he had heard that he had been ill and had recovered.[^39-2]
+
+**2** Hezekiah was glad because of them[^39-3] and showed them his treasure house: the silver, the gold, the spices and the fine oil, his whole armory,[^39-4] and everything that was found in his treasuries. There was nothing in his palace or in all his realm that Hezekiah did not show them.
+
+**3** Then the prophet Isaiah came to King Hezekiah and said to him, "What did these men say? And where did they come to you from?" Hezekiah said, "They came to me from a distant land, from Babylon."
+
+**4** He asked, "What did they see in your palace?" Hezekiah said, "They saw everything in my palace. There is nothing in my treasuries that I did not show them."
+
+**5** Then Isaiah said to Hezekiah, "Hear the word of Yahweh of Armies.[^39-5]
+
+**6** The days are coming when everything in your palace, and all that your ancestors have stored up until this day, will be carried off to Babylon. Nothing will be left, says Yahweh.
+
+**7** And some of your sons, your own descendants whom you will father, will be taken away, and they will be officials[^39-6] in the palace of the king of Babylon."
+
+**8** Hezekiah said to Isaiah, "The word of Yahweh that you have spoken is good." For he thought,[^39-7] "There will be peace and security in my days."
+
+[^39-1]: Marduk-apla-iddina II, who ruled Babylon in 722–710 and again in 703 BC. He was a long-time enemy of Assyria and was probably looking for allies. 2 Kings 20:12 calls him Berodach-baladan. This chapter is also found in 2 Kings 20:12–19.
+[^39-2]: 2 Kings 20:12 does not have "and had recovered".
+[^39-3]: 2 Kings 20:13 reads "Hezekiah listened to them".
+[^39-4]: Literally "all the house of his equipment".
+[^39-5]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles. *Yahweh of Armies* (Hebrew *YHWH tseva'ot*) is traditionally "the LORD of hosts" or "the LORD Almighty". *Tseva'ot* means armies: the heavenly hosts and the armies of Israel. 2 Kings 20:16 reads "the word of Yahweh".
+[^39-6]: Hebrew *sarisim*, court officials. The word can also mean eunuchs.
+[^39-7]: Literally "For he said". 2 Kings 20:19 reads "For he said, 'Is it not good, if there will be peace and security in my days?'" *Security* is literally "truth" or "faithfulness".
+
+## Chapter 40
+
+*Status: draft*
+
+**1** Comfort, comfort my people, says your God.[^40-1]
+
+**2** Speak tenderly to Jerusalem,[^40-2] and call out to her that her hard service is over,[^40-3] that her guilt has been paid for, that she has received from the hand of Yahweh[^40-4] double for all her sins.
+
+**3** A voice is shouting: "In the wilderness prepare the way for Yahweh; make straight in the desert a highway for our God.[^40-5]
+
+**4** Every valley will be raised up, and every mountain and hill made low. The uneven ground will become level, and the rugged places a plain.
+
+**5** Then the glory of Yahweh will be revealed, and all people[^40-6] will see it together. For the mouth of Yahweh has spoken."
+
+**6** A voice says, "Shout!" And I said,[^40-7] "What shall I shout?" All people are grass, and all their faithfulness[^40-8] is like the flower of the field.
+
+**7** The grass withers, the flower fades, when the breath[^40-9] of Yahweh blows on it. Surely the people are grass.
+
+**8** The grass withers, the flower fades, but the word of our God will stand forever.[^40-10]
+
+**9** Go up on a high mountain, you who bring good news to Zion![^40-11] Raise your voice with strength, you who bring good news to Jerusalem! Raise it; do not be afraid! Say to the towns of Judah, "Here is your God!"
+
+**10** Look, the Lord Yahweh comes with might, and his arm rules for him. Look, his reward is with him, and his recompense goes before him.[^40-12]
+
+**11** Like a shepherd he tends his flock. He gathers the lambs in his arm and carries them close to his heart;[^40-13] he gently leads the ewes that have young.
+
+**12** Who has measured the waters in the hollow of his hand, and marked off the heavens with the span of his hand?[^40-14] Who has held the dust of the earth in a measure, and weighed the mountains on scales and the hills in a balance?
+
+**13** Who has measured the Spirit[^40-15] of Yahweh, or instructed him as his counselor?[^40-16]
+
+**14** Whom did he consult to give him understanding? Who taught him the path of justice, taught him knowledge, and showed him the way of understanding?
+
+**15** Look, the nations are like a drop from a bucket; they are counted as dust on the scales. Look, he lifts up the coastlands[^40-17] like fine dust.
+
+**16** Lebanon is not enough for fuel, nor are its animals enough for a burnt offering.
+
+**17** All the nations are as nothing before him; he counts them as less than nothing and emptiness.[^40-18]
+
+**18** To whom, then, will you compare God?[^40-19] What likeness will you set beside him?
+
+**19** An idol? A craftsman casts it, and a goldsmith overlays it with gold and casts silver chains for it.
+
+**20** One too poor for such an offering[^40-20] chooses wood that will not rot. He looks for a skilled craftsman to set up an idol that will not topple.
+
+**21** Do you not know? Have you not heard? Has it not been told you from the beginning? Have you not understood how the earth was founded?[^40-21]
+
+**22** He is the one who sits enthroned above the circle of the earth, and its inhabitants are like grasshoppers. He stretches out the heavens like a curtain[^40-22] and spreads them out like a tent to live in.
+
+**23** He brings rulers to nothing and makes the judges of the earth like emptiness.
+
+**24** Scarcely are they planted, scarcely are they sown, scarcely has their stem taken root in the ground, when he blows on them and they wither, and the storm carries them off like straw.
+
+**25** To whom, then, will you compare me, that I should be like him? says the Holy One.
+
+**26** Lift up your eyes on high and see: who created these? He brings out their army[^40-23] by number and calls them all by name. Because of his great strength and mighty power, not one of them is missing.
+
+**27** Why do you say, Jacob, and why do you declare, Israel, "My way is hidden from Yahweh, and my God pays no attention to my cause"?[^40-24]
+
+**28** Do you not know? Have you not heard? Yahweh is the everlasting God, the Creator of the ends of the earth. He does not grow tired or weary; his understanding cannot be searched out.
+
+**29** He gives strength to the weary, and to those who have no power he gives great might.
+
+**30** Even young men grow tired and weary, and strong young men stumble and fall.
+
+**31** But those who wait for Yahweh will renew their strength. They will rise up on wings like eagles;[^40-25] they will run and not grow weary; they will walk and not grow tired.
+
+[^40-1]: *Comfort* is plural: the command is given to more than one, perhaps the prophets or the heavenly council (6:8). The Septuagint adds "Priests" at the start of verse 2. Chapters 40–66 speak to the people of Judah in exile in Babylon and after their return. They name Cyrus of Persia, who conquered Babylon in 539 BC (44:28; 45:1). Many scholars attribute them to a later prophet or prophets in the tradition of Isaiah; traditionally they have been read as the words of Isaiah son of Amoz.
+[^40-2]: Literally "Speak to the heart of Jerusalem", as one speaks to win someone's love or to comfort them (Genesis 34:3; Ruth 2:13).
+[^40-3]: Literally "that her term of service is fulfilled". Hebrew *tsava*, "army, military service, forced labor" (Job 7:1).
+[^40-4]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^40-5]: The Hebrew accents join "in the wilderness" to "prepare". The Septuagint joins it to the voice: "A voice of one shouting in the wilderness: Prepare the way of the Lord; make straight the paths of our God." The Gospels quote this verse from the Septuagint, applying it to John the Baptizer (Matthew 3:3; Mark 1:3; Luke 3:4–6; John 1:23). In the Hebrew, "the Lord" is God's personal name, Yahweh.
+[^40-6]: Literally "all flesh". Also in verse 6. The Septuagint reads "and all flesh will see the salvation of God", quoted in Luke 3:6.
+[^40-7]: The vowels of the Hebrew text read "And he said" or "And someone said". The same consonants can be read "And I said", as the Great Isaiah Scroll from Qumran (1QIsa-a) and the Septuagint understood them.
+[^40-8]: Hebrew *chesed*, "faithful love", here perhaps the loyalty or the goodness of human beings. The Septuagint reads "all the glory of a human being". 1 Peter 1:24–25 quotes verses 6–8 from the Septuagint.
+[^40-9]: Or "wind". Hebrew *ruach*. The Septuagint has the line "The grass withers, the flower fades" only once, and does not have "when the breath of Yahweh blows on it. Surely the people are grass."
+[^40-10]: Or "will rise up and stand".
+[^40-11]: Or "Zion, you who bring good news". The messenger is feminine: either a woman who brings the news, or Zion herself sent to the towns of Judah. Hebrew *mevasseret*, from *basar*, "bring good news" (52:7; 61:1), translated in the Septuagint with the Greek verb from which the New Testament word for "good news" comes. Also in the next line.
+[^40-12]: The *reward* and *recompense* are the people he has won back, whom he brings with him (62:11; compare Revelation 22:12).
+[^40-13]: Literally "in his bosom", the fold of the garment over the chest.
+[^40-14]: Hebrew *zeret*, the width of a spread hand, from thumb to little finger. A *measure* is literally "a third", perhaps a third of an ephah.
+[^40-15]: Or "mind". Hebrew *ruach*, "spirit, wind, breath".
+[^40-16]: Romans 11:34 and 1 Corinthians 2:16 quote this verse from the Septuagint: "Who has known the mind of the Lord? Who has been his counselor?" In the Hebrew, "the Lord" is God's personal name, Yahweh.
+[^40-17]: The islands and coasts of the Mediterranean (11:11), and in these chapters the most distant lands.
+[^40-18]: Hebrew *tohu*, the word for the "formless" earth in Genesis 1:2. Also in verse 23.
+[^40-19]: Hebrew *El*, "God".
+[^40-20]: Hebrew *ha-mesukkan terumah*, of uncertain meaning. Perhaps "the one who is impoverished in offering". Some scholars connect *mesukkan* with an Akkadian word for a kind of hard wood, *musukkannu*: "As an offering, he chooses *musukkannu*, wood that will not rot."
+[^40-21]: Literally "Have you not understood the foundations of the earth?" Or "since the foundations of the earth".
+[^40-22]: Hebrew *doq*, "fine cloth, gauze", found only here.
+[^40-23]: The stars, pictured as an army (34:4). Hebrew *tseva*, as in the title *Yahweh tseva'ot*, "Yahweh of Armies".
+[^40-24]: Literally "and from my God my right passes away".
+[^40-25]: Or "They will grow new feathers like eagles" (compare Psalm 103:5). *Eagle* is Hebrew *nesher*, which may also mean the griffon vulture.

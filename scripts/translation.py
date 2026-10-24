@@ -33,6 +33,9 @@ LICENSE_LINE = ("Open Plain English Translation. License: CC BY 4.0. "
                 "Leningrad Codex (UXLC 2.6, Tanach.us).")
 
 VERSE = re.compile(r"\*\*(\d+)\*\* (.+)")
+# YHWH as a whole word, with up to three one-letter prefixes (and, in, to, like, from, that).
+# The maqaf joins words, so it is read as a space: Aramaic di-hawah ("who was") is not the name.
+DIVINE_NAME = re.compile(r"(?<![\u05D0-\u05EA])[ובלכמש]{0,3}יהוה(?![\u05D0-\u05EA])")
 NOTE_DEF = re.compile(r"\[\^(\w+)\]: (.+)")
 NOTE_REF = re.compile(r"\[\^(\w+)\](?!:)")
 
@@ -78,7 +81,7 @@ def main():
         source, has_name = collections.defaultdict(set), set()
         for c, v, t in parse_book_md(src_path):
             source[c].add(v)
-            if testament == "OT" and "יהוה" in re.sub(r"[\u0591-\u05C7]", "", t):
+            if testament == "OT" and DIVINE_NAME.search(re.sub(r"[\u0591-\u05BD\u05BF-\u05C7]", "", t.replace("\u05BE", " "))):
                 has_name.add(c)
         for fn in sorted(os.listdir(folder)):
             path = os.path.join(folder, fn)
