@@ -3679,7 +3679,7 @@
 
 **7** I remember my song in the night; I meditate in my heart, and my spirit searches:
 
-**8** "Will the Lord reject us forever? Will he never again show favor?
+**8** "Will the Lord reject forever? Will he never again show favor?
 
 **9** Has his faithful love[^77-8] ceased forever? Has his promise[^77-9] come to an end for all generations?
 
@@ -4773,6 +4773,39 @@
 [^94-10]: Hebrew *chesed*: loyal, faithful love.
 [^94-11]: Or "by law". Hebrew *choq*, "decree". *A throne of destruction*: unjust rulers.
 [^94-12]: Literally "and condemn innocent blood".
+
+## Chapter 95
+
+*Status: draft*
+
+**1** Come, let us sing for joy to Yahweh;[^95-1] let us shout aloud to the rock of our salvation.
+
+**2** Let us come before him with thanksgiving; let us shout aloud to him with songs of praise.
+
+**3** For Yahweh is a great God, and a great King above all gods.[^95-2]
+
+**4** In his hand are the depths of the earth, and the peaks[^95-3] of the mountains are his.
+
+**5** The sea is his, for he made it, and his hands formed the dry land.
+
+**6** Come, let us bow down and worship; let us kneel before Yahweh our Maker.
+
+**7** For he is our God, and we are the people of his pasture, the sheep of his hand. Today, if only you would listen to his voice:[^95-4]
+
+**8** "Do not harden your hearts as at Meribah, as on the day at Massah in the wilderness,[^95-5]
+
+**9** when your ancestors tested me; they put me to the test, though they had seen what I had done.
+
+**10** For forty years I loathed that generation, and I said, 'They are a people whose hearts go astray, and they do not know my ways.'
+
+**11** So I swore in my anger, 'They shall never enter my rest.'"[^95-6]
+
+[^95-1]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles. Psalm 95 has no title in the Hebrew. The Septuagint gives it the title "A song of praise, of David", and Hebrews 4:7 speaks of these words as spoken "through David".
+[^95-2]: Psalm 95 is one of the "Yahweh is king" psalms (see the note on 93:1).
+[^95-3]: Hebrew *to'afot*, a rare word, perhaps "heights" or "summits".
+[^95-4]: Hebrews 3:7–11 quotes verses 7–11 from the Septuagint, and returns to them in 3:15 and 4:3–7. From verse 8 on, God speaks.
+[^95-5]: *Meribah* means "quarreling" and *Massah* "testing". The events are told in Exodus 17:1–7 and Numbers 20:1–13. The Septuagint, quoted in Hebrews 3:8, translates the names: "as in the rebellion, as on the day of testing in the wilderness".
+[^95-6]: Literally "If they enter my rest", the form of an oath meaning "they will certainly not enter". *My rest*: the land God promised to give his people (compare Numbers 14:21–23; Deuteronomy 12:9).
 
 ## Chapter 110
 

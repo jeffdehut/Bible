@@ -155,6 +155,11 @@ from the Hebrew.
   "Moses" in a note). A short note mentions each mark where it occurs ("In the Hebrew text, dots are written over this word, a scribal mark of doubt").
 - Where Aramaic begins and ends (Ezra 4:8–6:18, 7:12–26; Jeremiah 10:11; Daniel 2:4b–7:28),
   say so in a note.
+- Psalm title terms: a term whose meaning is known is translated ("For the director", "A song of
+  ascents", a tune name such as "The Doe of the Dawn" in quotation marks); one whose meaning is
+  unknown is transliterated with the Hebrew in a note ("According to Alamoth"). Genre words
+  stay lowercase: maskil, miktam, shiggaion. *Selah* stays where the Hebrew has it, even
+  mid-sentence.
 - Psalm titles are part of verse 1 (or verses 1–2) in the Hebrew. Where that makes this
   psalm's numbering differ from English Bibles, verse 1 has a note saying so. Elsewhere, the
   first verse whose number differs from English Bibles gets a note ("Verses 1–5 are 4:21–25
@@ -183,7 +188,7 @@ from the Hebrew.
   Check the single-word variants too: one word can change the meaning (Mark 1:41).
 - **Old Testament variants**: the ketiv/qere, and well-known, well-documented readings of
   the Septuagint (including 1 Esdras, its parallel to Ezra–Nehemiah), the Dead Sea Scrolls, the
-  Samaritan Pentateuch, the Syriac or the Vulgate
+  Samaritan Pentateuch, the Syriac, the Aramaic Targums or the Vulgate
   (for example Deuteronomy 32:8, Psalm 22:17). Name the version: "The Septuagint reads …".
   A well-documented reading of medieval Hebrew manuscripts may be cited as "Some Hebrew
   manuscripts read …". Only note a reading you are sure of. If in doubt, leave it out. Never
