@@ -204,7 +204,11 @@ from the Hebrew.
   behind them) may be given only where the Hebrew is very difficult, and always worded so they
   can't be mistaken for manuscript evidence: "Some scholars read *gal*, 'a heap', with a small
   change to the Hebrew." A reading that keeps the consonants and changes only the vowels is
-  given as "The same consonants can be read …". A ketiv that differs only in person or number, with no change to the
+  given as "The same consonants can be read …"; one that divides the same letters into words
+  differently is treated the same way. Where the pointed text is very awkward and such a
+  reading is clearly better, the text may follow it, with the pointed reading in a note. The
+  rabbinic "corrections of the scribes" (*tiqqune sopherim*) may be cited by that name.
+- In the Aramaic chapters, a ketiv/qere note says "The Aramaic text is written … but read …". A ketiv that differs only in person or number, with no change to the
   English, is not noted.
 - A ketiv/qere that changes the form of a name (Janim/Janum) is noted; one that only changes
   word order is noted only if the English would differ. Where the Septuagint arranges a whole
@@ -213,6 +217,8 @@ from the Hebrew.
 - In prophetic and poetic books, Yahweh's own words in the poems are not put in quotation marks
   (as in Deuteronomy 32 and Isaiah); a song or saying the text introduces as speech ("On that
   day you will say: …") is, and so is a dialogue in which speakers alternate (Isaiah 63:1–6).
+  A document given whole without an introduction (Nebuchadnezzar's letter, Daniel 3:31–4:34)
+  takes no quotation marks.
 - Quotation marks: double for speech, single for a quotation inside it. A third level ("This
   is what Yahweh says: …" inside a message inside a speech) takes a colon and no marks.
 - Within a chapter, a speech's quotation is opened once and closed once; it isn't reopened at
