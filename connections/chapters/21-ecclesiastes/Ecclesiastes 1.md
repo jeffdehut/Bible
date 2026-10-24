@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "wisdom"]
 
 ![[text/hebrew/21-ecclesiastes#Chapter 1]]
 
+## Plain English translation
+
+![[text/english/21-ecclesiastes#Chapter 1]]
+
 ## Cross-references
 
 - **1:1** → [[connections/chapters/21-ecclesiastes/Ecclesiastes 12|Ecclesiastes 12:8–10]]

@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "prophets"]
 
 ![[text/hebrew/23-isaiah#Chapter 6]]
 
+## Plain English translation
+
+![[text/english/23-isaiah#Chapter 6]]
+
 ## Cross-references
 
 - **6:1** → [[connections/chapters/43-john/John 12|John 12:41]] · [[connections/chapters/66-revelation/Revelation 15|Revelation 15:8]] · [[connections/chapters/27-daniel/Daniel 7|Daniel 7:9]] · [[connections/chapters/66-revelation/Revelation 7|Revelation 7:15–17]] · [[connections/chapters/19-psalms/Psalms 113|Psalms 113:5]] · [[connections/chapters/40-matthew/Matthew 25|Matthew 25:31]] · [[connections/chapters/66-revelation/Revelation 3|Revelation 3:21]] · [[connections/chapters/43-john/John 1|John 1:18]] · [[connections/chapters/23-isaiah/Isaiah 66|Isaiah 66:1]] · [[connections/chapters/19-psalms/Psalms 108|Psalms 108:6]] · [[connections/chapters/66-revelation/Revelation 4|Revelation 4:2]] · [[connections/chapters/19-psalms/Psalms 46|Psalms 46:11]] · [[connections/chapters/02-exodus/Exodus 24|Exodus 24:10–11]] · [[connections/chapters/54-1-timothy/1 Timothy 6|1 Timothy 6:16]] · [[connections/chapters/49-ephesians/Ephesians 1|Ephesians 1:20–21]] · [[connections/chapters/66-revelation/Revelation 5|Revelation 5:1]] · [[connections/chapters/26-ezekiel/Ezekiel 1|Ezekiel 1:25–28]] · [[connections/chapters/11-1-kings/1 Kings 22|1 Kings 22:19]] · [[connections/chapters/23-isaiah/Isaiah 1|Isaiah 1:1]] · [[connections/chapters/04-numbers/Numbers 12|Numbers 12:8]] · [[connections/chapters/26-ezekiel/Ezekiel 10|Ezekiel 10:1]] · [[connections/chapters/26-ezekiel/Ezekiel 1|Ezekiel 1:1]] · [[connections/chapters/23-isaiah/Isaiah 57|Isaiah 57:15]] · [[connections/chapters/66-revelation/Revelation 4|Revelation 4:10]]

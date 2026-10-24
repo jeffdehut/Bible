@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "torah"]
 
 ![[text/hebrew/04-numbers#Chapter 27]]
 
+## Plain English translation
+
+![[text/english/04-numbers#Chapter 27]]
+
 ## Cross-references
 
 - **27:14** → [[connections/chapters/05-deuteronomy/Deuteronomy 1|Deuteronomy 1:37]]

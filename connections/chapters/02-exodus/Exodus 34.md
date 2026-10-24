@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "torah"]
 
 ![[text/hebrew/02-exodus#Chapter 34]]
 
+## Plain English translation
+
+![[text/english/02-exodus#Chapter 34]]
+
 ## Cross-references
 
 - **34:1** → [[connections/chapters/02-exodus/Exodus 32|Exodus 32:19]]

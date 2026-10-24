@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "wisdom"]
 
 ![[text/hebrew/21-ecclesiastes#Chapter 6]]
 
+## Plain English translation
+
+![[text/english/21-ecclesiastes#Chapter 6]]
+
 ## Cross-references
 
 - **6:2** → [[connections/chapters/21-ecclesiastes/Ecclesiastes 5|Ecclesiastes 5:18]]

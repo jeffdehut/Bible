@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "history"]
 
 ![[text/hebrew/11-1-kings#Chapter 17]]
 
+## Plain English translation
+
+![[text/english/11-1-kings#Chapter 17]]
+
 ## Cross-references
 
 - **17:1** → [[connections/chapters/42-luke/Luke 4|Luke 4:25–26]] · [[connections/chapters/59-james/James 5|James 5:17]] · [[connections/chapters/42-luke/Luke 1|Luke 1:17]] · [[connections/chapters/11-1-kings/1 Kings 22|1 Kings 22:14]] · [[connections/chapters/12-2-kings/2 Kings 3|2 Kings 3:14]]

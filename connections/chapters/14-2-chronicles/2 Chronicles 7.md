@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "history"]
 
 ![[text/hebrew/14-2-chronicles#Chapter 7]]
 
+## Plain English translation
+
+![[text/english/14-2-chronicles#Chapter 7]]
+
 ## Cross-references
 
 - **7:1** → [[connections/chapters/11-1-kings/1 Kings 18|1 Kings 18:38]] · [[connections/chapters/13-1-chronicles/1 Chronicles 21|1 Chronicles 21:26]] · [[connections/chapters/03-leviticus/Leviticus 9|Leviticus 9:23–24]]

@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "history"]
 
 ![[text/hebrew/08-ruth#Chapter 1]]
 
+## Plain English translation
+
+![[text/english/08-ruth#Chapter 1]]
+
 ## Cross-references
 
 - **1:1** → [[connections/chapters/01-genesis/Genesis 12|Genesis 12:10]] · [[connections/chapters/01-genesis/Genesis 26|Genesis 26:1]] · [[connections/chapters/26-ezekiel/Ezekiel 14|Ezekiel 14:13]]

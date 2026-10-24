@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "history"]
 
 ![[text/hebrew/06-joshua#Chapter 9]]
 
+## Plain English translation
+
+![[text/english/06-joshua#Chapter 9]]
+
 ## Cross-references
 
 - **9:14** → [[connections/chapters/20-proverbs/Proverbs 3|Proverbs 3:5–6]] · [[connections/chapters/04-numbers/Numbers 27|Numbers 27:21]] · [[connections/chapters/13-1-chronicles/1 Chronicles 10|1 Chronicles 10:13–14]]

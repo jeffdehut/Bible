@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "history"]
 
 ![[text/hebrew/12-2-kings#Chapter 7]]
 
+## Plain English translation
+
+![[text/english/12-2-kings#Chapter 7]]
+
 ## Cross-references
 
 - **7:1** → [[connections/chapters/06-joshua/Joshua 3|Joshua 3:5]] · [[connections/chapters/02-exodus/Exodus 16|Exodus 16:12]] · [[connections/chapters/26-ezekiel/Ezekiel 37|Ezekiel 37:4]] · [[connections/chapters/09-1-samuel/1 Samuel 11|1 Samuel 11:9]] · [[connections/chapters/02-exodus/Exodus 14|Exodus 14:13]] · [[connections/chapters/02-exodus/Exodus 9|Exodus 9:5–6]] · [[connections/chapters/19-psalms/Psalms 46|Psalms 46:6]]

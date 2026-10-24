@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "wisdom"]
 
 ![[text/hebrew/19-psalms#Chapter 2]]
 
+## Plain English translation
+
+![[text/english/19-psalms#Chapter 2]]
+
 ## Cross-references
 
 - **2:1** → [[connections/chapters/44-acts/Acts 4|Acts 4:25–26]] · [[connections/chapters/66-revelation/Revelation 17|Revelation 17:14]] · [[connections/chapters/19-psalms/Psalms 46|Psalms 46:7]] · [[connections/chapters/19-psalms/Psalms 21|Psalms 21:12]] · [[connections/chapters/19-psalms/Psalms 83|Psalms 83:5–9]]

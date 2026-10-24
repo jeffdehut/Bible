@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "torah"]
 
 ![[text/hebrew/02-exodus#Chapter 19]]
 
+## Plain English translation
+
+![[text/english/02-exodus#Chapter 19]]
+
 ## Cross-references
 
 - **19:4** → [[connections/chapters/05-deuteronomy/Deuteronomy 32|Deuteronomy 32:11–12]] · [[connections/chapters/23-isaiah/Isaiah 63|Isaiah 63:9]] · [[connections/chapters/23-isaiah/Isaiah 40|Isaiah 40:31]] · [[connections/chapters/05-deuteronomy/Deuteronomy 29|Deuteronomy 29:1]] · [[connections/chapters/66-revelation/Revelation 12|Revelation 12:14]] · [[connections/chapters/05-deuteronomy/Deuteronomy 4|Deuteronomy 4:33–36]]

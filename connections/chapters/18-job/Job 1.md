@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "wisdom"]
 
 ![[text/hebrew/18-job#Chapter 1]]
 
+## Plain English translation
+
+![[text/english/18-job#Chapter 1]]
+
 ## Cross-references
 
 - **1:1** → [[connections/chapters/59-james/James 5|James 5:11]] · [[connections/chapters/26-ezekiel/Ezekiel 14|Ezekiel 14:14]] · [[connections/chapters/26-ezekiel/Ezekiel 14|Ezekiel 14:20]] · [[connections/chapters/18-job/Job 28|Job 28:28]] · [[connections/chapters/18-job/Job 2|Job 2:3]] · [[connections/chapters/01-genesis/Genesis 6|Genesis 6:9]] · [[connections/chapters/18-job/Job 1|Job 1:8]] · [[connections/chapters/18-job/Job 23|Job 23:11–12]] · [[connections/chapters/01-genesis/Genesis 17|Genesis 17:1]] · [[connections/chapters/42-luke/Luke 1|Luke 1:6]] · [[connections/chapters/01-genesis/Genesis 22|Genesis 22:12]] · [[connections/chapters/20-proverbs/Proverbs 8|Proverbs 8:13]] · [[connections/chapters/20-proverbs/Proverbs 16|Proverbs 16:6]] · [[connections/chapters/12-2-kings/2 Kings 20|2 Kings 20:3]] · [[connections/chapters/25-lamentations/Lamentations 4|Lamentations 4:21]] · [[connections/chapters/24-jeremiah/Jeremiah 25|Jeremiah 25:20]] · [[connections/chapters/60-1-peter/1 Peter 3|1 Peter 3:11]] · [[connections/chapters/18-job/Job 31|Job 31:1–40]]

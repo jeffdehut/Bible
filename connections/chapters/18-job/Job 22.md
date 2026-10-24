@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "wisdom"]
 
 ![[text/hebrew/18-job#Chapter 22]]
 
+## Plain English translation
+
+![[text/english/18-job#Chapter 22]]
+
 ## Cross-references
 
 - **22:6** → [[connections/chapters/02-exodus/Exodus 22|Exodus 22:25]]

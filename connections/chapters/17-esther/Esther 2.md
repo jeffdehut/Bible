@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "history"]
 
 ![[text/hebrew/17-esther#Chapter 2]]
 
+## Plain English translation
+
+![[text/english/17-esther#Chapter 2]]
+
 ## Cross-references
 
 - **2:4** → [[connections/chapters/40-matthew/Matthew 14|Matthew 14:6]]

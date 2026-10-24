@@ -18,6 +18,10 @@ tags: ["chapter", "ot", "history"]
 
 ![[text/hebrew/11-1-kings#Chapter 7]]
 
+## Plain English translation
+
+![[text/english/11-1-kings#Chapter 7]]
+
 ## Cross-references
 
 *No cross-references with at least 8 votes.*

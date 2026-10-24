@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "history"]
 
 ![[text/hebrew/12-2-kings#Chapter 1]]
 
+## Plain English translation
+
+![[text/english/12-2-kings#Chapter 1]]
+
 ## Cross-references
 
 - **1:3** → [[connections/chapters/11-1-kings/1 Kings 17|1 Kings 17:1]]

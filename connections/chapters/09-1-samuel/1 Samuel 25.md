@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "history"]
 
 ![[text/hebrew/09-1-samuel#Chapter 25]]
 
+## Plain English translation
+
+![[text/english/09-1-samuel#Chapter 25]]
+
 ## Cross-references
 
 - **25:3** → [[connections/chapters/20-proverbs/Proverbs 14|Proverbs 14:1]]

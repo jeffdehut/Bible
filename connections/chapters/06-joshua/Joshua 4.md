@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "history"]
 
 ![[text/hebrew/06-joshua#Chapter 4]]
 
+## Plain English translation
+
+![[text/english/06-joshua#Chapter 4]]
+
 ## Cross-references
 
 - **4:1** → [[connections/chapters/05-deuteronomy/Deuteronomy 27|Deuteronomy 27:2]]

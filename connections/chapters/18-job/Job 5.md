@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "wisdom"]
 
 ![[text/hebrew/18-job#Chapter 5]]
 
+## Plain English translation
+
+![[text/english/18-job#Chapter 5]]
+
 ## Cross-references
 
 - **5:1** → [[connections/chapters/18-job/Job 15|Job 15:15]]

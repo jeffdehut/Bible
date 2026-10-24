@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "wisdom"]
 
 ![[text/hebrew/18-job#Chapter 3]]
 
+## Plain English translation
+
+![[text/english/18-job#Chapter 3]]
+
 ## Cross-references
 
 - **3:25** → [[connections/chapters/18-job/Job 1|Job 1:5]] · [[connections/chapters/18-job/Job 30|Job 30:15]] · [[connections/chapters/18-job/Job 31|Job 31:23]]

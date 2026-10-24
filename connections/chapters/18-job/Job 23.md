@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "wisdom"]
 
 ![[text/hebrew/18-job#Chapter 23]]
 
+## Plain English translation
+
+![[text/english/18-job#Chapter 23]]
+
 ## Cross-references
 
 - **23:10** → [[connections/chapters/59-james/James 1|James 1:12]] · [[connections/chapters/59-james/James 1|James 1:2–4]] · [[connections/chapters/60-1-peter/1 Peter 1|1 Peter 1:7]] · [[connections/chapters/19-psalms/Psalms 139|Psalms 139:1–3]] · [[connections/chapters/38-zechariah/Zechariah 13|Zechariah 13:9]] · [[connections/chapters/19-psalms/Psalms 66|Psalms 66:10]] · [[connections/chapters/20-proverbs/Proverbs 17|Proverbs 17:3]] · [[connections/chapters/19-psalms/Psalms 17|Psalms 17:3]] · [[connections/chapters/58-hebrews/Hebrews 11|Hebrews 11:17]] · [[connections/chapters/39-malachi/Malachi 3|Malachi 3:2–3]] · [[connections/chapters/05-deuteronomy/Deuteronomy 8|Deuteronomy 8:2]] · [[connections/chapters/19-psalms/Psalms 1|Psalms 1:6]] · [[connections/chapters/18-job/Job 1|Job 1:11–12]] · [[connections/chapters/12-2-kings/2 Kings 20|2 Kings 20:3]] · [[connections/chapters/55-2-timothy/2 Timothy 2|2 Timothy 2:19]] · [[connections/chapters/43-john/John 21|John 21:17]] · [[connections/chapters/18-job/Job 2|Job 2:5–6]] · [[connections/chapters/18-job/Job 42|Job 42:5–8]] · [[connections/chapters/01-genesis/Genesis 18|Genesis 18:19]]

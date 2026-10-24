@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "history"]
 
 ![[text/hebrew/10-2-samuel#Chapter 17]]
 
+## Plain English translation
+
+![[text/english/10-2-samuel#Chapter 17]]
+
 ## Cross-references
 
 - **17:14** → [[connections/chapters/10-2-samuel/2 Samuel 15|2 Samuel 15:34]]

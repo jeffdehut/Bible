@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "history"]
 
 ![[text/hebrew/09-1-samuel#Chapter 19]]
 
+## Plain English translation
+
+![[text/english/09-1-samuel#Chapter 19]]
+
 ## Cross-references
 
 - **19:20** → [[connections/chapters/29-joel/Joel 3|Joel 3:1]]

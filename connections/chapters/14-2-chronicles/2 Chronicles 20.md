@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "history"]
 
 ![[text/hebrew/14-2-chronicles#Chapter 20]]
 
+## Plain English translation
+
+![[text/english/14-2-chronicles#Chapter 20]]
+
 ## Cross-references
 
 - **20:3** → [[connections/chapters/27-daniel/Daniel 9|Daniel 9:3]]

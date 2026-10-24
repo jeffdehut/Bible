@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "history"]
 
 ![[text/hebrew/14-2-chronicles#Chapter 36]]
 
+## Plain English translation
+
+![[text/english/14-2-chronicles#Chapter 36]]
+
 ## Cross-references
 
 - **36:16** → [[connections/chapters/24-jeremiah/Jeremiah 5|Jeremiah 5:12–13]]

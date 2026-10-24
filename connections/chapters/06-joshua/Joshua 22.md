@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "history"]
 
 ![[text/hebrew/06-joshua#Chapter 22]]
 
+## Plain English translation
+
+![[text/english/06-joshua#Chapter 22]]
+
 ## Cross-references
 
 - **22:5** → [[connections/chapters/40-matthew/Matthew 22|Matthew 22:37]] · [[connections/chapters/02-exodus/Exodus 20|Exodus 20:6]] · [[connections/chapters/45-romans/Romans 8|Romans 8:28]] · [[connections/chapters/02-exodus/Exodus 15|Exodus 15:26]]

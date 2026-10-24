@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "torah"]
 
 ![[text/hebrew/01-genesis#Chapter 48]]
 
+## Plain English translation
+
+![[text/english/01-genesis#Chapter 48]]
+
 ## Cross-references
 
 - **48:16** → [[connections/chapters/19-psalms/Psalms 34|Psalms 34:23]]

@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "history"]
 
 ![[text/hebrew/14-2-chronicles#Chapter 2]]
 
+## Plain English translation
+
+![[text/english/14-2-chronicles#Chapter 2]]
+
 ## Cross-references
 
 *No cross-references with at least 8 votes.*

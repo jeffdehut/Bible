@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "torah"]
 
 ![[text/hebrew/05-deuteronomy#Chapter 30]]
 
+## Plain English translation
+
+![[text/english/05-deuteronomy#Chapter 30]]
+
 ## Cross-references
 
 - **30:1** → [[connections/chapters/11-1-kings/1 Kings 8|1 Kings 8:47–48]] · [[connections/chapters/05-deuteronomy/Deuteronomy 30|Deuteronomy 30:15]]

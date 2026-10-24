@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "torah"]
 
 ![[text/hebrew/01-genesis#Chapter 8]]
 
+## Plain English translation
+
+![[text/english/01-genesis#Chapter 8]]
+
 ## Cross-references
 
 - **8:1** → [[connections/chapters/01-genesis/Genesis 30|Genesis 30:22]] · [[connections/chapters/01-genesis/Genesis 19|Genesis 19:29]] · [[connections/chapters/19-psalms/Psalms 136|Psalms 136:23]] · [[connections/chapters/02-exodus/Exodus 2|Exodus 2:24]] · [[connections/chapters/09-1-samuel/1 Samuel 1|1 Samuel 1:19]] · [[connections/chapters/19-psalms/Psalms 106|Psalms 106:4]] · [[connections/chapters/30-amos/Amos 8|Amos 8:7]] · [[connections/chapters/19-psalms/Psalms 132|Psalms 132:1]] · [[connections/chapters/02-exodus/Exodus 14|Exodus 14:21]] · [[connections/chapters/16-nehemiah/Nehemiah 13|Nehemiah 13:14]] · [[connections/chapters/16-nehemiah/Nehemiah 13|Nehemiah 13:31]] · [[connections/chapters/16-nehemiah/Nehemiah 13|Nehemiah 13:22]] · [[connections/chapters/35-habakkuk/Habakkuk 3|Habakkuk 3:2]] · [[connections/chapters/19-psalms/Psalms 137|Psalms 137:7]] · [[connections/chapters/16-nehemiah/Nehemiah 13|Nehemiah 13:29]]

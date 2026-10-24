@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "history"]
 
 ![[text/hebrew/10-2-samuel#Chapter 2]]
 
+## Plain English translation
+
+![[text/english/10-2-samuel#Chapter 2]]
+
 ## Cross-references
 
 - **2:6** → [[connections/chapters/20-proverbs/Proverbs 14|Proverbs 14:22]] · [[connections/chapters/02-exodus/Exodus 34|Exodus 34:6]]

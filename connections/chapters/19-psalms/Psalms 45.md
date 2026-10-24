@@ -18,6 +18,10 @@ tags: ["chapter", "ot", "wisdom"]
 
 ![[text/hebrew/19-psalms#Chapter 45]]
 
+## Plain English translation
+
+![[text/english/19-psalms#Chapter 45]]
+
 ## Cross-references
 
 - **45:2** → [[connections/chapters/19-psalms/Psalms 49|Psalms 49:4]] · [[connections/chapters/10-2-samuel/2 Samuel 23|2 Samuel 23:2]] · [[connections/chapters/18-job/Job 33|Job 33:3]] · [[connections/chapters/20-proverbs/Proverbs 16|Proverbs 16:23]] · [[connections/chapters/18-job/Job 32|Job 32:18–20]] · [[connections/chapters/61-2-peter/2 Peter 1|2 Peter 1:21]] · [[connections/chapters/23-isaiah/Isaiah 5|Isaiah 5:1]] · [[connections/chapters/22-song-of-songs/Song of Songs 1|Song of Songs 1:1–7]]

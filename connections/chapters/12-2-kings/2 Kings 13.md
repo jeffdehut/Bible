@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "history"]
 
 ![[text/hebrew/12-2-kings#Chapter 13]]
 
+## Plain English translation
+
+![[text/english/12-2-kings#Chapter 13]]
+
 ## Cross-references
 
 - **13:4** → [[connections/chapters/12-2-kings/2 Kings 14|2 Kings 14:26]]

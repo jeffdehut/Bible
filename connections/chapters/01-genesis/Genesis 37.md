@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "torah"]
 
 ![[text/hebrew/01-genesis#Chapter 37]]
 
+## Plain English translation
+
+![[text/english/01-genesis#Chapter 37]]
+
 ## Cross-references
 
 - **37:2** → [[connections/chapters/01-genesis/Genesis 35|Genesis 35:25–26]]

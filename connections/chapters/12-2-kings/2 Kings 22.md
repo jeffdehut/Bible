@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "history"]
 
 ![[text/hebrew/12-2-kings#Chapter 22]]
 
+## Plain English translation
+
+![[text/english/12-2-kings#Chapter 22]]
+
 ## Cross-references
 
 - **22:2** → [[connections/chapters/05-deuteronomy/Deuteronomy 5|Deuteronomy 5:32]]

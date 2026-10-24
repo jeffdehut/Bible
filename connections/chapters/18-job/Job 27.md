@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "wisdom"]
 
 ![[text/hebrew/18-job#Chapter 27]]
 
+## Plain English translation
+
+![[text/english/18-job#Chapter 27]]
+
 ## Cross-references
 
 - **27:3** → [[connections/chapters/01-genesis/Genesis 2|Genesis 2:7]] · [[connections/chapters/18-job/Job 33|Job 33:4]]

@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "history"]
 
 ![[text/hebrew/07-judges#Chapter 14]]
 
+## Plain English translation
+
+![[text/english/07-judges#Chapter 14]]
+
 ## Cross-references
 
 - **14:4** → [[connections/chapters/06-joshua/Joshua 11|Joshua 11:20]]

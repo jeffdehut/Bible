@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "history"]
 
 ![[text/hebrew/12-2-kings#Chapter 10]]
 
+## Plain English translation
+
+![[text/english/12-2-kings#Chapter 10]]
+
 ## Cross-references
 
 - **10:10** → [[connections/chapters/11-1-kings/1 Kings 21|1 Kings 21:29]]

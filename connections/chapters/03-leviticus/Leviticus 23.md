@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "torah"]
 
 ![[text/hebrew/03-leviticus#Chapter 23]]
 
+## Plain English translation
+
+![[text/english/03-leviticus#Chapter 23]]
+
 ## Cross-references
 
 - **23:3** → [[connections/chapters/03-leviticus/Leviticus 19|Leviticus 19:3]]

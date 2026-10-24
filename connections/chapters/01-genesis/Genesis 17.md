@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "torah"]
 
 ![[text/hebrew/01-genesis#Chapter 17]]
 
+## Plain English translation
+
+![[text/english/01-genesis#Chapter 17]]
+
 ## Cross-references
 
 - **17:1** → [[connections/chapters/50-philippians/Philippians 4|Philippians 4:13]] · [[connections/chapters/49-ephesians/Ephesians 3|Ephesians 3:20]] · [[connections/chapters/42-luke/Luke 1|Luke 1:6]] · [[connections/chapters/01-genesis/Genesis 18|Genesis 18:14]] · [[connections/chapters/01-genesis/Genesis 6|Genesis 6:9]] · [[connections/chapters/19-psalms/Psalms 116|Psalms 116:9]] · [[connections/chapters/40-matthew/Matthew 5|Matthew 5:48]] · [[connections/chapters/23-isaiah/Isaiah 38|Isaiah 38:3]] · [[connections/chapters/18-job/Job 1|Job 1:1]] · [[connections/chapters/05-deuteronomy/Deuteronomy 18|Deuteronomy 18:13]] · [[connections/chapters/40-matthew/Matthew 19|Matthew 19:26]] · [[connections/chapters/12-2-kings/2 Kings 20|2 Kings 20:3]] · [[connections/chapters/01-genesis/Genesis 28|Genesis 28:3]] · [[connections/chapters/33-micah/Micah 6|Micah 6:8]] · [[connections/chapters/24-jeremiah/Jeremiah 32|Jeremiah 32:17]] · [[connections/chapters/11-1-kings/1 Kings 3|1 Kings 3:6]] · [[connections/chapters/01-genesis/Genesis 35|Genesis 35:11]] · [[connections/chapters/58-hebrews/Hebrews 7|Hebrews 7:25]] · [[connections/chapters/01-genesis/Genesis 5|Genesis 5:24]] · [[connections/chapters/58-hebrews/Hebrews 12|Hebrews 12:28]] · [[connections/chapters/01-genesis/Genesis 48|Genesis 48:15]]

@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "torah"]
 
 ![[text/hebrew/02-exodus#Chapter 28]]
 
+## Plain English translation
+
+![[text/english/02-exodus#Chapter 28]]
+
 ## Cross-references
 
 - **28:2** → [[connections/chapters/03-leviticus/Leviticus 8|Leviticus 8:30]] · [[connections/chapters/02-exodus/Exodus 31|Exodus 31:10]] · [[connections/chapters/66-revelation/Revelation 19|Revelation 19:8]]

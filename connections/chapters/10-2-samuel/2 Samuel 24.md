@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "history"]
 
 ![[text/hebrew/10-2-samuel#Chapter 24]]
 
+## Plain English translation
+
+![[text/english/10-2-samuel#Chapter 24]]
+
 ## Cross-references
 
 - **24:1** → [[connections/chapters/13-1-chronicles/1 Chronicles 21|1 Chronicles 21:1]] · [[connections/chapters/13-1-chronicles/1 Chronicles 27|1 Chronicles 27:23–24]]

@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "wisdom"]
 
 ![[text/hebrew/21-ecclesiastes#Chapter 7]]
 
+## Plain English translation
+
+![[text/english/21-ecclesiastes#Chapter 7]]
+
 ## Cross-references
 
 - **7:1** → [[connections/chapters/66-revelation/Revelation 14|Revelation 14:13]] · [[connections/chapters/20-proverbs/Proverbs 22|Proverbs 22:1]] · [[connections/chapters/21-ecclesiastes/Ecclesiastes 4|Ecclesiastes 4:2]] · [[connections/chapters/47-2-corinthians/2 Corinthians 5|2 Corinthians 5:8]]

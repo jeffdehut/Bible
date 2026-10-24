@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "torah"]
 
 ![[text/hebrew/01-genesis#Chapter 36]]
 
+## Plain English translation
+
+![[text/english/01-genesis#Chapter 36]]
+
 ## Cross-references
 
 - **36:7** → [[connections/chapters/01-genesis/Genesis 13|Genesis 13:6]]

@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "prophets"]
 
 ![[text/hebrew/24-jeremiah#Chapter 1]]
 
+## Plain English translation
+
+![[text/english/24-jeremiah#Chapter 1]]
+
 ## Cross-references
 
 - **1:5** → [[connections/chapters/19-psalms/Psalms 139|Psalms 139:16]] · [[connections/chapters/23-isaiah/Isaiah 49|Isaiah 49:1]] · [[connections/chapters/48-galatians/Galatians 1|Galatians 1:15–16]] · [[connections/chapters/19-psalms/Psalms 71|Psalms 71:5–6]] · [[connections/chapters/45-romans/Romans 8|Romans 8:29]] · [[connections/chapters/23-isaiah/Isaiah 49|Isaiah 49:5]] · [[connections/chapters/23-isaiah/Isaiah 44|Isaiah 44:2]] · [[connections/chapters/55-2-timothy/2 Timothy 2|2 Timothy 2:19–21]] · [[connections/chapters/42-luke/Luke 1|Luke 1:41]] · [[connections/chapters/42-luke/Luke 1|Luke 1:76]] · [[connections/chapters/02-exodus/Exodus 33|Exodus 33:17]] · [[connections/chapters/42-luke/Luke 1|Luke 1:15]] · [[connections/chapters/02-exodus/Exodus 33|Exodus 33:12]] · [[connections/chapters/24-jeremiah/Jeremiah 1|Jeremiah 1:10]] · [[connections/chapters/45-romans/Romans 1|Romans 1:1]] · [[connections/chapters/24-jeremiah/Jeremiah 50|Jeremiah 50:34]] · [[connections/chapters/49-ephesians/Ephesians 4|Ephesians 4:11–12]] · [[connections/chapters/49-ephesians/Ephesians 1|Ephesians 1:22]]

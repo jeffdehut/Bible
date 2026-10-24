@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "torah"]
 
 ![[text/hebrew/03-leviticus#Chapter 13]]
 
+## Plain English translation
+
+![[text/english/03-leviticus#Chapter 13]]
+
 ## Cross-references
 
 - **13:45** → [[connections/chapters/03-leviticus/Leviticus 10|Leviticus 10:6]] · [[connections/chapters/33-micah/Micah 3|Micah 3:7]]

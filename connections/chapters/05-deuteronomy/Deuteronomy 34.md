@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "torah"]
 
 ![[text/hebrew/05-deuteronomy#Chapter 34]]
 
+## Plain English translation
+
+![[text/english/05-deuteronomy#Chapter 34]]
+
 ## Cross-references
 
 - **34:5** → [[connections/chapters/05-deuteronomy/Deuteronomy 32|Deuteronomy 32:50]]

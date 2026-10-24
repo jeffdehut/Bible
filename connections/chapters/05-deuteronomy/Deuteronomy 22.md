@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "torah"]
 
 ![[text/hebrew/05-deuteronomy#Chapter 22]]
 
+## Plain English translation
+
+![[text/english/05-deuteronomy#Chapter 22]]
+
 ## Cross-references
 
 - **22:5** → [[connections/chapters/46-1-corinthians/1 Corinthians 11|1 Corinthians 11:4–15]] · [[connections/chapters/05-deuteronomy/Deuteronomy 18|Deuteronomy 18:12]]

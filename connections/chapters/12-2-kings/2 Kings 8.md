@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "history"]
 
 ![[text/hebrew/12-2-kings#Chapter 8]]
 
+## Plain English translation
+
+![[text/english/12-2-kings#Chapter 8]]
+
 ## Cross-references
 
 - **8:6** → [[connections/chapters/20-proverbs/Proverbs 16|Proverbs 16:7]] · [[connections/chapters/20-proverbs/Proverbs 21|Proverbs 21:1]] · [[connections/chapters/10-2-samuel/2 Samuel 9|2 Samuel 9:7]]

@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "torah"]
 
 ![[text/hebrew/01-genesis#Chapter 14]]
 
+## Plain English translation
+
+![[text/english/01-genesis#Chapter 14]]
+
 ## Cross-references
 
 - **14:13** → [[connections/chapters/01-genesis/Genesis 13|Genesis 13:18]]

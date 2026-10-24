@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "wisdom"]
 
 ![[text/hebrew/18-job#Chapter 2]]
 
+## Plain English translation
+
+![[text/english/18-job#Chapter 2]]
+
 ## Cross-references
 
 - **2:1** → [[connections/chapters/18-job/Job 1|Job 1:6]]

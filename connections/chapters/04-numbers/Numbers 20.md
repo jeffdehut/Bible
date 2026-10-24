@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "torah"]
 
 ![[text/hebrew/04-numbers#Chapter 20]]
 
+## Plain English translation
+
+![[text/english/04-numbers#Chapter 20]]
+
 ## Cross-references
 
 - **20:11** → [[connections/chapters/46-1-corinthians/1 Corinthians 10|1 Corinthians 10:4]]

@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "history"]
 
 ![[text/hebrew/16-nehemiah#Chapter 8]]
 
+## Plain English translation
+
+![[text/english/16-nehemiah#Chapter 8]]
+
 ## Cross-references
 
 - **8:1** → [[connections/chapters/15-ezra/Ezra 7|Ezra 7:6]]

@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "torah"]
 
 ![[text/hebrew/02-exodus#Chapter 14]]
 
+## Plain English translation
+
+![[text/english/02-exodus#Chapter 14]]
+
 ## Cross-references
 
 - **14:10** → [[connections/chapters/19-psalms/Psalms 107|Psalms 107:6]]

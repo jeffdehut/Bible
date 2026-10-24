@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "torah"]
 
 ![[text/hebrew/02-exodus#Chapter 30]]
 
+## Plain English translation
+
+![[text/english/02-exodus#Chapter 30]]
+
 ## Cross-references
 
 - **30:10** → [[connections/chapters/03-leviticus/Leviticus 16|Leviticus 16:18]]

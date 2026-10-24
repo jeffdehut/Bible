@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "history"]
 
 ![[text/hebrew/09-1-samuel#Chapter 22]]
 
+## Plain English translation
+
+![[text/english/09-1-samuel#Chapter 22]]
+
 ## Cross-references
 
 - **22:23** → [[connections/chapters/43-john/John 10|John 10:28–30]]

@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "torah"]
 
 ![[text/hebrew/04-numbers#Chapter 7]]
 
+## Plain English translation
+
+![[text/english/04-numbers#Chapter 7]]
+
 ## Cross-references
 
 - **7:89** → [[connections/chapters/58-hebrews/Hebrews 4|Hebrews 4:16]] · [[connections/chapters/19-psalms/Psalms 99|Psalms 99:1]]

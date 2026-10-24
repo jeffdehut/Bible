@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "history"]
 
 ![[text/hebrew/10-2-samuel#Chapter 19]]
 
+## Plain English translation
+
+![[text/english/10-2-samuel#Chapter 19]]
+
 ## Cross-references
 
 - **19:1** → [[connections/chapters/10-2-samuel/2 Samuel 19|2 Samuel 19:5]]

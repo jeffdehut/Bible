@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "history"]
 
 ![[text/hebrew/06-joshua#Chapter 18]]
 
+## Plain English translation
+
+![[text/english/06-joshua#Chapter 18]]
+
 ## Cross-references
 
 - **18:3** → [[connections/chapters/20-proverbs/Proverbs 13|Proverbs 13:4]]

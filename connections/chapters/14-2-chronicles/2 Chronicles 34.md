@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "history"]
 
 ![[text/hebrew/14-2-chronicles#Chapter 34]]
 
+## Plain English translation
+
+![[text/english/14-2-chronicles#Chapter 34]]
+
 ## Cross-references
 
 - **34:27** → [[connections/chapters/14-2-chronicles/2 Chronicles 32|2 Chronicles 32:26]]

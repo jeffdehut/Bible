@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "wisdom"]
 
 ![[text/hebrew/21-ecclesiastes#Chapter 3]]
 
+## Plain English translation
+
+![[text/english/21-ecclesiastes#Chapter 3]]
+
 ## Cross-references
 
 - **3:1** → [[connections/chapters/21-ecclesiastes/Ecclesiastes 3|Ecclesiastes 3:17]] · [[connections/chapters/40-matthew/Matthew 16|Matthew 16:3]] · [[connections/chapters/21-ecclesiastes/Ecclesiastes 8|Ecclesiastes 8:5–6]] · [[connections/chapters/21-ecclesiastes/Ecclesiastes 7|Ecclesiastes 7:14]] · [[connections/chapters/12-2-kings/2 Kings 5|2 Kings 5:26]] · [[connections/chapters/20-proverbs/Proverbs 15|Proverbs 15:23]] · [[connections/chapters/14-2-chronicles/2 Chronicles 33|2 Chronicles 33:12]] · [[connections/chapters/21-ecclesiastes/Ecclesiastes 2|Ecclesiastes 2:3]] · [[connections/chapters/21-ecclesiastes/Ecclesiastes 1|Ecclesiastes 1:13]] · [[connections/chapters/21-ecclesiastes/Ecclesiastes 2|Ecclesiastes 2:17]]

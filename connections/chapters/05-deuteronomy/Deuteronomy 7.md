@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "torah"]
 
 ![[text/hebrew/05-deuteronomy#Chapter 7]]
 
+## Plain English translation
+
+![[text/english/05-deuteronomy#Chapter 7]]
+
 ## Cross-references
 
 - **7:1** → [[connections/chapters/05-deuteronomy/Deuteronomy 31|Deuteronomy 31:3]] · [[connections/chapters/44-acts/Acts 13|Acts 13:19]]

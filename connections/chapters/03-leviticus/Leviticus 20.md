@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "torah"]
 
 ![[text/hebrew/03-leviticus#Chapter 20]]
 
+## Plain English translation
+
+![[text/english/03-leviticus#Chapter 20]]
+
 ## Cross-references
 
 - **20:6** → [[connections/chapters/03-leviticus/Leviticus 19|Leviticus 19:31]]

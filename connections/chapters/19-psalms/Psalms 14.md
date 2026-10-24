@@ -18,6 +18,10 @@ tags: ["chapter", "ot", "wisdom"]
 
 ![[text/hebrew/19-psalms#Chapter 14]]
 
+## Plain English translation
+
+![[text/english/19-psalms#Chapter 14]]
+
 ## Cross-references
 
 - **14:1** → [[connections/chapters/19-psalms/Psalms 10|Psalms 10:4]] · [[connections/chapters/19-psalms/Psalms 53|Psalms 53:2]] · [[connections/chapters/45-romans/Romans 3|Romans 3:10–12]] · [[connections/chapters/45-romans/Romans 1|Romans 1:21–32]] · [[connections/chapters/19-psalms/Psalms 92|Psalms 92:7]] · [[connections/chapters/49-ephesians/Ephesians 2|Ephesians 2:1–3]] · [[connections/chapters/40-matthew/Matthew 12|Matthew 12:34]] · [[connections/chapters/20-proverbs/Proverbs 1|Proverbs 1:7]]

@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "history"]
 
 ![[text/hebrew/06-joshua#Chapter 24]]
 
+## Plain English translation
+
+![[text/english/06-joshua#Chapter 24]]
+
 ## Cross-references
 
 - **24:12** → [[connections/chapters/05-deuteronomy/Deuteronomy 7|Deuteronomy 7:20]] · [[connections/chapters/02-exodus/Exodus 23|Exodus 23:28]]

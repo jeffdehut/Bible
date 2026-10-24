@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "history"]
 
 ![[text/hebrew/10-2-samuel#Chapter 7]]
 
+## Plain English translation
+
+![[text/english/10-2-samuel#Chapter 7]]
+
 ## Cross-references
 
 - **7:3** → [[connections/chapters/13-1-chronicles/1 Chronicles 22|1 Chronicles 22:7]]

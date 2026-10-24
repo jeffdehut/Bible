@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "history"]
 
 ![[text/hebrew/12-2-kings#Chapter 5]]
 
+## Plain English translation
+
+![[text/english/12-2-kings#Chapter 5]]
+
 ## Cross-references
 
 - **5:1** → [[connections/chapters/42-luke/Luke 4|Luke 4:27]] · [[connections/chapters/45-romans/Romans 15|Romans 15:18]]

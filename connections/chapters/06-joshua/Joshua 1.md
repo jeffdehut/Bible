@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "history"]
 
 ![[text/hebrew/06-joshua#Chapter 1]]
 
+## Plain English translation
+
+![[text/english/06-joshua#Chapter 1]]
+
 ## Cross-references
 
 - **1:1** → [[connections/chapters/05-deuteronomy/Deuteronomy 34|Deuteronomy 34:9]]

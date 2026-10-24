@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "torah"]
 
 ![[text/hebrew/01-genesis#Chapter 25]]
 
+## Plain English translation
+
+![[text/english/01-genesis#Chapter 25]]
+
 ## Cross-references
 
 - **25:5** → [[connections/chapters/01-genesis/Genesis 24|Genesis 24:36]]

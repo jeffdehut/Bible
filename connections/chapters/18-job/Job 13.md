@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "wisdom"]
 
 ![[text/hebrew/18-job#Chapter 13]]
 
+## Plain English translation
+
+![[text/english/18-job#Chapter 13]]
+
 ## Cross-references
 
 - **13:5** → [[connections/chapters/20-proverbs/Proverbs 17|Proverbs 17:28]]

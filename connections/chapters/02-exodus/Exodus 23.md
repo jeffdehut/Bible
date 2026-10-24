@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "torah"]
 
 ![[text/hebrew/02-exodus#Chapter 23]]
 
+## Plain English translation
+
+![[text/english/02-exodus#Chapter 23]]
+
 ## Cross-references
 
 - **23:1** → [[connections/chapters/19-psalms/Psalms 101|Psalms 101:5]] · [[connections/chapters/20-proverbs/Proverbs 19|Proverbs 19:5]]

@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "history"]
 
 ![[text/hebrew/14-2-chronicles#Chapter 5]]
 
+## Plain English translation
+
+![[text/english/14-2-chronicles#Chapter 5]]
+
 ## Cross-references
 
 - **5:13** → [[connections/chapters/15-ezra/Ezra 3|Ezra 3:11]]

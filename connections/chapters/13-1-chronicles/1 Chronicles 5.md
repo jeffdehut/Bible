@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "history"]
 
 ![[text/hebrew/13-1-chronicles#Chapter 5]]
 
+## Plain English translation
+
+![[text/english/13-1-chronicles#Chapter 5]]
+
 ## Cross-references
 
 - **5:1** → [[connections/chapters/01-genesis/Genesis 35|Genesis 35:22]]

@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "torah"]
 
 ![[text/hebrew/04-numbers#Chapter 23]]
 
+## Plain English translation
+
+![[text/english/04-numbers#Chapter 23]]
+
 ## Cross-references
 
 - **23:8** → [[connections/chapters/04-numbers/Numbers 23|Numbers 23:23]] · [[connections/chapters/23-isaiah/Isaiah 44|Isaiah 44:25]] · [[connections/chapters/04-numbers/Numbers 23|Numbers 23:20]] · [[connections/chapters/04-numbers/Numbers 22|Numbers 22:12]]

@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "torah"]
 
 ![[text/hebrew/05-deuteronomy#Chapter 5]]
 
+## Plain English translation
+
+![[text/english/05-deuteronomy#Chapter 5]]
+
 ## Cross-references
 
 - **5:2** → [[connections/chapters/05-deuteronomy/Deuteronomy 4|Deuteronomy 4:23]]

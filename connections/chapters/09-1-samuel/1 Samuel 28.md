@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "history"]
 
 ![[text/hebrew/09-1-samuel#Chapter 28]]
 
+## Plain English translation
+
+![[text/english/09-1-samuel#Chapter 28]]
+
 ## Cross-references
 
 - **28:6** → [[connections/chapters/04-numbers/Numbers 12|Numbers 12:6]] · [[connections/chapters/09-1-samuel/1 Samuel 14|1 Samuel 14:37]] · [[connections/chapters/25-lamentations/Lamentations 2|Lamentations 2:9]] · [[connections/chapters/04-numbers/Numbers 27|Numbers 27:21]] · [[connections/chapters/26-ezekiel/Ezekiel 20|Ezekiel 20:1–3]]

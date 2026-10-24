@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "torah"]
 
 ![[text/hebrew/04-numbers#Chapter 31]]
 
+## Plain English translation
+
+![[text/english/04-numbers#Chapter 31]]
+
 ## Cross-references
 
 - **31:16** → [[connections/chapters/04-numbers/Numbers 25|Numbers 25:1–9]] · [[connections/chapters/61-2-peter/2 Peter 2|2 Peter 2:15]] · [[connections/chapters/66-revelation/Revelation 2|Revelation 2:14]]

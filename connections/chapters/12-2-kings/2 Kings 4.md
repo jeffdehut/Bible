@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "history"]
 
 ![[text/hebrew/12-2-kings#Chapter 4]]
 
+## Plain English translation
+
+![[text/english/12-2-kings#Chapter 4]]
+
 ## Cross-references
 
 - **4:1** → [[connections/chapters/40-matthew/Matthew 18|Matthew 18:25]] · [[connections/chapters/12-2-kings/2 Kings 2|2 Kings 2:3]]

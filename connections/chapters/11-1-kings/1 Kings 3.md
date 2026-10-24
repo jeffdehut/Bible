@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "history"]
 
 ![[text/hebrew/11-1-kings#Chapter 3]]
 
+## Plain English translation
+
+![[text/english/11-1-kings#Chapter 3]]
+
 ## Cross-references
 
 - **3:5** → [[connections/chapters/11-1-kings/1 Kings 9|1 Kings 9:2]] · [[connections/chapters/59-james/James 1|James 1:5–6]] · [[connections/chapters/04-numbers/Numbers 12|Numbers 12:6]] · [[connections/chapters/43-john/John 14|John 14:13–14]] · [[connections/chapters/14-2-chronicles/2 Chronicles 1|2 Chronicles 1:7–12]] · [[connections/chapters/41-mark/Mark 10|Mark 10:36]] · [[connections/chapters/01-genesis/Genesis 28|Genesis 28:12–13]] · [[connections/chapters/40-matthew/Matthew 2|Matthew 2:13]] · [[connections/chapters/11-1-kings/1 Kings 11|1 Kings 11:9]]

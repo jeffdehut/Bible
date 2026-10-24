@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "history"]
 
 ![[text/hebrew/13-1-chronicles#Chapter 16]]
 
+## Plain English translation
+
+![[text/english/13-1-chronicles#Chapter 16]]
+
 ## Cross-references
 
 - **16:8** → [[connections/chapters/19-psalms/Psalms 105|Psalms 105:1–15]] · [[connections/chapters/23-isaiah/Isaiah 12|Isaiah 12:4]] · [[connections/chapters/12-2-kings/2 Kings 19|2 Kings 19:19]] · [[connections/chapters/19-psalms/Psalms 145|Psalms 145:5–6]] · [[connections/chapters/46-1-corinthians/1 Corinthians 1|1 Corinthians 1:2]] · [[connections/chapters/13-1-chronicles/1 Chronicles 16|1 Chronicles 16:8–22]]

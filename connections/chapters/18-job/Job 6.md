@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "wisdom"]
 
 ![[text/hebrew/18-job#Chapter 6]]
 
+## Plain English translation
+
+![[text/english/18-job#Chapter 6]]
+
 ## Cross-references
 
 - **6:4** → [[connections/chapters/19-psalms/Psalms 38|Psalms 38:3]]

@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "history"]
 
 ![[text/hebrew/13-1-chronicles#Chapter 4]]
 
+## Plain English translation
+
+![[text/english/13-1-chronicles#Chapter 4]]
+
 ## Cross-references
 
 - **4:9** → [[connections/chapters/09-1-samuel/1 Samuel 4|1 Samuel 4:21]]

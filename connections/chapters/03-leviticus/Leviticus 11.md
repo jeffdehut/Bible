@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "torah"]
 
 ![[text/hebrew/03-leviticus#Chapter 11]]
 
+## Plain English translation
+
+![[text/english/03-leviticus#Chapter 11]]
+
 ## Cross-references
 
 - **11:44** → [[connections/chapters/02-exodus/Exodus 20|Exodus 20:2]] · [[connections/chapters/60-1-peter/1 Peter 1|1 Peter 1:15–16]] · [[connections/chapters/03-leviticus/Leviticus 19|Leviticus 19:2]] · [[connections/chapters/03-leviticus/Leviticus 20|Leviticus 20:7]] · [[connections/chapters/03-leviticus/Leviticus 20|Leviticus 20:26]] · [[connections/chapters/52-1-thessalonians/1 Thessalonians 4|1 Thessalonians 4:7]] · [[connections/chapters/60-1-peter/1 Peter 2|1 Peter 2:9]] · [[connections/chapters/03-leviticus/Leviticus 21|Leviticus 21:8]]

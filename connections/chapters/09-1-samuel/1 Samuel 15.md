@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "history"]
 
 ![[text/hebrew/09-1-samuel#Chapter 15]]
 
+## Plain English translation
+
+![[text/english/09-1-samuel#Chapter 15]]
+
 ## Cross-references
 
 - **15:2** → [[connections/chapters/05-deuteronomy/Deuteronomy 25|Deuteronomy 25:17–19]] · [[connections/chapters/04-numbers/Numbers 24|Numbers 24:20]] · [[connections/chapters/02-exodus/Exodus 17|Exodus 17:8–16]]

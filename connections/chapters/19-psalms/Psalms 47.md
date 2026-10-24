@@ -18,6 +18,10 @@ tags: ["chapter", "ot", "wisdom"]
 
 ![[text/hebrew/19-psalms#Chapter 47]]
 
+## Plain English translation
+
+![[text/english/19-psalms#Chapter 47]]
+
 ## Cross-references
 
 - **47:2** → [[connections/chapters/19-psalms/Psalms 98|Psalms 98:4]] · [[connections/chapters/19-psalms/Psalms 106|Psalms 106:47]] · [[connections/chapters/24-jeremiah/Jeremiah 31|Jeremiah 31:7]] · [[connections/chapters/19-psalms/Psalms 46|Psalms 46:2]] · [[connections/chapters/66-revelation/Revelation 19|Revelation 19:1–2]]

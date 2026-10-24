@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "torah"]
 
 ![[text/hebrew/02-exodus#Chapter 24]]
 
+## Plain English translation
+
+![[text/english/02-exodus#Chapter 24]]
+
 ## Cross-references
 
 - **24:3** → [[connections/chapters/02-exodus/Exodus 19|Exodus 19:8]] · [[connections/chapters/02-exodus/Exodus 24|Exodus 24:7]]

@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "history"]
 
 ![[text/hebrew/06-joshua#Chapter 17]]
 
+## Plain English translation
+
+![[text/english/06-joshua#Chapter 17]]
+
 ## Cross-references
 
 - **17:18** → [[connections/chapters/58-hebrews/Hebrews 13|Hebrews 13:6]]

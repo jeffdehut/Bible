@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "torah"]
 
 ![[text/hebrew/02-exodus#Chapter 26]]
 
+## Plain English translation
+
+![[text/english/02-exodus#Chapter 26]]
+
 ## Cross-references
 
 - **26:30** → [[connections/chapters/02-exodus/Exodus 25|Exodus 25:40]] · [[connections/chapters/58-hebrews/Hebrews 8|Hebrews 8:5]]

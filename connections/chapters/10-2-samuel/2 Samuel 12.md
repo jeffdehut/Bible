@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "history"]
 
 ![[text/hebrew/10-2-samuel#Chapter 12]]
 
+## Plain English translation
+
+![[text/english/10-2-samuel#Chapter 12]]
+
 ## Cross-references
 
 - **12:6** → [[connections/chapters/02-exodus/Exodus 21|Exodus 21:37]]

@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "torah"]
 
 ![[text/hebrew/01-genesis#Chapter 21]]
 
+## Plain English translation
+
+![[text/english/01-genesis#Chapter 21]]
+
 ## Cross-references
 
 - **21:1** → [[connections/chapters/19-psalms/Psalms 12|Psalms 12:7]] · [[connections/chapters/01-genesis/Genesis 18|Genesis 18:10]] · [[connections/chapters/01-genesis/Genesis 18|Genesis 18:14]] · [[connections/chapters/48-galatians/Galatians 4|Galatians 4:23]] · [[connections/chapters/01-genesis/Genesis 17|Genesis 17:19]] · [[connections/chapters/09-1-samuel/1 Samuel 2|1 Samuel 2:21]] · [[connections/chapters/40-matthew/Matthew 24|Matthew 24:35]] · [[connections/chapters/56-titus/Titus 1|Titus 1:2]] · [[connections/chapters/08-ruth/Ruth 1|Ruth 1:6]] · [[connections/chapters/45-romans/Romans 4|Romans 4:17–20]] · [[connections/chapters/48-galatians/Galatians 4|Galatians 4:28]] · [[connections/chapters/01-genesis/Genesis 17|Genesis 17:21]] · [[connections/chapters/01-genesis/Genesis 17|Genesis 17:16]] · [[connections/chapters/01-genesis/Genesis 50|Genesis 50:24]] · [[connections/chapters/02-exodus/Exodus 4|Exodus 4:31]] · [[connections/chapters/42-luke/Luke 1|Luke 1:68]] · [[connections/chapters/19-psalms/Psalms 106|Psalms 106:4]] · [[connections/chapters/02-exodus/Exodus 3|Exodus 3:16]] · [[connections/chapters/02-exodus/Exodus 20|Exodus 20:5]] · [[connections/chapters/42-luke/Luke 19|Luke 19:44]]

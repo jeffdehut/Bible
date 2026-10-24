@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "history"]
 
 ![[text/hebrew/10-2-samuel#Chapter 16]]
 
+## Plain English translation
+
+![[text/english/10-2-samuel#Chapter 16]]
+
 ## Cross-references
 
 - **16:12** → [[connections/chapters/05-deuteronomy/Deuteronomy 23|Deuteronomy 23:6]] · [[connections/chapters/58-hebrews/Hebrews 12|Hebrews 12:10]] · [[connections/chapters/40-matthew/Matthew 5|Matthew 5:11–12]] · [[connections/chapters/45-romans/Romans 8|Romans 8:28]] · [[connections/chapters/02-exodus/Exodus 2|Exodus 2:24–25]] · [[connections/chapters/19-psalms/Psalms 25|Psalms 25:18]]

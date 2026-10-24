@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "torah"]
 
 ![[text/hebrew/01-genesis#Chapter 2]]
 
+## Plain English translation
+
+![[text/english/01-genesis#Chapter 2]]
+
 ## Cross-references
 
 - **2:1** → [[connections/chapters/02-exodus/Exodus 31|Exodus 31:17]] · [[connections/chapters/02-exodus/Exodus 20|Exodus 20:11]] · [[connections/chapters/19-psalms/Psalms 33|Psalms 33:6]] · [[connections/chapters/23-isaiah/Isaiah 45|Isaiah 45:18]] · [[connections/chapters/01-genesis/Genesis 1|Genesis 1:1]]

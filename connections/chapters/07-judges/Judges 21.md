@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "history"]
 
 ![[text/hebrew/07-judges#Chapter 21]]
 
+## Plain English translation
+
+![[text/english/07-judges#Chapter 21]]
+
 ## Cross-references
 
 - **21:25** → [[connections/chapters/05-deuteronomy/Deuteronomy 12|Deuteronomy 12:8]] · [[connections/chapters/20-proverbs/Proverbs 3|Proverbs 3:5]] · [[connections/chapters/07-judges/Judges 17|Judges 17:6]] · [[connections/chapters/21-ecclesiastes/Ecclesiastes 11|Ecclesiastes 11:9]] · [[connections/chapters/20-proverbs/Proverbs 14|Proverbs 14:12]]

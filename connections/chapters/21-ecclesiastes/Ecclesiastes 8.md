@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "wisdom"]
 
 ![[text/hebrew/21-ecclesiastes#Chapter 8]]
 
+## Plain English translation
+
+![[text/english/21-ecclesiastes#Chapter 8]]
+
 ## Cross-references
 
 - **8:1** → [[connections/chapters/44-acts/Acts 6|Acts 6:15]]

@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "history"]
 
 ![[text/hebrew/12-2-kings#Chapter 18]]
 
+## Plain English translation
+
+![[text/english/12-2-kings#Chapter 18]]
+
 ## Cross-references
 
 - **18:4** → [[connections/chapters/14-2-chronicles/2 Chronicles 31|2 Chronicles 31:1]]

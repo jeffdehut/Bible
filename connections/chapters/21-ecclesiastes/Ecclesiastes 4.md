@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "wisdom"]
 
 ![[text/hebrew/21-ecclesiastes#Chapter 4]]
 
+## Plain English translation
+
+![[text/english/21-ecclesiastes#Chapter 4]]
+
 ## Cross-references
 
 - **4:1** → [[connections/chapters/21-ecclesiastes/Ecclesiastes 3|Ecclesiastes 3:16]] · [[connections/chapters/21-ecclesiastes/Ecclesiastes 5|Ecclesiastes 5:7]]

@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "torah"]
 
 ![[text/hebrew/05-deuteronomy#Chapter 15]]
 
+## Plain English translation
+
+![[text/english/05-deuteronomy#Chapter 15]]
+
 ## Cross-references
 
 - **15:6** → [[connections/chapters/05-deuteronomy/Deuteronomy 28|Deuteronomy 28:12–13]]

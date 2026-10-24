@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "history"]
 
 ![[text/hebrew/11-1-kings#Chapter 1]]
 
+## Plain English translation
+
+![[text/english/11-1-kings#Chapter 1]]
+
 ## Cross-references
 
 - **1:2** → [[connections/chapters/21-ecclesiastes/Ecclesiastes 4|Ecclesiastes 4:11]] · [[connections/chapters/01-genesis/Genesis 16|Genesis 16:5]] · [[connections/chapters/33-micah/Micah 7|Micah 7:5]]

@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "torah"]
 
 ![[text/hebrew/04-numbers#Chapter 25]]
 
+## Plain English translation
+
+![[text/english/04-numbers#Chapter 25]]
+
 ## Cross-references
 
 - **25:2** → [[connections/chapters/46-1-corinthians/1 Corinthians 10|1 Corinthians 10:20]]

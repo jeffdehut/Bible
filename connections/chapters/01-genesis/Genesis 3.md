@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "torah"]
 
 ![[text/hebrew/01-genesis#Chapter 3]]
 
+## Plain English translation
+
+![[text/english/01-genesis#Chapter 3]]
+
 ## Cross-references
 
 - **3:1** → [[connections/chapters/47-2-corinthians/2 Corinthians 11|2 Corinthians 11:3]] · [[connections/chapters/47-2-corinthians/2 Corinthians 11|2 Corinthians 11:14]] · [[connections/chapters/66-revelation/Revelation 12|Revelation 12:9]] · [[connections/chapters/66-revelation/Revelation 20|Revelation 20:2]] · [[connections/chapters/40-matthew/Matthew 4|Matthew 4:3]] · [[connections/chapters/01-genesis/Genesis 3|Genesis 3:13–15]] · [[connections/chapters/40-matthew/Matthew 10|Matthew 10:16]]

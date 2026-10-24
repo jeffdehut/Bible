@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "wisdom"]
 
 ![[text/hebrew/18-job#Chapter 29]]
 
+## Plain English translation
+
+![[text/english/18-job#Chapter 29]]
+
 ## Cross-references
 
 - **29:3** → [[connections/chapters/19-psalms/Psalms 18|Psalms 18:29]] · [[connections/chapters/43-john/John 8|John 8:12]] · [[connections/chapters/49-ephesians/Ephesians 5|Ephesians 5:8]] · [[connections/chapters/43-john/John 12|John 12:46]] · [[connections/chapters/18-job/Job 18|Job 18:6]]

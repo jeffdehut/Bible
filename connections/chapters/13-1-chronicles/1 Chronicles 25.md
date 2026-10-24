@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "history"]
 
 ![[text/hebrew/13-1-chronicles#Chapter 25]]
 
+## Plain English translation
+
+![[text/english/13-1-chronicles#Chapter 25]]
+
 ## Cross-references
 
 *No cross-references with at least 8 votes.*

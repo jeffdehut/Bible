@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "torah"]
 
 ![[text/hebrew/04-numbers#Chapter 5]]
 
+## Plain English translation
+
+![[text/english/04-numbers#Chapter 5]]
+
 ## Cross-references
 
 - **5:7** → [[connections/chapters/03-leviticus/Leviticus 5|Leviticus 5:5]]

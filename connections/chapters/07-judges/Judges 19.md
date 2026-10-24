@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "history"]
 
 ![[text/hebrew/07-judges#Chapter 19]]
 
+## Plain English translation
+
+![[text/english/07-judges#Chapter 19]]
+
 ## Cross-references
 
 - **19:22** → [[connections/chapters/01-genesis/Genesis 19|Genesis 19:4–5]]

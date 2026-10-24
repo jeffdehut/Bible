@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "history"]
 
 ![[text/hebrew/06-joshua#Chapter 13]]
 
+## Plain English translation
+
+![[text/english/06-joshua#Chapter 13]]
+
 ## Cross-references
 
 - **13:33** → [[connections/chapters/06-joshua/Joshua 18|Joshua 18:7]] · [[connections/chapters/06-joshua/Joshua 13|Joshua 13:14]]

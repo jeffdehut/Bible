@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "history"]
 
 ![[text/hebrew/09-1-samuel#Chapter 18]]
 
+## Plain English translation
+
+![[text/english/09-1-samuel#Chapter 18]]
+
 ## Cross-references
 
 - **18:1** → [[connections/chapters/20-proverbs/Proverbs 18|Proverbs 18:24]] · [[connections/chapters/09-1-samuel/1 Samuel 20|1 Samuel 20:17]] · [[connections/chapters/10-2-samuel/2 Samuel 1|2 Samuel 1:26]] · [[connections/chapters/09-1-samuel/1 Samuel 18|1 Samuel 18:3]] · [[connections/chapters/51-colossians/Colossians 2|Colossians 2:2]]

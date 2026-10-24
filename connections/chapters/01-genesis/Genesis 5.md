@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "torah"]
 
 ![[text/hebrew/01-genesis#Chapter 5]]
 
+## Plain English translation
+
+![[text/english/01-genesis#Chapter 5]]
+
 ## Cross-references
 
 - **5:1** → [[connections/chapters/49-ephesians/Ephesians 4|Ephesians 4:24]] · [[connections/chapters/51-colossians/Colossians 3|Colossians 3:10]] · [[connections/chapters/01-genesis/Genesis 1|Genesis 1:26–27]] · [[connections/chapters/58-hebrews/Hebrews 1|Hebrews 1:3]]

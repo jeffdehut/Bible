@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "torah"]
 
 ![[text/hebrew/01-genesis#Chapter 35]]
 
+## Plain English translation
+
+![[text/english/01-genesis#Chapter 35]]
+
 ## Cross-references
 
 - **35:1** → [[connections/chapters/01-genesis/Genesis 31|Genesis 31:13]]

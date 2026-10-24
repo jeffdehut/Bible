@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "history"]
 
 ![[text/hebrew/17-esther#Chapter 10]]
 
+## Plain English translation
+
+![[text/english/17-esther#Chapter 10]]
+
 ## Cross-references
 
 - **10:3** → [[connections/chapters/16-nehemiah/Nehemiah 2|Nehemiah 2:10]]

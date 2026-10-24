@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "torah"]
 
 ![[text/hebrew/05-deuteronomy#Chapter 6]]
 
+## Plain English translation
+
+![[text/english/05-deuteronomy#Chapter 6]]
+
 ## Cross-references
 
 - **6:1** → [[connections/chapters/05-deuteronomy/Deuteronomy 4|Deuteronomy 4:1]] · [[connections/chapters/05-deuteronomy/Deuteronomy 12|Deuteronomy 12:1]]

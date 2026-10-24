@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "torah"]
 
 ![[text/hebrew/03-leviticus#Chapter 17]]
 
+## Plain English translation
+
+![[text/english/03-leviticus#Chapter 17]]
+
 ## Cross-references
 
 - **17:7** → [[connections/chapters/46-1-corinthians/1 Corinthians 10|1 Corinthians 10:20]]

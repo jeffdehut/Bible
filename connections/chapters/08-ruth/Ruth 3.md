@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "history"]
 
 ![[text/hebrew/08-ruth#Chapter 3]]
 
+## Plain English translation
+
+![[text/english/08-ruth#Chapter 3]]
+
 ## Cross-references
 
 - **3:1** → [[connections/chapters/08-ruth/Ruth 1|Ruth 1:9]] · [[connections/chapters/54-1-timothy/1 Timothy 5|1 Timothy 5:8]] · [[connections/chapters/19-psalms/Psalms 128|Psalms 128:2]] · [[connections/chapters/54-1-timothy/1 Timothy 5|1 Timothy 5:14]] · [[connections/chapters/46-1-corinthians/1 Corinthians 7|1 Corinthians 7:36]] · [[connections/chapters/05-deuteronomy/Deuteronomy 4|Deuteronomy 4:40]] · [[connections/chapters/24-jeremiah/Jeremiah 22|Jeremiah 22:15–16]] · [[connections/chapters/01-genesis/Genesis 40|Genesis 40:14]]

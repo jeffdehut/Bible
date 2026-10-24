@@ -18,6 +18,10 @@ tags: ["chapter", "ot", "wisdom"]
 
 ![[text/hebrew/19-psalms#Chapter 18]]
 
+## Plain English translation
+
+![[text/english/19-psalms#Chapter 18]]
+
 ## Cross-references
 
 - **18:2** → [[connections/chapters/10-2-samuel/2 Samuel 22|2 Samuel 22:1–51]] · [[connections/chapters/51-colossians/Colossians 1|Colossians 1:11]] · [[connections/chapters/62-1-john/1 John 4|1 John 4:19]] · [[connections/chapters/23-isaiah/Isaiah 12|Isaiah 12:1–6]] · [[connections/chapters/50-philippians/Philippians 4|Philippians 4:13]] · [[connections/chapters/19-psalms/Psalms 34|Psalms 34:20]] · [[connections/chapters/19-psalms/Psalms 116|Psalms 116:1–6]] · [[connections/chapters/19-psalms/Psalms 144|Psalms 144:1–2]] · [[connections/chapters/19-psalms/Psalms 28|Psalms 28:7–8]] · [[connections/chapters/19-psalms/Psalms 118|Psalms 118:14]] · [[connections/chapters/09-1-samuel/1 Samuel 2|1 Samuel 2:1–10]]

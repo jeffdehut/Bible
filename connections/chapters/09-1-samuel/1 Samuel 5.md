@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "history"]
 
 ![[text/hebrew/09-1-samuel#Chapter 5]]
 
+## Plain English translation
+
+![[text/english/09-1-samuel#Chapter 5]]
+
 ## Cross-references
 
 - **5:3** → [[connections/chapters/23-isaiah/Isaiah 19|Isaiah 19:1]]

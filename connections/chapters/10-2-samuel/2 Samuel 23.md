@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "history"]
 
 ![[text/hebrew/10-2-samuel#Chapter 23]]
 
+## Plain English translation
+
+![[text/english/10-2-samuel#Chapter 23]]
+
 ## Cross-references
 
 - **23:1** → [[connections/chapters/09-1-samuel/1 Samuel 16|1 Samuel 16:12–13]]

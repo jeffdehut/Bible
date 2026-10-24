@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "torah"]
 
 ![[text/hebrew/01-genesis#Chapter 33]]
 
+## Plain English translation
+
+![[text/english/01-genesis#Chapter 33]]
+
 ## Cross-references
 
 - **33:4** → [[connections/chapters/01-genesis/Genesis 45|Genesis 45:14–15]] · [[connections/chapters/19-psalms/Psalms 34|Psalms 34:5]]

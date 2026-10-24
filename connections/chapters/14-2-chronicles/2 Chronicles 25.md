@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "history"]
 
 ![[text/hebrew/14-2-chronicles#Chapter 25]]
 
+## Plain English translation
+
+![[text/english/14-2-chronicles#Chapter 25]]
+
 ## Cross-references
 
 - **25:2** → [[connections/chapters/59-james/James 4|James 4:8]] · [[connections/chapters/14-2-chronicles/2 Chronicles 25|2 Chronicles 25:14]] · [[connections/chapters/23-isaiah/Isaiah 29|Isaiah 29:13]] · [[connections/chapters/14-2-chronicles/2 Chronicles 24|2 Chronicles 24:2]] · [[connections/chapters/44-acts/Acts 8|Acts 8:21]]

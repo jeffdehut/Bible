@@ -18,6 +18,10 @@ tags: ["chapter", "ot", "torah"]
 
 ![[text/hebrew/04-numbers#Chapter 33]]
 
+## Plain English translation
+
+![[text/english/04-numbers#Chapter 33]]
+
 ## Cross-references
 
 - **33:52** → [[connections/chapters/02-exodus/Exodus 23|Exodus 23:24]] · [[connections/chapters/03-leviticus/Leviticus 26|Leviticus 26:1]]

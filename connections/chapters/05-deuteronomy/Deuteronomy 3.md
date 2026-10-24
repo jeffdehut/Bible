@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "torah"]
 
 ![[text/hebrew/05-deuteronomy#Chapter 3]]
 
+## Plain English translation
+
+![[text/english/05-deuteronomy#Chapter 3]]
+
 ## Cross-references
 
 - **3:18** → [[connections/chapters/04-numbers/Numbers 32|Numbers 32:20–24]]

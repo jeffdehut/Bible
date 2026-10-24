@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "torah"]
 
 ![[text/hebrew/01-genesis#Chapter 40]]
 
+## Plain English translation
+
+![[text/english/01-genesis#Chapter 40]]
+
 ## Cross-references
 
 *No cross-references with at least 8 votes.*

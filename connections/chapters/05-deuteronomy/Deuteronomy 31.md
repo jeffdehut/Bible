@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "torah"]
 
 ![[text/hebrew/05-deuteronomy#Chapter 31]]
 
+## Plain English translation
+
+![[text/english/05-deuteronomy#Chapter 31]]
+
 ## Cross-references
 
 - **31:3** → [[connections/chapters/05-deuteronomy/Deuteronomy 9|Deuteronomy 9:3]]

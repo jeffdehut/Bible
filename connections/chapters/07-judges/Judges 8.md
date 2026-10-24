@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "history"]
 
 ![[text/hebrew/07-judges#Chapter 8]]
 
+## Plain English translation
+
+![[text/english/07-judges#Chapter 8]]
+
 ## Cross-references
 
 - **8:23** → [[connections/chapters/23-isaiah/Isaiah 33|Isaiah 33:22]]

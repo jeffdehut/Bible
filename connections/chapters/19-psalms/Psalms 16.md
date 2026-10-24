@@ -18,6 +18,10 @@ tags: ["chapter", "ot", "wisdom"]
 
 ![[text/hebrew/19-psalms#Chapter 16]]
 
+## Plain English translation
+
+![[text/english/19-psalms#Chapter 16]]
+
 ## Cross-references
 
 - **16:1** → [[connections/chapters/23-isaiah/Isaiah 26|Isaiah 26:3–4]] · [[connections/chapters/19-psalms/Psalms 31|Psalms 31:24]] · [[connections/chapters/19-psalms/Psalms 17|Psalms 17:8]] · [[connections/chapters/19-psalms/Psalms 56|Psalms 56:2]] · [[connections/chapters/55-2-timothy/2 Timothy 1|2 Timothy 1:12]] · [[connections/chapters/19-psalms/Psalms 116|Psalms 116:6]] · [[connections/chapters/19-psalms/Psalms 7|Psalms 7:2]]

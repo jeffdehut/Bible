@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "wisdom"]
 
 ![[text/hebrew/18-job#Chapter 31]]
 
+## Plain English translation
+
+![[text/english/18-job#Chapter 31]]
+
 ## Cross-references
 
 - **31:1** → [[connections/chapters/59-james/James 1|James 1:14–15]] · [[connections/chapters/40-matthew/Matthew 5|Matthew 5:28–29]] · [[connections/chapters/19-psalms/Psalms 119|Psalms 119:37]] · [[connections/chapters/62-1-john/1 John 2|1 John 2:16]] · [[connections/chapters/20-proverbs/Proverbs 6|Proverbs 6:25]] · [[connections/chapters/10-2-samuel/2 Samuel 11|2 Samuel 11:2–4]] · [[connections/chapters/20-proverbs/Proverbs 4|Proverbs 4:25]] · [[connections/chapters/01-genesis/Genesis 6|Genesis 6:2]] · [[connections/chapters/20-proverbs/Proverbs 23|Proverbs 23:31–33]]

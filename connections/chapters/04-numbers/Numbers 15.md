@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "torah"]
 
 ![[text/hebrew/04-numbers#Chapter 15]]
 
+## Plain English translation
+
+![[text/english/04-numbers#Chapter 15]]
+
 ## Cross-references
 
 - **15:3** → [[connections/chapters/02-exodus/Exodus 29|Exodus 29:18]]

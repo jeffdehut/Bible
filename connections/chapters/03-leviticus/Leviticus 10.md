@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "torah"]
 
 ![[text/hebrew/03-leviticus#Chapter 10]]
 
+## Plain English translation
+
+![[text/english/03-leviticus#Chapter 10]]
+
 ## Cross-references
 
 - **10:1** → [[connections/chapters/04-numbers/Numbers 26|Numbers 26:61]] · [[connections/chapters/05-deuteronomy/Deuteronomy 13|Deuteronomy 13:1]] · [[connections/chapters/03-leviticus/Leviticus 16|Leviticus 16:12]] · [[connections/chapters/04-numbers/Numbers 17|Numbers 17:11]] · [[connections/chapters/02-exodus/Exodus 24|Exodus 24:1]] · [[connections/chapters/02-exodus/Exodus 6|Exodus 6:23]]

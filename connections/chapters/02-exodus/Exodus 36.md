@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "torah"]
 
 ![[text/hebrew/02-exodus#Chapter 36]]
 
+## Plain English translation
+
+![[text/english/02-exodus#Chapter 36]]
+
 ## Cross-references
 
 - **36:1** → [[connections/chapters/02-exodus/Exodus 28|Exodus 28:3]]

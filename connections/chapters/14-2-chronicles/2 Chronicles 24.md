@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "history"]
 
 ![[text/hebrew/14-2-chronicles#Chapter 24]]
 
+## Plain English translation
+
+![[text/english/14-2-chronicles#Chapter 24]]
+
 ## Cross-references
 
 - **24:20** → [[connections/chapters/04-numbers/Numbers 14|Numbers 14:41]]

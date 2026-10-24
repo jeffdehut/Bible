@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "wisdom"]
 
 ![[text/hebrew/18-job#Chapter 26]]
 
+## Plain English translation
+
+![[text/english/18-job#Chapter 26]]
+
 ## Cross-references
 
 - **26:7** → [[connections/chapters/18-job/Job 9|Job 9:8]] · [[connections/chapters/19-psalms/Psalms 104|Psalms 104:2–5]] · [[connections/chapters/23-isaiah/Isaiah 40|Isaiah 40:22]] · [[connections/chapters/23-isaiah/Isaiah 42|Isaiah 42:5]] · [[connections/chapters/19-psalms/Psalms 24|Psalms 24:2]] · [[connections/chapters/20-proverbs/Proverbs 8|Proverbs 8:23–27]] · [[connections/chapters/23-isaiah/Isaiah 40|Isaiah 40:26]] · [[connections/chapters/01-genesis/Genesis 1|Genesis 1:1–2]]

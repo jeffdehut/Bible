@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "history"]
 
 ![[text/hebrew/07-judges#Chapter 15]]
 
+## Plain English translation
+
+![[text/english/07-judges#Chapter 15]]
+
 ## Cross-references
 
 - **15:2** → [[connections/chapters/07-judges/Judges 14|Judges 14:20]]

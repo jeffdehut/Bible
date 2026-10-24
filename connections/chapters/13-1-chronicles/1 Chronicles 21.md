@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "history"]
 
 ![[text/hebrew/13-1-chronicles#Chapter 21]]
 
+## Plain English translation
+
+![[text/english/13-1-chronicles#Chapter 21]]
+
 ## Cross-references
 
 - **21:1** → [[connections/chapters/10-2-samuel/2 Samuel 24|2 Samuel 24:1–25]]

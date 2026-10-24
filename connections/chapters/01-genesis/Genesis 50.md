@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "torah"]
 
 ![[text/hebrew/01-genesis#Chapter 50]]
 
+## Plain English translation
+
+![[text/english/01-genesis#Chapter 50]]
+
 ## Cross-references
 
 - **50:20** → [[connections/chapters/45-romans/Romans 8|Romans 8:28]] · [[connections/chapters/19-psalms/Psalms 119|Psalms 119:71]] · [[connections/chapters/01-genesis/Genesis 45|Genesis 45:5–8]] · [[connections/chapters/01-genesis/Genesis 37|Genesis 37:18–20]] · [[connections/chapters/19-psalms/Psalms 105|Psalms 105:16–17]] · [[connections/chapters/44-acts/Acts 2|Acts 2:23]] · [[connections/chapters/44-acts/Acts 3|Acts 3:13–15]] · [[connections/chapters/01-genesis/Genesis 37|Genesis 37:4]] · [[connections/chapters/44-acts/Acts 3|Acts 3:26]] · [[connections/chapters/19-psalms/Psalms 56|Psalms 56:6]] · [[connections/chapters/23-isaiah/Isaiah 10|Isaiah 10:7]] · [[connections/chapters/19-psalms/Psalms 76|Psalms 76:11]]

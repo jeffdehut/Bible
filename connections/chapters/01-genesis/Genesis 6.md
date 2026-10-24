@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "torah"]
 
 ![[text/hebrew/01-genesis#Chapter 6]]
 
+## Plain English translation
+
+![[text/english/01-genesis#Chapter 6]]
+
 ## Cross-references
 
 - **6:2** → [[connections/chapters/19-psalms/Psalms 82|Psalms 82:6–7]] · [[connections/chapters/62-1-john/1 John 2|1 John 2:16]]

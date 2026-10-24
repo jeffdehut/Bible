@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "history"]
 
 ![[text/hebrew/07-judges#Chapter 11]]
 
+## Plain English translation
+
+![[text/english/07-judges#Chapter 11]]
+
 ## Cross-references
 
 - **11:1** → [[connections/chapters/58-hebrews/Hebrews 11|Hebrews 11:32]] · [[connections/chapters/07-judges/Judges 6|Judges 6:12]] · [[connections/chapters/12-2-kings/2 Kings 5|2 Kings 5:1]]

@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "history"]
 
 ![[text/hebrew/06-joshua#Chapter 14]]
 
+## Plain English translation
+
+![[text/english/06-joshua#Chapter 14]]
+
 ## Cross-references
 
 - **14:6** → [[connections/chapters/04-numbers/Numbers 14|Numbers 14:30]]

@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "wisdom"]
 
 ![[text/hebrew/19-psalms#Chapter 17]]
 
+## Plain English translation
+
+![[text/english/19-psalms#Chapter 17]]
+
 ## Cross-references
 
 - **17:1** → [[connections/chapters/19-psalms/Psalms 142|Psalms 142:7]] · [[connections/chapters/19-psalms/Psalms 61|Psalms 61:2]]

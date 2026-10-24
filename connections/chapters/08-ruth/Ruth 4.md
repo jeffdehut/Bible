@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "history"]
 
 ![[text/hebrew/08-ruth#Chapter 4]]
 
+## Plain English translation
+
+![[text/english/08-ruth#Chapter 4]]
+
 ## Cross-references
 
 - **4:2** → [[connections/chapters/20-proverbs/Proverbs 31|Proverbs 31:23]]

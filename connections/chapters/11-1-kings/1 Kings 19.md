@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "history"]
 
 ![[text/hebrew/11-1-kings#Chapter 19]]
 
+## Plain English translation
+
+![[text/english/11-1-kings#Chapter 19]]
+
 ## Cross-references
 
 - **19:4** → [[connections/chapters/32-jonah/Jonah 4|Jonah 4:3]] · [[connections/chapters/04-numbers/Numbers 11|Numbers 11:15]]

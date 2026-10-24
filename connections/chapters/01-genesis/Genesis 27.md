@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "torah"]
 
 ![[text/hebrew/01-genesis#Chapter 27]]
 
+## Plain English translation
+
+![[text/english/01-genesis#Chapter 27]]
+
 ## Cross-references
 
 - **27:1** → [[connections/chapters/09-1-samuel/1 Samuel 3|1 Samuel 3:2]] · [[connections/chapters/01-genesis/Genesis 48|Genesis 48:10]]

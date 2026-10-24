@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "wisdom"]
 
 ![[text/hebrew/19-psalms#Chapter 42]]
 
+## Plain English translation
+
+![[text/english/19-psalms#Chapter 42]]
+
 ## Cross-references
 
 - **42:2** → [[connections/chapters/19-psalms/Psalms 63|Psalms 63:2–3]] · [[connections/chapters/19-psalms/Psalms 143|Psalms 143:6–7]] · [[connections/chapters/19-psalms/Psalms 119|Psalms 119:131]] · [[connections/chapters/23-isaiah/Isaiah 26|Isaiah 26:8–9]] · [[connections/chapters/19-psalms/Psalms 84|Psalms 84:2–3]] · [[connections/chapters/19-psalms/Psalms 48|Psalms 48:2]] · [[connections/chapters/19-psalms/Psalms 46|Psalms 46:2]] · [[connections/chapters/19-psalms/Psalms 85|Psalms 85:2]] · [[connections/chapters/19-psalms/Psalms 45|Psalms 45:2]] · [[connections/chapters/19-psalms/Psalms 47|Psalms 47:2]] · [[connections/chapters/19-psalms/Psalms 44|Psalms 44:2]] · [[connections/chapters/19-psalms/Psalms 49|Psalms 49:2]]

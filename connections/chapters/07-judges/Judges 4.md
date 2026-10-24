@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "history"]
 
 ![[text/hebrew/07-judges#Chapter 4]]
 
+## Plain English translation
+
+![[text/english/07-judges#Chapter 4]]
+
 ## Cross-references
 
 - **4:14** → [[connections/chapters/10-2-samuel/2 Samuel 5|2 Samuel 5:24]] · [[connections/chapters/05-deuteronomy/Deuteronomy 9|Deuteronomy 9:3]]

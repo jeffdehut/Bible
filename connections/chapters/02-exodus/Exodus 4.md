@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "torah"]
 
 ![[text/hebrew/02-exodus#Chapter 4]]
 
+## Plain English translation
+
+![[text/english/02-exodus#Chapter 4]]
+
 ## Cross-references
 
 - **4:2** → [[connections/chapters/02-exodus/Exodus 4|Exodus 4:20]]

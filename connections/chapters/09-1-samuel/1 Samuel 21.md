@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "history"]
 
 ![[text/hebrew/09-1-samuel#Chapter 21]]
 
+## Plain English translation
+
+![[text/english/09-1-samuel#Chapter 21]]
+
 ## Cross-references
 
 - **21:7** → [[connections/chapters/42-luke/Luke 6|Luke 6:3–4]]

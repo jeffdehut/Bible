@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "torah"]
 
 ![[text/hebrew/05-deuteronomy#Chapter 2]]
 
+## Plain English translation
+
+![[text/english/05-deuteronomy#Chapter 2]]
+
 ## Cross-references
 
 - **2:3** → [[connections/chapters/05-deuteronomy/Deuteronomy 1|Deuteronomy 1:6]]

@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "torah"]
 
 ![[text/hebrew/05-deuteronomy#Chapter 28]]
 
+## Plain English translation
+
+![[text/english/05-deuteronomy#Chapter 28]]
+
 ## Cross-references
 
 - **28:1** → [[connections/chapters/23-isaiah/Isaiah 1|Isaiah 1:19]] · [[connections/chapters/02-exodus/Exodus 23|Exodus 23:22]] · [[connections/chapters/03-leviticus/Leviticus 26|Leviticus 26:3–13]] · [[connections/chapters/42-luke/Luke 11|Luke 11:28]] · [[connections/chapters/43-john/John 15|John 15:14]] · [[connections/chapters/02-exodus/Exodus 15|Exodus 15:26]] · [[connections/chapters/19-psalms/Psalms 91|Psalms 91:14]] · [[connections/chapters/05-deuteronomy/Deuteronomy 7|Deuteronomy 7:12–26]] · [[connections/chapters/05-deuteronomy/Deuteronomy 15|Deuteronomy 15:5]] · [[connections/chapters/05-deuteronomy/Deuteronomy 11|Deuteronomy 11:13]] · [[connections/chapters/45-romans/Romans 2|Romans 2:7]] · [[connections/chapters/59-james/James 2|James 2:10–11]] · [[connections/chapters/23-isaiah/Isaiah 55|Isaiah 55:2–3]] · [[connections/chapters/23-isaiah/Isaiah 3|Isaiah 3:10]] · [[connections/chapters/19-psalms/Psalms 111|Psalms 111:10]] · [[connections/chapters/48-galatians/Galatians 3|Galatians 3:10]] · [[connections/chapters/42-luke/Luke 9|Luke 9:48]] · [[connections/chapters/24-jeremiah/Jeremiah 17|Jeremiah 17:24]] · [[connections/chapters/05-deuteronomy/Deuteronomy 26|Deuteronomy 26:19–27:1]] · [[connections/chapters/19-psalms/Psalms 106|Psalms 106:3]] · [[connections/chapters/24-jeremiah/Jeremiah 11|Jeremiah 11:4]] · [[connections/chapters/42-luke/Luke 1|Luke 1:6]] · [[connections/chapters/19-psalms/Psalms 119|Psalms 119:6]] · [[connections/chapters/19-psalms/Psalms 148|Psalms 148:14]] · [[connections/chapters/19-psalms/Psalms 119|Psalms 119:128]] · [[connections/chapters/24-jeremiah/Jeremiah 12|Jeremiah 12:16]]

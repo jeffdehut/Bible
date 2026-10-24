@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "history"]
 
 ![[text/hebrew/06-joshua#Chapter 20]]
 
+## Plain English translation
+
+![[text/english/06-joshua#Chapter 20]]
+
 ## Cross-references
 
 *No cross-references with at least 8 votes.*

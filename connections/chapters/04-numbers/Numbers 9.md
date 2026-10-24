@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "torah"]
 
 ![[text/hebrew/04-numbers#Chapter 9]]
 
+## Plain English translation
+
+![[text/english/04-numbers#Chapter 9]]
+
 ## Cross-references
 
 - **9:12** → [[connections/chapters/43-john/John 19|John 19:36]]

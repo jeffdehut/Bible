@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "torah"]
 
 ![[text/hebrew/04-numbers#Chapter 16]]
 
+## Plain English translation
+
+![[text/english/04-numbers#Chapter 16]]
+
 ## Cross-references
 
 - **16:1** → [[connections/chapters/65-jude/Jude 1|Jude 1:11]]

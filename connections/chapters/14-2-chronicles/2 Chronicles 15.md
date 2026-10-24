@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "history"]
 
 ![[text/hebrew/14-2-chronicles#Chapter 15]]
 
+## Plain English translation
+
+![[text/english/14-2-chronicles#Chapter 15]]
+
 ## Cross-references
 
 - **15:2** → [[connections/chapters/59-james/James 4|James 4:8]] · [[connections/chapters/14-2-chronicles/2 Chronicles 24|2 Chronicles 24:20]] · [[connections/chapters/14-2-chronicles/2 Chronicles 15|2 Chronicles 15:4]] · [[connections/chapters/13-1-chronicles/1 Chronicles 28|1 Chronicles 28:9]] · [[connections/chapters/24-jeremiah/Jeremiah 29|Jeremiah 29:12–14]] · [[connections/chapters/58-hebrews/Hebrews 10|Hebrews 10:38]] · [[connections/chapters/23-isaiah/Isaiah 55|Isaiah 55:6–7]] · [[connections/chapters/14-2-chronicles/2 Chronicles 15|2 Chronicles 15:15]] · [[connections/chapters/40-matthew/Matthew 7|Matthew 7:7–8]] · [[connections/chapters/14-2-chronicles/2 Chronicles 20|2 Chronicles 20:20]] · [[connections/chapters/58-hebrews/Hebrews 12|Hebrews 12:25]] · [[connections/chapters/14-2-chronicles/2 Chronicles 13|2 Chronicles 13:12]] · [[connections/chapters/40-matthew/Matthew 13|Matthew 13:9]] · [[connections/chapters/45-romans/Romans 11|Romans 11:1–2]] · [[connections/chapters/14-2-chronicles/2 Chronicles 20|2 Chronicles 20:15]] · [[connections/chapters/05-deuteronomy/Deuteronomy 20|Deuteronomy 20:1]]

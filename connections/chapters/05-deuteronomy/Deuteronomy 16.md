@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "torah"]
 
 ![[text/hebrew/05-deuteronomy#Chapter 16]]
 
+## Plain English translation
+
+![[text/english/05-deuteronomy#Chapter 16]]
+
 ## Cross-references
 
 - **16:1** → [[connections/chapters/02-exodus/Exodus 34|Exodus 34:18]] · [[connections/chapters/02-exodus/Exodus 13|Exodus 13:4]]

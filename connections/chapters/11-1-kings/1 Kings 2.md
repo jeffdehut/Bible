@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "history"]
 
 ![[text/hebrew/11-1-kings#Chapter 2]]
 
+## Plain English translation
+
+![[text/english/11-1-kings#Chapter 2]]
+
 ## Cross-references
 
 - **2:2** → [[connections/chapters/06-joshua/Joshua 1|Joshua 1:6–7]] · [[connections/chapters/49-ephesians/Ephesians 6|Ephesians 6:10]] · [[connections/chapters/06-joshua/Joshua 23|Joshua 23:14]] · [[connections/chapters/46-1-corinthians/1 Corinthians 16|1 Corinthians 16:13]]

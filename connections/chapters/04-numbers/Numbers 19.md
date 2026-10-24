@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "torah"]
 
 ![[text/hebrew/04-numbers#Chapter 19]]
 
+## Plain English translation
+
+![[text/english/04-numbers#Chapter 19]]
+
 ## Cross-references
 
 - **19:11** → [[connections/chapters/04-numbers/Numbers 5|Numbers 5:2]] · [[connections/chapters/04-numbers/Numbers 31|Numbers 31:19]] · [[connections/chapters/03-leviticus/Leviticus 21|Leviticus 21:1]]

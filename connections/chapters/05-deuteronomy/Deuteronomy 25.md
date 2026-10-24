@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "torah"]
 
 ![[text/hebrew/05-deuteronomy#Chapter 25]]
 
+## Plain English translation
+
+![[text/english/05-deuteronomy#Chapter 25]]
+
 ## Cross-references
 
 - **25:4** → [[connections/chapters/54-1-timothy/1 Timothy 5|1 Timothy 5:17–18]] · [[connections/chapters/46-1-corinthians/1 Corinthians 9|1 Corinthians 9:9–10]]

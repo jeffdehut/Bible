@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "history"]
 
 ![[text/hebrew/07-judges#Chapter 7]]
 
+## Plain English translation
+
+![[text/english/07-judges#Chapter 7]]
+
 ## Cross-references
 
 - **7:2** → [[connections/chapters/05-deuteronomy/Deuteronomy 8|Deuteronomy 8:17]] · [[connections/chapters/46-1-corinthians/1 Corinthians 1|1 Corinthians 1:27–29]] · [[connections/chapters/47-2-corinthians/2 Corinthians 4|2 Corinthians 4:7]] · [[connections/chapters/45-romans/Romans 11|Romans 11:18]] · [[connections/chapters/38-zechariah/Zechariah 4|Zechariah 4:6]] · [[connections/chapters/38-zechariah/Zechariah 12|Zechariah 12:7]]

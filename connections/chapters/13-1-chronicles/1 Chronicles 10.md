@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "history"]
 
 ![[text/hebrew/13-1-chronicles#Chapter 10]]
 
+## Plain English translation
+
+![[text/english/13-1-chronicles#Chapter 10]]
+
 ## Cross-references
 
 - **10:13** → [[connections/chapters/03-leviticus/Leviticus 20|Leviticus 20:6]] · [[connections/chapters/03-leviticus/Leviticus 19|Leviticus 19:31]] · [[connections/chapters/09-1-samuel/1 Samuel 15|1 Samuel 15:23]]

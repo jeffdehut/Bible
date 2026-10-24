@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "torah"]
 
 ![[text/hebrew/05-deuteronomy#Chapter 19]]
 
+## Plain English translation
+
+![[text/english/05-deuteronomy#Chapter 19]]
+
 ## Cross-references
 
 - **19:15** → [[connections/chapters/04-numbers/Numbers 35|Numbers 35:30]] · [[connections/chapters/47-2-corinthians/2 Corinthians 13|2 Corinthians 13:1]] · [[connections/chapters/05-deuteronomy/Deuteronomy 17|Deuteronomy 17:6]] · [[connections/chapters/58-hebrews/Hebrews 10|Hebrews 10:28]] · [[connections/chapters/40-matthew/Matthew 18|Matthew 18:16]] · [[connections/chapters/43-john/John 8|John 8:17]] · [[connections/chapters/54-1-timothy/1 Timothy 5|1 Timothy 5:19]]

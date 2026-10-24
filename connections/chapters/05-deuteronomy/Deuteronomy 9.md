@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "torah"]
 
 ![[text/hebrew/05-deuteronomy#Chapter 9]]
 
+## Plain English translation
+
+![[text/english/05-deuteronomy#Chapter 9]]
+
 ## Cross-references
 
 - **9:3** → [[connections/chapters/05-deuteronomy/Deuteronomy 4|Deuteronomy 4:24]] · [[connections/chapters/45-romans/Romans 8|Romans 8:31]] · [[connections/chapters/58-hebrews/Hebrews 12|Hebrews 12:29]] · [[connections/chapters/05-deuteronomy/Deuteronomy 20|Deuteronomy 20:4]] · [[connections/chapters/05-deuteronomy/Deuteronomy 7|Deuteronomy 7:23–24]] · [[connections/chapters/06-joshua/Joshua 3|Joshua 3:11]] · [[connections/chapters/02-exodus/Exodus 23|Exodus 23:29–31]] · [[connections/chapters/33-micah/Micah 2|Micah 2:13]]

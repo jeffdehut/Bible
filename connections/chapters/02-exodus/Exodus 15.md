@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "torah"]
 
 ![[text/hebrew/02-exodus#Chapter 15]]
 
+## Plain English translation
+
+![[text/english/02-exodus#Chapter 15]]
+
 ## Cross-references
 
 - **15:1** → [[connections/chapters/66-revelation/Revelation 15|Revelation 15:3]] · [[connections/chapters/02-exodus/Exodus 15|Exodus 15:21]] · [[connections/chapters/19-psalms/Psalms 106|Psalms 106:12]] · [[connections/chapters/23-isaiah/Isaiah 12|Isaiah 12:1–6]]

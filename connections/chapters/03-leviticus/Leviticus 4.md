@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "torah"]
 
 ![[text/hebrew/03-leviticus#Chapter 4]]
 
+## Plain English translation
+
+![[text/english/03-leviticus#Chapter 4]]
+
 ## Cross-references
 
 - **4:7** → [[connections/chapters/03-leviticus/Leviticus 8|Leviticus 8:15]]

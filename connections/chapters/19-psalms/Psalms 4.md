@@ -18,6 +18,10 @@ tags: ["chapter", "ot", "wisdom"]
 
 ![[text/hebrew/19-psalms#Chapter 4]]
 
+## Plain English translation
+
+![[text/english/19-psalms#Chapter 4]]
+
 ## Cross-references
 
 - **4:2** → [[connections/chapters/47-2-corinthians/2 Corinthians 1|2 Corinthians 1:10]] · [[connections/chapters/02-exodus/Exodus 34|Exodus 34:6–7]] · [[connections/chapters/19-psalms/Psalms 40|Psalms 40:2–4]] · [[connections/chapters/19-psalms/Psalms 18|Psalms 18:19–20]] · [[connections/chapters/19-psalms/Psalms 119|Psalms 119:132]] · [[connections/chapters/19-psalms/Psalms 25|Psalms 25:16]] · [[connections/chapters/47-2-corinthians/2 Corinthians 5|2 Corinthians 5:20–21]] · [[connections/chapters/19-psalms/Psalms 17|Psalms 17:6]] · [[connections/chapters/24-jeremiah/Jeremiah 23|Jeremiah 23:6]] · [[connections/chapters/35-habakkuk/Habakkuk 3|Habakkuk 3:19]] · [[connections/chapters/23-isaiah/Isaiah 45|Isaiah 45:24]] · [[connections/chapters/19-psalms/Psalms 86|Psalms 86:3–5]]

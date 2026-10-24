@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "history"]
 
 ![[text/hebrew/17-esther#Chapter 3]]
 
+## Plain English translation
+
+![[text/english/17-esther#Chapter 3]]
+
 ## Cross-references
 
 - **3:1** → [[connections/chapters/04-numbers/Numbers 24|Numbers 24:7]]

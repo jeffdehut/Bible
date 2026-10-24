@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "torah"]
 
 ![[text/hebrew/02-exodus#Chapter 32]]
 
+## Plain English translation
+
+![[text/english/02-exodus#Chapter 32]]
+
 ## Cross-references
 
 - **32:1** → [[connections/chapters/44-acts/Acts 7|Acts 7:40]] · [[connections/chapters/05-deuteronomy/Deuteronomy 9|Deuteronomy 9:9]]

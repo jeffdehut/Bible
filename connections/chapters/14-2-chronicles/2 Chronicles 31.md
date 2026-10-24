@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "history"]
 
 ![[text/hebrew/14-2-chronicles#Chapter 31]]
 
+## Plain English translation
+
+![[text/english/14-2-chronicles#Chapter 31]]
+
 ## Cross-references
 
 - **31:21** → [[connections/chapters/40-matthew/Matthew 6|Matthew 6:33]] · [[connections/chapters/24-jeremiah/Jeremiah 29|Jeremiah 29:13]] · [[connections/chapters/06-joshua/Joshua 1|Joshua 1:7–8]] · [[connections/chapters/05-deuteronomy/Deuteronomy 6|Deuteronomy 6:5]]

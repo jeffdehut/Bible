@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "torah"]
 
 ![[text/hebrew/04-numbers#Chapter 10]]
 
+## Plain English translation
+
+![[text/english/04-numbers#Chapter 10]]
+
 ## Cross-references
 
 - **10:9** → [[connections/chapters/09-1-samuel/1 Samuel 10|1 Samuel 10:18]] · [[connections/chapters/07-judges/Judges 2|Judges 2:18]] · [[connections/chapters/01-genesis/Genesis 8|Genesis 8:1]] · [[connections/chapters/19-psalms/Psalms 106|Psalms 106:4]]

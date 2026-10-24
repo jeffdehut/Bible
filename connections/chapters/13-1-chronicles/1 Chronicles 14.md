@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "history"]
 
 ![[text/hebrew/13-1-chronicles#Chapter 14]]
 
+## Plain English translation
+
+![[text/english/13-1-chronicles#Chapter 14]]
+
 ## Cross-references
 
 - **14:17** → [[connections/chapters/05-deuteronomy/Deuteronomy 2|Deuteronomy 2:25]]

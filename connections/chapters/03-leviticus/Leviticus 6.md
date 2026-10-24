@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "torah"]
 
 ![[text/hebrew/03-leviticus#Chapter 6]]
 
+## Plain English translation
+
+![[text/english/03-leviticus#Chapter 6]]
+
 ## Cross-references
 
 - **6:5** → [[connections/chapters/03-leviticus/Leviticus 9|Leviticus 9:24]]

@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "torah"]
 
 ![[text/hebrew/03-leviticus#Chapter 5]]
 
+## Plain English translation
+
+![[text/english/03-leviticus#Chapter 5]]
+
 ## Cross-references
 
 - **5:1** → [[connections/chapters/03-leviticus/Leviticus 5|Leviticus 5:17]]

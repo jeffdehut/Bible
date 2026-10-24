@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "torah"]
 
 ![[text/hebrew/02-exodus#Chapter 29]]
 
+## Plain English translation
+
+![[text/english/02-exodus#Chapter 29]]
+
 ## Cross-references
 
 - **29:45** → [[connections/chapters/03-leviticus/Leviticus 26|Leviticus 26:12]] · [[connections/chapters/47-2-corinthians/2 Corinthians 6|2 Corinthians 6:16]]

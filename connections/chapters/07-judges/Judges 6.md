@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "history"]
 
 ![[text/hebrew/07-judges#Chapter 6]]
 
+## Plain English translation
+
+![[text/english/07-judges#Chapter 6]]
+
 ## Cross-references
 
 - **6:11** → [[connections/chapters/06-joshua/Joshua 17|Joshua 17:2]] · [[connections/chapters/58-hebrews/Hebrews 11|Hebrews 11:32]]

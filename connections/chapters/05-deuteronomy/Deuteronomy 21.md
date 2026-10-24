@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "torah"]
 
 ![[text/hebrew/05-deuteronomy#Chapter 21]]
 
+## Plain English translation
+
+![[text/english/05-deuteronomy#Chapter 21]]
+
 ## Cross-references
 
 - **21:5** → [[connections/chapters/13-1-chronicles/1 Chronicles 23|1 Chronicles 23:13]]

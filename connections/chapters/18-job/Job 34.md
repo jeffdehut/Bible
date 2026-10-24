@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "wisdom"]
 
 ![[text/hebrew/18-job#Chapter 34]]
 
+## Plain English translation
+
+![[text/english/18-job#Chapter 34]]
+
 ## Cross-references
 
 - **34:5** → [[connections/chapters/18-job/Job 27|Job 27:2]]

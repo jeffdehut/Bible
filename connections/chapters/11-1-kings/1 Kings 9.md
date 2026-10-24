@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "history"]
 
 ![[text/hebrew/11-1-kings#Chapter 9]]
 
+## Plain English translation
+
+![[text/english/11-1-kings#Chapter 9]]
+
 ## Cross-references
 
 - **9:2** → [[connections/chapters/11-1-kings/1 Kings 3|1 Kings 3:5]]

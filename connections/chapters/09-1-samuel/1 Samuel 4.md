@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "history"]
 
 ![[text/hebrew/09-1-samuel#Chapter 4]]
 
+## Plain English translation
+
+![[text/english/09-1-samuel#Chapter 4]]
+
 ## Cross-references
 
 - **4:21** → [[connections/chapters/19-psalms/Psalms 26|Psalms 26:8]] · [[connections/chapters/24-jeremiah/Jeremiah 2|Jeremiah 2:11]] · [[connections/chapters/19-psalms/Psalms 78|Psalms 78:61]]

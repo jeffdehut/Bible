@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "history"]
 
 ![[text/hebrew/11-1-kings#Chapter 22]]
 
+## Plain English translation
+
+![[text/english/11-1-kings#Chapter 22]]
+
 ## Cross-references
 
 - **22:5** → [[connections/chapters/20-proverbs/Proverbs 3|Proverbs 3:5–6]]

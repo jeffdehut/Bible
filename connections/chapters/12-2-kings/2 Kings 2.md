@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "history"]
 
 ![[text/hebrew/12-2-kings#Chapter 2]]
 
+## Plain English translation
+
+![[text/english/12-2-kings#Chapter 2]]
+
 ## Cross-references
 
 - **2:1** → [[connections/chapters/01-genesis/Genesis 5|Genesis 5:24]]

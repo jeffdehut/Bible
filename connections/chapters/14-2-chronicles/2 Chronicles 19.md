@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "history"]
 
 ![[text/hebrew/14-2-chronicles#Chapter 19]]
 
+## Plain English translation
+
+![[text/english/14-2-chronicles#Chapter 19]]
+
 ## Cross-references
 
 - **19:2** → [[connections/chapters/19-psalms/Psalms 139|Psalms 139:21–22]]

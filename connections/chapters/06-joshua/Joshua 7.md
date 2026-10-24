@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "history"]
 
 ![[text/hebrew/06-joshua#Chapter 7]]
 
+## Plain English translation
+
+![[text/english/06-joshua#Chapter 7]]
+
 ## Cross-references
 
 - **7:1** → [[connections/chapters/06-joshua/Joshua 22|Joshua 22:20]] · [[connections/chapters/21-ecclesiastes/Ecclesiastes 9|Ecclesiastes 9:18]]

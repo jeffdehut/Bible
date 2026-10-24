@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "torah"]
 
 ![[text/hebrew/01-genesis#Chapter 29]]
 
+## Plain English translation
+
+![[text/english/01-genesis#Chapter 29]]
+
 ## Cross-references
 
 - **29:10** → [[connections/chapters/02-exodus/Exodus 2|Exodus 2:17]]

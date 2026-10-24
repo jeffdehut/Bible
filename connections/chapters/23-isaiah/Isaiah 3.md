@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "prophets"]
 
 ![[text/hebrew/23-isaiah#Chapter 3]]
 
+## Plain English translation
+
+![[text/english/23-isaiah#Chapter 3]]
+
 ## Cross-references
 
 - **3:4** → [[connections/chapters/21-ecclesiastes/Ecclesiastes 10|Ecclesiastes 10:16]]

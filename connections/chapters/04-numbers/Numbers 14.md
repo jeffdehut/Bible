@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "torah"]
 
 ![[text/hebrew/04-numbers#Chapter 14]]
 
+## Plain English translation
+
+![[text/english/04-numbers#Chapter 14]]
+
 ## Cross-references
 
 - **14:5** → [[connections/chapters/04-numbers/Numbers 16|Numbers 16:4]]

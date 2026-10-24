@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "torah"]
 
 ![[text/hebrew/03-leviticus#Chapter 16]]
 
+## Plain English translation
+
+![[text/english/03-leviticus#Chapter 16]]
+
 ## Cross-references
 
 - **16:1** → [[connections/chapters/03-leviticus/Leviticus 10|Leviticus 10:1–2]]

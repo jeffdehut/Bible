@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "history"]
 
 ![[text/hebrew/14-2-chronicles#Chapter 33]]
 
+## Plain English translation
+
+![[text/english/14-2-chronicles#Chapter 33]]
+
 ## Cross-references
 
 - **33:12** → [[connections/chapters/02-exodus/Exodus 10|Exodus 10:3]] · [[connections/chapters/19-psalms/Psalms 50|Psalms 50:15]] · [[connections/chapters/14-2-chronicles/2 Chronicles 32|2 Chronicles 32:26]]

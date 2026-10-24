@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "history"]
 
 ![[text/hebrew/12-2-kings#Chapter 25]]
 
+## Plain English translation
+
+![[text/english/12-2-kings#Chapter 25]]
+
 ## Cross-references
 
 - **25:29** → [[connections/chapters/10-2-samuel/2 Samuel 9|2 Samuel 9:7]] · [[connections/chapters/23-isaiah/Isaiah 61|Isaiah 61:3]] · [[connections/chapters/17-esther/Esther 8|Esther 8:15]] · [[connections/chapters/42-luke/Luke 15|Luke 15:22]] · [[connections/chapters/38-zechariah/Zechariah 3|Zechariah 3:4]] · [[connections/chapters/12-2-kings/2 Kings 24|2 Kings 24:12]]

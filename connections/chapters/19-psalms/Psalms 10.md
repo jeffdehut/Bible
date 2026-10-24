@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "wisdom"]
 
 ![[text/hebrew/19-psalms#Chapter 10]]
 
+## Plain English translation
+
+![[text/english/19-psalms#Chapter 10]]
+
 ## Cross-references
 
 - **10:1** → [[connections/chapters/19-psalms/Psalms 22|Psalms 22:2]] · [[connections/chapters/19-psalms/Psalms 27|Psalms 27:9]] · [[connections/chapters/19-psalms/Psalms 13|Psalms 13:2–4]]

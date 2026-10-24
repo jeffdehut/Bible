@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "wisdom"]
 
 ![[text/hebrew/18-job#Chapter 9]]
 
+## Plain English translation
+
+![[text/english/18-job#Chapter 9]]
+
 ## Cross-references
 
 - **9:2** → [[connections/chapters/18-job/Job 4|Job 4:17]]

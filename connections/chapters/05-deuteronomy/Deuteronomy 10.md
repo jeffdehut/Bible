@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "torah"]
 
 ![[text/hebrew/05-deuteronomy#Chapter 10]]
 
+## Plain English translation
+
+![[text/english/05-deuteronomy#Chapter 10]]
+
 ## Cross-references
 
 - **10:12** → [[connections/chapters/33-micah/Micah 6|Micah 6:8]] · [[connections/chapters/05-deuteronomy/Deuteronomy 6|Deuteronomy 6:5]] · [[connections/chapters/42-luke/Luke 10|Luke 10:27]] · [[connections/chapters/05-deuteronomy/Deuteronomy 5|Deuteronomy 5:33]] · [[connections/chapters/05-deuteronomy/Deuteronomy 11|Deuteronomy 11:13]] · [[connections/chapters/41-mark/Mark 12|Mark 12:29–33]] · [[connections/chapters/40-matthew/Matthew 22|Matthew 22:37]] · [[connections/chapters/24-jeremiah/Jeremiah 32|Jeremiah 32:39–40]] · [[connections/chapters/62-1-john/1 John 4|1 John 4:19–20]] · [[connections/chapters/05-deuteronomy/Deuteronomy 30|Deuteronomy 30:16]] · [[connections/chapters/05-deuteronomy/Deuteronomy 4|Deuteronomy 4:29]] · [[connections/chapters/36-zephaniah/Zephaniah 3|Zephaniah 3:9]] · [[connections/chapters/58-hebrews/Hebrews 12|Hebrews 12:28]] · [[connections/chapters/56-titus/Titus 2|Titus 2:11–12]] · [[connections/chapters/60-1-peter/1 Peter 1|1 Peter 1:15–17]] · [[connections/chapters/19-psalms/Psalms 145|Psalms 145:20]] · [[connections/chapters/19-psalms/Psalms 128|Psalms 128:1]] · [[connections/chapters/26-ezekiel/Ezekiel 11|Ezekiel 11:20]] · [[connections/chapters/05-deuteronomy/Deuteronomy 6|Deuteronomy 6:13]] · [[connections/chapters/05-deuteronomy/Deuteronomy 30|Deuteronomy 30:20]] · [[connections/chapters/19-psalms/Psalms 81|Psalms 81:14]] · [[connections/chapters/06-joshua/Joshua 22|Joshua 22:5]] · [[connections/chapters/18-job/Job 36|Job 36:11]] · [[connections/chapters/62-1-john/1 John 5|1 John 5:5]] · [[connections/chapters/42-luke/Luke 11|Luke 11:42]] · [[connections/chapters/19-psalms/Psalms 34|Psalms 34:10]] · [[connections/chapters/40-matthew/Matthew 11|Matthew 11:29–30]]

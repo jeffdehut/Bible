@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "history"]
 
 ![[text/hebrew/11-1-kings#Chapter 4]]
 
+## Plain English translation
+
+![[text/english/11-1-kings#Chapter 4]]
+
 ## Cross-references
 
 - **4:4** → [[connections/chapters/11-1-kings/1 Kings 2|1 Kings 2:35]]

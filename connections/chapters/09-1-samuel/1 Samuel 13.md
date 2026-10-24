@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "history"]
 
 ![[text/hebrew/09-1-samuel#Chapter 13]]
 
+## Plain English translation
+
+![[text/english/09-1-samuel#Chapter 13]]
+
 ## Cross-references
 
 - **13:8** → [[connections/chapters/09-1-samuel/1 Samuel 10|1 Samuel 10:8]]

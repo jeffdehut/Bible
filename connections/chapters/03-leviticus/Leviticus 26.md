@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "torah"]
 
 ![[text/hebrew/03-leviticus#Chapter 26]]
 
+## Plain English translation
+
+![[text/english/03-leviticus#Chapter 26]]
+
 ## Cross-references
 
 - **26:1** → [[connections/chapters/03-leviticus/Leviticus 19|Leviticus 19:4]] · [[connections/chapters/02-exodus/Exodus 23|Exodus 23:24]] · [[connections/chapters/05-deuteronomy/Deuteronomy 27|Deuteronomy 27:15]] · [[connections/chapters/04-numbers/Numbers 33|Numbers 33:52]]

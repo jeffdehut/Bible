@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "history"]
 
 ![[text/hebrew/14-2-chronicles#Chapter 6]]
 
+## Plain English translation
+
+![[text/english/14-2-chronicles#Chapter 6]]
+
 ## Cross-references
 
 - **6:6** → [[connections/chapters/13-1-chronicles/1 Chronicles 28|1 Chronicles 28:4]] · [[connections/chapters/19-psalms/Psalms 132|Psalms 132:13]] · [[connections/chapters/14-2-chronicles/2 Chronicles 12|2 Chronicles 12:13]]

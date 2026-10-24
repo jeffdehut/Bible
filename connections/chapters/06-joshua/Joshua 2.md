@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "history"]
 
 ![[text/hebrew/06-joshua#Chapter 2]]
 
+## Plain English translation
+
+![[text/english/06-joshua#Chapter 2]]
+
 ## Cross-references
 
 - **2:1** → [[connections/chapters/58-hebrews/Hebrews 11|Hebrews 11:31]] · [[connections/chapters/59-james/James 2|James 2:25]]

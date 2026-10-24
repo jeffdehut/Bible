@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "torah"]
 
 ![[text/hebrew/01-genesis#Chapter 4]]
 
+## Plain English translation
+
+![[text/english/01-genesis#Chapter 4]]
+
 ## Cross-references
 
 - **4:1** → [[connections/chapters/62-1-john/1 John 3|1 John 3:12]]

@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "prophets"]
 
 ![[text/hebrew/23-isaiah#Chapter 7]]
 
+## Plain English translation
+
+![[text/english/23-isaiah#Chapter 7]]
+
 ## Cross-references
 
 - **7:4** → [[connections/chapters/23-isaiah/Isaiah 35|Isaiah 35:4]] · [[connections/chapters/25-lamentations/Lamentations 3|Lamentations 3:26]] · [[connections/chapters/05-deuteronomy/Deuteronomy 20|Deuteronomy 20:3]] · [[connections/chapters/23-isaiah/Isaiah 30|Isaiah 30:15]] · [[connections/chapters/40-matthew/Matthew 24|Matthew 24:6]]

@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "wisdom"]
 
 ![[text/hebrew/18-job#Chapter 30]]
 
+## Plain English translation
+
+![[text/english/18-job#Chapter 30]]
+
 ## Cross-references
 
 - **30:26** → [[connections/chapters/24-jeremiah/Jeremiah 8|Jeremiah 8:15]]

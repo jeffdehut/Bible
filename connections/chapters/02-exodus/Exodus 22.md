@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "torah"]
 
 ![[text/hebrew/02-exodus#Chapter 22]]
 
+## Plain English translation
+
+![[text/english/02-exodus#Chapter 22]]
+
 ## Cross-references
 
 - **22:1** → [[connections/chapters/40-matthew/Matthew 24|Matthew 24:43]]

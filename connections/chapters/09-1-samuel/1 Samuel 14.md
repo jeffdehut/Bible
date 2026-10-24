@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "history"]
 
 ![[text/hebrew/09-1-samuel#Chapter 14]]
 
+## Plain English translation
+
+![[text/english/09-1-samuel#Chapter 14]]
+
 ## Cross-references
 
 - **14:6** → [[connections/chapters/40-matthew/Matthew 19|Matthew 19:26]] · [[connections/chapters/45-romans/Romans 8|Romans 8:31]]

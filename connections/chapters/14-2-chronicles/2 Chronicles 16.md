@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "history"]
 
 ![[text/hebrew/14-2-chronicles#Chapter 16]]
 
+## Plain English translation
+
+![[text/english/14-2-chronicles#Chapter 16]]
+
 ## Cross-references
 
 - **16:8** → [[connections/chapters/14-2-chronicles/2 Chronicles 12|2 Chronicles 12:3]]

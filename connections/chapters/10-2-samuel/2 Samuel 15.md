@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "history"]
 
 ![[text/hebrew/10-2-samuel#Chapter 15]]
 
+## Plain English translation
+
+![[text/english/10-2-samuel#Chapter 15]]
+
 ## Cross-references
 
 - **15:21** → [[connections/chapters/20-proverbs/Proverbs 17|Proverbs 17:17]] · [[connections/chapters/08-ruth/Ruth 1|Ruth 1:16–17]]

@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "wisdom"]
 
 ![[text/hebrew/18-job#Chapter 35]]
 
+## Plain English translation
+
+![[text/english/18-job#Chapter 35]]
+
 ## Cross-references
 
 - **35:11** → [[connections/chapters/19-psalms/Psalms 94|Psalms 94:12]]

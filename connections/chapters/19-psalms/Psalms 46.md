@@ -18,6 +18,10 @@ tags: ["chapter", "ot", "wisdom"]
 
 ![[text/hebrew/19-psalms#Chapter 46]]
 
+## Plain English translation
+
+![[text/english/19-psalms#Chapter 46]]
+
 ## Cross-references
 
 - **46:2** → [[connections/chapters/19-psalms/Psalms 145|Psalms 145:18]] · [[connections/chapters/19-psalms/Psalms 9|Psalms 9:10]] · [[connections/chapters/20-proverbs/Proverbs 18|Proverbs 18:10]] · [[connections/chapters/19-psalms/Psalms 62|Psalms 62:8–9]] · [[connections/chapters/19-psalms/Psalms 91|Psalms 91:1–9]] · [[connections/chapters/19-psalms/Psalms 142|Psalms 142:6]] · [[connections/chapters/19-psalms/Psalms 46|Psalms 46:12]] · [[connections/chapters/05-deuteronomy/Deuteronomy 4|Deuteronomy 4:7]] · [[connections/chapters/20-proverbs/Proverbs 14|Proverbs 14:26]] · [[connections/chapters/10-2-samuel/2 Samuel 22|2 Samuel 22:17–20]] · [[connections/chapters/58-hebrews/Hebrews 6|Hebrews 6:18]] · [[connections/chapters/19-psalms/Psalms 46|Psalms 46:8]] · [[connections/chapters/01-genesis/Genesis 22|Genesis 22:14]] · [[connections/chapters/19-psalms/Psalms 14|Psalms 14:6]] · [[connections/chapters/42-luke/Luke 13|Luke 13:34]] · [[connections/chapters/19-psalms/Psalms 66|Psalms 66:1]] · [[connections/chapters/19-psalms/Psalms 84|Psalms 84:2]] · [[connections/chapters/19-psalms/Psalms 85|Psalms 85:2]] · [[connections/chapters/19-psalms/Psalms 48|Psalms 48:2]] · [[connections/chapters/19-psalms/Psalms 87|Psalms 87:1]]

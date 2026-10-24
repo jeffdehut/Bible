@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "history"]
 
 ![[text/hebrew/10-2-samuel#Chapter 22]]
 
+## Plain English translation
+
+![[text/english/10-2-samuel#Chapter 22]]
+
 ## Cross-references
 
 - **22:2** → [[connections/chapters/19-psalms/Psalms 18|Psalms 18:3–51]] · [[connections/chapters/19-psalms/Psalms 31|Psalms 31:4]]

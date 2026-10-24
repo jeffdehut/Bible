@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "history"]
 
 ![[text/hebrew/06-joshua#Chapter 8]]
 
+## Plain English translation
+
+![[text/english/06-joshua#Chapter 8]]
+
 ## Cross-references
 
 - **8:1** → [[connections/chapters/06-joshua/Joshua 1|Joshua 1:9]] · [[connections/chapters/05-deuteronomy/Deuteronomy 7|Deuteronomy 7:18]] · [[connections/chapters/05-deuteronomy/Deuteronomy 31|Deuteronomy 31:8]] · [[connections/chapters/05-deuteronomy/Deuteronomy 1|Deuteronomy 1:21]] · [[connections/chapters/06-joshua/Joshua 6|Joshua 6:2]]

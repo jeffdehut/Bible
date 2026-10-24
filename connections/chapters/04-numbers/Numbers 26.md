@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "torah"]
 
 ![[text/hebrew/04-numbers#Chapter 26]]
 
+## Plain English translation
+
+![[text/english/04-numbers#Chapter 26]]
+
 ## Cross-references
 
 - **26:10** → [[connections/chapters/04-numbers/Numbers 17|Numbers 17:3]]

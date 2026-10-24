@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "history"]
 
 ![[text/hebrew/06-joshua#Chapter 6]]
 
+## Plain English translation
+
+![[text/english/06-joshua#Chapter 6]]
+
 ## Cross-references
 
 - **6:1** → [[connections/chapters/06-joshua/Joshua 2|Joshua 2:24]] · [[connections/chapters/06-joshua/Joshua 2|Joshua 2:9–14]]

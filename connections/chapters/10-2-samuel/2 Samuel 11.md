@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "history"]
 
 ![[text/hebrew/10-2-samuel#Chapter 11]]
 
+## Plain English translation
+
+![[text/english/10-2-samuel#Chapter 11]]
+
 ## Cross-references
 
 - **11:1** → [[connections/chapters/13-1-chronicles/1 Chronicles 20|1 Chronicles 20:1]]

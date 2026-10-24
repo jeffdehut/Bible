@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "history"]
 
 ![[text/hebrew/14-2-chronicles#Chapter 13]]
 
+## Plain English translation
+
+![[text/english/14-2-chronicles#Chapter 13]]
+
 ## Cross-references
 
 - **13:5** → [[connections/chapters/04-numbers/Numbers 18|Numbers 18:19]] · [[connections/chapters/03-leviticus/Leviticus 2|Leviticus 2:13]]

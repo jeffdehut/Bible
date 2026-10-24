@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "history"]
 
 ![[text/hebrew/14-2-chronicles#Chapter 1]]
 
+## Plain English translation
+
+![[text/english/14-2-chronicles#Chapter 1]]
+
 ## Cross-references
 
 - **1:7** → [[connections/chapters/40-matthew/Matthew 7|Matthew 7:7–8]] · [[connections/chapters/62-1-john/1 John 5|1 John 5:14–15]] · [[connections/chapters/43-john/John 16|John 16:23]]

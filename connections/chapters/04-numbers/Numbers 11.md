@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "torah"]
 
 ![[text/hebrew/04-numbers#Chapter 11]]
 
+## Plain English translation
+
+![[text/english/04-numbers#Chapter 11]]
+
 ## Cross-references
 
 - **11:1** → [[connections/chapters/04-numbers/Numbers 21|Numbers 21:5]]

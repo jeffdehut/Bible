@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "torah"]
 
 ![[text/hebrew/01-genesis#Chapter 11]]
 
+## Plain English translation
+
+![[text/english/01-genesis#Chapter 11]]
+
 ## Cross-references
 
 - **11:1** → [[connections/chapters/44-acts/Acts 2|Acts 2:6]] · [[connections/chapters/36-zephaniah/Zephaniah 3|Zephaniah 3:9]]

@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "torah"]
 
 ![[text/hebrew/01-genesis#Chapter 22]]
 
+## Plain English translation
+
+![[text/english/01-genesis#Chapter 22]]
+
 ## Cross-references
 
 - **22:1** → [[connections/chapters/58-hebrews/Hebrews 11|Hebrews 11:17]] · [[connections/chapters/05-deuteronomy/Deuteronomy 8|Deuteronomy 8:2]] · [[connections/chapters/59-james/James 2|James 2:21]] · [[connections/chapters/59-james/James 1|James 1:12–14]] · [[connections/chapters/46-1-corinthians/1 Corinthians 10|1 Corinthians 10:13]] · [[connections/chapters/60-1-peter/1 Peter 1|1 Peter 1:7]] · [[connections/chapters/20-proverbs/Proverbs 17|Proverbs 17:3]] · [[connections/chapters/01-genesis/Genesis 22|Genesis 22:7]] · [[connections/chapters/01-genesis/Genesis 22|Genesis 22:11]] · [[connections/chapters/05-deuteronomy/Deuteronomy 8|Deuteronomy 8:16]] · [[connections/chapters/02-exodus/Exodus 15|Exodus 15:25–26]]

@@ -18,6 +18,10 @@ tags: ["chapter", "ot", "history"]
 
 ![[text/hebrew/13-1-chronicles#Chapter 7]]
 
+## Plain English translation
+
+![[text/english/13-1-chronicles#Chapter 7]]
+
 ## Cross-references
 
 - **7:30** → [[connections/chapters/01-genesis/Genesis 46|Genesis 46:17]]

@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "torah"]
 
 ![[text/hebrew/05-deuteronomy#Chapter 8]]
 
+## Plain English translation
+
+![[text/english/05-deuteronomy#Chapter 8]]
+
 ## Cross-references
 
 - **8:1** → [[connections/chapters/05-deuteronomy/Deuteronomy 4|Deuteronomy 4:1]] · [[connections/chapters/05-deuteronomy/Deuteronomy 5|Deuteronomy 5:32–6:3]] · [[connections/chapters/52-1-thessalonians/1 Thessalonians 4|1 Thessalonians 4:1–2]]

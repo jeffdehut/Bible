@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "torah"]
 
 ![[text/hebrew/05-deuteronomy#Chapter 20]]
 
+## Plain English translation
+
+![[text/english/05-deuteronomy#Chapter 20]]
+
 ## Cross-references
 
 - **20:1** → [[connections/chapters/14-2-chronicles/2 Chronicles 32|2 Chronicles 32:7–8]] · [[connections/chapters/05-deuteronomy/Deuteronomy 31|Deuteronomy 31:8]] · [[connections/chapters/19-psalms/Psalms 20|Psalms 20:8]] · [[connections/chapters/05-deuteronomy/Deuteronomy 31|Deuteronomy 31:6]] · [[connections/chapters/23-isaiah/Isaiah 43|Isaiah 43:2]] · [[connections/chapters/45-romans/Romans 8|Romans 8:31]] · [[connections/chapters/06-joshua/Joshua 1|Joshua 1:5]] · [[connections/chapters/23-isaiah/Isaiah 31|Isaiah 31:1]] · [[connections/chapters/23-isaiah/Isaiah 8|Isaiah 8:9–10]] · [[connections/chapters/06-joshua/Joshua 1|Joshua 1:9]] · [[connections/chapters/19-psalms/Psalms 118|Psalms 118:6]] · [[connections/chapters/23-isaiah/Isaiah 7|Isaiah 7:14]]

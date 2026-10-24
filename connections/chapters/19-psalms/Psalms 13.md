@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "wisdom"]
 
 ![[text/hebrew/19-psalms#Chapter 13]]
 
+## Plain English translation
+
+![[text/english/19-psalms#Chapter 13]]
+
 ## Cross-references
 
 - **13:2** → [[connections/chapters/18-job/Job 13|Job 13:24]] · [[connections/chapters/25-lamentations/Lamentations 5|Lamentations 5:20]] · [[connections/chapters/19-psalms/Psalms 89|Psalms 89:47]] · [[connections/chapters/19-psalms/Psalms 94|Psalms 94:3–4]] · [[connections/chapters/19-psalms/Psalms 22|Psalms 22:2–3]] · [[connections/chapters/19-psalms/Psalms 80|Psalms 80:5]] · [[connections/chapters/19-psalms/Psalms 44|Psalms 44:25]] · [[connections/chapters/19-psalms/Psalms 6|Psalms 6:4]] · [[connections/chapters/19-psalms/Psalms 35|Psalms 35:17]] · [[connections/chapters/19-psalms/Psalms 74|Psalms 74:1]] · [[connections/chapters/19-psalms/Psalms 10|Psalms 10:12]] · [[connections/chapters/19-psalms/Psalms 85|Psalms 85:6]]

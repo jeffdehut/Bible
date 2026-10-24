@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "torah"]
 
 ![[text/hebrew/05-deuteronomy#Chapter 24]]
 
+## Plain English translation
+
+![[text/english/05-deuteronomy#Chapter 24]]
+
 ## Cross-references
 
 - **24:1** → [[connections/chapters/40-matthew/Matthew 19|Matthew 19:7–9]]

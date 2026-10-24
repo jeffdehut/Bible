@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "prophets"]
 
 ![[text/hebrew/23-isaiah#Chapter 8]]
 
+## Plain English translation
+
+![[text/english/23-isaiah#Chapter 8]]
+
 ## Cross-references
 
 - **8:8** → [[connections/chapters/23-isaiah/Isaiah 7|Isaiah 7:14]]

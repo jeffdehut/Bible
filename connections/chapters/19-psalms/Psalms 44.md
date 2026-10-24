@@ -18,6 +18,10 @@ tags: ["chapter", "ot", "wisdom"]
 
 ![[text/hebrew/19-psalms#Chapter 44]]
 
+## Plain English translation
+
+![[text/english/19-psalms#Chapter 44]]
+
 ## Cross-references
 
 - **44:2** → [[connections/chapters/19-psalms/Psalms 78|Psalms 78:3–6]] · [[connections/chapters/02-exodus/Exodus 13|Exodus 13:14–15]]

@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "history"]
 
 ![[text/hebrew/11-1-kings#Chapter 16]]
 
+## Plain English translation
+
+![[text/english/11-1-kings#Chapter 16]]
+
 ## Cross-references
 
 - **16:34** → [[connections/chapters/06-joshua/Joshua 6|Joshua 6:26]]

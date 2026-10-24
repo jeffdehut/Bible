@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "history"]
 
 ![[text/hebrew/12-2-kings#Chapter 24]]
 
+## Plain English translation
+
+![[text/english/12-2-kings#Chapter 24]]
+
 ## Cross-references
 
 *No cross-references with at least 8 votes.*

@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "torah"]
 
 ![[text/hebrew/02-exodus#Chapter 13]]
 
+## Plain English translation
+
+![[text/english/02-exodus#Chapter 13]]
+
 ## Cross-references
 
 - **13:2** → [[connections/chapters/42-luke/Luke 2|Luke 2:23]] · [[connections/chapters/04-numbers/Numbers 3|Numbers 3:13]] · [[connections/chapters/05-deuteronomy/Deuteronomy 15|Deuteronomy 15:19]] · [[connections/chapters/02-exodus/Exodus 22|Exodus 22:28–29]] · [[connections/chapters/04-numbers/Numbers 8|Numbers 8:16–17]] · [[connections/chapters/04-numbers/Numbers 18|Numbers 18:15]] · [[connections/chapters/02-exodus/Exodus 13|Exodus 13:12–15]] · [[connections/chapters/02-exodus/Exodus 34|Exodus 34:19–20]] · [[connections/chapters/03-leviticus/Leviticus 27|Leviticus 27:26]]

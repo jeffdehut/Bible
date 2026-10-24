@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "torah"]
 
 ![[text/hebrew/02-exodus#Chapter 40]]
 
+## Plain English translation
+
+![[text/english/02-exodus#Chapter 40]]
+
 ## Cross-references
 
 - **40:34** → [[connections/chapters/66-revelation/Revelation 15|Revelation 15:8]] · [[connections/chapters/04-numbers/Numbers 9|Numbers 9:15–23]] · [[connections/chapters/14-2-chronicles/2 Chronicles 7|2 Chronicles 7:2]]

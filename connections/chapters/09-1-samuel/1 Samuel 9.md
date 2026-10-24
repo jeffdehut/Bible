@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "history"]
 
 ![[text/hebrew/09-1-samuel#Chapter 9]]
 
+## Plain English translation
+
+![[text/english/09-1-samuel#Chapter 9]]
+
 ## Cross-references
 
 - **9:1** → [[connections/chapters/09-1-samuel/1 Samuel 14|1 Samuel 14:51]]

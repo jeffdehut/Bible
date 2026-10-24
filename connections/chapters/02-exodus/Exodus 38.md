@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "torah"]
 
 ![[text/hebrew/02-exodus#Chapter 38]]
 
+## Plain English translation
+
+![[text/english/02-exodus#Chapter 38]]
+
 ## Cross-references
 
 - **38:26** → [[connections/chapters/04-numbers/Numbers 1|Numbers 1:46]]

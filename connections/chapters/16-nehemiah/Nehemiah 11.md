@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "history"]
 
 ![[text/hebrew/16-nehemiah#Chapter 11]]
 
+## Plain English translation
+
+![[text/english/16-nehemiah#Chapter 11]]
+
 ## Cross-references
 
 - **11:2** → [[connections/chapters/07-judges/Judges 5|Judges 5:9]]

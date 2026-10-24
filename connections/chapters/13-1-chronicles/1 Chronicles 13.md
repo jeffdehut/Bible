@@ -18,6 +18,10 @@ tags: ["chapter", "ot", "history"]
 
 ![[text/hebrew/13-1-chronicles#Chapter 13]]
 
+## Plain English translation
+
+![[text/english/13-1-chronicles#Chapter 13]]
+
 ## Cross-references
 
 - **13:14** → [[connections/chapters/13-1-chronicles/1 Chronicles 26|1 Chronicles 26:4–5]] · [[connections/chapters/20-proverbs/Proverbs 10|Proverbs 10:22]]

@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "torah"]
 
 ![[text/hebrew/02-exodus#Chapter 21]]
 
+## Plain English translation
+
+![[text/english/02-exodus#Chapter 21]]
+
 ## Cross-references
 
 - **21:16** → [[connections/chapters/05-deuteronomy/Deuteronomy 24|Deuteronomy 24:7]]

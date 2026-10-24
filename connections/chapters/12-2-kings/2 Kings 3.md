@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "history"]
 
 ![[text/hebrew/12-2-kings#Chapter 3]]
 
+## Plain English translation
+
+![[text/english/12-2-kings#Chapter 3]]
+
 ## Cross-references
 
 - **3:15** → [[connections/chapters/09-1-samuel/1 Samuel 16|1 Samuel 16:23]] · [[connections/chapters/49-ephesians/Ephesians 5|Ephesians 5:18–19]] · [[connections/chapters/09-1-samuel/1 Samuel 10|1 Samuel 10:5]] · [[connections/chapters/26-ezekiel/Ezekiel 1|Ezekiel 1:3]]

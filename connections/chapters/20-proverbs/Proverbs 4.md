@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "wisdom"]
 
 ![[text/hebrew/20-proverbs#Chapter 4]]
 
+## Plain English translation
+
+![[text/english/20-proverbs#Chapter 4]]
+
 ## Cross-references
 
 - **4:1** → [[connections/chapters/58-hebrews/Hebrews 2|Hebrews 2:1]] · [[connections/chapters/19-psalms/Psalms 34|Psalms 34:12]] · [[connections/chapters/20-proverbs/Proverbs 1|Proverbs 1:8]]

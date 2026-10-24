@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "history"]
 
 ![[text/hebrew/16-nehemiah#Chapter 10]]
 
+## Plain English translation
+
+![[text/english/16-nehemiah#Chapter 10]]
+
 ## Cross-references
 
 - **10:31** → [[connections/chapters/05-deuteronomy/Deuteronomy 7|Deuteronomy 7:3]]

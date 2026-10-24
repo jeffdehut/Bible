@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "wisdom"]
 
 ![[text/hebrew/18-job#Chapter 37]]
 
+## Plain English translation
+
+![[text/english/18-job#Chapter 37]]
+
 ## Cross-references
 
 - **37:5** → [[connections/chapters/18-job/Job 5|Job 5:9]] · [[connections/chapters/45-romans/Romans 11|Romans 11:33]]

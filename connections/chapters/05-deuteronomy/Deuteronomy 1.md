@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "torah"]
 
 ![[text/hebrew/05-deuteronomy#Chapter 1]]
 
+## Plain English translation
+
+![[text/english/05-deuteronomy#Chapter 1]]
+
 ## Cross-references
 
 - **1:6** → [[connections/chapters/02-exodus/Exodus 3|Exodus 3:1]]

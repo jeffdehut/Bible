@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "torah"]
 
 ![[text/hebrew/05-deuteronomy#Chapter 29]]
 
+## Plain English translation
+
+![[text/english/05-deuteronomy#Chapter 29]]
+
 ## Cross-references
 
 - **29:3** → [[connections/chapters/49-ephesians/Ephesians 4|Ephesians 4:18]] · [[connections/chapters/23-isaiah/Isaiah 6|Isaiah 6:9–10]]

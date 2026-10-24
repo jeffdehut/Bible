@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "wisdom"]
 
 ![[text/hebrew/20-proverbs#Chapter 3]]
 
+## Plain English translation
+
+![[text/english/20-proverbs#Chapter 3]]
+
 ## Cross-references
 
 - **3:1** → [[connections/chapters/43-john/John 14|John 14:21–24]] · [[connections/chapters/20-proverbs/Proverbs 4|Proverbs 4:5]] · [[connections/chapters/05-deuteronomy/Deuteronomy 6|Deuteronomy 6:6–9]] · [[connections/chapters/19-psalms/Psalms 119|Psalms 119:16]] · [[connections/chapters/20-proverbs/Proverbs 1|Proverbs 1:8]] · [[connections/chapters/19-psalms/Psalms 119|Psalms 119:34]] · [[connections/chapters/19-psalms/Psalms 119|Psalms 119:93]] · [[connections/chapters/24-jeremiah/Jeremiah 31|Jeremiah 31:33]] · [[connections/chapters/05-deuteronomy/Deuteronomy 8|Deuteronomy 8:1]] · [[connections/chapters/19-psalms/Psalms 119|Psalms 119:11]] · [[connections/chapters/19-psalms/Psalms 119|Psalms 119:47–48]] · [[connections/chapters/19-psalms/Psalms 119|Psalms 119:153]] · [[connections/chapters/28-hosea/Hosea 4|Hosea 4:6]] · [[connections/chapters/05-deuteronomy/Deuteronomy 4|Deuteronomy 4:9]] · [[connections/chapters/05-deuteronomy/Deuteronomy 30|Deuteronomy 30:16–20]] · [[connections/chapters/19-psalms/Psalms 119|Psalms 119:176]]

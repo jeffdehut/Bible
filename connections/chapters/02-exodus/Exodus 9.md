@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "torah"]
 
 ![[text/hebrew/02-exodus#Chapter 9]]
 
+## Plain English translation
+
+![[text/english/02-exodus#Chapter 9]]
+
 ## Cross-references
 
 - **9:16** → [[connections/chapters/45-romans/Romans 9|Romans 9:17]] · [[connections/chapters/20-proverbs/Proverbs 16|Proverbs 16:4]] · [[connections/chapters/19-psalms/Psalms 83|Psalms 83:18–19]]

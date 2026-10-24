@@ -18,6 +18,10 @@ tags: ["chapter", "ot", "wisdom"]
 
 ![[text/hebrew/19-psalms#Chapter 12]]
 
+## Plain English translation
+
+![[text/english/19-psalms#Chapter 12]]
+
 ## Cross-references
 
 - **12:2** → [[connections/chapters/23-isaiah/Isaiah 57|Isaiah 57:1]] · [[connections/chapters/24-jeremiah/Jeremiah 5|Jeremiah 5:1]] · [[connections/chapters/40-matthew/Matthew 24|Matthew 24:12]] · [[connections/chapters/23-isaiah/Isaiah 59|Isaiah 59:13–15]] · [[connections/chapters/23-isaiah/Isaiah 1|Isaiah 1:21–22]] · [[connections/chapters/19-psalms/Psalms 6|Psalms 6:2]] · [[connections/chapters/23-isaiah/Isaiah 63|Isaiah 63:5]] · [[connections/chapters/33-micah/Micah 7|Micah 7:1–2]] · [[connections/chapters/01-genesis/Genesis 6|Genesis 6:12]] · [[connections/chapters/20-proverbs/Proverbs 20|Proverbs 20:6]]

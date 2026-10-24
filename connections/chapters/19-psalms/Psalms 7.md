@@ -18,6 +18,10 @@ tags: ["chapter", "ot", "wisdom"]
 
 ![[text/hebrew/19-psalms#Chapter 7]]
 
+## Plain English translation
+
+![[text/english/19-psalms#Chapter 7]]
+
 ## Cross-references
 
 - **7:2** → [[connections/chapters/19-psalms/Psalms 31|Psalms 31:16]]

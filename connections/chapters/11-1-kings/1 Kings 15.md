@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "history"]
 
 ![[text/hebrew/11-1-kings#Chapter 15]]
 
+## Plain English translation
+
+![[text/english/11-1-kings#Chapter 15]]
+
 ## Cross-references
 
 - **15:5** → [[connections/chapters/11-1-kings/1 Kings 14|1 Kings 14:8]]

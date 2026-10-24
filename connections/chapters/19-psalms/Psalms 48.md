@@ -18,6 +18,10 @@ tags: ["chapter", "ot", "wisdom"]
 
 ![[text/hebrew/19-psalms#Chapter 48]]
 
+## Plain English translation
+
+![[text/english/19-psalms#Chapter 48]]
+
 ## Cross-references
 
 - **48:2** → [[connections/chapters/33-micah/Micah 4|Micah 4:1]] · [[connections/chapters/38-zechariah/Zechariah 8|Zechariah 8:3]] · [[connections/chapters/23-isaiah/Isaiah 2|Isaiah 2:2–3]] · [[connections/chapters/19-psalms/Psalms 96|Psalms 96:4]] · [[connections/chapters/19-psalms/Psalms 46|Psalms 46:5]] · [[connections/chapters/19-psalms/Psalms 145|Psalms 145:3]]

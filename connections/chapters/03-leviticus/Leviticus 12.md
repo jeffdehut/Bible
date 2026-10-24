@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "torah"]
 
 ![[text/hebrew/03-leviticus#Chapter 12]]
 
+## Plain English translation
+
+![[text/english/03-leviticus#Chapter 12]]
+
 ## Cross-references
 
 - **12:3** → [[connections/chapters/42-luke/Luke 2|Luke 2:21]] · [[connections/chapters/42-luke/Luke 1|Luke 1:59]] · [[connections/chapters/43-john/John 7|John 7:22–23]]

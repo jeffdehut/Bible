@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "torah"]
 
 ![[text/hebrew/01-genesis#Chapter 7]]
 
+## Plain English translation
+
+![[text/english/01-genesis#Chapter 7]]
+
 ## Cross-references
 
 - **7:1** → [[connections/chapters/40-matthew/Matthew 24|Matthew 24:37–39]] · [[connections/chapters/61-2-peter/2 Peter 2|2 Peter 2:5–9]] · [[connections/chapters/01-genesis/Genesis 6|Genesis 6:9]] · [[connections/chapters/58-hebrews/Hebrews 11|Hebrews 11:7]] · [[connections/chapters/01-genesis/Genesis 7|Genesis 7:13]] · [[connections/chapters/23-isaiah/Isaiah 3|Isaiah 3:10–11]] · [[connections/chapters/60-1-peter/1 Peter 3|1 Peter 3:20]] · [[connections/chapters/26-ezekiel/Ezekiel 9|Ezekiel 9:4–6]] · [[connections/chapters/42-luke/Luke 17|Luke 17:26]]

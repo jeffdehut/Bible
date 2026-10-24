@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "history"]
 
 ![[text/hebrew/07-judges#Chapter 18]]
 
+## Plain English translation
+
+![[text/english/07-judges#Chapter 18]]
+
 ## Cross-references
 
 *No cross-references with at least 8 votes.*

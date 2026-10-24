@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "history"]
 
 ![[text/hebrew/09-1-samuel#Chapter 8]]
 
+## Plain English translation
+
+![[text/english/09-1-samuel#Chapter 8]]
+
 ## Cross-references
 
 - **8:3** → [[connections/chapters/05-deuteronomy/Deuteronomy 16|Deuteronomy 16:19]]

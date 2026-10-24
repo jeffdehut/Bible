@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "history"]
 
 ![[text/hebrew/13-1-chronicles#Chapter 18]]
 
+## Plain English translation
+
+![[text/english/13-1-chronicles#Chapter 18]]
+
 ## Cross-references
 
 - **18:16** → [[connections/chapters/10-2-samuel/2 Samuel 8|2 Samuel 8:17]]

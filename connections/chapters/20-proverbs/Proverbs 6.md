@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "wisdom"]
 
 ![[text/hebrew/20-proverbs#Chapter 6]]
 
+## Plain English translation
+
+![[text/english/20-proverbs#Chapter 6]]
+
 ## Cross-references
 
 - **6:1** → [[connections/chapters/20-proverbs/Proverbs 17|Proverbs 17:18]] · [[connections/chapters/20-proverbs/Proverbs 22|Proverbs 22:26]] · [[connections/chapters/20-proverbs/Proverbs 11|Proverbs 11:15]] · [[connections/chapters/20-proverbs/Proverbs 20|Proverbs 20:16]]

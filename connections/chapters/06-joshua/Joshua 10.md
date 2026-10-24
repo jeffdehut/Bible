@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "history"]
 
 ![[text/hebrew/06-joshua#Chapter 10]]
 
+## Plain English translation
+
+![[text/english/06-joshua#Chapter 10]]
+
 ## Cross-references
 
 - **10:8** → [[connections/chapters/45-romans/Romans 8|Romans 8:31]] · [[connections/chapters/06-joshua/Joshua 11|Joshua 11:6]] · [[connections/chapters/19-psalms/Psalms 27|Psalms 27:1–2]] · [[connections/chapters/05-deuteronomy/Deuteronomy 3|Deuteronomy 3:2]] · [[connections/chapters/23-isaiah/Isaiah 41|Isaiah 41:10–15]] · [[connections/chapters/06-joshua/Joshua 1|Joshua 1:5–9]] · [[connections/chapters/07-judges/Judges 4|Judges 4:14–15]]

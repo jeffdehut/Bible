@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "wisdom"]
 
 ![[text/hebrew/20-proverbs#Chapter 9]]
 
+## Plain English translation
+
+![[text/english/20-proverbs#Chapter 9]]
+
 ## Cross-references
 
 - **9:6** → [[connections/chapters/20-proverbs/Proverbs 13|Proverbs 13:20]]

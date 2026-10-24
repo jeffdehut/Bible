@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "history"]
 
 ![[text/hebrew/09-1-samuel#Chapter 7]]
 
+## Plain English translation
+
+![[text/english/09-1-samuel#Chapter 7]]
+
 ## Cross-references
 
 - **7:3** → [[connections/chapters/42-luke/Luke 4|Luke 4:8]] · [[connections/chapters/05-deuteronomy/Deuteronomy 13|Deuteronomy 13:5]] · [[connections/chapters/40-matthew/Matthew 4|Matthew 4:10]] · [[connections/chapters/05-deuteronomy/Deuteronomy 6|Deuteronomy 6:13]] · [[connections/chapters/23-isaiah/Isaiah 55|Isaiah 55:7]] · [[connections/chapters/06-joshua/Joshua 24|Joshua 24:14]] · [[connections/chapters/43-john/John 4|John 4:24]] · [[connections/chapters/05-deuteronomy/Deuteronomy 10|Deuteronomy 10:20]] · [[connections/chapters/06-joshua/Joshua 24|Joshua 24:23]] · [[connections/chapters/29-joel/Joel 2|Joel 2:12–13]] · [[connections/chapters/11-1-kings/1 Kings 8|1 Kings 8:48]] · [[connections/chapters/05-deuteronomy/Deuteronomy 30|Deuteronomy 30:2–10]] · [[connections/chapters/28-hosea/Hosea 6|Hosea 6:1–2]] · [[connections/chapters/40-matthew/Matthew 6|Matthew 6:24]] · [[connections/chapters/40-matthew/Matthew 15|Matthew 15:8]] · [[connections/chapters/07-judges/Judges 10|Judges 10:6]] · [[connections/chapters/01-genesis/Genesis 35|Genesis 35:2]] · [[connections/chapters/13-1-chronicles/1 Chronicles 22|1 Chronicles 22:19]] · [[connections/chapters/24-jeremiah/Jeremiah 4|Jeremiah 4:3–4]] · [[connections/chapters/13-1-chronicles/1 Chronicles 28|1 Chronicles 28:9]] · [[connections/chapters/26-ezekiel/Ezekiel 18|Ezekiel 18:31]] · [[connections/chapters/18-job/Job 11|Job 11:13–14]] · [[connections/chapters/20-proverbs/Proverbs 16|Proverbs 16:1]] · [[connections/chapters/07-judges/Judges 10|Judges 10:16]] · [[connections/chapters/14-2-chronicles/2 Chronicles 19|2 Chronicles 19:3]] · [[connections/chapters/14-2-chronicles/2 Chronicles 30|2 Chronicles 30:19]] · [[connections/chapters/28-hosea/Hosea 14|Hosea 14:2]] · [[connections/chapters/07-judges/Judges 2|Judges 2:13]] · [[connections/chapters/09-1-samuel/1 Samuel 31|1 Samuel 31:10]]

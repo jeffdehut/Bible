@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "torah"]
 
 ![[text/hebrew/04-numbers#Chapter 6]]
 
+## Plain English translation
+
+![[text/english/04-numbers#Chapter 6]]
+
 ## Cross-references
 
 - **6:2** → [[connections/chapters/07-judges/Judges 13|Judges 13:5]]

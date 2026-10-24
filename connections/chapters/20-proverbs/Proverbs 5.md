@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "wisdom"]
 
 ![[text/hebrew/20-proverbs#Chapter 5]]
 
+## Plain English translation
+
+![[text/english/20-proverbs#Chapter 5]]
+
 ## Cross-references
 
 - **5:1** → [[connections/chapters/20-proverbs/Proverbs 22|Proverbs 22:17]]

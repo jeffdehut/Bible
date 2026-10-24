@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "torah"]
 
 ![[text/hebrew/01-genesis#Chapter 10]]
 
+## Plain English translation
+
+![[text/english/01-genesis#Chapter 10]]
+
 ## Cross-references
 
 - **10:10** → [[connections/chapters/01-genesis/Genesis 11|Genesis 11:9]]

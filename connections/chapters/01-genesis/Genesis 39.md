@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "torah"]
 
 ![[text/hebrew/01-genesis#Chapter 39]]
 
+## Plain English translation
+
+![[text/english/01-genesis#Chapter 39]]
+
 ## Cross-references
 
 - **39:2** → [[connections/chapters/09-1-samuel/1 Samuel 18|1 Samuel 18:14]] · [[connections/chapters/19-psalms/Psalms 91|Psalms 91:15]] · [[connections/chapters/24-jeremiah/Jeremiah 15|Jeremiah 15:20]] · [[connections/chapters/01-genesis/Genesis 26|Genesis 26:28]] · [[connections/chapters/44-acts/Acts 7|Acts 7:9–10]] · [[connections/chapters/01-genesis/Genesis 21|Genesis 21:22]] · [[connections/chapters/23-isaiah/Isaiah 43|Isaiah 43:2]] · [[connections/chapters/01-genesis/Genesis 26|Genesis 26:24]] · [[connections/chapters/01-genesis/Genesis 39|Genesis 39:21–22]] · [[connections/chapters/23-isaiah/Isaiah 41|Isaiah 41:10]] · [[connections/chapters/19-psalms/Psalms 1|Psalms 1:3]] · [[connections/chapters/01-genesis/Genesis 28|Genesis 28:15]] · [[connections/chapters/19-psalms/Psalms 46|Psalms 46:12]] · [[connections/chapters/09-1-samuel/1 Samuel 16|1 Samuel 16:18]] · [[connections/chapters/19-psalms/Psalms 46|Psalms 46:8]] · [[connections/chapters/46-1-corinthians/1 Corinthians 7|1 Corinthians 7:20–24]] · [[connections/chapters/09-1-samuel/1 Samuel 3|1 Samuel 3:19]] · [[connections/chapters/23-isaiah/Isaiah 8|Isaiah 8:9–10]] · [[connections/chapters/09-1-samuel/1 Samuel 18|1 Samuel 18:28]]

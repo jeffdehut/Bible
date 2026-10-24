@@ -18,6 +18,10 @@ tags: ["chapter", "ot", "wisdom"]
 
 ![[text/hebrew/19-psalms#Chapter 15]]
 
+## Plain English translation
+
+![[text/english/19-psalms#Chapter 15]]
+
 ## Cross-references
 
 - **15:1** → [[connections/chapters/19-psalms/Psalms 24|Psalms 24:3–5]] · [[connections/chapters/19-psalms/Psalms 84|Psalms 84:5]] · [[connections/chapters/19-psalms/Psalms 61|Psalms 61:5]] · [[connections/chapters/19-psalms/Psalms 92|Psalms 92:14]] · [[connections/chapters/19-psalms/Psalms 23|Psalms 23:6]] · [[connections/chapters/66-revelation/Revelation 21|Revelation 21:23–24]] · [[connections/chapters/19-psalms/Psalms 43|Psalms 43:3–4]] · [[connections/chapters/66-revelation/Revelation 21|Revelation 21:3–4]] · [[connections/chapters/58-hebrews/Hebrews 12|Hebrews 12:22]] · [[connections/chapters/43-john/John 17|John 17:24]]

@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "torah"]
 
 ![[text/hebrew/02-exodus#Chapter 2]]
 
+## Plain English translation
+
+![[text/english/02-exodus#Chapter 2]]
+
 ## Cross-references
 
 - **2:1** → [[connections/chapters/04-numbers/Numbers 26|Numbers 26:59]]

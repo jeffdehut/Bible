@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "history"]
 
 ![[text/hebrew/17-esther#Chapter 7]]
 
+## Plain English translation
+
+![[text/english/17-esther#Chapter 7]]
+
 ## Cross-references
 
 - **7:9** → [[connections/chapters/19-psalms/Psalms 7|Psalms 7:16–17]] · [[connections/chapters/20-proverbs/Proverbs 11|Proverbs 11:5–6]]

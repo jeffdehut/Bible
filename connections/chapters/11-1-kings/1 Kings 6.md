@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "history"]
 
 ![[text/hebrew/11-1-kings#Chapter 6]]
 
+## Plain English translation
+
+![[text/english/11-1-kings#Chapter 6]]
+
 ## Cross-references
 
 - **6:7** → [[connections/chapters/05-deuteronomy/Deuteronomy 27|Deuteronomy 27:5–6]] · [[connections/chapters/60-1-peter/1 Peter 2|1 Peter 2:5]]

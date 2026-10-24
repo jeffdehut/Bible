@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "torah"]
 
 ![[text/hebrew/05-deuteronomy#Chapter 11]]
 
+## Plain English translation
+
+![[text/english/05-deuteronomy#Chapter 11]]
+
 ## Cross-references
 
 - **11:1** → [[connections/chapters/05-deuteronomy/Deuteronomy 6|Deuteronomy 6:5]] · [[connections/chapters/42-luke/Luke 1|Luke 1:74–75]] · [[connections/chapters/05-deuteronomy/Deuteronomy 10|Deuteronomy 10:12]] · [[connections/chapters/05-deuteronomy/Deuteronomy 30|Deuteronomy 30:16–20]] · [[connections/chapters/03-leviticus/Leviticus 8|Leviticus 8:35]] · [[connections/chapters/05-deuteronomy/Deuteronomy 6|Deuteronomy 6:1]] · [[connections/chapters/05-deuteronomy/Deuteronomy 4|Deuteronomy 4:40]] · [[connections/chapters/38-zechariah/Zechariah 3|Zechariah 3:7]]

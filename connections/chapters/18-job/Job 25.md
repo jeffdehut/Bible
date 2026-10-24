@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "wisdom"]
 
 ![[text/hebrew/18-job#Chapter 25]]
 
+## Plain English translation
+
+![[text/english/18-job#Chapter 25]]
+
 ## Cross-references
 
 - **25:4** → [[connections/chapters/45-romans/Romans 5|Romans 5:1]] · [[connections/chapters/19-psalms/Psalms 130|Psalms 130:3]] · [[connections/chapters/18-job/Job 4|Job 4:17–19]] · [[connections/chapters/18-job/Job 9|Job 9:2]] · [[connections/chapters/18-job/Job 15|Job 15:14–16]]

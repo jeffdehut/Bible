@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "torah"]
 
 ![[text/hebrew/05-deuteronomy#Chapter 27]]
 
+## Plain English translation
+
+![[text/english/05-deuteronomy#Chapter 27]]
+
 ## Cross-references
 
 - **27:16** → [[connections/chapters/03-leviticus/Leviticus 19|Leviticus 19:3]]

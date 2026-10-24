@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "history"]
 
 ![[text/hebrew/16-nehemiah#Chapter 9]]
 
+## Plain English translation
+
+![[text/english/16-nehemiah#Chapter 9]]
+
 ## Cross-references
 
 - **9:2** → [[connections/chapters/16-nehemiah/Nehemiah 13|Nehemiah 13:3]] · [[connections/chapters/15-ezra/Ezra 10|Ezra 10:11]] · [[connections/chapters/27-daniel/Daniel 9|Daniel 9:3–10]] · [[connections/chapters/16-nehemiah/Nehemiah 13|Nehemiah 13:30]]

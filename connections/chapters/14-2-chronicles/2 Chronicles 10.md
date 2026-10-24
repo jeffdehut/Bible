@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "history"]
 
 ![[text/hebrew/14-2-chronicles#Chapter 10]]
 
+## Plain English translation
+
+![[text/english/14-2-chronicles#Chapter 10]]
+
 ## Cross-references
 
 - **10:15** → [[connections/chapters/11-1-kings/1 Kings 11|1 Kings 11:29–39]] · [[connections/chapters/09-1-samuel/1 Samuel 2|1 Samuel 2:25]]

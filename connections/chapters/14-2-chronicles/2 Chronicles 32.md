@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "history"]
 
 ![[text/hebrew/14-2-chronicles#Chapter 32]]
 
+## Plain English translation
+
+![[text/english/14-2-chronicles#Chapter 32]]
+
 ## Cross-references
 
 - **32:7** → [[connections/chapters/12-2-kings/2 Kings 6|2 Kings 6:16]] · [[connections/chapters/45-romans/Romans 8|Romans 8:31]]

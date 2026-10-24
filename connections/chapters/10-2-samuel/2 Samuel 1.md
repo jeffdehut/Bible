@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "history"]
 
 ![[text/hebrew/10-2-samuel#Chapter 1]]
 
+## Plain English translation
+
+![[text/english/10-2-samuel#Chapter 1]]
+
 ## Cross-references
 
 - **1:4** → [[connections/chapters/09-1-samuel/1 Samuel 4|1 Samuel 4:16]] · [[connections/chapters/09-1-samuel/1 Samuel 31|1 Samuel 31:1–6]]

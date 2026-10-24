@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "torah"]
 
 ![[text/hebrew/02-exodus#Chapter 25]]
 
+## Plain English translation
+
+![[text/english/02-exodus#Chapter 25]]
+
 ## Cross-references
 
 - **25:2** → [[connections/chapters/47-2-corinthians/2 Corinthians 9|2 Corinthians 9:7]] · [[connections/chapters/16-nehemiah/Nehemiah 11|Nehemiah 11:2]] · [[connections/chapters/15-ezra/Ezra 2|Ezra 2:68]]

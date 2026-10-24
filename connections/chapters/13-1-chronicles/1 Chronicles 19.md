@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "history"]
 
 ![[text/hebrew/13-1-chronicles#Chapter 19]]
 
+## Plain English translation
+
+![[text/english/13-1-chronicles#Chapter 19]]
+
 ## Cross-references
 
 - **19:13** → [[connections/chapters/19-psalms/Psalms 27|Psalms 27:14]]

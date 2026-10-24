@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "torah"]
 
 ![[text/hebrew/01-genesis#Chapter 24]]
 
+## Plain English translation
+
+![[text/english/01-genesis#Chapter 24]]
+
 ## Cross-references
 
 - **24:1** → [[connections/chapters/19-psalms/Psalms 112|Psalms 112:1–3]]

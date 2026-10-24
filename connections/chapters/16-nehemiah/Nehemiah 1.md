@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "history"]
 
 ![[text/hebrew/16-nehemiah#Chapter 1]]
 
+## Plain English translation
+
+![[text/english/16-nehemiah#Chapter 1]]
+
 ## Cross-references
 
 - **1:3** → [[connections/chapters/16-nehemiah/Nehemiah 2|Nehemiah 2:17]]

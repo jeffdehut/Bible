@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "history"]
 
 ![[text/hebrew/09-1-samuel#Chapter 24]]
 
+## Plain English translation
+
+![[text/english/09-1-samuel#Chapter 24]]
+
 ## Cross-references
 
 - **24:5** → [[connections/chapters/09-1-samuel/1 Samuel 26|1 Samuel 26:8–11]]

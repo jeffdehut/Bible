@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "torah"]
 
 ![[text/hebrew/02-exodus#Chapter 20]]
 
+## Plain English translation
+
+![[text/english/02-exodus#Chapter 20]]
+
 ## Cross-references
 
 - **20:1** → [[connections/chapters/05-deuteronomy/Deuteronomy 5|Deuteronomy 5:22]] · [[connections/chapters/05-deuteronomy/Deuteronomy 5|Deuteronomy 5:4]]

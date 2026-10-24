@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "history"]
 
 ![[text/hebrew/16-nehemiah#Chapter 3]]
 
+## Plain English translation
+
+![[text/english/16-nehemiah#Chapter 3]]
+
 ## Cross-references
 
 - **3:1** → [[connections/chapters/16-nehemiah/Nehemiah 12|Nehemiah 12:39]] · [[connections/chapters/24-jeremiah/Jeremiah 31|Jeremiah 31:38]]

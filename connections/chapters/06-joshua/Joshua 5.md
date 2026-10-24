@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "history"]
 
 ![[text/hebrew/06-joshua#Chapter 5]]
 
+## Plain English translation
+
+![[text/english/06-joshua#Chapter 5]]
+
 ## Cross-references
 
 - **5:6** → [[connections/chapters/04-numbers/Numbers 14|Numbers 14:23]] · [[connections/chapters/05-deuteronomy/Deuteronomy 2|Deuteronomy 2:14]] · [[connections/chapters/58-hebrews/Hebrews 3|Hebrews 3:11]]

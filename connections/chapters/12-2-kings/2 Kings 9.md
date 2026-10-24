@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "history"]
 
 ![[text/hebrew/12-2-kings#Chapter 9]]
 
+## Plain English translation
+
+![[text/english/12-2-kings#Chapter 9]]
+
 ## Cross-references
 
 - **9:30** → [[connections/chapters/24-jeremiah/Jeremiah 4|Jeremiah 4:30]]

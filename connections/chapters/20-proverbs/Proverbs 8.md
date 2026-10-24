@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "wisdom"]
 
 ![[text/hebrew/20-proverbs#Chapter 8]]
 
+## Plain English translation
+
+![[text/english/20-proverbs#Chapter 8]]
+
 ## Cross-references
 
 - **8:1** → [[connections/chapters/20-proverbs/Proverbs 1|Proverbs 1:20–21]]

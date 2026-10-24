@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "wisdom"]
 
 ![[text/hebrew/20-proverbs#Chapter 2]]
 
+## Plain English translation
+
+![[text/english/20-proverbs#Chapter 2]]
+
 ## Cross-references
 
 - **2:1** → [[connections/chapters/20-proverbs/Proverbs 3|Proverbs 3:1]] · [[connections/chapters/20-proverbs/Proverbs 1|Proverbs 1:3]] · [[connections/chapters/20-proverbs/Proverbs 4|Proverbs 4:1]] · [[connections/chapters/43-john/John 12|John 12:47–48]] · [[connections/chapters/05-deuteronomy/Deuteronomy 6|Deuteronomy 6:6–9]] · [[connections/chapters/20-proverbs/Proverbs 7|Proverbs 7:1]] · [[connections/chapters/20-proverbs/Proverbs 4|Proverbs 4:20–22]]

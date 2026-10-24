@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "history"]
 
 ![[text/hebrew/09-1-samuel#Chapter 3]]
 
+## Plain English translation
+
+![[text/english/09-1-samuel#Chapter 3]]
+
 ## Cross-references
 
 - **3:1** → [[connections/chapters/30-amos/Amos 8|Amos 8:11–12]] · [[connections/chapters/19-psalms/Psalms 74|Psalms 74:9]] · [[connections/chapters/09-1-samuel/1 Samuel 3|1 Samuel 3:21]]

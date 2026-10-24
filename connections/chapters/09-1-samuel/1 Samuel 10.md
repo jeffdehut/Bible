@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "history"]
 
 ![[text/hebrew/09-1-samuel#Chapter 10]]
 
+## Plain English translation
+
+![[text/english/09-1-samuel#Chapter 10]]
+
 ## Cross-references
 
 - **10:1** → [[connections/chapters/09-1-samuel/1 Samuel 16|1 Samuel 16:13]] · [[connections/chapters/19-psalms/Psalms 78|Psalms 78:71]]

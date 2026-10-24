@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "torah"]
 
 ![[text/hebrew/01-genesis#Chapter 41]]
 
+## Plain English translation
+
+![[text/english/01-genesis#Chapter 41]]
+
 ## Cross-references
 
 - **41:14** → [[connections/chapters/27-daniel/Daniel 2|Daniel 2:25]] · [[connections/chapters/19-psalms/Psalms 113|Psalms 113:7–8]]

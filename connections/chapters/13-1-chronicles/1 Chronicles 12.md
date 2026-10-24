@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "history"]
 
 ![[text/hebrew/13-1-chronicles#Chapter 12]]
 
+## Plain English translation
+
+![[text/english/13-1-chronicles#Chapter 12]]
+
 ## Cross-references
 
 - **12:19** → [[connections/chapters/07-judges/Judges 6|Judges 6:34]] · [[connections/chapters/07-judges/Judges 3|Judges 3:10]]

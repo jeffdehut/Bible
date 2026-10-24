@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "history"]
 
 ![[text/hebrew/15-ezra#Chapter 8]]
 
+## Plain English translation
+
+![[text/english/15-ezra#Chapter 8]]
+
 ## Cross-references
 
 - **8:21** → [[connections/chapters/14-2-chronicles/2 Chronicles 20|2 Chronicles 20:3]] · [[connections/chapters/29-joel/Joel 1|Joel 1:14]] · [[connections/chapters/09-1-samuel/1 Samuel 7|1 Samuel 7:6]] · [[connections/chapters/23-isaiah/Isaiah 30|Isaiah 30:21]] · [[connections/chapters/32-jonah/Jonah 3|Jonah 3:5]] · [[connections/chapters/03-leviticus/Leviticus 16|Leviticus 16:29]] · [[connections/chapters/19-psalms/Psalms 107|Psalms 107:2–8]] · [[connections/chapters/19-psalms/Psalms 143|Psalms 143:8–10]] · [[connections/chapters/03-leviticus/Leviticus 23|Leviticus 23:29]] · [[connections/chapters/20-proverbs/Proverbs 3|Proverbs 3:6]]

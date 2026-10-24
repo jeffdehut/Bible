@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "wisdom"]
 
 ![[text/hebrew/19-psalms#Chapter 3]]
 
+## Plain English translation
+
+![[text/english/19-psalms#Chapter 3]]
+
 ## Cross-references
 
 - **3:2** → [[connections/chapters/19-psalms/Psalms 17|Psalms 17:7]]

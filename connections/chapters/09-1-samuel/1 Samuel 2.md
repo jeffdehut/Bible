@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "history"]
 
 ![[text/hebrew/09-1-samuel#Chapter 2]]
 
+## Plain English translation
+
+![[text/english/09-1-samuel#Chapter 2]]
+
 ## Cross-references
 
 - **2:1** → [[connections/chapters/42-luke/Luke 1|Luke 1:46–56]] · [[connections/chapters/19-psalms/Psalms 13|Psalms 13:6]] · [[connections/chapters/23-isaiah/Isaiah 12|Isaiah 12:2–3]]

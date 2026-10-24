@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "history"]
 
 ![[text/hebrew/09-1-samuel#Chapter 1]]
 
+## Plain English translation
+
+![[text/english/09-1-samuel#Chapter 1]]
+
 ## Cross-references
 
 - **1:5** → [[connections/chapters/01-genesis/Genesis 30|Genesis 30:2]]

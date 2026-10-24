@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "history"]
 
 ![[text/hebrew/08-ruth#Chapter 2]]
 
+## Plain English translation
+
+![[text/english/08-ruth#Chapter 2]]
+
 ## Cross-references
 
 - **2:2** → [[connections/chapters/03-leviticus/Leviticus 23|Leviticus 23:22]]

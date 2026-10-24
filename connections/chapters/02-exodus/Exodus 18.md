@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "torah"]
 
 ![[text/hebrew/02-exodus#Chapter 18]]
 
+## Plain English translation
+
+![[text/english/02-exodus#Chapter 18]]
+
 ## Cross-references
 
 - **18:11** → [[connections/chapters/19-psalms/Psalms 95|Psalms 95:3]]

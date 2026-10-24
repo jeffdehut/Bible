@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "wisdom"]
 
 ![[text/hebrew/19-psalms#Chapter 43]]
 
+## Plain English translation
+
+![[text/english/19-psalms#Chapter 43]]
+
 ## Cross-references
 
 - **43:1** → [[connections/chapters/19-psalms/Psalms 35|Psalms 35:1]] · [[connections/chapters/19-psalms/Psalms 26|Psalms 26:1]] · [[connections/chapters/19-psalms/Psalms 7|Psalms 7:9]]

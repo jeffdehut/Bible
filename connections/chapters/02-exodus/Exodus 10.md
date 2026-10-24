@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "torah"]
 
 ![[text/hebrew/02-exodus#Chapter 10]]
 
+## Plain English translation
+
+![[text/english/02-exodus#Chapter 10]]
+
 ## Cross-references
 
 - **10:2** → [[connections/chapters/29-joel/Joel 1|Joel 1:3]]

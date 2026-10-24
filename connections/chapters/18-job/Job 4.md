@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "wisdom"]
 
 ![[text/hebrew/18-job#Chapter 4]]
 
+## Plain English translation
+
+![[text/english/18-job#Chapter 4]]
+
 ## Cross-references
 
 - **4:6** → [[connections/chapters/20-proverbs/Proverbs 3|Proverbs 3:26]] · [[connections/chapters/20-proverbs/Proverbs 14|Proverbs 14:26]] · [[connections/chapters/18-job/Job 1|Job 1:1]] · [[connections/chapters/18-job/Job 17|Job 17:15]] · [[connections/chapters/18-job/Job 23|Job 23:11–12]] · [[connections/chapters/18-job/Job 13|Job 13:15]] · [[connections/chapters/18-job/Job 16|Job 16:17]] · [[connections/chapters/18-job/Job 29|Job 29:12–17]] · [[connections/chapters/60-1-peter/1 Peter 1|1 Peter 1:13]] · [[connections/chapters/12-2-kings/2 Kings 20|2 Kings 20:3]] · [[connections/chapters/60-1-peter/1 Peter 1|1 Peter 1:17]] · [[connections/chapters/18-job/Job 1|Job 1:8–10]] · [[connections/chapters/18-job/Job 27|Job 27:5–6]]

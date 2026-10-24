@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "torah"]
 
 ![[text/hebrew/01-genesis#Chapter 19]]
 
+## Plain English translation
+
+![[text/english/01-genesis#Chapter 19]]
+
 ## Cross-references
 
 - **19:1** → [[connections/chapters/01-genesis/Genesis 18|Genesis 18:1–5]] · [[connections/chapters/58-hebrews/Hebrews 13|Hebrews 13:2]] · [[connections/chapters/01-genesis/Genesis 18|Genesis 18:22]]

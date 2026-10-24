@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "wisdom"]
 
 ![[text/hebrew/18-job#Chapter 33]]
 
+## Plain English translation
+
+![[text/english/18-job#Chapter 33]]
+
 ## Cross-references
 
 - **33:4** → [[connections/chapters/18-job/Job 32|Job 32:8]] · [[connections/chapters/01-genesis/Genesis 2|Genesis 2:7]] · [[connections/chapters/18-job/Job 27|Job 27:3]] · [[connections/chapters/18-job/Job 10|Job 10:12]] · [[connections/chapters/46-1-corinthians/1 Corinthians 15|1 Corinthians 15:45]] · [[connections/chapters/19-psalms/Psalms 33|Psalms 33:6]] · [[connections/chapters/45-romans/Romans 8|Romans 8:2]] · [[connections/chapters/18-job/Job 10|Job 10:3]]

@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "history"]
 
 ![[text/hebrew/16-nehemiah#Chapter 4]]
 
+## Plain English translation
+
+![[text/english/16-nehemiah#Chapter 4]]
+
 ## Cross-references
 
 - **4:3** → [[connections/chapters/60-1-peter/1 Peter 5|1 Peter 5:8]]

@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "history"]
 
 ![[text/hebrew/11-1-kings#Chapter 8]]
 
+## Plain English translation
+
+![[text/english/11-1-kings#Chapter 8]]
+
 ## Cross-references
 
 - **8:9** → [[connections/chapters/02-exodus/Exodus 25|Exodus 25:21]] · [[connections/chapters/58-hebrews/Hebrews 9|Hebrews 9:4]]

@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "torah"]
 
 ![[text/hebrew/02-exodus#Chapter 35]]
 
+## Plain English translation
+
+![[text/english/02-exodus#Chapter 35]]
+
 ## Cross-references
 
 - **35:4** → [[connections/chapters/02-exodus/Exodus 25|Exodus 25:1–2]]

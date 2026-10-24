@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "torah"]
 
 ![[text/hebrew/02-exodus#Chapter 12]]
 
+## Plain English translation
+
+![[text/english/02-exodus#Chapter 12]]
+
 ## Cross-references
 
 - **12:2** → [[connections/chapters/02-exodus/Exodus 13|Exodus 13:4]] · [[connections/chapters/05-deuteronomy/Deuteronomy 16|Deuteronomy 16:1]] · [[connections/chapters/02-exodus/Exodus 34|Exodus 34:18]]

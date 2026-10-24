@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "history"]
 
 ![[text/hebrew/14-2-chronicles#Chapter 29]]
 
+## Plain English translation
+
+![[text/english/14-2-chronicles#Chapter 29]]
+
 ## Cross-references
 
 - **29:10** → [[connections/chapters/24-jeremiah/Jeremiah 50|Jeremiah 50:5]]

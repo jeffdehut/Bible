@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "history"]
 
 ![[text/hebrew/16-nehemiah#Chapter 2]]
 
+## Plain English translation
+
+![[text/english/16-nehemiah#Chapter 2]]
+
 ## Cross-references
 
 - **2:4** → [[connections/chapters/50-philippians/Philippians 4|Philippians 4:6]] · [[connections/chapters/20-proverbs/Proverbs 3|Proverbs 3:6]] · [[connections/chapters/16-nehemiah/Nehemiah 1|Nehemiah 1:4]]

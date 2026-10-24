@@ -18,6 +18,10 @@ tags: ["chapter", "ot", "history"]
 
 ![[text/hebrew/11-1-kings#Chapter 12]]
 
+## Plain English translation
+
+![[text/english/11-1-kings#Chapter 12]]
+
 ## Cross-references
 
 - **12:4** → [[connections/chapters/09-1-samuel/1 Samuel 8|1 Samuel 8:11–18]]

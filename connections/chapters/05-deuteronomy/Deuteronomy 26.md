@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "torah"]
 
 ![[text/hebrew/05-deuteronomy#Chapter 26]]
 
+## Plain English translation
+
+![[text/english/05-deuteronomy#Chapter 26]]
+
 ## Cross-references
 
 - **26:18** → [[connections/chapters/05-deuteronomy/Deuteronomy 7|Deuteronomy 7:6]] · [[connections/chapters/05-deuteronomy/Deuteronomy 28|Deuteronomy 28:9]] · [[connections/chapters/05-deuteronomy/Deuteronomy 14|Deuteronomy 14:2]]

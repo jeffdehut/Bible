@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "wisdom"]
 
 ![[text/hebrew/20-proverbs#Chapter 1]]
 
+## Plain English translation
+
+![[text/english/20-proverbs#Chapter 1]]
+
 ## Cross-references
 
 - **1:1** → [[connections/chapters/20-proverbs/Proverbs 10|Proverbs 10:1]]

@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "history"]
 
 ![[text/hebrew/06-joshua#Chapter 23]]
 
+## Plain English translation
+
+![[text/english/06-joshua#Chapter 23]]
+
 ## Cross-references
 
 - **23:7** → [[connections/chapters/02-exodus/Exodus 23|Exodus 23:13]]

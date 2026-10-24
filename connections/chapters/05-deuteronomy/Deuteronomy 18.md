@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "torah"]
 
 ![[text/hebrew/05-deuteronomy#Chapter 18]]
 
+## Plain English translation
+
+![[text/english/05-deuteronomy#Chapter 18]]
+
 ## Cross-references
 
 - **18:9** → [[connections/chapters/05-deuteronomy/Deuteronomy 12|Deuteronomy 12:29–31]] · [[connections/chapters/03-leviticus/Leviticus 18|Leviticus 18:26–27]] · [[connections/chapters/03-leviticus/Leviticus 18|Leviticus 18:30]]

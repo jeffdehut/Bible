@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "history"]
 
 ![[text/hebrew/09-1-samuel#Chapter 16]]
 
+## Plain English translation
+
+![[text/english/09-1-samuel#Chapter 16]]
+
 ## Cross-references
 
 - **16:1** → [[connections/chapters/12-2-kings/2 Kings 9|2 Kings 9:1]] · [[connections/chapters/09-1-samuel/1 Samuel 15|1 Samuel 15:23]] · [[connections/chapters/09-1-samuel/1 Samuel 15|1 Samuel 15:35]] · [[connections/chapters/45-romans/Romans 15|Romans 15:12]] · [[connections/chapters/19-psalms/Psalms 78|Psalms 78:68–71]]

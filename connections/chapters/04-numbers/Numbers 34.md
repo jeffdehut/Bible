@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "torah"]
 
 ![[text/hebrew/04-numbers#Chapter 34]]
 
+## Plain English translation
+
+![[text/english/04-numbers#Chapter 34]]
+
 ## Cross-references
 
 - **34:2** → [[connections/chapters/01-genesis/Genesis 17|Genesis 17:8]]

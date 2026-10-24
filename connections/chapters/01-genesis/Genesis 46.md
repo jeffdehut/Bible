@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "torah"]
 
 ![[text/hebrew/01-genesis#Chapter 46]]
 
+## Plain English translation
+
+![[text/english/01-genesis#Chapter 46]]
+
 ## Cross-references
 
 - **46:3** → [[connections/chapters/01-genesis/Genesis 12|Genesis 12:2]]

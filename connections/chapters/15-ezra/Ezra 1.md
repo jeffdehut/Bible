@@ -18,6 +18,10 @@ tags: ["chapter", "ot", "history"]
 
 ![[text/hebrew/15-ezra#Chapter 1]]
 
+## Plain English translation
+
+![[text/english/15-ezra#Chapter 1]]
+
 ## Cross-references
 
 - **1:1** → [[connections/chapters/24-jeremiah/Jeremiah 29|Jeremiah 29:10]] · [[connections/chapters/14-2-chronicles/2 Chronicles 36|2 Chronicles 36:22–23]] · [[connections/chapters/24-jeremiah/Jeremiah 25|Jeremiah 25:12–14]] · [[connections/chapters/15-ezra/Ezra 6|Ezra 6:22]] · [[connections/chapters/15-ezra/Ezra 7|Ezra 7:27]] · [[connections/chapters/20-proverbs/Proverbs 21|Proverbs 21:1]] · [[connections/chapters/24-jeremiah/Jeremiah 33|Jeremiah 33:7–13]] · [[connections/chapters/15-ezra/Ezra 5|Ezra 5:13–15]]

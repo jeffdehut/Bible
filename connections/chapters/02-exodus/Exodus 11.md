@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "torah"]
 
 ![[text/hebrew/02-exodus#Chapter 11]]
 
+## Plain English translation
+
+![[text/english/02-exodus#Chapter 11]]
+
 ## Cross-references
 
 - **11:7** → [[connections/chapters/06-joshua/Joshua 10|Joshua 10:21]] · [[connections/chapters/02-exodus/Exodus 8|Exodus 8:18]] · [[connections/chapters/02-exodus/Exodus 10|Exodus 10:23]] · [[connections/chapters/39-malachi/Malachi 3|Malachi 3:18]] · [[connections/chapters/02-exodus/Exodus 9|Exodus 9:4]]

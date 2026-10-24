@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "torah"]
 
 ![[text/hebrew/01-genesis#Chapter 30]]
 
+## Plain English translation
+
+![[text/english/01-genesis#Chapter 30]]
+
 ## Cross-references
 
 - **30:1** → [[connections/chapters/18-job/Job 5|Job 5:2]] · [[connections/chapters/01-genesis/Genesis 29|Genesis 29:31]]

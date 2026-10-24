@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "torah"]
 
 ![[text/hebrew/05-deuteronomy#Chapter 13]]
 
+## Plain English translation
+
+![[text/english/05-deuteronomy#Chapter 13]]
+
 ## Cross-references
 
 - **13:1** → [[connections/chapters/05-deuteronomy/Deuteronomy 4|Deuteronomy 4:2]] · [[connections/chapters/66-revelation/Revelation 22|Revelation 22:18–19]] · [[connections/chapters/06-joshua/Joshua 1|Joshua 1:7]] · [[connections/chapters/20-proverbs/Proverbs 30|Proverbs 30:6]]

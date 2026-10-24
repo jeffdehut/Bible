@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "torah"]
 
 ![[text/hebrew/03-leviticus#Chapter 3]]
 
+## Plain English translation
+
+![[text/english/03-leviticus#Chapter 3]]
+
 ## Cross-references
 
 - **3:17** → [[connections/chapters/01-genesis/Genesis 9|Genesis 9:4]] · [[connections/chapters/40-matthew/Matthew 26|Matthew 26:28]]

@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "history"]
 
 ![[text/hebrew/16-nehemiah#Chapter 6]]
 
+## Plain English translation
+
+![[text/english/16-nehemiah#Chapter 6]]
+
 ## Cross-references
 
 - **6:3** → [[connections/chapters/40-matthew/Matthew 10|Matthew 10:16]] · [[connections/chapters/43-john/John 9|John 9:4]]

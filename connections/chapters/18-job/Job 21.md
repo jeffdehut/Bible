@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "wisdom"]
 
 ![[text/hebrew/18-job#Chapter 21]]
 
+## Plain English translation
+
+![[text/english/18-job#Chapter 21]]
+
 ## Cross-references
 
 - **21:7** → [[connections/chapters/19-psalms/Psalms 73|Psalms 73:3–12]]

@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "history"]
 
 ![[text/hebrew/15-ezra#Chapter 10]]
 
+## Plain English translation
+
+![[text/english/15-ezra#Chapter 10]]
+
 ## Cross-references
 
 - **10:1** → [[connections/chapters/27-daniel/Daniel 9|Daniel 9:20]] · [[connections/chapters/19-psalms/Psalms 119|Psalms 119:136]]

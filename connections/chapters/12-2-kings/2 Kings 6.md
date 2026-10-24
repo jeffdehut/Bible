@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "history"]
 
 ![[text/hebrew/12-2-kings#Chapter 6]]
 
+## Plain English translation
+
+![[text/english/12-2-kings#Chapter 6]]
+
 ## Cross-references
 
 - **6:1** → [[connections/chapters/12-2-kings/2 Kings 2|2 Kings 2:3]] · [[connections/chapters/23-isaiah/Isaiah 54|Isaiah 54:2–3]] · [[connections/chapters/06-joshua/Joshua 17|Joshua 17:14]] · [[connections/chapters/06-joshua/Joshua 19|Joshua 19:47]] · [[connections/chapters/23-isaiah/Isaiah 49|Isaiah 49:19–20]] · [[connections/chapters/11-1-kings/1 Kings 20|1 Kings 20:35]] · [[connections/chapters/09-1-samuel/1 Samuel 19|1 Samuel 19:20]] · [[connections/chapters/12-2-kings/2 Kings 4|2 Kings 4:1]] · [[connections/chapters/18-job/Job 36|Job 36:16]]

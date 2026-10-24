@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "prophets"]
 
 ![[text/hebrew/23-isaiah#Chapter 1]]
 
+## Plain English translation
+
+![[text/english/23-isaiah#Chapter 1]]
+
 ## Cross-references
 
 - **1:2** → [[connections/chapters/05-deuteronomy/Deuteronomy 32|Deuteronomy 32:1]] · [[connections/chapters/05-deuteronomy/Deuteronomy 30|Deuteronomy 30:19]] · [[connections/chapters/33-micah/Micah 1|Micah 1:2]] · [[connections/chapters/05-deuteronomy/Deuteronomy 4|Deuteronomy 4:26]] · [[connections/chapters/19-psalms/Psalms 50|Psalms 50:4]]

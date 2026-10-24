@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "torah"]
 
 ![[text/hebrew/05-deuteronomy#Chapter 4]]
 
+## Plain English translation
+
+![[text/english/05-deuteronomy#Chapter 4]]
+
 ## Cross-references
 
 - **4:1** → [[connections/chapters/45-romans/Romans 10|Romans 10:5]]

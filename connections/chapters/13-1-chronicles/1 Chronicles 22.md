@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "history"]
 
 ![[text/hebrew/13-1-chronicles#Chapter 22]]
 
+## Plain English translation
+
+![[text/english/13-1-chronicles#Chapter 22]]
+
 ## Cross-references
 
 - **22:13** → [[connections/chapters/13-1-chronicles/1 Chronicles 28|1 Chronicles 28:20]] · [[connections/chapters/06-joshua/Joshua 1|Joshua 1:6–9]]

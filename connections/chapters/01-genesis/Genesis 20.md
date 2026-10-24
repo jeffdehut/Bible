@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "torah"]
 
 ![[text/hebrew/01-genesis#Chapter 20]]
 
+## Plain English translation
+
+![[text/english/01-genesis#Chapter 20]]
+
 ## Cross-references
 
 - **20:6** → [[connections/chapters/09-1-samuel/1 Samuel 25|1 Samuel 25:34]]

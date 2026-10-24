@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "history"]
 
 ![[text/hebrew/07-judges#Chapter 9]]
 
+## Plain English translation
+
+![[text/english/07-judges#Chapter 9]]
+
 ## Cross-references
 
 *No cross-references with at least 8 votes.*

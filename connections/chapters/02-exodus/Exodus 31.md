@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "torah"]
 
 ![[text/hebrew/02-exodus#Chapter 31]]
 
+## Plain English translation
+
+![[text/english/02-exodus#Chapter 31]]
+
 ## Cross-references
 
 - **31:2** → [[connections/chapters/43-john/John 3|John 3:27]]

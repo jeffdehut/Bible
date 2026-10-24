@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "torah"]
 
 ![[text/hebrew/02-exodus#Chapter 33]]
 
+## Plain English translation
+
+![[text/english/02-exodus#Chapter 33]]
+
 ## Cross-references
 
 - **33:11** → [[connections/chapters/04-numbers/Numbers 12|Numbers 12:8]] · [[connections/chapters/05-deuteronomy/Deuteronomy 34|Deuteronomy 34:10]] · [[connections/chapters/02-exodus/Exodus 24|Exodus 24:13]] · [[connections/chapters/02-exodus/Exodus 33|Exodus 33:9]] · [[connections/chapters/01-genesis/Genesis 32|Genesis 32:31]] · [[connections/chapters/43-john/John 15|John 15:14–15]] · [[connections/chapters/05-deuteronomy/Deuteronomy 5|Deuteronomy 5:4]]

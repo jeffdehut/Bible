@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "torah"]
 
 ![[text/hebrew/05-deuteronomy#Chapter 17]]
 
+## Plain English translation
+
+![[text/english/05-deuteronomy#Chapter 17]]
+
 ## Cross-references
 
 - **17:15** → [[connections/chapters/24-jeremiah/Jeremiah 30|Jeremiah 30:21]]

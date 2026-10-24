@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "torah"]
 
 ![[text/hebrew/01-genesis#Chapter 18]]
 
+## Plain English translation
+
+![[text/english/01-genesis#Chapter 18]]
+
 ## Cross-references
 
 - **18:2** → [[connections/chapters/58-hebrews/Hebrews 13|Hebrews 13:2]]

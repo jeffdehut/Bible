@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "history"]
 
 ![[text/hebrew/14-2-chronicles#Chapter 17]]
 
+## Plain English translation
+
+![[text/english/14-2-chronicles#Chapter 17]]
+
 ## Cross-references
 
 - **17:3** → [[connections/chapters/12-2-kings/2 Kings 22|2 Kings 22:2]] · [[connections/chapters/23-isaiah/Isaiah 41|Isaiah 41:10]]

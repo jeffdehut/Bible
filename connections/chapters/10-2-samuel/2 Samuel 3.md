@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "history"]
 
 ![[text/hebrew/10-2-samuel#Chapter 3]]
 
+## Plain English translation
+
+![[text/english/10-2-samuel#Chapter 3]]
+
 ## Cross-references
 
 *No cross-references with at least 8 votes.*

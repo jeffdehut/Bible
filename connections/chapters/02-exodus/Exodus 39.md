@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "torah"]
 
 ![[text/hebrew/02-exodus#Chapter 39]]
 
+## Plain English translation
+
+![[text/english/02-exodus#Chapter 39]]
+
 ## Cross-references
 
 - **39:14** → [[connections/chapters/66-revelation/Revelation 21|Revelation 21:12]]

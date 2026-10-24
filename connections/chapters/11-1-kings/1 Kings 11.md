@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "history"]
 
 ![[text/hebrew/11-1-kings#Chapter 11]]
 
+## Plain English translation
+
+![[text/english/11-1-kings#Chapter 11]]
+
 ## Cross-references
 
 - **11:1** → [[connections/chapters/05-deuteronomy/Deuteronomy 17|Deuteronomy 17:17]]

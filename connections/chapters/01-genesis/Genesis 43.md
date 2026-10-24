@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "torah"]
 
 ![[text/hebrew/01-genesis#Chapter 43]]
 
+## Plain English translation
+
+![[text/english/01-genesis#Chapter 43]]
+
 ## Cross-references
 
 - **43:11** → [[connections/chapters/01-genesis/Genesis 37|Genesis 37:25]]

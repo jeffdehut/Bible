@@ -18,6 +18,10 @@ tags: ["chapter", "ot", "history"]
 
 ![[text/hebrew/13-1-chronicles#Chapter 8]]
 
+## Plain English translation
+
+![[text/english/13-1-chronicles#Chapter 8]]
+
 ## Cross-references
 
 *No cross-references with at least 8 votes.*

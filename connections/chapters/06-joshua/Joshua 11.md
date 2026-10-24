@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "history"]
 
 ![[text/hebrew/06-joshua#Chapter 11]]
 
+## Plain English translation
+
+![[text/english/06-joshua#Chapter 11]]
+
 ## Cross-references
 
 - **11:6** → [[connections/chapters/06-joshua/Joshua 10|Joshua 10:8]]

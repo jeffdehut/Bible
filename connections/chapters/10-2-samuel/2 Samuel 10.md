@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "history"]
 
 ![[text/hebrew/10-2-samuel#Chapter 10]]
 
+## Plain English translation
+
+![[text/english/10-2-samuel#Chapter 10]]
+
 ## Cross-references
 
 - **10:4** → [[connections/chapters/23-isaiah/Isaiah 20|Isaiah 20:4]]

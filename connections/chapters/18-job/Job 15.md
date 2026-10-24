@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "wisdom"]
 
 ![[text/hebrew/18-job#Chapter 15]]
 
+## Plain English translation
+
+![[text/english/18-job#Chapter 15]]
+
 ## Cross-references
 
 - **15:6** → [[connections/chapters/42-luke/Luke 19|Luke 19:22]]

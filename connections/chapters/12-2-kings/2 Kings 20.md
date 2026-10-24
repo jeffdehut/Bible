@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "history"]
 
 ![[text/hebrew/12-2-kings#Chapter 20]]
 
+## Plain English translation
+
+![[text/english/12-2-kings#Chapter 20]]
+
 ## Cross-references
 
 - **20:1** → [[connections/chapters/23-isaiah/Isaiah 38|Isaiah 38:1–22]] · [[connections/chapters/14-2-chronicles/2 Chronicles 32|2 Chronicles 32:24–26]] · [[connections/chapters/50-philippians/Philippians 2|Philippians 2:27]] · [[connections/chapters/32-jonah/Jonah 3|Jonah 3:4–10]]

@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "torah"]
 
 ![[text/hebrew/02-exodus#Chapter 8]]
 
+## Plain English translation
+
+![[text/english/02-exodus#Chapter 8]]
+
 ## Cross-references
 
 - **8:15** → [[connections/chapters/42-luke/Luke 11|Luke 11:20]]

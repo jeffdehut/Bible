@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "history"]
 
 ![[text/hebrew/17-esther#Chapter 9]]
 
+## Plain English translation
+
+![[text/english/17-esther#Chapter 9]]
+
 ## Cross-references
 
 - **9:1** → [[connections/chapters/17-esther/Esther 3|Esther 3:13]]

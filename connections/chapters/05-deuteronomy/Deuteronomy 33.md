@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "torah"]
 
 ![[text/hebrew/05-deuteronomy#Chapter 33]]
 
+## Plain English translation
+
+![[text/english/05-deuteronomy#Chapter 33]]
+
 ## Cross-references
 
 - **33:2** → [[connections/chapters/35-habakkuk/Habakkuk 3|Habakkuk 3:3]] · [[connections/chapters/65-jude/Jude 1|Jude 1:14]] · [[connections/chapters/66-revelation/Revelation 5|Revelation 5:11]] · [[connections/chapters/19-psalms/Psalms 68|Psalms 68:18]] · [[connections/chapters/07-judges/Judges 5|Judges 5:4–5]] · [[connections/chapters/44-acts/Acts 7|Acts 7:53]]

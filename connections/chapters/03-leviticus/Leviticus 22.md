@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "torah"]
 
 ![[text/hebrew/03-leviticus#Chapter 22]]
 
+## Plain English translation
+
+![[text/english/03-leviticus#Chapter 22]]
+
 ## Cross-references
 
 *No cross-references with at least 8 votes.*

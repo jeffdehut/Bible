@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "torah"]
 
 ![[text/hebrew/01-genesis#Chapter 31]]
 
+## Plain English translation
+
+![[text/english/01-genesis#Chapter 31]]
+
 ## Cross-references
 
 - **31:2** → [[connections/chapters/27-daniel/Daniel 3|Daniel 3:19]]

@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "history"]
 
 ![[text/hebrew/15-ezra#Chapter 7]]
 
+## Plain English translation
+
+![[text/english/15-ezra#Chapter 7]]
+
 ## Cross-references
 
 - **7:6** → [[connections/chapters/15-ezra/Ezra 8|Ezra 8:22]] · [[connections/chapters/15-ezra/Ezra 7|Ezra 7:28]] · [[connections/chapters/15-ezra/Ezra 8|Ezra 8:31]] · [[connections/chapters/16-nehemiah/Nehemiah 2|Nehemiah 2:18]]

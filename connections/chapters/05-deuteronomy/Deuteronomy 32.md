@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "torah"]
 
 ![[text/hebrew/05-deuteronomy#Chapter 32]]
 
+## Plain English translation
+
+![[text/english/05-deuteronomy#Chapter 32]]
+
 ## Cross-references
 
 - **32:1** → [[connections/chapters/23-isaiah/Isaiah 1|Isaiah 1:2]] · [[connections/chapters/05-deuteronomy/Deuteronomy 4|Deuteronomy 4:26]] · [[connections/chapters/24-jeremiah/Jeremiah 22|Jeremiah 22:29]] · [[connections/chapters/19-psalms/Psalms 49|Psalms 49:2]]

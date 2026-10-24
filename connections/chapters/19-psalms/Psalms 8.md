@@ -18,6 +18,10 @@ tags: ["chapter", "ot", "wisdom"]
 
 ![[text/hebrew/19-psalms#Chapter 8]]
 
+## Plain English translation
+
+![[text/english/19-psalms#Chapter 8]]
+
 ## Cross-references
 
 - **8:2** → [[connections/chapters/19-psalms/Psalms 8|Psalms 8:10]] · [[connections/chapters/19-psalms/Psalms 113|Psalms 113:2–4]] · [[connections/chapters/19-psalms/Psalms 57|Psalms 57:6]] · [[connections/chapters/19-psalms/Psalms 148|Psalms 148:13]] · [[connections/chapters/02-exodus/Exodus 15|Exodus 15:11]] · [[connections/chapters/19-psalms/Psalms 57|Psalms 57:11–12]] · [[connections/chapters/02-exodus/Exodus 34|Exodus 34:5–7]] · [[connections/chapters/35-habakkuk/Habakkuk 3|Habakkuk 3:3]] · [[connections/chapters/19-psalms/Psalms 145|Psalms 145:1]] · [[connections/chapters/19-psalms/Psalms 72|Psalms 72:17–19]] · [[connections/chapters/58-hebrews/Hebrews 7|Hebrews 7:26]] · [[connections/chapters/50-philippians/Philippians 2|Philippians 2:9–11]] · [[connections/chapters/23-isaiah/Isaiah 26|Isaiah 26:13]]

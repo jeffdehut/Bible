@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "history"]
 
 ![[text/hebrew/06-joshua#Chapter 21]]
 
+## Plain English translation
+
+![[text/english/06-joshua#Chapter 21]]
+
 ## Cross-references
 
 - **21:43** → [[connections/chapters/01-genesis/Genesis 13|Genesis 13:15]]

@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "history"]
 
 ![[text/hebrew/11-1-kings#Chapter 20]]
 
+## Plain English translation
+
+![[text/english/11-1-kings#Chapter 20]]
+
 ## Cross-references
 
 - **20:28** → [[connections/chapters/11-1-kings/1 Kings 20|1 Kings 20:13]]

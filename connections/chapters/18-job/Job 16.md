@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "wisdom"]
 
 ![[text/hebrew/18-job#Chapter 16]]
 
+## Plain English translation
+
+![[text/english/18-job#Chapter 16]]
+
 ## Cross-references
 
 - **16:10** → [[connections/chapters/19-psalms/Psalms 35|Psalms 35:15]] · [[connections/chapters/19-psalms/Psalms 22|Psalms 22:14]]

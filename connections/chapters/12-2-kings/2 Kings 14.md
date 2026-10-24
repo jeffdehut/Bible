@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "history"]
 
 ![[text/hebrew/12-2-kings#Chapter 14]]
 
+## Plain English translation
+
+![[text/english/12-2-kings#Chapter 14]]
+
 ## Cross-references
 
 - **14:6** → [[connections/chapters/05-deuteronomy/Deuteronomy 24|Deuteronomy 24:16]] · [[connections/chapters/26-ezekiel/Ezekiel 18|Ezekiel 18:20]] · [[connections/chapters/26-ezekiel/Ezekiel 18|Ezekiel 18:4]] · [[connections/chapters/24-jeremiah/Jeremiah 31|Jeremiah 31:30]]

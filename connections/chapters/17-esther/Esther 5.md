@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "history"]
 
 ![[text/hebrew/17-esther#Chapter 5]]
 
+## Plain English translation
+
+![[text/english/17-esther#Chapter 5]]
+
 ## Cross-references
 
 - **5:2** → [[connections/chapters/17-esther/Esther 8|Esther 8:4]]

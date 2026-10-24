@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "history"]
 
 ![[text/hebrew/07-judges#Chapter 2]]
 
+## Plain English translation
+
+![[text/english/07-judges#Chapter 2]]
+
 ## Cross-references
 
 - **2:3** → [[connections/chapters/06-joshua/Joshua 23|Joshua 23:13]] · [[connections/chapters/04-numbers/Numbers 33|Numbers 33:55]] · [[connections/chapters/19-psalms/Psalms 106|Psalms 106:36]]

@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "torah"]
 
 ![[text/hebrew/02-exodus#Chapter 6]]
 
+## Plain English translation
+
+![[text/english/02-exodus#Chapter 6]]
+
 ## Cross-references
 
 - **6:1** → [[connections/chapters/02-exodus/Exodus 12|Exodus 12:33]] · [[connections/chapters/02-exodus/Exodus 3|Exodus 3:19–20]] · [[connections/chapters/02-exodus/Exodus 12|Exodus 12:31]] · [[connections/chapters/19-psalms/Psalms 136|Psalms 136:12]] · [[connections/chapters/02-exodus/Exodus 12|Exodus 12:39]] · [[connections/chapters/26-ezekiel/Ezekiel 20|Ezekiel 20:33–34]] · [[connections/chapters/02-exodus/Exodus 11|Exodus 11:1]] · [[connections/chapters/05-deuteronomy/Deuteronomy 32|Deuteronomy 32:39]]

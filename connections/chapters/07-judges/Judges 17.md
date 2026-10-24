@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "history"]
 
 ![[text/hebrew/07-judges#Chapter 17]]
 
+## Plain English translation
+
+![[text/english/07-judges#Chapter 17]]
+
 ## Cross-references
 
 - **17:6** → [[connections/chapters/05-deuteronomy/Deuteronomy 12|Deuteronomy 12:8]] · [[connections/chapters/20-proverbs/Proverbs 14|Proverbs 14:12]] · [[connections/chapters/20-proverbs/Proverbs 12|Proverbs 12:15]] · [[connections/chapters/07-judges/Judges 21|Judges 21:25]]

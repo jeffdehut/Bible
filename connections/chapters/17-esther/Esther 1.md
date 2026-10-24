@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "history"]
 
 ![[text/hebrew/17-esther#Chapter 1]]
 
+## Plain English translation
+
+![[text/english/17-esther#Chapter 1]]
+
 ## Cross-references
 
 - **1:11** → [[connections/chapters/20-proverbs/Proverbs 31|Proverbs 31:30]]

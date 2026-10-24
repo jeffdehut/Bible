@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "wisdom"]
 
 ![[text/hebrew/18-job#Chapter 24]]
 
+## Plain English translation
+
+![[text/english/18-job#Chapter 24]]
+
 ## Cross-references
 
 - **24:1** → [[connections/chapters/44-acts/Acts 1|Acts 1:7]] · [[connections/chapters/21-ecclesiastes/Ecclesiastes 3|Ecclesiastes 3:17]]

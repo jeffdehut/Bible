@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "torah"]
 
 ![[text/hebrew/05-deuteronomy#Chapter 23]]
 
+## Plain English translation
+
+![[text/english/05-deuteronomy#Chapter 23]]
+
 ## Cross-references
 
 - **23:4** → [[connections/chapters/16-nehemiah/Nehemiah 13|Nehemiah 13:1–2]]

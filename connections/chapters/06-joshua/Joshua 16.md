@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "history"]
 
 ![[text/hebrew/06-joshua#Chapter 16]]
 
+## Plain English translation
+
+![[text/english/06-joshua#Chapter 16]]
+
 ## Cross-references
 
 - **16:10** → [[connections/chapters/07-judges/Judges 1|Judges 1:29]]

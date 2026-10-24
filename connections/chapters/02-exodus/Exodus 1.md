@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "torah"]
 
 ![[text/hebrew/02-exodus#Chapter 1]]
 
+## Plain English translation
+
+![[text/english/02-exodus#Chapter 1]]
+
 ## Cross-references
 
 - **1:7** → [[connections/chapters/01-genesis/Genesis 46|Genesis 46:3]]

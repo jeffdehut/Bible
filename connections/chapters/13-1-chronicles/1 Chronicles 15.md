@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "history"]
 
 ![[text/hebrew/13-1-chronicles#Chapter 15]]
 
+## Plain English translation
+
+![[text/english/13-1-chronicles#Chapter 15]]
+
 ## Cross-references
 
 - **15:2** → [[connections/chapters/05-deuteronomy/Deuteronomy 10|Deuteronomy 10:8]] · [[connections/chapters/04-numbers/Numbers 18|Numbers 18:1–8]] · [[connections/chapters/05-deuteronomy/Deuteronomy 31|Deuteronomy 31:9]]

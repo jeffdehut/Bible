@@ -18,6 +18,10 @@ tags: ["chapter", "ot", "history"]
 
 ![[text/hebrew/07-judges#Chapter 1]]
 
+## Plain English translation
+
+![[text/english/07-judges#Chapter 1]]
+
 ## Cross-references
 
 - **1:7** → [[connections/chapters/66-revelation/Revelation 13|Revelation 13:10]] · [[connections/chapters/09-1-samuel/1 Samuel 15|1 Samuel 15:33]]

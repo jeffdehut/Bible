@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "torah"]
 
 ![[text/hebrew/01-genesis#Chapter 16]]
 
+## Plain English translation
+
+![[text/english/01-genesis#Chapter 16]]
+
 ## Cross-references
 
 - **16:1** → [[connections/chapters/48-galatians/Galatians 4|Galatians 4:24]]

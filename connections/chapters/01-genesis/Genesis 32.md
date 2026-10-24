@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "torah"]
 
 ![[text/hebrew/01-genesis#Chapter 32]]
 
+## Plain English translation
+
+![[text/english/01-genesis#Chapter 32]]
+
 ## Cross-references
 
 - **32:10** → [[connections/chapters/01-genesis/Genesis 31|Genesis 31:42]] · [[connections/chapters/19-psalms/Psalms 34|Psalms 34:5–7]]

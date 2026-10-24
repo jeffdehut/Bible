@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "history"]
 
 ![[text/hebrew/16-nehemiah#Chapter 12]]
 
+## Plain English translation
+
+![[text/english/16-nehemiah#Chapter 12]]
+
 ## Cross-references
 
 - **12:39** → [[connections/chapters/16-nehemiah/Nehemiah 3|Nehemiah 3:1]]

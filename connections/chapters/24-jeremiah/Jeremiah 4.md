@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "prophets"]
 
 ![[text/hebrew/24-jeremiah#Chapter 4]]
 
+## Plain English translation
+
+![[text/english/24-jeremiah#Chapter 4]]
+
 ## Cross-references
 
 - **4:1** → [[connections/chapters/29-joel/Joel 2|Joel 2:12]] · [[connections/chapters/24-jeremiah/Jeremiah 3|Jeremiah 3:22]]

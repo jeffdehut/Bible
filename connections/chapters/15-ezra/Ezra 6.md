@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "history"]
 
 ![[text/hebrew/15-ezra#Chapter 6]]
 
+## Plain English translation
+
+![[text/english/15-ezra#Chapter 6]]
+
 ## Cross-references
 
 - **6:22** → [[connections/chapters/15-ezra/Ezra 1|Ezra 1:1]] · [[connections/chapters/20-proverbs/Proverbs 21|Proverbs 21:1]] · [[connections/chapters/14-2-chronicles/2 Chronicles 30|2 Chronicles 30:21]] · [[connections/chapters/20-proverbs/Proverbs 16|Proverbs 16:7]] · [[connections/chapters/14-2-chronicles/2 Chronicles 35|2 Chronicles 35:17]] · [[connections/chapters/15-ezra/Ezra 7|Ezra 7:27]]

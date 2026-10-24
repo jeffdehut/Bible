@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "prophets"]
 
 ![[text/hebrew/24-jeremiah#Chapter 3]]
 
+## Plain English translation
+
+![[text/english/24-jeremiah#Chapter 3]]
+
 ## Cross-references
 
 - **3:1** → [[connections/chapters/05-deuteronomy/Deuteronomy 24|Deuteronomy 24:1–4]]

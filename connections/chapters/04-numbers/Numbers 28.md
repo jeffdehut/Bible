@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "torah"]
 
 ![[text/hebrew/04-numbers#Chapter 28]]
 
+## Plain English translation
+
+![[text/english/04-numbers#Chapter 28]]
+
 ## Cross-references
 
 *No cross-references with at least 8 votes.*

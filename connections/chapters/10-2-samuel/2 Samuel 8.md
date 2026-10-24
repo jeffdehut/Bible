@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "history"]
 
 ![[text/hebrew/10-2-samuel#Chapter 8]]
 
+## Plain English translation
+
+![[text/english/10-2-samuel#Chapter 8]]
+
 ## Cross-references
 
 - **8:6** → [[connections/chapters/10-2-samuel/2 Samuel 8|2 Samuel 8:14]]

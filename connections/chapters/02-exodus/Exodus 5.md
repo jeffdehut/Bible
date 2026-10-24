@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "torah"]
 
 ![[text/hebrew/02-exodus#Chapter 5]]
 
+## Plain English translation
+
+![[text/english/02-exodus#Chapter 5]]
+
 ## Cross-references
 
 - **5:1** → [[connections/chapters/02-exodus/Exodus 10|Exodus 10:9]]

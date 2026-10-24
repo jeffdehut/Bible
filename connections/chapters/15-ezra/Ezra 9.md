@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "history"]
 
 ![[text/hebrew/15-ezra#Chapter 9]]
 
+## Plain English translation
+
+![[text/english/15-ezra#Chapter 9]]
+
 ## Cross-references
 
 - **9:2** → [[connections/chapters/16-nehemiah/Nehemiah 13|Nehemiah 13:23–24]]

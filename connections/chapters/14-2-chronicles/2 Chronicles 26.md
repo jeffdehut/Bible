@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "history"]
 
 ![[text/hebrew/14-2-chronicles#Chapter 26]]
 
+## Plain English translation
+
+![[text/english/14-2-chronicles#Chapter 26]]
+
 ## Cross-references
 
 - **26:5** → [[connections/chapters/14-2-chronicles/2 Chronicles 15|2 Chronicles 15:2]] · [[connections/chapters/14-2-chronicles/2 Chronicles 24|2 Chronicles 24:2]]

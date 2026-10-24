@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "history"]
 
 ![[text/hebrew/14-2-chronicles#Chapter 30]]
 
+## Plain English translation
+
+![[text/english/14-2-chronicles#Chapter 30]]
+
 ## Cross-references
 
 - **30:9** → [[connections/chapters/23-isaiah/Isaiah 55|Isaiah 55:7]] · [[connections/chapters/33-micah/Micah 7|Micah 7:18]]

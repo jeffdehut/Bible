@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "wisdom"]
 
 ![[text/hebrew/18-job#Chapter 39]]
 
+## Plain English translation
+
+![[text/english/18-job#Chapter 39]]
+
 ## Cross-references
 
 *No cross-references with at least 8 votes.*

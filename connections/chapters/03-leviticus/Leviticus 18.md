@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "torah"]
 
 ![[text/hebrew/03-leviticus#Chapter 18]]
 
+## Plain English translation
+
+![[text/english/03-leviticus#Chapter 18]]
+
 ## Cross-references
 
 - **18:5** → [[connections/chapters/48-galatians/Galatians 3|Galatians 3:12]] · [[connections/chapters/45-romans/Romans 10|Romans 10:5]] · [[connections/chapters/26-ezekiel/Ezekiel 20|Ezekiel 20:11]] · [[connections/chapters/26-ezekiel/Ezekiel 20|Ezekiel 20:13]] · [[connections/chapters/26-ezekiel/Ezekiel 20|Ezekiel 20:21]]

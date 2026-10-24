@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "history"]
 
 ![[text/hebrew/10-2-samuel#Chapter 14]]
 
+## Plain English translation
+
+![[text/english/10-2-samuel#Chapter 14]]
+
 ## Cross-references
 
 - **14:14** → [[connections/chapters/18-job/Job 30|Job 30:23]] · [[connections/chapters/58-hebrews/Hebrews 9|Hebrews 9:27]] · [[connections/chapters/04-numbers/Numbers 35|Numbers 35:28]] · [[connections/chapters/04-numbers/Numbers 35|Numbers 35:15]] · [[connections/chapters/18-job/Job 34|Job 34:15]] · [[connections/chapters/04-numbers/Numbers 35|Numbers 35:25]]

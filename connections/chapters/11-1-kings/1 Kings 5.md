@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "history"]
 
 ![[text/hebrew/11-1-kings#Chapter 5]]
 
+## Plain English translation
+
+![[text/english/11-1-kings#Chapter 5]]
+
 ## Cross-references
 
 - **5:9** → [[connections/chapters/59-james/James 3|James 3:17]] · [[connections/chapters/11-1-kings/1 Kings 3|1 Kings 3:12]] · [[connections/chapters/59-james/James 1|James 1:5]] · [[connections/chapters/11-1-kings/1 Kings 4|1 Kings 4:20]]

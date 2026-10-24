@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "torah"]
 
 ![[text/hebrew/04-numbers#Chapter 30]]
 
+## Plain English translation
+
+![[text/english/04-numbers#Chapter 30]]
+
 ## Cross-references
 
 - **30:3** → [[connections/chapters/19-psalms/Psalms 50|Psalms 50:14]] · [[connections/chapters/19-psalms/Psalms 116|Psalms 116:14]]

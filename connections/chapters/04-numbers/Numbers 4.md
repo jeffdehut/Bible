@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "torah"]
 
 ![[text/hebrew/04-numbers#Chapter 4]]
 
+## Plain English translation
+
+![[text/english/04-numbers#Chapter 4]]
+
 ## Cross-references
 
 *No cross-references with at least 8 votes.*

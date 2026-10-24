@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "history"]
 
 ![[text/hebrew/07-judges#Chapter 10]]
 
+## Plain English translation
+
+![[text/english/07-judges#Chapter 10]]
+
 ## Cross-references
 
 - **10:10** → [[connections/chapters/09-1-samuel/1 Samuel 12|1 Samuel 12:10]]

@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "history"]
 
 ![[text/hebrew/16-nehemiah#Chapter 5]]
 
+## Plain English translation
+
+![[text/english/16-nehemiah#Chapter 5]]
+
 ## Cross-references
 
 - **5:15** → [[connections/chapters/16-nehemiah/Nehemiah 5|Nehemiah 5:9]]

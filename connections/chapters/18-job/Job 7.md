@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "wisdom"]
 
 ![[text/hebrew/18-job#Chapter 7]]
 
+## Plain English translation
+
+![[text/english/18-job#Chapter 7]]
+
 ## Cross-references
 
 - **7:1** → [[connections/chapters/18-job/Job 14|Job 14:5–6]]

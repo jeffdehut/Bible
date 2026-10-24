@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "torah"]
 
 ![[text/hebrew/04-numbers#Chapter 17]]
 
+## Plain English translation
+
+![[text/english/04-numbers#Chapter 17]]
+
 ## Cross-references
 
 - **17:23** → [[connections/chapters/26-ezekiel/Ezekiel 17|Ezekiel 17:24]]

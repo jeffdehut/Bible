@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "wisdom"]
 
 ![[text/hebrew/19-psalms#Chapter 11]]
 
+## Plain English translation
+
+![[text/english/19-psalms#Chapter 11]]
+
 ## Cross-references
 
 - **11:1** → [[connections/chapters/23-isaiah/Isaiah 26|Isaiah 26:3–4]] · [[connections/chapters/19-psalms/Psalms 56|Psalms 56:12]] · [[connections/chapters/09-1-samuel/1 Samuel 23|1 Samuel 23:14]] · [[connections/chapters/19-psalms/Psalms 25|Psalms 25:2]]

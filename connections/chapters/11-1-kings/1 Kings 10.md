@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "history"]
 
 ![[text/hebrew/11-1-kings#Chapter 10]]
 
+## Plain English translation
+
+![[text/english/11-1-kings#Chapter 10]]
+
 ## Cross-references
 
 - **10:1** → [[connections/chapters/40-matthew/Matthew 12|Matthew 12:42]] · [[connections/chapters/42-luke/Luke 11|Luke 11:31]]

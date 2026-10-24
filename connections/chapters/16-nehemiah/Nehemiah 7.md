@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "history"]
 
 ![[text/hebrew/16-nehemiah#Chapter 7]]
 
+## Plain English translation
+
+![[text/english/16-nehemiah#Chapter 7]]
+
 ## Cross-references
 
 - **7:7** → [[connections/chapters/15-ezra/Ezra 2|Ezra 2:2]]

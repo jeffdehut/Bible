@@ -18,6 +18,10 @@ tags: ["chapter", "ot", "wisdom"]
 
 ![[text/hebrew/19-psalms#Chapter 5]]
 
+## Plain English translation
+
+![[text/english/19-psalms#Chapter 5]]
+
 ## Cross-references
 
 - **5:2** → [[connections/chapters/62-1-john/1 John 5|1 John 5:14–15]] · [[connections/chapters/19-psalms/Psalms 19|Psalms 19:15]] · [[connections/chapters/19-psalms/Psalms 54|Psalms 54:4]] · [[connections/chapters/60-1-peter/1 Peter 3|1 Peter 3:12]] · [[connections/chapters/19-psalms/Psalms 55|Psalms 55:2–3]] · [[connections/chapters/19-psalms/Psalms 64|Psalms 64:2]] · [[connections/chapters/19-psalms/Psalms 17|Psalms 17:1]] · [[connections/chapters/45-romans/Romans 8|Romans 8:26]] · [[connections/chapters/19-psalms/Psalms 86|Psalms 86:1]]

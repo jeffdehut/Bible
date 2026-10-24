@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "history"]
 
 ![[text/hebrew/11-1-kings#Chapter 14]]
 
+## Plain English translation
+
+![[text/english/11-1-kings#Chapter 14]]
+
 ## Cross-references
 
 - **14:13** → [[connections/chapters/14-2-chronicles/2 Chronicles 19|2 Chronicles 19:3]]

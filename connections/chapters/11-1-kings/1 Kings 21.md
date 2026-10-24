@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "history"]
 
 ![[text/hebrew/11-1-kings#Chapter 21]]
 
+## Plain English translation
+
+![[text/english/11-1-kings#Chapter 21]]
+
 ## Cross-references
 
 - **21:3** → [[connections/chapters/04-numbers/Numbers 36|Numbers 36:7]] · [[connections/chapters/03-leviticus/Leviticus 25|Leviticus 25:23]]

@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "torah"]
 
 ![[text/hebrew/02-exodus#Chapter 7]]
 
+## Plain English translation
+
+![[text/english/02-exodus#Chapter 7]]
+
 ## Cross-references
 
 - **7:1** → [[connections/chapters/02-exodus/Exodus 4|Exodus 4:15–16]] · [[connections/chapters/19-psalms/Psalms 82|Psalms 82:6]] · [[connections/chapters/43-john/John 10|John 10:35–36]] · [[connections/chapters/24-jeremiah/Jeremiah 1|Jeremiah 1:10]]

@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "wisdom"]
 
 ![[text/hebrew/18-job#Chapter 20]]
 
+## Plain English translation
+
+![[text/english/18-job#Chapter 20]]
+
 ## Cross-references
 
 - **20:5** → [[connections/chapters/19-psalms/Psalms 37|Psalms 37:35–36]]

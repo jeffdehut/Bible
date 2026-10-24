@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "torah"]
 
 ![[text/hebrew/02-exodus#Chapter 3]]
 
+## Plain English translation
+
+![[text/english/02-exodus#Chapter 3]]
+
 ## Cross-references
 
 - **3:1** → [[connections/chapters/11-1-kings/1 Kings 19|1 Kings 19:8]]

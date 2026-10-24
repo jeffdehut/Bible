@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "history"]
 
 ![[text/hebrew/09-1-samuel#Chapter 17]]
 
+## Plain English translation
+
+![[text/english/09-1-samuel#Chapter 17]]
+
 ## Cross-references
 
 - **17:32** → [[connections/chapters/09-1-samuel/1 Samuel 16|1 Samuel 16:18]] · [[connections/chapters/05-deuteronomy/Deuteronomy 20|Deuteronomy 20:1–3]]

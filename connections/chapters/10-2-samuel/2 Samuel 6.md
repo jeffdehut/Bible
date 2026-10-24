@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "history"]
 
 ![[text/hebrew/10-2-samuel#Chapter 6]]
 
+## Plain English translation
+
+![[text/english/10-2-samuel#Chapter 6]]
+
 ## Cross-references
 
 - **6:7** → [[connections/chapters/09-1-samuel/1 Samuel 6|1 Samuel 6:19]]

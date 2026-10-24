@@ -18,6 +18,10 @@ tags: ["chapter", "ot", "history"]
 
 ![[text/hebrew/15-ezra#Chapter 2]]
 
+## Plain English translation
+
+![[text/english/15-ezra#Chapter 2]]
+
 ## Cross-references
 
 *No cross-references with at least 8 votes.*

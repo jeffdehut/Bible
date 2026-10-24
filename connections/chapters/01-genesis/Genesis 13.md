@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "torah"]
 
 ![[text/hebrew/01-genesis#Chapter 13]]
 
+## Plain English translation
+
+![[text/english/01-genesis#Chapter 13]]
+
 ## Cross-references
 
 - **13:2** → [[connections/chapters/19-psalms/Psalms 112|Psalms 112:1–3]] · [[connections/chapters/01-genesis/Genesis 24|Genesis 24:35]]

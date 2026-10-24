@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "history"]
 
 ![[text/hebrew/11-1-kings#Chapter 13]]
 
+## Plain English translation
+
+![[text/english/11-1-kings#Chapter 13]]
+
 ## Cross-references
 
 - **13:1** → [[connections/chapters/11-1-kings/1 Kings 12|1 Kings 12:32–33]] · [[connections/chapters/12-2-kings/2 Kings 23|2 Kings 23:17]]

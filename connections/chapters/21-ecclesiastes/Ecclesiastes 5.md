@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "wisdom"]
 
 ![[text/hebrew/21-ecclesiastes#Chapter 5]]
 
+## Plain English translation
+
+![[text/english/21-ecclesiastes#Chapter 5]]
+
 ## Cross-references
 
 - **5:1** → [[connections/chapters/40-matthew/Matthew 6|Matthew 6:7]] · [[connections/chapters/20-proverbs/Proverbs 10|Proverbs 10:19]] · [[connections/chapters/23-isaiah/Isaiah 55|Isaiah 55:9]] · [[connections/chapters/40-matthew/Matthew 6|Matthew 6:9]] · [[connections/chapters/21-ecclesiastes/Ecclesiastes 5|Ecclesiastes 5:2]] · [[connections/chapters/04-numbers/Numbers 30|Numbers 30:3–6]] · [[connections/chapters/21-ecclesiastes/Ecclesiastes 5|Ecclesiastes 5:6]] · [[connections/chapters/01-genesis/Genesis 18|Genesis 18:27]] · [[connections/chapters/20-proverbs/Proverbs 20|Proverbs 20:25]] · [[connections/chapters/01-genesis/Genesis 28|Genesis 28:20]] · [[connections/chapters/59-james/James 3|James 3:2]] · [[connections/chapters/19-psalms/Psalms 115|Psalms 115:3]]

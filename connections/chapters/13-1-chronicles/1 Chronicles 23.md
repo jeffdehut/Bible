@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "history"]
 
 ![[text/hebrew/13-1-chronicles#Chapter 23]]
 
+## Plain English translation
+
+![[text/english/13-1-chronicles#Chapter 23]]
+
 ## Cross-references
 
 - **23:1** → [[connections/chapters/13-1-chronicles/1 Chronicles 29|1 Chronicles 29:28]]

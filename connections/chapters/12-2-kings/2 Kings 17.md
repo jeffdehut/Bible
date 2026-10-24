@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "history"]
 
 ![[text/hebrew/12-2-kings#Chapter 17]]
 
+## Plain English translation
+
+![[text/english/12-2-kings#Chapter 17]]
+
 ## Cross-references
 
 - **17:15** → [[connections/chapters/05-deuteronomy/Deuteronomy 12|Deuteronomy 12:30–31]]

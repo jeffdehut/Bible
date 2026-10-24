@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "history"]
 
 ![[text/hebrew/11-1-kings#Chapter 18]]
 
+## Plain English translation
+
+![[text/english/11-1-kings#Chapter 18]]
+
 ## Cross-references
 
 - **18:1** → [[connections/chapters/42-luke/Luke 4|Luke 4:25]]

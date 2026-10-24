@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "prophets"]
 
 ![[text/hebrew/23-isaiah#Chapter 5]]
 
+## Plain English translation
+
+![[text/english/23-isaiah#Chapter 5]]
+
 ## Cross-references
 
 - **5:1** → [[connections/chapters/41-mark/Mark 12|Mark 12:1]] · [[connections/chapters/42-luke/Luke 20|Luke 20:9]] · [[connections/chapters/43-john/John 15|John 15:1]]

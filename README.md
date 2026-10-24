@@ -80,8 +80,9 @@ differ from English Bibles: Psalm titles count as verse 1, and Malachi has 3 cha
 
 A new translation into plain English, made directly from the Hebrew and Greek above. It
 gives a note wherever the source could be read another way, so readers can always see what
-the original says. It is in its pilot stage: the whole Gospel of Mark, plus Genesis 1, Psalm 23 and John 1,
-is drafted for review. Read [TRANSLATION.md](TRANSLATION.md) for the principles and the decisions still
+the original says. Genesis through Esther (the Pentateuch and the Historical Books) and the Gospel of
+Mark are drafted, with work under way in Job, Psalms, Proverbs, Ecclesiastes, Isaiah and
+Jeremiah: 547 of 1,189 chapters, all awaiting review. Read [TRANSLATION.md](TRANSLATION.md) for the principles and the decisions still
 open, and [translation/STATUS.md](translation/STATUS.md) for progress. Every chapter carries
 its review status, and drafts are marked as AI-generated until people who read Hebrew or
 Greek have reviewed them.

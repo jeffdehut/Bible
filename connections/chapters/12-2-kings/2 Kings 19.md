@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "history"]
 
 ![[text/hebrew/12-2-kings#Chapter 19]]
 
+## Plain English translation
+
+![[text/english/12-2-kings#Chapter 19]]
+
 ## Cross-references
 
 - **19:20** → [[connections/chapters/12-2-kings/2 Kings 20|2 Kings 20:5]]

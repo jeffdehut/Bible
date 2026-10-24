@@ -18,6 +18,10 @@ tags: ["chapter", "ot", "wisdom"]
 
 ![[text/hebrew/19-psalms#Chapter 6]]
 
+## Plain English translation
+
+![[text/english/19-psalms#Chapter 6]]
+
 ## Cross-references
 
 - **6:2** → [[connections/chapters/19-psalms/Psalms 38|Psalms 38:2]] · [[connections/chapters/19-psalms/Psalms 118|Psalms 118:18]] · [[connections/chapters/24-jeremiah/Jeremiah 10|Jeremiah 10:24]] · [[connections/chapters/24-jeremiah/Jeremiah 46|Jeremiah 46:28]]

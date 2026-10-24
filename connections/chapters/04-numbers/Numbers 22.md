@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "torah"]
 
 ![[text/hebrew/04-numbers#Chapter 22]]
 
+## Plain English translation
+
+![[text/english/04-numbers#Chapter 22]]
+
 ## Cross-references
 
 - **22:5** → [[connections/chapters/05-deuteronomy/Deuteronomy 23|Deuteronomy 23:5]]

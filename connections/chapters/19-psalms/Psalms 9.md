@@ -18,6 +18,10 @@ tags: ["chapter", "ot", "wisdom"]
 
 ![[text/hebrew/19-psalms#Chapter 9]]
 
+## Plain English translation
+
+![[text/english/19-psalms#Chapter 9]]
+
 ## Cross-references
 
 - **9:2** → [[connections/chapters/19-psalms/Psalms 86|Psalms 86:12]] · [[connections/chapters/13-1-chronicles/1 Chronicles 16|1 Chronicles 16:24]] · [[connections/chapters/19-psalms/Psalms 111|Psalms 111:1]] · [[connections/chapters/19-psalms/Psalms 145|Psalms 145:1–3]] · [[connections/chapters/19-psalms/Psalms 103|Psalms 103:1–2]] · [[connections/chapters/19-psalms/Psalms 26|Psalms 26:7]] · [[connections/chapters/19-psalms/Psalms 146|Psalms 146:1–2]] · [[connections/chapters/58-hebrews/Hebrews 13|Hebrews 13:15]] · [[connections/chapters/19-psalms/Psalms 138|Psalms 138:1]] · [[connections/chapters/13-1-chronicles/1 Chronicles 16|1 Chronicles 16:12]] · [[connections/chapters/19-psalms/Psalms 7|Psalms 7:18]] · [[connections/chapters/19-psalms/Psalms 51|Psalms 51:17]] · [[connections/chapters/23-isaiah/Isaiah 43|Isaiah 43:21]] · [[connections/chapters/23-isaiah/Isaiah 12|Isaiah 12:1]] · [[connections/chapters/66-revelation/Revelation 15|Revelation 15:3]] · [[connections/chapters/42-luke/Luke 10|Luke 10:27]] · [[connections/chapters/66-revelation/Revelation 5|Revelation 5:9–14]] · [[connections/chapters/13-1-chronicles/1 Chronicles 29|1 Chronicles 29:10–13]] · [[connections/chapters/23-isaiah/Isaiah 60|Isaiah 60:6]] · [[connections/chapters/19-psalms/Psalms 34|Psalms 34:2–5]] · [[connections/chapters/19-psalms/Psalms 106|Psalms 106:2]] · [[connections/chapters/19-psalms/Psalms 9|Psalms 9:15]]

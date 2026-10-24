@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "history"]
 
 ![[text/hebrew/06-joshua#Chapter 12]]
 
+## Plain English translation
+
+![[text/english/06-joshua#Chapter 12]]
+
 ## Cross-references
 
 - **12:3** → [[connections/chapters/05-deuteronomy/Deuteronomy 3|Deuteronomy 3:17]]

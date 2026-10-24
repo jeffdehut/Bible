@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "torah"]
 
 ![[text/hebrew/01-genesis#Chapter 49]]
 
+## Plain English translation
+
+![[text/english/01-genesis#Chapter 49]]
+
 ## Cross-references
 
 - **49:4** → [[connections/chapters/01-genesis/Genesis 35|Genesis 35:22]] · [[connections/chapters/13-1-chronicles/1 Chronicles 5|1 Chronicles 5:1]] · [[connections/chapters/05-deuteronomy/Deuteronomy 27|Deuteronomy 27:20]]

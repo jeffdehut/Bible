@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "prophets"]
 
 ![[text/hebrew/23-isaiah#Chapter 4]]
 
+## Plain English translation
+
+![[text/english/23-isaiah#Chapter 4]]
+
 ## Cross-references
 
 - **4:1** → [[connections/chapters/01-genesis/Genesis 30|Genesis 30:23]] · [[connections/chapters/23-isaiah/Isaiah 2|Isaiah 2:17]] · [[connections/chapters/42-luke/Luke 21|Luke 21:22]] · [[connections/chapters/23-isaiah/Isaiah 13|Isaiah 13:12]] · [[connections/chapters/42-luke/Luke 1|Luke 1:25]]

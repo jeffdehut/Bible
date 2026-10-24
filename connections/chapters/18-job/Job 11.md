@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "wisdom"]
 
 ![[text/hebrew/18-job#Chapter 11]]
 
+## Plain English translation
+
+![[text/english/18-job#Chapter 11]]
+
 ## Cross-references
 
 - **11:6** → [[connections/chapters/15-ezra/Ezra 9|Ezra 9:13]] · [[connections/chapters/25-lamentations/Lamentations 3|Lamentations 3:22]]

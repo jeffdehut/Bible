@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "torah"]
 
 ![[text/hebrew/04-numbers#Chapter 8]]
 
+## Plain English translation
+
+![[text/english/04-numbers#Chapter 8]]
+
 ## Cross-references
 
 - **8:12** → [[connections/chapters/58-hebrews/Hebrews 10|Hebrews 10:4–10]]

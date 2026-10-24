@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "torah"]
 
 ![[text/hebrew/03-leviticus#Chapter 21]]
 
+## Plain English translation
+
+![[text/english/03-leviticus#Chapter 21]]
+
 ## Cross-references
 
 - **21:5** → [[connections/chapters/05-deuteronomy/Deuteronomy 14|Deuteronomy 14:1]] · [[connections/chapters/26-ezekiel/Ezekiel 44|Ezekiel 44:20]]

@@ -18,6 +18,10 @@ tags: ["chapter", "ot", "history"]
 
 ![[text/hebrew/07-judges#Chapter 5]]
 
+## Plain English translation
+
+![[text/english/07-judges#Chapter 5]]
+
 ## Cross-references
 
 - **5:4** → [[connections/chapters/05-deuteronomy/Deuteronomy 33|Deuteronomy 33:2]]

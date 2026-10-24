@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "torah"]
 
 ![[text/hebrew/04-numbers#Chapter 24]]
 
+## Plain English translation
+
+![[text/english/04-numbers#Chapter 24]]
+
 ## Cross-references
 
 - **24:8** → [[connections/chapters/19-psalms/Psalms 45|Psalms 45:6]]

@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "history"]
 
 ![[text/hebrew/07-judges#Chapter 16]]
 
+## Plain English translation
+
+![[text/english/07-judges#Chapter 16]]
+
 ## Cross-references
 
 - **16:20** → [[connections/chapters/04-numbers/Numbers 14|Numbers 14:42–43]] · [[connections/chapters/09-1-samuel/1 Samuel 16|1 Samuel 16:14]]

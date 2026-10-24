@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "history"]
 
 ![[text/hebrew/09-1-samuel#Chapter 6]]
 
+## Plain English translation
+
+![[text/english/09-1-samuel#Chapter 6]]
+
 ## Cross-references
 
 - **6:19** → [[connections/chapters/04-numbers/Numbers 4|Numbers 4:20]]

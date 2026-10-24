@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "torah"]
 
 ![[text/hebrew/03-leviticus#Chapter 15]]
 
+## Plain English translation
+
+![[text/english/03-leviticus#Chapter 15]]
+
 ## Cross-references
 
 - **15:31** → [[connections/chapters/04-numbers/Numbers 19|Numbers 19:20]] · [[connections/chapters/04-numbers/Numbers 19|Numbers 19:13]] · [[connections/chapters/26-ezekiel/Ezekiel 5|Ezekiel 5:11]]

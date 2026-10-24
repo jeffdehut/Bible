@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "torah"]
 
 ![[text/hebrew/03-leviticus#Chapter 25]]
 
+## Plain English translation
+
+![[text/english/03-leviticus#Chapter 25]]
+
 ## Cross-references
 
 - **25:9** → [[connections/chapters/03-leviticus/Leviticus 23|Leviticus 23:24]]

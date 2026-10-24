@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "torah"]
 
 ![[text/hebrew/02-exodus#Chapter 17]]
 
+## Plain English translation
+
+![[text/english/02-exodus#Chapter 17]]
+
 ## Cross-references
 
 - **17:6** → [[connections/chapters/46-1-corinthians/1 Corinthians 10|1 Corinthians 10:4]] · [[connections/chapters/04-numbers/Numbers 20|Numbers 20:9–11]] · [[connections/chapters/16-nehemiah/Nehemiah 9|Nehemiah 9:15]] · [[connections/chapters/19-psalms/Psalms 105|Psalms 105:41]] · [[connections/chapters/05-deuteronomy/Deuteronomy 8|Deuteronomy 8:15]] · [[connections/chapters/19-psalms/Psalms 78|Psalms 78:15–16]] · [[connections/chapters/43-john/John 4|John 4:10]] · [[connections/chapters/19-psalms/Psalms 114|Psalms 114:8]] · [[connections/chapters/19-psalms/Psalms 78|Psalms 78:20]] · [[connections/chapters/23-isaiah/Isaiah 41|Isaiah 41:17–18]] · [[connections/chapters/43-john/John 4|John 4:14]] · [[connections/chapters/19-psalms/Psalms 46|Psalms 46:5]] · [[connections/chapters/43-john/John 7|John 7:37–38]] · [[connections/chapters/66-revelation/Revelation 22|Revelation 22:17]] · [[connections/chapters/23-isaiah/Isaiah 48|Isaiah 48:21]] · [[connections/chapters/23-isaiah/Isaiah 43|Isaiah 43:19–20]] · [[connections/chapters/02-exodus/Exodus 3|Exodus 3:1–5]]

@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "wisdom"]
 
 ![[text/hebrew/18-job#Chapter 8]]
 
+## Plain English translation
+
+![[text/english/18-job#Chapter 8]]
+
 ## Cross-references
 
 - **8:5** → [[connections/chapters/59-james/James 4|James 4:7–10]]

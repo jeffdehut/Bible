@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "torah"]
 
 ![[text/hebrew/01-genesis#Chapter 12]]
 
+## Plain English translation
+
+![[text/english/01-genesis#Chapter 12]]
+
 ## Cross-references
 
 - **12:1** → [[connections/chapters/58-hebrews/Hebrews 11|Hebrews 11:8]] · [[connections/chapters/44-acts/Acts 7|Acts 7:2–6]] · [[connections/chapters/16-nehemiah/Nehemiah 9|Nehemiah 9:7]] · [[connections/chapters/23-isaiah/Isaiah 51|Isaiah 51:2]] · [[connections/chapters/06-joshua/Joshua 24|Joshua 24:2–3]] · [[connections/chapters/42-luke/Luke 14|Luke 14:26–33]] · [[connections/chapters/01-genesis/Genesis 11|Genesis 11:31–32]] · [[connections/chapters/01-genesis/Genesis 15|Genesis 15:7]] · [[connections/chapters/26-ezekiel/Ezekiel 33|Ezekiel 33:24]] · [[connections/chapters/47-2-corinthians/2 Corinthians 6|2 Corinthians 6:17]] · [[connections/chapters/19-psalms/Psalms 45|Psalms 45:11–12]]

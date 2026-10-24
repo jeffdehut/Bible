@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "torah"]
 
 ![[text/hebrew/01-genesis#Chapter 9]]
 
+## Plain English translation
+
+![[text/english/01-genesis#Chapter 9]]
+
 ## Cross-references
 
 - **9:1** → [[connections/chapters/01-genesis/Genesis 1|Genesis 1:28]] · [[connections/chapters/01-genesis/Genesis 9|Genesis 9:7]]

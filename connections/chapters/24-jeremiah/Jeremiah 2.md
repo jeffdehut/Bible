@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "prophets"]
 
 ![[text/hebrew/24-jeremiah#Chapter 2]]
 
+## Plain English translation
+
+![[text/english/24-jeremiah#Chapter 2]]
+
 ## Cross-references
 
 - **2:2** → [[connections/chapters/26-ezekiel/Ezekiel 16|Ezekiel 16:60]] · [[connections/chapters/26-ezekiel/Ezekiel 16|Ezekiel 16:8]] · [[connections/chapters/24-jeremiah/Jeremiah 11|Jeremiah 11:6]]

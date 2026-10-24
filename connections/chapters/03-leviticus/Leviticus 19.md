@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "torah"]
 
 ![[text/hebrew/03-leviticus#Chapter 19]]
 
+## Plain English translation
+
+![[text/english/03-leviticus#Chapter 19]]
+
 ## Cross-references
 
 - **19:2** → [[connections/chapters/03-leviticus/Leviticus 11|Leviticus 11:44–45]] · [[connections/chapters/03-leviticus/Leviticus 20|Leviticus 20:7]] · [[connections/chapters/60-1-peter/1 Peter 1|1 Peter 1:15–16]] · [[connections/chapters/47-2-corinthians/2 Corinthians 6|2 Corinthians 6:14–16]] · [[connections/chapters/40-matthew/Matthew 5|Matthew 5:48]] · [[connections/chapters/03-leviticus/Leviticus 20|Leviticus 20:26]] · [[connections/chapters/47-2-corinthians/2 Corinthians 7|2 Corinthians 7:1]] · [[connections/chapters/02-exodus/Exodus 19|Exodus 19:6]] · [[connections/chapters/03-leviticus/Leviticus 21|Leviticus 21:8]]

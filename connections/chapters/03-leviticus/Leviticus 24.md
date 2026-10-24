@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "torah"]
 
 ![[text/hebrew/03-leviticus#Chapter 24]]
 
+## Plain English translation
+
+![[text/english/03-leviticus#Chapter 24]]
+
 ## Cross-references
 
 - **24:5** → [[connections/chapters/02-exodus/Exodus 25|Exodus 25:30]]

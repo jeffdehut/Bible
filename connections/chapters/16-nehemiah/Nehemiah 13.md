@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "history"]
 
 ![[text/hebrew/16-nehemiah#Chapter 13]]
 
+## Plain English translation
+
+![[text/english/16-nehemiah#Chapter 13]]
+
 ## Cross-references
 
 - **13:1** → [[connections/chapters/05-deuteronomy/Deuteronomy 23|Deuteronomy 23:4–6]]

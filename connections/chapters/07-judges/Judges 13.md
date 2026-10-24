@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "history"]
 
 ![[text/hebrew/07-judges#Chapter 13]]
 
+## Plain English translation
+
+![[text/english/07-judges#Chapter 13]]
+
 ## Cross-references
 
 - **13:2** → [[connections/chapters/06-joshua/Joshua 19|Joshua 19:41]]

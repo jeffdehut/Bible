@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "wisdom"]
 
 ![[text/hebrew/18-job#Chapter 38]]
 
+## Plain English translation
+
+![[text/english/18-job#Chapter 38]]
+
 ## Cross-references
 
 - **38:1** → [[connections/chapters/18-job/Job 40|Job 40:6]]

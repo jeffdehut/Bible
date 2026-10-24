@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "torah"]
 
 ![[text/hebrew/04-numbers#Chapter 32]]
 
+## Plain English translation
+
+![[text/english/04-numbers#Chapter 32]]
+
 ## Cross-references
 
 - **32:11** → [[connections/chapters/04-numbers/Numbers 14|Numbers 14:28–30]]

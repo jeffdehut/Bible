@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "wisdom"]
 
 ![[text/hebrew/18-job#Chapter 12]]
 
+## Plain English translation
+
+![[text/english/18-job#Chapter 12]]
+
 ## Cross-references
 
 - **12:7** → [[connections/chapters/23-isaiah/Isaiah 1|Isaiah 1:3]]

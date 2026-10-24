@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "torah"]
 
 ![[text/hebrew/04-numbers#Chapter 21]]
 
+## Plain English translation
+
+![[text/english/04-numbers#Chapter 21]]
+
 ## Cross-references
 
 - **21:4** → [[connections/chapters/02-exodus/Exodus 6|Exodus 6:9]]

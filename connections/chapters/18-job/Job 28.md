@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "wisdom"]
 
 ![[text/hebrew/18-job#Chapter 28]]
 
+## Plain English translation
+
+![[text/english/18-job#Chapter 28]]
+
 ## Cross-references
 
 - **28:12** → [[connections/chapters/18-job/Job 28|Job 28:20]] · [[connections/chapters/20-proverbs/Proverbs 2|Proverbs 2:4–6]] · [[connections/chapters/59-james/James 1|James 1:5]] · [[connections/chapters/20-proverbs/Proverbs 3|Proverbs 3:19]] · [[connections/chapters/51-colossians/Colossians 2|Colossians 2:3]] · [[connections/chapters/46-1-corinthians/1 Corinthians 1|1 Corinthians 1:19–20]]

@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "prophets"]
 
 ![[text/hebrew/23-isaiah#Chapter 2]]
 
+## Plain English translation
+
+![[text/english/23-isaiah#Chapter 2]]
+
 ## Cross-references
 
 - **2:2** → [[connections/chapters/33-micah/Micah 4|Micah 4:1–3]] · [[connections/chapters/23-isaiah/Isaiah 56|Isaiah 56:7]] · [[connections/chapters/38-zechariah/Zechariah 8|Zechariah 8:3]] · [[connections/chapters/66-revelation/Revelation 11|Revelation 11:15]] · [[connections/chapters/23-isaiah/Isaiah 27|Isaiah 27:13]]

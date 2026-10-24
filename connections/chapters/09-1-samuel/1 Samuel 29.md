@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "history"]
 
 ![[text/hebrew/09-1-samuel#Chapter 29]]
 
+## Plain English translation
+
+![[text/english/09-1-samuel#Chapter 29]]
+
 ## Cross-references
 
 *No cross-references with at least 8 votes.*

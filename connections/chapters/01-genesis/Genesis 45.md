@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "torah"]
 
 ![[text/hebrew/01-genesis#Chapter 45]]
 
+## Plain English translation
+
+![[text/english/01-genesis#Chapter 45]]
+
 ## Cross-references
 
 - **45:5** → [[connections/chapters/01-genesis/Genesis 50|Genesis 50:20]] · [[connections/chapters/44-acts/Acts 7|Acts 7:9–15]] · [[connections/chapters/44-acts/Acts 2|Acts 2:23–24]] · [[connections/chapters/01-genesis/Genesis 45|Genesis 45:7–8]] · [[connections/chapters/18-job/Job 1|Job 1:21]] · [[connections/chapters/19-psalms/Psalms 105|Psalms 105:16–17]]

@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "history"]
 
 ![[text/hebrew/14-2-chronicles#Chapter 21]]
 
+## Plain English translation
+
+![[text/english/14-2-chronicles#Chapter 21]]
+
 ## Cross-references
 
 - **21:7** → [[connections/chapters/11-1-kings/1 Kings 11|1 Kings 11:36]] · [[connections/chapters/19-psalms/Psalms 132|Psalms 132:17–18]]

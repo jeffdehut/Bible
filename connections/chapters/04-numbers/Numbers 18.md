@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "torah"]
 
 ![[text/hebrew/04-numbers#Chapter 18]]
 
+## Plain English translation
+
+![[text/english/04-numbers#Chapter 18]]
+
 ## Cross-references
 
 - **18:20** → [[connections/chapters/26-ezekiel/Ezekiel 44|Ezekiel 44:28]] · [[connections/chapters/05-deuteronomy/Deuteronomy 10|Deuteronomy 10:9]] · [[connections/chapters/06-joshua/Joshua 13|Joshua 13:33]] · [[connections/chapters/05-deuteronomy/Deuteronomy 18|Deuteronomy 18:1–2]] · [[connections/chapters/25-lamentations/Lamentations 3|Lamentations 3:24]] · [[connections/chapters/05-deuteronomy/Deuteronomy 14|Deuteronomy 14:27]] · [[connections/chapters/05-deuteronomy/Deuteronomy 12|Deuteronomy 12:12]] · [[connections/chapters/06-joshua/Joshua 14|Joshua 14:3]] · [[connections/chapters/06-joshua/Joshua 18|Joshua 18:7]] · [[connections/chapters/66-revelation/Revelation 21|Revelation 21:3]] · [[connections/chapters/19-psalms/Psalms 16|Psalms 16:5]] · [[connections/chapters/19-psalms/Psalms 142|Psalms 142:6]]

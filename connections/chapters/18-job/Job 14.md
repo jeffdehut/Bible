@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "wisdom"]
 
 ![[text/hebrew/18-job#Chapter 14]]
 
+## Plain English translation
+
+![[text/english/18-job#Chapter 14]]
+
 ## Cross-references
 
 - **14:1** → [[connections/chapters/18-job/Job 5|Job 5:7]] · [[connections/chapters/18-job/Job 25|Job 25:4]] · [[connections/chapters/21-ecclesiastes/Ecclesiastes 2|Ecclesiastes 2:23]] · [[connections/chapters/18-job/Job 7|Job 7:1]] · [[connections/chapters/40-matthew/Matthew 11|Matthew 11:11]] · [[connections/chapters/18-job/Job 15|Job 15:14]] · [[connections/chapters/18-job/Job 9|Job 9:25]] · [[connections/chapters/18-job/Job 7|Job 7:6]] · [[connections/chapters/01-genesis/Genesis 47|Genesis 47:9]] · [[connections/chapters/19-psalms/Psalms 51|Psalms 51:7]] · [[connections/chapters/21-ecclesiastes/Ecclesiastes 2|Ecclesiastes 2:17]] · [[connections/chapters/19-psalms/Psalms 39|Psalms 39:6]]

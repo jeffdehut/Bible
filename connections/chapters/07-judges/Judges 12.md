@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "history"]
 
 ![[text/hebrew/07-judges#Chapter 12]]
 
+## Plain English translation
+
+![[text/english/07-judges#Chapter 12]]
+
 ## Cross-references
 
 *No cross-references with at least 8 votes.*

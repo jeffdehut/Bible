@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "history"]
 
 ![[text/hebrew/10-2-samuel#Chapter 9]]
 
+## Plain English translation
+
+![[text/english/10-2-samuel#Chapter 9]]
+
 ## Cross-references
 
 - **9:1** → [[connections/chapters/09-1-samuel/1 Samuel 21|1 Samuel 21:1]] · [[connections/chapters/41-mark/Mark 9|Mark 9:41]] · [[connections/chapters/40-matthew/Matthew 25|Matthew 25:40]] · [[connections/chapters/60-1-peter/1 Peter 3|1 Peter 3:8]] · [[connections/chapters/10-2-samuel/2 Samuel 1|2 Samuel 1:26]] · [[connections/chapters/11-1-kings/1 Kings 2|1 Kings 2:7]]

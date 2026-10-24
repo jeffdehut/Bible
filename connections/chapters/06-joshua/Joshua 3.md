@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "history"]
 
 ![[text/hebrew/06-joshua#Chapter 3]]
 
+## Plain English translation
+
+![[text/english/06-joshua#Chapter 3]]
+
 ## Cross-references
 
 - **3:5** → [[connections/chapters/03-leviticus/Leviticus 20|Leviticus 20:7]] · [[connections/chapters/06-joshua/Joshua 7|Joshua 7:13]] · [[connections/chapters/09-1-samuel/1 Samuel 16|1 Samuel 16:5]] · [[connections/chapters/29-joel/Joel 2|Joel 2:16]] · [[connections/chapters/43-john/John 17|John 17:19]] · [[connections/chapters/02-exodus/Exodus 19|Exodus 19:10–15]] · [[connections/chapters/03-leviticus/Leviticus 10|Leviticus 10:3]]

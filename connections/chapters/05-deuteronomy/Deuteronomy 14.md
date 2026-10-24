@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "torah"]
 
 ![[text/hebrew/05-deuteronomy#Chapter 14]]
 
+## Plain English translation
+
+![[text/english/05-deuteronomy#Chapter 14]]
+
 ## Cross-references
 
 - **14:2** → [[connections/chapters/05-deuteronomy/Deuteronomy 7|Deuteronomy 7:6]] · [[connections/chapters/03-leviticus/Leviticus 20|Leviticus 20:26]] · [[connections/chapters/05-deuteronomy/Deuteronomy 26|Deuteronomy 26:18–19]] · [[connections/chapters/02-exodus/Exodus 19|Exodus 19:5–6]] · [[connections/chapters/60-1-peter/1 Peter 2|1 Peter 2:9]] · [[connections/chapters/03-leviticus/Leviticus 19|Leviticus 19:2]] · [[connections/chapters/56-titus/Titus 2|Titus 2:14]]

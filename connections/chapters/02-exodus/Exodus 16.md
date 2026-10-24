@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "torah"]
 
 ![[text/hebrew/02-exodus#Chapter 16]]
 
+## Plain English translation
+
+![[text/english/02-exodus#Chapter 16]]
+
 ## Cross-references
 
 - **16:3** → [[connections/chapters/04-numbers/Numbers 11|Numbers 11:4–5]]

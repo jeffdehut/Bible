@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "torah"]
 
 ![[text/hebrew/02-exodus#Chapter 27]]
 
+## Plain English translation
+
+![[text/english/02-exodus#Chapter 27]]
+
 ## Cross-references
 
 *No cross-references with at least 8 votes.*

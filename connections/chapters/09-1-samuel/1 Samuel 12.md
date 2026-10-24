@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "history"]
 
 ![[text/hebrew/09-1-samuel#Chapter 12]]
 
+## Plain English translation
+
+![[text/english/09-1-samuel#Chapter 12]]
+
 ## Cross-references
 
 - **12:3** → [[connections/chapters/44-acts/Acts 20|Acts 20:33]] · [[connections/chapters/04-numbers/Numbers 16|Numbers 16:15]]

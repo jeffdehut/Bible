@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "torah"]
 
 ![[text/hebrew/01-genesis#Chapter 28]]
 
+## Plain English translation
+
+![[text/english/01-genesis#Chapter 28]]
+
 ## Cross-references
 
 - **28:3** → [[connections/chapters/01-genesis/Genesis 48|Genesis 48:3]] · [[connections/chapters/01-genesis/Genesis 35|Genesis 35:11]]

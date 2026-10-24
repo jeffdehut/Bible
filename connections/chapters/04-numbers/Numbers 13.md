@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "torah"]
 
 ![[text/hebrew/04-numbers#Chapter 13]]
 
+## Plain English translation
+
+![[text/english/04-numbers#Chapter 13]]
+
 ## Cross-references
 
 - **13:2** → [[connections/chapters/05-deuteronomy/Deuteronomy 1|Deuteronomy 1:22–25]]

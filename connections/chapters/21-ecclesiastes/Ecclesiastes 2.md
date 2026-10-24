@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "wisdom"]
 
 ![[text/hebrew/21-ecclesiastes#Chapter 2]]
 
+## Plain English translation
+
+![[text/english/21-ecclesiastes#Chapter 2]]
+
 ## Cross-references
 
 - **2:1** → [[connections/chapters/42-luke/Luke 12|Luke 12:19]]
