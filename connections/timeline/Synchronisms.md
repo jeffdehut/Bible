@@ -32,6 +32,7 @@ Adams' *Synchronological Chart* (1871) set biblical history side by side with th
 | Claudius expels the Jews from Rome | [[connections/chapters/44-acts/Acts 18|Acts 18:2]] | [[connections/timeline/1st century AD|AD 54]] | c. [[connections/timeline/1st century AD|AD 49]] | +5 years | Suetonius; Orosius |
 | Paul before Gallio | [[connections/chapters/44-acts/Acts 18|Acts 18:12]] | [[connections/timeline/1st century AD|AD 54]] | [[connections/timeline/1st century AD|AD 51]] | +3 years | Delphi inscription naming Gallio as proconsul |
 | Festus succeeds Felix | [[connections/chapters/44-acts/Acts 24|Acts 24:27]] | [[connections/timeline/1st century AD|AD 60]] | c. [[connections/timeline/1st century AD|AD 60]] | 0 | Josephus; Roman coinage |
+| Crucifixion under Pontius Pilate | [[connections/chapters/40-matthew/Matthew 27|Matthew 27:26]] | [[connections/timeline/1st century AD|AD 33]] | c. [[connections/timeline/1st century AD|AD 30]] | +3 years | Pilate was prefect of Judea AD 26-36 (Tacitus, Annals 15.44; Josephus); astronomy allows a Friday 14 Nisan on 7 April AD 30 and 3 April AD 33 |
 
 *Negative differences mean Ussher dates the event earlier.* Ussher's dates are the marginal dates of the *Treasury of Scripture Knowledge* as recorded by Theographic. In the divided monarchy they run 30–45 years earlier than modern dates, which count overlapping reigns (co-regencies) from the Assyrian eponym lists. From Josiah on, the two agree within a few years.
 
@@ -104,5 +105,53 @@ Adams' *Synchronological Chart* (1871) set biblical history side by side with th
 | India | Ashoka | — | c. [[connections/timeline/3rd century BC|268 BC]] – [[connections/timeline/3rd century BC|232 BC]] | [Q8589](https://www.wikidata.org/wiki/Q8589) |
 | China | Qin Shi Huang | — | [[connections/timeline/3rd century BC|221 BC]] – [[connections/timeline/3rd century BC|210 BC]] | [Q7192](https://www.wikidata.org/wiki/Q7192) |
 | China | Emperor Wu of Han | — | [[connections/timeline/2nd century BC|141 BC]] – [[connections/timeline/1st century BC|87 BC]] | [Q7225](https://www.wikidata.org/wiki/Q7225) |
+| Rome | Caligula | — | [[connections/timeline/1st century AD|AD 37]] – [[connections/timeline/1st century AD|AD 41]] | — |
+| Rome | Trajan | — | [[connections/timeline/1st century AD|AD 98]] – [[connections/timeline/2nd century AD|AD 117]] | — |
+| Rome | Hadrian | — | [[connections/timeline/2nd century AD|AD 117]] – [[connections/timeline/2nd century AD|AD 138]] | — |
+| Rome | Marcus Aurelius | — | [[connections/timeline/2nd century AD|AD 161]] – [[connections/timeline/2nd century AD|AD 180]] | — |
+| Rome | Septimius Severus | — | [[connections/timeline/2nd century AD|AD 193]] – [[connections/timeline/3rd century AD|AD 211]] | — |
+| Rome | Decius | — | [[connections/timeline/3rd century AD|AD 249]] – [[connections/timeline/3rd century AD|AD 251]] | — |
+| Rome | Diocletian | — | [[connections/timeline/3rd century AD|AD 284]] – [[connections/timeline/4th century AD|AD 305]] | — |
+| Rome | Constantine the Great | — | [[connections/timeline/4th century AD|AD 306]] – [[connections/timeline/4th century AD|AD 337]] | — |
+| Rome | Theodosius I | — | [[connections/timeline/4th century AD|AD 379]] – [[connections/timeline/4th century AD|AD 395]] | — |
+| Rome | Romulus Augustulus | — | [[connections/timeline/5th century AD|AD 475]] – [[connections/timeline/5th century AD|AD 476]] | — |
+| Byzantine Empire | Justinian I | — | [[connections/timeline/6th century AD|AD 527]] – [[connections/timeline/6th century AD|AD 565]] | — |
+| Byzantine Empire | Heraclius | — | [[connections/timeline/7th century AD|AD 610]] – [[connections/timeline/7th century AD|AD 641]] | — |
+| Byzantine Empire | Basil II | — | [[connections/timeline/10th century AD|AD 976]] – [[connections/timeline/11th century AD|AD 1025]] | — |
+| Byzantine Empire | Alexios I Komnenos | — | [[connections/timeline/11th century AD|AD 1081]] – [[connections/timeline/12th century AD|AD 1118]] | — |
+| Byzantine Empire | Constantine XI Palaiologos | — | [[connections/timeline/15th century AD|AD 1449]] – [[connections/timeline/15th century AD|AD 1453]] | — |
+| Persia | Shapur I | — | c. [[connections/timeline/3rd century AD|AD 240]] – [[connections/timeline/3rd century AD|AD 270]] | — |
+| Persia | Khosrow I | — | [[connections/timeline/6th century AD|AD 531]] – [[connections/timeline/6th century AD|AD 579]] | — |
+| Persia | Abbas the Great | — | [[connections/timeline/16th century AD|AD 1588]] – [[connections/timeline/17th century AD|AD 1629]] | — |
+| Islamic world | Harun al-Rashid | — | [[connections/timeline/8th century AD|AD 786]] – [[connections/timeline/9th century AD|AD 809]] | — |
+| Islamic world | Saladin | — | [[connections/timeline/12th century AD|AD 1174]] – [[connections/timeline/12th century AD|AD 1193]] | — |
+| Islamic world | Mehmed II | — | [[connections/timeline/15th century AD|AD 1451]] – [[connections/timeline/15th century AD|AD 1481]] | — |
+| Islamic world | Suleiman the Magnificent | — | [[connections/timeline/16th century AD|AD 1520]] – [[connections/timeline/16th century AD|AD 1566]] | — |
+| Mongols | Genghis Khan | — | [[connections/timeline/13th century AD|AD 1206]] – [[connections/timeline/13th century AD|AD 1227]] | — |
+| Mongols | Kublai Khan | — | [[connections/timeline/13th century AD|AD 1260]] – [[connections/timeline/13th century AD|AD 1294]] | — |
+| Europe | Charlemagne | — | [[connections/timeline/8th century AD|AD 768]] – [[connections/timeline/9th century AD|AD 814]] | — |
+| Europe | Otto the Great | — | [[connections/timeline/10th century AD|AD 936]] – [[connections/timeline/10th century AD|AD 973]] | — |
+| Europe | William the Conqueror | — | [[connections/timeline/11th century AD|AD 1066]] – [[connections/timeline/11th century AD|AD 1087]] | — |
+| Europe | Elizabeth I | — | [[connections/timeline/16th century AD|AD 1558]] – [[connections/timeline/17th century AD|AD 1603]] | — |
+| Europe | Louis XIV | — | [[connections/timeline/17th century AD|AD 1643]] – [[connections/timeline/18th century AD|AD 1715]] | — |
+| Europe | Napoleon | — | [[connections/timeline/19th century AD|AD 1804]] – [[connections/timeline/19th century AD|AD 1814]] | — |
+| Europe | Queen Victoria | — | [[connections/timeline/19th century AD|AD 1837]] – [[connections/timeline/20th century AD|AD 1901]] | — |
+| Russia | Peter the Great | — | [[connections/timeline/17th century AD|AD 1682]] – [[connections/timeline/18th century AD|AD 1725]] | — |
+| Russia | Catherine the Great | — | [[connections/timeline/18th century AD|AD 1762]] – [[connections/timeline/18th century AD|AD 1796]] | — |
+| China | Emperor Taizong of Tang | — | [[connections/timeline/7th century AD|AD 626]] – [[connections/timeline/7th century AD|AD 649]] | — |
+| China | Yongle Emperor | — | [[connections/timeline/15th century AD|AD 1402]] – [[connections/timeline/15th century AD|AD 1424]] | — |
+| China | Kangxi Emperor | — | [[connections/timeline/17th century AD|AD 1661]] – [[connections/timeline/18th century AD|AD 1722]] | — |
+| India | Chandragupta II | — | c. [[connections/timeline/4th century AD|AD 375]] – [[connections/timeline/5th century AD|AD 415]] | — |
+| India | Akbar | — | [[connections/timeline/16th century AD|AD 1556]] – [[connections/timeline/17th century AD|AD 1605]] | — |
+| India | Shah Jahan | — | [[connections/timeline/17th century AD|AD 1628]] – [[connections/timeline/17th century AD|AD 1658]] | — |
+| Japan | Tokugawa Ieyasu | — | [[connections/timeline/17th century AD|AD 1603]] – [[connections/timeline/17th century AD|AD 1605]] | — |
+| Japan | Emperor Meiji | — | [[connections/timeline/19th century AD|AD 1867]] – [[connections/timeline/20th century AD|AD 1912]] | — |
+| Americas | Moctezuma II | — | [[connections/timeline/16th century AD|AD 1502]] – [[connections/timeline/16th century AD|AD 1520]] | — |
+| Americas | George Washington | — | [[connections/timeline/18th century AD|AD 1789]] – [[connections/timeline/18th century AD|AD 1797]] | — |
+| Americas | Abraham Lincoln | — | [[connections/timeline/19th century AD|AD 1861]] – [[connections/timeline/19th century AD|AD 1865]] | — |
+| Africa | Ezana of Axum | — | c. [[connections/timeline/4th century AD|AD 320]] – [[connections/timeline/4th century AD|AD 360]] | — |
+| Africa | Mansa Musa | — | c. [[connections/timeline/14th century AD|AD 1312]] – [[connections/timeline/14th century AD|AD 1337]] | — |
+| Africa | Haile Selassie | — | [[connections/timeline/20th century AD|AD 1930]] – [[connections/timeline/20th century AD|AD 1974]] | — |
+| Africa | Nelson Mandela | — | [[connections/timeline/20th century AD|AD 1994]] – [[connections/timeline/20th century AD|AD 1999]] | — |
 
 Reign dates are conventional modern dates; *c.* marks approximate ones. The curated lists are in `data/rulers.csv` and `data/synchronisms.csv`.

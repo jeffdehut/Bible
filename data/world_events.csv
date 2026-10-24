@@ -19,3 +19,122 @@ Thinkers and writers,figure,Plato,428 BC,348 BC,yes,Q859,
 Thinkers and writers,figure,Aristotle,384 BC,322 BC,no,Q868,
 Thinkers and writers,figure,Philo of Alexandria,20 BC,AD 50,yes,Q189597,
 Thinkers and writers,figure,Josephus,AD 37,AD 100,yes,Q134461,
+Church,event,Crucifixion of Jesus,AD 30,,yes,,"Under Pontius Pilate, prefect AD 26-36 (Tacitus, Annals 15.44; Josephus). Most scholars date it to AD 30 or 33; Ussher to AD 33"
+Church,event,Resurrection of Jesus,AD 30,,yes,,"Proclaimed by the first Christians as taking place on the third day (1 Corinthians 15:3-8, written about AD 54)"
+World events,event,Great Fire of Rome,AD 64,,no,,"Nero blamed the Christians (Tacitus, Annals 15.44)"
+Jewish history,event,Siege of Masada,AD 73,,yes,,The end of the First Jewish-Roman War
+World events,event,Eruption of Vesuvius,AD 79,,no,,Pompeii and Herculaneum buried
+Jewish history,event,Mishnah,AD 200,,yes,,Compiled under Judah ha-Nasi
+Church,event,Edict of Milan,AD 313,,no,,Toleration for Christians
+Church,event,First Council of Nicaea,AD 325,,no,,The Nicene Creed
+World events,event,Founding of Constantinople,AD 330,,no,,Constantine's new capital
+Church,event,Edict of Thessalonica,AD 380,,no,,Nicene Christianity becomes the religion of the empire
+Church,event,First Council of Constantinople,AD 381,,no,,
+Jewish history,event,Jerusalem Talmud,AD 400,,yes,,
+World events,event,Sack of Rome,AD 410,,no,,By the Visigoths under Alaric
+Church,event,Council of Ephesus,AD 431,,no,,
+Church,event,Council of Chalcedon,AD 451,,no,,
+World events,event,Fall of the Western Roman Empire,AD 476,,no,,Odoacer deposes Romulus Augustulus
+Jewish history,event,Babylonian Talmud,AD 500,,yes,,
+Islamic world,event,Hijrah,AD 622,,no,,Muhammad's move to Medina; year 1 of the Islamic calendar
+Church,event,Church of the East reaches China,AD 635,,no,,Recorded on the Xi'an Stele (781)
+Islamic world,event,Dome of the Rock,AD 691,,no,,Completed on the Temple Mount
+World events,event,Battle of Tours,AD 732,,no,,
+Europe,event,Charlemagne crowned emperor,AD 800,,no,,"Christmas Day, in Rome, by Pope Leo III"
+Church,event,East–West Schism,AD 1054,,no,,
+Europe,event,Battle of Hastings,AD 1066,,no,,The Norman conquest of England
+Europe,event,Magna Carta,AD 1215,,no,,
+World events,event,Black Death,AD 1347,,no,,1347-1351; killed perhaps a third of Europe's people
+World events,event,Fall of Constantinople,AD 1453,,no,,The end of the Byzantine Empire
+Jewish history,event,Alhambra Decree,AD 1492,,no,,The expulsion of the Jews from Spain
+World events,event,Voyages of Christopher Columbus,AD 1492,,no,,"First voyage, 1492"
+Church,event,Ninety-five Theses,AD 1517,,no,,"Martin Luther, at Wittenberg"
+Americas,event,Fall of Tenochtitlan,AD 1521,,no,,
+World events,event,Peace of Westphalia,AD 1648,,no,,Ends the Thirty Years' War
+Americas,event,United States Declaration of Independence,AD 1776,,no,,
+Europe,event,French Revolution,AD 1789,,no,,
+Europe,event,Battle of Waterloo,AD 1815,,no,,
+World events,event,Slavery Abolition Act 1833,AD 1833,,no,,Abolished slavery in most of the British Empire
+India,event,Indian Rebellion of 1857,AD 1857,,no,,
+World events,event,On the Origin of Species,AD 1859,,no,,Charles Darwin
+Americas,event,Emancipation Proclamation,AD 1863,,no,,
+Japan,event,Meiji Restoration,AD 1868,,no,,
+Jewish history,event,First Zionist Congress,AD 1897,,no,,Basel
+Church,event,Azusa Street Revival,AD 1906,,no,,Los Angeles; the start of the Pentecostal movement
+Russia,event,Russian Revolution,AD 1917,,no,,
+Japan,event,Atomic bombings of Hiroshima and Nagasaki,AD 1945,,no,,
+World events,event,United Nations,AD 1945,,no,,Founded on 24 October 1945
+India,event,Partition of India,AD 1947,,no,,
+Jewish history,event,Israeli Declaration of Independence,AD 1948,,no,,
+World events,event,Universal Declaration of Human Rights,AD 1948,,no,,
+World events,event,Apollo 11,AD 1969,,no,,The first people on the Moon
+Europe,event,Fall of the Berlin Wall,AD 1989,,no,,
+Russia,event,Dissolution of the Soviet Union,AD 1991,,no,,
+World events,event,World Wide Web,AD 1991,,no,,Made public by Tim Berners-Lee in 1991
+Africa,event,End of apartheid,AD 1994,,no,,South Africa's first election with universal suffrage
+World events,event,September 11 attacks,AD 2001,,no,,
+World events,event,COVID-19 pandemic,AD 2020,,no,,
+Bible transmission,event,Rylands Library Papyrus P52,AD 125,,yes,,"A fragment of John 18, the oldest known New Testament manuscript; usually dated to the first half of the 2nd century"
+Bible transmission,event,Diatessaron,AD 170,,yes,,Tatian's harmony of the four Gospels
+Bible transmission,event,Papyrus 46,AD 200,,yes,,Paul's letters; dated about 175-225
+Bible transmission,event,Hexapla,AD 245,,yes,,Origen's six-column Old Testament: Hebrew beside the Greek versions
+Bible transmission,event,Codex Vaticanus,AD 325,,yes,,Copied about 300-325; one of the two oldest nearly complete Greek Bibles
+Bible transmission,event,Codex Sinaiticus,AD 350,,yes,,Copied about 330-360; the oldest complete New Testament
+Bible transmission,event,Athanasius's festal letter of 367,AD 367,,no,,His 39th Festal Letter: the first list of exactly the 27 books of the New Testament
+Bible transmission,event,Vulgate,AD 382,,yes,,"Jerome's Latin translation, about 382-405"
+Bible transmission,event,Codex Alexandrinus,AD 425,,yes,,Copied about 400-440
+Bible transmission,event,Aleppo Codex,AD 930,,yes,,Pointed by Aaron ben Asher at Tiberias; much of the Torah was lost in 1947
+Bible transmission,event,Leningrad Codex,AD 1008,,no,,"Copied in Cairo in 1008 or 1009: the oldest complete Hebrew Bible, and the source of this project's Hebrew text (UXLC)"
+Bible transmission,event,Wycliffe's Bible,AD 1382,,yes,,"About 1382-1395: the first complete Bible in English, translated from the Latin"
+Bible transmission,event,Gutenberg Bible,AD 1455,,yes,,The first major book printed with movable type in Europe
+Bible transmission,event,Novum Instrumentum omne,AD 1516,,no,,"Erasmus's Greek New Testament, the first to be published; the basis of the Textus Receptus"
+Bible transmission,event,Tyndale Bible,AD 1526,,no,,"Tyndale's New Testament, the first printed in English and the first translated from the Greek"
+Bible transmission,event,Luther Bible,AD 1534,,no,,The complete German Bible; the New Testament appeared in 1522
+Bible transmission,event,King James Version,AD 1611,,no,,
+Bible transmission,event,Textus Receptus,AD 1633,,no,,The name comes from the preface to the Elzevir edition of 1633
+Bible transmission,event,Tischendorf brings Codex Sinaiticus to light,AD 1859,,no,,"He found the first leaves at St Catherine's Monastery, Sinai, in 1844"
+Bible transmission,event,Westcott and Hort's Greek New Testament,AD 1881,,no,,"The New Testament in the Original Greek, the first major critical edition in English scholarship"
+Bible transmission,event,Scrivener's Textus Receptus,AD 1894,,no,,The edition behind this project's comparison text (greek-tr)
+Bible transmission,event,Novum Testamentum Graece,AD 1898,,no,,Eberhard Nestle's first edition; the 28th (NA28) appeared in 2012
+Bible transmission,event,Dead Sea Scrolls,AD 1947,,no,,"Found near Qumran from 1946/47 to 1956; copied about 250 BC - AD 68, a thousand years before the Leningrad Codex"
+Bible transmission,event,Biblia Hebraica Stuttgartensia,AD 1977,,no,,The standard printed edition of the Leningrad Codex
+Bible transmission,event,SBL Greek New Testament,AD 2010,,no,,The source of this project's New Testament text
+Thinkers and writers,figure,Ignatius of Antioch,AD 35,AD 108,yes,,
+Thinkers and writers,figure,Justin Martyr,AD 100,AD 165,yes,,
+Thinkers and writers,figure,Irenaeus,AD 130,AD 202,yes,,
+Thinkers and writers,figure,Tertullian,AD 155,AD 220,yes,,
+Thinkers and writers,figure,Origen,AD 185,AD 253,yes,,
+Thinkers and writers,figure,Eusebius,AD 260,AD 339,yes,,Bishop of Caesarea; historian of the early church
+Thinkers and writers,figure,Athanasius of Alexandria,AD 296,AD 373,yes,,
+Thinkers and writers,figure,Jerome,AD 347,AD 420,yes,,Translator of the Vulgate
+Thinkers and writers,figure,Augustine of Hippo,AD 354,AD 430,no,,
+Islamic world,figure,Muhammad,AD 570,AD 632,yes,,
+Thinkers and writers,figure,Bede,AD 673,AD 735,yes,,
+Japan,figure,Murasaki Shikibu,AD 973,AD 1014,yes,,Author of The Tale of Genji
+Thinkers and writers,figure,Avicenna,AD 980,AD 1037,yes,,
+Jewish history,figure,Rashi,AD 1040,AD 1105,no,,Commentator on the Bible and Talmud
+Thinkers and writers,figure,Zhu Xi,AD 1130,AD 1200,no,,
+Jewish history,figure,Maimonides,AD 1138,AD 1204,yes,,
+Thinkers and writers,figure,Thomas Aquinas,AD 1225,AD 1274,yes,,
+Thinkers and writers,figure,Dante Alighieri,AD 1265,AD 1321,yes,,
+Bible transmission,figure,John Wycliffe,AD 1328,AD 1384,yes,,
+Thinkers and writers,figure,Ibn Khaldun,AD 1332,AD 1406,no,,
+Bible transmission,figure,Erasmus,AD 1466,AD 1536,yes,,
+Church,figure,Martin Luther,AD 1483,AD 1546,no,,
+Bible transmission,figure,William Tyndale,AD 1494,AD 1536,yes,,Executed for translating the Bible
+Church,figure,John Calvin,AD 1509,AD 1564,no,,
+Thinkers and writers,figure,William Shakespeare,AD 1564,AD 1616,no,,
+Thinkers and writers,figure,Galileo Galilei,AD 1564,AD 1642,no,,
+Thinkers and writers,figure,Isaac Newton,AD 1643,AD 1727,no,,
+Thinkers and writers,figure,Johann Sebastian Bach,AD 1685,AD 1750,no,,
+Church,figure,John Wesley,AD 1703,AD 1791,no,,
+Thinkers and writers,figure,Immanuel Kant,AD 1724,AD 1804,no,,
+Thinkers and writers,figure,Charles Darwin,AD 1809,AD 1882,no,,
+Bible transmission,figure,Constantin von Tischendorf,AD 1815,AD 1874,no,,
+Thinkers and writers,figure,Karl Marx,AD 1818,AD 1883,no,,
+Thinkers and writers,figure,Fyodor Dostoevsky,AD 1821,AD 1881,no,,
+Thinkers and writers,figure,Mahatma Gandhi,AD 1869,AD 1948,no,,
+Thinkers and writers,figure,Albert Einstein,AD 1879,AD 1955,no,,
+Thinkers and writers,figure,C. S. Lewis,AD 1898,AD 1963,no,,
+Church,figure,Dietrich Bonhoeffer,AD 1906,AD 1945,no,,Executed by the Nazi regime
+Thinkers and writers,figure,Martin Luther King Jr.,AD 1929,AD 1968,no,,

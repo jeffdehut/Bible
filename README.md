@@ -35,6 +35,10 @@ connections/                     Obsidian notes: cross-references, people, place
   genealogy/                     Family groups, generation by generation
   events/ timeline/              Dated events, century notes, synchronisms, the chart
 data/                            Curated rulers, eras, world events and synchronisms (see data/README.md)
+site/                            Two web pages built from the data: open them in any browser
+  genealogy.html                 The Generations: the line from Adam to Jesus and a family explorer
+  history.html                   Streams of Time: world history, AD 30 to today, beside the Bible
+  src/ data/                     The page sources and the JSON they are built with
 books.json                       Index: names, OSIS ids, languages, counts, paths, Tanakh order
 sources/                         Raw upstream files, byte for byte (see sources/README.md)
 scripts/
@@ -45,6 +49,7 @@ scripts/
   connections.py                 Builds connections/ from open cross-reference and name data
   genealogy.py, chronology.py,   Family graph (TIPNR), dates (Theographic), timeline notes,
   timeline.py, chart.py          and the synchronological chart
+  webpages.py                    Builds the two pages in site/ (run by connections.py)
 .obsidian/                       Obsidian settings: graph colors and filters
 VERIFICATION.md                  What was checked, what was found, what was fixed
 TRANSLATION.md                   Translation goals, principles, decisions, format and review process
@@ -107,12 +112,23 @@ It adds a genealogy and a timeline modeled on Sebastian C. Adams' *Synchronologi
    1,921 parent-child links in 330 family groups. Each person note has a
    family section, a family tree, and the line of descent from father to son. The Family of
    Adam runs 78 generations. The genealogy is cross-checked against Theographic.
-5. **Timeline:** 42 century notes from Creation to the apostles, and 450 dated events.
-   Ussher's dates appear on 28,020 verses, the chronology Adams used. A table
+5. **Timeline:** 62 century notes from Creation to the 21st century AD, and 450 dated Bible
+   events. Ussher's dates appear on 28,020 verses, the chronology Adams used. A table
    compares Ussher with modern dates for events outside sources also date. An SVG chart in
    Adams' style draws the Bible's streams beside the wider world. That covers the eras,
    dynasties and rulers of Egypt, Mesopotamia, the Hittites, Persia, Greece, Rome, India and
-   China, plus world events and thinkers, all at modern dates.
+   China. From the death and resurrection of Jesus (about AD 30) to today, it adds the
+   Byzantine Empire, Europe, Russia, the Islamic world, the Mongols, Japan, Africa and the
+   Americas, Jewish history, the Church, and the transmission of the Bible's own text, from
+   Papyrus 52 to the editions this project uses. World events and thinkers run throughout,
+   all at modern dates.
+
+## Web pages
+
+`site/genealogy.html` (*The Generations*) and `site/history.html` (*Streams of Time*) present
+the genealogy and the timeline for readers who don't use Obsidian. Each is a single file
+that opens in a browser, works on phones, and follows the reader's light or dark setting.
+`scripts/connections.py` rebuilds them from `site/src/` and the same data as the notes.
 
 The data is open: OpenBible.info cross-references; STEPBible's tagged names, family links and
 verse-numbering mapping; Theographic's dates; and Wikidata identifiers. Start with

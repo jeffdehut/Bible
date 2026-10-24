@@ -41,6 +41,7 @@ from notes import (BOOK, ORDER, chapter_path, frontmatter, link, ref_label, safe
                    section_of, slug, write)
 import chronology
 import genealogy
+import webpages
 import timeline
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
@@ -624,6 +625,7 @@ def main():
     timeline.write_synchronisms(ctx)
     charts = timeline.write_chart_note(ctx)
     world_notes = timeline.write_world(ctx)
+    site_summary = webpages.build(ctx, family_of, groups)
 
     people = sum(e["kind"] == "person" and e["named"] for e in entities)
     pairs = sum(len(t) for t in together.values()) // 2
@@ -642,6 +644,7 @@ def main():
     print(f"People: {people} (+{unnamed} unnamed), places: {places}; {pairs} same-verse pairs; "
           f"{ent_unresolved} references unresolved")
     print(f"Wrote {len(all_chapters)} chapter notes, {len(BOOKS)} book notes, {len(entities)} people/place notes")
+    print(site_summary)
     broken = check_links()
     print(f"Links: {broken} broken")
     stats = {

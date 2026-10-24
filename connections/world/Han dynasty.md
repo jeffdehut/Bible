@@ -3,8 +3,8 @@ type: "period"
 stream: "China"
 start: "202 BC"
 start_year: -201
-end: "AD 100"
-end_year: 100
+end: "AD 220"
+end_year: 220
 approximate: false
 wikidata: "Q7209"
 tags: ["world", "period"]
@@ -12,17 +12,15 @@ tags: ["world", "period"]
 
 # Han dynasty
 
-**China** · [[connections/timeline/3rd century BC|202 BC]] – [[connections/timeline/1st century AD|AD 100]] *(modern dates)*
+**China** · [[connections/timeline/3rd century BC|202 BC]] – [[connections/timeline/3rd century AD|AD 220]] *(modern dates)*
 
 *Era*
 
-Continues to AD 220
-
 [Wikidata Q7209](https://www.wikidata.org/wiki/Q7209)
 
-**Centuries:** [[connections/timeline/3rd century BC|3rd century BC]] · [[connections/timeline/2nd century BC|2nd century BC]] · [[connections/timeline/1st century BC|1st century BC]] · [[connections/timeline/1st century AD|1st century AD]]
+**Centuries:** [[connections/timeline/3rd century BC|3rd century BC]] · [[connections/timeline/2nd century BC|2nd century BC]] · [[connections/timeline/1st century BC|1st century BC]] · [[connections/timeline/1st century AD|1st century AD]] · [[connections/timeline/2nd century AD|2nd century AD]] · [[connections/timeline/3rd century AD|3rd century AD]]
 
-**Also in China at this time:** [[connections/world/Emperor Wu of Han|Emperor Wu of Han]]
+**Also in China at this time:** [[connections/world/Emperor Wu of Han|Emperor Wu of Han]], [[connections/world/Three Kingdoms|Three Kingdoms]]
 
 ## Bible events in these years *(Ussher–Jones dates)*
 

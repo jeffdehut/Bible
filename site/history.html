@@ -1,0 +1,648 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+</head>
+<body>
+<title>Streams of Time</title>
+<meta name="claude:viewport-fit-sides" content="cover">
+<meta name="description" content="World history from the death and resurrection of Jesus to today, drawn as parallel streams in the manner of Adams' Synchronological Chart.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Frank+Ruhl+Libre:wght@300..900&family=Libre+Franklin:wght@400;500;600;700&family=IBM+Plex+Mono:wght@400;500&display=swap">
+<style>
+/* Layout: masthead and controls, a context strip of all of history with a window, the
+   stream chart beneath a sticky year axis, then a chronicle of everything in view. */
+:root {
+  --bg: #f3f5f8;
+  --surface: #ffffff;
+  --ink: #121926;
+  --muted: #586274;
+  --faint: #8d96a6;
+  --line: #dce1e9;
+  --grid: #e8ebf1;
+  --accent: #2646a1;
+  --accent-soft: #e5eaf7;
+  --gold: #946b0c;
+  --gold-soft: #f5ecd4;
+  --shadow: 0 1px 2px rgb(18 25 38 / 6%), 0 10px 28px rgb(18 25 38 / 8%);
+  --display: "Frank Ruhl Libre", Georgia, serif;
+  --sans: "Libre Franklin", system-ui, -apple-system, "Segoe UI", sans-serif;
+  --mono: "IBM Plex Mono", ui-monospace, "SFMono-Regular", Menlo, monospace;
+  --step--1: clamp(0.8rem, 0.78rem + 0.1vw, 0.86rem);
+  --step-0: clamp(0.95rem, 0.92rem + 0.15vw, 1.03rem);
+  --step-1: clamp(1.15rem, 1.08rem + 0.35vw, 1.35rem);
+  --step-2: clamp(1.45rem, 1.3rem + 0.75vw, 1.95rem);
+  --step-4: clamp(2.6rem, 1.9rem + 3.6vw, 5.4rem);
+}
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    --bg: #0a0f1d; --surface: #111a2d; --ink: #e8ecf4; --muted: #a2acbf; --faint: #6e7990; --line: #24304a; --grid: #172036;
+    --accent: #93acff; --accent-soft: #1b2650; --gold: #e7bf57; --gold-soft: #2b2513;
+    --shadow: 0 1px 2px rgb(0 0 0 / 30%), 0 12px 32px rgb(0 0 0 / 40%);
+    color-scheme: dark;
+  }
+}
+:root[data-theme="dark"] {
+  --bg: #0a0f1d; --surface: #111a2d; --ink: #e8ecf4; --muted: #a2acbf; --faint: #6e7990; --line: #24304a; --grid: #172036;
+  --accent: #93acff; --accent-soft: #1b2650; --gold: #e7bf57; --gold-soft: #2b2513;
+  --shadow: 0 1px 2px rgb(0 0 0 / 30%), 0 12px 32px rgb(0 0 0 / 40%);
+  color-scheme: dark;
+}
+* { box-sizing: border-box; }
+[hidden] { display: none !important; }
+html { -webkit-text-size-adjust: 100%; }
+body {
+  margin: 0; background: var(--bg); color: var(--ink); font: 400 var(--step-0)/1.55 var(--sans);
+  padding-left: max(16px, env(safe-area-inset-left, 0px));
+  padding-right: max(16px, env(safe-area-inset-right, 0px));
+}
+body::before { content: ""; position: fixed; inset: 0 0 auto; height: env(safe-area-inset-top, 0px); z-index: 10; background: var(--bg); }
+.wrap { max-width: 1440px; margin-inline: auto; }
+a { color: var(--accent); }
+:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; border-radius: 4px; }
+h1, h2, h3 { font-family: var(--display); font-weight: 500; text-wrap: balance; margin: 0; }
+.eyebrow { font: 600 var(--step--1)/1.2 var(--sans); letter-spacing: 0.12em; text-transform: uppercase; color: var(--muted); margin: 0; }
+
+.masthead { padding-block: clamp(32px, 6vw, 72px) 20px; }
+.masthead .wrap { display: grid; gap: 16px; }
+h1 { font-size: var(--step-4); font-weight: 300; line-height: 0.95; letter-spacing: -0.02em; }
+.lede { max-width: 66ch; font-size: var(--step-1); line-height: 1.5; color: var(--muted); margin: 0; }
+.lede b { color: var(--ink); font-weight: 600; }
+
+/* Controls */
+.controls { display: flex; flex-wrap: wrap; gap: 12px 24px; align-items: center; padding-block: 14px; border-top: 1px solid var(--line); }
+.seg { display: inline-flex; flex-wrap: wrap; gap: 4px; padding: 4px; border-radius: 10px; background: var(--surface); border: 1px solid var(--line); }
+.seg button, .chip, .tool {
+  all: unset; cursor: pointer; font: 500 var(--step--1)/1.2 var(--sans); color: var(--ink); border-radius: 7px; padding: 7px 11px;
+}
+.seg button[aria-pressed="true"] { background: var(--accent); color: var(--surface); }
+.seg button:hover:not([aria-pressed="true"]) { background: var(--accent-soft); }
+.seg button:focus-visible, .chip:focus-visible, .tool:focus-visible { outline: 2px solid var(--accent); }
+.chips { display: flex; flex-wrap: wrap; gap: 6px; }
+.chip { display: inline-flex; align-items: center; gap: 7px; border: 1px solid var(--line); background: var(--surface); border-radius: 999px; padding: 6px 11px; }
+.chip i { width: 9px; height: 9px; border-radius: 50%; background: var(--c); }
+.chip[aria-pressed="false"] { color: var(--faint); background: transparent; }
+.chip[aria-pressed="false"] i { background: transparent; box-shadow: inset 0 0 0 1.5px var(--faint); }
+.tools { display: inline-flex; gap: 4px; margin-inline-start: auto; }
+.tool { border: 1px solid var(--line); background: var(--surface); width: 34px; height: 34px; padding: 0; display: grid; place-items: center; font-size: 1rem; }
+.tool:hover { background: var(--accent-soft); }
+.hint { width: 100%; margin: 0; font-size: var(--step--1); color: var(--muted); }
+
+/* Context strip */
+.overview-wrap { margin-top: 4px; }
+#overview { display: block; width: 100%; height: 64px; }
+#overview .density { fill: var(--faint); opacity: 0.45; }
+#overview .tick text { fill: var(--muted); font: 500 10px var(--mono); }
+#overview .tick line { stroke: var(--line); }
+#overview .anchor { stroke: var(--gold); stroke-width: 1.5; }
+#overview .selection { fill: var(--accent); fill-opacity: 0.14; stroke: var(--accent); stroke-width: 1.5; rx: 4px; }
+#overview .handle { fill: var(--accent); }
+
+/* Chart */
+.chart-card { margin-top: 12px; background: var(--surface); border: 1px solid var(--line); border-radius: 14px; box-shadow: var(--shadow); }
+.axis-wrap { position: sticky; top: env(safe-area-inset-top, 0px); z-index: 4; background: var(--surface); border-bottom: 1px solid var(--line); border-radius: 14px 14px 0 0; }
+#axis { display: block; width: 100%; height: 34px; }
+#axis text { fill: var(--muted); font: 500 11px var(--mono); font-variant-numeric: tabular-nums; }
+#axis .range { fill: var(--ink); font: 600 11px var(--sans); }
+#chart { display: block; width: 100%; touch-action: pan-y; cursor: grab; }
+#chart:active { cursor: grabbing; }
+#chart .grid line { stroke: var(--grid); }
+#chart .grid line.major { stroke: var(--line); }
+#chart .band-label { font: 600 11px var(--sans); letter-spacing: 0.06em; text-transform: uppercase; }
+#chart .band-bg { opacity: 0.045; }
+#chart .group-label { fill: var(--muted); font: 600 10px var(--sans); letter-spacing: 0.14em; text-transform: uppercase; }
+#chart .mark { cursor: pointer; }
+#chart .mark text { font: 500 11px var(--sans); pointer-events: none; }
+#chart .mark.sel rect, #chart .mark.sel path { stroke: var(--ink); stroke-width: 2; stroke-dasharray: none; }
+#chart .anchor line { stroke: var(--gold); stroke-width: 1.5; }
+#chart .anchor text { fill: var(--gold); font: 600 11px var(--sans); }
+#chart .now line { stroke: var(--accent); stroke-width: 1.5; stroke-dasharray: 4 3; }
+#chart .now text { fill: var(--accent); font: 600 11px var(--sans); }
+.chart-foot { display: flex; flex-wrap: wrap; gap: 6px 18px; padding: 10px 14px; border-top: 1px solid var(--line); font-size: var(--step--1); color: var(--muted); }
+.key { display: inline-flex; align-items: center; gap: 6px; }
+.key svg { width: 26px; height: 12px; }
+
+.tip {
+  position: fixed; z-index: 20; pointer-events: none; max-width: 300px; padding: 8px 10px; border-radius: 8px;
+  background: var(--ink); color: var(--bg); font-size: var(--step--1); line-height: 1.35; box-shadow: var(--shadow);
+}
+.tip b { display: block; font-weight: 600; }
+
+/* Detail */
+.detail {
+  position: fixed; z-index: 30; right: max(16px, env(safe-area-inset-right, 0px)); bottom: max(16px, env(safe-area-inset-bottom, 0px));
+  width: min(380px, calc(100vw - 32px)); max-height: min(70vh, 520px); overflow-y: auto;
+  background: var(--surface); border: 1px solid var(--line); border-radius: 14px; box-shadow: var(--shadow); padding: 18px 18px 16px;
+  display: grid; gap: 10px;
+}
+.detail .kind { display: flex; align-items: center; gap: 8px; font: 600 var(--step--1)/1.2 var(--sans); letter-spacing: 0.08em; text-transform: uppercase; color: var(--muted); }
+.detail .kind i { width: 10px; height: 10px; border-radius: 50%; background: var(--c); }
+.detail h2 { font-size: var(--step-2); line-height: 1.1; padding-right: 32px; }
+.detail .when { font: 500 var(--step-0)/1.3 var(--mono); font-variant-numeric: tabular-nums; }
+.detail p { margin: 0; }
+.detail .close { all: unset; cursor: pointer; position: absolute; top: 12px; right: 12px; width: 32px; height: 32px; display: grid; place-items: center; border-radius: 8px; font-size: 1.2rem; color: var(--muted); }
+.detail .close:hover { background: var(--accent-soft); }
+.detail .close:focus-visible { outline: 2px solid var(--accent); }
+.detail .meta { font-size: var(--step--1); color: var(--muted); }
+
+/* Chronicle */
+section { padding-block: clamp(28px, 5vw, 56px); }
+.section-head { display: grid; gap: 8px; margin-bottom: 18px; max-width: 72ch; }
+.section-head h2 { font-size: var(--step-2); }
+.section-head p { margin: 0; color: var(--muted); }
+.chronicle { display: grid; gap: 22px; }
+.century h3 { font-size: var(--step-1); font-weight: 500; padding-bottom: 6px; border-bottom: 1px solid var(--line); margin-bottom: 4px; }
+.century ol { list-style: none; margin: 0; padding: 0; columns: 2 380px; column-gap: 32px; }
+.century li { break-inside: avoid; }
+.century button {
+  all: unset; cursor: pointer; box-sizing: border-box; width: 100%; display: grid; grid-template-columns: 112px minmax(0, 1fr); gap: 2px 12px;
+  padding: 7px 6px; border-radius: 8px;
+}
+.century button:hover { background: var(--accent-soft); }
+.century button:focus-visible { outline: 2px solid var(--accent); }
+.century .yr { font: 500 var(--step--1)/1.5 var(--mono); color: var(--muted); font-variant-numeric: tabular-nums; }
+.century .nm { font-weight: 500; }
+.century .st { grid-column: 2; display: inline-flex; align-items: center; gap: 6px; font-size: var(--step--1); color: var(--muted); }
+.century .st i { width: 8px; height: 8px; border-radius: 50%; background: var(--c); flex: none; }
+.more-note { color: var(--muted); font-size: var(--step--1); }
+
+footer { border-top: 1px solid var(--line); padding-block: 28px 48px; color: var(--muted); font-size: var(--step--1); }
+footer .wrap { display: grid; gap: 8px; max-width: 86ch; margin-inline: 0; }
+footer p { margin: 0; }
+@media (max-width: 640px) {
+  .tools { margin-inline-start: 0; }
+  .century button { grid-template-columns: 96px minmax(0, 1fr); }
+}
+</style>
+
+<header class="masthead">
+  <div class="wrap">
+    <p class="eyebrow">Open Bible · World history</p>
+    <h1>Streams of Time</h1>
+    <p class="lede">History from the <b>death and resurrection of Jesus, about AD 30,</b> to today: the empires, churches, scriptures and thinkers of every continent, side by side. After Sebastian Adams’ <i>Synchronological Chart</i> of 1871, with modern dates throughout.</p>
+  </div>
+</header>
+
+<main>
+  <div class="wrap">
+    <div class="controls" role="group" aria-label="Chart controls">
+      <div class="seg" id="ranges" role="group" aria-label="Years shown"></div>
+      <div class="chips" id="groups" role="group" aria-label="Streams shown"></div>
+      <div class="tools">
+        <button class="tool" id="earlier" type="button" aria-label="Earlier">‹</button>
+        <button class="tool" id="zoom-out" type="button" aria-label="Zoom out">−</button>
+        <button class="tool" id="zoom-in" type="button" aria-label="Zoom in">+</button>
+        <button class="tool" id="later" type="button" aria-label="Later">›</button>
+      </div>
+      <p class="hint" id="hint">Drag the chart or the window in the strip below to move through time. Pinch, or hold Ctrl and scroll, to zoom.</p>
+    </div>
+    <div class="overview-wrap"><svg id="overview" role="img" aria-label="All of history, with the years shown highlighted"></svg></div>
+    <div class="chart-card">
+      <div class="axis-wrap"><svg id="axis" aria-hidden="true"></svg></div>
+      <svg id="chart" role="img" aria-label="World-history streams; the chronicle below lists everything shown"></svg>
+      <div class="chart-foot" aria-hidden="true">
+        <span class="key"><svg viewBox="0 0 26 12"><rect x="1" y="2" width="24" height="8" rx="2" fill="var(--faint)" opacity=".25"/></svg>Era</span>
+        <span class="key"><svg viewBox="0 0 26 12"><rect x="1" y="2" width="24" height="8" rx="2" fill="var(--faint)" opacity=".5"/></svg>Dynasty or movement</span>
+        <span class="key"><svg viewBox="0 0 26 12"><rect x="1" y="2" width="24" height="8" rx="2" fill="var(--faint)"/></svg>Reign or life</span>
+        <span class="key"><svg viewBox="0 0 26 12"><path d="M13 1 18 6 13 11 8 6Z" fill="var(--faint)"/></svg>Event</span>
+        <span class="key"><svg viewBox="0 0 26 12"><rect x="1" y="2" width="24" height="8" rx="2" fill="none" stroke="var(--faint)" stroke-dasharray="3 2"/></svg>Approximate dates</span>
+      </div>
+    </div>
+  </div>
+
+  <section aria-labelledby="chron-h">
+    <div class="wrap">
+      <div class="section-head">
+        <h2 id="chron-h">Chronicle</h2>
+        <p id="chron-sub">Everything in the years shown above, in order.</p>
+      </div>
+      <div class="chronicle" id="chronicle"></div>
+    </div>
+  </section>
+</main>
+
+<aside class="detail" id="detail" hidden aria-live="polite"></aside>
+<div class="tip" id="tip" hidden></div>
+
+<footer>
+  <div class="wrap">
+    <p><b>Sources and method.</b> The rows are curated in this project’s <code>data/</code> tables (periods, rulers, events and lives), using the conventional dates of standard references, with Wikidata identifiers wherever an item’s English label matched exactly. Ancient and early medieval dates are often approximate and are marked so.</p>
+    <p>The Bible lane shows events the Bible narrates that outside evidence dates: modern dates, with Ussher’s date in each item’s details. The chart follows the plan of Sebastian C. Adams’ <i>Synchronological Chart, or Map of History</i> (1871). Built from the project’s data by <code>scripts/connections.py</code>.</p>
+  </div>
+</footer>
+
+<script type="application/json" id="data">{"streams":[{"name":"Egypt","group":"Bible lands"},{"name":"Sumer and Akkad","group":"Bible lands"},{"name":"Babylon","group":"Bible lands"},{"name":"Assyria","group":"Bible lands"},{"name":"Anatolia","group":"Bible lands"},{"name":"Aram","group":"Bible lands"},{"name":"Tyre","group":"Bible lands"},{"name":"Persia","group":"Bible lands"},{"name":"Seleucid","group":"Bible lands"},{"name":"Nabataea","group":"Bible lands"},{"name":"Herodian","group":"Bible lands"},{"name":"Roman officials","group":"Bible lands"},{"name":"High priests","group":"Bible lands"},{"name":"Jewish history","group":"Faith and scripture"},{"name":"Church","group":"Faith and scripture"},{"name":"Bible transmission","group":"Faith and scripture"},{"name":"Islamic world","group":"Faith and scripture"},{"name":"Greece","group":"Mediterranean and Europe"},{"name":"Rome","group":"Mediterranean and Europe"},{"name":"Carthage","group":"Mediterranean and Europe"},{"name":"Byzantine Empire","group":"Mediterranean and Europe"},{"name":"Europe","group":"Mediterranean and Europe"},{"name":"Russia","group":"Mediterranean and Europe"},{"name":"Mongols","group":"Asia"},{"name":"India","group":"Asia"},{"name":"China","group":"Asia"},{"name":"Japan","group":"Asia"},{"name":"Africa","group":"Africa and the Americas"},{"name":"Americas","group":"Africa and the Americas"},{"name":"World","group":"The wider world"},{"name":"World events","group":"The wider world"},{"name":"Thinkers and writers","group":"The wider world"}],"groups":["Bible lands","Faith and scripture","Mediterranean and Europe","Asia","Africa and the Americas","The wider world"],"items":[{"k":"pe","s":"Egypt","n":"Early Dynastic Period","a":-2999,"z":-2685,"c":1,"note":"Dynasties 1-2","wd":"Q187979"},{"k":"pe","s":"Egypt","n":"Old Kingdom","a":-2685,"z":-2159,"c":1,"note":"Dynasties 3-8; the age of the pyramids","wd":"Q177819"},{"k":"pd","s":"Egypt","n":"Fourth Dynasty","a":-2612,"z":-2493,"c":1,"note":"Khufu's Great Pyramid at Giza","wd":"Q211001"},{"k":"pe","s":"Egypt","n":"First Intermediate Period","a":-2159,"z":-2054,"c":1,"wd":"Q232211"},{"k":"pe","s":"Egypt","n":"Middle Kingdom","a":-2054,"z":-1649,"c":1,"wd":"Q191324"},{"k":"pd","s":"Egypt","n":"Twelfth Dynasty","a":-1984,"z":-1772,"c":1,"wd":"Q719639"},{"k":"pe","s":"Egypt","n":"Second Intermediate Period","a":-1649,"z":-1549,"c":1,"note":"Hyksos rule in the Nile Delta","wd":"Q206715"},{"k":"pe","s":"Egypt","n":"New Kingdom","a":-1549,"z":-1068,"c":1},{"k":"pd","s":"Egypt","n":"Eighteenth Dynasty","a":-1549,"z":-1294,"c":1,"wd":"Q146055"},{"k":"pd","s":"Egypt","n":"Nineteenth Dynasty","a":-1294,"z":-1185,"c":1,"wd":"Q157956"},{"k":"pd","s":"Egypt","n":"Twentieth Dynasty","a":-1185,"z":-1068,"c":1,"wd":"Q583501"},{"k":"pe","s":"Egypt","n":"Third Intermediate Period","a":-1068,"z":-663,"c":1,"wd":"Q212728"},{"k":"pd","s":"Egypt","n":"Twenty-second Dynasty","a":-944,"z":-714,"c":1,"note":"Libyan dynasty founded by Shoshenq I (Shishak)","wd":"Q737629"},{"k":"pd","s":"Egypt","n":"Twenty-fifth Dynasty","a":-746,"z":-655,"c":1,"note":"Kushite pharaohs including Taharqa (Tirhakah)","wd":"Q737648"},{"k":"pe","s":"Egypt","n":"Late Period","a":-663,"z":-331,"wd":"Q621917"},{"k":"pd","s":"Egypt","n":"Twenty-sixth Dynasty","a":-663,"z":-524,"note":"Saite pharaohs including Necho II and Apries (Hophra)","wd":"Q662410"},{"k":"pe","s":"Egypt","n":"Ptolemaic Kingdom","a":-331,"z":-29,"wd":"Q2320005"},{"k":"pe","s":"Egypt","n":"Roman Egypt","a":-29,"z":100,"note":"Continues beyond the chart","wd":"Q202311"},{"k":"pe","s":"Sumer and Akkad","n":"Early Dynastic Sumer","a":-2899,"z":-2333,"c":1,"note":"City-states such as Ur and Uruk"},{"k":"pe","s":"Sumer and Akkad","n":"Akkadian Empire","a":-2333,"z":-2153,"c":1,"wd":"Q4461035"},{"k":"pe","s":"Sumer and Akkad","n":"Third Dynasty of Ur","a":-2111,"z":-2003,"c":1,"wd":"Q723587"},{"k":"pe","s":"Sumer and Akkad","n":"Isin-Larsa period","a":-2003,"z":-1762,"c":1,"wd":"Q13577667"},{"k":"pe","s":"Babylon","n":"First Babylonian dynasty","a":-1893,"z":-1594,"c":1,"note":"Middle chronology; includes Hammurabi"},{"k":"pe","s":"Babylon","n":"Kassite dynasty","a":-1594,"z":-1154,"c":1,"wd":"Q16630263"},{"k":"pe","s":"Babylon","n":"Neo-Babylonian Empire","a":-625,"z":-538,"wd":"Q624887"},{"k":"pe","s":"Assyria","n":"Old Assyrian period","a":-2024,"z":-1749,"c":1,"wd":"Q22948607"},{"k":"pe","s":"Assyria","n":"Middle Assyrian Empire","a":-1364,"z":-1049,"c":1,"wd":"Q12642600"},{"k":"pe","s":"Assyria","n":"Neo-Assyrian Empire","a":-910,"z":-608,"wd":"Q10914393"},{"k":"pe","s":"Anatolia","n":"Old Hittite Kingdom","a":-1649,"z":-1499,"c":1,"wd":"Q12406731"},{"k":"pe","s":"Anatolia","n":"Hittite Empire","a":-1399,"z":-1179,"c":1},{"k":"pe","s":"Anatolia","n":"Neo-Hittite states","a":-1179,"z":-699,"c":1,"note":"The Hittites of the books of Kings","wd":"Q770281"},{"k":"pe","s":"Anatolia","n":"Kingdom of Lydia","a":-679,"z":-545,"c":1,"note":"Mermnad dynasty; conquered by Cyrus","wd":"Q620765"},{"k":"pe","s":"Persia","n":"Median Empire","a":-677,"z":-548,"c":1},{"k":"pe","s":"Persia","n":"Achaemenid Empire","a":-549,"z":-329,"wd":"Q389688"},{"k":"pe","s":"Persia","n":"Parthian Empire","a":-246,"z":224,"wd":"Q1986139"},{"k":"pe","s":"Greece","n":"Minoan palace civilization","a":-1999,"z":-1449,"c":1,"note":"Crete","wd":"Q134178"},{"k":"pe","s":"Greece","n":"Mycenaean Greece","a":-1599,"z":-1099,"c":1,"wd":"Q181264"},{"k":"pe","s":"Greece","n":"Greek Dark Ages","a":-1099,"z":-799,"c":1,"wd":"Q210443"},{"k":"pe","s":"Greece","n":"Archaic Greece","a":-799,"z":-479,"c":1,"wd":"Q271834"},{"k":"pe","s":"Greece","n":"Classical Greece","a":-479,"z":-322,"wd":"Q843745"},{"k":"pe","s":"Greece","n":"Hellenistic period","a":-322,"z":-30,"wd":"Q428995"},{"k":"pe","s":"Seleucid","n":"Seleucid Empire","a":-311,"z":-62,"wd":"Q93180"},{"k":"pe","s":"Rome","n":"Roman Kingdom","a":-752,"z":-508,"c":1,"note":"Traditional dates","wd":"Q201038"},{"k":"pe","s":"Rome","n":"Roman Republic","a":-508,"z":-26,"c":1,"note":"Traditional start date","wd":"Q17167"},{"k":"pe","s":"Rome","n":"Roman Empire","a":-26,"z":476,"note":"In the west to AD 476; the eastern empire continues as the Byzantine Empire","wd":"Q2277"},{"k":"pe","s":"Carthage","n":"Carthage","a":-813,"z":-145,"c":1,"note":"Traditional founding date","wd":"Q2429397"},{"k":"pe","s":"India","n":"Mature Harappan civilization","a":-2599,"z":-1899,"c":1,"note":"Indus Valley"},{"k":"pe","s":"India","n":"Vedic period","a":-1499,"z":-499,"c":1,"wd":"Q215262"},{"k":"pe","s":"India","n":"Mahajanapadas","a":-599,"z":-344,"c":1,"wd":"Q846025"},{"k":"pe","s":"India","n":"Nanda Empire","a":-344,"z":-321,"c":1,"wd":"Q949268"},{"k":"pe","s":"India","n":"Maurya Empire","a":-321,"z":-184,"c":1},{"k":"pe","s":"India","n":"Shunga Empire","a":-184,"z":-72,"c":1,"wd":"Q651377"},{"k":"pe","s":"China","n":"Xia dynasty","a":-2069,"z":-1599,"c":1,"note":"Traditional dates; its historicity is debated","wd":"Q169705"},{"k":"pe","s":"China","n":"Shang dynasty","a":-1599,"z":-1045,"c":1,"wd":"Q128938"},{"k":"pe","s":"China","n":"Western Zhou","a":-1045,"z":-770,"wd":"Q1069609"},{"k":"pe","s":"China","n":"Spring and Autumn period","a":-769,"z":-475,"note":"Eastern Zhou","wd":"Q185047"},{"k":"pe","s":"China","n":"Warring States period","a":-474,"z":-220,"note":"Eastern Zhou","wd":"Q185063"},{"k":"pe","s":"China","n":"Qin dynasty","a":-220,"z":-205,"wd":"Q7183"},{"k":"pe","s":"China","n":"Han dynasty","a":-201,"z":220,"wd":"Q7209"},{"k":"pd","s":"Rome","n":"Julio-Claudian dynasty","a":-26,"z":68},{"k":"pd","s":"Rome","n":"Flavian dynasty","a":69,"z":96},{"k":"pd","s":"Rome","n":"Nerva–Antonine dynasty","a":96,"z":192},{"k":"pd","s":"Rome","n":"Severan dynasty","a":193,"z":235},{"k":"pe","s":"Rome","n":"Crisis of the Third Century","a":235,"z":284},{"k":"pd","s":"Rome","n":"Constantinian dynasty","a":305,"z":363},{"k":"pd","s":"Rome","n":"Theodosian dynasty","a":379,"z":457},{"k":"pe","s":"Byzantine Empire","n":"Byzantine Empire","a":330,"z":1453,"note":"From the founding of Constantinople. Its people called it the Roman Empire to the end"},{"k":"pd","s":"Byzantine Empire","n":"Justinian dynasty","a":518,"z":602},{"k":"pd","s":"Byzantine Empire","n":"Heraclian dynasty","a":610,"z":711},{"k":"pd","s":"Byzantine Empire","n":"Isaurian dynasty","a":717,"z":802},{"k":"pd","s":"Byzantine Empire","n":"Macedonian dynasty","a":867,"z":1056},{"k":"pd","s":"Byzantine Empire","n":"Komnenos","a":1081,"z":1185,"note":"The Komnenian emperors"},{"k":"pd","s":"Byzantine Empire","n":"Palaiologos","a":1259,"z":1453,"note":"The Palaiologan emperors"},{"k":"pe","s":"Persia","n":"Sasanian Empire","a":224,"z":651},{"k":"pe","s":"Persia","n":"Safavid Iran","a":1501,"z":1736},{"k":"pe","s":"Persia","n":"Qajar Iran","a":1789,"z":1925},{"k":"pe","s":"Persia","n":"Pahlavi Iran","a":1925,"z":1979},{"k":"pe","s":"Persia","n":"Iran","a":1979,"z":2026,"now":1,"note":"The Islamic Republic, from the revolution of 1979"},{"k":"pe","s":"China","n":"Three Kingdoms","a":220,"z":280},{"k":"pe","s":"China","n":"Jin dynasty","a":266,"z":420},{"k":"pe","s":"China","n":"Northern and Southern dynasties","a":420,"z":589},{"k":"pe","s":"China","n":"Sui dynasty","a":581,"z":618},{"k":"pe","s":"China","n":"Tang dynasty","a":618,"z":907},{"k":"pe","s":"China","n":"Five Dynasties and Ten Kingdoms","a":907,"z":979},{"k":"pe","s":"China","n":"Song dynasty","a":960,"z":1279},{"k":"pe","s":"China","n":"Yuan dynasty","a":1271,"z":1368,"note":"Founded by Kublai Khan"},{"k":"pe","s":"China","n":"Ming dynasty","a":1368,"z":1644},{"k":"pe","s":"China","n":"Qing dynasty","a":1644,"z":1912},{"k":"pe","s":"China","n":"Republic of China","a":1912,"z":1949,"note":"On the mainland; the Republic continues on Taiwan"},{"k":"pe","s":"China","n":"People's Republic of China","a":1949,"z":2026,"now":1},{"k":"pe","s":"India","n":"Kushan Empire","a":30,"z":375,"c":1},{"k":"pe","s":"India","n":"Gupta Empire","a":320,"z":550,"c":1},{"k":"pe","s":"India","n":"Chola dynasty","a":848,"z":1279,"note":"The imperial Cholas; the dynasty is older"},{"k":"pe","s":"India","n":"Delhi Sultanate","a":1206,"z":1526},{"k":"pe","s":"India","n":"Vijayanagara Empire","a":1336,"z":1646},{"k":"pe","s":"India","n":"Mughal Empire","a":1526,"z":1857},{"k":"pe","s":"India","n":"Company rule in India","a":1757,"z":1858,"note":"The East India Company"},{"k":"pe","s":"India","n":"British Raj","a":1858,"z":1947},{"k":"pe","s":"India","n":"India","a":1947,"z":2026,"now":1,"note":"Independent from 1947; a republic from 1950"},{"k":"pe","s":"Japan","n":"Kofun period","a":250,"z":538,"c":1},{"k":"pe","s":"Japan","n":"Asuka period","a":538,"z":710,"note":"Buddhism reaches Japan"},{"k":"pe","s":"Japan","n":"Nara period","a":710,"z":794},{"k":"pe","s":"Japan","n":"Heian period","a":794,"z":1185},{"k":"pe","s":"Japan","n":"Kamakura period","a":1185,"z":1333,"note":"The first shogunate"},{"k":"pe","s":"Japan","n":"Muromachi period","a":1336,"z":1573},{"k":"pe","s":"Japan","n":"Azuchi–Momoyama period","a":1568,"z":1600},{"k":"pe","s":"Japan","n":"Edo period","a":1603,"z":1868,"note":"The Tokugawa shogunate"},{"k":"pe","s":"Japan","n":"Empire of Japan","a":1868,"z":1947},{"k":"pe","s":"Japan","n":"Occupation of Japan","a":1945,"z":1952},{"k":"pe","s":"Japan","n":"Post-occupation Japan","a":1952,"z":2026,"now":1},{"k":"pe","s":"Islamic world","n":"Islamic Golden Age","a":750,"z":1258,"c":1},{"k":"pd","s":"Islamic world","n":"Rashidun Caliphate","a":632,"z":661},{"k":"pd","s":"Islamic world","n":"Umayyad Caliphate","a":661,"z":750},{"k":"pd","s":"Islamic world","n":"Abbasid Caliphate","a":750,"z":1258,"note":"At Baghdad until the Mongols sacked it in 1258; continued in Cairo under the Mamluks to 1517"},{"k":"pd","s":"Islamic world","n":"Fatimid Caliphate","a":909,"z":1171},{"k":"pd","s":"Islamic world","n":"Ayyubid dynasty","a":1171,"z":1260,"note":"Founded by Saladin"},{"k":"pd","s":"Islamic world","n":"Mamluk Sultanate","a":1250,"z":1517},{"k":"pe","s":"Islamic world","n":"Ottoman Empire","a":1299,"z":1922,"c":1,"note":"Traditional founding date"},{"k":"pe","s":"Mongols","n":"Mongol Empire","a":1206,"z":1368,"note":"Divided into khanates from 1260"},{"k":"pe","s":"Europe","n":"Migration Period","a":375,"z":568,"c":1},{"k":"pe","s":"Europe","n":"Early Middle Ages","a":500,"z":1000,"c":1},{"k":"pe","s":"Europe","n":"High Middle Ages","a":1000,"z":1300,"c":1},{"k":"pe","s":"Europe","n":"Late Middle Ages","a":1300,"z":1500,"c":1},{"k":"pe","s":"Europe","n":"Renaissance","a":1400,"z":1600,"c":1},{"k":"pe","s":"Europe","n":"Age of Enlightenment","a":1685,"z":1815,"c":1},{"k":"pe","s":"Europe","n":"Industrial Revolution","a":1760,"z":1840,"c":1,"note":"Beginning in Britain"},{"k":"pd","s":"Europe","n":"Carolingian Empire","a":800,"z":888},{"k":"pd","s":"Europe","n":"Crusades","a":1095,"z":1291,"note":"From Urban II's call in 1095 to the fall of Acre in 1291"},{"k":"pd","s":"Europe","n":"Holy Roman Empire","a":962,"z":1806,"note":"From the coronation of Otto I; Charlemagne's empire (800) is often counted as its forerunner"},{"k":"pd","s":"Europe","n":"Kingdom of England","a":927,"z":1707},{"k":"pd","s":"Europe","n":"Kingdom of France","a":987,"z":1792,"note":"From the Capetian kings"},{"k":"pd","s":"Europe","n":"European Union","a":1993,"z":2026,"now":1},{"k":"pe","s":"Russia","n":"Kievan Rus'","a":882,"z":1240,"c":1},{"k":"pe","s":"Russia","n":"Grand Duchy of Moscow","a":1283,"z":1547,"c":1},{"k":"pe","s":"Russia","n":"Tsardom of Russia","a":1547,"z":1721},{"k":"pe","s":"Russia","n":"Russian Empire","a":1721,"z":1917},{"k":"pe","s":"Russia","n":"Soviet Union","a":1922,"z":1991},{"k":"pe","s":"Russia","n":"Russia","a":1991,"z":2026,"now":1,"note":"The Russian Federation"},{"k":"pe","s":"Africa","n":"Kingdom of Aksum","a":100,"z":940,"c":1},{"k":"pe","s":"Africa","n":"Ghana Empire","a":300,"z":1100,"c":1},{"k":"pe","s":"Africa","n":"Great Zimbabwe","a":1100,"z":1450,"c":1},{"k":"pe","s":"Africa","n":"Mali Empire","a":1235,"z":1670,"c":1},{"k":"pe","s":"Africa","n":"Ethiopian Empire","a":1270,"z":1974},{"k":"pe","s":"Africa","n":"Songhai Empire","a":1464,"z":1591},{"k":"pe","s":"Africa","n":"Scramble for Africa","a":1881,"z":1914,"c":1},{"k":"pe","s":"Americas","n":"Teotihuacan","a":-99,"z":550,"c":1,"note":"The city at its height"},{"k":"pe","s":"Americas","n":"Classic Maya","a":250,"z":900,"c":1,"note":"The Classic period of Maya civilization"},{"k":"pd","s":"Americas","n":"Aztec Empire","a":1428,"z":1521},{"k":"pd","s":"Americas","n":"Inca Empire","a":1438,"z":1533},{"k":"pd","s":"Americas","n":"United States","a":1776,"z":2026,"now":1},{"k":"pe","s":"Jewish history","n":"Tannaim","a":10,"z":220,"c":1,"note":"The rabbis of the Mishnah"},{"k":"pe","s":"Jewish history","n":"Amoraim","a":200,"z":500,"c":1,"note":"The rabbis of the Talmud"},{"k":"pe","s":"Jewish history","n":"Geonim","a":589,"z":1038,"c":1,"note":"Heads of the Babylonian academies"},{"k":"pd","s":"Jewish history","n":"Bar Kokhba revolt","a":132,"z":136,"note":"Afterwards Hadrian refounded Jerusalem as Aelia Capitolina"},{"k":"pd","s":"Jewish history","n":"The Holocaust","a":1941,"z":1945,"note":"About six million Jews were murdered"},{"k":"pe","s":"Jewish history","n":"State of Israel","a":1948,"z":2026,"now":1,"note":"Proclaimed on 14 May 1948"},{"k":"pe","s":"Church","n":"Apostolic Age","a":30,"z":100,"c":1},{"k":"pe","s":"Church","n":"Ante-Nicene period","a":100,"z":325,"c":1},{"k":"pd","s":"Church","n":"Western Schism","a":1378,"z":1417,"note":"Rival popes at Rome and Avignon"},{"k":"pd","s":"Church","n":"Reformation","a":1517,"z":1648,"c":1,"note":"Conventional end at the Peace of Westphalia"},{"k":"pd","s":"Church","n":"Counter-Reformation","a":1545,"z":1648,"c":1},{"k":"pd","s":"Church","n":"Council of Trent","a":1545,"z":1563},{"k":"pd","s":"Church","n":"First Great Awakening","a":1730,"z":1755,"c":1},{"k":"pd","s":"Church","n":"Second Great Awakening","a":1790,"z":1840,"c":1},{"k":"pd","s":"Church","n":"Second Vatican Council","a":1962,"z":1965},{"k":"pe","s":"Bible transmission","n":"Masoretes","a":600,"z":1000,"c":1,"note":"Scribes, chiefly at Tiberias, who added the vowels, accents and notes of the Hebrew text"},{"k":"pe","s":"World","n":"World War I","a":1914,"z":1918},{"k":"pe","s":"World","n":"World War II","a":1939,"z":1945},{"k":"pe","s":"World","n":"Cold War","a":1947,"z":1991},{"k":"r","s":"Tyre","n":"Hiram I","a":-979,"z":-946,"c":1,"wd":"Q467115","bible":"Hiram","ref":"2 Samuel 5:11"},{"k":"r","s":"Egypt","n":"Shoshenq I","a":-942,"z":-921,"c":1,"wd":"Q311811","bible":"Shishak","ref":"1 Kings 11:40"},{"k":"r","s":"Egypt","n":"Osorkon IV","a":-729,"z":-714,"c":1,"note":"Identification of So with Osorkon IV is probable but not certain","wd":"Q718214","bible":"So","ref":"2 Kings 17:4"},{"k":"r","s":"Egypt","n":"Taharqa","a":-689,"z":-663,"wd":"Q315714","bible":"Tirhakah","ref":"2 Kings 19:9"},{"k":"r","s":"Egypt","n":"Necho II","a":-609,"z":-594,"wd":"Q125102","bible":"Neco","ref":"2 Kings 23:29"},{"k":"r","s":"Egypt","n":"Apries","a":-588,"z":-569,"wd":"Q349291","bible":"Hophra","ref":"Jeremiah 37:5"},{"k":"r","s":"Aram","n":"Hazael","a":-841,"z":-795,"c":1,"wd":"Q127170","bible":"Hazael","ref":"1 Kings 19:15"},{"k":"r","s":"Aram","n":"Rezin","a":-753,"z":-731,"c":1,"wd":"Q878947","bible":"Rezin","ref":"2 Kings 15:37"},{"k":"r","s":"Assyria","n":"Shalmaneser III","a":-858,"z":-823,"note":"Not named in the Bible; his Black Obelisk shows Jehu paying tribute","wd":"Q211928"},{"k":"r","s":"Assyria","n":"Tiglath-Pileser III","a":-744,"z":-726,"note":"Also called Pul (2 Kings 15:19)","wd":"Q210074","bible":"Tiglath-pileser","ref":"2 Kings 15:19"},{"k":"r","s":"Assyria","n":"Shalmaneser V","a":-726,"z":-721,"wd":"Q310640","bible":"Shalmaneser","ref":"2 Kings 17:3"},{"k":"r","s":"Assyria","n":"Sargon II","a":-721,"z":-704,"note":"Named in Isaiah 20:1; TIPNR files that verse under Sennacherib, so no person link","wd":"Q208336"},{"k":"r","s":"Assyria","n":"Sennacherib","a":-704,"z":-680,"wd":"Q207140","bible":"Sennacherib","ref":"2 Kings 18:13"},{"k":"r","s":"Assyria","n":"Esarhaddon","a":-680,"z":-668,"bible":"Esarhaddon","ref":"2 Kings 19:37"},{"k":"r","s":"Assyria","n":"Ashurbanipal","a":-668,"z":-630,"c":1,"note":"Identification of Osnappar (Ezra 4:10) with Ashurbanipal is probable","wd":"Q171191","bible":"Osnappar","ref":"Ezra 4:10"},{"k":"r","s":"Babylon","n":"Marduk-apla-iddina II","a":-721,"z":-702,"note":"Reigned 722-710 and again in 703 BC","wd":"Q356505","bible":"Merodach-baladan","ref":"2 Kings 20:12"},{"k":"r","s":"Babylon","n":"Nebuchadnezzar II","a":-604,"z":-561,"wd":"Q12591","bible":"Nebuchadnezzar","ref":"2 Kings 24:1"},{"k":"r","s":"Babylon","n":"Amel-Marduk","a":-561,"z":-559,"wd":"Q313234","bible":"Evil-merodach","ref":"2 Kings 25:27"},{"k":"r","s":"Babylon","n":"Belshazzar","a":-552,"z":-538,"c":1,"note":"Co-regent with his father Nabonidus","wd":"Q225198","bible":"Belshazzar","ref":"Daniel 5:1"},{"k":"r","s":"Persia","n":"Cyrus II","a":-558,"z":-529,"note":"King of Babylon from 539 BC","wd":"Q8423","bible":"Cyrus","ref":"2 Chronicles 36:22"},{"k":"r","s":"Persia","n":"Darius I","a":-521,"z":-485,"wd":"Q44387","bible":"Darius","ref":"Ezra 4:5"},{"k":"r","s":"Persia","n":"Xerxes I","a":-485,"z":-464,"note":"Ahasuerus of Esther is usually identified with Xerxes I","wd":"Q129165","bible":"Ahasuerus","ref":"Ezra 4:6"},{"k":"r","s":"Persia","n":"Artaxerxes I","a":-464,"z":-423,"wd":"Q189689","bible":"Artaxerxes","ref":"Ezra 4:7"},{"k":"r","s":"Greece","n":"Alexander the Great","a":-335,"z":-322,"note":"Not named in the Bible","wd":"Q8409"},{"k":"r","s":"Seleucid","n":"Antiochus IV Epiphanes","a":-174,"z":-163,"note":"Not named in the Bible","wd":"Q3356"},{"k":"r","s":"Rome","n":"Augustus","a":-26,"z":14,"wd":"Q1405","bible":"Augustus","ref":"Luke 2:1"},{"k":"r","s":"Rome","n":"Tiberius","a":14,"z":37,"wd":"Q1407","bible":"Tiberius","ref":"Matthew 22:17"},{"k":"r","s":"Rome","n":"Claudius","a":41,"z":54,"wd":"Q1411","bible":"Claudius","ref":"Acts 11:28"},{"k":"r","s":"Herodian","n":"Herod the Great","a":-36,"z":-3,"wd":"Q51672","bible":"Herod","ref":"Matthew 2:1"},{"k":"r","s":"Herodian","n":"Herod Archelaus","a":-3,"z":6,"wd":"Q244345","bible":"Archelaus","ref":"Matthew 2:22"},{"k":"r","s":"Herodian","n":"Herod Antipas","a":-3,"z":39,"note":"Tetrarch of Galilee and Perea","wd":"Q192950","bible":"Herod","ref":"Matthew 14:1"},{"k":"r","s":"Herodian","n":"Herod Agrippa I","a":41,"z":44,"note":"King of Judea","wd":"Q298636","bible":"Herod","ref":"Acts 12:1"},{"k":"r","s":"Herodian","n":"Herod Agrippa II","a":48,"z":93,"c":1,"wd":"Q313419","bible":"Agrippa","ref":"Acts 25:13"},{"k":"r","s":"Nabataea","n":"Aretas IV","a":-8,"z":40,"wd":"Q302986","bible":"Aretas","ref":"2 Corinthians 11:32"},{"k":"r","s":"Roman officials","n":"Publius Sulpicius Quirinius","a":6,"z":12,"c":1,"note":"Governor of Syria; how Luke 2:2 relates to his census is debated","wd":"Q313398","bible":"Quirinius","ref":"Luke 2:2"},{"k":"r","s":"Roman officials","n":"Pontius Pilate","a":26,"z":36,"note":"Prefect of Judea","bible":"Pilate","ref":"Matthew 27:2"},{"k":"r","s":"Roman officials","n":"Antonius Felix","a":52,"z":60,"c":1,"note":"Procurator of Judea","wd":"Q316915","bible":"Felix","ref":"Acts 23:24"},{"k":"r","s":"Roman officials","n":"Porcius Festus","a":60,"z":62,"c":1,"note":"Procurator of Judea","wd":"Q464307","bible":"Festus","ref":"Acts 24:27"},{"k":"r","s":"Roman officials","n":"Gallio","a":51,"z":52,"note":"Proconsul of Achaia (Delphi inscription)","wd":"Q452194","bible":"Gallio","ref":"Acts 18:12"},{"k":"r","s":"High priests","n":"Annas","a":6,"z":15,"wd":"Q51680","bible":"Annas","ref":"Luke 3:2"},{"k":"r","s":"High priests","n":"Caiaphas","a":18,"z":36,"wd":"Q211246","bible":"Caiaphas","ref":"Matthew 26:3"},{"k":"r","s":"Egypt","n":"Khufu","a":-2588,"z":-2565,"c":1,"note":"Builder of the Great Pyramid","wd":"Q161904"},{"k":"r","s":"Egypt","n":"Hatshepsut","a":-1478,"z":-1457,"c":1,"wd":"Q129234"},{"k":"r","s":"Egypt","n":"Thutmose III","a":-1478,"z":-1424,"c":1,"wd":"Q157899"},{"k":"r","s":"Egypt","n":"Akhenaten","a":-1352,"z":-1335,"c":1,"wd":"Q81794"},{"k":"r","s":"Egypt","n":"Tutankhamun","a":-1331,"z":-1322,"c":1,"wd":"Q12154"},{"k":"r","s":"Egypt","n":"Ramesses II","a":-1278,"z":-1212,"c":1,"wd":"Q1523"},{"k":"r","s":"Egypt","n":"Merneptah","a":-1212,"z":-1202,"c":1,"note":"His stele (c. 1208 BC) is the earliest mention of Israel outside the Bible","wd":"Q158043"},{"k":"r","s":"Sumer and Akkad","n":"Sargon of Akkad","a":-2333,"z":-2278,"c":1,"wd":"Q199461"},{"k":"r","s":"Sumer and Akkad","n":"Ur-Nammu","a":-2111,"z":-2094,"c":1,"wd":"Q297417"},{"k":"r","s":"Babylon","n":"Hammurabi","a":-1791,"z":-1749,"c":1,"note":"Middle chronology","wd":"Q36359"},{"k":"r","s":"Babylon","n":"Nabonidus","a":-555,"z":-538,"note":"Father of Belshazzar","wd":"Q239414"},{"k":"r","s":"Anatolia","n":"Suppiluliuma I","a":-1343,"z":-1321,"c":1,"wd":"Q354903"},{"k":"r","s":"Anatolia","n":"Croesus","a":-559,"z":-545,"c":1,"wd":"Q184462"},{"k":"r","s":"Persia","n":"Cambyses II","a":-529,"z":-521,"wd":"Q182483"},{"k":"r","s":"Persia","n":"Darius II","a":-422,"z":-403,"wd":"Q202236"},{"k":"r","s":"Persia","n":"Artaxerxes II","a":-403,"z":-357,"wd":"Q188472"},{"k":"r","s":"Rome","n":"Julius Caesar","a":-48,"z":-43,"note":"Dictator","wd":"Q1048"},{"k":"r","s":"Rome","n":"Nero","a":54,"z":68,"note":"The emperor to whom Paul appealed (Acts 25:11)","wd":"Q1413"},{"k":"r","s":"Rome","n":"Vespasian","a":69,"z":79,"wd":"Q1419"},{"k":"r","s":"Rome","n":"Titus","a":79,"z":81,"note":"Destroyed Jerusalem and the Temple in AD 70 as general","wd":"Q1421"},{"k":"r","s":"Rome","n":"Domitian","a":81,"z":96,"wd":"Q1423"},{"k":"r","s":"India","n":"Ashoka","a":-267,"z":-231,"c":1,"wd":"Q8589"},{"k":"r","s":"China","n":"Qin Shi Huang","a":-220,"z":-209,"note":"First emperor of China","wd":"Q7192"},{"k":"r","s":"China","n":"Emperor Wu of Han","a":-140,"z":-86,"wd":"Q7225"},{"k":"r","s":"Rome","n":"Caligula","a":37,"z":41},{"k":"r","s":"Rome","n":"Trajan","a":98,"z":117,"note":"The empire at its greatest extent"},{"k":"r","s":"Rome","n":"Hadrian","a":117,"z":138,"note":"Put down the Bar Kokhba revolt"},{"k":"r","s":"Rome","n":"Marcus Aurelius","a":161,"z":180},{"k":"r","s":"Rome","n":"Septimius Severus","a":193,"z":211},{"k":"r","s":"Rome","n":"Decius","a":249,"z":251,"note":"The first empire-wide persecution of Christians, in 250"},{"k":"r","s":"Rome","n":"Diocletian","a":284,"z":305,"note":"The Great Persecution, from 303"},{"k":"r","s":"Rome","n":"Constantine the Great","a":306,"z":337,"note":"Sole emperor from 324. Ended the persecution of Christians (313) and called the Council of Nicaea (325)"},{"k":"r","s":"Rome","n":"Theodosius I","a":379,"z":395,"note":"Made Nicene Christianity the state religion (380)"},{"k":"r","s":"Rome","n":"Romulus Augustulus","a":475,"z":476,"note":"The last emperor in the west"},{"k":"r","s":"Byzantine Empire","n":"Justinian I","a":527,"z":565,"note":"Codified Roman law and built Hagia Sophia"},{"k":"r","s":"Byzantine Empire","n":"Heraclius","a":610,"z":641},{"k":"r","s":"Byzantine Empire","n":"Basil II","a":976,"z":1025},{"k":"r","s":"Byzantine Empire","n":"Alexios I Komnenos","a":1081,"z":1118,"note":"His appeal to the west led to the First Crusade"},{"k":"r","s":"Byzantine Empire","n":"Constantine XI Palaiologos","a":1449,"z":1453,"note":"The last emperor; died when Constantinople fell"},{"k":"r","s":"Persia","n":"Shapur I","a":240,"z":270,"c":1},{"k":"r","s":"Persia","n":"Khosrow I","a":531,"z":579},{"k":"r","s":"Persia","n":"Abbas the Great","a":1588,"z":1629},{"k":"r","s":"Islamic world","n":"Harun al-Rashid","a":786,"z":809,"note":"Abbasid caliph"},{"k":"r","s":"Islamic world","n":"Saladin","a":1174,"z":1193,"note":"Retook Jerusalem from the crusaders in 1187"},{"k":"r","s":"Islamic world","n":"Mehmed II","a":1451,"z":1481,"note":"His second reign; took Constantinople in 1453"},{"k":"r","s":"Islamic world","n":"Suleiman the Magnificent","a":1520,"z":1566,"note":"Rebuilt the walls of Jerusalem's Old City"},{"k":"r","s":"Mongols","n":"Genghis Khan","a":1206,"z":1227},{"k":"r","s":"Mongols","n":"Kublai Khan","a":1260,"z":1294,"note":"Founded the Yuan dynasty in China (1271)"},{"k":"r","s":"Europe","n":"Charlemagne","a":768,"z":814,"note":"King of the Franks from 768; crowned emperor in 800"},{"k":"r","s":"Europe","n":"Otto the Great","a":936,"z":973,"note":"Crowned emperor in 962"},{"k":"r","s":"Europe","n":"William the Conqueror","a":1066,"z":1087,"note":"King of England"},{"k":"r","s":"Europe","n":"Elizabeth I","a":1558,"z":1603,"note":"Queen of England"},{"k":"r","s":"Europe","n":"Louis XIV","a":1643,"z":1715,"note":"King of France"},{"k":"r","s":"Europe","n":"Napoleon","a":1804,"z":1814,"note":"Emperor of the French; returned briefly in 1815"},{"k":"r","s":"Europe","n":"Queen Victoria","a":1837,"z":1901,"note":"Queen of the United Kingdom"},{"k":"r","s":"Russia","n":"Peter the Great","a":1682,"z":1725},{"k":"r","s":"Russia","n":"Catherine the Great","a":1762,"z":1796},{"k":"r","s":"China","n":"Emperor Taizong of Tang","a":626,"z":649,"note":"The Church of the East reached his capital in 635 (Xi'an Stele)"},{"k":"r","s":"China","n":"Yongle Emperor","a":1402,"z":1424},{"k":"r","s":"China","n":"Kangxi Emperor","a":1661,"z":1722},{"k":"r","s":"India","n":"Chandragupta II","a":375,"z":415,"c":1},{"k":"r","s":"India","n":"Akbar","a":1556,"z":1605},{"k":"r","s":"India","n":"Shah Jahan","a":1628,"z":1658,"note":"Built the Taj Mahal"},{"k":"r","s":"Japan","n":"Tokugawa Ieyasu","a":1603,"z":1605,"note":"First Tokugawa shogun"},{"k":"r","s":"Japan","n":"Emperor Meiji","a":1867,"z":1912},{"k":"r","s":"Americas","n":"Moctezuma II","a":1502,"z":1520},{"k":"r","s":"Americas","n":"George Washington","a":1789,"z":1797,"note":"First president of the United States"},{"k":"r","s":"Americas","n":"Abraham Lincoln","a":1861,"z":1865},{"k":"r","s":"Africa","n":"Ezana of Axum","a":320,"z":360,"c":1,"note":"The first Christian king of Aksum"},{"k":"r","s":"Africa","n":"Mansa Musa","a":1312,"z":1337,"c":1},{"k":"r","s":"Africa","n":"Haile Selassie","a":1930,"z":1974,"note":"Emperor of Ethiopia"},{"k":"r","s":"Africa","n":"Nelson Mandela","a":1994,"z":1999,"note":"First president of a democratic South Africa"},{"k":"e","s":"World events","n":"Great Pyramid of Giza built","a":-2559,"z":-2559,"c":1,"note":"Under Khufu","wd":"Q37200"},{"k":"e","s":"World events","n":"Code of Hammurabi","a":-1753,"z":-1753,"c":1,"wd":"Q93304"},{"k":"e","s":"World events","n":"Battle of Kadesh","a":-1273,"z":-1273,"c":1,"note":"Ramesses II against the Hittites","wd":"Q203729"},{"k":"e","s":"World events","n":"Merneptah Stele","a":-1207,"z":-1207,"c":1,"note":"Earliest mention of Israel outside the Bible","wd":"Q754378"},{"k":"e","s":"World events","n":"First Olympic Games","a":-775,"z":-775,"note":"Traditional date; the start of Greek dating by Olympiads"},{"k":"e","s":"World events","n":"Founding of Rome","a":-752,"z":-752,"c":1,"note":"Traditional date"},{"k":"e","s":"World events","n":"Fall of Nineveh","a":-611,"z":-611,"wd":"Q612286"},{"k":"e","s":"World events","n":"Battle of Marathon","a":-489,"z":-489,"wd":"Q31900"},{"k":"e","s":"World events","n":"Battle of Gaugamela","a":-330,"z":-330,"note":"Alexander defeats Darius III","wd":"Q179670"},{"k":"e","s":"World events","n":"Maccabean revolt","a":-166,"z":-166,"wd":"Q7930888"},{"k":"e","s":"World events","n":"Pompey takes Jerusalem","a":-62,"z":-62},{"k":"e","s":"World events","n":"Destruction of the Second Temple","a":70,"z":70},{"k":"f","s":"Thinkers and writers","n":"Confucius","a":-550,"z":-478,"wd":"Q4604"},{"k":"f","s":"Thinkers and writers","n":"Herodotus","a":-483,"z":-424,"c":1,"wd":"Q26825"},{"k":"f","s":"Thinkers and writers","n":"Socrates","a":-469,"z":-398,"c":1,"wd":"Q913"},{"k":"f","s":"Thinkers and writers","n":"Thucydides","a":-459,"z":-399,"c":1,"wd":"Q41683"},{"k":"f","s":"Thinkers and writers","n":"Plato","a":-427,"z":-347,"c":1,"wd":"Q859"},{"k":"f","s":"Thinkers and writers","n":"Aristotle","a":-383,"z":-321,"wd":"Q868"},{"k":"f","s":"Thinkers and writers","n":"Philo of Alexandria","a":-19,"z":50,"c":1,"wd":"Q189597"},{"k":"f","s":"Thinkers and writers","n":"Josephus","a":37,"z":100,"c":1,"wd":"Q134461"},{"k":"e","s":"Church","n":"Crucifixion of Jesus","a":30,"z":30,"c":1,"note":"Under Pontius Pilate, prefect AD 26-36 (Tacitus, Annals 15.44; Josephus). Most scholars date it to AD 30 or 33; Ussher to AD 33"},{"k":"e","s":"Church","n":"Resurrection of Jesus","a":30,"z":30,"c":1,"note":"Proclaimed by the first Christians as taking place on the third day (1 Corinthians 15:3-8, written about AD 54)"},{"k":"e","s":"World events","n":"Great Fire of Rome","a":64,"z":64,"note":"Nero blamed the Christians (Tacitus, Annals 15.44)"},{"k":"e","s":"Jewish history","n":"Siege of Masada","a":73,"z":73,"c":1,"note":"The end of the First Jewish-Roman War"},{"k":"e","s":"World events","n":"Eruption of Vesuvius","a":79,"z":79,"note":"Pompeii and Herculaneum buried"},{"k":"e","s":"Jewish history","n":"Mishnah","a":200,"z":200,"c":1,"note":"Compiled under Judah ha-Nasi"},{"k":"e","s":"Church","n":"Edict of Milan","a":313,"z":313,"note":"Toleration for Christians"},{"k":"e","s":"Church","n":"First Council of Nicaea","a":325,"z":325,"note":"The Nicene Creed"},{"k":"e","s":"World events","n":"Founding of Constantinople","a":330,"z":330,"note":"Constantine's new capital"},{"k":"e","s":"Church","n":"Edict of Thessalonica","a":380,"z":380,"note":"Nicene Christianity becomes the religion of the empire"},{"k":"e","s":"Church","n":"First Council of Constantinople","a":381,"z":381},{"k":"e","s":"Jewish history","n":"Jerusalem Talmud","a":400,"z":400,"c":1},{"k":"e","s":"World events","n":"Sack of Rome","a":410,"z":410,"note":"By the Visigoths under Alaric"},{"k":"e","s":"Church","n":"Council of Ephesus","a":431,"z":431},{"k":"e","s":"Church","n":"Council of Chalcedon","a":451,"z":451},{"k":"e","s":"World events","n":"Fall of the Western Roman Empire","a":476,"z":476,"note":"Odoacer deposes Romulus Augustulus"},{"k":"e","s":"Jewish history","n":"Babylonian Talmud","a":500,"z":500,"c":1},{"k":"e","s":"Islamic world","n":"Hijrah","a":622,"z":622,"note":"Muhammad's move to Medina; year 1 of the Islamic calendar"},{"k":"e","s":"Church","n":"Church of the East reaches China","a":635,"z":635,"note":"Recorded on the Xi'an Stele (781)"},{"k":"e","s":"Islamic world","n":"Dome of the Rock","a":691,"z":691,"note":"Completed on the Temple Mount"},{"k":"e","s":"World events","n":"Battle of Tours","a":732,"z":732},{"k":"e","s":"Europe","n":"Charlemagne crowned emperor","a":800,"z":800,"note":"Christmas Day, in Rome, by Pope Leo III"},{"k":"e","s":"Church","n":"East–West Schism","a":1054,"z":1054},{"k":"e","s":"Europe","n":"Battle of Hastings","a":1066,"z":1066,"note":"The Norman conquest of England"},{"k":"e","s":"Europe","n":"Magna Carta","a":1215,"z":1215},{"k":"e","s":"World events","n":"Black Death","a":1347,"z":1347,"note":"1347-1351; killed perhaps a third of Europe's people"},{"k":"e","s":"World events","n":"Fall of Constantinople","a":1453,"z":1453,"note":"The end of the Byzantine Empire"},{"k":"e","s":"Jewish history","n":"Alhambra Decree","a":1492,"z":1492,"note":"The expulsion of the Jews from Spain"},{"k":"e","s":"World events","n":"Voyages of Christopher Columbus","a":1492,"z":1492,"note":"First voyage, 1492"},{"k":"e","s":"Church","n":"Ninety-five Theses","a":1517,"z":1517,"note":"Martin Luther, at Wittenberg"},{"k":"e","s":"Americas","n":"Fall of Tenochtitlan","a":1521,"z":1521},{"k":"e","s":"World events","n":"Peace of Westphalia","a":1648,"z":1648,"note":"Ends the Thirty Years' War"},{"k":"e","s":"Americas","n":"United States Declaration of Independence","a":1776,"z":1776},{"k":"e","s":"Europe","n":"French Revolution","a":1789,"z":1789},{"k":"e","s":"Europe","n":"Battle of Waterloo","a":1815,"z":1815},{"k":"e","s":"World events","n":"Slavery Abolition Act 1833","a":1833,"z":1833,"note":"Abolished slavery in most of the British Empire"},{"k":"e","s":"India","n":"Indian Rebellion of 1857","a":1857,"z":1857},{"k":"e","s":"World events","n":"On the Origin of Species","a":1859,"z":1859,"note":"Charles Darwin"},{"k":"e","s":"Americas","n":"Emancipation Proclamation","a":1863,"z":1863},{"k":"e","s":"Japan","n":"Meiji Restoration","a":1868,"z":1868},{"k":"e","s":"Jewish history","n":"First Zionist Congress","a":1897,"z":1897,"note":"Basel"},{"k":"e","s":"Church","n":"Azusa Street Revival","a":1906,"z":1906,"note":"Los Angeles; the start of the Pentecostal movement"},{"k":"e","s":"Russia","n":"Russian Revolution","a":1917,"z":1917},{"k":"e","s":"Japan","n":"Atomic bombings of Hiroshima and Nagasaki","a":1945,"z":1945},{"k":"e","s":"World events","n":"United Nations","a":1945,"z":1945,"note":"Founded on 24 October 1945"},{"k":"e","s":"India","n":"Partition of India","a":1947,"z":1947},{"k":"e","s":"Jewish history","n":"Israeli Declaration of Independence","a":1948,"z":1948},{"k":"e","s":"World events","n":"Universal Declaration of Human Rights","a":1948,"z":1948},{"k":"e","s":"World events","n":"Apollo 11","a":1969,"z":1969,"note":"The first people on the Moon"},{"k":"e","s":"Europe","n":"Fall of the Berlin Wall","a":1989,"z":1989},{"k":"e","s":"Russia","n":"Dissolution of the Soviet Union","a":1991,"z":1991},{"k":"e","s":"World events","n":"World Wide Web","a":1991,"z":1991,"note":"Made public by Tim Berners-Lee in 1991"},{"k":"e","s":"Africa","n":"End of apartheid","a":1994,"z":1994,"note":"South Africa's first election with universal suffrage"},{"k":"e","s":"World events","n":"September 11 attacks","a":2001,"z":2001},{"k":"e","s":"World events","n":"COVID-19 pandemic","a":2020,"z":2020},{"k":"e","s":"Bible transmission","n":"Rylands Library Papyrus P52","a":125,"z":125,"c":1,"note":"A fragment of John 18, the oldest known New Testament manuscript; usually dated to the first half of the 2nd century"},{"k":"e","s":"Bible transmission","n":"Diatessaron","a":170,"z":170,"c":1,"note":"Tatian's harmony of the four Gospels"},{"k":"e","s":"Bible transmission","n":"Papyrus 46","a":200,"z":200,"c":1,"note":"Paul's letters; dated about 175-225"},{"k":"e","s":"Bible transmission","n":"Hexapla","a":245,"z":245,"c":1,"note":"Origen's six-column Old Testament: Hebrew beside the Greek versions"},{"k":"e","s":"Bible transmission","n":"Codex Vaticanus","a":325,"z":325,"c":1,"note":"Copied about 300-325; one of the two oldest nearly complete Greek Bibles"},{"k":"e","s":"Bible transmission","n":"Codex Sinaiticus","a":350,"z":350,"c":1,"note":"Copied about 330-360; the oldest complete New Testament"},{"k":"e","s":"Bible transmission","n":"Athanasius's festal letter of 367","a":367,"z":367,"note":"His 39th Festal Letter: the first list of exactly the 27 books of the New Testament"},{"k":"e","s":"Bible transmission","n":"Vulgate","a":382,"z":382,"c":1,"note":"Jerome's Latin translation, about 382-405"},{"k":"e","s":"Bible transmission","n":"Codex Alexandrinus","a":425,"z":425,"c":1,"note":"Copied about 400-440"},{"k":"e","s":"Bible transmission","n":"Aleppo Codex","a":930,"z":930,"c":1,"note":"Pointed by Aaron ben Asher at Tiberias; much of the Torah was lost in 1947"},{"k":"e","s":"Bible transmission","n":"Leningrad Codex","a":1008,"z":1008,"note":"Copied in Cairo in 1008 or 1009: the oldest complete Hebrew Bible, and the source of this project's Hebrew text (UXLC)"},{"k":"e","s":"Bible transmission","n":"Wycliffe's Bible","a":1382,"z":1382,"c":1,"note":"About 1382-1395: the first complete Bible in English, translated from the Latin"},{"k":"e","s":"Bible transmission","n":"Gutenberg Bible","a":1455,"z":1455,"c":1,"note":"The first major book printed with movable type in Europe"},{"k":"e","s":"Bible transmission","n":"Novum Instrumentum omne","a":1516,"z":1516,"note":"Erasmus's Greek New Testament, the first to be published; the basis of the Textus Receptus"},{"k":"e","s":"Bible transmission","n":"Tyndale Bible","a":1526,"z":1526,"note":"Tyndale's New Testament, the first printed in English and the first translated from the Greek"},{"k":"e","s":"Bible transmission","n":"Luther Bible","a":1534,"z":1534,"note":"The complete German Bible; the New Testament appeared in 1522"},{"k":"e","s":"Bible transmission","n":"King James Version","a":1611,"z":1611},{"k":"e","s":"Bible transmission","n":"Textus Receptus","a":1633,"z":1633,"note":"The name comes from the preface to the Elzevir edition of 1633"},{"k":"e","s":"Bible transmission","n":"Tischendorf brings Codex Sinaiticus to light","a":1859,"z":1859,"note":"He found the first leaves at St Catherine's Monastery, Sinai, in 1844"},{"k":"e","s":"Bible transmission","n":"Westcott and Hort's Greek New Testament","a":1881,"z":1881,"note":"The New Testament in the Original Greek, the first major critical edition in English scholarship"},{"k":"e","s":"Bible transmission","n":"Scrivener's Textus Receptus","a":1894,"z":1894,"note":"The edition behind this project's comparison text (greek-tr)"},{"k":"e","s":"Bible transmission","n":"Novum Testamentum Graece","a":1898,"z":1898,"note":"Eberhard Nestle's first edition; the 28th (NA28) appeared in 2012"},{"k":"e","s":"Bible transmission","n":"Dead Sea Scrolls","a":1947,"z":1947,"note":"Found near Qumran from 1946/47 to 1956; copied about 250 BC - AD 68, a thousand years before the Leningrad Codex"},{"k":"e","s":"Bible transmission","n":"Biblia Hebraica Stuttgartensia","a":1977,"z":1977,"note":"The standard printed edition of the Leningrad Codex"},{"k":"e","s":"Bible transmission","n":"SBL Greek New Testament","a":2010,"z":2010,"note":"The source of this project's New Testament text"},{"k":"f","s":"Thinkers and writers","n":"Ignatius of Antioch","a":35,"z":108,"c":1},{"k":"f","s":"Thinkers and writers","n":"Justin Martyr","a":100,"z":165,"c":1},{"k":"f","s":"Thinkers and writers","n":"Irenaeus","a":130,"z":202,"c":1},{"k":"f","s":"Thinkers and writers","n":"Tertullian","a":155,"z":220,"c":1},{"k":"f","s":"Thinkers and writers","n":"Origen","a":185,"z":253,"c":1},{"k":"f","s":"Thinkers and writers","n":"Eusebius","a":260,"z":339,"c":1,"note":"Bishop of Caesarea; historian of the early church"},{"k":"f","s":"Thinkers and writers","n":"Athanasius of Alexandria","a":296,"z":373,"c":1},{"k":"f","s":"Thinkers and writers","n":"Jerome","a":347,"z":420,"c":1,"note":"Translator of the Vulgate"},{"k":"f","s":"Thinkers and writers","n":"Augustine of Hippo","a":354,"z":430},{"k":"f","s":"Islamic world","n":"Muhammad","a":570,"z":632,"c":1},{"k":"f","s":"Thinkers and writers","n":"Bede","a":673,"z":735,"c":1},{"k":"f","s":"Japan","n":"Murasaki Shikibu","a":973,"z":1014,"c":1,"note":"Author of The Tale of Genji"},{"k":"f","s":"Thinkers and writers","n":"Avicenna","a":980,"z":1037,"c":1},{"k":"f","s":"Jewish history","n":"Rashi","a":1040,"z":1105,"note":"Commentator on the Bible and Talmud"},{"k":"f","s":"Thinkers and writers","n":"Zhu Xi","a":1130,"z":1200},{"k":"f","s":"Jewish history","n":"Maimonides","a":1138,"z":1204,"c":1},{"k":"f","s":"Thinkers and writers","n":"Thomas Aquinas","a":1225,"z":1274,"c":1},{"k":"f","s":"Thinkers and writers","n":"Dante Alighieri","a":1265,"z":1321,"c":1},{"k":"f","s":"Bible transmission","n":"John Wycliffe","a":1328,"z":1384,"c":1},{"k":"f","s":"Thinkers and writers","n":"Ibn Khaldun","a":1332,"z":1406},{"k":"f","s":"Bible transmission","n":"Erasmus","a":1466,"z":1536,"c":1},{"k":"f","s":"Church","n":"Martin Luther","a":1483,"z":1546},{"k":"f","s":"Bible transmission","n":"William Tyndale","a":1494,"z":1536,"c":1,"note":"Executed for translating the Bible"},{"k":"f","s":"Church","n":"John Calvin","a":1509,"z":1564},{"k":"f","s":"Thinkers and writers","n":"William Shakespeare","a":1564,"z":1616},{"k":"f","s":"Thinkers and writers","n":"Galileo Galilei","a":1564,"z":1642},{"k":"f","s":"Thinkers and writers","n":"Isaac Newton","a":1643,"z":1727},{"k":"f","s":"Thinkers and writers","n":"Johann Sebastian Bach","a":1685,"z":1750},{"k":"f","s":"Church","n":"John Wesley","a":1703,"z":1791},{"k":"f","s":"Thinkers and writers","n":"Immanuel Kant","a":1724,"z":1804},{"k":"f","s":"Thinkers and writers","n":"Charles Darwin","a":1809,"z":1882},{"k":"f","s":"Bible transmission","n":"Constantin von Tischendorf","a":1815,"z":1874},{"k":"f","s":"Thinkers and writers","n":"Karl Marx","a":1818,"z":1883},{"k":"f","s":"Thinkers and writers","n":"Fyodor Dostoevsky","a":1821,"z":1881},{"k":"f","s":"Thinkers and writers","n":"Mahatma Gandhi","a":1869,"z":1948},{"k":"f","s":"Thinkers and writers","n":"Albert Einstein","a":1879,"z":1955},{"k":"f","s":"Thinkers and writers","n":"C. S. Lewis","a":1898,"z":1963},{"k":"f","s":"Church","n":"Dietrich Bonhoeffer","a":1906,"z":1945,"note":"Executed by the Nazi regime"},{"k":"f","s":"Thinkers and writers","n":"Martin Luther King Jr.","a":1929,"z":1968}],"syncs":[{"n":"Shishak invades Judah","ref":"1 Kings 14:25","m":-924,"us":-969,"c":1,"ev":"Shoshenq I's campaign list at Karnak (Bubastite Portal)"},{"n":"Death of Ahab","ref":"1 Kings 22:37","m":-852,"us":-896,"c":1,"ev":"Kurkh Monolith: Ahab at the battle of Qarqar in 853 BC"},{"n":"Mesha of Moab rebels","ref":"2 Kings 3:5","m":-849,"us":-894,"c":1,"ev":"Mesha Stele"},{"n":"Jehu becomes king of Israel","ref":"2 Kings 9:13","m":-840,"us":-883,"c":0,"ev":"Black Obelisk of Shalmaneser III: Jehu's tribute in 841 BC"},{"n":"Menahem pays tribute to Pul","ref":"2 Kings 15:19","m":-737,"us":-770,"c":1,"ev":"Annals of Tiglath-pileser III"},{"n":"Fall of Samaria","ref":"2 Kings 17:6","m":-721,"us":-720,"c":0,"ev":"Babylonian Chronicle; Sargon II's annals"},{"n":"Sennacherib invades Judah","ref":"2 Kings 18:13","m":-700,"us":-712,"c":0,"ev":"Sennacherib's annals (Taylor and Chicago prisms)"},{"n":"Josiah killed at Megiddo","ref":"2 Kings 23:29","m":-608,"us":-609,"c":0,"ev":"Babylonian Chronicle"},{"n":"Battle of Carchemish","ref":"Jeremiah 46:2","m":-604,"us":-606,"c":0,"ev":"Babylonian Chronicle"},{"n":"Jehoiachin surrenders to Nebuchadnezzar","ref":"2 Kings 24:12","m":-596,"us":-598,"c":0,"ev":"Babylonian Chronicle: 2 Adar (16 March) 597 BC"},{"n":"Destruction of Jerusalem and the Temple","ref":"2 Kings 25:8","m":-585,"us":-587,"c":1,"ev":"Dated from Nebuchadnezzar's regnal years; some scholars prefer 587 BC"},{"n":"Evil-merodach releases Jehoiachin","ref":"2 Kings 25:27","m":-560,"us":-561,"c":1,"ev":"Babylonian king lists (accession of Amel-Marduk)"},{"n":"Fall of Babylon","ref":"Daniel 5:30","m":-538,"us":-537,"c":0,"ev":"Nabonidus Chronicle; Cyrus Cylinder"},{"n":"Decree of Cyrus","ref":"Ezra 1:1","m":-537,"us":null,"c":1,"ev":"First regnal year of Cyrus in Babylon"},{"n":"Second Temple completed","ref":"Ezra 6:15","m":-514,"us":-514,"c":0,"ev":"Sixth year of Darius I (Persian regnal dating)"},{"n":"Ezra comes to Jerusalem","ref":"Ezra 7:8","m":-457,"us":-456,"c":1,"ev":"Seventh year of Artaxerxes I"},{"n":"Nehemiah comes to Jerusalem","ref":"Nehemiah 2:1","m":-444,"us":-445,"c":1,"ev":"Twentieth year of Artaxerxes I"},{"n":"Birth of Jesus","ref":"Matthew 2:1","m":-4,"us":-3,"c":1,"ev":"Before the death of Herod the Great in 4 BC (Josephus)"},{"n":"Fifteenth year of Tiberius","ref":"Luke 3:1","m":28,"us":26,"c":1,"ev":"Tiberius's reign from AD 14 (Roman sources)"},{"n":"Death of Herod Agrippa I","ref":"Acts 12:23","m":44,"us":44,"c":0,"ev":"Josephus"},{"n":"Claudius expels the Jews from Rome","ref":"Acts 18:2","m":49,"us":54,"c":1,"ev":"Suetonius; Orosius"},{"n":"Paul before Gallio","ref":"Acts 18:12","m":51,"us":54,"c":0,"ev":"Delphi inscription naming Gallio as proconsul"},{"n":"Festus succeeds Felix","ref":"Acts 24:27","m":60,"us":60,"c":1,"ev":"Josephus; Roman coinage"},{"n":"Crucifixion under Pontius Pilate","ref":"Matthew 27:26","m":30,"us":33,"c":1,"ev":"Pilate was prefect of Judea AD 26-36 (Tacitus, Annals 15.44; Josephus); astronomy allows a Friday 14 Nisan on 7 April AD 30 and 3 April AD 33"}],"present":2026}</script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/d3/7.8.5/d3.min.js"></script>
+<script>
+(() => {
+  const D = JSON.parse(document.getElementById("data").textContent);
+  const PRESENT = D.present;
+  const FULL = [-3200, PRESENT + 8];
+  const RANGES = [["AD 30 – today", [18, PRESENT + 8]], ["Since 1500", [1480, PRESENT + 6]],
+                  ["Antiquity", [-3150, 70]], ["All of history", FULL]];
+  const GROUP_HUE = { "Bible lands": 32, "Faith and scripture": 224, "Mediterranean and Europe": 352, "Asia": 158,
+                      "Africa and the Americas": 278, "The wider world": 200 };
+  const KIND = { pe: "Era", pd: "Dynasty or movement", r: "Reign", f: "Life", e: "Event" };
+  const fmt = new Intl.NumberFormat("en");
+  const yl = y => (y <= 0 ? `${1 - y} BC` : `AD ${y}`);
+  const ylShort = y => (y <= 0 ? `${1 - y} BC` : y < 1000 ? `AD ${y}` : `${y}`);
+  // "117–138" within the AD era, "27 BC–AD 68" across it, "1949–now" for what continues.
+  const span = d => {
+    if (d.k === "e" || d.a === d.z) return ylShort(d.a);
+    const end = d.now ? "now" : d.z <= 0 ? `${1 - d.z} BC` : `${d.z}`;
+    if (d.a > 0) return `${d.a < 1000 ? "AD " : ""}${d.a}–${end}`;
+    if (d.z <= 0) return `${1 - d.a}–${1 - d.z} BC`;
+    return `${1 - d.a} BC–${d.now ? "now" : `AD ${d.z}`}`;
+  };
+  const el = (tag, attrs = {}, ...kids) => {
+    const n = document.createElement(tag);
+    for (const [k, v] of Object.entries(attrs)) {
+      if (v == null || v === false) continue;
+      if (k === "class") n.className = v; else if (k === "text") n.textContent = v;
+      else if (k.startsWith("on")) n.addEventListener(k.slice(2), v); else n.setAttribute(k, v === true ? "" : v);
+    }
+    for (const c of kids.flat()) if (c != null) n.append(c);
+    return n;
+  };
+  const reduced = matchMedia("(prefers-reduced-motion: reduce)").matches;
+
+  // ---- Items, with the Bible synchronisms as their own lane.
+  const BIBLE = "The Bible in world history";
+  const items = D.items.map((r, id) => ({ ...r, id }));
+  D.syncs.forEach(s => items.push({ id: items.length, k: "e", s: BIBLE, n: s.n, a: s.m, z: s.m, c: s.c, sync: s,
+    note: `${s.ev}. ${s.ref}.` }));
+  const streams = [{ name: BIBLE, group: "The Bible" }, ...D.streams];
+  const groups = ["The Bible", ...D.groups];
+  const byStream = d3.group(items, d => d.s);
+
+  // ---- Colours: one hue family per group, a shade per stream; recomputed when the theme changes.
+  const dark = () => {
+    const t = document.documentElement.getAttribute("data-theme");
+    return t ? t === "dark" : matchMedia("(prefers-color-scheme: dark)").matches;
+  };
+  const colour = {};
+  function setColours() {
+    const dk = dark();
+    for (const g of groups) {
+      const ss = streams.filter(s => s.group === g);
+      ss.forEach((s, k) => {
+        if (g === "The Bible") { colour[s.name] = dk ? "hsl(43 72% 62%)" : "hsl(40 85% 30%)"; return; }
+        const hue = GROUP_HUE[g] + (k - (ss.length - 1) / 2) * Math.min(13, 70 / ss.length);
+        const l = dk ? 66 + (k % 2) * 6 : 38 + (k % 2) * 7;
+        colour[s.name] = `hsl(${hue.toFixed(1)} ${dk ? 58 : 62}% ${l}%)`;
+      });
+    }
+    document.querySelectorAll("[data-stream-colour]").forEach(n => n.style.setProperty("--c", colour[n.dataset.streamColour]));
+    groupChips.forEach(([g, b]) => b.style.setProperty("--c", g === "The Bible" ? colour[BIBLE] : colour[streams.find(s => s.group === g).name]));
+  }
+
+  // ---- Rows: eras, dynasties, reigns and lives, then events, packed by overlap of years.
+  const ROW = 20, GAP = 4, EROW = 18, HEAD = 22, BAND_GAP = 10;
+  const layout = new Map();
+  for (const s of streams) {
+    const its = byStream.get(s.name) || [];
+    const rows = [];
+    const tiers = [its.filter(d => d.k === "pe"), its.filter(d => d.k === "pd"), its.filter(d => d.k === "r" || d.k === "f")];
+    for (const tier of tiers) {
+      const lanes = [];
+      for (const d of [...tier].sort((a, b) => a.a - b.a || b.z - a.z)) {
+        let k = lanes.findIndex(end => end < d.a);
+        if (k < 0) { k = lanes.length; lanes.push(-Infinity); }
+        lanes[k] = d.z;
+        d.row = rows.length + k;
+      }
+      lanes.forEach(() => rows.push("bar"));
+    }
+    const evs = its.filter(d => d.k === "e").sort((a, b) => a.a - b.a);
+    const nEv = evs.length ? Math.min(3, Math.max(1, Math.ceil(evs.length / 12))) : 0;
+    evs.forEach((d, k) => { d.row = rows.length + (k % nEv); });
+    for (let k = 0; k < nEv; k++) rows.push("event");
+    layout.set(s.name, rows);
+  }
+
+  // ---- State
+  const groupOn = new Map(groups.map(g => [g, true]));
+  let domain = RANGES[0][1].slice();
+  let selected = null;
+  const chart = d3.select("#chart"), axis = d3.select("#axis"), overview = d3.select("#overview");
+  const gGrid = chart.append("g").attr("class", "grid"), gBands = chart.append("g"), gMarks = chart.append("g"), gAnchor = chart.append("g");
+  let W = 0, x0 = d3.scaleLinear().domain(FULL), x = x0.copy();
+  const canvas = document.createElement("canvas").getContext("2d");
+  const textW = (s, size = 11, weight = 500) => { canvas.font = `${weight} ${size}px "Libre Franklin", system-ui, sans-serif`; return canvas.measureText(s).width; };
+
+  // ---- Zoom, kept in terms of the full domain.
+  const zoom = d3.zoom().scaleExtent([1, 900])
+    .filter(e => (e.type === "wheel" ? e.ctrlKey : !e.button) && (e.type !== "touchstart" || e.touches.length > 1))
+    .on("zoom", e => { x = e.transform.rescaleX(x0); domain = x.domain(); draw(); syncBrush(); if (e.sourceEvent) scheduleChronicle(); });
+  chart.call(zoom).on("dblclick.zoom", null);
+  chart.on("wheel.pan", e => {
+    if (e.ctrlKey || Math.abs(e.deltaX) <= Math.abs(e.deltaY)) return;
+    e.preventDefault();
+    chart.call(zoom.translateBy, -e.deltaX / d3.zoomTransform(chart.node()).k, 0);
+  }, { passive: false });
+  function setDomain(dm, animate) {
+    const [a, b] = [Math.max(FULL[0], dm[0]), Math.min(FULL[1], dm[1])];
+    const k = (x0(FULL[1]) - x0(FULL[0])) / (x0(b) - x0(a));
+    const t = d3.zoomIdentity.scale(k).translate(-x0(a), 0);
+    (animate && !reduced ? chart.transition().duration(550) : chart).call(zoom.transform, t);
+    scheduleChronicle();
+  }
+
+  // ---- Axis ticks at round calendar years.
+  function ticks(scale, minPx) {
+    const [a, b] = scale.domain();
+    const span = b - a;
+    const steps = [1, 2, 5, 10, 20, 25, 50, 100, 200, 250, 500, 1000];
+    const step = steps.find(s => (s * W) / span >= minPx) || 1000;
+    const out = [];
+    const startCal = Math.floor(a / step) * step;
+    for (let c = startCal; c <= b + step; c += step) {
+      // c is a "calendar number" on a line with no year 0: negatives are BC.
+      const astro = c <= 0 ? c + 1 : c;
+      if (astro < a || astro > b) continue;
+      if (c === 0) { out.push({ y: 1, label: "AD 1" }); continue; }
+      out.push({ y: astro, label: c < 0 ? `${-c} BC` : ylShort(c) });
+    }
+    return { out, step };
+  }
+
+  // ---- Drawing
+  const inView = d => d.z >= domain[0] - 1 && d.a <= domain[1] + 1;
+  function draw() {
+    const vis = streams.filter(s => groupOn.get(s.group) && (byStream.get(s.name) || []).some(inView));
+    let y = 6;
+    const bandAt = new Map();
+    let lastGroup = null;
+    const bands = [];
+    for (const s of vis) {
+      if (s.group !== lastGroup && s.group !== "The Bible") { bands.push({ group: s.group, y }); y += 18; }
+      lastGroup = s.group;
+      // Only the rows that hold something in view, so a band never shows empty lanes.
+      const rows = layout.get(s.name);
+      const used = [...new Set(byStream.get(s.name).filter(inView).map(d => d.row))].sort((a, b) => a - b);
+      const rowY = new Map();
+      let ry = y + HEAD;
+      used.forEach(r => { rowY.set(r, ry); ry += (rows[r] === "bar" ? ROW : EROW) + GAP; });
+      bandAt.set(s.name, { y, rowY, h: ry - y });
+      bands.push({ stream: s.name, y, h: ry - y });
+      y = ry + BAND_GAP;
+    }
+    const H = Math.max(160, y + 8);
+    chart.attr("height", H).attr("viewBox", `0 0 ${W} ${H}`);
+
+    // grid
+    const { out: tk, step } = ticks(x, 70);
+    gGrid.selectAll("line").data(tk, d => d.y).join("line")
+      .attr("class", d => ((d.y <= 0 ? 1 - d.y : d.y) % (step * 5) === 0 ? "major" : null))
+      .attr("x1", d => x(d.y)).attr("x2", d => x(d.y)).attr("y1", 0).attr("y2", H);
+    axis.attr("viewBox", `0 0 ${W} 34`);
+    axis.selectAll("text.t").data(tk, d => d.y).join("text").attr("class", "t")
+      .attr("x", d => Math.min(W - 4, Math.max(4, x(d.y))))
+      .attr("text-anchor", d => (x(d.y) < 28 ? "start" : x(d.y) > W - 28 ? "end" : "middle"))
+      .attr("y", 21).text(d => d.label);
+
+    // bands and labels
+    gBands.selectAll("g.band").data(bands, d => d.stream || `g:${d.group}`).join(enter => {
+      const g = enter.append("g").attr("class", "band");
+      g.filter(d => d.stream).append("rect").attr("class", "band-bg");
+      g.append("text");
+      return g;
+    }).each(function (d) {
+      const g = d3.select(this);
+      if (d.stream) {
+        g.select("rect").attr("x", 0).attr("width", W).attr("y", d.y).attr("height", d.h).attr("fill", colour[d.stream]);
+        g.select("text").attr("class", "band-label").attr("x", 10).attr("y", d.y + 15).attr("fill", colour[d.stream]).text(d.stream);
+      } else {
+        g.select("text").attr("class", "group-label").attr("x", 10).attr("y", d.y + 11).text(d.group);
+      }
+    });
+
+    // marks
+    const [d0, d1] = domain;
+    const shown = items.filter(d => bandAt.has(d.s) && d.z >= d0 - 1 && d.a <= d1 + 1);
+    const lastLabel = new Map();
+    const marks = gMarks.selectAll("g.mark").data(shown, d => d.id).join(enter => {
+      const g = enter.append("g").attr("class", "mark")
+        .on("click", (e, d) => openDetail(d))
+        .on("pointerenter", (e, d) => showTip(e, d)).on("pointermove", (e, d) => moveTip(e)).on("pointerleave", hideTip);
+      g.each(function (d) {
+        const n = d3.select(this);
+        if (d.k === "e") n.append("path"); else n.append("rect");
+        n.append("text");
+      });
+      return g;
+    });
+    marks.classed("sel", d => selected && d.id === selected.id);
+    marks.each(function (d) {
+      const n = d3.select(this);
+      const band = bandAt.get(d.s);
+      const ry = band.rowY.get(d.row);
+      const c = colour[d.s];
+      const label = n.select("text");
+      if (d.k === "e") {
+        const cx = x(d.a), cy = ry + EROW / 2;
+        n.select("path").attr("d", `M${cx},${cy - 6}L${cx + 6},${cy}L${cx},${cy + 6}L${cx - 6},${cy}Z`)
+          .attr("fill", c).attr("fill-opacity", d.c ? 0.55 : 1).attr("stroke", c).attr("stroke-width", 1);
+        const tw = textW(d.n);
+        const key = `${d.s}:${d.row}`;
+        const free = (lastLabel.get(key) ?? -Infinity) < cx - 6;
+        const nextIn = shown.find(o => o !== d && o.s === d.s && o.row === d.row && o.a > d.a);
+        const room = nextIn ? x(nextIn.a) - cx - 14 : W - cx;
+        if (free && room > tw + 10 && cx > -20 && cx < W) {
+          label.attr("x", cx + 10).attr("y", cy + 4).attr("fill", c).text(d.n).attr("display", null);
+          lastLabel.set(key, cx + 10 + tw);
+        } else label.attr("display", "none");
+      } else {
+        const xa = Math.max(-4, x(d.a)), xb = Math.min(W + 4, x(d.z));
+        const w = Math.max(3, xb - xa);
+        const op = d.k === "pe" ? 0.2 : d.k === "pd" ? 0.42 : 0.92;
+        n.select("rect").attr("x", xa).attr("y", ry).attr("width", w).attr("height", ROW).attr("rx", 4)
+          .attr("fill", c).attr("fill-opacity", op).attr("stroke", c).attr("stroke-opacity", d.c ? 0.9 : 0.5)
+          .attr("stroke-dasharray", d.c ? "3 2" : null);
+        const tw = textW(d.n);
+        const solid = d.k === "r" || d.k === "f";
+        if (w > tw + 12) {
+          const lx = Math.max(xa, 0) + 6;
+          label.attr("x", Math.min(lx, xb - tw - 6)).attr("y", ry + 14)
+            .attr("fill", solid ? (dark() ? "#0a0f1d" : "#ffffff") : getComputedStyle(document.documentElement).getPropertyValue("--ink"))
+            .text(d.n).attr("display", null);
+        } else label.attr("display", "none");
+      }
+    });
+
+    // anchors: the cross and today
+    const anchors = [{ y: 30, label: "Death and resurrection of Jesus, c. AD 30", cls: "anchor" }, { y: PRESENT, label: "Today", cls: "now" }]
+      .filter(a => a.y >= d0 && a.y <= d1);
+    gAnchor.selectAll("g").data(anchors, a => a.cls).join(enter => { const g = enter.append("g"); g.append("line"); g.append("text"); return g; })
+      .attr("class", a => a.cls)
+      .each(function (a) {
+        const g = d3.select(this), ax = x(a.y);
+        g.select("line").attr("x1", ax).attr("x2", ax).attr("y1", 0).attr("y2", H);
+        const right = ax + textW(a.label, 11, 600) + 12 < W;
+        g.select("text").attr("x", right ? ax + 6 : ax - 6).attr("y", H - 8).attr("text-anchor", right ? "start" : "end").text(a.label);
+      });
+    axis.selectAll("text.range").data([0]).join("text").attr("class", "range").attr("x", W - 8).attr("y", 21).attr("text-anchor", "end")
+      .text(() => "").attr("display", "none");
+  }
+
+  // ---- Context strip with a window (focus and context).
+  const OH = 64;
+  const centuries = d3.rollup(items.filter(d => d.s !== BIBLE), v => v.length, d => Math.floor(d.a / 100));
+  const brush = d3.brushX().handleSize(10).on("brush end", e => {
+    if (!e.sourceEvent || !e.selection) return;
+    const [a, b] = e.selection.map(xo.invert);
+    setDomain([a, b], false);
+  });
+  let xo = d3.scaleLinear().domain(FULL);
+  const gDensity = overview.append("g"), gOAxis = overview.append("g").attr("class", "tick-g"), gBrush = overview.append("g").attr("class", "brush");
+  function drawOverview() {
+    xo.range([0, W]);
+    overview.attr("viewBox", `0 0 ${W} ${OH}`);
+    const maxC = Math.max(...centuries.values());
+    const bars = [...centuries].map(([c, n]) => ({ c, n }));
+    gDensity.selectAll("rect").data(bars, d => d.c).join("rect").attr("class", "density")
+      .attr("x", d => xo(d.c * 100)).attr("width", d => Math.max(1, xo(d.c * 100 + 100) - xo(d.c * 100) - 1))
+      .attr("y", d => 40 - 32 * Math.sqrt(d.n / maxC)).attr("height", d => 32 * Math.sqrt(d.n / maxC)).attr("rx", 1);
+    const labels = (W < 600 ? [-3000, -1000, 1, 2000] : [-3000, -2000, -1000, 1, 1000, 2000]).map(y => ({ y, t: y === 1 ? "AD 1" : y < 0 ? `${-y} BC` : `${y}` }));
+    gOAxis.selectAll("g").data(labels, d => d.y).join(enter => { const g = enter.append("g").attr("class", "tick"); g.append("line"); g.append("text"); return g; })
+      .each(function (d) {
+        const g = d3.select(this), px = xo(d.y);
+        g.select("line").attr("x1", px).attr("x2", px).attr("y1", 42).attr("y2", 47);
+        g.select("text").attr("x", px).attr("y", 59).attr("text-anchor", d.y === -3000 ? "start" : d.y === 2000 ? "end" : "middle").text(d.t);
+      });
+    overview.selectAll("line.anchor").data([30]).join("line").attr("class", "anchor").attr("x1", xo(30)).attr("x2", xo(30)).attr("y1", 2).attr("y2", 42);
+    brush.extent([[0, 0], [W, 44]]);
+    gBrush.call(brush);
+    syncBrush();
+  }
+  let syncing = false;
+  function syncBrush() {
+    if (syncing) return;
+    syncing = true;
+    gBrush.call(brush.move, [xo(domain[0]), xo(domain[1])]);
+    syncing = false;
+  }
+
+  // ---- Tooltip and details
+  const tip = document.getElementById("tip");
+  const when = d => {
+    const c = d.c ? "c. " : "";
+    if (d.k === "e" || d.a === d.z) return `${c}${yl(d.a)}`;
+    return `${c}${yl(d.a)} – ${d.now ? "present" : yl(d.z)}`;
+  };
+  function showTip(e, d) {
+    if (e.pointerType === "touch") return;
+    tip.replaceChildren(el("b", { text: d.n }), `${when(d)} · ${d.s}`);
+    tip.hidden = false; moveTip(e);
+  }
+  function moveTip(e) {
+    const pad = 14, r = tip.getBoundingClientRect();
+    let left = e.clientX + pad, top = e.clientY + pad;
+    if (left + r.width > innerWidth - 8) left = e.clientX - r.width - pad;
+    if (top + r.height > innerHeight - 8) top = e.clientY - r.height - pad;
+    tip.style.left = `${left}px`; tip.style.top = `${top}px`;
+  }
+  function hideTip() { tip.hidden = true; }
+  const detail = document.getElementById("detail");
+  function openDetail(d) {
+    selected = d; hideTip();
+    const kind = d.sync ? "Synchronism" : KIND[d.k];
+    const parts = [
+      el("button", { class: "close", type: "button", "aria-label": "Close", onclick: closeDetail, text: "×" }),
+      el("div", { class: "kind", "data-stream-colour": d.s }, el("i"), `${kind} · ${d.s}`),
+      el("h2", { text: d.n }),
+      el("div", { class: "when", text: when(d) }),
+    ];
+    if (d.sync) {
+      const diff = d.sync.us != null ? d.sync.us - d.sync.m : null;
+      parts.push(el("p", { text: d.sync.ev }));
+      parts.push(el("p", { class: "meta", text: `${d.sync.ref}. Ussher dates it ${d.sync.us != null ? yl(d.sync.us) : "—"}${diff ? `, ${Math.abs(diff)} years ${diff < 0 ? "earlier" : "later"}` : ""}.` }));
+    } else if (d.note) parts.push(el("p", { text: d.note }));
+    if (d.bible) parts.push(el("p", { class: "meta", text: `In the Bible: ${d.bible}, first named at ${d.ref}.` }));
+    if (d.wd) parts.push(el("p", { class: "meta" }, el("a", { href: `https://www.wikidata.org/wiki/${d.wd}`, target: "_blank", rel: "noopener", text: `Wikidata ${d.wd}` })));
+    detail.replaceChildren(...parts);
+    detail.style.setProperty("--c", colour[d.s]);
+    detail.querySelector(".kind").style.setProperty("--c", colour[d.s]);
+    detail.hidden = false;
+    draw();
+  }
+  function closeDetail() { detail.hidden = true; selected = null; draw(); }
+  document.addEventListener("keydown", e => { if (e.key === "Escape" && !detail.hidden) closeDetail(); });
+
+  // ---- Chronicle of what is in view
+  const chron = document.getElementById("chronicle"), chronSub = document.getElementById("chron-sub");
+  let chronTimer = null;
+  function scheduleChronicle() { clearTimeout(chronTimer); chronTimer = setTimeout(renderChronicle, 180); }
+  const centuryName = c => {
+    const n = c < 0 ? -c : c;
+    const sfx = n % 100 >= 11 && n % 100 <= 13 ? "th" : { 1: "st", 2: "nd", 3: "rd" }[n % 10] || "th";
+    return `${n}${sfx} century ${c < 0 ? "BC" : "AD"}`;
+  };
+  const centuryOf = y => (y <= 0 ? -(Math.floor(-y / 100) + 1) : Math.floor((y - 1) / 100) + 1);
+  function renderChronicle() {
+    const [a, b] = domain;
+    const list = items.filter(d => groupOn.get(streams.find(s => s.name === d.s).group) && d.a >= a && d.a <= b)
+      .sort((p, q) => p.a - q.a || (p.k === "e") - (q.k === "e") || p.n.localeCompare(q.n));
+    const LIMIT = 600;
+    const byC = d3.group(list.slice(0, LIMIT), d => centuryOf(d.a));
+    chron.replaceChildren(...[...byC].map(([c, ds]) => el("div", { class: "century" },
+      el("h3", { text: centuryName(c) }),
+      el("ol", {}, ds.map(d => el("li", {}, el("button", { type: "button", onclick: () => { openDetail(d); } },
+        el("span", { class: "yr", text: `${d.c ? "c. " : ""}${span(d)}` }),
+        el("span", { class: "nm", text: d.n }),
+        el("span", { class: "st", "data-stream-colour": d.s }, el("i"), `${KIND[d.k]} · ${d.s}`))))))));
+    chronSub.textContent = `${fmt.format(list.length)} entries that begin between ${yl(Math.round(a))} and ${yl(Math.min(Math.round(b), PRESENT))}, in order.` +
+      (list.length > LIMIT ? ` The first ${LIMIT} are listed; zoom in to see the rest.` : "");
+    setColours();
+  }
+
+  // ---- Controls
+  const ranges = document.getElementById("ranges");
+  const rangeButtons = RANGES.map(([label, dm], k) => {
+    const b = el("button", { type: "button", "aria-pressed": k === 0 ? "true" : "false", text: label,
+      onclick: () => { rangeButtons.forEach(o => o.setAttribute("aria-pressed", "false")); b.setAttribute("aria-pressed", "true"); setDomain(dm, true); } });
+    ranges.append(b);
+    return b;
+  });
+  chart.on("pointerdown.range", () => rangeButtons.forEach(o => o.setAttribute("aria-pressed", "false")));
+  const groupBox = document.getElementById("groups");
+  const groupChips = groups.map(g => {
+    const b = el("button", { type: "button", class: "chip", "aria-pressed": "true", onclick: () => {
+      groupOn.set(g, !groupOn.get(g)); b.setAttribute("aria-pressed", groupOn.get(g) ? "true" : "false"); draw(); renderChronicle(); } },
+      el("i"), g);
+    groupBox.append(b);
+    return [g, b];
+  });
+  const shift = f => { const span = domain[1] - domain[0]; setDomain([domain[0] + f * span, domain[1] + f * span], true); };
+  document.getElementById("earlier").onclick = () => shift(-0.35);
+  document.getElementById("later").onclick = () => shift(0.35);
+  const zoomBy = f => { const mid = (domain[0] + domain[1]) / 2, half = (domain[1] - domain[0]) / 2 / f; setDomain([mid - half, mid + half], true); };
+  document.getElementById("zoom-in").onclick = () => zoomBy(1.6);
+  document.getElementById("zoom-out").onclick = () => zoomBy(1 / 1.6);
+
+  // ---- Size and theme
+  function resize() {
+    const w = document.getElementById("chart").clientWidth;
+    if (!w || w === W) return;
+    W = w;
+    x0 = d3.scaleLinear().domain(FULL).range([0, W]);
+    zoom.extent([[0, 0], [W, 1]]).translateExtent([[0, 0], [W, 1]]);
+    drawOverview();
+    setDomain(domain, false);
+  }
+  new ResizeObserver(resize).observe(document.getElementById("chart"));
+  const themeChanged = () => { setColours(); draw(); };
+  matchMedia("(prefers-color-scheme: dark)").addEventListener("change", themeChanged);
+  new MutationObserver(themeChanged).observe(document.documentElement, { attributes: true, attributeFilter: ["data-theme"] });
+
+  setColours();
+  resize();
+  renderChronicle();
+  (document.fonts?.ready || Promise.resolve()).then(() => draw());
+})();
+</script>
+
+</body>
+</html>

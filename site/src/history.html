@@ -1,0 +1,638 @@
+<title>Streams of Time</title>
+<meta name="claude:viewport-fit-sides" content="cover">
+<meta name="description" content="World history from the death and resurrection of Jesus to today, drawn as parallel streams in the manner of Adams' Synchronological Chart.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Frank+Ruhl+Libre:wght@300..900&family=Libre+Franklin:wght@400;500;600;700&family=IBM+Plex+Mono:wght@400;500&display=swap">
+<style>
+/* Layout: masthead and controls, a context strip of all of history with a window, the
+   stream chart beneath a sticky year axis, then a chronicle of everything in view. */
+:root {
+  --bg: #f3f5f8;
+  --surface: #ffffff;
+  --ink: #121926;
+  --muted: #586274;
+  --faint: #8d96a6;
+  --line: #dce1e9;
+  --grid: #e8ebf1;
+  --accent: #2646a1;
+  --accent-soft: #e5eaf7;
+  --gold: #946b0c;
+  --gold-soft: #f5ecd4;
+  --shadow: 0 1px 2px rgb(18 25 38 / 6%), 0 10px 28px rgb(18 25 38 / 8%);
+  --display: "Frank Ruhl Libre", Georgia, serif;
+  --sans: "Libre Franklin", system-ui, -apple-system, "Segoe UI", sans-serif;
+  --mono: "IBM Plex Mono", ui-monospace, "SFMono-Regular", Menlo, monospace;
+  --step--1: clamp(0.8rem, 0.78rem + 0.1vw, 0.86rem);
+  --step-0: clamp(0.95rem, 0.92rem + 0.15vw, 1.03rem);
+  --step-1: clamp(1.15rem, 1.08rem + 0.35vw, 1.35rem);
+  --step-2: clamp(1.45rem, 1.3rem + 0.75vw, 1.95rem);
+  --step-4: clamp(2.6rem, 1.9rem + 3.6vw, 5.4rem);
+}
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    --bg: #0a0f1d; --surface: #111a2d; --ink: #e8ecf4; --muted: #a2acbf; --faint: #6e7990; --line: #24304a; --grid: #172036;
+    --accent: #93acff; --accent-soft: #1b2650; --gold: #e7bf57; --gold-soft: #2b2513;
+    --shadow: 0 1px 2px rgb(0 0 0 / 30%), 0 12px 32px rgb(0 0 0 / 40%);
+    color-scheme: dark;
+  }
+}
+:root[data-theme="dark"] {
+  --bg: #0a0f1d; --surface: #111a2d; --ink: #e8ecf4; --muted: #a2acbf; --faint: #6e7990; --line: #24304a; --grid: #172036;
+  --accent: #93acff; --accent-soft: #1b2650; --gold: #e7bf57; --gold-soft: #2b2513;
+  --shadow: 0 1px 2px rgb(0 0 0 / 30%), 0 12px 32px rgb(0 0 0 / 40%);
+  color-scheme: dark;
+}
+* { box-sizing: border-box; }
+[hidden] { display: none !important; }
+html { -webkit-text-size-adjust: 100%; }
+body {
+  margin: 0; background: var(--bg); color: var(--ink); font: 400 var(--step-0)/1.55 var(--sans);
+  padding-left: max(16px, env(safe-area-inset-left, 0px));
+  padding-right: max(16px, env(safe-area-inset-right, 0px));
+}
+body::before { content: ""; position: fixed; inset: 0 0 auto; height: env(safe-area-inset-top, 0px); z-index: 10; background: var(--bg); }
+.wrap { max-width: 1440px; margin-inline: auto; }
+a { color: var(--accent); }
+:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; border-radius: 4px; }
+h1, h2, h3 { font-family: var(--display); font-weight: 500; text-wrap: balance; margin: 0; }
+.eyebrow { font: 600 var(--step--1)/1.2 var(--sans); letter-spacing: 0.12em; text-transform: uppercase; color: var(--muted); margin: 0; }
+
+.masthead { padding-block: clamp(32px, 6vw, 72px) 20px; }
+.masthead .wrap { display: grid; gap: 16px; }
+h1 { font-size: var(--step-4); font-weight: 300; line-height: 0.95; letter-spacing: -0.02em; }
+.lede { max-width: 66ch; font-size: var(--step-1); line-height: 1.5; color: var(--muted); margin: 0; }
+.lede b { color: var(--ink); font-weight: 600; }
+
+/* Controls */
+.controls { display: flex; flex-wrap: wrap; gap: 12px 24px; align-items: center; padding-block: 14px; border-top: 1px solid var(--line); }
+.seg { display: inline-flex; flex-wrap: wrap; gap: 4px; padding: 4px; border-radius: 10px; background: var(--surface); border: 1px solid var(--line); }
+.seg button, .chip, .tool {
+  all: unset; cursor: pointer; font: 500 var(--step--1)/1.2 var(--sans); color: var(--ink); border-radius: 7px; padding: 7px 11px;
+}
+.seg button[aria-pressed="true"] { background: var(--accent); color: var(--surface); }
+.seg button:hover:not([aria-pressed="true"]) { background: var(--accent-soft); }
+.seg button:focus-visible, .chip:focus-visible, .tool:focus-visible { outline: 2px solid var(--accent); }
+.chips { display: flex; flex-wrap: wrap; gap: 6px; }
+.chip { display: inline-flex; align-items: center; gap: 7px; border: 1px solid var(--line); background: var(--surface); border-radius: 999px; padding: 6px 11px; }
+.chip i { width: 9px; height: 9px; border-radius: 50%; background: var(--c); }
+.chip[aria-pressed="false"] { color: var(--faint); background: transparent; }
+.chip[aria-pressed="false"] i { background: transparent; box-shadow: inset 0 0 0 1.5px var(--faint); }
+.tools { display: inline-flex; gap: 4px; margin-inline-start: auto; }
+.tool { border: 1px solid var(--line); background: var(--surface); width: 34px; height: 34px; padding: 0; display: grid; place-items: center; font-size: 1rem; }
+.tool:hover { background: var(--accent-soft); }
+.hint { width: 100%; margin: 0; font-size: var(--step--1); color: var(--muted); }
+
+/* Context strip */
+.overview-wrap { margin-top: 4px; }
+#overview { display: block; width: 100%; height: 64px; }
+#overview .density { fill: var(--faint); opacity: 0.45; }
+#overview .tick text { fill: var(--muted); font: 500 10px var(--mono); }
+#overview .tick line { stroke: var(--line); }
+#overview .anchor { stroke: var(--gold); stroke-width: 1.5; }
+#overview .selection { fill: var(--accent); fill-opacity: 0.14; stroke: var(--accent); stroke-width: 1.5; rx: 4px; }
+#overview .handle { fill: var(--accent); }
+
+/* Chart */
+.chart-card { margin-top: 12px; background: var(--surface); border: 1px solid var(--line); border-radius: 14px; box-shadow: var(--shadow); }
+.axis-wrap { position: sticky; top: env(safe-area-inset-top, 0px); z-index: 4; background: var(--surface); border-bottom: 1px solid var(--line); border-radius: 14px 14px 0 0; }
+#axis { display: block; width: 100%; height: 34px; }
+#axis text { fill: var(--muted); font: 500 11px var(--mono); font-variant-numeric: tabular-nums; }
+#axis .range { fill: var(--ink); font: 600 11px var(--sans); }
+#chart { display: block; width: 100%; touch-action: pan-y; cursor: grab; }
+#chart:active { cursor: grabbing; }
+#chart .grid line { stroke: var(--grid); }
+#chart .grid line.major { stroke: var(--line); }
+#chart .band-label { font: 600 11px var(--sans); letter-spacing: 0.06em; text-transform: uppercase; }
+#chart .band-bg { opacity: 0.045; }
+#chart .group-label { fill: var(--muted); font: 600 10px var(--sans); letter-spacing: 0.14em; text-transform: uppercase; }
+#chart .mark { cursor: pointer; }
+#chart .mark text { font: 500 11px var(--sans); pointer-events: none; }
+#chart .mark.sel rect, #chart .mark.sel path { stroke: var(--ink); stroke-width: 2; stroke-dasharray: none; }
+#chart .anchor line { stroke: var(--gold); stroke-width: 1.5; }
+#chart .anchor text { fill: var(--gold); font: 600 11px var(--sans); }
+#chart .now line { stroke: var(--accent); stroke-width: 1.5; stroke-dasharray: 4 3; }
+#chart .now text { fill: var(--accent); font: 600 11px var(--sans); }
+.chart-foot { display: flex; flex-wrap: wrap; gap: 6px 18px; padding: 10px 14px; border-top: 1px solid var(--line); font-size: var(--step--1); color: var(--muted); }
+.key { display: inline-flex; align-items: center; gap: 6px; }
+.key svg { width: 26px; height: 12px; }
+
+.tip {
+  position: fixed; z-index: 20; pointer-events: none; max-width: 300px; padding: 8px 10px; border-radius: 8px;
+  background: var(--ink); color: var(--bg); font-size: var(--step--1); line-height: 1.35; box-shadow: var(--shadow);
+}
+.tip b { display: block; font-weight: 600; }
+
+/* Detail */
+.detail {
+  position: fixed; z-index: 30; right: max(16px, env(safe-area-inset-right, 0px)); bottom: max(16px, env(safe-area-inset-bottom, 0px));
+  width: min(380px, calc(100vw - 32px)); max-height: min(70vh, 520px); overflow-y: auto;
+  background: var(--surface); border: 1px solid var(--line); border-radius: 14px; box-shadow: var(--shadow); padding: 18px 18px 16px;
+  display: grid; gap: 10px;
+}
+.detail .kind { display: flex; align-items: center; gap: 8px; font: 600 var(--step--1)/1.2 var(--sans); letter-spacing: 0.08em; text-transform: uppercase; color: var(--muted); }
+.detail .kind i { width: 10px; height: 10px; border-radius: 50%; background: var(--c); }
+.detail h2 { font-size: var(--step-2); line-height: 1.1; padding-right: 32px; }
+.detail .when { font: 500 var(--step-0)/1.3 var(--mono); font-variant-numeric: tabular-nums; }
+.detail p { margin: 0; }
+.detail .close { all: unset; cursor: pointer; position: absolute; top: 12px; right: 12px; width: 32px; height: 32px; display: grid; place-items: center; border-radius: 8px; font-size: 1.2rem; color: var(--muted); }
+.detail .close:hover { background: var(--accent-soft); }
+.detail .close:focus-visible { outline: 2px solid var(--accent); }
+.detail .meta { font-size: var(--step--1); color: var(--muted); }
+
+/* Chronicle */
+section { padding-block: clamp(28px, 5vw, 56px); }
+.section-head { display: grid; gap: 8px; margin-bottom: 18px; max-width: 72ch; }
+.section-head h2 { font-size: var(--step-2); }
+.section-head p { margin: 0; color: var(--muted); }
+.chronicle { display: grid; gap: 22px; }
+.century h3 { font-size: var(--step-1); font-weight: 500; padding-bottom: 6px; border-bottom: 1px solid var(--line); margin-bottom: 4px; }
+.century ol { list-style: none; margin: 0; padding: 0; columns: 2 380px; column-gap: 32px; }
+.century li { break-inside: avoid; }
+.century button {
+  all: unset; cursor: pointer; box-sizing: border-box; width: 100%; display: grid; grid-template-columns: 112px minmax(0, 1fr); gap: 2px 12px;
+  padding: 7px 6px; border-radius: 8px;
+}
+.century button:hover { background: var(--accent-soft); }
+.century button:focus-visible { outline: 2px solid var(--accent); }
+.century .yr { font: 500 var(--step--1)/1.5 var(--mono); color: var(--muted); font-variant-numeric: tabular-nums; }
+.century .nm { font-weight: 500; }
+.century .st { grid-column: 2; display: inline-flex; align-items: center; gap: 6px; font-size: var(--step--1); color: var(--muted); }
+.century .st i { width: 8px; height: 8px; border-radius: 50%; background: var(--c); flex: none; }
+.more-note { color: var(--muted); font-size: var(--step--1); }
+
+footer { border-top: 1px solid var(--line); padding-block: 28px 48px; color: var(--muted); font-size: var(--step--1); }
+footer .wrap { display: grid; gap: 8px; max-width: 86ch; margin-inline: 0; }
+footer p { margin: 0; }
+@media (max-width: 640px) {
+  .tools { margin-inline-start: 0; }
+  .century button { grid-template-columns: 96px minmax(0, 1fr); }
+}
+</style>
+
+<header class="masthead">
+  <div class="wrap">
+    <p class="eyebrow">Open Bible · World history</p>
+    <h1>Streams of Time</h1>
+    <p class="lede">History from the <b>death and resurrection of Jesus, about AD 30,</b> to today: the empires, churches, scriptures and thinkers of every continent, side by side. After Sebastian Adams’ <i>Synchronological Chart</i> of 1871, with modern dates throughout.</p>
+  </div>
+</header>
+
+<main>
+  <div class="wrap">
+    <div class="controls" role="group" aria-label="Chart controls">
+      <div class="seg" id="ranges" role="group" aria-label="Years shown"></div>
+      <div class="chips" id="groups" role="group" aria-label="Streams shown"></div>
+      <div class="tools">
+        <button class="tool" id="earlier" type="button" aria-label="Earlier">‹</button>
+        <button class="tool" id="zoom-out" type="button" aria-label="Zoom out">−</button>
+        <button class="tool" id="zoom-in" type="button" aria-label="Zoom in">+</button>
+        <button class="tool" id="later" type="button" aria-label="Later">›</button>
+      </div>
+      <p class="hint" id="hint">Drag the chart or the window in the strip below to move through time. Pinch, or hold Ctrl and scroll, to zoom.</p>
+    </div>
+    <div class="overview-wrap"><svg id="overview" role="img" aria-label="All of history, with the years shown highlighted"></svg></div>
+    <div class="chart-card">
+      <div class="axis-wrap"><svg id="axis" aria-hidden="true"></svg></div>
+      <svg id="chart" role="img" aria-label="World-history streams; the chronicle below lists everything shown"></svg>
+      <div class="chart-foot" aria-hidden="true">
+        <span class="key"><svg viewBox="0 0 26 12"><rect x="1" y="2" width="24" height="8" rx="2" fill="var(--faint)" opacity=".25"/></svg>Era</span>
+        <span class="key"><svg viewBox="0 0 26 12"><rect x="1" y="2" width="24" height="8" rx="2" fill="var(--faint)" opacity=".5"/></svg>Dynasty or movement</span>
+        <span class="key"><svg viewBox="0 0 26 12"><rect x="1" y="2" width="24" height="8" rx="2" fill="var(--faint)"/></svg>Reign or life</span>
+        <span class="key"><svg viewBox="0 0 26 12"><path d="M13 1 18 6 13 11 8 6Z" fill="var(--faint)"/></svg>Event</span>
+        <span class="key"><svg viewBox="0 0 26 12"><rect x="1" y="2" width="24" height="8" rx="2" fill="none" stroke="var(--faint)" stroke-dasharray="3 2"/></svg>Approximate dates</span>
+      </div>
+    </div>
+  </div>
+
+  <section aria-labelledby="chron-h">
+    <div class="wrap">
+      <div class="section-head">
+        <h2 id="chron-h">Chronicle</h2>
+        <p id="chron-sub">Everything in the years shown above, in order.</p>
+      </div>
+      <div class="chronicle" id="chronicle"></div>
+    </div>
+  </section>
+</main>
+
+<aside class="detail" id="detail" hidden aria-live="polite"></aside>
+<div class="tip" id="tip" hidden></div>
+
+<footer>
+  <div class="wrap">
+    <p><b>Sources and method.</b> The rows are curated in this project’s <code>data/</code> tables (periods, rulers, events and lives), using the conventional dates of standard references, with Wikidata identifiers wherever an item’s English label matched exactly. Ancient and early medieval dates are often approximate and are marked so.</p>
+    <p>The Bible lane shows events the Bible narrates that outside evidence dates: modern dates, with Ussher’s date in each item’s details. The chart follows the plan of Sebastian C. Adams’ <i>Synchronological Chart, or Map of History</i> (1871). Built from the project’s data by <code>scripts/connections.py</code>.</p>
+  </div>
+</footer>
+
+<!-- DATA -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/d3/7.8.5/d3.min.js"></script>
+<script>
+(() => {
+  const D = JSON.parse(document.getElementById("data").textContent);
+  const PRESENT = D.present;
+  const FULL = [-3200, PRESENT + 8];
+  const RANGES = [["AD 30 – today", [18, PRESENT + 8]], ["Since 1500", [1480, PRESENT + 6]],
+                  ["Antiquity", [-3150, 70]], ["All of history", FULL]];
+  const GROUP_HUE = { "Bible lands": 32, "Faith and scripture": 224, "Mediterranean and Europe": 352, "Asia": 158,
+                      "Africa and the Americas": 278, "The wider world": 200 };
+  const KIND = { pe: "Era", pd: "Dynasty or movement", r: "Reign", f: "Life", e: "Event" };
+  const fmt = new Intl.NumberFormat("en");
+  const yl = y => (y <= 0 ? `${1 - y} BC` : `AD ${y}`);
+  const ylShort = y => (y <= 0 ? `${1 - y} BC` : y < 1000 ? `AD ${y}` : `${y}`);
+  // "117–138" within the AD era, "27 BC–AD 68" across it, "1949–now" for what continues.
+  const span = d => {
+    if (d.k === "e" || d.a === d.z) return ylShort(d.a);
+    const end = d.now ? "now" : d.z <= 0 ? `${1 - d.z} BC` : `${d.z}`;
+    if (d.a > 0) return `${d.a < 1000 ? "AD " : ""}${d.a}–${end}`;
+    if (d.z <= 0) return `${1 - d.a}–${1 - d.z} BC`;
+    return `${1 - d.a} BC–${d.now ? "now" : `AD ${d.z}`}`;
+  };
+  const el = (tag, attrs = {}, ...kids) => {
+    const n = document.createElement(tag);
+    for (const [k, v] of Object.entries(attrs)) {
+      if (v == null || v === false) continue;
+      if (k === "class") n.className = v; else if (k === "text") n.textContent = v;
+      else if (k.startsWith("on")) n.addEventListener(k.slice(2), v); else n.setAttribute(k, v === true ? "" : v);
+    }
+    for (const c of kids.flat()) if (c != null) n.append(c);
+    return n;
+  };
+  const reduced = matchMedia("(prefers-reduced-motion: reduce)").matches;
+
+  // ---- Items, with the Bible synchronisms as their own lane.
+  const BIBLE = "The Bible in world history";
+  const items = D.items.map((r, id) => ({ ...r, id }));
+  D.syncs.forEach(s => items.push({ id: items.length, k: "e", s: BIBLE, n: s.n, a: s.m, z: s.m, c: s.c, sync: s,
+    note: `${s.ev}. ${s.ref}.` }));
+  const streams = [{ name: BIBLE, group: "The Bible" }, ...D.streams];
+  const groups = ["The Bible", ...D.groups];
+  const byStream = d3.group(items, d => d.s);
+
+  // ---- Colours: one hue family per group, a shade per stream; recomputed when the theme changes.
+  const dark = () => {
+    const t = document.documentElement.getAttribute("data-theme");
+    return t ? t === "dark" : matchMedia("(prefers-color-scheme: dark)").matches;
+  };
+  const colour = {};
+  function setColours() {
+    const dk = dark();
+    for (const g of groups) {
+      const ss = streams.filter(s => s.group === g);
+      ss.forEach((s, k) => {
+        if (g === "The Bible") { colour[s.name] = dk ? "hsl(43 72% 62%)" : "hsl(40 85% 30%)"; return; }
+        const hue = GROUP_HUE[g] + (k - (ss.length - 1) / 2) * Math.min(13, 70 / ss.length);
+        const l = dk ? 66 + (k % 2) * 6 : 38 + (k % 2) * 7;
+        colour[s.name] = `hsl(${hue.toFixed(1)} ${dk ? 58 : 62}% ${l}%)`;
+      });
+    }
+    document.querySelectorAll("[data-stream-colour]").forEach(n => n.style.setProperty("--c", colour[n.dataset.streamColour]));
+    groupChips.forEach(([g, b]) => b.style.setProperty("--c", g === "The Bible" ? colour[BIBLE] : colour[streams.find(s => s.group === g).name]));
+  }
+
+  // ---- Rows: eras, dynasties, reigns and lives, then events, packed by overlap of years.
+  const ROW = 20, GAP = 4, EROW = 18, HEAD = 22, BAND_GAP = 10;
+  const layout = new Map();
+  for (const s of streams) {
+    const its = byStream.get(s.name) || [];
+    const rows = [];
+    const tiers = [its.filter(d => d.k === "pe"), its.filter(d => d.k === "pd"), its.filter(d => d.k === "r" || d.k === "f")];
+    for (const tier of tiers) {
+      const lanes = [];
+      for (const d of [...tier].sort((a, b) => a.a - b.a || b.z - a.z)) {
+        let k = lanes.findIndex(end => end < d.a);
+        if (k < 0) { k = lanes.length; lanes.push(-Infinity); }
+        lanes[k] = d.z;
+        d.row = rows.length + k;
+      }
+      lanes.forEach(() => rows.push("bar"));
+    }
+    const evs = its.filter(d => d.k === "e").sort((a, b) => a.a - b.a);
+    const nEv = evs.length ? Math.min(3, Math.max(1, Math.ceil(evs.length / 12))) : 0;
+    evs.forEach((d, k) => { d.row = rows.length + (k % nEv); });
+    for (let k = 0; k < nEv; k++) rows.push("event");
+    layout.set(s.name, rows);
+  }
+
+  // ---- State
+  const groupOn = new Map(groups.map(g => [g, true]));
+  let domain = RANGES[0][1].slice();
+  let selected = null;
+  const chart = d3.select("#chart"), axis = d3.select("#axis"), overview = d3.select("#overview");
+  const gGrid = chart.append("g").attr("class", "grid"), gBands = chart.append("g"), gMarks = chart.append("g"), gAnchor = chart.append("g");
+  let W = 0, x0 = d3.scaleLinear().domain(FULL), x = x0.copy();
+  const canvas = document.createElement("canvas").getContext("2d");
+  const textW = (s, size = 11, weight = 500) => { canvas.font = `${weight} ${size}px "Libre Franklin", system-ui, sans-serif`; return canvas.measureText(s).width; };
+
+  // ---- Zoom, kept in terms of the full domain.
+  const zoom = d3.zoom().scaleExtent([1, 900])
+    .filter(e => (e.type === "wheel" ? e.ctrlKey : !e.button) && (e.type !== "touchstart" || e.touches.length > 1))
+    .on("zoom", e => { x = e.transform.rescaleX(x0); domain = x.domain(); draw(); syncBrush(); if (e.sourceEvent) scheduleChronicle(); });
+  chart.call(zoom).on("dblclick.zoom", null);
+  chart.on("wheel.pan", e => {
+    if (e.ctrlKey || Math.abs(e.deltaX) <= Math.abs(e.deltaY)) return;
+    e.preventDefault();
+    chart.call(zoom.translateBy, -e.deltaX / d3.zoomTransform(chart.node()).k, 0);
+  }, { passive: false });
+  function setDomain(dm, animate) {
+    const [a, b] = [Math.max(FULL[0], dm[0]), Math.min(FULL[1], dm[1])];
+    const k = (x0(FULL[1]) - x0(FULL[0])) / (x0(b) - x0(a));
+    const t = d3.zoomIdentity.scale(k).translate(-x0(a), 0);
+    (animate && !reduced ? chart.transition().duration(550) : chart).call(zoom.transform, t);
+    scheduleChronicle();
+  }
+
+  // ---- Axis ticks at round calendar years.
+  function ticks(scale, minPx) {
+    const [a, b] = scale.domain();
+    const span = b - a;
+    const steps = [1, 2, 5, 10, 20, 25, 50, 100, 200, 250, 500, 1000];
+    const step = steps.find(s => (s * W) / span >= minPx) || 1000;
+    const out = [];
+    const startCal = Math.floor(a / step) * step;
+    for (let c = startCal; c <= b + step; c += step) {
+      // c is a "calendar number" on a line with no year 0: negatives are BC.
+      const astro = c <= 0 ? c + 1 : c;
+      if (astro < a || astro > b) continue;
+      if (c === 0) { out.push({ y: 1, label: "AD 1" }); continue; }
+      out.push({ y: astro, label: c < 0 ? `${-c} BC` : ylShort(c) });
+    }
+    return { out, step };
+  }
+
+  // ---- Drawing
+  const inView = d => d.z >= domain[0] - 1 && d.a <= domain[1] + 1;
+  function draw() {
+    const vis = streams.filter(s => groupOn.get(s.group) && (byStream.get(s.name) || []).some(inView));
+    let y = 6;
+    const bandAt = new Map();
+    let lastGroup = null;
+    const bands = [];
+    for (const s of vis) {
+      if (s.group !== lastGroup && s.group !== "The Bible") { bands.push({ group: s.group, y }); y += 18; }
+      lastGroup = s.group;
+      // Only the rows that hold something in view, so a band never shows empty lanes.
+      const rows = layout.get(s.name);
+      const used = [...new Set(byStream.get(s.name).filter(inView).map(d => d.row))].sort((a, b) => a - b);
+      const rowY = new Map();
+      let ry = y + HEAD;
+      used.forEach(r => { rowY.set(r, ry); ry += (rows[r] === "bar" ? ROW : EROW) + GAP; });
+      bandAt.set(s.name, { y, rowY, h: ry - y });
+      bands.push({ stream: s.name, y, h: ry - y });
+      y = ry + BAND_GAP;
+    }
+    const H = Math.max(160, y + 8);
+    chart.attr("height", H).attr("viewBox", `0 0 ${W} ${H}`);
+
+    // grid
+    const { out: tk, step } = ticks(x, 70);
+    gGrid.selectAll("line").data(tk, d => d.y).join("line")
+      .attr("class", d => ((d.y <= 0 ? 1 - d.y : d.y) % (step * 5) === 0 ? "major" : null))
+      .attr("x1", d => x(d.y)).attr("x2", d => x(d.y)).attr("y1", 0).attr("y2", H);
+    axis.attr("viewBox", `0 0 ${W} 34`);
+    axis.selectAll("text.t").data(tk, d => d.y).join("text").attr("class", "t")
+      .attr("x", d => Math.min(W - 4, Math.max(4, x(d.y))))
+      .attr("text-anchor", d => (x(d.y) < 28 ? "start" : x(d.y) > W - 28 ? "end" : "middle"))
+      .attr("y", 21).text(d => d.label);
+
+    // bands and labels
+    gBands.selectAll("g.band").data(bands, d => d.stream || `g:${d.group}`).join(enter => {
+      const g = enter.append("g").attr("class", "band");
+      g.filter(d => d.stream).append("rect").attr("class", "band-bg");
+      g.append("text");
+      return g;
+    }).each(function (d) {
+      const g = d3.select(this);
+      if (d.stream) {
+        g.select("rect").attr("x", 0).attr("width", W).attr("y", d.y).attr("height", d.h).attr("fill", colour[d.stream]);
+        g.select("text").attr("class", "band-label").attr("x", 10).attr("y", d.y + 15).attr("fill", colour[d.stream]).text(d.stream);
+      } else {
+        g.select("text").attr("class", "group-label").attr("x", 10).attr("y", d.y + 11).text(d.group);
+      }
+    });
+
+    // marks
+    const [d0, d1] = domain;
+    const shown = items.filter(d => bandAt.has(d.s) && d.z >= d0 - 1 && d.a <= d1 + 1);
+    const lastLabel = new Map();
+    const marks = gMarks.selectAll("g.mark").data(shown, d => d.id).join(enter => {
+      const g = enter.append("g").attr("class", "mark")
+        .on("click", (e, d) => openDetail(d))
+        .on("pointerenter", (e, d) => showTip(e, d)).on("pointermove", (e, d) => moveTip(e)).on("pointerleave", hideTip);
+      g.each(function (d) {
+        const n = d3.select(this);
+        if (d.k === "e") n.append("path"); else n.append("rect");
+        n.append("text");
+      });
+      return g;
+    });
+    marks.classed("sel", d => selected && d.id === selected.id);
+    marks.each(function (d) {
+      const n = d3.select(this);
+      const band = bandAt.get(d.s);
+      const ry = band.rowY.get(d.row);
+      const c = colour[d.s];
+      const label = n.select("text");
+      if (d.k === "e") {
+        const cx = x(d.a), cy = ry + EROW / 2;
+        n.select("path").attr("d", `M${cx},${cy - 6}L${cx + 6},${cy}L${cx},${cy + 6}L${cx - 6},${cy}Z`)
+          .attr("fill", c).attr("fill-opacity", d.c ? 0.55 : 1).attr("stroke", c).attr("stroke-width", 1);
+        const tw = textW(d.n);
+        const key = `${d.s}:${d.row}`;
+        const free = (lastLabel.get(key) ?? -Infinity) < cx - 6;
+        const nextIn = shown.find(o => o !== d && o.s === d.s && o.row === d.row && o.a > d.a);
+        const room = nextIn ? x(nextIn.a) - cx - 14 : W - cx;
+        if (free && room > tw + 10 && cx > -20 && cx < W) {
+          label.attr("x", cx + 10).attr("y", cy + 4).attr("fill", c).text(d.n).attr("display", null);
+          lastLabel.set(key, cx + 10 + tw);
+        } else label.attr("display", "none");
+      } else {
+        const xa = Math.max(-4, x(d.a)), xb = Math.min(W + 4, x(d.z));
+        const w = Math.max(3, xb - xa);
+        const op = d.k === "pe" ? 0.2 : d.k === "pd" ? 0.42 : 0.92;
+        n.select("rect").attr("x", xa).attr("y", ry).attr("width", w).attr("height", ROW).attr("rx", 4)
+          .attr("fill", c).attr("fill-opacity", op).attr("stroke", c).attr("stroke-opacity", d.c ? 0.9 : 0.5)
+          .attr("stroke-dasharray", d.c ? "3 2" : null);
+        const tw = textW(d.n);
+        const solid = d.k === "r" || d.k === "f";
+        if (w > tw + 12) {
+          const lx = Math.max(xa, 0) + 6;
+          label.attr("x", Math.min(lx, xb - tw - 6)).attr("y", ry + 14)
+            .attr("fill", solid ? (dark() ? "#0a0f1d" : "#ffffff") : getComputedStyle(document.documentElement).getPropertyValue("--ink"))
+            .text(d.n).attr("display", null);
+        } else label.attr("display", "none");
+      }
+    });
+
+    // anchors: the cross and today
+    const anchors = [{ y: 30, label: "Death and resurrection of Jesus, c. AD 30", cls: "anchor" }, { y: PRESENT, label: "Today", cls: "now" }]
+      .filter(a => a.y >= d0 && a.y <= d1);
+    gAnchor.selectAll("g").data(anchors, a => a.cls).join(enter => { const g = enter.append("g"); g.append("line"); g.append("text"); return g; })
+      .attr("class", a => a.cls)
+      .each(function (a) {
+        const g = d3.select(this), ax = x(a.y);
+        g.select("line").attr("x1", ax).attr("x2", ax).attr("y1", 0).attr("y2", H);
+        const right = ax + textW(a.label, 11, 600) + 12 < W;
+        g.select("text").attr("x", right ? ax + 6 : ax - 6).attr("y", H - 8).attr("text-anchor", right ? "start" : "end").text(a.label);
+      });
+    axis.selectAll("text.range").data([0]).join("text").attr("class", "range").attr("x", W - 8).attr("y", 21).attr("text-anchor", "end")
+      .text(() => "").attr("display", "none");
+  }
+
+  // ---- Context strip with a window (focus and context).
+  const OH = 64;
+  const centuries = d3.rollup(items.filter(d => d.s !== BIBLE), v => v.length, d => Math.floor(d.a / 100));
+  const brush = d3.brushX().handleSize(10).on("brush end", e => {
+    if (!e.sourceEvent || !e.selection) return;
+    const [a, b] = e.selection.map(xo.invert);
+    setDomain([a, b], false);
+  });
+  let xo = d3.scaleLinear().domain(FULL);
+  const gDensity = overview.append("g"), gOAxis = overview.append("g").attr("class", "tick-g"), gBrush = overview.append("g").attr("class", "brush");
+  function drawOverview() {
+    xo.range([0, W]);
+    overview.attr("viewBox", `0 0 ${W} ${OH}`);
+    const maxC = Math.max(...centuries.values());
+    const bars = [...centuries].map(([c, n]) => ({ c, n }));
+    gDensity.selectAll("rect").data(bars, d => d.c).join("rect").attr("class", "density")
+      .attr("x", d => xo(d.c * 100)).attr("width", d => Math.max(1, xo(d.c * 100 + 100) - xo(d.c * 100) - 1))
+      .attr("y", d => 40 - 32 * Math.sqrt(d.n / maxC)).attr("height", d => 32 * Math.sqrt(d.n / maxC)).attr("rx", 1);
+    const labels = (W < 600 ? [-3000, -1000, 1, 2000] : [-3000, -2000, -1000, 1, 1000, 2000]).map(y => ({ y, t: y === 1 ? "AD 1" : y < 0 ? `${-y} BC` : `${y}` }));
+    gOAxis.selectAll("g").data(labels, d => d.y).join(enter => { const g = enter.append("g").attr("class", "tick"); g.append("line"); g.append("text"); return g; })
+      .each(function (d) {
+        const g = d3.select(this), px = xo(d.y);
+        g.select("line").attr("x1", px).attr("x2", px).attr("y1", 42).attr("y2", 47);
+        g.select("text").attr("x", px).attr("y", 59).attr("text-anchor", d.y === -3000 ? "start" : d.y === 2000 ? "end" : "middle").text(d.t);
+      });
+    overview.selectAll("line.anchor").data([30]).join("line").attr("class", "anchor").attr("x1", xo(30)).attr("x2", xo(30)).attr("y1", 2).attr("y2", 42);
+    brush.extent([[0, 0], [W, 44]]);
+    gBrush.call(brush);
+    syncBrush();
+  }
+  let syncing = false;
+  function syncBrush() {
+    if (syncing) return;
+    syncing = true;
+    gBrush.call(brush.move, [xo(domain[0]), xo(domain[1])]);
+    syncing = false;
+  }
+
+  // ---- Tooltip and details
+  const tip = document.getElementById("tip");
+  const when = d => {
+    const c = d.c ? "c. " : "";
+    if (d.k === "e" || d.a === d.z) return `${c}${yl(d.a)}`;
+    return `${c}${yl(d.a)} – ${d.now ? "present" : yl(d.z)}`;
+  };
+  function showTip(e, d) {
+    if (e.pointerType === "touch") return;
+    tip.replaceChildren(el("b", { text: d.n }), `${when(d)} · ${d.s}`);
+    tip.hidden = false; moveTip(e);
+  }
+  function moveTip(e) {
+    const pad = 14, r = tip.getBoundingClientRect();
+    let left = e.clientX + pad, top = e.clientY + pad;
+    if (left + r.width > innerWidth - 8) left = e.clientX - r.width - pad;
+    if (top + r.height > innerHeight - 8) top = e.clientY - r.height - pad;
+    tip.style.left = `${left}px`; tip.style.top = `${top}px`;
+  }
+  function hideTip() { tip.hidden = true; }
+  const detail = document.getElementById("detail");
+  function openDetail(d) {
+    selected = d; hideTip();
+    const kind = d.sync ? "Synchronism" : KIND[d.k];
+    const parts = [
+      el("button", { class: "close", type: "button", "aria-label": "Close", onclick: closeDetail, text: "×" }),
+      el("div", { class: "kind", "data-stream-colour": d.s }, el("i"), `${kind} · ${d.s}`),
+      el("h2", { text: d.n }),
+      el("div", { class: "when", text: when(d) }),
+    ];
+    if (d.sync) {
+      const diff = d.sync.us != null ? d.sync.us - d.sync.m : null;
+      parts.push(el("p", { text: d.sync.ev }));
+      parts.push(el("p", { class: "meta", text: `${d.sync.ref}. Ussher dates it ${d.sync.us != null ? yl(d.sync.us) : "—"}${diff ? `, ${Math.abs(diff)} years ${diff < 0 ? "earlier" : "later"}` : ""}.` }));
+    } else if (d.note) parts.push(el("p", { text: d.note }));
+    if (d.bible) parts.push(el("p", { class: "meta", text: `In the Bible: ${d.bible}, first named at ${d.ref}.` }));
+    if (d.wd) parts.push(el("p", { class: "meta" }, el("a", { href: `https://www.wikidata.org/wiki/${d.wd}`, target: "_blank", rel: "noopener", text: `Wikidata ${d.wd}` })));
+    detail.replaceChildren(...parts);
+    detail.style.setProperty("--c", colour[d.s]);
+    detail.querySelector(".kind").style.setProperty("--c", colour[d.s]);
+    detail.hidden = false;
+    draw();
+  }
+  function closeDetail() { detail.hidden = true; selected = null; draw(); }
+  document.addEventListener("keydown", e => { if (e.key === "Escape" && !detail.hidden) closeDetail(); });
+
+  // ---- Chronicle of what is in view
+  const chron = document.getElementById("chronicle"), chronSub = document.getElementById("chron-sub");
+  let chronTimer = null;
+  function scheduleChronicle() { clearTimeout(chronTimer); chronTimer = setTimeout(renderChronicle, 180); }
+  const centuryName = c => {
+    const n = c < 0 ? -c : c;
+    const sfx = n % 100 >= 11 && n % 100 <= 13 ? "th" : { 1: "st", 2: "nd", 3: "rd" }[n % 10] || "th";
+    return `${n}${sfx} century ${c < 0 ? "BC" : "AD"}`;
+  };
+  const centuryOf = y => (y <= 0 ? -(Math.floor(-y / 100) + 1) : Math.floor((y - 1) / 100) + 1);
+  function renderChronicle() {
+    const [a, b] = domain;
+    const list = items.filter(d => groupOn.get(streams.find(s => s.name === d.s).group) && d.a >= a && d.a <= b)
+      .sort((p, q) => p.a - q.a || (p.k === "e") - (q.k === "e") || p.n.localeCompare(q.n));
+    const LIMIT = 600;
+    const byC = d3.group(list.slice(0, LIMIT), d => centuryOf(d.a));
+    chron.replaceChildren(...[...byC].map(([c, ds]) => el("div", { class: "century" },
+      el("h3", { text: centuryName(c) }),
+      el("ol", {}, ds.map(d => el("li", {}, el("button", { type: "button", onclick: () => { openDetail(d); } },
+        el("span", { class: "yr", text: `${d.c ? "c. " : ""}${span(d)}` }),
+        el("span", { class: "nm", text: d.n }),
+        el("span", { class: "st", "data-stream-colour": d.s }, el("i"), `${KIND[d.k]} · ${d.s}`))))))));
+    chronSub.textContent = `${fmt.format(list.length)} entries that begin between ${yl(Math.round(a))} and ${yl(Math.min(Math.round(b), PRESENT))}, in order.` +
+      (list.length > LIMIT ? ` The first ${LIMIT} are listed; zoom in to see the rest.` : "");
+    setColours();
+  }
+
+  // ---- Controls
+  const ranges = document.getElementById("ranges");
+  const rangeButtons = RANGES.map(([label, dm], k) => {
+    const b = el("button", { type: "button", "aria-pressed": k === 0 ? "true" : "false", text: label,
+      onclick: () => { rangeButtons.forEach(o => o.setAttribute("aria-pressed", "false")); b.setAttribute("aria-pressed", "true"); setDomain(dm, true); } });
+    ranges.append(b);
+    return b;
+  });
+  chart.on("pointerdown.range", () => rangeButtons.forEach(o => o.setAttribute("aria-pressed", "false")));
+  const groupBox = document.getElementById("groups");
+  const groupChips = groups.map(g => {
+    const b = el("button", { type: "button", class: "chip", "aria-pressed": "true", onclick: () => {
+      groupOn.set(g, !groupOn.get(g)); b.setAttribute("aria-pressed", groupOn.get(g) ? "true" : "false"); draw(); renderChronicle(); } },
+      el("i"), g);
+    groupBox.append(b);
+    return [g, b];
+  });
+  const shift = f => { const span = domain[1] - domain[0]; setDomain([domain[0] + f * span, domain[1] + f * span], true); };
+  document.getElementById("earlier").onclick = () => shift(-0.35);
+  document.getElementById("later").onclick = () => shift(0.35);
+  const zoomBy = f => { const mid = (domain[0] + domain[1]) / 2, half = (domain[1] - domain[0]) / 2 / f; setDomain([mid - half, mid + half], true); };
+  document.getElementById("zoom-in").onclick = () => zoomBy(1.6);
+  document.getElementById("zoom-out").onclick = () => zoomBy(1 / 1.6);
+
+  // ---- Size and theme
+  function resize() {
+    const w = document.getElementById("chart").clientWidth;
+    if (!w || w === W) return;
+    W = w;
+    x0 = d3.scaleLinear().domain(FULL).range([0, W]);
+    zoom.extent([[0, 0], [W, 1]]).translateExtent([[0, 0], [W, 1]]);
+    drawOverview();
+    setDomain(domain, false);
+  }
+  new ResizeObserver(resize).observe(document.getElementById("chart"));
+  const themeChanged = () => { setColours(); draw(); };
+  matchMedia("(prefers-color-scheme: dark)").addEventListener("change", themeChanged);
+  new MutationObserver(themeChanged).observe(document.documentElement, { attributes: true, attributeFilter: ["data-theme"] });
+
+  setColours();
+  resize();
+  renderChronicle();
+  (document.fonts?.ready || Promise.resolve()).then(() => draw());
+})();
+</script>

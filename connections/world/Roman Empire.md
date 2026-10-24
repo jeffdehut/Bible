@@ -3,8 +3,8 @@ type: "period"
 stream: "Rome"
 start: "27 BC"
 start_year: -26
-end: "AD 100"
-end_year: 100
+end: "AD 476"
+end_year: 476
 approximate: false
 wikidata: "Q2277"
 tags: ["world", "period"]
@@ -12,17 +12,17 @@ tags: ["world", "period"]
 
 # Roman Empire
 
-**Rome** · [[connections/timeline/1st century BC|27 BC]] – [[connections/timeline/1st century AD|AD 100]] *(modern dates)*
+**Rome** · [[connections/timeline/1st century BC|27 BC]] – [[connections/timeline/5th century AD|AD 476]] *(modern dates)*
 
 *Era*
 
-Continues beyond the chart
+In the west to AD 476; the eastern empire continues as the Byzantine Empire
 
 [Wikidata Q2277](https://www.wikidata.org/wiki/Q2277)
 
-**Centuries:** [[connections/timeline/1st century BC|1st century BC]] · [[connections/timeline/1st century AD|1st century AD]]
+**Centuries:** [[connections/timeline/1st century BC|1st century BC]] · [[connections/timeline/1st century AD|1st century AD]] · [[connections/timeline/2nd century AD|2nd century AD]] · [[connections/timeline/3rd century AD|3rd century AD]] · [[connections/timeline/4th century AD|4th century AD]] · [[connections/timeline/5th century AD|5th century AD]]
 
-**Also in Rome at this time:** [[connections/world/Roman Republic|Roman Republic]], [[connections/people/Augustus|Augustus]], [[connections/people/Tiberius|Tiberius]], [[connections/people/Claudius|Claudius]], [[connections/world/Nero|Nero]], [[connections/world/Vespasian|Vespasian]], [[connections/world/Titus|Titus]], [[connections/world/Domitian|Domitian]]
+**Also in Rome at this time:** [[connections/world/Roman Republic|Roman Republic]], [[connections/people/Augustus|Augustus]], [[connections/world/Julio-Claudian dynasty|Julio-Claudian dynasty]], [[connections/people/Tiberius|Tiberius]], [[connections/world/Caligula|Caligula]], [[connections/people/Claudius|Claudius]], [[connections/world/Nero|Nero]], [[connections/world/Vespasian|Vespasian]], [[connections/world/Flavian dynasty|Flavian dynasty]], [[connections/world/Titus|Titus]], [[connections/world/Domitian|Domitian]], [[connections/world/Nerva–Antonine dynasty|Nerva–Antonine dynasty]], [[connections/world/Trajan|Trajan]], [[connections/world/Hadrian|Hadrian]], [[connections/world/Marcus Aurelius|Marcus Aurelius]], [[connections/world/Septimius Severus|Septimius Severus]], [[connections/world/Severan dynasty|Severan dynasty]], [[connections/world/Crisis of the Third Century|Crisis of the Third Century]], [[connections/world/Decius|Decius]], [[connections/world/Diocletian|Diocletian]], [[connections/world/Constantinian dynasty|Constantinian dynasty]], [[connections/world/Constantine the Great|Constantine the Great]], [[connections/world/Theodosius I|Theodosius I]], [[connections/world/Theodosian dynasty|Theodosian dynasty]], [[connections/world/Romulus Augustulus|Romulus Augustulus]]
 
 ## Bible events in these years *(Ussher–Jones dates)*
 

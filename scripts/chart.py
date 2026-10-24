@@ -27,6 +27,7 @@ ERAS = [
     ("The Exodus to the Divided Kingdom", -1490, -974),
     ("The Divided Kingdom to the Return", -974, -535),
     ("The Return to the Apostles", -535, 100),
+    ("The Apostles to the Present", 30, 2030),
 ]
 
 JUDAH = {"Rehoboam", "Abijam", "Asa", "Jehoshaphat", "Jehoram", "Ahaziah (Jehoahaz)", "Athaliah", "Joash",
@@ -45,14 +46,18 @@ BIBLE_STREAMS = [
 ]
 # Streams top to bottom, roughly west to east as on Adams' chart.
 STREAM_ORDER = ["Egypt", "Sumer and Akkad", "Babylon", "Assyria", "Anatolia", "Aram", "Tyre", "Persia", "Greece",
-                "Seleucid", "Rome", "Carthage", "Herodian", "Nabataea", "Roman officials", "High priests", "India",
-                "China", "Thinkers and writers"]
+                "Seleucid", "Rome", "Byzantine Empire", "Europe", "Russia", "Carthage", "Herodian", "Nabataea",
+                "Roman officials", "High priests", "Jewish history", "Church", "Bible transmission", "Islamic world",
+                "Mongols", "India", "China", "Japan", "Africa", "Americas", "World", "Thinkers and writers"]
 WORLD_COLOURS = {
     "Tyre": "#884ea0", "Egypt": "#c9a227", "Aram": "#7f6a93", "Assyria": "#d35400", "Babylon": "#34495e",
     "Persia": "#16a085", "Greece": "#2e86c1", "Seleucid": "#5dade2", "Rome": "#922b21", "Herodian": "#a04000",
     "Nabataea": "#7f8c8d", "Roman officials": "#cd6155", "High priests": "#5d6d7e",
     "Sumer and Akkad": "#7b6d3a", "Anatolia": "#b9770e", "Carthage": "#6c3483", "India": "#ca6f1e",
     "China": "#c0392b", "Thinkers and writers": "#1f618d",
+    "Byzantine Empire": "#7d3c98", "Europe": "#2c3e50", "Russia": "#5b2c6f", "Jewish history": "#1a5276",
+    "Church": "#138d75", "Bible transmission": "#9a7d0a", "Islamic world": "#117a65", "Mongols": "#6e2c00",
+    "Japan": "#b03a2e", "Africa": "#7e5109", "Americas": "#196f3d", "World": "#4d5656",
 }
 
 PAPER, INK, DECADE = "#fbf6e9", "#2b2116", "#e8c4bd"
@@ -220,14 +225,32 @@ def render(ctx, title, start, end, ppy):
     for r in ctx.periods + ctx.rulers + [w for w in ctx.world_events if w["kind"] == "figure"]:
         if r["end_y"] >= start and r["start_y"] <= end:
             streams.setdefault(r["stream"], []).append(r)
+    stream_events = collections.defaultdict(list)
+    for w in ctx.world_events:
+        if w["kind"] == "event" and w["stream"] != "World events" and start <= w["start_y"] <= end:
+            stream_events[w["stream"]].append(w)
+            streams.setdefault(w["stream"], [])
+
+    def draw_events(evs, top, colour):
+        """Event markers on packed lanes; returns the height used."""
+        placed, nlanes = pack([(w["start_y"], w["start_y"], w) for w in evs], x, lambda it: text_w(it[2]["name"], 10.5) + 14)
+        for k, (yr, _, w) in placed:
+            cy = top + k * (ROW + GAP) + ROW / 2
+            approx = "c. " if w["approximate"] == "yes" else ""
+            parts.append(f'<g><title>{esc(w["name"])} · {approx}{year_label(yr)}{" · " + esc(w["note"]) if w.get("note") else ""}'
+                         f'</title><rect x="{x(yr) - 4:.1f}" y="{cy - 4:.1f}" width="8" height="8" fill="{colour}" '
+                         f'transform="rotate(45 {x(yr):.1f} {cy:.1f})"/></g>')
+            text(x(yr) + 8, cy + 4, w["name"], 10.5, fill=colour)
+        return nlanes * (ROW + GAP)
     for name, rs in streams.items():
-        if not rs:
+        if not rs and not stream_events.get(name):
             continue
         colour = WORLD_COLOURS.get(name, "#555")
         label = lambda it: text_w(it[2]["name"]) + 8
         tiers = [[r for r in rs if r.get("level") == "era"], [r for r in rs if r.get("level") == "dynasty"],
                  [r for r in rs if not r.get("level")]]
-        s0, e0 = max(min(r["start_y"] for r in rs), start), min(max(r["end_y"] for r in rs), end)
+        spans = [(r["start_y"], r["end_y"]) for r in rs] + [(w["start_y"], w["start_y"]) for w in stream_events.get(name, [])]
+        s0, e0 = max(min(a for a, _ in spans), start), min(max(b for _, b in spans), end)
         band_top = y
         text(12, y + 14, name, 13, weight="bold", fill=colour)
         for tier, items in enumerate(tiers):
@@ -246,22 +269,18 @@ def render(ctx, title, start, end, ppy):
                 ink = "#ffffff" if inside and tier == 2 else INK if inside else colour
                 text(x(s_) + 4 if inside else x(e_) + 3, by + 13, r["name"], 11, fill=ink)
             y += nlanes * (ROW + GAP)
+        if stream_events.get(name):
+            y += draw_events(sorted(stream_events[name], key=lambda w: w["start_y"]), y, colour)
         parts.insert(0, f'<rect x="{x(s0):.1f}" y="{band_top - 2}" width="{x(e0) - x(s0):.1f}" '
                         f'height="{y - band_top + 4}" fill="{colour}" opacity="0.08" rx="6"/>')
         y += 12
 
     # World events: markers with staggered labels.
-    wev = [w for w in ctx.world_events if w["kind"] == "event" and start <= w["start_y"] <= end]
+    wev = [w for w in ctx.world_events if w["kind"] == "event" and w["stream"] == "World events"
+           and start <= w["start_y"] <= end]
     if wev:
         text(12, y + 14, "World events", 13, weight="bold", fill="#444")
-        line_y = y + 8
-        parts.append(f'<line x1="{x(start):.1f}" y1="{line_y}" x2="{x(end):.1f}" y2="{line_y}" stroke="#444" stroke-width="0.5"/>')
-        for k, w in enumerate(sorted(wev, key=lambda w: w["start_y"])):
-            parts.append(f'<g><title>{esc(w["name"])} · {"c. " if w["approximate"] == "yes" else ""}'
-                         f'{year_label(w["start_y"])}</title><circle cx="{x(w["start_y"]):.1f}" cy="{line_y}" r="4" '
-                         f'fill="#444"/></g>')
-            text(x(w["start_y"]) + 6, line_y + 16 + (k % 2) * 13, w["name"], 10.5, fill="#444")
-        y += 52
+        y += draw_events(sorted(wev, key=lambda w: w["start_y"]), y, "#444") + 12
 
     # Century pillars and decade lines behind everything, then the bottom axis.
     grid = []
@@ -284,7 +303,7 @@ def write_charts(ctx, out_dir):
     import os
     os.makedirs(out_dir, exist_ok=True)
     files = []
-    full_start, full_end = -4003, 100
+    full_start, full_end = -4003, 2030
     svg = render(ctx, "A Synchronological Chart of Bible and World History", full_start, full_end, 3)
     files.append(("The whole chart", "synchronological-chart.svg"))
     with open(os.path.join(out_dir, files[-1][1]), "w", encoding="utf-8", newline="\n") as f:

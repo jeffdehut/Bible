@@ -26,11 +26,11 @@ Every family relationship in TIPNR: 1,921 parent-child links connecting 2,064 pe
 
 Sebastian C. Adams' *Synchronological Chart* (1871) set Bible history beside world history using Archbishop Ussher's chronology. Here:
 
-- **42 century notes**, from Creation (4004 BC) to the 1st century AD. Each lists the Bible events, births and deaths, the foreign rulers reigning, synchronisms, and the chapters dated to that century.
+- **62 century notes**, from Creation (4004 BC) to the 1st century AD. Each lists the Bible events, births and deaths, the foreign rulers reigning, synchronisms, and the chapters dated to that century.
 - **450 event notes** and birth and death years for 84 people (patriarchs, judges, kings). These come from Theographic, after Floyd Nolen Jones's refinement of Ussher.
 - **Dates on chapter notes:** 28,020 verses carry the Ussher dates printed in the margin of the *Treasury of Scripture Knowledge*, so chapter notes show their date wherever the *Treasury* gives one. 127 chapters are undated, 113 of them Psalms.
-- **[[connections/timeline/Synchronisms|Synchronisms]]:** 23 events the Bible narrates that outside evidence also dates, with Ussher's date beside the modern one. Ussher runs about 45 years earlier in the 10th–9th centuries BC and agrees within a few years from Josiah onward. There are also 65 rulers of the surrounding nations, with Wikidata links.
-- **World history:** 20 streams with modern dates for 59 eras and dynasties, 65 rulers, 12 world events and 8 thinkers and writers, from Egypt and Sumer to India and China. There are 107 notes in `connections/world/`, and each century note lines them up with the Bible.
+- **[[connections/timeline/Synchronisms|Synchronisms]]:** 24 events the Bible narrates that outside evidence also dates, with Ussher's date beside the modern one. Ussher runs about 45 years earlier in the 10th–9th centuries BC and agrees within a few years from Josiah onward. There are also 113 rulers of the surrounding nations, with Wikidata links.
+- **World history:** 32 streams with modern dates for 169 eras and dynasties, 113 rulers, 92 world events and 47 thinkers and writers, from Egypt and Sumer to India and China. There are 384 notes in `connections/world/`, and each century note lines them up with the Bible.
 - **[[connections/timeline/Synchronological Chart|Synchronological Chart]]:** an open reconstruction of Adams' chart as SVG, the whole span and five eras.
 
 Ussher anchor dates in the verse data: Creation 4004 BC; The Flood 2348 BC; Terah dies; Abram leaves Haran 1921 BC; The Exodus 1491 BC; Temple begun 1012 BC (found 1011 BC).

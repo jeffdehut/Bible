@@ -33,7 +33,7 @@ Anatolia,era,Neo-Hittite states,1180 BC,700 BC,yes,Q770281,The Hittites of the b
 Anatolia,era,Kingdom of Lydia,680 BC,546 BC,yes,Q620765,Mermnad dynasty; conquered by Cyrus
 Persia,era,Median Empire,678 BC,549 BC,yes,,
 Persia,era,Achaemenid Empire,550 BC,330 BC,no,Q389688,
-Persia,era,Parthian Empire,247 BC,AD 100,no,Q1986139,Continues to AD 224
+Persia,era,Parthian Empire,247 BC,AD 224,no,Q1986139,
 Greece,era,Minoan palace civilization,2000 BC,1450 BC,yes,Q134178,Crete
 Greece,era,Mycenaean Greece,1600 BC,1100 BC,yes,Q181264,
 Greece,era,Greek Dark Ages,1100 BC,800 BC,yes,Q210443,
@@ -43,7 +43,7 @@ Greece,era,Hellenistic period,323 BC,31 BC,no,Q428995,
 Seleucid,era,Seleucid Empire,312 BC,63 BC,no,Q93180,
 Rome,era,Roman Kingdom,753 BC,509 BC,yes,Q201038,Traditional dates
 Rome,era,Roman Republic,509 BC,27 BC,yes,Q17167,Traditional start date
-Rome,era,Roman Empire,27 BC,AD 100,no,Q2277,Continues beyond the chart
+Rome,era,Roman Empire,27 BC,AD 476,no,Q2277,In the west to AD 476; the eastern empire continues as the Byzantine Empire
 Carthage,era,Carthage,814 BC,146 BC,yes,Q2429397,Traditional founding date
 India,era,Mature Harappan civilization,2600 BC,1900 BC,yes,,Indus Valley
 India,era,Vedic period,1500 BC,500 BC,yes,Q215262,
@@ -57,4 +57,114 @@ China,era,Western Zhou,1046 BC,771 BC,no,Q1069609,
 China,era,Spring and Autumn period,770 BC,476 BC,no,Q185047,Eastern Zhou
 China,era,Warring States period,475 BC,221 BC,no,Q185063,Eastern Zhou
 China,era,Qin dynasty,221 BC,206 BC,no,Q7183,
-China,era,Han dynasty,202 BC,AD 100,no,Q7209,Continues to AD 220
+China,era,Han dynasty,202 BC,AD 220,no,Q7209,
+Rome,dynasty,Julio-Claudian dynasty,27 BC,AD 68,no,,
+Rome,dynasty,Flavian dynasty,AD 69,AD 96,no,,
+Rome,dynasty,Nerva–Antonine dynasty,AD 96,AD 192,no,,
+Rome,dynasty,Severan dynasty,AD 193,AD 235,no,,
+Rome,era,Crisis of the Third Century,AD 235,AD 284,no,,
+Rome,dynasty,Constantinian dynasty,AD 305,AD 363,no,,
+Rome,dynasty,Theodosian dynasty,AD 379,AD 457,no,,
+Byzantine Empire,era,Byzantine Empire,AD 330,AD 1453,no,,From the founding of Constantinople. Its people called it the Roman Empire to the end
+Byzantine Empire,dynasty,Justinian dynasty,AD 518,AD 602,no,,
+Byzantine Empire,dynasty,Heraclian dynasty,AD 610,AD 711,no,,
+Byzantine Empire,dynasty,Isaurian dynasty,AD 717,AD 802,no,,
+Byzantine Empire,dynasty,Macedonian dynasty,AD 867,AD 1056,no,,
+Byzantine Empire,dynasty,Komnenos,AD 1081,AD 1185,no,,The Komnenian emperors
+Byzantine Empire,dynasty,Palaiologos,AD 1259,AD 1453,no,,The Palaiologan emperors
+Persia,era,Sasanian Empire,AD 224,AD 651,no,,
+Persia,era,Safavid Iran,AD 1501,AD 1736,no,,
+Persia,era,Qajar Iran,AD 1789,AD 1925,no,,
+Persia,era,Pahlavi Iran,AD 1925,AD 1979,no,,
+Persia,era,Iran,AD 1979,present,no,,"The Islamic Republic, from the revolution of 1979"
+China,era,Three Kingdoms,AD 220,AD 280,no,,
+China,era,Jin dynasty,AD 266,AD 420,no,,
+China,era,Northern and Southern dynasties,AD 420,AD 589,no,,
+China,era,Sui dynasty,AD 581,AD 618,no,,
+China,era,Tang dynasty,AD 618,AD 907,no,,
+China,era,Five Dynasties and Ten Kingdoms,AD 907,AD 979,no,,
+China,era,Song dynasty,AD 960,AD 1279,no,,
+China,era,Yuan dynasty,AD 1271,AD 1368,no,,Founded by Kublai Khan
+China,era,Ming dynasty,AD 1368,AD 1644,no,,
+China,era,Qing dynasty,AD 1644,AD 1912,no,,
+China,era,Republic of China,AD 1912,AD 1949,no,,On the mainland; the Republic continues on Taiwan
+China,era,People's Republic of China,AD 1949,present,no,,
+India,era,Kushan Empire,AD 30,AD 375,yes,,
+India,era,Gupta Empire,AD 320,AD 550,yes,,
+India,era,Chola dynasty,AD 848,AD 1279,no,,The imperial Cholas; the dynasty is older
+India,era,Delhi Sultanate,AD 1206,AD 1526,no,,
+India,era,Vijayanagara Empire,AD 1336,AD 1646,no,,
+India,era,Mughal Empire,AD 1526,AD 1857,no,,
+India,era,Company rule in India,AD 1757,AD 1858,no,,The East India Company
+India,era,British Raj,AD 1858,AD 1947,no,,
+India,era,India,AD 1947,present,no,,Independent from 1947; a republic from 1950
+Japan,era,Kofun period,AD 250,AD 538,yes,,
+Japan,era,Asuka period,AD 538,AD 710,no,,Buddhism reaches Japan
+Japan,era,Nara period,AD 710,AD 794,no,,
+Japan,era,Heian period,AD 794,AD 1185,no,,
+Japan,era,Kamakura period,AD 1185,AD 1333,no,,The first shogunate
+Japan,era,Muromachi period,AD 1336,AD 1573,no,,
+Japan,era,Azuchi–Momoyama period,AD 1568,AD 1600,no,,
+Japan,era,Edo period,AD 1603,AD 1868,no,,The Tokugawa shogunate
+Japan,era,Empire of Japan,AD 1868,AD 1947,no,,
+Japan,era,Occupation of Japan,AD 1945,AD 1952,no,,
+Japan,era,Post-occupation Japan,AD 1952,present,no,,
+Islamic world,era,Islamic Golden Age,AD 750,AD 1258,yes,,
+Islamic world,dynasty,Rashidun Caliphate,AD 632,AD 661,no,,
+Islamic world,dynasty,Umayyad Caliphate,AD 661,AD 750,no,,
+Islamic world,dynasty,Abbasid Caliphate,AD 750,AD 1258,no,,At Baghdad until the Mongols sacked it in 1258; continued in Cairo under the Mamluks to 1517
+Islamic world,dynasty,Fatimid Caliphate,AD 909,AD 1171,no,,
+Islamic world,dynasty,Ayyubid dynasty,AD 1171,AD 1260,no,,Founded by Saladin
+Islamic world,dynasty,Mamluk Sultanate,AD 1250,AD 1517,no,,
+Islamic world,era,Ottoman Empire,AD 1299,AD 1922,yes,,Traditional founding date
+Mongols,era,Mongol Empire,AD 1206,AD 1368,no,,Divided into khanates from 1260
+Europe,era,Migration Period,AD 375,AD 568,yes,,
+Europe,era,Early Middle Ages,AD 500,AD 1000,yes,,
+Europe,era,High Middle Ages,AD 1000,AD 1300,yes,,
+Europe,era,Late Middle Ages,AD 1300,AD 1500,yes,,
+Europe,era,Renaissance,AD 1400,AD 1600,yes,,
+Europe,era,Age of Enlightenment,AD 1685,AD 1815,yes,,
+Europe,era,Industrial Revolution,AD 1760,AD 1840,yes,,Beginning in Britain
+Europe,dynasty,Carolingian Empire,AD 800,AD 888,no,,
+Europe,dynasty,Crusades,AD 1095,AD 1291,no,,From Urban II's call in 1095 to the fall of Acre in 1291
+Europe,dynasty,Holy Roman Empire,AD 962,AD 1806,no,,From the coronation of Otto I; Charlemagne's empire (800) is often counted as its forerunner
+Europe,dynasty,Kingdom of England,AD 927,AD 1707,no,,
+Europe,dynasty,Kingdom of France,AD 987,AD 1792,no,,From the Capetian kings
+Europe,dynasty,European Union,AD 1993,present,no,,
+Russia,era,Kievan Rus',AD 882,AD 1240,yes,,
+Russia,era,Grand Duchy of Moscow,AD 1283,AD 1547,yes,,
+Russia,era,Tsardom of Russia,AD 1547,AD 1721,no,,
+Russia,era,Russian Empire,AD 1721,AD 1917,no,,
+Russia,era,Soviet Union,AD 1922,AD 1991,no,,
+Russia,era,Russia,AD 1991,present,no,,The Russian Federation
+Africa,era,Kingdom of Aksum,AD 100,AD 940,yes,,
+Africa,era,Ghana Empire,AD 300,AD 1100,yes,,
+Africa,era,Great Zimbabwe,AD 1100,AD 1450,yes,,
+Africa,era,Mali Empire,AD 1235,AD 1670,yes,,
+Africa,era,Ethiopian Empire,AD 1270,AD 1974,no,,
+Africa,era,Songhai Empire,AD 1464,AD 1591,no,,
+Africa,era,Scramble for Africa,AD 1881,AD 1914,yes,,
+Americas,era,Teotihuacan,100 BC,AD 550,yes,,The city at its height
+Americas,era,Classic Maya,AD 250,AD 900,yes,,The Classic period of Maya civilization
+Americas,dynasty,Aztec Empire,AD 1428,AD 1521,no,,
+Americas,dynasty,Inca Empire,AD 1438,AD 1533,no,,
+Americas,dynasty,United States,AD 1776,present,no,,
+Jewish history,era,Tannaim,AD 10,AD 220,yes,,The rabbis of the Mishnah
+Jewish history,era,Amoraim,AD 200,AD 500,yes,,The rabbis of the Talmud
+Jewish history,era,Geonim,AD 589,AD 1038,yes,,Heads of the Babylonian academies
+Jewish history,dynasty,Bar Kokhba revolt,AD 132,AD 136,no,,Afterwards Hadrian refounded Jerusalem as Aelia Capitolina
+Jewish history,dynasty,The Holocaust,AD 1941,AD 1945,no,,About six million Jews were murdered
+Jewish history,era,State of Israel,AD 1948,present,no,,Proclaimed on 14 May 1948
+Church,era,Apostolic Age,AD 30,AD 100,yes,,
+Church,era,Ante-Nicene period,AD 100,AD 325,yes,,
+Church,dynasty,Western Schism,AD 1378,AD 1417,no,,Rival popes at Rome and Avignon
+Church,dynasty,Reformation,AD 1517,AD 1648,yes,,Conventional end at the Peace of Westphalia
+Church,dynasty,Counter-Reformation,AD 1545,AD 1648,yes,,
+Church,dynasty,Council of Trent,AD 1545,AD 1563,no,,
+Church,dynasty,First Great Awakening,AD 1730,AD 1755,yes,,
+Church,dynasty,Second Great Awakening,AD 1790,AD 1840,yes,,
+Church,dynasty,Second Vatican Council,AD 1962,AD 1965,no,,
+Bible transmission,era,Masoretes,AD 600,AD 1000,yes,,"Scribes, chiefly at Tiberias, who added the vowels, accents and notes of the Hebrew text"
+World,era,World War I,AD 1914,AD 1918,no,,
+World,era,World War II,AD 1939,AD 1945,no,,
+World,era,Cold War,AD 1947,AD 1991,no,,

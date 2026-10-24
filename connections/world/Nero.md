@@ -20,7 +20,7 @@ The emperor to whom Paul appealed (Acts 25:11)
 
 **Centuries:** [[connections/timeline/1st century AD|1st century AD]]
 
-**Also in Rome at this time:** [[connections/world/Roman Empire|Roman Empire]], [[connections/people/Claudius|Claudius]]
+**Also in Rome at this time:** [[connections/world/Roman Empire|Roman Empire]], [[connections/world/Julio-Claudian dynasty|Julio-Claudian dynasty]], [[connections/people/Claudius|Claudius]]
 
 ## Bible events in these years *(Ussher–Jones dates)*
 

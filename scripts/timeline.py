@@ -10,6 +10,7 @@
 """
 
 import collections
+import datetime
 import csv
 import os
 
@@ -24,10 +25,20 @@ GENEALOGY = "connections/genealogy"
 MAX_TREE = 24  # most siblings/children drawn in a person's family tree
 
 
+PRESENT = datetime.date.today().year  # the end year of anything still running ("present")
+
+
 def parse_year(s):
-    """'745 BC' / 'AD 14' -> astronomical year."""
+    """'745 BC' / 'AD 14' / 'present' -> astronomical year."""
     s = s.strip()
+    if s == "present":
+        return PRESENT
     return 1 - int(s[:-3]) if s.endswith("BC") else int(s[3:])
+
+
+def end_label(r):
+    """The end of a ruler, period or life: 'present' for one still running."""
+    return "present" if r.get("end") == "present" else year_label(r["end_y"])
 
 
 def century_path(c):
@@ -362,9 +373,10 @@ def ctx_chapters(ctx):
 
 
 def write_timeline(ctx, order):
-    """One note per century, Creation to the 1st century AD."""
+    """One note per century, from Creation to the latest century in the world-history data."""
     first = century_of(min(ev["year"] for ev in ctx.chron.events))
-    last = century_of(max(max(ev["year"] for ev in ctx.chron.events), max(y for _, y in ctx.chapter_span.values())))
+    last = century_of(max(max(ev["year"] for ev in ctx.chron.events), max(y for _, y in ctx.chapter_span.values()),
+                          max(r["end_y"] for r in ctx.rulers + ctx.periods + ctx.world_events)))
     cents = [c for c in range(first, last + 1) if c != 0]
     chapters_in = collections.defaultdict(list)
     for (b, c), (lo, hi) in ctx.chapter_span.items():
@@ -407,9 +419,9 @@ def write_timeline(ctx, order):
                 by_stream.setdefault(r["stream"], []).append(r)
             for stream, rs in by_stream.items():
                 lines.append(f"- **{stream}:** " + ", ".join(
-                    world_link(ctx, r) + f" {year_label(r['start_y'])}–{year_label(r['end_y'])}" for r in rs))
+                    world_link(ctx, r) + f" {year_label(r['start_y'])}–{end_label(r)}" for r in rs))
             for r in worldev:
-                when = year_label(r["start_y"]) if r["kind"] == "event" else f"{year_label(r['start_y'])}–{year_label(r['end_y'])}"
+                when = year_label(r["start_y"]) if r["kind"] == "event" else f"{year_label(r['start_y'])}–{end_label(r)}"
                 lines.append(f"- **{'Event' if r['kind'] == 'event' else r['stream']}:** {world_link(ctx, r)} {when}")
             for s in syncs:
                 u = year_label(s["ussher_y"]) if s["ussher_y"] is not None else "—"
@@ -473,7 +485,9 @@ def write_chart_note(ctx):
               "more than five years. See [[connections/timeline/Synchronisms|Synchronisms]].",
               "- **Lower streams:** the wider world at modern dates: Egypt, Sumer and Akkad, Babylon, "
               "Assyria, the Hittites and Lydia, Aram, Tyre, Persia, Greece, the Seleucids, Rome, Carthage, the "
-              "Herods and Roman officials, India and China. Each stream shows eras (palest), then dynasties, "
+              "Herods and Roman officials, India and China; from about AD 30 also the Byzantine Empire, Europe, "
+              "Russia, the Islamic world, the Mongols, Japan, Africa, the Americas, Jewish history, the Church and "
+              "the transmission of the Bible's text. Each stream shows eras (palest), then dynasties, "
               "then rulers. A lane of thinkers and writers and a lane of world events come last. Each item has a "
               "note in `connections/world/` (or its Bible person's note).",
               "- **Two chronologies side by side:** the upper streams follow Ussher, as Adams did, and the "
@@ -506,9 +520,9 @@ def write_world(ctx):
     for r, kind in items:
         lo, hi = r["start_y"], r["end_y"]
         approx = "c. " if r["approximate"] == "yes" else ""
-        when = f"{approx}{year_link(lo)}" + (f" – {year_link(hi)}" if hi != lo else "")
+        when = f"{approx}{year_link(lo)}" + (f" – {year_link(hi, end_label(r))}" if hi != lo else "")
         lines = frontmatter({"type": kind, "stream": r["stream"], "start": year_label(lo), "start_year": lo,
-                             "end": year_label(hi), "end_year": hi, "approximate": r["approximate"] == "yes",
+                             "end": end_label(r), "end_year": None if r.get("end") == "present" else hi, "approximate": r["approximate"] == "yes",
                              "wikidata": r["wikidata"] or None, "tags": ["world", kind]})
         lines += [f"# {r['name']}", "", f"**{r['stream']}** · {when} *(modern dates)*", ""]
         if r.get("level"):

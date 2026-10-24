@@ -48,7 +48,7 @@ Eras and dynasties of the wider world, drawn as the pale bands of each stream.
 
 | Column | Meaning |
 |---|---|
-| `stream` | Egypt, Sumer and Akkad, Babylon, Assyria, Anatolia, Persia, Greece, Seleucid, Rome, Carthage, India, China |
+| `stream` | Egypt, Sumer and Akkad, Babylon, Assyria, Anatolia, Persia, Greece, Seleucid, Rome, Carthage, India, China; from about AD 30 also Byzantine Empire, Europe, Russia, Islamic world, Mongols, Japan, Africa, Americas, Jewish history, Church, Bible transmission and World |
 | `level` | `era` (e.g. Old Kingdom) or `dynasty` (e.g. Eighteenth Dynasty) |
 | `name`, `start`, `end`, `approximate`, `wikidata`, `note` | As in `rulers.csv` |
 
@@ -61,11 +61,29 @@ Third-millennium dates are uncertain by decades or more.
 
 | Column | Meaning |
 |---|---|
-| `stream` | `World events` or `Thinkers and writers` |
+| `stream` | `World events`, `Thinkers and writers`, or the stream an event or life belongs to (for example `Church` or `Bible transmission`) |
 | `kind` | `event` (a single year in `start`) or `figure` (a lifespan, `start`–`end`) |
 | `name`, `start`, `end`, `approximate`, `wikidata`, `note` | As above |
+
+## From AD 30 to the present
+
+The rows from the death and resurrection of Jesus (about AD 30) to today were added in
+October 2026. They follow the same conventions, with two additions:
+
+- `end` may be `present` for a state, era or institution that continues. The scripts read it
+  as the current year.
+- The **Bible transmission** stream lists the manuscripts and editions behind this project's
+  own texts, from Papyrus 52 to the Leningrad Codex (the source of the Hebrew), Scrivener's
+  Textus Receptus and the SBL Greek New Testament. Manuscript dates are the usual
+  palaeographic estimates and are marked approximate.
+
+Dates are the conventional ones of standard references (for example the Oxford and Cambridge
+histories). Where scholars give a range, the row uses its usual midpoint or start, says
+`approximate`, and gives the range in the note.
 
 ## Wikidata identifiers
 
 Every identifier was found by exact English label in Wikidata and checked against its
 description. Identifiers are left blank where no item could be confirmed, rather than guessed.
+The rows added for AD 30 to the present have no identifiers yet: Wikidata's API refused
+requests from the build environment when they were compiled, so they await the same check.

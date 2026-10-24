@@ -10,7 +10,7 @@ tags: ["timeline"]
 
 AD 1 – AD 100
 
-← [[connections/timeline/1st century BC|1st century BC]] · [[connections/timeline/Synchronisms|Synchronisms]] · [[connections/timeline/Synchronological Chart|Chart]]
+← [[connections/timeline/1st century BC|1st century BC]] · [[connections/timeline/Synchronisms|Synchronisms]] · [[connections/timeline/Synchronological Chart|Chart]] · [[connections/timeline/2nd century AD|2nd century AD]] →
 
 ## Bible events *(Jones)*
 
@@ -209,9 +209,14 @@ AD 1 – AD 100
 ## World history *(modern dates)*
 
 - **Egypt:** [[connections/world/Roman Egypt|Roman Egypt]] 30 BC–AD 100
-- **Persia:** [[connections/world/Parthian Empire|Parthian Empire]] 247 BC–AD 100
-- **Rome:** [[connections/world/Roman Empire|Roman Empire]] 27 BC–AD 100, [[connections/people/Augustus|Augustus]] 27 BC–AD 14, [[connections/people/Tiberius|Tiberius]] AD 14–AD 37, [[connections/people/Claudius|Claudius]] AD 41–AD 54, [[connections/world/Nero|Nero]] AD 54–AD 68, [[connections/world/Vespasian|Vespasian]] AD 69–AD 79, [[connections/world/Titus|Titus]] AD 79–AD 81, [[connections/world/Domitian|Domitian]] AD 81–AD 96
-- **China:** [[connections/world/Han dynasty|Han dynasty]] 202 BC–AD 100
+- **Persia:** [[connections/world/Parthian Empire|Parthian Empire]] 247 BC–AD 224
+- **Rome:** [[connections/world/Roman Empire|Roman Empire]] 27 BC–AD 476, [[connections/world/Julio-Claudian dynasty|Julio-Claudian dynasty]] 27 BC–AD 68, [[connections/world/Flavian dynasty|Flavian dynasty]] AD 69–AD 96, [[connections/world/Nerva–Antonine dynasty|Nerva–Antonine dynasty]] AD 96–AD 192, [[connections/people/Augustus|Augustus]] 27 BC–AD 14, [[connections/people/Tiberius|Tiberius]] AD 14–AD 37, [[connections/people/Claudius|Claudius]] AD 41–AD 54, [[connections/world/Nero|Nero]] AD 54–AD 68, [[connections/world/Vespasian|Vespasian]] AD 69–AD 79, [[connections/world/Titus|Titus]] AD 79–AD 81, [[connections/world/Domitian|Domitian]] AD 81–AD 96, [[connections/world/Caligula|Caligula]] AD 37–AD 41, [[connections/world/Trajan|Trajan]] AD 98–AD 117
+- **China:** [[connections/world/Han dynasty|Han dynasty]] 202 BC–AD 220
+- **India:** [[connections/world/Kushan Empire|Kushan Empire]] AD 30–AD 375
+- **Africa:** [[connections/world/Kingdom of Aksum|Kingdom of Aksum]] AD 100–AD 940
+- **Americas:** [[connections/world/Teotihuacan|Teotihuacan]] 100 BC–AD 550
+- **Jewish history:** [[connections/world/Tannaim|Tannaim]] AD 10–AD 220
+- **Church:** [[connections/world/Apostolic Age|Apostolic Age]] AD 30–AD 100, [[connections/world/Ante-Nicene period|Ante-Nicene period]] AD 100–AD 325
 - **Herodian:** [[connections/people/Archelaus|Archelaus (Herod Archelaus)]] 4 BC–AD 6, [[connections/people/Herod (Matthew 14.1)|Herod (Matthew 14.1) (Herod Antipas)]] 4 BC–AD 39, [[connections/people/Herod (Acts 12.1)|Herod (Acts 12.1) (Herod Agrippa I)]] AD 41–AD 44, [[connections/people/Agrippa|Agrippa (Herod Agrippa II)]] AD 48–AD 93
 - **Nabataea:** [[connections/people/Aretas|Aretas (Aretas IV)]] 9 BC–AD 40
 - **Roman officials:** [[connections/people/Quirinius|Quirinius (Publius Sulpicius Quirinius)]] AD 6–AD 12, [[connections/people/Pilate|Pilate (Pontius Pilate)]] AD 26–AD 36, [[connections/people/Felix|Felix (Antonius Felix)]] AD 52–AD 60, [[connections/people/Festus|Festus (Porcius Festus)]] AD 60–AD 62, [[connections/people/Gallio|Gallio]] AD 51–AD 52
@@ -219,11 +224,19 @@ AD 1 – AD 100
 - **Event:** [[connections/world/Destruction of the Second Temple|Destruction of the Second Temple]] AD 70
 - **Thinkers and writers:** [[connections/world/Philo of Alexandria|Philo of Alexandria]] 20 BC–AD 50
 - **Thinkers and writers:** [[connections/world/Josephus|Josephus]] AD 37–AD 100
+- **Event:** [[connections/world/Crucifixion of Jesus|Crucifixion of Jesus]] AD 30
+- **Event:** [[connections/world/Resurrection of Jesus|Resurrection of Jesus]] AD 30
+- **Event:** [[connections/world/Great Fire of Rome|Great Fire of Rome]] AD 64
+- **Event:** [[connections/world/Siege of Masada|Siege of Masada]] AD 73
+- **Event:** [[connections/world/Eruption of Vesuvius|Eruption of Vesuvius]] AD 79
+- **Thinkers and writers:** [[connections/world/Ignatius of Antioch|Ignatius of Antioch]] AD 35–AD 108
+- **Thinkers and writers:** [[connections/world/Justin Martyr|Justin Martyr]] AD 100–AD 165
 - **Synchronism:** Fifteenth year of Tiberius ([[connections/chapters/42-luke/Luke 3|Luke 3:1]]) — modern AD 28, Ussher AD 26
 - **Synchronism:** Death of Herod Agrippa I ([[connections/chapters/44-acts/Acts 12|Acts 12:23]]) — modern AD 44, Ussher AD 44
 - **Synchronism:** Claudius expels the Jews from Rome ([[connections/chapters/44-acts/Acts 18|Acts 18:2]]) — modern AD 49, Ussher AD 54
 - **Synchronism:** Paul before Gallio ([[connections/chapters/44-acts/Acts 18|Acts 18:12]]) — modern AD 51, Ussher AD 54
 - **Synchronism:** Festus succeeds Felix ([[connections/chapters/44-acts/Acts 24|Acts 24:27]]) — modern AD 60, Ussher AD 60
+- **Synchronism:** Crucifixion under Pontius Pilate ([[connections/chapters/40-matthew/Matthew 27|Matthew 27:26]]) — modern AD 30, Ussher AD 33
 
 ## Passages dated to this century *(Ussher)*
 

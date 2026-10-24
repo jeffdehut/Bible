@@ -1,0 +1,22 @@
+---
+type: "period"
+stream: "Americas"
+start: "AD 250"
+start_year: 250
+end: "AD 900"
+end_year: 900
+approximate: true
+tags: ["world", "period"]
+---
+
+# Classic Maya
+
+**Americas** · c. [[connections/timeline/3rd century AD|AD 250]] – [[connections/timeline/9th century AD|AD 900]] *(modern dates)*
+
+*Era*
+
+The Classic period of Maya civilization
+
+**Centuries:** [[connections/timeline/3rd century AD|3rd century AD]] · [[connections/timeline/4th century AD|4th century AD]] · [[connections/timeline/5th century AD|5th century AD]] · [[connections/timeline/6th century AD|6th century AD]] · [[connections/timeline/7th century AD|7th century AD]] · [[connections/timeline/8th century AD|8th century AD]] · [[connections/timeline/9th century AD|9th century AD]]
+
+**Also in Americas at this time:** [[connections/world/Teotihuacan|Teotihuacan]]

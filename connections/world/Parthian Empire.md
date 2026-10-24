@@ -3,8 +3,8 @@ type: "period"
 stream: "Persia"
 start: "247 BC"
 start_year: -246
-end: "AD 100"
-end_year: 100
+end: "AD 224"
+end_year: 224
 approximate: false
 wikidata: "Q1986139"
 tags: ["world", "period"]
@@ -12,15 +12,15 @@ tags: ["world", "period"]
 
 # Parthian Empire
 
-**Persia** · [[connections/timeline/3rd century BC|247 BC]] – [[connections/timeline/1st century AD|AD 100]] *(modern dates)*
+**Persia** · [[connections/timeline/3rd century BC|247 BC]] – [[connections/timeline/3rd century AD|AD 224]] *(modern dates)*
 
 *Era*
 
-Continues to AD 224
-
 [Wikidata Q1986139](https://www.wikidata.org/wiki/Q1986139)
 
-**Centuries:** [[connections/timeline/3rd century BC|3rd century BC]] · [[connections/timeline/2nd century BC|2nd century BC]] · [[connections/timeline/1st century BC|1st century BC]] · [[connections/timeline/1st century AD|1st century AD]]
+**Centuries:** [[connections/timeline/3rd century BC|3rd century BC]] · [[connections/timeline/2nd century BC|2nd century BC]] · [[connections/timeline/1st century BC|1st century BC]] · [[connections/timeline/1st century AD|1st century AD]] · [[connections/timeline/2nd century AD|2nd century AD]] · [[connections/timeline/3rd century AD|3rd century AD]]
+
+**Also in Persia at this time:** [[connections/world/Sasanian Empire|Sasanian Empire]]
 
 ## Bible events in these years *(Ussher–Jones dates)*
 
