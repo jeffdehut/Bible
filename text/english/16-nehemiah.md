@@ -1046,3 +1046,86 @@
 [^12-22]: Or "the Jeshanah Gate"; see 3:6.
 [^12-23]: Hebrew *terumot*: things set apart and given for a sacred purpose.
 [^12-24]: The Hebrew text is written "a leader" but read "leaders".
+
+## Chapter 13
+
+*Status: draft*
+
+**1** On that day the book of Moses was read aloud in the hearing of the people, and it was found written in it that no Ammonite or Moabite should ever enter the assembly of God,
+
+**2** because they had not met the Israelites with bread and water, but had hired Balaam against them to curse them. But our God turned the curse into a blessing.[^13-1]
+
+**3** When the people heard the Law, they separated from Israel everyone of mixed descent.[^13-2]
+
+**4** Before this, Eliashib the priest, who had been put in charge of the storerooms of the house of our God, and who was related to Tobiah,
+
+**5** had prepared for Tobiah a large storeroom where they had previously kept the grain offerings, the frankincense, the articles, and the tithes of grain, new wine and olive oil commanded for the Levites, the singers and the gatekeepers, and the contributions[^13-3] for the priests.
+
+**6** While all this was happening I was not in Jerusalem, for in the thirty-second year of Artaxerxes king of Babylon[^13-4] I had gone to the king. After some time I asked the king for leave
+
+**7** and came to Jerusalem. Then I learned of the evil that Eliashib had done for Tobiah, preparing a storeroom for him in the courts of the house of God.
+
+**8** I was very displeased, and I threw all of Tobiah's household goods out of the storeroom.
+
+**9** Then I gave orders, and they purified the storerooms, and I brought back into them the articles of the house of God, with the grain offerings and the frankincense.
+
+**10** I also learned that the portions of the Levites had not been given to them, so that the Levites and the singers who did the work had gone back, each to his own field.[^13-5]
+
+**11** So I confronted the officials and said, "Why is the house of God neglected?" Then I gathered the Levites together and set them at their posts.[^13-6]
+
+**12** And all Judah brought the tithe of the grain, new wine and olive oil into the storehouses.
+
+**13** I put in charge of the storehouses Shelemiah the priest, Zadok the scribe and Pedaiah of the Levites, and as their assistant[^13-7] Hanan son of Zaccur, son of Mattaniah, for they were considered trustworthy. Their duty was to distribute the shares to their kinsmen.
+
+**14** Remember me for this, my God, and do not wipe out the loyal deeds[^13-8] I have done for the house of my God and for its services.
+
+**15** In those days I saw people in Judah treading winepresses on the Sabbath, bringing in heaps of grain and loading them on donkeys, and also wine, grapes, figs and every kind of load, and bringing them into Jerusalem on the Sabbath day. I warned them on the day they sold the food.[^13-9]
+
+**16** People from Tyre who lived in the city were bringing in fish and all kinds of goods and selling them on the Sabbath to the people of Judah, and in Jerusalem.
+
+**17** So I confronted the nobles of Judah and said to them, "What is this evil thing you are doing, profaning the Sabbath day?
+
+**18** Did not your ancestors do the same, so that our God brought all this disaster on us and on this city? Now you are bringing more wrath on Israel by profaning the Sabbath."
+
+**19** When the gates of Jerusalem began to grow dark before the Sabbath, I gave orders for the doors to be shut, and I ordered that they were not to be opened until after the Sabbath. I stationed some of my servants at the gates, so that no load would come in on the Sabbath day.
+
+**20** Once or twice the merchants and the sellers of all kinds of goods spent the night outside Jerusalem.
+
+**21** But I warned them and said to them, "Why are you spending the night in front of the wall? If you do it again, I will lay hands on you." From that time on they did not come on the Sabbath.
+
+**22** Then I told the Levites to purify themselves and to come and guard the gates, to keep the Sabbath day holy. Remember this also in my favor, my God, and spare me according to the greatness of your faithful love.[^13-10]
+
+**23** In those days I also saw Jews who had married[^13-11] women of Ashdod, Ammon and Moab.
+
+**24** Half of their children spoke the language of Ashdod,[^13-12] and they could not speak the language of Judah, but only the language of one people or another.
+
+**25** I confronted them and cursed them. I beat some of the men and pulled out their hair. I made them swear by God, "You shall not give your daughters to their sons, and you shall not take any of their daughters for your sons or for yourselves.[^13-13]
+
+**26** Was it not because of women like these that Solomon king of Israel sinned? Among the many nations there was no king like him. He was loved by his God, and God made him king over all Israel. Yet foreign women made even him sin.[^13-14]
+
+**27** Shall we then listen to you[^13-15] and do all this great evil, acting unfaithfully toward our God by marrying foreign women?"
+
+**28** One of the sons of Joiada son of Eliashib the high priest was a son-in-law of Sanballat the Horonite, so I drove him away from me.
+
+**29** Remember them, my God, for they have defiled the priesthood and the covenant of the priesthood and of the Levites.[^13-16]
+
+**30** So I purified them from everything foreign, and I set up the duties of the priests and the Levites, each in his own work,
+
+**31** and I provided for the wood offering at the appointed times, and for the firstfruits. Remember me for good, my God.
+
+[^13-1]: Deuteronomy 23:4–6 (English 23:3–5). On Balaam, see Numbers 22–24.
+[^13-2]: Hebrew *erev*, "mixture". Compare the "mixed crowd" that left Egypt with Israel (Exodus 12:38).
+[^13-3]: Hebrew *terumah*: something set apart and given for a sacred purpose.
+[^13-4]: 433 BC. The Persian kings also ruled Babylon and used the title "king of Babylon".
+[^13-5]: Literally "had fled, each to his field".
+[^13-6]: Literally "I gathered them and made them stand at their standing", probably the Levites and singers of verse 10.
+[^13-7]: Literally "and at their hand".
+[^13-8]: Hebrew *chasadai*, plural of *chesed*: here deeds of loyalty and faithfulness.
+[^13-9]: Or "I warned them against selling food on that day".
+[^13-10]: Hebrew *chesed*: loyal, faithful love.
+[^13-11]: Literally "who had settled", that is, taken them into their homes as wives. Also in verse 27.
+[^13-12]: Hebrew *ashdodit*, the language of the people of Ashdod, a Philistine city.
+[^13-13]: Compare 10:31 and Deuteronomy 7:3.
+[^13-14]: See 1 Kings 3:12–13; 11:1–8; 2 Samuel 12:24–25.
+[^13-15]: Or "Must we hear of you".
+[^13-16]: Compare Numbers 25:12–13; Malachi 2:4–8.

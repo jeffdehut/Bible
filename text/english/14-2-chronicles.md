@@ -1741,3 +1741,638 @@
 [^27-5]: A talent was about 75 pounds (34 kg), so a hundred talents was about 7,500 pounds (3,400 kg).
 [^27-6]: A kor was probably about 6 bushels (220 liters).
 [^27-7]: Literally "lay down with his fathers", a way of speaking of death.
+
+## Chapter 28
+
+*Status: draft*
+
+**1** Ahaz was twenty years old when he became king, and he reigned sixteen years in Jerusalem. He did not do what was right in the eyes of Yahweh,[^28-1] as his ancestor[^28-2] David had done.
+
+**2** He walked in the ways of the kings of Israel, and he even made cast images for the Baals.[^28-3]
+
+**3** He burned incense in the Valley of Ben-hinnom[^28-4] and burned his sons in the fire,[^28-5] following the detestable practices of the nations whom Yahweh had driven out before the Israelites.
+
+**4** He sacrificed and burned incense at the high places,[^28-6] on the hills and under every green tree.
+
+**5** So Yahweh his God handed him over to the king of Aram. They defeated him and took many of his people captive and brought them to Damascus. He was also handed over to the king of Israel, who struck him with a great slaughter.
+
+**6** Pekah son of Remaliah killed 120,000 in Judah in one day, all of them valiant men, because they had abandoned Yahweh, the God of their ancestors.
+
+**7** Zichri, a mighty warrior of Ephraim, killed Maaseiah the king's son, Azrikam the official in charge of the palace, and Elkanah, who was second to the king.
+
+**8** The Israelites took captive from their relatives[^28-7] two hundred thousand women, sons and daughters. They also took a great amount of plunder from them, and they brought the plunder to Samaria.
+
+**9** But a prophet of Yahweh was there, whose name was Oded. He went out to meet the army as it came to Samaria and said to them, "Look, because Yahweh, the God of your ancestors, was angry with Judah, he handed them over to you. But you have killed them in a rage that has reached up to heaven.
+
+**10** And now you intend to make the people of Judah and Jerusalem your male and female slaves. But are you yourselves not guilty of sins against Yahweh your God?
+
+**11** Now listen to me, and send back the captives you have taken from your relatives, for the burning anger of Yahweh is on you."
+
+**12** Then some of the leaders of the Ephraimites, Azariah son of Johanan, Berechiah son of Meshillemoth, Jehizkiah son of Shallum and Amasa son of Hadlai, stood up against those who were coming back from the campaign.
+
+**13** They said to them, "You must not bring the captives here, for you intend to bring guilt on us before Yahweh, adding to our sins and our guilt. Our guilt is already great, and there is burning anger against Israel."
+
+**14** So the armed men left the captives and the plunder before the officials and the whole assembly.
+
+**15** Then the men who had been named[^28-8] got up and took charge of the captives. With the plunder they clothed all who were naked among them. They gave them clothes and sandals, gave them food and drink, and anointed them with oil. They put all who were weak on donkeys and brought them to Jericho, the city of palm trees, to their relatives. Then they returned to Samaria.
+
+**16** At that time King Ahaz sent to the kings[^28-9] of Assyria for help.
+
+**17** Again the Edomites had come and attacked Judah and carried away captives.
+
+**18** The Philistines had raided the cities of the Shephelah[^28-10] and the Negev[^28-11] of Judah. They had captured Beth-shemesh, Aijalon and Gederoth, Soco with its villages,[^28-12] Timnah with its villages and Gimzo with its villages, and they settled there.
+
+**19** For Yahweh humbled Judah because of Ahaz king of Israel,[^28-13] for he had let Judah run wild[^28-14] and had been very unfaithful[^28-15] to Yahweh.
+
+**20** Tilgath-pilneser[^28-16] king of Assyria came against him and oppressed him instead of strengthening him.
+
+**21** For Ahaz took a share from the house of Yahweh, from the king's house and from the officials, and gave it to the king of Assyria, but it did not help him.
+
+**22** In the time of his distress he became even more unfaithful to Yahweh, this same King Ahaz.
+
+**23** He sacrificed to the gods of Damascus, who had defeated him, for he said, "Because the gods of the kings of Aram help them, I will sacrifice to them so that they will help me." But they were the ruin of him and of all Israel.
+
+**24** Ahaz gathered together the utensils of the house of God and cut the utensils of the house of God in pieces. He shut the doors of the house of Yahweh, and he made himself altars on every street corner in Jerusalem.
+
+**25** In every city of Judah he made high places to burn incense to other gods, and he provoked Yahweh, the God of his ancestors, to anger.
+
+**26** The rest of his acts and all his ways, from first to last, are written in the book of the kings of Judah and Israel.
+
+**27** Ahaz slept with his ancestors,[^28-17] and they buried him in the city, in Jerusalem, but they did not bring him into the tombs of the kings of Israel.[^28-18] And his son Hezekiah became king in his place.
+
+[^28-1]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles. Verses 1–4 parallel 2 Kings 16:2–4.
+[^28-2]: Literally "his father".
+[^28-3]: Plural of *Baal*, "lord, master": the Canaanite god Baal, worshiped in many local forms.
+[^28-4]: Literally "the valley of the son of Hinnom", south and west of Jerusalem. Its name was later shortened to *Gehenna*.
+[^28-5]: That is, he offered them as burnt sacrifices (Deuteronomy 18:10). 2 Kings 16:3 has "he made his son pass through the fire".
+[^28-6]: Hebrew *bamot*: places of worship, often on hilltops. Also in verse 25.
+[^28-7]: Literally "their brothers". Also in verses 11 and 15.
+[^28-8]: That is, the leaders named in verse 12.
+[^28-9]: Plural in the Hebrew. Compare verse 20 and 2 Kings 16:7.
+[^28-10]: The low hills between the hill country of Judah and the coastal plain.
+[^28-11]: The dry region in the south of Judah.
+[^28-12]: Literally "its daughters". Also later in the verse.
+[^28-13]: Chronicles sometimes uses "Israel" for Judah (21:2).
+[^28-14]: Or "he had acted without restraint in Judah". The meaning of the Hebrew is uncertain.
+[^28-15]: Hebrew *ma'al*: to break faith, to betray a trust (12:2). Also in verse 22.
+[^28-16]: Tiglath-pileser III, king of Assyria about 745–727 BC (2 Kings 15:29; 16:7–10).
+[^28-17]: Literally "lay down with his fathers", a way of speaking of death.
+[^28-18]: 2 Kings 16:20 says he was buried with his ancestors in the City of David.
+
+## Chapter 29
+
+*Status: draft*
+
+**1** Hezekiah became king when he was twenty-five years old, and he reigned twenty-nine years in Jerusalem. His mother's name was Abijah[^29-1] daughter of Zechariah.
+
+**2** He did what was right in the eyes of Yahweh,[^29-2] just as his ancestor[^29-3] David had done.
+
+**3** In the first year of his reign, in the first month, he opened the doors of the house of Yahweh and repaired them.
+
+**4** He brought in the priests and the Levites and gathered them in the square on the east.
+
+**5** He said to them, "Listen to me, Levites! Consecrate yourselves now, and consecrate the house of Yahweh, the God of your ancestors. Carry the filth out of the holy place.
+
+**6** For our ancestors were unfaithful[^29-4] and did what was evil in the eyes of Yahweh our God. They abandoned him. They turned their faces away from the dwelling place[^29-5] of Yahweh and turned their backs on it.
+
+**7** They also shut the doors of the porch and put out the lamps. They did not burn incense or offer burnt offerings in the holy place to the God of Israel.
+
+**8** So the wrath of Yahweh came on Judah and Jerusalem, and he made them an object of terror, horror and hissing,[^29-6] as you see with your own eyes.
+
+**9** Look, our fathers have fallen by the sword, and our sons, our daughters and our wives are in captivity because of this.
+
+**10** Now it is in my heart to make a covenant with Yahweh, the God of Israel, so that his burning anger may turn away from us.
+
+**11** My sons, do not be negligent now, for Yahweh has chosen you to stand before him and serve him, and to be his ministers and burn incense."
+
+**12** Then the Levites set to work: Mahath son of Amasai and Joel son of Azariah, of the descendants of Kohath; of the descendants of Merari, Kish son of Abdi and Azariah son of Jehallelel; of the Gershonites, Joah son of Zimmah and Eden son of Joah;
+
+**13** of the descendants of Elizaphan, Shimri and Jeiel; of the descendants of Asaph, Zechariah and Mattaniah;
+
+**14** of the descendants of Heman, Jehiel and Shimei; and of the descendants of Jeduthun, Shemaiah and Uzziel.
+
+**15** They gathered their brothers and consecrated themselves, and they came, as the king had commanded by the words of Yahweh, to purify the house of Yahweh.
+
+**16** The priests went into the inner part of the house of Yahweh to purify it, and they brought out into the courtyard of the house of Yahweh all the unclean things they found in the temple of Yahweh.[^29-7] The Levites took them and carried them out to the Kidron Valley.
+
+**17** They began the consecration on the first day of the first month, and on the eighth day of the month they reached the porch of Yahweh. They consecrated the house of Yahweh for eight days, and on the sixteenth day of the first month they finished.
+
+**18** Then they went in to King Hezekiah and said, "We have purified the whole house of Yahweh, the altar of burnt offering with all its utensils, and the table for the rows of bread[^29-8] with all its utensils.
+
+**19** All the utensils that King Ahaz discarded during his reign, in his unfaithfulness, we have prepared and consecrated. They are now in front of the altar of Yahweh."
+
+**20** Early the next morning King Hezekiah gathered the officials of the city and went up to the house of Yahweh.
+
+**21** They brought seven bulls, seven rams, seven lambs and seven male goats as a sin offering[^29-9] for the kingdom, for the sanctuary and for Judah. He told the priests, the descendants of Aaron, to offer them on the altar of Yahweh.
+
+**22** So they slaughtered the bulls, and the priests received the blood and splashed it on the altar. They slaughtered the rams and splashed the blood on the altar. They slaughtered the lambs and splashed the blood on the altar.
+
+**23** Then they brought the male goats for the sin offering before the king and the assembly, and they laid their hands on them.
+
+**24** The priests slaughtered them and made a sin offering with their blood on the altar,[^29-10] to make atonement for all Israel, for the king had ordered the burnt offering and the sin offering for all Israel.
+
+**25** He stationed the Levites in the house of Yahweh with cymbals, harps and lyres, as commanded by David, by Gad the king's seer and by Nathan the prophet, for the command came from Yahweh through his prophets.
+
+**26** The Levites stood with the instruments of David, and the priests with the trumpets.
+
+**27** Then Hezekiah gave the order to offer the burnt offering on the altar. When the burnt offering began, the song of Yahweh began too, with the trumpets, accompanied by the instruments of David king of Israel.
+
+**28** The whole assembly was bowing down, the singers were singing and the trumpeters were sounding. All this continued until the burnt offering was finished.
+
+**29** When the offering was finished, the king and all who were present with him knelt down and worshiped.
+
+**30** King Hezekiah and the officials told the Levites to praise Yahweh with the words of David and of Asaph the seer. So they sang praises with joy, and they bowed down and worshiped.
+
+**31** Then Hezekiah said, "Now you have consecrated yourselves[^29-11] to Yahweh. Come near and bring sacrifices and thank offerings[^29-12] to the house of Yahweh." So the assembly brought sacrifices and thank offerings, and all who were willing in heart brought burnt offerings.
+
+**32** The number of the burnt offerings that the assembly brought was seventy bulls, a hundred rams and two hundred lambs. All these were for a burnt offering to Yahweh.
+
+**33** The consecrated offerings were six hundred cattle and three thousand sheep and goats.
+
+**34** But the priests were too few, and they could not skin all the burnt offerings. So their relatives the Levites helped them until the work was finished and until the other priests had consecrated themselves, for the Levites had been more conscientious[^29-13] in consecrating themselves than the priests.
+
+**35** Besides, there were burnt offerings in abundance, with the fat of the fellowship offerings[^29-14] and with the drink offerings for the burnt offerings. So the service of the house of Yahweh was restored.
+
+**36** Hezekiah and all the people rejoiced over what God had prepared for the people, for it had come about suddenly.
+
+[^29-1]: Called Abi in 2 Kings 18:2. Verses 1–2 parallel 2 Kings 18:2–3.
+[^29-2]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^29-3]: Literally "his father".
+[^29-4]: Hebrew *ma'al*: to break faith, to betray a trust (12:2). Also in verse 19.
+[^29-5]: Hebrew *mishkan*, the word for the tabernacle, here used of the temple.
+[^29-6]: Or "whistling", a sound of shock or scorn.
+[^29-7]: Hebrew *heikhal*: here the main hall of the temple (26:16).
+[^29-8]: The table for the bread of the Presence, set out in rows (2:3; 13:11).
+[^29-9]: Or "purification offering". Hebrew *chatta't*. Also in verses 23 and 24.
+[^29-10]: Or "purified the altar with their blood".
+[^29-11]: Literally "you have filled your hand", the idiom used for ordaining a priest (13:9).
+[^29-12]: Hebrew *todot*: sacrifices given in thanksgiving (Leviticus 7:12). Also later in the verse.
+[^29-13]: Literally "more upright of heart".
+[^29-14]: Hebrew *shelamim*, traditionally "peace offerings": sacrifices shared in a meal by the worshipers.
+
+## Chapter 30
+
+*Status: draft*
+
+**1** Hezekiah sent word to all Israel and Judah, and he also wrote letters to Ephraim and Manasseh, for them to come to the house of Yahweh[^30-1] in Jerusalem to keep the Passover to Yahweh, the God of Israel.
+
+**2** The king and his officials and the whole assembly in Jerusalem had decided to keep the Passover in the second month,[^30-2]
+
+**3** for they had not been able to keep it at the proper time,[^30-3] because not enough priests had consecrated themselves, and the people had not gathered in Jerusalem.
+
+**4** The plan seemed right to the king and to the whole assembly.
+
+**5** So they decided to send a proclamation throughout all Israel, from Beersheba to Dan, for the people to come to keep the Passover to Yahweh, the God of Israel, in Jerusalem, for they had not kept it in great numbers,[^30-4] as it is written.
+
+**6** The couriers[^30-5] went throughout all Israel and Judah with letters from the king and his officials, as the king had commanded, saying, "Israelites, return to Yahweh, the God of Abraham, Isaac and Israel, so that he may return to those of you who are left, who have escaped from the hand of the kings of Assyria.
+
+**7** Do not be like your ancestors and your brothers, who were unfaithful[^30-6] to Yahweh, the God of their ancestors, so that he made them an object of horror, as you see.
+
+**8** Now do not be stiff-necked, as your ancestors were. Submit to Yahweh[^30-7] and come to his sanctuary, which he has consecrated forever, and serve Yahweh your God, so that his burning anger may turn away from you.
+
+**9** For if you return to Yahweh, your brothers and your children will find compassion with their captors and will return to this land. For Yahweh your God is gracious and compassionate, and he will not turn his face away from you if you return to him."
+
+**10** So the couriers went from city to city through the land of Ephraim and Manasseh, as far as Zebulun, but people laughed at them and mocked them.
+
+**11** Yet some men from Asher, Manasseh and Zebulun humbled themselves and came to Jerusalem.
+
+**12** In Judah also the hand of God was at work, giving them one heart to carry out the command of the king and the officials, by the word of Yahweh.
+
+**13** A large crowd gathered in Jerusalem to keep the Festival of Unleavened Bread in the second month, a very great assembly.
+
+**14** They set to work and removed the altars that were in Jerusalem. They also removed all the incense altars and threw them into the Kidron Valley.
+
+**15** They slaughtered the Passover lamb on the fourteenth day of the second month. The priests and the Levites were ashamed, and they consecrated themselves and brought burnt offerings to the house of Yahweh.
+
+**16** They took their places according to their regulations, following the Law of Moses the man of God. The priests splashed the blood that they received from the Levites.
+
+**17** For many in the assembly had not consecrated themselves, so the Levites were in charge of slaughtering the Passover lambs for everyone who was not clean, to consecrate them to Yahweh.
+
+**18** For most of the people, many from Ephraim, Manasseh, Issachar and Zebulun, had not purified themselves, yet they ate the Passover, contrary to what is written. But Hezekiah prayed for them, saying, "May Yahweh, who is good, provide atonement[^30-8] for
+
+**19** everyone who has set his heart on seeking God, Yahweh, the God of his ancestors, even if he is not clean by the rules of purity for the holy place."
+
+**20** Yahweh listened to Hezekiah and healed the people.
+
+**21** The Israelites who were present in Jerusalem kept the Festival of Unleavened Bread for seven days with great joy. The Levites and the priests praised Yahweh day after day with loud instruments for Yahweh.[^30-9]
+
+**22** Hezekiah spoke encouragingly[^30-10] to all the Levites who showed good understanding in the service of Yahweh. They ate the festival meals for the seven days, offering fellowship offerings[^30-11] and giving thanks[^30-12] to Yahweh, the God of their ancestors.
+
+**23** Then the whole assembly decided to keep the festival for another seven days, and they kept another seven days with joy.
+
+**24** For Hezekiah king of Judah gave the assembly a thousand bulls and seven thousand sheep and goats, and the officials gave the assembly a thousand bulls and ten thousand sheep and goats. And a great number of priests consecrated themselves.
+
+**25** The whole assembly of Judah rejoiced, together with the priests and the Levites, and the whole assembly that came from Israel, and the foreigners[^30-13] who came from the land of Israel and those who lived in Judah.
+
+**26** There was great joy in Jerusalem, for since the days of Solomon son of David king of Israel there had been nothing like this in Jerusalem.
+
+**27** Then the Levitical priests[^30-14] stood up and blessed the people. Their voice was heard, and their prayer reached his holy dwelling place in heaven.
+
+[^30-1]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^30-2]: Numbers 9:9–11 allows those who are unclean or away on a journey to keep the Passover in the second month.
+[^30-3]: Literally "at that time", that is, in the first month (Exodus 12:2–6).
+[^30-4]: Or "for a long time".
+[^30-5]: Literally "the runners". Also in verse 10.
+[^30-6]: Hebrew *ma'al*: to break faith, to betray a trust (12:2).
+[^30-7]: Literally "Give a hand to Yahweh."
+[^30-8]: Hebrew *kipper*, "make atonement".
+[^30-9]: Literally "with instruments of strength for Yahweh".
+[^30-10]: Literally "spoke to the heart of".
+[^30-11]: Hebrew *shelamim*, traditionally "peace offerings": sacrifices shared in a meal by the worshipers.
+[^30-12]: Or "making confession".
+[^30-13]: Hebrew *gerim*: foreigners living among the Israelites.
+[^30-14]: Literally "the priests, the Levites".
+
+## Chapter 31
+
+*Status: draft*
+
+**1** When all this was finished, all Israel who were present went out to the cities of Judah. They smashed the standing stones,[^31-1] cut down the Asherah poles,[^31-2] and tore down the high places[^31-3] and the altars throughout all Judah and Benjamin, and in Ephraim and Manasseh, until they had destroyed them all. Then all the Israelites returned to their cities, each to his own property.
+
+**2** Hezekiah appointed the divisions of the priests and the Levites, division by division, each according to his service, both the priests and the Levites, for the burnt offerings and the fellowship offerings,[^31-4] to minister, to give thanks and to praise in the gates of the camp of Yahweh.[^31-5]
+
+**3** The king's share from his own possessions was for the burnt offerings: the morning and evening burnt offerings, and the burnt offerings for the Sabbaths, the new moons and the appointed festivals, as it is written in the law of Yahweh.
+
+**4** He told the people, those who lived in Jerusalem, to give the share due to the priests and the Levites, so that they could devote themselves to the law of Yahweh.
+
+**5** As soon as the word spread, the Israelites gave in abundance the firstfruits of grain, new wine, olive oil, honey[^31-6] and all the produce of the field. They brought in a tithe of everything in abundance.
+
+**6** The people of Israel and Judah who lived in the cities of Judah also brought a tithe of cattle and sheep, and a tithe of the holy things that had been consecrated to Yahweh their God, and they laid them in heaps.
+
+**7** In the third month they began to lay the foundations of the heaps, and they finished in the seventh month.[^31-7]
+
+**8** When Hezekiah and the officials came and saw the heaps, they blessed Yahweh and his people Israel.
+
+**9** Hezekiah asked the priests and the Levites about the heaps.
+
+**10** Azariah the chief priest, of the house of Zadok, answered him, "Since the people began to bring the contributions[^31-8] into the house of Yahweh, we have eaten and had enough, with plenty left over, for Yahweh has blessed his people. This great amount is what is left over."
+
+**11** Then Hezekiah gave orders to prepare storerooms in the house of Yahweh, and they prepared them.
+
+**12** They faithfully brought in the contributions, the tithes and the consecrated things. Conaniah the Levite was in charge of them, and his brother Shimei was second.
+
+**13** Jehiel, Azaziah, Nahath, Asahel, Jerimoth, Jozabad, Eliel, Ismachiah, Mahath and Benaiah were overseers under Conaniah and his brother Shimei, by the appointment of King Hezekiah and of Azariah the official in charge of the house of God.
+
+**14** Kore son of Imnah the Levite, the gatekeeper on the east side, was in charge of the freewill offerings to God, to distribute the contribution for Yahweh and the most holy things.[^31-9]
+
+**15** Under him were Eden, Miniamin, Jeshua, Shemaiah, Amariah and Shecaniah in the cities of the priests, faithfully distributing to their brothers by divisions, to great and small alike,
+
+**16** apart from those enrolled by genealogy, males three years old and upward,[^31-10] all who entered the house of Yahweh for their daily duty, for their service in their offices according to their divisions.
+
+**17** The enrollment of the priests was by their ancestral families,[^31-11] and that of the Levites twenty years old and upward was by their offices, by their divisions.
+
+**18** They were enrolled with all their little ones, their wives, their sons and their daughters, the whole community, for they had faithfully consecrated themselves as holy.
+
+**19** As for the descendants of Aaron, the priests, who lived in the pasturelands[^31-12] around their cities, in every city there were men designated by name to distribute portions to every male among the priests and to everyone enrolled among the Levites.
+
+**20** Hezekiah did this throughout Judah. He did what was good, right and faithful before Yahweh his God.
+
+**21** In every work that he undertook in the service of the house of God, and in the law and the command, seeking his God, he acted with all his heart, and he prospered.
+
+[^31-1]: Hebrew *matsevot*: standing stones set up as objects of worship.
+[^31-2]: Hebrew *asherim*: wooden poles or trees that were symbols of the goddess Asherah.
+[^31-3]: Hebrew *bamot*: places of worship, often on hilltops.
+[^31-4]: Hebrew *shelamim*, traditionally "peace offerings": sacrifices shared in a meal by the worshipers.
+[^31-5]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles. Literally "the camps of Yahweh", that is, the temple courts (compare 1 Chronicles 9:18–19).
+[^31-6]: Hebrew *devash*: honey, or a syrup made from fruit such as dates.
+[^31-7]: The third month was the time of the wheat harvest and the Festival of Weeks, and the seventh month the end of the fruit harvest and the Festival of Shelters.
+[^31-8]: Hebrew *terumah*: something set apart and given for a sacred purpose (Exodus 25:2). Also in verses 12 and 14.
+[^31-9]: The portions of the offerings that only the priests could eat (Leviticus 6:10, 22; English 6:17, 29).
+[^31-10]: The sense of the verse is uncertain. Some read "thirty years old" (compare 1 Chronicles 23:3).
+[^31-11]: Literally "by the house of their fathers".
+[^31-12]: Hebrew *migrash*: the open land around the towns, used for grazing (11:14; Numbers 35:2–5).
+
+## Chapter 32
+
+*Status: draft*
+
+**1** After these acts of faithfulness,[^32-1] Sennacherib king of Assyria came and invaded Judah.[^32-2] He besieged the fortified cities and intended to break into them for himself.
+
+**2** When Hezekiah saw that Sennacherib had come and that he intended to make war on Jerusalem,
+
+**3** he consulted with his officials and his warriors about stopping up the water of the springs outside the city, and they helped him.
+
+**4** A large number of people gathered and stopped up all the springs and the stream that flowed through the land. "Why should the kings of Assyria come and find plenty of water?" they said.
+
+**5** He worked hard and rebuilt all the wall that had been broken down, and raised towers on it,[^32-3] and he built another wall outside it. He strengthened the Millo[^32-4] in the City of David, and he made weapons and shields in great numbers.
+
+**6** He appointed military commanders over the people and gathered them to him in the square at the city gate, and he spoke encouragingly to them:[^32-5]
+
+**7** "Be strong and courageous. Do not be afraid or dismayed before the king of Assyria and all the horde that is with him, for there is more with us than with him.
+
+**8** With him is an arm of flesh,[^32-6] but with us is Yahweh[^32-7] our God to help us and to fight our battles." And the people took confidence from the words of Hezekiah king of Judah.
+
+**9** After this, while Sennacherib king of Assyria was at Lachish with all his forces, he sent his servants to Jerusalem, to Hezekiah king of Judah and to all the people of Judah who were in Jerusalem, saying,
+
+**10** "This is what Sennacherib king of Assyria says: On what are you relying, that you stay in Jerusalem under siege?
+
+**11** Is not Hezekiah misleading you, to hand you over to die by hunger and thirst, when he says, 'Yahweh our God will rescue us from the hand of the king of Assyria'?
+
+**12** Is not this Hezekiah the one who removed his high places[^32-8] and his altars and said to Judah and Jerusalem, 'You must worship before one altar, and on it you must burn incense'?
+
+**13** Do you not know what I and my ancestors have done to all the peoples of the lands? Were the gods of the nations of the lands at all able to rescue their land from my hand?
+
+**14** Who among all the gods of those nations that my ancestors destroyed[^32-9] was able to rescue his people from my hand, that your God should be able to rescue you from my hand?
+
+**15** So now do not let Hezekiah deceive you or mislead you like this. Do not believe him, for no god of any nation or kingdom has been able to rescue his people from my hand or from the hand of my ancestors. How much less will your God rescue you from my hand!"
+
+**16** His servants said still more against Yahweh God and against his servant Hezekiah.
+
+**17** He also wrote letters to insult Yahweh, the God of Israel, and to speak against him, saying, "Just as the gods of the nations of the lands did not rescue their people from my hand, so the God of Hezekiah will not rescue his people from my hand."
+
+**18** They called out in a loud voice in the language of Judah[^32-10] to the people of Jerusalem who were on the wall, to frighten them and terrify them, so that they could capture the city.
+
+**19** They spoke about the God of Jerusalem as they spoke about the gods of the peoples of the earth, the work of human hands.
+
+**20** Then King Hezekiah and Isaiah the prophet son of Amoz prayed about this and cried out to heaven.
+
+**21** Yahweh sent an angel,[^32-11] who wiped out every mighty warrior, leader and commander in the camp of the king of Assyria. So he returned in disgrace to his own land. When he went into the house of his god, some of his own sons[^32-12] struck him down there with the sword.
+
+**22** So Yahweh saved Hezekiah and the inhabitants of Jerusalem from the hand of Sennacherib king of Assyria and from the hand of all others, and he guided them on every side.[^32-13]
+
+**23** Many brought offerings to Yahweh in Jerusalem and precious gifts to Hezekiah king of Judah, and from then on he was exalted in the eyes of all the nations.
+
+**24** In those days Hezekiah became sick and was at the point of death. He prayed to Yahweh, who spoke to him and gave him a sign.[^32-14]
+
+**25** But Hezekiah did not respond in keeping with the kindness done to him, for his heart was proud. So wrath came on him and on Judah and Jerusalem.
+
+**26** Then Hezekiah humbled himself for the pride of his heart, both he and the inhabitants of Jerusalem, so that the wrath of Yahweh did not come on them in the days of Hezekiah.
+
+**27** Hezekiah had very great riches and honor. He made himself treasuries for silver, gold, precious stones, spices, shields and all kinds of costly articles,
+
+**28** storehouses for the produce of grain, new wine and olive oil, stalls for all kinds of livestock, and folds for the flocks.[^32-15]
+
+**29** He made cities for himself, and he had flocks and herds in abundance, for God had given him very great wealth.
+
+**30** It was Hezekiah who stopped up the upper outlet of the waters of the Gihon and channeled them down to the west side of the City of David.[^32-16] Hezekiah prospered in all his works.
+
+**31** But in the matter of the envoys of the officials of Babylon, who had been sent to him to inquire about the sign that had happened in the land, God left him to himself, to test him and to know all that was in his heart.[^32-17]
+
+**32** The rest of the acts of Hezekiah and his deeds of faithful love[^32-18] are written in the vision of Isaiah the prophet son of Amoz, in the book of the kings of Judah and Israel.[^32-19]
+
+**33** Hezekiah slept with his ancestors,[^32-20] and they buried him on the ascent[^32-21] to the tombs of the descendants of David. All Judah and the inhabitants of Jerusalem honored him at his death. And his son Manasseh became king in his place.
+
+[^32-1]: Literally "After these things and this faithfulness".
+[^32-2]: Verses 1–23 give a shorter account of the events in 2 Kings 18:13–19:37 and Isaiah 36–37, which took place in 701 BC.
+[^32-3]: Literally "and he went up on the towers". The meaning is uncertain.
+[^32-4]: Hebrew *millo*, "filling": probably a terrace or earthwork supporting buildings in the City of David.
+[^32-5]: Literally "spoke to their heart".
+[^32-6]: That is, mere human strength.
+[^32-7]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^32-8]: Hebrew *bamot*: places of worship, often on hilltops.
+[^32-9]: Hebrew *charam*: to give something over completely to a god, which in war meant destroying it.
+[^32-10]: Literally "in Judean", that is, Hebrew (2 Kings 18:26, 28).
+[^32-11]: Or "messenger". Hebrew *mal'akh* means both.
+[^32-12]: Literally "some of those who came out of his own body". See 2 Kings 19:37.
+[^32-13]: The Septuagint and the Vulgate read "and he gave them rest on every side".
+[^32-14]: See 2 Kings 20:1–11 and Isaiah 38.
+[^32-15]: Literally "and flocks for folds".
+[^32-16]: Probably the tunnel that still carries water from the Gihon spring to the Pool of Siloam in Jerusalem (2 Kings 20:20).
+[^32-17]: See 2 Kings 20:12–19 and Isaiah 39.
+[^32-18]: Hebrew *chasadim*, plural of *chesed*, "faithful love".
+[^32-19]: Compare Isaiah 1:1.
+[^32-20]: Literally "lay down with his fathers", a way of speaking of death.
+[^32-21]: Or "in the upper part of".
+
+## Chapter 33
+
+*Status: draft*
+
+**1** Manasseh was twelve years old when he became king, and he reigned fifty-five years in Jerusalem.[^33-1]
+
+**2** He did what was evil in the eyes of Yahweh,[^33-2] following the detestable practices of the nations whom Yahweh had driven out before the Israelites.
+
+**3** He rebuilt the high places[^33-3] that his father Hezekiah had torn down. He set up altars for the Baals[^33-4] and made Asherah poles.[^33-5] He bowed down to all the host of heaven[^33-6] and served them.
+
+**4** He built altars in the house of Yahweh, of which Yahweh had said, "My name will be in Jerusalem forever."
+
+**5** He built altars for all the host of heaven in the two courtyards of the house of Yahweh.
+
+**6** He made his sons pass through the fire[^33-7] in the Valley of Ben-hinnom.[^33-8] He told fortunes, interpreted omens and practiced sorcery, and he appointed mediums and spiritists.[^33-9] He did much evil in the eyes of Yahweh, provoking him to anger.
+
+**7** He put the carved image of the idol[^33-10] that he had made in the house of God, of which God had said to David and to his son Solomon, "In this house, and in Jerusalem, which I have chosen out of all the tribes of Israel, I will put my name forever.
+
+**8** I will not again remove the feet of Israel from the land that I appointed for your ancestors, if only they will be careful to do all that I have commanded them, all the law, the decrees and the rulings given through Moses."
+
+**9** But Manasseh led Judah and the inhabitants of Jerusalem astray, so that they did more evil than the nations whom Yahweh had destroyed before the Israelites.
+
+**10** Yahweh spoke to Manasseh and to his people, but they paid no attention.
+
+**11** So Yahweh brought against them the commanders of the army of the king of Assyria. They captured Manasseh with hooks,[^33-11] bound him with bronze chains and took him to Babylon.[^33-12]
+
+**12** In his distress he sought the favor of Yahweh his God,[^33-13] and he humbled himself greatly before the God of his ancestors.
+
+**13** He prayed to him, and God was moved by his entreaty and heard his plea, and he brought him back to Jerusalem, to his kingdom. Then Manasseh knew that Yahweh is God.[^33-14]
+
+**14** After this he built an outer wall for the City of David, west of the Gihon in the valley, as far as the entrance at the Fish Gate. He encircled the Ophel[^33-15] with it and made it very high. He put army commanders in all the fortified cities of Judah.
+
+**15** He removed the foreign gods and the idol from the house of Yahweh, and all the altars he had built on the mountain of the house of Yahweh and in Jerusalem, and he threw them out of the city.
+
+**16** He rebuilt[^33-16] the altar of Yahweh and sacrificed on it fellowship offerings[^33-17] and thank offerings,[^33-18] and he told Judah to serve Yahweh, the God of Israel.
+
+**17** But the people still sacrificed at the high places, though only to Yahweh their God.
+
+**18** The rest of the acts of Manasseh, his prayer to his God, and the words of the seers who spoke to him in the name of Yahweh, the God of Israel, are in the records[^33-19] of the kings of Israel.
+
+**19** His prayer, and how God was moved by his entreaty, all his sin and his unfaithfulness,[^33-20] and the sites where he built high places and set up the Asherah poles and the carved images before he humbled himself, are written in the records of Hozai.[^33-21]
+
+**20** Manasseh slept with his ancestors,[^33-22] and they buried him in his house.[^33-23] And his son Amon became king in his place.
+
+**21** Amon was twenty-two years old when he became king, and he reigned two years in Jerusalem.
+
+**22** He did what was evil in the eyes of Yahweh, as his father Manasseh had done. Amon sacrificed to all the carved images that his father Manasseh had made, and he served them.
+
+**23** He did not humble himself before Yahweh as his father Manasseh had humbled himself, but this same Amon increased his guilt.
+
+**24** His officials conspired against him and killed him in his palace.
+
+**25** But the people of the land[^33-24] struck down all who had conspired against King Amon, and the people of the land made his son Josiah king in his place.
+
+[^33-1]: Verses 1–9 and 18–25 parallel 2 Kings 21:1–9 and 17–24.
+[^33-2]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^33-3]: Hebrew *bamot*: places of worship, often on hilltops. Also in verses 17 and 19.
+[^33-4]: Plural of *Baal*, "lord, master": the Canaanite god Baal, worshiped in many local forms.
+[^33-5]: Hebrew *asherot*, plural of *Asherah*: wooden poles or trees that were symbols of the goddess Asherah.
+[^33-6]: The sun, moon and stars, worshiped as gods. Also in verse 5.
+[^33-7]: That is, he burned them as sacrifices (28:3; Deuteronomy 18:10).
+[^33-8]: Literally "the valley of the son of Hinnom", south and west of Jerusalem (28:3).
+[^33-9]: Hebrew *ov* and *yidde'oni*: people who claimed to call up the spirits of the dead, or the spirits themselves.
+[^33-10]: Hebrew *semel*, "image, statue". Also in verse 15. 2 Kings 21:7 has "the carved image of Asherah".
+[^33-11]: Or "in the thickets". Hebrew *choachim*.
+[^33-12]: Babylon was then under Assyrian rule.
+[^33-13]: Literally "he soothed the face of Yahweh his God".
+[^33-14]: The Prayer of Manasseh, found among the books of the Apocrypha, was later composed as the prayer mentioned in verses 12–13 and 18–19.
+[^33-15]: The hill on which the City of David stood, south of the temple (27:3).
+[^33-16]: The Hebrew text is written "he prepared" but read "he built".
+[^33-17]: Hebrew *shelamim*, traditionally "peace offerings": sacrifices shared in a meal by the worshipers.
+[^33-18]: Hebrew *todah*: a sacrifice given in thanksgiving (Leviticus 7:12).
+[^33-19]: Literally "the words". Also in verse 19.
+[^33-20]: Hebrew *ma'al*: breaking faith, betraying a trust (12:2).
+[^33-21]: Or "the seers". The Septuagint reads "the seers".
+[^33-22]: Literally "lay down with his fathers", a way of speaking of death.
+[^33-23]: 2 Kings 21:18 has "in the garden of his palace, the garden of Uzza".
+[^33-24]: Hebrew *am ha-arets*, the landowning citizens of Judah, who often took part in choosing the king (23:13).
+
+## Chapter 34
+
+*Status: draft*
+
+**1** Josiah was eight years old when he became king, and he reigned thirty-one years in Jerusalem.[^34-1]
+
+**2** He did what was right in the eyes of Yahweh[^34-2] and walked in the ways of his ancestor[^34-3] David. He did not turn aside to the right or to the left.
+
+**3** In the eighth year of his reign, while he was still young, he began to seek the God of his ancestor David, and in the twelfth year he began to purify Judah and Jerusalem of the high places,[^34-4] the Asherah poles,[^34-5] the carved images and the cast images.
+
+**4** In his presence they tore down the altars of the Baals,[^34-6] and he cut down the incense altars[^34-7] that stood above them. He smashed the Asherah poles, the carved images and the cast images and crushed them to dust, and he scattered it over the graves of those who had sacrificed to them.
+
+**5** He burned the bones of the priests on their altars,[^34-8] and so he purified Judah and Jerusalem.
+
+**6** In the cities of Manasseh, Ephraim and Simeon, as far as Naphtali, in their ruins all around,[^34-9]
+
+**7** he tore down the altars and the Asherah poles, beat the carved images into powder and cut down all the incense altars throughout the land of Israel. Then he returned to Jerusalem.
+
+**8** In the eighteenth year of his reign, when he had purified the land and the house, he sent Shaphan son of Azaliah, Maaseiah the governor of the city and Joah son of Joahaz, the recorder,[^34-10] to repair the house of Yahweh his God.
+
+**9** They came to Hilkiah the high priest and gave him the money that had been brought into the house of God, which the Levites who kept the threshold had collected from Manasseh and Ephraim and from all the rest of Israel, and from all Judah and Benjamin. Then they returned to Jerusalem.[^34-11]
+
+**10** They handed it over to the men doing the work, who had been put in charge of the house of Yahweh, and they paid it to the workers in the house of Yahweh to repair and restore the house.
+
+**11** They gave it to the carpenters and the builders to buy dressed stone, and timber for joists and for beams for the buildings that the kings of Judah had let fall into ruin.
+
+**12** The men did the work faithfully. Over them were appointed Jahath and Obadiah the Levites, of the descendants of Merari, and Zechariah and Meshullam, of the descendants of Kohath, to supervise. The Levites, all who were skilled with musical instruments,
+
+**13** were over the carriers of loads and supervised all the workers in every kind of service. Some of the Levites were secretaries, officials[^34-12] and gatekeepers.
+
+**14** While they were bringing out the money that had been brought into the house of Yahweh, Hilkiah the priest found the book of the law of Yahweh given through Moses.
+
+**15** Hilkiah said to Shaphan the secretary, "I have found the book of the Law[^34-13] in the house of Yahweh." And Hilkiah gave the book to Shaphan.
+
+**16** Shaphan brought the book to the king, and he also reported to the king: "Your servants are doing everything that was entrusted to them.
+
+**17** They have emptied out[^34-14] the money that was found in the house of Yahweh and have handed it over to the men in charge and to the men doing the work."
+
+**18** Shaphan the secretary also told the king, "Hilkiah the priest has given me a book." And Shaphan read from it before the king.
+
+**19** When the king heard the words of the Law, he tore his clothes.
+
+**20** The king commanded Hilkiah, Ahikam son of Shaphan, Abdon son of Micah,[^34-15] Shaphan the secretary and Asaiah the king's servant,[^34-16]
+
+**21** "Go and inquire of Yahweh for me and for those who are left in Israel and in Judah, about the words of the book that has been found. For great is the wrath of Yahweh that has been poured out on us, because our ancestors did not keep the word of Yahweh, to do all that is written in this book."
+
+**22** So Hilkiah and those the king had sent[^34-17] went to Huldah the prophet, the wife of Shallum son of Tokhath son of Hasrah,[^34-18] the keeper of the wardrobe. She lived in Jerusalem, in the Second Quarter.[^34-19] They spoke to her about this,
+
+**23** and she said to them, "This is what Yahweh, the God of Israel, says: Tell the man who sent you to me,
+
+**24** 'This is what Yahweh says: I am going to bring disaster on this place and on its inhabitants, all the curses written in the book that was read before the king of Judah.
+
+**25** Because they have abandoned me and burned incense to other gods, provoking me to anger with all the works of their hands, my wrath will be poured out on this place, and it will not be quenched.'
+
+**26** But to the king of Judah, who sent you to inquire of Yahweh, say this: 'This is what Yahweh, the God of Israel, says: As for the words you have heard,
+
+**27** because your heart was tender and you humbled yourself before God when you heard his words against this place and against its inhabitants, and because you humbled yourself before me and tore your clothes and wept before me, I too have heard you, declares Yahweh.
+
+**28** I am going to gather you to your ancestors, and you will be gathered to your grave in peace. Your eyes will not see all the disaster I am going to bring on this place and on its inhabitants.'" And they brought back word to the king.
+
+**29** Then the king sent word and gathered all the elders of Judah and Jerusalem.
+
+**30** The king went up to the house of Yahweh, and with him went all the men of Judah and the inhabitants of Jerusalem, the priests and the Levites,[^34-20] and all the people, from the greatest to the least. He read in their hearing all the words of the book of the covenant that had been found in the house of Yahweh.
+
+**31** The king stood in his place and made a covenant before Yahweh to follow Yahweh and to keep his commands, his statutes[^34-21] and his decrees with all his heart and all his soul, to carry out the words of the covenant that were written in this book.
+
+**32** Then he made all who were present in Jerusalem and Benjamin commit themselves to it.[^34-22] And the inhabitants of Jerusalem acted according to the covenant of God, the God of their ancestors.
+
+**33** Josiah removed all the detestable idols from all the territory that belonged to the Israelites, and he made all who were present in Israel serve Yahweh their God. All his days they did not turn away from following Yahweh, the God of their ancestors.
+
+[^34-1]: Verses 1–2 and 8–32 parallel 2 Kings 22:1–23:3.
+[^34-2]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^34-3]: Literally "his father". Also in verse 3.
+[^34-4]: Hebrew *bamot*: places of worship, often on hilltops.
+[^34-5]: Hebrew *asherim*: wooden poles or trees that were symbols of the goddess Asherah. Also in verses 4 and 7.
+[^34-6]: Plural of *Baal*, "lord, master": the Canaanite god Baal, worshiped in many local forms.
+[^34-7]: Hebrew *chammanim*, a word of uncertain meaning: perhaps incense altars, or sun pillars (14:4). Also in verse 7.
+[^34-8]: Compare 1 Kings 13:2; 2 Kings 23:16, 20.
+[^34-9]: The Hebrew text is written as two words of uncertain meaning, *bhr btyhm*, but read *becharvotehem*, "in their ruins" (or "with their swords").
+[^34-10]: Hebrew *mazkir*: a senior royal official, perhaps in charge of records and announcements.
+[^34-11]: The Hebrew text is written "and the inhabitants of Jerusalem" but read "and they returned to Jerusalem".
+[^34-12]: Hebrew *shoterim*: officers who kept records (19:11).
+[^34-13]: Hebrew *sefer ha-torah*, "the book of the instruction", here the law given through Moses. It is often thought to be a form of Deuteronomy (compare Deuteronomy 28:58–61; 31:24–26).
+[^34-14]: Or "melted down".
+[^34-15]: 2 Kings 22:12 has "Achbor son of Micaiah".
+[^34-16]: The title of a senior royal official.
+[^34-17]: Literally "and those of the king".
+[^34-18]: 2 Kings 22:14 has "Tikvah son of Harhas".
+[^34-19]: Hebrew *ha-mishneh*, "the second", a newer district of Jerusalem (Zephaniah 1:10).
+[^34-20]: 2 Kings 23:2 has "the priests and the prophets".
+[^34-21]: Hebrew *edot*, traditionally "testimonies": the solemn terms of the covenant.
+[^34-22]: Literally "he made stand", that is, in the covenant (2 Kings 23:3).
+
+## Chapter 35
+
+*Status: draft*
+
+**1** Josiah kept the Passover to Yahweh[^35-1] in Jerusalem, and they slaughtered the Passover lamb on the fourteenth day of the first month.
+
+**2** He appointed the priests to their duties and encouraged them in the service of the house of Yahweh.
+
+**3** He said to the Levites, who taught all Israel and who were holy to Yahweh, "Put the holy ark in the house that Solomon son of David king of Israel built. You no longer need to carry it on your shoulders.[^35-2] Now serve Yahweh your God and his people Israel.
+
+**4** Prepare yourselves by your ancestral families,[^35-3] by your divisions, following the written instructions of David king of Israel and of his son Solomon.
+
+**5** Stand in the holy place by the groups of the ancestral families of your relatives, the lay people,[^35-4] so that each group has a share of a Levite family.
+
+**6** Slaughter the Passover lambs, consecrate yourselves and prepare them for your relatives, to do as Yahweh commanded through Moses."
+
+**7** Josiah gave the lay people flocks, lambs and young goats, all for the Passover offerings for all who were present, thirty thousand in number, and three thousand cattle. These were from the king's own possessions.
+
+**8** His officials also gave freely to the people, the priests and the Levites. Hilkiah, Zechariah and Jehiel, the officials in charge of the house of God, gave the priests 2,600 Passover offerings and 300 cattle.
+
+**9** Conaniah, with Shemaiah and Nethanel his brothers, and Hashabiah, Jeiel and Jozabad, the leaders of the Levites, gave the Levites five thousand Passover offerings and five hundred cattle.
+
+**10** So the service was prepared. The priests stood in their places and the Levites in their divisions, as the king had commanded.
+
+**11** They slaughtered the Passover lambs, and the priests splashed the blood they received from them,[^35-5] while the Levites skinned the animals.
+
+**12** They set aside the burnt offerings, to give them to the groups of the ancestral families of the lay people, to offer to Yahweh, as it is written in the book of Moses. They did the same with the cattle.
+
+**13** They roasted the Passover lambs over the fire, as prescribed,[^35-6] and they boiled the holy offerings in pots, cauldrons and pans and carried them quickly to all the lay people.
+
+**14** Afterward they prepared for themselves and for the priests, because the priests, the descendants of Aaron, were busy offering the burnt offerings and the fat portions until night. So the Levites prepared for themselves and for the priests, the descendants of Aaron.
+
+**15** The singers, the descendants of Asaph, were at their posts, as commanded by David, Asaph, Heman and Jeduthun the king's seer, and the gatekeepers were at each gate. They did not need to leave their service, because their relatives the Levites prepared for them.
+
+**16** So all the service of Yahweh was prepared that day, to keep the Passover and to offer burnt offerings on the altar of Yahweh, as King Josiah had commanded.
+
+**17** The Israelites who were present kept the Passover at that time, and the Festival of Unleavened Bread for seven days.
+
+**18** No Passover like it had been kept in Israel since the days of Samuel the prophet. None of the kings of Israel had kept such a Passover as Josiah kept, with the priests, the Levites, all Judah and Israel who were present, and the inhabitants of Jerusalem.[^35-7]
+
+**19** This Passover was kept in the eighteenth year of Josiah's reign.
+
+**20** After all this, when Josiah had set the house in order, Neco king of Egypt went up to fight at Carchemish on the Euphrates,[^35-8] and Josiah went out to meet him.
+
+**21** But Neco sent messengers to him, saying, "What have I to do with you, king of Judah? I am not coming against you today, but against the house with which I am at war, and God has told me to hurry. Stop opposing God, who is with me, or he will destroy you."
+
+**22** But Josiah would not turn away from him. He disguised himself[^35-9] in order to fight him, and he did not listen to the words of Neco from the mouth of God. He came to fight in the plain of Megiddo.
+
+**23** The archers shot King Josiah, and the king said to his servants, "Take me away, for I am badly wounded."
+
+**24** So his servants took him out of the chariot, put him in his second chariot and brought him to Jerusalem. He died and was buried in the tombs of his ancestors. All Judah and Jerusalem mourned for Josiah.
+
+**25** Jeremiah composed laments for Josiah, and all the male and female singers have spoken of Josiah in their laments to this day. They made them a fixed custom[^35-10] in Israel, and they are written in the Laments.[^35-11]
+
+**26** The rest of the acts of Josiah and his deeds of faithful love,[^35-12] in keeping with what is written in the law of Yahweh,
+
+**27** and his acts from first to last, are written in the book of the kings of Israel and Judah.
+
+[^35-1]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles. Verses 1–19 tell more fully of the Passover briefly described in 2 Kings 23:21–23.
+[^35-2]: Literally "There is no burden for you on the shoulder."
+[^35-3]: Literally "by the house of your fathers". Also in verses 5 and 12.
+[^35-4]: Literally "the sons of the people". Also in verses 7, 12 and 13.
+[^35-5]: Literally "from their hand", that is, from the Levites (30:16).
+[^35-6]: Literally "They cooked the Passover in the fire, according to the ruling." Compare Exodus 12:8–9 and Deuteronomy 16:7.
+[^35-7]: 2 Kings 23:22 reads "since the days of the judges who judged Israel".
+[^35-8]: In 609 BC. Carchemish was a city on the upper Euphrates. Verses 20–24 parallel 2 Kings 23:29–30.
+[^35-9]: The Septuagint reads "he strengthened himself".
+[^35-10]: Hebrew *choq*, "decree, fixed rule".
+[^35-11]: A collection of laments. It is not known whether it is related to the book of Lamentations.
+[^35-12]: Hebrew *chasadim*, plural of *chesed*, "faithful love".

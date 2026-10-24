@@ -117,7 +117,8 @@ from the Hebrew.
 **Text.**
 - Translate every verse, and only what is there. Don't add words to make a point clearer: if a
   subject or object has to be supplied, use the one the context gives and keep it minimal
-  (Mark 10:6 says "he made them", with "God" in a note).
+  (Mark 10:6 says "he made them", with "God" in a note). Where a Hebrew clause has no verb and
+  English needs one (Nehemiah 3:25), supply the plainest verb the context implies and note it.
 - Narrative is in the past tense, including Greek and Hebrew historic presents. Mark's εὐθύς is
   "at once" or "immediately", not always "and immediately".
 - American spelling: "honor", "neighbor", "forever", "worshiped", "judgment".
@@ -176,7 +177,8 @@ from the Hebrew.
     has a note giving the verse and its words (Mark 11:25, 15:27).
   Check the single-word variants too: one word can change the meaning (Mark 1:41).
 - **Old Testament variants**: the ketiv/qere, and well-known, well-documented readings of
-  the Septuagint, the Dead Sea Scrolls, the Samaritan Pentateuch, the Syriac or the Vulgate
+  the Septuagint (including 1 Esdras, its parallel to Ezra–Nehemiah), the Dead Sea Scrolls, the
+  Samaritan Pentateuch, the Syriac or the Vulgate
   (for example Deuteronomy 32:8, Psalm 22:17). Name the version: "The Septuagint reads …".
   A well-documented reading of medieval Hebrew manuscripts may be cited as "Some Hebrew
   manuscripts read …". Only note a reading you are sure of. If in doubt, leave it out. Never
