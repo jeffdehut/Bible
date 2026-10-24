@@ -196,7 +196,7 @@
 
 **8** Two or three cities staggered to one city to drink water, and could not drink their fill, yet you did not return to me, declares Yahweh.
 
-**9** I struck you with blight and mildew.[^4-13] Your many gardens and vineyards,[^4-14] your fig trees and your olive trees, the locust[^4-15] devoured, yet you did not return to me, declares Yahweh.
+**9** I struck you with blight and mildew.[^4-13] Your many gardens and vineyards,[^4-14] your fig trees and your olive trees, the cutting locust[^4-15] devoured, yet you did not return to me, declares Yahweh.
 
 **10** I sent a plague among you as I did in Egypt.[^4-16] I killed your young men with the sword, and your horses were captured.[^4-17] I made the stench of your camps rise into your nostrils, yet you did not return to me, declares Yahweh.
 
@@ -220,7 +220,7 @@
 [^4-12]: The late rains of winter and early spring, which the grain needed before the harvest.
 [^4-13]: Blight, scorching by the hot east wind, and mildew, a disease that turns grain yellow, are named together in Deuteronomy 28:22 and 1 Kings 8:37.
 [^4-14]: Literally "the multitude of your gardens and your vineyards". Some scholars read "I laid waste your gardens and your vineyards", with a small change to the Hebrew.
-[^4-15]: Hebrew *gazam*, one of several words for locusts, perhaps a stage in their growth (Joel 1:4).
+[^4-15]: Hebrew *gazam*, one of the four words for locusts in Joel 1:4. They may be different kinds of locust or stages in the insect's growth.
 [^4-16]: Literally "in the way of Egypt", that is, like the plagues of Egypt (Exodus 9:3; Deuteronomy 28:27, 60). Or "on the road to Egypt".
 [^4-17]: Literally "with the captivity of your horses".
 [^4-18]: Genesis 19:24–25. The verb *overthrew* is the word used of their destruction.
@@ -292,7 +292,7 @@
 [^5-2]: Literally "the virgin of Israel", Israel pictured as a young woman who has died before her time.
 [^5-3]: Hebrew *Adonai YHWH*, "my Lord Yahweh", traditionally "the Lord GOD". *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
 [^5-4]: An ancient shrine in the far south of Judah (Genesis 21:33; 26:23–25). On Bethel and Gilgal, see 4:4.
-[^5-5]: Two plays on words. *Ha-gilgal galoh yigleh*, "Gilgal will surely go into exile". *Bethel*, "house of God", will become *aven*, "nothing" or "wickedness". Hosea calls the place Beth-aven, "house of wickedness" (Hosea 4:15).
+[^5-5]: Two plays on words. *Ha-gilgal galoh yigleh*, "Gilgal will surely go into exile". *Bethel*, "house of God", will become *aven*, "nothing" or "wickedness". Hosea uses Beth-aven, "house of wickedness", as a mocking name for Bethel (Hosea 4:15).
 [^5-6]: The northern kingdom, whose chief tribes, Ephraim and Manasseh, were descended from Joseph. Also in verse 15.
 [^5-7]: A bitter plant. Compare 6:12.
 [^5-8]: Hebrew *kimah* and *kesil*, two constellations, probably the Pleiades and Orion (Job 9:9; 38:31). This is the second of the three hymns in Amos (see 4:13).
@@ -359,7 +359,7 @@
 [^6-10]: Hebrew *YHWH Elohei tseva'ot*. See 4:13. Also in verse 14.
 [^6-11]: The meaning is uncertain. Literally "his uncle and the one who burns him". Burning the dead was unusual in Israel and may point to a plague. Or "the one who burns spices for him" in honor of the dead (Jeremiah 34:5).
 [^6-12]: To call on Yahweh, even in a blessing or a vow, might draw his attention and bring more death.
-[^6-13]: Literally "Does one plow with the oxen?" Some scholars read "Does one plow the sea with oxen?", dividing the Hebrew letters differently.
+[^6-13]: Literally "Does one plow with the oxen?" The same letters, divided into words differently, can be read "Does one plow the sea with oxen?"
 [^6-14]: Hebrew *rosh*, a poisonous plant. On wormwood, see 5:7.
 [^6-15]: Hebrew *lo davar*, which means "nothing". Lo-debar and Karnaim, "horns", a picture of strength, were towns in Gilead, east of the Jordan, which Israel had recently taken back from Aram (2 Samuel 9:4; 2 Kings 14:25).
 [^6-16]: Lebo-hamath, "the entrance to Hamath", was on the northern border of Israel, and the Wadi of the Arabah near the Dead Sea, in the south. These were the borders that Jeroboam II had restored (2 Kings 14:25).
@@ -368,59 +368,60 @@
 
 *Status: draft*
 
-**1** This is what the Lord Yahweh[^7-1] showed me: he was forming a swarm of locusts when the late crop[^7-2] was beginning to come up. It was the late crop after the king's mowings.[^7-3]
+**1** This is what the Lord Yahweh[^7-1] showed me: he was forming a swarm of locusts[^7-2] when the late crop[^7-3] was beginning to come up. It was the late crop after the king's mowings.[^7-4]
 
-**2** When they had finished eating the plants of the land, I said, "Lord Yahweh, forgive, please! How can Jacob survive?[^7-4] He is so small."
+**2** When they had finished eating the plants of the land, I said, "Lord Yahweh, forgive, please! How can Jacob survive?[^7-5] He is so small."
 
-**3** Yahweh relented[^7-5] concerning this. "It will not happen," said Yahweh.
+**3** Yahweh relented[^7-6] concerning this. "It will not happen," said Yahweh.
 
-**4** This is what the Lord Yahweh showed me: the Lord Yahweh was calling for judgment by fire.[^7-6] It devoured the great deep[^7-7] and was devouring the land.[^7-8]
+**4** This is what the Lord Yahweh showed me: the Lord Yahweh was calling for judgment by fire.[^7-7] It devoured the great deep[^7-8] and was devouring the land.[^7-9]
 
 **5** Then I said, "Lord Yahweh, stop, please! How can Jacob survive? He is so small."
 
 **6** Yahweh relented concerning this. "This too will not happen," said the Lord Yahweh.
 
-**7** This is what he showed me: the Lord was standing beside a wall built with a plumb line, with a plumb line in his hand.[^7-9]
+**7** This is what he showed me: the Lord was standing beside a wall built with a plumb line, with a plumb line in his hand.[^7-10]
 
-**8** Yahweh said to me, "What do you see, Amos?" I said, "A plumb line." Then the Lord said, "Look, I am setting a plumb line among my people Israel. I will not pass them by again.[^7-10]
+**8** Yahweh said to me, "What do you see, Amos?" I said, "A plumb line." Then the Lord said, "Look, I am setting a plumb line among my people Israel. I will not pass them by again.[^7-11]
 
-**9** The high places[^7-11] of Isaac[^7-12] will be made desolate, and the sanctuaries of Israel will be laid waste. I will rise against the house of Jeroboam with the sword."
+**9** The high places[^7-12] of Isaac[^7-13] will be made desolate, and the sanctuaries of Israel will be laid waste. I will rise against the house of Jeroboam with the sword."
 
 **10** Then Amaziah the priest of Bethel sent a message to Jeroboam king of Israel: "Amos has conspired against you in the very heart of the house of Israel. The land cannot bear all his words.
 
 **11** For this is what Amos has said: 'Jeroboam will die by the sword, and Israel will surely go into exile away from its land.'"
 
-**12** Amaziah said to Amos, "Seer,[^7-13] go! Run away to the land of Judah. Earn your living[^7-14] there, and prophesy there.
+**12** Amaziah said to Amos, "Seer,[^7-14] go! Run away to the land of Judah. Earn your living[^7-15] there, and prophesy there.
 
-**13** But never prophesy at Bethel again, for it is the king's sanctuary and a royal temple."[^7-15]
+**13** But never prophesy at Bethel again, for it is the king's sanctuary and a royal temple."[^7-16]
 
-**14** Amos answered Amaziah, "I am not a prophet, and I am not a prophet's son.[^7-16] I am a herdsman and a tender of sycamore figs.[^7-17]
+**14** Amos answered Amaziah, "I am not a prophet, and I am not a prophet's son.[^7-17] I am a herdsman and a tender of sycamore figs.[^7-18]
 
 **15** But Yahweh took me from following the flock, and Yahweh said to me, 'Go, prophesy to my people Israel.'
 
-**16** So now hear the word of Yahweh. You say, 'Do not prophesy against Israel, and do not preach[^7-18] against the house of Isaac.'
+**16** So now hear the word of Yahweh. You say, 'Do not prophesy against Israel, and do not preach[^7-19] against the house of Isaac.'
 
-**17** Therefore this is what Yahweh says: Your wife will become a prostitute in the city, and your sons and your daughters will fall by the sword. Your land will be divided up with a measuring line, and you yourself will die in an unclean land.[^7-19] And Israel will surely go into exile away from its land."
+**17** Therefore this is what Yahweh says: Your wife will become a prostitute in the city, and your sons and your daughters will fall by the sword. Your land will be divided up with a measuring line, and you yourself will die in an unclean land.[^7-20] And Israel will surely go into exile away from its land."
 
 [^7-1]: Hebrew *Adonai YHWH*, "my Lord Yahweh", traditionally "the Lord GOD". *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles. Also in verses 2, 4, 5 and 6.
-[^7-2]: Hebrew *leqesh*, the later growth of grass and grain after the spring rains.
-[^7-3]: Perhaps the first cutting of the grass, taken as a tax for the king's animals (1 Kings 18:5). After it, the late crop was all the people had.
-[^7-4]: Literally "Who is Jacob, that he could stand?" Also in verse 5.
-[^7-5]: Or "changed his mind". Also in verse 6.
-[^7-6]: Literally "calling to contend by fire", as in a lawsuit. Some scholars read "calling for a shower of fire", with a small change to the Hebrew.
-[^7-7]: Hebrew *tehom rabbah*, the waters under the earth that fed the springs and rivers (Genesis 7:11).
-[^7-8]: Literally "the portion", perhaps the land allotted to Israel.
-[^7-9]: Hebrew *anakh*, found only in verses 7–8. The traditional meaning is "plumb line", a cord with a weight of lead, used to test whether a wall stands straight. The word may instead mean "tin", a metal used in making weapons: "standing on a wall of tin, with tin in his hand".
-[^7-10]: That is, I will no longer pass over their sins and spare them. Also in 8:2.
-[^7-11]: Hill shrines where sacrifices were offered.
-[^7-12]: A poetic name for Israel, found only in Amos (also verse 16). Isaac was the father of Jacob.
-[^7-13]: Hebrew *chozeh*, "one who sees visions", from the verb in 1:1.
-[^7-14]: Literally "eat bread".
-[^7-15]: Literally "a house of the kingdom".
-[^7-16]: The Hebrew has no verb. Or "I was not a prophet …; I was a herdsman". A *prophet's son* is a member of a group of prophets (2 Kings 2:3, 5).
-[^7-17]: The fruit of the sycamore-fig tree had to be slit or pinched to make it ripen. The tree does not grow at the height of Tekoa (1:1), so Amos may have worked in the lowlands.
-[^7-18]: Literally "drip", as words flow from the mouth (Micah 2:6, 11).
-[^7-19]: A foreign land, unclean because other gods are worshiped there.
+[^7-2]: Hebrew *govai*, a word for locusts not among the four in Joel 1:4 (compare Nahum 3:17).
+[^7-3]: Hebrew *leqesh*, the later growth of grass and grain after the spring rains.
+[^7-4]: Perhaps the first cutting of the grass, taken as a tax for the king's animals (1 Kings 18:5). After it, the late crop was all the people had.
+[^7-5]: Literally "Who is Jacob, that he could stand?" Also in verse 5.
+[^7-6]: Or "changed his mind". Also in verse 6.
+[^7-7]: Literally "calling to contend by fire", as in a lawsuit. Some scholars read "calling for a shower of fire", with a small change to the Hebrew.
+[^7-8]: Hebrew *tehom rabbah*, the waters under the earth that fed the springs and rivers (Genesis 7:11).
+[^7-9]: Literally "the portion", perhaps the land allotted to Israel.
+[^7-10]: Hebrew *anakh*, found only in verses 7–8. The traditional meaning is "plumb line", a cord with a weight of lead, used to test whether a wall stands straight. The word may instead mean "tin", a metal used in making weapons: "standing on a wall of tin, with tin in his hand".
+[^7-11]: That is, I will no longer pass over their sins and spare them. Also in 8:2.
+[^7-12]: Hill shrines where sacrifices were offered.
+[^7-13]: A poetic name for Israel, found only in Amos (also verse 16). Isaac was the father of Jacob.
+[^7-14]: Hebrew *chozeh*, "one who sees visions", from the verb in 1:1.
+[^7-15]: Literally "eat bread".
+[^7-16]: Literally "a house of the kingdom".
+[^7-17]: The Hebrew has no verb. Or "I was not a prophet …; I was a herdsman". A *prophet's son* is a member of a group of prophets (2 Kings 2:3, 5).
+[^7-18]: The fruit of the sycamore-fig tree had to be slit or pinched to make it ripen. The tree does not grow at the height of Tekoa (1:1), so Amos may have worked in the lowlands.
+[^7-19]: Literally "drip", as words flow from the mouth (Micah 2:6, 11).
+[^7-20]: A foreign land, unclean because other gods are worshiped there.
 
 ## Chapter 8
 

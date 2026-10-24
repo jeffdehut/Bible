@@ -272,9 +272,9 @@
 
 **5** My people, remember what Balak king of Moab planned and what Balaam son of Beor answered him,[^6-4] and what happened from Shittim to Gilgal,[^6-5] so that you may know the saving acts[^6-6] of Yahweh.
 
-**6** With what shall I come before Yahweh and bow down before God on high? Shall I come before him with burnt offerings, with calves a year old?
+**6** "With what shall I come before Yahweh[^6-x1] and bow down before God on high? Shall I come before him with burnt offerings, with calves a year old?
 
-**7** Will Yahweh be pleased with thousands of rams, with ten thousand rivers of oil? Shall I give my firstborn for my rebellion, the fruit of my body for the sin of my soul?[^6-7]
+**7** Will Yahweh be pleased with thousands of rams, with ten thousand rivers of oil? Shall I give my firstborn for my rebellion, the fruit of my body for the sin of my soul?"[^6-7]
 
 **8** He has told you, mortal,[^6-8] what is good. And what does Yahweh require of you but to do justice, to love faithful love,[^6-9] and to walk humbly[^6-10] with your God?
 
@@ -316,6 +316,7 @@
 [^6-20]: Omri and his son Ahab, kings of Israel in the ninth century BC, built Samaria and promoted the worship of Baal. Ahab took Naboth's vineyard by fraud and murder (1 Kings 16:23–33; 21).
 [^6-21]: People whistled in horror at the sight of a ruin (Jeremiah 19:8). *The city's inhabitants* is literally "her inhabitants".
 [^6-22]: The Septuagint reads "the scorn of peoples".
+[^6-x1]: In verses 6–7 a worshiper asks what Yahweh wants, and in verse 8 the prophet answers.
 
 ## Chapter 7
 

@@ -59,54 +59,55 @@
 
 *Status: draft*
 
-**1** Look, on the mountains, the feet of one who brings good news, who proclaims peace![^2-1] Celebrate your festivals, Judah; fulfill your vows. For never again will the wicked one[^2-2] pass through you; he is completely cut off.
+**1** Look, on the mountains, the feet of the one who brings good news,[^2-1] who proclaims peace![^2-2] Celebrate your festivals, Judah; fulfill your vows. For never again will the wicked one[^2-3] pass through you; he is completely cut off.
 
-**2** One who scatters[^2-3] has come up against you. Guard the fortress! Watch the road! Brace yourself![^2-4] Gather all your strength!
+**2** One who scatters[^2-4] has come up against you. Guard the fortress! Watch the road! Brace yourself![^2-5] Gather all your strength!
 
-**3** For Yahweh[^2-5] is restoring the pride of Jacob, like the pride of Israel, for plunderers have plundered them and ruined their vine branches.
+**3** For Yahweh[^2-6] is restoring the pride of Jacob, like the pride of Israel, for plunderers have plundered them and ruined their vine branches.
 
-**4** The shields of his warriors are red;[^2-6] his soldiers are clothed in scarlet. The chariots flash like fire[^2-7] on the day he prepares for battle, and the spears[^2-8] are brandished.
+**4** The shields of his warriors are red;[^2-7] his soldiers are clothed in scarlet. The chariots flash like fire[^2-8] on the day he prepares for battle, and the spears[^2-9] are brandished.
 
 **5** The chariots race madly through the streets; they rush back and forth in the squares. They look like torches; they dart about like lightning.
 
-**6** He summons his nobles;[^2-9] they stumble as they go. They hurry to her wall, and the siege shield[^2-10] is set up.
+**6** He summons his nobles;[^2-10] they stumble as they go. They hurry to her wall, and the siege shield[^2-11] is set up.
 
-**7** The gates of the rivers are opened,[^2-11] and the palace melts away.
+**7** The gates of the rivers are opened,[^2-12] and the palace melts away.
 
-**8** It is decided:[^2-12] she is stripped and carried away. Her slave women moan like the sound of doves and beat their breasts.
+**8** It is decided:[^2-13] she is stripped and carried away. Her slave women moan like the sound of doves and beat their breasts.
 
-**9** Nineveh is like a pool of water whose waters are draining away.[^2-13] "Stop! Stop!" they cry, but no one turns back.
+**9** Nineveh is like a pool of water whose waters are draining away.[^2-14] "Stop! Stop!" they cry, but no one turns back.
 
 **10** Plunder the silver! Plunder the gold! There is no end to the treasure, the wealth of every kind of precious thing.
 
-**11** Emptiness, desolation and ruin![^2-14] Hearts melt, knees give way, every waist trembles,[^2-15] and every face turns pale.[^2-16]
+**11** Emptiness, desolation and ruin![^2-15] Hearts melt, knees give way, every waist trembles,[^2-16] and every face turns pale.[^2-17]
 
-**12** Where is the lions' den now, the feeding place of the young lions, where the lion and the lioness went, and the lion's cub, with no one to make them afraid?[^2-17]
+**12** Where is the lions' den now, the feeding place of the young lions, where the lion and the lioness went, and the lion's cub, with no one to make them afraid?[^2-18]
 
 **13** The lion tore enough for his cubs and strangled prey for his lionesses. He filled his caves with prey and his dens with torn flesh.
 
-**14** Look, I am against you, declares Yahweh of Armies.[^2-18] I will burn your chariots[^2-19] in smoke, and the sword will devour your young lions. I will cut off your prey from the earth, and the voice of your messengers[^2-20] will be heard no more.
+**14** Look, I am against you, declares Yahweh of Armies.[^2-19] I will burn your chariots[^2-20] in smoke, and the sword will devour your young lions. I will cut off your prey from the earth, and the voice of your messengers[^2-21] will be heard no more.
 
-[^2-1]: Verse 1 is 1:15 in most English Bibles, and verses 2–14 are 2:1–13. The first line is close to Isaiah 52:7, which Paul quotes in Romans 10:15.
-[^2-2]: Hebrew *beliyya'al*, "worthlessness" (1:11), here the Assyrian enemy.
-[^2-3]: Or "a shatterer". Some scholars read *mappets*, "a war club" (Jeremiah 51:20), with a small change to the Hebrew. The commands that follow are spoken to Nineveh, in mockery.
-[^2-4]: Literally "Strengthen your loins".
-[^2-5]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
-[^2-6]: The attacking army, the Babylonians and the Medes. Their shields may have been painted red or covered with red leather.
-[^2-7]: Literally "with the fire of *peladot* are the chariots". The Hebrew word *peladot* is found only here, and its meaning is uncertain: perhaps "steel" or "torches".
-[^2-8]: Literally "the cypresses", spears with shafts of cypress wood. The Septuagint reads "the horsemen".
-[^2-9]: Literally "He remembers his mighty ones". He may be the king of Nineveh or the commander of the attackers.
-[^2-10]: Hebrew *sokhekh*, a shelter that protected soldiers attacking a city wall.
-[^2-11]: Perhaps the sluice gates of the canals and rivers around Nineveh, or the city gates by the river.
-[^2-12]: The meaning of the first words is uncertain. The older English translations took the Hebrew *hutsav*, "it is fixed", as the name of a queen, Huzzab.
-[^2-13]: The Hebrew is difficult. Literally "Nineveh is like a pool of water from the days that she is, and they are fleeing". The Septuagint reads "Nineveh is like a pool of water; her waters …".
-[^2-14]: Hebrew *buqah u-mevuqah u-mevullaqah*, three words of similar sound and meaning.
-[^2-15]: Literally "there is anguish in all loins".
-[^2-16]: Literally "all faces gather a glow". The meaning of the Hebrew is uncertain (compare Joel 2:6).
-[^2-17]: The kings of Assyria compared themselves to lions and were proud of hunting them. Nineveh is pictured as their den, filled with prey from the nations.
-[^2-18]: Hebrew *YHWH tseva'ot*, traditionally "the LORD of hosts" or "the LORD Almighty". *Tseva'ot* means armies: the heavenly hosts and the armies of Israel. *Declares Yahweh* is Hebrew *ne'um YHWH*, "the declaration of Yahweh", a formula that marks a prophet's words as Yahweh's own solemn statement.
-[^2-19]: Literally "her chariots". The Hebrew moves between "you" and "her".
-[^2-20]: The envoys of Assyria, who carried its demands to subject peoples (2 Kings 18:17–35; 19:9–13).
+[^2-1]: Hebrew *mevasser*, from *basar*, "bring good news", as in Isaiah 40:9 and 52:7.
+[^2-2]: Verse 1 is 1:15 in most English Bibles, and verses 2–14 are 2:1–13. The first line is close to Isaiah 52:7, which Paul quotes in Romans 10:15.
+[^2-3]: Hebrew *beliyya'al*, "worthlessness" (1:11), here the Assyrian enemy.
+[^2-4]: Or "a shatterer". Some scholars read *mappets*, "a war club" (Jeremiah 51:20), with a small change to the Hebrew. The commands that follow are spoken to Nineveh, in mockery.
+[^2-5]: Literally "Strengthen your loins".
+[^2-6]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^2-7]: The attacking army, the Babylonians and the Medes. Their shields may have been painted red or covered with red leather.
+[^2-8]: Literally "with the fire of *peladot* are the chariots". The Hebrew word *peladot* is found only here, and its meaning is uncertain: perhaps "steel" or "torches".
+[^2-9]: Literally "the cypresses", spears with shafts of cypress wood. The Septuagint reads "the horsemen".
+[^2-10]: Literally "He remembers his mighty ones". He may be the king of Nineveh or the commander of the attackers.
+[^2-11]: Hebrew *sokhekh*, a shelter that protected soldiers attacking a city wall.
+[^2-12]: Perhaps the sluice gates of the canals and rivers around Nineveh, or the city gates by the river.
+[^2-13]: The meaning of the first words is uncertain. The older English translations took the Hebrew *hutsav*, "it is fixed", as the name of a queen, Huzzab.
+[^2-14]: The Hebrew is difficult. Literally "Nineveh is like a pool of water from the days that she is, and they are fleeing". The Septuagint reads "Nineveh is like a pool of water; her waters …".
+[^2-15]: Hebrew *buqah u-mevuqah u-mevullaqah*, three words of similar sound and meaning.
+[^2-16]: Literally "there is anguish in all loins".
+[^2-17]: Literally "all faces gather a glow". The meaning of the Hebrew is uncertain (compare Joel 2:6).
+[^2-18]: The kings of Assyria compared themselves to lions and were proud of hunting them. Nineveh is pictured as their den, filled with prey from the nations.
+[^2-19]: Hebrew *YHWH tseva'ot*, traditionally "the LORD of hosts" or "the LORD Almighty". *Tseva'ot* means armies: the heavenly hosts and the armies of Israel. *Declares Yahweh* is Hebrew *ne'um YHWH*, "the declaration of Yahweh", a formula that marks a prophet's words as Yahweh's own solemn statement.
+[^2-20]: Literally "her chariots". The Hebrew moves between "you" and "her".
+[^2-21]: The envoys of Assyria, who carried its demands to subject peoples (2 Kings 18:17–35; 19:9–13).
 
 ## Chapter 3
 
@@ -118,7 +119,7 @@
 
 **3** Horsemen charging, flashing swords and glittering spears! Many slain, heaps of corpses, bodies without end! They stumble over the bodies.
 
-**4** All because of the many acts of prostitution of the prostitute, so charming, the mistress of sorceries, who sells nations by her prostitution and peoples[^3-2] by her sorceries.[^3-3]
+**4** All because of the endless prostitution of the prostitute, so charming, the mistress of sorceries, who sells nations by her prostitution and peoples[^3-2] by her sorceries.[^3-3]
 
 **5** Look, I am against you, declares Yahweh of Armies.[^3-4] I will lift your skirts over your face. I will show the nations your nakedness, and the kingdoms your shame.[^3-5]
 
@@ -140,11 +141,11 @@
 
 **14** Draw water for the siege! Strengthen your fortresses! Go into the clay and tread the mortar! Take hold of the brick mold![^3-14]
 
-**15** There the fire will devour you; the sword will cut you off. It will devour you as the locust does.[^3-15] Multiply like the locust! Multiply like the swarming locust!
+**15** There the fire will devour you; the sword will cut you off. It will devour you as the hopping locust does.[^3-15] Multiply like the hopping locust! Multiply like the swarming locust!
 
-**16** You have increased your merchants more than the stars of the sky. The locust strips the land[^3-16] and flies away.
+**16** You have increased your merchants more than the stars of the sky. The hopping locust strips the land[^3-16] and flies away.
 
-**17** Your guards are like the swarming locusts, your officials[^3-17] like swarms of locusts that settle on the walls on a cold day. When the sun rises, they fly away, and no one knows where they are.
+**17** Your guards are like the swarming locust, your officials[^3-17] like swarms of locusts that settle on the walls on a cold day. When the sun rises, they fly away, and no one knows where they are.
 
 **18** Your shepherds are asleep, king of Assyria; your nobles lie down to rest.[^3-18] Your people are scattered on the mountains, and there is no one to gather them.
 
@@ -164,7 +165,7 @@
 [^3-12]: Or "you will faint". The meaning of the Hebrew is uncertain.
 [^3-13]: That is, weak and unable to fight (Isaiah 19:16; Jeremiah 50:37). The Hebrew is feminine throughout verses 11–17, addressing Nineveh.
 [^3-14]: Or "the brick kiln". The walls of Nineveh were built of sun-dried brick. The commands are mockery: no preparations will save the city.
-[^3-15]: Hebrew *yeleq*, one of several words for locusts (Joel 1:4). Also in verse 16. *Swarming locust* is *arbeh*.
+[^3-15]: Hebrew *yeleq*, the "hopping locust" of Joel 1:4. Also in verse 16. The *swarming locust* is *arbeh*, the usual word for locust (also in verse 17). In verse 17, *swarms of locusts* is Hebrew *gov govai*.
 [^3-16]: Or "sheds its skin". *The land* is added.
 [^3-17]: Hebrew *minnezarayikh* and *tafsarayikh*, both rare words for officials, perhaps borrowed from the Assyrian language (Jeremiah 51:27).
 [^3-18]: The rulers of Assyria are asleep in death. *Lie down to rest* is literally "dwell". Some scholars read "sleep", with a small change to the Hebrew.

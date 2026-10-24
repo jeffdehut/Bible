@@ -73,7 +73,7 @@ Decisions marked **proposed** are used in the pilot and are open for review.
 | Time of day | modern equivalent in the text, the original in a note | e.g. "about four in the afternoon" for "the tenth hour". |
 | Units of length, weight, volume; money | the original unit in the text, its approximate value in a note | e.g. "three hundred denarii" with the note "About a year's wages for a laborer"; "a cubit" with "About 18 inches (45 cm)". The note is given at the unit's first occurrence in each chapter. |
 | יהוה צְבָאוֹת | Yahweh of Armies (proposed) | Traditionally "the LORD of hosts" or "the LORD Almighty". *Tseva'ot* means armies: the heavenly hosts and the armies of Israel. Noted at its first occurrence in each chapter. |
-| אֲדֹנָי (Adonai), of God | the Lord | אֲדֹנָי יְהוִה is "the Lord Yahweh". |
+| אֲדֹנָי (Adonai), of God | the Lord | אֲדֹנָי יְהוִה is "the Lord Yahweh", noted at its first occurrence in a book (`Hebrew *Adonai YHWH*, "my Lord Yahweh".`); a note in each later chapter is optional. |
 | אֵל שַׁדַּי, שַׁדַּי | God Almighty, the Almighty | Hebrew *(El) Shaddai*; the meaning is uncertain. Noted at its first occurrence in each chapter. |
 | הַלְלוּ־יָהּ (hallelu-yah) | Praise Yah! | Noted at its first occurrence in each psalm: "Hebrew *hallelu-yah*, 'praise Yah', the source of the word 'Hallelujah'". *Yah* is a short form of the divine name. |
 | יְהוָה מָלָךְ (Psalms 93, 96–99) | Yahweh reigns! | "Or 'Yahweh has become king!'", noted at 93:1. |

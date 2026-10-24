@@ -15,9 +15,9 @@
 
 **4** So the law[^1-5] grows numb, and justice never goes out. For the wicked surround the righteous, so justice goes out twisted.
 
-**5** Look among the nations and see![^1-6] Be astonished, be amazed! For I am doing a deed[^1-7] in your days that you would not believe if you were told.
+**5** "Look among the nations and see![^1-6] Be astonished, be amazed! For I am doing a deed[^1-7] in your days that you would not believe if you were told.
 
-**6** For look, I am raising up the Chaldeans,[^1-8] that bitter and hasty nation, which marches through the breadth of the earth to seize dwellings that are not its own.
+**6** For look, I am raising up the Babylonians,[^1-8] that bitter and hasty nation, which marches through the breadth of the earth to seize dwellings that are not its own.
 
 **7** They are dreaded and feared; their justice and their dignity come from themselves.[^1-9]
 
@@ -27,7 +27,7 @@
 
 **10** They scoff at kings, and rulers are a joke to them. They laugh at every fortress; they heap up earth[^1-13] and capture it.
 
-**11** Then they sweep past like the wind and go on, guilty men, whose own strength is their god.[^1-14]
+**11** Then they sweep past like the wind and go on, guilty men, whose own strength is their god."[^1-14]
 
 **12** Are you not from of old, Yahweh, my God, my Holy One? We will not die.[^1-15] Yahweh, you have appointed them to execute judgment; Rock,[^1-16] you have established them to punish.
 
@@ -42,20 +42,20 @@
 **17** Will he therefore keep emptying his net[^1-19] and go on killing nations without mercy?
 
 [^1-1]: Hebrew *massa*, from the verb "to lift up, carry": a message "lifted up" by the prophet, or a "burden" laid on a nation. Traditionally "the burden".
-[^1-2]: Nothing certain is known of Habakkuk. He probably prophesied in the last years of the seventh century BC, when the Babylonians were rising to power (verse 6). The book is a dialogue: Habakkuk complains (1:2–4), Yahweh answers (1:5–11), Habakkuk complains again (1:12–17), and Yahweh answers again (2:1–20). As in the other prophetic books, Yahweh's words in the poems are not put in quotation marks.
+[^1-2]: Nothing certain is known of Habakkuk. He probably prophesied in the last years of the seventh century BC, when the Babylonians were rising to power (verse 6). The book is a dialogue: Habakkuk complains (1:2–4), Yahweh answers (1:5–11), Habakkuk complains again (1:12–17), and Yahweh answers again (2:2–20). Because the speakers alternate, Yahweh's replies are put in quotation marks.
 [^1-3]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
 [^1-4]: Or "Why do you make me look on trouble?"
 [^1-5]: Hebrew *torah*, "instruction, teaching, law".
 [^1-6]: The Septuagint reads "Look, you scoffers", and Paul quotes this verse in that form in Acts 13:41.
 [^1-7]: Literally "a deed is doing". *I* is supplied from verse 6.
-[^1-8]: Hebrew *Kasdim*, the people of southern Babylonia, whose kings ruled a new Babylonian empire from 626 BC. Under Nebuchadnezzar they defeated Egypt at Carchemish in 605 BC.
+[^1-8]: Hebrew *Kasdim*, traditionally "Chaldeans": the people of southern Mesopotamia whose kings then ruled Babylon. Their new empire began in 626 BC, and under Nebuchadnezzar they defeated Egypt at Carchemish in 605 BC.
 [^1-9]: That is, they recognize no law but their own.
 [^1-10]: Wolves that hunt at nightfall, hungry after the day (Zephaniah 3:3).
 [^1-11]: The meaning of the Hebrew verb is uncertain. Perhaps "paw the ground" or "spring forward".
 [^1-12]: The meaning of the Hebrew is uncertain. Literally "the eagerness of their faces is eastward" or "forward".
 [^1-13]: A siege ramp, built up against the city wall.
 [^1-14]: The Hebrew is difficult. Literally "Then a wind passes on and goes through, and is guilty, this one whose strength is his god".
-[^1-15]: Jewish scribal tradition counts this among the "corrections of the scribes", saying that the text once read "You will not die" and was changed out of reverence for God.
+[^1-15]: This is one of the *tiqqune sopherim*, the rabbinic "corrections of the scribes": the tradition says that the text once read "You will not die" and was changed out of reverence for God.
 [^1-16]: A title of God, the one on whom his people can rely (Deuteronomy 32:4).
 [^1-17]: The Babylonian conqueror, pictured as a fisherman.
 [^1-18]: Literally "his portion is fat and his food is fat".
@@ -67,7 +67,7 @@
 
 **1** I will stand at my watch post and station myself on the rampart. I will watch to see what he will say to me,[^2-1] and what I will answer concerning my complaint.[^2-2]
 
-**2** Then Yahweh[^2-3] answered me: Write down the vision; make it plain on tablets, so that the one who reads it may run.[^2-4]
+**2** Then Yahweh[^2-3] answered me: "Write down the vision; make it plain on tablets, so that the one who reads it may run.[^2-4]
 
 **3** For the vision is still for the appointed time. It hurries[^2-5] toward the end, and it will not lie. If it seems slow, wait for it; it will surely come, it will not delay.
 
@@ -75,7 +75,7 @@
 
 **5** Moreover, wine[^2-8] is treacherous; the arrogant man will not rest.[^2-9] He opens his throat as wide as Sheol;[^2-10] like death, he is never satisfied. He gathers all the nations for himself and collects all the peoples for himself.
 
-**6** Will not all of them take up a taunt[^2-11] against him, with mocking riddles about him, and say: "Woe to[^2-12] him who heaps up what is not his own (how long?) and loads himself with goods taken in pledge![^2-13]
+**6** Will not all of them take up a taunt[^2-11] against him, with mocking riddles about him, and say: 'Woe to[^2-12] him who heaps up what is not his own (how long?) and loads himself with goods taken in pledge![^2-13]
 
 **7** Will not your creditors[^2-14] suddenly rise up, and those who make you tremble wake up? Then you will become plunder for them.
 
@@ -101,9 +101,9 @@
 
 **18** What use is a carved image, once its maker has carved it, or a cast image, a teacher of lies? For its maker trusts in what he has made himself, when he makes idols that cannot speak.[^2-28]
 
-**19** Woe to him who says to a piece of wood, 'Wake up!' and to a silent stone, 'Get up!' Can it teach? Look, it is overlaid with gold and silver, but there is no breath[^2-29] in it at all."
+**19** Woe to him who says to a piece of wood: Wake up! and to a silent stone: Get up! Can it teach? Look, it is overlaid with gold and silver, but there is no breath[^2-29] in it at all.'
 
-**20** But Yahweh is in his holy temple. Let all the earth be silent before him.[^2-30]
+**20** But Yahweh is in his holy temple. Let all the earth be silent before him."[^2-30]
 
 [^2-1]: Literally "what he will speak in me".
 [^2-2]: Or "when I am rebuked".

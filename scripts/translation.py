@@ -136,7 +136,7 @@ def main():
             ref = lambda m: f"[^{c}-{m[1]}]"
             for v in sorted(verses):
                 lines += [f"**{v}** {NOTE_REF.sub(ref, verses[v])}", ""]
-            lines += [f"[^{c}-{k}]: {t}" for k, t in sorted(notes.items(), key=lambda kv: int(kv[0]) if kv[0].isdigit() else kv[0])]
+            lines += [f"[^{c}-{k}]: {t}" for k, t in sorted(notes.items(), key=lambda kv: (0, int(kv[0]), "") if kv[0].isdigit() else (1, 0, kv[0]))]
             lines.append("")
         with open(os.path.join(OUT, file_stem(num, name) + ".md"), "w", encoding="utf-8", newline="\n") as f:
             f.write("\n".join(lines).rstrip("\n") + "\n")

@@ -1674,7 +1674,7 @@
 
 **19** Yet she multiplied her prostitution, remembering the days of her youth, when she played the prostitute in the land of Egypt.
 
-**20** She lusted after her lovers there,[^23-14] whose genitals were like those of donkeys and whose emission was like that of horses.[^23-15]
+**20** She lusted after their paramours,[^23-14] whose genitals were like those of donkeys and whose emission was like that of horses.[^23-15]
 
 **21** So you longed for the lewdness of your youth, when men from Egypt fondled your nipples for the sake of your young breasts.[^23-16]
 
@@ -1747,7 +1747,7 @@
 [^23-11]: Hebrew *mikhlol*, "perfection", probably splendid clothing.
 [^23-12]: Hebrew *shashar*, a red pigment, vermilion (Jeremiah 22:14).
 [^23-13]: Hebrew *shalishim*, a title of high-ranking officers, perhaps the third man in a chariot. Also in verse 23.
-[^23-14]: Hebrew *pilagshim*, usually "concubines", here the male lovers.
+[^23-14]: Hebrew *pilagshim*, usually "concubines", here male lovers; *their* probably refers to the Egyptians.
 [^23-15]: Literally "whose flesh was the flesh of donkeys and whose issue was the issue of horses". *Flesh* here means the sexual organs (16:26).
 [^23-16]: Literally "when they handled, from Egypt, your nipples, for the sake of the breasts of your youth". Some scholars read "to squeeze the breasts of your youth", with a small change to the Hebrew (compare verse 3).
 [^23-17]: Hebrew *Adonai YHWH*, "my Lord Yahweh".
@@ -1948,7 +1948,7 @@
 [^26-1]: The month is not given. The eleventh year is 587 or 586 BC, the year Jerusalem fell (2 Kings 25:2–8).
 [^26-2]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
 [^26-3]: Hebrew *ben adam*, "son of man": a human being, a mortal.
-[^26-4]: Literally "the doors of the peoples is broken; it has turned to me". Jerusalem had controlled trade routes that Tyre now hopes to take over.
+[^26-4]: Literally "the doors of the peoples is broken; it has turned to me".
 [^26-5]: Hebrew *Adonai YHWH*, "my Lord Yahweh".
 [^26-6]: The name Tyre, Hebrew *Tsor*, means "rock". The city stood on a rocky island off the coast of Phoenicia. Also in verse 14.
 [^26-7]: Literally "her daughters in the field", the towns on the mainland that depended on Tyre. Also in verse 8.
@@ -2040,7 +2040,7 @@
 
 **35** All the inhabitants of the coastlands are appalled at you. Their kings shudder with horror; their faces are contorted.
 
-**36** The traders among the peoples hiss at you.[^27-55] You have come to a horrible end,[^27-56] and you will be no more, forever."
+**36** The traders among the peoples hiss at you.[^27-55] You have come to a dreadful end,[^27-56] and you will be no more, forever."
 
 [^27-1]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
 [^27-2]: Hebrew *ben adam*, "son of man": a human being, a mortal.
@@ -2139,7 +2139,7 @@
 
 **18** By your great guilt, by the dishonesty of your trade, you defiled your sanctuaries. So I brought out fire from within you, and it consumed you. I turned you to ashes on the earth in the sight of all who saw you.
 
-**19** All who knew you among the peoples are appalled at you. You have come to a horrible end,[^28-16] and you will be no more, forever.
+**19** All who knew you among the peoples are appalled at you. You have come to a dreadful end,[^28-16] and you will be no more, forever.
 
 **20** The word of Yahweh came to me:
 
@@ -2704,7 +2704,7 @@
 
 **6** Therefore prophesy concerning the land of Israel, and say to the mountains and the hills, to the ravines and the valleys: This is what the Lord Yahweh says: I am speaking in my jealousy and my wrath, because you have borne the scorn of the nations.
 
-**7** Therefore this is what the Lord Yahweh says: I swear[^36-7] that the nations around you will themselves bear their scorn.
+**7** Therefore this is what the Lord Yahweh says: I raise my hand,[^36-7] swearing that the nations around you will themselves bear their scorn.
 
 **8** But you, mountains of Israel, will put out your branches and bear your fruit for my people Israel, for they will soon come home.
 
@@ -2774,7 +2774,7 @@
 [^36-4]: Hebrew *bamot*, "heights", the word used elsewhere for the high places of worship (6:3).
 [^36-5]: Literally "you have been taken up on the lip of the tongue and the whispering of the people".
 [^36-6]: The meaning of the last words is uncertain. Literally "for the sake of its pastureland for plunder", or "to drive it out as plunder".
-[^36-7]: Literally "I have lifted my hand", a gesture of swearing an oath (20:5–6).
+[^36-7]: Literally "I have lifted my hand", the gesture of one who swears an oath (20:5).
 [^36-8]: The Hebrew text is written "your nation" but read "your nations". Also in verses 14 and 15.
 [^36-9]: The Hebrew text is written "make … stumble" but read "rob … of their children".
 [^36-10]: Hebrew *niddah*, the impurity of menstruation (Leviticus 15:19–24).
@@ -3394,7 +3394,7 @@
 
 **11** They will serve in my sanctuary, having charge of the gates of the house and serving the house. They will slaughter the burnt offering and the sacrifice for the people, and they will stand before the people to serve them.
 
-**12** Because they served them before their idols and became a stumbling block of guilt[^44-13] for the house of Israel, therefore I have sworn[^44-14] concerning them, declares the Lord Yahweh, that they will bear their guilt.
+**12** Because they served them before their idols and became a stumbling block of guilt[^44-13] for the house of Israel, therefore I have raised my hand[^44-14] against them, declares the Lord Yahweh, swearing that they will bear their guilt.
 
 **13** They must not come near me to serve me as priests, or come near any of my holy things, the most holy things. They will bear their shame for the detestable practices they have committed.
 
@@ -3447,7 +3447,7 @@
 [^44-11]: The Septuagint, the Syriac and the Vulgate read "You have broken my covenant".
 [^44-12]: Hebrew *gillulim*, a contemptuous word for idols, perhaps related to the word for dung. Also in verse 12.
 [^44-13]: See 3:20; 14:3.
-[^44-14]: Literally "I have lifted my hand", a gesture of swearing an oath (20:5–6).
+[^44-14]: Literally "I have lifted my hand", the gesture of one who swears an oath (20:5).
 [^44-15]: See 40:46. The other Levites had served at the local shrines, the high places, before Josiah's reform (2 Kings 23:8–9).
 [^44-16]: Hebrew *pe'er*, a headdress, the word used for the priests' caps in Exodus 39:28.
 [^44-17]: That is, pass on holiness to the people by contact (Exodus 29:37; 30:29; Leviticus 6:20, 6:27 in most English Bibles).
@@ -3639,7 +3639,7 @@
 
 **13** "This is what the Lord Yahweh[^47-13] says: These are the boundaries by which you are to divide the land as an inheritance among the twelve tribes of Israel, with two portions for Joseph.[^47-14]
 
-**14** You are to divide it equally among you.[^47-15] I swore[^47-16] to give it to your ancestors, and this land will fall to you as an inheritance.
+**14** You are to divide it equally among you,[^47-15] the land I raised my hand[^47-16] to give to your ancestors. This land will fall to you as an inheritance.
 
 **15** This is to be the boundary of the land: On the north side, from the Great Sea by the way of Hethlon, as one goes to Zedad,[^47-17]
 
@@ -3674,7 +3674,7 @@
 [^47-13]: Hebrew *Adonai YHWH*, "my Lord Yahweh". *Yahweh* is God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles. These words of Yahweh run to the end of the book (48:35).
 [^47-14]: Literally "Joseph, portions". The descendants of Joseph's two sons, Ephraim and Manasseh, each formed a tribe (Genesis 48:5; Joshua 14:4), so that there were twelve tribal portions without Levi (48:1–7, 23–29).
 [^47-15]: Literally "each man like his brother".
-[^47-16]: Literally "I lifted my hand", a gesture of swearing an oath (20:5–6).
+[^47-16]: Literally "I lifted my hand", the gesture of one who swears an oath (20:5).
 [^47-17]: Literally "the way of Hethlon, to come to Zedad". Compare 48:1, "the way of Hethlon to Lebo-hamath", and Numbers 34:7–9.
 [^47-18]: These places, on the northern frontier in Syria, are mostly not known. *Hazer-hatticon* means "the middle Hazer"; *Hauran* is the region east of the Sea of Galilee.
 [^47-19]: Literally "and the north side". Also in verses 18 and 19; verse 20 has "This is the west side".
@@ -3683,3 +3683,92 @@
 [^47-22]: Meribah at Kadesh, in the wilderness south of Canaan (Numbers 20:13; 27:14).
 [^47-23]: The Wadi of Egypt, probably the Wadi el-Arish (Numbers 34:5).
 [^47-24]: Or "the entrance to Hamath": the northern frontier of Israel (Numbers 34:8).
+
+## Chapter 48
+
+*Status: draft*
+
+**1** "These are the names of the tribes: At the northern end, beside the way of Hethlon to Lebo-hamath, as far as Hazar-enan, at the border of Damascus, with Hamath to the north beside it, and extending from the east side to the west side,[^48-1] Dan will have one portion.
+
+**2** Next to the territory of Dan, from the east side to the west side, Asher will have one portion.
+
+**3** Next to the territory of Asher, from the east side to the west side, Naphtali will have one portion.
+
+**4** Next to the territory of Naphtali, from the east side to the west side, Manasseh will have one portion.
+
+**5** Next to the territory of Manasseh, from the east side to the west side, Ephraim will have one portion.
+
+**6** Next to the territory of Ephraim, from the east side to the west side, Reuben will have one portion.
+
+**7** Next to the territory of Reuben, from the east side to the west side, Judah will have one portion.
+
+**8** Next to the territory of Judah, from the east side to the west side, will be the contribution[^48-2] you are to set apart, 25,000 wide,[^48-3] and as long as one of the tribal portions, from the east side to the west side, with the sanctuary in the middle of it.
+
+**9** The contribution you are to set apart for Yahweh[^48-4] will be 25,000 long and 10,000 wide.[^48-5]
+
+**10** This will be the holy contribution for the priests: on the north side 25,000 long, on the west side 10,000 wide, on the east side 10,000 wide, and on the south side 25,000 long. The sanctuary of Yahweh will be in the middle of it.
+
+**11** It will be for the consecrated priests, the sons of Zadok,[^48-6] who kept my charge and did not go astray when the Israelites went astray, as the Levites did.
+
+**12** It will be a special portion for them from the holy contribution of the land, a most holy place, next to the territory of the Levites.
+
+**13** Alongside the territory of the priests, the Levites will have an area 25,000 long and 10,000 wide. The whole length will be 25,000 and the width 10,000.
+
+**14** They must not sell any of it or exchange it, and this choicest part of the land must not pass to others, for it is holy to Yahweh.
+
+**15** The remaining area, 5,000 wide and 25,000 long, will be for the common use of the city, for houses and for open land. The city will be in the middle of it.
+
+**16** These will be its measurements: the north side 4,500, the south side 4,500,[^48-7] the east side 4,500 and the west side 4,500.
+
+**17** The city will have open land: 250 on the north, 250 on the south, 250 on the east and 250 on the west.
+
+**18** The rest of the area, along the length beside the holy contribution, will be 10,000 on the east and 10,000 on the west. It will lie beside the holy contribution, and its produce will be food for the workers of the city.
+
+**19** The workers of the city, from all the tribes of Israel, will farm it.
+
+**20** The whole contribution will be 25,000 by 25,000. You are to set apart the holy contribution as a square, together with the city's property.
+
+**21** What remains on both sides of the holy contribution and of the city's property will belong to the prince.[^48-8] It will extend eastward from the 25,000 of the contribution to the eastern border, and westward from the 25,000 to the western border, alongside the tribal portions. It will belong to the prince. The holy contribution and the sanctuary of the house[^48-9] will be in the middle of it.
+
+**22** The property of the Levites and the property of the city will lie in the middle of what belongs to the prince; the land between the territory of Judah and the territory of Benjamin will belong to the prince.[^48-10]
+
+**23** As for the rest of the tribes: from the east side to the west side, Benjamin will have one portion.
+
+**24** Next to the territory of Benjamin, from the east side to the west side, Simeon will have one portion.
+
+**25** Next to the territory of Simeon, from the east side to the west side, Issachar will have one portion.
+
+**26** Next to the territory of Issachar, from the east side to the west side, Zebulun will have one portion.
+
+**27** Next to the territory of Zebulun, from the east side to the west side, Gad will have one portion.
+
+**28** Next to the territory of Gad, on the south side, toward the Negev, the boundary will run from Tamar to the waters of Meribath-kadesh, and along the Wadi to the Great Sea.[^48-11]
+
+**29** This is the land you are to allot as an inheritance to the tribes of Israel, and these will be their portions, declares the Lord Yahweh.[^48-12]
+
+**30** These are the exits of the city: On the north side, which measures 4,500,
+
+**31** the gates of the city will be named after the tribes of Israel. There will be three gates on the north: one gate for Reuben, one gate for Judah and one gate for Levi.
+
+**32** On the east side, which measures 4,500, there will be three gates: one gate for Joseph, one gate for Benjamin and one gate for Dan.
+
+**33** On the south side, which measures 4,500, there will be three gates: one gate for Simeon, one gate for Issachar and one gate for Zebulun.
+
+**34** On the west side, which measures 4,500, there will be three gates: one gate for Gad, one gate for Asher and one gate for Naphtali.
+
+**35** The distance all around will be 18,000.[^48-13] And from that day on the name of the city will be 'Yahweh Is There.'"[^48-14]
+
+[^48-1]: Literally "and they will be his, the east side, the sea". Each tribe's portion is a strip running across the land from east to west, from the Jordan to the Mediterranean (47:15–20). Compare Joshua 13–19, where the tribes receive very different territories.
+[^48-2]: Hebrew *terumah*: something set apart and given for a sacred purpose (45:1). Also in verses 9–10, 12, 18 and 20–21.
+[^48-3]: The unit is not given; probably the long cubit of 40:5 (about 21 inches or 53 cm), as in 45:1, so that 25,000 was about 8 miles (13 km). The same is true of the other measurements in this chapter.
+[^48-4]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^48-5]: This is perhaps the priests' portion (verses 10–12), which lies beside the Levites' portion of the same size (verse 13). Compare 45:1–5.
+[^48-6]: See 40:46; 44:15.
+[^48-7]: The Hebrew text writes the word "five" twice here, but it is read only once.
+[^48-8]: Hebrew *nasi*, "leader, chief", the ruler of Israel (44:3; 45:7–8).
+[^48-9]: That is, the temple, as throughout chapters 40–48.
+[^48-10]: Literally "And from the property of the Levites and from the property of the city, in the middle of what is for the prince it will be; between the border of Judah and the border of Benjamin, it will be for the prince." The meaning is uncertain.
+[^48-11]: See 47:19.
+[^48-12]: Hebrew *Adonai YHWH*, "my Lord Yahweh".
+[^48-13]: About 6 miles (9.5 km), if the unit is the long cubit.
+[^48-14]: Hebrew *YHWH shammah*.
