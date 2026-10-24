@@ -3060,7 +3060,7 @@
 
 **2** May God be gracious to us and bless us; may he make his face shine on us.[^67-2] Selah.[^67-3]
 
-**3** so that your way may be known on earth, your salvation among all nations.
+**3** May your way be known on earth, your salvation among all nations.[^67-4]
 
 **4** Let the peoples praise you, God; let all the peoples praise you.
 
@@ -3075,6 +3075,7 @@
 [^67-1]: *For the director*: Hebrew *lamenatseach*, probably the leader of the temple music. In the Hebrew text the title is verse 1, so verses 2–8 are 67:1–7 in most English Bibles.
 [^67-2]: Literally "make his face shine with us". The verse echoes the priestly blessing in Numbers 6:24–26.
 [^67-3]: Hebrew *selah*, a musical or liturgical term of uncertain meaning. Also in verse 5.
+[^67-4]: Literally "to know on earth your way", that is, so that your way may be known.
 
 ## Chapter 68
 
@@ -3094,97 +3095,98 @@
 
 **7** God gives the lonely a home to live in; he leads prisoners out into prosperity,[^68-5] but the rebellious live in a parched land.
 
-**8** God, when you went out before your people, when you marched through the wasteland, Selah,[^68-6]
+**8** God, you went out before your people; you marched through the wasteland.[^68-6] Selah.[^68-7]
 
-**9** the earth shook, the heavens poured down rain before God, the One of Sinai,[^68-7] before God, the God of Israel.
+**9** The earth shook, the heavens poured down rain before God, the One of Sinai,[^68-8] before God, the God of Israel.
 
 **10** You poured out abundant rain, God; when your inheritance was weary, you restored it.
 
-**11** Your people[^68-8] settled in it; in your goodness, God, you provided for the afflicted.
+**11** Your people[^68-9] settled in it; in your goodness, God, you provided for the afflicted.
 
-**12** The Lord gives the word; the women who bring the good news are a great army:[^68-9]
+**12** The Lord gives the word; the women who bring the good news are a great army:[^68-10]
 
-**13** "The kings of armies flee, they flee!" And the woman who stays at home[^68-10] divides the plunder.
+**13** "The kings of armies flee, they flee!" And the woman who stays at home[^68-11] divides the plunder.
 
-**14** Though you lie down among the sheepfolds,[^68-11] the wings of a dove are covered with silver, its feathers with shining gold.
+**14** Though you lie down among the sheepfolds,[^68-12] the wings of a dove are covered with silver, its feathers with shining gold.
 
-**15** When the Almighty[^68-12] scattered kings there, it snowed on Zalmon.[^68-13]
+**15** When the Almighty[^68-13] scattered kings there, it snowed on Zalmon.[^68-14]
 
-**16** A mountain of God[^68-14] is the mountain of Bashan; a mountain of many peaks is the mountain of Bashan.
+**16** A mountain of God[^68-15] is the mountain of Bashan; a mountain of many peaks is the mountain of Bashan.
 
-**17** Why do you look with envy,[^68-15] you mountains of many peaks, at the mountain God desired for his dwelling? Yes, Yahweh[^68-16] will dwell there forever.
+**17** Why do you look with envy,[^68-16] you mountains of many peaks, at the mountain God desired for his dwelling? Yes, Yahweh[^68-17] will dwell there forever.
 
-**18** The chariots of God are twice ten thousand, thousands upon thousands; the Lord is among them, Sinai is in the holy place.[^68-17]
+**18** The chariots of God are twice ten thousand, thousands upon thousands; the Lord is among them, Sinai is in the holy place.[^68-18]
 
-**19** You went up to the heights; you led captives away; you received gifts from people,[^68-18] even from the rebellious, so that Yah God might dwell there.
+**19** You went up to the heights; you led captives away; you received gifts from people,[^68-19] even from the rebellious, so that Yah God might dwell there.
 
-**20** Blessed be the Lord, who day after day bears our burden,[^68-19] the God who is our salvation. Selah.
+**20** Blessed be the Lord, who day after day bears our burden,[^68-20] the God who is our salvation. Selah.
 
-**21** Our God is a God who saves,[^68-20] and to Yahweh the Lord belong the ways of escape from death.[^68-21]
+**21** Our God is a God who saves,[^68-21] and to Yahweh the Lord belong the ways of escape from death.[^68-22]
 
 **22** Surely God will crush the heads of his enemies, the hairy crown of the one who walks in his guilt.
 
 **23** The Lord said, "I will bring them back from Bashan; I will bring them back from the depths of the sea,
 
-**24** so that your foot may crush them in blood,[^68-22] and the tongues of your dogs may have their share of the enemies."[^68-23]
+**24** so that your foot may crush them in blood,[^68-23] and the tongues of your dogs may have their share of the enemies."[^68-24]
 
-**25** Your processions have been seen, God, the processions of my God, my King, into the sanctuary.[^68-24]
+**25** Your processions have been seen, God, the processions of my God, my King, into the sanctuary.[^68-25]
 
 **26** The singers go in front, the musicians last, and between them young women playing tambourines.
 
-**27** In the assemblies bless God, Yahweh, you who come from the spring of Israel.[^68-25]
+**27** In the assemblies bless God, Yahweh, you who come from the spring of Israel.[^68-26]
 
-**28** There is little Benjamin, leading them,[^68-26] the princes of Judah in their throng,[^68-27] the princes of Zebulun, the princes of Naphtali.
+**28** There is little Benjamin, leading them,[^68-27] the princes of Judah in their throng,[^68-28] the princes of Zebulun, the princes of Naphtali.
 
-**29** Your God has commanded your strength.[^68-28] Show your strength, God, you who have acted for us.
+**29** Your God has commanded your strength.[^68-29] Show your strength, God, you who have acted for us.
 
 **30** Because of your temple at Jerusalem, kings will bring you gifts.
 
-**31** Rebuke the beast among the reeds,[^68-29] the herd of bulls with the calves of the peoples, until it bows down with pieces of silver. He has scattered the peoples who delight in war.[^68-30]
+**31** Rebuke the beast among the reeds,[^68-30] the herd of bulls with the calves of the peoples, until it bows down with pieces of silver. He has scattered the peoples who delight in war.[^68-31]
 
-**32** Envoys[^68-31] will come from Egypt; Cush[^68-32] will quickly stretch out its hands to God.
+**32** Envoys[^68-32] will come from Egypt; Cush[^68-33] will quickly stretch out its hands to God.
 
 **33** Kingdoms of the earth, sing to God; sing praises to the Lord. Selah.
 
-**34** to the one who rides in the heavens, the ancient heavens. Listen, he utters his voice, a mighty voice.
+**34** To the one who rides in the heavens, the ancient heavens! Listen, he utters his voice, a mighty voice.
 
 **35** Ascribe power to God, whose majesty is over Israel, and whose power is in the skies.
 
-**36** You are awesome, God, from your sanctuary.[^68-33] The God of Israel is the one who gives strength and power to his people. Blessed be God!
+**36** You are awesome, God, from your sanctuary.[^68-34] The God of Israel is the one who gives strength and power to his people. Blessed be God!
 
 [^68-1]: *For the director*: Hebrew *lamenatseach*, probably the leader of the temple music. *Of David*: or "for David", "about David". In the Hebrew text the title is verse 1, so verses 2–36 are 68:1–35 in most English Bibles. This psalm is one of the most difficult in the Psalter. Many of its words are rare, some lines seem to be quotations from older poems, and the connection between its sections is often unclear. The notes mark the most uncertain lines.
 [^68-2]: Compare Numbers 10:35, the words Moses spoke whenever the ark set out.
 [^68-3]: Literally "cast up (a highway) for the one who rides in the *aravot*", the desert plains. Some take *aravot* as "clouds", comparing verse 34 and a title of the god Baal in Canaanite poetry, "rider of the clouds". The verb *sollu* may also mean "lift up (a song)".
 [^68-4]: Hebrew *Yah*, a short form of the name Yahweh, as in *hallelu-yah*, "praise Yah". Also in verse 19.
 [^68-5]: Hebrew *kosharot*, found only here, perhaps "prosperity" or "singing".
-[^68-6]: Hebrew *selah*, a musical or liturgical term of uncertain meaning. Also in verses 20 and 33. Verses 8–9 are close to Judges 5:4–5.
-[^68-7]: Literally "this Sinai", perhaps an old way of saying "the One of Sinai" (compare Judges 5:5).
-[^68-8]: Literally "Your living things", perhaps "your flock" or "your community".
-[^68-9]: Or "The Lord gives the word; great is the army of women who bring the news".
-[^68-10]: Or "the beauty of the house". The Hebrew of verses 13–15 is very difficult, and their connection with the context is uncertain.
-[^68-11]: Or "among the campfires", "between the saddlebags". The word is close to the one in Judges 5:16.
-[^68-12]: Hebrew *Shaddai*. The meaning of the name is uncertain.
-[^68-13]: A mountain, perhaps the one near Shechem (Judges 9:48), or one in Bashan. *Zalmon* is related to *tselem*, "shadow, darkness".
-[^68-14]: Or "A mighty mountain", as "mountains of God" can mean mighty mountains (compare 36:7, English 36:6).
-[^68-15]: Hebrew *teratsedun*, found only here; the meaning is uncertain.
-[^68-16]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
-[^68-17]: Literally "the Lord among them, Sinai, in holiness". Some scholars read "the Lord has come from Sinai into the holy place", with a small change to the Hebrew (compare Deuteronomy 33:2).
-[^68-18]: Literally "among *adam* (humankind)". Ephesians 4:8 quotes this verse in a form that reads "he gave gifts to people".
-[^68-19]: Or "who carries us".
-[^68-20]: Literally "God is for us a God of acts of salvation".
-[^68-21]: Literally "to death the goings out".
-[^68-22]: Literally "so that you may crush your foot in blood". The Septuagint reads "so that your foot may be dipped in blood" (compare 58:11).
-[^68-23]: Literally "the tongue of your dogs, from the enemies its portion".
-[^68-24]: Or "in holiness".
-[^68-25]: That is, you descendants of Israel.
-[^68-26]: Or "ruling them".
-[^68-27]: Hebrew *rigmatam*, found only here, perhaps "their crowd".
-[^68-28]: The Septuagint reads "Command your strength, God".
-[^68-29]: Probably Egypt, pictured as a crocodile or hippopotamus among the reeds of the Nile.
-[^68-30]: The Hebrew of this verse is very difficult. Literally "...with calves of peoples, trampling himself with pieces of silver; he scattered peoples who delight in wars".
-[^68-31]: Hebrew *chashmannim*, found only here; the meaning is uncertain, perhaps "envoys", "nobles" or "bronze".
-[^68-32]: The lands on the upper Nile, south of Egypt.
-[^68-33]: Literally "from your sanctuaries".
+[^68-6]: Literally "God, when you went out before your people, when you marched through the wasteland", a sentence that continues in verse 9.
+[^68-7]: Hebrew *selah*, a musical or liturgical term of uncertain meaning. Also in verses 20 and 33. Verses 8–9 are close to Judges 5:4–5.
+[^68-8]: Literally "this Sinai", perhaps an old way of saying "the One of Sinai" (compare Judges 5:5).
+[^68-9]: Literally "Your living things", perhaps "your flock" or "your community".
+[^68-10]: Or "The Lord gives the word; great is the army of women who bring the news".
+[^68-11]: Or "the beauty of the house". The Hebrew of verses 13–15 is very difficult, and their connection with the context is uncertain.
+[^68-12]: Or "among the campfires", "between the saddlebags". The word is close to the one in Judges 5:16.
+[^68-13]: Hebrew *Shaddai*. The meaning of the name is uncertain.
+[^68-14]: A mountain, perhaps the one near Shechem (Judges 9:48), or one in Bashan. *Zalmon* is related to *tselem*, "shadow, darkness".
+[^68-15]: Or "A mighty mountain", as "mountains of God" can mean mighty mountains (compare 36:7, English 36:6).
+[^68-16]: Hebrew *teratsedun*, found only here; the meaning is uncertain.
+[^68-17]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^68-18]: Literally "the Lord among them, Sinai, in holiness". Some scholars read "the Lord has come from Sinai into the holy place", with a small change to the Hebrew (compare Deuteronomy 33:2).
+[^68-19]: Literally "among *adam* (humankind)". Ephesians 4:8 quotes this verse in a form that reads "he gave gifts to people".
+[^68-20]: Or "who carries us".
+[^68-21]: Literally "God is for us a God of acts of salvation".
+[^68-22]: Literally "to death the goings out".
+[^68-23]: Literally "so that you may crush your foot in blood". The Septuagint reads "so that your foot may be dipped in blood" (compare 58:11).
+[^68-24]: Literally "the tongue of your dogs, from the enemies its portion".
+[^68-25]: Or "in holiness".
+[^68-26]: That is, you descendants of Israel.
+[^68-27]: Or "ruling them".
+[^68-28]: Hebrew *rigmatam*, found only here, perhaps "their crowd".
+[^68-29]: The Septuagint reads "Command your strength, God".
+[^68-30]: Probably Egypt, pictured as a crocodile or hippopotamus among the reeds of the Nile.
+[^68-31]: The Hebrew of this verse is very difficult. Literally "...with calves of peoples, trampling himself with pieces of silver; he scattered peoples who delight in wars".
+[^68-32]: Hebrew *chashmannim*, found only here; the meaning is uncertain, perhaps "envoys", "nobles" or "bronze".
+[^68-33]: The lands on the upper Nile, south of Egypt.
+[^68-34]: Literally "from your sanctuaries".
 
 ## Chapter 69
 
@@ -4708,6 +4710,69 @@
 [^93-4]: Hebrew *dokhyam*, found only here, "their pounding" or "their crashing". *Floods*: Hebrew *neharot*, "rivers", here the great waters that stand for the forces of chaos which God rules (compare 89:10, English 89:9).
 [^93-5]: Hebrew *edot*, traditionally "testimonies": the solemn terms of the covenant.
 [^93-6]: Literally "for length of days".
+
+## Chapter 94
+
+*Status: draft*
+
+**1** God of vengeance,[^94-1] Yahweh,[^94-2] God of vengeance, shine out!
+
+**2** Rise up, Judge of the earth; pay back to the proud what they deserve.
+
+**3** How long will the wicked, Yahweh, how long will the wicked exult?
+
+**4** They pour out arrogant words; all the evildoers boast.
+
+**5** They crush your people, Yahweh, and afflict your inheritance.
+
+**6** They kill the widow and the foreigner, and murder the fatherless.
+
+**7** They say, "Yah[^94-3] does not see; the God of Jacob pays no attention."
+
+**8** Understand, you senseless among the people! You fools, when will you be wise?
+
+**9** He who planted the ear, does he not hear? He who formed the eye, does he not see?
+
+**10** He who disciplines the nations, does he not punish, he who teaches humankind knowledge?[^94-4]
+
+**11** Yahweh knows the thoughts of humankind, that they are only a breath.[^94-5]
+
+**12** Happy[^94-6] is the one you discipline, Yah, and whom you teach from your law,
+
+**13** to give him rest from days of trouble, until a pit is dug for the wicked.
+
+**14** For Yahweh will not abandon his people; he will not forsake his inheritance.
+
+**15** For justice will again be righteous,[^94-7] and all the upright in heart will follow it.
+
+**16** Who will rise up for me against evildoers? Who will take a stand for me against evildoers?
+
+**17** If Yahweh had not been my help, my soul[^94-8] would soon have lived in the land of silence.[^94-9]
+
+**18** When I said, "My foot is slipping," your faithful love,[^94-10] Yahweh, held me up.
+
+**19** When my anxious thoughts multiply within me, your comforts delight my soul.
+
+**20** Can a throne of destruction be allied with you, one that frames trouble by decree?[^94-11]
+
+**21** They band together against the life of the righteous, and condemn the innocent to death.[^94-12]
+
+**22** But Yahweh has become my stronghold, and my God the rock of my refuge.
+
+**23** He will turn their own iniquity back on them, and destroy them for their wickedness; Yahweh our God will destroy them.
+
+[^94-1]: Literally "God of vengeances", the God who punishes wrong and sets it right. Psalm 94 has no title in the Hebrew. The Septuagint gives it one: "A psalm of David, for the fourth day of the week."
+[^94-2]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^94-3]: Hebrew *Yah*, a short form of the name Yahweh. Also in verse 12.
+[^94-4]: The Hebrew breaks off, leaving the question unfinished: literally "he who teaches humankind knowledge".
+[^94-5]: Hebrew *hevel*, "breath, vapor", something without substance (compare Ecclesiastes 1:2). 1 Corinthians 3:20 quotes this verse, with "the wise" in place of "humankind".
+[^94-6]: Hebrew *ashrei*: happy, fortunate; traditionally "blessed".
+[^94-7]: Literally "For judgment will return to righteousness".
+[^94-8]: Hebrew *nephesh*: soul, life, self. Also in verses 19 and 21.
+[^94-9]: Hebrew *dumah*, "silence", a name for the realm of the dead (compare 115:17).
+[^94-10]: Hebrew *chesed*: loyal, faithful love.
+[^94-11]: Or "by law". Hebrew *choq*, "decree". *A throne of destruction*: unjust rulers.
+[^94-12]: Literally "and condemn innocent blood".
 
 ## Chapter 110
 
