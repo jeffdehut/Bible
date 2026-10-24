@@ -247,7 +247,7 @@
 [^3-6]: Literally "know him".
 [^3-7]: Literally "your navel". The Septuagint reads "your body".
 [^3-8]: Hebrew *musar*: discipline, training and correction (see 1:2). Verses 11–12 are quoted in Hebrews 12:5–6, following the Septuagint, which reads the last line of verse 12 as "and he punishes every son he accepts".
-[^3-9]: Or "even as a father the son he delights in".
+[^3-9]: Literally "and as a father, a son he delights in". The verb *corrects* is understood from the first line.
 [^3-10]: Hebrew *ashrei*: happy, fortunate; traditionally "blessed". *Happy* in verse 18 translates a verb from the same root.
 [^3-11]: Hebrew *tevunah*, from the same root as *binah*, "understanding" (see 2:2). Also in verse 19.
 [^3-12]: Hebrew *peninim*, probably red coral or pearls; traditionally "rubies".
@@ -260,7 +260,7 @@
 [^3-19]: The Hebrew text is written "to your neighbors" but read "to your neighbor".
 [^3-20]: Hebrew *to'evah*, something loathsome, traditionally "an abomination". The phrase "detestable to Yahweh" is frequent in Proverbs.
 [^3-21]: Hebrew *letsim*, as in 1:22: those who scorn wisdom and laugh at correction. The verb translated *mocks* is from the same root.
-[^3-22]: The Hebrew text is written "to the poor" but read "to the humble". James 4:6 and 1 Peter 5:5 quote this verse from the Septuagint: "God opposes the proud, but gives grace to the humble."
+[^3-22]: The Hebrew text is written "to the poor" but read "to the humble". James 4:6 and 1 Peter 5:5 quote this verse in the wording of the Septuagint: "God opposes the proud, but gives grace to the humble." The Septuagint has "the Lord".
 [^3-23]: Hebrew *kesilim*, plural of *kesil* (see 1:22).
 [^3-24]: Literally "but fools lift up disgrace". The sense may be that disgrace is the only honor fools receive.
 
@@ -478,7 +478,7 @@
 [^6-2]: Literally "struck your palms for a stranger", a gesture that sealed an agreement. Hebrew *zar*, someone outside one's family or circle (compare 2:16).
 [^6-3]: Literally "from the hand".
 [^6-4]: Hebrew *atsel*, traditionally "sluggard". Also in verse 9.
-[^6-5]: The Septuagint adds three lines about the bee, a hard worker whose produce is used by kings and ordinary people for their health.
+[^6-5]: The Septuagint adds a passage about the bee, a hard worker whose produce kings and ordinary people use for their health.
 [^6-6]: Hebrew *mehallekh*, "one who walks about", perhaps a prowler or a vagrant. Verses 10–11 are repeated in 24:33–34.
 [^6-7]: Literally "a man of a shield".
 [^6-8]: Hebrew *adam beliyya'al*, "a person of worthlessness", a phrase for someone who is wicked and destructive.
@@ -565,7 +565,7 @@
 [^7-11]: Literally "Sacrifices of fellowship offerings were on me". The worshiper ate the meat of these offerings (Leviticus 7:15–16), so she has a feast at home.
 [^7-12]: Hebrew *etun*, a word found only here, probably linen yarn.
 [^7-13]: Literally "the man".
-[^7-14]: Hebrew *kese*, probably the day of the full moon (Psalm 81:4; 81:3 in most English Bibles).
+[^7-14]: Hebrew *kese*, probably the day of the full moon, as in Psalm 81:4 (81:3 in most English Bibles).
 [^7-15]: Hebrew *leqach*, the word translated "learning" in 1:5, here her persuasive teaching.
 [^7-16]: Hebrew *ewil* (see 1:7).
 [^7-17]: The Hebrew of this line is obscure. Literally "and like an anklet to the discipline of a fool". Some scholars read "like a stag that leaps into a noose", with a small change to the Hebrew.
@@ -803,7 +803,7 @@
 [^10-2]: Hebrew *kesil*, the most common word for "fool" in Proverbs: someone dull and self-satisfied who does not want to learn (see 1:22). Also in verses 18 and 23.
 [^10-3]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
 [^10-4]: Hebrew *tsaddiq*: a righteous person, one who does what is right toward God and other people (see 2:20).
-[^10-5]: Hebrew *havvah*, "craving", a word that can also mean "destruction" (Psalm 52:4; 52:2 in most English Bibles).
+[^10-5]: Hebrew *havvah*, "craving", a word that can also mean "destruction", as in Psalm 52:4 (52:2 in most English Bibles).
 [^10-6]: Hebrew *resha'im*, plural of *rasha*: wicked people, those who are guilty of wrong (see 2:22).
 [^10-7]: Hebrew *maskil*, from the same root as *sekhel*, "good sense": one who acts with good sense. Also in verse 19.
 [^10-8]: Or "but violence covers the mouth of the wicked". Also in verse 11.
@@ -1161,7 +1161,7 @@
 [^14-20]: Hebrew *chesed ve-emet*: faithful love and reliability (see 3:3). Literally "faithful love and truth, those who plan good".
 [^14-21]: Hebrew *tevunah* (see 2:2).
 [^14-22]: Literally "A heart of healing (or calm) is the life of the flesh".
-[^14-23]: The Septuagint reads "in his integrity", reading *betummo* in place of *bemoto*, "in his death", a word with the same letters in a different order.
+[^14-23]: The Septuagint reads "but whoever trusts in his own holiness is righteous", probably reading *betummo*, "in his integrity", in place of *bemoto*, "in his death", a word with the same letters in a different order.
 [^14-24]: The Septuagint reads "but in the heart of fools it is not known".
 [^14-25]: Hebrew *chesed*, here a rarer word meaning "shame, disgrace" (Leviticus 20:17), spelled like the word for "faithful love".
 [^14-26]: Hebrew *maskil*, as in 10:5.
@@ -1738,7 +1738,7 @@
 [^21-2]: The Hebrew vowel points read *nir*, "newly plowed ground" (as in 13:23): "the plowing of the wicked". The same consonants can be read *ner*, "lamp" (13:9; 20:27).
 [^21-3]: Hebrew *resha'im*, plural of *rasha*: those who are guilty of wrong (see 2:22).
 [^21-4]: Hebrew *hevel*, "breath, vapor", the word used throughout Ecclesiastes.
-[^21-5]: The Septuagint and the Vulgate read "a snare of death".
+[^21-5]: The Septuagint and the Vulgate read "snares of death".
 [^21-6]: Hebrew *vazar*, a word found only here, probably "guilty". Or "The way of a man is crooked and strange".
 [^21-7]: Hebrew *lets*: one who scorns wisdom and laughs at correction (see 1:22). Also in verse 24.
 [^21-8]: Hebrew *peti*: a naive, inexperienced person, easily led (see 1:4).
@@ -2100,3 +2100,485 @@
 [^25-10]: The verse repeats 21:9.
 [^25-11]: Hebrew *tsaddiq*: one who does what is right (see 2:20).
 [^25-12]: The Hebrew of this line is difficult. Literally "and searching out their glory is glory". The translation carries over the "not" of the first line.
+
+## Chapter 26
+
+*Status: draft*
+
+**1** Like snow in summer and like rain at harvest, so honor is not fitting for a fool.[^26-1]
+
+**2** Like a sparrow flitting, like a swallow flying, so an undeserved curse comes home to the one who utters it.[^26-2]
+
+**3** A whip for the horse, a bridle for the donkey, and a rod for the backs of fools.
+
+**4** Do not answer a fool according to his folly,[^26-3] or you will be like him yourself.
+
+**5** Answer a fool according to his folly, or he will be wise in his own eyes.[^26-4]
+
+**6** Whoever sends a message by the hand of a fool cuts off his own feet and drinks violence.
+
+**7** Like the legs of a lame person, which hang useless, is a proverb in the mouth of fools.
+
+**8** Like tying a stone in a sling[^26-5] is giving honor to a fool.
+
+**9** Like a thorn that gets into the hand of a drunkard is a proverb in the mouth of fools.
+
+**10** Like an archer who wounds everyone is one who hires a fool or hires passersby.[^26-6]
+
+**11** Like a dog that returns to its vomit is a fool who repeats his folly.[^26-7]
+
+**12** Do you see a person wise in his own eyes? There is more hope for a fool than for him.
+
+**13** The lazy person[^26-8] says, "There is a lion in the road! A lion in the streets!"[^26-9]
+
+**14** As a door turns on its hinges, so the lazy person turns on his bed.
+
+**15** The lazy person buries his hand in the dish; he is too tired to bring it back to his mouth.[^26-10]
+
+**16** The lazy person is wiser in his own eyes than seven people who answer sensibly.
+
+**17** Like one who grabs a dog by the ears is a passerby who meddles[^26-11] in a quarrel not his own.
+
+**18** Like a madman who shoots flaming arrows, arrows and death,
+
+**19** so is the man who deceives his neighbor and says, "I was only joking!"
+
+**20** Without wood a fire goes out, and without a gossip[^26-12] a quarrel dies down.
+
+**21** As charcoal to embers and wood to fire, so is a quarrelsome man for kindling strife.
+
+**22** The words of a gossip are like tasty morsels; they go down into the inner parts of the body.[^26-13]
+
+**23** Like glaze[^26-14] coating an earthenware pot are burning lips with an evil heart.
+
+**24** Whoever hates disguises it with his lips, but inside he harbors deceit.
+
+**25** When he speaks graciously, do not believe him, for seven detestable things[^26-15] are in his heart.
+
+**26** His hatred may be covered by deception, but his evil will be exposed in the assembly.
+
+**27** Whoever digs a pit will fall into it, and a stone will come back on the one who rolls it.
+
+**28** A lying tongue hates those it crushes,[^26-16] and a flattering mouth works ruin.
+
+[^26-1]: Hebrew *kesil*, the most common word for "fool" in Proverbs: someone dull and self-satisfied who does not want to learn (see 1:22). Throughout verses 1–12.
+[^26-2]: Literally "comes to him", probably the one who utters it. The Hebrew text is written "does not come", which gives the sense "so an undeserved curse does not land".
+[^26-3]: Hebrew *iwwelet*, "folly", the word related to *ewil*, "fool" (see 1:7). Also in verses 5 and 11.
+[^26-4]: Verses 4 and 5 are set side by side, giving opposite advice.
+[^26-5]: Or "Like a bag of precious stones in a heap of stones".
+[^26-6]: The Hebrew of this verse is very uncertain. Literally "Much (or 'An archer', or 'A master') wounding (or 'producing') all, and one who hires a fool and one who hires passersby".
+[^26-7]: 2 Peter 2:22 quotes the first line.
+[^26-8]: Hebrew *atsel*, traditionally "sluggard" (see 6:6). Also in verses 14–16.
+[^26-9]: Two different Hebrew words for "lion". Compare 22:13.
+[^26-10]: Compare 19:24.
+[^26-11]: Hebrew *mit'abber*, usually "becomes enraged"; here probably "gets involved".
+[^26-12]: Hebrew *nirgan*, "whisperer", as in 16:28. Also in verse 22.
+[^26-13]: The verse repeats 18:8.
+[^26-14]: The Hebrew vowel points read "silver of dross". The same consonants, divided into words differently, can be read "like glaze", a word known from other ancient languages.
+[^26-15]: Hebrew *to'evot*, plural of *to'evah*, "something loathsome" (see 3:32).
+[^26-16]: Literally "hates its crushed ones". The meaning is uncertain.
+
+## Chapter 27
+
+*Status: draft*
+
+**1** Do not boast about tomorrow, for you do not know what a day may bring.
+
+**2** Let a stranger praise you, and not your own mouth, an outsider,[^27-1] and not your own lips.
+
+**3** A stone is heavy and sand is weighty, but a fool's provocation is heavier than both.[^27-2]
+
+**4** Wrath is cruel and anger is a flood, but who can stand before jealousy?
+
+**5** Better open correction than hidden love.
+
+**6** Wounds from a friend can be trusted, but the kisses of an enemy are lavish.[^27-3]
+
+**7** One who is full tramples on honey, but to one who is hungry everything bitter is sweet.
+
+**8** Like a bird that strays from its nest is a man who strays from his home.
+
+**9** Oil and incense make the heart glad, and the sweetness of a friend comes from heartfelt advice.[^27-4]
+
+**10** Do not abandon your friend or your father's friend, and do not go to your brother's house on the day of your disaster. Better a neighbor nearby than a brother far away.
+
+**11** Be wise, my son, and make my heart glad, so that I can answer anyone who taunts me.
+
+**12** The prudent[^27-5] sees danger and hides himself; the simple[^27-6] go on and pay for it.[^27-7]
+
+**13** Take the garment of one who puts up security for a stranger; hold it in pledge for a foreign woman.[^27-8]
+
+**14** Whoever blesses his neighbor with a loud voice early in the morning, it will be counted to him as a curse.
+
+**15** A constant dripping on a rainy day and a quarrelsome wife are alike;
+
+**16** whoever restrains her restrains the wind or grasps oil with his right hand.[^27-9]
+
+**17** As iron sharpens iron, so one person sharpens another.[^27-10]
+
+**18** Whoever tends a fig tree will eat its fruit, and whoever looks after his master will be honored.
+
+**19** As water reflects the face, so the heart reflects the person.[^27-11]
+
+**20** Sheol and Abaddon[^27-12] are never satisfied, and human eyes are never satisfied.
+
+**21** The crucible is for silver and the furnace for gold, and a person is tested by the praise he receives.[^27-13]
+
+**22** Even if you pound a fool[^27-14] in a mortar, with a pestle among the grain, his folly will not leave him.
+
+**23** Know well the condition of your flocks; give careful attention to your herds,
+
+**24** for riches do not last forever, and does a crown last for all generations?
+
+**25** When the grass is gone and the new growth appears, and the plants of the hills are gathered in,
+
+**26** the lambs will provide your clothing, and the goats the price of a field,
+
+**27** and there will be enough goats' milk for your food, for the food of your household, and to keep your servant girls alive.
+
+[^27-1]: Hebrew *zar* and *nokhri*, the masculine forms of the words used for the "strange woman" and the "foreign woman" (2:16).
+[^27-2]: Hebrew *ewil*, the morally perverse, stubborn fool (see 1:7).
+[^27-3]: Hebrew *na'tarot*, perhaps "many, lavish", or "deceitful".
+[^27-4]: The Hebrew of this line is uncertain. Literally "and the sweetness of his friend from the advice of the soul". Or "and the sweetness of a friend is better than one's own advice".
+[^27-5]: Hebrew *arum*, "shrewd, prudent" (see 1:4).
+[^27-6]: Hebrew *peta'im*, plural of *peti*: naive, inexperienced people, easily led (see 1:4).
+[^27-7]: The verse repeats 22:3.
+[^27-8]: Hebrew *nokhriyyah*, "foreign woman" (see 2:16). The verse repeats 20:16.
+[^27-9]: The Hebrew of this verse is obscure. Literally "Those who hide her hide wind, and oil his right hand meets".
+[^27-10]: Literally "so a man sharpens the face of his friend".
+[^27-11]: Literally "As in water face to face, so the heart of a person to a person". This may mean that a person's heart shows what he is, or that one sees oneself in another's heart.
+[^27-12]: Hebrew *Sheol*, the realm of the dead, and *Abaddon*, "Destruction", another name for it (see 15:11).
+[^27-13]: Literally "and a man according to his praise". It may mean that a person is tested by how he takes praise, or known by what he praises.
+[^27-14]: Hebrew *ewil*, as in verse 3. *Folly* is *iwwelet*, the related word.
+
+## Chapter 28
+
+*Status: draft*
+
+**1** The wicked[^28-1] flee when no one pursues, but the righteous[^28-2] are as bold as a lion.
+
+**2** When a land rebels, it has many rulers, but through a person who understands and knows, its stability lasts.[^28-3]
+
+**3** A poor man who oppresses the poor is like a driving rain that leaves no food.
+
+**4** Those who abandon the law[^28-4] praise the wicked, but those who keep the law fight against them.
+
+**5** Evil people do not understand justice, but those who seek Yahweh[^28-5] understand everything.
+
+**6** Better a poor person who walks in integrity than one whose ways are crooked,[^28-6] even if he is rich.
+
+**7** Whoever keeps the law is a discerning son, but a companion of gluttons shames his father.
+
+**8** Whoever increases his wealth by interest and profit[^28-7] gathers it for one who is kind to the poor.
+
+**9** Whoever turns his ear away from hearing the law, even his prayer is detestable.
+
+**10** Whoever leads the upright astray into an evil way will fall into his own pit, but the blameless will inherit good.
+
+**11** A rich man is wise in his own eyes, but a poor man who is discerning sees through him.
+
+**12** When the righteous triumph, there is great glory, but when the wicked rise, people hide.[^28-8]
+
+**13** Whoever covers his offenses will not prosper, but whoever confesses and abandons them will find mercy.
+
+**14** Happy[^28-9] is the one who is always reverent,[^28-10] but whoever hardens his heart will fall into trouble.
+
+**15** Like a roaring lion or a charging bear is a wicked ruler over a poor people.
+
+**16** A ruler who lacks insight[^28-11] is a great oppressor, but whoever hates unjust gain will live long.
+
+**17** A man burdened with someone's blood will be a fugitive until the Pit;[^28-12] let no one hold him back.
+
+**18** Whoever walks blamelessly will be kept safe, but whoever is crooked in his ways will fall all at once.
+
+**19** Whoever works his land will have plenty of bread, but whoever chases worthless things will have plenty of poverty.
+
+**20** A faithful person will have many blessings, but whoever hurries to get rich will not go unpunished.
+
+**21** Showing partiality is not good, yet for a piece of bread a man will do wrong.
+
+**22** A stingy man[^28-13] hurries after wealth and does not know that poverty will come upon him.
+
+**23** Whoever corrects someone will in the end[^28-14] find more favor than one who flatters with his tongue.
+
+**24** Whoever robs his father or his mother and says, "It is no offense," is a companion of a destroyer.
+
+**25** The greedy person[^28-15] stirs up strife, but whoever trusts in Yahweh will prosper.
+
+**26** Whoever trusts in his own heart is a fool,[^28-16] but whoever walks in wisdom will be kept safe.
+
+**27** Whoever gives to the poor will not lack, but whoever shuts his eyes will receive many curses.
+
+**28** When the wicked rise, people hide, but when they perish, the righteous increase.
+
+[^28-1]: Hebrew *rasha*: one who is guilty of wrong (see 2:22).
+[^28-2]: Hebrew *tsaddiqim*, plural of *tsaddiq*: those who do what is right (see 2:20).
+[^28-3]: The Hebrew of this line is difficult. Literally "but by a person who understands, who knows, so it lasts long".
+[^28-4]: Hebrew *torah*, "instruction", here probably God's law. Also in verses 7 and 9.
+[^28-5]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^28-6]: Literally "crooked of two ways", perhaps double-dealing. Also in verse 18. Compare 19:1.
+[^28-7]: Lending at interest to a fellow Israelite was forbidden (Leviticus 25:36–37).
+[^28-8]: Literally "a person must be searched for".
+[^28-9]: Hebrew *ashrei*: happy, fortunate; traditionally "blessed".
+[^28-10]: Literally "who fears always", that is, fears God, or fears doing wrong.
+[^28-11]: Literally "lacking insights". Hebrew *tevunot*, plural of *tevunah* (see 2:2).
+[^28-12]: That is, until death. Hebrew *bor*, "pit", as in 1:12.
+[^28-13]: Literally "A man with an evil eye".
+[^28-14]: Hebrew *acharai*, literally "after me", probably "afterward".
+[^28-15]: Literally "One who is wide of appetite (*nephesh*)".
+[^28-16]: Hebrew *kesil* (see 1:22).
+
+## Chapter 29
+
+*Status: draft*
+
+**1** Whoever is often corrected yet stays stiff-necked will suddenly be broken, and there will be no healing.
+
+**2** When the righteous[^29-1] increase, the people rejoice, but when the wicked[^29-2] rule, the people groan.
+
+**3** A man who loves wisdom makes his father glad, but a companion of prostitutes squanders his wealth.
+
+**4** By justice a king gives a land stability, but a man who exacts contributions[^29-3] tears it down.
+
+**5** A man who flatters his neighbor is spreading a net for his feet.[^29-4]
+
+**6** An evil man is snared by his own offense, but the righteous sings and rejoices.
+
+**7** The righteous knows the rights of the poor; the wicked has no such understanding.[^29-5]
+
+**8** Mockers[^29-6] set a city aflame, but the wise turn away anger.
+
+**9** If a wise man goes to court with a fool,[^29-7] the fool rages and laughs,[^29-8] and there is no peace.
+
+**10** Bloodthirsty men hate the blameless, and as for the upright, they seek his life.[^29-9]
+
+**11** A fool[^29-10] gives full vent to his anger,[^29-11] but a wise person quietly holds it back.
+
+**12** If a ruler listens to lies, all his officials become wicked.
+
+**13** The poor and the oppressor meet together; Yahweh[^29-12] gives light to the eyes of both.[^29-13]
+
+**14** If a king judges the poor with faithfulness, his throne will be established forever.
+
+**15** The rod and correction give wisdom, but a child left to himself brings shame to his mother.
+
+**16** When the wicked increase, offense increases, but the righteous will see their downfall.
+
+**17** Discipline your son, and he will give you rest; he will bring delight to your soul.
+
+**18** Where there is no vision,[^29-14] the people run wild, but whoever keeps the law[^29-15] is happy.[^29-16]
+
+**19** A servant cannot be disciplined by words alone; though he understands, he will not respond.
+
+**20** Do you see someone who is hasty in his words? There is more hope for a fool than for him.
+
+**21** If someone pampers his servant from youth, in the end it will bring grief.[^29-17]
+
+**22** An angry man stirs up strife, and a hot-tempered man commits many offenses.
+
+**23** A person's pride will bring him low, but the lowly in spirit will gain honor.
+
+**24** Whoever is a partner with a thief hates his own life; he hears the curse but does not testify.[^29-18]
+
+**25** Fear of people sets a snare, but whoever trusts in Yahweh is kept safe.
+
+**26** Many seek the favor of a ruler, but justice for a person comes from Yahweh.
+
+**27** An unjust man is detestable to the righteous, and one whose way is upright is detestable to the wicked.
+
+[^29-1]: Hebrew *tsaddiqim*, plural of *tsaddiq*: those who do what is right (see 2:20).
+[^29-2]: Hebrew *rasha*: one who is guilty of wrong (see 2:22).
+[^29-3]: Hebrew *terumot*, "contributions", perhaps heavy taxes or bribes.
+[^29-4]: Either his neighbor's feet or his own.
+[^29-5]: Literally "the wicked does not understand knowledge".
+[^29-6]: Literally "Men of mockery". Hebrew *latson*, from the same root as *lets*, "mocker" (see 1:22).
+[^29-7]: Hebrew *ewil*, the morally perverse, stubborn fool (see 1:7).
+[^29-8]: Or "whether the wise man is angry or laughs".
+[^29-9]: Literally "and the upright seek his life". This may mean that the upright care for the blameless person's life, or that the bloodthirsty seek the life of the upright.
+[^29-10]: Hebrew *kesil* (see 1:22). Also in verse 20.
+[^29-11]: Literally "brings out all his spirit (*ruach*)".
+[^29-12]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^29-13]: Compare 22:2.
+[^29-14]: Hebrew *chazon*, a prophet's vision, revelation from God.
+[^29-15]: Hebrew *torah*, "instruction", here probably God's law.
+[^29-16]: Hebrew *ashrei*: happy, fortunate; traditionally "blessed".
+[^29-17]: Literally "and his end will be *manon*", a word found only here, of uncertain meaning: perhaps "grief", "insolence" or "an heir".
+[^29-18]: The *curse* is the public oath that called on witnesses to come forward (Leviticus 5:1).
+
+## Chapter 30
+
+*Status: draft*
+
+**1** The words of Agur son of Jakeh, the oracle.[^30-1] The man declares to Ithiel, to Ithiel and Ucal:[^30-2]
+
+**2** Surely I am too stupid[^30-3] to be a man; I do not have human understanding.[^30-4]
+
+**3** I have not learned wisdom, nor do I have knowledge of the Holy One.[^30-5]
+
+**4** Who has gone up to heaven and come down? Who has gathered the wind in his fists? Who has wrapped up the waters in a cloak? Who has established all the ends of the earth? What is his name, and what is his son's name? Surely you know![^30-6]
+
+**5** Every word of God[^30-7] is refined; he is a shield to those who take refuge in him.
+
+**6** Do not add to his words, or he will rebuke you, and you will be found a liar.[^30-8]
+
+**7** Two things I ask of you; do not refuse me before I die:
+
+**8** keep falsehood and lies far from me; give me neither poverty nor riches; feed me with the bread I need,[^30-9]
+
+**9** or I may become full and deny you and say, "Who is Yahweh?"[^30-10] or I may become poor and steal, and profane the name of my God.
+
+**10** Do not slander a servant to his master, or he will curse you, and you will be held guilty.
+
+**11** There are those[^30-11] who curse their father and do not bless their mother.
+
+**12** There are those who are pure in their own eyes, yet are not washed of their filth.
+
+**13** There are those whose eyes are so haughty, whose eyelids are lifted high.
+
+**14** There are those whose teeth are swords, whose jaws are knives, to devour the poor from the earth and the needy from among humankind.
+
+**15** The leech[^30-12] has two daughters: "Give! Give!" There are three things that are never satisfied, four that never say, "Enough!":[^30-13]
+
+**16** Sheol,[^30-14] the barren womb, land that is never satisfied with water, and fire that never says, "Enough!"
+
+**17** The eye that mocks a father and scorns obedience[^30-15] to a mother will be pecked out by the ravens of the valley and eaten by the young vultures.[^30-16]
+
+**18** There are three things too wonderful for me, four that I do not understand:
+
+**19** the way of an eagle in the sky, the way of a snake on a rock, the way of a ship on the high seas, and the way of a man with a young woman.[^30-17]
+
+**20** This is the way of an adulterous woman: she eats and wipes her mouth and says, "I have done nothing wrong."
+
+**21** Under three things the earth trembles, under four it cannot bear up:
+
+**22** a servant when he becomes king, a godless fool[^30-18] when he is filled with food,
+
+**23** an unloved woman when she gets a husband, and a servant girl when she takes the place of her mistress.
+
+**24** Four things on earth are small, but they are exceedingly wise:
+
+**25** the ants are a people without strength, yet they store up their food in summer;
+
+**26** the rock badgers[^30-19] are a people without power, yet they make their homes in the rocks;
+
+**27** the locusts have no king, yet they all go out in ranks;
+
+**28** the lizard[^30-20] can be caught in the hand,[^30-21] yet it lives in kings' palaces.
+
+**29** There are three things that are stately in their stride, four that are stately in their walk:
+
+**30** the lion, mightiest among beasts, which does not turn back before anything;
+
+**31** the strutting rooster,[^30-22] or the male goat, and a king with his army around him.[^30-23]
+
+**32** If you have been foolish, exalting yourself, or if you have been scheming, put your hand over your mouth.
+
+**33** For pressing milk produces curds, pressing the nose produces blood, and pressing anger produces strife.[^30-24]
+
+[^30-1]: Or "of Massa", an Arabian tribe descended from Ishmael (Genesis 25:14); also in 31:1. Nothing more is known of Agur, and it is not clear where his words end. On the order of chapters 30–31 in the Septuagint, see the note on 24:23.
+[^30-2]: With different vowels and a different division of the words, "I am weary, O God; I am weary, O God, and I am worn out".
+[^30-3]: Hebrew *ba'ar*, "brutish", as in 12:1.
+[^30-4]: Hebrew *binah*, as in 1:2.
+[^30-5]: Literally "and the knowledge of the Holy One I know"; the "not" of the first line probably carries over. Or "yet I know the knowledge of the Holy One". *The Holy One* is Hebrew *qedoshim*, as in 9:10.
+[^30-6]: Or "if you know!"
+[^30-7]: Hebrew *Eloah*, a poetic form of *Elohim*, "God". The line is nearly the same as Psalm 18:31 (18:30 in most English Bibles) and 2 Samuel 22:31.
+[^30-8]: Compare Deuteronomy 4:2; 13:1 (12:32 in most English Bibles).
+[^30-9]: Literally "the bread of my portion".
+[^30-10]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^30-11]: Literally "A generation", that is, a kind of people. Also in verses 12–14.
+[^30-12]: Hebrew *aluqah*, a word found only here, probably "leech".
+[^30-13]: The pattern "three … four" builds up to the last item in the list (compare 6:16). Also in verses 18, 21 and 29.
+[^30-14]: Hebrew *Sheol*, the realm of the dead.
+[^30-15]: Hebrew *yiqqahat*, a rare word, perhaps "obedience" (Genesis 49:10).
+[^30-16]: Or "young eagles". Hebrew *nesher*.
+[^30-17]: Hebrew *almah*, a young woman old enough to marry (Genesis 24:43; Isaiah 7:14).
+[^30-18]: Hebrew *nabal*: a senseless, godless person (see 17:7).
+[^30-19]: Hebrew *shefannim*, the rock hyrax, a small animal that lives among rocks (Psalm 104:18).
+[^30-20]: Hebrew *semamit*, probably a lizard or gecko; traditionally "spider".
+[^30-21]: Or "grips with its hands".
+[^30-22]: Hebrew *zarzir motnayim*, literally "girded at the waist", an animal that cannot be identified with certainty: perhaps a rooster, a greyhound or a war horse.
+[^30-23]: Hebrew *alqum*, a word of uncertain meaning: perhaps "his army", or "against whom no one rises up".
+[^30-24]: In Hebrew *af*, "nose", and *appayim*, "anger" (literally "nostrils"), are the same word.
+
+## Chapter 31
+
+*Status: draft*
+
+**1** The words of King Lemuel, an oracle[^31-1] that his mother taught him.
+
+**2** What, my son? What, son of my womb? What, son of my vows?[^31-2]
+
+**3** Do not give your strength to women, your ways to those who destroy kings.
+
+**4** It is not for kings, Lemuel, not for kings to drink wine, nor for rulers to ask, "Where is beer?"[^31-3]
+
+**5** or they will drink and forget what has been decreed and pervert the rights of all the afflicted.
+
+**6** Give beer to one who is perishing, and wine to those who are bitter in soul.
+
+**7** Let them drink and forget their poverty and remember their trouble no more.
+
+**8** Open your mouth for those who cannot speak, for the rights of all who are destitute.[^31-4]
+
+**9** Open your mouth, judge rightly, and defend the rights of the poor and needy.
+
+**10** A capable wife,[^31-5] who can find? She is worth far more than coral.[^31-6]
+
+**11** Her husband's heart trusts in her, and he will not lack gain.[^31-7]
+
+**12** She does him good and not harm all the days of her life.
+
+**13** She seeks out wool and flax and works with willing hands.
+
+**14** She is like the merchant ships; she brings her food from far away.
+
+**15** She gets up while it is still night and provides food for her household and portions[^31-8] for her servant girls.
+
+**16** She considers a field and buys it; from her earnings she plants a vineyard.
+
+**17** She wraps herself in strength and makes her arms strong.[^31-9]
+
+**18** She sees that her trading is profitable; her lamp does not go out at night.
+
+**19** She puts her hands to the distaff, and her palms grasp the spindle.
+
+**20** She opens her hand to the poor and reaches out her hands to the needy.
+
+**21** She is not afraid of the snow for her household, for all her household are clothed in scarlet.[^31-10]
+
+**22** She makes coverings for herself; her clothing is fine linen and purple.
+
+**23** Her husband is known at the city gates, when he sits among the elders of the land.
+
+**24** She makes linen garments and sells them, and supplies sashes to the merchants.[^31-11]
+
+**25** Strength and dignity are her clothing, and she laughs at the time to come.
+
+**26** She opens her mouth with wisdom, and loving instruction[^31-12] is on her tongue.
+
+**27** She watches over the ways of her household and does not eat the bread of idleness.
+
+**28** Her children rise up and call her happy;[^31-13] her husband too, and he praises her:
+
+**29** "Many women have done capably,[^31-14] but you surpass them all."
+
+**30** Charm is deceptive and beauty is fleeting,[^31-15] but a woman who fears Yahweh[^31-16] is to be praised.
+
+**31** Give her the fruit of her hands, and let her works praise her in the gates.
+
+[^31-1]: Or "The words of Lemuel king of Massa" (see 30:1). Verses 2–9 are the words of his mother.
+[^31-2]: The Hebrew word for "son" here is *bar*, the Aramaic word, used three times in this verse.
+[^31-3]: The Hebrew text is written "or beer" but read "Where is beer?"
+[^31-4]: Literally "all the sons of passing away", perhaps those who are perishing or have no one to stand up for them.
+[^31-5]: Hebrew *eshet chayil*, "a woman of strength, of worth", as in 12:4 and Ruth 3:11. Verses 10–31 form an acrostic poem: each verse begins with the next letter of the Hebrew alphabet, from *aleph* to *tav*.
+[^31-6]: Hebrew *peninim*, as in 3:15.
+[^31-7]: Literally "plunder".
+[^31-8]: Or "tasks".
+[^31-9]: Literally "She girds her waist with strength".
+[^31-10]: With different vowels, "clothed in double garments", as the Vulgate reads.
+[^31-11]: Literally "to the Canaanite", a word that came to mean "trader".
+[^31-12]: Literally "the instruction (*torah*) of faithful love (*chesed*)". Or "kind teaching".
+[^31-13]: The verb is from the same root as *ashrei*, "happy" (see 3:13).
+[^31-14]: Hebrew *chayil*, the word translated "capable" in verse 10. Literally "Many daughters have done capably".
+[^31-15]: Hebrew *hevel*, "breath, vapor", the word used throughout Ecclesiastes.
+[^31-16]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
