@@ -541,3 +541,167 @@
 [^6-7]: The meaning of the Aramaic *dachavan* is unknown. Suggestions include food, music and concubines.
 [^6-8]: Literally "who had eaten the pieces of Daniel". See 3:8.
 [^6-9]: Or "in the reign of Darius, that is, the reign of Cyrus the Persian".
+
+## Chapter 7
+
+*Status: draft*
+
+**1** In the first year of Belshazzar king of Babylon,[^7-1] Daniel had a dream, and visions passed through his head as he lay on his bed. Then he wrote down the dream and told the main points of the account.[^7-2]
+
+**2** Daniel said,[^7-3] "I was looking in my vision by night, and there were the four winds of heaven stirring up the great sea.
+
+**3** Four great beasts came up out of the sea, each different from the others.
+
+**4** The first was like a lion and had eagle's wings. As I watched, its wings were plucked off, and it was lifted up from the ground and made to stand on two feet like a human being, and a human mind was given to it.
+
+**5** Then there was another beast, a second one, like a bear. It was raised up on one side, and it had three ribs in its mouth between its teeth. It was told, 'Get up, devour much flesh!'
+
+**6** After this I looked, and there was another, like a leopard. It had four wings of a bird on its back, and the beast had four heads, and it was given authority to rule.
+
+**7** After this I was looking in the visions of the night, and there was a fourth beast, terrifying and dreadful and extremely strong. It had great iron teeth. It devoured and crushed, and it trampled what was left with its feet. It was different from all the beasts before it, and it had ten horns.
+
+**8** While I was considering the horns, there was another horn, a small one, coming up among them, and three of the first horns were uprooted before it. This horn had eyes like human eyes and a mouth speaking arrogant words.[^7-4]
+
+**9** As I looked, thrones were set in place, and the Ancient of Days[^7-5] took his seat. His clothing was white as snow, and the hair of his head like pure wool. His throne was flames of fire, and its wheels were burning fire.
+
+**10** A river of fire was flowing, coming out from before him. Thousands upon thousands served him, and ten thousand times ten thousand stood before him.[^7-6] The court sat in judgment, and the books were opened.
+
+**11** Then I kept looking because of the sound of the arrogant words that the horn was speaking. As I watched, the beast was killed, and its body destroyed and given over to the burning fire.
+
+**12** As for the rest of the beasts, their authority was taken away, but their lives were prolonged for a season and a time.
+
+**13** I was looking in the visions of the night, and there, with the clouds of heaven, one like a son of man[^7-7] was coming. He came to the Ancient of Days and was presented before him.
+
+**14** He was given authority, glory and kingship, so that all peoples, nations and languages would serve him.[^7-8] His authority is an everlasting authority that will not pass away, and his kingdom is one that will not be destroyed.
+
+**15** As for me, Daniel, my spirit was distressed within me,[^7-9] and the visions that passed through my head terrified me.
+
+**16** I approached one of those standing there and asked him the truth about all this. So he told me and made known to me the interpretation of these things:
+
+**17** 'These great beasts, which are four, are four kings who will arise from the earth.
+
+**18** But the holy ones of the Most High[^7-10] will receive the kingdom, and they will possess the kingdom forever, forever and ever.'
+
+**19** Then I wanted to know the truth about the fourth beast, which was different from all the others, extremely terrifying, with teeth of iron and claws of bronze, which devoured and crushed and trampled what was left with its feet,
+
+**20** and about the ten horns on its head, and the other horn that came up, before which three fell: the horn that had eyes and a mouth speaking arrogant words, and that looked greater than the others.
+
+**21** As I watched, this horn was making war against the holy ones and was prevailing over them,
+
+**22** until the Ancient of Days came and judgment was given in favor of the holy ones of the Most High,[^7-11] and the time came when the holy ones took possession of the kingdom.
+
+**23** This is what he said: 'The fourth beast will be a fourth kingdom on earth, which will be different from all the kingdoms. It will devour the whole earth, trample it down and crush it.
+
+**24** As for the ten horns, out of this kingdom ten kings will arise, and another will arise after them. He will be different from the earlier ones, and he will bring down three kings.
+
+**25** He will speak words against the Most High and wear down the holy ones of the Most High. He will try to change the sacred seasons and the law,[^7-12] and they will be given into his hand for a time, times and half a time.[^7-13]
+
+**26** But the court will sit in judgment, and his authority will be taken away, to be destroyed and abolished forever.
+
+**27** Then the kingship and the authority and the greatness of the kingdoms under the whole heaven will be given to the people of the holy ones of the Most High. Their kingdom will be an everlasting kingdom, and all rulers will serve and obey them.'[^7-14]
+
+**28** Here is the end of the account. As for me, Daniel, my thoughts greatly terrified me, and my face turned pale, but I kept the matter in my heart."
+
+[^7-1]: Perhaps about 550 BC, when Nabonidus left Belshazzar in charge of Babylon (see 5:1).
+[^7-2]: Literally "he said the head of the words". The meaning of the Aramaic is uncertain.
+[^7-3]: Literally "Daniel answered and said".
+[^7-4]: Literally "great things". Also in verses 11 and 20.
+[^7-5]: Aramaic *attiq yomin*, "one advanced in days", an aged figure: God seated as judge. Here the phrase has no article ("one ancient of days"); in verses 13 and 22 it is "the Ancient of Days".
+[^7-6]: Literally "A thousand thousands served him, and a myriad of myriads stood before him".
+[^7-7]: Aramaic *kevar enash*, "like a son of man", that is, one in human form, in contrast to the beasts. *Bar enash*, like Hebrew *ben adam*, means "a human being" (compare 8:17). In the interpretation (verses 18, 22 and 27) the kingdom is given to "the holy ones of the Most High". Interpreters have understood the figure as a symbol of God's faithful people, as an angel such as Michael (10:21; 12:1), or as a heavenly ruler. Later Jewish writings (1 Enoch 37–71; 4 Ezra 13) and some rabbinic teachers took him to be the Messiah. In the Gospels, Jesus' title "the Son of Man" draws on this verse (Mark 13:26; 14:62), and Revelation 1:7, 13 alludes to it.
+[^7-8]: Aramaic *pelach*, "serve", the verb used for serving God or the gods (3:12, 14, 17–18, 28; 6:17, 21). Also in verse 27.
+[^7-9]: Literally "within its sheath", the body as the sheath of the spirit.
+[^7-10]: Aramaic *qaddishe elyonin*. In the Old Testament "holy ones" usually means angels (4:10, 14; 8:13; Psalm 89:6, 8), but here it may mean God's faithful people (compare verse 27, "the people of the holy ones of the Most High"). *Elyonin*, "Most High", is plural in form, probably as a mark of majesty. Also in verses 22, 25 and 27.
+[^7-11]: Or "the right to judge was given to the holy ones of the Most High".
+[^7-12]: Literally "the times and the law", probably the sacred calendar and festivals and the law of God. Many interpreters identify the small horn with Antiochus IV Epiphanes, king of the Seleucid empire from 175 to 164 BC, who banned the Jewish festivals and the observance of the Law (1 Maccabees 1:41–64; compare Daniel 8:9–12; 11:21–45). Others see a later ruler.
+[^7-13]: That is, probably three and a half years. Compare 12:7 and Revelation 12:14.
+[^7-14]: Literally "His kingdom … serve and obey him". The singular pronoun may refer to the people or to the Most High.
+
+## Chapter 8
+
+*Status: draft*
+
+**1** In the third year of the reign of King Belshazzar, a vision appeared to me, Daniel, after the one that had appeared to me before.[^8-1]
+
+**2** I looked in the vision, and as I looked, I was in the fortress of Susa,[^8-2] in the province of Elam. I looked in the vision, and I was beside the Ulai Canal.[^8-3]
+
+**3** I lifted my eyes and looked, and there was a ram standing beside the canal. It had two horns. Both horns were long, but one was longer than the other, and the longer one came up last.
+
+**4** I saw the ram charging westward, northward and southward. No beast could stand before it, and there was no one who could rescue from its power. It did as it pleased and made itself great.
+
+**5** As I was considering this, a male goat came from the west across the face of the whole earth, without touching the ground. The goat had a conspicuous horn between its eyes.
+
+**6** It came to the ram with the two horns, which I had seen standing beside the canal, and it charged at it in furious strength.
+
+**7** I saw it reach the ram. It was enraged against it, and it struck the ram and broke its two horns. The ram had no strength to stand before it. It threw the ram to the ground and trampled on it, and there was no one who could rescue the ram from its power.
+
+**8** The male goat made itself very great. But at the height of its power the great horn was broken, and in its place four conspicuous horns came up toward the four winds of heaven.
+
+**9** Out of one of them came another horn, a small one,[^8-4] which grew exceedingly great toward the south, toward the east and toward the beautiful land.[^8-5]
+
+**10** It grew as high as the host of heaven, and it threw down to the earth some of the host and some of the stars, and trampled on them.
+
+**11** It made itself great, even up to the commander of the host.[^8-6] The regular offering was taken away from him,[^8-7] and the place of his sanctuary was thrown down.
+
+**12** Because of transgression, the host was given over, together with the regular offering.[^8-8] It threw truth to the ground, and it acted and succeeded.
+
+**13** Then I heard a holy one speaking, and another holy one said to the one who was speaking,[^8-9] "How long will the vision last, concerning the regular offering, the transgression that makes desolate,[^8-10] and the giving over of both the sanctuary and the host to be trampled?"
+
+**14** He said to me,[^8-11] "For 2,300 evenings and mornings.[^8-12] Then the sanctuary will be restored to its rightful state."[^8-13]
+
+**15** While I, Daniel, was seeing the vision and trying to understand it, there stood before me one who looked like a man.[^8-14]
+
+**16** And I heard a human voice from between the banks of the Ulai, and it called out, "Gabriel,[^8-15] make this man understand the vision."
+
+**17** He came near where I stood, and when he came I was terrified and fell on my face. He said to me, "Understand, son of man,[^8-16] that the vision is for the time of the end."
+
+**18** While he was speaking with me, I fell into a deep sleep with my face to the ground. Then he touched me and set me on my feet.[^8-17]
+
+**19** He said, "I am going to make known to you what will happen at the end of the time of wrath,[^8-18] for it concerns the appointed time of the end.[^8-19]
+
+**20** The ram that you saw with the two horns: these are the kings of Media and Persia.
+
+**21** The shaggy male goat is the king of Greece,[^8-20] and the great horn between its eyes is the first king.[^8-21]
+
+**22** As for the horn that was broken and the four that arose in its place: four kingdoms will arise from his nation, but not with his power.[^8-22]
+
+**23** At the end of their rule, when the transgressors have reached their full measure, a king will arise, fierce-looking and skilled in intrigue.[^8-23]
+
+**24** His power will be mighty, but not by his own power. He will cause astonishing destruction,[^8-24] and he will succeed in what he does. He will destroy the mighty and the people of the holy ones.[^8-25]
+
+**25** By his cunning he will make deceit succeed under his hand, and in his heart he will make himself great. Without warning[^8-26] he will destroy many. He will even stand up against the Prince of princes, but he will be broken, and not by human hand.[^8-27]
+
+**26** The vision of the evenings and the mornings that has been told is true. But you, keep the vision secret,[^8-28] for it refers to many days from now."
+
+**27** And I, Daniel, was overcome[^8-29] and lay sick for some days. Then I got up and went about the king's business. But I was appalled by the vision, and no one could explain it.[^8-30]
+
+[^8-1]: From here to the end of the book the text is in Hebrew again. The Aramaic section, 2:4–7:28, has ended.
+[^8-2]: Or "in Susa the citadel". Susa was later one of the royal cities of the Persian kings (Nehemiah 1:1; Esther 1:2).
+[^8-3]: Hebrew *uval*, probably "canal" or "watercourse"; the Septuagint and the Vulgate understood "gate". The Ulai flowed past Susa. Also in verses 3 and 6.
+[^8-4]: Literally "a horn from smallness". This horn is probably Antiochus IV Epiphanes (175–164 BC), king of the Seleucid empire, one of the kingdoms that came from the empire of Alexander the Great (verses 21–22). In 167 BC he stopped the sacrifices in the temple in Jerusalem (1 Maccabees 1:20–64). Compare 7:8, 25; 11:21–45.
+[^8-5]: Hebrew *ha-tsevi*, "the beauty, the glory", here the land of Israel (compare 11:16, 41; Jeremiah 3:19; Ezekiel 20:6).
+[^8-6]: Hebrew *sar ha-tsava*, "the prince of the host": God himself, or an angelic commander of his armies (compare Joshua 5:14–15).
+[^8-7]: The Hebrew text is written "It took the regular offering away from him" but read "The regular offering was taken away from him". *Ha-tamid*, "the continual", is the regular burnt offering made every morning and evening (Exodus 29:38–42; Numbers 28:3–8). Also in verses 12–13.
+[^8-8]: The Hebrew of this verse is difficult. It may also mean "A host was set over the regular offering in transgression".
+[^8-9]: Hebrew *palmoni*, "a certain one", used of someone whose name is not given.
+[^8-10]: Hebrew *ha-pesha shomem*. Compare "the abomination that causes desolation" in 9:27; 11:31 and 12:11.
+[^8-11]: The Septuagint and Theodotion read "to him".
+[^8-12]: Literally "evening morning": either 2,300 days, or 2,300 evening and morning offerings, that is, 1,150 days.
+[^8-13]: Literally "will be put right" or "will be vindicated". The temple was cleansed and rededicated in December 164 BC (1 Maccabees 4:36–59), the origin of the festival of Hanukkah.
+[^8-14]: Hebrew *gever*, "a man", which sounds like the first part of the name Gabriel in verse 16.
+[^8-15]: Gabriel means "man of God" or "God is mighty". With Michael (10:13, 21; 12:1), he is one of the only two angels named in the Hebrew Bible. Compare Luke 1:19, 26.
+[^8-16]: Hebrew *ben adam*, "a human being, a mortal", the title by which God addresses Ezekiel. Compare 7:13.
+[^8-17]: Literally "made me stand where I stood".
+[^8-18]: Hebrew *za'am*, God's anger against his people (compare Isaiah 10:5, 25).
+[^8-19]: Or "for the end will come at the appointed time".
+[^8-20]: Hebrew *Yavan*, Ionia: the Greeks.
+[^8-21]: Alexander the Great, who conquered the Persian Empire between 334 and 330 BC and died in 323 BC.
+[^8-22]: After Alexander's death his empire was divided among his generals. Among the kingdoms that came from it were the Ptolemaic kingdom in Egypt and the Seleucid kingdom in Syria and Mesopotamia.
+[^8-23]: Literally "strong of face and understanding riddles".
+[^8-24]: Literally "He will destroy wonderfully".
+[^8-25]: Or "the holy people". Compare 7:27.
+[^8-26]: Or "When they feel secure". Literally "in ease".
+[^8-27]: Literally "and without a hand". Antiochus IV died of illness in 164 BC while on campaign in Persia (1 Maccabees 6:1–16).
+[^8-28]: Literally "shut up the vision".
+[^8-29]: Literally "was finished". The meaning of the Hebrew *nihyeti* is uncertain.
+[^8-30]: Or "and I did not understand it". Literally "and there was no one who understood".

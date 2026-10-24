@@ -320,6 +320,139 @@
 [^5-15]: Literally "rebukes of fury".
 [^5-16]: Literally "break the staff of bread for you" (4:16; Leviticus 26:26).
 
+## Chapter 6
+
+*Status: draft*
+
+**1** The word of Yahweh[^6-1] came to me:
+
+**2** Son of man,[^6-2] set your face toward the mountains of Israel and prophesy against them.
+
+**3** Say: Mountains of Israel, hear the word of the Lord Yahweh.[^6-3] This is what the Lord Yahweh says to the mountains and the hills, to the ravines and the valleys: Look, I myself am bringing a sword against you, and I will destroy your high places.[^6-4]
+
+**4** Your altars will be made desolate, and your incense altars[^6-5] will be smashed. I will make your slain fall in front of your idols.[^6-6]
+
+**5** I will lay the corpses of the Israelites in front of their idols, and I will scatter your bones around your altars.
+
+**6** Wherever you live, the cities will be laid waste and the high places made desolate, so that your altars will be laid waste and held guilty,[^6-7] your idols smashed and brought to an end, your incense altars cut down, and your works wiped out.
+
+**7** The slain will fall among you, and you will know that I am Yahweh.[^6-8]
+
+**8** But I will leave some of you alive: some of you will escape the sword among the nations, when you are scattered through the countries.
+
+**9** Then those of you who escape will remember me among the nations where they have been taken captive, how I was broken[^6-9] by their heart, which played the prostitute[^6-10] and turned away from me, and by their eyes, which played the prostitute after their idols. They will loathe themselves[^6-11] for the evil they have done, for all their detestable practices.[^6-12]
+
+**10** And they will know that I am Yahweh. It was not for nothing that I said I would bring this disaster on them.
+
+**11** This is what the Lord Yahweh says: Clap your hands and stamp your feet, and say "Alas!" over all the evil, detestable practices of the house of Israel, for they will fall by the sword, by famine and by plague.
+
+**12** Whoever is far away will die of plague, whoever is near will fall by the sword, and whoever is left and spared[^6-13] will die of famine. So I will spend my fury on them.
+
+**13** And you will know that I am Yahweh, when their slain lie among their idols around their altars, on every high hill, on all the mountaintops, under every green tree and under every leafy oak, the places where they offered a pleasing aroma[^6-14] to all their idols.
+
+**14** I will stretch out my hand against them and make the land a desolate waste, from the wilderness to Diblah,[^6-15] wherever they live. Then they will know that I am Yahweh.
+
+[^6-1]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^6-2]: Hebrew *ben adam*, "son of man": a human being, a mortal.
+[^6-3]: Hebrew *Adonai YHWH*, "my Lord Yahweh".
+[^6-4]: Hebrew *bamot*: places of worship, often on hilltops.
+[^6-5]: Hebrew *chammanim*, probably small altars for burning incense. Also in verse 6.
+[^6-6]: Hebrew *gillulim*, a contemptuous word for idols, perhaps related to the word for dung. Also in verses 5–6, 9 and 13.
+[^6-7]: Or "made desolate". The Hebrew form usually means "be held guilty".
+[^6-8]: A formula that recurs throughout Ezekiel: what Yahweh does, in judgment and in rescue, will make people recognize who he is.
+[^6-9]: Literally "I was broken". Some scholars read *shavarti*, "I broke (their heart)", with a small change to the Hebrew.
+[^6-10]: Hebrew *zanah*, "act as a prostitute", a common image for unfaithfulness to Yahweh (chapters 16 and 23).
+[^6-11]: Literally "loathe their faces".
+[^6-12]: Hebrew *to'evot*, things that are abhorrent, especially in worship. Also in verse 11.
+[^6-13]: Or "besieged". Hebrew *natsur*, "kept, guarded".
+[^6-14]: Literally "a soothing smell", the phrase used for offerings to Yahweh (Leviticus 1:9).
+[^6-15]: Or "more desolate than the wilderness toward Diblah". Diblah is otherwise unknown. Some Hebrew manuscripts read "Riblah", which differs by one similar letter: a town in Syria, north of the land of Israel (2 Kings 25:6, 20–21).
+
+## Chapter 7
+
+*Status: draft*
+
+**1** The word of Yahweh[^7-1] came to me:
+
+**2** And you, son of man,[^7-2] this is what the Lord Yahweh[^7-3] says to the land of Israel: An end! The end has come on the four corners of the land.
+
+**3** Now the end is on you.[^7-4] I will let loose my anger against you; I will judge you according to your ways, and I will bring on you the penalty for all your detestable practices.[^7-5]
+
+**4** My eye will not pity you, and I will not spare. I will bring your ways down on you, and your detestable practices will be in your midst. Then you will know that I am Yahweh.
+
+**5** This is what the Lord Yahweh says: Disaster! A disaster like no other![^7-6] Look, it is coming!
+
+**6** An end has come! The end has come! It has awakened against you.[^7-7] Look, it is coming!
+
+**7** Doom[^7-8] has come to you, you who live in the land. The time has come; the day is near: tumult, and not joyful shouting on the mountains.[^7-9]
+
+**8** Now, very soon, I will pour out my fury on you and spend my anger against you. I will judge you according to your ways, and I will bring on you the penalty for all your detestable practices.
+
+**9** My eye will not pity, and I will not spare. I will repay you according to your ways, and your detestable practices will be in your midst. Then you will know that I, Yahweh, am the one who strikes.
+
+**10** Look, the day! Look, it is coming! Doom has gone out. The rod has blossomed;[^7-10] arrogance has budded.
+
+**11** Violence has grown into a rod of wickedness. Nothing will be left of them, nothing of their crowds, nothing of their wealth, and there will be no splendor among them.[^7-11]
+
+**12** The time has come; the day has arrived. Let the buyer not rejoice, and let the seller not mourn, for wrath is on all her crowds.[^7-12]
+
+**13** For the seller will not go back to what he sold, even while they are still alive.[^7-13] For the vision concerning all her crowds will not be turned back, and because of his guilt, no one will keep hold of his life.[^7-14]
+
+**14** They have blown the trumpet and made everything ready, but no one goes out to battle, for my wrath is on all her crowds.
+
+**15** The sword is outside, and plague and famine are inside. Whoever is in the field will die by the sword, and whoever is in the city, famine and plague will devour him.
+
+**16** Those of them who escape and survive will be on the mountains like doves of the valleys, all of them moaning, each for his guilt.
+
+**17** All hands will hang limp, and all knees will turn to water.[^7-15]
+
+**18** They will put on sackcloth, and horror will cover them. Shame will be on every face, and every head will be shaved bald.
+
+**19** They will throw their silver into the streets, and their gold will be like something unclean.[^7-16] Their silver and their gold will not be able to save them on the day of Yahweh's wrath. They will not satisfy their hunger[^7-17] or fill their stomachs with it, for it made them stumble into guilt.[^7-18]
+
+**20** Their beautiful jewelry they turned into a source of pride,[^7-19] and with it they made their detestable images, their vile idols.[^7-20] Therefore I will make it something unclean for them.
+
+**21** I will hand it over to foreigners as plunder and to the wicked of the earth as spoil, and they will profane it.
+
+**22** I will turn my face away from them, and they will profane my treasured place.[^7-21] Robbers will enter it and profane it.
+
+**23** Make the chain,[^7-22] for the land is full of bloody crimes,[^7-23] and the city is full of violence.
+
+**24** I will bring the worst of the nations, and they will take possession of their houses. I will put an end to the pride of the strong, and their holy places will be profaned.
+
+**25** Anguish is coming! They will seek peace, but there will be none.
+
+**26** Disaster will come on disaster, and rumor will follow rumor. They will seek a vision from a prophet, but instruction will perish from the priest, and counsel from the elders.
+
+**27** The king will mourn, the prince[^7-24] will be clothed with despair, and the hands of the people of the land[^7-25] will tremble. I will deal with them according to their ways, and by their own standards[^7-26] I will judge them. Then they will know that I am Yahweh.
+
+[^7-1]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^7-2]: Hebrew *ben adam*, "son of man": a human being, a mortal.
+[^7-3]: Hebrew *Adonai YHWH*, "my Lord Yahweh".
+[^7-4]: *You* is feminine singular, the land of Israel, in verses 3–9. The Septuagint has a shorter form of verses 3–11, in a different order.
+[^7-5]: Literally "I will put on you all your detestable practices". Also in verse 8. Hebrew *to'evot*, things that are abhorrent, especially in worship.
+[^7-6]: Literally "one disaster", that is, a unique disaster. Some Hebrew manuscripts read "Disaster after disaster!"
+[^7-7]: A play on words: *qets*, "end", and *heqits*, "it has awakened".
+[^7-8]: Hebrew *tsefirah*, a rare word of uncertain meaning; also in verse 10. Others translate "Your turn", or "The cycle". In Isaiah 28:5 the same word means "crown, garland".
+[^7-9]: Hebrew *hed*, probably the shout of those treading grapes at harvest (Isaiah 16:10; Jeremiah 25:30). The meaning is uncertain.
+[^7-10]: The same consonants can be read "Injustice has blossomed" (Hebrew *mutteh*, as in 9:9).
+[^7-11]: The meaning of this verse is uncertain. *Their wealth* (Hebrew *hemehem*) and *splendor* (*noah*) are words found only here.
+[^7-12]: *Her* refers to the land. Also in verses 13–14.
+[^7-13]: Under the law of Leviticus 25:13–16, land that had been sold went back to its owner in the year of Jubilee. Literally "while their life is still among the living".
+[^7-14]: The meaning of the last part of the verse is uncertain. Literally "and each in his guilt, his life, they will not strengthen themselves".
+[^7-15]: Literally "all knees will go water". This may mean that they will become as weak as water, or that they will wet themselves in fear (compare 21:12; 21:7 in most English Bibles).
+[^7-16]: Hebrew *niddah*, the impurity of menstruation (Leviticus 15:19–24), used for anything abhorrent. Also in verse 20.
+[^7-17]: Literally "satisfy their *nephesh*".
+[^7-18]: Literally "it was the stumbling block of their guilt". See 3:20.
+[^7-19]: Literally "the beauty of his ornament he set for pride". Some take "his ornament" to be the temple, Yahweh's beautiful ornament.
+[^7-20]: Hebrew *shiqqutsim*, "detestable things", a contemptuous word for idols.
+[^7-21]: Literally "my hidden one", probably the temple.
+[^7-22]: Hebrew *rattoq*, found only here, probably a chain for leading captives away. The meaning is uncertain.
+[^7-23]: Literally "judgment of blood".
+[^7-24]: Hebrew *nasi*, "leader, chief". Ezekiel often uses this title for the king of Israel (12:10; 34:24; 37:25; chapters 44–48).
+[^7-25]: Hebrew *am ha-arets*, the landowning citizens of Judah.
+[^7-26]: Literally "by their own judgments".
+
 ## Chapter 27
 
 *Status: draft*
@@ -594,3 +727,147 @@
 [^29-19]: Or "its multitude". Hebrew *hamon*, "multitude, abundance, wealth", a word Ezekiel uses often of Egypt (30:4, 10; 31:2, 18; 32).
 [^29-20]: A symbol of strength (1 Samuel 2:10; Psalm 132:17).
 [^29-21]: Literally "I will give you an opening of the mouth among them": Ezekiel will speak freely (compare 3:26–27; 24:27; 33:22).
+
+## Chapter 30
+
+*Status: draft*
+
+**1** The word of Yahweh[^30-1] came to me:
+
+**2** "Son of man,[^30-2] prophesy and say, 'This is what the Lord Yahweh[^30-3] says: Wail, "Alas for the day!"
+
+**3** For the day is near, the day of Yahweh is near. It will be a day of clouds, a time of doom for the nations.[^30-4]
+
+**4** A sword will come against Egypt, and anguish will be in Cush,[^30-5] when the slain fall in Egypt, and they carry off her wealth,[^30-6] and her foundations are torn down.
+
+**5** Cush, Put and Lud,[^30-7] all the mixed peoples,[^30-8] Kub,[^30-9] and the people of the land of the covenant[^30-10] will fall with them by the sword.
+
+**6** This is what Yahweh says: Those who support Egypt will fall, and her proud strength will come down. From Migdol to Syene[^30-11] they will fall in her by the sword, declares the Lord Yahweh.
+
+**7** They will be desolate among desolate lands, and her cities will lie among ruined cities.
+
+**8** Then they will know that I am Yahweh, when I set fire to Egypt and all her helpers are crushed.
+
+**9** On that day messengers will go out from me in ships to terrify Cush in its complacency. Anguish will come on them on the day of Egypt's doom, for look, it is coming!
+
+**10** This is what the Lord Yahweh says: I will put an end to the hordes[^30-12] of Egypt by the hand of Nebuchadnezzar[^30-13] king of Babylon.
+
+**11** He and his people with him, the most ruthless of the nations, will be brought in to destroy the land. They will draw their swords against Egypt and fill the land with the slain.
+
+**12** I will make the streams[^30-14] dry land and sell the land into the hands of evil men. By the hands of foreigners I will lay waste the land and everything in it. I, Yahweh, have spoken.
+
+**13** This is what the Lord Yahweh says: I will destroy the idols[^30-15] and put an end to the worthless gods[^30-16] of Memphis.[^30-17] There will no longer be a prince from the land of Egypt, and I will put fear in the land of Egypt.
+
+**14** I will make Pathros[^30-18] desolate, set fire to Zoan[^30-19] and carry out judgments on Thebes.[^30-20]
+
+**15** I will pour out my wrath on Sin,[^30-21] the stronghold of Egypt, and cut off the hordes of Thebes.[^30-22]
+
+**16** I will set fire to Egypt. Sin will writhe in anguish, Thebes will be breached, and Memphis will face enemies by day.[^30-23]
+
+**17** The young men of Aven and Pi-beseth[^30-24] will fall by the sword, and the cities themselves will go into captivity.[^30-25]
+
+**18** In Tehaphnehes[^30-26] the day will grow dark[^30-27] when I break the yokes of Egypt there, and her proud strength comes to an end in her. A cloud will cover her, and her daughters[^30-28] will go into captivity.
+
+**19** So I will carry out judgments on Egypt. Then they will know that I am Yahweh.'"
+
+**20** In the eleventh year, in the first month, on the seventh day of the month,[^30-29] the word of Yahweh came to me:
+
+**21** "Son of man, I have broken the arm of Pharaoh king of Egypt. Look, it has not been bound up for healing; no bandage has been put on it to bind it and make it strong enough to grasp the sword.
+
+**22** Therefore this is what the Lord Yahweh says: I am against Pharaoh king of Egypt. I will break his arms, both the strong one and the broken one, and make the sword fall from his hand.
+
+**23** I will scatter the Egyptians among the nations and disperse them among the countries.
+
+**24** I will strengthen the arms of the king of Babylon and put my sword in his hand, but I will break the arms of Pharaoh, and he will groan before him with the groans of a man mortally wounded.
+
+**25** I will strengthen the arms of the king of Babylon, but the arms of Pharaoh will drop. Then they will know that I am Yahweh, when I put my sword into the hand of the king of Babylon and he stretches it out against the land of Egypt.
+
+**26** I will scatter the Egyptians among the nations and disperse them among the countries. Then they will know that I am Yahweh."
+
+[^30-1]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^30-2]: Hebrew *ben adam*, "son of man": a human being, a mortal. Yahweh addresses Ezekiel this way more than ninety times in the book.
+[^30-3]: Hebrew *Adonai YHWH*, "my Lord Yahweh", traditionally "the Lord GOD".
+[^30-4]: Literally "a time of nations".
+[^30-5]: The region south of Egypt (ancient Nubia). Also in verses 5 and 9.
+[^30-6]: Or "her multitude". Hebrew *hamon*, as in 29:19.
+[^30-7]: *Put* was probably Libya, and *Lud* probably Lydia, in western Asia Minor (27:10).
+[^30-8]: Or "all Arabia", reading the same consonants as *arav*.
+[^30-9]: Hebrew *Kuv*, a place not otherwise known.
+[^30-10]: Literally "the sons of the land of the covenant": perhaps Egypt's allies, or Judeans living in Egypt.
+[^30-11]: From the north of Egypt to its southern frontier (29:10).
+[^30-12]: Or "the wealth". Hebrew *hamon*, as in verse 4.
+[^30-13]: Hebrew *Nevukhadre'tsar*, a spelling of Nebuchadnezzar closer to the Babylonian name (29:18).
+[^30-14]: Hebrew *ye'orim*, the branches and canals of the Nile (29:3).
+[^30-15]: Hebrew *gillulim*, a contemptuous word for idols, perhaps related to the word for dung. Ezekiel uses it often.
+[^30-16]: Hebrew *elilim*, "worthless things, nothings", a word that sounds like *elohim*, "gods".
+[^30-17]: Hebrew *Nof*, Memphis, the old capital of Lower Egypt, south of the Nile Delta. Also in verse 16.
+[^30-18]: Southern (Upper) Egypt.
+[^30-19]: Tanis, a city in the northeastern Nile Delta.
+[^30-20]: Hebrew *No*, Thebes, the great city of Upper Egypt. Also in verses 15 and 16.
+[^30-21]: Probably Pelusium, a fortress on the eastern edge of the Nile Delta, guarding the road from Canaan. Also in verse 16.
+[^30-22]: The Hebrew word *hamon*, "hordes", sounds like *Amon*, the chief god of Thebes (Jeremiah 46:25).
+[^30-23]: Literally "and Nof, enemies of daytime". The meaning is uncertain.
+[^30-24]: *Aven*, "wickedness", is a play on *On*, the city of Heliopolis (Genesis 41:45). *Pi-beseth* was Bubastis, in the Nile Delta.
+[^30-25]: Literally "and they will go into captivity". The Hebrew pronoun is feminine: the cities, or the women.
+[^30-26]: Hebrew *Techafneches*, the city called Tahpanhes in Jeremiah 43:7–9, in the eastern Nile Delta.
+[^30-27]: The Hebrew is pointed *chasakh*, "hold back": "the day will be withheld". The same consonants can be read *chashakh*, "grow dark".
+[^30-28]: That is, the towns around her. Or "her women".
+[^30-29]: In April 587 BC. The broken arm (verse 21) probably refers to the defeat of Pharaoh Hophra's army, which had marched out to relieve Jerusalem during the siege (Jeremiah 37:5–11).
+
+## Chapter 31
+
+*Status: draft*
+
+**1** In the eleventh year, in the third month, on the first day of the month,[^31-1] the word of Yahweh[^31-2] came to me:
+
+**2** "Son of man,[^31-3] say to Pharaoh king of Egypt and to his hordes,[^31-4] 'Whom are you like in your greatness?
+
+**3** Look, Assyria[^31-5] was a cedar in Lebanon, with beautiful branches and shady foliage, towering high, with its top among the clouds.[^31-6]
+
+**4** The waters made it grow; the deep made it tall. The deep sent its rivers flowing all around the place where it was planted, and sent out its channels to all the trees of the field.
+
+**5** So it towered higher than all the trees of the field. Its boughs grew many and its branches[^31-7] grew long, because of the abundant waters as it spread them out.
+
+**6** All the birds of the sky nested in its boughs; all the animals of the field gave birth under its branches; and all the great nations lived in its shade.
+
+**7** It was beautiful in its greatness, in the length of its branches, for its roots went down to abundant waters.
+
+**8** The cedars in the garden of God could not rival it; the junipers[^31-8] could not compare with its boughs, and the plane trees were nothing like its branches. No tree in the garden of God was like it in its beauty.
+
+**9** I made it beautiful with its many branches, and all the trees of Eden, which were in the garden of God, envied it.
+
+**10** Therefore this is what the Lord Yahweh[^31-9] says: Because you[^31-10] towered so high, and it set its top among the clouds, and its heart grew proud of its height,
+
+**11** I handed it over to the ruler of the nations,[^31-11] who was sure to deal with it as its wickedness deserved. I drove it out.
+
+**12** Foreigners, the most ruthless of the nations, cut it down and left it. On the mountains and in all the valleys its branches fell, and its boughs lay broken in all the ravines of the land. All the peoples of the earth came out from its shade and left it.
+
+**13** All the birds of the sky settle on its fallen trunk, and all the animals of the field are among its branches.
+
+**14** This is so that no trees by the waters may tower high or set their tops among the clouds, and no trees that drink water may reach up to them in height. For all of them are given over to death, to the world below,[^31-12] among human beings, with those who go down to the Pit.
+
+**15** This is what the Lord Yahweh says: On the day it went down to Sheol,[^31-13] I brought mourning: I covered the deep over it[^31-14] and held back its rivers, and the mighty waters were stopped. I clothed Lebanon in gloom for it, and all the trees of the field wilted because of it.
+
+**16** I made the nations quake at the sound of its fall, when I brought it down to Sheol with those who go down to the Pit. And all the trees of Eden, the choicest and best of Lebanon, all the trees that drink water, were comforted[^31-15] in the world below.
+
+**17** They too went down with it to Sheol, to those killed by the sword, and so did its allies,[^31-16] who lived in its shade among the nations.
+
+**18** Which of the trees of Eden were you like in glory and greatness? Yet you will be brought down with the trees of Eden to the world below. You will lie among the uncircumcised,[^31-17] with those killed by the sword. This is Pharaoh and all his hordes, declares the Lord Yahweh.'"
+
+[^31-1]: In June 587 BC.
+[^31-2]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^31-3]: Hebrew *ben adam*, "son of man": a human being, a mortal. Yahweh addresses Ezekiel this way more than ninety times in the book.
+[^31-4]: Or "his multitude". Hebrew *hamon* (29:19). Also in verse 18.
+[^31-5]: Hebrew *Ashshur*. Assyria, once the greatest of empires, had fallen to Babylon a few decades earlier (612–609 BC), and Pharaoh is invited to compare himself with it. Some scholars read *te'ashur*, "a cypress" (27:6), with a small change to the Hebrew, so that the tree is Pharaoh himself.
+[^31-6]: Hebrew *avotim*, "thick boughs" or "clouds". Also in verses 10 and 14.
+[^31-7]: The Hebrew text is written "its branch" but read "its branches".
+[^31-8]: Hebrew *berosh*, a tall conifer: perhaps the juniper or the cypress (27:5).
+[^31-9]: Hebrew *Adonai YHWH*, "my Lord Yahweh", traditionally "the Lord GOD".
+[^31-10]: The Hebrew moves here from "you" to "it".
+[^31-11]: Hebrew *el goyim*, "the mighty one of the nations", probably the king of Babylon.
+[^31-12]: Hebrew *erets tachtit*, "the land below", the underworld. Also in verses 16 and 18.
+[^31-13]: Hebrew *Sheol*, the realm of the dead.
+[^31-14]: Literally "I caused mourning; I covered over it the deep". The meaning is uncertain: perhaps the deep was covered as a sign of mourning, or closed over the fallen tree.
+[^31-15]: Or "consoled", as they saw the great tree share their fate.
+[^31-16]: Literally "its arm", those who were its strength.
+[^31-17]: That is, those who died in disgrace (28:10).

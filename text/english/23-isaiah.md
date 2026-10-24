@@ -2420,3 +2420,165 @@
 [^40-23]: The stars, pictured as an army (34:4). Hebrew *tseva*, as in the title *Yahweh tseva'ot*, "Yahweh of Armies".
 [^40-24]: Literally "and from my God my right passes away".
 [^40-25]: Or "They will grow new feathers like eagles" (compare Psalm 103:5). *Eagle* is Hebrew *nesher*, which may also mean the griffon vulture.
+
+## Chapter 41
+
+*Status: draft*
+
+**1** Be silent before me, you coastlands![^41-1] Let the peoples renew their strength! Let them come near and then speak; let us come together for judgment.[^41-2]
+
+**2** Who has stirred up one from the east, whom victory meets at every step?[^41-3] He hands nations over to him and makes him trample kings.[^41-4] His sword makes them like dust, his bow like driven straw.
+
+**3** He pursues them and passes on unharmed, by a path his feet have never traveled.[^41-5]
+
+**4** Who has done this and carried it out, calling the generations from the beginning? I, Yahweh,[^41-6] am the first, and with the last I am he.[^41-7]
+
+**5** The coastlands have seen it and are afraid; the ends of the earth tremble. They have drawn near and come.
+
+**6** Each one helps his neighbor and says to his brother, "Be strong!"
+
+**7** The craftsman encourages the goldsmith, and the one who smooths with the hammer encourages the one who strikes the anvil. He says of the soldering, "It is good." He fastens the idol with nails so that it will not topple.[^41-8]
+
+**8** But you, Israel, my servant,[^41-9] Jacob, whom I have chosen, offspring of Abraham my friend,[^41-10]
+
+**9** you whom I took hold of from the ends of the earth and called from its farthest corners, and to whom I said, "You are my servant; I have chosen you and have not rejected you":
+
+**10** Do not be afraid, for I am with you; do not be dismayed, for I am your God. I will strengthen you; I will help you; I will uphold you with my righteous right hand.[^41-11]
+
+**11** Look, all who rage against you will be put to shame and disgraced. Those who contend with you will be as nothing and will perish.
+
+**12** You will look for those who quarrel with you, but you will not find them. Those who make war against you will be as nothing, nothing at all.
+
+**13** For I, Yahweh your God, take hold of your right hand and say to you, "Do not be afraid; I will help you."
+
+**14** Do not be afraid, you worm Jacob, you little band of Israel![^41-12] I will help you, declares Yahweh; your Redeemer[^41-13] is the Holy One of Israel.
+
+**15** Look, I will make you into a threshing sledge,[^41-14] new and sharp, with many teeth. You will thresh the mountains and crush them, and make the hills like chaff.
+
+**16** You will winnow them, and the wind will carry them away, and the storm will scatter them. But you will rejoice in Yahweh; you will glory in the Holy One of Israel.
+
+**17** The poor and needy look for water, but there is none; their tongues are parched with thirst. I, Yahweh, will answer them; I, the God of Israel, will not abandon them.
+
+**18** I will open rivers on the bare heights, and springs in the middle of the valleys. I will turn the wilderness into pools of water, and the dry land into springs of water.
+
+**19** I will put in the wilderness the cedar, the acacia, the myrtle and the olive. I will set in the desert the juniper, the plane tree and the pine together,[^41-15]
+
+**20** so that people may see and know, may consider and understand together, that the hand of Yahweh has done this, and the Holy One of Israel has created it.
+
+**21** Present your case, says Yahweh; bring forward your arguments,[^41-16] says the King of Jacob.
+
+**22** Let them come forward and tell us what is going to happen.[^41-17] Tell us the former things, what they were, so that we may consider them and know how they turned out. Or announce to us the things to come.
+
+**23** Tell us what is coming hereafter, so that we may know that you are gods. Yes, do something, good or bad, so that we may be dismayed and see it together.[^41-18]
+
+**24** Look, you are less than nothing, and your work is less than nothing.[^41-19] Whoever chooses you is detestable.
+
+**25** I stirred up one from the north, and he has come, one from the rising of the sun who calls on my name.[^41-20] He will tread on rulers[^41-21] as on mortar, as a potter treads clay.
+
+**26** Who announced this from the beginning, so that we could know, and beforehand, so that we could say, "He is right"? No one announced it; no one proclaimed it; no one heard any words from you.
+
+**27** I was the first to say to Zion, "Look, here they are!" and I give Jerusalem a messenger of good news.[^41-22]
+
+**28** But I look, and there is no one; among these there is no counselor who can give an answer when I ask them.
+
+**29** Look, all of them are a delusion;[^41-23] their works are nothing; their cast images are wind and emptiness.[^41-24]
+
+[^41-1]: Hebrew *iyyim*, the islands and coasts of the Mediterranean (11:11), and in these chapters the most distant lands. Also in verse 5.
+[^41-2]: The nations and their gods are summoned to a court of law. The trial scene returns in verses 21–29.
+[^41-3]: Literally "whom righteousness calls to his foot". Hebrew *tsedeq*, "righteousness", here the right that wins out, God's saving purpose carried out through the conqueror. Or "whom he calls in righteousness to his service". The conqueror from the east (and the north, verse 25) is Cyrus of Persia, named in 44:28 and 45:1.
+[^41-4]: Or "subdues kings before him". The meaning of the Hebrew verb *yard* is uncertain.
+[^41-5]: Literally "a path with his feet he does not come", perhaps "so swiftly that his feet hardly touch the path".
+[^41-6]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^41-7]: Hebrew *ani hu*, "I am he", a solemn self-declaration of God found often in these chapters (43:10, 13; 46:4; 48:12; compare Deuteronomy 32:39). The Septuagint translates it here as *ego eimi*, "I am" (compare John 8:24, 28).
+[^41-8]: Literally "fastens it". Verses 6–7 describe the makers of idols, who encourage one another as the nations draw near.
+[^41-9]: Hebrew *eved*, "servant". In chapters 41–53 Yahweh often calls Israel "my servant" (44:1–2, 21; 45:4; 48:20). On the servant passages, see 42:1.
+[^41-10]: Literally "who loved me". 2 Chronicles 20:7 and James 2:23 also call Abraham God's friend.
+[^41-11]: Literally "the right hand of my righteousness". Or "my victorious right hand".
+[^41-12]: Literally "you men of Israel". Hebrew *metim*, a word used of a small number of people (Deuteronomy 4:27). *You* is feminine in the Hebrew, matching *worm*.
+[^41-13]: Hebrew *go'el*, a close relative with the duty to protect a family member in need: to buy back land a relative had sold, to free a relative sold into slavery, and to avenge a killing (Leviticus 25:25, 47–49; Numbers 35:19; Ruth 2:20). In chapters 41–63 it is a title of God, who acts as Israel's next of kin.
+[^41-14]: A heavy board with sharp stones or iron set into its underside, dragged over grain to separate it from the husks.
+[^41-15]: The identification of several of these trees is uncertain. *Olive* is literally "tree of oil", perhaps the wild olive or another tree that gives oil or resin; *juniper* (Hebrew *berosh*) may be the cypress (14:8); *plane tree* (*tidhar*) and *pine* (*te'ashur*) may be the elm and the cypress or box tree. The three trees are named together again in 60:13.
+[^41-16]: Literally "your strong things".
+[^41-17]: Yahweh challenges the gods of the nations to foretell the future.
+[^41-18]: The Hebrew text is written with letters that may be read "and be afraid", but is read "and see".
+[^41-19]: Hebrew *me'afa*, found only here, probably a form of *me'efes*, "less than nothing" (40:17).
+[^41-20]: Or "who will be called by my name".
+[^41-21]: Literally "He will come upon rulers". Hebrew *seganim*, "governors, officials", a word borrowed from Akkadian.
+[^41-22]: The Hebrew of this verse is very short and difficult. Literally "First to Zion: Look, look at them! And to Jerusalem I give a bringer of good news." *Messenger of good news* is the word used in 40:9.
+[^41-23]: Hebrew *aven*, "wickedness, trouble, nothingness".
+[^41-24]: Hebrew *ruach va-tohu*, "wind and emptiness" (40:17).
+
+## Chapter 42
+
+*Status: draft*
+
+**1** Here is my servant,[^42-1] whom I uphold, my chosen one, in whom I delight.[^42-2] I have put my Spirit[^42-3] on him; he will bring justice[^42-4] to the nations.
+
+**2** He will not cry out or raise his voice, or make his voice heard in the street.
+
+**3** A bruised reed he will not break, and a smoldering wick he will not snuff out. He will faithfully bring justice.[^42-5]
+
+**4** He will not grow dim or be bruised[^42-6] until he has established justice on the earth, and the coastlands[^42-7] wait for his instruction.[^42-8]
+
+**5** This is what God, Yahweh,[^42-9] says, who created the heavens and stretched them out, who spread out the earth and all that comes from it, who gives breath to the people on it and spirit to those who walk on it:
+
+**6** I, Yahweh, have called you in righteousness;[^42-10] I will take hold of your hand. I will keep you[^42-11] and make you a covenant for the people,[^42-12] a light for the nations,
+
+**7** to open eyes that are blind, to bring prisoners out of the dungeon, and those who sit in darkness out of the prison.
+
+**8** I am Yahweh; that is my name. I will not give my glory to another, or my praise to idols.
+
+**9** Look, the former things have come to pass, and new things I now declare. Before they spring up, I tell you of them.
+
+**10** Sing to Yahweh a new song,[^42-13] his praise from the end of the earth, you who go down to the sea, and all that is in it, you coastlands and those who live in them.
+
+**11** Let the wilderness and its towns raise their voices, the villages where Kedar[^42-14] lives. Let the people of Sela[^42-15] sing for joy; let them shout from the tops of the mountains.
+
+**12** Let them give glory to Yahweh and declare his praise in the coastlands.
+
+**13** Yahweh goes out like a warrior; like a man of war he stirs up his zeal. He shouts, yes, he roars; he shows his might against his enemies.
+
+**14** For a long time I have kept silent; I have been still and held myself back. Now, like a woman in labor, I will cry out; I will gasp and pant.
+
+**15** I will lay waste mountains and hills and dry up all their plants. I will turn rivers into dry land[^42-16] and dry up the pools.
+
+**16** I will lead the blind by a way they do not know; I will guide them on paths they have not known. I will turn the darkness before them into light, and the rough places into level ground. These are the things I will do,[^42-17] and I will not abandon them.
+
+**17** They will be turned back and utterly put to shame, those who trust in idols, who say to cast images, "You are our gods."
+
+**18** Listen, you deaf! Look, you blind, so that you may see!
+
+**19** Who is blind but my servant, or deaf like my messenger whom I send? Who is blind like the one at peace with me,[^42-18] blind like the servant of Yahweh?
+
+**20** You see many things,[^42-19] but you do not take note of them; his ears are open, but he does not hear.
+
+**21** Yahweh was pleased, for the sake of his righteousness, to make his instruction great and glorious.
+
+**22** But this is a people plundered and looted, all of them trapped in holes[^42-20] and hidden away in prisons. They have become plunder with no one to rescue them, loot with no one to say, "Give it back!"
+
+**23** Who among you will listen to this, pay attention and hear it for the time to come?
+
+**24** Who handed Jacob over to be looted, and Israel to plunderers? Was it not Yahweh, against whom we have sinned? They would not walk in his ways, and they did not obey his instruction.
+
+**25** So he poured out on him his burning anger and the fury of battle. It set him on fire all around, but he did not understand; it burned him, but he did not take it to heart.
+
+[^42-1]: Hebrew *avdi*, "my servant". Verses 1–9 are the first of four passages about the servant of Yahweh that are often called the "Servant Songs" (42:1–9; 49:1–13; 50:4–11; 52:13–53:12; scholars count their limits differently). In the chapters around them the servant is Israel (41:8–9; 44:1–2), and 49:3 calls him "Israel", yet he also has a task toward Israel (49:5–6). He has been identified with the people of Israel, a faithful part of the people, the prophet himself, a king, or a figure still to come. The Septuagint reads "Jacob my servant … Israel my chosen one". The Aramaic Targum reads "my servant, the anointed one (Messiah)". In the New Testament the servant passages are applied to Jesus: Matthew 12:18–21 quotes verses 1–4, and the words from heaven at Jesus' baptism echo verse 1 (Mark 1:11).
+[^42-2]: Literally "in whom my *nephesh* delights".
+[^42-3]: Hebrew *ruach*, "spirit, wind, breath".
+[^42-4]: Hebrew *mishpat*, "justice, judgment", the right order that God decrees. Also in verses 3–4.
+[^42-5]: Or "In faithfulness he will bring out justice".
+[^42-6]: A play on words: *lo yikheh*, "he will not grow dim", and *lo yaruts*, "he will not be bruised", echo the "smoldering" (*kehah*) wick and the "bruised" (*ratsuts*) reed of verse 3.
+[^42-7]: Hebrew *iyyim*, the islands and coasts of the Mediterranean (11:11), and in these chapters the most distant lands. Also in verses 10 and 12.
+[^42-8]: Hebrew *torah*, "instruction, teaching, law". Also in verses 21 and 24. Matthew 12:21 quotes the Septuagint: "and in his name the nations will hope".
+[^42-9]: Hebrew *ha-el YHWH*, "the God, Yahweh". *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^42-10]: Or "for a righteous purpose". Hebrew *tsedeq*.
+[^42-11]: Or "I will form you". The Hebrew form can come from either verb.
+[^42-12]: Hebrew *berit am*, "a covenant of people", perhaps "a covenant for the people of Israel" or "a covenant for humankind". The phrase is repeated in 49:8. Simeon's words in Luke 2:32, "a light for revelation to the nations", echo this verse and 49:6.
+[^42-13]: Compare Psalms 96:1 and 98:1.
+[^42-14]: A tribe of the Arabian desert (21:16–17).
+[^42-15]: Hebrew *sela*, "rock", perhaps the Edomite city of Sela (16:1), or "those who live among the rocks".
+[^42-16]: Hebrew *iyyim*, elsewhere "coastlands" or "islands" (verse 10). Here it seems to mean dry land.
+[^42-17]: Literally "I have done them". The future is spoken of as if it were already done.
+[^42-18]: Hebrew *meshullam*, perhaps "the one in a covenant of peace with me", "the one made complete" or "the one paid for". The meaning is uncertain.
+[^42-19]: The Hebrew text is written "You have seen many things" but read "Seeing many things".
+[^42-20]: Hebrew *ba-churim*. The same consonants can be read *bachurim*, "young men": "all their young men are trapped".

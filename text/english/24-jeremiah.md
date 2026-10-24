@@ -1804,6 +1804,177 @@
 [^25-23]: Literally "are silenced".
 [^25-24]: Literally "the burning of the oppressor". Some scholars read "the sword of the oppressor", as in 46:16 and 50:16, with a small change to the Hebrew.
 
+## Chapter 26
+
+*Status: draft*
+
+**1** At the beginning of the reign of Jehoiakim son of Josiah king of Judah,[^26-1] this word came from Yahweh:[^26-2]
+
+**2** "This is what Yahweh says: Stand in the court of Yahweh's house and speak to all the people of the towns of Judah who come to worship in Yahweh's house. Tell them all the words I command you to speak to them; do not leave out a word.
+
+**3** Perhaps they will listen, and each of them will turn from his evil way. Then I will relent of the disaster I am planning to bring on them because of their evil deeds.
+
+**4** Say to them: 'This is what Yahweh says: If you do not listen to me and walk in my instruction,[^26-3] which I have set before you,
+
+**5** and listen to the words of my servants the prophets, whom I send to you again and again,[^26-4] though you have not listened,
+
+**6** then I will make this house like Shiloh,[^26-5] and I will make this city a curse for all the nations of the earth.'"
+
+**7** The priests, the prophets and all the people heard Jeremiah speaking these words in the house of Yahweh.
+
+**8** When Jeremiah had finished speaking everything that Yahweh had commanded him to speak to all the people, the priests, the prophets and all the people seized him and said, "You must die!
+
+**9** Why have you prophesied in the name of Yahweh, 'This house will be like Shiloh, and this city will be laid waste, with no one living in it'?" And all the people crowded around Jeremiah in the house of Yahweh.
+
+**10** When the officials of Judah heard these things, they came up from the king's palace to the house of Yahweh and took their seats at the entrance of the New Gate of Yahweh's house.
+
+**11** Then the priests and the prophets said to the officials and to all the people, "This man deserves the death sentence, because he has prophesied against this city, as you have heard with your own ears."
+
+**12** Then Jeremiah said to all the officials and to all the people, "Yahweh sent me to prophesy against this house and this city all the words you have heard.
+
+**13** So now make your ways and your deeds good, and listen to the voice of Yahweh your God. Then Yahweh will relent of the disaster he has pronounced against you.
+
+**14** As for me, I am in your hands. Do with me whatever seems good and right to you.
+
+**15** But know for certain that if you put me to death, you will bring innocent blood on yourselves, on this city and on its inhabitants, for in truth Yahweh has sent me to you to speak all these words in your hearing."
+
+**16** Then the officials and all the people said to the priests and the prophets, "This man does not deserve the death sentence, for he has spoken to us in the name of Yahweh our God."
+
+**17** Some of the elders of the land stood up and said to the whole assembly of the people,
+
+**18** "Micah of Moresheth[^26-6] prophesied in the days of Hezekiah king of Judah. He said to all the people of Judah, 'This is what Yahweh of Armies[^26-7] says: Zion will be plowed like a field, Jerusalem will become a heap of ruins, and the temple mount a wooded height.'[^26-8]
+
+**19** Did Hezekiah king of Judah and all Judah put him to death? Did he not fear Yahweh and seek Yahweh's favor?[^26-9] And Yahweh relented of the disaster he had pronounced against them. But we are about to bring a great disaster on ourselves!"
+
+**20** There was also a man who prophesied in the name of Yahweh, Uriah son of Shemaiah from Kiriath-jearim. He prophesied against this city and this land just as Jeremiah did.
+
+**21** When King Jehoiakim and all his warriors and all the officials heard his words, the king sought to put him to death. But Uriah heard of it and was afraid, and he fled to Egypt.
+
+**22** Then King Jehoiakim sent men to Egypt: Elnathan son of Achbor[^26-10] and some men with him.
+
+**23** They brought Uriah out of Egypt and took him to King Jehoiakim, who struck him down with the sword and threw his body into the burial ground of the common people.
+
+**24** But Ahikam son of Shaphan[^26-11] protected Jeremiah,[^26-12] so that he was not handed over to the people to be put to death.
+
+[^26-1]: About 609–608 BC. This chapter tells what happened when Jeremiah gave the message of 7:1–15.
+[^26-2]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles. "Yahweh's house" and "this house" are the temple.
+[^26-3]: Hebrew *torah*, "instruction, law".
+[^26-4]: Literally "rising early and sending".
+[^26-5]: See 7:12–14.
+[^26-6]: The Hebrew text is written "Micaiah" but read "Micah". Moresheth was a town in the western foothills of Judah (Micah 1:1, 14).
+[^26-7]: *Yahweh of Armies* (Hebrew *YHWH tseva'ot*) is traditionally "the LORD of hosts" or "the LORD Almighty". *Tseva'ot* means armies: the heavenly hosts and the armies of Israel.
+[^26-8]: Micah 3:12. *The temple mount* is literally "the mountain of the house".
+[^26-9]: Literally "soften the face of Yahweh".
+[^26-10]: Probably the official of 36:12, 25, and perhaps the father of Nehushta, Jehoiachin's mother (2 Kings 24:8). Achbor was one of the men Josiah sent to Huldah (2 Kings 22:12–14).
+[^26-11]: Ahikam was one of Josiah's officials (2 Kings 22:12). His son Gedaliah was later made governor of Judah (Jeremiah 39:14; 40:5).
+[^26-12]: Literally "the hand of Ahikam son of Shaphan was with Jeremiah".
+
+## Chapter 27
+
+*Status: draft*
+
+**1** At the beginning of the reign of Jehoiakim[^27-1] son of Josiah king of Judah, this word came to Jeremiah from Yahweh:[^27-2]
+
+**2** This is what Yahweh said to me: "Make yourself straps and yoke bars, and put them on your neck.
+
+**3** Then send them to the king of Edom, the king of Moab, the king of the Ammonites, the king of Tyre and the king of Sidon, by the envoys who have come to Jerusalem to Zedekiah king of Judah.
+
+**4** Give them a message for their masters: 'This is what Yahweh of Armies,[^27-3] the God of Israel, says: This is what you are to say to your masters:
+
+**5** By my great power and my outstretched arm I made the earth, and the human beings and the animals on the face of the earth, and I give it to whomever I see fit.
+
+**6** Now I have handed all these lands over to my servant Nebuchadnezzar king of Babylon.[^27-4] I have given him even the wild animals to serve him.
+
+**7** All the nations will serve him and his son and his grandson, until the time comes for his own land too. Then many nations and great kings will make him their slave.[^27-5]
+
+**8** But if any nation or kingdom will not serve Nebuchadnezzar king of Babylon or put its neck under the yoke of the king of Babylon, I will punish that nation with the sword, famine and plague, declares Yahweh, until I have destroyed it by his hand.
+
+**9** So do not listen to your prophets, your diviners, your dreamers,[^27-6] your soothsayers or your sorcerers, who keep telling you, "You will not serve the king of Babylon."
+
+**10** For they are prophesying lies to you, so that you will be removed far from your land; I will drive you out, and you will perish.
+
+**11** But the nation that puts its neck under the yoke of the king of Babylon and serves him, I will leave on its own land, declares Yahweh, to farm it and live there.'"
+
+**12** I spoke the same message to Zedekiah king of Judah: "Put your necks under the yoke of the king of Babylon; serve him and his people, and you will live.
+
+**13** Why should you and your people die by the sword, famine and plague, as Yahweh has spoken against any nation that will not serve the king of Babylon?
+
+**14** Do not listen to the words of the prophets who say to you, 'You will not serve the king of Babylon,' for they are prophesying lies to you.
+
+**15** I have not sent them, declares Yahweh. They are prophesying falsely in my name, so that I will drive you out and you will perish, you and the prophets who prophesy to you."
+
+**16** Then I spoke to the priests and to all this people: "This is what Yahweh says: Do not listen to the words of your prophets who prophesy to you, 'Look, the vessels of Yahweh's house will very soon be brought back from Babylon,'[^27-7] for they are prophesying lies to you.
+
+**17** Do not listen to them. Serve the king of Babylon and live. Why should this city become a ruin?
+
+**18** If they are prophets and if the word of Yahweh is with them, let them plead with Yahweh of Armies that the vessels still left in the house of Yahweh, in the palace of the king of Judah and in Jerusalem may not go to Babylon.
+
+**19** For this is what Yahweh of Armies says about the pillars, the Sea,[^27-8] the stands and the rest of the vessels still left in this city,
+
+**20** which Nebuchadnezzar king of Babylon did not take when he carried Jeconiah son of Jehoiakim king of Judah into exile from Jerusalem to Babylon, along with all the nobles of Judah and Jerusalem:
+
+**21** this is what Yahweh of Armies, the God of Israel, says about the vessels left in the house of Yahweh, in the palace of the king of Judah and in Jerusalem:
+
+**22** They will be taken to Babylon, and there they will stay until the day I attend to them, declares Yahweh. Then I will bring them up and restore them to this place."[^27-9]
+
+[^27-1]: The chapter concerns the reign of Zedekiah (verses 3 and 12; 28:1), about 594 BC. Some Hebrew manuscripts and the Syriac read "Zedekiah" here. The Septuagint does not have this verse.
+[^27-2]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles. "Yahweh's house" and "the house of Yahweh" are the temple.
+[^27-3]: *Yahweh of Armies* (Hebrew *YHWH tseva'ot*) is traditionally "the LORD of hosts" or "the LORD Almighty". *Tseva'ot* means armies: the heavenly hosts and the armies of Israel. Also in verses 18, 19 and 21.
+[^27-4]: In this chapter and the next the Hebrew spells the name *Nevukhadne'tsar*, Nebuchadnezzar, not *Nevukhadre'tsar* as in most of Jeremiah (21:2).
+[^27-5]: The Septuagint does not have verse 7.
+[^27-6]: Literally "your dreams".
+[^27-7]: The temple vessels taken to Babylon with Jehoiachin in 597 BC (2 Kings 24:13).
+[^27-8]: The great bronze basin in the temple court. The pillars, the Sea and the stands were bronze works made for Solomon's temple (1 Kings 7:15–39). Their fate is told in 2 Kings 25:13–17 and Jeremiah 52:17–23.
+[^27-9]: The Septuagint text of verses 19–22 is much shorter, and it does not have the promise that the vessels will be brought back.
+
+## Chapter 28
+
+*Status: draft*
+
+**1** In that same year, at the beginning of the reign of Zedekiah king of Judah, in the fifth month of the fourth year,[^28-1] the prophet Hananiah son of Azzur, from Gibeon,[^28-2] spoke to me in the house of Yahweh[^28-3] in the presence of the priests and all the people:
+
+**2** "This is what Yahweh of Armies,[^28-4] the God of Israel, says: I have broken the yoke of the king of Babylon.
+
+**3** Within two years[^28-5] I will bring back to this place all the vessels of Yahweh's house that Nebuchadnezzar king of Babylon took from this place and carried to Babylon.
+
+**4** I will also bring back to this place Jeconiah son of Jehoiakim king of Judah and all the exiles from Judah who went to Babylon, declares Yahweh, for I will break the yoke of the king of Babylon."
+
+**5** Then the prophet Jeremiah answered the prophet Hananiah in the presence of the priests and all the people who were standing in the house of Yahweh.
+
+**6** The prophet Jeremiah said, "Amen![^28-6] May Yahweh do so! May Yahweh fulfill the words you have prophesied, and bring back the vessels of Yahweh's house and all the exiles from Babylon to this place.
+
+**7** But listen now to this word that I speak in your hearing and in the hearing of all the people.
+
+**8** The prophets who were before you and me from ancient times prophesied war, disaster and plague against many countries and great kingdoms.
+
+**9** As for the prophet who prophesies peace, when the word of that prophet comes true, then it will be known that Yahweh has truly sent him."[^28-7]
+
+**10** Then the prophet Hananiah took the yoke bar from the neck of the prophet Jeremiah and broke it.
+
+**11** And Hananiah said in the presence of all the people, "This is what Yahweh says: In the same way I will break the yoke of Nebuchadnezzar king of Babylon from the neck of all the nations within two years." Then the prophet Jeremiah went on his way.
+
+**12** After the prophet Hananiah had broken the yoke bar from the neck of the prophet Jeremiah, the word of Yahweh came to Jeremiah:
+
+**13** "Go and tell Hananiah: 'This is what Yahweh says: You have broken wooden yoke bars, but you have made iron yoke bars in their place.
+
+**14** For this is what Yahweh of Armies, the God of Israel, says: I have put an iron yoke on the neck of all these nations, to serve Nebuchadnezzar king of Babylon, and they will serve him. I have given him even the wild animals.'"
+
+**15** Then the prophet Jeremiah said to the prophet Hananiah, "Listen, Hananiah! Yahweh has not sent you, and you have made this people trust in a lie.
+
+**16** Therefore this is what Yahweh says: I am going to send you off the face of the earth.[^28-8] This year you will die, because you have preached rebellion against Yahweh."[^28-9]
+
+**17** And the prophet Hananiah died that same year, in the seventh month.
+
+[^28-1]: The fourth year of Zedekiah was 594–593 BC. The Septuagint reads only "In the fourth year of Zedekiah king of Judah, in the fifth month".
+[^28-2]: A town of priests about 6 miles (10 km) northwest of Jerusalem (Joshua 21:17). The Septuagint calls him "Hananiah the false prophet".
+[^28-3]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles. "The house of Yahweh" and "Yahweh's house" are the temple.
+[^28-4]: *Yahweh of Armies* (Hebrew *YHWH tseva'ot*) is traditionally "the LORD of hosts" or "the LORD Almighty". *Tseva'ot* means armies: the heavenly hosts and the armies of Israel. Also in verse 14.
+[^28-5]: Literally "Within two years of days". Also in verse 11.
+[^28-6]: Hebrew *amen*, "So be it".
+[^28-7]: Compare Deuteronomy 18:21–22.
+[^28-8]: A wordplay on *shalach*, "send": Yahweh did not *send* Hananiah (verse 15), but he will *send him off* the earth.
+[^28-9]: The words of Deuteronomy 13:6 (13:5 in most English Bibles), about the prophet who must die.
+
 ## Chapter 29
 
 *Status: draft*
@@ -2275,3 +2446,124 @@
 [^33-14]: Hebrew *YHWH tsidqenu*. In 23:6 this is the name of the king; here it is the name of Jerusalem. It may play on the name of King Zedekiah, Hebrew *Tsidqiyyahu*, "Yahweh is my righteousness".
 [^33-15]: Compare 2 Samuel 7:16 and 1 Kings 2:4.
 [^33-16]: The two clans are probably Israel and Judah, or perhaps the families of David and of Levi (verses 17–22).
+
+## Chapter 34
+
+*Status: draft*
+
+**1** The word that came to Jeremiah from Yahweh,[^34-1] when Nebuchadnezzar king of Babylon and all his army, all the kingdoms of the earth under his rule and all the peoples were fighting against Jerusalem and all its cities:[^34-2]
+
+**2** This is what Yahweh, the God of Israel, says: Go and speak to Zedekiah king of Judah and say to him: This is what Yahweh says: I am going to give this city into the hand of the king of Babylon, and he will burn it with fire.
+
+**3** You will not escape from his hand, but you will certainly be captured and given into his hand. You will see the king of Babylon eye to eye, and he will speak with you face to face.[^34-3] And you will go to Babylon.
+
+**4** Yet hear the word of Yahweh, Zedekiah king of Judah. This is what Yahweh says about you: You will not die by the sword.
+
+**5** You will die in peace. As they burned spices for your ancestors, the former kings who were before you, so they will burn spices for you[^34-4] and mourn for you, "Alas, lord!"[^34-5] For I myself have spoken the word, declares Yahweh.
+
+**6** Jeremiah the prophet spoke all these words to Zedekiah king of Judah in Jerusalem,
+
+**7** while the army of the king of Babylon was fighting against Jerusalem and against all the cities of Judah that were left, against Lachish and against Azekah.[^34-6] For these were the only fortified cities left of the cities of Judah.
+
+**8** The word that came to Jeremiah from Yahweh after King Zedekiah had made a covenant with all the people in Jerusalem to proclaim liberty[^34-7] to them,
+
+**9** that each should set free his Hebrew slaves, male and female, so that no one would keep a fellow Judean[^34-8] as a slave.
+
+**10** All the officials and all the people who had entered into the covenant agreed that each would set free his male and female slaves and not keep them as slaves any longer. They obeyed and set them free.
+
+**11** But afterward they turned around and took back the male and female slaves they had set free, and forced them to be slaves again.
+
+**12** Then the word of Yahweh came to Jeremiah from Yahweh:
+
+**13** This is what Yahweh, the God of Israel, says: I made a covenant with your ancestors when I brought them out of the land of Egypt, out of the house of slavery. I said,
+
+**14** "At the end of seven years each of you must set free his fellow Hebrew who has sold himself to you. He is to serve you six years, and then you must set him free from your service."[^34-9] But your ancestors did not listen to me or pay attention.[^34-10]
+
+**15** Recently[^34-11] you yourselves turned back and did what is right in my eyes, each of you proclaiming liberty to his neighbor. You made a covenant before me in the house that bears my name.[^34-12]
+
+**16** But then you turned back and profaned my name. Each of you took back his male and female slaves, whom you had set free to go where they wished,[^34-13] and you forced them to be your slaves again.
+
+**17** Therefore this is what Yahweh says: You have not listened to me and proclaimed liberty, each to his brother and each to his neighbor. So I am going to proclaim liberty for you, declares Yahweh, liberty to the sword, to plague and to famine. I will make you an object of terror to all the kingdoms of the earth.
+
+**18** As for the men who transgressed my covenant, who did not keep the terms of the covenant they made before me, I will make them like the calf they cut in two and passed between its pieces,[^34-14]
+
+**19** the officials of Judah and the officials of Jerusalem, the court officials,[^34-15] the priests and all the people of the land[^34-16] who passed between the pieces of the calf.
+
+**20** I will give them into the hand of their enemies and into the hand of those who seek their lives. Their corpses will be food for the birds of the sky and the animals of the earth.
+
+**21** Zedekiah king of Judah and his officials I will give into the hand of their enemies and into the hand of those who seek their lives, into the hand of the army of the king of Babylon, which has withdrawn from you.[^34-17]
+
+**22** I am going to give the command, declares Yahweh, and I will bring them back to this city. They will fight against it, capture it and burn it with fire. I will make the cities of Judah a desolation, with no one living in them.
+
+[^34-1]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^34-2]: In 588 BC, after the siege of Jerusalem had begun (39:1; 52:4).
+[^34-3]: Literally "Your eyes will see the eyes of the king of Babylon, and his mouth will speak with your mouth".
+[^34-4]: Literally "As the burnings for your fathers ... so they will burn for you". A fire of spices was burned in honor of a king at his burial (2 Chronicles 16:14; 21:19).
+[^34-5]: Hebrew *hoy adon*, a cry of mourning for the dead (22:18).
+[^34-6]: Fortified towns in the Shephelah, southwest of Jerusalem.
+[^34-7]: Hebrew *deror*, "release, liberty", the word used for the release proclaimed in the year of Jubilee (Leviticus 25:10). Also in verses 15 and 17.
+[^34-8]: Hebrew *yehudi*, "a Judean". Literally "a Judean, his brother".
+[^34-9]: Deuteronomy 15:12; compare Exodus 21:2. "At the end of seven years" is the wording of Deuteronomy 15:1.
+[^34-10]: Literally "did not incline their ear".
+[^34-11]: Literally "Today".
+[^34-12]: Literally "over which my name is called", that is, which belongs to me (7:10).
+[^34-13]: Literally "free, to their soul".
+[^34-14]: The Hebrew is abrupt. Literally "I will give the men who transgressed my covenant ... the calf that they cut in two". A covenant could be made by walking between the halves of a slaughtered animal, calling on oneself the same fate if one broke it (compare Genesis 15:9–17). The Hebrew for "make a covenant" is literally "cut a covenant".
+[^34-15]: Hebrew *sarisim*, court officials. The word can also mean eunuchs.
+[^34-16]: Hebrew *am ha-arets*, the landowning citizens of Judah.
+[^34-17]: The Babylonians had lifted the siege for a time when an Egyptian army approached (37:5–11).
+
+## Chapter 35
+
+*Status: draft*
+
+**1** The word that came to Jeremiah from Yahweh[^35-1] in the days of Jehoiakim son of Josiah king of Judah:[^35-2]
+
+**2** Go to the house of the Rechabites[^35-3] and speak with them. Bring them to the house of Yahweh, into one of the rooms, and give them wine to drink.
+
+**3** So I took Jaazaniah son of Jeremiah son of Habazziniah, his brothers and all his sons, the whole house of the Rechabites.
+
+**4** I brought them into the house of Yahweh, into the room of the sons of Hanan son of Igdaliah, the man of God.[^35-4] It was next to the room of the officials, above the room of Maaseiah son of Shallum, the keeper of the threshold.[^35-5]
+
+**5** Then I set before the men of the house of the Rechabites bowls full of wine, and cups, and I said to them, "Drink wine."
+
+**6** But they said, "We will not drink wine, for Jonadab son of Rechab, our ancestor,[^35-6] commanded us, 'You must never drink wine, neither you nor your children.
+
+**7** You must not build houses, sow seed or plant vineyards, or own any of these. Instead you must live in tents all your days, so that you may live a long time in the land where you are staying as foreigners.'
+
+**8** We have obeyed the voice of Jonadab son of Rechab, our ancestor, in all that he commanded us. We have not drunk wine all our days, we, our wives, our sons or our daughters,
+
+**9** and we have not built houses to live in. We have no vineyard or field or seed.
+
+**10** We have lived in tents, and we have obeyed and done everything that Jonadab our ancestor commanded us.
+
+**11** But when Nebuchadnezzar king of Babylon came up against the land, we said, 'Come, let us go into Jerusalem to escape the army of the Babylonians[^35-7] and the army of the Arameans.' So we are living in Jerusalem."
+
+**12** Then the word of Yahweh came to Jeremiah:
+
+**13** This is what Yahweh of Armies,[^35-8] the God of Israel, says: Go and say to the people of Judah and the inhabitants of Jerusalem: Will you not accept discipline and listen to my words? declares Yahweh.
+
+**14** The words of Jonadab son of Rechab, who commanded his descendants not to drink wine, have been kept. They have not drunk wine to this day, because they have obeyed their ancestor's command. But I have spoken to you again and again,[^35-9] and you have not listened to me.
+
+**15** I have sent you all my servants the prophets, sending them again and again, to say, "Turn now, each of you, from his evil way, and make your deeds good. Do not follow other gods to serve them. Then you will live in the land I gave to you and your ancestors." But you did not pay attention or listen to me.[^35-10]
+
+**16** The descendants of Jonadab son of Rechab have kept the command their ancestor gave them, but this people has not listened to me.
+
+**17** Therefore this is what Yahweh, the God of Armies, the God of Israel, says:[^35-11] I am going to bring on Judah and on all the inhabitants of Jerusalem all the disaster I have pronounced against them, because I spoke to them, but they did not listen, and I called to them, but they did not answer.
+
+**18** To the house of the Rechabites Jeremiah said, "This is what Yahweh of Armies, the God of Israel, says: Because you have obeyed the command of Jonadab your ancestor, and kept all his commands, and done everything he commanded you,
+
+**19** therefore this is what Yahweh of Armies, the God of Israel, says: Jonadab son of Rechab will never lack a man to stand before me for all time."[^35-12]
+
+[^35-1]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles. "The house of Yahweh" is the temple.
+[^35-2]: Jehoiakim reigned from 609 to 598 BC. The events of this chapter probably took place near the end of his reign (verse 11; 2 Kings 24:1–2).
+[^35-3]: A clan descended from Rechab, related to the Kenites (1 Chronicles 2:55). Their ancestor Jonadab had supported Jehu in wiping out the worship of Baal (2 Kings 10:15–27). The *rooms* were chambers in the buildings around the temple courts.
+[^35-4]: That is, a prophet. *The sons of Hanan* may be his disciples.
+[^35-5]: One of three senior officials of the temple who guarded its entrances (52:24; 2 Kings 25:18).
+[^35-6]: Literally "our father". The Hebrew spells his name both *Yonadav* (Jonadab) and *Yehonadav* (Jehonadab, as in 2 Kings 10:15). Also in verses 8, 10, 14, 16, 18 and 19.
+[^35-7]: Hebrew *Kasdim*, traditionally "Chaldeans": the people of southern Mesopotamia whose kings then ruled Babylon.
+[^35-8]: *Yahweh of Armies* (Hebrew *YHWH tseva'ot*) is traditionally "the LORD of hosts" or "the LORD Almighty". *Tseva'ot* means armies: the heavenly hosts and the armies of Israel. Also in verses 18–19.
+[^35-9]: Literally "rising early and speaking". Also "rising early and sending" in verse 15.
+[^35-10]: Literally "you did not incline your ear".
+[^35-11]: Hebrew *YHWH Elohei tseva'ot*, traditionally "the LORD God of hosts".
+[^35-12]: To *stand before* Yahweh is to serve him, as priests and prophets did (15:19; 1 Kings 17:1).
