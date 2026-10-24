@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "prophets"]
 
 ![[text/hebrew/23-isaiah#Chapter 27]]
 
+## Plain English translation
+
+![[text/english/23-isaiah#Chapter 27]]
+
 ## Cross-references
 
 - **27:1** → [[connections/chapters/23-isaiah/Isaiah 51|Isaiah 51:9]] · [[connections/chapters/23-isaiah/Isaiah 66|Isaiah 66:16]] · [[connections/chapters/26-ezekiel/Ezekiel 29|Ezekiel 29:3]] · [[connections/chapters/66-revelation/Revelation 12|Revelation 12:3–13:2]] · [[connections/chapters/19-psalms/Psalms 104|Psalms 104:26]] · [[connections/chapters/18-job/Job 26|Job 26:13]] · [[connections/chapters/66-revelation/Revelation 20|Revelation 20:2]] · [[connections/chapters/19-psalms/Psalms 74|Psalms 74:13–14]]

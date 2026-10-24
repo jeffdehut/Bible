@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "prophets"]
 
 ![[text/hebrew/26-ezekiel#Chapter 46]]
 
+## Plain English translation
+
+![[text/english/26-ezekiel#Chapter 46]]
+
 ## Cross-references
 
 - **46:9** → [[connections/chapters/05-deuteronomy/Deuteronomy 16|Deuteronomy 16:16]]

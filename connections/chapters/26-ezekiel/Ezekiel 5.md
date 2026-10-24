@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "prophets"]
 
 ![[text/hebrew/26-ezekiel#Chapter 5]]
 
+## Plain English translation
+
+![[text/english/26-ezekiel#Chapter 5]]
+
 ## Cross-references
 
 - **5:2** → [[connections/chapters/26-ezekiel/Ezekiel 5|Ezekiel 5:12]]

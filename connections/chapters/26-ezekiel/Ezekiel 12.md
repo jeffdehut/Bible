@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "prophets"]
 
 ![[text/hebrew/26-ezekiel#Chapter 12]]
 
+## Plain English translation
+
+![[text/english/26-ezekiel#Chapter 12]]
+
 ## Cross-references
 
 - **12:2** → [[connections/chapters/24-jeremiah/Jeremiah 5|Jeremiah 5:21]] · [[connections/chapters/41-mark/Mark 4|Mark 4:12]]

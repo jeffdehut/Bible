@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "prophets"]
 
 ![[text/hebrew/24-jeremiah#Chapter 18]]
 
+## Plain English translation
+
+![[text/english/24-jeremiah#Chapter 18]]
+
 ## Cross-references
 
 - **18:4** → [[connections/chapters/45-romans/Romans 9|Romans 9:20–23]] · [[connections/chapters/24-jeremiah/Jeremiah 18|Jeremiah 18:6]] · [[connections/chapters/23-isaiah/Isaiah 45|Isaiah 45:9]]

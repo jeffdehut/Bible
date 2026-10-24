@@ -85,9 +85,8 @@ differ from English Bibles: Psalm titles count as verse 1, and Malachi has 3 cha
 
 A new translation into plain English, made directly from the Hebrew and Greek above. It
 gives a note wherever the source could be read another way, so readers can always see what
-the original says. Genesis through Song of Songs (the Pentateuch, the Historical Books and the Wisdom and
-Poetry books), Lamentations and the Gospel of Mark are drafted, and Isaiah and Jeremiah are
-under way: 737 of 1,189 chapters, all awaiting review. Read [TRANSLATION.md](TRANSLATION.md) for the principles and the decisions still
+the original says. The whole Old Testament (all 929 chapters, Genesis to Malachi) and the Gospel of Mark are
+drafted: 946 of 1,189 chapters, all awaiting review. Read [TRANSLATION.md](TRANSLATION.md) for the principles and the decisions still
 open, and [translation/STATUS.md](translation/STATUS.md) for progress. Every chapter carries
 its review status, and drafts are marked as AI-generated until people who read Hebrew or
 Greek have reviewed them.

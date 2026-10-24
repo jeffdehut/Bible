@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "prophets"]
 
 ![[text/hebrew/39-malachi#Chapter 3]]
 
+## Plain English translation
+
+![[text/english/39-malachi#Chapter 3]]
+
 ## Cross-references
 
 - **3:1** → [[connections/chapters/39-malachi/Malachi 3|Malachi 3:23]] · [[connections/chapters/42-luke/Luke 1|Luke 1:76]] · [[connections/chapters/41-mark/Mark 1|Mark 1:2–3]] · [[connections/chapters/23-isaiah/Isaiah 63|Isaiah 63:9]] · [[connections/chapters/40-matthew/Matthew 11|Matthew 11:10–11]] · [[connections/chapters/42-luke/Luke 7|Luke 7:26–28]] · [[connections/chapters/44-acts/Acts 19|Acts 19:4]] · [[connections/chapters/39-malachi/Malachi 2|Malachi 2:7]]

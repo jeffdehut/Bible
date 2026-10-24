@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "prophets"]
 
 ![[text/hebrew/38-zechariah#Chapter 13]]
 
+## Plain English translation
+
+![[text/english/38-zechariah#Chapter 13]]
+
 ## Cross-references
 
 - **13:1** → [[connections/chapters/43-john/John 1|John 1:29]] · [[connections/chapters/46-1-corinthians/1 Corinthians 6|1 Corinthians 6:11]] · [[connections/chapters/19-psalms/Psalms 51|Psalms 51:4]] · [[connections/chapters/26-ezekiel/Ezekiel 36|Ezekiel 36:25]] · [[connections/chapters/58-hebrews/Hebrews 9|Hebrews 9:13–14]] · [[connections/chapters/62-1-john/1 John 1|1 John 1:7]] · [[connections/chapters/66-revelation/Revelation 7|Revelation 7:13–14]] · [[connections/chapters/62-1-john/1 John 5|1 John 5:6]] · [[connections/chapters/38-zechariah/Zechariah 12|Zechariah 12:7–8]] · [[connections/chapters/66-revelation/Revelation 1|Revelation 1:5–6]] · [[connections/chapters/23-isaiah/Isaiah 1|Isaiah 1:16–18]] · [[connections/chapters/38-zechariah/Zechariah 12|Zechariah 12:3]] · [[connections/chapters/19-psalms/Psalms 51|Psalms 51:9]] · [[connections/chapters/60-1-peter/1 Peter 1|1 Peter 1:19]] · [[connections/chapters/24-jeremiah/Jeremiah 17|Jeremiah 17:13]] · [[connections/chapters/26-ezekiel/Ezekiel 36|Ezekiel 36:29]] · [[connections/chapters/49-ephesians/Ephesians 5|Ephesians 5:25–27]] · [[connections/chapters/56-titus/Titus 3|Titus 3:5–7]]

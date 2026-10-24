@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "prophets"]
 
 ![[text/hebrew/23-isaiah#Chapter 56]]
 
+## Plain English translation
+
+![[text/english/23-isaiah#Chapter 56]]
+
 ## Cross-references
 
 - **56:1** → [[connections/chapters/45-romans/Romans 13|Romans 13:11–14]] · [[connections/chapters/19-psalms/Psalms 85|Psalms 85:10]] · [[connections/chapters/40-matthew/Matthew 3|Matthew 3:2]] · [[connections/chapters/23-isaiah/Isaiah 1|Isaiah 1:16–19]] · [[connections/chapters/45-romans/Romans 1|Romans 1:17]] · [[connections/chapters/45-romans/Romans 10|Romans 10:6–10]] · [[connections/chapters/19-psalms/Psalms 24|Psalms 24:4–6]] · [[connections/chapters/23-isaiah/Isaiah 55|Isaiah 55:7]] · [[connections/chapters/23-isaiah/Isaiah 46|Isaiah 46:13]] · [[connections/chapters/40-matthew/Matthew 4|Matthew 4:17]] · [[connections/chapters/23-isaiah/Isaiah 51|Isaiah 51:5]]

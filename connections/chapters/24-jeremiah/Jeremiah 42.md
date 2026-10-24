@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "prophets"]
 
 ![[text/hebrew/24-jeremiah#Chapter 42]]
 
+## Plain English translation
+
+![[text/english/24-jeremiah#Chapter 42]]
+
 ## Cross-references
 
 - **42:10** → [[connections/chapters/26-ezekiel/Ezekiel 36|Ezekiel 36:36]] · [[connections/chapters/24-jeremiah/Jeremiah 31|Jeremiah 31:28]]

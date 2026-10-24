@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "prophets"]
 
 ![[text/hebrew/27-daniel#Chapter 12]]
 
+## Plain English translation
+
+![[text/english/27-daniel#Chapter 12]]
+
 ## Cross-references
 
 - **12:1** → [[connections/chapters/40-matthew/Matthew 24|Matthew 24:21]] · [[connections/chapters/24-jeremiah/Jeremiah 30|Jeremiah 30:7]] · [[connections/chapters/41-mark/Mark 13|Mark 13:19]] · [[connections/chapters/66-revelation/Revelation 16|Revelation 16:17–21]] · [[connections/chapters/42-luke/Luke 21|Luke 21:23–24]] · [[connections/chapters/27-daniel/Daniel 10|Daniel 10:13]] · [[connections/chapters/27-daniel/Daniel 10|Daniel 10:21]]

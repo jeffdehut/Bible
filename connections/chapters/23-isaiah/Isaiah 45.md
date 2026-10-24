@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "prophets"]
 
 ![[text/hebrew/23-isaiah#Chapter 45]]
 
+## Plain English translation
+
+![[text/english/23-isaiah#Chapter 45]]
+
 ## Cross-references
 
 - **45:1** → [[connections/chapters/24-jeremiah/Jeremiah 51|Jeremiah 51:20–24]] · [[connections/chapters/23-isaiah/Isaiah 42|Isaiah 42:6]] · [[connections/chapters/23-isaiah/Isaiah 44|Isaiah 44:28]] · [[connections/chapters/19-psalms/Psalms 73|Psalms 73:23]] · [[connections/chapters/23-isaiah/Isaiah 41|Isaiah 41:13]]

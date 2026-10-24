@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "prophets"]
 
 ![[text/hebrew/38-zechariah#Chapter 2]]
 
+## Plain English translation
+
+![[text/english/38-zechariah#Chapter 2]]
+
 ## Cross-references
 
 - **2:5** → [[connections/chapters/26-ezekiel/Ezekiel 40|Ezekiel 40:3]] · [[connections/chapters/38-zechariah/Zechariah 1|Zechariah 1:16]] · [[connections/chapters/26-ezekiel/Ezekiel 40|Ezekiel 40:5]] · [[connections/chapters/66-revelation/Revelation 21|Revelation 21:15]] · [[connections/chapters/66-revelation/Revelation 11|Revelation 11:1]] · [[connections/chapters/26-ezekiel/Ezekiel 47|Ezekiel 47:4]] · [[connections/chapters/38-zechariah/Zechariah 2|Zechariah 2:1]]

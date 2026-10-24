@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "prophets"]
 
 ![[text/hebrew/30-amos#Chapter 8]]
 
+## Plain English translation
+
+![[text/english/30-amos#Chapter 8]]
+
 ## Cross-references
 
 - **8:4** → [[connections/chapters/20-proverbs/Proverbs 30|Proverbs 30:14]]

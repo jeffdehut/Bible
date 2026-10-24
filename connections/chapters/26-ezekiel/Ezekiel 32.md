@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "prophets"]
 
 ![[text/hebrew/26-ezekiel#Chapter 32]]
 
+## Plain English translation
+
+![[text/english/26-ezekiel#Chapter 32]]
+
 ## Cross-references
 
 *No cross-references with at least 8 votes.*

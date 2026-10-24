@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "prophets"]
 
 ![[text/hebrew/26-ezekiel#Chapter 34]]
 
+## Plain English translation
+
+![[text/english/26-ezekiel#Chapter 34]]
+
 ## Cross-references
 
 - **34:2** → [[connections/chapters/24-jeremiah/Jeremiah 23|Jeremiah 23:1]] · [[connections/chapters/24-jeremiah/Jeremiah 3|Jeremiah 3:15]] · [[connections/chapters/23-isaiah/Isaiah 40|Isaiah 40:11]] · [[connections/chapters/26-ezekiel/Ezekiel 34|Ezekiel 34:8–10]] · [[connections/chapters/42-luke/Luke 20|Luke 20:46–47]] · [[connections/chapters/24-jeremiah/Jeremiah 10|Jeremiah 10:21]] · [[connections/chapters/61-2-peter/2 Peter 2|2 Peter 2:3]] · [[connections/chapters/45-romans/Romans 16|Romans 16:18]] · [[connections/chapters/19-psalms/Psalms 78|Psalms 78:71–72]] · [[connections/chapters/43-john/John 21|John 21:15–17]] · [[connections/chapters/44-acts/Acts 20|Acts 20:29]] · [[connections/chapters/26-ezekiel/Ezekiel 13|Ezekiel 13:19]] · [[connections/chapters/38-zechariah/Zechariah 11|Zechariah 11:17]] · [[connections/chapters/44-acts/Acts 20|Acts 20:26]] · [[connections/chapters/24-jeremiah/Jeremiah 12|Jeremiah 12:10]] · [[connections/chapters/33-micah/Micah 3|Micah 3:11–12]] · [[connections/chapters/60-1-peter/1 Peter 5|1 Peter 5:2–4]] · [[connections/chapters/24-jeremiah/Jeremiah 2|Jeremiah 2:8]]

@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "prophets"]
 
 ![[text/hebrew/24-jeremiah#Chapter 25]]
 
+## Plain English translation
+
+![[text/english/24-jeremiah#Chapter 25]]
+
 ## Cross-references
 
 - **25:11** → [[connections/chapters/27-daniel/Daniel 9|Daniel 9:2]]

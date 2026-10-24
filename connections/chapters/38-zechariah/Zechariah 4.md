@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "prophets"]
 
 ![[text/hebrew/38-zechariah#Chapter 4]]
 
+## Plain English translation
+
+![[text/english/38-zechariah#Chapter 4]]
+
 ## Cross-references
 
 - **4:2** → [[connections/chapters/66-revelation/Revelation 4|Revelation 4:5]]

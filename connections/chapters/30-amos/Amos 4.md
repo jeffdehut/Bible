@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "prophets"]
 
 ![[text/hebrew/30-amos#Chapter 4]]
 
+## Plain English translation
+
+![[text/english/30-amos#Chapter 4]]
+
 ## Cross-references
 
 - **4:1** → [[connections/chapters/19-psalms/Psalms 22|Psalms 22:13]]

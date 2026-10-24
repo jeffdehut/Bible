@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "prophets"]
 
 ![[text/hebrew/23-isaiah#Chapter 36]]
 
+## Plain English translation
+
+![[text/english/23-isaiah#Chapter 36]]
+
 ## Cross-references
 
 - **36:6** → [[connections/chapters/26-ezekiel/Ezekiel 29|Ezekiel 29:6–7]]

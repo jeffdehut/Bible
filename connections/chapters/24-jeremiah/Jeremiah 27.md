@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "prophets"]
 
 ![[text/hebrew/24-jeremiah#Chapter 27]]
 
+## Plain English translation
+
+![[text/english/24-jeremiah#Chapter 27]]
+
 ## Cross-references
 
 - **27:5** → [[connections/chapters/24-jeremiah/Jeremiah 32|Jeremiah 32:17]] · [[connections/chapters/24-jeremiah/Jeremiah 51|Jeremiah 51:15]] · [[connections/chapters/19-psalms/Psalms 115|Psalms 115:15–16]] · [[connections/chapters/58-hebrews/Hebrews 1|Hebrews 1:10–11]] · [[connections/chapters/19-psalms/Psalms 146|Psalms 146:5–6]] · [[connections/chapters/27-daniel/Daniel 4|Daniel 4:14]]

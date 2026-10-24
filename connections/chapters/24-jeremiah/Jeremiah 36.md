@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "prophets"]
 
 ![[text/hebrew/24-jeremiah#Chapter 36]]
 
+## Plain English translation
+
+![[text/english/24-jeremiah#Chapter 36]]
+
 ## Cross-references
 
 - **36:2** → [[connections/chapters/24-jeremiah/Jeremiah 30|Jeremiah 30:2]]

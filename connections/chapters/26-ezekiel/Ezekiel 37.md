@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "prophets"]
 
 ![[text/hebrew/26-ezekiel#Chapter 37]]
 
+## Plain English translation
+
+![[text/english/26-ezekiel#Chapter 37]]
+
 ## Cross-references
 
 - **37:1** → [[connections/chapters/26-ezekiel/Ezekiel 3|Ezekiel 3:22]] · [[connections/chapters/44-acts/Acts 8|Acts 8:39]] · [[connections/chapters/26-ezekiel/Ezekiel 1|Ezekiel 1:3]] · [[connections/chapters/26-ezekiel/Ezekiel 33|Ezekiel 33:22]] · [[connections/chapters/24-jeremiah/Jeremiah 7|Jeremiah 7:32]]

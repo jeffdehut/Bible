@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "prophets"]
 
 ![[text/hebrew/39-malachi#Chapter 2]]
 
+## Plain English translation
+
+![[text/english/39-malachi#Chapter 2]]
+
 ## Cross-references
 
 - **2:2** → [[connections/chapters/42-luke/Luke 17|Luke 17:18]] · [[connections/chapters/66-revelation/Revelation 14|Revelation 14:7]]

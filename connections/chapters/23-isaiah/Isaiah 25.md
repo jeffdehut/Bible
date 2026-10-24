@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "prophets"]
 
 ![[text/hebrew/23-isaiah#Chapter 25]]
 
+## Plain English translation
+
+![[text/english/23-isaiah#Chapter 25]]
+
 ## Cross-references
 
 - **25:1** → [[connections/chapters/02-exodus/Exodus 15|Exodus 15:2]] · [[connections/chapters/19-psalms/Psalms 118|Psalms 118:28]] · [[connections/chapters/04-numbers/Numbers 23|Numbers 23:19]] · [[connections/chapters/19-psalms/Psalms 98|Psalms 98:1]] · [[connections/chapters/19-psalms/Psalms 40|Psalms 40:6]] · [[connections/chapters/23-isaiah/Isaiah 61|Isaiah 61:10]] · [[connections/chapters/23-isaiah/Isaiah 28|Isaiah 28:29]] · [[connections/chapters/49-ephesians/Ephesians 1|Ephesians 1:11]] · [[connections/chapters/19-psalms/Psalms 46|Psalms 46:11]] · [[connections/chapters/23-isaiah/Isaiah 46|Isaiah 46:10]] · [[connections/chapters/66-revelation/Revelation 19|Revelation 19:11]] · [[connections/chapters/19-psalms/Psalms 33|Psalms 33:10–11]] · [[connections/chapters/19-psalms/Psalms 146|Psalms 146:2]] · [[connections/chapters/13-1-chronicles/1 Chronicles 29|1 Chronicles 29:10–20]] · [[connections/chapters/66-revelation/Revelation 5|Revelation 5:9–14]]

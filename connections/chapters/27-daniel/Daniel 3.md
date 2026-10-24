@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "prophets"]
 
 ![[text/hebrew/27-daniel#Chapter 3]]
 
+## Plain English translation
+
+![[text/english/27-daniel#Chapter 3]]
+
 ## Cross-references
 
 - **3:1** → [[connections/chapters/24-jeremiah/Jeremiah 16|Jeremiah 16:20]] · [[connections/chapters/35-habakkuk/Habakkuk 2|Habakkuk 2:19]] · [[connections/chapters/23-isaiah/Isaiah 46|Isaiah 46:6]] · [[connections/chapters/28-hosea/Hosea 8|Hosea 8:4]]

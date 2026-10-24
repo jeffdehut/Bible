@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "prophets"]
 
 ![[text/hebrew/30-amos#Chapter 3]]
 
+## Plain English translation
+
+![[text/english/30-amos#Chapter 3]]
+
 ## Cross-references
 
 - **3:1** → [[connections/chapters/30-amos/Amos 2|Amos 2:10]]

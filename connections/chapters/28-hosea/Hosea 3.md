@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "prophets"]
 
 ![[text/hebrew/28-hosea#Chapter 3]]
 
+## Plain English translation
+
+![[text/english/28-hosea#Chapter 3]]
+
 ## Cross-references
 
 - **3:5** → [[connections/chapters/24-jeremiah/Jeremiah 30|Jeremiah 30:9]] · [[connections/chapters/24-jeremiah/Jeremiah 50|Jeremiah 50:4–5]] · [[connections/chapters/26-ezekiel/Ezekiel 34|Ezekiel 34:23–24]] · [[connections/chapters/23-isaiah/Isaiah 2|Isaiah 2:2]] · [[connections/chapters/26-ezekiel/Ezekiel 37|Ezekiel 37:22–25]]

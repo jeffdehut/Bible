@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "prophets"]
 
 ![[text/hebrew/24-jeremiah#Chapter 48]]
 
+## Plain English translation
+
+![[text/english/24-jeremiah#Chapter 48]]
+
 ## Cross-references
 
 - **48:10** → [[connections/chapters/11-1-kings/1 Kings 20|1 Kings 20:42]] · [[connections/chapters/09-1-samuel/1 Samuel 15|1 Samuel 15:3]] · [[connections/chapters/09-1-samuel/1 Samuel 15|1 Samuel 15:9]] · [[connections/chapters/07-judges/Judges 5|Judges 5:23]]

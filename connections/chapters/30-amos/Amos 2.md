@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "prophets"]
 
 ![[text/hebrew/30-amos#Chapter 2]]
 
+## Plain English translation
+
+![[text/english/30-amos#Chapter 2]]
+
 ## Cross-references
 
 - **2:4** → [[connections/chapters/26-ezekiel/Ezekiel 20|Ezekiel 20:24]]

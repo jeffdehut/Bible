@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "prophets"]
 
 ![[text/hebrew/23-isaiah#Chapter 65]]
 
+## Plain English translation
+
+![[text/english/23-isaiah#Chapter 65]]
+
 ## Cross-references
 
 - **65:1** → [[connections/chapters/45-romans/Romans 10|Romans 10:20]] · [[connections/chapters/45-romans/Romans 9|Romans 9:24–26]] · [[connections/chapters/60-1-peter/1 Peter 2|1 Peter 2:10]] · [[connections/chapters/49-ephesians/Ephesians 2|Ephesians 2:12–13]] · [[connections/chapters/23-isaiah/Isaiah 45|Isaiah 45:22]] · [[connections/chapters/28-hosea/Hosea 2|Hosea 2:1]] · [[connections/chapters/19-psalms/Psalms 22|Psalms 22:28]] · [[connections/chapters/38-zechariah/Zechariah 8|Zechariah 8:22–23]] · [[connections/chapters/23-isaiah/Isaiah 55|Isaiah 55:5]] · [[connections/chapters/23-isaiah/Isaiah 43|Isaiah 43:1]] · [[connections/chapters/38-zechariah/Zechariah 2|Zechariah 2:15]] · [[connections/chapters/23-isaiah/Isaiah 11|Isaiah 11:10]]

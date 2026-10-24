@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "prophets"]
 
 ![[text/hebrew/28-hosea#Chapter 11]]
 
+## Plain English translation
+
+![[text/english/28-hosea#Chapter 11]]
+
 ## Cross-references
 
 - **11:1** → [[connections/chapters/40-matthew/Matthew 2|Matthew 2:15]] · [[connections/chapters/02-exodus/Exodus 4|Exodus 4:22]]

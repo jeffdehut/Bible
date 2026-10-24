@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "prophets"]
 
 ![[text/hebrew/38-zechariah#Chapter 12]]
 
+## Plain English translation
+
+![[text/english/38-zechariah#Chapter 12]]
+
 ## Cross-references
 
 - **12:1** → [[connections/chapters/23-isaiah/Isaiah 42|Isaiah 42:5]] · [[connections/chapters/24-jeremiah/Jeremiah 51|Jeremiah 51:15]]

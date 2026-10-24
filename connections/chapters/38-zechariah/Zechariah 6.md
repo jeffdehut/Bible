@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "prophets"]
 
 ![[text/hebrew/38-zechariah#Chapter 6]]
 
+## Plain English translation
+
+![[text/english/38-zechariah#Chapter 6]]
+
 ## Cross-references
 
 - **6:12** → [[connections/chapters/38-zechariah/Zechariah 3|Zechariah 3:8]] · [[connections/chapters/24-jeremiah/Jeremiah 33|Jeremiah 33:15]]

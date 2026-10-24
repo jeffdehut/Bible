@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "prophets"]
 
 ![[text/hebrew/24-jeremiah#Chapter 21]]
 
+## Plain English translation
+
+![[text/english/24-jeremiah#Chapter 21]]
+
 ## Cross-references
 
 - **21:7** → [[connections/chapters/24-jeremiah/Jeremiah 37|Jeremiah 37:17]]

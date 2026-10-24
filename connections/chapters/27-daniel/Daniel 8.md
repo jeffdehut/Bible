@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "prophets"]
 
 ![[text/hebrew/27-daniel#Chapter 8]]
 
+## Plain English translation
+
+![[text/english/27-daniel#Chapter 8]]
+
 ## Cross-references
 
 - **8:14** → [[connections/chapters/27-daniel/Daniel 12|Daniel 12:7]] · [[connections/chapters/27-daniel/Daniel 7|Daniel 7:25]] · [[connections/chapters/66-revelation/Revelation 11|Revelation 11:2–3]] · [[connections/chapters/27-daniel/Daniel 12|Daniel 12:11]] · [[connections/chapters/23-isaiah/Isaiah 45|Isaiah 45:25]]

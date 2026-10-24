@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "prophets"]
 
 ![[text/hebrew/26-ezekiel#Chapter 38]]
 
+## Plain English translation
+
+![[text/english/26-ezekiel#Chapter 38]]
+
 ## Cross-references
 
 - **38:2** → [[connections/chapters/26-ezekiel/Ezekiel 39|Ezekiel 39:1]]

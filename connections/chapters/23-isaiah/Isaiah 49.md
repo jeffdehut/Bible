@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "prophets"]
 
 ![[text/hebrew/23-isaiah#Chapter 49]]
 
+## Plain English translation
+
+![[text/english/23-isaiah#Chapter 49]]
+
 ## Cross-references
 
 - **49:1** → [[connections/chapters/24-jeremiah/Jeremiah 1|Jeremiah 1:5]] · [[connections/chapters/48-galatians/Galatians 1|Galatians 1:15]] · [[connections/chapters/23-isaiah/Isaiah 44|Isaiah 44:2]] · [[connections/chapters/23-isaiah/Isaiah 49|Isaiah 49:5]] · [[connections/chapters/42-luke/Luke 1|Luke 1:31]]

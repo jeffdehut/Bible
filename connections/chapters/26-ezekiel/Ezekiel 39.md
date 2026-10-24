@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "prophets"]
 
 ![[text/hebrew/26-ezekiel#Chapter 39]]
 
+## Plain English translation
+
+![[text/english/26-ezekiel#Chapter 39]]
+
 ## Cross-references
 
 - **39:17** → [[connections/chapters/66-revelation/Revelation 19|Revelation 19:17–18]] · [[connections/chapters/36-zephaniah/Zephaniah 1|Zephaniah 1:7]]

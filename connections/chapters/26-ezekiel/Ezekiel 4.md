@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "prophets"]
 
 ![[text/hebrew/26-ezekiel#Chapter 4]]
 
+## Plain English translation
+
+![[text/english/26-ezekiel#Chapter 4]]
+
 ## Cross-references
 
 - **4:6** → [[connections/chapters/04-numbers/Numbers 14|Numbers 14:34]]

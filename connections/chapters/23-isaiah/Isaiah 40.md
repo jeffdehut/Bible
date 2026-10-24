@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "prophets"]
 
 ![[text/hebrew/23-isaiah#Chapter 40]]
 
+## Plain English translation
+
+![[text/english/23-isaiah#Chapter 40]]
+
 ## Cross-references
 
 - **40:1** → [[connections/chapters/47-2-corinthians/2 Corinthians 1|2 Corinthians 1:4]] · [[connections/chapters/23-isaiah/Isaiah 51|Isaiah 51:12]] · [[connections/chapters/23-isaiah/Isaiah 51|Isaiah 51:3]] · [[connections/chapters/36-zephaniah/Zephaniah 3|Zephaniah 3:14–17]] · [[connections/chapters/38-zechariah/Zechariah 1|Zechariah 1:13]] · [[connections/chapters/24-jeremiah/Jeremiah 31|Jeremiah 31:10–14]] · [[connections/chapters/52-1-thessalonians/1 Thessalonians 4|1 Thessalonians 4:18]] · [[connections/chapters/23-isaiah/Isaiah 49|Isaiah 49:13–16]] · [[connections/chapters/23-isaiah/Isaiah 66|Isaiah 66:10–14]] · [[connections/chapters/23-isaiah/Isaiah 60|Isaiah 60:1–61:3]] · [[connections/chapters/23-isaiah/Isaiah 12|Isaiah 12:1]] · [[connections/chapters/38-zechariah/Zechariah 9|Zechariah 9:9]] · [[connections/chapters/23-isaiah/Isaiah 52|Isaiah 52:9]]

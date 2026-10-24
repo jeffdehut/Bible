@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "prophets"]
 
 ![[text/hebrew/26-ezekiel#Chapter 22]]
 
+## Plain English translation
+
+![[text/english/26-ezekiel#Chapter 22]]
+
 ## Cross-references
 
 - **22:26** → [[connections/chapters/03-leviticus/Leviticus 10|Leviticus 10:10]]

@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "prophets"]
 
 ![[text/hebrew/23-isaiah#Chapter 42]]
 
+## Plain English translation
+
+![[text/english/23-isaiah#Chapter 42]]
+
 ## Cross-references
 
 - **42:1** → [[connections/chapters/40-matthew/Matthew 12|Matthew 12:18–21]] · [[connections/chapters/42-luke/Luke 3|Luke 3:22]] · [[connections/chapters/23-isaiah/Isaiah 52|Isaiah 52:13]] · [[connections/chapters/23-isaiah/Isaiah 61|Isaiah 61:1]] · [[connections/chapters/50-philippians/Philippians 2|Philippians 2:7]] · [[connections/chapters/23-isaiah/Isaiah 43|Isaiah 43:10]] · [[connections/chapters/40-matthew/Matthew 17|Matthew 17:5]] · [[connections/chapters/40-matthew/Matthew 3|Matthew 3:16–17]] · [[connections/chapters/23-isaiah/Isaiah 53|Isaiah 53:11]] · [[connections/chapters/60-1-peter/1 Peter 2|1 Peter 2:4]] · [[connections/chapters/23-isaiah/Isaiah 41|Isaiah 41:8]] · [[connections/chapters/49-ephesians/Ephesians 3|Ephesians 3:8]] · [[connections/chapters/49-ephesians/Ephesians 1|Ephesians 1:6]]

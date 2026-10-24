@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "prophets"]
 
 ![[text/hebrew/23-isaiah#Chapter 50]]
 
+## Plain English translation
+
+![[text/english/23-isaiah#Chapter 50]]
+
 ## Cross-references
 
 - **50:1** → [[connections/chapters/05-deuteronomy/Deuteronomy 32|Deuteronomy 32:30]] · [[connections/chapters/24-jeremiah/Jeremiah 3|Jeremiah 3:8]]

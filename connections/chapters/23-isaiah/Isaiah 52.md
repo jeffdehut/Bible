@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "prophets"]
 
 ![[text/hebrew/23-isaiah#Chapter 52]]
 
+## Plain English translation
+
+![[text/english/23-isaiah#Chapter 52]]
+
 ## Cross-references
 
 - **52:1** → [[connections/chapters/66-revelation/Revelation 21|Revelation 21:27]] · [[connections/chapters/23-isaiah/Isaiah 51|Isaiah 51:17]] · [[connections/chapters/38-zechariah/Zechariah 3|Zechariah 3:4]] · [[connections/chapters/66-revelation/Revelation 21|Revelation 21:2]] · [[connections/chapters/23-isaiah/Isaiah 51|Isaiah 51:9]]

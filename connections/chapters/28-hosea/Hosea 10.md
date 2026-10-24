@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "prophets"]
 
 ![[text/hebrew/28-hosea#Chapter 10]]
 
+## Plain English translation
+
+![[text/english/28-hosea#Chapter 10]]
+
 ## Cross-references
 
 - **10:1** → [[connections/chapters/28-hosea/Hosea 8|Hosea 8:11]]

@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "prophets"]
 
 ![[text/hebrew/23-isaiah#Chapter 30]]
 
+## Plain English translation
+
+![[text/english/23-isaiah#Chapter 30]]
+
 ## Cross-references
 
 - **30:1** → [[connections/chapters/23-isaiah/Isaiah 65|Isaiah 65:2]] · [[connections/chapters/23-isaiah/Isaiah 1|Isaiah 1:2]] · [[connections/chapters/28-hosea/Hosea 7|Hosea 7:13]] · [[connections/chapters/23-isaiah/Isaiah 63|Isaiah 63:10]] · [[connections/chapters/45-romans/Romans 2|Romans 2:5]] · [[connections/chapters/23-isaiah/Isaiah 29|Isaiah 29:15]] · [[connections/chapters/28-hosea/Hosea 4|Hosea 4:10–12]]

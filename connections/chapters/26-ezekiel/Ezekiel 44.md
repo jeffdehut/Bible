@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "prophets"]
 
 ![[text/hebrew/26-ezekiel#Chapter 44]]
 
+## Plain English translation
+
+![[text/english/26-ezekiel#Chapter 44]]
+
 ## Cross-references
 
 - **44:3** → [[connections/chapters/26-ezekiel/Ezekiel 46|Ezekiel 46:2]]

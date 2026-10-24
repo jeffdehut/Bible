@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "prophets"]
 
 ![[text/hebrew/38-zechariah#Chapter 11]]
 
+## Plain English translation
+
+![[text/english/38-zechariah#Chapter 11]]
+
 ## Cross-references
 
 - **11:5** → [[connections/chapters/24-jeremiah/Jeremiah 50|Jeremiah 50:7]]

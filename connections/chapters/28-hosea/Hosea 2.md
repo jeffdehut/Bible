@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "prophets"]
 
 ![[text/hebrew/28-hosea#Chapter 2]]
 
+## Plain English translation
+
+![[text/english/28-hosea#Chapter 2]]
+
 ## Cross-references
 
 - **2:1** → [[connections/chapters/47-2-corinthians/2 Corinthians 6|2 Corinthians 6:18]] · [[connections/chapters/48-galatians/Galatians 4|Galatians 4:6–7]] · [[connections/chapters/43-john/John 1|John 1:12]] · [[connections/chapters/45-romans/Romans 9|Romans 9:25–28]] · [[connections/chapters/60-1-peter/1 Peter 2|1 Peter 2:9–10]] · [[connections/chapters/62-1-john/1 John 3|1 John 3:1–2]] · [[connections/chapters/45-romans/Romans 8|Romans 8:14–17]] · [[connections/chapters/23-isaiah/Isaiah 43|Isaiah 43:6]] · [[connections/chapters/28-hosea/Hosea 2|Hosea 2:25]] · [[connections/chapters/23-isaiah/Isaiah 66|Isaiah 66:20]] · [[connections/chapters/23-isaiah/Isaiah 60|Isaiah 60:4–22]] · [[connections/chapters/01-genesis/Genesis 13|Genesis 13:16]] · [[connections/chapters/28-hosea/Hosea 1|Hosea 1:9]] · [[connections/chapters/01-genesis/Genesis 22|Genesis 22:17]] · [[connections/chapters/58-hebrews/Hebrews 11|Hebrews 11:12]] · [[connections/chapters/01-genesis/Genesis 32|Genesis 32:13]] · [[connections/chapters/23-isaiah/Isaiah 48|Isaiah 48:19]] · [[connections/chapters/24-jeremiah/Jeremiah 33|Jeremiah 33:22]]

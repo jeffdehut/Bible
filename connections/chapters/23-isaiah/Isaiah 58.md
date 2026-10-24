@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "prophets"]
 
 ![[text/hebrew/23-isaiah#Chapter 58]]
 
+## Plain English translation
+
+![[text/english/23-isaiah#Chapter 58]]
+
 ## Cross-references
 
 - **58:1** → [[connections/chapters/56-titus/Titus 2|Titus 2:15]] · [[connections/chapters/28-hosea/Hosea 8|Hosea 8:1]] · [[connections/chapters/44-acts/Acts 20|Acts 20:26–27]] · [[connections/chapters/44-acts/Acts 7|Acts 7:51–52]] · [[connections/chapters/26-ezekiel/Ezekiel 3|Ezekiel 3:17–21]] · [[connections/chapters/40-matthew/Matthew 3|Matthew 3:7–9]] · [[connections/chapters/26-ezekiel/Ezekiel 3|Ezekiel 3:5–9]] · [[connections/chapters/66-revelation/Revelation 14|Revelation 14:9–10]] · [[connections/chapters/26-ezekiel/Ezekiel 20|Ezekiel 20:4]] · [[connections/chapters/33-micah/Micah 3|Micah 3:8–12]] · [[connections/chapters/23-isaiah/Isaiah 40|Isaiah 40:9–10]]

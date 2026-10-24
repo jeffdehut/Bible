@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "prophets"]
 
 ![[text/hebrew/23-isaiah#Chapter 48]]
 
+## Plain English translation
+
+![[text/english/23-isaiah#Chapter 48]]
+
 ## Cross-references
 
 - **48:3** → [[connections/chapters/23-isaiah/Isaiah 42|Isaiah 42:9]] · [[connections/chapters/06-joshua/Joshua 21|Joshua 21:45]] · [[connections/chapters/23-isaiah/Isaiah 41|Isaiah 41:22]] · [[connections/chapters/23-isaiah/Isaiah 44|Isaiah 44:7–8]] · [[connections/chapters/23-isaiah/Isaiah 45|Isaiah 45:21]]

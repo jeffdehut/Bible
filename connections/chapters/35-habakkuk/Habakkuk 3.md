@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "prophets"]
 
 ![[text/hebrew/35-habakkuk#Chapter 3]]
 
+## Plain English translation
+
+![[text/english/35-habakkuk#Chapter 3]]
+
 ## Cross-references
 
 - **3:2** → [[connections/chapters/19-psalms/Psalms 85|Psalms 85:7]] · [[connections/chapters/19-psalms/Psalms 90|Psalms 90:13–17]] · [[connections/chapters/28-hosea/Hosea 6|Hosea 6:2–3]] · [[connections/chapters/23-isaiah/Isaiah 51|Isaiah 51:9–11]] · [[connections/chapters/25-lamentations/Lamentations 3|Lamentations 3:32]] · [[connections/chapters/23-isaiah/Isaiah 63|Isaiah 63:15–64:3]] · [[connections/chapters/35-habakkuk/Habakkuk 3|Habakkuk 3:16]] · [[connections/chapters/50-philippians/Philippians 1|Philippians 1:6]] · [[connections/chapters/23-isaiah/Isaiah 54|Isaiah 54:8]] · [[connections/chapters/24-jeremiah/Jeremiah 10|Jeremiah 10:24]] · [[connections/chapters/35-habakkuk/Habakkuk 1|Habakkuk 1:5–10]] · [[connections/chapters/19-psalms/Psalms 119|Psalms 119:120]] · [[connections/chapters/43-john/John 10|John 10:10]] · [[connections/chapters/19-psalms/Psalms 44|Psalms 44:2]]

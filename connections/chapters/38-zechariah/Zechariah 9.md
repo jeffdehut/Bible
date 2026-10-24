@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "prophets"]
 
 ![[text/hebrew/38-zechariah#Chapter 9]]
 
+## Plain English translation
+
+![[text/english/38-zechariah#Chapter 9]]
+
 ## Cross-references
 
 - **9:8** → [[connections/chapters/23-isaiah/Isaiah 54|Isaiah 54:14]]

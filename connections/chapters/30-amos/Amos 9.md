@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "prophets"]
 
 ![[text/hebrew/30-amos#Chapter 9]]
 
+## Plain English translation
+
+![[text/english/30-amos#Chapter 9]]
+
 ## Cross-references
 
 - **9:6** → [[connections/chapters/30-amos/Amos 5|Amos 5:8]] · [[connections/chapters/19-psalms/Psalms 104|Psalms 104:3]]

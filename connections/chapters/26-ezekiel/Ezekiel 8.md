@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "prophets"]
 
 ![[text/hebrew/26-ezekiel#Chapter 8]]
 
+## Plain English translation
+
+![[text/english/26-ezekiel#Chapter 8]]
+
 ## Cross-references
 
 - **8:16** → [[connections/chapters/05-deuteronomy/Deuteronomy 4|Deuteronomy 4:19]] · [[connections/chapters/05-deuteronomy/Deuteronomy 17|Deuteronomy 17:3]] · [[connections/chapters/24-jeremiah/Jeremiah 32|Jeremiah 32:33]] · [[connections/chapters/26-ezekiel/Ezekiel 11|Ezekiel 11:1]] · [[connections/chapters/24-jeremiah/Jeremiah 2|Jeremiah 2:27]]

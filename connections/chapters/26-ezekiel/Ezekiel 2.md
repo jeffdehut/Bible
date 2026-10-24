@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "prophets"]
 
 ![[text/hebrew/26-ezekiel#Chapter 2]]
 
+## Plain English translation
+
+![[text/english/26-ezekiel#Chapter 2]]
+
 ## Cross-references
 
 - **2:2** → [[connections/chapters/26-ezekiel/Ezekiel 3|Ezekiel 3:24]]

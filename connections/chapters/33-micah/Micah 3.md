@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "prophets"]
 
 ![[text/hebrew/33-micah#Chapter 3]]
 
+## Plain English translation
+
+![[text/english/33-micah#Chapter 3]]
+
 ## Cross-references
 
 - **3:2** → [[connections/chapters/26-ezekiel/Ezekiel 22|Ezekiel 22:27]]

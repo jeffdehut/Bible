@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "prophets"]
 
 ![[text/hebrew/28-hosea#Chapter 12]]
 
+## Plain English translation
+
+![[text/english/28-hosea#Chapter 12]]
+
 ## Cross-references
 
 - **12:7** → [[connections/chapters/33-micah/Micah 6|Micah 6:8]]

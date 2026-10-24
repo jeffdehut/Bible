@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "prophets"]
 
 ![[text/hebrew/24-jeremiah#Chapter 45]]
 
+## Plain English translation
+
+![[text/english/24-jeremiah#Chapter 45]]
+
 ## Cross-references
 
 - **45:5** → [[connections/chapters/24-jeremiah/Jeremiah 39|Jeremiah 39:18]] · [[connections/chapters/58-hebrews/Hebrews 13|Hebrews 13:5]] · [[connections/chapters/54-1-timothy/1 Timothy 6|1 Timothy 6:6–9]] · [[connections/chapters/45-romans/Romans 12|Romans 12:16]] · [[connections/chapters/40-matthew/Matthew 6|Matthew 6:25–32]] · [[connections/chapters/24-jeremiah/Jeremiah 21|Jeremiah 21:9]] · [[connections/chapters/24-jeremiah/Jeremiah 25|Jeremiah 25:26]]

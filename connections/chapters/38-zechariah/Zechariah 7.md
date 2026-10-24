@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "prophets"]
 
 ![[text/hebrew/38-zechariah#Chapter 7]]
 
+## Plain English translation
+
+![[text/english/38-zechariah#Chapter 7]]
+
 ## Cross-references
 
 - **7:9** → [[connections/chapters/33-micah/Micah 6|Micah 6:8]] · [[connections/chapters/19-psalms/Psalms 82|Psalms 82:2–4]]

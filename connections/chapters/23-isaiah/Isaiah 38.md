@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "prophets"]
 
 ![[text/hebrew/23-isaiah#Chapter 38]]
 
+## Plain English translation
+
+![[text/english/23-isaiah#Chapter 38]]
+
 ## Cross-references
 
 - **38:1** → [[connections/chapters/23-isaiah/Isaiah 38|Isaiah 38:1–8]] · [[connections/chapters/14-2-chronicles/2 Chronicles 32|2 Chronicles 32:24]] · [[connections/chapters/12-2-kings/2 Kings 20|2 Kings 20:1–11]] · [[connections/chapters/10-2-samuel/2 Samuel 17|2 Samuel 17:23]] · [[connections/chapters/32-jonah/Jonah 3|Jonah 3:10]]

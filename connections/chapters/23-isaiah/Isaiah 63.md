@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "prophets"]
 
 ![[text/hebrew/23-isaiah#Chapter 63]]
 
+## Plain English translation
+
+![[text/english/23-isaiah#Chapter 63]]
+
 ## Cross-references
 
 - **63:1** → [[connections/chapters/66-revelation/Revelation 19|Revelation 19:13]] · [[connections/chapters/23-isaiah/Isaiah 34|Isaiah 34:5–6]] · [[connections/chapters/19-psalms/Psalms 137|Psalms 137:7]] · [[connections/chapters/23-isaiah/Isaiah 63|Isaiah 63:2–3]]

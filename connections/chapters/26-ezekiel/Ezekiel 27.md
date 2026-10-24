@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "prophets"]
 
 ![[text/hebrew/26-ezekiel#Chapter 27]]
 
+## Plain English translation
+
+![[text/english/26-ezekiel#Chapter 27]]
+
 ## Cross-references
 
 - **27:13** → [[connections/chapters/01-genesis/Genesis 10|Genesis 10:2]]

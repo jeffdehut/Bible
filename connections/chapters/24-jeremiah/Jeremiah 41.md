@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "prophets"]
 
 ![[text/hebrew/24-jeremiah#Chapter 41]]
 
+## Plain English translation
+
+![[text/english/24-jeremiah#Chapter 41]]
+
 ## Cross-references
 
 *No cross-references with at least 8 votes.*

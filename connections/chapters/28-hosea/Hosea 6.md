@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "prophets"]
 
 ![[text/hebrew/28-hosea#Chapter 6]]
 
+## Plain English translation
+
+![[text/english/28-hosea#Chapter 6]]
+
 ## Cross-references
 
 - **6:1** → [[connections/chapters/18-job/Job 5|Job 5:18]] · [[connections/chapters/05-deuteronomy/Deuteronomy 32|Deuteronomy 32:39]] · [[connections/chapters/09-1-samuel/1 Samuel 2|1 Samuel 2:6]] · [[connections/chapters/25-lamentations/Lamentations 3|Lamentations 3:40–41]] · [[connections/chapters/28-hosea/Hosea 14|Hosea 14:5]] · [[connections/chapters/23-isaiah/Isaiah 2|Isaiah 2:3]] · [[connections/chapters/23-isaiah/Isaiah 55|Isaiah 55:7]] · [[connections/chapters/18-job/Job 34|Job 34:29]] · [[connections/chapters/24-jeremiah/Jeremiah 30|Jeremiah 30:17]]

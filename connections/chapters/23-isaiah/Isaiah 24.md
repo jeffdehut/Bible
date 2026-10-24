@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "prophets"]
 
 ![[text/hebrew/23-isaiah#Chapter 24]]
 
+## Plain English translation
+
+![[text/english/23-isaiah#Chapter 24]]
+
 ## Cross-references
 
 - **24:5** → [[connections/chapters/58-hebrews/Hebrews 13|Hebrews 13:20]]

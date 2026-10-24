@@ -122,7 +122,7 @@
 [^2-15]: The Hebrew text is written "the survivors of the nation" but read "the survivors of my nation".
 [^2-16]: Or "make lean, waste away", perhaps by depriving the gods of the offerings of their worshipers.
 [^2-17]: Hebrew *iyyim*, "coasts, islands", the far-off lands across the sea.
-[^2-18]: The people of Cush, on the upper Nile, whose kings ruled Egypt until 663 BC. Cush may stand for Egypt here.
+[^2-18]: The people of Cush, on the upper Nile, whose kings ruled Egypt until about 663 BC. Cush may stand for Egypt here.
 [^2-19]: Literally "they are the slain of my sword".
 [^2-20]: Literally "all the animals of a nation". The meaning is uncertain.
 [^2-21]: Hebrew *qa'at* and *qippod*, birds of uncertain kind (Isaiah 34:11).

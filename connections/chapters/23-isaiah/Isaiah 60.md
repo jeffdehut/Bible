@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "prophets"]
 
 ![[text/hebrew/23-isaiah#Chapter 60]]
 
+## Plain English translation
+
+![[text/english/23-isaiah#Chapter 60]]
+
 ## Cross-references
 
 - **60:1** → [[connections/chapters/49-ephesians/Ephesians 5|Ephesians 5:14]] · [[connections/chapters/49-ephesians/Ephesians 5|Ephesians 5:8]] · [[connections/chapters/43-john/John 8|John 8:12]] · [[connections/chapters/23-isaiah/Isaiah 52|Isaiah 52:1–2]] · [[connections/chapters/23-isaiah/Isaiah 60|Isaiah 60:19–20]] · [[connections/chapters/23-isaiah/Isaiah 58|Isaiah 58:8]] · [[connections/chapters/43-john/John 12|John 12:46]] · [[connections/chapters/40-matthew/Matthew 5|Matthew 5:16]] · [[connections/chapters/39-malachi/Malachi 3|Malachi 3:20]] · [[connections/chapters/42-luke/Luke 1|Luke 1:78–79]] · [[connections/chapters/60-1-peter/1 Peter 4|1 Peter 4:14]] · [[connections/chapters/43-john/John 1|John 1:9]] · [[connections/chapters/66-revelation/Revelation 22|Revelation 22:5]] · [[connections/chapters/40-matthew/Matthew 4|Matthew 4:16]] · [[connections/chapters/50-philippians/Philippians 2|Philippians 2:15]] · [[connections/chapters/23-isaiah/Isaiah 9|Isaiah 9:1]] · [[connections/chapters/42-luke/Luke 2|Luke 2:32]] · [[connections/chapters/66-revelation/Revelation 21|Revelation 21:23]] · [[connections/chapters/43-john/John 3|John 3:19]]

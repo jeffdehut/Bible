@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "prophets"]
 
 ![[text/hebrew/23-isaiah#Chapter 66]]
 
+## Plain English translation
+
+![[text/english/23-isaiah#Chapter 66]]
+
 ## Cross-references
 
 - **66:1** → [[connections/chapters/44-acts/Acts 7|Acts 7:48–50]] · [[connections/chapters/44-acts/Acts 17|Acts 17:24]] · [[connections/chapters/40-matthew/Matthew 5|Matthew 5:34–35]] · [[connections/chapters/11-1-kings/1 Kings 8|1 Kings 8:27]] · [[connections/chapters/19-psalms/Psalms 132|Psalms 132:7]] · [[connections/chapters/43-john/John 4|John 4:20–21]] · [[connections/chapters/10-2-samuel/2 Samuel 7|2 Samuel 7:5–7]] · [[connections/chapters/14-2-chronicles/2 Chronicles 6|2 Chronicles 6:18]] · [[connections/chapters/24-jeremiah/Jeremiah 7|Jeremiah 7:4–11]] · [[connections/chapters/13-1-chronicles/1 Chronicles 28|1 Chronicles 28:2]] · [[connections/chapters/40-matthew/Matthew 23|Matthew 23:21–22]] · [[connections/chapters/19-psalms/Psalms 11|Psalms 11:4]] · [[connections/chapters/19-psalms/Psalms 99|Psalms 99:9]] · [[connections/chapters/40-matthew/Matthew 24|Matthew 24:2]] · [[connections/chapters/39-malachi/Malachi 1|Malachi 1:11]]

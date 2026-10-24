@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "prophets"]
 
 ![[text/hebrew/28-hosea#Chapter 8]]
 
+## Plain English translation
+
+![[text/english/28-hosea#Chapter 8]]
+
 ## Cross-references
 
 - **8:7** → [[connections/chapters/20-proverbs/Proverbs 22|Proverbs 22:8]] · [[connections/chapters/18-job/Job 4|Job 4:8]] · [[connections/chapters/48-galatians/Galatians 6|Galatians 6:7]]

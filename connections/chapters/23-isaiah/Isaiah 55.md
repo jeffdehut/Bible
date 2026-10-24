@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "prophets"]
 
 ![[text/hebrew/23-isaiah#Chapter 55]]
 
+## Plain English translation
+
+![[text/english/23-isaiah#Chapter 55]]
+
 ## Cross-references
 
 - **55:1** → [[connections/chapters/43-john/John 7|John 7:37–38]] · [[connections/chapters/66-revelation/Revelation 21|Revelation 21:6]] · [[connections/chapters/66-revelation/Revelation 22|Revelation 22:17]] · [[connections/chapters/43-john/John 4|John 4:10–14]] · [[connections/chapters/23-isaiah/Isaiah 44|Isaiah 44:3]] · [[connections/chapters/23-isaiah/Isaiah 41|Isaiah 41:17–18]] · [[connections/chapters/19-psalms/Psalms 143|Psalms 143:6]] · [[connections/chapters/66-revelation/Revelation 22|Revelation 22:1]] · [[connections/chapters/60-1-peter/1 Peter 2|1 Peter 2:2]] · [[connections/chapters/19-psalms/Psalms 63|Psalms 63:2]] · [[connections/chapters/29-joel/Joel 4|Joel 4:18]] · [[connections/chapters/40-matthew/Matthew 13|Matthew 13:44]] · [[connections/chapters/40-matthew/Matthew 10|Matthew 10:8]] · [[connections/chapters/19-psalms/Psalms 42|Psalms 42:2–3]] · [[connections/chapters/45-romans/Romans 3|Romans 3:24]] · [[connections/chapters/23-isaiah/Isaiah 52|Isaiah 52:3]] · [[connections/chapters/20-proverbs/Proverbs 1|Proverbs 1:21–23]] · [[connections/chapters/28-hosea/Hosea 14|Hosea 14:5]] · [[connections/chapters/66-revelation/Revelation 3|Revelation 3:18]] · [[connections/chapters/49-ephesians/Ephesians 2|Ephesians 2:4–8]] · [[connections/chapters/22-song-of-songs/Song of Songs 5|Song of Songs 5:1]] · [[connections/chapters/20-proverbs/Proverbs 8|Proverbs 8:4]] · [[connections/chapters/38-zechariah/Zechariah 9|Zechariah 9:15]] · [[connections/chapters/40-matthew/Matthew 26|Matthew 26:29]] · [[connections/chapters/22-song-of-songs/Song of Songs 1|Song of Songs 1:4]] · [[connections/chapters/46-1-corinthians/1 Corinthians 3|1 Corinthians 3:2]]

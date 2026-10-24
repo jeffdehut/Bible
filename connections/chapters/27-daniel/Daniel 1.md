@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "prophets"]
 
 ![[text/hebrew/27-daniel#Chapter 1]]
 
+## Plain English translation
+
+![[text/english/27-daniel#Chapter 1]]
+
 ## Cross-references
 
 - **1:1** → [[connections/chapters/14-2-chronicles/2 Chronicles 36|2 Chronicles 36:5–7]] · [[connections/chapters/12-2-kings/2 Kings 24|2 Kings 24:1–2]] · [[connections/chapters/12-2-kings/2 Kings 24|2 Kings 24:13]]

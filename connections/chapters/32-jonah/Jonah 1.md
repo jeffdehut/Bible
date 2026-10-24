@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "prophets"]
 
 ![[text/hebrew/32-jonah#Chapter 1]]
 
+## Plain English translation
+
+![[text/english/32-jonah#Chapter 1]]
+
 ## Cross-references
 
 - **1:1** → [[connections/chapters/42-luke/Luke 11|Luke 11:32]] · [[connections/chapters/42-luke/Luke 11|Luke 11:29–30]] · [[connections/chapters/12-2-kings/2 Kings 14|2 Kings 14:25]] · [[connections/chapters/40-matthew/Matthew 16|Matthew 16:4]] · [[connections/chapters/40-matthew/Matthew 12|Matthew 12:39–41]]

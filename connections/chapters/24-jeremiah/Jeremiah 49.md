@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "prophets"]
 
 ![[text/hebrew/24-jeremiah#Chapter 49]]
 
+## Plain English translation
+
+![[text/english/24-jeremiah#Chapter 49]]
+
 ## Cross-references
 
 - **49:11** → [[connections/chapters/19-psalms/Psalms 68|Psalms 68:6]]

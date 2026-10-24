@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "prophets"]
 
 ![[text/hebrew/27-daniel#Chapter 2]]
 
+## Plain English translation
+
+![[text/english/27-daniel#Chapter 2]]
+
 ## Cross-references
 
 - **2:18** → [[connections/chapters/24-jeremiah/Jeremiah 33|Jeremiah 33:3]]

@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "prophets"]
 
 ![[text/hebrew/23-isaiah#Chapter 62]]
 
+## Plain English translation
+
+![[text/english/23-isaiah#Chapter 62]]
+
 ## Cross-references
 
 - **62:1** → [[connections/chapters/23-isaiah/Isaiah 62|Isaiah 62:6–7]] · [[connections/chapters/20-proverbs/Proverbs 4|Proverbs 4:18]] · [[connections/chapters/19-psalms/Psalms 102|Psalms 102:14–17]] · [[connections/chapters/23-isaiah/Isaiah 32|Isaiah 32:15–17]] · [[connections/chapters/42-luke/Luke 2|Luke 2:30–32]] · [[connections/chapters/60-1-peter/1 Peter 2|1 Peter 2:9]]

@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "prophets"]
 
 ![[text/hebrew/23-isaiah#Chapter 64]]
 
+## Plain English translation
+
+![[text/english/23-isaiah#Chapter 64]]
+
 ## Cross-references
 
 - **64:3** → [[connections/chapters/46-1-corinthians/1 Corinthians 2|1 Corinthians 2:9–10]] · [[connections/chapters/19-psalms/Psalms 31|Psalms 31:20]] · [[connections/chapters/59-james/James 5|James 5:7]] · [[connections/chapters/23-isaiah/Isaiah 25|Isaiah 25:9]] · [[connections/chapters/51-colossians/Colossians 1|Colossians 1:26–27]] · [[connections/chapters/19-psalms/Psalms 130|Psalms 130:5]] · [[connections/chapters/01-genesis/Genesis 49|Genesis 49:18]] · [[connections/chapters/49-ephesians/Ephesians 3|Ephesians 3:17–21]] · [[connections/chapters/25-lamentations/Lamentations 3|Lamentations 3:25–26]] · [[connections/chapters/23-isaiah/Isaiah 30|Isaiah 30:18]] · [[connections/chapters/62-1-john/1 John 3|1 John 3:1–2]] · [[connections/chapters/43-john/John 14|John 14:3]]

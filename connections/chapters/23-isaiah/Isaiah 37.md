@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "prophets"]
 
 ![[text/hebrew/23-isaiah#Chapter 37]]
 
+## Plain English translation
+
+![[text/english/23-isaiah#Chapter 37]]
+
 ## Cross-references
 
 - **37:3** → [[connections/chapters/23-isaiah/Isaiah 66|Isaiah 66:9]] · [[connections/chapters/28-hosea/Hosea 13|Hosea 13:13]] · [[connections/chapters/12-2-kings/2 Kings 19|2 Kings 19:3]] · [[connections/chapters/19-psalms/Psalms 50|Psalms 50:15]] · [[connections/chapters/23-isaiah/Isaiah 26|Isaiah 26:17–18]]

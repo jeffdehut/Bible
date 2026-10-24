@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "prophets"]
 
 ![[text/hebrew/33-micah#Chapter 7]]
 
+## Plain English translation
+
+![[text/english/33-micah#Chapter 7]]
+
 ## Cross-references
 
 - **7:2** → [[connections/chapters/19-psalms/Psalms 12|Psalms 12:2]]

@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "prophets"]
 
 ![[text/hebrew/38-zechariah#Chapter 8]]
 
+## Plain English translation
+
+![[text/english/38-zechariah#Chapter 8]]
+
 ## Cross-references
 
 - **8:6** → [[connections/chapters/24-jeremiah/Jeremiah 32|Jeremiah 32:27]]

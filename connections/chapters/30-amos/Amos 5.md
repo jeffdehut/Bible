@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "prophets"]
 
 ![[text/hebrew/30-amos#Chapter 5]]
 
+## Plain English translation
+
+![[text/english/30-amos#Chapter 5]]
+
 ## Cross-references
 
 - **5:4** → [[connections/chapters/36-zephaniah/Zephaniah 2|Zephaniah 2:3]] · [[connections/chapters/24-jeremiah/Jeremiah 29|Jeremiah 29:12–13]] · [[connections/chapters/14-2-chronicles/2 Chronicles 15|2 Chronicles 15:2]] · [[connections/chapters/19-psalms/Psalms 14|Psalms 14:2]] · [[connections/chapters/23-isaiah/Isaiah 55|Isaiah 55:3]] · [[connections/chapters/23-isaiah/Isaiah 55|Isaiah 55:6–7]] · [[connections/chapters/40-matthew/Matthew 7|Matthew 7:8]] · [[connections/chapters/19-psalms/Psalms 105|Psalms 105:3–4]] · [[connections/chapters/13-1-chronicles/1 Chronicles 28|1 Chronicles 28:9]] · [[connections/chapters/25-lamentations/Lamentations 3|Lamentations 3:25–26]]

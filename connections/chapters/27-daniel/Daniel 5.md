@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "prophets"]
 
 ![[text/hebrew/27-daniel#Chapter 5]]
 
+## Plain English translation
+
+![[text/english/27-daniel#Chapter 5]]
+
 ## Cross-references
 
 - **5:2** → [[connections/chapters/27-daniel/Daniel 1|Daniel 1:2]]

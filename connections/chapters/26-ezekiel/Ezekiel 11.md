@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "prophets"]
 
 ![[text/hebrew/26-ezekiel#Chapter 11]]
 
+## Plain English translation
+
+![[text/english/26-ezekiel#Chapter 11]]
+
 ## Cross-references
 
 - **11:16** → [[connections/chapters/23-isaiah/Isaiah 8|Isaiah 8:14]]

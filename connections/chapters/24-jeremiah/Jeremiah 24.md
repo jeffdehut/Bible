@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "prophets"]
 
 ![[text/hebrew/24-jeremiah#Chapter 24]]
 
+## Plain English translation
+
+![[text/english/24-jeremiah#Chapter 24]]
+
 ## Cross-references
 
 - **24:6** → [[connections/chapters/24-jeremiah/Jeremiah 42|Jeremiah 42:10]] · [[connections/chapters/24-jeremiah/Jeremiah 29|Jeremiah 29:10]] · [[connections/chapters/24-jeremiah/Jeremiah 33|Jeremiah 33:7]] · [[connections/chapters/24-jeremiah/Jeremiah 12|Jeremiah 12:15]] · [[connections/chapters/24-jeremiah/Jeremiah 32|Jeremiah 32:41]] · [[connections/chapters/24-jeremiah/Jeremiah 1|Jeremiah 1:10]]

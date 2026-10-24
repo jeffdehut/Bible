@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "prophets"]
 
 ![[text/hebrew/24-jeremiah#Chapter 51]]
 
+## Plain English translation
+
+![[text/english/24-jeremiah#Chapter 51]]
+
 ## Cross-references
 
 - **51:15** → [[connections/chapters/66-revelation/Revelation 4|Revelation 4:11]] · [[connections/chapters/24-jeremiah/Jeremiah 10|Jeremiah 10:12–16]] · [[connections/chapters/24-jeremiah/Jeremiah 32|Jeremiah 32:17]]

@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "prophets"]
 
 ![[text/hebrew/26-ezekiel#Chapter 1]]
 
+## Plain English translation
+
+![[text/english/26-ezekiel#Chapter 1]]
+
 ## Cross-references
 
 - **1:1** → [[connections/chapters/26-ezekiel/Ezekiel 11|Ezekiel 11:24]] · [[connections/chapters/66-revelation/Revelation 19|Revelation 19:11]] · [[connections/chapters/44-acts/Acts 7|Acts 7:56]] · [[connections/chapters/40-matthew/Matthew 3|Matthew 3:16]] · [[connections/chapters/42-luke/Luke 3|Luke 3:21]] · [[connections/chapters/66-revelation/Revelation 4|Revelation 4:1]] · [[connections/chapters/44-acts/Acts 10|Acts 10:11]] · [[connections/chapters/26-ezekiel/Ezekiel 10|Ezekiel 10:20]] · [[connections/chapters/26-ezekiel/Ezekiel 10|Ezekiel 10:15]] · [[connections/chapters/27-daniel/Daniel 8|Daniel 8:1–2]] · [[connections/chapters/43-john/John 1|John 1:51]] · [[connections/chapters/26-ezekiel/Ezekiel 8|Ezekiel 8:3]] · [[connections/chapters/26-ezekiel/Ezekiel 3|Ezekiel 3:23]] · [[connections/chapters/26-ezekiel/Ezekiel 43|Ezekiel 43:3]] · [[connections/chapters/04-numbers/Numbers 12|Numbers 12:6]] · [[connections/chapters/26-ezekiel/Ezekiel 1|Ezekiel 1:3]]

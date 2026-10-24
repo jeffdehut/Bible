@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "prophets"]
 
 ![[text/hebrew/31-obadiah#Chapter 1]]
 
+## Plain English translation
+
+![[text/english/31-obadiah#Chapter 1]]
+
 ## Cross-references
 
 - **1:1** → [[connections/chapters/30-amos/Amos 1|Amos 1:11–12]]

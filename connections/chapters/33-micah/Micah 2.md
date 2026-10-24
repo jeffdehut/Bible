@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "prophets"]
 
 ![[text/hebrew/33-micah#Chapter 2]]
 
+## Plain English translation
+
+![[text/english/33-micah#Chapter 2]]
+
 ## Cross-references
 
 - **2:1** → [[connections/chapters/19-psalms/Psalms 36|Psalms 36:5]] · [[connections/chapters/23-isaiah/Isaiah 32|Isaiah 32:7]] · [[connections/chapters/19-psalms/Psalms 7|Psalms 7:15–17]] · [[connections/chapters/28-hosea/Hosea 7|Hosea 7:6–7]] · [[connections/chapters/34-nahum/Nahum 1|Nahum 1:11]] · [[connections/chapters/20-proverbs/Proverbs 6|Proverbs 6:12–19]] · [[connections/chapters/20-proverbs/Proverbs 4|Proverbs 4:16]] · [[connections/chapters/45-romans/Romans 1|Romans 1:30]]

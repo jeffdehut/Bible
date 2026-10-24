@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "prophets"]
 
 ![[text/hebrew/36-zephaniah#Chapter 1]]
 
+## Plain English translation
+
+![[text/english/36-zephaniah#Chapter 1]]
+
 ## Cross-references
 
 - **1:6** → [[connections/chapters/23-isaiah/Isaiah 1|Isaiah 1:4]] · [[connections/chapters/24-jeremiah/Jeremiah 2|Jeremiah 2:13]] · [[connections/chapters/24-jeremiah/Jeremiah 15|Jeremiah 15:6]] · [[connections/chapters/24-jeremiah/Jeremiah 2|Jeremiah 2:17]]

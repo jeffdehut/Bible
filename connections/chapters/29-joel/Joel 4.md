@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "prophets"]
 
 ![[text/hebrew/29-joel#Chapter 4]]
 
+## Plain English translation
+
+![[text/english/29-joel#Chapter 4]]
+
 ## Cross-references
 
 - **4:1** → [[connections/chapters/36-zephaniah/Zephaniah 3|Zephaniah 3:19–20]] · [[connections/chapters/24-jeremiah/Jeremiah 30|Jeremiah 30:3]] · [[connections/chapters/26-ezekiel/Ezekiel 39|Ezekiel 39:25]] · [[connections/chapters/30-amos/Amos 9|Amos 9:14]] · [[connections/chapters/24-jeremiah/Jeremiah 29|Jeremiah 29:14]] · [[connections/chapters/19-psalms/Psalms 85|Psalms 85:2]] · [[connections/chapters/05-deuteronomy/Deuteronomy 30|Deuteronomy 30:3]] · [[connections/chapters/24-jeremiah/Jeremiah 23|Jeremiah 23:3–8]] · [[connections/chapters/24-jeremiah/Jeremiah 30|Jeremiah 30:18]] · [[connections/chapters/24-jeremiah/Jeremiah 16|Jeremiah 16:15]] · [[connections/chapters/26-ezekiel/Ezekiel 38|Ezekiel 38:14–18]] · [[connections/chapters/19-psalms/Psalms 14|Psalms 14:7]] · [[connections/chapters/26-ezekiel/Ezekiel 16|Ezekiel 16:53]] · [[connections/chapters/14-2-chronicles/2 Chronicles 6|2 Chronicles 6:37–38]] · [[connections/chapters/29-joel/Joel 3|Joel 3:2]] · [[connections/chapters/27-daniel/Daniel 12|Daniel 12:1]] · [[connections/chapters/26-ezekiel/Ezekiel 39|Ezekiel 39:28–29]]

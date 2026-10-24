@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "prophets"]
 
 ![[text/hebrew/23-isaiah#Chapter 26]]
 
+## Plain English translation
+
+![[text/english/23-isaiah#Chapter 26]]
+
 ## Cross-references
 
 - **26:2** → [[connections/chapters/66-revelation/Revelation 5|Revelation 5:9]] · [[connections/chapters/19-psalms/Psalms 118|Psalms 118:20]] · [[connections/chapters/60-1-peter/1 Peter 2|1 Peter 2:9]] · [[connections/chapters/23-isaiah/Isaiah 60|Isaiah 60:11]]

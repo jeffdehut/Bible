@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "prophets"]
 
 ![[text/hebrew/29-joel#Chapter 2]]
 
+## Plain English translation
+
+![[text/english/29-joel#Chapter 2]]
+
 ## Cross-references
 
 - **2:1** → [[connections/chapters/29-joel/Joel 2|Joel 2:15]] · [[connections/chapters/29-joel/Joel 1|Joel 1:15]] · [[connections/chapters/60-1-peter/1 Peter 4|1 Peter 4:7]] · [[connections/chapters/39-malachi/Malachi 3|Malachi 3:19]] · [[connections/chapters/36-zephaniah/Zephaniah 1|Zephaniah 1:14]] · [[connections/chapters/29-joel/Joel 4|Joel 4:17]] · [[connections/chapters/52-1-thessalonians/1 Thessalonians 5|1 Thessalonians 5:2]] · [[connections/chapters/24-jeremiah/Jeremiah 5|Jeremiah 5:22]] · [[connections/chapters/36-zephaniah/Zephaniah 3|Zephaniah 3:11]] · [[connections/chapters/28-hosea/Hosea 8|Hosea 8:1]] · [[connections/chapters/28-hosea/Hosea 5|Hosea 5:8]] · [[connections/chapters/23-isaiah/Isaiah 66|Isaiah 66:2]] · [[connections/chapters/26-ezekiel/Ezekiel 7|Ezekiel 7:12]] · [[connections/chapters/31-obadiah/Obadiah 1|Obadiah 1:15]] · [[connections/chapters/24-jeremiah/Jeremiah 4|Jeremiah 4:5]] · [[connections/chapters/36-zephaniah/Zephaniah 1|Zephaniah 1:16]] · [[connections/chapters/30-amos/Amos 3|Amos 3:6]] · [[connections/chapters/26-ezekiel/Ezekiel 33|Ezekiel 33:3]]

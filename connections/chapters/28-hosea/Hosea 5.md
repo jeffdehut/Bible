@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "prophets"]
 
 ![[text/hebrew/28-hosea#Chapter 5]]
 
+## Plain English translation
+
+![[text/english/28-hosea#Chapter 5]]
+
 ## Cross-references
 
 - **5:1** → [[connections/chapters/28-hosea/Hosea 9|Hosea 9:8]]

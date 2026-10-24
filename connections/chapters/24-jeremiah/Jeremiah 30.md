@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "prophets"]
 
 ![[text/hebrew/24-jeremiah#Chapter 30]]
 
+## Plain English translation
+
+![[text/english/24-jeremiah#Chapter 30]]
+
 ## Cross-references
 
 - **30:3** → [[connections/chapters/24-jeremiah/Jeremiah 29|Jeremiah 29:14]] · [[connections/chapters/24-jeremiah/Jeremiah 16|Jeremiah 16:15]]

@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "prophets"]
 
 ![[text/hebrew/26-ezekiel#Chapter 35]]
 
+## Plain English translation
+
+![[text/english/26-ezekiel#Chapter 35]]
+
 ## Cross-references
 
 - **35:5** → [[connections/chapters/19-psalms/Psalms 137|Psalms 137:7]]

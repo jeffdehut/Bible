@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "prophets"]
 
 ![[text/hebrew/26-ezekiel#Chapter 36]]
 
+## Plain English translation
+
+![[text/english/26-ezekiel#Chapter 36]]
+
 ## Cross-references
 
 - **36:11** → [[connections/chapters/24-jeremiah/Jeremiah 33|Jeremiah 33:12]] · [[connections/chapters/24-jeremiah/Jeremiah 23|Jeremiah 23:5–8]] · [[connections/chapters/33-micah/Micah 7|Micah 7:14]] · [[connections/chapters/24-jeremiah/Jeremiah 31|Jeremiah 31:27]] · [[connections/chapters/26-ezekiel/Ezekiel 37|Ezekiel 37:13]] · [[connections/chapters/28-hosea/Hosea 2|Hosea 2:22]] · [[connections/chapters/24-jeremiah/Jeremiah 30|Jeremiah 30:18]] · [[connections/chapters/18-job/Job 42|Job 42:12]] · [[connections/chapters/26-ezekiel/Ezekiel 16|Ezekiel 16:55]] · [[connections/chapters/30-amos/Amos 9|Amos 9:15]]

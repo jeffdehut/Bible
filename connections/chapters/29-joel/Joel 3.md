@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "prophets"]
 
 ![[text/hebrew/29-joel#Chapter 3]]
 
+## Plain English translation
+
+![[text/english/29-joel#Chapter 3]]
+
 ## Cross-references
 
 - **3:1** → [[connections/chapters/44-acts/Acts 2|Acts 2:16–21]] · [[connections/chapters/26-ezekiel/Ezekiel 39|Ezekiel 39:29]] · [[connections/chapters/23-isaiah/Isaiah 32|Isaiah 32:15]] · [[connections/chapters/44-acts/Acts 2|Acts 2:39]] · [[connections/chapters/44-acts/Acts 2|Acts 2:2–4]] · [[connections/chapters/23-isaiah/Isaiah 44|Isaiah 44:3]] · [[connections/chapters/38-zechariah/Zechariah 12|Zechariah 12:10]] · [[connections/chapters/44-acts/Acts 11|Acts 11:15–18]] · [[connections/chapters/20-proverbs/Proverbs 1|Proverbs 1:23]] · [[connections/chapters/43-john/John 7|John 7:39]] · [[connections/chapters/44-acts/Acts 15|Acts 15:7–8]] · [[connections/chapters/44-acts/Acts 10|Acts 10:44–47]] · [[connections/chapters/44-acts/Acts 2|Acts 2:33]] · [[connections/chapters/42-luke/Luke 3|Luke 3:6]] · [[connections/chapters/48-galatians/Galatians 3|Galatians 3:28]] · [[connections/chapters/04-numbers/Numbers 12|Numbers 12:6]] · [[connections/chapters/23-isaiah/Isaiah 40|Isaiah 40:5]] · [[connections/chapters/23-isaiah/Isaiah 49|Isaiah 49:6]] · [[connections/chapters/23-isaiah/Isaiah 54|Isaiah 54:13]] · [[connections/chapters/01-genesis/Genesis 37|Genesis 37:5–10]] · [[connections/chapters/24-jeremiah/Jeremiah 23|Jeremiah 23:28]] · [[connections/chapters/44-acts/Acts 21|Acts 21:9]]

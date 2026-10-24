@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "prophets"]
 
 ![[text/hebrew/24-jeremiah#Chapter 22]]
 
+## Plain English translation
+
+![[text/english/24-jeremiah#Chapter 22]]
+
 ## Cross-references
 
 - **22:3** → [[connections/chapters/24-jeremiah/Jeremiah 21|Jeremiah 21:12]]

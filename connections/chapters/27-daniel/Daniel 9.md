@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "prophets"]
 
 ![[text/hebrew/27-daniel#Chapter 9]]
 
+## Plain English translation
+
+![[text/english/27-daniel#Chapter 9]]
+
 ## Cross-references
 
 - **9:2** → [[connections/chapters/24-jeremiah/Jeremiah 29|Jeremiah 29:10]] · [[connections/chapters/24-jeremiah/Jeremiah 25|Jeremiah 25:11–12]] · [[connections/chapters/14-2-chronicles/2 Chronicles 36|2 Chronicles 36:21]] · [[connections/chapters/38-zechariah/Zechariah 7|Zechariah 7:5]] · [[connections/chapters/66-revelation/Revelation 1|Revelation 1:3]]

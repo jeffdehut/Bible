@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "prophets"]
 
 ![[text/hebrew/23-isaiah#Chapter 41]]
 
+## Plain English translation
+
+![[text/english/23-isaiah#Chapter 41]]
+
 ## Cross-references
 
 - **41:1** → [[connections/chapters/23-isaiah/Isaiah 1|Isaiah 1:18]] · [[connections/chapters/35-habakkuk/Habakkuk 2|Habakkuk 2:20]] · [[connections/chapters/38-zechariah/Zechariah 2|Zechariah 2:17]]

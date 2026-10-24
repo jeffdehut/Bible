@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "prophets"]
 
 ![[text/hebrew/24-jeremiah#Chapter 29]]
 
+## Plain English translation
+
+![[text/english/24-jeremiah#Chapter 29]]
+
 ## Cross-references
 
 - **29:7** → [[connections/chapters/54-1-timothy/1 Timothy 2|1 Timothy 2:1–2]] · [[connections/chapters/15-ezra/Ezra 6|Ezra 6:10]] · [[connections/chapters/15-ezra/Ezra 7|Ezra 7:23]] · [[connections/chapters/60-1-peter/1 Peter 2|1 Peter 2:13–17]]

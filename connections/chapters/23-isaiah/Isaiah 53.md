@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "prophets"]
 
 ![[text/hebrew/23-isaiah#Chapter 53]]
 
+## Plain English translation
+
+![[text/english/23-isaiah#Chapter 53]]
+
 ## Cross-references
 
 - **53:1** → [[connections/chapters/43-john/John 12|John 12:38]] · [[connections/chapters/45-romans/Romans 10|Romans 10:16–17]] · [[connections/chapters/46-1-corinthians/1 Corinthians 1|1 Corinthians 1:18]] · [[connections/chapters/43-john/John 1|John 1:12]] · [[connections/chapters/40-matthew/Matthew 16|Matthew 16:17]] · [[connections/chapters/40-matthew/Matthew 11|Matthew 11:25]] · [[connections/chapters/46-1-corinthians/1 Corinthians 1|1 Corinthians 1:24]] · [[connections/chapters/23-isaiah/Isaiah 52|Isaiah 52:10]] · [[connections/chapters/43-john/John 1|John 1:7]] · [[connections/chapters/23-isaiah/Isaiah 40|Isaiah 40:5]] · [[connections/chapters/45-romans/Romans 1|Romans 1:16–18]] · [[connections/chapters/23-isaiah/Isaiah 51|Isaiah 51:9]] · [[connections/chapters/23-isaiah/Isaiah 62|Isaiah 62:8]] · [[connections/chapters/49-ephesians/Ephesians 1|Ephesians 1:18–19]]

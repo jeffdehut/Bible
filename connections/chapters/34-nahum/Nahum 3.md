@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "prophets"]
 
 ![[text/hebrew/34-nahum#Chapter 3]]
 
+## Plain English translation
+
+![[text/english/34-nahum#Chapter 3]]
+
 ## Cross-references
 
 - **3:5** → [[connections/chapters/24-jeremiah/Jeremiah 13|Jeremiah 13:26]]

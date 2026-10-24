@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "prophets"]
 
 ![[text/hebrew/26-ezekiel#Chapter 14]]
 
+## Plain English translation
+
+![[text/english/26-ezekiel#Chapter 14]]
+
 ## Cross-references
 
 - **14:3** → [[connections/chapters/26-ezekiel/Ezekiel 14|Ezekiel 14:7]]

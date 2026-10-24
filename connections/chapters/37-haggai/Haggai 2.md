@@ -18,6 +18,10 @@ tags: ["chapter", "ot", "prophets"]
 
 ![[text/hebrew/37-haggai#Chapter 2]]
 
+## Plain English translation
+
+![[text/english/37-haggai#Chapter 2]]
+
 ## Cross-references
 
 - **2:4** → [[connections/chapters/13-1-chronicles/1 Chronicles 28|1 Chronicles 28:20]] · [[connections/chapters/06-joshua/Joshua 1|Joshua 1:9]] · [[connections/chapters/38-zechariah/Zechariah 8|Zechariah 8:9]] · [[connections/chapters/05-deuteronomy/Deuteronomy 31|Deuteronomy 31:23]]

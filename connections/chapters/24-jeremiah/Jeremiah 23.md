@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "prophets"]
 
 ![[text/hebrew/24-jeremiah#Chapter 23]]
 
+## Plain English translation
+
+![[text/english/24-jeremiah#Chapter 23]]
+
 ## Cross-references
 
 - **23:1** → [[connections/chapters/24-jeremiah/Jeremiah 10|Jeremiah 10:21]] · [[connections/chapters/38-zechariah/Zechariah 11|Zechariah 11:15–17]] · [[connections/chapters/26-ezekiel/Ezekiel 34|Ezekiel 34:2–10]] · [[connections/chapters/26-ezekiel/Ezekiel 13|Ezekiel 13:3]] · [[connections/chapters/40-matthew/Matthew 9|Matthew 9:36]] · [[connections/chapters/24-jeremiah/Jeremiah 12|Jeremiah 12:10]] · [[connections/chapters/24-jeremiah/Jeremiah 22|Jeremiah 22:22]] · [[connections/chapters/23-isaiah/Isaiah 56|Isaiah 56:9–12]] · [[connections/chapters/42-luke/Luke 11|Luke 11:42–52]] · [[connections/chapters/24-jeremiah/Jeremiah 2|Jeremiah 2:8]] · [[connections/chapters/24-jeremiah/Jeremiah 50|Jeremiah 50:6]] · [[connections/chapters/40-matthew/Matthew 23|Matthew 23:13–29]] · [[connections/chapters/43-john/John 10|John 10:12]] · [[connections/chapters/36-zephaniah/Zephaniah 3|Zephaniah 3:3–4]] · [[connections/chapters/43-john/John 10|John 10:10]] · [[connections/chapters/24-jeremiah/Jeremiah 23|Jeremiah 23:2]] · [[connections/chapters/40-matthew/Matthew 15|Matthew 15:14]] · [[connections/chapters/33-micah/Micah 3|Micah 3:11–12]] · [[connections/chapters/38-zechariah/Zechariah 11|Zechariah 11:5–7]] · [[connections/chapters/26-ezekiel/Ezekiel 22|Ezekiel 22:25–29]] · [[connections/chapters/26-ezekiel/Ezekiel 34|Ezekiel 34:31]] · [[connections/chapters/24-jeremiah/Jeremiah 23|Jeremiah 23:11–15]]

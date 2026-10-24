@@ -18,6 +18,10 @@ tags: ["chapter", "ot", "prophets"]
 
 ![[text/hebrew/24-jeremiah#Chapter 47]]
 
+## Plain English translation
+
+![[text/english/24-jeremiah#Chapter 47]]
+
 ## Cross-references
 
 *No cross-references with at least 8 votes.*

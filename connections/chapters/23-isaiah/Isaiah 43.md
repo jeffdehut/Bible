@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "prophets"]
 
 ![[text/hebrew/23-isaiah#Chapter 43]]
 
+## Plain English translation
+
+![[text/english/23-isaiah#Chapter 43]]
+
 ## Cross-references
 
 - **43:1** → [[connections/chapters/19-psalms/Psalms 100|Psalms 100:3]] · [[connections/chapters/23-isaiah/Isaiah 43|Isaiah 43:7]] · [[connections/chapters/38-zechariah/Zechariah 13|Zechariah 13:9]] · [[connections/chapters/23-isaiah/Isaiah 54|Isaiah 54:4–5]] · [[connections/chapters/56-titus/Titus 2|Titus 2:14]] · [[connections/chapters/66-revelation/Revelation 5|Revelation 5:9]] · [[connections/chapters/23-isaiah/Isaiah 45|Isaiah 45:3–4]] · [[connections/chapters/49-ephesians/Ephesians 2|Ephesians 2:10]] · [[connections/chapters/23-isaiah/Isaiah 42|Isaiah 42:6]] · [[connections/chapters/23-isaiah/Isaiah 43|Isaiah 43:21]] · [[connections/chapters/23-isaiah/Isaiah 44|Isaiah 44:2]] · [[connections/chapters/55-2-timothy/2 Timothy 2|2 Timothy 2:19]] · [[connections/chapters/58-hebrews/Hebrews 8|Hebrews 8:8–10]] · [[connections/chapters/23-isaiah/Isaiah 41|Isaiah 41:14]] · [[connections/chapters/23-isaiah/Isaiah 44|Isaiah 44:21–24]] · [[connections/chapters/24-jeremiah/Jeremiah 31|Jeremiah 31:3]] · [[connections/chapters/02-exodus/Exodus 33|Exodus 33:17]] · [[connections/chapters/24-jeremiah/Jeremiah 50|Jeremiah 50:34]] · [[connections/chapters/26-ezekiel/Ezekiel 16|Ezekiel 16:8]] · [[connections/chapters/39-malachi/Malachi 3|Malachi 3:17]] · [[connections/chapters/44-acts/Acts 27|Acts 27:25]] · [[connections/chapters/01-genesis/Genesis 32|Genesis 32:29]] · [[connections/chapters/19-psalms/Psalms 102|Psalms 102:19]] · [[connections/chapters/05-deuteronomy/Deuteronomy 32|Deuteronomy 32:9]] · [[connections/chapters/23-isaiah/Isaiah 35|Isaiah 35:9–10]] · [[connections/chapters/23-isaiah/Isaiah 44|Isaiah 44:5–6]] · [[connections/chapters/23-isaiah/Isaiah 49|Isaiah 49:1]] · [[connections/chapters/24-jeremiah/Jeremiah 33|Jeremiah 33:24]] · [[connections/chapters/02-exodus/Exodus 19|Exodus 19:5–6]] · [[connections/chapters/02-exodus/Exodus 15|Exodus 15:13]]

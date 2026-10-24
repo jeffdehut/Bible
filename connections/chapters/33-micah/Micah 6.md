@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "prophets"]
 
 ![[text/hebrew/33-micah#Chapter 6]]
 
+## Plain English translation
+
+![[text/english/33-micah#Chapter 6]]
+
 ## Cross-references
 
 - **6:1** → [[connections/chapters/24-jeremiah/Jeremiah 22|Jeremiah 22:29]] · [[connections/chapters/05-deuteronomy/Deuteronomy 32|Deuteronomy 32:1]] · [[connections/chapters/33-micah/Micah 1|Micah 1:2]] · [[connections/chapters/26-ezekiel/Ezekiel 36|Ezekiel 36:1]] · [[connections/chapters/19-psalms/Psalms 50|Psalms 50:4]] · [[connections/chapters/05-deuteronomy/Deuteronomy 4|Deuteronomy 4:26]] · [[connections/chapters/23-isaiah/Isaiah 1|Isaiah 1:2]] · [[connections/chapters/26-ezekiel/Ezekiel 36|Ezekiel 36:8]] · [[connections/chapters/19-psalms/Psalms 50|Psalms 50:1]] · [[connections/chapters/42-luke/Luke 19|Luke 19:40]] · [[connections/chapters/33-micah/Micah 1|Micah 1:4]] · [[connections/chapters/26-ezekiel/Ezekiel 37|Ezekiel 37:4]] · [[connections/chapters/24-jeremiah/Jeremiah 13|Jeremiah 13:15]] · [[connections/chapters/23-isaiah/Isaiah 2|Isaiah 2:12–14]] · [[connections/chapters/30-amos/Amos 3|Amos 3:1]] · [[connections/chapters/09-1-samuel/1 Samuel 15|1 Samuel 15:16]] · [[connections/chapters/58-hebrews/Hebrews 3|Hebrews 3:7–8]]

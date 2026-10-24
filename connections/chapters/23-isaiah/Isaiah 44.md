@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "prophets"]
 
 ![[text/hebrew/23-isaiah#Chapter 44]]
 
+## Plain English translation
+
+![[text/english/23-isaiah#Chapter 44]]
+
 ## Cross-references
 
 - **44:2** → [[connections/chapters/24-jeremiah/Jeremiah 1|Jeremiah 1:5]] · [[connections/chapters/23-isaiah/Isaiah 43|Isaiah 43:1]] · [[connections/chapters/23-isaiah/Isaiah 46|Isaiah 46:3–4]] · [[connections/chapters/23-isaiah/Isaiah 44|Isaiah 44:24]] · [[connections/chapters/23-isaiah/Isaiah 43|Isaiah 43:7]] · [[connections/chapters/23-isaiah/Isaiah 49|Isaiah 49:1]] · [[connections/chapters/49-ephesians/Ephesians 1|Ephesians 1:4]] · [[connections/chapters/23-isaiah/Isaiah 41|Isaiah 41:10]] · [[connections/chapters/26-ezekiel/Ezekiel 16|Ezekiel 16:4–8]] · [[connections/chapters/45-romans/Romans 8|Romans 8:30]] · [[connections/chapters/19-psalms/Psalms 71|Psalms 71:6]] · [[connections/chapters/23-isaiah/Isaiah 43|Isaiah 43:21]] · [[connections/chapters/52-1-thessalonians/1 Thessalonians 1|1 Thessalonians 1:4]] · [[connections/chapters/42-luke/Luke 12|Luke 12:32]] · [[connections/chapters/23-isaiah/Isaiah 44|Isaiah 44:21]] · [[connections/chapters/58-hebrews/Hebrews 4|Hebrews 4:16]] · [[connections/chapters/19-psalms/Psalms 46|Psalms 46:6]] · [[connections/chapters/26-ezekiel/Ezekiel 20|Ezekiel 20:5–12]] · [[connections/chapters/23-isaiah/Isaiah 43|Isaiah 43:5]] · [[connections/chapters/23-isaiah/Isaiah 41|Isaiah 41:14]] · [[connections/chapters/05-deuteronomy/Deuteronomy 33|Deuteronomy 33:5]] · [[connections/chapters/05-deuteronomy/Deuteronomy 32|Deuteronomy 32:15]]

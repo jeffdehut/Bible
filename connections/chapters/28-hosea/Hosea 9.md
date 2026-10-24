@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "prophets"]
 
 ![[text/hebrew/28-hosea#Chapter 9]]
 
+## Plain English translation
+
+![[text/english/28-hosea#Chapter 9]]
+
 ## Cross-references
 
 - **9:3** → [[connections/chapters/26-ezekiel/Ezekiel 4|Ezekiel 4:13]] · [[connections/chapters/28-hosea/Hosea 8|Hosea 8:13]]

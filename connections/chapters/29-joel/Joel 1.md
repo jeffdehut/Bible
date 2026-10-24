@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "prophets"]
 
 ![[text/hebrew/29-joel#Chapter 1]]
 
+## Plain English translation
+
+![[text/english/29-joel#Chapter 1]]
+
 ## Cross-references
 
 - **1:3** → [[connections/chapters/05-deuteronomy/Deuteronomy 6|Deuteronomy 6:7]] · [[connections/chapters/19-psalms/Psalms 71|Psalms 71:18]] · [[connections/chapters/19-psalms/Psalms 145|Psalms 145:4]]

@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "prophets"]
 
 ![[text/hebrew/36-zephaniah#Chapter 3]]
 
+## Plain English translation
+
+![[text/english/36-zephaniah#Chapter 3]]
+
 ## Cross-references
 
 - **3:1** → [[connections/chapters/24-jeremiah/Jeremiah 6|Jeremiah 6:6]]

@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "prophets"]
 
 ![[text/hebrew/24-jeremiah#Chapter 50]]
 
+## Plain English translation
+
+![[text/english/24-jeremiah#Chapter 50]]
+
 ## Cross-references
 
 - **50:2** → [[connections/chapters/23-isaiah/Isaiah 46|Isaiah 46:1]]

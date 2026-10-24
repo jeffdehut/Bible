@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "prophets"]
 
 ![[text/hebrew/24-jeremiah#Chapter 15]]
 
+## Plain English translation
+
+![[text/english/24-jeremiah#Chapter 15]]
+
 ## Cross-references
 
 - **15:1** → [[connections/chapters/26-ezekiel/Ezekiel 14|Ezekiel 14:14]] · [[connections/chapters/26-ezekiel/Ezekiel 14|Ezekiel 14:20–21]] · [[connections/chapters/24-jeremiah/Jeremiah 14|Jeremiah 14:11]] · [[connections/chapters/24-jeremiah/Jeremiah 11|Jeremiah 11:14]] · [[connections/chapters/19-psalms/Psalms 106|Psalms 106:23]] · [[connections/chapters/24-jeremiah/Jeremiah 7|Jeremiah 7:15–16]] · [[connections/chapters/02-exodus/Exodus 32|Exodus 32:11–14]] · [[connections/chapters/19-psalms/Psalms 99|Psalms 99:6]] · [[connections/chapters/09-1-samuel/1 Samuel 12|1 Samuel 12:23]] · [[connections/chapters/12-2-kings/2 Kings 17|2 Kings 17:20]] · [[connections/chapters/24-jeremiah/Jeremiah 52|Jeremiah 52:3]] · [[connections/chapters/09-1-samuel/1 Samuel 7|1 Samuel 7:9]] · [[connections/chapters/24-jeremiah/Jeremiah 23|Jeremiah 23:39]] · [[connections/chapters/04-numbers/Numbers 14|Numbers 14:13–20]] · [[connections/chapters/24-jeremiah/Jeremiah 15|Jeremiah 15:19]] · [[connections/chapters/24-jeremiah/Jeremiah 18|Jeremiah 18:20]] · [[connections/chapters/20-proverbs/Proverbs 14|Proverbs 14:35]] · [[connections/chapters/58-hebrews/Hebrews 9|Hebrews 9:24]] · [[connections/chapters/38-zechariah/Zechariah 3|Zechariah 3:3]] · [[connections/chapters/24-jeremiah/Jeremiah 35|Jeremiah 35:19]] · [[connections/chapters/01-genesis/Genesis 19|Genesis 19:27]] · [[connections/chapters/07-judges/Judges 5|Judges 5:9]]

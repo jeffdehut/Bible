@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "prophets"]
 
 ![[text/hebrew/26-ezekiel#Chapter 21]]
 
+## Plain English translation
+
+![[text/english/26-ezekiel#Chapter 21]]
+
 ## Cross-references
 
 - **21:7** → [[connections/chapters/26-ezekiel/Ezekiel 21|Ezekiel 21:2]]

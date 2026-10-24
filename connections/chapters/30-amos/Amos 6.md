@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "prophets"]
 
 ![[text/hebrew/30-amos#Chapter 6]]
 
+## Plain English translation
+
+![[text/english/30-amos#Chapter 6]]
+
 ## Cross-references
 
 - **6:1** → [[connections/chapters/23-isaiah/Isaiah 32|Isaiah 32:9–11]] · [[connections/chapters/59-james/James 5|James 5:5]] · [[connections/chapters/42-luke/Luke 12|Luke 12:17–20]]

@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "prophets"]
 
 ![[text/hebrew/38-zechariah#Chapter 1]]
 
+## Plain English translation
+
+![[text/english/38-zechariah#Chapter 1]]
+
 ## Cross-references
 
 - **1:3** → [[connections/chapters/24-jeremiah/Jeremiah 3|Jeremiah 3:22]] · [[connections/chapters/39-malachi/Malachi 3|Malachi 3:7]] · [[connections/chapters/29-joel/Joel 2|Joel 2:12]] · [[connections/chapters/05-deuteronomy/Deuteronomy 30|Deuteronomy 30:2–10]] · [[connections/chapters/24-jeremiah/Jeremiah 4|Jeremiah 4:1]]

@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "prophets"]
 
 ![[text/hebrew/23-isaiah#Chapter 47]]
 
+## Plain English translation
+
+![[text/english/23-isaiah#Chapter 47]]
+
 ## Cross-references
 
 - **47:6** → [[connections/chapters/14-2-chronicles/2 Chronicles 28|2 Chronicles 28:9]] · [[connections/chapters/38-zechariah/Zechariah 1|Zechariah 1:15]] · [[connections/chapters/05-deuteronomy/Deuteronomy 28|Deuteronomy 28:50]]

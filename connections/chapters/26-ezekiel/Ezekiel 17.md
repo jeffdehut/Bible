@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "prophets"]
 
 ![[text/hebrew/26-ezekiel#Chapter 17]]
 
+## Plain English translation
+
+![[text/english/26-ezekiel#Chapter 17]]
+
 ## Cross-references
 
 - **17:23** → [[connections/chapters/40-matthew/Matthew 13|Matthew 13:32]]

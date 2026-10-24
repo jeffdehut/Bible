@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "prophets"]
 
 ![[text/hebrew/28-hosea#Chapter 14]]
 
+## Plain English translation
+
+![[text/english/28-hosea#Chapter 14]]
+
 ## Cross-references
 
 - **14:2** → [[connections/chapters/28-hosea/Hosea 6|Hosea 6:1]] · [[connections/chapters/29-joel/Joel 2|Joel 2:12–13]] · [[connections/chapters/28-hosea/Hosea 12|Hosea 12:7]] · [[connections/chapters/14-2-chronicles/2 Chronicles 30|2 Chronicles 30:6–9]] · [[connections/chapters/38-zechariah/Zechariah 1|Zechariah 1:3–4]]

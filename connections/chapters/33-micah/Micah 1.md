@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "prophets"]
 
 ![[text/hebrew/33-micah#Chapter 1]]
 
+## Plain English translation
+
+![[text/english/33-micah#Chapter 1]]
+
 ## Cross-references
 
 - **1:1** → [[connections/chapters/24-jeremiah/Jeremiah 26|Jeremiah 26:18]]

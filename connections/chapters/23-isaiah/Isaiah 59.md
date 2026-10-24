@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "prophets"]
 
 ![[text/hebrew/23-isaiah#Chapter 59]]
 
+## Plain English translation
+
+![[text/english/23-isaiah#Chapter 59]]
+
 ## Cross-references
 
 - **59:1** → [[connections/chapters/24-jeremiah/Jeremiah 32|Jeremiah 32:17]] · [[connections/chapters/23-isaiah/Isaiah 50|Isaiah 50:2]] · [[connections/chapters/04-numbers/Numbers 11|Numbers 11:23]] · [[connections/chapters/23-isaiah/Isaiah 65|Isaiah 65:24]] · [[connections/chapters/01-genesis/Genesis 18|Genesis 18:14]] · [[connections/chapters/58-hebrews/Hebrews 7|Hebrews 7:25]] · [[connections/chapters/23-isaiah/Isaiah 58|Isaiah 58:9]] · [[connections/chapters/40-matthew/Matthew 13|Matthew 13:15]] · [[connections/chapters/23-isaiah/Isaiah 6|Isaiah 6:10]] · [[connections/chapters/23-isaiah/Isaiah 63|Isaiah 63:1]]

@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "prophets"]
 
 ![[text/hebrew/23-isaiah#Chapter 28]]
 
+## Plain English translation
+
+![[text/english/23-isaiah#Chapter 28]]
+
 ## Cross-references
 
 - **28:5** → [[connections/chapters/60-1-peter/1 Peter 5|1 Peter 5:4]]

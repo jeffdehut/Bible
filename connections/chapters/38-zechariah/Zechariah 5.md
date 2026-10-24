@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "prophets"]
 
 ![[text/hebrew/38-zechariah#Chapter 5]]
 
+## Plain English translation
+
+![[text/english/38-zechariah#Chapter 5]]
+
 ## Cross-references
 
 *No cross-references with at least 8 votes.*

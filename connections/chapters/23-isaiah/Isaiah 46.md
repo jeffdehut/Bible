@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "prophets"]
 
 ![[text/hebrew/23-isaiah#Chapter 46]]
 
+## Plain English translation
+
+![[text/english/23-isaiah#Chapter 46]]
+
 ## Cross-references
 
 - **46:3** → [[connections/chapters/05-deuteronomy/Deuteronomy 1|Deuteronomy 1:31]] · [[connections/chapters/23-isaiah/Isaiah 51|Isaiah 51:7]]

@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "prophets"]
 
 ![[text/hebrew/38-zechariah#Chapter 14]]
 
+## Plain English translation
+
+![[text/english/38-zechariah#Chapter 14]]
+
 ## Cross-references
 
 - **14:2** → [[connections/chapters/42-luke/Luke 21|Luke 21:20–24]] · [[connections/chapters/45-romans/Romans 9|Romans 9:27–29]] · [[connections/chapters/23-isaiah/Isaiah 13|Isaiah 13:16]]

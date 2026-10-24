@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "prophets"]
 
 ![[text/hebrew/27-daniel#Chapter 7]]
 
+## Plain English translation
+
+![[text/english/27-daniel#Chapter 7]]
+
 ## Cross-references
 
 - **7:7** → [[connections/chapters/66-revelation/Revelation 13|Revelation 13:1]] · [[connections/chapters/66-revelation/Revelation 12|Revelation 12:3]] · [[connections/chapters/66-revelation/Revelation 17|Revelation 17:12]]

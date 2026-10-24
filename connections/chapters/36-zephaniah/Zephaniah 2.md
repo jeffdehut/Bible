@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "prophets"]
 
 ![[text/hebrew/36-zephaniah#Chapter 2]]
 
+## Plain English translation
+
+![[text/english/36-zephaniah#Chapter 2]]
+
 ## Cross-references
 
 - **2:2** → [[connections/chapters/34-nahum/Nahum 1|Nahum 1:6]]

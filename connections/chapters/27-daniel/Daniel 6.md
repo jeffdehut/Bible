@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "prophets"]
 
 ![[text/hebrew/27-daniel#Chapter 6]]
 
+## Plain English translation
+
+![[text/english/27-daniel#Chapter 6]]
+
 ## Cross-references
 
 - **6:4** → [[connections/chapters/27-daniel/Daniel 5|Daniel 5:14]] · [[connections/chapters/01-genesis/Genesis 41|Genesis 41:38–41]] · [[connections/chapters/20-proverbs/Proverbs 22|Proverbs 22:29]] · [[connections/chapters/27-daniel/Daniel 5|Daniel 5:12]] · [[connections/chapters/17-esther/Esther 10|Esther 10:3]] · [[connections/chapters/27-daniel/Daniel 9|Daniel 9:23]]

@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "prophets"]
 
 ![[text/hebrew/28-hosea#Chapter 1]]
 
+## Plain English translation
+
+![[text/english/28-hosea#Chapter 1]]
+
 ## Cross-references
 
 - **1:1** → [[connections/chapters/45-romans/Romans 9|Romans 9:25]]

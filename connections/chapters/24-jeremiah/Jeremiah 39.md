@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "prophets"]
 
 ![[text/hebrew/24-jeremiah#Chapter 39]]
 
+## Plain English translation
+
+![[text/english/24-jeremiah#Chapter 39]]
+
 ## Cross-references
 
 - **39:17** → [[connections/chapters/19-psalms/Psalms 41|Psalms 41:2–3]] · [[connections/chapters/19-psalms/Psalms 50|Psalms 50:15]] · [[connections/chapters/19-psalms/Psalms 91|Psalms 91:14–15]]

@@ -18,6 +18,10 @@ tags: ["chapter", "ot", "prophets"]
 
 ![[text/hebrew/37-haggai#Chapter 1]]
 
+## Plain English translation
+
+![[text/english/37-haggai#Chapter 1]]
+
 ## Cross-references
 
 - **1:4** → [[connections/chapters/10-2-samuel/2 Samuel 7|2 Samuel 7:2]] · [[connections/chapters/19-psalms/Psalms 132|Psalms 132:3–5]]

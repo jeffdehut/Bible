@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "prophets"]
 
 ![[text/hebrew/38-zechariah#Chapter 3]]
 
+## Plain English translation
+
+![[text/english/38-zechariah#Chapter 3]]
+
 ## Cross-references
 
 - **3:1** → [[connections/chapters/42-luke/Luke 22|Luke 22:31]] · [[connections/chapters/60-1-peter/1 Peter 5|1 Peter 5:8]] · [[connections/chapters/66-revelation/Revelation 12|Revelation 12:9–10]]

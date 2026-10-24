@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "prophets"]
 
 ![[text/hebrew/30-amos#Chapter 1]]
 
+## Plain English translation
+
+![[text/english/30-amos#Chapter 1]]
+
 ## Cross-references
 
 - **1:1** → [[connections/chapters/38-zechariah/Zechariah 14|Zechariah 14:5]]

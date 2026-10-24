@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "prophets"]
 
 ![[text/hebrew/26-ezekiel#Chapter 47]]
 
+## Plain English translation
+
+![[text/english/26-ezekiel#Chapter 47]]
+
 ## Cross-references
 
 - **47:1** → [[connections/chapters/66-revelation/Revelation 22|Revelation 22:1]] · [[connections/chapters/38-zechariah/Zechariah 14|Zechariah 14:8]] · [[connections/chapters/29-joel/Joel 4|Joel 4:18]] · [[connections/chapters/23-isaiah/Isaiah 55|Isaiah 55:1]] · [[connections/chapters/26-ezekiel/Ezekiel 47|Ezekiel 47:12]] · [[connections/chapters/24-jeremiah/Jeremiah 2|Jeremiah 2:13]] · [[connections/chapters/19-psalms/Psalms 46|Psalms 46:5]] · [[connections/chapters/43-john/John 7|John 7:37–39]]

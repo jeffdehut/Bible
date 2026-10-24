@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "prophets"]
 
 ![[text/hebrew/23-isaiah#Chapter 23]]
 
+## Plain English translation
+
+![[text/english/23-isaiah#Chapter 23]]
+
 ## Cross-references
 
 - **23:9** → [[connections/chapters/59-james/James 4|James 4:6]] · [[connections/chapters/23-isaiah/Isaiah 13|Isaiah 13:11]]

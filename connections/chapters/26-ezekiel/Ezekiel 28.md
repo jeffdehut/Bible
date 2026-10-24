@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "prophets"]
 
 ![[text/hebrew/26-ezekiel#Chapter 28]]
 
+## Plain English translation
+
+![[text/english/26-ezekiel#Chapter 28]]
+
 ## Cross-references
 
 - **28:2** → [[connections/chapters/26-ezekiel/Ezekiel 28|Ezekiel 28:9]] · [[connections/chapters/53-2-thessalonians/2 Thessalonians 2|2 Thessalonians 2:4]] · [[connections/chapters/23-isaiah/Isaiah 14|Isaiah 14:13–14]]

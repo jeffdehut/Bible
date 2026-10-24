@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "prophets"]
 
 ![[text/hebrew/23-isaiah#Chapter 34]]
 
+## Plain English translation
+
+![[text/english/23-isaiah#Chapter 34]]
+
 ## Cross-references
 
 - **34:4** → [[connections/chapters/66-revelation/Revelation 6|Revelation 6:13–14]] · [[connections/chapters/40-matthew/Matthew 24|Matthew 24:29]]

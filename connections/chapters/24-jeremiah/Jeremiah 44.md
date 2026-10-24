@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "prophets"]
 
 ![[text/hebrew/24-jeremiah#Chapter 44]]
 
+## Plain English translation
+
+![[text/english/24-jeremiah#Chapter 44]]
+
 ## Cross-references
 
 - **44:1** → [[connections/chapters/24-jeremiah/Jeremiah 46|Jeremiah 46:14]]

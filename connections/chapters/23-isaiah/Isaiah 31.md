@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "prophets"]
 
 ![[text/hebrew/23-isaiah#Chapter 31]]
 
+## Plain English translation
+
+![[text/english/23-isaiah#Chapter 31]]
+
 ## Cross-references
 
 - **31:1** → [[connections/chapters/19-psalms/Psalms 20|Psalms 20:8]] · [[connections/chapters/24-jeremiah/Jeremiah 17|Jeremiah 17:5]] · [[connections/chapters/05-deuteronomy/Deuteronomy 17|Deuteronomy 17:16]] · [[connections/chapters/24-jeremiah/Jeremiah 2|Jeremiah 2:13]] · [[connections/chapters/23-isaiah/Isaiah 36|Isaiah 36:9]] · [[connections/chapters/27-daniel/Daniel 9|Daniel 9:13]] · [[connections/chapters/19-psalms/Psalms 33|Psalms 33:16–17]] · [[connections/chapters/23-isaiah/Isaiah 30|Isaiah 30:16]] · [[connections/chapters/30-amos/Amos 5|Amos 5:4–8]] · [[connections/chapters/23-isaiah/Isaiah 30|Isaiah 30:1–7]]

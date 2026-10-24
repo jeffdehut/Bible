@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "prophets"]
 
 ![[text/hebrew/27-daniel#Chapter 11]]
 
+## Plain English translation
+
+![[text/english/27-daniel#Chapter 11]]
+
 ## Cross-references
 
 - **11:31** → [[connections/chapters/27-daniel/Daniel 12|Daniel 12:11]] · [[connections/chapters/27-daniel/Daniel 9|Daniel 9:27]] · [[connections/chapters/40-matthew/Matthew 24|Matthew 24:15]]

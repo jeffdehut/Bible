@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "prophets"]
 
 ![[text/hebrew/34-nahum#Chapter 1]]
 
+## Plain English translation
+
+![[text/english/34-nahum#Chapter 1]]
+
 ## Cross-references
 
 - **1:2** → [[connections/chapters/02-exodus/Exodus 20|Exodus 20:5]] · [[connections/chapters/38-zechariah/Zechariah 8|Zechariah 8:2]]

@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "prophets"]
 
 ![[text/hebrew/24-jeremiah#Chapter 19]]
 
+## Plain English translation
+
+![[text/english/24-jeremiah#Chapter 19]]
+
 ## Cross-references
 
 - **19:5** → [[connections/chapters/24-jeremiah/Jeremiah 32|Jeremiah 32:35]] · [[connections/chapters/05-deuteronomy/Deuteronomy 12|Deuteronomy 12:31]] · [[connections/chapters/03-leviticus/Leviticus 18|Leviticus 18:21]] · [[connections/chapters/19-psalms/Psalms 106|Psalms 106:37–38]]

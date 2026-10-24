@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "prophets"]
 
 ![[text/hebrew/26-ezekiel#Chapter 16]]
 
+## Plain English translation
+
+![[text/english/26-ezekiel#Chapter 16]]
+
 ## Cross-references
 
 - **16:3** → [[connections/chapters/26-ezekiel/Ezekiel 16|Ezekiel 16:45]] · [[connections/chapters/23-isaiah/Isaiah 51|Isaiah 51:1–2]]

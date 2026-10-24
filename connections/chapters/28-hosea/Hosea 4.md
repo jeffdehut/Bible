@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "prophets"]
 
 ![[text/hebrew/28-hosea#Chapter 4]]
 
+## Plain English translation
+
+![[text/english/28-hosea#Chapter 4]]
+
 ## Cross-references
 
 - **4:3** → [[connections/chapters/36-zephaniah/Zephaniah 1|Zephaniah 1:3]]

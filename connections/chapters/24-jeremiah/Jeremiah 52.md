@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "prophets"]
 
 ![[text/hebrew/24-jeremiah#Chapter 52]]
 
+## Plain English translation
+
+![[text/english/24-jeremiah#Chapter 52]]
+
 ## Cross-references
 
 - **52:12** → [[connections/chapters/12-2-kings/2 Kings 25|2 Kings 25:8]]

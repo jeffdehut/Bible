@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "prophets"]
 
 ![[text/hebrew/35-habakkuk#Chapter 2]]
 
+## Plain English translation
+
+![[text/english/35-habakkuk#Chapter 2]]
+
 ## Cross-references
 
 - **2:1** → [[connections/chapters/23-isaiah/Isaiah 21|Isaiah 21:8]] · [[connections/chapters/23-isaiah/Isaiah 62|Isaiah 62:6]] · [[connections/chapters/10-2-samuel/2 Samuel 18|2 Samuel 18:24]] · [[connections/chapters/19-psalms/Psalms 85|Psalms 85:9]] · [[connections/chapters/19-psalms/Psalms 73|Psalms 73:16–17]] · [[connections/chapters/19-psalms/Psalms 5|Psalms 5:4]] · [[connections/chapters/47-2-corinthians/2 Corinthians 13|2 Corinthians 13:3]]

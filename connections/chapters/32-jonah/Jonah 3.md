@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "prophets"]
 
 ![[text/hebrew/32-jonah#Chapter 3]]
 
+## Plain English translation
+
+![[text/english/32-jonah#Chapter 3]]
+
 ## Cross-references
 
 - **3:4** → [[connections/chapters/05-deuteronomy/Deuteronomy 18|Deuteronomy 18:22]]

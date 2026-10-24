@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "prophets"]
 
 ![[text/hebrew/27-daniel#Chapter 10]]
 
+## Plain English translation
+
+![[text/english/27-daniel#Chapter 10]]
+
 ## Cross-references
 
 - **10:2** → [[connections/chapters/16-nehemiah/Nehemiah 1|Nehemiah 1:4]]

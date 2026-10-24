@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "prophets"]
 
 ![[text/hebrew/26-ezekiel#Chapter 20]]
 
+## Plain English translation
+
+![[text/english/26-ezekiel#Chapter 20]]
+
 ## Cross-references
 
 - **20:1** → [[connections/chapters/26-ezekiel/Ezekiel 8|Ezekiel 8:1]]

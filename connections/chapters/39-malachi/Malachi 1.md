@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "prophets"]
 
 ![[text/hebrew/39-malachi#Chapter 1]]
 
+## Plain English translation
+
+![[text/english/39-malachi#Chapter 1]]
+
 ## Cross-references
 
 - **1:2** → [[connections/chapters/24-jeremiah/Jeremiah 31|Jeremiah 31:3]] · [[connections/chapters/23-isaiah/Isaiah 41|Isaiah 41:8–9]]

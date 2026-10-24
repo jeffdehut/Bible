@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "prophets"]
 
 ![[text/hebrew/26-ezekiel#Chapter 43]]
 
+## Plain English translation
+
+![[text/english/26-ezekiel#Chapter 43]]
+
 ## Cross-references
 
 - **43:2** → [[connections/chapters/66-revelation/Revelation 18|Revelation 18:1]] · [[connections/chapters/23-isaiah/Isaiah 6|Isaiah 6:3]]

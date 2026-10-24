@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "prophets"]
 
 ![[text/hebrew/26-ezekiel#Chapter 29]]
 
+## Plain English translation
+
+![[text/english/26-ezekiel#Chapter 29]]
+
 ## Cross-references
 
 - **29:21** → [[connections/chapters/42-luke/Luke 21|Luke 21:15]]

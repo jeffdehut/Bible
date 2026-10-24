@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "prophets"]
 
 ![[text/hebrew/26-ezekiel#Chapter 3]]
 
+## Plain English translation
+
+![[text/english/26-ezekiel#Chapter 3]]
+
 ## Cross-references
 
 - **3:1** → [[connections/chapters/66-revelation/Revelation 10|Revelation 10:9–10]] · [[connections/chapters/26-ezekiel/Ezekiel 3|Ezekiel 3:17–21]]

@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "prophets"]
 
 ![[text/hebrew/26-ezekiel#Chapter 18]]
 
+## Plain English translation
+
+![[text/english/26-ezekiel#Chapter 18]]
+
 ## Cross-references
 
 - **18:2** → [[connections/chapters/24-jeremiah/Jeremiah 31|Jeremiah 31:29–30]] · [[connections/chapters/25-lamentations/Lamentations 5|Lamentations 5:7]]

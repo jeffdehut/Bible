@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "prophets"]
 
 ![[text/hebrew/26-ezekiel#Chapter 48]]
 
+## Plain English translation
+
+![[text/english/26-ezekiel#Chapter 48]]
+
 ## Cross-references
 
 - **48:35** → [[connections/chapters/66-revelation/Revelation 21|Revelation 21:3]] · [[connections/chapters/38-zechariah/Zechariah 2|Zechariah 2:14]] · [[connections/chapters/24-jeremiah/Jeremiah 33|Jeremiah 33:16]] · [[connections/chapters/66-revelation/Revelation 22|Revelation 22:3]]

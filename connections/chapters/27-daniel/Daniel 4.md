@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "prophets"]
 
 ![[text/hebrew/27-daniel#Chapter 4]]
 
+## Plain English translation
+
+![[text/english/27-daniel#Chapter 4]]
+
 ## Cross-references
 
 - **4:14** → [[connections/chapters/27-daniel/Daniel 4|Daniel 4:22]] · [[connections/chapters/27-daniel/Daniel 2|Daniel 2:21]] · [[connections/chapters/09-1-samuel/1 Samuel 2|1 Samuel 2:8]] · [[connections/chapters/19-psalms/Psalms 75|Psalms 75:7–8]] · [[connections/chapters/27-daniel/Daniel 5|Daniel 5:18–21]] · [[connections/chapters/24-jeremiah/Jeremiah 27|Jeremiah 27:5–7]] · [[connections/chapters/19-psalms/Psalms 113|Psalms 113:7–8]] · [[connections/chapters/46-1-corinthians/1 Corinthians 1|1 Corinthians 1:28]]

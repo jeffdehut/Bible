@@ -5,8 +5,8 @@ Greek texts in this repository. It aims to say what the original says, as clearl
 English allows, and to show its work wherever a choice had to be made. It is open: anyone may
 use, copy, adapt and redistribute it.
 
-**Status:** first drafts. Genesis through Song of Songs, Lamentations and the Gospel of Mark
-are drafted in full, and Isaiah 1–22 and Jeremiah 1–14 are drafted (737 of 1,189 chapters). See [translation/STATUS.md](translation/STATUS.md). No chapter has had human review
+**Status:** first drafts. The whole Old Testament (Genesis to Malachi) and the Gospel of Mark
+are drafted, with John 1 (946 of 1,189 chapters). See [translation/STATUS.md](translation/STATUS.md). No chapter has had human review
 yet, so nothing here should be quoted as a finished translation.
 
 ## Goals
@@ -221,6 +221,8 @@ from the Hebrew.
 - In prophetic and poetic books, Yahweh's own words in the poems are not put in quotation marks
   (as in Deuteronomy 32 and Isaiah); a song or saying the text introduces as speech ("On that
   day you will say: …") is, and so is a dialogue in which speakers alternate (Isaiah 63:1–6).
+  Words the prophet reports others saying (Malachi's "But you ask, 'How …?'") are quoted; a
+  speech a poem only imagines, with no speaker named, is not.
   A document given whole without an introduction (Nebuchadnezzar's letter, Daniel 3:31–4:34)
   takes no quotation marks.
 - Quotation marks: double for speech, single for a quotation inside it, and so on alternating

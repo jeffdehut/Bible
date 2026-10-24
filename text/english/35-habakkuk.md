@@ -101,7 +101,7 @@
 
 **18** What use is a carved image, once its maker has carved it, or a cast image, a teacher of lies? For its maker trusts in what he has made himself, when he makes idols that cannot speak.[^2-28]
 
-**19** Woe to him who says to a piece of wood: Wake up! and to a silent stone: Get up! Can it teach? Look, it is overlaid with gold and silver, but there is no breath[^2-29] in it at all.'
+**19** Woe to him who says to a piece of wood, "Wake up!" and to a silent stone, "Get up!" Can it teach? Look, it is overlaid with gold and silver, but there is no breath[^2-29] in it at all.'
 
 **20** But Yahweh is in his holy temple. Let all the earth be silent before him."[^2-30]
 

@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "prophets"]
 
 ![[text/hebrew/24-jeremiah#Chapter 46]]
 
+## Plain English translation
+
+![[text/english/24-jeremiah#Chapter 46]]
+
 ## Cross-references
 
 - **46:27** → [[connections/chapters/23-isaiah/Isaiah 43|Isaiah 43:5]] · [[connections/chapters/23-isaiah/Isaiah 43|Isaiah 43:1]] · [[connections/chapters/24-jeremiah/Jeremiah 30|Jeremiah 30:10–11]]

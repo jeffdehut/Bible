@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "prophets"]
 
 ![[text/hebrew/28-hosea#Chapter 13]]
 
+## Plain English translation
+
+![[text/english/28-hosea#Chapter 13]]
+
 ## Cross-references
 
 - **13:4** → [[connections/chapters/23-isaiah/Isaiah 45|Isaiah 45:21–22]] · [[connections/chapters/02-exodus/Exodus 20|Exodus 20:2–3]] · [[connections/chapters/28-hosea/Hosea 12|Hosea 12:10]] · [[connections/chapters/23-isaiah/Isaiah 43|Isaiah 43:10–13]] · [[connections/chapters/23-isaiah/Isaiah 43|Isaiah 43:3]] · [[connections/chapters/44-acts/Acts 4|Acts 4:12]]

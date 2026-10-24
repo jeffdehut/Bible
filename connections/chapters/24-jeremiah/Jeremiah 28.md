@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "prophets"]
 
 ![[text/hebrew/24-jeremiah#Chapter 28]]
 
+## Plain English translation
+
+![[text/english/24-jeremiah#Chapter 28]]
+
 ## Cross-references
 
 - **28:9** → [[connections/chapters/05-deuteronomy/Deuteronomy 18|Deuteronomy 18:22]]

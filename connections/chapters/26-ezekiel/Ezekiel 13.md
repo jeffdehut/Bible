@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "prophets"]
 
 ![[text/hebrew/26-ezekiel#Chapter 13]]
 
+## Plain English translation
+
+![[text/english/26-ezekiel#Chapter 13]]
+
 ## Cross-references
 
 - **13:9** → [[connections/chapters/19-psalms/Psalms 69|Psalms 69:29]] · [[connections/chapters/19-psalms/Psalms 87|Psalms 87:6]]

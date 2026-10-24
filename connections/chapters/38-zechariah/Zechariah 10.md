@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "prophets"]
 
 ![[text/hebrew/38-zechariah#Chapter 10]]
 
+## Plain English translation
+
+![[text/english/38-zechariah#Chapter 10]]
+
 ## Cross-references
 
 - **10:1** → [[connections/chapters/59-james/James 5|James 5:16–18]] · [[connections/chapters/23-isaiah/Isaiah 44|Isaiah 44:3]] · [[connections/chapters/40-matthew/Matthew 7|Matthew 7:7–8]] · [[connections/chapters/43-john/John 16|John 16:23]] · [[connections/chapters/19-psalms/Psalms 65|Psalms 65:10]] · [[connections/chapters/05-deuteronomy/Deuteronomy 28|Deuteronomy 28:23]] · [[connections/chapters/59-james/James 5|James 5:7]]

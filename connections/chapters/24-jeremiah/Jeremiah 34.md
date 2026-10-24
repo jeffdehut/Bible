@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "prophets"]
 
 ![[text/hebrew/24-jeremiah#Chapter 34]]
 
+## Plain English translation
+
+![[text/english/24-jeremiah#Chapter 34]]
+
 ## Cross-references
 
 - **34:18** → [[connections/chapters/01-genesis/Genesis 15|Genesis 15:10]]

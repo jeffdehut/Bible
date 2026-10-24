@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "prophets"]
 
 ![[text/hebrew/23-isaiah#Chapter 57]]
 
+## Plain English translation
+
+![[text/english/23-isaiah#Chapter 57]]
+
 ## Cross-references
 
 - **57:1** → [[connections/chapters/12-2-kings/2 Kings 22|2 Kings 22:20]] · [[connections/chapters/14-2-chronicles/2 Chronicles 34|2 Chronicles 34:28]] · [[connections/chapters/19-psalms/Psalms 12|Psalms 12:2]] · [[connections/chapters/33-micah/Micah 7|Micah 7:2]] · [[connections/chapters/23-isaiah/Isaiah 42|Isaiah 42:25]]

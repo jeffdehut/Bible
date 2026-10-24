@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "prophets"]
 
 ![[text/hebrew/23-isaiah#Chapter 54]]
 
+## Plain English translation
+
+![[text/english/23-isaiah#Chapter 54]]
+
 ## Cross-references
 
 - **54:1** → [[connections/chapters/48-galatians/Galatians 4|Galatians 4:27]] · [[connections/chapters/23-isaiah/Isaiah 62|Isaiah 62:4]] · [[connections/chapters/09-1-samuel/1 Samuel 2|1 Samuel 2:5]] · [[connections/chapters/38-zechariah/Zechariah 9|Zechariah 9:9]] · [[connections/chapters/19-psalms/Psalms 113|Psalms 113:9]] · [[connections/chapters/58-hebrews/Hebrews 11|Hebrews 11:11–12]] · [[connections/chapters/23-isaiah/Isaiah 49|Isaiah 49:13]] · [[connections/chapters/36-zephaniah/Zephaniah 3|Zephaniah 3:14]] · [[connections/chapters/19-psalms/Psalms 98|Psalms 98:3–9]] · [[connections/chapters/19-psalms/Psalms 67|Psalms 67:4–6]] · [[connections/chapters/23-isaiah/Isaiah 49|Isaiah 49:20]]

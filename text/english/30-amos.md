@@ -208,7 +208,7 @@
 
 [^4-1]: A fertile highland east of the Sea of Galilee, famous for its well-fed cattle (Deuteronomy 32:14; Psalm 22:13, 22:12 in most English Bibles). Here the phrase describes the wealthy women of Samaria.
 [^4-2]: Literally "their lords".
-[^4-3]: Hebrew *Adonai YHWH*, "my Lord Yahweh", traditionally "the Lord GOD". Also in verse 5.
+[^4-3]: Hebrew *Adonai YHWH*, "my Lord Yahweh", traditionally "the Lord GOD". *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles. *The Lord Yahweh* is also in verse 5.
 [^4-4]: The meaning of both words for hooks is uncertain. Or "in baskets … in fishing pots". *The last of you* may also mean "your descendants".
 [^4-5]: The place is unknown. Perhaps Mount Hermon, in the north, is meant. The verb is active, literally "you will throw", perhaps "you will throw yourselves".
 [^4-6]: Hebrew *ne'um YHWH*, "the declaration of Yahweh", a formula that marks a prophet's words as Yahweh's own solemn statement. Also in verses 5–11.
@@ -455,7 +455,7 @@
 
 **14** Those who swear by the guilt of Samaria,[^8-18] who say, "As your god lives, Dan," and "As the way to Beersheba lives,"[^8-19] will fall and never rise again.
 
-[^8-1]: Hebrew *Adonai YHWH*, "my Lord Yahweh", traditionally "the Lord GOD". Also in verses 3, 9 and 11.
+[^8-1]: Hebrew *Adonai YHWH*, "my Lord Yahweh", traditionally "the Lord GOD". *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles. *The Lord Yahweh* is also in verses 3, 9 and 11.
 [^8-2]: Hebrew *kelub qayits*. *Qayits* is the fruit of late summer, chiefly figs, gathered at the end of the farming year.
 [^8-3]: Hebrew *qets*, "end". The vision rests on a play on words: *qayits*, "summer fruit", sounds like *qets*, "end". The ripe fruit at the end of the year points to Israel's end.
 [^8-4]: See 7:8.
@@ -469,7 +469,7 @@
 [^8-12]: Compare 2:6.
 [^8-13]: Perhaps a title of God, like "the Glory of Israel" (1 Samuel 15:29). Or Yahweh swears by the arrogance of Jacob (6:8), which is as sure not to change as his own oath.
 [^8-14]: Hebrew *ka'or*, "like the light", probably a short spelling of *kay'or*, "like the Nile", as in 9:5. The Nile rose in flood every year and fell again.
-[^8-15]: Perhaps an eclipse of the sun. A total eclipse was visible in the region on 15 June 763 BC.
+[^8-15]: Perhaps an eclipse of the sun. One took place on 15 June 763 BC and was recorded in Assyria.
 [^8-16]: Literally "I will bring up sackcloth on all waists and baldness on every head". Wearing sackcloth and shaving the head were signs of mourning (Isaiah 15:2–3; Micah 1:16).
 [^8-17]: From the Dead Sea in the east to the Mediterranean in the west, that is, the length and breadth of the land.
 [^8-18]: Perhaps a mocking name for a goddess worshiped in Samaria, Ashima (2 Kings 17:30), or for the calf of Bethel (Hosea 8:5–6).

@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "prophets"]
 
 ![[text/hebrew/32-jonah#Chapter 4]]
 
+## Plain English translation
+
+![[text/english/32-jonah#Chapter 4]]
+
 ## Cross-references
 
 - **4:2** → [[connections/chapters/19-psalms/Psalms 86|Psalms 86:15]] · [[connections/chapters/02-exodus/Exodus 34|Exodus 34:6–7]] · [[connections/chapters/04-numbers/Numbers 14|Numbers 14:18–19]] · [[connections/chapters/29-joel/Joel 2|Joel 2:13–14]] · [[connections/chapters/19-psalms/Psalms 145|Psalms 145:8]] · [[connections/chapters/19-psalms/Psalms 86|Psalms 86:5]] · [[connections/chapters/33-micah/Micah 7|Micah 7:18]] · [[connections/chapters/02-exodus/Exodus 32|Exodus 32:14]] · [[connections/chapters/24-jeremiah/Jeremiah 18|Jeremiah 18:8]] · [[connections/chapters/19-psalms/Psalms 78|Psalms 78:38]] · [[connections/chapters/30-amos/Amos 7|Amos 7:3]] · [[connections/chapters/28-hosea/Hosea 11|Hosea 11:8–9]]

@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "prophets"]
 
 ![[text/hebrew/23-isaiah#Chapter 51]]
 
+## Plain English translation
+
+![[text/english/23-isaiah#Chapter 51]]
+
 ## Cross-references
 
 - **51:1** → [[connections/chapters/23-isaiah/Isaiah 51|Isaiah 51:7]] · [[connections/chapters/19-psalms/Psalms 94|Psalms 94:15]] · [[connections/chapters/58-hebrews/Hebrews 12|Hebrews 12:14]] · [[connections/chapters/19-psalms/Psalms 105|Psalms 105:3–4]] · [[connections/chapters/45-romans/Romans 14|Romans 14:19]] · [[connections/chapters/45-romans/Romans 9|Romans 9:30–32]]

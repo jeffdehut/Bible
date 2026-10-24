@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "prophets"]
 
 ![[text/hebrew/23-isaiah#Chapter 35]]
 
+## Plain English translation
+
+![[text/english/23-isaiah#Chapter 35]]
+
 ## Cross-references
 
 - **35:1** → [[connections/chapters/23-isaiah/Isaiah 51|Isaiah 51:3]] · [[connections/chapters/26-ezekiel/Ezekiel 36|Ezekiel 36:35]] · [[connections/chapters/23-isaiah/Isaiah 55|Isaiah 55:12–13]] · [[connections/chapters/23-isaiah/Isaiah 52|Isaiah 52:9–10]] · [[connections/chapters/23-isaiah/Isaiah 27|Isaiah 27:6]] · [[connections/chapters/23-isaiah/Isaiah 4|Isaiah 4:2]] · [[connections/chapters/66-revelation/Revelation 19|Revelation 19:1–7]] · [[connections/chapters/23-isaiah/Isaiah 32|Isaiah 32:15–16]] · [[connections/chapters/23-isaiah/Isaiah 61|Isaiah 61:10–11]] · [[connections/chapters/19-psalms/Psalms 97|Psalms 97:8]] · [[connections/chapters/23-isaiah/Isaiah 29|Isaiah 29:17]] · [[connections/chapters/23-isaiah/Isaiah 66|Isaiah 66:10–14]] · [[connections/chapters/23-isaiah/Isaiah 41|Isaiah 41:18–19]] · [[connections/chapters/28-hosea/Hosea 14|Hosea 14:6–7]] · [[connections/chapters/19-psalms/Psalms 48|Psalms 48:12]] · [[connections/chapters/23-isaiah/Isaiah 40|Isaiah 40:3]]

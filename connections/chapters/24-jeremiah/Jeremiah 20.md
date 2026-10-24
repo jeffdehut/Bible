@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "prophets"]
 
 ![[text/hebrew/24-jeremiah#Chapter 20]]
 
+## Plain English translation
+
+![[text/english/24-jeremiah#Chapter 20]]
+
 ## Cross-references
 
 - **20:9** → [[connections/chapters/19-psalms/Psalms 39|Psalms 39:4]] · [[connections/chapters/18-job/Job 32|Job 32:18–20]] · [[connections/chapters/44-acts/Acts 4|Acts 4:20]] · [[connections/chapters/46-1-corinthians/1 Corinthians 9|1 Corinthians 9:16–17]] · [[connections/chapters/44-acts/Acts 17|Acts 17:16]] · [[connections/chapters/26-ezekiel/Ezekiel 3|Ezekiel 3:14]] · [[connections/chapters/24-jeremiah/Jeremiah 6|Jeremiah 6:11]] · [[connections/chapters/47-2-corinthians/2 Corinthians 5|2 Corinthians 5:13–15]]

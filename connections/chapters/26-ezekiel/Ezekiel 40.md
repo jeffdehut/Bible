@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "prophets"]
 
 ![[text/hebrew/26-ezekiel#Chapter 40]]
 
+## Plain English translation
+
+![[text/english/26-ezekiel#Chapter 40]]
+
 ## Cross-references
 
 - **40:4** → [[connections/chapters/26-ezekiel/Ezekiel 44|Ezekiel 44:5]]

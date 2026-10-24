@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "prophets"]
 
 ![[text/hebrew/35-habakkuk#Chapter 1]]
 
+## Plain English translation
+
+![[text/english/35-habakkuk#Chapter 1]]
+
 ## Cross-references
 
 - **1:2** → [[connections/chapters/19-psalms/Psalms 22|Psalms 22:2–3]] · [[connections/chapters/19-psalms/Psalms 13|Psalms 13:2–3]] · [[connections/chapters/25-lamentations/Lamentations 3|Lamentations 3:8]]

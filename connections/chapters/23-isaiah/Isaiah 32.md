@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "prophets"]
 
 ![[text/hebrew/23-isaiah#Chapter 32]]
 
+## Plain English translation
+
+![[text/english/23-isaiah#Chapter 32]]
+
 ## Cross-references
 
 - **32:3** → [[connections/chapters/23-isaiah/Isaiah 29|Isaiah 29:18]]

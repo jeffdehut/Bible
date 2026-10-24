@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "prophets"]
 
 ![[text/hebrew/26-ezekiel#Chapter 6]]
 
+## Plain English translation
+
+![[text/english/26-ezekiel#Chapter 6]]
+
 ## Cross-references
 
 - **6:9** → [[connections/chapters/26-ezekiel/Ezekiel 20|Ezekiel 20:43]] · [[connections/chapters/23-isaiah/Isaiah 7|Isaiah 7:13]] · [[connections/chapters/19-psalms/Psalms 78|Psalms 78:40]] · [[connections/chapters/18-job/Job 42|Job 42:6]] · [[connections/chapters/23-isaiah/Isaiah 43|Isaiah 43:24]] · [[connections/chapters/38-zechariah/Zechariah 10|Zechariah 10:9]] · [[connections/chapters/26-ezekiel/Ezekiel 20|Ezekiel 20:7]] · [[connections/chapters/05-deuteronomy/Deuteronomy 4|Deuteronomy 4:29–31]]

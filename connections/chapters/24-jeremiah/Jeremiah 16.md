@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "prophets"]
 
 ![[text/hebrew/24-jeremiah#Chapter 16]]
 
+## Plain English translation
+
+![[text/english/24-jeremiah#Chapter 16]]
+
 ## Cross-references
 
 - **16:4** → [[connections/chapters/24-jeremiah/Jeremiah 25|Jeremiah 25:33]]

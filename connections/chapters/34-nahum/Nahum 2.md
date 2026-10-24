@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "prophets"]
 
 ![[text/hebrew/34-nahum#Chapter 2]]
 
+## Plain English translation
+
+![[text/english/34-nahum#Chapter 2]]
+
 ## Cross-references
 
 - **2:1** → [[connections/chapters/23-isaiah/Isaiah 52|Isaiah 52:7]] · [[connections/chapters/45-romans/Romans 10|Romans 10:15]] · [[connections/chapters/23-isaiah/Isaiah 40|Isaiah 40:9–10]]

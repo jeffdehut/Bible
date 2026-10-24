@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "prophets"]
 
 ![[text/hebrew/26-ezekiel#Chapter 7]]
 
+## Plain English translation
+
+![[text/english/26-ezekiel#Chapter 7]]
+
 ## Cross-references
 
 - **7:19** → [[connections/chapters/36-zephaniah/Zephaniah 1|Zephaniah 1:18]] · [[connections/chapters/20-proverbs/Proverbs 11|Proverbs 11:4]]

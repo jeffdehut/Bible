@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "prophets"]
 
 ![[text/hebrew/24-jeremiah#Chapter 17]]
 
+## Plain English translation
+
+![[text/english/24-jeremiah#Chapter 17]]
+
 ## Cross-references
 
 - **17:1** → [[connections/chapters/20-proverbs/Proverbs 3|Proverbs 3:3]] · [[connections/chapters/47-2-corinthians/2 Corinthians 3|2 Corinthians 3:3]] · [[connections/chapters/20-proverbs/Proverbs 7|Proverbs 7:3]]

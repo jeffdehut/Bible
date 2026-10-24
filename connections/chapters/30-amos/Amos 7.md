@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "prophets"]
 
 ![[text/hebrew/30-amos#Chapter 7]]
 
+## Plain English translation
+
+![[text/english/30-amos#Chapter 7]]
+
 ## Cross-references
 
 - **7:8** → [[connections/chapters/30-amos/Amos 8|Amos 8:2]]

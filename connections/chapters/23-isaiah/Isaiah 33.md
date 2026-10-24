@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "prophets"]
 
 ![[text/hebrew/23-isaiah#Chapter 33]]
 
+## Plain English translation
+
+![[text/english/23-isaiah#Chapter 33]]
+
 ## Cross-references
 
 - **33:1** → [[connections/chapters/40-matthew/Matthew 7|Matthew 7:2]]

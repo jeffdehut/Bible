@@ -22,6 +22,10 @@ tags: ["chapter", "ot", "prophets"]
 
 ![[text/hebrew/33-micah#Chapter 4]]
 
+## Plain English translation
+
+![[text/english/33-micah#Chapter 4]]
+
 ## Cross-references
 
 - **4:1** → [[connections/chapters/23-isaiah/Isaiah 2|Isaiah 2:1–4]] · [[connections/chapters/24-jeremiah/Jeremiah 3|Jeremiah 3:17]] · [[connections/chapters/44-acts/Acts 2|Acts 2:17]] · [[connections/chapters/19-psalms/Psalms 22|Psalms 22:28]] · [[connections/chapters/38-zechariah/Zechariah 14|Zechariah 14:16–21]] · [[connections/chapters/19-psalms/Psalms 86|Psalms 86:9]] · [[connections/chapters/38-zechariah/Zechariah 8|Zechariah 8:3]] · [[connections/chapters/28-hosea/Hosea 3|Hosea 3:5]] · [[connections/chapters/26-ezekiel/Ezekiel 43|Ezekiel 43:12]]
