@@ -1096,3 +1096,233 @@
 [^18-7]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
 [^18-8]: *Yahweh of Armies* (Hebrew *YHWH tseva'ot*) is traditionally "the LORD of hosts" or "the LORD Almighty". *Tseva'ot* means armies: the heavenly hosts and the armies of Israel.
 [^18-9]: Literally "a people tall and smooth-skinned, and from a people feared far and wide".
+
+## Chapter 19
+
+*Status: draft*
+
+**1** An oracle[^19-1] concerning Egypt: Look, Yahweh[^19-2] is riding on a swift cloud and is coming to Egypt. The idols of Egypt tremble before him, and the heart of Egypt melts within it.
+
+**2** I will stir up Egyptian against Egyptian; they will fight, brother against brother and neighbor against neighbor, city against city, kingdom against kingdom.
+
+**3** The spirit of Egypt will be emptied out within it, and I will confuse its plans.[^19-3] They will consult the idols and the spirits of the dead,[^19-4] the mediums and the spiritists.
+
+**4** I will hand Egypt over to a cruel master,[^19-5] and a fierce king will rule over them, declares the Lord[^19-6] Yahweh of Armies.[^19-7]
+
+**5** The waters of the sea[^19-8] will dry up, and the river will be parched and dry.
+
+**6** The canals will stink; the streams of Egypt[^19-9] will dwindle and dry up; reeds and rushes will wither.
+
+**7** The plants along the Nile, at the mouth of the Nile, and every sown field along the Nile will dry up, blow away and be no more.[^19-10]
+
+**8** The fishermen will mourn and lament, all who cast hooks into the Nile; those who spread nets on the water will waste away.
+
+**9** Those who work with combed flax will be dismayed, and the weavers of white cloth.[^19-11]
+
+**10** Her foundations[^19-12] will be crushed, and all who work for wages will be sick at heart.
+
+**11** The officials of Zoan[^19-13] are nothing but fools; the wise counselors of Pharaoh give senseless advice. How can you say to Pharaoh, "I am a son of the wise, a son of ancient kings"?
+
+**12** Where are your wise men now? Let them tell you and make known what Yahweh of Armies has planned against Egypt.
+
+**13** The officials of Zoan have become fools; the officials of Memphis[^19-14] are deceived. The cornerstones of her tribes have led Egypt astray.
+
+**14** Yahweh has poured into her a spirit of confusion,[^19-15] and they make Egypt stagger in all she does, as a drunkard staggers in his vomit.
+
+**15** There is nothing Egypt can do, head or tail, palm branch or reed.[^19-16]
+
+**16** On that day the Egyptians will be like women. They will tremble and be afraid before the hand that Yahweh of Armies raises against them.
+
+**17** The land of Judah will become a terror to Egypt. Everyone to whom it is mentioned will be afraid because of the plan that Yahweh of Armies has planned against them.
+
+**18** On that day there will be five cities in the land of Egypt that speak the language of Canaan[^19-17] and swear allegiance to Yahweh of Armies. One of them will be called the City of Destruction.[^19-18]
+
+**19** On that day there will be an altar to Yahweh in the middle of the land of Egypt, and a standing stone[^19-19] to Yahweh at its border.
+
+**20** It will be a sign and a witness to Yahweh of Armies in the land of Egypt. When they cry out to Yahweh because of their oppressors, he will send them a savior and defender,[^19-20] who will rescue them.
+
+**21** Yahweh will make himself known to Egypt, and the Egyptians will know Yahweh on that day. They will worship with sacrifice and grain offering,[^19-21] and make vows to Yahweh and keep them.
+
+**22** Yahweh will strike Egypt, striking and healing. They will turn back to Yahweh, and he will listen to their pleas and heal them.
+
+**23** On that day there will be a highway from Egypt to Assyria. The Assyrians will come to Egypt and the Egyptians to Assyria, and the Egyptians will worship with the Assyrians.[^19-22]
+
+**24** On that day Israel will be the third, with Egypt and Assyria, a blessing in the middle of the earth.
+
+**25** Yahweh of Armies will bless them,[^19-23] saying, "Blessed be Egypt my people, Assyria the work of my hands, and Israel my inheritance."[^19-24]
+
+[^19-1]: Hebrew *massa*. See 13:1.
+[^19-2]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^19-3]: Literally "swallow up".
+[^19-4]: Hebrew *ittim*, a word found only here, perhaps "mutterers" or "ghosts". The *mediums* and *spiritists* (*ovot* and *yidde'onim*) are those who claim to speak with the dead (8:19).
+[^19-5]: Literally "masters", a plural of majesty.
+[^19-6]: Hebrew *ha-adon*, "the Lord", a title, not the name Yahweh.
+[^19-7]: *Yahweh of Armies* (Hebrew *YHWH tseva'ot*) is traditionally "the LORD of hosts" or "the LORD Almighty". *Tseva'ot* means armies: the heavenly hosts and the armies of Israel.
+[^19-8]: Here the Nile, whose broad waters could be called a sea.
+[^19-9]: Hebrew *Matsor*, a poetic name for Egypt.
+[^19-10]: The first word of the verse, Hebrew *arot*, is uncertain: perhaps "plants", "meadows" or "bare places".
+[^19-11]: Hebrew *chori*, a word found only here, probably "white cloth", that is, fine linen.
+[^19-12]: Hebrew *shatoteha*, perhaps "her pillars", the leaders of the land, or "her weavers".
+[^19-13]: Also called Tanis, a royal city in the Nile Delta.
+[^19-14]: Hebrew *Noph*, Memphis, the ancient capital of Egypt near modern Cairo.
+[^19-15]: Or "dizziness". Literally "a spirit of distortions".
+[^19-16]: The top and bottom of society (9:13–14, English 9:14–15).
+[^19-17]: That is, Hebrew or a related language.
+[^19-18]: Hebrew *ir ha-heres*. Some Hebrew manuscripts, the Great Isaiah Scroll from Qumran (1QIsa-a) and the Vulgate read *ir ha-cheres*, "City of the Sun", that is, Heliopolis in Egypt. The Septuagint reads "City of Righteousness".
+[^19-19]: Hebrew *matsevah*, a standing stone, a pillar set up as a memorial or as an object of worship. The law forbade them in Israel (Deuteronomy 16:22).
+[^19-20]: Hebrew *rav*, "a great one" or "one who contends", that is, defends their cause.
+[^19-21]: Hebrew *minchah*, "gift, tribute", in Leviticus a grain offering.
+[^19-22]: Or "and the Egyptians will serve the Assyrians". Hebrew *avad* means both "serve" and "worship".
+[^19-23]: Literally "him", the land or people of verse 24.
+[^19-24]: The Septuagint reads "Blessed be my people who are in Egypt and among the Assyrians, and Israel my inheritance".
+
+## Chapter 20
+
+*Status: draft*
+
+**1** In the year that the commander-in-chief,[^20-1] sent by Sargon king of Assyria, came to Ashdod and fought against it and captured it,[^20-2]
+
+**2** at that time Yahweh[^20-3] spoke through Isaiah son of Amoz: "Go, take off the sackcloth from your waist and remove the sandals from your feet." And he did so, walking around stripped[^20-4] and barefoot.
+
+**3** Then Yahweh said, "Just as my servant Isaiah has walked stripped and barefoot for three years as a sign and a portent against Egypt and Cush,[^20-5]
+
+**4** so the king of Assyria will lead away the captives of Egypt and the exiles of Cush, young and old, stripped and barefoot, with buttocks bared, to Egypt's shame.
+
+**5** They will be dismayed and ashamed because of Cush, their hope, and Egypt, their pride.
+
+**6** On that day the people who live on this coast will say, 'Look, this is what has happened to those we hoped in, to whom we fled for help, to be rescued from the king of Assyria! How then can we escape?'"
+
+[^20-1]: Hebrew *tartan*, an Assyrian title for the army's chief commander (2 Kings 18:17).
+[^20-2]: Ashdod, a Philistine city, rebelled against Assyria and was captured by Sargon II's army in 711 BC.
+[^20-3]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^20-4]: Hebrew *arom*, "naked", here probably wearing only a loincloth, like a prisoner of war. Also in verses 3–4.
+[^20-5]: The region south of Egypt (ancient Nubia), whose kings then ruled Egypt.
+
+## Chapter 21
+
+*Status: draft*
+
+**1** An oracle[^21-1] concerning the wilderness of the sea:[^21-2] Like whirlwinds sweeping through the Negev,[^21-3] it comes from the wilderness, from a terrifying land.
+
+**2** A harsh vision has been shown to me: the traitor betrays, and the destroyer destroys. Go up, Elam! Lay siege, Media![^21-4] I put an end to all the groaning she caused.[^21-5]
+
+**3** Therefore my body[^21-6] is filled with anguish; pains have seized me like the pains of a woman in labor. I am bent double by what I hear; I am terrified by what I see.
+
+**4** My mind reels; horror overwhelms me. The twilight I longed for has become a terror to me.
+
+**5** They set the table, they spread the rugs,[^21-7] they eat, they drink! Get up, you officers, oil the shields!
+
+**6** For this is what the Lord said to me: "Go, post a lookout; let him report what he sees.
+
+**7** When he sees riders, horsemen in pairs, riders on donkeys, riders on camels, let him pay attention, close attention."
+
+**8** Then he called out like a lion:[^21-8] "Lord,[^21-9] I stand on the watchtower continually by day, and I am stationed at my post every night.
+
+**9** Look, here comes a man in a chariot, with horsemen in pairs!" Then he answered, "Fallen, fallen is Babylon! All the images of her gods lie shattered on the ground!"[^21-10]
+
+**10** My people, threshed and winnowed on my threshing floor,[^21-11] what I have heard from Yahweh of Armies,[^21-12] the God of Israel, I have told you.
+
+**11** An oracle concerning Dumah:[^21-13] Someone calls to me from Seir, "Watchman, what is left of the night? Watchman, what is left of the night?"
+
+**12** The watchman says, "Morning is coming, but also the night. If you want to ask, ask; come back again."[^21-14]
+
+**13** An oracle concerning Arabia:[^21-15] You caravans of Dedanites, who camp in the thickets of Arabia,
+
+**14** bring water to meet the thirsty! You who live in the land of Tema, meet the fugitives with bread.
+
+**15** For they have fled from the swords, from the drawn sword, from the bent bow, and from the heat of battle.
+
+**16** For this is what the Lord said to me: "Within one year, counted as a hired worker counts it,[^21-16] all the glory of Kedar[^21-17] will come to an end.
+
+**17** The bows of Kedar's warriors that remain will be few." For Yahweh, the God of Israel, has spoken.
+
+[^21-1]: Hebrew *massa*. See 13:1. Also in verses 11 and 13.
+[^21-2]: Hebrew *midbar-yam*. The oracle concerns Babylon (verse 9), which lay near the marshes at the head of the Persian Gulf, a region the Assyrians called "the Sealand". The Septuagint reads only "the wilderness".
+[^21-3]: The dry southern region of Judah.
+[^21-4]: Elam and Media, peoples to the east of Babylon (11:11; 13:17).
+[^21-5]: Literally "all her groaning", that is, the groaning Babylon has caused, or perhaps Babylon's own groaning.
+[^21-6]: Literally "my loins".
+[^21-7]: Or "they set the watch". The meaning of the Hebrew phrase *tsafoh ha-tsafit* is uncertain.
+[^21-8]: Literally "And a lion called out". The Great Isaiah Scroll from Qumran (1QIsa-a) reads "And the lookout called out".
+[^21-9]: Or "my lord". Hebrew *Adonai*.
+[^21-10]: Compare Revelation 14:8; 18:2.
+[^21-11]: Literally "my threshed one and son of my threshing floor": Israel, beaten and sifted by its enemies.
+[^21-12]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles. *Yahweh of Armies* (Hebrew *YHWH tseva'ot*) is traditionally "the LORD of hosts" or "the LORD Almighty". *Tseva'ot* means armies: the heavenly hosts and the armies of Israel.
+[^21-13]: *Dumah*, "silence", is an oasis in northern Arabia (Genesis 25:14). Here it may also be a play on *Edom*, since Seir is the mountain country of Edom. The Septuagint reads "Idumea", that is, Edom.
+[^21-14]: The verbs "ask" and "come" are in forms close to Aramaic, perhaps imitating the speech of the questioner.
+[^21-15]: Or "An oracle in the steppe". Hebrew *ba'rav*. Dedan and Tema were oasis towns of northern Arabia.
+[^21-16]: Literally "like the years of a hired worker", that is, exactly (16:14).
+[^21-17]: A tribe of the Arabian desert (Genesis 25:13; Psalm 120:5).
+
+## Chapter 22
+
+*Status: draft*
+
+**1** An oracle[^22-1] concerning the Valley of Vision:[^22-2] What is the matter with you now, that you have all gone up to the rooftops,
+
+**2** you city full of noise, you town of tumult and celebration? Your slain were not slain by the sword, nor did they die in battle.
+
+**3** All your rulers fled together; they were captured without a bow being drawn.[^22-3] All of you who were found were captured together, though they had fled far away.
+
+**4** Therefore I said, "Look away from me; let me weep bitterly. Do not try to comfort me over the destruction of my dear people."[^22-4]
+
+**5** For the Lord Yahweh of Armies[^22-5] has a day of tumult, trampling and confusion in the Valley of Vision, of battering down walls and of crying out to the mountain.[^22-6]
+
+**6** Elam took up the quiver, with chariots of men and horsemen, and Kir uncovered the shield.[^22-7]
+
+**7** Your choicest valleys were full of chariots, and the horsemen took their positions at the gate.
+
+**8** He removed the covering of Judah.[^22-8] On that day you looked to the weapons in the House of the Forest.[^22-9]
+
+**9** You saw that the breaches in the walls of the City of David were many, and you collected the waters of the Lower Pool.
+
+**10** You counted the houses of Jerusalem and tore houses down to strengthen the wall.
+
+**11** You made a reservoir between the two walls for the water of the Old Pool.[^22-10] But you did not look to the one who made it, or consider the one who planned it long ago.
+
+**12** On that day the Lord Yahweh of Armies called for weeping and mourning, for shaving the head and putting on sackcloth.
+
+**13** But look, there was joy and celebration, killing cattle and slaughtering sheep, eating meat and drinking wine: "Let us eat and drink, for tomorrow we die!"[^22-11]
+
+**14** Yahweh of Armies revealed himself in my hearing: Surely this guilt will not be atoned for you until you die, says the Lord Yahweh of Armies.
+
+**15** This is what the Lord Yahweh of Armies says: Go, go to this steward, to Shebna, who is in charge of the palace:[^22-12]
+
+**16** What right do you have here, and whom do you have here, that you have cut out a tomb for yourself here, cutting out a tomb on the height, carving a resting place for himself in the rock?[^22-13]
+
+**17** Look, Yahweh is about to hurl you away violently, you strong man, and grasp you firmly.[^22-14]
+
+**18** He will roll you up tightly like a ball and throw you into a wide land. There you will die, and there your splendid chariots will be, you disgrace to your master's house!
+
+**19** I will thrust you from your office, and he will pull you down from your position.
+
+**20** On that day I will call my servant Eliakim son of Hilkiah.
+
+**21** I will clothe him with your robe and fasten your sash around him, and I will hand your authority over to him. He will be a father to the people of Jerusalem and to the house of Judah.
+
+**22** I will place on his shoulder the key of the house of David. What he opens, no one will shut, and what he shuts, no one will open.[^22-15]
+
+**23** I will drive him like a peg into a firm place, and he will become a seat of honor for his father's house.[^22-16]
+
+**24** They will hang on him all the weight[^22-17] of his father's house, offspring and offshoots, all the small vessels, from bowls to all the jars.
+
+**25** On that day, declares Yahweh of Armies, the peg driven into a firm place will give way. It will be cut down and fall, and the load[^22-18] hanging on it will be cut off. For Yahweh has spoken.
+
+[^22-1]: Hebrew *massa*. See 13:1.
+[^22-2]: A name for Jerusalem, perhaps from a valley near the city where the prophet saw visions.
+[^22-3]: Literally "without the bow".
+[^22-4]: Literally "the daughter of my people", a tender name for the people pictured as a young woman.
+[^22-5]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles. *Yahweh of Armies* (Hebrew *YHWH tseva'ot*) is traditionally "the LORD of hosts" or "the LORD Almighty". *Tseva'ot* means armies: the heavenly hosts and the armies of Israel.
+[^22-6]: Hebrew *meqarqar qir*, a phrase of uncertain meaning that echoes its own sounds. Perhaps "a shouting of 'Qir!'".
+[^22-7]: Kir, a region in Mesopotamia from which the Arameans came (Amos 9:7). Elam and Kir supplied troops to the Assyrian army.
+[^22-8]: Or "the defenses of Judah were stripped away".
+[^22-9]: The House of the Forest of Lebanon, a hall built by Solomon, named for its cedar pillars, where weapons were kept (1 Kings 7:2; 10:17).
+[^22-10]: Compare Hezekiah's work on Jerusalem's water supply before the Assyrian siege (2 Kings 20:20; 2 Chronicles 32:2–5, 30).
+[^22-11]: Paul quotes these words in 1 Corinthians 15:32.
+[^22-12]: Literally "who is over the house", the title of the king's chief minister. Shebna appears as secretary, with Eliakim in this office, in 36:3.
+[^22-13]: Literally "for himself". The Hebrew moves from "you" to "he".
+[^22-14]: Or "and wrap you up tightly". The meaning of verses 17–18 is uncertain in places.
+[^22-15]: Revelation 3:7 echoes this verse.
+[^22-16]: Literally "a throne of glory".
+[^22-17]: Hebrew *kavod*, "glory, weight".
+[^22-18]: Hebrew *massa*, the word translated "oracle" in verse 1.

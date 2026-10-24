@@ -1351,3 +1351,234 @@
 [^16-20]: Literally "his mouth".
 [^16-21]: Hebrew *ish beliyya'al*, "a man of worthlessness" (see 6:12).
 [^16-22]: Hebrew *nirgan*, "whisperer". In the Hebrew text one letter of this word is written small, a scribal mark.
+
+## Chapter 17
+
+*Status: draft*
+
+**1** Better a dry crust with peace and quiet than a house full of feasting[^17-1] with strife.
+
+**2** A servant who acts wisely[^17-2] will rule over a son who acts shamefully, and will share the inheritance among the brothers.
+
+**3** The crucible is for silver and the furnace for gold, but Yahweh[^17-3] tests hearts.
+
+**4** An evildoer listens to wicked lips; a liar pays attention to a destructive tongue.
+
+**5** Whoever mocks the poor insults his Maker; whoever rejoices at disaster will not go unpunished.
+
+**6** Grandchildren are the crown of the old, and fathers are the glory of their children.
+
+**7** Fine speech is not fitting for a godless fool,[^17-4] still less are lying lips for a noble.
+
+**8** A bribe is a lucky stone[^17-5] in the eyes of its owner; wherever he turns, he succeeds.
+
+**9** Whoever covers an offense seeks love, but whoever repeats a matter separates close friends.
+
+**10** A rebuke goes deeper into a discerning person than a hundred blows into a fool.[^17-6]
+
+**11** An evil person seeks only rebellion, and a cruel messenger will be sent against him.
+
+**12** Better to meet a bear robbed of her cubs than a fool in his folly.[^17-7]
+
+**13** Whoever repays good with evil, evil will not leave his house.
+
+**14** Starting a quarrel is like letting out water; so drop the dispute before it breaks out.
+
+**15** Whoever acquits the wicked[^17-8] and whoever condemns the righteous,[^17-9] both are detestable to Yahweh.
+
+**16** Why should a fool have money in his hand to buy wisdom, when he has no sense?[^17-10]
+
+**17** A friend loves at all times, and a brother is born for times of trouble.
+
+**18** One who lacks sense[^17-11] shakes hands on a pledge and puts up security in front of his neighbor.[^17-12]
+
+**19** Whoever loves offense loves strife; whoever makes his doorway high is looking for destruction.[^17-13]
+
+**20** Whoever has a crooked heart finds no good, and whoever has a perverse tongue falls into trouble.
+
+**21** Whoever fathers a fool has grief, and the father of a godless fool has no joy.
+
+**22** A glad heart is good medicine,[^17-14] but a crushed spirit dries up the bones.
+
+**23** The wicked accepts a bribe in secret[^17-15] to pervert the paths of justice.
+
+**24** Wisdom is right in front of the discerning, but the eyes of a fool wander to the ends of the earth.
+
+**25** A foolish son is a grief to his father and bitterness to the mother who bore him.
+
+**26** It is not good to punish the righteous, or to strike nobles for their uprightness.[^17-16]
+
+**27** Whoever restrains his words has knowledge, and one who is calm in spirit[^17-17] is a person of insight.[^17-18]
+
+**28** Even a fool[^17-19] who keeps silent is considered wise; whoever closes his lips is thought discerning.
+
+[^17-1]: Literally "sacrifices". The meat of some sacrifices was eaten at a feast (7:14).
+[^17-2]: Hebrew *maskil*, as in 10:5.
+[^17-3]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^17-4]: Hebrew *nabal*: a senseless, godless person, the word used of Nabal in 1 Samuel 25:25. Also in verse 21.
+[^17-5]: Literally "a stone of favor", a charm thought to bring good fortune.
+[^17-6]: Hebrew *kesil* (see 1:22). Also in verses 12, 16, 21, 24 and 25.
+[^17-7]: Hebrew *iwwelet*, "folly", the word related to *ewil*, "fool" (see 1:7).
+[^17-8]: Hebrew *rasha*: one who is guilty of wrong (see 2:22).
+[^17-9]: Hebrew *tsaddiq*: one who does what is right (see 2:20).
+[^17-10]: Literally "and there is no heart". In Hebrew thought the heart is the seat of understanding.
+[^17-11]: Literally "lacks heart".
+[^17-12]: That is, guarantees his neighbor's debt (see 6:1–5). Literally "before his neighbor".
+[^17-13]: *Makes his doorway high* may be a picture of arrogance or of a showy house; some take *doorway* to mean the mouth.
+[^17-14]: Hebrew *gehah*, a word found only here, probably "healing".
+[^17-15]: Literally "from the bosom", from the fold of a garment.
+[^17-16]: Or "against what is right".
+[^17-17]: The Hebrew text is written "and cool of spirit" but read "precious (that is, restrained) of spirit".
+[^17-18]: Hebrew *tevunah* (see 2:2).
+[^17-19]: Hebrew *ewil*, the morally perverse, stubborn fool (see 1:7).
+
+## Chapter 18
+
+*Status: draft*
+
+**1** Whoever isolates himself seeks his own desire; he bursts out against all sound wisdom.[^18-1]
+
+**2** A fool[^18-2] takes no pleasure in insight,[^18-3] but only in displaying his own mind.
+
+**3** When the wicked[^18-4] comes, contempt comes too, and with dishonor comes disgrace.
+
+**4** The words of a person's mouth are deep waters; the fountain of wisdom is a flowing stream.
+
+**5** It is not good to show favor to the wicked,[^18-5] or to deprive the righteous[^18-6] of justice.
+
+**6** A fool's lips walk into a quarrel, and his mouth invites a beating.
+
+**7** A fool's mouth is his ruin, and his lips are a snare for his life.
+
+**8** The words of a gossip are like tasty morsels;[^18-7] they go down into the inner parts of the body.
+
+**9** Whoever is slack in his work is brother to one who destroys.
+
+**10** The name of Yahweh[^18-8] is a strong tower; the righteous run into it and are safe.
+
+**11** The wealth of the rich is their strong city; in their imagination[^18-9] it is like a high wall.
+
+**12** Before destruction a person's heart is proud, but humility comes before honor.
+
+**13** Whoever answers before he listens, it is folly[^18-10] and shame to him.
+
+**14** A person's spirit can endure sickness, but a crushed spirit, who can bear it?
+
+**15** The heart of the discerning acquires knowledge, and the ear of the wise seeks knowledge.
+
+**16** A gift opens the way for the giver[^18-11] and brings him before the great.
+
+**17** The first to state his case seems right, until the other comes and questions him.
+
+**18** Casting the lot puts an end to disputes and decides between powerful opponents.
+
+**19** An offended brother is harder to win than a strong city,[^18-12] and quarrels are like the bars of a fortress.
+
+**20** From the fruit of a person's mouth his stomach is filled; he is satisfied with the yield of his lips.
+
+**21** Death and life are in the power of the tongue, and those who love it will eat its fruit.
+
+**22** He who finds a wife finds a good thing and obtains favor from Yahweh.[^18-13]
+
+**23** The poor speak with pleading, but the rich answer harshly.
+
+**24** A man of many companions may come to ruin,[^18-14] but there is a friend who sticks closer than a brother.
+
+[^18-1]: Hebrew *tushiyyah*, as in 2:7. The verb *bursts out* is used of quarrels in 17:14 and 20:3.
+[^18-2]: Hebrew *kesil* (see 1:22). Also in verses 6 and 7.
+[^18-3]: Hebrew *tevunah* (see 2:2).
+[^18-4]: Hebrew *rasha*: one who is guilty of wrong (see 2:22).
+[^18-5]: Literally "to lift up the face of the wicked".
+[^18-6]: Hebrew *tsaddiq*: one who does what is right (see 2:20).
+[^18-7]: Hebrew *mitlahamim*, a rare word, probably "tasty morsels" swallowed greedily. The verse is repeated in 26:22.
+[^18-8]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^18-9]: Or "in their own conceit". Compare verse 10.
+[^18-10]: Hebrew *iwwelet*, "folly", the word related to *ewil*, "fool" (see 1:7).
+[^18-11]: Literally "A person's gift makes room for him".
+[^18-12]: The Hebrew of this line is difficult. Literally "A brother offended, than a strong city". The Septuagint reads "A brother helped by a brother is like a strong and high city".
+[^18-13]: The Septuagint reads "a good wife".
+[^18-14]: Or "A man of many friends has them only for company". The verb may come from a root meaning "be broken" or from one meaning "keep company".
+
+## Chapter 19
+
+*Status: draft*
+
+**1** Better a poor person who walks in integrity than one with crooked lips who is a fool.[^19-1]
+
+**2** Desire without knowledge is not good, and whoever hurries with his feet sins.[^19-2]
+
+**3** A person's folly[^19-3] ruins his way, but his heart rages against Yahweh.[^19-4]
+
+**4** Wealth adds many friends, but the poor is separated from his friend.
+
+**5** A false witness will not go unpunished, and one who breathes out lies will not escape.
+
+**6** Many seek the favor of a generous person, and everyone is a friend to one who gives gifts.
+
+**7** All the brothers of a poor person hate him; how much more do his friends keep far from him! He pursues them with words, but words are all he has.[^19-5]
+
+**8** Whoever gains sense[^19-6] loves himself; whoever keeps insight[^19-7] will find good.
+
+**9** A false witness will not go unpunished, and one who breathes out lies will perish.
+
+**10** Luxury is not fitting for a fool, still less for a servant to rule over princes.
+
+**11** A person's good sense[^19-8] makes him slow to anger, and it is his glory to overlook an offense.
+
+**12** A king's rage is like the roar of a lion, but his favor is like dew on the grass.
+
+**13** A foolish son is ruin to his father, and a wife's quarrels are a constant dripping.[^19-9]
+
+**14** House and wealth are an inheritance from fathers, but a sensible wife[^19-10] is from Yahweh.
+
+**15** Laziness casts into a deep sleep, and an idle person will go hungry.
+
+**16** Whoever keeps the command keeps his life; whoever is careless of his ways will die.[^19-11]
+
+**17** Whoever is kind to the poor lends to Yahweh, and he will repay him for his deed.
+
+**18** Discipline your son while there is hope; do not set your heart on his death.[^19-12]
+
+**19** A person of great anger[^19-13] must pay the penalty; if you rescue him, you will have to do it again.
+
+**20** Listen to advice and accept discipline,[^19-14] so that you may be wise in the end.
+
+**21** Many plans are in a person's heart, but it is the purpose of Yahweh that will stand.
+
+**22** What is desired in a person is faithful love,[^19-15] and it is better to be poor than a liar.
+
+**23** The fear of Yahweh leads to life; whoever has it rests content, untouched by harm.
+
+**24** The lazy person[^19-16] buries his hand in the dish; he will not even bring it back to his mouth.
+
+**25** Strike a mocker,[^19-17] and the simple[^19-18] will learn prudence;[^19-19] correct a discerning person, and he will gain knowledge.
+
+**26** Whoever robs his father and drives out his mother is a son who brings shame and disgrace.
+
+**27** Stop listening to discipline, my son, and you will stray from the words of knowledge.
+
+**28** A worthless witness[^19-20] mocks at justice, and the mouth of the wicked[^19-21] swallows iniquity.
+
+**29** Punishments are ready for mockers, and beatings for the backs of fools.
+
+[^19-1]: Hebrew *kesil* (see 1:22). Also in verses 10, 13 and 29. Compare 28:6.
+[^19-2]: Or "misses the way". The verb *chata* means both "sin" and "miss" (8:36).
+[^19-3]: Hebrew *iwwelet*, "folly", the word related to *ewil*, "fool" (see 1:7).
+[^19-4]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^19-5]: The Hebrew of this line is difficult. The text is written *lo*, "not", but read *lo*, "to him": literally "pursuing words, they are his". On the written form the line means "he pursues them with words, but they are gone". The verse has three lines instead of two, and the Septuagint has a different and longer text.
+[^19-6]: Literally "gains heart".
+[^19-7]: Hebrew *tevunah* (see 2:2).
+[^19-8]: Hebrew *sekhel*, "good sense, insight".
+[^19-9]: That is, the dripping of a leaking roof (27:15).
+[^19-10]: Hebrew *ishah maskalet*, a wife who acts with good sense (compare *maskil*, 10:5).
+[^19-11]: The Hebrew text is written "will be put to death" but read "will die". *Is careless of his ways* is literally "despises his ways".
+[^19-12]: Literally "and to his death do not lift up your soul". This may mean "do not be a party to his ruin" by neglecting discipline, or "do not let your anger go so far as to kill him".
+[^19-13]: The Hebrew text is written with a word of unclear meaning, perhaps "rough", but read "great".
+[^19-14]: Hebrew *musar*: discipline, training and correction (see 1:2). Also in verse 27.
+[^19-15]: Hebrew *chesed*. Or, taking *chesed* as in 14:34, "A person's greed is his disgrace".
+[^19-16]: Hebrew *atsel*, traditionally "sluggard" (see 6:6). The verse is repeated in 26:15.
+[^19-17]: Hebrew *lets*: one who scorns wisdom and laughs at correction (see 1:22). Also in verse 29.
+[^19-18]: Hebrew *peti*: a naive, inexperienced person, easily led (see 1:4).
+[^19-19]: Hebrew *ya'rim*, from the same root as *ormah*, "prudence" (see 1:4).
+[^19-20]: Hebrew *ed beliyya'al*, "a witness of worthlessness" (see 6:12).
+[^19-21]: Hebrew *resha'im*, plural of *rasha*: those who are guilty of wrong (see 2:22).

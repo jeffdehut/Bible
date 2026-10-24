@@ -835,3 +835,250 @@
 [^10-19]: Or "they have not acted wisely". The Hebrew verb can mean either.
 [^10-20]: Literally "is not to him", that is, it does not belong to him to decide.
 [^10-21]: Verse 25 is nearly the same as Psalm 79:6–7.
+
+## Chapter 11
+
+*Status: draft*
+
+**1** The word that came to Jeremiah from Yahweh:[^11-1]
+
+**2** Hear the words of this covenant, and speak them to the people of Judah and the inhabitants of Jerusalem.[^11-2]
+
+**3** Say to them: This is what Yahweh, the God of Israel, says: Cursed is anyone who does not listen to the words of this covenant,
+
+**4** which I commanded your ancestors when I brought them out of the land of Egypt, out of the iron-smelting furnace: "Listen to my voice and do them, everything I command you. Then you will be my people, and I will be your God,"
+
+**5** so that I may keep the oath I swore to your ancestors, to give them a land flowing with milk and honey, as it is today. I answered, "Amen,[^11-3] Yahweh."
+
+**6** Yahweh said to me: Proclaim all these words in the cities of Judah and in the streets of Jerusalem: Hear the words of this covenant and do them.
+
+**7** For I solemnly warned your ancestors when I brought them up from the land of Egypt, and I have warned them again and again[^11-4] until this day, saying, "Listen to my voice."
+
+**8** But they did not listen or pay attention; each of them followed the stubbornness of his evil heart. So I brought on them all the words of this covenant, which I had commanded them to do, but they did not do them.[^11-5]
+
+**9** Yahweh said to me: A conspiracy has been found among the people of Judah and the inhabitants of Jerusalem.
+
+**10** They have gone back to the wrongdoings of their ancestors of old, who refused to listen to my words. They too have followed other gods to serve them. The house of Israel and the house of Judah have broken my covenant that I made with their ancestors.
+
+**11** Therefore this is what Yahweh says: I am going to bring on them a disaster they cannot escape. They will cry out to me, but I will not listen to them.
+
+**12** Then the cities of Judah and the inhabitants of Jerusalem will go and cry out to the gods they burn incense to,[^11-6] but these will not save them at all in the time of their trouble.
+
+**13** For you have as many gods as you have cities, Judah, and as many altars as Jerusalem has streets you have set up to the Shameful Thing,[^11-7] altars to burn incense to Baal.
+
+**14** As for you, do not pray for this people, or raise a cry or a prayer for them, for I will not listen when they call to me because of their trouble.
+
+**15** What right does my beloved have in my house, when she has carried out so many evil schemes? Can sacred meat take away your disaster from you? Then you could rejoice.[^11-8]
+
+**16** Yahweh once named you "A leafy olive tree, beautiful with well-formed fruit." But with the roar of a great storm he will set fire to it, and its branches will be broken.[^11-9]
+
+**17** Yahweh of Armies,[^11-10] who planted you, has pronounced disaster against you, because of the evil that the house of Israel and the house of Judah have done, provoking me to anger by burning incense to Baal.
+
+**18** Yahweh made it known to me, and I knew it.[^11-11] Then you showed me what they were doing.
+
+**19** But I was like a trusting lamb led to the slaughter. I did not know it was against me they had made their plans: "Let us destroy the tree with its fruit;[^11-12] let us cut him off from the land of the living, so that his name will be remembered no more."
+
+**20** But Yahweh of Armies, who judges righteously, who tests the heart and mind,[^11-13] let me see your vengeance on them, for to you I have committed my cause.
+
+**21** Therefore this is what Yahweh says about the people of Anathoth, who seek your life and say, "Do not prophesy in the name of Yahweh, or you will die by our hand":
+
+**22** therefore this is what Yahweh of Armies says: I am going to punish them. The young men will die by the sword; their sons and their daughters will die by famine.
+
+**23** Not even a remnant will be left to them, for I will bring disaster on the people of Anathoth, the year of their punishment.
+
+[^11-1]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^11-2]: The commands in this verse are plural.
+[^11-3]: Hebrew *amen*, "So be it", the people's answer to the curses of the covenant in Deuteronomy 27:15–26.
+[^11-4]: Literally "rising early and warning".
+[^11-5]: The Septuagint does not have verse 7 and most of verse 8. It reads only "but they did not do them".
+[^11-6]: Or "burn offerings to". The Hebrew verb *qatar* means to make something go up in smoke. Also in verses 13 and 17.
+[^11-7]: Hebrew *ha-boshet*, "the shame", a scornful name for Baal.
+[^11-8]: The Hebrew of this verse is very difficult, and the Septuagint differs from it. The translation is uncertain.
+[^11-9]: Or "will be ruined".
+[^11-10]: *Yahweh of Armies* (Hebrew *YHWH tseva'ot*) is traditionally "the LORD of hosts" or "the LORD Almighty". *Tseva'ot* means armies: the heavenly hosts and the armies of Israel. Also in verses 20 and 22.
+[^11-11]: Here begins the first of Jeremiah's personal laments, often called his "confessions" (11:18–12:6; 15:10–21; 17:14–18; 18:18–23; 20:7–18). Jeremiah speaks to Yahweh about the plot against him by the people of his own town, Anathoth (verse 21).
+[^11-12]: Literally "with its bread".
+[^11-13]: Literally "the kidneys and the heart". In Hebrew thought the kidneys were the seat of the emotions and the heart of thought and will.
+
+## Chapter 12
+
+*Status: draft*
+
+**1** You are always in the right, Yahweh,[^12-1] when I bring a case against you.[^12-2] Yet I would speak with you about justice: Why does the way of the wicked prosper? Why do all the treacherous live at ease?
+
+**2** You planted them, and they have taken root; they grow and bear fruit. You are near in their mouths but far from their hearts.[^12-3]
+
+**3** But you, Yahweh, know me; you see me and test my heart toward you. Drag them off like sheep to be slaughtered; set them apart for the day of killing.
+
+**4** How long will the land mourn and the grass of every field wither? Because of the wickedness of those who live in it, the animals and the birds are swept away. For they have said, "He will not see what becomes of us."
+
+**5** If you have raced with men on foot and they have worn you out, how will you compete with horses?[^12-4] If you feel secure only in a peaceful land, how will you manage in the thickets of the Jordan?[^12-5]
+
+**6** For even your brothers and your own family,[^12-6] even they have betrayed you; even they are shouting loudly after you. Do not trust them, even when they speak kindly to you.
+
+**7** I have abandoned my house; I have deserted my inheritance.[^12-7] I have given the one I dearly love[^12-8] into the hands of her enemies.
+
+**8** My inheritance has become to me like a lion in the forest. She has roared at me; therefore I hate her.
+
+**9** Has my inheritance become to me like a speckled bird of prey, with birds of prey all around her? Go, gather all the wild animals; bring them to devour.
+
+**10** Many shepherds have ruined my vineyard; they have trampled down my portion. They have turned my pleasant portion into a desolate wilderness.
+
+**11** They have made it a desolation; desolate, it mourns before me. The whole land has been made desolate, but no one takes it to heart.
+
+**12** Over all the bare heights in the wilderness destroyers have come, for the sword of Yahweh devours from one end of the land to the other. No living thing[^12-9] has peace.
+
+**13** They have sown wheat but reaped thorns; they have worn themselves out but gained nothing. Be ashamed of your harvests,[^12-10] because of the fierce anger of Yahweh.
+
+**14** This is what Yahweh says about all my evil neighbors who strike at the inheritance I gave my people Israel: I am going to uproot them from their land, and I will uproot the house of Judah from among them.
+
+**15** But after I have uprooted them, I will again have compassion on them, and I will bring them back, each one to his inheritance and each one to his land.
+
+**16** And if they diligently learn the ways of my people, to swear by my name, "As surely as Yahweh lives," just as they taught my people to swear by Baal, then they will be built up among my people.
+
+**17** But if any nation will not listen, I will completely uproot that nation and destroy it, declares Yahweh.
+
+[^12-1]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^12-2]: Hebrew *riv*, to bring a case against someone, as in a court of law. Jeremiah's lament, which began in 11:18, continues to verse 4.
+[^12-3]: Literally "far from their kidneys", thought of as the seat of the emotions.
+[^12-4]: Yahweh answers Jeremiah in verses 5–6: worse is still to come.
+[^12-5]: Literally "in the pride of the Jordan", the dense thickets along the river, where lions lived (49:19).
+[^12-6]: Literally "your father's house".
+[^12-7]: Yahweh speaks in verses 7–13. His *inheritance* is his land and his people.
+[^12-8]: Literally "the beloved of my soul".
+[^12-9]: Literally "No flesh".
+[^12-10]: Or "They will be ashamed of their harvests". The Hebrew moves from "they" to "your".
+
+## Chapter 13
+
+*Status: draft*
+
+**1** This is what Yahweh[^13-1] said to me: "Go and buy yourself a linen loincloth[^13-2] and put it around your waist, but do not put it in water."
+
+**2** So I bought a loincloth, as Yahweh had told me, and put it around my waist.
+
+**3** The word of Yahweh came to me a second time:
+
+**4** "Take the loincloth you bought, the one around your waist, and set out for Perath.[^13-3] Hide it there in a crevice in the rock."
+
+**5** So I went and hid it at Perath, as Yahweh had commanded me.
+
+**6** After many days Yahweh said to me, "Set out for Perath, and take from there the loincloth I commanded you to hide there."
+
+**7** So I went to Perath and dug, and I took the loincloth from the place where I had hidden it. And look, the loincloth was ruined; it was good for nothing.
+
+**8** Then the word of Yahweh came to me:
+
+**9** "This is what Yahweh says: In the same way I will ruin the pride of Judah and the great pride of Jerusalem.
+
+**10** This evil people, who refuse to listen to my words, who follow the stubbornness of their hearts and have gone after other gods to serve them and worship them, will be like this loincloth, which is good for nothing.
+
+**11** For as a loincloth clings to a man's waist, so I made the whole house of Israel and the whole house of Judah cling to me, declares Yahweh, to be my people, for my renown, my praise and my glory. But they did not listen."
+
+**12** Say this word to them: This is what Yahweh, the God of Israel, says: Every jar should be filled with wine.[^13-4] And when they say to you, "Don't we know very well that every jar should be filled with wine?"
+
+**13** then say to them: This is what Yahweh says: I am going to fill all the inhabitants of this land with drunkenness: the kings who sit on David's throne, the priests, the prophets and all the inhabitants of Jerusalem.
+
+**14** I will smash them one against another, fathers and sons together, declares Yahweh. I will not show pity or spare them or have compassion; nothing will keep me from destroying them.
+
+**15** Hear and pay attention; do not be proud, for Yahweh has spoken.
+
+**16** Give glory to Yahweh your God before he brings darkness, before your feet stumble on the mountains at dusk. You will look for light, but he will turn it into deep darkness[^13-5] and make it thick gloom.
+
+**17** But if you will not listen, I will weep in secret[^13-6] because of your pride. My eyes will weep bitterly and run with tears, because the flock of Yahweh has been taken captive.
+
+**18** Say to the king and to the queen mother,[^13-7] "Take a lowly seat, for your glorious crowns have come down from your heads."
+
+**19** The cities of the Negev[^13-8] are shut up, and there is no one to open them. All Judah has been carried into exile, carried into exile completely.
+
+**20** Lift up your eyes and see those coming from the north. Where is the flock that was given to you, your beautiful flock?
+
+**21** What will you say when he sets over you as rulers those you yourself trained to be your friends?[^13-9] Will not pains seize you like a woman in labor?
+
+**22** And if you say in your heart, "Why have these things happened to me?" it is because of your many sins that your skirts have been stripped off and your body violated.[^13-10]
+
+**23** Can a Cushite[^13-11] change his skin, or a leopard its spots? Then you also can do good, you who are trained to do evil.
+
+**24** I will scatter them like chaff blown away by the desert wind.
+
+**25** This is your lot, the portion I have measured out to you, declares Yahweh, because you have forgotten me and trusted in the Lie.[^13-12]
+
+**26** I myself will pull your skirts up over your face, and your shame will be seen.
+
+**27** Your adulteries and your lustful neighing, your shameless prostitution on the hills in the countryside: I have seen your detestable acts. Woe to you, Jerusalem! You will not be made clean. How long will it still be?[^13-13]
+
+[^13-1]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^13-2]: Hebrew *ezor*, a cloth wrapped around the waist and hips, worn next to the skin.
+[^13-3]: Hebrew *Perat*, the usual name of the Euphrates River, about 350 miles (560 km) away. Some think instead of Parah, a village near Anathoth (Joshua 18:23), whose name is similar. Also in verses 5–7.
+[^13-4]: Apparently a common saying. Hebrew *nevel*, "jar", is a large clay jar for storing wine.
+[^13-5]: Hebrew *tsalmavet*, "deep darkness", traditionally read as "the shadow of death".
+[^13-6]: Literally "my soul will weep in secret places".
+[^13-7]: Hebrew *gevirah*, "great lady", the king's mother, who held a position of honor at court. These are probably Jehoiachin and his mother Nehushta, taken into exile in 597 BC (2 Kings 24:8–15; Jeremiah 22:26).
+[^13-8]: The dry region in the south of Judah.
+[^13-9]: Hebrew *allufim*, "close friends" or "chiefs". The meaning of the verse is uncertain.
+[^13-10]: Literally "your heels have suffered violence", a polite way of speaking of sexual violence.
+[^13-11]: A person from Cush, the land on the upper Nile, south of Egypt.
+[^13-12]: Hebrew *sheqer*, "falsehood", here probably the false gods.
+[^13-13]: Literally "after when yet?"
+
+## Chapter 14
+
+*Status: draft*
+
+**1** The word of Yahweh[^14-1] that came to Jeremiah about the drought:
+
+**2** Judah mourns, and her gates languish; her people sit in black on the ground,[^14-2] and the cry of Jerusalem goes up.
+
+**3** Their nobles send their servants for water. They come to the cisterns but find no water; they return with their jars empty. They are ashamed and dismayed, and they cover their heads.
+
+**4** Because the ground is cracked, for there has been no rain in the land, the farmers are ashamed; they cover their heads.
+
+**5** Even the doe in the field gives birth and abandons her fawn, because there is no grass.
+
+**6** Wild donkeys stand on the bare heights and pant for air like jackals; their eyes fail because there is no vegetation.
+
+**7** Though our wrongdoings testify against us, Yahweh, act for the sake of your name.[^14-3] For our acts of faithlessness are many; we have sinned against you.
+
+**8** Hope of Israel, its Savior in time of trouble, why are you like a stranger in the land, like a traveler who stops only for a night?
+
+**9** Why are you like a man taken by surprise, like a warrior who cannot save? Yet you are among us, Yahweh, and we bear your name.[^14-4] Do not abandon us!
+
+**10** This is what Yahweh says about this people: How they love to wander! They do not restrain their feet. So Yahweh does not accept them; now he will remember their wrongdoing and punish their sins.[^14-5]
+
+**11** Yahweh said to me: Do not pray for the good of this people.
+
+**12** Though they fast, I will not listen to their cry; though they offer burnt offerings and grain offerings, I will not accept them. Instead I will make an end of them by sword, famine and plague.
+
+**13** Then I said, "Ah, Lord Yahweh![^14-6] Look, the prophets keep telling them, 'You will not see the sword, and you will not have famine. I will give you lasting peace[^14-7] in this place.'"
+
+**14** Yahweh said to me: The prophets are prophesying lies in my name. I did not send them or command them or speak to them. They are prophesying to you false visions, divination, worthless things and the delusions of their own minds.[^14-8]
+
+**15** Therefore this is what Yahweh says about the prophets who prophesy in my name, though I did not send them, and who say, "Sword and famine will not come on this land": By sword and famine those prophets will meet their end.
+
+**16** And the people they are prophesying to will be thrown out into the streets of Jerusalem because of famine and sword, with no one to bury them, them, their wives, their sons and their daughters. I will pour out on them their own wickedness.
+
+**17** Say this word to them: Let my eyes run with tears night and day, and let them not stop, for the virgin daughter of my people[^14-9] has been struck a crushing blow, a very grievous wound.
+
+**18** If I go out into the field, look, those killed by the sword! If I enter the city, look, those sick with famine! For both prophet and priest wander through a land they do not know.[^14-10]
+
+**19** Have you utterly rejected Judah? Do you loathe Zion?[^14-11] Why have you struck us so that there is no healing for us? We hoped for peace, but no good has come; for a time of healing, but there is only terror.
+
+**20** We acknowledge our wickedness, Yahweh, the wrongdoing of our ancestors, for we have sinned against you.
+
+**21** For the sake of your name, do not spurn us; do not dishonor your glorious throne.[^14-12] Remember your covenant with us, and do not break it.
+
+**22** Can any of the worthless idols[^14-13] of the nations bring rain? Can the heavens give showers by themselves? Is it not you, Yahweh our God? So we hope in you, for you are the one who does all these things.
+
+[^14-1]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^14-2]: Literally "they are dark to the ground", that is, dressed in mourning and sitting on the ground.
+[^14-3]: Verses 7–9 are a prayer of lament, in the voice of the people or of the prophet praying for them. Another follows in verses 19–22.
+[^14-4]: Literally "your name is called over us", that is, we belong to you.
+[^14-5]: The second half of this verse is nearly the same as Hosea 8:13.
+[^14-6]: Hebrew *Adonai YHWH*, "my Lord Yahweh".
+[^14-7]: Literally "peace of truth".
+[^14-8]: Literally "the deceit of their heart".
+[^14-9]: A tender, poetic name for the nation, pictured as a young woman.
+[^14-10]: Or "go about their business in the land, and have no knowledge". The meaning of the Hebrew is uncertain.
+[^14-11]: Literally "Does your soul loathe Zion?"
+[^14-12]: That is, Jerusalem and its temple, where Yahweh was enthroned (3:17).
+[^14-13]: Literally "the vapors": see 2:5.
