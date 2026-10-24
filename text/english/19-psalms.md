@@ -1573,7 +1573,7 @@
 [^35-2]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
 [^35-3]: Hebrew *magen* and *tsinnah*, a small round shield and a large one that covered the whole body.
 [^35-4]: Hebrew *segor*, perhaps a weapon, or a verb: "and close the way".
-[^35-5]: Literally "to my soul (*nephesh*)". Also in verse 12, and "my life" in verse 4.
+[^35-5]: Literally "to my soul (*nephesh*)".
 [^35-6]: Literally "For without cause they hid for me the pit of their net; without cause they dug for my soul (*nephesh*)".
 [^35-7]: Hebrew *nephesh*: soul, life, self.
 [^35-8]: Literally "witnesses of violence".
