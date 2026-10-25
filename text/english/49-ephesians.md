@@ -162,69 +162,70 @@
 
 **1** For this reason I, Paul, the prisoner of Christ Jesus for the sake of you Gentiles—[^3-1]
 
-**2** if indeed you have heard of the stewardship[^3-2] of God's grace that was given to me for you.
+**2** Surely you have heard[^3-2] of the stewardship[^3-3] of God's grace that was given to me for you.
 
-**3** By revelation the mystery[^3-3] was made known to me,[^3-4] as I have written briefly before.[^3-5]
+**3** By revelation the mystery[^3-4] was made known to me,[^3-5] as I have written briefly before.[^3-6]
 
 **4** When you read this, you can understand my insight into the mystery of Christ,
 
-**5** which in other generations was not made known to human beings[^3-6] as it has now been revealed by the Spirit to his holy apostles and prophets:
+**5** which in other generations was not made known to human beings[^3-7] as it has now been revealed by the Spirit to his holy apostles and prophets:
 
 **6** that the Gentiles are heirs together with them, members together of one body, and sharers together in the promise in Christ Jesus through the good news.
 
-**7** Of this good news I became a servant[^3-7] according to the gift of God's grace, which was given to me by the working of his power.
+**7** Of this good news I became a servant[^3-8] according to the gift of God's grace, which was given to me by the working of his power.
 
-**8** To me, the very least[^3-8] of all God's holy people,[^3-9] this grace was given: to proclaim to the Gentiles the good news of the unfathomable riches of Christ,
+**8** To me, the very least[^3-9] of all God's holy people,[^3-10] this grace was given: to proclaim to the Gentiles the good news of the unfathomable riches of Christ,
 
-**9** and to bring to light for everyone[^3-10] what is the plan[^3-11] of the mystery that for ages past was hidden in God, who created all things,[^3-12]
+**9** and to bring to light for everyone[^3-11] what is the plan[^3-12] of the mystery that for ages past was hidden in God, who created all things,[^3-13]
 
-**10** so that through the church the wisdom of God in all its variety might now be made known to the rulers and the authorities in the heavenly places,[^3-13]
+**10** so that through the church the wisdom of God in all its variety might now be made known to the rulers and the authorities in the heavenly places,[^3-14]
 
-**11** according to the eternal purpose[^3-14] that he carried out in Christ Jesus our Lord.
+**11** according to the eternal purpose[^3-15] that he carried out in Christ Jesus our Lord.
 
-**12** In him we have boldness and access with confidence through faith in him.[^3-15]
+**12** In him we have boldness and access with confidence through faith in him.[^3-16]
 
-**13** So I ask you not to lose heart[^3-16] over my sufferings for you, which are your glory.
+**13** So I ask you not to lose heart[^3-17] over my sufferings for you, which are your glory.
 
-**14** For this reason I kneel before the Father,[^3-17]
+**14** For this reason I kneel before the Father,[^3-18]
 
-**15** from whom every family[^3-18] in heaven and on earth gets its name,
+**15** from whom every family[^3-19] in heaven and on earth gets its name,
 
-**16** that, according to the riches of his glory, he may grant you to be strengthened with power through his Spirit in your inner being,[^3-19]
+**16** that, according to the riches of his glory, he may grant you to be strengthened with power through his Spirit in your inner being,[^3-20]
 
-**17** and that Christ may dwell in your hearts through faith, in love,[^3-20] so that you, rooted and firmly founded,
+**17** and that Christ may dwell in your hearts through faith, in love,[^3-21] so that you, rooted and firmly founded,
 
 **18** may have strength to grasp, with all God's holy people, what is the breadth and length and height and depth,
 
-**19** and to know the love of Christ that surpasses knowledge, so that you may be filled to all the fullness of God.[^3-21]
+**19** and to know the love of Christ that surpasses knowledge, so that you may be filled to all the fullness of God.[^3-22]
 
 **20** Now to him who is able to do far more than all we ask or imagine, according to the power that is at work in us,
 
-**21** to him be the glory in the church and in Christ Jesus[^3-22] for all generations, forever and ever.[^3-23] Amen.
+**21** to him be the glory in the church and in Christ Jesus[^3-23] for all generations, forever and ever.[^3-24] Amen.
 
 [^3-1]: The sentence breaks off here and is taken up again in verse 14 ("For this reason …"). Verses 2–13 are a digression.
-[^3-2]: Greek *oikonomia*, as in 1:10; here the task of a steward who manages what belongs to another.
-[^3-3]: Greek *mysterion*, a secret plan that was hidden until God revealed it; also in verses 4 and 9.
-[^3-4]: The SBLGNT here follows Holmes and a marginal reading of Westcott and Hort. Other editions and many manuscripts begin the verse with "that", making it what the readers have heard: "… given to me for you, that by revelation the mystery was made known to me".
-[^3-5]: Probably earlier in this letter (1:9–10; 2:11–22).
-[^3-6]: Literally "to the sons of men".
-[^3-7]: Greek *diakonos*, "servant", traditionally "minister".
-[^3-8]: Literally "the leaster", a comparative formed from a superlative.
-[^3-9]: Literally "the holy ones", traditionally "saints"; also in verse 18.
-[^3-10]: Some manuscripts leave out "for everyone", reading "to bring to light what is the plan …".
-[^3-11]: Greek *oikonomia*, as in verse 2 and 1:10.
-[^3-12]: Many manuscripts add "through Jesus Christ".
-[^3-13]: Literally "in the heavenlies".
-[^3-14]: Literally "the purpose of the ages".
-[^3-15]: Or "through his faithfulness", that is, the faithfulness of Christ. Literally "through the faith of him".
-[^3-16]: Or "I pray that I may not lose heart".
-[^3-17]: Many manuscripts add "of our Lord Jesus Christ".
-[^3-18]: Greek *patria*, "family, clan, people", a word related to *pater*, "father". Or "the whole family".
-[^3-19]: Literally "into the inner man".
-[^3-20]: The SBLGNT's punctuation takes "in love" with Christ's dwelling in your hearts. Many translations read "… through faith, so that you, rooted and founded in love, may have strength …".
-[^3-21]: Literally "filled into all the fullness of God". Or "filled with all the fullness of God".
-[^3-22]: Many manuscripts leave out "and", reading "in the church in Christ Jesus".
-[^3-23]: Literally "to all the generations of the age of the ages".
+[^3-2]: Literally "if indeed you have heard".
+[^3-3]: Greek *oikonomia*, as in 1:10; here the task of a steward who manages what belongs to another.
+[^3-4]: Greek *mysterion*, a secret plan that was hidden until God revealed it; also in verses 4 and 9.
+[^3-5]: The SBLGNT here follows Holmes and a marginal reading of Westcott and Hort. Other editions and many manuscripts begin the verse with "that", making it what the readers have heard: "… given to me for you, that by revelation the mystery was made known to me".
+[^3-6]: Probably earlier in this letter (1:9–10; 2:11–22).
+[^3-7]: Literally "to the sons of men".
+[^3-8]: Greek *diakonos*, "servant", traditionally "minister".
+[^3-9]: Literally "the leaster", a comparative formed from a superlative.
+[^3-10]: Literally "the holy ones", traditionally "saints"; also in verse 18.
+[^3-11]: Some manuscripts leave out "for everyone", reading "to bring to light what is the plan …".
+[^3-12]: Greek *oikonomia*, as in verse 2 and 1:10.
+[^3-13]: Many manuscripts add "through Jesus Christ".
+[^3-14]: Literally "in the heavenlies".
+[^3-15]: Literally "the purpose of the ages".
+[^3-16]: Or "through his faithfulness", that is, the faithfulness of Christ. Literally "through the faith of him".
+[^3-17]: Or "I pray that I may not lose heart".
+[^3-18]: Many manuscripts add "of our Lord Jesus Christ".
+[^3-19]: Greek *patria*, "family, clan, people", a word related to *pater*, "father". Or "the whole family".
+[^3-20]: Literally "into the inner man".
+[^3-21]: The SBLGNT's punctuation takes "in love" with Christ's dwelling in your hearts. Many translations read "… through faith, so that you, rooted and founded in love, may have strength …".
+[^3-22]: Literally "filled into all the fullness of God". Or "filled with all the fullness of God".
+[^3-23]: Many manuscripts leave out "and", reading "in the church in Christ Jesus".
+[^3-24]: Literally "to all the generations of the age of the ages".
 
 ## Chapter 4
 
@@ -352,7 +353,7 @@
 
 **13** But everything that is exposed by the light becomes visible,
 
-**14** for everything that becomes visible is light.[^5-8] So it says,[^5-9] "Wake up, sleeper, and rise from the dead, and Christ will shine on you."[^5-10]
+**14** for everything that becomes visible is light.[^5-8] Therefore it says,[^5-9] "Wake up, sleeper, and rise from the dead, and Christ will shine on you."[^5-10]
 
 **15** So watch carefully how you live, not as unwise people but as wise,
 
@@ -378,7 +379,7 @@
 
 **26** to make her holy, cleansing her by the washing of water with the word,[^5-17]
 
-**27** so that he might present the church to himself in splendor, without spot or wrinkle or anything of the kind, but holy and blameless.
+**27** so that he might present the church to himself in splendor, without spot or wrinkle or anything of the kind, but so that she would be holy and blameless.
 
 **28** In the same way, husbands also ought to love their wives as their own bodies. He who loves his wife loves himself.
 

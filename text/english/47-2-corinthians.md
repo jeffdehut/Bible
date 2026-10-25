@@ -436,7 +436,7 @@
 
 **11** So now finish doing it, so that your eagerness to want it may be matched by your completing it, out of what you have.
 
-**12** For if the eagerness is there, the gift is acceptable according to what one has, not according to what one does not have.
+**12** For if the eagerness is there, it is acceptable according to what one has, not according to what one does not have.
 
 **13** For I do not mean that others should be relieved while you are burdened, but that there should be equality.
 

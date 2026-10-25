@@ -615,7 +615,7 @@
 
 **33** Who will bring a charge against God's chosen ones? It is God who declares righteous.[^8-25]
 
-**34** Who is to condemn? Christ[^8-26] is the one who died — more than that, who was raised — who is also at the right hand of God,[^8-27] who also intercedes for us.
+**34** Who is to condemn? Christ[^8-26] is the one who died—more than that, who was raised—who is also at the right hand of God,[^8-27] who also intercedes for us.
 
 **35** Who will separate us from the love of Christ? Will trouble, or distress, or persecution, or famine, or nakedness, or danger, or sword?
 
@@ -1148,7 +1148,7 @@
 
 **23** But now, since I no longer have any room for work in these regions, and since I have longed for several years[^15-16] to come to you,
 
-**24** whenever I go to Spain[^15-17] — for I hope to see you as I pass through and to be sent on my way there by you, once I have first enjoyed your company for a while —
+**24** whenever I go to Spain[^15-17]—for I hope to see you as I pass through and to be sent on my way there by you, once I have first enjoyed your company for a while —
 
 **25** but now I am going to Jerusalem to serve God's holy people.[^15-18]
 

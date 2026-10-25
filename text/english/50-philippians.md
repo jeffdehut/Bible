@@ -291,13 +291,13 @@
 
 **20** To our God and Father be the glory forever and ever.[^4-13] Amen.
 
-**21** Greet every one of God's holy people[^4-14] in Christ Jesus. The brothers and sisters who are with me greet you.
+**21** Greet every one of God's holy people[^4-14] in Christ Jesus. The brothers who are with me greet you.[^4-15]
 
-**22** All God's holy people greet you, especially those of Caesar's household.[^4-15]
+**22** All God's holy people greet you, especially those of Caesar's household.[^4-16]
 
-**23** The grace of the Lord Jesus Christ be with your spirit.[^4-16]
+**23** The grace of the Lord Jesus Christ be with your spirit.[^4-17]
 
-[^4-1]: Greek *adelphoi*, "brothers", used of the believers, men and women alike; also in verses 8 and 21.
+[^4-1]: Greek *adelphoi*, "brothers", used of the believers, men and women alike; also in verse 8.
 [^4-2]: Literally "to think the same thing".
 [^4-3]: Greek *syzygos*, "yokefellow, partner". It may also be a personal name: "true Syzygus".
 [^4-4]: Or "forbearance", "reasonableness".
@@ -311,5 +311,6 @@
 [^4-12]: Literally "a smell of fragrance", the language of the sacrifices in the Old Testament (Exodus 29:18; Leviticus 1:9).
 [^4-13]: Literally "to the ages of the ages".
 [^4-14]: Literally "every holy one", traditionally "every saint"; also "God's holy people" in verse 22.
-[^4-15]: That is, people in the emperor's service, whether slaves or freed slaves.
-[^4-16]: Many manuscripts read "be with you all. Amen."
+[^4-15]: Greek *adelphoi*, here Paul's companions; the word can include women.
+[^4-16]: That is, people in the emperor's service, whether slaves or freed slaves.
+[^4-17]: Many manuscripts read "be with you all. Amen."

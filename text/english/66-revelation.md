@@ -1086,75 +1086,213 @@
 
 *Status: draft*
 
-**1** After this I heard what sounded like the loud voice of a great crowd in heaven, saying, "Hallelujah![^19-a] Salvation and glory and power belong to our God,
+**1** After this I heard what sounded like the loud voice of a great crowd in heaven, saying, "Hallelujah![^19-1] Salvation and glory and power belong to our God,
 
-**2** for his judgments are true and just.[^19-b] He has judged the great prostitute who corrupted the earth with her sexual immorality, and he has avenged on her the blood of his servants."[^19-c]
+**2** for his judgments are true and just.[^19-2] He has judged the great prostitute who corrupted the earth with her sexual immorality, and he has avenged on her the blood of his servants."[^19-3]
 
-**3** And a second time they said, "Hallelujah! The smoke from her goes up forever and ever."[^19-d]
+**3** And a second time they said, "Hallelujah! The smoke from her goes up forever and ever."[^19-4]
 
-**4** Then the twenty-four elders and the four living creatures fell down and worshiped God, who is seated on the throne, saying, "Amen. Hallelujah!"[^19-e]
+**4** Then the twenty-four elders and the four living creatures fell down and worshiped God, who is seated on the throne, saying, "Amen. Hallelujah!"[^19-5]
 
-**5** And a voice came from the throne, saying, "Praise our God, all you his servants, you who fear him, small and great."[^19-f]
+**5** And a voice came from the throne, saying, "Praise our God, all you his servants, you who fear him, small and great."[^19-6]
 
-**6** Then I heard what sounded like the voice of a great crowd, like the sound of many waters and like the sound of mighty peals of thunder, saying, "Hallelujah! For the Lord God, the Almighty, reigns.[^19-g]
+**6** Then I heard what sounded like the voice of a great crowd, like the sound of many waters and like the sound of mighty peals of thunder, saying, "Hallelujah! For the Lord God, the Almighty, reigns.[^19-7]
 
-**7** Let us rejoice and be glad and give him the glory,[^19-h] for the wedding of the Lamb has come, and his bride[^19-i] has made herself ready.
+**7** Let us rejoice and be glad and give him the glory,[^19-8] for the wedding of the Lamb has come, and his bride[^19-9] has made herself ready.
 
-**8** She has been given fine linen, bright and clean, to wear." For the fine linen is the righteous deeds[^19-j] of God's holy people.[^19-k]
+**8** She has been given fine linen, bright and clean, to wear." For the fine linen is the righteous deeds[^19-10] of God's holy people.[^19-11]
 
-**9** Then the angel said to me,[^19-l] "Write: Blessed are those who are invited to the wedding banquet of the Lamb." And he said to me, "These are the true words of God."
+**9** Then the angel said to me,[^19-12] "Write: Blessed are those who are invited to the wedding banquet of the Lamb." And he said to me, "These are the true words of God."
 
-**10** Then I fell at his feet to worship him, but he said to me, "Don't do that! I am a fellow servant with you and with your brothers and sisters[^19-m] who hold to the testimony of Jesus.[^19-n] Worship God! For the testimony of Jesus is the spirit of prophecy."
+**10** Then I fell at his feet to worship him, but he said to me, "Don't do that! I am a fellow servant with you and with your brothers and sisters[^19-13] who hold to the testimony of Jesus.[^19-14] Worship God! For the testimony of Jesus is the spirit of prophecy."
 
-**11** Then I saw heaven standing open, and there was a white horse. Its rider is called Faithful and True, and in righteousness he judges and makes war.[^19-o]
+**11** Then I saw heaven standing open, and there was a white horse. Its rider is called Faithful and True, and in righteousness he judges and makes war.[^19-15]
 
-**12** His eyes were a flame of fire,[^19-p] and on his head were many diadems. He had a name written that no one knows except he himself.[^19-q]
+**12** His eyes were a flame of fire,[^19-16] and on his head were many diadems. He had a name written that no one knows except he himself.[^19-17]
 
-**13** He was dressed in a robe dipped in blood,[^19-r] and his name is called the Word of God.[^19-s]
+**13** He was dressed in a robe dipped in blood,[^19-18] and his name is called the Word of God.[^19-19]
 
 **14** The armies of heaven, dressed in fine linen, white and clean, were following him on white horses.
 
-**15** Out of his mouth came a sharp sword[^19-t] with which to strike down the nations,[^19-u] and he will rule them with an iron rod.[^19-v] He treads the winepress of the wine of the fury of the anger of God Almighty.[^19-w]
+**15** Out of his mouth came a sharp sword[^19-20] with which to strike down the nations,[^19-21] and he will rule them with an iron rod.[^19-22] He treads the winepress of the wine of the fury of the anger of God Almighty.[^19-23]
 
-**16** On his robe and on his thigh he has a name written: King of kings and Lord of lords.[^19-x]
+**16** On his robe and on his thigh he has a name written: King of kings and Lord of lords.[^19-24]
 
-**17** Then I saw an angel[^19-y] standing in the sun, and he called out with a loud voice to all the birds flying in midheaven, "Come, gather for the great banquet of God,
+**17** Then I saw an angel[^19-25] standing in the sun, and he called out with a loud voice to all the birds flying in midheaven, "Come, gather for the great banquet of God,
 
-**18** to eat the flesh of kings, the flesh of generals,[^19-z] the flesh of the mighty, the flesh of horses and their riders, and the flesh of all people, free and slave, small and great."[^19-aa]
+**18** to eat the flesh of kings, the flesh of generals,[^19-26] the flesh of the mighty, the flesh of horses and their riders, and the flesh of all people, free and slave, small and great."[^19-27]
 
-**19** Then I saw the beast and the kings of the earth and their armies gathered to make war against the rider on the horse and against his army.[^19-ab]
+**19** Then I saw the beast and the kings of the earth and their armies gathered to make war against the rider on the horse and against his army.[^19-28]
 
-**20** But the beast was captured, and with it the false prophet who had performed the signs on its behalf,[^19-ac] by which he deceived those who had received the mark of the beast and those who worshiped its image. The two of them were thrown alive into the lake of fire that burns with sulfur.[^19-ad]
+**20** But the beast was captured, and with it the false prophet who had performed the signs on its behalf,[^19-29] by which he deceived those who had received the mark of the beast and those who worshiped its image. The two of them were thrown alive into the lake of fire that burns with sulfur.[^19-30]
 
 **21** The rest were killed by the sword that came out of the mouth of the rider on the horse, and all the birds gorged themselves on their flesh.
 
-[^19-a]: Greek *hallelouia*, from the Hebrew *hallelu-yah*, "Praise Yah!" (as in Psalms 104:35; 106:48; 146–150). *Yah* is a short form of God's personal name, Yahweh. In the New Testament the word occurs only in verses 1–6 of this chapter.
-[^19-aa]: Compare Ezekiel 39:17–20, "Say to the birds of every kind and to all the wild animals, 'Assemble and come! … You will eat the flesh of the mighty and drink the blood of the princes of the earth'".
-[^19-ab]: Compare Psalm 2:2, "The kings of the earth take their stand … against Yahweh and against his anointed one".
-[^19-ac]: Literally "before it". See 13:12–14.
-[^19-ad]: Compare Daniel 7:11, "the beast was killed, and its body destroyed and given over to the burning fire".
-[^19-b]: See 16:7.
-[^19-c]: Literally "from her hand". Compare Deuteronomy 32:43, "for he will avenge the blood of his servants"; 2 Kings 9:7, of Jezebel.
-[^19-d]: Compare Isaiah 34:10, "its smoke will go up forever". See 14:11.
-[^19-e]: Compare Psalm 106:48, "Let all the people say, 'Amen!' Praise Yah!"
-[^19-f]: Compare Psalm 135:1, "praise him, you servants of Yahweh"; 135:20, "You who fear Yahweh, bless Yahweh!"; 115:13.
-[^19-g]: Or "has begun to reign". Compare Psalms 93:1; 97:1; 99:1, "Yahweh reigns!", where the Greek Old Testament has the same verb. In the Hebrew, "the Lord" there is God's personal name, Yahweh. The SBLGNT here follows the margin of Westcott and Hort; the other editions read "the Lord our God, the Almighty".
-[^19-h]: Some manuscripts read "and we will give him the glory".
-[^19-i]: Literally "his wife". Compare Isaiah 54:5–6; 62:5; Hosea 2:21–22 (2:19–20 in most English Bibles), where God is the husband of his people.
-[^19-j]: Greek *dikaiomata*, "righteous acts". Compare Isaiah 61:10, "he has clothed me with garments of salvation and wrapped me in a robe of righteousness".
-[^19-k]: Literally "of the holy ones", traditionally "of the saints".
-[^19-l]: Literally "he said to me", probably the angel of 17:1.
-[^19-m]: Greek *adelphoi*, "brothers", used of the believers, men and women alike.
-[^19-n]: Or "the testimony about Jesus"; also later in the verse.
-[^19-o]: Compare Isaiah 11:4, "He will judge the poor with righteousness"; Psalm 96:13.
-[^19-p]: Some manuscripts read "like a flame of fire", as in 1:14.
-[^19-q]: Many manuscripts read "He had names written, and a name written that no one knows except he himself."
-[^19-r]: Some manuscripts read "sprinkled with blood". Compare Isaiah 63:1–3, "Why is your clothing red, and your garments like those of one who treads in the winepress?"
-[^19-s]: Compare John 1:1, 14.
-[^19-t]: Many manuscripts read "a sharp two-edged sword", as in 1:16.
-[^19-u]: Compare Isaiah 11:4, "He will strike the earth with the rod of his mouth".
-[^19-v]: Psalm 2:9. See the note on 2:27.
-[^19-w]: Compare Isaiah 63:3, "I have trodden the winepress alone". See 14:19–20.
-[^19-x]: See 17:14; Deuteronomy 10:17.
-[^19-y]: Literally "one angel".
-[^19-z]: Greek *chiliarchoi*, "commanders of a thousand". See 6:15.
+[^19-1]: Greek *hallelouia*, from the Hebrew *hallelu-yah*, "Praise Yah!" (as in Psalms 104:35; 106:48; 146–150). *Yah* is a short form of God's personal name, Yahweh. In the New Testament the word occurs only in verses 1–6 of this chapter.
+[^19-2]: See 16:7.
+[^19-3]: Literally "from her hand". Compare Deuteronomy 32:43, "for he will avenge the blood of his servants"; 2 Kings 9:7, of Jezebel.
+[^19-4]: Compare Isaiah 34:10, "its smoke will go up forever". See 14:11.
+[^19-5]: Compare Psalm 106:48, "Let all the people say, 'Amen!' Praise Yah!"
+[^19-6]: Compare Psalm 135:1, "praise him, you servants of Yahweh"; 135:20, "You who fear Yahweh, bless Yahweh!"; 115:13.
+[^19-7]: Or "has begun to reign". Compare Psalms 93:1; 97:1; 99:1, "Yahweh reigns!", where the Greek Old Testament has the same verb. In the Hebrew, "the Lord" there is God's personal name, Yahweh. The SBLGNT here follows the margin of Westcott and Hort; the other editions read "the Lord our God, the Almighty".
+[^19-8]: Some manuscripts read "and we will give him the glory".
+[^19-9]: Literally "his wife". Compare Isaiah 54:5–6; 62:5; Hosea 2:21–22 (2:19–20 in most English Bibles), where God is the husband of his people.
+[^19-10]: Greek *dikaiomata*, "righteous acts". Compare Isaiah 61:10, "he has clothed me with garments of salvation and wrapped me in a robe of righteousness".
+[^19-11]: Literally "of the holy ones", traditionally "of the saints".
+[^19-12]: Literally "he said to me", probably the angel of 17:1.
+[^19-13]: Greek *adelphoi*, "brothers", used of the believers, men and women alike.
+[^19-14]: Or "the testimony about Jesus"; also later in the verse.
+[^19-15]: Compare Isaiah 11:4, "He will judge the poor with righteousness"; Psalm 96:13.
+[^19-16]: Some manuscripts read "like a flame of fire", as in 1:14.
+[^19-17]: Many manuscripts read "He had names written, and a name written that no one knows except he himself."
+[^19-18]: Some manuscripts read "sprinkled with blood". Compare Isaiah 63:1–3, "Why is your clothing red, and your garments like those of one who treads in the winepress?"
+[^19-19]: Compare John 1:1, 14.
+[^19-20]: Many manuscripts read "a sharp two-edged sword", as in 1:16.
+[^19-21]: Compare Isaiah 11:4, "He will strike the earth with the rod of his mouth".
+[^19-22]: Psalm 2:9. See the note on 2:27.
+[^19-23]: Compare Isaiah 63:3, "I have trodden the winepress alone". See 14:19–20.
+[^19-24]: See 17:14; Deuteronomy 10:17.
+[^19-25]: Literally "one angel".
+[^19-26]: Greek *chiliarchoi*, "commanders of a thousand". See 6:15.
+[^19-27]: Compare Ezekiel 39:17–20, "Say to the birds of every kind and to all the wild animals, 'Assemble and come! … You will eat the flesh of the mighty and drink the blood of the princes of the earth'".
+[^19-28]: Compare Psalm 2:2, "The kings of the earth take their stand … against Yahweh and against his anointed one".
+[^19-29]: Literally "before it". See 13:12–14.
+[^19-30]: Compare Daniel 7:11, "the beast was killed, and its body destroyed and given over to the burning fire".
+
+## Chapter 20
+
+*Status: draft*
+
+**1** Then I saw an angel coming down from heaven, holding in his hand the key to the abyss[^20-1] and a great chain.
+
+**2** He seized the dragon, that ancient serpent, who is the devil and Satan,[^20-2] and bound him for a thousand years.
+
+**3** He threw him into the abyss, and locked it and sealed it over him, so that he would no longer deceive the nations until the thousand years were ended. After that he must be released for a short time.
+
+**4** Then I saw thrones, and those seated on them were given authority to judge.[^20-3] I also saw the souls of those who had been beheaded because of their testimony to Jesus[^20-4] and because of the word of God, and those who had not worshiped the beast or its image and had not received its mark on their foreheads or on their hands. They came to life and reigned with the Messiah[^20-5] for a thousand years.
+
+**5** The rest of the dead did not come to life until the thousand years were ended. This is the first resurrection.
+
+**6** Blessed and holy is the one who has a share in the first resurrection. Over these the second death has no authority, but they will be priests of God and of the Messiah, and they will reign with him for a thousand years.
+
+**7** When the thousand years are ended, Satan will be released from his prison,
+
+**8** and he will go out to deceive the nations at the four corners of the earth, Gog and Magog,[^20-6] to gather them for battle. Their number is like the sand of the sea.
+
+**9** They marched up across the breadth of the earth and surrounded the camp of God's holy people[^20-7] and the beloved city. But fire came down from heaven[^20-8] and consumed them.
+
+**10** And the devil, who had deceived them, was thrown into the lake of fire and sulfur, where the beast and the false prophet also were,[^20-9] and they will be tormented day and night forever and ever.
+
+**11** Then I saw a great white throne and the One seated on it. Earth and heaven fled from his presence, and no place was found for them.[^20-10]
+
+**12** And I saw the dead, great and small, standing before the throne, and books[^20-11] were opened. Another book was opened, which is the book of life.[^20-12] The dead were judged according to their works, by what was written in the books.[^20-13]
+
+**13** The sea gave up the dead that were in it, and Death and Hades[^20-14] gave up the dead that were in them, and each person was judged according to their works.
+
+**14** Then Death and Hades were thrown into the lake of fire. This is the second death, the lake of fire.
+
+**15** And anyone who was not found written in the book of life was thrown into the lake of fire.
+
+[^20-1]: See 9:1.
+[^20-2]: Many manuscripts add "who deceives the whole world", as in 12:9.
+[^20-3]: Literally "and they sat on them, and judgment was given to them". Compare Daniel 7:9, "thrones were set in place", and 7:22, "judgment was given in favor of the holy ones of the Most High".
+[^20-4]: Or "the testimony of Jesus". See 1:2.
+[^20-5]: Greek *tou christou*, "the Christ"; also in verse 6. See 11:15.
+[^20-6]: Compare Ezekiel 38–39, where Gog, "of the land of Magog", leads the nations against Israel. Here both names stand for the nations.
+[^20-7]: Literally "the holy ones", traditionally "the saints".
+[^20-8]: Many manuscripts read "fire came down from God out of heaven". Compare Ezekiel 38:22; 39:6, "I will send fire on Magog"; 2 Kings 1:10.
+[^20-9]: The Greek has no verb here; "were" is supplied.
+[^20-10]: Compare Daniel 2:35, "not a trace of them could be found".
+[^20-11]: Greek *biblia*, the plural of the word translated "scroll" elsewhere in Revelation. Compare Daniel 7:10, "and the books were opened".
+[^20-12]: Literally "which is of life". See 3:5.
+[^20-13]: Compare Psalm 62:13 (62:12 in most English Bibles), "For you repay each person according to what he has done"; Jeremiah 17:10.
+[^20-14]: Greek *Hades*, the realm of the dead, like the Hebrew Sheol; also in verse 14.
+
+## Chapter 21
+
+*Status: draft*
+
+**1** Then I saw a new heaven and a new earth,[^21-1] for the first heaven and the first earth had passed away, and the sea was no more.
+
+**2** And I saw the holy city, the new Jerusalem, coming down out of heaven from God, prepared as a bride adorned for her husband.[^21-2]
+
+**3** And I heard a loud voice from the throne[^21-3] saying, "Look, God's dwelling[^21-4] is with humankind. He will dwell with them, and they will be his peoples,[^21-5] and God himself will be with them.[^21-6]
+
+**4** He will wipe away every tear from their eyes.[^21-7] Death will be no more, and there will be no more mourning or crying or pain. The former things have passed away."[^21-8]
+
+**5** Then the One seated on the throne said, "Look, I am making all things new."[^21-9] And he said,[^21-10] "Write this, for these words are trustworthy and true."
+
+**6** Then he said to me, "They are done![^21-11] I am the Alpha and the Omega,[^21-12] the beginning and the end. To the thirsty I will give water from the spring of the water of life, without cost.[^21-13]
+
+**7** The one who conquers will inherit these things, and I will be his God, and he will be my son.[^21-14]
+
+**8** But as for the cowardly, the faithless,[^21-15] the detestable, murderers, the sexually immoral, sorcerers, idolaters and all liars, their share will be in the lake that burns with fire and sulfur, which is the second death."
+
+**9** Then one of the seven angels who had the seven bowls full of the seven last plagues came and said to me,[^21-16] "Come, I will show you the bride, the wife of the Lamb."
+
+**10** And he carried me away in the Spirit[^21-17] to a great, high mountain,[^21-18] and showed me the holy city Jerusalem[^21-19] coming down out of heaven from God,
+
+**11** having the glory of God.[^21-20] Its radiance was like a most precious stone, like jasper, clear as crystal.
+
+**12** It had a great, high wall with twelve gates, and at the gates twelve angels, and on the gates were written names, the names of the twelve tribes of the Israelites.[^21-21]
+
+**13** There were three gates on the east, three gates on the north, three gates on the south and three gates on the west.
+
+**14** The wall of the city had twelve foundations, and on them were the twelve names of the twelve apostles of the Lamb.
+
+**15** The one who was speaking with me had a golden measuring reed to measure the city and its gates and its wall.[^21-22]
+
+**16** The city was laid out as a square; its length was the same as its width. He measured the city with the reed: 12,000 stadia.[^21-23] Its length and width and height are equal.
+
+**17** He also measured its wall: 144 cubits[^21-24] by human measure, which is also an angel's measure.[^21-25]
+
+**18** The wall was built of jasper, and the city was pure gold, like clear glass.
+
+**19** The foundations of the city wall were adorned with every kind of precious stone. The first foundation was jasper, the second sapphire, the third chalcedony, the fourth emerald,
+
+**20** the fifth sardonyx, the sixth carnelian, the seventh chrysolite, the eighth beryl, the ninth topaz, the tenth chrysoprase, the eleventh jacinth and the twelfth amethyst.[^21-26]
+
+**21** The twelve gates were twelve pearls; each of the gates was made of a single pearl. And the street of the city was pure gold, like transparent glass.
+
+**22** I saw no temple in the city, for its temple is the Lord God Almighty and the Lamb.
+
+**23** The city has no need of the sun or the moon to shine on it, for the glory of God gives it light, and its lamp is the Lamb.[^21-27]
+
+**24** The nations will walk by its light, and the kings of the earth bring their glory into it.[^21-28]
+
+**25** Its gates will never be shut by day, for there will be no night there.[^21-29]
+
+**26** They will bring the glory and the honor of the nations into it.
+
+**27** But nothing unclean will ever enter it,[^21-30] nor anyone who does what is detestable or false, but only those who are written in the Lamb's book of life.
+
+[^21-1]: Isaiah 65:17, "For look, I am creating new heavens and a new earth"; 66:22.
+[^21-2]: Compare Isaiah 52:1; 61:10, "as a bride adorns herself with her jewels"; 62:1–5.
+[^21-3]: Many manuscripts read "from heaven".
+[^21-4]: Greek *skene*, "tent, tabernacle". *Dwell* is the related verb *skenoo* (see 7:15).
+[^21-5]: Many manuscripts read "his people".
+[^21-6]: Some manuscripts read "will be with them as their God". Compare Leviticus 26:11–12, "I will walk among you and be your God, and you will be my people"; Ezekiel 37:27; Zechariah 2:14 (2:10 in most English Bibles).
+[^21-7]: Isaiah 25:8. See 7:17.
+[^21-8]: Many manuscripts read "for the former things have passed away". Compare Isaiah 35:10; 65:17, 19, "the sound of weeping and the sound of crying will no longer be heard in it".
+[^21-9]: Compare Isaiah 43:19, "Look, I am doing a new thing!"
+[^21-10]: Many manuscripts read "And he said to me".
+[^21-11]: Literally "They have come to be". Many manuscripts read *gegona*, a first-person form, "I have come to be".
+[^21-12]: See 1:8.
+[^21-13]: Compare Isaiah 55:1, "Come, all you who are thirsty, come to the waters! … without money and without cost."
+[^21-14]: Compare 2 Samuel 7:14, God's promise to David's heir, "I will be his father, and he will be my son."
+[^21-15]: Many manuscripts add "and sinners".
+[^21-16]: Literally "spoke with me, saying". See 17:1.
+[^21-17]: Or "in the spirit". See 1:10.
+[^21-18]: Compare Ezekiel 40:2, "and set me down on a very high mountain, and on it … was something like the structure of a city".
+[^21-19]: Many manuscripts read "the great city, the holy Jerusalem".
+[^21-20]: Compare Isaiah 60:1–2, "and the glory of Yahweh has risen on you"; Ezekiel 43:2–5.
+[^21-21]: Compare Ezekiel 48:30–35, "the gates of the city will be named after the tribes of Israel".
+[^21-22]: Compare Ezekiel 40:3, 5.
+[^21-23]: About 1,400 miles (2,200 kilometers). A *stadion* was about 600 feet (185 meters).
+[^21-24]: About 216 feet (65 meters). A cubit was about 18 inches (45 cm).
+[^21-25]: Or "by a human measure, which the angel was using".
+[^21-26]: Compare the twelve stones of the high priest's breastpiece, Exodus 28:17–20, and Isaiah 54:11–12, "and lay your foundations with sapphires". The modern names of some of these stones are uncertain.
+[^21-27]: Compare Isaiah 60:19–20, "The sun will no longer be your light by day … But Yahweh will be your everlasting light".
+[^21-28]: Compare Isaiah 60:3, 5, "Nations will come to your light, and kings to the brightness of your dawn". Many manuscripts read "the kings of the earth bring to it the glory and honor of the nations".
+[^21-29]: Compare Isaiah 60:11, "Your gates will always stand open; day and night they will not be shut"; Zechariah 14:7.
+[^21-30]: Compare Isaiah 52:1, "For the uncircumcised and the unclean will never enter you again."

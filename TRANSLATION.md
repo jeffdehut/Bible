@@ -131,7 +131,8 @@ from the Hebrew.
   shepherd") simply takes "is" or "are" in English, with no note.
 - Narrative is in the past tense, including Greek and Hebrew historic presents. Mark's εὐθύς is
   "at once" or "immediately", not always "and immediately".
-- American spelling: "honor", "neighbor", "forever", "worshiped", "judgment".
+- American spelling: "honor", "neighbor", "forever", "worshiped", "judgment". Dashes are
+  unspaced em dashes ("this—that"); ranges of verses take an en dash ("1–3").
 - Poetry keeps its parallel lines and its images. Each verse is still one line in the file.
 - Divine name: every יהוה is "Yahweh", whatever its vowels (יְהוִה too). Theophoric
   names (Jonathan, Elijah) are spelled as in most English Bibles.
@@ -212,7 +213,8 @@ from the Hebrew.
     "The SBLGNT here follows Westcott and Hort; other editions read …".
   - The apparatus records editions, not manuscripts, so notes don't claim more ("the earliest
     manuscripts"). The exception is the few famous passages whose manuscript evidence is well
-    documented (Mark 16:8–20, John 7:53–8:11, John 1:18), where the major witnesses may be named.
+    documented (Mark 16:8–20, John 7:53–8:11, John 1:18, 1 Corinthians 14:34–35), where the major
+    witnesses may be named.
   Check the single-word variants too: one word can change the meaning (Mark 1:41).
   - Text the SBLGNT prints in double brackets ⟦ ⟧ (Mark 16:9–20, John 7:53–8:11) keeps them in
     the translation, with a note on the manuscript evidence, as in Mark 16. Single brackets [ ]

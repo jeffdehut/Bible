@@ -841,7 +841,7 @@
 [^11-10]: Compare Genesis 2:18.
 [^11-11]: Or "on her head". Greek *exousia*, "authority, right, power", the word translated "right" in 8:9 and 9:4–18. Interpreters understand it here either as the woman's own authority (her right to decide about her head, or her authority to pray and prophesy), or as a sign of authority worn on the head, that is, a head covering. Many translations supply "a symbol of authority" or "a sign of authority". The Greek has no such words.
 [^11-12]: The meaning is uncertain. Suggestions include angels thought to be present at worship and to watch over its order, and the "sons of God" of Genesis 6:1–4, understood in Jewish tradition as angels drawn by human women.
-[^11-13]: Or "instead of a covering". Greek *anti*. Other editions read "has been given to her".
+[^11-13]: Or "instead of a covering". Greek *anti*. The SBLGNT here follows the Byzantine text; other editions read "has been given to her".
 [^11-14]: "No such practice" may mean women praying with their heads uncovered, or the habit of being contentious.
 [^11-15]: Literally "you come together not for the better but for the worse".
 [^11-16]: Or "in assembly". Greek *ekklesia*.
@@ -1179,7 +1179,7 @@
 
 **38** But God gives it a body as he has chosen, and to each kind of seed its own body.
 
-**39** Not all flesh is the same: there is one kind for human beings, another flesh for animals, another flesh for birds, and another for fish.
+**39** Not all flesh is the same: human beings have one kind of flesh, animals another, birds another, and fish another.
 
 **40** There are also heavenly bodies and earthly bodies, but the glory[^15-29] of the heavenly is one kind and the glory of the earthly is another.
 
@@ -1240,9 +1240,9 @@
 [^15-19]: Compare Psalm 110:1.
 [^15-20]: Psalm 8:7 (8:6 in most English Bibles).
 [^15-21]: Or "when he says", meaning God.
-[^15-22]: Or "will subject himself to". Greek *hypotasso*, the verb translated "put under" throughout verses 27–28. Other editions read "then the Son himself also".
+[^15-22]: Or "will subject himself to". Greek *hypotasso*, the verb translated "put under" throughout verses 27–28. Many manuscripts read "then the Son himself also".
 [^15-23]: Baptism "on behalf of the dead" is not mentioned anywhere else in the New Testament or in other early Christian writings, and its meaning is unknown. Many explanations have been proposed: for example, that some believers were baptized in place of people who had died without being baptized; that people were baptized for the sake of believers who had died, hoping to be reunited with them; or that the phrase refers to being baptized in view of one's own death. Greek *hyper*, "for, on behalf of, for the sake of".
-[^15-24]: Literally "by your boasting", an oath formula: Paul swears by his pride in them. Other editions add "brothers and sisters".
+[^15-24]: Literally "by your boasting", an oath formula: Paul swears by his pride in them. The SBLGNT here follows the Byzantine text; other editions add "brothers and sisters".
 [^15-25]: Literally "according to a human being". It may mean "with merely human hopes", or "speaking in human terms".
 [^15-26]: This may be a figure of speech for fierce opponents, or refer to a real danger in the arena.
 [^15-27]: Isaiah 22:13.

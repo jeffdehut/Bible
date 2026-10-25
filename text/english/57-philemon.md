@@ -1,0 +1,81 @@
+# Philemon
+
+> **Text:** Open Plain English Translation. License: CC BY 4.0. New Testament translated from the SBL Greek New Testament (CC BY 4.0, © 2010 Society of Biblical Literature and Logos Bible Software); Old Testament from the Unicode/XML Leningrad Codex (UXLC 2.6, Tanach.us).  
+> Chapters show their review status: *draft*, *checked*, *reviewed* or *approved*. See TRANSLATION.md.
+
+## Chapter 1
+
+*Status: draft*
+
+**1** Paul, a prisoner of Christ Jesus,[^1-1] and Timothy our brother, to Philemon our beloved friend and fellow worker,
+
+**2** and to Apphia our sister,[^1-2] and to Archippus our fellow soldier, and to the church in your house:[^1-3]
+
+**3** Grace to you and peace from God our Father and the Lord Jesus Christ.
+
+**4** I always thank my God when I mention you in my prayers,
+
+**5** because I hear of your love and of the faith that you have toward the Lord Jesus and for all God's holy people,[^1-4]
+
+**6** and I pray[^1-5] that your sharing of the faith may become effective through the knowledge of every good thing that is in us for Christ.[^1-6]
+
+**7** For I have had great joy and encouragement[^1-7] from your love, because the hearts[^1-8] of God's holy people have been refreshed through you, brother.
+
+**8** So, although in Christ I am bold enough to command you to do what is proper,
+
+**9** yet for love's sake I prefer to appeal to you, being who I am, Paul, an old man,[^1-9] and now also a prisoner of Christ Jesus.
+
+**10** I appeal to you for my child, whom I fathered in my chains:[^1-10] Onesimus,[^1-11]
+
+**11** who formerly was useless to you, but now is useful both to you and to me.[^1-12]
+
+**12** I am sending him back to you,[^1-13] him, that is, my own heart.[^1-14]
+
+**13** I would have liked to keep him with me, so that he might serve me on your behalf during my imprisonment for the good news,[^1-15]
+
+**14** but I did not want to do anything without your consent, so that your good deed would not be done under compulsion but willingly.
+
+**15** For perhaps this is why he was separated from you for a while, so that you might have him back forever,
+
+**16** no longer as a slave[^1-16] but more than a slave, as a beloved brother, especially to me, but how much more to you, both in the flesh and in the Lord.[^1-17]
+
+**17** So if you consider me your partner, welcome him as you would welcome me.
+
+**18** If he has wronged you at all, or owes you anything, charge that to my account.
+
+**19** I, Paul, am writing this with my own hand:[^1-18] I will repay it. Not to mention that you owe me even your own self.
+
+**20** Yes, brother, let me have some benefit[^1-19] from you in the Lord. Refresh my heart in Christ.[^1-20]
+
+**21** Confident of your obedience, I am writing to you, knowing that you will do even more than I say.
+
+**22** At the same time, prepare a guest room for me, for I hope that through your prayers I will be given back to you.[^1-21]
+
+**23** Epaphras, my fellow prisoner in Christ Jesus, greets you,
+
+**24** as do Mark, Aristarchus, Demas and Luke, my fellow workers.
+
+**25** The grace of the Lord Jesus Christ be with your spirit.[^1-22]
+
+[^1-1]: *Christ*: Greek *Christos*, "anointed one", the Greek equivalent of "Messiah". In Paul's letters it usually works as a name, so this translation writes "Christ". Paul's order, "Christ Jesus" or "Jesus Christ", is kept as the Greek has it.
+[^1-2]: Many manuscripts read "to beloved Apphia".
+[^1-3]: "Your" is singular here, addressed to Philemon, and so is "you" through verse 21. In verses 3, 22 and 25 "you" is plural.
+[^1-4]: Literally "the holy ones", traditionally "saints"; also in verse 7. The order of the Greek, "your love and the faith that you have toward the Lord Jesus and for all the holy ones", may pair the love with God's holy people and the faith with the Lord Jesus. *Faith*: Greek *pistis* can also mean "faithfulness".
+[^1-5]: Literally "so that", continuing from "in my prayers" in verse 4.
+[^1-6]: The Greek of this verse is difficult. *Your sharing of the faith* (Greek *koinonia*, "sharing, fellowship, partnership") may mean the fellowship with others that comes from your faith, the generosity that springs from it, or your sharing of it with others. *For Christ*: or "that leads us to Christ", or "for the glory of Christ".
+[^1-7]: Many manuscripts read "For we have great thanks and encouragement".
+[^1-8]: Literally "the inward parts", the seat of the deepest feelings; also in verses 12 and 20.
+[^1-9]: Greek *presbytes*, "old man". Some interpreters take it to mean "ambassador" (*presbeutes*, a word spelled almost the same; compare Ephesians 6:20).
+[^1-10]: That is, who became a believer through Paul while Paul was in prison.
+[^1-11]: The name *Onesimus*, a common name for slaves, means "useful, beneficial". In the Greek it comes at the end of the sentence.
+[^1-12]: There is a play on the name Onesimus: once *achrestos*, "useless", now *euchrestos*, "useful". In the Greek of the time *chrestos*, "useful, good", was pronounced much like *Christos*, "Christ", and some hear a further play on that word.
+[^1-13]: Literally "I sent back", written from the point of view of the reader, who will receive the letter with Onesimus. The verb can also mean "refer to a higher authority". Many manuscripts read "I have sent him back. So receive him, that is, my own heart."
+[^1-14]: Literally "my own inward parts".
+[^1-15]: Literally "in the chains of the good news".
+[^1-16]: Greek *doulos*, "slave", also later in the verse.
+[^1-17]: That is, both in ordinary human life, as a member of your household, and as a fellow believer.
+[^1-18]: Literally "I wrote", written from the point of view of the reader; also in verse 21. Paul usually dictated his letters and wrote some words himself (compare Colossians 4:18; 2 Thessalonians 3:17).
+[^1-19]: Greek *onaimen*, "may I have benefit", from the same root as the name Onesimus.
+[^1-20]: Many manuscripts read "in the Lord".
+[^1-21]: "Your" and "you" are plural here.
+[^1-22]: "Your" is plural. Many manuscripts read "the grace of our Lord Jesus Christ" and add "Amen".

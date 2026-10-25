@@ -87,7 +87,7 @@
 
 **5** we did not give in to them and submit even for a moment, so that the truth of the good news might remain with you.
 
-**6** And from those who were regarded as important — what they once were makes no difference to me; God shows no partiality[^2-3] — for those leaders added nothing to my message.[^2-4]
+**6** And from those who were regarded as important—what they once were makes no difference to me; God shows no partiality[^2-3]—for those leaders added nothing to my message.[^2-4]
 
 **7** On the contrary, they saw that I had been entrusted with the good news for the uncircumcised, just as Peter had been with the good news for the circumcised
 
