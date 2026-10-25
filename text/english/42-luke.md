@@ -101,7 +101,7 @@
 
 **47** and my spirit has rejoiced in God my Savior,
 
-**48** for he has looked with favor on the lowliness[^1-33] of his servant. From now on all generations will call me blessed,
+**48** for he has looked with favor on the lowliness[^1-33] of his servant. Yes, from now on all generations will call me blessed,
 
 **49** for the Mighty One has done great things for me, and holy is his name.
 
@@ -1646,7 +1646,7 @@
 
 **20** Again he said, "What shall I compare the kingdom of God to?
 
-**21** It is like yeast that a woman took and mixed[^13-11] into three measures[^13-12] of flour until all of it was leavened."
+**21** It is like yeast that a woman took and mixed[^13-11] into three seahs[^13-12] of flour until all of it was leavened."
 
 **22** Jesus went through towns and villages, teaching as he made his way to Jerusalem.
 
@@ -1672,7 +1672,7 @@
 
 **33** Yet I must keep going today, tomorrow, and the next day, because it is not possible for a prophet to perish outside Jerusalem.
 
-**34** "Jerusalem, Jerusalem, you who kill the prophets and stone those sent to you! How often I have wanted to gather your children together as a hen gathers her brood under her wings, but you were not willing!
+**34** "Jerusalem, Jerusalem, you who kill the prophets and stone those sent to you! How often I have wanted to gather your children together, as a hen gathers her brood under her wings, and you were not willing!
 
 **35** Look, your house is left to you.[^13-19] And I tell you, you will not see me until the time comes when you say, 'Blessed is the one who comes in the name of the Lord!'"[^13-20]
 
@@ -1685,9 +1685,9 @@
 [^13-7]: Literally "has bound, look, eighteen years".
 [^13-8]: Or "untied", the same verb as "untie" in verse 15.
 [^13-9]: Many manuscripts read "a large tree".
-[^13-10]: Compare Ezekiel 17:23; 31:6; Daniel 4:9, 18 (4:12, 21 in most English Bibles).
+[^13-10]: Compare Ezekiel 17:23; Daniel 4:9, 18 (4:12, 21 in most English Bibles).
 [^13-11]: Literally "hid".
-[^13-12]: Greek *sata*. A *saton* was about 13 liters (3 gallons), so three of them made a very large amount of flour.
+[^13-12]: Greek *sata*, from the Hebrew *seah*. A seah is about 7 quarts (7 liters), so three seahs is about 20 quarts (22 liters).
 [^13-13]: Many manuscripts read "the narrow gate".
 [^13-14]: Many manuscripts read "Lord, Lord".
 [^13-15]: Literally "in front of you".
@@ -1721,7 +1721,7 @@
 
 **10** Instead, when you are invited, go and sit in the lowest place, so that when your host comes, he will say to you, 'Friend, move up higher.' Then you will be honored in front of all who are at the table with you.[^14-4]
 
-**11** For all who exalt themselves will be humbled, and those who humble themselves will be exalted."
+**11** For everyone who exalts themselves will be humbled, and whoever humbles themselves will be exalted."
 
 **12** He also said to the man who had invited him, "When you give a lunch or a dinner, don't invite your friends, your brothers, your relatives, or your rich neighbors. Otherwise they may invite you in return, and so you will be repaid.
 
@@ -1781,7 +1781,7 @@
 [^14-8]: Many manuscripts add "For many are called, but few are chosen."
 [^14-9]: In biblical idiom, "hate" can mean "love less" or "put second" (compare Genesis 29:30–31).
 [^14-10]: Greek *psyche*, life, soul, self.
-[^14-11]: The Greek verb can also mean "become foolish".
+[^14-11]: The Greek verb also means "become foolish".
 
 ## Chapter 15
 
@@ -1870,7 +1870,7 @@
 
 *Status: draft*
 
-**1** Jesus also said to the disciples, "There was a rich man who had a manager, and this manager was accused to him of squandering his possessions.
+**1** Jesus also said to the disciples, "There was a rich man who had a manager,[^16-1] and this manager was accused to him of squandering his possessions.
 
 **2** So he called him in and said to him, 'What is this I hear about you? Give an account of your management, because you can no longer serve as manager.'
 
@@ -1880,29 +1880,29 @@
 
 **5** So he summoned each one of his master's debtors. He said to the first, 'How much do you owe my master?'
 
-**6** He said, 'A hundred baths[^16-1] of olive oil.' The manager said to him, 'Take your bill, sit down quickly, and write fifty.'
+**6** He said, 'A hundred baths[^16-2] of olive oil.' The manager said to him, 'Take your bill, sit down quickly, and write fifty.'
 
-**7** Then he said to another, 'And how much do you owe?' He said, 'A hundred kors[^16-2] of wheat.' The manager said to him, 'Take your bill and write eighty.'
+**7** Then he said to another, 'And how much do you owe?' He said, 'A hundred kors[^16-3] of wheat.' The manager said to him, 'Take your bill and write eighty.'
 
-**8** And the master[^16-3] praised the dishonest manager because he had acted shrewdly. For the people of this age are shrewder in dealing with their own kind than the people of the light.[^16-4]
+**8** And the master[^16-4] praised the dishonest manager because he had acted shrewdly. For the people of this age are shrewder in dealing with their own kind than the people of the light.[^16-5]
 
-**9** And I tell you, make friends for yourselves by means of dishonest wealth,[^16-5] so that when it is gone,[^16-6] they will welcome you into the eternal dwellings.[^16-7]
+**9** And I tell you, make friends for yourselves by means of dishonest money,[^16-6] so that when it is gone,[^16-7] they will welcome you into the eternal dwellings.[^16-8]
 
 **10** Whoever is faithful in a very little is faithful also in much, and whoever is dishonest in a very little is dishonest also in much.
 
-**11** So if you have not been faithful with dishonest wealth, who will trust you with the true riches?
+**11** So if you have not been faithful with dishonest money, who will trust you with the true riches?
 
-**12** And if you have not been faithful with what belongs to someone else, who will give you what is your own?[^16-8]
+**12** And if you have not been faithful with what belongs to someone else, who will give you what is your own?[^16-9]
 
-**13** No household servant can serve two masters. Either he will hate the one and love the other, or he will be devoted to the one and despise the other. You cannot serve God and wealth."
+**13** No household servant can serve[^16-10] two masters. Either they will hate the one and love the other, or they will be devoted to the one and despise the other. You cannot serve God and money."
 
 **14** The Pharisees, who loved money, heard all this, and they sneered at Jesus.
 
-**15** He said to them, "You are the ones who declare yourselves righteous[^16-9] in the sight of others, but God knows your hearts. For what is highly valued among people is detestable in the sight of God.
+**15** He said to them, "You are the ones who declare yourselves righteous[^16-11] in the sight of others, but God knows your hearts. For what is highly valued among people is detestable in the sight of God.
 
-**16** The Law and the Prophets lasted until John.[^16-10] From then on the good news of the kingdom of God is being proclaimed, and everyone is forcing their way into it.[^16-11]
+**16** The Law and the Prophets lasted until John.[^16-12] From then on the good news of the kingdom of God is being proclaimed, and everyone is forcing their way into it.[^16-13]
 
-**17** But it is easier for heaven and earth to pass away than for one stroke of a letter[^16-12] of the Law to fall away.
+**17** But it is easier for heaven and earth to pass away than for one stroke of a letter[^16-14] of the Law to fall away.
 
 **18** "Everyone who divorces his wife and marries another woman commits adultery, and whoever marries a woman divorced from her husband commits adultery.
 
@@ -1910,11 +1910,11 @@
 
 **20** At his gate lay a poor man named Lazarus, covered with sores,
 
-**21** who longed to eat his fill of what fell[^16-13] from the rich man's table. Even the dogs came and licked his sores.
+**21** who longed to eat his fill of what fell[^16-15] from the rich man's table. Even the dogs came and licked his sores.
 
-**22** The poor man died and was carried away by the angels to Abraham's side.[^16-14] The rich man also died and was buried.
+**22** The poor man died and was carried away by the angels to Abraham's side.[^16-16] The rich man also died and was buried.
 
-**23** In Hades,[^16-15] where he was in torment, he looked up and saw Abraham far away, with Lazarus at his side.
+**23** In Hades,[^16-17] where he was in torment, he looked up and saw Abraham far away, with Lazarus at his side.
 
 **24** He called out, 'Father Abraham, have mercy on me! Send Lazarus to dip the tip of his finger in water and cool my tongue, because I am in agony in this flame.'
 
@@ -1932,53 +1932,55 @@
 
 **31** Abraham said to him, 'If they do not listen to Moses and the Prophets, they will not be convinced even if someone rises from the dead.'"
 
-[^16-1]: Greek *batos*, the Hebrew *bath*. A bath was probably about 22 liters (6 gallons).
-[^16-2]: Greek *koros*, the Hebrew *kor*. A kor was probably about 6 bushels (220 liters).
-[^16-3]: Or "the Lord", that is, Jesus. Greek *kyrios*.
-[^16-4]: Literally "the sons of this age are shrewder toward their own generation than the sons of the light".
-[^16-5]: Literally "the mammon of unrighteousness". *Mammon*, an Aramaic word, means wealth or property; also in verses 11 and 13.
-[^16-6]: Many manuscripts read "when you fail", that is, when you die.
-[^16-7]: Literally "tents".
-[^16-8]: Some manuscripts read "what is ours".
-[^16-9]: Greek *dikaioo*, traditionally "justify".
-[^16-10]: The Greek has no verb: "The Law and the Prophets until John".
-[^16-11]: Or "everyone is urged to enter it". The meaning of the Greek verb is debated.
-[^16-12]: Greek *keraia*, "horn", a tiny stroke that distinguishes one letter from another.
-[^16-13]: Many manuscripts read "the crumbs that fell".
-[^16-14]: Literally "to the bosom of Abraham", a picture of closeness and honor, like a guest reclining next to the host at a banquet; also in verse 23.
-[^16-15]: Greek *Hades*, the realm of the dead, like the Hebrew Sheol.
+[^16-1]: Greek *oikonomos*, the manager of a household, often a trusted slave; also in verses 3 and 8.
+[^16-2]: Greek *batos*, the Hebrew *bath*. A bath was probably about 22 liters (6 gallons).
+[^16-3]: Greek *koros*, the Hebrew *kor*. A kor was probably about 6 bushels (220 liters).
+[^16-4]: Or "the Lord", that is, Jesus. Greek *kyrios*.
+[^16-5]: Literally "the sons of this age are shrewder toward their own generation than the sons of the light".
+[^16-6]: Literally "the mammon of unrighteousness". Greek *mamonas*, from the Aramaic *mamon*, "wealth, property"; also in verses 11 and 13.
+[^16-7]: Many manuscripts read "when you fail", that is, when you die.
+[^16-8]: Literally "tents".
+[^16-9]: Some manuscripts read "what is ours".
+[^16-10]: Or "be a slave to"; also later in the verse.
+[^16-11]: Greek *dikaioo*, traditionally "justify".
+[^16-12]: The Greek has no verb: "The Law and the Prophets until John".
+[^16-13]: Or "everyone is urged to enter it". The meaning of the Greek verb is debated.
+[^16-14]: Greek *keraia*, "horn", a tiny stroke that tells one letter from another.
+[^16-15]: Many manuscripts read "the crumbs that fell".
+[^16-16]: Literally "to the bosom of Abraham", a picture of closeness and honor, like a guest reclining next to the host at a banquet; also in verse 23.
+[^16-17]: Greek *Hades*, the realm of the dead, like the Hebrew Sheol.
 
 ## Chapter 17
 
 *Status: draft*
 
-**1** Jesus said to his disciples, "Things that cause people to stumble[^17-1] are bound to come, but woe to the one through whom they come!
+**1** Jesus said to his disciples, "Things that cause people to stumble[^17-1] are bound to come, but woe[^17-2] to the one through whom they come!
 
 **2** It would be better for them to have a millstone hung around their neck and be thrown into the sea than to cause one of these little ones to stumble.
 
-**3** So watch yourselves! If your brother[^17-2] sins,[^17-3] rebuke him, and if he repents, forgive him.
+**3** So watch yourselves! If your brother[^17-3] sins,[^17-4] rebuke him, and if he repents, forgive him.
 
 **4** Even if he sins against you seven times in a day, and seven times comes back to you and says, 'I repent,' you must forgive him."
 
 **5** The apostles said to the Lord, "Increase our faith!"
 
-**6** The Lord said, "If you had faith like a mustard seed, you could say to this mulberry tree,[^17-4] 'Be uprooted and planted in the sea,' and it would obey you.
+**6** The Lord said, "If you had faith like a mustard seed, you could say to this mulberry tree,[^17-5] 'Be uprooted and planted in the sea,' and it would obey you.
 
-**7** "Suppose one of you has a servant[^17-5] who is plowing or looking after sheep. When he comes in from the field, will you say to him, 'Come at once and sit down to eat'?
+**7** "Suppose one of you has a servant[^17-6] who is plowing or looking after sheep. When he comes in from the field, will you say to him, 'Come at once and sit down to eat'?
 
-**8** Won't you rather say to him, 'Prepare my dinner, get ready,[^17-6] and serve me while I eat and drink. After that you can eat and drink'?
+**8** Won't you rather say to him, 'Prepare my dinner, get ready,[^17-7] and serve me while I eat and drink. After that you can eat and drink'?
 
-**9** Does he thank the servant because he did what he was commanded?[^17-7]
+**9** Does he thank the servant because he did what he was commanded?[^17-8]
 
-**10** So you too, when you have done everything you were commanded, should say, 'We are unworthy servants;[^17-8] we have only done what we ought to have done.'"
+**10** So you too, when you have done everything you were commanded, should say, 'We are unworthy servants;[^17-9] we have only done what we ought to have done.'"
 
-**11** On the way to Jerusalem, Jesus was passing along between Samaria and Galilee.[^17-9]
+**11** On the way to Jerusalem, Jesus was passing along between Samaria and Galilee.[^17-10]
 
-**12** As he was going into a village, ten men with skin diseases[^17-10] met him. They stood at a distance
+**12** As he was going into a village, ten men with skin diseases[^17-11] met him. They stood at a distance
 
-**13** and called out loudly, "Jesus, Master,[^17-11] have mercy on us!"
+**13** and called out loudly, "Jesus, Master,[^17-12] have mercy on us!"
 
-**14** When Jesus saw them, he said to them, "Go and show yourselves to the priests."[^17-12] And as they went, they were made clean.
+**14** When Jesus saw them, he said to them, "Go and show yourselves to the priests."[^17-13] And as they went, they were made clean.
 
 **15** One of them, when he saw that he was healed, turned back, praising God with a loud voice.
 
@@ -1988,63 +1990,64 @@
 
 **18** Was no one found to come back and give glory to God except this foreigner?"
 
-**19** Then he said to him, "Get up and go; your faith has healed you."[^17-13]
+**19** Then he said to him, "Get up and go; your faith has healed you."[^17-14]
 
 **20** When Jesus was asked by the Pharisees when the kingdom of God would come, he answered them, "The kingdom of God is not coming in a way that can be watched for,
 
-**21** nor will people say, 'Look, here it is!' or 'There!' For indeed, the kingdom of God is among you."[^17-14]
+**21** nor will people say, 'Look, here it is!' or 'There!' For indeed, the kingdom of God is among you."[^17-15]
 
 **22** Then he said to the disciples, "The time is coming when you will long to see one of the days of the Son of Man, and you will not see it.
 
 **23** People will say to you, 'Look, there!' 'Look, here!' Do not go off or run after them.
 
-**24** For as the lightning flashes and lights up the sky from one side to the other, so will the Son of Man be in his day.[^17-15]
+**24** For as the lightning flashes and lights up the sky from one side to the other, so will the Son of Man be in his day.[^17-16]
 
 **25** But first he must suffer many things and be rejected by this generation.
 
 **26** Just as it was in the days of Noah, so too it will be in the days of the Son of Man.
 
-**27** People were eating and drinking, marrying and being given in marriage, until the day Noah went into the ark. Then the flood came and destroyed them all.[^17-16]
+**27** People were eating and drinking, marrying and being given in marriage, until the day Noah entered the ark. Then the flood came and destroyed them all.[^17-17]
 
 **28** It was the same in the days of Lot. People were eating and drinking, buying and selling, planting and building.
 
-**29** But on the day Lot left Sodom, it rained fire and sulfur from heaven and destroyed them all.[^17-17]
+**29** But on the day Lot left Sodom, it rained fire and sulfur from heaven and destroyed them all.[^17-18]
 
 **30** It will be just like that on the day the Son of Man is revealed.
 
 **31** On that day, whoever is on the housetop, with their goods in the house, must not go down to take them away. Likewise, whoever is in the field must not turn back.
 
-**32** Remember Lot's wife![^17-18]
+**32** Remember Lot's wife![^17-19]
 
-**33** Whoever tries to keep their life[^17-19] will lose it, but whoever loses it will keep it alive.
+**33** Whoever tries to keep their life[^17-20] will lose it, but whoever loses it will keep it alive.
 
 **34** I tell you, on that night there will be two people in one bed; one will be taken and the other left.
 
-**35** There will be two women grinding grain together; one will be taken and the other left."[^17-20]
+**35** There will be two women grinding grain together; one will be taken and the other left."[^17-21]
 
-**37** They asked him, "Where, Lord?" He said to them, "Where the body is, there the vultures[^17-21] will gather."
+**37** They asked him, "Where, Lord?" He said to them, "Where the body is, there the vultures[^17-22] will gather."
 
 [^17-1]: Or "to sin". Greek *skandala*, "stumbling blocks"; the verb in verse 2 is related.
-[^17-2]: Or "brother or sister", that is, a fellow believer.
-[^17-3]: Many manuscripts read "sins against you".
-[^17-4]: Greek *sykaminos*, probably the black mulberry.
-[^17-5]: Or "slave"; also in verses 9–10. Greek *doulos*.
-[^17-6]: Literally "gird yourself", tucking up one's robe with a belt in order to work.
-[^17-7]: Many manuscripts add "I think not."
-[^17-8]: Greek *achreioi*, "useless, unprofitable"; here, servants who deserve no special credit.
-[^17-9]: Or "through the region between Samaria and Galilee". Literally "through the middle of Samaria and Galilee".
-[^17-10]: Greek *lepros*, traditionally "leper". The word covered various skin diseases, not only what is now called leprosy.
-[^17-11]: Greek *epistata*, a title of respect for a leader or teacher.
-[^17-12]: A priest had to confirm that someone was healed of a skin disease (Leviticus 13–14).
-[^17-13]: Or "has saved you".
-[^17-14]: Or "within you", "within your reach".
-[^17-15]: Some manuscripts leave out "in his day".
-[^17-16]: See Genesis 7.
-[^17-17]: See Genesis 19:24.
-[^17-18]: See Genesis 19:26.
-[^17-19]: Greek *psyche*, life, soul, self.
-[^17-20]: The Textus Receptus (followed by the King James Version) adds verse 36: "Two men will be in the field; one will be taken and the other left." The SBLGNT and other critical editions leave it out, so this translation has no verse 36.
-[^17-21]: Or "eagles". Greek *aetoi*.
+[^17-2]: Greek *ouai*, a cry of grief and warning, like the prophets' *hoy* ("woe").
+[^17-3]: Or "brother or sister", a fellow member of God's people.
+[^17-4]: Many manuscripts read "sins against you".
+[^17-5]: Greek *sykaminos*, probably the black mulberry.
+[^17-6]: Or "slave"; also in verses 9–10. Greek *doulos*.
+[^17-7]: Literally "gird yourself", tucking up one's robe with a belt in order to work.
+[^17-8]: Many manuscripts add "I think not."
+[^17-9]: Greek *achreioi*, "useless, unprofitable"; here, servants who deserve no special credit.
+[^17-10]: Or "through the region between Samaria and Galilee". Literally "through the middle of Samaria and Galilee".
+[^17-11]: Greek *lepros*, traditionally "leper". The word covered various skin diseases, not only what is now called leprosy.
+[^17-12]: Greek *epistata*, a title of respect for a leader or teacher.
+[^17-13]: A priest had to confirm that someone was healed of a skin disease (Leviticus 13–14).
+[^17-14]: Or "has saved you".
+[^17-15]: Or "within you", "within your reach".
+[^17-16]: Some manuscripts leave out "in his day".
+[^17-17]: See Genesis 7.
+[^17-18]: See Genesis 19:24.
+[^17-19]: See Genesis 19:26.
+[^17-20]: Greek *psyche*, life, soul, self.
+[^17-21]: The Textus Receptus (followed by the King James Version) adds verse 36: "Two men will be in the field; one will be taken and the other left." The SBLGNT and other critical editions leave it out, so this translation has no verse 36.
+[^17-22]: Or "eagles". The Greek word can mean either.
 
 ## Chapter 18
 
@@ -2076,7 +2079,7 @@
 
 **13** But the tax collector stood at a distance and would not even look up to heaven. He kept beating his chest and saying, 'God, have mercy on me, a sinner!'[^18-4]
 
-**14** I tell you, this man went down to his home declared righteous[^18-5] rather than the other. For all who exalt themselves will be humbled, and those who humble themselves will be exalted."
+**14** I tell you, this man went down to his home declared righteous[^18-5] rather than the other. For everyone who exalts themselves will be humbled, and whoever humbles themselves will be exalted."
 
 **15** People were also bringing babies to Jesus for him to touch them. But when the disciples saw it, they rebuked them.
 
@@ -2200,7 +2203,7 @@
 
 **25** and they said to him, 'Master, he has ten minas!'—
 
-**26** 'I tell you, everyone who has will be given more, but from the one who does not have, even what they have will be taken away.
+**26** 'I tell you, to everyone who has, more will be given, but from the one who does not have, even what they have will be taken away.
 
 **27** But as for these enemies of mine who did not want me to be king over them, bring them here and slaughter them in front of me.'"
 
@@ -2422,15 +2425,15 @@
 
 **22** For these are days of punishment,[^21-9] when all that is written will be fulfilled.
 
-**23** Woe to those who are pregnant and to those who are nursing in those days! For there will be great distress on the land[^21-10] and wrath against this people.
+**23** Woe[^21-10] to those who are pregnant and to those who are nursing in those days! For there will be great distress on the land[^21-11] and wrath against this people.
 
-**24** They will fall by the edge of the sword and be taken away as captives into all the nations, and Jerusalem will be trampled by the Gentiles until the times of the Gentiles are fulfilled.[^21-11]
+**24** They will fall by the edge of the sword and be taken away as captives into all the nations, and Jerusalem will be trampled by the Gentiles until the times of the Gentiles are fulfilled.[^21-12]
 
 **25** "There will be signs in the sun, the moon, and the stars, and on the earth the nations will be in anguish, bewildered by the roaring of the sea and the waves.
 
-**26** People will faint from fear and from dread of what is coming on the world, for the powers in the heavens will be shaken.[^21-12]
+**26** People will faint from fear and from dread of what is coming on the world, for the powers in the heavens will be shaken.[^21-13]
 
-**27** Then they will see 'the Son of Man coming in a cloud'[^21-13] with power and great glory.
+**27** Then they will see 'the Son of Man coming in a cloud'[^21-14] with power and great glory.
 
 **28** When these things begin to happen, stand up straight and raise your heads, because your redemption is drawing near."
 
@@ -2448,7 +2451,7 @@
 
 **35** like a trap. For it will come upon all who live on the face of the whole earth.
 
-**36** Stay alert at all times, praying that you may have the strength[^21-14] to escape all these things that are going to happen, and to stand before the Son of Man."
+**36** Stay alert at all times, praying that you may have the strength[^21-15] to escape all these things that are going to happen, and to stand before the Son of Man."
 
 **37** Every day Jesus was teaching in the temple, and every night he went out and spent the night on the hill called the Mount of Olives.
 
@@ -2463,11 +2466,12 @@
 [^21-7]: Literally "a mouth".
 [^21-8]: Greek *psychas*, lives, souls, selves. Some manuscripts read "By your endurance you will gain your lives."
 [^21-9]: Or "vengeance". Greek *ekdikesis*, related to the word for "justice" in 18:3–8. Compare Hosea 9:7.
-[^21-10]: Or "on the earth".
-[^21-11]: The Greek word *ethne* means both "nations" and "Gentiles".
-[^21-12]: Compare Isaiah 13:10; 34:4.
-[^21-13]: Daniel 7:13.
-[^21-14]: Many manuscripts read "that you may be counted worthy".
+[^21-10]: Greek *ouai*, a cry of grief and warning, like the prophets' *hoy* ("woe").
+[^21-11]: Or "on the earth".
+[^21-12]: The Greek word *ethne* means both "nations" and "Gentiles".
+[^21-13]: Compare Isaiah 13:10; 34:4.
+[^21-14]: Daniel 7:13.
+[^21-15]: Many manuscripts read "that you may be counted worthy".
 
 ## Chapter 22
 
@@ -2515,43 +2519,43 @@
 
 **21** "But look, the hand of the one who is betraying me is with me on the table.
 
-**22** For the Son of Man is going as it has been decided, but woe to that man by whom he is betrayed!"
+**22** For the Son of Man is going as it has been decided, but woe[^22-8] to that man by whom he is betrayed!"
 
 **23** They began to ask one another which of them it could be who was going to do this.
 
 **24** A dispute also arose among them about which of them was to be regarded as the greatest.
 
-**25** He said to them, "The kings of the Gentiles lord it over them, and those who exercise authority over them are called 'Benefactors'.[^22-8]
+**25** He said to them, "The kings of the Gentiles lord it over them, and those who exercise authority over them are called 'Benefactors'.[^22-9]
 
 **26** But you are not to be like that. Rather, the greatest among you must become like the youngest, and the one who leads like the one who serves.
 
 **27** For who is greater, the one who reclines at table or the one who serves? Isn't it the one who reclines at table? But I am among you as the one who serves.
 
-**28** "You are the ones who have stood by me in my trials.[^22-9]
+**28** "You are the ones who have stood by me in my trials.[^22-10]
 
-**29** And I confer on you, just as my Father has conferred on me, a kingdom,[^22-10]
+**29** And I confer on you, just as my Father has conferred on me, a kingdom,[^22-11]
 
 **30** so that you may eat and drink at my table in my kingdom, and you will sit on thrones judging the twelve tribes of Israel.
 
-**31** "Simon, Simon,[^22-11] look, Satan has demanded to have you all,[^22-12] to sift you like wheat.
+**31** "Simon, Simon,[^22-12] look, Satan has demanded to have you all,[^22-13] to sift you like wheat.
 
-**32** But I have prayed for you,[^22-13] that your faith may not fail. And when you have turned back, strengthen your brothers."
+**32** But I have prayed for you,[^22-14] that your faith may not fail. And when you have turned back, strengthen your brothers."
 
 **33** Simon said to him, "Lord, I am ready to go with you both to prison and to death."
 
 **34** Jesus said, "I tell you, Peter, the rooster will not crow today until you have denied three times that you know me."
 
-**35** Then he said to them, "When I sent you out without purse, bag, or sandals, did you lack anything?"[^22-14] They said, "Nothing."
+**35** Then he said to them, "When I sent you out without purse, bag, or sandals, did you lack anything?"[^22-15] They said, "Nothing."
 
-**36** He said to them, "But now, whoever has a purse must take it, and likewise a bag. And whoever does not have a sword must sell his cloak and buy one.[^22-15]
+**36** He said to them, "But now, whoever has a purse must take it, and likewise a bag. And whoever does not have a sword must sell his cloak and buy one.[^22-16]
 
-**37** For I tell you, this scripture must be fulfilled in me: 'And he was counted among the lawless.'[^22-16] Indeed, what is written about me is reaching its fulfillment."[^22-17]
+**37** For I tell you, this scripture must be fulfilled in me: 'And he was counted among the lawless.'[^22-17] Indeed, what is written about me is reaching its fulfillment."[^22-18]
 
-**38** They said, "Lord, look, here are two swords." He said to them, "That is enough."[^22-18]
+**38** They said, "Lord, look, here are two swords." He said to them, "That is enough."[^22-19]
 
 **39** Jesus went out and made his way, as was his custom, to the Mount of Olives, and the disciples followed him.
 
-**40** When he reached the place, he said to them, "Pray that you will not come into testing."[^22-19]
+**40** When he reached the place, he said to them, "Pray that you will not come into testing."[^22-20]
 
 **41** He withdrew from them about a stone's throw, knelt down, and prayed,
 
@@ -2559,7 +2563,7 @@
 
 **43** Then an angel from heaven appeared to him and strengthened him.
 
-**44** In his anguish he prayed more earnestly, and his sweat became like drops of blood falling to the ground.[^22-20]
+**44** In his anguish he prayed more earnestly, and his sweat became like drops of blood falling to the ground.[^22-21]
 
 **45** When he got up from prayer and came to the disciples, he found them sleeping, worn out by grief.
 
@@ -2571,11 +2575,11 @@
 
 **49** When those around him saw what was going to happen, they said, "Lord, should we strike with the sword?"
 
-**50** And one of them struck the high priest's servant and cut off his right ear.
+**50** And one of them struck the high priest's servant, cutting off his right ear.
 
-**51** But Jesus answered, "No more of this!"[^22-21] And he touched the man's ear and healed him.
+**51** But Jesus answered, "No more of this!"[^22-22] And he touched the man's ear and healed him.
 
-**52** Then Jesus said to the chief priests, the officers of the temple guard, and the elders who had come out against him, "Have you come out with swords and clubs as though I were a rebel?[^22-22]
+**52** Then Jesus said to the chief priests, the officers of the temple guard, and the elders who had come out against him, "Have you come out with swords and clubs as though I were a rebel?[^22-23]
 
 **53** Day after day I was with you in the temple, and you did not lay a hand on me. But this is your hour, and the power of darkness."
 
@@ -2599,19 +2603,19 @@
 
 **63** The men who were holding Jesus began to mock him and beat him.
 
-**64** They blindfolded him[^22-23] and kept asking him, "Prophesy! Who is it that struck you?"
+**64** They blindfolded him[^22-24] and kept asking him, "Prophesy! Who hit you?"
 
-**65** And they said many other insulting things[^22-24] against him.
+**65** And they said many other insulting things[^22-25] against him.
 
-**66** When day came, the assembly of the elders of the people, both chief priests and scribes, gathered, and they led him away to their council.[^22-25]
+**66** When day came, the assembly of the elders of the people, both chief priests and scribes, gathered, and they led him away to their council.[^22-26]
 
 **67** They said, "If you are the Messiah, tell us." He said to them, "If I tell you, you will not believe,
 
-**68** and if I ask you, you will not answer.[^22-26]
+**68** and if I ask you, you will not answer.[^22-27]
 
-**69** But from now on the Son of Man will be sitting at the right hand of the power of God."[^22-27]
+**69** But from now on the Son of Man will be sitting at the right hand of the power of God."[^22-28]
 
-**70** They all said, "Are you, then, the Son of God?" He said to them, "You say that I am."[^22-28]
+**70** They all said, "Are you, then, the Son of God?" He said to them, "You say that I am."[^22-29]
 
 **71** Then they said, "Why do we need any more testimony? We have heard it ourselves from his own mouth."
 
@@ -2622,27 +2626,28 @@
 [^22-5]: The SBLGNT prints the words from "given for you" to the end of verse 20 in brackets [ ], marking their place in the text as uncertain; this translation does the same. Some manuscripts leave them out. Compare 1 Corinthians 11:24–25.
 [^22-6]: Literally "And the cup likewise after they had eaten".
 [^22-7]: Compare Jeremiah 31:31; Exodus 24:8.
-[^22-8]: Greek *euergetai*, a title of honor given to rulers and patrons.
-[^22-9]: Or "testings". Greek *peirasmoi*.
-[^22-10]: Or "And just as my Father has given me a kingdom, I give it to you". The Greek verb *diatithemai* is related to *diatheke*, "covenant".
-[^22-11]: Many manuscripts add "And the Lord said".
-[^22-12]: "You" is plural in Greek.
-[^22-13]: "You" is singular in Greek here and in the rest of the verse.
-[^22-14]: See 10:4.
-[^22-15]: Or "And whoever does not have a purse must sell his cloak and buy a sword."
-[^22-16]: Isaiah 53:12, following the Greek translation; the Hebrew has "rebels".
-[^22-17]: Or "what concerns me is coming to its end".
-[^22-18]: Or "Enough of this!"
-[^22-19]: Or "temptation"; also in verse 46.
-[^22-20]: Some manuscripts leave out verses 43–44. The SBLGNT prints them as part of the text, without brackets.
-[^22-21]: Or "Let them go this far!" Literally "Allow until this".
-[^22-22]: Or "a robber", "a bandit". Greek *lestes*.
-[^22-23]: Many manuscripts add "struck him on the face".
-[^22-24]: Greek *blasphemountes*, "blaspheming".
-[^22-25]: Greek *synedrion*, the Sanhedrin, the supreme Jewish council.
-[^22-26]: Many manuscripts add "or let me go".
-[^22-27]: See Psalm 110:1. "The power of God" is the phrase that Mark 14:62 gives as "the Power".
-[^22-28]: Or "You are right in saying that I am." The reply can be read as guarded or as affirming.
+[^22-8]: Greek *ouai*, a cry of grief and warning, like the prophets' *hoy* ("woe").
+[^22-9]: Greek *euergetai*, a title of honor given to rulers and patrons.
+[^22-10]: Or "testings". Greek *peirasmoi*.
+[^22-11]: Or "And just as my Father has given me a kingdom, I give it to you". The Greek verb *diatithemai* is related to *diatheke*, "covenant".
+[^22-12]: Many manuscripts add "And the Lord said".
+[^22-13]: "You" is plural in Greek.
+[^22-14]: "You" is singular in Greek here and in the rest of the verse.
+[^22-15]: See 10:4.
+[^22-16]: Or "And whoever does not have a purse must sell his cloak and buy a sword."
+[^22-17]: Isaiah 53:12, following the Greek translation; the Hebrew has "rebels".
+[^22-18]: Or "what concerns me is coming to its end".
+[^22-19]: Or "Enough of this!"
+[^22-20]: Or "temptation"; also in verse 46.
+[^22-21]: Some manuscripts leave out verses 43–44. The SBLGNT prints them as part of the text, without brackets.
+[^22-22]: Or "Let them go this far!" Literally "Allow until this".
+[^22-23]: Or "a robber", "a bandit". Greek *lestes*.
+[^22-24]: Many manuscripts add "struck him on the face".
+[^22-25]: Greek *blasphemountes*, "blaspheming".
+[^22-26]: Greek *synedrion*, the Sanhedrin, the supreme Jewish council.
+[^22-27]: Many manuscripts add "or let me go".
+[^22-28]: See Psalm 110:1. "The power of God" is the phrase that Mark 14:62 gives as "the Power".
+[^22-29]: Or "You are right in saying that I am." The reply can be read as guarded or as affirming.
 
 ## Chapter 23
 

@@ -60,7 +60,7 @@ Decisions marked **proposed** are used in the pilot and are open for review.
 
 | Source | Rendering | Notes |
 |---|---|---|
-| יהוה (YHWH, the divine name) | **Yahweh** | God's personal name, in its probable pronunciation. Most English Bibles write "the LORD"; a note says so at the name's first occurrence in each chapter where it appears. In the New Testament, Greek *kyrios* is "the Lord", with a note where it quotes a passage using the name. |
+| יהוה (YHWH, the divine name) | **Yahweh** | God's personal name, in its probable pronunciation. Most English Bibles write "the LORD"; a note says so at the name's first occurrence in each chapter where it appears. In the New Testament, Greek *kyrios* is "the Lord", with a note where it quotes a passage using the name, and, where narrative uses it plainly of God (Luke 1–2, "the angel of the Lord"), a note at its first occurrence in each chapter that it stands for the divine name, as in the Greek Old Testament. |
 | אֱלֹהִים (Elohim), אֱלוֹהַּ (Eloah), אֵל (El), θεός | God | A note on the poetic *Eloah* (common in Job) is optional, at most once per chapter. |
 | אָדָם (adam), when it means humanity | humankind / human beings | When it refers to the man Adam, *Adam*. |
 | נֶפֶשׁ (nephesh) | life, self, soul, living being, by context | Not automatically "soul". |
@@ -252,6 +252,8 @@ from the Hebrew.
   takes a colon and no marks of its own (Jeremiah 27:2–11).
 - Yahweh's speech in a prose narrative is quoted like anyone's ("Yahweh said to Jeremiah,
   '…'"). A whole oracle or sermon in Yahweh's voice is not put in quotation marks.
+- Where the narrator breaks into a speech (Luke 7:29–30), the quotation closes before the aside
+  and reopens after it.
 - Within a chapter, a speech's quotation is opened once and closed once; it isn't reopened at
   each verse. A "list" for the numbers rule is the paragraph its numbers belong to.
 - Technical terms (tabernacle furnishings, sacrifices, priestly garments) get a full note at
