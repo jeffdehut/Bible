@@ -193,7 +193,7 @@
 [^3-6]: Many manuscripts leave out "and fire".
 [^3-7]: A wooden fork for tossing threshed grain into the air, so that the wind would blow the chaff away.
 [^3-8]: Or "to do everything that is right".
-[^3-9]: Some manuscripts read "opened to him".
+[^3-9]: Many manuscripts read "opened to him".
 [^3-10]: Or "This is my beloved Son; I take great pleasure in him." Compare Psalm 2:7; Isaiah 42:1.
 
 ## Chapter 4
@@ -359,7 +359,7 @@
 
 **46** If you love those who love you, what reward do you have? Don't even the tax collectors do the same?
 
-**47** And if you greet only your brothers, what are you doing more than others? Don't even the Gentiles do the same?[^5-38]
+**47** And if you greet only your brothers,[^5-38] what are you doing more than others? Don't even the Gentiles do the same?
 
 **48** So be perfect,[^5-39] as your heavenly Father is perfect.
 
@@ -377,7 +377,7 @@
 [^5-12]: Or "sets aside", "annuls".
 [^5-13]: Or "by the people of long ago"; also in verse 33.
 [^5-14]: Exodus 20:13; Deuteronomy 5:17. The second sentence sums up laws such as Exodus 21:12.
-[^5-15]: Or "brother or sister", a fellow member of God's people; also in verses 23–24. Some manuscripts add "without cause".
+[^5-15]: Or "brother or sister", a fellow member of God's people; also in verses 23–24. Many manuscripts add "without cause".
 [^5-16]: An Aramaic insult meaning "empty-headed".
 [^5-17]: Greek *synedrion*, a council of judges; in Jerusalem, the Sanhedrin, the supreme Jewish council.
 [^5-18]: Literally "the Gehenna of fire". Greek *Gehenna*, from the Valley of Hinnom outside Jerusalem, used as a name for the place of final judgment. Also in verses 29–30.
@@ -400,7 +400,7 @@
 [^5-35]: Leviticus 19:18. The words "and hate your enemy" are not found in the Old Testament.
 [^5-36]: Many manuscripts read "love your enemies, bless those who curse you, do good to those who hate you, and pray for those who mistreat you and persecute you".
 [^5-37]: Literally "sons".
-[^5-38]: Many manuscripts read "your friends" and "the tax collectors".
+[^5-38]: Or "brothers and sisters". Many manuscripts read "your friends" and, later in the verse, "the tax collectors".
 [^5-39]: Or "complete", "whole". Compare Leviticus 19:2; Deuteronomy 18:13.
 
 ## Chapter 6
@@ -485,7 +485,7 @@
 [^6-8]: Many manuscripts read "as we also forgive our debtors".
 [^6-9]: Or "temptation".
 [^6-10]: Or "from evil". Many manuscripts add "For yours is the kingdom and the power and the glory forever. Amen." Compare 1 Chronicles 29:11.
-[^6-11]: Some manuscripts add "their wrongdoings".
+[^6-11]: Many manuscripts add "their wrongdoings".
 [^6-12]: There is a play on words in the Greek: they make their faces "disappear" so that they may "appear" to people as fasting.
 [^6-13]: Literally "eating", whether by insects or by rust; also in verse 20.
 [^6-14]: Literally "dig through", that is, through the mud-brick wall of a house; also in verse 20.
@@ -493,10 +493,10 @@
 [^6-16]: Literally "evil", which can also mean "unhealthy". An "evil eye" was an expression for envy or stinginess (20:15).
 [^6-17]: Or "be a slave to"; also later in the verse.
 [^6-18]: Greek *mamonas*, from the Aramaic *mamon*, "wealth, property".
-[^6-19]: Most editions add "or what you will drink" (compare verse 31). The SBLGNT leaves it out, following a marginal reading of Westcott and Hort.
+[^6-19]: Many manuscripts add "or what you will drink" (compare verse 31). The SBLGNT leaves it out, following a marginal reading of Westcott and Hort.
 [^6-20]: About 18 inches (45 cm). *Span of life*: or "height".
 [^6-21]: Probably wild flowers in general.
-[^6-22]: Some manuscripts read "the kingdom of God".
+[^6-22]: Many manuscripts read "the kingdom of God".
 
 ## Chapter 7
 
@@ -506,7 +506,7 @@
 
 **2** For you will be judged by the judgment you use, and the measure you use will be used to measure you.
 
-**3** Why do you look at the speck in your brother's eye but do not notice the log in your own eye?
+**3** Why do you look at the speck in your brother's[^7-1] eye but do not notice the log in your own eye?
 
 **4** Or how can you say to your brother, 'Let me take the speck out of your eye,' when there is a log in your own eye?
 
@@ -526,9 +526,9 @@
 
 **12** "So in everything, do to others what you want them to do to you, for this is the Law and the Prophets.
 
-**13** "Enter through the narrow gate. For the gate is wide and the road is broad that leads to destruction, and many go in through it.[^7-1]
+**13** "Enter through the narrow gate. For the gate is wide and the road is broad that leads to destruction, and many go in through it.[^7-2]
 
-**14** For the gate is narrow and the road is hard[^7-2] that leads to life, and only a few find it.[^7-3]
+**14** For the gate is narrow and the road is hard[^7-3] that leads to life, and only a few find it.[^7-4]
 
 **15** "Watch out for false prophets. They come to you in sheep's clothing, but inside they are ravenous wolves.
 
@@ -546,7 +546,7 @@
 
 **22** On that day many will say to me, 'Lord, Lord, didn't we prophesy in your name, and drive out demons in your name, and do many mighty works in your name?'
 
-**23** Then I will tell them plainly, 'I never knew you. Depart from me, you who practice lawlessness!'[^7-4]
+**23** Then I will tell them plainly, 'I never knew you. Depart from me, you who practice lawlessness!'[^7-5]
 
 **24** "So everyone who hears these words of mine and does them will be like a wise man who built his house on the rock.
 
@@ -556,15 +556,16 @@
 
 **27** The rain came down, the floods came, and the winds blew and struck that house, and it fell, and its fall was great."
 
-**28** When Jesus had finished saying these things,[^7-5] the crowds were amazed at his teaching,
+**28** When Jesus had finished saying these things,[^7-6] the crowds were amazed at his teaching,
 
 **29** because he taught them like someone with authority, not like their scribes.
 
-[^7-1]: Some manuscripts read "For wide and broad is the road".
-[^7-2]: Or "constricted". The Greek word is related to *thlipsis*, "trouble, persecution".
-[^7-3]: Some manuscripts read "How narrow is the gate and how hard the road that leads to life, and only a few find it!"
-[^7-4]: Psalm 6:9 (6:8 in most English Bibles): "Depart from me, all you evildoers."
-[^7-5]: Matthew ends each of Jesus' five long discourses with similar words (11:1; 13:53; 19:1; 26:1).
+[^7-1]: Or "brother or sister"; also in verses 4–5.
+[^7-2]: Some manuscripts read "For wide and broad is the road".
+[^7-3]: Or "constricted". The Greek word is related to *thlipsis*, "trouble, persecution".
+[^7-4]: Many manuscripts read "How narrow is the gate and how hard the road that leads to life, and only a few find it!"
+[^7-5]: Psalm 6:9 (6:8 in most English Bibles): "Depart from me, all you evildoers."
+[^7-6]: Matthew ends each of Jesus' five long discourses with similar words (11:1; 13:53; 19:1; 26:1).
 
 ## Chapter 8
 
@@ -736,7 +737,7 @@
 **38** So ask the Lord of the harvest to send out workers into his harvest."
 
 [^9-1]: Literally "child", an affectionate form of address.
-[^9-2]: Some manuscripts read "Seeing".
+[^9-2]: Many manuscripts read "Seeing".
 [^9-3]: Literally "they were afraid". Many manuscripts read "they were amazed".
 [^9-4]: Mark 2:14 and Luke 5:27 call the tax collector Levi.
 [^9-5]: Literally "in the house", perhaps Matthew's house or the one where Jesus was staying.
@@ -932,7 +933,7 @@
 [^11-6]: Malachi 3:1, with words from Exodus 23:20 ("Look, I am sending an angel ahead of you"). In Malachi the Hebrew reads "he will prepare the way before me".
 [^11-7]: The meaning is uncertain. Or "the kingdom of heaven has been forcefully advancing, and forceful people are taking hold of it".
 [^11-8]: Compare Malachi 3:23 (4:5 in most English Bibles).
-[^11-9]: Some manuscripts read "ears to hear".
+[^11-9]: Many manuscripts read "ears to hear".
 [^11-10]: Literally "you did not beat your breasts", a sign of mourning.
 [^11-11]: Greek *dikaioo*, traditionally "justified": shown to be right.
 [^11-12]: Many manuscripts read "by her children".
@@ -1044,11 +1045,11 @@
 
 **50** For whoever does the will of my Father in heaven is my brother and sister and mother."
 
-[^12-1]: Some manuscripts read "he ate".
+[^12-1]: Many manuscripts read "he ate".
 [^12-2]: Literally "the bread of the presentation", the twelve loaves set out before God in the sanctuary (Leviticus 24:5–9). See 1 Samuel 21:2–7 (21:1–6 in most English Bibles).
 [^12-3]: The priests offered sacrifices on the Sabbath (Numbers 28:9–10).
 [^12-4]: Hosea 6:6; see 9:13.
-[^12-5]: Some manuscripts read "Large crowds".
+[^12-5]: Many manuscripts read "Large crowds".
 [^12-6]: Greek *pais*, which can mean "servant" or "child" (as in 8:6).
 [^12-7]: Isaiah 42:1–4, in a form that differs in places from both the Hebrew and the Septuagint. Verse 21 follows the Septuagint; the Hebrew reads "and the coastlands wait for his instruction".
 [^12-8]: See 10:25; also in verse 27.
@@ -1181,7 +1182,7 @@
 
 **58** And he did not do many mighty works there because of their unbelief.
 
-[^13-1]: Some manuscripts read "ears to hear"; also in verse 43.
+[^13-1]: Many manuscripts read "ears to hear"; also in verse 43.
 [^13-2]: Greek *mysteria*, things once hidden and now revealed.
 [^13-3]: Isaiah 6:9–10, quoted from the Septuagint, which turns the Hebrew commands ("Keep on hearing … Make the heart of this people dull") into a description.
 [^13-4]: Or "stumble"; Greek *skandalizo*.
@@ -1192,7 +1193,7 @@
 [^13-9]: Literally "hid".
 [^13-10]: Greek *sata*, from the Hebrew *seah*. A seah is about 7 quarts (7 liters), so three seahs is about 20 quarts (22 liters).
 [^13-11]: The psalm is ascribed to Asaph (Psalm 78:1), who is called a seer in 2 Chronicles 29:30.
-[^13-12]: Psalm 78:2. Matthew has "in parables" with the Septuagint; the Hebrew has "in a parable" and "riddles from of old". *Since the beginning*: literally "from the foundation". Some manuscripts read "since the foundation of the world".
+[^13-12]: Psalm 78:2. Matthew has "in parables" with the Septuagint; the Hebrew has "in a parable" and "riddles from of old". *Since the beginning*: literally "from the foundation". Many manuscripts read "since the foundation of the world".
 [^13-13]: Literally "the sons of the kingdom … the sons of the evil one".
 [^13-14]: Literally "all the causes of stumbling". Greek *skandala*.
 [^13-15]: Literally "the furnace of fire"; also in verse 50. Compare Daniel 3:6.
@@ -1283,7 +1284,7 @@
 [^14-3]: A stadion was about 185 meters (607 feet). Many manuscripts read "the boat was already in the middle of the sea".
 [^14-4]: Literally "in the fourth watch of the night", between 3 and 6 a.m.
 [^14-5]: Literally "I am". The same words are used of God in the Greek Old Testament (Exodus 3:14; Isaiah 43:10).
-[^14-6]: Some manuscripts read "walked on the water to go to Jesus".
+[^14-6]: Many manuscripts read "walked on the water to go to Jesus".
 [^14-7]: Some manuscripts leave out "strong".
 [^14-8]: Or "the tassel"; see 9:20.
 [^14-9]: Or "were saved".
@@ -1373,7 +1374,7 @@
 [^15-1]: Exodus 20:12; Deuteronomy 5:16.
 [^15-2]: Exodus 21:17; Leviticus 20:9.
 [^15-3]: Literally "is a gift", that is, an offering dedicated to God. Mark 7:11 gives the Hebrew word *Corban*.
-[^15-4]: Some manuscripts add "or mother".
+[^15-4]: Many manuscripts add "or mother".
 [^15-5]: Many manuscripts read "the commandment of God".
 [^15-6]: Many manuscripts read "These people draw near to me with their mouth and".
 [^15-7]: Isaiah 29:13, quoted from the Septuagint. The Hebrew reads "and their fear of me is a human command learned by rote".

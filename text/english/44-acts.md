@@ -1199,6 +1199,158 @@
 [^12-9]: Some manuscripts read "the word of the Lord".
 [^12-10]: The SBLGNT's punctuation joins "to Jerusalem" with "completed their service" (see 11:29–30). The words can also be read "returned to Jerusalem". Some manuscripts read "from Jerusalem".
 
+## Chapter 13
+
+*Status: draft*
+
+**1** In the church at Antioch there were prophets and teachers: Barnabas, Simeon who was called Niger,[^13-1] Lucius of Cyrene, Manaen, who had been brought up with Herod the tetrarch,[^13-2] and Saul.
+
+**2** While they were worshiping the Lord and fasting, the Holy Spirit said, "Set apart for me Barnabas and Saul for the work to which I have called them."
+
+**3** Then, after fasting and praying, they laid their hands on them and sent them off.
+
+**4** So, sent out by the Holy Spirit, they went down to Seleucia and from there sailed to Cyprus.
+
+**5** When they arrived at Salamis, they proclaimed the word of God in the synagogues of the Jews. They also had John with them as their assistant.
+
+**6** They went through the whole island as far as Paphos, where they found a certain magician, a Jewish false prophet named Bar-Jesus.[^13-3]
+
+**7** He was with the proconsul,[^13-4] Sergius Paulus, an intelligent man. The proconsul summoned Barnabas and Saul and wanted to hear the word of God.
+
+**8** But Elymas the magician (for that is what his name means)[^13-5] opposed them, trying to turn the proconsul away from the faith.
+
+**9** But Saul, who was also called Paul,[^13-6] filled with the Holy Spirit, looked straight at him
+
+**10** and said, "You are full of all deceit and all trickery, you son of the devil, you enemy of all righteousness! Will you not stop making crooked the straight paths of the Lord?[^13-7]
+
+**11** Now look, the hand of the Lord is against you. You will be blind and unable to see the sun for a time." At once mist and darkness fell on him, and he went around looking for someone to lead him by the hand.
+
+**12** When the proconsul saw what had happened, he believed, astonished at the teaching about the Lord.
+
+**13** Paul and his companions set sail from Paphos and came to Perga in Pamphylia. John left them and returned to Jerusalem.
+
+**14** They went on from Perga and came to Antioch in Pisidia.[^13-8] On the Sabbath day they went into the synagogue and sat down.
+
+**15** After the reading of the Law and the Prophets, the leaders of the synagogue sent word to them, saying, "Brothers,[^13-9] if you have any word of encouragement for the people, please speak."
+
+**16** So Paul stood up, motioned with his hand, and said, "Fellow Israelites,[^13-10] and you who fear God,[^13-11] listen.
+
+**17** The God of this people Israel chose our ancestors. He made the people great during their stay as foreigners in the land of Egypt, and with an uplifted arm[^13-12] he led them out of it.
+
+**18** For about forty years he put up with them[^13-13] in the wilderness.
+
+**19** After he had destroyed seven nations in the land of Canaan,[^13-14] he gave them their land as an inheritance.
+
+**20** This took about 450 years.[^13-15] After this he gave them judges until Samuel the prophet.
+
+**21** Then they asked for a king, and God gave them Saul son of Kish, a man of the tribe of Benjamin, for forty years.[^13-16]
+
+**22** After removing him, he raised up David to be their king. He testified about him: 'I have found David son of Jesse, a man after my own heart, who will carry out all that I desire.'[^13-17]
+
+**23** From this man's descendants[^13-18] God has brought to Israel a Savior, Jesus,[^13-19] as he promised.
+
+**24** Before his coming, John had proclaimed a baptism of repentance to all the people of Israel.
+
+**25** As John was finishing his course, he said, 'What do you suppose I am? I am not the one.[^13-20] But look, one is coming after me, and I am not worthy to untie the sandals on his feet.'[^13-21]
+
+**26** "Brothers, descendants of Abraham's family, and those among you who fear God, it is to us[^13-22] that the message of this salvation has been sent.
+
+**27** For the people who live in Jerusalem and their rulers did not recognize him or understand the words of the prophets that are read every Sabbath, and by condemning him they fulfilled those words.
+
+**28** Though they found no grounds for a death sentence, they asked Pilate to have him executed.
+
+**29** When they had carried out everything that was written about him, they took him down from the tree[^13-23] and laid him in a tomb.
+
+**30** But God raised him from the dead,
+
+**31** and for many days he appeared to those who had come up with him from Galilee to Jerusalem. They are now his witnesses to the people.
+
+**32** And we are bringing you the good news that the promise God made to our ancestors
+
+**33** he has fulfilled for our children[^13-24] by raising up Jesus,[^13-25] as it is also written in the second psalm:[^13-26] 'You are my Son; today I have become your father.'[^13-27]
+
+**34** As for the fact that he raised him from the dead, never again to return to decay, he has said this: 'I will give you the holy and sure blessings promised to David.'[^13-28]
+
+**35** So he also says in another psalm,[^13-29] 'You will not let your faithful one see decay.'[^13-30]
+
+**36** For David, after he had served God's purpose in his own generation,[^13-31] fell asleep. He was laid with his ancestors[^13-32] and saw decay.
+
+**37** But the one whom God raised did not see decay.
+
+**38** So let it be known to you, brothers, that through this man forgiveness of sins is proclaimed to you. From everything from which you could not be declared righteous[^13-33] by the Law of Moses,
+
+**39** everyone who believes is declared righteous through him.
+
+**40** So take care that what was said in the Prophets does not come about:
+
+**41** 'Look, you scoffers, be amazed and perish! For I am doing a deed in your days, a deed that you would never believe, even if someone told you.'"[^13-34]
+
+**42** As Paul and Barnabas were going out, the people urged them to speak about these things again on the next Sabbath.[^13-35]
+
+**43** When the synagogue meeting broke up, many of the Jews and of the devout converts to Judaism[^13-36] followed Paul and Barnabas, who spoke with them and urged them to continue in the grace of God.
+
+**44** On the next Sabbath almost the whole city gathered to hear the word of the Lord.[^13-37]
+
+**45** But when the Jews saw the crowds, they were filled with jealousy and began to contradict what Paul was saying, insulting him.[^13-38]
+
+**46** Then Paul and Barnabas spoke out boldly: "It was necessary that the word of God be spoken to you first. Since you reject it and judge yourselves unworthy of eternal life, we are now turning to the Gentiles.
+
+**47** For this is what the Lord has commanded us: 'I have made you a light for the Gentiles,[^13-39] so that you may bring salvation to the end of the earth.'"[^13-40]
+
+**48** When the Gentiles heard this, they rejoiced and honored the word of the Lord,[^13-41] and all who had been appointed to eternal life believed.
+
+**49** The word of the Lord spread throughout the whole region.
+
+**50** But the Jews stirred up the devout women of high standing[^13-42] and the leading men of the city. They stirred up persecution against Paul and Barnabas and drove them out of their district.
+
+**51** So they shook the dust off their feet as a protest against them[^13-43] and went to Iconium.
+
+**52** And the disciples were filled with joy and with the Holy Spirit.
+
+[^13-1]: A Latin name meaning "black".
+[^13-2]: Herod Antipas, ruler of Galilee and Perea from 4 BC to AD 39 (Mark 6:14–29). *Brought up with*: Greek *syntrophos*, "foster brother" or "companion from childhood", also used as a title for a close friend of a ruler.
+[^13-3]: Aramaic, "son of Jesus" (that is, of Joshua).
+[^13-4]: The Roman governor of a province under the authority of the Senate, as Cyprus was.
+[^13-5]: That is, *Elymas* means "magician". The origin of the name is uncertain.
+[^13-6]: *Paul* (Latin *Paulus*) was his Roman name. From here on Acts calls him Paul.
+[^13-7]: Compare Hosea 14:10 (14:9 in most English Bibles): "the ways of Yahweh are right".
+[^13-8]: A different city from Antioch in Syria (11:19–26; 13:1).
+[^13-9]: Literally "Men, brothers"; also in verses 26 and 38.
+[^13-10]: Literally "Men, Israelites".
+[^13-11]: Probably Gentiles who worshiped the God of Israel (see 10:2); also in verse 26.
+[^13-12]: Literally "a high arm", as in the Septuagint of Exodus 6:1, 6, where the Hebrew has "an outstretched arm".
+[^13-13]: Greek *etropophoresen*, "he put up with them". Compare Numbers 14:33–34; Deuteronomy 1:31.
+[^13-14]: Deuteronomy 7:1.
+[^13-15]: The 450 years probably include the four hundred years in Egypt (7:6), the forty years in the wilderness and the conquest of the land. Many manuscripts read "After this, for about 450 years, he gave them judges until Samuel the prophet". Compare 1 Kings 6:1.
+[^13-16]: The Old Testament does not give the length of Saul's reign; the number in 1 Samuel 13:1 is incomplete in the Hebrew text.
+[^13-17]: Psalm 89:21 (89:20 in most English Bibles) and 1 Samuel 13:14. *Who will carry out all that I desire* is said of Cyrus in Isaiah 44:28.
+[^13-18]: Literally "seed".
+[^13-19]: Many manuscripts read "God has brought salvation to Israel".
+[^13-20]: Or "I am not what you suppose me to be."
+[^13-21]: Compare Mark 1:7; Luke 3:16.
+[^13-22]: Some manuscripts read "to you".
+[^13-23]: See 5:30.
+[^13-24]: Some manuscripts read "for us, their children".
+[^13-25]: Greek *anastesas*, "raising up", which can mean bringing someone onto the scene (as in 3:22) or raising from the dead (as in verse 34).
+[^13-26]: Some manuscripts read "the first psalm".
+[^13-27]: Psalm 2:7. Literally "today I have begotten you".
+[^13-28]: Isaiah 55:3, as in the Septuagint. Literally "the holy (things) of David, the sure (ones)". The Hebrew reads "my faithful love promised to David", with *chesed*, "faithful love", where the Septuagint has *hosia*, "holy things". *Hosia* links this verse with *hosios*, "faithful one", in verse 35.
+[^13-29]: Literally "in another".
+[^13-30]: Psalm 16:10, as in the Septuagint; see 2:27.
+[^13-31]: Or "after he had served his own generation by the will of God".
+[^13-32]: Literally "was added to his fathers".
+[^13-33]: Greek *dikaioo*, traditionally "justify"; also in verse 39. With "from" it means to be cleared of, set free from.
+[^13-34]: Habakkuk 1:5, as in the Septuagint. The Hebrew begins "Look among the nations and see! Be astonished, be amazed!", and does not have "perish".
+[^13-35]: Many manuscripts read "As they were going out of the synagogue of the Jews, the Gentiles urged them to speak these things to them on the next Sabbath".
+[^13-36]: Greek *proselytoi*; see 2:11.
+[^13-37]: Some manuscripts read "the word of God".
+[^13-38]: Or "blaspheming".
+[^13-39]: Or "a light for the nations".
+[^13-40]: Isaiah 49:6, as in the Septuagint. Literally "so that you may be for salvation". The Hebrew reads "so that my salvation may reach to the end of the earth".
+[^13-41]: Some manuscripts read "the word of God".
+[^13-42]: Probably Gentile women who worshiped the God of Israel (compare verse 16).
+[^13-43]: Compare Mark 6:11; Luke 9:5; 10:11.
+
 ## Chapter 15
 
 *Status: draft*
