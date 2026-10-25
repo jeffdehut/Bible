@@ -100,7 +100,7 @@
 
 **7** Whoever has ears, let them hear what the Spirit says to the churches. To the one who conquers[^2-5] I will give the right to eat[^2-6] from the tree of life, which is in the paradise of God.[^2-7]
 
-**8** "To the angel of the church in Smyrna write: This is what the first and the last says, who died and came to life:
+**8** To the angel of the church in Smyrna write: This is what the first and the last says, who died and came to life:
 
 **9** I know your suffering[^2-8] and your poverty, yet you are rich. And I know the slander of those who say that they are Jews and are not, but are a synagogue of Satan.[^2-9]
 
@@ -108,7 +108,7 @@
 
 **11** Whoever has ears, let them hear what the Spirit says to the churches. The one who conquers will not be harmed at all by the second death.[^2-11]
 
-**12** "To the angel of the church in Pergamum write: This is what the one who has the sharp two-edged sword says:
+**12** To the angel of the church in Pergamum write: This is what the one who has the sharp two-edged sword says:
 
 **13** I know where you live:[^2-12] where Satan's throne is.[^2-13] Yet you hold fast to my name, and you did not deny your faith in me[^2-14] even in the days of Antipas, my witness, my faithful one, who was put to death among you, where Satan lives.
 
@@ -120,7 +120,7 @@
 
 **17** Whoever has ears, let them hear what the Spirit says to the churches. To the one who conquers I will give some of the hidden manna,[^2-16] and I will give them a white stone, with a new name written on the stone that no one knows except the one who receives it.[^2-17]
 
-**18** "To the angel of the church in Thyatira write: This is what the Son of God says, whose eyes are like a flame of fire and whose feet are like fine bronze:[^2-18]
+**18** To the angel of the church in Thyatira write: This is what the Son of God says, whose eyes are like a flame of fire and whose feet are like fine bronze:[^2-18]
 
 **19** I know your works: your love and faith and service and endurance, and that your last works are greater than the first.
 
@@ -186,7 +186,7 @@
 
 **6** Whoever has ears, let them hear what the Spirit says to the churches.
 
-**7** "To the angel of the church in Philadelphia write: This is what the Holy One, the True One, says, who has the key of David, who opens and no one will shut, and shuts and no one opens:[^3-8]
+**7** To the angel of the church in Philadelphia write: This is what the Holy One, the True One, says, who has the key of David, who opens and no one will shut, and shuts and no one opens:[^3-8]
 
 **8** I know your works. Look, I have set before you an open door, which no one is able to shut. I know that you have little strength, and yet you have kept my word and have not denied my name.
 
@@ -200,7 +200,7 @@
 
 **13** Whoever has ears, let them hear what the Spirit says to the churches.
 
-**14** "To the angel of the church in Laodicea write: This is what the Amen says,[^3-13] the faithful and true witness, the beginning of God's creation:[^3-14]
+**14** To the angel of the church in Laodicea write: This is what the Amen says,[^3-13] the faithful and true witness, the beginning of God's creation:[^3-14]
 
 **15** I know your works: you are neither cold nor hot. I wish you were either cold or hot.
 
@@ -293,7 +293,7 @@
 
 **5** Then one of the elders said to me, "Do not weep. Look, the Lion of the tribe of Judah, the Root of David,[^5-2] has conquered, so that he can open the scroll and its seven seals."
 
-**6** Then I saw, between the throne with the four living creatures and the elders,[^5-3] a Lamb[^5-4] standing, looking as though he had been slaughtered.[^5-5] He had seven horns and seven eyes, which are the seven spirits of God sent out into all the earth.[^5-6]
+**6** Then I saw, in the middle of the throne and the four living creatures, and among the elders,[^5-3] a Lamb[^5-4] standing, looking as though he had been slaughtered.[^5-5] He had seven horns and seven eyes, which are the seven spirits of God sent out into all the earth.[^5-6]
 
 **7** He went and took it[^5-7] from the right hand of the One seated on the throne.
 
@@ -313,7 +313,7 @@
 
 [^5-1]: Compare Ezekiel 2:9–10, a scroll with "writing on the front and on the back"; and Isaiah 29:11, "the words of a sealed scroll". *Seals*: a document was sealed with wax or clay, impressed with its owner's mark, so that it could not be opened without breaking them.
 [^5-2]: Genesis 49:9–10, "Judah is a lion's cub"; Isaiah 11:1, 10, "the root of Jesse", David's father.
-[^5-3]: Literally "in the middle of the throne and of the four living creatures, and in the middle of the elders".
+[^5-3]: Or "between the throne with the four living creatures and the elders". Compare 4:6.
 [^5-4]: Greek *arnion*, "lamb", the word used for Christ throughout Revelation. John 1:29, 36 has a different word, *amnos*.
 [^5-5]: Greek *sphazo*, "slaughter", the word used for killing a sacrificial animal; also in verses 9 and 12. Compare Isaiah 53:7, "like a lamb that is led to the slaughter".
 [^5-6]: Zechariah 4:10, "These seven are the eyes of Yahweh, which range over the whole earth". See the note on 1:4.
@@ -761,7 +761,7 @@
 [^13-11]: Literally "the holy ones", traditionally "the saints"; also in verse 10.
 [^13-12]: Compare Daniel 7:21, "this horn was making war against the holy ones and was prevailing over them".
 [^13-13]: Or "in the book of life of the Lamb who was slaughtered from the foundation of the world". The Greek may be read either way; compare 17:8.
-[^13-14]: Compare Jeremiah 15:2, "those destined for the sword, to the sword; … and those destined for captivity, to captivity"; 43:11. Many manuscripts read "If anyone holds captives, they will go away".
+[^13-14]: Compare Jeremiah 15:2, "those destined for the sword, to the sword; … and those destined for captivity, to captivity"; 43:11. Many manuscripts read "If anyone holds captives, they go away".
 [^13-15]: The SBLGNT here follows NA28; other editions read "If anyone kills with the sword, with the sword they must be killed."
 [^13-16]: Literally "Here is the endurance and the faith of the holy ones".
 [^13-17]: Literally "before it", "in its presence"; also in verse 14.
@@ -886,7 +886,7 @@
 
 **4** The third angel poured out his bowl into the rivers and the springs of water, and they became blood.
 
-**5** And I heard the angel of the waters say, "You are just, the Holy One, who is and who was,[^16-3] because you have judged these things.
+**5** And I heard the angel of the waters say, "You are just, Holy One, who is and who was,[^16-3] because you have judged these things.
 
 **6** For they poured out the blood of God's holy people[^16-4] and of prophets, and you have given them blood to drink.[^16-5] They deserve it."[^16-6]
 
@@ -1098,7 +1098,7 @@
 
 **6** Then I heard what sounded like the voice of a great crowd, like the sound of many waters and like the sound of mighty peals of thunder, saying, "Hallelujah! For the Lord God, the Almighty, reigns.[^19-7]
 
-**7** Let us rejoice and be glad and give him the glory,[^19-8] for the wedding of the Lamb has come, and his bride[^19-9] has made herself ready.
+**7** Let us rejoice and be glad, and we will give him the glory,[^19-8] for the wedding of the Lamb has come, and his bride[^19-9] has made herself ready.
 
 **8** She has been given fine linen, bright and clean, to wear." For the fine linen is the righteous deeds[^19-10] of God's holy people.[^19-11]
 
@@ -1135,7 +1135,7 @@
 [^19-5]: Compare Psalm 106:48, "Let all the people say, 'Amen!' Praise Yah!"
 [^19-6]: Compare Psalm 135:1, "praise him, you servants of Yahweh"; 135:20, "You who fear Yahweh, bless Yahweh!"; 115:13.
 [^19-7]: Or "has begun to reign". Compare Psalms 93:1; 97:1; 99:1, "Yahweh reigns!", where the Greek Old Testament has the same verb. In the Hebrew, "the Lord" there is God's personal name, Yahweh. The SBLGNT here follows the margin of Westcott and Hort; the other editions read "the Lord our God, the Almighty".
-[^19-8]: Some manuscripts read "and we will give him the glory".
+[^19-8]: The SBLGNT here follows Westcott and Hort; other editions read "and let us give him the glory".
 [^19-9]: Literally "his wife". Compare Isaiah 54:5–6; 62:5; Hosea 2:21–22 (2:19–20 in most English Bibles), where God is the husband of his people.
 [^19-10]: Greek *dikaiomata*, "righteous acts". Compare Isaiah 61:10, "he has clothed me with garments of salvation and wrapped me in a robe of righteousness".
 [^19-11]: Literally "of the holy ones", traditionally "of the saints".
@@ -1234,7 +1234,7 @@
 
 **11** having the glory of God.[^21-20] Its radiance was like a most precious stone, like jasper, clear as crystal.
 
-**12** It had a great, high wall with twelve gates, and at the gates twelve angels, and on the gates were written names, the names of the twelve tribes of the Israelites.[^21-21]
+**12** It had a great, high wall with twelve gates, and at the gates twelve angels, and names were inscribed on them, those of the twelve tribes of the Israelites.[^21-21]
 
 **13** There were three gates on the east, three gates on the north, three gates on the south and three gates on the west.
 
@@ -1273,7 +1273,7 @@
 [^21-5]: Many manuscripts read "his people".
 [^21-6]: Some manuscripts read "will be with them as their God". Compare Leviticus 26:11–12, "I will walk among you and be your God, and you will be my people"; Ezekiel 37:27; Zechariah 2:14 (2:10 in most English Bibles).
 [^21-7]: Isaiah 25:8. See 7:17.
-[^21-8]: Many manuscripts read "for the former things have passed away". Compare Isaiah 35:10; 65:17, 19, "the sound of weeping and the sound of crying will no longer be heard in it".
+[^21-8]: The SBLGNT here follows Westcott and Hort; other editions read "for the former things have passed away". Compare Isaiah 35:10; 65:17, 19, "the sound of weeping and the sound of crying will no longer be heard in it".
 [^21-9]: Compare Isaiah 43:19, "Look, I am doing a new thing!"
 [^21-10]: Many manuscripts read "And he said to me".
 [^21-11]: Literally "They have come to be". Many manuscripts read *gegona*, a first-person form, "I have come to be".
@@ -1351,8 +1351,8 @@
 [^22-6]: Compare Psalm 17:15, "in righteousness I will see your face"; contrast Exodus 33:20.
 [^22-7]: Compare Isaiah 60:19, "But Yahweh will be your everlasting light". See 21:23.
 [^22-8]: Compare Daniel 7:18, 27.
-[^22-9]: See 1:1. Compare Daniel 2:28–29, 45.
-[^22-10]: In verse 7, as in verses 12–16 and 20, it is Jesus who speaks, through the angel.
+[^22-9]: See 1:1. Compare Daniel 2:28–29, 45. *The God of the spirits of the prophets*: compare Numbers 27:16, "Yahweh, the God of the spirits of all living beings".
+[^22-10]: In verse 7, as in verses 12–16 and 20, the speaker is Jesus.
 [^22-11]: Greek *adelphoi*, "brothers", used of the believers, men and women alike.
 [^22-12]: Contrast Daniel 8:26; 12:4, 9, where Daniel is told to seal the book until the time of the end.
 [^22-13]: Compare Daniel 12:10, "Many will be purified, made white and refined, but the wicked will act wickedly."

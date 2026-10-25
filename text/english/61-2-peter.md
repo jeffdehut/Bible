@@ -39,7 +39,7 @@
 
 **16** For we did not follow cleverly devised myths when we made known to you the power and coming of our Lord Jesus Christ, but we were eyewitnesses of his majesty.
 
-**17** For he received honor and glory from God the Father when the voice came to him from the Majestic Glory,[^1-14] "This is my Son, whom I love. I am delighted with him."[^1-15]
+**17** For he received honor and glory from God the Father when a voice like this came to him from the Majestic Glory:[^1-14] "This is my Son, whom I love. I am delighted with him."[^1-15]
 
 **18** We ourselves heard this voice come from heaven, when we were with him on the holy mountain.
 
@@ -174,7 +174,7 @@
 
 **10** But the day of the Lord will come like a thief.[^3-11] On that day the heavens will pass away with a roar, the elements[^3-12] will be dissolved in the heat, and the earth and the works done on it will be found out.[^3-13]
 
-**11** Since all these things are to be dissolved in this way, what kind of people ought you to be, in holy conduct and godliness,
+**11** Since all these things are to be dissolved in this way, what kind of people you ought to be, in holy conduct and godliness,
 
 **12** as you wait for the coming of the day of God and hasten it![^3-14] Because of it the heavens will be set on fire and dissolved, and the elements will melt in the heat.[^3-15]
 

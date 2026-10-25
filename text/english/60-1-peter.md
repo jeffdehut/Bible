@@ -9,13 +9,13 @@
 
 **1** Peter, an apostle of Jesus Christ, to God's chosen people who live as foreigners[^1-1] in the Dispersion,[^1-2] in Pontus, Galatia, Cappadocia, Asia and Bithynia,[^1-3]
 
-**2** chosen according to the foreknowledge of God the Father, through the Spirit's work of making you holy, to obey Jesus Christ and to be sprinkled with his blood:[^1-4] May grace and peace be yours in abundance.[^1-5]
+**2** chosen according to the foreknowledge of God the Father, through the Spirit's work of making you holy, so that you may obey and be sprinkled with the blood of Jesus Christ:[^1-4] May grace and peace be yours in abundance.[^1-5]
 
 **3** Blessed be the God and Father of our Lord Jesus Christ! In his great mercy he has given us new birth into a living hope through the resurrection of Jesus Christ from the dead,
 
 **4** and into an inheritance that can never perish, spoil or fade. It is kept in heaven for you,
 
-**5** who through faith are guarded by God's power until the coming of the salvation that is ready to be revealed in the last time.
+**5** who through faith are guarded by God's power for a salvation that is ready to be revealed in the last time.
 
 **6** In this you rejoice,[^1-6] though now for a little while, if it must be, you have been grieved by trials of many kinds,
 
@@ -96,7 +96,7 @@
 
 **6** For it stands in scripture: "Look, I am laying in Zion a stone, a chosen and precious cornerstone, and whoever believes in him[^2-5] will never be put to shame."[^2-6]
 
-**7** So for you who believe, he is precious.[^2-7] But for those who do not believe,[^2-8] "The stone the builders rejected has become the cornerstone,"[^2-9]
+**7** So the honor is for you who believe.[^2-7] But for those who do not believe,[^2-8] "The stone the builders rejected has become the cornerstone,"[^2-9]
 
 **8** and, "A stone that makes people stumble and a rock that makes them fall."[^2-10] They stumble because they disobey the word, as they were destined to do.[^2-11]
 
@@ -120,7 +120,7 @@
 
 **18** Household slaves,[^2-23] submit to your masters with all respect,[^2-24] not only to those who are good and gentle but also to those who are harsh.
 
-**19** For it is commendable[^2-25] if, because they are mindful of God, someone endures the pain of suffering unjustly.
+**19** For it is commendable[^2-25] if someone endures the pain of suffering unjustly because they are mindful of God.
 
 **20** For what credit is it if you endure when you are beaten for doing wrong? But if you endure when you suffer for doing good, this is commendable before God.
 
@@ -140,7 +140,7 @@
 [^2-4]: Or "let yourselves be built", a command.
 [^2-5]: Or "in it", the stone.
 [^2-6]: Isaiah 28:16, as in the Septuagint. The Hebrew reads "a stone, a tested stone, a precious cornerstone, a firm foundation. Whoever trusts will not panic."
-[^2-7]: Or "So the honor is yours who believe". Greek *time*, "honor, preciousness", from the same root as "precious" (*entimos*) in verses 4 and 6.
+[^2-7]: Or "So for you who believe, he is precious." Greek *time*, "honor, preciousness", from the same root as "precious" (*entimos*) in verses 4 and 6. The honor is the opposite of being "put to shame" (verse 6).
 [^2-8]: Many manuscripts read "for those who disobey".
 [^2-9]: Psalm 118:22 (see Mark 12:10). Literally "the head of the corner".
 [^2-10]: Isaiah 8:14.
@@ -250,7 +250,7 @@
 
 **2** so as to live the rest of your time in the flesh no longer for human desires but for the will of God.
 
-**3** For you have spent enough time in the past doing what the Gentiles like to do, living in sensuality, lust, drunkenness, carousing, drinking parties and lawless idolatry.
+**3** For you have spent enough time in the past doing what the Gentiles like to do, living in debauchery, lust, drunkenness, carousing, drinking parties and lawless idolatry.
 
 **4** They are surprised that you no longer join them in the same flood of wild living, and they slander you.[^4-3]
 
@@ -321,7 +321,7 @@
 
 **8** Be sober-minded; be watchful. Your adversary[^5-8] the devil prowls around like a roaring lion, looking for someone to devour.
 
-**9** Resist him, firm in your faith, knowing that the same kinds of suffering are being laid on your family of believers[^5-9] throughout the world.
+**9** Resist him, firm in your faith, knowing that the same kinds of suffering are being experienced by your family of believers[^5-9] throughout the world.
 
 **10** And after you have suffered a little while, the God of all grace, who called you to his eternal glory in Christ, will himself restore you, strengthen you, make you firm and establish you.[^5-10]
 

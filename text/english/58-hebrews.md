@@ -226,7 +226,7 @@
 **16** So let us approach the throne of grace with confidence, so that we may receive mercy and find grace to help us at the time we need it.
 
 [^4-1]: Literally "let us fear".
-[^4-2]: Literally "not being mixed by faith with those who heard", perhaps those who listened with faith, such as Joshua and Caleb (Numbers 14:6–9). Some manuscripts read "because it was not mixed with faith in those who heard", that is, the message was not met with faith.
+[^4-2]: Literally "not being mixed by faith with those who heard", perhaps those who listened with faith, such as Joshua and Caleb (Numbers 14:6–9). Some editions read "because it was not mixed with faith in those who heard", that is, the message was not met with faith.
 [^4-3]: Literally "we enter into rest". Greek *katapausis*, the word for "rest" in the psalm.
 [^4-4]: Psalm 95:11 (see 3:11).
 [^4-5]: Genesis 2:2. *Rested*: Greek *katepausen*, the verb related to *katapausis*, "rest".
@@ -327,7 +327,7 @@
 
 **17** So when God wanted to show even more clearly to the heirs of the promise that his purpose could not change, he guaranteed it with an oath,[^6-15]
 
-**18** so that through two unchangeable things, in which it is impossible for God to lie, we who have fled to him for refuge might have strong encouragement to hold on to the hope set before us.
+**18** so that through two unchangeable things, in which it is impossible for God to lie, we who have fled for refuge might have strong encouragement to hold on to the hope set before us.
 
 **19** We have this hope as an anchor for the soul, sure and firm, and it enters inside the veil,[^6-16]
 
@@ -452,7 +452,7 @@
 
 **7** For if that first covenant[^8-7] had been without fault, there would have been no occasion to look for a second.
 
-**8** But God finds fault with them when he says,[^8-8] "Look, the days are coming, declares the Lord,[^8-9] when I will establish[^8-10] a new covenant with the house of Israel and with the house of Judah.
+**8** For God finds fault with them when he says,[^8-8] "Look, the days are coming, declares the Lord,[^8-9] when I will establish[^8-10] a new covenant with the house of Israel and with the house of Judah.
 
 **9** It will not be like the covenant I made with their ancestors on the day I took them by the hand to bring them out of the land of Egypt. For they did not continue in my covenant, and so I paid no attention to them, declares the Lord.[^8-11]
 
@@ -638,7 +638,7 @@
 
 **32** But remember those earlier days when, after you had been enlightened, you endured a hard struggle[^10-24] with sufferings.
 
-**33** Sometimes you were publicly exposed to insults and persecution; at other times you stood alongside those who were treated that way.
+**33** Sometimes you were publicly exposed to insults and afflictions; at other times you stood alongside those who were treated that way.
 
 **34** For you sympathized with those in prison,[^10-25] and you accepted with joy the seizure of your property, because you knew that you yourselves had a better possession, one that lasts.[^10-26]
 
@@ -662,7 +662,7 @@
 [^10-8]: Or "offered a single sacrifice for sins and sat down forever at the right hand of God".
 [^10-9]: Psalm 110:1 (see 1:13).
 [^10-10]: Or, as part of the quotation, "declares the Lord". Verses 16–17 quote Jeremiah 31:33–34 (see 8:10–12) freely: Jeremiah has "with the house of Israel". In the Hebrew, "the Lord" is God's personal name, Yahweh.
-[^10-11]: Some manuscripts add "then he says" at the start of verse 17.
+[^10-11]: Some editions add "then he says" at the start of verse 17.
 [^10-12]: Greek *adelphoi*, "brothers", used of men and women alike.
 [^10-13]: Greek *ton hagion*, "the holy (places)" (see 9:8, 12).
 [^10-14]: Greek *enkainizo*, "inaugurate, dedicate", the verb used of the first covenant in 9:18.
@@ -689,7 +689,7 @@
 
 **1** Faith is the assurance[^11-1] of what we hope for, the proof[^11-2] of what we cannot see.
 
-**2** It was for this that the people of old[^11-3] received God's approval.
+**2** For by it the people of old[^11-3] received God's approval.
 
 **3** By faith we understand that the universe[^11-4] was put in order by the word of God, so that what is seen did not come from things that are visible.[^11-5]
 

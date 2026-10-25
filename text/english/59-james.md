@@ -255,7 +255,7 @@
 
 **13** Come now, you who say, "Today or tomorrow we will go to this or that city, spend a year there, do business and make a profit."
 
-**14** You do not even know what your life will be like tomorrow.[^4-9] You are a mist[^4-10] that appears for a little while and then vanishes.
+**14** You do not know what your life will be like tomorrow.[^4-9] You are a mist[^4-10] that appears for a little while and then vanishes.
 
 **15** Instead, you ought to say, "If the Lord wills, we will live and do this or that."
 
@@ -282,7 +282,7 @@
 
 **2** Your wealth has rotted, and your clothes have become moth-eaten.
 
-**3** Your gold and silver have corroded, and their corrosion[^5-1] will be evidence against you, and it will eat your flesh. You have stored up treasure that is like fire, in the last days.[^5-2]
+**3** Your gold and silver have corroded, and their corrosion[^5-1] will be evidence against you, and it will eat your flesh. The treasure you have stored up in the last days is like fire.[^5-2]
 
 **4** Look, the wages you withheld from the workers who mowed your fields are crying out, and the cries of the harvesters have reached the ears of the Lord of Armies.[^5-3]
 
