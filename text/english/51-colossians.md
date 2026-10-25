@@ -17,7 +17,7 @@
 
 **5** because of the hope laid up for you in heaven. You heard of this hope before in the word of the truth, the good news
 
-**6** that has come to you. Just as in the whole world it is bearing fruit and growing, so it has among you also, from the day you heard it and came to know the grace of God in truth,
+**6** that has come to you. Just as in the whole world it is bearing fruit and growing, so it has been among you also, from the day you heard it and came to know the grace of God in truth,
 
 **7** just as you learned it from Epaphras, our beloved fellow servant,[^1-5] who is a faithful servant[^1-6] of Christ on our behalf,[^1-7]
 
@@ -234,7 +234,7 @@
 [^3-3]: Literally "the members that are on the earth".
 [^3-4]: Literally "on the sons of disobedience". Some manuscripts leave out these words.
 [^3-5]: Or "Among them".
-[^3-6]: Literally "walked", a common biblical picture for a way of life.
+[^3-6]: "Walked" is a common biblical picture for a way of life.
 [^3-7]: Literally "the old man"; also "the new" in verse 10.
 [^3-8]: Literally "according to the image of the one who created him". Compare Genesis 1:26–27.
 [^3-9]: *Barbarian*: Greek *barbaros*, someone who did not speak Greek. The Scythians, a people from north of the Black Sea, were thought of by Greeks as the least civilized of all.
