@@ -102,6 +102,10 @@ Decisions marked **proposed** are used in the pilot and are open for review.
 | ᾅδης | Hades | The realm of the dead, like Sheol. Noted at its first occurrence in each chapter. |
 | γέεννα | hell | "Greek *Gehenna*", noted at its first occurrence in each chapter (see Mark 9:43). |
 | ἀμὴν λέγω ὑμῖν | Truly I tell you | |
+| ἱλαστήριον | atonement cover (Hebrews 9:5); "place of atonement" (Romans 3:25) | The Greek Old Testament's word for the *kapporet* (Exodus 25:17, "atonement cover"). Romans 3:25 is noted with this link and the alternative "sacrifice of atonement". |
+| χάρις, εἰρήνη in greetings | grace, peace | Paul's greeting: "Grace to you and peace from God our Father and the Lord Jesus Christ." |
+| Ἰησοῦς Χριστός / Χριστὸς Ἰησοῦς | Jesus Christ / Christ Jesus | Kept in the order the Greek has. |
+| ἐν Χριστῷ | in Christ | |
 | ὁ υἱὸς τοῦ ἀνθρώπου | the Son of Man | |
 | ἡ βασιλεία τοῦ θεοῦ / τῶν οὐρανῶν | the kingdom of God / the kingdom of heaven | Kept as each writer has it. |
 | εὐαγγέλιον | good news | |
@@ -195,6 +199,12 @@ from the Hebrew.
   - a verse that is absent: the verse number is skipped in the file, and the previous verse
     has a note giving the verse and its words (Mark 11:25, 15:27).
   Check the single-word variants too: one word can change the meaning (Mark 1:41).
+  - Text the SBLGNT prints in double brackets ⟦ ⟧ (Mark 16:9–20, John 7:53–8:11) keeps them in
+    the translation, with a note on the manuscript evidence, as in Mark 16.
+  - A few famous readings are found only in the Textus Receptus, the basis of the King James
+    Version, and not in the apparatus (1 John 5:7–8, Acts 8:37). They may be noted as "The
+    Textus Receptus (followed by the King James Version) adds …", after checking the words in
+    this repository's `text/greek-tr/`.
 - **Old Testament variants**: the ketiv/qere, and well-known, well-documented readings of
   the Septuagint (including 1 Esdras, its parallel to Ezra–Nehemiah), the Dead Sea Scrolls, the
   Samaritan Pentateuch, the Syriac, the Aramaic Targums or the Vulgate
@@ -237,6 +247,15 @@ from the Hebrew.
   it, pointing back: "See 25:17."
 - Notes explain, they don't preach: meaning, alternatives, background, references. No
   devotional or doctrinal commentary.
+
+**The New Testament and the Old.**
+- Where Matthew and Luke share a passage with Mark and the Greek is the same, use the same
+  English as `translation/41-mark/`. The Gospels may differ only where the Greek does.
+- An Old Testament quotation follows this translation's Old Testament (`translation/`) where
+  the Greek renders the Hebrew. Where the New Testament follows the Septuagint and it differs
+  from the Hebrew, translate the Greek as it stands and say so in a note (Hebrews 10:5).
+- The note on an Old Testament quotation gives the reference in Hebrew numbering with the
+  English added: "Psalm 2:7"; "Joel 3:1–5 (2:28–32 in most English Bibles)".
 
 **Before you finish.** `python3 scripts/translation.py --check <book>` must pass.
 
