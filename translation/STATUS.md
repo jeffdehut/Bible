@@ -1,6 +1,6 @@
 # Translation status
 
-1180 of 1,189 chapters translated: 1180 draft, 0 checked, 0 reviewed, 0 approved.
+1182 of 1,189 chapters translated: 1182 draft, 0 checked, 0 reviewed, 0 approved.
 
 | Book | Chapters | Draft | Checked | Reviewed | Approved | Translated chapters |
 |---|---|---|---|---|---|---|
@@ -59,7 +59,7 @@
 | 2 Thessalonians | 3 | 3 |  |  |  | 1, 2, 3 |
 | 1 Timothy | 6 | 6 |  |  |  | 1, 2, 3, 4, 5, 6 |
 | 2 Timothy | 4 | 4 |  |  |  | 1, 2, 3, 4 |
-| Titus | 3 | 2 |  |  |  | 1, 2 |
+| Titus | 3 | 3 |  |  |  | 1, 2, 3 |
 | Hebrews | 13 | 13 |  |  |  | 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13 |
 | James | 5 | 5 |  |  |  | 1, 2, 3, 4, 5 |
 | 1 Peter | 5 | 5 |  |  |  | 1, 2, 3, 4, 5 |
@@ -67,4 +67,4 @@
 | 2 John | 1 | 1 |  |  |  | 1 |
 | 3 John | 1 | 1 |  |  |  | 1 |
 | Jude | 1 | 1 |  |  |  | 1 |
-| Revelation | 22 | 18 |  |  |  | 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18 |
+| Revelation | 22 | 19 |  |  |  | 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19 |

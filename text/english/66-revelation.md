@@ -1081,3 +1081,80 @@
 [^18-28]: Compare Jeremiah 25:10, "the voice of the bridegroom and the voice of the bride, the sound of the millstones and the light of the lamp"; Ezekiel 26:13.
 [^18-29]: Compare Isaiah 23:8, of Tyre, "whose merchants are princes".
 [^18-30]: Compare Jeremiah 51:49, "as the slain of all the earth have fallen because of Babylon".
+
+## Chapter 19
+
+*Status: draft*
+
+**1** After this I heard what sounded like the loud voice of a great crowd in heaven, saying, "Hallelujah![^19-a] Salvation and glory and power belong to our God,
+
+**2** for his judgments are true and just.[^19-b] He has judged the great prostitute who corrupted the earth with her sexual immorality, and he has avenged on her the blood of his servants."[^19-c]
+
+**3** And a second time they said, "Hallelujah! The smoke from her goes up forever and ever."[^19-d]
+
+**4** Then the twenty-four elders and the four living creatures fell down and worshiped God, who is seated on the throne, saying, "Amen. Hallelujah!"[^19-e]
+
+**5** And a voice came from the throne, saying, "Praise our God, all you his servants, you who fear him, small and great."[^19-f]
+
+**6** Then I heard what sounded like the voice of a great crowd, like the sound of many waters and like the sound of mighty peals of thunder, saying, "Hallelujah! For the Lord God, the Almighty, reigns.[^19-g]
+
+**7** Let us rejoice and be glad and give him the glory,[^19-h] for the wedding of the Lamb has come, and his bride[^19-i] has made herself ready.
+
+**8** She has been given fine linen, bright and clean, to wear." For the fine linen is the righteous deeds[^19-j] of God's holy people.[^19-k]
+
+**9** Then the angel said to me,[^19-l] "Write: Blessed are those who are invited to the wedding banquet of the Lamb." And he said to me, "These are the true words of God."
+
+**10** Then I fell at his feet to worship him, but he said to me, "Don't do that! I am a fellow servant with you and with your brothers and sisters[^19-m] who hold to the testimony of Jesus.[^19-n] Worship God! For the testimony of Jesus is the spirit of prophecy."
+
+**11** Then I saw heaven standing open, and there was a white horse. Its rider is called Faithful and True, and in righteousness he judges and makes war.[^19-o]
+
+**12** His eyes were a flame of fire,[^19-p] and on his head were many diadems. He had a name written that no one knows except he himself.[^19-q]
+
+**13** He was dressed in a robe dipped in blood,[^19-r] and his name is called the Word of God.[^19-s]
+
+**14** The armies of heaven, dressed in fine linen, white and clean, were following him on white horses.
+
+**15** Out of his mouth came a sharp sword[^19-t] with which to strike down the nations,[^19-u] and he will rule them with an iron rod.[^19-v] He treads the winepress of the wine of the fury of the anger of God Almighty.[^19-w]
+
+**16** On his robe and on his thigh he has a name written: King of kings and Lord of lords.[^19-x]
+
+**17** Then I saw an angel[^19-y] standing in the sun, and he called out with a loud voice to all the birds flying in midheaven, "Come, gather for the great banquet of God,
+
+**18** to eat the flesh of kings, the flesh of generals,[^19-z] the flesh of the mighty, the flesh of horses and their riders, and the flesh of all people, free and slave, small and great."[^19-aa]
+
+**19** Then I saw the beast and the kings of the earth and their armies gathered to make war against the rider on the horse and against his army.[^19-ab]
+
+**20** But the beast was captured, and with it the false prophet who had performed the signs on its behalf,[^19-ac] by which he deceived those who had received the mark of the beast and those who worshiped its image. The two of them were thrown alive into the lake of fire that burns with sulfur.[^19-ad]
+
+**21** The rest were killed by the sword that came out of the mouth of the rider on the horse, and all the birds gorged themselves on their flesh.
+
+[^19-a]: Greek *hallelouia*, from the Hebrew *hallelu-yah*, "Praise Yah!" (as in Psalms 104:35; 106:48; 146–150). *Yah* is a short form of God's personal name, Yahweh. In the New Testament the word occurs only in verses 1–6 of this chapter.
+[^19-aa]: Compare Ezekiel 39:17–20, "Say to the birds of every kind and to all the wild animals, 'Assemble and come! … You will eat the flesh of the mighty and drink the blood of the princes of the earth'".
+[^19-ab]: Compare Psalm 2:2, "The kings of the earth take their stand … against Yahweh and against his anointed one".
+[^19-ac]: Literally "before it". See 13:12–14.
+[^19-ad]: Compare Daniel 7:11, "the beast was killed, and its body destroyed and given over to the burning fire".
+[^19-b]: See 16:7.
+[^19-c]: Literally "from her hand". Compare Deuteronomy 32:43, "for he will avenge the blood of his servants"; 2 Kings 9:7, of Jezebel.
+[^19-d]: Compare Isaiah 34:10, "its smoke will go up forever". See 14:11.
+[^19-e]: Compare Psalm 106:48, "Let all the people say, 'Amen!' Praise Yah!"
+[^19-f]: Compare Psalm 135:1, "praise him, you servants of Yahweh"; 135:20, "You who fear Yahweh, bless Yahweh!"; 115:13.
+[^19-g]: Or "has begun to reign". Compare Psalms 93:1; 97:1; 99:1, "Yahweh reigns!", where the Greek Old Testament has the same verb. In the Hebrew, "the Lord" there is God's personal name, Yahweh. The SBLGNT here follows the margin of Westcott and Hort; the other editions read "the Lord our God, the Almighty".
+[^19-h]: Some manuscripts read "and we will give him the glory".
+[^19-i]: Literally "his wife". Compare Isaiah 54:5–6; 62:5; Hosea 2:21–22 (2:19–20 in most English Bibles), where God is the husband of his people.
+[^19-j]: Greek *dikaiomata*, "righteous acts". Compare Isaiah 61:10, "he has clothed me with garments of salvation and wrapped me in a robe of righteousness".
+[^19-k]: Literally "of the holy ones", traditionally "of the saints".
+[^19-l]: Literally "he said to me", probably the angel of 17:1.
+[^19-m]: Greek *adelphoi*, "brothers", used of the believers, men and women alike.
+[^19-n]: Or "the testimony about Jesus"; also later in the verse.
+[^19-o]: Compare Isaiah 11:4, "He will judge the poor with righteousness"; Psalm 96:13.
+[^19-p]: Some manuscripts read "like a flame of fire", as in 1:14.
+[^19-q]: Many manuscripts read "He had names written, and a name written that no one knows except he himself."
+[^19-r]: Some manuscripts read "sprinkled with blood". Compare Isaiah 63:1–3, "Why is your clothing red, and your garments like those of one who treads in the winepress?"
+[^19-s]: Compare John 1:1, 14.
+[^19-t]: Many manuscripts read "a sharp two-edged sword", as in 1:16.
+[^19-u]: Compare Isaiah 11:4, "He will strike the earth with the rod of his mouth".
+[^19-v]: Psalm 2:9. See the note on 2:27.
+[^19-w]: Compare Isaiah 63:3, "I have trodden the winepress alone". See 14:19–20.
+[^19-x]: See 17:14; Deuteronomy 10:17.
+[^19-y]: Literally "one angel".
+[^19-z]: Greek *chiliarchoi*, "commanders of a thousand". See 6:15.

@@ -96,3 +96,48 @@
 [^2-8]: Greek *epiphaneia*, "appearance, manifestation", related to the verb "has appeared" in verse 11. *The appearing of the glory*: or "the glorious appearing".
 [^2-9]: Or "of the great God and our Savior Jesus Christ". In the Greek one article governs both "God" and "Savior", which many take to mean that both refer to Jesus Christ; others take them as two persons.
 [^2-10]: Greek *laos periousios*, the phrase the Septuagint uses for Israel as Yahweh's "treasured possession" (Exodus 19:5; Deuteronomy 14:2). *Redeem us from all lawlessness*: compare Psalm 130:8; Ezekiel 37:23.
+
+## Chapter 3
+
+*Status: draft*
+
+**1** Remind them to be subject[^3-1] to rulers and authorities, to be obedient, to be ready for every good work,
+
+**2** to slander no one, to avoid quarreling, to be considerate, and to show complete gentleness toward all people.
+
+**3** For we ourselves were once foolish, disobedient, led astray, enslaved to all kinds of desires and pleasures, living in malice and envy, hated and hating one another.
+
+**4** But when the kindness and love for humankind[^3-2] of God our Savior appeared,
+
+**5** he saved us, not because of works we had done in righteousness, but according to his mercy, through the washing of rebirth and renewal by the Holy Spirit,[^3-3]
+
+**6** whom he poured out on us richly[^3-4] through Jesus Christ our Savior,
+
+**7** so that, having been declared righteous[^3-5] by his grace, we might become heirs according to the hope of eternal life.
+
+**8** The saying is trustworthy,[^3-6] and I want you to insist on these things, so that those who have believed in God may be careful to devote themselves to good works.[^3-7] These things are excellent and profitable for people.
+
+**9** But avoid foolish controversies, genealogies, quarrels and disputes about the Law, for they are unprofitable and worthless.
+
+**10** As for a divisive person,[^3-8] after warning him once and then a second time, have nothing more to do with him,
+
+**11** knowing that such a person is perverted and sinful; he is self-condemned.
+
+**12** When I send Artemas or Tychicus to you, do your best to come to me at Nicopolis, for I have decided to spend the winter there.
+
+**13** Do your best to send Zenas the lawyer[^3-9] and Apollos on their way, and see that they lack nothing.
+
+**14** And let our people also learn to devote themselves to good works, so as to meet urgent needs, so that they will not be unfruitful.
+
+**15** All who are with me greet you. Greet those who love us in the faith. Grace be with you all.[^3-10]
+
+[^3-1]: Greek *hypotasso*, "to place oneself under, to be subject to", as in 2:5 and 2:9.
+[^3-2]: Greek *philanthropia*, "love for human beings", the source of the word "philanthropy".
+[^3-3]: Or "through the washing of rebirth and of renewal by the Holy Spirit", with one washing that brings both. Greek *palingenesia*, "new birth, regeneration".
+[^3-4]: Compare Joel 3:1 (2:28 in most English Bibles).
+[^3-5]: Greek *dikaioo*, traditionally "justify".
+[^3-6]: See 1 Timothy 1:15. The saying is probably the words of verses 4–7.
+[^3-7]: Or "to engage in honorable occupations"; also in verse 14. Greek *proistemi*, "lead, care for, devote oneself to".
+[^3-8]: Greek *hairetikos*, "factious, causing divisions", the source of the word "heretic".
+[^3-9]: Greek *nomikos*, "legal expert", either in Roman law or in the Law of Moses.
+[^3-10]: Many manuscripts add "Amen".
