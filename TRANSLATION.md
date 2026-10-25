@@ -212,7 +212,11 @@ from the Hebrew.
     documented (Mark 16:8–20, John 7:53–8:11, John 1:18), where the major witnesses may be named.
   Check the single-word variants too: one word can change the meaning (Mark 1:41).
   - Text the SBLGNT prints in double brackets ⟦ ⟧ (Mark 16:9–20, John 7:53–8:11) keeps them in
-    the translation, with a note on the manuscript evidence, as in Mark 16.
+    the translation, with a note on the manuscript evidence, as in Mark 16. Single brackets [ ]
+    are kept too, with the note "The SBLGNT prints these words in brackets [ ], marking their
+    place in the text as uncertain." (Luke 22:19b–20).
+  - A verse found only in the Textus Receptus (Luke 17:36) is skipped like any absent verse, and
+    the note gives it under the Textus Receptus rule below.
   - A few famous readings are found only in the Textus Receptus, the basis of the King James
     Version, and not in the apparatus (1 John 5:7–8, Acts 8:37). They may be noted as "The
     Textus Receptus (followed by the King James Version) adds …", after checking the words in

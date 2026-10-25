@@ -1,6 +1,6 @@
 # Translation status
 
-1050 of 1,189 chapters translated: 1050 draft, 0 checked, 0 reviewed, 0 approved.
+1051 of 1,189 chapters translated: 1051 draft, 0 checked, 0 reviewed, 0 approved.
 
 | Book | Chapters | Draft | Checked | Reviewed | Approved | Translated chapters |
 |---|---|---|---|---|---|---|
@@ -51,3 +51,4 @@
 | Romans | 16 | 1 |  |  |  | 1 |
 | 1 Corinthians | 16 | 2 |  |  |  | 1, 2 |
 | Ephesians | 6 | 1 |  |  |  | 1 |
+| Hebrews | 13 | 1 |  |  |  | 1 |

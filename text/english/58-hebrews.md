@@ -1,0 +1,60 @@
+# Hebrews
+
+> **Text:** Open Plain English Translation. License: CC BY 4.0. New Testament translated from the SBL Greek New Testament (CC BY 4.0, © 2010 Society of Biblical Literature and Logos Bible Software); Old Testament from the Unicode/XML Leningrad Codex (UXLC 2.6, Tanach.us).  
+> Chapters show their review status: *draft*, *checked*, *reviewed* or *approved*. See TRANSLATION.md.
+
+## Chapter 1
+
+*Status: draft*
+
+**1** Long ago God spoke to our ancestors through the prophets at many times and in many ways.[^1-1]
+
+**2** But in these last days[^1-2] he has spoken to us through a Son,[^1-3] whom he appointed heir of all things, and through whom he also made the universe.[^1-4]
+
+**3** The Son is the radiance of God's glory[^1-5] and the exact imprint of his being,[^1-6] and he sustains all things by his powerful word.[^1-7] After he had made purification for sins by himself,[^1-8] he sat down at the right hand of the Majesty[^1-9] on high.
+
+**4** So he became as much greater than the angels as the name he has inherited is more excellent than theirs.
+
+**5** For to which of the angels did God ever say, "You are my Son; today I have become your father"?[^1-10] Or again, "I will be his father, and he will be my Son"?[^1-11]
+
+**6** And again, when he brings the firstborn into the world,[^1-12] he says, "Let all God's angels worship him."[^1-13]
+
+**7** About the angels he says, "He makes his angels winds, and his servants flames of fire."[^1-14]
+
+**8** But about the Son he says, "Your throne, God, is forever and ever,[^1-15] and the scepter of your kingdom is a scepter of justice.[^1-16]
+
+**9** You have loved righteousness and hated wickedness; so God, your God, has anointed you[^1-17] with the oil of gladness above your companions."[^1-18]
+
+**10** And, "In the beginning, Lord, you laid the foundation of the earth, and the heavens are the work of your hands.[^1-19]
+
+**11** They will perish, but you remain; they will all wear out like a garment.
+
+**12** You will roll them up like a cloak, and like a garment they will be changed.[^1-20] But you are the same, and your years will have no end."[^1-21]
+
+**13** But to which of the angels has he ever said, "Sit at my right hand until I make your enemies a footstool for your feet"?[^1-22]
+
+**14** Are they not all spirits in holy service,[^1-23] sent out to serve for the sake of those who are going to inherit salvation?
+
+[^1-1]: Literally "to the fathers in the prophets". *At many times and in many ways*: Greek *polymeros kai polytropos*, "in many parts and in many ways", two words beginning the letter with the same sound.
+[^1-2]: Literally "at the last of these days".
+[^1-3]: Literally "in a Son". The Greek has no article: God's last word came through one who is a Son. Or "through his Son".
+[^1-4]: Literally "the ages". Greek *aiones*, the world and its ages of time.
+[^1-5]: Literally "the radiance of the glory". Greek *apaugasma*, light shining out from its source; or "reflection".
+[^1-6]: Greek *charakter*, the impression a seal or a die makes, and *hypostasis*, "real being, essence, nature".
+[^1-7]: Literally "by the word of power". *Sustains*: Greek *pheron*, "carries, bears along".
+[^1-8]: *By himself*: these words are in the SBLGNT, following many manuscripts; many modern editions leave them out and read "by the word of his power". Many manuscripts also read "our sins".
+[^1-9]: A reverent way of referring to God.
+[^1-10]: Psalm 2:7, also quoted in 5:5 and Acts 13:33. Literally "today I have begotten you".
+[^1-11]: 2 Samuel 7:14 (also 1 Chronicles 17:13), God's promise to David about his son. Literally "I will be to him a father, and he will be to me a son."
+[^1-12]: Or "And when he again brings the firstborn into the world". *The world*: Greek *oikoumene*, the inhabited earth (also in 2:5).
+[^1-13]: Deuteronomy 32:43 in the Septuagint, which has a longer form of the verse than the Hebrew text; these words are not in the Hebrew (see the note there). A Dead Sea Scroll has "bow down to him, all you gods" in the verse. Similar words are in Psalm 97:7, "Bow down to him, all you gods!", where the Septuagint reads "all his angels".
+[^1-14]: Psalm 104:4, as in the Septuagint. *Winds*: or "spirits". In the Hebrew the verse can be read "He makes the winds his messengers, flames of fire his servants", as this translation has it there: Hebrew *mal'akh* means "messenger" or "angel", and *ruach* "wind" or "spirit".
+[^1-15]: Psalm 45:7–8 (45:6–7 in most English Bibles), as in the Septuagint, quoted in verses 8–9. In the psalm the words are addressed to the king. The Greek *ho theos*, "God", is here a form of address; it can also be read "God is your throne forever and ever".
+[^1-16]: Or "of uprightness". Some manuscripts read "his kingdom".
+[^1-17]: Or "so, God, your God has anointed you", continuing to address the Son. *Has anointed*: Greek *echrisen*, from the same root as *christos*, "anointed one, Messiah".
+[^1-18]: Or "your partners", Greek *metochoi*, the word used in 3:1, 14.
+[^1-19]: Psalm 102:26–28 (102:25–27 in most English Bibles), quoted in verses 10–12 from the Septuagint, which adds "Lord". The Hebrew reads "Long ago you laid the foundation of the earth". In the psalm the words are addressed to Yahweh, God's personal name (102:2, 13); Hebrews applies them to the Son.
+[^1-20]: The Hebrew reads "You will change them like clothing, and they will pass away." *Roll them up* (Greek *helisseis*) is also the image of Isaiah 34:4 in the Septuagint, "the sky will be rolled up like a scroll". Many manuscripts leave out "like a garment" in this verse.
+[^1-21]: Literally "your years will not fail".
+[^1-22]: Psalm 110:1, where Yahweh speaks to the king; also quoted in Mark 12:36. *A footstool for your feet*: a conquered enemy was put under the victor's feet.
+[^1-23]: Greek *leitourgika pneumata*. *Leitourgia* is public and priestly service; compare "servants" (*leitourgoi*) in verse 7.
