@@ -2237,7 +2237,7 @@
 
 **2** He also saw a poor widow putting in two small copper coins.[^21-1]
 
-**3** He said, "I tell you the truth, this poor widow has put in more than all of them.
+**3** He said, "I tell you truly, this poor widow has put in more than all of them.
 
 **4** For all these people put in their gifts[^21-2] out of their abundance, but she, out of her poverty, put in all she had to live on."
 
