@@ -22,6 +22,10 @@ tags: ["chapter", "nt", "pauline-epistles"]
 
 ![[text/greek/50-philippians#Chapter 3]]
 
+## Plain English translation
+
+![[text/english/50-philippians#Chapter 3]]
+
 Compare: [[text/greek-tr/50-philippians#Chapter 3|Textus Receptus]] · [[apparatus/greek/50-philippians|SBLGNT apparatus]]
 
 ## Cross-references

@@ -22,6 +22,10 @@ tags: ["chapter", "nt", "pauline-epistles"]
 
 ![[text/greek/54-1-timothy#Chapter 3]]
 
+## Plain English translation
+
+![[text/english/54-1-timothy#Chapter 3]]
+
 Compare: [[text/greek-tr/54-1-timothy#Chapter 3|Textus Receptus]] · [[apparatus/greek/54-1-timothy|SBLGNT apparatus]]
 
 ## Cross-references

@@ -22,6 +22,10 @@ tags: ["chapter", "nt", "pauline-epistles"]
 
 ![[text/greek/47-2-corinthians#Chapter 13]]
 
+## Plain English translation
+
+![[text/english/47-2-corinthians#Chapter 13]]
+
 Compare: [[text/greek-tr/47-2-corinthians#Chapter 13|Textus Receptus]] · [[apparatus/greek/47-2-corinthians|SBLGNT apparatus]]
 
 ## Cross-references

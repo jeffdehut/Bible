@@ -22,6 +22,10 @@ tags: ["chapter", "nt", "general-epistles"]
 
 ![[text/greek/59-james#Chapter 3]]
 
+## Plain English translation
+
+![[text/english/59-james#Chapter 3]]
+
 Compare: [[text/greek-tr/59-james#Chapter 3|Textus Receptus]] · [[apparatus/greek/59-james|SBLGNT apparatus]]
 
 ## Cross-references

@@ -22,6 +22,10 @@ tags: ["chapter", "nt", "gospels"]
 
 ![[text/greek/42-luke#Chapter 23]]
 
+## Plain English translation
+
+![[text/english/42-luke#Chapter 23]]
+
 Compare: [[text/greek-tr/42-luke#Chapter 23|Textus Receptus]] · [[apparatus/greek/42-luke|SBLGNT apparatus]]
 
 ## Cross-references

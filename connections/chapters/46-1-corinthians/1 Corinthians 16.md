@@ -22,6 +22,10 @@ tags: ["chapter", "nt", "pauline-epistles"]
 
 ![[text/greek/46-1-corinthians#Chapter 16]]
 
+## Plain English translation
+
+![[text/english/46-1-corinthians#Chapter 16]]
+
 Compare: [[text/greek-tr/46-1-corinthians#Chapter 16|Textus Receptus]] · [[apparatus/greek/46-1-corinthians|SBLGNT apparatus]]
 
 ## Cross-references

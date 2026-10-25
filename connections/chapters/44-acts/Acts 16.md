@@ -22,6 +22,10 @@ tags: ["chapter", "nt", "acts"]
 
 ![[text/greek/44-acts#Chapter 16]]
 
+## Plain English translation
+
+![[text/english/44-acts#Chapter 16]]
+
 Compare: [[text/greek-tr/44-acts#Chapter 16|Textus Receptus]] · [[apparatus/greek/44-acts|SBLGNT apparatus]]
 
 ## Cross-references

@@ -22,6 +22,10 @@ tags: ["chapter", "nt", "pauline-epistles"]
 
 ![[text/greek/49-ephesians#Chapter 1]]
 
+## Plain English translation
+
+![[text/english/49-ephesians#Chapter 1]]
+
 Compare: [[text/greek-tr/49-ephesians#Chapter 1|Textus Receptus]] · [[apparatus/greek/49-ephesians|SBLGNT apparatus]]
 
 ## Cross-references

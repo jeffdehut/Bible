@@ -22,6 +22,10 @@ tags: ["chapter", "nt", "gospels"]
 
 ![[text/greek/42-luke#Chapter 9]]
 
+## Plain English translation
+
+![[text/english/42-luke#Chapter 9]]
+
 Compare: [[text/greek-tr/42-luke#Chapter 9|Textus Receptus]] · [[apparatus/greek/42-luke|SBLGNT apparatus]]
 
 ## Cross-references

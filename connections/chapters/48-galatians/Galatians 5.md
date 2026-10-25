@@ -22,6 +22,10 @@ tags: ["chapter", "nt", "pauline-epistles"]
 
 ![[text/greek/48-galatians#Chapter 5]]
 
+## Plain English translation
+
+![[text/english/48-galatians#Chapter 5]]
+
 Compare: [[text/greek-tr/48-galatians#Chapter 5|Textus Receptus]] · [[apparatus/greek/48-galatians|SBLGNT apparatus]]
 
 ## Cross-references

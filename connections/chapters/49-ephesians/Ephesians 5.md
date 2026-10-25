@@ -22,6 +22,10 @@ tags: ["chapter", "nt", "pauline-epistles"]
 
 ![[text/greek/49-ephesians#Chapter 5]]
 
+## Plain English translation
+
+![[text/english/49-ephesians#Chapter 5]]
+
 Compare: [[text/greek-tr/49-ephesians#Chapter 5|Textus Receptus]] · [[apparatus/greek/49-ephesians|SBLGNT apparatus]]
 
 ## Cross-references

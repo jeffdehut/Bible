@@ -22,6 +22,10 @@ tags: ["chapter", "nt", "pauline-epistles"]
 
 ![[text/greek/47-2-corinthians#Chapter 10]]
 
+## Plain English translation
+
+![[text/english/47-2-corinthians#Chapter 10]]
+
 Compare: [[text/greek-tr/47-2-corinthians#Chapter 10|Textus Receptus]] · [[apparatus/greek/47-2-corinthians|SBLGNT apparatus]]
 
 ## Cross-references

@@ -22,6 +22,10 @@ tags: ["chapter", "nt", "general-epistles"]
 
 ![[text/greek/63-2-john#Chapter 1]]
 
+## Plain English translation
+
+![[text/english/63-2-john#Chapter 1]]
+
 Compare: [[text/greek-tr/63-2-john#Chapter 1|Textus Receptus]] · [[apparatus/greek/63-2-john|SBLGNT apparatus]]
 
 ## Cross-references

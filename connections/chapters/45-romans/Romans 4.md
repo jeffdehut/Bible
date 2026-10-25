@@ -22,6 +22,10 @@ tags: ["chapter", "nt", "pauline-epistles"]
 
 ![[text/greek/45-romans#Chapter 4]]
 
+## Plain English translation
+
+![[text/english/45-romans#Chapter 4]]
+
 Compare: [[text/greek-tr/45-romans#Chapter 4|Textus Receptus]] · [[apparatus/greek/45-romans|SBLGNT apparatus]]
 
 ## Cross-references

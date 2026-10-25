@@ -22,6 +22,10 @@ tags: ["chapter", "nt", "gospels"]
 
 ![[text/greek/40-matthew#Chapter 8]]
 
+## Plain English translation
+
+![[text/english/40-matthew#Chapter 8]]
+
 Compare: [[text/greek-tr/40-matthew#Chapter 8|Textus Receptus]] · [[apparatus/greek/40-matthew|SBLGNT apparatus]]
 
 ## Cross-references

@@ -22,6 +22,10 @@ tags: ["chapter", "nt", "gospels"]
 
 ![[text/greek/43-john#Chapter 5]]
 
+## Plain English translation
+
+![[text/english/43-john#Chapter 5]]
+
 Compare: [[text/greek-tr/43-john#Chapter 5|Textus Receptus]] · [[apparatus/greek/43-john|SBLGNT apparatus]]
 
 ## Cross-references

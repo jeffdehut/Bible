@@ -22,6 +22,10 @@ tags: ["chapter", "nt", "pauline-epistles"]
 
 ![[text/greek/57-philemon#Chapter 1]]
 
+## Plain English translation
+
+![[text/english/57-philemon#Chapter 1]]
+
 Compare: [[text/greek-tr/57-philemon#Chapter 1|Textus Receptus]] · [[apparatus/greek/57-philemon|SBLGNT apparatus]]
 
 ## Cross-references

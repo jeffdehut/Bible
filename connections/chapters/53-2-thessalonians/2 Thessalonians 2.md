@@ -22,6 +22,10 @@ tags: ["chapter", "nt", "pauline-epistles"]
 
 ![[text/greek/53-2-thessalonians#Chapter 2]]
 
+## Plain English translation
+
+![[text/english/53-2-thessalonians#Chapter 2]]
+
 Compare: [[text/greek-tr/53-2-thessalonians#Chapter 2|Textus Receptus]] · [[apparatus/greek/53-2-thessalonians|SBLGNT apparatus]]
 
 ## Cross-references

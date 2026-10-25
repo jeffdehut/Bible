@@ -22,6 +22,10 @@ tags: ["chapter", "nt", "general-epistles"]
 
 ![[text/greek/62-1-john#Chapter 5]]
 
+## Plain English translation
+
+![[text/english/62-1-john#Chapter 5]]
+
 Compare: [[text/greek-tr/62-1-john#Chapter 5|Textus Receptus]] · [[apparatus/greek/62-1-john|SBLGNT apparatus]]
 
 ## Cross-references

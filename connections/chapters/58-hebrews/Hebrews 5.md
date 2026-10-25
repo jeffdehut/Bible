@@ -22,6 +22,10 @@ tags: ["chapter", "nt", "general-epistles"]
 
 ![[text/greek/58-hebrews#Chapter 5]]
 
+## Plain English translation
+
+![[text/english/58-hebrews#Chapter 5]]
+
 Compare: [[text/greek-tr/58-hebrews#Chapter 5|Textus Receptus]] · [[apparatus/greek/58-hebrews|SBLGNT apparatus]]
 
 ## Cross-references

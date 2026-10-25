@@ -22,6 +22,10 @@ tags: ["chapter", "nt", "revelation"]
 
 ![[text/greek/66-revelation#Chapter 1]]
 
+## Plain English translation
+
+![[text/english/66-revelation#Chapter 1]]
+
 Compare: [[text/greek-tr/66-revelation#Chapter 1|Textus Receptus]] · [[apparatus/greek/66-revelation|SBLGNT apparatus]]
 
 ## Cross-references

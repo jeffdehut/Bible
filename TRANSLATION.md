@@ -5,8 +5,7 @@ Greek texts in this repository. It aims to say what the original says, as clearl
 English allows, and to show its work wherever a choice had to be made. It is open: anyone may
 use, copy, adapt and redistribute it.
 
-**Status:** first drafts. The whole Old Testament (Genesis to Malachi) and the Gospel of Mark
-are drafted, with John 1 (946 of 1,189 chapters). See [translation/STATUS.md](translation/STATUS.md). No chapter has had human review
+**Status:** first drafts of the whole Bible, Genesis to Revelation (1,189 chapters). See [translation/STATUS.md](translation/STATUS.md). No chapter has had human review
 yet, so nothing here should be quoted as a finished translation.
 
 ## Goals
@@ -75,7 +74,7 @@ Decisions marked **proposed** are used in the pilot and are open for review.
 | יהוה צְבָאוֹת | Yahweh of Armies (proposed) | Traditionally "the LORD of hosts" or "the LORD Almighty". *Tseva'ot* means armies: the heavenly hosts and the armies of Israel. Noted at its first occurrence in each chapter. |
 | אֲדֹנָי (Adonai), of God | the Lord | אֲדֹנָי יְהוִה is "the Lord Yahweh", noted at its first occurrence in a book (`Hebrew *Adonai YHWH*, "my Lord Yahweh".`); a note in each later chapter is optional. |
 | אֵל שַׁדַּי, שַׁדַּי | God Almighty, the Almighty | Hebrew *(El) Shaddai*; the meaning is uncertain. Noted at its first occurrence in each chapter. |
-| הַלְלוּ־יָהּ (hallelu-yah) | Praise Yah! | Noted at its first occurrence in each psalm: "Hebrew *hallelu-yah*, 'praise Yah', the source of the word 'Hallelujah'". *Yah* is a short form of the divine name. |
+| הַלְלוּ־יָהּ (hallelu-yah) | Praise Yah! (Hebrew); Hallelujah (Revelation 19, where the Greek transliterates it) | Noted at its first occurrence in each psalm: "Hebrew *hallelu-yah*, 'praise Yah', the source of the word 'Hallelujah'". *Yah* is a short form of the divine name. |
 | יְהוָה מָלָךְ (Psalms 93, 96–99) | Yahweh reigns! | "Or 'Yahweh has become king!'", noted at 93:1. |
 | Prophetic formulas | נְאֻם יְהוָה "declares Yahweh"; כֹּה אָמַר יְהוָה "This is what Yahweh says"; הוֹי "Woe to …"; מַשָּׂא "An oracle concerning …"; בַּיּוֹם הַהוּא "On that day"; קְדוֹשׁ יִשְׂרָאֵל "the Holy One of Israel"; וִידַעְתֶּם כִּי אֲנִי יְהוָה "Then you will know that I am Yahweh" | Set in Isaiah and Jeremiah and used in every prophetic book. *Hoy* is noted at its first occurrence in each book; *massa* ("oracle", also "burden") likewise. Later chapters may give a short pointer ("See 13:1"). Where *hoy* is not a cry of disaster it is "Ah", noted. |
 | שְׁאוֹל (Sheol) | Sheol | The realm of the dead. Noted at its first occurrence in each chapter. |
@@ -213,7 +212,8 @@ from the Hebrew.
     "The SBLGNT here follows Westcott and Hort; other editions read …".
   - The apparatus records editions, not manuscripts, so notes don't claim more ("the earliest
     manuscripts"). The exception is the few famous passages whose manuscript evidence is well
-    documented (Mark 16:8–20, John 7:53–8:11, John 1:18, 1 Corinthians 14:34–35, Ephesians 1:1),
+    documented (Mark 16:8–20, John 7:53–8:11, John 1:18, 1 Corinthians 14:34–35, Ephesians 1:1,
+    1 John 5:7–8),
     where the major witnesses may be named. A reading in Westcott and Hort's margin or appendix
     (WHmarg, WHapp) is cited as such: "Westcott and Hort give … in their margin".
   Check the single-word variants too: one word can change the meaning (Mark 1:41).

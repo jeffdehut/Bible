@@ -22,6 +22,10 @@ tags: ["chapter", "nt", "pauline-epistles"]
 
 ![[text/greek/52-1-thessalonians#Chapter 1]]
 
+## Plain English translation
+
+![[text/english/52-1-thessalonians#Chapter 1]]
+
 Compare: [[text/greek-tr/52-1-thessalonians#Chapter 1|Textus Receptus]] · [[apparatus/greek/52-1-thessalonians|SBLGNT apparatus]]
 
 ## Cross-references

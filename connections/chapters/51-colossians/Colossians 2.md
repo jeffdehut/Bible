@@ -22,6 +22,10 @@ tags: ["chapter", "nt", "pauline-epistles"]
 
 ![[text/greek/51-colossians#Chapter 2]]
 
+## Plain English translation
+
+![[text/english/51-colossians#Chapter 2]]
+
 Compare: [[text/greek-tr/51-colossians#Chapter 2|Textus Receptus]] · [[apparatus/greek/51-colossians|SBLGNT apparatus]]
 
 ## Cross-references

@@ -22,6 +22,10 @@ tags: ["chapter", "nt", "pauline-epistles"]
 
 ![[text/greek/56-titus#Chapter 2]]
 
+## Plain English translation
+
+![[text/english/56-titus#Chapter 2]]
+
 Compare: [[text/greek-tr/56-titus#Chapter 2|Textus Receptus]] · [[apparatus/greek/56-titus|SBLGNT apparatus]]
 
 ## Cross-references

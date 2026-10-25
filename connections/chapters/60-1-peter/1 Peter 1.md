@@ -22,6 +22,10 @@ tags: ["chapter", "nt", "general-epistles"]
 
 ![[text/greek/60-1-peter#Chapter 1]]
 
+## Plain English translation
+
+![[text/english/60-1-peter#Chapter 1]]
+
 Compare: [[text/greek-tr/60-1-peter#Chapter 1|Textus Receptus]] · [[apparatus/greek/60-1-peter|SBLGNT apparatus]]
 
 ## Cross-references

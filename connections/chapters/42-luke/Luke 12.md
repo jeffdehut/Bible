@@ -22,6 +22,10 @@ tags: ["chapter", "nt", "gospels"]
 
 ![[text/greek/42-luke#Chapter 12]]
 
+## Plain English translation
+
+![[text/english/42-luke#Chapter 12]]
+
 Compare: [[text/greek-tr/42-luke#Chapter 12|Textus Receptus]] · [[apparatus/greek/42-luke|SBLGNT apparatus]]
 
 ## Cross-references

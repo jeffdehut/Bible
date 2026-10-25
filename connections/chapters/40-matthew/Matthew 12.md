@@ -22,6 +22,10 @@ tags: ["chapter", "nt", "gospels"]
 
 ![[text/greek/40-matthew#Chapter 12]]
 
+## Plain English translation
+
+![[text/english/40-matthew#Chapter 12]]
+
 Compare: [[text/greek-tr/40-matthew#Chapter 12|Textus Receptus]] · [[apparatus/greek/40-matthew|SBLGNT apparatus]]
 
 ## Cross-references

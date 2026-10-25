@@ -22,6 +22,10 @@ tags: ["chapter", "nt", "gospels"]
 
 ![[text/greek/40-matthew#Chapter 3]]
 
+## Plain English translation
+
+![[text/english/40-matthew#Chapter 3]]
+
 Compare: [[text/greek-tr/40-matthew#Chapter 3|Textus Receptus]] · [[apparatus/greek/40-matthew|SBLGNT apparatus]]
 
 ## Cross-references

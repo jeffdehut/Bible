@@ -22,6 +22,10 @@ tags: ["chapter", "nt", "gospels"]
 
 ![[text/greek/40-matthew#Chapter 22]]
 
+## Plain English translation
+
+![[text/english/40-matthew#Chapter 22]]
+
 Compare: [[text/greek-tr/40-matthew#Chapter 22|Textus Receptus]] · [[apparatus/greek/40-matthew|SBLGNT apparatus]]
 
 ## Cross-references
