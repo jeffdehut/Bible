@@ -71,7 +71,7 @@ Decisions marked **proposed** are used in the pilot and are open for review.
 | οἱ Ἰουδαῖοι | the Jews | Kept as written. A note explains where the context shows the religious authorities in Jerusalem are meant (common in John). |
 | ἀδελφοί (to a mixed group) | brothers and sisters (proposed) | When the context shows the group includes women; otherwise *brothers*. |
 | Time of day | modern equivalent in the text, the original in a note | e.g. "about four in the afternoon" for "the tenth hour". |
-| Units of length, weight, volume; money | the original unit in the text, its approximate value in a note | e.g. "three hundred denarii" with the note "About a year's wages for a laborer"; "a cubit" with "About 18 inches (45 cm)". The note is given at the unit's first occurrence in each chapter. |
+| Units of length, weight, volume; money | the original unit in the text, its approximate value in a note | e.g. "three hundred denarii" with the note "About a year's wages for a laborer"; "a cubit" with "About 18 inches (45 cm)". The note is given at the unit's first occurrence in each chapter. The smallest coins (lepton, kodrantes, assarion) may be "a penny" or "small copper coins" in the text, with the coin named in a note (Mark 12:42). |
 | יהוה צְבָאוֹת | Yahweh of Armies (proposed) | Traditionally "the LORD of hosts" or "the LORD Almighty". *Tseva'ot* means armies: the heavenly hosts and the armies of Israel. Noted at its first occurrence in each chapter. |
 | אֲדֹנָי (Adonai), of God | the Lord | אֲדֹנָי יְהוִה is "the Lord Yahweh", noted at its first occurrence in a book (`Hebrew *Adonai YHWH*, "my Lord Yahweh".`); a note in each later chapter is optional. |
 | אֵל שַׁדַּי, שַׁדַּי | God Almighty, the Almighty | Hebrew *(El) Shaddai*; the meaning is uncertain. Noted at its first occurrence in each chapter. |
@@ -97,7 +97,7 @@ Decisions marked **proposed** are used in the pilot and are open for review.
 | עֶבֶד, δοῦλος | servant; slave where the context is the institution of slavery | "Or 'slave'" noted where either fits. |
 | ἐκκλησία | church | An assembly or community of believers, never a building. In Acts 7:38 and 19:32–41, "assembly". |
 | οἱ ἅγιοι (believers) | God's holy people (proposed) | Literally "the holy ones"; traditionally "saints". |
-| δικαιόω | declare righteous (proposed) | Traditionally "justify". Noted at its first occurrence in each chapter. |
+| δικαιόω | declare righteous (proposed) | In Paul's sense; traditionally "justify". Noted at its first occurrence in each chapter. Outside Paul's argument it is rendered by context ("proved right", Matthew 11:19). |
 | σάρξ in Paul's moral sense | the flesh | Human nature in its weakness and opposition to God. Noted at its first occurrence in each chapter where this is the sense. |
 | πίστις Χριστοῦ (Ἰησοῦ) | faith in Christ (Jesus) | Always noted: "Or 'the faithfulness of Christ'". |
 | ᾅδης | Hades | The realm of the dead, like Sheol. Noted at its first occurrence in each chapter. |
