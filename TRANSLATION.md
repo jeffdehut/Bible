@@ -202,6 +202,9 @@ from the Hebrew.
   - a verse that is absent: the verse number is skipped in the file, and the previous verse
     has a note giving the verse and its words: "Many manuscripts add verse 26: '…'. The SBLGNT
     and other critical editions leave it out, so this translation has no verse 26."
+  - a word the SBLGNT leaves out against all the other editions: "These words are not in the
+    SBLGNT; the other editions read …". A difference of accent alone is noted only where it
+    changes the meaning (Romans 16:7).
   - a reading found only in the edition behind the NIV (NIV in the apparatus): "Some editions
     read …". Variants between "Lord", "God" and "Jesus" change the meaning and are noted.
   - a conjecture printed by an edition (Acts 16:12 in NA28): "Some editions read, by a
