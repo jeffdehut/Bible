@@ -411,7 +411,7 @@
 
 **54** This was the second sign that Jesus did after coming from Judea to Galilee.
 
-[^4-1]: Many manuscripts read "the Lord learned". The Greek sentence in verses 1–3 begins "So when Jesus learned …" and is interrupted by verse 2.
+[^4-1]: The SBLGNT here follows Nestle–Aland (NA28); other editions read "the Lord learned". The Greek sentence in verses 1–3 begins "So when Jesus learned …" and is interrupted by verse 2.
 [^4-2]: See Genesis 33:18–19; 48:22; Joshua 24:32.
 [^4-3]: Literally "about the sixth hour", counting hours from sunrise.
 [^4-4]: Or "do not use the same dishes as Samaritans".
@@ -533,7 +533,7 @@
 [^5-1]: Literally "by the sheep (gate)". The Greek does not name the noun; it may mean the Sheep Gate (Nehemiah 3:1) or a sheep pool.
 [^5-2]: That is, in the language of the Jews of the time, which may mean Aramaic.
 [^5-3]: Some manuscripts read "Bethzatha".
-[^5-4]: Literally "withered". Many manuscripts add "waiting for the water to move", and then verse 4: "For an angel would come down from time to time into the pool and stir up the water. Whoever stepped in first after the water was stirred up was made well of whatever disease he had." The SBLGNT, following the earliest manuscripts, does not include these words, so this translation has no verse 4.
+[^5-4]: Literally "withered". Many manuscripts add "waiting for the water to move" at the end of verse 3, and then verse 4: "For an angel would come down from time to time into the pool and stir up the water. Whoever stepped in first after the water was stirred up was made well of whatever disease he had." The SBLGNT and other critical editions leave these words out, so this translation has no verse 4.
 [^5-5]: Greek *hoi Ioudaioi*, "the Jews" or "the Judeans". Here and through this chapter the word refers to the religious authorities in Jerusalem, not to the Jewish people as a whole (the healed man is himself a Jew).
 [^5-6]: Many manuscripts add "and were trying to kill him".
 [^5-7]: Greek *phileo*. In 3:35 the verb for the Father's love of the Son is *agapao*. John uses the two verbs with much the same meaning.
@@ -1189,7 +1189,7 @@
 [^10-9]: A covered walkway with columns along the east side of the temple courts (see Acts 3:11).
 [^10-10]: Literally "How long will you take away our life?" or "lift up our soul", that is, keep us in doubt.
 [^10-11]: Many manuscripts add "as I told you".
-[^10-12]: The SBLGNT here follows a few manuscripts; literally "My Father, what he has given me, is greater than all". Some manuscripts, followed by most modern editions, read "What my Father has given me is greater than all." Many manuscripts read "My Father, who has given them to me, is greater than all."
+[^10-12]: The SBLGNT here follows a reading given in the margin of Westcott and Hort; literally "My Father, what he has given me, is greater than all". Some manuscripts read "What my Father has given me is greater than all." Many manuscripts read "My Father, who has given them to me, is greater than all."
 [^10-13]: Greek *hen*, neuter: literally "one thing".
 [^10-14]: Or "a god".
 [^10-15]: Psalm 82:6.
@@ -2121,7 +2121,7 @@
 [^20-5]: The Greek has no "on them". The same verb is used in the Greek Old Testament of God breathing life into the first human (Genesis 2:7; compare Ezekiel 37:9).
 [^20-6]: See the note on 11:16.
 [^20-7]: Literally "After eight days", counting both the first and the last day: a week later, on the next first day of the week.
-[^20-8]: Or "may go on believing". The SBLGNT, with some early manuscripts, reads the present tense (*pisteuete*), which suggests continuing to believe. Many manuscripts, and most other editions, read the aorist (*pisteusete*), which may suggest coming to believe. So the purpose may be to bring readers to faith or to strengthen those who already believe; the tense alone does not settle the question. Verses 30–31 read like the close of the book; chapter 21 follows as an epilogue (see the note on 21:1).
+[^20-8]: Or "may go on believing". The SBLGNT here follows Westcott and Hort, reading the present tense (*pisteuete*), which suggests continuing to believe. Other editions, and many manuscripts, read the aorist (*pisteusete*), which may suggest coming to believe. So the purpose may be to bring readers to faith or to strengthen those who already believe; the tense alone does not settle the question. Verses 30–31 read like the close of the book; chapter 21 follows as an epilogue (see the note on 21:1).
 
 ## Chapter 21
 
@@ -2177,7 +2177,7 @@
 
 **25** There are also many other things that Jesus did. If every one of them were written down, I suppose that the world itself could not hold the books that would be written.[^21-12]
 
-[^21-1]: Chapter 21 is often called an epilogue. The Gospel seems to come to a close at 20:30–31; this chapter then adds a further appearance of Jesus and ends with a second conclusion (verses 24–25), in which others speak about the disciple who wrote ("we know", verse 24). Many scholars think it was added by the author or by those who preserved his testimony. It is found in all known manuscripts of John.
+[^21-1]: Chapter 21 is often called an epilogue. The Gospel seems to come to a close at 20:30–31; this chapter then adds a further appearance of Jesus and ends with a second conclusion (verses 24–25), in which others speak about the disciple who wrote ("we know", verse 24). Many scholars think it was added by the author or by those who preserved his testimony. The SBLGNT and the other editions print it as part of the Gospel.
 [^21-2]: Greek *prosphagion*, something eaten with bread, especially fish.
 [^21-3]: Literally "he was naked", that is, wearing little or nothing for his work.
 [^21-4]: Greek *ploiarion*, "small boat", used here for the boat of verse 3.

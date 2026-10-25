@@ -1312,6 +1312,151 @@
 [^10-17]: Literally "much serving".
 [^10-18]: The SBLGNT here follows Westcott and Hort. Many manuscripts and most modern editions read "but one thing is needed".
 
+## Chapter 11
+
+*Status: draft*
+
+**1** Once Jesus was praying in a certain place. When he had finished, one of his disciples said to him, "Lord, teach us to pray, just as John taught his disciples."
+
+**2** He said to them, "When you pray, say: 'Father,[^11-1] may your name be honored as holy. May your kingdom come.[^11-2]
+
+**3** Give us each day our daily bread.[^11-3]
+
+**4** And forgive us our sins, for we ourselves also forgive everyone who is indebted to us.[^11-4] And do not bring us into testing.'"[^11-5]
+
+**5** He said to them, "Suppose one of you has a friend, and you go to him at midnight and say, 'Friend, lend me three loaves of bread,
+
+**6** because a friend of mine on a journey has come to me, and I have nothing to set before him.'
+
+**7** And suppose he answers from inside, 'Don't bother me. The door is already locked, and my children are with me in bed. I can't get up and give you anything.'
+
+**8** I tell you, even if he will not get up and give him anything because he is his friend, yet because of his shamelessness[^11-6] he will get up and give him as much as he needs.
+
+**9** So I tell you: Ask, and it will be given to you; seek, and you will find; knock, and the door will be opened to you.
+
+**10** For everyone who asks receives, the one who seeks finds, and to the one who knocks, the door will be opened.
+
+**11** Which father among you, if his son asks for a fish,[^11-7] will give him a snake instead of a fish?
+
+**12** Or if he asks for an egg, will give him a scorpion?
+
+**13** If you, then, though you are evil, know how to give good gifts to your children, how much more will the Father in heaven[^11-8] give the Holy Spirit to those who ask him!"
+
+**14** Jesus was driving out a demon that was mute. When the demon had gone out, the man who had been mute spoke, and the crowds were amazed.
+
+**15** But some of them said, "He drives out demons by Beelzebul,[^11-9] the ruler of the demons."
+
+**16** Others, to test him, kept demanding from him a sign from heaven.
+
+**17** But he knew their thoughts and said to them, "Every kingdom divided against itself is laid waste, and a divided household falls.[^11-10]
+
+**18** If Satan too is divided against himself, how will his kingdom stand? I say this because you say that I drive out demons by Beelzebul.
+
+**19** And if I drive out demons by Beelzebul, by whom do your own people[^11-11] drive them out? So they will be your judges.
+
+**20** But if it is by the finger of God[^11-12] that I drive out demons, then the kingdom of God has come upon you.
+
+**21** When a strong man, fully armed, guards his own house,[^11-13] his possessions are safe.
+
+**22** But when someone stronger than he is attacks him and overpowers him, he takes away the armor the man trusted in and divides up his plunder.
+
+**23** Whoever is not with me is against me, and whoever does not gather with me scatters.
+
+**24** "When an unclean spirit goes out of a person, it goes through waterless places looking for rest, and not finding any, it says, 'I will go back to my house that I came from.'
+
+**25** When it arrives, it finds the house swept and put in order.[^11-14]
+
+**26** Then it goes and brings seven other spirits more evil than itself, and they go in and live there. And the final condition of that person is worse than the first."
+
+**27** As he was saying these things, a woman in the crowd called out to him, "Blessed is the womb that carried you and the breasts that nursed you!"
+
+**28** But he said, "Rather, blessed are those who hear the word of God and keep it!"
+
+**29** As the crowds were growing, he began to say, "This generation is an evil generation. It asks for a sign, but no sign will be given to it except the sign of Jonah.
+
+**30** For just as Jonah became a sign to the people of Nineveh, so the Son of Man will be a sign to this generation.
+
+**31** The queen of the South will rise up at the judgment with the people of this generation and condemn them, because she came from the ends of the earth to hear Solomon's wisdom.[^11-15] And look, something greater than Solomon is here.
+
+**32** The people of Nineveh will rise up at the judgment with this generation and condemn it, because they repented at Jonah's preaching.[^11-16] And look, something greater than Jonah is here.
+
+**33** "No one lights a lamp and puts it in a hidden place[^11-17] or under a basket,[^11-18] but on a lampstand, so that those who come in may see the light.
+
+**34** Your eye is the lamp of your body. When your eye is healthy,[^11-19] your whole body is full of light. But when it is bad,[^11-20] your body is full of darkness.
+
+**35** So make sure that the light in you is not darkness.
+
+**36** If then your whole body is full of light, with no part of it dark, it will be completely full of light, as when a lamp shines on you with its brightness."
+
+**37** When he had finished speaking, a Pharisee invited him to eat with him. So he went in and reclined at table.
+
+**38** The Pharisee was surprised to see that he did not first wash[^11-21] before the meal.
+
+**39** But the Lord said to him, "Now you Pharisees clean the outside of the cup and the dish, but inside you are full of greed[^11-22] and wickedness.
+
+**40** You fools! Didn't the one who made the outside make the inside too?
+
+**41** But give as gifts to the poor what is inside,[^11-23] and then everything will be clean for you.
+
+**42** "But woe to you[^11-24] Pharisees! You give a tenth[^11-25] of mint and rue and every garden herb, but you neglect justice and the love of God. These you should have done, without neglecting the others.
+
+**43** Woe to you Pharisees! You love the best seats in the synagogues and greetings in the marketplaces.
+
+**44** Woe to you![^11-26] You are like unmarked graves, and people walk over them without knowing it."[^11-27]
+
+**45** One of the experts in the Law[^11-28] answered him, "Teacher, when you say these things, you insult us too."
+
+**46** Jesus said, "Woe to you experts in the Law as well! You load people with burdens that are hard to carry, but you yourselves do not touch the burdens with one of your fingers.
+
+**47** Woe to you! You build the tombs of the prophets, but it was your ancestors who killed them.
+
+**48** So you are witnesses, and you approve of what your ancestors did, for they killed the prophets, and you build their tombs.[^11-29]
+
+**49** That is why the Wisdom of God said, 'I will send them prophets and apostles, and some of them they will kill and persecute,'
+
+**50** so that this generation may be charged with the blood of all the prophets that has been shed since the foundation of the world,
+
+**51** from the blood of Abel to the blood of Zechariah, who perished between the altar and the sanctuary.[^11-30] Yes, I tell you, this generation will be charged with it.
+
+**52** Woe to you experts in the Law! You have taken away the key of knowledge. You yourselves did not go in, and you hindered those who were going in."
+
+**53** When he went out from there,[^11-31] the scribes and the Pharisees began to oppose him fiercely and to question him closely about many things,
+
+**54** lying in wait to catch him in something he might say.[^11-32]
+
+[^11-1]: Many manuscripts read "Our Father in heaven". Compare Matthew 6:9–13.
+[^11-2]: Many manuscripts add "May your will be done, on earth as it is in heaven."
+[^11-3]: Greek *epiousios*, a rare word whose meaning is uncertain. It may mean "for the coming day" (tomorrow's bread, or the bread of the age to come), "needed for existence", or "for today". "Daily" is the traditional rendering.
+[^11-4]: Literally "everyone who owes us". Compare Matthew 6:12, "our debts".
+[^11-5]: Or "temptation". Many manuscripts add "but rescue us from the evil one".
+[^11-6]: Or "persistence". Greek *anaideia*, "lack of shame".
+[^11-7]: Many manuscripts read "if his son asks for bread, will give him a stone? Or if he asks for a fish".
+[^11-8]: Literally "the Father from heaven".
+[^11-9]: A name for the prince of demons. In the Hebrew Bible, Baal-zebub ("lord of flies") was a god of Ekron (2 Kings 1:2). Also in verses 18–19.
+[^11-10]: Literally "house falls on house".
+[^11-11]: Literally "your sons", that is, your followers.
+[^11-12]: Compare Exodus 8:15 (8:19 in most English Bibles), where Pharaoh's magicians say, "This is the finger of God."
+[^11-13]: Or "palace". Greek *aule*, a courtyard or a residence built around one.
+[^11-14]: Some manuscripts read "it finds the house empty, swept, and put in order".
+[^11-15]: The queen of Sheba (1 Kings 10:1–13).
+[^11-16]: Jonah 3:5.
+[^11-17]: Or "in a cellar".
+[^11-18]: Greek *modios*, a container for measuring grain, holding about 8 liters (2 gallons).
+[^11-19]: Literally "single": sound, clear, and also generous.
+[^11-20]: Literally "evil", which can also mean "unhealthy". An "evil eye" was an expression for envy or stinginess.
+[^11-21]: Literally "baptize himself", a ritual washing (compare Mark 7:3–4).
+[^11-22]: Literally "robbery", "plunder".
+[^11-23]: Or "give as gifts to the poor the things you have". The meaning of the Greek is uncertain.
+[^11-24]: Greek *ouai*, a cry of grief and warning, like the prophets' *hoy* ("woe"); also in verses 43–52.
+[^11-25]: The tithe required by the Law (Leviticus 27:30; Deuteronomy 14:22–23). Rue is a bitter herb used in cooking and medicine.
+[^11-26]: Many manuscripts add "scribes and Pharisees, you hypocrites!"
+[^11-27]: Contact with a grave made a person ritually unclean (Numbers 19:16).
+[^11-28]: Greek *nomikoi*, experts in the Law of Moses; also in verses 46 and 52.
+[^11-29]: Literally "and you build". Many manuscripts add "their tombs".
+[^11-30]: Literally "the house", the temple building. Abel was murdered by Cain (Genesis 4:8). The Zechariah stoned in the temple court in 2 Chronicles 24:20–22, near the end of the last book of the Hebrew Bible, is the son of Jehoiada.
+[^11-31]: Many manuscripts read "As he was saying these things to them".
+[^11-32]: Many manuscripts add "so that they could accuse him".
+
 ## Chapter 13
 
 *Status: draft*
@@ -1394,7 +1539,7 @@
 [^13-6]: Or "could not stand fully upright".
 [^13-7]: Literally "has bound, look, eighteen years".
 [^13-8]: Or "untied", the same verb as "untie" in verse 15.
-[^13-9]: Some manuscripts read "a large tree".
+[^13-9]: Many manuscripts read "a large tree".
 [^13-10]: Compare Ezekiel 17:23; 31:6; Daniel 4:9, 18 (4:12, 21 in most English Bibles).
 [^13-11]: Literally "hid".
 [^13-12]: Greek *sata*. A *saton* was about 13 liters (3 gallons), so three of them made a very large amount of flour.
@@ -1402,7 +1547,7 @@
 [^13-14]: Many manuscripts read "Lord, Lord".
 [^13-15]: Literally "in front of you".
 [^13-16]: Psalm 6:9 (6:8 in most English Bibles).
-[^13-17]: Some manuscripts read "On that very day".
+[^13-17]: Many manuscripts read "On that very day".
 [^13-18]: Or "I will be finished", "I will be made complete". Greek *teleioumai*.
 [^13-19]: Or "is abandoned to you". *Your house* may mean the temple or the city; compare Jeremiah 12:7; 22:5. Many manuscripts add "desolate".
 [^13-20]: Psalm 118:26. In the Hebrew, "the Lord" is God's personal name, Yahweh.
@@ -1654,7 +1799,7 @@
 [^16-10]: The Greek has no verb: "The Law and the Prophets until John".
 [^16-11]: Or "everyone is urged to enter it". The meaning of the Greek verb is debated.
 [^16-12]: Greek *keraia*, "horn", a tiny stroke that distinguishes one letter from another.
-[^16-13]: Some manuscripts read "the crumbs that fell".
+[^16-13]: Many manuscripts read "the crumbs that fell".
 [^16-14]: Literally "to the bosom of Abraham", a picture of closeness and honor, like a guest reclining next to the host at a banquet; also in verse 23.
 [^16-15]: Greek *Hades*, the realm of the dead, like the Hebrew Sheol.
 
@@ -1662,7 +1807,7 @@
 
 *Status: draft*
 
-**1** Jesus said to his disciples, "Things that cause people to stumble[^17-1] are bound to come, but how terrible it will be for the one through whom they come!
+**1** Jesus said to his disciples, "Things that cause people to stumble[^17-1] are bound to come, but woe to the one through whom they come!
 
 **2** It would be better for them to have a millstone hung around their neck and be thrown into the sea than to cause one of these little ones to stumble.
 
@@ -1753,7 +1898,7 @@
 [^17-17]: See Genesis 19:24.
 [^17-18]: See Genesis 19:26.
 [^17-19]: Greek *psyche*, life, soul, self.
-[^17-20]: The Textus Receptus (followed by the King James Version) adds verse 36: "Two men will be in the field; one will be taken and the other left." The SBLGNT does not include it, so this translation has no verse 36.
+[^17-20]: The Textus Receptus (followed by the King James Version) adds verse 36: "Two men will be in the field; one will be taken and the other left." The SBLGNT and other critical editions leave it out, so this translation has no verse 36.
 [^17-21]: Or "eagles". Greek *aetoi*.
 
 ## Chapter 18
@@ -1852,7 +1997,7 @@
 [^18-4]: Greek *hilaskomai*, "be merciful", a word from the language of sacrifice and atonement. Literally "me, the sinner".
 [^18-5]: Greek *dikaioo*, traditionally "justified".
 [^18-6]: Exodus 20:12–16; Deuteronomy 5:16–20.
-[^18-7]: Some manuscripts add "seeing that he had become very sad".
+[^18-7]: Many manuscripts add "seeing that he had become very sad".
 [^18-8]: Literally "our own things". Many manuscripts read "we have left everything".
 [^18-9]: Or "has saved you".
 
@@ -2132,7 +2277,7 @@
 
 **22** For these are days of punishment,[^21-9] when all that is written will be fulfilled.
 
-**23** How terrible it will be in those days for women who are pregnant and for those who are nursing! For there will be great distress on the land[^21-10] and wrath against this people.
+**23** Woe to those who are pregnant and to those who are nursing in those days! For there will be great distress on the land[^21-10] and wrath against this people.
 
 **24** They will fall by the edge of the sword and be taken away as captives into all the nations, and Jerusalem will be trampled by the Gentiles until the times of the Gentiles are fulfilled.[^21-11]
 
@@ -2165,7 +2310,7 @@
 **38** And all the people would come to him early in the morning in the temple to listen to him.
 
 [^21-1]: Greek *lepta*, the smallest coins, each worth about 1/128 of a denarius.
-[^21-2]: Some manuscripts read "their gifts for God".
+[^21-2]: Many manuscripts read "their gifts for God".
 [^21-3]: Literally "I am".
 [^21-4]: Literally "lay their hands on you".
 [^21-5]: Literally "It will turn out for you as a testimony."
@@ -2225,7 +2370,7 @@
 
 **21** "But look, the hand of the one who is betraying me is with me on the table.
 
-**22** For the Son of Man is going as it has been decided, but how terrible it will be for that man by whom he is betrayed!"
+**22** For the Son of Man is going as it has been decided, but woe to that man by whom he is betrayed!"
 
 **23** They began to ask one another which of them it could be who was going to do this.
 
@@ -2328,14 +2473,14 @@
 [^22-1]: Greek *strategoi*, the officers in charge of the temple police; also in verse 52.
 [^22-2]: Greek *katalyma*, the word used in 2:7.
 [^22-3]: Literally "With desire I have desired", a Hebrew way of expressing intensity.
-[^22-4]: Some manuscripts read "I will not eat it again".
+[^22-4]: Many manuscripts read "I will not eat it again".
 [^22-5]: The SBLGNT prints the words from "given for you" to the end of verse 20 in brackets [ ], marking their place in the text as uncertain; this translation does the same. Some manuscripts leave them out. Compare 1 Corinthians 11:24–25.
 [^22-6]: Literally "And the cup likewise after they had eaten".
 [^22-7]: Compare Jeremiah 31:31; Exodus 24:8.
 [^22-8]: Greek *euergetai*, a title of honor given to rulers and patrons.
 [^22-9]: Or "testings". Greek *peirasmoi*.
 [^22-10]: Or "And just as my Father has given me a kingdom, I give it to you". The Greek verb *diatithemai* is related to *diatheke*, "covenant".
-[^22-11]: Some manuscripts add "And the Lord said".
+[^22-11]: Many manuscripts add "And the Lord said".
 [^22-12]: "You" is plural in Greek.
 [^22-13]: "You" is singular in Greek here and in the rest of the verse.
 [^22-14]: See 10:4.
@@ -2350,7 +2495,7 @@
 [^22-23]: Many manuscripts add "struck him on the face".
 [^22-24]: Greek *blasphemountes*, "blaspheming".
 [^22-25]: Greek *synedrion*, the Sanhedrin, the supreme Jewish council.
-[^22-26]: Some manuscripts add "or let me go".
+[^22-26]: Many manuscripts add "or let me go".
 [^22-27]: See Psalm 110:1. "The power of God" is the phrase that Mark 14:62 gives as "the Power".
 [^22-28]: Or "You are right in saying that I am." The reply can be read as guarded or as affirming.
 
@@ -2378,7 +2523,7 @@
 
 **10** The chief priests and the scribes stood there, accusing him vehemently.
 
-**11** Herod too, with his soldiers, treated him with contempt and mocked him. Then he put a splendid robe on him and sent him back to Pilate.
+**11** Herod too,[^23-5] with his soldiers, treated him with contempt and mocked him. Then he put a splendid robe on him and sent him back to Pilate.
 
 **12** That very day Herod and Pilate became friends with each other; before this they had been enemies.
 
@@ -2386,9 +2531,9 @@
 
 **14** and said to them, "You brought this man to me as one who was leading the people astray. I have examined him in your presence and have found no basis in this man for the charges you bring against him.
 
-**15** Neither has Herod, for he sent him back to us.[^23-5] Look, he has done nothing to deserve death.
+**15** Neither has Herod, for he sent him back to us.[^23-6] Look, he has done nothing to deserve death.
 
-**16** So I will have him flogged[^23-6] and then release him."[^23-7]
+**16** So I will have him flogged[^23-7] and then release him."[^23-8]
 
 **18** But they all shouted together, "Away with this man! Release Barabbas for us!"
 
@@ -2400,7 +2545,7 @@
 
 **22** A third time he said to them, "Why? What wrong has this man done? I have found in him no grounds for the death penalty. So I will have him flogged and then release him."
 
-**23** But they kept pressing with loud shouts, demanding that he be crucified, and their shouts prevailed.[^23-8]
+**23** But they kept pressing with loud shouts, demanding that he be crucified, and their shouts prevailed.[^23-9]
 
 **24** So Pilate decided that their demand should be granted.
 
@@ -2414,23 +2559,23 @@
 
 **29** For look, the days are coming when people will say, 'Blessed are the women who are childless, the wombs that never gave birth and the breasts that never nursed!'
 
-**30** Then they will begin to say to the mountains, 'Fall on us!' and to the hills, 'Cover us!'[^23-9]
+**30** Then they will begin to say to the mountains, 'Fall on us!' and to the hills, 'Cover us!'[^23-10]
 
-**31** For if they do these things when the wood is green, what will happen when it is dry?"[^23-10]
+**31** For if they do these things when the wood is green, what will happen when it is dry?"[^23-11]
 
 **32** Two others, who were criminals, were also led away with him to be put to death.
 
-**33** When they came to the place called the Skull,[^23-11] they crucified him there, along with the criminals, one on his right and one on his left.
+**33** When they came to the place called the Skull,[^23-12] they crucified him there, along with the criminals, one on his right and one on his left.
 
-**34** And Jesus said, "Father, forgive them, for they do not know what they are doing."[^23-12] They divided his clothes by casting lots.[^23-13]
+**34** And Jesus said, "Father, forgive them, for they do not know what they are doing."[^23-13] They divided his clothes by casting lots.[^23-14]
 
-**35** The people stood by, watching. The leaders also sneered at him,[^23-14] saying, "He saved others; let him save himself, if he is the Messiah of God, the Chosen One!"
+**35** The people stood by, watching. The leaders also sneered at him,[^23-15] saying, "He saved others; let him save himself, if he is the Messiah of God, the Chosen One!"
 
-**36** The soldiers also mocked him. They came up and offered him sour wine[^23-15]
+**36** The soldiers also mocked him. They came up and offered him sour wine[^23-16]
 
 **37** and said, "If you are the king of the Jews, save yourself!"
 
-**38** There was also an inscription over him:[^23-16] "This is the King of the Jews."
+**38** There was also an inscription over him:[^23-17] "This is the King of the Jews."
 
 **39** One of the criminals hanging there insulted him, saying, "Aren't you the Messiah? Save yourself and us!"
 
@@ -2438,23 +2583,23 @@
 
 **41** We are being punished justly, for we are getting what our deeds deserve. But this man has done nothing wrong."
 
-**42** Then he said, "Jesus, remember me when you come in your kingdom."[^23-17]
+**42** Then he said, "Jesus, remember me when you come in your kingdom."[^23-18]
 
-**43** Jesus said to him, "Truly I tell you, today you will be with me in paradise."[^23-18]
+**43** Jesus said to him, "Truly I tell you, today you will be with me in paradise."[^23-19]
 
-**44** It was now about noon,[^23-19] and darkness came over the whole land[^23-20] until three in the afternoon,
+**44** It was now about noon,[^23-20] and darkness came over the whole land[^23-21] until three in the afternoon,
 
-**45** because the sun's light failed.[^23-21] And the curtain of the temple was torn down the middle.
+**45** because the sun's light failed.[^23-22] And the veil[^23-23] of the temple was torn down the middle.
 
-**46** Jesus called out with a loud voice, "Father, into your hands I commit my spirit."[^23-22] Having said this, he breathed his last.
+**46** Jesus called out with a loud voice, "Father, into your hands I commit my spirit."[^23-24] Having said this, he breathed his last.
 
-**47** When the centurion saw what had happened, he glorified God and said, "Certainly this man was righteous."[^23-23]
+**47** When the centurion saw what had happened, he glorified God and said, "Certainly this man was righteous."[^23-25]
 
 **48** When all the crowds who had gathered for this spectacle saw what had happened, they returned home, beating their breasts.
 
-**49** But all who knew him, including the women who had followed him from Galilee, stood at a distance, watching these things.[^23-24]
+**49** But all who knew him, including the women who had followed him from Galilee, stood at a distance, watching these things.[^23-26]
 
-**50** Now there was a man named Joseph, a member of the council,[^23-25] a good and righteous man—
+**50** Now there was a man named Joseph, a member of the council,[^23-27] a good and righteous man—
 
 **51** he had not agreed with their plan and their action—who came from Arimathea, a town of the Jews, and was waiting for the kingdom of God.
 
@@ -2462,39 +2607,41 @@
 
 **53** Then he took it down, wrapped it in a linen cloth, and laid him in a tomb cut out of the rock, where no one had yet been laid.
 
-**54** It was the day of Preparation, and the Sabbath was about to begin.[^23-26]
+**54** It was the day of Preparation, and the Sabbath was about to begin.[^23-28]
 
 **55** The women who had come with Jesus from Galilee followed, and they saw the tomb and how his body was laid.
 
-**56** Then they went back and prepared spices and perfumes. On the Sabbath they rested according to the commandment.[^23-27]
+**56** Then they went back and prepared spices and perfumes. On the Sabbath they rested according to the commandment.[^23-29]
 
 [^23-1]: Or "an anointed king". Greek *christos*.
 [^23-2]: Or "You have said it." The reply neither simply affirms nor denies.
 [^23-3]: Here "Judea" probably means the whole land of the Jews; see 4:44.
 [^23-4]: Compare 9:9.
-[^23-5]: Some manuscripts read "for I sent you to him".
-[^23-6]: Greek *paideuo*, "discipline", probably a lesser beating than the flogging that came before crucifixion; also in verse 22.
-[^23-7]: Many manuscripts add verse 17: "Now he was obliged to release one man for them at the festival." The SBLGNT does not include it, so this translation has no verse 17.
-[^23-8]: Some manuscripts add "and those of the chief priests".
-[^23-9]: Hosea 10:8, where the two cries are in the opposite order.
-[^23-10]: Literally "if they do these things in the green wood, what will happen in the dry?", a proverb.
-[^23-11]: Greek *Kranion*, "skull"; traditionally "Calvary", from the Latin word for skull.
-[^23-12]: Some manuscripts leave out the first sentence of this verse. The SBLGNT prints it as part of the text, without brackets.
-[^23-13]: See Psalm 22:19 (22:18 in most English Bibles).
-[^23-14]: Compare Psalm 22:8 (22:7 in most English Bibles).
-[^23-15]: Cheap wine vinegar, a common drink of soldiers and laborers. See Psalm 69:22 (69:21 in most English Bibles).
-[^23-16]: Many manuscripts add "written in Greek, Latin, and Hebrew letters".
-[^23-17]: Or "when you come as king". Some manuscripts read "into your kingdom". Many manuscripts read "And he said to Jesus, 'Lord, remember me …'"
-[^23-18]: Greek *paradeisos*, "garden, park", the word used in the Greek Old Testament for the garden of Eden (Genesis 2:8). Or, with different punctuation, "Truly I tell you today, you will be with me in paradise."
-[^23-19]: Literally "the sixth hour"; "three in the afternoon" is literally "the ninth hour".
-[^23-20]: Or "the whole earth".
-[^23-21]: Or "was eclipsed". Some manuscripts read "and the sun was darkened".
-[^23-22]: Psalm 31:6 (31:5 in most English Bibles).
-[^23-23]: Or "innocent".
-[^23-24]: Compare Psalm 38:12 (38:11 in most English Bibles); 88:9 (88:8 in most English Bibles).
-[^23-25]: Greek *bouleutes*, a member of the Sanhedrin.
-[^23-26]: Literally "was dawning". The Sabbath began at sunset.
-[^23-27]: See Exodus 20:8–10.
+[^23-5]: The SBLGNT here follows NA28; other editions leave out "too".
+[^23-6]: Many manuscripts read "for I sent you to him".
+[^23-7]: Greek *paideuo*, "discipline", probably a lesser beating than the flogging that came before crucifixion; also in verse 22.
+[^23-8]: Many manuscripts add verse 17: "Now he was obliged to release one man for them at the festival." The SBLGNT and other critical editions leave it out, so this translation has no verse 17.
+[^23-9]: Many manuscripts add "and those of the chief priests".
+[^23-10]: Hosea 10:8, where the two cries are in the opposite order.
+[^23-11]: Literally "if they do these things in the green wood, what will happen in the dry?", a proverb.
+[^23-12]: Greek *Kranion*, "skull"; traditionally "Calvary", from the Latin word for skull.
+[^23-13]: Some manuscripts leave out the first sentence of this verse. The SBLGNT prints it as part of the text, without brackets.
+[^23-14]: See Psalm 22:19 (22:18 in most English Bibles).
+[^23-15]: Compare Psalm 22:8 (22:7 in most English Bibles).
+[^23-16]: Cheap wine vinegar, a common drink of soldiers and laborers. See Psalm 69:22 (69:21 in most English Bibles).
+[^23-17]: Many manuscripts add "written in Greek, Latin, and Hebrew letters".
+[^23-18]: Or "when you come as king". Some manuscripts read "into your kingdom". Many manuscripts read "And he said to Jesus, 'Lord, remember me …'"
+[^23-19]: Greek *paradeisos*, "garden, park", the word used in the Greek Old Testament for the garden of Eden (Genesis 2:8). Or, with different punctuation, "Truly I tell you today, you will be with me in paradise."
+[^23-20]: Literally "the sixth hour"; "three in the afternoon" is literally "the ninth hour".
+[^23-21]: Or "the whole earth".
+[^23-22]: Or "was eclipsed". Many manuscripts read "and the sun was darkened".
+[^23-23]: Greek *katapetasma*, the word the Greek Old Testament uses for the veil that screened the most holy place (Exodus 26:31–33).
+[^23-24]: Psalm 31:6 (31:5 in most English Bibles).
+[^23-25]: Or "innocent".
+[^23-26]: Compare Psalm 38:12 (38:11 in most English Bibles); 88:9 (88:8 in most English Bibles).
+[^23-27]: Greek *bouleutes*, a member of the Sanhedrin.
+[^23-28]: Literally "was dawning". The Sabbath began at sunset.
+[^23-29]: See Exodus 20:8–10.
 
 ## Chapter 24
 
@@ -2607,21 +2754,21 @@
 **53** and they were continually in the temple, blessing God.[^24-19]
 
 [^24-1]: Many manuscripts add "and some other women with them".
-[^24-2]: The SBLGNT here follows a few manuscripts. Most manuscripts and editions read "the body of the Lord Jesus".
+[^24-2]: The SBLGNT here follows Westcott and Hort; other editions read "the body of the Lord Jesus".
 [^24-3]: Some manuscripts leave out "He is not here, but he has been raised."
 [^24-4]: Many manuscripts add "lying there".
 [^24-5]: Or "he went away, wondering to himself at what had happened". Literally "he went away to himself".
 [^24-6]: Some manuscripts leave out verse 12. The SBLGNT prints it as part of the text, without brackets. Compare John 20:3–10.
 [^24-7]: Greek *stadioi*. Sixty stadia was about 7 miles (11 kilometers).
 [^24-8]: Many manuscripts read "as you walk along, and are sad?"
-[^24-9]: The SBLGNT here follows a few manuscripts. Most manuscripts and editions add "and said to them, 'Peace be with you.'" Compare John 20:19.
+[^24-9]: The SBLGNT here follows Westcott and Hort; other editions add "and said to them, 'Peace be with you.'" Compare John 20:19.
 [^24-10]: Greek *pneuma*, "spirit"; also in verse 39.
 [^24-11]: The SBLGNT prints this verse in brackets [ ], marking its place in the text as uncertain; this translation does the same. Some manuscripts leave it out. Compare John 20:20.
-[^24-12]: Some manuscripts add "and some honeycomb".
+[^24-12]: Many manuscripts add "and some honeycomb".
 [^24-13]: The Jewish Scriptures came to be grouped in three parts: the Law (the five books of Moses), the Prophets, and the Writings. The Psalms, the largest book of the Writings, may stand here for that whole third part, or the book of Psalms itself may be meant.
 [^24-14]: Many manuscripts read "This is what is written, and so it was necessary for the Messiah to suffer …"
 [^24-15]: Some manuscripts read "repentance for the forgiveness of sins".
 [^24-16]: In Greek "beginning" is plural and refers to the disciples: "you, beginning from Jerusalem".
 [^24-17]: The SBLGNT prints these words in brackets [ ], marking their place in the text as uncertain; this translation does the same. Some manuscripts leave them out.
 [^24-18]: The SBLGNT prints these words in brackets [ ], marking their place in the text as uncertain; this translation does the same. Some manuscripts leave them out.
-[^24-19]: Some manuscripts read "praising and blessing God". Many manuscripts add "Amen."
+[^24-19]: Many manuscripts read "praising and blessing God. Amen."

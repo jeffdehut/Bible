@@ -128,7 +128,7 @@
 
 **21** And everyone who calls on the name of the Lord will be saved.'
 
-**22** "Fellow Israelites,[^2-18] listen to these words. Jesus of Nazareth was a man commended to you by God through mighty works, wonders, and signs, which God did through him among you, as you yourselves know.
+**22** Fellow Israelites,[^2-18] listen to these words. Jesus of Nazareth was a man commended to you by God through mighty works, wonders, and signs, which God did through him among you, as you yourselves know.
 
 **23** This man was handed over by God's set plan and foreknowledge, and you killed him, nailing him to a cross[^2-19] by the hands of lawless men.
 
@@ -142,7 +142,7 @@
 
 **28** You have made known to me the paths of life; you will fill me with joy in your presence.'[^2-27]
 
-**29** "Brothers,[^2-28] I can tell you confidently that the patriarch David died and was buried, and his tomb is with us to this day.
+**29** Brothers,[^2-28] I can tell you confidently that the patriarch David died and was buried, and his tomb is with us to this day.
 
 **30** But he was a prophet, and he knew that God had sworn an oath to him that he would set one of his descendants on his throne.[^2-29]
 
@@ -257,7 +257,7 @@
 
 **16** It is his name, by faith in his name, that has made this man strong, whom you see and know.[^3-9] The faith that comes through him has given him this complete health in front of you all.
 
-**17** "Now, brothers, I know that you acted in ignorance, as did your rulers.
+**17** Now, brothers, I know that you acted in ignorance, as did your rulers.
 
 **18** But this is how God fulfilled what he had announced beforehand through the mouth of all the prophets, that his Messiah would suffer.
 
@@ -570,7 +570,7 @@
 
 **8** Then he gave him the covenant of circumcision. And so Abraham became the father of Isaac and circumcised him on the eighth day, and Isaac became the father of Jacob, and Jacob of the twelve patriarchs.[^7-8]
 
-**9** "The patriarchs were jealous of Joseph and sold him into Egypt. But God was with him[^7-9]
+**9** The patriarchs were jealous of Joseph and sold him into Egypt. But God was with him[^7-9]
 
 **10** and rescued him from all his troubles. He gave him favor and wisdom before Pharaoh king of Egypt, who made him governor over Egypt and over all his household.[^7-10]
 
@@ -586,7 +586,7 @@
 
 **16** They were carried back to Shechem and placed in the tomb that Abraham had bought for a sum of silver from the sons of Hamor in Shechem.[^7-14]
 
-**17** "As the time drew near for the fulfillment of the promise that God had made to Abraham,[^7-15] the people grew and multiplied in Egypt,
+**17** As the time drew near for the fulfillment of the promise that God had made to Abraham,[^7-15] the people grew and multiplied in Egypt,
 
 **18** until a different king came to power over Egypt, one who did not know about Joseph.[^7-16]
 
@@ -598,7 +598,7 @@
 
 **22** Moses was trained in all the wisdom of the Egyptians, and he was powerful in his words and deeds.[^7-19]
 
-**23** "When he was forty years old,[^7-20] he decided[^7-21] to visit his brothers, the Israelites.
+**23** When he was forty years old,[^7-20] he decided[^7-21] to visit his brothers, the Israelites.
 
 **24** When he saw one of them being treated unjustly, he defended him and avenged the man who was being mistreated by striking down the Egyptian.
 
@@ -612,7 +612,7 @@
 
 **29** When he heard this, Moses fled and became a foreigner in the land of Midian, where he became the father of two sons.[^7-24]
 
-**30** "After forty years had passed, an angel[^7-25] appeared to him in the wilderness of Mount Sinai, in a flame of fire in a bush.
+**30** After forty years had passed, an angel[^7-25] appeared to him in the wilderness of Mount Sinai, in a flame of fire in a bush.
 
 **31** When Moses saw it, he was amazed at the sight. As he went closer to look, the voice of the Lord[^7-26] came:
 
@@ -622,7 +622,7 @@
 
 **34** I have seen, I have truly seen, the misery of my people in Egypt. I have heard their groaning, and I have come down to rescue them. And now come, I will send you to Egypt.'[^7-28]
 
-**35** "This is the Moses they disowned when they said, 'Who made you a ruler and judge?' God sent him as both ruler and redeemer, by the hand of the angel who appeared to him in the bush.
+**35** This is the Moses they disowned when they said, 'Who made you a ruler and judge?' God sent him as both ruler and redeemer, by the hand of the angel who appeared to him in the bush.
 
 **36** He led them out, doing wonders and signs in the land of Egypt, at the Red Sea,[^7-29] and in the wilderness for forty years.
 
@@ -630,7 +630,7 @@
 
 **38** He is the one who was in the assembly[^7-31] in the wilderness, with the angel who spoke to him on Mount Sinai and with our ancestors. He received living words to give to us.[^7-32]
 
-**39** "Our ancestors were unwilling to obey him. Instead they pushed him aside, and in their hearts they turned back to Egypt.
+**39** Our ancestors were unwilling to obey him. Instead they pushed him aside, and in their hearts they turned back to Egypt.
 
 **40** They said to Aaron, 'Make us gods who will go ahead of us. As for this Moses, who brought us out of the land of Egypt, we don't know what has happened to him.'[^7-33]
 
@@ -640,7 +640,7 @@
 
 **43** You took up the tent of Moloch and the star of the god Rephan,[^7-37] the images you made to worship. So I will send you into exile beyond Babylon.'[^7-38]
 
-**44** "Our ancestors had the tent of the testimony[^7-39] in the wilderness. It was made just as the one who spoke to Moses directed him, according to the pattern he had seen.[^7-40]
+**44** Our ancestors had the tent of the testimony[^7-39] in the wilderness. It was made just as the one who spoke to Moses directed him, according to the pattern he had seen.[^7-40]
 
 **45** Our ancestors received it in turn and brought it in with Joshua[^7-41] when they took the land from the nations that God drove out before them. It remained until the time of David.
 
@@ -654,7 +654,7 @@
 
 **50** Did my hand not make all these things?'[^7-44]
 
-**51** "You stiff-necked people, uncircumcised in heart and ears![^7-45] You always resist the Holy Spirit. As your ancestors did, so do you.
+**51** You stiff-necked people, uncircumcised in heart and ears![^7-45] You always resist the Holy Spirit. As your ancestors did, so do you.
 
 **52** Which of the prophets did your ancestors not persecute? They killed those who announced in advance the coming of the Righteous One, and now you have become his betrayers and murderers.
 
@@ -1253,7 +1253,7 @@
 
 **25** As John was finishing his course, he said, 'What do you suppose I am? I am not the one.[^13-20] But look, one is coming after me, and I am not worthy to untie the sandals on his feet.'[^13-21]
 
-**26** "Brothers, descendants of Abraham's family, and those among you who fear God, it is to us[^13-22] that the message of this salvation has been sent.
+**26** Brothers, descendants of Abraham's family, and those among you who fear God, it is to us[^13-22] that the message of this salvation has been sent.
 
 **27** For the people who live in Jerusalem and their rulers did not recognize him or understand the words of the prophets that are read every Sabbath, and by condemning him they fulfilled those words.
 
