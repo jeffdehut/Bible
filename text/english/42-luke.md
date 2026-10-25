@@ -1535,7 +1535,7 @@
 
 **37** Blessed are those servants[^12-15] whom the master finds awake when he comes. Truly I tell you, he will dress himself to serve, have them recline at table, and come and serve them.
 
-**38** Even if he comes in the middle of the night or toward dawn[^12-16] and finds them so, blessed are they.
+**38** Even if he comes late at night or in the early hours of the morning[^12-16] and finds them so, blessed are they.
 
 **39** But understand this: if the owner of the house had known at what hour the thief was coming, he would not have let his house be broken into.[^12-17]
 
@@ -1594,7 +1594,7 @@
 [^12-13]: Literally "give alms".
 [^12-14]: Literally "Let your waists be belted", with the long robe tucked into the belt for work or travel.
 [^12-15]: Or "slaves". Greek *douloi*; also in verses 38–47.
-[^12-16]: Literally "in the second or in the third watch", periods into which the night was divided.
+[^12-16]: Literally "in the second or in the third watch". By the Roman reckoning of four watches of the night, these ran from 9 p.m. to midnight and from midnight to 3 a.m.
 [^12-17]: Many manuscripts read "he would have kept watch and would not have let his house be broken into".
 [^12-18]: Greek *oikonomos*, the manager of a household, often a trusted slave.
 [^12-19]: Literally "cut him in two", perhaps meaning "punish him severely".
