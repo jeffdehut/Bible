@@ -106,3 +106,59 @@
 [^1-35]: Literally "no flesh".
 [^1-36]: Or "who became for us wisdom from God, that is, righteousness, holiness and redemption". *Holiness*: or "sanctification". *Redemption*: release, as of a slave or captive, by payment of a price.
 [^1-37]: A summary of Jeremiah 9:22–23 (9:23–24 in most English Bibles), where the one who boasts is to boast that he knows God, "that I am Yahweh". In the Hebrew, "the Lord" here is God's personal name, Yahweh. Also in 2 Corinthians 10:17.
+
+## Chapter 2
+
+*Status: draft*
+
+**1** When I came to you, brothers and sisters,[^2-1] I did not come with superior eloquence or wisdom[^2-2] as I proclaimed to you the testimony of God.[^2-3]
+
+**2** For I decided to know nothing among you except Jesus Christ, and him crucified.
+
+**3** And I was with you in weakness, in fear and in much trembling.
+
+**4** My speech and my proclamation[^2-4] were not with the persuasiveness of wisdom,[^2-5] but with a demonstration of the Spirit and of power,[^2-6]
+
+**5** so that your faith would not rest on human wisdom but on the power of God.
+
+**6** Yet we do speak wisdom among the mature,[^2-7] but not the wisdom of this age, or of the rulers of this age,[^2-8] who are being brought to nothing.[^2-9]
+
+**7** We speak God's wisdom in a mystery,[^2-10] the wisdom that has been hidden, which God destined before the ages for our glory.
+
+**8** None of the rulers of this age understood it, for if they had understood it, they would not have crucified the Lord of glory.
+
+**9** But as it is written, "What no eye has seen, and no ear has heard, and has not entered the human heart,[^2-11] all that God has prepared for those who love him."[^2-12]
+
+**10** For God has revealed it to us through the Spirit.[^2-13] For the Spirit searches everything, even the depths of God.
+
+**11** For who among human beings knows the thoughts of a person[^2-14] except the person's own spirit within him? In the same way, no one knows the thoughts of God except the Spirit of God.
+
+**12** We have not received the spirit of the world, but the Spirit that is from God, so that we may know the things God has freely given us.
+
+**13** And we speak of these things, not in words taught by human wisdom, but in words taught by the Spirit,[^2-15] explaining spiritual things in spiritual words.[^2-16]
+
+**14** The natural person[^2-17] does not accept the things of the Spirit of God, for they are foolishness to him, and he cannot understand them, because they are discerned spiritually.[^2-18]
+
+**15** The spiritual person judges all things, but he himself is judged by no one.
+
+**16** For "who has known the mind of the Lord, so as to instruct him?"[^2-19] But we have the mind of Christ.
+
+[^2-1]: Greek *adelphoi*, "brothers", used of the believers, men and women alike (see 1:10).
+[^2-2]: Literally "not according to excellence of word or of wisdom".
+[^2-3]: Some manuscripts read "the mystery of God".
+[^2-4]: Greek *kerygma*, "proclamation, preaching" (see 1:21).
+[^2-5]: The SBLGNT reads "the persuasiveness of wisdom". Most editions read "persuasive words of wisdom", and many manuscripts "persuasive words of human wisdom".
+[^2-6]: Or "a demonstration of the Spirit's power".
+[^2-7]: Greek *teleioi*, "mature, complete, perfect".
+[^2-8]: Either the human authorities, such as those who crucified Jesus (verse 8), or spiritual powers thought to rule the present age; also in verse 8.
+[^2-9]: Greek *katargeo* (see 1:28).
+[^2-10]: Greek *mysterion*, a secret purpose of God, now made known. Or "We speak God's wisdom, a mystery that has been hidden".
+[^2-11]: Literally "has not come up on the heart of a human being".
+[^2-12]: The words do not match any one Old Testament passage. Compare Isaiah 64:3 (64:4 in most English Bibles) and 65:17, where "come to mind" is literally "come up on the heart".
+[^2-13]: The SBLGNT here follows Westcott and Hort; other editions read "But".
+[^2-14]: Literally "the things of the person"; and "the things of God" later in the verse.
+[^2-15]: Many manuscripts read "the Holy Spirit".
+[^2-16]: Or "interpreting spiritual things to spiritual people", or "comparing spiritual things with spiritual things".
+[^2-17]: Greek *psychikos*, from *psyche*, "life, soul": a person with natural life only, without the Spirit of God. Or "the unspiritual person".
+[^2-18]: Greek *anakrino*, "examine, judge, discern", the verb translated "judges" and "judged" in verse 15.
+[^2-19]: Isaiah 40:13, following the Septuagint. The Hebrew reads "Who has measured the Spirit of Yahweh, or instructed him as his counselor?" In the Hebrew, "the Lord" is God's personal name, Yahweh.
