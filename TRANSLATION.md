@@ -80,7 +80,8 @@ Decisions marked **proposed** are used in the pilot and are open for review.
 | Prophetic formulas | נְאֻם יְהוָה "declares Yahweh"; כֹּה אָמַר יְהוָה "This is what Yahweh says"; הוֹי "Woe to …"; מַשָּׂא "An oracle concerning …"; בַּיּוֹם הַהוּא "On that day"; קְדוֹשׁ יִשְׂרָאֵל "the Holy One of Israel"; וִידַעְתֶּם כִּי אֲנִי יְהוָה "Then you will know that I am Yahweh" | Set in Isaiah and Jeremiah and used in every prophetic book. *Hoy* is noted at its first occurrence in each book; *massa* ("oracle", also "burden") likewise. Later chapters may give a short pointer ("See 13:1"). Where *hoy* is not a cry of disaster it is "Ah", noted. |
 | שְׁאוֹל (Sheol) | Sheol | The realm of the dead. Noted at its first occurrence in each chapter. |
 | מִשְׁכָּן, אֹהֶל מוֹעֵד | tabernacle, tent of meeting | The renderings of the tabernacle, its furnishings, the priestly garments and the offerings are set in Exodus 25–40 and Leviticus 1–7; later books reuse them (for example *kapporet* "atonement cover", *choshen* "breastpiece", *shelamim* "fellowship offering", *chatta't* "sin offering" with a note "Or 'purification offering'"). |
-| פָּרֹכֶת (parokhet) | veil | The hanging that screens the most holy place. Not "curtain", which is יְרִיעָה; מָסָךְ is "screen". |
+| פָּרֹכֶת (parokhet), καταπέτασμα | veil | The hanging that screens the most holy place, in the tabernacle, the temple (Mark 15:38) and Hebrews. Not "curtain", which is יְרִיעָה; מָסָךְ is "screen". |
+| οὐαί | Woe to … | As the prophets' *hoy* (Matthew 23, Luke 6:24–26, Mark 13:17). |
 | אָב (ancestor), "his father David" | his ancestor David | "Father" is kept where it means the actual father (Solomon's father David). For a later king, "his ancestor David", noted "Literally 'his father'". Plural אָבוֹת is "ancestors" ("slept with his ancestors"). |
 | בְּנֵי יִשְׂרָאֵל | the Israelites, the people of Israel | Literally "the sons of Israel". No note needed. |
 | תּוֹרָה (torah) | instruction, law, by context | "The Law" when it means the law given through Moses as a whole. |
@@ -192,12 +193,21 @@ from the Hebrew.
 - **New Testament variants** come only from the SBLGNT apparatus. Note those that change the
   meaning: a word, phrase or verse added or left out, or a different word. Spelling, word
   order, the article, εὐθύς/εὐθέως and similar differences are not noted. Wording:
-  - a reading found only in RP, the Byzantine majority text: "Many manuscripts add/read …"
-  - a reading of WH, Treg or NA28: "Some manuscripts read …"
+  - a reading supported by RP, the Byzantine majority text (alone or with others): "Many
+    manuscripts add/read …"
+  - a reading of WH, Treg or NA28 without RP (NA28 alone too, as "Jesus Barabbas" at Matthew
+    27:16): "Some manuscripts read …"
   - where the SBLGNT follows a minority (its reading is marked only by Holmes, or by RP
     alone): "These words are in the SBLGNT, following …; many modern editions leave them out."
   - a verse that is absent: the verse number is skipped in the file, and the previous verse
-    has a note giving the verse and its words (Mark 11:25, 15:27).
+    has a note giving the verse and its words: "Many manuscripts add verse 26: '…'. The SBLGNT
+    and other critical editions leave it out, so this translation has no verse 26."
+  - a conjecture printed by an edition (Acts 16:12 in NA28): "Some editions read, by a
+    conjectural change, …"; where the SBLGNT follows one edition against the others, name it:
+    "The SBLGNT here follows Westcott and Hort; other editions read …".
+  - The apparatus records editions, not manuscripts, so notes don't claim more ("the earliest
+    manuscripts"). The exception is the few famous passages whose manuscript evidence is well
+    documented (Mark 16:8–20, John 7:53–8:11, John 1:18), where the major witnesses may be named.
   Check the single-word variants too: one word can change the meaning (Mark 1:41).
   - Text the SBLGNT prints in double brackets ⟦ ⟧ (Mark 16:9–20, John 7:53–8:11) keeps them in
     the translation, with a note on the manuscript evidence, as in Mark 16.

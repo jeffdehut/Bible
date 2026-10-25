@@ -672,7 +672,7 @@
 [^7-5]: Isaiah 29:13, quoted from the Greek translation.
 [^7-6]: Exodus 20:12; Deuteronomy 5:16.
 [^7-7]: Exodus 21:17; Leviticus 20:9.
-[^7-8]: Many manuscripts add verse 16: "If anyone has ears to hear, let them hear." The SBLGNT, following the earliest manuscripts, does not include it, so this translation has no verse 16.
+[^7-8]: Many manuscripts add verse 16: "If anyone has ears to hear, let them hear." The SBLGNT and other critical editions leave it out, so this translation has no verse 16.
 [^7-9]: Literally "cleansing all foods". Most interpreters take these words as Mark's comment on what Jesus said. Some take them as part of Jesus' words, referring to the digestive process.
 [^7-10]: Literally "an evil eye".
 [^7-11]: Many manuscripts add "and Sidon".
@@ -873,7 +873,7 @@
 [^9-6]: Or "to sin"; also in verses 43–47.
 [^9-7]: Literally "a donkey's millstone", one large enough to be turned by a donkey.
 [^9-8]: Greek *Gehenna*, from the Valley of Hinnom outside Jerusalem, used as a name for the place of final judgment.
-[^9-9]: Many manuscripts add verse 44, and verse 46 after verse 45, both repeating verse 48: "where 'their worm does not die, and the fire is not put out.'" The SBLGNT, following the earliest manuscripts, does not include them, so this translation has no verses 44 and 46.
+[^9-9]: Many manuscripts add verse 44, and verse 46 after verse 45, both repeating verse 48: "where 'their worm does not die, and the fire is not put out.'" The SBLGNT and other critical editions leave them out, so this translation has no verses 44 and 46.
 [^9-10]: Isaiah 66:24.
 [^9-11]: Many manuscripts add "and every sacrifice will be salted with salt".
 
@@ -1070,7 +1070,7 @@
 [^11-5]: Isaiah 56:7.
 [^11-6]: Jeremiah 7:11.
 [^11-7]: Literally "Have faith of God".
-[^11-8]: Many manuscripts add verse 26: "But if you do not forgive, neither will your Father in heaven forgive your wrongdoings." The SBLGNT, following the earliest manuscripts, does not include it, so this translation has no verse 26.
+[^11-8]: Many manuscripts add verse 26: "But if you do not forgive, neither will your Father in heaven forgive your wrongdoings." The SBLGNT and other critical editions leave it out, so this translation has no verse 26.
 [^11-9]: These words are in the SBLGNT, following a few manuscripts. They are not in most manuscripts or editions.
 
 ## Chapter 12
@@ -1215,7 +1215,7 @@
 
 **16** Whoever is in the field must not turn back to get their cloak.
 
-**17** How terrible it will be in those days for women who are pregnant and for those who are nursing!
+**17** Woe to those who are pregnant and to those who are nursing in those days!
 
 **18** Pray that it will not happen in winter.
 
@@ -1312,7 +1312,7 @@
 
 **20** He said to them, "It is one of the Twelve, the one who is dipping bread into the bowl with me.
 
-**21** The Son of Man is going just as it is written about him, but how terrible it will be for that man by whom the Son of Man is betrayed! It would be better for that man if he had never been born."
+**21** The Son of Man is going just as it is written about him, but woe to that man by whom the Son of Man is betrayed! It would be better for that man if he had never been born."
 
 **22** While they were eating, Jesus took bread, blessed it, broke it, and gave it to them, saying, "Take it;[^14-3] this is my body."
 
@@ -1510,17 +1510,17 @@
 
 **37** Then Jesus let out a loud cry and breathed his last.
 
-**38** The curtain of the temple was torn in two from top to bottom.
+**38** The veil[^15-14] of the temple was torn in two from top to bottom.
 
-**39** When the centurion who stood facing him saw how he breathed his last,[^15-14] he said, "Truly this man was God's Son!"[^15-15]
+**39** When the centurion who stood facing him saw how he breathed his last,[^15-15] he said, "Truly this man was God's Son!"[^15-16]
 
 **40** Some women were also watching from a distance. Among them were Mary Magdalene, Mary the mother of James the younger and of Joses, and Salome.
 
-**41** When he was in Galilee, these women used to follow him and look after his needs.[^15-16] Many other women who had come up with him to Jerusalem were there too.
+**41** When he was in Galilee, these women used to follow him and look after his needs.[^15-17] Many other women who had come up with him to Jerusalem were there too.
 
 **42** Evening had already come. Since it was the day of Preparation, that is, the day before the Sabbath,
 
-**43** Joseph of Arimathea, a respected member of the council,[^15-17] who was himself waiting for the kingdom of God, came and went boldly to Pilate and asked for the body of Jesus.
+**43** Joseph of Arimathea, a respected member of the council,[^15-18] who was himself waiting for the kingdom of God, came and went boldly to Pilate and asked for the body of Jesus.
 
 **44** Pilate was surprised that he was already dead. He summoned the centurion and asked him whether he had been dead for long.
 
@@ -1537,16 +1537,17 @@
 [^15-5]: See Psalm 22:19 (22:18 in most English Bibles).
 [^15-6]: Literally "the third hour", counted from sunrise.
 [^15-7]: Or "robbers", "bandits". Greek *lestai*.
-[^15-8]: Many manuscripts add verse 28: "And the scripture was fulfilled that says, 'He was counted among the lawless'" (Isaiah 53:12). The SBLGNT, following the earliest manuscripts, does not include it, so this translation has no verse 28.
+[^15-8]: Many manuscripts add verse 28: "And the scripture was fulfilled that says, 'He was counted among the lawless'" (Isaiah 53:12). The SBLGNT and other critical editions leave it out, so this translation has no verse 28.
 [^15-9]: See Psalm 22:8 (22:7 in most English Bibles).
 [^15-10]: Literally "the sixth hour"; "three in the afternoon" is literally "the ninth hour".
 [^15-11]: Or "the whole earth".
 [^15-12]: Psalm 22:2 (22:1 in most English Bibles), quoted in Aramaic.
 [^15-13]: Cheap wine vinegar, a common drink of soldiers and laborers. See Psalm 69:22 (69:21 in most English Bibles).
-[^15-14]: Many manuscripts read "saw that he cried out and breathed his last".
-[^15-15]: Or "a son of God". The Greek has no article.
-[^15-16]: Or "serve him".
-[^15-17]: Greek *bouleutes*, a member of the Sanhedrin.
+[^15-14]: Greek *katapetasma*, the word the Greek Old Testament uses for the veil that screened the most holy place (Exodus 26:31–33).
+[^15-15]: Many manuscripts read "saw that he cried out and breathed his last".
+[^15-16]: Or "a son of God". The Greek has no article.
+[^15-17]: Or "serve him".
+[^15-18]: Greek *bouleutes*, a member of the Sanhedrin.
 
 ## Chapter 16
 
