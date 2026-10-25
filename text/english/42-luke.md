@@ -1457,6 +1457,151 @@
 [^11-31]: Many manuscripts read "As he was saying these things to them".
 [^11-32]: Many manuscripts add "so that they could accuse him".
 
+## Chapter 12
+
+*Status: draft*
+
+**1** Meanwhile, when the crowd had gathered by the thousands,[^12-1] so that they were trampling on one another, Jesus began to speak first to his disciples: "Beware of the yeast of the Pharisees, which is hypocrisy.
+
+**2** There is nothing covered up that will not be uncovered, and nothing hidden that will not be made known.
+
+**3** So whatever you have said in the dark will be heard in the light, and what you have whispered in inner rooms[^12-2] will be proclaimed from the housetops.[^12-3]
+
+**4** "I tell you, my friends, do not be afraid of those who kill the body and after that can do nothing more.
+
+**5** But I will show you whom to fear: fear the one who, after the killing, has authority to throw you into hell.[^12-4] Yes, I tell you, fear him.
+
+**6** Aren't five sparrows sold for two pennies?[^12-5] Yet not one of them is forgotten by God.
+
+**7** Indeed, even the hairs of your head are all counted. Do not be afraid; you are worth more than many sparrows.
+
+**8** "I tell you, everyone who acknowledges me[^12-6] before people, the Son of Man will also acknowledge before the angels of God.
+
+**9** But whoever denies me before people will be denied before the angels of God.
+
+**10** And everyone who speaks a word against the Son of Man will be forgiven, but whoever blasphemes against the Holy Spirit will not be forgiven.
+
+**11** When they bring you before synagogues and rulers and authorities, do not worry about how you will defend yourselves or what you will say,
+
+**12** for the Holy Spirit will teach you at that very hour what you must say."
+
+**13** Someone in the crowd said to him, "Teacher, tell my brother to divide the inheritance with me."
+
+**14** But he said to him, "Friend,[^12-7] who appointed me a judge or arbitrator over you?"
+
+**15** Then he said to them, "Watch out! Be on your guard against every kind of greed, for even when someone has more than enough, his life does not come from his possessions."
+
+**16** Then he told them a parable: "The land of a rich man produced a good crop.
+
+**17** He thought to himself, 'What shall I do? I have no place to store my crops.'
+
+**18** Then he said, 'This is what I will do: I will tear down my barns and build bigger ones, and there I will store all my grain and my goods.
+
+**19** And I will say to my soul,[^12-8] "Soul, you have plenty of good things laid up for many years. Take your ease; eat, drink, and enjoy yourself."'
+
+**20** But God said to him, 'You fool! This very night your life is being demanded from you.[^12-9] And the things you have prepared, whose will they be?'
+
+**21** That is how it is with anyone who stores up treasure for himself but is not rich toward God."
+
+**22** Then Jesus said to his disciples, "That is why I tell you, do not worry about your life, what you will eat, or about your body, what you will wear.
+
+**23** For life is more than food, and the body more than clothing.
+
+**24** Consider the ravens. They do not sow or reap; they have no storeroom or barn; and yet God feeds them. How much more are you worth than the birds!
+
+**25** Which of you by worrying can add a cubit[^12-10] to your span of life?
+
+**26** If then you cannot do even so small a thing, why do you worry about the rest?
+
+**27** Consider how the lilies[^12-11] grow. They do not labor or spin. Yet I tell you that not even Solomon in all his glory was dressed like one of these.
+
+**28** If that is how God clothes the grass in the field, which is here today and tomorrow is thrown into the oven, how much more will he clothe you, you of little faith!
+
+**29** So do not set your hearts on what you will eat and what you will drink, and do not be anxious.
+
+**30** For the nations of the world seek after all these things, and your Father knows that you need them.
+
+**31** Instead, seek his kingdom, and these things will be given to you as well.[^12-12]
+
+**32** Do not be afraid, little flock, for your Father is pleased to give you the kingdom.
+
+**33** Sell your possessions and give to the poor.[^12-13] Make for yourselves purses that do not wear out, a treasure in heaven that will not run out, where no thief comes near and no moth destroys.
+
+**34** For where your treasure is, there your heart will be also.
+
+**35** "Be dressed for action[^12-14] and keep your lamps burning.
+
+**36** Be like people who are waiting for their master to return from a wedding banquet, so that when he comes and knocks, they can open the door for him at once.
+
+**37** Blessed are those servants[^12-15] whom the master finds awake when he comes. Truly I tell you, he will dress himself to serve, have them recline at table, and come and serve them.
+
+**38** Even if he comes in the middle of the night or toward dawn[^12-16] and finds them so, blessed are they.
+
+**39** But understand this: if the owner of the house had known at what hour the thief was coming, he would not have let his house be broken into.[^12-17]
+
+**40** You also must be ready, because the Son of Man is coming at an hour you do not expect."
+
+**41** Peter said, "Lord, are you telling this parable for us, or for everyone?"
+
+**42** The Lord answered, "Who, then, is the faithful and wise manager,[^12-18] whom the master will put in charge of his household servants to give them their share of food at the proper time?
+
+**43** Blessed is that servant whom his master finds doing so when he comes.
+
+**44** I tell you truly, he will put him in charge of all his possessions.
+
+**45** But suppose that servant says to himself, 'My master is taking a long time to come,' and he begins to beat the male and female servants, and to eat and drink and get drunk.
+
+**46** The master of that servant will come on a day when he does not expect him and at an hour he does not know. He will cut him in pieces[^12-19] and assign him a place with the unfaithful.
+
+**47** That servant who knew his master's will but did not get ready or do what he wanted will receive a severe beating.[^12-20]
+
+**48** But the one who did not know, and did things that deserved a beating, will receive a light beating. From everyone who has been given much, much will be required, and from the one who has been entrusted with much, even more will be asked.
+
+**49** "I came to bring fire on the earth, and how I wish it were already kindled!
+
+**50** I have a baptism to be baptized with, and how distressed I am until it is completed!
+
+**51** Do you think that I came to bring peace on earth? No, I tell you, but rather division.
+
+**52** From now on five in one household will be divided, three against two and two against three.
+
+**53** They will be divided, father against son and son against father, mother against daughter and daughter against mother, mother-in-law against her daughter-in-law and daughter-in-law against mother-in-law."[^12-21]
+
+**54** He also said to the crowds, "When you see a cloud rising in the west, you say at once, 'A shower is coming,' and so it happens.
+
+**55** And when you see the south wind blowing, you say, 'There will be scorching heat,' and it happens.
+
+**56** You hypocrites! You know how to interpret the appearance of the earth and the sky, but why don't you know how to interpret this present time?
+
+**57** And why don't you judge for yourselves what is right?
+
+**58** As you are going with your opponent to the magistrate, make an effort to settle with him on the way. Otherwise he may drag you before the judge, and the judge hand you over to the officer, and the officer throw you into prison.
+
+**59** I tell you, you will never get out of there until you have paid the very last small copper coin."[^12-22]
+
+[^12-1]: Literally "by the tens of thousands".
+[^12-2]: Literally "what you have spoken into the ear in the storerooms", the inner rooms of a house.
+[^12-3]: Houses had flat roofs, where people could be seen and heard.
+[^12-4]: Greek *Gehenna*, from the Valley of Hinnom outside Jerusalem, used as a name for the place of final judgment.
+[^12-5]: Greek *assaria*, small copper coins, each worth 1/16 of a denarius.
+[^12-6]: Literally "confesses in me"; also later in the verse, "in him".
+[^12-7]: Literally "Man".
+[^12-8]: Greek *psyche*, "soul, life, self"; also in verses 20 and 22–23 ("life").
+[^12-9]: Literally "they are demanding your soul from you".
+[^12-10]: About 18 inches (45 cm). *Span of life*: or "height".
+[^12-11]: Probably wild flowers in general.
+[^12-12]: Many manuscripts read "seek the kingdom of God, and all these things will be given to you as well".
+[^12-13]: Literally "give alms".
+[^12-14]: Literally "Let your waists be belted", with the long robe tucked into the belt for work or travel.
+[^12-15]: Or "slaves". Greek *douloi*; also in verses 38–47.
+[^12-16]: Literally "in the second or in the third watch", periods into which the night was divided.
+[^12-17]: Many manuscripts read "he would have kept watch and would not have let his house be broken into".
+[^12-18]: Greek *oikonomos*, the manager of a household, often a trusted slave.
+[^12-19]: Literally "cut him in two", perhaps meaning "punish him severely".
+[^12-20]: Literally "will be beaten with many blows"; in verse 48, "with few".
+[^12-21]: Compare Micah 7:6.
+[^12-22]: Greek *lepton*, the smallest coin; two of them made a *kodrantes* (Mark 12:42).
+
 ## Chapter 13
 
 *Status: draft*

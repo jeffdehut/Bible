@@ -92,7 +92,7 @@
 
 **3** Tongues like fire appeared to them, divided among them, and one came to rest on each of them.
 
-**4** All of them were filled with the Holy Spirit and began to speak in other languages,[^2-4] as the Spirit gave them the words to speak out.
+**4** All of them were filled with the Holy Spirit and began to speak in other languages,[^2-4] as the Spirit enabled them to speak out.
 
 **5** Now there were Jews living in Jerusalem, devout men from every nation under heaven.
 
@@ -144,9 +144,9 @@
 
 **29** Brothers,[^2-28] I can tell you confidently that the patriarch David died and was buried, and his tomb is with us to this day.
 
-**30** But he was a prophet, and he knew that God had sworn an oath to him that he would set one of his descendants on his throne.[^2-29]
+**30** Since he was a prophet, then, and knew that God had sworn an oath to him that he would set one of his descendants on his throne,[^2-29]
 
-**31** He foresaw this and spoke about the resurrection of the Messiah,[^2-30] that he was not abandoned to Hades,[^2-31] and his body did not see decay.
+**31** he looked ahead and spoke about the resurrection of the Messiah,[^2-30] that he was not abandoned to Hades,[^2-31] and his body did not see decay.
 
 **32** God raised up this Jesus, and we are all witnesses of it.
 
@@ -269,7 +269,7 @@
 
 **22** Moses said,[^3-10] 'The Lord God will raise up for you a prophet like me from your own people.[^3-11] You must listen to him in everything he tells you.
 
-**23** Everyone who does not listen to that prophet will be cut off from the people and destroyed.'[^3-12]
+**23** Everyone who does not listen to that prophet will be utterly cut off from the people.'[^3-12]
 
 **24** And all the prophets who have spoken, from Samuel and those after him, also announced these days.
 
@@ -309,7 +309,7 @@
 
 **6** with Annas the high priest, Caiaphas,[^4-6] John, Alexander, and all who were of the high priest's family.
 
-**7** They made Peter and John stand in the middle and asked them, "By what power or by what name did you do this?"
+**7** They made Peter and John stand in their midst and asked them, "By what power or by what name did you do this?"
 
 **8** Then Peter, filled with the Holy Spirit, said to them, "Rulers of the people and elders,[^4-7]
 
@@ -467,9 +467,9 @@
 
 **35** Then he said to them, "Fellow Israelites,[^5-16] be careful about what you intend to do to these men.
 
-**36** Some time ago Theudas rose up, claiming to be somebody, and about four hundred men joined him. He was killed, and all who followed him were scattered and came to nothing.[^5-17]
+**36** For some time ago Theudas rose up, claiming to be somebody, and about four hundred men joined him. He was killed, and all who followed him were scattered and came to nothing.[^5-17]
 
-**37** After him, Judas the Galilean rose up in the days of the census[^5-18] and drew people away to follow him. He too was killed, and all who followed him were scattered.
+**37** After him, Judas the Galilean rose up in the days of the census[^5-18] and drew people away to follow him. He too perished, and all who followed him were scattered.
 
 **38** So in this case I tell you, keep away from these men and leave them alone. For if this plan or this work is of human origin, it will fail.
 
@@ -560,7 +560,7 @@
 
 **3** and said to him, 'Go from your land and from your relatives, and come to the land that I will show you.'[^7-3]
 
-**4** So he left the land of the Chaldeans and settled in Haran. From there, after his father died,[^7-4] God moved him to this land where you are now living.
+**4** Then he left the land of the Chaldeans and settled in Haran. From there, after his father died,[^7-4] God moved him to this land where you are now living.
 
 **5** He gave him no inheritance in it, not even enough to put his foot on, but he promised to give it to him as a possession, and to his offspring after him, even though he had no child.[^7-5]
 
@@ -642,7 +642,7 @@
 
 **44** Our ancestors had the tent of the testimony[^7-39] in the wilderness. It was made just as the one who spoke to Moses directed him, according to the pattern he had seen.[^7-40]
 
-**45** Our ancestors received it in turn and brought it in with Joshua[^7-41] when they took the land from the nations that God drove out before them. It remained until the time of David.
+**45** Our ancestors received it in turn and brought it in with Joshua[^7-41] when they took the land from the nations that God drove out before them. So it was until the time of David.
 
 **46** David found favor with God and asked to find a dwelling place for the God of Jacob.[^7-42]
 
@@ -670,7 +670,7 @@
 
 **58** They drove him out of the city and began to stone him. The witnesses laid their coats at the feet of a young man named Saul.
 
-**59** As they were stoning Stephen, he called out, "Lord Jesus, receive my spirit."[^7-48]
+**59** As they were stoning Stephen, he prayed, "Lord Jesus, receive my spirit."[^7-48]
 
 **60** Then he knelt down and cried out with a loud voice, "Lord, do not hold this sin against them."[^7-49] When he had said this, he fell asleep.[^7-50]
 
@@ -1064,7 +1064,7 @@
 
 **1** The apostles and the brothers and sisters[^11-1] throughout Judea heard that the Gentiles too had accepted the word of God.
 
-**2** So when Peter went up to Jerusalem, the circumcised believers[^11-2] criticized him,
+**2** When Peter went up to Jerusalem, the circumcised believers[^11-2] criticized him,
 
 **3** saying, "You went to uncircumcised men and ate with them."[^11-3]
 
@@ -1138,7 +1138,7 @@
 
 *Status: draft*
 
-**1** About that time King Herod[^12-1] laid violent hands on some who belonged to the church.
+**1** About that time King Herod[^12-1] laid hands on some who belonged to the church, to mistreat them.
 
 **2** He killed James, the brother of John, with the sword.
 

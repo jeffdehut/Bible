@@ -69,7 +69,7 @@ Decisions marked **proposed** are used in the pilot and are open for review.
 | מָשִׁיחַ | anointed, anointed one | In the Old Testament it means a king or priest anointed with oil ("Yahweh's anointed", 1 Samuel 24:7). Where later Jewish and Christian readers heard the promised Messiah (Psalm 2:2, Daniel 9:25–26), a note says so; the text keeps "anointed". |
 | ὁ λόγος (John 1) | the Word | |
 | οἱ Ἰουδαῖοι | the Jews | Kept as written. A note explains where the context shows the religious authorities in Jerusalem are meant (common in John). |
-| ἀδελφοί (to a mixed group) | brothers and sisters (proposed) | When the context shows the group includes women; otherwise *brothers*. |
+| ἀδελφοί (to a mixed group) | brothers and sisters (proposed) | For the believers as a whole, and whenever the context shows the group includes women; *brothers* for a particular group of men, and in the address *Ἄνδρες ἀδελφοί*, "Brothers". |
 | Time of day | modern equivalent in the text, the original in a note | e.g. "about four in the afternoon" for "the tenth hour". |
 | Units of length, weight, volume; money | the original unit in the text, its approximate value in a note | e.g. "three hundred denarii" with the note "About a year's wages for a laborer"; "a cubit" with "About 18 inches (45 cm)". The note is given at the unit's first occurrence in each chapter. The smallest coins (lepton, kodrantes, assarion) may be "a penny" or "small copper coins" in the text, with the coin named in a note (Mark 12:42). |
 | יהוה צְבָאוֹת | Yahweh of Armies (proposed) | Traditionally "the LORD of hosts" or "the LORD Almighty". *Tseva'ot* means armies: the heavenly hosts and the armies of Israel. Noted at its first occurrence in each chapter. |
@@ -202,6 +202,8 @@ from the Hebrew.
   - a verse that is absent: the verse number is skipped in the file, and the previous verse
     has a note giving the verse and its words: "Many manuscripts add verse 26: '…'. The SBLGNT
     and other critical editions leave it out, so this translation has no verse 26."
+  - a reading found only in the edition behind the NIV (NIV in the apparatus): "Some editions
+    read …". Variants between "Lord", "God" and "Jesus" change the meaning and are noted.
   - a conjecture printed by an edition (Acts 16:12 in NA28): "Some editions read, by a
     conjectural change, …"; where the SBLGNT follows one edition against the others, name it:
     "The SBLGNT here follows Westcott and Hort; other editions read …".
