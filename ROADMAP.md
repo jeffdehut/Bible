@@ -15,7 +15,7 @@ Chinese translation.
 | Annotations | Saved on the device first. Accounts come later, and signing in merges the device's highlights and notes into the account. |
 | Versions | Only the Open Plain English Translation, beside the Hebrew, Aramaic and Greek it is translated from. |
 | Draft status | Every chapter is clearly labeled as a draft until it is reviewed (see *Draft labels* below). |
-| Map style | In the spirit of the old engraved Euler maps of the Bible lands, but more legible. |
+| Map style | After the Eilers Sunday School wall maps of the Bible lands, but more legible (see *Map style* under *Maps*). |
 | Next language | Traditional Chinese, once the English is finished. |
 
 ## Principles
@@ -66,26 +66,11 @@ Chinese translation.
 
 ## 2. Maps
 
-- **Look.** In the spirit of the engraved maps of the Bible lands in old Bible atlases, such
-  as the Euler maps:
-  - a warm paper ground
-  - relief shaded from real elevation data in an engraved manner
-  - fine coastlines with water lines
-  - soft hand-colored washes for regions and tribes
-  - serif lettering: spaced capitals for regions and italics for water
-  - a title cartouche and scale bar
-
-  **More legible than the originals:**
-  - larger minimum type sizes
-  - labels placed so they never collide
-  - stronger ink contrast
-  - washes that stay distinct for color-blind readers
-
-  First task: collect reference scans of the Euler maps to set the palette, lettering and
-  relief.
+- **Style.** See *Map style: after the Eilers wall maps* below. Maps keep their paper look in
+  dark mode, dimmed slightly, as a printed sheet would.
 - **Open sources** (licenses to confirm before use):
   - Natural Earth for coastlines and rivers
-  - open elevation data (SRTM or Copernicus) for relief
+  - open elevation data (SRTM or Copernicus), from which the mountain hachures are drawn
   - OpenBible.info's Bible geocoding, which gives a confidence level for each identification
   - this project's place coordinates (961 of 1,004 places)
   - the Ancient World Mapping Center and Pleiades for ancient coastlines, roads and sites
@@ -116,6 +101,86 @@ Chinese translation.
     alternatives.
   - Doubtful identifications are drawn differently from certain ones.
   - Each map credits its sources.
+
+### Map style: after the Eilers wall maps
+
+A. H. Eilers & Co. of St. Louis published Sunday School wall maps of the Bible lands from
+about 1890 to 1930 (dealers' dates vary). The reference copies for this style are Map No. 4
+*Western Asia*, Map No. 5 *The Exodus* and Map No. 7 *The Kingdoms Judah Israel*. They were
+published before 1931, so they are in the public domain in the United States. Even so, our
+maps are drawn fresh from open data, not traced.
+
+**What we keep:**
+
+- **Flat tints.** Each region, tribe or kingdom gets one flat color with no gradients, from a
+  small chromolithograph palette. The seas stay paper-colored. Starting values, sampled from
+  the reference photos and adjusted for contrast:
+
+  | Tint | Hex | Eilers use |
+  |---|---|---|
+  | Paper | `#f6f0dd` | margins and seas |
+  | Chrome yellow | `#f6e27f` | Israel, Egypt, Syria |
+  | Salmon | `#f2b98a` | Judah |
+  | Blush | `#f8d8c0` | the Sinai deserts, Mesopotamia |
+  | Pale lime | `#e3e6a2` | tribal areas |
+  | Sage | `#c9d8a5` | Gilead, Philistia |
+  | Olive | `#d9c784` | Assyria |
+  | Water | `#c6d7d8` | lakes and the Salt Sea |
+  | Ink | `#1f1b16` | all type and linework |
+  | Vermilion | `#d8432a` | routes |
+  | Deep red | `#a8301a` | kingdom names and titles |
+
+- **Coastlines.** Shores are drawn with ripple lines, fine lines repeated outward from the
+  shore, and a darker edge along the coast.
+- **Mountains.** Mountains are hachured ridges and peaks, as on the Sinai inset of Map No. 5,
+  drawn from real elevation data so they sit where the mountains really are.
+- **Region names.** Regions, tribes and deserts are named in large, widely spaced condensed
+  capitals that follow the shape of the region (A S H E R, D E S E R T  O F  P A R A N).
+- **Kingdom names.** Kingdoms and empires are overprinted in big red capitals (ISRAEL,
+  JUDAH).
+- **Place names.** Places are set in bold roman beside a dot, sized by importance.
+- **Three name styles.** A key explains them, as on Map No. 4: Bible names in bold, Greek
+  and Roman names in roman, and modern names in italic.
+- **Journeys.** Each journey is a bold vermilion line with numbered stations. A station
+  table gives each stop's identification, its certainty and its Bible references, as on Map
+  No. 5. Uncertain stretches are labeled "Conjectural route", as Eilers did.
+- **Finding places.** Thin latitude and longitude lines run across the map, numbered in the
+  margin, with an index of places keyed to them, as on Map No. 7.
+- **Insets.** Maps can carry insets: a plan of Jerusalem, close-ups such as "Vicinity of
+  Mt. Sinai", and a small locator map.
+- **Title block.** The title block uses mixed Victorian type in red and black: the series
+  and map number, the title, a "showing…" line, the dates, and a credit line. Our maps are
+  numbered as a series too. Dates come from this project's chronology, which the title block
+  names.
+- **Border.** A paper margin surrounds the map, with a ruled border line.
+
+**What we change, for legibility:**
+
+- **No overlaps.** Eilers let names run over each other and under the red overprints. Ours
+  never overlap: labels are placed in priority order, each has a thin paper-colored halo,
+  and lesser names appear only when zoomed in or printed large.
+- **Minimum sizes.** Type is at least 7 pt in print and 11 px on screen.
+- **Tighter region spacing.** Region capitals are spaced less widely than Eilers' (whose
+  M A N A S S E H runs down much of the sheet), so they still read as one word.
+- **Contrast.** Ink on every tint has a contrast ratio of at least 9.8:1. Vermilion on
+  salmon is only 2.5:1, so routes get a paper-colored edge.
+- **Color blindness.** Red routes are set apart by width and numbered stations, not by color
+  alone. Chrome yellow and pale lime are equally light, so they are never used side by side
+  without a drawn boundary. Every map is checked with a color-blindness simulator.
+- **Modern features.** Railways, canals and modern towns go on an optional layer. Eilers
+  printed them on the map itself.
+- **Fonts.** The fonts are open (SIL Open Font License) with a Victorian flavor, chosen in
+  the style study. Candidates:
+  - Old Standard TT for place names and italics
+  - a condensed slab such as Rokkitt or Zilla Slab for regions
+  - Bodoni Moda or Playfair Display for the red overprints
+
+**Style study.** The first map redraws Map No. 7, *The Kingdoms of Judah and Israel*, so the
+two can be compared side by side. Exodus routes and station tables (Map No. 5) come next.
+
+**Boundaries.** Tribal and kingdom boundaries have no open dataset that we know of. We will
+draw them from the boundary lists in Joshua 13–19 and the identified sites, and mark them as
+approximate.
 
 ## 3. Genealogy viewer
 
@@ -174,7 +239,7 @@ A new translation into Traditional Chinese (繁體中文), made like the English
 ## Order of work
 
 1. Foundation and the reader, with verse-level original language and draft labels.
-2. Maps, beginning with the style study and two period maps.
+2. Maps, beginning with the style study (Eilers Map No. 7 redrawn), then the Exodus map.
 3. Genealogy viewer.
 4. Phrase-level original language, alongside human review of the English.
 5. Accounts.
@@ -183,5 +248,6 @@ A new translation into Traditional Chinese (繁體中文), made like the English
 ## Open questions
 
 - Domain and hosting account (see *Decisions so far*).
-- Reference scans of the Euler maps for the style study.
+- Fonts and final tints, settled in the style study.
+- How to source tribal and kingdom boundaries.
 - Reviewers for the English, and later the Chinese.
