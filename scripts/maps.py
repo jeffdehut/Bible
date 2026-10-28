@@ -7,20 +7,25 @@ from open data only:
   - elevation: AWS Terrain Tiles (Mapzen terrarium encoding; SRTM, GMTED2010, ETOPO1),
     downloaded once into .cache/dem/
   - places: OpenBible.info Bible Geocoding Data (CC BY 4.0), cloned into .cache/openbible-geo/
+  - the Nile: Natural Earth (public domain), downloaded once into .cache/naturalearth/
   - tribal territories: allotted from the town lists of Joshua 13-19 and 21 (see territories())
 
 Needs numpy, scipy and Pillow, unlike the other scripts, which use only the standard library.
 
-Writes  site/maps/data/kingdoms.json   every layer of Map No. 7 as SVG path data and points
-        site/maps/kingdoms.html        site/src/map-kingdoms.html with its data inlined
+Writes, for each map,
+        site/maps/data/NAME.json   every layer as SVG path data and points
+        site/maps/NAME.html        site/src/map.html with the map's words and data filled in
 
-Map No. 7, The Kingdoms of Judah and Israel, is the style study: a redrawing of the Eilers
-map of the same name.
+    python3 scripts/maps.py exodus     build one map (kingdoms, exodus)
+
+Map No. 7, The Kingdoms of Judah and Israel, was the style study: a redrawing of the Eilers
+map of the same name. Map No. 5, The Exodus, follows the camps of Numbers 33.
 """
 
 import json
 import math
 import os
+import re
 import subprocess
 import sys
 import urllib.request
@@ -560,7 +565,7 @@ def seeds(all_places):
     return out
 
 
-def territories(sheet, elev, wet, flow, seed_list, step=4, cap_km=30):
+def territories(sheet, elev, wet, flow, seed_list, step=4, cap_km=30, names=None, barrier=(35.651, 33.248)):
     """Allot every land cell to the territory whose towns are nearest, measured on foot.
 
     Distance runs over a grid `step` times coarser than the sheet. Lakes cannot be crossed;
@@ -576,10 +581,12 @@ def territories(sheet, elev, wet, flow, seed_list, step=4, cap_km=30):
     k = step // fstep
     a = area[:ny * k:k, :nx * k:k][:ny, :nx]
     river = np.where(a > 300, np.clip(np.log10(a / 300) * 10, 0, 20), 0)
-    # The Jordan: follow the drainage from the springs at Dan to the Dead Sea.
+    # A barrier river, such as the Jordan: follow the drainage down from its source
+    # (by default the springs at Dan) to its mouth.
     jordan = np.zeros((ny, nx), bool)
-    x, y = sheet.xy(35.651, 33.248)
-    i = int(y / (sheet.res * fstep)) * fx + int(x / (sheet.res * fstep))
+    x, y = sheet.xy(*barrier) if barrier else (-1, -1)
+    inside = 0 <= x < sheet.width and 0 <= y < sheet.height
+    i = int(y / (sheet.res * fstep)) * fx + int(x / (sheet.res * fstep)) if inside else -1
     while i >= 0:
         r, c = divmod(i, fx)
         rr, cc = r // k, c // k
@@ -588,7 +595,7 @@ def territories(sheet, elev, wet, flow, seed_list, step=4, cap_km=30):
         i = recv[i]
     jordan = ndimage.binary_dilation(jordan, iterations=1)
     river[jordan] = 60
-    names = list(NEIGHBOURS) + [t[0] for t in TRIBES]
+    names = names or list(NEIGHBOURS) + [t[0] for t in TRIBES]
     index = {n: i for i, n in enumerate(names)}
     cell = sheet.res * step
     dist = np.full(ny * nx, np.inf)
@@ -759,83 +766,52 @@ def follow(lines, lon, lat, sheet, length_km):
     return np.round(out[::max(1, len(out) // 16)], 2).tolist()
 
 
-# --- Map No. 7: The Kingdoms of Judah and Israel ---------------------------------------------
+# --- Shared by every map ----------------------------------------------------------------------
 
-SHEET7 = (34 + 10 / 60, 36.5, 30 + 50 / 60, 33 + 40 / 60)   # west, east, south, north
-
-TINTS = {"Israel": "yellow", "Judah": "salmon", "Philistia": "sage", "Phoenicia": "blush",
-         "Aram": "olive", "Ammon": "sage", "Moab": "olive", "Edom": "blush"}
-CAPITALS = {"Jerusalem": "Capital of Judah", "Samaria 1": "Capital of Israel from Omri",
-            "Tirzah": "Capital of Israel before Samaria", "Shechem": "Jeroboam's first capital"}
-MOUNTAINS = ["Mount Hermon", "Mount Carmel", "Mount Tabor", "Mount Gilboa", "Mount Ebal",
-             "Mount Gerizim", "Mount Nebo", "Mount of Olives"]
-RIVERS = {"Jordan": 70, "Jabbok": 26, "Arnon": 22, "Kishon": 20, "Zered": 14, "Besor": 18,
-          "Kanah 1": 14, "Me-jarkon": 14}
-WATERS = {"Great Sea": ["GREAT SEA", (34.24, 32.868), (34.86, 32.858)],
-          "Salt Sea": ["SALT SEA", (35.47, 31.69), (35.44, 31.40)]}
-# Kingdom names run across the kingdom, as Eilers set them: ISRAEL from the coast to Gilead,
-# JUDAH rising from the Negev to the hill country.
-KINGDOM_LINES = {"Israel": [(34.98, 32.43), (35.45, 32.52), (35.98, 32.58)],
-                 "Judah": [(34.86, 31.31), (35.06, 31.44), (35.28, 31.57)]}
-REGIONS = ["Sharon 1", "Shephelah", "Negeb", "Bashan", "Gilead 1", "Lebanon", "Jeshimon",
-           "Valley of Jezreel", "Zin 1"]
+def sheet_info(sheet):
+    return {"width": round(sheet.width, 2), "height": round(sheet.height, 2), "west": sheet.west,
+            "east": sheet.east, "south": sheet.south, "north": sheet.north, "kx": sheet.kx, "ky": sheet.ky}
 
 
-def kingdoms_map():
-    """All the layers of Map No. 7, as a dict ready for JSON."""
-    import collections
-    sheet = Sheet(*SHEET7, res=0.13)
-    elev = elevation(sheet, 10)
-    w = water(sheet, elev)
-    lakes = w["Sea of Galilee"] | w["Dead Sea"] | w["Lake Huleh"]
-    wet = w["sea"] | lakes
-    land = ~w["sea"]
-    flow = drainage(sheet, elev, w["sea"] | w["Dead Sea"], 2)
-    all_places = places()
-    terr, names = territories(sheet, elev, wet, flow + (2,), seeds(all_places))
-    ours = our_spellings()
+def terrain_layers(sheet, land, lakes, flow, wet, river_km2, hachure_km, no_rivers=None):
+    """Coast, water lines, lakes, rivers (from the drainage) and hachures, as SVG path data.
+    `no_rivers` masks out ground where drainage lines mislead, such as a flat delta."""
     res = sheet.res
     d = lambda lines, close=False, digits=2: path_d(lines, res, digits, close)
-    groups = {n: n for n in NEIGHBOURS}
-    groups.update({t[0]: t[1] for t in TRIBES})
-
-    out = {"sheet": {"width": round(sheet.width, 2), "height": round(sheet.height, 2),
-                     "west": sheet.west, "east": sheet.east, "south": sheet.south,
-                     "north": sheet.north, "kx": sheet.kx, "ky": sheet.ky}}
-    layers = out["layers"] = {}
-    layers["land"] = d(outlines(land), True)
-    layers["coast"] = d(outlines(land, closed=False))
-    layers["ripples"] = d(ripples(sheet, land, [0.45, 1.0, 1.7, 2.6, 3.7, 5.0]), digits=1)
-    layers["lakes"] = d(outlines(lakes, smooth=0.8), True)
-    layers["lakeRipples"] = d(ripples(sheet, ~lakes, [0.3, 0.7]), digits=1)
-
-    # Rivers, in three weights by drainage area.
+    layers = {
+        "land": d(outlines(land), True),
+        "coast": d(outlines(land, closed=False)),
+        "ripples": d(ripples(sheet, land, [0.45, 1.0, 1.7, 2.6, 3.7, 5.0]), digits=1),
+        "lakes": d(outlines(lakes, smooth=0.8), True),
+        "lakeRipples": d(ripples(sheet, ~lakes, [0.3, 0.7]), digits=1),
+    }
     area, recv, shape = flow
-    river_lines = rivers(sheet, area, recv, shape, 2, wet, 150)
-    smooth_rivers = [(chaikin(densify(simplify(p, 1.2), 4), 2), a) for p, a in river_lines]
-    layers["rivers"] = [d([p for p, a in smooth_rivers if lo <= a < hi], digits=1)
+    blocked = wet if no_rivers is None else (wet | no_rivers)
+    river_lines = rivers(sheet, area, recv, shape, 2, blocked, river_km2)
+    smooth = [(chaikin(densify(simplify(p, 1.2), 4), 2), a) for p, a in river_lines]
+    layers["rivers"] = [d([p for p, a in smooth if lo <= a < hi], digits=1)
                         for lo, hi in ((0, 1000), (1000, 8000), (8000, 1e12))]
-
-    # Hachures, in four weights.
-    hs = hachures(sheet, elev, wet, spacing_km=0.9, min_slope=5)
+    hs = hachures(sheet, sheet.elev, wet, spacing_km=hachure_km, min_slope=5)
     layers["hachures"] = [d([p for p, wt in hs if k / 4 <= wt < (k + 1) / 4 or (k == 3 and wt >= 1)], digits=1)
                           for k in range(4)]
+    return layers, [p * res for p, _ in smooth]
 
-    # Territories: fills, then borders drawn once each, between nations or between tribes.
-    terrs = []
-    for i, n in enumerate(names):
-        m = terr == i
-        if not m.any():
-            continue
-        line, width = spine(m, sheet)
-        terrs.append({"name": n, "group": groups[n], "tint": TINTS[groups[n]],
-                      "d": d(outlines(m, smooth=1.5), True), "spine": line, "width": round(width, 1)})
-    out["territories"] = terrs
+
+def territory_layers(sheet, terr, names, groups, tints):
+    """Fills for each territory, its name along its length, and the borders between them,
+    each drawn once: between nations (different groups) or between tribes (the same group)."""
+    d = lambda lines, close=False, digits=2: path_d(lines, sheet.res, digits, close)
+    fills, labels = [], []
     borders = {"nation": [], "tribe": []}
     for i, n in enumerate(names):
         m = terr == i
         if not m.any():
             continue
+        line, width = spine(m, sheet)
+        fills.append({"name": n, "group": groups[n], "tint": tints[groups[n]], "d": d(outlines(m, smooth=1.5), True)})
+        if line:
+            labels.append({"text": n.replace(" (east)", "").upper(), "style": "nation" if groups[n] == n else "tribe",
+                           "pts": line, "width": round(width, 1)})
         field = ndimage.gaussian_filter(m.astype(np.float64), 1.5)
         for ln in contours(field, 0.5):
             if len(ln) < 6:
@@ -865,40 +841,35 @@ def kingdoms_map():
                     run.append((pt, k))
             if run and len(run) > 3:
                 borders[run[0][1]].append(chaikin(np.array([p for p, _ in run]), 2))
-    layers["borders"] = {k: d(v, digits=1) for k, v in borders.items()}
+    return fills, labels, {k: d(v, digits=1) for k, v in borders.items() if v}
 
-    # Kingdom names along the length of each kingdom west of the Jordan.
-    kingdoms = []
-    for k in ("Israel", "Judah"):
-        west = [t[0] for t in TRIBES if t[1] == k and t[0] not in ("Reuben", "Gad", "Manasseh (east)")]
-        m = np.isin(terr, [names.index(t) for t in west])
-        line, width = spine(m, sheet, trim=8)
-        if k in KINGDOM_LINES:
-            pts = np.array([sheet.xy(lon, lat) for lon, lat in KINGDOM_LINES[k]])
-            t = np.linspace(0, 1, 16)
-            seg = np.r_[0, np.cumsum(np.hypot(*np.diff(pts, axis=0).T))]
-            seg /= seg[-1]
-            line = np.round(np.c_[np.interp(t, seg, pts[:, 0]), np.interp(t, seg, pts[:, 1])], 2).tolist()
-        kingdoms.append({"name": k.upper(), "spine": line, "width": round(width, 1)})
-    out["kingdoms"] = kingdoms
 
-    # Places: towns named in the Old Testament, one per site.
+def line_km(sheet, lonlats, n=16):
+    """A polyline given in longitude and latitude, as n evenly spaced points in km."""
+    pts = np.array([sheet.xy(lon, lat) for lon, lat in lonlats])
+    t = np.linspace(0, 1, n)
+    seg = np.r_[0, np.cumsum(np.hypot(*np.diff(pts, axis=0).T))]
+    seg /= seg[-1]
+    return np.round(np.c_[np.interp(t, seg, pts[:, 0]), np.interp(t, seg, pts[:, 1])], 2).tolist()
+
+
+def place_records(sheet, all_places, books, ours, terr=None, names=None, capitals=None, min_score=200):
+    """Towns named in the given books, one per site, in the order the labels are placed."""
+    import collections
     by_site = collections.defaultdict(list)
     for p in all_places:
         if not (sheet.west <= p["lon"] <= sheet.east and sheet.south <= p["lat"] <= sheet.north):
             continue
-        ot = [v for v in p["verses"] if v[0] in OT_BOOKS]
-        if "settlement" not in p["types"] or not ot or p["score"] < 200:
+        named = [v for v in p["verses"] if v[0] in books]
+        if "settlement" not in p["types"] or not named or p["score"] < min_score:
             continue
-        by_site[(round(p["lon"], 3), round(p["lat"], 3))].append((len(ot), p, ot))
-    pl = []
+        by_site[(round(p["lon"], 3), round(p["lat"], 3))].append((len(named), p, named))
+    out = []
     for site in by_site.values():
         site.sort(key=lambda t: -t[0])
-        n_ot, p, ot = site[0]
+        _, p, named = site[0]
         x, y = sheet.xy(p["lon"], p["lat"])
-        r, c = int(y / res), int(x / res)
-        t = terr[min(r, terr.shape[0] - 1), min(c, terr.shape[1] - 1)]
-        first = min(ot, key=lambda v: (BOOK_ORDER[v[0]], v[1], v[2]))
+        first = min(named, key=lambda v: (BOOK_ORDER[v[0]], v[1], v[2]))
         rec = {"n": display_name(p, ours), "x": round(x, 2), "y": round(y, 2),
                "v": sum(t[0] for t in site), "s": p["score"],
                "c": 1 if p["score"] >= 500 and p["exact"] else 0,
@@ -906,62 +877,564 @@ def kingdoms_map():
                "id": p["id"] + "/" + p["slug"]}
         if p["modern"]:
             rec["m"] = p["modern"]
-        if t >= 0:
-            rec["t"] = names[t]
+        if terr is not None:
+            r, c = int(y / sheet.res), int(x / sheet.res)
+            t = terr[min(r, terr.shape[0] - 1), min(c, terr.shape[1] - 1)]
+            if t >= 0:
+                rec["t"] = names[t]
         aka = sorted({display_name(q, ours) for _, q, _ in site[1:]} - {rec["n"]})
         if aka:
             rec["a"] = aka
-        if p["name"] in CAPITALS:
-            rec["cap"] = CAPITALS[p["name"]]
-        pl.append(rec)
-    pl.sort(key=lambda r: (-("cap" in r), -r["c"], -r["v"]))
-    out["places"] = pl
+        if capitals and p["name"] in capitals:
+            rec["cap"] = capitals[p["name"]]
+        out.append(rec)
+    out.sort(key=lambda r: (-("cap" in r), -r["c"], -r["v"]))
+    return out
 
-    # Mountains, rivers, waters and regions.
-    by_name = {p["name"]: p for p in all_places}
-    feats = out["features"] = {"mountains": [], "rivers": [], "waters": [], "regions": []}
-    for n in MOUNTAINS:
+
+def cost_grid(sheet, wet, step=4, slope_weight=25.0):
+    """Cost of crossing each cell of a coarse grid on foot: steep ground costs more, water
+    can't be crossed."""
+    ny, nx = sheet.elev.shape[0] // step, sheet.elev.shape[1] // step
+    e = ndimage.gaussian_filter(sheet.elev, 1.5)[:ny * step:step, :nx * step:step]
+    cell = sheet.res * step
+    gy, gx = np.gradient(e, cell * 1000)
+    cost = cell * (1 + slope_weight * np.hypot(gx, gy))
+    cost[wet[:ny * step:step, :nx * step:step]] = np.inf
+    return cost, step
+
+
+def easiest_way(sheet, grid, a, b):
+    """The least-cost path between two points (lon, lat), as a smoothed polyline in km."""
+    import heapq
+    cost, step = grid
+    ny, nx = cost.shape
+    cell = sheet.res * step
+
+    def node(lon, lat):
+        x, y = sheet.xy(lon, lat)
+        r, c = min(max(int(y / cell), 0), ny - 1), min(max(int(x / cell), 0), nx - 1)
+        if np.isinf(cost[r, c]):            # on an island or in the water: the nearest dry cell
+            dry = np.argwhere(~np.isinf(cost[max(r - 12, 0):r + 13, max(c - 12, 0):c + 13]))
+            if len(dry):
+                k = np.argmin(np.hypot(dry[:, 0] - min(r, 12), dry[:, 1] - min(c, 12)))
+                r, c = dry[k][0] + max(r - 12, 0), dry[k][1] + max(c - 12, 0)
+        return r, c
+    s, g = node(*a), node(*b)
+    floor = float(np.min(cost))
+    dist = {s: 0.0}
+    prev = {}
+    pq = [(0.0, s)]
+    nbrs = [(-1, 0, 1), (1, 0, 1), (0, -1, 1), (0, 1, 1), (-1, -1, 1.4142), (-1, 1, 1.4142), (1, -1, 1.4142), (1, 1, 1.4142)]
+    while pq:
+        f, u = heapq.heappop(pq)
+        if u == g:
+            break
+        du = dist[u]
+        for dr, dc, m in nbrs:
+            v = (u[0] + dr, u[1] + dc)
+            if not (0 <= v[0] < ny and 0 <= v[1] < nx) or np.isinf(cost[v]):
+                continue
+            nd = du + m * (cost[u] + cost[v]) / 2
+            if nd < dist.get(v, np.inf):
+                dist[v] = nd
+                prev[v] = u
+                heapq.heappush(pq, (nd + math.hypot(v[0] - g[0], v[1] - g[1]) * floor, v))
+    if g not in prev and g != s:
+        pts = np.array([sheet.xy(*a), sheet.xy(*b)])
+    else:
+        path = [g]
+        while path[-1] != s:
+            path.append(prev[path[-1]])
+        path.reverse()
+        pts = (np.array(path)[:, ::-1] + 0.5) * cell
+        pts[0], pts[-1] = sheet.xy(*a), sheet.xy(*b)
+    return chaikin(densify(simplify(pts, 1.2), 3), 3)
+
+
+def about_html(intro, kept, changed, made, sources):
+    li = lambda items: "  <ul>\n" + "".join(f"    <li>{x}</li>\n" for x in items) + "  </ul>\n"
+    return (f"  <p>{intro}</p>\n  <h3>What we kept from Eilers</h3>\n{li(kept)}  <h3>What we changed</h3>\n{li(changed)}"
+            f"  <h3>How it was made</h3>\n{li(made)}  <h3>Sources</h3>\n{li(sources)}").rstrip("\n")
+
+
+KEPT = ["Flat tints for each kingdom and people, with the seas left as paper",
+        "Water lines along the coasts, and hachured relief",
+        "Widely spaced capitals for regions and peoples, and red capitals for the kingdoms",
+        'A "?" after places whose location is uncertain',
+        "A grid with an index of places keyed to it"]
+CHANGED = ["Labels never overlap. More appear as you zoom in.",
+           "Type is never smaller than 11 pixels on screen",
+           "Borders are drawn as lines as well as tints, so they don't depend on color"]
+SOURCES = ['Places: <a href="https://www.openbible.info/geo/">OpenBible.info Bible Geocoding Data</a>, CC BY 4.0',
+           "Elevation: AWS Terrain Tiles (SRTM, GMTED2010, ETOPO1)",
+           "Style: the Eilers Sunday School wall maps, published before 1931"]
+PLACES_MADE = ("<strong>Places</strong> are the towns named in {books} that OpenBible.info can locate. "
+               'Places scored below 500 out of 1,000 are marked "?".')
+NAMES_MADE = "<strong>Names</strong> are spelled as in this project's Open Plain English Translation."
+
+
+# --- Map No. 7: The Kingdoms of Judah and Israel ---------------------------------------------
+
+SHEET7 = (34 + 10 / 60, 36.5, 30 + 50 / 60, 33 + 40 / 60)   # west, east, south, north
+
+TINTS = {"Israel": "yellow", "Judah": "salmon", "Philistia": "sage", "Phoenicia": "blush",
+         "Aram": "olive", "Ammon": "sage", "Moab": "olive", "Edom": "blush"}
+CAPITALS = {"Jerusalem": "Capital of Judah", "Samaria 1": "Capital of Israel from Omri",
+            "Tirzah": "Capital of Israel before Samaria", "Shechem": "Jeroboam's first capital"}
+MOUNTAINS = ["Mount Hermon", "Mount Carmel", "Mount Tabor", "Mount Gilboa", "Mount Ebal",
+             "Mount Gerizim", "Mount Nebo", "Mount of Olives"]
+RIVERS = {"Jordan": 70, "Jabbok": 26, "Arnon": 22, "Kishon": 20, "Zered": 14, "Besor": 18,
+          "Kanah 1": 14, "Me-jarkon": 14}
+WATERS = {"Great Sea": ["GREAT SEA", (34.24, 32.868), (34.86, 32.858)],
+          "Salt Sea": ["SALT SEA", (35.47, 31.69), (35.44, 31.40)]}
+# Kingdom names run across the kingdom, as Eilers set them: ISRAEL from the coast to Gilead,
+# JUDAH rising from the Negev to the hill country.
+KINGDOM_LINES = {"Israel": [(34.98, 32.43), (35.45, 32.52), (35.98, 32.58)],
+                 "Judah": [(34.86, 31.31), (35.06, 31.44), (35.28, 31.57)]}
+REGIONS = ["Sharon 1", "Shephelah", "Negeb", "Bashan", "Gilead 1", "Lebanon", "Jeshimon",
+           "Valley of Jezreel", "Zin 1"]
+
+
+def mountains(sheet, by_name, ours, names):
+    out = []
+    for n in names:
         p = by_name[n]
         x, y = sheet.xy(p["lon"], p["lat"])
         name = display_name(p, ours)
         name = name if name.startswith("Mount") else "Mount " + name
-        feats["mountains"].append({"n": name.replace("Mount ", "Mt. "), "x": round(x, 2), "y": round(y, 2),
-                                   "id": p["id"] + "/" + p["slug"]})
-    km_lines = [p * res for p, _ in smooth_rivers]
+        out.append({"n": name.replace("Mount ", "Mt. "), "x": round(x, 2), "y": round(y, 2), "id": p["id"] + "/" + p["slug"]})
+    return out
+
+
+def kingdoms_map():
+    """Map No. 7, as a dict ready for JSON, and the words for its page."""
+    sheet = Sheet(*SHEET7, res=0.13)
+    sheet.elev = elevation(sheet, 10)
+    w = water(sheet, sheet.elev)
+    lakes = w["Sea of Galilee"] | w["Dead Sea"] | w["Lake Huleh"]
+    wet = w["sea"] | lakes
+    flow = drainage(sheet, sheet.elev, w["sea"] | w["Dead Sea"], 2)
+    all_places = places()
+    names = list(NEIGHBOURS) + [t[0] for t in TRIBES]
+    terr, names = territories(sheet, sheet.elev, wet, flow + (2,), seeds(all_places), names=names)
+    ours = our_spellings()
+    groups = {n: n for n in NEIGHBOURS}
+    groups.update({t[0]: t[1] for t in TRIBES})
+
+    layers, river_km = terrain_layers(sheet, ~w["sea"], lakes, flow, wet, 150, 0.9)
+    fills, labels, layers["borders"] = territory_layers(sheet, terr, names, groups, TINTS)
+    for k in ("Israel", "Judah"):
+        west = [t[0] for t in TRIBES if t[1] == k and t[0] not in ("Reuben", "Gad", "Manasseh (east)")]
+        _, width = spine(np.isin(terr, [names.index(t) for t in west]), sheet, trim=8)
+        labels.append({"text": k.upper(), "style": "kingdom", "pts": line_km(sheet, KINGDOM_LINES[k]), "width": round(width, 1)})
+    # The tribe of Judah is named by its kingdom's red name.
+    labels = [lb for lb in labels if lb["style"] == "kingdom" or lb["text"] not in ("ISRAEL", "JUDAH")]
+    for n, (text, a, b) in WATERS.items():
+        labels.append({"text": text, "style": "sea", "pts": line_km(sheet, [a, b], 2)})
+
+    by_name = {p["name"]: p for p in all_places}
+    feats = {"mountains": mountains(sheet, by_name, ours, MOUNTAINS), "rivers": [], "waters": [], "regions": []}
     for n, length in RIVERS.items():
         p = by_name[n]
-        line = follow(km_lines, p["lon"], p["lat"], sheet, length)
+        line = follow(river_km, p["lon"], p["lat"], sheet, length)
         if line:
             name = display_name(p, ours)
-            feats["rivers"].append({"n": "River Jordan" if name == "Jordan" else name, "pts": line})
-    for n, (text, a, b) in WATERS.items():
-        feats["waters"].append({"n": text, "pts": [list(map(lambda v: round(v, 2), sheet.xy(*a))),
-                                                   list(map(lambda v: round(v, 2), sheet.xy(*b)))]})
-    for n, (lon, lat, text) in {"Galilee": (35.585, 32.80, "SEA OF KINNERETH"),
-                                "Huleh": (35.612, 33.075, "Waters of Merom")}.items():
+            feats["rivers"].append({"n": "River Jordan" if name == "Jordan" else name, "pts": line, "main": name == "Jordan"})
+    for lon, lat, text in ((35.585, 32.80, "SEA OF KINNERETH"), (35.612, 33.075, "Waters of Merom")):
         x, y = sheet.xy(lon, lat)
         feats["waters"].append({"n": text, "x": round(x, 2), "y": round(y, 2), "lake": 1})
     for n in REGIONS:
         p = by_name[n]
         x, y = sheet.xy(p["lon"], p["lat"])
         feats["regions"].append({"n": display_name(p, ours), "x": round(x, 2), "y": round(y, 2)})
+
+    data = {
+        "sheet": sheet_info(sheet), "grid": 10 / 60, "focus": 0.56, "file": "map-07-kingdoms-of-judah-and-israel",
+        "page": {"w": 7.8, "h": 10.3}, "layers": layers, "territories": fills, "labels": labels,
+        "places": place_records(sheet, all_places, OT_BOOKS, ours, terr, names, CAPITALS),
+        "features": feats, "unallotted": list(NEIGHBOURS),
+        "title": {"box": {"x": 5, "y": 5, "w": 66, "h": 76}, "scale": 1, "lines": [
+            ["series", "MAP No. 7 · A STYLE STUDY", 7.5], ["head", "THE KINGDOMS", 15.5],
+            ["display-fit", "JUDAH & ISRAEL", 26],
+            ["italic", "Showing the places of the land named in the", 32.5],
+            ["italic", "Old Testament whose location is known, and", 36.4],
+            ["italic", "the tribal allotments of Joshua 13–19", 40.3], ["rule", "", 44],
+            ["sub", "THE KINGDOM DIVIDED", 50.5], ["plain", "975–588 BC by Ussher’s chronology", 55.5],
+            ["plain", "931–586 BC by modern reckoning", 59.5], ["rule", "", 63],
+            ["credit", "After the Eilers Sunday School Maps, St. Louis.", 67.5],
+            ["credit", "Drawn from open data · CC BY 4.0", 71.5]]},
+        "key": {"box": {"x": 5, "y": 97, "w": 44}, "scale": 1, "rows": [
+            ["dot", "Town"], ["unsure", "Site uncertain (?)"], ["royal", "Royal city"], ["mount", "Mountain"],
+            ["river", "River"], ["nation", "Border of a nation"], ["tribe", "Tribal border"], ["gap", ""],
+            ["names", ["Shiloh", "Tell Seilun"]],
+            ["swatch", "Kingdom of Israel", "yellow"], ["swatch", "Kingdom of Judah", "salmon"],
+            ["swatch", "Philistia, Ammon", "sage"], ["swatch", "Phoenicia, Edom", "blush"],
+            ["swatch", "Aram, Moab", "olive"], ["swatch", "Wilderness", "wild"]]},
+    }
+    page = {
+        "slug": "kingdoms", "NO": "7", "H1": "The Kingdoms of Judah and Israel", "TITLE": "Judah and Israel Map",
+        "DESCRIPTION": "Map No. 7, a style study after the Eilers Sunday School wall maps: the tribal allotments "
+                       "and the kingdoms of Judah and Israel, drawn from open data.",
+        "PAGE": "letter portrait", "PAGE_W": "7.8", "PAGE_H": "10.3",
+        "GRID_LABEL": "Ten-minute squares, as used by the index",
+        "GRID_NOTE": "Grid squares are ten minutes of latitude and longitude: letters across the top, numbers down the side.",
+        "ABOUT": about_html(
+            "A <strong>style study</strong> for the project's Bible maps, redrawing <strong>Eilers Sunday School Map "
+            "No. 7</strong>, <em>The Kingdoms Judah Israel</em> (A. H. Eilers &amp; Co., St. Louis), from open data. "
+            "It keeps the Eilers look and aims to read more easily.", KEPT, CHANGED,
+            ["<strong>Land, water and relief</strong> come from elevation data. Lake Huleh and the Dead Sea are "
+             "drawn at their old shorelines.",
+             PLACES_MADE.format(books="the Old Testament"),
+             "<strong>Tribal territories are approximate.</strong> Each piece of land is given to the tribe whose "
+             "towns are nearest (the town lists of Joshua 13–19 and 21). Lakes cannot be crossed, and rivers are "
+             "costly to cross, so borders tend to follow the rivers.", NAMES_MADE], SOURCES),
+    }
+    return data, page
+
+
+# --- Map No. 5: The Exodus -------------------------------------------------------------------
+
+SHEET5 = (30 + 40 / 60, 36.0, 27 + 40 / 60, 32.0)
+
+TORAH = {"Gen", "Exod", "Lev", "Num", "Deut"}
+# The camps of Numbers 33, in order: OpenBible's name for each (None where the text names no
+# place of its own), our translation's name, and the verse.
+CAMPS = [
+    ("Rameses", "Rameses", "Numbers 33:5"), ("Succoth 2", "Succoth", "Numbers 33:5"),
+    ("Etham", "Etham", "Numbers 33:6"), ("Pi-hahiroth", "Pi-hahiroth", "Numbers 33:7"),
+    ("Marah", "Marah", "Numbers 33:8"), ("Elim", "Elim", "Numbers 33:9"),
+    (None, "By the Red Sea", "Numbers 33:10"), ("Sin", "Wilderness of Sin", "Numbers 33:11"),
+    ("Dophkah", "Dophkah", "Numbers 33:12"), ("Alush", "Alush", "Numbers 33:13"),
+    ("Rephidim", "Rephidim", "Numbers 33:14"), ("Wilderness of Sinai", "Wilderness of Sinai", "Numbers 33:15"),
+    ("Kibroth-hattaavah", "Kibroth-hattaavah", "Numbers 33:16"), ("Hazeroth", "Hazeroth", "Numbers 33:17"),
+    ("Rithmah", "Rithmah", "Numbers 33:18"), ("Rimmon-perez", "Rimmon-perez", "Numbers 33:19"),
+    ("Libnah 2", "Libnah", "Numbers 33:20"), ("Rissah", "Rissah", "Numbers 33:21"),
+    ("Kehelathah", "Kehelathah", "Numbers 33:22"), ("Mount Shepher", "Mount Shepher", "Numbers 33:23"),
+    ("Haradah", "Haradah", "Numbers 33:24"), ("Makheloth", "Makheloth", "Numbers 33:25"),
+    ("Tahath", "Tahath", "Numbers 33:26"), ("Terah", "Terah", "Numbers 33:27"),
+    ("Mithkah", "Mithkah", "Numbers 33:28"), ("Hashmonah", "Hashmonah", "Numbers 33:29"),
+    ("Moseroth", "Moseroth", "Numbers 33:30"), ("Bene-jaakan", "Bene-jaakan", "Numbers 33:31"),
+    ("Hor-haggidgad", "Hor-haggidgad", "Numbers 33:32"), ("Jotbathah", "Jotbathah", "Numbers 33:33"),
+    ("Abronah", "Abronah", "Numbers 33:34"), ("Ezion-geber", "Ezion-geber", "Numbers 33:35"),
+    ("Kadesh-barnea", "Kadesh", "Numbers 33:36"), ("Mount Hor 1", "Mount Hor", "Numbers 33:37"),
+    ("Zalmonah", "Zalmonah", "Numbers 33:41"), ("Punon", "Punon", "Numbers 33:42"),
+    ("Oboth", "Oboth", "Numbers 33:43"), ("Iye-abarim", "Iye-abarim", "Numbers 33:44"),
+    ("Dibon 1", "Dibon-gad", "Numbers 33:45"), ("Almon-diblathaim", "Almon-diblathaim", "Numbers 33:46"),
+    ("Abarim", "Mountains of Abarim", "Numbers 33:47"), ("Abel-shittim", "Plains of Moab", "Numbers 33:48–49"),
+]
+# Camps left off the route although OpenBible proposes a place for them, and why.
+CAMP_NOT_PLOTTED = {
+    "Rissah": "One proposal places it at Sharma, on the Arabian coast, which does not fit the order of the camps.",
+    "Tahath": "Placed only somewhere in the Negev.", "Terah": "Placed only somewhere in the Negev.",
+    "Mithkah": "Placed only somewhere in the Negev.", "Hashmonah": "Placed only somewhere in the Negev.",
+    None: "The text names the sea, not a place on its shore.",
+}
+CAMP_NOTES = {
+    "Marah": "Between Pi-hahiroth and Marah the Israelites passed through the sea (Numbers 33:8). Proposed "
+             "crossings include the Gulf of Suez, the Bitter Lakes, Lake Timsah, the Ballah Lakes, Lake "
+             "Sirbonis (Bardawil) and the Gulf of Aqaba.",
+    "Wilderness of Sinai": "The camp at the mountain, plotted at Jebel Musa, the traditional Mount Sinai. The "
+                           "site is disputed: the triangles on the map mark other proposals.",
+    "Kadesh-barnea": "Also the camp of Numbers 13–14 and 20, where the spies were sent out.",
+}
+MIN_CAMP_SCORE = 150     # proposals scored lower are listed, not plotted
+SURE_CAMP_SCORE = 500    # and those scored at least this, at a point, are drawn as certain
+LINE_CAMP_SCORE = 300    # the route is solid only between neighbouring camps scored this or more
+SINAI = {"Jebel Musa": "Mt. Sinai (traditional)", "Har Karkom": "Har Karkom?", "Jebel Sin Bishar": "Jebel Sin Bishar?",
+         "Jebel Serbal": "Jebel Serbal?", "Jabal al Lawz": "Jabal al-Lawz?"}
+# Ancient roads named in the story, through the places that standard reconstructions give them.
+ROADS = {
+    "Way of the Philistines": [(32.367, 30.935), (32.75, 31.02), (33.25, 31.06), (33.806, 31.13), (34.25, 31.29), (34.464, 31.504)],
+    "King's Highway": [(35.0, 29.53), (35.36, 29.95), (35.73, 30.19), (35.604, 30.746), (35.701, 31.181),
+                       (35.777, 31.502), (35.795, 31.716), (35.809, 31.801)],
+}
+ROAD_NOTES = {"Way of the Philistines": "Exodus 13:17", "King's Highway": "Numbers 20:17; 21:22"}
+NATIONS5 = {   # territory: (tint, OpenBible seeds, reach in km)
+    "Egypt": ("yellow", None, 30),
+    "Canaan": ("lime", None, 26),
+    "Edom": ("olive", ["Bozrah 1", "Sela 1", "Mount Seir 1"], 34),
+    "Moab": ("sage", ["Kir-hareseth", "Ar"], 24),
+    "Amorites": ("salmon", ["Heshbon", "Medeba"], 20),
+    "Midian": ("wild", ["Midian"], 55),
+}
+WILDERNESS_LINES = {
+    "WILDERNESS OF SHUR": [(32.62, 30.62), (33.55, 30.42)],
+    "WILDERNESS OF SIN": [(33.1, 29.32), (33.62, 29.02)],
+    "WILDERNESS OF PARAN": [(33.55, 30.02), (34.6, 29.72)],
+    "WILDERNESS OF ZIN": [(34.25, 30.85), (35.26, 30.99)],
+    "WILDERNESS OF SINAI": [(33.62, 28.3), (34.3, 28.25)],
+    "GOSHEN": [(31.45, 30.62), (31.98, 30.66)],
+}
+SEAS5 = {"GREAT SEA": ("sea", [(30.85, 31.78), (32.15, 31.74)]),
+         "RED SEA": ("redsea", [(32.64, 29.6), (33.3, 28.38)]),
+         "SALT SEA": ("sea", [(35.47, 31.69), (35.44, 31.40)])}
+
+
+def nile(sheet):
+    """The Nile and its two branches from Natural Earth (public domain), as polylines in km."""
+    path = os.path.join(CACHE, "naturalearth", "ne_10m_rivers_lake_centerlines.geojson")
+    if not os.path.exists(path):
+        os.makedirs(os.path.dirname(path), exist_ok=True)
+        url = ("https://raw.githubusercontent.com/nvkelso/natural-earth-vector/v5.1.2/geojson/"
+               "ne_10m_rivers_lake_centerlines.geojson")
+        with open(path, "wb") as f:
+            f.write(urllib.request.urlopen(url, timeout=300).read())
+    out = []
+    for ft in json.load(open(path, encoding="utf-8"))["features"]:
+        if ft["properties"].get("name") not in ("Nile", "Rosetta Branch", "Damietta Branch"):
+            continue
+        g = ft["geometry"]
+        for part in (g["coordinates"] if g["type"] == "MultiLineString" else [g["coordinates"]]):
+            pts = np.array([sheet.xy(lon, lat) for lon, lat in part])
+            keep = (pts[:, 0] > -20) & (pts[:, 0] < sheet.width + 20) & (pts[:, 1] > -20) & (pts[:, 1] < sheet.height + 20)
+            if keep.sum() > 1:
+                out.append(chaikin(pts[keep], 2))
     return out
 
 
-def main():
+def exodus_map():
+    """Map No. 5, as a dict ready for JSON, and the words for its page."""
+    sheet = Sheet(*SHEET5, res=0.2)
+    sheet.elev = elev = elevation(sheet, 10)
+    comp = lambda mask, lon, lat: _component(mask, sheet, lon, lat)
+    sea = comp(elev <= 0, 31.5, 31.9) | comp(elev <= 0, 32.9, 29.0) | comp(elev <= 0, 34.73, 28.8)
+    dead = ndimage.binary_fill_holes(comp(elev <= -392, 35.50, 31.50))
+    # The Great Bitter Lake and the lagoons of Manzala and Bardawil (Lake Sirbonis), below sea
+    # level in the elevation data. Lake Timsah is too small to show.
+    low = (elev <= 0) & ~sea
+    lagoons = comp(low, 32.38, 30.35) | comp(low, 32.0, 31.25) | comp(low, 33.16, 31.19)
+    lakes = dead | ndimage.binary_fill_holes(lagoons)
+    wet = sea | lakes
+    land = ~sea
+    flow = drainage(sheet, elev, sea | dead, 2)
+    all_places = places()
+    by_name = {p["name"]: p for p in all_places}
+    ours = our_spellings()
+    res = sheet.res
+
+    # Peoples and lands. Egypt is the Nile valley and delta: its towns and points along the
+    # river. Canaan is the land of its towns named in Genesis.
+    nile_km = nile(sheet)
+    seeds5 = []
+    for p in all_places:
+        if "settlement" not in p["types"] or p["score"] < 300 or not p["exact"]:
+            continue
+        if p["lon"] < 32.6 and p["lat"] > 29.0:
+            seeds5.append((p["name"], "Egypt", p["lon"], p["lat"]))
+        elif p["lat"] > 31.15 and 34.2 < p["lon"] < 35.45 and any(v[0] == "Gen" for v in p["verses"]):
+            seeds5.append((p["name"], "Canaan", p["lon"], p["lat"]))
+    for line in nile_km:
+        for x, y in line[::12]:
+            lon, lat = sheet.lonlat(x, y)
+            if lat < 31.3:
+                seeds5.append(("Nile", "Egypt", lon, lat))
+    for n, (_, names, _) in NATIONS5.items():
+        for name in names or []:
+            p = by_name[name]
+            seeds5.append((name, n, p["lon"], p["lat"]))
+    terr_names = list(NATIONS5)
+    terr = np.full(elev.shape, -1, np.int32)
+    for i, n in enumerate(terr_names):       # each people reaches its own distance
+        t, _ = territories(sheet, elev, wet, flow + (2,), [s for s in seeds5 if s[1] == n], cap_km=NATIONS5[n][2],
+                           names=terr_names, barrier=None)
+        terr[(t == i) & (terr < 0)] = i
+    groups = {n: n for n in terr_names}
+    tints = {n: v[0] for n, v in NATIONS5.items()}
+
+    no_rivers = np.zeros(elev.shape, bool)                  # the Nile valley and delta
+    cols = np.arange(elev.shape[1]) * res
+    rows = np.arange(elev.shape[0]) * res
+    lon_g = sheet.west + cols / sheet.kx
+    lat_g = sheet.north - rows / sheet.ky
+    no_rivers[np.ix_(lat_g > 29.4, lon_g < 32.25)] = True
+    no_rivers[:, lon_g < 31.45] = True
+    layers, river_km = terrain_layers(sheet, land, lakes, flow, wet, 600, 1.4, no_rivers)
+    layers["nile"] = path_d([ln / res for ln in nile_km], res, 1)
+    fills, labels, layers["borders"] = territory_layers(sheet, terr, terr_names, groups, tints)
+    for text, (style, pts) in SEAS5.items():
+        labels.append({"text": text, "style": style, "pts": line_km(sheet, pts, 2)})
+    labels.append({"text": "Gulf of Aqaba", "style": "sea", "pts": line_km(sheet, [(34.62, 28.62), (34.83, 29.12)], 2), "size": 4.5})
+    for text, pts in WILDERNESS_LINES.items():
+        labels.append({"text": text, "style": "region", "pts": line_km(sheet, pts, 8), "size": 5.2})
+
+    # The camps of Numbers 33.
+    grid = cost_grid(sheet, wet)
+    camps = []
+    for n, (ob, name, verse) in enumerate(CAMPS, 1):
+        p = by_name.get(ob) if ob else None
+        rec = {"n": n, "name": name, "ref": verse}
+        if p:
+            rec.update({"site": p["modern"] or "", "s": p["score"], "id": p["id"] + "/" + p["slug"]})
+            inside = sheet.west <= p["lon"] <= sheet.east and sheet.south <= p["lat"] <= sheet.north
+            if ob not in CAMP_NOT_PLOTTED and p["score"] >= MIN_CAMP_SCORE and inside:
+                x, y = sheet.xy(p["lon"], p["lat"])
+                rec.update({"x": round(x, 2), "y": round(y, 2), "lon": p["lon"], "lat": p["lat"],
+                            "sure": 1 if p["score"] >= SURE_CAMP_SCORE and p["exact"] else 0})
+            elif ob in CAMP_NOT_PLOTTED:
+                rec["why"] = "Not plotted. " + CAMP_NOT_PLOTTED[ob]
+            else:
+                rec["why"] = f"Not plotted: the best proposal scores only {p['score']} of 1,000."
+        else:
+            rec["why"] = CAMP_NOT_PLOTTED[None]
+        if ob in CAMP_NOTES:
+            rec["note"] = CAMP_NOTES[ob]
+        camps.append(rec)
+    # Camps at the same spot share one marker; the later one says so.
+    seen = {}
+    for c in camps:
+        if "x" not in c:
+            continue
+        key = (round(c["x"]), round(c["y"]))
+        if key in seen:
+            first = seen[key]
+            c["note"] = (c.get("note", "") + f" Proposed at the same site as camp {first['n']}, {first['name']}.").strip()
+            first["note"] = (first.get("note", "") + f" Camp {c['n']}, {c['name']}, is proposed at the same site.").strip()
+            first["also"] = first.get("also", []) + [c["n"]]
+            for k in ("x", "y", "sure"):
+                c.pop(k)
+            c["why"] = f"Shown with camp {first['n']}, at the same proposed site."
+        else:
+            seen[key] = c
+    routes = []
+    plotted = [c for c in camps if "x" in c]
+    for a, b in zip(plotted, plotted[1:]):
+        gap = b["n"] - a["n"] > 1 and any("x" not in c and "also" not in c and not c["why"].startswith("Shown with")
+                                           for c in camps[a["n"]:b["n"] - 1])
+        sure = not gap and a["s"] >= LINE_CAMP_SCORE and b["s"] >= LINE_CAMP_SCORE
+        pts = easiest_way(sheet, grid, (a["lon"], a["lat"]), (b["lon"], b["lat"]))
+        routes.append({"kind": "route", "d": path_d([pts / res], res, 1), "sure": 1 if sure else 0})
+    for c in camps:
+        c.pop("lon", None)
+        c.pop("lat", None)
+    roads = []
+    for name, pts in ROADS.items():
+        line = []
+        for a, b in zip(pts, pts[1:]):
+            seg = easiest_way(sheet, grid, a, b)
+            line.append(seg if not line else seg[1:])
+        line = np.vstack(line)
+        routes.append({"kind": "road", "d": path_d([line / res], res, 1)})
+        mid = len(line) // 2
+        span = line[max(mid - 40, 0):mid + 40]
+        roads.append({"n": name, "pts": np.round(span[::max(1, len(span) // 16)], 2).tolist()})
+
+    # Places named in Genesis to Deuteronomy; those that are camps are shown as camps.
+    pl = place_records(sheet, all_places, TORAH, ours, terr, terr_names)
+    for p in pl:
+        for c in camps:
+            if "x" in c and math.hypot(p["x"] - c["x"], p["y"] - c["y"]) < 1.0:
+                p["st"] = c["n"]
+
+    feats = {"mountains": mountains(sheet, by_name, ours, ["Mount Nebo"]), "rivers": [], "waters": [],
+             "regions": [], "roads": roads, "sinai": []}
+    feats["rivers"].append({"n": "NILE", "pts": follow(nile_km, 31.27, 29.6, sheet, 90), "main": True})
+    for n, length in {"Brook of Egypt": 60, "Zered": 22, "Arnon": 24}.items():
+        p = by_name[n]
+        line = follow(river_km, p["lon"], p["lat"], sheet, length)
+        if line:
+            feats["rivers"].append({"n": display_name(p, ours), "pts": line})
+    for lon, lat, text in ((32.40, 30.33, "Bitter Lakes"), (32.0, 31.25, "Lake Manzala"), (33.16, 31.19, "Lake Sirbonis")):
+        x, y = sheet.xy(lon, lat)
+        feats["waters"].append({"n": text, "x": round(x, 2), "y": round(y, 2), "lake": 1})
+    sinai = next(a for a in (json.loads(l) for l in open(os.path.join(_geo_repo(), "data", "ancient.jsonl"), encoding="utf-8"))
+                 if a["friendly_id"] == "Mount Sinai")
+    for idn in sinai["identifications"]:
+        for r in idn.get("resolutions", [])[:1]:
+            name = re.sub(r"<[^>]+>", "", r.get("description", ""))
+            # Jebel Musa, the traditional site, is where camp 12 is plotted, so the camp marks it.
+            if name in SINAI and "lonlat" in r and name != "Jebel Musa":
+                lon, lat = map(float, r["lonlat"].split(","))
+                x, y = sheet.xy(lon, lat)
+                feats["sinai"].append({"n": SINAI[name], "x": round(x, 2), "y": round(y, 2),
+                                       "s": idn["score"]["time_total"], "main": name == "Jebel Musa"})
+
+    data = {
+        "sheet": sheet_info(sheet), "grid": 20 / 60, "focus": 0.55, "file": "map-05-the-exodus",
+        "page": {"w": 10.3, "h": 7.8}, "land": "blush", "layers": layers, "territories": fills, "labels": labels,
+        "places": pl, "features": feats, "routes": routes, "stations": camps, "territoryLabel": "Land of",
+        "routeTitle": "The camps of Numbers 33",
+        "routeNote": "From Rameses to the plains of Moab. Camps whose proposed site scores at least "
+                     f"{MIN_CAMP_SCORE} of 1,000 are plotted, and marked \"?\" below {SURE_CAMP_SCORE}. The route is "
+                     "dashed where the camps between are unknown or doubtful, and drawn along the easiest ground "
+                     "between the camps.",
+        "title": {"box": {"x": 150, "y": 6, "w": 186, "h": 58}, "scale": 1.3, "lines": [
+            ["series", "MAP No. 5 · A STYLE STUDY", 7.5], ["display", "THE EXODUS", 18.5],
+            ["italic", "From Egypt to the plains of Moab: the camps of Numbers 33,", 24.5],
+            ["italic", "with the places named in Genesis to Deuteronomy", 28.4], ["rule", "", 31.2],
+            ["plain", "1491 BC by Ussher’s chronology · about 1446 or 1260 BC by modern reckoning", 36],
+            ["credit", "After the Eilers Sunday School Maps, St. Louis · Drawn from open data · CC BY 4.0", 41]]},
+        "key": {"box": {"x": 96, "y": 318, "w": 82}, "scale": 1.35, "scale_bars": [[0, 10, 20, 30], [0, 20, 40]], "rows": [
+            ["camp", "Camp of Numbers 33"], ["camp-unsure", "Camp, site uncertain (?)"],
+            ["route", "Route between proposed sites"], ["conjectural", "Route where the camps are unknown"],
+            ["sinai", "Other proposed Mount Sinai"], ["road", "Ancient road (approximate)"], ["gap", ""],
+            ["dot", "Town"], ["unsure", "Site uncertain (?)"], ["river", "River or wadi"],
+            ["nation", "Border of a land or people"], ["gap", ""],
+            ["swatch", "Egypt", "yellow"], ["swatch", "Canaan", "lime"], ["swatch", "Edom", "olive"],
+            ["swatch", "Moab", "sage"], ["swatch", "Amorites (Sihon)", "salmon"], ["swatch", "Midian", "wild"],
+            ["swatch", "Wilderness", "blush"]]},
+    }
+    # The title block's height follows its last line.
+    data["title"]["box"]["h"] = round((data["title"]["lines"][-1][2] + 4.5) * data["title"]["scale"], 1)
+    page = {
+        "slug": "exodus", "NO": "5", "H1": "The Exodus", "TITLE": "The Exodus Map",
+        "DESCRIPTION": "Map No. 5, a style study after the Eilers Sunday School wall maps: the camps of Numbers 33 "
+                       "from Egypt to the plains of Moab, with the places of Genesis to Deuteronomy, drawn from open data.",
+        "PAGE": "letter landscape", "PAGE_W": "10.3", "PAGE_H": "7.8",
+        "GRID_LABEL": "Twenty-minute squares, as used by the index",
+        "GRID_NOTE": "Grid squares are twenty minutes of latitude and longitude: letters across the top, numbers down the side.",
+        "ABOUT": about_html(
+            "A <strong>style study</strong> for the project's Bible maps, after <strong>Eilers Sunday School Map No. "
+            "5</strong>, <em>The Exodus</em> (A. H. Eilers &amp; Co., St. Louis), redrawn from open data. Where "
+            "Eilers drew one confident route, this map shows what is known and what is guessed.",
+            KEPT[:2] + ["Widely spaced capitals for lands and wildernesses",
+                        "A red route with numbered camps, and a table of the camps"] + KEPT[3:], CHANGED + [
+                "Only camps with a proposed site are plotted, and the route is dashed where the camps between are "
+                "unknown",
+                "Mount Sinai is shown at each of its main proposed sites, not one"],
+            ["<strong>Land, water and relief</strong> come from elevation data, and the Nile from Natural Earth. "
+             "The Dead Sea is drawn at its old shoreline.",
+             "<strong>The camps</strong> are those of Numbers 33, at the site OpenBible.info's sources favour. "
+             "Most are uncertain; the table of camps gives each one's proposed site and certainty.",
+             "<strong>The route</strong> joins the plotted camps along the easiest ground between them. It is a "
+             "picture of the order of the camps, not a claim about the path.",
+             "<strong>Lands are approximate</strong>, drawn around their towns. The roads follow standard "
+             "reconstructions through the places that mark them.",
+             PLACES_MADE.format(books="Genesis to Deuteronomy"), NAMES_MADE],
+            SOURCES + ["Rivers: Natural Earth (public domain)"]),
+    }
+    return data, page
+
+
+def write_map(data, page):
     sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
     import webpages
-    data = kingdoms_map()
+    slug = page["slug"]
     os.makedirs(os.path.join(SITE, "maps", "data"), exist_ok=True)
-    with open(os.path.join(SITE, "maps", "data", "kingdoms.json"), "w", encoding="utf-8", newline="\n") as f:
+    with open(os.path.join(SITE, "maps", "data", slug + ".json"), "w", encoding="utf-8", newline="\n") as f:
         json.dump(data, f, ensure_ascii=False, separators=(",", ":"))
         f.write("\n")
-    src = os.path.join(SITE, "src", "map-kingdoms.html")
-    body = open(src, encoding="utf-8").read().replace(
-        "<!-- DATA -->", f'<script type="application/json" id="data">{webpages._dump(data)}</script>')
-    with open(os.path.join(SITE, "maps", "kingdoms.html"), "w", encoding="utf-8", newline="\n") as f:
+    body = open(os.path.join(SITE, "src", "map.html"), encoding="utf-8").read()
+    for k, v in page.items():
+        body = body.replace("{{" + k + "}}", v)
+    body = body.replace("<!-- DATA -->", f'<script type="application/json" id="data">{webpages._dump(data)}</script>')
+    with open(os.path.join(SITE, "maps", slug + ".html"), "w", encoding="utf-8", newline="\n") as f:
         f.write(webpages.STANDALONE.format(page=body))
-    print(f"Map No. 7: {len(data['places'])} places, {len(data['territories'])} territories")
+
+
+MAPS = {"kingdoms": kingdoms_map, "exodus": exodus_map}
+
+
+def main():
+    wanted = sys.argv[1:] or list(MAPS)
+    for name in wanted:
+        data, page = MAPS[name]()
+        write_map(data, page)
+        camps = data.get("stations", [])
+        shown = sum(1 + len(s.get("also", [])) for s in camps if "x" in s)
+        extra = f", {shown} of {len(camps)} camps shown" if camps else ""
+        print(f"Map No. {page['NO']}, {page['H1']}: {len(data['places'])} places, "
+              f"{len(data['territories'])} territories{extra}")
 
 
 if __name__ == "__main__":

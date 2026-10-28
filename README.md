@@ -40,6 +40,7 @@ site/                            The website: the reader and pages built from th
   data/bible/                    The reader's data, one file per book (built by scripts/reader.py)
   genealogy.html                 The Generations: the line from Adam to Jesus and a family explorer
   history.html                   Streams of Time: world history, AD 30 to today, beside the Bible
+  maps/exodus.html               Map No. 5, The Exodus: the camps of Numbers 33
   maps/kingdoms.html             Map No. 7, The Kingdoms of Judah and Israel (a style study)
   src/ data/ maps/data/          The page sources and the JSON they are built with
 books.json                       Index: names, OSIS ids, languages, counts, paths, Tanakh order
@@ -158,6 +159,14 @@ and downloads as SVG. The land, water and relief come from elevation data; the p
 OpenBible.info's Bible geocoding, with a "?" where the location is uncertain. The tribal
 territories are approximate: each piece of land goes to the tribe whose towns in Joshua 13–19
 and 21 are nearest. `scripts/maps.py` rebuilds it.
+
+`site/maps/exodus.html` is Map No. 5, *The Exodus*, on a Letter landscape page. It follows the
+42 camps of Numbers 33 from Rameses to the plains of Moab. A camp is plotted where OpenBible.info
+gives a proposed site with a score of at least 150 out of 1,000, and is marked "?" below 500.
+Between two camps the route follows the easiest ground, drawn solid where both sites are fairly
+secure and dashed elsewhere. Triangles mark the proposed sites of Mount Sinai. The Route panel
+lists every camp, including the 9 not plotted, and prints as a table after the sheet. Both
+maps are built from one page template, `site/src/map.html`, so later maps add only data.
 
 The data is open: OpenBible.info cross-references; STEPBible's tagged names, family links and
 verse-numbering mapping; Theographic's dates; and Wikidata identifiers. Start with

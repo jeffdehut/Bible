@@ -208,7 +208,25 @@ so the two can be compared side by side. It settled:
 - Check every place name against the translation. Names are taken in the spelling our
   translation uses most, but the translation itself has a few inconsistencies to settle (for
   example Beth-shan and Beth-shean).
-- The Exodus map (Map No. 5), for routes and station tables.
+- Map No. 4, *Western Asia*, for the nations around Israel, using the same template.
+
+**Map No. 5, The Exodus (done).** `site/maps/exodus.html` follows the camps of Numbers 33
+and turned the style study into a series: one page template (`site/src/map.html`) filled from
+each map's data, with a route layer, numbered camps, a camp list and a printed camp table.
+
+- **Camps:** plotted at OpenBible.info's best proposed site when it scores at least 150, and
+  marked "?" below 500. Two camps proposed at one site share a marker, so 31 markers show 33
+  of the 42 camps. The other 9 are listed with the reason: camp 7 is named only by the sea;
+  Rimmon-perez, Libnah and Makheloth have no proposal scoring 150; Rissah's one proposal is far
+  off in Arabia; and four camps are placed only "somewhere in the Negev".
+- **Route:** the easiest way across the land between camps, from the elevation data. It is
+  solid only between consecutive camps that both score at least 300.
+- **Mount Sinai:** the camp is drawn at Jebel Musa, the traditional site. Triangles mark four
+  other proposals: Har Karkom, Jebel Sin Bishar, Jebel Serbal and Jabal al-Lawz.
+- **Peoples:** Egypt, Canaan, Edom, Moab, the Amorites under Sihon, and Midian, allotted the
+  same way as the tribes. Wilderness names follow the books of Exodus and Numbers.
+- **Needs review:** the camp identifications and the drawn route, by someone who knows the
+  geography of the Sinai and the Negev.
 
 **Boundaries.** No open dataset of tribal and kingdom boundaries is known to us, so the
 territories are allotted automatically. Each piece of land goes to the tribe whose towns in
@@ -275,7 +293,8 @@ A new translation into Traditional Chinese (繁體中文), made like the English
 
 1. Foundation and the reader, with verse-level original language and draft labels (stage 1
    done).
-2. Maps: the style study (Eilers Map No. 7 redrawn) is done; the Exodus map is next.
+2. Maps: the style study (Eilers Map No. 7) and the Exodus (Map No. 5) are done; Western
+   Asia (Map No. 4) is next.
 3. Genealogy viewer.
 4. Phrase-level original language, alongside human review of the English.
 5. Accounts.
@@ -284,5 +303,5 @@ A new translation into Traditional Chinese (繁體中文), made like the English
 ## Open questions
 
 - Domain and hosting account (see *Decisions so far*).
-- Review of the approximate tribal territories on Map No. 7.
+- Review of the approximate tribal territories on Map No. 7, and of the camps on Map No. 5.
 - Reviewers for the English, and later the Chinese.
