@@ -35,7 +35,9 @@ connections/                     Obsidian notes: cross-references, people, place
   genealogy/                     Family groups, generation by generation
   events/ timeline/              Dated events, century notes, synchronisms, the chart
 data/                            Curated rulers, eras, world events and synchronisms (see data/README.md)
-site/                            Web pages built from the data: open them in any browser
+site/                            The website: the reader and pages built from the data
+  index.html                     The reader: the translation, with the Hebrew, Aramaic and Greek beneath
+  data/bible/                    The reader's data, one file per book (built by scripts/reader.py)
   genealogy.html                 The Generations: the line from Adam to Jesus and a family explorer
   history.html                   Streams of Time: world history, AD 30 to today, beside the Bible
   maps/kingdoms.html             Map No. 7, The Kingdoms of Judah and Israel (a style study)
@@ -52,6 +54,7 @@ scripts/
   timeline.py, chart.py          and the synchronological chart
   webpages.py                    Builds the two pages in site/ (run by connections.py)
   maps.py                        Builds the maps in site/maps/ from elevation and place data
+  reader.py                      Builds the reader's data in site/data/bible/
 .obsidian/                       Obsidian settings: graph colors and filters
 VERIFICATION.md                  What was checked, what was found, what was fixed
 TRANSLATION.md                   Translation goals, principles, decisions, format and review process
@@ -127,6 +130,19 @@ It adds a genealogy and a timeline modeled on Sebastian C. Adams' *Synchronologi
 
 ## Web pages
 
+`site/index.html` is the reader, the home page of the site. Pick a book and chapter, or type a
+reference ("jn 3:16", "ps 23"), and swipe or use the arrow keys to turn the page. Every chapter
+shows its review status, and all are marked *Draft* until they are reviewed. Tap a verse to see
+it in Hebrew, Aramaic or Greek, word by word: each word's transliteration, a gloss, its grammar
+and a short dictionary entry. The words and glosses come from STEPBible's tagged texts, matched
+to our Hebrew and Greek word by word (99.5% of words match; the rest show without a gloss).
+Readers can highlight verses and write notes, which stay on their device, with a backup they
+can copy or save. The reader searches the whole Bible on the device, follows the light or dark
+setting, offers English Bible verse numbers for the Old Testament, and works offline once
+installed. `scripts/reader.py` rebuilds its data from the translation. Because it loads its
+data as separate files, it needs a web server: `python3 -m http.server -d site` and then
+http://localhost:8000.
+
 `site/genealogy.html` (*The Generations*) and `site/history.html` (*Streams of Time*) present
 the genealogy and the timeline for readers who don't use Obsidian. Each is a single file
 that opens in a browser, works on phones, and follows the reader's light or dark setting.
@@ -153,6 +169,7 @@ python3 scripts/verify.py    # compare everything with the published editions (n
 python3 scripts/translation.py   # check and compile the translation into text/english/
 python3 scripts/connections.py   # regenerate connections/ (needs network)
 python3 scripts/maps.py          # rebuild the maps in site/maps/ (needs network)
+python3 scripts/reader.py        # rebuild the reader's data in site/data/bible/ (needs network once)
 ```
 
 These use only the Python standard library, except `maps.py`, which also needs numpy, scipy
@@ -207,6 +224,10 @@ the printed 1894 edition.
   combine OpenBible.info (CC BY), STEPBible (CC BY 4.0) and Theographic (CC BY-SA 4.0) data,
   so they inherit Theographic's share-alike terms. See `connections/README.md` for
   attributions.
+- **Reader data** (`site/data/bible/`): [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
+  It combines the translation, the UXLC and SBLGNT texts, and STEPBible's tagged texts and
+  brief lexicons (TAHOT, TAGNT, TBESH and TBESG, CC BY 4.0, from
+  [STEPBible.org](https://github.com/STEPBible/STEPBible-Data)).
 - **Maps** (`site/maps/`): [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Places
   from the [OpenBible.info Bible Geocoding Data](https://github.com/openbibleinfo/Bible-Geocoding-Data)
   (CC BY 4.0). Elevation from the AWS Terrain Tiles (SRTM, GMTED2010 and ETOPO1; see the

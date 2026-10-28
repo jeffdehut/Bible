@@ -30,39 +30,50 @@ Chinese translation.
 
 ## Foundation
 
-1. **Data build.** A script turns the repository into small files the app loads on demand:
-   one per chapter (English, notes, Hebrew or Greek, word data), one per map, and one for the
-   genealogy.
-2. **App shell.** One static web app that installs on a phone and works offline. It grows out of
-   the design of `site/genealogy.html` and `site/history.html`.
-3. **Hosting.** Every push to the main branch publishes the site.
+1. **Data build (done for the reader).** `scripts/reader.py` turns the repository into small
+   files the app loads on demand: for each book, its text and notes, and separately its word
+   data, which loads only when a verse is opened; the lexicon in twenty parts; and one file
+   for search. `scripts/maps.py` does the same for the maps.
+2. **App shell (done).** `site/index.html` is one static web app that installs on a phone and
+   works offline, in the design of `site/genealogy.html` and `site/history.html`.
+3. **Hosting (to do).** Every push to the main branch publishes the `site/` folder.
 
 ## 1. Reader
 
-- **Choosing a passage.** A book and chapter picker with Old and New Testament tabs, recent
-  chapters, and typed references ("jn 3 16", "ps 23"). Swipe or tap to move between chapters.
-- **Reading.** Clean text with verse numbers and tap-to-open notes. Adjustable type size,
-  light and dark themes, and search across the whole Bible that runs on the device.
-- **Original language, stage 1 (verse level).** Tap a verse to see it in Hebrew, Aramaic or
-  Greek, with its notes and a word-by-word breakdown: each word's dictionary form, grammar and
-  a short definition. Sources: MorphGNT for the Greek (already in `.cache/`), and STEPBible's
-  tagged Hebrew and Greek texts and brief lexicons (CC BY 4.0).
+**Stage 1 is built** (`site/index.html`, with its data from `scripts/reader.py`):
+
+- **Choosing a passage:** a book and chapter picker with Old and New Testament tabs, recent
+  chapters, and typed references ("jn 3 16", "ps 23"). Swipe, tap or use the arrow keys to
+  move between chapters.
+- **Reading:** verse numbers and lettered notes that open on a tap. Paragraphs follow the
+  Masoretic paragraph marks and, in the New Testament, STEPBible's. Poetry (Job, Psalms,
+  Proverbs, Song of Songs, Lamentations) is set a verse to a line. There are text sizes,
+  light and dark themes, and search across the whole Bible on the device.
+- **Original language, verse level:** tap a verse to see it in Hebrew, Aramaic or Greek, with
+  its notes and a word-by-word breakdown. Tap a word for its dictionary form, gloss, grammar,
+  parts (prefixes and suffixes) and a short definition. Sources: STEPBible's TAHOT and TAGNT
+  for words and glosses, and TBESH and TBESG for definitions, all CC BY 4.0. Each of our words
+  is matched to STEPBible's by its letters; 99.5% match.
+- **Verse numbers:** Hebrew numbering, with English numbering as a setting.
+- **Draft labels:** a badge on every chapter, a one-time notice, and an explanation of the
+  review stages.
+- **Highlights and notes, on the device:** five highlight colors and a note per verse, stored
+  by verse reference. A backup can be copied or saved and restored, keeping the newer of
+  each.
+- **Offline:** a web app manifest and a service worker, so the reader installs on a phone and
+  keeps the books it has opened.
+
+**Next:**
+
 - **Original language, stage 2 (phrase level).** Hover over or tap an English phrase to see
-  the Hebrew or Greek words it translates, with their meaning. The translation is
-  meaning-based, so each chapter needs a file linking its English phrases to source words.
-  These links are drafted chapter by chapter, checked automatically so that every source word
-  is accounted for, and reviewed with the translation.
-- **Verse numbers.** The Old Testament follows the Hebrew numbering, which differs from English
-  Bibles in about 1,970 verses. The reader offers English numbering too, using the TVTMS
-  mapping already in this project.
-- **Draft labels.** A "Draft" badge on every chapter that hasn't been reviewed, a short
-  explanation the first time a reader sees one, and a link to the review process in
-  `TRANSLATION.md`. The badge changes as a chapter moves to *checked*, *reviewed* and
-  *approved*.
-- **Highlights and notes (on the device).** Readers can highlight, underline and write notes,
-  saved in the browser's storage. Each annotation is tied to a verse reference and a position
-  within the verse, not to page layout, so it survives text corrections. Export and import
-  keep a backup.
+  the Hebrew or Greek words it translates. The translation is meaning-based, so each chapter
+  needs a file linking its English phrases to source words. These links are drafted chapter
+  by chapter, checked automatically so that every source word is accounted for, and reviewed
+  with the translation.
+- Highlights on part of a verse (the stored format already allows a position within the
+  verse), and notes on a passage.
+- Links from places in the text to the maps, and from people to the genealogy.
+- Cross-references beside each verse (OpenBible.info, already in `connections/`).
 
 ## 2. Maps
 
@@ -262,7 +273,8 @@ A new translation into Traditional Chinese (繁體中文), made like the English
 
 ## Order of work
 
-1. Foundation and the reader, with verse-level original language and draft labels.
+1. Foundation and the reader, with verse-level original language and draft labels (stage 1
+   done).
 2. Maps: the style study (Eilers Map No. 7 redrawn) is done; the Exodus map is next.
 3. Genealogy viewer.
 4. Phrase-level original language, alongside human review of the English.

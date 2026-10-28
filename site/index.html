@@ -1,0 +1,1238 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Plain English Bible</title>
+<meta name="claude:viewport-fit-sides" content="cover">
+<meta name="description" content="The Open Plain English Translation, a first draft of the whole Bible, with the Hebrew, Aramaic and Greek beneath every verse.">
+<meta name="theme-color" content="#fbfaf7" media="(prefers-color-scheme: light)">
+<meta name="theme-color" content="#0d111b" media="(prefers-color-scheme: dark)">
+<link rel="manifest" href="manifest.webmanifest">
+<link rel="icon" href="icons/icon.svg" type="image/svg+xml">
+<link rel="apple-touch-icon" href="icons/icon-192.png">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Frank+Ruhl+Libre:wght@300..700&family=Libre+Franklin:wght@400;500;600;700&family=Noto+Serif:ital,wght@0,400;0,600;1,400&family=Noto+Serif+Hebrew:wght@400;600&display=swap">
+<style>
+/* Layout: one reading column under a slim bar; tapping a verse opens its source text and
+   words in a sheet (from the bottom on phones, at the side on wide screens). */
+:root {
+  --bg: #fbfaf7;
+  --surface: #ffffff;
+  --raised: #ffffff;
+  --ink: #161b26;
+  --muted: #5b6475;
+  --faint: #8d95a4;
+  --line: #e4e2db;
+  --lapis: #2646a1;
+  --lapis-soft: #e7ecf8;
+  --gold: #8a640b;
+  --gold-soft: #f6eedb;
+  --draft: #a8301a;
+  --draft-soft: #fbe8e2;
+  --hl-yellow: #fbe7a1;
+  --hl-green: #cfeccf;
+  --hl-blue: #d3e3fb;
+  --hl-pink: #f9d6e4;
+  --hl-orange: #fbd9bb;
+  --shadow: 0 1px 2px rgb(22 27 38 / 6%), 0 10px 30px rgb(22 27 38 / 10%);
+  --read: "Frank Ruhl Libre", "Noto Serif", Georgia, serif;
+  --sans: "Libre Franklin", system-ui, -apple-system, "Segoe UI", sans-serif;
+  --greek: "Noto Serif", "Frank Ruhl Libre", Georgia, serif;
+  --hebrew: "Noto Serif Hebrew", "Frank Ruhl Libre", "SBL Hebrew", serif;
+  --size: 20px;
+  --bar: 56px;
+}
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    --bg: #0d111b; --surface: #131a28; --raised: #18202f; --ink: #e9ecf3; --muted: #a3acbd; --faint: #6f7a90;
+    --line: #263047; --lapis: #9db3ff; --lapis-soft: #1c2650; --gold: #e2bd5c; --gold-soft: #2a2414;
+    --draft: #f39a80; --draft-soft: #3a1d16;
+    --hl-yellow: rgb(226 189 92 / 30%); --hl-green: rgb(94 199 161 / 26%); --hl-blue: rgb(120 160 255 / 28%);
+    --hl-pink: rgb(240 130 180 / 26%); --hl-orange: rgb(240 150 90 / 28%);
+    --shadow: 0 1px 2px rgb(0 0 0 / 35%), 0 12px 32px rgb(0 0 0 / 40%);
+    color-scheme: dark;
+  }
+}
+:root[data-theme="dark"] {
+  --bg: #0d111b; --surface: #131a28; --raised: #18202f; --ink: #e9ecf3; --muted: #a3acbd; --faint: #6f7a90;
+  --line: #263047; --lapis: #9db3ff; --lapis-soft: #1c2650; --gold: #e2bd5c; --gold-soft: #2a2414;
+  --draft: #f39a80; --draft-soft: #3a1d16;
+  --hl-yellow: rgb(226 189 92 / 30%); --hl-green: rgb(94 199 161 / 26%); --hl-blue: rgb(120 160 255 / 28%);
+  --hl-pink: rgb(240 130 180 / 26%); --hl-orange: rgb(240 150 90 / 28%);
+  --shadow: 0 1px 2px rgb(0 0 0 / 35%), 0 12px 32px rgb(0 0 0 / 40%);
+  color-scheme: dark;
+}
+* { box-sizing: border-box; }
+[hidden] { display: none !important; }
+html { -webkit-text-size-adjust: 100%; }
+body {
+  margin: 0; background: var(--bg); color: var(--ink);
+  font: 400 15px/1.5 var(--sans);
+  padding-left: max(16px, env(safe-area-inset-left, 0px));
+  padding-right: max(16px, env(safe-area-inset-right, 0px));
+}
+body::before { content: ""; position: fixed; inset: 0 0 auto; height: env(safe-area-inset-top, 0px); z-index: 10; background: var(--bg); }
+button { font: inherit; color: inherit; }
+a { color: var(--lapis); }
+:focus-visible { outline: 2px solid var(--lapis); outline-offset: 2px; border-radius: 4px; }
+.icon { width: 20px; height: 20px; flex: none; }
+.btn {
+  display: inline-flex; align-items: center; justify-content: center; gap: 6px; min-height: 40px; min-width: 40px;
+  border: 0; background: transparent; border-radius: 10px; padding: 0 10px; cursor: pointer; font: 600 14px/1 var(--sans);
+}
+.btn:hover { background: var(--lapis-soft); }
+.btn.solid { background: var(--lapis); color: var(--surface); }
+.btn.line { border: 1px solid var(--line); }
+.eyebrow { font: 600 12px/1.2 var(--sans); letter-spacing: 0.12em; text-transform: uppercase; color: var(--muted); margin: 0; }
+
+/* The bar */
+.appbar {
+  position: sticky; top: env(safe-area-inset-top, 0px); z-index: 5; height: var(--bar);
+  margin-inline: calc(-1 * max(16px, env(safe-area-inset-left, 0px))) calc(-1 * max(16px, env(safe-area-inset-right, 0px)));
+  padding-inline: max(8px, env(safe-area-inset-left, 0px)) max(8px, env(safe-area-inset-right, 0px));
+  display: flex; align-items: center; gap: 2px; background: color-mix(in srgb, var(--bg) 92%, transparent);
+  backdrop-filter: blur(10px); -webkit-backdrop-filter: blur(10px); border-bottom: 1px solid var(--line);
+}
+.appbar .where { font: 600 16px/1 var(--sans); gap: 4px; padding: 0 12px; }
+.appbar .where .chev { width: 16px; height: 16px; opacity: 0.6; }
+.appbar .spacer { flex: 1; }
+.brand { font: 500 17px/1 var(--read); letter-spacing: 0.01em; padding: 0 8px; color: var(--ink); text-decoration: none; white-space: nowrap; }
+@media (max-width: 520px) { .brand { display: none; } }
+
+/* The chapter */
+main { max-width: 680px; margin-inline: auto; padding-block: 28px 120px; }
+.chead { display: grid; gap: 6px; margin-bottom: 18px; }
+.chead h1 { margin: 0; font: 300 clamp(44px, 9vw, 64px)/1 var(--read); letter-spacing: -0.02em; }
+.chead .meta { display: flex; flex-wrap: wrap; align-items: center; gap: 8px 12px; }
+.badge {
+  display: inline-flex; align-items: center; gap: 6px; border: 0; cursor: pointer; border-radius: 99px;
+  padding: 4px 10px 4px 8px; font: 600 12px/1.2 var(--sans); background: var(--draft-soft); color: var(--draft);
+}
+.badge::before { content: ""; width: 7px; height: 7px; border-radius: 50%; background: currentColor; }
+.badge.checked, .badge.reviewed { background: var(--gold-soft); color: var(--gold); }
+.badge.approved { background: var(--lapis-soft); color: var(--lapis); }
+.chead .src { font-size: 13px; color: var(--muted); }
+.text { font: 400 var(--size)/1.7 var(--read); hyphens: manual; }
+.text p { margin: 0 0 0.9em; text-wrap: pretty; }
+/* Poetry: each verse on its own line, with a hanging indent. */
+.text.poetry p { margin: 0 0 1.1em; }
+.text.poetry .v { display: block; padding-left: 1.4em; text-indent: -1.4em; margin-bottom: 0.15em; }
+.v { border-radius: 4px; cursor: pointer; transition: background-color 0.15s; box-decoration-break: clone; -webkit-box-decoration-break: clone; }
+.v:hover { background: color-mix(in srgb, var(--lapis) 7%, transparent); }
+.v.sel { background: color-mix(in srgb, var(--lapis) 14%, transparent); outline: 1px solid color-mix(in srgb, var(--lapis) 35%, transparent); }
+.v[data-h="yellow"] { background: var(--hl-yellow); }
+.v[data-h="green"] { background: var(--hl-green); }
+.v[data-h="blue"] { background: var(--hl-blue); }
+.v[data-h="pink"] { background: var(--hl-pink); }
+.v[data-h="orange"] { background: var(--hl-orange); }
+.v.flash { animation: flash 1.6s ease-out; }
+@keyframes flash { 0%, 30% { background: color-mix(in srgb, var(--gold) 28%, transparent); } }
+.vn { font: 600 0.58em/1 var(--sans); color: var(--gold); vertical-align: 0.55em; margin: 0 0.18em 0 0.1em; font-variant-numeric: tabular-nums; }
+.vn.title { font-style: italic; }
+.fn {
+  border: 0; background: none; padding: 0 0.1em; margin: 0; cursor: pointer; color: var(--lapis);
+  font: 600 0.6em/1 var(--sans); vertical-align: 0.6em;
+}
+.has-note::after {
+  content: ""; display: inline-block; width: 0.55em; height: 0.55em; margin-left: 0.2em; vertical-align: 0.5em;
+  border-radius: 2px; background: var(--gold); opacity: 0.8;
+}
+.missing { color: var(--faint); font-style: italic; }
+.chapnav { display: flex; justify-content: space-between; gap: 12px; margin-top: 36px; padding-top: 18px; border-top: 1px solid var(--line); }
+.chapnav .btn { font-weight: 600; }
+.loading { color: var(--muted); padding: 40px 0; }
+
+/* Sheets: the verse, a footnote, the picker, search, notes, settings, about */
+.scrim { position: fixed; inset: 0; z-index: 8; background: rgb(10 14 24 / 32%); }
+#verse-scrim { z-index: 6; }
+.sheet {
+  position: fixed; z-index: 9; left: 0; right: 0; bottom: 0; max-height: min(78vh, 760px); overflow: auto;
+  background: var(--raised); border-top: 1px solid var(--line); border-radius: 18px 18px 0 0; box-shadow: var(--shadow);
+  padding: 8px max(16px, env(safe-area-inset-right, 0px)) max(20px, env(safe-area-inset-bottom, 0px)) max(16px, env(safe-area-inset-left, 0px));
+  overscroll-behavior: contain;
+}
+.sheet .grab { width: 40px; height: 4px; border-radius: 4px; background: var(--line); margin: 2px auto 8px; }
+.sheet-head { display: flex; align-items: center; gap: 8px; position: sticky; top: -8px; background: var(--raised); padding: 6px 0 8px; z-index: 1; }
+.sheet-head h2 { margin: 0; flex: 1; font: 600 19px/1.2 var(--read); }
+.sheet-head .sub { font: 500 13px/1.3 var(--sans); color: var(--muted); }
+#verse.sheet { z-index: 7; max-height: min(62vh, 760px); }
+@media (min-width: 1100px) {
+  #verse.sheet {
+    top: calc(var(--bar) + env(safe-area-inset-top, 0px)); bottom: 0; left: auto; right: 0; width: 420px; max-height: none;
+    border-radius: 0; border-top: 0; border-left: 1px solid var(--line); box-shadow: none; padding-top: 14px;
+  }
+  #verse.sheet .grab { display: none; }
+  body.panel-open main { margin-right: calc(420px + max(24px, (100vw - 420px - 680px) / 2)); margin-left: max(0px, (100vw - 420px - 680px) / 2); }
+  body.panel-open #verse-scrim { display: none; }
+}
+@media (min-width: 720px) {
+  .sheet.dialog {
+    left: 50%; right: auto; bottom: auto; top: calc(var(--bar) + 24px); transform: translateX(-50%);
+    width: min(640px, calc(100vw - 48px)); max-height: calc(100vh - var(--bar) - 48px); border-radius: 16px; border: 1px solid var(--line);
+    padding-top: 12px;
+  }
+  .sheet.dialog .grab { display: none; }
+}
+.section { margin-top: 16px; }
+.section > h3 { margin: 0 0 8px; font: 600 12px/1.2 var(--sans); letter-spacing: 0.1em; text-transform: uppercase; color: var(--muted); }
+.swatches { display: flex; flex-wrap: wrap; gap: 8px; align-items: center; }
+.swatch {
+  width: 34px; height: 34px; border-radius: 50%; border: 2px solid var(--line); cursor: pointer; padding: 0;
+}
+.swatch[aria-pressed="true"] { border-color: var(--ink); box-shadow: 0 0 0 2px var(--raised) inset; }
+.swatch.none { background: transparent; position: relative; }
+.swatch.none::after { content: ""; position: absolute; inset: 14px 5px; background: var(--muted); transform: rotate(-45deg); border-radius: 2px; }
+.actions { display: flex; flex-wrap: wrap; gap: 8px; margin-top: 4px; }
+textarea, input[type="search"], input[type="text"] {
+  width: 100%; font: 400 16px/1.45 var(--sans); color: var(--ink); background: var(--surface);
+  border: 1px solid var(--line); border-radius: 10px; padding: 10px 12px;
+}
+textarea { min-height: 88px; resize: vertical; }
+.original { font-size: calc(var(--size) * 1.18); line-height: 1.9; margin: 0; }
+.original[lang="he"], .original[lang="arc"] { font-family: var(--hebrew); direction: rtl; text-align: right; font-size: calc(var(--size) * 1.32); }
+.original[lang="grc"] { font-family: var(--greek); }
+.ketiv { font-size: 0.7em; color: var(--faint); vertical-align: 0.4em; }
+.lang-note { font-size: 13px; color: var(--muted); margin: 4px 0 0; }
+.inter { display: flex; flex-wrap: wrap; gap: 6px; margin: 0; padding: 0; list-style: none; }
+.inter[dir="rtl"] { direction: rtl; }
+.w {
+  display: grid; gap: 1px; justify-items: start; text-align: start; border: 1px solid var(--line); background: var(--surface);
+  border-radius: 10px; padding: 6px 9px 7px; cursor: pointer; min-width: 44px;
+}
+.w:hover { border-color: color-mix(in srgb, var(--lapis) 45%, var(--line)); }
+.w[aria-pressed="true"] { border-color: var(--lapis); background: var(--lapis-soft); }
+.w .o { font: 400 21px/1.35 var(--greek); }
+.inter[dir="rtl"] .w .o { font: 400 23px/1.45 var(--hebrew); }
+.w .t { font: italic 400 12px/1.2 var(--sans); color: var(--muted); direction: ltr; }
+.w .g { font: 500 13px/1.25 var(--sans); color: var(--ink); direction: ltr; }
+.w.none { cursor: default; opacity: 0.7; }
+.word {
+  margin-top: 12px; border: 1px solid var(--line); border-radius: 12px; padding: 12px 14px; background: var(--surface);
+}
+.word .lemma { display: flex; flex-wrap: wrap; align-items: baseline; gap: 4px 12px; }
+.word .lemma b { font: 400 28px/1.2 var(--greek); }
+.word .lemma b[lang="he"] { font-family: var(--hebrew); }
+.word .lemma i { color: var(--muted); }
+.word .lemma .gl { font: 600 15px/1.3 var(--sans); }
+.word dl { display: grid; grid-template-columns: auto 1fr; gap: 4px 12px; margin: 10px 0 0; font-size: 14px; }
+.word dt { color: var(--muted); }
+.word dd { margin: 0; }
+.word .def { margin-top: 10px; font: 400 14.5px/1.55 var(--sans); color: var(--ink); white-space: pre-line; max-height: 260px; overflow: auto; }
+.word .def a { text-decoration: none; }
+.word .credit { margin-top: 8px; font-size: 12px; color: var(--faint); }
+.notes-list { margin: 0; padding: 0; list-style: none; display: grid; gap: 8px; }
+.notes-list li { font: 400 15px/1.55 var(--read); }
+.notes-list .mk { font: 600 12px/1 var(--sans); color: var(--lapis); margin-right: 6px; }
+.en-number { font-size: 13px; color: var(--muted); }
+
+/* Picker */
+.tabs { display: flex; gap: 4px; background: var(--bg); padding: 4px; border-radius: 12px; border: 1px solid var(--line); }
+.tabs button { flex: 1; border: 0; background: transparent; border-radius: 9px; padding: 9px 8px; font: 600 14px/1 var(--sans); cursor: pointer; }
+.tabs button[aria-selected="true"] { background: var(--surface); box-shadow: var(--shadow); }
+.books { display: grid; grid-template-columns: repeat(auto-fill, minmax(140px, 1fr)); gap: 6px; margin: 12px 0 0; padding: 0; list-style: none; }
+.books button {
+  width: 100%; text-align: left; border: 1px solid var(--line); background: var(--surface); border-radius: 10px;
+  padding: 10px 12px; font: 500 15px/1.2 var(--read); cursor: pointer;
+}
+.books button:hover, .chapters button:hover { border-color: var(--lapis); }
+.books button[aria-current="true"] { border-color: var(--lapis); background: var(--lapis-soft); }
+.chapters { display: grid; grid-template-columns: repeat(auto-fill, minmax(52px, 1fr)); gap: 6px; margin: 10px 0 0; padding: 0; list-style: none; }
+.chapters button {
+  width: 100%; aspect-ratio: 1.15; max-width: 100%; border: 1px solid var(--line); background: var(--surface); border-radius: 10px;
+  font: 600 15px/1 var(--sans); cursor: pointer; font-variant-numeric: tabular-nums;
+}
+.chapters button[aria-current="true"] { background: var(--lapis); color: var(--surface); border-color: var(--lapis); }
+.recent { display: flex; flex-wrap: wrap; gap: 6px; }
+.recent button { border: 1px solid var(--line); background: var(--surface); border-radius: 99px; padding: 6px 12px; font: 500 13px/1.2 var(--sans); cursor: pointer; }
+.group-label { margin: 16px 0 0; }
+.hint { font-size: 13px; color: var(--muted); margin: 6px 0 0; }
+
+/* Search */
+.results { list-style: none; margin: 10px 0 0; padding: 0; display: grid; gap: 2px; }
+.results button {
+  display: grid; gap: 2px; width: 100%; text-align: left; border: 0; background: transparent; border-radius: 10px; padding: 9px 10px; cursor: pointer;
+}
+.results button:hover { background: var(--lapis-soft); }
+.results .r { font: 600 13px/1.2 var(--sans); color: var(--lapis); }
+.results .s { font: 400 16px/1.45 var(--read); }
+.results mark { background: var(--hl-yellow); color: inherit; border-radius: 2px; padding: 0 1px; }
+.count { font-size: 13px; color: var(--muted); margin: 8px 0 0; }
+
+/* My notes */
+.mine { list-style: none; margin: 8px 0 0; padding: 0; display: grid; gap: 6px; }
+.mine button { display: grid; gap: 3px; width: 100%; text-align: left; border: 1px solid var(--line); background: var(--surface); border-radius: 10px; padding: 9px 12px; cursor: pointer; }
+.mine .r { display: flex; align-items: center; gap: 8px; font: 600 13px/1.2 var(--sans); }
+.mine .dot { width: 12px; height: 12px; border-radius: 50%; border: 1px solid var(--line); }
+.mine .n { font: 400 15px/1.45 var(--read); white-space: pre-wrap; }
+.empty { color: var(--muted); font-size: 14px; }
+
+/* Settings */
+.setting { display: grid; gap: 8px; padding: 12px 0; border-bottom: 1px solid var(--line); }
+.setting:last-child { border-bottom: 0; }
+.setting label, .setting .lbl { font: 600 14px/1.3 var(--sans); }
+.setting small { color: var(--muted); font-size: 13px; }
+.seg { display: flex; gap: 4px; flex-wrap: wrap; }
+.seg button { border: 1px solid var(--line); background: var(--surface); border-radius: 9px; padding: 8px 12px; font: 600 13px/1 var(--sans); cursor: pointer; }
+.seg button[aria-pressed="true"] { background: var(--lapis); color: var(--surface); border-color: var(--lapis); }
+input[type="range"] { width: 100%; accent-color: var(--lapis); }
+.prose { font: 400 15.5px/1.6 var(--sans); color: var(--ink); }
+.prose p { margin: 0 0 10px; max-width: 62ch; }
+.prose h3 { font: 600 15px/1.3 var(--sans); margin: 16px 0 6px; }
+.prose ul { margin: 0 0 10px; padding-left: 20px; }
+.menu { list-style: none; margin: 4px 0 0; padding: 0; display: grid; gap: 2px; }
+.menu a, .menu button {
+  display: flex; align-items: center; gap: 12px; width: 100%; text-align: left; border: 0; background: transparent;
+  padding: 11px 10px; border-radius: 10px; font: 500 15px/1.3 var(--sans); color: var(--ink); text-decoration: none; cursor: pointer;
+}
+.menu a:hover, .menu button:hover { background: var(--lapis-soft); }
+.menu small { display: block; color: var(--muted); font-size: 13px; font-weight: 400; }
+
+.toast {
+  position: fixed; z-index: 10; left: 50%; bottom: max(24px, env(safe-area-inset-bottom, 0px)); transform: translateX(-50%);
+  background: var(--ink); color: var(--bg); border-radius: 99px; padding: 10px 16px; font: 600 14px/1.2 var(--sans); box-shadow: var(--shadow);
+}
+@media (prefers-reduced-motion: reduce) { .v, .v.flash { transition: none; animation: none; } }
+@media print {
+  .appbar, .chapnav, .sheet, .scrim, .toast { display: none !important; }
+  main { padding: 0; max-width: none; }
+  .v[data-h] { background: none; }
+}
+</style>
+</head>
+<body>
+<header class="appbar">
+  <a class="brand" href="#" id="home">Plain English Bible</a>
+  <button class="btn where" id="where" type="button" aria-haspopup="dialog" aria-label="Choose a book and chapter">
+    <span id="where-label">…</span>
+    <svg class="chev" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><path d="m6 9 6 6 6-6"/></svg>
+  </button>
+  <span class="spacer"></span>
+  <button class="btn" id="open-search" type="button" aria-label="Search"><svg class="icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><circle cx="11" cy="11" r="7"/><path d="m20 20-3.5-3.5"/></svg></button>
+  <button class="btn" id="open-settings" type="button" aria-label="Text and display settings"><svg class="icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M4 19 9 5l5 14M5.8 14h6.4"/><path d="M15 19l3-8 3 8M15.9 16.6h4.2"/></svg></button>
+  <button class="btn" id="open-menu" type="button" aria-label="Menu"><svg class="icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M4 7h16M4 12h16M4 17h16"/></svg></button>
+</header>
+
+<main id="main">
+  <p class="loading" id="loading">Loading…</p>
+  <article id="chapter" hidden aria-live="polite">
+    <header class="chead">
+      <p class="eyebrow" id="book-name"></p>
+      <h1 id="chapter-number"></h1>
+      <div class="meta">
+        <button class="badge" id="status" type="button"></button>
+        <span class="src" id="src-line"></span>
+      </div>
+    </header>
+    <div class="text" id="text"></div>
+    <nav class="chapnav" aria-label="Chapters">
+      <button class="btn line" id="prev" type="button"></button>
+      <button class="btn line" id="next" type="button"></button>
+    </nav>
+  </article>
+</main>
+
+<div class="scrim" id="verse-scrim" hidden></div>
+<section class="sheet" id="verse" hidden aria-labelledby="verse-title">
+  <div class="grab"></div>
+  <div class="sheet-head">
+    <div style="flex:1;min-width:0">
+      <h2 id="verse-title"></h2>
+      <div class="sub" id="verse-sub"></div>
+    </div>
+    <button class="btn" type="button" data-close aria-label="Close"><svg class="icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M6 6l12 12M18 6 6 18"/></svg></button>
+  </div>
+  <div class="section">
+    <h3 id="orig-label">Original</h3>
+    <p class="original" id="orig"></p>
+    <p class="lang-note" id="orig-note"></p>
+  </div>
+  <div class="section">
+    <h3>Word by word</h3>
+    <ol class="inter" id="inter"></ol>
+    <div class="word" id="word" hidden></div>
+  </div>
+  <div class="section" id="vnotes-wrap" hidden>
+    <h3>Translation notes</h3>
+    <ul class="notes-list" id="vnotes"></ul>
+  </div>
+  <div class="section">
+    <h3>Highlight</h3>
+    <div class="swatches" id="swatches"></div>
+  </div>
+  <div class="section">
+    <h3><label for="note">My note</label></h3>
+    <textarea id="note" placeholder="Write a note on this verse. It's saved on this device."></textarea>
+  </div>
+  <div class="section actions">
+    <button class="btn line" type="button" id="copy-verse"><svg class="icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linejoin="round"><rect x="8" y="8" width="12" height="12" rx="2"/><path d="M16 8V5a1 1 0 0 0-1-1H5a1 1 0 0 0-1 1v10a1 1 0 0 0 1 1h3"/></svg>Copy verse</button>
+  </div>
+</section>
+
+<div class="scrim" id="scrim" hidden></div>
+<section class="sheet dialog" id="footnote" hidden aria-labelledby="fn-title">
+  <div class="grab"></div>
+  <div class="sheet-head"><h2 id="fn-title">Note</h2><button class="btn" type="button" data-close aria-label="Close"><svg class="icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M6 6l12 12M18 6 6 18"/></svg></button></div>
+  <p class="prose" id="fn-text" style="font-family:var(--read);font-size:17px"></p>
+</section>
+
+<section class="sheet dialog" id="picker" hidden aria-labelledby="picker-title">
+  <div class="grab"></div>
+  <div class="sheet-head"><h2 id="picker-title">Books</h2><button class="btn" type="button" data-close aria-label="Close"><svg class="icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M6 6l12 12M18 6 6 18"/></svg></button></div>
+  <label class="eyebrow" for="goto">Go to a passage</label>
+  <input type="text" id="goto" placeholder="For example: jn 3:16, ps 23, 1 cor 13" autocomplete="off" enterkeyhint="go" style="margin-top:6px">
+  <p class="hint" id="goto-hint"></p>
+  <div id="recent-wrap" class="group-label" hidden><p class="eyebrow" style="margin-bottom:6px">Recent</p><div class="recent" id="recent"></div></div>
+  <div id="chapters-wrap" hidden>
+    <p class="eyebrow group-label" id="chapters-label"></p>
+    <ol class="chapters" id="chapters"></ol>
+  </div>
+  <div class="group-label">
+    <div class="tabs" role="tablist" aria-label="Testament">
+      <button type="button" role="tab" id="tab-ot" aria-selected="true">Old Testament</button>
+      <button type="button" role="tab" id="tab-nt" aria-selected="false">New Testament</button>
+    </div>
+  </div>
+  <ol class="books" id="books"></ol>
+</section>
+
+<section class="sheet dialog" id="search" hidden aria-labelledby="search-title">
+  <div class="grab"></div>
+  <div class="sheet-head"><h2 id="search-title">Search the Bible</h2><button class="btn" type="button" data-close aria-label="Close"><svg class="icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M6 6l12 12M18 6 6 18"/></svg></button></div>
+  <input type="search" id="q" placeholder="Words or a reference" autocomplete="off" enterkeyhint="search" aria-label="Search">
+  <p class="count" id="q-count">Search every verse of the translation. Put a phrase in quotes to search for it exactly.</p>
+  <ol class="results" id="results"></ol>
+</section>
+
+<section class="sheet dialog" id="settings" hidden aria-labelledby="settings-title">
+  <div class="grab"></div>
+  <div class="sheet-head"><h2 id="settings-title">Display</h2><button class="btn" type="button" data-close aria-label="Close"><svg class="icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M6 6l12 12M18 6 6 18"/></svg></button></div>
+  <div class="setting">
+    <label for="size">Text size</label>
+    <input type="range" id="size" min="15" max="28" step="1">
+  </div>
+  <div class="setting">
+    <span class="lbl" id="theme-label">Theme</span>
+    <div class="seg" role="group" aria-labelledby="theme-label" id="theme">
+      <button type="button" data-v="system">Automatic</button><button type="button" data-v="light">Light</button><button type="button" data-v="dark">Dark</button>
+    </div>
+  </div>
+  <div class="setting">
+    <span class="lbl" id="numbering-label">Old Testament verse numbers</span>
+    <div class="seg" role="group" aria-labelledby="numbering-label" id="numbering">
+      <button type="button" data-v="hebrew">Hebrew</button><button type="button" data-v="english">English Bibles</button>
+    </div>
+    <small>The translation follows the Hebrew numbering, which differs from most English Bibles in about 1,970 verses, mostly in the Psalms, where the Hebrew counts the title as verse 1.</small>
+  </div>
+  <div class="setting">
+    <span class="lbl" id="notes-label">Translation notes</span>
+    <div class="seg" role="group" aria-labelledby="notes-label" id="shownotes">
+      <button type="button" data-v="on">Show markers</button><button type="button" data-v="off">Hide markers</button>
+    </div>
+  </div>
+</section>
+
+<section class="sheet dialog" id="menu" hidden aria-labelledby="menu-title">
+  <div class="grab"></div>
+  <div class="sheet-head"><h2 id="menu-title">Plain English Bible</h2><button class="btn" type="button" data-close aria-label="Close"><svg class="icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M6 6l12 12M18 6 6 18"/></svg></button></div>
+  <ul class="menu">
+    <li><button type="button" id="open-mine"><span>My highlights and notes<small>Saved on this device</small></span></button></li>
+    <li><button type="button" id="open-about"><span>About this translation<small>A first draft, awaiting review</small></span></button></li>
+    <li><a href="maps/kingdoms.html"><span>Map: The Kingdoms of Judah and Israel<small>Map No. 7, a style study</small></span></a></li>
+    <li><a href="genealogy.html"><span>The Generations<small>From Adam to Jesus, and every family</small></span></a></li>
+    <li><a href="history.html"><span>Streams of Time<small>World history beside the Bible</small></span></a></li>
+  </ul>
+</section>
+
+<section class="sheet dialog" id="mine" hidden aria-labelledby="mine-title">
+  <div class="grab"></div>
+  <div class="sheet-head"><h2 id="mine-title">My highlights and notes</h2><button class="btn" type="button" data-close aria-label="Close"><svg class="icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M6 6l12 12M18 6 6 18"/></svg></button></div>
+  <p class="hint">Saved in this browser only. Make a backup to keep them safe or to move them to another device. When accounts arrive, signing in will add these to your account.</p>
+  <div class="actions" style="margin-top:10px">
+    <button class="btn line" type="button" id="backup">Back up</button>
+    <button class="btn line" type="button" id="restore">Restore from a backup</button>
+  </div>
+  <div id="backup-box" hidden class="section">
+    <h3><label for="backup-text" id="backup-label">Backup</label></h3>
+    <textarea id="backup-text" spellcheck="false" style="font:400 12px/1.4 ui-monospace,Menlo,monospace;min-height:140px"></textarea>
+    <div class="actions" style="margin-top:8px">
+      <button class="btn solid" type="button" id="backup-copy">Copy</button>
+      <button class="btn line" type="button" id="backup-file" hidden>Save as a file</button>
+      <label class="btn line" id="restore-file-label" hidden>Open a file<input type="file" id="restore-file" accept="application/json,.json" hidden></label>
+      <button class="btn solid" type="button" id="restore-apply" hidden>Restore</button>
+    </div>
+  </div>
+  <ol class="mine" id="mine-list"></ol>
+</section>
+
+<section class="sheet dialog" id="about" hidden aria-labelledby="about-title">
+  <div class="grab"></div>
+  <div class="sheet-head"><h2 id="about-title">About this translation</h2><button class="btn" type="button" data-close aria-label="Close"><svg class="icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M6 6l12 12M18 6 6 18"/></svg></button></div>
+  <div class="prose">
+    <p><strong>Every chapter is a first draft.</strong> The Open Plain English Translation was drafted with the help of AI (Claude), from the Hebrew and Aramaic of the Leningrad Codex and the Greek of the SBL Greek New Testament. No chapter has been reviewed yet. Until a chapter is reviewed, it carries a <em>Draft</em> label.</p>
+    <h3>How a chapter is reviewed</h3>
+    <ul>
+      <li><strong>Draft:</strong> translated verse by verse from the Hebrew or Greek, with notes, and checked by computer against its source, so that no verse or note is missing.</li>
+      <li><strong>Checked:</strong> compared with the source and a lexicon for anything left out or added. Notes that cite ancient versions are verified against a critical edition.</li>
+      <li><strong>Reviewed:</strong> at least one reviewer who reads the original language has confirmed every verse, and is named.</li>
+      <li><strong>Approved:</strong> accepted for the published translation.</li>
+    </ul>
+    <h3>The aim</h3>
+    <p>Say what the original says, in natural modern English that a reader around 12 to 14 years old can follow. Where the original can be read more than one way, or the manuscripts differ, a note says so. God's personal name is written "Yahweh", where most English Bibles write "the LORD".</p>
+    <h3>Under each verse</h3>
+    <p>Tap a verse to see it in Hebrew, Aramaic or Greek, word by word. The words, glosses and grammar come from STEPBible's tagged texts (TAHOT and TAGNT), and the definitions from its brief lexicons (TBESH and TBESG). STEPBible's glosses are its own, not this translation's.</p>
+    <h3>Licenses</h3>
+    <p>Translation: CC BY 4.0. Hebrew: Unicode/XML Leningrad Codex (UXLC 2.6), Tanach.us. Greek: SBL Greek New Testament, © 2010 Society of Biblical Literature and Logos Bible Software, CC BY 4.0. Word data and lexicons: STEPBible.org, CC BY 4.0. Paragraphs follow the Masoretic paragraph marks and, in the New Testament, STEPBible's paragraph marks.</p>
+  </div>
+</section>
+
+<div class="toast" id="toast" role="status" hidden></div>
+
+<script>
+"use strict";
+/* ---------- Storage (this browser only) ---------- */
+const store = {
+  get(k, d) { try { const v = localStorage.getItem("pe." + k); return v == null ? d : JSON.parse(v); } catch (e) { return d; } },
+  set(k, v) { try { localStorage.setItem("pe." + k, JSON.stringify(v)); } catch (e) { /* storage unavailable */ } },
+};
+const settings = Object.assign({ size: 20, theme: "system", numbering: "hebrew", notes: "on" }, store.get("settings", {}));
+let notes = store.get("annotations", {});   // { "John.3.16": { h: "yellow", n: "text", t: 1730000000000 } }
+
+/* ---------- Data ---------- */
+const DATA = "data/bible/";
+const cache = new Map();
+function getJSON(path) {
+  if (!cache.has(path)) cache.set(path, fetch(DATA + path).then(r => { if (!r.ok) throw new Error(r.status + " " + path); return r.json(); })
+    .catch(e => { cache.delete(path); throw e; }));
+  return cache.get(path);
+}
+let BOOKS = [], bySlug = {}, byOsis = {};
+const $ = id => document.getElementById(id);
+const el = (tag, attrs = {}, ...kids) => {
+  const e = document.createElement(tag);
+  for (const k in attrs) {
+    if (k === "class") e.className = attrs[k];
+    else if (k === "text") e.textContent = attrs[k];
+    else if (k.startsWith("on")) e.addEventListener(k.slice(2), attrs[k]);
+    else if (attrs[k] != null && attrs[k] !== false) e.setAttribute(k, attrs[k]);
+  }
+  for (const c of kids) if (c != null) e.append(c);
+  return e;
+};
+
+/* ---------- References ---------- */
+const hashSlug = b => b.n.toLowerCase().replace(/ /g, "-");
+const ABBR = {
+  Gen: "gn ge", Exod: "ex exo", Lev: "lv le", Num: "nm nu nb", Deut: "dt de deu", Josh: "jos jsh", Judg: "jdg jg jdgs",
+  Ruth: "rt ru rth", "1Sam": "1sa 1sm 1 sa", "2Sam": "2sa 2sm", "1Kgs": "1ki 1kg 1kgs 1 kings", "2Kgs": "2ki 2kg 2kgs",
+  "1Chr": "1ch 1chr", "2Chr": "2ch 2chr", Ezra: "ezr", Neh: "ne", Esth: "est es", Job: "jb", Ps: "ps psa pss psalm psm",
+  Prov: "pr prv pro", Eccl: "ec ecc eccl qoh", Song: "sos sng song cant ss", Isa: "is", Jer: "jr je", Lam: "la lm",
+  Ezek: "ezk eze", Dan: "dn da", Hos: "ho", Joel: "jl", Amos: "am", Obad: "ob oba", Jonah: "jon jnh", Mic: "mi mc",
+  Nah: "na", Hab: "hb", Zeph: "zep zp", Hag: "hg", Zech: "zec zc", Mal: "ml",
+  Matt: "mt mat", Mark: "mk mr mrk", Luke: "lk lu luk", John: "jn jhn joh", Acts: "ac act", Rom: "ro rm",
+  "1Cor": "1co", "2Cor": "2co", Gal: "ga", Eph: "ep", Phil: "php pp phi", Col: "co", "1Thess": "1th 1ts",
+  "2Thess": "2th 2ts", "1Tim": "1ti 1tm", "2Tim": "2ti 2tm", Titus: "tit ti", Phlm: "phm pm philem", Heb: "he",
+  Jas: "jm ja jam", "1Pet": "1pe 1pt 1p", "2Pet": "2pe 2pt 2p", "1John": "1jn 1jo 1j", "2John": "2jn 2jo",
+  "3John": "3jn 3jo", Jude: "jud jd", Rev: "re rv rev apoc",
+};
+let aliases = [];
+function buildAliases() {
+  for (const b of BOOKS) {
+    const forms = new Set([b.n.toLowerCase(), b.n.toLowerCase().replace(/\s+/g, ""), b.osis.toLowerCase(), hashSlug(b)]);
+    (ABBR[b.osis] || "").split(" ").filter(Boolean).forEach(a => { forms.add(a); forms.add(a.replace(/\s+/g, "")); });
+    if (b.osis === "Ps") forms.add("psalms");
+    if (b.osis === "Song") { forms.add("song of solomon"); forms.add("canticles"); }
+    for (const f of forms) aliases.push([f.replace(/\s+/g, ""), b]);
+  }
+}
+function findBook(s) {
+  let q = s.toLowerCase().replace(/\./g, "").replace(/^(first|i)\s+/, "1").replace(/^(second|ii)\s+/, "2").replace(/^(third|iii)\s+/, "3").replace(/\s+/g, "");
+  if (!q) return null;
+  const exact = aliases.find(([a]) => a === q);
+  if (exact) return exact[1];
+  const starts = aliases.filter(([a]) => a.startsWith(q));
+  if (!starts.length) return null;
+  starts.sort((x, y) => BOOKS.indexOf(x[1]) - BOOKS.indexOf(y[1]));
+  return starts[0][1];
+}
+function parseRef(text) {
+  const m = text.trim().match(/^((?:[123]|i{1,3})?\s*[a-z][a-z .]*?)\s*(\d+)?(?:\s*[:. ]\s*(\d+))?\s*$/i);
+  if (!m) return null;
+  const b = findBook(m[1]);
+  if (!b) return null;
+  let c = m[2] ? +m[2] : 1, v = m[3] ? +m[3] : null;
+  if (b.s.length === 1 && m[2] && !m[3]) { v = c; c = 1; }   // "jude 3" is verse 3
+  if (c < 1 || c > b.s.length) return null;
+  return { b, c, v };
+}
+function refHash(b, c, v) { return "#" + hashSlug(b) + "-" + c + (v ? "-" + v : ""); }
+function parseHash() {
+  const m = decodeURIComponent(location.hash.slice(1)).match(/^(.+?)-(\d+)(?:-(\d+))?$/);
+  if (!m) return null;
+  const b = BOOKS.find(x => hashSlug(x) === m[1]);
+  if (!b || +m[2] < 1 || +m[2] > b.s.length) return null;
+  return { b, c: +m[2], v: m[3] ? +m[3] : null };
+}
+
+/* ---------- The chapter ---------- */
+let cur = null;           // { b, c, data, chapter }
+const STATUS_LABEL = { draft: "Draft · not yet reviewed", checked: "Checked", reviewed: "Reviewed", approved: "Approved" };
+function inline(text, noteLetters) {
+  // Our markup: *italic*, and [^label] note markers.
+  const frag = document.createDocumentFragment();
+  const re = /\*([^*]+)\*|\[\^(\w+)\]/g;
+  let last = 0, m;
+  while ((m = re.exec(text))) {
+    if (m.index > last) frag.append(text.slice(last, m.index));
+    if (m[1] != null) frag.append(el("i", { text: m[1] }));
+    else if (noteLetters && settings.notes === "on") frag.append(el("button", { class: "fn", type: "button", "data-n": m[2], "aria-label": "Note " + noteLetters[m[2]], text: noteLetters[m[2]] }));
+    last = re.lastIndex;
+  }
+  if (last < text.length) frag.append(text.slice(last));
+  return frag;
+}
+const letter = i => { let s = ""; i++; while (i > 0) { const r = (i - 1) % 26; s = String.fromCharCode(97 + r) + s; i = Math.floor((i - 1) / 26); } return s; };
+function verseLabel(b, c, row) {
+  const e = row[3] && row[3].e;
+  if (settings.numbering === "english" && b.t === "OT" && e) {
+    const [ec, ev] = e.split(":").map(Number);
+    if (ev === 0) return { text: "title", title: true };
+    return { text: ec !== c ? `${ec}:${ev}` : String(ev) };
+  }
+  return { text: String(row[0]) };
+}
+async function show(b, c, v, opts = {}) {
+  $("loading").hidden = false;
+  let data;
+  try { data = await getJSON("text/" + b.slug + ".json"); }
+  catch (e) { $("loading").textContent = "This chapter couldn't be loaded. Check your connection and try again."; return; }
+  const chapter = data.chapters[c - 1];
+  cur = { b, c, data, chapter };
+  closeVerse();
+  $("loading").hidden = true;
+  $("chapter").hidden = false;
+  $("book-name").textContent = b.n;
+  $("chapter-number").textContent = (b.osis === "Ps" ? "Psalm " : "") + c;
+  $("where-label").textContent = (b.osis === "Ps" ? "Psalm" : b.n) + " " + c;
+  document.title = `${b.osis === "Ps" ? "Psalm" : b.n} ${c} · Plain English Bible`;
+  const st = chapter.s || "draft";
+  $("status").className = "badge " + st;
+  $("status").textContent = STATUS_LABEL[st] || st;
+  $("src-line").textContent = b.t === "NT" ? "From the Greek" : allAramaic(b, c) ? "From the Aramaic" : hasAramaic(b, c) ? "From the Hebrew and Aramaic" : "From the Hebrew";
+  // Notes are lettered in order of first use.
+  const letters = {};
+  let k = 0;
+  for (const row of chapter.v) if (row[1]) for (const m of row[1].matchAll(/\[\^(\w+)\]/g)) if (!(m[1] in letters)) letters[m[1]] = letter(k++);
+  cur.letters = letters;
+  const text = $("text");
+  text.textContent = "";
+  text.classList.toggle("poetry", isPoetry(b, c));
+  let p = el("p");
+  for (const row of chapter.v) {
+    const [n, en] = row;
+    const lab = verseLabel(b, c, row);
+    const id = `${b.osis}.${c}.${n}`;
+    const span = el("span", { class: "v", "data-v": n, id: "v" + n, tabindex: "0", role: "button", "aria-label": `Verse ${lab.text}` },
+      el("sup", { class: "vn" + (lab.title ? " title" : ""), text: lab.text }));
+    if (en) span.append(inline(en, letters));
+    else span.append(el("span", { class: "missing", text: "(No verse here in the critical editions; see the note.)" }));
+    span.append(" ");
+    const a = notes[id];
+    if (a && a.h) span.dataset.h = a.h;
+    if (a && a.n) span.classList.add("has-note");
+    p.append(span);
+    if (row[3] && row[3].p) { text.append(p); p = el("p"); }
+  }
+  if (p.childNodes.length) text.append(p);
+  // Chapter navigation.
+  const idx = BOOKS.indexOf(b);
+  const prev = c > 1 ? [b, c - 1] : idx > 0 ? [BOOKS[idx - 1], BOOKS[idx - 1].s.length] : null;
+  const next = c < b.s.length ? [b, c + 1] : idx < BOOKS.length - 1 ? [BOOKS[idx + 1], 1] : null;
+  const name = (bk, ch) => (bk.osis === "Ps" ? "Psalm" : bk.n) + " " + ch;
+  $("prev").hidden = !prev; $("next").hidden = !next;
+  if (prev) { $("prev").textContent = "← " + name(...prev); $("prev").onclick = () => go(...prev); }
+  if (next) { $("next").textContent = name(...next) + " →"; $("next").onclick = () => go(...next); }
+  cur.prev = prev; cur.next = next;
+  // Remember.
+  store.set("last", { s: b.slug, c });
+  const recent = store.get("recent", []).filter(r => !(r.s === b.slug && r.c === c));
+  recent.unshift({ s: b.slug, c });
+  store.set("recent", recent.slice(0, 8));
+  if (v) {
+    const target = $("v" + v);
+    if (target) {
+      requestAnimationFrame(() => {
+        const y = target.getBoundingClientRect().top + scrollY - 90;
+        scrollTo({ top: Math.max(0, y), behavior: "instant" in document.documentElement.style ? "instant" : "auto" });
+        target.classList.add("flash");
+        setTimeout(() => target.classList.remove("flash"), 1700);
+      });
+    }
+  } else if (!opts.keepScroll) scrollTo(0, 0);
+  if (st === "draft" && !store.get("seenDraft", false)) {
+    store.set("seenDraft", true);
+    toast("This translation is a first draft. Tap the Draft label to learn more.", 5200);
+  }
+  // Fetch the next book's text in the background, so turning the page is instant.
+  if (next) getJSON("text/" + next[0].slug + ".json").catch(() => {});
+}
+// Books and passages set as poetry, a verse to a line.
+function isPoetry(b, c) {
+  return ["Ps", "Prov", "Song", "Lam"].includes(b.osis) || (b.osis === "Job" && c >= 3 && c <= 41);
+}
+// Daniel 2:4b-7:28, Ezra 4:8-6:18 and 7:12-26, Jeremiah 10:11.
+function allAramaic(b, c) {
+  return (b.osis === "Dan" && c >= 3 && c <= 7) || (b.osis === "Ezra" && (c === 5 || c === 6));
+}
+function hasAramaic(b, c) {
+  return (b.osis === "Dan" && c >= 2 && c <= 7) || (b.osis === "Ezra" && ((c >= 4 && c <= 6) || c === 7)) || (b.osis === "Jer" && c === 10);
+}
+function go(b, c, v) {
+  const h = refHash(b, c, v);
+  if (location.hash === h) show(b, c, v); else location.hash = h;
+}
+
+/* ---------- A verse ---------- */
+let selected = null;
+const HL = ["yellow", "green", "blue", "pink", "orange"];
+function openSheet(id) {
+  for (const s of document.querySelectorAll(".sheet.dialog")) if (s.id !== id) s.hidden = true;
+  $(id).hidden = false;
+  $("scrim").hidden = false;
+  const f = $(id).querySelector("input, textarea");
+  if (f && matchMedia("(pointer: fine)").matches) setTimeout(() => f.focus(), 30);
+}
+function closeSheets() {
+  for (const s of document.querySelectorAll(".sheet.dialog")) s.hidden = true;
+  $("scrim").hidden = true;
+}
+function closeVerse() {
+  $("verse").hidden = true; $("verse-scrim").hidden = true;
+  document.body.classList.remove("panel-open");
+  if (selected) selected.classList.remove("sel");
+  selected = null;
+}
+function tokensOf(src, ot) {
+  // Split the source verse as scripts/reader.py does, so the words line up.
+  const out = [];
+  if (ot) {
+    for (const tok of src.split(/\s+/)) {
+      if (!tok || ["׀", "פ", "ס", "׆"].includes(tok)) continue;
+      for (let part of tok.match(/[^־]+־?/g) || []) {
+        const kind = part.startsWith("**") ? "q" : part.startsWith("*") ? "k" : "";
+        part = part.replace(/^\*+/, "");
+        if (/[א-ת]/.test(part)) out.push({ s: part, kind });
+      }
+    }
+  } else {
+    for (const tok of src.split(/\s+/)) {
+      const n = tok.normalize("NFD").toLowerCase();
+      if ([...n].some(ch => (ch >= "α" && ch <= "ω") || ch === "ς")) out.push({ s: tok, kind: "" });
+    }
+  }
+  return out;
+}
+function renderOriginal(src, ot) {
+  const p = $("orig");
+  p.textContent = "";
+  if (!ot) { p.textContent = src; return; }
+  for (const tok of src.split(" ")) {
+    if (tok.startsWith("**")) p.append(el("span", { title: "Read (qere)", text: tok.slice(2) }), " ");
+    else if (tok.startsWith("*")) p.append(el("span", { class: "ketiv", title: "Written (ketiv)", text: tok.slice(1) }), " ");
+    else p.append(tok + " ");
+  }
+}
+async function openVerse(span) {
+  if (!cur) return;
+  const n = +span.dataset.v;
+  const row = cur.chapter.v.find(r => r[0] === n);
+  if (!row) return;
+  if (selected) selected.classList.remove("sel");
+  selected = span; span.classList.add("sel");
+  const { b, c } = cur;
+  const ot = b.t === "OT";
+  const bookName = b.osis === "Ps" ? "Psalm" : b.n;
+  $("verse-title").textContent = `${bookName} ${c}:${n}`;
+  const e = row[3] && row[3].e;
+  if (ot && e) {
+    const [ec, ev] = e.split(":").map(Number);
+    $("verse-sub").textContent = ev === 0 ? "The title; most English Bibles don't number it" : `${bookName} ${ec}:${ev} in most English Bibles`;
+  } else $("verse-sub").textContent = "";
+  const aramaic = hasAramaic(b, c);
+  $("orig").setAttribute("lang", ot ? "he" : "grc");
+  $("orig-label").textContent = ot ? "Hebrew" : "Greek";
+  renderOriginal(row[2], ot);
+  $("orig-note").textContent = ot ? (/\*/.test(row[2]) ? "Small grey words are written in the text but read as the word after them (ketiv and qere)." : "") : "";
+  // Notes in this verse.
+  const list = $("vnotes"); list.textContent = "";
+  const labels = row[1] ? [...row[1].matchAll(/\[\^(\w+)\]/g)].map(m => m[1]) : [];
+  for (const lab of labels) {
+    const li = el("li", {}, el("span", { class: "mk", text: cur.letters[lab] }));
+    li.append(inline(cur.chapter.n[lab] || "", null));
+    list.append(li);
+  }
+  $("vnotes-wrap").hidden = !labels.length;
+  // Highlight and note.
+  const id = `${b.osis}.${c}.${n}`;
+  const a = notes[id] || {};
+  const sw = $("swatches"); sw.textContent = "";
+  for (const h of HL) sw.append(el("button", { class: "swatch", type: "button", style: `background:var(--hl-${h})`, "aria-label": "Highlight " + h, "aria-pressed": String(a.h === h), onclick: () => setHighlight(id, span, h) }));
+  sw.append(el("button", { class: "swatch none", type: "button", "aria-label": "No highlight", "aria-pressed": String(!a.h), onclick: () => setHighlight(id, span, null) }));
+  $("note").value = a.n || "";
+  $("note").oninput = () => { setNote(id, span, $("note").value); };
+  $("copy-verse").onclick = () => copyVerse(row);
+  // Words.
+  $("word").hidden = true;
+  const inter = $("inter");
+  inter.textContent = "";
+  inter.dir = ot ? "rtl" : "ltr";
+  inter.append(el("li", { class: "hint", text: "Loading words…" }));
+  $("verse").hidden = false;
+  if (innerWidth < 1100) $("verse-scrim").hidden = false;
+  document.body.classList.add("panel-open");
+  $("verse").scrollTop = 0;
+  if (innerWidth < 1100) {
+    // Keep the verse in view above the sheet.
+    // Keep the verse's start just under the bar, above the sheet.
+    const r = span.getBoundingClientRect(), top = 64;
+    if (r.top > innerHeight * 0.3 || r.top < top) scrollBy({ top: r.top - top, behavior: "smooth" });
+  }
+  let words = [];
+  try {
+    const wd = await getJSON("words/" + b.slug + ".json");
+    const str = wd.chapters[c - 1].w[n] || "";
+    words = str ? str.split("¦") : [];
+  } catch (e) {
+    inter.textContent = "";
+    inter.append(el("li", { class: "hint", text: "The words couldn't be loaded. Check your connection." }));
+    return;
+  }
+  if (selected !== span) return;
+  inter.textContent = "";
+  const toks = tokensOf(row[2], ot);
+  toks.forEach((t, i) => {
+    const f = (words[i] || "").split("|");
+    const [tr, gloss, strongs, morph] = f;
+    if (morph === "ketiv") {
+      inter.append(el("li", {}, el("button", { class: "w none", type: "button", disabled: true, title: "Written in the text, but read as the next word" },
+        el("span", { class: "o", text: t.s }), el("span", { class: "t", text: "written form" }), el("span", { class: "g", text: "read as next →" }))));
+      return;
+    }
+    const btn = el("button", { class: "w" + (strongs ? "" : " none"), type: "button", "aria-pressed": "false" },
+      el("span", { class: "o", text: t.s.replace(/[׃־]$/, "") }),
+      el("span", { class: "t", text: tr || " " }),
+      el("span", { class: "g", text: gloss || " " }));
+    if (strongs) btn.onclick = () => {
+      for (const o of inter.querySelectorAll(".w")) o.setAttribute("aria-pressed", "false");
+      btn.setAttribute("aria-pressed", "true");
+      showWord(t.s, f, ot, aramaic || (morph || "").startsWith("A"));
+    };
+    inter.append(el("li", {}, btn));
+  });
+  $("orig-label").textContent = ot ? (aramaic && words.some(w => (w.split("|")[3] || "").startsWith("A")) ? "Aramaic" : "Hebrew") : "Greek";
+  if (!toks.length) inter.append(el("li", { class: "hint", text: "No words for this verse." }));
+}
+function setHighlight(id, span, h) {
+  const a = notes[id] || {};
+  if (h) a.h = h; else delete a.h;
+  saveAnnotation(id, a);
+  if (h) span.dataset.h = h; else delete span.dataset.h;
+  for (const s of $("swatches").children) s.setAttribute("aria-pressed", String(h ? s.getAttribute("aria-label") === "Highlight " + h : s.classList.contains("none")));
+}
+let noteTimer = 0;
+function setNote(id, span, text) {
+  clearTimeout(noteTimer);
+  noteTimer = setTimeout(() => {
+    const a = notes[id] || {};
+    if (text.trim()) a.n = text; else delete a.n;
+    saveAnnotation(id, a);
+    span.classList.toggle("has-note", !!a.n);
+  }, 300);
+}
+function saveAnnotation(id, a) {
+  if (a.h || a.n) { a.t = Date.now(); notes[id] = a; } else delete notes[id];
+  store.set("annotations", notes);
+}
+function plainVerse(text) { return (text || "").replace(/\[\^\w+\]/g, "").replace(/\*/g, ""); }
+function copyVerse(row) {
+  const { b, c } = cur;
+  const s = `“${plainVerse(row[1])}” (${b.osis === "Ps" ? "Psalm" : b.n} ${c}:${row[0]}, Open Plain English Translation, draft)`;
+  const done = () => toast("Copied");
+  if (navigator.clipboard) navigator.clipboard.writeText(s).then(done).catch(() => fallbackCopy(s, done));
+  else fallbackCopy(s, done);
+}
+function fallbackCopy(s, done) {
+  const t = el("textarea", { style: "position:fixed;opacity:0" }); t.value = s; document.body.append(t); t.select();
+  try { document.execCommand("copy"); done(); } catch (e) { toast("Select the text to copy it"); }
+  t.remove();
+}
+
+/* ---------- A word ---------- */
+const lexCache = {};
+async function lexEntry(strong, ot) {
+  const m = strong.match(/^(\d+)/);
+  if (!m) return null;
+  const file = (ot ? "h" : "g") + String(Math.floor(+m[1] / 1000)).padStart(2, "0");
+  try { lexCache[file] = lexCache[file] || await getJSON("lexicon/" + file + ".json"); } catch (e) { return null; }
+  return lexCache[file][strong] || null;
+}
+async function showWord(surface, f, ot, aramaic) {
+  const [tr, gloss, strongs, morph, mainIdx] = f;
+  const parts = strongs.split("/");
+  const morphs = (morph || "").split("/");
+  const main = mainIdx != null && mainIdx !== "" ? +mainIdx : parts.length - 1;
+  const box = $("word");
+  box.hidden = false;
+  box.textContent = "Loading…";
+  const entries = await Promise.all(parts.map(p => lexEntry(p, ot)));
+  const lex = entries[main];
+  box.textContent = "";
+  const lemma = el("div", { class: "lemma" });
+  lemma.append(el("b", { lang: ot ? "he" : "grc", text: lex ? lex[0].replace(/^\//, "") : surface }));
+  if (lex) lemma.append(el("i", { text: lex[1] }), el("span", { class: "gl", text: lex[3] }));
+  box.append(lemma);
+  const dl = el("dl");
+  const row = (k, v) => dl.append(el("dt", { text: k }), el("dd", {}, v));
+  row("In this verse", `${surface.replace(/[׃־]$/, "")}${tr ? " (" + tr + ")" : ""}: “${gloss}”`);
+  if (ot && /^[HA]/.test(morphs[0] || "")) { aramaic = morphs[0][0] === "A"; morphs[0] = morphs[0].slice(1); }
+  row("Grammar", ot ? morphs.map(m => describeHebrew(m, aramaic)).filter(Boolean).join(" + ") : describeGreek(morph));
+  if (parts.length > 1) row("Made of", parts.map((p, i) => entries[i] ? `${entries[i][0].replace(/^\//, "")} “${entries[i][3]}”` : p).join(" + "));
+  row("Strong's", parts.map(p => (ot ? "H" : "G") + p).join(" + "));
+  box.append(dl);
+  if (lex && lex[4]) box.append(el("div", { class: "def" }, richDef(lex[4])));
+  box.append(el("div", { class: "credit", text: ot ? "Lexicon: STEPBible TBESH (abridged BDB), CC BY 4.0" : "Lexicon: STEPBible TBESG (Abbott-Smith), CC BY 4.0" }));
+  if (innerWidth < 1100) box.scrollIntoView({ block: "nearest", behavior: "smooth" });
+}
+function richDef(text) {
+  const frag = document.createDocumentFragment();
+  const re = /\*\*(.+?)\*\*|_(.+?)_|\[\[([^|\]]+)\|([^\]]+)\]\]/g;
+  let last = 0, m;
+  while ((m = re.exec(text))) {
+    if (m.index > last) frag.append(text.slice(last, m.index));
+    if (m[1] != null) frag.append(el("b", { text: m[1] }));
+    else if (m[2] != null) frag.append(el("i", { text: m[2] }));
+    else {
+      const [slug, c, v] = m[3].split(".");
+      const b = BOOKS.find(x => x.slug === slug);
+      frag.append(b ? el("a", { href: refHash(b, +c, +v), text: m[4] }) : m[4]);
+    }
+    last = re.lastIndex;
+  }
+  if (last < text.length) frag.append(text.slice(last));
+  return frag;
+}
+/* Hebrew and Aramaic grammar codes (Open Scriptures Hebrew Bible morphology). */
+const H = {
+  pos: { A: "adjective", C: "conjunction", c: "conjunction", D: "adverb", N: "noun", P: "pronoun", R: "preposition", S: "suffix", T: "particle", V: "verb" },
+  stemH: { q: "qal", N: "niphal", p: "piel", P: "pual", h: "hiphil", H: "hophal", t: "hithpael", o: "polel", O: "polal", r: "hithpolel", m: "poel", M: "poal", k: "palel", K: "pulal", Q: "qal passive", l: "pilpel", L: "polpal", f: "hithpalpel", D: "nithpael", j: "pealal", i: "pilel", u: "hothpaal", c: "tiphil", v: "hishtaphel", w: "nithpalel", y: "nithpoel", z: "hithpoel" },
+  stemA: { q: "peal", Q: "peil", u: "hithpeel", p: "pael", P: "ithpaal", M: "hithpaal", a: "aphel", h: "haphel", s: "saphel", e: "shaphel", H: "hophal", i: "ithpeel", t: "hishtaphel", v: "ishtaphel", w: "hithaphel", o: "polel", z: "ithpoel", r: "hithpolel", f: "hithpalpel", b: "hephal", c: "tiphel", m: "poel", l: "palpel", L: "ithpalpel", O: "ithpolel", G: "ittaphal" },
+  verb: { p: "perfect", q: "perfect with waw", i: "imperfect", w: "imperfect with waw", h: "cohortative", j: "jussive", v: "imperative", r: "active participle", s: "passive participle", a: "infinitive absolute", c: "infinitive construct" },
+  person: { 1: "1st person", 2: "2nd person", 3: "3rd person" },
+  gender: { m: "masculine", f: "feminine", b: "both genders", c: "common" },
+  number: { s: "singular", p: "plural", d: "dual" },
+  state: { a: "absolute", c: "construct", d: "determined" },
+  noun: { c: "", g: "gentilic", p: "proper name", x: "" },
+  proper: { m: "of a man", f: "of a woman", l: "of a place", t: "title" },
+  adj: { a: "", c: "cardinal number", g: "gentilic", o: "ordinal number" },
+  pron: { d: "demonstrative", f: "indefinite", i: "interrogative", p: "personal", r: "relative" },
+  suffix: { d: "directional", h: "paragogic he", n: "paragogic nun", p: "pronominal" },
+  particle: { a: "affirmation", d: "definite article", e: "exhortation", i: "interrogative", j: "interjection", m: "demonstrative", n: "negative", o: "object marker", r: "relative" },
+};
+function describeHebrew(code, aramaic) {
+  // One morpheme's code, without the H or A that marks the language.
+  if (!code) return "";
+  const p = code[0], rest = code.slice(1).split("");
+  const out = [];
+  const pn = (s) => { const r = []; for (const ch of s) { if (H.person[ch]) r.push(H.person[ch]); else if (H.gender[ch]) r.push(H.gender[ch]); else if (H.number[ch]) r.push(H.number[ch]); } return r; };
+  if (p === "V") {
+    out.push((aramaic ? H.stemA : H.stemH)[rest[0]] || "", H.verb[rest[1]] || "");
+    const tail = rest.slice(2);
+    if (rest[1] === "r" || rest[1] === "s") { out.push(...[H.gender[tail[0]], H.number[tail[1]], H.state[tail[2]]].filter(Boolean)); }
+    else out.push(...pn(tail));
+    return "verb, " + out.filter(Boolean).join(" ");
+  }
+  if (p === "N") {
+    const t = rest[0];
+    if (t === "p") return "proper name" + (H.proper[rest[1]] ? " " + H.proper[rest[1]] : "");
+    out.push(H.noun[t] || "", H.gender[rest[1]], H.number[rest[2]], H.state[rest[3]]);
+    return "noun, " + out.filter(Boolean).join(" ");
+  }
+  if (p === "A") { out.push(H.adj[rest[0]] || "", H.gender[rest[1]], H.number[rest[2]], H.state[rest[3]]); return "adjective, " + out.filter(Boolean).join(" "); }
+  if (p === "P") { out.push(H.pron[rest[0]] || "", ...pn(rest.slice(1))); return "pronoun, " + out.filter(Boolean).join(" "); }
+  if (p === "S") { out.push(H.suffix[rest[0]] || "", ...pn(rest.slice(1))); return "suffix, " + out.filter(Boolean).join(" "); }
+  if (p === "T") return H.particle[rest[0]] || "particle";
+  if (p === "R") return rest[0] === "d" ? "preposition with the article" : "preposition";
+  return H.pos[p] || code;
+}
+/* Greek grammar codes (Robinson). */
+const G = {
+  pos: { N: "noun", A: "adjective", T: "article", V: "verb", P: "personal pronoun", R: "relative pronoun", C: "reciprocal pronoun", D: "demonstrative pronoun", K: "correlative pronoun", I: "interrogative pronoun", X: "indefinite pronoun", Q: "correlative pronoun", F: "reflexive pronoun", S: "possessive pronoun" },
+  words: { PREP: "preposition", CONJ: "conjunction", ADV: "adverb", PRT: "particle", INJ: "interjection", HEB: "Hebrew word", ARAM: "Aramaic word", COND: "conditional", "ADV-N": "adverb, negative", "PRT-N": "particle, negative", "PRT-I": "particle, interrogative", "CONJ-N": "conjunction, negative", "ADV-I": "adverb, interrogative", "ADV-C": "adverb, comparative", "ADV-S": "adverb, superlative" },
+  tense: { P: "present", I: "imperfect", F: "future", A: "aorist", R: "perfect", L: "pluperfect", "2A": "second aorist", "2R": "second perfect", "2F": "second future", "2L": "second pluperfect" },
+  voice: { A: "active", M: "middle", P: "passive", D: "middle", O: "passive", N: "middle or passive", E: "middle or passive", Q: "", X: "" },
+  mood: { I: "indicative", S: "subjunctive", O: "optative", M: "imperative", N: "infinitive", P: "participle", R: "participle (imperative sense)" },
+  case: { N: "nominative", G: "genitive", D: "dative", A: "accusative", V: "vocative" },
+  num: { S: "singular", P: "plural" },
+  gen: { M: "masculine", F: "feminine", N: "neuter" },
+  suffix: { P: "proper name", T: "title", L: "place", G: "gentilic", C: "contracted", K: "crasis", N: "negative", I: "interrogative", S: "superlative", ATT: "Attic form", ABB: "abbreviated", LI: "letter", NUI: "indeclinable number", PG: "person (gentilic)", OI: "" },
+};
+function describeGreek(code) {
+  if (!code) return "";
+  if (G.words[code]) return G.words[code];
+  const [head, ...parts] = code.split("-");
+  if (G.words[head] && !parts.length) return G.words[head];
+  if (head === "V") {
+    const m = (parts[0] || "").match(/^(2?[PIFARL])([AMPDONEQX]?)([ISOMNPR])$/);
+    const out = [];
+    if (m) out.push(G.tense[m[1]], G.voice[m[2]], G.mood[m[3]]);
+    const pn = parts[1] || "";
+    if (/^[123][SP]$/.test(pn)) out.push({ 1: "1st person", 2: "2nd person", 3: "3rd person" }[pn[0]], G.num[pn[1]]);
+    else if (/^[NGDAV][SP][MFN]$/.test(pn)) out.push(G.case[pn[0]], G.num[pn[1]], G.gen[pn[2]]);
+    return "verb, " + out.filter(Boolean).join(" ");
+  }
+  const out = [];
+  const pos = G.pos[head] || head;
+  let cng = parts[0] || "";
+  if (/^[123]/.test(cng)) { out.push({ 1: "1st person", 2: "2nd person", 3: "3rd person" }[cng[0]]); cng = cng.slice(1); }
+  if (/^[NGDAV][SP][MFN]?$/.test(cng)) out.push(G.case[cng[0]], G.num[cng[1]], G.gen[cng[2]]);
+  else if (/^[NGDAV][SP]$/.test(cng)) out.push(G.case[cng[0]], G.num[cng[1]]);
+  for (const s of parts.slice(1)) if (G.suffix[s]) out.push(G.suffix[s]);
+  return pos + (out.filter(Boolean).length ? ", " + out.filter(Boolean).join(" ") : "");
+}
+
+/* ---------- Picker ---------- */
+let pickerTestament = "OT", pickerBook = null;
+function openPicker() {
+  pickerBook = cur ? cur.b : null;
+  pickerTestament = cur ? cur.b.t : "OT";
+  renderPicker();
+  $("goto").value = ""; $("goto-hint").textContent = "";
+  const recent = store.get("recent", []).filter(r => bySlug[r.s]);
+  $("recent-wrap").hidden = recent.length < 2;
+  $("recent").textContent = "";
+  for (const r of recent) {
+    const b = bySlug[r.s];
+    $("recent").append(el("button", { type: "button", text: (b.osis === "Ps" ? "Psalm" : b.n) + " " + r.c, onclick: () => { closeSheets(); go(b, r.c); } }));
+  }
+  openSheet("picker");
+}
+function renderPicker() {
+  $("tab-ot").setAttribute("aria-selected", String(pickerTestament === "OT"));
+  $("tab-nt").setAttribute("aria-selected", String(pickerTestament === "NT"));
+  const list = $("books"); list.textContent = "";
+  for (const b of BOOKS.filter(x => x.t === pickerTestament)) {
+    list.append(el("li", {}, el("button", { type: "button", "aria-current": String(pickerBook === b), text: b.n, onclick: () => { pickerBook = b; renderPicker(); if (b.s.length === 1) { closeSheets(); go(b, 1); } else $("chapters-wrap").scrollIntoView({ block: "start", behavior: "smooth" }); } })));
+  }
+  const wrap = $("chapters-wrap");
+  wrap.hidden = !pickerBook || pickerBook.s.length === 1;
+  if (!wrap.hidden) {
+    $("chapters-label").textContent = pickerBook.osis === "Ps" ? "Psalms" : pickerBook.n + " · chapters";
+    const ch = $("chapters"); ch.textContent = "";
+    pickerBook.s.forEach((st, i) => ch.append(el("li", {}, el("button", { type: "button", "aria-current": String(cur && cur.b === pickerBook && cur.c === i + 1), text: i + 1, onclick: () => { closeSheets(); go(pickerBook, i + 1); } }))));
+  }
+}
+$("tab-ot").onclick = () => { pickerTestament = "OT"; renderPicker(); };
+$("tab-nt").onclick = () => { pickerTestament = "NT"; renderPicker(); };
+$("goto").addEventListener("input", () => {
+  const r = parseRef($("goto").value);
+  $("goto-hint").textContent = $("goto").value.trim() ? (r ? `Press Enter for ${(r.b.osis === "Ps" ? "Psalm" : r.b.n)} ${r.c}${r.v ? ":" + r.v : ""}` : "No book by that name") : "";
+});
+$("goto").addEventListener("keydown", ev => {
+  if (ev.key !== "Enter") return;
+  const r = parseRef($("goto").value);
+  if (r) { closeSheets(); go(r.b, r.c, r.v); }
+});
+
+/* ---------- Search ---------- */
+let searchData = null, searchTimer = 0;
+async function runSearch() {
+  const q = $("q").value.trim();
+  const out = $("results"); out.textContent = "";
+  if (!q) { $("q-count").textContent = "Search every verse of the translation. Put a phrase in quotes to search for it exactly."; return; }
+  const ref = parseRef(q);
+  if (ref && /\d/.test(q)) {
+    out.append(el("li", {}, el("button", { type: "button", onclick: () => { closeSheets(); go(ref.b, ref.c, ref.v); } },
+      el("span", { class: "r", text: "Go to" }), el("span", { class: "s", text: `${ref.b.osis === "Ps" ? "Psalm" : ref.b.n} ${ref.c}${ref.v ? ":" + ref.v : ""}` }))));
+  }
+  if (!searchData) {
+    $("q-count").textContent = "Loading the text…";
+    try { searchData = await getJSON("search.json"); } catch (e) { $("q-count").textContent = "Search couldn't load. Check your connection."; return; }
+  }
+  const phrases = [...q.matchAll(/"([^"]+)"/g)].map(m => m[1].toLowerCase());
+  const words = q.replace(/"[^"]*"/g, " ").toLowerCase().split(/\s+/).filter(w => w.length > 1 || /\d/.test(w));
+  const terms = [...phrases, ...words];
+  if (!terms.length) return;
+  const esc = s => s.replace(/[.*+?^${}()|[\]\\]/g, "\\$&");
+  const tests = terms.map(t => new RegExp((/^\w/.test(t) ? "\\b" : "") + esc(t), "i"));
+  const hits = [];
+  for (const r of searchData) if (tests.every(re => re.test(r[3]))) hits.push(r);
+  $("q-count").textContent = hits.length ? `${hits.length.toLocaleString("en-US")} verse${hits.length === 1 ? "" : "s"}${hits.length > 300 ? ", showing the first 300" : ""}` : "No verses match.";
+  const mark = new RegExp("(" + terms.map(t => (/^\w/.test(t) ? "\\b" : "") + esc(t)).join("|") + ")", "ig");
+  for (const r of hits.slice(0, 300)) {
+    const b = bySlug[r[0]];
+    const s = el("span", { class: "s" });
+    let last = 0;
+    for (const m of r[3].matchAll(mark)) { s.append(r[3].slice(last, m.index), el("mark", { text: m[0] })); last = m.index + m[0].length; }
+    s.append(r[3].slice(last));
+    out.append(el("li", {}, el("button", { type: "button", onclick: () => { closeSheets(); go(b, r[1], r[2]); } },
+      el("span", { class: "r", text: `${b.osis === "Ps" ? "Psalm" : b.n} ${r[1]}:${r[2]}` }), s)));
+  }
+}
+$("q").addEventListener("input", () => { clearTimeout(searchTimer); searchTimer = setTimeout(runSearch, 220); });
+
+/* ---------- Highlights and notes ---------- */
+function osisOrder(id) {
+  const [o, c, v] = id.split(".");
+  return BOOKS.indexOf(byOsis[o]) * 1e6 + (+c) * 1e3 + (+v);
+}
+function renderMine() {
+  const list = $("mine-list"); list.textContent = "";
+  const ids = Object.keys(notes).filter(id => byOsis[id.split(".")[0]]).sort((a, b) => osisOrder(a) - osisOrder(b));
+  if (!ids.length) { list.append(el("li", { class: "empty", text: "No highlights or notes yet. Tap a verse to add one." })); return; }
+  for (const id of ids) {
+    const [o, c, v] = id.split(".");
+    const b = byOsis[o], a = notes[id];
+    list.append(el("li", {}, el("button", { type: "button", onclick: () => { closeSheets(); go(b, +c, +v); } },
+      el("span", { class: "r" }, a.h ? el("span", { class: "dot", style: `background:var(--hl-${a.h})` }) : null, `${b.osis === "Ps" ? "Psalm" : b.n} ${c}:${v}`),
+      a.n ? el("span", { class: "n", text: a.n }) : null)));
+  }
+}
+const embedded = (() => { try { return window.top !== window.self; } catch (e) { return true; } })();
+$("backup").onclick = () => {
+  $("backup-box").hidden = false;
+  $("backup-label").textContent = "Your backup: copy it somewhere safe";
+  $("backup-text").value = JSON.stringify({ app: "plain-english-bible", version: 1, saved: new Date().toISOString(), annotations: notes }, null, 1);
+  $("backup-copy").hidden = false; $("backup-file").hidden = embedded;
+  $("restore-apply").hidden = true; $("restore-file-label").hidden = true;
+};
+$("restore").onclick = () => {
+  $("backup-box").hidden = false;
+  $("backup-label").textContent = "Paste a backup, or open a backup file";
+  $("backup-text").value = "";
+  $("backup-copy").hidden = true; $("backup-file").hidden = true;
+  $("restore-apply").hidden = false; $("restore-file-label").hidden = false;
+};
+$("backup-copy").onclick = () => {
+  const s = $("backup-text").value;
+  if (navigator.clipboard) navigator.clipboard.writeText(s).then(() => toast("Backup copied")).catch(() => { $("backup-text").select(); toast("Select all and copy"); });
+  else { $("backup-text").select(); toast("Select all and copy"); }
+};
+$("backup-file").onclick = () => {
+  const a = el("a", { href: URL.createObjectURL(new Blob([$("backup-text").value], { type: "application/json" })), download: "plain-english-bible-notes.json" });
+  document.body.append(a); a.click(); a.remove();
+};
+$("restore-file").onchange = () => {
+  const f = $("restore-file").files[0];
+  if (!f) return;
+  const r = new FileReader();
+  r.onload = () => { $("backup-text").value = r.result; };
+  r.readAsText(f);
+};
+$("restore-apply").onclick = () => {
+  let data;
+  try { data = JSON.parse($("backup-text").value); } catch (e) { toast("That isn't a backup: it couldn't be read"); return; }
+  const incoming = data && data.annotations;
+  if (!incoming || typeof incoming !== "object") { toast("That isn't a backup: no highlights or notes in it"); return; }
+  let added = 0;
+  for (const [id, a] of Object.entries(incoming)) {
+    if (!/^[1-3]?[A-Za-z]+\.\d+\.\d+$/.test(id) || !a) continue;
+    const mine = notes[id];
+    if (!mine || (a.t || 0) > (mine.t || 0)) { notes[id] = { h: HL.includes(a.h) ? a.h : undefined, n: typeof a.n === "string" ? a.n : undefined, t: a.t || Date.now() }; added++; }
+  }
+  store.set("annotations", notes);
+  toast(added ? `Restored ${added} ${added === 1 ? "highlight or note" : "highlights and notes"}` : "Nothing new in that backup");
+  renderMine();
+  if (cur) show(cur.b, cur.c, null, { keepScroll: true });
+};
+
+/* ---------- Settings ---------- */
+function applySettings() {
+  document.documentElement.style.setProperty("--size", settings.size + "px");
+  if (settings.theme === "system") document.documentElement.removeAttribute("data-theme");
+  else document.documentElement.setAttribute("data-theme", settings.theme);
+  $("size").value = settings.size;
+  for (const [id, key] of [["theme", "theme"], ["numbering", "numbering"], ["shownotes", "notes"]])
+    for (const b of $(id).children) b.setAttribute("aria-pressed", String(b.dataset.v === settings[key]));
+  store.set("settings", settings);
+}
+$("size").oninput = () => { settings.size = +$("size").value; applySettings(); };
+for (const [id, key] of [["theme", "theme"], ["numbering", "numbering"], ["shownotes", "notes"]])
+  $(id).onclick = ev => { const b = ev.target.closest("button"); if (!b) return; settings[key] = b.dataset.v; applySettings(); if (key !== "theme" && cur) show(cur.b, cur.c, null, { keepScroll: true }); };
+
+/* ---------- Little things ---------- */
+let toastTimer = 0;
+function toast(msg, ms = 2200) {
+  const t = $("toast"); t.textContent = msg; t.hidden = false;
+  clearTimeout(toastTimer); toastTimer = setTimeout(() => { t.hidden = true; }, ms);
+}
+$("text").addEventListener("click", ev => {
+  const fn = ev.target.closest(".fn");
+  if (fn) {
+    ev.stopPropagation();
+    $("fn-title").textContent = "Note " + fn.textContent;
+    const p = $("fn-text"); p.textContent = ""; p.append(inline(cur.chapter.n[fn.dataset.n] || "", null));
+    openSheet("footnote");
+    return;
+  }
+  const v = ev.target.closest(".v");
+  if (v && !String(getSelection()).trim()) { if (selected === v && !$("verse").hidden) closeVerse(); else openVerse(v); }
+});
+$("text").addEventListener("keydown", ev => {
+  const v = ev.target.closest && ev.target.closest(".v");
+  if (v && (ev.key === "Enter" || ev.key === " ")) { ev.preventDefault(); openVerse(v); }
+});
+$("status").onclick = () => openSheet("about");
+$("where").onclick = openPicker;
+$("open-search").onclick = () => { openSheet("search"); };
+$("open-settings").onclick = () => openSheet("settings");
+$("open-menu").onclick = () => openSheet("menu");
+$("open-mine").onclick = () => { renderMine(); $("backup-box").hidden = true; openSheet("mine"); };
+$("open-about").onclick = () => openSheet("about");
+$("home").onclick = ev => { ev.preventDefault(); openPicker(); };
+$("scrim").onclick = closeSheets;
+$("verse-scrim").onclick = closeVerse;
+for (const b of document.querySelectorAll("[data-close]")) b.onclick = () => { if (b.closest("#verse")) closeVerse(); else closeSheets(); };
+document.addEventListener("keydown", ev => {
+  if (ev.key === "Escape") { closeSheets(); closeVerse(); return; }
+  if (/INPUT|TEXTAREA|SELECT/.test(document.activeElement.tagName) || !$("scrim").hidden) return;
+  if (ev.key === "ArrowLeft" && cur && cur.prev) go(...cur.prev);
+  if (ev.key === "ArrowRight" && cur && cur.next) go(...cur.next);
+  if (ev.key === "/" ) { ev.preventDefault(); openSheet("search"); }
+});
+// Swipe left or right to turn the page.
+let touch = null;
+$("main").addEventListener("touchstart", ev => { if (ev.touches.length === 1) touch = { x: ev.touches[0].clientX, y: ev.touches[0].clientY, t: Date.now() }; }, { passive: true });
+$("main").addEventListener("touchend", ev => {
+  if (!touch || !cur) return;
+  const dx = ev.changedTouches[0].clientX - touch.x, dy = ev.changedTouches[0].clientY - touch.y, dt = Date.now() - touch.t;
+  touch = null;
+  if (Math.abs(dx) > 70 && Math.abs(dx) > Math.abs(dy) * 2 && dt < 700 && !String(getSelection()).trim()) {
+    if (dx < 0 && cur.next) go(...cur.next);
+    if (dx > 0 && cur.prev) go(...cur.prev);
+  }
+}, { passive: true });
+
+/* ---------- Start ---------- */
+function route() {
+  closeSheets();
+  const r = parseHash();
+  if (r) { show(r.b, r.c, r.v); return; }
+  const last = store.get("last", null);
+  const b = (last && bySlug[last.s]) || byOsis.John;
+  const c = last && bySlug[last.s] ? Math.min(last.c, b.s.length) : 1;
+  history.replaceState(null, "", refHash(b, c));
+  show(b, c);
+}
+applySettings();
+getJSON("books.json").then(list => {
+  BOOKS = list;
+  for (const b of BOOKS) { bySlug[b.slug] = b; byOsis[b.osis] = b; }
+  buildAliases();
+  addEventListener("hashchange", route);
+  route();
+}).catch(() => { $("loading").textContent = "The Bible couldn't be loaded. Check your connection and reload the page."; });
+if ("serviceWorker" in navigator && /^https?:$/.test(location.protocol) && !embedded) navigator.serviceWorker.register("sw.js").catch(() => {});
+</script>
+</body>
+</html>
