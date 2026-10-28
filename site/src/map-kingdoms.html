@@ -1,0 +1,927 @@
+<title>Judah and Israel Map</title>
+<meta name="claude:viewport-fit-sides" content="cover">
+<meta name="description" content="Map No. 7, a style study after the Eilers Sunday School wall maps: the tribal allotments and the kingdoms of Judah and Israel, drawn from open data.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Abril+Fatface&family=Old+Standard+TT:ital,wght@0,400;0,700;1,400&family=Rokkitt:wght@500;600;700&family=Libre+Franklin:wght@400;500;600;700&display=swap">
+<style>
+/* The sheet is always printed paper; only the controls around it follow the light or dark
+   theme. Colors of the sheet are the Eilers palette in ROADMAP.md. */
+:root {
+  --table: #d8d0bc;
+  --chrome: rgb(255 253 247 / 92%);
+  --chrome-solid: #fffdf7;
+  --ink: #1f1b16;
+  --muted: #5e5546;
+  --line: #d6ccb6;
+  --accent: #a8301a;
+  --shadow: 0 1px 2px rgb(31 27 22 / 10%), 0 8px 28px rgb(31 27 22 / 14%);
+  --sans: "Libre Franklin", system-ui, -apple-system, "Segoe UI", sans-serif;
+  --serif: "Old Standard TT", Georgia, serif;
+  --sheet-filter: none;
+
+  --paper: #f6f0dd;
+  --wild: #efe6cc;
+  --yellow: #f6e27f;
+  --salmon: #f2b98a;
+  --blush: #f8d8c0;
+  --lime: #e3e6a2;
+  --sage: #c9d8a5;
+  --olive: #d9c784;
+  --water: #c6d7d8;
+  --map-ink: #1f1b16;
+  --vermilion: #d8432a;
+  --deep-red: #a8301a;
+  --river: #2c4a60;
+  --wave: #4d6470;
+  --region-ink: #6b5a45;
+}
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    --table: #191714; --chrome: rgb(32 29 25 / 92%); --chrome-solid: #201d19; --ink: #efe8da;
+    --muted: #b3a891; --line: #3a342b; --accent: #f08a6c;
+    --shadow: 0 1px 2px rgb(0 0 0 / 40%), 0 10px 30px rgb(0 0 0 / 45%);
+    --sheet-filter: brightness(0.86) contrast(1.04);
+    color-scheme: dark;
+  }
+}
+:root[data-theme="dark"] {
+  --table: #191714; --chrome: rgb(32 29 25 / 92%); --chrome-solid: #201d19; --ink: #efe8da;
+  --muted: #b3a891; --line: #3a342b; --accent: #f08a6c;
+  --shadow: 0 1px 2px rgb(0 0 0 / 40%), 0 10px 30px rgb(0 0 0 / 45%);
+  --sheet-filter: brightness(0.86) contrast(1.04);
+  color-scheme: dark;
+}
+* { box-sizing: border-box; }
+[hidden] { display: none !important; }
+html, body { height: 100%; }
+body {
+  margin: 0; background: var(--table); color: var(--ink);
+  font: 400 15px/1.45 var(--sans); overflow: hidden;
+  -webkit-text-size-adjust: 100%;
+  padding-left: max(16px, env(safe-area-inset-left, 0px));
+  padding-right: max(16px, env(safe-area-inset-right, 0px));
+}
+button { font: inherit; color: inherit; }
+:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
+
+#stage { position: fixed; inset: 0; touch-action: none; }
+#map { display: block; width: 100%; height: 100%; cursor: grab; user-select: none; -webkit-user-select: none; }
+#map:active { cursor: grabbing; }
+#world, #labels { filter: var(--sheet-filter); }
+
+/* Floating controls */
+.bar {
+  position: fixed; z-index: 3; top: max(10px, env(safe-area-inset-top, 0px)); left: max(16px, env(safe-area-inset-left, 0px));
+  right: max(16px, env(safe-area-inset-right, 0px)); display: flex; gap: 10px; align-items: flex-start;
+  justify-content: space-between; pointer-events: none;
+}
+.bar > * { pointer-events: auto; }
+.tag {
+  background: var(--chrome); backdrop-filter: blur(8px); -webkit-backdrop-filter: blur(8px);
+  border: 1px solid var(--line); border-radius: 12px; box-shadow: var(--shadow);
+  padding: 8px 12px 9px; min-width: 0; max-width: min(460px, 58vw);
+}
+.tag .no { font: 600 11px/1.2 var(--sans); letter-spacing: 0.12em; text-transform: uppercase; color: var(--muted); }
+.tag h1 { margin: 2px 0 0; font: 700 17px/1.15 var(--serif); letter-spacing: 0.01em; }
+.tag .draft { display: inline-block; margin-left: 6px; padding: 1px 6px; border-radius: 99px; background: var(--accent); color: var(--chrome-solid); font: 600 10px/1.5 var(--sans); letter-spacing: 0.08em; vertical-align: 2px; }
+.tools {
+  display: flex; gap: 4px; flex-wrap: wrap; justify-content: flex-end;
+  background: var(--chrome); backdrop-filter: blur(8px); -webkit-backdrop-filter: blur(8px);
+  border: 1px solid var(--line); border-radius: 12px; box-shadow: var(--shadow); padding: 4px;
+}
+.tools button, .zoom button {
+  display: inline-flex; align-items: center; gap: 6px; border: 0; background: transparent;
+  border-radius: 8px; padding: 7px 10px; font: 600 13px/1 var(--sans); cursor: pointer; min-height: 34px;
+}
+.tools button:hover, .zoom button:hover, .tools button[aria-pressed="true"] { background: color-mix(in srgb, var(--accent) 14%, transparent); }
+.tools svg, .zoom svg { width: 17px; height: 17px; flex: none; }
+.zoom {
+  position: fixed; z-index: 3; right: max(16px, env(safe-area-inset-right, 0px)); bottom: max(14px, env(safe-area-inset-bottom, 0px));
+  display: grid; background: var(--chrome); backdrop-filter: blur(8px); -webkit-backdrop-filter: blur(8px);
+  border: 1px solid var(--line); border-radius: 12px; box-shadow: var(--shadow); padding: 4px;
+}
+.zoom button { justify-content: center; padding: 8px; min-width: 40px; min-height: 40px; }
+.tools { flex-wrap: nowrap; }
+@media (max-width: 640px) {
+  .tools .lbl { display: none; }
+  .tools button { padding: 7px 8px; }
+  .tag { max-width: calc(100vw - 210px); padding: 7px 10px 8px; }
+  .tag .no { font-size: 10px; letter-spacing: 0.08em; }
+  .tag h1 { font-size: 14px; }
+  .tag .draft { font-size: 9px; }
+  .tag .wide { display: none; }
+}
+
+/* Side panel (bottom sheet on phones) */
+.panel {
+  position: fixed; z-index: 4; top: max(70px, calc(env(safe-area-inset-top, 0px) + 62px)); right: max(16px, env(safe-area-inset-right, 0px));
+  width: min(380px, calc(100vw - 32px)); max-height: calc(100vh - 150px); overflow: auto;
+  background: var(--chrome-solid); border: 1px solid var(--line); border-radius: 14px; box-shadow: var(--shadow);
+  padding: 14px 16px 16px;
+}
+.panel h2 { margin: 0 0 8px; font: 700 18px/1.2 var(--serif); }
+.panel p { margin: 0 0 10px; color: var(--muted); font-size: 14px; }
+.panel p strong { color: var(--ink); }
+.panel .close { position: absolute; top: 8px; right: 8px; border: 0; background: transparent; border-radius: 8px; padding: 6px; cursor: pointer; }
+.panel .close svg { width: 18px; height: 18px; display: block; }
+.panel a { color: var(--accent); }
+@media (max-width: 640px) {
+  .panel { top: auto; bottom: 0; right: 0; left: 0; width: auto; max-height: 62vh; border-radius: 16px 16px 0 0;
+    padding-bottom: max(16px, env(safe-area-inset-bottom, 0px));
+    padding-left: max(16px, env(safe-area-inset-left, 0px)); padding-right: max(16px, env(safe-area-inset-right, 0px)); }
+}
+#find input {
+  width: 100%; padding: 9px 12px; border: 1px solid var(--line); border-radius: 10px;
+  background: transparent; color: var(--ink); font: 400 15px/1.3 var(--sans); margin-bottom: 8px;
+}
+#find ol { list-style: none; margin: 0; padding: 0; }
+#find li button {
+  display: grid; grid-template-columns: 1fr auto; gap: 8px; width: 100%; text-align: left; border: 0;
+  background: transparent; padding: 7px 8px; border-radius: 8px; cursor: pointer;
+}
+#find li button:hover { background: color-mix(in srgb, var(--accent) 10%, transparent); }
+#find .nm { font: 700 15px/1.25 var(--serif); }
+#find .sub { display: block; font-size: 12px; color: var(--muted); }
+#find .ref { font: 600 12px/1.6 var(--sans); color: var(--muted); font-variant-numeric: tabular-nums; }
+#find .count { font-size: 12px; color: var(--muted); margin: 0 0 6px; }
+.toggles { display: grid; gap: 8px; margin: 4px 0 2px; }
+.toggles label { display: flex; gap: 10px; align-items: flex-start; cursor: pointer; font-size: 14px; }
+.toggles input { margin-top: 3px; accent-color: var(--accent); }
+.toggles small { display: block; color: var(--muted); font-size: 12px; }
+.about h3 { font: 700 14px/1.3 var(--sans); margin: 14px 0 4px; }
+.about ul { margin: 0 0 8px; padding-left: 18px; color: var(--muted); font-size: 13.5px; }
+.about li { margin-bottom: 3px; }
+
+/* Place card */
+.card {
+  position: fixed; z-index: 4; left: max(16px, env(safe-area-inset-left, 0px)); bottom: max(14px, env(safe-area-inset-bottom, 0px));
+  width: min(360px, calc(100vw - 92px)); background: var(--chrome-solid); border: 1px solid var(--line);
+  border-radius: 14px; box-shadow: var(--shadow); padding: 12px 14px 13px;
+}
+.card h2 { margin: 0 34px 2px 0; font: 700 21px/1.15 var(--serif); }
+.card .kind { font: 600 11px/1.3 var(--sans); letter-spacing: 0.1em; text-transform: uppercase; color: var(--muted); }
+.card dl { display: grid; grid-template-columns: auto 1fr; gap: 3px 12px; margin: 8px 0 0; font-size: 13.5px; }
+.card dt { color: var(--muted); }
+.card dd { margin: 0; }
+.card .close { position: absolute; top: 8px; right: 8px; border: 0; background: transparent; border-radius: 8px; padding: 6px; cursor: pointer; }
+.card .close svg { width: 18px; height: 18px; display: block; }
+.card a { color: var(--accent); }
+
+/* Labels drawn over the sheet */
+#labels text { pointer-events: none; }
+#labels .hit { pointer-events: all; cursor: pointer; fill: transparent; }
+.lbl-place { font-family: var(--serif); font-weight: 700; fill: var(--map-ink); paint-order: stroke; stroke: var(--paper); stroke-width: 3px; stroke-linejoin: round; }
+.lbl-place.unsure { font-weight: 400; }
+.lbl-modern { font-family: var(--serif); font-style: italic; font-weight: 400; fill: #5a4e3f; paint-order: stroke; stroke: var(--paper); stroke-width: 3px; stroke-linejoin: round; }
+.lbl-tribe { font-family: "Rokkitt", var(--serif); font-weight: 700; fill: var(--map-ink); fill-opacity: 0.82; }
+.lbl-nation { font-family: "Rokkitt", var(--serif); font-weight: 700; fill: var(--map-ink); }
+.lbl-kingdom { font-family: "Abril Fatface", var(--serif); fill: var(--deep-red); fill-opacity: 0.86; }
+.lbl-sea { font-family: var(--serif); font-style: italic; fill: var(--wave); }
+.lbl-river { font-family: var(--serif); font-style: italic; fill: var(--river); paint-order: stroke; stroke: var(--paper); stroke-width: 2.5px; stroke-opacity: 0.8; }
+.lbl-lake { font-family: var(--serif); font-style: italic; fill: var(--river); paint-order: stroke; stroke: var(--paper); stroke-width: 3px; stroke-linejoin: round; }
+.lbl-mount { font-family: var(--serif); font-weight: 400; fill: var(--map-ink); paint-order: stroke; stroke: var(--paper); stroke-width: 3px; stroke-linejoin: round; }
+.lbl-region { font-family: var(--serif); font-style: italic; fill: var(--region-ink); letter-spacing: 0.22em; paint-order: stroke; stroke: var(--paper); stroke-width: 2.5px; stroke-opacity: 0.7; }
+.lbl-margin { font: 600 11px/1 "Rokkitt", var(--serif); fill: var(--map-ink); }
+.lbl-deg { font: 400 10px/1 var(--serif); fill: #5a4e3f; }
+.dot { fill: var(--map-ink); stroke: var(--paper); stroke-width: 1.2px; }
+.dot.unsure { fill: var(--paper); stroke: var(--map-ink); stroke-width: 1.3px; }
+.cap-ring { fill: none; stroke: var(--map-ink); stroke-width: 1.3px; }
+.tuft { fill: none; stroke: var(--map-ink); stroke-width: 1.1px; stroke-linecap: round; }
+.sel { fill: none; stroke: var(--vermilion); stroke-width: 2.5px; }
+
+/* Print: the sheet on the first page, the index of places after it. */
+#gazetteer { display: none; }
+@page { size: letter portrait; margin: 0.35in; }
+@media print {
+  html, body { height: auto; overflow: visible; background: #fff; }
+  .bar, .zoom, .panel, .card { display: none !important; }
+  #stage { position: static; width: 7.8in; height: 10.3in; }
+  #world, #labels { filter: none; }
+  #gazetteer { display: block; break-before: page; font: 400 7.5pt/1.25 var(--serif); color: #000; }
+  #gazetteer h2 { font: 700 13pt/1.2 var(--serif); margin: 0 0 4pt; }
+  #gazetteer p { margin: 0 0 6pt; font-style: italic; }
+  #gazetteer ol { columns: 4; column-gap: 14pt; margin: 0; padding: 0; list-style: none; }
+  #gazetteer li { display: flex; gap: 4pt; break-inside: avoid; }
+  #gazetteer li span:first-child { flex: 1; }
+}
+</style>
+
+<main id="stage" aria-label="Map No. 7, The Kingdoms of Judah and Israel">
+  <svg id="map" role="img" aria-labelledby="map-title">
+    <title id="map-title">The Kingdoms of Judah and Israel: the tribal allotments and the divided kingdom, with the places named in the Old Testament</title>
+    <defs>
+      <clipPath id="frame-clip"><rect id="frame-rect"></rect></clipPath>
+    </defs>
+    <g id="world"></g>
+    <g id="labels"></g>
+  </svg>
+</main>
+
+<div class="bar">
+  <div class="tag">
+    <div class="no"><span class="wide">Map </span>No. 7 · Style study<span class="draft">DRAFT</span></div>
+    <h1>The Kingdoms of Judah and Israel</h1>
+  </div>
+  <nav class="tools" aria-label="Map tools">
+    <button type="button" data-panel="find" aria-pressed="false" aria-label="Find a place"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><circle cx="11" cy="11" r="7"/><path d="m20 20-3.5-3.5"/></svg><span class="lbl">Find</span></button>
+    <button type="button" data-panel="layers" aria-pressed="false" aria-label="Layers"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linejoin="round"><path d="m12 3 9 5-9 5-9-5 9-5Z"/><path d="m3 13 9 5 9-5"/></svg><span class="lbl">Layers</span></button>
+    <button type="button" data-panel="about" aria-pressed="false" aria-label="About this map"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><circle cx="12" cy="12" r="9"/><path d="M12 11v6M12 7.5v.5"/></svg><span class="lbl">About</span></button>
+    <button type="button" id="print" aria-label="Print"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linejoin="round"><path d="M7 9V3h10v6M7 17H4v-7h16v7h-3"/><path d="M7 14h10v7H7z"/></svg><span class="lbl">Print</span></button>
+    <button type="button" id="save" aria-label="Download as SVG"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 3v12m0 0-4.5-4.5M12 15l4.5-4.5M4 19h16"/></svg><span class="lbl">SVG</span></button>
+  </nav>
+</div>
+
+<div class="zoom" role="group" aria-label="Zoom">
+  <button type="button" id="zin" aria-label="Zoom in"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round"><path d="M12 5v14M5 12h14"/></svg></button>
+  <button type="button" id="zout" aria-label="Zoom out"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round"><path d="M5 12h14"/></svg></button>
+  <button type="button" id="zfit" aria-label="Show the whole sheet"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M4 9V4h5M20 9V4h-5M4 15v5h5M20 15v5h-5"/></svg></button>
+</div>
+
+<section class="panel" id="find" hidden aria-label="Find a place">
+  <button type="button" class="close" aria-label="Close"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M6 6l12 12M18 6 6 18"/></svg></button>
+  <h2>Index of places</h2>
+  <input type="search" placeholder="Search places" aria-label="Search places" autocomplete="off">
+  <p class="count"></p>
+  <ol></ol>
+</section>
+
+<section class="panel" id="layers" hidden aria-label="Layers">
+  <button type="button" class="close" aria-label="Close"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M6 6l12 12M18 6 6 18"/></svg></button>
+  <h2>Layers</h2>
+  <div class="toggles">
+    <label><input type="checkbox" data-layer="modern"> <span>Modern names<small>The modern site under each place, in italics</small></span></label>
+    <label><input type="checkbox" data-layer="relief" checked> <span>Relief<small>Hachures drawn from elevation data</small></span></label>
+    <label><input type="checkbox" data-layer="tribes" checked> <span>Tribal borders<small>Approximate, from the town lists in Joshua</small></span></label>
+    <label><input type="checkbox" data-layer="grid" checked> <span>Grid<small>Ten-minute squares, as used by the index</small></span></label>
+  </div>
+</section>
+
+<section class="panel about" id="about" hidden aria-label="About this map">
+  <button type="button" class="close" aria-label="Close"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M6 6l12 12M18 6 6 18"/></svg></button>
+  <h2>About this map</h2>
+  <p>A <strong>style study</strong> for the project's Bible maps, redrawing <strong>Eilers Sunday School Map No. 7</strong>, <em>The Kingdoms Judah Israel</em> (A. H. Eilers &amp; Co., St. Louis), from open data. It keeps the Eilers look and aims to read more easily.</p>
+  <h3>What we kept from Eilers</h3>
+  <ul>
+    <li>Flat tints for each kingdom and people, with the seas left as paper</li>
+    <li>Water lines along the coasts, and hachured relief</li>
+    <li>Widely spaced capitals for the tribes, and red capitals for the kingdoms</li>
+    <li>A "?" after places whose location is uncertain</li>
+    <li>A grid with an index of places keyed to it</li>
+  </ul>
+  <h3>What we changed</h3>
+  <ul>
+    <li>Labels never overlap. More appear as you zoom in.</li>
+    <li>Type is never smaller than 11 pixels on screen</li>
+    <li>Borders are drawn as lines as well as tints, so they don't depend on color</li>
+  </ul>
+  <h3>How it was made</h3>
+  <ul>
+    <li><strong>Land, water and relief</strong> come from elevation data. Lake Huleh and the Dead Sea are drawn at their old shorelines.</li>
+    <li><strong>Places</strong> are the towns named in the Old Testament that OpenBible.info can locate. Places scored below 500 out of 1,000 are marked "?".</li>
+    <li><strong>Tribal territories are approximate.</strong> Each piece of land is given to the tribe whose towns are nearest (the town lists of Joshua 13–19 and 21). Lakes cannot be crossed, and rivers are costly to cross, so borders tend to follow the rivers.</li>
+    <li><strong>Names</strong> are spelled as in this project's Open Plain English Translation.</li>
+  </ul>
+  <h3>Sources</h3>
+  <ul>
+    <li>Places: <a href="https://www.openbible.info/geo/">OpenBible.info Bible Geocoding Data</a>, CC BY 4.0</li>
+    <li>Elevation: AWS Terrain Tiles (SRTM, GMTED2010, ETOPO1)</li>
+    <li>Style: the Eilers Sunday School wall maps, published before 1931</li>
+  </ul>
+</section>
+
+<aside class="card" id="card" hidden aria-live="polite"></aside>
+
+<section id="gazetteer" aria-hidden="true">
+  <h2>Index of places · Map No. 7</h2>
+  <p>Grid squares are ten minutes of latitude and longitude: letters across the top, numbers down the side. A "?" marks a place whose location is uncertain.</p>
+  <ol></ol>
+</section>
+
+<!-- DATA -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/d3/7.8.5/d3.min.js"></script>
+<script>
+"use strict";
+const D = JSON.parse(document.getElementById("data").textContent);
+const S = D.sheet;
+const W = S.width, H = S.height, M = 11;          // sheet margin, km
+const NS = "http://www.w3.org/2000/svg";
+const svg = d3.select("#map"), world = d3.select("#world"), labels = d3.select("#labels");
+const state = { modern: false, relief: true, tribes: true, grid: true, selected: null };
+const STEP = 10 / 60;                               // grid squares: ten minutes
+const COLS = Math.round((S.east - S.west) / STEP), ROWS = Math.round((S.north - S.south) / STEP);
+const lonOf = x => S.west + x / S.kx, latOf = y => S.north - y / S.ky;
+const xOf = lon => (lon - S.west) * S.kx, yOf = lat => (S.north - lat) * S.ky;
+const ref = p => String.fromCharCode(65 + Math.min(COLS - 1, Math.floor((lonOf(p.x) - S.west) / STEP))) +
+  (1 + Math.min(ROWS - 1, Math.floor((S.north - latOf(p.y)) / STEP)));
+const css = n => getComputedStyle(document.documentElement).getPropertyValue(n).trim();
+
+// Sheet furniture boxes (km), kept clear of labels: the title block and the key, both on
+// the sea, where Eilers put his.
+const TITLE = { x: 5, y: 5, w: 66, h: 76 };
+const KEY = { x: 5, y: 97, w: 44, h: 93 };
+
+/* ---------- The sheet ---------- */
+
+function el(parent, name, attrs, text) {
+  const e = document.createElementNS(NS, name);
+  for (const k in attrs) e.setAttribute(k, attrs[k]);
+  if (text != null) e.textContent = text;
+  parent.appendChild(e);
+  return e;
+}
+
+function drawSheet() {
+  const g = world.node();
+  const nss = { "vector-effect": "non-scaling-stroke" };
+  el(g, "rect", { x: -M, y: -M, width: W + 2 * M, height: H + 2 * M, fill: "var(--paper)" });
+  d3.select("#frame-rect").attr("x", 0).attr("y", 0).attr("width", W).attr("height", H);
+  const m = el(g, "g", { "clip-path": "url(#frame-clip)" });
+  const L = D.layers;
+  el(m, "rect", { x: 0, y: 0, width: W, height: H, fill: "var(--paper)" });
+  el(m, "path", { d: L.ripples, fill: "none", stroke: "var(--wave)", "stroke-width": 0.55, opacity: 0.75, ...nss });
+  el(m, "path", { d: L.land, fill: "var(--wild)" });
+  const terr = el(m, "g", {});
+  for (const t of D.territories) el(terr, "path", { d: t.d, fill: `var(--${t.tint})`, stroke: `var(--${t.tint})`, "stroke-width": 0.6, ...nss });
+  const relief = el(m, "g", { id: "relief" });
+  L.hachures.forEach((d, k) => el(relief, "path", {
+    d, fill: "none", stroke: "#3a2f24", "stroke-width": (0.5 + 0.32 * k).toFixed(2),
+    opacity: (0.42 + 0.14 * k).toFixed(2), "stroke-linecap": "round", ...nss }));
+  el(m, "path", { d: L.lakes, fill: "var(--water)" });
+  el(m, "path", { d: L.lakeRipples, fill: "none", stroke: "var(--wave)", "stroke-width": 0.45, opacity: 0.8, ...nss });
+  L.rivers.forEach((d, k) => el(m, "path", {
+    d, fill: "none", stroke: "var(--river)", "stroke-width": [0.75, 1.05, 1.7][k],
+    "stroke-linejoin": "round", "stroke-linecap": "round", ...nss }));
+  el(m, "path", { id: "tribe-borders", d: L.borders.tribe, fill: "none", stroke: "var(--map-ink)", "stroke-width": 0.9,
+    "stroke-dasharray": "5 3", opacity: 0.7, ...nss });
+  el(m, "path", { d: L.borders.nation, fill: "none", stroke: "var(--map-ink)", "stroke-width": 3.2, opacity: 0.18,
+    "stroke-linejoin": "round", ...nss });
+  el(m, "path", { d: L.borders.nation, fill: "none", stroke: "var(--map-ink)", "stroke-width": 1.3,
+    "stroke-dasharray": "9 3 2 3", "stroke-linejoin": "round", ...nss });
+  el(m, "path", { d: L.lakes, fill: "none", stroke: "var(--map-ink)", "stroke-width": 0.9, ...nss });
+  el(m, "path", { d: L.coast, fill: "none", stroke: "var(--map-ink)", "stroke-width": 1.15, ...nss });
+  // Graticule: ten-minute squares.
+  let gd = "";
+  for (let i = 1; i < COLS; i++) { const x = xOf(S.west + i * STEP).toFixed(2); gd += `M${x} 0V${H.toFixed(2)}`; }
+  for (let j = 1; j < ROWS; j++) { const y = yOf(S.north - j * STEP).toFixed(2); gd += `M0 ${y}H${W.toFixed(2)}`; }
+  el(m, "path", { id: "grid", d: gd, fill: "none", stroke: "var(--map-ink)", "stroke-width": 0.5, opacity: 0.38, ...nss });
+  // Neat lines: a fine inner rule and a heavier outer one.
+  el(g, "rect", { x: 0, y: 0, width: W, height: H, fill: "none", stroke: "var(--map-ink)", "stroke-width": 1, ...nss });
+  el(g, "rect", { x: -M + 3.2, y: -M + 3.2, width: W + 2 * M - 6.4, height: H + 2 * M - 6.4, fill: "none",
+    stroke: "var(--map-ink)", "stroke-width": 2, ...nss });
+  drawTitle(g);
+  drawKey(g);
+}
+
+function drawTitle(g) {
+  const { x, y, w, h } = TITLE, cx = x + w / 2;
+  const b = el(g, "g", { class: "furniture" });
+  el(b, "rect", { x, y, width: w, height: h, fill: "var(--paper)", stroke: "var(--map-ink)", "stroke-width": 1.2, "vector-effect": "non-scaling-stroke" });
+  el(b, "rect", { x: x + 1.2, y: y + 1.2, width: w - 2.4, height: h - 2.4, fill: "none", stroke: "var(--map-ink)", "stroke-width": 0.5, "vector-effect": "non-scaling-stroke" });
+  const t = (yy, size, fam, txt, extra = {}) => el(b, "text", { x: cx, y: yy, "text-anchor": "middle", "font-size": size, "font-family": fam, fill: "var(--map-ink)", ...extra }, txt);
+  t(y + 7.5, 3.1, "Rokkitt", "MAP No. 7 · A STYLE STUDY", { "font-weight": 600, "letter-spacing": 0.5 });
+  t(y + 15.5, 6.2, "Rokkitt", "THE KINGDOMS", { "font-weight": 700, "letter-spacing": 0.7 });
+  t(y + 26, 9, "Abril Fatface", "JUDAH & ISRAEL", { fill: "var(--deep-red)", textLength: w - 8, lengthAdjust: "spacingAndGlyphs" });
+  const it = { "font-style": "italic" };
+  t(y + 32.5, 3.1, "Old Standard TT", "Showing the places of the land named in the", it);
+  t(y + 36.4, 3.1, "Old Standard TT", "Old Testament whose location is known, and", it);
+  t(y + 40.3, 3.1, "Old Standard TT", "the tribal allotments of Joshua 13–19", it);
+  el(b, "line", { x1: x + 14, x2: x + w - 14, y1: y + 44, y2: y + 44, stroke: "var(--map-ink)", "stroke-width": 0.6, "vector-effect": "non-scaling-stroke" });
+  t(y + 50.5, 4.2, "Rokkitt", "THE KINGDOM DIVIDED", { "font-weight": 700, "letter-spacing": 0.45 });
+  t(y + 55.5, 3.2, "Old Standard TT", "975–588 BC by Ussher’s chronology");
+  t(y + 59.5, 3.2, "Old Standard TT", "931–586 BC by modern reckoning");
+  el(b, "line", { x1: x + 14, x2: x + w - 14, y1: y + 63, y2: y + 63, stroke: "var(--map-ink)", "stroke-width": 0.6, "vector-effect": "non-scaling-stroke" });
+  t(y + 67.5, 3, "Old Standard TT", "After the Eilers Sunday School Maps, St. Louis.", it);
+  t(y + 71.5, 3, "Old Standard TT", "Drawn from open data · CC BY 4.0", it);
+}
+
+function drawKey(g) {
+  const { x, y, w, h } = KEY;
+  const b = el(g, "g", { class: "furniture" });
+  const nss = { "vector-effect": "non-scaling-stroke" };
+  el(b, "rect", { x, y, width: w, height: h, fill: "var(--paper)", stroke: "var(--map-ink)", "stroke-width": 1.2, ...nss });
+  const fs = 2.8;
+  const txt = (xx, yy, s, extra = {}) => el(b, "text", { x: xx, y: yy, "font-size": fs, "font-family": "Old Standard TT", fill: "var(--map-ink)", ...extra }, s);
+  txt(x + w / 2, y + 6, "KEY", { "text-anchor": "middle", "font-family": "Rokkitt", "font-weight": 700, "letter-spacing": 1, "font-size": 3.8 });
+  let yy = y + 11.5;
+  const row = (draw, label) => { draw(x + 6.5, yy - 0.95); txt(x + 12, yy, label); yy += 4.4; };
+  row((a, c) => el(b, "circle", { cx: a, cy: c, r: 0.85, fill: "var(--map-ink)" }), "Town");
+  row((a, c) => el(b, "circle", { cx: a, cy: c, r: 0.8, fill: "var(--paper)", stroke: "var(--map-ink)", "stroke-width": 0.35 }), "Site uncertain (?)");
+  row((a, c) => { el(b, "circle", { cx: a, cy: c, r: 1.5, fill: "none", stroke: "var(--map-ink)", "stroke-width": 0.35 }); el(b, "circle", { cx: a, cy: c, r: 0.75, fill: "var(--map-ink)" }); }, "Royal city");
+  row((a, c) => el(b, "path", { d: tuftPath(a, c + 0.7, 1.9), fill: "none", stroke: "var(--map-ink)", "stroke-width": 0.3, "stroke-linecap": "round" }), "Mountain");
+  row((a, c) => el(b, "path", { d: `M${a - 3.5} ${c}c1.2-1 2.3 1 3.5 0s2.3 1 3.5 0`, fill: "none", stroke: "var(--river)", "stroke-width": 0.45 }), "River");
+  row((a, c) => el(b, "path", { d: `M${a - 3.5} ${c}h7`, fill: "none", stroke: "var(--map-ink)", "stroke-width": 0.42, "stroke-dasharray": "2.6 0.9 0.7 0.9" }), "Border of a nation");
+  row((a, c) => el(b, "path", { d: `M${a - 3.5} ${c}h7`, fill: "none", stroke: "var(--map-ink)", "stroke-width": 0.3, "stroke-dasharray": "1.6 1", opacity: 0.8 }), "Tribal border");
+  yy += 0.6;
+  txt(x + 4, yy, "Shiloh", { "font-weight": 700 }); txt(x + 19, yy, "Bible name"); yy += 4.2;
+  txt(x + 4, yy, "Tell Seilun", { "font-style": "italic" }); txt(x + 19, yy, "Modern name"); yy += 5.4;
+  const sw = [["yellow", "Kingdom of Israel"], ["salmon", "Kingdom of Judah"], ["sage", "Philistia, Ammon"],
+    ["blush", "Phoenicia, Edom"], ["olive", "Aram, Moab"], ["wild", "Wilderness"]];
+  for (const [c, label] of sw) {
+    el(b, "rect", { x: x + 4.5, y: yy - 2.5, width: 4.2, height: 3.1, fill: `var(--${c})`, stroke: "var(--map-ink)", "stroke-width": 0.25 });
+    txt(x + 12, yy, label);
+    yy += 4.2;
+  }
+  yy += 2.4;
+  // Scale bars: English miles, as Eilers had, and kilometres.
+  const sx = x + 4, mile = 1.609344;
+  const bar = (ticks, unit, by) => {
+    const len = ticks[ticks.length - 1].at;
+    el(b, "rect", { x: sx, y: by, width: len, height: 1, fill: "var(--paper)", stroke: "var(--map-ink)", "stroke-width": 0.25 });
+    ticks.forEach((tk, i) => {
+      if (i < ticks.length - 1 && i % 2 === 0) el(b, "rect", { x: sx + tk.at, y: by, width: ticks[i + 1].at - tk.at, height: 1, fill: "var(--map-ink)" });
+      txt(sx + tk.at, by - 0.8, tk.label, { "text-anchor": "middle", "font-size": 2.4 });
+    });
+    txt(sx + len + 1.4, by + 1, unit, { "font-size": 2.4 });
+  };
+  bar([0, 5, 10, 15, 20].map(v => ({ at: v * mile, label: v })), "miles", yy);
+  bar([0, 10, 20, 30].map(v => ({ at: v, label: v })), "km", yy + 5.6);
+}
+
+function tuftPath(cx, cy, r) {
+  // A small hachured peak: short strokes fanning out and down from the summit.
+  let d = "";
+  for (let i = -3; i <= 3; i++) {
+    const a = Math.PI / 2 + i * 0.36;
+    const x1 = cx + Math.cos(a) * r * 0.25, y1 = cy - r * 0.55 + Math.sin(a) * r * 0.25;
+    const len = r * (1.05 - Math.abs(i) * 0.12);
+    d += `M${x1.toFixed(2)} ${y1.toFixed(2)}l${(Math.cos(a) * len).toFixed(2)} ${(Math.sin(a) * len * 0.8).toFixed(2)}`;
+  }
+  return d;
+}
+
+/* ---------- Labels ---------- */
+
+const ctx = document.createElement("canvas").getContext("2d");
+const widthCache = new Map();
+function measure(text, font) {
+  const key = font + "|" + text;
+  let w = widthCache.get(key);
+  if (w == null) { ctx.font = font; w = ctx.measureText(text).width; widthCache.set(key, w); }
+  return w;
+}
+const F = {
+  place: (s, unsure) => `${unsure ? 400 : 700} ${s}px "Old Standard TT"`,
+  modern: s => `italic 400 ${s}px "Old Standard TT"`,
+  tribe: s => `700 ${s}px Rokkitt`,
+  kingdom: s => `400 ${s}px "Abril Fatface"`,
+  italic: s => `italic 400 ${s}px "Old Standard TT"`,
+  mount: s => `400 ${s}px "Old Standard TT"`,
+};
+
+// Boxes already taken, in screen pixels, in a coarse spatial hash.
+class Boxes {
+  constructor() { this.cells = new Map(); this.size = 48; }
+  key(i, j) { return i * 100003 + j; }
+  hits(b) {
+    const s = this.size;
+    for (let i = Math.floor(b[0] / s); i <= Math.floor(b[2] / s); i++)
+      for (let j = Math.floor(b[1] / s); j <= Math.floor(b[3] / s); j++) {
+        const list = this.cells.get(this.key(i, j));
+        if (list) for (const o of list) if (b[0] < o[2] && b[2] > o[0] && b[1] < o[3] && b[3] > o[1]) return true;
+      }
+    return false;
+  }
+  add(b) {
+    const s = this.size;
+    for (let i = Math.floor(b[0] / s); i <= Math.floor(b[2] / s); i++)
+      for (let j = Math.floor(b[1] / s); j <= Math.floor(b[3] / s); j++) {
+        const k = this.key(i, j);
+        if (!this.cells.has(k)) this.cells.set(k, []);
+        this.cells.get(k).push(b);
+      }
+  }
+}
+
+function polyAt(pts) {
+  // Cumulative lengths of a screen polyline, and a function giving point and direction at a distance.
+  const cum = [0];
+  for (let i = 1; i < pts.length; i++) cum.push(cum[i - 1] + Math.hypot(pts[i][0] - pts[i - 1][0], pts[i][1] - pts[i - 1][1]));
+  const at = d => {
+    let i = 1;
+    while (i < pts.length - 1 && cum[i] < d) i++;
+    const seg = cum[i] - cum[i - 1] || 1, t = Math.max(0, Math.min(1, (d - cum[i - 1]) / seg));
+    const dx = pts[i][0] - pts[i - 1][0], dy = pts[i][1] - pts[i - 1][1], n = Math.hypot(dx, dy) || 1;
+    return [pts[i - 1][0] + dx * t, pts[i - 1][1] + dy * t, dx / n, dy / n];
+  };
+  return { length: cum[cum.length - 1], at };
+}
+
+// Spread a name's letters, each upright, along a line through its region: the Eilers manner.
+function spreadLetters(text, ptsKm, T, opt) {
+  const pts = ptsKm.map(p => [p[0] * T.k + T.x, p[1] * T.k + T.y]);
+  const poly = polyAt(pts);
+  const n = text.length;
+  let s = opt.size;
+  let span = Math.min(poly.length * (opt.fill ?? 0.84), n * s * (opt.gap ?? 2.6));
+  if (span < n * s * 1.0) { s = span / n; if (s < opt.min) return null; }
+  const font = opt.font(s);
+  const tries = opt.tries ?? [[0, 0], [0.9, 0], [-0.9, 0], [0, 0.1], [0, -0.1], [1.8, 0], [-1.8, 0], [0.9, 0.12], [-0.9, -0.12]];
+  for (const [off, slide] of tries) {
+    const start = (poly.length - span) / 2 + slide * poly.length;
+    if (start < 0 || start + span > poly.length) continue;
+    const out = [];
+    let ok = true;
+    for (let i = 0; i < n; i++) {
+      const ch = text[i];
+      if (ch === " ") continue;
+      const [x0, y0, ux, uy] = poly.at(start + span * (i + 0.5) / n);
+      const x = x0 - uy * off * s, y = y0 + ux * off * s;
+      const w = measure(ch, font);
+      const b = [x - w / 2 - 1, y - s * 0.36 - 1, x + w / 2 + 1, y + s * 0.36 + 1];
+      if (!opt.force && (opt.boxes.hits(b) || offView(b))) { ok = false; break; }
+      out.push({ ch, x, y, b });
+    }
+    if (ok && out.length) return { s, letters: out };
+    if (opt.force && out.length) return { s, letters: out };
+  }
+  return null;
+}
+
+let view = { w: 0, h: 0 };
+const offView = b => b[2] < -40 || b[0] > view.w + 40 || b[3] < -40 || b[1] > view.h + 40;
+const inView = (x, y, pad = 0) => x >= -pad && x <= view.w + pad && y >= -pad && y <= view.h + pad;
+
+function placeLabels(T, root, size) {
+  view = size;
+  root.textContent = "";
+  const boxes = new Boxes();
+  const k = T.k;
+  const add = (cls, x, y, txt, s, extra = {}) => el(root, "text", { class: cls, x: x.toFixed(1), y: y.toFixed(1), "font-size": s.toFixed(1), ...extra }, txt);
+  // Furniture is off limits.
+  for (const f of [TITLE, KEY]) boxes.add([f.x * k + T.x - 4, f.y * k + T.y - 4, (f.x + f.w) * k + T.x + 4, (f.y + f.h) * k + T.y + 4]);
+  // Margin rulers: letters along the top and bottom, numbers down the sides, kept on screen.
+  const mark = (cls, x, y, txt, size, extra) => {
+    const w = measure(String(txt), `600 ${size}px Rokkitt`) + 4;
+    const x0 = extra["text-anchor"] === "middle" ? x - w / 2 : extra["text-anchor"] === "end" ? x - w : x;
+    const b = [x0, y - size, x0 + w, y + 3];
+    if (boxes.hits(b)) return;          // under the title block or key
+    add(cls, x, y, txt, size, extra);
+    boxes.add(b);
+  };
+  if (state.grid) {
+    const top = Math.max(-M * k * 0.45 + T.y, 12), bot = Math.min((H + M * 0.55) * k + T.y, view.h - 8);
+    const left = Math.max(-M * k * 0.5 + T.x, 10), right = Math.min((W + M * 0.5) * k + T.x, view.w - 10);
+    for (let i = 0; i < COLS; i++) {
+      const x = xOf(S.west + (i + 0.5) * STEP) * k + T.x;
+      if (x < 20 || x > view.w - 20) continue;
+      const L = String.fromCharCode(65 + i);
+      mark("lbl-margin", x, top + 4, L, 11, { "text-anchor": "middle" });
+      mark("lbl-margin", x, bot, L, 11, { "text-anchor": "middle" });
+    }
+    for (let j = 0; j < ROWS; j++) {
+      const y = yOf(S.north - (j + 0.5) * STEP) * k + T.y;
+      if (y < 30 || y > view.h - 20) continue;
+      mark("lbl-margin", left, y + 4, j + 1, 11, { "text-anchor": "middle" });
+      mark("lbl-margin", right, y + 4, j + 1, 11, { "text-anchor": "middle" });
+    }
+    // Whole degrees, where the grid lines meet the bottom and right edges of the map.
+    for (let lon = Math.ceil(S.west); lon <= S.east; lon++) {
+      const x = xOf(lon) * k + T.x, y = Math.min(H * k + T.y, view.h - 24) - 5;
+      if (x > 30 && x < view.w - 30) mark("lbl-deg", x + 4, y, `${lon}°E`, 10, { "text-anchor": "start" });
+    }
+    for (let lat = Math.ceil(S.south); lat <= S.north; lat++) {
+      const y = yOf(lat) * k + T.y, x = Math.min(W * k + T.x, view.w - 22) - 4;
+      if (y > 40 && y < view.h - 30) mark("lbl-deg", x, y - 4, `${lat}°N`, 10, { "text-anchor": "end" });
+    }
+  }
+  const drawLetters = (res, cls) => {
+    for (const L of res.letters) {
+      add(cls, L.x, L.y, L.ch, res.s, { "text-anchor": "middle", "dominant-baseline": "central" });
+      boxes.add(L.b);
+    }
+  };
+  // Everything with a point: royal cities, places, mountains, rivers, lakes and regions.
+  const items = [];
+  D.places.forEach((p, i) => {
+    const sx = p.x * k + T.x, sy = p.y * k + T.y;
+    if (!inView(sx, sy, 20)) return;
+    const rank = p.cap ? 1e6 : (p.c ? 1000 : 0) + p.v;
+    items.push({ kind: "place", p, i, sx, sy, rank });
+  });
+  D.features.mountains.forEach(m => items.push({ kind: "mount", p: m, sx: m.x * k + T.x, sy: m.y * k + T.y, rank: 1080 }));
+  D.features.waters.filter(w => w.lake).forEach(w => items.push({ kind: "lake", p: w, sx: w.x * k + T.x, sy: w.y * k + T.y, rank: 2e5 }));
+  D.features.regions.forEach(r => items.push({ kind: "region", p: r, sx: r.x * k + T.x, sy: r.y * k + T.y, rank: 1040 }));
+  D.features.rivers.forEach(r => items.push({ kind: "river", p: r, rank: r.n === "River Jordan" ? 3e5 : 1060 }));
+  items.sort((a, b) => b.rank - a.rank);
+  const dots = el(root, "g", {}), hits = el(root, "g", {});
+  const placeItem = it => {
+    if (it.kind === "river") {
+      const res = spreadLetters(it.p.n, it.p.pts, T, { size: 12.5, min: 11, gap: 1.25, fill: 0.9, font: F.italic, boxes,
+        tries: [[1.1, 0], [-1.1, 0], [1.1, 0.15], [-1.1, -0.15], [1.1, -0.15], [-1.1, 0.15]] });
+      if (res) drawLetters(res, "lbl-river");
+      return;
+    }
+    const { sx, sy } = it;
+    if (!inView(sx, sy, 0)) return;
+    let s, font, text, cls, r = 0, sub = null;
+    if (it.kind === "place") {
+      const p = it.p;
+      s = p.cap ? 15 : p.v >= 100 ? 14 : p.v >= 30 ? 13 : p.v >= 8 ? 12 : 11.5;
+      text = p.n + (p.c ? "" : "?");
+      font = F.place(s, !p.c); cls = "lbl-place" + (p.c ? "" : " unsure");
+      r = p.cap ? 4.2 : 2.6;
+      if (state.modern && modernName(p)) sub = p.m;
+    } else if (it.kind === "mount") {
+      s = 12.5; text = it.p.n; font = F.mount(s); cls = "lbl-mount"; r = 5;
+    } else if (it.kind === "lake") {
+      s = 12.5; text = it.p.n; font = F.italic(s); cls = "lbl-lake"; r = 0;
+    } else {
+      s = 12; text = it.p.n.toUpperCase(); font = F.italic(s); cls = "lbl-region"; r = 0;
+    }
+    const tw = measure(text, font) + (it.kind === "region" ? text.length * s * 0.22 : 0);
+    const subS = s - 1.5, subW = sub ? measure(sub, F.modern(subS)) : 0;
+    const w = Math.max(tw, subW), h = s * 0.78 + (sub ? subS * 1.05 : 0);
+    const dotBox = r ? [sx - r - 1, sy - r - 1, sx + r + 1, sy + r + 1] : null;
+    if (dotBox && boxes.hits(dotBox)) return;
+    const g = r + 3;
+    const cands = it.kind === "region" || (it.kind === "lake" && it.p.n.length > 16)
+      ? [[-w / 2, -h / 2], [-w / 2, -h / 2 - s], [-w / 2, -h / 2 + s]]
+      : [[g, -h / 2], [-g - w, -h / 2], [g * 0.7, -h - g * 0.5], [g * 0.7, g * 0.5], [-g * 0.7 - w, -h - g * 0.5],
+         [-g * 0.7 - w, g * 0.5], [-w / 2, -h - g], [-w / 2, g]];
+    let placed = null;
+    for (const [dx, dy] of cands) {
+      const b = [sx + dx - 1, sy + dy - 1, sx + dx + w + 1, sy + dy + h + 1];
+      if (offView(b) || b[0] < 2 || b[2] > view.w - 2) continue;
+      if (!boxes.hits(b)) { placed = { b, dx, dy }; break; }
+    }
+    if (!placed) return;
+    boxes.add(placed.b);
+    if (dotBox) boxes.add(dotBox);
+    const tx = sx + placed.dx, ty = sy + placed.dy + s * 0.74;
+    add(cls, tx + (it.kind === "region" ? s * 0.11 : 0), ty, text, s);
+    if (sub) add("lbl-modern", tx, ty + subS * 1.05, sub, subS);
+    if (it.kind === "place") {
+      const p = it.p;
+      if (p.cap) el(dots, "circle", { class: "cap-ring", cx: sx.toFixed(1), cy: sy.toFixed(1), r: 4.2 });
+      el(dots, "circle", { class: "dot" + (p.c ? "" : " unsure"), cx: sx.toFixed(1), cy: sy.toFixed(1), r: p.cap ? 2.2 : p.c ? 2.5 : 2.3 });
+      el(hits, "rect", { class: "hit", "data-i": it.i, x: (placed.b[0] - 2).toFixed(1), y: (Math.min(placed.b[1], sy - 6) - 2).toFixed(1),
+        width: (placed.b[2] - placed.b[0] + 4).toFixed(1), height: (Math.max(placed.b[3], sy + 6) - Math.min(placed.b[1], sy - 6) + 4).toFixed(1) });
+      el(hits, "circle", { class: "hit", "data-i": it.i, cx: sx.toFixed(1), cy: sy.toFixed(1), r: 10 });
+    } else if (it.kind === "mount") {
+      el(dots, "path", { class: "tuft", d: tuftPath(sx, sy + 2, 6.5) });
+    }
+  };
+  // 1. The royal cities and the most-named places, so no region name hides them.
+  const anchors = items.filter(it => it.kind === "place" && (it.p.cap || it.p.v >= 150));
+  anchors.forEach(placeItem);
+  // 2. The seas, the neighbouring peoples and the tribes, then the kingdoms in red.
+  const kingdomNames = new Set(D.kingdoms.map(kd => kd.name));
+  for (const w of D.features.waters.filter(w => w.pts)) {
+    const res = spreadLetters(w.n, w.pts, T, { size: Math.max(14, Math.min(30, k * 5)), min: 12, gap: 2.2, fill: 0.95, font: F.italic, boxes });
+    if (res) drawLetters(res, "lbl-sea");
+  }
+  const terrs = [...D.territories].sort((a, b) => b.width - a.width);
+  for (const t of terrs) {
+    const name = t.name.replace(" (east)", "").toUpperCase();
+    if (!t.spine || kingdomNames.has(name)) continue;
+    const nation = t.group === t.name;
+    let size = Math.max(12, Math.min(nation ? 30 : 26, t.width * k * 0.3)), res = null;
+    for (let tries = 0; tries < 2 && !res; tries++, size *= 0.8)
+      res = spreadLetters(name, t.spine, T, { size, min: 11, gap: 2.6, font: F.tribe, boxes });
+    if (res) drawLetters(res, nation ? "lbl-nation" : "lbl-tribe");
+  }
+  const wide = [[0, 0], [0.7, 0], [-0.7, 0], [0, 0.08], [0, -0.08], [1.4, 0], [-1.4, 0], [0.7, 0.1], [-0.7, -0.1],
+    [0.7, -0.1], [-0.7, 0.1], [0, 0.16], [0, -0.16], [2.1, 0], [-2.1, 0]];
+  for (const kd of D.kingdoms) {
+    let size = Math.max(24, Math.min(54, kd.width * k * 0.45)), res = null;
+    for (let tries = 0; tries < 4 && !res; tries++, size *= 0.82)
+      res = spreadLetters(kd.name, kd.spine, T, { size, min: 18, gap: 3.6, fill: 0.88, font: F.kingdom, boxes, tries: wide });
+    if (res) drawLetters(res, "lbl-kingdom");
+  }
+  // 3. Everything else, most important first.
+  const done = new Set(anchors);
+  for (const it of items) if (!done.has(it)) placeItem(it);
+  if (state.selected != null) {
+    const p = D.places[state.selected];
+    el(root, "circle", { class: "sel", cx: (p.x * k + T.x).toFixed(1), cy: (p.y * k + T.y).toFixed(1), r: 9 });
+  }
+}
+
+/* ---------- Zoom ---------- */
+
+let T = d3.zoomIdentity, drawnT = d3.zoomIdentity, fitK = 1;
+const dur = ms => (matchMedia("(prefers-reduced-motion: reduce)").matches ? 0 : ms);
+const zoom = d3.zoom()
+  .on("zoom", ev => {
+    T = ev.transform;
+    world.attr("transform", T);
+    // Until the labels are placed again, move them with the map.
+    const r = T.k / drawnT.k;
+    labels.attr("transform", `translate(${T.x - drawnT.x * r},${T.y - drawnT.y * r}) scale(${r})`);
+  })
+  .on("end", () => schedule());
+let timer = 0;
+function schedule() { clearTimeout(timer); timer = setTimeout(render, 40); }
+function render() {
+  const rect = svg.node().getBoundingClientRect();
+  labels.attr("transform", null);
+  placeLabels(T, labels.node(), { w: rect.width, h: rect.height });
+  drawnT = T;
+}
+function fitTransform(w, h, pad = 8) {
+  const k = Math.min((w - 2 * pad) / (W + 2 * M), (h - 2 * pad) / (H + 2 * M));
+  return d3.zoomIdentity.translate((w - (W + 2 * M) * k) / 2 + M * k, (h - (H + 2 * M) * k) / 2 + M * k).scale(k);
+}
+function setup(fill = false) {
+  const rect = svg.node().getBoundingClientRect();
+  const topPad = rect.width < 640 ? 64 : 8;
+  const fit = fitTransform(rect.width, rect.height - topPad, 8);
+  let t = fit.translate(0, topPad / fit.k);
+  fitK = t.k;
+  zoom.scaleExtent([fitK * 0.8, fitK * 16])
+    .translateExtent([[-M - 60, -M - 60], [W + M + 60, H + M + 60]]);
+  if (fill && rect.height - topPad > rect.width * 1.25) {
+    // A tall phone screen: fill its height and centre on the Jordan, rather than leave bands of table.
+    const k = (rect.height - topPad - 16) / (H + 2 * M);
+    t = d3.zoomIdentity.translate(rect.width / 2 - W * 0.56 * k, topPad + 8 + M * k).scale(k);
+  }
+  return t;
+}
+
+/* ---------- Panels, card, index ---------- */
+
+// OpenBible gives a few sites a description rather than a name ("between Gibeah and Ramah").
+const modernName = p => p.m && p.m !== p.n && /^[A-Z]/.test(p.m) && !/\b(between|near|north|south|east|west) /.test(p.m);
+const byName = D.places.map((p, i) => ({ i, key: (p.n + " " + (p.a || []).join(" ") + " " + (p.m || "")).toLowerCase() }));
+function confidence(p) {
+  return p.s >= 700 ? "Certain or nearly so" : p.s >= 500 ? "Likely" : p.s >= 350 ? "Possible" : "Uncertain";
+}
+function showCard(i) {
+  state.selected = i;
+  const p = D.places[i];
+  const card = document.getElementById("card");
+  card.innerHTML = "";
+  const close = document.createElement("button");
+  close.className = "close"; close.type = "button"; close.setAttribute("aria-label", "Close");
+  close.innerHTML = '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M6 6l12 12M18 6 6 18"/></svg>';
+  close.onclick = () => { card.hidden = true; state.selected = null; render(); };
+  card.append(close);
+  const kind = document.createElement("div");
+  kind.className = "kind";
+  kind.textContent = p.cap ? p.cap : "Town";
+  const h = document.createElement("h2");
+  h.textContent = p.n + (p.c ? "" : "?");
+  const dl = document.createElement("dl");
+  const row = (a, b) => { const dt = document.createElement("dt"), dd = document.createElement("dd"); dt.textContent = a; if (b instanceof Node) dd.append(b); else dd.textContent = b; dl.append(dt, dd); };
+  if (p.m) row(modernName(p) || p.m === p.n ? "Site today" : "Site", p.m);
+  row("Location", `${confidence(p)} (score ${p.s.toLocaleString("en-US")} of 1,000)`);
+  if (p.t) row("Allotted to", /^(Philistia|Phoenicia|Aram|Ammon|Moab|Edom)$/.test(p.t) ? p.t + " (not allotted)" : p.t.replace(" (east)", ", east of the Jordan"));
+  row("First named", p.f);
+  row("Named in", `${p.v} verse${p.v === 1 ? "" : "s"}`);
+  if (p.a) row("Also at this site", p.a.join(", "));
+  row("Grid square", ref(p));
+  const a = document.createElement("a");
+  a.href = "https://www.openbible.info/geo/ancient/" + p.id; a.target = "_blank"; a.rel = "noopener";
+  a.textContent = "Identifications on OpenBible.info";
+  row("Sources", a);
+  card.append(kind, h, dl);
+  card.hidden = false;
+  render();
+}
+
+function openPanel(id) {
+  for (const p of document.querySelectorAll(".panel")) p.hidden = p.id !== id || !p.hidden;
+  for (const b of document.querySelectorAll("[data-panel]")) b.setAttribute("aria-pressed", String(b.dataset.panel === id && !document.getElementById(id).hidden));
+  if (id === "find" && !document.getElementById("find").hidden) document.querySelector("#find input").focus();
+}
+
+function buildIndex() {
+  const list = document.querySelector("#find ol"), count = document.querySelector("#find .count");
+  const input = document.querySelector("#find input");
+  const sorted = D.places.map((p, i) => i).sort((a, b) => D.places[a].n.localeCompare(D.places[b].n));
+  const fill = () => {
+    const q = input.value.trim().toLowerCase();
+    const hits = q ? sorted.filter(i => byName[i].key.includes(q)) : sorted;
+    count.textContent = `${hits.length} of ${D.places.length} places`;
+    list.textContent = "";
+    for (const i of hits.slice(0, 200)) {
+      const p = D.places[i];
+      const li = document.createElement("li"), b = document.createElement("button");
+      b.type = "button";
+      const left = document.createElement("span");
+      left.innerHTML = `<span class="nm"></span><span class="sub"></span>`;
+      left.querySelector(".nm").textContent = p.n + (p.c ? "" : "?");
+      left.querySelector(".sub").textContent = [p.m, p.t && p.t.replace(" (east)", ", east")].filter(Boolean).join(" · ");
+      const r = document.createElement("span"); r.className = "ref"; r.textContent = ref(p);
+      b.append(left, r);
+      b.onclick = () => {
+        const rect = svg.node().getBoundingClientRect();
+        const k = Math.max(T.k, fitK * 4);
+        const t = d3.zoomIdentity.translate(rect.width / 2 - p.x * k, rect.height * 0.42 - p.y * k).scale(k);
+        if (rect.width < 640) openPanel("find");
+        svg.transition().duration(dur(650)).call(zoom.transform, t).on("end", () => showCard(i));
+      };
+      li.append(b); list.append(li);
+    }
+  };
+  input.addEventListener("input", fill);
+  fill();
+  // The printed index, on the page after the sheet.
+  const g = document.querySelector("#gazetteer ol");
+  for (const i of sorted) {
+    const p = D.places[i], li = document.createElement("li");
+    li.innerHTML = "<span></span><span></span>";
+    li.firstChild.textContent = p.n + (p.c ? "" : "?");
+    li.lastChild.textContent = ref(p);
+    g.append(li);
+  }
+}
+
+/* ---------- Print and SVG ---------- */
+
+function sheetSVG(wPx, hPx) {
+  // A standalone copy of the whole sheet, labelled for a page of the given size.
+  const t = fitTransform(wPx, hPx, 0);
+  const out = document.createElementNS(NS, "svg");
+  out.setAttribute("xmlns", NS);
+  out.setAttribute("viewBox", `0 0 ${wPx} ${hPx}`);
+  out.setAttribute("width", wPx); out.setAttribute("height", hPx);
+  const style = document.createElementNS(NS, "style");
+  const vars = ["--paper", "--wild", "--yellow", "--salmon", "--blush", "--lime", "--sage", "--olive", "--water", "--map-ink", "--vermilion", "--deep-red", "--river", "--wave", "--region-ink"];
+  let cssText = "@import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&family=Old+Standard+TT:ital,wght@0,400;0,700;1,400&family=Rokkitt:wght@500;600;700&display=swap');\n";
+  cssText += "svg{" + vars.map(v => `${v}:${css(v)}`).join(";") + "}\n";
+  for (const sheet of document.styleSheets) {
+    try { for (const r of sheet.cssRules) if (r.selectorText && /\.(lbl|dot|cap-ring|tuft)/.test(r.selectorText)) cssText += r.cssText + "\n"; } catch (e) { /* cross-origin font sheet */ }
+  }
+  cssText = cssText.replace(/var\(--serif\)/g, '"Old Standard TT", Georgia, serif');
+  style.textContent = cssText;
+  out.append(style);
+  out.append(document.querySelector("#map defs").cloneNode(true));
+  const w = world.node().cloneNode(true);
+  w.removeAttribute("id");
+  w.setAttribute("transform", `translate(${t.x},${t.y}) scale(${t.k})`);
+  out.append(w);
+  const lab = document.createElementNS(NS, "g");
+  const saved = state.selected; state.selected = null;
+  placeLabels(t, lab, { w: wPx, h: hPx });
+  state.selected = saved;
+  for (const h of lab.querySelectorAll(".hit")) h.remove();
+  out.append(lab);
+  return out;
+}
+
+document.getElementById("save").onclick = () => {
+  const s = new XMLSerializer().serializeToString(sheetSVG(816, 1056));
+  const a = document.createElement("a");
+  a.href = URL.createObjectURL(new Blob([s], { type: "image/svg+xml" }));
+  a.download = "map-07-kingdoms-of-judah-and-israel.svg";
+  document.body.append(a); a.click(); a.remove();
+  setTimeout(() => URL.revokeObjectURL(a.href), 4000);
+};
+
+let printing = null;
+function beforePrint() {
+  if (printing) return;
+  printing = T;
+  // Letter, less the page margins, at 96 px to the inch.
+  const w = 7.8 * 96, h = 10.3 * 96;
+  const t = fitTransform(w, h, 0);
+  svg.attr("viewBox", `0 0 ${w} ${h}`);
+  world.attr("transform", t);
+  labels.attr("transform", null);
+  placeLabels(t, labels.node(), { w, h });
+}
+function afterPrint() {
+  if (!printing) return;
+  svg.attr("viewBox", null);
+  world.attr("transform", T);
+  printing = null;
+  render();
+}
+window.addEventListener("beforeprint", beforePrint);
+window.addEventListener("afterprint", afterPrint);
+document.getElementById("print").onclick = () => { beforePrint(); window.print(); };
+
+/* ---------- Start ---------- */
+
+drawSheet();
+buildIndex();
+for (const b of document.querySelectorAll("[data-panel]")) b.onclick = () => openPanel(b.dataset.panel);
+for (const b of document.querySelectorAll(".panel .close")) b.onclick = () => openPanel(null);
+for (const box of document.querySelectorAll("[data-layer]")) box.onchange = () => {
+  state[box.dataset.layer] = box.checked;
+  document.getElementById("relief").style.display = state.relief ? "" : "none";
+  document.getElementById("tribe-borders").style.display = state.tribes ? "" : "none";
+  document.getElementById("grid").style.display = state.grid ? "" : "none";
+  render();
+};
+labels.on("click", ev => {
+  const i = ev.target.getAttribute && ev.target.getAttribute("data-i");
+  if (i != null) showCard(+i);
+});
+document.addEventListener("keydown", ev => {
+  if (ev.target.tagName === "INPUT") return;
+  if (ev.key === "+" || ev.key === "=") svg.transition().duration(dur(250)).call(zoom.scaleBy, 1.6);
+  else if (ev.key === "-") svg.transition().duration(dur(250)).call(zoom.scaleBy, 1 / 1.6);
+  else if (ev.key === "Escape") { openPanel(null); document.getElementById("card").hidden = true; state.selected = null; render(); }
+});
+document.getElementById("zin").onclick = () => svg.transition().duration(dur(300)).call(zoom.scaleBy, 1.8);
+document.getElementById("zout").onclick = () => svg.transition().duration(dur(300)).call(zoom.scaleBy, 1 / 1.8);
+document.getElementById("zfit").onclick = () => svg.transition().duration(dur(500)).call(zoom.transform, setup());
+svg.call(zoom).on("dblclick.zoom", null);
+const start = setup(true);
+svg.call(zoom.transform, start);
+(document.fonts ? document.fonts.ready : Promise.resolve()).then(() => { widthCache.clear(); render(); });
+window.addEventListener("resize", () => { setup(); schedule(); });
+</script>

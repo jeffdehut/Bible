@@ -35,10 +35,11 @@ connections/                     Obsidian notes: cross-references, people, place
   genealogy/                     Family groups, generation by generation
   events/ timeline/              Dated events, century notes, synchronisms, the chart
 data/                            Curated rulers, eras, world events and synchronisms (see data/README.md)
-site/                            Two web pages built from the data: open them in any browser
+site/                            Web pages built from the data: open them in any browser
   genealogy.html                 The Generations: the line from Adam to Jesus and a family explorer
   history.html                   Streams of Time: world history, AD 30 to today, beside the Bible
-  src/ data/                     The page sources and the JSON they are built with
+  maps/kingdoms.html             Map No. 7, The Kingdoms of Judah and Israel (a style study)
+  src/ data/ maps/data/          The page sources and the JSON they are built with
 books.json                       Index: names, OSIS ids, languages, counts, paths, Tanakh order
 sources/                         Raw upstream files, byte for byte (see sources/README.md)
 scripts/
@@ -50,6 +51,7 @@ scripts/
   genealogy.py, chronology.py,   Family graph (TIPNR), dates (Theographic), timeline notes,
   timeline.py, chart.py          and the synchronological chart
   webpages.py                    Builds the two pages in site/ (run by connections.py)
+  maps.py                        Builds the maps in site/maps/ from elevation and place data
 .obsidian/                       Obsidian settings: graph colors and filters
 VERIFICATION.md                  What was checked, what was found, what was fixed
 TRANSLATION.md                   Translation goals, principles, decisions, format and review process
@@ -130,6 +132,15 @@ the genealogy and the timeline for readers who don't use Obsidian. Each is a sin
 that opens in a browser, works on phones, and follows the reader's light or dark setting.
 `scripts/connections.py` rebuilds them from `site/src/` and the same data as the notes.
 
+`site/maps/kingdoms.html` is the first of the Bible maps: Map No. 7, *The Kingdoms of Judah
+and Israel*, a style study redrawing the Eilers Sunday School wall map of that name from open
+data (see the map style in [ROADMAP.md](ROADMAP.md)). It zooms and pans on phones, adds names
+as you zoom in without letting them overlap, prints on a Letter page with an index of places,
+and downloads as SVG. The land, water and relief come from elevation data; the places from
+OpenBible.info's Bible geocoding, with a "?" where the location is uncertain. The tribal
+territories are approximate: each piece of land goes to the tribe whose towns in Joshua 13–19
+and 21 are nearest. `scripts/maps.py` rebuilds it.
+
 The data is open: OpenBible.info cross-references; STEPBible's tagged names, family links and
 verse-numbering mapping; Theographic's dates; and Wikidata identifiers. Start with
 [connections/README.md](connections/README.md).
@@ -141,9 +152,11 @@ python3 scripts/build.py     # regenerate text/, apparatus/, books.json
 python3 scripts/verify.py    # compare everything with the published editions (needs network)
 python3 scripts/translation.py   # check and compile the translation into text/english/
 python3 scripts/connections.py   # regenerate connections/ (needs network)
+python3 scripts/maps.py          # rebuild the maps in site/maps/ (needs network)
 ```
 
-Both use only the Python standard library. `verify.py` checks every verse against the
+These use only the Python standard library, except `maps.py`, which also needs numpy, scipy
+and Pillow. `verify.py` checks every verse against the
 upstream releases and an independent edition of the SBLGNT (MorphGNT). It also confirms
 that every Markdown file parses back to exactly its source. See
 [VERIFICATION.md](VERIFICATION.md).
@@ -194,6 +207,10 @@ the printed 1894 edition.
   combine OpenBible.info (CC BY), STEPBible (CC BY 4.0) and Theographic (CC BY-SA 4.0) data,
   so they inherit Theographic's share-alike terms. See `connections/README.md` for
   attributions.
+- **Maps** (`site/maps/`): [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Places
+  from the [OpenBible.info Bible Geocoding Data](https://github.com/openbibleinfo/Bible-Geocoding-Data)
+  (CC BY 4.0). Elevation from the AWS Terrain Tiles (SRTM, GMTED2010 and ETOPO1; see the
+  [attribution list](https://github.com/tilezen/joerd/blob/master/docs/attribution.md)).
 
 ## Ideas for next steps
 

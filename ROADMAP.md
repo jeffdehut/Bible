@@ -175,12 +175,36 @@ maps are drawn fresh from open data, not traced.
   - a condensed slab such as Rokkitt or Zilla Slab for regions
   - Bodoni Moda or Playfair Display for the red overprints
 
-**Style study.** The first map redraws Map No. 7, *The Kingdoms of Judah and Israel*, so the
-two can be compared side by side. Exodus routes and station tables (Map No. 5) come next.
+**Style study (done).** Map No. 7, *The Kingdoms of Judah and Israel*
+(`site/maps/kingdoms.html`, built by `scripts/maps.py`), redraws the Eilers map from open data
+so the two can be compared side by side. It settled:
 
-**Boundaries.** Tribal and kingdom boundaries have no open dataset that we know of. We will
-draw them from the boundary lists in Joshua 13–19 and the identified sites, and mark them as
-approximate.
+- **Fonts:** Abril Fatface for the red kingdom names and the title; Rokkitt for the tribes and
+  peoples, set as upright letters spaced along a line through each region, as Eilers did;
+  Old Standard TT for places, water and the key.
+- **Tints:** the palette above, unchanged. Kingdoms take one tint each, and neighbouring
+  peoples share the remaining tints only where they don't touch.
+- **Labels:** placed by priority on the reader's screen (royal cities and the most-named
+  places first, then regions, then the rest), so none overlap and more appear on zooming in.
+  The same placement lays out the printed page and the SVG.
+- **Water and relief:** the coast and lakes come from elevation data, with Lake Huleh and the
+  Dead Sea at their old shorelines; rivers follow the drainage of the land.
+
+**Next for the maps:**
+- Relief closer to engraved hachures: strokes in tiers between contours rather than scattered
+  dashes.
+- A plan of Jerusalem as an inset, as on the Eilers sheet.
+- Check every place name against the translation. Names are taken in the spelling our
+  translation uses most, but the translation itself has a few inconsistencies to settle (for
+  example Beth-shan and Beth-shean).
+- The Exodus map (Map No. 5), for routes and station tables.
+
+**Boundaries.** No open dataset of tribal and kingdom boundaries is known to us, so the
+territories are allotted automatically. Each piece of land goes to the tribe whose towns in
+Joshua 13–19 and 21 are nearest on foot. Lakes cannot be crossed, and rivers are costly to
+cross, so borders tend to follow them. A few towns are assigned by hand, with their verses,
+in `scripts/maps.py`. The result is marked as approximate and needs review by someone who
+knows the historical geography.
 
 ## 3. Genealogy viewer
 
@@ -239,7 +263,7 @@ A new translation into Traditional Chinese (繁體中文), made like the English
 ## Order of work
 
 1. Foundation and the reader, with verse-level original language and draft labels.
-2. Maps, beginning with the style study (Eilers Map No. 7 redrawn), then the Exodus map.
+2. Maps: the style study (Eilers Map No. 7 redrawn) is done; the Exodus map is next.
 3. Genealogy viewer.
 4. Phrase-level original language, alongside human review of the English.
 5. Accounts.
@@ -248,6 +272,5 @@ A new translation into Traditional Chinese (繁體中文), made like the English
 ## Open questions
 
 - Domain and hosting account (see *Decisions so far*).
-- Fonts and final tints, settled in the style study.
-- How to source tribal and kingdom boundaries.
+- Review of the approximate tribal territories on Map No. 7.
 - Reviewers for the English, and later the Chinese.
