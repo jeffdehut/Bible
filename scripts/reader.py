@@ -1,4 +1,4 @@
-"""Build the data for the web reader, site/index.html.
+"""Build the data for the web reader, index.html.
 
     python3 scripts/reader.py
 
@@ -7,19 +7,19 @@ Reads   translation/NN-book/CCC.md   the Open Plain English Translation, with it
         STEPBible TAHOT and TAGNT     word-by-word English glosses, Strong's numbers and grammar
         STEPBible TBESH and TBESG     brief lexicons, keyed by Strong's number
         (the STEPBible files are downloaded once into .cache/stepbible/)
-Writes  site/data/bible/books.json            the books, their chapters and each chapter's status
-        site/data/bible/text/NN-book.json     each book: English verses and notes, the source
-                                               text, paragraph breaks and English verse numbers
-        site/data/bible/words/NN-book.json    each book's words, verse by verse, in the order the
-                                               reader splits the source verse into words: each
-                                               "transliteration|gloss|Strong's|grammar[|main]",
-                                               words separated by "¦". Strong's numbers drop their
-                                               H or G and leading zeros; the grammar starts with H
-                                               (Hebrew) or A (Aramaic) in the Old Testament; "main"
-                                               is the morpheme that carries the meaning, if not
-                                               the last
-        site/data/bible/lexicon/xNN.json      the lexicon entries the words use, in chunks
-        site/data/bible/search.json           every English verse as plain text, for search
+Writes  data/bible/books.json            the books, their chapters and each chapter's status
+        data/bible/text/NN-book.json     each book: English verses and notes, the source
+                                          text, paragraph breaks and English verse numbers
+        data/bible/words/NN-book.json    each book's words, verse by verse, in the order the
+                                          reader splits the source verse into words: each
+                                          "transliteration|gloss|Strong's|grammar[|main]",
+                                          words separated by "¦". Strong's numbers drop their
+                                          H or G and leading zeros; the grammar starts with H
+                                          (Hebrew) or A (Aramaic) in the Old Testament; "main"
+                                          is the morpheme that carries the meaning, if not
+                                          the last
+        data/bible/lexicon/xNN.json      the lexicon entries the words use, in chunks
+        data/bible/search.json           every English verse as plain text, for search
 
 The words come from STEPBible's tagged texts, which follow the same manuscripts as ours (the
 Leningrad Codex; for the New Testament, the words TAGNT marks as being in the SBLGNT). Each of
@@ -42,7 +42,7 @@ import connections                            # noqa: E402
 from translation import parse_chapter         # noqa: E402
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-OUT = os.path.join(ROOT, "site", "data", "bible")
+OUT = os.path.join(ROOT, "data", "bible")
 
 STEP_FILES = {
     "tahot": ["Translators Amalgamated OT+NT/TAHOT " + part +

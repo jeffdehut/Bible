@@ -1,4 +1,4 @@
-"""Build the Bible maps in site/maps/.
+"""Build the Bible maps in maps/.
 
     python3 scripts/maps.py
 
@@ -13,8 +13,8 @@ from open data only:
 Needs numpy, scipy and Pillow, unlike the other scripts, which use only the standard library.
 
 Writes, for each map,
-        site/maps/data/NAME.json   every layer as SVG path data and points
-        site/maps/NAME.html        site/src/map.html with the map's words and data filled in
+        maps/data/NAME.json   every layer as SVG path data and points
+        maps/NAME.html        scripts/templates/map.html with the map's words and data filled in
 
     python3 scripts/maps.py exodus     build one map (kingdoms, exodus)
 
@@ -36,7 +36,7 @@ from scipy import ndimage
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 CACHE = os.path.join(ROOT, ".cache")
-SITE = os.path.join(ROOT, "site")
+SITE = ROOT                                   # the website is served from the repository root
 GEO_REPO = "https://github.com/openbibleinfo/Bible-Geocoding-Data"
 
 
@@ -1414,7 +1414,7 @@ def write_map(data, page):
     with open(os.path.join(SITE, "maps", "data", slug + ".json"), "w", encoding="utf-8", newline="\n") as f:
         json.dump(data, f, ensure_ascii=False, separators=(",", ":"))
         f.write("\n")
-    body = open(os.path.join(SITE, "src", "map.html"), encoding="utf-8").read()
+    body = open(os.path.join(ROOT, "scripts", "templates", "map.html"), encoding="utf-8").read()
     for k, v in page.items():
         body = body.replace("{{" + k + "}}", v)
     body = body.replace("<!-- DATA -->", f'<script type="application/json" id="data">{webpages._dump(data)}</script>')

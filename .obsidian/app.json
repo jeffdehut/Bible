@@ -1,7 +1,10 @@
 {
   "userIgnoreFilters": [
     "sources/",
-    "scripts/"
+    "scripts/",
+    "data/bible/",
+    "maps/",
+    "icons/"
   ],
   "alwaysUpdateLinks": false,
   "newLinkFormat": "absolute"

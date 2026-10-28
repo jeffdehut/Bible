@@ -1,15 +1,18 @@
-# Netlify settings for the website in site/.
+# Netlify settings. The website is the repository itself: index.html (the reader) is at the
+# root, with the pages, maps and data it links to beside it.
 #
 # Everything the site needs is already built and committed (scripts/translation.py,
 # connections.py, maps.py and reader.py), so Netlify only publishes the folder: there is no
-# build step. To rebuild the data, run those scripts locally and commit the result.
+# build step. To rebuild the data, run those scripts locally and commit the result. The other
+# folders (the source texts, the translation, the Obsidian notes) are published too, as plain
+# files; they are open data, and nothing links to them.
 
 [build]
-  publish = "site"
-  command = "echo 'Nothing to build: site/ is committed ready to serve'"
+  publish = "."
+  command = "echo 'Nothing to build: the site is committed ready to serve'"
 
 # A test environment: keep the drafts out of search engines until the site launches.
-# Remove this header, and site/robots.txt, when it goes live.
+# Remove this header, and robots.txt, when it goes live.
 [[headers]]
   for = "/*"
   [headers.values]
@@ -35,8 +38,8 @@
   [headers.values]
     Content-Type = "application/manifest+json"
 
-# The page sources in site/src/ only work once their data is inlined; don't serve them.
+# The page templates only work once the build scripts fill in their data; don't serve them.
 [[redirects]]
-  from = "/src/*"
+  from = "/scripts/templates/*"
   to = "/404.html"
   status = 404

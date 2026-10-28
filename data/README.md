@@ -1,8 +1,16 @@
-# Curated data
+# Data
 
 Small hand-curated tables used by `scripts/connections.py` for the timeline in
-`connections/timeline/` and the world-history notes in `connections/world/`. Unlike the other sources in this repository, these were compiled
-here, so every row is meant to be checked and corrected.
+`connections/timeline/` and the world-history notes in `connections/world/`. Unlike the other
+sources in this repository, these were compiled here, so every row is meant to be checked and
+corrected.
+
+The folder also holds data built for the website. The scripts regenerate it, so don't edit it
+by hand:
+
+- `bible/`: the reader's books, word data, lexicon and search index (`scripts/reader.py`)
+- `genealogy.json`, `history.json`: the data inlined in `genealogy.html` and `history.html`
+  (`scripts/connections.py`)
 
 ## rulers.csv
 

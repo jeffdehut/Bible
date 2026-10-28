@@ -1,11 +1,11 @@
-"""Build the two web pages in site/: the Bible genealogy and the world-history timeline.
+"""Build two pages of the website: the Bible genealogy and the world-history timeline.
 
     Called by scripts/connections.py, which has already built everything the pages show.
 
-Writes  site/data/genealogy.json   every person, their family links, names and dates
-        site/data/history.json     the world-history streams, rulers, events and synchronisms
-        site/genealogy.html        site/src/genealogy.html with its data inlined
-        site/history.html          site/src/history.html with its data inlined
+Writes  data/genealogy.json   every person, their family links, names and dates
+        data/history.json     the world-history streams, rulers, events and synchronisms
+        genealogy.html        scripts/templates/genealogy.html with its data inlined
+        history.html          scripts/templates/history.html with its data inlined
 Each page is a single file that opens in any browser, with no server and no network
 beyond its web fonts and one charting library.
 """
@@ -17,7 +17,9 @@ import re
 from chronology import year_label
 from notes import ROOT, ref_label
 
-SITE = os.path.join(ROOT, "site")
+# The website is served from the repository root; its page sources are in scripts/templates/.
+SITE = ROOT
+TEMPLATES = os.path.join(ROOT, "scripts", "templates")
 
 # The world-history streams, grouped for the page's filters, in drawing order.
 STREAM_GROUPS = [
@@ -138,10 +140,10 @@ STANDALONE = """<!doctype html>
 
 def page(name, data):
     """The page body (title, styles, markup, scripts) with its data inlined."""
-    src = open(os.path.join(SITE, "src", f"{name}.html"), encoding="utf-8").read()
+    src = open(os.path.join(TEMPLATES, f"{name}.html"), encoding="utf-8").read()
     marker = "<!-- DATA -->"
     if marker not in src:
-        raise ValueError(f"site/src/{name}.html has no {marker} marker")
+        raise ValueError(f"scripts/templates/{name}.html has no {marker} marker")
     return src.replace(marker, f'<script type="application/json" id="data">{_dump(data)}</script>')
 
 
@@ -152,7 +154,7 @@ def build(ctx, family_of, groups):
         with open(os.path.join(SITE, "data", f"{name}.json"), "w", encoding="utf-8", newline="\n") as f:
             json.dump(data, f, ensure_ascii=False, indent=1)
             f.write("\n")
-        if os.path.exists(os.path.join(SITE, "src", f"{name}.html")):
+        if os.path.exists(os.path.join(TEMPLATES, f"{name}.html")):
             with open(os.path.join(SITE, f"{name}.html"), "w", encoding="utf-8", newline="\n") as f:
                 f.write(STANDALONE.format(page=page(name, data)))
     g, h = pages["genealogy"], pages["history"]

@@ -58,6 +58,8 @@ a { color: var(--lapis); }
 :focus-visible { outline: 2px solid var(--lapis); outline-offset: 2px; border-radius: 4px; }
 h1, h2, h3 { font-family: var(--display); font-weight: 500; text-wrap: balance; margin: 0; }
 .eyebrow { font: 600 var(--step--1)/1.2 var(--sans); letter-spacing: 0.12em; text-transform: uppercase; color: var(--muted); margin: 0; }
+.eyebrow .home { color: inherit; text-decoration: underline; text-decoration-thickness: 1px; text-underline-offset: 3px; }
+.eyebrow .home:hover { color: var(--ink); }
 [lang="he"] { font-family: var(--display); }
 [lang="grc"] { font-family: var(--greek); }
 
@@ -200,7 +202,7 @@ footer p { margin: 0; }
 
 <header class="masthead">
   <div class="wrap">
-    <p class="eyebrow">Open Bible · Genealogy</p>
+    <p class="eyebrow"><a class="home" href="index.html"><span aria-hidden="true">←</span> Open Bible</a> · Genealogy</p>
     <div class="title-row">
       <h1>The Generations</h1>
       <figure class="epigraph">

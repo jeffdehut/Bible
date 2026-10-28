@@ -87,8 +87,15 @@ button { font: inherit; color: inherit; }
 .tag {
   background: var(--chrome); backdrop-filter: blur(8px); -webkit-backdrop-filter: blur(8px);
   border: 1px solid var(--line); border-radius: 12px; box-shadow: var(--shadow);
-  padding: 8px 12px 9px; min-width: 0; max-width: min(460px, 58vw);
+  padding: 8px 12px 9px 6px; min-width: 0; max-width: min(460px, 58vw);
+  display: flex; gap: 6px; align-items: center;
 }
+.tag .txt { min-width: 0; }
+.tag .home {
+  display: grid; place-items: center; flex: none; width: 30px; height: 34px; border-radius: 8px; color: var(--ink);
+}
+.tag .home:hover { background: color-mix(in srgb, var(--accent) 14%, transparent); }
+.tag .home svg { width: 18px; height: 18px; }
 .tag .no { font: 600 11px/1.2 var(--sans); letter-spacing: 0.12em; text-transform: uppercase; color: var(--muted); }
 .tag h1 { margin: 2px 0 0; font: 700 17px/1.15 var(--serif); letter-spacing: 0.01em; }
 .tag .draft { display: inline-block; margin-left: 6px; padding: 1px 6px; border-radius: 99px; background: var(--accent); color: var(--chrome-solid); font: 600 10px/1.5 var(--sans); letter-spacing: 0.08em; vertical-align: 2px; }
@@ -113,7 +120,7 @@ button { font: inherit; color: inherit; }
 @media (max-width: 640px) {
   .tools .lbl { display: none; }
   .tools button { padding: 7px 8px; }
-  .tag { max-width: calc(100vw - 210px); padding: 7px 10px 8px; }
+  .tag { max-width: calc(100vw - 210px); padding: 7px 10px 8px 4px; }
   .tag .no { font-size: 10px; letter-spacing: 0.08em; }
   .tag h1 { font-size: 14px; }
   .tag .draft { font-size: 9px; }
@@ -255,8 +262,11 @@ button { font: inherit; color: inherit; }
 
 <div class="bar">
   <div class="tag">
+    <a class="home" href="../index.html" title="Back to the Bible reader" aria-label="Back to the Bible reader"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M19 12H5m0 0 6-6m-6 6 6 6"/></svg></a>
+    <div class="txt">
     <div class="no"><span class="wide">Map </span>No. 7 · Style study<span class="draft">DRAFT</span></div>
     <h1>The Kingdoms of Judah and Israel</h1>
+    </div>
   </div>
   <nav class="tools" aria-label="Map tools">
     <button type="button" data-panel="find" aria-pressed="false" aria-label="Find a place"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><circle cx="11" cy="11" r="7"/><path d="m20 20-3.5-3.5"/></svg><span class="lbl">Find</span></button>

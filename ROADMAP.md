@@ -34,13 +34,14 @@ Chinese translation.
    files the app loads on demand: for each book, its text and notes, and separately its word
    data, which loads only when a verse is opened; the lexicon in twenty parts; and one file
    for search. `scripts/maps.py` does the same for the maps.
-2. **App shell (done).** `site/index.html` is one static web app that installs on a phone and
-   works offline, in the design of `site/genealogy.html` and `site/history.html`.
-3. **Hosting (to do).** Every push to the main branch publishes the `site/` folder.
+2. **App shell (done).** `index.html` is one static web app that installs on a phone and
+   works offline, in the design of `genealogy.html` and `history.html`.
+3. **Hosting (test site ready).** The repository root is the website, so every push to the
+   main branch can publish it as it is (see DEPLOY.md).
 
 ## 1. Reader
 
-**Stage 1 is built** (`site/index.html`, with its data from `scripts/reader.py`):
+**Stage 1 is built** (`index.html`, with its data from `scripts/reader.py`):
 
 - **Choosing a passage:** a book and chapter picker with Old and New Testament tabs, recent
   chapters, and typed references ("jn 3 16", "ps 23"). Swipe, tap or use the arrow keys to
@@ -187,7 +188,7 @@ maps are drawn fresh from open data, not traced.
   - Bodoni Moda or Playfair Display for the red overprints
 
 **Style study (done).** Map No. 7, *The Kingdoms of Judah and Israel*
-(`site/maps/kingdoms.html`, built by `scripts/maps.py`), redraws the Eilers map from open data
+(`maps/kingdoms.html`, built by `scripts/maps.py`), redraws the Eilers map from open data
 so the two can be compared side by side. It settled:
 
 - **Fonts:** Abril Fatface for the red kingdom names and the title; Rokkitt for the tribes and
@@ -210,8 +211,8 @@ so the two can be compared side by side. It settled:
   example Beth-shan and Beth-shean).
 - Map No. 4, *Western Asia*, for the nations around Israel, using the same template.
 
-**Map No. 5, The Exodus (done).** `site/maps/exodus.html` follows the camps of Numbers 33
-and turned the style study into a series: one page template (`site/src/map.html`) filled from
+**Map No. 5, The Exodus (done).** `maps/exodus.html` follows the camps of Numbers 33
+and turned the style study into a series: one page template (`scripts/templates/map.html`) filled from
 each map's data, with a route layer, numbered camps, a camp list and a printed camp table.
 
 - **Camps:** plotted at OpenBible.info's best proposed site when it scores at least 150, and

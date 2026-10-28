@@ -35,14 +35,18 @@ connections/                     Obsidian notes: cross-references, people, place
   genealogy/                     Family groups, generation by generation
   events/ timeline/              Dated events, century notes, synchronisms, the chart
 data/                            Curated rulers, eras, world events and synchronisms (see data/README.md)
-site/                            The website: the reader and pages built from the data
-  index.html                     The reader: the translation, with the Hebrew, Aramaic and Greek beneath
-  data/bible/                    The reader's data, one file per book (built by scripts/reader.py)
-  genealogy.html                 The Generations: the line from Adam to Jesus and a family explorer
-  history.html                   Streams of Time: world history, AD 30 to today, beside the Bible
-  maps/exodus.html               Map No. 5, The Exodus: the camps of Numbers 33
-  maps/kingdoms.html             Map No. 7, The Kingdoms of Judah and Israel (a style study)
-  src/ data/ maps/data/          The page sources and the JSON they are built with
+  bible/                         The reader's data, one file per book (built by scripts/reader.py)
+  genealogy.json, history.json   The data inlined in genealogy.html and history.html
+index.html                       The website's home page, the reader: the translation, with the Hebrew,
+                                 Aramaic and Greek beneath
+genealogy.html                   The Generations: the line from Adam to Jesus and a family explorer
+history.html                     Streams of Time: world history, AD 30 to today, beside the Bible
+maps/
+  exodus.html                    Map No. 5, The Exodus: the camps of Numbers 33
+  kingdoms.html                  Map No. 7, The Kingdoms of Judah and Israel (a style study)
+  data/                          Each map's data
+icons/, manifest.webmanifest,    The reader's app icon, install details and offline support, and the
+sw.js, 404.html, robots.txt      site's not-found page and instructions to crawlers
 books.json                       Index: names, OSIS ids, languages, counts, paths, Tanakh order
 sources/                         Raw upstream files, byte for byte (see sources/README.md)
 scripts/
@@ -53,14 +57,15 @@ scripts/
   connections.py                 Builds connections/ from open cross-reference and name data
   genealogy.py, chronology.py,   Family graph (TIPNR), dates (Theographic), timeline notes,
   timeline.py, chart.py          and the synchronological chart
-  webpages.py                    Builds the two pages in site/ (run by connections.py)
-  maps.py                        Builds the maps in site/maps/ from elevation and place data
-  reader.py                      Builds the reader's data in site/data/bible/
+  webpages.py                    Builds genealogy.html and history.html (run by connections.py)
+  maps.py                        Builds the maps in maps/ from elevation and place data
+  reader.py                      Builds the reader's data in data/bible/
+  templates/                     The page sources the scripts fill with data
 .obsidian/                       Obsidian settings: graph colors and filters
 VERIFICATION.md                  What was checked, what was found, what was fixed
 TRANSLATION.md                   Translation goals, principles, decisions, format and review process
 ROADMAP.md                       Plans: web reader, maps, genealogy viewer, accounts, Chinese
-DEPLOY.md, netlify.toml          Publishing site/ to Netlify (or any static host)
+DEPLOY.md, netlify.toml          Publishing the website to Netlify (or any static host)
 ```
 
 Files are numbered 01–66 in the common English book order. Hebrew Bibles use a different
@@ -132,7 +137,7 @@ It adds a genealogy and a timeline modeled on Sebastian C. Adams' *Synchronologi
 
 ## Web pages
 
-`site/index.html` is the reader, the home page of the site. Pick a book and chapter, or type a
+`index.html` is the reader, the home page of the site. Pick a book and chapter, or type a
 reference ("jn 3:16", "ps 23"), and swipe or use the arrow keys to turn the page. Every chapter
 shows its review status, and all are marked *Draft* until they are reviewed. Tap a verse to see
 it in Hebrew, Aramaic or Greek, word by word: each word's transliteration, a gloss, its grammar
@@ -142,16 +147,17 @@ Readers can highlight verses and write notes, which stay on their device, with a
 can copy or save. The reader searches the whole Bible on the device, follows the light or dark
 setting, offers English Bible verse numbers for the Old Testament, and works offline once
 installed. `scripts/reader.py` rebuilds its data from the translation. Because it loads its
-data as separate files, it needs a web server: `python3 -m http.server -d site` and then
-http://localhost:8000. To publish the site, see [DEPLOY.md](DEPLOY.md): Netlify serves
-`site/` as it is, with no build step.
+data as separate files, it needs a web server: `python3 -m http.server` in the repository
+folder, then http://localhost:8000. To publish the site, see [DEPLOY.md](DEPLOY.md): Netlify
+serves the repository as it is, with no build step. The reader's menu links to every page, and
+every page links back to the reader.
 
-`site/genealogy.html` (*The Generations*) and `site/history.html` (*Streams of Time*) present
+`genealogy.html` (*The Generations*) and `history.html` (*Streams of Time*) present
 the genealogy and the timeline for readers who don't use Obsidian. Each is a single file
 that opens in a browser, works on phones, and follows the reader's light or dark setting.
-`scripts/connections.py` rebuilds them from `site/src/` and the same data as the notes.
+`scripts/connections.py` rebuilds them from `scripts/templates/` and the same data as the notes.
 
-`site/maps/kingdoms.html` is the first of the Bible maps: Map No. 7, *The Kingdoms of Judah
+`maps/kingdoms.html` is the first of the Bible maps: Map No. 7, *The Kingdoms of Judah
 and Israel*, a style study redrawing the Eilers Sunday School wall map of that name from open
 data (see the map style in [ROADMAP.md](ROADMAP.md)). It zooms and pans on phones, adds names
 as you zoom in without letting them overlap, prints on a Letter page with an index of places,
@@ -160,13 +166,13 @@ OpenBible.info's Bible geocoding, with a "?" where the location is uncertain. Th
 territories are approximate: each piece of land goes to the tribe whose towns in Joshua 13–19
 and 21 are nearest. `scripts/maps.py` rebuilds it.
 
-`site/maps/exodus.html` is Map No. 5, *The Exodus*, on a Letter landscape page. It follows the
+`maps/exodus.html` is Map No. 5, *The Exodus*, on a Letter landscape page. It follows the
 42 camps of Numbers 33 from Rameses to the plains of Moab. A camp is plotted where OpenBible.info
 gives a proposed site with a score of at least 150 out of 1,000, and is marked "?" below 500.
 Between two camps the route follows the easiest ground, drawn solid where both sites are fairly
 secure and dashed elsewhere. Triangles mark the proposed sites of Mount Sinai. The Route panel
 lists every camp, including the 9 not plotted, and prints as a table after the sheet. Both
-maps are built from one page template, `site/src/map.html`, so later maps add only data.
+maps are built from one page template, `scripts/templates/map.html`, so later maps add only data.
 
 The data is open: OpenBible.info cross-references; STEPBible's tagged names, family links and
 verse-numbering mapping; Theographic's dates; and Wikidata identifiers. Start with
@@ -179,8 +185,8 @@ python3 scripts/build.py     # regenerate text/, apparatus/, books.json
 python3 scripts/verify.py    # compare everything with the published editions (needs network)
 python3 scripts/translation.py   # check and compile the translation into text/english/
 python3 scripts/connections.py   # regenerate connections/ (needs network)
-python3 scripts/maps.py          # rebuild the maps in site/maps/ (needs network)
-python3 scripts/reader.py        # rebuild the reader's data in site/data/bible/ (needs network once)
+python3 scripts/maps.py          # rebuild the maps in maps/ (needs network)
+python3 scripts/reader.py        # rebuild the reader's data in data/bible/ (needs network once)
 ```
 
 These use only the Python standard library, except `maps.py`, which also needs numpy, scipy
@@ -235,11 +241,11 @@ the printed 1894 edition.
   combine OpenBible.info (CC BY), STEPBible (CC BY 4.0) and Theographic (CC BY-SA 4.0) data,
   so they inherit Theographic's share-alike terms. See `connections/README.md` for
   attributions.
-- **Reader data** (`site/data/bible/`): [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
+- **Reader data** (`data/bible/`): [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
   It combines the translation, the UXLC and SBLGNT texts, and STEPBible's tagged texts and
   brief lexicons (TAHOT, TAGNT, TBESH and TBESG, CC BY 4.0, from
   [STEPBible.org](https://github.com/STEPBible/STEPBible-Data)).
-- **Maps** (`site/maps/`): [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Places
+- **Maps** (`maps/`): [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Places
   from the [OpenBible.info Bible Geocoding Data](https://github.com/openbibleinfo/Bible-Geocoding-Data)
   (CC BY 4.0). Elevation from the AWS Terrain Tiles (SRTM, GMTED2010 and ETOPO1; see the
   [attribution list](https://github.com/tilezen/joerd/blob/master/docs/attribution.md)).
