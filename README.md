@@ -53,6 +53,7 @@ scripts/
 .obsidian/                       Obsidian settings: graph colors and filters
 VERIFICATION.md                  What was checked, what was found, what was fixed
 TRANSLATION.md                   Translation goals, principles, decisions, format and review process
+ROADMAP.md                       Plans: web reader, maps, genealogy viewer, accounts, Chinese
 ```
 
 Files are numbered 01–66 in the common English book order. Hebrew Bibles use a different
@@ -196,9 +197,8 @@ the printed 1894 edition.
 
 ## Ideas for next steps
 
-- Word-level morphology and lemmas: MorphGNT for the SBLGNT, and the Open Scriptures Hebrew
-  Bible for the Hebrew
-- A lexicon/word-study layer keyed to verses
+The plan for the web reader, maps, genealogy viewer, accounts and a Traditional Chinese
+translation is in [ROADMAP.md](ROADMAP.md). Smaller ideas:
+
 - The modern (Thiele) dates for the kings of Israel and Judah beside Ussher's on the chart
 - Add the Robinson-Pierpont Byzantine text (public domain) as a further comparison edition
-- A small reader or search tool built on `books.json` + `text/`
