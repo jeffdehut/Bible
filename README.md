@@ -59,6 +59,7 @@ scripts/
 VERIFICATION.md                  What was checked, what was found, what was fixed
 TRANSLATION.md                   Translation goals, principles, decisions, format and review process
 ROADMAP.md                       Plans: web reader, maps, genealogy viewer, accounts, Chinese
+DEPLOY.md, netlify.toml          Publishing site/ to Netlify (or any static host)
 ```
 
 Files are numbered 01–66 in the common English book order. Hebrew Bibles use a different
@@ -141,7 +142,8 @@ can copy or save. The reader searches the whole Bible on the device, follows the
 setting, offers English Bible verse numbers for the Old Testament, and works offline once
 installed. `scripts/reader.py` rebuilds its data from the translation. Because it loads its
 data as separate files, it needs a web server: `python3 -m http.server -d site` and then
-http://localhost:8000.
+http://localhost:8000. To publish the site, see [DEPLOY.md](DEPLOY.md): Netlify serves
+`site/` as it is, with no build step.
 
 `site/genealogy.html` (*The Generations*) and `site/history.html` (*Streams of Time*) present
 the genealogy and the timeline for readers who don't use Obsidian. Each is a single file
