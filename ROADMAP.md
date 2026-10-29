@@ -77,6 +77,24 @@ Chinese translation.
   people it names under *People* and the places under *On the maps*.
 - Cross-references beside each verse (OpenBible.info, already in `connections/`).
 
+**Study helps** (chosen October 2026, in this order):
+
+1. **Topics and dictionary (done).** `scripts/study.py` builds Nave's Topical Bible (5,322
+   topics, about 78,000 references; public domain, CCEL's edition by way of CrossWire) and
+   Easton's Bible Dictionary (3,964 entries; Theographic's linked edition, CC BY-SA 4.0) into
+   `data/bible/study/`, with every reference moved to our verse numbers. A verse lists the
+   topics and dictionary entries that cite it; *Topics and dictionary* in the menu lists them
+   all, searchable, and a reference opens the verse in place before going to it. Next: link
+   the people and places a verse names to their dictionary entries.
+2. **Section headings and book introductions.** Headings through every chapter, and for each
+   book a short introduction (author, date, setting, outline, themes), written for this
+   translation in plain English and labelled as drafts like the translation, with their own
+   review status.
+3. **Parallel passages and reading plans.** Side-by-side parallels (the Gospels; Samuel and
+   Kings beside Chronicles; Old Testament passages quoted in the New), and reading plans
+   (through the Bible in a year, in canonical or chronological order, the New Testament, the
+   Psalms and Proverbs) with progress kept on the device and, when signed in, the account.
+
 ## 2. Maps
 
 - **Style.** See *Map style: after the Eilers wall maps* below. Maps keep their paper look in

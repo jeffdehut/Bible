@@ -38,6 +38,7 @@ data/                            Curated rulers, eras, world events and synchron
   bible/                         The reader's data, one file per book (built by scripts/reader.py);
                                  places.json, the places each verse names (scripts/maps.py); and
                                  people.json, the people each verse names (scripts/connections.py)
+  bible/study/                   Nave's topics and Easton's Bible dictionary, and the verses each cites (scripts/study.py)
   genealogy.json, history.json   The data inlined in genealogy.html and history.html
   graph.json, graph-briefs.json  The web of connections for graph.html: nodes, links, layout; descriptions
 index.html                       The website's home page, the reader: the translation, with the Hebrew,
@@ -77,6 +78,7 @@ scripts/
   graph.py                       Builds the web of connections and lays it out (run by connections.py)
   maps.py                        Builds the maps in maps/ from elevation and place data
   reader.py                      Builds the reader's data in data/bible/
+  study.py                       Builds the topics (Nave's) and Bible dictionary (Easton's) in data/bible/study/
   templates/                     The page sources the scripts fill with data
 VERIFICATION.md                  What was checked, what was found, what was fixed
 TRANSLATION.md                   Translation goals, principles, decisions, format and review process

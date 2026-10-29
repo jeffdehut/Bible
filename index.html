@@ -243,6 +243,51 @@ textarea { min-height: 88px; resize: vertical; }
 .places svg { width: 16px; height: 16px; flex: none; color: var(--lapis); }
 .places small { font: 500 12.5px/1.2 var(--sans); color: var(--muted); }
 .en-number { font-size: 13px; color: var(--muted); }
+.places button {
+  display: inline-flex; align-items: center; gap: 6px; min-height: 36px; padding: 6px 12px 6px 9px; border-radius: 99px; border: 0; cursor: pointer;
+  background: var(--lapis-soft); color: var(--ink); font: 600 14px/1.2 var(--sans); text-align: left;
+}
+.places button:hover { box-shadow: inset 0 0 0 1px var(--lapis); }
+.places button.more { background: transparent; color: var(--lapis); padding-inline: 6px; }
+
+/* Topics and dictionary */
+#study .tabs { margin-bottom: 10px; }
+#study-back { display: none; }
+#study.entry #study-back { display: inline-grid; }
+#study.entry .tabs, #study.entry #study-q, #study.entry #study-list, #study.entry #study-count { display: none; }
+#study:not(.entry) #study-entry { display: none; }
+.study-list { list-style: none; margin: 10px 0 0; padding: 0; columns: 2 220px; column-gap: 12px; }
+.study-list li { break-inside: avoid; }
+.study-list button {
+  width: 100%; text-align: left; border: 0; background: transparent; border-radius: 8px; padding: 8px 10px; cursor: pointer;
+  font: 500 16px/1.3 var(--read); color: var(--ink);
+}
+.study-list button:hover { background: var(--lapis-soft); }
+.study-entry h3 { margin: 4px 0 2px; font: 500 26px/1.15 var(--read); }
+.study-entry .kind { font: 600 12px/1.2 var(--sans); letter-spacing: 0.1em; text-transform: uppercase; color: var(--muted); }
+.study-entry .also { display: flex; flex-wrap: wrap; align-items: center; gap: 6px; margin: 12px 0 4px; font-size: 13px; color: var(--muted); }
+.study-entry .also button, .study-entry .xref {
+  border: 0; background: var(--lapis-soft); color: var(--ink); border-radius: 99px; padding: 5px 10px; font: 600 13px/1.2 var(--sans); cursor: pointer;
+}
+.study-entry .sub { margin: 14px 0 0; }
+.study-entry .sub.d1 { margin: 8px 0 0 16px; padding-left: 10px; border-left: 2px solid var(--line); }
+.study-entry .sub > p { margin: 0 0 6px; font: 600 15px/1.35 var(--sans); }
+.study-entry .sub.d1 > p { font-weight: 500; }
+.refs { display: flex; flex-wrap: wrap; gap: 4px; }
+.refs button {
+  border: 1px solid var(--line); background: var(--surface); color: var(--lapis); border-radius: 8px; padding: 4px 8px;
+  font: 600 13px/1.2 var(--sans); cursor: pointer; font-variant-numeric: tabular-nums;
+}
+.refs button[aria-expanded="true"] { background: var(--lapis-soft); border-color: var(--lapis); }
+.preview { flex-basis: 100%; margin: 4px 0 6px; padding: 10px 12px; border-radius: 10px; background: var(--surface); border: 1px solid var(--line); font: 400 16px/1.55 var(--read); }
+.preview .r { display: block; font: 600 12.5px/1.2 var(--sans); color: var(--muted); margin-bottom: 4px; }
+.preview .vn { vertical-align: 0.35em; }
+.preview a { display: inline-block; margin-top: 6px; font: 600 13px/1.2 var(--sans); text-decoration: none; }
+.dict p { font: 400 16px/1.6 var(--read); margin: 12px 0 0; }
+.dict ol { margin: 12px 0 0; padding-left: 22px; }
+.dict ol li { font: 400 16px/1.6 var(--read); margin-bottom: 8px; }
+.dict a { color: var(--lapis); text-decoration: none; font-family: var(--sans); font-size: 0.88em; font-weight: 600; cursor: pointer; }
+.study-entry .credit { margin-top: 16px; font-size: 12.5px; color: var(--faint); }
 
 /* Picker */
 .tabs { display: flex; gap: 4px; background: var(--bg); padding: 4px; border-radius: 12px; border: 1px solid var(--line); }
@@ -388,6 +433,14 @@ if (/(^#|&)(access_token|error)=/.test(location.hash)) {
     <h3>On the maps</h3>
     <ul class="places" id="vplaces"></ul>
   </div>
+  <div class="section" id="vtopics-wrap" hidden>
+    <h3>Topics</h3>
+    <ul class="places" id="vtopics"></ul>
+  </div>
+  <div class="section" id="vdict-wrap" hidden>
+    <h3>In the Bible dictionary</h3>
+    <ul class="places" id="vdict"></ul>
+  </div>
   <div class="section">
     <h3>Word by word</h3>
     <ol class="inter" id="inter"></ol>
@@ -445,6 +498,23 @@ if (/(^#|&)(access_token|error)=/.test(location.hash)) {
   <ol class="results" id="results"></ol>
 </section>
 
+<section class="sheet dialog" id="study" hidden aria-labelledby="study-title">
+  <div class="grab"></div>
+  <div class="sheet-head">
+    <button class="btn" type="button" id="study-back" aria-label="Back to the list"><svg class="icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="m15 5-7 7 7 7"/></svg></button>
+    <h2 id="study-title">Topics and dictionary</h2>
+    <button class="btn" type="button" data-close aria-label="Close"><svg class="icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M6 6l12 12M18 6 6 18"/></svg></button>
+  </div>
+  <div class="tabs" role="tablist" aria-label="Topics or dictionary">
+    <button type="button" role="tab" id="study-tab-t" aria-selected="true">Topics</button>
+    <button type="button" role="tab" id="study-tab-d" aria-selected="false">Dictionary</button>
+  </div>
+  <input type="search" id="study-q" placeholder="Find a topic: faith, prayer, Abraham" autocomplete="off" enterkeyhint="search" aria-label="Find">
+  <p class="count" id="study-count"></p>
+  <ol class="study-list" id="study-list"></ol>
+  <article class="study-entry" id="study-entry" aria-live="polite"></article>
+</section>
+
 <section class="sheet dialog" id="settings" hidden aria-labelledby="settings-title">
   <div class="grab"></div>
   <div class="sheet-head"><h2 id="settings-title">Display</h2><button class="btn" type="button" data-close aria-label="Close"><svg class="icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M6 6l12 12M18 6 6 18"/></svg></button></div>
@@ -479,6 +549,7 @@ if (/(^#|&)(access_token|error)=/.test(location.hash)) {
   <ul class="menu">
     <li><button type="button" id="open-mine"><span>My highlights and notes<small>Saved on this device</small></span></button></li>
     <li><button type="button" id="open-account" hidden><span>Sync across devices<small id="account-sub">Keep your highlights and notes on every device</small></span></button></li>
+    <li><button type="button" id="open-study"><span>Topics and dictionary<small>Nave’s topics and Easton’s Bible dictionary</small></span></button></li>
     <li><button type="button" id="open-about"><span>About this translation<small>A first draft, awaiting review</small></span></button></li>
     <li><a href="maps/index.html"><span>Bible maps<small>Eight sheets, from the patriarchs to Paul</small></span></a></li>
     <li><a href="genealogy.html"><span>The Generations<small>From Adam to Jesus, and every family</small></span></a></li>
@@ -531,6 +602,7 @@ if (/(^#|&)(access_token|error)=/.test(location.hash)) {
     <h3>Under each verse</h3>
     <p>Tap a verse to see it in Hebrew, Aramaic or Greek, word by word. The words, glosses and grammar come from STEPBible's tagged texts (TAHOT and TAGNT), and the definitions from its brief lexicons (TBESH and TBESG). STEPBible's glosses are its own, not this translation's.</p>
     <p>People a verse names are listed under <em>People</em>: tap one to see their family in the genealogy. The names come from STEPBible's TIPNR, which marks each name in the Hebrew, Aramaic and Greek.</p>
+    <p>Under <em>Topics</em>, a verse lists the topics of Nave’s Topical Bible (1896, public domain) that cite it, and under <em>In the Bible dictionary</em>, the entries of Easton’s Bible Dictionary (1897, public domain; linked edition from Theographic, CC BY-SA 4.0) that do. Both are also in the menu, under <em>Topics and dictionary</em>. Their verse numbers have been moved to this translation’s.</p>
     <p>Places a verse names are listed under <em>On the maps</em>: tap one to see it on the Bible map for that part of the story. Which verses name which places comes from OpenBible.info's Bible Geocoding Data (CC BY 4.0), kept only where this translation uses the name.</p>
     <h3>Licenses</h3>
     <p>Translation: CC BY 4.0. Hebrew: Unicode/XML Leningrad Codex (UXLC 2.6), Tanach.us. Greek: SBL Greek New Testament, © 2010 Society of Biblical Literature and Logos Bible Software, CC BY 4.0. Word data and lexicons: STEPBible.org, CC BY 4.0. Paragraphs follow the Masoretic paragraph marks and, in the New Testament, STEPBible's paragraph marks.</p>
@@ -880,6 +952,7 @@ async function openVerse(span) {
   $("vnotes-wrap").hidden = !labels.length;
   showPeople(b, c, n, span);
   showPlaces(b, c, n, span);
+  showStudy(b, c, n, span);
   // Highlight and note.
   const id = `${b.osis}.${c}.${n}`;
   const a = notes[id] || {};
@@ -974,6 +1047,180 @@ function fallbackCopy(s, done) {
   const t = el("textarea", { style: "position:fixed;opacity:0" }); t.value = s; document.body.append(t); t.select();
   try { document.execCommand("copy"); done(); } catch (e) { toast("Select the text to copy it"); }
   t.remove();
+}
+
+/* ---------- Topics (Nave's) and the dictionary (Easton's) ---------- */
+// Built by scripts/study.py: names in study/topics.json and study/dictionary.json, entries in
+// chunks of 200, and for each book the topics and entries that cite each verse.
+const STUDY_KIND = { t: { index: "study/topics.json", noun: "topic", hint: "Find a topic: faith, prayer, Abraham" },
+                     d: { index: "study/dictionary.json", noun: "entry", hint: "Find a word, person or place: ephod, Bethel" } };
+const studyEntry = (k, i) => getJSON(`study/${k}${String(Math.floor(i / 200)).padStart(2, "0")}.json`).then(a => a[i % 200]);
+const normName = s => s.normalize("NFD").replace(/[̀-ͯ]/g, "").toLowerCase();
+// "Gen.11.26-28", "Gen.11.26-12.3" or "Gen.15" -> { b, c, v, label }
+function parseRef(ref) {
+  const m = /^([1-3]?[A-Za-z]+)\.(\d+)(?:\.(\d+))?(?:-(\d+)(?:\.(\d+))?)?$/.exec(ref);
+  const b = m && byOsis[m[1]];
+  if (!b) return null;
+  const c = +m[2], v = m[3] ? +m[3] : null, name = b.osis === "Ps" ? "Psalm" : b.n;
+  let label = `${name} ${c}` + (v ? `:${v}` : "");
+  if (m[4]) label += m[5] ? `–${m[4]}:${m[5]}` : v ? `–${m[4]}` : `–${m[4]}`;
+  return { b, c, v, label };
+}
+let study = { k: "t", i: null, back: [] };
+function openStudy(k, i) {
+  study.k = k;
+  study.back = [];
+  openSheet("study");
+  if (i == null) { study.i = null; renderStudy(); } else showStudyEntry(k, i);
+}
+function setStudyTab(k) {
+  study.k = k; study.i = null;
+  $("study-tab-t").setAttribute("aria-selected", String(k === "t"));
+  $("study-tab-d").setAttribute("aria-selected", String(k === "d"));
+  $("study-q").placeholder = STUDY_KIND[k].hint;
+  renderStudy();
+}
+async function renderStudy() {
+  $("study").classList.remove("entry");
+  $("study-title").textContent = "Topics and dictionary";
+  for (const k of ["t", "d"]) $("study-tab-" + k).setAttribute("aria-selected", String(study.k === k));
+  $("study-q").placeholder = STUDY_KIND[study.k].hint;
+  let names;
+  try { names = await getJSON(STUDY_KIND[study.k].index); }
+  catch (e) { $("study-count").textContent = "This list couldn't be loaded. Check your connection and try again."; return; }
+  const q = normName($("study-q").value.trim());
+  let hits = names.map((n, i) => [n, i]);
+  if (q) {
+    hits = hits.map(([n, i]) => { const s = normName(n); return [n, i, s === q ? 0 : s.startsWith(q) ? 1 : s.includes(q) ? 2 : 3]; })
+      .filter(h => h[2] < 3).sort((a, b) => a[2] - b[2] || a[0].localeCompare(b[0]));
+  }
+  const LIMIT = 300;
+  $("study-count").textContent = q ? `${hits.length} ${hits.length === 1 ? STUDY_KIND[study.k].noun : study.k === "t" ? "topics" : "entries"} found` +
+    (hits.length > LIMIT ? `; the first ${LIMIT} are shown` : "")
+    : study.k === "t" ? `${names.length.toLocaleString("en")} topics from Nave’s Topical Bible, each with the verses on it.`
+    : `${names.length.toLocaleString("en")} entries from Easton’s Bible Dictionary.`;
+  $("study-list").replaceChildren(...hits.slice(0, LIMIT).map(([n, i]) =>
+    el("li", {}, el("button", { type: "button", text: n, onclick: () => showStudyEntry(study.k, i, true) }))));
+}
+// A verse's text, for a preview under a reference.
+async function verseText(b, c, v) {
+  const data = await getJSON("text/" + b.slug + ".json");
+  const ch = data.chapters[c - 1];
+  if (!ch) return [];
+  return ch.v.filter(r => (v == null ? r[0] <= 3 : r[0] === v)).map(r => [r[0], plainVerse(r[1])]);
+}
+function refButton(ref, box) {
+  const r = parseRef(ref);
+  if (!r) return null;
+  const btn = el("button", { type: "button", "aria-expanded": "false", text: r.label });
+  btn.onclick = async () => {
+    const open = btn.getAttribute("aria-expanded") === "true";
+    box.querySelectorAll(".preview").forEach(p => p.remove());
+    box.querySelectorAll("[aria-expanded=true]").forEach(x => x.setAttribute("aria-expanded", "false"));
+    if (open) return;
+    btn.setAttribute("aria-expanded", "true");
+    const pv = el("div", { class: "preview" }, el("span", { class: "r", text: r.label }));
+    btn.after(pv);
+    try {
+      const rows = await verseText(r.b, r.c, r.v);
+      for (const [n, t] of rows) pv.append(el("span", { class: "vn", text: n }), divineName(t, document.createDocumentFragment()), " ");
+      if (r.v == null) pv.append(el("span", { class: "missing", text: "…" }));
+    } catch (e) { pv.append("This passage couldn't be loaded."); }
+    pv.append(el("br"), el("a", { href: refHash(r.b, r.c, r.v || undefined), onclick: () => { closeSheets(); closeVerse(); }, text: "Read it in context →" }));
+  };
+  return btn;
+}
+// Easton's text: paragraphs, with references as [[Gen.10.22|Gen. 10:22]].
+function dictParagraph(text) {
+  const p = el("p");
+  let last = 0;
+  for (const m of text.matchAll(/\[\[([^|\]]+)\|([^\]]+)\]\]/g)) {
+    if (m.index > last) p.append(text.slice(last, m.index));
+    const r = parseRef(m[1]);
+    p.append(r ? el("a", { href: refHash(r.b, r.c, r.v || undefined), title: r.label, onclick: () => { closeSheets(); closeVerse(); }, text: m[2] }) : m[2]);
+    last = m.index + m[0].length;
+  }
+  if (last < text.length) p.append(text.slice(last));
+  return p;
+}
+async function showStudyEntry(k, i, push) {
+  if (push && study.i != null) study.back.push([study.k, study.i]);
+  study.k = k; study.i = i;
+  $("study").classList.add("entry");
+  const box = $("study-entry");
+  box.replaceChildren(el("p", { class: "count", text: "Loading…" }));
+  let e, names;
+  try { [e, names] = await Promise.all([studyEntry(k, i), getJSON(STUDY_KIND[k === "t" ? "d" : "t"].index)]); }
+  catch (err) { box.replaceChildren(el("p", { class: "count", text: "This entry couldn't be loaded. Check your connection and try again." })); return; }
+  $("study-title").textContent = k === "t" ? "Topic" : "Bible dictionary";
+  const kids = [el("div", { class: "kind", text: k === "t" ? "Nave’s Topical Bible" : "Easton’s Bible Dictionary" }), el("h3", { text: e.n })];
+  // The same name in the other book.
+  const other = names.findIndex(n => normName(n) === normName(e.n));
+  const also = el("div", { class: "also" });
+  if (other >= 0) also.append(el("button", { type: "button", onclick: () => showStudyEntry(k === "t" ? "d" : "t", other, true),
+    text: k === "t" ? `${e.n} in the dictionary` : `${e.n}: the topic, with its verses` }));
+  if (k === "t" && e.see) {
+    const tnames = await getJSON(STUDY_KIND.t.index);
+    also.append("See also");
+    for (const j of e.see) also.append(el("button", { type: "button", text: tnames[j], onclick: () => showStudyEntry("t", j, true) }));
+  }
+  if (also.childNodes.length) kids.push(also);
+  if (k === "t") {
+    for (const [head, depth, refs] of e.s) {
+      const sub = el("div", { class: `sub d${depth}` });
+      if (head) sub.append(el("p", { text: head }));
+      if (refs.length) {
+        const box2 = el("div", { class: "refs" });
+        for (const r of refs) { const b = refButton(r, box2); if (b) box2.append(b); }
+        sub.append(box2);
+      }
+      kids.push(sub);
+    }
+    kids.push(el("p", { class: "credit", text: "Nave’s Topical Bible (1896), public domain, from CCEL’s edition by way of CrossWire. Verse numbers follow this translation. Tap a reference to read it here." }));
+  } else {
+    const d = el("div", { class: "dict" });
+    if (e.s.length > 2) {
+      d.append(dictParagraph(e.s[0]));
+      const ol = el("ol");
+      for (const s of e.s.slice(1)) { const li = el("li"); for (const para of s.split("\n\n")) li.append(dictParagraph(para)); ol.append(li); }
+      d.append(ol);
+    } else for (const s of e.s) for (const para of s.split("\n\n")) d.append(dictParagraph(para));
+    kids.push(d, el("p", { class: "credit", text: "Easton’s Bible Dictionary (1897), public domain; linked edition from Theographic (CC BY-SA 4.0). Its references follow the King James Version." }));
+  }
+  box.replaceChildren(...kids);
+  $("study").scrollTop = 0;
+}
+$("study-back").onclick = () => {
+  const prev = study.back.pop();
+  if (prev) showStudyEntry(prev[0], prev[1]); else { study.i = null; renderStudy(); }
+};
+$("study-tab-t").onclick = () => setStudyTab("t");
+$("study-tab-d").onclick = () => setStudyTab("d");
+$("study-q").addEventListener("input", () => renderStudy());
+$("open-study").onclick = () => openStudy(study.k);
+// The verse panel: the topics that cite the verse, and the dictionary entries that do,
+// those whose name is in the verse first.
+async function showStudy(b, c, n, span) {
+  for (const id of ["vtopics", "vdict"]) { $(id + "-wrap").hidden = true; $(id).textContent = ""; }
+  let S, tn, dn;
+  try { [S, tn, dn] = await Promise.all([getJSON(`study/${b.slug}.json`), getJSON(STUDY_KIND.t.index), getJSON(STUDY_KIND.d.index)]); }
+  catch (e) { return; }
+  if (selected !== span) return;
+  const row = cur.chapter.v.find(r => r[0] === n), text = normName(plainVerse(row ? row[1] : ""));
+  const chips = (list, names, k, id) => {
+    const named = i => text.includes(normName(names[i]).replace(/ \d+$/, "")) ? 0 : 1;
+    const ids = [...list].sort((x, y) => named(x) - named(y) || names[x].localeCompare(names[y]));
+    const ul = $(id), LIMIT = 10;
+    const render = all => {
+      ul.replaceChildren(...(all ? ids : ids.slice(0, LIMIT)).map(i =>
+        el("li", {}, el("button", { type: "button", text: names[i], onclick: () => openStudy(k, i) }))));
+      if (!all && ids.length > LIMIT) ul.append(el("li", {}, el("button", { type: "button", class: "more", text: `+${ids.length - LIMIT} more`, onclick: () => render(true) })));
+    };
+    render(false);
+    $(id + "-wrap").hidden = !ids.length;
+  };
+  chips(S.t[`${c}:${n}`] || [], tn, "t", "vtopics");
+  chips(S.d[`${c}:${n}`] || [], dn, "d", "vdict");
 }
 
 /* ---------- A word ---------- */
