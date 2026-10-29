@@ -20,7 +20,7 @@ Each person and place note lists every chapter it appears in, in canonical order
 
 ## 4. Genealogy
 
-Every family relationship in TIPNR: 1,921 parent-child links connecting 2,064 people in 330 family groups. The largest, the [[connections/genealogy/Family of Adam|Family of Adam]], has 1,025 people over 78 generations. Each person note has a **Family** section, a family tree, and the line of descent from father to son as far back as the records go. Start at [[connections/genealogy/Genealogy|Genealogy]]. That note also lists where Theographic's independent family data differs: 1,418 parent links agree and 22 differ.
+Every family relationship in TIPNR: 1,908 parent-child links connecting 2,051 people in 330 family groups. The largest, the [[connections/genealogy/Family of Adam|Family of Adam]], has 1,012 people over 78 generations. Each person note has a **Family** section, a family tree, and the line of descent from father to son as far back as the records go. Start at [[connections/genealogy/Genealogy|Genealogy]]. That note also lists where Theographic's independent family data differs: 1,419 parent links agree and 21 differ.
 
 ## 5. Timeline (after Adams' Synchronological Chart)
 

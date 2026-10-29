@@ -5,19 +5,20 @@ tags: ["genealogy"]
 
 # Genealogy
 
-Every family relationship recorded in STEPBible's TIPNR, for 2,064 people in 330 family groups. Each person note has a **Family** section with parents, siblings, spouses and children, a family tree, and the line of descent from father to son as far back as the records go.
+Every family relationship recorded in STEPBible's TIPNR, for 2,051 people in 330 family groups. Each person note has a **Family** section with parents, siblings, spouses and children, a family tree, and the line of descent from father to son as far back as the records go.
 
 ## Notes on the data
 
 - **Uncertain links** are marked *(uncertain)*: TIPNR's `(?)` flag. *(ancestor)* marks a link to an ancestor rather than a parent, e.g. where a genealogy skips generations.
-- **Unnamed people** ("the father of …") are included when a line of descent passes through them. TIPNR models Matthew 1:15 with nine unnamed generations between Matthan and Jacob.
+- **Unnamed people** the text mentions ("the wife of Heli") are included when a line of descent passes through them.
+- **TIPNR's own placeholders are left out.** TIPNR fills two gaps with unnamed generations of its own: nine between Matthan and Jacob, to match the count of Luke 3, and four between Ithamar and Eli. No verse names or counts them. Matthew 1:15 calls Matthan the father of Jacob, so they are joined as father and son; Eli is linked to Ithamar as a descendant *(ancestor)*, since no verse says how many generations came between.
 - **Luke's genealogy** includes Cainan between Arpachshad and Shelah (Luke 3:36). He is not in Genesis 11 in the Hebrew text, but TIPNR includes him in the line.
 - **Mary** is given as the daughter of Heli, following the reading of Luke 3:23 as Mary's line.
 - **Israel** is the patriarch Jacob; TIPNR files him under that name.
 
 ## Cross-check with Theographic
 
-Theographic records parents independently. Where both datasets name a parent for the same person, **1,418 links agree** and **22 differ**; 8 more are in Theographic only. The differences are usually different identifications of people with the same name:
+Theographic records parents independently. Where both datasets name a parent for the same person, **1,419 links agree** and **21 differ**; 8 more are in Theographic only. The differences are usually different identifications of people with the same name:
 
 | Person | Theographic says | TIPNR says |
 |---|---|---|
@@ -26,7 +27,6 @@ Theographic records parents independently. Where both datasets name a parent for
 | [[connections/people/Heber (1 Chronicles 4.18)|Heber (1 Chronicles 4.18)]] | father: [[connections/people/Ishbah|Ishbah]] | [[connections/people/Jehudijah|Jehudijah]], [[connections/people/Mered|Mered]] |
 | [[connections/people/Hebron (1 Chronicles 2.42)|Hebron (1 Chronicles 2.42)]] | father: [[connections/people/Mesha (1 Chronicles 2.42)|Mesha (1 Chronicles 2.42)]] | [[connections/people/Mareshah (1 Chronicles 2.42)|Mareshah (1 Chronicles 2.42)]] |
 | [[connections/people/Hoshama|Hoshama]] | father: [[connections/people/Jehoiachin|Jehoiachin]] | [[connections/people/Shealtiel (1 Chronicles 3.17)|Shealtiel (1 Chronicles 3.17)]] |
-| [[connections/people/Jacob|Jacob]] | father: [[connections/people/Matthan|Matthan]] | [[connections/people/Unnamed 9 (Matthew 1.15)|Unnamed 9 (Matthew 1.15)]] |
 | [[connections/people/Jekuthiel|Jekuthiel]] | father: [[connections/people/Ishbah|Ishbah]] | [[connections/people/Jehudijah|Jehudijah]], [[connections/people/Mered|Mered]] |
 | [[connections/people/Jered|Jered]] | father: [[connections/people/Ishbah|Ishbah]] | [[connections/people/Jehudijah|Jehudijah]], [[connections/people/Mered|Mered]] |
 | [[connections/people/Jeush (2 Chronicles 11.19)|Jeush (2 Chronicles 11.19)]] | mother: [[connections/people/Abihail (2 Chronicles 11.18)|Abihail (2 Chronicles 11.18)]] | [[connections/people/Mahalath (2 Chronicles 11.18)|Mahalath (2 Chronicles 11.18)]], [[connections/people/Rehoboam|Rehoboam]] |
@@ -48,7 +48,7 @@ Theographic records parents independently. Where both datasets name a parent for
 
 | Family | People | Generations |
 |---|---|---|
-| [[connections/genealogy/Family of Adam|Family of Adam]] | 1025 | 78 |
+| [[connections/genealogy/Family of Adam|Family of Adam]] | 1012 | 78 |
 | [[connections/genealogy/Family of Aphiah|Family of Aphiah]] | 56 | 16 |
 | [[connections/genealogy/Family of Shaharaim|Family of Shaharaim]] | 44 | 5 |
 | [[connections/genealogy/Family of Jephunneh (Numbers 13.6)|Family of Jephunneh (Numbers 13.6)]] | 20 | 5 |

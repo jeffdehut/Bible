@@ -1,14 +1,14 @@
 ---
 type: "family"
 root: "Adam"
-people: 1025
+people: 1012
 generations: 78
 tags: ["genealogy"]
 ---
 
 # Family of Adam
 
-1025 people over 78 generations, counted down from [[connections/people/Adam|Adam]]. Generations follow parent-child links in TIPNR; an *ancestor* link (TIPNR flag `(a)`) counts as one step but may span several. People who join through marriage only appear under their own families.
+1012 people over 78 generations, counted down from [[connections/people/Adam|Adam]]. Generations follow parent-child links in TIPNR; an *ancestor* link (TIPNR flag `(a)`) counts as one step but may span several. People who join through marriage only appear under their own families.
 
 [[connections/genealogy/Genealogy|All families]]
 
@@ -713,7 +713,6 @@ tags: ["genealogy"]
 - [[connections/people/Shual|Shual]] — child of [[connections/people/Zophah|Zophah]]
 - [[connections/people/Suah|Suah]] — child of [[connections/people/Zophah|Zophah]]
 - [[connections/people/Tahan (1 Chronicles 7.25)|Tahan (1 Chronicles 7.25)]] — child of [[connections/people/Telah|Telah]]
-- [[connections/people/Unnamed 1 (1 Kings 2.27)|Unnamed 1 (1 Kings 2.27)]] — child of [[connections/people/Ithamar|Ithamar]]
 - [[connections/people/Uri (Exodus 31.2)|Uri (Exodus 31.2)]] — child of [[connections/people/Hur (Exodus 17.10)|Hur (Exodus 17.10)]]
 - [[connections/people/Uzzah (1 Chronicles 6.14)|Uzzah (1 Chronicles 6.14)]] — child of [[connections/people/Shimei (1 Chronicles 6.14)|Shimei (1 Chronicles 6.14)]]
 - [[connections/people/Zelophehad|Zelophehad]] — child of [[connections/people/Hepher (Numbers 26.32)|Hepher (Numbers 26.32)]]
@@ -762,7 +761,6 @@ tags: ["genealogy"]
 - [[connections/people/Tahath (1 Chronicles 6.9)|Tahath (1 Chronicles 6.9)]] — child of [[connections/people/Assir (1 Chronicles 6.8)|Assir (1 Chronicles 6.8)]]
 - [[connections/people/Tahath (1 Chronicles 7.20)|Tahath (1 Chronicles 7.20)]] — child of [[connections/people/Eleadah|Eleadah]]
 - [[connections/people/Tirzah|Tirzah]] — child of [[connections/people/Zelophehad|Zelophehad]]
-- [[connections/people/Unnamed 2 (1 Kings 2.27)|Unnamed 2 (1 Kings 2.27)]] — child of [[connections/people/Unnamed 1 (1 Kings 2.27)|Unnamed 1 (1 Kings 2.27)]]
 - [[connections/people/Zaccur (1 Chronicles 4.26)|Zaccur (1 Chronicles 4.26)]] — child of [[connections/people/Hammuel|Hammuel]]
 
 ## Generation 31
@@ -786,7 +784,6 @@ tags: ["genealogy"]
 - [[connections/people/Shema (1 Chronicles 2.43)|Shema (1 Chronicles 2.43)]] — child of [[connections/people/Hebron (1 Chronicles 2.42)|Hebron (1 Chronicles 2.42)]]
 - [[connections/people/Shimei (1 Chronicles 4.26)|Shimei (1 Chronicles 4.26)]] — child of [[connections/people/Zaccur (1 Chronicles 4.26)|Zaccur (1 Chronicles 4.26)]]
 - [[connections/people/Tappuah|Tappuah]] — child of [[connections/people/Hebron (1 Chronicles 2.42)|Hebron (1 Chronicles 2.42)]]
-- [[connections/people/Unnamed 3 (1 Kings 2.27)|Unnamed 3 (1 Kings 2.27)]] — child of [[connections/people/Unnamed 2 (1 Kings 2.27)|Unnamed 2 (1 Kings 2.27)]]
 - [[connections/people/Uriel (1 Chronicles 6.9)|Uriel (1 Chronicles 6.9)]] — child of [[connections/people/Tahath (1 Chronicles 6.9)|Tahath (1 Chronicles 6.9)]]
 - [[connections/people/Zabad (1 Chronicles 7.21)|Zabad (1 Chronicles 7.21)]] — child of [[connections/people/Tahath (1 Chronicles 7.20)|Tahath (1 Chronicles 7.20)]]
 - [[connections/people/Zaza|Zaza]] — child of [[connections/people/Jonathan (1 Chronicles 2.32)|Jonathan (1 Chronicles 2.32)]]
@@ -806,7 +803,6 @@ tags: ["genealogy"]
 - [[connections/people/Raham|Raham]] — child of [[connections/people/Shema (1 Chronicles 2.43)|Shema (1 Chronicles 2.43)]]
 - [[connections/people/Shammai (1 Chronicles 2.44)|Shammai (1 Chronicles 2.44)]] — child of [[connections/people/Rekem (1 Chronicles 2.43)|Rekem (1 Chronicles 2.43)]]
 - [[connections/people/Shuthelah (1 Chronicles 7.21)|Shuthelah (1 Chronicles 7.21)]] — child of [[connections/people/Zabad (1 Chronicles 7.21)|Zabad (1 Chronicles 7.21)]]
-- [[connections/people/Unnamed 4 (1 Kings 2.27)|Unnamed 4 (1 Kings 2.27)]] — child of [[connections/people/Unnamed 3 (1 Kings 2.27)|Unnamed 3 (1 Kings 2.27)]]
 - [[connections/people/Uzzi (1 Chronicles 5.31)|Uzzi (1 Chronicles 5.31)]] — child of [[connections/people/Bukki (1 Chronicles 5.31)|Bukki (1 Chronicles 5.31)]]
 - [[connections/people/Uzziah (1 Chronicles 6.9)|Uzziah (1 Chronicles 6.9)]] — child of [[connections/people/Uriel (1 Chronicles 6.9)|Uriel (1 Chronicles 6.9)]]
 - [[connections/people/Zerah (1 Chronicles 6.6)|Zerah (1 Chronicles 6.6)]] — child of [[connections/people/Iddo (1 Chronicles 6.6)|Iddo (1 Chronicles 6.6)]]
@@ -814,7 +810,7 @@ tags: ["genealogy"]
 
 ## Generation 33
 
-- [[connections/people/Eli|Eli]] — child of [[connections/people/Unnamed 4 (1 Kings 2.27)|Unnamed 4 (1 Kings 2.27)]]
+- [[connections/people/Eli|Eli]] — child of [[connections/people/Ithamar|Ithamar]] (ancestor)
 - [[connections/people/Hashabiah (1 Chronicles 6.30)|Hashabiah (1 Chronicles 6.30)]] — child of [[connections/people/Amaziah (1 Chronicles 6.30)|Amaziah (1 Chronicles 6.30)]]
 - [[connections/people/Jeatherai|Jeatherai]] — child of [[connections/people/Zerah (1 Chronicles 6.6)|Zerah (1 Chronicles 6.6)]]
 - [[connections/people/Jesse|Jesse]] — child of [[connections/people/Obed (Ruth 4.17)|Obed (Ruth 4.17)]]
@@ -1191,61 +1187,16 @@ tags: ["genealogy"]
 
 ## Generation 64
 
+- [[connections/people/Jacob|Jacob]] — child of [[connections/people/Matthan|Matthan]]
 - [[connections/people/Naggai|Naggai]] — child of [[connections/people/Maath|Maath]]
-- [[connections/people/Unnamed 1 (Matthew 1.15)|Unnamed 1 (Matthew 1.15)]] — child of [[connections/people/Matthan|Matthan]]
 
 ## Generation 65
 
-- [[connections/people/Esli|Esli]] — child of [[connections/people/Naggai|Naggai]]
-- [[connections/people/Unnamed 2 (Matthew 1.15)|Unnamed 2 (Matthew 1.15)]] — child of [[connections/people/Unnamed 1 (Matthew 1.15)|Unnamed 1 (Matthew 1.15)]]
-
-## Generation 66
-
-- [[connections/people/Nahum (Luke 3.25)|Nahum (Luke 3.25)]] — child of [[connections/people/Esli|Esli]]
-- [[connections/people/Unnamed 3 (Matthew 1.15)|Unnamed 3 (Matthew 1.15)]] — child of [[connections/people/Unnamed 2 (Matthew 1.15)|Unnamed 2 (Matthew 1.15)]]
-
-## Generation 67
-
-- [[connections/people/Amos (Luke 3.25)|Amos (Luke 3.25)]] — child of [[connections/people/Nahum (Luke 3.25)|Nahum (Luke 3.25)]]
-- [[connections/people/Unnamed 4 (Matthew 1.15)|Unnamed 4 (Matthew 1.15)]] — child of [[connections/people/Unnamed 3 (Matthew 1.15)|Unnamed 3 (Matthew 1.15)]]
-
-## Generation 68
-
-- [[connections/people/Mattathias (Luke 3.25)|Mattathias (Luke 3.25)]] — child of [[connections/people/Amos (Luke 3.25)|Amos (Luke 3.25)]]
-- [[connections/people/Unnamed 5 (Matthew 1.15)|Unnamed 5 (Matthew 1.15)]] — child of [[connections/people/Unnamed 4 (Matthew 1.15)|Unnamed 4 (Matthew 1.15)]]
-
-## Generation 69
-
-- [[connections/people/Joseph (Luke 3.24)|Joseph (Luke 3.24)]] — child of [[connections/people/Mattathias (Luke 3.25)|Mattathias (Luke 3.25)]]
-- [[connections/people/Unnamed 6 (Matthew 1.15)|Unnamed 6 (Matthew 1.15)]] — child of [[connections/people/Unnamed 5 (Matthew 1.15)|Unnamed 5 (Matthew 1.15)]]
-
-## Generation 70
-
-- [[connections/people/Jannai|Jannai]] — child of [[connections/people/Joseph (Luke 3.24)|Joseph (Luke 3.24)]]
-- [[connections/people/Unnamed 7 (Matthew 1.15)|Unnamed 7 (Matthew 1.15)]] — child of [[connections/people/Unnamed 6 (Matthew 1.15)|Unnamed 6 (Matthew 1.15)]]
-
-## Generation 71
-
-- [[connections/people/Melchi (Luke 3.24)|Melchi (Luke 3.24)]] — child of [[connections/people/Jannai|Jannai]]
-- [[connections/people/Unnamed 8 (Matthew 1.15)|Unnamed 8 (Matthew 1.15)]] — child of [[connections/people/Unnamed 7 (Matthew 1.15)|Unnamed 7 (Matthew 1.15)]]
-
-## Generation 72
-
-- [[connections/people/Levi (Luke 3.24)|Levi (Luke 3.24)]] — child of [[connections/people/Melchi (Luke 3.24)|Melchi (Luke 3.24)]]
-- [[connections/people/Unnamed 9 (Matthew 1.15)|Unnamed 9 (Matthew 1.15)]] — child of [[connections/people/Unnamed 8 (Matthew 1.15)|Unnamed 8 (Matthew 1.15)]]
-
-## Generation 73
-
-- [[connections/people/Jacob|Jacob]] — child of [[connections/people/Unnamed 9 (Matthew 1.15)|Unnamed 9 (Matthew 1.15)]]
-- [[connections/people/Matthat (Luke 3.24)|Matthat (Luke 3.24)]] — child of [[connections/people/Levi (Luke 3.24)|Levi (Luke 3.24)]]
-
-## Generation 74
-
 - [[connections/people/Alphaeus|Alphaeus]] — child of [[connections/people/Jacob|Jacob]] (uncertain)
-- [[connections/people/Heli|Heli]] — child of [[connections/people/Matthat (Luke 3.24)|Matthat (Luke 3.24)]]
+- [[connections/people/Esli|Esli]] — child of [[connections/people/Naggai|Naggai]]
 - [[connections/people/Joseph (Matthew 1.16)|Joseph (Matthew 1.16)]] — child of [[connections/people/Jacob|Jacob]]
 
-## Generation 75
+## Generation 66
 
 - [[connections/people/James (Matthew 10.3)|James (Matthew 10.3)]] — child of [[connections/people/Alphaeus|Alphaeus]] & [[connections/people/Mary (Matthew 27.56)|Mary (Matthew 27.56)]] (uncertain)
 - [[connections/people/James (Matthew 13.55)|James (Matthew 13.55)]] — child of [[connections/people/Joseph (Matthew 1.16)|Joseph (Matthew 1.16)]] & [[connections/people/Mary (Matthew 1.16)|Mary (Matthew 1.16)]]
@@ -1253,14 +1204,50 @@ tags: ["genealogy"]
 - [[connections/people/Joses (Matthew 13.55)|Joses (Matthew 13.55)]] — child of [[connections/people/Joseph (Matthew 1.16)|Joseph (Matthew 1.16)]] & [[connections/people/Mary (Matthew 1.16)|Mary (Matthew 1.16)]]
 - [[connections/people/Joses (Matthew 27.56)|Joses (Matthew 27.56)]] — child of [[connections/people/Alphaeus|Alphaeus]] & [[connections/people/Mary (Matthew 27.56)|Mary (Matthew 27.56)]]
 - [[connections/people/Jude|Jude]] — child of [[connections/people/Joseph (Matthew 1.16)|Joseph (Matthew 1.16)]] & [[connections/people/Mary (Matthew 1.16)|Mary (Matthew 1.16)]]
-- [[connections/people/Mary (Matthew 1.16)|Mary (Matthew 1.16)]] — child of [[connections/people/Heli|Heli]] & [[connections/people/wife of Heli (Luke 1.5)|wife of Heli (Luke 1.5)]]
 - [[connections/people/Matthew|Matthew]] — child of [[connections/people/Alphaeus|Alphaeus]] (uncertain) & [[connections/people/Mary (Matthew 27.56)|Mary (Matthew 27.56)]] (uncertain)
-- [[connections/people/Salome|Salome]] — child of [[connections/people/Heli|Heli]] (uncertain) & [[connections/people/wife of Heli (Luke 1.5)|wife of Heli (Luke 1.5)]] (uncertain)
+- [[connections/people/Nahum (Luke 3.25)|Nahum (Luke 3.25)]] — child of [[connections/people/Esli|Esli]]
 - [[connections/people/Simon (Matthew 13.55)|Simon (Matthew 13.55)]] — child of [[connections/people/Joseph (Matthew 1.16)|Joseph (Matthew 1.16)]] & [[connections/people/Mary (Matthew 1.16)|Mary (Matthew 1.16)]]
+
+## Generation 67
+
+- [[connections/people/Amos (Luke 3.25)|Amos (Luke 3.25)]] — child of [[connections/people/Nahum (Luke 3.25)|Nahum (Luke 3.25)]]
+
+## Generation 68
+
+- [[connections/people/Mary (Matthew 27.56)|Mary (Matthew 27.56)]]
+- [[connections/people/Mattathias (Luke 3.25)|Mattathias (Luke 3.25)]] — child of [[connections/people/Amos (Luke 3.25)|Amos (Luke 3.25)]]
+
+## Generation 69
+
+- [[connections/people/Joseph (Luke 3.24)|Joseph (Luke 3.24)]] — child of [[connections/people/Mattathias (Luke 3.25)|Mattathias (Luke 3.25)]]
+
+## Generation 70
+
+- [[connections/people/Jannai|Jannai]] — child of [[connections/people/Joseph (Luke 3.24)|Joseph (Luke 3.24)]]
+
+## Generation 71
+
+- [[connections/people/Melchi (Luke 3.24)|Melchi (Luke 3.24)]] — child of [[connections/people/Jannai|Jannai]]
+
+## Generation 72
+
+- [[connections/people/Levi (Luke 3.24)|Levi (Luke 3.24)]] — child of [[connections/people/Melchi (Luke 3.24)|Melchi (Luke 3.24)]]
+
+## Generation 73
+
+- [[connections/people/Matthat (Luke 3.24)|Matthat (Luke 3.24)]] — child of [[connections/people/Levi (Luke 3.24)|Levi (Luke 3.24)]]
+
+## Generation 74
+
+- [[connections/people/Heli|Heli]] — child of [[connections/people/Matthat (Luke 3.24)|Matthat (Luke 3.24)]]
+
+## Generation 75
+
+- [[connections/people/Mary (Matthew 1.16)|Mary (Matthew 1.16)]] — child of [[connections/people/Heli|Heli]] & [[connections/people/wife of Heli (Luke 1.5)|wife of Heli (Luke 1.5)]]
+- [[connections/people/Salome|Salome]] — child of [[connections/people/Heli|Heli]] (uncertain) & [[connections/people/wife of Heli (Luke 1.5)|wife of Heli (Luke 1.5)]] (uncertain)
 
 ## Generation 77
 
-- [[connections/people/Mary (Matthew 27.56)|Mary (Matthew 27.56)]]
 - [[connections/people/Zebedee|Zebedee]]
 
 ## Generation 78

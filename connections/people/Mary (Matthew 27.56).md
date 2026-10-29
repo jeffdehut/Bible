@@ -9,7 +9,7 @@ chapters: 6
 first: "Matthew 27:56"
 placed: "AD 33"
 placed_year: 33
-generation: 77
+generation: 68
 sex: "female"
 tags: ["person"]
 ---
@@ -29,7 +29,7 @@ Wife of Cleopas (or 'Alphaeus'), present at Jesus' crucifixion.
 - **Spouses:** [[connections/people/Alphaeus|Alphaeus (uncertain)]]
 - **Children:** [[connections/people/James (Matthew 10.3)|James (Matthew 10.3) (uncertain)]], [[connections/people/Joses (Matthew 27.56)|Joses (Matthew 27.56)]], [[connections/people/Matthew|Matthew (uncertain)]]
 
-**Family group:** [[connections/genealogy/Family of Adam|Family of Adam]], generation 77
+**Family group:** [[connections/genealogy/Family of Adam|Family of Adam]], generation 68
 
 ```mermaid
 flowchart TB

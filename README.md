@@ -179,7 +179,7 @@ the genealogy and the timeline for readers who don't use Obsidian. Each is a sin
 that opens in a browser, works on phones, and follows the reader's light or dark setting.
 `scripts/connections.py` rebuilds them from `scripts/templates/` and the same data as the notes.
 
-The genealogy's chart shows the whole family of Adam, 1,074 people with the families who
+The genealogy's chart shows the whole family of Adam, 1,061 people with the families who
 married into it, generation by generation from left to right, with the line from Adam to
 Jesus straight through in gold. It is laid out once when the site is built
 (`scripts/familytree.py`, a tidy-tree layout in which no two lines of descent cross) and

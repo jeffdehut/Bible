@@ -274,7 +274,7 @@ knows the historical geography.
 
 ## 3. Genealogy viewer (built)
 
-- **Everyone connected.** The whole family of Adam on one chart: 1,074 people over 76
+- **Everyone connected.** The whole family of Adam on one chart: 1,061 people over 76
   generations, with the families who married into it (Saul's through Michal, Ruth beside
   Boaz). The line from Adam to Jesus runs straight through in gold; choosing anyone draws
   their line back to Adam and their links to a mother or spouse set elsewhere on the chart.

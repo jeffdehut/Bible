@@ -21,9 +21,65 @@ def parse_items(text):
     return [(i, frozenset(re.findall(r"[adf?]", flags))) for i, flags in ITEM.findall(text or "")]
 
 
+# TIPNR fills two gaps in the genealogies with people of its own making: nine generations
+# between Matthan and Jacob in Matthew 1:15, "inferred from the number of generations in Luke 3",
+# and four between Ithamar and Eli, "inferred from 1 Kings 2:27". No verse names or counts them,
+# so they are left out and the named ends joined as the text has them. Matthew 1:15 calls Matthan
+# the father of Jacob, so that link is a father's. No verse says how many generations came
+# between Ithamar and Eli, so that one is an ancestor's (a), as is any other gap TIPNR fills.
+STATED_AS_FATHER = {"Mat.1.15"}
+
+
+def _bridge_inferred(family, inferred):
+    """Join the named people on either side of each run of inferred placeholders."""
+    def named_end(pid, step, flags):
+        while pid in inferred:
+            nxt = step(pid)
+            if nxt is None:
+                return None, flags
+            pid, more = nxt
+            flags |= more
+        return pid, flags
+
+    def up(pid):
+        return family.get(pid, {}).get("father") or family.get(pid, {}).get("mother")
+
+    def down(pid):
+        kids = family.get(pid, {}).get("offspring") or []
+        return kids[0] if kids else None
+
+    for pid, fam in family.items():
+        if pid in inferred:
+            continue
+        for role in ("father", "mother"):
+            if fam[role] and fam[role][0] in inferred:
+                gap = fam[role][0].split("@", 1)[1]
+                anc, flags = named_end(fam[role][0], up, set(fam[role][1]))
+                if gap not in STATED_AS_FATHER:
+                    flags.add("a")
+                fam[role] = (anc, frozenset(flags)) if anc else None
+        kids = []
+        for cid, flags in fam["offspring"]:
+            if cid in inferred:
+                gap = cid.split("@", 1)[1]
+                desc, flags = named_end(cid, down, set(flags))
+                if gap not in STATED_AS_FATHER:
+                    flags.add("a")
+                if desc:
+                    kids.append((desc, frozenset(flags)))
+            else:
+                kids.append((cid, flags))
+        fam["offspring"] = kids
+        for key in ("siblings", "partners"):
+            fam[key] = [(o, f) for o, f in fam[key] if o not in inferred]
+    for pid in inferred:
+        family.pop(pid, None)
+
+
 def load_family(path):
-    """{tipnr id: {"sex", "tribe", "father", "mother", "siblings", "partners", "offspring"}}"""
-    family, kind = {}, None
+    """({tipnr id: {"sex", "tribe", "father", "mother", "siblings", "partners", "offspring"}},
+    {the ids of TIPNR's inferred placeholders, which are left out: see _bridge_inferred})"""
+    family, kind, inferred = {}, None, set()
     for line in open(path, encoding="utf-8"):
         line = line.rstrip("\n")
         if line.startswith("$=========="):
@@ -35,7 +91,10 @@ def load_family(path):
         f += [""] * (9 - len(f))
         father_txt, _, mother_txt = f[2].partition("+")
         father, mother = parse_items(father_txt), parse_items(mother_txt)
-        family[f[0].split("=")[0].strip()] = {
+        uid = f[0].split("=")[0].strip()
+        if uid.startswith("Unnamed#") and "inferred from" in f[7]:
+            inferred.add(uid)
+        family[uid] = {
             "sex": f[8].strip(),
             "tribe": f[6].strip() if f[6].strip() not in ("", ">") else None,
             "father": father[0] if father else None,
@@ -44,7 +103,8 @@ def load_family(path):
             "partners": parse_items(f[4]),
             "offspring": parse_items(f[5]),
         }
-    return family
+    _bridge_inferred(family, inferred)
+    return family, inferred
 
 
 class Genealogy:

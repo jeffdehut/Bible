@@ -465,6 +465,8 @@ def main():
     vers = Versification(fetch_stepbible("tvtms"), texts)
     xrefs, xstats, xdate = load_cross_references(fetch_openbible(), args.min_votes, vers, texts)
     entities, ent_unresolved = load_tipnr(fetch_stepbible("tipnr"), vers, texts)
+    family, inferred = genealogy.load_family(fetch_stepbible("tipnr"))
+    entities = [e for e in entities if e["id"] not in inferred]   # TIPNR's placeholders: see genealogy.py
 
     # Unique note names: the plain name, or "Name (Book c.v)" when several people (or several
     # places) share it.
@@ -479,7 +481,7 @@ def main():
         e["first"] = first
 
     # Genealogy and chronology.
-    gen = genealogy.Genealogy(entities, genealogy.load_family(fetch_stepbible("tipnr")))
+    gen = genealogy.Genealogy(entities, family)
     chron = chronology.Chronology(chronology.fetch(CACHE), vers)
     ctx = timeline.Context(entities, texts, gen, chron, vers)
     family_of, groups = timeline.family_groups(ctx)

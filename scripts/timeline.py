@@ -296,9 +296,13 @@ def write_genealogy(ctx, groups, crosscheck):
               "## Notes on the data", "",
               "- **Uncertain links** are marked *(uncertain)*: TIPNR's `(?)` flag. *(ancestor)* marks "
               "a link to an ancestor rather than a parent, e.g. where a genealogy skips generations.",
-              "- **Unnamed people** (\"the father of …\") are included when a line of descent passes "
-              "through them. TIPNR models Matthew 1:15 with nine unnamed generations between Matthan "
-              "and Jacob.",
+              "- **Unnamed people** the text mentions (\"the wife of Heli\") are included when a line "
+              "of descent passes through them.",
+              "- **TIPNR's own placeholders are left out.** TIPNR fills two gaps with unnamed generations "
+              "of its own: nine between Matthan and Jacob, to match the count of Luke 3, and four between "
+              "Ithamar and Eli. No verse names or counts them. Matthew 1:15 calls Matthan the father of "
+              "Jacob, so they are joined as father and son; Eli is linked to Ithamar as a descendant "
+              "*(ancestor)*, since no verse says how many generations came between.",
               "- **Luke's genealogy** includes Cainan between Arpachshad and Shelah (Luke 3:36). He "
               "is not in Genesis 11 in the Hebrew text, but TIPNR includes him in the line.",
               "- **Mary** is given as the daughter of Heli, following the reading of Luke 3:23 as "
