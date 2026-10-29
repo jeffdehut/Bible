@@ -293,6 +293,25 @@ knows the historical geography.
   reader. The reader lists the people a verse names, each opening in the genealogy.
 - **Still to come:** the places each person lived, linked to the maps.
 
+## 3b. The Web of Scripture (built)
+
+- **Everything connected, at once.** `graph.html` draws the Obsidian notes' connections as one
+  web, like Obsidian's graph view: 5,646 chapters, people, places and events, and 32,043
+  threads, colored by section of the Bible, with people as points, places as rings and events
+  as diamonds.
+- **The opening.** The chapters light up round a wheel in order, the cross-references draw in
+  across it, and the wheel unfolds into the web. The animation runs on the graphics card, from
+  timings set once, so it costs the phone almost nothing; a tap moves it straight to the web,
+  and readers who ask for less motion get the web at once.
+- **Built for phones.** Laid out when the site is built (`scripts/graph.py`); the data is 121 KB
+  compressed. Measured on a phone-sized screen with the processor slowed four times: ready to
+  draw in 1.1 seconds, and about 2.5 ms of script per frame while panning.
+- **Exploring.** Search, a card for whatever is chosen, links to the reader, the genealogy and
+  the maps, the key as a filter, and *Wheel* to see the chapters in order. Each chapter in the
+  reader and each person in the genealogy links to its place in the web.
+- **Still to come:** threads for the cross-references within a chapter, and following a
+  thread from verse to verse.
+
 ## 4. Accounts (built; waiting on a Supabase project)
 
 - **Optional sign-in.** Reading and on-device annotations never require an account. With

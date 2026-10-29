@@ -119,13 +119,20 @@ body::before { content: ""; position: fixed; inset: 0 0 auto; height: env(safe-a
 .appnav a[aria-current="page"] { background: var(--lapis-soft); color: var(--lapis); }
 .appbar a:focus-visible { outline: 2px solid var(--lapis); outline-offset: 0; }
 @media (max-width: 640px) { .appbar .brand span { display: none; } .appnav a { padding: 0 9px; } }
-@media (max-width: 359px) { .appbar .brand { display: none; } .appnav { margin-inline: auto; } }
+/* On a phone the five parts take the whole bar, and scroll sideways if they still don't fit. */
+@media (max-width: 480px) {
+  .appbar .brand { display: none; }
+  .appnav { margin-inline: 0; flex: 1; justify-content: space-between; overflow-x: auto; scrollbar-width: none; }
+  .appnav::-webkit-scrollbar { display: none; }
+  .appnav a { padding: 0 7px; font-size: 13.5px; flex: none; }
+}
 @media print { .appbar { display: none; } }
 </style>
 <header class="appbar">
   <a class="brand" href="../index.html"><img src="../icons/icon.svg" alt="Plain English Bible"><span aria-hidden="true">Plain English Bible</span></a>
-  <nav class="appnav" aria-label="Plain English Bible"><a href="../index.html">Read</a><a href="../maps/index.html" aria-current="page">Maps</a><a href="../genealogy.html">Genealogy</a><a href="../history.html">Timeline</a></nav>
+  <nav class="appnav" aria-label="Plain English Bible"><a href="../index.html">Read</a><a href="../maps/index.html" aria-current="page">Maps</a><a href="../genealogy.html">Genealogy</a><a href="../history.html">Timeline</a><a href="../graph.html">Connections</a></nav>
 </header>
+<script>document.querySelector(".appnav [aria-current]")?.scrollIntoView({ inline: "nearest", block: "nearest" });</script>
 
 <div class="wrap">
   <header class="intro">

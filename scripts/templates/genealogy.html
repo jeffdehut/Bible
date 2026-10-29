@@ -170,6 +170,8 @@ section { padding-block: clamp(28px, 5vw, 56px); border-top: 1px solid var(--lin
 .verses { display: flex; flex-wrap: wrap; gap: 4px 12px; font-size: var(--step--1); font-variant-numeric: tabular-nums; }
 .verses a { text-decoration: none; }
 .verses a:hover { text-decoration: underline; }
+.web-link { font: 600 var(--step--1)/1.2 var(--sans); text-decoration: none; }
+.web-link:hover { text-decoration: underline; }
 
 /* The close family: an hourglass of ancestors above, descendants below. */
 #tree { cursor: grab; }
@@ -522,7 +524,8 @@ footer p { margin: 0; }
       chipList("Spouses", (p.sp || []).map(j => [j])),
       chipList("Siblings", (p.sb || []).map(j => [j])),
       chipList("Children", children),
-      versesBlock(i));
+      versesBlock(i),
+      p.v ? el("a", { class: "web-link", href: `graph.html#p${i}` }, "See them in the web of connections →") : null);
   }
 
   /* ---------- The whole family, drawn on a canvas ---------- */

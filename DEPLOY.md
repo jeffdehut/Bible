@@ -9,6 +9,7 @@ config.js, account.js    site settings, and the optional accounts (off until set
 privacy.html             what the site keeps about its readers
 genealogy.html           The Generations
 history.html             Streams of Time
+graph.html               The Web of Scripture
 maps/index.html          the Bible maps, and the eight sheets beside it
 maps/data/               the maps' data
 data/bible/              the reader's books, word data, lexicon, search index, places and people

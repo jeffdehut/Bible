@@ -220,7 +220,7 @@ def document(body, root="", colors=("#fbfaf7", "#0d111b")):
 # and the four parts of the site, with the one shown marked. It takes the page's own colors
 # (--bg, --ink, --muted, --line, --lapis, --lapis-soft), so it sits on any of them.
 NAV = [("index.html", "Read"), ("maps/index.html", "Maps"), ("genealogy.html", "Genealogy"),
-       ("history.html", "Timeline")]
+       ("history.html", "Timeline"), ("graph.html", "Connections")]
 APPBAR_CSS = """<style>
 :root { --bar: 56px; }
 body::before { content: ""; position: fixed; inset: 0 0 auto; height: env(safe-area-inset-top, 0px); z-index: 11; background: var(--bg); }
@@ -245,7 +245,13 @@ body::before { content: ""; position: fixed; inset: 0 0 auto; height: env(safe-a
 .appnav a[aria-current="page"] { background: var(--lapis-soft); color: var(--lapis); }
 .appbar a:focus-visible { outline: 2px solid var(--lapis); outline-offset: 0; }
 @media (max-width: 640px) { .appbar .brand span { display: none; } .appnav a { padding: 0 9px; } }
-@media (max-width: 359px) { .appbar .brand { display: none; } .appnav { margin-inline: auto; } }
+/* On a phone the five parts take the whole bar, and scroll sideways if they still don't fit. */
+@media (max-width: 480px) {
+  .appbar .brand { display: none; }
+  .appnav { margin-inline: 0; flex: 1; justify-content: space-between; overflow-x: auto; scrollbar-width: none; }
+  .appnav::-webkit-scrollbar { display: none; }
+  .appnav a { padding: 0 7px; font-size: 13.5px; flex: none; }
+}
 @media print { .appbar { display: none; } }
 </style>"""
 
@@ -257,7 +263,8 @@ def appbar(current, root=""):
     return (f'{APPBAR_CSS}\n<header class="appbar">\n'
             f'  <a class="brand" href="{root}index.html"><img src="{root}icons/icon.svg" alt="Plain English Bible">'
             f'<span aria-hidden="true">Plain English Bible</span></a>\n'
-            f'  <nav class="appnav" aria-label="Plain English Bible">{links}</nav>\n</header>')
+            f'  <nav class="appnav" aria-label="Plain English Bible">{links}</nav>\n</header>\n'
+            '<script>document.querySelector(".appnav [aria-current]")?.scrollIntoView({ inline: "nearest", block: "nearest" });</script>')
 
 
 def page(name, data):
@@ -297,6 +304,7 @@ def build(ctx, family_of, groups):
             with open(os.path.join(SITE, f"{name}.html"), "w", encoding="utf-8", newline="\n") as f:
                 f.write(document(page(name, data)))
     write_static("privacy")
+    write_static("graph")
     links = people_links(ctx)
     with open(os.path.join(SITE, "data", "bible", "people.json"), "w", encoding="utf-8", newline="\n") as f:
         f.write(_columns(links))

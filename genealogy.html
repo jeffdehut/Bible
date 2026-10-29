@@ -182,6 +182,8 @@ section { padding-block: clamp(28px, 5vw, 56px); border-top: 1px solid var(--lin
 .verses { display: flex; flex-wrap: wrap; gap: 4px 12px; font-size: var(--step--1); font-variant-numeric: tabular-nums; }
 .verses a { text-decoration: none; }
 .verses a:hover { text-decoration: underline; }
+.web-link { font: 600 var(--step--1)/1.2 var(--sans); text-decoration: none; }
+.web-link:hover { text-decoration: underline; }
 
 /* The close family: an hourglass of ancestors above, descendants below. */
 #tree { cursor: grab; }
@@ -270,13 +272,20 @@ body::before { content: ""; position: fixed; inset: 0 0 auto; height: env(safe-a
 .appnav a[aria-current="page"] { background: var(--lapis-soft); color: var(--lapis); }
 .appbar a:focus-visible { outline: 2px solid var(--lapis); outline-offset: 0; }
 @media (max-width: 640px) { .appbar .brand span { display: none; } .appnav a { padding: 0 9px; } }
-@media (max-width: 359px) { .appbar .brand { display: none; } .appnav { margin-inline: auto; } }
+/* On a phone the five parts take the whole bar, and scroll sideways if they still don't fit. */
+@media (max-width: 480px) {
+  .appbar .brand { display: none; }
+  .appnav { margin-inline: 0; flex: 1; justify-content: space-between; overflow-x: auto; scrollbar-width: none; }
+  .appnav::-webkit-scrollbar { display: none; }
+  .appnav a { padding: 0 7px; font-size: 13.5px; flex: none; }
+}
 @media print { .appbar { display: none; } }
 </style>
 <header class="appbar">
   <a class="brand" href="index.html"><img src="icons/icon.svg" alt="Plain English Bible"><span aria-hidden="true">Plain English Bible</span></a>
-  <nav class="appnav" aria-label="Plain English Bible"><a href="index.html">Read</a><a href="maps/index.html">Maps</a><a href="genealogy.html" aria-current="page">Genealogy</a><a href="history.html">Timeline</a></nav>
+  <nav class="appnav" aria-label="Plain English Bible"><a href="index.html">Read</a><a href="maps/index.html">Maps</a><a href="genealogy.html" aria-current="page">Genealogy</a><a href="history.html">Timeline</a><a href="graph.html">Connections</a></nav>
 </header>
+<script>document.querySelector(".appnav [aria-current]")?.scrollIntoView({ inline: "nearest", block: "nearest" });</script>
 
 <header class="masthead">
   <div class="wrap">
@@ -564,7 +573,8 @@ body::before { content: ""; position: fixed; inset: 0 0 auto; height: env(safe-a
       chipList("Spouses", (p.sp || []).map(j => [j])),
       chipList("Siblings", (p.sb || []).map(j => [j])),
       chipList("Children", children),
-      versesBlock(i));
+      versesBlock(i),
+      p.v ? el("a", { class: "web-link", href: `graph.html#p${i}` }, "See them in the web of connections →") : null);
   }
 
   /* ---------- The whole family, drawn on a canvas ---------- */

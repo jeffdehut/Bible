@@ -118,6 +118,9 @@ main { max-width: 680px; margin-inline: auto; padding-block: 28px 120px; }
 .badge.checked, .badge.reviewed { background: var(--gold-soft); color: var(--gold); }
 .badge.approved { background: var(--lapis-soft); color: var(--lapis); }
 .chead .src { font-size: 13px; color: var(--muted); }
+.web-link { display: inline-flex; align-items: center; gap: 5px; font: 600 13px/1.2 var(--sans); color: var(--lapis); text-decoration: none; border-radius: 6px; }
+.web-link svg { width: 15px; height: 15px; }
+.web-link:hover { text-decoration: underline; }
 .text { font: 400 var(--size)/1.7 var(--read); hyphens: manual; }
 .text p { margin: 0 0 0.9em; text-wrap: pretty; }
 /* Poetry: each verse on its own line, with a hanging indent. */
@@ -349,6 +352,7 @@ if (/(^#|&)(access_token|error)=/.test(location.hash)) {
       <div class="meta">
         <button class="badge" id="status" type="button"></button>
         <span class="src" id="src-line"></span>
+        <a class="web-link" id="web-link" href="graph.html" title="This chapter in the web of connections"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><circle cx="6" cy="7" r="2.2"/><circle cx="18" cy="6" r="2.2"/><circle cx="12" cy="17" r="2.2"/><path d="M8 7.6 15.9 6.4M7.2 9 11 15M16.9 8 13 15"/></svg>Connections</a>
       </div>
     </header>
     <div class="text" id="text"></div>
@@ -477,6 +481,7 @@ if (/(^#|&)(access_token|error)=/.test(location.hash)) {
     <li><a href="maps/index.html"><span>Bible maps<small>Eight sheets, from the patriarchs to Paul</small></span></a></li>
     <li><a href="genealogy.html"><span>The Generations<small>From Adam to Jesus, and every family</small></span></a></li>
     <li><a href="history.html"><span>Streams of Time<small>World history beside the Bible</small></span></a></li>
+    <li><a href="graph.html"><span>The Web of Scripture<small>Every chapter, person and place, and the threads between them</small></span></a></li>
   </ul>
 </section>
 
@@ -663,6 +668,7 @@ async function show(b, c, v, opts = {}) {
   const st = chapter.s || "draft";
   $("status").className = "badge " + st;
   $("status").textContent = STATUS_LABEL[st] || st;
+  $("web-link").href = "graph.html#" + hashSlug(b) + "-" + c;
   $("src-line").textContent = b.t === "NT" ? "From the Greek" : allAramaic(b, c) ? "From the Aramaic" : hasAramaic(b, c) ? "From the Hebrew and Aramaic" : "From the Hebrew";
   // Notes are lettered in order of first use.
   const letters = {};

@@ -1,0 +1,1103 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<link rel="icon" href="icons/icon.svg" type="image/svg+xml">
+<link rel="apple-touch-icon" href="icons/icon-192.png">
+<meta name="theme-color" content="#fbfaf7" media="(prefers-color-scheme: light)">
+<meta name="theme-color" content="#0d111b" media="(prefers-color-scheme: dark)">
+<script>try { const t = (JSON.parse(localStorage.getItem("pe.settings")) || {}).theme; if (t === "light" || t === "dark") document.documentElement.setAttribute("data-theme", t); } catch (e) { /* storage unavailable */ }</script>
+</head>
+<body>
+<title>The Web of Scripture</title>
+<meta name="claude:viewport-fit-sides" content="cover">
+<meta name="description" content="Every chapter, person, place and event of the Bible, and the threads between them: cross-references, names, families and events, as one web to explore.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Frank+Ruhl+Libre:wght@300..700&family=Libre+Franklin:wght@400;500;600;700&family=Noto+Serif:ital,wght@0,400;1,400&display=swap">
+<style>
+/* Layout: under the site's bar, the whole window is the web: a WebGL canvas for the nodes and
+   threads, a 2D canvas above it for names and the threads of the one chosen, and controls
+   floating over both (search at the top, the key at the bottom left, zoom at the bottom right,
+   the card on the right, or from the bottom on phones). The opening title sits in the middle. */
+:root {
+  --bg: #fbfaf7; --surface: #ffffff; --ink: #161b26; --muted: #5b6475; --faint: #8d95a4; --line: #e4e2db;
+  --lapis: #2646a1; --lapis-soft: #e7ecf8; --gold: #8a640b; --gold-soft: #f6eedb;
+  --stage-1: #fdfcf9; --stage-2: #efece4;
+  --chrome: color-mix(in srgb, var(--surface) 90%, transparent);
+  --shadow: 0 1px 2px rgb(22 27 38 / 8%), 0 10px 30px rgb(22 27 38 / 12%);
+  --read: "Frank Ruhl Libre", "Noto Serif", Georgia, serif;
+  --sans: "Libre Franklin", system-ui, -apple-system, "Segoe UI", sans-serif;
+  --greek: "Noto Serif", "Frank Ruhl Libre", Georgia, serif;
+}
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    --bg: #0d111b; --surface: #131a28; --ink: #e9ecf3; --muted: #a3acbd; --faint: #6f7a90; --line: #263047;
+    --lapis: #9db3ff; --lapis-soft: #1c2650; --gold: #e2bd5c; --gold-soft: #2a2414;
+    --stage-1: #141c33; --stage-2: #05070d;
+    --shadow: 0 1px 2px rgb(0 0 0 / 35%), 0 12px 32px rgb(0 0 0 / 45%);
+    color-scheme: dark;
+  }
+}
+:root[data-theme="dark"] {
+  --bg: #0d111b; --surface: #131a28; --ink: #e9ecf3; --muted: #a3acbd; --faint: #6f7a90; --line: #263047;
+  --lapis: #9db3ff; --lapis-soft: #1c2650; --gold: #e2bd5c; --gold-soft: #2a2414;
+  --stage-1: #141c33; --stage-2: #05070d;
+  --shadow: 0 1px 2px rgb(0 0 0 / 35%), 0 12px 32px rgb(0 0 0 / 45%);
+  color-scheme: dark;
+}
+* { box-sizing: border-box; }
+[hidden] { display: none !important; }
+html, body { height: 100%; overflow: hidden; overscroll-behavior: none; }
+html { -webkit-text-size-adjust: 100%; }
+body {
+  margin: 0; background: var(--bg); color: var(--ink); font: 400 15px/1.45 var(--sans);
+  padding-left: max(16px, env(safe-area-inset-left, 0px)); padding-right: max(16px, env(safe-area-inset-right, 0px));
+}
+a { color: var(--lapis); }
+:focus-visible { outline: 2px solid var(--lapis); outline-offset: 2px; border-radius: 4px; }
+button { font: inherit; color: inherit; }
+
+.stage {
+  position: fixed; left: 0; right: 0; bottom: 0; top: calc(var(--bar) + env(safe-area-inset-top, 0px)); overflow: hidden;
+  background: radial-gradient(ellipse 80% 70% at 50% 45%, var(--stage-1), var(--stage-2));
+}
+#gl, #ov { position: absolute; inset: 0; width: 100%; height: 100%; display: block; }
+#ov { touch-action: none; cursor: grab; }
+#ov:active { cursor: grabbing; }
+#ov.over { cursor: pointer; }
+.ui { transition: opacity 0.6s; }
+.stage:not(.ready) .ui { opacity: 0; pointer-events: none; }
+
+/* The opening title */
+.title {
+  position: absolute; inset: 0; display: grid; place-content: center; text-align: center; padding: 24px; pointer-events: none;
+  transition: opacity 0.9s, transform 1.2s;
+}
+.title.gone { opacity: 0; transform: scale(1.04); }
+.title h1 { margin: 0; font: 300 clamp(40px, 9vw, 84px)/1 var(--read); letter-spacing: -0.02em; color: var(--ink); text-wrap: balance; }
+.title h1, .title p { text-shadow: 0 0 18px var(--stage-1), 0 0 36px var(--stage-1); }
+.title .grc { margin: 14px 0 0; font: italic 400 clamp(17px, 2.6vw, 24px)/1.3 var(--greek); color: var(--gold); }
+.title .en { margin: 4px 0 0; font: 500 13px/1.4 var(--sans); color: var(--muted); }
+.title .count { margin: 18px 0 0; font: 600 11.5px/1.4 var(--sans); letter-spacing: 0.12em; text-transform: uppercase; color: var(--muted); }
+.title .skip { margin: 26px 0 0; font: 500 12px/1 var(--sans); color: var(--faint); }
+@media (prefers-reduced-motion: no-preference) {
+  .title h1, .title p { animation: rise 1.4s cubic-bezier(.2, .7, .2, 1) both; }
+  .title .grc { animation-delay: 0.25s; } .title .en { animation-delay: 0.4s; } .title .count { animation-delay: 0.7s; } .title .skip { animation-delay: 1.4s; }
+}
+@keyframes rise { from { opacity: 0; transform: translateY(10px); filter: blur(4px); } to { opacity: 1; transform: none; filter: none; } }
+
+/* Controls over the web */
+.top { position: absolute; top: 12px; left: 12px; right: 12px; display: flex; gap: 8px; align-items: flex-start; pointer-events: none; }
+.top > * { pointer-events: auto; }
+.finder { position: relative; flex: 1 1 auto; max-width: 420px; }
+.finder input {
+  width: 100%; font: 400 16px/1.3 var(--sans); color: var(--ink); background: var(--chrome); backdrop-filter: blur(10px); -webkit-backdrop-filter: blur(10px);
+  border: 1px solid var(--line); border-radius: 12px; padding: 10px 14px 10px 38px; box-shadow: var(--shadow);
+}
+.finder input:focus { outline: 2px solid var(--lapis); outline-offset: 0; border-color: transparent; }
+.finder svg { position: absolute; z-index: 1; left: 12px; top: 50%; width: 17px; height: 17px; transform: translateY(-50%); color: var(--muted); pointer-events: none; }
+.results {
+  position: absolute; z-index: 6; inset: calc(100% + 6px) 0 auto 0; margin: 0; padding: 6px; list-style: none;
+  background: var(--surface); border: 1px solid var(--line); border-radius: 12px; box-shadow: var(--shadow); max-height: min(380px, 60vh); overflow-y: auto;
+}
+.results li { display: flex; align-items: center; gap: 10px; padding: 8px 10px; border-radius: 8px; cursor: pointer; }
+.results li[aria-selected="true"], .results li:hover { background: var(--lapis-soft); }
+.results b { font: 500 15px/1.25 var(--read); }
+.results small { display: block; color: var(--muted); font-size: 12.5px; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+.results span { min-width: 0; }
+.dot { flex: none; width: 11px; height: 11px; border-radius: 50%; background: var(--c); }
+.dot.ring { background: transparent; box-shadow: inset 0 0 0 2.5px var(--c); }
+.dot.star { border-radius: 2px; transform: rotate(45deg) scale(0.85); }
+.pill {
+  display: inline-flex; gap: 2px; padding: 3px; border-radius: 12px; background: var(--chrome); backdrop-filter: blur(10px); -webkit-backdrop-filter: blur(10px);
+  border: 1px solid var(--line); box-shadow: var(--shadow); flex: none;
+}
+.pill button { border: 0; background: transparent; cursor: pointer; border-radius: 9px; padding: 7px 11px; font: 600 13px/1 var(--sans); color: var(--muted); min-height: 34px; }
+.pill button[aria-pressed="true"] { background: var(--lapis); color: var(--surface); }
+.pill button:hover:not([aria-pressed="true"]) { background: var(--lapis-soft); color: var(--ink); }
+.pill .icon { display: grid; place-items: center; padding: 0; width: 34px; }
+.pill svg { width: 18px; height: 18px; }
+
+.zoom { position: absolute; right: 12px; bottom: calc(12px + env(safe-area-inset-bottom, 0px)); display: grid; gap: 6px; }
+.zoom button {
+  width: 40px; height: 40px; display: grid; place-items: center; border: 1px solid var(--line); border-radius: 12px; cursor: pointer;
+  background: var(--chrome); backdrop-filter: blur(10px); -webkit-backdrop-filter: blur(10px); box-shadow: var(--shadow); color: var(--ink);
+}
+.zoom svg { width: 18px; height: 18px; }
+
+.key {
+  position: absolute; left: 12px; bottom: calc(12px + env(safe-area-inset-bottom, 0px)); max-width: min(360px, calc(100% - 76px));
+  background: var(--chrome); backdrop-filter: blur(10px); -webkit-backdrop-filter: blur(10px);
+  border: 1px solid var(--line); border-radius: 14px; box-shadow: var(--shadow); padding: 8px;
+}
+.key summary { list-style: none; cursor: pointer; display: flex; align-items: center; gap: 8px; padding: 4px 6px; font: 600 12px/1.2 var(--sans); letter-spacing: 0.08em; text-transform: uppercase; color: var(--muted); }
+.key summary::-webkit-details-marker { display: none; }
+.key summary .dots { display: flex; gap: 3px; }
+.key summary .dots i { width: 8px; height: 8px; border-radius: 50%; background: var(--c); }
+.key[open] summary .dots { display: none; }
+.key .chips { display: flex; flex-wrap: wrap; gap: 4px; padding: 6px 2px 2px; }
+.key .chip {
+  display: inline-flex; align-items: center; gap: 6px; border: 1px solid transparent; background: transparent; border-radius: 999px;
+  padding: 5px 9px 5px 7px; font: 500 12.5px/1.2 var(--sans); cursor: pointer; color: var(--ink);
+}
+.key .chip:hover { background: var(--lapis-soft); }
+.key .chip[aria-pressed="false"] { color: var(--faint); }
+.key .chip[aria-pressed="false"] .dot { background: transparent; box-shadow: inset 0 0 0 1.5px var(--faint); }
+.key .hint { margin: 6px 6px 2px; font-size: 12px; color: var(--muted); }
+
+/* The card for the node chosen */
+.card {
+  position: absolute; z-index: 5; top: 64px; right: 12px; max-height: calc(100% - 80px); width: 360px; overflow-y: auto; overscroll-behavior: contain;
+  background: var(--surface); border: 1px solid var(--line); border-radius: 16px; box-shadow: var(--shadow); padding: 16px 16px 18px;
+  display: flex; flex-direction: column; gap: 12px;
+}
+@media (min-width: 761px) { body.card-open .zoom { right: 384px; } }
+.card .grab { display: none; }
+.card .close { position: absolute; top: 10px; right: 10px; width: 34px; height: 34px; border: 0; background: transparent; border-radius: 9px; cursor: pointer; display: grid; place-items: center; color: var(--muted); }
+.card .close:hover { background: var(--lapis-soft); }
+.card .kicker { display: flex; align-items: center; gap: 8px; font: 600 11.5px/1.3 var(--sans); letter-spacing: 0.1em; text-transform: uppercase; color: var(--muted); padding-right: 36px; }
+.card h2 { margin: -4px 0 0; font: 500 26px/1.1 var(--read); padding-right: 30px; text-wrap: balance; }
+.card h2 small { display: block; margin-top: 4px; font: 500 13px/1.3 var(--sans); color: var(--muted); }
+.card .brief { margin: 0; color: var(--ink); }
+.card .stats { margin: 0; font: 500 13px/1.4 var(--sans); color: var(--muted); }
+.actions { display: flex; flex-wrap: wrap; gap: 6px; }
+.act {
+  display: inline-flex; align-items: center; gap: 6px; text-decoration: none; border-radius: 10px; padding: 8px 12px; font: 600 13.5px/1.2 var(--sans);
+  border: 1px solid var(--line); color: var(--ink); background: var(--surface);
+}
+.act.solid { background: var(--lapis); color: var(--surface); border-color: var(--lapis); }
+.act svg { width: 16px; height: 16px; }
+.rel h3 { margin: 0 0 6px; font: 600 11.5px/1.2 var(--sans); letter-spacing: 0.08em; text-transform: uppercase; color: var(--muted); }
+.rel .list { display: flex; flex-wrap: wrap; gap: 5px; }
+.node-chip {
+  display: inline-flex; align-items: center; gap: 6px; border: 0; cursor: pointer; border-radius: 999px; padding: 5px 10px 5px 8px;
+  background: var(--lapis-soft); color: var(--ink); font: 500 13px/1.2 var(--sans);
+}
+.node-chip:hover { box-shadow: inset 0 0 0 1px var(--lapis); }
+.node-chip small { color: var(--muted); font-weight: 400; }
+.node-chip .dot { width: 8px; height: 8px; }
+.more { border: 0; background: transparent; cursor: pointer; font: 600 13px/1.2 var(--sans); color: var(--lapis); padding: 5px 4px; }
+
+@media (max-width: 760px) {
+  .card {
+    top: auto; left: 0; right: 0; bottom: 0; width: auto; max-height: 52%; border-radius: 18px 18px 0 0; border-bottom: 0;
+    padding: 6px max(16px, env(safe-area-inset-left, 0px)) max(18px, env(safe-area-inset-bottom, 0px));
+  }
+  .card .grab { display: block; flex: none; width: 40px; height: 4px; border-radius: 4px; background: var(--line); margin: 2px auto 4px; }
+  .card .close { top: 12px; }
+  .card h2 { font-size: 23px; }
+  body.card-open .zoom, body.card-open .key { display: none; }
+  .top { flex-wrap: wrap; }
+  .finder { flex-basis: 100%; max-width: none; order: 2; }
+  .pill { order: 1; }
+  .top .spacer { flex: 1; order: 1; }
+}
+.about {
+  position: absolute; z-index: 7; top: 64px; left: 50%; transform: translateX(-50%); width: min(560px, calc(100% - 24px)); max-height: calc(100% - 88px); overflow-y: auto;
+  background: var(--surface); border: 1px solid var(--line); border-radius: 16px; box-shadow: var(--shadow); padding: 18px 20px;
+}
+.about h2 { margin: 0 0 8px; font: 500 22px/1.2 var(--read); }
+.about p, .about ul { margin: 0 0 10px; color: var(--ink); font-size: 14.5px; }
+.about ul { padding-left: 20px; }
+.about .close { float: right; border: 0; background: transparent; cursor: pointer; border-radius: 9px; width: 34px; height: 34px; display: grid; place-items: center; color: var(--muted); }
+.fallback { position: absolute; inset: 0; display: grid; place-content: center; text-align: center; padding: 24px; color: var(--muted); }
+.visually-hidden { position: absolute; width: 1px; height: 1px; overflow: hidden; clip: rect(0 0 0 0); white-space: nowrap; }
+</style>
+
+<style>
+:root { --bar: 56px; }
+body::before { content: ""; position: fixed; inset: 0 0 auto; height: env(safe-area-inset-top, 0px); z-index: 11; background: var(--bg); }
+.appbar {
+  position: sticky; top: env(safe-area-inset-top, 0px); z-index: 10; height: var(--bar);
+  margin-inline: calc(-1 * max(16px, env(safe-area-inset-left, 0px))) calc(-1 * max(16px, env(safe-area-inset-right, 0px)));
+  padding-inline: max(8px, env(safe-area-inset-left, 0px)) max(8px, env(safe-area-inset-right, 0px));
+  display: flex; align-items: center; gap: 4px; background: color-mix(in srgb, var(--bg) 92%, transparent);
+  backdrop-filter: blur(10px); -webkit-backdrop-filter: blur(10px); border-bottom: 1px solid var(--line);
+}
+.appbar .brand {
+  display: inline-flex; align-items: center; gap: 10px; min-height: 40px; padding: 0 8px; border-radius: 10px;
+  color: var(--ink); text-decoration: none; white-space: nowrap; font: 500 17px/1 "Frank Ruhl Libre", "Noto Serif", Georgia, serif; letter-spacing: 0.01em;
+}
+.appbar .brand img { width: 26px; height: 26px; border-radius: 7px; flex: none; }
+.appnav { margin-inline-start: auto; display: flex; gap: 2px; }
+.appnav a {
+  display: inline-flex; align-items: center; min-height: 40px; padding: 0 12px; border-radius: 10px; white-space: nowrap;
+  font: 600 14px/1 "Libre Franklin", system-ui, -apple-system, "Segoe UI", sans-serif; color: var(--muted); text-decoration: none;
+}
+.appnav a:hover { background: var(--lapis-soft); color: var(--ink); }
+.appnav a[aria-current="page"] { background: var(--lapis-soft); color: var(--lapis); }
+.appbar a:focus-visible { outline: 2px solid var(--lapis); outline-offset: 0; }
+@media (max-width: 640px) { .appbar .brand span { display: none; } .appnav a { padding: 0 9px; } }
+/* On a phone the five parts take the whole bar, and scroll sideways if they still don't fit. */
+@media (max-width: 480px) {
+  .appbar .brand { display: none; }
+  .appnav { margin-inline: 0; flex: 1; justify-content: space-between; overflow-x: auto; scrollbar-width: none; }
+  .appnav::-webkit-scrollbar { display: none; }
+  .appnav a { padding: 0 7px; font-size: 13.5px; flex: none; }
+}
+@media print { .appbar { display: none; } }
+</style>
+<header class="appbar">
+  <a class="brand" href="index.html"><img src="icons/icon.svg" alt="Plain English Bible"><span aria-hidden="true">Plain English Bible</span></a>
+  <nav class="appnav" aria-label="Plain English Bible"><a href="index.html">Read</a><a href="maps/index.html">Maps</a><a href="genealogy.html">Genealogy</a><a href="history.html">Timeline</a><a href="graph.html" aria-current="page">Connections</a></nav>
+</header>
+<script>document.querySelector(".appnav [aria-current]")?.scrollIntoView({ inline: "nearest", block: "nearest" });</script>
+
+<main class="stage" id="stage">
+  <canvas id="gl" aria-hidden="true"></canvas>
+  <canvas id="ov" tabindex="0" role="img" aria-label="The web of Scripture: every chapter, person, place and event, and the threads between them. Use the search to find one."></canvas>
+
+  <div class="title" id="title" aria-hidden="true">
+    <h1>The Web of Scripture</h1>
+    <p class="grc" lang="grc">τὰ πάντα ἐν αὐτῷ συνέστηκεν</p>
+    <p class="en">“In him all things hold together.” Colossians 1:17</p>
+    <p class="count" id="count">&nbsp;</p>
+    <p class="skip">Tap anywhere to begin</p>
+  </div>
+
+  <div class="top ui">
+    <div class="finder">
+      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><circle cx="11" cy="11" r="7"/><path d="m20 20-3.5-3.5"/></svg>
+      <label for="q" class="visually-hidden">Find a chapter, person, place or event</label>
+      <input id="q" type="search" autocomplete="off" spellcheck="false" enterkeyhint="search" placeholder="Find Genesis 12, Ruth, Bethel, the Exodus…"
+             role="combobox" aria-expanded="false" aria-controls="results" aria-autocomplete="list">
+      <ul class="results" id="results" role="listbox" hidden></ul>
+    </div>
+    <span class="spacer"></span>
+    <div class="pill" role="group" aria-label="Arrangement">
+      <button type="button" data-layout="web" aria-pressed="true" title="Linked things drawn together">Web</button>
+      <button type="button" data-layout="wheel" aria-pressed="false" title="The chapters in order round a circle">Wheel</button>
+      <button type="button" class="icon" id="open-about" aria-label="About this view"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><circle cx="12" cy="12" r="9"/><path d="M12 11v6M12 7.5v.5"/></svg></button>
+    </div>
+  </div>
+
+  <details class="key ui" id="key">
+    <summary><span>Key</span><span class="dots" id="key-dots"></span></summary>
+    <div class="chips" id="chips" role="group" aria-label="Show or hide"></div>
+    <p class="hint">Tap a color to show or hide it.</p>
+  </details>
+
+  <div class="zoom ui">
+    <button type="button" id="zoom-in" aria-label="Zoom in"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round"><path d="M12 5v14M5 12h14"/></svg></button>
+    <button type="button" id="zoom-out" aria-label="Zoom out"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round"><path d="M5 12h14"/></svg></button>
+    <button type="button" id="zoom-fit" aria-label="Show everything"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M4 9V4h5M20 9V4h-5M4 15v5h5M20 15v5h-5"/></svg></button>
+  </div>
+
+  <article class="card" id="card" hidden aria-live="polite"></article>
+
+  <section class="about" id="about" hidden aria-labelledby="about-h">
+    <button type="button" class="close" data-close aria-label="Close"><svg viewBox="0 0 24 24" width="18" height="18" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M6 6l12 12M18 6 6 18"/></svg></button>
+    <h2 id="about-h">The Web of Scripture</h2>
+    <p>Every chapter of the Bible, every person and place it names, and the events of its history, drawn as one web, in the manner of the graph view of the Obsidian notes in this project's <code>connections/</code> folder.</p>
+    <ul>
+      <li><strong>Threads between chapters</strong> are cross-references from OpenBible.info: for each chapter, the ten other chapters it shares the most-voted references with.</li>
+      <li><strong>People and places</strong> are linked to each chapter that names them, to each other when two are named together in at least two verses, and to parents and children. Names and family links are from STEPBible's TIPNR.</li>
+      <li><strong>Events</strong>, with their dates, are from Theographic, after Ussher's chronology as refined by Floyd Nolen Jones.</li>
+    </ul>
+    <p>In <em>Web</em>, linked things are pulled together and everything else pushed apart, so the books that quote each other gather, and people cluster round the chapters that tell their stories. In <em>Wheel</em>, the chapters stand in order round a circle from Genesis, at the top, to Revelation. The arrangement is worked out when the site is built (<code>scripts/graph.py</code>).</p>
+    <p>Chapters are colored by section, people are pale points, places are rings and events are diamonds. Sources: OpenBible.info cross-references (CC BY), STEPBible TIPNR (CC BY 4.0), Theographic (CC BY-SA 4.0).</p>
+  </section>
+  <p class="fallback" id="fallback" hidden>This view needs WebGL, which this browser has turned off. The <a href="genealogy.html">genealogy</a> and the <a href="index.html">reader</a> work without it.</p>
+</main>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/d3/7.8.5/d3.min.js"></script>
+<script>
+(() => {
+  const $ = id => document.getElementById(id);
+  const stage = $("stage"), glc = $("gl"), ov = $("ov"), card = $("card");
+  const reduced = matchMedia("(prefers-reduced-motion: reduce)").matches;
+  const el = (tag, attrs = {}, ...kids) => {
+    const n = document.createElement(tag);
+    for (const [k, v] of Object.entries(attrs)) {
+      if (v == null || v === false) continue;
+      if (k === "class") n.className = v; else if (k === "text") n.textContent = v;
+      else if (k.startsWith("on")) n.addEventListener(k.slice(2), v); else n.setAttribute(k, v === true ? "" : v);
+    }
+    for (const c of kids.flat(Infinity)) if (c != null) n.append(c);
+    return n;
+  };
+  const fmt = new Intl.NumberFormat("en");
+  const yl = y => (y <= 0 ? `${1 - y} BC` : `AD ${y}`);
+
+  /* ---------- Colors: one for each part of the Bible, and one each for people, places and events ---------- */
+  // [dark stage, light stage]
+  const GROUPS = [
+    { name: "Torah", sec: [0], c: ["#f2c45a", "#a8790a"] },
+    { name: "History", sec: [1], c: ["#f59a62", "#bf5a1f"] },
+    { name: "Wisdom", sec: [2], c: ["#8fdc8a", "#2f8a3c"] },
+    { name: "Prophets", sec: [3], c: ["#ff7272", "#c43434"] },
+    { name: "Gospels", sec: [4], c: ["#6fb0ff", "#2459c4"] },
+    { name: "Acts", sec: [5], c: ["#4fd6cb", "#0f8c83"] },
+    { name: "Letters", sec: [6, 7], c: ["#b996ff", "#6d43c9"] },
+    { name: "Revelation", sec: [8], c: ["#ff86c0", "#c23a7c"] },
+    { name: "People", kind: 1, c: ["#97a3c4", "#98a0b2"], shape: "" },
+    { name: "Places", kind: 2, c: ["#7fd6b4", "#3c8a6c"], shape: "ring" },
+    { name: "Events", kind: 3, c: ["#ffd27a", "#a87400"], shape: "star" },
+  ];
+  let dark = false;
+  const readTheme = () => {
+    const bg = getComputedStyle(document.documentElement).getPropertyValue("--bg").trim();
+    const m = /^#?([0-9a-f]{2})([0-9a-f]{2})([0-9a-f]{2})/i.exec(bg);
+    dark = m ? (parseInt(m[1], 16) + parseInt(m[2], 16) + parseInt(m[3], 16)) / 3 < 100 : false;
+  };
+  readTheme();
+  const hex = h => [1, 3, 5].map(i => parseInt(h.slice(i, i + 2), 16) / 255);
+  const colorOf = g => GROUPS[g].c[dark ? 0 : 1];
+
+  /* ---------- The data (scripts/graph.py writes it) ---------- */
+  let D, N, NC, kind, group, names, deg, X, Y, WX, WY, adj, linkA, linkB, linkT, chapterOf = [], bookOf = [];
+  const KIND_NAME = ["Chapter", "Person", "Place", "Event"];
+  const TYPES = ["xref", "seq", "names", "together", "family", "event"];
+  const label = k => (k < NC ? `${D.books[bookOf[k]][0]} ${chapterOf[k]}` : names[k - NC]);
+  // "Abijah (1 Samuel 8.2)" -> ["Abijah", "first named at 1 Samuel 8:2"]
+  const split = k => {
+    if (k < NC) return [label(k), ""];
+    const m = /^(.*?) \((.+ \d+\.\d+)\)$/.exec(names[k - NC]);
+    return m ? [m[1], m[2].replace(/(\d+)\.(\d+)$/, "$1:$2")] : [names[k - NC], ""];
+  };
+  const refOf = k => {
+    if (k < NC) return null;
+    const j = k - NC, b = D.f[3 * j];
+    return b < 0 ? null : `${D.books[b][0]} ${D.f[3 * j + 1]}:${D.f[3 * j + 2]}`;
+  };
+  const readerHref = ref => {
+    const m = /^(.+?) (\d+)(?::(\d+))?$/.exec(ref);
+    return m ? `index.html#${m[1].toLowerCase().replace(/ /g, "-")}-${m[2]}${m[3] ? "-" + m[3] : ""}` : "index.html";
+  };
+
+  function unpack(data) {
+    D = data;
+    NC = D.kinds[0]; N = NC + D.kinds[1] + D.kinds[2] + D.kinds[3];
+    kind = new Uint8Array(N); group = new Uint8Array(N);
+    let k = 0;
+    D.books.forEach(([, , sec, n], b) => {
+      const g = GROUPS.findIndex(G => G.sec && G.sec.includes(sec));
+      for (let c = 1; c <= n; c++, k++) { chapterOf[k] = c; bookOf[k] = b; group[k] = g; }
+    });
+    for (let i = NC; i < N; i++) {
+      kind[i] = i < NC + D.kinds[1] ? 1 : i < NC + D.kinds[1] + D.kinds[2] ? 2 : 3;
+      group[i] = GROUPS.findIndex(G => G.kind === kind[i]);
+    }
+    names = D.n;
+    X = Float32Array.from(D.x); Y = Float32Array.from(D.y);
+    // The links: unpack each kind (see scripts/graph.py, write).
+    const A = [], B = [], T = [];
+    for (let k2 = 0; k2 + 1 < NC; k2++) { A.push(k2); B.push(k2 + 1); T.push(1); }
+    for (const [t, flat] of Object.entries(D.links)) {
+      const ti = TYPES.indexOf(t);
+      let a = 0, b = 0;
+      for (let j = 0; j < flat.length; j += 2) {
+        if (j && flat[j] === 0) b += flat[j + 1];
+        else { a += flat[j]; b = a + flat[j + 1]; }
+        A.push(a); B.push(b); T.push(ti);
+      }
+    }
+    linkA = Uint16Array.from(A); linkB = Uint16Array.from(B); linkT = Uint8Array.from(T);
+    deg = new Uint16Array(N);
+    adj = Array.from({ length: N }, () => []);
+    const weight = new Map();
+    let wi = 0;
+    for (let e = 0; e < linkA.length; e++) {
+      deg[linkA[e]]++; deg[linkB[e]]++;
+      const w = linkT[e] === 0 ? D.w[wi++] : 0;
+      adj[linkA[e]].push([linkB[e], linkT[e], w]);
+      adj[linkB[e]].push([linkA[e], linkT[e], w]);
+    }
+    // People's numbers in the genealogy, from the steps between them.
+    D.gen = new Map();
+    let g = 0;
+    D.g.forEach((step, j) => { g += step; D.gen.set(NC + j, g); });
+    D.byGen = new Map([...D.gen].map(([node, gi]) => [gi, node]));
+  }
+
+  /* ---------- The two arrangements ---------- */
+  // The web is laid out when the site is built. The wheel sets the chapters round a circle in
+  // order, from Genesis at the top, and everything else at the middle of the chapters it is
+  // linked to, nearer the rim the more those chapters agree.
+  function makeWheel() {
+    let x0 = Infinity, x1 = -Infinity, y0 = Infinity, y1 = -Infinity;
+    for (let i = 0; i < N; i++) { x0 = Math.min(x0, X[i]); x1 = Math.max(x1, X[i]); y0 = Math.min(y0, Y[i]); y1 = Math.max(y1, Y[i]); }
+    const cx = (x0 + x1) / 2, cy = (y0 + y1) / 2, R = 0.46 * Math.min(x1 - x0, y1 - y0);
+    WX = new Float32Array(N); WY = new Float32Array(N);
+    const ang = new Float32Array(N);
+    for (let k = 0; k < NC; k++) {
+      ang[k] = -Math.PI / 2 + 2 * Math.PI * k / NC;
+      WX[k] = cx + R * Math.cos(ang[k]); WY[k] = cy + R * Math.sin(ang[k]);
+    }
+    let seed = 7;
+    const rnd = () => (seed = (seed * 16807) % 2147483647) / 2147483647;
+    for (let i = NC; i < N; i++) {
+      let sx = 0, sy = 0, n = 0;
+      for (const [j] of adj[i]) if (j < NC) { sx += Math.cos(ang[j]); sy += Math.sin(ang[j]); n++; }
+      if (!n) for (const [j] of adj[i]) for (const [m] of adj[j]) if (m < NC) { sx += Math.cos(ang[m]); sy += Math.sin(ang[m]); n++; }
+      // A little scatter, so the many named in one chapter don't stand in a line.
+      const a = (n ? Math.atan2(sy, sx) : rnd() * 2 * Math.PI) + (rnd() - 0.5) * 0.05;
+      const agree = n ? Math.hypot(sx, sy) / n : 0;
+      const r = R * (0.22 + 0.62 * agree) * (0.72 + 0.28 * rnd());
+      WX[i] = cx + r * Math.cos(a); WY[i] = cy + r * Math.sin(a);
+      ang[i] = a;
+    }
+    return { cx, cy, R, ang };
+  }
+
+  /* ---------- WebGL ---------- */
+  const gl = glc.getContext("webgl", { antialias: true, premultipliedAlpha: false, alpha: true }) || glc.getContext("experimental-webgl");
+  if (!gl) { $("fallback").hidden = false; $("title").hidden = true; return; }
+  const VS_NODE = `
+    attribute vec2 a_wheel; attribute vec2 a_web; attribute vec3 a_color;
+    attribute float a_size; attribute float a_delay; attribute float a_kind; attribute float a_state; attribute float a_stagger;
+    uniform vec2 u_scale; uniform vec2 u_offset; uniform float u_time; uniform float u_morph; uniform float u_zoom; uniform float u_dpr; uniform float u_dark;
+    varying vec3 v_color; varying float v_alpha; varying float v_kind; varying float v_core; varying float v_aa;
+    void main() {
+      float m = clamp(u_morph * 1.5 - a_stagger * 0.5, 0.0, 1.0); m = m * m * (3.0 - 2.0 * m);
+      vec2 p = mix(a_wheel, a_web, m);
+      gl_Position = vec4(p * u_scale + u_offset, 0.0, 1.0);
+      float appear = smoothstep(a_delay, a_delay + 0.5, u_time);
+      float st = a_state;
+      float boost = st > 2.5 ? 1.7 : st > 1.5 ? 1.25 : 1.0;
+      float css = clamp(a_size * u_zoom, a_kind < 0.5 ? 2.2 : 1.6, 46.0) * boost * (0.4 + 0.6 * appear);
+      float halo = u_dark > 0.5 ? 2.4 : 1.25;
+      gl_PointSize = css * halo * u_dpr;
+      v_core = 1.0 / halo;
+      v_aa = 1.5 / max(gl_PointSize, 1.0);
+      v_alpha = st < -0.5 ? 0.0 : appear * (st > 0.5 && st < 1.5 ? 0.16 : 1.0);
+      v_color = a_color; v_kind = a_kind;
+    }`;
+  const FS_NODE = `
+    precision mediump float;
+    varying vec3 v_color; varying float v_alpha; varying float v_kind; varying float v_core; varying float v_aa;
+    uniform float u_glow;
+    void main() {
+      vec2 c = gl_PointCoord * 2.0 - 1.0;
+      float r = length(c) / v_core;
+      float d = v_kind > 2.5 ? (abs(c.x) + abs(c.y)) / v_core * 0.86 : r;
+      float core = 1.0 - smoothstep(1.0 - v_aa / v_core * 2.0, 1.0, d);
+      if (v_kind > 1.5 && v_kind < 2.5) core *= 0.3 + 0.7 * smoothstep(0.5, 0.62, r);
+      float glow = u_glow > 0.5 ? exp(-r * r * 2.2) * 0.3 : 0.0;
+      float a = (core + glow * (1.0 - core)) * v_alpha;
+      if (a < 0.004) discard;
+      vec3 col = mix(v_color, vec3(1.0), u_glow > 0.5 ? core * 0.18 : 0.0);
+      gl_FragColor = vec4(col, a);
+    }`;
+  const VS_LINK = `
+    attribute vec2 a_wheel; attribute vec2 a_web; attribute vec3 a_color; attribute float a_delay; attribute float a_state; attribute float a_stagger;
+    uniform vec2 u_scale; uniform vec2 u_offset; uniform float u_time; uniform float u_morph; uniform float u_base;
+    varying vec3 v_color; varying float v_alpha;
+    void main() {
+      float m = clamp(u_morph * 1.5 - a_stagger * 0.5, 0.0, 1.0); m = m * m * (3.0 - 2.0 * m);
+      vec2 p = mix(a_wheel, a_web, m);
+      gl_Position = vec4(p * u_scale + u_offset, 0.0, 1.0);
+      float appear = smoothstep(a_delay, a_delay + 0.9, u_time);
+      float st = a_state;
+      v_alpha = st < -0.5 ? 0.0 : appear * (st > 1.5 ? 0.0 : st > 0.5 ? u_base * 0.18 : u_base);
+      v_color = a_color;
+    }`;
+  const FS_LINK = `
+    precision mediump float;
+    varying vec3 v_color; varying float v_alpha;
+    void main() { gl_FragColor = vec4(v_color, v_alpha); }`;
+  function program(vs, fs) {
+    const make = (type, src) => { const s = gl.createShader(type); gl.shaderSource(s, src); gl.compileShader(s); if (!gl.getShaderParameter(s, gl.COMPILE_STATUS)) throw new Error(gl.getShaderInfoLog(s)); return s; };
+    const p = gl.createProgram();
+    gl.attachShader(p, make(gl.VERTEX_SHADER, vs)); gl.attachShader(p, make(gl.FRAGMENT_SHADER, fs)); gl.linkProgram(p);
+    if (!gl.getProgramParameter(p, gl.LINK_STATUS)) throw new Error(gl.getProgramInfoLog(p));
+    const loc = {};
+    for (let i = 0; i < gl.getProgramParameter(p, gl.ACTIVE_ATTRIBUTES); i++) { const n = gl.getActiveAttrib(p, i).name; loc[n] = gl.getAttribLocation(p, n); }
+    for (let i = 0; i < gl.getProgramParameter(p, gl.ACTIVE_UNIFORMS); i++) { const n = gl.getActiveUniform(p, i).name; loc[n] = gl.getUniformLocation(p, n); }
+    return { p, loc };
+  }
+  let PN, PL, buf = {}, stateN, stateL, delay, stagger;
+  function buffer(data, usage = gl.STATIC_DRAW) { const b = gl.createBuffer(); gl.bindBuffer(gl.ARRAY_BUFFER, b); gl.bufferData(gl.ARRAY_BUFFER, data, usage); return b; }
+
+  // When each node and thread appears in the opening: the chapters in order round the wheel,
+  // each person, place and event just after the first chapter that names it, each thread once
+  // both its ends are there. Then the whole unfolds from the wheel into the web, the middle first.
+  function timings(geo) {
+    delay = new Float32Array(N); stagger = new Float32Array(N);
+    for (let k = 0; k < NC; k++) delay[k] = 0.5 + 2.0 * k / NC;
+    let seed = 11;
+    const rnd = () => (seed = (seed * 16807) % 2147483647) / 2147483647;
+    for (let i = NC; i < N; i++) {
+      let first = Infinity;
+      for (const [j] of adj[i]) if (j < NC) first = Math.min(first, j);
+      delay[i] = (first < Infinity ? delay[first] : 1.5 + rnd()) + 0.25 + 0.5 * rnd();
+    }
+    let x0 = 0, y0 = 0;
+    for (let i = 0; i < N; i++) { x0 += X[i]; y0 += Y[i]; }
+    x0 /= N; y0 /= N;
+    let rmax = 1;
+    const r = new Float32Array(N);
+    for (let i = 0; i < N; i++) { r[i] = Math.hypot(X[i] - x0, Y[i] - y0); rmax = Math.max(rmax, r[i]); }
+    for (let i = 0; i < N; i++) stagger[i] = Math.min(1, 0.75 * r[i] / rmax + 0.25 * rnd());
+  }
+  function upload() {
+    PN = program(VS_NODE, FS_NODE); PL = program(VS_LINK, FS_LINK);
+    const size = new Float32Array(N), kindF = new Float32Array(N);
+    for (let i = 0; i < N; i++) {
+      size[i] = (i < NC ? 7 : 4.5) + Math.sqrt(deg[i]) * (i < NC ? 1.6 : 1.4);
+      kindF[i] = kind[i];
+    }
+    const E = linkA.length;
+    const lw = new Float32Array(4 * E), lb = new Float32Array(4 * E), ld = new Float32Array(2 * E), ls = new Float32Array(2 * E);
+    for (let e = 0; e < E; e++) {
+      const a = linkA[e], b = linkB[e];
+      lw.set([WX[a], WY[a], WX[b], WY[b]], 4 * e);
+      lb.set([X[a], Y[a], X[b], Y[b]], 4 * e);
+      ld[2 * e] = ld[2 * e + 1] = Math.max(delay[a], delay[b]) + 0.15;
+      ls[2 * e] = stagger[a]; ls[2 * e + 1] = stagger[b];
+    }
+    buf = {
+      nWheel: buffer(interleave(WX, WY)), nWeb: buffer(interleave(X, Y)), nSize: buffer(size), nDelay: buffer(delay), nKind: buffer(kindF),
+      nStagger: buffer(stagger), nColor: buffer(nodeColors()), nState: buffer(stateN = new Float32Array(N), gl.DYNAMIC_DRAW),
+      lWheel: buffer(lw), lWeb: buffer(lb), lDelay: buffer(ld), lStagger: buffer(ls), lColor: buffer(linkColors()),
+      lState: buffer(stateL = new Float32Array(2 * E), gl.DYNAMIC_DRAW),
+    };
+  }
+  const interleave = (a, b) => { const o = new Float32Array(2 * a.length); for (let i = 0; i < a.length; i++) { o[2 * i] = a[i]; o[2 * i + 1] = b[i]; } return o; };
+  function nodeColors() {
+    const o = new Float32Array(3 * N);
+    for (let i = 0; i < N; i++) o.set(hex(colorOf(group[i])), 3 * i);
+    return o;
+  }
+  // A thread takes the color of each end, so threads between two parts of the Bible blend.
+  function linkColors() {
+    const E = linkA.length, o = new Float32Array(6 * E);
+    for (let e = 0; e < E; e++) { o.set(hex(colorOf(group[linkA[e]])), 6 * e); o.set(hex(colorOf(group[linkB[e]])), 6 * e + 3); }
+    return o;
+  }
+  function attr(prog, name, b, size) {
+    const l = prog.loc[name];
+    if (l == null || l < 0) return;
+    gl.bindBuffer(gl.ARRAY_BUFFER, b); gl.enableVertexAttribArray(l); gl.vertexAttribPointer(l, size, gl.FLOAT, false, 0, 0);
+  }
+
+  /* ---------- View, time and drawing ---------- */
+  let W = 0, H = 0, dpr = 1, T = d3.zoomIdentity, clock = 0, morph = 0, morphTo = 1, began = 0, revealing = true, layout = "web";
+  let selected = -1, hover = -1, hidden = new Set();
+  const ctx = ov.getContext("2d");
+  function resize() {
+    const r = stage.getBoundingClientRect();
+    W = r.width; H = r.height; dpr = Math.min(2, window.devicePixelRatio || 1);
+    for (const c of [glc, ov]) { c.width = Math.round(W * dpr); c.height = Math.round(H * dpr); }
+    gl.viewport(0, 0, glc.width, glc.height);
+    schedule();
+  }
+  let queued = false;
+  function schedule() { if (!queued) { queued = true; requestAnimationFrame(frame); } }
+  function frame() {
+    queued = false;
+    if (revealing) {
+      clock = (performance.now() - began) / 1000;
+      morph = reduced ? 1 : Math.min(1, Math.max(0, (clock - 3.1) / 1.9));
+      if (clock > 3.4) $("title").classList.add("gone");
+      if (clock > 5.2) finishReveal();
+      else schedule();
+    } else if (morph !== morphTo) {
+      morph += (morphTo - morph) * 0.12;
+      if (Math.abs(morphTo - morph) < 0.002) morph = morphTo;
+      schedule();
+    }
+    drawGL();
+    drawOverlay();
+  }
+  function drawGL() {
+    if (!PN) return;
+    gl.clearColor(0, 0, 0, 0);
+    gl.clear(gl.COLOR_BUFFER_BIT);
+    gl.enable(gl.BLEND);
+    // Threads blend normally, so where many cross they keep their colors; in the dark, the
+    // nodes add their light, so they glow like stars.
+    gl.blendFuncSeparate(gl.SRC_ALPHA, gl.ONE_MINUS_SRC_ALPHA, gl.ONE, gl.ONE_MINUS_SRC_ALPHA);
+    const sx = 2 * T.k / W, sy = -2 * T.k / H, ox = 2 * T.x / W - 1, oy = 1 - 2 * T.y / H;
+    // Threads
+    gl.useProgram(PL.p);
+    gl.uniform2f(PL.loc.u_scale, sx, sy); gl.uniform2f(PL.loc.u_offset, ox, oy);
+    gl.uniform1f(PL.loc.u_time, revealing ? clock : 100); gl.uniform1f(PL.loc.u_morph, morph);
+    gl.uniform1f(PL.loc.u_base, (dark ? 0.13 : 0.075) * Math.min(1.8, Math.max(0.6, 0.85 + Math.log2(T.k / fitK) * 0.2)));
+    attr(PL, "a_wheel", buf.lWheel, 2); attr(PL, "a_web", buf.lWeb, 2); attr(PL, "a_color", buf.lColor, 3);
+    attr(PL, "a_delay", buf.lDelay, 1); attr(PL, "a_state", buf.lState, 1); attr(PL, "a_stagger", buf.lStagger, 1);
+    gl.drawArrays(gl.LINES, 0, 2 * linkA.length);
+    // Nodes
+    gl.useProgram(PN.p);
+    gl.uniform2f(PN.loc.u_scale, sx, sy); gl.uniform2f(PN.loc.u_offset, ox, oy);
+    gl.uniform1f(PN.loc.u_time, revealing ? clock : 100); gl.uniform1f(PN.loc.u_morph, morph);
+    gl.uniform1f(PN.loc.u_zoom, T.k); gl.uniform1f(PN.loc.u_dpr, dpr); gl.uniform1f(PN.loc.u_dark, dark ? 1 : 0); gl.uniform1f(PN.loc.u_glow, dark ? 1 : 0);
+    attr(PN, "a_wheel", buf.nWheel, 2); attr(PN, "a_web", buf.nWeb, 2); attr(PN, "a_color", buf.nColor, 3); attr(PN, "a_size", buf.nSize, 1);
+    attr(PN, "a_delay", buf.nDelay, 1); attr(PN, "a_kind", buf.nKind, 1); attr(PN, "a_state", buf.nState, 1); attr(PN, "a_stagger", buf.nStagger, 1);
+    if (dark) gl.blendFunc(gl.SRC_ALPHA, gl.ONE);
+    // People, places and events first, then the chapters over them.
+    gl.drawArrays(gl.POINTS, NC, N - NC);
+    gl.drawArrays(gl.POINTS, 0, NC);
+  }
+
+  // Where a node is on screen now (as the shaders place it).
+  function posOf(i) {
+    const m0 = Math.min(1, Math.max(0, morph * 1.5 - stagger[i] * 0.5)), m = m0 * m0 * (3 - 2 * m0);
+    const x = WX[i] + (X[i] - WX[i]) * m, y = WY[i] + (Y[i] - WY[i]) * m;
+    return [x * T.k + T.x, y * T.k + T.y];
+  }
+  const radiusOf = i => Math.min(46, Math.max(kind[i] ? 1.6 : 2.2, ((i < NC ? 7 : 4.5) + Math.sqrt(deg[i]) * (i < NC ? 1.6 : 1.4)) * T.k)) / 2;
+
+  /* ---------- The overlay: names, and the threads of the node chosen ---------- */
+  let bookCenters = [];
+  function drawOverlay() {
+    ctx.setTransform(dpr, 0, 0, dpr, 0, 0);
+    ctx.clearRect(0, 0, W, H);
+    if (!N) return;
+    const ink = getComputedStyle(document.documentElement).getPropertyValue("--ink").trim();
+    const halo = dark ? "rgba(5,7,13,0.85)" : "rgba(251,250,247,0.9)";
+    // During the opening and in the wheel, the parts of the Bible round the rim.
+    if ((revealing && clock > 0.6) || layout === "wheel") {
+      const a = revealing ? Math.min(1, (clock - 0.6) / 1.2) * (1 - morph) : 1 - morph;
+      if (a > 0.01) drawRim(a);
+    }
+    if (revealing) return;
+    const focus = selected >= 0 ? selected : hover;
+    // The threads of the node chosen, drawn over the rest.
+    if (focus >= 0 && !hidden.has(group[focus])) {
+      const [fx, fy] = posOf(focus);
+      ctx.lineWidth = selected >= 0 ? 1.4 : 1;
+      for (const [j] of adj[focus]) {
+        if (hidden.has(group[j])) continue;
+        const [x, y] = posOf(j);
+        ctx.strokeStyle = colorOf(group[j]);
+        ctx.globalAlpha = selected >= 0 ? 0.75 : 0.5;
+        ctx.beginPath(); ctx.moveTo(fx, fy); ctx.lineTo(x, y); ctx.stroke();
+      }
+      ctx.globalAlpha = 1;
+      ctx.strokeStyle = colorOf(group[focus]); ctx.lineWidth = 2;
+      ctx.beginPath(); ctx.arc(fx, fy, radiusOf(focus) + 5, 0, 2 * Math.PI); ctx.stroke();
+    }
+    // Names, most connected first, wherever they fit.
+    const taken = [];
+    const fits = (x, y, w, h) => {
+      if (x < 4 || y < 4 || x + w > W - 4 || y + h > H - 4) return false;
+      for (const r of taken) if (x < r[2] && x + w > r[0] && y < r[3] && y + h > r[1]) return false;
+      return true;
+    };
+    ctx.textBaseline = "middle"; ctx.lineJoin = "round";
+    const put = (i, strong) => {
+      const [x, y] = posOf(i);
+      if (x < -50 || y < -20 || x > W + 50 || y > H + 20) return false;
+      const text = i < NC ? label(i) : split(i)[0];
+      ctx.font = `${strong ? 600 : 500} ${strong ? 13 : 12}px "Libre Franklin", system-ui, sans-serif`;
+      const w = ctx.measureText(text).width, r = radiusOf(i);
+      const lx = x + r + 4, ly = y - 8;
+      if (!fits(lx - 2, ly, w + 4, 16)) return false;
+      taken.push([lx - 2, ly, lx + w + 2, ly + 16]);
+      ctx.strokeStyle = halo; ctx.lineWidth = 3.5; ctx.strokeText(text, lx, y);
+      ctx.fillStyle = strong ? (i === focus ? ink : colorOf(group[i])) : ink;
+      ctx.globalAlpha = strong || focus < 0 ? 1 : 0.32;
+      ctx.fillText(text, lx, y);
+      ctx.globalAlpha = 1;
+      return true;
+    };
+    if (focus >= 0) {
+      put(focus, true);
+      const ns = adj[focus].map(([j]) => j).filter(j => !hidden.has(group[j])).sort((a, b) => deg[b] - deg[a]);
+      for (const j of ns.slice(0, 60)) put(j, true);
+    }
+    // Zoomed out, the books' names over their chapters; zoomed in, every name that fits.
+    const zoomed = T.k / fitK;
+    if (zoomed < 2.2 && layout === "web") {
+      ctx.font = '600 11px "Libre Franklin", system-ui, sans-serif';
+      ctx.globalAlpha = focus >= 0 ? 0.35 : Math.min(1, 2.6 - zoomed) * 0.95;
+      for (const [b, bx, by, n] of bookCenters) {
+        if (n < 3 && zoomed < 1.3) continue;
+        const sx = bx * T.k + T.x, sy = by * T.k + T.y, text = D.books[b][0].toUpperCase();
+        const w = ctx.measureText(text).width;
+        if (!fits(sx - w / 2 - 2, sy - 8, w + 4, 16)) continue;
+        taken.push([sx - w / 2 - 2, sy - 8, sx + w / 2 + 2, sy + 8]);
+        ctx.strokeStyle = halo; ctx.lineWidth = 3; ctx.strokeText(text, sx - w / 2, sy);
+        ctx.fillStyle = colorOf(group[bookStart[b]]); ctx.fillText(text, sx - w / 2, sy);
+      }
+      ctx.globalAlpha = 1;
+    }
+    if (zoomed >= 1.6) {
+      const cap = W < 640 ? 70 : 140;
+      let n = 0;
+      for (const i of byImportance) {
+        if (n >= cap) break;
+        if (hidden.has(group[i]) || i === focus) continue;
+        if (radiusOf(i) * 2 < (i < NC ? 3 : 4.5) && deg[i] * zoomed < 40) continue;
+        if (put(i, false)) n++;
+      }
+    }
+  }
+  let bookStart = [];
+  function drawRim(alpha) {
+    const { cx, cy, R } = geo;
+    ctx.save();
+    ctx.globalAlpha = alpha;
+    ctx.textBaseline = "middle"; ctx.textAlign = "center";
+    ctx.font = '600 11px "Libre Franklin", system-ui, sans-serif';
+    const parts = GROUPS.filter(G => G.sec);
+    for (const G of parts) {
+      const ks = []; for (let k = 0; k < NC; k++) if (G.sec.includes(D.books[bookOf[k]][2])) ks.push(k);
+      if (!ks.length) continue;
+      const mid = ks[Math.floor(ks.length / 2)];
+      if (revealing && clock < delay[mid]) continue;
+      const a = -Math.PI / 2 + 2 * Math.PI * mid / NC;
+      const r = R * T.k + 22;
+      const x = cx * T.k + T.x + Math.cos(a) * r, y = cy * T.k + T.y + Math.sin(a) * r;
+      ctx.fillStyle = colorOf(GROUPS.indexOf(G));
+      ctx.fillText(G.name.toUpperCase(), x, y);
+    }
+    ctx.restore();
+  }
+
+  /* ---------- Zoom, pan and picking ---------- */
+  let fitK = 1, geo, byImportance;
+  const zoom = d3.zoom().scaleExtent([0.02, 20]).on("zoom", ev => { T = ev.transform; hover = -1; schedule(); });
+  const oz = d3.select(ov);
+  function fitTransform(xs, ys, pad = 40, bottom = 0) {
+    let x0 = Infinity, x1 = -Infinity, y0 = Infinity, y1 = -Infinity;
+    for (let i = 0; i < N; i++) { x0 = Math.min(x0, xs[i]); x1 = Math.max(x1, xs[i]); y0 = Math.min(y0, ys[i]); y1 = Math.max(y1, ys[i]); }
+    const top = W < 760 ? 110 : 64;
+    const k = Math.min((W - 2 * pad) / (x1 - x0), (H - top - bottom - pad) / (y1 - y0));
+    return d3.zoomIdentity.translate(W / 2 - (x0 + x1) / 2 * k, top + (H - top - bottom) / 2 - (y0 + y1) / 2 * k).scale(k);
+  }
+  function fit(animate) {
+    const t = layout === "web" ? fitTransform(X, Y, W < 760 ? 14 : 40) : fitTransform(WX, WY, W < 760 ? 46 : 96);
+    fitK = Math.min(fitTransform(X, Y).k, fitTransform(WX, WY, W < 760 ? 46 : 96).k);
+    zoom.scaleExtent([fitK * 0.5, fitK * 60]);
+    (animate && !reduced ? oz.transition().duration(700) : oz).call(zoom.transform, t);
+  }
+  let grid = null;
+  function buildGrid() {
+    // Nodes by screen-independent cell, for finding the one under a finger.
+    const xs = layout === "web" ? X : WX, ys = layout === "web" ? Y : WY, size = 60;
+    grid = { size, cells: new Map(), xs, ys };
+    for (let i = 0; i < N; i++) {
+      const key = Math.floor(xs[i] / size) * 100003 + Math.floor(ys[i] / size);
+      if (!grid.cells.has(key)) grid.cells.set(key, []);
+      grid.cells.get(key).push(i);
+    }
+  }
+  function nodeAt(sx, sy, slop = 14) {
+    if (!grid || morph !== morphTo) return -1;
+    const wx = (sx - T.x) / T.k, wy = (sy - T.y) / T.k, reach = Math.max(1, Math.ceil((slop + 24) / T.k / grid.size));
+    const cx = Math.floor(wx / grid.size), cy = Math.floor(wy / grid.size);
+    let best = -1, bestD = Infinity;
+    for (let dx = -reach; dx <= reach; dx++) for (let dy = -reach; dy <= reach; dy++) {
+      for (const i of grid.cells.get((cx + dx) * 100003 + cy + dy) || []) {
+        if (hidden.has(group[i])) continue;
+        const d = Math.hypot((grid.xs[i] - wx) * T.k, (grid.ys[i] - wy) * T.k) - radiusOf(i);
+        if (d < slop && d < bestD) { bestD = d; best = i; }
+      }
+    }
+    return best;
+  }
+  ov.addEventListener("click", ev => {
+    if (revealing) { skip(); return; }
+    const r = ov.getBoundingClientRect();
+    const i = nodeAt(ev.clientX - r.left, ev.clientY - r.top, ev.pointerType === "mouse" ? 8 : 16);
+    if (i >= 0) select(i); else if (selected >= 0) select(-1);
+  });
+  ov.addEventListener("pointermove", ev => {
+    if (ev.pointerType !== "mouse" || revealing || ev.buttons) return;
+    const r = ov.getBoundingClientRect();
+    const i = nodeAt(ev.clientX - r.left, ev.clientY - r.top, 6);
+    if (i !== hover) { hover = i; ov.classList.toggle("over", i >= 0); ov.title = i >= 0 ? label(i) : ""; schedule(); }
+  });
+  ov.addEventListener("pointerleave", () => { if (hover >= 0) { hover = -1; schedule(); } });
+
+  /* ---------- Choosing a node ---------- */
+  function setStates() {
+    const focus = selected;
+    const near = new Set(focus >= 0 ? adj[focus].map(([j]) => j) : []);
+    for (let i = 0; i < N; i++) {
+      stateN[i] = hidden.has(group[i]) ? -1 : focus < 0 ? 0 : i === focus ? 3 : near.has(i) ? 2 : 1;
+    }
+    for (let e = 0; e < linkA.length; e++) {
+      const a = linkA[e], b = linkB[e];
+      const s = stateN[a] < 0 || stateN[b] < 0 ? -1 : focus < 0 ? 0 : a === focus || b === focus ? 2 : 1;
+      stateL[2 * e] = stateL[2 * e + 1] = s;
+    }
+    gl.bindBuffer(gl.ARRAY_BUFFER, buf.nState); gl.bufferSubData(gl.ARRAY_BUFFER, 0, stateN);
+    gl.bindBuffer(gl.ARRAY_BUFFER, buf.lState); gl.bufferSubData(gl.ARRAY_BUFFER, 0, stateL);
+  }
+  function select(i, opts = {}) {
+    selected = i;
+    setStates();
+    if (i < 0) { card.hidden = true; document.body.classList.remove("card-open"); setHash(""); schedule(); return; }
+    renderCard(i);
+    setHash(i < NC ? readerHref(label(i)).split("#")[1] : D.gen.has(i) ? `p${D.gen.get(i)}` : `n${i}`);
+    if (opts.fly) flyTo(i);
+    schedule();
+  }
+  function setHash(h) { try { history.replaceState(null, "", h ? "#" + h : location.pathname); } catch (e) { /* not allowed here */ } }
+  function flyTo(i) {
+    const xs = layout === "web" ? X : WX, ys = layout === "web" ? Y : WY;
+    // Frame the node and its nearest neighbours, clear of the card.
+    let x0 = xs[i], x1 = xs[i], y0 = ys[i], y1 = ys[i];
+    const ns = adj[i].map(([j]) => j).sort((a, b) => Math.hypot(xs[a] - xs[i], ys[a] - ys[i]) - Math.hypot(xs[b] - xs[i], ys[b] - ys[i])).slice(0, 12);
+    for (const j of ns) { x0 = Math.min(x0, xs[j]); x1 = Math.max(x1, xs[j]); y0 = Math.min(y0, ys[j]); y1 = Math.max(y1, ys[j]); }
+    const phone = W < 760;
+    const vw = phone ? W : W - 400, vh = phone ? H * 0.45 : H - 80, top = phone ? 100 : 60;
+    const k = Math.max(fitK * 2.5, Math.min(fitK * 30, Math.min((vw - 80) / Math.max(1, x1 - x0), (vh - 80) / Math.max(1, y1 - y0))));
+    const t = d3.zoomIdentity.translate(vw / 2 - xs[i] * k, top + (vh - top) / 2 + (phone ? 0 : 0) - ys[i] * k).scale(k);
+    (reduced ? oz : oz.transition().duration(850)).call(zoom.transform, t);
+  }
+
+  /* ---------- The card ---------- */
+  let briefs = null;
+  const loadBriefs = () => briefs || (briefs = fetch("data/graph-briefs.json").then(r => r.json()).catch(() => (briefs = null)));
+  const ICON = {
+    read: '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linejoin="round"><path d="M12 6c-2-1.3-4.7-1.8-8-1.5v13c3.3-.3 6 .2 8 1.5 2-1.3 4.7-1.8 8-1.5v-13c-3.3-.3-6 .2-8 1.5Zm0 0v13"/></svg>',
+    tree: '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="5" r="2.5"/><circle cx="6" cy="19" r="2.5"/><circle cx="18" cy="19" r="2.5"/><path d="M12 7.5v4M6 16.5V14h12v2.5"/></svg>',
+    map: '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linejoin="round"><path d="M12 21s-7-6.2-7-11.5a7 7 0 0 1 14 0C19 14.8 12 21 12 21Z"/><circle cx="12" cy="9.5" r="2.5"/></svg>',
+  };
+  const act = (href, text, icon, solid) => { const a = el("a", { class: `act${solid ? " solid" : ""}`, href }); a.innerHTML = ICON[icon] || ""; a.append(text); return a; };
+  const dotFor = g => el("i", { class: `dot ${GROUPS[g].shape || ""}`, style: `--c:${colorOf(g)}` });
+  function chips(title, items, limit = 16) {
+    if (!items.length) return null;
+    const list = el("div", { class: "list" });
+    const render = all => {
+      list.replaceChildren(...(all ? items : items.slice(0, limit)).map(([j, extra]) =>
+        el("button", { type: "button", class: "node-chip", onclick: () => select(j, { fly: true }) }, dotFor(group[j]), label(j).replace(/ \(.+ \d+\.\d+\)$/, ""), extra ? el("small", { text: extra }) : null)));
+      if (!all && items.length > limit) list.append(el("button", { type: "button", class: "more", onclick: () => render(true), text: `+${items.length - limit} more` }));
+    };
+    render(false);
+    return el("div", { class: "rel" }, el("h3", { text: `${title} (${items.length})` }), list);
+  }
+  function renderCard(i) {
+    const k = kind[i], [name, dis] = split(i);
+    const by = t => adj[i].filter(([, tt]) => tt === t);
+    const ofKind = (list, kk) => list.filter(([j]) => kind[j] === kk);
+    const canon = (a, b) => a[0] - b[0];
+    const kids = [];
+    kids.push(el("div", { class: "grab" }));
+    kids.push(el("button", { type: "button", class: "close", "aria-label": "Close", onclick: () => select(-1) },
+      (() => { const s = el("span"); s.innerHTML = '<svg viewBox="0 0 24 24" width="18" height="18" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M6 6l12 12M18 6 6 18"/></svg>'; return s; })()));
+    const kicker = k === 0 ? `Chapter · ${GROUPS[group[i]].name}` : k === 3 && D.yr[i - NC] != null ? `Event · ${yl(D.yr[i - NC])}` : KIND_NAME[k];
+    kids.push(el("div", { class: "kicker" }, dotFor(group[i]), kicker));
+    kids.push(el("h2", {}, name, dis ? el("small", { text: `First named at ${dis}` }) : null));
+    const brief = el("p", { class: "brief", hidden: true });
+    kids.push(brief);
+    if (k === 1 || k === 2) loadBriefs().then(b => { if (b && selected === i && b[i - NC]) { brief.textContent = b[i - NC]; brief.hidden = false; } });
+    const actions = el("div", { class: "actions" });
+    if (k === 0) {
+      actions.append(act(readerHref(label(i)), `Read ${label(i)}`, "read", true));
+      const xr = by(0).sort((a, b) => b[2] - a[2]).map(([j, , w]) => [j, `${w} ref${w === 1 ? "" : "s"}`]);
+      const seq = by(1).sort(canon).map(([j]) => [j, j < i ? "before" : "after"]);
+      const nm = by(2);
+      kids.push(el("p", { class: "stats", text: [`${fmt.format(deg[i])} connections`, nm.filter(([j]) => kind[j] === 1).length && `${nm.filter(([j]) => kind[j] === 1).length} people`, nm.filter(([j]) => kind[j] === 2).length && `${nm.filter(([j]) => kind[j] === 2).length} places`].filter(Boolean).join(" · ") }));
+      kids.push(actions);
+      kids.push(chips("Cross-references", xr));
+      kids.push(chips("People", ofKind(nm, 1).sort((a, b) => D.v[b[0] - NC] - D.v[a[0] - NC])));
+      kids.push(chips("Places", ofKind(nm, 2).sort((a, b) => D.v[b[0] - NC] - D.v[a[0] - NC])));
+      kids.push(chips("Events", by(5).filter(([j]) => kind[j] === 3).map(([j]) => [j, D.yr[j - NC] != null ? yl(D.yr[j - NC]) : ""])));
+      kids.push(chips("Before and after", seq));
+    } else {
+      const ref = refOf(i);
+      if (k === 1 && D.gen.has(i)) actions.append(act(`genealogy.html#p${D.gen.get(i)}`, "Family tree", "tree", true));
+      if (k === 2 && D.m[i - NC]) actions.append(act(`maps/${D.m[i - NC][0]}.html#place=${D.m[i - NC][1]}`, "On the map", "map", true));
+      if (ref) actions.append(act(readerHref(ref), `Read ${ref}`, "read", k === 3));
+      const v = D.v[i - NC];
+      kids.push(el("p", { class: "stats", text: [k === 3 ? `${fmt.format(v)} verse${v === 1 ? "" : "s"}` : `Named in ${fmt.format(v)} verse${v === 1 ? "" : "s"}`, `${fmt.format(deg[i])} connections`].join(" · ") }));
+      kids.push(actions);
+      const chs = adj[i].filter(([j]) => j < NC).sort(canon).map(([j]) => [j]);
+      kids.push(chips(k === 3 ? "Passages" : "Chapters", chs, 18));
+      if (k !== 3) {
+        kids.push(chips("Family", by(4).map(([j]) => [j])));
+        kids.push(chips("Named with", by(3).sort((a, b) => deg[b[0]] - deg[a[0]]).map(([j]) => [j])));
+      }
+      kids.push(chips(k === 3 ? "People" : "Events", by(5).filter(([j]) => (k === 3 ? kind[j] === 1 : kind[j] === 3)).map(([j]) => [j, k !== 3 && D.yr[j - NC] != null ? yl(D.yr[j - NC]) : ""])));
+      if (k === 3) kids.push(chips("Places", by(5).filter(([j]) => kind[j] === 2).map(([j]) => [j])));
+    }
+    card.replaceChildren(...kids.filter(Boolean));
+    card.hidden = false;
+    card.scrollTop = 0;
+    document.body.classList.add("card-open");
+  }
+
+  /* ---------- Search ---------- */
+  const ALIASES = {
+    Gen: "gn ge", Exod: "ex exo", Lev: "lv le", Num: "nm nu nb", Deut: "dt de deu", Josh: "jos jsh", Judg: "jdg jg jdgs",
+    Ruth: "rt ru rth", "1Sam": "1sa 1sm", "2Sam": "2sa 2sm", "1Kgs": "1ki 1kg 1kgs", "2Kgs": "2ki 2kg 2kgs",
+    "1Chr": "1ch 1chr", "2Chr": "2ch 2chr", Ezra: "ezr", Neh: "ne", Esth: "est es", Job: "jb", Ps: "ps psa pss psalm psm",
+    Prov: "pr prv pro", Eccl: "ec ecc eccl qoh", Song: "sos sng song cant ss", Isa: "is", Jer: "jr je", Lam: "la lm",
+    Ezek: "ezk eze", Dan: "dn da", Hos: "ho", Joel: "jl", Amos: "am", Obad: "ob oba", Jonah: "jon jnh", Mic: "mi mc",
+    Nah: "na", Hab: "hb", Zeph: "zep zp", Hag: "hg", Zech: "zec zc", Mal: "ml",
+    Matt: "mt mat", Mark: "mk mr mrk", Luke: "lk lu luk", John: "jn jhn joh", Acts: "ac act", Rom: "ro rm",
+    "1Cor": "1co", "2Cor": "2co", Gal: "ga", Eph: "ep", Phil: "php pp phi", Col: "co", "1Thess": "1th 1ts",
+    "2Thess": "2th 2ts", "1Tim": "1ti 1tm", "2Tim": "2ti 2tm", Titus: "tit ti", Phlm: "phm pm philem", Heb: "he",
+    Jas: "jm ja jam", "1Pet": "1pe 1pt 1p", "2Pet": "2pe 2pt 2p", "1John": "1jn 1jo 1j", "2John": "2jn 2jo",
+    "3John": "3jn 3jo", Jude: "jud jd", Rev: "re rv rev apoc",
+  };
+  const norm = s => s.normalize("NFD").replace(/[̀-ͯ]/g, "").toLowerCase().replace(/\s+/g, " ").trim();
+  let index = [], bookForms = [];
+  function buildSearch() {
+    bookForms = D.books.map(([name, osis], b) => [b, new Set([norm(name), norm(name).replace(/ /g, ""), osis.toLowerCase(), ...(ALIASES[osis] || "").split(" ").filter(Boolean)])]);
+    index = [];
+    for (let i = NC; i < N; i++) index.push([i, norm(names[i - NC].replace(/ \(.+\)$/, ""))]);
+  }
+  const bookStartOf = [];
+  function search(q) {
+    const t = norm(q);
+    if (!t) return [];
+    const out = [];
+    const m = /^(.*?)\s*(\d+)?$/.exec(t);
+    if (m && m[1]) {
+      const words = m[1].replace(/\.$/, "");
+      for (const [b, forms] of bookForms) {
+        let hit = forms.has(words) ? 3 : [...forms].some(f => f.startsWith(words) && words.length >= 2) ? 2 : 0;
+        if (!hit) continue;
+        const n = D.books[b][3], c = m[2] ? +m[2] : 1;
+        // A book with a chapter is surely a chapter; a bare name may be a person or place too.
+        if (c >= 1 && c <= n) out.push([m[2] ? hit + 2 : hit - 0.5, 1e6, bookStartOf[b] + c - 1]);
+      }
+    }
+    for (const [i, key] of index) {
+      const s = key === t ? 3 : key.startsWith(t) ? 2 : t.length > 2 && key.includes(t) ? 1 : 0;
+      if (s) out.push([s, deg[i], i]);
+    }
+    return out.sort((a, b) => b[0] - a[0] || b[1] - a[1]).slice(0, 10).map(x => x[2]);
+  }
+  const q = $("q"), results = $("results");
+  let hits = [], active = -1;
+  function showResults() {
+    results.replaceChildren(...hits.map((i, k) => {
+      const [nm, dis] = split(i);
+      const sub = i < NC ? `Chapter · ${GROUPS[group[i]].name}` : `${KIND_NAME[kind[i]]}${dis ? ` · first named at ${dis}` : kind[i] === 3 && D.yr[i - NC] != null ? ` · ${yl(D.yr[i - NC])}` : ""}`;
+      return el("li", { role: "option", id: `opt-${k}`, "aria-selected": k === active ? "true" : "false", onmousedown: e => { e.preventDefault(); choose(i); } },
+        dotFor(group[i]), el("span", {}, el("b", { text: nm }), el("small", { text: sub })));
+    }));
+    results.hidden = !hits.length;
+    q.setAttribute("aria-expanded", hits.length ? "true" : "false");
+    if (active >= 0) q.setAttribute("aria-activedescendant", `opt-${active}`); else q.removeAttribute("aria-activedescendant");
+  }
+  function choose(i) {
+    hits = []; showResults(); q.value = ""; q.blur();
+    if (hidden.has(group[i])) { hidden.delete(group[i]); renderKey(); }
+    select(i, { fly: true });
+  }
+  q.addEventListener("input", () => { hits = search(q.value); active = hits.length ? 0 : -1; showResults(); });
+  q.addEventListener("keydown", e => {
+    if (e.key === "ArrowDown" && hits.length) { active = (active + 1) % hits.length; showResults(); e.preventDefault(); }
+    else if (e.key === "ArrowUp" && hits.length) { active = (active - 1 + hits.length) % hits.length; showResults(); e.preventDefault(); }
+    else if (e.key === "Enter" && active >= 0) { choose(hits[active]); e.preventDefault(); }
+    else if (e.key === "Escape") { hits = []; showResults(); q.blur(); }
+  });
+  q.addEventListener("blur", () => setTimeout(() => { hits = []; showResults(); }, 150));
+
+  /* ---------- The key: a color for each group, which also shows or hides it ---------- */
+  function renderKey() {
+    $("key-dots").replaceChildren(...GROUPS.slice(0, 8).map((G, g) => el("i", { style: `--c:${colorOf(g)}` })));
+    $("chips").replaceChildren(...GROUPS.map((G, g) => el("button", { type: "button", class: "chip", "aria-pressed": String(!hidden.has(g)),
+      onclick: () => { hidden.has(g) ? hidden.delete(g) : hidden.add(g); if (selected >= 0 && hidden.has(group[selected])) select(-1); setStates(); renderKey(); schedule(); } },
+      dotFor(g), G.name)));
+  }
+  if (innerWidth >= 760) $("key").open = true;
+
+  /* ---------- Web and wheel, zoom buttons, about ---------- */
+  function setLayout(l) {
+    layout = l; morphTo = l === "web" ? 1 : 0;
+    for (const b of document.querySelectorAll("[data-layout]")) b.setAttribute("aria-pressed", String(b.dataset.layout === l));
+    buildGrid();
+    if (selected >= 0) flyTo(selected); else fit(true);
+    schedule();
+  }
+  for (const b of document.querySelectorAll("[data-layout]")) b.onclick = () => setLayout(b.dataset.layout);
+  $("zoom-in").onclick = () => oz.transition().duration(250).call(zoom.scaleBy, 1.6);
+  $("zoom-out").onclick = () => oz.transition().duration(250).call(zoom.scaleBy, 1 / 1.6);
+  $("zoom-fit").onclick = () => fit(true);
+  $("open-about").onclick = () => { $("about").hidden = !$("about").hidden; };
+  $("about").querySelector("[data-close]").onclick = () => { $("about").hidden = true; };
+  addEventListener("keydown", e => {
+    if (revealing) { skip(); return; }
+    if (e.target === q) return;
+    if (e.key === "Escape") { if (!$("about").hidden) $("about").hidden = true; else select(-1); }
+    else if (e.key === "/") { e.preventDefault(); q.focus(); }
+    else if (e.key === "+" || e.key === "=") oz.transition().duration(200).call(zoom.scaleBy, 1.5);
+    else if (e.key === "-") oz.transition().duration(200).call(zoom.scaleBy, 1 / 1.5);
+  });
+  const themeQuery = matchMedia("(prefers-color-scheme: dark)");
+  themeQuery.addEventListener("change", () => {
+    readTheme();
+    if (!PN) return;
+    gl.bindBuffer(gl.ARRAY_BUFFER, buf.nColor); gl.bufferData(gl.ARRAY_BUFFER, nodeColors(), gl.STATIC_DRAW);
+    gl.bindBuffer(gl.ARRAY_BUFFER, buf.lColor); gl.bufferData(gl.ARRAY_BUFFER, linkColors(), gl.STATIC_DRAW);
+    renderKey(); if (selected >= 0) renderCard(selected); schedule();
+  });
+
+  /* ---------- The opening ---------- */
+  let pending = null;
+  // A tap or a key brings the unfolding on at once, if it hasn't begun.
+  function skip() { if (revealing && clock < 3.0) { began = performance.now() - 3000; schedule(); } }
+  function finishReveal() {
+    revealing = false; morph = morphTo;
+    $("title").classList.add("gone");
+    setTimeout(() => { $("title").hidden = true; }, 1000);
+    stage.classList.add("ready");
+    oz.call(zoom);
+    oz.on("dblclick.zoom", null);
+    buildGrid();
+    oz.call(zoom.transform, fitTransform(X, Y, W < 760 ? 14 : 40));
+    if (pending != null) { select(pending, { fly: true }); pending = null; }
+    loadBriefs();
+  }
+  function fromHash() {
+    const h = decodeURIComponent(location.hash.slice(1));
+    if (!h) return null;
+    let m;
+    if ((m = /^p(\d+)$/.exec(h)) && D.byGen.has(+m[1])) return D.byGen.get(+m[1]);
+    if ((m = /^n(\d+)$/.exec(h)) && +m[1] < N) return +m[1];
+    if ((m = /^(.+)-(\d+)(?:-\d+)?$/.exec(h))) {
+      const b = D.books.findIndex(([name]) => name.toLowerCase().replace(/ /g, "-") === m[1]);
+      if (b >= 0 && +m[2] >= 1 && +m[2] <= D.books[b][3]) return bookStartOf[b] + +m[2] - 1;
+    }
+    return null;
+  }
+  addEventListener("hashchange", () => { const i = fromHash(); if (i != null && i !== selected && !revealing) select(i, { fly: true }); });
+
+  fetch("data/graph.json").then(r => r.json()).then(data => {
+    unpack(data);
+    let k = 0;
+    D.books.forEach(([, , , n], b) => { bookStartOf[b] = k; bookStart[b] = k; k += n; });
+    geo = makeWheel();
+    timings(geo);
+    byImportance = Array.from({ length: N }, (_, i) => i).sort((a, b) => deg[b] - deg[a]);
+    bookCenters = D.books.map(([, , , n], b) => {
+      let sx = 0, sy = 0;
+      for (let c = 0; c < n; c++) { sx += X[bookStartOf[b] + c]; sy += Y[bookStartOf[b] + c]; }
+      return [b, sx / n, sy / n, n];
+    });
+    $("count").textContent = `${fmt.format(NC)} chapters · ${fmt.format(D.kinds[1])} people · ${fmt.format(D.kinds[2])} places · ${fmt.format(D.kinds[3])} events · ${fmt.format(linkA.length)} threads`;
+    buildSearch();
+    renderKey();
+    resize();
+    upload();
+    performance.mark("web-ready");
+    pending = fromHash();
+    // The opening plays from the wheel: frame it, then let the web unfold into its own frame.
+    const wheelT = fitTransform(WX, WY, W < 760 ? 46 : 96), webT = fitTransform(X, Y, W < 760 ? 14 : 40);
+    fitK = Math.min(webT.k, wheelT.k);
+    zoom.scaleExtent([fitK * 0.5, fitK * 60]);
+    T = wheelT;
+    oz.property("__zoom", T);
+    began = performance.now();
+    if (reduced) { began -= 6000; }
+    const morphView = () => {
+      if (!revealing) return;
+      // Ease the view from the wheel's frame to the web's as the web unfolds.
+      const m = morph * morph * (3 - 2 * morph);
+      T = d3.zoomIdentity.translate(wheelT.x + (webT.x - wheelT.x) * m, wheelT.y + (webT.y - wheelT.y) * m).scale(wheelT.k + (webT.k - wheelT.k) * m);
+      oz.property("__zoom", T);
+      requestAnimationFrame(morphView);
+    };
+    requestAnimationFrame(morphView);
+    schedule();
+  }).catch(err => { $("fallback").textContent = "The web couldn't be loaded. Check your connection and try again."; $("fallback").hidden = false; console.error(err); });
+
+  new ResizeObserver(() => { if (N) { resize(); if (!revealing && selected < 0) fit(false); } }).observe(stage);
+  glc.addEventListener("webglcontextlost", e => { e.preventDefault(); PN = null; });
+  glc.addEventListener("webglcontextrestored", () => { upload(); setStates(); schedule(); });
+})();
+</script>
+
+</body>
+</html>

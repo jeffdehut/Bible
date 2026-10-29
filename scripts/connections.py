@@ -41,6 +41,7 @@ from notes import (BOOK, ORDER, chapter_path, frontmatter, link, ref_label, safe
                    section_of, slug, write)
 import chronology
 import genealogy
+import graph
 import webpages
 import timeline
 
@@ -626,6 +627,8 @@ def main():
     charts = timeline.write_chart_note(ctx)
     world_notes = timeline.write_world(ctx)
     site_summary = webpages.build(ctx, family_of, groups)
+    people_index = {i: k for k, i in enumerate(i for i, e in enumerate(entities) if e["kind"] == "person")}
+    graph_summary = graph.build(ctx, xrefs, together, people_index)
 
     people = sum(e["kind"] == "person" and e["named"] for e in entities)
     pairs = sum(len(t) for t in together.values()) // 2
@@ -645,6 +648,7 @@ def main():
           f"{ent_unresolved} references unresolved")
     print(f"Wrote {len(all_chapters)} chapter notes, {len(BOOKS)} book notes, {len(entities)} people/place notes")
     print(site_summary)
+    print(graph_summary)
     broken = check_links()
     print(f"Links: {broken} broken")
     stats = {

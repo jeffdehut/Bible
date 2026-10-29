@@ -39,10 +39,12 @@ data/                            Curated rulers, eras, world events and synchron
                                  places.json, the places each verse names (scripts/maps.py); and
                                  people.json, the people each verse names (scripts/connections.py)
   genealogy.json, history.json   The data inlined in genealogy.html and history.html
+  graph.json, graph-briefs.json  The web of connections for graph.html: nodes, links, layout; descriptions
 index.html                       The website's home page, the reader: the translation, with the Hebrew,
                                  Aramaic and Greek beneath
 genealogy.html                   The Generations: the whole family of Adam on one chart, and anyone's family
 history.html                     Streams of Time: world history, AD 30 to today, beside the Bible
+graph.html                       The Web of Scripture: every chapter, person, place and event, and the threads between them
 privacy.html                     What the site keeps about its readers
 config.js, account.js            Site settings, and the optional accounts that sync highlights and notes
 supabase/schema.sql              The accounts' database table and rules (see DEPLOY.md, "Accounts")
@@ -72,6 +74,7 @@ scripts/
   webpages.py                    Builds genealogy.html and history.html (run by connections.py),
                                  and the bar and page head the other pages share
   familytree.py                  Lays out the whole family of Adam for the genealogy viewer
+  graph.py                       Builds the web of connections and lays it out (run by connections.py)
   maps.py                        Builds the maps in maps/ from elevation and place data
   reader.py                      Builds the reader's data in data/bible/
   templates/                     The page sources the scripts fill with data
@@ -186,6 +189,21 @@ to the reader; *Close family* shows their ancestors and descendants as an hourgl
 for the two thousand people outside Adam's family too. In the reader, a verse lists the people
 it names under *People*, each opening in the genealogy. The names come from STEPBible's TIPNR,
 which marks them in the Hebrew, Aramaic and Greek.
+
+`graph.html` (*The Web of Scripture*) draws the connections in `connections/` as one web, in
+the manner of Obsidian's graph view: the 1,189 chapters, colored by section; the 3,003 people
+and 1,004 places the Bible names; Theographic's 450 events; and 32,043 threads between them
+(each chapter's ten strongest cross-references, each chapter to the people and places it
+names, people named together, parents and children, events). It opens on a wheel: the chapters
+light up round a circle in order, Genesis to Revelation, the cross-references draw in across
+it, and the whole unfolds into the web, where books that quote each other gather and people
+cluster round their chapters. `scripts/graph.py` lays the web out when the site is built (the
+force model of d3-force, the engine of Obsidian's graph, with the push between all nodes worked
+out on a mesh), and the page draws it with WebGL, so it pans and pinch-zooms smoothly on a
+phone. Search finds any chapter ("gen 12"), person, place or event; choosing one lights its
+threads and opens a card that leads on to the reader, the genealogy and the maps; the colors
+in the key show or hide each kind; and *Wheel* sets everything back round the circle. Every
+chapter in the reader links to its place in the web, and so does every person in the genealogy.
 
 `maps/index.html` is the set of Bible maps: eight sheets after the Eilers Sunday School wall
 maps, redrawn from open data (see the map style in [ROADMAP.md](ROADMAP.md)). In the order of
