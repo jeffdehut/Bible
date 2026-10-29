@@ -762,11 +762,16 @@ def verse_name(place, ours, first=None, books=None):
     if not re.search(rf"\b{re.escape(name)}\b", text):
         name = next((n for n in sorted(place["spellings"], key=lambda n: -place["spellings"][n])
                      if re.search(rf"\b{re.escape(n)}\b", text)), name)
-    # A people's name where the place has its own ("the Lycaonian cities"): use the place's.
-    if re.search(r"(ians?|eans?|ites?)$", name):
-        plain = [n for n in place["spellings"] if n[:5] == name[:5] and not re.search(r"(ians?|eans?|ites?)$", n)]
+    # A people's name where the place has its own ("the Lycaonian cities", "the region of the
+    # Gerasenes"): use the place's, from the text if it has one, else OpenBible's (Gerasa).
+    people = r"(ians?|eans?|ites?|enes?)$"
+    if re.search(people, name):
+        plain = [n for n in place["spellings"] if n[:5] == name[:5] and not re.search(people, n)]
+        own = re.sub(r" \d+$", "", place["name"])
         if plain:
             name = max(plain, key=lambda n: place["spellings"][n])
+        elif own[:5] == name[:5] and not re.search(people, own):
+            name = own
     return name
 
 
@@ -971,7 +976,13 @@ def place_records(sheet, all_places, books, ours, terr=None, names=None, capital
             rec["cap"] = capitals[p["name"]]
         out.append(rec)
     out.sort(key=lambda r: (-("cap" in r), -r["c"], -r["v"]))
-    return out
+    # One name for one town: OpenBible sometimes has two sites a few km apart for a town (the
+    # Jericho of Joshua and the Jericho of the Gospels); keep the better known.
+    kept = []
+    for r in out:
+        if not any(k["n"] == r["n"] and math.hypot(k["x"] - r["x"], k["y"] - r["y"]) < 5 for k in kept):
+            kept.append(r)
+    return kept
 
 
 def cost_grid(sheet, wet, step=4, slope_weight=25.0):
@@ -1964,6 +1975,231 @@ def roman_map():
     return data, page
 
 
+# --- Map No. 1: Palestine in the time of Christ ------------------------------------------------
+
+GOSPELS = ["Matt", "Mark", "Luke", "John"]
+# The lands about AD 28 (Luke 3:1), each grown from its towns: tint by ruler, so the regions one
+# man ruled share a tint and are parted by dashed lines. Ruler, tint, towns, other points, reach.
+HERODIAN = {
+    "Galilee": ("Herod Antipas", ["Nazareth", "Cana", "Capernaum", "Nain", "Tiberias", "Magdala", "Chorazin"],
+                [(35.28, 32.75), (35.45, 33.0), (35.27, 32.83), (35.50, 32.82), (35.20, 32.90), (35.35, 33.05)], 22),
+    "Perea": ("Herod Antipas", [], [(35.62, 31.56), (35.66, 32.18), (35.63, 31.83), (35.75, 32.06), (35.70, 31.95),
+                                    (35.66, 32.35), (35.70, 31.70)], 16),
+    "Samaria": ("Roman Judea", ["Sychar", "Samaria 1"], [(35.30, 32.46), (35.10, 32.30), (35.25, 32.10), (35.40, 32.25)], 20),
+    "Judea": ("Roman Judea", ["Jerusalem", "Bethlehem 1", "Bethany 1", "Emmaus", "Jericho 2", "Ephraim 2", "Arimathea",
+                              "Joppa", "Lod", "Caesarea"], [(34.90, 31.75), (35.05, 31.90), (34.65, 31.75)], 22),
+    "Idumea": ("Roman Judea", ["Hebron"], [(34.90, 31.60), (35.03, 31.50), (35.00, 31.25), (34.80, 31.24)], 24),
+    "Decapolis": ("Decapolis", ["Gadara", "Gerasa"], [(35.66, 32.78), (35.62, 32.45), (35.50, 32.50), (35.87, 32.68),
+                                                       (35.93, 31.95), (35.93, 32.65), (36.05, 32.75)], 18),
+    "Gaulanitis": ("Philip", ["Caesarea Philippi", "Bethsaida 2"], [(35.74, 32.90), (35.80, 33.05), (35.90, 32.90)], 18),
+    "Trachonitis": ("Philip", [], [(36.45, 32.97), (36.20, 32.80), (36.35, 32.65)], 20),
+    "Ituraea": ("Philip", [], [(35.85, 33.40), (35.95, 33.25)], 16),
+    "Abilene": ("Lysanias", [], [(36.10, 33.63), (36.00, 33.55)], 14),
+    "Phoenicia": ("Syria", ["Tyre", "Sidon", "Zarephath", "Ptolemais"], [(35.20, 33.10), (35.30, 33.40)], 18),
+    "Syria": ("Syria", ["Damascus"], [(36.20, 33.30), (36.40, 33.15)], 22),
+    "Arabia": ("Aretas", [], [(35.70, 31.18), (35.85, 31.05), (36.10, 31.40), (35.78, 31.45)], 30),
+}
+RULER_TINTS = {"Herod Antipas": "yellow", "Roman Judea": "salmon", "Philip": "lime", "Decapolis": "olive",
+               "Syria": "blush", "Lysanias": "sage", "Aretas": "sage"}
+KURSI = {"at": (35.650, 32.826), "site": "Kursi, on the east shore (traditional)", "sure": 0}
+JORDAN_SITE = ("John 1:28 puts John's baptizing at Bethany on the other side of the Jordan; it is shown at the "
+               "traditional site, opposite Jericho.")
+# The places each Gospel names, in the order it names them, each named in the verse given.
+GOSPEL_JOURNEYS = [
+    {"name": "The Gospel of Matthew", "short": "Matthew", "ref": "Matthew", "color": "blue", "unit": "Place",
+     "note": "The places Matthew names, in his order: from Bethlehem and the flight to Egypt, through Galilee, to "
+             "Jerusalem. The Gospels don't map every journey; the line joins the places along the easiest ground.",
+     "stops": [
+         ("Bethlehem 1", "Bethlehem", "Matthew 2:1", None, {"what": "Jesus is born; the magi come"}),
+         ("Egypt", "Egypt", "Matthew 2:14", "land", {"why": "Not plotted: Egypt lies beyond this map."}),
+         ("Nazareth", "Nazareth", "Matthew 2:23", "land"),
+         ("Bethany 2", "The Jordan", "Matthew 3:13", "land", {"word": "Jordan", "what": "Jesus is baptized by John",
+                                                               "note": JORDAN_SITE}),
+         ("Capernaum", "Capernaum", "Matthew 4:13", "land", {"what": "Jesus makes his home here"}),
+         (None, "Region of the Gadarenes", "Matthew 8:28", "sea", KURSI | {"word": "Gadarenes", "what": "Two men freed from demons",
+                                                                           "note": "Named for Gadara, a town of the Decapolis."}),
+         ("Gennesaret", "Gennesaret", "Matthew 14:34", "sea"),
+         ("Tyre", "Tyre", "Matthew 15:21", "land", {"what": "A Canaanite woman's daughter healed"}),
+         ("Magadan", "Magadan", "Matthew 15:39", "land"),
+         ("Caesarea Philippi", "Caesarea Philippi", "Matthew 16:13", "land", {"what": "Peter: \"You are the Messiah\""}),
+         ("Capernaum", "Capernaum", "Matthew 17:24", "land"),
+         ("Jericho 2", "Jericho", "Matthew 20:29", "land", {"via": [(35.62, 32.30), (35.58, 31.95)], "guess": True,
+                                                            "note": "From Galilee \"into the region of Judea across the "
+                                                                    "Jordan\" (Matthew 19:1)."}),
+         ("Bethphage", "Bethphage", "Matthew 21:1", "land"),
+         ("Jerusalem", "Jerusalem", "Matthew 21:10", "land", {"what": "The temple; the cross and the empty tomb (Matthew 21–28)"}),
+         ("Bethany 1", "Bethany", "Matthew 21:17", "land"),
+         ("Galilee 1", "Galilee", "Matthew 28:16", "land", {"why": "Not plotted: Matthew names only Galilee, and a mountain there."}),
+     ]},
+    {"name": "The Gospel of Mark", "short": "Mark", "ref": "Mark", "color": "red", "unit": "Place",
+     "note": "The places Mark names, in his order: from the Jordan to Galilee and the lands around it, then to "
+             "Jerusalem. The line joins the places along the easiest ground, and by boat on the lake.",
+     "stops": [
+         ("Nazareth", "Nazareth", "Mark 1:9", None),
+         ("Bethany 2", "The Jordan", "Mark 1:9", "land", {"word": "Jordan", "what": "Jesus is baptized by John", "note": JORDAN_SITE}),
+         ("Capernaum", "Capernaum", "Mark 1:21", "land", {"what": "Teaching in the synagogue; healings"}),
+         (None, "Region of the Gerasenes", "Mark 5:1", "sea", KURSI | {"word": "Gerasenes", "what": "A man freed from a legion of demons",
+                                                                       "note": "Named for Gerasa, a city of the Decapolis."}),
+         ("Bethsaida 2", "Bethsaida", "Mark 6:45", "sea"),
+         ("Gennesaret", "Gennesaret", "Mark 6:53", "sea"),
+         ("Tyre", "Tyre", "Mark 7:24", "land", {"what": "A Syrophoenician woman's daughter healed"}),
+         ("Sidon", "Sidon", "Mark 7:31", "land"),
+         ("Decapolis", "Decapolis", "Mark 7:31", "land", {"why": "Not plotted: Mark names only the region, east of the lake."}),
+         ("Dalmanutha", "Dalmanutha", "Mark 8:10", "land", {"via": [(35.72, 32.92)], "guess": True}),
+         ("Bethsaida 2", "Bethsaida", "Mark 8:22", "sea", {"what": "A blind man healed"}),
+         ("Caesarea Philippi", "Caesarea Philippi", "Mark 8:27", "land", {"what": "Peter: \"You are the Messiah\""}),
+         ("Capernaum", "Capernaum", "Mark 9:33", "land"),
+         ("Jericho 2", "Jericho", "Mark 10:46", "land", {"via": [(35.62, 32.30), (35.58, 31.95)], "guess": True,
+                                                         "what": "Bartimaeus receives his sight",
+                                                         "note": "From Galilee \"into the region of Judea and across the "
+                                                                 "Jordan\" (Mark 10:1)."}),
+         ("Bethany 1", "Bethany", "Mark 11:1", "land"),
+         ("Jerusalem", "Jerusalem", "Mark 11:11", "land", {"what": "The temple; the cross and the empty tomb (Mark 11–16)"}),
+     ]},
+    {"name": "The Gospel of Luke", "short": "Luke", "ref": "Luke", "color": "green", "unit": "Place",
+     "note": "The places Luke names, in his order: Nazareth, Bethlehem and the temple, the ministry in Galilee, "
+             "and the long road to Jerusalem.",
+     "stops": [
+         ("Nazareth", "Nazareth", "Luke 1:26", None, {"what": "Gabriel comes to Mary"}),
+         ("Bethlehem 1", "Bethlehem", "Luke 2:4", "land", {"what": "Jesus is born"}),
+         ("Jerusalem", "Jerusalem", "Luke 2:22", "land", {"what": "Presented in the temple"}),
+         ("Nazareth", "Nazareth", "Luke 2:39", "land"),
+         ("Jerusalem", "Jerusalem", "Luke 2:41", "land", {"what": "At twelve, in the temple"}),
+         ("Nazareth", "Nazareth", "Luke 2:51", "land"),
+         ("Bethany 2", "The Jordan", "Luke 4:1", "land", {"word": "Jordan", "what": "Baptized; then the wilderness", "note": JORDAN_SITE}),
+         ("Nazareth", "Nazareth", "Luke 4:16", "land", {"what": "Rejected in the synagogue"}),
+         ("Capernaum", "Capernaum", "Luke 4:31", "land"),
+         ("Gennesaret", "Lake of Gennesaret", "Luke 5:1", "land", {"word": "Gennesaret", "what": "The catch of fish; Peter called"}),
+         ("Nain", "Nain", "Luke 7:11", "land", {"what": "A widow's son raised"}),
+         (None, "Region of the Gerasenes", "Luke 8:26", "sea", KURSI | {"word": "Gerasenes", "via": [{"p": "Capernaum", "how": "land"}],
+                                                                        "what": "A man freed from a legion of demons"}),
+         ("Bethsaida 2", "Bethsaida", "Luke 9:10", "sea", {"what": "Feeding of the five thousand"}),
+         ("Samaria 2", "A Samaritan village", "Luke 9:52", "land", {"word": "Samaritan", "why": "Not plotted: Luke doesn't name the village."}),
+         ("Jericho 2", "Jericho", "Luke 19:1", "land", {"what": "Zacchaeus"}),
+         ("Bethany 1", "Bethany", "Luke 19:29", "land"),
+         ("Jerusalem", "Jerusalem", "Luke 19:28", "land", {"what": "The temple; the cross and the empty tomb (Luke 19–24)"}),
+         ("Emmaus", "Emmaus", "Luke 24:13", "land", {"what": "The risen Jesus walks with two disciples"}),
+         ("Jerusalem", "Jerusalem", "Luke 24:33", "land"),
+         ("Bethany 1", "Bethany", "Luke 24:50", "land", {"what": "Jesus is taken up into heaven"}),
+     ]},
+    {"name": "The Gospel of John", "short": "John", "ref": "John", "color": "violet", "unit": "Place",
+     "note": "The places John names, in his order. John follows Jesus to Jerusalem for the festivals again and again.",
+     "stops": [
+         ("Bethany 2", "Bethany beyond the Jordan", "John 1:28", None, {"word": "Bethany", "what": "John baptizes; the first disciples"}),
+         ("Cana", "Cana", "John 2:1", "land", {"what": "Water made wine"}),
+         ("Capernaum", "Capernaum", "John 2:12", "land"),
+         ("Jerusalem", "Jerusalem", "John 2:13", "land", {"what": "The temple cleared; Nicodemus"}),
+         ("Sychar", "Sychar", "John 4:5", "land", {"what": "The woman at the well"}),
+         ("Cana", "Cana", "John 4:46", "land", {"what": "An official's son healed"}),
+         ("Jerusalem", "Jerusalem", "John 5:1", "land", {"what": "A man healed at the pool of Bethesda"}),
+         ("Capernaum", "Capernaum", "John 6:24", "land", {"what": "The bread of life"}),
+         ("Jerusalem", "Jerusalem", "John 10:22", "land", {"what": "The Festivals of Booths and Dedication (John 7–10)"}),
+         ("Bethany 2", "Across the Jordan", "John 10:40", "land", {"word": "Jordan"}),
+         ("Bethany 1", "Bethany", "John 11:18", "land", {"what": "Lazarus raised"}),
+         ("Ephraim 2", "Ephraim", "John 11:54", "land"),
+         ("Bethany 1", "Bethany", "John 12:1", "land", {"what": "Mary anoints Jesus"}),
+         ("Jerusalem", "Jerusalem", "John 12:12", "land", {"what": "The entry, the cross and the empty tomb (John 12–20)"}),
+         (None, "Sea of Tiberias", "John 21:1", "land", {"word": "Tiberias", "at": (35.549, 32.873), "site": "Tabgha (traditional)",
+                                                         "sure": 0, "what": "The risen Jesus by the lake; Peter restored"}),
+     ]},
+]
+
+
+def palestine_map():
+    """Map No. 1, as a dict ready for JSON, and the words for its page."""
+    sheet = Sheet(*SHEET7, res=0.13)
+    sheet.elev = elevation(sheet, 10)
+    w = water(sheet, sheet.elev)
+    lakes = w["Sea of Galilee"] | w["Dead Sea"] | w["Lake Huleh"]
+    wet = w["sea"] | lakes
+    flow = drainage(sheet, sheet.elev, w["sea"] | w["Dead Sea"], 2)
+    all_places = places()
+    by_name = {p["name"]: p for p in all_places}
+    ours = our_spellings()
+    seeds1 = []
+    for n, (_, towns, extra, _) in HERODIAN.items():
+        seeds1 += [(t, n, by_name[t]["lon"], by_name[t]["lat"]) for t in towns]
+        seeds1 += [(n, n, lon, lat) for lon, lat in extra]
+    names = list(HERODIAN)
+    terr, names = territories(sheet, sheet.elev, wet, flow + (2,), seeds1, names=names,
+                              cap_km={n: v[3] for n, v in HERODIAN.items()})
+    groups = {n: v[0] for n, v in HERODIAN.items()}
+    for n in ("Decapolis", "Abilene", "Arabia"):     # regions that stand alone are named as nations
+        groups[n] = n
+    tints = dict(RULER_TINTS, Abilene="sage", Arabia="sage")
+
+    layers, river_km = terrain_layers(sheet, ~w["sea"], lakes, flow, wet, 150, 0.9)
+    fills, labels, layers["borders"] = territory_layers(sheet, terr, names, groups, tints)
+    for lb in labels:
+        lb["style"] = "nation"
+    labels += [{"text": "MEDITERRANEAN SEA", "style": "sea", "pts": line_km(sheet, [(34.30, 32.60), (34.70, 33.25)], 2)},
+               {"text": "DEAD SEA", "style": "sea", "pts": line_km(sheet, [(35.47, 31.69), (35.44, 31.40)], 2)}]
+
+    pl = place_records(sheet, all_places, NT_BOOKS, ours, terr, names)
+    water_grid = sea_grid(sheet, w["sea"] | w["Sea of Galilee"])
+    journeys = build_journeys(sheet, GOSPEL_JOURNEYS, by_name, cost_grid(sheet, wet), water_grid, pl)
+
+    feats = {"mountains": mountains(sheet, by_name, ours, ["Mount Hermon", "Mount Tabor", "Mount Gerizim", "Mount of Olives"]),
+             "rivers": [], "waters": [], "regions": []}
+    line = follow(river_km, 35.57, 32.35, sheet, 70)
+    if line:
+        feats["rivers"].append({"n": "River Jordan", "pts": line, "main": True})
+    x, y = sheet.xy(35.585, 32.80)
+    feats["waters"].append({"n": "SEA OF GALILEE", "x": round(x, 2), "y": round(y, 2), "lake": 1})
+
+    key_rows = [["camp", "Place on a journey"], ["camp-unsure", "Place uncertain (?)"]]
+    key_rows += [["journey", J["name"].replace("The Gospel of ", "As told by "), J["color"]] for J in journeys]
+    key_rows += [["conjectural", "Way uncertain"], ["gap", ""], ["dot", "Town"], ["unsure", "Site uncertain (?)"],
+                 ["mount", "Mountain"], ["river", "River"], ["nation", "Border of a realm"],
+                 ["tribe", "Border of a region"], ["gap", ""],
+                 ["swatch", "Herod Antipas", "yellow"], ["swatch", "Roman Judea (Pilate)", "salmon"],
+                 ["swatch", "Philip", "lime"], ["swatch", "The Decapolis", "olive"], ["swatch", "Province of Syria", "blush"],
+                 ["swatch", "Lysanias; Aretas of Arabia", "sage"]]
+    data = {
+        "sheet": sheet_info(sheet), "grid": 10 / 60, "focus": 0.56, "file": "map-01-palestine-in-the-time-of-christ",
+        "page": {"w": 7.8, "h": 10.3}, "layers": layers, "territories": fills, "labels": labels,
+        "places": pl, "features": feats, "territoryLabel": "Region", "journeys": journeys,
+        "routeButton": "Gospels", "routesTitle": "The journeys of Jesus",
+        "routesNote": "Choose a Gospel to follow the places it names, in its order. Each place is named in the verse given.",
+        "routeLayer": "The places each Gospel names, in order",
+        "title": furniture_height({"box": {"x": 5, "y": 5, "w": 66}, "scale": 1, "lines": [
+            ["series", "MAP No. 1 · A STYLE STUDY", 7.5], ["display-fit", "PALESTINE", 19],
+            ["sub", "IN THE TIME OF CHRIST", 26.5],
+            ["italic", "The places of the land named in the New", 32.5],
+            ["italic", "Testament whose location is known, and the", 36.4],
+            ["italic", "journeys of Jesus as each Gospel tells them", 40.3], ["rule", "", 44],
+            ["plain", "About 5 BC to AD 30 by modern reckoning", 49.5],
+            ["plain", "The realms as in Luke 3:1, about AD 28", 53.5], ["rule", "", 57],
+            ["credit", "After the Eilers Sunday School Maps, St. Louis.", 61.5],
+            ["credit", "Drawn from open data · CC BY 4.0", 65.5]]}),
+        "key": {"box": {"x": 5, "y": 92, "w": 47}, "scale": 0.95, "rows": key_rows},
+    }
+    page = {
+        "slug": "palestine", "NO": "1", "H1": "Palestine in the Time of Christ", "TITLE": "Time of Christ Map",
+        "DESCRIPTION": "Map No. 1, a style study after the Eilers Sunday School wall maps: the land of the Gospels, "
+                       "its rulers about AD 28, and the places each Gospel names, drawn from open data.",
+        "PAGE": "letter portrait", "PAGE_W": "7.8", "PAGE_H": "10.3",
+        "GRID_LABEL": "Ten-minute squares, as used by the index",
+        "GRID_NOTE": "Grid squares are ten minutes of latitude and longitude: letters across the top, numbers down the side.",
+        "ABOUT": about_html(
+            "A <strong>style study</strong> for the project's Bible maps, after <strong>Eilers Sunday School Map No. "
+            "1</strong>, <em>Palestine</em> in the time of Christ (A. H. Eilers &amp; Co., St. Louis), redrawn from "
+            "open data.",
+            ["Flat tints for each realm, with the seas left as paper", KEPT[1], KEPT[3], KEPT[4]], CHANGED + [
+                "Choose a Gospel to follow the places it names, in its order"],
+            ["<strong>Land, water and relief</strong> come from elevation data. Lake Huleh and the Dead Sea are drawn "
+             "at their old shorelines.",
+             "<strong>The journeys</strong> join the places each Gospel names, in the order it names them, along the "
+             "easiest ground and by boat on the lake. The Gospels don't map every journey, so the lines show the "
+             "order of places, not the roads taken. Every place is named in the verse given, and the build checks "
+             "each name against this project's translation.",
+             "<strong>The realms are approximate</strong>, grown from their towns: Herod Antipas, Philip and "
+             "Lysanias as tetrarchs, Judea, Samaria and Idumea under the Roman governor, and the free cities of the "
+             "Decapolis.", PLACES_MADE.format(books="the New Testament"), NAMES_MADE], SOURCES),
+    }
+    return data, page
+
+
 def write_map(data, page):
     sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
     import webpages
@@ -1980,7 +2216,7 @@ def write_map(data, page):
         f.write(webpages.STANDALONE.format(page=body))
 
 
-MAPS = {"kingdoms": kingdoms_map, "exodus": exodus_map, "roman-empire": roman_map}
+MAPS = {"palestine": palestine_map, "roman-empire": roman_map, "exodus": exodus_map, "kingdoms": kingdoms_map}
 
 
 def main():
