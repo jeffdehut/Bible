@@ -271,7 +271,7 @@
     } else {
       const code = el("input", { type: "text", id: "account-code", autocomplete: "one-time-code", inputmode: "numeric", pattern: "[0-9]*", maxlength: 10, placeholder: "123456", required: true });
       kids.push(
-        el("p", {}, "We sent a code to ", el("strong", { text: step.email }), ". Enter it here, or open the link in the email on this device."),
+        el("p", {}, "We sent an email to ", el("strong", { text: step.email }), ". Open its link on this device, or enter its code here."),
         el("form", { class: "account-form", onsubmit: async ev => {
           ev.preventDefault();
           step.busy = true; problem = ""; render();

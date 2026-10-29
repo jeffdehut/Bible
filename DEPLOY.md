@@ -122,9 +122,12 @@ cost of a live one.
    run it. It creates one table, `annotations`, with rules that let each person read and write
    only their own rows, and two functions: `push_annotations`, which keeps whichever version of
    a verse's highlight and note is newer, and `delete_account`.
-3. **Sign-in emails.** Under **Authentication → Sign In / Providers**, leave **Email** on. Under
-   **Authentication → Emails**, edit both the **Confirm signup** and **Magic Link** templates so
-   they include the code, for example:
+3. **Sign-in emails.** Under **Authentication → Sign In / Providers**, leave **Email** on.
+   Supabase's own emails carry only a link, which signs the reader in on the device where it is
+   opened; that works once step 4 is done. To add a code, which suits the installed app better,
+   edit both the **Confirm signup** and **Magic Link** templates under **Authentication →
+   Emails**. A new free project can edit them only after a mail service is set up (below). For
+   example:
 
    ```html
    <h2>Your Plain English Bible sign-in code</h2>
@@ -132,9 +135,11 @@ cost of a live one.
    <p>Or open this link on the device you are signing in on: <a href="{{ .ConfirmationURL }}">sign in</a>.</p>
    ```
 
-   Supabase's own mail service sends only a few emails an hour and is meant for testing. Before
-   going live, set up a mail service under **Authentication → Emails → SMTP Settings** (Resend,
-   Postmark, Amazon SES and others work), sending from an address on your domain.
+   Supabase's own mail service sends only a few emails an hour, and only to the members of your
+   Supabase team, so it suits testing alone. Before anyone else can sign in, set up a mail service
+   under **Authentication → Emails → SMTP Settings**, sending from an address on a domain you own.
+   Resend's free plan (3,000 emails a month, 100 a day) is enough for a small site; Brevo,
+   Postmark and Amazon SES also work.
 4. **Addresses.** Under **Authentication → URL Configuration**, set the **Site URL** to the
    site's address (for example `https://your-site.netlify.app/`), and add the same address
    to **Redirect URLs**. Sign-in links bring readers back there. (A link that opens
