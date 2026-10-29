@@ -276,6 +276,13 @@ def _columns(data):
                                for k, v in data.items()) + "\n}\n"
 
 
+def write_static(name):
+    """A page with no data, such as privacy.html: its template with the site's bar and head."""
+    src = open(os.path.join(TEMPLATES, f"{name}.html"), encoding="utf-8").read()
+    with open(os.path.join(SITE, f"{name}.html"), "w", encoding="utf-8", newline="\n") as f:
+        f.write(document(src.replace("<!-- APPBAR -->", appbar(f"{name}.html"))))
+
+
 def build(ctx, family_of, groups):
     os.makedirs(os.path.join(SITE, "data", "bible"), exist_ok=True)
     pages = {"genealogy": genealogy_data(ctx, family_of, groups), "history": history_data(ctx)}
@@ -289,6 +296,7 @@ def build(ctx, family_of, groups):
         if os.path.exists(os.path.join(TEMPLATES, f"{name}.html")):
             with open(os.path.join(SITE, f"{name}.html"), "w", encoding="utf-8", newline="\n") as f:
                 f.write(document(page(name, data)))
+    write_static("privacy")
     links = people_links(ctx)
     with open(os.path.join(SITE, "data", "bible", "people.json"), "w", encoding="utf-8", newline="\n") as f:
         f.write(_columns(links))

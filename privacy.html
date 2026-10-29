@@ -1,0 +1,137 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<link rel="icon" href="icons/icon.svg" type="image/svg+xml">
+<link rel="apple-touch-icon" href="icons/icon-192.png">
+<meta name="theme-color" content="#fbfaf7" media="(prefers-color-scheme: light)">
+<meta name="theme-color" content="#0d111b" media="(prefers-color-scheme: dark)">
+<script>try { const t = (JSON.parse(localStorage.getItem("pe.settings")) || {}).theme; if (t === "light" || t === "dark") document.documentElement.setAttribute("data-theme", t); } catch (e) { /* storage unavailable */ }</script>
+</head>
+<body>
+<title>Privacy · Plain English Bible</title>
+<meta name="claude:viewport-fit-sides" content="cover">
+<meta name="description" content="What the Plain English Bible keeps about you: nothing, unless you sign in to sync your highlights and notes.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Frank+Ruhl+Libre:wght@300..700&family=Libre+Franklin:wght@400;500;600;700&display=swap">
+<style>
+/* Layout: one reading column, set like the reader's About text. */
+:root {
+  --bg: #fbfaf7; --surface: #ffffff; --ink: #161b26; --muted: #5b6475; --line: #e4e2db;
+  --lapis: #2646a1; --lapis-soft: #e7ecf8; --gold: #8a640b;
+  --read: "Frank Ruhl Libre", "Noto Serif", Georgia, serif;
+  --sans: "Libre Franklin", system-ui, -apple-system, "Segoe UI", sans-serif;
+}
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    --bg: #0d111b; --surface: #131a28; --ink: #e9ecf3; --muted: #a3acbd; --line: #263047;
+    --lapis: #9db3ff; --lapis-soft: #1c2650; --gold: #e2bd5c; color-scheme: dark;
+  }
+}
+:root[data-theme="dark"] {
+  --bg: #0d111b; --surface: #131a28; --ink: #e9ecf3; --muted: #a3acbd; --line: #263047;
+  --lapis: #9db3ff; --lapis-soft: #1c2650; --gold: #e2bd5c; color-scheme: dark;
+}
+* { box-sizing: border-box; }
+html { -webkit-text-size-adjust: 100%; }
+body {
+  margin: 0; background: var(--bg); color: var(--ink); font: 400 17px/1.6 var(--sans);
+  padding-left: max(16px, env(safe-area-inset-left, 0px)); padding-right: max(16px, env(safe-area-inset-right, 0px));
+}
+a { color: var(--lapis); }
+:focus-visible { outline: 2px solid var(--lapis); outline-offset: 2px; border-radius: 4px; }
+main { max-width: 680px; margin-inline: auto; padding-block: clamp(28px, 6vw, 56px) 72px; }
+h1 { margin: 0 0 6px; font: 300 clamp(40px, 8vw, 58px)/1 var(--read); letter-spacing: -0.02em; }
+.updated { margin: 0 0 28px; font: 500 14px/1.3 var(--sans); color: var(--muted); }
+.short { background: var(--lapis-soft); border-radius: 14px; padding: 16px 18px; margin: 0 0 28px; }
+.short p { margin: 0; }
+h2 { margin: 30px 0 8px; font: 500 24px/1.2 var(--read); }
+p, ul { margin: 0 0 12px; }
+ul { padding-left: 22px; }
+li { margin-bottom: 4px; }
+#contact:empty::before { content: "The site's operator adds a contact address here before accounts are turned on."; color: var(--muted); font-style: italic; }
+</style>
+
+<style>
+:root { --bar: 56px; }
+body::before { content: ""; position: fixed; inset: 0 0 auto; height: env(safe-area-inset-top, 0px); z-index: 11; background: var(--bg); }
+.appbar {
+  position: sticky; top: env(safe-area-inset-top, 0px); z-index: 10; height: var(--bar);
+  margin-inline: calc(-1 * max(16px, env(safe-area-inset-left, 0px))) calc(-1 * max(16px, env(safe-area-inset-right, 0px)));
+  padding-inline: max(8px, env(safe-area-inset-left, 0px)) max(8px, env(safe-area-inset-right, 0px));
+  display: flex; align-items: center; gap: 4px; background: color-mix(in srgb, var(--bg) 92%, transparent);
+  backdrop-filter: blur(10px); -webkit-backdrop-filter: blur(10px); border-bottom: 1px solid var(--line);
+}
+.appbar .brand {
+  display: inline-flex; align-items: center; gap: 10px; min-height: 40px; padding: 0 8px; border-radius: 10px;
+  color: var(--ink); text-decoration: none; white-space: nowrap; font: 500 17px/1 "Frank Ruhl Libre", "Noto Serif", Georgia, serif; letter-spacing: 0.01em;
+}
+.appbar .brand img { width: 26px; height: 26px; border-radius: 7px; flex: none; }
+.appnav { margin-inline-start: auto; display: flex; gap: 2px; }
+.appnav a {
+  display: inline-flex; align-items: center; min-height: 40px; padding: 0 12px; border-radius: 10px; white-space: nowrap;
+  font: 600 14px/1 "Libre Franklin", system-ui, -apple-system, "Segoe UI", sans-serif; color: var(--muted); text-decoration: none;
+}
+.appnav a:hover { background: var(--lapis-soft); color: var(--ink); }
+.appnav a[aria-current="page"] { background: var(--lapis-soft); color: var(--lapis); }
+.appbar a:focus-visible { outline: 2px solid var(--lapis); outline-offset: 0; }
+@media (max-width: 640px) { .appbar .brand span { display: none; } .appnav a { padding: 0 9px; } }
+@media (max-width: 359px) { .appbar .brand { display: none; } .appnav { margin-inline: auto; } }
+@media print { .appbar { display: none; } }
+</style>
+<header class="appbar">
+  <a class="brand" href="index.html"><img src="icons/icon.svg" alt="Plain English Bible"><span aria-hidden="true">Plain English Bible</span></a>
+  <nav class="appnav" aria-label="Plain English Bible"><a href="index.html">Read</a><a href="maps/index.html">Maps</a><a href="genealogy.html">Genealogy</a><a href="history.html">Timeline</a></nav>
+</header>
+
+<main>
+  <h1>Privacy</h1>
+  <p class="updated">Last changed 29 October 2026</p>
+
+  <div class="short">
+    <p><strong>In short:</strong> reading here needs no account and sends nothing about you anywhere. Your highlights, notes and settings stay in your browser. Only if you choose to sign in, to keep them on all your devices, does this site keep anything: your email address and your highlights and notes. You can delete them whenever you like.</p>
+  </div>
+
+  <h2>Without an account</h2>
+  <p>Everything you do is kept in your own browser, on your own device:</p>
+  <ul>
+    <li>your display settings (text size, light or dark, verse numbering);</li>
+    <li>your highlights and notes, and the chapter you were reading;</li>
+    <li>copies of the books you have opened, so they work offline.</li>
+  </ul>
+  <p>None of it is sent to us. Clearing this site's data in your browser removes it; make a backup first (under <em>My highlights and notes</em>) if you want to keep your notes.</p>
+
+  <h2>If you sign in</h2>
+  <p>Signing in is optional. It keeps your highlights and notes the same on every device where you sign in. The account holds:</p>
+  <ul>
+    <li><strong>your email address</strong>, to send you sign-in codes;</li>
+    <li><strong>your highlights and notes</strong>, each with the verse and the time it was changed.</li>
+  </ul>
+  <p>It does not hold what you read, what you search for, where you are, or anything else. We send you email only to sign you in: no newsletters, and we never sell or share your address or your notes.</p>
+  <p>Accounts are stored with <a href="https://supabase.com/privacy">Supabase</a>, which runs the database and sends the sign-in emails for us. The database lets each person read and change only their own notes. The people who run this site can see the database, as the operators of any such service can; they look at it only to keep the service working.</p>
+
+  <h2>Deleting your account</h2>
+  <p>In the reader, open the menu, choose <em>Sync across devices</em>, then <em>Delete my account</em>. Your account and every highlight and note in it are deleted at once and for good. What is saved on your device stays there. Signing out, instead, leaves your notes both on the device and in your account.</p>
+
+  <h2>What other services see</h2>
+  <p>There are no ads, no analytics and no tracking cookies. Like any website, the pages are delivered by a hosting service that keeps ordinary server logs, and they load fonts from Google Fonts and, on the maps, genealogy and timeline, a charting library from cdnjs. These services see your device's internet address when it fetches from them, as with any web request.</p>
+
+  <h2>Questions</h2>
+  <p>Write to <span id="contact"></span>.</p>
+</main>
+
+<script src="config.js"></script>
+<script>
+(() => {
+  const c = (window.SITE_CONFIG || {}).contact;
+  if (!c) return;
+  const a = document.createElement("a");
+  a.href = "mailto:" + c; a.textContent = c;
+  document.getElementById("contact").append(a);
+})();
+</script>
+
+</body>
+</html>

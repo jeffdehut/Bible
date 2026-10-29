@@ -293,14 +293,25 @@ knows the historical geography.
   reader. The reader lists the people a verse names, each opening in the genealogy.
 - **Still to come:** the places each person lived, linked to the maps.
 
-## 4. Accounts (later)
+## 4. Accounts (built; waiting on a Supabase project)
 
-- Optional sign-in. Reading and on-device annotations never require an account.
-- Signing in merges that device's highlights and notes into the account, then keeps devices in
-  sync.
-- Recommended service: Supabase, which is open source and can be self-hosted later. This is the
-  first part with running costs, personal data and security obligations, so it comes last and
-  gets its own privacy policy.
+- **Optional sign-in.** Reading and on-device annotations never require an account. With
+  `config.js` empty, as it is now, the reader shows no sign-in at all.
+- **Signing in** is by a code sent by email (or the link in the same email): no passwords to
+  keep or leak. It merges the device's highlights and notes into the account, verse by verse,
+  the newest change winning, then keeps devices in sync: each change is sent a few seconds after
+  it is made, and other devices pick it up when the reader opens or comes back into view. A
+  note removed on one device is removed on the others.
+- **Service:** Supabase, reached through its REST interface, so the reader loads no extra
+  library (`account.js`). The table and its rules are in `supabase/schema.sql`: each person
+  can read and write only their own rows, and a write keeps whichever version of a verse is
+  newer. Setup steps are in DEPLOY.md, *Accounts*.
+- **Privacy:** `privacy.html` says what is kept (an email address and the highlights and
+  notes) and how to delete it; **Delete my account** in the reader removes everything at once.
+- **Tested** against a stand-in for the Supabase service: two devices merging, a deletion
+  carried across, an expired sign-in renewed, a sign-in link, signing out and deleting.
+- **To do before turning it on:** a Supabase project, a mail service for the sign-in emails,
+  and a contact address for privacy questions (see *Open questions*).
 
 ## 5. Traditional Chinese translation (after the English is finished)
 
@@ -341,12 +352,14 @@ A new translation into Traditional Chinese (繁體中文), made like the English
    reader.
 3. Genealogy viewer (built).
 4. Phrase-level original language, alongside human review of the English.
-5. Accounts.
+5. Accounts (built; turned on once a Supabase project is set up).
 6. Traditional Chinese, once the English is finished.
 
 ## Open questions
 
 - Domain and hosting account (see *Decisions so far*).
+- Accounts: a Supabase project, a mail service to send sign-in codes from the site's domain,
+  and a contact address for privacy questions (DEPLOY.md, *Accounts*).
 - Review of the maps: the approximate lands and borders on every sheet, the camps on Map No. 5,
   and the journeys.
 - Reviewers for the English, and later the Chinese.

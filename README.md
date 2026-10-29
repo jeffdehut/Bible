@@ -43,6 +43,9 @@ index.html                       The website's home page, the reader: the transl
                                  Aramaic and Greek beneath
 genealogy.html                   The Generations: the whole family of Adam on one chart, and anyone's family
 history.html                     Streams of Time: world history, AD 30 to today, beside the Bible
+privacy.html                     What the site keeps about its readers
+config.js, account.js            Site settings, and the optional accounts that sync highlights and notes
+supabase/schema.sql              The accounts' database table and rules (see DEPLOY.md, "Accounts")
 maps/
   index.html                     The Bible maps: eight sheets, in the order of the Bible's history
   western-asia.html              Map No. 4, Western Asia: Abraham, Jacob and Joseph
@@ -157,7 +160,9 @@ to our Hebrew and Greek word by word (99.5% of words match; the rest show withou
 A verse that names a place on the maps lists it under *On the maps*; tapping it opens the
 sheet for that part of the Bible, zoomed to the place, with a link back to the verse.
 Readers can highlight verses and write notes, which stay on their device, with a backup they
-can copy or save. The reader searches the whole Bible on the device, follows the light or dark
+can copy or save. Once accounts are set up (DEPLOY.md, *Accounts*), readers may sign in with a
+code sent by email to keep them the same on every device; `account.js` does this through
+Supabase, and with `config.js` empty, as it is now, the reader shows no sign-in at all. The reader searches the whole Bible on the device, follows the light or dark
 setting, offers English Bible verse numbers for the Old Testament, and works offline once
 installed. `scripts/reader.py` rebuilds its data from the translation. Because it loads its
 data as separate files, it needs a web server: `python3 -m http.server` in the repository
