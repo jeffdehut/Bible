@@ -183,8 +183,8 @@ the Bible's history:
 - **Map No. 3, The Roman Empire:** the provinces about AD 50 and Paul's journeys.
 
 Every sheet zooms and pans on phones, adds names as you zoom in without letting them overlap,
-prints on a Letter page with an index of places and a table of each journey, and downloads as
-SVG. The land, water and relief come from elevation data, with rivers and lakes from Natural
+prints the whole sheet on one page (landscape or portrait, to suit the sheet), and downloads
+as SVG. The land, water and relief come from elevation data, with rivers and lakes from Natural
 Earth on the larger sheets; the places from OpenBible.info's Bible geocoding, with a "?" where
 the location is uncertain. Each journey is a list of stops in `scripts/maps.py`, each with the
 verse that names it, and the build checks every name against the translation's text. Lands

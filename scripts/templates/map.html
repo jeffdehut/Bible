@@ -242,29 +242,18 @@ button { font: inherit; color: inherit; }
 .periods { border: 0; margin: 0 0 6px; padding: 0; display: grid; gap: 6px; }
 .periods legend { font: 600 12px/1.3 var(--sans); letter-spacing: 0.08em; text-transform: uppercase; color: var(--muted); margin-bottom: 4px; padding: 0; }
 
-/* Print: the sheet on the first page, the index of places after it. */
-#gazetteer { display: none; }
-@page { size: {{PAGE}}; margin: 0.35in; }
+/* Print: the whole sheet on one page, as large as the paper allows. The sheet keeps its own
+   shape and is fitted inside the page, so it fits Letter or A4, either way round. */
+@page { size: {{PAGE}}; margin: 0.3in; }
 @media print {
-  html, body { height: auto; overflow: visible; background: #fff; }
+  html, body { height: auto; overflow: visible; background: #fff; margin: 0; padding: 0; }
   .bar, .zoom, .panel, .card { display: none !important; }
-  #stage { position: static; width: {{PAGE_W}}in; height: {{PAGE_H}}in; }
+  #stage {
+    position: static; width: 100%; height: auto; max-height: 100vh; aspect-ratio: var(--sheet-aspect);
+    margin-inline: auto; overflow: hidden; break-inside: avoid; break-after: avoid;
+  }
   #world, #labels { filter: none; }
-  #gazetteer { display: block; break-before: page; font: 400 7.5pt/1.25 var(--serif); color: #000; }
-  #gazetteer h2 { font: 700 13pt/1.2 var(--serif); margin: 0 0 4pt; }
-  #gazetteer p { margin: 0 0 6pt; font-style: italic; }
-  #gazetteer ol { columns: 4; column-gap: 14pt; margin: 0; padding: 0; list-style: none; }
-  #gazetteer li { display: flex; gap: 4pt; break-inside: avoid; }
-  #gazetteer li span:first-child { flex: 1; }
-  #stations-print:not([hidden]) { display: block; break-before: page; font: 400 8pt/1.3 var(--serif); color: #000; }
-  #stations-print section + section { margin-top: 14pt; }
-  #stations-print h2 { font: 700 13pt/1.2 var(--serif); margin: 0 0 4pt; }
-  #stations-print p { margin: 0 0 6pt; font-style: italic; }
-  #stations-print table { width: 100%; border-collapse: collapse; }
-  #stations-print th { text-align: left; font: 700 7.5pt/1.2 var(--sans); border-bottom: 1px solid #000; padding: 2pt 4pt; }
-  #stations-print td { padding: 1.5pt 4pt; border-bottom: 0.5px solid #bbb; vertical-align: top; }
 }
-#stations-print { display: none; }
 </style>
 
 <main id="stage" aria-label="{{SERIES}}, {{H1}}">
@@ -340,12 +329,6 @@ button { font: inherit; color: inherit; }
 
 <aside class="card" id="card" hidden aria-live="polite"></aside>
 
-<section id="gazetteer" aria-hidden="true">
-  <h2>Index of places · {{SERIES}}</h2>
-  <p>{{GRID_NOTE}} A "?" marks a place whose location is uncertain.</p>
-  <ol></ol>
-</section>
-<section id="stations-print" aria-hidden="true" hidden></section>
 
 <!-- DATA -->
 <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/7.8.5/d3.min.js"></script>
@@ -984,15 +967,6 @@ function buildIndex() {
   };
   input.addEventListener("input", fill);
   fill();
-  // The printed index, on the page after the sheet.
-  const g = document.querySelector("#gazetteer ol");
-  for (const i of sorted) {
-    const p = D.places[i], li = document.createElement("li");
-    li.innerHTML = "<span></span><span></span>";
-    li.firstChild.textContent = p.n + (p.c ? "" : "?");
-    li.lastChild.textContent = ref(p);
-    g.append(li);
-  }
 }
 
 function stopSub(st, stops) {
@@ -1085,28 +1059,6 @@ function buildJourneys() {
     JOURNEYS.forEach((J, j) => chip(j, J.short, J.color || "red"));
   }
   fillJourneyPanel();
-  // The printed tables, after the sheet: every journey, stop by stop.
-  const pr = document.getElementById("stations-print");
-  pr.hidden = false;
-  for (const J of JOURNEYS) {
-    const sec = document.createElement("section");
-    sec.innerHTML = `<h2></h2><p></p><table><thead><tr><th>No.</th><th></th><th>Verse</th><th>Site</th><th>Certainty</th><th>Grid</th></tr></thead><tbody></tbody></table>`;
-    sec.querySelector("h2").textContent = J.name + (J.ref ? ` (${J.ref})` : "");
-    sec.querySelector("p").textContent = J.note || "";
-    sec.querySelector("th:nth-child(2)").textContent = J.unit || "Stop";
-    const tb = sec.querySelector("tbody");
-    for (const st of J.stops) {
-      const tr = document.createElement("tr");
-      const host = hostIn(J.stops, st);
-      for (const v of [st.n, st.name, st.ref, st.site || "unknown",
-        host ? `with ${(J.unit || "stop").toLowerCase()} ${host.n}` : st.x == null ? "not plotted" : confidence(st).toLowerCase(),
-        host ? ref(host) : st.x == null ? "" : ref(st)]) {
-        const td = document.createElement("td"); td.textContent = v; tr.append(td);
-      }
-      tb.append(tr);
-    }
-    pr.append(sec);
-  }
 }
 
 /* ---------- Print and SVG ---------- */
@@ -1144,7 +1096,8 @@ function sheetSVG(wPx, hPx) {
 }
 
 document.getElementById("save").onclick = () => {
-  const s = new XMLSerializer().serializeToString(sheetSVG(D.page.w * 96 + 4.8, D.page.h * 96 + 4.8));
+  const { w, h } = pageSize();
+  const s = new XMLSerializer().serializeToString(sheetSVG(w, h));
   const a = document.createElement("a");
   a.href = URL.createObjectURL(new Blob([s], { type: "image/svg+xml" }));
   a.download = D.file + ".svg";
@@ -1152,12 +1105,19 @@ document.getElementById("save").onclick = () => {
   setTimeout(() => URL.revokeObjectURL(a.href), 4000);
 };
 
+// The printed sheet in CSS pixels: its long side about the width of a page (10.3 in at 96 px to
+// the inch), its short side in proportion, so the names print at the size they show on screen.
+function pageSize() {
+  const a = (W + 2 * M) / (H + 2 * M);
+  return a >= 1 ? { w: 990, h: Math.round(990 / a) } : { w: Math.round(990 * a), h: 990 };
+}
+document.getElementById("stage").style.setProperty("--sheet-aspect", `${W + 2 * M} / ${H + 2 * M}`);
+
 let printing = null;
 function beforePrint() {
   if (printing) return;
   printing = T;
-  // Letter, less the page margins, at 96 px to the inch.
-  const w = D.page.w * 96, h = D.page.h * 96;
+  const { w, h } = pageSize();
   const t = fitTransform(w, h, 0);
   svg.attr("viewBox", `0 0 ${w} ${h}`);
   world.attr("transform", t);

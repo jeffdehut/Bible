@@ -1224,7 +1224,7 @@ def kingdoms_map():
     journeys = build_journeys(sheet, PROPHETS, by_name, cost_grid(sheet, wet), sea_grid(sheet, w["sea"]), pl)
     data = {
         "sheet": sheet_info(sheet), "grid": 10 / 60, "focus": 0.56, "file": "map-07-kingdoms-of-judah-and-israel",
-        "page": {"w": 7.8, "h": 10.3}, "layers": layers, "territories": fills, "labels": labels,
+        "layers": layers, "territories": fills, "labels": labels,
         "places": pl, "journeys": journeys, "routeButton": "Prophets", "routesTitle": "Elijah and Elisha",
         "routesNote": "Choose a prophet to follow him place by place. Each place is named in the verse given.",
         "routeLayer": "The journeys of Elijah and Elisha",
@@ -1253,9 +1253,7 @@ def kingdoms_map():
         "slug": "kingdoms", "NO": "7", "H1": "The Kingdoms of Judah and Israel", "TITLE": "Judah and Israel Map",
         "DESCRIPTION": "Map No. 7, a style study after the Eilers Sunday School wall maps: the tribal allotments "
                        "and the kingdoms of Judah and Israel, drawn from open data.",
-        "PAGE": "letter portrait", "PAGE_W": "7.8", "PAGE_H": "10.3",
         "GRID_LABEL": "Ten-minute squares, as used by the index",
-        "GRID_NOTE": "Grid squares are ten minutes of latitude and longitude: letters across the top, numbers down the side.",
         "ABOUT": about_html(
             "A <strong>style study</strong> for the project's Bible maps, redrawing <strong>Eilers Sunday School Map "
             "No. 7</strong>, <em>The Kingdoms Judah Israel</em> (A. H. Eilers &amp; Co., St. Louis), from open data. "
@@ -1535,7 +1533,7 @@ def exodus_map():
 
     data = {
         "sheet": sheet_info(sheet), "grid": 20 / 60, "focus": 0.55, "file": "map-05-the-exodus",
-        "page": {"w": 10.3, "h": 7.8}, "land": "blush", "layers": layers, "territories": fills, "labels": labels,
+        "land": "blush", "layers": layers, "territories": fills, "labels": labels,
         "places": pl, "features": feats, "roads": road_lines, "territoryLabel": "Land of",
         "routeLayer": "The camps of Numbers 33 and the ancient roads",
         "journeys": [{
@@ -1567,9 +1565,7 @@ def exodus_map():
         "slug": "exodus", "NO": "5", "H1": "The Exodus", "TITLE": "The Exodus Map",
         "DESCRIPTION": "Map No. 5, a style study after the Eilers Sunday School wall maps: the camps of Numbers 33 "
                        "from Egypt to the plains of Moab, with the places of Genesis to Deuteronomy, drawn from open data.",
-        "PAGE": "letter landscape", "PAGE_W": "10.3", "PAGE_H": "7.8",
         "GRID_LABEL": "Twenty-minute squares, as used by the index",
-        "GRID_NOTE": "Grid squares are twenty minutes of latitude and longitude: letters across the top, numbers down the side.",
         "ABOUT": about_html(
             "A <strong>style study</strong> for the project's Bible maps, after <strong>Eilers Sunday School Map No. "
             "5</strong>, <em>The Exodus</em> (A. H. Eilers &amp; Co., St. Louis), redrawn from open data. Where "
@@ -2001,7 +1997,7 @@ def roman_map():
         key_rows.append(["swatch", ", ".join(row), tint])
     data = {
         "sheet": sheet_info(sheet), "grid": 1, "focus": 0.6, "file": "map-03-the-roman-empire",
-        "page": {"w": 10.3, "h": 7.8}, "layers": layers, "territories": fills, "labels": labels,
+        "layers": layers, "territories": fills, "labels": labels,
         "places": pl, "features": feats, "territoryLabel": "Province", "journeys": journeys,
         "routeButton": "Journeys", "routesTitle": "The journeys of Paul",
         "routesNote": "Choose a journey to follow it stop by stop. Each stop is named in the verse given.",
@@ -2020,9 +2016,7 @@ def roman_map():
         "slug": "roman-empire", "NO": "3", "H1": "The Roman Empire and the Travels of Paul", "TITLE": "Travels of Paul Map",
         "DESCRIPTION": "Map No. 3, a style study after the Eilers Sunday School wall maps: the Roman Empire about AD 50 "
                        "and Paul's journeys in Acts, stop by stop, drawn from open data.",
-        "PAGE": "letter landscape", "PAGE_W": "10.3", "PAGE_H": "7.8",
         "GRID_LABEL": "One-degree squares, as used by the index",
-        "GRID_NOTE": "Grid squares are one degree of latitude and longitude: letters across the top, numbers down the side.",
         "ABOUT": about_html(
             "A <strong>style study</strong> for the project's Bible maps, after <strong>Eilers Sunday School Map No. "
             "3</strong>, <em>Roman Empire and the Routes of the Travels of St. Paul</em> (A. H. Eilers &amp; Co., St. "
@@ -2220,7 +2214,7 @@ def western_asia_map():
         key_rows.append(["swatch", ", ".join(by_tint[tint]), tint])
     data = {
         "sheet": sheet_info(sheet), "grid": 2, "focus": 0.45, "file": "map-04-western-asia",
-        "page": {"w": 10.3, "h": 7.8}, "layers": layers, "territories": fills, "labels": labels,
+        "layers": layers, "territories": fills, "labels": labels,
         "places": pl, "features": feats, "territoryLabel": "Land", "journeys": journeys,
         "routeButton": "Journeys", "routesTitle": "The journeys of the patriarchs",
         "routesNote": "Choose a journey to follow it stop by stop. Each stop is named in the verse given.",
@@ -2240,9 +2234,7 @@ def western_asia_map():
         "slug": "western-asia", "NO": "4", "H1": "Western Asia", "TITLE": "Western Asia Map",
         "DESCRIPTION": "Map No. 4, a style study after the Eilers Sunday School wall maps: the lands of the Old Testament "
                        "from Egypt to Persia, with the journeys of Abraham, Jacob and Joseph, drawn from open data.",
-        "PAGE": "letter landscape", "PAGE_W": "10.3", "PAGE_H": "7.8",
         "GRID_LABEL": "Two-degree squares, as used by the index",
-        "GRID_NOTE": "Grid squares are two degrees of latitude and longitude: letters across the top, numbers down the side.",
         "ABOUT": about_html(
             "A <strong>style study</strong> for the project's Bible maps, after <strong>Eilers Sunday School Map No. "
             "4</strong>, <em>Western Asia</em> (A. H. Eilers &amp; Co., St. Louis), redrawn from open data.",
@@ -2452,7 +2444,7 @@ def empires_map():
             key_rows.append(["swatch", ", ".join(names), tint, k])
     data = {
         "sheet": sheet_info(sheet), "grid": 2, "focus": 0.45, "file": "map-06-the-empires",
-        "page": {"w": 10.3, "h": 7.8}, "layers": layers, "territories": [], "labels": labels, "periods": periods,
+        "layers": layers, "territories": [], "labels": labels, "periods": periods,
         "places": pl, "features": feats, "territoryLabel": "Land", "journeys": journeys,
         "routeButton": "Journeys", "routesTitle": "Exile and return",
         "routesNote": "Choose a journey to follow it place by place. Each place is named in the verse given.",
@@ -2473,9 +2465,7 @@ def empires_map():
         "slug": "empires", "NO": "6", "H1": "The Empires: Assyria, Babylon, Persia", "TITLE": "Bible Empires Map",
         "DESCRIPTION": "Map No. 6, a style study after the Eilers Sunday School wall maps: the empires of Assyria, Babylon "
                        "and Persia, with the exiles of Israel and Judah and the return, drawn from open data.",
-        "PAGE": "letter landscape", "PAGE_W": "10.3", "PAGE_H": "7.8",
         "GRID_LABEL": "Two-degree squares, as used by the index",
-        "GRID_NOTE": "Grid squares are two degrees of latitude and longitude: letters across the top, numbers down the side.",
         "ABOUT": about_html(
             "A <strong>style study</strong> for the project's Bible maps, in the manner of the Eilers Sunday School wall "
             "maps (A. H. Eilers &amp; Co., St. Louis). No Eilers Map No. 6 is known to us, so this sheet fills the "
@@ -2676,7 +2666,7 @@ def palestine_history_map():
                  ["swatch", "Aram (subject)", "lime", 1], ["swatch", "Phoenicia (ally)", "blush", 1]]
     data = {
         "sheet": sheet_info(sheet), "grid": 10 / 60, "focus": 0.56, "file": "map-02-palestine-old-testament-history",
-        "page": {"w": 7.8, "h": 10.3}, "layers": layers, "territories": [], "labels": labels, "periods": periods,
+        "layers": layers, "territories": [], "labels": labels, "periods": periods,
         "places": pl, "features": feats, "territoryLabel": "Land", "journeys": journeys,
         "routeButton": "Journeys", "routesTitle": "From Joshua to David",
         "routesNote": "Choose a journey to follow it place by place. Each place is named in the verse given.",
@@ -2699,9 +2689,7 @@ def palestine_history_map():
         "DESCRIPTION": "Map No. 2, a style study after the Eilers Sunday School wall maps: the conquest of Canaan, the "
                        "judges and the kingdom of David and Solomon, with Joshua's campaigns, the ark and David's flight, "
                        "drawn from open data.",
-        "PAGE": "letter portrait", "PAGE_W": "7.8", "PAGE_H": "10.3",
         "GRID_LABEL": "Ten-minute squares, as used by the index",
-        "GRID_NOTE": "Grid squares are ten minutes of latitude and longitude: letters across the top, numbers down the side.",
         "ABOUT": about_html(
             "A <strong>style study</strong> for the project's Bible maps, after <strong>Eilers Sunday School Map No. "
             "2</strong>, <em>Palestine, Old Testament History</em> (A. H. Eilers &amp; Co., St. Louis), redrawn from "
@@ -2803,7 +2791,7 @@ def jerusalem_map():
 
     data = {
         "sheet": sheet_info(sheet), "grid": 0.005, "focus": 0.45, "file": "plan-of-ancient-jerusalem",
-        "page": {"w": 10.3, "h": 7.8}, "margin": 0.22, "land": "wild", "layers": layers, "territories": [], "labels": [],
+        "margin": 0.22, "land": "wild", "layers": layers, "territories": [], "labels": [],
         "places": pl, "features": feats, "journeys": journeys,
         "routeButton": "Journeys", "routesTitle": "Journeys in Jerusalem",
         "routesNote": "Choose a journey to follow it place by place. Each place is named in the verse given.",
@@ -2829,9 +2817,7 @@ def jerusalem_map():
         "H1": "Ancient Jerusalem", "TITLE": "Ancient Jerusalem Plan",
         "DESCRIPTION": "A plan of Ancient Jerusalem, a style study after the Eilers Sunday School maps: the hills and "
                        "valleys of the city with the places of the Bible whose location is known, drawn from open data.",
-        "PAGE": "letter landscape", "PAGE_W": "10.3", "PAGE_H": "7.8",
         "GRID_LABEL": "Squares of about 500 metres, as used by the index",
-        "GRID_NOTE": "Grid squares are 0.005 degrees, about 500 metres: letters across the top, numbers down the side.",
         "ABOUT": about_html(
             "A <strong>style study</strong> for the project's Bible maps, after the Eilers sheet <em>Ancient "
             "Jerusalem</em> (A. H. Eilers &amp; Co., St. Louis), redrawn from open data.",
@@ -3032,7 +3018,7 @@ def palestine_map():
                  ["swatch", "Lysanias; Aretas of Arabia", "sage"]]
     data = {
         "sheet": sheet_info(sheet), "grid": 10 / 60, "focus": 0.56, "file": "map-01-palestine-in-the-time-of-christ",
-        "page": {"w": 7.8, "h": 10.3}, "layers": layers, "territories": fills, "labels": labels,
+        "layers": layers, "territories": fills, "labels": labels,
         "places": pl, "features": feats, "territoryLabel": "Region", "journeys": journeys,
         "routeButton": "Gospels", "routesTitle": "The journeys of Jesus",
         "routesNote": "Choose a Gospel to follow the places it names, in its order. Each place is named in the verse given.",
@@ -3053,9 +3039,7 @@ def palestine_map():
         "slug": "palestine", "NO": "1", "H1": "Palestine in the Time of Christ", "TITLE": "Time of Christ Map",
         "DESCRIPTION": "Map No. 1, a style study after the Eilers Sunday School wall maps: the land of the Gospels, "
                        "its rulers about AD 28, and the places each Gospel names, drawn from open data.",
-        "PAGE": "letter portrait", "PAGE_W": "7.8", "PAGE_H": "10.3",
         "GRID_LABEL": "Ten-minute squares, as used by the index",
-        "GRID_NOTE": "Grid squares are ten minutes of latitude and longitude: letters across the top, numbers down the side.",
         "ABOUT": about_html(
             "A <strong>style study</strong> for the project's Bible maps, after <strong>Eilers Sunday School Map No. "
             "1</strong>, <em>Palestine</em> in the time of Christ (A. H. Eilers &amp; Co., St. Louis), redrawn from "
@@ -3084,7 +3068,9 @@ def write_map(data, page):
         json.dump(data, f, ensure_ascii=False, separators=(",", ":"))
         f.write("\n")
     body = open(os.path.join(ROOT, "scripts", "templates", "map.html"), encoding="utf-8").read()
-    page = {"SERIES": f"Map No. {page['NO']}", "TAG": f'<span class="wide">Map </span>No. {page["NO"]}', **page}
+    sh = data["sheet"]
+    page = {"SERIES": f"Map No. {page['NO']}", "TAG": f'<span class="wide">Map </span>No. {page["NO"]}',
+            "PAGE": "landscape" if sh["width"] >= sh["height"] else "portrait", **page}
     for k, v in page.items():
         body = body.replace("{{" + k + "}}", v)
     body = body.replace("<!-- DATA -->", f'<script type="application/json" id="data">{webpages._dump(data)}</script>')
