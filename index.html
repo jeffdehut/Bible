@@ -360,6 +360,10 @@ input[type="range"] { width: 100%; accent-color: var(--lapis); }
     <p class="original" id="orig"></p>
     <p class="lang-note" id="orig-note"></p>
   </div>
+  <div class="section" id="vpeople-wrap" hidden>
+    <h3>People</h3>
+    <ul class="places" id="vpeople"></ul>
+  </div>
   <div class="section" id="vplaces-wrap" hidden>
     <h3>On the maps</h3>
     <ul class="places" id="vplaces"></ul>
@@ -498,6 +502,7 @@ input[type="range"] { width: 100%; accent-color: var(--lapis); }
     <p>Say what the original says, in natural modern English that a reader around 12 to 14 years old can follow. Where the original can be read more than one way, or the manuscripts differ, a note says so. God's personal name is written "Yahweh", where most English Bibles write "the LORD".</p>
     <h3>Under each verse</h3>
     <p>Tap a verse to see it in Hebrew, Aramaic or Greek, word by word. The words, glosses and grammar come from STEPBible's tagged texts (TAHOT and TAGNT), and the definitions from its brief lexicons (TBESH and TBESG). STEPBible's glosses are its own, not this translation's.</p>
+    <p>People a verse names are listed under <em>People</em>: tap one to see their family in the genealogy. The names come from STEPBible's TIPNR, which marks each name in the Hebrew, Aramaic and Greek.</p>
     <p>Places a verse names are listed under <em>On the maps</em>: tap one to see it on the Bible map for that part of the story. Which verses name which places comes from OpenBible.info's Bible Geocoding Data (CC BY 4.0), kept only where this translation uses the name.</p>
     <h3>Licenses</h3>
     <p>Translation: CC BY 4.0. Hebrew: Unicode/XML Leningrad Codex (UXLC 2.6), Tanach.us. Greek: SBL Greek New Testament, © 2010 Society of Biblical Literature and Logos Bible Software, CC BY 4.0. Word data and lexicons: STEPBible.org, CC BY 4.0. Paragraphs follow the Masoretic paragraph marks and, in the New Testament, STEPBible's paragraph marks.</p>
@@ -713,6 +718,26 @@ function go(b, c, v) {
 /* ---------- A verse ---------- */
 // The places a verse names that the maps show, each opening on the sheet that suits the book.
 const PIN = '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linejoin="round"><path d="M12 21s-7-6.2-7-11.5a7 7 0 0 1 14 0C19 14.8 12 21 12 21Z"/><circle cx="12" cy="9.5" r="2.5"/></svg>';
+// The people a verse names, each opening in the genealogy.
+const PERSON = '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><circle cx="12" cy="8" r="3.5"/><path d="M5 20c.8-3.8 3.6-6 7-6s6.2 2.2 7 6"/></svg>';
+async function showPeople(b, c, n, span) {
+  const wrap = $("vpeople-wrap"), list = $("vpeople");
+  wrap.hidden = true;
+  list.textContent = "";
+  let L;
+  try { L = await getJSON("people.json"); } catch (e) { return; }
+  if (selected !== span) return;
+  const row = cur.chapter.v.find(r => r[0] === n), text = row ? row[1] || "" : "";
+  const at = k => { const i = text.indexOf(L.n[k]); return i < 0 ? Infinity : i; };
+  const ks = [...((L.verses[b.osis] || {})[`${c}:${n}`] || [])].sort((x, y) => at(x) - at(y));
+  for (const k of ks) {
+    const a = el("a", { href: `genealogy.html#p${k}`, title: `${L.n[k]} in the genealogy` });
+    a.innerHTML = PERSON;
+    a.append(L.n[k]);
+    list.append(el("li", {}, a));
+  }
+  wrap.hidden = !ks.length;
+}
 async function showPlaces(b, c, n, span) {
   const wrap = $("vplaces-wrap"), list = $("vplaces");
   wrap.hidden = true;
@@ -812,6 +837,7 @@ async function openVerse(span) {
     list.append(li);
   }
   $("vnotes-wrap").hidden = !labels.length;
+  showPeople(b, c, n, span);
   showPlaces(b, c, n, span);
   // Highlight and note.
   const id = `${b.osis}.${c}.${n}`;

@@ -1,12 +1,13 @@
 <title>The Generations</title>
 <meta name="claude:viewport-fit-sides" content="cover">
-<meta name="description" content="Every family relationship the Bible records, from Adam to the apostles: search anyone and see their ancestors and descendants.">
+<meta name="description" content="Every family relationship the Bible records, from Adam to the apostles: the whole family of Adam on one chart, and anyone's parents, children and descendants.">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Frank+Ruhl+Libre:wght@300..900&family=Libre+Franklin:wght@400;500;600;700&family=Noto+Serif:wght@400;600&display=swap">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Frank+Ruhl+Libre:wght@300..900&family=Libre+Franklin:ital,wght@0,400;0,500;0,600;0,700;1,400&family=Noto+Serif:wght@400;600&display=swap">
 <style>
-/* Layout: a single reading column for the line of descent, then a two-pane explorer
-   (finder and person on the left, the hourglass tree on the right), then the family index. */
+/* Layout: the masthead; the viewer (search and a choice of views over a chart of the whole
+   family, with the person's card beside it on wide screens and below it on phones); the line
+   from Adam to Jesus; then the family index. */
 :root {
   --bg: #fbfaf7;
   --surface: #ffffff;
@@ -60,7 +61,7 @@ h1, h2, h3 { font-family: var(--display); font-weight: 500; text-wrap: balance; 
 [lang="grc"] { font-family: var(--greek); }
 
 /* Masthead */
-.masthead { padding-block: clamp(28px, 5vw, 56px) clamp(24px, 4vw, 40px); }
+.masthead { padding-block: clamp(28px, 5vw, 56px) clamp(20px, 3vw, 32px); }
 .masthead .wrap { display: grid; gap: 18px; }
 .title-row { display: flex; flex-wrap: wrap; align-items: baseline; justify-content: space-between; gap: 8px 32px; }
 h1 { font-size: var(--step-4); font-weight: 300; line-height: 0.95; letter-spacing: -0.02em; }
@@ -75,45 +76,20 @@ h1 { font-size: var(--step-4); font-weight: 300; line-height: 0.95; letter-spaci
 .stats dd { margin: 0; font: 500 var(--step-2)/1 var(--display); font-variant-numeric: tabular-nums lining-nums; }
 
 section { padding-block: clamp(28px, 5vw, 56px); border-top: 1px solid var(--line); scroll-margin-top: calc(var(--bar) + env(safe-area-inset-top, 0px)); }
-.section-head { display: grid; gap: 8px; margin-bottom: 22px; max-width: 70ch; }
+.section-head { display: grid; gap: 8px; margin-bottom: 18px; max-width: 72ch; }
 .section-head h2 { font-size: var(--step-2); }
 .section-head p { margin: 0; color: var(--muted); }
 
-/* The line of descent, set like a biblical genealogy. */
-.thread { list-style: none; margin: 0; padding: 0; display: flex; flex-wrap: wrap; align-items: baseline; gap: 10px 0; }
-.thread li { display: inline-flex; align-items: baseline; }
-.thread li.gen + li.gen::before, .thread li.era + li.gen::before { content: ""; }
-.thread li.gen::after { content: ""; display: inline-block; width: 1.1em; height: 1px; background: var(--line); margin-inline: 0.35em; transform: translateY(-0.32em); }
-.thread li.gen:last-child::after { display: none; }
-.thread button {
-  all: unset; cursor: pointer; display: inline-flex; align-items: baseline; gap: 4px; border-radius: 6px; padding: 2px 4px;
-  font-family: var(--display); color: var(--ink); line-height: 1.1;
-}
-.thread button:hover { background: var(--lapis-soft); }
-.thread button:focus-visible { outline: 2px solid var(--lapis); }
-.thread button[aria-current="true"] { background: var(--gold-soft); color: var(--gold); }
-.thread sup { font: 500 0.62rem/1 var(--sans); color: var(--faint); font-variant-numeric: tabular-nums; }
-.thread .unnamed { font-style: italic; color: var(--faint); }
-.thread li.era {
-  flex-basis: 100%; margin-top: 14px; padding-top: 10px; border-top: 1px dashed var(--line);
-  font: 600 var(--step--1)/1.3 var(--sans); letter-spacing: 0.08em; text-transform: uppercase; color: var(--gold);
-}
-.thread li.era:first-child { margin-top: 0; padding-top: 0; border-top: 0; }
-.thread li.era span { color: var(--muted); font-weight: 500; letter-spacing: 0.02em; text-transform: none; margin-inline-start: 8px; }
-
-/* Explorer */
-.explorer { display: grid; gap: 20px; grid-template-columns: minmax(0, 1fr); }
-@media (min-width: 980px) { .explorer { grid-template-columns: 360px minmax(0, 1fr); align-items: start; } }
-.side { display: grid; gap: 16px; min-width: 0; }
-.finder { position: relative; }
-.finder label { display: block; font: 600 var(--step--1)/1.2 var(--sans); color: var(--muted); margin-bottom: 6px; }
+/* The viewer */
+.vbar { display: flex; flex-wrap: wrap; gap: 10px 16px; align-items: center; justify-content: space-between; margin-bottom: 12px; }
+.finder { position: relative; flex: 1 1 260px; max-width: 440px; }
 .finder input {
   width: 100%; font: 400 var(--step-0)/1.3 var(--sans); color: var(--ink); background: var(--surface);
-  border: 1px solid var(--line); border-radius: 10px; padding: 12px 14px; box-shadow: var(--shadow);
+  border: 1px solid var(--line); border-radius: 10px; padding: 11px 14px; box-shadow: var(--shadow);
 }
 .finder input:focus { outline: 2px solid var(--lapis); outline-offset: 0; border-color: transparent; }
 .results {
-  position: absolute; z-index: 5; inset: calc(100% + 6px) 0 auto 0; margin: 0; padding: 6px; list-style: none;
+  position: absolute; z-index: 6; inset: calc(100% + 6px) 0 auto 0; margin: 0; padding: 6px; list-style: none;
   background: var(--surface); border: 1px solid var(--line); border-radius: 10px; box-shadow: var(--shadow);
   max-height: 360px; overflow-y: auto;
 }
@@ -121,8 +97,57 @@ section { padding-block: clamp(28px, 5vw, 56px); border-top: 1px solid var(--lin
 .results li[aria-selected="true"], .results li:hover { background: var(--lapis-soft); }
 .results b { font: 500 var(--step-0)/1.25 var(--display); }
 .results small { color: var(--muted); font-size: var(--step--1); overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+.seg { display: inline-flex; gap: 4px; padding: 4px; border-radius: 10px; background: var(--surface); border: 1px solid var(--line); }
+.seg button { all: unset; cursor: pointer; font: 500 var(--step--1)/1.2 var(--sans); padding: 8px 12px; border-radius: 7px; color: var(--ink); white-space: nowrap; }
+.seg button[aria-pressed="true"] { background: var(--lapis); color: var(--surface); }
+.seg button:hover:not([aria-pressed="true"]) { background: var(--lapis-soft); }
+.seg button:focus-visible { outline: 2px solid var(--lapis); }
 
+.vbody { display: grid; gap: 16px; grid-template-columns: minmax(0, 1fr); }
+@media (min-width: 980px) {
+  .vbody { grid-template-columns: minmax(0, 1fr) 360px; align-items: start; }
+  .side { position: sticky; top: calc(var(--bar) + env(safe-area-inset-top, 0px) + 16px); }
+}
+.stage {
+  position: relative; background: var(--surface); border: 1px solid var(--line); border-radius: 14px; box-shadow: var(--shadow);
+  overflow: hidden; height: clamp(420px, calc(100svh - var(--bar) - 170px), 780px);
+}
+#family, #tree { display: block; width: 100%; height: 100%; touch-action: none; }
+#family { cursor: grab; }
+#family:active { cursor: grabbing; }
+#family:focus-visible { outline: 2px solid var(--lapis); outline-offset: -2px; border-radius: 14px; }
+.tools { position: absolute; right: 10px; bottom: 10px; display: grid; gap: 6px; }
+.tool {
+  all: unset; cursor: pointer; width: 38px; height: 38px; display: grid; place-items: center; border: 1px solid var(--line); border-radius: 10px;
+  background: color-mix(in srgb, var(--surface) 92%, transparent); font: 600 1.05rem/1 var(--sans); color: var(--ink); box-shadow: var(--shadow);
+}
+.tool:hover { background: var(--lapis-soft); }
+.tool:focus-visible { outline: 2px solid var(--lapis); }
+.peek {
+  position: absolute; left: 10px; right: 60px; bottom: 10px; display: grid; gap: 6px; padding: 10px 12px 11px;
+  background: var(--surface); border: 1px solid var(--line); border-radius: 12px; box-shadow: var(--shadow);
+}
+.peek b { font: 500 1.15rem/1.15 var(--display); }
+.peek p { margin: 0; font-size: var(--step--1); color: var(--muted); overflow: hidden; display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; }
+.peek .acts { display: flex; flex-wrap: wrap; gap: 6px; }
+.peek .acts button { all: unset; cursor: pointer; font: 600 var(--step--1)/1.2 var(--sans); color: var(--lapis); padding: 6px 10px; border-radius: 999px; background: var(--lapis-soft); }
+.peek .acts button:focus-visible { outline: 2px solid var(--lapis); }
+@media (min-width: 980px) { .peek { display: none !important; } }
+.vfoot { display: flex; flex-wrap: wrap; gap: 6px 18px; align-items: center; justify-content: space-between; margin-top: 10px; font-size: var(--step--1); color: var(--muted); }
+.legend { display: flex; flex-wrap: wrap; gap: 6px 16px; }
+.legend span { display: inline-flex; align-items: center; gap: 6px; }
+.legend .box { width: 18px; height: 11px; border-radius: 3px; border: 1px solid var(--faint); background: var(--surface); }
+.legend .box.gold { border-color: var(--gold); background: var(--gold-soft); }
+.legend .box.dash { border-style: dashed; }
+.swatch { width: 18px; height: 0; border-top: 2px solid var(--faint); }
+.swatch.dash { border-top-style: dashed; }
+.swatch.dot { border-top-style: dotted; border-top-width: 3px; }
+.swatch.lapis { border-top-color: var(--lapis); }
+.vfoot .note { margin: 0; }
+
+/* The person's card */
 .card { background: var(--surface); border: 1px solid var(--line); border-radius: 14px; padding: 20px; box-shadow: var(--shadow); display: grid; gap: 14px; min-width: 0; }
+.card:focus { outline: none; }
 .card h3 { font-size: var(--step-2); font-weight: 500; line-height: 1.1; }
 .card h3 .dis { display: block; margin-top: 4px; font: 500 var(--step--1)/1.2 var(--sans); color: var(--muted); }
 .card .orig { display: flex; flex-wrap: wrap; gap: 4px 14px; font-size: var(--step-1); color: var(--gold); }
@@ -142,20 +167,12 @@ section { padding-block: clamp(28px, 5vw, 56px); border-top: 1px solid var(--lin
 .chip.line { background: var(--gold-soft); }
 .chip small { color: var(--muted); font-weight: 400; }
 .more { all: unset; cursor: pointer; font: 600 var(--step--1)/1.2 var(--sans); color: var(--lapis); padding: 5px 4px; }
+.verses { display: flex; flex-wrap: wrap; gap: 4px 12px; font-size: var(--step--1); font-variant-numeric: tabular-nums; }
+.verses a { text-decoration: none; }
+.verses a:hover { text-decoration: underline; }
 
-.tree-pane { background: var(--surface); border: 1px solid var(--line); border-radius: 14px; box-shadow: var(--shadow); min-width: 0; overflow: hidden; display: grid; }
-.tree-bar { display: flex; flex-wrap: wrap; gap: 8px 16px; align-items: center; justify-content: space-between; padding: 12px 14px; border-bottom: 1px solid var(--line); }
-.legend { display: flex; flex-wrap: wrap; gap: 6px 14px; font-size: var(--step--1); color: var(--muted); }
-.legend span { display: inline-flex; align-items: center; gap: 6px; }
-.swatch { width: 18px; height: 0; border-top: 2px solid var(--faint); }
-.swatch.dash { border-top-style: dashed; }
-.swatch.dot { border-top-style: dotted; border-top-width: 3px; }
-.swatch.gold { border-top-color: var(--gold); border-top-width: 3px; }
-.tools { display: flex; gap: 6px; }
-.tool { all: unset; cursor: pointer; width: 34px; height: 34px; display: grid; place-items: center; border: 1px solid var(--line); border-radius: 8px; font: 600 1rem/1 var(--sans); color: var(--ink); }
-.tool:hover { background: var(--lapis-soft); }
-.tool:focus-visible { outline: 2px solid var(--lapis); }
-#tree { display: block; width: 100%; height: clamp(440px, 62vh, 680px); touch-action: none; cursor: grab; }
+/* The close family: an hourglass of ancestors above, descendants below. */
+#tree { cursor: grab; }
 #tree:active { cursor: grabbing; }
 #tree .link { fill: none; stroke: var(--faint); stroke-width: 1.4; }
 #tree .link.uncertain { stroke-dasharray: 5 4; }
@@ -172,7 +189,27 @@ section { padding-block: clamp(28px, 5vw, 56px); border-top: 1px solid var(--lin
 #tree .node.focus text.sub { fill: var(--surface); opacity: 0.85; }
 #tree .node.more rect { fill: var(--lapis-soft); stroke-dasharray: 3 3; }
 #tree .gen-label { fill: var(--faint); font: 500 10.5px/1 var(--sans); font-variant-numeric: tabular-nums; letter-spacing: 0.04em; }
-.tree-note { margin: 0; padding: 10px 14px; border-top: 1px solid var(--line); font-size: var(--step--1); color: var(--muted); }
+
+/* The line of descent, set like a biblical genealogy. */
+.thread { list-style: none; margin: 0; padding: 0; display: flex; flex-wrap: wrap; align-items: baseline; gap: 10px 0; }
+.thread li { display: inline-flex; align-items: baseline; }
+.thread li.gen::after { content: ""; display: inline-block; width: 1.1em; height: 1px; background: var(--line); margin-inline: 0.35em; transform: translateY(-0.32em); }
+.thread li.gen:last-child::after { display: none; }
+.thread button {
+  all: unset; cursor: pointer; display: inline-flex; align-items: baseline; gap: 4px; border-radius: 6px; padding: 2px 4px;
+  font-family: var(--display); color: var(--ink); line-height: 1.1;
+}
+.thread button:hover { background: var(--lapis-soft); }
+.thread button:focus-visible { outline: 2px solid var(--lapis); }
+.thread button[aria-current="true"] { background: var(--gold-soft); color: var(--gold); }
+.thread sup { font: 500 0.62rem/1 var(--sans); color: var(--faint); font-variant-numeric: tabular-nums; }
+.thread .unnamed { font-style: italic; color: var(--faint); }
+.thread li.era {
+  flex-basis: 100%; margin-top: 14px; padding-top: 10px; border-top: 1px dashed var(--line);
+  font: 600 var(--step--1)/1.3 var(--sans); letter-spacing: 0.08em; text-transform: uppercase; color: var(--gold);
+}
+.thread li.era:first-child { margin-top: 0; padding-top: 0; border-top: 0; }
+.thread li.era span { color: var(--muted); font-weight: 500; letter-spacing: 0.02em; text-transform: none; margin-inline-start: 8px; }
 
 /* Family index */
 .families { list-style: none; margin: 0; padding: 0; display: grid; gap: 10px; grid-template-columns: repeat(auto-fill, minmax(220px, 1fr)); }
@@ -192,7 +229,7 @@ footer .wrap { display: grid; gap: 8px; max-width: 80ch; margin-inline: 0; }
 footer p { margin: 0; }
 .visually-hidden { position: absolute; width: 1px; height: 1px; overflow: hidden; clip: rect(0 0 0 0); white-space: nowrap; }
 @media (prefers-reduced-motion: no-preference) {
-  .card, .tree-pane { transition: border-color 0.2s; }
+  .card { transition: border-color 0.2s; }
   #tree .node { transition: opacity 0.25s; }
 }
 </style>
@@ -208,12 +245,66 @@ footer p { margin: 0; }
         <figcaption>“This is the book of the generations of Adam.” Genesis 5:1</figcaption>
       </figure>
     </div>
-    <p class="lede">Every family tie the Bible records, from Adam to the apostles. Follow the line from Adam to Jesus, or search for anyone to see their parents, children and descendants.</p>
+    <p class="lede">Every family tie the Bible records, from Adam to the apostles. See the whole family of Adam at once, follow the line from Adam to Jesus, or search for anyone to see their parents, children and descendants.</p>
     <dl class="stats" id="stats"></dl>
   </div>
 </header>
 
 <main>
+  <section id="explore" aria-labelledby="explore-h">
+    <div class="wrap">
+      <div class="section-head">
+        <h2 id="explore-h">The family of Adam</h2>
+        <p id="explore-sub">Everyone descended from Adam whom the Bible names, with the families who married into them. Time runs from left to right, a generation to a column, and the line from Adam to Jesus runs straight through in gold. Pinch or drag to move around, and tap anyone to see their family.</p>
+      </div>
+      <div class="vbar">
+        <div class="finder">
+          <label for="q" class="visually-hidden">Find a person</label>
+          <input id="q" type="search" autocomplete="off" spellcheck="false" placeholder="Find a person: Ruth, Levi, Zerubbabel"
+                 role="combobox" aria-expanded="false" aria-controls="results" aria-autocomplete="list">
+          <ul class="results" id="results" role="listbox" hidden></ul>
+        </div>
+        <div class="seg" role="group" aria-label="View">
+          <button type="button" data-view="whole" aria-pressed="true">Whole family</button>
+          <button type="button" data-view="close" aria-pressed="false">Close family</button>
+        </div>
+      </div>
+      <div class="vbody">
+        <div>
+          <div class="stage">
+            <canvas id="family" tabindex="0" role="img" aria-describedby="family-desc"></canvas>
+            <p id="family-desc" class="visually-hidden">A chart of the whole family of Adam. With the chart focused, the arrow keys move to a parent, a child or the next person in the same generation.</p>
+            <svg id="tree" hidden role="img" aria-labelledby="tree-desc"><desc id="tree-desc">The close family of the person chosen: ancestors above, descendants below</desc></svg>
+            <div class="tools">
+              <button class="tool" id="zoom-in" type="button" aria-label="Zoom in">+</button>
+              <button class="tool" id="zoom-out" type="button" aria-label="Zoom out">−</button>
+              <button class="tool" id="zoom-fit" type="button" aria-label="Show everyone">⤢</button>
+            </div>
+            <div class="peek" id="peek" hidden aria-hidden="true"></div>
+          </div>
+          <div class="vfoot">
+            <div class="legend" id="legend-whole" aria-hidden="true">
+              <span><i class="box gold"></i>Line of Jesus</span>
+              <span><i class="swatch"></i>Parent and child</span>
+              <span><i class="box dash"></i>Married into the family</span>
+              <span><i class="swatch dash lapis"></i>Mother or spouse, for the person chosen</span>
+            </div>
+            <div class="legend" id="legend-close" hidden aria-hidden="true">
+              <span><i class="swatch" style="border-top-color: var(--gold); border-top-width: 3px"></i>Line of Jesus</span>
+              <span><i class="swatch"></i>Parent and child</span>
+              <span><i class="swatch dot"></i>Ancestor, generations skipped</span>
+              <span><i class="swatch dash"></i>Uncertain</span>
+            </div>
+            <p class="note" id="tree-note"></p>
+          </div>
+        </div>
+        <aside class="side">
+          <article class="card" id="card" tabindex="-1" aria-live="polite"></article>
+        </aside>
+      </div>
+    </div>
+  </section>
+
   <section id="line" aria-labelledby="line-h">
     <div class="wrap">
       <div class="section-head">
@@ -221,43 +312,6 @@ footer p { margin: 0; }
         <p>The father-to-son line through Joseph, as Genesis 5 and 11, Ruth 4, 1 Chronicles and Matthew 1 record it. A name’s size shows how many verses mention that person. Select any name to open their family.</p>
       </div>
       <ol class="thread" id="thread"></ol>
-    </div>
-  </section>
-
-  <section id="explore" aria-labelledby="explore-h">
-    <div class="wrap">
-      <div class="section-head">
-        <h2 id="explore-h">Family explorer</h2>
-        <p>Ancestors appear above the person, descendants below. Drag to move around the tree, and pinch or scroll to zoom.</p>
-      </div>
-      <div class="explorer">
-        <div class="side">
-          <div class="finder">
-            <label for="q">Find a person</label>
-            <input id="q" type="search" autocomplete="off" spellcheck="false" placeholder="Try Ruth, Levi or Zerubbabel"
-                   role="combobox" aria-expanded="false" aria-controls="results" aria-autocomplete="list">
-            <ul class="results" id="results" role="listbox" hidden></ul>
-          </div>
-          <article class="card" id="card" aria-live="polite"></article>
-        </div>
-        <div class="tree-pane">
-          <div class="tree-bar">
-            <div class="legend" aria-hidden="true">
-              <span><i class="swatch gold"></i>Line of Jesus</span>
-              <span><i class="swatch"></i>Parent and child</span>
-              <span><i class="swatch dot"></i>Ancestor, generations skipped</span>
-              <span><i class="swatch dash"></i>Uncertain</span>
-            </div>
-            <div class="tools">
-              <button class="tool" id="zoom-in" type="button" aria-label="Zoom in">+</button>
-              <button class="tool" id="zoom-out" type="button" aria-label="Zoom out">−</button>
-              <button class="tool" id="zoom-fit" type="button" aria-label="Fit the tree to the view">⤢</button>
-            </div>
-          </div>
-          <svg id="tree" role="img" aria-labelledby="tree-desc"><desc id="tree-desc">Family tree of the selected person</desc></svg>
-          <p class="tree-note" id="tree-note"></p>
-        </div>
-      </div>
     </div>
   </section>
 
@@ -275,7 +329,7 @@ footer p { margin: 0; }
 <footer>
   <div class="wrap">
     <p><b>Sources.</b> People, names and family links: STEPBible TIPNR (Tyndale House, Cambridge), CC BY 4.0. Lifespans follow Floyd Nolen Jones’s refinement of Ussher’s chronology, from Theographic (CC BY-SA 4.0); they are traditional dates, not modern estimates.</p>
-    <p>Where a genealogy skips generations, the link is marked as an ancestor link. TIPNR fills some gaps with unnamed people so that both sides of a line agree; they are shown in italics. Part of the Plain English Bible, built from the project’s data by <code>scripts/connections.py</code>.</p>
+    <p>Where a genealogy skips generations, the link is marked as an ancestor link. TIPNR fills some gaps with unnamed people so that both sides of a line agree; they are shown in italics. The chart of the whole family is laid out when the site is built. Part of the Plain English Bible, built from the project’s data by <code>scripts/connections.py</code>.</p>
   </div>
 </footer>
 
@@ -283,17 +337,50 @@ footer p { margin: 0; }
 <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/7.8.5/d3.min.js"></script>
 <script>
 (() => {
-  const DATA = JSON.parse(document.getElementById("data").textContent);
-  const P = DATA.people;
-  const LINE = DATA.line;
-  const onLine = new Set(LINE);
+  /* ---------- The data, unpacked (see scripts/webpages.py, genealogy_data) ---------- */
+  const D = JSON.parse(document.getElementById("data").textContent);
+  const N = D.n.length;
+  const named = new Map();
+  for (let k = 0; k < N; k++) if (!D.u[k]) named.set(D.n[k], (named.get(D.n[k]) || 0) + 1);
+  const P = D.n.map((n, k) => {
+    const p = { n, f: `${D.books[D.f[3 * k]]} ${D.f[3 * k + 1]}:${D.f[3 * k + 2]}`, v: D.v[k] };
+    if (D.u[k]) p.u = 1;
+    p.t = named.get(n) === 1 && !p.u ? n : `${n} (${p.f.replace(":", ".")})`;
+    if (D.s[k] !== "-") p.s = D.s[k];
+    if (D.tr[k]) p.tr = D.tribes[D.tr[k] - 1];
+    if (D.b[k]) p.b = D.b[k];
+    if (D.o[k]) p.o = D.o[k];
+    if (D.a[k]) p.a = D.a[k];
+    if (D.by[k] != null) p.by = D.by[k];
+    if (D.dy[k] != null) p.dy = D.dy[k];
+    if (D.g[k]) p.g = D.g[k];
+    const ps = D.p[k];
+    if (ps) {
+      p.p = [];
+      for (let j = 0; j < ps.length; j += 2)
+        p.p.push([ps[j], ["", "f", "m", ""][ps[j + 1] & 3], (ps[j + 1] & 4 ? "a" : "") + (ps[j + 1] & 8 ? "?" : "")]);
+    }
+    if (D.sp[k]) p.sp = D.sp[k];
+    return p;
+  });
   const kids = P.map(() => []);
   P.forEach((p, i) => (p.p || []).forEach(([j, role, flags]) => kids[j].push([i, role, flags])));
+  // Siblings: those who share a recorded parent, and any TIPNR pairs who share none.
+  P.forEach((p, i) => {
+    const s = new Set(D.sb[i] || []);
+    for (const [j] of p.p || []) for (const [c] of kids[j]) if (c !== i) s.add(c);
+    for (const [j] of p.p || []) s.delete(j);
+    for (const [c] of kids[i]) s.delete(c);
+    if (s.size) p.sb = [...s].sort((a, b) => a - b);
+  });
+  const LINE = D.line;
+  const onLine = new Set(LINE);
   const maxV = Math.max(...P.map(p => p.v || 0));
   const fmt = new Intl.NumberFormat("en");
   const yl = y => (y <= 0 ? `${1 - y} BC` : `AD ${y}`);
   const isHeb = s => /[֐-׿]/.test(s);
   const isGrk = s => /[Ͱ-Ͽἀ-῿]/.test(s);
+  const reduced = () => matchMedia("(prefers-reduced-motion: reduce)").matches;
   const el = (tag, attrs = {}, ...kids) => {
     const n = document.createElement(tag);
     for (const [k, v] of Object.entries(attrs)) {
@@ -309,16 +396,20 @@ footer p { margin: 0; }
     const m = /^(.*?) \((.+)\)$/.exec(p.t);
     return m && m[1] === p.n ? [p.n, m[2].replace(/(\d+)\.(\d+)$/, "$1:$2")] : [p.t, ""];
   };
-  const firstRef = p => p.f;
-  let current = null;
+  // A verse in the reader: "1 Samuel 8:2" -> index.html#1-samuel-8-2
+  const readerHref = ref => {
+    const m = /^(.+) (\d+):(\d+)$/.exec(ref);
+    return m ? `index.html#${m[1].toLowerCase().replace(/ /g, "-")}-${m[2]}-${m[3]}` : "index.html";
+  };
+  let current = null, view = "whole";
 
-  // ---- Stats
-  const st = DATA.stats;
+  /* ---------- Stats ---------- */
+  const st = D.stats;
   const stats = [["People named", fmt.format(st.people)], ["Parent–child links", fmt.format(st.links)],
                  ["Families", fmt.format(st.families)], ["Generations from Adam", fmt.format(st.generations)]];
   document.getElementById("stats").append(...stats.map(([k, v]) => el("div", {}, el("dt", { text: k }), el("dd", { text: v }))));
 
-  // ---- The line
+  /* ---------- The line ---------- */
   const ERAS = [["Adam", "Before the Flood", "Genesis 5"], ["Shem", "After the Flood", "Genesis 11"],
                 ["Abraham", "The patriarchs to David", "Matthew 1:2–6"], ["Solomon", "The kings of Judah", "Matthew 1:6–11"],
                 ["Shealtiel", "From the exile to Jesus", "Matthew 1:12–16"]];
@@ -335,24 +426,41 @@ footer p { margin: 0; }
     }
     const p = P[i];
     const size = 0.95 + 1.0 * Math.log10(1 + (p.v || 0)) / Math.log10(1 + maxV);
-    const b = el("button", { type: "button", "data-i": i, title: p.b || p.t, onclick: () => select(i, true) },
+    const b = el("button", { type: "button", "data-i": i, title: p.b || p.t, onclick: () => select(i, { scroll: true, fly: true }) },
       el("sup", { text: k + 1 }), el("span", { class: p.u ? "unnamed" : null, text: p.n }));
     b.style.fontSize = `${(size * 1.25).toFixed(3)}rem`;
     thread.append(el("li", { class: "gen" }, b));
   });
 
-  // ---- Families index
+  /* ---------- Families index ---------- */
   const fam = document.getElementById("families");
-  const maxM = Math.max(...DATA.families.map(f => f.m));
-  DATA.families.slice(0, 24).forEach(f => {
+  const maxM = Math.max(...D.families.map(f => f.m));
+  D.families.slice(0, 24).forEach(f => {
     const bar = el("span", { class: "bar" }, el("i"));
     bar.firstChild.style.width = `${Math.max(2, 100 * Math.sqrt(f.m / maxM))}%`;
-    fam.append(el("li", {}, el("button", { type: "button", onclick: () => select(f.r, true) },
+    fam.append(el("li", {}, el("button", { type: "button", onclick: () => select(f.r, { scroll: true, fly: true }) },
       el("b", { text: `Family of ${split(P[f.r])[0]}` }),
       el("small", { text: `${fmt.format(f.m)} people · ${f.g} generations` }), bar)));
   });
 
-  // ---- Person card
+  /* ---------- The verses that name each person (loaded when first needed) ---------- */
+  let versesOf = null;
+  function loadVerses() {
+    if (!versesOf) versesOf = fetch("data/bible/people.json").then(r => r.json()).then(L => {
+      const out = new Map();
+      const book = new Map(L.b.map((osis, k) => [osis, D.books[k]]));
+      for (const [osis, vs] of Object.entries(L.verses))
+        for (const [cv, ks] of Object.entries(vs))
+          for (const k of ks) {
+            if (!out.has(k)) out.set(k, []);
+            out.get(k).push(`${book.get(osis)} ${cv}`);
+          }
+      return out;
+    }).catch(() => { versesOf = null; return null; });
+    return versesOf;
+  }
+
+  /* ---------- The card ---------- */
   const card = document.getElementById("card");
   function relText(p) {
     const ps = (p.p || []).filter(([, , fl]) => !fl.includes("a")).map(([j]) => split(P[j])[0]);
@@ -365,12 +473,28 @@ footer p { margin: 0; }
     const box = el("div", { class: "chips" });
     const render = all => {
       box.replaceChildren(...(all ? items : items.slice(0, limit)).map(([j, extra]) =>
-        el("button", { type: "button", class: `chip${onLine.has(j) ? " line" : ""}`, onclick: () => select(j, true) },
+        el("button", { type: "button", class: `chip${onLine.has(j) ? " line" : ""}`, onclick: () => select(j, { fly: true }) },
           split(P[j])[0], extra ? el("small", { text: ` ${extra}` }) : null)));
       if (!all && items.length > limit) box.append(el("button", { type: "button", class: "more", onclick: () => render(true), text: `+${items.length - limit} more` }));
     };
     render(false);
     return el("div", { class: "rel" }, el("h4", { text: `${title} (${items.length})` }), box);
+  }
+  function versesBlock(i) {
+    const p = P[i];
+    if (!p.v) return null;
+    const box = el("div", { class: "verses" }, el("a", { href: readerHref(p.f), text: p.f }));
+    const wrap = el("div", { class: "rel" }, el("h4", { text: `Named in ${fmt.format(p.v)} verse${p.v === 1 ? "" : "s"}` }), box);
+    if (p.v > 1) loadVerses().then(map => {
+      if (current !== i || !map || !map.get(i)) return;
+      const refs = map.get(i), limit = 12;
+      const render = all => {
+        box.replaceChildren(...(all ? refs : refs.slice(0, limit)).map(r => el("a", { href: readerHref(r), text: r })));
+        if (!all && refs.length > limit) box.append(el("button", { type: "button", class: "more", onclick: () => render(true), text: `+${refs.length - limit} more` }));
+      };
+      render(false);
+    });
+    return wrap;
   }
   function renderCard(i) {
     const p = P[i];
@@ -381,10 +505,11 @@ footer p { margin: 0; }
     if (rel) facts.push(["Family", rel]);
     if (p.tr) facts.push(["Tribe", p.tr]);
     if (p.a) facts.push(["Also called", p.a.join(", ")]);
-    facts.push(["First named", firstRef(p)]);
-    facts.push(["Verses", p.v ? fmt.format(p.v) : "Not named; included because a line passes through"]);
+    if (!p.v) facts.push(["Verses", "Not named; included because a line passes through"]);
     if (p.by != null || p.dy != null) facts.push(["Lived", `${p.by != null ? yl(p.by) : "?"} – ${p.dy != null ? yl(p.dy) : "?"} (Ussher–Jones)`]);
-    if (p.g) facts.push(["Generation", `${p.g} in this family`]);
+    const t = at[i] >= 0 ? TREE[at[i]] : null;
+    if (t && !beside.has(i)) facts.push(["Generation", `${t.c + 1} from Adam`]);
+    else if (p.g) facts.push(["Generation", `${p.g} in this family`]);
     if (onLine.has(i)) facts.push(["Line of Jesus", `Generation ${LINE.indexOf(i) + 1} of ${LINE.length}`]);
     const parents = (p.p || []).map(([j, role, fl]) => [j, fl.includes("a") ? "ancestor" : fl.includes("?") ? "uncertain" : role === "m" ? "mother" : role === "f" ? "father" : ""]);
     const children = kids[i].map(([j, , fl]) => [j, fl.includes("a") ? "descendant" : fl.includes("?") ? "uncertain" : ""]);
@@ -392,23 +517,332 @@ footer p { margin: 0; }
       el("h3", {}, name, dis ? el("span", { class: "dis", text: `First named at ${dis}` }) : null),
       orig.length ? el("div", { class: "orig" }, orig) : null,
       p.b ? el("p", { class: "brief", text: p.b }) : null,
-      el("dl", { class: "facts" }, facts.map(([k, v]) => [el("dt", { text: k }), el("dd", { text: v })])),
+      facts.length ? el("dl", { class: "facts" }, facts.map(([k, v]) => [el("dt", { text: k }), el("dd", { text: v })])) : null,
       chipList("Parents", parents),
       chipList("Spouses", (p.sp || []).map(j => [j])),
       chipList("Siblings", (p.sb || []).map(j => [j])),
-      chipList("Children", children));
+      chipList("Children", children),
+      versesBlock(i));
   }
 
-  // ---- Hourglass tree
-  const svg = d3.select("#tree");
-  const view = svg.append("g");
-  const zoom = d3.zoom().scaleExtent([0.25, 2.5]).on("zoom", e => view.attr("transform", e.transform));
-  svg.call(zoom);
-  const NW = 136, NH = 40, GAPX = 14, LEVEL = 86, UP = 6, DOWN = 3, CAP = 10;
+  /* ---------- The whole family, drawn on a canvas ---------- */
+  // Laid out when the site was built: each person a column (generation) and a row.
+  const CW = 132, RH = 24, BW = 108, BH = 18, BUS = BW + (CW - BW) / 2;
+  const TREE = [], at = new Int32Array(N).fill(-1);
+  for (let j = 0; j < D.tree.length; j += 3) { at[D.tree[j]] = TREE.length; TREE.push({ i: D.tree[j], c: D.tree[j + 1], r: D.tree[j + 2] }); }
+  const beside = new Set(D.beside);
+  let minR = Infinity, maxR = -Infinity, maxC = 0;
+  const cell = new Map();
+  for (const t of TREE) {
+    t.x = t.c * CW; t.y = t.r * RH;
+    minR = Math.min(minR, t.r); maxR = Math.max(maxR, t.r); maxC = Math.max(maxC, t.c);
+    cell.set(t.c * 4096 + t.r + 2048, t);
+    t.up = -1; t.fl = "";
+    if (!beside.has(t.i)) {
+      const ps = (P[t.i].p || []).filter(([j]) => at[j] >= 0 && TREE[at[j]].c === t.c - 1);
+      const f = ps.find(q => q[1] === "f") || ps[0];
+      if (f) { t.up = at[f[0]]; t.fl = f[2]; }
+    }
+  }
+  const down = TREE.map(() => []);
+  TREE.forEach((t, k) => { if (t.up >= 0) down[t.up].push(k); });
+  const byColumn = [];
+  TREE.forEach((t, k) => (byColumn[t.c] = byColumn[t.c] || []).push(k));
+  byColumn.forEach(ks => ks.sort((a, b) => TREE[a].r - TREE[b].r));
+  // Names to show when zoomed out, most often named first.
+  const landmarks = TREE.map((t, k) => k).filter(k => P[TREE[k].i].v >= 12).sort((a, b) => P[TREE[b].i].v - P[TREE[a].i].v);
+  const eraCols = ERAS.map(([name, label]) => [TREE[at[LINE.find(i => P[i].n === name)]]?.c, label]).filter(e => e[0] != null);
 
+  const canvas = document.getElementById("family");
+  const g = canvas.getContext("2d");
+  let W = 0, H = 0, dpr = 1, T = d3.zoomIdentity, colors = {};
+  function readColors() {
+    const cs = getComputedStyle(document.documentElement);
+    for (const k of ["bg", "surface", "ink", "muted", "faint", "line", "lapis", "lapis-soft", "gold", "gold-soft"]) colors[k] = cs.getPropertyValue("--" + k).trim();
+  }
+  readColors();
+  matchMedia("(prefers-color-scheme: dark)").addEventListener("change", () => { readColors(); schedule(); });
+  const FONT = '500 12px "Libre Franklin", system-ui, sans-serif';
+  const ITALIC = 'italic 400 12px "Libre Franklin", system-ui, sans-serif';
+  const labelOf = new Map();
+  function boxLabel(k) {
+    if (labelOf.has(k)) return labelOf.get(k);
+    const p = P[TREE[k].i];
+    g.font = p.u ? ITALIC : FONT;
+    let s = p.n;
+    if (g.measureText(s).width > BW - 12) {
+      while (s.length > 1 && g.measureText(s + "…").width > BW - 12) s = s.slice(0, -1);
+      s += "…";
+    }
+    labelOf.set(k, s);
+    return s;
+  }
+  function resize() {
+    const r = canvas.getBoundingClientRect();
+    dpr = Math.min(2, window.devicePixelRatio || 1);
+    W = r.width; H = r.height;
+    canvas.width = Math.round(W * dpr); canvas.height = Math.round(H * dpr);
+    schedule();
+  }
+  let queued = false;
+  function schedule() { if (!queued) { queued = true; requestAnimationFrame(() => { queued = false; draw(); }); } }
+
+  function draw() {
+    if (!W || view !== "whole") return;
+    const k = T.k;
+    g.setTransform(dpr, 0, 0, dpr, 0, 0);
+    g.clearRect(0, 0, W, H);
+    // The part of the chart in view, in chart units.
+    const x0 = -T.x / k - CW, x1 = (W - T.x) / k + CW, y0 = -T.y / k - RH, y1 = (H - T.y) / k + RH;
+    const vis = t => t.x + BW >= x0 && t.x <= x1 && t.y >= y0 && t.y <= y1;
+    g.setTransform(dpr * k, 0, 0, dpr * k, dpr * T.x, dpr * T.y);
+    const px = 1 / k;
+    const sel = current != null && at[current] >= 0 ? at[current] : -1;
+    // The lines from each parent to their children: a short stem, a bar, and a branch to each.
+    g.lineWidth = Math.max(px, 0.6);
+    g.strokeStyle = colors.faint;
+    g.globalAlpha = k < 0.15 ? 0.6 : 1;
+    g.beginPath();
+    const dashed = [];
+    for (let a = 0; a < TREE.length; a++) {
+      const ks = down[a];
+      if (!ks.length) continue;
+      const p = TREE[a];
+      let lo = p.y, hi = p.y;
+      for (const b of ks) { lo = Math.min(lo, TREE[b].y); hi = Math.max(hi, TREE[b].y); }
+      if (p.x + CW < x0 || p.x > x1 || hi < y0 || lo > y1) continue;
+      g.moveTo(p.x + BW, p.y); g.lineTo(p.x + BUS, p.y);
+      g.moveTo(p.x + BUS, lo); g.lineTo(p.x + BUS, hi);
+      for (const b of ks) {
+        if (TREE[b].fl) { dashed.push(b); continue; }
+        g.moveTo(p.x + BUS, TREE[b].y); g.lineTo(TREE[b].x, TREE[b].y);
+      }
+    }
+    g.stroke();
+    if (dashed.length) {
+      g.setLineDash([4 * px, 3 * px]);
+      g.beginPath();
+      for (const b of dashed) { const t = TREE[b]; g.moveTo(TREE[t.up].x + BUS, t.y); g.lineTo(t.x, t.y); }
+      g.stroke();
+      g.setLineDash([]);
+    }
+    g.globalAlpha = 1;
+    // The line of Jesus, in gold.
+    g.strokeStyle = colors.gold;
+    g.lineWidth = Math.max(2 * px, 1.6);
+    g.beginPath();
+    for (let n = 1; n < LINE.length; n++) {
+      const a = at[LINE[n - 1]], b = at[LINE[n]];
+      if (a < 0 || b < 0) continue;
+      g.moveTo(TREE[a].x + BW, TREE[a].y); g.lineTo(TREE[b].x, TREE[b].y);
+    }
+    g.stroke();
+    // The person chosen: their line back to Adam, and lines to a mother, a spouse or children
+    // drawn elsewhere on the chart.
+    const near = new Set();
+    if (sel >= 0) {
+      g.strokeStyle = colors.lapis;
+      g.lineWidth = Math.max(2 * px, 1.4);
+      g.beginPath();
+      for (let a = sel; TREE[a].up >= 0; a = TREE[a].up) {
+        const t = TREE[a], p = TREE[t.up];
+        g.moveTo(p.x + BW, p.y); g.lineTo(p.x + BUS, p.y); g.lineTo(p.x + BUS, t.y); g.lineTo(t.x, t.y);
+      }
+      for (const b of down[sel]) {
+        const p = TREE[sel], t = TREE[b];
+        g.moveTo(p.x + BW, p.y); g.lineTo(p.x + BUS, p.y); g.lineTo(p.x + BUS, t.y); g.lineTo(t.x, t.y);
+        near.add(b);
+      }
+      g.stroke();
+      const s = TREE[sel], pi = P[s.i];
+      const curve = (a, b) => {   // from a's right edge to b's left edge
+        const ax = a.x + BW, bx = b.x, mx = (ax + bx) / 2;
+        g.moveTo(ax, a.y); g.bezierCurveTo(mx, a.y, mx, b.y, bx, b.y);
+      };
+      const loop = (a, b) => {    // two people in one column: a bracket on the left
+        const lx = Math.min(a.x, b.x) - 10;
+        g.moveTo(a.x, a.y); g.lineTo(lx, a.y); g.lineTo(lx, b.y); g.lineTo(b.x, b.y);
+      };
+      g.setLineDash([5 * px, 4 * px]);
+      g.beginPath();
+      for (const [j] of pi.p || []) {
+        const a = at[j];
+        if (a >= 0 && a !== s.up) { curve(TREE[a], s); near.add(a); }
+      }
+      for (const [c] of kids[s.i]) {
+        const b = at[c];
+        if (b >= 0 && TREE[b].up !== sel) { curve(s, TREE[b]); near.add(b); }
+      }
+      for (const j of pi.sp || []) {
+        const b = at[j];
+        if (b < 0) continue;
+        near.add(b);
+        if (TREE[b].c === s.c) loop(s, TREE[b]);
+        else if (TREE[b].c < s.c) curve(TREE[b], s); else curve(s, TREE[b]);
+      }
+      g.stroke();
+      g.setLineDash([]);
+      if (s.up >= 0) near.add(s.up);
+    }
+    // The people: a box each. Names go inside once there is room for them.
+    const inside = k >= 0.62;
+    g.textBaseline = "middle";
+    for (let a = 0; a < TREE.length; a++) {
+      const t = TREE[a];
+      if (!vis(t)) continue;
+      const line = onLine.has(t.i), chosen = a === sel, p = P[t.i];
+      if (k < 0.12) {
+        g.fillStyle = chosen || near.has(a) ? colors.lapis : line ? colors.gold : colors.faint;
+        g.fillRect(t.x, t.y - BH / 2, BW, BH);
+        continue;
+      }
+      g.fillStyle = chosen ? colors.lapis : line ? colors["gold-soft"] : colors.surface;
+      g.strokeStyle = chosen || near.has(a) ? colors.lapis : line ? colors.gold : colors.faint;
+      g.lineWidth = near.has(a) || chosen ? Math.max(1.6 * px, 1.2) : Math.max(px, 0.8);
+      if (beside.has(t.i)) g.setLineDash([4 * px, 3 * px]);
+      g.beginPath();
+      g.roundRect(t.x, t.y - BH / 2, BW, BH, 5);
+      g.fill(); g.stroke();
+      if (beside.has(t.i)) g.setLineDash([]);
+      if (inside) {
+        g.fillStyle = chosen ? colors.surface : p.u ? colors.muted : colors.ink;
+        g.font = p.u ? ITALIC : FONT;
+        g.fillText(boxLabel(a), t.x + 6, t.y + 0.5);
+      }
+    }
+    // The eras of the line, kept in view along the top.
+    g.setTransform(dpr, 0, 0, dpr, 0, 0);
+    g.fillStyle = colors.surface;
+    g.globalAlpha = 0.9;
+    g.fillRect(0, 0, W, 24);
+    g.globalAlpha = 1;
+    g.fillStyle = colors.line;
+    g.fillRect(0, 24, W, 1);
+    g.font = '600 10.5px "Libre Franklin", system-ui, sans-serif';
+    for (let e = 0; e < eraCols.length; e++) {
+      const [c, label] = eraCols[e];
+      const next = e + 1 < eraCols.length ? eraCols[e + 1][0] * CW * k + T.x : Infinity;
+      const text = label.toUpperCase();
+      const w = g.measureText(text).width;
+      let sx = Math.max(c * CW * k + T.x, 8);
+      if (sx + w + 12 > next) sx = next - w - 12;
+      if (sx + w < 0 || sx > W) continue;
+      g.fillStyle = colors.gold;
+      g.fillText(text, sx, 12.5);
+    }
+    // Zoomed out: the best-known names, wherever they fit.
+    if (!inside) {
+      const taken = [];
+      const fits = (x, y, w, h) => !taken.some(r => x < r[2] && x + w > r[0] && y < r[3] && y + h > r[1]);
+      g.font = '600 12px "Libre Franklin", system-ui, sans-serif';
+      g.lineJoin = "round";
+      let n = 0;
+      const order = sel >= 0 ? [sel, ...landmarks] : landmarks;
+      for (const a of order) {
+        if (n >= 90) break;
+        const t = TREE[a];
+        if (!vis(t)) continue;
+        const sx = t.x * k + T.x, sy = t.y * k + T.y;
+        const text = P[t.i].n, w = g.measureText(text).width + 6;
+        const bx = sx - 2, by = sy - 8;
+        if (by < 26 || !fits(bx, by, w, 16)) continue;
+        taken.push([bx, by, bx + w, by + 16]);
+        g.strokeStyle = colors.surface; g.lineWidth = 3.5;
+        g.strokeText(text, bx + 3, sy + 0.5);
+        g.fillStyle = a === sel ? colors.lapis : onLine.has(t.i) ? colors.gold : colors.ink;
+        g.fillText(text, bx + 3, sy + 0.5);
+        n++;
+      }
+    }
+  }
+
+  // Panning and zooming. A scroll wheel scrolls the page unless Ctrl or Cmd is held (as a
+  // trackpad pinch is), so the chart never traps the reader.
+  const zoom = d3.zoom()
+    .scaleExtent([0.02, 2.5])
+    .clickDistance(6)
+    .filter(ev => (ev.type === "wheel" ? ev.ctrlKey || ev.metaKey : !ev.button))
+    .on("zoom", ev => { T = ev.transform; schedule(); });
+  const cz = d3.select(canvas).call(zoom);
+  function fitAll(animate) {
+    const bw = (maxC + 1) * CW, bh = (maxR - minR + 2) * RH;
+    const k = Math.min((W - 24) / bw, (H - 40) / bh);
+    const t = d3.zoomIdentity.translate((W - bw * k) / 2, 30 + (H - 30 - bh * k) / 2 - (minR - 1) * RH * k).scale(k);
+    (animate && !reduced() ? cz.transition().duration(600) : cz).call(zoom.transform, t);
+  }
+  function flyTo(i, animate) {
+    const t = TREE[at[i]];
+    const k = Math.max(T.k, 0.95);
+    const narrow = W < 640;
+    const target = d3.zoomIdentity.translate(W * (narrow ? 0.38 : 0.42) - (t.x + BW / 2) * k, H * (narrow ? 0.4 : 0.5) - t.y * k).scale(k);
+    (animate && !reduced() ? cz.transition().duration(650) : cz).call(zoom.transform, target);
+  }
+  function nodeAt(sx, sy) {
+    const k = T.k, wx = (sx - T.x) / k, wy = (sy - T.y) / k;
+    const c0 = Math.floor(wx / CW), r0 = Math.round(wy / RH);
+    let best = null, bestD = 16;
+    const spanR = Math.max(1, Math.ceil(16 / (RH * k)));
+    for (let c = c0 - 1; c <= c0 + 1; c++)
+      for (let r = r0 - spanR; r <= r0 + spanR; r++) {
+        const t = cell.get(c * 4096 + r + 2048);
+        if (!t) continue;
+        const dx = Math.max(t.x - wx, 0, wx - (t.x + BW)) * k, dy = Math.max(Math.abs(wy - t.y) - BH / 2, 0) * k;
+        const d = Math.hypot(dx, dy);
+        if (d < bestD) { bestD = d; best = t; }
+      }
+    return best;
+  }
+  canvas.addEventListener("click", ev => {
+    const r = canvas.getBoundingClientRect();
+    const t = nodeAt(ev.clientX - r.left, ev.clientY - r.top);
+    if (t) select(t.i, { peek: true });
+  });
+  canvas.addEventListener("mousemove", ev => {
+    const r = canvas.getBoundingClientRect();
+    const t = nodeAt(ev.clientX - r.left, ev.clientY - r.top);
+    canvas.style.cursor = t ? "pointer" : "";
+    canvas.title = t ? P[t.i].t + (P[t.i].b ? ` — ${P[t.i].b}` : "") : "";
+  });
+  // Keys: left to the parent, right to a child, up and down within the generation.
+  canvas.addEventListener("keydown", ev => {
+    if (ev.key === "+" || ev.key === "=") { cz.call(zoom.scaleBy, 1.4); return; }
+    if (ev.key === "-") { cz.call(zoom.scaleBy, 1 / 1.4); return; }
+    if (current == null || at[current] < 0) {
+      if (ev.key.startsWith("Arrow")) { ev.preventDefault(); select(LINE[0], { fly: true }); }
+      return;
+    }
+    const a = at[current], t = TREE[a];
+    let to = -1;
+    if (ev.key === "ArrowLeft") to = t.up;
+    else if (ev.key === "ArrowRight") {
+      const ks = down[a];
+      to = ks.length ? (ks.find(b => onLine.has(TREE[b].i) && onLine.has(t.i)) ?? ks.reduce((m, b) => (Math.abs(TREE[b].r - t.r) < Math.abs(TREE[m].r - t.r) ? b : m), ks[0])) : -1;
+    } else if (ev.key === "ArrowUp" || ev.key === "ArrowDown") {
+      const col = byColumn[t.c], n = col.indexOf(a) + (ev.key === "ArrowUp" ? -1 : 1);
+      to = n >= 0 && n < col.length ? col[n] : -1;
+    } else if (ev.key === "Enter") { card.focus(); card.scrollIntoView({ block: "nearest" }); return; }
+    else return;
+    ev.preventDefault();
+    if (to >= 0) select(TREE[to].i, { fly: true });
+  });
+  let started = false;
+  new ResizeObserver(() => {
+    if (canvas.hidden) return;
+    resize();
+    if (!started) { started = true; start(); }
+  }).observe(canvas);
+
+  /* ---------- The close family: an hourglass ---------- */
+  const svg = d3.select("#tree");
+  const hview = svg.append("g");
+  const hzoom = d3.zoom().scaleExtent([0.25, 2.5])
+    .filter(ev => (ev.type === "wheel" ? ev.ctrlKey || ev.metaKey : !ev.button))
+    .on("zoom", e => hview.attr("transform", e.transform));
+  svg.call(hzoom);
+  const NW = 136, NH = 40, GAPX = 14, LEVEL = 86, UP = 6, DOWN = 3, CAP = 10;
   function ancestors(i, depth, seen) {
     const node = { i, children: [] };
-    if (depth < UP) for (const [j, role, fl] of (P[i].p || [])) {
+    if (depth < UP) for (const [j, , fl] of (P[i].p || [])) {
       if (seen.has(j)) continue;
       const c = ancestors(j, depth + 1, new Set([...seen, j]));
       c.flags = fl;
@@ -437,22 +871,23 @@ footer p { margin: 0; }
     return h;
   }
   const short = (s, n = 19) => (s.length > n ? `${s.slice(0, n - 1)}…` : s);
-  function drawTree(i) {
+  let hourglassNote = "";
+  function drawHourglass(i) {
     const up = layout(ancestors(i, 0, new Set([i])), -1);
-    const down = layout(descendants(i, 0, new Set([i])), 1);
-    const nodes = [...up.descendants(), ...down.descendants().slice(1)];
-    const links = [...up.links().map(l => ({ a: l.target, b: l.source })), ...down.links().map(l => ({ a: l.source, b: l.target }))];
-    view.selectAll("*").remove();
+    const below = layout(descendants(i, 0, new Set([i])), 1);
+    const nodes = [...up.descendants(), ...below.descendants().slice(1)];
+    const links = [...up.links().map(l => ({ a: l.target, b: l.source })), ...below.links().map(l => ({ a: l.source, b: l.target }))];
+    hview.selectAll("*").remove();
     const levels = new Set(nodes.map(d => d.y));
     const xs = nodes.map(d => d.x);
-    const minX = Math.min(...xs) - NW, maxX = Math.max(...xs) + NW;
+    const minX = Math.min(...xs) - NW;
     for (const y of levels) {
       if (y === 0) continue;
-      const g = Math.round(Math.abs(y) / LEVEL);
-      const label = y < 0 ? (g === 1 ? "Parents" : g === 2 ? "Grandparents" : `${g} generations up`) : (g === 1 ? "Children" : g === 2 ? "Grandchildren" : `${g} generations down`);
-      view.append("text").attr("class", "gen-label").attr("x", minX - 8).attr("y", y + 4).attr("text-anchor", "end").text(label.toUpperCase());
+      const n = Math.round(Math.abs(y) / LEVEL);
+      const label = y < 0 ? (n === 1 ? "Parents" : n === 2 ? "Grandparents" : `${n} generations up`) : (n === 1 ? "Children" : n === 2 ? "Grandchildren" : `${n} generations down`);
+      hview.append("text").attr("class", "gen-label").attr("x", minX - 8).attr("y", y + 4).attr("text-anchor", "end").text(label.toUpperCase());
     }
-    view.append("g").selectAll("path").data(links).join("path")
+    hview.append("g").selectAll("path").data(links).join("path")
       .attr("class", l => {
         const child = l.a.y < l.b.y ? l.b : l.a;
         const fl = child.data.flags || "";
@@ -464,62 +899,104 @@ footer p { margin: 0; }
         const mid = (top.y + NH / 2 + bot.y - NH / 2) / 2;
         return `M${top.x},${top.y + NH / 2}V${mid}H${bot.x}V${bot.y - NH / 2}`;
       });
-    const g = view.append("g").selectAll("g").data(nodes).join("g")
+    const gs = hview.append("g").selectAll("g").data(nodes).join("g")
       .attr("class", d => `node${d.data.more ? " more" : ""}${d.data.i === i ? " focus" : ""}${onLine.has(d.data.i) ? " line" : ""}`)
       .attr("transform", d => `translate(${d.x - NW / 2},${d.y - NH / 2})`)
       .attr("role", "button").attr("tabindex", 0)
       .attr("aria-label", d => (d.data.more ? `${d.data.more} more children` : P[d.data.i].t))
-      .on("click", (e, d) => (d.data.more ? showAllChildren(d.data.of) : select(d.data.i, true)))
-      .on("keydown", (e, d) => { if (e.key === "Enter" || e.key === " ") { e.preventDefault(); d.data.more ? showAllChildren(d.data.of) : select(d.data.i, true); } });
-    g.append("rect").attr("width", NW).attr("height", NH).attr("rx", 9);
-    g.append("text").attr("x", 10).attr("y", 17).text(d => (d.data.more ? `+${d.data.more} more` : short(split(P[d.data.i])[0])));
-    g.append("text").attr("class", "sub").attr("x", 10).attr("y", 31).text(d => {
+      .on("click", (e, d) => (d.data.more ? showAllChildren(d.data.of) : select(d.data.i, { peek: true })))
+      .on("keydown", (e, d) => { if (e.key === "Enter" || e.key === " ") { e.preventDefault(); d.data.more ? showAllChildren(d.data.of) : select(d.data.i); } });
+    gs.append("rect").attr("width", NW).attr("height", NH).attr("rx", 9);
+    gs.append("text").attr("x", 10).attr("y", 17).text(d => (d.data.more ? `+${d.data.more} more` : short(split(P[d.data.i])[0])));
+    gs.append("text").attr("class", "sub").attr("x", 10).attr("y", 31).text(d => {
       if (d.data.more) return "see the list";
       const p = P[d.data.i];
-      return p.by != null ? `${yl(p.by)}` : (p.u ? "unnamed" : p.f.replace(/(\d+):(\d+)$/, "$1:$2"));
+      return p.by != null ? `${yl(p.by)}` : (p.u ? "unnamed" : p.f);
     });
-    g.append("title").text(d => (d.data.more ? "" : `${P[d.data.i].t}${P[d.data.i].b ? ` — ${P[d.data.i].b}` : ""}`));
-    const nu = up.descendants().length - 1, nd = down.descendants().filter(d => !d.data.more).length - 1;
-    document.getElementById("tree-note").textContent =
-      `${nu ? `${nu} ancestor${nu > 1 ? "s" : ""} up to ${UP} generations` : "No recorded parents"} · ` +
+    gs.append("title").text(d => (d.data.more ? "" : `${P[d.data.i].t}${P[d.data.i].b ? ` — ${P[d.data.i].b}` : ""}`));
+    const nu = up.descendants().length - 1, nd = below.descendants().filter(d => !d.data.more).length - 1;
+    hourglassNote = `${nu ? `${nu} ancestor${nu > 1 ? "s" : ""} up to ${UP} generations` : "No recorded parents"} · ` +
       `${nd ? `${nd} descendant${nd > 1 ? "s" : ""} up to ${DOWN} generations` : "No recorded children"}`;
-    fit(false);
+    fitHourglass(false);
   }
   function showAllChildren(i) {
-    select(i, true);
-    const chips = card.querySelectorAll(".rel");
-    const last = chips[chips.length - 1];
+    select(i);
+    const rels = card.querySelectorAll(".rel");
+    const last = [...rels].find(r => r.querySelector("h4")?.textContent.startsWith("Children"));
     last?.querySelector(".more")?.click();
-    last?.scrollIntoView({ block: "nearest", behavior: "smooth" });
+    last?.scrollIntoView({ block: "nearest", behavior: reduced() ? "auto" : "smooth" });
   }
-  function fit(animate) {
-    // Fit the whole tree when it is small; otherwise keep names readable and centre on the person.
-    const box = view.node().getBBox();
+  function fitHourglass(animate) {
+    const box = hview.node().getBBox();
     const w = svg.node().clientWidth, h = svg.node().clientHeight;
     if (!box.width || !w) return;
     const k = Math.max(w < 600 ? 0.55 : 0.7, Math.min(1, 0.9 * Math.min(w / box.width, h / box.height)));
     const cx = box.width * k <= w ? box.x + box.width / 2 : 0;
     const cy = box.height * k <= h ? box.y + box.height / 2 : 0;
     const t = d3.zoomIdentity.translate(w / 2 - k * cx, h / 2 - k * cy).scale(k);
-    (animate && !matchMedia("(prefers-reduced-motion: reduce)").matches ? svg.transition().duration(400) : svg).call(zoom.transform, t);
+    (animate && !reduced() ? svg.transition().duration(400) : svg).call(hzoom.transform, t);
   }
-  document.getElementById("zoom-in").onclick = () => svg.transition().duration(200).call(zoom.scaleBy, 1.3);
-  document.getElementById("zoom-out").onclick = () => svg.transition().duration(200).call(zoom.scaleBy, 1 / 1.3);
-  document.getElementById("zoom-fit").onclick = () => fit(true);
-  new ResizeObserver(() => current != null && fit(false)).observe(svg.node());
 
-  // ---- Selection
-  function select(i, scroll) {
+  /* ---------- Views, the peek and the tools ---------- */
+  const peek = document.getElementById("peek");
+  const note = document.getElementById("tree-note");
+  function setView(v) {
+    view = v;
+    for (const b of document.querySelectorAll(".seg button")) b.setAttribute("aria-pressed", String(b.dataset.view === v));
+    canvas.hidden = v !== "whole";
+    document.getElementById("tree").toggleAttribute("hidden", v !== "close");   // an SVG element has no .hidden
+    document.getElementById("legend-whole").hidden = v !== "whole";
+    document.getElementById("legend-close").hidden = v !== "close";
+    peek.hidden = true;
+    if (v === "close" && current != null) drawHourglass(current);
+    if (v === "whole") {
+      resize();
+      if (current != null && at[current] >= 0) flyTo(current, false);
+    }
+    updateNote();
+  }
+  function updateNote() {
+    if (view === "close") { note.textContent = hourglassNote; return; }
+    const outside = current != null && at[current] < 0;
+    note.textContent = outside ? `${split(P[current])[0]} is not in the family of Adam as the Bible records it. Choose Close family to see their own family.`
+      : `${fmt.format(TREE.length)} people over ${maxC + 1} generations. Pinch, or hold Ctrl or ⌘ and scroll, to zoom.`;
+  }
+  for (const b of document.querySelectorAll(".seg button")) b.onclick = () => setView(b.dataset.view);
+  document.getElementById("zoom-in").onclick = () => (view === "whole" ? cz.transition().duration(200).call(zoom.scaleBy, 1.5) : svg.transition().duration(200).call(hzoom.scaleBy, 1.3));
+  document.getElementById("zoom-out").onclick = () => (view === "whole" ? cz.transition().duration(200).call(zoom.scaleBy, 1 / 1.5) : svg.transition().duration(200).call(hzoom.scaleBy, 1 / 1.3));
+  document.getElementById("zoom-fit").onclick = () => (view === "whole" ? fitAll(true) : fitHourglass(true));
+  new ResizeObserver(() => current != null && view === "close" && fitHourglass(false)).observe(svg.node());
+  function showPeek(i) {
+    const p = P[i];
+    const [name] = split(p);
+    const bits = [relText(p), p.by != null ? `born ${yl(p.by)}` : null, p.b].filter(Boolean);
+    peek.replaceChildren(
+      el("b", { text: name }),
+      bits.length ? el("p", { text: bits.join(" · ") }) : null,
+      el("div", { class: "acts" },
+        view === "whole" ? el("button", { type: "button", text: "Close family", onclick: () => setView("close") })
+          : at[i] >= 0 ? el("button", { type: "button", text: "Whole family", onclick: () => setView("whole") }) : null,
+        el("button", { type: "button", text: "Details", onclick: () => { peek.hidden = true; card.scrollIntoView({ behavior: reduced() ? "auto" : "smooth", block: "start" }); } })));
+    peek.hidden = false;
+  }
+
+  /* ---------- Choosing a person ---------- */
+  function select(i, opts = {}) {
     current = i;
     renderCard(i);
-    drawTree(i);
     thread.querySelectorAll("button[aria-current]").forEach(b => b.removeAttribute("aria-current"));
     thread.querySelector(`button[data-i="${i}"]`)?.setAttribute("aria-current", "true");
     try { history.replaceState(null, "", `#p${i}`); } catch (e) { /* the viewer may not allow it */ }
-    if (scroll) document.getElementById("explore").scrollIntoView({ behavior: matchMedia("(prefers-reduced-motion: reduce)").matches ? "auto" : "smooth", block: "start" });
+    if (view === "whole" && at[i] < 0 && !opts.stay) setView("close");
+    else if (view === "close") drawHourglass(i);
+    else if (opts.fly && W) flyTo(i, true);
+    schedule();
+    updateNote();
+    if (opts.peek && innerWidth < 980) showPeek(i); else peek.hidden = true;
+    if (opts.scroll) document.getElementById("explore").scrollIntoView({ behavior: reduced() ? "auto" : "smooth", block: "start" });
   }
 
-  // ---- Search
+  /* ---------- Search ---------- */
   const q = document.getElementById("q"), results = document.getElementById("results");
   const norm = s => s.normalize("NFD").replace(/[̀-ͯ]/g, "").toLowerCase();
   const index = P.map((p, i) => ({ i, keys: [p.n, p.t, ...(p.a || [])].map(norm) }));
@@ -543,7 +1020,7 @@ footer p { margin: 0; }
     q.setAttribute("aria-expanded", hits.length ? "true" : "false");
     if (active >= 0) q.setAttribute("aria-activedescendant", `opt-${active}`); else q.removeAttribute("aria-activedescendant");
   }
-  function choose(i) { hits = []; showResults(); q.value = ""; select(i, false); card.focus?.(); }
+  function choose(i) { hits = []; showResults(); q.value = ""; q.blur(); select(i, { fly: true, peek: true }); }
   q.addEventListener("input", () => { hits = search(q.value); active = hits.length ? 0 : -1; showResults(); });
   q.addEventListener("keydown", e => {
     if (e.key === "ArrowDown" && hits.length) { active = (active + 1) % hits.length; showResults(); e.preventDefault(); }
@@ -553,9 +1030,18 @@ footer p { margin: 0; }
   });
   q.addEventListener("blur", () => setTimeout(() => { hits = []; showResults(); }, 120));
 
-  // ---- Start: the person in the link, else David.
-  const fromHash = /^#p(\d+)$/.exec(location.hash);
-  const david = P.findIndex(p => p.n === "David" && (p.v || 0) > 500);
-  select(fromHash && P[+fromHash[1]] ? +fromHash[1] : (david >= 0 ? david : LINE[LINE.length - 1]), false);
+  /* ---------- Start: the person in the link, else David ---------- */
+  function start() {
+    const m = /^#p(\d+)$/.exec(location.hash);
+    const david = P.findIndex(p => p.n === "David" && (p.v || 0) > 500);
+    const i = m && P[+m[1]] ? +m[1] : (david >= 0 ? david : LINE[LINE.length - 1]);
+    select(i, { stay: true });
+    if (at[i] >= 0) flyTo(i, false); else { fitAll(false); setView("close"); }
+    (document.fonts ? document.fonts.ready : Promise.resolve()).then(() => { labelOf.clear(); schedule(); });
+  }
+  addEventListener("hashchange", () => {
+    const m = /^#p(\d+)$/.exec(location.hash);
+    if (m && P[+m[1]] && +m[1] !== current) select(+m[1], { fly: true });
+  });
 })();
 </script>

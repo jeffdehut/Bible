@@ -35,12 +35,13 @@ connections/                     Obsidian notes: cross-references, people, place
   genealogy/                     Family groups, generation by generation
   events/ timeline/              Dated events, century notes, synchronisms, the chart
 data/                            Curated rulers, eras, world events and synchronisms (see data/README.md)
-  bible/                         The reader's data, one file per book (built by scripts/reader.py),
-                                 and places.json, the places each verse names (scripts/maps.py)
+  bible/                         The reader's data, one file per book (built by scripts/reader.py);
+                                 places.json, the places each verse names (scripts/maps.py); and
+                                 people.json, the people each verse names (scripts/connections.py)
   genealogy.json, history.json   The data inlined in genealogy.html and history.html
 index.html                       The website's home page, the reader: the translation, with the Hebrew,
                                  Aramaic and Greek beneath
-genealogy.html                   The Generations: the line from Adam to Jesus and a family explorer
+genealogy.html                   The Generations: the whole family of Adam on one chart, and anyone's family
 history.html                     Streams of Time: world history, AD 30 to today, beside the Bible
 maps/
   index.html                     The Bible maps: eight sheets, in the order of the Bible's history
@@ -67,6 +68,7 @@ scripts/
   timeline.py, chart.py          and the synchronological chart
   webpages.py                    Builds genealogy.html and history.html (run by connections.py),
                                  and the bar and page head the other pages share
+  familytree.py                  Lays out the whole family of Adam for the genealogy viewer
   maps.py                        Builds the maps in maps/ from elevation and place data
   reader.py                      Builds the reader's data in data/bible/
   templates/                     The page sources the scripts fill with data
@@ -168,6 +170,17 @@ Maps, Genealogy and Timeline), the reader's colors and its light or dark setting
 the genealogy and the timeline for readers who don't use Obsidian. Each is a single file
 that opens in a browser, works on phones, and follows the reader's light or dark setting.
 `scripts/connections.py` rebuilds them from `scripts/templates/` and the same data as the notes.
+
+The genealogy's chart shows the whole family of Adam, 1,074 people with the families who
+married into it, generation by generation from left to right, with the line from Adam to
+Jesus straight through in gold. It is laid out once when the site is built
+(`scripts/familytree.py`, a tidy-tree layout in which no two lines of descent cross) and
+drawn on a canvas, so it pans and pinch-zooms smoothly on a phone; names appear as there is
+room for them. Tapping anyone shows their family and the verses that name them, each a link
+to the reader; *Close family* shows their ancestors and descendants as an hourglass, and works
+for the two thousand people outside Adam's family too. In the reader, a verse lists the people
+it names under *People*, each opening in the genealogy. The names come from STEPBible's TIPNR,
+which marks them in the Hebrew, Aramaic and Greek.
 
 `maps/index.html` is the set of Bible maps: eight sheets after the Eilers Sunday School wall
 maps, redrawn from open data (see the map style in [ROADMAP.md](ROADMAP.md)). In the order of

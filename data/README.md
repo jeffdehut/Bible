@@ -9,7 +9,9 @@ The folder also holds data built for the website. The scripts regenerate it, so 
 by hand:
 
 - `bible/`: the reader's books, word data, lexicon and search index (`scripts/reader.py`)
-- `genealogy.json`, `history.json`: the data inlined in `genealogy.html` and `history.html`
+- `genealogy.json`, `history.json`: the data inlined in `genealogy.html` and `history.html`. The genealogy's
+  is in columns, one entry per person, with the layout of the family chart; its fields are described
+  in `scripts/webpages.py` (`genealogy_data`)
   (`scripts/connections.py`)
 
 ## rulers.csv

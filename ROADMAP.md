@@ -73,8 +73,8 @@ Chinese translation.
   with the translation.
 - Highlights on part of a verse (the stored format already allows a position within the
   verse), and notes on a passage.
-- Links from people to the genealogy. (Places link to the maps: a verse lists the places it
-  names under *On the maps*, and each opens on its sheet.)
+- Links from people to the genealogy and from places to the maps are done: a verse lists the
+  people it names under *People* and the places under *On the maps*.
 - Cross-references beside each verse (OpenBible.info, already in `connections/`).
 
 ## 2. Maps
@@ -272,19 +272,26 @@ cross, so borders tend to follow them. A few towns are assigned by hand, with th
 in `scripts/maps.py`. The result is marked as approximate and needs review by someone who
 knows the historical geography.
 
-## 3. Genealogy viewer
+## 3. Genealogy viewer (built)
 
-- **Everyone connected.** All 1,025 people in Adam's family across 78 generations, the line
-  from Adam to Jesus highlighted, and the other families linked by marriage.
+- **Everyone connected.** The whole family of Adam on one chart: 1,074 people over 76
+  generations, with the families who married into it (Saul's through Michal, Ruth beside
+  Boaz). The line from Adam to Jesus runs straight through in gold; choosing anyone draws
+  their line back to Adam and their links to a mother or spouse set elsewhere on the chart.
 - **Built for phones.**
-  - The tree is laid out once when the site is built, not on the phone.
+  - The chart is laid out once when the site is built (`scripts/familytree.py`), not on the
+    phone, in a tidy-tree layout where no two lines of descent cross.
   - It's drawn on a canvas instead of thousands of page elements.
-  - Names appear only when zoomed in far enough to read them.
-  - The data holds only what the viewer draws, in a compact format. Today's file is 866 KB
-    (146 KB compressed) and should shrink well below that.
-  - Targets: smooth pinch-zoom and panning on a mid-range phone, usable within 2 seconds.
-- **Finding people.** Search, a focused view of one person's family (the present hourglass
-  view), and links to the passages where they appear and the places they lived.
+  - Names appear inside the boxes once there is room; zoomed out, the best-known names show
+    wherever they fit, and the eras of the line stay in view along the top.
+  - The data is in columns, with the layout: 420 KB for the whole page (111 KB compressed),
+    down from 617 KB (141 KB), though it now holds the chart too.
+  - Measured on a phone-sized screen with the processor slowed four times: usable in 1.1
+    seconds, and every frame of panning and pinching drawn in under 8 ms.
+- **Finding people.** Search; the hourglass of one person's close family, for anyone,
+  inside Adam's family or not; and the verses that name each person, each a link to the
+  reader. The reader lists the people a verse names, each opening in the genealogy.
+- **Still to come:** the places each person lived, linked to the maps.
 
 ## 4. Accounts (later)
 
@@ -332,7 +339,7 @@ A new translation into Traditional Chinese (繁體中文), made like the English
    done).
 2. Maps: the set of eight sheets is done, as drafts for review, and linked both ways with the
    reader.
-3. Genealogy viewer.
+3. Genealogy viewer (built).
 4. Phrase-level original language, alongside human review of the English.
 5. Accounts.
 6. Traditional Chinese, once the English is finished.

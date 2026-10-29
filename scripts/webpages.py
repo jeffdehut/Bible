@@ -13,7 +13,10 @@ beyond its web fonts and one charting library.
 import json
 import os
 import re
+import unicodedata
 
+import familytree
+from books import BOOKS
 from chronology import year_label
 from notes import ROOT, ref_label
 
@@ -39,53 +42,108 @@ def _dump(obj):
 
 
 def genealogy_data(ctx, family_of, groups):
+    """The genealogy page's data, in columns: one entry per person in each list.
+
+    n names; s sex (M, F or -); f the first verse naming them, as [book, chapter, verse]
+    with the books in "books"; v how many verses name them; tr tribe (1 + its index in
+    "tribes", or 0); g their generation in their family (0 if none); p their parents as
+    [parent, kind, ...], where kind is 1 for a father, 2 a mother, 0 not known, plus 4 for an
+    ancestor link that skips generations and 8 for an uncertain one (0 for none); b a brief
+    description. Sparse, keyed by person: u unnamed, o names in the original languages, a
+    other names, sp spouses, sb siblings who share no recorded parent, by and dy years of
+    birth and death. A title adds the first verse to a name that several people share.
+
+    tree lays out the whole family of Adam, and the families married into it, for the viewer:
+    [person, generation, row, ...], the line of Jesus on row 0; beside lists those set next
+    to a spouse rather than under a parent."""
     ents, gen = ctx.entities, ctx.gen
     people = [i for i, e in enumerate(ents) if e["kind"] == "person"]
     pos = {i: k for k, i in enumerate(people)}
-    out = []
-    for i in people:
+    order = {osis: k for k, (_, osis, _, _) in enumerate(BOOKS)}
+    tribes = sorted({gen.tribe[i] for i in people if gen.tribe.get(i)})
+    cols = {k: [] for k in ("n", "s", "f", "v", "tr", "g", "p", "b")}
+    sparse = {k: {} for k in ("u", "o", "a", "sp", "sb", "by", "dy")}
+    for k, i in enumerate(people):
         e = ents[i]
-        rec = {"n": e["name"], "t": ctx.title(i)}
+        cols["n"].append(e["name"])
+        cols["s"].append({"Male": "M", "Female": "F"}.get(gen.sex.get(i), "-"))
+        cols["f"] += [order[e["first"][0]], e["first"][1], e["first"][2]]
+        cols["v"].append(len(e["verses"]))
+        cols["tr"].append(tribes.index(gen.tribe[i]) + 1 if gen.tribe.get(i) else 0)
+        cols["g"].append(family_of[i][1] if i in family_of else 0)
+        ps = []
+        for par, edge in gen.parents[i]:
+            if par in pos:
+                ps += [pos[par], {"father": 1, "mother": 2}.get(edge["role"], 0)
+                       + (4 if "a" in edge["flags"] else 0) + (8 if "?" in edge["flags"] else 0)]
+        cols["p"].append(ps or 0)
+        cols["b"].append(e["brief"])
         if not e["named"]:
-            rec["u"] = 1
-        if gen.sex.get(i) in ("Male", "Female"):
-            rec["s"] = gen.sex[i][0]
-        if gen.tribe.get(i):
-            rec["tr"] = gen.tribe[i]
-        if e["brief"]:
-            rec["b"] = e["brief"]
-        if e["aliases"]:
-            rec["a"] = e["aliases"]
+            sparse["u"][k] = 1
         forms = [f for f, _ in e["forms"] if f and not re.fullmatch(r"[\w\s.'-]*", f, re.A)]
         if forms:
-            rec["o"] = forms[:4]
-        rec["f"] = ref_label(*e["first"])
-        rec["v"] = len(e["verses"])
+            sparse["o"][k] = forms[:4]
+        if e["aliases"]:
+            sparse["a"][k] = e["aliases"]
         if i in ctx.born:
-            rec["by"] = ctx.born[i]
+            sparse["by"][k] = ctx.born[i]
         if i in ctx.died:
-            rec["dy"] = ctx.died[i]
-        parents = [[pos[p], {"father": "f", "mother": "m"}.get(edge["role"], ""),
-                    "".join(sorted(f for f in edge["flags"] if f in "a?"))]
-                   for p, edge in gen.parents[i] if p in pos]
-        if parents:
-            rec["p"] = parents
-        for key, rel in (("sp", gen.partners), ("sb", gen.siblings)):
-            js = sorted(pos[j] for j in rel.get(i, {}) if j in pos)
-            if js:
-                rec[key] = js
-        if i in family_of:
-            rec["g"] = family_of[i][1]
-        out.append(rec)
-    by_root = []
-    for path, root, members, gens in groups[:40]:
-        by_root.append({"r": pos[root], "m": len(members), "g": max(gens.values())})
+            sparse["dy"][k] = ctx.died[i]
+        spouses = sorted(pos[j] for j in gen.partners.get(i, {}) if j in pos)
+        if spouses:
+            sparse["sp"][k] = spouses
+    parents_of = [set(cols["p"][k][0::2]) if cols["p"][k] else set() for k in range(len(people))]
+    for k, i in enumerate(people):
+        apart = sorted(pos[j] for j in gen.siblings.get(i, {}) if j in pos and not parents_of[k] & parents_of[pos[j]])
+        if apart:
+            sparse["sb"][k] = apart
+    by_root = [{"r": pos[root], "m": len(members), "g": max(gens.values())} for _, root, members, gens in groups[:40]]
     jesus = next((i for i in people if ents[i]["id"].startswith("Jesus@Isa.7.14")), None)
     line = [pos[k] for k in gen.paternal_line(jesus)] if jesus is not None else []
     stats = {"people": sum(1 for i in people if ents[i]["named"]), "unnamed": sum(1 for i in people if not ents[i]["named"]),
              "links": sum(1 for (p, c) in gen.parent_edges if p in pos and c in pos),
              "families": len(groups), "largest": len(groups[0][2]), "generations": max(groups[0][3].values())}
-    return {"people": out, "families": by_root, "line": line, "stats": stats}
+
+    # The whole family of Adam, laid out for the viewer.
+    plain = [{"p": [[cols["p"][k][j], "f" if cols["p"][k][j + 1] & 3 == 1 else "m" if cols["p"][k][j + 1] & 3 == 2 else "", ""]
+                    for j in range(0, len(cols["p"][k]), 2)] if cols["p"][k] else [],
+              "sp": sparse["sp"].get(k, [])} for k in range(len(people))]
+    first = {k: tuple(cols["f"][3 * k:3 * k + 3]) for k in range(len(people))}
+    placed, beside, _ = familytree.layout(plain, by_root[0]["r"], line, lambda k: (first[k], k))
+    tree = [x for k in sorted(placed, key=lambda k: (placed[k][0], placed[k][1])) for x in (k, *placed[k])]
+    stats["in_tree"] = len(placed)
+    books = [ref_label(osis, 1, 1).rsplit(" ", 1)[0] for _, osis, _, _ in BOOKS]
+    return {**cols, **sparse, "books": books, "tribes": tribes, "families": by_root, "line": line,
+            "tree": tree, "beside": sorted(beside), "stats": stats}
+
+
+def people_links(ctx):
+    """data/bible/people.json, for the reader and the genealogy: the people each verse names.
+
+    b the books, in order (as in genealogy.json's "books"); n the name each person goes by in
+    the genealogy (null for those no verse names); verses {book: {"chapter:verse": [person,
+    ...]}}, people numbered as in genealogy.json. Verses are in the reader's numbering."""
+    ents = ctx.entities
+    people = [i for i, e in enumerate(ents) if e["kind"] == "person"]
+    # A Psalm's title is verse 0 in English numbering, but our text, like the Hebrew, numbers
+    # it from verse 1, and a long title runs into verse 2: take the verse whose Hebrew has the name.
+    bare = lambda t: re.sub(r"[^\u05d0-\u05ea]", "", unicodedata.normalize("NFD", t))
+    names, verses = [], {}
+    for k, i in enumerate(people):
+        e = ents[i]
+        names.append(e["name"] if e["verses"] else None)
+        forms = [bare(f) for f, _ in e["forms"] if bare(f)]
+        for osis, c, v in e["verses"]:
+            if osis == "Ps" and v == 0:
+                v = next((n for n in (1, 2) if any(f in bare(ctx.texts["Ps"].get((c, n), "")) for f in forms)), 1)
+            verses.setdefault(osis, {}).setdefault(f"{c}:{v}", [])
+            if k not in verses[osis][f"{c}:{v}"]:
+                verses[osis][f"{c}:{v}"].append(k)
+    order = [osis for _, osis, _, _ in BOOKS]
+    out = {"b": order, "n": names,
+           "verses": {b: dict(sorted(verses[b].items(), key=lambda kv: tuple(map(int, kv[0].split(":")))))
+                      for b in order if b in verses}}
+    return out
 
 
 def history_data(ctx):
@@ -212,16 +270,30 @@ def page(name, data):
     return src.replace(marker, f'<script type="application/json" id="data">{_dump(data)}</script>')
 
 
+def _columns(data):
+    """JSON with one key to a line: compact, but a change shows as the keys it touches."""
+    return "{\n" + ",\n".join(f"{json.dumps(k)}:{json.dumps(v, ensure_ascii=False, separators=(',', ':'))}"
+                               for k, v in data.items()) + "\n}\n"
+
+
 def build(ctx, family_of, groups):
-    os.makedirs(os.path.join(SITE, "data"), exist_ok=True)
+    os.makedirs(os.path.join(SITE, "data", "bible"), exist_ok=True)
     pages = {"genealogy": genealogy_data(ctx, family_of, groups), "history": history_data(ctx)}
     for name, data in pages.items():
         with open(os.path.join(SITE, "data", f"{name}.json"), "w", encoding="utf-8", newline="\n") as f:
-            json.dump(data, f, ensure_ascii=False, indent=1)
-            f.write("\n")
+            if name == "genealogy":
+                f.write(_columns(data))
+            else:
+                json.dump(data, f, ensure_ascii=False, indent=1)
+                f.write("\n")
         if os.path.exists(os.path.join(TEMPLATES, f"{name}.html")):
             with open(os.path.join(SITE, f"{name}.html"), "w", encoding="utf-8", newline="\n") as f:
                 f.write(document(page(name, data)))
+    links = people_links(ctx)
+    with open(os.path.join(SITE, "data", "bible", "people.json"), "w", encoding="utf-8", newline="\n") as f:
+        f.write(_columns(links))
     g, h = pages["genealogy"], pages["history"]
-    return (f"Site: {len(g['people'])} people, {g['stats']['links']} parent-child links; "
+    pairs = sum(len(ks) for b in links["verses"].values() for ks in b.values())
+    return (f"Site: {len(g['n'])} people, {g['stats']['links']} parent-child links, {g['stats']['in_tree']} in the "
+            f"tree of Adam's family; {pairs} people named in verses; "
             f"{len(h['items'])} world-history items in {len(h['streams'])} streams")

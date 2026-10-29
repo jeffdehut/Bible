@@ -9,7 +9,7 @@ genealogy.html           The Generations
 history.html             Streams of Time
 maps/index.html          the Bible maps, and the eight sheets beside it
 maps/data/               the maps' data
-data/bible/              the reader's books, word data, lexicon, search index and places
+data/bible/              the reader's books, word data, lexicon, search index, places and people
 icons/, manifest.webmanifest, sw.js   the app icon, install details and offline support
 404.html, robots.txt     the not-found page, and the test site's instructions to crawlers
 ```
