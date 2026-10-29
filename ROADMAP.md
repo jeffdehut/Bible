@@ -73,7 +73,8 @@ Chinese translation.
   with the translation.
 - Highlights on part of a verse (the stored format already allows a position within the
   verse), and notes on a passage.
-- Links from places in the text to the maps, and from people to the genealogy.
+- Links from people to the genealogy. (Places link to the maps: a verse lists the places it
+  names under *On the maps*, and each opens on its sheet.)
 - Cross-references beside each verse (OpenBible.info, already in `connections/`).
 
 ## 2. Maps
@@ -109,7 +110,9 @@ Chinese translation.
   - Paul's three journeys and his voyage to Rome
 
   All of these are drawn now, on eight sheets: see *The set* below.
-- **Linked to the text.** Every route leg links to its verses. Tapping a leg opens the reader.
+- **Linked to the text.** Every stop's verse, and the verse that first names each place, opens
+  the reader. A place opened from the reader links back to its verse. Still to come: tapping a
+  route leg to read the verses it covers.
 - **Uncertainty shown.**
   - Disputed routes and sites, such as the Exodus route and Mount Sinai, appear as labeled
     alternatives.
@@ -240,7 +243,9 @@ What the set settled, beyond the style study:
 - Relief closer to engraved hachures: strokes in tiers between contours rather than scattered
   dashes.
 - Walls on the plan of Jerusalem, if an open survey of the ancient walls can be found.
-- Links from the reader to the maps: a place in the text opens it on its sheet.
+- Links from the reader to the maps (done): a verse lists the places it names, and each opens
+  on the sheet that suits the book, zoomed in, with a link back. Next, the reverse for whole
+  journeys: a route leg opening its verses.
 
 **Map No. 5, The Exodus (done).** `maps/exodus.html` follows the camps of Numbers 33
 and turned the style study into a series: one page template (`scripts/templates/map.html`) filled from
@@ -325,7 +330,8 @@ A new translation into Traditional Chinese (繁體中文), made like the English
 
 1. Foundation and the reader, with verse-level original language and draft labels (stage 1
    done).
-2. Maps: the set of eight sheets is done, as drafts for review; links from the reader come next.
+2. Maps: the set of eight sheets is done, as drafts for review, and linked both ways with the
+   reader.
 3. Genealogy viewer.
 4. Phrase-level original language, alongside human review of the English.
 5. Accounts.

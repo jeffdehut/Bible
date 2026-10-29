@@ -25,6 +25,7 @@ map of the same name. The other sheets follow the Eilers series: Nos. 1 to 6 and
 Ancient Jerusalem (see INDEX).
 """
 
+import collections
 import json
 import math
 import os
@@ -3139,6 +3140,96 @@ def write_index():
         f.write(webpages.document(body, "../", ("#f6f0dd", "#191714")))
 
 
+# --- Links from the reader --------------------------------------------------------------------
+
+# The sheets that show each book's places best, in order of preference: the sheet of the book's
+# own time first. A place goes to the first of these that shows it, else to the most detailed
+# sheet that does; the plan of Jerusalem comes first whenever it shows the place. A book may be
+# split by chapters: (first, last, sheets).
+J1, P1, P2, P7, X5, W4, E6, R3 = ("jerusalem", "palestine", "palestine-history", "kingdoms", "exodus",
+                                  "western-asia", "empires", "roman-empire")
+READER_SHEETS = {
+    "Gen": [W4, P2, X5], "Exod": [X5, W4], "Lev": [X5], "Num": [X5, P2], "Deut": [X5, P2],
+    "Josh": [(1, 12, [P2, P7]), (13, 24, [P7, P2])], "Judg": [P2, P7], "Ruth": [P2], "1Sam": [P2], "2Sam": [P2],
+    "1Kgs": [(1, 11, [P2, P7]), (12, 22, [P7, E6])], "2Kgs": [P7, E6],
+    "1Chr": [P2, P7], "2Chr": [(1, 9, [P2, P7]), (10, 36, [P7, E6])],
+    "Ezra": [E6, P7], "Neh": [E6, P7], "Esth": [E6], "Job": [W4], "Dan": [E6], "Jonah": [E6], "Nah": [E6],
+    "Matt": [P1, R3], "Mark": [P1, R3], "Luke": [P1, R3], "John": [P1, R3],
+    "Acts": [(1, 12, [P1, R3]), (13, 28, [R3, P1])],
+}
+READER_DEFAULT = {"OT": [P7, P2, E6, W4, X5], "NT": [R3, P1]}
+
+
+def write_reader_links():
+    """data/bible/places.json: for each verse, the places it names that a sheet shows, and the
+    sheet to open each on.
+
+    The verses a place is named in come from OpenBible.info, which follows English verse
+    numbers; they are turned into the reader's (Hebrew, in the Old Testament). A verse counts
+    only if our translation names the place in it, in one of the spellings the sheets or
+    OpenBible use: OpenBible also tags verses that only mean the place ("the city")."""
+    sheets = [(slug, no, title) for slug, no, title, _, _ in INDEX
+              if os.path.exists(os.path.join(SITE, "maps", "data", slug + ".json"))]
+    sheet_at = {slug: k for k, (slug, _, _) in enumerate(sheets)}
+    area, shown, names = {}, collections.defaultdict(list), collections.defaultdict(collections.Counter)
+    for slug, _, _ in sheets:
+        d = json.load(open(os.path.join(SITE, "maps", "data", slug + ".json"), encoding="utf-8"))
+        area[slug] = d["sheet"]["width"] * d["sheet"]["height"]
+        for p in d["places"]:
+            pid = p["id"].split("/")[0]
+            shown[pid].append(slug)
+            names[pid][p["n"]] += 1
+    detail = {pid: sorted(slugs, key=lambda s: (s != J1, area[s])) for pid, slugs in shown.items()}
+
+    books = json.load(open(os.path.join(SITE, "data", "bible", "books.json"), encoding="utf-8"))
+    text, english = {}, {}
+    for b in books:
+        d = json.load(open(os.path.join(SITE, "data", "bible", "text", b["slug"] + ".json"), encoding="utf-8"))
+        for ch in d["chapters"]:
+            for row in ch["v"]:
+                text[(b["osis"], ch["c"], row[0])] = re.sub(r"\[\^\w+\]|\*", "", row[1] or "")
+                e = len(row) > 3 and row[3] and row[3].get("e")
+                if e:
+                    english[(b["osis"],) + tuple(map(int, e.split(":")))] = (ch["c"], row[0])
+    testament = {b["osis"]: b["t"] for b in books}
+
+    def order(book, c):
+        prefs = READER_SHEETS.get(book, READER_DEFAULT[testament[book]])
+        if prefs and isinstance(prefs[0], tuple):
+            prefs = next((sh for a, z, sh in prefs if a <= c <= z), READER_DEFAULT[testament[book]])
+        return [J1] + prefs
+
+    table, index, verses, left_out = [], {}, collections.defaultdict(dict), 0
+    for p in places():
+        pid = p["id"]
+        if pid not in shown:
+            continue
+        name = names[pid].most_common(1)[0][0]
+        forms = sorted({name, p["name"], *names[pid], *p["spellings"]} - {""}, key=len, reverse=True)
+        pattern = re.compile(r"(?<![\w-])(" + "|".join(re.escape(f) for f in forms) + r")(?![\w-])")
+        for book, c, v in p["verses"]:
+            c, v = english.get((book, c, v), (c, v))
+            m = pattern.search(text.get((book, c, v), ""))
+            if not m:
+                left_out += 1
+                continue
+            if pid not in index:
+                index[pid] = len(table)
+                table.append([pid, name, [sheet_at[s] for s in detail[pid]]])
+            sheet = next((s for s in order(book, c) if s in shown[pid]), detail[pid][0])
+            entry = [index[pid], sheet_at[sheet]] + ([m[1]] if m[1] != name else [])
+            verses[book].setdefault(f"{c}:{v}", []).append(entry)
+    for book in verses:
+        for k, entries in verses[book].items():
+            entries.sort(key=lambda e: text[(book,) + tuple(map(int, k.split(":")))].find(e[2] if len(e) > 2 else table[e[0]][1]))
+    out = {"sheets": [list(s) for s in sheets], "places": table, "verses": verses}
+    with open(os.path.join(SITE, "data", "bible", "places.json"), "w", encoding="utf-8", newline="\n") as f:
+        json.dump(out, f, ensure_ascii=False, separators=(",", ":"))
+        f.write("\n")
+    pairs = sum(len(e) for b in verses.values() for e in b.values())
+    return f"Reader links: {pairs} places named in {sum(len(b) for b in verses.values())} verses; {left_out} tags left out"
+
+
 MAPS = {"palestine": palestine_map, "palestine-history": palestine_history_map, "roman-empire": roman_map,
         "western-asia": western_asia_map, "exodus": exodus_map, "empires": empires_map, "kingdoms": kingdoms_map,
         "jerusalem": jerusalem_map}
@@ -3156,6 +3247,7 @@ def main():
         lands = len(data["territories"]) or sum(len(P["territories"]) for P in data.get("periods", []))
         print(f"Map No. {page['NO']}, {page['H1']}: {len(data['places'])} places, {lands} territories{extra}")
     write_index()
+    print(write_reader_links())
 
 
 if __name__ == "__main__":

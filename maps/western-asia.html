@@ -200,6 +200,8 @@ button { font: inherit; color: inherit; }
 .card .close { position: absolute; top: 8px; right: 8px; border: 0; background: transparent; border-radius: 8px; padding: 6px; cursor: pointer; }
 .card .close svg { width: 18px; height: 18px; display: block; }
 .card a { color: var(--accent); }
+.card .back { display: inline-flex; align-items: center; gap: 4px; margin: 0 34px 6px 0; font: 600 13px/1.3 var(--sans); text-decoration: none; }
+.card .back svg { width: 15px; height: 15px; flex: none; }
 
 /* Labels drawn over the sheet */
 #labels text { pointer-events: none; }
@@ -910,6 +912,21 @@ const byName = D.places.map((p, i) => ({ i, key: (p.n + " " + (p.a || []).join("
 function confidence(p) {
   return p.s >= 700 ? "Certain or nearly so" : p.s >= 500 ? "Likely" : p.s >= 350 ? "Possible" : "Uncertain";
 }
+// A verse reference ("Matthew 2:1") as a link to it in the reader.
+function readerLink(ref) {
+  const m = /^(.+?) (\d+):(\d+)/.exec(ref || "");
+  if (!m) return ref;
+  const a = document.createElement("a");
+  a.href = `../index.html#${(m[1] === "Psalm" ? "Psalms" : m[1]).toLowerCase().replace(/ /g, "-")}-${m[2]}-${m[3]}`;
+  a.textContent = ref;
+  return a;
+}
+// Opened from the reader: #place=<OpenBible id>&from=<the verse's address in the reader>&ref=<its name>.
+const link = new URLSearchParams(location.hash.slice(1));
+const fromReader = link.get("from") && {
+  href: "../index.html#" + link.get("from"), ref: link.get("ref") || "the reader",
+  direct: (() => { try { const r = new URL(document.referrer), home = new URL("../", location.href); return r.origin === home.origin && (r.pathname === home.pathname || r.pathname === home.pathname + "index.html"); } catch (e) { return false; } })(),
+};
 function cardShell() {
   const card = document.getElementById("card");
   card.innerHTML = "";
@@ -918,6 +935,15 @@ function cardShell() {
   close.innerHTML = '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M6 6l12 12M18 6 6 18"/></svg>';
   close.onclick = () => { card.hidden = true; state.selected = null; render(); };
   card.append(close);
+  if (fromReader) {
+    const back = document.createElement("a");
+    back.className = "back"; back.href = fromReader.href;
+    back.innerHTML = '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="M19 12H5m0 0 6-6m-6 6 6 6"/></svg>';
+    back.append("Back to " + fromReader.ref);
+    // Coming straight from the reader, go back in history, so it opens where it was left.
+    back.onclick = ev => { if (fromReader.direct) { ev.preventDefault(); history.back(); } };
+    card.append(back);
+  }
   const dl = document.createElement("dl");
   const row = (a, b) => { const dt = document.createElement("dt"), dd = document.createElement("dd"); dt.textContent = a; if (b instanceof Node) dd.append(b); else dd.textContent = b; dl.append(dt, dd); };
   return { card, dl, row };
@@ -938,7 +964,7 @@ function showStation(j) {
   const kind = document.createElement("div"); kind.className = "kind";
   kind.textContent = (JOURNEYS.length > 1 ? J.short + " · " : "") + `${J.unit || "Stop"} ${st.n} of ${STATIONS.length}`;
   const h = document.createElement("h2"); h.textContent = st.name + (st.x == null || st.sure ? "" : "?");
-  row("Named in", st.ref);
+  row("Named in", readerLink(st.ref));
   if (st.what) row("What happened", st.what);
   row(st.x != null && st.s >= 700 ? "Site" : "Proposed site", st.site || "Unknown");
   row("Certainty", st.x == null ? (st.why || "Not plotted: its site is unknown") : `${confidence(st)} (score ${st.s.toLocaleString("en-US")} of 1,000)`);
@@ -961,7 +987,7 @@ function showCard(i) {
   if (p.m) row(modernName(p) || p.m === p.n ? "Site today" : "Site", p.m);
   row("Location", `${confidence(p)} (score ${p.s.toLocaleString("en-US")} of 1,000)`);
   if (p.t) row(D.territoryLabel || "Allotted to", (D.unallotted || []).includes(p.t) ? p.t + " (not allotted)" : p.t.replace(" (east)", ", east of the Jordan"));
-  row("First named", p.f);
+  row("First named", readerLink(p.f));
   row("Named in", `${p.v} verse${p.v === 1 ? "" : "s"}`);
   if (p.a) row("Also at this site", p.a.join(", "));
   row("Grid square", ref(p));
@@ -1245,6 +1271,14 @@ document.getElementById("zfit").onclick = () => svg.transition().duration(dur(50
 svg.call(zoom).on("dblclick.zoom", null);
 const start = setup(true);
 svg.call(zoom.transform, start);
+// A place asked for in the address: name it, then zoom in to it from the whole sheet.
+const linked = link.get("place") ? D.places.findIndex(p => p.id.split("/")[0] === link.get("place")) : -1;
+if (linked >= 0) {
+  const p = D.places[linked], rect = svg.node().getBoundingClientRect(), k = fitK * 4;
+  showCard(linked);
+  setTimeout(() => svg.transition().duration(dur(900))
+    .call(zoom.transform, d3.zoomIdentity.translate(rect.width / 2 - p.x * k, rect.height * 0.42 - p.y * k).scale(k)), 200);
+}
 (document.fonts ? document.fonts.ready : Promise.resolve()).then(() => { widthCache.clear(); render(); });
 window.addEventListener("resize", () => { setup(); schedule(); });
 </script>

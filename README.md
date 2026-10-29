@@ -35,7 +35,8 @@ connections/                     Obsidian notes: cross-references, people, place
   genealogy/                     Family groups, generation by generation
   events/ timeline/              Dated events, century notes, synchronisms, the chart
 data/                            Curated rulers, eras, world events and synchronisms (see data/README.md)
-  bible/                         The reader's data, one file per book (built by scripts/reader.py)
+  bible/                         The reader's data, one file per book (built by scripts/reader.py),
+                                 and places.json, the places each verse names (scripts/maps.py)
   genealogy.json, history.json   The data inlined in genealogy.html and history.html
 index.html                       The website's home page, the reader: the translation, with the Hebrew,
                                  Aramaic and Greek beneath
@@ -151,6 +152,8 @@ shows its review status, and all are marked *Draft* until they are reviewed. Tap
 it in Hebrew, Aramaic or Greek, word by word: each word's transliteration, a gloss, its grammar
 and a short dictionary entry. The words and glosses come from STEPBible's tagged texts, matched
 to our Hebrew and Greek word by word (99.5% of words match; the rest show without a gloss).
+A verse that names a place on the maps lists it under *On the maps*; tapping it opens the
+sheet for that part of the Bible, zoomed to the place, with a link back to the verse.
 Readers can highlight verses and write notes, which stay on their device, with a backup they
 can copy or save. The reader searches the whole Bible on the device, follows the light or dark
 setting, offers English Bible verse numbers for the Old Testament, and works offline once
@@ -192,7 +195,11 @@ the location is uncertain. Each journey is a list of stops in `scripts/maps.py`,
 verse that names it, and the build checks every name against the translation's text. Lands
 and borders are approximate: each piece of land goes to the people whose towns are nearest. All
 the sheets share one page template, `scripts/templates/map.html`; `scripts/maps.py` rebuilds
-them (`python3 scripts/maps.py exodus` rebuilds one).
+them (`python3 scripts/maps.py exodus` rebuilds one). Each verse reference on a sheet opens
+the reader. `scripts/maps.py` also writes `data/bible/places.json`, the places each verse
+names: OpenBible's verse tags for every place a sheet shows, kept only where our translation
+names the place in that verse (3,974 in 3,019 verses), each with the sheet that suits its
+book.
 
 The data is open: OpenBible.info cross-references; STEPBible's tagged names, family links and
 verse-numbering mapping; Theographic's dates; and Wikidata identifiers. Start with

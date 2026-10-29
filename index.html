@@ -229,6 +229,14 @@ textarea { min-height: 88px; resize: vertical; }
 .notes-list { margin: 0; padding: 0; list-style: none; display: grid; gap: 8px; }
 .notes-list li { font: 400 15px/1.55 var(--read); }
 .notes-list .mk { font: 600 12px/1 var(--sans); color: var(--lapis); margin-right: 6px; }
+.places { list-style: none; margin: 0; padding: 0; display: flex; flex-wrap: wrap; gap: 6px; }
+.places a {
+  display: inline-flex; align-items: center; gap: 6px; min-height: 36px; padding: 6px 12px 6px 9px; border-radius: 99px;
+  background: var(--lapis-soft); color: var(--ink); text-decoration: none; font: 600 14px/1.2 var(--sans);
+}
+.places a:hover { box-shadow: inset 0 0 0 1px var(--lapis); }
+.places svg { width: 16px; height: 16px; flex: none; color: var(--lapis); }
+.places small { font: 500 12.5px/1.2 var(--sans); color: var(--muted); }
 .en-number { font-size: 13px; color: var(--muted); }
 
 /* Picker */
@@ -351,6 +359,10 @@ input[type="range"] { width: 100%; accent-color: var(--lapis); }
     <h3 id="orig-label">Original</h3>
     <p class="original" id="orig"></p>
     <p class="lang-note" id="orig-note"></p>
+  </div>
+  <div class="section" id="vplaces-wrap" hidden>
+    <h3>On the maps</h3>
+    <ul class="places" id="vplaces"></ul>
   </div>
   <div class="section">
     <h3>Word by word</h3>
@@ -486,6 +498,7 @@ input[type="range"] { width: 100%; accent-color: var(--lapis); }
     <p>Say what the original says, in natural modern English that a reader around 12 to 14 years old can follow. Where the original can be read more than one way, or the manuscripts differ, a note says so. God's personal name is written "Yahweh", where most English Bibles write "the LORD".</p>
     <h3>Under each verse</h3>
     <p>Tap a verse to see it in Hebrew, Aramaic or Greek, word by word. The words, glosses and grammar come from STEPBible's tagged texts (TAHOT and TAGNT), and the definitions from its brief lexicons (TBESH and TBESG). STEPBible's glosses are its own, not this translation's.</p>
+    <p>Places a verse names are listed under <em>On the maps</em>: tap one to see it on the Bible map for that part of the story. Which verses name which places comes from OpenBible.info's Bible Geocoding Data (CC BY 4.0), kept only where this translation uses the name.</p>
     <h3>Licenses</h3>
     <p>Translation: CC BY 4.0. Hebrew: Unicode/XML Leningrad Codex (UXLC 2.6), Tanach.us. Greek: SBL Greek New Testament, © 2010 Society of Biblical Literature and Logos Bible Software, CC BY 4.0. Word data and lexicons: STEPBible.org, CC BY 4.0. Paragraphs follow the Masoretic paragraph marks and, in the New Testament, STEPBible's paragraph marks.</p>
   </div>
@@ -698,6 +711,28 @@ function go(b, c, v) {
 }
 
 /* ---------- A verse ---------- */
+// The places a verse names that the maps show, each opening on the sheet that suits the book.
+const PIN = '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linejoin="round"><path d="M12 21s-7-6.2-7-11.5a7 7 0 0 1 14 0C19 14.8 12 21 12 21Z"/><circle cx="12" cy="9.5" r="2.5"/></svg>';
+async function showPlaces(b, c, n, span) {
+  const wrap = $("vplaces-wrap"), list = $("vplaces");
+  wrap.hidden = true;
+  list.textContent = "";
+  let P;
+  try { P = await getJSON("places.json"); } catch (e) { return; }
+  if (selected !== span) return;
+  const entries = (P.verses[b.osis] || {})[`${c}:${n}`] || [];
+  const ref = $("verse-title").textContent;
+  for (const [pi, si, form] of entries) {
+    const [id, name] = P.places[pi], [slug, no, title] = P.sheets[si];
+    const sheet = no === "Plan" ? "Plan of Jerusalem" : `Map No. ${no}`;
+    const a = el("a", { href: `maps/${slug}.html#place=${id}&from=${encodeURIComponent(refHash(b, c, n).slice(1))}&ref=${encodeURIComponent(ref)}`,
+                        title: `${form || name} on ${sheet}, ${title}` });
+    a.innerHTML = PIN;
+    a.append(form || name, el("small", { text: sheet }));
+    list.append(el("li", {}, a));
+  }
+  wrap.hidden = !entries.length;
+}
 let selected = null;
 const HL = ["yellow", "green", "blue", "pink", "orange"];
 function openSheet(id) {
@@ -777,6 +812,7 @@ async function openVerse(span) {
     list.append(li);
   }
   $("vnotes-wrap").hidden = !labels.length;
+  showPlaces(b, c, n, span);
   // Highlight and note.
   const id = `${b.osis}.${c}.${n}`;
   const a = notes[id] || {};
