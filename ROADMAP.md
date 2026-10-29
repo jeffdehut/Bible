@@ -103,6 +103,22 @@ Chinese translation.
    found), titles for the Kings and Chronicles sets (from the section headings of step 2), and
    reading-plan progress kept with the account.
 
+**More open data** (chosen October 2026; licences to confirm file by file before use):
+
+- **Cross-references in the reader**: the OpenBible.info references already in `connections/`
+  (CC BY), beside each verse.
+- **Tyndale Open Study Notes** (CC BY-SA 4.0): study notes, profiles, theme articles and,
+  if included, book introductions, kept as separate data with their own credit. To check first
+  what the release contains, and how it bears on the introductions of HEADINGS.md.
+- **MACULA Hebrew and Greek** (Clear Bible, CC BY 4.0): syntax and referents (who "he" or
+  "they" is), using only the parts under CC BY (its UBS word senses are "used with permission").
+- **More of STEPBible** (CC BY 4.0): the full Liddell–Scott–Jones Greek lexicon, and which
+  manuscripts and editions support each Greek word.
+- **Fuller lexicons**: Brown–Driver–Briggs (Open Scriptures' edition) and Abbott-Smith's Greek
+  lexicon, both public-domain works in open editions.
+
+Study questions and other written helps are left out for now: data only.
+
 ## 2. Maps
 
 - **Style.** See *Map style: after the Eilers wall maps* below. Maps keep their paper look in
