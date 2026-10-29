@@ -230,6 +230,11 @@ textarea { min-height: 88px; resize: vertical; }
 .word dd { margin: 0; }
 .word .def { margin-top: 10px; font: 400 14.5px/1.55 var(--sans); color: var(--ink); white-space: pre-line; max-height: 260px; overflow: auto; }
 .word .def a { text-decoration: none; }
+.word .def.full { max-height: 420px; border-top: 1px solid var(--line); padding-top: 10px; }
+.word .def.full hr { border: 0; border-top: 1px dashed var(--line); margin: 10px 0; }
+.word .full-btn { margin-top: 10px; }
+.cite { border: 0; background: var(--bg); color: var(--muted); border-radius: 6px; padding: 0 5px; font: 500 12px/1.6 var(--sans); cursor: pointer; text-align: left; }
+.cite.open { display: block; margin: 2px 0; padding: 4px 8px; white-space: normal; }
 .word .credit { margin-top: 8px; font-size: 12px; color: var(--faint); }
 .notes-list { margin: 0; padding: 0; list-style: none; display: grid; gap: 8px; }
 .notes-list li { font: 400 15px/1.55 var(--read); }
@@ -700,6 +705,7 @@ if (/(^#|&)(access_token|error)=/.test(location.hash)) {
     <h3>Under each verse</h3>
     <p>Tap a verse to see it in Hebrew, Aramaic or Greek, word by word. The words, glosses and grammar come from STEPBible's tagged texts (TAHOT and TAGNT), and the definitions from its brief lexicons (TBESH and TBESG). STEPBible's glosses are its own, not this translation's.</p>
     <p>People a verse names are listed under <em>People</em>: tap one to see their family in the genealogy. The names come from STEPBible's TIPNR, which marks each name in the Hebrew, Aramaic and Greek.</p>
+    <p>A word’s <em>Full entry</em> opens Brown, Driver and Briggs’s Hebrew lexicon (1906, public domain; Open Scriptures’ outline of it, CC BY 4.0) or Liddell, Scott and Jones’s Greek lexicon (1940, public domain; formatted by STEPBible, CC BY 4.0).</p>
     <p>Under <em>Related verses</em>, a verse lists its cross-references from OpenBible.info (CC BY), those that at least three readers voted for, the most-voted first; most come from the public-domain <em>Treasury of Scripture Knowledge</em>. Tap one to read it in place.</p>
     <p>Under <em>Topics</em>, a verse lists the topics of Nave’s Topical Bible (1896, public domain) that cite it, and under <em>In the Bible dictionary</em>, the entries of Easton’s Bible Dictionary (1897, public domain; linked edition from Theographic, CC BY-SA 4.0) that do. Both are also in the menu, under <em>Topics and dictionary</em>. Their verse numbers have been moved to this translation’s.</p>
     <p>Under <em>Parallel passages</em>, a verse in the Gospels shows the section of A. T. Robertson’s <em>Harmony of the Gospels</em> (1922, public domain) it belongs to, with every Gospel that tells it, side by side; a verse in Samuel or Kings, the passages that tell it again in Chronicles or Isaiah, after Appendix 56 of the Companion Bible (public domain). <em>Reading plans</em> divide the chapters into days; the chronological plan follows Ussher’s dates as the Treasury of Scripture Knowledge gives them (via Theographic), with the chapters of each book kept in order. Your place in a plan is kept on this device.</p>
@@ -1553,16 +1559,44 @@ async function showWord(surface, f, ot, aramaic) {
   box.append(dl);
   if (lex && lex[4]) box.append(el("div", { class: "def" }, richDef(lex[4])));
   box.append(el("div", { class: "credit", text: ot ? "Lexicon: STEPBible TBESH (abridged BDB), CC BY 4.0" : "Lexicon: STEPBible TBESG (Abbott-Smith), CC BY 4.0" }));
+  // The full entry, loaded when asked for: Brown-Driver-Briggs or Liddell-Scott-Jones.
+  const key = parts[main];
+  const more = el("button", { class: "btn line full-btn", type: "button", text: ot ? "Full entry: Brown–Driver–Briggs" : "Full entry: Liddell–Scott–Jones" });
+  more.onclick = async () => {
+    more.disabled = true; more.textContent = "Loading…";
+    const full = await fullEntry(key, ot);
+    if (!full) { more.textContent = "No fuller entry for this word"; return; }
+    more.remove();
+    const div = el("div", { class: "def full" });
+    for (const [k, t] of (Array.isArray(full) ? full : [full]).entries()) { if (k) div.append(el("hr")); div.append(richDef(t)); }
+    box.append(div, el("div", { class: "credit", text: ot ? "Brown, Driver and Briggs, A Hebrew and English Lexicon of the Old Testament (1906), public domain; outline and markup by Open Scriptures, CC BY 4.0" : "Liddell, Scott and Jones, A Greek–English Lexicon (1940), public domain; formatted by STEPBible (TFLSJ), CC BY 4.0. Tap a grey label to see the works cited." }));
+  };
+  box.append(more);
   if (innerWidth < 1100) box.scrollIntoView({ block: "nearest", behavior: "smooth" });
+}
+async function fullEntry(strong, ot) {
+  const m = strong.match(/^(\d+)/);
+  if (!m) return null;
+  const file = `lexicon/${ot ? "bdb" : "lsj"}/${String(Math.floor(+m[1] / 100)).padStart(2, "0")}.json`;
+  let data;
+  try { data = await getJSON(file); } catch (e) { return null; }
+  return data[strong] || data[m[1]] || null;
 }
 function richDef(text) {
   const frag = document.createDocumentFragment();
-  const re = /\*\*(.+?)\*\*|_(.+?)_|\[\[([^|\]]+)\|([^\]]+)\]\]/g;
+  const re = /\*\*(.+?)\*\*|_(.+?)_|\[\[([^|\]]+)\|([^\]]+)\]\]|\{\{([^|}]*)\|([^}]*)\}\}/g;
   let last = 0, m;
   while ((m = re.exec(text))) {
     if (m.index > last) frag.append(text.slice(last, m.index));
     if (m[1] != null) frag.append(el("b", { text: m[1] }));
     else if (m[2] != null) frag.append(el("i", { text: m[2] }));
+    else if (m[5] != null) {
+      // A citation in LSJ: a small label that opens to the works cited.
+      const label = m[5], works = m[6];
+      const c = el("button", { type: "button", class: "cite", title: works, text: label });
+      c.onclick = () => { c.classList.toggle("open"); c.textContent = c.classList.contains("open") ? works : label; };
+      frag.append(c);
+    }
     else {
       const [slug, c, v] = m[3].split(".");
       const b = BOOKS.find(x => x.slug === slug);

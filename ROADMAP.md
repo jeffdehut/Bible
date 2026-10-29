@@ -112,10 +112,12 @@ Chinese translation.
   what the release contains, and how it bears on the introductions of HEADINGS.md.
 - **MACULA Hebrew and Greek** (Clear Bible, CC BY 4.0): syntax and referents (who "he" or
   "they" is), using only the parts under CC BY (its UBS word senses are "used with permission").
-- **More of STEPBible** (CC BY 4.0): the full Liddell–Scott–Jones Greek lexicon, and which
-  manuscripts and editions support each Greek word.
-- **Fuller lexicons**: Brown–Driver–Briggs (Open Scriptures' edition) and Abbott-Smith's Greek
-  lexicon, both public-domain works in open editions.
+- **More of STEPBible** (CC BY 4.0): which manuscripts and editions support each Greek word
+  (the full Liddell–Scott–Jones is in, above).
+- **Fuller lexicons (done)**: a word's *Full entry* opens Brown–Driver–Briggs (Open Scriptures'
+  outline of it, CC BY 4.0) for Hebrew and Aramaic, and the full Liddell–Scott–Jones (STEPBible's
+  TFLSJ, CC BY 4.0) for Greek, built by `scripts/lexicons.py`. Abbott-Smith was already there:
+  STEPBible's brief Greek lexicon is drawn from it.
 
 Study questions and other written helps are left out for now: data only.
 

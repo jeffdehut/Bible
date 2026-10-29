@@ -81,6 +81,7 @@ scripts/
   reader.py                      Builds the reader's data in data/bible/
   study.py                       Builds the topics (Nave's) and Bible dictionary (Easton's) in data/bible/study/
   parallels.py                   Builds the parallel passages (Robertson's harmony; Kings and Chronicles) and reading plans
+  lexicons.py                    Builds the full lexicon entries: Brown-Driver-Briggs (Open Scriptures) and LSJ (STEPBible)
   templates/                     The page sources the scripts fill with data
 VERIFICATION.md                  What was checked, what was found, what was fixed
 TRANSLATION.md                   Translation goals, principles, decisions, format and review process
