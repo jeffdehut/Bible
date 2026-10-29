@@ -6,8 +6,8 @@
 // database's own rules (supabase/schema.sql) keep each person's notes to themselves.
 window.SITE_CONFIG = {
   supabase: {
-    url: "",   // for example "https://abcdefghijklmnop.supabase.co"
-    key: "",   // the project's publishable key ("sb_publishable_…") or legacy anon key
+    url: "https://uqxubaiazcjemwvskzoo.supabase.co",   // the "Plain Bible" project
+    key: "sb_publishable_yatPH_LbBSWflCRESEjIIQ_q1H7gJqM",   // its publishable key: public by design
   },
   // Where people can write about their data, shown on privacy.html. Needed before accounts go on.
   contact: "",   // for example "privacy@example.org"

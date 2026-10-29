@@ -1,7 +1,7 @@
 // Offline support for the reader: the app itself is cached when installed, and each book,
 // lexicon page and font is cached the first time it is read, then served from the cache
 // while a fresh copy is fetched in the background.
-const VERSION = "reader-10";
+const VERSION = "reader-11";
 const SHELL = ["./", "index.html", "config.js", "account.js", "manifest.webmanifest", "icons/icon.svg", "icons/icon-192.png", "data/bible/books.json"];
 
 self.addEventListener("install", event => {
