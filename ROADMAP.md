@@ -36,8 +36,9 @@ Chinese translation.
    for search. `scripts/maps.py` does the same for the maps.
 2. **App shell (done).** `index.html` is one static web app that installs on a phone and
    works offline, in the design of `genealogy.html` and `history.html`.
-3. **Hosting (test site ready).** The repository root is the website, so every push to the
-   main branch can publish it as it is (see DEPLOY.md).
+3. **Hosting (test site ready).** The repository root is the website, so Netlify can publish it
+   straight from GitHub: `main` as the live site, every other branch at a preview address
+   (see DEPLOY.md).
 
 ## 1. Reader
 

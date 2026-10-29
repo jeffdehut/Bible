@@ -29,19 +29,41 @@ search engines while the site is a test.
 
 ### From GitHub (recommended)
 
-Netlify then redeploys on every push.
+Netlify then takes each update from GitHub by itself, and only the files that changed are sent:
+nothing is uploaded by hand.
 
-1. Sign in at [app.netlify.com](https://app.netlify.com) and choose **Add new site → Import an
-   existing project → GitHub**.
-2. Allow Netlify to read the `jeffdehut/Bible` repository, then pick it.
-3. Choose the branch to publish: `main` once this work is merged, or
-   `claude/ecstatic-faraday-0wu2gv` to test it now. Leave the build command and publish
-   directory as Netlify fills them in from `netlify.toml` (publish directory: the root, `.`).
-4. Choose **Deploy**. The site appears at a `*.netlify.app` address within a few minutes. The
-   first deploy uploads the whole repository, about 110 MB; later deploys send only what
+- **`main` is the live site.** Netlify publishes it whenever it changes.
+- **Every other branch is a preview.** Work happens on its own branch (Claude's are named
+  `claude/…`), and Netlify publishes each branch at its own address, updated on every push, so
+  a change can be tried before it goes live.
+- **To put a change live,** merge its branch into `main`: on GitHub, open a pull request from
+  the branch into `main` and choose **Merge**.
+
+Why not publish every push at once: on Netlify's current plans, each update of the live site
+uses 15 credits, and the free plan has 300 a month, shared with bandwidth (20 credits a GB).
+When they run out, Netlify takes the site offline until the month ends. Previews cost nothing.
+(Accounts opened before 4 September 2025 keep the older plans, which count build minutes
+instead.)
+
+1. Sign in at [app.netlify.com](https://app.netlify.com).
+   - **If the site already exists** (uploaded by dragging the folder or from the command line),
+     open it and choose **Site configuration → Build & deploy → Continuous deployment → Link
+     repository**. The site keeps its address.
+   - **Otherwise** choose **Add new site → Import an existing project**.
+
+   Then choose **GitHub**, allow Netlify to read the `jeffdehut/Bible` repository, and pick it.
+2. Set the branch to deploy to `main`. Leave the build command and publish directory as
+   Netlify fills them in from `netlify.toml` (publish directory: the root, `.`).
+3. Deploy. The first deploy sends the whole repository, about 130 MB; after that only what
    changed.
-5. Optional: under **Site configuration → Build & deploy → Branches and deploy contexts**, turn
-   on deploy previews. Each pull request then gets its own test address.
+4. Under **Site configuration → Build & deploy → Continuous deployment → Branches and deploy
+   contexts**, set **Branch deploys** to **All** and leave **Deploy Previews** on. A branch is
+   then at `https://BRANCH--SITE.netlify.app`, with any `/` in its name turned into `-` (for
+   example `https://claude-ecstatic-faraday-0wu2gv--SITE.netlify.app`), where `SITE` is the
+   site's Netlify name. A pull request gets a preview address too, linked from the pull
+   request.
+5. If accounts are on (see *Accounts*), add `https://*--SITE.netlify.app/**` to Supabase's
+   **Redirect URLs**, so sign-in links also work on the previews.
 
 If you created the site before this layout, open **Site configuration → Build & deploy →
 Build settings** and clear the publish directory (or set it to `.`), so `netlify.toml` decides.
@@ -75,12 +97,13 @@ After changing the translation or the data, rebuild what changed and commit it:
 
 ```
 python3 scripts/translation.py   # the compiled translation in text/english/
-python3 scripts/connections.py   # genealogy.html and history.html
+python3 scripts/connections.py   # the notes in connections/, and the genealogy, timeline and web pages
 python3 scripts/reader.py        # the reader's data in data/bible/
 python3 scripts/maps.py          # the maps in maps/
 ```
 
-The pages are built from templates in `scripts/templates/`; edit those, not the built pages.
+Then push the branch: its preview address shows the change, and merging it into `main` puts it
+live. The pages are built from templates in `scripts/templates/`; edit those, not the built pages.
 When the service worker or the app shell changes, raise `VERSION` in `sw.js` so installed
 copies of the reader pick up the new version.
 
