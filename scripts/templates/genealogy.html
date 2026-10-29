@@ -5,173 +5,201 @@
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Frank+Ruhl+Libre:wght@300..900&family=Libre+Franklin:ital,wght@0,400;0,500;0,600;0,700;1,400&family=Noto+Serif:wght@400;600&display=swap">
 <style>
-/* Layout: the masthead; the viewer (search and a choice of views over a chart of the whole
-   family, with the person's card beside it on wide screens and below it on phones); the line
-   from Adam to Jesus; then the family index. */
+/* Layout, as on the web of Scripture: under the site's bar, the whole window is the chart of
+   the family of Adam (or the close family of one person), with controls floating over it
+   (search at the top, the key at the bottom left, zoom at the bottom right, the person's card
+   on the right, or from the bottom on phones). The opening title sits in the middle. The line
+   from Adam to Jesus, the largest families and the notes open as panels. */
 :root {
-  --bg: #fbfaf7;
-  --surface: #ffffff;
-  --ink: #161b26;
-  --muted: #5b6475;
-  --faint: #8d95a4;
-  --line: #e4e2db;
-  --lapis: #2646a1;
-  --lapis-soft: #e7ecf8;
-  --gold: #8a640b;
-  --gold-soft: #f6eedb;
-  --malachite: #1d7658;
-  --shadow: 0 1px 2px rgb(22 27 38 / 6%), 0 10px 30px rgb(22 27 38 / 10%);
-  --display: "Frank Ruhl Libre", "Noto Serif", Georgia, serif;
+  --bg: #fbfaf7; --surface: #ffffff; --ink: #161b26; --muted: #5b6475; --faint: #8d95a4; --line: #e4e2db;
+  --lapis: #2646a1; --lapis-soft: #e7ecf8; --gold: #8a640b; --gold-soft: #f6eedb;
+  --stage-1: #fdfcf9; --stage-2: #efece4;
+  --chrome: color-mix(in srgb, var(--surface) 90%, transparent);
+  --shadow: 0 1px 2px rgb(22 27 38 / 8%), 0 10px 30px rgb(22 27 38 / 12%);
+  --read: "Frank Ruhl Libre", "Noto Serif", Georgia, serif;
   --sans: "Libre Franklin", system-ui, -apple-system, "Segoe UI", sans-serif;
   --greek: "Noto Serif", "Frank Ruhl Libre", Georgia, serif;
-  --step--1: clamp(0.8rem, 0.78rem + 0.1vw, 0.86rem);
-  --step-0: clamp(0.95rem, 0.92rem + 0.15vw, 1.03rem);
-  --step-1: clamp(1.15rem, 1.08rem + 0.35vw, 1.35rem);
-  --step-2: clamp(1.45rem, 1.3rem + 0.75vw, 1.95rem);
-  --step-4: clamp(2.6rem, 1.9rem + 3.6vw, 5.4rem);
 }
 @media (prefers-color-scheme: dark) {
   :root:not([data-theme="light"]) {
     --bg: #0d111b; --surface: #131a28; --ink: #e9ecf3; --muted: #a3acbd; --faint: #6f7a90; --line: #263047;
-    --lapis: #9db3ff; --lapis-soft: #1c2650; --gold: #e2bd5c; --gold-soft: #2a2414; --malachite: #5ec7a1;
-    --shadow: 0 1px 2px rgb(0 0 0 / 35%), 0 12px 32px rgb(0 0 0 / 40%);
+    --lapis: #9db3ff; --lapis-soft: #1c2650; --gold: #e2bd5c; --gold-soft: #2a2414;
+    --stage-1: #141c33; --stage-2: #05070d;
+    --shadow: 0 1px 2px rgb(0 0 0 / 35%), 0 12px 32px rgb(0 0 0 / 45%);
     color-scheme: dark;
   }
 }
 :root[data-theme="dark"] {
   --bg: #0d111b; --surface: #131a28; --ink: #e9ecf3; --muted: #a3acbd; --faint: #6f7a90; --line: #263047;
-  --lapis: #9db3ff; --lapis-soft: #1c2650; --gold: #e2bd5c; --gold-soft: #2a2414; --malachite: #5ec7a1;
-  --shadow: 0 1px 2px rgb(0 0 0 / 35%), 0 12px 32px rgb(0 0 0 / 40%);
+  --lapis: #9db3ff; --lapis-soft: #1c2650; --gold: #e2bd5c; --gold-soft: #2a2414;
+  --stage-1: #141c33; --stage-2: #05070d;
+  --shadow: 0 1px 2px rgb(0 0 0 / 35%), 0 12px 32px rgb(0 0 0 / 45%);
   color-scheme: dark;
 }
 * { box-sizing: border-box; }
 [hidden] { display: none !important; }
+html, body { height: 100%; overflow: hidden; overscroll-behavior: none; }
 html { -webkit-text-size-adjust: 100%; }
 body {
-  margin: 0; background: var(--bg); color: var(--ink);
-  font: 400 var(--step-0)/1.55 var(--sans);
-  padding-left: max(16px, env(safe-area-inset-left, 0px));
-  padding-right: max(16px, env(safe-area-inset-right, 0px));
+  margin: 0; background: var(--bg); color: var(--ink); font: 400 15px/1.45 var(--sans);
+  padding-left: max(16px, env(safe-area-inset-left, 0px)); padding-right: max(16px, env(safe-area-inset-right, 0px));
 }
-.wrap { max-width: 1240px; margin-inline: auto; }
 a { color: var(--lapis); }
 :focus-visible { outline: 2px solid var(--lapis); outline-offset: 2px; border-radius: 4px; }
-h1, h2, h3 { font-family: var(--display); font-weight: 500; text-wrap: balance; margin: 0; }
-[lang="he"] { font-family: var(--display); }
+button { font: inherit; color: inherit; }
+[lang="he"] { font-family: var(--read); }
 [lang="grc"] { font-family: var(--greek); }
 
-/* Masthead */
-.masthead { padding-block: clamp(28px, 5vw, 56px) clamp(20px, 3vw, 32px); }
-.masthead .wrap { display: grid; gap: 18px; }
-.title-row { display: flex; flex-wrap: wrap; align-items: baseline; justify-content: space-between; gap: 8px 32px; }
-h1 { font-size: var(--step-4); font-weight: 300; line-height: 0.95; letter-spacing: -0.02em; }
-.epigraph { margin: 0; text-align: end; color: var(--gold); }
-.epigraph [lang="he"] { display: block; font-size: clamp(1.7rem, 1.2rem + 2.2vw, 3rem); line-height: 1.1; font-weight: 400; }
-.epigraph figcaption { font: 500 var(--step--1)/1.3 var(--sans); color: var(--muted); text-wrap: balance; }
-@media (max-width: 640px) { .epigraph, .epigraph [lang="he"] { text-align: left; } }
-.lede { max-width: 62ch; font-size: var(--step-1); line-height: 1.5; color: var(--muted); margin: 0; }
-.stats { display: flex; flex-wrap: wrap; gap: 10px 36px; margin: 8px 0 0; padding: 18px 0 0; border-top: 1px solid var(--line); }
-.stats div { display: grid; gap: 2px; }
-.stats dt { font: 500 var(--step--1)/1.2 var(--sans); color: var(--muted); }
-.stats dd { margin: 0; font: 500 var(--step-2)/1 var(--display); font-variant-numeric: tabular-nums lining-nums; }
-
-section { padding-block: clamp(28px, 5vw, 56px); border-top: 1px solid var(--line); scroll-margin-top: calc(var(--bar) + env(safe-area-inset-top, 0px)); }
-.section-head { display: grid; gap: 8px; margin-bottom: 18px; max-width: 72ch; }
-.section-head h2 { font-size: var(--step-2); }
-.section-head p { margin: 0; color: var(--muted); }
-
-/* The viewer */
-.vbar { display: flex; flex-wrap: wrap; gap: 10px 16px; align-items: center; justify-content: space-between; margin-bottom: 12px; }
-.finder { position: relative; flex: 1 1 260px; max-width: 440px; }
-.finder input {
-  width: 100%; font: 400 var(--step-0)/1.3 var(--sans); color: var(--ink); background: var(--surface);
-  border: 1px solid var(--line); border-radius: 10px; padding: 11px 14px; box-shadow: var(--shadow);
-}
-.finder input:focus { outline: 2px solid var(--lapis); outline-offset: 0; border-color: transparent; }
-.results {
-  position: absolute; z-index: 6; inset: calc(100% + 6px) 0 auto 0; margin: 0; padding: 6px; list-style: none;
-  background: var(--surface); border: 1px solid var(--line); border-radius: 10px; box-shadow: var(--shadow);
-  max-height: 360px; overflow-y: auto;
-}
-.results li { padding: 8px 10px; border-radius: 7px; cursor: pointer; display: grid; gap: 1px; }
-.results li[aria-selected="true"], .results li:hover { background: var(--lapis-soft); }
-.results b { font: 500 var(--step-0)/1.25 var(--display); }
-.results small { color: var(--muted); font-size: var(--step--1); overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
-.seg { display: inline-flex; gap: 4px; padding: 4px; border-radius: 10px; background: var(--surface); border: 1px solid var(--line); }
-.seg button { all: unset; cursor: pointer; font: 500 var(--step--1)/1.2 var(--sans); padding: 8px 12px; border-radius: 7px; color: var(--ink); white-space: nowrap; }
-.seg button[aria-pressed="true"] { background: var(--lapis); color: var(--surface); }
-.seg button:hover:not([aria-pressed="true"]) { background: var(--lapis-soft); }
-.seg button:focus-visible { outline: 2px solid var(--lapis); }
-
-.vbody { display: grid; gap: 16px; grid-template-columns: minmax(0, 1fr); }
-@media (min-width: 980px) {
-  .vbody { grid-template-columns: minmax(0, 1fr) 360px; align-items: start; }
-  .side { position: sticky; top: calc(var(--bar) + env(safe-area-inset-top, 0px) + 16px); }
-}
 .stage {
-  position: relative; background: var(--surface); border: 1px solid var(--line); border-radius: 14px; box-shadow: var(--shadow);
-  overflow: hidden; height: clamp(420px, calc(100svh - var(--bar) - 170px), 780px);
+  position: fixed; left: 0; right: 0; bottom: 0; top: calc(var(--bar) + env(safe-area-inset-top, 0px)); overflow: hidden;
+  background: radial-gradient(ellipse 80% 70% at 50% 45%, var(--stage-1), var(--stage-2));
 }
-#family, #tree { display: block; width: 100%; height: 100%; touch-action: none; }
+#family, #tree { position: absolute; inset: 0; width: 100%; height: 100%; display: block; touch-action: none; }
 #family { cursor: grab; }
 #family:active { cursor: grabbing; }
-#family:focus-visible { outline: 2px solid var(--lapis); outline-offset: -2px; border-radius: 14px; }
-.tools { position: absolute; right: 10px; bottom: 10px; display: grid; gap: 6px; }
-.tool {
-  all: unset; cursor: pointer; width: 38px; height: 38px; display: grid; place-items: center; border: 1px solid var(--line); border-radius: 10px;
-  background: color-mix(in srgb, var(--surface) 92%, transparent); font: 600 1.05rem/1 var(--sans); color: var(--ink); box-shadow: var(--shadow);
+#family.over { cursor: pointer; }
+#family:focus-visible { outline: 2px solid var(--lapis); outline-offset: -2px; }
+.ui { transition: opacity 0.6s; }
+.stage:not(.ready) .ui { opacity: 0; pointer-events: none; }
+
+/* The opening title */
+.title {
+  position: absolute; inset: 0; display: grid; place-content: center; text-align: center; padding: 24px; pointer-events: none;
+  transition: opacity 0.9s, transform 1.2s;
 }
-.tool:hover { background: var(--lapis-soft); }
-.tool:focus-visible { outline: 2px solid var(--lapis); }
-.peek {
-  position: absolute; left: 10px; right: 60px; bottom: 10px; display: grid; gap: 6px; padding: 10px 12px 11px;
-  background: var(--surface); border: 1px solid var(--line); border-radius: 12px; box-shadow: var(--shadow);
+.title.gone { opacity: 0; transform: scale(1.04); }
+.title h1 { margin: 0; font: 300 clamp(40px, 9vw, 84px)/1 var(--read); letter-spacing: -0.02em; color: var(--ink); text-wrap: balance; }
+.title h1, .title p { text-shadow: 0 0 18px var(--stage-1), 0 0 36px var(--stage-1); }
+.title .heb { margin: 14px 0 0; font: 400 clamp(22px, 3.4vw, 34px)/1.2 var(--read); color: var(--gold); }
+.title .en { margin: 4px 0 0; font: 500 13px/1.4 var(--sans); color: var(--muted); }
+.title .count { margin: 18px 0 0; font: 600 11.5px/1.4 var(--sans); letter-spacing: 0.12em; text-transform: uppercase; color: var(--muted); }
+.title .skip { margin: 26px 0 0; font: 500 12px/1 var(--sans); color: var(--faint); }
+@media (prefers-reduced-motion: no-preference) {
+  .title h1, .title p { animation: rise 1.4s cubic-bezier(.2, .7, .2, 1) both; }
+  .title .heb { animation-delay: 0.25s; } .title .en { animation-delay: 0.4s; } .title .count { animation-delay: 0.7s; } .title .skip { animation-delay: 1.4s; }
 }
-.peek b { font: 500 1.15rem/1.15 var(--display); }
-.peek p { margin: 0; font-size: var(--step--1); color: var(--muted); overflow: hidden; display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; }
-.peek .acts { display: flex; flex-wrap: wrap; gap: 6px; }
-.peek .acts button { all: unset; cursor: pointer; font: 600 var(--step--1)/1.2 var(--sans); color: var(--lapis); padding: 6px 10px; border-radius: 999px; background: var(--lapis-soft); }
-.peek .acts button:focus-visible { outline: 2px solid var(--lapis); }
-@media (min-width: 980px) { .peek { display: none !important; } }
-.vfoot { display: flex; flex-wrap: wrap; gap: 6px 18px; align-items: center; justify-content: space-between; margin-top: 10px; font-size: var(--step--1); color: var(--muted); }
-.legend { display: flex; flex-wrap: wrap; gap: 6px 16px; }
-.legend span { display: inline-flex; align-items: center; gap: 6px; }
-.legend .box { width: 18px; height: 11px; border-radius: 3px; border: 1px solid var(--faint); background: var(--surface); }
-.legend .box.gold { border-color: var(--gold); background: var(--gold-soft); }
-.legend .box.dash { border-style: dashed; }
-.swatch { width: 18px; height: 0; border-top: 2px solid var(--faint); }
+@keyframes rise { from { opacity: 0; transform: translateY(10px); filter: blur(4px); } to { opacity: 1; transform: none; filter: none; } }
+
+/* Controls over the chart */
+.top { position: absolute; top: 12px; left: 12px; right: 12px; display: flex; gap: 8px; align-items: flex-start; pointer-events: none; }
+.top > * { pointer-events: auto; }
+.finder { position: relative; flex: 1 1 auto; max-width: 420px; }
+.finder input {
+  width: 100%; font: 400 16px/1.3 var(--sans); color: var(--ink); background: var(--chrome); backdrop-filter: blur(10px); -webkit-backdrop-filter: blur(10px);
+  border: 1px solid var(--line); border-radius: 12px; padding: 10px 14px 10px 38px; box-shadow: var(--shadow);
+}
+.finder input:focus { outline: 2px solid var(--lapis); outline-offset: 0; border-color: transparent; }
+.finder svg { position: absolute; z-index: 1; left: 12px; top: 50%; width: 17px; height: 17px; transform: translateY(-50%); color: var(--muted); pointer-events: none; }
+.results {
+  position: absolute; z-index: 6; inset: calc(100% + 6px) 0 auto 0; margin: 0; padding: 6px; list-style: none;
+  background: var(--surface); border: 1px solid var(--line); border-radius: 12px; box-shadow: var(--shadow); max-height: min(380px, 60vh); overflow-y: auto;
+}
+.results li { display: flex; align-items: center; gap: 10px; padding: 8px 10px; border-radius: 8px; cursor: pointer; }
+.results li[aria-selected="true"], .results li:hover { background: var(--lapis-soft); }
+.results b { font: 500 15px/1.25 var(--read); }
+.results small { display: block; color: var(--muted); font-size: 12.5px; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+.results span { min-width: 0; }
+.dot { flex: none; width: 11px; height: 11px; border-radius: 50%; background: var(--c); }
+.pill {
+  display: inline-flex; gap: 2px; padding: 3px; border-radius: 12px; background: var(--chrome); backdrop-filter: blur(10px); -webkit-backdrop-filter: blur(10px);
+  border: 1px solid var(--line); box-shadow: var(--shadow); flex: none;
+}
+.pill button { border: 0; background: transparent; cursor: pointer; border-radius: 9px; padding: 7px 11px; font: 600 13px/1 var(--sans); color: var(--muted); min-height: 34px; white-space: nowrap; }
+.pill button[aria-pressed="true"] { background: var(--lapis); color: var(--surface); }
+.pill button:hover:not([aria-pressed="true"]) { background: var(--lapis-soft); color: var(--ink); }
+.pill .icon { display: grid; place-items: center; padding: 0; width: 34px; }
+.pill svg { width: 18px; height: 18px; }
+
+.zoom { position: absolute; right: 12px; bottom: calc(12px + env(safe-area-inset-bottom, 0px)); display: grid; gap: 6px; }
+.zoom button {
+  width: 40px; height: 40px; display: grid; place-items: center; border: 1px solid var(--line); border-radius: 12px; cursor: pointer;
+  background: var(--chrome); backdrop-filter: blur(10px); -webkit-backdrop-filter: blur(10px); box-shadow: var(--shadow); color: var(--ink);
+}
+.zoom svg { width: 18px; height: 18px; }
+
+.key {
+  position: absolute; left: 12px; bottom: calc(12px + env(safe-area-inset-bottom, 0px)); max-width: min(360px, calc(100% - 76px));
+  background: var(--chrome); backdrop-filter: blur(10px); -webkit-backdrop-filter: blur(10px);
+  border: 1px solid var(--line); border-radius: 14px; box-shadow: var(--shadow); padding: 8px;
+}
+.key summary { list-style: none; cursor: pointer; display: flex; align-items: center; gap: 8px; padding: 4px 6px; font: 600 12px/1.2 var(--sans); letter-spacing: 0.08em; text-transform: uppercase; color: var(--muted); }
+.key summary::-webkit-details-marker { display: none; }
+.key summary .dots { display: flex; gap: 3px; }
+.key summary .dots i { width: 8px; height: 8px; border-radius: 50%; background: var(--c); }
+.key[open] summary .dots { display: none; }
+.key .chips { display: flex; flex-wrap: wrap; gap: 4px; padding: 6px 2px 2px; }
+.key .chip {
+  display: inline-flex; align-items: center; gap: 6px; border: 1px solid transparent; background: transparent; border-radius: 999px;
+  padding: 5px 9px 5px 7px; font: 500 12.5px/1.2 var(--sans); cursor: pointer; color: var(--ink);
+}
+.key .chip:hover { background: var(--lapis-soft); }
+.key .legend { display: flex; flex-wrap: wrap; gap: 4px 14px; margin: 6px 6px 0; font-size: 12px; color: var(--muted); }
+.key .legend span { display: inline-flex; align-items: center; gap: 6px; }
+.key .hint { margin: 6px 6px 2px; font-size: 12px; color: var(--muted); }
+.box { width: 16px; height: 10px; border-radius: 3px; border: 1px solid var(--faint); }
+.box.gold { border-color: var(--gold); background: var(--gold-soft); }
+.box.dash { border-style: dashed; }
+.swatch { width: 16px; height: 0; border-top: 2px solid var(--faint); }
+.swatch.gold { border-top-color: var(--gold); border-top-width: 3px; }
 .swatch.dash { border-top-style: dashed; }
 .swatch.dot { border-top-style: dotted; border-top-width: 3px; }
 .swatch.lapis { border-top-color: var(--lapis); }
-.vfoot .note { margin: 0; }
 
-/* The person's card */
-.card { background: var(--surface); border: 1px solid var(--line); border-radius: 14px; padding: 20px; box-shadow: var(--shadow); display: grid; gap: 14px; min-width: 0; }
+/* The card for the person chosen */
+.card {
+  position: absolute; z-index: 5; top: 64px; right: 12px; max-height: calc(100% - 80px); width: 360px; overflow-y: auto; overscroll-behavior: contain;
+  background: var(--surface); border: 1px solid var(--line); border-radius: 16px; box-shadow: var(--shadow); padding: 16px 16px 18px;
+  display: flex; flex-direction: column; gap: 12px;
+}
 .card:focus { outline: none; }
-.card h3 { font-size: var(--step-2); font-weight: 500; line-height: 1.1; }
-.card h3 .dis { display: block; margin-top: 4px; font: 500 var(--step--1)/1.2 var(--sans); color: var(--muted); }
-.card .orig { display: flex; flex-wrap: wrap; gap: 4px 14px; font-size: var(--step-1); color: var(--gold); }
-.card .brief { margin: 0; }
-.facts { display: grid; grid-template-columns: auto 1fr; gap: 6px 14px; margin: 0; font-size: var(--step--1); }
+@media (min-width: 761px) { body.card-open .zoom { right: 384px; } }
+.card .grab { display: none; }
+.card .close { position: absolute; top: 10px; right: 10px; width: 34px; height: 34px; border: 0; background: transparent; border-radius: 9px; cursor: pointer; display: grid; place-items: center; color: var(--muted); }
+.card .close:hover { background: var(--lapis-soft); }
+.card .kicker { display: flex; align-items: center; gap: 8px; font: 600 11.5px/1.3 var(--sans); letter-spacing: 0.1em; text-transform: uppercase; color: var(--muted); padding-right: 36px; }
+.card h2 { margin: -4px 0 0; font: 500 26px/1.1 var(--read); padding-right: 30px; text-wrap: balance; }
+.card h2 small { display: block; margin-top: 4px; font: 500 13px/1.3 var(--sans); color: var(--muted); }
+.card .orig { display: flex; flex-wrap: wrap; gap: 4px 14px; margin-top: -4px; font-size: 19px; color: var(--gold); }
+.card .brief { margin: 0; color: var(--ink); }
+.facts { display: grid; grid-template-columns: auto 1fr; gap: 5px 14px; margin: 0; font-size: 13.5px; }
 .facts dt { color: var(--muted); }
 .facts dd { margin: 0; font-variant-numeric: tabular-nums; }
-.rel { display: grid; gap: 6px; }
-.rel h4 { margin: 0; font: 600 var(--step--1)/1.2 var(--sans); letter-spacing: 0.06em; text-transform: uppercase; color: var(--muted); }
-.chips { display: flex; flex-wrap: wrap; gap: 6px; }
-.chip {
-  all: unset; cursor: pointer; font: 500 var(--step--1)/1.2 var(--sans); padding: 5px 10px; border-radius: 999px;
-  background: var(--lapis-soft); color: var(--ink);
+.actions { display: flex; flex-wrap: wrap; gap: 6px; }
+.act {
+  display: inline-flex; align-items: center; gap: 6px; text-decoration: none; border-radius: 10px; padding: 8px 12px; font: 600 13.5px/1.2 var(--sans);
+  border: 1px solid var(--line); color: var(--ink); background: var(--surface); cursor: pointer;
 }
-.chip:hover { outline: 1px solid var(--lapis); }
-.chip:focus-visible { outline: 2px solid var(--lapis); }
-.chip.line { background: var(--gold-soft); }
-.chip small { color: var(--muted); font-weight: 400; }
-.more { all: unset; cursor: pointer; font: 600 var(--step--1)/1.2 var(--sans); color: var(--lapis); padding: 5px 4px; }
-.verses { display: flex; flex-wrap: wrap; gap: 4px 12px; font-size: var(--step--1); font-variant-numeric: tabular-nums; }
+.act.solid { background: var(--lapis); color: var(--surface); border-color: var(--lapis); }
+.act svg { width: 16px; height: 16px; }
+.rel h3 { margin: 0 0 6px; font: 600 11.5px/1.2 var(--sans); letter-spacing: 0.08em; text-transform: uppercase; color: var(--muted); }
+.rel .list { display: flex; flex-wrap: wrap; gap: 5px; }
+.node-chip {
+  display: inline-flex; align-items: center; gap: 6px; border: 0; cursor: pointer; border-radius: 999px; padding: 5px 10px 5px 8px;
+  background: var(--lapis-soft); color: var(--ink); font: 500 13px/1.2 var(--sans);
+}
+.node-chip:hover { box-shadow: inset 0 0 0 1px var(--lapis); }
+.node-chip.line { background: var(--gold-soft); }
+.node-chip small { color: var(--muted); font-weight: 400; }
+.node-chip .dot { width: 8px; height: 8px; }
+.more { border: 0; background: transparent; cursor: pointer; font: 600 13px/1.2 var(--sans); color: var(--lapis); padding: 5px 4px; }
+.verses { display: flex; flex-wrap: wrap; gap: 4px 12px; font-size: 13.5px; font-variant-numeric: tabular-nums; }
 .verses a { text-decoration: none; }
 .verses a:hover { text-decoration: underline; }
-.web-link { font: 600 var(--step--1)/1.2 var(--sans); text-decoration: none; }
-.web-link:hover { text-decoration: underline; }
+
+@media (max-width: 760px) {
+  .card {
+    top: auto; left: 0; right: 0; bottom: 0; width: auto; max-height: 52%; border-radius: 18px 18px 0 0; border-bottom: 0;
+    padding: 6px max(16px, env(safe-area-inset-left, 0px)) max(18px, env(safe-area-inset-bottom, 0px));
+  }
+  .card .grab { display: block; flex: none; width: 40px; height: 4px; border-radius: 4px; background: var(--line); margin: 2px auto 4px; }
+  .card .close { top: 12px; }
+  .card h2 { font-size: 23px; }
+  body.card-open .zoom, body.card-open .key { display: none; }
+  .top { flex-wrap: wrap; }
+  .finder { flex-basis: 100%; max-width: none; order: 2; }
+  .pill { order: 1; }
+  .top .spacer { flex: 1; order: 1; }
+}
 
 /* The close family: an hourglass of ancestors above, descendants below. */
 #tree { cursor: grab; }
@@ -180,26 +208,49 @@ section { padding-block: clamp(28px, 5vw, 56px); border-top: 1px solid var(--lin
 #tree .link.uncertain { stroke-dasharray: 5 4; }
 #tree .link.ancestor { stroke-dasharray: 1.5 4; stroke-width: 2.2; stroke-linecap: round; }
 #tree .link.line { stroke: var(--gold); stroke-width: 2.4; }
-#tree .node rect { fill: var(--surface); stroke: var(--line); stroke-width: 1.2; }
+#tree .node rect { fill: var(--surface); stroke: var(--era, var(--line)); stroke-width: 1.2; }
+#tree .node .stripe { fill: var(--era, var(--faint)); stroke: none; }
 #tree .node { cursor: pointer; }
 #tree .node:hover rect { stroke: var(--lapis); }
-#tree .node.line rect { stroke: var(--gold); }
+#tree .node.line rect { stroke: var(--gold); fill: var(--gold-soft); }
 #tree .node.focus rect { fill: var(--lapis); stroke: var(--lapis); }
 #tree .node.focus text { fill: var(--surface); }
 #tree .node text { fill: var(--ink); font: 500 12.5px/1 var(--sans); }
 #tree .node text.sub { fill: var(--muted); font: 400 10.5px/1 var(--sans); font-variant-numeric: tabular-nums; }
 #tree .node.focus text.sub { fill: var(--surface); opacity: 0.85; }
-#tree .node.more rect { fill: var(--lapis-soft); stroke-dasharray: 3 3; }
-#tree .gen-label { fill: var(--faint); font: 500 10.5px/1 var(--sans); font-variant-numeric: tabular-nums; letter-spacing: 0.04em; }
+#tree .node.more rect { fill: var(--lapis-soft); stroke: var(--lapis); stroke-dasharray: 3 3; }
+#tree .gen-label { fill: var(--faint); font: 600 10.5px/1 var(--sans); font-variant-numeric: tabular-nums; letter-spacing: 0.08em; }
+
+/* Panels: the line from Adam to Jesus and the largest families; about this chart */
+.panel {
+  position: absolute; z-index: 7; top: 64px; left: 50%; transform: translateX(-50%); width: min(640px, calc(100% - 24px)); max-height: calc(100% - 88px); overflow-y: auto;
+  background: var(--surface); border: 1px solid var(--line); border-radius: 16px; box-shadow: var(--shadow); padding: 18px 20px;
+}
+@media (max-width: 760px) { .panel { top: 112px; max-height: calc(100% - 124px); } }
+.panel h2 { margin: 0 0 8px; font: 500 22px/1.2 var(--read); }
+.panel h2 + p { margin-top: 0; }
+.panel p, .panel ul { margin: 0 0 10px; color: var(--ink); font-size: 14.5px; }
+.panel .sub { color: var(--muted); }
+.panel ul { padding-left: 20px; }
+.panel hr { border: 0; border-top: 1px solid var(--line); margin: 18px 0; }
+.panel .close { float: right; border: 0; background: transparent; cursor: pointer; border-radius: 9px; width: 34px; height: 34px; display: grid; place-items: center; color: var(--muted); }
+.panel .close:hover { background: var(--lapis-soft); }
+.panel .epigraph { margin: 0 0 12px; color: var(--gold); }
+.panel .epigraph [lang="he"] { display: block; font-size: 26px; line-height: 1.2; }
+.panel .epigraph small { display: block; font: 500 12.5px/1.3 var(--sans); color: var(--muted); }
+.stats { display: grid; grid-template-columns: repeat(auto-fit, minmax(120px, 1fr)); gap: 10px; margin: 4px 0 14px; }
+.stats div { display: grid; gap: 2px; padding: 10px 12px; border-radius: 12px; background: var(--lapis-soft); }
+.stats dt { font: 500 12px/1.2 var(--sans); color: var(--muted); }
+.stats dd { margin: 0; font: 500 24px/1 var(--read); font-variant-numeric: tabular-nums lining-nums; }
 
 /* The line of descent, set like a biblical genealogy. */
-.thread { list-style: none; margin: 0; padding: 0; display: flex; flex-wrap: wrap; align-items: baseline; gap: 10px 0; }
+.thread { list-style: none; margin: 0; padding: 0; display: flex; flex-wrap: wrap; align-items: baseline; gap: 8px 0; }
 .thread li { display: inline-flex; align-items: baseline; }
-.thread li.gen::after { content: ""; display: inline-block; width: 1.1em; height: 1px; background: var(--line); margin-inline: 0.35em; transform: translateY(-0.32em); }
+.thread li.gen::after { content: ""; display: inline-block; width: 0.9em; height: 1px; background: var(--line); margin-inline: 0.3em; transform: translateY(-0.32em); }
 .thread li.gen:last-child::after { display: none; }
 .thread button {
   all: unset; cursor: pointer; display: inline-flex; align-items: baseline; gap: 4px; border-radius: 6px; padding: 2px 4px;
-  font-family: var(--display); color: var(--ink); line-height: 1.1;
+  font-family: var(--read); color: var(--ink); line-height: 1.1;
 }
 .thread button:hover { background: var(--lapis-soft); }
 .thread button:focus-visible { outline: 2px solid var(--lapis); }
@@ -207,140 +258,116 @@ section { padding-block: clamp(28px, 5vw, 56px); border-top: 1px solid var(--lin
 .thread sup { font: 500 0.62rem/1 var(--sans); color: var(--faint); font-variant-numeric: tabular-nums; }
 .thread .unnamed { font-style: italic; color: var(--faint); }
 .thread li.era {
-  flex-basis: 100%; margin-top: 14px; padding-top: 10px; border-top: 1px dashed var(--line);
-  font: 600 var(--step--1)/1.3 var(--sans); letter-spacing: 0.08em; text-transform: uppercase; color: var(--gold);
+  flex-basis: 100%; display: flex; align-items: center; gap: 8px; margin-top: 12px; padding-top: 10px; border-top: 1px dashed var(--line);
+  font: 600 12px/1.3 var(--sans); letter-spacing: 0.08em; text-transform: uppercase; color: var(--c);
 }
 .thread li.era:first-child { margin-top: 0; padding-top: 0; border-top: 0; }
-.thread li.era span { color: var(--muted); font-weight: 500; letter-spacing: 0.02em; text-transform: none; margin-inline-start: 8px; }
+.thread li.era span { color: var(--muted); font-weight: 500; letter-spacing: 0.02em; text-transform: none; }
 
-/* Family index */
-.families { list-style: none; margin: 0; padding: 0; display: grid; gap: 10px; grid-template-columns: repeat(auto-fill, minmax(220px, 1fr)); }
+.families { list-style: none; margin: 0; padding: 0; display: grid; gap: 8px; grid-template-columns: repeat(auto-fill, minmax(180px, 1fr)); }
 .families button {
-  all: unset; box-sizing: border-box; width: 100%; cursor: pointer; display: grid; gap: 4px; padding: 14px 16px;
+  all: unset; box-sizing: border-box; width: 100%; cursor: pointer; display: grid; gap: 4px; padding: 10px 12px;
   border-radius: 12px; border: 1px solid var(--line); background: var(--surface);
 }
 .families button:hover { border-color: var(--lapis); }
 .families button:focus-visible { outline: 2px solid var(--lapis); }
-.families b { font: 500 var(--step-1)/1.15 var(--display); }
+.families b { font: 500 16px/1.15 var(--read); }
 .families small { color: var(--muted); font-variant-numeric: tabular-nums; }
 .bar { height: 4px; border-radius: 4px; background: var(--lapis-soft); overflow: hidden; }
 .bar i { display: block; height: 100%; background: var(--lapis); }
-
-footer { border-top: 1px solid var(--line); padding-block: 28px 48px; color: var(--muted); font-size: var(--step--1); }
-footer .wrap { display: grid; gap: 8px; max-width: 80ch; margin-inline: 0; }
-footer p { margin: 0; }
 .visually-hidden { position: absolute; width: 1px; height: 1px; overflow: hidden; clip: rect(0 0 0 0); white-space: nowrap; }
-@media (prefers-reduced-motion: no-preference) {
-  .card { transition: border-color 0.2s; }
-  #tree .node { transition: opacity 0.25s; }
-}
 </style>
 
 <!-- APPBAR -->
 
-<header class="masthead">
-  <div class="wrap">
-    <div class="title-row">
-      <h1>The Generations</h1>
-      <figure class="epigraph">
-        <span lang="he" dir="rtl">זֶה סֵפֶר תּוֹלְדֹת אָדָם</span>
-        <figcaption>“This is the book of the generations of Adam.” Genesis 5:1</figcaption>
-      </figure>
-    </div>
-    <p class="lede">Every family tie the Bible records, from Adam to the apostles. See the whole family of Adam at once, follow the line from Adam to Jesus, or search for anyone to see their parents, children and descendants.</p>
-    <dl class="stats" id="stats"></dl>
+<main class="stage" id="stage">
+  <canvas id="family" tabindex="0" role="img" aria-label="A chart of the whole family of Adam. Use the search to find someone." aria-describedby="family-desc"></canvas>
+  <p id="family-desc" class="visually-hidden">With the chart focused, the arrow keys move to a parent, a child or the next person in the same generation, and Enter opens their card.</p>
+  <svg id="tree" hidden role="img" aria-labelledby="tree-desc"><desc id="tree-desc">The close family of the person chosen: ancestors above, descendants below</desc></svg>
+
+  <div class="title" id="title" aria-hidden="true">
+    <h1>The Generations</h1>
+    <p class="heb" lang="he" dir="rtl">זֶה סֵפֶר תּוֹלְדֹת אָדָם</p>
+    <p class="en">“This is the book of the generations of Adam.” Genesis 5:1</p>
+    <p class="count" id="count">&nbsp;</p>
+    <p class="skip">Tap anywhere to begin</p>
   </div>
-</header>
 
-<main>
-  <section id="explore" aria-labelledby="explore-h">
-    <div class="wrap">
-      <div class="section-head">
-        <h2 id="explore-h">The family of Adam</h2>
-        <p id="explore-sub">Everyone descended from Adam whom the Bible names, with the families who married into them. Time runs from left to right, a generation to a column, and the line from Adam to Jesus runs straight through in gold. Pinch or drag to move around, and tap anyone to see their family.</p>
-      </div>
-      <div class="vbar">
-        <div class="finder">
-          <label for="q" class="visually-hidden">Find a person</label>
-          <input id="q" type="search" autocomplete="off" spellcheck="false" placeholder="Find a person: Ruth, Levi, Zerubbabel"
-                 role="combobox" aria-expanded="false" aria-controls="results" aria-autocomplete="list">
-          <ul class="results" id="results" role="listbox" hidden></ul>
-        </div>
-        <div class="seg" role="group" aria-label="View">
-          <button type="button" data-view="whole" aria-pressed="true">Whole family</button>
-          <button type="button" data-view="close" aria-pressed="false">Close family</button>
-        </div>
-      </div>
-      <div class="vbody">
-        <div>
-          <div class="stage">
-            <canvas id="family" tabindex="0" role="img" aria-describedby="family-desc"></canvas>
-            <p id="family-desc" class="visually-hidden">A chart of the whole family of Adam. With the chart focused, the arrow keys move to a parent, a child or the next person in the same generation.</p>
-            <svg id="tree" hidden role="img" aria-labelledby="tree-desc"><desc id="tree-desc">The close family of the person chosen: ancestors above, descendants below</desc></svg>
-            <div class="tools">
-              <button class="tool" id="zoom-in" type="button" aria-label="Zoom in">+</button>
-              <button class="tool" id="zoom-out" type="button" aria-label="Zoom out">−</button>
-              <button class="tool" id="zoom-fit" type="button" aria-label="Show everyone">⤢</button>
-            </div>
-            <div class="peek" id="peek" hidden aria-hidden="true"></div>
-          </div>
-          <div class="vfoot">
-            <div class="legend" id="legend-whole" aria-hidden="true">
-              <span><i class="box gold"></i>Line of Jesus</span>
-              <span><i class="swatch"></i>Parent and child</span>
-              <span><i class="box dash"></i>Married into the family</span>
-              <span><i class="swatch dash lapis"></i>Mother or spouse, for the person chosen</span>
-            </div>
-            <div class="legend" id="legend-close" hidden aria-hidden="true">
-              <span><i class="swatch" style="border-top-color: var(--gold); border-top-width: 3px"></i>Line of Jesus</span>
-              <span><i class="swatch"></i>Parent and child</span>
-              <span><i class="swatch dot"></i>Ancestor, generations skipped</span>
-              <span><i class="swatch dash"></i>Uncertain</span>
-            </div>
-            <p class="note" id="tree-note"></p>
-          </div>
-        </div>
-        <aside class="side">
-          <article class="card" id="card" tabindex="-1" aria-live="polite"></article>
-        </aside>
-      </div>
+  <div class="top ui">
+    <div class="finder">
+      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><circle cx="11" cy="11" r="7"/><path d="m20 20-3.5-3.5"/></svg>
+      <label for="q" class="visually-hidden">Find a person</label>
+      <input id="q" type="search" autocomplete="off" spellcheck="false" enterkeyhint="search" placeholder="Find Ruth, Levi, Zerubbabel…"
+             role="combobox" aria-expanded="false" aria-controls="results" aria-autocomplete="list">
+      <ul class="results" id="results" role="listbox" hidden></ul>
     </div>
+    <span class="spacer"></span>
+    <div class="pill" role="group" aria-label="View">
+      <button type="button" data-view="whole" aria-pressed="true" title="Everyone descended from Adam, a generation to a column">Whole</button>
+      <button type="button" data-view="close" aria-pressed="false" title="The parents, grandparents and descendants of the person chosen">Close</button>
+      <button type="button" class="icon" data-panel="browse" aria-label="From Adam to Jesus, and the largest families" title="From Adam to Jesus, and the largest families"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="5" cy="6" r="2"/><circle cx="12" cy="12" r="2"/><circle cx="19" cy="18" r="2"/><path d="M6.5 7.5l4 3M13.5 13.5l4 3"/></svg></button>
+      <button type="button" class="icon" data-panel="about" aria-label="About this chart" title="About this chart"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><circle cx="12" cy="12" r="9"/><path d="M12 11v6M12 7.5v.5"/></svg></button>
+    </div>
+  </div>
+
+  <details class="key ui" id="key">
+    <summary><span>Key</span><span class="dots" id="key-dots"></span></summary>
+    <div class="chips" id="chips" role="group" aria-label="Go to an era"></div>
+    <div class="legend" id="legend-whole" aria-hidden="true">
+      <span><i class="box gold"></i>Line of Jesus</span>
+      <span><i class="box dash"></i>Married into the family</span>
+      <span><i class="swatch dash lapis"></i>Mother or spouse, for the person chosen</span>
+    </div>
+    <div class="legend" id="legend-close" hidden aria-hidden="true">
+      <span><i class="swatch gold"></i>Line of Jesus</span>
+      <span><i class="swatch"></i>Parent and child</span>
+      <span><i class="swatch dot"></i>Ancestor, generations skipped</span>
+      <span><i class="swatch dash"></i>Uncertain</span>
+    </div>
+    <p class="hint" id="tree-note"></p>
+  </details>
+
+  <div class="zoom ui">
+    <button type="button" id="zoom-in" aria-label="Zoom in"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round"><path d="M12 5v14M5 12h14"/></svg></button>
+    <button type="button" id="zoom-out" aria-label="Zoom out"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round"><path d="M5 12h14"/></svg></button>
+    <button type="button" id="zoom-fit" aria-label="Show everyone"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M4 9V4h5M20 9V4h-5M4 15v5h5M20 15v5h-5"/></svg></button>
+  </div>
+
+  <article class="card" id="card" tabindex="-1" hidden aria-live="polite"></article>
+
+  <section class="panel" id="browse" hidden aria-labelledby="line-h">
+    <button type="button" class="close" data-close aria-label="Close"><svg viewBox="0 0 24 24" width="18" height="18" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M6 6l12 12M18 6 6 18"/></svg></button>
+    <h2 id="line-h">From Adam to Jesus</h2>
+    <p class="sub">The father-to-son line through Joseph, as Genesis 5 and 11, Ruth 4, 1 Chronicles and Matthew 1 record it. A name’s size shows how many verses mention that person.</p>
+    <ol class="thread" id="thread"></ol>
+    <hr>
+    <h2>The largest families</h2>
+    <p class="sub">People linked by recorded parents and children form families. Each is named after its earliest ancestor.</p>
+    <ul class="families" id="families"></ul>
   </section>
 
-  <section id="line" aria-labelledby="line-h">
-    <div class="wrap">
-      <div class="section-head">
-        <h2 id="line-h">From Adam to Jesus</h2>
-        <p>The father-to-son line through Joseph, as Genesis 5 and 11, Ruth 4, 1 Chronicles and Matthew 1 record it. A name’s size shows how many verses mention that person. Select any name to open their family.</p>
-      </div>
-      <ol class="thread" id="thread"></ol>
-    </div>
-  </section>
-
-  <section id="families-sec" aria-labelledby="families-h">
-    <div class="wrap">
-      <div class="section-head">
-        <h2 id="families-h">The largest families</h2>
-        <p>People linked by recorded parents and children form families. Each is named after its earliest ancestor.</p>
-      </div>
-      <ul class="families" id="families"></ul>
-    </div>
+  <section class="panel" id="about" hidden aria-labelledby="about-h">
+    <button type="button" class="close" data-close aria-label="Close"><svg viewBox="0 0 24 24" width="18" height="18" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M6 6l12 12M18 6 6 18"/></svg></button>
+    <h2 id="about-h">The Generations</h2>
+    <p class="epigraph"><span lang="he" dir="rtl">זֶה סֵפֶר תּוֹלְדֹת אָדָם</span><small>“This is the book of the generations of Adam.” Genesis 5:1</small></p>
+    <p>Every family tie the Bible records, from Adam to the apostles.</p>
+    <dl class="stats" id="stats"></dl>
+    <ul>
+      <li><strong>Whole</strong> shows everyone descended from Adam whom the Bible names, with the families who married into them. Time runs from left to right, a generation to a column, colored by era, and the line from Adam to Jesus runs straight through in gold. Choosing anyone draws their line back to Adam.</li>
+      <li><strong>Close</strong> shows the person chosen with their ancestors above and their descendants below, for anyone, inside Adam’s family or not.</li>
+    </ul>
+    <p><b>Sources.</b> People, names and family links: STEPBible TIPNR (Tyndale House, Cambridge), CC BY 4.0. Lifespans follow Floyd Nolen Jones’s refinement of Ussher’s chronology, from Theographic (CC BY-SA 4.0); they are traditional dates, not modern estimates.</p>
+    <p class="sub">Where a genealogy skips generations, the link is marked as an ancestor link. People the text mentions without naming are shown in italics. TIPNR also fills two gaps with unnamed generations of its own, nine between Matthan and Jacob to match the count of Luke 3 and four between Ithamar and Eli; no verse names or counts them, so they are left out: Matthew 1:15 calls Matthan the father of Jacob, and Eli is shown as a descendant of Ithamar. The chart of the whole family is laid out when the site is built, by <code>scripts/connections.py</code>.</p>
   </section>
 </main>
-
-<footer>
-  <div class="wrap">
-    <p><b>Sources.</b> People, names and family links: STEPBible TIPNR (Tyndale House, Cambridge), CC BY 4.0. Lifespans follow Floyd Nolen Jones’s refinement of Ussher’s chronology, from Theographic (CC BY-SA 4.0); they are traditional dates, not modern estimates.</p>
-    <p>Where a genealogy skips generations, the link is marked as an ancestor link. People the text mentions without naming are shown in italics. TIPNR also fills two gaps with unnamed generations of its own, nine between Matthan and Jacob to match the count of Luke 3 and four between Ithamar and Eli; no verse names or counts them, so they are left out: Matthew 1:15 calls Matthan the father of Jacob, and Eli is shown as a descendant of Ithamar. The chart of the whole family is laid out when the site is built. Part of the Plain English Bible, built from the project’s data by <code>scripts/connections.py</code>.</p>
-  </div>
-</footer>
 
 <!-- DATA -->
 <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/7.8.5/d3.min.js"></script>
 <script>
 (() => {
+  const $ = id => document.getElementById(id);
   /* ---------- The data, unpacked (see scripts/webpages.py, genealogy_data) ---------- */
-  const D = JSON.parse(document.getElementById("data").textContent);
+  const D = JSON.parse($("data").textContent);
   const N = D.n.length;
   const named = new Map();
   for (let k = 0; k < N; k++) if (!D.u[k]) named.set(D.n[k], (named.get(D.n[k]) || 0) + 1);
@@ -393,6 +420,7 @@ footer p { margin: 0; }
     for (const c of kids.flat(Infinity)) if (c != null) n.append(c);
     return n;
   };
+  const svgIcon = path => { const s = el("span", { style: "display:contents" }); s.innerHTML = path; return s; };
   // "Abijah (1 Samuel 8.2)" -> ["Abijah", "1 Samuel 8:2"]
   const split = p => {
     const m = /^(.*?) \((.+)\)$/.exec(p.t);
@@ -405,131 +433,8 @@ footer p { margin: 0; }
   };
   let current = null, view = "whole";
 
-  /* ---------- Stats ---------- */
-  const st = D.stats;
-  const stats = [["People named", fmt.format(st.people)], ["Parent–child links", fmt.format(st.links)],
-                 ["Families", fmt.format(st.families)], ["Generations from Adam", fmt.format(st.generations)]];
-  document.getElementById("stats").append(...stats.map(([k, v]) => el("div", {}, el("dt", { text: k }), el("dd", { text: v }))));
-
-  /* ---------- The line ---------- */
-  const ERAS = [["Adam", "Before the Flood", "Genesis 5"], ["Shem", "After the Flood", "Genesis 11"],
-                ["Abraham", "The patriarchs to David", "Matthew 1:2–6"], ["Solomon", "The kings of Judah", "Matthew 1:6–11"],
-                ["Shealtiel", "From the exile to Jesus", "Matthew 1:12–16"]];
-  const thread = document.getElementById("thread");
-  const eraAt = new Map();
-  ERAS.forEach(([name, label, ref]) => {
-    const k = LINE.findIndex(i => P[i].n === name);
-    if (k >= 0) eraAt.set(k, [label, ref]);
-  });
-  LINE.forEach((i, k) => {
-    if (eraAt.has(k)) {
-      const [label, ref] = eraAt.get(k);
-      thread.append(el("li", { class: "era" }, label, el("span", { text: ref })));
-    }
-    const p = P[i];
-    const size = 0.95 + 1.0 * Math.log10(1 + (p.v || 0)) / Math.log10(1 + maxV);
-    const b = el("button", { type: "button", "data-i": i, title: p.b || p.t, onclick: () => select(i, { scroll: true, fly: true }) },
-      el("sup", { text: k + 1 }), el("span", { class: p.u ? "unnamed" : null, text: p.n }));
-    b.style.fontSize = `${(size * 1.25).toFixed(3)}rem`;
-    thread.append(el("li", { class: "gen" }, b));
-  });
-
-  /* ---------- Families index ---------- */
-  const fam = document.getElementById("families");
-  const maxM = Math.max(...D.families.map(f => f.m));
-  D.families.slice(0, 24).forEach(f => {
-    const bar = el("span", { class: "bar" }, el("i"));
-    bar.firstChild.style.width = `${Math.max(2, 100 * Math.sqrt(f.m / maxM))}%`;
-    fam.append(el("li", {}, el("button", { type: "button", onclick: () => select(f.r, { scroll: true, fly: true }) },
-      el("b", { text: `Family of ${split(P[f.r])[0]}` }),
-      el("small", { text: `${fmt.format(f.m)} people · ${f.g} generations` }), bar)));
-  });
-
-  /* ---------- The verses that name each person (loaded when first needed) ---------- */
-  let versesOf = null;
-  function loadVerses() {
-    if (!versesOf) versesOf = fetch("data/bible/people.json").then(r => r.json()).then(L => {
-      const out = new Map();
-      const book = new Map(L.b.map((osis, k) => [osis, D.books[k]]));
-      for (const [osis, vs] of Object.entries(L.verses))
-        for (const [cv, ks] of Object.entries(vs))
-          for (const k of ks) {
-            if (!out.has(k)) out.set(k, []);
-            out.get(k).push(`${book.get(osis)} ${cv}`);
-          }
-      return out;
-    }).catch(() => { versesOf = null; return null; });
-    return versesOf;
-  }
-
-  /* ---------- The card ---------- */
-  const card = document.getElementById("card");
-  function relText(p) {
-    const ps = (p.p || []).filter(([, , fl]) => !fl.includes("a")).map(([j]) => split(P[j])[0]);
-    if (!ps.length) return null;
-    const word = p.s === "F" ? "Daughter" : p.s === "M" ? "Son" : "Child";
-    return `${word} of ${ps.join(" and ")}`;
-  }
-  function chipList(title, items, limit = 18) {
-    if (!items.length) return null;
-    const box = el("div", { class: "chips" });
-    const render = all => {
-      box.replaceChildren(...(all ? items : items.slice(0, limit)).map(([j, extra]) =>
-        el("button", { type: "button", class: `chip${onLine.has(j) ? " line" : ""}`, onclick: () => select(j, { fly: true }) },
-          split(P[j])[0], extra ? el("small", { text: ` ${extra}` }) : null)));
-      if (!all && items.length > limit) box.append(el("button", { type: "button", class: "more", onclick: () => render(true), text: `+${items.length - limit} more` }));
-    };
-    render(false);
-    return el("div", { class: "rel" }, el("h4", { text: `${title} (${items.length})` }), box);
-  }
-  function versesBlock(i) {
-    const p = P[i];
-    if (!p.v) return null;
-    const box = el("div", { class: "verses" }, el("a", { href: readerHref(p.f), text: p.f }));
-    const wrap = el("div", { class: "rel" }, el("h4", { text: `Named in ${fmt.format(p.v)} verse${p.v === 1 ? "" : "s"}` }), box);
-    if (p.v > 1) loadVerses().then(map => {
-      if (current !== i || !map || !map.get(i)) return;
-      const refs = map.get(i), limit = 12;
-      const render = all => {
-        box.replaceChildren(...(all ? refs : refs.slice(0, limit)).map(r => el("a", { href: readerHref(r), text: r })));
-        if (!all && refs.length > limit) box.append(el("button", { type: "button", class: "more", onclick: () => render(true), text: `+${refs.length - limit} more` }));
-      };
-      render(false);
-    });
-    return wrap;
-  }
-  function renderCard(i) {
-    const p = P[i];
-    const [name, dis] = split(p);
-    const orig = (p.o || []).map(f => el("span", { lang: isHeb(f) ? "he" : isGrk(f) ? "grc" : null, dir: isHeb(f) ? "rtl" : null, text: f }));
-    const facts = [];
-    const rel = relText(p);
-    if (rel) facts.push(["Family", rel]);
-    if (p.tr) facts.push(["Tribe", p.tr]);
-    if (p.a) facts.push(["Also called", p.a.join(", ")]);
-    if (!p.v) facts.push(["Verses", "Not named; included because a line passes through"]);
-    if (p.by != null || p.dy != null) facts.push(["Lived", `${p.by != null ? yl(p.by) : "?"} – ${p.dy != null ? yl(p.dy) : "?"} (Ussher–Jones)`]);
-    const t = at[i] >= 0 ? TREE[at[i]] : null;
-    if (t && !beside.has(i)) facts.push(["Generation", `${t.c + 1} from Adam`]);
-    else if (p.g) facts.push(["Generation", `${p.g} in this family`]);
-    if (onLine.has(i)) facts.push(["Line of Jesus", `Generation ${LINE.indexOf(i) + 1} of ${LINE.length}`]);
-    const parents = (p.p || []).map(([j, role, fl]) => [j, fl.includes("a") ? "ancestor" : fl.includes("?") ? "uncertain" : role === "m" ? "mother" : role === "f" ? "father" : ""]);
-    const children = kids[i].map(([j, , fl]) => [j, fl.includes("a") ? "descendant" : fl.includes("?") ? "uncertain" : ""]);
-    card.replaceChildren(
-      el("h3", {}, name, dis ? el("span", { class: "dis", text: `First named at ${dis}` }) : null),
-      orig.length ? el("div", { class: "orig" }, orig) : null,
-      p.b ? el("p", { class: "brief", text: p.b }) : null,
-      facts.length ? el("dl", { class: "facts" }, facts.map(([k, v]) => [el("dt", { text: k }), el("dd", { text: v })])) : null,
-      chipList("Parents", parents),
-      chipList("Spouses", (p.sp || []).map(j => [j])),
-      chipList("Siblings", (p.sb || []).map(j => [j])),
-      chipList("Children", children),
-      versesBlock(i),
-      p.v ? el("a", { class: "web-link", href: `graph.html#p${i}` }, "See them in the web of connections →") : null);
-  }
-
-  /* ---------- The whole family, drawn on a canvas ---------- */
-  // Laid out when the site was built: each person a column (generation) and a row.
+  /* ---------- The whole family, as laid out when the site was built ---------- */
+  // Each person a column (generation) and a row.
   const CW = 132, RH = 24, BW = 108, BH = 18, BUS = BW + (CW - BW) / 2;
   const TREE = [], at = new Int32Array(N).fill(-1);
   for (let j = 0; j < D.tree.length; j += 3) { at[D.tree[j]] = TREE.length; TREE.push({ i: D.tree[j], c: D.tree[j + 1], r: D.tree[j + 2] }); }
@@ -554,17 +459,180 @@ footer p { margin: 0; }
   byColumn.forEach(ks => ks.sort((a, b) => TREE[a].r - TREE[b].r));
   // Names to show when zoomed out, most often named first.
   const landmarks = TREE.map((t, k) => k).filter(k => P[TREE[k].i].v >= 12).sort((a, b) => P[TREE[b].i].v - P[TREE[a].i].v);
-  const eraCols = ERAS.map(([name, label]) => [TREE[at[LINE.find(i => P[i].n === name)]]?.c, label]).filter(e => e[0] != null);
 
-  const canvas = document.getElementById("family");
+  /* ---------- Eras: the five stretches of the line, a color each, as the web colors its parts ---------- */
+  // [dark stage, light stage]
+  const ERAS = [
+    { name: "Adam", label: "Before the Flood", ref: "Genesis 5", c: ["#4fd6cb", "#0f8c83"] },
+    { name: "Shem", label: "After the Flood", ref: "Genesis 11", c: ["#6fb0ff", "#2459c4"] },
+    { name: "Abraham", label: "The patriarchs to David", ref: "Matthew 1:2–6", c: ["#f59a62", "#bf5a1f"] },
+    { name: "Solomon", label: "The kings of Judah", ref: "Matthew 1:6–11", c: ["#ff7272", "#c43434"] },
+    { name: "Shealtiel", label: "From the exile to Jesus", ref: "Matthew 1:12–16", c: ["#b996ff", "#6d43c9"] },
+  ];
+  for (const E of ERAS) {
+    E.k = LINE.findIndex(i => P[i].n === E.name);
+    E.col = E.k >= 0 && at[LINE[E.k]] >= 0 ? TREE[at[LINE[E.k]]].c : null;
+  }
+  const eraOfCol = c => { let e = 0; ERAS.forEach((E, n) => { if (E.col != null && E.col <= c) e = n; }); return e; };
+  let dark = false;
+  const readTheme = () => {
+    const bg = getComputedStyle(document.documentElement).getPropertyValue("--bg").trim();
+    const m = /^#?([0-9a-f]{2})([0-9a-f]{2})([0-9a-f]{2})/i.exec(bg);
+    dark = m ? (parseInt(m[1], 16) + parseInt(m[2], 16) + parseInt(m[3], 16)) / 3 < 100 : false;
+  };
+  readTheme();
+  const eraColor = e => ERAS[e].c[dark ? 0 : 1];
+  // A person's color: gold on the line of Jesus, else their era's, else (outside the chart) faint.
+  const colorOfPerson = i => (onLine.has(i) ? colors.gold : at[i] >= 0 ? eraColor(eraOfCol(TREE[at[i]].c)) : colors.faint);
+  const dotFor = i => el("i", { class: "dot", style: `--c:${colorOfPerson(i)}` });
+  const rgba = (hex, a) => { const n = parseInt(hex.slice(1), 16); return `rgba(${n >> 16},${(n >> 8) & 255},${n & 255},${a})`; };
+
+  /* ---------- Stats ---------- */
+  const st = D.stats;
+  const stats = [["People named", fmt.format(st.people)], ["Parent–child links", fmt.format(st.links)],
+                 ["Families", fmt.format(st.families)], ["Generations from Adam", fmt.format(st.generations)]];
+  $("stats").append(...stats.map(([k, v]) => el("div", {}, el("dt", { text: k }), el("dd", { text: v }))));
+  $("count").textContent = `${fmt.format(TREE.length)} in the family of Adam · ${fmt.format(maxC + 1)} generations · ${fmt.format(st.people)} people named`;
+
+  /* ---------- The line ---------- */
+  const thread = $("thread");
+  const eraAt = new Map(ERAS.filter(E => E.k >= 0).map((E, n) => [E.k, E]));
+  LINE.forEach((i, k) => {
+    if (eraAt.has(k)) {
+      const E = eraAt.get(k);
+      thread.append(el("li", { class: "era", style: `--c:${eraColor(ERAS.indexOf(E))}` }, E.label, el("span", { text: E.ref })));
+    }
+    const p = P[i];
+    const size = 0.95 + 1.0 * Math.log10(1 + (p.v || 0)) / Math.log10(1 + maxV);
+    const b = el("button", { type: "button", "data-i": i, title: p.b || p.t, onclick: () => { closePanels(); select(i, { fly: true }); } },
+      el("sup", { text: k + 1 }), el("span", { class: p.u ? "unnamed" : null, text: p.n }));
+    b.style.fontSize = `${(size * 1.15).toFixed(3)}rem`;
+    thread.append(el("li", { class: "gen" }, b));
+  });
+
+  /* ---------- Families index ---------- */
+  const maxM = Math.max(...D.families.map(f => f.m));
+  $("families").append(...D.families.slice(0, 24).map(f => {
+    const bar = el("span", { class: "bar" }, el("i"));
+    bar.firstChild.style.width = `${Math.max(2, 100 * Math.sqrt(f.m / maxM))}%`;
+    return el("li", {}, el("button", { type: "button", onclick: () => { closePanels(); select(f.r, { fly: true }); } },
+      el("b", { text: `Family of ${split(P[f.r])[0]}` }),
+      el("small", { text: `${fmt.format(f.m)} people · ${f.g} generations` }), bar));
+  }));
+
+  /* ---------- The verses that name each person (loaded when first needed) ---------- */
+  let versesOf = null;
+  function loadVerses() {
+    if (!versesOf) versesOf = fetch("data/bible/people.json").then(r => r.json()).then(L => {
+      const out = new Map();
+      const book = new Map(L.b.map((osis, k) => [osis, D.books[k]]));
+      for (const [osis, vs] of Object.entries(L.verses))
+        for (const [cv, ks] of Object.entries(vs))
+          for (const k of ks) {
+            if (!out.has(k)) out.set(k, []);
+            out.get(k).push(`${book.get(osis)} ${cv}`);
+          }
+      return out;
+    }).catch(() => { versesOf = null; return null; });
+    return versesOf;
+  }
+
+  /* ---------- The card ---------- */
+  const card = $("card");
+  const ICON = {
+    read: '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linejoin="round"><path d="M12 6c-2-1.3-4.7-1.8-8-1.5v13c3.3-.3 6 .2 8 1.5 2-1.3 4.7-1.8 8-1.5v-13c-3.3-.3-6 .2-8 1.5Zm0 0v13"/></svg>',
+    tree: '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="5" r="2.5"/><circle cx="6" cy="19" r="2.5"/><circle cx="18" cy="19" r="2.5"/><path d="M12 7.5v4M6 16.5V14h12v2.5"/></svg>',
+    web: '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><circle cx="12" cy="12" r="2.5"/><circle cx="5" cy="6" r="1.8"/><circle cx="19" cy="5" r="1.8"/><circle cx="18" cy="19" r="1.8"/><circle cx="5" cy="17" r="1.8"/><path d="M10.2 10.4 6.3 7.2M13.9 10.5 17.8 6.4M13.8 13.8l2.9 3.8M10.1 13.5l-3.6 2.6"/></svg>',
+    close: '<svg viewBox="0 0 24 24" width="18" height="18" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M6 6l12 12M18 6 6 18"/></svg>',
+  };
+  const act = (attrs, text, icon, solid) => el(attrs.href ? "a" : "button", { ...attrs, type: attrs.href ? null : "button", class: `act${solid ? " solid" : ""}` }, svgIcon(ICON[icon] || ""), text);
+  function relText(p) {
+    const ps = (p.p || []).filter(([, , fl]) => !fl.includes("a")).map(([j]) => split(P[j])[0]);
+    if (!ps.length) return null;
+    const word = p.s === "F" ? "Daughter" : p.s === "M" ? "Son" : "Child";
+    return `${word} of ${ps.join(" and ")}`;
+  }
+  function chipList(title, items, limit = 18) {
+    if (!items.length) return null;
+    const box = el("div", { class: "list" });
+    const render = all => {
+      box.replaceChildren(...(all ? items : items.slice(0, limit)).map(([j, extra]) =>
+        el("button", { type: "button", class: `node-chip${onLine.has(j) ? " line" : ""}`, onclick: () => select(j, { fly: true }) },
+          dotFor(j), split(P[j])[0], extra ? el("small", { text: extra }) : null)));
+      if (!all && items.length > limit) box.append(el("button", { type: "button", class: "more", onclick: () => render(true), text: `+${items.length - limit} more` }));
+    };
+    render(false);
+    return el("div", { class: "rel" }, el("h3", { text: `${title} (${items.length})` }), box);
+  }
+  function versesBlock(i) {
+    const p = P[i];
+    if (!p.v) return null;
+    const box = el("div", { class: "verses" }, el("a", { href: readerHref(p.f), text: p.f }));
+    const wrap = el("div", { class: "rel" }, el("h3", { text: `Named in ${fmt.format(p.v)} verse${p.v === 1 ? "" : "s"}` }), box);
+    if (p.v > 1) loadVerses().then(map => {
+      if (current !== i || !map || !map.get(i)) return;
+      const refs = map.get(i), limit = 12;
+      const render = all => {
+        box.replaceChildren(...(all ? refs : refs.slice(0, limit)).map(r => el("a", { href: readerHref(r), text: r })));
+        if (!all && refs.length > limit) box.append(el("button", { type: "button", class: "more", onclick: () => render(true), text: `+${refs.length - limit} more` }));
+      };
+      render(false);
+    });
+    return wrap;
+  }
+  function renderCard(i) {
+    const p = P[i];
+    const [name, dis] = split(p);
+    const orig = (p.o || []).map(f => el("span", { lang: isHeb(f) ? "he" : isGrk(f) ? "grc" : null, dir: isHeb(f) ? "rtl" : null, text: f }));
+    const t = at[i] >= 0 ? TREE[at[i]] : null;
+    const kicker = onLine.has(i) ? `Line of Jesus · generation ${LINE.indexOf(i) + 1}`
+      : t && beside.has(i) ? "Married into the family"
+      : t ? ERAS[eraOfCol(t.c)].label : p.tr ? `Tribe of ${p.tr}` : "Person";
+    const facts = [];
+    const rel = relText(p);
+    if (rel) facts.push(["Family", rel]);
+    if (p.tr) facts.push(["Tribe", p.tr]);
+    if (p.a) facts.push(["Also called", p.a.join(", ")]);
+    if (!p.v) facts.push(["Verses", "Not named; included because a line passes through"]);
+    if (p.by != null || p.dy != null) facts.push(["Lived", `${p.by != null ? yl(p.by) : "?"} – ${p.dy != null ? yl(p.dy) : "?"} (Ussher–Jones)`]);
+    if (t && !beside.has(i)) facts.push(["Generation", `${t.c + 1} from Adam`]);
+    else if (p.g) facts.push(["Generation", `${p.g} in this family`]);
+    const parents = (p.p || []).map(([j, role, fl]) => [j, fl.includes("a") ? "ancestor" : fl.includes("?") ? "uncertain" : role === "m" ? "mother" : role === "f" ? "father" : ""]);
+    const children = kids[i].map(([j, , fl]) => [j, fl.includes("a") ? "descendant" : fl.includes("?") ? "uncertain" : ""]);
+    const actions = el("div", { class: "actions" },
+      p.v ? act({ href: readerHref(p.f) }, `Read ${p.f}`, "read", true) : null,
+      view === "whole" ? act({ onclick: () => setView("close") }, "Close family", "tree")
+        : t ? act({ onclick: () => setView("whole") }, "Whole family", "tree") : null,
+      p.v ? act({ href: `graph.html#p${i}` }, "In the web", "web") : null);
+    card.replaceChildren(...[
+      el("div", { class: "grab" }),
+      el("button", { type: "button", class: "close", "aria-label": "Close", onclick: () => select(null) }, svgIcon(ICON.close)),
+      el("div", { class: "kicker" }, dotFor(i), kicker),
+      el("h2", {}, name, dis ? el("small", { text: `First named at ${dis}` }) : null),
+      orig.length ? el("div", { class: "orig" }, orig) : null,
+      p.b ? el("p", { class: "brief", text: p.b }) : null,
+      actions,
+      facts.length ? el("dl", { class: "facts" }, facts.map(([k, v]) => [el("dt", { text: k }), el("dd", { text: v })])) : null,
+      chipList("Parents", parents),
+      chipList("Spouses", (p.sp || []).map(j => [j])),
+      chipList("Siblings", (p.sb || []).map(j => [j])),
+      chipList("Children", children),
+      versesBlock(i),
+    ].filter(Boolean));
+    card.hidden = false;
+    card.scrollTop = 0;
+    document.body.classList.add("card-open");
+  }
+
+  /* ---------- The whole family, drawn on a canvas ---------- */
+  const stage = $("stage"), canvas = $("family");
   const g = canvas.getContext("2d");
   let W = 0, H = 0, dpr = 1, T = d3.zoomIdentity, colors = {};
   function readColors() {
     const cs = getComputedStyle(document.documentElement);
-    for (const k of ["bg", "surface", "ink", "muted", "faint", "line", "lapis", "lapis-soft", "gold", "gold-soft"]) colors[k] = cs.getPropertyValue("--" + k).trim();
+    for (const k of ["bg", "surface", "ink", "muted", "faint", "line", "lapis", "lapis-soft", "gold", "gold-soft", "stage-1"]) colors[k] = cs.getPropertyValue("--" + k).trim();
   }
   readColors();
-  matchMedia("(prefers-color-scheme: dark)").addEventListener("change", () => { readColors(); schedule(); });
   const FONT = '500 12px "Libre Franklin", system-ui, sans-serif';
   const ITALIC = 'italic 400 12px "Libre Franklin", system-ui, sans-serif';
   const labelOf = new Map();
@@ -581,17 +649,33 @@ footer p { margin: 0; }
     return s;
   }
   function resize() {
-    const r = canvas.getBoundingClientRect();
+    const r = stage.getBoundingClientRect();
     dpr = Math.min(2, window.devicePixelRatio || 1);
     W = r.width; H = r.height;
     canvas.width = Math.round(W * dpr); canvas.height = Math.round(H * dpr);
     schedule();
   }
+  // The part of the stage clear of the controls and the card, where a person is brought into view.
+  function clearArea() {
+    const phone = W < 760, open = !card.hidden;
+    return { x0: 0, y0: phone ? 112 : 64, x1: open && !phone ? W - 384 : W, y1: open && phone ? H * 0.48 : H - 12 };
+  }
   let queued = false;
   function schedule() { if (!queued) { queued = true; requestAnimationFrame(() => { queued = false; draw(); }); } }
 
+  // The opening: the generations appear column by column from Adam, the gold line drawing on
+  // ahead of them, while the title stands in the middle.
+  let revealing = true, began = 0, clock = 0;
+  const colDelay = c => 0.35 + 2.3 * c / Math.max(1, maxC);
+  const shown = c => (revealing ? Math.min(1, Math.max(0, (clock - colDelay(c)) / 0.5)) : 1);
+
   function draw() {
     if (!W || view !== "whole") return;
+    if (revealing) {
+      clock = (performance.now() - began) / 1000;
+      if (clock > 2.9) $("title").classList.add("gone");
+      if (clock > 3.4) finishReveal(); else schedule();
+    }
     const k = T.k;
     g.setTransform(dpr, 0, 0, dpr, 0, 0);
     g.clearRect(0, 0, W, H);
@@ -601,55 +685,69 @@ footer p { margin: 0; }
     g.setTransform(dpr * k, 0, 0, dpr * k, dpr * T.x, dpr * T.y);
     const px = 1 / k;
     const sel = current != null && at[current] >= 0 ? at[current] : -1;
-    // The lines from each parent to their children: a short stem, a bar, and a branch to each.
-    g.lineWidth = Math.max(px, 0.6);
-    g.strokeStyle = colors.faint;
-    g.globalAlpha = k < 0.15 ? 0.6 : 1;
-    g.beginPath();
-    const dashed = [];
-    for (let a = 0; a < TREE.length; a++) {
-      const ks = down[a];
-      if (!ks.length) continue;
-      const p = TREE[a];
-      let lo = p.y, hi = p.y;
-      for (const b of ks) { lo = Math.min(lo, TREE[b].y); hi = Math.max(hi, TREE[b].y); }
-      if (p.x + CW < x0 || p.x > x1 || hi < y0 || lo > y1) continue;
-      g.moveTo(p.x + BW, p.y); g.lineTo(p.x + BUS, p.y);
-      g.moveTo(p.x + BUS, lo); g.lineTo(p.x + BUS, hi);
-      for (const b of ks) {
-        if (TREE[b].fl) { dashed.push(b); continue; }
-        g.moveTo(p.x + BUS, TREE[b].y); g.lineTo(TREE[b].x, TREE[b].y);
+    // While the title stands, the chart stays behind it.
+    const behindTitle = revealing ? 0.5 + 0.5 * Math.min(1, Math.max(0, (clock - 2.9) / 0.5)) : 1;
+    // The lines from each parent to their children (a short stem, a bar, and a branch to each),
+    // a column at a time, in the color of the children's era.
+    g.lineWidth = Math.max(px, 0.7);
+    for (let c = 1; c <= maxC; c++) {
+      const a = shown(c);
+      if (!a || (c - 1) * CW > x1 || c * CW < x0) continue;
+      g.strokeStyle = eraColor(eraOfCol(c));
+      g.globalAlpha = a * behindTitle * (dark ? 0.5 : 0.6) * (k < 0.15 ? 0.7 : 1);
+      const dashed = [];
+      g.beginPath();
+      for (const pa of byColumn[c - 1] || []) {
+        const ks = down[pa];
+        if (!ks.length) continue;
+        const p = TREE[pa];
+        let lo = p.y, hi = p.y;
+        for (const b of ks) { lo = Math.min(lo, TREE[b].y); hi = Math.max(hi, TREE[b].y); }
+        if (hi < y0 || lo > y1) continue;
+        g.moveTo(p.x + BW, p.y); g.lineTo(p.x + BUS, p.y);
+        g.moveTo(p.x + BUS, lo); g.lineTo(p.x + BUS, hi);
+        for (const b of ks) {
+          if (TREE[b].fl) { dashed.push(b); continue; }
+          g.moveTo(p.x + BUS, TREE[b].y); g.lineTo(TREE[b].x, TREE[b].y);
+        }
+      }
+      g.stroke();
+      if (dashed.length) {
+        g.setLineDash([4 * px, 3 * px]);
+        g.beginPath();
+        for (const b of dashed) { const t = TREE[b]; g.moveTo(TREE[t.up].x + BUS, t.y); g.lineTo(t.x, t.y); }
+        g.stroke();
+        g.setLineDash([]);
       }
     }
-    g.stroke();
-    if (dashed.length) {
-      g.setLineDash([4 * px, 3 * px]);
-      g.beginPath();
-      for (const b of dashed) { const t = TREE[b]; g.moveTo(TREE[t.up].x + BUS, t.y); g.lineTo(t.x, t.y); }
-      g.stroke();
-      g.setLineDash([]);
-    }
     g.globalAlpha = 1;
-    // The line of Jesus, in gold.
+    // The line of Jesus, in gold, glowing on the dark stage. In the opening it draws on.
     g.strokeStyle = colors.gold;
-    g.lineWidth = Math.max(2 * px, 1.6);
+    g.lineWidth = Math.max(2 * px, 1.8);
+    if (dark) { g.shadowColor = colors.gold; g.shadowBlur = 10 * dpr; }
     g.beginPath();
     for (let n = 1; n < LINE.length; n++) {
       const a = at[LINE[n - 1]], b = at[LINE[n]];
       if (a < 0 || b < 0) continue;
-      g.moveTo(TREE[a].x + BW, TREE[a].y); g.lineTo(TREE[b].x, TREE[b].y);
+      const f = revealing ? Math.min(1, Math.max(0, (clock + 0.25 - colDelay(TREE[b].c)) / 0.3)) : 1;
+      if (!f) continue;
+      const ax = TREE[a].x + BW, ay = TREE[a].y, bx = TREE[b].x, by = TREE[b].y;
+      g.moveTo(ax, ay); g.lineTo(ax + (bx - ax) * f, ay + (by - ay) * f);
     }
     g.stroke();
+    g.shadowBlur = 0;
     // The person chosen: their line back to Adam, and lines to a mother, a spouse or children
-    // drawn elsewhere on the chart.
-    const near = new Set();
+    // drawn elsewhere on the chart. Everyone else steps back, as in the web.
+    const near = new Set(), lit = new Set();
     if (sel >= 0) {
       g.strokeStyle = colors.lapis;
-      g.lineWidth = Math.max(2 * px, 1.4);
+      g.lineWidth = Math.max(2 * px, 1.6);
+      if (dark) { g.shadowColor = colors.lapis; g.shadowBlur = 8 * dpr; }
       g.beginPath();
       for (let a = sel; TREE[a].up >= 0; a = TREE[a].up) {
         const t = TREE[a], p = TREE[t.up];
         g.moveTo(p.x + BW, p.y); g.lineTo(p.x + BUS, p.y); g.lineTo(p.x + BUS, t.y); g.lineTo(t.x, t.y);
+        lit.add(t.up);
       }
       for (const b of down[sel]) {
         const p = TREE[sel], t = TREE[b];
@@ -657,6 +755,7 @@ footer p { margin: 0; }
         near.add(b);
       }
       g.stroke();
+      g.shadowBlur = 0;
       const s = TREE[sel], pi = P[s.i];
       const curve = (a, b) => {   // from a's right edge to b's left edge
         const ax = a.x + BW, bx = b.x, mx = (ax + bx) / 2;
@@ -686,26 +785,33 @@ footer p { margin: 0; }
       g.stroke();
       g.setLineDash([]);
       if (s.up >= 0) near.add(s.up);
+      for (const a of near) lit.add(a);
+      lit.add(sel);
     }
-    // The people: a box each. Names go inside once there is room for them.
+    // The people: a box each, tinted with their era. Names go inside once there is room.
     const inside = k >= 0.62;
     g.textBaseline = "middle";
     for (let a = 0; a < TREE.length; a++) {
       const t = TREE[a];
       if (!vis(t)) continue;
-      const line = onLine.has(t.i), chosen = a === sel, p = P[t.i];
+      const appear = shown(t.c) * behindTitle;
+      if (!appear) continue;
+      const line = onLine.has(t.i), chosen = a === sel, p = P[t.i], era = eraColor(eraOfCol(t.c));
+      g.globalAlpha = appear * (sel >= 0 && !lit.has(a) && !line ? 0.4 : 1);
       if (k < 0.12) {
-        g.fillStyle = chosen || near.has(a) ? colors.lapis : line ? colors.gold : colors.faint;
+        g.fillStyle = chosen || near.has(a) ? colors.lapis : line ? colors.gold : era;
         g.fillRect(t.x, t.y - BH / 2, BW, BH);
         continue;
       }
-      g.fillStyle = chosen ? colors.lapis : line ? colors["gold-soft"] : colors.surface;
-      g.strokeStyle = chosen || near.has(a) ? colors.lapis : line ? colors.gold : colors.faint;
-      g.lineWidth = near.has(a) || chosen ? Math.max(1.6 * px, 1.2) : Math.max(px, 0.8);
-      if (beside.has(t.i)) g.setLineDash([4 * px, 3 * px]);
       g.beginPath();
       g.roundRect(t.x, t.y - BH / 2, BW, BH, 5);
-      g.fill(); g.stroke();
+      g.fillStyle = chosen ? colors.lapis : line ? colors["gold-soft"] : colors.surface;
+      g.fill();
+      if (!chosen && !line) { g.fillStyle = rgba(era, dark ? 0.16 : 0.08); g.fill(); }
+      g.strokeStyle = chosen || near.has(a) ? colors.lapis : line ? colors.gold : rgba(era, dark ? 0.75 : 0.6);
+      g.lineWidth = near.has(a) || chosen ? Math.max(1.6 * px, 1.2) : Math.max(px, 0.8);
+      if (beside.has(t.i)) g.setLineDash([4 * px, 3 * px]);
+      g.stroke();
       if (beside.has(t.i)) g.setLineDash([]);
       if (inside) {
         g.fillStyle = chosen ? colors.surface : p.u ? colors.muted : colors.ink;
@@ -713,72 +819,85 @@ footer p { margin: 0; }
         g.fillText(boxLabel(a), t.x + 6, t.y + 0.5);
       }
     }
-    // The eras of the line, kept in view along the top.
-    g.setTransform(dpr, 0, 0, dpr, 0, 0);
-    g.fillStyle = colors.surface;
-    g.globalAlpha = 0.9;
-    g.fillRect(0, 0, W, 24);
     g.globalAlpha = 1;
-    g.fillStyle = colors.line;
-    g.fillRect(0, 24, W, 1);
-    g.font = '600 10.5px "Libre Franklin", system-ui, sans-serif';
-    for (let e = 0; e < eraCols.length; e++) {
-      const [c, label] = eraCols[e];
-      const next = e + 1 < eraCols.length ? eraCols[e + 1][0] * CW * k + T.x : Infinity;
-      const text = label.toUpperCase();
+    // The eras of the line, kept in view along the top, under the search.
+    g.setTransform(dpr, 0, 0, dpr, 0, 0);
+    const band = clearArea().y0 + 6;
+    g.font = '600 11px "Libre Franklin", system-ui, sans-serif';
+    g.lineJoin = "round";
+    const halo = dark ? "rgba(5,7,13,0.85)" : "rgba(251,250,247,0.9)";
+    // Right to left: each label starts at its era's first column, or stays at the left edge while
+    // its era fills the view, giving way to the next when they meet.
+    const placed = ERAS.map((E, e) => [E, e]).filter(([E]) => E.col != null);
+    let limit = W - 12;
+    for (let n = placed.length - 1; n >= 0; n--) {
+      const [E, e] = placed[n];
+      const text = E.label.toUpperCase();
       const w = g.measureText(text).width;
-      let sx = Math.max(c * CW * k + T.x, 8);
-      if (sx + w + 12 > next) sx = next - w - 12;
-      if (sx + w < 0 || sx > W) continue;
-      g.fillStyle = colors.gold;
-      g.fillText(text, sx, 12.5);
+      let sx = Math.max(E.col * CW * k + T.x, 20);
+      if (sx + w + 8 > limit) sx = limit - w - 8;
+      if (sx < 8 || sx > W) continue;
+      limit = sx - 16;
+      g.globalAlpha = shown(E.col);
+      g.beginPath(); g.roundRect(sx - 8, band - 5, w + 16, 22, 11);
+      g.fillStyle = rgba(colors.surface, 0.88); g.fill();
+      g.strokeStyle = rgba(eraColor(e), 0.45); g.lineWidth = 1; g.stroke();
+      g.fillStyle = eraColor(e); g.fillText(text, sx, band + 6);
     }
+    g.globalAlpha = 1;
     // Zoomed out: the best-known names, wherever they fit.
-    if (!inside) {
-      const taken = [];
+    if (!inside && !revealing) {
+      const taken = [[0, 0, W, band + 14]];
       const fits = (x, y, w, h) => !taken.some(r => x < r[2] && x + w > r[0] && y < r[3] && y + h > r[1]);
       g.font = '600 12px "Libre Franklin", system-ui, sans-serif';
-      g.lineJoin = "round";
       let n = 0;
-      const order = sel >= 0 ? [sel, ...landmarks] : landmarks;
+      const order = sel >= 0 ? [sel, ...[...near].filter(a => P[TREE[a].i].v), ...landmarks] : landmarks;
       for (const a of order) {
-        if (n >= 90) break;
+        if (n >= (W < 640 ? 50 : 90)) break;
         const t = TREE[a];
         if (!vis(t)) continue;
         const sx = t.x * k + T.x, sy = t.y * k + T.y;
         const text = P[t.i].n, w = g.measureText(text).width + 6;
         const bx = sx - 2, by = sy - 8;
-        if (by < 26 || !fits(bx, by, w, 16)) continue;
+        if (!fits(bx, by, w, 16)) continue;
         taken.push([bx, by, bx + w, by + 16]);
-        g.strokeStyle = colors.surface; g.lineWidth = 3.5;
+        g.strokeStyle = halo; g.lineWidth = 3.5;
         g.strokeText(text, bx + 3, sy + 0.5);
         g.fillStyle = a === sel ? colors.lapis : onLine.has(t.i) ? colors.gold : colors.ink;
+        g.globalAlpha = sel < 0 || lit.has(a) || onLine.has(t.i) ? 1 : 0.45;
         g.fillText(text, bx + 3, sy + 0.5);
+        g.globalAlpha = 1;
         n++;
       }
     }
   }
 
-  // Panning and zooming. A scroll wheel scrolls the page unless Ctrl or Cmd is held (as a
-  // trackpad pinch is), so the chart never traps the reader.
+  // Panning and zooming, with a finger, a trackpad or the scroll wheel.
   const zoom = d3.zoom()
     .scaleExtent([0.02, 2.5])
     .clickDistance(6)
-    .filter(ev => (ev.type === "wheel" ? ev.ctrlKey || ev.metaKey : !ev.button))
     .on("zoom", ev => { T = ev.transform; schedule(); });
-  const cz = d3.select(canvas).call(zoom);
+  const cz = d3.select(canvas).call(zoom).on("dblclick.zoom", null);
   function fitAll(animate) {
-    const bw = (maxC + 1) * CW, bh = (maxR - minR + 2) * RH;
-    const k = Math.min((W - 24) / bw, (H - 40) / bh);
-    const t = d3.zoomIdentity.translate((W - bw * k) / 2, 30 + (H - 30 - bh * k) / 2 - (minR - 1) * RH * k).scale(k);
+    const A = clearArea(), bw = (maxC + 1) * CW, bh = (maxR - minR + 2) * RH;
+    const top = A.y0 + 24, bottom = A.y1 - (card.hidden ? 56 : 8);
+    const k = Math.min((A.x1 - A.x0 - 28) / bw, (bottom - top) / bh);
+    const t = d3.zoomIdentity.translate(A.x0 + (A.x1 - A.x0 - bw * k) / 2, top + (bottom - top - bh * k) / 2 - (minR - 1) * RH * k).scale(k);
     (animate && !reduced() ? cz.transition().duration(600) : cz).call(zoom.transform, t);
   }
   function flyTo(i, animate) {
-    const t = TREE[at[i]];
+    const t = TREE[at[i]], A = clearArea();
     const k = Math.max(T.k, 0.95);
-    const narrow = W < 640;
-    const target = d3.zoomIdentity.translate(W * (narrow ? 0.38 : 0.42) - (t.x + BW / 2) * k, H * (narrow ? 0.4 : 0.5) - t.y * k).scale(k);
+    const target = d3.zoomIdentity.translate(A.x0 + (A.x1 - A.x0) * 0.42 - (t.x + BW / 2) * k, (A.y0 + A.y1) / 2 - t.y * k).scale(k);
     (animate && !reduced() ? cz.transition().duration(650) : cz).call(zoom.transform, target);
+  }
+  function flyToColumn(c) {
+    const k = Math.max(T.k, 0.3), A = clearArea();
+    const ys = (byColumn[c] || []).map(a => TREE[a].y);
+    const line = LINE.map(i => at[i]).find(a => a >= 0 && TREE[a].c === c);
+    const y = line != null ? TREE[line].y : ys.length ? ys[Math.floor(ys.length / 2)] : 0;
+    const t = d3.zoomIdentity.translate(A.x0 + 24 - c * CW * k, (A.y0 + A.y1) / 2 - y * k).scale(k);
+    (reduced() ? cz : cz.transition().duration(650)).call(zoom.transform, t);
   }
   function nodeAt(sx, sy) {
     const k = T.k, wx = (sx - T.x) / k, wy = (sy - T.y) / k;
@@ -796,14 +915,16 @@ footer p { margin: 0; }
     return best;
   }
   canvas.addEventListener("click", ev => {
+    if (revealing) { skip(); return; }
     const r = canvas.getBoundingClientRect();
     const t = nodeAt(ev.clientX - r.left, ev.clientY - r.top);
-    if (t) select(t.i, { peek: true });
+    if (t) select(t.i); else if (current != null) select(null);
   });
   canvas.addEventListener("mousemove", ev => {
+    if (revealing) return;
     const r = canvas.getBoundingClientRect();
     const t = nodeAt(ev.clientX - r.left, ev.clientY - r.top);
-    canvas.style.cursor = t ? "pointer" : "";
+    canvas.classList.toggle("over", !!t);
     canvas.title = t ? P[t.i].t + (P[t.i].b ? ` — ${P[t.i].b}` : "") : "";
   });
   // Keys: left to the parent, right to a child, up and down within the generation.
@@ -823,25 +944,17 @@ footer p { margin: 0; }
     } else if (ev.key === "ArrowUp" || ev.key === "ArrowDown") {
       const col = byColumn[t.c], n = col.indexOf(a) + (ev.key === "ArrowUp" ? -1 : 1);
       to = n >= 0 && n < col.length ? col[n] : -1;
-    } else if (ev.key === "Enter") { card.focus(); card.scrollIntoView({ block: "nearest" }); return; }
+    } else if (ev.key === "Enter") { card.focus(); return; }
     else return;
     ev.preventDefault();
     if (to >= 0) select(TREE[to].i, { fly: true });
   });
-  let started = false;
-  new ResizeObserver(() => {
-    if (canvas.hidden) return;
-    resize();
-    if (!started) { started = true; start(); }
-  }).observe(canvas);
 
   /* ---------- The close family: an hourglass ---------- */
   const svg = d3.select("#tree");
   const hview = svg.append("g");
-  const hzoom = d3.zoom().scaleExtent([0.25, 2.5])
-    .filter(ev => (ev.type === "wheel" ? ev.ctrlKey || ev.metaKey : !ev.button))
-    .on("zoom", e => hview.attr("transform", e.transform));
-  svg.call(hzoom);
+  const hzoom = d3.zoom().scaleExtent([0.25, 2.5]).on("zoom", e => hview.attr("transform", e.transform));
+  svg.call(hzoom).on("dblclick.zoom", null);
   const NW = 136, NH = 40, GAPX = 14, LEVEL = 86, UP = 6, DOWN = 3, CAP = 10;
   function ancestors(i, depth, seen) {
     const node = { i, children: [] };
@@ -873,7 +986,7 @@ footer p { margin: 0; }
     h.each(d => { d.y = dir * d.depth * LEVEL; });
     return h;
   }
-  const short = (s, n = 19) => (s.length > n ? `${s.slice(0, n - 1)}…` : s);
+  const short = (s, n = 18) => (s.length > n ? `${s.slice(0, n - 1)}…` : s);
   let hourglassNote = "";
   function drawHourglass(i) {
     const up = layout(ancestors(i, 0, new Set([i])), -1);
@@ -904,14 +1017,16 @@ footer p { margin: 0; }
       });
     const gs = hview.append("g").selectAll("g").data(nodes).join("g")
       .attr("class", d => `node${d.data.more ? " more" : ""}${d.data.i === i ? " focus" : ""}${onLine.has(d.data.i) ? " line" : ""}`)
+      .attr("style", d => (d.data.more ? null : `--era:${colorOfPerson(d.data.i)}`))
       .attr("transform", d => `translate(${d.x - NW / 2},${d.y - NH / 2})`)
       .attr("role", "button").attr("tabindex", 0)
       .attr("aria-label", d => (d.data.more ? `${d.data.more} more children` : P[d.data.i].t))
-      .on("click", (e, d) => (d.data.more ? showAllChildren(d.data.of) : select(d.data.i, { peek: true })))
+      .on("click", (e, d) => (d.data.more ? showAllChildren(d.data.of) : select(d.data.i)))
       .on("keydown", (e, d) => { if (e.key === "Enter" || e.key === " ") { e.preventDefault(); d.data.more ? showAllChildren(d.data.of) : select(d.data.i); } });
     gs.append("rect").attr("width", NW).attr("height", NH).attr("rx", 9);
-    gs.append("text").attr("x", 10).attr("y", 17).text(d => (d.data.more ? `+${d.data.more} more` : short(split(P[d.data.i])[0])));
-    gs.append("text").attr("class", "sub").attr("x", 10).attr("y", 31).text(d => {
+    gs.filter(d => !d.data.more && d.data.i !== i).append("rect").attr("class", "stripe").attr("x", 0).attr("y", 8).attr("width", 3).attr("height", NH - 16).attr("rx", 1.5);
+    gs.append("text").attr("x", 12).attr("y", 17).text(d => (d.data.more ? `+${d.data.more} more` : short(split(P[d.data.i])[0])));
+    gs.append("text").attr("class", "sub").attr("x", 12).attr("y", 31).text(d => {
       if (d.data.more) return "see the list";
       const p = P[d.data.i];
       return p.by != null ? `${yl(p.by)}` : (p.u ? "unnamed" : p.f);
@@ -924,70 +1039,94 @@ footer p { margin: 0; }
   }
   function showAllChildren(i) {
     select(i);
-    const rels = card.querySelectorAll(".rel");
-    const last = [...rels].find(r => r.querySelector("h4")?.textContent.startsWith("Children"));
+    const last = [...card.querySelectorAll(".rel")].find(r => r.querySelector("h3")?.textContent.startsWith("Children"));
     last?.querySelector(".more")?.click();
     last?.scrollIntoView({ block: "nearest", behavior: reduced() ? "auto" : "smooth" });
   }
   function fitHourglass(animate) {
     const box = hview.node().getBBox();
-    const w = svg.node().clientWidth, h = svg.node().clientHeight;
+    const A = clearArea();
+    const w = A.x1 - A.x0, h = A.y1 - A.y0;
     if (!box.width || !w) return;
     const k = Math.max(w < 600 ? 0.55 : 0.7, Math.min(1, 0.9 * Math.min(w / box.width, h / box.height)));
     const cx = box.width * k <= w ? box.x + box.width / 2 : 0;
     const cy = box.height * k <= h ? box.y + box.height / 2 : 0;
-    const t = d3.zoomIdentity.translate(w / 2 - k * cx, h / 2 - k * cy).scale(k);
+    const t = d3.zoomIdentity.translate(A.x0 + w / 2 - k * cx, A.y0 + h / 2 - k * cy).scale(k);
     (animate && !reduced() ? svg.transition().duration(400) : svg).call(hzoom.transform, t);
   }
 
-  /* ---------- Views, the peek and the tools ---------- */
-  const peek = document.getElementById("peek");
-  const note = document.getElementById("tree-note");
+  /* ---------- Views, panels, the key and the tools ---------- */
+  const note = $("tree-note");
   function setView(v) {
+    if (v === "close" && current == null) { select(LINE[LINE.length - 1], { stay: true }); }
     view = v;
-    for (const b of document.querySelectorAll(".seg button")) b.setAttribute("aria-pressed", String(b.dataset.view === v));
+    for (const b of document.querySelectorAll("[data-view]")) b.setAttribute("aria-pressed", String(b.dataset.view === v));
     canvas.hidden = v !== "whole";
-    document.getElementById("tree").toggleAttribute("hidden", v !== "close");   // an SVG element has no .hidden
-    document.getElementById("legend-whole").hidden = v !== "whole";
-    document.getElementById("legend-close").hidden = v !== "close";
-    peek.hidden = true;
+    $("tree").toggleAttribute("hidden", v !== "close");   // an SVG element has no .hidden
+    $("legend-whole").hidden = v !== "whole";
+    $("legend-close").hidden = v !== "close";
+    $("chips").hidden = v !== "whole";
     if (v === "close" && current != null) drawHourglass(current);
     if (v === "whole") {
       resize();
       if (current != null && at[current] >= 0) flyTo(current, false);
     }
+    if (current != null) renderCard(current);
     updateNote();
   }
   function updateNote() {
     if (view === "close") { note.textContent = hourglassNote; return; }
     const outside = current != null && at[current] < 0;
-    note.textContent = outside ? `${split(P[current])[0]} is not in the family of Adam as the Bible records it. Choose Close family to see their own family.`
-      : `${fmt.format(TREE.length)} people over ${maxC + 1} generations. Pinch, or hold Ctrl or ⌘ and scroll, to zoom.`;
+    note.textContent = outside ? `${split(P[current])[0]} is not in the family of Adam as the Bible records it. Choose Close to see their own family.`
+      : "Tap an era to go there, or anyone to see their family.";
   }
-  for (const b of document.querySelectorAll(".seg button")) b.onclick = () => setView(b.dataset.view);
-  document.getElementById("zoom-in").onclick = () => (view === "whole" ? cz.transition().duration(200).call(zoom.scaleBy, 1.5) : svg.transition().duration(200).call(hzoom.scaleBy, 1.3));
-  document.getElementById("zoom-out").onclick = () => (view === "whole" ? cz.transition().duration(200).call(zoom.scaleBy, 1 / 1.5) : svg.transition().duration(200).call(hzoom.scaleBy, 1 / 1.3));
-  document.getElementById("zoom-fit").onclick = () => (view === "whole" ? fitAll(true) : fitHourglass(true));
-  new ResizeObserver(() => current != null && view === "close" && fitHourglass(false)).observe(svg.node());
-  function showPeek(i) {
-    const p = P[i];
-    const [name] = split(p);
-    const bits = [relText(p), p.by != null ? `born ${yl(p.by)}` : null, p.b].filter(Boolean);
-    peek.replaceChildren(
-      el("b", { text: name }),
-      bits.length ? el("p", { text: bits.join(" · ") }) : null,
-      el("div", { class: "acts" },
-        view === "whole" ? el("button", { type: "button", text: "Close family", onclick: () => setView("close") })
-          : at[i] >= 0 ? el("button", { type: "button", text: "Whole family", onclick: () => setView("whole") }) : null,
-        el("button", { type: "button", text: "Details", onclick: () => { peek.hidden = true; card.scrollIntoView({ behavior: reduced() ? "auto" : "smooth", block: "start" }); } })));
-    peek.hidden = false;
+  for (const b of document.querySelectorAll("[data-view]")) b.onclick = () => setView(b.dataset.view);
+  const panels = ["browse", "about"];
+  function closePanels() { for (const p of panels) $(p).hidden = true; }
+  for (const b of document.querySelectorAll("[data-panel]")) b.onclick = () => {
+    const open = $(b.dataset.panel).hidden;
+    closePanels();
+    $(b.dataset.panel).hidden = !open;
+    if (open && b.dataset.panel === "browse") thread.querySelector("[aria-current]")?.scrollIntoView({ block: "nearest" });
+  };
+  for (const p of panels) $(p).querySelector("[data-close]").onclick = () => { $(p).hidden = true; };
+  function renderKey() {
+    $("key-dots").replaceChildren(...ERAS.map((E, e) => el("i", { style: `--c:${eraColor(e)}` })));
+    $("chips").replaceChildren(...ERAS.map((E, e) => E.col == null ? null : el("button", { type: "button", class: "chip", title: E.ref,
+      onclick: () => { if (view !== "whole") setView("whole"); flyToColumn(E.col); } },
+      el("i", { class: "dot", style: `--c:${eraColor(e)}` }), E.label)));
   }
+  renderKey();
+  if (innerWidth >= 760) $("key").open = true;
+  $("zoom-in").onclick = () => (view === "whole" ? cz.transition().duration(200).call(zoom.scaleBy, 1.5) : svg.transition().duration(200).call(hzoom.scaleBy, 1.3));
+  $("zoom-out").onclick = () => (view === "whole" ? cz.transition().duration(200).call(zoom.scaleBy, 1 / 1.5) : svg.transition().duration(200).call(hzoom.scaleBy, 1 / 1.3));
+  $("zoom-fit").onclick = () => (view === "whole" ? fitAll(true) : fitHourglass(true));
+  addEventListener("keydown", e => {
+    if (revealing) { skip(); return; }
+    if (e.target === q) return;
+    if (e.key === "Escape") { if (panels.some(p => !$(p).hidden)) closePanels(); else select(null); }
+    else if (e.key === "/") { e.preventDefault(); q.focus(); }
+  });
+  matchMedia("(prefers-color-scheme: dark)").addEventListener("change", () => {
+    readColors(); readTheme(); renderKey();
+    thread.querySelectorAll("li.era").forEach((li, n) => li.style.setProperty("--c", eraColor(ERAS.indexOf([...eraAt.values()][n]))));
+    if (current != null) { renderCard(current); if (view === "close") drawHourglass(current); }
+    schedule();
+  });
 
   /* ---------- Choosing a person ---------- */
   function select(i, opts = {}) {
     current = i;
-    renderCard(i);
     thread.querySelectorAll("button[aria-current]").forEach(b => b.removeAttribute("aria-current"));
+    if (i == null) {
+      card.hidden = true;
+      document.body.classList.remove("card-open");
+      try { history.replaceState(null, "", location.pathname); } catch (e) { /* not allowed here */ }
+      if (view === "close") setView("whole");
+      schedule(); updateNote();
+      return;
+    }
+    renderCard(i);
     thread.querySelector(`button[data-i="${i}"]`)?.setAttribute("aria-current", "true");
     try { history.replaceState(null, "", `#p${i}`); } catch (e) { /* the viewer may not allow it */ }
     if (view === "whole" && at[i] < 0 && !opts.stay) setView("close");
@@ -995,12 +1134,10 @@ footer p { margin: 0; }
     else if (opts.fly && W) flyTo(i, true);
     schedule();
     updateNote();
-    if (opts.peek && innerWidth < 980) showPeek(i); else peek.hidden = true;
-    if (opts.scroll) document.getElementById("explore").scrollIntoView({ behavior: reduced() ? "auto" : "smooth", block: "start" });
   }
 
   /* ---------- Search ---------- */
-  const q = document.getElementById("q"), results = document.getElementById("results");
+  const q = $("q"), results = $("results");
   const norm = s => s.normalize("NFD").replace(/[̀-ͯ]/g, "").toLowerCase();
   const index = P.map((p, i) => ({ i, keys: [p.n, p.t, ...(p.a || [])].map(norm) }));
   let hits = [], active = -1;
@@ -1018,33 +1155,50 @@ footer p { margin: 0; }
   function showResults() {
     results.replaceChildren(...hits.map((i, k) => el("li", { role: "option", id: `opt-${k}`, "aria-selected": k === active ? "true" : "false",
       onmousedown: e => { e.preventDefault(); choose(i); } },
-      el("b", { text: P[i].t }), el("small", { text: P[i].b || (P[i].u ? "Unnamed in the text" : `First named at ${P[i].f}`) }))));
+      dotFor(i), el("span", {}, el("b", { text: P[i].t }), el("small", { text: P[i].b || (P[i].u ? "Unnamed in the text" : `First named at ${P[i].f}`) })))));
     results.hidden = !hits.length;
     q.setAttribute("aria-expanded", hits.length ? "true" : "false");
     if (active >= 0) q.setAttribute("aria-activedescendant", `opt-${active}`); else q.removeAttribute("aria-activedescendant");
   }
-  function choose(i) { hits = []; showResults(); q.value = ""; q.blur(); select(i, { fly: true, peek: true }); }
+  function choose(i) { hits = []; showResults(); q.value = ""; q.blur(); closePanels(); select(i, { fly: true }); }
   q.addEventListener("input", () => { hits = search(q.value); active = hits.length ? 0 : -1; showResults(); });
   q.addEventListener("keydown", e => {
     if (e.key === "ArrowDown" && hits.length) { active = (active + 1) % hits.length; showResults(); e.preventDefault(); }
     else if (e.key === "ArrowUp" && hits.length) { active = (active - 1 + hits.length) % hits.length; showResults(); e.preventDefault(); }
     else if (e.key === "Enter" && active >= 0) { choose(hits[active]); e.preventDefault(); }
-    else if (e.key === "Escape") { hits = []; showResults(); }
+    else if (e.key === "Escape") { hits = []; showResults(); q.blur(); }
   });
-  q.addEventListener("blur", () => setTimeout(() => { hits = []; showResults(); }, 120));
+  q.addEventListener("blur", () => setTimeout(() => { hits = []; showResults(); }, 150));
 
-  /* ---------- Start: the person in the link, else David ---------- */
+  /* ---------- Start: the opening, then the person in the link, if any ---------- */
+  let pending = null;
+  // A tap or a key brings the end of the opening on at once.
+  function skip() { if (revealing && clock < 2.9) { began = performance.now() - 2900; schedule(); } }
+  function finishReveal() {
+    revealing = false;
+    $("title").classList.add("gone");
+    setTimeout(() => { $("title").hidden = true; }, 1000);
+    stage.classList.add("ready");
+    if (pending != null) { const i = pending; pending = null; select(i, { fly: true }); }
+    updateNote();
+  }
   function start() {
     const m = /^#p(\d+)$/.exec(location.hash);
-    const david = P.findIndex(p => p.n === "David" && (p.v || 0) > 500);
-    const i = m && P[+m[1]] ? +m[1] : (david >= 0 ? david : LINE[LINE.length - 1]);
-    select(i, { stay: true });
-    if (at[i] >= 0) flyTo(i, false); else { fitAll(false); setView("close"); }
+    pending = m && P[+m[1]] ? +m[1] : null;
+    fitAll(false);
+    began = performance.now() - (reduced() ? 6000 : 0);
+    schedule();
     (document.fonts ? document.fonts.ready : Promise.resolve()).then(() => { labelOf.clear(); schedule(); });
   }
+  let started = false;
+  new ResizeObserver(() => {
+    resize();
+    if (!started) { started = true; start(); }
+    else if (view === "close" && current != null) fitHourglass(false);
+  }).observe(stage);
   addEventListener("hashchange", () => {
     const m = /^#p(\d+)$/.exec(location.hash);
-    if (m && P[+m[1]] && +m[1] !== current) select(+m[1], { fly: true });
+    if (m && P[+m[1]] && +m[1] !== current && !revealing) select(+m[1], { fly: true });
   });
 })();
 </script>

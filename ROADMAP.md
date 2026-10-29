@@ -274,6 +274,12 @@ knows the historical geography.
 
 ## 3. Genealogy viewer (built)
 
+- **One design with the web.** The page is laid out like *The Web of Scripture*: the chart
+  fills the window under an opening title, with floating search, a key, zoom and a card for the
+  person chosen (a sheet from the bottom on phones). Each generation takes the color of its era
+  on the line (before the Flood, after the Flood, the patriarchs to David, the kings of Judah,
+  the exile to Jesus); choosing someone draws their line back to Adam and dims the rest. The
+  line from Adam to Jesus and the largest families open as a panel.
 - **Everyone connected.** The whole family of Adam on one chart: 1,061 people over 76
   generations, with the families who married into it (Saul's through Michal, Ruth beside
   Boaz). The line from Adam to Jesus runs straight through in gold; choosing anyone draws
