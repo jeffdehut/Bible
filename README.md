@@ -42,8 +42,15 @@ index.html                       The website's home page, the reader: the transl
 genealogy.html                   The Generations: the line from Adam to Jesus and a family explorer
 history.html                     Streams of Time: world history, AD 30 to today, beside the Bible
 maps/
+  index.html                     The Bible maps: eight sheets, in the order of the Bible's history
+  western-asia.html              Map No. 4, Western Asia: Abraham, Jacob and Joseph
   exodus.html                    Map No. 5, The Exodus: the camps of Numbers 33
-  kingdoms.html                  Map No. 7, The Kingdoms of Judah and Israel (a style study)
+  palestine-history.html         Map No. 2, Old Testament history: Joshua, the ark, David
+  kingdoms.html                  Map No. 7, The Kingdoms of Judah and Israel: Elijah and Elisha
+  empires.html                   Map No. 6, Assyria, Babylon and Persia: the exile and return
+  palestine.html                 Map No. 1, Palestine in the time of Christ: the Gospels
+  jerusalem.html                 Plan of Ancient Jerusalem: Jesus' last week, David's flight
+  roman-empire.html              Map No. 3, The Roman Empire: the travels of Paul
   data/                          Each map's data
 icons/, manifest.webmanifest,    The reader's app icon, install details and offline support, and the
 sw.js, 404.html, robots.txt      site's not-found page and instructions to crawlers
@@ -157,22 +164,33 @@ the genealogy and the timeline for readers who don't use Obsidian. Each is a sin
 that opens in a browser, works on phones, and follows the reader's light or dark setting.
 `scripts/connections.py` rebuilds them from `scripts/templates/` and the same data as the notes.
 
-`maps/kingdoms.html` is the first of the Bible maps: Map No. 7, *The Kingdoms of Judah
-and Israel*, a style study redrawing the Eilers Sunday School wall map of that name from open
-data (see the map style in [ROADMAP.md](ROADMAP.md)). It zooms and pans on phones, adds names
-as you zoom in without letting them overlap, prints on a Letter page with an index of places,
-and downloads as SVG. The land, water and relief come from elevation data; the places from
-OpenBible.info's Bible geocoding, with a "?" where the location is uncertain. The tribal
-territories are approximate: each piece of land goes to the tribe whose towns in Joshua 13–19
-and 21 are nearest. `scripts/maps.py` rebuilds it.
+`maps/index.html` is the set of Bible maps: eight sheets after the Eilers Sunday School wall
+maps, redrawn from open data (see the map style in [ROADMAP.md](ROADMAP.md)). In the order of
+the Bible's history:
 
-`maps/exodus.html` is Map No. 5, *The Exodus*, on a Letter landscape page. It follows the
-42 camps of Numbers 33 from Rameses to the plains of Moab. A camp is plotted where OpenBible.info
-gives a proposed site with a score of at least 150 out of 1,000, and is marked "?" below 500.
-Between two camps the route follows the easiest ground, drawn solid where both sites are fairly
-secure and dashed elsewhere. Triangles mark the proposed sites of Mount Sinai. The Route panel
-lists every camp, including the 9 not plotted, and prints as a table after the sheet. Both
-maps are built from one page template, `scripts/templates/map.html`, so later maps add only data.
+- **Map No. 4, Western Asia:** the lands from Egypt to Persia, with Abraham, Jacob and Joseph.
+- **Map No. 5, The Exodus:** the 42 camps of Numbers 33 and the proposed sites of Mount Sinai.
+- **Map No. 2, Palestine, Old Testament history:** the peoples of Canaan and the kingdom of
+  David and Solomon, with Joshua's campaigns, Samuel's circuit, the ark and David's flight.
+- **Map No. 7, The Kingdoms of Judah and Israel:** the tribal allotments and the two kingdoms,
+  with Elijah and Elisha.
+- **Map No. 6, The Empires:** Assyria, Babylon and Persia, chosen one at a time, with the exiles
+  of Israel and Judah, Jonah, Jeremiah, Ezra and Nehemiah.
+- **Map No. 1, Palestine in the time of Christ:** the realms of Luke 3:1, with the places each
+  Gospel names, in its order.
+- **Plan of Ancient Jerusalem:** the hills and valleys with the known sites, Jesus' last week
+  and David's flight from Absalom.
+- **Map No. 3, The Roman Empire:** the provinces about AD 50 and Paul's journeys.
+
+Every sheet zooms and pans on phones, adds names as you zoom in without letting them overlap,
+prints on a Letter page with an index of places and a table of each journey, and downloads as
+SVG. The land, water and relief come from elevation data, with rivers and lakes from Natural
+Earth on the larger sheets; the places from OpenBible.info's Bible geocoding, with a "?" where
+the location is uncertain. Each journey is a list of stops in `scripts/maps.py`, each with the
+verse that names it, and the build checks every name against the translation's text. Lands
+and borders are approximate: each piece of land goes to the people whose towns are nearest. All
+the sheets share one page template, `scripts/templates/map.html`; `scripts/maps.py` rebuilds
+them (`python3 scripts/maps.py exodus` rebuilds one).
 
 The data is open: OpenBible.info cross-references; STEPBible's tagged names, family links and
 verse-numbering mapping; Theographic's dates; and Wikidata identifiers. Start with
@@ -185,7 +203,7 @@ python3 scripts/build.py     # regenerate text/, apparatus/, books.json
 python3 scripts/verify.py    # compare everything with the published editions (needs network)
 python3 scripts/translation.py   # check and compile the translation into text/english/
 python3 scripts/connections.py   # regenerate connections/ (needs network)
-python3 scripts/maps.py          # rebuild the maps in maps/ (needs network)
+python3 scripts/maps.py          # rebuild the maps in maps/ and their index (needs network)
 python3 scripts/reader.py        # rebuild the reader's data in data/bible/ (needs network once)
 ```
 

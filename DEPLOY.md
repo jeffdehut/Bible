@@ -7,8 +7,7 @@ it links to sits beside it:
 index.html               the reader (home page)
 genealogy.html           The Generations
 history.html             Streams of Time
-maps/exodus.html         Map No. 5, The Exodus
-maps/kingdoms.html       Map No. 7, The Kingdoms of Judah and Israel
+maps/index.html          the Bible maps, and the eight sheets beside it
 maps/data/               the maps' data
 data/bible/              the reader's books, word data, lexicon and search index
 icons/, manifest.webmanifest, sw.js   the app icon, install details and offline support

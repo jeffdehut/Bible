@@ -1,0 +1,197 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+</head>
+<body>
+<title>Bible Maps</title>
+<meta name="claude:viewport-fit-sides" content="cover">
+<meta name="description" content="Eight Bible maps after the Eilers Sunday School wall maps, drawn from open data: the patriarchs, the Exodus, the kingdoms, the empires, the time of Christ, Jerusalem and the travels of Paul.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Abril+Fatface&family=Old+Standard+TT:ital,wght@0,400;0,700;1,400&family=Rokkitt:wght@500;600;700&family=Libre+Franklin:wght@400;500;600;700&display=swap">
+<style>
+/* A catalogue of the sheets, set like the maps themselves: printed paper, the Eilers tints,
+   red display type. Layout: one column of sheets on phones, two on wider screens. */
+:root {
+  --paper: #f6f0dd;
+  --card: #fbf7ea;
+  --ink: #1f1b16;
+  --muted: #5e5546;
+  --line: #d6ccb6;
+  --red: #a8301a;
+  --shadow: 0 1px 2px rgb(31 27 22 / 8%), 0 10px 26px rgb(31 27 22 / 10%);
+  --yellow: #f6e27f; --salmon: #f2b98a; --blush: #f8d8c0; --lime: #e3e6a2; --sage: #c9d8a5; --olive: #d9c784; --wild: #efe6cc;
+  --route-red: #d8432a; --route-blue: #2b5a8c; --route-green: #2f7a3e; --route-violet: #6b3d8e; --route-brown: #8a5a2b; --route-black: #2a2420;
+  --display: "Abril Fatface", Georgia, serif;
+  --serif: "Old Standard TT", Georgia, serif;
+  --slab: "Rokkitt", Georgia, serif;
+  --sans: "Libre Franklin", system-ui, -apple-system, "Segoe UI", sans-serif;
+}
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    --paper: #191714; --card: #221f1a; --ink: #efe8da; --muted: #b3a891; --line: #3a342b; --red: #f08a6c;
+    --shadow: 0 1px 2px rgb(0 0 0 / 40%), 0 10px 30px rgb(0 0 0 / 40%);
+    color-scheme: dark;
+  }
+}
+:root[data-theme="dark"] {
+  --paper: #191714; --card: #221f1a; --ink: #efe8da; --muted: #b3a891; --line: #3a342b; --red: #f08a6c;
+  --shadow: 0 1px 2px rgb(0 0 0 / 40%), 0 10px 30px rgb(0 0 0 / 40%);
+  color-scheme: dark;
+}
+* { box-sizing: border-box; }
+body {
+  margin: 0; background: var(--paper); color: var(--ink); font: 400 16px/1.5 var(--serif);
+  padding-left: max(16px, env(safe-area-inset-left, 0px)); padding-right: max(16px, env(safe-area-inset-right, 0px));
+}
+a { color: inherit; }
+:focus-visible { outline: 2px solid var(--red); outline-offset: 3px; }
+.wrap { max-width: 1060px; margin: 0 auto; }
+header { padding-block: clamp(28px, 6vw, 64px) 22px; display: grid; gap: 12px; }
+.eyebrow { margin: 0; font: 600 12px/1.3 var(--sans); letter-spacing: 0.14em; text-transform: uppercase; color: var(--muted); }
+.eyebrow a { text-decoration: underline; text-decoration-thickness: 1px; text-underline-offset: 3px; }
+h1 { margin: 0; font: 400 clamp(2.6rem, 1.8rem + 4vw, 4.6rem)/1 var(--display); color: var(--red); letter-spacing: 0.01em; text-wrap: balance; }
+.lede { margin: 0; max-width: 62ch; font-size: 1.08rem; color: var(--muted); }
+.lede strong { color: var(--ink); font-weight: 700; }
+.order { margin: 14px 0 12px; font: 600 12px/1.3 var(--sans); letter-spacing: 0.12em; text-transform: uppercase; color: var(--muted); }
+.sheets { list-style: none; margin: 0; padding: 0; display: grid; grid-template-columns: repeat(auto-fill, minmax(min(100%, 470px), 1fr)); gap: 16px; }
+.sheet {
+  display: grid; grid-template-columns: 86px minmax(0, 1fr); gap: 16px; height: 100%; text-decoration: none;
+  background: var(--card); border: 1px solid var(--line); border-radius: 6px; padding: 16px 18px 16px 16px;
+  box-shadow: var(--shadow); transition: border-color 0.15s, transform 0.15s;
+}
+.sheet:hover { border-color: var(--red); }
+@media (prefers-reduced-motion: no-preference) { .sheet:hover { transform: translateY(-2px); } }
+.plate {
+  display: grid; align-content: start; justify-items: center; gap: 2px; padding: 10px 4px 12px;
+  border: 1.5px solid var(--ink); outline: 1px solid var(--ink); outline-offset: 3px; margin: 3px; background: var(--paper);
+}
+.plate .lbl { font: 700 10px/1.1 var(--slab); letter-spacing: 0.14em; text-transform: uppercase; }
+.plate .no { font: 400 40px/1 var(--display); color: var(--red); }
+.plate .no.word { font-size: 22px; padding-top: 8px; }
+.body { min-width: 0; display: grid; gap: 6px; align-content: start; }
+.era { margin: 0; font: 600 11.5px/1.35 var(--sans); letter-spacing: 0.08em; text-transform: uppercase; color: var(--muted); }
+.sheet h2 { margin: 0; font: 700 1.35rem/1.15 var(--serif); text-wrap: balance; }
+.blurb { margin: 0; font-size: 0.97rem; color: var(--muted); }
+.journeys { list-style: none; margin: 2px 0 0; padding: 0; display: flex; flex-wrap: wrap; gap: 4px 12px; font: 500 12.5px/1.4 var(--sans); }
+.journeys li { display: inline-flex; align-items: center; gap: 6px; }
+.journeys li::before { content: ""; width: 16px; height: 3.5px; border-radius: 2px; background: var(--jc); }
+.tints { display: flex; height: 8px; margin-top: 6px; border: 1px solid var(--line); border-radius: 2px; overflow: hidden; }
+.tints span { flex: 1; }
+.facts { margin: 2px 0 0; font: 500 12px/1.4 var(--sans); color: var(--muted); font-variant-numeric: tabular-nums; }
+footer { padding-block: 28px 44px; color: var(--muted); font-size: 0.95rem; max-width: 70ch; }
+footer p { margin: 0 0 10px; }
+@media (max-width: 520px) {
+  .sheet { grid-template-columns: 64px minmax(0, 1fr); gap: 12px; padding: 14px 14px 14px 12px; }
+  .plate .no { font-size: 30px; }
+  .plate .no.word { font-size: 17px; }
+}
+</style>
+
+<div class="wrap">
+  <header>
+    <p class="eyebrow"><a href="../index.html"><span aria-hidden="true">←</span> Plain English Bible</a> · Bible maps</p>
+    <h1>The Bible Maps</h1>
+    <p class="lede">Eight sheets after the <strong>Eilers Sunday School wall maps</strong> (St. Louis, about 1890–1930), redrawn from open data. Each zooms on a phone, prints on a Letter page with an index of places, and follows its journeys stop by stop, every stop named in the verse given. They are style studies and drafts: the borders are approximate and wait for review.</p>
+  </header>
+  <p class="order">In the order of the Bible’s history</p>
+  <ol class="sheets">
+    <li><a class="sheet" href="western-asia.html">
+      <div class="plate" aria-hidden="true"><span class="lbl">Map No.</span><span class="no">4</span></div>
+      <div class="body">
+        <p class="era">The patriarchs · about 2000–1700 BC</p>
+        <h2>Western Asia</h2>
+        <p class="blurb">The lands of the Old Testament from Egypt to Persia, with the journeys of Abraham, Jacob and Joseph.</p>
+        <ul class="journeys" aria-label="Journeys"><li style="--jc: var(--route-red)">Abraham</li><li style="--jc: var(--route-blue)">Jacob</li><li style="--jc: var(--route-green)">Joseph</li></ul>
+        <p class="facts">432 places · 33 stops on 3 journeys</p>
+        <div class="tints" aria-hidden="true"><span style="background: var(--yellow)"></span><span style="background: var(--lime)"></span><span style="background: var(--olive)"></span><span style="background: var(--sage)"></span><span style="background: var(--salmon)"></span><span style="background: var(--blush)"></span></div>
+      </div>
+    </a></li>
+    <li><a class="sheet" href="exodus.html">
+      <div class="plate" aria-hidden="true"><span class="lbl">Map No.</span><span class="no">5</span></div>
+      <div class="body">
+        <p class="era">The wilderness years · 1491 BC by Ussher</p>
+        <h2>The Exodus</h2>
+        <p class="blurb">The 42 camps of Numbers 33 from Rameses to the plains of Moab, and the proposed sites of Mount Sinai.</p>
+        <ul class="journeys" aria-label="Journeys"><li style="--jc: var(--route-red)">Exodus</li></ul>
+        <p class="facts">81 places · 42 stops on 1 journey</p>
+        <div class="tints" aria-hidden="true"><span style="background: var(--yellow)"></span><span style="background: var(--lime)"></span><span style="background: var(--olive)"></span><span style="background: var(--sage)"></span><span style="background: var(--salmon)"></span><span style="background: var(--wild)"></span></div>
+      </div>
+    </a></li>
+    <li><a class="sheet" href="palestine-history.html">
+      <div class="plate" aria-hidden="true"><span class="lbl">Map No.</span><span class="no">2</span></div>
+      <div class="body">
+        <p class="era">The conquest to Solomon · about 1400–930 BC</p>
+        <h2>Palestine: Old Testament History</h2>
+        <p class="blurb">The peoples of Canaan and the kingdom of David and Solomon, with Joshua&#x27;s campaigns, the ark and David&#x27;s flight.</p>
+        <ul class="journeys" aria-label="Journeys"><li style="--jc: var(--route-red)">Joshua, south</li><li style="--jc: var(--route-blue)">Joshua, north</li><li style="--jc: var(--route-brown)">Samuel</li><li style="--jc: var(--route-green)">The ark</li><li style="--jc: var(--route-violet)">David</li></ul>
+        <p class="facts">337 places · 49 stops on 5 journeys</p>
+        <div class="tints" aria-hidden="true"><span style="background: var(--lime)"></span><span style="background: var(--salmon)"></span><span style="background: var(--sage)"></span><span style="background: var(--olive)"></span><span style="background: var(--yellow)"></span><span style="background: var(--blush)"></span></div>
+      </div>
+    </a></li>
+    <li><a class="sheet" href="kingdoms.html">
+      <div class="plate" aria-hidden="true"><span class="lbl">Map No.</span><span class="no">7</span></div>
+      <div class="body">
+        <p class="era">The divided kingdom · 931–586 BC</p>
+        <h2>The Kingdoms of Judah and Israel</h2>
+        <p class="blurb">The tribal allotments of Joshua and the two kingdoms, with the journeys of Elijah and Elisha.</p>
+        <ul class="journeys" aria-label="Journeys"><li style="--jc: var(--route-blue)">Elijah</li><li style="--jc: var(--route-green)">Elisha</li></ul>
+        <p class="facts">395 places · 27 stops on 2 journeys</p>
+        <div class="tints" aria-hidden="true"><span style="background: var(--sage)"></span><span style="background: var(--blush)"></span><span style="background: var(--olive)"></span><span style="background: var(--salmon)"></span><span style="background: var(--yellow)"></span></div>
+      </div>
+    </a></li>
+    <li><a class="sheet" href="empires.html">
+      <div class="plate" aria-hidden="true"><span class="lbl">Map No.</span><span class="no">6</span></div>
+      <div class="body">
+        <p class="era">The exile and return · about 740–440 BC</p>
+        <h2>The Empires: Assyria, Babylon, Persia</h2>
+        <p class="blurb">Three empires on one sheet, with the exiles of Israel and Judah, Jonah, and the return under Ezra and Nehemiah.</p>
+        <ul class="journeys" aria-label="Journeys"><li style="--jc: var(--route-brown)">Israel exiled</li><li style="--jc: var(--route-green)">Jonah</li><li style="--jc: var(--route-red)">Judah exiled</li><li style="--jc: var(--route-violet)">Jeremiah</li><li style="--jc: var(--route-blue)">Ezra</li><li style="--jc: var(--route-black)">Nehemiah</li></ul>
+        <p class="facts">432 places · 20 stops on 6 journeys</p>
+        <div class="tints" aria-hidden="true"><span style="background: var(--olive)"></span><span style="background: var(--salmon)"></span><span style="background: var(--yellow)"></span><span style="background: var(--sage)"></span><span style="background: var(--lime)"></span><span style="background: var(--blush)"></span></div>
+      </div>
+    </a></li>
+    <li><a class="sheet" href="palestine.html">
+      <div class="plate" aria-hidden="true"><span class="lbl">Map No.</span><span class="no">1</span></div>
+      <div class="body">
+        <p class="era">The life of Jesus · about 5 BC to AD 30</p>
+        <h2>Palestine in the Time of Christ</h2>
+        <p class="blurb">The realms of Herod&#x27;s sons and the Roman governor, with the places each Gospel names, in its order.</p>
+        <ul class="journeys" aria-label="Journeys"><li style="--jc: var(--route-blue)">Matthew</li><li style="--jc: var(--route-red)">Mark</li><li style="--jc: var(--route-green)">Luke</li><li style="--jc: var(--route-violet)">John</li></ul>
+        <p class="facts">38 places · 67 stops on 4 journeys</p>
+        <div class="tints" aria-hidden="true"><span style="background: var(--yellow)"></span><span style="background: var(--salmon)"></span><span style="background: var(--olive)"></span><span style="background: var(--lime)"></span><span style="background: var(--sage)"></span><span style="background: var(--blush)"></span></div>
+      </div>
+    </a></li>
+    <li><a class="sheet" href="jerusalem.html">
+      <div class="plate" aria-hidden="true"><span class="lbl">Ancient</span><span class="no word">Plan</span></div>
+      <div class="body">
+        <p class="era">From David to the apostles</p>
+        <h2>Ancient Jerusalem</h2>
+        <p class="blurb">The hills and valleys of the city with its known sites, Jesus&#x27; last week and David&#x27;s flight from Absalom.</p>
+        <ul class="journeys" aria-label="Journeys"><li style="--jc: var(--route-red)">Jesus</li><li style="--jc: var(--route-blue)">David</li></ul>
+        <p class="facts">19 places · 16 stops on 2 journeys</p>
+        <div class="tints" aria-hidden="true"><span style="background: var(--wild)"></span></div>
+      </div>
+    </a></li>
+    <li><a class="sheet" href="roman-empire.html">
+      <div class="plate" aria-hidden="true"><span class="lbl">Map No.</span><span class="no">3</span></div>
+      <div class="body">
+        <p class="era">The church spreads · about AD 35–62</p>
+        <h2>The Roman Empire and the Travels of Paul</h2>
+        <p class="blurb">The provinces about AD 50 and Paul&#x27;s journeys in Acts, from Damascus to Rome.</p>
+        <ul class="journeys" aria-label="Journeys"><li style="--jc: var(--route-brown)">Early years</li><li style="--jc: var(--route-red)">First journey</li><li style="--jc: var(--route-blue)">Second journey</li><li style="--jc: var(--route-green)">Third journey</li><li style="--jc: var(--route-violet)">To Rome</li></ul>
+        <p class="facts">66 places · 72 stops on 5 journeys</p>
+        <div class="tints" aria-hidden="true"><span style="background: var(--yellow)"></span><span style="background: var(--lime)"></span><span style="background: var(--salmon)"></span><span style="background: var(--olive)"></span><span style="background: var(--sage)"></span></div>
+      </div>
+    </a></li>
+  </ol>
+  <footer>
+    <p>The numbers are those of the Eilers series where a sheet of the same subject is known: No. 1 Palestine, No. 2 Old Testament history, No. 3 the Roman Empire, No. 4 Western Asia, No. 5 the Exodus and No. 7 the kingdoms, with the plan of Ancient Jerusalem. No Eilers No. 6 is known, so that number goes to the empires of the exile.</p>
+    <p>Places from the OpenBible.info Bible Geocoding Data (CC BY 4.0); elevation from the AWS Terrain Tiles; rivers and lakes from Natural Earth. Names are spelled as in the Open Plain English Translation. Maps CC BY 4.0.</p>
+  </footer>
+</div>
+
+</body>
+</html>

@@ -7,19 +7,22 @@ from open data only:
   - elevation: AWS Terrain Tiles (Mapzen terrarium encoding; SRTM, GMTED2010, ETOPO1),
     downloaded once into .cache/dem/
   - places: OpenBible.info Bible Geocoding Data (CC BY 4.0), cloned into .cache/openbible-geo/
-  - the Nile: Natural Earth (public domain), downloaded once into .cache/naturalearth/
-  - tribal territories: allotted from the town lists of Joshua 13-19 and 21 (see territories())
+  - rivers and lakes: Natural Earth (public domain), downloaded once into .cache/naturalearth/
+  - lands and borders: grown from the towns the text gives each people (see territories())
+  - journeys: lists of stops below, each named in its verse of the translation (check_verses())
 
 Needs numpy, scipy and Pillow, unlike the other scripts, which use only the standard library.
 
 Writes, for each map,
         maps/data/NAME.json   every layer as SVG path data and points
         maps/NAME.html        scripts/templates/map.html with the map's words and data filled in
+and maps/index.html, the list of the sheets.
 
-    python3 scripts/maps.py exodus     build one map (kingdoms, exodus)
+    python3 scripts/maps.py exodus     build one map (see MAPS at the end for the names)
 
 Map No. 7, The Kingdoms of Judah and Israel, was the style study: a redrawing of the Eilers
-map of the same name. Map No. 5, The Exodus, follows the camps of Numbers 33.
+map of the same name. The other sheets follow the Eilers series: Nos. 1 to 6 and a plan of
+Ancient Jerusalem (see INDEX).
 """
 
 import json
@@ -223,7 +226,9 @@ def chaikin(line, rounds=2):
 
 def path_d(lines, scale, digits=2, close=False):
     """Compact SVG path data for polylines in cell units, scaled to map units: an absolute
-    move, then relative steps on a grid of 10^-digits units."""
+    move, then relative steps on a grid of 10^-digits units. Sheets finer than the 130 m
+    grid of the maps of the land (the plan of a city) get more digits, in proportion."""
+    digits += max(0, math.ceil(math.log10(0.13 / scale)))
     q = 10 ** digits
     out = []
 
@@ -941,15 +946,16 @@ def line_km(sheet, lonlats, n=16):
     return np.round(np.c_[np.interp(t, seg, pts[:, 0]), np.interp(t, seg, pts[:, 1])], 2).tolist()
 
 
-def place_records(sheet, all_places, books, ours, terr=None, names=None, capitals=None, min_score=200):
-    """Towns named in the given books, one per site, in the order the labels are placed."""
+def place_records(sheet, all_places, books, ours, terr=None, names=None, capitals=None, min_score=200, kinds=None):
+    """Towns named in the given books, one per site, in the order the labels are placed. `kinds`
+    lets other kinds of place in too (pools, springs, gardens, hills), for a plan of a city."""
     import collections
     by_site = collections.defaultdict(list)
     for p in all_places:
         if not (sheet.west <= p["lon"] <= sheet.east and sheet.south <= p["lat"] <= sheet.north):
             continue
         named = [v for v in p["verses"] if v[0] in books]
-        if "settlement" not in p["types"] or not named or p["score"] < min_score:
+        if not (set(p["types"]) & set(kinds or ["settlement"])) or not named or p["score"] < min_score:
             continue
         by_site[(round(p["lon"], 3), round(p["lat"], 3))].append((len(named), p, named))
     out = []
@@ -1068,7 +1074,9 @@ def easiest_way(sheet, grid, a, b, ends=(True, True), straight=False):
             pts[0] = sheet.xy(*a)
         if ends[1]:
             pts[-1] = sheet.xy(*b)
-    return chaikin(densify(simplify(pts, 1.2), 3), 3)
+    # Smooth at about a kilometre on a map of a land, and in proportion on a finer sheet.
+    tol = 1.2 if sheet.res >= 0.1 else sheet.res * 9
+    return chaikin(densify(simplify(pts, tol), tol * 2.5), 3)
 
 
 def about_html(intro, kept, changed, made, sources):
@@ -1126,6 +1134,50 @@ def mountains(sheet, by_name, ours, names):
     return out
 
 
+AT_THE_JORDAN = {"word": "Jordan", "at": (35.548, 31.838), "sure": 0, "site": "opposite Jericho (traditional)"}
+PROPHETS = [
+    {"name": "Elijah", "short": "Elijah", "ref": "1 Kings 17 – 2 Kings 2", "color": "blue", "unit": "Place",
+     "note": "From the brook where the ravens fed him to Zarephath, Mount Carmel and Horeb, and across the Jordan, "
+             "where he was taken up in a whirlwind.",
+     "stops": [
+         ("Gilead 1", "Gilead", "1 Kings 17:1", None, {"why": "Not plotted: Elijah came from the settlers of Gilead; the "
+                                                             "text names no town."}),
+         ("Cherith", "Kerith Ravine", "1 Kings 17:3", "land", {"word": "Kerith", "what": "Fed by ravens"}),
+         ("Zarephath", "Zarephath", "1 Kings 17:9", "land", {"what": "The widow's flour and oil; her son raised"}),
+         ("Samaria 1", "Samaria", "1 Kings 18:2", "land"),
+         ("Mount Carmel", "Mount Carmel", "1 Kings 18:20", "land", {"what": "Fire from heaven; the prophets of Baal"}),
+         ("Jezreel 2", "Jezreel", "1 Kings 18:46", "land", {"what": "Elijah runs ahead of Ahab's chariot"}),
+         ("Beersheba 1", "Beersheba", "1 Kings 19:3", "land", {"what": "Fleeing from Jezebel"}),
+         (None, "Horeb", "1 Kings 19:8", "land", {"why": "Not plotted: Horeb, the mountain of God, lies south of this map "
+                                                         "(see Map No. 5)."}),
+         ("Abel-meholah", "Abel-meholah", "1 Kings 19:16", "land", {"what": "Elijah calls Elisha"}),
+         ("Jezreel 2", "Jezreel", "1 Kings 21:1", "land", {"what": "Naboth's vineyard"}),
+         ("Gilgal 2", "Gilgal", "2 Kings 2:1", "land"),
+         ("Bethel 1", "Bethel", "2 Kings 2:2", "land"),
+         ("Jericho 1", "Jericho", "2 Kings 2:4", "land"),
+         (None, "The Jordan", "2 Kings 2:7", "land", AT_THE_JORDAN | {"what": "Elijah is taken up in a whirlwind"}),
+     ]},
+    {"name": "Elisha", "short": "Elisha", "ref": "1 Kings 19 – 2 Kings 8", "color": "green", "unit": "Place",
+     "note": "Called from the plow at Abel-meholah, Elisha took up Elijah's cloak at the Jordan and went about the "
+             "land, from Jericho and Shunem to Samaria, Dothan and Damascus.",
+     "stops": [
+         ("Abel-meholah", "Abel-meholah", "1 Kings 19:16", None, {"what": "Called from the plow"}),
+         (None, "The Jordan", "2 Kings 2:13", "land", AT_THE_JORDAN | {"what": "He takes up Elijah's cloak"}),
+         ("Jericho 1", "Jericho", "2 Kings 2:18", "land", {"what": "The water made wholesome"}),
+         ("Bethel 1", "Bethel", "2 Kings 2:23", "land"),
+         ("Mount Carmel", "Mount Carmel", "2 Kings 2:25", "land"),
+         ("Samaria 1", "Samaria", "2 Kings 2:25", "land"),
+         ("Shunem", "Shunem", "2 Kings 4:8", "land", {"what": "The Shunammite woman's room"}),
+         ("Mount Carmel", "Mount Carmel", "2 Kings 4:25", "land", {"what": "She comes to him; her son is raised at Shunem"}),
+         ("Gilgal 2", "Gilgal", "2 Kings 4:38", "land", {"what": "Death in the pot"}),
+         ("Samaria 1", "Samaria", "2 Kings 5:3", "land", {"what": "Naaman is sent to him and healed"}),
+         ("Dothan", "Dothan", "2 Kings 6:13", "land", {"what": "Horses and chariots of fire"}),
+         ("Samaria 1", "Samaria", "2 Kings 6:19", "land"),
+         ("Damascus", "Damascus", "2 Kings 8:7", "land", {"what": "Ben-hadad's sickness; Hazael"}),
+     ]},
+]
+
+
 def kingdoms_map():
     """Map No. 7, as a dict ready for JSON, and the words for its page."""
     sheet = Sheet(*SHEET7, res=0.13)
@@ -1168,10 +1220,14 @@ def kingdoms_map():
         x, y = sheet.xy(p["lon"], p["lat"])
         feats["regions"].append({"n": display_name(p, ours), "x": round(x, 2), "y": round(y, 2)})
 
+    pl = place_records(sheet, all_places, OT_BOOKS, ours, terr, names, CAPITALS)
+    journeys = build_journeys(sheet, PROPHETS, by_name, cost_grid(sheet, wet), sea_grid(sheet, w["sea"]), pl)
     data = {
         "sheet": sheet_info(sheet), "grid": 10 / 60, "focus": 0.56, "file": "map-07-kingdoms-of-judah-and-israel",
         "page": {"w": 7.8, "h": 10.3}, "layers": layers, "territories": fills, "labels": labels,
-        "places": place_records(sheet, all_places, OT_BOOKS, ours, terr, names, CAPITALS),
+        "places": pl, "journeys": journeys, "routeButton": "Prophets", "routesTitle": "Elijah and Elisha",
+        "routesNote": "Choose a prophet to follow him place by place. Each place is named in the verse given.",
+        "routeLayer": "The journeys of Elijah and Elisha",
         "features": feats, "unallotted": list(NEIGHBOURS),
         "title": {"box": {"x": 5, "y": 5, "w": 66, "h": 76}, "scale": 1, "lines": [
             ["series", "MAP No. 7 · A STYLE STUDY", 7.5], ["head", "THE KINGDOMS", 15.5],
@@ -1184,6 +1240,8 @@ def kingdoms_map():
             ["credit", "After the Eilers Sunday School Maps, St. Louis.", 67.5],
             ["credit", "Drawn from open data · CC BY 4.0", 71.5]]},
         "key": {"box": {"x": 5, "y": 97, "w": 44}, "scale": 1, "rows": [
+            ["camp", "Place on a journey"], ["journey", "Elijah", "blue"], ["journey", "Elisha", "green"],
+            ["conjectural", "Way uncertain"], ["gap", ""],
             ["dot", "Town"], ["unsure", "Site uncertain (?)"], ["royal", "Royal city"], ["mount", "Mountain"],
             ["river", "River"], ["nation", "Border of a nation"], ["tribe", "Tribal border"], ["gap", ""],
             ["names", ["Shiloh", "Tell Seilun"]],
@@ -1381,7 +1439,10 @@ def exodus_map():
     for text, pts in WILDERNESS_LINES.items():
         labels.append({"text": text, "style": "region", "pts": line_km(sheet, pts, 8), "size": 5.2})
 
-    # The camps of Numbers 33.
+    # The camps of Numbers 33, each named in its verse.
+    bad = check_verses([{"name": "The camps", "stops": [(ob, name, ref, None) for ob, name, ref in CAMPS]}])
+    if bad:
+        raise ValueError("Camps not named in their verses:\n" + "\n".join(bad))
     grid = cost_grid(sheet, wet)
     camps = []
     for n, (ob, name, verse) in enumerate(CAMPS, 1):
@@ -1592,13 +1653,14 @@ def give_islands(terr, land, max_cells):
 
 def check_verses(journeys):
     """Every stop of every journey must be named in the verse it cites, as our translation
-    spells it. Returns the stops that are not."""
+    spells it (a capital at the start of a stop's name may be small in the verse: "the
+    wilderness of Sin"). Returns the stops that are not."""
     bad = []
     for J in journeys:
         for st in J["stops"]:
             ob, name, ref, how, extra = (list(st) + [{}])[:5]
             word = (extra or {}).get("word", name)
-            if word and word not in english_verse(ref):
+            if word and word.lower() not in english_verse(ref).lower():
                 bad.append(f"{J['name']}: {name} is not in {ref}: {english_verse(ref)[:120]}")
     return bad
 
@@ -1613,7 +1675,11 @@ def build_journeys(sheet, specs, by_name, land_grid, water_grid, places_out):
     dashed), `at` ((lon, lat) for a stop OpenBible doesn't locate, such as a region's town),
     `sure` (0 to mark the stop uncertain), `word` (the name as the verse spells it), `what` (what
     happened there), `note`, and `why` (why a stop isn't plotted). Places in `places_out` that are
-    stops get `st`, so the page can show them as stops instead."""
+    stops get `st`, so the page can show them as stops instead. Every stop must be named in its
+    verse; the build stops if one isn't."""
+    bad = check_verses(specs)
+    if bad:
+        raise ValueError("Stops not named in their verses:\n" + "\n".join(bad))
     res = sheet.res
     out = []
     for j, spec in enumerate(specs):
@@ -1663,12 +1729,14 @@ def build_journeys(sheet, specs, by_name, land_grid, water_grid, places_out):
             skipped = any("x" not in s for s in stops[a["n"]:b["n"] - 1])
             sure = a["sure"] and b["sure"] and not ex.get("guess") and not skipped
             legs.append({"d": path_d([line / res], res, 1), "sure": 1 if sure else 0})
-        # A stop at a place visited before shares its marker.
+        # A stop at a place visited before shares its marker. "The same place" is within 2 km on a
+        # map of a land, and within a few tens of metres on the plan of a city.
+        near = min(2.0, sheet.res * 15)
         seen = {}
         for c in stops:
             if "x" not in c:
                 continue
-            key = (round(c["x"] / 2), round(c["y"] / 2))
+            key = (round(c["x"] / near), round(c["y"] / near))
             if key in seen:
                 first = seen[key]
                 first["also"] = first.get("also", []) + [c["n"]]
@@ -1682,7 +1750,7 @@ def build_journeys(sheet, specs, by_name, land_grid, water_grid, places_out):
                 c.pop(k, None)
         for pl in places_out:
             for c in stops:
-                if "x" in c and math.hypot(pl["x"] - c["x"], pl["y"] - c["y"]) < 2.0:
+                if "x" in c and math.hypot(pl["x"] - c["x"], pl["y"] - c["y"]) < near:
                     pl.setdefault("st", []).append([j, c["n"]])
         out.append({k: spec[k] for k in ("name", "short", "ref", "color", "unit", "note", "summary") if k in spec}
                    | {"stops": stops, "legs": legs})
@@ -2656,6 +2724,132 @@ def palestine_history_map():
     return data, page
 
 
+# --- Plan of Ancient Jerusalem ----------------------------------------------------------------
+
+SHEET_J = (35.220, 35.265, 31.764, 31.794)
+CITY_CENTRE = (35.2342, 31.7767)        # where OpenBible puts what it can't place within the city
+PLAN_KINDS = ["settlement", "pool", "spring", "garden", "hill", "structure", "field", "altar", "rock", "fortification"]
+JERUSALEM_JOURNEYS = [
+    {"name": "Jesus' last week", "short": "Jesus", "ref": "Matthew 21 – John 19; Acts 1", "color": "red", "unit": "Place",
+     "note": "From Bethany over the Mount of Olives into the city and the temple, to Gethsemane, the judgment seat "
+             "and the cross.",
+     "stops": [
+         ("Bethany 1", "Bethany", "John 12:1", None, {"what": "Mary anoints Jesus"}),
+         ("Bethphage", "Bethphage", "Matthew 21:1", "land", {"what": "The disciples fetch the donkey"}),
+         ("Mount of Olives", "Mount of Olives", "Luke 19:37", "land", {"what": "The crowd praises God; Jesus weeps over the city"}),
+         ("Most Holy Place 2", "The temple", "Matthew 21:12", "land", {"word": "temple", "what": "The money changers driven out"}),
+         ("Bethany 1", "Bethany", "Matthew 21:17", "land"),
+         ("Most Holy Place 2", "The temple", "Mark 11:27", "land", {"word": "temple", "what": "Teaching; questions from the leaders"}),
+         (None, "The upstairs room", "Mark 14:15", "land", {"word": "upstairs room", "why": "Not plotted: its place is not "
+                                                            "known. Tradition puts it on Mount Zion."}),
+         ("Gethsemane", "Gethsemane", "Mark 14:32", "land", {"what": "Jesus prays and is arrested"}),
+         (None, "The high priest's house", "Mark 14:53", "land", {"word": "high priest", "why": "Not plotted: the house of "
+                                                                  "Caiaphas has not been found."}),
+         ("Gabbatha", "Gabbatha", "John 19:13", "land", {"what": "Pilate's judgment seat",
+                                                         "note": "Shown at Herod's palace, where many place Pilate's "
+                                                                 "headquarters; others place it at the Antonia fortress, "
+                                                                 "north of the temple."}),
+         ("Golgotha", "Golgotha", "John 19:17", "land", {"what": "The cross, and the tomb in the garden (John 19:41)",
+                                                         "note": "Shown at the Church of the Holy Sepulchre, the "
+                                                                 "traditional site."}),
+         ("Mount of Olives", "Olivet", "Acts 1:12", "land", {"word": "Olivet", "what": "The disciples return after the ascension"}),
+     ]},
+    {"name": "David's flight from Absalom", "short": "David", "ref": "2 Samuel 15–16", "color": "blue", "unit": "Place",
+     "note": "When Absalom rebelled, David left the city on foot, crossed the Kidron and went up the Mount of Olives, "
+             "weeping.",
+     "stops": [
+         ("City of David", "Jerusalem", "2 Samuel 15:14", None, {"what": "David and his household flee"}),
+         (None, "Kidron Valley", "2 Samuel 15:23", "land", {"word": "Kidron", "at": (35.2382, 31.7752), "sure": 0,
+                                                            "site": "below the City of David", "what": "The king crosses the brook"}),
+         ("Mount of Olives", "Mount of Olives", "2 Samuel 15:30", "land", {"what": "David goes up barefoot, weeping"}),
+         ("Bahurim", "Bahurim", "2 Samuel 16:5", "land", {"what": "Shimei curses David"}),
+     ]},
+]
+
+
+def jerusalem_map():
+    """The plan of Ancient Jerusalem, as a dict ready for JSON, and the words for its page."""
+    sheet = Sheet(*SHEET_J, res=0.004)
+    # The finest tiles here come from a coarser survey; smooth them over about 40 m, so the
+    # hachures follow the hills and valleys rather than its grid.
+    sheet.elev = elev = ndimage.gaussian_filter(elevation(sheet, 15), 10)
+    none = np.zeros(elev.shape, bool)
+    all_places = places()
+    by_name = {p["name"]: p for p in all_places}
+    ours = our_spellings()
+    flow = drainage(sheet, elev, none, 2)
+    layers, valley_km = terrain_layers(sheet, ~none, none, flow, none, 0.25, 0.028, ripple_km=(0.01, 0.02),
+                                       river_classes=(1.0, 3.0), min_slope=4.0)
+    layers["borders"] = {}
+    books = OT_BOOKS | NT_BOOKS
+    pl = [p for p in place_records(sheet, all_places, books, ours, min_score=300, kinds=PLAN_KINDS)
+          if (round(sheet.lonlat(p["x"], p["y"])[0], 3), round(sheet.lonlat(p["x"], p["y"])[1], 3)) !=
+          (round(CITY_CENTRE[0], 3), round(CITY_CENTRE[1], 3))]
+    journeys = build_journeys(sheet, JERUSALEM_JOURNEYS, by_name, cost_grid(sheet, none, step=2, slope_weight=12.0),
+                              sea_grid(sheet, none), pl)
+
+    feats = {"mountains": [], "rivers": [], "waters": [], "regions": []}
+    for n, text in (("Mount of Olives", "Mt. of Olives"), ("Mount Zion", "Mt. Zion"), ("Mount Moriah", "Mt. Moriah")):
+        p = by_name[n]
+        x, y = sheet.xy(p["lon"], p["lat"])
+        feats["mountains"].append({"n": text, "x": round(x, 2), "y": round(y, 2)})
+    for text, lon, lat in (("KIDRON VALLEY", 35.2392, 31.7800), ("VALLEY OF HINNOM", 35.2290, 31.7688), ("OPHEL", 35.2368, 31.7752)):
+        x, y = sheet.xy(lon, lat)
+        feats["regions"].append({"n": text, "x": round(x, 2), "y": round(y, 2)})
+    for n, lon, lat, length in (("Brook Kidron", 35.2395, 31.7740, 1.2),):
+        line = follow(valley_km, lon, lat, sheet, length, reach_km=0.3)
+        if line:
+            feats["rivers"].append({"n": n, "pts": line})
+
+    data = {
+        "sheet": sheet_info(sheet), "grid": 0.005, "focus": 0.45, "file": "plan-of-ancient-jerusalem",
+        "page": {"w": 10.3, "h": 7.8}, "margin": 0.22, "land": "wild", "layers": layers, "territories": [], "labels": [],
+        "places": pl, "features": feats, "journeys": journeys,
+        "routeButton": "Journeys", "routesTitle": "Journeys in Jerusalem",
+        "routesNote": "Choose a journey to follow it place by place. Each place is named in the verse given.",
+        "routeLayer": "The last week of Jesus, and David's flight",
+        "title": furniture_height({"box": {"x": 0.08, "y": 0.08, "w": 1.30}, "scale": 0.0175, "lines": [
+            ["series", "A PLAN · A STYLE STUDY", 7.5], ["display-fit", "ANCIENT JERUSALEM", 19.5],
+            ["italic", "The hills and valleys of the city, with the places", 26],
+            ["italic", "of the Bible whose location is known, from the", 29.9],
+            ["italic", "springs of Gihon and En-rogel to Golgotha", 33.8], ["rule", "", 37],
+            ["plain", "The walls are left out: their lines are", 41.5],
+            ["plain", "not known well enough to draw", 45.3], ["rule", "", 48.5],
+            ["credit", "After the Eilers Sunday School Maps, St. Louis.", 53],
+            ["credit", "Drawn from open data · CC BY 4.0", 57]]}),
+        "key": {"box": {"x": 3.38, "y": 0.52, "w": 0.82}, "scale": 0.0175,
+                "scale_bars": [[0, 0.1, 0.2, 0.3], [0, 0.2, 0.4]],
+                "rows": [["camp", "Place on a journey"], ["camp-unsure", "Place uncertain (?)"],
+                         ["journey", "Jesus' last week", "red"], ["journey", "David's flight from Absalom", "blue"],
+                         ["conjectural", "Way uncertain"], ["gap", ""], ["dot", "Place"], ["unsure", "Site uncertain (?)"],
+                         ["mount", "Hill"], ["river", "Watercourse"]]},
+    }
+    page = {
+        "slug": "jerusalem", "NO": "J", "SERIES": "Plan of Ancient Jerusalem", "TAG": "Plan",
+        "H1": "Ancient Jerusalem", "TITLE": "Ancient Jerusalem Plan",
+        "DESCRIPTION": "A plan of Ancient Jerusalem, a style study after the Eilers Sunday School maps: the hills and "
+                       "valleys of the city with the places of the Bible whose location is known, drawn from open data.",
+        "PAGE": "letter landscape", "PAGE_W": "10.3", "PAGE_H": "7.8",
+        "GRID_LABEL": "Squares of about 500 metres, as used by the index",
+        "GRID_NOTE": "Grid squares are 0.005 degrees, about 500 metres: letters across the top, numbers down the side.",
+        "ABOUT": about_html(
+            "A <strong>style study</strong> for the project's Bible maps, after the Eilers sheet <em>Ancient "
+            "Jerusalem</em> (A. H. Eilers &amp; Co., St. Louis), redrawn from open data.",
+            ["Hachured hills and the valleys between them", KEPT[3], KEPT[4]],
+            CHANGED[:2] + ["The walls are left out: no open survey of the ancient walls exists, and drawing them from "
+                           "guesswork would look more certain than it is"],
+            ["<strong>The ground</strong> comes from fine elevation data (about 5 m); the hachures and watercourses "
+             "are drawn from it, so the Kidron, the Central Valley and the Valley of Hinnom show as they are today, "
+             "partly filled with the debris of centuries.",
+             "<strong>Places</strong> are those OpenBible.info locates within the city: springs, pools, hills, "
+             "gardens and buildings. Many places it can only put \"in Jerusalem\", such as most of the gates "
+             "Nehemiah names, are left off.",
+             "<strong>The journeys</strong> follow the Gospels, Acts and 2 Samuel. Every place is named in the verse "
+             "given, and the build checks each name against this project's translation.", NAMES_MADE], SOURCES),
+    }
+    return data, page
+
+
 # --- Map No. 1: Palestine in the time of Christ ------------------------------------------------
 
 GOSPELS = ["Matt", "Mark", "Luke", "John"]
@@ -2890,6 +3084,7 @@ def write_map(data, page):
         json.dump(data, f, ensure_ascii=False, separators=(",", ":"))
         f.write("\n")
     body = open(os.path.join(ROOT, "scripts", "templates", "map.html"), encoding="utf-8").read()
+    page = {"SERIES": f"Map No. {page['NO']}", "TAG": f'<span class="wide">Map </span>No. {page["NO"]}', **page}
     for k, v in page.items():
         body = body.replace("{{" + k + "}}", v)
     body = body.replace("<!-- DATA -->", f'<script type="application/json" id="data">{webpages._dump(data)}</script>')
@@ -2897,8 +3092,67 @@ def write_map(data, page):
         f.write(webpages.STANDALONE.format(page=body))
 
 
+# The sheets in the order of the Bible's history, for the index page: slug, number (or the
+# word for an unnumbered sheet), title, era and a line about each.
+INDEX = [
+    ("western-asia", "4", "Western Asia", "The patriarchs · about 2000–1700 BC",
+     "The lands of the Old Testament from Egypt to Persia, with the journeys of Abraham, Jacob and Joseph."),
+    ("exodus", "5", "The Exodus", "The wilderness years · 1491 BC by Ussher",
+     "The 42 camps of Numbers 33 from Rameses to the plains of Moab, and the proposed sites of Mount Sinai."),
+    ("palestine-history", "2", "Palestine: Old Testament History", "The conquest to Solomon · about 1400–930 BC",
+     "The peoples of Canaan and the kingdom of David and Solomon, with Joshua's campaigns, the ark and David's flight."),
+    ("kingdoms", "7", "The Kingdoms of Judah and Israel", "The divided kingdom · 931–586 BC",
+     "The tribal allotments of Joshua and the two kingdoms, with the journeys of Elijah and Elisha."),
+    ("empires", "6", "The Empires: Assyria, Babylon, Persia", "The exile and return · about 740–440 BC",
+     "Three empires on one sheet, with the exiles of Israel and Judah, Jonah, and the return under Ezra and Nehemiah."),
+    ("palestine", "1", "Palestine in the Time of Christ", "The life of Jesus · about 5 BC to AD 30",
+     "The realms of Herod's sons and the Roman governor, with the places each Gospel names, in its order."),
+    ("jerusalem", "Plan", "Ancient Jerusalem", "From David to the apostles",
+     "The hills and valleys of the city with its known sites, Jesus' last week and David's flight from Absalom."),
+    ("roman-empire", "3", "The Roman Empire and the Travels of Paul", "The church spreads · about AD 35–62",
+     "The provinces about AD 50 and Paul's journeys in Acts, from Damascus to Rome."),
+]
+
+
+def write_index():
+    """maps/index.html: every sheet built so far, with its journeys and tints."""
+    import html
+    sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+    import webpages
+    cards = []
+    for slug, no, title, era, blurb in INDEX:
+        path = os.path.join(SITE, "maps", "data", slug + ".json")
+        if not os.path.exists(path):
+            continue
+        d = json.load(open(path, encoding="utf-8"))
+        fills = d["territories"] + [t for P in d.get("periods", []) for t in P["territories"]]
+        tints = list(dict.fromkeys(t["tint"] for t in fills)) or ["wild"]
+        journeys = "".join(f'<li style="--jc: var(--route-{J["color"]})">{html.escape(J["short"])}</li>'
+                           for J in d.get("journeys", []))
+        stops = sum(len(J["stops"]) for J in d.get("journeys", []))
+        plate = (f'<span class="lbl">Map No.</span><span class="no">{no}</span>' if no.isdigit()
+                 else f'<span class="lbl">Ancient</span><span class="no word">{no}</span>')
+        cards.append(
+            f'    <li><a class="sheet" href="{slug}.html">\n'
+            f'      <div class="plate" aria-hidden="true">{plate}</div>\n'
+            f'      <div class="body">\n'
+            f'        <p class="era">{html.escape(era)}</p>\n'
+            f'        <h2>{html.escape(title)}</h2>\n'
+            f'        <p class="blurb">{html.escape(blurb)}</p>\n'
+            + (f'        <ul class="journeys" aria-label="Journeys">{journeys}</ul>\n' if journeys else "")
+            + f'        <p class="facts">{len(d["places"])} places · {stops} stops on {len(d.get("journeys", []))} '
+              f'journey{"" if len(d.get("journeys", [])) == 1 else "s"}</p>\n'
+            + f'        <div class="tints" aria-hidden="true">{"".join(f"<span style=\"background: var(--{t})\"></span>" for t in tints)}</div>\n'
+            f'      </div>\n    </a></li>')
+    body = open(os.path.join(ROOT, "scripts", "templates", "maps-index.html"), encoding="utf-8").read()
+    body = body.replace("{{CARDS}}", "\n".join(cards))
+    with open(os.path.join(SITE, "maps", "index.html"), "w", encoding="utf-8", newline="\n") as f:
+        f.write(webpages.STANDALONE.format(page=body))
+
+
 MAPS = {"palestine": palestine_map, "palestine-history": palestine_history_map, "roman-empire": roman_map,
-        "western-asia": western_asia_map, "exodus": exodus_map, "empires": empires_map, "kingdoms": kingdoms_map}
+        "western-asia": western_asia_map, "exodus": exodus_map, "empires": empires_map, "kingdoms": kingdoms_map,
+        "jerusalem": jerusalem_map}
 
 
 def main():
@@ -2912,6 +3166,7 @@ def main():
             extra += f"; {J['short']}: {shown} of {len(J['stops'])} stops shown"
         lands = len(data["territories"]) or sum(len(P["territories"]) for P in data.get("periods", []))
         print(f"Map No. {page['NO']}, {page['H1']}: {len(data['places'])} places, {lands} territories{extra}")
+    write_index()
 
 
 if __name__ == "__main__":

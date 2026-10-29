@@ -107,6 +107,8 @@ Chinese translation.
   - the exile and return
   - Jesus' ministry, one Gospel at a time
   - Paul's three journeys and his voyage to Rome
+
+  All of these are drawn now, on eight sheets: see *The set* below.
 - **Linked to the text.** Every route leg links to its verses. Tapping a leg opens the reader.
 - **Uncertainty shown.**
   - Disputed routes and sites, such as the Exodus route and Mount Sinai, appear as labeled
@@ -202,14 +204,43 @@ so the two can be compared side by side. It settled:
 - **Water and relief:** the coast and lakes come from elevation data, with Lake Huleh and the
   Dead Sea at their old shorelines; rivers follow the drainage of the land.
 
+**The set (done).** Eight sheets, numbered as the Eilers series where a sheet of the same
+subject is known (dealers' listings give No. 1 Palestine, No. 2 Palestine, Old Testament
+History, No. 3 the Roman Empire, No. 4 Western Asia, No. 5 the Exodus and No. 7 the kingdoms,
+with an unnumbered Ancient Jerusalem). No Eilers No. 6 is known, so it goes to the empires of
+the exile. `maps/index.html` lists them in the order of the Bible's history:
+
+| Sheet | Lands | Journeys |
+|---|---|---|
+| No. 4, Western Asia | Egypt to Persia, as Eilers tinted them | Abraham, Jacob, Joseph |
+| No. 5, The Exodus | Egypt, Canaan, Edom, Moab, the Amorites, Midian | the camps of Numbers 33 |
+| No. 2, Old Testament history | the peoples of Canaan; David and Solomon's kingdom | Joshua south and north, Samuel, the ark, David |
+| No. 7, The Kingdoms | the tribes and the two kingdoms | Elijah, Elisha |
+| No. 6, The Empires | Assyria, Babylon or Persia, one at a time | Israel and Judah exiled, Jonah, Jeremiah, Ezra, Nehemiah |
+| No. 1, Palestine | the realms of Luke 3:1 | the places each Gospel names, in its order |
+| Plan of Jerusalem | hills, valleys and known sites; no walls | Jesus' last week, David's flight from Absalom |
+| No. 3, The Roman Empire | the provinces about AD 50 | Paul's early years, three journeys, voyage to Rome |
+
+What the set settled, beyond the style study:
+
+- **Journeys.** Each is a list of stops, each named in the verse given, and the build checks
+  every name against the translation. Land journeys follow the easiest ground; voyages keep to
+  open water and run straight. A way the text leaves unsaid (Ur to Haran, Lystra to Troas) is
+  dashed, and a stop the text names only as a region is listed but not plotted.
+- **Periods.** One sheet can carry lands of different times (the empires; the peoples of
+  Canaan and David's kingdom), chosen from the title tag.
+- **Names.** Each place takes the spelling of the first verse that names it (Thessalonica,
+  Shunem), and a people's name gives way to the place's (Lycaonia, Gerasa).
+- **Larger sheets.** Lakes, and rivers where the elevation data can't trace them, come from
+  Natural Earth, leaving out modern reservoirs.
+
 **Next for the maps:**
+- Review of the lands, the borders and the journeys by someone who knows the historical
+  geography; the camps of Map No. 5 especially.
 - Relief closer to engraved hachures: strokes in tiers between contours rather than scattered
   dashes.
-- A plan of Jerusalem as an inset, as on the Eilers sheet.
-- Check every place name against the translation. Names are taken in the spelling our
-  translation uses most, but the translation itself has a few inconsistencies to settle (for
-  example Beth-shan and Beth-shean).
-- Map No. 4, *Western Asia*, for the nations around Israel, using the same template.
+- Walls on the plan of Jerusalem, if an open survey of the ancient walls can be found.
+- Links from the reader to the maps: a place in the text opens it on its sheet.
 
 **Map No. 5, The Exodus (done).** `maps/exodus.html` follows the camps of Numbers 33
 and turned the style study into a series: one page template (`scripts/templates/map.html`) filled from
@@ -294,8 +325,7 @@ A new translation into Traditional Chinese (繁體中文), made like the English
 
 1. Foundation and the reader, with verse-level original language and draft labels (stage 1
    done).
-2. Maps: the style study (Eilers Map No. 7) and the Exodus (Map No. 5) are done; Western
-   Asia (Map No. 4) is next.
+2. Maps: the set of eight sheets is done, as drafts for review; links from the reader come next.
 3. Genealogy viewer.
 4. Phrase-level original language, alongside human review of the English.
 5. Accounts.
@@ -304,5 +334,6 @@ A new translation into Traditional Chinese (繁體中文), made like the English
 ## Open questions
 
 - Domain and hosting account (see *Decisions so far*).
-- Review of the approximate tribal territories on Map No. 7, and of the camps on Map No. 5.
+- Review of the maps: the approximate lands and borders on every sheet, the camps on Map No. 5,
+  and the journeys.
 - Reviewers for the English, and later the Chinese.

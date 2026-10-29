@@ -136,6 +136,9 @@ button { font: inherit; color: inherit; }
   .tag h1 { font-size: 14px; }
   .tag .draft { font-size: 9px; }
   .tag .wide { display: none; }
+  .tag h1 { display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; }
+  .tag:has(#period-pick:not([hidden])) { min-width: 178px; }
+  .tag select { width: 100%; }
 }
 
 /* Side panel (bottom sheet on phones) */
@@ -284,9 +287,9 @@ button { font: inherit; color: inherit; }
 
 <div class="bar">
   <div class="tag">
-    <a class="home" href="../index.html" title="Back to the Bible reader" aria-label="Back to the Bible reader"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M19 12H5m0 0 6-6m-6 6 6 6"/></svg></a>
+    <a class="home" href="index.html" title="All the Bible maps" aria-label="All the Bible maps"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M19 12H5m0 0 6-6m-6 6 6 6"/></svg></a>
     <div class="txt">
-    <div class="no"><span class="wide">Map </span>No. 6 · Style study<span class="draft">DRAFT</span></div>
+    <div class="no"><span class="wide">Map </span>No. 6<span class="wide"> · Style study</span><span class="draft">DRAFT</span></div>
     <h1>The Empires: Assyria, Babylon, Persia</h1>
     <select id="period-pick" aria-label="Period shown" hidden></select>
     </div>
@@ -387,7 +390,7 @@ button { font: inherit; color: inherit; }
 "use strict";
 const D = JSON.parse(document.getElementById("data").textContent);
 const S = D.sheet;
-const W = S.width, H = S.height, M = 11;          // sheet margin, km
+const W = S.width, H = S.height, M = D.margin || 11;   // sheet margin, km
 const NS = "http://www.w3.org/2000/svg";
 const svg = d3.select("#map"), world = d3.select("#world"), labels = d3.select("#labels");
 const JOURNEYS = D.journeys || [];
@@ -473,7 +476,7 @@ function drawSheet() {
   el(m, "path", { id: "grid", d: gd, fill: "none", stroke: "var(--map-ink)", "stroke-width": 0.5, opacity: 0.38, ...nss });
   // Neat lines: a fine inner rule and a heavier outer one.
   el(g, "rect", { x: 0, y: 0, width: W, height: H, fill: "none", stroke: "var(--map-ink)", "stroke-width": 1, ...nss });
-  el(g, "rect", { x: -M + 3.2, y: -M + 3.2, width: W + 2 * M - 6.4, height: H + 2 * M - 6.4, fill: "none",
+  el(g, "rect", { x: -M * 0.71, y: -M * 0.71, width: W + M * 1.42, height: H + M * 1.42, fill: "none",
     stroke: "var(--map-ink)", "stroke-width": 2, ...nss });
   drawTitle(g);
   drawKey(g);
@@ -902,7 +905,7 @@ function setup(fill = false) {
   let t = fit.translate(0, topPad / fit.k);
   fitK = t.k;
   zoom.scaleExtent([fitK * 0.8, fitK * 16])
-    .translateExtent([[-M - 60, -M - 60], [W + M + 60, H + M + 60]]);
+    .translateExtent([[-M * 6.5, -M * 6.5], [W + M * 6.5, H + M * 6.5]]);
   if (fill && rect.height - topPad > rect.width * 1.25) {
     // A tall phone screen: fill its height and centre on the heart of the map, rather than
     // leave bands of table above and below.
