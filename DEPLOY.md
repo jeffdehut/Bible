@@ -21,64 +21,46 @@ Everything is already built and committed, so any static host can serve the fold
 There is no build step and no server code. Every page links back to the reader, and the
 reader's menu links to every page.
 
-## A test site on Netlify
+## Porkbun Static Hosting
 
-`netlify.toml` holds the settings: publish the repository root, no build. It also marks every
-page `noindex` and ships a `robots.txt` that turns crawlers away, so the drafts stay out of
-search engines while the site is a test.
+Porkbun hosts the site at `bibledata.org`, beside the domain, its DNS and its email
+forwarding. Its **GitHub Connect** publishes the `main` branch of `jeffdehut/Bible`, and each
+change to `main` refreshes the site. Other branches are not published: try a change on your own
+computer (below), then merge its branch into `main` (on GitHub, open a pull request from the
+branch into `main` and choose **Merge**).
 
-### From GitHub (recommended)
+To set it up (once): at porkbun.com open **Domain Management**, then the house icon in the
+**Website** column beside `bibledata.org`, which opens the Static Hosting page. Under **GitHub
+Connect**, connect GitHub, allow Porkbun to read the `jeffdehut/Bible` repository, pick it and
+pick the branch `main`. Porkbun serves the files as they are: there is no build step, and
+`index.html` is at the root, where Porkbun expects it. Its plan allows files up to 40 MB; the
+largest here, `data/bible/search.json`, is under 5 MB. `robots.txt` turns crawlers away while
+the site is a test. (`netlify.toml` holds the Netlify settings below; Porkbun ignores it.)
 
-Netlify then takes each update from GitHub by itself, and only the files that changed are sent:
-nothing is uploaded by hand.
+## The bibledata.org domain
 
-- **`main` is the live site.** Netlify publishes it whenever it changes.
-- **Every other branch is a preview.** Work happens on its own branch (Claude's are named
-  `claude/…`), and Netlify publishes each branch at its own address, updated on every push, so
-  a change can be tried before it goes live.
-- **To put a change live,** merge its branch into `main`: on GitHub, open a pull request from
-  the branch into `main` and choose **Merge**.
+`bibledata.org` is registered at Porkbun, and Porkbun keeps its DNS. Its records:
 
-Why not publish every push at once: on Netlify's current plans, each update of the live site
-uses 15 credits, and the free plan has 300 a month, shared with bandwidth (20 credits a GB).
-When they run out, Netlify takes the site offline until the month ends. Previews cost nothing.
-(Accounts opened before 4 September 2025 keep the older plans, which count build minutes
-instead.)
+| Name | Type | Value | For |
+|---|---|---|---|
+| `bibledata.org` | ALIAS | `ss1-sixie.porkbun.com` | Porkbun Static Hosting (set by Porkbun) |
+| `*` | CNAME | `ss1-sixie.porkbun.com` | the same, for `www` and other names (set by Porkbun) |
+| `ftp` | CNAME | `pixie-ss1-ftp.porkbun.com` | the hosting's FTP access (set by Porkbun) |
+| `bibledata.org` | MX, TXT | added by Porkbun's email forwarding | `privacy@bibledata.org` |
+| `send` | MX, TXT | as Resend's domain page gives them | sign-in emails sent through Resend |
+| `resend._domainkey` | TXT | as Resend's domain page gives it | the same (DKIM) |
 
-1. Sign in at [app.netlify.com](https://app.netlify.com).
-   - **If the site already exists** (uploaded by dragging the folder or from the command line),
-     open it and choose **Site configuration → Build & deploy → Continuous deployment → Link
-     repository**. The site keeps its address.
-   - **Otherwise** choose **Add new site → Import an existing project**.
+`privacy@bibledata.org` forwards, through Porkbun (**Domain Management → Email → Email
+Forwarding**), to the owner's inbox. Supabase sends its sign-in emails through Resend (see
+step 3 under *Accounts*), from `signin@bibledata.org`.
 
-   Then choose **GitHub**, allow Netlify to read the `jeffdehut/Bible` repository, and pick it.
-2. Set the branch to deploy to `main`. Leave the build command and publish directory as
-   Netlify fills them in from `netlify.toml` (publish directory: the root, `.`).
-3. Deploy. The first deploy sends the whole repository, about 130 MB; after that only what
-   changed.
-4. Under **Site configuration → Build & deploy → Continuous deployment → Branches and deploy
-   contexts**, set **Branch deploys** to **All** and leave **Deploy Previews** on. A branch is
-   then at `https://BRANCH--SITE.netlify.app`, with any `/` in its name turned into `-` (for
-   example `https://claude-ecstatic-faraday-0wu2gv--SITE.netlify.app`), where `SITE` is the
-   site's Netlify name. A pull request gets a preview address too, linked from the pull
-   request.
-5. If accounts are on (see *Accounts*), add `https://*--SITE.netlify.app/**` to Supabase's
-   **Redirect URLs**, so sign-in links also work on the previews.
+## Netlify (being retired)
 
-If you created the site before this layout, open **Site configuration → Build & deploy →
-Build settings** and clear the publish directory (or set it to `.`), so `netlify.toml` decides.
-
-### Without GitHub
-
-From the repository folder, with Node.js installed:
-
-```
-npx netlify-cli deploy --dir=.            # a draft address to try
-npx netlify-cli deploy --dir=. --prod     # the site's main address
-```
-
-The first run asks you to sign in and to create or pick a site. Dragging the repository folder
-onto [app.netlify.com/drop](https://app.netlify.com/drop) also works.
+The site was first tested on Netlify (`biblemadeplain.netlify.app`), set up by `netlify.toml`,
+which publishes `main` too. Each Netlify publish uses 15 of its free plan's 300 monthly credits,
+so stop its builds (**Project configuration → Build & deploy → Continuous deployment → Stop
+builds**) before the next merge into `main`, and delete the project once Porkbun is serving the
+site.
 
 ## Trying it on your own computer
 
@@ -102,8 +84,7 @@ python3 scripts/reader.py        # the reader's data in data/bible/
 python3 scripts/maps.py          # the maps in maps/
 ```
 
-Then push the branch: its preview address shows the change, and merging it into `main` puts it
-live. The pages are built from templates in `scripts/templates/`; edit those, not the built pages.
+Then push the branch, and merging it into `main` puts it live. The pages are built from templates in `scripts/templates/`; edit those, not the built pages.
 When the service worker or the app shell changes, raise `VERSION` in `sw.js` so installed
 copies of the reader pick up the new version.
 
@@ -141,7 +122,7 @@ cost of a live one.
    Resend's free plan (3,000 emails a month, 100 a day) is enough for a small site; Brevo,
    Postmark and Amazon SES also work.
 4. **Addresses.** Under **Authentication → URL Configuration**, set the **Site URL** to the
-   site's address (for example `https://your-site.netlify.app/`), and add the same address
+   site's address (`https://bibledata.org/`), and add the same address
    to **Redirect URLs**. Sign-in links bring readers back there. (A link that opens
    `localhost:3000` means the Site URL is still Supabase's default. An email with a link but
    no code means that template, **Confirm signup** for a new reader, hasn't been edited.)
@@ -159,34 +140,14 @@ change winning; after that each change is sent a few seconds after it is made. S
 leaves the notes on the device. **Delete my account** removes the account and everything in it
 at once. `privacy.html` says all this for readers; read it over before going live.
 
-## The bibledata.org domain
-
-`bibledata.org` is registered at Porkbun and keeps Porkbun's name servers; Netlify only serves
-the site. Its DNS records:
-
-| Name | Type | Value | For |
-|---|---|---|---|
-| `bibledata.org` | ALIAS | `apex-loadbalancer.netlify.com` | the site |
-| `www` | CNAME | `biblemadeplain.netlify.app` | the site (Netlify redirects it to `bibledata.org`) |
-| `bibledata.org` | MX | `fwd1.porkbun.com` (10), `fwd2.porkbun.com` (20) | Porkbun's free email forwarding |
-| `bibledata.org` | TXT | `v=spf1 include:_spf.porkbun.com ~all` | the same |
-| `send` | MX, TXT | as Resend's domain page gives them | sign-in emails sent through Resend |
-| `resend._domainkey` | TXT | as Resend's domain page gives it | the same (DKIM) |
-
-In Netlify, **Domain management → Add a domain** takes `bibledata.org`; choose to keep the DNS
-at Porkbun, and Netlify adds `www` and the HTTPS certificate itself. `privacy@bibledata.org`
-forwards, through Porkbun (**Domain Management → Email → Email Forwarding**), to the owner's
-inbox. Supabase sends its sign-in emails through Resend (see step 3 under *Accounts*), from
-`signin@bibledata.org`.
-
 ## Going live
 
-1. Add the domain under **Domain management**. Netlify provides HTTPS automatically.
-2. Remove the `X-Robots-Tag` header from `netlify.toml` and delete `robots.txt`, or replace it
-   with one that allows crawling.
+1. Check that `https://bibledata.org` serves the site with a valid certificate (Porkbun
+   provides it).
+2. Delete `robots.txt`, or replace it with one that allows crawling.
 3. Consider rebuilding the reader data once more and bumping `VERSION` in `sw.js`.
-4. If accounts are on, set up a mail service for the sign-in emails (step 3 under *Accounts*)
-   and update the Site URL in Supabase to the new domain.
+4. If accounts are on, check that the sign-in emails come from `bibledata.org` (step 3 under
+   *Accounts*) and that Supabase's Site URL is `https://bibledata.org/`.
 
-The same folder deploys unchanged to Cloudflare Pages or GitHub Pages: set the output
+The same folder deploys unchanged to Netlify, Cloudflare Pages or GitHub Pages: set the output
 directory to the repository root and leave the build command empty.
