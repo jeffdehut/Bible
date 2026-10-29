@@ -565,10 +565,12 @@ def seeds(all_places):
     return out
 
 
-def territories(sheet, elev, wet, flow, seed_list, step=4, cap_km=30, names=None, barrier=(35.651, 33.248)):
+def territories(sheet, elev, wet, flow, seed_list, step=4, cap_km=30, names=None, barrier=(35.651, 33.248),
+                keep_seeded=False):
     """Allot every land cell to the territory whose towns are nearest, measured on foot.
 
-    Distance runs over a grid `step` times coarser than the sheet. Lakes cannot be crossed;
+    Distance runs over a grid `step` times coarser than the sheet. `cap_km` is one reach for all,
+    or a reach for each territory by name. Lakes cannot be crossed;
     the Jordan costs 60 km to cross and other streams up to 20 km, so borders settle along
     rivers, as the boundary lists in Joshua describe. Land more than `cap_km` from any town
     is left unallotted (wilderness). Returns an int array on the sheet grid: -1 for none,
@@ -597,6 +599,7 @@ def territories(sheet, elev, wet, flow, seed_list, step=4, cap_km=30, names=None
     river[jordan] = 60
     names = names or list(NEIGHBOURS) + [t[0] for t in TRIBES]
     index = {n: i for i, n in enumerate(names)}
+    reach = np.array([cap_km.get(n, 0) if isinstance(cap_km, dict) else cap_km for n in names] + [0], float)
     cell = sheet.res * step
     dist = np.full(ny * nx, np.inf)
     owner = np.full(ny * nx, -1, np.int32)
@@ -618,7 +621,7 @@ def territories(sheet, elev, wet, flow, seed_list, step=4, cap_km=30, names=None
             (-1, -1, 1.4142), (-1, 1, 1.4142), (1, -1, 1.4142), (1, 1, 1.4142)]
     while pq:
         d, i = heapq.heappop(pq)
-        if d > dist[i] or d > cap_km:
+        if d > dist[i] or d > reach[owner[i]]:
             continue
         r, c = divmod(i, nx)
         for dr, dc, m in nbrs:
@@ -632,17 +635,26 @@ def territories(sheet, elev, wet, flow, seed_list, step=4, cap_km=30, names=None
                     dist[j] = nd
                     owner[j] = owner[i]
                     heapq.heappush(pq, (nd, j))
-    owner[dist > cap_km] = -1
+    owner[dist > reach[owner]] = -1
     owner = owner.reshape(ny, nx)
     # Tidy: a majority filter, then keep only each territory's largest piece, giving the
     # rest (towns of one list inside another's land) to the nearest other territory.
-    owner = ndimage.generic_filter(owner, lambda v: np.bincount(v.astype(int) + 1).argmax() - 1, size=5, mode="nearest")
+    classes = np.unique(owner)           # a 5x5 majority filter; ties go to the lowest index
+    votes = np.stack([ndimage.correlate((owner == c).astype(np.int32), np.ones((5, 5), np.int32), mode="nearest")
+                      for c in classes])
+    owner = classes[np.argmax(votes, axis=0)].astype(np.int32)
+    seeded = {}
+    for _, terr, lon, lat in seed_list:
+        x, y = sheet.xy(lon, lat)
+        seeded.setdefault(index[terr], []).append((min(max(int(y / cell), 0), ny - 1), min(max(int(x / cell), 0), nx - 1)))
     for t in range(len(names)):
         lab, n = ndimage.label(owner == t)
         if n > 1:
             sizes = ndimage.sum(np.ones_like(lab), lab, range(1, n + 1))
-            keep = int(np.argmax(sizes)) + 1
-            owner[(lab > 0) & (lab != keep)] = -2
+            keep = {int(np.argmax(sizes)) + 1}
+            if keep_seeded:         # islands and coasts across the water, with towns of their own
+                keep |= {int(lab[r, c]) for r, c in seeded.get(t, []) if lab[r, c] > 0}
+            owner[(lab > 0) & ~np.isin(lab, list(keep))] = -2
     stray = owner == -2
     if stray.any():
         _, (ri, ci) = ndimage.distance_transform_edt(owner < 0, return_indices=True)
@@ -659,10 +671,14 @@ OT_BOOKS = {"Gen", "Exod", "Lev", "Num", "Deut", "Josh", "Judg", "Ruth", "1Sam",
             "2Kgs", "1Chr", "2Chr", "Ezra", "Neh", "Esth", "Job", "Ps", "Prov", "Eccl", "Song",
             "Isa", "Jer", "Lam", "Ezek", "Dan", "Hos", "Joel", "Amos", "Obad", "Jonah", "Mic",
             "Nah", "Hab", "Zeph", "Hag", "Zech", "Mal"}
+NT_ORDER = ["Matt", "Mark", "Luke", "John", "Acts", "Rom", "1Cor", "2Cor", "Gal", "Eph", "Phil", "Col",
+            "1Thess", "2Thess", "1Tim", "2Tim", "Titus", "Phlm", "Heb", "Jas", "1Pet", "2Pet", "1John",
+            "2John", "3John", "Jude", "Rev"]
+NT_BOOKS = set(NT_ORDER)
 BOOK_ORDER = {b: i for i, b in enumerate(["Gen", "Exod", "Lev", "Num", "Deut", "Josh", "Judg",
     "Ruth", "1Sam", "2Sam", "1Kgs", "2Kgs", "1Chr", "2Chr", "Ezra", "Neh", "Esth", "Job", "Ps",
     "Prov", "Eccl", "Song", "Isa", "Jer", "Lam", "Ezek", "Dan", "Hos", "Joel", "Amos", "Obad",
-    "Jonah", "Mic", "Nah", "Hab", "Zeph", "Hag", "Zech", "Mal"])}
+    "Jonah", "Mic", "Nah", "Hab", "Zeph", "Hag", "Zech", "Mal"] + NT_ORDER)}
 OSIS_LABEL = {"Gen": "Genesis", "Exod": "Exodus", "Lev": "Leviticus", "Num": "Numbers",
               "Deut": "Deuteronomy", "Josh": "Joshua", "Judg": "Judges", "Ruth": "Ruth",
               "1Sam": "1 Samuel", "2Sam": "2 Samuel", "1Kgs": "1 Kings", "2Kgs": "2 Kings",
@@ -672,7 +688,13 @@ OSIS_LABEL = {"Gen": "Genesis", "Exod": "Exodus", "Lev": "Leviticus", "Num": "Nu
               "Lam": "Lamentations", "Ezek": "Ezekiel", "Dan": "Daniel", "Hos": "Hosea",
               "Joel": "Joel", "Amos": "Amos", "Obad": "Obadiah", "Jonah": "Jonah",
               "Mic": "Micah", "Nah": "Nahum", "Hab": "Habakkuk", "Zeph": "Zephaniah",
-              "Hag": "Haggai", "Zech": "Zechariah", "Mal": "Malachi"}
+              "Hag": "Haggai", "Zech": "Zechariah", "Mal": "Malachi",
+              "Matt": "Matthew", "Mark": "Mark", "Luke": "Luke", "John": "John", "Acts": "Acts",
+              "Rom": "Romans", "1Cor": "1 Corinthians", "2Cor": "2 Corinthians", "Gal": "Galatians",
+              "Eph": "Ephesians", "Phil": "Philippians", "Col": "Colossians", "1Thess": "1 Thessalonians",
+              "2Thess": "2 Thessalonians", "1Tim": "1 Timothy", "2Tim": "2 Timothy", "Titus": "Titus",
+              "Phlm": "Philemon", "Heb": "Hebrews", "Jas": "James", "1Pet": "1 Peter", "2Pet": "2 Peter",
+              "1John": "1 John", "2John": "2 John", "3John": "3 John", "Jude": "Jude", "Rev": "Revelation"}
 
 
 def our_spellings():
@@ -692,6 +714,60 @@ def our_spellings():
             for k in range(1, len(parts) + 1):
                 counts[" ".join(parts[:k])] += 1
     return counts
+
+
+_VERSES = {}
+
+
+def english_verse(ref):
+    """The text of a verse of the Open Plain English Translation, without its note markers, from
+    a reference such as "Acts 13:4" (the first verse of a range)."""
+    m = re.match(r"(.+) (\d+):(\d+)", ref)
+    label, ch, v = m.group(1), int(m.group(2)), int(m.group(3))
+    osis = next(k for k, n in OSIS_LABEL.items() if n == label)
+    if osis not in _VERSES:
+        import glob
+        number = next(b["number"] for b in json.load(open(os.path.join(ROOT, "books.json"), encoding="utf-8"))
+                      if b["osis"] == osis)
+        path = glob.glob(os.path.join(ROOT, "text", "english", f"{number:02d}-*.md"))[0]
+        verses, chap, key = {}, 0, None
+        for line in open(path, encoding="utf-8"):
+            line = line.rstrip("\n")
+            if line.startswith("## Chapter "):
+                chap, key = int(line.split()[-1]), None
+                continue
+            mm = re.match(r"\*\*(\d+)\*\* (.*)", line)
+            if mm:
+                key = (chap, int(mm.group(1)))
+                verses[key] = mm.group(2)
+            elif key and line and not line.startswith(("#", "[^", "*Status", ">")):
+                verses[key] += " " + line.strip()
+            elif not line:
+                key = None if key and verses.get(key) else key
+        _VERSES[osis] = {k: re.sub(r"\[\^[^\]]+\]", "", t) for k, t in verses.items()}
+    return _VERSES[osis].get((ch, v), "")
+
+
+def verse_name(place, ours, first=None, books=None):
+    """The name as the first verse that names the place spells it: "Thessalonica", not
+    "Thessalonians"; "Antipatris" in Acts, not "Aphek". `first` is that verse, (book, ch, v), or
+    else the first in `books`."""
+    name = display_name(place, ours)
+    named = [v for v in place["verses"] if books is None or v[0] in books]
+    if first is None and named:
+        first = min(named, key=lambda v: (BOOK_ORDER[v[0]], v[1], v[2]))
+    if first is None:
+        return name
+    text = english_verse(f"{OSIS_LABEL[first[0]]} {first[1]}:{first[2]}")
+    if not re.search(rf"\b{re.escape(name)}\b", text):
+        name = next((n for n in sorted(place["spellings"], key=lambda n: -place["spellings"][n])
+                     if re.search(rf"\b{re.escape(n)}\b", text)), name)
+    # A people's name where the place has its own ("the Lycaonian cities"): use the place's.
+    if re.search(r"(ians?|eans?|ites?)$", name):
+        plain = [n for n in place["spellings"] if n[:5] == name[:5] and not re.search(r"(ians?|eans?|ites?)$", n)]
+        if plain:
+            name = max(plain, key=lambda n: place["spellings"][n])
+    return name
 
 
 def display_name(place, ours):
@@ -741,7 +817,7 @@ def spine(mask, sheet, step=3, bins=10, trim=12):
     return np.round(line, 2).tolist(), width
 
 
-def follow(lines, lon, lat, sheet, length_km):
+def follow(lines, lon, lat, sheet, length_km, reach_km=6):
     """The stretch of the nearest polyline (km units) around a point, about `length_km` long."""
     x, y = sheet.xy(lon, lat)
     best = None
@@ -750,7 +826,7 @@ def follow(lines, lon, lat, sheet, length_km):
         i = int(np.argmin(d))
         if best is None or d[i] < best[0]:
             best = (d[i], ln, i)
-    if best is None or best[0] > 6:
+    if best is None or best[0] > reach_km:
         return None
     _, ln, i = best
     seg = np.r_[0, np.cumsum(np.hypot(*np.diff(ln, axis=0).T))]
@@ -773,25 +849,31 @@ def sheet_info(sheet):
             "east": sheet.east, "south": sheet.south, "north": sheet.north, "kx": sheet.kx, "ky": sheet.ky}
 
 
-def terrain_layers(sheet, land, lakes, flow, wet, river_km2, hachure_km, no_rivers=None):
+def terrain_layers(sheet, land, lakes, flow, wet, river_km2, hachure_km, no_rivers=None,
+                   ripple_km=(0.45, 1.0, 1.7, 2.6, 3.7, 5.0), river_classes=(1000, 8000), min_slope=5):
     """Coast, water lines, lakes, rivers (from the drainage) and hachures, as SVG path data.
-    `no_rivers` masks out ground where drainage lines mislead, such as a flat delta."""
+    `no_rivers` masks out ground where drainage lines mislead, such as a flat delta or a
+    desert. The water lines and river widths scale with the sheet: `ripple_km` are the
+    distances of the lines from the shore, `river_classes` the drainage areas (km^2) at
+    which a river is drawn wider."""
     res = sheet.res
     d = lambda lines, close=False, digits=2: path_d(lines, res, digits, close)
+    lake_km = [ripple_km[0] * 2 / 3, ripple_km[1] * 0.7]
     layers = {
         "land": d(outlines(land), True),
         "coast": d(outlines(land, closed=False)),
-        "ripples": d(ripples(sheet, land, [0.45, 1.0, 1.7, 2.6, 3.7, 5.0]), digits=1),
+        "ripples": d(ripples(sheet, land, list(ripple_km)), digits=1),
         "lakes": d(outlines(lakes, smooth=0.8), True),
-        "lakeRipples": d(ripples(sheet, ~lakes, [0.3, 0.7]), digits=1),
+        "lakeRipples": d(ripples(sheet, ~lakes, lake_km), digits=1),
     }
     area, recv, shape = flow
     blocked = wet if no_rivers is None else (wet | no_rivers)
     river_lines = rivers(sheet, area, recv, shape, 2, blocked, river_km2)
     smooth = [(chaikin(densify(simplify(p, 1.2), 4), 2), a) for p, a in river_lines]
+    lo1, lo2 = river_classes
     layers["rivers"] = [d([p for p, a in smooth if lo <= a < hi], digits=1)
-                        for lo, hi in ((0, 1000), (1000, 8000), (8000, 1e12))]
-    hs = hachures(sheet, sheet.elev, wet, spacing_km=hachure_km, min_slope=5)
+                        for lo, hi in ((0, lo1), (lo1, lo2), (lo2, 1e12))]
+    hs = hachures(sheet, sheet.elev, wet, spacing_km=hachure_km, min_slope=min_slope)
     layers["hachures"] = [d([p for p, wt in hs if k / 4 <= wt < (k + 1) / 4 or (k == 3 and wt >= 1)], digits=1)
                           for k in range(4)]
     return layers, [p * res for p, _ in smooth]
@@ -870,7 +952,7 @@ def place_records(sheet, all_places, books, ours, terr=None, names=None, capital
         _, p, named = site[0]
         x, y = sheet.xy(p["lon"], p["lat"])
         first = min(named, key=lambda v: (BOOK_ORDER[v[0]], v[1], v[2]))
-        rec = {"n": display_name(p, ours), "x": round(x, 2), "y": round(y, 2),
+        rec = {"n": verse_name(p, ours, first), "x": round(x, 2), "y": round(y, 2),
                "v": sum(t[0] for t in site), "s": p["score"],
                "c": 1 if p["score"] >= 500 and p["exact"] else 0,
                "f": f"{OSIS_LABEL[first[0]]} {first[1]}:{first[2]}",
@@ -904,8 +986,28 @@ def cost_grid(sheet, wet, step=4, slope_weight=25.0):
     return cost, step
 
 
-def easiest_way(sheet, grid, a, b):
-    """The least-cost path between two points (lon, lat), as a smoothed polyline in km."""
+def _pull_straight(path, cost):
+    """Drop the corners of a grid path wherever the straight line between the points left
+    stays on cells no dearer than the path's own, so courses run straight across open water."""
+    def clear(u, v):
+        n = int(max(abs(v[0] - u[0]), abs(v[1] - u[1]))) * 2 + 1
+        rr = np.rint(np.linspace(u[0], v[0], n)).astype(int)
+        cc = np.rint(np.linspace(u[1], v[1], n)).astype(int)
+        return np.all(cost[rr, cc] <= max(cost[u], cost[v]))
+    out, i = [path[0]], 0
+    while i < len(path) - 1:
+        j = len(path) - 1
+        while j > i + 1 and not clear(path[i], path[j]):
+            j -= 1
+        out.append(path[j])
+        i = j
+    return out
+
+
+def easiest_way(sheet, grid, a, b, ends=(True, True), straight=False):
+    """The least-cost path between two points (lon, lat), as a smoothed polyline in km. With
+    `ends` false at either end, the line stops where the grid can first be crossed (at the
+    water's edge, for a voyage to an island) rather than at the point itself."""
     import heapq
     cost, step = grid
     ny, nx = cost.shape
@@ -947,8 +1049,13 @@ def easiest_way(sheet, grid, a, b):
         while path[-1] != s:
             path.append(prev[path[-1]])
         path.reverse()
+        if np.ptp(cost[np.isfinite(cost)]) < 1e-9 or straight:
+            path = _pull_straight(path, cost)
         pts = (np.array(path)[:, ::-1] + 0.5) * cell
-        pts[0], pts[-1] = sheet.xy(*a), sheet.xy(*b)
+        if ends[0]:
+            pts[0] = sheet.xy(*a)
+        if ends[1]:
+            pts[-1] = sheet.xy(*b)
     return chaikin(densify(simplify(pts, 1.2), 3), 3)
 
 
@@ -1171,17 +1278,21 @@ SEAS5 = {"GREAT SEA": ("sea", [(30.85, 31.78), (32.15, 31.74)]),
          "SALT SEA": ("sea", [(35.47, 31.69), (35.44, 31.40)])}
 
 
-def nile(sheet):
-    """The Nile and its two branches from Natural Earth (public domain), as polylines in km."""
-    path = os.path.join(CACHE, "naturalearth", "ne_10m_rivers_lake_centerlines.geojson")
+def natural_earth(layer):
+    """The features of a Natural Earth 1:10m layer (public domain), downloaded once."""
+    path = os.path.join(CACHE, "naturalearth", f"ne_10m_{layer}.geojson")
     if not os.path.exists(path):
         os.makedirs(os.path.dirname(path), exist_ok=True)
-        url = ("https://raw.githubusercontent.com/nvkelso/natural-earth-vector/v5.1.2/geojson/"
-               "ne_10m_rivers_lake_centerlines.geojson")
+        url = f"https://raw.githubusercontent.com/nvkelso/natural-earth-vector/v5.1.2/geojson/ne_10m_{layer}.geojson"
         with open(path, "wb") as f:
             f.write(urllib.request.urlopen(url, timeout=300).read())
+    return json.load(open(path, encoding="utf-8"))["features"]
+
+
+def nile(sheet):
+    """The Nile and its two branches from Natural Earth, as polylines in km."""
     out = []
-    for ft in json.load(open(path, encoding="utf-8"))["features"]:
+    for ft in natural_earth("rivers_lake_centerlines"):
         if ft["properties"].get("name") not in ("Nile", "Rosetta Branch", "Damietta Branch"):
             continue
         g = ft["geometry"]
@@ -1296,25 +1407,25 @@ def exodus_map():
             c["why"] = f"Shown with camp {first['n']}, at the same proposed site."
         else:
             seen[key] = c
-    routes = []
+    legs = []
     plotted = [c for c in camps if "x" in c]
     for a, b in zip(plotted, plotted[1:]):
         gap = b["n"] - a["n"] > 1 and any("x" not in c and "also" not in c and not c["why"].startswith("Shown with")
                                            for c in camps[a["n"]:b["n"] - 1])
         sure = not gap and a["s"] >= LINE_CAMP_SCORE and b["s"] >= LINE_CAMP_SCORE
         pts = easiest_way(sheet, grid, (a["lon"], a["lat"]), (b["lon"], b["lat"]))
-        routes.append({"kind": "route", "d": path_d([pts / res], res, 1), "sure": 1 if sure else 0})
+        legs.append({"d": path_d([pts / res], res, 1), "sure": 1 if sure else 0})
     for c in camps:
         c.pop("lon", None)
         c.pop("lat", None)
-    roads = []
+    roads, road_lines = [], []
     for name, pts in ROADS.items():
         line = []
         for a, b in zip(pts, pts[1:]):
             seg = easiest_way(sheet, grid, a, b)
             line.append(seg if not line else seg[1:])
         line = np.vstack(line)
-        routes.append({"kind": "road", "d": path_d([line / res], res, 1)})
+        road_lines.append({"d": path_d([line / res], res, 1)})
         mid = len(line) // 2
         span = line[max(mid - 40, 0):mid + 40]
         roads.append({"n": name, "pts": np.round(span[::max(1, len(span) // 16)], 2).tolist()})
@@ -1324,7 +1435,7 @@ def exodus_map():
     for p in pl:
         for c in camps:
             if "x" in c and math.hypot(p["x"] - c["x"], p["y"] - c["y"]) < 1.0:
-                p["st"] = c["n"]
+                p["st"] = [[0, c["n"]]]
 
     feats = {"mountains": mountains(sheet, by_name, ours, ["Mount Nebo"]), "rivers": [], "waters": [],
              "regions": [], "roads": roads, "sinai": []}
@@ -1352,12 +1463,15 @@ def exodus_map():
     data = {
         "sheet": sheet_info(sheet), "grid": 20 / 60, "focus": 0.55, "file": "map-05-the-exodus",
         "page": {"w": 10.3, "h": 7.8}, "land": "blush", "layers": layers, "territories": fills, "labels": labels,
-        "places": pl, "features": feats, "routes": routes, "stations": camps, "territoryLabel": "Land of",
-        "routeTitle": "The camps of Numbers 33",
-        "routeNote": "From Rameses to the plains of Moab. Camps whose proposed site scores at least "
-                     f"{MIN_CAMP_SCORE} of 1,000 are plotted, and marked \"?\" below {SURE_CAMP_SCORE}. The route is "
-                     "dashed where the camps between are unknown or doubtful, and drawn along the easiest ground "
-                     "between the camps.",
+        "places": pl, "features": feats, "roads": road_lines, "territoryLabel": "Land of",
+        "routeLayer": "The camps of Numbers 33 and the ancient roads",
+        "journeys": [{
+            "name": "The camps of Numbers 33", "short": "Exodus", "ref": "Numbers 33", "color": "red", "unit": "Camp",
+            "note": "From Rameses to the plains of Moab. Camps whose proposed site scores at least "
+                    f"{MIN_CAMP_SCORE} of 1,000 are plotted, and marked \"?\" below {SURE_CAMP_SCORE}. The route is "
+                    "dashed where the camps between are unknown or doubtful, and drawn along the easiest ground "
+                    "between the camps.",
+            "stops": camps, "legs": legs}],
         "title": {"box": {"x": 150, "y": 6, "w": 186, "h": 58}, "scale": 1.3, "lines": [
             ["series", "MAP No. 5 · A STYLE STUDY", 7.5], ["display", "THE EXODUS", 18.5],
             ["italic", "From Egypt to the plains of Moab: the camps of Numbers 33,", 24.5],
@@ -1406,6 +1520,450 @@ def exodus_map():
     return data, page
 
 
+# --- Shared by the larger sheets and the journeys ---------------------------------------------
+
+def sea_mask(sheet, elev, points):
+    """The sea: ground at or below sea level that is joined to any of the points (lon, lat)."""
+    lab, _ = ndimage.label(elev <= 0)
+    keep = set()
+    for lon, lat in points:
+        x, y = sheet.xy(lon, lat)
+        r, c = int(y / sheet.res), int(x / sheet.res)
+        if 0 <= r < lab.shape[0] and 0 <= c < lab.shape[1] and lab[r, c]:
+            keep.add(lab[r, c])
+    return np.isin(lab, list(keep))
+
+
+def ne_lakes(sheet, skip=()):
+    """Natural lakes from Natural Earth as a mask on the sheet grid. Reservoirs are left out."""
+    from PIL import ImageDraw
+    img = Image.new("1", (sheet.nx, sheet.ny), 0)
+    draw = ImageDraw.Draw(img)
+    for ft in natural_earth("lakes"):
+        pr = ft["properties"]
+        if pr.get("featurecla") not in ("Lake", "Alkaline Lake") or pr.get("name") in skip:
+            continue
+        g = ft["geometry"]
+        for poly in (g["coordinates"] if g["type"] == "MultiPolygon" else [g["coordinates"]]):
+            for k, ring in enumerate(poly):
+                pts = [(x / sheet.res, y / sheet.res) for x, y in (sheet.xy(lon, lat) for lon, lat in ring)]
+                if len(pts) > 2:
+                    draw.polygon(pts, fill=0 if k else 1)
+    return np.asarray(img, bool)
+
+
+def sea_grid(sheet, sea, step=2):
+    """Cost of sailing across each cell of a coarse grid. Any cell with water in it can be
+    crossed, so narrow straits such as Messina stay open, but cells that touch land cost eight
+    times as much, so a ship takes a channel only when the way round is much longer."""
+    ny, nx = sea.shape[0] // step, sea.shape[1] // step
+    blocks = sea[:ny * step, :nx * step].reshape(ny, step, nx, step)
+    water, open_ = blocks.any((1, 3)), blocks.all((1, 3))
+    open_ = ndimage.binary_erosion(open_, iterations=1, border_value=1)
+    cost = np.where(open_, 1.0, 8.0) * sheet.res * step
+    return np.where(water, cost, np.inf), step
+
+
+def give_islands(terr, land, max_cells):
+    """Small pieces of land left out of every territory (islands with no town of their own)
+    go to the nearest territory."""
+    lab, n = ndimage.label(land & (terr < 0))
+    if not n:
+        return terr
+    sizes = ndimage.sum(np.ones_like(lab), lab, range(1, n + 1))
+    small = np.isin(lab, [i + 1 for i, sz in enumerate(sizes) if sz <= max_cells])
+    _, (ri, ci) = ndimage.distance_transform_edt(terr < 0, return_indices=True)
+    out = terr.copy()
+    out[small] = terr[ri[small], ci[small]]
+    return out
+
+
+def check_verses(journeys):
+    """Every stop of every journey must be named in the verse it cites, as our translation
+    spells it. Returns the stops that are not."""
+    bad = []
+    for J in journeys:
+        for st in J["stops"]:
+            ob, name, ref, how, extra = (list(st) + [{}])[:5]
+            word = (extra or {}).get("word", name)
+            if word and word not in english_verse(ref):
+                bad.append(f"{J['name']}: {name} is not in {ref}: {english_verse(ref)[:120]}")
+    return bad
+
+
+def build_journeys(sheet, specs, by_name, land_grid, water_grid, places_out):
+    """The journeys on a sheet: numbered stops and the lines between them.
+
+    Each spec has a name, short name, verses, color, unit ("Stop", "Camp") and note, and its
+    stops as (OpenBible name, our name, verse, how, extra). `how` is how the stop was reached:
+    "land", "sea", or None for the start. `extra` may give `via` (places passed on the way:
+    OpenBible names or (lon, lat)), `guess` (the way between is a reconstruction, so the line is
+    dashed), `at` ((lon, lat) for a stop OpenBible doesn't locate, such as a region's town),
+    `sure` (0 to mark the stop uncertain), `word` (the name as the verse spells it), `what` (what
+    happened there), `note`, and `why` (why a stop isn't plotted). Places in `places_out` that are
+    stops get `st`, so the page can show them as stops instead."""
+    res = sheet.res
+    out = []
+    for j, spec in enumerate(specs):
+        stops = []
+        for n, st in enumerate(spec["stops"], 1):
+            ob, name, ref, how, extra = (list(st) + [{}])[:5]
+            extra = extra or {}
+            rec = {"n": n, "name": name, "ref": ref}
+            p = by_name[ob] if ob else None
+            region = p and "region" in p["types"] and "settlement" not in p["types"]
+            lonlat = extra.get("at") or ((p["lon"], p["lat"]) if p and not region else None)
+            if p:
+                rec.update({"site": p["modern"] or "", "s": p["score"], "id": p["id"] + "/" + p["slug"]})
+            elif lonlat:
+                rec.update({"site": extra.get("site", ""), "s": 300})
+            if lonlat and sheet.west <= lonlat[0] <= sheet.east and sheet.south <= lonlat[1] <= sheet.north:
+                x, y = sheet.xy(*lonlat)
+                sure = extra.get("sure", 1 if p and p["score"] >= 500 and p["exact"] else 0)
+                if p and "island" in p["types"] and "settlement" not in p["types"]:
+                    sure = extra.get("sure", 1 if p["score"] >= 500 else 0)
+                rec.update({"x": round(x, 2), "y": round(y, 2), "sure": sure})
+                rec["_ll"], rec["_island"] = lonlat, bool(p and "settlement" not in p["types"])
+            else:
+                rec["why"] = extra.get("why", "Not plotted: the text names a region, not a place in it.")
+            rec["_how"], rec["_extra"] = how, extra
+            for k in ("what", "note"):
+                if extra.get(k):
+                    rec[k] = extra[k]
+            stops.append(rec)
+        # The lines: from each plotted stop to the next, by land or by sea, through the places
+        # the way passed.
+        legs, plotted = [], [s for s in stops if "x" in s]
+        for a, b in zip(plotted, plotted[1:]):
+            ex = b["_extra"]
+            way = [(a["_ll"], None)]
+            for v in ex.get("via", []):
+                v, how = (v["p"], v["how"]) if isinstance(v, dict) else (v, b["_how"])
+                way.append(((by_name[v]["lon"], by_name[v]["lat"]) if isinstance(v, str) else v, how))
+            way.append((b["_ll"], b["_how"]))
+            parts = []
+            for k, ((u, _), (v, how)) in enumerate(zip(way, way[1:])):
+                sea = how == "sea"
+                ends = (not (sea and k == 0 and a["_island"]), not (sea and k == len(way) - 2 and b["_island"]))
+                seg = easiest_way(sheet, water_grid if sea else land_grid, u, v, ends, straight=sea)
+                parts.append(seg if not parts else seg[1:])
+            line = np.vstack(parts)
+            skipped = any("x" not in s for s in stops[a["n"]:b["n"] - 1])
+            sure = a["sure"] and b["sure"] and not ex.get("guess") and not skipped
+            legs.append({"d": path_d([line / res], res, 1), "sure": 1 if sure else 0})
+        # A stop at a place visited before shares its marker.
+        seen = {}
+        for c in stops:
+            if "x" not in c:
+                continue
+            key = (round(c["x"] / 2), round(c["y"] / 2))
+            if key in seen:
+                first = seen[key]
+                first["also"] = first.get("also", []) + [c["n"]]
+                for k in ("x", "y", "sure"):
+                    c.pop(k)
+                c["why"] = f"Shown with {spec.get('unit', 'stop').lower()} {first['n']}, the same place."
+            else:
+                seen[key] = c
+        for c in stops:
+            for k in ("_ll", "_island", "_how", "_extra"):
+                c.pop(k, None)
+        for pl in places_out:
+            for c in stops:
+                if "x" in c and math.hypot(pl["x"] - c["x"], pl["y"] - c["y"]) < 2.0:
+                    pl.setdefault("st", []).append([j, c["n"]])
+        out.append({k: spec[k] for k in ("name", "short", "ref", "color", "unit", "note", "summary") if k in spec}
+                   | {"stops": stops, "legs": legs})
+    return out
+
+
+def region_labels(sheet, by_name, ours, names, books=None):
+    """Names of districts and islands, set in italic capitals at OpenBible's point for each, as
+    the first verse in `books` that names them spells them."""
+    out = []
+    for n in names:
+        text = None
+        if isinstance(n, tuple):
+            n, text = n
+        p = by_name[n]
+        x, y = sheet.xy(p["lon"], p["lat"])
+        out.append({"n": text or verse_name(p, ours, books=books), "x": round(x, 2), "y": round(y, 2)})
+    return out
+
+
+def furniture_height(block):
+    """The title block's height follows its last line."""
+    block["box"]["h"] = round((block["lines"][-1][2] + 4.5) * block["scale"], 1)
+    return block
+
+
+# --- Map No. 3: The Roman Empire and the travels of Paul --------------------------------------
+
+SHEET3 = (12.0, 37.0, 29.0, 43.0)
+ACTS_ON = {"Acts", "Rom", "1Cor", "2Cor", "Gal", "Eph", "Phil", "Col", "1Thess", "2Thess", "1Tim", "2Tim",
+           "Titus", "Phlm", "Heb", "Jas", "1Pet", "2Pet", "1John", "2John", "3John", "Jude", "Rev"}
+# Provinces about AD 50, each grown from its towns: OpenBible places and, where the Bible names
+# none, a few well-known cities (lon, lat). Tint, towns, reach in km.
+PROVINCES = {
+    "Italy": ("yellow", ["Rome", "Puteoli", "Three Taverns", "Forum of Appius", "Rhegium"],
+              [(16.87, 41.12), (17.94, 40.63), (15.80, 40.64), (16.25, 39.30), (14.25, 40.85), (13.40, 42.35)], 160),
+    "Sicily": ("lime", ["Syracuse", "Malta"], [(13.36, 38.12), (15.55, 38.19), (12.50, 37.80), (14.25, 37.50)], 160),
+    "Macedonia": ("lime", ["Philippi", "Thessalonica", "Berea", "Amphipolis", "Apollonia", "Neapolis"],
+                  [(21.0, 40.6), (20.0, 41.0), (19.45, 41.32), (21.4, 41.3), (22.42, 39.64)], 150),
+    "Achaia": ("salmon", ["Corinth", "Athens", "Cenchreae", "Nicopolis"],
+               [(22.43, 37.07), (21.73, 38.25), (21.68, 37.64), (22.95, 38.40), (23.60, 38.46)], 150),
+    "Thrace": ("olive", ["Samothrace"], [(26.55, 41.68), (24.75, 42.15), (28.98, 41.01), (27.96, 40.98), (25.9, 41.1)], 150),
+    "Dalmatia": ("sage", [], [(18.10, 42.65), (19.26, 42.44), (17.5, 43.0)], 120),
+    "Asia": ("yellow", ["Ephesus", "Smyrna", "Pergamum", "Sardis", "Thyatira", "Philadelphia", "Laodicea",
+                        "Colossae", "Hierapolis", "Troas", "Assos", "Miletus", "Mitylene", "Chios", "Samos", "Cos",
+                        "Rhodes 1", "Adramyttium", "Cnidus"], [(30.17, 38.07), (28.6, 39.4)], 150),
+    "Bithynia and Pontus": ("sage", [], [(29.72, 40.43), (29.92, 40.77), (31.60, 41.25), (35.15, 42.02),
+                                         (36.33, 41.29), (33.8, 41.6)], 160),
+    "Galatia": ("salmon", ["Antioch 2", "Iconium", "Lystra", "Derbe"],
+                [(32.86, 39.94), (34.0, 39.3), (33.6, 40.6), (35.8, 40.6), (31.5, 38.9)], 200),
+    "Lycia and Pamphylia": ("lime", ["Perga", "Attalia", "Patara", "Myra"], [(29.8, 36.6), (31.6, 36.8), (30.3, 37.2)], 90),
+    "Cilicia": ("sage", ["Tarsus"], [(35.32, 36.98), (35.55, 36.96), (33.93, 36.38), (33.2, 36.2), (36.15, 36.9)], 90),
+    "Cappadocia": ("olive", [], [(35.49, 38.72), (34.6, 37.84), (36.5, 39.0), (34.2, 38.6)], 170),
+    "Syria": ("yellow", ["Antioch 1", "Seleucia", "Damascus", "Sidon", "Tyre", "Ptolemais"],
+              [(36.4, 35.1), (36.72, 34.73), (35.85, 34.43), (35.5, 33.9), (36.0, 35.6)], 140),
+    "Judea": ("salmon", ["Jerusalem", "Caesarea", "Joppa", "Lod", "Gaza"], [(35.45, 32.75), (35.3, 32.25)], 80),
+    "Arabia": ("olive", [], [(35.44, 30.33), (36.48, 32.52), (35.7, 31.2), (36.3, 31.0)], 140),
+    "Egypt": ("yellow", ["Alexandria"], [], 40),
+    "Cyprus": ("sage", ["Salamis", "Paphos"], [(33.0, 35.1)], 150),
+    "Crete": ("salmon", ["Fair Havens", "Phoenix"], [(23.6, 35.4), (25.9, 35.2), (25.13, 35.33)], 150),
+    "Cyrene": ("salmon", ["Cyrene"], [(20.07, 32.12), (22.64, 32.76), (21.0, 32.5)], 110),
+    "Africa": ("olive", [], [(13.18, 32.90), (14.29, 32.64), (12.47, 32.79)], 100),
+}
+# The kingdom of the Nabataeans, and the provinces that were joined under one governor.
+PROVINCE_GROUPS = {"Crete": "Crete and Cyrene", "Cyrene": "Crete and Cyrene"}
+DISTRICTS = ["Mysia", "Phrygia", "Pisidia", "Lycaonia", "Pamphylia", "Lycia", "Pontus", "Bithynia",
+             "Phoenicia", "Illyricum", ("Galilee 1", "GALILEE"), "Samaria 2"]
+ISLANDS3 = [("Cyprus", "CYPRUS"), ("Crete", "CRETE"), ("Malta", "MALTA")]
+SEAS3 = [("MEDITERRANEAN SEA", [(16.6, 33.4), (24.6, 33.2)], None), ("ADRIATIC SEA", [(18.0, 36.6), (20.4, 37.9)], 30),
+         ("AEGEAN SEA", [(24.6, 39.4), (25.2, 37.6)], 30), ("BLACK SEA", [(31.0, 42.55), (34.6, 42.45)], 30),
+         ("Sea of Cilicia", [(32.2, 35.85), (34.2, 36.25)], 20)]
+RIVERS3 = {"Tiber": (12.48, 42.25, 120), "Orontes": (36.45, 35.45, 160), "Halys": (34.2, 40.95, 220),
+           "Sangarius": (30.45, 40.3, 180), "Maeander": (28.2, 37.75, 140), "Hermus": (27.9, 38.62, 140),
+           "Axius": (22.45, 41.15, 150), "Strymon": (23.45, 41.25, 120), "Nile": (31.15, 30.4, 200)}
+# Paul's journeys, stop by stop, each named in the verse given.
+PAUL = [
+    {"name": "Paul's early years", "short": "Early years", "ref": "Acts 9–11; Galatians 1", "color": "brown", "unit": "Stop",
+     "note": "From Jerusalem to Damascus, where Paul met the risen Jesus; then Arabia, Jerusalem, Tarsus and Antioch.",
+     "stops": [
+         ("Jerusalem", "Jerusalem", "Acts 9:2", None, {"what": "Paul asks for letters against the followers of the Way"}),
+         ("Damascus", "Damascus", "Acts 9:3", "land", {"what": "Jesus appears to him on the road"}),
+         ("Arabia 2", "Arabia", "Galatians 1:17", "land", {"why": "Not plotted: Paul names only the region, the Nabataean kingdom of Arabia."}),
+         ("Damascus", "Damascus", "Galatians 1:17", "land", {"what": "He returns, and escapes over the wall (Acts 9:25)"}),
+         ("Jerusalem", "Jerusalem", "Acts 9:26", "land", {"what": "Barnabas brings him to the apostles"}),
+         ("Caesarea", "Caesarea", "Acts 9:30", "land"),
+         ("Tarsus", "Tarsus", "Acts 9:30", "sea", {"what": "His home city"}),
+         ("Antioch 1", "Antioch", "Acts 11:26", "land", {"what": "The disciples are first called Christians"}),
+     ]},
+    {"name": "Paul's first journey", "short": "First journey", "ref": "Acts 13–14", "color": "red", "unit": "Stop",
+     "note": "With Barnabas, sent out by the church at Antioch: across Cyprus and into the hill country of Galatia, and back.",
+     "stops": [
+         ("Antioch 1", "Antioch", "Acts 13:1", None, {"what": "The church sends Barnabas and Saul"}),
+         ("Seleucia", "Seleucia", "Acts 13:4", "land"),
+         ("Salamis", "Salamis", "Acts 13:5", "sea"),
+         ("Paphos", "Paphos", "Acts 13:6", "land", {"what": "The proconsul Sergius Paulus believes"}),
+         ("Perga", "Perga", "Acts 13:13", "sea", {"what": "John Mark leaves them"}),
+         ("Antioch 2", "Antioch", "Acts 13:14", "land", {"what": "Paul speaks in the synagogue"}),
+         ("Iconium", "Iconium", "Acts 13:51", "land"),
+         ("Lystra", "Lystra", "Acts 14:6", "land", {"what": "A lame man is healed; Paul is stoned"}),
+         ("Derbe", "Derbe", "Acts 14:20", "land"),
+         ("Lystra", "Lystra", "Acts 14:21", "land"),
+         ("Iconium", "Iconium", "Acts 14:21", "land"),
+         ("Antioch 2", "Antioch", "Acts 14:21", "land"),
+         ("Perga", "Perga", "Acts 14:25", "land"),
+         ("Attalia", "Attalia", "Acts 14:25", "land"),
+         ("Antioch 1", "Antioch", "Acts 14:26", "sea"),
+     ]},
+    {"name": "Paul's second journey", "short": "Second journey", "ref": "Acts 15:36–18:22", "color": "blue", "unit": "Stop",
+     "note": "With Silas, and Timothy from Lystra: through Galatia to Troas, then across to Macedonia and Achaia.",
+     "stops": [
+         ("Antioch 1", "Antioch", "Acts 15:35", None),
+         ("Derbe", "Derbe", "Acts 16:1", "land", {"via": [(36.6, 36.85), "Tarsus", (34.85, 37.30)]}),
+         ("Lystra", "Lystra", "Acts 16:1", "land", {"what": "Timothy joins them"}),
+         ("Troas", "Troas", "Acts 16:8", "land", {"via": ["Iconium", "Antioch 2", (30.53, 39.78)], "guess": True,
+                                                  "what": "Paul's vision of a man of Macedonia"}),
+         ("Samothrace", "Samothrace", "Acts 16:11", "sea"),
+         ("Neapolis", "Neapolis", "Acts 16:11", "sea"),
+         ("Philippi", "Philippi", "Acts 16:12", "land", {"what": "Lydia; prison and the earthquake"}),
+         ("Amphipolis", "Amphipolis", "Acts 17:1", "land"),
+         ("Apollonia", "Apollonia", "Acts 17:1", "land"),
+         ("Thessalonica", "Thessalonica", "Acts 17:1", "land"),
+         ("Berea", "Berea", "Acts 17:10", "land"),
+         ("Athens", "Athens", "Acts 17:15", "sea", {"via": [(22.62, 40.40)], "what": "Paul speaks at the Areopagus"}),
+         ("Corinth", "Corinth", "Acts 18:1", "land", {"what": "Eighteen months with Aquila and Priscilla"}),
+         ("Cenchreae", "Cenchreae", "Acts 18:18", "land"),
+         ("Ephesus", "Ephesus", "Acts 18:19", "sea"),
+         ("Caesarea", "Caesarea", "Acts 18:22", "sea"),
+         ("Antioch 1", "Antioch", "Acts 18:22", "land"),
+     ]},
+    {"name": "Paul's third journey", "short": "Third journey", "ref": "Acts 18:23–21:17", "color": "green", "unit": "Stop",
+     "note": "Through Galatia and Phrygia to Ephesus for three years, to Macedonia and Greece, and by sea to Jerusalem.",
+     "stops": [
+         ("Antioch 1", "Antioch", "Acts 18:22", None),
+         ("Ephesus", "Ephesus", "Acts 19:1", "land", {"via": [(36.6, 36.85), "Tarsus", (34.85, 37.30), "Derbe", "Lystra",
+                                                              "Iconium", "Antioch 2"], "guess": True,
+                                                      "what": "Two years in the lecture hall of Tyrannus; the riot"}),
+         ("Macedonia", "Macedonia", "Acts 20:1", "sea", {"why": "Not plotted: the text names only the province."}),
+         ("Corinth", "Greece", "Acts 20:2", "land", {"via": ["Troas", {"p": "Neapolis", "how": "sea"}, "Philippi",
+                                                             "Amphipolis", "Thessalonica", "Berea"],
+                                                    "sure": 0, "guess": True,
+                                                    "note": "Acts names only Greece. Paul probably stayed at Corinth, where he wrote "
+                                                            "Romans (Romans 16:1, 23)."}),
+         ("Philippi", "Philippi", "Acts 20:6", "land", {"via": ["Berea", "Thessalonica", "Amphipolis"], "guess": True}),
+         ("Troas", "Troas", "Acts 20:6", "sea", {"what": "Eutychus falls from the window"}),
+         ("Assos", "Assos", "Acts 20:13", "land", {"what": "Paul goes on foot; the others sail"}),
+         ("Mitylene", "Mitylene", "Acts 20:14", "sea"),
+         ("Chios", "Chios", "Acts 20:15", "sea"),
+         ("Samos", "Samos", "Acts 20:15", "sea"),
+         ("Miletus", "Miletus", "Acts 20:15", "sea", {"what": "Farewell to the elders of Ephesus"}),
+         ("Cos", "Cos", "Acts 21:1", "sea"),
+         ("Rhodes 1", "Rhodes", "Acts 21:1", "sea"),
+         ("Patara", "Patara", "Acts 21:1", "sea"),
+         ("Tyre", "Tyre", "Acts 21:3", "sea", {"via": [(32.5, 34.3)]}),
+         ("Ptolemais", "Ptolemais", "Acts 21:7", "sea"),
+         ("Caesarea", "Caesarea", "Acts 21:8", "sea", {"what": "Agabus warns Paul"}),
+         ("Jerusalem", "Jerusalem", "Acts 21:15", "land", {"what": "Paul is arrested in the temple"}),
+     ]},
+    {"name": "Paul's voyage to Rome", "short": "To Rome", "ref": "Acts 27–28", "color": "violet", "unit": "Stop",
+     "note": "A prisoner, under the centurion Julius: by ship to Crete, the storm and the wreck on Malta, and on to Rome.",
+     "stops": [
+         ("Caesarea", "Caesarea", "Acts 25:4", None, {"what": "Two years in custody; Paul appeals to Caesar"}),
+         ("Sidon", "Sidon", "Acts 27:3", "sea"),
+         ("Myra", "Myra", "Acts 27:5", "sea", {"via": [(34.75, 35.75), (33.0, 36.05)], "what": "They change to a ship of Alexandria"}),
+         ("Cnidus", "Cnidus", "Acts 27:7", "sea"),
+         ("Salmone", "Salmone", "Acts 27:7", "sea"),
+         ("Fair Havens", "Fair Havens", "Acts 27:8", "sea"),
+         ("Cauda", "Cauda", "Acts 27:16", "sea", {"via": [(24.4, 34.95)], "what": "The storm drives them past"}),
+         ("Malta", "Malta", "Acts 28:1", "sea", {"what": "Shipwreck; three months on the island"}),
+         ("Syracuse", "Syracuse", "Acts 28:12", "sea"),
+         ("Rhegium", "Rhegium", "Acts 28:13", "sea"),
+         ("Puteoli", "Puteoli", "Acts 28:13", "sea"),
+         ("Forum of Appius", "Forum of Appius", "Acts 28:15", "land"),
+         ("Three Taverns", "Three Taverns", "Acts 28:15", "land"),
+         ("Rome", "Rome", "Acts 28:16", "land", {"what": "Two years in a rented house"}),
+     ]},
+]
+
+
+def roman_map():
+    """Map No. 3, as a dict ready for JSON, and the words for its page."""
+    sheet = Sheet(*SHEET3, res=1.5)
+    sheet.elev = elev = elevation(sheet, 7)
+    sea = sea_mask(sheet, elev, [(18.0, 34.0), (25.0, 38.5), (33.0, 42.8), (32.55, 29.9), (14.0, 40.0)])
+    lakes = ne_lakes(sheet) | ndimage.binary_fill_holes(_component(elev <= -392, sheet, 35.50, 31.50))
+    lakes &= ~sea
+    wet = sea | lakes
+    land = ~sea
+    all_places = places()
+    by_name = {p["name"]: p for p in all_places}
+    ours = our_spellings()
+    res = sheet.res
+    lon_g, lat_g = sheet.cell_centres()
+    # Rivers are traced from the drainage, except in the deserts, where it finds dry wadis.
+    flow = drainage(sheet, elev, wet, 2)
+    desert = (lat_g < 33.0) & ~((lon_g > 35.0) & (lon_g < 36.7) & (lat_g > 31.0))
+    nile_km = nile(sheet)
+
+    seeds3 = []
+    for n, (_, towns, extra, _) in PROVINCES.items():
+        seeds3 += [(t, n, by_name[t]["lon"], by_name[t]["lat"]) for t in towns]
+        seeds3 += [(n, n, lon, lat) for lon, lat in extra]
+    for line in nile_km:
+        for x, y in line[::6]:
+            lon, lat = sheet.lonlat(x, y)
+            seeds3.append(("Nile", "Egypt", lon, lat))
+    names3 = list(PROVINCES)
+    terr, _ = territories(sheet, elev, wet, flow + (2,), seeds3, step=2, cap_km={n: v[3] for n, v in PROVINCES.items()},
+                          names=names3, barrier=None, keep_seeded=True)
+    terr = give_islands(terr, land & ~lakes, max_cells=int(4000 / res ** 2))
+    groups = {n: PROVINCE_GROUPS.get(n, n) for n in names3}
+    tints = {groups[n]: v[0] for n, v in PROVINCES.items()}
+
+    layers, river_km = terrain_layers(sheet, land, lakes, flow, wet, 2500, 7.0, desert,
+                                      ripple_km=(2.6, 6, 10.5, 16, 23, 31), river_classes=(8000, 40000), min_slope=2.2)
+    layers["nile"] = path_d([ln / res for ln in nile_km], res, 1)
+    fills, labels, layers["borders"] = territory_layers(sheet, terr, names3, groups, tints)
+    for lb in labels:                    # provinces are named in full, joined provinces apart
+        lb["style"] = "nation"
+    for text, pts, size in SEAS3:
+        labels.append({"text": text, "style": "sea", "pts": line_km(sheet, pts, 2), **({"size": size} if size else {})})
+
+    pl = place_records(sheet, all_places, ACTS_ON, ours, terr, names3)
+    land_grid = cost_grid(sheet, wet, step=2, slope_weight=8.0)
+    journeys = build_journeys(sheet, PAUL, by_name, land_grid, sea_grid(sheet, sea), pl)
+
+    feats = {"mountains": [], "rivers": [], "waters": [], "regions": region_labels(sheet, by_name, ours, DISTRICTS + ISLANDS3, ACTS_ON)}
+    for n, (lon, lat, length) in RIVERS3.items():
+        line = follow(nile_km if n == "Nile" else river_km, lon, lat, sheet, length, reach_km=30)
+        if line:
+            feats["rivers"].append({"n": n, "pts": line})
+    x, y = sheet.xy(35.45, 31.45)
+    feats["waters"].append({"n": "Dead Sea", "x": round(x, 2), "y": round(y, 2), "lake": 1})
+
+    key_rows = [["camp", "Stop on a journey"], ["camp-unsure", "Stop, place uncertain (?)"]]
+    key_rows += [["journey", f"{J['short']} ({J['ref'].split(';')[0]})", J["color"]] for J in journeys]
+    key_rows += [["conjectural", "Way uncertain"], ["gap", ""], ["dot", "Town"], ["unsure", "Site uncertain (?)"],
+                 ["river", "River"], ["nation", "Border of a province"], ["gap", ""]]
+    by_tint = {}
+    for n, v in PROVINCES.items():
+        by_tint.setdefault(v[0], []).append(n)
+    for tint in ("yellow", "salmon", "lime", "sage", "olive"):
+        row = []
+        for n in by_tint[tint]:
+            if row and len(", ".join(row + [n])) > 34:
+                key_rows.append(["swatch", ", ".join(row), tint])
+                row = []
+            row.append(n)
+        key_rows.append(["swatch", ", ".join(row), tint])
+    data = {
+        "sheet": sheet_info(sheet), "grid": 1, "focus": 0.6, "file": "map-03-the-roman-empire",
+        "page": {"w": 10.3, "h": 7.8}, "layers": layers, "territories": fills, "labels": labels,
+        "places": pl, "features": feats, "territoryLabel": "Province", "journeys": journeys,
+        "routeButton": "Journeys", "routesTitle": "The journeys of Paul",
+        "routesNote": "Choose a journey to follow it stop by stop. Each stop is named in the verse given.",
+        "routeLayer": "Paul's journeys",
+        "title": furniture_height({"box": {"x": 1255, "y": 1095, "w": 640}, "scale": 4.3, "lines": [
+            ["series", "MAP No. 3 · A STYLE STUDY", 7.5], ["head", "THE ROMAN EMPIRE", 15.5],
+            ["display-fit", "THE TRAVELS OF PAUL", 26.5],
+            ["italic", "His journeys in the Acts of the Apostles, with the places", 32.5],
+            ["italic", "named in Acts and the letters, and the provinces about AD 50", 36.4], ["rule", "", 39.6],
+            ["plain", "About AD 35 to 62 by modern reckoning", 44.5],
+            ["credit", "After the Eilers Sunday School Maps, St. Louis · Drawn from open data · CC BY 4.0", 49]]}),
+        "key": {"box": {"x": 22, "y": 1018, "w": 330}, "scale": 5.4, "scale_bars": [[0, 50, 100, 150], [0, 100, 200]],
+                "rows": key_rows},
+    }
+    page = {
+        "slug": "roman-empire", "NO": "3", "H1": "The Roman Empire and the Travels of Paul", "TITLE": "Travels of Paul Map",
+        "DESCRIPTION": "Map No. 3, a style study after the Eilers Sunday School wall maps: the Roman Empire about AD 50 "
+                       "and Paul's journeys in Acts, stop by stop, drawn from open data.",
+        "PAGE": "letter landscape", "PAGE_W": "10.3", "PAGE_H": "7.8",
+        "GRID_LABEL": "One-degree squares, as used by the index",
+        "GRID_NOTE": "Grid squares are one degree of latitude and longitude: letters across the top, numbers down the side.",
+        "ABOUT": about_html(
+            "A <strong>style study</strong> for the project's Bible maps, after <strong>Eilers Sunday School Map No. "
+            "3</strong>, <em>Roman Empire and the Routes of the Travels of St. Paul</em> (A. H. Eilers &amp; Co., St. "
+            "Louis), redrawn from open data.",
+            ["Flat tints for each province, with the seas left as paper", KEPT[1],
+             "Each journey in its own color, with the stops numbered", KEPT[3], KEPT[4]], CHANGED + [
+                "Choose a journey to follow it stop by stop, with the verse for each stop"],
+            ["<strong>Land, water and relief</strong> come from elevation data; rivers are traced from it, and the "
+             "Nile and the lakes come from Natural Earth.",
+             "<strong>The journeys</strong> follow Acts and Galatians. Every stop is named in the verse given, and "
+             "the build checks each name against this project's translation. Sea passages keep to open water and "
+             "land journeys to the easiest ground; both are pictures of the order of places, not of the exact way. "
+             "Where Acts names only a region, the way through it is dashed.",
+             "<strong>Provinces are approximate</strong>, grown from their towns. Boundaries changed often in these "
+             "years; the map shows them about AD 50.",
+             PLACES_MADE.format(books="Acts to Revelation"), NAMES_MADE],
+            SOURCES + ["Rivers and lakes: Natural Earth (public domain)"]),
+    }
+    return data, page
+
+
 def write_map(data, page):
     sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
     import webpages
@@ -1422,7 +1980,7 @@ def write_map(data, page):
         f.write(webpages.STANDALONE.format(page=body))
 
 
-MAPS = {"kingdoms": kingdoms_map, "exodus": exodus_map}
+MAPS = {"kingdoms": kingdoms_map, "exodus": exodus_map, "roman-empire": roman_map}
 
 
 def main():
@@ -1430,9 +1988,10 @@ def main():
     for name in wanted:
         data, page = MAPS[name]()
         write_map(data, page)
-        camps = data.get("stations", [])
-        shown = sum(1 + len(s.get("also", [])) for s in camps if "x" in s)
-        extra = f", {shown} of {len(camps)} camps shown" if camps else ""
+        extra = ""
+        for J in data.get("journeys", []):
+            shown = sum(1 + len(s.get("also", [])) for s in J["stops"] if "x" in s)
+            extra += f"; {J['short']}: {shown} of {len(J['stops'])} stops shown"
         print(f"Map No. {page['NO']}, {page['H1']}: {len(data['places'])} places, "
               f"{len(data['territories'])} territories{extra}")
 
