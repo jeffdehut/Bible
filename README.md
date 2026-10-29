@@ -84,6 +84,7 @@ scripts/
   templates/                     The page sources the scripts fill with data
 VERIFICATION.md                  What was checked, what was found, what was fixed
 TRANSLATION.md                   Translation goals, principles, decisions, format and review process
+HEADINGS.md                      Section headings and book introductions: the guide, and the plan for drafting them
 ROADMAP.md                       Plans: web reader, maps, genealogy viewer, accounts, Chinese
 DEPLOY.md, netlify.toml          Publishing the website at Porkbun (or any static host)
 ```

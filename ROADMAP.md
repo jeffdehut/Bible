@@ -89,7 +89,8 @@ Chinese translation.
 2. **Section headings and book introductions.** Headings through every chapter, and for each
    book a short introduction (author, date, setting, outline, themes), written for this
    translation in plain English and labelled as drafts like the translation, with their own
-   review status.
+   review status. Planned in detail in HEADINGS.md: tools and four hand-written samples
+   first, then the drafting in one overnight run, batch by batch, with a review pass.
 3. **Parallel passages and reading plans (done).** `scripts/parallels.py` builds A. T.
    Robertson's *Harmony of the Gospels* (1922, public domain: 184 sections, each with every
    Gospel that tells it) and the Companion Bible's table of Samuel and Kings told again in
