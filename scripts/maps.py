@@ -2429,6 +2429,233 @@ def empires_map():
     return data, page
 
 
+# --- Map No. 2: Palestine, Old Testament history ----------------------------------------------
+
+HISTORY_BOOKS = {"Josh", "Judg", "Ruth", "1Sam", "2Sam", "1Kgs", "1Chr", "2Chr"}
+# The peoples of Canaan before the conquest, each grown from the towns the text gives it:
+# name: (tint, towns, other points, reach, verses).
+PEOPLES2 = {
+    "Canaanites": ("lime", ["Hazor 1", "Megiddo", "Taanach", "Beth-shan", "Ibleam", "Dor", "Acco", "Gezer", "Arad 2"], [], 20,
+                   "Joshua 17:11–12; Judges 1:27–33; Numbers 21:1"),
+    "Amorites": ("salmon", ["Hebron", "Jarmuth 1", "Lachish", "Eglon", "Heshbon", "Ashtaroth", "Edrei 1"], [], 26,
+                 "Joshua 10:5; Deuteronomy 3:8"),
+    "Jebusites": ("sage", ["Jerusalem"], [], 8, "Joshua 15:63"),
+    "Hivites": ("olive", ["Gibeon", "Chephirah", "Beeroth", "Kiriath-jearim", "Shechem"], [(35.75, 33.30), (35.85, 33.20)], 12,
+                "Joshua 9:7, 17; 11:3; Genesis 34:2"),
+    "Perizzites": ("yellow", ["Bezek 2"], [(35.30, 32.30)], 12, "Judges 1:4; Joshua 17:15"),
+    "Philistines": ("blush", ["Gaza", "Ashkelon", "Ashdod", "Ekron", "Gath 1"], [], 18, "Joshua 13:3"),
+    "Sidonians": ("blush", ["Sidon", "Tyre", "Zarephath"], [], 18, "Joshua 13:4–6"),
+    "Edom": ("olive", ["Bozrah 1", "Sela 1"], [], 35, "Numbers 20:14–21"),
+    "Moab": ("sage", ["Kir-hareseth", "Ar"], [], 25, "Numbers 21:13–15"),
+    "Ammon": ("yellow", ["Rabbah 1"], [], 25, "Numbers 21:24"),
+}
+# The kingdom of David and Solomon: Israel, and the peoples David made subject (2 Samuel 8).
+KINGDOM2 = {"Israel": "yellow", "Edom": "olive", "Moab": "sage", "Ammon": "salmon", "Aram": "lime",
+            "Philistia": "sage", "Phoenicia": "blush"}
+SUBJECT2 = {"Edom", "Moab", "Ammon", "Aram"}
+OT_HISTORY = [
+    {"name": "Joshua in the south", "short": "Joshua, south", "ref": "Joshua 4–10", "color": "red", "unit": "Place",
+     "note": "From the camp at Gilgal: Jericho and Ai, the altar on Mount Ebal, and the campaign that began at "
+             "Gibeon and swept the cities of the south.",
+     "stops": [
+         ("Gilgal 1", "Gilgal", "Joshua 4:19", None, {"what": "The camp after crossing the Jordan"}),
+         ("Jericho 1", "Jericho", "Joshua 6:2", "land", {"what": "The walls fall"}),
+         ("Ai 1", "Ai", "Joshua 8:1", "land"),
+         ("Mount Ebal", "Mount Ebal", "Joshua 8:30", "land", {"what": "The altar, and the law read aloud"}),
+         ("Gilgal 1", "Gilgal", "Joshua 9:6", "land", {"what": "The Gibeonites' covenant"}),
+         ("Gibeon", "Gibeon", "Joshua 10:10", "land", {"what": "The sun stands still"}),
+         ("Beth-horon", "Beth-horon", "Joshua 10:11", "land"),
+         ("Azekah", "Azekah", "Joshua 10:11", "land"),
+         ("Makkedah", "Makkedah", "Joshua 10:16", "land", {"what": "The five kings in the cave"}),
+         ("Libnah 1", "Libnah", "Joshua 10:29", "land"),
+         ("Lachish", "Lachish", "Joshua 10:31", "land"),
+         ("Eglon", "Eglon", "Joshua 10:34", "land"),
+         ("Hebron", "Hebron", "Joshua 10:36", "land"),
+         ("Debir 1", "Debir", "Joshua 10:38", "land"),
+         ("Gilgal 1", "Gilgal", "Joshua 10:43", "land"),
+     ]},
+    {"name": "Joshua in the north", "short": "Joshua, north", "ref": "Joshua 11", "color": "blue", "unit": "Place",
+     "note": "Against the kings of the north led by Jabin of Hazor: the battle at the waters of Merom and the pursuit "
+             "to Sidon.",
+     "stops": [
+         ("Gilgal 1", "Gilgal", "Joshua 10:43", None),
+         ("Merom", "Waters of Merom", "Joshua 11:7", "land", {"word": "Merom", "what": "The kings of the north defeated"}),
+         ("Sidon", "Greater Sidon", "Joshua 11:8", "land", {"word": "Sidon"}),
+         ("Misrephoth-maim", "Misrephoth-maim", "Joshua 11:8", "land"),
+         ("Hazor 1", "Hazor", "Joshua 11:10", "land", {"what": "The head of all these kingdoms, burned"}),
+     ]},
+    {"name": "Samuel's circuit", "short": "Samuel", "ref": "1 Samuel 7", "color": "brown", "unit": "Place",
+     "note": "Every year Samuel judged Israel at Bethel, Gilgal and Mizpah, and came home to Ramah.",
+     "stops": [
+         ("Ramah 7", "Ramah", "1 Samuel 7:17", None, {"what": "Samuel's home"}),
+         ("Bethel 1", "Bethel", "1 Samuel 7:16", "land"),
+         ("Gilgal 1", "Gilgal", "1 Samuel 7:16", "land"),
+         ("Mizpah 3", "Mizpah", "1 Samuel 7:16", "land"),
+         ("Ramah 7", "Ramah", "1 Samuel 7:17", "land"),
+     ]},
+    {"name": "The ark of the covenant", "short": "The ark", "ref": "1 Samuel 4–7; 2 Samuel 6", "color": "green", "unit": "Place",
+     "note": "Taken into battle from Shiloh and captured by the Philistines, the ark passed from city to city until "
+             "it came back to Israel, and David brought it up to Jerusalem.",
+     "stops": [
+         ("Shiloh", "Shiloh", "1 Samuel 4:4", None, {"what": "The ark is brought to the camp"}),
+         ("Ebenezer 1", "Ebenezer", "1 Samuel 4:1", "land", {"what": "Israel defeated; the ark captured"}),
+         ("Ashdod", "Ashdod", "1 Samuel 5:1", "land", {"what": "Dagon falls before the ark"}),
+         ("Gath 1", "Gath", "1 Samuel 5:8", "land"),
+         ("Ekron", "Ekron", "1 Samuel 5:10", "land"),
+         ("Beth-shemesh 1", "Beth-shemesh", "1 Samuel 6:12", "land", {"what": "The cows bring the ark home"}),
+         ("Kiriath-jearim", "Kiriath-jearim", "1 Samuel 7:1", "land", {"what": "Twenty years in Abinadab's house"}),
+         ("Jerusalem", "Jerusalem", "2 Samuel 6:12", "land", {"word": "City of David", "what": "David dances before the ark"}),
+     ]},
+    {"name": "David's flight from Saul", "short": "David", "ref": "1 Samuel 19–27; 2 Samuel 2–5", "color": "violet", "unit": "Place",
+     "note": "David fled from Saul to Samuel, then to the Philistines, the caves and the wilderness of Judah, until he "
+             "became king at Hebron and took Jerusalem.",
+     "stops": [
+         ("Ramah 7", "Ramah", "1 Samuel 19:18", None, {"what": "David flees to Samuel"}),
+         ("Nob", "Nob", "1 Samuel 21:2", "land", {"what": "The holy bread and Goliath's sword"}),
+         ("Gath 1", "Gath", "1 Samuel 21:11", "land"),
+         ("Adullam", "Adullam", "1 Samuel 22:1", "land", {"what": "The cave; four hundred men gather"}),
+         ("Mizpeh 3", "Mizpeh in Moab", "1 Samuel 22:3", "land", {"word": "Mizpeh", "what": "His parents left with the king of Moab"}),
+         ("Hereth", "Forest of Hereth", "1 Samuel 22:5", "land", {"word": "Hereth"}),
+         ("Keilah", "Keilah", "1 Samuel 23:5", "land", {"what": "David saves the town from the Philistines"}),
+         ("Ziph 1", "Ziph", "1 Samuel 23:14", "land"),
+         ("Maon", "Maon", "1 Samuel 23:24", "land"),
+         (None, "En-gedi", "1 Samuel 24:1", "land", {"at": (35.390, 31.461), "site": "Ein Gedi", "sure": 1,
+                                                     "what": "David spares Saul in the cave"}),
+         ("Carmel 1", "Carmel", "1 Samuel 25:2", "land", {"what": "Nabal and Abigail"}),
+         ("Ziph 1", "Ziph", "1 Samuel 26:2", "land", {"what": "David spares Saul again"}),
+         ("Gath 1", "Gath", "1 Samuel 27:2", "land"),
+         ("Ziklag", "Ziklag", "1 Samuel 27:6", "land"),
+         ("Hebron", "Hebron", "2 Samuel 2:1", "land", {"what": "Anointed king over Judah"}),
+         ("Jerusalem", "Jerusalem", "2 Samuel 5:6", "land", {"what": "David takes the stronghold of Zion"}),
+     ]},
+]
+
+
+def palestine_history_map():
+    """Map No. 2, as a dict ready for JSON, and the words for its page."""
+    sheet = Sheet(*SHEET7, res=0.13)
+    sheet.elev = elevation(sheet, 10)
+    w = water(sheet, sheet.elev)
+    lakes = w["Sea of Galilee"] | w["Dead Sea"] | w["Lake Huleh"]
+    wet = w["sea"] | lakes
+    flow = drainage(sheet, sheet.elev, w["sea"] | w["Dead Sea"], 2)
+    all_places = places()
+    by_name = {p["name"]: p for p in all_places}
+    ours = our_spellings()
+    layers, river_km = terrain_layers(sheet, ~w["sea"], lakes, flow, wet, 150, 0.9)
+    layers["borders"] = {}
+
+    # The peoples before the conquest.
+    seeds_a = []
+    for n, (_, towns, extra, _, _) in PEOPLES2.items():
+        seeds_a += [(t, n, by_name[t]["lon"], by_name[t]["lat"]) for t in towns]
+        seeds_a += [(n, n, lon, lat) for lon, lat in extra]
+    names_a = list(PEOPLES2)
+    terr_a, _ = territories(sheet, sheet.elev, wet, flow + (2,), seeds_a, names=names_a,
+                            cap_km={n: v[3] for n, v in PEOPLES2.items()})
+    fills_a, labels_a, borders_a = territory_layers(sheet, terr_a, names_a, {n: n for n in names_a},
+                                                    {n: v[0] for n, v in PEOPLES2.items()})
+    # The kingdom of David and Solomon: the tribes' land as one kingdom, and its neighbours,
+    # those David made subject inside its border.
+    seeds_b = [(n, "Israel" if t in {x[0] for x in TRIBES} else t, lon, lat) for n, t, lon, lat in seeds(all_places)]
+    seeds_b += [("Damascus", "Aram", 36.2, 33.3), ("Aram", "Aram", 36.0, 33.55)]
+    names_b = list(KINGDOM2)
+    terr_b, _ = territories(sheet, sheet.elev, wet, flow + (2,), seeds_b, names=names_b,
+                            cap_km={**{n: 30 for n in names_b}, "Aram": 45, "Edom": 40})
+    groups_b = {n: "Israel" if n in SUBJECT2 | {"Israel"} else n for n in names_b}
+    fills_b, labels_b, borders_b = territory_layers(sheet, terr_b, names_b, groups_b, KINGDOM2)
+    for lb in labels_a + labels_b:
+        lb["style"] = "nation"
+    for lb in labels_b:
+        if lb["text"] == "ISRAEL":
+            lb["style"] = "kingdom"
+            lb["pts"] = line_km(sheet, [(34.98, 32.43), (35.25, 32.05), (35.20, 31.45)])
+    periods = [
+        {"name": "The peoples of Canaan", "note": "Before the conquest, about 1400 BC: the peoples the text places in each town.",
+         "territories": fills_a, "labels": labels_a, "borders": borders_a},
+        {"name": "David and Solomon", "note": "The united kingdom, about 970 BC, with the peoples David made subject (2 Samuel 8).",
+         "territories": fills_b, "labels": labels_b, "borders": borders_b},
+    ]
+    labels = [{"text": "GREAT SEA", "style": "sea", "pts": line_km(sheet, [(34.24, 32.868), (34.86, 32.858)], 2)},
+              {"text": "SALT SEA", "style": "sea", "pts": line_km(sheet, [(35.47, 31.69), (35.44, 31.40)], 2)}]
+
+    pl = place_records(sheet, all_places, HISTORY_BOOKS, ours, min_score=200)
+    journeys = build_journeys(sheet, OT_HISTORY, by_name, cost_grid(sheet, wet), sea_grid(sheet, w["sea"]), pl)
+
+    feats = {"mountains": mountains(sheet, by_name, ours, ["Mount Hermon", "Mount Carmel", "Mount Tabor", "Mount Gilboa",
+                                                           "Mount Ebal", "Mount Gerizim"]),
+             "rivers": [], "waters": [], "regions": []}
+    for n, length in RIVERS.items():
+        p = by_name[n]
+        line = follow(river_km, p["lon"], p["lat"], sheet, length)
+        if line:
+            name = display_name(p, ours)
+            feats["rivers"].append({"n": "River Jordan" if name == "Jordan" else name, "pts": line, "main": name == "Jordan"})
+    for lon, lat, text in ((35.585, 32.80, "SEA OF KINNERETH"), (35.612, 33.075, "Waters of Merom")):
+        x, y = sheet.xy(lon, lat)
+        feats["waters"].append({"n": text, "x": round(x, 2), "y": round(y, 2), "lake": 1})
+
+    key_rows = [["camp", "Place on a journey"], ["camp-unsure", "Place uncertain (?)"]]
+    key_rows += [["journey", J["name"], J["color"]] for J in journeys]
+    key_rows += [["conjectural", "Way uncertain"], ["gap", ""], ["dot", "Town"], ["unsure", "Site uncertain (?)"],
+                 ["mount", "Mountain"], ["river", "River"], ["nation", "Border of a people"], ["gap", ""]]
+    by_tint = {}
+    for n, v in PEOPLES2.items():
+        by_tint.setdefault(v[0], []).append(n)
+    key_rows += [["swatch", ", ".join(v), t, 0] for t, v in by_tint.items()]
+    key_rows += [["swatch", "Kingdom of Israel", "yellow", 1], ["swatch", "Edom (subject)", "olive", 1],
+                 ["swatch", "Moab (subject), Philistia", "sage", 1], ["swatch", "Ammon (subject)", "salmon", 1],
+                 ["swatch", "Aram (subject)", "lime", 1], ["swatch", "Phoenicia (ally)", "blush", 1]]
+    data = {
+        "sheet": sheet_info(sheet), "grid": 10 / 60, "focus": 0.56, "file": "map-02-palestine-old-testament-history",
+        "page": {"w": 7.8, "h": 10.3}, "layers": layers, "territories": [], "labels": labels, "periods": periods,
+        "places": pl, "features": feats, "territoryLabel": "Land", "journeys": journeys,
+        "routeButton": "Journeys", "routesTitle": "From Joshua to David",
+        "routesNote": "Choose a journey to follow it place by place. Each place is named in the verse given.",
+        "routeLayer": "Joshua's campaigns, Samuel, the ark and David",
+        "title": furniture_height({"box": {"x": 5, "y": 5, "w": 66}, "scale": 1, "lines": [
+            ["series", "MAP No. 2 · A STYLE STUDY", 7.5], ["display-fit", "PALESTINE", 19],
+            ["sub", "OLD TESTAMENT HISTORY", 26.5],
+            ["italic", "The conquest of Canaan, the judges and the", 32.5],
+            ["italic", "kingdom of David and Solomon, with the places", 36.4],
+            ["italic", "named in Joshua to 2 Chronicles", 40.3], ["rule", "", 44],
+            ["plain", "Shown: the peoples of Canaan", 49.5, 0], ["plain", "Shown: David and Solomon’s kingdom", 49.5, 1],
+            ["plain", "The conquest: 1451 BC by Ussher,", 53.5],
+            ["plain", "1400 or 1200 BC by modern reckoning", 57.5], ["rule", "", 61],
+            ["credit", "After the Eilers Sunday School Maps, St. Louis.", 65.5],
+            ["credit", "Drawn from open data · CC BY 4.0", 69.5]]}),
+        "key": {"box": {"x": 5, "y": 96, "w": 47}, "scale": 0.95, "rows": key_rows},
+    }
+    page = {
+        "slug": "palestine-history", "NO": "2", "H1": "Palestine: Old Testament History", "TITLE": "Old Testament History Map",
+        "DESCRIPTION": "Map No. 2, a style study after the Eilers Sunday School wall maps: the conquest of Canaan, the "
+                       "judges and the kingdom of David and Solomon, with Joshua's campaigns, the ark and David's flight, "
+                       "drawn from open data.",
+        "PAGE": "letter portrait", "PAGE_W": "7.8", "PAGE_H": "10.3",
+        "GRID_LABEL": "Ten-minute squares, as used by the index",
+        "GRID_NOTE": "Grid squares are ten minutes of latitude and longitude: letters across the top, numbers down the side.",
+        "ABOUT": about_html(
+            "A <strong>style study</strong> for the project's Bible maps, after <strong>Eilers Sunday School Map No. "
+            "2</strong>, <em>Palestine, Old Testament History</em> (A. H. Eilers &amp; Co., St. Louis), redrawn from "
+            "open data.",
+            ["Flat tints for each people and kingdom, with the seas left as paper", KEPT[1],
+             "Each journey in its own color, with the places numbered", KEPT[3], KEPT[4]], CHANGED + [
+                "Two periods on one sheet: choose the peoples of Canaan or the kingdom of David and Solomon"],
+            ["<strong>Land, water and relief</strong> come from elevation data. Lake Huleh and the Dead Sea are drawn "
+             "at their old shorelines.",
+             "<strong>The journeys</strong> follow Joshua, 1 and 2 Samuel. Every place is named in the verse given, "
+             "and the build checks each name against this project's translation.",
+             "<strong>The peoples of Canaan are approximate.</strong> Each is grown from the towns the text gives it "
+             "(the five Amorite kings of Joshua 10, the Hivite towns of Joshua 9, the Canaanite cities of Judges 1), "
+             "and the Bible's lists overlap.",
+             "<strong>The kingdom of David and Solomon</strong> is the land of the tribes as on Map No. 7, with Edom, "
+             "Moab, Ammon and Aram made subject (2 Samuel 8). Solomon's rule reached north to Tiphsah on the "
+             "Euphrates (1 Kings 5:4), beyond this sheet.",
+             PLACES_MADE.format(books="Joshua to 2 Chronicles"), NAMES_MADE], SOURCES),
+    }
+    return data, page
+
+
 # --- Map No. 1: Palestine in the time of Christ ------------------------------------------------
 
 GOSPELS = ["Matt", "Mark", "Luke", "John"]
@@ -2670,8 +2897,8 @@ def write_map(data, page):
         f.write(webpages.STANDALONE.format(page=body))
 
 
-MAPS = {"palestine": palestine_map, "roman-empire": roman_map, "western-asia": western_asia_map, "exodus": exodus_map,
-        "empires": empires_map, "kingdoms": kingdoms_map}
+MAPS = {"palestine": palestine_map, "palestine-history": palestine_history_map, "roman-empire": roman_map,
+        "western-asia": western_asia_map, "exodus": exodus_map, "empires": empires_map, "kingdoms": kingdoms_map}
 
 
 def main():
