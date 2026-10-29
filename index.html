@@ -374,6 +374,18 @@ textarea { min-height: 88px; resize: vertical; }
 .results .s { font: 400 16px/1.45 var(--read); }
 .results mark { background: var(--hl-yellow); color: inherit; border-radius: 2px; padding: 0 1px; }
 .count { font-size: 13px; color: var(--muted); margin: 8px 0 0; }
+.count button { border: 0; background: none; padding: 0; color: var(--lapis); font: inherit; font-weight: 600; cursor: pointer; }
+/* Where the hits fall: the 66 books, each as wide as it is long, darker the more it matches. */
+.strip { margin: 10px 0 2px; }
+.strip .bars { display: flex; gap: 1px; height: 30px; align-items: stretch; }
+.strip .bars button { flex: var(--w) 1 0; min-width: 2px; border: 0; padding: 0; cursor: pointer; border-radius: 2px;
+  background: color-mix(in srgb, var(--lapis) calc(var(--d) * 100%), var(--line)); }
+.strip .bars button.none { background: var(--line); opacity: 0.55; cursor: default; }
+.strip .bars button[aria-pressed="true"] { outline: 2px solid var(--gold); outline-offset: 1px; }
+.strip .bars .gap { flex: 0 0 4px; background: none; }
+.strip .parts { display: flex; gap: 1px; margin-top: 4px; font: 600 10.5px/1.2 var(--sans); letter-spacing: 0.04em; color: var(--muted); text-transform: uppercase; }
+.strip .parts span { flex: var(--w) 1 0; min-width: 0; overflow: hidden; white-space: nowrap; text-overflow: clip; border-top: 2px solid var(--line); padding-top: 3px; }
+.strip .parts .gap { flex: 0 0 4px; border: 0; }
 
 /* My notes */
 .mine { list-style: none; margin: 8px 0 0; padding: 0; display: grid; gap: 6px; }
@@ -556,6 +568,7 @@ if (/(^#|&)(access_token|error)=/.test(location.hash)) {
   <div class="sheet-head"><h2 id="search-title">Search the Bible</h2><button class="btn" type="button" data-close aria-label="Close"><svg class="icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M6 6l12 12M18 6 6 18"/></svg></button></div>
   <input type="search" id="q" placeholder="Words or a reference" autocomplete="off" enterkeyhint="search" aria-label="Search">
   <p class="count" id="q-count">Search every verse of the translation. Put a phrase in quotes to search for it exactly.</p>
+  <div class="strip" id="q-strip" hidden></div>
   <ol class="results" id="results"></ol>
 </section>
 
@@ -1683,11 +1696,44 @@ $("goto").addEventListener("keydown", ev => {
 });
 
 /* ---------- Search ---------- */
-let searchData = null, searchTimer = 0;
+let searchData = null, searchTimer = 0, searchBook = null, bookVerses = null;
+// The parts of the Bible, by the index of their first book.
+const PARTS = [[0, "Law"], [5, "History"], [17, "Poetry"], [22, "Prophets"], [39, "Gospels"], [43, "Acts"], [44, "Letters"], [65, "Rev."]];
+function drawStrip(hits) {
+  const strip = $("q-strip");
+  if (!hits.length) { strip.hidden = true; return; }
+  if (!bookVerses) { bookVerses = {}; for (const r of searchData) bookVerses[r[0]] = (bookVerses[r[0]] || 0) + 1; }
+  const n = {};
+  for (const r of hits) n[r[0]] = (n[r[0]] || 0) + 1;
+  // Shade by matches per verse, on a square-root scale so a few matches still show.
+  const dens = s => (n[s] || 0) / bookVerses[s];
+  const max = Math.max(...BOOKS.map(b => dens(b.slug)));
+  const bars = el("div", { class: "bars", role: "group", "aria-label": "Matches in each book" });
+  const parts = el("div", { class: "parts", "aria-hidden": "true" });
+  BOOKS.forEach((b, k) => {
+    if (k === 39) { bars.append(el("span", { class: "gap" })); parts.append(el("span", { class: "gap" })); }
+    const c = n[b.slug] || 0;
+    const btn = el("button", { type: "button", class: c ? null : "none", title: `${b.n}: ${c ? c.toLocaleString("en-US") + " verse" + (c === 1 ? "" : "s") : "none"}`,
+      "aria-label": `${b.n}, ${c} matching verse${c === 1 ? "" : "s"}`, "aria-pressed": String(searchBook === b.slug), disabled: c ? null : true,
+      style: `--w:${bookVerses[b.slug]};--d:${c ? (0.3 + 0.7 * Math.sqrt(dens(b.slug) / max)).toFixed(3) : 0}`,
+      onclick: () => { searchBook = searchBook === b.slug ? null : b.slug; runSearch(); } });
+    bars.append(btn);
+    const part = PARTS.find(p => p[0] === k);
+    if (part) {
+      const end = (PARTS[PARTS.indexOf(part) + 1] || [66])[0];
+      const w = BOOKS.slice(k, end).reduce((t, x) => t + bookVerses[x.slug], 0);
+      parts.append(el("span", { style: `--w:${w}`, text: part[1] }));
+    }
+  });
+  strip.replaceChildren(bars, parts);
+  strip.hidden = false;
+  // A part too narrow for its name (Acts, Revelation) keeps its rule but not its name.
+  requestAnimationFrame(() => { for (const sp of parts.children) if (sp.scrollWidth > sp.clientWidth + 1) sp.textContent = ""; });
+}
 async function runSearch() {
   const q = $("q").value.trim();
   const out = $("results"); out.textContent = "";
-  if (!q) { $("q-count").textContent = "Search every verse of the translation. Put a phrase in quotes to search for it exactly."; return; }
+  if (!q) { $("q-count").textContent = "Search every verse of the translation. Put a phrase in quotes to search for it exactly."; $("q-strip").hidden = true; searchBook = null; return; }
   const ref = parseRef(q);
   if (ref && /\d/.test(q)) {
     out.append(el("li", {}, el("button", { type: "button", onclick: () => { closeSheets(); go(ref.b, ref.c, ref.v); } },
@@ -1703,9 +1749,15 @@ async function runSearch() {
   if (!terms.length) return;
   const esc = s => s.replace(/[.*+?^${}()|[\]\\]/g, "\\$&");
   const tests = terms.map(t => new RegExp((/^\w/.test(t) ? "\\b" : "") + esc(t), "i"));
-  const hits = [];
-  for (const r of searchData) if (tests.every(re => re.test(r[3]))) hits.push(r);
-  $("q-count").textContent = hits.length ? `${hits.length.toLocaleString("en-US")} verse${hits.length === 1 ? "" : "s"}${hits.length > 300 ? ", showing the first 300" : ""}` : "No verses match.";
+  const all = [];
+  for (const r of searchData) if (tests.every(re => re.test(r[3]))) all.push(r);
+  if (searchBook && !all.some(r => r[0] === searchBook)) searchBook = null;
+  const hits = searchBook ? all.filter(r => r[0] === searchBook) : all;
+  const cnt = $("q-count");
+  cnt.textContent = all.length ? `${all.length.toLocaleString("en-US")} verse${all.length === 1 ? "" : "s"}` : "No verses match.";
+  if (searchBook) cnt.append(`; ${hits.length.toLocaleString("en-US")} in ${bySlug[searchBook].n} `, el("button", { type: "button", text: "Show all books", onclick: () => { searchBook = null; runSearch(); } }));
+  if (hits.length > 300) cnt.append(", showing the first 300");
+  drawStrip(all);
   const mark = new RegExp("(" + terms.map(t => (/^\w/.test(t) ? "\\b" : "") + esc(t)).join("|") + ")", "ig");
   for (const r of hits.slice(0, 300)) {
     const b = bySlug[r[0]];

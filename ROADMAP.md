@@ -122,7 +122,8 @@ Study questions and other written helps are left out for now: data only.
 **Ways to see the data** (chosen October 2026). Each view gets the maps' print sizes and SVG,
 PDF and PNG export, with its data as CSV or JSON:
 
-1. Search results as a strip of the 66 books, showing where the hits fall.
+1. Search results as a strip of the 66 books, showing where the hits fall (done: tap a book
+   to see only its verses).
 2. A Hebrew or Greek word's footprint across the Bible, with how it is glossed.
 3. Cross-references as arcs, for the whole Bible and for one verse.
 4. A Nave's topic across the Bible, with the topics that share its verses.
