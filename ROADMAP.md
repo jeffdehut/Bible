@@ -318,6 +318,17 @@ knows the historical geography.
 - **Still to come:** threads for the cross-references within a chapter, and following a
   thread from verse to verse.
 
+## 3c. Streams of Time (built)
+
+- **World history beside the Bible.** `history.html` draws the empires, churches, scriptures and
+  thinkers of every continent as parallel streams, after Adams' *Synchronological Chart* (1871),
+  with the Bible's dated events as a lane of their own.
+- **One design with the web.** The chart fills the window under an opening title (all of
+  history, then into the years since the cross), beneath a glass time bar of all of history
+  with a window to drag. Search finds any ruler, life or event; the card shows what was
+  happening elsewhere at the same time, with links to the reader and Wikidata. The key shows
+  or hides each group of streams, and the chronicle of what is in view opens as a panel.
+
 ## 4. Accounts (built; waiting on a Supabase project)
 
 - **Optional sign-in.** Reading and on-device annotations never require an account. With
