@@ -3,7 +3,7 @@
 <meta name="description" content="Eight Bible maps after the Eilers Sunday School wall maps, drawn from open data: the patriarchs, the Exodus, the kingdoms, the empires, the time of Christ, Jerusalem and the travels of Paul.">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Abril+Fatface&family=Old+Standard+TT:ital,wght@0,400;0,700;1,400&family=Rokkitt:wght@500;600;700&family=Libre+Franklin:wght@400;500;600;700&display=swap">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Abril+Fatface&family=Frank+Ruhl+Libre:wght@500&family=Old+Standard+TT:ital,wght@0,400;0,700;1,400&family=Rokkitt:wght@500;600;700&family=Libre+Franklin:wght@400;500;600;700&display=swap">
 <style>
 /* A catalogue of the sheets, set like the maps themselves: printed paper, the Eilers tints,
    red display type. Layout: one column of sheets on phones, two on wider screens. */
@@ -21,16 +21,18 @@
   --serif: "Old Standard TT", Georgia, serif;
   --slab: "Rokkitt", Georgia, serif;
   --sans: "Libre Franklin", system-ui, -apple-system, "Segoe UI", sans-serif;
+  /* The site's bar takes these. */
+  --bg: var(--paper); --lapis: var(--red); --lapis-soft: rgb(168 48 26 / 9%);
 }
 @media (prefers-color-scheme: dark) {
   :root:not([data-theme="light"]) {
-    --paper: #191714; --card: #221f1a; --ink: #efe8da; --muted: #b3a891; --line: #3a342b; --red: #f08a6c;
+    --paper: #191714; --card: #221f1a; --ink: #efe8da; --muted: #b3a891; --line: #3a342b; --red: #f08a6c; --lapis-soft: rgb(240 138 108 / 14%);
     --shadow: 0 1px 2px rgb(0 0 0 / 40%), 0 10px 30px rgb(0 0 0 / 40%);
     color-scheme: dark;
   }
 }
 :root[data-theme="dark"] {
-  --paper: #191714; --card: #221f1a; --ink: #efe8da; --muted: #b3a891; --line: #3a342b; --red: #f08a6c;
+  --paper: #191714; --card: #221f1a; --ink: #efe8da; --muted: #b3a891; --line: #3a342b; --red: #f08a6c; --lapis-soft: rgb(240 138 108 / 14%);
   --shadow: 0 1px 2px rgb(0 0 0 / 40%), 0 10px 30px rgb(0 0 0 / 40%);
   color-scheme: dark;
 }
@@ -42,9 +44,7 @@ body {
 a { color: inherit; }
 :focus-visible { outline: 2px solid var(--red); outline-offset: 3px; }
 .wrap { max-width: 1060px; margin: 0 auto; }
-header { padding-block: clamp(28px, 6vw, 64px) 22px; display: grid; gap: 12px; }
-.eyebrow { margin: 0; font: 600 12px/1.3 var(--sans); letter-spacing: 0.14em; text-transform: uppercase; color: var(--muted); }
-.eyebrow a { text-decoration: underline; text-decoration-thickness: 1px; text-underline-offset: 3px; }
+.intro { padding-block: clamp(28px, 5vw, 56px) 22px; display: grid; gap: 12px; }
 h1 { margin: 0; font: 400 clamp(2.6rem, 1.8rem + 4vw, 4.6rem)/1 var(--display); color: var(--red); letter-spacing: 0.01em; text-wrap: balance; }
 .lede { margin: 0; max-width: 62ch; font-size: 1.08rem; color: var(--muted); }
 .lede strong { color: var(--ink); font-weight: 700; }
@@ -83,9 +83,10 @@ footer p { margin: 0 0 10px; }
 }
 </style>
 
+<!-- APPBAR -->
+
 <div class="wrap">
-  <header>
-    <p class="eyebrow"><a href="../index.html"><span aria-hidden="true">←</span> Plain English Bible</a> · Bible maps</p>
+  <header class="intro">
     <h1>The Bible Maps</h1>
     <p class="lede">Eight sheets after the <strong>Eilers Sunday School wall maps</strong> (St. Louis, about 1890–1930), redrawn from open data. Each zooms on a phone, prints whole on a single page, and follows its journeys stop by stop, every stop named in the verse given. They are style studies and drafts: the borders are approximate and wait for review.</p>
   </header>

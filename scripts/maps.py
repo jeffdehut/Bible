@@ -3059,6 +3059,9 @@ def palestine_map():
     return data, page
 
 
+SHEET_CHROME = ("#d8d0bc", "#191714")     # the table the sheet lies on, light and dark
+
+
 def write_map(data, page):
     sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
     import webpages
@@ -3075,7 +3078,7 @@ def write_map(data, page):
         body = body.replace("{{" + k + "}}", v)
     body = body.replace("<!-- DATA -->", f'<script type="application/json" id="data">{webpages._dump(data)}</script>')
     with open(os.path.join(SITE, "maps", slug + ".html"), "w", encoding="utf-8", newline="\n") as f:
-        f.write(webpages.STANDALONE.format(page=body))
+        f.write(webpages.document(body, "../", SHEET_CHROME))
 
 
 # The sheets in the order of the Bible's history, for the index page: slug, number (or the
@@ -3131,9 +3134,9 @@ def write_index():
             + f'        <div class="tints" aria-hidden="true">{"".join(f"<span style=\"background: var(--{t})\"></span>" for t in tints)}</div>\n'
             f'      </div>\n    </a></li>')
     body = open(os.path.join(ROOT, "scripts", "templates", "maps-index.html"), encoding="utf-8").read()
-    body = body.replace("{{CARDS}}", "\n".join(cards))
+    body = body.replace("{{CARDS}}", "\n".join(cards)).replace("<!-- APPBAR -->", webpages.appbar("maps/index.html", "../"))
     with open(os.path.join(SITE, "maps", "index.html"), "w", encoding="utf-8", newline="\n") as f:
-        f.write(webpages.STANDALONE.format(page=body))
+        f.write(webpages.document(body, "../", ("#f6f0dd", "#191714")))
 
 
 MAPS = {"palestine": palestine_map, "palestine-history": palestine_history_map, "roman-empire": roman_map,

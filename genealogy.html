@@ -3,6 +3,11 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<link rel="icon" href="icons/icon.svg" type="image/svg+xml">
+<link rel="apple-touch-icon" href="icons/icon-192.png">
+<meta name="theme-color" content="#fbfaf7" media="(prefers-color-scheme: light)">
+<meta name="theme-color" content="#0d111b" media="(prefers-color-scheme: dark)">
+<script>try { const t = (JSON.parse(localStorage.getItem("pe.settings")) || {}).theme; if (t === "light" || t === "dark") document.documentElement.setAttribute("data-theme", t); } catch (e) { /* storage unavailable */ }</script>
 </head>
 <body>
 <title>The Generations</title>
@@ -10,26 +15,25 @@
 <meta name="description" content="Every family relationship the Bible records, from Adam to the apostles: search anyone and see their ancestors and descendants.">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Frank+Ruhl+Libre:wght@300..900&family=Libre+Franklin:wght@400;500;600;700&family=IBM+Plex+Mono:wght@400;500&family=Noto+Serif:wght@400;600&display=swap">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Frank+Ruhl+Libre:wght@300..900&family=Libre+Franklin:wght@400;500;600;700&family=Noto+Serif:wght@400;600&display=swap">
 <style>
 /* Layout: a single reading column for the line of descent, then a two-pane explorer
    (finder and person on the left, the hourglass tree on the right), then the family index. */
 :root {
-  --bg: #f4f6f9;
+  --bg: #fbfaf7;
   --surface: #ffffff;
-  --ink: #131a26;
-  --muted: #586274;
-  --faint: #8b94a4;
-  --line: #dbe0e8;
+  --ink: #161b26;
+  --muted: #5b6475;
+  --faint: #8d95a4;
+  --line: #e4e2db;
   --lapis: #2646a1;
-  --lapis-soft: #e5eaf7;
-  --gold: #946b0c;
-  --gold-soft: #f5ecd4;
+  --lapis-soft: #e7ecf8;
+  --gold: #8a640b;
+  --gold-soft: #f6eedb;
   --malachite: #1d7658;
-  --shadow: 0 1px 2px rgb(19 26 38 / 6%), 0 8px 24px rgb(19 26 38 / 6%);
+  --shadow: 0 1px 2px rgb(22 27 38 / 6%), 0 10px 30px rgb(22 27 38 / 10%);
   --display: "Frank Ruhl Libre", "Noto Serif", Georgia, serif;
   --sans: "Libre Franklin", system-ui, -apple-system, "Segoe UI", sans-serif;
-  --mono: "IBM Plex Mono", ui-monospace, "SFMono-Regular", Menlo, monospace;
   --greek: "Noto Serif", "Frank Ruhl Libre", Georgia, serif;
   --step--1: clamp(0.8rem, 0.78rem + 0.1vw, 0.86rem);
   --step-0: clamp(0.95rem, 0.92rem + 0.15vw, 1.03rem);
@@ -39,16 +43,16 @@
 }
 @media (prefers-color-scheme: dark) {
   :root:not([data-theme="light"]) {
-    --bg: #0a0f1d; --surface: #111a2d; --ink: #e8ecf4; --muted: #a2acbf; --faint: #6e7990; --line: #24304a;
-    --lapis: #93acff; --lapis-soft: #1b2650; --gold: #e7bf57; --gold-soft: #2b2513; --malachite: #5ec7a1;
-    --shadow: 0 1px 2px rgb(0 0 0 / 30%), 0 10px 30px rgb(0 0 0 / 35%);
+    --bg: #0d111b; --surface: #131a28; --ink: #e9ecf3; --muted: #a3acbd; --faint: #6f7a90; --line: #263047;
+    --lapis: #9db3ff; --lapis-soft: #1c2650; --gold: #e2bd5c; --gold-soft: #2a2414; --malachite: #5ec7a1;
+    --shadow: 0 1px 2px rgb(0 0 0 / 35%), 0 12px 32px rgb(0 0 0 / 40%);
     color-scheme: dark;
   }
 }
 :root[data-theme="dark"] {
-  --bg: #0a0f1d; --surface: #111a2d; --ink: #e8ecf4; --muted: #a2acbf; --faint: #6e7990; --line: #24304a;
-  --lapis: #93acff; --lapis-soft: #1b2650; --gold: #e7bf57; --gold-soft: #2b2513; --malachite: #5ec7a1;
-  --shadow: 0 1px 2px rgb(0 0 0 / 30%), 0 10px 30px rgb(0 0 0 / 35%);
+  --bg: #0d111b; --surface: #131a28; --ink: #e9ecf3; --muted: #a3acbd; --faint: #6f7a90; --line: #263047;
+  --lapis: #9db3ff; --lapis-soft: #1c2650; --gold: #e2bd5c; --gold-soft: #2a2414; --malachite: #5ec7a1;
+  --shadow: 0 1px 2px rgb(0 0 0 / 35%), 0 12px 32px rgb(0 0 0 / 40%);
   color-scheme: dark;
 }
 * { box-sizing: border-box; }
@@ -64,27 +68,25 @@ body {
 a { color: var(--lapis); }
 :focus-visible { outline: 2px solid var(--lapis); outline-offset: 2px; border-radius: 4px; }
 h1, h2, h3 { font-family: var(--display); font-weight: 500; text-wrap: balance; margin: 0; }
-.eyebrow { font: 600 var(--step--1)/1.2 var(--sans); letter-spacing: 0.12em; text-transform: uppercase; color: var(--muted); margin: 0; }
-.eyebrow .home { color: inherit; text-decoration: underline; text-decoration-thickness: 1px; text-underline-offset: 3px; }
-.eyebrow .home:hover { color: var(--ink); }
 [lang="he"] { font-family: var(--display); }
 [lang="grc"] { font-family: var(--greek); }
 
 /* Masthead */
-.masthead { padding-block: clamp(32px, 6vw, 72px) clamp(24px, 4vw, 40px); }
+.masthead { padding-block: clamp(28px, 5vw, 56px) clamp(24px, 4vw, 40px); }
 .masthead .wrap { display: grid; gap: 18px; }
 .title-row { display: flex; flex-wrap: wrap; align-items: baseline; justify-content: space-between; gap: 8px 32px; }
 h1 { font-size: var(--step-4); font-weight: 300; line-height: 0.95; letter-spacing: -0.02em; }
 .epigraph { margin: 0; text-align: end; color: var(--gold); }
 .epigraph [lang="he"] { display: block; font-size: clamp(1.7rem, 1.2rem + 2.2vw, 3rem); line-height: 1.1; font-weight: 400; }
-.epigraph figcaption { font: 500 var(--step--1)/1.3 var(--sans); color: var(--muted); }
+.epigraph figcaption { font: 500 var(--step--1)/1.3 var(--sans); color: var(--muted); text-wrap: balance; }
+@media (max-width: 640px) { .epigraph, .epigraph [lang="he"] { text-align: left; } }
 .lede { max-width: 62ch; font-size: var(--step-1); line-height: 1.5; color: var(--muted); margin: 0; }
 .stats { display: flex; flex-wrap: wrap; gap: 10px 36px; margin: 8px 0 0; padding: 18px 0 0; border-top: 1px solid var(--line); }
 .stats div { display: grid; gap: 2px; }
 .stats dt { font: 500 var(--step--1)/1.2 var(--sans); color: var(--muted); }
 .stats dd { margin: 0; font: 500 var(--step-2)/1 var(--display); font-variant-numeric: tabular-nums lining-nums; }
 
-section { padding-block: clamp(28px, 5vw, 56px); border-top: 1px solid var(--line); }
+section { padding-block: clamp(28px, 5vw, 56px); border-top: 1px solid var(--line); scroll-margin-top: calc(var(--bar) + env(safe-area-inset-top, 0px)); }
 .section-head { display: grid; gap: 8px; margin-bottom: 22px; max-width: 70ch; }
 .section-head h2 { font-size: var(--step-2); }
 .section-head p { margin: 0; color: var(--muted); }
@@ -102,7 +104,7 @@ section { padding-block: clamp(28px, 5vw, 56px); border-top: 1px solid var(--lin
 .thread button:hover { background: var(--lapis-soft); }
 .thread button:focus-visible { outline: 2px solid var(--lapis); }
 .thread button[aria-current="true"] { background: var(--gold-soft); color: var(--gold); }
-.thread sup { font: 500 0.62rem/1 var(--mono); color: var(--faint); font-variant-numeric: tabular-nums; }
+.thread sup { font: 500 0.62rem/1 var(--sans); color: var(--faint); font-variant-numeric: tabular-nums; }
 .thread .unnamed { font-style: italic; color: var(--faint); }
 .thread li.era {
   flex-basis: 100%; margin-top: 14px; padding-top: 10px; border-top: 1px dashed var(--line);
@@ -178,10 +180,10 @@ section { padding-block: clamp(28px, 5vw, 56px); border-top: 1px solid var(--lin
 #tree .node.focus rect { fill: var(--lapis); stroke: var(--lapis); }
 #tree .node.focus text { fill: var(--surface); }
 #tree .node text { fill: var(--ink); font: 500 12.5px/1 var(--sans); }
-#tree .node text.sub { fill: var(--muted); font: 400 10.5px/1 var(--mono); }
+#tree .node text.sub { fill: var(--muted); font: 400 10.5px/1 var(--sans); font-variant-numeric: tabular-nums; }
 #tree .node.focus text.sub { fill: var(--surface); opacity: 0.85; }
 #tree .node.more rect { fill: var(--lapis-soft); stroke-dasharray: 3 3; }
-#tree .gen-label { fill: var(--faint); font: 500 10.5px/1 var(--mono); letter-spacing: 0.04em; }
+#tree .gen-label { fill: var(--faint); font: 500 10.5px/1 var(--sans); font-variant-numeric: tabular-nums; letter-spacing: 0.04em; }
 .tree-note { margin: 0; padding: 10px 14px; border-top: 1px solid var(--line); font-size: var(--step--1); color: var(--muted); }
 
 /* Family index */
@@ -207,9 +209,40 @@ footer p { margin: 0; }
 }
 </style>
 
+<style>
+:root { --bar: 56px; }
+body::before { content: ""; position: fixed; inset: 0 0 auto; height: env(safe-area-inset-top, 0px); z-index: 11; background: var(--bg); }
+.appbar {
+  position: sticky; top: env(safe-area-inset-top, 0px); z-index: 10; height: var(--bar);
+  margin-inline: calc(-1 * max(16px, env(safe-area-inset-left, 0px))) calc(-1 * max(16px, env(safe-area-inset-right, 0px)));
+  padding-inline: max(8px, env(safe-area-inset-left, 0px)) max(8px, env(safe-area-inset-right, 0px));
+  display: flex; align-items: center; gap: 4px; background: color-mix(in srgb, var(--bg) 92%, transparent);
+  backdrop-filter: blur(10px); -webkit-backdrop-filter: blur(10px); border-bottom: 1px solid var(--line);
+}
+.appbar .brand {
+  display: inline-flex; align-items: center; gap: 10px; min-height: 40px; padding: 0 8px; border-radius: 10px;
+  color: var(--ink); text-decoration: none; white-space: nowrap; font: 500 17px/1 "Frank Ruhl Libre", "Noto Serif", Georgia, serif; letter-spacing: 0.01em;
+}
+.appbar .brand img { width: 26px; height: 26px; border-radius: 7px; flex: none; }
+.appnav { margin-inline-start: auto; display: flex; gap: 2px; }
+.appnav a {
+  display: inline-flex; align-items: center; min-height: 40px; padding: 0 12px; border-radius: 10px; white-space: nowrap;
+  font: 600 14px/1 "Libre Franklin", system-ui, -apple-system, "Segoe UI", sans-serif; color: var(--muted); text-decoration: none;
+}
+.appnav a:hover { background: var(--lapis-soft); color: var(--ink); }
+.appnav a[aria-current="page"] { background: var(--lapis-soft); color: var(--lapis); }
+.appbar a:focus-visible { outline: 2px solid var(--lapis); outline-offset: 0; }
+@media (max-width: 640px) { .appbar .brand span { display: none; } .appnav a { padding: 0 9px; } }
+@media (max-width: 359px) { .appbar .brand { display: none; } .appnav { margin-inline: auto; } }
+@media print { .appbar { display: none; } }
+</style>
+<header class="appbar">
+  <a class="brand" href="index.html"><img src="icons/icon.svg" alt="Plain English Bible"><span aria-hidden="true">Plain English Bible</span></a>
+  <nav class="appnav" aria-label="Plain English Bible"><a href="index.html">Read</a><a href="maps/index.html">Maps</a><a href="genealogy.html" aria-current="page">Genealogy</a><a href="history.html">Timeline</a></nav>
+</header>
+
 <header class="masthead">
   <div class="wrap">
-    <p class="eyebrow"><a class="home" href="index.html"><span aria-hidden="true">←</span> Open Bible</a> · Genealogy</p>
     <div class="title-row">
       <h1>The Generations</h1>
       <figure class="epigraph">
@@ -284,7 +317,7 @@ footer p { margin: 0; }
 <footer>
   <div class="wrap">
     <p><b>Sources.</b> People, names and family links: STEPBible TIPNR (Tyndale House, Cambridge), CC BY 4.0. Lifespans follow Floyd Nolen Jones’s refinement of Ussher’s chronology, from Theographic (CC BY-SA 4.0); they are traditional dates, not modern estimates.</p>
-    <p>Where a genealogy skips generations, the link is marked as an ancestor link. TIPNR fills some gaps with unnamed people so that both sides of a line agree; they are shown in italics. This page is part of an open Bible research project, built from its data by <code>scripts/connections.py</code>.</p>
+    <p>Where a genealogy skips generations, the link is marked as an ancestor link. TIPNR fills some gaps with unnamed people so that both sides of a line agree; they are shown in italics. Part of the Plain English Bible, built from the project’s data by <code>scripts/connections.py</code>.</p>
   </div>
 </footer>
 

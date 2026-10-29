@@ -3,26 +3,27 @@
 <meta name="description" content="World history from the death and resurrection of Jesus to today, drawn as parallel streams in the manner of Adams' Synchronological Chart.">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Frank+Ruhl+Libre:wght@300..900&family=Libre+Franklin:wght@400;500;600;700&family=IBM+Plex+Mono:wght@400;500&display=swap">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Frank+Ruhl+Libre:wght@300..900&family=Libre+Franklin:wght@400;500;600;700&display=swap">
 <style>
 /* Layout: masthead and controls, a context strip of all of history with a window, the
    stream chart beneath a sticky year axis, then a chronicle of everything in view. */
 :root {
-  --bg: #f3f5f8;
+  --bg: #fbfaf7;
   --surface: #ffffff;
-  --ink: #121926;
-  --muted: #586274;
-  --faint: #8d96a6;
-  --line: #dce1e9;
-  --grid: #e8ebf1;
+  --ink: #161b26;
+  --muted: #5b6475;
+  --faint: #8d95a4;
+  --line: #e4e2db;
+  --grid: #eeece6;
   --accent: #2646a1;
-  --accent-soft: #e5eaf7;
-  --gold: #946b0c;
-  --gold-soft: #f5ecd4;
-  --shadow: 0 1px 2px rgb(18 25 38 / 6%), 0 10px 28px rgb(18 25 38 / 8%);
+  --accent-soft: #e7ecf8;
+  --lapis: var(--accent);
+  --lapis-soft: var(--accent-soft);
+  --gold: #8a640b;
+  --gold-soft: #f6eedb;
+  --shadow: 0 1px 2px rgb(22 27 38 / 6%), 0 10px 30px rgb(22 27 38 / 10%);
   --display: "Frank Ruhl Libre", Georgia, serif;
   --sans: "Libre Franklin", system-ui, -apple-system, "Segoe UI", sans-serif;
-  --mono: "IBM Plex Mono", ui-monospace, "SFMono-Regular", Menlo, monospace;
   --step--1: clamp(0.8rem, 0.78rem + 0.1vw, 0.86rem);
   --step-0: clamp(0.95rem, 0.92rem + 0.15vw, 1.03rem);
   --step-1: clamp(1.15rem, 1.08rem + 0.35vw, 1.35rem);
@@ -31,16 +32,16 @@
 }
 @media (prefers-color-scheme: dark) {
   :root:not([data-theme="light"]) {
-    --bg: #0a0f1d; --surface: #111a2d; --ink: #e8ecf4; --muted: #a2acbf; --faint: #6e7990; --line: #24304a; --grid: #172036;
-    --accent: #93acff; --accent-soft: #1b2650; --gold: #e7bf57; --gold-soft: #2b2513;
-    --shadow: 0 1px 2px rgb(0 0 0 / 30%), 0 12px 32px rgb(0 0 0 / 40%);
+    --bg: #0d111b; --surface: #131a28; --ink: #e9ecf3; --muted: #a3acbd; --faint: #6f7a90; --line: #263047; --grid: #1a2234;
+    --accent: #9db3ff; --accent-soft: #1c2650; --gold: #e2bd5c; --gold-soft: #2a2414;
+    --shadow: 0 1px 2px rgb(0 0 0 / 35%), 0 12px 32px rgb(0 0 0 / 40%);
     color-scheme: dark;
   }
 }
 :root[data-theme="dark"] {
-  --bg: #0a0f1d; --surface: #111a2d; --ink: #e8ecf4; --muted: #a2acbf; --faint: #6e7990; --line: #24304a; --grid: #172036;
-  --accent: #93acff; --accent-soft: #1b2650; --gold: #e7bf57; --gold-soft: #2b2513;
-  --shadow: 0 1px 2px rgb(0 0 0 / 30%), 0 12px 32px rgb(0 0 0 / 40%);
+  --bg: #0d111b; --surface: #131a28; --ink: #e9ecf3; --muted: #a3acbd; --faint: #6f7a90; --line: #263047; --grid: #1a2234;
+  --accent: #9db3ff; --accent-soft: #1c2650; --gold: #e2bd5c; --gold-soft: #2a2414;
+  --shadow: 0 1px 2px rgb(0 0 0 / 35%), 0 12px 32px rgb(0 0 0 / 40%);
   color-scheme: dark;
 }
 * { box-sizing: border-box; }
@@ -51,16 +52,12 @@ body {
   padding-left: max(16px, env(safe-area-inset-left, 0px));
   padding-right: max(16px, env(safe-area-inset-right, 0px));
 }
-body::before { content: ""; position: fixed; inset: 0 0 auto; height: env(safe-area-inset-top, 0px); z-index: 10; background: var(--bg); }
 .wrap { max-width: 1440px; margin-inline: auto; }
 a { color: var(--accent); }
 :focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; border-radius: 4px; }
 h1, h2, h3 { font-family: var(--display); font-weight: 500; text-wrap: balance; margin: 0; }
-.eyebrow { font: 600 var(--step--1)/1.2 var(--sans); letter-spacing: 0.12em; text-transform: uppercase; color: var(--muted); margin: 0; }
-.eyebrow .home { color: inherit; text-decoration: underline; text-decoration-thickness: 1px; text-underline-offset: 3px; }
-.eyebrow .home:hover { color: var(--ink); }
 
-.masthead { padding-block: clamp(32px, 6vw, 72px) 20px; }
+.masthead { padding-block: clamp(28px, 5vw, 56px) 20px; }
 .masthead .wrap { display: grid; gap: 16px; }
 h1 { font-size: var(--step-4); font-weight: 300; line-height: 0.95; letter-spacing: -0.02em; }
 .lede { max-width: 66ch; font-size: var(--step-1); line-height: 1.5; color: var(--muted); margin: 0; }
@@ -89,17 +86,17 @@ h1 { font-size: var(--step-4); font-weight: 300; line-height: 0.95; letter-spaci
 .overview-wrap { margin-top: 4px; }
 #overview { display: block; width: 100%; height: 64px; }
 #overview .density { fill: var(--faint); opacity: 0.45; }
-#overview .tick text { fill: var(--muted); font: 500 10px var(--mono); }
+#overview .tick text { fill: var(--muted); font: 500 10px var(--sans); font-variant-numeric: tabular-nums; }
 #overview .tick line { stroke: var(--line); }
 #overview .anchor { stroke: var(--gold); stroke-width: 1.5; }
 #overview .selection { fill: var(--accent); fill-opacity: 0.14; stroke: var(--accent); stroke-width: 1.5; rx: 4px; }
 #overview .handle { fill: var(--accent); }
 
 /* Chart */
-.chart-card { margin-top: 12px; background: var(--surface); border: 1px solid var(--line); border-radius: 14px; box-shadow: var(--shadow); }
-.axis-wrap { position: sticky; top: env(safe-area-inset-top, 0px); z-index: 4; background: var(--surface); border-bottom: 1px solid var(--line); border-radius: 14px 14px 0 0; }
+.chart-card { scroll-margin-top: calc(var(--bar) + env(safe-area-inset-top, 0px) + 8px); margin-top: 12px; background: var(--surface); border: 1px solid var(--line); border-radius: 14px; box-shadow: var(--shadow); }
+.axis-wrap { position: sticky; top: calc(env(safe-area-inset-top, 0px) + var(--bar)); z-index: 4; background: var(--surface); border-bottom: 1px solid var(--line); border-radius: 14px 14px 0 0; }
 #axis { display: block; width: 100%; height: 34px; }
-#axis text { fill: var(--muted); font: 500 11px var(--mono); font-variant-numeric: tabular-nums; }
+#axis text { fill: var(--muted); font: 500 11px var(--sans); font-variant-numeric: tabular-nums; }
 #axis .range { fill: var(--ink); font: 600 11px var(--sans); }
 #chart { display: block; width: 100%; touch-action: pan-y; cursor: grab; }
 #chart:active { cursor: grabbing; }
@@ -135,7 +132,7 @@ h1 { font-size: var(--step-4); font-weight: 300; line-height: 0.95; letter-spaci
 .detail .kind { display: flex; align-items: center; gap: 8px; font: 600 var(--step--1)/1.2 var(--sans); letter-spacing: 0.08em; text-transform: uppercase; color: var(--muted); }
 .detail .kind i { width: 10px; height: 10px; border-radius: 50%; background: var(--c); }
 .detail h2 { font-size: var(--step-2); line-height: 1.1; padding-right: 32px; }
-.detail .when { font: 500 var(--step-0)/1.3 var(--mono); font-variant-numeric: tabular-nums; }
+.detail .when { font: 500 var(--step-0)/1.3 var(--sans); font-variant-numeric: tabular-nums; }
 .detail p { margin: 0; }
 .detail .close { all: unset; cursor: pointer; position: absolute; top: 12px; right: 12px; width: 32px; height: 32px; display: grid; place-items: center; border-radius: 8px; font-size: 1.2rem; color: var(--muted); }
 .detail .close:hover { background: var(--accent-soft); }
@@ -157,7 +154,7 @@ section { padding-block: clamp(28px, 5vw, 56px); }
 }
 .century button:hover { background: var(--accent-soft); }
 .century button:focus-visible { outline: 2px solid var(--accent); }
-.century .yr { font: 500 var(--step--1)/1.5 var(--mono); color: var(--muted); font-variant-numeric: tabular-nums; }
+.century .yr { font: 500 var(--step--1)/1.5 var(--sans); font-variant-numeric: tabular-nums; color: var(--muted); font-variant-numeric: tabular-nums; }
 .century .nm { font-weight: 500; }
 .century .st { grid-column: 2; display: inline-flex; align-items: center; gap: 6px; font-size: var(--step--1); color: var(--muted); }
 .century .st i { width: 8px; height: 8px; border-radius: 50%; background: var(--c); flex: none; }
@@ -172,9 +169,10 @@ footer p { margin: 0; }
 }
 </style>
 
+<!-- APPBAR -->
+
 <header class="masthead">
   <div class="wrap">
-    <p class="eyebrow"><a class="home" href="index.html"><span aria-hidden="true">←</span> Open Bible</a> · World history</p>
     <h1>Streams of Time</h1>
     <p class="lede">History from the <b>death and resurrection of Jesus, about AD 30,</b> to today: the empires, churches, scriptures and thinkers of every continent, side by side. After Sebastian Adams’ <i>Synchronological Chart</i> of 1871, with modern dates throughout.</p>
   </div>
@@ -224,7 +222,7 @@ footer p { margin: 0; }
 <footer>
   <div class="wrap">
     <p><b>Sources and method.</b> The rows are curated in this project’s <code>data/</code> tables (periods, rulers, events and lives), using the conventional dates of standard references, with Wikidata identifiers wherever an item’s English label matched exactly. Ancient and early medieval dates are often approximate and are marked so.</p>
-    <p>The Bible lane shows events the Bible narrates that outside evidence dates: modern dates, with Ussher’s date in each item’s details. The chart follows the plan of Sebastian C. Adams’ <i>Synchronological Chart, or Map of History</i> (1871). Built from the project’s data by <code>scripts/connections.py</code>.</p>
+    <p>The Bible lane shows events the Bible narrates that outside evidence dates: modern dates, with Ussher’s date in each item’s details. The chart follows the plan of Sebastian C. Adams’ <i>Synchronological Chart, or Map of History</i> (1871). Part of the Plain English Bible, built from the project’s data by <code>scripts/connections.py</code>.</p>
   </div>
 </footer>
 

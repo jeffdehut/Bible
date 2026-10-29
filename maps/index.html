@@ -3,6 +3,11 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<link rel="icon" href="../icons/icon.svg" type="image/svg+xml">
+<link rel="apple-touch-icon" href="../icons/icon-192.png">
+<meta name="theme-color" content="#f6f0dd" media="(prefers-color-scheme: light)">
+<meta name="theme-color" content="#191714" media="(prefers-color-scheme: dark)">
+<script>try { const t = (JSON.parse(localStorage.getItem("pe.settings")) || {}).theme; if (t === "light" || t === "dark") document.documentElement.setAttribute("data-theme", t); } catch (e) { /* storage unavailable */ }</script>
 </head>
 <body>
 <title>Bible Maps</title>
@@ -10,7 +15,7 @@
 <meta name="description" content="Eight Bible maps after the Eilers Sunday School wall maps, drawn from open data: the patriarchs, the Exodus, the kingdoms, the empires, the time of Christ, Jerusalem and the travels of Paul.">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Abril+Fatface&family=Old+Standard+TT:ital,wght@0,400;0,700;1,400&family=Rokkitt:wght@500;600;700&family=Libre+Franklin:wght@400;500;600;700&display=swap">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Abril+Fatface&family=Frank+Ruhl+Libre:wght@500&family=Old+Standard+TT:ital,wght@0,400;0,700;1,400&family=Rokkitt:wght@500;600;700&family=Libre+Franklin:wght@400;500;600;700&display=swap">
 <style>
 /* A catalogue of the sheets, set like the maps themselves: printed paper, the Eilers tints,
    red display type. Layout: one column of sheets on phones, two on wider screens. */
@@ -28,16 +33,18 @@
   --serif: "Old Standard TT", Georgia, serif;
   --slab: "Rokkitt", Georgia, serif;
   --sans: "Libre Franklin", system-ui, -apple-system, "Segoe UI", sans-serif;
+  /* The site's bar takes these. */
+  --bg: var(--paper); --lapis: var(--red); --lapis-soft: rgb(168 48 26 / 9%);
 }
 @media (prefers-color-scheme: dark) {
   :root:not([data-theme="light"]) {
-    --paper: #191714; --card: #221f1a; --ink: #efe8da; --muted: #b3a891; --line: #3a342b; --red: #f08a6c;
+    --paper: #191714; --card: #221f1a; --ink: #efe8da; --muted: #b3a891; --line: #3a342b; --red: #f08a6c; --lapis-soft: rgb(240 138 108 / 14%);
     --shadow: 0 1px 2px rgb(0 0 0 / 40%), 0 10px 30px rgb(0 0 0 / 40%);
     color-scheme: dark;
   }
 }
 :root[data-theme="dark"] {
-  --paper: #191714; --card: #221f1a; --ink: #efe8da; --muted: #b3a891; --line: #3a342b; --red: #f08a6c;
+  --paper: #191714; --card: #221f1a; --ink: #efe8da; --muted: #b3a891; --line: #3a342b; --red: #f08a6c; --lapis-soft: rgb(240 138 108 / 14%);
   --shadow: 0 1px 2px rgb(0 0 0 / 40%), 0 10px 30px rgb(0 0 0 / 40%);
   color-scheme: dark;
 }
@@ -49,9 +56,7 @@ body {
 a { color: inherit; }
 :focus-visible { outline: 2px solid var(--red); outline-offset: 3px; }
 .wrap { max-width: 1060px; margin: 0 auto; }
-header { padding-block: clamp(28px, 6vw, 64px) 22px; display: grid; gap: 12px; }
-.eyebrow { margin: 0; font: 600 12px/1.3 var(--sans); letter-spacing: 0.14em; text-transform: uppercase; color: var(--muted); }
-.eyebrow a { text-decoration: underline; text-decoration-thickness: 1px; text-underline-offset: 3px; }
+.intro { padding-block: clamp(28px, 5vw, 56px) 22px; display: grid; gap: 12px; }
 h1 { margin: 0; font: 400 clamp(2.6rem, 1.8rem + 4vw, 4.6rem)/1 var(--display); color: var(--red); letter-spacing: 0.01em; text-wrap: balance; }
 .lede { margin: 0; max-width: 62ch; font-size: 1.08rem; color: var(--muted); }
 .lede strong { color: var(--ink); font-weight: 700; }
@@ -90,9 +95,40 @@ footer p { margin: 0 0 10px; }
 }
 </style>
 
+<style>
+:root { --bar: 56px; }
+body::before { content: ""; position: fixed; inset: 0 0 auto; height: env(safe-area-inset-top, 0px); z-index: 11; background: var(--bg); }
+.appbar {
+  position: sticky; top: env(safe-area-inset-top, 0px); z-index: 10; height: var(--bar);
+  margin-inline: calc(-1 * max(16px, env(safe-area-inset-left, 0px))) calc(-1 * max(16px, env(safe-area-inset-right, 0px)));
+  padding-inline: max(8px, env(safe-area-inset-left, 0px)) max(8px, env(safe-area-inset-right, 0px));
+  display: flex; align-items: center; gap: 4px; background: color-mix(in srgb, var(--bg) 92%, transparent);
+  backdrop-filter: blur(10px); -webkit-backdrop-filter: blur(10px); border-bottom: 1px solid var(--line);
+}
+.appbar .brand {
+  display: inline-flex; align-items: center; gap: 10px; min-height: 40px; padding: 0 8px; border-radius: 10px;
+  color: var(--ink); text-decoration: none; white-space: nowrap; font: 500 17px/1 "Frank Ruhl Libre", "Noto Serif", Georgia, serif; letter-spacing: 0.01em;
+}
+.appbar .brand img { width: 26px; height: 26px; border-radius: 7px; flex: none; }
+.appnav { margin-inline-start: auto; display: flex; gap: 2px; }
+.appnav a {
+  display: inline-flex; align-items: center; min-height: 40px; padding: 0 12px; border-radius: 10px; white-space: nowrap;
+  font: 600 14px/1 "Libre Franklin", system-ui, -apple-system, "Segoe UI", sans-serif; color: var(--muted); text-decoration: none;
+}
+.appnav a:hover { background: var(--lapis-soft); color: var(--ink); }
+.appnav a[aria-current="page"] { background: var(--lapis-soft); color: var(--lapis); }
+.appbar a:focus-visible { outline: 2px solid var(--lapis); outline-offset: 0; }
+@media (max-width: 640px) { .appbar .brand span { display: none; } .appnav a { padding: 0 9px; } }
+@media (max-width: 359px) { .appbar .brand { display: none; } .appnav { margin-inline: auto; } }
+@media print { .appbar { display: none; } }
+</style>
+<header class="appbar">
+  <a class="brand" href="../index.html"><img src="../icons/icon.svg" alt="Plain English Bible"><span aria-hidden="true">Plain English Bible</span></a>
+  <nav class="appnav" aria-label="Plain English Bible"><a href="../index.html">Read</a><a href="../maps/index.html" aria-current="page">Maps</a><a href="../genealogy.html">Genealogy</a><a href="../history.html">Timeline</a></nav>
+</header>
+
 <div class="wrap">
-  <header>
-    <p class="eyebrow"><a href="../index.html"><span aria-hidden="true">←</span> Plain English Bible</a> · Bible maps</p>
+  <header class="intro">
     <h1>The Bible Maps</h1>
     <p class="lede">Eight sheets after the <strong>Eilers Sunday School wall maps</strong> (St. Louis, about 1890–1930), redrawn from open data. Each zooms on a phone, prints whole on a single page, and follows its journeys stop by stop, every stop named in the verse given. They are style studies and drafts: the borders are approximate and wait for review.</p>
   </header>

@@ -64,7 +64,8 @@ scripts/
   connections.py                 Builds connections/ from open cross-reference and name data
   genealogy.py, chronology.py,   Family graph (TIPNR), dates (Theographic), timeline notes,
   timeline.py, chart.py          and the synchronological chart
-  webpages.py                    Builds genealogy.html and history.html (run by connections.py)
+  webpages.py                    Builds genealogy.html and history.html (run by connections.py),
+                                 and the bar and page head the other pages share
   maps.py                        Builds the maps in maps/ from elevation and place data
   reader.py                      Builds the reader's data in data/bible/
   templates/                     The page sources the scripts fill with data
@@ -156,8 +157,9 @@ setting, offers English Bible verse numbers for the Old Testament, and works off
 installed. `scripts/reader.py` rebuilds its data from the translation. Because it loads its
 data as separate files, it needs a web server: `python3 -m http.server` in the repository
 folder, then http://localhost:8000. To publish the site, see [DEPLOY.md](DEPLOY.md): Netlify
-serves the repository as it is, with no build step. The reader's menu links to every page, and
-every page links back to the reader.
+serves the repository as it is, with no build step. The reader's menu links to every page. The
+other pages share one bar across the top (the name, which leads back to the reader, then Read,
+Maps, Genealogy and Timeline), the reader's colors and its light or dark setting.
 
 `genealogy.html` (*The Generations*) and `history.html` (*Streams of Time*) present
 the genealogy and the timeline for readers who don't use Obsidian. Each is a single file

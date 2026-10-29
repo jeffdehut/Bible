@@ -130,12 +130,76 @@ STANDALONE = """<!doctype html>
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+{head}
 </head>
 <body>
 {page}
 </body>
 </html>
 """
+
+# Every page follows the light or dark choice made in the reader's display settings, which the
+# reader keeps in localStorage as "pe.settings"; with no choice made, the system's setting rules.
+THEME = ('<script>try { const t = (JSON.parse(localStorage.getItem("pe.settings")) || {}).theme; '
+         'if (t === "light" || t === "dark") document.documentElement.setAttribute("data-theme", t); } '
+         'catch (e) { /* storage unavailable */ }</script>')
+
+
+def head(root="", colors=("#fbfaf7", "#0d111b")):
+    """The icon, the browser colors and the theme: the same on every page of the site."""
+    light, dark = colors
+    return (f'<link rel="icon" href="{root}icons/icon.svg" type="image/svg+xml">\n'
+            f'<link rel="apple-touch-icon" href="{root}icons/icon-192.png">\n'
+            f'<meta name="theme-color" content="{light}" media="(prefers-color-scheme: light)">\n'
+            f'<meta name="theme-color" content="{dark}" media="(prefers-color-scheme: dark)">\n{THEME}')
+
+
+def document(body, root="", colors=("#fbfaf7", "#0d111b")):
+    return STANDALONE.format(head=head(root, colors), page=body)
+
+
+# The bar across the top of the pages beside the reader: the name, which leads to the reader,
+# and the four parts of the site, with the one shown marked. It takes the page's own colors
+# (--bg, --ink, --muted, --line, --lapis, --lapis-soft), so it sits on any of them.
+NAV = [("index.html", "Read"), ("maps/index.html", "Maps"), ("genealogy.html", "Genealogy"),
+       ("history.html", "Timeline")]
+APPBAR_CSS = """<style>
+:root { --bar: 56px; }
+body::before { content: ""; position: fixed; inset: 0 0 auto; height: env(safe-area-inset-top, 0px); z-index: 11; background: var(--bg); }
+.appbar {
+  position: sticky; top: env(safe-area-inset-top, 0px); z-index: 10; height: var(--bar);
+  margin-inline: calc(-1 * max(16px, env(safe-area-inset-left, 0px))) calc(-1 * max(16px, env(safe-area-inset-right, 0px)));
+  padding-inline: max(8px, env(safe-area-inset-left, 0px)) max(8px, env(safe-area-inset-right, 0px));
+  display: flex; align-items: center; gap: 4px; background: color-mix(in srgb, var(--bg) 92%, transparent);
+  backdrop-filter: blur(10px); -webkit-backdrop-filter: blur(10px); border-bottom: 1px solid var(--line);
+}
+.appbar .brand {
+  display: inline-flex; align-items: center; gap: 10px; min-height: 40px; padding: 0 8px; border-radius: 10px;
+  color: var(--ink); text-decoration: none; white-space: nowrap; font: 500 17px/1 "Frank Ruhl Libre", "Noto Serif", Georgia, serif; letter-spacing: 0.01em;
+}
+.appbar .brand img { width: 26px; height: 26px; border-radius: 7px; flex: none; }
+.appnav { margin-inline-start: auto; display: flex; gap: 2px; }
+.appnav a {
+  display: inline-flex; align-items: center; min-height: 40px; padding: 0 12px; border-radius: 10px; white-space: nowrap;
+  font: 600 14px/1 "Libre Franklin", system-ui, -apple-system, "Segoe UI", sans-serif; color: var(--muted); text-decoration: none;
+}
+.appnav a:hover { background: var(--lapis-soft); color: var(--ink); }
+.appnav a[aria-current="page"] { background: var(--lapis-soft); color: var(--lapis); }
+.appbar a:focus-visible { outline: 2px solid var(--lapis); outline-offset: 0; }
+@media (max-width: 640px) { .appbar .brand span { display: none; } .appnav a { padding: 0 9px; } }
+@media (max-width: 359px) { .appbar .brand { display: none; } .appnav { margin-inline: auto; } }
+@media print { .appbar { display: none; } }
+</style>"""
+
+
+def appbar(current, root=""):
+    """The shared bar, for the page whose address (from the site root) is `current`."""
+    mark = ' aria-current="page"'
+    links = "".join(f'<a href="{root}{href}"{mark if href == current else ""}>{text}</a>' for href, text in NAV)
+    return (f'{APPBAR_CSS}\n<header class="appbar">\n'
+            f'  <a class="brand" href="{root}index.html"><img src="{root}icons/icon.svg" alt="Plain English Bible">'
+            f'<span aria-hidden="true">Plain English Bible</span></a>\n'
+            f'  <nav class="appnav" aria-label="Plain English Bible">{links}</nav>\n</header>')
 
 
 def page(name, data):
@@ -144,6 +208,7 @@ def page(name, data):
     marker = "<!-- DATA -->"
     if marker not in src:
         raise ValueError(f"scripts/templates/{name}.html has no {marker} marker")
+    src = src.replace("<!-- APPBAR -->", appbar(f"{name}.html"))
     return src.replace(marker, f'<script type="application/json" id="data">{_dump(data)}</script>')
 
 
@@ -156,7 +221,7 @@ def build(ctx, family_of, groups):
             f.write("\n")
         if os.path.exists(os.path.join(TEMPLATES, f"{name}.html")):
             with open(os.path.join(SITE, f"{name}.html"), "w", encoding="utf-8", newline="\n") as f:
-                f.write(STANDALONE.format(page=page(name, data)))
+                f.write(document(page(name, data)))
     g, h = pages["genealogy"], pages["history"]
     return (f"Site: {len(g['people'])} people, {g['stats']['links']} parent-child links; "
             f"{len(h['items'])} world-history items in {len(h['streams'])} streams")

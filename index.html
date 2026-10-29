@@ -98,7 +98,11 @@ a { color: var(--lapis); }
 .appbar .where { font: 600 16px/1 var(--sans); gap: 4px; padding: 0 12px; }
 .appbar .where .chev { width: 16px; height: 16px; opacity: 0.6; }
 .appbar .spacer { flex: 1; }
-.brand { font: 500 17px/1 var(--read); letter-spacing: 0.01em; padding: 0 8px; color: var(--ink); text-decoration: none; white-space: nowrap; }
+.brand {
+  display: inline-flex; align-items: center; gap: 10px; min-height: 40px; border-radius: 10px;
+  font: 500 17px/1 var(--read); letter-spacing: 0.01em; padding: 0 8px; color: var(--ink); text-decoration: none; white-space: nowrap;
+}
+.brand img { width: 26px; height: 26px; border-radius: 7px; flex: none; }
 @media (max-width: 520px) { .brand { display: none; } }
 
 /* The chapter */
@@ -303,7 +307,7 @@ input[type="range"] { width: 100%; accent-color: var(--lapis); }
 </head>
 <body>
 <header class="appbar">
-  <a class="brand" href="#" id="home">Plain English Bible</a>
+  <a class="brand" href="#" id="home"><img src="icons/icon.svg" alt="">Plain English Bible</a>
   <button class="btn where" id="where" type="button" aria-haspopup="dialog" aria-label="Choose a book and chapter">
     <span id="where-label">…</span>
     <svg class="chev" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><path d="m6 9 6 6 6-6"/></svg>
