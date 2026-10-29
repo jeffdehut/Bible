@@ -94,7 +94,10 @@
     render();
   }
   async function sendCode(email) {
-    await call("/auth/v1/otp", { method: "POST", auth: false, body: { email, create_user: true } });
+    // If the email carries a link as well as the code, the link brings the reader back to this
+    // page (the live site or a preview), provided Supabase's Redirect URLs allow it.
+    const back = encodeURIComponent(location.origin + location.pathname);
+    await call("/auth/v1/otp?redirect_to=" + back, { method: "POST", auth: false, body: { email, create_user: true } });
   }
   async function verify(email, token) {
     const s = await call("/auth/v1/verify", { method: "POST", auth: false, body: { type: "email", email, token } });
@@ -268,7 +271,7 @@
     } else {
       const code = el("input", { type: "text", id: "account-code", autocomplete: "one-time-code", inputmode: "numeric", pattern: "[0-9]*", maxlength: 10, placeholder: "123456", required: true });
       kids.push(
-        el("p", {}, "We sent a code to ", el("strong", { text: step.email }), ". Enter it here, or open the link in the email on this device."),
+        el("p", {}, "We sent an email to ", el("strong", { text: step.email }), ". Open its link on this device, or enter its code here."),
         el("form", { class: "account-form", onsubmit: async ev => {
           ev.preventDefault();
           step.busy = true; problem = ""; render();

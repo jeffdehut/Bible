@@ -81,7 +81,7 @@ scripts/
 VERIFICATION.md                  What was checked, what was found, what was fixed
 TRANSLATION.md                   Translation goals, principles, decisions, format and review process
 ROADMAP.md                       Plans: web reader, maps, genealogy viewer, accounts, Chinese
-DEPLOY.md, netlify.toml          Publishing the website to Netlify (or any static host)
+DEPLOY.md, netlify.toml          Publishing the website at Porkbun (or any static host)
 ```
 
 Files are numbered 01–66 in the common English book order. Hebrew Bibles use a different
@@ -168,7 +168,7 @@ Supabase, and with `config.js` empty, as it is now, the reader shows no sign-in 
 setting, offers English Bible verse numbers for the Old Testament, and works offline once
 installed. `scripts/reader.py` rebuilds its data from the translation. Because it loads its
 data as separate files, it needs a web server: `python3 -m http.server` in the repository
-folder, then http://localhost:8000. To publish the site, see [DEPLOY.md](DEPLOY.md): Netlify
+folder, then http://localhost:8000. To publish the site, see [DEPLOY.md](DEPLOY.md): Porkbun
 serves the repository as it is, with no build step. The reader's menu links to every page. The
 other pages share one bar across the top (the name, which leads back to the reader, then Read,
 Maps, Genealogy and Timeline), the reader's colors and its light or dark setting.

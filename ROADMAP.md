@@ -10,8 +10,8 @@ Chinese translation.
 | Question | Decision |
 |---|---|
 | Who it's for | Phone users first; tablets and desktops follow from the same design. |
-| Hosting | Static hosting, so there are no servers to run and no fees. Cloudflare Pages is recommended; not yet chosen. |
-| Domain | Not yet chosen. Candidates: `bibledata.org`, `bibledata.info`, `bibledata.app` (unregistered as of 28 Oct 2026). |
+| Hosting | Porkbun Static Hosting, publishing `main` from GitHub at `bibledata.org`, so the domain, hosting and email forwarding are in one place. The Netlify test site (`biblemadeplain.netlify.app`) is being retired. |
+| Domain | `bibledata.org`, registered at Porkbun on 29 Oct 2026 (renews 29 Oct each year). Hosted there too (see DEPLOY.md, *Porkbun Static Hosting*), with `privacy@bibledata.org` forwarded to the owner and the sign-in emails sent from it through Resend. |
 | Annotations | Saved on the device first. Accounts come later, and signing in merges the device's highlights and notes into the account. |
 | Versions | Only the Open Plain English Translation, beside the Hebrew, Aramaic and Greek it is translated from. |
 | Draft status | Every chapter is clearly labeled as a draft until it is reviewed (see *Draft labels* below). |
@@ -36,9 +36,8 @@ Chinese translation.
    for search. `scripts/maps.py` does the same for the maps.
 2. **App shell (done).** `index.html` is one static web app that installs on a phone and
    works offline, in the design of `genealogy.html` and `history.html`.
-3. **Hosting (test site ready).** The repository root is the website, so Netlify can publish it
-   straight from GitHub: `main` as the live site, every other branch at a preview address
-   (see DEPLOY.md).
+3. **Hosting.** The repository root is the website, so Porkbun's GitHub Connect publishes it
+   straight from `main` (see DEPLOY.md).
 
 ## 1. Reader
 
@@ -372,14 +371,15 @@ A new translation into Traditional Chinese (繁體中文), made like the English
    reader.
 3. Genealogy viewer (built).
 4. Phrase-level original language, alongside human review of the English.
-5. Accounts (built; turned on once a Supabase project is set up).
+5. Accounts (built and on, with the "Plain Bible" Supabase project; open to others once a mail service is set up).
 6. Traditional Chinese, once the English is finished.
 
 ## Open questions
 
-- Domain and hosting account (see *Decisions so far*).
-- Accounts: a Supabase project, a mail service to send sign-in codes from the site's domain,
-  and a contact address for privacy questions (DEPLOY.md, *Accounts*).
+- Connecting Porkbun Static Hosting to `main`, and retiring the Netlify test site (see DEPLOY.md).
+- Accounts: a mail service to send sign-in emails from the site's domain (until then Supabase's
+  own mail reaches only the project's team, with a link and no code), and a contact address for
+  privacy questions (DEPLOY.md, *Accounts*).
 - Review of the maps: the approximate lands and borders on every sheet, the camps on Map No. 5,
   and the journeys.
 - Reviewers for the English, and later the Chinese.
