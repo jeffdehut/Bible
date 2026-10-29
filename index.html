@@ -287,6 +287,58 @@ textarea { min-height: 88px; resize: vertical; }
 .dict ol { margin: 12px 0 0; padding-left: 22px; }
 .dict ol li { font: 400 16px/1.6 var(--read); margin-bottom: 8px; }
 .dict a { color: var(--lapis); text-decoration: none; font-family: var(--sans); font-size: 0.88em; font-weight: 600; cursor: pointer; }
+/* Parallel passages */
+.par { border: 1px solid var(--line); border-radius: 12px; padding: 10px 12px; background: var(--surface); margin-bottom: 8px; }
+.par .pt { font: 600 14px/1.35 var(--sans); margin: 0 0 6px; }
+.par .pt small { color: var(--muted); font-weight: 500; margin-right: 4px; }
+.par .refs { margin-bottom: 8px; }
+.par .refs .here { color: var(--ink); border-color: var(--lapis); background: var(--lapis-soft); }
+#parallel.sheet.dialog { width: min(1180px, calc(100vw - 48px)); }
+#parallel:not(.compare) #par-cols, #parallel:not(.compare) #par-head { display: none; }
+#parallel.compare #par-list, #parallel.compare .tabs { display: none; }
+#parallel:not(.compare) #par-back { display: none; }
+.par-head { margin: 4px 0 12px; }
+.par-head .kind { font: 600 12px/1.2 var(--sans); letter-spacing: 0.1em; text-transform: uppercase; color: var(--muted); }
+.par-head h3 { margin: 2px 0 0; font: 500 24px/1.2 var(--read); }
+.cols { display: grid; gap: 12px; grid-template-columns: repeat(auto-fit, minmax(260px, 1fr)); align-items: start; }
+.col { border: 1px solid var(--line); border-radius: 12px; background: var(--surface); padding: 12px 14px; }
+.col h4 { margin: 0 0 8px; font: 600 13px/1.2 var(--sans); color: var(--lapis); display: flex; justify-content: space-between; gap: 8px; }
+.col h4 a { text-decoration: none; }
+.col p { margin: 0; font: 400 16.5px/1.65 var(--read); }
+.col .v.here { background: color-mix(in srgb, var(--gold) 18%, transparent); }
+@media (max-width: 719px) { .cols { grid-template-columns: 1fr; } }
+.par-list h3 { margin: 18px 0 6px; font: 600 12px/1.2 var(--sans); letter-spacing: 0.1em; text-transform: uppercase; color: var(--muted); }
+.par-list ol { list-style: none; margin: 0; padding: 0; }
+.par-list button {
+  width: 100%; text-align: left; border: 0; background: transparent; border-radius: 8px; padding: 8px 10px; cursor: pointer;
+  display: grid; grid-template-columns: 44px 1fr; gap: 2px 8px; color: var(--ink);
+}
+.par-list button:hover { background: var(--lapis-soft); }
+.par-list .no { font: 600 13px/1.4 var(--sans); color: var(--muted); font-variant-numeric: tabular-nums; }
+.par-list .nm { font: 500 16px/1.3 var(--read); }
+.par-list .rr { grid-column: 2; font: 500 12.5px/1.3 var(--sans); color: var(--muted); }
+
+/* Reading plans */
+.plans { list-style: none; margin: 8px 0 0; padding: 0; display: grid; gap: 8px; }
+.plans li { border: 1px solid var(--line); border-radius: 12px; padding: 12px 14px; background: var(--surface); display: grid; gap: 6px; }
+.plans b { font: 500 18px/1.25 var(--read); }
+.plans p { margin: 0; font-size: 14px; color: var(--muted); }
+.plans .btn { justify-self: start; }
+.today { border: 1px solid var(--lapis); border-radius: 14px; padding: 14px 16px; background: var(--surface); display: grid; gap: 10px; }
+.today .kind { font: 600 12px/1.2 var(--sans); letter-spacing: 0.1em; text-transform: uppercase; color: var(--muted); }
+.today h3 { margin: 0; font: 500 22px/1.2 var(--read); }
+.today .reads { display: flex; flex-wrap: wrap; gap: 6px; }
+.today .reads a { display: inline-flex; align-items: center; gap: 6px; min-height: 36px; padding: 6px 12px; border-radius: 99px; background: var(--lapis-soft); color: var(--ink); text-decoration: none; font: 600 14px/1.2 var(--sans); }
+.progress { height: 6px; border-radius: 6px; background: var(--lapis-soft); overflow: hidden; }
+.progress i { display: block; height: 100%; background: var(--lapis); }
+.days { list-style: none; margin: 12px 0 0; padding: 0; display: grid; gap: 2px; max-height: 360px; overflow: auto; }
+.days li { display: grid; grid-template-columns: 30px 64px 1fr; align-items: center; gap: 6px; padding: 4px 6px; border-radius: 8px; font-size: 14px; }
+.days li.cur { background: var(--lapis-soft); }
+.days input { width: 18px; height: 18px; accent-color: var(--lapis); }
+.days .d { color: var(--muted); font-variant-numeric: tabular-nums; }
+.days a { color: var(--ink); text-decoration: none; }
+.days a:hover { text-decoration: underline; }
+.days li.done a { color: var(--muted); }
 .study-entry .credit { margin-top: 16px; font-size: 12.5px; color: var(--faint); }
 
 /* Picker */
@@ -441,6 +493,10 @@ if (/(^#|&)(access_token|error)=/.test(location.hash)) {
     <h3>In the Bible dictionary</h3>
     <ul class="places" id="vdict"></ul>
   </div>
+  <div class="section" id="vpar-wrap" hidden>
+    <h3>Parallel passages</h3>
+    <div id="vpar"></div>
+  </div>
   <div class="section">
     <h3>Word by word</h3>
     <ol class="inter" id="inter"></ol>
@@ -515,6 +571,28 @@ if (/(^#|&)(access_token|error)=/.test(location.hash)) {
   <article class="study-entry" id="study-entry" aria-live="polite"></article>
 </section>
 
+<section class="sheet dialog" id="parallel" hidden aria-labelledby="par-title">
+  <div class="grab"></div>
+  <div class="sheet-head">
+    <button class="btn" type="button" id="par-back" aria-label="Back to the list"><svg class="icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="m15 5-7 7 7 7"/></svg></button>
+    <h2 id="par-title">Parallel passages</h2>
+    <button class="btn" type="button" data-close aria-label="Close"><svg class="icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M6 6l12 12M18 6 6 18"/></svg></button>
+  </div>
+  <div class="tabs" role="tablist" aria-label="Which parallels">
+    <button type="button" role="tab" id="par-tab-g" aria-selected="true">The Gospels</button>
+    <button type="button" role="tab" id="par-tab-k" aria-selected="false">Kings and Chronicles</button>
+  </div>
+  <div class="par-list" id="par-list"></div>
+  <div class="par-head" id="par-head"></div>
+  <div class="cols" id="par-cols"></div>
+</section>
+
+<section class="sheet dialog" id="plans" hidden aria-labelledby="plans-title">
+  <div class="grab"></div>
+  <div class="sheet-head"><h2 id="plans-title">Reading plans</h2><button class="btn" type="button" data-close aria-label="Close"><svg class="icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M6 6l12 12M18 6 6 18"/></svg></button></div>
+  <div id="plans-body"></div>
+</section>
+
 <section class="sheet dialog" id="settings" hidden aria-labelledby="settings-title">
   <div class="grab"></div>
   <div class="sheet-head"><h2 id="settings-title">Display</h2><button class="btn" type="button" data-close aria-label="Close"><svg class="icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M6 6l12 12M18 6 6 18"/></svg></button></div>
@@ -549,6 +627,8 @@ if (/(^#|&)(access_token|error)=/.test(location.hash)) {
   <ul class="menu">
     <li><button type="button" id="open-mine"><span>My highlights and notes<small>Saved on this device</small></span></button></li>
     <li><button type="button" id="open-account" hidden><span>Sync across devices<small id="account-sub">Keep your highlights and notes on every device</small></span></button></li>
+    <li><button type="button" id="open-plans"><span>Reading plans<small id="plans-sub">Through the Bible in a year, and shorter plans</small></span></button></li>
+    <li><button type="button" id="open-parallels"><span>Parallel passages<small>The Gospels side by side; Kings beside Chronicles</small></span></button></li>
     <li><button type="button" id="open-study"><span>Topics and dictionary<small>Nave’s topics and Easton’s Bible dictionary</small></span></button></li>
     <li><button type="button" id="open-about"><span>About this translation<small>A first draft, awaiting review</small></span></button></li>
     <li><a href="maps/index.html"><span>Bible maps<small>Eight sheets, from the patriarchs to Paul</small></span></a></li>
@@ -603,6 +683,7 @@ if (/(^#|&)(access_token|error)=/.test(location.hash)) {
     <p>Tap a verse to see it in Hebrew, Aramaic or Greek, word by word. The words, glosses and grammar come from STEPBible's tagged texts (TAHOT and TAGNT), and the definitions from its brief lexicons (TBESH and TBESG). STEPBible's glosses are its own, not this translation's.</p>
     <p>People a verse names are listed under <em>People</em>: tap one to see their family in the genealogy. The names come from STEPBible's TIPNR, which marks each name in the Hebrew, Aramaic and Greek.</p>
     <p>Under <em>Topics</em>, a verse lists the topics of Nave’s Topical Bible (1896, public domain) that cite it, and under <em>In the Bible dictionary</em>, the entries of Easton’s Bible Dictionary (1897, public domain; linked edition from Theographic, CC BY-SA 4.0) that do. Both are also in the menu, under <em>Topics and dictionary</em>. Their verse numbers have been moved to this translation’s.</p>
+    <p>Under <em>Parallel passages</em>, a verse in the Gospels shows the section of A. T. Robertson’s <em>Harmony of the Gospels</em> (1922, public domain) it belongs to, with every Gospel that tells it, side by side; a verse in Samuel or Kings, the passages that tell it again in Chronicles or Isaiah, after Appendix 56 of the Companion Bible (public domain). <em>Reading plans</em> divide the chapters into days; the chronological plan follows Ussher’s dates as the Treasury of Scripture Knowledge gives them (via Theographic), with the chapters of each book kept in order. Your place in a plan is kept on this device.</p>
     <p>Places a verse names are listed under <em>On the maps</em>: tap one to see it on the Bible map for that part of the story. Which verses name which places comes from OpenBible.info's Bible Geocoding Data (CC BY 4.0), kept only where this translation uses the name.</p>
     <h3>Licenses</h3>
     <p>Translation: CC BY 4.0. Hebrew: Unicode/XML Leningrad Codex (UXLC 2.6), Tanach.us. Greek: SBL Greek New Testament, © 2010 Society of Biblical Literature and Logos Bible Software, CC BY 4.0. Word data and lexicons: STEPBible.org, CC BY 4.0. Paragraphs follow the Masoretic paragraph marks and, in the New Testament, STEPBible's paragraph marks.</p>
@@ -953,6 +1034,7 @@ async function openVerse(span) {
   showPeople(b, c, n, span);
   showPlaces(b, c, n, span);
   showStudy(b, c, n, span);
+  showParallels(b, c, n, span);
   // Highlight and note.
   const id = `${b.osis}.${c}.${n}`;
   const a = notes[id] || {};
@@ -1222,6 +1304,193 @@ async function showStudy(b, c, n, span) {
   chips(S.t[`${c}:${n}`] || [], tn, "t", "vtopics");
   chips(S.d[`${c}:${n}`] || [], dn, "d", "vdict");
 }
+
+/* ---------- Parallel passages ---------- */
+// Built by scripts/parallels.py: Robertson's harmony of the Gospels, by section, and the
+// Companion Bible's table of Samuel and Kings beside Chronicles (and Isaiah).
+// "Matt.5-7", "Mark.11.27-12.12", "Luke.2.39" -> { b, c1, v1, c2, v2 } (v null for whole chapters)
+function rangeOf(ref) {
+  const m = /^([1-3]?[A-Za-z]+)\.(\d+)(?:\.(\d+))?(?:-(\d+)(?:\.(\d+))?)?$/.exec(ref);
+  const b = m && byOsis[m[1]];
+  if (!b) return null;
+  const c1 = +m[2], v1 = m[3] ? +m[3] : null;
+  let c2 = c1, v2 = v1;
+  if (m[4]) { if (v1 == null) c2 = +m[4]; else if (m[5]) { c2 = +m[4]; v2 = +m[5]; } else v2 = +m[4]; }
+  return { b, c1, v1, c2, v2 };
+}
+async function passage(ref) {
+  const r = rangeOf(ref);
+  const data = await getJSON("text/" + r.b.slug + ".json");
+  const out = [];
+  for (let c = r.c1; c <= r.c2; c++) {
+    const ch = data.chapters[c - 1];
+    if (!ch) continue;
+    for (const row of ch.v) {
+      if (r.v1 != null && c === r.c1 && row[0] < r.v1) continue;
+      if (r.v2 != null && c === r.c2 && row[0] > r.v2) continue;
+      out.push([c, row[0], row[1]]);
+    }
+  }
+  return { r, rows: out };
+}
+const parLabel = s => (s.k === "g" ? s.t : s.refs.map(x => parseRef(x)?.label).join(" · "));
+const inSet = (ref, b, c, v) => { const r = rangeOf(ref); return r && r.b === b && (c > r.c1 || (c === r.c1 && (r.v1 == null || v >= r.v1))) && (c < r.c2 || (c === r.c2 && (r.v2 == null || v <= r.v2))); };
+let parTab = "g";
+async function openParallels(i, here) {
+  openSheet("parallel");
+  if (i == null) { $("parallel").classList.remove("compare"); renderParList(); return; }
+  const P = await getJSON("study/parallels.json");
+  const s = P.sets[i];
+  $("parallel").classList.add("compare");
+  $("par-title").textContent = "Side by side";
+  $("par-head").replaceChildren(
+    el("div", { class: "kind", text: s.k === "g" ? `Harmony of the Gospels · section ${s.no} · ${P.parts[s.part]}` : "Samuel and Kings beside Chronicles" }),
+    el("h3", { text: parLabel(s) }));
+  const cols = $("par-cols");
+  cols.replaceChildren(...s.refs.map(() => el("div", { class: "col" }, el("p", { class: "count", text: "Loading…" }))));
+  s.refs.forEach(async (ref, k) => {
+    const col = cols.children[k];
+    try {
+      const { r, rows } = await passage(ref);
+      const label = parseRef(ref).label;
+      const p = el("p");
+      let lastC = null;
+      for (const [c, v, t] of rows) {
+        const span = el("span", { class: "v" + (here && here.b === r.b && here.c === c && here.v === v ? " here" : "") },
+          el("span", { class: "vn", text: lastC !== c && (r.c1 !== r.c2) ? `${c}:${v}` : v }), inline(t || "", null), " ");
+        lastC = c;
+        p.append(span);
+      }
+      col.replaceChildren(el("h4", {}, el("span", { text: label }),
+        el("a", { href: refHash(r.b, r.c1, r.v1 || undefined), onclick: () => { closeSheets(); closeVerse(); }, text: "Open →" })), p);
+    } catch (e) { col.replaceChildren(el("p", { class: "count", text: "This passage couldn't be loaded." })); }
+  });
+  $("parallel").scrollTop = 0;
+}
+async function renderParList() {
+  $("par-title").textContent = "Parallel passages";
+  for (const k of ["g", "k"]) $("par-tab-" + k).setAttribute("aria-selected", String(parTab === k));
+  let P;
+  try { P = await getJSON("study/parallels.json"); } catch (e) { $("par-list").textContent = "The list couldn't be loaded."; return; }
+  const box = $("par-list");
+  box.textContent = "";
+  const item = (s, i, no) => el("li", {}, el("button", { type: "button", onclick: () => openParallels(i) },
+    el("span", { class: "no", text: no }), el("span", { class: "nm", text: parLabel(s) }),
+    s.k === "g" ? el("span", { class: "rr", text: s.refs.map(x => parseRef(x)?.label).join(" · ") }) : null));
+  if (parTab === "g") {
+    box.append(el("p", { class: "count", text: "A. T. Robertson’s Harmony of the Gospels (1922, public domain): the life of Jesus in 184 sections, each with every Gospel that tells it." }));
+    let part = -1, ol = null;
+    P.sets.forEach((s, i) => {
+      if (s.k !== "g") return;
+      if (s.part !== part) { part = s.part; box.append(el("h3", { text: P.parts[part] })); ol = el("ol"); box.append(ol); }
+      ol.append(item(s, i, "§" + s.no));
+    });
+  } else {
+    box.append(el("p", { class: "count", text: "The passages of Samuel and Kings told again in Chronicles, and in Isaiah, from Appendix 56 of the Companion Bible (public domain)." }));
+    const ol = el("ol");
+    let n = 0;
+    P.sets.forEach((s, i) => { if (s.k === "k") ol.append(item(s, i, String(++n))); });
+    box.append(ol);
+  }
+}
+$("par-tab-g").onclick = () => { parTab = "g"; renderParList(); };
+$("par-tab-k").onclick = () => { parTab = "k"; renderParList(); };
+$("par-back").onclick = () => { $("parallel").classList.remove("compare"); renderParList(); };
+$("open-parallels").onclick = () => openParallels();
+// The verse panel: each set of parallels the verse belongs to, with the other passages.
+async function showParallels(b, c, n, span) {
+  $("vpar-wrap").hidden = true; $("vpar").textContent = "";
+  let S, P;
+  try { [S, P] = await Promise.all([getJSON(`study/${b.slug}.json`), getJSON("study/parallels.json")]); } catch (e) { return; }
+  if (selected !== span) return;
+  const ids = (S.p || {})[`${c}:${n}`] || [];
+  const here = { b, c, v: n };
+  for (const i of ids) {
+    const s = P.sets[i];
+    if (s.refs.length < 2) continue;
+    const refs = el("div", { class: "refs" });
+    for (const ref of s.refs) {
+      const r = parseRef(ref);
+      const mine = inSet(ref, b, c, n);
+      refs.append(el("button", { type: "button", class: mine ? "here" : null, text: r.label, title: mine ? "This passage" : "Compare",
+        onclick: () => openParallels(i, here) }));
+    }
+    $("vpar").append(el("div", { class: "par" },
+      el("p", { class: "pt" }, s.k === "g" ? el("small", { text: "§" + s.no }) : null, s.k === "g" ? s.t : "Told again in Chronicles"),
+      refs, el("button", { class: "btn line", type: "button", text: "Compare side by side", onclick: () => openParallels(i, here) })));
+  }
+  $("vpar-wrap").hidden = !$("vpar").childNodes.length;
+}
+
+/* ---------- Reading plans ---------- */
+// Built by scripts/parallels.py. The plan you follow, and the days you've marked, are kept on
+// this device: { id, start (local midnight, ms), done: [day numbers from 0] }.
+let plan = store.get("plan", null);
+const DAY = 86400000;
+const midnight = (d = new Date()) => new Date(d.getFullYear(), d.getMonth(), d.getDate()).getTime();
+// "Gen.1","Gen.2","Gen.3","Exod.1" -> [[Genesis 1–3, href], [Exodus 1, href]]
+function readings(refs) {
+  const out = [];
+  for (const ref of refs) {
+    const [o, c] = ref.split("."), b = byOsis[o];
+    const last = out[out.length - 1];
+    if (last && last.b === b && last.c2 === +c - 1) last.c2 = +c; else out.push({ b, c1: +c, c2: +c });
+  }
+  return out.map(x => [`${x.b.osis === "Ps" ? (x.c1 === x.c2 ? "Psalm" : "Psalms") : x.b.n} ${x.c1}${x.c2 !== x.c1 ? "–" + x.c2 : ""}`, refHash(x.b, x.c1)]);
+}
+function savePlan() { store.set("plan", plan); updatePlanSub(); }
+function updatePlanSub() {
+  const sub = $("plans-sub");
+  if (!plan) { sub.textContent = "Through the Bible in a year, and shorter plans"; return; }
+  getJSON("study/plans.json").then(P => {
+    const p = P.find(x => x.id === plan.id);
+    if (p) sub.textContent = `${p.n}: ${plan.done.length} of ${p.days.length} days read`;
+  }).catch(() => {});
+}
+async function renderPlans() {
+  const body = $("plans-body");
+  let P;
+  try { P = await getJSON("study/plans.json"); } catch (e) { body.textContent = "The plans couldn't be loaded. Check your connection and try again."; return; }
+  const p = plan && P.find(x => x.id === plan.id);
+  if (!p) {
+    body.replaceChildren(el("p", { class: "count", text: "Choose a plan. Your progress is kept on this device." }),
+      el("ul", { class: "plans" }, ...P.map(x => el("li", {}, el("b", { text: x.n }), el("p", { text: x.about }),
+        el("button", { class: "btn line", type: "button", text: "Start today", onclick: () => { plan = { id: x.id, start: midnight(), done: [] }; savePlan(); renderPlans(); } })))));
+    return;
+  }
+  const today = Math.min(p.days.length - 1, Math.max(0, Math.round((midnight() - plan.start) / DAY)));
+  const done = new Set(plan.done);
+  let next = 0;
+  while (next < p.days.length && done.has(next)) next++;
+  const show = next < p.days.length ? next : null;
+  const toggle = d => { done.has(d) ? done.delete(d) : done.add(d); plan.done = [...done].sort((a, b) => a - b); savePlan(); renderPlans(); };
+  const kids = [];
+  if (show == null) kids.push(el("div", { class: "today" }, el("div", { class: "kind", text: p.n }), el("h3", { text: "You’ve finished this plan." })));
+  else {
+    const behind = show < today ? ` · ${today - show} day${today - show === 1 ? "" : "s"} behind` : show > today ? " · ahead of schedule" : "";
+    kids.push(el("div", { class: "today" },
+      el("div", { class: "kind", text: `${p.n} · day ${show + 1} of ${p.days.length}${behind}` }),
+      el("h3", { text: show === today ? "Today’s reading" : "Next reading" }),
+      el("div", { class: "reads" }, ...readings(p.days[show]).map(([t, href]) => el("a", { href, onclick: () => closeSheets(), text: t }))),
+      el("div", { class: "progress", "aria-hidden": "true" }, el("i", { style: `width:${(100 * done.size / p.days.length).toFixed(1)}%` })),
+      el("div", { class: "actions" }, el("button", { class: "btn solid", type: "button", text: `Mark day ${show + 1} read`, onclick: () => toggle(show) }))));
+  }
+  const list = el("ol", { class: "days" });
+  p.days.forEach((refs, d) => {
+    const cb = el("input", { type: "checkbox", "aria-label": `Day ${d + 1} read` });
+    cb.checked = done.has(d);
+    cb.onchange = () => toggle(d);
+    list.append(el("li", { class: (done.has(d) ? "done " : "") + (d === show ? "cur" : "") }, cb, el("span", { class: "d", text: `Day ${d + 1}` }),
+      el("span", {}, ...readings(refs).flatMap(([t, href], k) => [k ? ", " : null, el("a", { href, onclick: () => closeSheets(), text: t })]).filter(Boolean))));
+  });
+  kids.push(list, el("div", { class: "actions", style: "margin-top:12px" },
+    el("button", { class: "btn line", type: "button", text: "Stop this plan", onclick: () => { if (confirm(`Stop “${p.n}”? The days you’ve marked will be cleared.`)) { plan = null; store.set("plan", null); updatePlanSub(); renderPlans(); } } })),
+    el("p", { class: "count", text: `Started ${new Date(plan.start).toLocaleDateString(undefined, { day: "numeric", month: "long", year: "numeric" })}. Your progress is kept on this device.` }));
+  body.replaceChildren(...kids);
+  setTimeout(() => list.querySelector(".cur")?.scrollIntoView({ block: "center" }), 30);
+}
+$("open-plans").onclick = () => { openSheet("plans"); renderPlans(); };
+updatePlanSub();
 
 /* ---------- A word ---------- */
 const lexCache = {};

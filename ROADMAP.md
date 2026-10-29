@@ -90,10 +90,17 @@ Chinese translation.
    book a short introduction (author, date, setting, outline, themes), written for this
    translation in plain English and labelled as drafts like the translation, with their own
    review status.
-3. **Parallel passages and reading plans.** Side-by-side parallels (the Gospels; Samuel and
-   Kings beside Chronicles; Old Testament passages quoted in the New), and reading plans
-   (through the Bible in a year, in canonical or chronological order, the New Testament, the
-   Psalms and Proverbs) with progress kept on the device and, when signed in, the account.
+3. **Parallel passages and reading plans (done).** `scripts/parallels.py` builds A. T.
+   Robertson's *Harmony of the Gospels* (1922, public domain: 184 sections, each with every
+   Gospel that tells it) and the Companion Bible's table of Samuel and Kings told again in
+   Chronicles and Isaiah (Appendix 56, public domain: 110 sets). A verse shows its section and
+   opens the passages side by side. Five reading plans: the Bible in a year in the order of the
+   books, the Bible in the order it happened (Ussher's dates via Theographic, each book's
+   chapters kept in order except Psalms and Chronicles), the New Testament in 90 days, the
+   Gospels in 30 days, and Psalms and Proverbs in a month; progress is kept on the device.
+   Still to come: Old Testament quotations in the New (no complete public-domain list was
+   found), titles for the Kings and Chronicles sets (from the section headings of step 2), and
+   reading-plan progress kept with the account.
 
 ## 2. Maps
 
