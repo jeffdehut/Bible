@@ -137,7 +137,9 @@ cost of a live one.
    Postmark, Amazon SES and others work), sending from an address on your domain.
 4. **Addresses.** Under **Authentication → URL Configuration**, set the **Site URL** to the
    site's address (for example `https://your-site.netlify.app/`), and add the same address
-   to **Redirect URLs**. Sign-in links bring readers back there.
+   to **Redirect URLs**. Sign-in links bring readers back there. (A link that opens
+   `localhost:3000` means the Site URL is still Supabase's default. An email with a link but
+   no code means that template, **Confirm signup** for a new reader, hasn't been edited.)
 5. **Turn them on.** Under **Project Settings → API Keys**, copy the project URL and the
    publishable key (or the legacy anon key) into `config.js`, and put a contact address for
    privacy questions in `contact`. Commit and push. Both values are public by design: the

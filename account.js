@@ -94,7 +94,10 @@
     render();
   }
   async function sendCode(email) {
-    await call("/auth/v1/otp", { method: "POST", auth: false, body: { email, create_user: true } });
+    // If the email carries a link as well as the code, the link brings the reader back to this
+    // page (the live site or a preview), provided Supabase's Redirect URLs allow it.
+    const back = encodeURIComponent(location.origin + location.pathname);
+    await call("/auth/v1/otp?redirect_to=" + back, { method: "POST", auth: false, body: { email, create_user: true } });
   }
   async function verify(email, token) {
     const s = await call("/auth/v1/verify", { method: "POST", auth: false, body: { type: "email", email, token } });
