@@ -10,5 +10,5 @@ window.SITE_CONFIG = {
     key: "sb_publishable_yatPH_LbBSWflCRESEjIIQ_q1H7gJqM",   // its publishable key: public by design
   },
   // Where people can write about their data, shown on privacy.html. Needed before accounts go on.
-  contact: "",   // for example "privacy@example.org"
+  contact: "privacy@bibledata.org",   // a Porkbun email forward to the owner's inbox
 };

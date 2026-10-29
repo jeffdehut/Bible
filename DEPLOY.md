@@ -159,6 +159,26 @@ change winning; after that each change is sent a few seconds after it is made. S
 leaves the notes on the device. **Delete my account** removes the account and everything in it
 at once. `privacy.html` says all this for readers; read it over before going live.
 
+## The bibledata.org domain
+
+`bibledata.org` is registered at Porkbun and keeps Porkbun's name servers; Netlify only serves
+the site. Its DNS records:
+
+| Name | Type | Value | For |
+|---|---|---|---|
+| `bibledata.org` | ALIAS | `apex-loadbalancer.netlify.com` | the site |
+| `www` | CNAME | `biblemadeplain.netlify.app` | the site (Netlify redirects it to `bibledata.org`) |
+| `bibledata.org` | MX | `fwd1.porkbun.com` (10), `fwd2.porkbun.com` (20) | Porkbun's free email forwarding |
+| `bibledata.org` | TXT | `v=spf1 include:_spf.porkbun.com ~all` | the same |
+| `send` | MX, TXT | as Resend's domain page gives them | sign-in emails sent through Resend |
+| `resend._domainkey` | TXT | as Resend's domain page gives it | the same (DKIM) |
+
+In Netlify, **Domain management → Add a domain** takes `bibledata.org`; choose to keep the DNS
+at Porkbun, and Netlify adds `www` and the HTTPS certificate itself. `privacy@bibledata.org`
+forwards, through Porkbun (**Domain Management → Email → Email Forwarding**), to the owner's
+inbox. Supabase sends its sign-in emails through Resend (see step 3 under *Accounts*), from
+`signin@bibledata.org`.
+
 ## Going live
 
 1. Add the domain under **Domain management**. Netlify provides HTTPS automatically.
