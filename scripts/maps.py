@@ -1975,6 +1975,225 @@ def roman_map():
     return data, page
 
 
+def ne_rivers(sheet, skip=()):
+    """Rivers from Natural Earth on the sheet, as (polyline in km, name, scale rank); a lower
+    rank is a larger river. Modern canals are left out."""
+    out = []
+    for ft in natural_earth("rivers_lake_centerlines"):
+        pr = ft["properties"]
+        name = pr.get("name") or ""
+        if name in skip or "Canal" in name:
+            continue
+        g = ft["geometry"]
+        for part in (g["coordinates"] if g["type"] == "MultiLineString" else [g["coordinates"]]):
+            pts = np.array([sheet.xy(lon, lat) for lon, lat in part])
+            keep = (pts[:, 0] > -20) & (pts[:, 0] < sheet.width + 20) & (pts[:, 1] > -20) & (pts[:, 1] < sheet.height + 20)
+            if keep.sum() > 1:
+                out.append((chaikin(pts[keep], 2), name, pr.get("scalerank", 9)))
+    return out
+
+
+def ne_river_layers(sheet, lines, classes=(4, 7)):
+    """River widths by Natural Earth rank: the great rivers widest."""
+    res = sheet.res
+    a, b = classes
+    return [path_d([p / res for p, _, r in lines if lo <= r < hi], res, 1) for lo, hi in ((b, 99), (a, b), (0, a))]
+
+
+# --- Map No. 4: Western Asia, the lands of the Old Testament ---------------------------------
+
+SHEET4 = (28.0, 56.0, 24.0, 42.0)
+# Lands of the Old Testament, each grown from its towns: tint, towns (OpenBible), other points,
+# reach in km, and the group it belongs to.
+LANDS4 = {
+    "Egypt": ("yellow", ["Memphis", "Zoan", "Heliopolis"], [], 30),
+    "Canaan": ("lime", ["Shechem", "Hebron", "Bethel 1", "Beersheba 1", "Jerusalem", "Dan", "Gaza", "Sidon", "Tyre"], [], 70),
+    "Edom": ("olive", ["Bozrah 1", "Sela 1", "Mount Seir 1"], [], 45),
+    "Moab": ("olive", ["Kir-hareseth", "Dibon 1"], [], 30),
+    "Aram": ("sage", ["Damascus", "Hamath 1", "Tadmor", "Riblah 1"], [(37.10, 36.48), (36.9, 34.3)], 160),
+    "Paddan-aram": ("salmon", ["Haran", "Gozan", "Carchemish"], [(39.5, 36.4), (38.6, 37.2)], 170),
+    "Assyria": ("olive", ["Nineveh", "Calah", "Asshur"], [(44.01, 36.19), (43.0, 37.0), (42.7, 36.4)], 140),
+    "Babylonia": ("yellow", ["Babylon 1", "Ur 2", "Erech", "Accad"], [(45.20, 32.13), (44.0, 33.3), (46.5, 31.0)], 150),
+    "Elam": ("lime", ["Susa"], [(48.0, 31.5), (49.5, 32.5), (48.8, 31.0)], 160),
+    "Media": ("sage", ["Ecbatana"], [(51.43, 35.60), (47.0, 35.0), (47.5, 36.8), (49.5, 36.5), (52.5, 36.0)], 260),
+    "Persia": ("salmon", [], [(52.89, 29.93), (53.17, 30.19), (51.5, 30.5), (54.5, 29.0), (52.0, 28.5)], 260),
+    "Ararat": ("yellow", ["Ararat"], [(43.33, 38.50), (41.27, 39.90), (43.0, 39.3), (45.0, 40.2)], 200),
+    "Hittites": ("olive", [], [(34.62, 40.02), (35.63, 38.85), (33.0, 39.0), (36.5, 39.5), (31.5, 38.5), (37.5, 38.2)], 250),
+    "Arabia": ("blush", ["Tema", "Dedan"], [(39.87, 29.81), (42.0, 27.5), (45.0, 26.0), (37.5, 28.0)], 300),
+}
+LAND_GROUPS4 = {"Edom": "Edom and Moab", "Moab": "Edom and Moab"}
+EGYPT_STOP = {"at": (31.60, 30.65), "site": "Egypt (Genesis names no city)", "sure": 0}
+PATRIARCHS = [
+    {"name": "Abraham", "short": "Abraham", "ref": "Genesis 11–23", "color": "red", "unit": "Stop",
+     "note": "From Ur of the Chaldeans to Haran with Terah, then into Canaan, down to Egypt and back, living in tents "
+             "from Shechem to Beersheba.",
+     "stops": [
+         ("Ur 2", "Ur", "Genesis 11:31", None, {"what": "Terah sets out with Abram, Sarai and Lot"}),
+         ("Haran", "Haran", "Genesis 11:31", "land", {"what": "Terah dies; God calls Abram (Genesis 12:1)", "guess": True,
+                                                       "via": [(45.20, 32.15), (44.30, 32.95), (42.95, 34.10), (41.90, 34.45),
+                                                               (40.90, 34.55), (40.10, 35.30), (39.00, 35.95)],
+                                                       "note": "Up the Euphrates, the caravan road; Genesis gives no way."}),
+         ("Shechem", "Shechem", "Genesis 12:6", "land", {"what": "The oak of Moreh; the promise of the land"}),
+         ("Bethel 1", "Bethel", "Genesis 12:8", "land"),
+         ("Negeb", "The Negev", "Genesis 12:9", "land", {"word": "Negev", "why": "Not plotted: a region, the dry south of Canaan."}),
+         (None, "Egypt", "Genesis 12:10", "land", EGYPT_STOP | {"what": "Abram goes down in a famine"}),
+         ("Bethel 1", "Bethel", "Genesis 13:3", "land", {"what": "Abram and Lot part"}),
+         ("Hebron", "Hebron", "Genesis 13:18", "land", {"what": "The oaks of Mamre"}),
+         ("Dan", "Dan", "Genesis 14:14", "land", {"what": "Abram pursues the kings to rescue Lot"}),
+         ("Hobah", "Hobah", "Genesis 14:15", "land"),
+         ("Salem", "Salem", "Genesis 14:18", "land", {"what": "Melchizedek blesses Abram"}),
+         ("Gerar", "Gerar", "Genesis 20:1", "land"),
+         ("Beersheba 1", "Beersheba", "Genesis 21:31", "land", {"what": "The oath with Abimelech"}),
+         ("Moriah", "Land of Moriah", "Genesis 22:2", "land", {"word": "Moriah", "at": (35.2356, 31.7778), "sure": 0,
+                                                               "site": "Jerusalem (2 Chronicles 3:1)",
+                                                               "what": "Abraham offers Isaac",
+                                                               "note": "2 Chronicles 3:1 places Mount Moriah at Jerusalem."}),
+         ("Beersheba 1", "Beersheba", "Genesis 22:19", "land"),
+         ("Hebron", "Hebron", "Genesis 23:2", "land", {"what": "Sarah dies; the cave of Machpelah"}),
+     ]},
+    {"name": "Jacob", "short": "Jacob", "ref": "Genesis 28–46", "color": "blue", "unit": "Stop",
+     "note": "Jacob flees from Esau to Laban at Haran, returns with his family twenty years later, and at last goes "
+             "down with all Israel to Egypt.",
+     "stops": [
+         ("Beersheba 1", "Beersheba", "Genesis 28:10", None),
+         ("Bethel 1", "Bethel", "Genesis 28:19", "land", {"what": "The ladder to heaven"}),
+         ("Haran", "Haran", "Genesis 29:4", "land", {"what": "Twenty years with Laban; Leah and Rachel"}),
+         ("Mizpah 4", "Mizpah", "Genesis 31:49", "land", {"what": "The covenant with Laban"}),
+         ("Mahanaim", "Mahanaim", "Genesis 32:3", "land", {"what": "The angels of God meet him"}),
+         ("Penuel", "Peniel", "Genesis 32:31", "land", {"what": "Jacob wrestles with God and is named Israel"}),
+         ("Succoth 1", "Succoth", "Genesis 33:17", "land"),
+         ("Shechem", "Shechem", "Genesis 33:18", "land"),
+         ("Bethel 1", "Bethel", "Genesis 35:6", "land"),
+         ("Ephrath", "Ephrath", "Genesis 35:19", "land", {"what": "Rachel dies; Benjamin is born"}),
+         ("Hebron", "Hebron", "Genesis 35:27", "land", {"what": "Isaac dies"}),
+         ("Beersheba 1", "Beersheba", "Genesis 46:1", "land"),
+         ("Goshen 1", "Goshen", "Genesis 46:28", "land", {"at": (31.834, 30.799), "sure": 0, "site": "the Wadi Tumilat (traditional)",
+                                                          "what": "Jacob meets Joseph"}),
+     ]},
+    {"name": "Joseph", "short": "Joseph", "ref": "Genesis 37", "color": "green", "unit": "Stop",
+     "note": "Sent by Jacob to find his brothers, Joseph is sold to traders and taken down to Egypt.",
+     "stops": [
+         ("Hebron", "Hebron", "Genesis 37:14", None, {"what": "Jacob sends Joseph"}),
+         ("Shechem", "Shechem", "Genesis 37:14", "land"),
+         ("Dothan", "Dothan", "Genesis 37:17", "land", {"what": "Sold to traders for twenty pieces of silver"}),
+         (None, "Egypt", "Genesis 37:36", "land", EGYPT_STOP | {"what": "Sold to Potiphar"}),
+     ]},
+]
+
+
+def western_asia_map():
+    """Map No. 4, as a dict ready for JSON, and the words for its page."""
+    sheet = Sheet(*SHEET4, res=2.0)
+    sheet.elev = elev = elevation(sheet, 6)
+    sea = sea_mask(sheet, elev, [(32.0, 33.5), (31.5, 41.8), (37.5, 41.5), (36.0, 25.0), (51.0, 27.0), (34.6, 28.8)])
+    sea |= _component(elev <= -27, sheet, 51.0, 40.0)          # the Caspian, at its old level
+    lakes = ne_lakes(sheet, skip=("Lake Razazah",)) & ~sea
+    lakes |= ndimage.binary_fill_holes(_component(elev <= -392, sheet, 35.50, 31.50))
+    wet = sea | lakes
+    land = ~sea
+    all_places = places()
+    by_name = {p["name"]: p for p in all_places}
+    ours = our_spellings()
+    res = sheet.res
+    flow = drainage(sheet, elev, wet, 2)
+    rivers4 = ne_rivers(sheet)
+    nile_km = [p for p, n, _ in rivers4 if n in ("Nile", "Rosetta Branch", "Damietta Branch")]
+
+    seeds4 = []
+    for n, (_, towns, extra, _) in LANDS4.items():
+        seeds4 += [(t, n, by_name[t]["lon"], by_name[t]["lat"]) for t in towns]
+        seeds4 += [(n, n, lon, lat) for lon, lat in extra]
+    for line in nile_km:
+        for x, y in line[::4]:
+            lon, lat = sheet.lonlat(x, y)
+            if 24 < lat < 31.3:
+                seeds4.append(("Nile", "Egypt", lon, lat))
+    names4 = list(LANDS4)
+    terr, _ = territories(sheet, elev, wet, flow + (2,), seeds4, step=2, cap_km={n: v[3] for n, v in LANDS4.items()},
+                          names=names4, barrier=None, keep_seeded=True)
+    terr = give_islands(terr, land & ~lakes, max_cells=int(3000 / res ** 2))
+    groups = {n: LAND_GROUPS4.get(n, n) for n in names4}
+    tints = {groups[n]: v[0] for n, v in LANDS4.items()}
+
+    layers, _ = terrain_layers(sheet, land, lakes, flow, wet, 1e12, 9.0, ripple_km=(3.5, 8, 14, 21, 30, 41), min_slope=1.6)
+    layers["rivers"] = ne_river_layers(sheet, rivers4)
+    fills, labels, layers["borders"] = territory_layers(sheet, terr, names4, groups, tints)
+    for lb in labels:
+        lb["style"] = "nation"
+    for text, pts, size in [("GREAT SEA", [(29.0, 33.6), (32.6, 33.3)], 34), ("RED SEA", [(36.2, 25.6), (37.9, 24.4)], 30),
+                            ("PERSIAN GULF", [(50.0, 28.4), (52.6, 26.8)], 30), ("CASPIAN SEA", [(50.6, 41.5), (51.6, 38.0)], 30),
+                            ("BLACK SEA", [(32.5, 42.0), (36.5, 41.8)], 28)]:
+        labels.append({"text": text, "style": "redsea" if text == "RED SEA" else "sea", "pts": line_km(sheet, pts, 2), "size": size})
+
+    pl = place_records(sheet, all_places, OT_BOOKS, ours, terr, names4, min_score=300)
+    journeys = build_journeys(sheet, PATRIARCHS, by_name, cost_grid(sheet, wet, step=2, slope_weight=8.0),
+                              sea_grid(sheet, sea), pl)
+
+    feats = {"mountains": [], "rivers": [], "waters": [],
+             "regions": region_labels(sheet, by_name, ours, ["Shinar", "Paddan-aram", "Midian", "Goshen 1", "Chaldea"], OT_BOOKS)}
+    for n, lon, lat, length in (("Euphrates", 40.6, 35.0, 260), ("Tigris", 44.6, 33.6, 240), ("Nile", 31.2, 27.5, 260),
+                                ("Jordan", 35.57, 32.3, 80), ("Ulai", 48.3, 31.9, 120)):
+        line = follow([p for p, *_ in rivers4], lon, lat, sheet, length, reach_km=40)
+        if line:
+            feats["rivers"].append({"n": n, "pts": line, "main": n in ("Euphrates", "Tigris", "Nile")})
+    for name, lon, lat in (("Mt. Ararat", 44.30, 39.70), ("Mt. Sinai (traditional)", 33.97, 28.54), ("Mt. Lebanon", 36.12, 34.30)):
+        x, y = sheet.xy(lon, lat)
+        feats["mountains"].append({"n": name, "x": round(x, 2), "y": round(y, 2)})
+
+    key_rows = [["camp", "Stop on a journey"], ["camp-unsure", "Stop, place uncertain (?)"]]
+    key_rows += [["journey", f"{J['name']} ({J['ref']})", J["color"]] for J in journeys]
+    key_rows += [["conjectural", "Way uncertain"], ["gap", ""], ["dot", "Town"], ["unsure", "Site uncertain (?)"],
+                 ["mount", "Mountain"], ["river", "River"], ["nation", "Border of a land"], ["gap", ""]]
+    by_tint = {}
+    for n, v in LANDS4.items():
+        by_tint.setdefault(v[0], []).append(n)
+    for tint in ("yellow", "salmon", "lime", "sage", "olive", "blush"):
+        key_rows.append(["swatch", ", ".join(by_tint[tint]), tint])
+    data = {
+        "sheet": sheet_info(sheet), "grid": 2, "focus": 0.45, "file": "map-04-western-asia",
+        "page": {"w": 10.3, "h": 7.8}, "layers": layers, "territories": fills, "labels": labels,
+        "places": pl, "features": feats, "territoryLabel": "Land", "journeys": journeys,
+        "routeButton": "Journeys", "routesTitle": "The journeys of the patriarchs",
+        "routesNote": "Choose a journey to follow it stop by stop. Each stop is named in the verse given.",
+        "routeLayer": "The journeys of Abraham, Jacob and Joseph",
+        "title": furniture_height({"box": {"x": 12, "y": 835, "w": 560}, "scale": 4.4, "lines": [
+            ["series", "MAP No. 4 · A STYLE STUDY", 7.5], ["display-fit", "WESTERN ASIA", 20],
+            ["sub", "THE LANDS OF THE OLD TESTAMENT", 27.5],
+            ["italic", "From Egypt to Persia, with the journeys of Abraham, Jacob and Joseph,", 33.5],
+            ["italic", "and the places named in the Old Testament whose location is known", 37.4], ["rule", "", 40.6],
+            ["plain", "The patriarchs: 1921–1706 BC by Ussher’s chronology,", 45.5],
+            ["plain", "about 2000–1700 BC by modern reckoning", 49.5],
+            ["credit", "After the Eilers Sunday School Maps, St. Louis · Drawn from open data · CC BY 4.0", 54]]}),
+        "key": {"box": {"x": 1100, "y": 1330, "w": 330}, "scale": 5.0, "scale_bars": [[0, 50, 100, 150], [0, 100, 200]],
+                "rows": key_rows},
+    }
+    page = {
+        "slug": "western-asia", "NO": "4", "H1": "Western Asia", "TITLE": "Western Asia Map",
+        "DESCRIPTION": "Map No. 4, a style study after the Eilers Sunday School wall maps: the lands of the Old Testament "
+                       "from Egypt to Persia, with the journeys of Abraham, Jacob and Joseph, drawn from open data.",
+        "PAGE": "letter landscape", "PAGE_W": "10.3", "PAGE_H": "7.8",
+        "GRID_LABEL": "Two-degree squares, as used by the index",
+        "GRID_NOTE": "Grid squares are two degrees of latitude and longitude: letters across the top, numbers down the side.",
+        "ABOUT": about_html(
+            "A <strong>style study</strong> for the project's Bible maps, after <strong>Eilers Sunday School Map No. "
+            "4</strong>, <em>Western Asia</em> (A. H. Eilers &amp; Co., St. Louis), redrawn from open data.",
+            ["Flat tints for each land, with the seas left as paper", KEPT[1],
+             "Each journey in its own color, with the stops numbered", KEPT[3], KEPT[4]], CHANGED,
+            ["<strong>Land, water and relief</strong> come from elevation data; the rivers and lakes from Natural "
+             "Earth, leaving out modern reservoirs. The Caspian and the Dead Sea are drawn at their old levels.",
+             "<strong>The journeys</strong> follow Genesis. Every stop is named in the verse given, and the build "
+             "checks each name against this project's translation. Where Genesis names only Egypt, the stop is "
+             "placed in the eastern Delta and marked uncertain.",
+             "<strong>Lands are approximate</strong>, grown from their towns, and gather peoples of different "
+             "centuries onto one sheet, as Eilers did: the Hittites and Paddan-aram of the patriarchs beside the "
+             "Media and Persia of the exile.",
+             PLACES_MADE.format(books="the Old Testament").replace("Places scored below 500", "Places scored at least "
+                                                                    "300 are shown; those below 500"), NAMES_MADE],
+            SOURCES + ["Rivers and lakes: Natural Earth (public domain)"]),
+    }
+    return data, page
+
+
 # --- Map No. 1: Palestine in the time of Christ ------------------------------------------------
 
 GOSPELS = ["Matt", "Mark", "Luke", "John"]
@@ -2216,7 +2435,8 @@ def write_map(data, page):
         f.write(webpages.STANDALONE.format(page=body))
 
 
-MAPS = {"palestine": palestine_map, "roman-empire": roman_map, "exodus": exodus_map, "kingdoms": kingdoms_map}
+MAPS = {"palestine": palestine_map, "roman-empire": roman_map, "western-asia": western_asia_map, "exodus": exodus_map,
+        "kingdoms": kingdoms_map}
 
 
 def main():
