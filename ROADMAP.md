@@ -11,7 +11,7 @@ Chinese translation.
 |---|---|
 | Who it's for | Phone users first; tablets and desktops follow from the same design. |
 | Hosting | For now, a test site on Netlify (`biblemadeplain.netlify.app`), published from GitHub: `main` live, other branches as free previews. Each live publish uses 15 of the free plan's 300 monthly credits. Later, perhaps Porkbun (domain, static hosting and email in one place) or Cloudflare Pages, together with the owner's other sites. |
-| Domain | Not yet chosen. Candidates, all unregistered on 29 Oct 2026: `madeplain.org` (the first choice, after Habakkuk 2:2), `madeplain.app`, `biblemadeplain.app`, `bibledata.org`. |
+| Domain | `bibledata.org`, registered at Porkbun on 29 Oct 2026 (renews 29 Oct each year). To be pointed at the Netlify test site, with the sign-in emails sent from it. |
 | Annotations | Saved on the device first. Accounts come later, and signing in merges the device's highlights and notes into the account. |
 | Versions | Only the Open Plain English Translation, beside the Hebrew, Aramaic and Greek it is translated from. |
 | Draft status | Every chapter is clearly labeled as a draft until it is reviewed (see *Draft labels* below). |
@@ -377,7 +377,7 @@ A new translation into Traditional Chinese (繁體中文), made like the English
 
 ## Open questions
 
-- Domain and hosting account (see *Decisions so far*).
+- Pointing `bibledata.org` at the site, and a long-term home for the hosting (see *Decisions so far*).
 - Accounts: a mail service to send sign-in emails from the site's domain (until then Supabase's
   own mail reaches only the project's team, with a link and no code), and a contact address for
   privacy questions (DEPLOY.md, *Accounts*).
