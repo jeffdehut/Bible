@@ -9,7 +9,7 @@
 
 **1** The oracle[^1-1] that Habakkuk the prophet saw.[^1-2]
 
-**2** How long, Yahweh,[^1-3] must I cry for help, and you do not listen? I cry out to you, "Violence!" but you do not save.
+**2** How long, LORD,[^1-3] must I cry for help, and you do not listen? I cry out to you, "Violence!" but you do not save.
 
 **3** Why do you make me see wickedness, and why do you look on trouble?[^1-4] Destruction and violence are before me; there is strife, and conflict rises up.
 
@@ -29,7 +29,7 @@
 
 **11** Then they sweep past like the wind and go on, guilty men, whose own strength is their god."[^1-14]
 
-**12** Are you not from of old, Yahweh, my God, my Holy One? We will not die.[^1-15] Yahweh, you have appointed them to execute judgment; Rock,[^1-16] you have established them to punish.
+**12** Are you not from of old, LORD, my God, my Holy One? We will not die.[^1-15] LORD, you have appointed them to execute judgment; Rock,[^1-16] you have established them to punish.
 
 **13** Your eyes are too pure to look on evil, and you cannot look on wrongdoing. Why then do you look on the treacherous and keep silent when the wicked swallow up those more righteous than they?
 
@@ -42,8 +42,8 @@
 **17** Will he therefore keep emptying his net[^1-19] and go on killing nations without mercy?
 
 [^1-1]: Hebrew *massa*, from the verb "to lift up, carry": a message "lifted up" by the prophet, or a "burden" laid on a nation. Traditionally "the burden".
-[^1-2]: Nothing certain is known of Habakkuk. He probably prophesied in the last years of the seventh century BC, when the Babylonians were rising to power (verse 6). The book is a dialogue: Habakkuk complains (1:2–4), Yahweh answers (1:5–11), Habakkuk complains again (1:12–17), and Yahweh answers again (2:2–20). Because the speakers alternate, Yahweh's replies are put in quotation marks.
-[^1-3]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^1-2]: Nothing certain is known of Habakkuk. He probably prophesied in the last years of the seventh century BC, when the Babylonians were rising to power (verse 6). The book is a dialogue: Habakkuk complains (1:2–4), the LORD answers (1:5–11), Habakkuk complains again (1:12–17), and the LORD answers again (2:2–20). Because the speakers alternate, the LORD's replies are put in quotation marks.
+[^1-3]: *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles.
 [^1-4]: Or "Why do you make me look on trouble?"
 [^1-5]: Hebrew *torah*, "instruction, teaching, law".
 [^1-6]: The Septuagint reads "Look, you scoffers", and Paul quotes this verse in that form in Acts 13:41.
@@ -67,7 +67,7 @@
 
 **1** I will stand at my watch post and station myself on the rampart. I will watch to see what he will say to me,[^2-1] and what I will answer concerning my complaint.[^2-2]
 
-**2** Then Yahweh[^2-3] answered me: "Write down the vision; make it plain on tablets, so that the one who reads it may run.[^2-4]
+**2** Then the LORD[^2-3] answered me: "Write down the vision; make it plain on tablets, so that the one who reads it may run.[^2-4]
 
 **3** For the vision is still for the appointed time. It hurries[^2-5] toward the end, and it will not lie. If it seems slow, wait for it; it will surely come, it will not delay.
 
@@ -89,13 +89,13 @@
 
 **12** Woe to him who builds a city with bloodshed and founds a town on injustice![^2-18]
 
-**13** Is it not from Yahweh of Armies[^2-19] that peoples wear themselves out only for the fire, and nations exhaust themselves for nothing?[^2-20]
+**13** Is it not from the LORD of Armies[^2-19] that peoples wear themselves out only for the fire, and nations exhaust themselves for nothing?[^2-20]
 
-**14** For the earth will be filled with the knowledge of the glory of Yahweh, as the waters cover the sea.[^2-21]
+**14** For the earth will be filled with the knowledge of the glory of the LORD, as the waters cover the sea.[^2-21]
 
 **15** Woe to him who makes his neighbors drink, pouring out your wrath[^2-22] and making them drunk, in order to gaze on their nakedness![^2-23]
 
-**16** You will be filled with shame instead of glory. Drink, you too, and show your foreskin![^2-24] The cup in Yahweh's right hand will come around to you, and utter disgrace[^2-25] will cover your glory.
+**16** You will be filled with shame instead of glory. Drink, you too, and show your foreskin![^2-24] The cup in the LORD's right hand will come around to you, and utter disgrace[^2-25] will cover your glory.
 
 **17** For the violence done to Lebanon[^2-26] will overwhelm you, and the destruction of the animals will terrify you,[^2-27] because of the blood of human beings and violence done to the earth, to the city and all who live in it.
 
@@ -103,11 +103,11 @@
 
 **19** Woe to him who says to a piece of wood, "Wake up!" and to a silent stone, "Get up!" Can it teach? Look, it is overlaid with gold and silver, but there is no breath[^2-29] in it at all.'
 
-**20** But Yahweh is in his holy temple. Let all the earth be silent before him."[^2-30]
+**20** But the LORD is in his holy temple. Let all the earth be silent before him."[^2-30]
 
 [^2-1]: Literally "what he will speak in me".
 [^2-2]: Or "when I am rebuked".
-[^2-3]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^2-3]: *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles.
 [^2-4]: Perhaps "so that a herald may run with it", carrying the message, or "so that it can be read easily".
 [^2-5]: Literally "it pants". Or "it testifies": the Hebrew word can also mean "witness".
 [^2-6]: The meaning of the Hebrew word, *uppelah*, is uncertain. The Septuagint reads "If he shrinks back, my soul takes no pleasure in him".
@@ -142,7 +142,7 @@
 
 **1** A prayer of Habakkuk the prophet. According to Shigionoth.[^3-1]
 
-**2** Yahweh,[^3-2] I have heard the report of you; I stand in awe, Yahweh, of your work.[^3-3] In the midst of the years revive it; in the midst of the years make it known.[^3-4] In wrath, remember mercy.
+**2** LORD,[^3-2] I have heard the report of you; I stand in awe, LORD, of your work.[^3-3] In the midst of the years revive it; in the midst of the years make it known.[^3-4] In wrath, remember mercy.
 
 **3** God[^3-5] came from Teman, the Holy One from Mount Paran.[^3-6] Selah.[^3-7] His splendor covered the heavens, and the earth was full of his praise.[^3-8]
 
@@ -154,7 +154,7 @@
 
 **7** I saw the tents of Cushan in distress;[^3-13] the tent curtains of the land of Midian trembled.
 
-**8** Was your anger against the rivers, Yahweh? Was your wrath against the rivers, or your fury against the sea,[^3-14] when you rode on your horses, on your chariots of victory?
+**8** Was your anger against the rivers, LORD? Was your wrath against the rivers, or your fury against the sea,[^3-14] when you rode on your horses, on your chariots of victory?
 
 **9** Your bow was laid bare; arrows were sworn by your word.[^3-15] Selah. You split the earth with rivers.
 
@@ -174,24 +174,24 @@
 
 **17** Though the fig tree does not blossom, and there is no fruit on the vines, though the olive crop fails, and the fields produce no food, though the flock is cut off from the fold, and there are no cattle in the stalls,
 
-**18** yet I will rejoice in Yahweh; I will be joyful in the God of my salvation.
+**18** yet I will rejoice in the LORD; I will be joyful in the God of my salvation.
 
-**19** Yahweh, the Lord,[^3-23] is my strength. He makes my feet like the feet of a deer, and makes me walk on my heights.[^3-24] For the director. With my stringed instruments.[^3-25]
+**19** GOD, the Lord,[^3-23] is my strength. He makes my feet like the feet of a deer, and makes me walk on my heights.[^3-24] For the director. With my stringed instruments.[^3-25]
 
 [^3-1]: Hebrew *shigyonot*, the plural of *shiggayon* (Psalm 7:1), a term of uncertain meaning, perhaps a lament, or a song with a changing rhythm. This chapter is a psalm, with a title, the word *Selah* (verses 3, 9 and 13) and a note for the musicians at the end (verse 19), like the psalms of the book of Psalms.
-[^3-2]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
-[^3-3]: Or "Yahweh, I have heard of your fame; I fear, Yahweh, your work."
+[^3-2]: *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles.
+[^3-3]: Or "LORD, I have heard of your fame; I fear, LORD, your work."
 [^3-4]: The Septuagint reads "In the midst of two living creatures you will be known", reading the Hebrew words for "years" and "revive it" differently.
 [^3-5]: Hebrew *Eloah*, a poetic word for God.
-[^3-6]: Teman, in Edom, and Mount Paran, in the wilderness south of Judah, lay on the way from Sinai. Yahweh is pictured coming from the south, as in Deuteronomy 33:2 and Judges 5:4–5. The verbs in verses 3–15 may describe what Yahweh did in the past, at the exodus and at Sinai, or what he will do.
+[^3-6]: Teman, in Edom, and Mount Paran, in the wilderness south of Judah, lay on the way from Sinai. The LORD is pictured coming from the south, as in Deuteronomy 33:2 and Judges 5:4–5. The verbs in verses 3–15 may describe what the LORD did in the past, at the exodus and at Sinai, or what he will do.
 [^3-7]: Hebrew *selah*, a musical or liturgical term of uncertain meaning. Also in verses 9 and 13.
 [^3-8]: Or "his glory".
 [^3-9]: Literally "horns from his hand were his". The same word is used of the rays of light from Moses' face (Exodus 34:29–30).
-[^3-10]: Hebrew *deber* and *resheph*. Resheph was the name of a Canaanite god of plague. Here plague and pestilence attend Yahweh like servants.
+[^3-10]: Hebrew *deber* and *resheph*. Resheph was the name of a Canaanite god of plague. Here plague and pestilence attend the LORD like servants.
 [^3-11]: Or "shook". The same consonants can be read either way.
 [^3-12]: Or "Ancient paths are his", or "His ways are everlasting".
 [^3-13]: Literally "under trouble". Cushan was probably a people living near Midian, in the desert east and south of Edom.
-[^3-14]: The waters that Yahweh divided at the Red Sea and at the Jordan (Psalm 114:3–5), and the sea as the power of chaos that he overcomes (Psalm 74:13–14).
+[^3-14]: The waters that the LORD divided at the Red Sea and at the Jordan (Psalm 114:3–5), and the sea as the power of chaos that he overcomes (Psalm 74:13–14).
 [^3-15]: The Hebrew is very difficult. Literally "oaths of rods, a word". *Rods* may mean "arrows" (verse 14) or "tribes".
 [^3-16]: Compare Psalm 77:17–19 (77:16–18 in most English Bibles).
 [^3-17]: Hebrew *zevulah*, "lofty dwelling". Compare Joshua 10:12–13.
@@ -200,6 +200,6 @@
 [^3-20]: Literally "With his rods you pierced the head of his warriors". The Hebrew text is written "his warrior" but read "his warriors". The meaning of the word for warriors, *perazav*, is uncertain.
 [^3-21]: Literally "my belly trembled".
 [^3-22]: Or "I must wait quietly". Hebrew *anuach*, "I will rest".
-[^3-23]: Hebrew *YHWH Adonai*, "Yahweh, my Lord".
+[^3-23]: Hebrew *YHWH Adonai*, "YHWH, my Lord". Next to "Lord", God's personal name is written GOD in capitals, as in most English Bibles.
 [^3-24]: Nearly the same words are found in Psalm 18:34 (18:33 in most English Bibles).
 [^3-25]: *For the director*: Hebrew *lamenatseach*, probably the leader of the temple music, a note found at the head of many psalms (Psalm 4:1). Here it closes the psalm.

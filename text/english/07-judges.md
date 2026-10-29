@@ -7,13 +7,13 @@
 
 *Status: draft*
 
-**1** After the death of Joshua, the Israelites asked Yahweh,[^1-1] "Which of us is to go up first against the Canaanites, to fight against them?"
+**1** After the death of Joshua, the Israelites asked the LORD,[^1-1] "Which of us is to go up first against the Canaanites, to fight against them?"
 
-**2** Yahweh said, "Judah is to go up. I have handed the land over to him."[^1-2]
+**2** The LORD said, "Judah is to go up. I have handed the land over to him."[^1-2]
 
 **3** Judah said to his brother Simeon, "Come up with me into my allotted territory,[^1-3] and let us fight against the Canaanites. Then I too will go with you into your allotted territory." So Simeon went with him.
 
-**4** Judah went up, and Yahweh handed the Canaanites and the Perizzites over to them. They defeated ten thousand men at Bezek.
+**4** Judah went up, and the LORD handed the Canaanites and the Perizzites over to them. They defeated ten thousand men at Bezek.
 
 **5** At Bezek they found Adoni-bezek[^1-4] and fought against him, and they defeated the Canaanites and the Perizzites.
 
@@ -43,13 +43,13 @@
 
 **18** Judah also captured Gaza and its territory, Ashkelon and its territory, and Ekron and its territory.[^1-24]
 
-**19** Yahweh was with Judah, and Judah took possession of the hill country. But they could not drive out the people living in the plain,[^1-25] because they had iron chariots.[^1-26]
+**19** The LORD was with Judah, and Judah took possession of the hill country. But they could not drive out the people living in the plain,[^1-25] because they had iron chariots.[^1-26]
 
 **20** Hebron was given to Caleb, as Moses had promised,[^1-27] and he drove out from there the three sons of Anak.[^1-28]
 
 **21** But the Benjaminites did not drive out the Jebusites who lived in Jerusalem. So the Jebusites have lived with the Benjaminites in Jerusalem to this day.
 
-**22** The house of Joseph[^1-29] also went up against Bethel, and Yahweh was with them.
+**22** The house of Joseph[^1-29] also went up against Bethel, and the LORD was with them.
 
 **23** The house of Joseph sent men to spy out Bethel. (The city was formerly called Luz.)
 
@@ -79,7 +79,7 @@
 
 **36** The border of the Amorites ran from the Ascent of Akrabbim,[^1-36] from Sela,[^1-37] and upward.
 
-[^1-1]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles. To "ask Yahweh" was to seek a ruling from him, probably by the sacred lot (Numbers 27:21; 1 Samuel 14:37–42).
+[^1-1]: *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles. To "ask the LORD" was to seek a ruling from him, probably by the sacred lot (Numbers 27:21; 1 Samuel 14:37–42).
 [^1-2]: Literally "Look, I have given the land into his hand." Judah is spoken of as one person, the tribe's ancestor; also in verse 3.
 [^1-3]: Literally "into my lot": the territory assigned to each tribe by lot (Joshua 15; 19:1–9).
 [^1-4]: *Adoni-bezek* means "lord of Bezek".
@@ -121,53 +121,53 @@
 
 *Status: draft*
 
-**1** The angel of Yahweh[^2-1] went up from Gilgal to Bochim and said, "I brought you up from Egypt and brought you into the land that I promised on oath to your ancestors. I said, 'I will never break my covenant with you,
+**1** The angel of the LORD[^2-1] went up from Gilgal to Bochim and said, "I brought you up from Egypt and brought you into the land that I promised on oath to your ancestors. I said, 'I will never break my covenant with you,
 
 **2** and you must not make a covenant with the people who live in this land. You must tear down their altars.' But you have not obeyed me.[^2-2] What is this you have done?
 
 **3** So I also say this:[^2-3] I will not drive them out before you. They will become thorns in your sides,[^2-4] and their gods will be a trap for you."
 
-**4** When the angel of Yahweh had spoken these words to all the Israelites, the people wept aloud.[^2-5]
+**4** When the angel of the LORD had spoken these words to all the Israelites, the people wept aloud.[^2-5]
 
-**5** They named that place Bochim,[^2-6] and they offered sacrifices there to Yahweh.
+**5** They named that place Bochim,[^2-6] and they offered sacrifices there to the LORD.
 
 **6** When Joshua had sent the people away, the Israelites went, each to his own inheritance, to take possession of the land.[^2-7]
 
-**7** The people served Yahweh all the days of Joshua, and all the days of the elders who outlived Joshua, who had seen all the great work that Yahweh had done for Israel.
+**7** The people served the LORD all the days of Joshua, and all the days of the elders who outlived Joshua, who had seen all the great work that the LORD had done for Israel.
 
-**8** Joshua son of Nun, the servant of Yahweh, died at the age of 110.
+**8** Joshua son of Nun, the servant of the LORD, died at the age of 110.
 
 **9** They buried him in the territory he had inherited, at Timnath-heres[^2-8] in the hill country of Ephraim, north of Mount Gaash.
 
-**10** That whole generation also was gathered to its ancestors, and after them another generation grew up who did not know Yahweh or the work he had done for Israel.
+**10** That whole generation also was gathered to its ancestors, and after them another generation grew up who did not know the LORD or the work he had done for Israel.
 
-**11** Then the Israelites did what was evil in the sight of Yahweh and served the Baals.[^2-9]
+**11** Then the Israelites did what was evil in the sight of the LORD and served the Baals.[^2-9]
 
-**12** They abandoned Yahweh, the God of their ancestors, who had brought them out of the land of Egypt. They followed other gods, gods of the peoples around them, and bowed down to them, and they provoked Yahweh to anger.
+**12** They abandoned the LORD, the God of their ancestors, who had brought them out of the land of Egypt. They followed other gods, gods of the peoples around them, and bowed down to them, and they provoked the LORD to anger.
 
-**13** They abandoned Yahweh and served Baal and the Ashtoreths.[^2-10]
+**13** They abandoned the LORD and served Baal and the Ashtoreths.[^2-10]
 
-**14** Yahweh's anger burned against Israel, and he handed them over to raiders, who plundered them. He sold them into the power[^2-11] of their enemies all around, and they could no longer stand up to their enemies.
+**14** The LORD's anger burned against Israel, and he handed them over to raiders, who plundered them. He sold them into the power[^2-11] of their enemies all around, and they could no longer stand up to their enemies.
 
-**15** Whenever they went out to fight, the hand of Yahweh was against them to bring them disaster, just as Yahweh had said and as Yahweh had sworn to them. They were in great distress.
+**15** Whenever they went out to fight, the hand of the LORD was against them to bring them disaster, just as the LORD had said and as the LORD had sworn to them. They were in great distress.
 
-**16** Then Yahweh raised up judges,[^2-12] and they saved them from the power of those who plundered them.
+**16** Then the LORD raised up judges,[^2-12] and they saved them from the power of those who plundered them.
 
-**17** But they would not listen even to their judges. They prostituted themselves to other gods[^2-13] and bowed down to them. They were quick to turn aside from the way their ancestors had walked in obedience to Yahweh's commands. They did not do as their ancestors did.
+**17** But they would not listen even to their judges. They prostituted themselves to other gods[^2-13] and bowed down to them. They were quick to turn aside from the way their ancestors had walked in obedience to the LORD's commands. They did not do as their ancestors did.
 
-**18** Whenever Yahweh raised up judges for them, Yahweh was with the judge and saved them from the power of their enemies as long as the judge lived. For Yahweh was moved to pity[^2-14] by their groaning because of those who oppressed them and crushed them.
+**18** Whenever the LORD raised up judges for them, the LORD was with the judge and saved them from the power of their enemies as long as the judge lived. For the LORD was moved to pity[^2-14] by their groaning because of those who oppressed them and crushed them.
 
 **19** But when the judge died, they would turn back and act more corruptly than their ancestors, following other gods to serve them and bow down to them. They did not give up any of their practices or their stubborn ways.[^2-15]
 
-**20** So Yahweh's anger burned against Israel, and he said, "This nation has broken[^2-16] my covenant, which I commanded their ancestors, and has not obeyed me.
+**20** So the LORD's anger burned against Israel, and he said, "This nation has broken[^2-16] my covenant, which I commanded their ancestors, and has not obeyed me.
 
 **21** So I in turn will no longer drive out before them any of the nations that Joshua left when he died.
 
-**22** I will use them to test Israel, to see whether they will keep the way of Yahweh and walk in it, as their ancestors kept it, or not."
+**22** I will use them to test Israel, to see whether they will keep the way of the LORD and walk in it, as their ancestors kept it, or not."
 
-**23** So Yahweh left those nations in the land. He did not drive them out quickly, and he did not hand them over to Joshua.
+**23** So the LORD left those nations in the land. He did not drive them out quickly, and he did not hand them over to Joshua.
 
-[^2-1]: Or "the messenger of Yahweh". Hebrew *mal'akh* means messenger. Here the angel speaks in Yahweh's name, as in Genesis 16:7–13. *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^2-1]: Or "the messenger of the LORD". Hebrew *mal'akh* means messenger. Here the angel speaks in the LORD's name, as in Genesis 16:7–13. *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles.
 [^2-2]: Literally "listened to my voice"; also in verse 20.
 [^2-3]: Or "And I also said". Compare Numbers 33:55; Joshua 23:13.
 [^2-4]: Literally "They will be sides to you." The phrase is probably short for "thorns in your sides", as in Numbers 33:55.
@@ -179,7 +179,7 @@
 [^2-10]: Hebrew *ashtarot*, plural of *Ashtoreth* (Astarte), a Canaanite goddess. The plural refers to her local forms, or to goddesses in general.
 [^2-11]: Literally "into the hand"; also in verses 16 and 18.
 [^2-12]: Hebrew *shofetim*: leaders who rescued Israel and governed it. The word means more than a judge in a court. Also in verses 17–19.
-[^2-13]: Literally "they went whoring after other gods", an image of unfaithfulness to Yahweh, as of a wife to her husband.
+[^2-13]: Literally "they went whoring after other gods", an image of unfaithfulness to the LORD, as of a wife to her husband.
 [^2-14]: Or "relented". Hebrew *nicham*, "be sorry, change one's mind, feel compassion".
 [^2-15]: Literally "They did not let anything fall from their deeds and from their hard way."
 [^2-16]: Literally "passed over", that is, transgressed.
@@ -188,35 +188,35 @@
 
 *Status: draft*
 
-**1** These are the nations that Yahweh[^3-1] left in the land to test Israel by them, all those Israelites who had not known any of the wars of Canaan.
+**1** These are the nations that the LORD[^3-1] left in the land to test Israel by them, all those Israelites who had not known any of the wars of Canaan.
 
 **2** It was only so that the generations of the Israelites would know war, to teach war to those who had not known it before.
 
 **3** They were the five rulers[^3-2] of the Philistines, all the Canaanites, the Sidonians, and the Hivites who lived in the mountains of Lebanon, from Mount Baal-hermon to Lebo-hamath.[^3-3]
 
-**4** They were there to test Israel by them, to find out whether they would obey the commands of Yahweh, which he had given their ancestors through Moses.
+**4** They were there to test Israel by them, to find out whether they would obey the commands of the LORD, which he had given their ancestors through Moses.
 
 **5** So the Israelites lived among the Canaanites, the Hittites, the Amorites, the Perizzites, the Hivites and the Jebusites.
 
 **6** They took their daughters as wives for themselves and gave their own daughters to their sons, and they served their gods.
 
-**7** The Israelites did what was evil in the sight of Yahweh. They forgot Yahweh their God and served the Baals and the Asherahs.[^3-4]
+**7** The Israelites did what was evil in the sight of the LORD. They forgot the LORD their God and served the Baals and the Asherahs.[^3-4]
 
-**8** Yahweh's anger burned against Israel, and he sold them into the power of Cushan-rishathaim[^3-5] king of Aram-naharaim.[^3-6] The Israelites served Cushan-rishathaim for eight years.
+**8** The LORD's anger burned against Israel, and he sold them into the power of Cushan-rishathaim[^3-5] king of Aram-naharaim.[^3-6] The Israelites served Cushan-rishathaim for eight years.
 
-**9** Then the Israelites cried out to Yahweh, and Yahweh raised up a deliverer for the Israelites, who saved them: Othniel son of Kenaz, Caleb's younger brother.[^3-7]
+**9** Then the Israelites cried out to the LORD, and the LORD raised up a deliverer for the Israelites, who saved them: Othniel son of Kenaz, Caleb's younger brother.[^3-7]
 
-**10** The Spirit of Yahweh[^3-8] came on him, and he judged Israel.[^3-9] He went out to war, and Yahweh handed Cushan-rishathaim king of Aram over to him, and he overpowered Cushan-rishathaim.
+**10** The Spirit of the LORD[^3-8] came on him, and he judged Israel.[^3-9] He went out to war, and the LORD handed Cushan-rishathaim king of Aram over to him, and he overpowered Cushan-rishathaim.
 
 **11** Then the land had peace[^3-10] for forty years, and Othniel son of Kenaz died.
 
-**12** Once again the Israelites did what was evil in the sight of Yahweh, and Yahweh made Eglon king of Moab strong against Israel, because they had done what was evil in the sight of Yahweh.
+**12** Once again the Israelites did what was evil in the sight of the LORD, and the LORD made Eglon king of Moab strong against Israel, because they had done what was evil in the sight of the LORD.
 
 **13** Eglon brought the Ammonites and the Amalekites together with him. He went and defeated Israel, and they took possession of the City of Palms.[^3-11]
 
 **14** The Israelites served Eglon king of Moab for eighteen years.
 
-**15** Then the Israelites cried out to Yahweh, and Yahweh raised up a deliverer for them: Ehud son of Gera, a Benjaminite, a man who was left-handed.[^3-12] The Israelites sent tribute[^3-13] by him to Eglon king of Moab.
+**15** Then the Israelites cried out to the LORD, and the LORD raised up a deliverer for them: Ehud son of Gera, a Benjaminite, a man who was left-handed.[^3-12] The Israelites sent tribute[^3-13] by him to Eglon king of Moab.
 
 **16** Ehud made himself a sword with two edges, a *gomed*[^3-14] long, and he strapped it on his right thigh under his clothes.
 
@@ -242,7 +242,7 @@
 
 **27** When he arrived, he blew the ram's horn[^3-22] in the hill country of Ephraim, and the Israelites went down with him from the hill country, with Ehud at their head.
 
-**28** He said to them, "Follow me,[^3-23] for Yahweh has handed your enemies, the Moabites, over to you." So they went down after him and seized the fords of the Jordan leading to Moab, and they did not let anyone cross.
+**28** He said to them, "Follow me,[^3-23] for the LORD has handed your enemies, the Moabites, over to you." So they went down after him and seized the fords of the Jordan leading to Moab, and they did not let anyone cross.
 
 **29** At that time they struck down about ten thousand Moabites, all of them sturdy[^3-24] and strong men. Not one escaped.
 
@@ -250,14 +250,14 @@
 
 **31** After him came Shamgar son of Anath.[^3-25] He struck down six hundred Philistines with an ox goad,[^3-26] and he too saved Israel.
 
-[^3-1]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^3-1]: *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles.
 [^3-2]: Hebrew *seranim*, a title used only for the rulers of the five Philistine cities (Joshua 13:3).
 [^3-3]: Or "to the entrance of Hamath".
 [^3-4]: Hebrew *asherot*, plural of *Asherah*, a Canaanite goddess. The same word is used for the wooden poles that were her symbols (Deuteronomy 16:21).
 [^3-5]: *Rishathaim* means "double wickedness", perhaps a mocking name.
 [^3-6]: "Aram of the two rivers", in northern Mesopotamia.
 [^3-7]: The Hebrew can also mean that Kenaz was Caleb's younger brother. See 1:13.
-[^3-8]: Or "the spirit of Yahweh". Hebrew *ruach*, "spirit, wind, breath".
+[^3-8]: Or "the spirit of the LORD". Hebrew *ruach*, "spirit, wind, breath".
 [^3-9]: Or "he led Israel", "he governed Israel". The verb *shaphat* is the root of *shofet*, "judge" (2:16).
 [^3-10]: Literally "was quiet"; also in verse 30.
 [^3-11]: Probably Jericho (1:16; Deuteronomy 34:3).
@@ -281,23 +281,23 @@
 
 *Status: draft*
 
-**1** After Ehud died, the Israelites again did what was evil in the sight of Yahweh.[^4-1]
+**1** After Ehud died, the Israelites again did what was evil in the sight of the LORD.[^4-1]
 
-**2** So Yahweh sold them into the power of Jabin king of Canaan, who reigned in Hazor. The commander of his army was Sisera, who lived in Harosheth-ha-goiim.[^4-2]
+**2** So the LORD sold them into the power of Jabin king of Canaan, who reigned in Hazor. The commander of his army was Sisera, who lived in Harosheth-ha-goiim.[^4-2]
 
-**3** The Israelites cried out to Yahweh, because Jabin had nine hundred iron chariots,[^4-3] and he had cruelly oppressed the Israelites for twenty years.
+**3** The Israelites cried out to the LORD, because Jabin had nine hundred iron chariots,[^4-3] and he had cruelly oppressed the Israelites for twenty years.
 
 **4** Now Deborah, a prophet, the wife of Lappidoth,[^4-4] was judging Israel at that time.
 
 **5** She used to sit under the Palm of Deborah, between Ramah and Bethel in the hill country of Ephraim, and the Israelites went up to her to have their disputes decided.[^4-5]
 
-**6** She sent for Barak son of Abinoam from Kedesh in Naphtali and said to him, "Yahweh, the God of Israel, has commanded you,[^4-6] 'Go, gather your men at Mount Tabor,[^4-7] and take with you ten thousand men from Naphtali and Zebulun.
+**6** She sent for Barak son of Abinoam from Kedesh in Naphtali and said to him, "The LORD, the God of Israel, has commanded you,[^4-6] 'Go, gather your men at Mount Tabor,[^4-7] and take with you ten thousand men from Naphtali and Zebulun.
 
 **7** I will draw Sisera, the commander of Jabin's army, out to meet you at the Kishon River,[^4-8] with his chariots and his troops,[^4-9] and I will hand him over to you.'"
 
 **8** Barak said to her, "If you go with me, I will go. But if you don't go with me, I won't go."
 
-**9** She said, "I will certainly go with you. But the road you are taking will not bring you honor,[^4-10] for Yahweh will sell Sisera into the power of a woman." Then Deborah got up and went with Barak to Kedesh.
+**9** She said, "I will certainly go with you. But the road you are taking will not bring you honor,[^4-10] for the LORD will sell Sisera into the power of a woman." Then Deborah got up and went with Barak to Kedesh.
 
 **10** Barak called out Zebulun and Naphtali to Kedesh. Ten thousand men went up under his command,[^4-11] and Deborah went up with him.
 
@@ -307,9 +307,9 @@
 
 **13** So Sisera called out all his chariots, nine hundred iron chariots, and all the troops who were with him, from Harosheth-ha-goiim to the Kishon River.
 
-**14** Deborah said to Barak, "Get up! This is the day Yahweh has handed Sisera over to you. Hasn't Yahweh gone out ahead of you?" So Barak went down from Mount Tabor, with ten thousand men following him.
+**14** Deborah said to Barak, "Get up! This is the day the LORD has handed Sisera over to you. Hasn't the LORD gone out ahead of you?" So Barak went down from Mount Tabor, with ten thousand men following him.
 
-**15** Before Barak, Yahweh threw Sisera, all his chariots and his whole army into panic and put them to the sword.[^4-16] Sisera got down from his chariot and fled on foot.
+**15** Before Barak, the LORD threw Sisera, all his chariots and his whole army into panic and put them to the sword.[^4-16] Sisera got down from his chariot and fled on foot.
 
 **16** Barak chased the chariots and the army as far as Harosheth-ha-goiim, and Sisera's whole army fell by the sword. Not a single man was left.
 
@@ -329,12 +329,12 @@
 
 **24** The Israelites pressed harder and harder on Jabin king of Canaan,[^4-19] until they had destroyed Jabin king of Canaan.
 
-[^4-1]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^4-1]: *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles.
 [^4-2]: *Harosheth-ha-goiim* means "Harosheth of the nations". Also in verses 13 and 16.
 [^4-3]: Probably chariots fitted with iron. Also in verse 13.
 [^4-4]: Literally "Deborah, a woman, a prophetess, wife of Lappidoth". It can also be read "a woman of torches", that is, a fiery woman. *Lappidoth* means "torches", and *Deborah* means "bee".
 [^4-5]: Literally "for judgment".
-[^4-6]: Literally "Has not Yahweh, the God of Israel, commanded …?", a question that expects the answer yes.
+[^4-6]: Literally "Has not the LORD, the God of Israel, commanded …?", a question that expects the answer yes.
 [^4-7]: Literally "Go and draw at Mount Tabor", perhaps "draw out your troops" or "march".
 [^4-8]: Hebrew *nachal Qishon*. A *nachal* is a stream bed that often runs dry in summer. Also in verse 13.
 [^4-9]: Literally "his multitude".
@@ -344,7 +344,7 @@
 [^4-13]: Hebrew *choten*, a relative by marriage, usually a father-in-law. Compare Numbers 10:29, where Hobab is the son of Moses' father-in-law.
 [^4-14]: Or "the great tree".
 [^4-15]: The Hebrew text is written "Zaanaim" but read "Zaanannim".
-[^4-16]: Literally "Yahweh threw Sisera and all the chariots and all the army into confusion by the mouth of the sword before Barak."
+[^4-16]: Literally "The LORD threw Sisera and all the chariots and all the army into confusion by the mouth of the sword before Barak."
 [^4-17]: The Hebrew word is found only here. Also in verse 19.
 [^4-18]: Or "He was fast asleep. He went limp and died." The verb translated "exhausted" may instead mean "fainted" or "twitched".
 [^4-19]: Literally "The hand of the Israelites went on, going on and growing harder, against Jabin king of Canaan".
@@ -355,13 +355,13 @@
 
 **1** On that day Deborah and Barak son of Abinoam sang this song:[^5-1]
 
-**2** "When the leaders took the lead in Israel,[^5-2] when the people offered themselves willingly, bless Yahweh![^5-3]
+**2** "When the leaders took the lead in Israel,[^5-2] when the people offered themselves willingly, bless the LORD![^5-3]
 
-**3** Hear, you kings! Listen, you rulers! I, to Yahweh, I will sing; I will make music to Yahweh, the God of Israel.
+**3** Hear, you kings! Listen, you rulers! I, to the LORD, I will sing; I will make music to the LORD, the God of Israel.
 
-**4** Yahweh, when you went out from Seir, when you marched from the land of Edom, the earth shook, and the heavens poured, and the clouds poured down water.
+**4** LORD, when you went out from Seir, when you marched from the land of Edom, the earth shook, and the heavens poured, and the clouds poured down water.
 
-**5** The mountains quaked[^5-4] before Yahweh, the One of Sinai,[^5-5] before Yahweh, the God of Israel.
+**5** The mountains quaked[^5-4] before the LORD, the One of Sinai,[^5-5] before the LORD, the God of Israel.
 
 **6** In the days of Shamgar son of Anath, in the days of Jael, the roads were deserted,[^5-6] and travelers went by winding paths.
 
@@ -369,15 +369,15 @@
 
 **8** They chose new gods; then there was war in the gates.[^5-9] Was a shield or a spear to be seen among forty thousand in Israel?
 
-**9** My heart is with the commanders of Israel, who offered themselves willingly among the people. Bless Yahweh!
+**9** My heart is with the commanders of Israel, who offered themselves willingly among the people. Bless the LORD!
 
 **10** You who ride on white donkeys,[^5-10] you who sit on saddle blankets,[^5-11] and you who walk along the road, tell of it!
 
-**11** At the sound of those who divide the flocks[^5-12] at the watering places, there they recount the victories[^5-13] of Yahweh, the victories of his villagers in Israel. Then the people of Yahweh went down to the gates.
+**11** At the sound of those who divide the flocks[^5-12] at the watering places, there they recount the victories[^5-13] of the LORD, the victories of his villagers in Israel. Then the people of the LORD went down to the gates.
 
 **12** Wake up, wake up, Deborah! Wake up, wake up, sing a song! Rise up, Barak! Lead away your captives, son of Abinoam!
 
-**13** Then the survivors came down to the nobles; the people of Yahweh came down to me against the warriors.[^5-14]
+**13** Then the survivors came down to the nobles; the people of the LORD came down to me against the warriors.[^5-14]
 
 **14** From Ephraim came those whose roots are in Amalek;[^5-15] after you, Benjamin, with your people. From Machir came down commanders, and from Zebulun those who carry the officer's staff.[^5-16]
 
@@ -397,7 +397,7 @@
 
 **22** Then the horses' hooves hammered with the galloping, the galloping of his stallions.[^5-26]
 
-**23** 'Curse Meroz,' said the angel of Yahweh,[^5-27] 'bitterly curse its people, because they did not come to help Yahweh, to help Yahweh against the warriors.'[^5-28]
+**23** 'Curse Meroz,' said the angel of the LORD,[^5-27] 'bitterly curse its people, because they did not come to help the LORD, to help the LORD against the warriors.'[^5-28]
 
 **24** Most blessed of women is Jael, the wife of Heber the Kenite, most blessed of women who live in tents.
 
@@ -413,11 +413,11 @@
 
 **30** 'Aren't they finding and dividing the plunder? A girl, two girls[^5-32] for every warrior; plunder of dyed cloth for Sisera, plunder of dyed cloth, embroidered, dyed cloth, two pieces of embroidery for the necks of the plunderer.'[^5-33]
 
-**31** So may all your enemies perish, Yahweh! But may those who love him be like the sun when it rises in its strength."[^5-34] And the land had peace[^5-35] for forty years.
+**31** So may all your enemies perish, LORD! But may those who love him be like the sun when it rises in its strength."[^5-34] And the land had peace[^5-35] for forty years.
 
 [^5-1]: Literally "sang on that day, saying". The verb is feminine singular, which puts Deborah first. The Song of Deborah is one of the oldest poems in the Bible. Its language is ancient, and in many lines the meaning is uncertain.
 [^5-2]: The meaning of this line is uncertain. It may instead mean "When locks of hair hung loose in Israel", referring to warriors who left their hair uncut under a vow (compare Numbers 6:5).
-[^5-3]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^5-3]: *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles.
 [^5-4]: The Hebrew vowel points read "flowed". The same consonants can be read "quaked", as the Septuagint understood them.
 [^5-5]: Literally "this Sinai", perhaps an old way of saying "the One of Sinai". It may also mean "even Sinai", or "this is Sinai". Compare Psalm 68:9 (68:8 in most English Bibles).
 [^5-6]: Or "the caravans ceased". Literally "the roads ceased".
@@ -427,8 +427,8 @@
 [^5-10]: Or "tawny donkeys". The rare word probably describes a light or reddish-gray color.
 [^5-11]: Hebrew *middin*, a rare word, perhaps "rich carpets" or "saddle blankets". Some take it as "judgment seats".
 [^5-12]: Hebrew *mechatsetsim*, a word of uncertain meaning. Others take it as "archers" or "musicians" or "singers".
-[^5-13]: Hebrew *tsidqot*, literally "righteous acts": the acts by which Yahweh set things right for his people. Also later in the verse.
-[^5-14]: The Hebrew of this verse is very uncertain. The vowel points seem to mean "Then he made a survivor rule over the nobles of the people; Yahweh made me rule over the mighty."
+[^5-13]: Hebrew *tsidqot*, literally "righteous acts": the acts by which the LORD set things right for his people. Also later in the verse.
+[^5-14]: The Hebrew of this verse is very uncertain. The vowel points seem to mean "Then he made a survivor rule over the nobles of the people; the LORD made me rule over the mighty."
 [^5-15]: The meaning is uncertain. Part of Ephraim's land may once have belonged to the Amalekites (12:15).
 [^5-16]: Or "the scribe's staff". The *sofer*, "scribe", may here be the officer who mustered the troops.
 [^5-17]: The Hebrew vowel points read "My princes in Issachar".
@@ -441,7 +441,7 @@
 [^5-24]: Or "the onrushing river". The Hebrew word *qedumim* is uncertain.
 [^5-25]: Or "My soul, you trampled down the strong."
 [^5-26]: Or "his mighty ones", that is, his warriors.
-[^5-27]: Or "the messenger of Yahweh". Hebrew *mal'akh* means messenger.
+[^5-27]: Or "the messenger of the LORD". Hebrew *mal'akh* means messenger.
 [^5-28]: Or "with the warriors".
 [^5-29]: Or "dead".
 [^5-30]: The Hebrew verb is found only here; it probably means to cry out in a high, wailing voice.
@@ -455,7 +455,7 @@
 
 *Status: draft*
 
-**1** The Israelites did what was evil in the sight of Yahweh,[^6-1] and Yahweh handed them over to Midian for seven years.
+**1** The Israelites did what was evil in the sight of the LORD,[^6-1] and the LORD handed them over to Midian for seven years.
 
 **2** Midian's power was too strong for Israel.[^6-2] Because of Midian the Israelites made for themselves the hiding places[^6-3] in the mountains, the caves and the strongholds.
 
@@ -465,27 +465,27 @@
 
 **5** For they would come up with their livestock and their tents, coming like swarms of locusts. They and their camels were too many to count, and they came into the land to ruin it.
 
-**6** Israel was brought very low because of Midian, and the Israelites cried out to Yahweh.
+**6** Israel was brought very low because of Midian, and the Israelites cried out to the LORD.
 
-**7** When the Israelites cried out to Yahweh because of Midian,
+**7** When the Israelites cried out to the LORD because of Midian,
 
-**8** Yahweh sent a prophet to the Israelites. He said to them, "This is what Yahweh, the God of Israel, says: 'I brought you up from Egypt and brought you out of the place of slavery.[^6-5]
+**8** the LORD sent a prophet to the Israelites. He said to them, "This is what the LORD, the God of Israel, says: 'I brought you up from Egypt and brought you out of the place of slavery.[^6-5]
 
 **9** I rescued you from the power of Egypt and from the power of all who oppressed you. I drove them out before you and gave you their land.
 
-**10** I said to you, "I am Yahweh your God. Do not fear the gods of the Amorites, in whose land you are living." But you have not obeyed me.'"[^6-6]
+**10** I said to you, "I am the LORD your God. Do not fear the gods of the Amorites, in whose land you are living." But you have not obeyed me.'"[^6-6]
 
-**11** Then the angel of Yahweh[^6-7] came and sat under the oak at Ophrah that belonged to Joash the Abiezrite. His son Gideon was threshing wheat in the winepress, to hide it from the Midianites.[^6-8]
+**11** Then the angel of the LORD[^6-7] came and sat under the oak at Ophrah that belonged to Joash the Abiezrite. His son Gideon was threshing wheat in the winepress, to hide it from the Midianites.[^6-8]
 
-**12** The angel of Yahweh appeared to him and said to him, "Yahweh is with you, mighty warrior."
+**12** The angel of the LORD appeared to him and said to him, "The LORD is with you, mighty warrior."
 
-**13** Gideon said to him, "Pardon me, my lord,[^6-9] but if Yahweh is with us, why has all this happened to us? Where are all his wonders that our ancestors told us about, when they said, 'Didn't Yahweh bring us up from Egypt?' But now Yahweh has abandoned us and handed us over to Midian."[^6-10]
+**13** Gideon said to him, "Pardon me, my lord,[^6-9] but if the LORD is with us, why has all this happened to us? Where are all his wonders that our ancestors told us about, when they said, 'Didn't the LORD bring us up from Egypt?' But now the LORD has abandoned us and handed us over to Midian."[^6-10]
 
-**14** Yahweh turned to him[^6-11] and said, "Go in this strength of yours, and save Israel from the power of Midian. Am I not sending you?"
+**14** The LORD turned to him[^6-11] and said, "Go in this strength of yours, and save Israel from the power of Midian. Am I not sending you?"
 
 **15** He said to him, "Pardon me, Lord,[^6-12] but how can I save Israel? My clan[^6-13] is the weakest in Manasseh, and I am the least in my family."
 
-**16** Yahweh said to him, "I will be with you,[^6-14] and you will strike down the Midianites as if they were one man."
+**16** The LORD said to him, "I will be with you,[^6-14] and you will strike down the Midianites as if they were one man."
 
 **17** He said to him, "If I have found favor with you, give me a sign that it is you who are speaking with me.
 
@@ -495,19 +495,19 @@
 
 **20** The angel of God said to him, "Take the meat and the unleavened bread, put them on this rock, and pour out the broth." And he did so.
 
-**21** Then the angel of Yahweh reached out the tip of the staff in his hand and touched the meat and the unleavened bread. Fire flared up from the rock and consumed the meat and the unleavened bread, and the angel of Yahweh vanished from his sight.[^6-16]
+**21** Then the angel of the LORD reached out the tip of the staff in his hand and touched the meat and the unleavened bread. Fire flared up from the rock and consumed the meat and the unleavened bread, and the angel of the LORD vanished from his sight.[^6-16]
 
-**22** When Gideon saw that it was the angel of Yahweh, Gideon said, "Oh no, Lord Yahweh! For I have seen the angel of Yahweh face to face!"[^6-17]
+**22** When Gideon saw that it was the angel of the LORD, Gideon said, "Oh no, Lord GOD! For I have seen the angel of the LORD face to face!"[^6-17]
 
-**23** But Yahweh said to him, "Peace be with you. Do not be afraid. You will not die."
+**23** But the LORD said to him, "Peace be with you. Do not be afraid. You will not die."
 
-**24** So Gideon built an altar there to Yahweh and named it Yahweh Shalom.[^6-18] To this day it still stands at Ophrah of the Abiezrites.
+**24** So Gideon built an altar there to the LORD and named it The LORD Is Peace.[^6-18] To this day it still stands at Ophrah of the Abiezrites.
 
-**25** That same night Yahweh said to him, "Take your father's young bull, the second bull, seven years old.[^6-19] Tear down the altar of Baal that belongs to your father, and cut down the Asherah pole[^6-20] beside it.
+**25** That same night the LORD said to him, "Take your father's young bull, the second bull, seven years old.[^6-19] Tear down the altar of Baal that belongs to your father, and cut down the Asherah pole[^6-20] beside it.
 
-**26** Then build an altar to Yahweh your God on the top of this stronghold, with the stones laid in proper order.[^6-21] Take the second bull and offer it as a burnt offering, using the wood of the Asherah pole that you cut down."
+**26** Then build an altar to the LORD your God on the top of this stronghold, with the stones laid in proper order.[^6-21] Take the second bull and offer it as a burnt offering, using the wood of the Asherah pole that you cut down."
 
-**27** So Gideon took ten men from among his servants and did as Yahweh had told him. But he was too afraid of his family and of the men of the town to do it by day, so he did it at night.
+**27** So Gideon took ten men from among his servants and did as the LORD had told him. But he was too afraid of his family and of the men of the town to do it by day, so he did it at night.
 
 **28** When the men of the town got up early in the morning, there was the altar of Baal torn down, and the Asherah pole beside it cut down, and the second bull offered on the altar that had been built.
 
@@ -521,7 +521,7 @@
 
 **33** Then all Midian, Amalek and the people of the east joined forces. They crossed over and camped in the Valley of Jezreel.
 
-**34** But the Spirit of Yahweh took possession of Gideon,[^6-23] and he blew the ram's horn,[^6-24] and the Abiezrites were called out to follow him.
+**34** But the Spirit of the LORD took possession of Gideon,[^6-23] and he blew the ram's horn,[^6-24] and the Abiezrites were called out to follow him.
 
 **35** He sent messengers throughout Manasseh, and they too were called out to follow him. He also sent messengers to Asher, Zebulun and Naphtali, and they went up to meet them.
 
@@ -535,24 +535,24 @@
 
 **40** God did so that night. Only the fleece was dry, and there was dew on all the ground.
 
-[^6-1]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^6-1]: *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles.
 [^6-2]: Literally "The hand of Midian prevailed over Israel."
 [^6-3]: Hebrew *minharot*, a word found only here, perhaps "hollows" or "dens".
 [^6-4]: Literally "the sons of the east", the desert peoples living east of the Jordan. Also in verse 33.
 [^6-5]: Literally "out of the house of slaves".
 [^6-6]: Literally "you have not listened to my voice".
-[^6-7]: Or "the messenger of Yahweh". Hebrew *mal'akh* means messenger. In this story the angel is also called "Yahweh" (verses 14, 16 and 23).
+[^6-7]: Or "the messenger of the LORD". Hebrew *mal'akh* means messenger. In this story the angel is also called "the LORD" (verses 14, 16 and 23).
 [^6-8]: Grain was usually threshed on an open threshing floor. A winepress was a pit cut in the rock, where it could be hidden.
 [^6-9]: The Hebrew vowel points read *adoni*, "my lord", a polite form of address to a man.
 [^6-10]: Literally "into the palm of Midian"; also in verse 14.
-[^6-11]: The Septuagint reads "The angel of Yahweh turned to him".
+[^6-11]: The Septuagint reads "The angel of the LORD turned to him".
 [^6-12]: Here the Hebrew vowel points read *Adonai*, "Lord", the form used of God.
 [^6-13]: Literally "my thousand", a clan within the tribe.
 [^6-14]: The same words God spoke to Moses in Exodus 3:12.
 [^6-15]: An ephah was probably about 22 liters (two-thirds of a bushel).
 [^6-16]: Literally "went from his eyes".
 [^6-17]: Gideon fears death, because no one could see God and live (Exodus 33:20; compare Judges 13:22).
-[^6-18]: "Yahweh is peace".
+[^6-18]: Hebrew *YHWH shalom*.
 [^6-19]: Literally "Take the young bull of the ox that belongs to your father, and the second bull, seven years old." It is not clear whether one bull is meant or two.
 [^6-20]: Hebrew *asherah*: a wooden pole or tree that was a symbol of the goddess Asherah. Also in verses 26, 28 and 30.
 [^6-21]: The meaning of the Hebrew is uncertain. Literally "in the arrangement", or perhaps "in the battle line".
@@ -566,21 +566,21 @@
 
 **1** Early in the morning Jerubbaal, that is, Gideon, and all the people with him camped beside the spring of Harod. The camp of Midian was to the north of them, by the hill of Moreh, in the valley.
 
-**2** Yahweh[^7-1] said to Gideon, "You have too many people with you for me to hand Midian over to them. Israel might boast against me, 'My own hand has saved me.'
+**2** The LORD[^7-1] said to Gideon, "You have too many people with you for me to hand Midian over to them. Israel might boast against me, 'My own hand has saved me.'
 
 **3** Now announce to the people,[^7-2] 'Whoever is afraid and trembling may turn back and leave Mount Gilead.'"[^7-3] So twenty-two thousand of the people turned back, and ten thousand remained.
 
-**4** Yahweh said to Gideon, "There are still too many people. Take them down to the water, and I will sift them for you there. If I say to you, 'This one is to go with you,' he is to go with you. But anyone of whom I say to you, 'This one is not to go with you,' is not to go."
+**4** The LORD said to Gideon, "There are still too many people. Take them down to the water, and I will sift them for you there. If I say to you, 'This one is to go with you,' he is to go with you. But anyone of whom I say to you, 'This one is not to go with you,' is not to go."
 
-**5** So he took the people down to the water, and Yahweh said to Gideon, "Everyone who laps the water with his tongue, as a dog laps, you are to set apart by himself, and also everyone who kneels down to drink."[^7-4]
+**5** So he took the people down to the water, and the LORD said to Gideon, "Everyone who laps the water with his tongue, as a dog laps, you are to set apart by himself, and also everyone who kneels down to drink."[^7-4]
 
 **6** The number of those who lapped, putting their hands to their mouths,[^7-5] was three hundred men. All the rest of the people knelt down to drink water.
 
-**7** Yahweh said to Gideon, "With the three hundred men who lapped I will save you, and I will hand Midian over to you. Let all the rest of the people go home."[^7-6]
+**7** The LORD said to Gideon, "With the three hundred men who lapped I will save you, and I will hand Midian over to you. Let all the rest of the people go home."[^7-6]
 
 **8** So the people took provisions in their hands, and their rams' horns.[^7-7] Gideon sent all the other Israelites away, each to his own tent, but he kept the three hundred men. The camp of Midian lay below him in the valley.
 
-**9** That night Yahweh said to him, "Get up and go down against the camp, for I have handed it over to you.
+**9** That night the LORD said to him, "Get up and go down against the camp, for I have handed it over to you.
 
 **10** But if you are afraid to go down, go down to the camp with Purah your servant.
 
@@ -592,21 +592,21 @@
 
 **14** His friend answered, "This can be nothing other than the sword of Gideon son of Joash, the Israelite. God has handed Midian and the whole camp over to him."
 
-**15** When Gideon heard the account of the dream and its interpretation, he bowed down in worship. He went back to the camp of Israel and said, "Get up, for Yahweh has handed the camp of Midian over to you."
+**15** When Gideon heard the account of the dream and its interpretation, he bowed down in worship. He went back to the camp of Israel and said, "Get up, for the LORD has handed the camp of Midian over to you."
 
 **16** He divided the three hundred men into three companies, and he put rams' horns and empty jars into the hands of all of them, with torches inside the jars.
 
 **17** He said to them, "Watch me and do the same. When I come to the edge of the camp, do just as I do.
 
-**18** When I and all who are with me blow the ram's horn, then you too blow your rams' horns all around the camp, and shout, 'For Yahweh and for Gideon!'"
+**18** When I and all who are with me blow the ram's horn, then you too blow your rams' horns all around the camp, and shout, 'For the LORD and for Gideon!'"
 
 **19** Gideon and the hundred men who were with him came to the edge of the camp at about ten at night,[^7-12] just after the guards had been posted. They blew the rams' horns and smashed the jars that were in their hands.
 
-**20** All three companies blew the rams' horns and broke the jars. They held the torches in their left hands and in their right hands the rams' horns to blow, and they shouted, "A sword for Yahweh and for Gideon!"
+**20** All three companies blew the rams' horns and broke the jars. They held the torches in their left hands and in their right hands the rams' horns to blow, and they shouted, "A sword for the LORD and for Gideon!"
 
 **21** Each man stood in his place around the camp, and the whole camp ran. They cried out and fled.[^7-13]
 
-**22** When the three hundred blew the rams' horns, Yahweh set every man's sword against his comrade throughout the whole camp. The army fled as far as Beth-shittah toward Zererah, as far as the edge of Abel-meholah, near Tabbath.
+**22** When the three hundred blew the rams' horns, the LORD set every man's sword against his comrade throughout the whole camp. The army fled as far as Beth-shittah toward Zererah, as far as the edge of Abel-meholah, near Tabbath.
 
 **23** The men of Israel were called out from Naphtali, from Asher and from all Manasseh, and they pursued Midian.
 
@@ -614,7 +614,7 @@
 
 **25** They captured the two commanders of Midian, Oreb and Zeeb.[^7-14] They killed Oreb at the Rock of Oreb, and they killed Zeeb at the Winepress of Zeeb. They pursued Midian, and they brought the heads of Oreb and Zeeb to Gideon on the other side of the Jordan.
 
-[^7-1]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^7-1]: *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles.
 [^7-2]: Literally "call in the ears of the people".
 [^7-3]: The verb translated "leave" is uncertain; it may mean "hurry away". Mount Gilead is unexpected here, since Gideon was camped west of the Jordan.
 [^7-4]: Literally "and everyone who kneels on his knees to drink", that is, set them apart in a second group.
@@ -645,7 +645,7 @@
 
 **6** But the officials of Succoth said, "Do you already have the hands of Zebah and Zalmunna in your hand,[^8-4] that we should give bread to your army?"
 
-**7** Gideon said, "Because of that, when Yahweh[^8-5] has handed Zebah and Zalmunna over to me, I will thresh your flesh with the thorns of the wilderness and with briers."
+**7** Gideon said, "Because of that, when the LORD[^8-5] has handed Zebah and Zalmunna over to me, I will thresh your flesh with the thorns of the wilderness and with briers."
 
 **8** From there he went up to Penuel and spoke to them in the same way, and the men of Penuel answered him as the men of Succoth had answered.
 
@@ -669,7 +669,7 @@
 
 **18** Then he said to Zebah and Zalmunna, "What about the men you killed at Tabor?"[^8-10] They said, "They were like you, every one of them, like the sons of a king."[^8-11]
 
-**19** He said, "They were my brothers, my mother's sons. As surely as Yahweh lives, if you had let them live, I would not kill you."
+**19** He said, "They were my brothers, my mother's sons. As surely as the LORD lives, if you had let them live, I would not kill you."
 
 **20** He said to Jether, his firstborn, "Get up and kill them." But the boy did not draw his sword, because he was afraid, for he was still only a boy.
 
@@ -677,7 +677,7 @@
 
 **22** The men of Israel said to Gideon, "Rule over us, you and your son and your grandson too, for you have saved us from the power of Midian."
 
-**23** But Gideon said to them, "I will not rule over you, and my son will not rule over you. Yahweh will rule over you."
+**23** But Gideon said to them, "I will not rule over you, and my son will not rule over you. The LORD will rule over you."
 
 **24** Then Gideon said to them, "I have one request to make of you. Each of you give me an earring[^8-12] from his plunder." (The enemy had gold earrings, because they were Ishmaelites.)[^8-13]
 
@@ -699,7 +699,7 @@
 
 **33** As soon as Gideon was dead, the Israelites again prostituted themselves to the Baals,[^8-22] and they made Baal-berith[^8-23] their god.
 
-**34** The Israelites did not remember Yahweh their God, who had rescued them from the power of all their enemies all around.
+**34** The Israelites did not remember the LORD their God, who had rescued them from the power of all their enemies all around.
 
 **35** And they did not show faithful kindness[^8-24] to the family of Jerubbaal, that is, Gideon, in return for all the good he had done for Israel.
 
@@ -707,7 +707,7 @@
 [^8-2]: Literally "their spirit toward him relaxed".
 [^8-3]: Literally "who are at my feet".
 [^8-4]: Literally "Is the palm of Zebah and Zalmunna now in your hand?" Perhaps referring to the practice of cutting off the hands of dead enemies to count them. Also in verse 15.
-[^8-5]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^8-5]: *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles.
 [^8-6]: Literally "in peace".
 [^8-7]: Literally "the sons of the east", the desert peoples living east of the Jordan.
 [^8-8]: Or "before the sun was up". *Heres* means "sun".
@@ -719,7 +719,7 @@
 [^8-14]: Literally "We will surely give."
 [^8-15]: Literally "a thousand and seven hundred of gold". A shekel is about 2/5 ounce (11.5 grams), so 1,700 shekels is about 43 pounds (19.5 kg).
 [^8-16]: Hebrew *ephod*. In Exodus 28:6–14 the ephod is a garment worn by the high priest. Here it seems to be an object used in worship, perhaps to seek guidance from God.
-[^8-17]: Literally "went whoring after it there", an image of unfaithfulness to Yahweh.
+[^8-17]: Literally "went whoring after it there", an image of unfaithfulness to the LORD.
 [^8-18]: Literally "was quiet".
 [^8-19]: Literally "who came out of his thigh".
 [^8-20]: Hebrew *pilegesh*: a wife of secondary rank.
@@ -893,17 +893,17 @@
 
 **5** Jair died and was buried in Kamon.
 
-**6** Once again the Israelites did what was evil in the sight of Yahweh.[^10-4] They served the Baals and the Ashtoreths,[^10-5] the gods of Aram, the gods of Sidon, the gods of Moab, the gods of the Ammonites and the gods of the Philistines. They abandoned Yahweh and did not serve him.
+**6** Once again the Israelites did what was evil in the sight of the LORD.[^10-4] They served the Baals and the Ashtoreths,[^10-5] the gods of Aram, the gods of Sidon, the gods of Moab, the gods of the Ammonites and the gods of the Philistines. They abandoned the LORD and did not serve him.
 
-**7** So Yahweh's anger burned against Israel, and he sold them into the power of the Philistines and of the Ammonites.
+**7** So the LORD's anger burned against Israel, and he sold them into the power of the Philistines and of the Ammonites.
 
 **8** That year they shattered and crushed the Israelites. For eighteen years they oppressed all the Israelites who were on the other side of the Jordan, in the land of the Amorites, in Gilead.[^10-6]
 
 **9** The Ammonites also crossed the Jordan to fight against Judah, Benjamin and the house of Ephraim, and Israel was in great distress.
 
-**10** Then the Israelites cried out to Yahweh, "We have sinned against you, for we have abandoned our God and served the Baals."
+**10** Then the Israelites cried out to the LORD, "We have sinned against you, for we have abandoned our God and served the Baals."
 
-**11** Yahweh said to the Israelites, "Didn't I save you from the Egyptians, the Amorites, the Ammonites and the Philistines?[^10-7]
+**11** The LORD said to the Israelites, "Didn't I save you from the Egyptians, the Amorites, the Ammonites and the Philistines?[^10-7]
 
 **12** When the Sidonians, Amalek and Maon[^10-8] oppressed you, and you cried out to me, I saved you from their power.
 
@@ -911,9 +911,9 @@
 
 **14** Go and cry out to the gods you have chosen. Let them save you in your time of trouble."
 
-**15** The Israelites said to Yahweh, "We have sinned. Do to us whatever you think best. Only please rescue us today."
+**15** The Israelites said to the LORD, "We have sinned. Do to us whatever you think best. Only please rescue us today."
 
-**16** So they got rid of the foreign gods among them and served Yahweh, and he could no longer bear Israel's misery.[^10-9]
+**16** So they got rid of the foreign gods among them and served the LORD, and he could no longer bear Israel's misery.[^10-9]
 
 **17** The Ammonites were called to arms and camped in Gilead, and the Israelites gathered and camped at Mizpah.
 
@@ -922,7 +922,7 @@
 [^10-1]: *Dodo* can also be read "his uncle".
 [^10-2]: In Hebrew the words for "donkeys" and "towns" sound alike here.
 [^10-3]: "The tent villages of Jair". Compare Numbers 32:41; Deuteronomy 3:14.
-[^10-4]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^10-4]: *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles.
 [^10-5]: *Baal* was the Canaanite storm god, and *Ashtoreth* (Astarte) a Canaanite goddess. The plurals refer to their local forms, or to gods and goddesses in general. See 2:11, 13.
 [^10-6]: Literally "They shattered and crushed the Israelites in that year, eighteen years, all the Israelites who were beyond the Jordan …".
 [^10-7]: Literally "Was it not from Egypt and from the Amorites and from the Ammonites and from the Philistines?" The sentence is unfinished in Hebrew.
@@ -949,11 +949,11 @@
 
 **8** The elders of Gilead said to Jephthah, "That is why we have come back to you now. Come with us and fight against the Ammonites, and you will be our head, over all the people living in Gilead."
 
-**9** Jephthah said to the elders of Gilead, "If you bring me back to fight against the Ammonites, and Yahweh[^11-2] hands them over to me, I will be your head."[^11-3]
+**9** Jephthah said to the elders of Gilead, "If you bring me back to fight against the Ammonites, and the LORD[^11-2] hands them over to me, I will be your head."[^11-3]
 
-**10** The elders of Gilead said to Jephthah, "Yahweh is our witness: we will do just as you say."[^11-4]
+**10** The elders of Gilead said to Jephthah, "The LORD is our witness: we will do just as you say."[^11-4]
 
-**11** So Jephthah went with the elders of Gilead, and the people made him head and commander over them. And Jephthah spoke all his words before Yahweh at Mizpah.
+**11** So Jephthah went with the elders of Gilead, and the people made him head and commander over them. And Jephthah spoke all his words before the LORD at Mizpah.
 
 **12** Then Jephthah sent messengers to the king of the Ammonites, saying, "What do you have against me,[^11-5] that you have come to me to fight against my land?"
 
@@ -973,37 +973,37 @@
 
 **20** But Sihon did not trust Israel to pass through his territory. Sihon gathered all his people and camped at Jahaz, and he fought against Israel.
 
-**21** Yahweh, the God of Israel, handed Sihon and all his people over to Israel, and they defeated them. So Israel took possession of all the land of the Amorites who lived in that land.
+**21** The LORD, the God of Israel, handed Sihon and all his people over to Israel, and they defeated them. So Israel took possession of all the land of the Amorites who lived in that land.
 
 **22** They took possession of all the territory of the Amorites, from the Arnon to the Jabbok, and from the wilderness to the Jordan.
 
-**23** So now that Yahweh, the God of Israel, has driven out the Amorites before his people Israel, are you to take possession of it?
+**23** So now that the LORD, the God of Israel, has driven out the Amorites before his people Israel, are you to take possession of it?
 
-**24** Don't you take possession of whatever Chemosh your god[^11-7] gives you to possess? So we will take possession of everything that Yahweh our God has driven out before us.
+**24** Don't you take possession of whatever Chemosh your god[^11-7] gives you to possess? So we will take possession of everything that the LORD our God has driven out before us.
 
 **25** Now, are you any better than Balak son of Zippor, king of Moab? Did he ever quarrel with Israel, or ever fight against them?
 
 **26** While Israel lived in Heshbon and its villages, in Aroer and its villages, and in all the towns along the Arnon for three hundred years, why didn't you take them back during that time?
 
-**27** I have not sinned against you, but you are doing me wrong by making war on me. May Yahweh, the Judge, decide today between the Israelites and the Ammonites."
+**27** I have not sinned against you, but you are doing me wrong by making war on me. May the LORD, the Judge, decide today between the Israelites and the Ammonites."
 
 **28** But the king of the Ammonites did not listen to the message that Jephthah sent him.
 
-**29** Then the Spirit of Yahweh[^11-8] came on Jephthah. He passed through Gilead and Manasseh. He passed through Mizpah of Gilead, and from Mizpah of Gilead he went on against the Ammonites.
+**29** Then the Spirit of the LORD[^11-8] came on Jephthah. He passed through Gilead and Manasseh. He passed through Mizpah of Gilead, and from Mizpah of Gilead he went on against the Ammonites.
 
-**30** Jephthah made a vow to Yahweh and said, "If you will hand the Ammonites over to me,
+**30** Jephthah made a vow to the LORD and said, "If you will hand the Ammonites over to me,
 
-**31** then whatever[^11-9] comes out of the doors of my house to meet me, when I return safely[^11-10] from the Ammonites, will belong to Yahweh, and I will offer it up as a burnt offering."
+**31** then whatever[^11-9] comes out of the doors of my house to meet me, when I return safely[^11-10] from the Ammonites, will belong to the LORD, and I will offer it up as a burnt offering."
 
-**32** So Jephthah crossed over to the Ammonites to fight against them, and Yahweh handed them over to him.
+**32** So Jephthah crossed over to the Ammonites to fight against them, and the LORD handed them over to him.
 
 **33** He defeated them from Aroer to the neighborhood of Minnith, twenty towns, and as far as Abel-keramim.[^11-11] It was a very great defeat, and the Ammonites were brought low before the Israelites.
 
 **34** When Jephthah came to his home at Mizpah, there was his daughter coming out to meet him with tambourines and dancing! She was his only child; apart from her he had neither son nor daughter.
 
-**35** When he saw her, he tore his clothes and said, "Oh no, my daughter! You have brought me to my knees, and you have become the cause of my ruin! For I have opened my mouth to Yahweh, and I cannot take it back."
+**35** When he saw her, he tore his clothes and said, "Oh no, my daughter! You have brought me to my knees, and you have become the cause of my ruin! For I have opened my mouth to the LORD, and I cannot take it back."
 
-**36** She said to him, "My father, you have opened your mouth to Yahweh. Do to me as you have promised,[^11-12] now that Yahweh has taken vengeance for you on your enemies, the Ammonites."
+**36** She said to him, "My father, you have opened your mouth to the LORD. Do to me as you have promised,[^11-12] now that the LORD has taken vengeance for you on your enemies, the Ammonites."
 
 **37** She said to her father, "Let this one thing be done for me. Leave me alone for two months, so that I may go and wander[^11-13] on the mountains and weep over my virginity,[^11-14] I and my friends."
 
@@ -1014,13 +1014,13 @@
 **40** that each year the young women of Israel would go out for four days to commemorate[^11-16] the daughter of Jephthah the Gileadite.
 
 [^11-1]: Perhaps "went out raiding with him". Literally "went out with him".
-[^11-2]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^11-2]: *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles.
 [^11-3]: Or "will I really be your head?"
-[^11-4]: Literally "Yahweh will be the one who hears between us, if we do not do as you have said."
+[^11-4]: Literally "The LORD will be the one who hears between us, if we do not do as you have said."
 [^11-5]: Literally "What is there to me and to you".
 [^11-6]: Hebrew *Yam Suph*, literally "Sea of Reeds", traditionally the Red Sea. Here it probably means the Gulf of Aqaba.
 [^11-7]: Chemosh was the god of the Moabites (Numbers 21:29). The god of the Ammonites was Milcom (1 Kings 11:5).
-[^11-8]: Or "the spirit of Yahweh". Hebrew *ruach*, "spirit, wind, breath".
+[^11-8]: Or "the spirit of the LORD". Hebrew *ruach*, "spirit, wind, breath".
 [^11-9]: Or "whoever". The Hebrew can refer to a person or an animal.
 [^11-10]: Literally "in peace".
 [^11-11]: *Abel-keramim* means "meadow of vineyards".
@@ -1038,7 +1038,7 @@
 
 **2** Jephthah said to them, "I and my people were in a bitter struggle with the Ammonites.[^12-2] I called you, but you did not save me from their power.
 
-**3** When I saw that you would not save me, I took my life in my hands and crossed over against the Ammonites, and Yahweh[^12-3] handed them over to me. So why have you come up against me today to fight me?"
+**3** When I saw that you would not save me, I took my life in my hands and crossed over against the Ammonites, and the LORD[^12-3] handed them over to me. So why have you come up against me today to fight me?"
 
 **4** Then Jephthah gathered all the men of Gilead and fought against Ephraim. The men of Gilead struck down Ephraim, because the Ephraimites had said, "You Gileadites are only fugitives from Ephraim, in the middle of Ephraim and Manasseh."[^12-4]
 
@@ -1066,7 +1066,7 @@
 
 [^12-1]: Or "northward". Zaphon was a town east of the Jordan (Joshua 13:27).
 [^12-2]: Literally "I was a man of great strife, I and my people, and the Ammonites."
-[^12-3]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^12-3]: *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles.
 [^12-4]: The meaning of the Hebrew is uncertain. Literally "for they said, 'Fugitives of Ephraim are you, Gilead, in the middle of Ephraim, in the middle of Manasseh.'"
 [^12-5]: *Shibboleth* means "ear of grain" or "flowing stream". The Ephraimites evidently could not say the *sh* sound at the start of the word and said *s* instead, so their speech gave them away. From this story English has the word "shibboleth", a word or custom that marks out the members of a group.
 [^12-6]: Literally "in the towns of Gilead". The Septuagint reads "in his town in Gilead".
@@ -1077,11 +1077,11 @@
 
 *Status: draft*
 
-**1** Once again the Israelites did what was evil in the sight of Yahweh,[^13-1] and Yahweh handed them over to the Philistines for forty years.
+**1** Once again the Israelites did what was evil in the sight of the LORD,[^13-1] and the LORD handed them over to the Philistines for forty years.
 
 **2** There was a man from Zorah, of the clan of the Danites, whose name was Manoah. His wife was unable to have children,[^13-2] and she had borne none.
 
-**3** The angel of Yahweh[^13-3] appeared to the woman and said to her, "You are unable to have children and have borne none, but you will become pregnant and give birth to a son.
+**3** The angel of the LORD[^13-3] appeared to the woman and said to her, "You are unable to have children and have borne none, but you will become pregnant and give birth to a son.
 
 **4** So now be careful not to drink wine or beer,[^13-4] and do not eat anything unclean.
 
@@ -1091,7 +1091,7 @@
 
 **7** But he said to me, 'You will become pregnant and give birth to a son. So now do not drink wine or beer, and do not eat anything unclean, for the boy will be a Nazirite dedicated to God from the womb until the day he dies.'"
 
-**8** Then Manoah prayed to Yahweh and said, "Please, Lord, let the man of God whom you sent come to us again and teach us what we are to do for the boy who is to be born."
+**8** Then Manoah prayed to the LORD and said, "Please, Lord, let the man of God whom you sent come to us again and teach us what we are to do for the boy who is to be born."
 
 **9** God listened to Manoah,[^13-7] and the angel of God came again to the woman while she was sitting in the field. Her husband Manoah was not with her.
 
@@ -1101,35 +1101,35 @@
 
 **12** Manoah said, "Now when your words come true, what is to be the boy's way of life, and what is he to do?"[^13-9]
 
-**13** The angel of Yahweh said to Manoah, "The woman must take care to do everything I told her.
+**13** The angel of the LORD said to Manoah, "The woman must take care to do everything I told her.
 
 **14** She must not eat anything that comes from the grapevine. She must not drink wine or beer, or eat anything unclean. She must observe everything I commanded her."
 
-**15** Manoah said to the angel of Yahweh, "Please stay with us, and let us prepare a young goat for you."
+**15** Manoah said to the angel of the LORD, "Please stay with us, and let us prepare a young goat for you."
 
-**16** The angel of Yahweh said to Manoah, "Even if you keep me here, I will not eat your food. But if you prepare a burnt offering, offer it to Yahweh." (For Manoah did not know that he was the angel of Yahweh.)
+**16** The angel of the LORD said to Manoah, "Even if you keep me here, I will not eat your food. But if you prepare a burnt offering, offer it to the LORD." (For Manoah did not know that he was the angel of the LORD.)
 
-**17** Then Manoah said to the angel of Yahweh, "What is your name, so that when your word comes true[^13-10] we may honor you?"
+**17** Then Manoah said to the angel of the LORD, "What is your name, so that when your word comes true[^13-10] we may honor you?"
 
-**18** The angel of Yahweh said to him, "Why do you ask my name? It is wonderful."[^13-11]
+**18** The angel of the LORD said to him, "Why do you ask my name? It is wonderful."[^13-11]
 
-**19** So Manoah took the young goat and the grain offering and offered them on the rock to Yahweh. Then he did a wonderful thing,[^13-12] while Manoah and his wife watched.
+**19** So Manoah took the young goat and the grain offering and offered them on the rock to the LORD. Then he did a wonderful thing,[^13-12] while Manoah and his wife watched.
 
-**20** As the flame went up from the altar toward heaven, the angel of Yahweh went up in the flame of the altar. Manoah and his wife watched, and they fell face down to the ground.
+**20** As the flame went up from the altar toward heaven, the angel of the LORD went up in the flame of the altar. Manoah and his wife watched, and they fell face down to the ground.
 
-**21** The angel of Yahweh did not appear again to Manoah and his wife. Then Manoah knew that he was the angel of Yahweh.
+**21** The angel of the LORD did not appear again to Manoah and his wife. Then Manoah knew that he was the angel of the LORD.
 
 **22** Manoah said to his wife, "We will surely die, for we have seen God!"[^13-13]
 
-**23** But his wife said to him, "If Yahweh had wanted to kill us, he would not have accepted a burnt offering and a grain offering from our hands. He would not have shown us all these things, or told us anything like this now."
+**23** But his wife said to him, "If the LORD had wanted to kill us, he would not have accepted a burnt offering and a grain offering from our hands. He would not have shown us all these things, or told us anything like this now."
 
-**24** The woman gave birth to a son and named him Samson.[^13-14] The boy grew, and Yahweh blessed him.
+**24** The woman gave birth to a son and named him Samson.[^13-14] The boy grew, and the LORD blessed him.
 
-**25** The Spirit of Yahweh[^13-15] began to stir him in Mahaneh-dan,[^13-16] between Zorah and Eshtaol.
+**25** The Spirit of the LORD[^13-15] began to stir him in Mahaneh-dan,[^13-16] between Zorah and Eshtaol.
 
-[^13-1]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^13-1]: *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles.
 [^13-2]: Literally "was barren"; also in verse 3.
-[^13-3]: Or "the messenger of Yahweh". Hebrew *mal'akh* means messenger. The same is true of "the angel of God" in verses 6 and 9.
+[^13-3]: Or "the messenger of the LORD". Hebrew *mal'akh* means messenger. The same is true of "the angel of God" in verses 6 and 9.
 [^13-4]: Hebrew *shekhar*, an alcoholic drink, probably beer made from grain. Also in verses 7 and 14.
 [^13-5]: Literally "No razor is to go up on his head."
 [^13-6]: Hebrew *nazir*, "one set apart, dedicated". The Nazirite's vow is described in Numbers 6:1–21. Also in verse 7.
@@ -1138,10 +1138,10 @@
 [^13-9]: Literally "what will be the boy's rule and his work?"
 [^13-10]: The Hebrew text is written "your words come true" but read "your word comes true".
 [^13-11]: Hebrew *peli*, "wonderful", that is, beyond human understanding.
-[^13-12]: Literally "and doing wonderfully". The one who acts is not named: Yahweh, or the angel. Some take the words with what comes before: "to Yahweh, who does wonders".
+[^13-12]: Literally "and doing wonderfully". The one who acts is not named: the LORD, or the angel. Some take the words with what comes before: "to the LORD, who does wonders".
 [^13-13]: Or "a divine being". Hebrew *Elohim*.
 [^13-14]: Hebrew *Shimshon*, probably from *shemesh*, "sun".
-[^13-15]: Or "the spirit of Yahweh". Hebrew *ruach*, "spirit, wind, breath".
+[^13-15]: Or "the spirit of the LORD". Hebrew *ruach*, "spirit, wind, breath".
 [^13-16]: "The camp of Dan". Compare 18:12.
 
 ## Chapter 14
@@ -1154,11 +1154,11 @@
 
 **3** His father and mother said to him, "Isn't there a woman among the daughters of your relatives, or among all my people, that you must go and take a wife from the uncircumcised Philistines?" But Samson said to his father, "Get her for me, for she is the one I like."[^14-2]
 
-**4** His father and mother did not know that this was from Yahweh,[^14-3] for he was seeking an occasion[^14-4] against the Philistines. At that time the Philistines were ruling over Israel.
+**4** His father and mother did not know that this was from the LORD,[^14-3] for he was seeking an occasion[^14-4] against the Philistines. At that time the Philistines were ruling over Israel.
 
 **5** Samson went down to Timnah with his father and mother. When they came to the vineyards of Timnah, a young lion suddenly came roaring toward him.
 
-**6** The Spirit of Yahweh[^14-5] rushed on him, and he tore the lion apart as one tears apart a young goat, with nothing in his hand. But he did not tell his father or mother what he had done.
+**6** The Spirit of the LORD[^14-5] rushed on him, and he tore the lion apart as one tears apart a young goat, with nothing in his hand. But he did not tell his father or mother what he had done.
 
 **7** Then he went down and talked with the woman, and she was the one Samson liked.
 
@@ -1184,15 +1184,15 @@
 
 **18** On the seventh day, before the sun went down, the men of the town said to him, "What is sweeter than honey? What is stronger than a lion?" He said to them, "If you had not plowed with my heifer, you would not have found out my riddle."
 
-**19** Then the Spirit of Yahweh rushed on him. He went down to Ashkelon and struck down thirty of their men. He took what they wore and gave the sets of clothes to those who had answered the riddle. Then, burning with anger, he went up to his father's house.
+**19** Then the Spirit of the LORD rushed on him. He went down to Ashkelon and struck down thirty of their men. He took what they wore and gave the sets of clothes to those who had answered the riddle. Then, burning with anger, he went up to his father's house.
 
 **20** And Samson's wife was given to his companion, the one who had been his friend at the wedding.[^14-9]
 
 [^14-1]: Literally "of the daughters of the Philistines"; also in verse 2.
 [^14-2]: Literally "she is right in my eyes"; also in verse 7. Compare 17:6; 21:25.
-[^14-3]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^14-3]: *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles.
 [^14-4]: Or "for Samson was seeking an occasion".
-[^14-5]: Or "the spirit of Yahweh". Hebrew *ruach*, "spirit, wind, breath". Also in verse 19.
+[^14-5]: Or "the spirit of the LORD". Hebrew *ruach*, "spirit, wind, breath". Also in verse 19.
 [^14-6]: Hebrew *mishteh*, literally "a drinking", here a wedding feast. Also in verses 12 and 17.
 [^14-7]: The Septuagint and the Syriac read "On the fourth day".
 [^14-8]: Literally "She wept on him the seven days that they had the feast."
@@ -1228,7 +1228,7 @@
 
 **13** They said to him, "No, we will only tie you up and hand you over to them. We certainly won't kill you." So they tied him up with two new ropes and brought him up from the rock.
 
-**14** When he came to Lehi, the Philistines came shouting to meet him. Then the Spirit of Yahweh[^15-7] rushed on him, and the ropes on his arms became like flax that has caught fire, and the bonds melted off his hands.
+**14** When he came to Lehi, the Philistines came shouting to meet him. Then the Spirit of the LORD[^15-7] rushed on him, and the ropes on his arms became like flax that has caught fire, and the bonds melted off his hands.
 
 **15** He found a fresh jawbone of a donkey. He reached out his hand, took it, and struck down a thousand men with it.
 
@@ -1236,7 +1236,7 @@
 
 **17** When he had finished speaking, he threw the jawbone from his hand, and that place was called Ramath-lehi.[^15-9]
 
-**18** He was very thirsty, and he called out to Yahweh, "You have given this great victory by the hand of your servant. Must I now die of thirst and fall into the hands of the uncircumcised?"
+**18** He was very thirsty, and he called out to the LORD, "You have given this great victory by the hand of your servant. Must I now die of thirst and fall into the hands of the uncircumcised?"
 
 **19** So God split open the hollow[^15-10] at Lehi, and water came out of it. When he drank, his strength returned,[^15-11] and he revived. That is why it was named En-hakkore.[^15-12] It is in Lehi to this day.
 
@@ -1248,7 +1248,7 @@
 [^15-4]: Literally "from the stacked grain to the standing grain, and to the vineyard, the olive".
 [^15-5]: Literally "leg on thigh", an expression for a complete defeat.
 [^15-6]: *Lehi* means "jawbone". Also in verses 14 and 19.
-[^15-7]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles. Or "the spirit of Yahweh". Hebrew *ruach*, "spirit, wind, breath".
+[^15-7]: *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles. Or "the spirit of the LORD". Hebrew *ruach*, "spirit, wind, breath".
 [^15-8]: Hebrew *chamor chamoratayim*, "a heap, two heaps". The word for "heap" sounds the same as *chamor*, "donkey".
 [^15-9]: "Jawbone Hill".
 [^15-10]: Hebrew *makhtesh*, literally "mortar", a hollow in the ground.
@@ -1297,7 +1297,7 @@
 
 **19** She lulled him to sleep on her knees and called a man, and she had the seven braids of his hair shaved off.[^16-13] Then she began to subdue him,[^16-14] and his strength left him.
 
-**20** She said, "The Philistines are upon you, Samson!" He woke up from his sleep and thought, "I will go out as at other times and shake myself free." But he did not know that Yahweh[^16-15] had left him.
+**20** She said, "The Philistines are upon you, Samson!" He woke up from his sleep and thought, "I will go out as at other times and shake myself free." But he did not know that the LORD[^16-15] had left him.
 
 **21** The Philistines seized him and gouged out his eyes. They took him down to Gaza and bound him with bronze chains, and he was made to grind grain in the prison.
 
@@ -1313,7 +1313,7 @@
 
 **27** Now the temple was full of men and women. All the rulers of the Philistines were there, and on the roof there were about three thousand men and women watching Samson entertain them.
 
-**28** Then Samson called out to Yahweh, "Lord Yahweh, please remember me. Please give me strength just this once, O God, so that with one act of revenge I may pay back the Philistines for my two eyes."[^16-20]
+**28** Then Samson called out to the LORD, "Lord GOD, please remember me. Please give me strength just this once, O God, so that with one act of revenge I may pay back the Philistines for my two eyes."[^16-20]
 
 **29** Samson took hold of the two central pillars that held up the temple, and he braced himself against them, one with his right hand and the other with his left.
 
@@ -1335,7 +1335,7 @@
 [^16-12]: The Hebrew text is written "he has told her everything" but read "he has told me everything".
 [^16-13]: Literally "she called to the man, and she shaved the seven braids of his head".
 [^16-14]: The Septuagint reads "he began to grow weak".
-[^16-15]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^16-15]: *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles.
 [^16-16]: A god worshiped by the Philistines, probably a god of grain (Hebrew *dagan*, "grain").
 [^16-17]: Literally "When their heart was good".
 [^16-18]: Or "he performed for them", or "they made sport of him". The verb can mean to laugh, to play, or to make fun of. Also in verse 27.
@@ -1348,9 +1348,9 @@
 
 **1** There was a man from the hill country of Ephraim named Micah.[^17-1]
 
-**2** He said to his mother, "The 1,100 pieces of silver[^17-2] that were taken from you, about which you pronounced a curse, and said it in my hearing too: look, the silver is with me. I took it." His mother said, "May my son be blessed by Yahweh!"[^17-3]
+**2** He said to his mother, "The 1,100 pieces of silver[^17-2] that were taken from you, about which you pronounced a curse, and said it in my hearing too: look, the silver is with me. I took it." His mother said, "May my son be blessed by the LORD!"[^17-3]
 
-**3** He gave the 1,100 pieces of silver back to his mother, and his mother said, "I solemnly dedicate the silver to Yahweh from my hand for my son, to make a carved image and a cast idol.[^17-4] So now I will give it back to you."
+**3** He gave the 1,100 pieces of silver back to his mother, and his mother said, "I solemnly dedicate the silver to the LORD from my hand for my son, to make a carved image and a cast idol.[^17-4] So now I will give it back to you."
 
 **4** So he gave the silver back to his mother, and his mother took two hundred pieces of silver[^17-5] and gave them to a silversmith, who made them into a carved image and a cast idol. And it was in Micah's house.
 
@@ -1370,11 +1370,11 @@
 
 **12** Micah installed the Levite, and the young man became his priest and lived in Micah's house.
 
-**13** Then Micah said, "Now I know that Yahweh will make me prosper, because I have a Levite as my priest."
+**13** Then Micah said, "Now I know that the LORD will make me prosper, because I have a Levite as my priest."
 
 [^17-1]: Here and in verse 4 the Hebrew has the longer form of the name, *Mikhayehu*; elsewhere in chapters 17–18 it is *Mikhah*.
 [^17-2]: Literally "a thousand and a hundred of silver", probably shekels: about 28 pounds (12.7 kg). Also in verse 3.
-[^17-3]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^17-3]: *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles.
 [^17-4]: Hebrew *pesel u-massekhah*. The two words may describe a single image: a carved figure covered with cast metal. Also in verse 4.
 [^17-5]: Literally "two hundred of silver", about 5 pounds (2.3 kg).
 [^17-6]: Literally "a house of God" or "a house of gods".
@@ -1399,7 +1399,7 @@
 
 **5** They said to him, "Please ask God, so that we may know whether the journey we are on will succeed."
 
-**6** The priest said to them, "Go in peace. The journey you are on is under the eye of Yahweh."[^18-2]
+**6** The priest said to them, "Go in peace. The journey you are on is under the eye of the LORD."[^18-2]
 
 **7** So the five men went on and came to Laish. They saw that the people there were living in security, in the manner of the Sidonians, quiet and unsuspecting. There was no one in the land to do them any harm or to rule over them by force.[^18-3] They were far from the Sidonians and had no dealings with anyone.
 
@@ -1452,7 +1452,7 @@
 **31** They kept for themselves the carved image that Micah had made, all the time that the house of God was at Shiloh.
 
 [^18-1]: Perhaps his accent.
-[^18-2]: Literally "Your way in which you go is before Yahweh." *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^18-2]: Literally "Your way in which you go is before the LORD." *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles.
 [^18-3]: The Hebrew of this sentence is difficult. Literally "and there was no one putting to shame in anything in the land, possessing restraint".
 [^18-4]: Literally "What are you?"
 [^18-5]: Literally "a land broad of hands", that is, wide on both sides.
@@ -1506,7 +1506,7 @@
 
 **17** When he looked up and saw the traveler in the city square, the old man said, "Where are you going? Where do you come from?"
 
-**18** He said to him, "We are traveling from Bethlehem in Judah to the far parts of the hill country of Ephraim. That is where I am from. I went to Bethlehem in Judah, and I am going to the house of Yahweh.[^19-9] But no one will take me into his house.
+**18** He said to him, "We are traveling from Bethlehem in Judah to the far parts of the hill country of Ephraim. That is where I am from. I went to Bethlehem in Judah, and I am going to the house of the LORD.[^19-9] But no one will take me into his house.
 
 **19** We have both straw and fodder for our donkeys, and there is also bread and wine for me, for your servant woman, and for the young man with your servants.[^19-10] We don't need anything."
 
@@ -1540,7 +1540,7 @@
 [^19-6]: Literally "let your heart be good"; also in verses 9 and 22.
 [^19-7]: Literally "until the day declines".
 [^19-8]: Literally "go to your tent".
-[^19-9]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles. The Septuagint reads "and I am going to my home".
+[^19-9]: *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles. The Septuagint reads "and I am going to my home".
 [^19-10]: Polite ways for the Levite to refer to his concubine and his servant, and to himself as the old man's servant.
 [^19-11]: Literally "sons of *beliyya'al*", "sons of worthlessness": scoundrels.
 [^19-12]: Literally "so that we may know him". Compare Genesis 19:5.
@@ -1555,7 +1555,7 @@
 
 *Status: draft*
 
-**1** Then all the Israelites came out, from Dan to Beersheba and from the land of Gilead, and the community assembled as one man before Yahweh[^20-1] at Mizpah.
+**1** Then all the Israelites came out, from Dan to Beersheba and from the land of Gilead, and the community assembled as one man before the LORD[^20-1] at Mizpah.
 
 **2** The leaders[^20-2] of all the people, of all the tribes of Israel, took their places in the assembly of the people of God: four hundred thousand foot soldiers armed with swords.
 
@@ -1589,7 +1589,7 @@
 
 **17** The men of Israel, not counting Benjamin, mustered four hundred thousand men armed with swords, all of them warriors.
 
-**18** The Israelites set out and went up to Bethel[^20-11] and asked God, "Which of us is to go up first to battle against the Benjaminites?" Yahweh said, "Judah first."
+**18** The Israelites set out and went up to Bethel[^20-11] and asked God, "Which of us is to go up first to battle against the Benjaminites?" The LORD said, "Judah first."
 
 **19** The Israelites got up in the morning and camped against Gibeah.
 
@@ -1599,17 +1599,17 @@
 
 **22** But the troops, the men of Israel, took courage, and they again drew up their battle lines in the same place where they had drawn them up on the first day.
 
-**23** The Israelites went up and wept before Yahweh until evening. They asked Yahweh, "Shall we go out again to battle against our brothers the Benjaminites?"[^20-13] Yahweh said, "Go up against them."
+**23** The Israelites went up and wept before the LORD until evening. They asked the LORD, "Shall we go out again to battle against our brothers the Benjaminites?"[^20-13] The LORD said, "Go up against them."
 
 **24** So the Israelites advanced against the Benjaminites on the second day.
 
 **25** On the second day Benjamin came out of Gibeah to meet them, and they cut down eighteen thousand more Israelites on the battlefield, all of them armed with swords.
 
-**26** Then all the Israelites, the whole army, went up to Bethel. They wept and sat there before Yahweh, and they fasted that day until evening. They offered burnt offerings and fellowship offerings[^20-14] before Yahweh.
+**26** Then all the Israelites, the whole army, went up to Bethel. They wept and sat there before the LORD, and they fasted that day until evening. They offered burnt offerings and fellowship offerings[^20-14] before the LORD.
 
-**27** The Israelites asked Yahweh (for the ark of the covenant of God was there in those days,
+**27** The Israelites asked the LORD (for the ark of the covenant of God was there in those days,
 
-**28** and Phinehas son of Eleazar, son of Aaron, served before it[^20-15] in those days), "Shall we go out yet again to battle against our brothers the Benjaminites, or shall we stop?" Yahweh said, "Go up, for tomorrow I will hand them over to you."
+**28** and Phinehas son of Eleazar, son of Aaron, served before it[^20-15] in those days), "Shall we go out yet again to battle against our brothers the Benjaminites, or shall we stop?" The LORD said, "Go up, for tomorrow I will hand them over to you."
 
 **29** So Israel set men in ambush all around Gibeah.
 
@@ -1623,7 +1623,7 @@
 
 **34** Ten thousand chosen men from all Israel came against Gibeah, and the fighting was heavy. But the Benjaminites did not know that disaster was close upon them.
 
-**35** Yahweh defeated Benjamin before Israel, and that day the Israelites cut down 25,100 men of Benjamin, all of them armed with swords.
+**35** The LORD defeated Benjamin before Israel, and that day the Israelites cut down 25,100 men of Benjamin, all of them armed with swords.
 
 **36** Then the Benjaminites saw that they were defeated.[^20-18] The men of Israel had given ground to Benjamin, because they were relying on the ambush they had set against Gibeah.
 
@@ -1651,7 +1651,7 @@
 
 **48** The men of Israel turned back against the Benjaminites and put them to the sword, the people of the towns and the animals, everything they found. They also set on fire all the towns they came to.
 
-[^20-1]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^20-1]: *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles.
 [^20-2]: Literally "the corners", that is, the chief men.
 [^20-3]: Literally "the lords of Gibeah", its leading citizens (compare 9:2).
 [^20-4]: Hebrew *zimmah u-nevalah*: shameful wickedness that violates what is sacred or right (compare 19:23). Also in verse 10.
@@ -1684,17 +1684,17 @@
 
 **2** The people came to Bethel[^21-1] and sat there before God until evening. They wept aloud, with bitter weeping.[^21-2]
 
-**3** They said, "Yahweh,[^21-3] God of Israel, why has this happened in Israel, that today one tribe should be missing from Israel?"
+**3** They said, "LORD,[^21-3] God of Israel, why has this happened in Israel, that today one tribe should be missing from Israel?"
 
 **4** The next day the people got up early and built an altar there, and they offered burnt offerings and fellowship offerings.[^21-4]
 
-**5** Then the Israelites said, "Who from all the tribes of Israel did not come up to the assembly before Yahweh?" For they had taken a solemn oath concerning anyone who did not come up to Yahweh at Mizpah: "He must be put to death."
+**5** Then the Israelites said, "Who from all the tribes of Israel did not come up to the assembly before the LORD?" For they had taken a solemn oath concerning anyone who did not come up to the LORD at Mizpah: "He must be put to death."
 
 **6** The Israelites felt sorry for their brother Benjamin, and they said, "Today one tribe has been cut off from Israel.
 
-**7** What shall we do about wives for those who are left? We have sworn by Yahweh not to give them any of our daughters as wives."
+**7** What shall we do about wives for those who are left? We have sworn by the LORD not to give them any of our daughters as wives."
 
-**8** They said, "Which one of the tribes of Israel did not come up to Yahweh at Mizpah?" And it turned out that no one from Jabesh-gilead had come to the camp, to the assembly.
+**8** They said, "Which one of the tribes of Israel did not come up to the LORD at Mizpah?" And it turned out that no one from Jabesh-gilead had come to the camp, to the assembly.
 
 **9** For when the people were counted, not one of the people living in Jabesh-gilead was there.
 
@@ -1708,7 +1708,7 @@
 
 **14** So Benjamin came back at that time, and they gave them the women of Jabesh-gilead whom they had kept alive. But there were not enough for them.
 
-**15** The people felt sorry for Benjamin, because Yahweh had made a gap in the tribes of Israel.
+**15** The people felt sorry for Benjamin, because the LORD had made a gap in the tribes of Israel.
 
 **16** The elders of the community said, "What shall we do about wives for those who are left, since the women of Benjamin have been wiped out?"
 
@@ -1716,7 +1716,7 @@
 
 **18** But we cannot give them wives from our daughters, for the Israelites have sworn, 'Cursed is anyone who gives a wife to Benjamin.'"
 
-**19** Then they said, "Look, there is the yearly festival of Yahweh at Shiloh, which is north of Bethel, east of the road that goes up from Bethel to Shechem, and south of Lebonah."
+**19** Then they said, "Look, there is the yearly festival of the LORD at Shiloh, which is north of Bethel, east of the road that goes up from Bethel to Shechem, and south of Lebonah."
 
 **20** So they instructed[^21-8] the Benjaminites, "Go and lie in wait in the vineyards.
 
@@ -1732,7 +1732,7 @@
 
 [^21-1]: Or "to the house of God".
 [^21-2]: Literally "They lifted up their voice and wept a great weeping."
-[^21-3]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^21-3]: *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles.
 [^21-4]: Hebrew *shelamim*, traditionally "peace offerings", sacrifices shared in a meal by the worshipers.
 [^21-5]: Literally "strike … by the mouth of the sword".
 [^21-6]: Hebrew *charam*: to give something over completely to God, which in war meant destroying it. See 1:17.

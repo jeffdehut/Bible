@@ -17,19 +17,19 @@
 
 **5** When the days of feasting had run their course, Job would send for them and purify them.[^1-5] He would get up early in the morning and offer burnt offerings for each one of them, for Job thought, "Perhaps my children[^1-6] have sinned and cursed[^1-7] God in their hearts." This is what Job always did.
 
-**6** One day the sons of God[^1-8] came to present themselves before Yahweh,[^1-9] and the Accuser[^1-10] also came among them.
+**6** One day the sons of God[^1-8] came to present themselves before the LORD,[^1-9] and the Accuser[^1-10] also came among them.
 
-**7** Yahweh said to the Accuser, "Where have you come from?" The Accuser answered Yahweh, "From roaming the earth and walking about on it."
+**7** The LORD said to the Accuser, "Where have you come from?" The Accuser answered the LORD, "From roaming the earth and walking about on it."
 
-**8** Yahweh said to the Accuser, "Have you considered[^1-11] my servant Job? There is no one like him on earth, a blameless and upright man who fears God and turns away from evil."
+**8** The LORD said to the Accuser, "Have you considered[^1-11] my servant Job? There is no one like him on earth, a blameless and upright man who fears God and turns away from evil."
 
-**9** The Accuser answered Yahweh, "Is it for nothing that Job fears God?
+**9** The Accuser answered the LORD, "Is it for nothing that Job fears God?
 
 **10** Have you not put a hedge around him and his household and everything he has, on every side? You have blessed the work of his hands, and his livestock have spread out over the land.
 
 **11** But stretch out your hand now and touch everything he has, and he will surely curse you to your face."[^1-12]
 
-**12** Yahweh said to the Accuser, "Very well, everything he has is in your power.[^1-13] Only do not stretch out your hand against him." Then the Accuser went out from the presence of Yahweh.
+**12** The LORD said to the Accuser, "Very well, everything he has is in your power.[^1-13] Only do not stretch out your hand against him." Then the Accuser went out from the presence of the LORD.
 
 **13** One day, when Job's sons and daughters were eating and drinking wine in the house of their oldest brother,
 
@@ -47,7 +47,7 @@
 
 **20** Then Job got up, tore his robe and shaved his head. He fell to the ground and worshiped.[^1-19]
 
-**21** He said, "Naked I came from my mother's womb, and naked I will return there.[^1-20] Yahweh gave, and Yahweh has taken away. May the name of Yahweh be blessed."
+**21** He said, "Naked I came from my mother's womb, and naked I will return there.[^1-20] The LORD gave, and the LORD has taken away. May the name of the LORD be blessed."
 
 **22** In all this Job did not sin, and he did not accuse God of wrongdoing.[^1-21]
 
@@ -59,7 +59,7 @@
 [^1-6]: Literally "my sons".
 [^1-7]: Literally "blessed". Here and in verse 11, 2:5 and 2:9, the Hebrew says "bless" in place of "curse", to avoid writing the words "curse God".
 [^1-8]: Literally "the sons of God" (Hebrew *bene ha-elohim*): heavenly beings who serve in God's court, as in 2:1 and 38:7 (compare Genesis 6:2; Psalm 29:1). The Greek Septuagint reads "the angels of God".
-[^1-9]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^1-9]: *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles.
 [^1-10]: Hebrew *ha-satan*, "the adversary, the accuser", with the article: a title rather than a name. Traditionally "Satan".
 [^1-11]: Literally "set your heart on".
 [^1-12]: Literally "if he will not bless you to your face". On "bless" for "curse", see verse 5. The form "if not" is that of an oath: "I swear he will".
@@ -77,19 +77,19 @@
 
 *Status: draft*
 
-**1** One day the sons of God[^2-1] came to present themselves before Yahweh,[^2-2] and the Accuser[^2-3] also came among them to present himself before Yahweh.
+**1** One day the sons of God[^2-1] came to present themselves before the LORD,[^2-2] and the Accuser[^2-3] also came among them to present himself before the LORD.
 
-**2** Yahweh said to the Accuser, "Where have you come from?" The Accuser answered Yahweh, "From roaming the earth and walking about on it."
+**2** The LORD said to the Accuser, "Where have you come from?" The Accuser answered the LORD, "From roaming the earth and walking about on it."
 
-**3** Yahweh said to the Accuser, "Have you considered my servant Job? There is no one like him on earth, a blameless and upright man who fears God and turns away from evil. He still holds firmly to his integrity, though you incited me against him to ruin him for no reason."[^2-4]
+**3** The LORD said to the Accuser, "Have you considered my servant Job? There is no one like him on earth, a blameless and upright man who fears God and turns away from evil. He still holds firmly to his integrity, though you incited me against him to ruin him for no reason."[^2-4]
 
-**4** The Accuser answered Yahweh, "Skin for skin![^2-5] A man will give everything he has for his life.
+**4** The Accuser answered the LORD, "Skin for skin![^2-5] A man will give everything he has for his life.
 
 **5** But stretch out your hand now and touch his bone and his flesh, and he will surely curse you to your face."[^2-6]
 
-**6** Yahweh said to the Accuser, "Very well, he is in your power. Only spare his life."
+**6** The LORD said to the Accuser, "Very well, he is in your power. Only spare his life."
 
-**7** So the Accuser went out from the presence of Yahweh, and he struck Job with painful sores from the sole of his foot to the crown of his head.
+**7** So the Accuser went out from the presence of the LORD, and he struck Job with painful sores from the sole of his foot to the crown of his head.
 
 **8** Job took a piece of broken pottery to scrape himself with as he sat among the ashes.
 
@@ -104,7 +104,7 @@
 **13** Then they sat with him on the ground for seven days and seven nights. No one said a word to him, for they saw that his pain was very great.
 
 [^2-1]: Literally "the sons of God": heavenly beings who serve in God's court (see 1:6). The Greek Septuagint reads "the angels of God".
-[^2-2]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^2-2]: *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles.
 [^2-3]: Hebrew *ha-satan*, "the adversary, the accuser", with the article: a title rather than a name. Traditionally "Satan".
 [^2-4]: Literally "to swallow him up". *For no reason* is Hebrew *chinnam*, the word the Accuser used in 1:9, "for nothing".
 [^2-5]: A proverb whose exact sense is uncertain, perhaps "one skin for another": a person will give up anything to save his own skin.
@@ -758,7 +758,7 @@
 
 **8** or speak to the earth, and it will teach you, and let the fish of the sea tell you.
 
-**9** Which of all these does not know that the hand of Yahweh[^12-5] has done this?
+**9** Which of all these does not know that the hand of the LORD[^12-5] has done this?
 
 **10** In his hand is the life of every living thing and the breath of every human being.
 
@@ -796,7 +796,7 @@
 [^12-2]: Hebrew *Eloah*, a poetic form of *Elohim*, "God", used often in Job. Also in verse 6.
 [^12-3]: The Hebrew of this verse is uncertain. Hebrew *lappid* usually means "torch"; here it is probably *le-pid*, "for disaster".
 [^12-4]: Or "whom God has brought into his power". The Hebrew of this line is uncertain. The first line has *El*, the second *Eloah*.
-[^12-5]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles. This is the only place where the name is used in the speeches of Job and his friends (chapters 3–37). Isaiah 41:20 has the same words.
+[^12-5]: *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles. This is the only place where the name is used in the speeches of Job and his friends (chapters 3–37). Isaiah 41:20 has the same words.
 [^12-6]: Perhaps a question, or a saying of the friends that Job quotes: "Is wisdom with the aged…?"
 [^12-7]: Hebrew *tushiyyah*, as in 5:12.
 [^12-8]: Hebrew *sholal*, "stripped", perhaps "barefoot" or "plundered", like captives. Also in verse 19.
@@ -2663,7 +2663,7 @@
 
 *Status: draft*
 
-**1** Then Yahweh[^38-1] answered Job out of the storm:[^38-2]
+**1** Then the LORD[^38-1] answered Job out of the storm:[^38-2]
 
 **2** "Who is this who darkens counsel[^38-3] with words without knowledge?
 
@@ -2745,8 +2745,8 @@
 
 **41** Who provides food for the raven, when its young[^38-25] cry out to God and wander about for lack of food?
 
-[^38-1]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles. The name, used in the prose of chapters 1–2, has not appeared in the speeches since 12:9.
-[^38-2]: Or "the whirlwind". Hebrew *se'arah*, a storm wind. Yahweh speaks from here to 40:2, and again in 40:7–41:26 (40:7–41:34 in most English Bibles).
+[^38-1]: *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles. The name, used in the prose of chapters 1–2, has not appeared in the speeches since 12:9.
+[^38-2]: Or "the whirlwind". Hebrew *se'arah*, a storm wind. The LORD speaks from here to 40:2, and again in 40:7–41:26 (40:7–41:34 in most English Bibles).
 [^38-3]: Hebrew *etsah*, "counsel, plan": God's purpose for the world.
 [^38-4]: Literally "Gird up your loins": tie up your long robe, ready for action.
 [^38-5]: Heavenly beings (see 1:6).
@@ -2859,17 +2859,17 @@
 
 *Status: draft*
 
-**1** Then Yahweh[^40-1] answered Job:
+**1** Then the LORD[^40-1] answered Job:
 
 **2** "Will the one who contends with the Almighty[^40-2] correct him? Let the one who argues with God answer it!"[^40-3]
 
-**3** Then Job answered Yahweh:
+**3** Then Job answered the LORD:
 
 **4** "Look, I am of small account;[^40-4] what can I answer you? I put my hand over my mouth.
 
 **5** I have spoken once, and I will not answer; twice, but I will say no more."
 
-**6** Then Yahweh answered Job out of the storm:
+**6** Then the LORD answered Job out of the storm:
 
 **7** "Brace yourself like a man; I will question you, and you will inform me.[^40-5]
 
@@ -2923,11 +2923,11 @@
 
 **32** Lay your hand on it; remember the battle, and you will not do it again!
 
-[^40-1]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^40-1]: *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles.
 [^40-2]: Hebrew *Shaddai*, traditionally "the Almighty"; the meaning is uncertain.
 [^40-3]: The Hebrew of this verse is uncertain. Literally "Is contending with the Almighty correcting? One who reproves God, let him answer it". Or "Will a faultfinder contend with the Almighty?"
 [^40-4]: Literally "I am light", the opposite of "heavy", that is, weighty and honored.
-[^40-5]: Yahweh repeats his words in 38:3.
+[^40-5]: The LORD repeats his words in 38:3.
 [^40-6]: Hebrew *mishpat*: justice, judgment, the right in a case.
 [^40-7]: The world of the dead.
 [^40-8]: Or "acknowledge you".
@@ -3028,7 +3028,7 @@
 
 *Status: draft*
 
-**1** Then Job answered Yahweh:[^42-1]
+**1** Then Job answered the LORD:[^42-1]
 
 **2** "I know[^42-2] that you can do all things, and that no purpose of yours can be thwarted.
 
@@ -3040,17 +3040,17 @@
 
 **6** Therefore I retract and repent in dust and ashes."[^42-5]
 
-**7** After Yahweh had spoken these words to Job, Yahweh said to Eliphaz the Temanite, "My anger burns against you and against your two friends, for you have not spoken of me[^42-6] what is right, as my servant Job has.
+**7** After the LORD had spoken these words to Job, the LORD said to Eliphaz the Temanite, "My anger burns against you and against your two friends, for you have not spoken of me[^42-6] what is right, as my servant Job has.
 
 **8** So now take seven bulls and seven rams, go to my servant Job, and offer a burnt offering for yourselves. My servant Job will pray for you, for I will accept his prayer[^42-7] and not deal with you as your folly deserves.[^42-8] For you have not spoken of me what is right, as my servant Job has."
 
-**9** So Eliphaz the Temanite, Bildad the Shuhite and Zophar the Naamathite went and did as Yahweh had told them, and Yahweh accepted Job's prayer.[^42-9]
+**9** So Eliphaz the Temanite, Bildad the Shuhite and Zophar the Naamathite went and did as the LORD had told them, and the LORD accepted Job's prayer.[^42-9]
 
-**10** When Job had prayed for his friends, Yahweh restored his fortunes,[^42-10] and Yahweh gave Job twice as much as he had before.
+**10** When Job had prayed for his friends, the LORD restored his fortunes,[^42-10] and the LORD gave Job twice as much as he had before.
 
-**11** Then all his brothers and sisters and all who had known him before came to him and ate a meal[^42-11] with him in his house. They showed him sympathy[^42-12] and comforted him for all the trouble that Yahweh had brought on him, and each of them gave him a *qesitah*[^42-13] and a gold ring.
+**11** Then all his brothers and sisters and all who had known him before came to him and ate a meal[^42-11] with him in his house. They showed him sympathy[^42-12] and comforted him for all the trouble that the LORD had brought on him, and each of them gave him a *qesitah*[^42-13] and a gold ring.
 
-**12** Yahweh blessed the latter part of Job's life more than the first. He had fourteen thousand sheep, six thousand camels, a thousand yoke of oxen and a thousand female donkeys.[^42-14]
+**12** The LORD blessed the latter part of Job's life more than the first. He had fourteen thousand sheep, six thousand camels, a thousand yoke of oxen and a thousand female donkeys.[^42-14]
 
 **13** He also had seven sons[^42-15] and three daughters.
 
@@ -3062,10 +3062,10 @@
 
 **17** And Job died, old and full of days.[^42-18]
 
-[^42-1]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^42-1]: *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles.
 [^42-2]: The Hebrew text is written "You know" but read "I know".
-[^42-3]: Job quotes Yahweh's words in 38:2.
-[^42-4]: Job takes up Yahweh's challenge in 38:3 and 40:7. Or these are Job's own words to Yahweh, not a quotation.
+[^42-3]: Job quotes the LORD's words in 38:2.
+[^42-4]: Job takes up the LORD's challenge in 38:3 and 40:7. Or these are Job's own words to the LORD, not a quotation.
 [^42-5]: The Hebrew of this verse is notoriously difficult, and each part can be read more than one way. *Retract* is Hebrew *em'as*, "I reject, I despise", with no object stated: "I despise myself" (the traditional rendering, "I abhor myself"), "I reject what I said", or, taking it from a similar verb, "I melt away". *Repent* is Hebrew *nichamti*, which can mean "I am sorry, I change my mind" or "I am comforted, I take comfort". *In dust and ashes* is literally "on" or "concerning dust and ashes": either Job sits in them as a mourner (2:8), or they stand for human frailty (30:19; Genesis 18:27). So the verse can also be read "I despise myself, and I repent in dust and ashes", "I retract, and I give up dust and ashes", that is, my mourning, or "I retract, and I am comforted, though I am dust and ashes".
 [^42-6]: Or "to me". *What is right* is Hebrew *nekhonah*, "what is right, true, firm". Also in verse 8.
 [^42-7]: Literally "I will lift up his face".

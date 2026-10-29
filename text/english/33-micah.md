@@ -7,11 +7,11 @@
 
 *Status: draft*
 
-**1** The word of Yahweh[^1-1] that came to Micah of Moresheth[^1-2] in the days of Jotham, Ahaz and Hezekiah, kings of Judah,[^1-3] which he saw concerning Samaria and Jerusalem.
+**1** The word of the LORD[^1-1] that came to Micah of Moresheth[^1-2] in the days of Jotham, Ahaz and Hezekiah, kings of Judah,[^1-3] which he saw concerning Samaria and Jerusalem.
 
-**2** Hear, you peoples, all of you;[^1-4] listen, earth, and all that is in it! Let the Lord Yahweh[^1-5] be a witness against you, the Lord from his holy temple.
+**2** Hear, you peoples, all of you;[^1-4] listen, earth, and all that is in it! Let the Lord GOD[^1-5] be a witness against you, the Lord from his holy temple.
 
-**3** For look, Yahweh is coming out of his place. He will come down and tread on the heights of the earth.
+**3** For look, the LORD is coming out of his place. He will come down and tread on the heights of the earth.
 
 **4** The mountains will melt under him, and the valleys will split open, like wax before the fire, like water poured down a slope.
 
@@ -29,7 +29,7 @@
 
 **11** Pass on your way, you who live in Shaphir, in shameful nakedness.[^1-14] Those who live in Zaanan do not come out.[^1-15] Beth-ezel is wailing; it will take its support away from you.[^1-16]
 
-**12** For those who live in Maroth writhe in anguish, waiting for good,[^1-17] because disaster has come down from Yahweh to the gate of Jerusalem.
+**12** For those who live in Maroth writhe in anguish, waiting for good,[^1-17] because disaster has come down from the LORD to the gate of Jerusalem.
 
 **13** Harness the horses to the chariot, you who live in Lachish.[^1-18] She was the beginning of sin for Daughter Zion,[^1-19] for in you were found the rebellions of Israel.
 
@@ -39,11 +39,11 @@
 
 **16** Shave your head bald and cut off your hair for the children you delight in. Make yourself as bald as the vulture,[^1-24] for they have gone from you into exile.
 
-[^1-1]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
-[^1-2]: *Micah* is a short form of *Mikhayahu*, "Who is like Yahweh?" (compare 7:18). Moresheth, also called Moresheth-gath (verse 14), was a town in the low hills of Judah, about 25 miles (40 km) southwest of Jerusalem.
+[^1-1]: *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles.
+[^1-2]: *Micah* is a short form of *Mikhayahu*, "Who is like the LORD?" (compare 7:18). Moresheth, also called Moresheth-gath (verse 14), was a town in the low hills of Judah, about 25 miles (40 km) southwest of Jerusalem.
 [^1-3]: These kings reigned from about 750 to 686 BC. Jeremiah 26:18 quotes Micah 3:12 as spoken in the days of Hezekiah.
 [^1-4]: Literally "Hear, peoples, all of them". The same words end the story of the prophet Micaiah son of Imlah in 1 Kings 22:28.
-[^1-5]: Hebrew *Adonai YHWH*, "my Lord Yahweh", traditionally "the Lord GOD". The second *Lord* in the verse is *Adonai* alone.
+[^1-5]: Hebrew *Adonai YHWH*, "my Lord YHWH". After "Lord", God's personal name is written GOD in capitals, as in most English Bibles. The second *Lord* in the verse is *Adonai* alone.
 [^1-6]: Hebrew *pesha*, "rebellion, transgression", a deliberate breaking of faith. Also in verse 13.
 [^1-7]: The high places were hill shrines where sacrifices were offered. The Septuagint reads "the sin of the house of Judah".
 [^1-8]: Hebrew *etnan*, the fee paid to a prostitute. The gifts given at Samaria's shrines are pictured as the earnings of an unfaithful wife (Hosea 2:14, 2:12 in most English Bibles; 9:1). When the city falls, its treasures will go to adorn the temples of the conquerors.
@@ -72,15 +72,15 @@
 
 **2** They covet fields and seize them, and houses, and take them. They oppress a man and his household, a person and his inheritance.[^2-3]
 
-**3** Therefore this is what Yahweh[^2-4] says: Look, I am planning disaster against this clan, from which you cannot free your necks.[^2-5] You will no longer walk proudly, for it will be an evil time.[^2-6]
+**3** Therefore this is what the LORD[^2-4] says: Look, I am planning disaster against this clan, from which you cannot free your necks.[^2-5] You will no longer walk proudly, for it will be an evil time.[^2-6]
 
 **4** On that day they will take up a taunt song[^2-7] against you and lament with a bitter lament,[^2-8] saying, "We are utterly ruined! He changes the portion of my people. How he takes it away from me! He divides our fields among traitors."[^2-9]
 
-**5** Therefore you will have no one to cast the measuring line by lot[^2-10] in the assembly of Yahweh.
+**5** Therefore you will have no one to cast the measuring line by lot[^2-10] in the assembly of the LORD.
 
 **6** "Do not preach," they preach.[^2-11] "No one should preach about such things. Disgrace will not overtake us."[^2-12]
 
-**7** Should this be said, house of Jacob?[^2-13] Is the Spirit of Yahweh impatient?[^2-14] Are these the things he does? Do not my words do good to the one who walks uprightly?
+**7** Should this be said, house of Jacob?[^2-13] Is the Spirit of the LORD impatient?[^2-14] Are these the things he does? Do not my words do good to the one who walks uprightly?
 
 **8** But lately my people have risen up as an enemy.[^2-15] You strip the robe from off the garment of those who pass by trustingly, like men returning from war.[^2-16]
 
@@ -92,12 +92,12 @@
 
 **12** I will surely gather all of you, Jacob; I will surely bring together the remnant of Israel. I will put them together like sheep in a fold,[^2-21] like a flock in the middle of its pasture. The place will hum with people.
 
-**13** The one who breaks open the way[^2-22] will go up before them. They will break through, pass through the gate and go out by it. Their king will pass on before them, Yahweh at their head.
+**13** The one who breaks open the way[^2-22] will go up before them. They will break through, pass through the gate and go out by it. Their king will pass on before them, the LORD at their head.
 
 [^2-1]: Hebrew *hoy*, a cry of mourning for the dead ("Alas!", 1 Kings 13:30). The prophets use it to announce disaster, and in that sense it is translated "Woe to" throughout this book.
 [^2-2]: Literally "because their hand is to God", an idiom for "it is within their power" (Genesis 31:29).
 [^2-3]: Hebrew *nachalah*, the family land handed down from one generation to the next (1 Kings 21:3).
-[^2-4]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^2-4]: *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles.
 [^2-5]: The disaster is pictured as a yoke.
 [^2-6]: The same words are found in Amos 5:13.
 [^2-7]: Hebrew *mashal*, a saying or proverb, here a mocking song.
@@ -107,10 +107,10 @@
 [^2-11]: Literally "drip", as in Amos 7:16. Also in verse 11. The speakers are the people, or their prophets, who want to silence Micah.
 [^2-12]: The Hebrew is difficult. Literally "They shall not drip to these; disgraces will not move away".
 [^2-13]: Some scholars read "Is the house of Jacob cursed?", with a small change to the Hebrew.
-[^2-14]: Literally "Is the Spirit of Yahweh short?", that is, impatient or lacking in power (compare Numbers 11:23). Hebrew *ruach* can mean spirit, wind or breath.
+[^2-14]: Literally "Is the Spirit of the LORD short?", that is, impatient or lacking in power (compare Numbers 11:23). Hebrew *ruach* can mean spirit, wind or breath.
 [^2-15]: The Hebrew is difficult. Some scholars read "But you rise up against my people as an enemy", with a small change to the Hebrew.
 [^2-16]: Or "like men who are against war", peaceful people who expect no harm.
-[^2-17]: Perhaps their share in the land, or the freedom they had as Yahweh's people.
+[^2-17]: Perhaps their share in the land, or the freedom they had as the LORD's people.
 [^2-18]: The promised land was to be Israel's place of rest (Deuteronomy 12:9).
 [^2-19]: Or "because it is unclean, it will be destroyed with a painful destruction". The Hebrew verb may also mean "take in pledge".
 [^2-20]: Hebrew *ruach*, "wind" or "spirit", the same word as in verse 7: a false prophet who claims the spirit but has only wind.
@@ -127,75 +127,75 @@
 
 **3** You eat the flesh of my people and strip their skin off them. You break their bones in pieces and chop them up like meat for the pot,[^3-2] like flesh in a cauldron.
 
-**4** Then they will cry out to Yahweh,[^3-3] but he will not answer them. He will hide his face from them at that time, because of the evil they have done.
+**4** Then they will cry out to the LORD,[^3-3] but he will not answer them. He will hide his face from them at that time, because of the evil they have done.
 
-**5** This is what Yahweh says about the prophets who lead my people astray, who cry "Peace!" when they have something to bite with their teeth, but declare war[^3-4] on anyone who puts nothing in their mouths:
+**5** This is what the LORD says about the prophets who lead my people astray, who cry "Peace!" when they have something to bite with their teeth, but declare war[^3-4] on anyone who puts nothing in their mouths:
 
 **6** Therefore it will be night for you, with no vision, and darkness for you, with no divination.[^3-5] The sun will go down on the prophets, and the day will turn black over them.
 
 **7** The seers will be ashamed and the diviners disgraced. They will all cover their lips,[^3-6] because there is no answer from God.
 
-**8** But as for me, I am filled with power, with the Spirit of Yahweh,[^3-7] and with justice and might, to declare to Jacob his rebellion and to Israel his sin.
+**8** But as for me, I am filled with power, with the Spirit of the LORD,[^3-7] and with justice and might, to declare to Jacob his rebellion and to Israel his sin.
 
 **9** Hear this, you heads of the house of Jacob and rulers of the house of Israel, who detest justice and twist everything that is straight,
 
 **10** who build Zion with bloodshed and Jerusalem with injustice.
 
-**11** Her leaders judge for a bribe, her priests teach[^3-8] for a price, and her prophets practice divination for money. Yet they lean on Yahweh and say, "Is not Yahweh among us? No disaster will come on us."
+**11** Her leaders judge for a bribe, her priests teach[^3-8] for a price, and her prophets practice divination for money. Yet they lean on the LORD and say, "Is not the LORD among us? No disaster will come on us."
 
 **12** Therefore, because of you, Zion will be plowed like a field, Jerusalem will become a heap of ruins, and the temple mount a wooded height.[^3-9]
 
 [^3-1]: Literally "their skin from on them". *My people* is supplied from verse 3.
 [^3-2]: Literally "spread them out as in a pot". Some scholars read "like flesh in a pot", with a small change to the Hebrew.
-[^3-3]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^3-3]: *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles.
 [^3-4]: Literally "consecrate war", as for a holy war.
 [^3-5]: Hebrew *qesem*, the reading of omens, forbidden in Deuteronomy 18:10. Micah uses it with scorn of the prophets' practice. Also in verses 7 and 11.
 [^3-6]: Literally "cover the mustache", a sign of shame or mourning (Leviticus 13:45; Ezekiel 24:17, 22).
-[^3-7]: Or "by the Spirit of Yahweh". Hebrew *ruach* can mean spirit, wind or breath.
-[^3-8]: Hebrew *yoru*, the verb from which *torah*, "instruction", comes. The priests were to teach the people Yahweh's instruction (Deuteronomy 33:10; Malachi 2:7).
+[^3-7]: Or "by the Spirit of the LORD". Hebrew *ruach* can mean spirit, wind or breath.
+[^3-8]: Hebrew *yoru*, the verb from which *torah*, "instruction", comes. The priests were to teach the people the LORD's instruction (Deuteronomy 33:10; Malachi 2:7).
 [^3-9]: *The temple mount* is literally "the mountain of the house". Jeremiah 26:18 quotes this verse about a century later, as spoken in the days of Hezekiah.
 
 ## Chapter 4
 
 *Status: draft*
 
-**1** In the days to come,[^4-1] the mountain of Yahweh's[^4-2] house will be established as the highest of the mountains;[^4-3] it will be raised above the hills, and peoples will stream to it.[^4-4]
+**1** In the days to come,[^4-1] the mountain of the LORD's[^4-2] house will be established as the highest of the mountains;[^4-3] it will be raised above the hills, and peoples will stream to it.[^4-4]
 
-**2** Many nations will come and say, "Come, let us go up to the mountain of Yahweh, to the house of the God of Jacob, so that he may teach us his ways and we may walk in his paths." For instruction[^4-5] will go out from Zion, and the word of Yahweh from Jerusalem.
+**2** Many nations will come and say, "Come, let us go up to the mountain of the LORD, to the house of the God of Jacob, so that he may teach us his ways and we may walk in his paths." For instruction[^4-5] will go out from Zion, and the word of the LORD from Jerusalem.
 
 **3** He will judge between many peoples and settle disputes for strong nations far away. They will beat their swords into plowshares[^4-6] and their spears into pruning knives. Nation will not lift up sword against nation, and they will not learn war anymore.
 
-**4** Each of them will sit under his own vine and under his own fig tree, and no one will make them afraid,[^4-7] for the mouth of Yahweh of Armies[^4-8] has spoken.
+**4** Each of them will sit under his own vine and under his own fig tree, and no one will make them afraid,[^4-7] for the mouth of the LORD of Armies[^4-8] has spoken.
 
-**5** For all the peoples walk, each in the name of its god, but we will walk in the name of Yahweh our God forever and ever.
+**5** For all the peoples walk, each in the name of its god, but we will walk in the name of the LORD our God forever and ever.
 
-**6** On that day, declares Yahweh,[^4-9] I will gather the lame[^4-10] and bring together those who have been driven away, those whom I have afflicted.
+**6** On that day, declares the LORD,[^4-9] I will gather the lame[^4-10] and bring together those who have been driven away, those whom I have afflicted.
 
-**7** I will make the lame a remnant, and those driven far away[^4-11] a strong nation. Yahweh will reign over them on Mount Zion from now on and forever.
+**7** I will make the lame a remnant, and those driven far away[^4-11] a strong nation. The LORD will reign over them on Mount Zion from now on and forever.
 
 **8** And you, watchtower of the flock,[^4-12] stronghold of Daughter Zion,[^4-13] to you it will come: the former dominion will come, the kingdom of Daughter Jerusalem.
 
 **9** Now why do you cry aloud? Is there no king in you? Has your counselor perished, that pain has seized you like a woman in labor?
 
-**10** Writhe and groan,[^4-14] Daughter Zion, like a woman in labor, for now you will go out from the city and camp in the open country. You will go to Babylon.[^4-15] There you will be rescued; there Yahweh will redeem you from the hand of your enemies.
+**10** Writhe and groan,[^4-14] Daughter Zion, like a woman in labor, for now you will go out from the city and camp in the open country. You will go to Babylon.[^4-15] There you will be rescued; there the LORD will redeem you from the hand of your enemies.
 
 **11** But now many nations have gathered against you. They say, "Let her be defiled,[^4-16] and let our eyes gloat over Zion."
 
-**12** But they do not know the thoughts of Yahweh, and they do not understand his plan: he has gathered them like sheaves to the threshing floor.
+**12** But they do not know the thoughts of the LORD, and they do not understand his plan: he has gathered them like sheaves to the threshing floor.
 
-**13** Rise and thresh, Daughter Zion, for I will make your horn iron and your hooves bronze, and you will crush many peoples. You will devote[^4-17] their plunder to Yahweh, their wealth to the Lord of the whole earth.
+**13** Rise and thresh, Daughter Zion, for I will make your horn iron and your hooves bronze, and you will crush many peoples. You will devote[^4-17] their plunder to the LORD, their wealth to the Lord of the whole earth.
 
 **14** Now gather your troops, daughter of troops![^4-18] A siege has been laid against us. With a rod they will strike the judge of Israel on the cheek.[^4-19]
 
 [^4-1]: Literally "at the end of the days". Verses 1–3 are found also in Isaiah 2:2–4, with small differences. Verse 4 is found only in Micah.
-[^4-2]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^4-2]: *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles.
 [^4-3]: Literally "at the head of the mountains".
 [^4-4]: Or "will flow to it", like a river.
 [^4-5]: Hebrew *torah*, "instruction, teaching, law".
 [^4-6]: Hebrew *ittim*, probably iron plow points or hoes. Joel 4:10 (3:10 in most English Bibles) turns the image around: "Beat your plowshares into swords."
 [^4-7]: A picture of peace and safety, as in the days of Solomon (1 Kings 5:5, 4:25 in most English Bibles; compare Zechariah 3:10).
 [^4-8]: Hebrew *YHWH tseva'ot*, traditionally "the LORD of hosts" or "the LORD Almighty". *Tseva'ot* means armies: the heavenly hosts and the armies of Israel.
-[^4-9]: Hebrew *ne'um YHWH*, "the declaration of Yahweh", a formula that marks a prophet's words as Yahweh's own solemn statement.
+[^4-9]: Hebrew *ne'um YHWH*, "the declaration of the LORD", a formula that marks a prophet's words as the LORD's own solemn statement.
 [^4-10]: The Hebrew is feminine singular, "the limping one", picturing the people as a lame ewe of the flock. Also in verse 7. Compare Zephaniah 3:19.
 [^4-11]: Hebrew *ha-nahala'ah*, found only here. Perhaps "those cast far off".
 [^4-12]: Hebrew *Migdal-eder*, a shepherd's tower for watching over the flock. Genesis 35:21 names a place near Bethlehem by it. Here it is Jerusalem.
@@ -215,19 +215,19 @@
 
 **2** Therefore he will give them up until the time when she who is in labor has given birth.[^5-4] Then the rest of his brothers will return to the people of Israel.
 
-**3** He will stand and shepherd his flock[^5-5] in the strength of Yahweh,[^5-6] in the majesty of the name of Yahweh his God. And they will live secure, for now he will be great to the ends of the earth.
+**3** He will stand and shepherd his flock[^5-5] in the strength of the LORD,[^5-6] in the majesty of the name of the LORD his God. And they will live secure, for now he will be great to the ends of the earth.
 
 **4** And he will be our peace.[^5-7] When Assyria comes into our land and treads on our fortresses, we will raise up against it seven shepherds, eight leaders of men.[^5-8]
 
 **5** They will shepherd[^5-9] the land of Assyria with the sword, and the land of Nimrod[^5-10] at its gates.[^5-11] He will rescue us from Assyria when it comes into our land and treads within our borders.
 
-**6** The remnant of Jacob will be among many peoples like dew from Yahweh, like showers on the grass, which do not wait for anyone or depend on human beings.[^5-12]
+**6** The remnant of Jacob will be among many peoples like dew from the LORD, like showers on the grass, which do not wait for anyone or depend on human beings.[^5-12]
 
 **7** The remnant of Jacob will be among the nations, among many peoples, like a lion among the animals of the forest, like a young lion among flocks of sheep, which tramples and tears as it goes, and there is no one to rescue.
 
 **8** Your hand will be raised over your adversaries, and all your enemies will be cut off.
 
-**9** On that day, declares Yahweh,[^5-13] I will cut off your horses from among you and destroy your chariots.
+**9** On that day, declares the LORD,[^5-13] I will cut off your horses from among you and destroy your chariots.
 
 **10** I will cut off the cities of your land and tear down all your strongholds.
 
@@ -244,14 +244,14 @@
 [^5-3]: Or "from days long ago". *Origins* is literally "goings out".
 [^5-4]: Perhaps the mother of the coming ruler (compare Isaiah 7:14), or Zion in her labor pains (4:9–10).
 [^5-5]: *His flock* is added. Literally "He will stand and shepherd".
-[^5-6]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^5-6]: *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles.
 [^5-7]: Or "This will be our peace". Literally "This one will be peace".
 [^5-8]: A number saying, as in Amos 1:3: as many leaders as are needed, and more.
 [^5-9]: The verb *ra'ah*, "shepherd", can also be read *ra'a'*, "shatter".
 [^5-10]: The mighty hunter, founder of cities in Babylonia and Assyria (Genesis 10:8–12).
 [^5-11]: Literally "in its entrances". Some scholars read "with the drawn sword", with a small change to the Hebrew.
-[^5-12]: Dew and rain come from Yahweh alone, not from human effort.
-[^5-13]: Hebrew *ne'um YHWH*, "the declaration of Yahweh", a formula that marks a prophet's words as Yahweh's own solemn statement.
+[^5-12]: Dew and rain come from the LORD alone, not from human effort.
+[^5-13]: Hebrew *ne'um YHWH*, "the declaration of the LORD", a formula that marks a prophet's words as the LORD's own solemn statement.
 [^5-14]: Practices forbidden in Deuteronomy 18:10–14. *Fortune-tellers* is Hebrew *me'onenim*, a word of uncertain meaning.
 [^5-15]: Hebrew *matsevot*, stone pillars set up at places of worship, forbidden in Deuteronomy 16:22.
 [^5-16]: Hebrew *asherim*, wooden poles or trees that were symbols of the goddess Asherah (Deuteronomy 16:21).
@@ -262,23 +262,23 @@
 
 *Status: draft*
 
-**1** Hear what Yahweh[^6-1] is saying: Rise, plead your case[^6-2] before the mountains, and let the hills hear your voice.
+**1** Hear what the LORD[^6-1] is saying: Rise, plead your case[^6-2] before the mountains, and let the hills hear your voice.
 
-**2** Hear, you mountains, Yahweh's case, you enduring foundations of the earth! For Yahweh has a case against his people, and he will argue it with Israel.
+**2** Hear, you mountains, the LORD's case, you enduring foundations of the earth! For the LORD has a case against his people, and he will argue it with Israel.
 
 **3** My people, what have I done to you? How have I wearied you?[^6-3] Answer me!
 
 **4** For I brought you up from the land of Egypt and redeemed you from the house of slavery. I sent Moses, Aaron and Miriam ahead of you.
 
-**5** My people, remember what Balak king of Moab planned and what Balaam son of Beor answered him,[^6-4] and what happened from Shittim to Gilgal,[^6-5] so that you may know the saving acts[^6-6] of Yahweh.
+**5** My people, remember what Balak king of Moab planned and what Balaam son of Beor answered him,[^6-4] and what happened from Shittim to Gilgal,[^6-5] so that you may know the saving acts[^6-6] of the LORD.
 
-**6** "With what shall I come before Yahweh[^6-7] and bow down before God on high? Shall I come before him with burnt offerings, with calves a year old?
+**6** "With what shall I come before the LORD[^6-7] and bow down before God on high? Shall I come before him with burnt offerings, with calves a year old?
 
-**7** Will Yahweh be pleased with thousands of rams, with ten thousand rivers of oil? Shall I give my firstborn for my rebellion, the fruit of my body for the sin of my soul?"[^6-8]
+**7** Will the LORD be pleased with thousands of rams, with ten thousand rivers of oil? Shall I give my firstborn for my rebellion, the fruit of my body for the sin of my soul?"[^6-8]
 
-**8** He has told you, mortal,[^6-9] what is good. And what does Yahweh require of you but to do justice, to love faithful love,[^6-10] and to walk humbly[^6-11] with your God?
+**8** He has told you, mortal,[^6-9] what is good. And what does the LORD require of you but to do justice, to love faithful love,[^6-10] and to walk humbly[^6-11] with your God?
 
-**9** Listen! Yahweh is calling to the city, and it is wisdom to fear your name:[^6-12] Hear of the rod, and of the one who appointed it.[^6-13]
+**9** Listen! The LORD is calling to the city, and it is wisdom to fear your name:[^6-12] Hear of the rod, and of the one who appointed it.[^6-13]
 
 **10** Can I forget[^6-14] the treasures of wickedness in the house of the wicked, and the short ephah,[^6-15] which is cursed?
 
@@ -294,13 +294,13 @@
 
 **16** For the decrees of Omri are kept, and all the practices of the house of Ahab,[^6-21] and you have followed their advice. So I will make you a desolation, and the city's inhabitants an object of hissing;[^6-22] you will bear the scorn of my people.[^6-23]
 
-[^6-1]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
-[^6-2]: Hebrew *riv*, a lawsuit. Yahweh brings a case against his people, with the mountains and the foundations of the earth as witnesses (compare Deuteronomy 32:1; Isaiah 1:2). Also in verse 2.
+[^6-1]: *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles.
+[^6-2]: Hebrew *riv*, a lawsuit. The LORD brings a case against his people, with the mountains and the foundations of the earth as witnesses (compare Deuteronomy 32:1; Isaiah 1:2). Also in verse 2.
 [^6-3]: A play on words: *he'le'tikha*, "I have wearied you", and *he'elitikha*, "I brought you up", in verse 4.
 [^6-4]: Balak hired Balaam to curse Israel, but Balaam blessed them instead (Numbers 22–24).
 [^6-5]: Shittim was Israel's last camp east of the Jordan (Numbers 25:1; Joshua 3:1), and Gilgal the first camp west of it, after the crossing (Joshua 4:19). *What happened* is added: literally "from Shittim to Gilgal".
-[^6-6]: Hebrew *tsidqot*, "righteous acts", here Yahweh's acts of rescue (Judges 5:11).
-[^6-7]: In verses 6–7 a worshiper asks what Yahweh wants, and in verse 8 the prophet answers.
+[^6-6]: Hebrew *tsidqot*, "righteous acts", here the LORD's acts of rescue (Judges 5:11).
+[^6-7]: In verses 6–7 a worshiper asks what the LORD wants, and in verse 8 the prophet answers.
 [^6-8]: Hebrew *nephesh*, "soul, self, life". The sacrifice of children was forbidden and condemned (Leviticus 18:21; 2 Kings 16:3; 21:6).
 [^6-9]: Hebrew *adam*, "human being".
 [^6-10]: Hebrew *chesed*, loyal, covenant love, shown to God and to others. Traditionally "to love mercy" or "to love kindness".
@@ -334,13 +334,13 @@
 
 **6** For the son treats his father with contempt, the daughter rises up against her mother, and the daughter-in-law against her mother-in-law. A man's enemies are the people of his own household.[^7-7]
 
-**7** But as for me, I will watch for Yahweh;[^7-8] I will wait for the God of my salvation. My God will hear me.
+**7** But as for me, I will watch for the LORD;[^7-8] I will wait for the God of my salvation. My God will hear me.
 
-**8** Do not gloat over me, my enemy![^7-9] Though I have fallen, I will rise. Though I sit in darkness, Yahweh is my light.
+**8** Do not gloat over me, my enemy![^7-9] Though I have fallen, I will rise. Though I sit in darkness, the LORD is my light.
 
-**9** I will bear the anger of Yahweh, because I have sinned against him, until he pleads my case and gives me justice. He will bring me out into the light; I will see his righteousness.[^7-10]
+**9** I will bear the anger of the LORD, because I have sinned against him, until he pleads my case and gives me justice. He will bring me out into the light; I will see his righteousness.[^7-10]
 
-**10** Then my enemy will see it, and shame will cover her, she who said to me, "Where is Yahweh your God?" My eyes will look on her; now she will be trampled down like mud in the streets.
+**10** Then my enemy will see it, and shame will cover her, she who said to me, "Where is the LORD your God?" My eyes will look on her; now she will be trampled down like mud in the streets.
 
 **11** A day for building your walls! On that day the boundary will be extended far.[^7-11]
 
@@ -354,7 +354,7 @@
 
 **16** The nations will see and be ashamed of all their might. They will put their hands over their mouths; their ears will be deaf.
 
-**17** They will lick the dust like a snake, like creatures that crawl on the ground. They will come trembling out of their strongholds. They will turn in fear to Yahweh our God, and they will be afraid of you.
+**17** They will lick the dust like a snake, like creatures that crawl on the ground. They will come trembling out of their strongholds. They will turn in fear to the LORD our God, and they will be afraid of you.
 
 **18** Who is a God like you,[^7-17] who forgives wrongdoing and passes over the rebellion of the remnant of his inheritance? He does not hold on to his anger forever, because he delights in faithful love.[^7-18]
 
@@ -369,16 +369,16 @@
 [^7-5]: The meaning of the last words is uncertain. Literally "he, and they weave it".
 [^7-6]: The prophets, who watched and warned of the coming day (Jeremiah 6:17; Ezekiel 3:17).
 [^7-7]: Jesus echoes this verse in Matthew 10:35–36 and Luke 12:53.
-[^7-8]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^7-8]: *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles.
 [^7-9]: The Hebrew is feminine. In verses 8–10 Zion speaks to an enemy city or nation, and in verses 11–13 she is addressed.
-[^7-10]: Or "his saving justice". Hebrew *tsedaqah*, "righteousness", here Yahweh's faithfulness in putting things right.
+[^7-10]: Or "his saving justice". Hebrew *tsedaqah*, "righteousness", here the LORD's faithfulness in putting things right.
 [^7-11]: Hebrew *choq*, "boundary" or "decree". Or "the decree will be far off".
 [^7-12]: Hebrew *matsor*, a rare poetic name for Egypt (2 Kings 19:24; Isaiah 19:6), which also means "siege" or "fortress". Also later in the verse.
 [^7-13]: The Euphrates.
 [^7-14]: Hebrew *karmel*, "garden land, orchard", also the name of Mount Carmel (Amos 1:2).
 [^7-15]: Rich pasture lands east of the Jordan (Jeremiah 50:19).
-[^7-16]: Yahweh answers the prayer of verse 14. *Them* is literally "him", that is, Israel. Some scholars read "Show us wonders", with a small change to the Hebrew.
-[^7-17]: The question echoes Micah's own name, "Who is like Yahweh?" (1:1), and the song of Moses (Exodus 15:11). *Forgives wrongdoing* is literally "lifts guilt" (compare Exodus 34:7).
+[^7-16]: The LORD answers the prayer of verse 14. *Them* is literally "him", that is, Israel. Some scholars read "Show us wonders", with a small change to the Hebrew.
+[^7-17]: The question echoes Micah's own name, "Who is like the LORD?" (1:1), and the song of Moses (Exodus 15:11). *Forgives wrongdoing* is literally "lifts guilt" (compare Exodus 34:7).
 [^7-18]: Hebrew *chesed*, loyal, covenant love.
 [^7-19]: The Septuagint, the Syriac and the Vulgate read "our sins".
-[^7-20]: Literally "You will give truth to Jacob, faithful love to Abraham". Hebrew *emet*, "faithfulness, truth", and *chesed*, "faithful love", are the pair in Yahweh's description of himself in Exodus 34:6. Compare Genesis 22:16–18; 28:13–15.
+[^7-20]: Literally "You will give truth to Jacob, faithful love to Abraham". Hebrew *emet*, "faithfulness, truth", and *chesed*, "faithful love", are the pair in the LORD's description of himself in Exodus 34:6. Compare Genesis 22:16–18; 28:13–15.

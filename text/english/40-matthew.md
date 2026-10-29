@@ -78,7 +78,7 @@
 [^1-19]: Some manuscripts read "the birth of the Messiah".
 [^1-20]: Or "betrothed", "pledged to be married". A betrothal was legally binding: Joseph is already called her husband (verse 19), and ending it required a divorce.
 [^1-21]: Literally "release her", the word used for divorce (5:31–32).
-[^1-22]: *Jesus* is the Greek form of the Hebrew name Joshua (*Yeshua*), which means "Yahweh saves". Yahweh is God's personal name.
+[^1-22]: *Jesus* is the Greek form of the Hebrew name Joshua (*Yeshua*), which means "The LORD saves". The LORD is God's personal name.
 [^1-23]: Isaiah 7:14. Matthew follows the Greek Septuagint, which has *parthenos*, "virgin", where the Hebrew has *almah*, "young woman", a girl old enough to marry. The Hebrew reads "she will call"; Matthew reads "they will call".
 [^1-24]: Literally "he was not knowing her", a Hebrew way of speaking of sexual relations.
 [^1-25]: Many manuscripts read "her firstborn son".
@@ -187,7 +187,7 @@
 
 [^3-1]: Greek *metanoeo*, to change one's mind and way of life, to turn around. Also in verses 8 and 11 (*metanoia*, "repentance").
 [^3-2]: Literally "the kingdom of the heavens", Matthew's usual phrase. Many Jews of the time spoke of "heaven" instead of naming God. Mark and Luke have "the kingdom of God".
-[^3-3]: Isaiah 40:3. Matthew follows the Septuagint, which joins "in the wilderness" to the voice; the Hebrew reads "A voice is shouting: 'In the wilderness prepare the way for Yahweh.'" In Isaiah's Hebrew, "the Lord" is God's personal name, Yahweh.
+[^3-3]: Isaiah 40:3. Matthew follows the Septuagint, which joins "in the wilderness" to the voice; the Hebrew reads "A voice is shouting: 'In the wilderness prepare the way for the LORD.'" In Isaiah's Hebrew, "the Lord" is God's personal name, YHWH ("the LORD").
 [^3-4]: Elijah was dressed in the same way (2 Kings 1:8).
 [^3-5]: The Pharisees were a movement of teachers and laypeople devoted to keeping the Law of Moses and the traditions that explained it. The Sadducees were a party of priests and leading families, who accepted only the written Law and did not believe in the resurrection (22:23).
 [^3-6]: Many manuscripts leave out "and fire".
@@ -251,12 +251,12 @@
 **25** Large crowds followed him from Galilee, the Decapolis,[^4-12] Jerusalem, Judea, and the region beyond the Jordan.
 
 [^4-1]: Or "tempted". The Greek word means both. Also in verse 3, "the tempter".
-[^4-2]: Deuteronomy 8:3. Matthew follows the Septuagint, which has "every word" and "God"; the Hebrew reads "everything that comes from the mouth of Yahweh".
+[^4-2]: Deuteronomy 8:3. Matthew follows the Septuagint, which has "every word" and "God"; the Hebrew reads "everything that comes from the mouth of the LORD".
 [^4-3]: Literally "the little wing", perhaps a high corner of the temple's outer wall.
 [^4-4]: Psalm 91:11–12, leaving out "to guard you in all your ways".
-[^4-5]: Deuteronomy 6:16. In the Hebrew, "the Lord" is God's personal name, Yahweh; also in verse 10.
+[^4-5]: Deuteronomy 6:16. In the Hebrew, "the Lord" is God's personal name, YHWH ("the LORD"); also in verse 10.
 [^4-6]: Many manuscripts read "Get behind me, Satan!"
-[^4-7]: Deuteronomy 6:13. The Hebrew reads "Fear Yahweh your God. Serve him"; Matthew has "worship" and "only", in a form close to the Septuagint.
+[^4-7]: Deuteronomy 6:13. The Hebrew reads "Fear the LORD your God. Serve him"; Matthew has "worship" and "only", in a form close to the Septuagint.
 [^4-8]: Literally "handed over".
 [^4-9]: Or "of the Gentiles".
 [^4-10]: Isaiah 8:23–9:1 (9:1–2 in most English Bibles), in a shortened form. Isaiah's Hebrew has "walked in darkness" and "the land of deep darkness" (traditionally "the shadow of death").
@@ -389,7 +389,7 @@
 [^5-24]: Deuteronomy 24:1.
 [^5-25]: Literally "except for a matter of *porneia*", a general word for sexual immorality.
 [^5-26]: Or "makes her the victim of adultery".
-[^5-27]: Compare Leviticus 19:12; Numbers 30:3; Deuteronomy 23:22 (23:21 in most English Bibles). In the Hebrew, "the Lord" is God's personal name, Yahweh.
+[^5-27]: Compare Leviticus 19:12; Numbers 30:3; Deuteronomy 23:22 (23:21 in most English Bibles). In the Hebrew, "the Lord" is God's personal name, YHWH ("the LORD").
 [^5-28]: Isaiah 66:1; Psalm 48:3 (48:2 in most English Bibles).
 [^5-29]: That is, a plain yes or no, without an oath.
 [^5-30]: Or "from evil".
@@ -1896,7 +1896,7 @@
 [^21-3]: Isaiah 62:11 and Zechariah 9:9. Matthew leaves out Zechariah's "righteous and victorious", and has "gentle" with the Septuagint, where the Hebrew reads "humble". *The foal of a donkey*: literally "the son of a beast of burden". In Zechariah's Hebrew, "a donkey" and "a colt" are two descriptions of one animal; in Matthew's account there are two animals, a donkey and her colt (verses 2 and 7).
 [^21-4]: "Them" may be the cloaks or the animals.
 [^21-5]: A Hebrew expression, originally "Save, please!" (Psalm 118:25), used as a shout of praise; also in verse 15.
-[^21-6]: Psalm 118:26. In the Hebrew, "the Lord" is God's personal name, Yahweh.
+[^21-6]: Psalm 118:26. In the Hebrew, "the Lord" is God's personal name, YHWH ("the LORD").
 [^21-7]: Many manuscripts read "the temple of God".
 [^21-8]: Isaiah 56:7.
 [^21-9]: Jeremiah 7:11.
@@ -1907,7 +1907,7 @@
 [^21-14]: Or "slaves"; also in verses 35–36. Greek *doulos*.
 [^21-15]: Literally "Evil ones, evilly he will destroy them", a play on words.
 [^21-16]: Literally "the head of the corner".
-[^21-17]: Psalm 118:22–23. In the Hebrew, "the Lord" is God's personal name, Yahweh.
+[^21-17]: Psalm 118:22–23. In the Hebrew, "the Lord" is God's personal name, YHWH ("the LORD").
 [^21-18]: Or "a nation".
 [^21-19]: Compare Isaiah 8:14–15; Daniel 2:34–35, 44–45. Some manuscripts leave out this verse.
 
@@ -2018,10 +2018,10 @@
 [^22-9]: The words "of God" are in the SBLGNT, following most later manuscripts. Many modern editions leave them out.
 [^22-10]: Exodus 3:6.
 [^22-11]: Greek *nomikos*, an expert in the Law of Moses.
-[^22-12]: Deuteronomy 6:5, where the Hebrew reads "with all your heart, with all your soul, and with all your strength". In the Hebrew, "the Lord" is God's personal name, Yahweh.
+[^22-12]: Deuteronomy 6:5, where the Hebrew reads "with all your heart, with all your soul, and with all your strength". In the Hebrew, "the Lord" is God's personal name, YHWH ("the LORD").
 [^22-13]: Leviticus 19:18.
 [^22-14]: Literally "hang".
-[^22-15]: Psalm 110:1. In the Hebrew: "Yahweh says to my lord", with *ne'um*, the word that introduces a prophetic oracle. Many manuscripts read "until I make your enemies a footstool for your feet", as in the Psalm.
+[^22-15]: Psalm 110:1. In the Hebrew: "The LORD says to my lord", with *ne'um*, the word that introduces a prophetic oracle. Many manuscripts read "until I make your enemies a footstool for your feet", as in the Psalm.
 
 ## Chapter 23
 
@@ -2127,7 +2127,7 @@
 [^23-22]: Literally "Fill up the measure of your fathers."
 [^23-23]: Abel was murdered by Cain (Genesis 4:8). The prophet Zechariah is called "son of Berechiah" in Zechariah 1:1. The Zechariah stoned in the temple court in 2 Chronicles 24:20–22, near the end of the last book of the Hebrew Bible, is the son of Jehoiada.
 [^23-24]: Some manuscripts leave out "desolate".
-[^23-25]: Psalm 118:26. In the Hebrew, "the Lord" is God's personal name, Yahweh.
+[^23-25]: Psalm 118:26. In the Hebrew, "the Lord" is God's personal name, YHWH ("the LORD").
 
 ## Chapter 24
 
@@ -2681,7 +2681,7 @@
 [^27-5]: Greek *korbanas*, the temple treasury; compare *korban*, "an offering" (Mark 7:11).
 [^27-6]: Literally "the price of blood".
 [^27-7]: Or "I took". The Greek form can mean either.
-[^27-8]: The words are closest to Zechariah 11:12–13, where the prophet is paid "thirty pieces of silver" and throws them "to the potter" in the house of Yahweh. Matthew names Jeremiah, who goes to a potter's house (Jeremiah 18:2–3), buys a potter's clay jar and speaks of burial in the Valley of Ben-hinnom (19:1–11), and buys a field (32:6–9). The quotation follows neither the Hebrew nor the Septuagint of Zechariah word for word. In the Hebrew of Zechariah, "the Lord" is God's personal name, Yahweh.
+[^27-8]: The words are closest to Zechariah 11:12–13, where the prophet is paid "thirty pieces of silver" and throws them "to the potter" in the house of the LORD. Matthew names Jeremiah, who goes to a potter's house (Jeremiah 18:2–3), buys a potter's clay jar and speaks of burial in the Valley of Ben-hinnom (19:1–11), and buys a field (32:6–9). The quotation follows neither the Hebrew nor the Septuagint of Zechariah word for word. In the Hebrew of Zechariah, "the Lord" is God's personal name, YHWH ("the LORD").
 [^27-9]: Literally "You say." The reply neither simply affirms nor denies; compare 26:25, 64.
 [^27-10]: Many manuscripts leave out "Jesus", here and in verse 17.
 [^27-11]: Many manuscripts read "of the blood of this righteous man".

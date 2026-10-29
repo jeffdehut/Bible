@@ -17,13 +17,13 @@
 
 **5** Then both Mahlon and Chilion also died, and the woman was left without her two boys and without her husband.
 
-**6** So she got up with her daughters-in-law to return from the country of Moab, for she had heard in the country of Moab that Yahweh[^1-4] had come to the help of his people and given them food.[^1-5]
+**6** So she got up with her daughters-in-law to return from the country of Moab, for she had heard in the country of Moab that the LORD[^1-4] had come to the help of his people and given them food.[^1-5]
 
 **7** She set out from the place where she had been living, and her two daughters-in-law went with her. They went along the road to return to the land of Judah.
 
-**8** Then Naomi said to her two daughters-in-law, "Go back, each of you, to your mother's house. May Yahweh show you faithful love,[^1-6] as you have shown it to the dead and to me.
+**8** Then Naomi said to her two daughters-in-law, "Go back, each of you, to your mother's house. May the LORD show you faithful love,[^1-6] as you have shown it to the dead and to me.
 
-**9** May Yahweh grant that each of you find rest[^1-7] in the home of a husband." Then she kissed them, and they wept aloud.[^1-8]
+**9** May the LORD grant that each of you find rest[^1-7] in the home of a husband." Then she kissed them, and they wept aloud.[^1-8]
 
 **10** They said to her, "No, we will go back with you to your people."
 
@@ -31,7 +31,7 @@
 
 **12** Go back, my daughters, go, for I am too old to have a husband. Even if I said, 'There is hope for me,' even if I had a husband tonight and then gave birth to sons,
 
-**13** would you wait for them until they grew up? Would you keep yourselves from marrying for them? No, my daughters. It is far more bitter for me than for you,[^1-10] for the hand of Yahweh has gone out against me."
+**13** would you wait for them until they grew up? Would you keep yourselves from marrying for them? No, my daughters. It is far more bitter for me than for you,[^1-10] for the hand of the LORD has gone out against me."
 
 **14** Then they wept aloud again. Orpah kissed her mother-in-law goodbye, but Ruth clung[^1-11] to her.
 
@@ -39,7 +39,7 @@
 
 **16** But Ruth said, "Don't urge me to leave you or to turn back from following you. For where you go, I will go, and where you stay, I will stay. Your people will be my people, and your God my God.
 
-**17** Where you die, I will die, and there I will be buried. May Yahweh do this to me, and more besides, if anything but death separates me from you."[^1-13]
+**17** Where you die, I will die, and there I will be buried. May the LORD do this to me, and more besides, if anything but death separates me from you."[^1-13]
 
 **18** When Naomi saw that Ruth was determined to go with her, she said no more to her.
 
@@ -47,23 +47,23 @@
 
 **20** She said to them, "Don't call me Naomi.[^1-14] Call me Mara, for the Almighty[^1-15] has made my life very bitter.
 
-**21** I went away full, but Yahweh has brought me back empty. Why call me Naomi, when Yahweh has testified against me[^1-16] and the Almighty has brought disaster on me?"
+**21** I went away full, but the LORD has brought me back empty. Why call me Naomi, when the LORD has testified against me[^1-16] and the Almighty has brought disaster on me?"
 
 **22** So Naomi came back, and with her Ruth the Moabite, her daughter-in-law, who came back[^1-17] from the country of Moab. They came to Bethlehem at the beginning of the barley harvest.[^1-18]
 
 [^1-1]: Literally "In the days of the judging of the judges". On the judges, see Judges 2:16.
 [^1-2]: Hebrew *gur*: to live as a foreigner in a land not one's own.
 [^1-3]: Ephrath or Ephrathah was another name for Bethlehem or its district (4:11; Genesis 35:19).
-[^1-4]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^1-4]: *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles.
 [^1-5]: Literally "bread". *Bethlehem* means "house of bread".
-[^1-6]: Hebrew *chesed*: loyal, faithful love and kindness, especially within a relationship of commitment. It is a key word in Ruth (2:20; 3:10). The Hebrew text is written "Yahweh will show you faithful love" but read "May Yahweh show you faithful love".
+[^1-6]: Hebrew *chesed*: loyal, faithful love and kindness, especially within a relationship of commitment. It is a key word in Ruth (2:20; 3:10). The Hebrew text is written "The LORD will show you faithful love" but read "May the LORD show you faithful love".
 [^1-7]: That is, security and a settled home. Compare 3:1.
 [^1-8]: Literally "they lifted up their voice and wept"; also in verse 14.
 [^1-9]: Naomi alludes to the custom by which a brother of a man who died childless married his widow (Deuteronomy 25:5–10; compare Genesis 38:8).
 [^1-10]: Or "It is very bitter for me because of you".
 [^1-11]: Hebrew *davaq*, the verb used in Genesis 2:24, "holds fast to his wife".
 [^1-12]: Or "her god".
-[^1-13]: A form of oath. Literally "Thus may Yahweh do to me, and thus may he add: death will separate me and you." Or "… if even death separates me from you."
+[^1-13]: A form of oath. Literally "Thus may the LORD do to me, and thus may he add: death will separate me and you." Or "… if even death separates me from you."
 [^1-14]: *Naomi* means "pleasant", and *Mara* means "bitter".
 [^1-15]: Hebrew *Shaddai*, traditionally "the Almighty". The meaning of the name is uncertain. Also in verse 21.
 [^1-16]: The Hebrew vowel points read "has testified against me". The same consonants can be read "has afflicted me", as the Septuagint understood them.
@@ -80,7 +80,7 @@
 
 **3** So she went and came and gleaned in the field behind the reapers. As it happened, she came to the part of the field that belonged to Boaz, who was from the clan of Elimelech.
 
-**4** Just then Boaz came from Bethlehem. He said to the reapers, "Yahweh[^2-5] be with you!" They said to him, "Yahweh bless you!"
+**4** Just then Boaz came from Bethlehem. He said to the reapers, "The LORD[^2-5] be with you!" They said to him, "The LORD bless you!"
 
 **5** Boaz said to his servant who was in charge of the reapers, "Whose young woman is this?"
 
@@ -96,7 +96,7 @@
 
 **11** Boaz answered her, "I have been told everything you have done for your mother-in-law since your husband died: how you left your father and your mother and the land of your birth, and came to a people you did not know before.[^2-10]
 
-**12** May Yahweh repay you for what you have done. May you receive a full reward from Yahweh, the God of Israel, under whose wings you have come to take refuge."
+**12** May the LORD repay you for what you have done. May you receive a full reward from the LORD, the God of Israel, under whose wings you have come to take refuge."
 
 **13** She said, "May I go on finding favor with you, my lord,[^2-11] for you have comforted me and spoken kindly[^2-12] to your servant, though I am not even like one of your servants."
 
@@ -112,7 +112,7 @@
 
 **19** Her mother-in-law said to her, "Where did you glean today? Where did you work? May the man who took notice of you be blessed!" So she told her mother-in-law about the man she had worked with. She said, "The name of the man I worked with today is Boaz."
 
-**20** Naomi said to her daughter-in-law, "May he be blessed by Yahweh, who has not stopped showing his faithful love[^2-15] to the living and the dead!" Naomi also said to her, "The man is a close relative of ours. He is one of our guardian-redeemers."[^2-16]
+**20** Naomi said to her daughter-in-law, "May he be blessed by the LORD, who has not stopped showing his faithful love[^2-15] to the living and the dead!" Naomi also said to her, "The man is a close relative of ours. He is one of our guardian-redeemers."[^2-16]
 
 **21** Ruth the Moabite said, "He even said to me, 'Stay close to my young men until they have finished all my harvest.'"
 
@@ -124,7 +124,7 @@
 [^2-2]: Hebrew *gibbor chayil*, "a mighty man of strength", here a man of wealth and good standing. Compare 3:11, where Ruth is called "a woman of *chayil*".
 [^2-3]: To gather the grain the harvesters left behind. The law of Moses gave the poor, the foreigner, the orphan and the widow the right to glean (Leviticus 19:9–10; Deuteronomy 24:19).
 [^2-4]: Literally "after one in whose eyes I find favor".
-[^2-5]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^2-5]: *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles.
 [^2-6]: The Hebrew of the end of this verse is uncertain. Literally "this her sitting the house a little".
 [^2-7]: Literally "Have you not heard, my daughter?"
 [^2-8]: Hebrew *davaq*, "cling, hold fast", the verb used in 1:14. Also in verses 21 and 23.
@@ -160,13 +160,13 @@
 
 **9** He said, "Who are you?" She said, "I am Ruth, your servant. Spread the corner of your garment[^3-10] over your servant, for you are a guardian-redeemer."[^3-11]
 
-**10** He said, "May you be blessed by Yahweh,[^3-12] my daughter. This last act of faithful love[^3-13] is greater than the first, for you have not gone after the young men, whether poor or rich.
+**10** He said, "May you be blessed by the LORD,[^3-12] my daughter. This last act of faithful love[^3-13] is greater than the first, for you have not gone after the young men, whether poor or rich.
 
 **11** Now, my daughter, don't be afraid. I will do for you everything you ask, for everyone in the town[^3-14] knows that you are a woman of worth.[^3-15]
 
 **12** It is true that I am a guardian-redeemer,[^3-16] but there is another guardian-redeemer more closely related than I am.
 
-**13** Stay here tonight. In the morning, if he will act as your guardian-redeemer, good; let him do it. But if he is not willing to act as your guardian-redeemer, then, as surely as Yahweh lives, I will do it myself. Lie down until morning."
+**13** Stay here tonight. In the morning, if he will act as your guardian-redeemer, good; let him do it. But if he is not willing to act as your guardian-redeemer, then, as surely as the LORD lives, I will do it myself. Lie down until morning."
 
 **14** So she lay at his feet until morning, but she got up before anyone could recognize anyone else. He said, "It must not be known that the woman came to the threshing floor."
 
@@ -189,7 +189,7 @@
 [^3-9]: Or "leaned forward", or "felt about".
 [^3-10]: Literally "your wing". Hebrew *kanaf* means both "wing" and the corner or edge of a garment; compare 2:12. To spread one's garment over a woman was a sign of taking her as wife (Ezekiel 16:8).
 [^3-11]: Hebrew *go'el*. See 2:20.
-[^3-12]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^3-12]: *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles.
 [^3-13]: Hebrew *chesed*: loyal, faithful love and kindness. See 1:8. The first act was probably her loyalty to Naomi (2:11).
 [^3-14]: Literally "all the gate of my people". The town gate was where its elders met and its business was done.
 [^3-15]: Hebrew *eshet chayil*, "a woman of strength", "a capable woman", as in Proverbs 31:10. Compare 2:1, where Boaz is a man of *chayil*.
@@ -222,13 +222,13 @@
 
 **10** I have also acquired Ruth the Moabite, Mahlon's widow, to be my wife, in order to keep the dead man's name alive on his inheritance, so that the dead man's name will not be cut off from among his relatives or from the gate of his town.[^4-12] You are witnesses today."
 
-**11** All the people at the gate and the elders said, "We are witnesses. May Yahweh[^4-13] make the woman who is coming into your house like Rachel and Leah, the two who built up the house of Israel. May you prosper[^4-14] in Ephrathah and be famous in Bethlehem.
+**11** All the people at the gate and the elders said, "We are witnesses. May the LORD[^4-13] make the woman who is coming into your house like Rachel and Leah, the two who built up the house of Israel. May you prosper[^4-14] in Ephrathah and be famous in Bethlehem.
 
-**12** And through the children[^4-15] that Yahweh will give you by this young woman, may your family be like the family of Perez, whom Tamar bore to Judah."[^4-16]
+**12** And through the children[^4-15] that the LORD will give you by this young woman, may your family be like the family of Perez, whom Tamar bore to Judah."[^4-16]
 
-**13** So Boaz took Ruth, and she became his wife. He slept with her,[^4-17] and Yahweh enabled her to conceive, and she gave birth to a son.
+**13** So Boaz took Ruth, and she became his wife. He slept with her,[^4-17] and the LORD enabled her to conceive, and she gave birth to a son.
 
-**14** Then the women said to Naomi, "Blessed be Yahweh, who has not left you without a guardian-redeemer today! May his name be famous in Israel!
+**14** Then the women said to Naomi, "Blessed be the LORD, who has not left you without a guardian-redeemer today! May his name be famous in Israel!
 
 **15** He will restore your life and take care of you in your old age. For your daughter-in-law, who loves you and is better to you than seven sons, has given birth to him."
 
@@ -258,7 +258,7 @@
 [^4-10]: Literally "to raise up the name of the dead man on his inheritance", that is, to provide him with an heir who would inherit his land. Also in verse 10.
 [^4-11]: Compare Deuteronomy 25:9–10.
 [^4-12]: Literally "from the gate of his place".
-[^4-13]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^4-13]: *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles.
 [^4-14]: Or "show your worth". Hebrew *chayil*, "strength, worth, wealth", as in 2:1 and 3:11.
 [^4-15]: Literally "seed".
 [^4-16]: Genesis 38:27–30. Perez was an ancestor of Boaz (verses 18–21).

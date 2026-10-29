@@ -37,7 +37,7 @@
 [^1-4]: Greek *endeigma*, "proof, sign". "This" refers to their endurance and faith in suffering (verse 4).
 [^1-5]: Literally "with the angels of his power".
 [^1-6]: Compare Isaiah 66:15 and Jeremiah 10:25.
-[^1-7]: Or "eternal destruction that comes from the presence of the Lord …". The words echo Isaiah 2:10, 19, 21, as worded in the Septuagint: "from the presence of the fear of the Lord and from the glory of his might". In the Hebrew, "the Lord" is God's personal name, Yahweh.
+[^1-7]: Or "eternal destruction that comes from the presence of the Lord …". The words echo Isaiah 2:10, 19, 21, as worded in the Septuagint: "from the presence of the fear of the Lord and from the glory of his might". In the Hebrew, "the Lord" is God's personal name, YHWH ("the LORD").
 [^1-8]: In the Greek, "on that day" comes at the end of the verse.
 [^1-9]: Literally "his holy ones", traditionally "his saints".
 [^1-10]: Or "of our God and Lord, Jesus Christ". In the Greek one article governs both "God" and "Lord".

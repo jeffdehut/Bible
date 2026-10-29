@@ -50,7 +50,7 @@
 **21** And Daniel remained there until the first year of King Cyrus.[^1-24]
 
 [^1-1]: About 605 BC. Jeremiah 25:1 and 46:2 place Nebuchadnezzar's first year in the fourth year of Jehoiakim; the difference may come from different ways of counting a king's years. Compare 2 Kings 24:1 and 2 Chronicles 36:5–7.
-[^1-2]: Hebrew *Adonai*, "the Lord", not the name Yahweh.
+[^1-2]: Hebrew *Adonai*, "the Lord", not the name YHWH.
 [^1-3]: An old name for Babylonia (Genesis 11:2).
 [^1-4]: Or "of his gods", here and earlier in the verse. The Hebrew *elohim* can mean "God" or "gods".
 [^1-5]: Hebrew *rav sarisav*, "the chief of his *sarisim*": court officials. The word can also mean eunuchs. Also in verses 7–11 and 18.
@@ -61,7 +61,7 @@
 [^1-10]: Hebrew *pat-bag*, a word borrowed from Persian: the king's own fare or the rations from his table. Also in verses 8, 13, 15 and 16.
 [^1-11]: Literally "to stand before the king". Also in verse 19.
 [^1-12]: Literally "the sons of Judah".
-[^1-13]: The Hebrew names honor the God of Israel: Daniel means "God is my judge", Hananiah "Yahweh has been gracious", Mishael perhaps "Who is what God is?", and Azariah "Yahweh has helped". The new names are Babylonian. Belteshazzar probably stands for a Babylonian name meaning "Protect his life"; 4:5 (4:8 in most English Bibles) links it with the god Bel. The meanings of Shadrach and Meshach are uncertain. Abednego probably means "servant of Nego", perhaps a form of Nabu, a god of Babylon.
+[^1-13]: The Hebrew names honor the God of Israel: Daniel means "God is my judge", Hananiah "The LORD has been gracious", Mishael perhaps "Who is what God is?", and Azariah "The LORD has helped". The new names are Babylonian. Belteshazzar probably stands for a Babylonian name meaning "Protect his life"; 4:5 (4:8 in most English Bibles) links it with the god Bel. The meanings of Shadrach and Meshach are uncertain. Abednego probably means "servant of Nego", perhaps a form of Nabu, a god of Babylon.
 [^1-14]: Literally "set it on his heart".
 [^1-15]: Literally "God gave Daniel *chesed* and compassion before the chief official". *Chesed* is usually "faithful love"; here it is the goodwill the official showed him.
 [^1-16]: Or "thinner", "more downcast".
@@ -712,11 +712,11 @@
 
 **1** In the first year of Darius son of Ahasuerus, a Mede by descent,[^9-1] who was made king over the kingdom of the Babylonians,[^9-2]
 
-**2** in the first year of his reign, I, Daniel, understood from the books the number of years that, according to the word of Yahweh[^9-3] to Jeremiah the prophet, must pass until the desolation of Jerusalem came to an end: seventy years.[^9-4]
+**2** in the first year of his reign, I, Daniel, understood from the books the number of years that, according to the word of the LORD[^9-3] to Jeremiah the prophet, must pass until the desolation of Jerusalem came to an end: seventy years.[^9-4]
 
 **3** So I turned my face to the Lord God,[^9-5] to seek him by prayer and pleas for mercy, with fasting, sackcloth and ashes.
 
-**4** I prayed to Yahweh my God and made confession. I said, "Ah, Lord, the great and awesome God, who keeps covenant and faithful love with those who love him and keep his commands,[^9-6]
+**4** I prayed to the LORD my God and made confession. I said, "Ah, Lord, the great and awesome God, who keeps covenant and faithful love with those who love him and keep his commands,[^9-6]
 
 **5** we have sinned and done wrong. We have acted wickedly and rebelled, turning away from your commands and your rulings.
 
@@ -724,19 +724,19 @@
 
 **7** To you, Lord, belongs righteousness, but to us open shame,[^9-7] as it is this day: to the people of Judah, to those who live in Jerusalem, and to all Israel, those near and those far away, in all the lands to which you have driven them because of the unfaithfulness they have committed against you.
 
-**8** Yahweh, to us belongs open shame: to our kings, our officials and our ancestors, because we have sinned against you.
+**8** LORD, to us belongs open shame: to our kings, our officials and our ancestors, because we have sinned against you.
 
 **9** To the Lord our God belong compassion and forgiveness, though we have rebelled against him.[^9-8]
 
-**10** We have not obeyed the voice of Yahweh our God by living according to his instructions,[^9-9] which he set before us through his servants the prophets.
+**10** We have not obeyed the voice of the LORD our God by living according to his instructions,[^9-9] which he set before us through his servants the prophets.
 
 **11** All Israel has broken your law and turned away, refusing to obey your voice. So the curse and the oath written in the Law of Moses, the servant of God, have been poured out on us, because we have sinned against him.[^9-10]
 
 **12** He has carried out his word[^9-11] that he spoke against us and against our rulers who ruled us,[^9-12] by bringing on us a great disaster. Under the whole heaven nothing has ever been done like what has been done to Jerusalem.
 
-**13** Just as it is written in the Law of Moses, all this disaster has come on us. Yet we have not sought the favor of Yahweh our God[^9-13] by turning from our iniquities and paying heed to your truth.
+**13** Just as it is written in the Law of Moses, all this disaster has come on us. Yet we have not sought the favor of the LORD our God[^9-13] by turning from our iniquities and paying heed to your truth.
 
-**14** So Yahweh kept watch over the disaster and brought it on us, for Yahweh our God is righteous in all the works he has done, and we have not obeyed his voice.
+**14** So the LORD kept watch over the disaster and brought it on us, for the LORD our God is righteous in all the works he has done, and we have not obeyed his voice.
 
 **15** And now, Lord our God, who brought your people out of the land of Egypt with a mighty hand and made a name for yourself, as it is this day, we have sinned, we have acted wickedly.
 
@@ -748,7 +748,7 @@
 
 **19** Lord, hear! Lord, forgive! Lord, listen and act! Do not delay, for your own sake, my God, for your city and your people are called by your name."
 
-**20** While I was still speaking and praying, confessing my sin and the sin of my people Israel, and laying my plea before Yahweh my God for the holy mountain of my God,
+**20** While I was still speaking and praying, confessing my sin and the sin of my people Israel, and laying my plea before the LORD my God for the holy mountain of my God,
 
 **21** while I was still speaking in prayer, the man Gabriel, whom I had seen in the vision at the first, came to me in swift flight[^9-16] at about the time of the evening offering.[^9-17]
 
@@ -766,7 +766,7 @@
 
 [^9-1]: Literally "from the seed of Media". On Darius the Mede, see 6:1.
 [^9-2]: Hebrew *Kasdim*, traditionally "the Chaldeans". See 1:4.
-[^9-3]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles. This chapter is the only place in Daniel where the name is used.
+[^9-3]: *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles. This chapter is the only place in Daniel where the name is used.
 [^9-4]: Jeremiah 25:11–12; 29:10.
 [^9-5]: Hebrew *Adonai ha-Elohim*. *Adonai*, "the Lord", is also used in verses 4, 7, 9, 15–17 and 19.
 [^9-6]: Compare Deuteronomy 7:9; Nehemiah 1:5. *Faithful love* is Hebrew *chesed*, loyal, covenant love.
@@ -776,7 +776,7 @@
 [^9-10]: See Leviticus 26:14–39; Deuteronomy 28:15–68; 29:19–20 (29:20–21 in most English Bibles).
 [^9-11]: The Hebrew text is written "his words" but read "his word".
 [^9-12]: Literally "our judges who judged us".
-[^9-13]: Literally "we have not softened the face of Yahweh our God".
+[^9-13]: Literally "we have not softened the face of the LORD our God".
 [^9-14]: Literally "For the sake of the Lord". Theodotion reads "For your own sake, Lord".
 [^9-15]: Literally "over which your name is called". Also in verse 19.
 [^9-16]: Or "when I was completely weary". The meaning of the Hebrew *mu'af bi'af* is uncertain: it may come from a word meaning "to fly" or from one meaning "to be weary".
@@ -786,7 +786,7 @@
 [^9-20]: Hebrew *shavu'im shiv'im*, "seventy sevens": seventy periods of seven, usually understood as weeks of years, 490 years in all (compare Leviticus 25:8). The seventy years of Jeremiah's prophecy (verse 2) become seventy times seven years. Also in verses 25–27.
 [^9-21]: The Hebrew text is written "to seal up sins" but read "to put an end to sin".
 [^9-22]: Or "a most holy one". Hebrew *qodesh qodashim*, "holy of holies", which elsewhere means the most holy place in the tabernacle and temple (Exodus 26:33–34) or the most holy things of the sanctuary (Exodus 29:37; 30:29). Some ancient and later interpreters understood it of a person.
-[^9-23]: Hebrew *mashiach nagid*, "an anointed one, a ruler" or "an anointed ruler". *Mashiach* means one anointed with oil, as kings and priests were. Interpreters who follow the Masoretic accents (see the next note) have identified this figure with Cyrus, whom Isaiah 45:1 calls Yahweh's anointed, or with Zerubbabel or the high priest Joshua after the exile (Ezra 3:2). Christian tradition read here the coming of the Messiah, Jesus: "unto the Messiah the Prince" (King James Version).
+[^9-23]: Hebrew *mashiach nagid*, "an anointed one, a ruler" or "an anointed ruler". *Mashiach* means one anointed with oil, as kings and priests were. Interpreters who follow the Masoretic accents (see the next note) have identified this figure with Cyrus, whom Isaiah 45:1 calls the LORD's anointed, or with Zerubbabel or the high priest Joshua after the exile (Ezra 3:2). Christian tradition read here the coming of the Messiah, Jesus: "unto the Messiah the Prince" (King James Version).
 [^9-24]: Hebrew *rechov ve-charuts*, "open square and moat". *Charuts* may also mean "decreed".
 [^9-25]: The translation follows the Masoretic accents, which separate the seven weeks from the sixty-two weeks. The Vulgate and older English translations such as the King James Version join them: "there will be seven weeks and sixty-two weeks; the street will be built again".
 [^9-26]: Literally "and there will not be to him". The meaning is uncertain: perhaps "and will have no one" or "and will be no more". Many modern interpreters identify this anointed one with the high priest Onias III, who was murdered in about 171 BC (2 Maccabees 4:33–35), and the coming ruler with Antiochus IV (see 8:9). Christian tradition has understood the verse of the death of Jesus and the destruction of Jerusalem by the Romans in AD 70.

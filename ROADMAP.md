@@ -295,8 +295,8 @@ knows the historical geography.
 
 ## 3b. The Web of Scripture (built)
 
-- **Everything connected, at once.** `graph.html` draws the Obsidian notes' connections as one
-  web, like Obsidian's graph view: 5,646 chapters, people, places and events, and 32,043
+- **Everything connected, at once.** `graph.html` draws the connection notes as one
+  web: 5,646 chapters, people, places and events, and 32,045
   threads, colored by section of the Bible, with people as points, places as rings and events
   as diamonds.
 - **The opening.** The chapters light up round a wheel in order, the cross-references draw in
@@ -345,8 +345,8 @@ A new translation into Traditional Chinese (繁體中文), made like the English
   `TRANSLATION.md`. Decisions to make first:
   - **God:** 上帝 or 神. This is the long-standing "term question"; the Chinese Union Version
     is printed in both forms.
-  - **The divine name:** 耶和華, the Chinese Union Version's form, or 雅威, which matches the
-    English "Yahweh".
+  - **The divine name:** 耶和華, the Chinese Union Version's form, or 上主, a title like the
+    English "the LORD".
   - **Proper names:** follow the Chinese Union Version's familiar transliterations, so
     readers recognize them, with notes where they differ from the original pronunciation.
   - **Key terms:** 聖靈, 彌賽亞 and 基督 (matching the English "the Messiah" and "Christ"),

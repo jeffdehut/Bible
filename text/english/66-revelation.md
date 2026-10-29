@@ -62,7 +62,7 @@
 [^1-13]: Compare Exodus 19:6, "a kingdom of priests"; also Revelation 5:10.
 [^1-14]: Daniel 7:13; Zechariah 12:10–14. *Mourn*: literally "beat their breasts".
 [^1-15]: The first and last letters of the Greek alphabet. Compare 21:6; 22:13.
-[^1-16]: Greek *pantokrator*, "ruler of all". The Greek Old Testament uses it to translate "of Armies" in the title "Yahweh of Armies", and *Shaddai*, "the Almighty" (as in Job 5:17). "The Lord God, the Almighty" is its rendering of "Yahweh, the God of Armies" in Amos 4:13, where in the Hebrew "the Lord" is God's personal name, Yahweh.
+[^1-16]: Greek *pantokrator*, "ruler of all". The Greek Old Testament uses it to translate "of Armies" in the title "the LORD of Armies", and *Shaddai*, "the Almighty" (as in Job 5:17). "The Lord God, the Almighty" is its rendering of "the LORD, the God of Armies" in Amos 4:13, where in the Hebrew "the Lord" is God's personal name, YHWH ("the LORD").
 [^1-17]: Or "the tribulation". Greek *thlipsis*, "pressure, affliction, suffering".
 [^1-18]: Many manuscripts read "in Christ Jesus" here, and "the testimony of Jesus Christ" later in the verse.
 [^1-19]: A small island in the Aegean Sea, off the west coast of what is now Turkey.
@@ -145,7 +145,7 @@
 **29** Whoever has ears, let them hear what the Spirit says to the churches.
 
 [^2-1]: Or "messenger"; also in verses 8, 12 and 18. See 1:20.
-[^2-2]: *This is what … says*: Greek *tade legei*, the Greek Old Testament's rendering of the prophets' "This is what Yahweh says"; also in verses 8, 12 and 18. *Walks among the seven golden lampstands*: see 1:13, 16, 20.
+[^2-2]: *This is what … says*: Greek *tade legei*, the Greek Old Testament's rendering of the prophets' "This is what the LORD says"; also in verses 8, 12 and 18. *Walks among the seven golden lampstands*: see 1:13, 16, 20.
 [^2-3]: Many manuscripts add "soon".
 [^2-4]: A group known only from this chapter (also verse 15). Later Christian writers connected them with Nicolaus of Antioch (Acts 6:5), but what they taught is not known.
 [^2-5]: Greek *nikao*, "conquer, be victorious", the verb translated "overcome" in John 16:33 and 1 John 5:4–5; also in verses 11, 17 and 26.
@@ -165,7 +165,7 @@
 [^2-19]: The name of the queen of Israel who promoted the worship of Baal (1 Kings 16:31; 18:19; 2 Kings 9:22). Many manuscripts read "your wife Jezebel".
 [^2-20]: That is, probably a sickbed.
 [^2-21]: Literally "kill with death"; perhaps "kill with plague" (compare 6:8).
-[^2-22]: Literally "kidneys and hearts", the seat of the emotions and of thought. Compare Jeremiah 17:10, "I, Yahweh, search the heart and test the mind, to give each one according to his ways"; Psalm 7:10 (7:9 in most English Bibles).
+[^2-22]: Literally "kidneys and hearts", the seat of the emotions and of thought. Compare Jeremiah 17:10, "I, the LORD, search the heart and test the mind, to give each one according to his ways"; Psalm 7:10 (7:9 in most English Bibles).
 [^2-23]: Psalm 2:8–9, following the Septuagint, "You will shepherd them with a rod of iron". The Hebrew reads "You will break them with a rod of iron; you will smash them like a potter's jar." *Rule*: Greek *poimaino*, "shepherd", and so "rule". Also in 12:5; 19:15.
 [^2-24]: Literally "as I also have received from my Father".
 [^2-25]: Compare 22:16, where Jesus is "the bright morning star", and Numbers 24:17, "A star will march out of Jacob".
@@ -232,7 +232,7 @@
 [^3-12]: Literally "the word of my endurance". Or "my command to endure".
 [^3-13]: Hebrew *amen*, "firm, sure, true". Compare Isaiah 65:16, "the God of truth" (literally "the God of Amen").
 [^3-14]: Or "the origin of God's creation", or "the ruler of God's creation". Greek *arche*, "beginning, origin, first place".
-[^3-15]: Compare Proverbs 3:12, "for Yahweh corrects the one he loves". *Love*: Greek *phileo*.
+[^3-15]: Compare Proverbs 3:12, "for the LORD corrects the one he loves". *Love*: Greek *phileo*.
 [^3-16]: Literally "I will give him to sit with me on my throne".
 
 ## Chapter 4
@@ -274,7 +274,7 @@
 [^4-11]: Compare Ezekiel 1:10.
 [^4-12]: As do the seraphim in Isaiah 6:2.
 [^4-13]: Literally "They have no rest day and night, saying".
-[^4-14]: Isaiah 6:3, "Holy, holy, holy is Yahweh of Armies!" In the Hebrew, "the Lord" is God's personal name, Yahweh. *Almighty*: see 1:8.
+[^4-14]: Isaiah 6:3, "Holy, holy, holy is the LORD of Armies!" In the Hebrew, "the Lord" is God's personal name, YHWH ("the LORD"). *Almighty*: see 1:8.
 [^4-15]: The Greek has future tenses in verses 9–10 ("Whenever the living creatures will give …, the twenty-four elders will fall down …"), describing what happens again and again.
 [^4-16]: Many manuscripts read "our Lord and God, the Holy One". The Roman emperor Domitian (AD 81–96) is reported to have had himself called "our lord and god".
 [^4-17]: *They existed*: literally "they were".
@@ -316,10 +316,10 @@
 [^5-3]: Or "between the throne with the four living creatures and the elders". Compare 4:6.
 [^5-4]: Greek *arnion*, "lamb", the word used for Christ throughout Revelation. John 1:29, 36 has a different word, *amnos*.
 [^5-5]: Greek *sphazo*, "slaughter", the word used for killing a sacrificial animal; also in verses 9 and 12. Compare Isaiah 53:7, "like a lamb that is led to the slaughter".
-[^5-6]: Zechariah 4:10, "These seven are the eyes of Yahweh, which range over the whole earth". See the note on 1:4.
+[^5-6]: Zechariah 4:10, "These seven are the eyes of the LORD, which range over the whole earth". See the note on 1:4.
 [^5-7]: The Greek has no object; the scroll is meant.
 [^5-8]: Literally "of the holy ones", traditionally "of the saints". Compare Psalm 141:2, "May my prayer be set before you like incense".
-[^5-9]: Compare Psalm 96:1, "Sing to Yahweh a new song"; also Psalms 33:3; 98:1; 144:9; 149:1; Isaiah 42:10.
+[^5-9]: Compare Psalm 96:1, "Sing to the LORD a new song"; also Psalms 33:3; 98:1; 144:9; 149:1; Isaiah 42:10.
 [^5-10]: Literally "you bought for God from every tribe …". Many manuscripts read "you bought us for God".
 [^5-11]: Compare 1:6; Exodus 19:6. Many manuscripts read "You have made them kings and priests … and they will reign".
 [^5-12]: Literally "myriads of myriads and thousands of thousands". Compare Daniel 7:10, "Thousands upon thousands served him, and ten thousand times ten thousand stood before him".
@@ -379,9 +379,9 @@
 [^6-14]: Joel 3:4 (2:31 in most English Bibles), "The sun will be turned to darkness and the moon to blood"; compare Isaiah 13:10.
 [^6-15]: Isaiah 34:4, "and the heavens will be rolled up like a scroll … like a withered fig from the fig tree".
 [^6-16]: Greek *chiliarchoi*, "commanders of a thousand", senior military officers.
-[^6-17]: Compare Isaiah 2:19, "People will go into caves in the rocks and holes in the ground, from the terror of Yahweh".
+[^6-17]: Compare Isaiah 2:19, "People will go into caves in the rocks and holes in the ground, from the terror of the LORD".
 [^6-18]: Hosea 10:8, "Then they will say to the mountains, 'Cover us!' and to the hills, 'Fall on us!'"; compare Luke 23:30.
-[^6-19]: Many manuscripts read "his anger". Compare Joel 2:11, "For the day of Yahweh is great and very terrible. Who can endure it?"; Malachi 3:2.
+[^6-19]: Many manuscripts read "his anger". Compare Joel 2:11, "For the day of the LORD is great and very terrible. Who can endure it?"; Malachi 3:2.
 
 ## Chapter 7
 
@@ -432,7 +432,7 @@
 [^7-9]: Isaiah 49:10, "They will not hunger or thirst; the scorching heat and the sun will not strike them."
 [^7-10]: Greek *poimaino*, "shepherd" (see 2:27). Compare Psalm 23:1–2; Ezekiel 34:23.
 [^7-11]: Literally "to springs of waters of life". Compare Isaiah 49:10, "will lead them and guide them to springs of water".
-[^7-12]: Isaiah 25:8, "The Lord Yahweh will wipe away the tears from every face". Also in 21:4.
+[^7-12]: Isaiah 25:8, "The Lord GOD will wipe away the tears from every face". Also in 21:4.
 
 ## Chapter 8
 
@@ -566,12 +566,12 @@
 
 [^10-1]: Literally "feet".
 [^10-2]: Greek *biblaridion*, "little scroll", a different word from the scroll (*biblion*) of chapter 5; also in verses 9–10. Many manuscripts read *biblion*, "scroll", here and in verse 10.
-[^10-3]: Compare Psalm 29:3–9, where "the voice of Yahweh" thunders seven times.
+[^10-3]: Compare Psalm 29:3–9, where "the voice of the LORD" thunders seven times.
 [^10-4]: Compare Daniel 8:26; 12:4, "keep the words secret and seal the book until the time of the end".
 [^10-5]: Compare Daniel 12:7, where the man dressed in linen "raised his right hand and his left hand toward heaven and swore by the one who lives forever".
 [^10-6]: Or "There will be no more time." Greek *chronos*, "time".
 [^10-7]: Literally "was accomplished", a past tense used of what is certain to happen.
-[^10-8]: Literally "as he announced the good news to his own servants the prophets". Compare Amos 3:7, "Surely the Lord Yahweh does nothing without revealing his plan to his servants the prophets."
+[^10-8]: Literally "as he announced the good news to his own servants the prophets". Compare Amos 3:7, "Surely the Lord GOD does nothing without revealing his plan to his servants the prophets."
 [^10-9]: Compare Ezekiel 2:8–3:3, "So I ate it, and in my mouth it was as sweet as honey"; 3:14.
 [^10-10]: Literally "they said to me", an indefinite plural.
 
@@ -635,12 +635,12 @@
 [^11-16]: Many manuscripts read "On that day".
 [^11-17]: Literally "names of people, seven thousand".
 [^11-18]: Greek *ouai*. See 8:13.
-[^11-19]: Greek *tou christou autou*, "his Christ", "his Anointed One". Compare Psalm 2:2, "against Yahweh and against his anointed one". In the Hebrew, "the Lord" there is God's personal name, Yahweh.
+[^11-19]: Greek *tou christou autou*, "his Christ", "his Anointed One". Compare Psalm 2:2, "against the LORD and against his anointed one". In the Hebrew, "the Lord" there is God's personal name, YHWH ("the LORD").
 [^11-20]: Compare Exodus 15:18; Daniel 2:44; 7:14, 27.
 [^11-21]: The title no longer includes "who is to come", as in 1:4, 8 and 4:8. *Almighty*: see 1:8.
-[^11-22]: Compare Psalm 2:1, "Why do the nations rage"; 99:1, "Yahweh reigns! Let the peoples tremble!"
+[^11-22]: Compare Psalm 2:1, "Why do the nations rage"; 99:1, "The LORD reigns! Let the peoples tremble!"
 [^11-23]: Literally "the holy ones", traditionally "the saints".
-[^11-24]: Compare Psalm 115:13, "He will bless those who fear Yahweh, the small together with the great."
+[^11-24]: Compare Psalm 115:13, "He will bless those who fear the LORD, the small together with the great."
 [^11-25]: Many manuscripts read "the ark of the covenant of the Lord".
 [^11-26]: Many manuscripts leave out "an earthquake".
 
@@ -753,7 +753,7 @@
 [^13-3]: Compare Daniel 7:4–6: the lion, the bear and the leopard.
 [^13-4]: Literally "as slaughtered to death", the same word as that used of the Lamb in 5:6; also in verse 8. *Mortal wound*: literally "the wound of its death"; also in verse 12.
 [^13-5]: Literally "marveled after the beast".
-[^13-6]: A parody of the praise of God in Exodus 15:11, "Who is like you among the gods, Yahweh?"; compare Psalm 35:10.
+[^13-6]: A parody of the praise of God in Exodus 15:11, "Who is like you among the gods, LORD?"; compare Psalm 35:10.
 [^13-7]: Compare Daniel 7:8, 20, "a mouth speaking arrogant words", and 11:36.
 [^13-8]: Literally "it was given authority to act". Many manuscripts read "authority to make war".
 [^13-9]: See the note on 11:2.
@@ -765,7 +765,7 @@
 [^13-15]: The SBLGNT here follows NA28; other editions read "If anyone kills with the sword, with the sword they must be killed."
 [^13-16]: Literally "Here is the endurance and the faith of the holy ones".
 [^13-17]: Literally "before it", "in its presence"; also in verse 14.
-[^13-18]: Compare 1 Kings 18:38, "Then the fire of Yahweh fell"; 2 Kings 1:10.
+[^13-18]: Compare 1 Kings 18:38, "Then the fire of the LORD fell"; 2 Kings 1:10.
 [^13-19]: Many manuscripts read "it deceived my own people who live on the earth".
 [^13-20]: Compare Daniel 3:1–7, where all are commanded to worship Nebuchadnezzar's statue of gold, in the Greek Old Testament his *eikon*, "image".
 [^13-21]: Or "spirit". Greek *pneuma*.
@@ -827,11 +827,11 @@
 [^14-6]: Compare Zephaniah 3:13, "and no deceitful tongue will be found in their mouths"; Isaiah 53:9.
 [^14-7]: Literally "those who sit", that is, are settled.
 [^14-8]: Many manuscripts read "Fear the Lord".
-[^14-9]: Compare Exodus 20:11, "For in six days Yahweh made the heavens and the earth, the sea and everything in them"; Psalm 146:6.
+[^14-9]: Compare Exodus 20:11, "For in six days the LORD made the heavens and the earth, the sea and everything in them"; Psalm 146:6.
 [^14-10]: Isaiah 21:9, "Fallen, fallen is Babylon!"; compare Jeremiah 51:7–8 and Daniel 4:27 (4:30 in most English Bibles), "Is this not great Babylon". Many manuscripts have "Fallen" only once.
 [^14-11]: Greek *thymos* means both "passion" and "fury", as in "God's fury" in verse 10. Compare Jeremiah 51:7, "The nations drank her wine; therefore the nations have gone mad."
 [^14-12]: Literally "mixed undiluted". Wine was normally mixed with water.
-[^14-13]: Compare Psalm 75:9 (75:8 in most English Bibles), "For in the hand of Yahweh there is a cup, with foaming wine"; Isaiah 51:17; Jeremiah 25:15.
+[^14-13]: Compare Psalm 75:9 (75:8 in most English Bibles), "For in the hand of the LORD there is a cup, with foaming wine"; Isaiah 51:17; Jeremiah 25:15.
 [^14-14]: Compare Genesis 19:24; Isaiah 34:9–10.
 [^14-15]: Isaiah 34:10, "its smoke will go up forever".
 [^14-16]: Literally "Here is the endurance of the holy ones", traditionally "the saints".
@@ -866,13 +866,13 @@
 [^15-1]: Or "beside the sea of glass".
 [^15-2]: That is, harps for the worship of God, or given by God.
 [^15-3]: Compare the song Moses and the Israelites sang after crossing the sea (Exodus 15:1–18), and the song of Moses in Deuteronomy 32. The words of this song are drawn from many passages of the Old Testament.
-[^15-4]: Compare Psalm 111:2, "Great are the works of Yahweh"; 139:14, "Wonderful are your works". *Almighty*: see 1:8.
+[^15-4]: Compare Psalm 111:2, "Great are the works of the LORD"; 139:14, "Wonderful are your works". *Almighty*: see 1:8.
 [^15-5]: Compare Deuteronomy 32:4, "all his ways are just"; Psalm 145:17. The SBLGNT here follows Westcott and Hort. Many manuscripts and most other editions read "King of the nations", as in Jeremiah 10:7.
 [^15-6]: Compare Jeremiah 10:7, "Who would not fear you, King of the nations?"; Psalm 86:9, "All the nations you have made will come and bow down before you, Lord, and they will glorify your name." In the Hebrew of Psalm 86:9, "Lord" is *Adonai*.
 [^15-7]: Or "your just decrees". Greek *dikaiomata*.
 [^15-8]: The tabernacle, called "the tabernacle of the testimony" in Exodus 38:21 and Numbers 1:50. *The testimony* was the stone tablets of the covenant kept in the ark (Exodus 25:16).
 [^15-9]: Some manuscripts read "dressed in clean, shining stone".
-[^15-10]: Compare Exodus 40:34–35, "the glory of Yahweh filled the tabernacle"; Isaiah 6:4, "and the house was filled with smoke"; 1 Kings 8:10–11.
+[^15-10]: Compare Exodus 40:34–35, "the glory of the LORD filled the tabernacle"; Isaiah 6:4, "and the house was filled with smoke"; 1 Kings 8:10–11.
 
 ## Chapter 16
 
@@ -926,7 +926,7 @@
 [^16-4]: Literally "of the holy ones", traditionally "of the saints".
 [^16-5]: Compare Isaiah 49:26, "they will be drunk on their own blood as on new wine".
 [^16-6]: Literally "They are worthy."
-[^16-7]: Compare Psalm 19:10 (19:9 in most English Bibles), "the rulings of Yahweh are true, and righteous altogether"; 119:137. *Almighty*: see 1:8.
+[^16-7]: Compare Psalm 19:10 (19:9 in most English Bibles), "the rulings of the LORD are true, and righteous altogether"; 119:137. *Almighty*: see 1:8.
 [^16-8]: Literally "its kingdom became darkened". Compare the ninth plague of Egypt, Exodus 10:21–23.
 [^16-9]: Compare Isaiah 11:15; 44:27; Jeremiah 50:38, "A drought on her waters, and they will dry up!"; 51:36.
 [^16-10]: Literally "from the rising of the sun".
@@ -986,7 +986,7 @@
 [^17-3]: Compare Isaiah 23:17; Jeremiah 51:7, "making the whole earth drunk. The nations drank her wine"; Nahum 3:4.
 [^17-4]: Or "in the spirit". See 1:10.
 [^17-5]: Literally "gilded with gold and precious stone and pearls".
-[^17-6]: Greek *bdelygmata*, "abominations", the word used in the Greek Old Testament for idols and idolatrous practices; also in verse 5. *A golden cup*: compare Jeremiah 51:7, "Babylon was a golden cup in Yahweh's hand".
+[^17-6]: Greek *bdelygmata*, "abominations", the word used in the Greek Old Testament for idols and idolatrous practices; also in verse 5. *A golden cup*: compare Jeremiah 51:7, "Babylon was a golden cup in the LORD's hand".
 [^17-7]: Or "a name with a hidden meaning". Greek *mysterion*; also in verse 7.
 [^17-8]: Literally "of the holy ones", traditionally "of the saints".
 [^17-9]: Or "the martyrs of Jesus". Greek *martys*, "witness", the source of the word "martyr".
@@ -995,7 +995,7 @@
 [^17-12]: Rome was known as the city of seven hills, and many interpreters see a reference to it here.
 [^17-13]: Literally "it is an eighth, and it is from the seven".
 [^17-14]: Compare Daniel 7:24, "As for the ten horns, out of this kingdom ten kings will arise".
-[^17-15]: Compare Deuteronomy 10:17, "For Yahweh your God is God of gods and Lord of lords"; Daniel 2:47.
+[^17-15]: Compare Deuteronomy 10:17, "For the LORD your God is God of gods and Lord of lords"; Daniel 2:47.
 [^17-16]: Compare Ezekiel 16:37–41 and 23:25–29, where Jerusalem's lovers strip her and leave her naked.
 [^17-17]: Literally "to do his purpose, and to do one purpose, and to give their kingdom to the beast".
 
@@ -1128,13 +1128,13 @@
 
 **21** The rest were killed by the sword that came out of the mouth of the rider on the horse, and all the birds gorged themselves on their flesh.
 
-[^19-1]: Greek *hallelouia*, from the Hebrew *hallelu-yah*, "Praise Yah!" (as in Psalms 104:35; 106:48; 146–150). *Yah* is a short form of God's personal name, Yahweh. In the New Testament the word occurs only in verses 1–6 of this chapter.
+[^19-1]: Greek *hallelouia*, from the Hebrew *hallelu-yah*, "Praise Yah!" (as in Psalms 104:35; 106:48; 146–150). *Yah* is a short form of God's personal name, YHWH ("the LORD"). In the New Testament the word occurs only in verses 1–6 of this chapter.
 [^19-2]: See 16:7.
 [^19-3]: Literally "from her hand". Compare Deuteronomy 32:43, "for he will avenge the blood of his servants"; 2 Kings 9:7, of Jezebel.
 [^19-4]: Compare Isaiah 34:10, "its smoke will go up forever". See 14:11.
 [^19-5]: Compare Psalm 106:48, "Let all the people say, 'Amen!' Praise Yah!"
-[^19-6]: Compare Psalm 135:1, "praise him, you servants of Yahweh"; 135:20, "You who fear Yahweh, bless Yahweh!"; 115:13.
-[^19-7]: Or "has begun to reign". Compare Psalms 93:1; 97:1; 99:1, "Yahweh reigns!", where the Greek Old Testament has the same verb. In the Hebrew, "the Lord" there is God's personal name, Yahweh. The SBLGNT here follows the margin of Westcott and Hort; the other editions read "the Lord our God, the Almighty".
+[^19-6]: Compare Psalm 135:1, "praise him, you servants of the LORD"; 135:20, "You who fear the LORD, bless the LORD!"; 115:13.
+[^19-7]: Or "has begun to reign". Compare Psalms 93:1; 97:1; 99:1, "The LORD reigns!", where the Greek Old Testament has the same verb. In the Hebrew, "the Lord" there is God's personal name, YHWH ("the LORD"). The SBLGNT here follows the margin of Westcott and Hort; the other editions read "the Lord our God, the Almighty".
 [^19-8]: The SBLGNT here follows Westcott and Hort; other editions read "and let us give him the glory".
 [^19-9]: Literally "his wife". Compare Isaiah 54:5–6; 62:5; Hosea 2:21–22 (2:19–20 in most English Bibles), where God is the husband of his people.
 [^19-10]: Greek *dikaiomata*, "righteous acts". Compare Isaiah 61:10, "he has clothed me with garments of salvation and wrapped me in a robe of righteousness".
@@ -1155,7 +1155,7 @@
 [^19-25]: Literally "one angel".
 [^19-26]: Greek *chiliarchoi*, "commanders of a thousand". See 6:15.
 [^19-27]: Compare Ezekiel 39:17–20, "Say to the birds of every kind and to all the wild animals, 'Assemble and come! … You will eat the flesh of the mighty and drink the blood of the princes of the earth'".
-[^19-28]: Compare Psalm 2:2, "The kings of the earth take their stand … against Yahweh and against his anointed one".
+[^19-28]: Compare Psalm 2:2, "The kings of the earth take their stand … against the LORD and against his anointed one".
 [^19-29]: Literally "before it". See 13:12–14.
 [^19-30]: Compare Daniel 7:11, "the beast was killed, and its body destroyed and given over to the burning fire".
 
@@ -1285,14 +1285,14 @@
 [^21-17]: Or "in the spirit". See 1:10.
 [^21-18]: Compare Ezekiel 40:2, "and set me down on a very high mountain, and on it … was something like the structure of a city".
 [^21-19]: Many manuscripts read "the great city, the holy Jerusalem".
-[^21-20]: Compare Isaiah 60:1–2, "and the glory of Yahweh has risen on you"; Ezekiel 43:2–5.
+[^21-20]: Compare Isaiah 60:1–2, "and the glory of the LORD has risen on you"; Ezekiel 43:2–5.
 [^21-21]: Compare Ezekiel 48:30–35, "the gates of the city will be named after the tribes of Israel".
 [^21-22]: Compare Ezekiel 40:3, 5.
 [^21-23]: About 1,400 miles (2,200 kilometers). A *stadion* was about 600 feet (185 meters).
 [^21-24]: About 216 feet (65 meters). A cubit was about 18 inches (45 cm).
 [^21-25]: Or "by a human measure, which the angel was using".
 [^21-26]: Compare the twelve stones of the high priest's breastpiece, Exodus 28:17–20, and Isaiah 54:11–12, "and lay your foundations with sapphires". The modern names of some of these stones are uncertain.
-[^21-27]: Compare Isaiah 60:19–20, "The sun will no longer be your light by day … But Yahweh will be your everlasting light".
+[^21-27]: Compare Isaiah 60:19–20, "The sun will no longer be your light by day … But the LORD will be your everlasting light".
 [^21-28]: Compare Isaiah 60:3, 5, "Nations will come to your light, and kings to the brightness of your dawn". Many manuscripts read "the kings of the earth bring to it the glory and honor of the nations".
 [^21-29]: Compare Isaiah 60:11, "Your gates will always stand open; day and night they will not be shut"; Zechariah 14:7.
 [^21-30]: Compare Isaiah 52:1, "For the uncircumcised and the unclean will never enter you again."
@@ -1349,9 +1349,9 @@
 [^22-4]: Compare Zechariah 14:11, "there will never again be a curse of destruction"; Genesis 3:17.
 [^22-5]: Greek *latreuo*. See 7:15.
 [^22-6]: Compare Psalm 17:15, "in righteousness I will see your face"; contrast Exodus 33:20.
-[^22-7]: Compare Isaiah 60:19, "But Yahweh will be your everlasting light". See 21:23.
+[^22-7]: Compare Isaiah 60:19, "But the LORD will be your everlasting light". See 21:23.
 [^22-8]: Compare Daniel 7:18, 27.
-[^22-9]: See 1:1. Compare Daniel 2:28–29, 45. *The God of the spirits of the prophets*: compare Numbers 27:16, "Yahweh, the God of the spirits of all living beings".
+[^22-9]: See 1:1. Compare Daniel 2:28–29, 45. *The God of the spirits of the prophets*: compare Numbers 27:16, "the LORD, the God of the spirits of all living beings".
 [^22-10]: In verse 7, as in verses 12–16 and 20, the speaker is Jesus.
 [^22-11]: Greek *adelphoi*, "brothers", used of the believers, men and women alike.
 [^22-12]: Contrast Daniel 8:26; 12:4, 9, where Daniel is told to seal the book until the time of the end.

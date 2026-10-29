@@ -703,6 +703,12 @@ OSIS_LABEL = {"Gen": "Genesis", "Exod": "Exodus", "Lev": "Leviticus", "Num": "Nu
               "1John": "1 John", "2John": "2 John", "3John": "3 John", "Jude": "Jude", "Rev": "Revelation"}
 
 
+def as_ours(name):
+    """OpenBible's names come from translations that print God's name "the Lord"; ours writes
+    "the LORD" ("The LORD Will Provide"). Names are matched with "Lord" and shown with "LORD"."""
+    return re.sub(r"\bLord\b", "LORD", name)
+
+
 def our_spellings():
     """How often each capitalised name (up to four words, with hyphens) occurs in the Open
     Plain English Translation, so the maps can spell places as our translation does."""
@@ -713,7 +719,7 @@ def our_spellings():
     word = r"[A-Z][a-z'’]*(?:-[a-z'’]+|-[A-Z][a-z'’]*)*"
     pattern = re.compile(rf"(?=({word}(?: (?:of |the |in )?{word}){{0,3}}))")
     for path in glob.glob(os.path.join(ROOT, "text", "english", "*.md")):
-        text = open(path, encoding="utf-8").read()
+        text = open(path, encoding="utf-8").read().replace("LORD", "Lord")
         for m in pattern.finditer(text):
             name = m.group(1)
             parts = name.split(" ")
@@ -750,7 +756,8 @@ def english_verse(ref):
                 verses[key] += " " + line.strip()
             elif not line:
                 key = None if key and verses.get(key) else key
-        _VERSES[osis] = {k: re.sub(r"\[\^[^\]]+\]", "", t) for k, t in verses.items()}
+        # For matching names only: "LORD" as the other translations behind OpenBible print it.
+        _VERSES[osis] = {k: re.sub(r"\[\^[^\]]+\]", "", t).replace("LORD", "Lord") for k, t in verses.items()}
     return _VERSES[osis].get((ch, v), "")
 
 
@@ -758,7 +765,7 @@ def verse_name(place, ours, first=None, books=None):
     """The name as the first verse that names the place spells it: "Thessalonica", not
     "Thessalonians"; "Antipatris" in Acts, not "Aphek". `first` is that verse, (book, ch, v), or
     else the first in `books`."""
-    name = display_name(place, ours)
+    name = _display_name(place, ours)
     named = [v for v in place["verses"] if books is None or v[0] in books]
     if first is None and named:
         first = min(named, key=lambda v: (BOOK_ORDER[v[0]], v[1], v[2]))
@@ -778,12 +785,16 @@ def verse_name(place, ours, first=None, books=None):
             name = max(plain, key=lambda n: place["spellings"][n])
         elif own[:5] == name[:5] and not re.search(people, own):
             name = own
-    return name
+    return as_ours(name)
 
 
 def display_name(place, ours):
     """The place's name as our translation spells it, else OpenBible's name without its
     disambiguating number."""
+    return as_ours(_display_name(place, ours))
+
+
+def _display_name(place, ours):
     sp = place["spellings"]
     top = max(sp.values(), default=0)
     # Only the usual spellings: rare renderings ("Galilee" for Chinnereth) don't count.

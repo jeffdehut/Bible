@@ -125,7 +125,7 @@
 [^1-14]: Greek *hoi Ioudaioi*, "the Jews" or "the Judeans". Here, as often in John, the word refers to the religious authorities in Jerusalem who send official representatives.
 [^1-15]: Greek *ho christos*, "the Christ", "the Anointed One".
 [^1-16]: The prophet like Moses promised in Deuteronomy 18:15–18.
-[^1-17]: Isaiah 40:3. In Isaiah's Hebrew, "the Lord" is God's personal name, Yahweh.
+[^1-17]: Isaiah 40:3. In Isaiah's Hebrew, "the Lord" is God's personal name, YHWH ("the LORD").
 [^1-18]: Or "Some Pharisees had been sent."
 [^1-19]: The SBLGNT reads "the Chosen One of God", with some early manuscripts. Most manuscripts and editions read "the Son of God".
 [^1-20]: Literally "about the tenth hour", counting hours from sunrise.
@@ -708,7 +708,7 @@
 [^6-13]: This is the first of the sayings in John in which Jesus says "I am" (Greek *ego eimi*) followed by a description of himself: "the bread of life" (6:35, 48, 51), "the light of the world" (8:12; 9:5), "the gate" (10:7, 9), "the good shepherd" (10:11, 14), "the resurrection and the life" (11:25), "the way, and the truth, and the life" (14:6), "the true vine" (15:1, 5). Elsewhere he uses *ego eimi* on its own, without a description (4:26; 6:20; 8:24, 28, 58; 13:19; 18:5–8).
 [^6-14]: Literally "Everything that the Father gives me will come to me". The Greek uses a neuter, "everything", for the people as a whole; also in verse 39.
 [^6-15]: Greek *hoi Ioudaioi*. Here, in Galilee, the word refers to Jesus' hearers in the synagogue at Capernaum (verse 59) who object to what he says; also in verse 52.
-[^6-16]: Isaiah 54:13. The Hebrew reads "taught by Yahweh".
+[^6-16]: Isaiah 54:13. The Hebrew reads "taught by the LORD".
 [^6-17]: Many manuscripts add "in me".
 [^6-18]: Greek *trogo*, "chew, munch", a more physical verb than the one in verse 53; also in verses 56–58.
 [^6-19]: Literally "make you stumble". Greek *skandalizo*.
@@ -1438,7 +1438,7 @@
 [^12-3]: The meaning is uncertain. It may be "Let her keep what is left for the day of my burial", or "She was meant to keep it for the day of my burial". Many manuscripts read "Leave her alone. She has kept it for the day of my burial."
 [^12-4]: Literally "were going away". That is, they were leaving the authorities, or leaving Jerusalem to see Jesus and Lazarus.
 [^12-5]: A Hebrew expression, originally "Save, please!" (Psalm 118:25), used as a shout of praise.
-[^12-6]: Psalm 118:26. In the Hebrew, "the Lord" is God's personal name, Yahweh.
+[^12-6]: Psalm 118:26. In the Hebrew, "the Lord" is God's personal name, YHWH ("the LORD").
 [^12-7]: Zechariah 9:9, in a shortened form. "Do not be afraid" may recall Zephaniah 3:16 or Isaiah 40:9.
 [^12-8]: Probably non-Jews who worshiped the God of Israel.
 [^12-9]: Greek *psyche*, "life, self, soul"; also in verse 27 ("soul").
@@ -1447,7 +1447,7 @@
 [^12-12]: No single passage says this; compare Psalm 89:37 (89:36 in most English Bibles); Psalm 110:4; Isaiah 9:6 (9:7 in most English Bibles).
 [^12-13]: Literally "sons of light", people who belong to the light.
 [^12-14]: Or "our message".
-[^12-15]: Isaiah 53:1. The first word, "Lord", is found in the Septuagint but not in the Hebrew. In the Hebrew, "the Lord" in the second line is God's personal name, Yahweh.
+[^12-15]: Isaiah 53:1. The first word, "Lord", is found in the Septuagint but not in the Hebrew. In the Hebrew, "the Lord" in the second line is God's personal name, YHWH ("the LORD").
 [^12-16]: Isaiah 6:10, in a form that differs from both the Hebrew and the Septuagint. In the Hebrew, the prophet is told to make the people's heart dull.
 [^12-17]: Many manuscripts read "when". See Isaiah 6:1–5.
 [^12-18]: Or "they loved praise from people more than praise from God".

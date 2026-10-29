@@ -138,6 +138,8 @@ main { max-width: 680px; margin-inline: auto; padding-block: 28px 120px; }
 @keyframes flash { 0%, 30% { background: color-mix(in srgb, var(--gold) 28%, transparent); } }
 .vn { font: 600 0.58em/1 var(--sans); color: var(--gold); vertical-align: 0.55em; margin: 0 0.18em 0 0.1em; font-variant-numeric: tabular-nums; }
 .vn.title { font-style: italic; }
+/* LORD and GOD in capitals stand for God's personal name: small capitals, as in print. */
+.dn > span { font-size: 0.8em; letter-spacing: 0.03em; }
 .fn {
   border: 0; background: none; padding: 0 0.1em; margin: 0; cursor: pointer; color: var(--lapis);
   font: 600 0.6em/1 var(--sans); vertical-align: 0.6em;
@@ -525,7 +527,7 @@ if (/(^#|&)(access_token|error)=/.test(location.hash)) {
       <li><strong>Approved:</strong> accepted for the published translation.</li>
     </ul>
     <h3>The aim</h3>
-    <p>Say what the original says, in natural modern English that a reader around 12 to 14 years old can follow. Where the original can be read more than one way, or the manuscripts differ, a note says so. God's personal name is written "Yahweh", where most English Bibles write "the LORD".</p>
+    <p>Say what the original says, in natural modern English that a reader around 12 to 14 years old can follow. Where the original can be read more than one way, or the manuscripts differ, a note says so. God's personal name, YHWH, is written "the LORD" in small capitals, as in most English Bibles.</p>
     <h3>Under each verse</h3>
     <p>Tap a verse to see it in Hebrew, Aramaic or Greek, word by word. The words, glosses and grammar come from STEPBible's tagged texts (TAHOT and TAGNT), and the definitions from its brief lexicons (TBESH and TBESG). STEPBible's glosses are its own, not this translation's.</p>
     <p>People a verse names are listed under <em>People</em>: tap one to see their family in the genealogy. The names come from STEPBible's TIPNR, which marks each name in the Hebrew, Aramaic and Greek.</p>
@@ -627,18 +629,29 @@ function parseHash() {
 /* ---------- The chapter ---------- */
 let cur = null;           // { b, c, data, chapter }
 const STATUS_LABEL = { draft: "Draft · not yet reviewed", checked: "Checked", reviewed: "Reviewed", approved: "Approved" };
+function divineName(text, into) {
+  // "LORD" and "GOD" become "L" + small "ORD": the words still copy and search as written.
+  let last = 0;
+  for (const m of text.matchAll(/\b(?:LORD|GOD)\b/g)) {
+    if (m.index > last) into.append(text.slice(last, m.index));
+    into.append(el("span", { class: "dn" }, m[0][0], el("span", { text: m[0].slice(1) })));
+    last = m.index + m[0].length;
+  }
+  if (last < text.length) into.append(text.slice(last));
+  return into;
+}
 function inline(text, noteLetters) {
   // Our markup: *italic*, and [^label] note markers.
   const frag = document.createDocumentFragment();
   const re = /\*([^*]+)\*|\[\^(\w+)\]/g;
   let last = 0, m;
   while ((m = re.exec(text))) {
-    if (m.index > last) frag.append(text.slice(last, m.index));
-    if (m[1] != null) frag.append(el("i", { text: m[1] }));
+    if (m.index > last) divineName(text.slice(last, m.index), frag);
+    if (m[1] != null) frag.append(divineName(m[1], el("i")));
     else if (noteLetters && settings.notes === "on") frag.append(el("button", { class: "fn", type: "button", "data-n": m[2], "aria-label": "Note " + noteLetters[m[2]], text: noteLetters[m[2]] }));
     last = re.lastIndex;
   }
-  if (last < text.length) frag.append(text.slice(last));
+  if (last < text.length) divineName(text.slice(last), frag);
   return frag;
 }
 const letter = i => { let s = ""; i++; while (i > 0) { const r = (i - 1) % 26; s = String.fromCharCode(97 + r) + s; i = Math.floor((i - 1) / 26); } return s; };

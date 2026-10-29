@@ -53,10 +53,10 @@
 [^1-16]: Or "of uprightness". Some manuscripts read "his kingdom".
 [^1-17]: Or "so, God, your God has anointed you", continuing to address the Son. *Has anointed*: Greek *echrisen*, from the same root as *christos*, "anointed one, Messiah".
 [^1-18]: Or "your partners", Greek *metochoi*, the word used in 3:1, 14.
-[^1-19]: Psalm 102:26–28 (102:25–27 in most English Bibles), quoted in verses 10–12 from the Septuagint, which adds "Lord". The Hebrew reads "Long ago you laid the foundation of the earth". In the psalm the words are addressed to Yahweh, God's personal name (102:2, 13); Hebrews applies them to the Son.
+[^1-19]: Psalm 102:26–28 (102:25–27 in most English Bibles), quoted in verses 10–12 from the Septuagint, which adds "Lord". The Hebrew reads "Long ago you laid the foundation of the earth". In the psalm the words are addressed to the LORD, God's personal name (102:2, 13); Hebrews applies them to the Son.
 [^1-20]: The Hebrew reads "You will change them like clothing, and they will pass away." *Roll them up*: Greek *helisseis*; compare Isaiah 34:4, "the heavens will be rolled up like a scroll". Many manuscripts leave out "like a garment" in this verse.
 [^1-21]: Literally "your years will not fail".
-[^1-22]: Psalm 110:1, where Yahweh speaks to the king; also quoted in Mark 12:36. *A footstool for your feet*: a conquered enemy was put under the victor's feet.
+[^1-22]: Psalm 110:1, where the LORD speaks to the king; also quoted in Mark 12:36. *A footstool for your feet*: a conquered enemy was put under the victor's feet.
 [^1-23]: Greek *leitourgika pneumata*. *Leitourgia* is public and priestly service; compare "servants" (*leitourgoi*) in verse 7.
 
 ## Chapter 2
@@ -118,7 +118,7 @@
 [^2-17]: Greek *adelphoi*, "brothers", used of men and women alike; also in verses 12 and 17.
 [^2-18]: Psalm 22:23 (22:22 in most English Bibles). The Hebrew reads "I will praise you". *Assembly*: Greek *ekklesia*, the word elsewhere translated "church".
 [^2-19]: Isaiah 8:17, as in the Septuagint. The Hebrew reads "I will put my hope in him." Compare 2 Samuel 22:3 and Isaiah 12:2.
-[^2-20]: Isaiah 8:18, where the prophet speaks of himself and his children. In the Hebrew, "God" is God's personal name, Yahweh.
+[^2-20]: Isaiah 8:18, where the prophet speaks of himself and his children. In the Hebrew, "God" is God's personal name, YHWH ("the LORD").
 [^2-21]: Literally "blood and flesh", that is, human nature.
 [^2-22]: Greek *katargeo*, "make powerless, destroy".
 [^2-23]: Literally "takes hold of", as one takes someone by the hand to help (8:9). It has also been understood as "takes on the nature of".
@@ -427,7 +427,7 @@
 [^7-14]: Many manuscripts read "about priesthood".
 [^7-15]: Literally "according to the law of a fleshly commandment".
 [^7-16]: Psalm 110:4 (see 5:6).
-[^7-17]: Psalm 110:4. In the Hebrew, "the Lord" is God's personal name, Yahweh. Many manuscripts add "in the order of Melchizedek".
+[^7-17]: Psalm 110:4. In the Hebrew, "the Lord" is God's personal name, YHWH ("the LORD"). Many manuscripts add "in the order of Melchizedek".
 [^7-18]: Greek *engyos*, "guarantor, surety", one who stands security for another's pledge.
 [^7-19]: Greek *diatheke*, "covenant", the word Hebrews uses for both the covenant made at Sinai and the new covenant (8:6–13). *By so much*: verses 20–22 are one sentence in Greek, "as much as it was not without an oath … by so much Jesus has become the guarantee …".
 [^7-20]: Or "he holds a priesthood that does not pass to anyone else". Greek *aparabatos*, "unchangeable, permanent".
@@ -472,7 +472,7 @@
 [^8-6]: Greek *diatheke* (see 7:22).
 [^8-7]: Literally "that first one".
 [^8-8]: Many manuscripts read "For finding fault, he says to them", which leaves open whether the fault is in the people or in the first covenant. Jeremiah 31:31–34 (38:31–34 in the Septuagint) is quoted in verses 8–12, following the Septuagint.
-[^8-9]: In the Hebrew, "the Lord" is God's personal name, Yahweh, here and in verses 9–11.
+[^8-9]: In the Hebrew, "the Lord" is God's personal name, YHWH ("the LORD"), here and in verses 9–11.
 [^8-10]: Greek *synteleso*, "I will accomplish, bring to completion". The Hebrew has "I will make".
 [^8-11]: The Hebrew of Jeremiah reads "my covenant that they broke, though I was their husband (or master)". The Septuagint, quoted here, has "for they did not continue in my covenant, and I paid no attention to them".
 [^8-12]: The Hebrew reads "I will put my law within them, and I will write it on their hearts."
@@ -564,7 +564,7 @@
 [^9-22]: Many manuscripts read "your consciences".
 [^9-23]: Greek *diatheke*, which means both "covenant" and "will, testament". In verses 16–17 Hebrews uses the second sense. Some take the verses to keep the sense "covenant", thinking of the death of the animals by which a covenant was confirmed (Genesis 15:9–18; Jeremiah 34:18).
 [^9-24]: Many manuscripts and most modern editions add "and goats". Exodus 24:3–8 tells of the sprinkling of the blood; it mentions bulls (24:5) but not water, scarlet wool or hyssop, which belong to other rites of cleansing (Leviticus 14:4–7; Numbers 19:6, 18).
-[^9-25]: Exodus 24:8. The Hebrew reads "the blood of the covenant that Yahweh has made with you".
+[^9-25]: Exodus 24:8. The Hebrew reads "the blood of the covenant that the LORD has made with you".
 [^9-26]: Greek *haimatekchysia*, "pouring out of blood". Compare Leviticus 17:11.
 [^9-27]: On the Day of Atonement (Leviticus 16:34).
 [^9-28]: Compare Isaiah 53:12, "he bore the sin of many".
@@ -661,7 +661,7 @@
 [^10-7]: Many manuscripts add "God".
 [^10-8]: Or "offered a single sacrifice for sins and sat down forever at the right hand of God".
 [^10-9]: Psalm 110:1 (see 1:13).
-[^10-10]: Or, as part of the quotation, "declares the Lord". Verses 16–17 quote Jeremiah 31:33–34 (see 8:10–12) freely: Jeremiah has "with the house of Israel". In the Hebrew, "the Lord" is God's personal name, Yahweh.
+[^10-10]: Or, as part of the quotation, "declares the Lord". Verses 16–17 quote Jeremiah 31:33–34 (see 8:10–12) freely: Jeremiah has "with the house of Israel". In the Hebrew, "the Lord" is God's personal name, YHWH ("the LORD").
 [^10-11]: Some editions add "then he says" at the start of verse 17.
 [^10-12]: Greek *adelphoi*, "brothers", used of men and women alike.
 [^10-13]: Greek *ton hagion*, "the holy (places)" (see 9:8, 12).
@@ -674,7 +674,7 @@
 [^10-20]: Deuteronomy 17:6. *Rejected*: Greek *atheteo*, "set aside, treat as invalid".
 [^10-21]: Literally "common", that is, ordinary or unclean, the opposite of holy.
 [^10-22]: Deuteronomy 32:35, in the form also quoted in Romans 12:19. The Hebrew reads "Vengeance is mine, and repayment". Many manuscripts add "says the Lord".
-[^10-23]: Deuteronomy 32:36 (also Psalm 135:14). In the Hebrew, "the Lord" is God's personal name, Yahweh. *Will judge*: or "will vindicate", as this translation renders the Hebrew there.
+[^10-23]: Deuteronomy 32:36 (also Psalm 135:14). In the Hebrew, "the Lord" is God's personal name, YHWH ("the LORD"). *Will judge*: or "will vindicate", as this translation renders the Hebrew there.
 [^10-24]: Greek *athlesis*, a contest, as in athletic games.
 [^10-25]: Many manuscripts read "you sympathized with me in my chains".
 [^10-26]: Many manuscripts add "in heaven".
@@ -793,7 +793,7 @@
 [^11-24]: Greek *asteios*, "well formed, fine", the Septuagint's word in Exodus 2:2, where the Hebrew reads "a fine child".
 [^11-25]: Exodus 1:22; 2:2.
 [^11-26]: Exodus 2:10–12.
-[^11-27]: Or "the reproach of the anointed one". Greek *tou christou*, "the Christ", "the Anointed One". Compare Psalm 89:51–52 (89:50–51 in most English Bibles), on the taunts suffered by Yahweh's anointed.
+[^11-27]: Or "the reproach of the anointed one". Greek *tou christou*, "the Christ", "the Anointed One". Compare Psalm 89:51–52 (89:50–51 in most English Bibles), on the taunts suffered by the LORD's anointed.
 [^11-28]: Either Moses' flight to Midian (Exodus 2:15) or the exodus (Exodus 12:31–41) may be meant.
 [^11-29]: Exodus 12:21–30. *The destroyer*: Exodus 12:23.
 [^11-30]: Greek *Erythra Thalassa*, the Septuagint's name for the Hebrew *Yam Suph*, "Sea of Reeds" (Exodus 15:4).
@@ -881,7 +881,7 @@
 [^12-4]: Or "Instead of the joy that was set before him".
 [^12-5]: The SBLGNT here follows Westcott and Hort; other editions read "against himself".
 [^12-6]: Or "And have you forgotten …?" *Sons*: Greek *huioi*. In verses 5–8 the readers, men and women alike, are addressed as sons in a household.
-[^12-7]: Proverbs 3:11–12, quoted in verses 5–6 from the Septuagint. The Hebrew reads "do not reject the discipline of Yahweh, and do not resent his correction". In the Hebrew, "the Lord" is God's personal name, Yahweh, also in verse 6.
+[^12-7]: Proverbs 3:11–12, quoted in verses 5–6 from the Septuagint. The Hebrew reads "do not reject the discipline of the LORD, and do not resent his correction". In the Hebrew, "the Lord" is God's personal name, YHWH ("the LORD"), also in verse 6.
 [^12-8]: The Hebrew reads "as a father corrects the son he delights in". *Punishes*: Greek *mastigoo*, "whip, flog".
 [^12-9]: Or "It is for discipline that you endure."
 [^12-10]: Literally "the fathers of our flesh".
@@ -896,7 +896,7 @@
 [^12-19]: Exodus 19:16–19; Deuteronomy 4:11; 5:22–23.
 [^12-20]: Exodus 20:18–19; Deuteronomy 5:23–27.
 [^12-21]: Exodus 19:12–13.
-[^12-22]: The words "I am terrified" are from Deuteronomy 9:19, where Moses speaks of his fear of Yahweh's anger after the golden calf.
+[^12-22]: The words "I am terrified" are from Deuteronomy 9:19, where Moses speaks of his fear of the LORD's anger after the golden calf.
 [^12-23]: Or "and to tens of thousands of angels, to the festal gathering and church of the firstborn". Greek *panegyris*, a festive assembly.
 [^12-24]: Greek *ekklesia*, "assembly".
 [^12-25]: Or "to a judge who is God of all".
@@ -964,7 +964,7 @@
 [^13-2]: Compare Genesis 18:1–8; 19:1–3.
 [^13-3]: Or "in every way". The Greek has no verb: "Honorable (is) marriage among all".
 [^13-4]: Deuteronomy 31:6, 8; Joshua 1:5, where God speaks in the first person; compare Genesis 28:15. The Greek is emphatic: "I will never, never …".
-[^13-5]: Psalm 118:6, as in the Septuagint. The Hebrew reads "Yahweh is for me; I will not be afraid." In the Hebrew, "the Lord" is God's personal name, Yahweh.
+[^13-5]: Psalm 118:6, as in the Septuagint. The Hebrew reads "The LORD is for me; I will not be afraid." In the Hebrew, "the Lord" is God's personal name, YHWH ("the LORD").
 [^13-6]: Probably rules about food, or sacrificial meals.
 [^13-7]: Greek *ta hagia*, here the most holy place (see 9:12).
 [^13-8]: Greek *peri hamartias*, "for sin" (see 10:6).

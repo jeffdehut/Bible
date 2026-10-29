@@ -328,10 +328,10 @@
 [^4-1]: That is, by physical descent.
 [^4-2]: Many manuscripts read "What then shall we say that Abraham our father has found according to the flesh?" Some leave out "has found": "What then shall we say about Abraham, our forefather according to the flesh?"
 [^4-3]: Greek *dikaioo*, traditionally "justify".
-[^4-4]: Genesis 15:6, as in the Septuagint. The Hebrew has "Yahweh", God's personal name, where Paul has "God", and reads "he credited it to him as righteousness". *Credited*: Greek *logizomai*, "count, reckon, credit", a word that runs through this chapter.
+[^4-4]: Genesis 15:6, as in the Septuagint. The Hebrew has God's personal name, YHWH ("the LORD"), where Paul has "God", and reads "he credited it to him as righteousness". *Credited*: Greek *logizomai*, "count, reckon, credit", a word that runs through this chapter.
 [^4-5]: Literally "according to grace".
 [^4-6]: Greek *makarismos*, the declaring of someone "happy" or "blessed" (*makarios*, verses 7–8); also in verse 9.
-[^4-7]: Psalm 32:1–2, as in the Septuagint. In the Hebrew, "the Lord" is God's personal name, Yahweh. *Happy*: traditionally "Blessed". *Count*: Greek *logizomai*, the verb translated "credit" in verses 3–6.
+[^4-7]: Psalm 32:1–2, as in the Septuagint. In the Hebrew, "the Lord" is God's personal name, YHWH ("the LORD"). *Happy*: traditionally "Blessed". *Count*: Greek *logizomai*, the verb translated "credit" in verses 3–6.
 [^4-8]: Compare Genesis 17:11.
 [^4-9]: Many manuscripts read "credited to them also".
 [^4-10]: Literally "and the father of circumcision to those not of circumcision only but also to those who walk in the footsteps of the faith in uncircumcision of our father Abraham".
@@ -750,8 +750,8 @@
 [^9-21]: Hosea 2:25 (2:23 in most English Bibles), quoted freely. The Hebrew has "I will have compassion on Lo-ruhamah ('not shown compassion'), and I will say to Lo-ammi ('not my people'), 'You are my people'".
 [^9-22]: Greek *huioi*, "sons". The Hebrew of Hosea has *bene*, "sons, children".
 [^9-23]: Hosea 2:1 (1:10 in most English Bibles), as in the Septuagint, which has "they will be called" where the Hebrew has "it will be said to them".
-[^9-24]: Isaiah 10:22–23, mostly as in the Septuagint; the first line also echoes Hosea 2:1 (1:10 in most English Bibles). The Hebrew reads "only a remnant of them will return. Destruction has been decreed, overflowing with righteousness. For the Lord Yahweh of Armies will carry out the destruction he has decreed in the middle of all the earth". In the Hebrew, "the Lord" is God's personal name, Yahweh. *Completing it and cutting it short*: or "fully and swiftly"; literally "finishing and cutting short a word". Many manuscripts read "for he will finish the word and cut it short in righteousness, because the Lord will carry out a word cut short on the earth", as in the Septuagint.
-[^9-25]: Greek *kyrios sabaoth*, from the Hebrew *YHWH tseva'ot*, "Yahweh of Armies", traditionally "the LORD of hosts". In the Hebrew, "the Lord" is God's personal name, Yahweh.
+[^9-24]: Isaiah 10:22–23, mostly as in the Septuagint; the first line also echoes Hosea 2:1 (1:10 in most English Bibles). The Hebrew reads "only a remnant of them will return. Destruction has been decreed, overflowing with righteousness. For the Lord GOD of Armies will carry out the destruction he has decreed in the middle of all the earth". In the Hebrew, "the Lord" is God's personal name, YHWH ("the LORD"). *Completing it and cutting it short*: or "fully and swiftly"; literally "finishing and cutting short a word". Many manuscripts read "for he will finish the word and cut it short in righteousness, because the Lord will carry out a word cut short on the earth", as in the Septuagint.
+[^9-25]: Greek *kyrios sabaoth*, from the Hebrew *YHWH tseva'ot*, "the LORD of Armies", traditionally "the LORD of hosts". In the Hebrew, "the Lord" is God's personal name, YHWH ("the LORD").
 [^9-26]: Isaiah 1:9, as in the Septuagint, which has "offspring" (literally "seed") where the Hebrew has "a few survivors".
 [^9-27]: Literally "pursuing a law of righteousness, did not arrive at law". Many manuscripts read "did not attain to the law of righteousness".
 [^9-28]: Many manuscripts read "by works of the Law. For they stumbled".
@@ -813,7 +813,7 @@
 [^10-7]: Deuteronomy 30:14, which has "very near".
 [^10-8]: Some manuscripts read "if you confess with your mouth the word that Jesus is Lord".
 [^10-9]: Isaiah 28:16, as in the Septuagint (see 9:33), with "everyone" added.
-[^10-10]: Joel 3:5 (2:32 in most English Bibles). In the Hebrew, "the Lord" is God's personal name, Yahweh.
+[^10-10]: Joel 3:5 (2:32 in most English Bibles). In the Hebrew, "the Lord" is God's personal name, YHWH ("the LORD").
 [^10-11]: Or "of whom they have not heard".
 [^10-12]: Isaiah 52:7, shortened. Isaiah has "on the mountains" and "the one who brings good news". Many manuscripts read "the feet of those who bring good news of peace, who bring good news of good things".
 [^10-13]: Isaiah 53:1, as in the Septuagint, which adds "Lord". *Message*: Greek *akoe*, "hearing, what is heard", where this translation of Isaiah has "what we have heard"; also in verse 17.
@@ -905,7 +905,7 @@
 [^11-4]: 1 Kings 19:10, 14, shortened and with the first two lines in the reverse order.
 [^11-5]: 1 Kings 19:18. The Hebrew has "I will leave seven thousand in Israel".
 [^11-6]: Many manuscripts add "But if it is by works, it is no longer grace; otherwise work is no longer work."
-[^11-7]: Deuteronomy 29:3 (29:4 in most English Bibles), combined with Isaiah 29:10, which has "a spirit of deep sleep". Both verses name Yahweh where Paul has "God".
+[^11-7]: Deuteronomy 29:3 (29:4 in most English Bibles), combined with Isaiah 29:10, which has "a spirit of deep sleep". Both verses name the LORD where Paul has "God".
 [^11-8]: Psalm 69:23–24 (69:22–23 in most English Bibles), as in the Septuagint, with "a net" added. The Hebrew has "and a snare for those at ease" and "make their loins tremble continually".
 [^11-9]: Literally "their fullness".
 [^11-10]: Many manuscripts read "For I am speaking to you Gentiles".
@@ -920,7 +920,7 @@
 [^11-19]: Isaiah 59:20–21, as in the Septuagint, with the last line from Isaiah 27:9 (compare Jeremiah 31:33–34). The Hebrew of 59:20 reads "A Redeemer will come to Zion, to those in Jacob who turn from rebellion".
 [^11-20]: Or "so they too have now been disobedient because of the mercy shown to you, so that they too may receive mercy". Many manuscripts leave out the second "now".
 [^11-21]: Or "Oh, the depth of the riches of the wisdom and knowledge of God!"
-[^11-22]: Isaiah 40:13, as in the Septuagint. The Hebrew reads "Who has measured the Spirit of Yahweh, or instructed him as his counselor?" In the Hebrew, "the Lord" is God's personal name, Yahweh.
+[^11-22]: Isaiah 40:13, as in the Septuagint. The Hebrew reads "Who has measured the Spirit of the LORD, or instructed him as his counselor?" In the Hebrew, "the Lord" is God's personal name, YHWH ("the LORD").
 [^11-23]: Compare Job 41:3 (41:11 in most English Bibles).
 
 ## Chapter 12
@@ -985,7 +985,7 @@
 [^12-14]: Compare Proverbs 3:7; Isaiah 5:21.
 [^12-15]: Compare Proverbs 3:4 in the Septuagint.
 [^12-16]: That is, God's wrath. Literally "give place to the wrath".
-[^12-17]: Deuteronomy 32:35, in a form close to the Septuagint ("On the day of vengeance I will repay"). The Hebrew has "Vengeance is mine, and repayment". *Says the Lord* is Paul's addition; in Deuteronomy the speaker is Yahweh. Also quoted in Hebrews 10:30.
+[^12-17]: Deuteronomy 32:35, in a form close to the Septuagint ("On the day of vengeance I will repay"). The Hebrew has "Vengeance is mine, and repayment". *Says the Lord* is Paul's addition; in Deuteronomy the speaker is the LORD. Also quoted in Hebrews 10:30.
 [^12-18]: Many manuscripts read "So".
 [^12-19]: Proverbs 25:21–22, as in the Septuagint. The Hebrew has "give him bread to eat … give him water to drink".
 
@@ -1088,7 +1088,7 @@
 [^14-4]: Many manuscripts read "Christ both died and rose and lived again".
 [^14-5]: Greek *adelphos*, "brother", a fellow believer; also in verses 13, 15 and 21.
 [^14-6]: Many manuscripts read "the judgment seat of Christ".
-[^14-7]: Isaiah 49:18 (and elsewhere), combined with Isaiah 45:23 as in the Septuagint, which has "every tongue will confess to God" where the Hebrew has "every tongue will swear allegiance". In the Hebrew, "the Lord" is God's personal name, Yahweh: "As surely as I live, declares Yahweh". *Confess to God*: or "praise God".
+[^14-7]: Isaiah 49:18 (and elsewhere), combined with Isaiah 45:23 as in the Septuagint, which has "every tongue will confess to God" where the Hebrew has "every tongue will swear allegiance". In the Hebrew, "the Lord" is God's personal name, YHWH ("the LORD"): "As surely as I live, declares the LORD". *Confess to God*: or "praise God".
 [^14-8]: Many manuscripts add "to God". The SBLGNT leaves it out, following a marginal reading of Westcott and Hort.
 [^14-9]: *Judge* and *decide* translate the same Greek verb, *krino*.
 [^14-10]: Greek *koinos*, "common", that is, ritually unclean; also later in the verse.
@@ -1172,9 +1172,9 @@
 [^15-2]: Some manuscripts read "us".
 [^15-3]: Many manuscripts read "Now I tell you that Jesus Christ".
 [^15-4]: Greek *ethne*, "nations" or "Gentiles", the word translated "nations" in the Old Testament passages quoted in verses 9–12; also in verses 10–12.
-[^15-5]: Psalm 18:50 (18:49 in most English Bibles); 2 Samuel 22:50. Both have "Yahweh" after "praise you".
+[^15-5]: Psalm 18:50 (18:49 in most English Bibles); 2 Samuel 22:50. Both have "LORD" after "praise you".
 [^15-6]: Deuteronomy 32:43, as in the Septuagint. The Hebrew has "Praise his people, you nations".
-[^15-7]: Psalm 117:1. In the Hebrew, "the Lord" is God's personal name, Yahweh.
+[^15-7]: Psalm 117:1. In the Hebrew, "the Lord" is God's personal name, YHWH ("the LORD").
 [^15-8]: Isaiah 11:10, as in the Septuagint. The Hebrew reads "On that day the root of Jesse will stand as a signal for the peoples. The nations will seek him".
 [^15-9]: Greek *adelphoi*, "brothers", used of the believers, men and women alike; also in verse 30.
 [^15-10]: Greek *leitourgos*, as in 13:6, a word used of those who serve in worship. *Serving … as a priest* translates *hierourgeo*, "perform holy service".

@@ -73,7 +73,7 @@
 [^1-2]: Literally "Sosthenes the brother". A Sosthenes was leader of the synagogue in Corinth (Acts 18:17); whether he is the same man is not known.
 [^1-3]: Or "sanctified", "set apart as holy".
 [^1-4]: Literally "called holy ones", traditionally "called to be saints".
-[^1-5]: To "call on the name" of the Lord is the Old Testament's expression for praying to and worshiping Yahweh (Genesis 12:8; Joel 3:5, 2:32 in most English Bibles).
+[^1-5]: To "call on the name" of the Lord is the Old Testament's expression for praying to and worshiping the LORD (Genesis 12:8; Joel 3:5, 2:32 in most English Bibles).
 [^1-6]: Or "in every place, theirs and ours".
 [^1-7]: Greek *logos*, "word, speech".
 [^1-8]: Literally "the testimony of Christ". *Among you*: or "in you".
@@ -105,7 +105,7 @@
 [^1-34]: Greek *katargeo*, "make ineffective, abolish, bring to an end".
 [^1-35]: Literally "no flesh".
 [^1-36]: Or "who became for us wisdom from God, that is, righteousness, holiness and redemption". *Holiness*: or "sanctification". *Redemption*: release, as of a slave or captive, by payment of a price.
-[^1-37]: A summary of Jeremiah 9:22–23 (9:23–24 in most English Bibles), where the one who boasts is to boast that he knows God, "that I am Yahweh". In the Hebrew, "the Lord" here is God's personal name, Yahweh. Also in 2 Corinthians 10:17.
+[^1-37]: A summary of Jeremiah 9:22–23 (9:23–24 in most English Bibles), where the one who boasts is to boast that he knows God, "that I am the LORD". In the Hebrew, "the Lord" here is God's personal name, YHWH ("the LORD"). Also in 2 Corinthians 10:17.
 
 ## Chapter 2
 
@@ -161,7 +161,7 @@
 [^2-16]: Or "interpreting spiritual things to spiritual people", or "comparing spiritual things with spiritual things".
 [^2-17]: Greek *psychikos*, from *psyche*, "life, soul": a person with natural life only, without the Spirit of God. Or "the unspiritual person".
 [^2-18]: Greek *anakrino*, "examine, judge, discern", the verb translated "judges" and "judged" in verse 15.
-[^2-19]: Isaiah 40:13, following the Septuagint. The Hebrew reads "Who has measured the Spirit of Yahweh, or instructed him as his counselor?" In the Hebrew, "the Lord" is God's personal name, Yahweh.
+[^2-19]: Isaiah 40:13, following the Septuagint. The Hebrew reads "Who has measured the Spirit of the LORD, or instructed him as his counselor?" In the Hebrew, "the Lord" is God's personal name, YHWH ("the LORD").
 
 ## Chapter 3
 
@@ -228,7 +228,7 @@
 [^3-13]: "You" is plural in Greek, here and in verse 17: the believers together are God's temple. *In you*: or "among you".
 [^3-14]: Or "ruins", "corrupts". The same Greek verb, *phtheiro*, is used twice in the sentence.
 [^3-15]: Job 5:13. Paul's Greek is closer to the Hebrew than to the Septuagint.
-[^3-16]: Psalm 94:11, with "the wise" in place of "humankind". The Hebrew says that their thoughts are "only a breath". In the Hebrew, "the Lord" is God's personal name, Yahweh.
+[^3-16]: Psalm 94:11, with "the wise" in place of "humankind". The Hebrew says that their thoughts are "only a breath". In the Hebrew, "the Lord" is God's personal name, YHWH ("the LORD").
 
 ## Chapter 4
 
@@ -567,7 +567,7 @@
 [^8-2]: Most interpreters take "We all have knowledge" as a saying used in Corinth, which Paul quotes; so also "An idol is nothing in the world" and "There is no God but one" in verse 4. The Greek has no quotation marks.
 [^8-3]: Greek *physioo* (see 4:6).
 [^8-4]: Or "there is no idol in the world".
-[^8-5]: The wording recalls Deuteronomy 6:4, the *Shema*: "Yahweh our God, Yahweh is one". The Septuagint there has *kyrios*, "Lord", for the name Yahweh.
+[^8-5]: The wording recalls Deuteronomy 6:4, the *Shema*: "The LORD our God, the LORD is one". The Septuagint there has *kyrios*, "Lord", for the name YHWH.
 [^8-6]: Many manuscripts read "with awareness of the idol until now", using *syneidesis*, the word translated "conscience" later in the verse.
 [^8-7]: Greek *syneidesis*, "conscience, awareness"; also in verses 10 and 12.
 [^8-8]: Literally "will not present us to God".
@@ -746,11 +746,11 @@
 [^10-20]: Literally "Israel according to the flesh", that is, the people of Israel by descent.
 [^10-21]: The SBLGNT here follows NA28; other editions read "what the Gentiles sacrifice".
 [^10-22]: The words echo Deuteronomy 32:17, "They sacrificed to demons that were not God".
-[^10-23]: Compare Malachi 1:7, 12, where the altar is called "the table of Yahweh".
+[^10-23]: Compare Malachi 1:7, 12, where the altar is called "the table of the LORD".
 [^10-24]: Compare Deuteronomy 32:21.
 [^10-25]: See 6:12, where the saying has "for me". Many manuscripts add "for me" here, in both places.
 [^10-26]: Greek *anakrino*, "examine" (see 2:14); also in verse 27.
-[^10-27]: Psalm 24:1. In the Hebrew, "the Lord" is God's personal name, Yahweh.
+[^10-27]: Psalm 24:1. In the Hebrew, "the Lord" is God's personal name, YHWH ("the LORD").
 [^10-28]: Greek *hierothyton*, "offered in a temple", a more neutral word than the one used in 8:1 and 10:19 (*eidolothyton*, "sacrificed to an idol"). Many manuscripts have *eidolothyton* here.
 [^10-29]: Many manuscripts add "for the earth is the Lord's, and everything in it" (verse 26).
 [^10-30]: The questions in verses 29–30 may be Paul's own, or an objection he imagines someone raising.
@@ -987,7 +987,7 @@
 [^13-10]: Literally "never falls".
 [^13-11]: Greek *katargeo* (see 1:28); also later in this verse and in verses 10 and 11 ("put an end to").
 [^13-12]: Greek *teleion*, "complete, perfect, mature" (compare 2:6). What it refers to is debated. Most interpreters think of the end of the age, when believers will see "face to face" (verse 12); others think of a mature state of the church, or of the completed scriptures.
-[^13-13]: Literally "through a mirror in a riddle". Mirrors were made of polished metal and gave an imperfect image. Compare Numbers 12:8, where Yahweh speaks with Moses "face to face, plainly and not in riddles".
+[^13-13]: Literally "through a mirror in a riddle". Mirrors were made of polished metal and gave an imperfect image. Compare Numbers 12:8, where the LORD speaks with Moses "face to face, plainly and not in riddles".
 [^13-14]: Literally "the greater".
 
 ## Chapter 14
@@ -1088,7 +1088,7 @@
 [^14-12]: Literally "unfruitful".
 [^14-13]: Greek *idiotes*, an ordinary person without special knowledge or skill; also in verses 23 and 24. Here perhaps someone who is enquiring, or a believer who does not understand tongues.
 [^14-14]: A Hebrew word meaning "it is firm, it is true", said to affirm a prayer.
-[^14-15]: Isaiah 28:11–12, in a form that differs from both the Hebrew and the Septuagint; the words "says the Lord" are not in Isaiah. In Isaiah, Yahweh will speak to his people through the foreign speech of invaders, a people who "would not listen". Here "the Law" means the scriptures as a whole.
+[^14-15]: Isaiah 28:11–12, in a form that differs from both the Hebrew and the Septuagint; the words "says the Lord" are not in Isaiah. In Isaiah, the LORD will speak to his people through the foreign speech of invaders, a people who "would not listen". Here "the Law" means the scriptures as a whole.
 [^14-16]: The sense of "sign" here is debated. In the light of verse 21, tongues may be a sign of judgment on those who do not believe; verses 23–25 describe the effect of each gift on unbelievers.
 [^14-17]: Compare Isaiah 45:14 and Zechariah 8:23.
 [^14-18]: Or "a song of praise".

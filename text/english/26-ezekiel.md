@@ -11,7 +11,7 @@
 
 **2** On the fifth day of the month, in the fifth year of the exile of King Jehoiachin,[^1-3]
 
-**3** the word of Yahweh[^1-4] came to Ezekiel son of Buzi, the priest,[^1-5] in the land of the Chaldeans,[^1-6] by the river Chebar, and the hand of Yahweh came on him there.[^1-7]
+**3** the word of the LORD[^1-4] came to Ezekiel son of Buzi, the priest,[^1-5] in the land of the Chaldeans,[^1-6] by the river Chebar, and the hand of the LORD came on him there.[^1-7]
 
 **4** I looked, and I saw a storm wind coming from the north: a great cloud, with fire flashing,[^1-8] and brightness all around it. In the middle of it, in the middle of the fire, was something like the gleam of amber.[^1-9]
 
@@ -61,15 +61,15 @@
 
 **27** I saw that from what looked like his waist upward he was like the gleam of amber, like the appearance of fire enclosed all around;[^1-30] and from what looked like his waist downward I saw something like the appearance of fire, and there was brightness all around him.
 
-**28** Like the appearance of the rainbow[^1-31] in the clouds on a day of rain, so was the appearance of the brightness all around. This was the appearance of the likeness of the glory of Yahweh.[^1-32] When I saw it, I fell on my face, and I heard the voice of someone speaking.
+**28** Like the appearance of the rainbow[^1-31] in the clouds on a day of rain, so was the appearance of the brightness all around. This was the appearance of the likeness of the glory of the LORD.[^1-32] When I saw it, I fell on my face, and I heard the voice of someone speaking.
 
 [^1-1]: The meaning of "the thirtieth year" is uncertain. It may be Ezekiel's age; priests began their service at thirty (Numbers 4:3).
 [^1-2]: Probably a large canal near the city of Nippur in Babylonia, southeast of Babylon.
 [^1-3]: In the summer of 593 BC (the fourth month, verse 1). King Jehoiachin of Judah had been taken to Babylon in 597 BC (2 Kings 24:8–15).
-[^1-4]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^1-4]: *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles.
 [^1-5]: The Hebrew could also be read as calling Buzi the priest. Verses 2–3 speak of Ezekiel in the third person; the rest of the book is told in the first person.
 [^1-6]: That is, Babylonia. The Chaldeans were the people of southern Mesopotamia who ruled the Babylonian empire.
-[^1-7]: A phrase Ezekiel uses for Yahweh's overpowering grip on him in his visions (3:14, 22; 8:1; 37:1; 40:1).
+[^1-7]: A phrase Ezekiel uses for the LORD's overpowering grip on him in his visions (3:14, 22; 8:1; 37:1; 40:1).
 [^1-8]: Literally "fire taking hold of itself", perhaps fire flashing back and forth (the same phrase is used in Exodus 9:24).
 [^1-9]: Hebrew *chashmal*, a word found only in Ezekiel (here, verse 27 and 8:2), of uncertain meaning. The Septuagint translates it *elektron*, which can mean amber or electrum, a shining alloy of gold and silver. Many translations have "gleaming metal". In modern Hebrew the word means "electricity".
 [^1-10]: Hebrew *chayyot*, "living beings". In chapter 10 Ezekiel sees them again and recognizes them as cherubim (10:15, 20).
@@ -106,7 +106,7 @@
 
 **3** He said to me, "Son of man, I am sending you to the Israelites, to rebellious nations[^2-3] that have rebelled against me. They and their ancestors have revolted against me to this very day.
 
-**4** The children are hard-faced and stubborn-hearted.[^2-4] I am sending you to them, and you are to say to them, 'This is what the Lord Yahweh[^2-5] says.'
+**4** The children are hard-faced and stubborn-hearted.[^2-4] I am sending you to them, and you are to say to them, 'This is what the Lord GOD[^2-5] says.'
 
 **5** And whether they listen or refuse to listen,[^2-6] for they are a rebellious house, they will know that a prophet has been among them.
 
@@ -120,11 +120,11 @@
 
 **10** He spread it out in front of me. It had writing on the front and on the back, and written on it were laments, mourning and woe.
 
-[^2-1]: Hebrew *ben adam*, "son of man": a human being, a mortal. Yahweh addresses Ezekiel this way more than ninety times in the book.
+[^2-1]: Hebrew *ben adam*, "son of man": a human being, a mortal. The LORD addresses Ezekiel this way more than ninety times in the book.
 [^2-2]: Or "a spirit". Hebrew *ruach*, "spirit, wind, breath", here without the article.
 [^2-3]: Hebrew *goyim*, the word usually used for the nations other than Israel.
 [^2-4]: Literally "hard of face and strong of heart".
-[^2-5]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles. *The Lord Yahweh* is Hebrew *Adonai YHWH*, "my Lord Yahweh", traditionally "the Lord GOD". Ezekiel names God this way more than two hundred times.
+[^2-5]: *The Lord GOD*: Hebrew *Adonai YHWH*, "my Lord YHWH". God's personal name, YHWH, is written GOD in capitals after "Lord", and "the LORD" elsewhere, as in most English Bibles. Ezekiel names God this way more than two hundred times.
 [^2-6]: Literally "or hold back". Also in verse 7.
 [^2-7]: Hebrew *sarabim* and *sallonim*, rare words, probably "briers and thorns". Literally "are with you".
 [^2-8]: Literally "by their faces".
@@ -154,17 +154,17 @@
 
 **10** He said to me, "Son of man, take to heart all my words that I speak to you, and listen with your ears.
 
-**11** Go to the exiles, to your own people, and speak to them. Say to them, 'This is what the Lord Yahweh[^3-7] says,' whether they listen or refuse to listen."[^3-8]
+**11** Go to the exiles, to your own people, and speak to them. Say to them, 'This is what the Lord GOD[^3-7] says,' whether they listen or refuse to listen."[^3-8]
 
-**12** Then the Spirit[^3-9] lifted me up, and I heard behind me the sound of a great rumbling:[^3-10] "Blessed be the glory of Yahweh from his place!"[^3-11]
+**12** Then the Spirit[^3-9] lifted me up, and I heard behind me the sound of a great rumbling:[^3-10] "Blessed be the glory of the LORD from his place!"[^3-11]
 
 **13** It was the sound of the wings of the living creatures brushing against one another, and the sound of the wheels beside them, the sound of a great rumbling.
 
-**14** The Spirit lifted me up and took me away, and I went in bitterness, my spirit burning,[^3-12] and the hand of Yahweh was strong on me.
+**14** The Spirit lifted me up and took me away, and I went in bitterness, my spirit burning,[^3-12] and the hand of the LORD was strong on me.
 
 **15** I came to the exiles at Tel-abib,[^3-13] who lived by the river Chebar, and I sat where they were living.[^3-14] I sat there among them for seven days, overwhelmed.[^3-15]
 
-**16** At the end of seven days the word of Yahweh came to me:
+**16** At the end of seven days the word of the LORD came to me:
 
 **17** "Son of man, I have made you a watchman[^3-16] for the house of Israel. Whenever you hear a word from my mouth, you are to warn them from me.
 
@@ -176,9 +176,9 @@
 
 **21** But if you warn the righteous person not to sin, and he does not sin, he will surely live, because he took the warning, and you will have saved your life."
 
-**22** The hand of Yahweh was on me there, and he said to me, "Get up, go out to the plain,[^3-20] and there I will speak with you."
+**22** The hand of the LORD was on me there, and he said to me, "Get up, go out to the plain,[^3-20] and there I will speak with you."
 
-**23** So I got up and went out to the plain, and there was the glory of Yahweh standing there, like the glory I had seen by the river Chebar, and I fell on my face.
+**23** So I got up and went out to the plain, and there was the glory of the LORD standing there, like the glory I had seen by the river Chebar, and I fell on my face.
 
 **24** Then the Spirit came into me and set me on my feet. He spoke with me and said to me, "Go, shut yourself inside your house.
 
@@ -186,7 +186,7 @@
 
 **26** I will make your tongue stick to the roof of your mouth, so that you will be unable to speak and unable to rebuke them,[^3-21] for they are a rebellious house.
 
-**27** But when I speak with you, I will open your mouth, and you are to say to them, 'This is what the Lord Yahweh says.' Whoever will listen, let him listen, and whoever refuses, let him refuse, for they are a rebellious house.
+**27** But when I speak with you, I will open your mouth, and you are to say to them, 'This is what the Lord GOD says.' Whoever will listen, let him listen, and whoever refuses, let him refuse, for they are a rebellious house.
 
 [^3-1]: Hebrew *ben adam*, "son of man": a human being, a mortal.
 [^3-2]: Literally "deep of lip and heavy of tongue". Also in verse 6.
@@ -194,11 +194,11 @@
 [^3-4]: The name Ezekiel, Hebrew *Yechezqel*, means "God makes strong" or "God makes hard". *Hard* in verses 7–9 (*chazaq*) comes from the same root.
 [^3-5]: Hebrew *shamir*, a very hard stone, perhaps emery or diamond (Jeremiah 17:1; Zechariah 7:12).
 [^3-6]: Literally "by their faces".
-[^3-7]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles. *The Lord Yahweh* is Hebrew *Adonai YHWH*, "my Lord Yahweh".
+[^3-7]: *The Lord GOD*: Hebrew *Adonai YHWH*, "my Lord YHWH". God's personal name, YHWH, is written GOD in capitals after "Lord", and "the LORD" elsewhere, as in most English Bibles.
 [^3-8]: Literally "or hold back". Also in verse 27.
 [^3-9]: Or "a spirit" or "a wind". Hebrew *ruach*. Also in verses 14 and 24.
 [^3-10]: Or "a great earthquake". Also in verse 13.
-[^3-11]: Some scholars read *berum*, "as the glory of Yahweh rose from its place", instead of *barukh*, "blessed", with a small change to the Hebrew (compare 10:4, 18–19).
+[^3-11]: Some scholars read *berum*, "as the glory of the LORD rose from its place", instead of *barukh*, "blessed", with a small change to the Hebrew (compare 10:4, 18–19).
 [^3-12]: Literally "bitter, in the heat of my spirit".
 [^3-13]: A settlement of the exiles in Babylonia. The name probably comes from Akkadian *til abubi*, "mound of the flood", that is, an ancient ruin mound. The modern city of Tel Aviv took its name from this verse.
 [^3-14]: The Hebrew text is written "and where they were living" but read "and I sat where they were living".
@@ -238,9 +238,9 @@
 
 **12** You are to eat it as a barley cake, and bake it in their sight over human dung."[^4-10]
 
-**13** Yahweh[^4-11] said, "This is how the Israelites will eat their bread, unclean, among the nations where I will drive them."
+**13** The LORD[^4-11] said, "This is how the Israelites will eat their bread, unclean, among the nations where I will drive them."
 
-**14** Then I said, "Ah, Lord Yahweh![^4-12] I have never made myself unclean.[^4-13] From my youth until now I have never eaten anything that died by itself or was torn by wild animals, and no foul meat[^4-14] has ever come into my mouth."
+**14** Then I said, "Ah, Lord GOD![^4-12] I have never made myself unclean.[^4-13] From my youth until now I have never eaten anything that died by itself or was torn by wild animals, and no foul meat[^4-14] has ever come into my mouth."
 
 **15** He said to me, "See, I will let you have cow dung instead of human dung. You may make your bread over it."
 
@@ -248,7 +248,7 @@
 
 **17** so that they will lack bread and water, and they will look at one another in dismay,[^4-16] and waste away in their guilt.
 
-[^4-1]: Hebrew *ben adam*, "son of man": a human being, a mortal. Yahweh's speech, which began in 3:24, continues to the end of chapter 5.
+[^4-1]: Hebrew *ben adam*, "son of man": a human being, a mortal. The LORD's speech, which began in 3:24, continues to the end of chapter 5.
 [^4-2]: Hebrew *levenah*, a brick of sun-dried clay. In Babylonia clay was also used as a surface for writing and drawing.
 [^4-3]: Hebrew *machavat*, a flat plate for baking (Leviticus 2:5).
 [^4-4]: Hebrew *avon*, which means both wrongdoing and the punishment it brings. Also in verses 5–6 and 17.
@@ -258,8 +258,8 @@
 [^4-8]: Literally "from time to time". Also in verse 11.
 [^4-9]: A hin was about a gallon (4 liters), so a sixth of a hin was about 1⅓ pints (0.6 liter).
 [^4-10]: Literally "with dung of human excrement". Dried dung was commonly burned as fuel (verse 15).
-[^4-11]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
-[^4-12]: Hebrew *Adonai YHWH*, "my Lord Yahweh".
+[^4-11]: *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles.
+[^4-12]: Hebrew *Adonai YHWH*, "my Lord YHWH". After "Lord", God's personal name is written GOD in capitals, as in most English Bibles.
 [^4-13]: Literally "Look, my *nephesh* has not been made unclean".
 [^4-14]: Hebrew *piggul*, "foul, rotten": meat that has become unfit to eat (Leviticus 7:18). The law forbade priests to eat an animal that had died by itself or been torn by wild animals (Leviticus 22:8).
 [^4-15]: Literally "break the staff of bread", as in Leviticus 26:26.
@@ -277,40 +277,40 @@
 
 **4** Take some of these again, throw them into the fire, and burn them in the fire. From there a fire will spread to the whole house of Israel.
 
-**5** This is what the Lord Yahweh[^5-3] says: This is Jerusalem. I set her in the middle of the nations, with countries all around her.
+**5** This is what the Lord GOD[^5-3] says: This is Jerusalem. I set her in the middle of the nations, with countries all around her.
 
 **6** But she has rebelled against my rulings more wickedly than the nations, and against my decrees more than the countries around her. For they have rejected my rulings and have not walked in my decrees.
 
-**7** Therefore this is what the Lord Yahweh says: Because you have been more unruly[^5-4] than the nations around you, and have not walked in my decrees or kept my rulings, and have not even acted according to the rulings of the nations around you,[^5-5]
+**7** Therefore this is what the Lord GOD says: Because you have been more unruly[^5-4] than the nations around you, and have not walked in my decrees or kept my rulings, and have not even acted according to the rulings of the nations around you,[^5-5]
 
-**8** therefore this is what the Lord Yahweh says: Look, I, even I, am against you.[^5-6] I will carry out judgments in your midst in the sight of the nations.
+**8** therefore this is what the Lord GOD says: Look, I, even I, am against you.[^5-6] I will carry out judgments in your midst in the sight of the nations.
 
 **9** Because of all your detestable practices,[^5-7] I will do to you what I have never done before, and the like of which I will never do again.
 
 **10** Therefore fathers will eat their children in your midst, and children will eat their fathers. I will carry out judgments on you, and I will scatter all who are left of you to every wind.
 
-**11** Therefore, as I live, declares the Lord Yahweh,[^5-8] because you have defiled my sanctuary with all your vile idols[^5-9] and with all your detestable practices, I too will cut you down.[^5-10] My eye will not pity, and I will not spare.
+**11** Therefore, as I live, declares the Lord GOD,[^5-8] because you have defiled my sanctuary with all your vile idols[^5-9] and with all your detestable practices, I too will cut you down.[^5-10] My eye will not pity, and I will not spare.
 
 **12** A third of you will die of plague and perish by famine in your midst; a third will fall by the sword all around you; and a third I will scatter to every wind, and I will draw a sword after them.
 
-**13** Then my anger will be spent, and I will satisfy my fury on them,[^5-11] and I will be appeased.[^5-12] Then they will know that I, Yahweh, have spoken in my jealousy,[^5-13] when I have spent my fury on them.
+**13** Then my anger will be spent, and I will satisfy my fury on them,[^5-11] and I will be appeased.[^5-12] Then they will know that I, the LORD, have spoken in my jealousy,[^5-13] when I have spent my fury on them.
 
 **14** I will make you a ruin and a disgrace among the nations around you, in the sight of everyone who passes by.
 
-**15** You will be[^5-14] a disgrace and a taunt, a warning and a horror to the nations around you, when I carry out judgments on you in anger and in fury and with furious punishments.[^5-15] I, Yahweh, have spoken.
+**15** You will be[^5-14] a disgrace and a taunt, a warning and a horror to the nations around you, when I carry out judgments on you in anger and in fury and with furious punishments.[^5-15] I, the LORD, have spoken.
 
 **16** When I send against them the deadly arrows of famine, arrows for destruction, which I will send to destroy you, I will bring more and more famine on you, and I will cut off your supply of bread.[^5-16]
 
-**17** I will send famine and wild animals against you, and they will leave you childless. Plague and bloodshed will sweep through you, and I will bring the sword against you. I, Yahweh, have spoken."
+**17** I will send famine and wild animals against you, and they will leave you childless. Plague and bloodshed will sweep through you, and I will bring the sword against you. I, the LORD, have spoken."
 
 [^5-1]: Hebrew *ben adam*, "son of man": a human being, a mortal.
 [^5-2]: Literally "in your wings", the corners or edges of a garment.
-[^5-3]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles. *The Lord Yahweh* is Hebrew *Adonai YHWH*, "my Lord Yahweh".
+[^5-3]: *The Lord GOD*: Hebrew *Adonai YHWH*, "my Lord YHWH". God's personal name, YHWH, is written GOD in capitals after "Lord", and "the LORD" elsewhere, as in most English Bibles.
 [^5-4]: The meaning of the Hebrew word, *hamonkhem*, is uncertain. It may come from *hamah*, "be in turmoil".
 [^5-5]: Compare 11:12, where they are said to have acted according to the rulings of the nations around them.
 [^5-6]: *You* is feminine singular: Jerusalem is addressed. Also in verses 9–17.
 [^5-7]: Hebrew *to'evot*, things that are abhorrent, especially in worship. Ezekiel uses the word more than forty times.
-[^5-8]: Hebrew *ne'um Adonai YHWH*, "the declaration of the Lord Yahweh", a formula that marks a prophet's words as Yahweh's own solemn statement.
+[^5-8]: Hebrew *ne'um Adonai YHWH*, "the declaration of the Lord GOD", a formula that marks a prophet's words as the LORD's own solemn statement.
 [^5-9]: Hebrew *shiqqutsim*, "detestable things", a contemptuous word for idols.
 [^5-10]: Literally "I will diminish" or "I will clip"; the object is not stated, and the meaning is uncertain. The verb is used for a shaved beard in Jeremiah 48:37, which fits the sign of verses 1–4. Others translate "I will withdraw".
 [^5-11]: Literally "make my fury rest on them". Also in 16:42; 21:22 (21:17 in most English Bibles); 24:13.
@@ -324,11 +324,11 @@
 
 *Status: draft*
 
-**1** The word of Yahweh[^6-1] came to me:
+**1** The word of the LORD[^6-1] came to me:
 
 **2** Son of man,[^6-2] set your face toward the mountains of Israel and prophesy against them.
 
-**3** Say: Mountains of Israel, hear the word of the Lord Yahweh.[^6-3] This is what the Lord Yahweh says to the mountains and the hills, to the ravines and the valleys: Look, I myself am bringing a sword against you, and I will destroy your high places.[^6-4]
+**3** Say: Mountains of Israel, hear the word of the Lord GOD.[^6-3] This is what the Lord GOD says to the mountains and the hills, to the ravines and the valleys: Look, I myself am bringing a sword against you, and I will destroy your high places.[^6-4]
 
 **4** Your altars will be made desolate, and your incense altars[^6-5] will be smashed. I will make your slain fall in front of your idols.[^6-6]
 
@@ -336,51 +336,51 @@
 
 **6** Wherever you live, the cities will be laid waste and the high places made desolate, so that your altars will be laid waste and held guilty,[^6-7] your idols smashed and brought to an end, your incense altars cut down, and your works wiped out.
 
-**7** The slain will fall among you, and you will know that I am Yahweh.[^6-8]
+**7** The slain will fall among you, and you will know that I am the LORD.[^6-8]
 
 **8** But I will leave some of you alive: some of you will escape the sword among the nations, when you are scattered through the countries.
 
 **9** Then those of you who escape will remember me among the nations where they have been taken captive, how I was broken[^6-9] by their heart, which played the prostitute[^6-10] and turned away from me, and by their eyes, which played the prostitute after their idols. They will loathe themselves[^6-11] for the evil they have done, for all their detestable practices.[^6-12]
 
-**10** And they will know that I am Yahweh. It was not for nothing that I said I would bring this disaster on them.
+**10** And they will know that I am the LORD. It was not for nothing that I said I would bring this disaster on them.
 
-**11** This is what the Lord Yahweh says: Clap your hands and stamp your feet, and say "Alas!" over all the evil, detestable practices of the house of Israel, for they will fall by the sword, by famine and by plague.
+**11** This is what the Lord GOD says: Clap your hands and stamp your feet, and say "Alas!" over all the evil, detestable practices of the house of Israel, for they will fall by the sword, by famine and by plague.
 
 **12** Whoever is far away will die of plague, whoever is near will fall by the sword, and whoever is left and spared[^6-13] will die of famine. So I will spend my fury on them.
 
-**13** And you will know that I am Yahweh, when their slain lie among their idols around their altars, on every high hill, on all the mountaintops, under every green tree and under every leafy oak, the places where they offered a pleasing aroma[^6-14] to all their idols.
+**13** And you will know that I am the LORD, when their slain lie among their idols around their altars, on every high hill, on all the mountaintops, under every green tree and under every leafy oak, the places where they offered a pleasing aroma[^6-14] to all their idols.
 
-**14** I will stretch out my hand against them and make the land a desolate waste, from the wilderness to Diblah,[^6-15] wherever they live. Then they will know that I am Yahweh.
+**14** I will stretch out my hand against them and make the land a desolate waste, from the wilderness to Diblah,[^6-15] wherever they live. Then they will know that I am the LORD.
 
-[^6-1]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^6-1]: *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles.
 [^6-2]: Hebrew *ben adam*, "son of man": a human being, a mortal.
-[^6-3]: Hebrew *Adonai YHWH*, "my Lord Yahweh".
+[^6-3]: Hebrew *Adonai YHWH*, "my Lord YHWH". After "Lord", God's personal name is written GOD in capitals, as in most English Bibles.
 [^6-4]: Hebrew *bamot*: places of worship, often on hilltops.
 [^6-5]: Hebrew *chammanim*, probably small altars for burning incense. Also in verse 6.
 [^6-6]: Hebrew *gillulim*, a contemptuous word for idols, perhaps related to the word for dung. Also in verses 5–6, 9 and 13.
 [^6-7]: Or "made desolate". The Hebrew form usually means "be held guilty".
-[^6-8]: A formula that recurs throughout Ezekiel: what Yahweh does, in judgment and in rescue, will make people recognize who he is.
+[^6-8]: A formula that recurs throughout Ezekiel: what the LORD does, in judgment and in rescue, will make people recognize who he is.
 [^6-9]: Literally "I was broken". Some scholars read *shavarti*, "I broke (their heart)", with a small change to the Hebrew.
-[^6-10]: Hebrew *zanah*, "act as a prostitute", a common image for unfaithfulness to Yahweh (chapters 16 and 23).
+[^6-10]: Hebrew *zanah*, "act as a prostitute", a common image for unfaithfulness to the LORD (chapters 16 and 23).
 [^6-11]: Literally "loathe their faces".
 [^6-12]: Hebrew *to'evot*, things that are abhorrent, especially in worship. Also in verse 11.
 [^6-13]: Or "besieged". Hebrew *natsur*, "kept, guarded".
-[^6-14]: Literally "a soothing smell", the phrase used for offerings to Yahweh (Leviticus 1:9).
+[^6-14]: Literally "a soothing smell", the phrase used for offerings to the LORD (Leviticus 1:9).
 [^6-15]: Or "more desolate than the wilderness toward Diblah". Diblah is otherwise unknown. Some Hebrew manuscripts read "Riblah", which differs by one similar letter: a town in Syria, north of the land of Israel (2 Kings 25:6, 20–21).
 
 ## Chapter 7
 
 *Status: draft*
 
-**1** The word of Yahweh[^7-1] came to me:
+**1** The word of the LORD[^7-1] came to me:
 
-**2** And you, son of man,[^7-2] this is what the Lord Yahweh[^7-3] says to the land of Israel: An end! The end has come on the four corners of the land.
+**2** And you, son of man,[^7-2] this is what the Lord GOD[^7-3] says to the land of Israel: An end! The end has come on the four corners of the land.
 
 **3** Now the end is on you.[^7-4] I will let loose my anger against you; I will judge you according to your ways, and I will bring on you the penalty for all your detestable practices.[^7-5]
 
-**4** My eye will not pity you, and I will not spare. I will bring your ways down on you, and your detestable practices will be in your midst. Then you will know that I am Yahweh.
+**4** My eye will not pity you, and I will not spare. I will bring your ways down on you, and your detestable practices will be in your midst. Then you will know that I am the LORD.
 
-**5** This is what the Lord Yahweh says: Disaster! A disaster like no other![^7-6] Look, it is coming!
+**5** This is what the Lord GOD says: Disaster! A disaster like no other![^7-6] Look, it is coming!
 
 **6** An end has come! The end has come! It has awakened against you.[^7-7] Look, it is coming!
 
@@ -388,7 +388,7 @@
 
 **8** Now, very soon, I will pour out my fury on you and spend my anger against you. I will judge you according to your ways, and I will bring on you the penalty for all your detestable practices.
 
-**9** My eye will not pity, and I will not spare. I will repay you according to your ways, and your detestable practices will be in your midst. Then you will know that I, Yahweh, am the one who strikes.
+**9** My eye will not pity, and I will not spare. I will repay you according to your ways, and your detestable practices will be in your midst. Then you will know that I, the LORD, am the one who strikes.
 
 **10** Look, the day! Look, it is coming! Doom has gone out. The rod has blossomed;[^7-10] arrogance has budded.
 
@@ -408,7 +408,7 @@
 
 **18** They will put on sackcloth, and horror will cover them. Shame will be on every face, and every head will be shaved bald.
 
-**19** They will throw their silver into the streets, and their gold will be like something unclean.[^7-16] Their silver and their gold will not be able to save them on the day of Yahweh's wrath. They will not satisfy their hunger[^7-17] or fill their stomachs with it, for it made them stumble into guilt.[^7-18]
+**19** They will throw their silver into the streets, and their gold will be like something unclean.[^7-16] Their silver and their gold will not be able to save them on the day of the LORD's wrath. They will not satisfy their hunger[^7-17] or fill their stomachs with it, for it made them stumble into guilt.[^7-18]
 
 **20** Their beautiful jewelry they turned into a source of pride,[^7-19] and with it they made their detestable images, their vile idols.[^7-20] Therefore I will make it something unclean for them.
 
@@ -424,11 +424,11 @@
 
 **26** Disaster will come on disaster, and rumor will follow rumor. They will seek a vision from a prophet, but instruction will perish from the priest, and counsel from the elders.
 
-**27** The king will mourn, the prince[^7-24] will be clothed with despair, and the hands of the people of the land[^7-25] will tremble. I will deal with them according to their ways, and by their own standards[^7-26] I will judge them. Then they will know that I am Yahweh.
+**27** The king will mourn, the prince[^7-24] will be clothed with despair, and the hands of the people of the land[^7-25] will tremble. I will deal with them according to their ways, and by their own standards[^7-26] I will judge them. Then they will know that I am the LORD.
 
-[^7-1]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^7-1]: *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles.
 [^7-2]: Hebrew *ben adam*, "son of man": a human being, a mortal.
-[^7-3]: Hebrew *Adonai YHWH*, "my Lord Yahweh".
+[^7-3]: Hebrew *Adonai YHWH*, "my Lord YHWH". After "Lord", God's personal name is written GOD in capitals, as in most English Bibles.
 [^7-4]: *You* is feminine singular, the land of Israel, in verses 3–9. The Septuagint has a shorter form of verses 3–11, in a different order.
 [^7-5]: Literally "I will put on you all your detestable practices". Also in verse 8. Hebrew *to'evot*, things that are abhorrent, especially in worship.
 [^7-6]: Literally "one disaster", that is, a unique disaster. Some Hebrew manuscripts read "Disaster after disaster!"
@@ -444,7 +444,7 @@
 [^7-16]: Hebrew *niddah*, the impurity of menstruation (Leviticus 15:19–24), used for anything abhorrent. Also in verse 20.
 [^7-17]: Literally "satisfy their *nephesh*".
 [^7-18]: Literally "it was the stumbling block of their guilt". See 3:20.
-[^7-19]: Literally "the beauty of his ornament he set for pride". Some take "his ornament" to be the temple, Yahweh's beautiful ornament.
+[^7-19]: Literally "the beauty of his ornament he set for pride". Some take "his ornament" to be the temple, the LORD's beautiful ornament.
 [^7-20]: Hebrew *shiqqutsim*, "detestable things", a contemptuous word for idols.
 [^7-21]: Literally "my hidden one", probably the temple.
 [^7-22]: Hebrew *rattoq*, found only here, probably a chain for leading captives away. The meaning is uncertain.
@@ -457,7 +457,7 @@
 
 *Status: draft*
 
-**1** In the sixth year, in the sixth month, on the fifth day of the month,[^8-1] as I was sitting in my house, with the elders of Judah sitting in front of me, the hand of the Lord Yahweh[^8-2] fell on me there.
+**1** In the sixth year, in the sixth month, on the fifth day of the month,[^8-1] as I was sitting in my house, with the elders of Judah sitting in front of me, the hand of the Lord GOD[^8-2] fell on me there.
 
 **2** I looked, and I saw a likeness with the appearance of fire.[^8-3] From what looked like his waist downward was fire, and from his waist upward was something like the appearance of brightness, like the gleam of amber.[^8-4]
 
@@ -479,26 +479,26 @@
 
 **11** Seventy of the elders of the house of Israel were standing in front of them, with Jaazaniah son of Shaphan[^8-12] standing among them. Each had his censer in his hand, and a fragrant cloud of incense was rising.
 
-**12** He said to me, "Son of man, have you seen what the elders of the house of Israel are doing in the dark, each in the room of his carved images?[^8-13] For they say, 'Yahweh does not see us. Yahweh has abandoned the land.'"
+**12** He said to me, "Son of man, have you seen what the elders of the house of Israel are doing in the dark, each in the room of his carved images?[^8-13] For they say, 'The LORD does not see us. The LORD has abandoned the land.'"
 
 **13** He said to me, "You will see yet more great detestable practices that they are committing."
 
-**14** Then he brought me to the entrance of the north gate of the house of Yahweh, and there were the women, sitting and weeping for Tammuz.[^8-14]
+**14** Then he brought me to the entrance of the north gate of the house of the LORD, and there were the women, sitting and weeping for Tammuz.[^8-14]
 
 **15** He said to me, "Have you seen this, son of man? You will see still greater detestable practices than these."
 
-**16** Then he brought me into the inner court of the house of Yahweh, and there at the entrance of the temple of Yahweh,[^8-15] between the porch and the altar, were about twenty-five men, with their backs to the temple of Yahweh and their faces toward the east, bowing down to the sun in the east.[^8-16]
+**16** Then he brought me into the inner court of the house of the LORD, and there at the entrance of the temple of the LORD,[^8-15] between the porch and the altar, were about twenty-five men, with their backs to the temple of the LORD and their faces toward the east, bowing down to the sun in the east.[^8-16]
 
 **17** He said to me, "Have you seen this, son of man? Is it a trivial thing for the house of Judah to commit the detestable practices they have committed here, that they must also fill the land with violence and provoke me to anger again and again? Look, they are putting the branch to their nose![^8-17]
 
 **18** Therefore I too will act in fury. My eye will not pity, and I will not spare. Though they cry in my ears with a loud voice, I will not listen to them."
 
 [^8-1]: In 592 BC, fourteen months after the vision of chapter 1 (1:1–2).
-[^8-2]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles. *The Lord Yahweh* is Hebrew *Adonai YHWH*, "my Lord Yahweh".
+[^8-2]: *The Lord GOD*: Hebrew *Adonai YHWH*, "my Lord YHWH". God's personal name, YHWH, is written GOD in capitals after "Lord", and "the LORD" elsewhere, as in most English Bibles.
 [^8-3]: The Septuagint reads "the likeness of a man" (Hebrew *ish*, "man", for *esh*, "fire"), as in 1:26–27.
 [^8-4]: Hebrew *chashmal*. See 1:4.
 [^8-5]: Or "a spirit" or "a wind". Hebrew *ruach*.
-[^8-6]: Literally "where the seat of the image of jealousy that makes jealous was". Hebrew *semel*, "image, statue", as in Deuteronomy 4:16 and 2 Chronicles 33:7, 15, where King Manasseh sets up an image in the temple. *Jealousy*, Hebrew *qin'ah*, is the zeal with which Yahweh guards his people's loyalty (Exodus 20:5).
+[^8-6]: Literally "where the seat of the image of jealousy that makes jealous was". Hebrew *semel*, "image, statue", as in Deuteronomy 4:16 and 2 Chronicles 33:7, 15, where King Manasseh sets up an image in the temple. *Jealousy*, Hebrew *qin'ah*, is the zeal with which the LORD guards his people's loyalty (Exodus 20:5).
 [^8-7]: Hebrew *ben adam*, "son of man": a human being, a mortal.
 [^8-8]: Hebrew *to'evot*, things that are abhorrent, especially in worship. Also in verses 9, 13, 15 and 17.
 [^8-9]: Or "so that they are far from my sanctuary".
@@ -521,7 +521,7 @@
 
 **3** Now the glory of the God of Israel had gone up from the cherub[^9-3] on which it had been, to the threshold of the house. He called to the man clothed in linen, who had the writing case at his waist.
 
-**4** Yahweh[^9-4] said to him, "Go through the city, through Jerusalem, and put a mark[^9-5] on the foreheads of the people who sigh and groan over all the detestable practices[^9-6] that are committed in it."
+**4** The LORD[^9-4] said to him, "Go through the city, through Jerusalem, and put a mark[^9-5] on the foreheads of the people who sigh and groan over all the detestable practices[^9-6] that are committed in it."
 
 **5** To the others he said in my hearing, "Go through the city after him and strike. Do not let your eye pity,[^9-7] and do not spare.
 
@@ -529,9 +529,9 @@
 
 **7** He said to them, "Defile the house, and fill the courts with the slain. Go!" So they went out and struck down people in the city.
 
-**8** While they were striking them down, and I was left alone, I fell on my face and cried out, "Ah, Lord Yahweh![^9-9] Will you destroy all the remnant of Israel when you pour out your fury on Jerusalem?"
+**8** While they were striking them down, and I was left alone, I fell on my face and cried out, "Ah, Lord GOD![^9-9] Will you destroy all the remnant of Israel when you pour out your fury on Jerusalem?"
 
-**9** He said to me, "The guilt of the house of Israel and Judah is very, very great. The land is full of bloodshed, and the city is full of injustice.[^9-10] For they say, 'Yahweh has abandoned the land, and Yahweh does not see.'
+**9** He said to me, "The guilt of the house of Israel and Judah is very, very great. The land is full of bloodshed, and the city is full of injustice.[^9-10] For they say, 'The LORD has abandoned the land, and the LORD does not see.'
 
 **10** As for me, my eye will not pity, and I will not spare. I will bring their ways down on their heads."
 
@@ -540,12 +540,12 @@
 [^9-1]: Or "you executioners of the city". Hebrew *pequddot*, "punishments", or "those appointed".
 [^9-2]: Literally "the scribe's case", holding pens and ink. Also in verses 3 and 11.
 [^9-3]: Hebrew *keruv* (plural *keruvim*, "cherubim"): a winged heavenly being who guards holy places (Genesis 3:24). Two gold cherubim spread their wings over the ark in the most holy place (1 Kings 6:23–28; 8:6–7).
-[^9-4]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^9-4]: *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles.
 [^9-5]: Hebrew *tav*, the name of the last letter of the Hebrew alphabet, which in the old script was written like an X or a cross. Also in verse 6.
 [^9-6]: Hebrew *to'evot*, things that are abhorrent, especially in worship.
 [^9-7]: The Hebrew text is written "your eyes" but read "your eye".
 [^9-8]: Literally "the men, the elders".
-[^9-9]: Hebrew *Adonai YHWH*, "my Lord Yahweh".
+[^9-9]: Hebrew *Adonai YHWH*, "my Lord YHWH". After "Lord", God's personal name is written GOD in capitals, as in most English Bibles.
 [^9-10]: Hebrew *mutteh*, "what is bent, perverted", found only here (compare 7:10).
 [^9-11]: The Hebrew text is written "as you commanded me" but read "according to all that you commanded me".
 
@@ -559,7 +559,7 @@
 
 **3** Now the cherubim were standing on the south side[^10-5] of the house when the man went in, and the cloud filled the inner court.
 
-**4** Then the glory of Yahweh[^10-6] rose from the cherub to the threshold of the house. The house was filled with the cloud, and the court was full of the brightness of the glory of Yahweh.
+**4** Then the glory of the LORD[^10-6] rose from the cherub to the threshold of the house. The house was filled with the cloud, and the court was full of the brightness of the glory of the LORD.
 
 **5** The sound of the wings of the cherubim could be heard as far as the outer court, like the voice of God Almighty[^10-7] when he speaks.
 
@@ -587,9 +587,9 @@
 
 **17** When the cherubim stood still, the wheels stood still, and when they rose, the wheels rose with them, for the spirit of the living creatures[^10-14] was in them.
 
-**18** Then the glory of Yahweh went out from over the threshold of the house and stood over the cherubim.
+**18** Then the glory of the LORD went out from over the threshold of the house and stood over the cherubim.
 
-**19** The cherubim lifted their wings and rose from the ground before my eyes as they went out, with the wheels beside them. They stopped at the entrance of the east gate of the house of Yahweh, and the glory of the God of Israel was over them above.
+**19** The cherubim lifted their wings and rose from the ground before my eyes as they went out, with the wheels beside them. They stopped at the entrance of the east gate of the house of the LORD, and the glory of the God of Israel was over them above.
 
 **20** These were the living creatures that I had seen beneath the God of Israel by the river Chebar, and I knew that they were cherubim.
 
@@ -602,7 +602,7 @@
 [^10-3]: Hebrew *sappir*, traditionally "sapphire". See 1:26.
 [^10-4]: Hebrew *galgal*, "wheel, whirl", a different word from *ofan*, "wheel", in verses 6 and 9–19. Also in verses 6 and 13.
 [^10-5]: Literally "on the right".
-[^10-6]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^10-6]: *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles.
 [^10-7]: Hebrew *El Shaddai*, traditionally "God Almighty"; the meaning of *Shaddai* is uncertain.
 [^10-8]: Hebrew *ofan*, the word used for the wheels in chapter 1.
 [^10-9]: Literally "one wheel beside one cherub, and one wheel beside one cherub".
@@ -617,7 +617,7 @@
 
 *Status: draft*
 
-**1** Then the Spirit[^11-1] lifted me up and brought me to the east gate of the house of Yahweh,[^11-2] the gate that faces east. There at the entrance of the gate were twenty-five men, and I saw among them Jaazaniah son of Azzur and Pelatiah son of Benaiah, leaders of the people.
+**1** Then the Spirit[^11-1] lifted me up and brought me to the east gate of the house of the LORD,[^11-2] the gate that faces east. There at the entrance of the gate were twenty-five men, and I saw among them Jaazaniah son of Azzur and Pelatiah son of Benaiah, leaders of the people.
 
 **2** He said to me, "Son of man,[^11-3] these are the men who are planning wickedness and giving evil advice in this city.
 
@@ -625,31 +625,31 @@
 
 **4** Therefore prophesy against them; prophesy, son of man."
 
-**5** Then the Spirit of Yahweh fell on me, and he said to me, "Say: This is what Yahweh says: That is what you have said, house of Israel, but I know the things that come into your mind.[^11-6]
+**5** Then the Spirit of the LORD fell on me, and he said to me, "Say: This is what the LORD says: That is what you have said, house of Israel, but I know the things that come into your mind.[^11-6]
 
 **6** You have killed many people in this city and filled its streets with the slain.
 
-**7** Therefore this is what the Lord Yahweh[^11-7] says: The slain whom you have laid in the middle of it, they are the meat, and this city is the pot. But you I will bring out of it.[^11-8]
+**7** Therefore this is what the Lord GOD[^11-7] says: The slain whom you have laid in the middle of it, they are the meat, and this city is the pot. But you I will bring out of it.[^11-8]
 
-**8** You have feared the sword, and the sword is what I will bring on you, declares the Lord Yahweh.
+**8** You have feared the sword, and the sword is what I will bring on you, declares the Lord GOD.
 
 **9** I will bring you out of the middle of it and hand you over to foreigners, and I will carry out judgments on you.
 
-**10** You will fall by the sword; I will judge you at the border of Israel.[^11-9] Then you will know that I am Yahweh.
+**10** You will fall by the sword; I will judge you at the border of Israel.[^11-9] Then you will know that I am the LORD.
 
 **11** This city will not be your pot, and you will not be the meat in it. I will judge you at the border of Israel.
 
-**12** Then you will know that I am Yahweh, whose decrees you have not walked in and whose rulings you have not kept, but you have acted according to the rulings of the nations around you."
+**12** Then you will know that I am the LORD, whose decrees you have not walked in and whose rulings you have not kept, but you have acted according to the rulings of the nations around you."
 
-**13** While I was prophesying, Pelatiah son of Benaiah died. Then I fell on my face and cried out with a loud voice, "Ah, Lord Yahweh! Will you make a complete end of the remnant of Israel?"
+**13** While I was prophesying, Pelatiah son of Benaiah died. Then I fell on my face and cried out with a loud voice, "Ah, Lord GOD! Will you make a complete end of the remnant of Israel?"
 
-**14** The word of Yahweh came to me:
+**14** The word of the LORD came to me:
 
-**15** "Son of man, your brothers, your own brothers, your relatives who have the right to redeem you,[^11-10] and the whole house of Israel, all of them, are those of whom the people living in Jerusalem have said, 'Keep far away from Yahweh.[^11-11] This land was given to us as a possession.'
+**15** "Son of man, your brothers, your own brothers, your relatives who have the right to redeem you,[^11-10] and the whole house of Israel, all of them, are those of whom the people living in Jerusalem have said, 'Keep far away from the LORD.[^11-11] This land was given to us as a possession.'
 
-**16** Therefore say: This is what the Lord Yahweh says: Though I have sent them far away among the nations, and though I have scattered them among the countries, yet I have been a sanctuary for them for a little while[^11-12] in the countries where they have gone.
+**16** Therefore say: This is what the Lord GOD says: Though I have sent them far away among the nations, and though I have scattered them among the countries, yet I have been a sanctuary for them for a little while[^11-12] in the countries where they have gone.
 
-**17** Therefore say: This is what the Lord Yahweh says: I will gather you from the peoples and assemble you from the countries where you have been scattered, and I will give you the land of Israel.
+**17** Therefore say: This is what the Lord GOD says: I will gather you from the peoples and assemble you from the countries where you have been scattered, and I will give you the land of Israel.
 
 **18** They will come there and remove from it all its vile idols[^11-13] and all its detestable practices.[^11-14]
 
@@ -657,27 +657,27 @@
 
 **20** so that they will walk in my decrees and keep my rulings and do them. Then they will be my people, and I will be their God.
 
-**21** But as for those whose heart goes after their vile idols and their detestable practices,[^11-17] I will bring their ways down on their heads, declares the Lord Yahweh."
+**21** But as for those whose heart goes after their vile idols and their detestable practices,[^11-17] I will bring their ways down on their heads, declares the Lord GOD."
 
 **22** Then the cherubim lifted their wings, with the wheels beside them, and the glory of the God of Israel was over them above.
 
-**23** The glory of Yahweh went up from the middle of the city and stood on the mountain east of the city.[^11-18]
+**23** The glory of the LORD went up from the middle of the city and stood on the mountain east of the city.[^11-18]
 
 **24** The Spirit lifted me up and brought me to the exiles in Chaldea,[^11-19] in the vision, by the Spirit of God. Then the vision that I had seen left me.[^11-20]
 
-**25** And I told the exiles all the things that Yahweh had shown me.
+**25** And I told the exiles all the things that the LORD had shown me.
 
 [^11-1]: Or "a spirit" or "a wind". Hebrew *ruach*. Also in verse 24.
-[^11-2]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^11-2]: *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles.
 [^11-3]: Hebrew *ben adam*, "son of man": a human being, a mortal.
 [^11-4]: Or "Is it not the right time to build houses?" The meaning is uncertain. Literally "Not near the building of houses".
 [^11-5]: They mean that they are safe in the city, like meat in a pot that protects it from the fire, or that they are the choice portion.
 [^11-6]: Literally "what goes up in your spirit".
-[^11-7]: Hebrew *Adonai YHWH*, "my Lord Yahweh".
+[^11-7]: Hebrew *Adonai YHWH*, "my Lord YHWH". After "Lord", God's personal name is written GOD in capitals, as in most English Bibles.
 [^11-8]: Hebrew *hotsi*, "bring out", in a form that does not state the subject. Verse 9 has "I will bring you out".
 [^11-9]: When Jerusalem fell, the leading officials of Judah were taken to the king of Babylon at Riblah, in the far north, and put to death there (2 Kings 25:18–21).
 [^11-10]: Literally "the men of your redemption": the relatives who had the duty to buy back a family member's land, or the family member himself, if he was forced to sell (Leviticus 25:25, 47–49; Jeremiah 32:6–8).
-[^11-11]: The same consonants can be read "They are far away from Yahweh".
+[^11-11]: The same consonants can be read "They are far away from the LORD".
 [^11-12]: Or "a sanctuary in small measure". Hebrew *me'at*, "a little".
 [^11-13]: Hebrew *shiqqutsim*, "detestable things", a contemptuous word for idols. Also in verse 21.
 [^11-14]: Hebrew *to'evot*, things that are abhorrent, especially in worship. Also in verse 21.
@@ -692,7 +692,7 @@
 
 *Status: draft*
 
-**1** The word of Yahweh[^12-1] came to me:
+**1** The word of the LORD[^12-1] came to me:
 
 **2** Son of man,[^12-2] you are living in the middle of a rebellious house. They have eyes to see but do not see, and ears to hear but do not hear, for they are a rebellious house.
 
@@ -706,11 +706,11 @@
 
 **7** So I did as I was commanded. I brought out my belongings by day, like belongings for exile, and in the evening I dug through the wall with my hand. I took them out in the dark, carrying them on my shoulder in their sight.
 
-**8** In the morning the word of Yahweh came to me:
+**8** In the morning the word of the LORD came to me:
 
 **9** Son of man, has not the house of Israel, that rebellious house, said to you, "What are you doing?"
 
-**10** Say to them: This is what the Lord Yahweh[^12-6] says: This oracle concerns the prince in Jerusalem[^12-7] and the whole house of Israel who are there.[^12-8]
+**10** Say to them: This is what the Lord GOD[^12-6] says: This oracle concerns the prince in Jerusalem[^12-7] and the whole house of Israel who are there.[^12-8]
 
 **11** Say: I am a sign for you. As I have done, so it will be done to them. They will go into exile, into captivity.
 
@@ -720,40 +720,40 @@
 
 **14** I will scatter to every wind all those around him, his helpers and all his troops,[^12-11] and I will draw a sword after them.
 
-**15** Then they will know that I am Yahweh, when I disperse them among the nations and scatter them through the countries.
+**15** Then they will know that I am the LORD, when I disperse them among the nations and scatter them through the countries.
 
-**16** But I will let a few of them[^12-12] escape the sword, famine and plague, so that they may tell about all their detestable practices[^12-13] among the nations where they go. Then they will know that I am Yahweh.
+**16** But I will let a few of them[^12-12] escape the sword, famine and plague, so that they may tell about all their detestable practices[^12-13] among the nations where they go. Then they will know that I am the LORD.
 
-**17** The word of Yahweh came to me:
+**17** The word of the LORD came to me:
 
 **18** Son of man, eat your bread with trembling, and drink your water with shuddering and anxiety.
 
-**19** Say to the people of the land: This is what the Lord Yahweh says about those who live in Jerusalem, in the land of Israel: They will eat their bread with anxiety and drink their water in dismay, so that their land will be stripped of everything in it,[^12-14] because of the violence of all who live in it.
+**19** Say to the people of the land: This is what the Lord GOD says about those who live in Jerusalem, in the land of Israel: They will eat their bread with anxiety and drink their water in dismay, so that their land will be stripped of everything in it,[^12-14] because of the violence of all who live in it.
 
-**20** The cities that are now inhabited will be laid waste, and the land will become desolate. Then you will know that I am Yahweh.
+**20** The cities that are now inhabited will be laid waste, and the land will become desolate. Then you will know that I am the LORD.
 
-**21** The word of Yahweh came to me:
+**21** The word of the LORD came to me:
 
 **22** Son of man, what is this proverb[^12-15] you have about the land of Israel: "The days drag on, and every vision comes to nothing"?
 
-**23** Therefore say to them: This is what the Lord Yahweh says: I will put an end to this proverb, and they will no longer use it as a proverb in Israel. Instead say to them: "The days are near, and so is the fulfillment[^12-16] of every vision."
+**23** Therefore say to them: This is what the Lord GOD says: I will put an end to this proverb, and they will no longer use it as a proverb in Israel. Instead say to them: "The days are near, and so is the fulfillment[^12-16] of every vision."
 
 **24** For there will no longer be any false vision or flattering divination[^12-17] within the house of Israel.
 
-**25** For I am Yahweh. I will speak, and the word that I speak will be done. It will no longer be delayed. In your own days, rebellious house, I will speak the word and do it, declares the Lord Yahweh.
+**25** For I am the LORD. I will speak, and the word that I speak will be done. It will no longer be delayed. In your own days, rebellious house, I will speak the word and do it, declares the Lord GOD.
 
-**26** The word of Yahweh came to me:
+**26** The word of the LORD came to me:
 
 **27** Son of man, look, the house of Israel is saying, "The vision that he sees is for many days from now, and he prophesies about times far off."
 
-**28** Therefore say to them: This is what the Lord Yahweh says: None of my words will be delayed any longer. Whatever word I speak will be done, declares the Lord Yahweh.
+**28** Therefore say to them: This is what the Lord GOD says: None of my words will be delayed any longer. Whatever word I speak will be done, declares the Lord GOD.
 
-[^12-1]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^12-1]: *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles.
 [^12-2]: Hebrew *ben adam*, "son of man": a human being, a mortal.
 [^12-3]: Literally "make for yourself things for exile", the few things a person could carry into exile. Also in verses 4 and 7.
 [^12-4]: Or "understand".
 [^12-5]: Hebrew *mofet*, "sign, portent". Also in verse 11.
-[^12-6]: Hebrew *Adonai YHWH*, "my Lord Yahweh".
+[^12-6]: Hebrew *Adonai YHWH*, "my Lord YHWH". After "Lord", God's personal name is written GOD in capitals, as in most English Bibles.
 [^12-7]: Literally "The prince is this oracle in Jerusalem". A play on words: *nasi*, "prince", and *massa*, "oracle", also "burden", both come from the verb *nasa*, "lift, carry", which is used for carrying the baggage in verses 6–7 and 12. For *nasi*, see 7:27.
 [^12-8]: Literally "among them".
 [^12-9]: Literally "on the shoulder he will lift".
@@ -770,23 +770,23 @@
 
 *Status: draft*
 
-**1** The word of Yahweh[^13-1] came to me:
+**1** The word of the LORD[^13-1] came to me:
 
-**2** Son of man,[^13-2] prophesy against the prophets of Israel who are prophesying. Say to those who prophesy out of their own imagination:[^13-3] Hear the word of Yahweh.
+**2** Son of man,[^13-2] prophesy against the prophets of Israel who are prophesying. Say to those who prophesy out of their own imagination:[^13-3] Hear the word of the LORD.
 
-**3** This is what the Lord Yahweh[^13-4] says: Woe to[^13-5] the foolish prophets,[^13-6] who follow their own spirit and have seen nothing!
+**3** This is what the Lord GOD[^13-4] says: Woe to[^13-5] the foolish prophets,[^13-6] who follow their own spirit and have seen nothing!
 
 **4** Your prophets, Israel, have been like foxes among ruins.[^13-7]
 
-**5** You have not gone up into the breaches or built up a wall around the house of Israel, so that it might stand in the battle on the day of Yahweh.
+**5** You have not gone up into the breaches or built up a wall around the house of Israel, so that it might stand in the battle on the day of the LORD.
 
-**6** They have seen false visions[^13-8] and lying divination. They say, "declares Yahweh," when Yahweh has not sent them, and yet they expect him to fulfill their word.
+**6** They have seen false visions[^13-8] and lying divination. They say, "declares the LORD," when the LORD has not sent them, and yet they expect him to fulfill their word.
 
-**7** Have you not seen a false vision and spoken a lying divination, when you say, "declares Yahweh," though I have not spoken?
+**7** Have you not seen a false vision and spoken a lying divination, when you say, "declares the LORD," though I have not spoken?
 
-**8** Therefore this is what the Lord Yahweh says: Because you have spoken falsehood and seen lies, therefore, look, I am against you, declares the Lord Yahweh.
+**8** Therefore this is what the Lord GOD says: Because you have spoken falsehood and seen lies, therefore, look, I am against you, declares the Lord GOD.
 
-**9** My hand will be against the prophets who see false visions and give lying divinations. They will not be in the council of my people, or be written in the register of the house of Israel, or enter the land of Israel. Then you will know that I am the Lord Yahweh.
+**9** My hand will be against the prophets who see false visions and give lying divinations. They will not be in the council of my people, or be written in the register of the house of Israel, or enter the land of Israel. Then you will know that I am the Lord GOD.
 
 **10** Because, yes, because they have led my people astray, saying, "Peace," when there is no peace, and when someone builds a flimsy wall,[^13-9] they cover it with whitewash,[^13-10]
 
@@ -794,32 +794,32 @@
 
 **12** When the wall has fallen, will people not say to you, "Where is the whitewash you covered it with?"
 
-**13** Therefore this is what the Lord Yahweh says: In my fury I will make a stormy wind break out; in my anger there will be a flooding rain, and in fury, hailstones to destroy it.
+**13** Therefore this is what the Lord GOD says: In my fury I will make a stormy wind break out; in my anger there will be a flooding rain, and in fury, hailstones to destroy it.
 
-**14** I will tear down the wall that you covered with whitewash and bring it down to the ground, so that its foundation is laid bare. When it falls,[^13-12] you will perish in the middle of it. Then you will know that I am Yahweh.
+**14** I will tear down the wall that you covered with whitewash and bring it down to the ground, so that its foundation is laid bare. When it falls,[^13-12] you will perish in the middle of it. Then you will know that I am the LORD.
 
 **15** So I will spend my fury on the wall and on those who covered it with whitewash. And I will say to you, "The wall is gone, and so are those who whitewashed it":
 
-**16** the prophets of Israel who prophesied to Jerusalem and saw visions of peace for her when there was no peace, declares the Lord Yahweh.
+**16** the prophets of Israel who prophesied to Jerusalem and saw visions of peace for her when there was no peace, declares the Lord GOD.
 
 **17** And you, son of man, set your face against the daughters of your people[^13-13] who prophesy out of their own imagination. Prophesy against them,
 
-**18** and say: This is what the Lord Yahweh says: Woe to the women who sew bands[^13-14] on every wrist[^13-15] and make veils for the heads of people of every height, to hunt down lives![^13-16] Will you hunt down the lives of my people and keep your own lives alive?
+**18** and say: This is what the Lord GOD says: Woe to the women who sew bands[^13-14] on every wrist[^13-15] and make veils for the heads of people of every height, to hunt down lives![^13-16] Will you hunt down the lives of my people and keep your own lives alive?
 
 **19** You have profaned me among my people for handfuls of barley and scraps of bread, putting to death people who should not die and keeping alive people who should not live, by your lies to my people, who listen to lies.
 
-**20** Therefore this is what the Lord Yahweh says: Look, I am against your bands with which you hunt down lives there like birds.[^13-17] I will tear them from your arms, and I will set free the lives that you hunt down like birds.
+**20** Therefore this is what the Lord GOD says: Look, I am against your bands with which you hunt down lives there like birds.[^13-17] I will tear them from your arms, and I will set free the lives that you hunt down like birds.
 
-**21** I will tear off your veils and rescue my people from your hands, and they will no longer be prey in your hands. Then you will know that I am Yahweh.
+**21** I will tear off your veils and rescue my people from your hands, and they will no longer be prey in your hands. Then you will know that I am the LORD.
 
 **22** Because you have disheartened the righteous with lies, when I had not brought him grief, and you have encouraged the wicked[^13-18] not to turn from his evil way and save his life,
 
-**23** therefore you will no longer see false visions or practice divination. I will rescue my people from your hands. Then you will know that I am Yahweh.
+**23** therefore you will no longer see false visions or practice divination. I will rescue my people from your hands. Then you will know that I am the LORD.
 
-[^13-1]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^13-1]: *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles.
 [^13-2]: Hebrew *ben adam*, "son of man": a human being, a mortal.
 [^13-3]: Literally "the prophets from their own heart". Also in verse 17.
-[^13-4]: Hebrew *Adonai YHWH*, "my Lord Yahweh".
+[^13-4]: Hebrew *Adonai YHWH*, "my Lord YHWH". After "Lord", God's personal name is written GOD in capitals, as in most English Bibles.
 [^13-5]: Hebrew *hoy*, a cry of mourning for the dead ("Alas!", 1 Kings 13:30). The prophets use it to announce disaster, and in that sense it is translated "Woe to" throughout this book. Also in verse 18.
 [^13-6]: A play on words: *nevi'im*, "prophets", and *nevalim*, "fools". The *naval*, "fool", is someone who acts without regard for God (Psalm 14:1).
 [^13-7]: Or "jackals". Hebrew *shu'alim*.
@@ -841,56 +841,56 @@
 
 **1** Some of the elders of Israel came to me and sat down in front of me.
 
-**2** Then the word of Yahweh[^14-1] came to me:
+**2** Then the word of the LORD[^14-1] came to me:
 
 **3** Son of man,[^14-2] these men have set up their idols[^14-3] in their hearts[^14-4] and put the stumbling block of their guilt[^14-5] in front of their faces. Should I let myself be consulted by them at all?
 
-**4** Therefore speak to them and say to them: This is what the Lord Yahweh[^14-6] says: Anyone of the house of Israel who sets up his idols in his heart and puts the stumbling block of his guilt in front of his face, and then comes to the prophet, I, Yahweh, will answer him myself as he comes[^14-7] with his many idols,
+**4** Therefore speak to them and say to them: This is what the Lord GOD[^14-6] says: Anyone of the house of Israel who sets up his idols in his heart and puts the stumbling block of his guilt in front of his face, and then comes to the prophet, I, the LORD, will answer him myself as he comes[^14-7] with his many idols,
 
 **5** so that I may take hold of the house of Israel by their hearts,[^14-8] for they have all turned away from me through their idols.
 
-**6** Therefore say to the house of Israel: This is what the Lord Yahweh says: Turn back![^14-9] Turn away from your idols, and turn your faces away from all your detestable practices.[^14-10]
+**6** Therefore say to the house of Israel: This is what the Lord GOD says: Turn back![^14-9] Turn away from your idols, and turn your faces away from all your detestable practices.[^14-10]
 
-**7** For anyone of the house of Israel, or of the foreigners who live in Israel, who separates himself from me, sets up his idols in his heart, and puts the stumbling block of his guilt in front of his face, and then comes to the prophet to consult me through him, I, Yahweh, will answer him myself.
+**7** For anyone of the house of Israel, or of the foreigners who live in Israel, who separates himself from me, sets up his idols in his heart, and puts the stumbling block of his guilt in front of his face, and then comes to the prophet to consult me through him, I, the LORD, will answer him myself.
 
-**8** I will set my face against that man and make him a sign and a byword,[^14-11] and I will cut him off from among my people. Then you will know that I am Yahweh.
+**8** I will set my face against that man and make him a sign and a byword,[^14-11] and I will cut him off from among my people. Then you will know that I am the LORD.
 
-**9** And if the prophet is deceived and speaks a word, it is I, Yahweh, who have deceived that prophet,[^14-12] and I will stretch out my hand against him and destroy him from among my people Israel.
+**9** And if the prophet is deceived and speaks a word, it is I, the LORD, who have deceived that prophet,[^14-12] and I will stretch out my hand against him and destroy him from among my people Israel.
 
 **10** They will bear their guilt; the guilt of the one who consults will be the same as the guilt of the prophet,
 
-**11** so that the house of Israel will no longer stray from me or defile themselves anymore with all their transgressions. Then they will be my people, and I will be their God, declares the Lord Yahweh.
+**11** so that the house of Israel will no longer stray from me or defile themselves anymore with all their transgressions. Then they will be my people, and I will be their God, declares the Lord GOD.
 
-**12** The word of Yahweh came to me:
+**12** The word of the LORD came to me:
 
 **13** Son of man, if a land sins against me by acting unfaithfully,[^14-13] and I stretch out my hand against it, cut off its supply of bread,[^14-14] send famine on it, and cut off from it both people and animals,
 
-**14** even if these three men, Noah, Daniel[^14-15] and Job, were in it, they would save only themselves[^14-16] by their righteousness, declares the Lord Yahweh.
+**14** even if these three men, Noah, Daniel[^14-15] and Job, were in it, they would save only themselves[^14-16] by their righteousness, declares the Lord GOD.
 
 **15** If I send wild animals through the land and they leave it childless, and it becomes so desolate that no one passes through it because of the animals,
 
-**16** even if these three men were in it, as I live, declares the Lord Yahweh, they could not save their sons or their daughters. They alone would be saved, and the land would be desolate.
+**16** even if these three men were in it, as I live, declares the Lord GOD, they could not save their sons or their daughters. They alone would be saved, and the land would be desolate.
 
 **17** Or if I bring a sword against that land and say, "Let a sword pass through the land," and I cut off from it both people and animals,
 
-**18** even if these three men were in it, as I live, declares the Lord Yahweh, they could not save their sons or their daughters; they alone would be saved.
+**18** even if these three men were in it, as I live, declares the Lord GOD, they could not save their sons or their daughters; they alone would be saved.
 
 **19** Or if I send a plague into that land and pour out my fury on it in bloodshed, to cut off from it both people and animals,
 
-**20** even if Noah, Daniel and Job were in it, as I live, declares the Lord Yahweh, they could not save son or daughter. They would save only themselves by their righteousness.
+**20** even if Noah, Daniel and Job were in it, as I live, declares the Lord GOD, they could not save son or daughter. They would save only themselves by their righteousness.
 
-**21** For this is what the Lord Yahweh says: How much worse will it be when I send my four terrible judgments against Jerusalem, sword and famine and wild animals and plague, to cut off from it both people and animals!
+**21** For this is what the Lord GOD says: How much worse will it be when I send my four terrible judgments against Jerusalem, sword and famine and wild animals and plague, to cut off from it both people and animals!
 
 **22** Yet look, some survivors will be left in it, sons and daughters who will be brought out. Look, they will come out to you, and when you see their ways and their deeds, you will be consoled for the disaster I have brought on Jerusalem, for everything I have brought on it.
 
-**23** They will console you when you see their ways and their deeds, and you will know that it was not without cause that I did all that I did in it, declares the Lord Yahweh.
+**23** They will console you when you see their ways and their deeds, and you will know that it was not without cause that I did all that I did in it, declares the Lord GOD.
 
-[^14-1]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^14-1]: *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles.
 [^14-2]: Hebrew *ben adam*, "son of man": a human being, a mortal.
 [^14-3]: Hebrew *gillulim*, a contemptuous word for idols, perhaps related to the word for dung. Also in verses 4–7.
 [^14-4]: Literally "have made their idols go up on their heart". Also in verses 4 and 7.
 [^14-5]: That is, the idols that make them fall into guilt. See 7:19.
-[^14-6]: Hebrew *Adonai YHWH*, "my Lord Yahweh".
+[^14-6]: Hebrew *Adonai YHWH*, "my Lord YHWH". After "Lord", God's personal name is written GOD in capitals, as in most English Bibles.
 [^14-7]: The Hebrew text is written "by it" but read "he comes".
 [^14-8]: Or "seize the house of Israel in their hearts".
 [^14-9]: Or "Repent!" Hebrew *shuvu*, "turn back, return".
@@ -906,7 +906,7 @@
 
 *Status: draft*
 
-**1** The word of Yahweh[^15-1] came to me:
+**1** The word of the LORD[^15-1] came to me:
 
 **2** Son of man,[^15-2] how is the wood of the vine better than any other wood, the vine branch that is among the trees of the forest?
 
@@ -916,27 +916,27 @@
 
 **5** Look, even when it was whole, it could not be made into anything useful. How much less, when the fire has consumed it and it is charred, can it still be made into anything useful!
 
-**6** Therefore this is what the Lord Yahweh[^15-4] says: Like the wood of the vine among the trees of the forest, which I have given to the fire for fuel, so I will give up the people who live in Jerusalem.
+**6** Therefore this is what the Lord GOD[^15-4] says: Like the wood of the vine among the trees of the forest, which I have given to the fire for fuel, so I will give up the people who live in Jerusalem.
 
-**7** I will set my face against them. Though they have come out of the fire, the fire will still consume them. Then you will know that I am Yahweh, when I set my face against them.
+**7** I will set my face against them. Though they have come out of the fire, the fire will still consume them. Then you will know that I am the LORD, when I set my face against them.
 
-**8** I will make the land desolate, because they have acted unfaithfully,[^15-5] declares the Lord Yahweh.
+**8** I will make the land desolate, because they have acted unfaithfully,[^15-5] declares the Lord GOD.
 
-[^15-1]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^15-1]: *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles.
 [^15-2]: Hebrew *ben adam*, "son of man": a human being, a mortal.
 [^15-3]: Literally "to do work". Also in verses 4–5.
-[^15-4]: Hebrew *Adonai YHWH*, "my Lord Yahweh".
+[^15-4]: Hebrew *Adonai YHWH*, "my Lord YHWH". After "Lord", God's personal name is written GOD in capitals, as in most English Bibles.
 [^15-5]: Hebrew *ma'al*, a breach of faith, especially against God (14:13).
 
 ## Chapter 16
 
 *Status: draft*
 
-**1** The word of Yahweh[^16-1] came to me:
+**1** The word of the LORD[^16-1] came to me:
 
 **2** Son of man,[^16-2] make known to Jerusalem her detestable practices.[^16-3]
 
-**3** Say: This is what the Lord Yahweh[^16-4] says to Jerusalem: Your origin and your birth were in the land of the Canaanites. Your father was an Amorite, and your mother a Hittite.[^16-5]
+**3** Say: This is what the Lord GOD[^16-4] says to Jerusalem: Your origin and your birth were in the land of the Canaanites. Your father was an Amorite, and your mother a Hittite.[^16-5]
 
 **4** As for your birth, on the day you were born your cord was not cut, you were not washed with water to clean you,[^16-6] you were not rubbed with salt, and you were not wrapped in cloths.
 
@@ -946,7 +946,7 @@
 
 **7** I made you grow like a plant of the field.[^16-9] You grew up and became tall, and you came to the age of full beauty:[^16-10] your breasts were formed and your hair had grown, but you were naked and bare.
 
-**8** Then I passed by you and saw you, and look, your time was the time for love. I spread the corner of my garment over you[^16-11] and covered your nakedness. I swore an oath to you and entered into a covenant with you, declares the Lord Yahweh, and you became mine.
+**8** Then I passed by you and saw you, and look, your time was the time for love. I spread the corner of my garment over you[^16-11] and covered your nakedness. I swore an oath to you and entered into a covenant with you, declares the Lord GOD, and you became mine.
 
 **9** Then I bathed you with water, washed your blood off you, and anointed you with oil.
 
@@ -958,7 +958,7 @@
 
 **13** So you were adorned with gold and silver, and your clothing was fine linen, silk and embroidered cloth. You ate fine flour, honey and oil.[^16-14] You became very, very beautiful, and you rose to be a queen.[^16-15]
 
-**14** Your fame spread among the nations because of your beauty, for it was perfect through the splendor that I had put on you, declares the Lord Yahweh.
+**14** Your fame spread among the nations because of your beauty, for it was perfect through the splendor that I had put on you, declares the Lord GOD.
 
 **15** But you trusted in your beauty and played the prostitute[^16-16] because of your fame. You poured out your acts of prostitution on everyone who passed by; it was his.[^16-17]
 
@@ -968,7 +968,7 @@
 
 **18** You took your embroidered clothes to cover them, and you set my oil and my incense before them.
 
-**19** Also my food that I gave you, the fine flour, the oil and the honey I fed you, you set before them as a pleasing aroma.[^16-20] That is what happened, declares the Lord Yahweh.
+**19** Also my food that I gave you, the fine flour, the oil and the honey I fed you, you set before them as a pleasing aroma.[^16-20] That is what happened, declares the Lord GOD.
 
 **20** You took your sons and your daughters, whom you had borne to me, and sacrificed them to the images[^16-21] as food. Was your prostitution not enough?[^16-22]
 
@@ -976,7 +976,7 @@
 
 **22** In all your detestable practices and your acts of prostitution you did not remember the days of your youth, when you were naked and bare, kicking about in your blood.
 
-**23** After all your wickedness (woe, woe to you, declares the Lord Yahweh!)
+**23** After all your wickedness (woe, woe to you, declares the Lord GOD!)
 
 **24** you built yourself a mound[^16-24] and made yourself a lofty place in every square.
 
@@ -990,7 +990,7 @@
 
 **29** You multiplied your prostitution with the land of traders, Chaldea,[^16-29] and even with this you were not satisfied.
 
-**30** How sick your heart is,[^16-30] declares the Lord Yahweh, that you did all these things, the deeds of a brazen prostitute!
+**30** How sick your heart is,[^16-30] declares the Lord GOD, that you did all these things, the deeds of a brazen prostitute!
 
 **31** When you built your mound at the head of every street and made your lofty place in every square, you were not like a prostitute, for you scorned payment.
 
@@ -1000,9 +1000,9 @@
 
 **34** So in your prostitution you were the opposite of other women. No one chased after you for prostitution,[^16-31] and you gave payment, while no payment was given to you. So you were the opposite.
 
-**35** Therefore, you prostitute, hear the word of Yahweh.
+**35** Therefore, you prostitute, hear the word of the LORD.
 
-**36** This is what the Lord Yahweh says: Because your lust[^16-32] was poured out and your nakedness was uncovered in your prostitution with your lovers, and because of all your detestable idols,[^16-33] and because of the blood of your children whom you gave to them,
+**36** This is what the Lord GOD says: Because your lust[^16-32] was poured out and your nakedness was uncovered in your prostitution with your lovers, and because of all your detestable idols,[^16-33] and because of the blood of your children whom you gave to them,
 
 **37** therefore, look, I am going to gather all your lovers whom you pleased, all those you loved along with all those you hated. I will gather them against you from all around and uncover your nakedness to them, and they will see all your nakedness.
 
@@ -1016,7 +1016,7 @@
 
 **42** Then I will satisfy my fury on you,[^16-35] and my jealousy will turn away from you. I will be calm and no longer angry.
 
-**43** Because you did not remember the days of your youth, but provoked me[^16-36] with all these things, I in turn will bring your ways down on your head, declares the Lord Yahweh. Did you not commit this lewdness on top of all your detestable practices?
+**43** Because you did not remember the days of your youth, but provoked me[^16-36] with all these things, I in turn will bring your ways down on your head, declares the Lord GOD. Did you not commit this lewdness on top of all your detestable practices?
 
 **44** Look, everyone who uses proverbs will use this proverb about you: "Like mother, like daughter."
 
@@ -1026,7 +1026,7 @@
 
 **47** You not only walked in their ways and acted according to their detestable practices; in a very short time[^16-38] you became more corrupt than they in all your ways.
 
-**48** As I live, declares the Lord Yahweh, your sister Sodom and her daughters never did what you and your daughters have done.
+**48** As I live, declares the Lord GOD, your sister Sodom and her daughters never did what you and your daughters have done.
 
 **49** Look, this was the guilt of your sister Sodom: she and her daughters had pride, plenty of food[^16-39] and carefree ease, but she did not help[^16-40] the poor and needy.
 
@@ -1046,22 +1046,22 @@
 
 **57** before your wickedness was exposed, as it is now that you have become the scorn of the daughters of Aram[^16-47] and all her neighbors, and of the daughters of the Philistines, those all around who despise you.
 
-**58** You must bear the penalty of your lewdness and your detestable practices, declares Yahweh.
+**58** You must bear the penalty of your lewdness and your detestable practices, declares the LORD.
 
-**59** For this is what the Lord Yahweh says: I will deal with you[^16-48] as you have done, you who despised the oath by breaking the covenant.
+**59** For this is what the Lord GOD says: I will deal with you[^16-48] as you have done, you who despised the oath by breaking the covenant.
 
 **60** Yet I will remember my covenant with you in the days of your youth, and I will establish with you an everlasting covenant.
 
 **61** Then you will remember your ways and be ashamed when you receive your sisters, those older than you and those younger, and I give them to you as daughters, but not on the basis of your covenant.[^16-49]
 
-**62** I will establish my covenant with you, and you will know that I am Yahweh,
+**62** I will establish my covenant with you, and you will know that I am the LORD,
 
-**63** so that you will remember and be ashamed, and never again open your mouth because of your disgrace, when I make atonement for you[^16-50] for all that you have done, declares the Lord Yahweh.
+**63** so that you will remember and be ashamed, and never again open your mouth because of your disgrace, when I make atonement for you[^16-50] for all that you have done, declares the Lord GOD.
 
-[^16-1]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^16-1]: *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles.
 [^16-2]: Hebrew *ben adam*, "son of man": a human being, a mortal.
-[^16-3]: Hebrew *to'evot*, things that are abhorrent, especially in worship. In this chapter Jerusalem is pictured as an abandoned baby girl whom Yahweh rescues and later marries, and who becomes an unfaithful wife (compare chapter 23).
-[^16-4]: Hebrew *Adonai YHWH*, "my Lord Yahweh".
+[^16-3]: Hebrew *to'evot*, things that are abhorrent, especially in worship. In this chapter Jerusalem is pictured as an abandoned baby girl whom the LORD rescues and later marries, and who becomes an unfaithful wife (compare chapter 23).
+[^16-4]: Hebrew *Adonai YHWH*, "my Lord YHWH". After "Lord", God's personal name is written GOD in capitals, as in most English Bibles.
 [^16-5]: Amorites and Hittites were among the peoples who lived in Canaan before Israel (Genesis 15:19–21). Jerusalem was a Canaanite city until David captured it (2 Samuel 5:6–9). Also in verse 45.
 [^16-6]: Hebrew *lemish'i*, a word found only here, probably "for cleansing".
 [^16-7]: Literally "in the loathing of your *nephesh*".
@@ -1073,11 +1073,11 @@
 [^16-13]: Hebrew *meshi*, found only here and in verse 13, perhaps silk or a fine fabric.
 [^16-14]: In this chapter the Hebrew text several times writes "you" (feminine) in the verb with an old ending, *-ti*, which looks like "I", and reads it with the usual ending (here and in verses 18, 22, 31, 43, 47 and 51).
 [^16-15]: Literally "you prospered to royalty".
-[^16-16]: Hebrew *zanah*, "act as a prostitute", a common image for unfaithfulness to Yahweh (6:9). Its noun, *taznut*, "prostitution", recurs through the chapter.
+[^16-16]: Hebrew *zanah*, "act as a prostitute", a common image for unfaithfulness to the LORD (6:9). Its noun, *taznut*, "prostitution", recurs through the chapter.
 [^16-17]: Literally "to him let it be". The meaning is uncertain.
 [^16-18]: Literally "not coming, and it will not be". The meaning is uncertain.
 [^16-19]: Literally "images of a male".
-[^16-20]: Literally "a soothing smell", the phrase used for offerings to Yahweh (6:13).
+[^16-20]: Literally "a soothing smell", the phrase used for offerings to the LORD (6:13).
 [^16-21]: Literally "to them", the images of verse 17. Also in verse 21.
 [^16-22]: Literally "Was it a small thing, from your prostitution?"
 [^16-23]: Literally "making them pass over to them", the phrase used for child sacrifice (20:26, 31; 2 Kings 16:3; 21:6).
@@ -1113,11 +1113,11 @@
 
 *Status: draft*
 
-**1** The word of Yahweh[^17-1] came to me:
+**1** The word of the LORD[^17-1] came to me:
 
 **2** Son of man,[^17-2] pose a riddle and tell a parable[^17-3] to the house of Israel.
 
-**3** Say: This is what the Lord Yahweh[^17-4] says: A great eagle,[^17-5] with great wings and long pinions, full of feathers of many colors,[^17-6] came to Lebanon and took the top of the cedar.
+**3** Say: This is what the Lord GOD[^17-4] says: A great eagle,[^17-5] with great wings and long pinions, full of feathers of many colors,[^17-6] came to Lebanon and took the top of the cedar.
 
 **4** He broke off the topmost of its young shoots and carried it to a land of traders,[^17-7] and set it in a city of merchants.
 
@@ -1129,11 +1129,11 @@
 
 **8** It had been planted in good soil beside abundant waters, so that it could produce branches, bear fruit and become a splendid vine.
 
-**9** Say: This is what the Lord Yahweh says: Will it prosper? Will he not pull up its roots and strip off its fruit, so that it withers, so that all its fresh sprouting leaves wither? It will not take a strong arm or many people to pull it up by its roots.
+**9** Say: This is what the Lord GOD says: Will it prosper? Will he not pull up its roots and strip off its fruit, so that it withers, so that all its fresh sprouting leaves wither? It will not take a strong arm or many people to pull it up by its roots.
 
 **10** Look, it is planted, but will it prosper? Will it not wither completely when the east wind strikes it? It will wither on the beds where it sprouted.
 
-**11** The word of Yahweh came to me:
+**11** The word of the LORD came to me:
 
 **12** Say to the rebellious house: Do you not know what these things mean? Say: Look, the king of Babylon came to Jerusalem and took its king and its officials and brought them to himself in Babylon.[^17-11]
 
@@ -1143,28 +1143,28 @@
 
 **15** But he rebelled against him by sending his envoys to Egypt, so that they would give him horses and a large army. Will he prosper? Will a man who does such things escape? Can he break a covenant and escape?
 
-**16** As I live, declares the Lord Yahweh, he will die in Babylon, in the land of the king who made him king, whose oath he despised and whose covenant he broke, there with him in Babylon.
+**16** As I live, declares the Lord GOD, he will die in Babylon, in the land of the king who made him king, whose oath he despised and whose covenant he broke, there with him in Babylon.
 
 **17** Pharaoh with his mighty army and great horde will not help him[^17-14] in the war, when ramps are thrown up and siege walls built to cut off many lives.
 
 **18** He despised the oath by breaking the covenant. Though he had given his hand in pledge, he did all these things. He will not escape.
 
-**19** Therefore this is what the Lord Yahweh says: As I live, I will surely bring down on his head my oath that he despised and my covenant that he broke.
+**19** Therefore this is what the Lord GOD says: As I live, I will surely bring down on his head my oath that he despised and my covenant that he broke.
 
 **20** I will spread my net over him, and he will be caught in my snare. I will bring him to Babylon and enter into judgment with him there for the unfaithfulness he committed against me.
 
-**21** All the fugitives among all his troops will fall by the sword, and those who are left will be scattered to every wind. Then you will know that I, Yahweh, have spoken.
+**21** All the fugitives among all his troops will fall by the sword, and those who are left will be scattered to every wind. Then you will know that I, the LORD, have spoken.
 
-**22** This is what the Lord Yahweh says: I myself will take a sprig from the lofty top of the cedar and set it out. I will break off a tender shoot from the topmost of its young shoots, and I myself will plant it on a high and lofty mountain.
+**22** This is what the Lord GOD says: I myself will take a sprig from the lofty top of the cedar and set it out. I will break off a tender shoot from the topmost of its young shoots, and I myself will plant it on a high and lofty mountain.
 
 **23** On the high mountain of Israel I will plant it, and it will put out branches and bear fruit and become a majestic cedar. Birds of every kind[^17-15] will nest under it; they will nest in the shade of its branches.
 
-**24** All the trees of the field will know that I am Yahweh. I bring down the high tree and make the low tree high; I dry up the green tree and make the dry tree flourish. I, Yahweh, have spoken, and I will do it.[^17-16]
+**24** All the trees of the field will know that I am the LORD. I bring down the high tree and make the low tree high; I dry up the green tree and make the dry tree flourish. I, the LORD, have spoken, and I will do it.[^17-16]
 
-[^17-1]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^17-1]: *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles.
 [^17-2]: Hebrew *ben adam*, "son of man": a human being, a mortal.
 [^17-3]: Hebrew *chidah*, "riddle", and *mashal*, "parable, proverb".
-[^17-4]: Hebrew *Adonai YHWH*, "my Lord Yahweh".
+[^17-4]: Hebrew *Adonai YHWH*, "my Lord YHWH". After "Lord", God's personal name is written GOD in capitals, as in most English Bibles.
 [^17-5]: Or "vulture". Hebrew *nesher*. Also in verse 7.
 [^17-6]: Literally "which had the embroidery".
 [^17-7]: Literally "a land of Canaan". *Canaan* also means "traders" (16:29).
@@ -1182,11 +1182,11 @@
 
 *Status: draft*
 
-**1** The word of Yahweh[^18-1] came to me:
+**1** The word of the LORD[^18-1] came to me:
 
 **2** What do you mean by quoting this proverb about the land of Israel: "The fathers eat sour grapes, and the children's teeth are set on edge"?[^18-2]
 
-**3** As I live, declares the Lord Yahweh,[^18-3] you will no longer use this proverb in Israel.
+**3** As I live, declares the Lord GOD,[^18-3] you will no longer use this proverb in Israel.
 
 **4** Look, all lives are mine. The life of the father, like the life of the son, is mine. The person who sins is the one who will die.[^18-4]
 
@@ -1198,7 +1198,7 @@
 
 **8** He does not lend at interest or take any profit.[^18-9] He keeps his hand from wrongdoing and judges fairly between one person and another.
 
-**9** He walks in my decrees and keeps my rulings, acting faithfully. Such a man is righteous; he will surely live, declares the Lord Yahweh.
+**9** He walks in my decrees and keeps my rulings, acting faithfully. Such a man is righteous; he will surely live, declares the Lord GOD.
 
 **10** But suppose he fathers a son who is violent, who sheds blood, and who does any one of these things[^18-10]
 
@@ -1226,7 +1226,7 @@
 
 **22** None of the transgressions he has committed will be remembered against him. Because of the righteousness he has done, he will live.
 
-**23** Do I take any pleasure in the death of the wicked, declares the Lord Yahweh? Do I not rather want him to turn from his ways and live?
+**23** Do I take any pleasure in the death of the wicked, declares the Lord GOD? Do I not rather want him to turn from his ways and live?
 
 **24** But if a righteous person turns away from his righteousness and does wrong, doing all the same detestable things that the wicked person does, will he live? None of the righteous deeds[^18-17] he has done will be remembered. Because of the unfaithfulness he has committed and the sin he has committed, he will die for them.
 
@@ -1240,15 +1240,15 @@
 
 **29** Yet the house of Israel says, "The way of the Lord is not fair." Are my ways not fair, house of Israel? Is it not your ways that are not fair?
 
-**30** Therefore I will judge you, house of Israel, each according to his ways, declares the Lord Yahweh. Turn back,[^18-22] and turn away from all your transgressions, so that guilt will not be your downfall.[^18-23]
+**30** Therefore I will judge you, house of Israel, each according to his ways, declares the Lord GOD. Turn back,[^18-22] and turn away from all your transgressions, so that guilt will not be your downfall.[^18-23]
 
 **31** Throw off all the transgressions you have committed, and make for yourselves a new heart and a new spirit. Why should you die, house of Israel?
 
-**32** For I take no pleasure in the death of anyone who dies, declares the Lord Yahweh. So turn back and live!
+**32** For I take no pleasure in the death of anyone who dies, declares the Lord GOD. So turn back and live!
 
-[^18-1]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^18-1]: *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles.
 [^18-2]: Literally "the fathers eat unripe grapes, and the sons' teeth become blunt": the sourness makes the teeth feel rough. The same proverb is quoted in Jeremiah 31:29.
-[^18-3]: Hebrew *Adonai YHWH*, "my Lord Yahweh".
+[^18-3]: Hebrew *Adonai YHWH*, "my Lord YHWH". After "Lord", God's personal name is written GOD in capitals, as in most English Bibles.
 [^18-4]: Hebrew *nephesh*, "life, person, soul". Traditionally "The soul that sinneth, it shall die." Also in verse 20.
 [^18-5]: That is, he does not eat sacrificial meals at the shrines on the hills (6:13; 22:9). Also in verses 11 and 15.
 [^18-6]: Hebrew *gillulim*, a contemptuous word for idols, perhaps related to the word for dung. Also in verses 12 and 15.
@@ -1263,7 +1263,7 @@
 [^18-15]: Literally "he turns back his hand from the poor". Compare verse 8.
 [^18-16]: The Hebrew text is written "all his sin" but read "all his sins".
 [^18-17]: The Hebrew text is written "all his righteousness" but read "all his righteous deeds".
-[^18-18]: Hebrew *Adonai*, "the Lord", not the name Yahweh. Also in verse 29.
+[^18-18]: Hebrew *Adonai*, "the Lord", not the name YHWH. Also in verse 29.
 [^18-19]: Hebrew *yittakhen*, "be measured, be right, be in order". Also in verse 29.
 [^18-20]: Literally "and dies on them".
 [^18-21]: Literally "keep his *nephesh* alive".
@@ -1319,19 +1319,19 @@
 
 *Status: draft*
 
-**1** In the seventh year, in the fifth month, on the tenth day of the month,[^20-1] some of the elders of Israel came to consult Yahweh,[^20-2] and they sat down in front of me.
+**1** In the seventh year, in the fifth month, on the tenth day of the month,[^20-1] some of the elders of Israel came to consult the LORD,[^20-2] and they sat down in front of me.
 
-**2** Then the word of Yahweh came to me:
+**2** Then the word of the LORD came to me:
 
-**3** Son of man,[^20-3] speak to the elders of Israel and say to them: This is what the Lord Yahweh[^20-4] says: Have you come to consult me? As I live, I will not let myself be consulted by you, declares the Lord Yahweh.
+**3** Son of man,[^20-3] speak to the elders of Israel and say to them: This is what the Lord GOD[^20-4] says: Have you come to consult me? As I live, I will not let myself be consulted by you, declares the Lord GOD.
 
 **4** Will you judge them? Will you judge them, son of man? Make known to them the detestable practices[^20-5] of their ancestors,
 
-**5** and say to them: This is what the Lord Yahweh says: On the day I chose Israel, I raised my hand[^20-6] to the descendants of the house of Jacob and made myself known to them in the land of Egypt. I raised my hand to them and said, "I am Yahweh your God."
+**5** and say to them: This is what the Lord GOD says: On the day I chose Israel, I raised my hand[^20-6] to the descendants of the house of Jacob and made myself known to them in the land of Egypt. I raised my hand to them and said, "I am the LORD your God."
 
 **6** On that day I raised my hand to them, swearing that I would bring them out of the land of Egypt into a land I had searched out for them, a land flowing with milk and honey, the most beautiful of all lands.[^20-7]
 
-**7** And I said to them, "Each of you, throw away the vile idols[^20-8] you set your eyes on, and do not defile yourselves with the idols[^20-9] of Egypt. I am Yahweh your God."
+**7** And I said to them, "Each of you, throw away the vile idols[^20-8] you set your eyes on, and do not defile yourselves with the idols[^20-9] of Egypt. I am the LORD your God."
 
 **8** But they rebelled against me and were not willing to listen to me. None of them threw away the vile idols they set their eyes on, nor did they abandon the idols of Egypt. Then I said I would pour out my fury on them and spend my anger against them in the middle of the land of Egypt.
 
@@ -1341,7 +1341,7 @@
 
 **11** I gave them my decrees and made known to them my rulings, by which a person who does them will live.[^20-10]
 
-**12** I also gave them my Sabbaths, to be a sign between me and them, so that they might know that I am Yahweh who makes them holy.
+**12** I also gave them my Sabbaths, to be a sign between me and them, so that they might know that I am the LORD who makes them holy.
 
 **13** But the house of Israel rebelled against me in the wilderness. They did not walk in my decrees, and they rejected my rulings, by which a person who does them will live, and they greatly profaned my Sabbaths. Then I said I would pour out my fury on them in the wilderness to make an end of them.
 
@@ -1355,9 +1355,9 @@
 
 **18** I said to their children in the wilderness, "Do not walk in the decrees of your fathers or keep their rulings, and do not defile yourselves with their idols.
 
-**19** I am Yahweh your God. Walk in my decrees, and keep my rulings and do them.
+**19** I am the LORD your God. Walk in my decrees, and keep my rulings and do them.
 
-**20** Keep my Sabbaths holy, and they will be a sign between me and you, so that you may know that I am Yahweh your God."
+**20** Keep my Sabbaths holy, and they will be a sign between me and you, so that you may know that I am the LORD your God."
 
 **21** But the children rebelled against me. They did not walk in my decrees or keep my rulings by doing them, by which a person who does them will live, and they profaned my Sabbaths. Then I said I would pour out my fury on them and spend my anger against them in the wilderness.
 
@@ -1369,57 +1369,57 @@
 
 **25** So I also gave them decrees that were not good and rulings by which they could not live.
 
-**26** I made them unclean through their gifts, when they offered up every firstborn,[^20-11] so that I might devastate them, so that they would know that I am Yahweh.
+**26** I made them unclean through their gifts, when they offered up every firstborn,[^20-11] so that I might devastate them, so that they would know that I am the LORD.
 
-**27** Therefore, son of man, speak to the house of Israel and say to them: This is what the Lord Yahweh says: In this also your ancestors blasphemed me, by acting unfaithfully against me.
+**27** Therefore, son of man, speak to the house of Israel and say to them: This is what the Lord GOD says: In this also your ancestors blasphemed me, by acting unfaithfully against me.
 
 **28** When I brought them into the land that I had raised my hand to give them, wherever they saw any high hill or any leafy tree, there they offered their sacrifices, there they presented the offerings that provoked me,[^20-12] there they offered their pleasing aromas,[^20-13] and there they poured out their drink offerings.
 
 **29** So I said to them, "What is this high place that you go to?" And it is called Bamah to this day.[^20-14]
 
-**30** Therefore say to the house of Israel: This is what the Lord Yahweh says: Will you defile yourselves in the way your ancestors did, and play the prostitute after their vile idols?
+**30** Therefore say to the house of Israel: This is what the Lord GOD says: Will you defile yourselves in the way your ancestors did, and play the prostitute after their vile idols?
 
-**31** When you offer your gifts, making your sons pass through the fire, you defile yourselves with all your idols to this day. So should I let myself be consulted by you, house of Israel? As I live, declares the Lord Yahweh, I will not let myself be consulted by you.
+**31** When you offer your gifts, making your sons pass through the fire, you defile yourselves with all your idols to this day. So should I let myself be consulted by you, house of Israel? As I live, declares the Lord GOD, I will not let myself be consulted by you.
 
 **32** What you have in mind[^20-15] will never happen, when you say, "We will be like the nations, like the clans of the lands, serving wood and stone."
 
-**33** As I live, declares the Lord Yahweh, with a strong hand and an outstretched arm and with fury poured out, I will be king over you.
+**33** As I live, declares the Lord GOD, with a strong hand and an outstretched arm and with fury poured out, I will be king over you.
 
 **34** I will bring you out from the peoples and gather you from the countries where you have been scattered, with a strong hand and an outstretched arm and with fury poured out.
 
 **35** I will bring you into the wilderness of the peoples, and there I will enter into judgment with you face to face.
 
-**36** As I entered into judgment with your ancestors in the wilderness of the land of Egypt, so I will enter into judgment with you, declares the Lord Yahweh.
+**36** As I entered into judgment with your ancestors in the wilderness of the land of Egypt, so I will enter into judgment with you, declares the Lord GOD.
 
 **37** I will make you pass under the rod,[^20-16] and I will bring you into the bond of the covenant.[^20-17]
 
-**38** I will purge from among you those who rebel and transgress against me. I will bring them out of the land where they live as foreigners, but they will not enter the land of Israel. Then you will know that I am Yahweh.
+**38** I will purge from among you those who rebel and transgress against me. I will bring them out of the land where they live as foreigners, but they will not enter the land of Israel. Then you will know that I am the LORD.
 
-**39** As for you, house of Israel, this is what the Lord Yahweh says: Go, each of you, serve your idols, now and hereafter, if you will not listen to me; but you will no longer profane my holy name with your gifts and your idols.[^20-18]
+**39** As for you, house of Israel, this is what the Lord GOD says: Go, each of you, serve your idols, now and hereafter, if you will not listen to me; but you will no longer profane my holy name with your gifts and your idols.[^20-18]
 
-**40** For on my holy mountain, on the high mountain of Israel, declares the Lord Yahweh, there the whole house of Israel, all of them, will serve me in the land. There I will accept them, and there I will require your contributions[^20-19] and the choicest of your gifts, with all your holy offerings.
+**40** For on my holy mountain, on the high mountain of Israel, declares the Lord GOD, there the whole house of Israel, all of them, will serve me in the land. There I will accept them, and there I will require your contributions[^20-19] and the choicest of your gifts, with all your holy offerings.
 
 **41** I will accept you as a pleasing aroma, when I bring you out from the peoples and gather you from the countries where you have been scattered, and I will show myself holy among you in the sight of the nations.
 
-**42** Then you will know that I am Yahweh, when I bring you into the land of Israel, the land I raised my hand to give to your ancestors.
+**42** Then you will know that I am the LORD, when I bring you into the land of Israel, the land I raised my hand to give to your ancestors.
 
 **43** There you will remember your ways and all your deeds by which you defiled yourselves, and you will loathe yourselves[^20-20] for all the evil you have done.
 
-**44** Then you will know that I am Yahweh, when I deal with you for the sake of my name, not according to your evil ways or your corrupt deeds, house of Israel, declares the Lord Yahweh.[^20-21]
+**44** Then you will know that I am the LORD, when I deal with you for the sake of my name, not according to your evil ways or your corrupt deeds, house of Israel, declares the Lord GOD.[^20-21]
 
 [^20-1]: In 591 BC, eleven months after the date in 8:1.
-[^20-2]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^20-2]: *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles.
 [^20-3]: Hebrew *ben adam*, "son of man": a human being, a mortal.
-[^20-4]: Hebrew *Adonai YHWH*, "my Lord Yahweh".
+[^20-4]: Hebrew *Adonai YHWH*, "my Lord YHWH". After "Lord", God's personal name is written GOD in capitals, as in most English Bibles.
 [^20-5]: Hebrew *to'evot*, things that are abhorrent, especially in worship.
 [^20-6]: Literally "I lifted my hand", the gesture of one who swears an oath (Exodus 6:8). Also in verses 6, 15, 23, 28 and 42.
 [^20-7]: Literally "it is the beauty of all lands". Also in verse 15.
 [^20-8]: Literally "the detestable things of his eyes". Hebrew *shiqqutsim*, "detestable things", a contemptuous word for idols. Also in verses 8 and 30.
 [^20-9]: Hebrew *gillulim*, a contemptuous word for idols, perhaps related to the word for dung. Also in verses 8, 16, 18, 24, 31 and 39.
 [^20-10]: Leviticus 18:5. Also in verses 13 and 21.
-[^20-11]: Literally "in making every first opening of the womb pass over", the phrase used for child sacrifice (16:21; verse 31). Exodus 13:12 uses the same words for giving every firstborn to Yahweh.
+[^20-11]: Literally "in making every first opening of the womb pass over", the phrase used for child sacrifice (16:21; verse 31). Exodus 13:12 uses the same words for giving every firstborn to the LORD.
 [^20-12]: Literally "the provocation of their offering".
-[^20-13]: Literally "a soothing smell", the phrase used for offerings to Yahweh (6:13). Also in verse 41.
+[^20-13]: Literally "a soothing smell", the phrase used for offerings to the LORD (6:13). Also in verse 41.
 [^20-14]: A play on words: *mah*, "what", *bamah*, "high place", and *ba'im*, "go". Hebrew *bamah*: a place of worship, often on a hilltop.
 [^20-15]: Literally "what comes up in your spirit".
 [^20-16]: As a shepherd counts his sheep, letting them pass one by one under his staff (Leviticus 27:32).
@@ -1433,31 +1433,31 @@
 
 *Status: draft*
 
-**1** The word of Yahweh[^21-1] came to me:
+**1** The word of the LORD[^21-1] came to me:
 
 **2** Son of man,[^21-2] set your face toward the south; preach[^21-3] against the south, and prophesy against the forest of the countryside in the Negev.[^21-4]
 
-**3** Say to the forest of the Negev: Hear the word of Yahweh. This is what the Lord Yahweh[^21-5] says: Look, I am about to set a fire in you, and it will consume every green tree in you and every dry tree. The blazing flame will not be put out, and every face from south to north will be scorched by it.
+**3** Say to the forest of the Negev: Hear the word of the LORD. This is what the Lord GOD[^21-5] says: Look, I am about to set a fire in you, and it will consume every green tree in you and every dry tree. The blazing flame will not be put out, and every face from south to north will be scorched by it.
 
-**4** All people[^21-6] will see that I, Yahweh, have kindled it; it will not be put out.
+**4** All people[^21-6] will see that I, the LORD, have kindled it; it will not be put out.
 
-**5** Then I said, "Ah, Lord Yahweh! They are saying of me, 'Is he not just telling parables?'"
+**5** Then I said, "Ah, Lord GOD! They are saying of me, 'Is he not just telling parables?'"
 
-**6** The word of Yahweh came to me:
+**6** The word of the LORD came to me:
 
 **7** Son of man, set your face toward Jerusalem; preach against the sanctuaries,[^21-7] and prophesy against the land of Israel.
 
-**8** Say to the land of Israel: This is what Yahweh says: Look, I am against you. I will draw my sword from its sheath and cut off from you both righteous and wicked.
+**8** Say to the land of Israel: This is what the LORD says: Look, I am against you. I will draw my sword from its sheath and cut off from you both righteous and wicked.
 
 **9** Because I will cut off from you righteous and wicked, my sword will go out from its sheath against all people from south to north.
 
-**10** All people will know that I, Yahweh, have drawn my sword from its sheath; it will not go back again.
+**10** All people will know that I, the LORD, have drawn my sword from its sheath; it will not go back again.
 
 **11** As for you, son of man, groan! Groan with breaking heart[^21-8] and bitter grief before their eyes.
 
-**12** When they ask you, "Why are you groaning?" you are to say: Because of the news that is coming. Every heart will melt and every hand go limp; every spirit will faint and every knee turn to water.[^21-9] Look, it is coming, and it will happen, declares the Lord Yahweh.
+**12** When they ask you, "Why are you groaning?" you are to say: Because of the news that is coming. Every heart will melt and every hand go limp; every spirit will faint and every knee turn to water.[^21-9] Look, it is coming, and it will happen, declares the Lord GOD.
 
-**13** The word of Yahweh came to me:
+**13** The word of the LORD came to me:
 
 **14** Son of man, prophesy and say: This is what the Lord[^21-10] says: Say: A sword, a sword is sharpened, and polished too.
 
@@ -1467,7 +1467,7 @@
 
 **17** Cry out and wail, son of man, for it is against my people; it is against all the princes of Israel. They are thrown to the sword along with my people. Therefore strike your thigh.[^21-12]
 
-**18** For it is a test. And what if even the scepter that despises does not continue? declares the Lord Yahweh.[^21-13]
+**18** For it is a test. And what if even the scepter that despises does not continue? declares the Lord GOD.[^21-13]
 
 **19** As for you, son of man, prophesy, and strike your hands together. Let the sword strike twice, even three times.[^21-14] It is a sword for the slain, the sword for the great slaughter, which surrounds them,[^21-15]
 
@@ -1475,9 +1475,9 @@
 
 **21** Cut sharply to the right! Turn to the left! Go wherever your edge is directed.[^21-17]
 
-**22** I too will strike my hands together, and I will satisfy my fury.[^21-18] I, Yahweh, have spoken.
+**22** I too will strike my hands together, and I will satisfy my fury.[^21-18] I, the LORD, have spoken.
 
-**23** The word of Yahweh came to me:
+**23** The word of the LORD came to me:
 
 **24** As for you, son of man, mark out two roads for the sword of the king of Babylon to come by. Both of them are to start from the same land. Make a signpost;[^21-19] make it at the head of the road to a city.
 
@@ -1489,15 +1489,15 @@
 
 **28** But to them it will seem a false divination, since they have sworn solemn oaths.[^21-24] But he will bring their guilt to remembrance, so that they will be captured.
 
-**29** Therefore this is what the Lord Yahweh says: Because you have brought your guilt to remembrance, by your open transgressions, so that your sins are seen in all your deeds, because you have been brought to remembrance, you will be taken by force.[^21-25]
+**29** Therefore this is what the Lord GOD says: Because you have brought your guilt to remembrance, by your open transgressions, so that your sins are seen in all your deeds, because you have been brought to remembrance, you will be taken by force.[^21-25]
 
 **30** And you, profane[^21-26] and wicked prince of Israel, whose day has come, the time of final punishment,[^21-27]
 
-**31** this is what the Lord Yahweh says: Remove the turban,[^21-28] take off the crown! Things will not stay as they are.[^21-29] Raise up what is low, and bring down what is high.
+**31** this is what the Lord GOD says: Remove the turban,[^21-28] take off the crown! Things will not stay as they are.[^21-29] Raise up what is low, and bring down what is high.
 
 **32** A ruin, a ruin, a ruin I will make it! This too will not be,[^21-30] until he comes to whom judgment belongs, and I will give it to him.[^21-31]
 
-**33** As for you, son of man, prophesy and say: This is what the Lord Yahweh says about the Ammonites and their taunts: Say: A sword, a sword is drawn for slaughter, polished to consume,[^21-32] to flash like lightning,
+**33** As for you, son of man, prophesy and say: This is what the Lord GOD says about the Ammonites and their taunts: Say: A sword, a sword is drawn for slaughter, polished to consume,[^21-32] to flash like lightning,
 
 **34** while they see false visions for you and divine lies for you,[^21-33] to lay you on the necks of the slain, the wicked whose day has come, the time of final punishment.
 
@@ -1505,18 +1505,18 @@
 
 **36** I will pour out my indignation on you; I will blow on you with the fire of my wrath, and I will hand you over to brutal men,[^21-34] skilled in destruction.
 
-**37** You will be fuel for the fire; your blood will be in the middle of the land. You will no longer be remembered, for I, Yahweh, have spoken.
+**37** You will be fuel for the fire; your blood will be in the middle of the land. You will no longer be remembered, for I, the LORD, have spoken.
 
-[^21-1]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles. Verses 1–5 are 20:45–49 in most English Bibles, and verses 6–37 are 21:1–32.
+[^21-1]: *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles. Verses 1–5 are 20:45–49 in most English Bibles, and verses 6–37 are 21:1–32.
 [^21-2]: Hebrew *ben adam*, "son of man": a human being, a mortal.
 [^21-3]: Literally "drip", that is, let your words flow (Amos 7:16; Micah 2:6). Also in verse 7.
 [^21-4]: The verse uses three words for the south: *teman*, *darom* and *negev*. The Negev is the dry land in the south of Judah. Also in verse 3.
-[^21-5]: Hebrew *Adonai YHWH*, "my Lord Yahweh".
+[^21-5]: Hebrew *Adonai YHWH*, "my Lord YHWH". After "Lord", God's personal name is written GOD in capitals, as in most English Bibles.
 [^21-6]: Literally "all flesh". Also in verses 9–10.
 [^21-7]: Or "the holy places". The Hebrew word is plural.
 [^21-8]: Literally "with breaking of loins".
 [^21-9]: Literally "go water". See 7:17.
-[^21-10]: Hebrew *Adonai*, "the Lord", without the name Yahweh.
+[^21-10]: Hebrew *Adonai*, "the Lord", without the name YHWH.
 [^21-11]: The meaning of these two sentences is very uncertain. Literally "Or shall we rejoice? The rod of my son despises every tree." *Rod* (Hebrew *shevet*) also means "scepter" and "tribe"; *my son* may be the king of Judah (2 Samuel 7:14; Psalm 2:7), and some hear an echo of Genesis 49:9–10. Also in verse 18.
 [^21-12]: A gesture of grief and dismay (Jeremiah 31:19).
 [^21-13]: The meaning of the verse is very uncertain. Literally "For a testing. And what if also a despising rod will not be?"
@@ -1546,11 +1546,11 @@
 
 *Status: draft*
 
-**1** The word of Yahweh[^22-1] came to me:
+**1** The word of the LORD[^22-1] came to me:
 
 **2** As for you, son of man,[^22-2] will you judge? Will you judge the city of bloodshed?[^22-3] Then make known to her all her detestable practices.[^22-4]
 
-**3** Say: This is what the Lord Yahweh[^22-5] says: A city that sheds blood in her midst, so that her time comes, and that makes idols[^22-6] for herself, to defile herself!
+**3** Say: This is what the Lord GOD[^22-5] says: A city that sheds blood in her midst, so that her time comes, and that makes idols[^22-6] for herself, to defile herself!
 
 **4** You have become guilty by the blood you have shed, and you have defiled yourself with the idols you have made. You have brought your days near, and you have come to the end of your years.[^22-7] Therefore I have made you a disgrace to the nations and an object of mockery to all the countries.
 
@@ -1568,29 +1568,29 @@
 
 **11** One man commits a detestable act with his neighbor's wife; another lewdly defiles his daughter-in-law; and another in you violates his sister, his father's daughter.
 
-**12** In you they take bribes to shed blood. You take interest and profit,[^22-13] and you make gain from your neighbors by extortion. And you have forgotten me, declares the Lord Yahweh.
+**12** In you they take bribes to shed blood. You take interest and profit,[^22-13] and you make gain from your neighbors by extortion. And you have forgotten me, declares the Lord GOD.
 
 **13** Look, I strike my hands together[^22-14] at the dishonest gain you have made and at the blood that is in your midst.
 
-**14** Can your heart endure, or can your hands be strong, in the days when I deal with you? I, Yahweh, have spoken, and I will do it.[^22-15]
+**14** Can your heart endure, or can your hands be strong, in the days when I deal with you? I, the LORD, have spoken, and I will do it.[^22-15]
 
 **15** I will disperse you among the nations and scatter you through the countries, and I will put an end to your uncleanness.
 
-**16** You will be profaned through your own doing[^22-16] in the sight of the nations, and you will know that I am Yahweh.
+**16** You will be profaned through your own doing[^22-16] in the sight of the nations, and you will know that I am the LORD.
 
-**17** The word of Yahweh came to me:
+**17** The word of the LORD came to me:
 
 **18** Son of man, the house of Israel has become dross to me. All of them are copper,[^22-17] tin, iron and lead in the furnace; they have become the dross of silver.
 
-**19** Therefore this is what the Lord Yahweh says: Because all of you have become dross, look, I am going to gather you into the middle of Jerusalem.
+**19** Therefore this is what the Lord GOD says: Because all of you have become dross, look, I am going to gather you into the middle of Jerusalem.
 
 **20** As silver, copper, iron, lead and tin are gathered into the middle of a furnace to blow fire on them and melt them, so I will gather you in my anger and in my fury, and I will put you there and melt you.
 
 **21** I will gather you and blow on you with the fire of my wrath, and you will be melted in it.
 
-**22** As silver is melted in a furnace, so you will be melted in it. Then you will know that I, Yahweh, have poured out my fury on you.
+**22** As silver is melted in a furnace, so you will be melted in it. Then you will know that I, the LORD, have poured out my fury on you.
 
-**23** The word of Yahweh came to me:
+**23** The word of the LORD came to me:
 
 **24** Son of man, say to her: You are a land that has not been cleansed, that has had no rain[^22-18] on the day of indignation.
 
@@ -1600,19 +1600,19 @@
 
 **27** Her officials within her are like wolves tearing their prey, shedding blood and destroying lives to get dishonest gain.
 
-**28** Her prophets cover over these deeds with whitewash for them,[^22-22] seeing false visions and divining lies for them, saying, "This is what the Lord Yahweh says," when Yahweh has not spoken.
+**28** Her prophets cover over these deeds with whitewash for them,[^22-22] seeing false visions and divining lies for them, saying, "This is what the Lord GOD says," when the LORD has not spoken.
 
 **29** The people of the land[^22-23] practice extortion and commit robbery. They oppress the poor and needy and extort from the foreigner without justice.
 
 **30** I looked for a man among them who would build up the wall and stand in the breach before me for the land, so that I would not destroy it, but I found no one.
 
-**31** So I have poured out my indignation on them; I have consumed them with the fire of my wrath. I have brought their ways down on their heads, declares the Lord Yahweh.
+**31** So I have poured out my indignation on them; I have consumed them with the fire of my wrath. I have brought their ways down on their heads, declares the Lord GOD.
 
-[^22-1]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^22-1]: *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles.
 [^22-2]: Hebrew *ben adam*, "son of man": a human being, a mortal.
 [^22-3]: Literally "the city of bloods" (24:6, 9).
 [^22-4]: Hebrew *to'evot*, things that are abhorrent, especially in worship. Also in verse 11.
-[^22-5]: Hebrew *Adonai YHWH*, "my Lord Yahweh".
+[^22-5]: Hebrew *Adonai YHWH*, "my Lord YHWH". After "Lord", God's personal name is written GOD in capitals, as in most English Bibles.
 [^22-6]: Hebrew *gillulim*, a contemptuous word for idols, perhaps related to the word for dung. Also in verse 4.
 [^22-7]: Literally "you have come to your years".
 [^22-8]: Literally "each according to his arm".
@@ -1636,7 +1636,7 @@
 
 *Status: draft*
 
-**1** The word of Yahweh[^23-1] came to me:
+**1** The word of the LORD[^23-1] came to me:
 
 **2** Son of man,[^23-2] there were two women, daughters of one mother.
 
@@ -1678,7 +1678,7 @@
 
 **21** So you longed for the lewdness of your youth, when men from Egypt fondled your nipples for the sake of your young breasts.[^23-16]
 
-**22** Therefore, Oholibah, this is what the Lord Yahweh[^23-17] says: Look, I am going to stir up your lovers against you, those from whom you turned away in disgust, and I will bring them against you from every side:
+**22** Therefore, Oholibah, this is what the Lord GOD[^23-17] says: Look, I am going to stir up your lovers against you, those from whom you turned away in disgust, and I will bring them against you from every side:
 
 **23** the Babylonians and all the Chaldeans, Pekod and Shoa and Koa,[^23-18] and all the Assyrians with them, desirable young men, governors and commanders all of them, officers and men of renown,[^23-19] all of them riding on horses.
 
@@ -1690,7 +1690,7 @@
 
 **27** I will put an end to your lewdness and to the prostitution you brought from the land of Egypt. You will not lift up your eyes to them, nor remember Egypt anymore.
 
-**28** For this is what the Lord Yahweh says: Look, I am going to hand you over to those you hate, to those from whom you turned away in disgust.
+**28** For this is what the Lord GOD says: Look, I am going to hand you over to those you hate, to those from whom you turned away in disgust.
 
 **29** They will deal with you in hatred and take away everything you have worked for, and leave you naked and bare. The nakedness of your prostitution will be exposed, your lewdness and your prostitution.
 
@@ -1698,15 +1698,15 @@
 
 **31** You have walked in the way of your sister, so I will put her cup into your hand.
 
-**32** This is what the Lord Yahweh says: You will drink your sister's cup, deep and wide. You will be laughed at and mocked, for it holds so much.[^23-25]
+**32** This is what the Lord GOD says: You will drink your sister's cup, deep and wide. You will be laughed at and mocked, for it holds so much.[^23-25]
 
 **33** You will be filled with drunkenness and sorrow. It is a cup of horror and desolation, the cup of your sister Samaria.
 
-**34** You will drink it and drain it; you will gnaw its broken pieces and tear your breasts. For I have spoken, declares the Lord Yahweh.
+**34** You will drink it and drain it; you will gnaw its broken pieces and tear your breasts. For I have spoken, declares the Lord GOD.
 
-**35** Therefore this is what the Lord Yahweh says: Because you have forgotten me and thrown me behind your back, you too must bear the penalty of your lewdness and your prostitution.
+**35** Therefore this is what the Lord GOD says: Because you have forgotten me and thrown me behind your back, you too must bear the penalty of your lewdness and your prostitution.
 
-**36** Yahweh said to me: Son of man, will you judge Oholah and Oholibah? Then declare to them their detestable practices.[^23-26]
+**36** The LORD said to me: Son of man, will you judge Oholah and Oholibah? Then declare to them their detestable practices.[^23-26]
 
 **37** For they have committed adultery, and blood is on their hands. They have committed adultery with their idols, and they have even offered up to them as food the sons they bore to me.[^23-27]
 
@@ -1726,18 +1726,18 @@
 
 **45** But righteous men will judge them with the sentence for adulteresses and the sentence for women who shed blood, because they are adulteresses and blood is on their hands.
 
-**46** For this is what the Lord Yahweh says: Bring up a mob against them, and hand them over to terror and plunder.
+**46** For this is what the Lord GOD says: Bring up a mob against them, and hand them over to terror and plunder.
 
 **47** The mob will stone them and cut them down with their swords. They will kill their sons and their daughters and burn their houses with fire.
 
 **48** So I will put an end to lewdness in the land, so that all women may take warning and not imitate your lewdness.
 
-**49** They will bring your lewdness down on you, and you will bear the penalty for your sins with your idols. Then you will know that I am the Lord Yahweh.
+**49** They will bring your lewdness down on you, and you will bear the penalty for your sins with your idols. Then you will know that I am the Lord GOD.
 
-[^23-1]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^23-1]: *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles.
 [^23-2]: Hebrew *ben adam*, "son of man": a human being, a mortal.
-[^23-3]: Hebrew *zanah*, "act as a prostitute", a common image for unfaithfulness to Yahweh (6:9). Its nouns, *taznut* and *zenut*, "prostitution", recur through the chapter. Compare chapter 16.
-[^23-4]: *Oholah* means "her tent" and *Oholibah* "my tent is in her", perhaps referring to places of worship: the northern kingdom's own shrines, and Yahweh's temple in Jerusalem.
+[^23-3]: Hebrew *zanah*, "act as a prostitute", a common image for unfaithfulness to the LORD (6:9). Its nouns, *taznut* and *zenut*, "prostitution", recur through the chapter. Compare chapter 16.
+[^23-4]: *Oholah* means "her tent" and *Oholibah* "my tent is in her", perhaps referring to places of worship: the northern kingdom's own shrines, and the LORD's temple in Jerusalem.
 [^23-5]: Literally "under me".
 [^23-6]: Hebrew *qerovim*, "near ones", perhaps "neighbors", or here "warriors". Also in verse 12.
 [^23-7]: Hebrew *gillulim*, a contemptuous word for idols, perhaps related to the word for dung. Also in verses 30, 37, 39 and 49.
@@ -1750,7 +1750,7 @@
 [^23-14]: Hebrew *pilagshim*, usually "concubines", here male lovers; *their* probably refers to the Egyptians.
 [^23-15]: Literally "whose flesh was the flesh of donkeys and whose issue was the issue of horses". *Flesh* here means the sexual organs (16:26).
 [^23-16]: Literally "when they handled, from Egypt, your nipples, for the sake of the breasts of your youth". Some scholars read "to squeeze the breasts of your youth", with a small change to the Hebrew (compare verse 3).
-[^23-17]: Hebrew *Adonai YHWH*, "my Lord Yahweh".
+[^23-17]: Hebrew *Adonai YHWH*, "my Lord YHWH". After "Lord", God's personal name is written GOD in capitals, as in most English Bibles.
 [^23-18]: Peoples of eastern Mesopotamia, subject to Babylon. Pekod is also named in Jeremiah 50:21.
 [^23-19]: Literally "called ones", perhaps "counselors" or "men summoned".
 [^23-20]: Hebrew *hotsen*, a word found only here, of uncertain meaning.
@@ -1770,23 +1770,23 @@
 
 *Status: draft*
 
-**1** In the ninth year, in the tenth month, on the tenth day of the month,[^24-1] the word of Yahweh[^24-2] came to me:
+**1** In the ninth year, in the tenth month, on the tenth day of the month,[^24-1] the word of the LORD[^24-2] came to me:
 
 **2** Son of man,[^24-3] write down the name of the day, this very day. The king of Babylon has laid siege to[^24-4] Jerusalem this very day.
 
-**3** Tell the rebellious house a parable and say to them: This is what the Lord Yahweh[^24-5] says: Put on the pot, put it on, and pour water into it.
+**3** Tell the rebellious house a parable and say to them: This is what the Lord GOD[^24-5] says: Put on the pot, put it on, and pour water into it.
 
 **4** Put into it the pieces of meat, all the good pieces, the thigh and the shoulder. Fill it with the choicest bones.
 
 **5** Take the choicest of the flock, and pile the bones under it.[^24-6] Bring it to a rolling boil, and let its bones cook in it.
 
-**6** Therefore this is what the Lord Yahweh says: Woe to the city of bloodshed,[^24-7] the pot whose rust[^24-8] is in it, whose rust has not gone out of it! Empty it piece by piece; no lot has fallen on it.[^24-9]
+**6** Therefore this is what the Lord GOD says: Woe to the city of bloodshed,[^24-7] the pot whose rust[^24-8] is in it, whose rust has not gone out of it! Empty it piece by piece; no lot has fallen on it.[^24-9]
 
 **7** For the blood she shed is in her midst. She put it on a bare rock; she did not pour it out on the ground to cover it with dust.[^24-10]
 
 **8** To stir up fury and take vengeance, I have put her blood on a bare rock, so that it will not be covered.
 
-**9** Therefore this is what the Lord Yahweh says: Woe to the city of bloodshed! I too will make the pile of wood great.
+**9** Therefore this is what the Lord GOD says: Woe to the city of bloodshed! I too will make the pile of wood great.
 
 **10** Heap on the logs, kindle the fire, cook the meat well, mix in the spices,[^24-11] and let the bones be charred.
 
@@ -1796,9 +1796,9 @@
 
 **13** Your uncleanness is lewdness.[^24-13] Because I tried to cleanse you, but you would not be cleansed from your uncleanness, you will not be clean again until I have satisfied my fury on you.[^24-14]
 
-**14** I, Yahweh, have spoken. It is coming, and I will do it. I will not hold back, I will not spare, and I will not relent. According to your ways and your deeds they will judge you, declares the Lord Yahweh.
+**14** I, the LORD, have spoken. It is coming, and I will do it. I will not hold back, I will not spare, and I will not relent. According to your ways and your deeds they will judge you, declares the Lord GOD.
 
-**15** The word of Yahweh came to me:
+**15** The word of the LORD came to me:
 
 **16** Son of man, look, I am about to take from you the delight of your eyes with a sudden blow,[^24-15] but you must not mourn or weep or shed any tears.
 
@@ -1808,27 +1808,27 @@
 
 **19** The people said to me, "Will you not tell us what these things you are doing mean for us?"
 
-**20** So I said to them, "The word of Yahweh came to me:
+**20** So I said to them, "The word of the LORD came to me:
 
-**21** Say to the house of Israel: This is what the Lord Yahweh says: Look, I am about to profane my sanctuary, the pride of your strength, the delight of your eyes and the longing of your heart.[^24-17] The sons and daughters you left behind will fall by the sword.
+**21** Say to the house of Israel: This is what the Lord GOD says: Look, I am about to profane my sanctuary, the pride of your strength, the delight of your eyes and the longing of your heart.[^24-17] The sons and daughters you left behind will fall by the sword.
 
 **22** And you will do as I have done. You will not cover your upper lip or eat the bread of others.
 
 **23** Your turbans will be on your heads and your sandals on your feet. You will not mourn or weep, but you will waste away because of your guilt and groan to one another.
 
-**24** So Ezekiel will be a sign[^24-18] for you; you will do just as he has done. When this comes, you will know that I am the Lord Yahweh."
+**24** So Ezekiel will be a sign[^24-18] for you; you will do just as he has done. When this comes, you will know that I am the Lord GOD."
 
 **25** As for you, son of man, on the day I take from them their stronghold, their joy and glory, the delight of their eyes and their heart's desire,[^24-19] their sons and their daughters,
 
 **26** on that day a survivor will come to you to bring the news.[^24-20]
 
-**27** On that day your mouth will be opened to the survivor; you will speak and no longer be silent.[^24-21] So you will be a sign for them, and they will know that I am Yahweh.
+**27** On that day your mouth will be opened to the survivor; you will speak and no longer be silent.[^24-21] So you will be a sign for them, and they will know that I am the LORD.
 
 [^24-1]: Probably in January 588 BC. 2 Kings 25:1 and Jeremiah 52:4 give the same date for the beginning of the Babylonian siege of Jerusalem.
-[^24-2]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^24-2]: *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles.
 [^24-3]: Hebrew *ben adam*, "son of man": a human being, a mortal.
 [^24-4]: Literally "has leaned on".
-[^24-5]: Hebrew *Adonai YHWH*, "my Lord Yahweh".
+[^24-5]: Hebrew *Adonai YHWH*, "my Lord YHWH". After "Lord", God's personal name is written GOD in capitals, as in most English Bibles.
 [^24-6]: Literally "and also a pile of the bones under it". Some scholars read "a pile of wood" (compare verse 10), with a small change to the Hebrew.
 [^24-7]: Literally "the city of bloods" (22:2). Also in verse 9.
 [^24-8]: Hebrew *chel'ah*, a word found only in this passage, probably the rust or crust of a copper pot. Also in verses 11–12.
@@ -1850,43 +1850,43 @@
 
 *Status: draft*
 
-**1** The word of Yahweh[^25-1] came to me:
+**1** The word of the LORD[^25-1] came to me:
 
 **2** Son of man,[^25-2] set your face toward the Ammonites and prophesy against them.
 
-**3** Say to the Ammonites: Hear the word of the Lord Yahweh.[^25-3] This is what the Lord Yahweh says: Because you said, "Aha!" over my sanctuary when it was profaned, and over the land of Israel when it was made desolate, and over the house of Judah when they went into exile,[^25-4]
+**3** Say to the Ammonites: Hear the word of the Lord GOD.[^25-3] This is what the Lord GOD says: Because you said, "Aha!" over my sanctuary when it was profaned, and over the land of Israel when it was made desolate, and over the house of Judah when they went into exile,[^25-4]
 
 **4** therefore, look, I am going to hand you over to the people of the east[^25-5] as a possession. They will set up their camps among you and pitch their tents among you. They will eat your fruit and drink your milk.
 
-**5** I will make Rabbah[^25-6] a pasture for camels, and the land of Ammon a resting place for flocks.[^25-7] Then you will know that I am Yahweh.
+**5** I will make Rabbah[^25-6] a pasture for camels, and the land of Ammon a resting place for flocks.[^25-7] Then you will know that I am the LORD.
 
-**6** For this is what the Lord Yahweh says: Because you clapped your hands and stamped your feet and rejoiced with all the contempt in your heart[^25-8] over the land of Israel,
+**6** For this is what the Lord GOD says: Because you clapped your hands and stamped your feet and rejoiced with all the contempt in your heart[^25-8] over the land of Israel,
 
-**7** therefore, look, I have stretched out my hand against you, and I will hand you over as plunder[^25-9] to the nations. I will cut you off from the peoples and make you perish from the countries; I will destroy you. Then you will know that I am Yahweh.
+**7** therefore, look, I have stretched out my hand against you, and I will hand you over as plunder[^25-9] to the nations. I will cut you off from the peoples and make you perish from the countries; I will destroy you. Then you will know that I am the LORD.
 
-**8** This is what the Lord Yahweh says: Because Moab and Seir[^25-10] said, "Look, the house of Judah is like all the other nations,"
+**8** This is what the Lord GOD says: Because Moab and Seir[^25-10] said, "Look, the house of Judah is like all the other nations,"
 
 **9** therefore, look, I am going to lay open the flank of Moab, stripping it of its cities, the cities on its frontier, the glory of the land: Beth-jeshimoth, Baal-meon and Kiriathaim.[^25-11]
 
 **10** I will give it, along with the Ammonites, to the people of the east as a possession, so that the Ammonites will not be remembered among the nations.
 
-**11** And I will carry out judgments on Moab. Then they will know that I am Yahweh.
+**11** And I will carry out judgments on Moab. Then they will know that I am the LORD.
 
-**12** This is what the Lord Yahweh says: Because Edom acted vengefully against the house of Judah, and incurred great guilt by taking revenge on them,
+**12** This is what the Lord GOD says: Because Edom acted vengefully against the house of Judah, and incurred great guilt by taking revenge on them,
 
-**13** therefore this is what the Lord Yahweh says: I will stretch out my hand against Edom and cut off from it both people and animals. I will make it a ruin; from Teman to Dedan[^25-12] they will fall by the sword.
+**13** therefore this is what the Lord GOD says: I will stretch out my hand against Edom and cut off from it both people and animals. I will make it a ruin; from Teman to Dedan[^25-12] they will fall by the sword.
 
-**14** I will lay my vengeance on Edom by the hand of my people Israel, and they will deal with Edom according to my anger and my fury. Then they will know my vengeance, declares the Lord Yahweh.
+**14** I will lay my vengeance on Edom by the hand of my people Israel, and they will deal with Edom according to my anger and my fury. Then they will know my vengeance, declares the Lord GOD.
 
-**15** This is what the Lord Yahweh says: Because the Philistines acted in revenge and took vengeance with contempt in their hearts, destroying with endless hostility,[^25-13]
+**15** This is what the Lord GOD says: Because the Philistines acted in revenge and took vengeance with contempt in their hearts, destroying with endless hostility,[^25-13]
 
-**16** therefore this is what the Lord Yahweh says: Look, I am going to stretch out my hand against the Philistines. I will cut off the Cherethites[^25-14] and destroy the rest of those on the seacoast.
+**16** therefore this is what the Lord GOD says: Look, I am going to stretch out my hand against the Philistines. I will cut off the Cherethites[^25-14] and destroy the rest of those on the seacoast.
 
-**17** I will carry out great vengeance on them with furious punishments. Then they will know that I am Yahweh, when I lay my vengeance on them.
+**17** I will carry out great vengeance on them with furious punishments. Then they will know that I am the LORD, when I lay my vengeance on them.
 
-[^25-1]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^25-1]: *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles.
 [^25-2]: Hebrew *ben adam*, "son of man": a human being, a mortal.
-[^25-3]: Hebrew *Adonai YHWH*, "my Lord Yahweh".
+[^25-3]: Hebrew *Adonai YHWH*, "my Lord YHWH". After "Lord", God's personal name is written GOD in capitals, as in most English Bibles.
 [^25-4]: *You* is feminine singular in verses 3–5, addressing Ammon as a woman, and masculine singular in verses 6–7.
 [^25-5]: Hebrew *bene qedem*, the desert tribes east of the Jordan (Judges 6:3). Also in verse 10.
 [^25-6]: The capital of Ammon; modern Amman (21:25).
@@ -1903,19 +1903,19 @@
 
 *Status: draft*
 
-**1** In the eleventh year, on the first day of the month,[^26-1] the word of Yahweh[^26-2] came to me:
+**1** In the eleventh year, on the first day of the month,[^26-1] the word of the LORD[^26-2] came to me:
 
 **2** Son of man,[^26-3] because Tyre has said about Jerusalem, "Aha! The gateway of the peoples is broken; it has swung open to me.[^26-4] I will be filled, now that she is laid waste,"
 
-**3** therefore this is what the Lord Yahweh[^26-5] says: Look, I am against you, Tyre, and I will bring up many nations against you, as the sea brings up its waves.
+**3** therefore this is what the Lord GOD[^26-5] says: Look, I am against you, Tyre, and I will bring up many nations against you, as the sea brings up its waves.
 
 **4** They will destroy the walls of Tyre and tear down her towers. I will scrape her soil from her and make her a bare rock.[^26-6]
 
-**5** She will become a place for spreading nets in the middle of the sea, for I have spoken, declares the Lord Yahweh. She will become plunder for the nations,
+**5** She will become a place for spreading nets in the middle of the sea, for I have spoken, declares the Lord GOD. She will become plunder for the nations,
 
-**6** and her daughters on the mainland[^26-7] will be killed by the sword. Then they will know that I am Yahweh.
+**6** and her daughters on the mainland[^26-7] will be killed by the sword. Then they will know that I am the LORD.
 
-**7** For this is what the Lord Yahweh says: Look, I am going to bring against Tyre from the north Nebuchadnezzar[^26-8] king of Babylon, king of kings, with horses and chariots, with horsemen and a great army.[^26-9]
+**7** For this is what the Lord GOD says: Look, I am going to bring against Tyre from the north Nebuchadnezzar[^26-8] king of Babylon, king of kings, with horses and chariots, with horsemen and a great army.[^26-9]
 
 **8** He will kill your daughters on the mainland with the sword. He will build a siege wall against you, pile up a ramp against you, and raise a roof of shields[^26-10] against you.
 
@@ -1929,9 +1929,9 @@
 
 **13** I will put an end to the noise of your songs, and the sound of your lyres will be heard no more.
 
-**14** I will make you a bare rock; you will be a place for spreading nets. You will never be rebuilt, for I, Yahweh, have spoken, declares the Lord Yahweh.
+**14** I will make you a bare rock; you will be a place for spreading nets. You will never be rebuilt, for I, the LORD, have spoken, declares the Lord GOD.
 
-**15** This is what the Lord Yahweh says to Tyre: Will not the coastlands shake at the sound of your fall, when the wounded groan, when the slaughter is carried out in your midst?
+**15** This is what the Lord GOD says to Tyre: Will not the coastlands shake at the sound of your fall, when the wounded groan, when the slaughter is carried out in your midst?
 
 **16** Then all the princes of the sea will come down from their thrones, take off their robes and strip off their embroidered clothes. They will clothe themselves with trembling; they will sit on the ground, tremble every moment and be appalled over you.
 
@@ -1939,17 +1939,17 @@
 
 **18** Now the coastlands tremble on the day of your fall; the coastlands by the sea are terrified at your passing."
 
-**19** For this is what the Lord Yahweh says: When I make you a desolate city, like cities that are not inhabited, when I bring up the deep[^26-16] over you and the great waters cover you,
+**19** For this is what the Lord GOD says: When I make you a desolate city, like cities that are not inhabited, when I bring up the deep[^26-16] over you and the great waters cover you,
 
 **20** then I will bring you down with those who go down to the Pit,[^26-17] to the people of long ago. I will make you live in the world below,[^26-18] among ruins from long ago, with those who go down to the Pit, so that you will not be inhabited; and I will give glory in the land of the living.[^26-19]
 
-**21** I will bring you to a dreadful end,[^26-20] and you will be no more. You will be sought, but you will never be found again, declares the Lord Yahweh.
+**21** I will bring you to a dreadful end,[^26-20] and you will be no more. You will be sought, but you will never be found again, declares the Lord GOD.
 
 [^26-1]: The month is not given. The eleventh year is 587 or 586 BC, the year Jerusalem fell (2 Kings 25:2–8).
-[^26-2]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^26-2]: *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles.
 [^26-3]: Hebrew *ben adam*, "son of man": a human being, a mortal.
 [^26-4]: Literally "the doors of the peoples is broken; it has turned to me".
-[^26-5]: Hebrew *Adonai YHWH*, "my Lord Yahweh".
+[^26-5]: Hebrew *Adonai YHWH*, "my Lord YHWH". After "Lord", God's personal name is written GOD in capitals, as in most English Bibles.
 [^26-6]: The name Tyre, Hebrew *Tsor*, means "rock". The city stood on a rocky island off the coast of Phoenicia. Also in verse 14.
 [^26-7]: Literally "her daughters in the field", the towns on the mainland that depended on Tyre. Also in verse 8.
 [^26-8]: Hebrew *Nevukhadre'tsar*, a spelling closer to the Babylonian name *Nabu-kudurri-usur*, used often in Jeremiah and Ezekiel. Elsewhere the name is usually spelled *Nevukhadnetsar*, Nebuchadnezzar. He was king of Babylon from 605 to 562 BC.
@@ -1970,11 +1970,11 @@
 
 *Status: draft*
 
-**1** The word of Yahweh[^27-1] came to me:
+**1** The word of the LORD[^27-1] came to me:
 
 **2** You, son of man,[^27-2] raise a lament[^27-3] over Tyre.
 
-**3** Say to Tyre, who lives at the gateway to the sea,[^27-4] trader to the peoples of many coastlands: This is what the Lord Yahweh[^27-5] says: Tyre, you have said, "I am perfect in beauty."
+**3** Say to Tyre, who lives at the gateway to the sea,[^27-4] trader to the peoples of many coastlands: This is what the Lord GOD[^27-5] says: Tyre, you have said, "I am perfect in beauty."
 
 **4** Your borders are in the heart of the seas; your builders made your beauty perfect.
 
@@ -2042,11 +2042,11 @@
 
 **36** The traders among the peoples hiss at you.[^27-55] You have come to a dreadful end,[^27-56] and you will be no more, forever."
 
-[^27-1]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^27-1]: *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles.
 [^27-2]: Hebrew *ben adam*, "son of man": a human being, a mortal.
 [^27-3]: Hebrew *qinah*, a funeral song. The lament pictures Tyre as a splendid merchant ship that sinks at sea.
 [^27-4]: Literally "at the entrances of the sea": Tyre was an island city with harbors on the coast of Phoenicia.
-[^27-5]: Hebrew *Adonai YHWH*, "my Lord Yahweh".
+[^27-5]: Hebrew *Adonai YHWH*, "my Lord YHWH". After "Lord", God's personal name is written GOD in capitals, as in most English Bibles.
 [^27-6]: Hebrew *luchotayim*, a dual form: perhaps the planks of the ship's two sides.
 [^27-7]: Hebrew *berosh*, a tall conifer: perhaps the juniper or the cypress.
 [^27-8]: The Amorite name of Mount Hermon (Deuteronomy 3:9).
@@ -2103,9 +2103,9 @@
 
 *Status: draft*
 
-**1** The word of Yahweh[^28-1] came to me:
+**1** The word of the LORD[^28-1] came to me:
 
-**2** Son of man,[^28-2] say to the ruler of Tyre: This is what the Lord Yahweh[^28-3] says: Because your heart is proud, and you have said, "I am a god; I sit on the seat of the gods[^28-4] in the heart of the seas," though you are a human being and not a god, and you count your mind as the mind of a god,[^28-5]
+**2** Son of man,[^28-2] say to the ruler of Tyre: This is what the Lord GOD[^28-3] says: Because your heart is proud, and you have said, "I am a god; I sit on the seat of the gods[^28-4] in the heart of the seas," though you are a human being and not a god, and you count your mind as the mind of a god,[^28-5]
 
 **3** look, you are wiser than Daniel![^28-6] No secret is hidden from you.
 
@@ -2113,7 +2113,7 @@
 
 **5** By your great wisdom in trade you have increased your wealth, and your heart has grown proud because of your wealth.
 
-**6** Therefore this is what the Lord Yahweh says: Because you count your mind as the mind of a god,
+**6** Therefore this is what the Lord GOD says: Because you count your mind as the mind of a god,
 
 **7** I am going to bring foreigners against you, the most ruthless of the nations. They will draw their swords against the beauty of your wisdom and defile your splendor.
 
@@ -2121,11 +2121,11 @@
 
 **9** Will you still say, "I am a god," in the presence of the one who kills you? You are a human being and not a god, in the hands of those who strike you down.
 
-**10** You will die the death of the uncircumcised[^28-8] by the hand of foreigners, for I have spoken, declares the Lord Yahweh.
+**10** You will die the death of the uncircumcised[^28-8] by the hand of foreigners, for I have spoken, declares the Lord GOD.
 
-**11** The word of Yahweh came to me:
+**11** The word of the LORD came to me:
 
-**12** Son of man, raise a lament over the king of Tyre and say to him: This is what the Lord Yahweh says: You were the seal of perfection,[^28-9] full of wisdom and perfect in beauty.
+**12** Son of man, raise a lament over the king of Tyre and say to him: This is what the Lord GOD says: You were the seal of perfection,[^28-9] full of wisdom and perfect in beauty.
 
 **13** You were in Eden, the garden of God. Every precious stone was your covering: carnelian, chrysolite and moonstone, beryl, onyx and jasper, lapis lazuli, turquoise and emerald,[^28-10] and gold. The workmanship of your settings and your mountings[^28-11] was in you; on the day you were created they were prepared.
 
@@ -2141,23 +2141,23 @@
 
 **19** All who knew you among the peoples are appalled at you. You have come to a dreadful end,[^28-16] and you will be no more, forever.
 
-**20** The word of Yahweh came to me:
+**20** The word of the LORD came to me:
 
 **21** Son of man, set your face toward Sidon[^28-17] and prophesy against it.
 
-**22** Say: This is what the Lord Yahweh says: Look, I am against you, Sidon, and I will display my glory within you. Then they will know that I am Yahweh, when I carry out judgments on her and show myself holy in her.
+**22** Say: This is what the Lord GOD says: Look, I am against you, Sidon, and I will display my glory within you. Then they will know that I am the LORD, when I carry out judgments on her and show myself holy in her.
 
-**23** I will send plague into her and bloodshed into her streets. The slain will fall within her, by the sword that is against her on every side. Then they will know that I am Yahweh.
+**23** I will send plague into her and bloodshed into her streets. The slain will fall within her, by the sword that is against her on every side. Then they will know that I am the LORD.
 
-**24** The house of Israel will no longer have a prickling brier or a painful thorn among all their neighbors who treat them with contempt. Then they will know that I am the Lord Yahweh.
+**24** The house of Israel will no longer have a prickling brier or a painful thorn among all their neighbors who treat them with contempt. Then they will know that I am the Lord GOD.
 
-**25** This is what the Lord Yahweh says: When I gather the house of Israel from the peoples among whom they have been scattered, I will show myself holy among them in the sight of the nations. They will live in their own land, which I gave to my servant Jacob.
+**25** This is what the Lord GOD says: When I gather the house of Israel from the peoples among whom they have been scattered, I will show myself holy among them in the sight of the nations. They will live in their own land, which I gave to my servant Jacob.
 
-**26** They will live in it securely. They will build houses and plant vineyards and live securely, when I carry out judgments on all their neighbors who treat them with contempt. Then they will know that I am Yahweh their God.
+**26** They will live in it securely. They will build houses and plant vineyards and live securely, when I carry out judgments on all their neighbors who treat them with contempt. Then they will know that I am the LORD their God.
 
-[^28-1]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^28-1]: *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles.
 [^28-2]: Hebrew *ben adam*, "son of man": a human being, a mortal.
-[^28-3]: Hebrew *Adonai YHWH*, "my Lord Yahweh".
+[^28-3]: Hebrew *Adonai YHWH*, "my Lord YHWH". After "Lord", God's personal name is written GOD in capitals, as in most English Bibles.
 [^28-4]: Or "the seat of God". The Hebrew *elohim* can mean God or gods; so also "a god" at the end of the verse and in verse 6.
 [^28-5]: Literally "you have set your heart like the heart of a god". The heart was thought of as the seat of understanding. Also in verse 6.
 [^28-6]: The Hebrew text is written "Danel" but read "Daniel". The written form may refer to Danel, a wise and righteous king of ancient legend, known from texts found at Ugarit in Syria, rather than to the Daniel of the book of Daniel. Compare 14:14, 20.
@@ -2177,23 +2177,23 @@
 
 *Status: draft*
 
-**1** In the tenth year, in the tenth month, on the twelfth day of the month,[^29-1] the word of Yahweh[^29-2] came to me:
+**1** In the tenth year, in the tenth month, on the twelfth day of the month,[^29-1] the word of the LORD[^29-2] came to me:
 
 **2** Son of man,[^29-3] set your face against Pharaoh king of Egypt, and prophesy against him and against all Egypt.
 
-**3** Speak and say: This is what the Lord Yahweh[^29-4] says: Look, I am against you, Pharaoh king of Egypt, the great monster[^29-5] lying in the middle of his streams,[^29-6] who has said, "My Nile is my own; I made it for myself."[^29-7]
+**3** Speak and say: This is what the Lord GOD[^29-4] says: Look, I am against you, Pharaoh king of Egypt, the great monster[^29-5] lying in the middle of his streams,[^29-6] who has said, "My Nile is my own; I made it for myself."[^29-7]
 
 **4** I will put hooks in your jaws and make the fish of your streams stick to your scales. I will haul you up out of your streams, with all the fish of your streams sticking to your scales.
 
 **5** I will leave you in the wilderness, you and all the fish of your streams. You will fall on the open field; you will not be gathered up or collected.[^29-8] I have given you as food to the animals of the earth and the birds of the sky.
 
-**6** Then all the inhabitants of Egypt will know that I am Yahweh. Because they have been a staff of reed[^29-9] for the house of Israel,
+**6** Then all the inhabitants of Egypt will know that I am the LORD. Because they have been a staff of reed[^29-9] for the house of Israel,
 
 **7** when they grasped you by the hand, you splintered and tore open all their shoulders; and when they leaned on you, you broke and made all their backs go rigid.[^29-10]
 
-**8** Therefore this is what the Lord Yahweh says: I am going to bring a sword against you, and I will cut off from you both human beings and animals.
+**8** Therefore this is what the Lord GOD says: I am going to bring a sword against you, and I will cut off from you both human beings and animals.
 
-**9** The land of Egypt will become a desolate waste. Then they will know that I am Yahweh. Because he said, "The Nile is mine; I made it,"
+**9** The land of Egypt will become a desolate waste. Then they will know that I am the LORD. Because he said, "The Nile is mine; I made it,"
 
 **10** therefore, look, I am against you and against your streams. I will make the land of Egypt an utter ruin, a desolate waste, from Migdol to Syene, as far as the border of Cush.[^29-11]
 
@@ -2201,28 +2201,28 @@
 
 **12** I will make the land of Egypt a desolation among desolate lands, and its cities will lie desolate among ruined cities for forty years. I will scatter the Egyptians among the nations and disperse them among the countries.
 
-**13** For this is what the Lord Yahweh says: At the end of forty years I will gather the Egyptians from the peoples among whom they were scattered.
+**13** For this is what the Lord GOD says: At the end of forty years I will gather the Egyptians from the peoples among whom they were scattered.
 
 **14** I will restore the fortunes[^29-12] of Egypt and bring them back to the land of Pathros,[^29-13] the land of their origin. There they will be a lowly kingdom.
 
 **15** It will be the lowliest of the kingdoms, and it will never again exalt itself above the nations. I will make them so few that they will not rule over the nations.
 
-**16** Egypt will never again be the confidence of the house of Israel; it will only bring their guilt to mind, when they turned to them for help.[^29-14] Then they will know that I am the Lord Yahweh.
+**16** Egypt will never again be the confidence of the house of Israel; it will only bring their guilt to mind, when they turned to them for help.[^29-14] Then they will know that I am the Lord GOD.
 
-**17** In the twenty-seventh year, in the first month, on the first day of the month,[^29-15] the word of Yahweh came to me:
+**17** In the twenty-seventh year, in the first month, on the first day of the month,[^29-15] the word of the LORD came to me:
 
 **18** Son of man, Nebuchadnezzar[^29-16] king of Babylon made his army labor hard against Tyre.[^29-17] Every head was rubbed bald, and every shoulder was rubbed raw.[^29-18] Yet he and his army got no wages from Tyre for the labor he had done against it.
 
-**19** Therefore this is what the Lord Yahweh says: I am going to give the land of Egypt to Nebuchadnezzar king of Babylon. He will carry off its wealth,[^29-19] plunder its spoil and seize its loot, and it will be the wages for his army.
+**19** Therefore this is what the Lord GOD says: I am going to give the land of Egypt to Nebuchadnezzar king of Babylon. He will carry off its wealth,[^29-19] plunder its spoil and seize its loot, and it will be the wages for his army.
 
-**20** As his payment for the labor he performed against it, I have given him the land of Egypt, because they did it for me, declares the Lord Yahweh.
+**20** As his payment for the labor he performed against it, I have given him the land of Egypt, because they did it for me, declares the Lord GOD.
 
-**21** On that day I will make a horn[^29-20] sprout for the house of Israel, and I will open your mouth among them.[^29-21] Then they will know that I am Yahweh.
+**21** On that day I will make a horn[^29-20] sprout for the house of Israel, and I will open your mouth among them.[^29-21] Then they will know that I am the LORD.
 
 [^29-1]: In January 587 BC, counting from the exile of King Jehoiachin (1:2). The siege of Jerusalem had begun a year earlier (24:1–2).
-[^29-2]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^29-2]: *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles.
 [^29-3]: Hebrew *ben adam*, "son of man": a human being, a mortal.
-[^29-4]: Hebrew *Adonai YHWH*, "my Lord Yahweh".
+[^29-4]: Hebrew *Adonai YHWH*, "my Lord YHWH". After "Lord", God's personal name is written GOD in capitals, as in most English Bibles.
 [^29-5]: Hebrew *tannim*, a form of *tannin*, a great sea creature or dragon; here probably the crocodile of the Nile (compare 32:2).
 [^29-6]: Hebrew *ye'orim*, the branches and canals of the Nile. *Ye'or*, the word translated "Nile" later in the verse, comes from the Egyptian word for the river.
 [^29-7]: Literally "My Nile is mine, and I made me": either "I made it for myself" or "I made myself".
@@ -2245,31 +2245,31 @@
 
 *Status: draft*
 
-**1** The word of Yahweh[^30-1] came to me:
+**1** The word of the LORD[^30-1] came to me:
 
-**2** Son of man,[^30-2] prophesy and say: This is what the Lord Yahweh[^30-3] says: Wail, "Alas for the day!"
+**2** Son of man,[^30-2] prophesy and say: This is what the Lord GOD[^30-3] says: Wail, "Alas for the day!"
 
-**3** For the day is near, the day of Yahweh is near. It will be a day of clouds, a time of doom for the nations.[^30-4]
+**3** For the day is near, the day of the LORD is near. It will be a day of clouds, a time of doom for the nations.[^30-4]
 
 **4** A sword will come against Egypt, and anguish will be in Cush,[^30-5] when the slain fall in Egypt, and they carry off her wealth,[^30-6] and her foundations are torn down.
 
 **5** Cush, Put and Lud,[^30-7] all the mixed peoples,[^30-8] Kub,[^30-9] and the people of the land of the covenant[^30-10] will fall with them by the sword.
 
-**6** This is what Yahweh says: Those who support Egypt will fall, and her proud strength will come down. From Migdol to Syene[^30-11] they will fall in her by the sword, declares the Lord Yahweh.
+**6** This is what the LORD says: Those who support Egypt will fall, and her proud strength will come down. From Migdol to Syene[^30-11] they will fall in her by the sword, declares the Lord GOD.
 
 **7** They will be desolate among desolate lands, and her cities will lie among ruined cities.
 
-**8** Then they will know that I am Yahweh, when I set fire to Egypt and all her helpers are crushed.
+**8** Then they will know that I am the LORD, when I set fire to Egypt and all her helpers are crushed.
 
 **9** On that day messengers will go out from me in ships to terrify Cush in its complacency. Anguish will come on them on the day of Egypt's doom,[^30-12] for look, it is coming!
 
-**10** This is what the Lord Yahweh says: I will put an end to the hordes[^30-13] of Egypt by the hand of Nebuchadnezzar[^30-14] king of Babylon.
+**10** This is what the Lord GOD says: I will put an end to the hordes[^30-13] of Egypt by the hand of Nebuchadnezzar[^30-14] king of Babylon.
 
 **11** He and his people with him, the most ruthless of the nations, will be brought in to destroy the land. They will draw their swords against Egypt and fill the land with the slain.
 
-**12** I will make the streams[^30-15] dry land and sell the land into the hands of evil men. By the hands of foreigners I will lay waste the land and everything in it. I, Yahweh, have spoken.
+**12** I will make the streams[^30-15] dry land and sell the land into the hands of evil men. By the hands of foreigners I will lay waste the land and everything in it. I, the LORD, have spoken.
 
-**13** This is what the Lord Yahweh says: I will destroy the idols[^30-16] and put an end to the worthless gods[^30-17] of Memphis.[^30-18] There will no longer be a prince from the land of Egypt, and I will put fear in the land of Egypt.
+**13** This is what the Lord GOD says: I will destroy the idols[^30-16] and put an end to the worthless gods[^30-17] of Memphis.[^30-18] There will no longer be a prince from the land of Egypt, and I will put fear in the land of Egypt.
 
 **14** I will make Pathros[^30-19] desolate, set fire to Zoan[^30-20] and carry out judgments on Thebes.[^30-21]
 
@@ -2281,25 +2281,25 @@
 
 **18** In Tehaphnehes[^30-27] the day will grow dark[^30-28] when I break the yokes of Egypt there, and her proud strength comes to an end in her. A cloud will cover her, and her daughters[^30-29] will go into captivity.
 
-**19** So I will carry out judgments on Egypt. Then they will know that I am Yahweh.
+**19** So I will carry out judgments on Egypt. Then they will know that I am the LORD.
 
-**20** In the eleventh year, in the first month, on the seventh day of the month,[^30-30] the word of Yahweh came to me:
+**20** In the eleventh year, in the first month, on the seventh day of the month,[^30-30] the word of the LORD came to me:
 
 **21** Son of man, I have broken the arm of Pharaoh king of Egypt. Look, it has not been bound up for healing; no bandage has been put on it to bind it and make it strong enough to grasp the sword.
 
-**22** Therefore this is what the Lord Yahweh says: Look, I am against Pharaoh king of Egypt. I will break his arms, both the strong one and the broken one, and make the sword fall from his hand.
+**22** Therefore this is what the Lord GOD says: Look, I am against Pharaoh king of Egypt. I will break his arms, both the strong one and the broken one, and make the sword fall from his hand.
 
 **23** I will scatter the Egyptians among the nations and disperse them among the countries.
 
 **24** I will strengthen the arms of the king of Babylon and put my sword in his hand, but I will break the arms of Pharaoh, and he will groan before him with the groans of a man mortally wounded.
 
-**25** I will strengthen the arms of the king of Babylon, but the arms of Pharaoh will drop. Then they will know that I am Yahweh, when I put my sword into the hand of the king of Babylon and he stretches it out against the land of Egypt.
+**25** I will strengthen the arms of the king of Babylon, but the arms of Pharaoh will drop. Then they will know that I am the LORD, when I put my sword into the hand of the king of Babylon and he stretches it out against the land of Egypt.
 
-**26** I will scatter the Egyptians among the nations and disperse them among the countries. Then they will know that I am Yahweh.
+**26** I will scatter the Egyptians among the nations and disperse them among the countries. Then they will know that I am the LORD.
 
-[^30-1]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^30-1]: *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles.
 [^30-2]: Hebrew *ben adam*, "son of man": a human being, a mortal.
-[^30-3]: Hebrew *Adonai YHWH*, "my Lord Yahweh".
+[^30-3]: Hebrew *Adonai YHWH*, "my Lord YHWH". After "Lord", God's personal name is written GOD in capitals, as in most English Bibles.
 [^30-4]: Literally "a time of nations".
 [^30-5]: The region south of Egypt (ancient Nubia). Also in verses 5 and 9.
 [^30-6]: Or "her multitude". Hebrew *hamon*, as in 29:19.
@@ -2332,7 +2332,7 @@
 
 *Status: draft*
 
-**1** In the eleventh year, in the third month, on the first day of the month,[^31-1] the word of Yahweh[^31-2] came to me:
+**1** In the eleventh year, in the third month, on the first day of the month,[^31-1] the word of the LORD[^31-2] came to me:
 
 **2** Son of man,[^31-3] say to Pharaoh king of Egypt and to his hordes:[^31-4] Whom are you like in your greatness?
 
@@ -2350,7 +2350,7 @@
 
 **9** I made it beautiful with its many branches, and all the trees of Eden, which were in the garden of God, envied it.
 
-**10** Therefore this is what the Lord Yahweh[^31-9] says: Because you[^31-10] towered so high, and it set its top among the clouds, and its heart grew proud of its height,
+**10** Therefore this is what the Lord GOD[^31-9] says: Because you[^31-10] towered so high, and it set its top among the clouds, and its heart grew proud of its height,
 
 **11** I handed it over to the ruler of the nations,[^31-11] who was sure to deal with it as its wickedness deserved. I drove it out.
 
@@ -2360,23 +2360,23 @@
 
 **14** This is so that no trees by the waters may tower high or set their tops among the clouds, and no trees that drink water may reach up to them in height. For all of them are given over to death, to the world below,[^31-12] among human beings, with those who go down to the Pit.
 
-**15** This is what the Lord Yahweh says: On the day it went down to Sheol,[^31-13] I brought mourning: I covered the deep over it[^31-14] and held back its rivers, and the mighty waters were stopped. I clothed Lebanon in gloom for it, and all the trees of the field wilted because of it.
+**15** This is what the Lord GOD says: On the day it went down to Sheol,[^31-13] I brought mourning: I covered the deep over it[^31-14] and held back its rivers, and the mighty waters were stopped. I clothed Lebanon in gloom for it, and all the trees of the field wilted because of it.
 
 **16** I made the nations quake at the sound of its fall, when I brought it down to Sheol with those who go down to the Pit. And all the trees of Eden, the choicest and best of Lebanon, all the trees that drink water, were comforted[^31-15] in the world below.
 
 **17** They too went down with it to Sheol, to those killed by the sword, and so did its allies,[^31-16] who lived in its shade among the nations.
 
-**18** Which of the trees of Eden were you like in glory and greatness? Yet you will be brought down with the trees of Eden to the world below. You will lie among the uncircumcised,[^31-17] with those killed by the sword. This is Pharaoh and all his hordes, declares the Lord Yahweh.
+**18** Which of the trees of Eden were you like in glory and greatness? Yet you will be brought down with the trees of Eden to the world below. You will lie among the uncircumcised,[^31-17] with those killed by the sword. This is Pharaoh and all his hordes, declares the Lord GOD.
 
 [^31-1]: In June 587 BC.
-[^31-2]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^31-2]: *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles.
 [^31-3]: Hebrew *ben adam*, "son of man": a human being, a mortal.
 [^31-4]: Or "his multitude". Hebrew *hamon* (29:19). Also in verse 18.
 [^31-5]: Hebrew *Ashshur*. Assyria, once the greatest of empires, had fallen to Babylon a few decades earlier (612–609 BC), and Pharaoh is invited to compare himself with it. Some scholars read *te'ashur*, "a cypress" (27:6), with a small change to the Hebrew, so that the tree is Pharaoh himself.
 [^31-6]: Hebrew *avotim*, "thick boughs" or "clouds". Also in verses 10 and 14.
 [^31-7]: The Hebrew text is written "its branch" but read "its branches".
 [^31-8]: Hebrew *berosh*, a tall conifer: perhaps the juniper or the cypress (27:5).
-[^31-9]: Hebrew *Adonai YHWH*, "my Lord Yahweh".
+[^31-9]: Hebrew *Adonai YHWH*, "my Lord YHWH". After "Lord", God's personal name is written GOD in capitals, as in most English Bibles.
 [^31-10]: The Hebrew moves here from "you" to "it".
 [^31-11]: Hebrew *el goyim*, "the mighty one of the nations", probably the king of Babylon.
 [^31-12]: Hebrew *erets tachtit*, "the land below", the underworld. Also in verses 16 and 18.
@@ -2390,11 +2390,11 @@
 
 *Status: draft*
 
-**1** In the twelfth year, in the twelfth month, on the first day of the month,[^32-1] the word of Yahweh[^32-2] came to me:
+**1** In the twelfth year, in the twelfth month, on the first day of the month,[^32-1] the word of the LORD[^32-2] came to me:
 
 **2** Son of man,[^32-3] raise a lament over Pharaoh king of Egypt and say to him: You likened yourself to a lion among the nations,[^32-4] but you are like a monster[^32-5] in the seas. You thrashed about in your rivers, churned up the water with your feet and muddied their rivers.
 
-**3** This is what the Lord Yahweh[^32-6] says: I will spread my net over you with a company of many peoples, and they will haul you up in my dragnet.
+**3** This is what the Lord GOD[^32-6] says: I will spread my net over you with a company of many peoples, and they will haul you up in my dragnet.
 
 **4** I will throw you on the land; I will fling you on the open field. I will make all the birds of the sky settle on you, and I will fill the animals of the whole earth with you.
 
@@ -2404,25 +2404,25 @@
 
 **7** When I snuff you out, I will cover the sky and darken its stars. I will cover the sun with a cloud, and the moon will not give its light.
 
-**8** All the shining lights in the sky I will darken over you, and I will bring darkness on your land, declares the Lord Yahweh.
+**8** All the shining lights in the sky I will darken over you, and I will bring darkness on your land, declares the Lord GOD.
 
 **9** I will trouble the hearts of many peoples when I bring news of your destruction among the nations,[^32-9] to lands you have not known.
 
 **10** I will make many peoples appalled at you, and their kings will shudder with horror over you when I brandish my sword before them. On the day of your downfall they will tremble every moment, each for his own life.
 
-**11** For this is what the Lord Yahweh says: The sword of the king of Babylon will come against you.
+**11** For this is what the Lord GOD says: The sword of the king of Babylon will come against you.
 
 **12** I will make your hordes[^32-10] fall by the swords of mighty men, all of them the most ruthless of the nations. They will devastate the pride of Egypt, and all her hordes will be destroyed.
 
 **13** I will destroy all her cattle from beside abundant waters. No human foot will muddy them again, and no cattle's hooves will muddy them.
 
-**14** Then I will let their waters settle and make their rivers run like oil, declares the Lord Yahweh.
+**14** Then I will let their waters settle and make their rivers run like oil, declares the Lord GOD.
 
-**15** When I make the land of Egypt a desolation, and the land is stripped of all that fills it, when I strike down all who live in it, then they will know that I am Yahweh.
+**15** When I make the land of Egypt a desolation, and the land is stripped of all that fills it, when I strike down all who live in it, then they will know that I am the LORD.
 
-**16** This is a lament, and they will chant it. The daughters of the nations will chant it; over Egypt and all her hordes they will chant it, declares the Lord Yahweh.
+**16** This is a lament, and they will chant it. The daughters of the nations will chant it; over Egypt and all her hordes they will chant it, declares the Lord GOD.
 
-**17** In the twelfth year, on the fifteenth day of the month,[^32-11] the word of Yahweh came to me:
+**17** In the twelfth year, on the fifteenth day of the month,[^32-11] the word of the LORD came to me:
 
 **18** Son of man, wail over the hordes of Egypt, and bring them down, her and the daughters of mighty nations, to the world below,[^32-12] with those who go down to the Pit.
 
@@ -2450,16 +2450,16 @@
 
 **30** All the princes of the north are there, and all the Sidonians, who went down with the slain in shame, for all the terror their might once caused. They lie uncircumcised with those killed by the sword, and they bear their disgrace with those who go down to the Pit.
 
-**31** Pharaoh will see them, and he will be comforted over all his hordes, Pharaoh and all his army, killed by the sword, declares the Lord Yahweh.
+**31** Pharaoh will see them, and he will be comforted over all his hordes, Pharaoh and all his army, killed by the sword, declares the Lord GOD.
 
-**32** For I spread my terror[^32-21] in the land of the living, but he will be laid among the uncircumcised, with those killed by the sword, Pharaoh and all his hordes, declares the Lord Yahweh.
+**32** For I spread my terror[^32-21] in the land of the living, but he will be laid among the uncircumcised, with those killed by the sword, Pharaoh and all his hordes, declares the Lord GOD.
 
 [^32-1]: In March 585 BC.
-[^32-2]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^32-2]: *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles.
 [^32-3]: Hebrew *ben adam*, "son of man": a human being, a mortal.
 [^32-4]: Or "You were like a lion among the nations". The verb *nidmeta* can also mean "you are destroyed".
 [^32-5]: Hebrew *tannim*, a great sea creature, probably the crocodile (29:3).
-[^32-6]: Hebrew *Adonai YHWH*, "my Lord Yahweh".
+[^32-6]: Hebrew *Adonai YHWH*, "my Lord YHWH". After "Lord", God's personal name is written GOD in capitals, as in most English Bibles.
 [^32-7]: Hebrew *ramutekha*, a word found only here, of uncertain meaning: perhaps "your carcass" or "your heap".
 [^32-8]: Hebrew *tsafatekha*, of uncertain meaning: perhaps "your outflow".
 [^32-9]: Literally "when I bring your breaking among the nations".
@@ -2480,7 +2480,7 @@
 
 *Status: draft*
 
-**1** The word of Yahweh[^33-1] came to me:
+**1** The word of the LORD[^33-1] came to me:
 
 **2** Son of man,[^33-2] speak to your people and say to them: When I bring a sword against a land, and the people of the land take one man from among them and make him their watchman,[^33-3]
 
@@ -2500,7 +2500,7 @@
 
 **10** As for you, son of man, say to the house of Israel: This is what you have been saying: "Our transgressions and our sins weigh on us, and we are wasting away because of them. How then can we live?"
 
-**11** Say to them: As I live, declares the Lord Yahweh,[^33-8] I take no pleasure in the death of the wicked, but rather in the wicked turning from his way and living. Turn back, turn back from your evil ways! Why should you die, house of Israel?
+**11** Say to them: As I live, declares the Lord GOD,[^33-8] I take no pleasure in the death of the wicked, but rather in the wicked turning from his way and living. Turn back, turn back from your evil ways! Why should you die, house of Israel?
 
 **12** As for you, son of man, say to your people: The righteousness of the righteous will not save him on the day he transgresses. As for the wickedness of the wicked, he will not fall because of it on the day he turns from his wickedness. And the righteous will not be able to live by his righteousness on the day he sins.
 
@@ -2522,23 +2522,23 @@
 
 **21** In the twelfth year of our exile, in the tenth month, on the fifth day of the month,[^33-12] a fugitive from Jerusalem came to me and said, "The city has fallen!"[^33-13]
 
-**22** Now the hand of Yahweh had been on me in the evening, before the fugitive came, and he had opened my mouth by the time the man came to me in the morning. So my mouth was opened, and I was no longer silent.[^33-14]
+**22** Now the hand of the LORD had been on me in the evening, before the fugitive came, and he had opened my mouth by the time the man came to me in the morning. So my mouth was opened, and I was no longer silent.[^33-14]
 
-**23** The word of Yahweh came to me:
+**23** The word of the LORD came to me:
 
 **24** Son of man, the people living in these ruins on the soil of Israel are saying, "Abraham was only one man, yet he took possession of the land. But we are many; the land has surely been given to us as our possession."
 
-**25** Therefore say to them: This is what the Lord Yahweh says: You eat meat with the blood,[^33-15] you lift up your eyes to your idols,[^33-16] and you shed blood. Should you then possess the land?
+**25** Therefore say to them: This is what the Lord GOD says: You eat meat with the blood,[^33-15] you lift up your eyes to your idols,[^33-16] and you shed blood. Should you then possess the land?
 
 **26** You rely on your swords,[^33-17] you commit detestable practices,[^33-18] and each of you defiles his neighbor's wife. Should you then possess the land?
 
-**27** Say this to them: This is what the Lord Yahweh says: As I live, those who are in the ruins will fall by the sword; those in the open field I will give to the wild animals to be devoured; and those in the strongholds and the caves will die of plague.
+**27** Say this to them: This is what the Lord GOD says: As I live, those who are in the ruins will fall by the sword; those in the open field I will give to the wild animals to be devoured; and those in the strongholds and the caves will die of plague.
 
 **28** I will make the land a desolate waste, and her proud strength will come to an end. The mountains of Israel will be desolate, with no one passing through.
 
-**29** Then they will know that I am Yahweh, when I make the land a desolate waste because of all the detestable practices they have done.
+**29** Then they will know that I am the LORD, when I make the land a desolate waste because of all the detestable practices they have done.
 
-**30** As for you, son of man, your people are talking about you beside the walls and in the doorways of the houses. They say to one another, each to his brother, "Come and hear what the word is that comes from Yahweh."
+**30** As for you, son of man, your people are talking about you beside the walls and in the doorways of the houses. They say to one another, each to his brother, "Come and hear what the word is that comes from the LORD."
 
 **31** They come to you as people do, and they sit before you as my people and hear your words, but they do not act on them. With their mouths they speak of love,[^33-19] but their hearts go after their own gain.
 
@@ -2546,14 +2546,14 @@
 
 **33** But when it comes, and look, it is coming, they will know that a prophet has been among them.
 
-[^33-1]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^33-1]: *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles.
 [^33-2]: Hebrew *ben adam*, "son of man": a human being, a mortal.
 [^33-3]: Hebrew *tsofeh*, a lookout posted on a city wall to warn of danger (2 Samuel 18:24–27). Also in verses 6 and 7.
 [^33-4]: Hebrew *shofar*, a horn blown as a signal or alarm. Also in verses 4–6.
 [^33-5]: Literally "his blood I will require from the hand of the watchman".
 [^33-6]: Verses 7–9 repeat 3:17–19, with small changes.
 [^33-7]: Literally "his blood I will seek from your hand".
-[^33-8]: Hebrew *Adonai YHWH*, "my Lord Yahweh".
+[^33-8]: Hebrew *Adonai YHWH*, "my Lord YHWH". After "Lord", God's personal name is written GOD in capitals, as in most English Bibles.
 [^33-9]: The Hebrew text is written "all his righteousness" but read "all his righteous deeds".
 [^33-10]: The Hebrew text is written "all his sin" but read "all his sins".
 [^33-11]: Hebrew *lo yittakhen*, "is not measured right", "is not fair". Also in verse 20. The same words are used in 18:25, 29.
@@ -2570,9 +2570,9 @@
 
 *Status: draft*
 
-**1** The word of Yahweh[^34-1] came to me:
+**1** The word of the LORD[^34-1] came to me:
 
-**2** Son of man,[^34-2] prophesy against the shepherds[^34-3] of Israel. Prophesy and say to them, to the shepherds: This is what the Lord Yahweh[^34-4] says: Woe to the shepherds of Israel, who have been feeding themselves! Should not shepherds feed the flock?
+**2** Son of man,[^34-2] prophesy against the shepherds[^34-3] of Israel. Prophesy and say to them, to the shepherds: This is what the Lord GOD[^34-4] says: Woe to the shepherds of Israel, who have been feeding themselves! Should not shepherds feed the flock?
 
 **3** You eat the fat,[^34-5] you clothe yourselves with the wool, and you slaughter the fattened animals, but you do not feed the flock.
 
@@ -2582,15 +2582,15 @@
 
 **6** My sheep wandered over all the mountains and on every high hill. My sheep were scattered over the whole face of the earth, with no one to look for them or search for them.
 
-**7** Therefore, you shepherds, hear the word of Yahweh:
+**7** Therefore, you shepherds, hear the word of the LORD:
 
-**8** As I live, declares the Lord Yahweh, because my flock has become plunder, and my flock has become food for all the wild animals for lack of a shepherd, and my shepherds have not looked for my flock, but the shepherds have fed themselves and have not fed my flock,
+**8** As I live, declares the Lord GOD, because my flock has become plunder, and my flock has become food for all the wild animals for lack of a shepherd, and my shepherds have not looked for my flock, but the shepherds have fed themselves and have not fed my flock,
 
-**9** therefore, you shepherds, hear the word of Yahweh.
+**9** therefore, you shepherds, hear the word of the LORD.
 
-**10** This is what the Lord Yahweh says: Look, I am against the shepherds, and I will demand my flock from their hand.[^34-6] I will stop them from feeding the flock, and the shepherds will no longer feed themselves. I will rescue my flock from their mouths, so that they will no longer be food for them.
+**10** This is what the Lord GOD says: Look, I am against the shepherds, and I will demand my flock from their hand.[^34-6] I will stop them from feeding the flock, and the shepherds will no longer feed themselves. I will rescue my flock from their mouths, so that they will no longer be food for them.
 
-**11** For this is what the Lord Yahweh says: I myself will search for my flock and look after them.
+**11** For this is what the Lord GOD says: I myself will search for my flock and look after them.
 
 **12** As a shepherd looks after his flock on the day he is among his scattered sheep, so I will look after my flock. I will rescue them from all the places where they were scattered on a day of cloud and thick darkness.
 
@@ -2598,17 +2598,17 @@
 
 **14** I will feed them in good pasture, and their grazing land will be on the high mountains of Israel. There they will lie down in good grazing land, and they will feed on rich pasture on the mountains of Israel.
 
-**15** I myself will shepherd my flock, and I myself will make them lie down, declares the Lord Yahweh.
+**15** I myself will shepherd my flock, and I myself will make them lie down, declares the Lord GOD.
 
 **16** I will search for the lost, bring back the strays, bind up the injured and strengthen the sick, but the fat and the strong I will destroy.[^34-7] I will shepherd the flock with justice.
 
-**17** As for you, my flock, this is what the Lord Yahweh says: I am going to judge between one sheep and another, between the rams and the male goats.
+**17** As for you, my flock, this is what the Lord GOD says: I am going to judge between one sheep and another, between the rams and the male goats.
 
 **18** Is it not enough for you to feed on the good pasture, that you must trample the rest of your pasture with your feet? Is it not enough for you to drink the clear water, that you must muddy the rest with your feet?
 
 **19** And my flock must feed on what your feet have trampled and drink what your feet have muddied.
 
-**20** Therefore this is what the Lord Yahweh says to them: I myself will judge between the fat sheep and the lean sheep.
+**20** Therefore this is what the Lord GOD says to them: I myself will judge between the fat sheep and the lean sheep.
 
 **21** Because you push with flank and shoulder, and butt all the weak with your horns until you have scattered them far away,
 
@@ -2616,26 +2616,26 @@
 
 **23** I will set over them one shepherd, my servant David,[^34-8] and he will feed them. He will feed them and be their shepherd.
 
-**24** I, Yahweh, will be their God, and my servant David will be prince[^34-9] among them. I, Yahweh, have spoken.
+**24** I, the LORD, will be their God, and my servant David will be prince[^34-9] among them. I, the LORD, have spoken.
 
 **25** I will make a covenant of peace with them and rid the land of savage beasts, so that they may live securely in the wilderness and sleep in the forests.
 
 **26** I will make them and the places around my hill a blessing. I will send down the rain in its season; there will be showers of blessing.
 
-**27** The trees of the field will yield their fruit, and the land will yield its produce, and they will be secure in their land. Then they will know that I am Yahweh, when I break the bars of their yoke and rescue them from the hand of those who enslaved them.
+**27** The trees of the field will yield their fruit, and the land will yield its produce, and they will be secure in their land. Then they will know that I am the LORD, when I break the bars of their yoke and rescue them from the hand of those who enslaved them.
 
 **28** They will no longer be plunder for the nations, and the wild animals of the land will not devour them. They will live securely, and no one will make them afraid.
 
 **29** I will raise up for them a planting of renown,[^34-10] and they will no longer be swept away by famine in the land, or bear the scorn of the nations any more.
 
-**30** Then they will know that I, Yahweh their God, am with them, and that they, the house of Israel, are my people, declares the Lord Yahweh.
+**30** Then they will know that I, the LORD their God, am with them, and that they, the house of Israel, are my people, declares the Lord GOD.
 
-**31** You are my flock, the flock of my pasture. You are human beings,[^34-11] and I am your God, declares the Lord Yahweh.
+**31** You are my flock, the flock of my pasture. You are human beings,[^34-11] and I am your God, declares the Lord GOD.
 
-[^34-1]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^34-1]: *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles.
 [^34-2]: Hebrew *ben adam*, "son of man": a human being, a mortal.
 [^34-3]: That is, the rulers of Israel, its kings and leaders. Kings in the ancient Near East were often called shepherds of their people (Jeremiah 23:1–4).
-[^34-4]: Hebrew *Adonai YHWH*, "my Lord Yahweh".
+[^34-4]: Hebrew *Adonai YHWH*, "my Lord YHWH". After "Lord", God's personal name is written GOD in capitals, as in most English Bibles.
 [^34-5]: The same consonants can be read *chalav*, "the milk".
 [^34-6]: That is, I will hold them responsible for my flock.
 [^34-7]: The Septuagint reads "I will watch over", which differs by one similar letter in Hebrew.
@@ -2648,40 +2648,40 @@
 
 *Status: draft*
 
-**1** The word of Yahweh[^35-1] came to me:
+**1** The word of the LORD[^35-1] came to me:
 
 **2** Son of man,[^35-2] set your face against Mount Seir[^35-3] and prophesy against it.
 
-**3** Say to it: This is what the Lord Yahweh[^35-4] says: Look, I am against you, Mount Seir. I will stretch out my hand against you and make you a desolate waste.
+**3** Say to it: This is what the Lord GOD[^35-4] says: Look, I am against you, Mount Seir. I will stretch out my hand against you and make you a desolate waste.
 
-**4** I will lay your cities in ruins, and you will become a desolation. Then you will know that I am Yahweh.
+**4** I will lay your cities in ruins, and you will become a desolation. Then you will know that I am the LORD.
 
 **5** Because you have kept up an ancient hostility and handed the Israelites over to the power of the sword at the time of their disaster, at the time of their final punishment,[^35-5]
 
-**6** therefore, as I live, declares the Lord Yahweh, I will hand you over to bloodshed,[^35-6] and bloodshed will pursue you. Since you did not hate bloodshed,[^35-7] bloodshed will pursue you.
+**6** therefore, as I live, declares the Lord GOD, I will hand you over to bloodshed,[^35-6] and bloodshed will pursue you. Since you did not hate bloodshed,[^35-7] bloodshed will pursue you.
 
 **7** I will make Mount Seir a desolate waste, and I will cut off from it all who come and go.
 
 **8** I will fill its mountains with its slain. On your hills and in your valleys and in all your ravines, those killed by the sword will fall.
 
-**9** I will make you a desolation forever, and your cities will never be restored.[^35-8] Then you will know that I am Yahweh.
+**9** I will make you a desolation forever, and your cities will never be restored.[^35-8] Then you will know that I am the LORD.
 
-**10** Because you said, "These two nations and these two lands will be mine, and we will take possession of them," though Yahweh was there,
+**10** Because you said, "These two nations and these two lands will be mine, and we will take possession of them," though the LORD was there,
 
-**11** therefore, as I live, declares the Lord Yahweh, I will deal with you according to the anger and the jealousy you showed in your hatred against them. I will make myself known among them when I judge you.
+**11** therefore, as I live, declares the Lord GOD, I will deal with you according to the anger and the jealousy you showed in your hatred against them. I will make myself known among them when I judge you.
 
-**12** Then you will know that I, Yahweh, have heard all the contemptuous things you said against the mountains of Israel: "They are laid waste; they have been given to us to devour."
+**12** Then you will know that I, the LORD, have heard all the contemptuous things you said against the mountains of Israel: "They are laid waste; they have been given to us to devour."
 
 **13** You boasted against me with your mouth and heaped up your words against me. I heard it.
 
-**14** This is what the Lord Yahweh says: While the whole earth rejoices,[^35-9] I will make you a desolation.
+**14** This is what the Lord GOD says: While the whole earth rejoices,[^35-9] I will make you a desolation.
 
-**15** As you rejoiced over the inheritance of the house of Israel because it was laid waste, so I will do to you. You will be a desolation, Mount Seir, and all Edom, all of it. Then they will know that I am Yahweh.
+**15** As you rejoiced over the inheritance of the house of Israel because it was laid waste, so I will do to you. You will be a desolation, Mount Seir, and all Edom, all of it. Then they will know that I am the LORD.
 
-[^35-1]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^35-1]: *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles.
 [^35-2]: Hebrew *ben adam*, "son of man": a human being, a mortal.
 [^35-3]: The mountain country of Edom, south and east of the Dead Sea (Genesis 36:8).
-[^35-4]: Hebrew *Adonai YHWH*, "my Lord Yahweh".
+[^35-4]: Hebrew *Adonai YHWH*, "my Lord YHWH". After "Lord", God's personal name is written GOD in capitals, as in most English Bibles.
 [^35-5]: Literally "at the time of the guilt of the end", the same phrase as in 21:30, 34 (21:25, 29 in most English Bibles).
 [^35-6]: Literally "I will make you into blood". The Hebrew *dam*, "blood", sounds like *Edom*. Also later in the verse.
 [^35-7]: Literally "if you did not hate blood". The meaning is uncertain.
@@ -2692,19 +2692,19 @@
 
 *Status: draft*
 
-**1** As for you, son of man,[^36-1] prophesy to the mountains of Israel and say: Mountains of Israel, hear the word of Yahweh.[^36-2]
+**1** As for you, son of man,[^36-1] prophesy to the mountains of Israel and say: Mountains of Israel, hear the word of the LORD.[^36-2]
 
-**2** This is what the Lord Yahweh[^36-3] says: Because the enemy has said of you, "Aha! The ancient heights[^36-4] have become our possession,"
+**2** This is what the Lord GOD[^36-3] says: Because the enemy has said of you, "Aha! The ancient heights[^36-4] have become our possession,"
 
-**3** therefore prophesy and say: This is what the Lord Yahweh says: Because, yes, because they made you desolate and crushed you from every side, so that you became the possession of the rest of the nations, and you have become the talk of gossips and the slander of the people,[^36-5]
+**3** therefore prophesy and say: This is what the Lord GOD says: Because, yes, because they made you desolate and crushed you from every side, so that you became the possession of the rest of the nations, and you have become the talk of gossips and the slander of the people,[^36-5]
 
-**4** therefore, mountains of Israel, hear the word of the Lord Yahweh. This is what the Lord Yahweh says to the mountains and the hills, to the ravines and the valleys, to the desolate ruins and the abandoned cities that have become plunder and a mockery to the rest of the nations all around,
+**4** therefore, mountains of Israel, hear the word of the Lord GOD. This is what the Lord GOD says to the mountains and the hills, to the ravines and the valleys, to the desolate ruins and the abandoned cities that have become plunder and a mockery to the rest of the nations all around,
 
-**5** therefore this is what the Lord Yahweh says: Surely in the fire of my jealousy I have spoken against the rest of the nations and against all Edom, who with wholehearted joy and utter contempt took my land as their own possession, so that its pastureland would be plunder.[^36-6]
+**5** therefore this is what the Lord GOD says: Surely in the fire of my jealousy I have spoken against the rest of the nations and against all Edom, who with wholehearted joy and utter contempt took my land as their own possession, so that its pastureland would be plunder.[^36-6]
 
-**6** Therefore prophesy concerning the land of Israel, and say to the mountains and the hills, to the ravines and the valleys: This is what the Lord Yahweh says: Look, I have spoken in my jealousy and my wrath, because you have borne the scorn of the nations.
+**6** Therefore prophesy concerning the land of Israel, and say to the mountains and the hills, to the ravines and the valleys: This is what the Lord GOD says: Look, I have spoken in my jealousy and my wrath, because you have borne the scorn of the nations.
 
-**7** Therefore this is what the Lord Yahweh says: I raise my hand,[^36-7] swearing that the nations around you will themselves bear their scorn.
+**7** Therefore this is what the Lord GOD says: I raise my hand,[^36-7] swearing that the nations around you will themselves bear their scorn.
 
 **8** But you, mountains of Israel, will put out your branches and bear your fruit for my people Israel, for they will soon come home.
 
@@ -2712,17 +2712,17 @@
 
 **10** I will multiply people on you, the whole house of Israel, all of it. The cities will be inhabited and the ruins rebuilt.
 
-**11** I will multiply human beings and animals on you, and they will increase and be fruitful. I will settle you as you were in former times and do you more good than at the beginning. Then you will know that I am Yahweh.
+**11** I will multiply human beings and animals on you, and they will increase and be fruitful. I will settle you as you were in former times and do you more good than at the beginning. Then you will know that I am the LORD.
 
 **12** I will make people walk on you, my people Israel. They will possess you, and you will be their inheritance, and you will never again rob them of their children.
 
-**13** This is what the Lord Yahweh says: Because people say to you, "You devour people, and you rob your nations[^36-8] of their children,"
+**13** This is what the Lord GOD says: Because people say to you, "You devour people, and you rob your nations[^36-8] of their children,"
 
-**14** therefore you will no longer devour people or rob[^36-9] your nations of their children, declares the Lord Yahweh.
+**14** therefore you will no longer devour people or rob[^36-9] your nations of their children, declares the Lord GOD.
 
-**15** I will no longer let you hear the scorn of the nations, and you will no longer bear the reproach of the peoples or make your nations stumble, declares the Lord Yahweh.
+**15** I will no longer let you hear the scorn of the nations, and you will no longer bear the reproach of the peoples or make your nations stumble, declares the Lord GOD.
 
-**16** The word of Yahweh came to me:
+**16** The word of the LORD came to me:
 
 **17** Son of man, when the house of Israel lived on their own soil, they defiled it by their ways and their deeds. Their way before me was like the impurity of a woman in her period.[^36-10]
 
@@ -2730,13 +2730,13 @@
 
 **19** I scattered them among the nations, and they were dispersed among the countries. I judged them according to their ways and their deeds.
 
-**20** But when they came to the nations, wherever they went, they profaned my holy name, because it was said of them, "These are the people of Yahweh, and yet they had to leave his land."
+**20** But when they came to the nations, wherever they went, they profaned my holy name, because it was said of them, "These are the people of the LORD, and yet they had to leave his land."
 
 **21** I was concerned for my holy name, which the house of Israel had profaned among the nations where they went.
 
-**22** Therefore say to the house of Israel: This is what the Lord Yahweh says: It is not for your sake that I am about to act, house of Israel, but for the sake of my holy name, which you have profaned among the nations where you went.
+**22** Therefore say to the house of Israel: This is what the Lord GOD says: It is not for your sake that I am about to act, house of Israel, but for the sake of my holy name, which you have profaned among the nations where you went.
 
-**23** I will show the holiness of my great name, which has been profaned among the nations, which you have profaned among them. Then the nations will know that I am Yahweh, declares the Lord Yahweh, when I show myself holy through you before their eyes.[^36-12]
+**23** I will show the holiness of my great name, which has been profaned among the nations, which you have profaned among them. Then the nations will know that I am the LORD, declares the Lord GOD, when I show myself holy through you before their eyes.[^36-12]
 
 **24** I will take you from the nations and gather you from all the countries, and I will bring you into your own land.
 
@@ -2754,23 +2754,23 @@
 
 **31** Then you will remember your evil ways and your deeds that were not good, and you will loathe yourselves[^36-14] for your guilt and your detestable practices.
 
-**32** It is not for your sake that I am acting, declares the Lord Yahweh; let that be known to you. Be ashamed and humiliated because of your ways, house of Israel.
+**32** It is not for your sake that I am acting, declares the Lord GOD; let that be known to you. Be ashamed and humiliated because of your ways, house of Israel.
 
-**33** This is what the Lord Yahweh says: On the day I cleanse you from all your guilt, I will resettle the cities, and the ruins will be rebuilt.
+**33** This is what the Lord GOD says: On the day I cleanse you from all your guilt, I will resettle the cities, and the ruins will be rebuilt.
 
 **34** The desolate land will be farmed, instead of lying desolate in the sight of all who pass by.
 
 **35** They will say, "This land that was desolate has become like the garden of Eden, and the cities that were ruined, desolate and torn down are fortified and inhabited."
 
-**36** Then the nations that are left around you will know that I, Yahweh, have rebuilt what was torn down and replanted what was desolate. I, Yahweh, have spoken, and I will do it.[^36-15]
+**36** Then the nations that are left around you will know that I, the LORD, have rebuilt what was torn down and replanted what was desolate. I, the LORD, have spoken, and I will do it.[^36-15]
 
-**37** This is what the Lord Yahweh says: Once more I will let the house of Israel ask me[^36-16] to do this for them: I will multiply their people like a flock.
+**37** This is what the Lord GOD says: Once more I will let the house of Israel ask me[^36-16] to do this for them: I will multiply their people like a flock.
 
-**38** Like the flock for sacrifices,[^36-17] like the flock of Jerusalem at her appointed festivals, so the ruined cities will be filled with flocks of people. Then they will know that I am Yahweh.
+**38** Like the flock for sacrifices,[^36-17] like the flock of Jerusalem at her appointed festivals, so the ruined cities will be filled with flocks of people. Then they will know that I am the LORD.
 
 [^36-1]: Hebrew *ben adam*, "son of man": a human being, a mortal.
-[^36-2]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
-[^36-3]: Hebrew *Adonai YHWH*, "my Lord Yahweh".
+[^36-2]: *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles.
+[^36-3]: Hebrew *Adonai YHWH*, "my Lord YHWH". After "Lord", God's personal name is written GOD in capitals, as in most English Bibles.
 [^36-4]: Hebrew *bamot*, "heights", the word used elsewhere for the high places of worship (6:3).
 [^36-5]: Literally "you have been taken up on the lip of the tongue and the whispering of the people".
 [^36-6]: The meaning of the last words is uncertain. Literally "for the sake of its pastureland for plunder", or "to drive it out as plunder".
@@ -2779,7 +2779,7 @@
 [^36-9]: The Hebrew text is written "make … stumble" but read "rob … of their children".
 [^36-10]: Hebrew *niddah*, the impurity of menstruation (Leviticus 15:19–24).
 [^36-11]: Hebrew *gillulim*, a contemptuous word for idols, perhaps related to the word for dung. Also in verse 25.
-[^36-12]: The oldest surviving manuscript of the Septuagint for Ezekiel, Papyrus 967 (about AD 200), does not have the rest of this verse after "I am Yahweh", or verses 24–38. It also places chapter 37 after chapters 38–39.
+[^36-12]: The oldest surviving manuscript of the Septuagint for Ezekiel, Papyrus 967 (about AD 200), does not have the rest of this verse after "I am the LORD", or verses 24–38. It also places chapter 37 after chapters 38–39.
 [^36-13]: Or "my spirit". Hebrew *ruach*, "spirit, wind, breath", as in verse 26.
 [^36-14]: Literally "loathe your faces".
 [^36-15]: Literally "and I have done it".
@@ -2790,35 +2790,35 @@
 
 *Status: draft*
 
-**1** The hand of Yahweh[^37-1] was on me, and he brought me out by the Spirit[^37-2] of Yahweh and set me down in the middle of the valley.[^37-3] It was full of bones.
+**1** The hand of the LORD[^37-1] was on me, and he brought me out by the Spirit[^37-2] of the LORD and set me down in the middle of the valley.[^37-3] It was full of bones.
 
 **2** He led me all around among them, and there were very many of them on the floor of the valley, and they were very dry.
 
-**3** He said to me, "Son of man,[^37-4] can these bones live?" I said, "Lord Yahweh,[^37-5] you know."
+**3** He said to me, "Son of man,[^37-4] can these bones live?" I said, "Lord GOD,[^37-5] you know."
 
-**4** Then he said to me, "Prophesy over these bones and say to them, 'Dry bones, hear the word of Yahweh.
+**4** Then he said to me, "Prophesy over these bones and say to them, 'Dry bones, hear the word of the LORD.
 
-**5** This is what the Lord Yahweh says to these bones: I am going to make breath enter you, and you will come to life.
+**5** This is what the Lord GOD says to these bones: I am going to make breath enter you, and you will come to life.
 
-**6** I will put sinews on you, make flesh grow on you, cover you with skin and put breath in you, and you will come to life. Then you will know that I am Yahweh.'"
+**6** I will put sinews on you, make flesh grow on you, cover you with skin and put breath in you, and you will come to life. Then you will know that I am the LORD.'"
 
 **7** So I prophesied as I had been commanded. As I was prophesying, there was a noise, a rattling,[^37-6] and the bones came together, bone to its bone.
 
 **8** I looked, and there were sinews on them, and flesh had grown, and skin had covered them over; but there was no breath in them.
 
-**9** Then he said to me, "Prophesy to the breath; prophesy, son of man, and say to the breath, 'This is what the Lord Yahweh says: Come from the four winds, breath, and breathe into these slain, so that they may live.'"
+**9** Then he said to me, "Prophesy to the breath; prophesy, son of man, and say to the breath, 'This is what the Lord GOD says: Come from the four winds, breath, and breathe into these slain, so that they may live.'"
 
 **10** So I prophesied as he commanded me, and the breath came into them. They came to life and stood on their feet, a very great army.
 
 **11** Then he said to me, "Son of man, these bones are the whole house of Israel. Look, they are saying, 'Our bones are dried up, and our hope is gone. We are cut off completely.'
 
-**12** Therefore prophesy and say to them, 'This is what the Lord Yahweh says: I am going to open your graves and bring you up from your graves, my people, and I will bring you into the land of Israel.
+**12** Therefore prophesy and say to them, 'This is what the Lord GOD says: I am going to open your graves and bring you up from your graves, my people, and I will bring you into the land of Israel.
 
-**13** Then you will know that I am Yahweh, when I open your graves and bring you up from your graves, my people.
+**13** Then you will know that I am the LORD, when I open your graves and bring you up from your graves, my people.
 
-**14** I will put my Spirit in you, and you will come to life, and I will settle you in your own land. Then you will know that I, Yahweh, have spoken, and I will do it,[^37-7] declares Yahweh.'"
+**14** I will put my Spirit in you, and you will come to life, and I will settle you in your own land. Then you will know that I, the LORD, have spoken, and I will do it,[^37-7] declares the LORD.'"
 
-**15** The word of Yahweh came to me:
+**15** The word of the LORD came to me:
 
 **16** "As for you, son of man, take a stick[^37-8] and write on it, 'For Judah, and for the Israelites, his companions.'[^37-9] Then take another stick and write on it, 'For Joseph, the stick of Ephraim, and all the house of Israel, his companions.'
 
@@ -2826,11 +2826,11 @@
 
 **18** When your people say to you, 'Won't you tell us what you mean by these?'
 
-**19** say to them, 'This is what the Lord Yahweh says: I am going to take the stick of Joseph, which is in the hand of Ephraim, and the tribes of Israel, his companions, and I will put them together with the stick of Judah. I will make them into one stick, and they will be one in my hand.'
+**19** say to them, 'This is what the Lord GOD says: I am going to take the stick of Joseph, which is in the hand of Ephraim, and the tribes of Israel, his companions, and I will put them together with the stick of Judah. I will make them into one stick, and they will be one in my hand.'
 
 **20** The sticks you write on are to be in your hand before their eyes.
 
-**21** Then say to them, 'This is what the Lord Yahweh says: I am going to take the Israelites from among the nations where they have gone. I will gather them from all around and bring them into their own land.
+**21** Then say to them, 'This is what the Lord GOD says: I am going to take the Israelites from among the nations where they have gone. I will gather them from all around and bring them into their own land.
 
 **22** I will make them one nation in the land, on the mountains of Israel, and one king will be king over all of them. They will no longer be[^37-10] two nations, and they will never again be divided into two kingdoms.
 
@@ -2844,13 +2844,13 @@
 
 **27** My dwelling place[^37-17] will be with them. I will be their God, and they will be my people.
 
-**28** Then the nations will know that I am Yahweh, who makes Israel holy, when my sanctuary is among them forever.'"
+**28** Then the nations will know that I am the LORD, who makes Israel holy, when my sanctuary is among them forever.'"
 
-[^37-1]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
-[^37-2]: Or "by a spirit from Yahweh". Hebrew *ruach* means "spirit", "wind" and "breath", and this chapter uses it in all three senses: "breath" in verses 5–10, "winds" in verse 9 and "my Spirit" in verse 14.
+[^37-1]: *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles.
+[^37-2]: Or "by a spirit from the LORD". Hebrew *ruach* means "spirit", "wind" and "breath", and this chapter uses it in all three senses: "breath" in verses 5–10, "winds" in verse 9 and "my Spirit" in verse 14.
 [^37-3]: Or "the plain". Hebrew *biq'ah*, a broad valley (3:22–23). Also in verse 2.
 [^37-4]: Hebrew *ben adam*, "son of man": a human being, a mortal.
-[^37-5]: Hebrew *Adonai YHWH*, "my Lord Yahweh".
+[^37-5]: Hebrew *Adonai YHWH*, "my Lord YHWH". After "Lord", God's personal name is written GOD in capitals, as in most English Bibles.
 [^37-6]: Or "a quaking". Hebrew *ra'ash*.
 [^37-7]: Literally "and I have done it".
 [^37-8]: Hebrew *ets*, "wood, tree": here a stick, or perhaps a wooden tablet for writing. Also in verses 17, 19 and 20.
@@ -2868,11 +2868,11 @@
 
 *Status: draft*
 
-**1** The word of Yahweh[^38-1] came to me:
+**1** The word of the LORD[^38-1] came to me:
 
 **2** Son of man,[^38-2] set your face toward Gog,[^38-3] of the land of Magog, the chief prince[^38-4] of Meshech and Tubal,[^38-5] and prophesy against him.
 
-**3** Say: This is what the Lord Yahweh[^38-6] says: Look, I am against you, Gog, chief prince of Meshech and Tubal.
+**3** Say: This is what the Lord GOD[^38-6] says: Look, I am against you, Gog, chief prince of Meshech and Tubal.
 
 **4** I will turn you around, put hooks in your jaws, and bring you out with all your army, horses and horsemen, all of them in full armor, a great company with large shield and small shield, all of them wielding swords.
 
@@ -2886,7 +2886,7 @@
 
 **9** You will go up and come like a storm; you will be like a cloud covering the land, you and all your troops and many peoples with you.
 
-**10** This is what the Lord Yahweh says: On that day thoughts will come into your mind, and you will devise an evil plan.
+**10** This is what the Lord GOD says: On that day thoughts will come into your mind, and you will devise an evil plan.
 
 **11** You will say, "I will go up against a land of open villages. I will come against a quiet people who live securely, all of them living without walls, with no bars or gates,"
 
@@ -2894,32 +2894,32 @@
 
 **13** Sheba and Dedan, and the merchants of Tarshish and all its young lions,[^38-13] will say to you, "Have you come to seize spoil? Have you gathered your company to carry off plunder, to carry away silver and gold, to take livestock and goods, to seize great spoil?"
 
-**14** Therefore prophesy, son of man, and say to Gog: This is what the Lord Yahweh says: On that day, when my people Israel are living securely, will you not take notice?
+**14** Therefore prophesy, son of man, and say to Gog: This is what the Lord GOD says: On that day, when my people Israel are living securely, will you not take notice?
 
 **15** You will come from your place in the far reaches of the north, you and many peoples with you, all of them riding horses, a great company, a mighty army.
 
 **16** You will come up against my people Israel like a cloud covering the land. In the latter days[^38-14] I will bring you against my land, so that the nations may know me, when I show myself holy through you, Gog, before their eyes.
 
-**17** This is what the Lord Yahweh says: Are you the one I spoke of in former days through my servants the prophets of Israel, who prophesied in those days, for years, that I would bring you against them?
+**17** This is what the Lord GOD says: Are you the one I spoke of in former days through my servants the prophets of Israel, who prophesied in those days, for years, that I would bring you against them?
 
-**18** On that day, the day when Gog comes against the land of Israel, declares the Lord Yahweh, my wrath will flare up in my anger.[^38-15]
+**18** On that day, the day when Gog comes against the land of Israel, declares the Lord GOD, my wrath will flare up in my anger.[^38-15]
 
 **19** In my jealousy, in the fire of my fury, I declare that on that day there will be a great earthquake in the land of Israel.
 
 **20** The fish of the sea, the birds of the sky, the animals of the field, every creature that creeps on the ground, and all the people on the face of the earth will quake at my presence. The mountains will be thrown down, the cliffs will collapse, and every wall will fall to the ground.
 
-**21** I will call for a sword against him on all my mountains, declares the Lord Yahweh. Every man's sword will be against his brother.
+**21** I will call for a sword against him on all my mountains, declares the Lord GOD. Every man's sword will be against his brother.
 
 **22** I will enter into judgment with him by plague and bloodshed. I will rain down on him and his troops, and on the many peoples with him, torrents of rain, hailstones, fire and sulfur.
 
-**23** So I will show my greatness and my holiness, and make myself known in the sight of many nations. Then they will know that I am Yahweh.
+**23** So I will show my greatness and my holiness, and make myself known in the sight of many nations. Then they will know that I am the LORD.
 
-[^38-1]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^38-1]: *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles.
 [^38-2]: Hebrew *ben adam*, "son of man": a human being, a mortal.
 [^38-3]: Gog is not otherwise known. The name may recall Gyges (Assyrian *Gugu*), a king of Lydia in western Asia Minor in the 600s BC. Magog is named as a son of Japheth in Genesis 10:2; "the land of Magog" may mean "the land of Gog".
 [^38-4]: Or "the prince of Rosh, Meshech and Tubal". Hebrew *nesi rosh*: *rosh* means "head, chief", but the Septuagint takes it as a name, *Rōs*. No people or place called Rosh is otherwise known. Also in verse 3 and 39:1.
 [^38-5]: Peoples of central and eastern Asia Minor (27:13; 32:26).
-[^38-6]: Hebrew *Adonai YHWH*, "my Lord Yahweh".
+[^38-6]: Hebrew *Adonai YHWH*, "my Lord YHWH". After "Lord", God's personal name is written GOD in capitals, as in most English Bibles.
 [^38-7]: *Cush* is the region south of Egypt (ancient Nubia), and *Put* probably Libya (27:10; 30:5).
 [^38-8]: Probably the Cimmerians, a people from north of the Black Sea who moved into Asia Minor (Genesis 10:2–3).
 [^38-9]: Probably in eastern Asia Minor (27:14).
@@ -2934,7 +2934,7 @@
 
 *Status: draft*
 
-**1** As for you, son of man,[^39-1] prophesy against Gog and say: This is what the Lord Yahweh[^39-2] says: Look, I am against you, Gog, chief prince[^39-3] of Meshech and Tubal.
+**1** As for you, son of man,[^39-1] prophesy against Gog and say: This is what the Lord GOD[^39-2] says: Look, I am against you, Gog, chief prince[^39-3] of Meshech and Tubal.
 
 **2** I will turn you around and drive you on,[^39-4] and bring you up from the far reaches of the north, and bring you against the mountains of Israel.
 
@@ -2942,23 +2942,23 @@
 
 **4** On the mountains of Israel you will fall, you and all your troops and the peoples who are with you. I will give you as food to birds of prey of every kind and to the wild animals.
 
-**5** You will fall on the open field, for I have spoken, declares the Lord Yahweh.
+**5** You will fall on the open field, for I have spoken, declares the Lord GOD.
 
-**6** I will send fire on Magog and on those who live securely in the coastlands. Then they will know that I am Yahweh.
+**6** I will send fire on Magog and on those who live securely in the coastlands. Then they will know that I am the LORD.
 
-**7** I will make my holy name known among my people Israel, and I will no longer let my holy name be profaned. Then the nations will know that I am Yahweh, the Holy One in Israel.
+**7** I will make my holy name known among my people Israel, and I will no longer let my holy name be profaned. Then the nations will know that I am the LORD, the Holy One in Israel.
 
-**8** Look, it is coming, and it will be done, declares the Lord Yahweh. This is the day I have spoken of.
+**8** Look, it is coming, and it will be done, declares the Lord GOD. This is the day I have spoken of.
 
 **9** Then those who live in the cities of Israel will go out and use the weapons for fuel and burn them: small shields and large shields, bows and arrows, war clubs[^39-5] and spears. They will make fires with them for seven years.
 
-**10** They will not need to gather wood from the field or cut it from the forests, because they will make their fires with the weapons. They will plunder those who plundered them and loot those who looted them, declares the Lord Yahweh.
+**10** They will not need to gather wood from the field or cut it from the forests, because they will make their fires with the weapons. They will plunder those who plundered them and loot those who looted them, declares the Lord GOD.
 
 **11** On that day I will give Gog a burial place there in Israel, the Valley of the Travelers,[^39-6] east of the sea. It will block the way of travelers.[^39-7] There they will bury Gog and all his hordes,[^39-8] and they will call it the Valley of Hamon-gog.[^39-9]
 
 **12** For seven months the house of Israel will be burying them, in order to cleanse the land.
 
-**13** All the people of the land will bury them, and it will bring them renown on the day I display my glory, declares the Lord Yahweh.
+**13** All the people of the land will bury them, and it will bring them renown on the day I display my glory, declares the Lord GOD.
 
 **14** They will set apart men to go through the land continually and bury, with those who pass through, the bodies that remain on the face of the land, so as to cleanse it. At the end of the seven months they will make their search.[^39-10]
 
@@ -2966,34 +2966,34 @@
 
 **16** A city will also be named Hamonah.[^39-11] So they will cleanse the land.
 
-**17** As for you, son of man, this is what the Lord Yahweh says: Say to the birds of every kind and to all the wild animals, "Assemble and come! Gather from all around to my sacrifice, which I am sacrificing for you, a great sacrifice on the mountains of Israel, and you will eat flesh and drink blood.
+**17** As for you, son of man, this is what the Lord GOD says: Say to the birds of every kind and to all the wild animals, "Assemble and come! Gather from all around to my sacrifice, which I am sacrificing for you, a great sacrifice on the mountains of Israel, and you will eat flesh and drink blood.
 
 **18** You will eat the flesh of the mighty and drink the blood of the princes of the earth, as if they were rams, lambs and goats, and bulls, all of them fattened animals of Bashan.[^39-12]
 
 **19** You will eat fat until you are full and drink blood until you are drunk, at my sacrifice, which I have sacrificed for you.
 
-**20** At my table you will eat your fill of horses and charioteers,[^39-13] of mighty men and warriors of every kind, declares the Lord Yahweh."
+**20** At my table you will eat your fill of horses and charioteers,[^39-13] of mighty men and warriors of every kind, declares the Lord GOD."
 
 **21** I will display my glory among the nations, and all the nations will see the judgment I have carried out and my hand that I have laid on them.
 
-**22** From that day on, the house of Israel will know that I am Yahweh their God.
+**22** From that day on, the house of Israel will know that I am the LORD their God.
 
 **23** And the nations will know that the house of Israel went into exile for their guilt, because they were unfaithful to me. So I hid my face from them and handed them over to their enemies, and they all fell by the sword.
 
 **24** I dealt with them according to their uncleanness and their transgressions, and I hid my face from them.
 
-**25** Therefore this is what the Lord Yahweh says: Now I will restore the fortunes[^39-14] of Jacob and have compassion on the whole house of Israel, and I will be jealous for my holy name.
+**25** Therefore this is what the Lord GOD says: Now I will restore the fortunes[^39-14] of Jacob and have compassion on the whole house of Israel, and I will be jealous for my holy name.
 
 **26** They will bear[^39-15] their disgrace and all the unfaithfulness they showed toward me, when they live securely on their own land with no one to make them afraid,
 
 **27** when I bring them back from the peoples and gather them from the lands of their enemies, and show myself holy through them in the sight of many nations.
 
-**28** Then they will know that I am Yahweh their God, because I sent them into exile among the nations and then gathered them back to their own land. I will not leave any of them there any longer.
+**28** Then they will know that I am the LORD their God, because I sent them into exile among the nations and then gathered them back to their own land. I will not leave any of them there any longer.
 
-**29** I will no longer hide my face from them, for I will have poured out my Spirit on the house of Israel, declares the Lord Yahweh.
+**29** I will no longer hide my face from them, for I will have poured out my Spirit on the house of Israel, declares the Lord GOD.
 
 [^39-1]: Hebrew *ben adam*, "son of man": a human being, a mortal.
-[^39-2]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles. *The Lord Yahweh* is Hebrew *Adonai YHWH*, "my Lord Yahweh".
+[^39-2]: *The Lord GOD*: Hebrew *Adonai YHWH*, "my Lord YHWH". God's personal name, YHWH, is written GOD in capitals after "Lord", and "the LORD" elsewhere, as in most English Bibles.
 [^39-3]: Or "prince of Rosh, Meshech and Tubal" (38:2).
 [^39-4]: Hebrew *shishe'tikha*, a word found only here, of uncertain meaning.
 [^39-5]: Literally "hand sticks".
@@ -3012,7 +3012,7 @@
 
 *Status: draft*
 
-**1** In the twenty-fifth year of our exile, at the beginning of the year, on the tenth day of the month, in the fourteenth year after the city was struck down,[^40-1] on that very day the hand of Yahweh[^40-2] was on me, and he brought me there.
+**1** In the twenty-fifth year of our exile, at the beginning of the year, on the tenth day of the month, in the fourteenth year after the city was struck down,[^40-1] on that very day the hand of the LORD[^40-2] was on me, and he brought me there.
 
 **2** In visions of God he brought me to the land of Israel and set me down on a very high mountain, and on it, to the south, was something like the structure of a city.
 
@@ -3102,7 +3102,7 @@
 
 **45** He said to me, "This room that faces south is for the priests who have charge of the house,
 
-**46** and the room that faces north is for the priests who have charge of the altar. These are the sons of Zadok,[^40-23] who alone among the sons of Levi may come near to Yahweh to serve him."
+**46** and the room that faces north is for the priests who have charge of the altar. These are the sons of Zadok,[^40-23] who alone among the sons of Levi may come near to the LORD to serve him."
 
 **47** He measured the court: a hundred cubits long and a hundred cubits wide, a square. The altar was in front of the house.
 
@@ -3111,9 +3111,9 @@
 **49** The porch was twenty cubits long and eleven cubits wide, and it was reached by steps.[^40-25] There were pillars[^40-26] beside the jambs, one on either side.
 
 [^40-1]: In 573 BC, probably in April. *At the beginning of the year* (Hebrew *rosh hashanah*) probably means the first month, as in 45:18–21; the tenth day of that month was the day the Passover lamb was chosen (Exodus 12:3). The city had fallen in 586 BC (33:21).
-[^40-2]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^40-2]: *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles.
 [^40-3]: Hebrew *ben adam*, "son of man": a human being, a mortal.
-[^40-4]: That is, the temple. "The house" is the usual word for the temple in chapters 40–48. Chapters 40–42 describe the temple area, its gates and courts, and its buildings; 43:1–12 describes the return of the glory of Yahweh to it.
+[^40-4]: That is, the temple. "The house" is the usual word for the temple in chapters 40–48. Chapters 40–42 describe the temple area, its gates and courts, and its buildings; 43:1–12 describes the return of the glory of the LORD to it.
 [^40-5]: A common cubit was about 18 inches (45 cm). This long cubit, a handbreadth longer, was about 21 inches (53 cm), so the reed was about 10½ feet (3.2 m), and the wall was as thick as it was high.
 [^40-6]: Literally "width". Here and throughout chapters 40–42, "width" and "length" translate the Hebrew words *rochav* and *orekh*.
 [^40-7]: The Hebrew text is written "its step" but read "its steps". In this chapter the Hebrew is often written with a singular "its" but read with a plural: "its jamb" but "its jambs" (verses 9, 21, 24, 26, 29, 31, 33, 34, 36, 37), "its alcove" but "its alcoves" (verses 21, 29, 33, 36), "its porch" but "its porches" (verses 21, 22, 24–26, 29, 33, 34, 36), "its window" but "its windows" and "its palm tree" but "its palm trees" (verse 22), "its step" but "its steps" (verses 26, 31, 34, 37). The written forms may be an older spelling of the plural, as in verse 31, where "its porches" is spelled without the usual *y*; where each gate had only one porch, "its porches" may mean the porch and its parts.
@@ -3183,7 +3183,7 @@
 
 **21** The doorposts of the main hall were square. In front of the holy place was something that looked like this:[^41-24]
 
-**22** an altar of wood, three cubits high and two cubits long, with its corners. Its length[^41-25] and its walls were of wood. He said to me, "This is the table[^41-26] that is before Yahweh."[^41-27]
+**22** an altar of wood, three cubits high and two cubits long, with its corners. Its length[^41-25] and its walls were of wood. He said to me, "This is the table[^41-26] that is before the LORD."[^41-27]
 
 **23** The main hall and the holy place each had a double door.
 
@@ -3219,7 +3219,7 @@
 [^41-24]: The meaning is uncertain. Literally "The main hall: a doorpost squared; and the front of the holy place: the appearance like the appearance." *The holy place* is probably the inner room (verse 4).
 [^41-25]: The Septuagint reads "two cubits long and two cubits wide", and "its base" for "its length".
 [^41-26]: Perhaps the table for the bread of the Presence (Exodus 25:23–30), or an altar of incense (Exodus 30:1–10), which stood in front of the inner room.
-[^41-27]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^41-27]: *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles.
 [^41-28]: Hebrew *av*, of uncertain meaning: perhaps a canopy, an overhang, or a threshold (1 Kings 7:6). Also in verse 26.
 
 ## Chapter 42
@@ -3250,7 +3250,7 @@
 
 **12** Like the doorways of the rooms on the south side was a doorway at the head of the passage, the passage in front of the matching wall,[^42-9] toward the east, as one enters them.
 
-**13** Then he said to me, "The north rooms and the south rooms facing the separate yard are the holy rooms, where the priests who come near to Yahweh[^42-10] are to eat the most holy offerings.[^42-11] There they are to put the most holy offerings, the grain offering,[^42-12] the sin offering[^42-13] and the guilt offering,[^42-14] for the place is holy.
+**13** Then he said to me, "The north rooms and the south rooms facing the separate yard are the holy rooms, where the priests who come near to the LORD[^42-10] are to eat the most holy offerings.[^42-11] There they are to put the most holy offerings, the grain offering,[^42-12] the sin offering[^42-13] and the guilt offering,[^42-14] for the place is holy.
 
 **14** When the priests enter, they must not go out of the holy place into the outer court. They are to leave there the garments in which they minister, for these are holy, and they are to put on other garments before they go near the area for the people."
 
@@ -3275,7 +3275,7 @@
 [^42-7]: Hebrew *heikhal*, the main room of the temple (41:1).
 [^42-8]: The Septuagint reads "toward the south", which fits verses 12–13.
 [^42-9]: Hebrew *haginah*, a word found only here, perhaps "matching". The meaning of this verse is uncertain.
-[^42-10]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^42-10]: *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles.
 [^42-11]: Literally "the holy things of the holy things": the offerings of the highest degree of holiness, which only the priests could eat, and only in a holy place (Leviticus 6:9–11, 6:16–18 in most English Bibles).
 [^42-12]: Hebrew *minchah*, "gift, tribute": an offering of flour or grain (Leviticus 2).
 [^42-13]: Hebrew *chatta't*. Or "purification offering" (40:39).
@@ -3294,9 +3294,9 @@
 
 **3** The vision I saw was like the vision I had seen when I came to destroy the city,[^43-2] and the visions were like the vision I had seen by the river Chebar.[^43-3] And I fell on my face.
 
-**4** The glory of Yahweh[^43-4] came into the house[^43-5] by the gate that faces east.
+**4** The glory of the LORD[^43-4] came into the house[^43-5] by the gate that faces east.
 
-**5** Then the Spirit[^43-6] lifted me up and brought me into the inner court, and there the glory of Yahweh filled the house.
+**5** Then the Spirit[^43-6] lifted me up and brought me into the inner court, and there the glory of the LORD filled the house.
 
 **6** I heard someone speaking to me from the house, while a man was standing beside me.
 
@@ -3322,9 +3322,9 @@
 
 **17** The ledge is square, fourteen cubits long and fourteen wide on its four sides, with a rim around it of half a cubit, and its base is a cubit all around. Its steps face east.
 
-**18** Then he said to me, "Son of man, this is what the Lord Yahweh[^43-19] says: These are the decrees for the altar on the day it is made, for offering burnt offerings[^43-20] on it and for splashing blood against it.
+**18** Then he said to me, "Son of man, this is what the Lord GOD[^43-19] says: These are the decrees for the altar on the day it is made, for offering burnt offerings[^43-20] on it and for splashing blood against it.
 
-**19** You are to give a young bull[^43-21] as a sin offering[^43-22] to the Levitical priests who are descendants of Zadok,[^43-23] who come near to me to serve me, declares the Lord Yahweh.
+**19** You are to give a young bull[^43-21] as a sin offering[^43-22] to the Levitical priests who are descendants of Zadok,[^43-23] who come near to me to serve me, declares the Lord GOD.
 
 **20** You are to take some of its blood and put it on the four horns of the altar, on the four corners of the ledge and on the rim all around. So you will purify it from sin[^43-24] and make atonement for it.[^43-25]
 
@@ -3334,22 +3334,22 @@
 
 **23** When you have finished purifying it, you are to offer a young bull without defect and a ram from the flock without defect.
 
-**24** You are to present them before Yahweh, and the priests are to throw salt[^43-26] on them and offer them up as a burnt offering to Yahweh.
+**24** You are to present them before the LORD, and the priests are to throw salt[^43-26] on them and offer them up as a burnt offering to the LORD.
 
 **25** For seven days you are to provide a goat for a sin offering each day. A young bull and a ram from the flock, without defect, are also to be provided.
 
 **26** For seven days they are to make atonement for the altar and cleanse it, and so consecrate it.[^43-27]
 
-**27** When they have completed these days, from the eighth day on, the priests are to offer your burnt offerings and your fellowship offerings[^43-28] on the altar, and I will accept you, declares the Lord Yahweh."
+**27** When they have completed these days, from the eighth day on, the priests are to offer your burnt offerings and your fellowship offerings[^43-28] on the altar, and I will accept you, declares the Lord GOD."
 
 [^43-1]: Hebrew *kavod*, the visible splendor of God's presence (1:28). Ezekiel had seen it leave the temple by the east gate and stop on the mountain east of the city (10:18–19; 11:22–23).
 [^43-2]: That is, when Ezekiel was shown in his vision the destruction of the city (chapters 8–11).
 [^43-3]: See 1:1–3.
-[^43-4]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^43-4]: *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles.
 [^43-5]: That is, the temple, as throughout chapters 40–48.
 [^43-6]: Or "a spirit" or "a wind". Hebrew *ruach*.
 [^43-7]: Hebrew *ben adam*, "son of man": a human being, a mortal.
-[^43-8]: Hebrew *zenut*, "prostitution", an image for unfaithfulness to Yahweh (6:9). Also in verse 9.
+[^43-8]: Hebrew *zenut*, "prostitution", an image for unfaithfulness to the LORD (6:9). Also in verse 9.
 [^43-9]: Or "the memorials". Hebrew *pigre*, usually "corpses". Also in verse 9.
 [^43-10]: The Hebrew is pointed *bamotam*, "their high places". The same consonants can be read *bemotam*, "at their death".
 [^43-11]: The royal palace was built beside the temple, so that only a wall separated them (1 Kings 7:1–12).
@@ -3360,7 +3360,7 @@
 [^43-16]: Hebrew *gav*, "back", here perhaps the base or the height. The meaning is uncertain.
 [^43-17]: Hebrew *har'el* here and *ari'el* later in this verse and in verse 16: probably the hearth on top of the altar, where the fire burned. *Har'el* sounds like "mountain of God", and *ari'el* like "lion of God" (compare Isaiah 29:1).
 [^43-18]: The projections at the four corners of the altar (Exodus 27:2).
-[^43-19]: Hebrew *Adonai YHWH*, "my Lord Yahweh".
+[^43-19]: Hebrew *Adonai YHWH*, "my Lord YHWH". After "Lord", God's personal name is written GOD in capitals, as in most English Bibles.
 [^43-20]: Hebrew *olah*: an animal burned whole on the altar (40:38; Leviticus 1).
 [^43-21]: Literally "a bull, a son of the herd". Also in verses 23 and 25.
 [^43-22]: Hebrew *chatta't*. Or "purification offering" (40:39). Also in verses 21, 22 and 25.
@@ -3377,33 +3377,33 @@
 
 **1** Then he brought me back by way of the outer gate of the sanctuary, the one facing east, and it was shut.
 
-**2** Yahweh[^44-1] said to me, "This gate is to remain shut. It must not be opened, and no one may enter by it, because Yahweh, the God of Israel, has entered by it.[^44-2] So it is to remain shut.
+**2** The LORD[^44-1] said to me, "This gate is to remain shut. It must not be opened, and no one may enter by it, because the LORD, the God of Israel, has entered by it.[^44-2] So it is to remain shut.
 
-**3** Only the prince,[^44-3] because he is the prince, may sit in it to eat bread before Yahweh. He is to enter by way of the porch of the gate and go out the same way."
+**3** Only the prince,[^44-3] because he is the prince, may sit in it to eat bread before the LORD. He is to enter by way of the porch of the gate and go out the same way."
 
-**4** Then he brought me by way of the north gate to the front of the house.[^44-4] I looked, and the glory of Yahweh filled the house of Yahweh, and I fell on my face.
+**4** Then he brought me by way of the north gate to the front of the house.[^44-4] I looked, and the glory of the LORD filled the house of the LORD, and I fell on my face.
 
-**5** Yahweh said to me, "Son of man,[^44-5] pay attention, look with your eyes and listen with your ears to all that I tell you about all the decrees of the house of Yahweh and all its laws.[^44-6] Pay attention to the entrance of the house and all the exits of the sanctuary.[^44-7]
+**5** The LORD said to me, "Son of man,[^44-5] pay attention, look with your eyes and listen with your ears to all that I tell you about all the decrees of the house of the LORD and all its laws.[^44-6] Pay attention to the entrance of the house and all the exits of the sanctuary.[^44-7]
 
-**6** Say to the rebellious,[^44-8] to the house of Israel, 'This is what the Lord Yahweh[^44-9] says: Enough of all your detestable practices,[^44-10] house of Israel!
+**6** Say to the rebellious,[^44-8] to the house of Israel, 'This is what the Lord GOD[^44-9] says: Enough of all your detestable practices,[^44-10] house of Israel!
 
 **7** You brought foreigners, uncircumcised in heart and uncircumcised in flesh, into my sanctuary, to be in it and to profane my house, when you offered my food, the fat and the blood. They have broken my covenant,[^44-11] on top of all your detestable practices.
 
 **8** You have not kept charge of my holy things yourselves; instead you have set them to keep my charge in my sanctuary for you.
 
-**9** This is what the Lord Yahweh says: No foreigner, uncircumcised in heart and uncircumcised in flesh, of all the foreigners who are among the Israelites, may enter my sanctuary.
+**9** This is what the Lord GOD says: No foreigner, uncircumcised in heart and uncircumcised in flesh, of all the foreigners who are among the Israelites, may enter my sanctuary.
 
 **10** But the Levites who went far from me when Israel went astray, who went astray from me after their idols,[^44-12] will bear their guilt.
 
 **11** They will serve in my sanctuary, having charge of the gates of the house and serving the house. They will slaughter the burnt offering and the sacrifice for the people, and they will stand before the people to serve them.
 
-**12** Because they served them before their idols and became a stumbling block of guilt[^44-13] for the house of Israel, therefore I have raised my hand[^44-14] against them, declares the Lord Yahweh, swearing that they will bear their guilt.
+**12** Because they served them before their idols and became a stumbling block of guilt[^44-13] for the house of Israel, therefore I have raised my hand[^44-14] against them, declares the Lord GOD, swearing that they will bear their guilt.
 
 **13** They must not come near me to serve me as priests, or come near any of my holy things, the most holy things. They will bear their shame for the detestable practices they have committed.
 
 **14** Yet I will appoint them to keep charge of the house, for all its service and for all that is to be done in it.
 
-**15** But the Levitical priests, the sons of Zadok,[^44-15] who kept charge of my sanctuary when the Israelites went astray from me, they will come near to me to serve me. They will stand before me to offer me fat and blood, declares the Lord Yahweh.
+**15** But the Levitical priests, the sons of Zadok,[^44-15] who kept charge of my sanctuary when the Israelites went astray from me, they will come near to me to serve me. They will stand before me to offer me fat and blood, declares the Lord GOD.
 
 **16** They will enter my sanctuary, and they will come near to my table to serve me and keep my charge.
 
@@ -3427,7 +3427,7 @@
 
 **26** After he has been cleansed, seven days are to be counted for him.
 
-**27** On the day he enters the holy place, into the inner court, to serve in the holy place, he is to offer his sin offering,[^44-19] declares the Lord Yahweh.
+**27** On the day he enters the holy place, into the inner court, to serve in the holy place, he is to offer his sin offering,[^44-19] declares the Lord GOD.
 
 **28** This is to be their inheritance: I am their inheritance. You are to give them no property in Israel; I am their property.
 
@@ -3437,15 +3437,15 @@
 
 **31** The priests must not eat anything, bird or animal, that has died by itself or been torn by wild animals.
 
-[^44-1]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
-[^44-2]: The glory of Yahweh had entered by this gate (43:1–4).
+[^44-1]: *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles.
+[^44-2]: The glory of the LORD had entered by this gate (43:1–4).
 [^44-3]: Hebrew *nasi*, "leader, chief", Ezekiel's title for the ruler of Israel (34:24; 37:25). In chapters 44–48 he has a special place in the worship of the temple (45:7–17; 46:1–18).
 [^44-4]: That is, the temple, as throughout chapters 40–48.
 [^44-5]: Hebrew *ben adam*, "son of man": a human being, a mortal.
 [^44-6]: The Hebrew text is written "all its law" but read "all its laws".
 [^44-7]: That is, perhaps, to the rules for who may come in and go out (verses 6–9). Literally "Set your heart to the entrance of the house with all the exits of the sanctuary."
 [^44-8]: Literally "to rebellion".
-[^44-9]: Hebrew *Adonai YHWH*, "my Lord Yahweh". The message that begins here runs to 46:18.
+[^44-9]: Hebrew *Adonai YHWH*, "my Lord YHWH". After "Lord", God's personal name is written GOD in capitals, as in most English Bibles. The message that begins here runs to 46:18.
 [^44-10]: Hebrew *to'evot*, things that are abhorrent, especially in worship. Also in verses 7 and 13.
 [^44-11]: The Septuagint, the Syriac and the Vulgate read "You have broken my covenant".
 [^44-12]: Hebrew *gillulim*, a contemptuous word for idols, perhaps related to the word for dung. Also in verse 12.
@@ -3458,7 +3458,7 @@
 [^44-19]: Hebrew *chatta't*. Or "purification offering" (40:39). Also in verse 29.
 [^44-20]: Hebrew *minchah*, "gift, tribute": an offering of flour or grain (Leviticus 2).
 [^44-21]: Hebrew *asham*, perhaps "reparation offering" (40:39).
-[^44-22]: Hebrew *cherem*: something irrevocably given over to Yahweh (Leviticus 27:21, 28; Numbers 18:14).
+[^44-22]: Hebrew *cherem*: something irrevocably given over to the LORD (Leviticus 27:21, 28; Numbers 18:14).
 [^44-23]: Hebrew *terumah*: something set apart and given for a sacred purpose (Exodus 25:2; Numbers 18:8).
 [^44-24]: Hebrew *arisot*, probably coarse meal or dough (Numbers 15:20).
 
@@ -3466,13 +3466,13 @@
 
 *Status: draft*
 
-**1** "'When you allot the land as an inheritance, you are to set apart a contribution[^45-1] for Yahweh,[^45-2] a holy portion of the land, twenty-five thousand long and ten thousand wide.[^45-3] It will be holy throughout its whole area all around.
+**1** "'When you allot the land as an inheritance, you are to set apart a contribution[^45-1] for the LORD,[^45-2] a holy portion of the land, twenty-five thousand long and ten thousand wide.[^45-3] It will be holy throughout its whole area all around.
 
 **2** Of this, a square of five hundred by five hundred is to be for the sanctuary, with fifty cubits[^45-4] of open land around it.
 
 **3** From this measured area you are to measure off a section twenty-five thousand long and ten thousand wide, and in it will be the sanctuary, the most holy place.
 
-**4** It is the holy portion of the land. It will be for the priests who serve in the sanctuary, who come near to serve Yahweh. It will be a place for their houses and a holy area for the sanctuary.
+**4** It is the holy portion of the land. It will be for the priests who serve in the sanctuary, who come near to serve the LORD. It will be a place for their houses and a holy area for the sanctuary.
 
 **5** An area twenty-five thousand long and ten thousand wide will belong to the Levites who serve the house,[^45-5] as their property, for twenty rooms.[^45-6]
 
@@ -3482,7 +3482,7 @@
 
 **8** This land will be his property in Israel. My princes will no longer oppress my people, but will give the rest of the land to the house of Israel according to their tribes.
 
-**9** This is what the Lord Yahweh[^45-9] says: Enough, you princes of Israel! Put away violence and oppression, and do what is just and right. Stop evicting my people,[^45-10] declares the Lord Yahweh.
+**9** This is what the Lord GOD[^45-9] says: Enough, you princes of Israel! Put away violence and oppression, and do what is just and right. Stop evicting my people,[^45-10] declares the Lord GOD.
 
 **10** You are to have honest scales, an honest ephah and an honest bath.[^45-11]
 
@@ -3494,13 +3494,13 @@
 
 **14** The prescribed portion of oil, measured by the bath, is a tenth of a bath from each kor.[^45-14] Ten baths make a homer, for ten baths are a homer.
 
-**15** And one sheep is to be given from every flock of two hundred, from the well-watered pastures of Israel, for grain offerings,[^45-15] burnt offerings[^45-16] and fellowship offerings,[^45-17] to make atonement[^45-18] for the people, declares the Lord Yahweh.
+**15** And one sheep is to be given from every flock of two hundred, from the well-watered pastures of Israel, for grain offerings,[^45-15] burnt offerings[^45-16] and fellowship offerings,[^45-17] to make atonement[^45-18] for the people, declares the Lord GOD.
 
 **16** All the people of the land are to give this contribution to the prince in Israel.
 
 **17** It will be the prince's duty to provide the burnt offerings, the grain offerings and the drink offerings at the festivals, the new moons and the Sabbaths, at all the appointed festivals of the house of Israel. He is to provide the sin offering,[^45-19] the grain offering, the burnt offering and the fellowship offerings, to make atonement for the house of Israel.
 
-**18** This is what the Lord Yahweh says: In the first month, on the first day of the month, you are to take a young bull[^45-20] without defect and purify the sanctuary from sin.[^45-21]
+**18** This is what the Lord GOD says: In the first month, on the first day of the month, you are to take a young bull[^45-20] without defect and purify the sanctuary from sin.[^45-21]
 
 **19** The priest is to take some of the blood of the sin offering and put it on the doorposts of the house, on the four corners of the ledge of the altar, and on the doorposts of the gate of the inner court.
 
@@ -3510,21 +3510,21 @@
 
 **22** On that day the prince is to provide, for himself and for all the people of the land, a bull as a sin offering.
 
-**23** During the seven days of the festival he is to provide as a burnt offering to Yahweh seven bulls and seven rams without defect, each day for the seven days, and a male goat each day as a sin offering.
+**23** During the seven days of the festival he is to provide as a burnt offering to the LORD seven bulls and seven rams without defect, each day for the seven days, and a male goat each day as a sin offering.
 
 **24** As a grain offering he is to provide an ephah for each bull and an ephah for each ram, with a hin[^45-24] of oil for each ephah.
 
 **25** In the seventh month, on the fifteenth day of the month, at the festival,[^45-25] he is to provide the same for seven days: the same sin offerings, burnt offerings, grain offerings and oil.
 
 [^45-1]: Hebrew *terumah*: something set apart and given for a sacred purpose (44:30). Also in verses 6, 7, 13 and 16, and in chapter 48.
-[^45-2]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^45-2]: *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles.
 [^45-3]: The unit is not given; probably the long cubit of 40:5, so that the area was about 8 miles by 3 miles (13 by 5.3 km). The Septuagint reads "twenty thousand wide", which fits verses 3–5 and 48:8–13. The area is described again in 48:8–22.
 [^45-4]: The long cubit of 40:5, about 21 inches (53 cm).
 [^45-5]: That is, the temple, as throughout chapters 40–48.
 [^45-6]: The Septuagint reads "for cities to live in".
 [^45-7]: Hebrew *nasi*, "leader, chief", the ruler of Israel (44:3). Also in verses 8, 9, 16, 17 and 22.
 [^45-8]: The land is divided into strips running from west to east, one for each tribe (chapter 48).
-[^45-9]: Hebrew *Adonai YHWH*, "my Lord Yahweh".
+[^45-9]: Hebrew *Adonai YHWH*, "my Lord YHWH". After "Lord", God's personal name is written GOD in capitals, as in most English Bibles.
 [^45-10]: Literally "Lift your evictions from my people".
 [^45-11]: The ephah, a dry measure, and the bath, a liquid measure, were the same size (verse 11): probably about 22 liters, two-thirds of a bushel or about 6 gallons.
 [^45-12]: A homer was probably about 220 liters (6 bushels). The word means "donkey-load".
@@ -3546,13 +3546,13 @@
 
 *Status: draft*
 
-**1** "'This is what the Lord Yahweh[^46-1] says: The gate of the inner court that faces east is to be shut on the six working days, but on the Sabbath day it is to be opened, and on the day of the new moon it is to be opened.
+**1** "'This is what the Lord GOD[^46-1] says: The gate of the inner court that faces east is to be shut on the six working days, but on the Sabbath day it is to be opened, and on the day of the new moon it is to be opened.
 
 **2** The prince[^46-2] is to enter by way of the porch of the gate from outside and stand by the doorpost of the gate. The priests are to offer his burnt offering[^46-3] and his fellowship offerings,[^46-4] and he is to bow down at the threshold of the gate and then go out. But the gate is not to be shut until evening.
 
-**3** The people of the land are to bow down at the entrance of that gate before Yahweh on the Sabbaths and the new moons.
+**3** The people of the land are to bow down at the entrance of that gate before the LORD on the Sabbaths and the new moons.
 
-**4** The burnt offering that the prince presents to Yahweh on the Sabbath day is to be six lambs without defect and a ram without defect.
+**4** The burnt offering that the prince presents to the LORD on the Sabbath day is to be six lambs without defect and a ram without defect.
 
 **5** The grain offering[^46-5] is to be an ephah[^46-6] with the ram, and with the lambs as much as he wishes to give, and a hin of oil for each ephah.
 
@@ -3562,21 +3562,21 @@
 
 **8** When the prince enters, he is to come in by way of the porch of the gate and go out the same way.
 
-**9** When the people of the land come before Yahweh at the appointed festivals, whoever enters by the north gate to worship is to go out by the south gate, and whoever enters by the south gate is to go out by the north gate. No one is to go back through the gate by which he came in; each is to go out straight ahead.
+**9** When the people of the land come before the LORD at the appointed festivals, whoever enters by the north gate to worship is to go out by the south gate, and whoever enters by the south gate is to go out by the north gate. No one is to go back through the gate by which he came in; each is to go out straight ahead.
 
 **10** The prince is to be among them: when they come in, he is to come in, and when they go out, they are to go out.
 
 **11** At the festivals and the appointed times, the grain offering is to be an ephah with a bull and an ephah with a ram, and with the lambs as much as he wishes to give, and a hin of oil for each ephah.
 
-**12** When the prince provides a freewill offering, a burnt offering or fellowship offerings as a freewill offering to Yahweh, the gate that faces east is to be opened for him, and he is to offer his burnt offering and his fellowship offerings as he does on the Sabbath day. Then he is to go out, and after he has gone out the gate is to be shut.
+**12** When the prince provides a freewill offering, a burnt offering or fellowship offerings as a freewill offering to the LORD, the gate that faces east is to be opened for him, and he is to offer his burnt offering and his fellowship offerings as he does on the Sabbath day. Then he is to go out, and after he has gone out the gate is to be shut.
 
-**13** You are to provide a year-old lamb without defect as a burnt offering to Yahweh every day. Morning by morning you are to provide it.
+**13** You are to provide a year-old lamb without defect as a burnt offering to the LORD every day. Morning by morning you are to provide it.
 
-**14** With it, morning by morning, you are to provide a grain offering of a sixth of an ephah, with a third of a hin of oil to moisten the fine flour,[^46-8] a grain offering to Yahweh. These are permanent decrees, to be kept continually.
+**14** With it, morning by morning, you are to provide a grain offering of a sixth of an ephah, with a third of a hin of oil to moisten the fine flour,[^46-8] a grain offering to the LORD. These are permanent decrees, to be kept continually.
 
 **15** So they are to provide the lamb, the grain offering and the oil morning by morning, as a regular burnt offering.
 
-**16** This is what the Lord Yahweh says: If the prince gives a gift to one of his sons, it is that son's inheritance and will belong to his sons. It is their property by inheritance.
+**16** This is what the Lord GOD says: If the prince gives a gift to one of his sons, it is that son's inheritance and will belong to his sons. It is their property by inheritance.
 
 **17** But if he gives a gift from his inheritance to one of his servants, it will belong to the servant until the year of liberty,[^46-9] and then it will return to the prince. His inheritance belongs to his sons alone; it is theirs.
 
@@ -3594,7 +3594,7 @@
 
 **24** He said to me, "These are the kitchens where those who serve the house[^46-17] will boil the sacrifices of the people."
 
-[^46-1]: Hebrew *Adonai YHWH*, "my Lord Yahweh". *Yahweh* is God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles. The message begun in 44:6 continues to verse 18.
+[^46-1]: Hebrew *Adonai YHWH*, "my Lord YHWH". After "Lord", God's personal name is written GOD in capitals, as in most English Bibles. *The LORD* is God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles. The message begun in 44:6 continues to verse 18.
 [^46-2]: Hebrew *nasi*, "leader, chief", the ruler of Israel (44:3).
 [^46-3]: Hebrew *olah*: an animal burned whole on the altar (40:38; Leviticus 1).
 [^46-4]: Hebrew *shelamim*, traditionally "peace offerings" (Leviticus 3). Also in verse 12.
@@ -3640,7 +3640,7 @@
 
 **12** On both banks of the river every kind of tree for food will grow. Their leaves will not wither, and their fruit will not fail. They will bear fresh fruit every month, because their water flows from the sanctuary. Their fruit will be for food and their leaves for healing."[^47-12]
 
-**13** "This is what the Lord Yahweh[^47-13] says: These are the boundaries by which you are to divide the land as an inheritance among the twelve tribes of Israel, with two portions for Joseph.[^47-14]
+**13** "This is what the Lord GOD[^47-13] says: These are the boundaries by which you are to divide the land as an inheritance among the twelve tribes of Israel, with two portions for Joseph.[^47-14]
 
 **14** You are to divide it equally among you,[^47-15] the land I raised my hand[^47-16] to give to your ancestors. This land will fall to you as an inheritance.
 
@@ -3660,7 +3660,7 @@
 
 **22** You are to allot it as an inheritance for yourselves and for the foreigners who live among you and have had children among you. They are to be to you like native-born Israelites; with you they are to be allotted an inheritance among the tribes of Israel.
 
-**23** In whatever tribe the foreigner lives, there you are to give him his inheritance, declares the Lord Yahweh.
+**23** In whatever tribe the foreigner lives, there you are to give him his inheritance, declares the Lord GOD.
 
 [^47-1]: That is, the temple, as throughout chapters 40–48.
 [^47-2]: Literally "the right side". Directions were given facing east, so the right side is the south. Also in verse 2.
@@ -3674,7 +3674,7 @@
 [^47-10]: That is, the Mediterranean. Also in verses 15, 19 and 20.
 [^47-11]: The Hebrew text is written "when it goes out" but read "its swamps".
 [^47-12]: Compare Revelation 22:1–2.
-[^47-13]: Hebrew *Adonai YHWH*, "my Lord Yahweh". *Yahweh* is God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles. These words of Yahweh run to the end of the book (48:35).
+[^47-13]: Hebrew *Adonai YHWH*, "my Lord YHWH". After "Lord", God's personal name is written GOD in capitals, as in most English Bibles. *The LORD* is God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles. These words of the LORD run to the end of the book (48:35).
 [^47-14]: Literally "Joseph, portions". The descendants of Joseph's two sons, Ephraim and Manasseh, each formed a tribe (Genesis 48:5; Joshua 14:4), so that there were twelve tribal portions without Levi (48:1–7, 23–29).
 [^47-15]: Literally "each man like his brother".
 [^47-16]: Literally "I lifted my hand", the gesture of one who swears an oath (20:5).
@@ -3707,9 +3707,9 @@
 
 **8** Next to the territory of Judah, from the east side to the west side, will be the contribution[^48-2] you are to set apart, 25,000 wide,[^48-3] and as long as one of the tribal portions, from the east side to the west side, with the sanctuary in the middle of it.
 
-**9** The contribution you are to set apart for Yahweh[^48-4] will be 25,000 long and 10,000 wide.[^48-5]
+**9** The contribution you are to set apart for the LORD[^48-4] will be 25,000 long and 10,000 wide.[^48-5]
 
-**10** This will be the holy contribution for the priests: on the north side 25,000 long, on the west side 10,000 wide, on the east side 10,000 wide, and on the south side 25,000 long. The sanctuary of Yahweh will be in the middle of it.
+**10** This will be the holy contribution for the priests: on the north side 25,000 long, on the west side 10,000 wide, on the east side 10,000 wide, and on the south side 25,000 long. The sanctuary of the LORD will be in the middle of it.
 
 **11** It will be for the consecrated priests, the sons of Zadok,[^48-6] who kept my charge and did not go astray when the Israelites went astray, as the Levites did.
 
@@ -3717,7 +3717,7 @@
 
 **13** Alongside the territory of the priests, the Levites will have an area 25,000 long and 10,000 wide. The whole length will be 25,000 and the width 10,000.
 
-**14** They must not sell any of it or exchange it, and this choicest part of the land must not pass to others, for it is holy to Yahweh.
+**14** They must not sell any of it or exchange it, and this choicest part of the land must not pass to others, for it is holy to the LORD.
 
 **15** The remaining area, 5,000 wide and 25,000 long, will be for the common use of the city, for houses and for open land. The city will be in the middle of it.
 
@@ -3747,7 +3747,7 @@
 
 **28** Next to the territory of Gad, on the south side, toward the Negev, the boundary will run from Tamar to the waters of Meribath-kadesh, and along the Wadi to the Great Sea.[^48-11]
 
-**29** This is the land you are to allot as an inheritance to the tribes of Israel, and these will be their portions, declares the Lord Yahweh.[^48-12]
+**29** This is the land you are to allot as an inheritance to the tribes of Israel, and these will be their portions, declares the Lord GOD.[^48-12]
 
 **30** These are the exits of the city: On the north side, which measures 4,500,
 
@@ -3759,12 +3759,12 @@
 
 **34** On the west side, which measures 4,500, there will be three gates: one gate for Gad, one gate for Asher and one gate for Naphtali.
 
-**35** The distance all around will be 18,000.[^48-13] And from that day on the name of the city will be 'Yahweh Is There.'"[^48-14]
+**35** The distance all around will be 18,000.[^48-13] And from that day on the name of the city will be 'The LORD Is There.'"[^48-14]
 
 [^48-1]: Literally "and they will be his, the east side, the sea". Each tribe's portion is a strip running across the land from east to west, from the Jordan to the Mediterranean (47:15–20). Compare Joshua 13–19, where the tribes receive very different territories.
 [^48-2]: Hebrew *terumah*: something set apart and given for a sacred purpose (45:1). Also in verses 9–10, 12, 18 and 20–21.
 [^48-3]: The unit is not given; probably the long cubit of 40:5 (about 21 inches or 53 cm), as in 45:1, so that 25,000 was about 8 miles (13 km). The same is true of the other measurements in this chapter.
-[^48-4]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^48-4]: *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles.
 [^48-5]: This is perhaps the priests' portion (verses 10–12), which lies beside the Levites' portion of the same size (verse 13). Compare 45:1–5.
 [^48-6]: See 40:46; 44:15.
 [^48-7]: The Hebrew text writes the word "five" twice here, but it is read only once.
@@ -3772,6 +3772,6 @@
 [^48-9]: That is, the temple, as throughout chapters 40–48.
 [^48-10]: Literally "And from the property of the Levites and from the property of the city, in the middle of what is for the prince it will be; between the border of Judah and the border of Benjamin, it will be for the prince." The meaning is uncertain.
 [^48-11]: See 47:19.
-[^48-12]: Hebrew *Adonai YHWH*, "my Lord Yahweh".
+[^48-12]: Hebrew *Adonai YHWH*, "my Lord YHWH". After "Lord", God's personal name is written GOD in capitals, as in most English Bibles.
 [^48-13]: About 6 miles (9.5 km), if the unit is the long cubit.
 [^48-14]: Hebrew *YHWH shammah*.

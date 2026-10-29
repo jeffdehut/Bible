@@ -166,7 +166,7 @@
 [^2-9]: Greek *harpagmos*, a rare word, from *harpazo*, "to seize". It may mean something to be seized, which he did not yet have, or something already his, to be held on to or used for his own advantage.
 [^2-10]: Greek *ekenosen*, from *kenoo*, "to empty", also "to make of no account". The verse does not say of what he emptied himself; the phrases that follow describe what it involved.
 [^2-11]: Or "a slave". Greek *doulos*.
-[^2-12]: Verses 10–11 echo Isaiah 45:23, where Yahweh, God's personal name, says, "To me every knee will bow, every tongue will swear allegiance." The Septuagint has "every tongue will confess to God". *Lord*: Greek *kyrios*, the word the Greek Old Testament uses for the name Yahweh.
+[^2-12]: Verses 10–11 echo Isaiah 45:23, where the LORD, God's personal name, says, "To me every knee will bow, every tongue will swear allegiance." The Septuagint has "every tongue will confess to God". *Lord*: Greek *kyrios*, the word the Greek Old Testament uses for the name YHWH.
 [^2-13]: Greek *parousia*, "presence, arrival", as in 1:26.
 [^2-14]: Literally "for the good pleasure".
 [^2-15]: Compare Deuteronomy 32:5.

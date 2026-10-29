@@ -247,7 +247,7 @@
 **28** The grace of our Lord Jesus Christ be with you.[^5-14]
 
 [^5-1]: Greek *adelphoi*, "brothers", used of the believers, men and women alike; also in verses 4, 12, 14, 25, 26 and 27.
-[^5-2]: In the Old Testament, "the day of Yahweh" is the day of his coming in judgment (Amos 5:18–20; Joel 2:1–2).
+[^5-2]: In the Old Testament, "the day of the LORD" is the day of his coming in judgment (Amos 5:18–20; Joel 2:1–2).
 [^5-3]: Some manuscripts read "would overtake you like thieves".
 [^5-4]: Literally "sons of light and sons of day".
 [^5-5]: Compare Isaiah 59:17.

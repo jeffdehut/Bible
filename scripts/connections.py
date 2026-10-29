@@ -1,11 +1,11 @@
-"""Build the Obsidian connection notes in connections/.
+"""Build the connection notes in connections/.
 
     python3 scripts/connections.py [--min-votes N]
 
 Recreates Chris Harrison's "Bible Cross-References" and "Biblical Social Network"
-(https://www.chrisharrison.net/index.php/visualizations/BibleViz) as links that Obsidian's
-graph view can show. It uses open data in place of the data behind those graphics, which
-was never released:
+(https://www.chrisharrison.net/index.php/visualizations/BibleViz) as linked notes, which
+graph.html also draws as one web. It uses open data in place of the data behind those
+graphics, which was never released:
 
   - Cross-references: OpenBible.info (CC BY), mostly from the public-domain Treasury of
     Scripture Knowledge, filtered by community votes.
@@ -322,23 +322,21 @@ def write_readme(st):
     lines = [
         "# Connections: start here", "",
         "These notes recreate Chris Harrison's [Bible visualizations]"
-        "(https://www.chrisharrison.net/index.php/visualizations/BibleViz) as links you can explore "
-        "in Obsidian's graph view, using open data and the original-language texts in this repository.",
-        "", "Open the repository folder as an Obsidian vault, then open **Graph view**.", "",
+        "(https://www.chrisharrison.net/index.php/visualizations/BibleViz) as notes linked to one "
+        "another, using open data and the original-language texts in this repository. The site's "
+        "*Web of Scripture* (`graph.html`) draws them all as one web.", "",
         "## 1. Cross-references (Harrison's arc diagram)", "",
-        f"Graph filter: `path:connections/chapters` (the default). Each of the {st['chapters']:,} nodes is "
-        "a chapter, colored by section from Torah (red) to Revelation (violet). Each line is a "
-        f"cross-reference between two chapters. {st['cross_references_kept']:,} cross-references "
+        f"There is a note for each of the {st['chapters']:,} chapters, in `chapters/`, linked to the "
+        f"chapters it shares cross-references with. {st['cross_references_kept']:,} cross-references "
         f"connect {st['chapter_pairs']:,} pairs of chapters. Harrison's graphic draws 63,779.", "",
-        "Open any chapter note to read the text with its cross-references verse by verse. Obsidian's "
-        "*Backlinks* pane lists the chapters that point back to it, and *Local graph* shows its neighbors.", "",
+        "Open any chapter note to read the text with its cross-references verse by verse.", "",
         "## 2. People and places (Harrison's social network)", "",
-        "Graph filter: `path:connections/people OR path:connections/places`. Each node is a person "
-        f"({st['people']:,}) or place ({st['places']:,}). Two are linked when they are named in the same "
+        f"There is a note for each person ({st['people']:,}, in `people/`) and place "
+        f"({st['places']:,}, in `places/`). Two are linked when they are named in the same "
         f"verse ({st['same_verse_pairs']:,} pairs), as in Harrison's graph.", "",
         "## 3. Where names occur (Harrison's distribution chart)", "",
         "Each person and place note lists every chapter it appears in, in canonical order, with the "
-        "number of verses. Its *Local graph* shows the same thing visually.", "",
+        "number of verses.", "",
         "## 4. Genealogy", "",
         f"Every family relationship in TIPNR: {st['parent_child_links']:,} parent-child links connecting "
         f"{st['people_in_families']:,} people in {st['families']} family groups. The largest, the "
@@ -396,7 +394,7 @@ def write_readme(st):
         f"Unresolved references: {st['cross_references_unresolved']} cross-references, "
         f"{st['tipnr_references_unresolved']} name references.", "",
         "**Names.** Each note is titled with TIPNR's main English name, and its other names are "
-        "Obsidian aliases, so searching for *Jacob* finds the patriarch, whom TIPNR files under "
+        "listed as aliases, so searching for *Jacob* finds the patriarch, whom TIPNR files under "
         "*Israel*. TIPNR's *Israel* covers both the patriarch and the nation named after him, so it "
         "is the largest hub in the network, as it is in Harrison's.", "",
         "**Left out:** names of groups and nations (e.g. Amorites), unnamed people (e.g. \"the father "

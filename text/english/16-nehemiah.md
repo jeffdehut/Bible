@@ -15,7 +15,7 @@
 
 **4** When I heard these words, I sat down and wept, and I mourned for days. I kept fasting and praying before the God of heaven.
 
-**5** I said, "Please, Yahweh,[^1-5] God of heaven, the great and awesome God, who keeps covenant and faithful love[^1-6] with those who love him and keep his commands,[^1-7]
+**5** I said, "Please, LORD,[^1-5] God of heaven, the great and awesome God, who keeps covenant and faithful love[^1-6] with those who love him and keep his commands,[^1-7]
 
 **6** let your ear be attentive and your eyes open, to hear the prayer of your servant that I am praying before you today, day and night, for the Israelites your servants. I confess the sins of the Israelites, which we have committed against you. Both I and my father's house have sinned.
 
@@ -33,7 +33,7 @@
 [^1-2]: The ninth month, around November–December.
 [^1-3]: The twentieth year of King Artaxerxes I (2:1), 445 BC.
 [^1-4]: Hebrew *Shushan ha-birah*. Susa, in what is now southwest Iran, was one of the royal cities of the Persian kings.
-[^1-5]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^1-5]: *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles.
 [^1-6]: Hebrew *chesed*: loyal, faithful love.
 [^1-7]: Compare Deuteronomy 7:9, 21; Daniel 9:4.
 [^1-8]: Compare Leviticus 26:33; Deuteronomy 4:27; 28:64.
@@ -289,7 +289,7 @@
 
 **12** They said, "We will give it back, and we will demand nothing from them. We will do just as you say." Then I called the priests and made them swear to do as they had promised.[^5-8]
 
-**13** I also shook out the fold of my robe and said, "So may God shake out of his house and out of the fruit of his labor every man who does not keep this promise. So may he be shaken out and emptied!" And the whole assembly said, "Amen,"[^5-9] and they praised Yahweh.[^5-10] And the people did as they had promised.
+**13** I also shook out the fold of my robe and said, "So may God shake out of his house and out of the fruit of his labor every man who does not keep this promise. So may he be shaken out and emptied!" And the whole assembly said, "Amen,"[^5-9] and they praised the LORD.[^5-10] And the people did as they had promised.
 
 **14** Moreover, from the day I was appointed to be their governor in the land of Judah, from the twentieth year to the thirty-second year of King Artaxerxes,[^5-11] twelve years, neither I nor my brothers ate the food allowance of the governor.
 
@@ -312,7 +312,7 @@
 [^5-7]: Probably the interest charged, one percent a month.
 [^5-8]: Literally "made them swear to do according to this word", probably the nobles and officials. Also "promise" in verse 13.
 [^5-9]: *Amen* means "So be it", "It is true".
-[^5-10]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^5-10]: *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles.
 [^5-11]: From 445 to 433 BC.
 [^5-12]: A shekel was about ⅖ ounce (11.5 grams), so forty shekels was about 1 pound (460 grams). The meaning may be "forty shekels of silver a day".
 [^5-13]: Literally "a field". That is, he did not take over the land of those in debt.
@@ -563,7 +563,7 @@
 [^7-43]: Literally "they were defiled from the priesthood". Ezra 2:62 has "they were not found".
 [^7-44]: Hebrew *tirshata*, a Persian title of a high official, perhaps meaning "His Excellency". Also in verse 69. It is used of Nehemiah in 8:9 and 10:2 (10:1 in most English Bibles).
 [^7-45]: Literally "the holy of holies": the priests' share of the most holy offerings (Leviticus 2:3; 6:10–11, English 6:17–18).
-[^7-46]: Literally "until the priest stood for Urim and Thummim". These were kept in the high priest's breastpiece and used to learn Yahweh's decision (Exodus 28:30; Numbers 27:21). Ezra 2:63 has "a priest".
+[^7-46]: Literally "until the priest stood for Urim and Thummim". These were kept in the high priest's breastpiece and used to learn the LORD's decision (Exodus 28:30; Numbers 27:21). Ezra 2:63 has "a priest".
 [^7-47]: The numbers given in verses 8–62 add up to 31,089.
 [^7-48]: Ezra 2:65 has 200 singers.
 [^7-49]: Ezra 2:66 adds before this, "Their horses numbered 736, their mules 245". Most English Bibles add this line here as verse 68, so verses 68–72 are 7:69–73 in most English Bibles.
@@ -576,7 +576,7 @@
 
 *Status: draft*
 
-**1** All the people gathered as one man in the square in front of the Water Gate. They asked Ezra the scribe to bring the book of the Law of Moses, which Yahweh[^8-1] had commanded Israel.
+**1** All the people gathered as one man in the square in front of the Water Gate. They asked Ezra the scribe to bring the book of the Law of Moses, which the LORD[^8-1] had commanded Israel.
 
 **2** So on the first day of the seventh month Ezra the priest brought the Law before the assembly, men and women and all who could understand what they heard.
 
@@ -586,15 +586,15 @@
 
 **5** Ezra opened the book in the sight of all the people, for he was above all the people, and as he opened it, all the people stood up.
 
-**6** Ezra blessed Yahweh, the great God, and all the people answered, "Amen! Amen!"[^8-5] lifting up their hands. Then they bowed down and worshiped Yahweh with their faces to the ground.
+**6** Ezra blessed the LORD, the great God, and all the people answered, "Amen! Amen!"[^8-5] lifting up their hands. Then they bowed down and worshiped the LORD with their faces to the ground.
 
 **7** Jeshua, Bani, Sherebiah, Jamin, Akkub, Shabbethai, Hodiah, Maaseiah, Kelita, Azariah, Jozabad, Hanan, Pelaiah and the Levites[^8-6] helped the people understand the Law, while the people stayed in their places.
 
 **8** They read from the book, from the Law of God, clearly,[^8-7] and they gave the sense, so that the people understood what was read.
 
-**9** Then Nehemiah, who was the governor,[^8-8] and Ezra the priest and scribe, and the Levites who were teaching the people said to all the people, "This day is holy to Yahweh your God. Do not mourn or weep." For all the people were weeping as they heard the words of the Law.
+**9** Then Nehemiah, who was the governor,[^8-8] and Ezra the priest and scribe, and the Levites who were teaching the people said to all the people, "This day is holy to the LORD your God. Do not mourn or weep." For all the people were weeping as they heard the words of the Law.
 
-**10** He said to them, "Go, eat rich food and drink sweet drinks, and send portions to anyone who has nothing ready, for this day is holy to our Lord. Do not grieve, for the joy of Yahweh is your strength."[^8-9]
+**10** He said to them, "Go, eat rich food and drink sweet drinks, and send portions to anyone who has nothing ready, for this day is holy to our Lord. Do not grieve, for the joy of the LORD is your strength."[^8-9]
 
 **11** The Levites calmed all the people, saying, "Be still, for the day is holy. Do not grieve."
 
@@ -602,7 +602,7 @@
 
 **13** On the second day the heads of the ancestral families[^8-10] of all the people, the priests and the Levites gathered to Ezra the scribe to study the words of the Law.
 
-**14** They found written in the Law, which Yahweh had commanded through Moses, that the Israelites were to live in shelters[^8-11] during the festival in the seventh month,
+**14** They found written in the Law, which the LORD had commanded through Moses, that the Israelites were to live in shelters[^8-11] during the festival in the seventh month,
 
 **15** and that they were to announce it and send a proclamation through all their towns and in Jerusalem: "Go out to the hills and bring branches of olive, of wild olive,[^8-12] of myrtle, of palm and of leafy trees, to make shelters, as it is written."[^8-13]
 
@@ -612,7 +612,7 @@
 
 **18** Day after day, from the first day to the last day, Ezra read from the book of the Law of God. They kept the festival for seven days, and on the eighth day there was a closing assembly,[^8-15] as prescribed.
 
-[^8-1]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^8-1]: *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles.
 [^8-2]: Literally "from the light until the middle of the day".
 [^8-3]: Literally "the ears of all the people were to the book of the Law".
 [^8-4]: Literally "a tower of wood".
@@ -620,7 +620,7 @@
 [^8-6]: The names may be those of the Levites themselves: "Pelaiah, the Levites".
 [^8-7]: Or "with interpretation" or "section by section". Jewish tradition understood it as translating into Aramaic.
 [^8-8]: Hebrew *tirshata*, a Persian title of a high official; see 7:65.
-[^8-9]: Or "your refuge". "The joy of Yahweh" may be the joy that Yahweh gives, or joy in Yahweh.
+[^8-9]: Or "your refuge". "The joy of the LORD" may be the joy that the LORD gives, or joy in the LORD.
 [^8-10]: Literally "the heads of the fathers", that is, of the fathers' houses: extended families descended from a common ancestor.
 [^8-11]: Hebrew *sukkot*, "booths, shelters": huts made of branches. See Leviticus 23:39–43. Traditionally the festival is called "Tabernacles".
 [^8-12]: Literally "oil tree": perhaps wild olive, or pine.
@@ -636,15 +636,15 @@
 
 **2** Those of Israelite descent[^9-1] separated themselves from all foreigners, and they stood and confessed their sins and the iniquities of their ancestors.
 
-**3** They stood up in their places and read from the book of the Law of Yahweh[^9-2] their God for a quarter of the day, and for another quarter they confessed and worshiped Yahweh their God.
+**3** They stood up in their places and read from the book of the Law of the LORD[^9-2] their God for a quarter of the day, and for another quarter they confessed and worshiped the LORD their God.
 
-**4** On the platform[^9-3] of the Levites stood Jeshua, Bani, Kadmiel, Shebaniah, Bunni, Sherebiah, Bani and Chenani, and they cried out with a loud voice to Yahweh their God.
+**4** On the platform[^9-3] of the Levites stood Jeshua, Bani, Kadmiel, Shebaniah, Bunni, Sherebiah, Bani and Chenani, and they cried out with a loud voice to the LORD their God.
 
-**5** Then the Levites, Jeshua, Kadmiel, Bani, Hashabneiah, Sherebiah, Hodiah, Shebaniah and Pethahiah, said, "Stand up and bless Yahweh your God from everlasting to everlasting! May they bless your glorious name, which is exalted above all blessing and praise.
+**5** Then the Levites, Jeshua, Kadmiel, Bani, Hashabneiah, Sherebiah, Hodiah, Shebaniah and Pethahiah, said, "Stand up and bless the LORD your God from everlasting to everlasting! May they bless your glorious name, which is exalted above all blessing and praise.
 
-**6** You alone are Yahweh.[^9-4] You made the heavens, the highest heavens[^9-5] and all their host, the earth and everything on it, the seas and everything in them. You give life to them all, and the host of heaven worships you.
+**6** You alone are the LORD.[^9-4] You made the heavens, the highest heavens[^9-5] and all their host, the earth and everything on it, the seas and everything in them. You give life to them all, and the host of heaven worships you.
 
-**7** You are Yahweh, the God who chose Abram and brought him out of Ur of the Chaldeans and gave him the name Abraham.
+**7** You are the LORD, the God who chose Abram and brought him out of Ur of the Chaldeans and gave him the name Abraham.
 
 **8** You found his heart faithful before you, and you made the covenant with him to give the land of the Canaanites, the Hittites, the Amorites, the Perizzites, the Jebusites and the Girgashites, to give it to his descendants.[^9-6] And you have kept your promise,[^9-7] for you are righteous.
 
@@ -707,7 +707,7 @@
 **37** Its rich produce goes to the kings whom you have set over us because of our sins. They rule over our bodies and over our livestock as they please, and we are in great distress."[^9-22]
 
 [^9-1]: Literally "the seed of Israel".
-[^9-2]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^9-2]: *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles.
 [^9-3]: Or "stairs".
 [^9-4]: The Septuagint begins this verse "And Ezra said", making the prayer that follows his.
 [^9-5]: Literally "the heavens of the heavens".
@@ -791,7 +791,7 @@
 
 **29** The rest of the people, the priests, the Levites, the gatekeepers, the singers, the temple servants[^10-8] and all who had separated themselves from the peoples of the lands to keep the Law of God, with their wives, their sons and their daughters, all who had knowledge and understanding,
 
-**30** joined with their kinsmen, their nobles, and bound themselves with a curse and an oath[^10-9] to walk in the Law of God, which was given through Moses the servant of God, and to keep and do all the commands of Yahweh[^10-10] our Lord, and his rulings and his decrees.
+**30** joined with their kinsmen, their nobles, and bound themselves with a curse and an oath[^10-9] to walk in the Law of God, which was given through Moses the servant of God, and to keep and do all the commands of the LORD[^10-10] our Lord, and his rulings and his decrees.
 
 **31** We will not give our daughters to the peoples of the land, and we will not take their daughters for our sons.
 
@@ -801,9 +801,9 @@
 
 **34** for the bread of the Presence,[^10-14] for the regular grain offering and the regular burnt offering, for the Sabbaths, the new moons and the appointed festivals, for the holy offerings, and for the sin offerings[^10-15] to make atonement for Israel, and for all the work of the house of our God.
 
-**35** We, the priests, the Levites and the people, have cast lots for the wood offering, to bring it to the house of our God by our ancestral families at appointed times year by year, to burn on the altar of Yahweh our God, as it is written in the Law.
+**35** We, the priests, the Levites and the people, have cast lots for the wood offering, to bring it to the house of our God by our ancestral families at appointed times year by year, to burn on the altar of the LORD our God, as it is written in the Law.
 
-**36** We will bring the firstfruits of our ground and the firstfruits of all the fruit of every tree year by year to the house of Yahweh.
+**36** We will bring the firstfruits of our ground and the firstfruits of all the fruit of every tree year by year to the house of the LORD.
 
 **37** We will also bring to the house of our God, to the priests who minister in the house of our God, the firstborn of our sons and of our livestock, as it is written in the Law, and the firstborn of our herds and of our flocks.
 
@@ -822,11 +822,11 @@
 [^10-7]: The Hebrew text is written "Nobai" but read "Nebai".
 [^10-8]: Hebrew *netinim*: temple workers of lower rank than the Levites; see 7:46.
 [^10-9]: That is, an oath that called down a curse on anyone who broke it.
-[^10-10]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^10-10]: *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles.
 [^10-11]: Literally "we will let go the seventh year and the debt of every hand". See Exodus 23:10–11; Deuteronomy 15:1–2.
 [^10-12]: Literally "we have set commands on ourselves".
 [^10-13]: A shekel was about ⅖ ounce (11.5 grams). Compare the half shekel of Exodus 30:11–16.
-[^10-14]: Hebrew *lechem ha-ma'arekhet*, "the bread of the arrangement": the bread set out in rows on the table before Yahweh (Exodus 25:30; Leviticus 24:5–9).
+[^10-14]: Hebrew *lechem ha-ma'arekhet*, "the bread of the arrangement": the bread set out in rows on the table before the LORD (Exodus 25:30; Leviticus 24:5–9).
 [^10-15]: Or "purification offerings". Hebrew *chatta'ot*: offerings to remove the effects of sin and impurity (Leviticus 4).
 [^10-16]: Or "coarse meal". See Numbers 15:20–21.
 [^10-17]: Hebrew *terumot*: things set apart and given for a sacred purpose. Also "contribution" in verse 40.

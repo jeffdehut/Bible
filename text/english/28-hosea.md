@@ -7,25 +7,25 @@
 
 *Status: draft*
 
-**1** The word of Yahweh[^1-1] that came to Hosea[^1-2] son of Beeri in the days of Uzziah, Jotham, Ahaz and Hezekiah, kings of Judah, and in the days of Jeroboam son of Joash, king of Israel.[^1-3]
+**1** The word of the LORD[^1-1] that came to Hosea[^1-2] son of Beeri in the days of Uzziah, Jotham, Ahaz and Hezekiah, kings of Judah, and in the days of Jeroboam son of Joash, king of Israel.[^1-3]
 
-**2** When Yahweh first spoke through Hosea, Yahweh said to Hosea, "Go, take for yourself a wife given to prostitution, and children of prostitution,[^1-4] for the land is committing flagrant prostitution by turning away from Yahweh."
+**2** When the LORD first spoke through Hosea, the LORD said to Hosea, "Go, take for yourself a wife given to prostitution, and children of prostitution,[^1-4] for the land is committing flagrant prostitution by turning away from the LORD."
 
 **3** So he went and married Gomer daughter of Diblaim, and she conceived and bore him a son.
 
-**4** Yahweh said to him, "Name him Jezreel,[^1-5] for in a little while I will punish the house of Jehu for the bloodshed of Jezreel, and I will put an end to the kingdom of the house of Israel.
+**4** The LORD said to him, "Name him Jezreel,[^1-5] for in a little while I will punish the house of Jehu for the bloodshed of Jezreel, and I will put an end to the kingdom of the house of Israel.
 
 **5** On that day I will break the bow of Israel in the Valley of Jezreel."
 
-**6** She conceived again and bore a daughter. Yahweh said to him,[^1-6] "Name her Lo-ruhamah,[^1-7] for I will no longer have compassion on the house of Israel, that I should forgive them at all.[^1-8]
+**6** She conceived again and bore a daughter. The LORD said to him,[^1-6] "Name her Lo-ruhamah,[^1-7] for I will no longer have compassion on the house of Israel, that I should forgive them at all.[^1-8]
 
-**7** But I will have compassion on the house of Judah, and I will save them by Yahweh their God. I will not save them by bow or sword or battle, by horses or horsemen."
+**7** But I will have compassion on the house of Judah, and I will save them by the LORD their God. I will not save them by bow or sword or battle, by horses or horsemen."
 
 **8** After she had weaned Lo-ruhamah, she conceived and bore a son.
 
-**9** Yahweh said, "Name him Lo-ammi,[^1-9] for you are not my people, and I will not be yours."[^1-10]
+**9** The LORD said, "Name him Lo-ammi,[^1-9] for you are not my people, and I will not be yours."[^1-10]
 
-[^1-1]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^1-1]: *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles.
 [^1-2]: Hebrew *Hoshea*, "salvation" or "he has saved", the original name of Joshua (Numbers 13:16) and the name of the last king of Israel (2 Kings 17:1).
 [^1-3]: Jeroboam II reigned from about 786 to 746 BC. Hosea's work as a prophet ran from the last years of Jeroboam's reign until shortly before the fall of Samaria in 722 BC.
 [^1-4]: Literally "a wife of prostitutions and children of prostitutions". Hebrew *zenunim*, "prostitution, sexual unfaithfulness". It need not mean that she was a professional prostitute; it may mean that she was, or would become, unfaithful. Throughout the book the word pictures Israel's worship of other gods as a wife's unfaithfulness to her husband.
@@ -68,13 +68,13 @@
 
 **14** I will lay waste her vines and her fig trees, of which she said, "These are my wages,[^2-8] which my lovers gave me." I will turn them into a thicket, and the wild animals will devour them.
 
-**15** I will punish her for the feast days of the Baals,[^2-9] when she burned incense[^2-10] to them and decked herself with her nose ring and her jewelry, and went after her lovers, but me she forgot, declares Yahweh.[^2-11]
+**15** I will punish her for the feast days of the Baals,[^2-9] when she burned incense[^2-10] to them and decked herself with her nose ring and her jewelry, and went after her lovers, but me she forgot, declares the LORD.[^2-11]
 
 **16** Therefore I am going to win her back.[^2-12] I will lead her into the wilderness and speak tenderly to her.[^2-13]
 
 **17** There I will give her back her vineyards, and make the Valley of Achor[^2-14] a door of hope. There she will respond[^2-15] as in the days of her youth, as on the day she came up out of the land of Egypt.
 
-**18** On that day, declares Yahweh, you will call me "My husband," and you will no longer call me "My Baal."[^2-16]
+**18** On that day, declares the LORD, you will call me "My husband," and you will no longer call me "My Baal."[^2-16]
 
 **19** I will remove the names of the Baals from her mouth, and they will no longer be remembered by name.
 
@@ -82,9 +82,9 @@
 
 **21** I will betroth you to myself forever. I will betroth you to myself in righteousness and justice, in faithful love[^2-17] and compassion.
 
-**22** I will betroth you to myself in faithfulness, and you will know Yahweh.
+**22** I will betroth you to myself in faithfulness, and you will know the LORD.
 
-**23** On that day I will answer, declares Yahweh. I will answer the heavens, and they will answer the earth.
+**23** On that day I will answer, declares the LORD. I will answer the heavens, and they will answer the earth.
 
 **24** The earth will answer the grain, the new wine and the olive oil, and they will answer Jezreel.[^2-18]
 
@@ -100,7 +100,7 @@
 [^2-8]: Hebrew *etnah*, the payment given to a prostitute.
 [^2-9]: The local forms of the god Baal worshiped at many shrines. Also in verse 19.
 [^2-10]: Or "burned offerings". The Hebrew verb *qatar* means to make something go up in smoke.
-[^2-11]: Hebrew *ne'um YHWH*, "the declaration of Yahweh", a formula that marks a prophet's words as Yahweh's own solemn statement. *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^2-11]: Hebrew *ne'um YHWH*, "the declaration of the LORD", a formula that marks a prophet's words as the LORD's own solemn statement. *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles.
 [^2-12]: Or "to persuade her", "to entice her".
 [^2-13]: Literally "speak to her heart".
 [^2-14]: Achor means "trouble" (Joshua 7:24–26).
@@ -114,7 +114,7 @@
 
 *Status: draft*
 
-**1** Yahweh[^3-1] said to me, "Go again, love a woman who is loved by another man[^3-2] and is an adulteress, just as Yahweh loves the Israelites, though they turn to other gods and love raisin cakes."[^3-3]
+**1** The LORD[^3-1] said to me, "Go again, love a woman who is loved by another man[^3-2] and is an adulteress, just as the LORD loves the Israelites, though they turn to other gods and love raisin cakes."[^3-3]
 
 **2** So I bought her for myself for fifteen shekels of silver and a homer and a lethech of barley.[^3-4]
 
@@ -122,9 +122,9 @@
 
 **4** For the Israelites will live for many days without king or official, without sacrifice or standing stone, without ephod or household gods.[^3-6]
 
-**5** Afterward the Israelites will return and seek Yahweh their God and David their king.[^3-7] They will come trembling to Yahweh and to his goodness in the last days.[^3-8]
+**5** Afterward the Israelites will return and seek the LORD their God and David their king.[^3-7] They will come trembling to the LORD and to his goodness in the last days.[^3-8]
 
-[^3-1]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^3-1]: *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles.
 [^3-2]: Or "who is loved by her husband". Hebrew *rea*, "friend, companion", which can also mean a lover or a husband (Jeremiah 3:20).
 [^3-3]: Cakes of pressed raisins were eaten at festivals (2 Samuel 6:19), here probably festivals of other gods.
 [^3-4]: A shekel was about ⅖ ounce (11.5 grams), so fifteen shekels were about 6 ounces (170 grams). A homer was probably about 6 bushels (220 liters). A *lethech* was perhaps half a homer.
@@ -137,7 +137,7 @@
 
 *Status: draft*
 
-**1** Hear the word of Yahweh,[^4-1] you Israelites, for Yahweh has a case[^4-2] against those who live in the land. There is no faithfulness, no faithful love,[^4-3] no knowledge of God in the land.
+**1** Hear the word of the LORD,[^4-1] you Israelites, for the LORD has a case[^4-2] against those who live in the land. There is no faithfulness, no faithful love,[^4-3] no knowledge of God in the land.
 
 **2** There is cursing, lying, murder, stealing and adultery.[^4-4] They break all bounds, and bloodshed follows bloodshed.[^4-5]
 
@@ -155,7 +155,7 @@
 
 **9** It will be like people, like priest. I will punish them for their ways and repay them for their deeds.[^4-12]
 
-**10** They will eat but not be satisfied; they will prostitute themselves but not increase, for they have abandoned Yahweh and stopped heeding him.[^4-13]
+**10** They will eat but not be satisfied; they will prostitute themselves but not increase, for they have abandoned the LORD and stopped heeding him.[^4-13]
 
 **11** Prostitution, wine and new wine take away understanding.[^4-14]
 
@@ -165,9 +165,9 @@
 
 **14** I will not punish your daughters when they turn to prostitution, or your daughters-in-law when they commit adultery, for the men themselves go off with prostitutes and sacrifice with shrine prostitutes.[^4-17] A people without understanding will come to ruin.
 
-**15** Though you, Israel, play the prostitute, do not let Judah become guilty. Do not go to Gilgal, do not go up to Beth-aven,[^4-18] and do not swear, "As Yahweh lives!"
+**15** Though you, Israel, play the prostitute, do not let Judah become guilty. Do not go to Gilgal, do not go up to Beth-aven,[^4-18] and do not swear, "As the LORD lives!"
 
-**16** For Israel is stubborn, like a stubborn heifer. Can Yahweh now pasture them like a lamb in a broad meadow?[^4-19]
+**16** For Israel is stubborn, like a stubborn heifer. Can the LORD now pasture them like a lamb in a broad meadow?[^4-19]
 
 **17** Ephraim[^4-20] is joined to idols; leave him alone!
 
@@ -175,7 +175,7 @@
 
 **19** A wind has wrapped her up in its wings,[^4-22] and they will be put to shame because of their sacrifices.[^4-23]
 
-[^4-1]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^4-1]: *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles.
 [^4-2]: Hebrew *riv*, a lawsuit or legal dispute.
 [^4-3]: Hebrew *chesed*, loyal, covenant love.
 [^4-4]: The list recalls the Ten Commandments (Exodus 20:7, 13–16; Deuteronomy 5:11, 17–20).
@@ -187,13 +187,13 @@
 [^4-10]: Hebrew *chatta't* means both "sin" and "sin offering": the priests eat the people's sin offerings (Leviticus 6:19, 6:26 in most English Bibles), and so profit from their sin.
 [^4-11]: Literally "they lift up his soul to their iniquity".
 [^4-12]: Literally "I will punish him for his ways and repay him for his deeds".
-[^4-13]: Literally "for they have abandoned Yahweh to keep". Some join the first word of verse 11 to this verse: "they have abandoned Yahweh to devote themselves to prostitution".
+[^4-13]: Literally "for they have abandoned the LORD to keep". Some join the first word of verse 11 to this verse: "they have abandoned the LORD to devote themselves to prostitution".
 [^4-14]: Literally "take away the heart".
 [^4-15]: A wooden idol and a diviner's rod, used to seek omens.
 [^4-16]: Literally "they have prostituted themselves from under their God", as a wife leaves her husband's authority.
 [^4-17]: Hebrew *qedeshot*, "consecrated women". See Genesis 38:21 and Deuteronomy 23:18 (23:17 in most English Bibles).
 [^4-18]: Beth-aven, "house of wickedness", is a mocking name for Bethel, "house of God", where one of the royal shrines of the northern kingdom stood (1 Kings 12:28–33). Gilgal was another center of worship (9:15; 12:12, 12:11 in most English Bibles; Amos 4:4).
-[^4-19]: Or "Now Yahweh will pasture them like a lamb in a broad meadow."
+[^4-19]: Or "Now the LORD will pasture them like a lamb in a broad meadow."
 [^4-20]: Ephraim, the largest tribe of the northern kingdom, is often used in Hosea as a name for the kingdom of Israel.
 [^4-21]: The Hebrew of this verse is very uncertain. *Her rulers* is literally "her shields".
 [^4-22]: Or "A spirit". Hebrew *ruach*. The wind will sweep them away (compare "a spirit of prostitution" in verse 12).
@@ -209,13 +209,13 @@
 
 **3** I know Ephraim, and Israel is not hidden from me. For now, Ephraim, you have prostituted yourself; Israel is defiled.
 
-**4** Their deeds do not allow them to return to their God, for a spirit of prostitution is within them, and they do not know Yahweh.[^5-4]
+**4** Their deeds do not allow them to return to their God, for a spirit of prostitution is within them, and they do not know the LORD.[^5-4]
 
 **5** Israel's pride testifies against him.[^5-5] Israel and Ephraim will stumble in their iniquity, and Judah also will stumble with them.
 
-**6** With their flocks and their herds they will go to seek Yahweh, but they will not find him; he has withdrawn from them.
+**6** With their flocks and their herds they will go to seek the LORD, but they will not find him; he has withdrawn from them.
 
-**7** They have been unfaithful to Yahweh, for they have borne children who are not his.[^5-6] Now the new moon[^5-7] will devour them along with their fields.
+**7** They have been unfaithful to the LORD, for they have borne children who are not his.[^5-6] Now the new moon[^5-7] will devour them along with their fields.
 
 **8** Blow the horn in Gibeah, the trumpet in Ramah! Sound the alarm in Beth-aven![^5-8] Behind you, Benjamin![^5-9]
 
@@ -236,7 +236,7 @@
 [^5-1]: Or "For you are responsible for justice". Hebrew *mishpat*.
 [^5-2]: The meaning of the Hebrew is uncertain. Some scholars read "they have dug deep the pit of Shittim", with small changes to the Hebrew, continuing the images of the snare and the net in verse 1.
 [^5-3]: Literally "and I am discipline for all of them".
-[^5-4]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^5-4]: *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles.
 [^5-5]: Literally "answers in his face".
 [^5-6]: Literally "foreign children".
 [^5-7]: Or "a month", that is, very soon. The new moon was a festival (2:13, 2:11 in most English Bibles).
@@ -253,11 +253,11 @@
 
 *Status: draft*
 
-**1** "Come, let us return to Yahweh.[^6-1] For he has torn us, but he will heal us; he has struck us, but he will bind up our wounds.
+**1** "Come, let us return to the LORD.[^6-1] For he has torn us, but he will heal us; he has struck us, but he will bind up our wounds.
 
 **2** After two days he will revive us; on the third day he will raise us up, so that we may live before him.[^6-2]
 
-**3** Let us know, let us press on to know Yahweh. His coming is as sure as the dawn. He will come to us like the rain, like the spring rain that waters the earth."[^6-3]
+**3** Let us know, let us press on to know the LORD. His coming is as sure as the dawn. He will come to us like the rain, like the spring rain that waters the earth."[^6-3]
 
 **4** What shall I do with you, Ephraim? What shall I do with you, Judah? Your faithful love[^6-4] is like the morning mist, like the dew that goes away early.
 
@@ -275,7 +275,7 @@
 
 **11** For you also, Judah, a harvest is appointed, when I restore the fortunes of my people.[^6-9]
 
-[^6-1]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles. Verses 1–3 give the words of the people who seek Yahweh in their distress (5:15).
+[^6-1]: *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles. Verses 1–3 give the words of the people who seek the LORD in their distress (5:15).
 [^6-2]: That is, soon. Some Christian writers have connected this verse with the resurrection of Jesus "on the third day" (1 Corinthians 15:4).
 [^6-3]: Hebrew *malqosh*, the spring rain of March and April, and *yoreh*, which can mean "the autumn rain" or "waters".
 [^6-4]: Hebrew *chesed*, loyal, covenant love. Also in verse 6.
@@ -307,7 +307,7 @@
 
 **9** Foreigners devour his strength, but he does not know it. Gray hair is sprinkled on him, but he does not know it.
 
-**10** Israel's pride testifies against him,[^7-8] yet they do not return to Yahweh[^7-9] their God or seek him in spite of all this.
+**10** Israel's pride testifies against him,[^7-8] yet they do not return to the LORD[^7-9] their God or seek him in spite of all this.
 
 **11** Ephraim is like a dove, easily fooled and without sense.[^7-10] They call to Egypt; they go to Assyria.
 
@@ -329,7 +329,7 @@
 [^7-6]: Four of the last six kings of Israel were assassinated (2 Kings 15:10, 14, 25, 30).
 [^7-7]: That is, burned on one side and raw on the other.
 [^7-8]: See 5:5.
-[^7-9]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^7-9]: *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles.
 [^7-10]: Literally "without heart".
 [^7-11]: The meaning of the Hebrew is uncertain.
 [^7-12]: Or "they drag themselves about". The Septuagint reads "they gash themselves" (compare 1 Kings 18:28), a Hebrew reading that differs by one letter.
@@ -339,7 +339,7 @@
 
 *Status: draft*
 
-**1** Put the horn to your lips![^8-1] An eagle is over the house of Yahweh,[^8-2] because they have broken my covenant and rebelled against my law.
+**1** Put the horn to your lips![^8-1] An eagle is over the house of the LORD,[^8-2] because they have broken my covenant and rebelled against my law.
 
 **2** They cry out to me, "My God, we, Israel, know you!"
 
@@ -363,12 +363,12 @@
 
 **12** Though I write for him the many things of my law,[^8-12] they are regarded as something strange.
 
-**13** They sacrifice meat as gifts to me[^8-13] and eat it, but Yahweh does not accept them. Now he will remember their iniquity and punish their sins. They will return to Egypt.
+**13** They sacrifice meat as gifts to me[^8-13] and eat it, but the LORD does not accept them. Now he will remember their iniquity and punish their sins. They will return to Egypt.
 
 **14** Israel has forgotten his Maker and built palaces,[^8-14] and Judah has multiplied fortified cities. But I will send fire on his cities, and it will devour their strongholds.[^8-15]
 
 [^8-1]: Literally "To your palate the horn!" Hebrew *shofar*, a ram's horn blown as an alarm.
-[^8-2]: Literally "Like an eagle over the house of Yahweh". Hebrew *nesher*, "eagle" or "vulture". *The house of Yahweh* may here mean the land or people of Israel (compare 9:15). *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^8-2]: Literally "Like an eagle over the house of the LORD". Hebrew *nesher*, "eagle" or "vulture". *The house of the LORD* may here mean the land or people of Israel (compare 9:15). *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles.
 [^8-3]: Or "so that it will be cut off", that is, the silver and gold, or Israel.
 [^8-4]: Or "Your calf is rejected, Samaria!" The meaning of the Hebrew is uncertain. The golden calves set up by Jeroboam I at Bethel and Dan (1 Kings 12:28–30) were the chief images of the northern kingdom, whose capital was Samaria.
 [^8-5]: A play on words: *tsemach*, "head of grain", and *qemach*, "flour".
@@ -391,11 +391,11 @@
 
 **2** Threshing floor and winepress will not feed them, and the new wine will fail her.
 
-**3** They will not remain in the land of Yahweh.[^9-2] Ephraim will return to Egypt, and in Assyria they will eat unclean food.
+**3** They will not remain in the land of the LORD.[^9-2] Ephraim will return to Egypt, and in Assyria they will eat unclean food.
 
-**4** They will not pour out wine offerings to Yahweh, and their sacrifices will not please him. They will be like the bread of mourners to them; all who eat it will be defiled.[^9-3] For their bread will be for themselves alone;[^9-4] it will not come into the house of Yahweh.
+**4** They will not pour out wine offerings to the LORD, and their sacrifices will not please him. They will be like the bread of mourners to them; all who eat it will be defiled.[^9-3] For their bread will be for themselves alone;[^9-4] it will not come into the house of the LORD.
 
-**5** What will you do on the day of the appointed festival, on the day of Yahweh's feast?
+**5** What will you do on the day of the appointed festival, on the day of the LORD's feast?
 
 **6** For look, they have gone away from destruction, but Egypt will gather them, and Memphis[^9-5] will bury them. Nettles will take possession of their precious things of silver, and thorns will grow in their tents.
 
@@ -413,7 +413,7 @@
 
 **13** Ephraim, as I saw, was like Tyre, planted in a pleasant meadow; but Ephraim will bring out his children to the slayer.[^9-11]
 
-**14** Give them, Yahweh—what will you give? Give them a womb that miscarries and breasts that are dry.
+**14** Give them, the LORD—what will you give? Give them a womb that miscarries and breasts that are dry.
 
 **15** All their wickedness is in Gilgal; there I came to hate them. Because of their wicked deeds I will drive them out of my house. I will love them no more; all their officials are rebels.[^9-12]
 
@@ -422,7 +422,7 @@
 **17** My God will reject them, because they have not listened to him, and they will be wanderers among the nations.
 
 [^9-1]: Literally "from upon your God".
-[^9-2]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^9-2]: *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles.
 [^9-3]: Food in a house of mourning was unclean because of contact with the dead (Numbers 19:14–15; Deuteronomy 26:14).
 [^9-4]: Literally "for their soul" or "for their appetite".
 [^9-5]: Hebrew *Moph*, Memphis, the ancient capital of Lower Egypt, famous for its tombs.
@@ -443,7 +443,7 @@
 
 **2** Their heart is false;[^10-3] now they must bear their guilt. He will break down their altars and destroy their standing stones.
 
-**3** For now they will say, "We have no king, because we did not fear Yahweh.[^10-4] And the king, what could he do for us?"
+**3** For now they will say, "We have no king, because we did not fear the LORD.[^10-4] And the king, what could he do for us?"
 
 **4** They speak mere words, swear empty oaths and make covenants. So lawsuits spring up like poisonous weeds in the furrows of a field.
 
@@ -461,7 +461,7 @@
 
 **11** Ephraim was a trained heifer that loved to thresh, and I spared her fair neck.[^10-17] But now I will harness Ephraim; Judah must plow; Jacob must harrow for himself.
 
-**12** Sow for yourselves righteousness; reap the fruit of faithful love.[^10-18] Break up your unplowed ground, for it is time to seek Yahweh, until he comes and rains righteousness on you.[^10-19]
+**12** Sow for yourselves righteousness; reap the fruit of faithful love.[^10-18] Break up your unplowed ground, for it is time to seek the LORD, until he comes and rains righteousness on you.[^10-19]
 
 **13** You have plowed wickedness and reaped injustice; you have eaten the fruit of lies. Because you have trusted in your own way and in the great number of your warriors,
 
@@ -472,7 +472,7 @@
 [^10-1]: Hebrew *boqeq*, which usually means "laid waste" or "emptied"; here perhaps "spreading" or "luxuriant".
 [^10-2]: Hebrew *matsevot*, standing stones set up as objects of worship. Also in verse 2.
 [^10-3]: Or "divided". Literally "smooth".
-[^10-4]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^10-4]: *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles.
 [^10-5]: Hebrew plural, "heifers", perhaps said in mockery. See 8:5.
 [^10-6]: Bethel. See 4:15.
 [^10-7]: Hebrew *kemarim*, a word used only of priests of other gods (2 Kings 23:5; Zephaniah 1:4).
@@ -514,9 +514,9 @@
 
 **9** I will not carry out my burning anger; I will not again destroy Ephraim. For I am God and not a human being, the Holy One among you, and I will not come in wrath.[^11-12]
 
-**10** They will follow Yahweh;[^11-13] he will roar like a lion. When he roars, his children will come trembling from the west.[^11-14]
+**10** They will follow the LORD;[^11-13] he will roar like a lion. When he roars, his children will come trembling from the west.[^11-14]
 
-**11** They will come trembling like birds from Egypt, like doves from the land of Assyria, and I will settle them in their homes, declares Yahweh.
+**11** They will come trembling like birds from Egypt, like doves from the land of Assyria, and I will settle them in their homes, declares the LORD.
 
 [^11-1]: Quoted in Matthew 2:15, which follows the Hebrew. The Septuagint reads "and out of Egypt I called his children".
 [^11-2]: Literally "They called to them; so they went from before them", perhaps meaning the prophets (verse 7; 12:11, 12:10 in most English Bibles). The Septuagint reads "The more I called them, the more they went away from me".
@@ -530,7 +530,7 @@
 [^11-10]: Admah and Zeboiim were destroyed with Sodom and Gomorrah (Genesis 14:2; Deuteronomy 29:22, 29:23 in most English Bibles).
 [^11-11]: Literally "my compassions grow warm together".
 [^11-12]: Or "I will not come into the city". The Hebrew *be-ir* usually means "into a city".
-[^11-13]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^11-13]: *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles.
 [^11-14]: Literally "from the sea".
 
 ## Chapter 12
@@ -541,13 +541,13 @@
 
 **2** Ephraim feeds on the wind and pursues the east wind all day long. He multiplies lies and violence. They make a covenant with Assyria, and olive oil is carried to Egypt.
 
-**3** Yahweh[^12-3] has a case against Judah; he will punish Jacob according to his ways and repay him according to his deeds.
+**3** The LORD[^12-3] has a case against Judah; he will punish Jacob according to his ways and repay him according to his deeds.
 
 **4** In the womb he grasped his brother's heel,[^12-4] and in his manhood he struggled with God.[^12-5]
 
 **5** He struggled with the angel and prevailed; he wept and pleaded with him. He found him at Bethel, and there he spoke with us.[^12-6]
 
-**6** Yahweh, the God of Armies,[^12-7] Yahweh is his name![^12-8]
+**6** The LORD, the God of Armies,[^12-7] the LORD is his name![^12-8]
 
 **7** As for you, return to your God with his help.[^12-9] Keep faithful love[^12-10] and justice, and wait for your God continually.
 
@@ -555,7 +555,7 @@
 
 **9** Ephraim says, "Surely I have become rich; I have found wealth for myself.[^12-12] In all my labor they will find in me no iniquity that is sin."
 
-**10** But I am Yahweh your God from the land of Egypt.[^12-13] I will make you live in tents again, as in the days of the appointed festival.[^12-14]
+**10** But I am the LORD your God from the land of Egypt.[^12-13] I will make you live in tents again, as in the days of the appointed festival.[^12-14]
 
 **11** I spoke to the prophets; it was I who multiplied visions, and through the prophets I spoke in parables.[^12-15]
 
@@ -563,18 +563,18 @@
 
 **13** Jacob fled to the country of Aram; Israel served for a wife, and for a wife he kept sheep.[^12-18]
 
-**14** By a prophet Yahweh brought Israel up from Egypt, and by a prophet Israel was kept.[^12-19]
+**14** By a prophet the LORD brought Israel up from Egypt, and by a prophet Israel was kept.[^12-19]
 
 **15** Ephraim has provoked bitter anger, so his Lord will leave his bloodguilt on him and repay him for his contempt.
 
 [^12-1]: This verse is 11:12 in most English Bibles, and verses 2–15 are 12:1–14.
 [^12-2]: The meaning of the Hebrew is uncertain. It may also mean "and Judah is still unruly against God, against the faithful Holy One". *Holy One* is plural in Hebrew, probably a plural of majesty (compare Proverbs 9:10; 30:3), or "the holy ones".
-[^12-3]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^12-3]: *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles.
 [^12-4]: A play on words: *aqav*, "he grasped the heel", and *Ya'aqov*, "Jacob" (Genesis 25:26; 27:36).
 [^12-5]: A play on words: *sarah*, "he struggled", and *Yisra'el*, "Israel" (Genesis 32:25–29, 32:24–28 in most English Bibles). Also in verse 5.
 [^12-6]: The Septuagint and the Syriac read "with him". On Jacob at Bethel, see Genesis 28:10–22; 35:1–15.
-[^12-7]: *Yahweh, the God of Armies* (Hebrew *YHWH Elohei ha-tseva'ot*) is traditionally "the LORD God of hosts". *Tseva'ot* means armies: the heavenly hosts and the armies of Israel.
-[^12-8]: Literally "Yahweh is his memorial", the name by which he is to be remembered (Exodus 3:15).
+[^12-7]: *The LORD, the God of Armies* (Hebrew *YHWH Elohei ha-tseva'ot*) is traditionally "the LORD God of hosts". *Tseva'ot* means armies: the heavenly hosts and the armies of Israel.
+[^12-8]: Literally "The LORD is his memorial", the name by which he is to be remembered (Exodus 3:15).
 [^12-9]: Literally "by your God you will return".
 [^12-10]: Hebrew *chesed*, loyal, covenant love.
 [^12-11]: Hebrew *kena'an*, "Canaan", also used for "trader" (compare Zephaniah 1:11).
@@ -597,7 +597,7 @@
 
 **3** Therefore they will be like the morning mist, like the dew that goes away early, like chaff that swirls from a threshing floor, like smoke from a window.[^13-3]
 
-**4** But I am Yahweh[^13-4] your God from the land of Egypt.[^13-5] You know no God but me, and there is no savior except me.
+**4** But I am the LORD[^13-4] your God from the land of Egypt.[^13-5] You know no God but me, and there is no savior except me.
 
 **5** It was I who knew you[^13-6] in the wilderness, in the land of drought.
 
@@ -619,12 +619,12 @@
 
 **14** Shall I ransom them from the power of Sheol? Shall I redeem them from death? Where, O death, are your plagues? Where, O Sheol, is your destruction?[^13-12] Compassion is hidden from my eyes.
 
-**15** Though he flourishes among his brothers,[^13-13] an east wind will come, the wind of Yahweh rising from the wilderness. His spring will dry up, and his fountain will fail. He will plunder his treasury of every precious thing.[^13-14]
+**15** Though he flourishes among his brothers,[^13-13] an east wind will come, the wind of the LORD rising from the wilderness. His spring will dry up, and his fountain will fail. He will plunder his treasury of every precious thing.[^13-14]
 
 [^13-1]: Literally "according to their understanding".
 [^13-2]: Or "People who offer human sacrifice kiss calves!" Literally "sacrificers of humankind kiss calves". The meaning of the Hebrew is uncertain. On kissing an idol, compare 1 Kings 19:18.
 [^13-3]: An opening in the roof or wall through which smoke escaped.
-[^13-4]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^13-4]: *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles.
 [^13-5]: See 12:10 (12:9 in most English Bibles).
 [^13-6]: The Septuagint reads "I shepherded you", a Hebrew reading that differs by one letter.
 [^13-7]: Hebrew *ashur*, "I will watch", is spelled like *Ashur*, "Assyria".
@@ -642,9 +642,9 @@
 
 **1** Samaria will bear her guilt, because she has rebelled against her God. They will fall by the sword; their little ones will be dashed to pieces, and their pregnant women ripped open.[^14-1]
 
-**2** Return, Israel, to Yahweh[^14-2] your God, for you have stumbled because of your iniquity.
+**2** Return, Israel, to the LORD[^14-2] your God, for you have stumbled because of your iniquity.
 
-**3** Take words with you and return to Yahweh. Say to him, "Take away all iniquity and accept what is good, and we will offer our lips as bulls.[^14-3]
+**3** Take words with you and return to the LORD. Say to him, "Take away all iniquity and accept what is good, and we will offer our lips as bulls.[^14-3]
 
 **4** Assyria will not save us; we will not ride on horses. We will never again say 'Our God' to the work of our hands, for in you the orphan finds compassion."
 
@@ -658,10 +658,10 @@
 
 **9** Ephraim, what more have I to do with idols?[^14-7] It is I who answer and watch over him.[^14-8] I am like a luxuriant cypress; your fruit comes from me.
 
-**10** Who is wise? Let him understand these things. Who is discerning? Let him know them. For the ways of Yahweh are right, and the righteous walk in them, but rebels stumble in them.
+**10** Who is wise? Let him understand these things. Who is discerning? Let him know them. For the ways of the LORD are right, and the righteous walk in them, but rebels stumble in them.
 
 [^14-1]: This verse is 13:16 in most English Bibles, and verses 2–10 are 14:1–9.
-[^14-2]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^14-2]: *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles.
 [^14-3]: That is, our words of prayer and praise in place of sacrifices. Literally "and we will pay bulls, our lips". The Septuagint reads "the fruit of our lips" (compare Hebrews 13:15), dividing the same consonants differently.
 [^14-4]: Or "the lotus". Hebrew *shoshannah*.
 [^14-5]: Probably the cedars of Lebanon, with their deep roots.

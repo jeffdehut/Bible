@@ -9,7 +9,8 @@ Checks  every chapter against its source chapter in text/hebrew or text/greek:
           - one translated line for every source verse, and no others
           - every note referenced in the text is defined, and every defined note is used
           - the front matter has a known status
-          - an Old Testament chapter whose Hebrew has the divine name YHWH says "Yahweh"
+          - an Old Testament chapter whose Hebrew has the divine name YHWH says "LORD" (or "GOD",
+            after "Lord"), and no verse writes the name "Yahweh"
 Writes  text/english/NN-book.md      the translated chapters of each book, with notes
         translation/STATUS.md        progress by book and status
 Exits non-zero if any check fails.
@@ -36,6 +37,8 @@ VERSE = re.compile(r"\*\*(\d+)\*\* (.+)")
 # YHWH as a whole word, with up to three one-letter prefixes (and, in, to, like, from, that).
 # The maqaf joins words, so it is read as a space: Aramaic di-hawah ("who was") is not the name.
 DIVINE_NAME = re.compile(r"(?<![\u05D0-\u05EA])[ובלכמש]{0,3}יהוה(?![\u05D0-\u05EA])")
+# The divine name in English: "the LORD", "LORD" where God is addressed, "GOD" next to "Lord".
+DIVINE_NAME_EN = re.compile(r"\b(LORD|GOD)\b")
 NOTE_DEF = re.compile(r"\[\^(\w+)\]: (.+)")
 NOTE_REF = re.compile(r"\[\^(\w+)\](?!:)")
 
@@ -112,8 +115,11 @@ def main():
                 errors.append(f"{label}: undefined notes {sorted(used - set(notes))}")
             if set(notes) - used:
                 errors.append(f"{label}: unused notes {sorted(set(notes) - used)}")
-            if c in has_name and not any("Yahweh" in t for t in verses.values()):
-                errors.append(f"{label}: the Hebrew has the divine name YHWH, but the translation has no \"Yahweh\"")
+            if c in has_name and not any(DIVINE_NAME_EN.search(t) for t in verses.values()):
+                errors.append(f"{label}: the Hebrew has the divine name YHWH, but the translation has no \"LORD\"")
+            for v, t in verses.items():
+                if "Yahweh" in NOTE_REF.sub("", t):
+                    errors.append(f"{label}:{v}: the divine name is written \"the LORD\", not \"Yahweh\"")
             chapters[(num, osis, name, testament)][c] = (meta, verses, notes)
 
     if errors:

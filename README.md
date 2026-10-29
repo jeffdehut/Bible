@@ -30,8 +30,8 @@ text/
 translation/                     Translation source: one file per chapter, plus STATUS.md
 apparatus/
   greek/40-matthew.md …          SBLGNT apparatus: variant readings, verse by verse
-connections/                     Obsidian notes: cross-references, people, places, genealogy, timeline
-  README.md                      Start here: how to explore the connections in Obsidian
+connections/                     Linked notes: cross-references, people, places, genealogy, timeline
+  README.md                      Start here: what the notes hold and where the data comes from
   genealogy/                     Family groups, generation by generation
   events/ timeline/              Dated events, century notes, synchronisms, the chart
 data/                            Curated rulers, eras, world events and synchronisms (see data/README.md)
@@ -78,7 +78,6 @@ scripts/
   maps.py                        Builds the maps in maps/ from elevation and place data
   reader.py                      Builds the reader's data in data/bible/
   templates/                     The page sources the scripts fill with data
-.obsidian/                       Obsidian settings: graph colors and filters
 VERIFICATION.md                  What was checked, what was found, what was fixed
 TRANSLATION.md                   Translation goals, principles, decisions, format and review process
 ROADMAP.md                       Plans: web reader, maps, genealogy viewer, accounts, Chinese
@@ -99,7 +98,7 @@ paragraph per verse:
 **1** Ἐν ἀρχῇ ἦν ὁ λόγος, καὶ ὁ λόγος ἦν πρὸς τὸν θεόν, καὶ θεὸς ἦν ὁ λόγος.
 ```
 
-The files read well on GitHub, in Obsidian, or in any Markdown viewer. They are also easy
+The files read well in any Markdown viewer. They are also easy
 to parse. `parse_book_md()` in `scripts/build.py` reads a file back into
 (chapter, verse, text) rows.
 
@@ -121,11 +120,11 @@ open, and [translation/STATUS.md](translation/STATUS.md) for progress. Every cha
 its review status, and drafts are marked as AI-generated until people who read Hebrew or
 Greek have reviewed them.
 
-## Exploring connections in Obsidian
+## Exploring the connections
 
-Open this folder as an Obsidian vault. `connections/` recreates the three parts of Chris
-Harrison's [Bible visualizations](https://www.chrisharrison.net/index.php/visualizations/BibleViz)
-as links that Obsidian's graph view can show:
+`connections/` recreates the three parts of Chris Harrison's
+[Bible visualizations](https://www.chrisharrison.net/index.php/visualizations/BibleViz) as notes
+linked to one another, which `graph.html` draws as one web:
 
 1. **Cross-references:** 1,189 chapter notes, each embedding its Hebrew or Greek text and
    linking to the chapters it cross-references. That gives 61,387 cross-references,
@@ -175,7 +174,7 @@ other pages share one bar across the top (the name, which leads back to the read
 Maps, Genealogy and Timeline), the reader's colors and its light or dark setting.
 
 `genealogy.html` (*The Generations*) and `history.html` (*Streams of Time*) present
-the genealogy and the timeline for readers who don't use Obsidian. Each is a single file
+the genealogy and the timeline in the browser. Each is a single file
 that opens in a browser, works on phones, and follows the reader's light or dark setting.
 `scripts/connections.py` rebuilds them from `scripts/templates/` and the same data as the notes.
 
@@ -190,16 +189,15 @@ for the two thousand people outside Adam's family too. In the reader, a verse li
 it names under *People*, each opening in the genealogy. The names come from STEPBible's TIPNR,
 which marks them in the Hebrew, Aramaic and Greek.
 
-`graph.html` (*The Web of Scripture*) draws the connections in `connections/` as one web, in
-the manner of Obsidian's graph view: the 1,189 chapters, colored by section; the 3,003 people
-and 1,004 places the Bible names; Theographic's 450 events; and 32,043 threads between them
+`graph.html` (*The Web of Scripture*) draws the connections in `connections/` as one web:
+the 1,189 chapters, colored by section; the 3,003 people
+and 1,004 places the Bible names; Theographic's 450 events; and 32,045 threads between them
 (each chapter's ten strongest cross-references, each chapter to the people and places it
 names, people named together, parents and children, events). It opens on a wheel: the chapters
 light up round a circle in order, Genesis to Revelation, the cross-references draw in across
 it, and the whole unfolds into the web, where books that quote each other gather and people
 cluster round their chapters. `scripts/graph.py` lays the web out when the site is built (the
-force model of d3-force, the engine of Obsidian's graph, with the push between all nodes worked
-out on a mesh), and the page draws it with WebGL, so it pans and pinch-zooms smoothly on a
+force model of d3-force, with the push between all nodes worked out on a mesh), and the page draws it with WebGL, so it pans and pinch-zooms smoothly on a
 phone. Search finds any chapter ("gen 12"), person, place or event; choosing one lights its
 threads and opens a card that leads on to the reader, the genealogy and the maps; the colors
 in the key show or hide each kind; and *Wheel* sets everything back round the circle. Every
@@ -234,7 +232,7 @@ the sheets share one page template, `scripts/templates/map.html`; `scripts/maps.
 them (`python3 scripts/maps.py exodus` rebuilds one). Each verse reference on a sheet opens
 the reader. `scripts/maps.py` also writes `data/bible/places.json`, the places each verse
 names: OpenBible's verse tags for every place a sheet shows, kept only where our translation
-names the place in that verse (3,974 in 3,019 verses), each with the sheet that suits its
+names the place in that verse (3,973 in 3,018 verses), each with the sheet that suits its
 book.
 
 The data is open: OpenBible.info cross-references; STEPBible's tagged names, family links and

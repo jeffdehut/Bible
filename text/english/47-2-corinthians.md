@@ -182,7 +182,7 @@
 [^3-12]: Greek *telos*, "end, goal, outcome".
 [^3-13]: Here the scriptures of Moses, read in the synagogue (verse 15).
 [^3-14]: Or "the same covering remains, since it is not revealed that in Christ it is being brought to an end". What is "brought to an end" may be the covering or the old covenant.
-[^3-15]: Compare Exodus 34:34, "whenever Moses went in before Yahweh to speak with him, he would take the covering off". The subject of "turns" is not stated: it may be anyone, "their hearts" (verse 15), or Moses. In the Hebrew, "the Lord" in Exodus 34:34 is God's personal name, Yahweh.
+[^3-15]: Compare Exodus 34:34, "whenever Moses went in before the LORD to speak with him, he would take the covering off". The subject of "turns" is not stated: it may be anyone, "their hearts" (verse 15), or Moses. In the Hebrew, "the Lord" in Exodus 34:34 is God's personal name, YHWH ("the LORD").
 [^3-16]: "The Lord" here takes up the word from verse 16.
 [^3-17]: Or "reflecting". Greek *katoptrizomai*, from *katoptron*, "mirror".
 [^3-18]: Literally "from glory to glory".
@@ -360,7 +360,7 @@
 [^6-13]: Many manuscripts read "you are the temple of the living God".
 [^6-14]: Combining Leviticus 26:11–12 and Ezekiel 37:27.
 [^6-15]: Isaiah 52:11 ("Touch nothing unclean. Go out from the middle of her; purify yourselves"), close to the Septuagint. "I will welcome you" recalls Ezekiel 20:34 in the Septuagint, where the Hebrew has "I will gather you".
-[^6-16]: Compare 2 Samuel 7:14 ("I will be his father") and Isaiah 43:6 ("my sons … my daughters"). *The Lord Almighty*: Greek *kyrios pantokrator*, the Septuagint's usual rendering of "Yahweh of Armies" (as in 2 Samuel 7:8). In the Hebrew, "the Lord" is God's personal name, Yahweh.
+[^6-16]: Compare 2 Samuel 7:14 ("I will be his father") and Isaiah 43:6 ("my sons … my daughters"). *The Lord Almighty*: Greek *kyrios pantokrator*, the Septuagint's usual rendering of "the LORD of Armies" (as in 2 Samuel 7:8). In the Hebrew, "the Lord" is God's personal name, YHWH ("the LORD").
 
 ## Chapter 7
 
@@ -569,7 +569,7 @@
 [^10-8]: Literally "he says", or "one says", perhaps of a particular opponent.
 [^10-9]: The Greek plays on *enkrino*, "class with", and *synkrino*, "compare"; *synkrino* is used again later in the verse.
 [^10-10]: Greek *kanon*, "measuring rod, rule", here the area of work assigned to Paul; also in verses 15 and 16.
-[^10-11]: Jeremiah 9:23 (9:24 in most English Bibles), in brief, as in 1 Corinthians 1:31. In the Hebrew, "the Lord" is God's personal name, Yahweh.
+[^10-11]: Jeremiah 9:23 (9:24 in most English Bibles), in brief, as in 1 Corinthians 1:31. In the Hebrew, "the Lord" is God's personal name, YHWH ("the LORD").
 
 ## Chapter 11
 

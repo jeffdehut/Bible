@@ -7,7 +7,7 @@
 
 *Status: draft*
 
-**1** After the death of Moses the servant of Yahweh,[^1-1] Yahweh said to Joshua son of Nun, Moses' assistant,[^1-2]
+**1** After the death of Moses the servant of the LORD,[^1-1] the LORD said to Joshua son of Nun, Moses' assistant,[^1-2]
 
 **2** "Moses my servant is dead. Now get up and cross this Jordan, you and all this people, into the land that I am giving to them, to the Israelites.
 
@@ -23,27 +23,27 @@
 
 **8** This book of the law must not depart from your mouth. Meditate[^1-10] on it day and night, so that you may be careful to do everything that is written in it. For then you will make your way prosper, and then you will succeed.
 
-**9** Have I not commanded you? Be strong and courageous. Do not be terrified or dismayed, for Yahweh your God is with you wherever you go."
+**9** Have I not commanded you? Be strong and courageous. Do not be terrified or dismayed, for the LORD your God is with you wherever you go."
 
 **10** So Joshua commanded the officials[^1-11] of the people,
 
-**11** "Go through the camp and command the people: 'Get provisions ready for yourselves, for in three days[^1-12] you will cross this Jordan to go in and take possession of the land that Yahweh your God is giving you to possess.'"
+**11** "Go through the camp and command the people: 'Get provisions ready for yourselves, for in three days[^1-12] you will cross this Jordan to go in and take possession of the land that the LORD your God is giving you to possess.'"
 
 **12** To the Reubenites, the Gadites and the half-tribe of Manasseh Joshua said,
 
-**13** "Remember the command that Moses the servant of Yahweh gave you: 'Yahweh your God is giving you rest, and he will give you this land.'[^1-13]
+**13** "Remember the command that Moses the servant of the LORD gave you: 'The LORD your God is giving you rest, and he will give you this land.'[^1-13]
 
 **14** Your wives, your little ones and your livestock may stay in the land that Moses gave you east of the Jordan.[^1-14] But all your fighting men[^1-15] are to cross over armed[^1-16] ahead of your brothers and help them,
 
-**15** until Yahweh gives your brothers rest as he has given you, and they too take possession of the land that Yahweh your God is giving them. Then you may return to the land that is your possession and take possession of it, the land that Moses the servant of Yahweh gave you east of the Jordan, toward the sunrise."
+**15** until the LORD gives your brothers rest as he has given you, and they too take possession of the land that the LORD your God is giving them. Then you may return to the land that is your possession and take possession of it, the land that Moses the servant of the LORD gave you east of the Jordan, toward the sunrise."
 
 **16** They answered Joshua, "Everything you have commanded us we will do, and wherever you send us we will go.
 
-**17** Just as we obeyed Moses in everything, so we will obey you. Only may Yahweh your God be with you as he was with Moses.
+**17** Just as we obeyed Moses in everything, so we will obey you. Only may the LORD your God be with you as he was with Moses.
 
 **18** Anyone who rebels against your command[^1-17] and does not obey your words, whatever you command him, is to be put to death. Only be strong and courageous."
 
-[^1-1]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^1-1]: *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles.
 [^1-2]: Hebrew *mesharet*, "attendant, servant": one who served a leader personally (Exodus 24:13; 33:11).
 [^1-3]: Here "the Hittites" probably stands for the peoples of Syria and the north in general, as in some ancient Near Eastern texts.
 [^1-4]: Literally "the Great Sea, the going in of the sun", that is, the Mediterranean in the west.
@@ -81,17 +81,17 @@
 
 **8** Before the men lay down for the night, she went up to them on the roof
 
-**9** and said to the men, "I know that Yahweh[^2-6] has given you the land, that terror of you has fallen on us, and that all who live in the land are melting in fear before you.
+**9** and said to the men, "I know that the LORD[^2-6] has given you the land, that terror of you has fallen on us, and that all who live in the land are melting in fear before you.
 
-**10** For we have heard how Yahweh dried up the water of the Red Sea[^2-7] before you when you came out of Egypt, and what you did to the two kings of the Amorites east of the Jordan,[^2-8] Sihon and Og, whom you devoted to destruction.[^2-9]
+**10** For we have heard how the LORD dried up the water of the Red Sea[^2-7] before you when you came out of Egypt, and what you did to the two kings of the Amorites east of the Jordan,[^2-8] Sihon and Og, whom you devoted to destruction.[^2-9]
 
-**11** When we heard it, our hearts melted, and no one had any courage left because of you,[^2-10] for Yahweh your God is God in the heavens above and on the earth below.
+**11** When we heard it, our hearts melted, and no one had any courage left because of you,[^2-10] for the LORD your God is God in the heavens above and on the earth below.
 
-**12** So now, please swear to me by Yahweh that, since I have shown you faithful love,[^2-11] you will also show faithful love to my father's household. Give me a sure sign
+**12** So now, please swear to me by the LORD that, since I have shown you faithful love,[^2-11] you will also show faithful love to my father's household. Give me a sure sign
 
 **13** that you will spare the lives of my father and my mother, my brothers and my sisters,[^2-12] and everyone who belongs to them, and that you will save our lives from death."
 
-**14** The men said to her, "Our lives for yours, even to death![^2-13] If you do not tell anyone about this business of ours, then when Yahweh gives us the land, we will treat you with faithful love and faithfulness."
+**14** The men said to her, "Our lives for yours, even to death![^2-13] If you do not tell anyone about this business of ours, then when the LORD gives us the land, we will treat you with faithful love and faithfulness."
 
 **15** Then she let them down by a rope through the window, for her house was built into the town wall,[^2-14] and she lived in the wall.
 
@@ -111,14 +111,14 @@
 
 **23** Then the two men turned back. They came down from the hill country, crossed the river and came to Joshua son of Nun, and they told him everything that had happened to them.
 
-**24** They said to Joshua, "Yahweh has given the whole land into our hands. All who live in the land are melting in fear before us."
+**24** They said to Joshua, "The LORD has given the whole land into our hands. All who live in the land are melting in fear before us."
 
 [^2-1]: *Shittim* means "acacia trees". It was Israel's camp in the plains of Moab, east of the Jordan (Numbers 25:1).
 [^2-2]: Hebrew *zonah*. The Aramaic Targum calls her an innkeeper.
 [^2-3]: Literally "lay down".
 [^2-4]: Literally "hidden him", perhaps meaning each of them.
 [^2-5]: Literally "flax of the tree", probably the stalks of flax laid out to dry.
-[^2-6]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^2-6]: *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles.
 [^2-7]: Hebrew *Yam Suph*, literally "Sea of Reeds". The Greek Septuagint calls it "the Red Sea".
 [^2-8]: Literally "beyond the Jordan".
 [^2-9]: Hebrew *charam*: to give something over completely to God, which in war meant destroying it and keeping nothing for oneself. See Numbers 21:21–35.
@@ -138,19 +138,19 @@
 
 **2** At the end of three days the officials went through the camp
 
-**3** and commanded the people, "When you see the ark of the covenant[^3-1] of Yahweh[^3-2] your God, with the Levitical priests[^3-3] carrying it, you are to set out from your place and follow it.
+**3** and commanded the people, "When you see the ark of the covenant[^3-1] of the LORD[^3-2] your God, with the Levitical priests[^3-3] carrying it, you are to set out from your place and follow it.
 
 **4** But keep a distance between you and it of about two thousand cubits[^3-4] by measure. Do not come near it. Then you will know the way you are to go, for you have not passed this way before."[^3-5]
 
-**5** Joshua said to the people, "Consecrate yourselves,[^3-6] for tomorrow Yahweh will do wonders among you."
+**5** Joshua said to the people, "Consecrate yourselves,[^3-6] for tomorrow the LORD will do wonders among you."
 
 **6** Joshua said to the priests, "Take up the ark of the covenant and cross over ahead of the people." So they took up the ark of the covenant and went ahead of the people.
 
-**7** Yahweh said to Joshua, "Today I will begin to make you great in the eyes of all Israel, so that they may know that as I was with Moses, so I will be with you.
+**7** The LORD said to Joshua, "Today I will begin to make you great in the eyes of all Israel, so that they may know that as I was with Moses, so I will be with you.
 
 **8** You are to command the priests who carry the ark of the covenant: 'When you come to the edge of the water of the Jordan, stand still in the Jordan.'"
 
-**9** Joshua said to the Israelites, "Come here and listen to the words of Yahweh your God."
+**9** Joshua said to the Israelites, "Come here and listen to the words of the LORD your God."
 
 **10** Joshua said, "By this you will know that the living God is among you, and that he will certainly drive out before you the Canaanites, the Hittites, the Hivites, the Perizzites, the Girgashites, the Amorites and the Jebusites.
 
@@ -158,7 +158,7 @@
 
 **12** Now choose twelve men from the tribes of Israel, one man from each tribe.
 
-**13** When the soles of the feet of the priests who carry the ark of Yahweh, the Lord of all the earth, come to rest in the water of the Jordan, the water of the Jordan will be cut off. The water flowing down from upstream will stand up in a single heap."[^3-8]
+**13** When the soles of the feet of the priests who carry the ark of the LORD, the Lord of all the earth, come to rest in the water of the Jordan, the water of the Jordan will be cut off. The water flowing down from upstream will stand up in a single heap."[^3-8]
 
 **14** So the people set out from their tents to cross the Jordan, with the priests carrying the ark of the covenant ahead of the people.
 
@@ -166,10 +166,10 @@
 
 **16** the water flowing down from upstream stood still. It rose up in a single heap a great distance away, from Adam,[^3-10] the town beside Zarethan, while the water flowing down to the Sea of the Arabah,[^3-11] the Salt Sea,[^3-12] was completely cut off. And the people crossed over opposite Jericho.
 
-**17** The priests who carried the ark of the covenant of Yahweh stood firm on dry ground in the middle of the Jordan, while all Israel crossed over on dry ground, until the whole nation had finished crossing the Jordan.
+**17** The priests who carried the ark of the covenant of the LORD stood firm on dry ground in the middle of the Jordan, while all Israel crossed over on dry ground, until the whole nation had finished crossing the Jordan.
 
 [^3-1]: Hebrew *aron*, "chest, box": the gold-covered chest that held the stone tablets of the covenant (Exodus 25:10–22; Deuteronomy 10:1–5).
-[^3-2]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^3-2]: *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles.
 [^3-3]: Literally "the priests, the Levites".
 [^3-4]: A cubit was about 18 inches (45 cm), so the distance was about 1,000 yards (900 meters).
 [^3-5]: Literally "yesterday and the day before".
@@ -185,7 +185,7 @@
 
 *Status: draft*
 
-**1** When the whole nation had finished crossing the Jordan, Yahweh[^4-1] said to Joshua,
+**1** When the whole nation had finished crossing the Jordan, the LORD[^4-1] said to Joshua,
 
 **2** "Choose twelve men from the people, one man from each tribe,
 
@@ -193,33 +193,33 @@
 
 **4** So Joshua called the twelve men he had appointed from the Israelites, one man from each tribe.
 
-**5** Joshua said to them, "Cross over ahead of the ark of Yahweh your God into the middle of the Jordan. Each of you is to lift a stone onto his shoulder, one for each of the tribes of the Israelites,
+**5** Joshua said to them, "Cross over ahead of the ark of the LORD your God into the middle of the Jordan. Each of you is to lift a stone onto his shoulder, one for each of the tribes of the Israelites,
 
 **6** so that this may be a sign among you. In time to come,[^4-2] when your children ask, 'What do these stones mean to you?'
 
-**7** you are to tell them that the water of the Jordan was cut off before the ark of the covenant of Yahweh. When it crossed the Jordan, the water of the Jordan was cut off. These stones are to be a memorial for the Israelites forever."
+**7** you are to tell them that the water of the Jordan was cut off before the ark of the covenant of the LORD. When it crossed the Jordan, the water of the Jordan was cut off. These stones are to be a memorial for the Israelites forever."
 
-**8** The Israelites did as Joshua commanded. They took up twelve stones from the middle of the Jordan, one for each of the tribes of the Israelites, as Yahweh had told Joshua. They carried them over with them to the camp and put them down there.
+**8** The Israelites did as Joshua commanded. They took up twelve stones from the middle of the Jordan, one for each of the tribes of the Israelites, as the LORD had told Joshua. They carried them over with them to the camp and put them down there.
 
 **9** Joshua also set up twelve stones[^4-3] in the middle of the Jordan, at the place where the feet of the priests who carried the ark of the covenant had stood. They are there to this day.
 
-**10** The priests who carried the ark stood in the middle of the Jordan until everything was done that Yahweh had commanded Joshua to tell the people, just as Moses had commanded Joshua. And the people crossed over in haste.
+**10** The priests who carried the ark stood in the middle of the Jordan until everything was done that the LORD had commanded Joshua to tell the people, just as Moses had commanded Joshua. And the people crossed over in haste.
 
-**11** When all the people had finished crossing, the ark of Yahweh and the priests crossed over in front of the people.
+**11** When all the people had finished crossing, the ark of the LORD and the priests crossed over in front of the people.
 
 **12** The Reubenites, the Gadites and the half-tribe of Manasseh crossed over armed[^4-4] ahead of the Israelites, as Moses had told them.
 
-**13** About forty thousand men equipped for war crossed over before Yahweh for battle, to the plains of Jericho.
+**13** About forty thousand men equipped for war crossed over before the LORD for battle, to the plains of Jericho.
 
-**14** On that day Yahweh made Joshua great in the eyes of all Israel, and they held him in awe all the days of his life, as they had held Moses in awe.
+**14** On that day the LORD made Joshua great in the eyes of all Israel, and they held him in awe all the days of his life, as they had held Moses in awe.
 
-**15** Yahweh said to Joshua,
+**15** The LORD said to Joshua,
 
 **16** "Command the priests who carry the ark of the testimony[^4-5] to come up out of the Jordan."
 
 **17** So Joshua commanded the priests, "Come up out of the Jordan."
 
-**18** When the priests who carried the ark of the covenant of Yahweh came up from the middle of the Jordan, and the soles of the priests' feet stepped out onto dry ground, the water of the Jordan returned to its place and flowed over all its banks as before.
+**18** When the priests who carried the ark of the covenant of the LORD came up from the middle of the Jordan, and the soles of the priests' feet stepped out onto dry ground, the water of the Jordan returned to its place and flowed over all its banks as before.
 
 **19** The people came up out of the Jordan on the tenth day of the first month,[^4-6] and they camped at Gilgal, on the eastern edge of Jericho.
 
@@ -229,11 +229,11 @@
 
 **22** you are to tell your children, 'Israel crossed this Jordan on dry ground.'
 
-**23** For Yahweh your God dried up the water of the Jordan before you until you had crossed over, just as Yahweh your God did to the Red Sea,[^4-7] which he dried up before us until we had crossed over,
+**23** For the LORD your God dried up the water of the Jordan before you until you had crossed over, just as the LORD your God did to the Red Sea,[^4-7] which he dried up before us until we had crossed over,
 
-**24** so that all the peoples of the earth may know that the hand of Yahweh is strong, and so that you may fear Yahweh your God forever."[^4-8]
+**24** so that all the peoples of the earth may know that the hand of the LORD is strong, and so that you may fear the LORD your God forever."[^4-8]
 
-[^4-1]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^4-1]: *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles.
 [^4-2]: Literally "tomorrow". Also in verse 21.
 [^4-3]: That is, a second set of twelve stones, set up in the riverbed itself. The Greek Septuagint reads "other twelve stones".
 [^4-4]: Hebrew *chamushim*; see 1:14.
@@ -246,9 +246,9 @@
 
 *Status: draft*
 
-**1** All the kings of the Amorites west of the Jordan[^5-1] and all the kings of the Canaanites along the sea heard how Yahweh[^5-2] had dried up the water of the Jordan before the Israelites until they had crossed over.[^5-3] Their hearts melted, and they had no courage left[^5-4] because of the Israelites.
+**1** All the kings of the Amorites west of the Jordan[^5-1] and all the kings of the Canaanites along the sea heard how the LORD[^5-2] had dried up the water of the Jordan before the Israelites until they had crossed over.[^5-3] Their hearts melted, and they had no courage left[^5-4] because of the Israelites.
 
-**2** At that time Yahweh said to Joshua, "Make flint knives and circumcise the Israelites again, a second time."
+**2** At that time the LORD said to Joshua, "Make flint knives and circumcise the Israelites again, a second time."
 
 **3** So Joshua made flint knives and circumcised the Israelites at Gibeath-haaraloth.[^5-5]
 
@@ -256,13 +256,13 @@
 
 **5** All the people who came out had been circumcised, but none of the people born in the wilderness on the way after they came out of Egypt had been circumcised.
 
-**6** For the Israelites walked for forty years in the wilderness, until the whole nation, the men of war who came out of Egypt, had died off, because they had not obeyed the voice of Yahweh. Yahweh had sworn to them that he would not let them see the land that Yahweh had sworn to their ancestors to give us,[^5-6] a land flowing with milk and honey.[^5-7]
+**6** For the Israelites walked for forty years in the wilderness, until the whole nation, the men of war who came out of Egypt, had died off, because they had not obeyed the voice of the LORD. The LORD had sworn to them that he would not let them see the land that the LORD had sworn to their ancestors to give us,[^5-6] a land flowing with milk and honey.[^5-7]
 
 **7** So it was their sons, whom he raised up in their place, that Joshua circumcised. They were uncircumcised, because they had not been circumcised on the way.
 
 **8** When the whole nation had been circumcised, they stayed where they were in the camp until they had healed.
 
-**9** Yahweh said to Joshua, "Today I have rolled away the disgrace of Egypt[^5-8] from you." So the place has been called Gilgal[^5-9] to this day.
+**9** The LORD said to Joshua, "Today I have rolled away the disgrace of Egypt[^5-8] from you." So the place has been called Gilgal[^5-9] to this day.
 
 **10** While the Israelites were camped at Gilgal, they kept the Passover on the evening of the fourteenth day of the month, in the plains of Jericho.
 
@@ -272,12 +272,12 @@
 
 **13** When Joshua was near Jericho, he looked up and saw a man standing in front of him with his sword drawn in his hand. Joshua went up to him and said to him, "Are you for us or for our enemies?"
 
-**14** "No,"[^5-12] he said, "I am the commander of Yahweh's army.[^5-13] I have come now." Joshua fell with his face to the ground and bowed down,[^5-14] and he said to him, "What does my lord have to say to his servant?"
+**14** "No,"[^5-12] he said, "I am the commander of the LORD's army.[^5-13] I have come now." Joshua fell with his face to the ground and bowed down,[^5-14] and he said to him, "What does my lord have to say to his servant?"
 
-**15** The commander of Yahweh's army said to Joshua, "Take your sandals off your feet, for the place where you are standing is holy."[^5-15] And Joshua did so.
+**15** The commander of the LORD's army said to Joshua, "Take your sandals off your feet, for the place where you are standing is holy."[^5-15] And Joshua did so.
 
 [^5-1]: Literally "beyond the Jordan toward the sea", here meaning west of the river.
-[^5-2]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^5-2]: *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles.
 [^5-3]: The Hebrew text is written "until we had crossed over" but read "until they had crossed over".
 [^5-4]: Literally "there was no spirit in them any more".
 [^5-5]: The name means "Hill of the Foreskins".
@@ -288,7 +288,7 @@
 [^5-10]: Hebrew *avur*, a word found only here and in verse 12, probably grain from the previous harvest.
 [^5-11]: Or "on that same day". Literally "on the morrow".
 [^5-12]: The Greek Septuagint reads "He said to him". In Hebrew "no" (*lo'*) and "to him" (*lo*) sound alike.
-[^5-13]: Or "Yahweh's host". Hebrew *tsava*, the word in the title "Yahweh of Armies": the heavenly hosts and the armies of Israel. Also in verse 15.
+[^5-13]: Or "the LORD's host". Hebrew *tsava*, the word in the title "the LORD of Armies": the heavenly hosts and the armies of Israel. Also in verse 15.
 [^5-14]: Or "worshiped".
 [^5-15]: Compare Exodus 3:5.
 
@@ -298,7 +298,7 @@
 
 **1** Now Jericho was shut up tight because of the Israelites. No one went out and no one came in.
 
-**2** Yahweh[^6-1] said to Joshua, "See, I have given Jericho into your hand, with its king and its mighty warriors.
+**2** The LORD[^6-1] said to Joshua, "See, I have given Jericho into your hand, with its king and its mighty warriors.
 
 **3** You are to march around the town, all the men of war, going around the town once. Do this for six days.
 
@@ -306,33 +306,33 @@
 
 **5** When they sound a long blast on the ram's horn and you hear the sound of the horn, all the people are to give a loud shout. Then the wall of the town will fall down flat,[^6-3] and the people are to go up into the town, each man straight ahead."
 
-**6** So Joshua son of Nun called the priests and said to them, "Take up the ark of the covenant, and let seven priests carry seven rams' horns ahead of the ark of Yahweh."
+**6** So Joshua son of Nun called the priests and said to them, "Take up the ark of the covenant, and let seven priests carry seven rams' horns ahead of the ark of the LORD."
 
-**7** And he said[^6-4] to the people, "Go forward and march around the town, and let the armed men go ahead of the ark of Yahweh."
+**7** And he said[^6-4] to the people, "Go forward and march around the town, and let the armed men go ahead of the ark of the LORD."
 
-**8** When Joshua had spoken to the people, the seven priests carrying the seven rams' horns before Yahweh went forward and blew the rams' horns, and the ark of the covenant of Yahweh followed them.
+**8** When Joshua had spoken to the people, the seven priests carrying the seven rams' horns before the LORD went forward and blew the rams' horns, and the ark of the covenant of the LORD followed them.
 
 **9** The armed men went ahead of the priests who blew the rams' horns,[^6-5] and the rear guard followed the ark, while the horns kept sounding.
 
 **10** But Joshua had commanded the people, "Do not shout or let your voice be heard. Do not let a word come out of your mouth until the day I tell you to shout. Then you are to shout."
 
-**11** So he had the ark of Yahweh go around the town, circling it once. Then they came back to the camp and spent the night in the camp.
+**11** So he had the ark of the LORD go around the town, circling it once. Then they came back to the camp and spent the night in the camp.
 
-**12** Joshua got up early in the morning, and the priests took up the ark of Yahweh.
+**12** Joshua got up early in the morning, and the priests took up the ark of the LORD.
 
-**13** The seven priests carrying the seven rams' horns ahead of the ark of Yahweh went on, blowing the horns as they went. The armed men went ahead of them, and the rear guard followed the ark of Yahweh, while the horns kept sounding.
+**13** The seven priests carrying the seven rams' horns ahead of the ark of the LORD went on, blowing the horns as they went. The armed men went ahead of them, and the rear guard followed the ark of the LORD, while the horns kept sounding.
 
 **14** On the second day they marched around the town once and returned to the camp. They did this for six days.
 
 **15** On the seventh day they got up early, at the break of dawn, and marched around the town in the same way seven times. That was the only day they marched around the town seven times.
 
-**16** The seventh time, when the priests blew the rams' horns, Joshua said to the people, "Shout! For Yahweh has given you the town.
+**16** The seventh time, when the priests blew the rams' horns, Joshua said to the people, "Shout! For the LORD has given you the town.
 
-**17** The town and everything in it is to be devoted to Yahweh for destruction.[^6-6] Only Rahab the prostitute is to live, she and all who are with her in the house, because she hid the messengers we sent.
+**17** The town and everything in it is to be devoted to the LORD for destruction.[^6-6] Only Rahab the prostitute is to live, she and all who are with her in the house, because she hid the messengers we sent.
 
 **18** But you must keep away from what is devoted to destruction. Otherwise you will devote it and then take some of what is devoted,[^6-7] and so make the camp of Israel something devoted to destruction and bring disaster[^6-8] on it.
 
-**19** All the silver and gold, and the articles of bronze and iron, are holy to Yahweh. They must go into Yahweh's treasury."
+**19** All the silver and gold, and the articles of bronze and iron, are holy to the LORD. They must go into the LORD's treasury."
 
 **20** So the people shouted, and the rams' horns were blown. As soon as the people heard the sound of the horn, the people gave a loud shout, and the wall fell down flat. The people went up into the town, each man straight ahead, and they captured the town.
 
@@ -342,20 +342,20 @@
 
 **23** So the young men who had been spies went in and brought out Rahab, her father and her mother, her brothers and everyone who belonged to her. They brought out all her relatives[^6-10] and settled them outside the camp of Israel.
 
-**24** Then they burned the town with fire, and everything in it. Only the silver and gold and the articles of bronze and iron they put into the treasury of the house of Yahweh.
+**24** Then they burned the town with fire, and everything in it. Only the silver and gold and the articles of bronze and iron they put into the treasury of the house of the LORD.
 
 **25** But Joshua spared Rahab the prostitute, her father's household and everyone who belonged to her. She has lived among the Israelites to this day, because she hid the messengers Joshua had sent to spy out Jericho.
 
-**26** At that time Joshua made them take an oath: "Cursed before Yahweh is the man who sets out to rebuild this town, Jericho. At the cost of his firstborn he will lay its foundations, and at the cost of his youngest son he will set up its gates."[^6-11]
+**26** At that time Joshua made them take an oath: "Cursed before the LORD is the man who sets out to rebuild this town, Jericho. At the cost of his firstborn he will lay its foundations, and at the cost of his youngest son he will set up its gates."[^6-11]
 
-**27** So Yahweh was with Joshua, and his fame spread through the whole land.
+**27** So the LORD was with Joshua, and his fame spread through the whole land.
 
-[^6-1]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^6-1]: *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles.
 [^6-2]: Hebrew *shofarot ha-yovelim*, horns made from rams' horns, blown as trumpets. Also in verses 5–9, 13, 16 and 20.
 [^6-3]: Literally "will fall under itself". Also in verse 20.
 [^6-4]: The Hebrew text is written "they said" but read "he said".
 [^6-5]: The Hebrew text is written "ahead of the priests; they blew the rams' horns" but read "ahead of the priests who blew the rams' horns".
-[^6-6]: Literally "The town is to be *cherem* to Yahweh". Hebrew *cherem*: something given over completely to God, which in war meant destroying it and keeping nothing for oneself. Also in verse 18, where the related verb *charam*, "devote to destruction", is also used, as in verse 21.
+[^6-6]: Literally "The town is to be *cherem* to the LORD". Hebrew *cherem*: something given over completely to God, which in war meant destroying it and keeping nothing for oneself. Also in verse 18, where the related verb *charam*, "devote to destruction", is also used, as in verse 21.
 [^6-7]: The Greek Septuagint reads "so that you do not covet and take some of what is devoted". Compare 7:21.
 [^6-8]: Hebrew *akhar*, "bring trouble", the word that gives the Valley of Achor its name (7:25–26).
 [^6-9]: Literally "to the mouth of the sword".
@@ -366,7 +366,7 @@
 
 *Status: draft*
 
-**1** But the Israelites acted unfaithfully in the matter of what was devoted to destruction.[^7-1] Achan[^7-2] son of Carmi, son of Zabdi, son of Zerah, of the tribe of Judah, took some of what was devoted, and the anger of Yahweh[^7-3] burned against the Israelites.
+**1** But the Israelites acted unfaithfully in the matter of what was devoted to destruction.[^7-1] Achan[^7-2] son of Carmi, son of Zabdi, son of Zerah, of the tribe of Judah, took some of what was devoted, and the anger of the LORD[^7-3] burned against the Israelites.
 
 **2** Joshua sent men from Jericho to Ai,[^7-4] which is near Beth-aven, east of Bethel, and said to them, "Go up and spy out the land." So the men went up and spied out Ai.
 
@@ -376,25 +376,25 @@
 
 **5** The men of Ai struck down about thirty-six of them. They chased them from the gate as far as Shebarim,[^7-5] and struck them down on the slope. The hearts of the people melted and became like water.
 
-**6** Joshua tore his clothes and fell face down on the ground before the ark of Yahweh until evening, he and the elders of Israel, and they threw dust on their heads.
+**6** Joshua tore his clothes and fell face down on the ground before the ark of the LORD until evening, he and the elders of Israel, and they threw dust on their heads.
 
-**7** Joshua said, "Ah, Lord Yahweh![^7-6] Why did you bring this people across the Jordan at all, only to hand us over to the Amorites to destroy us? If only we had been content to stay on the other side of the Jordan!
+**7** Joshua said, "Ah, Lord GOD![^7-6] Why did you bring this people across the Jordan at all, only to hand us over to the Amorites to destroy us? If only we had been content to stay on the other side of the Jordan!
 
 **8** Please, Lord, what can I say, now that Israel has turned its back[^7-7] before its enemies?
 
 **9** The Canaanites and all who live in the land will hear of it, and they will surround us and wipe our name off the earth. Then what will you do for your great name?"
 
-**10** Yahweh said to Joshua, "Get up! Why are you lying face down like this?
+**10** The LORD said to Joshua, "Get up! Why are you lying face down like this?
 
 **11** Israel has sinned. They have broken my covenant, which I commanded them to keep. They have taken some of what was devoted to destruction. They have stolen it, they have lied about it, and they have put it among their own belongings.
 
 **12** That is why the Israelites cannot stand against their enemies. They turn their backs before their enemies, because they themselves have become devoted to destruction. I will not be with you any more unless you destroy what is devoted to destruction from among you.
 
-**13** Get up and consecrate the people. Say, 'Consecrate yourselves for tomorrow, for this is what Yahweh, the God of Israel, says: "Things devoted to destruction are among you, Israel. You cannot stand against your enemies until you remove what is devoted to destruction from among you."'
+**13** Get up and consecrate the people. Say, 'Consecrate yourselves for tomorrow, for this is what the LORD, the God of Israel, says: "Things devoted to destruction are among you, Israel. You cannot stand against your enemies until you remove what is devoted to destruction from among you."'
 
-**14** In the morning you are to come forward tribe by tribe. The tribe that Yahweh takes[^7-8] is to come forward clan by clan. The clan that Yahweh takes is to come forward household by household. And the household that Yahweh takes is to come forward man by man.
+**14** In the morning you are to come forward tribe by tribe. The tribe that the LORD takes[^7-8] is to come forward clan by clan. The clan that the LORD takes is to come forward household by household. And the household that the LORD takes is to come forward man by man.
 
-**15** The one who is taken with the devoted things is to be burned with fire, he and everything he has, because he has broken the covenant of Yahweh and has done a disgraceful thing in Israel."
+**15** The one who is taken with the devoted things is to be burned with fire, he and everything he has, because he has broken the covenant of the LORD and has done a disgraceful thing in Israel."
 
 **16** Joshua got up early in the morning and had Israel come forward tribe by tribe, and the tribe of Judah was taken.
 
@@ -402,28 +402,28 @@
 
 **18** He had Zabdi's household come forward man by man, and Achan son of Carmi, son of Zabdi, son of Zerah, of the tribe of Judah, was taken.
 
-**19** Joshua said to Achan, "My son, give glory to Yahweh, the God of Israel, and give him praise.[^7-11] Tell me what you have done. Do not hide it from me."
+**19** Joshua said to Achan, "My son, give glory to the LORD, the God of Israel, and give him praise.[^7-11] Tell me what you have done. Do not hide it from me."
 
-**20** Achan answered Joshua, "It is true. I have sinned against Yahweh, the God of Israel. This is what I did.
+**20** Achan answered Joshua, "It is true. I have sinned against the LORD, the God of Israel. This is what I did.
 
 **21** Among the spoil I saw a beautiful robe from Shinar,[^7-12] two hundred shekels of silver, and a bar[^7-13] of gold weighing fifty shekels.[^7-14] I coveted them and took them. They are hidden in the ground inside my tent, with the silver underneath."
 
 **22** So Joshua sent messengers, and they ran to the tent. There it was, hidden in his tent, with the silver underneath.
 
-**23** They took the things out of the tent, brought them to Joshua and all the Israelites, and laid them out before Yahweh.
+**23** They took the things out of the tent, brought them to Joshua and all the Israelites, and laid them out before the LORD.
 
 **24** Then Joshua, and all Israel with him, took Achan son of Zerah,[^7-15] the silver, the robe, the bar of gold, his sons and his daughters, his cattle, his donkeys and his flock, his tent and everything he had, and they brought them up to the Valley of Achor.
 
-**25** Joshua said, "Why have you brought disaster on us? Yahweh will bring disaster on you today."[^7-16] And all Israel stoned him. They burned them with fire and stoned them with stones.
+**25** Joshua said, "Why have you brought disaster on us? The LORD will bring disaster on you today."[^7-16] And all Israel stoned him. They burned them with fire and stoned them with stones.
 
-**26** They raised over him a great heap of stones, which is there to this day. Then Yahweh turned from his burning anger. That is why the place has been called the Valley of Achor[^7-17] to this day.
+**26** They raised over him a great heap of stones, which is there to this day. Then the LORD turned from his burning anger. That is why the place has been called the Valley of Achor[^7-17] to this day.
 
 [^7-1]: Hebrew *cherem*: something given over completely to God, which in war meant destroying it and keeping nothing for oneself. Also in verses 11–13 and 15; in verse 12 the related verb *charam* is also used.
 [^7-2]: Called Achar in 1 Chronicles 2:7.
-[^7-3]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^7-3]: *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles.
 [^7-4]: Hebrew *ha-Ai*, "the ruin", always with the article.
 [^7-5]: Or "as far as the quarries". *Shebarim* means "breaks".
-[^7-6]: Hebrew *Adonai YHWH*, "my Lord Yahweh".
+[^7-6]: Hebrew *Adonai YHWH*, "my Lord YHWH". After "Lord", God's personal name is written GOD in capitals, as in most English Bibles.
 [^7-7]: Literally "the back of the neck". Also in verse 12.
 [^7-8]: Literally "captures", that is, picks out, probably by casting lots. Also in verses 15–18.
 [^7-9]: Literally "the clan of Judah", meaning the clans of the tribe.
@@ -440,7 +440,7 @@
 
 *Status: draft*
 
-**1** Yahweh[^8-1] said to Joshua, "Do not be afraid or dismayed. Take all the fighting men with you, and get up and go up to Ai. See, I have given into your hand the king of Ai, his people, his town and his land.
+**1** The LORD[^8-1] said to Joshua, "Do not be afraid or dismayed. Take all the fighting men with you, and get up and go up to Ai. See, I have given into your hand the king of Ai, his people, his town and his land.
 
 **2** Do to Ai and its king as you did to Jericho and its king, except that you may take its spoil and its livestock as plunder for yourselves. Set an ambush against the town, behind it."
 
@@ -452,9 +452,9 @@
 
 **6** They will come out after us until we have drawn them away from the town, for they will say, 'They are fleeing from us as they did the first time.' While we flee from them,
 
-**7** you are to rise up from the ambush and take possession of the town. Yahweh your God will give it into your hand.
+**7** you are to rise up from the ambush and take possession of the town. The LORD your God will give it into your hand.
 
-**8** When you have seized the town, set it on fire. Do as Yahweh has said. See, I have given you your orders."
+**8** When you have seized the town, set it on fire. Do as the LORD has said. See, I have given you your orders."
 
 **9** So Joshua sent them out, and they went to the place of ambush and waited between Bethel and Ai, west of Ai. But Joshua spent that night among the people.
 
@@ -474,7 +474,7 @@
 
 **17** Not a man was left in Ai or Bethel who did not go out after Israel. They left the town open and chased Israel.
 
-**18** Yahweh said to Joshua, "Stretch out the javelin[^8-6] in your hand toward Ai, for I will give it into your hand." So Joshua stretched out the javelin in his hand toward the town.
+**18** The LORD said to Joshua, "Stretch out the javelin[^8-6] in your hand toward Ai, for I will give it into your hand." So Joshua stretched out the javelin in his hand toward the town.
 
 **19** As soon as he stretched out his hand, the men in ambush rose quickly from their place and ran. They entered the town and captured it, and they quickly set the town on fire.
 
@@ -492,25 +492,25 @@
 
 **26** Joshua did not draw back the hand with which he held out the javelin until he had devoted to destruction[^8-9] all the inhabitants of Ai.
 
-**27** Only the livestock and the spoil of that town Israel took as plunder for themselves, in keeping with the word of Yahweh that he had commanded Joshua.
+**27** Only the livestock and the spoil of that town Israel took as plunder for themselves, in keeping with the word of the LORD that he had commanded Joshua.
 
 **28** So Joshua burned Ai and made it a ruin mound[^8-10] forever, a desolate place to this day.
 
 **29** He hanged the king of Ai on a tree until evening.[^8-11] At sunset Joshua gave the command, and they took his body down from the tree and threw it down at the entrance of the town gate. They raised over it a great heap of stones, which is there to this day.
 
-**30** Then Joshua built an altar to Yahweh, the God of Israel, on Mount Ebal,[^8-12]
+**30** Then Joshua built an altar to the LORD, the God of Israel, on Mount Ebal,[^8-12]
 
-**31** as Moses the servant of Yahweh had commanded the Israelites, as it is written in the book of the law of Moses: an altar of uncut stones, on which no one had used an iron tool.[^8-13] On it they offered burnt offerings[^8-14] to Yahweh and sacrificed fellowship offerings.[^8-15]
+**31** as Moses the servant of the LORD had commanded the Israelites, as it is written in the book of the law of Moses: an altar of uncut stones, on which no one had used an iron tool.[^8-13] On it they offered burnt offerings[^8-14] to the LORD and sacrificed fellowship offerings.[^8-15]
 
 **32** There on the stones he wrote a copy of the law of Moses, which he wrote[^8-16] in the presence of the Israelites.
 
-**33** All Israel, with their elders, officials and judges, stood on both sides of the ark, facing the Levitical priests who carried the ark of the covenant of Yahweh, foreigners[^8-17] as well as native-born. Half of them stood in front of Mount Gerizim and half in front of Mount Ebal, as Moses the servant of Yahweh had commanded earlier, to bless the people of Israel.[^8-18]
+**33** All Israel, with their elders, officials and judges, stood on both sides of the ark, facing the Levitical priests who carried the ark of the covenant of the LORD, foreigners[^8-17] as well as native-born. Half of them stood in front of Mount Gerizim and half in front of Mount Ebal, as Moses the servant of the LORD had commanded earlier, to bless the people of Israel.[^8-18]
 
 **34** After that, Joshua read all the words of the law, the blessing and the curse, in keeping with everything written in the book of the law.
 
 **35** There was not a word of all that Moses had commanded that Joshua did not read before the whole assembly of Israel, including the women, the little ones and the foreigners who lived among them.[^8-19]
 
-[^8-1]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^8-1]: *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles.
 [^8-2]: Verse 3 gives thirty thousand.
 [^8-3]: Literally "its heel".
 [^8-4]: Or "at the appointed time".
@@ -527,7 +527,7 @@
 [^8-15]: Hebrew *shelamim*, traditionally "peace offerings". In these sacrifices most of the meat was eaten by the worshipers.
 [^8-16]: Or "which Moses had written". See Deuteronomy 27:2–8.
 [^8-17]: Hebrew *ger*: someone from elsewhere who lives among the Israelites, a resident foreigner. Also in verse 35.
-[^8-18]: Or "as Moses the servant of Yahweh had commanded, to bless the people of Israel first". See Deuteronomy 11:29; 27:11–13.
+[^8-18]: Or "as Moses the servant of the LORD had commanded, to bless the people of Israel first". See Deuteronomy 11:29; 27:11–13.
 [^8-19]: Literally "who walked among them".
 
 ## Chapter 9
@@ -550,7 +550,7 @@
 
 **8** They said to Joshua, "We are your servants." Joshua said to them, "Who are you, and where do you come from?"
 
-**9** They said to him, "Your servants have come from a very distant land because of the name of Yahweh[^9-8] your God. For we have heard reports of him, and of everything he did in Egypt,
+**9** They said to him, "Your servants have come from a very distant land because of the name of the LORD[^9-8] your God. For we have heard reports of him, and of everything he did in Egypt,
 
 **10** and everything he did to the two kings of the Amorites east of the Jordan,[^9-9] Sihon king of Heshbon and Og king of Bashan, who lived in Ashtaroth.
 
@@ -560,7 +560,7 @@
 
 **13** These wineskins were new when we filled them, and look, they are split. And these clothes and sandals of ours are worn out from the very long journey."
 
-**14** The men of Israel took some of their provisions,[^9-10] but they did not ask for Yahweh's direction.[^9-11]
+**14** The men of Israel took some of their provisions,[^9-10] but they did not ask for the LORD's direction.[^9-11]
 
 **15** Joshua made peace with them and made a covenant with them to let them live, and the leaders of the community swore an oath to them.
 
@@ -568,9 +568,9 @@
 
 **17** So the Israelites set out and came to their towns on the third day. Their towns were Gibeon, Chephirah, Beeroth and Kiriath-jearim.
 
-**18** But the Israelites did not attack them, because the leaders of the community had sworn to them by Yahweh, the God of Israel. The whole community grumbled against the leaders.
+**18** But the Israelites did not attack them, because the leaders of the community had sworn to them by the LORD, the God of Israel. The whole community grumbled against the leaders.
 
-**19** But all the leaders said to the whole community, "We have sworn to them by Yahweh, the God of Israel, and now we cannot touch them.
+**19** But all the leaders said to the whole community, "We have sworn to them by the LORD, the God of Israel, and now we cannot touch them.
 
 **20** This is what we will do to them: we will let them live, so that wrath does not come on us because of the oath we swore to them."
 
@@ -580,13 +580,13 @@
 
 **23** Now you are cursed. Some of you will always be slaves,[^9-12] woodcutters and water carriers for the house of my God."
 
-**24** They answered Joshua, "Your servants were told plainly that Yahweh your God had commanded his servant Moses to give you the whole land and to destroy all the inhabitants of the land before you. So we were very much afraid for our lives because of you, and we did this.
+**24** They answered Joshua, "Your servants were told plainly that the LORD your God had commanded his servant Moses to give you the whole land and to destroy all the inhabitants of the land before you. So we were very much afraid for our lives because of you, and we did this.
 
 **25** Now we are in your hands. Do to us whatever seems good and right to you."
 
 **26** So he did this for them: he rescued them from the hands of the Israelites, and they did not kill them.
 
-**27** That day Joshua made them woodcutters and water carriers for the community and for the altar of Yahweh at the place he would choose,[^9-13] as they are to this day.
+**27** That day Joshua made them woodcutters and water carriers for the community and for the altar of the LORD at the place he would choose,[^9-13] as they are to this day.
 
 [^9-1]: Literally "beyond the Jordan", here meaning west of the river.
 [^9-2]: Hebrew *shephelah*: the low hills between the central hill country and the coastal plain.
@@ -595,12 +595,12 @@
 [^9-5]: Hebrew *vayitstayyaru*, a rare word, probably "made themselves envoys". The Greek Septuagint reads "they took provisions", a similar Hebrew word, as in verse 12.
 [^9-6]: Hebrew *niqqudim*, "crumbs", or perhaps "spotted with mold". Also in verse 12.
 [^9-7]: The Gibeonites were Hivites (11:19).
-[^9-8]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^9-8]: *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles.
 [^9-9]: Literally "beyond the Jordan".
 [^9-10]: Perhaps to examine them, or as a sign of agreement by sharing a meal.
-[^9-11]: Literally "they did not ask the mouth of Yahweh".
+[^9-11]: Literally "they did not ask the mouth of the LORD".
 [^9-12]: Literally "A slave will not be cut off from you".
-[^9-13]: The language of Deuteronomy 12:5 for the place of worship that Yahweh would choose. Literally "to the place that he would choose".
+[^9-13]: The language of Deuteronomy 12:5 for the place of worship that the LORD would choose. Literally "to the place that he would choose".
 
 ## Chapter 10
 
@@ -620,19 +620,19 @@
 
 **7** So Joshua went up from Gilgal, he and all the fighting men with him, all the mighty warriors.
 
-**8** Yahweh[^10-3] said to Joshua, "Do not be afraid of them, for I have given them into your hand. Not one of them will be able to stand against you."
+**8** The LORD[^10-3] said to Joshua, "Do not be afraid of them, for I have given them into your hand. Not one of them will be able to stand against you."
 
 **9** Joshua came on them suddenly, having marched all night from Gilgal.
 
-**10** Yahweh threw them into confusion before Israel, and he[^10-4] struck them down in a great slaughter at Gibeon. He chased them along the road that goes up to Beth-horon and struck them down as far as Azekah and Makkedah.
+**10** The LORD threw them into confusion before Israel, and he[^10-4] struck them down in a great slaughter at Gibeon. He chased them along the road that goes up to Beth-horon and struck them down as far as Azekah and Makkedah.
 
-**11** As they fled before Israel, while they were on the way down from Beth-horon, Yahweh threw huge stones down on them from the sky all the way to Azekah, and they died. More of them died from the hailstones than the Israelites killed with the sword.
+**11** As they fled before Israel, while they were on the way down from Beth-horon, the LORD threw huge stones down on them from the sky all the way to Azekah, and they died. More of them died from the hailstones than the Israelites killed with the sword.
 
-**12** Then Joshua spoke to Yahweh, on the day Yahweh gave the Amorites over to the Israelites, and he said in the sight of Israel:[^10-5] "Sun, stand still[^10-6] over Gibeon, and moon, over the Valley of Aijalon!"[^10-7]
+**12** Then Joshua spoke to the LORD, on the day the LORD gave the Amorites over to the Israelites, and he said in the sight of Israel:[^10-5] "Sun, stand still[^10-6] over Gibeon, and moon, over the Valley of Aijalon!"[^10-7]
 
 **13** So the sun stood still, and the moon stopped,[^10-8] until the nation took vengeance on its enemies. Is this not written in the Book of Jashar?[^10-9] The sun stopped in the middle of the sky and did not hurry to set for about a whole day.[^10-10]
 
-**14** There has been no day like it before or since, when Yahweh listened to the voice of a man,[^10-11] for Yahweh fought for Israel.
+**14** There has been no day like it before or since, when the LORD listened to the voice of a man,[^10-11] for the LORD fought for Israel.
 
 **15** Then Joshua returned, and all Israel with him, to the camp at Gilgal.[^10-12]
 
@@ -642,7 +642,7 @@
 
 **18** Joshua said, "Roll large stones against the mouth of the cave, and post men by it to guard them.
 
-**19** But you must not stop. Chase your enemies and attack them from the rear.[^10-13] Do not let them get into their towns, for Yahweh your God has given them into your hand."
+**19** But you must not stop. Chase your enemies and attack them from the rear.[^10-13] Do not let them get into their towns, for the LORD your God has given them into your hand."
 
 **20** Joshua and the Israelites finished striking them down in a very great slaughter, until they were wiped out, though some survivors escaped from them and reached the fortified towns.
 
@@ -654,7 +654,7 @@
 
 **24** When they had brought these kings out to Joshua, Joshua summoned all the men of Israel and said to the commanders of the fighting men who had gone with him, "Come here and put your feet on the necks of these kings." So they came and put their feet on their necks.
 
-**25** Joshua said to them, "Do not be afraid or dismayed. Be strong and courageous. For this is what Yahweh will do to all the enemies you are fighting."
+**25** Joshua said to them, "Do not be afraid or dismayed. Be strong and courageous. For this is what the LORD will do to all the enemies you are fighting."
 
 **26** After this Joshua struck them down and put them to death, and he hanged them on five trees. They were left hanging on the trees until evening.
 
@@ -664,11 +664,11 @@
 
 **29** Joshua and all Israel with him moved on from Makkedah to Libnah and fought against Libnah.
 
-**30** Yahweh gave it also, with its king, into the hand of Israel. He put it and every person in it to the sword. He left no survivor in it. He did to its king as he had done to the king of Jericho.
+**30** The LORD gave it also, with its king, into the hand of Israel. He put it and every person in it to the sword. He left no survivor in it. He did to its king as he had done to the king of Jericho.
 
 **31** Joshua and all Israel with him moved on from Libnah to Lachish. He camped against it and attacked it.
 
-**32** Yahweh gave Lachish into the hand of Israel, and he captured it on the second day. He put it and every person in it to the sword, just as he had done to Libnah.
+**32** The LORD gave Lachish into the hand of Israel, and he captured it on the second day. He put it and every person in it to the sword, just as he had done to Libnah.
 
 **33** Then Horam king of Gezer came up to help Lachish, but Joshua struck him and his people down until he had left him no survivor.
 
@@ -684,25 +684,25 @@
 
 **39** He captured it, with its king and all its towns. They put them to the sword and devoted to destruction every person in it. He left no survivor. As he had done to Hebron, so he did to Debir and its king, just as he had done to Libnah and its king.
 
-**40** So Joshua struck the whole land, the hill country, the Negev,[^10-16] the western foothills[^10-17] and the slopes,[^10-18] with all their kings. He left no survivor. He devoted to destruction everything that breathed, as Yahweh, the God of Israel, had commanded.
+**40** So Joshua struck the whole land, the hill country, the Negev,[^10-16] the western foothills[^10-17] and the slopes,[^10-18] with all their kings. He left no survivor. He devoted to destruction everything that breathed, as the LORD, the God of Israel, had commanded.
 
 **41** Joshua struck them from Kadesh-barnea to Gaza, and the whole land of Goshen[^10-19] as far as Gibeon.
 
-**42** Joshua captured all these kings and their land at one time, because Yahweh, the God of Israel, fought for Israel.
+**42** Joshua captured all these kings and their land at one time, because the LORD, the God of Israel, fought for Israel.
 
 **43** Then Joshua returned, and all Israel with him, to the camp at Gilgal.
 
 [^10-1]: Hebrew *charam*: to give something over completely to God, which in war meant destroying it and keeping nothing for oneself. Also in verses 28, 35, 37, 39 and 40.
 [^10-2]: Literally "Do not let your hands drop from your servants".
-[^10-3]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
-[^10-4]: Yahweh, or Joshua. The Hebrew says only "he", here and in the next sentence.
+[^10-3]: *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles.
+[^10-4]: The LORD, or Joshua. The Hebrew says only "he", here and in the next sentence.
 [^10-5]: Joshua's words, and probably the words "So the sun stood still, and the moon stopped, until the nation took vengeance on its enemies" in verse 13, are poetry quoted from the Book of Jashar (verse 13).
 [^10-6]: Hebrew *dom*, "be still, be silent, wait" (compare 1 Samuel 14:9). Verse 13 describes the sun stopping in its course, and that is how the words have usually been read. Some take the command to mean that the sun should stop shining, or be darkened.
 [^10-7]: Gibeon lies east of the Valley of Aijalon. The picture may be of the early morning, with the sun rising in the east and the moon setting in the west.
 [^10-8]: Literally "stood". The verbs for the sun (*damam*) and the moon (*amad*) are both used of standing still or stopping.
 [^10-9]: Or "the Book of the Upright". *Jashar* means "upright". The book is now lost; it is also quoted in 2 Samuel 1:18.
 [^10-10]: Literally "stood in the half of the heavens and did not hasten to go in, about a complete day".
-[^10-11]: Literally "for Yahweh to listen to the voice of a man".
+[^10-11]: Literally "for the LORD to listen to the voice of a man".
 [^10-12]: This verse is repeated in verse 43. According to verse 21, the army was still at Makkedah. The Greek Septuagint has neither this verse nor verse 43.
 [^10-13]: Literally "cut off their tail", that is, attack the stragglers at the back.
 [^10-14]: Literally "No one sharpened his tongue against the Israelites, against anyone".
@@ -726,25 +726,25 @@
 
 **5** All these kings joined forces.[^11-5] They came and camped together at the waters of Merom to fight against Israel.
 
-**6** Yahweh[^11-6] said to Joshua, "Do not be afraid of them, for tomorrow at this time I will hand all of them over to Israel, slain. You are to hamstring their horses and burn their chariots with fire."
+**6** The LORD[^11-6] said to Joshua, "Do not be afraid of them, for tomorrow at this time I will hand all of them over to Israel, slain. You are to hamstring their horses and burn their chariots with fire."
 
 **7** So Joshua and all the fighting men with him came against them suddenly at the waters of Merom and fell on them.
 
-**8** Yahweh gave them into the hand of Israel. They struck them down and chased them as far as Greater Sidon and Misrephoth-maim, and as far as the Valley of Mizpeh to the east. They struck them down until no survivor was left.
+**8** The LORD gave them into the hand of Israel. They struck them down and chased them as far as Greater Sidon and Misrephoth-maim, and as far as the Valley of Mizpeh to the east. They struck them down until no survivor was left.
 
-**9** Joshua did to them as Yahweh had told him. He hamstrung their horses and burned their chariots with fire.
+**9** Joshua did to them as the LORD had told him. He hamstrung their horses and burned their chariots with fire.
 
 **10** At that time Joshua turned back and captured Hazor, and he put its king to the sword, for Hazor had formerly been the head of all these kingdoms.
 
 **11** They put every person[^11-7] in it to the sword, devoting them to destruction.[^11-8] Nothing that breathed was left, and he burned Hazor with fire.
 
-**12** Joshua captured all the towns of these kings and all their kings, and he put them to the sword. He devoted them to destruction, as Moses the servant of Yahweh had commanded.
+**12** Joshua captured all the towns of these kings and all their kings, and he put them to the sword. He devoted them to destruction, as Moses the servant of the LORD had commanded.
 
 **13** But Israel did not burn any of the towns that stood on their mounds,[^11-9] except Hazor alone, which Joshua burned.
 
 **14** The Israelites took all the spoil of these towns and the livestock as plunder for themselves. But they put every human being to the sword until they had destroyed them. They left nothing that breathed.
 
-**15** As Yahweh had commanded his servant Moses, so Moses commanded Joshua, and so Joshua did. He left nothing undone of all that Yahweh had commanded Moses.
+**15** As the LORD had commanded his servant Moses, so Moses commanded Joshua, and so Joshua did. He left nothing undone of all that the LORD had commanded Moses.
 
 **16** So Joshua took this whole land: the hill country, the whole Negev,[^11-10] the whole land of Goshen, the western foothills, the Arabah, and the hill country of Israel with its foothills,
 
@@ -754,20 +754,20 @@
 
 **19** Not one town made peace with the Israelites except the Hivites who lived in Gibeon. They took them all in battle.
 
-**20** For it was Yahweh's doing to harden their hearts[^11-12] to meet Israel in battle, so that they would be devoted to destruction and receive no mercy, but be destroyed, as Yahweh had commanded Moses.
+**20** For it was the LORD's doing to harden their hearts[^11-12] to meet Israel in battle, so that they would be devoted to destruction and receive no mercy, but be destroyed, as the LORD had commanded Moses.
 
 **21** At that time Joshua came and wiped out the Anakim[^11-13] from the hill country, from Hebron, from Debir, from Anab, from all the hill country of Judah and from all the hill country of Israel. Joshua devoted them and their towns to destruction.
 
 **22** No Anakim were left in the land of the Israelites. Only in Gaza, in Gath and in Ashdod did some remain.
 
-**23** So Joshua took the whole land, just as Yahweh had told Moses, and Joshua gave it as an inheritance to Israel, tribe by tribe, according to their divisions. And the land had rest from war.
+**23** So Joshua took the whole land, just as the LORD had told Moses, and Joshua gave it as an inheritance to Israel, tribe by tribe, according to their divisions. And the land had rest from war.
 
 [^11-1]: Hebrew *aravah*: the deep rift valley of the Jordan and the Dead Sea, and its continuation south to the Gulf of Aqaba.
 [^11-2]: Hebrew *Kinarot*, the town and district of Kinnereth on the Sea of Galilee.
 [^11-3]: Hebrew *shephelah*: the low hills between the central hill country and the coastal plain. Also in verse 16.
 [^11-4]: Or "the heights of Dor".
 [^11-5]: Or "met by agreement".
-[^11-6]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^11-6]: *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles.
 [^11-7]: Hebrew *nephesh*, "living being".
 [^11-8]: Hebrew *charam*: to give something over completely to God, which in war meant destroying it and keeping nothing for oneself. Also in verses 12, 20 and 21.
 [^11-9]: Hebrew *tel*: the mound formed by the ruins of earlier towns built one on top of another.
@@ -790,7 +790,7 @@
 
 **5** He ruled over Mount Hermon, Salecah and all Bashan, as far as the border of the Geshurites and the Maacathites, and over half of Gilead, as far as the border of Sihon king of Heshbon.
 
-**6** Moses the servant of Yahweh[^12-6] and the Israelites struck them down, and Moses the servant of Yahweh gave their land as a possession to the Reubenites, the Gadites and the half-tribe of Manasseh.
+**6** Moses the servant of the LORD[^12-6] and the Israelites struck them down, and Moses the servant of the LORD gave their land as a possession to the Reubenites, the Gadites and the half-tribe of Manasseh.
 
 **7** These are the kings of the land whom Joshua and the Israelites struck down west of the Jordan,[^12-7] from Baal-gad in the Valley of Lebanon to Mount Halak, which rises toward Seir. Joshua gave their land to the tribes of Israel as a possession according to their divisions,
 
@@ -833,7 +833,7 @@
 [^12-3]: The Sea of Galilee. Hebrew *Yam Kinarot*.
 [^12-4]: The Dead Sea.
 [^12-5]: An ancient people remembered for their great height (Deuteronomy 2:11; 3:11).
-[^12-6]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^12-6]: *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles.
 [^12-7]: Literally "beyond the Jordan toward the sea".
 [^12-8]: Hebrew *shephelah*: the low hills between the central hill country and the coastal plain.
 [^12-9]: Hebrew *ashedot*; see 10:40.
@@ -846,7 +846,7 @@
 
 *Status: draft*
 
-**1** Joshua was old, advanced in years, and Yahweh[^13-1] said to him, "You are old and advanced in years, and a great deal of the land remains to be taken over.
+**1** Joshua was old, advanced in years, and the LORD[^13-1] said to him, "You are old and advanced in years, and a great deal of the land remains to be taken over.
 
 **2** This is the land that remains: all the regions of the Philistines, and all the land of the Geshurites,[^13-2]
 
@@ -860,7 +860,7 @@
 
 **7** So now divide this land as an inheritance among the nine tribes and the half-tribe of Manasseh."
 
-**8** With the other half of Manasseh,[^13-9] the Reubenites and the Gadites had received the inheritance that Moses gave them east of the Jordan, as Moses the servant of Yahweh had given it to them:
+**8** With the other half of Manasseh,[^13-9] the Reubenites and the Gadites had received the inheritance that Moses gave them east of the Jordan, as Moses the servant of the LORD had given it to them:
 
 **9** from Aroer, which is on the edge of the Arnon Valley,[^13-10] and the town that is in the middle of the valley, and the whole plateau[^13-11] of Medeba as far as Dibon,
 
@@ -872,7 +872,7 @@
 
 **13** But the Israelites did not drive out the Geshurites or the Maacathites, so Geshur and Maacath live among Israel to this day.
 
-**14** Only to the tribe of Levi he gave no inheritance. The offerings by fire[^13-13] to Yahweh, the God of Israel, are their inheritance, as he promised them.
+**14** Only to the tribe of Levi he gave no inheritance. The offerings by fire[^13-13] to the LORD, the God of Israel, are their inheritance, as he promised them.
 
 **15** Moses gave an inheritance to the tribe of the Reubenites, clan by clan.[^13-14]
 
@@ -910,9 +910,9 @@
 
 **32** These are the inheritances that Moses gave out in the plains of Moab, beyond the Jordan, east of Jericho.
 
-**33** But to the tribe of Levi Moses gave no inheritance. Yahweh, the God of Israel, is their inheritance, as he promised them.
+**33** But to the tribe of Levi Moses gave no inheritance. The LORD, the God of Israel, is their inheritance, as he promised them.
 
-[^13-1]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^13-1]: *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles.
 [^13-2]: A people in the south, near the Philistines (1 Samuel 27:8), not the Geshurites of verses 11 and 13 in the north.
 [^13-3]: A stream on the border of Egypt. *Shihor* means "the black (river)".
 [^13-4]: Hebrew *seranim*, a Philistine word for their rulers.
@@ -940,43 +940,43 @@
 
 **1** These are the inheritances that the Israelites received in the land of Canaan, which Eleazar the priest, Joshua son of Nun and the heads of the families[^14-1] of the tribes of the Israelites gave out to them.
 
-**2** Their inheritance was assigned by lot, as Yahweh[^14-2] had commanded through Moses, for the nine and a half tribes.[^14-3]
+**2** Their inheritance was assigned by lot, as the LORD[^14-2] had commanded through Moses, for the nine and a half tribes.[^14-3]
 
 **3** For Moses had given the two and a half tribes their inheritance east of the Jordan,[^14-4] but he had given no inheritance among them to the Levites.
 
 **4** For the descendants of Joseph were two tribes, Manasseh and Ephraim. And the Levites were given no share in the land, only towns to live in, with their pasturelands[^14-5] for their livestock and their possessions.
 
-**5** The Israelites did as Yahweh had commanded Moses, and they divided the land.
+**5** The Israelites did as the LORD had commanded Moses, and they divided the land.
 
-**6** The people of Judah came to Joshua at Gilgal, and Caleb son of Jephunneh the Kenizzite[^14-6] said to him, "You know what Yahweh said to Moses the man of God about you and me at Kadesh-barnea.[^14-7]
+**6** The people of Judah came to Joshua at Gilgal, and Caleb son of Jephunneh the Kenizzite[^14-6] said to him, "You know what the LORD said to Moses the man of God about you and me at Kadesh-barnea.[^14-7]
 
-**7** I was forty years old when Moses the servant of Yahweh sent me from Kadesh-barnea to spy out the land, and I brought him back a report of what I truly believed.[^14-8]
+**7** I was forty years old when Moses the servant of the LORD sent me from Kadesh-barnea to spy out the land, and I brought him back a report of what I truly believed.[^14-8]
 
-**8** But my brothers who went up with me made the people's hearts melt, while I followed Yahweh my God wholeheartedly.[^14-9]
+**8** But my brothers who went up with me made the people's hearts melt, while I followed the LORD my God wholeheartedly.[^14-9]
 
-**9** On that day Moses swore, 'The land on which your foot has walked will surely be an inheritance for you and your children forever, because you have followed Yahweh my God wholeheartedly.'[^14-10]
+**9** On that day Moses swore, 'The land on which your foot has walked will surely be an inheritance for you and your children forever, because you have followed the LORD my God wholeheartedly.'[^14-10]
 
-**10** Now look, Yahweh has kept me alive, as he promised, these forty-five years since Yahweh spoke this word to Moses, while Israel journeyed in the wilderness. And now here I am today, eighty-five years old.
+**10** Now look, the LORD has kept me alive, as he promised, these forty-five years since the LORD spoke this word to Moses, while Israel journeyed in the wilderness. And now here I am today, eighty-five years old.
 
 **11** I am still as strong today as I was on the day Moses sent me. As my strength was then, so my strength is now, for war and for going out and coming in.[^14-11]
 
-**12** So now give me this hill country that Yahweh spoke of on that day. For you heard on that day that the Anakim[^14-12] were there, with great fortified towns. Perhaps Yahweh will be with me, and I will drive them out, as Yahweh said."
+**12** So now give me this hill country that the LORD spoke of on that day. For you heard on that day that the Anakim[^14-12] were there, with great fortified towns. Perhaps the LORD will be with me, and I will drive them out, as the LORD said."
 
 **13** Joshua blessed him and gave Hebron to Caleb son of Jephunneh as an inheritance.
 
-**14** So Hebron has belonged to Caleb son of Jephunneh the Kenizzite as an inheritance to this day, because he followed Yahweh, the God of Israel, wholeheartedly.
+**14** So Hebron has belonged to Caleb son of Jephunneh the Kenizzite as an inheritance to this day, because he followed the LORD, the God of Israel, wholeheartedly.
 
 **15** The name of Hebron was formerly Kiriath-arba.[^14-13] Arba was the greatest man among the Anakim. And the land had rest from war.
 
 [^14-1]: Literally "the heads of the fathers", the leaders of the family groups within each tribe.
-[^14-2]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^14-2]: *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles.
 [^14-3]: Numbers 26:55–56; 34:13.
 [^14-4]: Literally "beyond the Jordan".
 [^14-5]: Hebrew *migrash*: the open land around a town, used for grazing (Numbers 35:2–5).
 [^14-6]: The Kenizzites are listed among the peoples of Canaan in Genesis 15:19, and Kenaz is an Edomite name (Genesis 36:11). Caleb's family belonged to Judah (Numbers 13:6).
 [^14-7]: Numbers 14:24, 30; Deuteronomy 1:36.
 [^14-8]: Literally "as it was with my heart".
-[^14-9]: Literally "I filled after Yahweh my God". Also in verses 9 and 14.
+[^14-9]: Literally "I filled after the LORD my God". Also in verses 9 and 14.
 [^14-10]: Deuteronomy 1:36.
 [^14-11]: That is, for leading in battle and in all the business of life.
 [^14-12]: A people remembered for their great height (Numbers 13:28, 33).
@@ -1010,7 +1010,7 @@
 
 **12** The western border was the Great Sea[^15-14] and its coast. This is the border all around the people of Judah, clan by clan.
 
-**13** Joshua gave Caleb son of Jephunneh a share among the people of Judah, as Yahweh[^15-15] had commanded him:[^15-16] Kiriath-arba, that is, Hebron. Arba was the father of Anak.
+**13** Joshua gave Caleb son of Jephunneh a share among the people of Judah, as the LORD[^15-15] had commanded him:[^15-16] Kiriath-arba, that is, Hebron. Arba was the father of Anak.
 
 **14** From there Caleb drove out the three sons of Anak, Sheshai, Ahiman and Talmai, the descendants of Anak.
 
@@ -1117,7 +1117,7 @@
 [^15-3]: Literally "the tongue". Also in verse 5.
 [^15-4]: Or "the Scorpion Pass".
 [^15-5]: Hebrew *nachal Mitsrayim*, a valley with a stream that flows in the rainy season, on the border with Egypt, usually identified with the Wadi el-Arish. Also in verse 47.
-[^15-6]: The words of Numbers 34:5–6, where Yahweh is speaking to Israel.
+[^15-6]: The words of Numbers 34:5–6, where the LORD is speaking to Israel.
 [^15-7]: Not the Debir of verse 15.
 [^15-8]: Called Geliloth in 18:17.
 [^15-9]: *Adummim* means "red (rocks)".
@@ -1126,8 +1126,8 @@
 [^15-12]: Literally "to the shoulder of the Jebusite from the south".
 [^15-13]: Not the Seir of Edom, but a ridge west of Jerusalem.
 [^15-14]: The Mediterranean Sea.
-[^15-15]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
-[^15-16]: Literally "He gave … according to the mouth of Yahweh to Joshua".
+[^15-15]: *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles.
+[^15-16]: Literally "He gave … according to the mouth of the LORD to Joshua".
 [^15-17]: *Kiriath-sepher* means "town of the book" or "town of the scribe".
 [^15-18]: The Hebrew can mean that either Othniel or Kenaz was Caleb's brother. Compare Judges 1:13; 3:9.
 [^15-19]: The meaning of the Hebrew verb is uncertain. It may mean that she got down quickly, or that she clapped her hands.
@@ -1185,7 +1185,7 @@
 
 **3** Now Zelophehad son of Hepher, son of Gilead, son of Machir, son of Manasseh, had no sons, only daughters. These are the names of his daughters: Mahlah, Noah, Hoglah, Milcah and Tirzah.
 
-**4** They came before Eleazar the priest, Joshua son of Nun and the leaders, and said, "Yahweh[^17-2] commanded Moses to give us an inheritance among our brothers."[^17-3] So, as Yahweh had commanded, Joshua gave them an inheritance among their father's brothers.
+**4** They came before Eleazar the priest, Joshua son of Nun and the leaders, and said, "The LORD[^17-2] commanded Moses to give us an inheritance among our brothers."[^17-3] So, as the LORD had commanded, Joshua gave them an inheritance among their father's brothers.
 
 **5** So ten portions[^17-4] fell to Manasseh, besides the land of Gilead and Bashan, which is east of the Jordan,[^17-5]
 
@@ -1205,7 +1205,7 @@
 
 **13** When the Israelites grew strong, they put the Canaanites to forced labor, but they did not drive them out completely.
 
-**14** The descendants of Joseph said to Joshua, "Why have you given us[^17-11] only one allotment and one portion as an inheritance? We are a numerous people, for Yahweh has blessed us so much."
+**14** The descendants of Joseph said to Joshua, "Why have you given us[^17-11] only one allotment and one portion as an inheritance? We are a numerous people, for the LORD has blessed us so much."
 
 **15** Joshua said to them, "If you are a numerous people, go up to the forest and clear land for yourselves there, in the land of the Perizzites and the Rephaim,[^17-12] since the hill country of Ephraim is too small for you."
 
@@ -1216,7 +1216,7 @@
 **18** The hill country will be yours. Though it is forest, you will clear it, and it will be yours to its farthest limits. For you will drive out the Canaanites, though they have chariots of iron and though they are strong."
 
 [^17-1]: Literally "the lot", the share of land assigned by casting lots.
-[^17-2]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^17-2]: *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles.
 [^17-3]: Numbers 27:1–11; 36:1–12.
 [^17-4]: Hebrew *chavalim*, "measuring lines", and so measured shares of land.
 [^17-5]: Literally "beyond the Jordan".
@@ -1237,21 +1237,21 @@
 
 **2** Seven tribes remained among the Israelites that had not yet been given their inheritance.
 
-**3** So Joshua said to the Israelites, "How long will you put off going in to take possession of the land that Yahweh,[^18-2] the God of your ancestors, has given you?
+**3** So Joshua said to the Israelites, "How long will you put off going in to take possession of the land that the LORD,[^18-2] the God of your ancestors, has given you?
 
 **4** Appoint three men from each tribe, and I will send them out. They are to set out and go through the land and write a description of it, with a view to their inheritance. Then they are to come back to me.
 
 **5** They are to divide it into seven portions. Judah will stay in its territory in the south, and the house of Joseph will stay in its territory in the north.
 
-**6** You are to write a description of the land in seven portions and bring it here to me, and I will cast lots for you here before Yahweh our God.
+**6** You are to write a description of the land in seven portions and bring it here to me, and I will cast lots for you here before the LORD our God.
 
-**7** For the Levites have no share among you, because the priesthood of Yahweh is their inheritance. And Gad, Reuben and the half-tribe of Manasseh have received their inheritance east of the Jordan,[^18-3] which Moses the servant of Yahweh gave them."
+**7** For the Levites have no share among you, because the priesthood of the LORD is their inheritance. And Gad, Reuben and the half-tribe of Manasseh have received their inheritance east of the Jordan,[^18-3] which Moses the servant of the LORD gave them."
 
-**8** So the men set out and went. Joshua commanded those who went to write a description of the land: "Go and walk through the land and write a description of it, then come back to me, and I will cast lots for you here before Yahweh in Shiloh."
+**8** So the men set out and went. Joshua commanded those who went to write a description of the land: "Go and walk through the land and write a description of it, then come back to me, and I will cast lots for you here before the LORD in Shiloh."
 
 **9** So the men went and passed through the land, and they wrote a description of it in a scroll, town by town, in seven portions. Then they came back to Joshua at the camp at Shiloh.
 
-**10** Joshua cast lots for them in Shiloh before Yahweh, and there Joshua divided the land among the Israelites according to their divisions.
+**10** Joshua cast lots for them in Shiloh before the LORD, and there Joshua divided the land among the Israelites according to their divisions.
 
 **11** The lot for the tribe of the Benjaminites came up, clan by clan. The territory of their allotment lay between the people of Judah and the descendants of Joseph.
 
@@ -1289,8 +1289,8 @@
 
 **28** Zela, Haeleph, the Jebusite town, that is, Jerusalem, Gibeath[^18-10] and Kiriath: fourteen towns, with their villages. This was the inheritance of the Benjaminites, clan by clan.
 
-[^18-1]: The tent where Yahweh met with his people, that is, the tabernacle (Exodus 33:7; 40:34–35).
-[^18-2]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^18-1]: The tent where the LORD met with his people, that is, the tabernacle (Exodus 33:7; 40:34–35).
+[^18-2]: *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles.
 [^18-3]: Literally "beyond the Jordan toward the sunrise".
 [^18-4]: Literally "toward the sea". The direction is unexpected here; compare 15:9.
 [^18-5]: Literally "to the shoulder of the Jebusite on the south". Also in verse 28.
@@ -1402,9 +1402,9 @@
 
 **49** When they had finished dividing up the land as inheritances by its borders, the Israelites gave Joshua son of Nun an inheritance among them.
 
-**50** As Yahweh[^19-18] had commanded,[^19-19] they gave him the town he asked for, Timnath-serah[^19-20] in the hill country of Ephraim. He rebuilt the town and settled in it.
+**50** As the LORD[^19-18] had commanded,[^19-19] they gave him the town he asked for, Timnath-serah[^19-20] in the hill country of Ephraim. He rebuilt the town and settled in it.
 
-**51** These are the inheritances that Eleazar the priest, Joshua son of Nun and the heads of the families[^19-21] of the tribes of the Israelites gave out by lot at Shiloh before Yahweh, at the entrance of the tent of meeting. So they finished dividing the land.
+**51** These are the inheritances that Eleazar the priest, Joshua son of Nun and the heads of the families[^19-21] of the tribes of the Israelites gave out by lot at Shiloh before the LORD, at the entrance of the tent of meeting. So they finished dividing the land.
 
 [^19-1]: Sheba is not in the parallel list in 1 Chronicles 4:28. Without it the names in verses 2–6 come to thirteen.
 [^19-2]: Hebrew *chatserim*: settlements without walls around a town. Also in verses 7–8 and throughout the chapter.
@@ -1423,8 +1423,8 @@
 [^19-15]: *Me-jarkon* means "waters of Jarkon", perhaps the Yarkon river north of Joppa.
 [^19-16]: Literally "went out from them".
 [^19-17]: Leshem is called Laish in Judges 18, where the story is told at length (Judges 18:27–29).
-[^19-18]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
-[^19-19]: Literally "At the mouth of Yahweh".
+[^19-18]: *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles.
+[^19-19]: Literally "At the mouth of the LORD".
 [^19-20]: Called Timnath-heres in Judges 2:9.
 [^19-21]: Literally "the heads of the fathers", the leaders of the family groups within each tribe.
 
@@ -1432,7 +1432,7 @@
 
 *Status: draft*
 
-**1** Yahweh[^20-1] said to Joshua,
+**1** The LORD[^20-1] said to Joshua,
 
 **2** "Tell the Israelites: 'Designate the towns of refuge that I spoke to you about through Moses,[^20-2]
 
@@ -1450,7 +1450,7 @@
 
 **9** These were the designated towns[^20-8] for all the Israelites and for the foreigners[^20-9] living among them, so that anyone who killed a person by mistake could flee there and not die at the hand of the avenger of blood before he had stood trial before the community.
 
-[^20-1]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^20-1]: *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles.
 [^20-2]: Numbers 35:9–34; Deuteronomy 4:41–43; 19:1–13.
 [^20-3]: Hebrew *go'el ha-dam*: the relative whose duty was to avenge the death of a family member (Numbers 35:19). Also in verses 5 and 9.
 [^20-4]: The Greek Septuagint does not have most of verses 4–6.
@@ -1466,9 +1466,9 @@
 
 **1** The heads of the families[^21-1] of the Levites came to Eleazar the priest, to Joshua son of Nun and to the heads of the families of the tribes of the Israelites
 
-**2** at Shiloh in the land of Canaan, and said to them, "Yahweh[^21-2] commanded through Moses that we be given towns to live in, with their pasturelands[^21-3] for our livestock."[^21-4]
+**2** at Shiloh in the land of Canaan, and said to them, "The LORD[^21-2] commanded through Moses that we be given towns to live in, with their pasturelands[^21-3] for our livestock."[^21-4]
 
-**3** So, as Yahweh had commanded, the Israelites gave the Levites these towns with their pasturelands out of their own inheritance.
+**3** So, as the LORD had commanded, the Israelites gave the Levites these towns with their pasturelands out of their own inheritance.
 
 **4** The lot came out for the clans of the Kohathites. The descendants of Aaron the priest, who were among the Levites, received by lot thirteen towns from the tribe of Judah, the tribe of Simeon and the tribe of Benjamin.
 
@@ -1478,7 +1478,7 @@
 
 **7** The Merarites, clan by clan, received twelve towns from the tribe of Reuben, the tribe of Gad and the tribe of Zebulun.
 
-**8** So the Israelites gave these towns with their pasturelands to the Levites by lot, as Yahweh had commanded through Moses.
+**8** So the Israelites gave these towns with their pasturelands to the Levites by lot, as the LORD had commanded through Moses.
 
 **9** From the tribe of the people of Judah and the tribe of the people of Simeon they gave the following towns, which are mentioned here by name.
 
@@ -1548,14 +1548,14 @@
 
 **42** Each of these towns had its pasturelands around it. It was the same with all these towns.
 
-**43** So Yahweh gave Israel all the land that he had sworn to give to their ancestors, and they took possession of it and settled in it.
+**43** So the LORD gave Israel all the land that he had sworn to give to their ancestors, and they took possession of it and settled in it.
 
-**44** Yahweh gave them rest on every side, just as he had sworn to their ancestors. Not one of all their enemies could stand against them. Yahweh gave all their enemies into their hand.
+**44** The LORD gave them rest on every side, just as he had sworn to their ancestors. Not one of all their enemies could stand against them. The LORD gave all their enemies into their hand.
 
-**45** Not one word of all the good promises that Yahweh had made to the house of Israel failed.[^21-12] Every one came true.
+**45** Not one word of all the good promises that the LORD had made to the house of Israel failed.[^21-12] Every one came true.
 
 [^21-1]: Literally "the heads of the fathers", the leaders of the family groups. Also later in the verse.
-[^21-2]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^21-2]: *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles.
 [^21-3]: Hebrew *migrash*: the open land around a town, used for grazing. Also throughout the chapter.
 [^21-4]: Numbers 35:1–8.
 [^21-5]: Hebrew *chatserim*: settlements without walls around a town.
@@ -1573,13 +1573,13 @@
 
 **1** Then Joshua summoned the Reubenites, the Gadites and the half-tribe of Manasseh
 
-**2** and said to them, "You have kept everything that Moses the servant of Yahweh[^22-1] commanded you, and you have obeyed me in everything I commanded you.
+**2** and said to them, "You have kept everything that Moses the servant of the LORD[^22-1] commanded you, and you have obeyed me in everything I commanded you.
 
-**3** All this long time, up to this day, you have not abandoned your brothers, and you have faithfully kept the command of Yahweh your God.
+**3** All this long time, up to this day, you have not abandoned your brothers, and you have faithfully kept the command of the LORD your God.
 
-**4** Now Yahweh your God has given your brothers rest, as he promised them. So now turn and go to your homes,[^22-2] to the land that is your possession, which Moses the servant of Yahweh gave you east of the Jordan.[^22-3]
+**4** Now the LORD your God has given your brothers rest, as he promised them. So now turn and go to your homes,[^22-2] to the land that is your possession, which Moses the servant of the LORD gave you east of the Jordan.[^22-3]
 
-**5** Only be very careful to keep the command and the law[^22-4] that Moses the servant of Yahweh gave you: to love Yahweh your God, to walk in all his ways, to keep his commands, to hold fast to him, and to serve him with all your heart and with all your soul."
+**5** Only be very careful to keep the command and the law[^22-4] that Moses the servant of the LORD gave you: to love the LORD your God, to walk in all his ways, to keep his commands, to hold fast to him, and to serve him with all your heart and with all your soul."
 
 **6** Then Joshua blessed them and sent them away, and they went to their homes.
 
@@ -1587,7 +1587,7 @@
 
 **8** and said to them, "Go back to your homes with great wealth: with a very large number of livestock, with silver, gold, bronze and iron, and with a great quantity of clothing. Share the spoil of your enemies with your brothers."
 
-**9** So the Reubenites, the Gadites and the half-tribe of Manasseh turned back and left the Israelites at Shiloh in the land of Canaan, to go to the land of Gilead, the land of their own possession, which they had acquired at Yahweh's command through Moses.
+**9** So the Reubenites, the Gadites and the half-tribe of Manasseh turned back and left the Israelites at Shiloh in the land of Canaan, to go to the land of Gilead, the land of their own possession, which they had acquired at the LORD's command through Moses.
 
 **10** When they came to Geliloth[^22-5] by the Jordan in the land of Canaan, the Reubenites, the Gadites and the half-tribe of Manasseh built an altar there by the Jordan, a large altar, impressive to look at.
 
@@ -1601,45 +1601,45 @@
 
 **15** They came to the Reubenites, the Gadites and the half-tribe of Manasseh in the land of Gilead and said to them,
 
-**16** "This is what the whole community of Yahweh says: 'What is this unfaithfulness you have committed against the God of Israel, turning away today from following Yahweh by building yourselves an altar, and so rebelling today against Yahweh?
+**16** "This is what the whole community of the LORD says: 'What is this unfaithfulness you have committed against the God of Israel, turning away today from following the LORD by building yourselves an altar, and so rebelling today against the LORD?
 
-**17** Was the wrongdoing at Peor[^22-8] not enough for us? We have not cleansed ourselves of it to this day, even though a plague came on the community of Yahweh.
+**17** Was the wrongdoing at Peor[^22-8] not enough for us? We have not cleansed ourselves of it to this day, even though a plague came on the community of the LORD.
 
-**18** And now you are turning away today from following Yahweh! If you rebel against Yahweh today, tomorrow he will be angry with the whole community of Israel.
+**18** And now you are turning away today from following the LORD! If you rebel against the LORD today, tomorrow he will be angry with the whole community of Israel.
 
-**19** But if the land you possess is unclean, cross over into the land that Yahweh possesses, where Yahweh's tabernacle[^22-9] stands, and take possession of land among us. Only do not rebel against Yahweh, and do not rebel against us,[^22-10] by building yourselves an altar other than the altar of Yahweh our God.
+**19** But if the land you possess is unclean, cross over into the land that the LORD possesses, where the LORD's tabernacle[^22-9] stands, and take possession of land among us. Only do not rebel against the LORD, and do not rebel against us,[^22-10] by building yourselves an altar other than the altar of the LORD our God.
 
 **20** When Achan son of Zerah acted unfaithfully in the matter of what was devoted to destruction,[^22-11] did not wrath fall on the whole community of Israel? And he was not the only one to die for his wrongdoing.'"
 
 **21** Then the Reubenites, the Gadites and the half-tribe of Manasseh answered the heads of the clans of Israel:
 
-**22** "The Mighty One, God, Yahweh! The Mighty One, God, Yahweh![^22-12] He knows, and let Israel know! If this was in rebellion or in unfaithfulness against Yahweh, do not spare us[^22-13] today.
+**22** "The Mighty One, God, the LORD! The Mighty One, God, the LORD![^22-12] He knows, and let Israel know! If this was in rebellion or in unfaithfulness against the LORD, do not spare us[^22-13] today.
 
-**23** If we have built ourselves an altar to turn away from following Yahweh, or to offer burnt offerings[^22-14] and grain offerings[^22-15] on it, or to make fellowship sacrifices[^22-16] on it, may Yahweh himself call us to account.
+**23** If we have built ourselves an altar to turn away from following the LORD, or to offer burnt offerings[^22-14] and grain offerings[^22-15] on it, or to make fellowship sacrifices[^22-16] on it, may the LORD himself call us to account.
 
-**24** No, we did it because we were anxious about something. In time to come[^22-17] your descendants might say to our descendants, 'What do you have to do with Yahweh, the God of Israel?
+**24** No, we did it because we were anxious about something. In time to come[^22-17] your descendants might say to our descendants, 'What do you have to do with the LORD, the God of Israel?
 
-**25** Yahweh has made the Jordan a border between us and you, you Reubenites and Gadites. You have no share in Yahweh.' So your descendants might make our descendants stop fearing Yahweh.
+**25** The LORD has made the Jordan a border between us and you, you Reubenites and Gadites. You have no share in the LORD.' So your descendants might make our descendants stop fearing the LORD.
 
 **26** So we said, 'Let us now build an altar, not for burnt offerings or for sacrifices,
 
-**27** but to be a witness between us and you, and between our generations after us, that we will worship Yahweh in his presence with our burnt offerings, our sacrifices and our fellowship offerings. Then your descendants will not be able to say to our descendants in time to come, "You have no share in Yahweh."'
+**27** but to be a witness between us and you, and between our generations after us, that we will worship the LORD in his presence with our burnt offerings, our sacrifices and our fellowship offerings. Then your descendants will not be able to say to our descendants in time to come, "You have no share in the LORD."'
 
-**28** And we said, 'If they ever say this to us or to our descendants in time to come, we will say, "Look at this copy of the altar of Yahweh, which our ancestors made, not for burnt offerings or for sacrifices, but as a witness between us and you."'
+**28** And we said, 'If they ever say this to us or to our descendants in time to come, we will say, "Look at this copy of the altar of the LORD, which our ancestors made, not for burnt offerings or for sacrifices, but as a witness between us and you."'
 
-**29** Far be it from us to rebel against Yahweh and turn away today from following Yahweh by building an altar for burnt offerings, grain offerings or sacrifices, other than the altar of Yahweh our God that stands in front of his tabernacle!"
+**29** Far be it from us to rebel against the LORD and turn away today from following the LORD by building an altar for burnt offerings, grain offerings or sacrifices, other than the altar of the LORD our God that stands in front of his tabernacle!"
 
 **30** Phinehas the priest, the leaders of the community and the heads of the clans of Israel who were with him heard what the Reubenites, the Gadites and the Manassites said, and they were satisfied.[^22-18]
 
-**31** Phinehas son of Eleazar the priest said to the Reubenites, the Gadites and the Manassites, "Today we know that Yahweh is among us, because you have not committed this unfaithfulness against Yahweh. Now you have rescued the Israelites from the hand of Yahweh."
+**31** Phinehas son of Eleazar the priest said to the Reubenites, the Gadites and the Manassites, "Today we know that the LORD is among us, because you have not committed this unfaithfulness against the LORD. Now you have rescued the Israelites from the hand of the LORD."
 
 **32** Then Phinehas son of Eleazar the priest and the leaders returned from the Reubenites and the Gadites in the land of Gilead to the land of Canaan, to the Israelites, and brought back word to them.
 
 **33** The Israelites were satisfied with the report, and the Israelites blessed God. They spoke no more of going up to make war against them, to destroy the land where the Reubenites and the Gadites lived.
 
-**34** The Reubenites and the Gadites gave the altar its name:[^22-19] "It is a witness between us that Yahweh is God."
+**34** The Reubenites and the Gadites gave the altar its name:[^22-19] "It is a witness between us that the LORD is God."
 
-[^22-1]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^22-1]: *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles.
 [^22-2]: Literally "to your tents". Also in verses 6–8.
 [^22-3]: Literally "beyond the Jordan". In verse 7, "west of the Jordan" is literally "beyond the Jordan toward the sea".
 [^22-4]: Hebrew *torah*, "instruction, law".
@@ -1647,10 +1647,10 @@
 [^22-6]: Literally "on the side of the Israelites", that is, on the west bank of the Jordan.
 [^22-7]: Hebrew *alafim*, literally "thousands", here the clans or divisions of Israel. Also in verses 21 and 30.
 [^22-8]: See Numbers 25:1–9.
-[^22-9]: Hebrew *mishkan*, "dwelling": the tent where Yahweh was present among his people. Also in verse 29.
+[^22-9]: Hebrew *mishkan*, "dwelling": the tent where the LORD was present among his people. Also in verse 29.
 [^22-10]: Or "do not make us rebels".
 [^22-11]: Hebrew *cherem*: something given over completely to God, which in war meant destroying it and keeping nothing for oneself. See chapter 7.
-[^22-12]: Hebrew *El Elohim YHWH*, three names for God, repeated for emphasis. It can also be read "The God of gods is Yahweh" (compare Psalm 50:1).
+[^22-12]: Hebrew *El Elohim YHWH*, three names for God, repeated for emphasis. It can also be read "The God of gods is the LORD" (compare Psalm 50:1).
 [^22-13]: Literally "do not save us".
 [^22-14]: Hebrew *olot*: animals burned whole on the altar.
 [^22-15]: Hebrew *minchah*: an offering of flour or grain. Also in verse 29.
@@ -1663,39 +1663,39 @@
 
 *Status: draft*
 
-**1** A long time afterward, when Yahweh[^23-1] had given Israel rest from all their enemies around them, and Joshua was old and advanced in years,
+**1** A long time afterward, when the LORD[^23-1] had given Israel rest from all their enemies around them, and Joshua was old and advanced in years,
 
 **2** Joshua summoned all Israel, their elders, their leaders,[^23-2] their judges and their officials, and said to them, "I am old and advanced in years.
 
-**3** You yourselves have seen everything that Yahweh your God has done to all these nations for your sake, for it is Yahweh your God who has fought for you.
+**3** You yourselves have seen everything that the LORD your God has done to all these nations for your sake, for it is the LORD your God who has fought for you.
 
 **4** See, I have allotted to you[^23-3] as an inheritance for your tribes these nations that remain, as well as all the nations I have wiped out, from the Jordan to the Great Sea in the west.[^23-4]
 
-**5** Yahweh your God himself will push them back before you and drive them out of your way, and you will take possession of their land, as Yahweh your God promised you.
+**5** The LORD your God himself will push them back before you and drive them out of your way, and you will take possession of their land, as the LORD your God promised you.
 
 **6** So be very strong, and be careful to do everything that is written in the book of the law of Moses, without turning aside from it to the right or to the left.
 
 **7** Do not mix with these nations, these that remain among you. Do not call on the names of their gods, or make anyone swear by them.[^23-5] Do not serve them or bow down to them.
 
-**8** But hold fast to Yahweh your God, as you have done to this day.
+**8** But hold fast to the LORD your God, as you have done to this day.
 
-**9** Yahweh has driven out before you great and powerful nations, and as for you, no one has been able to stand against you to this day.
+**9** The LORD has driven out before you great and powerful nations, and as for you, no one has been able to stand against you to this day.
 
-**10** One of you puts a thousand to flight,[^23-6] for it is Yahweh your God who fights for you, as he promised you.
+**10** One of you puts a thousand to flight,[^23-6] for it is the LORD your God who fights for you, as he promised you.
 
-**11** So for your own sake[^23-7] take great care to love Yahweh your God.
+**11** So for your own sake[^23-7] take great care to love the LORD your God.
 
 **12** For if you ever turn back and cling to the rest of these nations, these that remain among you, and intermarry with them, and you mix with them and they with you,
 
-**13** know for certain that Yahweh your God will no longer drive these nations out before you. They will be a snare and a trap for you, a whip on your sides and thorns in your eyes, until you perish from this good land that Yahweh your God has given you.
+**13** know for certain that the LORD your God will no longer drive these nations out before you. They will be a snare and a trap for you, a whip on your sides and thorns in your eyes, until you perish from this good land that the LORD your God has given you.
 
-**14** Now I am about to go the way of all the earth.[^23-8] You know with all your heart and all your soul that not one word has failed of all the good promises that Yahweh your God made concerning you. All of them have come true for you. Not one word of them has failed.
+**14** Now I am about to go the way of all the earth.[^23-8] You know with all your heart and all your soul that not one word has failed of all the good promises that the LORD your God made concerning you. All of them have come true for you. Not one word of them has failed.
 
-**15** But just as every good promise that Yahweh your God made to you has come true for you, so Yahweh will bring on you every evil he has threatened,[^23-9] until he has destroyed you from this good land that Yahweh your God has given you,
+**15** But just as every good promise that the LORD your God made to you has come true for you, so the LORD will bring on you every evil he has threatened,[^23-9] until he has destroyed you from this good land that the LORD your God has given you,
 
-**16** if you break the covenant of Yahweh your God, which he commanded you to keep, and go and serve other gods and bow down to them. Then the anger of Yahweh will burn against you, and you will quickly perish from the good land that he has given you."
+**16** if you break the covenant of the LORD your God, which he commanded you to keep, and go and serve other gods and bow down to them. Then the anger of the LORD will burn against you, and you will quickly perish from the good land that he has given you."
 
-[^23-1]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^23-1]: *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles.
 [^23-2]: Literally "heads".
 [^23-3]: Literally "made fall to you", that is, assigned by lot.
 [^23-4]: Literally "and the Great Sea, the going in of the sun".
@@ -1711,7 +1711,7 @@
 
 **1** Joshua gathered all the tribes of Israel at Shechem.[^24-1] He summoned the elders, the leaders,[^24-2] the judges and the officials of Israel, and they presented themselves before God.
 
-**2** Joshua said to all the people, "This is what Yahweh,[^24-3] the God of Israel, says: 'Long ago your ancestors, Terah the father of Abraham and of Nahor, lived beyond the River,[^24-4] and they served other gods.
+**2** Joshua said to all the people, "This is what the LORD,[^24-3] the God of Israel, says: 'Long ago your ancestors, Terah the father of Abraham and of Nahor, lived beyond the River,[^24-4] and they served other gods.
 
 **3** But I took your father Abraham from beyond the River and led him through all the land of Canaan. I made his descendants many, and I gave him Isaac.
 
@@ -1721,7 +1721,7 @@
 
 **6** I brought your ancestors out of Egypt, and you came to the sea. The Egyptians pursued your ancestors with chariots and horsemen to the Red Sea.[^24-5]
 
-**7** They cried out to Yahweh, and he put darkness between you and the Egyptians. He brought the sea over them and covered them. Your own eyes saw what I did in Egypt. Then you lived in the wilderness for a long time.
+**7** They cried out to the LORD, and he put darkness between you and the Egyptians. He brought the sea over them and covered them. Your own eyes saw what I did in Egypt. Then you lived in the wilderness for a long time.
 
 **8** I brought you to the land of the Amorites, who lived east of the Jordan.[^24-6] They fought against you, but I gave them into your hand. You took possession of their land, and I destroyed them before you.
 
@@ -1735,41 +1735,41 @@
 
 **13** I gave you a land you had not toiled over, and towns you had not built, and you live in them. You eat from vineyards and olive groves that you did not plant.'
 
-**14** So now fear Yahweh and serve him with integrity and faithfulness. Put away the gods your ancestors served beyond the River and in Egypt, and serve Yahweh.
+**14** So now fear the LORD and serve him with integrity and faithfulness. Put away the gods your ancestors served beyond the River and in Egypt, and serve the LORD.
 
-**15** But if you think it wrong[^24-11] to serve Yahweh, choose today whom you will serve, whether the gods your ancestors served beyond the River, or the gods of the Amorites in whose land you are living. But as for me and my household, we will serve Yahweh."
+**15** But if you think it wrong[^24-11] to serve the LORD, choose today whom you will serve, whether the gods your ancestors served beyond the River, or the gods of the Amorites in whose land you are living. But as for me and my household, we will serve the LORD."
 
-**16** The people answered, "Far be it from us to abandon Yahweh to serve other gods!
+**16** The people answered, "Far be it from us to abandon the LORD to serve other gods!
 
-**17** For it is Yahweh our God who brought us and our ancestors up from the land of Egypt, out of the place of slavery,[^24-12] and who did those great signs before our eyes. He protected us all along the way we traveled, and among all the peoples through whom we passed.
+**17** For it is the LORD our God who brought us and our ancestors up from the land of Egypt, out of the place of slavery,[^24-12] and who did those great signs before our eyes. He protected us all along the way we traveled, and among all the peoples through whom we passed.
 
-**18** Yahweh drove out before us all the peoples, and the Amorites who lived in the land. We too will serve Yahweh, for he is our God."
+**18** The LORD drove out before us all the peoples, and the Amorites who lived in the land. We too will serve the LORD, for he is our God."
 
-**19** Joshua said to the people, "You cannot serve Yahweh, for he is a holy God.[^24-13] He is a jealous God.[^24-14] He will not forgive your rebellion or your sins.
+**19** Joshua said to the people, "You cannot serve the LORD, for he is a holy God.[^24-13] He is a jealous God.[^24-14] He will not forgive your rebellion or your sins.
 
-**20** If you abandon Yahweh and serve foreign gods, he will turn and bring disaster on you and make an end of you, after he has done you good."
+**20** If you abandon the LORD and serve foreign gods, he will turn and bring disaster on you and make an end of you, after he has done you good."
 
-**21** The people said to Joshua, "No! We will serve Yahweh."
+**21** The people said to Joshua, "No! We will serve the LORD."
 
-**22** Joshua said to the people, "You are witnesses against yourselves that you have chosen Yahweh, to serve him." They said, "We are witnesses."
+**22** Joshua said to the people, "You are witnesses against yourselves that you have chosen the LORD, to serve him." They said, "We are witnesses."
 
-**23** "Then put away the foreign gods that are among you, and turn your hearts to Yahweh, the God of Israel."
+**23** "Then put away the foreign gods that are among you, and turn your hearts to the LORD, the God of Israel."
 
-**24** The people said to Joshua, "We will serve Yahweh our God, and we will obey his voice."
+**24** The people said to Joshua, "We will serve the LORD our God, and we will obey his voice."
 
 **25** So on that day Joshua made a covenant for the people, and there at Shechem he set out for them a decree and a ruling.
 
-**26** Joshua wrote these words in the book of the law of God. He took a large stone and set it up there, under the oak[^24-15] that was by the sanctuary of Yahweh.
+**26** Joshua wrote these words in the book of the law of God. He took a large stone and set it up there, under the oak[^24-15] that was by the sanctuary of the LORD.
 
-**27** Joshua said to all the people, "Look, this stone will be a witness against us, for it has heard all the words that Yahweh spoke to us. It will be a witness against you, so that you do not deny your God."
+**27** Joshua said to all the people, "Look, this stone will be a witness against us, for it has heard all the words that the LORD spoke to us. It will be a witness against you, so that you do not deny your God."
 
 **28** Then Joshua sent the people away, each to his own inheritance.
 
-**29** After these things, Joshua son of Nun, the servant of Yahweh, died at the age of 110.
+**29** After these things, Joshua son of Nun, the servant of the LORD, died at the age of 110.
 
 **30** They buried him within the territory of his inheritance, at Timnath-serah in the hill country of Ephraim, north of Mount Gaash.
 
-**31** Israel served Yahweh all the days of Joshua, and all the days of the elders who outlived Joshua and who had known all the work that Yahweh had done for Israel.
+**31** Israel served the LORD all the days of Joshua, and all the days of the elders who outlived Joshua and who had known all the work that the LORD had done for Israel.
 
 **32** The bones of Joseph, which the Israelites had brought up from Egypt, they buried at Shechem, in the piece of land that Jacob had bought from the sons of Hamor, the father of Shechem, for a hundred *qesitah*.[^24-16] It became an inheritance of the descendants of Joseph.
 
@@ -1777,7 +1777,7 @@
 
 [^24-1]: The Greek Septuagint reads "Shiloh" here and in verse 25.
 [^24-2]: Literally "heads".
-[^24-3]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^24-3]: *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles.
 [^24-4]: The Euphrates. Also in verses 3, 14 and 15.
 [^24-5]: Hebrew *Yam Suph*, literally "Sea of Reeds". The Greek Septuagint calls it "the Red Sea".
 [^24-6]: Literally "beyond the Jordan".

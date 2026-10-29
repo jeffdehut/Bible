@@ -39,7 +39,7 @@
 
 **16** Bathsheba bowed low and knelt before the king. The king said, "What do you want?"[^1-17]
 
-**17** She said to him, "My lord, you yourself swore to your servant by Yahweh[^1-18] your God, 'Your son Solomon will be king after me, and he will sit on my throne.'
+**17** She said to him, "My lord, you yourself swore to your servant by the LORD[^1-18] your God, 'Your son Solomon will be king after me, and he will sit on my throne.'
 
 **18** But now, look, Adonijah has become king, and now, my lord the king, you do not know it.
 
@@ -63,9 +63,9 @@
 
 **28** Then King David answered, "Call Bathsheba to me." She came into the king's presence and stood before the king.
 
-**29** The king swore an oath and said, "As Yahweh lives, who has rescued my life from every trouble,
+**29** The king swore an oath and said, "As the LORD lives, who has rescued my life from every trouble,
 
-**30** just as I swore to you by Yahweh, the God of Israel, 'Your son Solomon will be king after me, and he will sit on my throne in my place,' so I will do this very day."
+**30** just as I swore to you by the LORD, the God of Israel, 'Your son Solomon will be king after me, and he will sit on my throne in my place,' so I will do this very day."
 
 **31** Bathsheba bowed with her face to the ground and knelt before the king. She said, "May my lord King David live forever!"
 
@@ -77,9 +77,9 @@
 
 **35** Then come up after him, and he is to come and sit on my throne. He will be king in my place. I have appointed him to be ruler[^1-25] over Israel and over Judah."
 
-**36** Benaiah son of Jehoiada answered the king, "Amen! May Yahweh, the God of my lord the king, say so too.
+**36** Benaiah son of Jehoiada answered the king, "Amen! May the LORD, the God of my lord the king, say so too.
 
-**37** As Yahweh has been with my lord the king, so may he be with Solomon, and may he make his throne even greater than the throne of my lord King David."
+**37** As the LORD has been with my lord the king, so may he be with Solomon, and may he make his throne even greater than the throne of my lord King David."
 
 **38** So Zadok the priest, Nathan the prophet, Benaiah son of Jehoiada, and the Cherethites and the Pelethites[^1-26] went down. They had Solomon ride on King David's mule, and they took him to Gihon.
 
@@ -101,7 +101,7 @@
 
 **47** And the king's servants have come to congratulate[^1-30] our lord King David, saying, 'May God[^1-31] make the name of Solomon more famous than your name, and make his throne greater than your throne!' And the king bowed down on his bed.
 
-**48** The king also said this: 'Blessed be Yahweh, the God of Israel, who has today provided someone to sit on my throne,[^1-32] while my own eyes see it.'"
+**48** The king also said this: 'Blessed be the LORD, the God of Israel, who has today provided someone to sit on my throne,[^1-32] while my own eyes see it.'"
 
 **49** Then all Adonijah's guests trembled. They got up and went their own ways.
 
@@ -130,7 +130,7 @@
 [^1-15]: Hebrew *amah*, "female servant", used in polite speech of oneself. Also in verse 17.
 [^1-16]: Literally "fill up your words".
 [^1-17]: Literally "What is to you?"
-[^1-18]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^1-18]: *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles.
 [^1-19]: Literally "lies down with his fathers", a way of speaking of death.
 [^1-20]: Literally "will be sinners", that is, treated as offenders.
 [^1-21]: Or "You must have said". The Hebrew has no question marker, but the sense is a question.
@@ -156,9 +156,9 @@
 
 **2** "I am about to go the way of all the earth. So be strong, and show yourself a man.
 
-**3** Keep the charge of Yahweh[^2-2] your God:[^2-3] walk in his ways, and keep his decrees, his commands, his rulings and his statutes,[^2-4] as it is written in the Law of Moses, so that you may succeed[^2-5] in everything you do and wherever you turn,
+**3** Keep the charge of the LORD[^2-2] your God:[^2-3] walk in his ways, and keep his decrees, his commands, his rulings and his statutes,[^2-4] as it is written in the Law of Moses, so that you may succeed[^2-5] in everything you do and wherever you turn,
 
-**4** and so that Yahweh may keep the promise he made about me: 'If your sons take care how they live,[^2-6] walking before me faithfully with all their heart and with all their soul, you will never lack a man on the throne of Israel.'[^2-7]
+**4** and so that the LORD may keep the promise he made about me: 'If your sons take care how they live,[^2-6] walking before me faithfully with all their heart and with all their soul, you will never lack a man on the throne of Israel.'[^2-7]
 
 **5** "You also know what Joab son of Zeruiah did to me, what he did to the two commanders of the armies of Israel, Abner son of Ner and Amasa son of Jether. He killed them, shedding the blood of war in peacetime,[^2-8] and he put the blood of war on the belt around his waist and on the sandals on his feet.[^2-9]
 
@@ -166,7 +166,7 @@
 
 **7** But show faithful love[^2-11] to the sons of Barzillai the Gileadite, and let them be among those who eat at your table, for they stood by me[^2-12] when I fled from your brother Absalom.
 
-**8** "Look, you have with you Shimei son of Gera, the Benjaminite from Bahurim. He cursed me with a bitter curse on the day I went to Mahanaim. When he came down to meet me at the Jordan, I swore to him by Yahweh, 'I will not put you to death with the sword.'[^2-13]
+**8** "Look, you have with you Shimei son of Gera, the Benjaminite from Bahurim. He cursed me with a bitter curse on the day I went to Mahanaim. When he came down to meet me at the Jordan, I swore to him by the LORD, 'I will not put you to death with the sword.'[^2-13]
 
 **9** But now, do not let him go unpunished. You are a wise man, and you will know what to do to him. Bring his gray head down to Sheol in blood."
 
@@ -180,7 +180,7 @@
 
 **14** Then he said, "I have something to say to you." She said, "Speak."
 
-**15** He said, "You know that the kingship was mine, and all Israel looked to me to be their king.[^2-17] But the kingship has turned around and gone to my brother, for it came to him from Yahweh.
+**15** He said, "You know that the kingship was mine, and all Israel looked to me to be their king.[^2-17] But the kingship has turned around and gone to my brother, for it came to him from the LORD.
 
 **16** Now I have one request to ask of you. Do not refuse me."[^2-18] She said to him, "Speak."
 
@@ -196,27 +196,27 @@
 
 **22** King Solomon answered his mother, "Why are you asking for Abishag the Shunammite for Adonijah? Ask for the kingdom for him too, since he is my older brother, for him and for Abiathar the priest and for Joab son of Zeruiah!"[^2-19]
 
-**23** Then King Solomon swore by Yahweh, "May God deal with me, and more besides,[^2-20] if Adonijah has not made this request at the cost of his life!
+**23** Then King Solomon swore by the LORD, "May God deal with me, and more besides,[^2-20] if Adonijah has not made this request at the cost of his life!
 
-**24** Now, as Yahweh lives, who has established me and set me on the throne of my father David, and who has made me a house[^2-21] as he promised, Adonijah will be put to death today."
+**24** Now, as the LORD lives, who has established me and set me on the throne of my father David, and who has made me a house[^2-21] as he promised, Adonijah will be put to death today."
 
 **25** So King Solomon sent Benaiah son of Jehoiada,[^2-22] and he struck Adonijah down, and he died.
 
-**26** To Abiathar the priest the king said, "Go to Anathoth, to your fields. You deserve to die,[^2-23] but I will not put you to death today, because you carried the ark[^2-24] of the Lord Yahweh before my father David, and because you shared in all the hardships my father suffered."
+**26** To Abiathar the priest the king said, "Go to Anathoth, to your fields. You deserve to die,[^2-23] but I will not put you to death today, because you carried the ark[^2-24] of the Lord GOD before my father David, and because you shared in all the hardships my father suffered."
 
-**27** So Solomon banished Abiathar from being a priest of Yahweh, fulfilling the word that Yahweh had spoken at Shiloh about the house of Eli.[^2-25]
+**27** So Solomon banished Abiathar from being a priest of the LORD, fulfilling the word that the LORD had spoken at Shiloh about the house of Eli.[^2-25]
 
-**28** When the news reached Joab, for Joab had sided with Adonijah, though he had not sided with Absalom, Joab fled to the tent of Yahweh and took hold of the horns of the altar.[^2-26]
+**28** When the news reached Joab, for Joab had sided with Adonijah, though he had not sided with Absalom, Joab fled to the tent of the LORD and took hold of the horns of the altar.[^2-26]
 
-**29** King Solomon was told, "Joab has fled to the tent of Yahweh, and he is there beside the altar." So Solomon sent Benaiah son of Jehoiada, saying, "Go, strike him down."
+**29** King Solomon was told, "Joab has fled to the tent of the LORD, and he is there beside the altar." So Solomon sent Benaiah son of Jehoiada, saying, "Go, strike him down."
 
-**30** Benaiah went to the tent of Yahweh and said to him, "This is what the king says: 'Come out!'" But he said, "No, I will die here." Benaiah brought word back to the king: "This is what Joab said, and this is how he answered me."
+**30** Benaiah went to the tent of the LORD and said to him, "This is what the king says: 'Come out!'" But he said, "No, I will die here." Benaiah brought word back to the king: "This is what Joab said, and this is how he answered me."
 
 **31** The king said to him, "Do as he has said. Strike him down and bury him, and so take away from me and from my father's house the blood that Joab shed without cause.
 
-**32** Yahweh will bring his blood back on his own head,[^2-27] because he struck down two men more righteous and better than he was, and killed them with the sword without my father David knowing it: Abner son of Ner, commander of the army of Israel, and Amasa son of Jether, commander of the army of Judah.
+**32** The LORD will bring his blood back on his own head,[^2-27] because he struck down two men more righteous and better than he was, and killed them with the sword without my father David knowing it: Abner son of Ner, commander of the army of Israel, and Amasa son of Jether, commander of the army of Judah.
 
-**33** Their blood will come back on the head of Joab and on the head of his descendants forever. But for David and his descendants, his house and his throne, there will be peace from Yahweh forever."
+**33** Their blood will come back on the head of Joab and on the head of his descendants forever. But for David and his descendants, his house and his throne, there will be peace from the LORD forever."
 
 **34** So Benaiah son of Jehoiada went up, struck Joab down and killed him. He was buried at his own home[^2-28] in the wilderness.
 
@@ -234,19 +234,19 @@
 
 **41** Solomon was told that Shimei had gone from Jerusalem to Gath and had come back.
 
-**42** The king sent for Shimei and said to him, "Did I not make you swear by Yahweh, and warn you, 'On the day you go out and go anywhere at all, know for certain that you will die'? And you said to me, 'What you say is good. I have heard it.'[^2-32]
+**42** The king sent for Shimei and said to him, "Did I not make you swear by the LORD, and warn you, 'On the day you go out and go anywhere at all, know for certain that you will die'? And you said to me, 'What you say is good. I have heard it.'[^2-32]
 
-**43** Why then have you not kept your oath to Yahweh[^2-33] and the command I gave you?"
+**43** Why then have you not kept your oath to the LORD[^2-33] and the command I gave you?"
 
-**44** The king also said to Shimei, "You know in your heart all the wrong you did to my father David.[^2-34] Yahweh will bring your wrongdoing back on your own head.
+**44** The king also said to Shimei, "You know in your heart all the wrong you did to my father David.[^2-34] The LORD will bring your wrongdoing back on your own head.
 
-**45** But King Solomon will be blessed, and the throne of David will be established before Yahweh forever."
+**45** But King Solomon will be blessed, and the throne of David will be established before the LORD forever."
 
 **46** Then the king gave orders to Benaiah son of Jehoiada, and he went out and struck Shimei down, and he died. So the kingdom was firmly established in Solomon's hands.
 
 [^2-1]: Literally "The days of David drew near to die".
-[^2-2]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
-[^2-3]: Literally "Keep the keeping of Yahweh your God", that is, what he requires.
+[^2-2]: *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles.
+[^2-3]: Literally "Keep the keeping of the LORD your God", that is, what he requires.
 [^2-4]: Hebrew *edot*, traditionally "testimonies": the solemn terms of the covenant.
 [^2-5]: Or "act wisely".
 [^2-6]: Literally "keep their way".
@@ -270,32 +270,32 @@
 [^2-24]: The gold-covered chest that held the stone tablets of the covenant (Exodus 25:10–22). David had brought it to Jerusalem (2 Samuel 6).
 [^2-25]: See 1 Samuel 2:27–36. Abiathar was a descendant of Eli (1 Samuel 14:3; 22:20).
 [^2-26]: See 1:50.
-[^2-27]: That is, Yahweh will hold Joab responsible for the blood he shed. Also in verses 33, 37 and 44.
+[^2-27]: That is, the LORD will hold Joab responsible for the blood he shed. Also in verses 33, 37 and 44.
 [^2-28]: Literally "in his house".
 [^2-29]: Literally "here and there". Also in verse 42.
 [^2-30]: Hebrew *nachal Qidron*, the valley on the east side of Jerusalem, with a stream that flows in the rainy season.
 [^2-31]: Or "servants". Hebrew *avadim*. Also in verse 40.
 [^2-32]: Or "The word I have heard is good."
-[^2-33]: Literally "the oath of Yahweh".
+[^2-33]: Literally "the oath of the LORD".
 [^2-34]: Literally "You know all the evil that your heart knows, which you did to David my father."
 
 ## Chapter 3
 
 *Status: draft*
 
-**1** Solomon made a marriage alliance with Pharaoh king of Egypt. He married Pharaoh's daughter and brought her to the City of David, until he had finished building his own house, the house of Yahweh,[^3-1] and the wall around Jerusalem.
+**1** Solomon made a marriage alliance with Pharaoh king of Egypt. He married Pharaoh's daughter and brought her to the City of David, until he had finished building his own house, the house of the LORD,[^3-1] and the wall around Jerusalem.
 
-**2** The people, however, were still sacrificing at the high places,[^3-2] because no house had yet been built for the name of Yahweh in those days.
+**2** The people, however, were still sacrificing at the high places,[^3-2] because no house had yet been built for the name of the LORD in those days.
 
-**3** Solomon loved Yahweh and walked in the decrees of his father David, except that he offered sacrifices and burned incense[^3-3] at the high places.
+**3** Solomon loved the LORD and walked in the decrees of his father David, except that he offered sacrifices and burned incense[^3-3] at the high places.
 
 **4** The king went to Gibeon to sacrifice there, because that was the great high place. Solomon offered a thousand burnt offerings on that altar.
 
-**5** At Gibeon Yahweh appeared to Solomon in a dream at night, and God said, "Ask for whatever you want me to give you."
+**5** At Gibeon the LORD appeared to Solomon in a dream at night, and God said, "Ask for whatever you want me to give you."
 
 **6** Solomon said, "You have shown great faithful love[^3-4] to your servant, my father David, because he walked before you in faithfulness, in righteousness and with an upright heart toward you. And you have kept this great faithful love for him and have given him a son to sit on his throne, as it is today.
 
-**7** Now, Yahweh my God, you have made your servant king in place of my father David. But I am only a young boy. I do not know how to go out or come in.[^3-5]
+**7** Now, LORD my God, you have made your servant king in place of my father David. But I am only a young boy. I do not know how to go out or come in.[^3-5]
 
 **8** And your servant is here among your people whom you have chosen, a great people, too many to be numbered or counted.
 
@@ -339,7 +339,7 @@
 
 **28** When all Israel heard the judgment the king had given, they stood in awe of the king,[^3-19] for they saw that the wisdom of God was in him to do justice.
 
-[^3-1]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles. "The house of Yahweh" is the temple.
+[^3-1]: *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles. "The house of the LORD" is the temple.
 [^3-2]: Hebrew *bamot*: places of worship, often on hilltops. Also in verses 3 and 4.
 [^3-3]: Or "burned offerings". The Hebrew verb *qatar* means to make something go up in smoke.
 [^3-4]: Hebrew *chesed*: loyal, faithful love.
@@ -455,15 +455,15 @@
 
 **16** Solomon sent this message to Hiram:
 
-**17** "You know that my father David could not build a house for the name of Yahweh[^5-15] his God because of the wars that surrounded him, until Yahweh put his enemies[^5-16] under the soles of my feet.[^5-17]
+**17** "You know that my father David could not build a house for the name of the LORD[^5-15] his God because of the wars that surrounded him, until the LORD put his enemies[^5-16] under the soles of my feet.[^5-17]
 
-**18** But now Yahweh my God has given me rest on every side. There is no adversary[^5-18] and no misfortune.
+**18** But now the LORD my God has given me rest on every side. There is no adversary[^5-18] and no misfortune.
 
-**19** So I intend to build a house for the name of Yahweh my God, as Yahweh told my father David: 'Your son, whom I will put on your throne in your place, will build the house for my name.'
+**19** So I intend to build a house for the name of the LORD my God, as the LORD told my father David: 'Your son, whom I will put on your throne in your place, will build the house for my name.'
 
 **20** So now give orders for cedars to be cut for me from Lebanon. My servants will work with your servants, and I will pay you whatever wages you set for your servants. For you know that there is no one among us who knows how to cut timber like the Sidonians."
 
-**21** When Hiram heard Solomon's message, he was very glad and said, "Blessed be Yahweh today, who has given David a wise son over this great people."
+**21** When Hiram heard Solomon's message, he was very glad and said, "Blessed be the LORD today, who has given David a wise son over this great people."
 
 **22** Hiram sent word to Solomon: "I have heard the message you sent me. I will do all you want in the matter of cedar timber and cypress timber.[^5-19]
 
@@ -473,7 +473,7 @@
 
 **25** Solomon gave Hiram twenty thousand kors of wheat as food for his household, and twenty kors of pressed olive oil.[^5-21] Solomon gave this to Hiram year after year.
 
-**26** Yahweh gave Solomon wisdom, as he had promised him. There was peace between Hiram and Solomon, and the two of them made a treaty.[^5-22]
+**26** The LORD gave Solomon wisdom, as he had promised him. There was peace between Hiram and Solomon, and the two of them made a treaty.[^5-22]
 
 **27** King Solomon conscripted forced labor[^5-23] from all Israel, and the forced labor numbered 30,000 men.
 
@@ -501,7 +501,7 @@
 [^5-12]: Literally "the sons of the east": the peoples east of Israel, in Arabia and Mesopotamia.
 [^5-13]: Ethan the Ezrahite and Heman are named in the titles of Psalms 88 and 89. *Mahol* may be a name, or the phrase may mean "members of the guild of musicians" (Hebrew *machol*, "dance").
 [^5-14]: Literally "a lover of David all the days". The word "love" was used of loyal allies.
-[^5-15]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles. "A house for the name of Yahweh" is a temple.
+[^5-15]: *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles. "A house for the name of the LORD" is a temple.
 [^5-16]: Literally "them".
 [^5-17]: The Hebrew text is written "his feet" but read "my feet".
 [^5-18]: Hebrew *satan*, "adversary, opponent".
@@ -518,9 +518,9 @@
 
 *Status: draft*
 
-**1** In the four hundred and eightieth year[^6-1] after the Israelites came out of the land of Egypt, in the fourth year of Solomon's reign over Israel, in the month of Ziv,[^6-2] which is the second month, he began to build[^6-3] the house for Yahweh.[^6-4]
+**1** In the four hundred and eightieth year[^6-1] after the Israelites came out of the land of Egypt, in the fourth year of Solomon's reign over Israel, in the month of Ziv,[^6-2] which is the second month, he began to build[^6-3] the house for the LORD.[^6-4]
 
-**2** The house that King Solomon built for Yahweh was sixty cubits[^6-5] long, twenty wide and thirty cubits high.
+**2** The house that King Solomon built for the LORD was sixty cubits[^6-5] long, twenty wide and thirty cubits high.
 
 **3** The porch[^6-6] in front of the main hall[^6-7] of the house was twenty cubits long, across the width of the house, and it extended ten cubits in front of the house.[^6-8]
 
@@ -538,7 +538,7 @@
 
 **10** He built the side structure against the whole house, each story five cubits high, and it was joined to the house with cedar beams.
 
-**11** Then the word of Yahweh came to Solomon:
+**11** Then the word of the LORD came to Solomon:
 
 **12** "As for this house you are building, if you walk in my decrees, carry out my rulings and keep all my commands by walking in them, I will fulfill through you the promise I made to your father David.[^6-19]
 
@@ -554,7 +554,7 @@
 
 **18** The cedar inside the house was carved with gourds and open flowers.[^6-26] All was cedar. No stone was seen.
 
-**19** He prepared the inner sanctuary inside the house, to put the ark of the covenant of Yahweh there.
+**19** He prepared the inner sanctuary inside the house, to put the ark of the covenant of the LORD there.
 
 **20** The inside of the inner sanctuary[^6-27] was twenty cubits long, twenty cubits wide and twenty cubits high, and he overlaid it with pure gold.[^6-28] He also overlaid the altar with cedar.[^6-29]
 
@@ -590,14 +590,14 @@
 
 **36** He built the inner courtyard with three courses of dressed stone[^6-39] and one course of cedar beams.
 
-**37** In the fourth year the foundation of the house of Yahweh was laid, in the month of Ziv.
+**37** In the fourth year the foundation of the house of the LORD was laid, in the month of Ziv.
 
 **38** In the eleventh year, in the month of Bul,[^6-40] which is the eighth month, the house was finished in all its details and according to all its specifications.[^6-41] He spent seven years building it.
 
 [^6-1]: The Septuagint reads "the four hundred and fortieth year".
 [^6-2]: An old name for the second month, around April–May. Also in verse 37.
 [^6-3]: Literally "he built".
-[^6-4]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles. The Hebrew calls the temple simply "the house".
+[^6-4]: *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles. The Hebrew calls the temple simply "the house".
 [^6-5]: A cubit was about 18 inches (45 cm), so the house was about 90 feet long, 30 feet wide and 45 feet high (27 by 9 by 13.5 m).
 [^6-6]: Hebrew *ulam*: an entrance hall in front of the main hall; traditionally "porch" or "vestibule".
 [^6-7]: Hebrew *heikhal*, "palace, temple": here the large main room of the house, in front of the inner sanctuary. Traditionally "the temple" or "the nave".
@@ -662,7 +662,7 @@
 
 **11** Above them were costly stones, dressed stone cut to measure, and cedar.
 
-**12** The great courtyard had three courses of dressed stone all around and one course of cedar beams, as did the inner courtyard of the house of Yahweh[^7-12] and the porch of the house.
+**12** The great courtyard had three courses of dressed stone all around and one course of cedar beams, as did the inner courtyard of the house of the LORD[^7-12] and the porch of the house.
 
 **13** King Solomon sent and brought Hiram[^7-13] from Tyre.
 
@@ -718,7 +718,7 @@
 
 **39** He put five of the stands on the south side of the house and five on the north side.[^7-46] He put the Sea on the south side of the house, toward the southeast.[^7-47]
 
-**40** Hiram[^7-48] also made the basins,[^7-49] the shovels and the bowls. So Hiram finished all the work that he did for King Solomon on the house of Yahweh:
+**40** Hiram[^7-48] also made the basins,[^7-49] the shovels and the bowls. So Hiram finished all the work that he did for King Solomon on the house of the LORD:
 
 **41** the two pillars; the two bowls[^7-50] of the capitals that were on top of the pillars; the two networks to cover the two bowls of the capitals that were on top of the pillars;
 
@@ -728,19 +728,19 @@
 
 **44** the one Sea, and the twelve oxen under the Sea;
 
-**45** and the pots, the shovels and the bowls. All these utensils[^7-52] that Hiram made for King Solomon for the house of Yahweh were of polished bronze.
+**45** and the pots, the shovels and the bowls. All these utensils[^7-52] that Hiram made for King Solomon for the house of the LORD were of polished bronze.
 
 **46** The king cast them in the plain of the Jordan, in the clay ground[^7-53] between Succoth and Zarethan.
 
 **47** Solomon left all the utensils unweighed, because there were so very many. The weight of the bronze was never determined.
 
-**48** Solomon also made all the utensils that were in the house of Yahweh: the gold altar;[^7-54] the gold table on which the bread of the Presence[^7-55] was placed;
+**48** Solomon also made all the utensils that were in the house of the LORD: the gold altar;[^7-54] the gold table on which the bread of the Presence[^7-55] was placed;
 
 **49** the lampstands of pure gold, five on the south side and five on the north,[^7-56] in front of the inner sanctuary;[^7-57] the flowers,[^7-58] the lamps and the tongs, of gold;
 
 **50** the cups,[^7-59] the wick trimmers, the bowls, the dishes[^7-60] and the firepans, of pure gold; and the sockets[^7-61] for the doors of the inner house, the most holy place,[^7-62] and for the doors of the house, the main hall, of gold.
 
-**51** So all the work that King Solomon did for the house of Yahweh was finished. Then Solomon brought in the things his father David had dedicated:[^7-63] the silver, the gold and the utensils. He put them in the treasuries of the house of Yahweh.
+**51** So all the work that King Solomon did for the house of the LORD was finished. Then Solomon brought in the things his father David had dedicated:[^7-63] the silver, the gold and the utensils. He put them in the treasuries of the house of the LORD.
 
 [^7-1]: Probably named for its many cedar pillars, standing like a forest. See 10:17, 21.
 [^7-2]: A cubit was about 18 inches (45 cm), so the building was about 150 feet long, 75 feet wide and 45 feet high (45 by 22.5 by 13.5 m).
@@ -753,7 +753,7 @@
 [^7-9]: Literally "the other courtyard, from the house to the hall".
 [^7-10]: Hebrew *gazit*: stone cut and dressed to shape. Also in verses 11 and 12.
 [^7-11]: Hebrew *tefachot*, perhaps the top course of the wall, or the eaves.
-[^7-12]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles. "The house of Yahweh" is the temple.
+[^7-12]: *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles. "The house of the LORD" is the temple.
 [^7-13]: Not King Hiram of Tyre (5:15, English 5:1), but a craftsman with the same name. In 2 Chronicles 2:12 (2:13 in most English Bibles) he is called Huram-abi.
 [^7-14]: 2 Chronicles 2:13 (2:14 in most English Bibles) says his mother was from the tribe of Dan.
 [^7-15]: Or "copper". Hebrew *nechoshet* means both.
@@ -796,7 +796,7 @@
 [^7-52]: The Hebrew text is written *ha'ohel*, "the tent", but read *ha'elleh*, "these".
 [^7-53]: Literally "in the thickness of the ground", probably clay ground suitable for molds.
 [^7-54]: The altar of incense (6:20–22), called the "gold altar" in Exodus 39:38.
-[^7-55]: Literally "bread of the face": bread set out in Yahweh's presence (Exodus 25:30; Leviticus 24:5–9).
+[^7-55]: Literally "bread of the face": bread set out in the LORD's presence (Exodus 25:30; Leviticus 24:5–9).
 [^7-56]: Literally "five on the right and five on the left".
 [^7-57]: Hebrew *devir*, the most holy place (6:5, 16).
 [^7-58]: Hebrew *perach*, "blossom": flower-shaped ornaments on the lampstands (Exodus 25:31).
@@ -810,61 +810,61 @@
 
 *Status: draft*
 
-**1** Then Solomon assembled the elders of Israel, all the heads of the tribes, the leaders of the ancestral families[^8-1] of the Israelites, before King Solomon in Jerusalem, to bring up the ark of the covenant of Yahweh[^8-2] from the City of David, which is Zion.
+**1** Then Solomon assembled the elders of Israel, all the heads of the tribes, the leaders of the ancestral families[^8-1] of the Israelites, before King Solomon in Jerusalem, to bring up the ark of the covenant of the LORD[^8-2] from the City of David, which is Zion.
 
 **2** All the men of Israel assembled before King Solomon at the festival in the month of Ethanim,[^8-3] which is the seventh month.
 
 **3** When all the elders of Israel had come, the priests took up the ark.
 
-**4** They brought up the ark of Yahweh, the tent of meeting[^8-4] and all the holy utensils that were in the tent. The priests and the Levites brought them up.
+**4** They brought up the ark of the LORD, the tent of meeting[^8-4] and all the holy utensils that were in the tent. The priests and the Levites brought them up.
 
 **5** King Solomon and the whole community of Israel who had gathered to him were with him before the ark, sacrificing so many sheep and cattle that they could not be counted or numbered.
 
-**6** Then the priests brought the ark of the covenant of Yahweh to its place, in the inner sanctuary of the house, in the most holy place,[^8-5] beneath the wings of the cherubim.
+**6** Then the priests brought the ark of the covenant of the LORD to its place, in the inner sanctuary of the house, in the most holy place,[^8-5] beneath the wings of the cherubim.
 
 **7** For the cherubim spread out their wings over the place of the ark, and the cherubim formed a covering above the ark and its poles.
 
 **8** The poles were so long that their ends could be seen from the holy place[^8-6] in front of the inner sanctuary, but they could not be seen from outside. They are there to this day.
 
-**9** There was nothing in the ark except the two stone tablets that Moses had put there at Horeb,[^8-7] where Yahweh made a covenant[^8-8] with the Israelites when they came out of the land of Egypt.
+**9** There was nothing in the ark except the two stone tablets that Moses had put there at Horeb,[^8-7] where the LORD made a covenant[^8-8] with the Israelites when they came out of the land of Egypt.
 
-**10** When the priests came out of the holy place, the cloud filled the house of Yahweh,
+**10** When the priests came out of the holy place, the cloud filled the house of the LORD,
 
-**11** and the priests could not stand to minister because of the cloud, for the glory of Yahweh filled the house of Yahweh.
+**11** and the priests could not stand to minister because of the cloud, for the glory of the LORD filled the house of the LORD.
 
-**12** Then Solomon said, "Yahweh has said that he would live in thick darkness.[^8-9]
+**12** Then Solomon said, "The LORD has said that he would live in thick darkness.[^8-9]
 
 **13** I have indeed built you a lofty house, a place for you to live in forever."
 
 **14** Then the king turned around and blessed the whole assembly of Israel, while the whole assembly of Israel stood.
 
-**15** He said, "Blessed be Yahweh, the God of Israel, who spoke with his own mouth to my father David, and with his own hand has fulfilled it. He said,
+**15** He said, "Blessed be the LORD, the God of Israel, who spoke with his own mouth to my father David, and with his own hand has fulfilled it. He said,
 
 **16** 'Since the day I brought my people Israel out of Egypt, I have not chosen a city from any of the tribes of Israel in which to build a house, so that my name would be there. But I chose David to be over my people Israel.'[^8-10]
 
-**17** "My father David had it in his heart to build a house for the name of Yahweh, the God of Israel.
+**17** "My father David had it in his heart to build a house for the name of the LORD, the God of Israel.
 
-**18** But Yahweh said to my father David, 'You had it in your heart to build a house for my name. You did well to have this in your heart.
+**18** But the LORD said to my father David, 'You had it in your heart to build a house for my name. You did well to have this in your heart.
 
 **19** But you are not the one who will build the house. Your son, who will come from your own body,[^8-11] is the one who will build the house for my name.'
 
-**20** Now Yahweh has kept the promise he made. I have succeeded my father David and sit on the throne of Israel, as Yahweh promised, and I have built the house for the name of Yahweh, the God of Israel.
+**20** Now the LORD has kept the promise he made. I have succeeded my father David and sit on the throne of Israel, as the LORD promised, and I have built the house for the name of the LORD, the God of Israel.
 
-**21** There I have provided a place for the ark, in which is the covenant[^8-12] of Yahweh that he made with our ancestors when he brought them out of the land of Egypt."
+**21** There I have provided a place for the ark, in which is the covenant[^8-12] of the LORD that he made with our ancestors when he brought them out of the land of Egypt."
 
-**22** Then Solomon stood before the altar of Yahweh in front of the whole assembly of Israel, and he spread out his hands toward heaven
+**22** Then Solomon stood before the altar of the LORD in front of the whole assembly of Israel, and he spread out his hands toward heaven
 
-**23** and said, "Yahweh, God of Israel, there is no God like you in heaven above or on earth below. You keep your covenant and show faithful love[^8-13] to your servants who walk before you with all their heart.
+**23** and said, "LORD, God of Israel, there is no God like you in heaven above or on earth below. You keep your covenant and show faithful love[^8-13] to your servants who walk before you with all their heart.
 
 **24** You have kept what you promised to your servant, my father David. With your mouth you promised it, and with your hand you have fulfilled it, as it is today.
 
-**25** So now, Yahweh, God of Israel, keep for your servant, my father David, what you promised him when you said, 'You will never lack a man before me to sit on the throne of Israel,[^8-14] if only your sons take care how they live,[^8-15] walking before me as you have walked before me.'
+**25** So now, LORD, God of Israel, keep for your servant, my father David, what you promised him when you said, 'You will never lack a man before me to sit on the throne of Israel,[^8-14] if only your sons take care how they live,[^8-15] walking before me as you have walked before me.'
 
 **26** So now, God of Israel, please let your word[^8-16] that you spoke to your servant, my father David, be confirmed.
 
 **27** "But will God really live on the earth? Look, the heavens, even the highest heavens,[^8-17] cannot contain you. How much less this house that I have built!
 
-**28** Yet turn to your servant's prayer and his plea, Yahweh my God. Listen to the cry and the prayer that your servant is praying before you today,
+**28** Yet turn to your servant's prayer and his plea, LORD my God. Listen to the cry and the prayer that your servant is praying before you today,
 
 **29** that your eyes may be open toward this house night and day, toward the place of which you said, 'My name will be there,' so that you will listen to the prayer that your servant prays toward this place.
 
@@ -896,7 +896,7 @@
 
 **43** then listen in heaven, the place where you live, and do all that the foreigner asks of you, so that all the peoples of the earth may know your name and fear you, as your people Israel do, and may know that this house I have built bears your name.[^8-24]
 
-**44** "When your people go out to battle against their enemy, wherever you send them, and they pray to Yahweh toward the city you have chosen and the house I have built for your name,
+**44** "When your people go out to battle against their enemy, wherever you send them, and they pray to the LORD toward the city you have chosen and the house I have built for your name,
 
 **45** then listen in heaven to their prayer and their plea, and uphold their cause.[^8-25]
 
@@ -914,42 +914,42 @@
 
 **52** "May your eyes be open to your servant's plea and to the plea of your people Israel, to listen to them whenever they call to you.
 
-**53** For you set them apart from all the peoples of the earth to be your inheritance, as you declared through your servant Moses when you brought our ancestors out of Egypt, Lord Yahweh."
+**53** For you set them apart from all the peoples of the earth to be your inheritance, as you declared through your servant Moses when you brought our ancestors out of Egypt, Lord GOD."
 
-**54** When Solomon had finished praying all this prayer and plea to Yahweh, he rose from before the altar of Yahweh, where he had been kneeling with his hands spread out toward heaven.
+**54** When Solomon had finished praying all this prayer and plea to the LORD, he rose from before the altar of the LORD, where he had been kneeling with his hands spread out toward heaven.
 
 **55** He stood and blessed the whole assembly of Israel in a loud voice, saying,
 
-**56** "Blessed be Yahweh, who has given rest to his people Israel, just as he promised. Not one word has failed of all the good promises he made through his servant Moses.
+**56** "Blessed be the LORD, who has given rest to his people Israel, just as he promised. Not one word has failed of all the good promises he made through his servant Moses.
 
-**57** May Yahweh our God be with us as he was with our ancestors. May he never leave us or abandon us.
+**57** May the LORD our God be with us as he was with our ancestors. May he never leave us or abandon us.
 
 **58** May he turn our hearts to himself, to walk in all his ways and to keep his commands, his decrees and his rulings, which he commanded our ancestors.
 
-**59** And may these words of mine, with which I have pleaded before Yahweh, be near to Yahweh our God day and night, so that he will uphold the cause of his servant and the cause of his people Israel, as each day requires,
+**59** And may these words of mine, with which I have pleaded before the LORD, be near to the LORD our God day and night, so that he will uphold the cause of his servant and the cause of his people Israel, as each day requires,
 
-**60** so that all the peoples of the earth may know that Yahweh is God; there is no other.
+**60** so that all the peoples of the earth may know that the LORD is God; there is no other.
 
-**61** So let your heart be fully devoted to[^8-29] Yahweh our God, to walk in his decrees and keep his commands, as you do today."
+**61** So let your heart be fully devoted to[^8-29] the LORD our God, to walk in his decrees and keep his commands, as you do today."
 
-**62** Then the king and all Israel with him offered sacrifices before Yahweh.
+**62** Then the king and all Israel with him offered sacrifices before the LORD.
 
-**63** Solomon offered as fellowship offerings[^8-30] to Yahweh 22,000 cattle and 120,000 sheep and goats. So the king and all the Israelites dedicated the house of Yahweh.
+**63** Solomon offered as fellowship offerings[^8-30] to the LORD 22,000 cattle and 120,000 sheep and goats. So the king and all the Israelites dedicated the house of the LORD.
 
-**64** On that same day the king consecrated the middle of the courtyard in front of the house of Yahweh. There he offered the burnt offerings, the grain offerings and the fat of the fellowship offerings, because the bronze altar that was before Yahweh was too small to hold the burnt offerings, the grain offerings and the fat of the fellowship offerings.
+**64** On that same day the king consecrated the middle of the courtyard in front of the house of the LORD. There he offered the burnt offerings, the grain offerings and the fat of the fellowship offerings, because the bronze altar that was before the LORD was too small to hold the burnt offerings, the grain offerings and the fat of the fellowship offerings.
 
-**65** So at that time Solomon held the festival, and all Israel with him, a great assembly from Lebo-hamath[^8-31] to the Wadi of Egypt,[^8-32] before Yahweh our God, for seven days and seven more days, fourteen days.[^8-33]
+**65** So at that time Solomon held the festival, and all Israel with him, a great assembly from Lebo-hamath[^8-31] to the Wadi of Egypt,[^8-32] before the LORD our God, for seven days and seven more days, fourteen days.[^8-33]
 
-**66** On the eighth day he sent the people away. They blessed the king and went to their homes,[^8-34] joyful and glad of heart for all the good that Yahweh had done for his servant David and for his people Israel.
+**66** On the eighth day he sent the people away. They blessed the king and went to their homes,[^8-34] joyful and glad of heart for all the good that the LORD had done for his servant David and for his people Israel.
 
 [^8-1]: Literally "the chiefs of the fathers".
-[^8-2]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^8-2]: *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles.
 [^8-3]: An old name for the seventh month, around September–October. The festival is the Festival of Shelters, held in that month (Leviticus 23:34).
-[^8-4]: Hebrew *ohel mo'ed*: the tent where Yahweh met with Moses and the people (Exodus 27:21), here probably the tabernacle kept at Gibeon (3:4; 2 Chronicles 1:3).
+[^8-4]: Hebrew *ohel mo'ed*: the tent where the LORD met with Moses and the people (Exodus 27:21), here probably the tabernacle kept at Gibeon (3:4; 2 Chronicles 1:3).
 [^8-5]: Literally "the holy of holies".
 [^8-6]: The main hall in front of the inner sanctuary (6:3, 17). Also in verse 10.
 [^8-7]: Another name for Mount Sinai.
-[^8-8]: Literally "where Yahweh cut", the usual idiom for making a covenant.
+[^8-8]: Literally "where the LORD cut", the usual idiom for making a covenant.
 [^8-9]: Hebrew *arafel*, the thick dark cloud in which God appeared at Sinai (Exodus 20:21). The Septuagint gives a longer form of verses 12–13 after verse 53 and says the words are written in "the Book of the Song".
 [^8-10]: 2 Chronicles 6:5–6 adds: "nor did I choose anyone to be ruler over my people Israel. But I have chosen Jerusalem for my name to be there, and".
 [^8-11]: Literally "who will come out from your loins".
@@ -981,11 +981,11 @@
 
 *Status: draft*
 
-**1** When Solomon had finished building the house of Yahweh[^9-1] and the king's house, and everything else Solomon desired to do,[^9-2]
+**1** When Solomon had finished building the house of the LORD[^9-1] and the king's house, and everything else Solomon desired to do,[^9-2]
 
-**2** Yahweh appeared to Solomon a second time, as he had appeared to him at Gibeon.
+**2** the LORD appeared to Solomon a second time, as he had appeared to him at Gibeon.
 
-**3** Yahweh said to him, "I have heard your prayer and your plea that you made before me. I have consecrated this house that you have built, by putting my name there forever. My eyes and my heart will be there for all time.
+**3** The LORD said to him, "I have heard your prayer and your plea that you made before me. I have consecrated this house that you have built, by putting my name there forever. My eyes and my heart will be there for all time.
 
 **4** As for you, if you walk before me as your father David walked, with integrity of heart and uprightness, doing all that I have commanded you, and if you keep my decrees and my rulings,
 
@@ -995,11 +995,11 @@
 
 **7** then I will cut Israel off from the land I have given them, and I will reject[^9-4] this house that I have consecrated for my name. Israel will become a byword and an object of ridicule[^9-5] among all the peoples.
 
-**8** And as for this house, which is so exalted,[^9-6] everyone who passes by it will be appalled and will hiss.[^9-7] They will say, 'Why has Yahweh done this to this land and to this house?'
+**8** And as for this house, which is so exalted,[^9-6] everyone who passes by it will be appalled and will hiss.[^9-7] They will say, 'Why has the LORD done this to this land and to this house?'
 
-**9** And people will answer, 'Because they abandoned Yahweh their God, who brought their ancestors out of the land of Egypt, and they embraced other gods and bowed down to them and served them. That is why Yahweh has brought all this disaster on them.'"
+**9** And people will answer, 'Because they abandoned the LORD their God, who brought their ancestors out of the land of Egypt, and they embraced other gods and bowed down to them and served them. That is why the LORD has brought all this disaster on them.'"
 
-**10** At the end of twenty years, in which Solomon had built the two houses, the house of Yahweh and the king's house,
+**10** At the end of twenty years, in which Solomon had built the two houses, the house of the LORD and the king's house,
 
 **11** and Hiram king of Tyre had supplied Solomon with cedar timber, cypress timber[^9-8] and gold, as much as he wanted, King Solomon gave Hiram twenty towns in the land of Galilee.
 
@@ -1009,7 +1009,7 @@
 
 **14** Now Hiram had sent the king 120 talents[^9-11] of gold.
 
-**15** This is the account of the forced labor[^9-12] that King Solomon conscripted to build the house of Yahweh, his own house, the Millo,[^9-13] the wall of Jerusalem, Hazor, Megiddo and Gezer.
+**15** This is the account of the forced labor[^9-12] that King Solomon conscripted to build the house of the LORD, his own house, the Millo,[^9-13] the wall of Jerusalem, Hazor, Megiddo and Gezer.
 
 **16** Pharaoh king of Egypt had come up and captured Gezer and burned it down. He had killed the Canaanites who lived in the city, and he had given it as a wedding gift[^9-14] to his daughter, Solomon's wife.
 
@@ -1029,7 +1029,7 @@
 
 **24** But only after Pharaoh's daughter had gone up from the City of David to the house Solomon had built for her did he build the Millo.
 
-**25** Three times a year Solomon offered burnt offerings and fellowship offerings on the altar he had built for Yahweh, burning incense with them before Yahweh.[^9-23] So he completed the house.[^9-24]
+**25** Three times a year Solomon offered burnt offerings and fellowship offerings on the altar he had built for the LORD, burning incense with them before the LORD.[^9-23] So he completed the house.[^9-24]
 
 **26** King Solomon also built a fleet of ships at Ezion-geber, which is near Eloth on the shore of the Red Sea,[^9-25] in the land of Edom.
 
@@ -1037,7 +1037,7 @@
 
 **28** They went to Ophir[^9-26] and brought back from there 420 talents of gold,[^9-27] which they delivered to King Solomon.
 
-[^9-1]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^9-1]: *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles.
 [^9-2]: Literally "and all the desire of Solomon that he wished to do".
 [^9-3]: Literally "A man will not be cut off for you from upon the throne of Israel." See 2:4.
 [^9-4]: Literally "send away from before my face".
@@ -1059,7 +1059,7 @@
 [^9-20]: Or "officials". Hebrew *avadim*.
 [^9-21]: Hebrew *shalishim*, an officer's title of uncertain meaning, perhaps from "third", the third man in a chariot.
 [^9-22]: 2 Chronicles 8:10 gives 250.
-[^9-23]: The Hebrew is difficult. Literally "and burning incense with it, which was before Yahweh".
+[^9-23]: The Hebrew is difficult. Literally "and burning incense with it, which was before the LORD".
 [^9-24]: Or "So he fulfilled the obligations of the house".
 [^9-25]: Hebrew *Yam Suph*, literally "Sea of Reeds", traditionally the Red Sea. Here it means the Gulf of Aqaba.
 [^9-26]: A land famous for its gold, perhaps in southern Arabia or on the coast of East Africa.
@@ -1069,7 +1069,7 @@
 
 *Status: draft*
 
-**1** The queen of Sheba[^10-1] heard of Solomon's fame, connected with the name of Yahweh,[^10-2] and she came to test him with hard questions.[^10-3]
+**1** The queen of Sheba[^10-1] heard of Solomon's fame, connected with the name of the LORD,[^10-2] and she came to test him with hard questions.[^10-3]
 
 **2** She came to Jerusalem with a very great retinue, with camels carrying spices, a great quantity of gold, and precious stones. When she came to Solomon, she talked with him about everything that was on her mind.[^10-4]
 
@@ -1077,7 +1077,7 @@
 
 **4** When the queen of Sheba saw all Solomon's wisdom, the house he had built,
 
-**5** the food on his table, the seating of his officials,[^10-6] the attendance of his servants[^10-7] and their clothing, his cupbearers, and his burnt offerings that he offered at the house of Yahweh,[^10-8] it took her breath away.[^10-9]
+**5** the food on his table, the seating of his officials,[^10-6] the attendance of his servants[^10-7] and their clothing, his cupbearers, and his burnt offerings that he offered at the house of the LORD,[^10-8] it took her breath away.[^10-9]
 
 **6** She said to the king, "The report I heard in my own country about your words[^10-10] and your wisdom was true.
 
@@ -1085,13 +1085,13 @@
 
 **8** How happy your men must be![^10-11] How happy these servants of yours, who stand before you continually and hear your wisdom!
 
-**9** Blessed be Yahweh your God, who has delighted in you and set you on the throne of Israel! Because Yahweh loves Israel forever, he has made you king, to do justice and what is right."[^10-12]
+**9** Blessed be the LORD your God, who has delighted in you and set you on the throne of Israel! Because the LORD loves Israel forever, he has made you king, to do justice and what is right."[^10-12]
 
 **10** Then she gave the king 120 talents[^10-13] of gold, a very great quantity of spices, and precious stones. Never again did such an abundance of spices come in as the queen of Sheba gave King Solomon.
 
 **11** Hiram's fleet, which carried gold from Ophir, also brought from Ophir a great quantity of almug wood[^10-14] and precious stones.
 
-**12** The king used the almug wood to make supports[^10-15] for the house of Yahweh and for the king's house, and lyres and harps for the singers. No such almug wood has come in or been seen again to this day.
+**12** The king used the almug wood to make supports[^10-15] for the house of the LORD and for the king's house, and lyres and harps for the singers. No such almug wood has come in or been seen again to this day.
 
 **13** King Solomon gave the queen of Sheba everything she desired, whatever she asked for, besides what he gave her out of his royal generosity.[^10-16] Then she turned and went back to her own country, she and her servants.
 
@@ -1128,13 +1128,13 @@
 **29** A chariot could be imported from Egypt for 600 shekels of silver,[^10-34] and a horse for 150. In the same way, through their agents,[^10-35] they exported them to all the kings of the Hittites and the kings of Aram.
 
 [^10-1]: A kingdom in southwest Arabia, in what is now Yemen.
-[^10-2]: Literally "the report of Solomon for the name of Yahweh". The meaning of the phrase is uncertain. *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^10-2]: Literally "the report of Solomon for the name of the LORD". The meaning of the phrase is uncertain. *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles.
 [^10-3]: Hebrew *chidot*, "riddles".
 [^10-4]: Literally "with her heart".
 [^10-5]: Literally "told her all her words".
 [^10-6]: Or "servants". Hebrew *avadim*. Also in verse 8.
 [^10-7]: The Hebrew text is written "his servant" but read "his servants".
-[^10-8]: Or "and the ascent by which he went up to the house of Yahweh" (compare 2 Chronicles 9:4).
+[^10-8]: Or "and the ascent by which he went up to the house of the LORD" (compare 2 Chronicles 9:4).
 [^10-9]: Literally "there was no more spirit in her".
 [^10-10]: Or "your affairs". Hebrew *devarim* means both "words" and "matters".
 [^10-11]: The Septuagint reads "your wives".
@@ -1169,31 +1169,31 @@
 
 **1** King Solomon loved many foreign women besides Pharaoh's daughter: Moabite, Ammonite, Edomite, Sidonian and Hittite women,
 
-**2** from the nations of which Yahweh[^11-1] had said to the Israelites, "You must not intermarry with them, and they must not intermarry with you,[^11-2] for they will surely turn your hearts after their gods." Yet Solomon clung to them in love.
+**2** from the nations of which the LORD[^11-1] had said to the Israelites, "You must not intermarry with them, and they must not intermarry with you,[^11-2] for they will surely turn your hearts after their gods." Yet Solomon clung to them in love.
 
 **3** He had seven hundred wives of royal birth[^11-3] and three hundred concubines, and his wives turned his heart away.
 
-**4** When Solomon was old, his wives turned his heart after other gods, and his heart was not fully devoted to Yahweh his God, as the heart of his father David had been.
+**4** When Solomon was old, his wives turned his heart after other gods, and his heart was not fully devoted to the LORD his God, as the heart of his father David had been.
 
 **5** Solomon followed Ashtoreth,[^11-4] the goddess of the Sidonians, and Milcom,[^11-5] the detestable idol[^11-6] of the Ammonites.
 
-**6** So Solomon did what was evil in the eyes of Yahweh, and he did not follow Yahweh fully, as his father David had done.
+**6** So Solomon did what was evil in the eyes of the LORD, and he did not follow the LORD fully, as his father David had done.
 
 **7** Then Solomon built a high place[^11-7] for Chemosh, the detestable idol of Moab, on the hill east of Jerusalem,[^11-8] and for Molech, the detestable idol of the Ammonites.
 
 **8** He did the same for all his foreign wives, who burned incense[^11-9] and sacrificed to their gods.
 
-**9** So Yahweh was angry with Solomon, because his heart had turned away from Yahweh, the God of Israel, who had appeared to him twice
+**9** So the LORD was angry with Solomon, because his heart had turned away from the LORD, the God of Israel, who had appeared to him twice
 
-**10** and had commanded him about this very thing, that he must not follow other gods. But he did not keep what Yahweh commanded.
+**10** and had commanded him about this very thing, that he must not follow other gods. But he did not keep what the LORD commanded.
 
-**11** So Yahweh said to Solomon, "Since this is what you have done,[^11-10] and you have not kept my covenant and my decrees, which I commanded you, I will certainly tear the kingdom away from you and give it to your servant.
+**11** So the LORD said to Solomon, "Since this is what you have done,[^11-10] and you have not kept my covenant and my decrees, which I commanded you, I will certainly tear the kingdom away from you and give it to your servant.
 
 **12** Yet for the sake of your father David I will not do it in your lifetime. I will tear it out of the hand of your son.
 
 **13** But I will not tear away the whole kingdom. I will give your son one tribe, for the sake of my servant David and for the sake of Jerusalem, which I have chosen."
 
-**14** Then Yahweh raised up an adversary[^11-11] against Solomon, Hadad the Edomite. He was of the royal line in Edom.
+**14** Then the LORD raised up an adversary[^11-11] against Solomon, Hadad the Edomite. He was of the royal line in Edom.
 
 **15** Earlier, when David was at war with Edom,[^11-12] Joab the commander of the army went up to bury the dead, and he struck down every male in Edom.
 
@@ -1227,7 +1227,7 @@
 
 **30** Ahijah took hold of the new cloak he was wearing and tore it into twelve pieces.
 
-**31** He said to Jeroboam, "Take ten pieces for yourself, for this is what Yahweh, the God of Israel, says: 'Look, I am about to tear the kingdom out of Solomon's hand, and I will give you ten tribes.
+**31** He said to Jeroboam, "Take ten pieces for yourself, for this is what the LORD, the God of Israel, says: 'Look, I am about to tear the kingdom out of Solomon's hand, and I will give you ten tribes.
 
 **32** But he will have one tribe, for the sake of my servant David and for the sake of Jerusalem, the city I have chosen out of all the tribes of Israel.
 
@@ -1253,7 +1253,7 @@
 
 **43** Then Solomon slept with his ancestors and was buried in the city of his father David. And his son Rehoboam became king in his place.
 
-[^11-1]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^11-1]: *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles.
 [^11-2]: Literally "You shall not go in among them, and they shall not go in among you." See Deuteronomy 7:3–4.
 [^11-3]: Literally "princesses".
 [^11-4]: Hebrew *Ashtoret*, the Canaanite goddess Astarte. Also in verse 33.
@@ -1324,7 +1324,7 @@
 
 **14** and he spoke to them as the young men advised: "My father made your yoke heavy, but I will add to your yoke. My father disciplined you with whips, but I will discipline you with scorpions."
 
-**15** So the king did not listen to the people, for this turn of events came from Yahweh,[^12-7] to fulfill the word that Yahweh had spoken through Ahijah the Shilonite to Jeroboam son of Nebat.
+**15** So the king did not listen to the people, for this turn of events came from the LORD,[^12-7] to fulfill the word that the LORD had spoken through Ahijah the Shilonite to Jeroboam son of Nebat.
 
 **16** When all Israel saw that the king would not listen to them, the people answered the king, "What share do we have in David? We have no inheritance in the son of Jesse. To your tents, Israel! Now look after your own house, David!" So Israel went to their tents.[^12-8]
 
@@ -1342,13 +1342,13 @@
 
 **23** "Say to Rehoboam son of Solomon, king of Judah, and to all the house of Judah and Benjamin, and to the rest of the people,
 
-**24** 'This is what Yahweh says: Do not go up or fight against your relatives,[^12-11] the Israelites. Go home, every one of you, for this thing is from me.'" So they listened to the word of Yahweh and went home again, as Yahweh had said.[^12-12]
+**24** 'This is what the LORD says: Do not go up or fight against your relatives,[^12-11] the Israelites. Go home, every one of you, for this thing is from me.'" So they listened to the word of the LORD and went home again, as the LORD had said.[^12-12]
 
 **25** Then Jeroboam built[^12-13] Shechem in the hill country of Ephraim and lived there. From there he went out and built Penuel.
 
 **26** Jeroboam said to himself,[^12-14] "Now the kingdom will go back to the house of David.
 
-**27** If these people go up to offer sacrifices at the house of Yahweh in Jerusalem, the heart of these people will turn back to their lord, Rehoboam king of Judah. They will kill me and go back to Rehoboam king of Judah."
+**27** If these people go up to offer sacrifices at the house of the LORD in Jerusalem, the heart of these people will turn back to their lord, Rehoboam king of Judah. They will kill me and go back to Rehoboam king of Judah."
 
 **28** So the king took advice and made two calves of gold. He said to the people,[^12-15] "You have been going up to Jerusalem long enough.[^12-16] Here are your gods,[^12-17] Israel, who brought you up out of the land of Egypt!"
 
@@ -1368,7 +1368,7 @@
 [^12-4]: Literally "the children". Also in verses 10 and 14.
 [^12-5]: Literally "My little one".
 [^12-6]: Probably whips with barbs or spikes. Also in verse 14.
-[^12-7]: Literally "for it was a turn of affairs from Yahweh". *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^12-7]: Literally "for it was a turn of affairs from the LORD". *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles.
 [^12-8]: That is, they went home.
 [^12-9]: Called Adoniram in 4:6 and 5:28 (5:14 in most English Bibles). Hebrew *mas*: work gangs conscripted to labor for the king.
 [^12-10]: "Man of God" is a title for a prophet.
@@ -1390,23 +1390,23 @@
 
 *Status: draft*
 
-**1** Just then a man of God[^13-1] came from Judah to Bethel at the word of Yahweh,[^13-2] while Jeroboam was standing by the altar to burn incense.
+**1** Just then a man of God[^13-1] came from Judah to Bethel at the word of the LORD,[^13-2] while Jeroboam was standing by the altar to burn incense.
 
-**2** He cried out against the altar at the word of Yahweh, "Altar, altar! This is what Yahweh says: 'A son will be born to the house of David, Josiah by name. He will sacrifice on you the priests of the high places who burn incense on you, and human bones will be burned on you.'"[^13-3]
+**2** He cried out against the altar at the word of the LORD, "Altar, altar! This is what the LORD says: 'A son will be born to the house of David, Josiah by name. He will sacrifice on you the priests of the high places who burn incense on you, and human bones will be burned on you.'"[^13-3]
 
-**3** That same day he gave a sign, saying, "This is the sign that Yahweh has spoken: The altar will be split apart, and the ashes[^13-4] on it will be poured out."
+**3** That same day he gave a sign, saying, "This is the sign that the LORD has spoken: The altar will be split apart, and the ashes[^13-4] on it will be poured out."
 
 **4** When the king heard what the man of God cried out against the altar in Bethel, Jeroboam stretched out his hand from the altar and said, "Seize him!" But the hand he had stretched out against him withered,[^13-5] so that he could not pull it back.
 
-**5** The altar split apart, and the ashes poured out from the altar, as the sign the man of God had given at the word of Yahweh had said.
+**5** The altar split apart, and the ashes poured out from the altar, as the sign the man of God had given at the word of the LORD had said.
 
-**6** Then the king said to the man of God, "Please plead with Yahweh your God[^13-6] and pray for me, so that my hand may be restored to me." So the man of God pleaded with Yahweh, and the king's hand was restored to him and became as it was before.
+**6** Then the king said to the man of God, "Please plead with the LORD your God[^13-6] and pray for me, so that my hand may be restored to me." So the man of God pleaded with the LORD, and the king's hand was restored to him and became as it was before.
 
 **7** The king said to the man of God, "Come home with me and have something to eat, and I will give you a gift."
 
 **8** But the man of God said to the king, "Even if you gave me half your house, I would not go in with you. I will not eat bread or drink water in this place.
 
-**9** For I was commanded by the word of Yahweh: 'Do not eat bread or drink water, and do not go back by the way you came.'"
+**9** For I was commanded by the word of the LORD: 'Do not eat bread or drink water, and do not go back by the way you came.'"
 
 **10** So he went another way and did not return by the way he had come to Bethel.
 
@@ -1422,15 +1422,15 @@
 
 **16** But he said, "I cannot go back with you or go in with you, and I will not eat bread or drink water with you in this place.
 
-**17** For I was told by the word of Yahweh, 'You must not eat bread or drink water there. Do not go back by the way you came.'"
+**17** For I was told by the word of the LORD, 'You must not eat bread or drink water there. Do not go back by the way you came.'"
 
-**18** He said to him, "I too am a prophet, as you are. An angel[^13-10] spoke to me by the word of Yahweh, saying, 'Bring him back with you to your house, so that he can eat bread and drink water.'" But he was lying to him.
+**18** He said to him, "I too am a prophet, as you are. An angel[^13-10] spoke to me by the word of the LORD, saying, 'Bring him back with you to your house, so that he can eat bread and drink water.'" But he was lying to him.
 
 **19** So he went back with him, and he ate bread in his house and drank water.
 
-**20** While they were sitting at the table, the word of Yahweh came to the prophet who had brought him back.
+**20** While they were sitting at the table, the word of the LORD came to the prophet who had brought him back.
 
-**21** He cried out to the man of God who had come from Judah, "This is what Yahweh says: 'Because you have rebelled against the word of Yahweh[^13-11] and have not kept the command that Yahweh your God gave you,
+**21** He cried out to the man of God who had come from Judah, "This is what the LORD says: 'Because you have rebelled against the word of the LORD[^13-11] and have not kept the command that the LORD your God gave you,
 
 **22** but have come back and eaten bread and drunk water in the place where he told you, "Do not eat bread or drink water," your body will not be buried in the tomb of your ancestors.'"[^13-12]
 
@@ -1440,7 +1440,7 @@
 
 **25** Some men passed by and saw the body thrown on the road, with the lion standing beside the body. They went and told it in the town where the old prophet lived.
 
-**26** When the prophet who had brought him back from his way heard it, he said, "It is the man of God who rebelled against the word of Yahweh. Yahweh has given him to the lion, and it has mauled him and killed him, according to the word Yahweh spoke to him."
+**26** When the prophet who had brought him back from his way heard it, he said, "It is the man of God who rebelled against the word of the LORD. The LORD has given him to the lion, and it has mauled him and killed him, according to the word the LORD spoke to him."
 
 **27** He said to his sons, "Saddle the donkey for me," and they saddled it.
 
@@ -1452,23 +1452,23 @@
 
 **31** After he had buried him, he said to his sons, "When I die, bury me in the tomb where the man of God is buried. Lay my bones beside his bones.
 
-**32** For the word that he cried out at the word of Yahweh against the altar in Bethel and against all the shrines of the high places in the towns of Samaria[^13-15] will certainly come true."
+**32** For the word that he cried out at the word of the LORD against the altar in Bethel and against all the shrines of the high places in the towns of Samaria[^13-15] will certainly come true."
 
 **33** Even after this, Jeroboam did not turn from his evil way, but again he appointed priests for the high places from all sorts of people.[^13-16] Whoever wanted to, he installed[^13-17] as priests of the high places.
 
 **34** This became the sin of the house of Jeroboam, and it led to its being cut off and destroyed from the face of the earth.
 
 [^13-1]: "Man of God" is a title for a prophet.
-[^13-2]: Or "by the word of Yahweh", that is, at his command. Also in verses 2, 5, 9, 17, 18 and 32. *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^13-2]: Or "by the word of the LORD", that is, at his command. Also in verses 2, 5, 9, 17, 18 and 32. *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles.
 [^13-3]: See 2 Kings 23:15–20.
 [^13-4]: Hebrew *deshen*, ashes soaked with the fat of the sacrifices (Exodus 27:3). Also in verse 5.
 [^13-5]: Or "became stiff".
-[^13-6]: Literally "Please soften the face of Yahweh your God", an idiom for seeking someone's favor. Also later in the verse.
+[^13-6]: Literally "Please soften the face of the LORD your God", an idiom for seeking someone's favor. Also later in the verse.
 [^13-7]: The Septuagint reads "his sons came".
 [^13-8]: The Hebrew vowel points read "his sons had seen". The same consonants can be read "showed him".
 [^13-9]: Or "a terebinth": a large, spreading tree.
 [^13-10]: Or "a messenger". Hebrew *mal'akh* means both.
-[^13-11]: Literally "rebelled against the mouth of Yahweh". Also in verse 26.
+[^13-11]: Literally "rebelled against the mouth of the LORD". Also in verse 26.
 [^13-12]: Literally "your corpse will not come to the grave of your fathers".
 [^13-13]: The Hebrew is unclear. It probably means that the old prophet saddled the donkey for the man of God, here also called a prophet.
 [^13-14]: Literally "He came to the town of the old prophet".
@@ -1488,11 +1488,11 @@
 
 **4** Jeroboam's wife did so. She got up and went to Shiloh and came to Ahijah's house. Now Ahijah could not see, for his eyes had grown dim[^14-2] because of his age.
 
-**5** But Yahweh[^14-3] had said to Ahijah, "Jeroboam's wife is coming to ask you about her son, for he is sick. This is what you are to say to her.[^14-4] When she comes, she will be pretending to be someone else."
+**5** But the LORD[^14-3] had said to Ahijah, "Jeroboam's wife is coming to ask you about her son, for he is sick. This is what you are to say to her.[^14-4] When she comes, she will be pretending to be someone else."
 
 **6** When Ahijah heard the sound of her feet as she came in at the door, he said, "Come in, wife of Jeroboam. Why are you pretending to be someone else? I have been sent to you with hard news.
 
-**7** Go and tell Jeroboam, 'This is what Yahweh, the God of Israel, says: I raised you up from among the people and made you ruler[^14-5] over my people Israel.
+**7** Go and tell Jeroboam, 'This is what the LORD, the God of Israel, says: I raised you up from among the people and made you ruler[^14-5] over my people Israel.
 
 **8** I tore the kingdom away from the house of David and gave it to you. But you have not been like my servant David, who kept my commands and followed me with all his heart, doing only what was right in my eyes.
 
@@ -1500,41 +1500,41 @@
 
 **10** Therefore I am going to bring disaster on the house of Jeroboam. I will cut off from Jeroboam every male,[^14-7] whether slave or free,[^14-8] in Israel. I will sweep away[^14-9] the house of Jeroboam, as one sweeps away dung, until it is all gone.
 
-**11** Anyone belonging to Jeroboam who dies in the city, the dogs will eat, and anyone who dies in the open country, the birds of the sky will eat. For Yahweh has spoken.'
+**11** Anyone belonging to Jeroboam who dies in the city, the dogs will eat, and anyone who dies in the open country, the birds of the sky will eat. For the LORD has spoken.'
 
 **12** As for you, get up and go home. When your feet enter the city, the child will die.
 
-**13** All Israel will mourn for him and bury him. He is the only one of Jeroboam's family who will come to a grave, because in him alone, in the house of Jeroboam, something good has been found toward Yahweh, the God of Israel.
+**13** All Israel will mourn for him and bury him. He is the only one of Jeroboam's family who will come to a grave, because in him alone, in the house of Jeroboam, something good has been found toward the LORD, the God of Israel.
 
-**14** Yahweh will raise up for himself a king over Israel who will cut off the house of Jeroboam. This is the day! What more? Even now![^14-10]
+**14** The LORD will raise up for himself a king over Israel who will cut off the house of Jeroboam. This is the day! What more? Even now![^14-10]
 
-**15** Yahweh will strike Israel, until it shakes like a reed in the water. He will uproot Israel from this good land that he gave to their ancestors and scatter them beyond the River,[^14-11] because they have made their Asherah poles,[^14-12] provoking Yahweh to anger.
+**15** The LORD will strike Israel, until it shakes like a reed in the water. He will uproot Israel from this good land that he gave to their ancestors and scatter them beyond the River,[^14-11] because they have made their Asherah poles,[^14-12] provoking the LORD to anger.
 
 **16** He will give Israel up because of the sins of Jeroboam, which he committed and which he caused Israel to commit."
 
 **17** Then Jeroboam's wife got up and left and came to Tirzah. As she came over the threshold of the house, the boy died.
 
-**18** They buried him, and all Israel mourned for him, according to the word of Yahweh that he had spoken through his servant Ahijah the prophet.
+**18** They buried him, and all Israel mourned for him, according to the word of the LORD that he had spoken through his servant Ahijah the prophet.
 
 **19** As for the rest of the acts of Jeroboam, how he fought and how he reigned, they are written in the book of the annals of the kings of Israel.[^14-13]
 
 **20** The time that Jeroboam reigned was twenty-two years. Then he slept with his ancestors,[^14-14] and his son Nadab became king in his place.
 
-**21** Rehoboam son of Solomon reigned in Judah. Rehoboam was forty-one years old when he became king, and he reigned seventeen years in Jerusalem, the city Yahweh had chosen out of all the tribes of Israel to put his name there. His mother's name was Naamah the Ammonite.
+**21** Rehoboam son of Solomon reigned in Judah. Rehoboam was forty-one years old when he became king, and he reigned seventeen years in Jerusalem, the city the LORD had chosen out of all the tribes of Israel to put his name there. His mother's name was Naamah the Ammonite.
 
-**22** Judah did what was evil in the eyes of Yahweh. With the sins they committed they provoked him to jealousy more than all their ancestors had done.
+**22** Judah did what was evil in the eyes of the LORD. With the sins they committed they provoked him to jealousy more than all their ancestors had done.
 
 **23** They too built themselves high places,[^14-15] standing stones[^14-16] and Asherah poles on every high hill and under every green tree.[^14-17]
 
-**24** There were even male shrine prostitutes[^14-18] in the land. They did all the detestable practices of the nations that Yahweh had driven out before the Israelites.
+**24** There were even male shrine prostitutes[^14-18] in the land. They did all the detestable practices of the nations that the LORD had driven out before the Israelites.
 
 **25** In the fifth year of King Rehoboam, Shishak king of Egypt came up against Jerusalem.[^14-19]
 
-**26** He took away the treasures of the house of Yahweh and the treasures of the king's house. He took everything. He also took all the gold shields that Solomon had made.
+**26** He took away the treasures of the house of the LORD and the treasures of the king's house. He took everything. He also took all the gold shields that Solomon had made.
 
 **27** So King Rehoboam made bronze shields to replace them, and he entrusted them to the commanders of the guard[^14-20] who kept watch at the entrance of the king's house.
 
-**28** Whenever the king went into the house of Yahweh, the guards carried them, and then they brought them back to the guardroom.
+**28** Whenever the king went into the house of the LORD, the guards carried them, and then they brought them back to the guardroom.
 
 **29** As for the rest of the acts of Rehoboam, and all that he did, are they not written in the book of the annals of the kings of Judah?
 
@@ -1544,7 +1544,7 @@
 
 [^14-1]: Hebrew *niqqudim*, perhaps crumbly cakes or biscuits.
 [^14-2]: Literally "his eyes had stood still".
-[^14-3]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^14-3]: *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles.
 [^14-4]: Literally "Thus and thus you shall speak to her."
 [^14-5]: Hebrew *nagid*, "leader, prince".
 [^14-6]: Hebrew *massekhot*, images made of molten metal (Exodus 32:4).
@@ -1573,11 +1573,11 @@
 
 **2** He reigned three years in Jerusalem. His mother's name was Maacah daughter of Abishalom.[^15-1]
 
-**3** He walked in all the sins that his father had committed before him, and his heart was not fully devoted to Yahweh[^15-2] his God, as the heart of his ancestor David had been.[^15-3]
+**3** He walked in all the sins that his father had committed before him, and his heart was not fully devoted to the LORD[^15-2] his God, as the heart of his ancestor David had been.[^15-3]
 
-**4** Nevertheless, for David's sake Yahweh his God gave him a lamp[^15-4] in Jerusalem, by raising up his son after him and by establishing Jerusalem,
+**4** Nevertheless, for David's sake the LORD his God gave him a lamp[^15-4] in Jerusalem, by raising up his son after him and by establishing Jerusalem,
 
-**5** because David had done what was right in the eyes of Yahweh and had not turned aside from anything he commanded him all the days of his life, except in the matter of Uriah the Hittite.[^15-5]
+**5** because David had done what was right in the eyes of the LORD and had not turned aside from anything he commanded him all the days of his life, except in the matter of Uriah the Hittite.[^15-5]
 
 **6** There was war between Rehoboam and Jeroboam all the days of his life.[^15-6]
 
@@ -1589,21 +1589,21 @@
 
 **10** He reigned forty-one years in Jerusalem. His mother's name was Maacah daughter of Abishalom.[^15-10]
 
-**11** Asa did what was right in the eyes of Yahweh, as his ancestor David had done.
+**11** Asa did what was right in the eyes of the LORD, as his ancestor David had done.
 
 **12** He banished the male shrine prostitutes[^15-11] from the land and removed all the idols[^15-12] that his ancestors had made.
 
 **13** He even removed his mother Maacah from being queen mother,[^15-13] because she had made an obscene image[^15-14] for Asherah.[^15-15] Asa cut down her obscene image and burned it in the Kidron Valley.
 
-**14** But the high places were not taken away. Yet Asa's heart was fully devoted to Yahweh all his days.
+**14** But the high places were not taken away. Yet Asa's heart was fully devoted to the LORD all his days.
 
-**15** He brought in the things his father had dedicated and the dedicated things of the house of Yahweh:[^15-16] silver, gold and utensils.
+**15** He brought in the things his father had dedicated and the dedicated things of the house of the LORD:[^15-16] silver, gold and utensils.
 
 **16** There was war between Asa and Baasha king of Israel all their days.
 
 **17** Baasha king of Israel went up against Judah and fortified[^15-17] Ramah, to prevent anyone from going out or coming in to Asa king of Judah.
 
-**18** Then Asa took all the silver and gold that was left in the treasuries of the house of Yahweh and the treasuries of the king's house, and he gave them into the hands of his servants. King Asa sent them to Ben-hadad son of Tabrimmon son of Hezion, king of Aram, who lived in Damascus, saying,
+**18** Then Asa took all the silver and gold that was left in the treasuries of the house of the LORD and the treasuries of the king's house, and he gave them into the hands of his servants. King Asa sent them to Ben-hadad son of Tabrimmon son of Hezion, king of Aram, who lived in Damascus, saying,
 
 **19** "There is a treaty between me and you, as there was between my father and your father. Look, I have sent you a gift[^15-18] of silver and gold. Go, break your treaty with Baasha king of Israel, so that he will withdraw from me."
 
@@ -1619,15 +1619,15 @@
 
 **25** Nadab son of Jeroboam became king over Israel in the second year of Asa king of Judah, and he reigned over Israel two years.
 
-**26** He did what was evil in the eyes of Yahweh. He walked in the way of his father and in his sin, which he caused Israel to commit.
+**26** He did what was evil in the eyes of the LORD. He walked in the way of his father and in his sin, which he caused Israel to commit.
 
 **27** Baasha son of Ahijah, of the house of Issachar, conspired against him, and Baasha struck him down at Gibbethon, which belonged to the Philistines, while Nadab and all Israel were besieging Gibbethon.
 
 **28** Baasha killed him in the third year of Asa king of Judah and became king in his place.
 
-**29** As soon as he became king, he struck down the whole house of Jeroboam. He did not leave Jeroboam anyone that breathed,[^15-20] until he had destroyed them, according to the word of Yahweh that he had spoken through his servant Ahijah the Shilonite,
+**29** As soon as he became king, he struck down the whole house of Jeroboam. He did not leave Jeroboam anyone that breathed,[^15-20] until he had destroyed them, according to the word of the LORD that he had spoken through his servant Ahijah the Shilonite,
 
-**30** because of the sins of Jeroboam, which he committed and which he caused Israel to commit, and because of the anger to which he provoked Yahweh, the God of Israel.
+**30** because of the sins of Jeroboam, which he committed and which he caused Israel to commit, and because of the anger to which he provoked the LORD, the God of Israel.
 
 **31** As for the rest of the acts of Nadab, and all that he did, are they not written in the book of the annals of the kings of Israel?
 
@@ -1635,10 +1635,10 @@
 
 **33** In the third year of Asa king of Judah, Baasha son of Ahijah became king over all Israel in Tirzah, and he reigned twenty-four years.
 
-**34** He did what was evil in the eyes of Yahweh. He walked in the way of Jeroboam and in his sin, which he caused Israel to commit.
+**34** He did what was evil in the eyes of the LORD. He walked in the way of Jeroboam and in his sin, which he caused Israel to commit.
 
 [^15-1]: A form of the name Absalom (2 Chronicles 11:20–21). 2 Chronicles 13:2 calls Abijah's mother Micaiah daughter of Uriel of Gibeah.
-[^15-2]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^15-2]: *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles.
 [^15-3]: Literally "his father": David was Abijam's great-grandfather. In Hebrew "father" can mean any male ancestor. Also in verses 11 and 24.
 [^15-4]: Hebrew *nir*, probably "lamp", a picture of a family line that continues (11:36).
 [^15-5]: See 2 Samuel 11.
@@ -1652,7 +1652,7 @@
 [^15-13]: Hebrew *gevirah*, "great lady": the title of the king's mother, who held an important place at court.
 [^15-14]: Hebrew *mifletset*, "a horrible thing". Its exact nature is unknown. Also later in the verse.
 [^15-15]: A Canaanite goddess, whose symbol was a wooden pole or tree (14:15, 23).
-[^15-16]: The Hebrew text is written "and his own dedicated things, into the house of Yahweh" but read "and the dedicated things of the house of Yahweh". Compare 2 Chronicles 15:18.
+[^15-16]: The Hebrew text is written "and his own dedicated things, into the house of the LORD" but read "and the dedicated things of the house of the LORD". Compare 2 Chronicles 15:18.
 [^15-17]: Literally "built". Also in verses 21 and 22.
 [^15-18]: Hebrew *shochad*, "gift, bribe".
 [^15-19]: The region by the Sea of Galilee, also called Chinnereth (Joshua 11:2; 12:3).
@@ -1662,7 +1662,7 @@
 
 *Status: draft*
 
-**1** The word of Yahweh[^16-1] came to Jehu son of Hanani against Baasha:
+**1** The word of the LORD[^16-1] came to Jehu son of Hanani against Baasha:
 
 **2** "I raised you up from the dust and made you ruler[^16-2] over my people Israel, but you have walked in the way of Jeroboam and have caused my people Israel to sin, provoking me to anger with their sins.
 
@@ -1674,7 +1674,7 @@
 
 **6** Then Baasha slept with his ancestors[^16-5] and was buried in Tirzah. And his son Elah became king in his place.
 
-**7** Moreover, the word of Yahweh came through the prophet Jehu son of Hanani against Baasha and his house, because of all the evil he did in the eyes of Yahweh, provoking him to anger with the work of his hands and becoming like the house of Jeroboam, and also because he struck it down.[^16-6]
+**7** Moreover, the word of the LORD came through the prophet Jehu son of Hanani against Baasha and his house, because of all the evil he did in the eyes of the LORD, provoking him to anger with the work of his hands and becoming like the house of Jeroboam, and also because he struck it down.[^16-6]
 
 **8** In the twenty-sixth year of Asa king of Judah, Elah son of Baasha became king over Israel in Tirzah, and he reigned two years.
 
@@ -1684,9 +1684,9 @@
 
 **11** As soon as he became king and sat on his throne, he struck down the whole house of Baasha. He did not leave him a single male,[^16-8] whether relative[^16-9] or friend.
 
-**12** So Zimri destroyed the whole house of Baasha, according to the word of Yahweh that he had spoken against Baasha through Jehu the prophet,
+**12** So Zimri destroyed the whole house of Baasha, according to the word of the LORD that he had spoken against Baasha through Jehu the prophet,
 
-**13** because of all the sins of Baasha and the sins of his son Elah, which they committed and which they caused Israel to commit, provoking Yahweh, the God of Israel, to anger with their worthless idols.[^16-10]
+**13** because of all the sins of Baasha and the sins of his son Elah, which they committed and which they caused Israel to commit, provoking the LORD, the God of Israel, to anger with their worthless idols.[^16-10]
 
 **14** As for the rest of the acts of Elah, and all that he did, are they not written in the book of the annals of the kings of Israel?
 
@@ -1698,7 +1698,7 @@
 
 **18** When Zimri saw that the city was taken, he went into the citadel[^16-12] of the king's house and burned the king's house over himself, and he died,
 
-**19** because of the sins[^16-13] he had committed, doing what was evil in the eyes of Yahweh, walking in the way of Jeroboam and in the sin he committed, causing Israel to sin.
+**19** because of the sins[^16-13] he had committed, doing what was evil in the eyes of the LORD, walking in the way of Jeroboam and in the sin he committed, causing Israel to sin.
 
 **20** As for the rest of the acts of Zimri, and the conspiracy he carried out, are they not written in the book of the annals of the kings of Israel?
 
@@ -1710,9 +1710,9 @@
 
 **24** He bought the hill of Samaria from Shemer for two talents[^16-15] of silver. He built on the hill and named the city he built Samaria,[^16-16] after the name of Shemer, the owner of the hill.
 
-**25** Omri did what was evil in the eyes of Yahweh. He did more evil than all who were before him.
+**25** Omri did what was evil in the eyes of the LORD. He did more evil than all who were before him.
 
-**26** He walked in all the way of Jeroboam son of Nebat and in his sin,[^16-17] which he caused Israel to commit, provoking Yahweh, the God of Israel, to anger with their worthless idols.
+**26** He walked in all the way of Jeroboam son of Nebat and in his sin,[^16-17] which he caused Israel to commit, provoking the LORD, the God of Israel, to anger with their worthless idols.
 
 **27** As for the rest of the acts of Omri, what he did and the might he showed, are they not written in the book of the annals of the kings of Israel?
 
@@ -1720,17 +1720,17 @@
 
 **29** Ahab son of Omri became king over Israel in the thirty-eighth year of Asa king of Judah, and Ahab son of Omri reigned over Israel in Samaria twenty-two years.
 
-**30** Ahab son of Omri did what was evil in the eyes of Yahweh, more than all who were before him.
+**30** Ahab son of Omri did what was evil in the eyes of the LORD, more than all who were before him.
 
 **31** As if it were a trivial thing for him to walk in the sins of Jeroboam son of Nebat, he married Jezebel daughter of Ethbaal king of the Sidonians, and he went and served Baal[^16-18] and bowed down to him.
 
 **32** He set up an altar for Baal in the house of Baal that he built in Samaria.
 
-**33** Ahab also made the Asherah pole.[^16-19] Ahab did more to provoke Yahweh, the God of Israel, to anger than all the kings of Israel who were before him.
+**33** Ahab also made the Asherah pole.[^16-19] Ahab did more to provoke the LORD, the God of Israel, to anger than all the kings of Israel who were before him.
 
-**34** In his days Hiel of Bethel rebuilt Jericho. He laid its foundation at the cost of Abiram his firstborn, and he set up its gates at the cost of Segub his youngest son,[^16-20] according to the word of Yahweh that he had spoken through Joshua son of Nun.[^16-21]
+**34** In his days Hiel of Bethel rebuilt Jericho. He laid its foundation at the cost of Abiram his firstborn, and he set up its gates at the cost of Segub his youngest son,[^16-20] according to the word of the LORD that he had spoken through Joshua son of Nun.[^16-21]
 
-[^16-1]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^16-1]: *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles.
 [^16-2]: Hebrew *nagid*, "leader, prince".
 [^16-3]: Or "burn up" (14:10).
 [^16-4]: Literally "the book of the words of the days of the kings of Israel": the royal records, which have not survived (14:19).
@@ -1756,21 +1756,21 @@
 
 *Status: draft*
 
-**1** Now Elijah the Tishbite, one of the settlers in Gilead,[^17-1] said to Ahab, "As Yahweh,[^17-2] the God of Israel, lives, whom I serve,[^17-3] there will be no dew or rain in these years except at my word."
+**1** Now Elijah the Tishbite, one of the settlers in Gilead,[^17-1] said to Ahab, "As the LORD,[^17-2] the God of Israel, lives, whom I serve,[^17-3] there will be no dew or rain in these years except at my word."
 
-**2** Then the word of Yahweh came to him:
+**2** Then the word of the LORD came to him:
 
 **3** "Leave here, turn east and hide in the Kerith Ravine,[^17-4] east of the Jordan.[^17-5]
 
 **4** You will drink from the stream, and I have commanded the ravens to feed you there."
 
-**5** So he went and did as Yahweh had said. He went and stayed in the Kerith Ravine, east of the Jordan.
+**5** So he went and did as the LORD had said. He went and stayed in the Kerith Ravine, east of the Jordan.
 
 **6** The ravens brought him bread and meat in the morning, and bread and meat in the evening, and he drank from the stream.
 
 **7** After a while the stream dried up, because there had been no rain in the land.
 
-**8** Then the word of Yahweh came to him:
+**8** Then the word of the LORD came to him:
 
 **9** "Get up, go to Zarephath, which belongs to Sidon, and stay there. I have commanded a widow there to feed you."
 
@@ -1778,15 +1778,15 @@
 
 **11** As she was going to get it, he called to her and said, "Please bring me a piece of bread in your hand."
 
-**12** She said, "As Yahweh your God lives, I have nothing baked,[^17-6] only a handful of flour in a jar and a little oil in a jug. Look, I am gathering a couple of sticks, so that I can go in and prepare it for myself and my son, and we will eat it and die."
+**12** She said, "As the LORD your God lives, I have nothing baked,[^17-6] only a handful of flour in a jar and a little oil in a jug. Look, I am gathering a couple of sticks, so that I can go in and prepare it for myself and my son, and we will eat it and die."
 
 **13** Elijah said to her, "Do not be afraid. Go and do as you have said. But first make me a small cake from it and bring it out to me. After that make something for yourself and your son.
 
-**14** For this is what Yahweh, the God of Israel, says: 'The jar of flour will not be used up, and the jug of oil will not run dry, until the day Yahweh sends rain on the face of the earth.'"
+**14** For this is what the LORD, the God of Israel, says: 'The jar of flour will not be used up, and the jug of oil will not run dry, until the day the LORD sends rain on the face of the earth.'"
 
 **15** She went and did as Elijah had said, and she and he and her household[^17-7] ate for many days.
 
-**16** The jar of flour was not used up, and the jug of oil did not run dry, according to the word of Yahweh that he had spoken through Elijah.
+**16** The jar of flour was not used up, and the jug of oil did not run dry, according to the word of the LORD that he had spoken through Elijah.
 
 **17** Some time later the son of the woman who owned the house became sick. His illness grew so severe that there was no breath left in him.
 
@@ -1794,18 +1794,18 @@
 
 **19** He said to her, "Give me your son." He took him from her arms,[^17-9] carried him up to the upper room where he was staying, and laid him on his own bed.
 
-**20** Then he cried out to Yahweh, "Yahweh my God, have you brought disaster even on the widow I am staying with, by killing her son?"
+**20** Then he cried out to the LORD, "LORD my God, have you brought disaster even on the widow I am staying with, by killing her son?"
 
-**21** Then he stretched himself out on the child three times and cried out to Yahweh, "Yahweh my God, please let this child's life[^17-10] come back into him!"
+**21** Then he stretched himself out on the child three times and cried out to the LORD, "LORD my God, please let this child's life[^17-10] come back into him!"
 
-**22** Yahweh listened to Elijah's voice, and the child's life came back into him, and he lived.
+**22** The LORD listened to Elijah's voice, and the child's life came back into him, and he lived.
 
 **23** Elijah took the child and brought him down from the upper room into the house and gave him to his mother. Elijah said, "Look, your son is alive."
 
-**24** The woman said to Elijah, "Now I know that you are a man of God, and that the word of Yahweh in your mouth is truth."
+**24** The woman said to Elijah, "Now I know that you are a man of God, and that the word of the LORD in your mouth is truth."
 
 [^17-1]: Hebrew *mittoshavei Gil'ad*, "from the settlers of Gilead". The Septuagint reads the same consonants as "from Tishbe in Gilead".
-[^17-2]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^17-2]: *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles.
 [^17-3]: Literally "before whom I stand".
 [^17-4]: Hebrew *nachal Kerit*: a valley with a stream that flows in the rainy season. Also in verse 5.
 [^17-5]: Literally "which is in front of the Jordan". Also in verse 5.
@@ -1819,13 +1819,13 @@
 
 *Status: draft*
 
-**1** After many days, in the third year, the word of Yahweh[^18-1] came to Elijah: "Go, show yourself to Ahab, and I will send rain on the face of the earth."
+**1** After many days, in the third year, the word of the LORD[^18-1] came to Elijah: "Go, show yourself to Ahab, and I will send rain on the face of the earth."
 
 **2** So Elijah went to show himself to Ahab. The famine was severe in Samaria.
 
-**3** Ahab called Obadiah, who was in charge of the palace.[^18-2] Obadiah feared Yahweh greatly.
+**3** Ahab called Obadiah, who was in charge of the palace.[^18-2] Obadiah feared the LORD greatly.
 
-**4** When Jezebel was killing off the prophets of Yahweh, Obadiah had taken a hundred prophets and hidden them, fifty to a cave,[^18-3] and he had supplied them with bread and water.
+**4** When Jezebel was killing off the prophets of the LORD, Obadiah had taken a hundred prophets and hidden them, fifty to a cave,[^18-3] and he had supplied them with bread and water.
 
 **5** Ahab said to Obadiah, "Go through the land to all the springs of water and to all the valleys.[^18-4] Perhaps we can find grass to keep the horses and mules alive, so that we will not have to kill any of the animals."
 
@@ -1837,35 +1837,35 @@
 
 **9** But he said, "What sin have I committed, that you are handing your servant over to Ahab to kill me?
 
-**10** As Yahweh your God lives, there is no nation or kingdom where my lord has not sent to look for you. When they said, 'He is not here,' he made the kingdom or nation swear that they had not found you.
+**10** As the LORD your God lives, there is no nation or kingdom where my lord has not sent to look for you. When they said, 'He is not here,' he made the kingdom or nation swear that they had not found you.
 
 **11** And now you say, 'Go and tell your lord, "Elijah is here."'
 
-**12** As soon as I leave you, the Spirit of Yahweh[^18-5] will carry you off I do not know where. Then when I go to tell Ahab and he does not find you, he will kill me. Yet I, your servant, have feared Yahweh from my youth.
+**12** As soon as I leave you, the Spirit of the LORD[^18-5] will carry you off I do not know where. Then when I go to tell Ahab and he does not find you, he will kill me. Yet I, your servant, have feared the LORD from my youth.
 
-**13** Has my lord not been told what I did when Jezebel killed the prophets of Yahweh, how I hid a hundred of Yahweh's prophets, fifty to a cave, and supplied them with bread and water?
+**13** Has my lord not been told what I did when Jezebel killed the prophets of the LORD, how I hid a hundred of the LORD's prophets, fifty to a cave, and supplied them with bread and water?
 
 **14** And now you say, 'Go and tell your lord, "Elijah is here."' He will kill me!"
 
-**15** Elijah said, "As Yahweh of Armies[^18-6] lives, whom I serve,[^18-7] I will show myself to him today."
+**15** Elijah said, "As the LORD of Armies[^18-6] lives, whom I serve,[^18-7] I will show myself to him today."
 
 **16** So Obadiah went to meet Ahab and told him, and Ahab went to meet Elijah.
 
 **17** When Ahab saw Elijah, Ahab said to him, "Is it you, you troubler of Israel?"[^18-8]
 
-**18** He said, "I have not troubled Israel. You have, you and your father's house, by abandoning the commands of Yahweh and following the Baals.[^18-9]
+**18** He said, "I have not troubled Israel. You have, you and your father's house, by abandoning the commands of the LORD and following the Baals.[^18-9]
 
 **19** Now send and gather all Israel to me at Mount Carmel, with the 450 prophets of Baal and the 400 prophets of Asherah,[^18-10] who eat at Jezebel's table."
 
 **20** So Ahab sent word among all the Israelites and gathered the prophets at Mount Carmel.
 
-**21** Elijah came near to all the people and said, "How long will you go limping between two opinions?[^18-11] If Yahweh is God, follow him. But if Baal is, follow him." But the people did not answer him a word.
+**21** Elijah came near to all the people and said, "How long will you go limping between two opinions?[^18-11] If the LORD is God, follow him. But if Baal is, follow him." But the people did not answer him a word.
 
-**22** Then Elijah said to the people, "I am the only one left as a prophet of Yahweh, but Baal's prophets are 450 men.
+**22** Then Elijah said to the people, "I am the only one left as a prophet of the LORD, but Baal's prophets are 450 men.
 
 **23** Let two bulls be given to us. Let them choose one bull for themselves, cut it in pieces and lay it on the wood, but put no fire to it. I will prepare the other bull and lay it on the wood, and I will put no fire to it.
 
-**24** Then you call on the name of your god, and I will call on the name of Yahweh. The God who answers by fire, he is God." All the people answered, "That is good."[^18-12]
+**24** Then you call on the name of your god, and I will call on the name of the LORD. The God who answers by fire, he is God." All the people answered, "That is good."[^18-12]
 
 **25** Elijah said to the prophets of Baal, "Choose one bull for yourselves and prepare it first, for you are many. Call on the name of your god, but put no fire to it."
 
@@ -1877,11 +1877,11 @@
 
 **29** When midday had passed, they raved on[^18-17] until the time of the evening offering.[^18-18] But there was no voice, no one answered, and no one paid attention.
 
-**30** Then Elijah said to all the people, "Come near to me." All the people came near to him, and he repaired the altar of Yahweh that had been torn down.
+**30** Then Elijah said to all the people, "Come near to me." All the people came near to him, and he repaired the altar of the LORD that had been torn down.
 
-**31** Elijah took twelve stones, according to the number of the tribes of the sons of Jacob, to whom the word of Yahweh had come, saying, "Israel will be your name."[^18-19]
+**31** Elijah took twelve stones, according to the number of the tribes of the sons of Jacob, to whom the word of the LORD had come, saying, "Israel will be your name."[^18-19]
 
-**32** With the stones he built an altar in the name of Yahweh, and he made a trench around the altar large enough to hold two seahs[^18-20] of seed.
+**32** With the stones he built an altar in the name of the LORD, and he made a trench around the altar large enough to hold two seahs[^18-20] of seed.
 
 **33** He arranged the wood, cut the bull in pieces and laid it on the wood.
 
@@ -1889,13 +1889,13 @@
 
 **35** The water ran around the altar, and he also filled the trench with water.
 
-**36** At the time of the evening offering, Elijah the prophet came near and said, "Yahweh, God of Abraham, Isaac and Israel, let it be known today that you are God in Israel, and that I am your servant and have done all these things at your word.[^18-22]
+**36** At the time of the evening offering, Elijah the prophet came near and said, "LORD, God of Abraham, Isaac and Israel, let it be known today that you are God in Israel, and that I am your servant and have done all these things at your word.[^18-22]
 
-**37** Answer me, Yahweh, answer me, so that this people may know that you, Yahweh, are God, and that you have turned their hearts back again."
+**37** Answer me, LORD, answer me, so that this people may know that you, LORD, are God, and that you have turned their hearts back again."
 
-**38** Then the fire of Yahweh fell and consumed the burnt offering, the wood, the stones and the dust, and it licked up the water that was in the trench.
+**38** Then the fire of the LORD fell and consumed the burnt offering, the wood, the stones and the dust, and it licked up the water that was in the trench.
 
-**39** When all the people saw it, they fell on their faces and said, "Yahweh, he is God! Yahweh, he is God!"
+**39** When all the people saw it, they fell on their faces and said, "The LORD, he is God! The LORD, he is God!"
 
 **40** Elijah said to them, "Seize the prophets of Baal! Do not let one of them escape." They seized them, and Elijah brought them down to the Kishon Valley[^18-23] and slaughtered them there.
 
@@ -1909,13 +1909,13 @@
 
 **45** In a little while[^18-26] the sky grew black with clouds and wind, and there was a heavy rain. Ahab rode off and went to Jezreel.
 
-**46** The hand of Yahweh was on Elijah. He tucked his robe into his belt[^18-27] and ran ahead of Ahab all the way to Jezreel.
+**46** The hand of the LORD was on Elijah. He tucked his robe into his belt[^18-27] and ran ahead of Ahab all the way to Jezreel.
 
-[^18-1]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^18-1]: *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles.
 [^18-2]: Literally "over the house" (4:6).
 [^18-3]: Literally "fifty men in the cave". Verse 13 has "fifty, fifty".
 [^18-4]: Hebrew *nechalim*: valleys with streams that flow in the rainy season.
-[^18-5]: Or "the wind of Yahweh". Hebrew *ruach* means both.
+[^18-5]: Or "the wind of the LORD". Hebrew *ruach* means both.
 [^18-6]: Hebrew *YHWH tseva'ot*, traditionally "the LORD of hosts" or "the LORD Almighty". *Tseva'ot* means armies: the heavenly hosts and the armies of Israel.
 [^18-7]: Literally "before whom I stand".
 [^18-8]: Hebrew *okher*, one who brings disaster on a community (Joshua 7:25). Also in verse 18.
@@ -1949,29 +1949,29 @@
 
 **3** He was afraid,[^19-2] and he got up and ran for his life.[^19-3] He came to Beersheba, which belongs to Judah, and left his servant there.
 
-**4** He himself went a day's journey into the wilderness. He came and sat down under a broom bush[^19-4] and asked to die. He said, "It is enough. Now, Yahweh,[^19-5] take my life, for I am no better than my ancestors."
+**4** He himself went a day's journey into the wilderness. He came and sat down under a broom bush[^19-4] and asked to die. He said, "It is enough. Now, LORD,[^19-5] take my life, for I am no better than my ancestors."
 
 **5** He lay down and slept under the broom bush. Suddenly an angel[^19-6] touched him and said to him, "Get up and eat."
 
 **6** He looked, and there by his head was a cake baked on hot stones[^19-7] and a jug of water. He ate and drank and lay down again.
 
-**7** The angel of Yahweh came back a second time, touched him and said, "Get up and eat, for the journey is too much for you."
+**7** The angel of the LORD came back a second time, touched him and said, "Get up and eat, for the journey is too much for you."
 
 **8** He got up and ate and drank, and in the strength of that food he walked forty days and forty nights as far as Horeb,[^19-8] the mountain of God.
 
-**9** There he came to the cave[^19-9] and spent the night there. And the word of Yahweh came to him. He said to him, "What are you doing here, Elijah?"
+**9** There he came to the cave[^19-9] and spent the night there. And the word of the LORD came to him. He said to him, "What are you doing here, Elijah?"
 
-**10** He said, "I have been very zealous for Yahweh, the God of Armies.[^19-10] For the Israelites have abandoned your covenant, torn down your altars and killed your prophets with the sword. I alone am left, and they are seeking my life, to take it away."
+**10** He said, "I have been very zealous for the LORD, the God of Armies.[^19-10] For the Israelites have abandoned your covenant, torn down your altars and killed your prophets with the sword. I alone am left, and they are seeking my life, to take it away."
 
-**11** He said, "Go out and stand on the mountain before Yahweh." And look, Yahweh was passing by. A great and powerful wind was tearing the mountains apart and shattering the rocks before Yahweh, but Yahweh was not in the wind. After the wind there was an earthquake, but Yahweh was not in the earthquake.
+**11** He said, "Go out and stand on the mountain before the LORD." And look, the LORD was passing by. A great and powerful wind was tearing the mountains apart and shattering the rocks before the LORD, but the LORD was not in the wind. After the wind there was an earthquake, but the LORD was not in the earthquake.
 
-**12** After the earthquake there was a fire, but Yahweh was not in the fire. And after the fire there was the sound of a gentle whisper.[^19-11]
+**12** After the earthquake there was a fire, but the LORD was not in the fire. And after the fire there was the sound of a gentle whisper.[^19-11]
 
 **13** When Elijah heard it, he wrapped his face in his cloak, went out and stood at the entrance of the cave. And a voice came to him and said, "What are you doing here, Elijah?"
 
-**14** He said, "I have been very zealous for Yahweh, the God of Armies. For the Israelites have abandoned your covenant, torn down your altars and killed your prophets with the sword. I alone am left, and they are seeking my life, to take it away."
+**14** He said, "I have been very zealous for the LORD, the God of Armies. For the Israelites have abandoned your covenant, torn down your altars and killed your prophets with the sword. I alone am left, and they are seeking my life, to take it away."
 
-**15** Yahweh said to him, "Go back the way you came, to the wilderness of Damascus. When you arrive, anoint Hazael as king over Aram.
+**15** The LORD said to him, "Go back the way you came, to the wilderness of Damascus. When you arrive, anoint Hazael as king over Aram.
 
 **16** Anoint Jehu son of Nimshi as king over Israel, and anoint Elisha son of Shaphat from Abel-meholah as prophet in your place.
 
@@ -1989,7 +1989,7 @@
 [^19-2]: The Hebrew vowel points read "He saw". The same consonants can be read "He was afraid", as the Septuagint reads.
 [^19-3]: Literally "went for his life (*nephesh*)".
 [^19-4]: Hebrew *rotem*, the white broom, a desert shrub; traditionally "juniper". Also in verse 5.
-[^19-5]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^19-5]: *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles.
 [^19-6]: Or "a messenger". Hebrew *mal'akh* means both. Also in verse 7.
 [^19-7]: Hebrew *uggat retsafim*, a flat loaf baked on hot stones or coals.
 [^19-8]: Another name for Mount Sinai.
@@ -2027,9 +2027,9 @@
 
 **12** When Ben-hadad heard this message, he was drinking with the kings in the shelters.[^20-6] He said to his servants, "Take your positions!"[^20-7] So they took their positions against the city.
 
-**13** Just then a prophet came up to Ahab king of Israel and said, "This is what Yahweh[^20-8] says: 'Have you seen this whole great army? Look, I will hand it over to you today, and you will know that I am Yahweh.'"
+**13** Just then a prophet came up to Ahab king of Israel and said, "This is what the LORD[^20-8] says: 'Have you seen this whole great army? Look, I will hand it over to you today, and you will know that I am the LORD.'"
 
-**14** Ahab said, "By whom?" He said, "This is what Yahweh says: 'By the young men who serve the district governors.'" Ahab said, "Who will start the battle?" He said, "You."
+**14** Ahab said, "By whom?" He said, "This is what the LORD says: 'By the young men who serve the district governors.'" Ahab said, "Who will start the battle?" He said, "You."
 
 **15** So Ahab mustered the young men who served the district governors, and they were 232. After them he mustered all the people, all the Israelites, 7,000.
 
@@ -2057,7 +2057,7 @@
 
 **27** The Israelites were mustered and given provisions, and they went out to meet them. The Israelites camped opposite them like two little flocks of goats, while the Arameans filled the countryside.
 
-**28** Then the man of God came near and said to the king of Israel, "This is what Yahweh says: 'Because the Arameans have said, "Yahweh is a god of the hills, but he is not a god of the valleys," I will hand over all this great army to you, and you will know that I am Yahweh.'"
+**28** Then the man of God came near and said to the king of Israel, "This is what the LORD says: 'Because the Arameans have said, "The LORD is a god of the hills, but he is not a god of the valleys," I will hand over all this great army to you, and you will know that I am the LORD.'"
 
 **29** They camped opposite each other for seven days. On the seventh day the battle was joined, and the Israelites struck down a hundred thousand Aramean foot soldiers in one day.
 
@@ -2071,9 +2071,9 @@
 
 **34** Ben-hadad said to him, "I will give back the cities my father took from your father, and you may set up markets[^20-16] for yourself in Damascus, as my father did in Samaria." Ahab said, "On the terms of this treaty I will let you go."[^20-17] So he made a treaty with him and let him go.
 
-**35** Then a man from the company of the prophets[^20-18] said to his companion by the word of Yahweh, "Strike me, please." But the man refused to strike him.
+**35** Then a man from the company of the prophets[^20-18] said to his companion by the word of the LORD, "Strike me, please." But the man refused to strike him.
 
-**36** So he said to him, "Because you have not obeyed the voice of Yahweh, as soon as you leave me, a lion will kill you." When he left him, a lion met him and killed him.
+**36** So he said to him, "Because you have not obeyed the voice of the LORD, as soon as you leave me, a lion will kill you." When he left him, a lion met him and killed him.
 
 **37** Then he found another man and said, "Strike me, please." So the man struck him and wounded him.
 
@@ -2085,7 +2085,7 @@
 
 **41** Then he quickly removed the bandage from his eyes, and the king of Israel recognized him as one of the prophets.
 
-**42** He said to the king, "This is what Yahweh says: 'Because you have let go out of your hand the man I had devoted to destruction,[^20-21] your life will be for his life, and your people for his people.'"
+**42** He said to the king, "This is what the LORD says: 'Because you have let go out of your hand the man I had devoted to destruction,[^20-21] your life will be for his life, and your people for his people.'"
 
 **43** So the king of Israel went home sullen and angry, and he came to Samaria.
 
@@ -2096,7 +2096,7 @@
 [^20-5]: Literally "for handfuls for all the people who are at my feet".
 [^20-6]: Hebrew *sukkot*, "booths": temporary huts in the camp. Some take it as the town of Succoth. Also in verse 16.
 [^20-7]: Literally "Set!", probably meaning "Get into position" or "Set up the siege works".
-[^20-8]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^20-8]: *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles.
 [^20-9]: Literally "Ben-hadad sent".
 [^20-10]: Literally "at the return of the year". Also in verse 26.
 [^20-11]: Or "Their God is a god of the hills". Hebrew *elohim* can mean either.
@@ -2119,7 +2119,7 @@
 
 **2** Ahab said to Naboth, "Give me your vineyard, so that I can have it for a vegetable garden, because it is close to my house. I will give you a better vineyard for it, or, if you prefer,[^21-1] I will give you its value in silver."
 
-**3** But Naboth said to Ahab, "Yahweh[^21-2] forbid that I should give you the inheritance of my ancestors!"
+**3** But Naboth said to Ahab, "The LORD[^21-2] forbid that I should give you the inheritance of my ancestors!"
 
 **4** So Ahab went home sullen and angry because of what Naboth the Jezreelite had said to him: "I will not give you the inheritance of my ancestors." He lay down on his bed, turned away his face and would not eat any food.
 
@@ -2147,39 +2147,39 @@
 
 **16** As soon as Ahab heard that Naboth was dead, Ahab got up to go down to the vineyard of Naboth the Jezreelite to take possession of it.
 
-**17** Then the word of Yahweh came to Elijah the Tishbite:
+**17** Then the word of the LORD came to Elijah the Tishbite:
 
 **18** "Get up, go down to meet Ahab king of Israel, who is in Samaria. He is in Naboth's vineyard, where he has gone down to take possession of it.
 
-**19** Say to him, 'This is what Yahweh says: Have you murdered and also taken possession?' Then say to him, 'This is what Yahweh says: In the place where the dogs licked up Naboth's blood, the dogs will lick up your blood, yes, yours.'"
+**19** Say to him, 'This is what the LORD says: Have you murdered and also taken possession?' Then say to him, 'This is what the LORD says: In the place where the dogs licked up Naboth's blood, the dogs will lick up your blood, yes, yours.'"
 
-**20** Ahab said to Elijah, "So you have found me, my enemy!" He said, "I have found you, because you have sold yourself to do what is evil in the eyes of Yahweh.
+**20** Ahab said to Elijah, "So you have found me, my enemy!" He said, "I have found you, because you have sold yourself to do what is evil in the eyes of the LORD.
 
 **21** 'I am going to bring disaster on you.[^21-7] I will sweep you away,[^21-8] and I will cut off from Ahab every male,[^21-9] whether slave or free,[^21-10] in Israel.
 
 **22** I will make your house like the house of Jeroboam son of Nebat and like the house of Baasha son of Ahijah, because of the anger to which you have provoked me, and because you have caused Israel to sin.'
 
-**23** Yahweh has also spoken about Jezebel: 'The dogs will eat Jezebel by the wall of Jezreel.[^21-11]
+**23** The LORD has also spoken about Jezebel: 'The dogs will eat Jezebel by the wall of Jezreel.[^21-11]
 
 **24** Anyone belonging to Ahab who dies in the city, the dogs will eat, and anyone who dies in the open country, the birds of the sky will eat.'"
 
-**25** There was never anyone like Ahab, who sold himself to do what was evil in the eyes of Yahweh, urged on by his wife Jezebel.
+**25** There was never anyone like Ahab, who sold himself to do what was evil in the eyes of the LORD, urged on by his wife Jezebel.
 
-**26** He acted most detestably in following idols,[^21-12] just as the Amorites had done, whom Yahweh drove out before the Israelites.
+**26** He acted most detestably in following idols,[^21-12] just as the Amorites had done, whom the LORD drove out before the Israelites.
 
 **27** When Ahab heard these words, he tore his clothes, put sackcloth on his body and fasted. He lay in sackcloth and went about subdued.[^21-13]
 
-**28** Then the word of Yahweh came to Elijah the Tishbite:
+**28** Then the word of the LORD came to Elijah the Tishbite:
 
 **29** "Have you seen how Ahab has humbled himself before me? Because he has humbled himself before me, I will not bring the disaster in his days. In his son's days I will bring the disaster on his house."
 
 [^21-1]: Literally "if it is good in your eyes".
-[^21-2]: Literally "Far be it from me, from Yahweh". *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^21-2]: Literally "Far be it from me, from the LORD". *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles.
 [^21-3]: Literally "Why is your spirit sullen?"
 [^21-4]: Or "You are the one who now rules as king over Israel!" The Hebrew can be read as a question or as a statement.
 [^21-5]: Literally "sons of *beliyya'al*", "sons of worthlessness": men without principle. Also in verse 13.
 [^21-6]: Literally "blessed", a substitute word used to avoid writing "cursed God". Also in verse 13.
-[^21-7]: Here Elijah speaks Yahweh's own words, through verse 22.
+[^21-7]: Here Elijah speaks the LORD's own words, through verse 22.
 [^21-8]: Or "burn you up" (14:10).
 [^21-9]: Literally "one who urinates against the wall", a coarse expression for a male (14:10).
 [^21-10]: Hebrew *atsur ve'azuv*, "shut up and left": a phrase of uncertain meaning that covers everyone (14:10).
@@ -2199,45 +2199,45 @@
 
 **4** He said to Jehoshaphat, "Will you go with me to battle at Ramoth-gilead?" Jehoshaphat said to the king of Israel, "I am as you are, my people as your people, my horses as your horses."
 
-**5** But Jehoshaphat also said to the king of Israel, "Please inquire first for the word of Yahweh."[^22-1]
+**5** But Jehoshaphat also said to the king of Israel, "Please inquire first for the word of the LORD."[^22-1]
 
 **6** So the king of Israel gathered the prophets, about four hundred men, and said to them, "Shall I go to battle against Ramoth-gilead, or shall I hold back?" They said, "Go up, for the Lord[^22-2] will hand it over to the king."
 
-**7** But Jehoshaphat said, "Is there no other prophet of Yahweh here, so that we can inquire of him?"
+**7** But Jehoshaphat said, "Is there no other prophet of the LORD here, so that we can inquire of him?"
 
-**8** The king of Israel said to Jehoshaphat, "There is still one man through whom we can inquire of Yahweh, but I hate him, because he never prophesies anything good about me, only disaster. He is Micaiah son of Imlah." Jehoshaphat said, "The king should not say that."
+**8** The king of Israel said to Jehoshaphat, "There is still one man through whom we can inquire of the LORD, but I hate him, because he never prophesies anything good about me, only disaster. He is Micaiah son of Imlah." Jehoshaphat said, "The king should not say that."
 
 **9** So the king of Israel called an officer[^22-3] and said, "Bring Micaiah son of Imlah quickly."
 
 **10** The king of Israel and Jehoshaphat king of Judah were sitting each on his throne, dressed in their robes, at the threshing floor at the entrance of the gate of Samaria, and all the prophets were prophesying before them.
 
-**11** Zedekiah son of Chenaanah had made himself horns of iron, and he said, "This is what Yahweh says: 'With these you will gore the Arameans until they are destroyed.'"
+**11** Zedekiah son of Chenaanah had made himself horns of iron, and he said, "This is what the LORD says: 'With these you will gore the Arameans until they are destroyed.'"
 
-**12** All the prophets were prophesying the same, saying, "Go up to Ramoth-gilead and succeed. Yahweh will hand it over to the king."
+**12** All the prophets were prophesying the same, saying, "Go up to Ramoth-gilead and succeed. The LORD will hand it over to the king."
 
 **13** The messenger who had gone to summon Micaiah said to him, "Look, the prophets with one voice are speaking favorably to the king.[^22-4] Please let your word[^22-5] be like the word of one of them, and speak favorably."
 
-**14** But Micaiah said, "As Yahweh lives, whatever Yahweh says to me, that is what I will speak."
+**14** But Micaiah said, "As the LORD lives, whatever the LORD says to me, that is what I will speak."
 
-**15** When he came to the king, the king said to him, "Micaiah, shall we go to battle against Ramoth-gilead, or shall we hold back?" He said to him, "Go up and succeed. Yahweh will hand it over to the king."
+**15** When he came to the king, the king said to him, "Micaiah, shall we go to battle against Ramoth-gilead, or shall we hold back?" He said to him, "Go up and succeed. The LORD will hand it over to the king."
 
-**16** But the king said to him, "How many times must I make you swear to tell me nothing but the truth in the name of Yahweh?"
+**16** But the king said to him, "How many times must I make you swear to tell me nothing but the truth in the name of the LORD?"
 
-**17** Then he said, "I saw all Israel scattered on the mountains, like sheep that have no shepherd. And Yahweh said, 'These have no master. Let each of them go home in peace.'"
+**17** Then he said, "I saw all Israel scattered on the mountains, like sheep that have no shepherd. And the LORD said, 'These have no master. Let each of them go home in peace.'"
 
 **18** The king of Israel said to Jehoshaphat, "Didn't I tell you he would not prophesy anything good about me, only disaster?"
 
-**19** Micaiah said,[^22-6] "Therefore hear the word of Yahweh. I saw Yahweh sitting on his throne, with the whole host of heaven standing beside him, on his right and on his left.
+**19** Micaiah said,[^22-6] "Therefore hear the word of the LORD. I saw the LORD sitting on his throne, with the whole host of heaven standing beside him, on his right and on his left.
 
-**20** And Yahweh said, 'Who will entice Ahab to go up and fall at Ramoth-gilead?' One said one thing, and another said another.
+**20** And the LORD said, 'Who will entice Ahab to go up and fall at Ramoth-gilead?' One said one thing, and another said another.
 
-**21** Then a spirit[^22-7] came forward and stood before Yahweh and said, 'I will entice him.' Yahweh said to him, 'How?'
+**21** Then a spirit[^22-7] came forward and stood before the LORD and said, 'I will entice him.' The LORD said to him, 'How?'
 
-**22** He said, 'I will go out and be a lying spirit in the mouth of all his prophets.' Yahweh said, 'You will entice him, and you will succeed. Go and do it.'
+**22** He said, 'I will go out and be a lying spirit in the mouth of all his prophets.' The LORD said, 'You will entice him, and you will succeed. Go and do it.'
 
-**23** So now, Yahweh has put a lying spirit in the mouth of all these prophets of yours. Yahweh has pronounced disaster against you."[^22-8]
+**23** So now, the LORD has put a lying spirit in the mouth of all these prophets of yours. The LORD has pronounced disaster against you."[^22-8]
 
-**24** Then Zedekiah son of Chenaanah came up and struck Micaiah on the cheek and said, "Which way did the Spirit of Yahweh go when he left me to speak to you?"
+**24** Then Zedekiah son of Chenaanah came up and struck Micaiah on the cheek and said, "Which way did the Spirit of the LORD go when he left me to speak to you?"
 
 **25** Micaiah said, "You will see on the day when you go into an inner room[^22-9] to hide."
 
@@ -2245,7 +2245,7 @@
 
 **27** and say, 'This is what the king says: Put this fellow in prison and feed him on scant bread and water[^22-11] until I come back safely.'"
 
-**28** Micaiah said, "If you ever come back safely, Yahweh has not spoken through me." And he said, "Listen, all you peoples!"[^22-12]
+**28** Micaiah said, "If you ever come back safely, the LORD has not spoken through me." And he said, "Listen, all you peoples!"[^22-12]
 
 **29** So the king of Israel and Jehoshaphat king of Judah went up to Ramoth-gilead.
 
@@ -2265,7 +2265,7 @@
 
 **37** So the king died and was brought[^22-17] to Samaria, and they buried the king in Samaria.
 
-**38** They washed the chariot by the pool of Samaria, and the dogs licked up his blood, and the prostitutes bathed there,[^22-18] according to the word of Yahweh that he had spoken.
+**38** They washed the chariot by the pool of Samaria, and the dogs licked up his blood, and the prostitutes bathed there,[^22-18] according to the word of the LORD that he had spoken.
 
 **39** As for the rest of the acts of Ahab, and all that he did, the ivory house[^22-19] he built and all the cities he built, are they not written in the book of the annals of the kings of Israel?[^22-20]
 
@@ -2275,7 +2275,7 @@
 
 **42** Jehoshaphat was thirty-five years old when he became king, and he reigned twenty-five years in Jerusalem. His mother's name was Azubah daughter of Shilhi.
 
-**43** He walked in all the way of his father Asa and did not turn aside from it, doing what was right in the eyes of Yahweh.
+**43** He walked in all the way of his father Asa and did not turn aside from it, doing what was right in the eyes of the LORD.
 
 **44** But the high places were not taken away. The people still sacrificed and burned incense on the high places.[^22-22]
 
@@ -2295,18 +2295,18 @@
 
 **52** Ahaziah son of Ahab became king over Israel in Samaria in the seventeenth year of Jehoshaphat king of Judah, and he reigned over Israel two years.
 
-**53** He did what was evil in the eyes of Yahweh. He walked in the way of his father, in the way of his mother, and in the way of Jeroboam son of Nebat, who caused Israel to sin.
+**53** He did what was evil in the eyes of the LORD. He walked in the way of his father, in the way of his mother, and in the way of Jeroboam son of Nebat, who caused Israel to sin.
 
-**54** He served Baal and bowed down to him, and he provoked Yahweh, the God of Israel, to anger, just as his father had done.
+**54** He served Baal and bowed down to him, and he provoked the LORD, the God of Israel, to anger, just as his father had done.
 
-[^22-1]: Literally "Please seek, as the day, the word of Yahweh", that is, today, before going. *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^22-1]: Literally "Please seek, as the day, the word of the LORD", that is, today, before going. *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles.
 [^22-2]: Hebrew *Adonai*, "the Lord", here instead of God's personal name.
 [^22-3]: Hebrew *saris*, a court official; the word can mean "eunuch".
 [^22-4]: Literally "the words of the prophets are one mouth good to the king".
 [^22-5]: The Hebrew text is written "your words" but read "your word".
 [^22-6]: Literally "He said".
 [^22-7]: Literally "the spirit". Hebrew *ruach* can also mean "wind" or "breath".
-[^22-8]: Literally "Yahweh has spoken evil concerning you."
+[^22-8]: Literally "The LORD has spoken evil concerning you."
 [^22-9]: Literally "room within room".
 [^22-10]: "The king's son" may be a title for a royal official rather than a son of Ahab.
 [^22-11]: Literally "bread of oppression and water of oppression".

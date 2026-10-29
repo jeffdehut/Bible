@@ -11,31 +11,31 @@
 
 **2** He had two wives. The name of one was Hannah, and the name of the other was Peninnah. Peninnah had children, but Hannah had no children.
 
-**3** Year after year[^1-3] this man went up from his town to worship and to sacrifice to Yahweh of Armies[^1-4] at Shiloh. The two sons of Eli, Hophni and Phinehas, were priests of Yahweh there.
+**3** Year after year[^1-3] this man went up from his town to worship and to sacrifice to the LORD of Armies[^1-4] at Shiloh. The two sons of Eli, Hophni and Phinehas, were priests of the LORD there.
 
 **4** On the day Elkanah sacrificed, he would give portions to his wife Peninnah and to all her sons and daughters.
 
-**5** But to Hannah he would give a double portion,[^1-5] because he loved Hannah, though Yahweh had closed her womb.
+**5** But to Hannah he would give a double portion,[^1-5] because he loved Hannah, though the LORD had closed her womb.
 
-**6** Her rival[^1-6] would provoke her bitterly, to upset her,[^1-7] because Yahweh had closed her womb.
+**6** Her rival[^1-6] would provoke her bitterly, to upset her,[^1-7] because the LORD had closed her womb.
 
-**7** So it went on year after year.[^1-8] Whenever she went up to the house of Yahweh, her rival would provoke her, and she would weep and not eat.
+**7** So it went on year after year.[^1-8] Whenever she went up to the house of the LORD, her rival would provoke her, and she would weep and not eat.
 
 **8** Her husband Elkanah said to her, "Hannah, why are you weeping? Why aren't you eating? Why are you so sad?[^1-9] Am I not better to you than ten sons?"
 
-**9** After they had eaten and drunk at Shiloh, Hannah got up. Now Eli the priest was sitting on his seat by the doorpost of the temple[^1-10] of Yahweh.
+**9** After they had eaten and drunk at Shiloh, Hannah got up. Now Eli the priest was sitting on his seat by the doorpost of the temple[^1-10] of the LORD.
 
-**10** She was deeply distressed,[^1-11] and she prayed to Yahweh and wept bitterly.
+**10** She was deeply distressed,[^1-11] and she prayed to the LORD and wept bitterly.
 
-**11** She made a vow and said, "Yahweh of Armies, if you will only look on the misery of your servant[^1-12] and remember me, and not forget your servant, but give your servant a son,[^1-13] then I will give him to Yahweh for all the days of his life, and no razor will ever touch his head."[^1-14]
+**11** She made a vow and said, "LORD of Armies, if you will only look on the misery of your servant[^1-12] and remember me, and not forget your servant, but give your servant a son,[^1-13] then I will give him to the LORD for all the days of his life, and no razor will ever touch his head."[^1-14]
 
-**12** As she went on praying before Yahweh, Eli was watching her mouth.
+**12** As she went on praying before the LORD, Eli was watching her mouth.
 
 **13** Hannah was speaking in her heart. Only her lips were moving, and her voice could not be heard. So Eli thought she was drunk.
 
 **14** Eli said to her, "How long are you going to be drunk? Put away your wine!"
 
-**15** Hannah answered, "No, my lord. I am a deeply troubled woman.[^1-15] I have not drunk wine or beer.[^1-16] I have been pouring out my soul before Yahweh.
+**15** Hannah answered, "No, my lord. I am a deeply troubled woman.[^1-15] I have not drunk wine or beer.[^1-16] I have been pouring out my soul before the LORD.
 
 **16** Do not take your servant for a worthless woman.[^1-17] I have been speaking all this time out of my great anguish and grief."[^1-18]
 
@@ -43,36 +43,36 @@
 
 **18** She said, "May your servant[^1-19] find favor in your eyes." Then the woman went her way and ate, and her face was no longer sad.[^1-20]
 
-**19** They got up early in the morning and worshiped before Yahweh. Then they went back home to Ramah. Elkanah slept with[^1-21] his wife Hannah, and Yahweh remembered her.
+**19** They got up early in the morning and worshiped before the LORD. Then they went back home to Ramah. Elkanah slept with[^1-21] his wife Hannah, and the LORD remembered her.
 
-**20** In due time[^1-22] Hannah became pregnant and gave birth to a son. She named him Samuel,[^1-23] "because I asked Yahweh for him."
+**20** In due time[^1-22] Hannah became pregnant and gave birth to a son. She named him Samuel,[^1-23] "because I asked the LORD for him."
 
-**21** The man Elkanah went up with all his household to offer to Yahweh the yearly sacrifice and to fulfill his vow.[^1-24]
+**21** The man Elkanah went up with all his household to offer to the LORD the yearly sacrifice and to fulfill his vow.[^1-24]
 
-**22** But Hannah did not go up. She said to her husband, "Not until the boy is weaned. Then I will bring him, so that he may appear before Yahweh and stay there forever."[^1-25]
+**22** But Hannah did not go up. She said to her husband, "Not until the boy is weaned. Then I will bring him, so that he may appear before the LORD and stay there forever."[^1-25]
 
-**23** Her husband Elkanah said to her, "Do what seems best to you. Stay here until you have weaned him. Only, may Yahweh confirm his word."[^1-26] So the woman stayed and nursed her son until she weaned him.
+**23** Her husband Elkanah said to her, "Do what seems best to you. Stay here until you have weaned him. Only, may the LORD confirm his word."[^1-26] So the woman stayed and nursed her son until she weaned him.
 
-**24** When she had weaned him, she took him up with her, along with three bulls,[^1-27] an ephah[^1-28] of flour and a skin of wine, and brought him to the house of Yahweh at Shiloh. The boy was young.[^1-29]
+**24** When she had weaned him, she took him up with her, along with three bulls,[^1-27] an ephah[^1-28] of flour and a skin of wine, and brought him to the house of the LORD at Shiloh. The boy was young.[^1-29]
 
 **25** They slaughtered the bull, and they brought the boy to Eli.
 
-**26** She said, "Pardon me, my lord! As surely as you live,[^1-30] my lord, I am the woman who stood here beside you, praying to Yahweh.
+**26** She said, "Pardon me, my lord! As surely as you live,[^1-30] my lord, I am the woman who stood here beside you, praying to the LORD.
 
-**27** I prayed for this boy, and Yahweh has given me what I asked of him.
+**27** I prayed for this boy, and the LORD has given me what I asked of him.
 
-**28** So I in turn have given him to Yahweh.[^1-31] For as long as he lives, he is given over[^1-32] to Yahweh." And he worshiped Yahweh there.[^1-33]
+**28** So I in turn have given him to the LORD.[^1-31] For as long as he lives, he is given over[^1-32] to the LORD." And he worshiped the LORD there.[^1-33]
 
 [^1-1]: Hebrew *ha-Ramatayim Tsophim*, perhaps "Ramathaim of the Zuphites", the clan of Zuph named later in the verse. The town is called Ramah in verse 19 and elsewhere.
 [^1-2]: Hebrew *Ephrati*, here meaning someone from Ephraim (compare Judges 12:5). Elsewhere the same word means someone from Ephrathah, that is, Bethlehem (17:12).
 [^1-3]: Literally "from days to days".
-[^1-4]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles. *Yahweh of Armies* (Hebrew *YHWH tseva'ot*) is traditionally "the LORD of hosts" or "the LORD Almighty". *Tseva'ot* means armies: the heavenly hosts and the armies of Israel. This is the first time the title appears in the Bible. Also in verse 11.
+[^1-4]: *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles. *The LORD of Armies* (Hebrew *YHWH tseva'ot*) is traditionally "the LORD of hosts" or "the LORD Almighty". *Tseva'ot* means armies: the heavenly hosts and the armies of Israel. This is the first time the title appears in the Bible. Also in verse 11.
 [^1-5]: Hebrew *manah achat appayim*, literally "one portion of two faces". The meaning is uncertain: perhaps "a double portion", "a special portion", or "only one portion". The Septuagint reads "one portion, because she had no child".
 [^1-6]: Hebrew *tsarah*, a rival wife, from a root meaning "distress". Also in verse 7.
 [^1-7]: The meaning of the Hebrew verb is uncertain. Literally "to make her thunder", that is, perhaps, to make her agitated or to make her complain.
 [^1-8]: Literally "And so he would do year after year", perhaps referring to Elkanah's yearly sacrifice.
 [^1-9]: Literally "Why is your heart bad?"
-[^1-10]: Hebrew *heikhal*, "palace, temple", here the sanctuary of Yahweh at Shiloh.
+[^1-10]: Hebrew *heikhal*, "palace, temple", here the sanctuary of the LORD at Shiloh.
 [^1-11]: Literally "bitter of *nephesh*".
 [^1-12]: Hebrew *amah*, a female servant or slave, a humble way of speaking of oneself. Also later in the verse and in verse 16.
 [^1-13]: Literally "seed of men".
@@ -93,7 +93,7 @@
 [^1-28]: An ephah is a dry measure of about 20 quarts (22 liters).
 [^1-29]: Literally "And the boy was a boy".
 [^1-30]: Literally "By the life of your *nephesh*".
-[^1-31]: Literally "And I also have made him asked to Yahweh", that is, lent or given him. The verb is a form of *sha'al*, "ask".
+[^1-31]: Literally "And I also have made him asked to the LORD", that is, lent or given him. The verb is a form of *sha'al*, "ask".
 [^1-32]: Hebrew *sha'ul*, "asked for, lent", the same word as the name Saul.
 [^1-33]: The Hebrew does not say who "he" is: Elkanah, or the boy Samuel.
 
@@ -101,29 +101,29 @@
 
 *Status: draft*
 
-**1** Hannah prayed and said, "My heart rejoices in Yahweh;[^2-1] my horn[^2-2] is lifted high in Yahweh. My mouth laughs at my enemies,[^2-3] for I rejoice in your salvation.
+**1** Hannah prayed and said, "My heart rejoices in the LORD;[^2-1] my horn[^2-2] is lifted high in the LORD. My mouth laughs at my enemies,[^2-3] for I rejoice in your salvation.
 
-**2** There is no one holy like Yahweh; there is no one besides you. There is no rock like our God.
+**2** There is no one holy like the LORD; there is no one besides you. There is no rock like our God.
 
-**3** Do not keep talking so proudly, or let arrogant words come out of your mouth. For Yahweh is a God who knows,[^2-4] and by him actions are weighed.[^2-5]
+**3** Do not keep talking so proudly, or let arrogant words come out of your mouth. For the LORD is a God who knows,[^2-4] and by him actions are weighed.[^2-5]
 
 **4** The bows of the mighty are broken, but those who stumbled are clothed with strength.[^2-6]
 
 **5** Those who were full hire themselves out for bread, but those who were hungry hunger no more.[^2-7] The woman who could not have children has given birth to seven, but the mother of many sons wastes away.
 
-**6** Yahweh puts to death and brings to life. He brings down to Sheol[^2-8] and raises up.
+**6** The LORD puts to death and brings to life. He brings down to Sheol[^2-8] and raises up.
 
-**7** Yahweh makes poor and makes rich. He brings low; he also lifts up.
+**7** The LORD makes poor and makes rich. He brings low; he also lifts up.
 
-**8** He raises the poor from the dust; he lifts the needy from the ash heap,[^2-9] to seat them with nobles and give them a seat of honor.[^2-10] For the pillars[^2-11] of the earth belong to Yahweh, and he has set the world on them.
+**8** He raises the poor from the dust; he lifts the needy from the ash heap,[^2-9] to seat them with nobles and give them a seat of honor.[^2-10] For the pillars[^2-11] of the earth belong to the LORD, and he has set the world on them.
 
 **9** He guards the feet of his faithful ones,[^2-12] but the wicked are silenced in darkness, for no one wins by strength.
 
-**10** Those who oppose Yahweh will be shattered; he will thunder against them from heaven.[^2-13] Yahweh will judge the ends of the earth. He will give strength to his king and lift high the horn of his anointed."[^2-14]
+**10** Those who oppose the LORD will be shattered; he will thunder against them from heaven.[^2-13] The LORD will judge the ends of the earth. He will give strength to his king and lift high the horn of his anointed."[^2-14]
 
-**11** Then Elkanah went home to Ramah, but the boy served Yahweh in the presence of Eli the priest.
+**11** Then Elkanah went home to Ramah, but the boy served the LORD in the presence of Eli the priest.
 
-**12** Now the sons of Eli were worthless men.[^2-15] They did not know Yahweh.
+**12** Now the sons of Eli were worthless men.[^2-15] They did not know the LORD.
 
 **13** This was how the priests dealt with the people:[^2-16] whenever anyone offered a sacrifice, the priest's servant[^2-17] would come while the meat was boiling, with a three-pronged fork in his hand.
 
@@ -133,33 +133,33 @@
 
 **16** If the man said to him, "Let them burn the fat first, and then take whatever you want," he would say, "No,[^2-20] you must give it now. If not, I will take it by force."
 
-**17** So the sin of the young men was very great in the sight of Yahweh, for the men treated Yahweh's offering[^2-21] with contempt.
+**17** So the sin of the young men was very great in the sight of the LORD, for the men treated the LORD's offering[^2-21] with contempt.
 
-**18** But Samuel was serving before Yahweh, a boy wearing[^2-22] a linen ephod.[^2-23]
+**18** But Samuel was serving before the LORD, a boy wearing[^2-22] a linen ephod.[^2-23]
 
 **19** His mother would make him a little robe and bring it up to him every year, when she went up with her husband to offer the yearly sacrifice.
 
-**20** Eli would bless Elkanah and his wife and say, "May Yahweh give you children[^2-24] by this woman in place of the one she asked for and gave to Yahweh."[^2-25] Then they would go home.
+**20** Eli would bless Elkanah and his wife and say, "May the LORD give you children[^2-24] by this woman in place of the one she asked for and gave to the LORD."[^2-25] Then they would go home.
 
-**21** Yahweh came to help[^2-26] Hannah. She became pregnant and gave birth to three sons and two daughters. And the boy Samuel grew up in the presence of Yahweh.
+**21** The LORD came to help[^2-26] Hannah. She became pregnant and gave birth to three sons and two daughters. And the boy Samuel grew up in the presence of the LORD.
 
 **22** Eli was very old. He heard about everything his sons were doing to all Israel, and how they slept with the women who served[^2-27] at the entrance of the tent of meeting.
 
 **23** He said to them, "Why do you do such things? I hear about your evil deeds from all the people.
 
-**24** No, my sons! The report I hear spreading among Yahweh's people is not good.[^2-28]
+**24** No, my sons! The report I hear spreading among the LORD's people is not good.[^2-28]
 
-**25** If one person sins against another, God may mediate for him.[^2-29] But if someone sins against Yahweh, who will intercede for him?" But they would not listen to their father, for Yahweh wanted to put them to death.
+**25** If one person sins against another, God may mediate for him.[^2-29] But if someone sins against the LORD, who will intercede for him?" But they would not listen to their father, for the LORD wanted to put them to death.
 
-**26** And the boy Samuel kept growing, both in stature and in favor[^2-30] with Yahweh and with people.
+**26** And the boy Samuel kept growing, both in stature and in favor[^2-30] with the LORD and with people.
 
-**27** A man of God came to Eli and said to him, "This is what Yahweh says: 'Did I not reveal myself to your father's family when they were in Egypt, subject to Pharaoh's household?[^2-31]
+**27** A man of God came to Eli and said to him, "This is what the LORD says: 'Did I not reveal myself to your father's family when they were in Egypt, subject to Pharaoh's household?[^2-31]
 
 **28** I chose him[^2-32] out of all the tribes of Israel to be my priest, to go up to my altar, to burn incense, and to wear an ephod in my presence. And I gave your father's family all the offerings by fire[^2-33] from the Israelites.
 
 **29** Why do you kick at[^2-34] my sacrifice and my offering, which I commanded for my dwelling?[^2-35] Why do you honor your sons more than me, by making yourselves fat on the best part of every offering of my people Israel?
 
-**30** Therefore Yahweh, the God of Israel, declares: I did say that your family and your father's family would walk before me forever. But now Yahweh declares: Far be it from me! For those who honor me I will honor, and those who despise me will be treated with contempt.
+**30** Therefore the LORD, the God of Israel, declares: I did say that your family and your father's family would walk before me forever. But now the LORD declares: Far be it from me! For those who honor me I will honor, and those who despise me will be treated with contempt.
 
 **31** The days are coming when I will cut off your strength[^2-36] and the strength of your father's family, so that there will be no old man in your family.
 
@@ -173,7 +173,7 @@
 
 **36** Everyone who is left in your family will come and bow down to him for a piece[^2-44] of silver and a loaf of bread. He will say, "Please appoint me to one of the priestly offices, so that I may have a scrap of bread to eat."'"
 
-[^2-1]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^2-1]: *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles.
 [^2-2]: The horn, as of a wild ox, is an image of strength and dignity. Also in verse 10.
 [^2-3]: Literally "My mouth is wide over my enemies".
 [^2-4]: Literally "a God of knowledge".
@@ -185,22 +185,22 @@
 [^2-10]: Literally "and make them inherit a throne of glory".
 [^2-11]: Hebrew *metsuqim*, a rare word, perhaps "foundations".
 [^2-12]: Hebrew *chasidim*, a word related to *chesed*, "faithful love". The Hebrew text is written "his faithful one" but read "his faithful ones".
-[^2-13]: The Hebrew text is written "The one who opposes Yahweh will be shattered; he will thunder against him" but read "Those who oppose ... against them". The Septuagint adds at this point words close to Jeremiah 9:22–23 (9:23–24 in most English Bibles): "Let not the wise boast in his wisdom ..."
-[^2-14]: Hebrew *meshicho*, "his anointed one", from *mashiach*, the word behind "Messiah". Here it means the king anointed by Yahweh.
+[^2-13]: The Hebrew text is written "The one who opposes the LORD will be shattered; he will thunder against him" but read "Those who oppose ... against them". The Septuagint adds at this point words close to Jeremiah 9:22–23 (9:23–24 in most English Bibles): "Let not the wise boast in his wisdom ..."
+[^2-14]: Hebrew *meshicho*, "his anointed one", from *mashiach*, the word behind "Messiah". Here it means the king anointed by the LORD.
 [^2-15]: Literally "sons of *beliyya'al*", "sons of worthlessness": scoundrels.
 [^2-16]: Literally "the *mishpat* (custom, rule) of the priests with the people".
 [^2-17]: Hebrew *na'ar*, "boy, young man", often a servant or attendant. Also in verse 15; "young men" in verse 17 is the plural of the same word.
 [^2-18]: Literally "whatever the fork brought up, the priest would take with it".
-[^2-19]: Literally "burned to smoke", that is, on the altar as Yahweh's portion (Leviticus 3:16; 7:25). Also in verse 16.
+[^2-19]: Literally "burned to smoke", that is, on the altar as the LORD's portion (Leviticus 3:16; 7:25). Also in verse 16.
 [^2-20]: The Hebrew text is written "he would say to him" but read "he would say, 'No'".
 [^2-21]: Hebrew *minchah*, often a grain offering, but here offerings in general.
 [^2-22]: Literally "girded with".
 [^2-23]: Hebrew *ephod*. Here a simple linen garment worn by those who served at the sanctuary (22:18; 2 Samuel 6:14). The high priest's ephod, a richer garment, is described in Exodus 28:6–14. Also in verse 28.
 [^2-24]: Literally "seed".
-[^2-25]: Literally "in place of the request which he asked for Yahweh", another play on *sha'al*, "ask, lend" (1:28).
+[^2-25]: Literally "in place of the request which he asked for the LORD", another play on *sha'al*, "ask, lend" (1:28).
 [^2-26]: Hebrew *paqad*, "attend to, take note of, come to help".
 [^2-27]: Hebrew *tsove'ot*, as in Exodus 38:8. The Septuagint does not have "and how they slept with the women who served at the entrance of the tent of meeting".
-[^2-28]: Or "The report I hear is not good: you are making Yahweh's people sin."
+[^2-28]: Or "The report I hear is not good: you are making the LORD's people sin."
 [^2-29]: Hebrew *elohim*, which can also mean "the judges" (compare Exodus 21:6).
 [^2-30]: Literally "and good".
 [^2-31]: Literally "to the house of Pharaoh". The Septuagint reads "slaves to the house of Pharaoh".
@@ -222,27 +222,27 @@
 
 *Status: draft*
 
-**1** The boy Samuel was serving Yahweh[^3-1] under Eli. In those days the word of Yahweh was rare; visions were not common.[^3-2]
+**1** The boy Samuel was serving the LORD[^3-1] under Eli. In those days the word of the LORD was rare; visions were not common.[^3-2]
 
 **2** One day Eli was lying down in his usual place. His eyes[^3-3] had begun to grow dim, and he could not see.
 
-**3** The lamp of God[^3-4] had not yet gone out, and Samuel was lying down in the temple[^3-5] of Yahweh, where the ark of God was.
+**3** The lamp of God[^3-4] had not yet gone out, and Samuel was lying down in the temple[^3-5] of the LORD, where the ark of God was.
 
-**4** Then Yahweh called Samuel, and he said, "Here I am."
+**4** Then the LORD called Samuel, and he said, "Here I am."
 
 **5** He ran to Eli and said, "Here I am. You called me." But Eli said, "I did not call you. Go back and lie down." So he went and lay down.
 
-**6** Yahweh called again, "Samuel!" Samuel got up, went to Eli and said, "Here I am. You called me." But Eli said, "I did not call you, my son. Go back and lie down."
+**6** The LORD called again, "Samuel!" Samuel got up, went to Eli and said, "Here I am. You called me." But Eli said, "I did not call you, my son. Go back and lie down."
 
-**7** Samuel did not yet know Yahweh, and the word of Yahweh had not yet been revealed to him.
+**7** Samuel did not yet know the LORD, and the word of the LORD had not yet been revealed to him.
 
-**8** Yahweh called Samuel a third time. He got up, went to Eli and said, "Here I am. You called me." Then Eli understood that Yahweh was calling the boy.
+**8** The LORD called Samuel a third time. He got up, went to Eli and said, "Here I am. You called me." Then Eli understood that the LORD was calling the boy.
 
-**9** So Eli said to Samuel, "Go and lie down. If he calls you, say, 'Speak, Yahweh, for your servant is listening.'" So Samuel went and lay down in his place.
+**9** So Eli said to Samuel, "Go and lie down. If he calls you, say, 'Speak, LORD, for your servant is listening.'" So Samuel went and lay down in his place.
 
-**10** Yahweh came and stood there, and called as he had before, "Samuel! Samuel!" Samuel said, "Speak, for your servant is listening."
+**10** The LORD came and stood there, and called as he had before, "Samuel! Samuel!" Samuel said, "Speak, for your servant is listening."
 
-**11** Yahweh said to Samuel, "I am about to do something in Israel that will make both ears of everyone who hears about it tingle.
+**11** The LORD said to Samuel, "I am about to do something in Israel that will make both ears of everyone who hears about it tingle.
 
 **12** On that day I will carry out against Eli everything I have spoken against his family, from beginning to end.
 
@@ -250,21 +250,21 @@
 
 **14** Therefore I have sworn to the family of Eli that the guilt of Eli's family will never be atoned for[^3-8] by sacrifice or offering."
 
-**15** Samuel lay down until morning. Then he opened the doors of the house of Yahweh. Samuel was afraid to tell Eli about the vision.
+**15** Samuel lay down until morning. Then he opened the doors of the house of the LORD. Samuel was afraid to tell Eli about the vision.
 
 **16** But Eli called Samuel and said, "Samuel, my son." He said, "Here I am."
 
 **17** Eli said, "What was it that he said to you? Please do not hide it from me. May God deal with you, and more severely, if you hide from me a single word of all he said to you."[^3-9]
 
-**18** So Samuel told him everything and hid nothing from him. And Eli said, "He is Yahweh. Let him do what seems good to him."
+**18** So Samuel told him everything and hid nothing from him. And Eli said, "He is the LORD. Let him do what seems good to him."
 
-**19** Samuel grew up, and Yahweh was with him and let none of his words fall to the ground.[^3-10]
+**19** Samuel grew up, and the LORD was with him and let none of his words fall to the ground.[^3-10]
 
-**20** All Israel from Dan to Beersheba knew that Samuel was established[^3-11] as a prophet of Yahweh.
+**20** All Israel from Dan to Beersheba knew that Samuel was established[^3-11] as a prophet of the LORD.
 
-**21** Yahweh continued to appear at Shiloh, for Yahweh revealed himself to Samuel at Shiloh through the word of Yahweh.
+**21** The LORD continued to appear at Shiloh, for the LORD revealed himself to Samuel at Shiloh through the word of the LORD.
 
-[^3-1]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^3-1]: *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles.
 [^3-2]: Literally "there was no vision breaking out".
 [^3-3]: The Hebrew text is written "his eye" but read "his eyes".
 [^3-4]: The lamp in the sanctuary, which was kept burning through the night (Exodus 27:20–21).
@@ -284,13 +284,13 @@
 
 **2** The Philistines drew up their lines to face Israel. The battle spread,[^4-3] and Israel was defeated by the Philistines, who struck down about four thousand men on the battlefield.
 
-**3** When the troops came back to the camp, the elders of Israel said, "Why has Yahweh[^4-4] let us be defeated today by the Philistines? Let us bring the ark of Yahweh's covenant here from Shiloh, so that it may come among us and save us from the power of our enemies."[^4-5]
+**3** When the troops came back to the camp, the elders of Israel said, "Why has the LORD[^4-4] let us be defeated today by the Philistines? Let us bring the ark of the LORD's covenant here from Shiloh, so that it may come among us and save us from the power of our enemies."[^4-5]
 
-**4** So the people sent men to Shiloh, and they brought from there the ark of the covenant of Yahweh of Armies,[^4-6] who is enthroned on[^4-7] the cherubim.[^4-8] The two sons of Eli, Hophni and Phinehas, were there with the ark of the covenant of God.
+**4** So the people sent men to Shiloh, and they brought from there the ark of the covenant of the LORD of Armies,[^4-6] who is enthroned on[^4-7] the cherubim.[^4-8] The two sons of Eli, Hophni and Phinehas, were there with the ark of the covenant of God.
 
-**5** When the ark of Yahweh's covenant came into the camp, all Israel gave a great shout, so that the ground shook.
+**5** When the ark of the LORD's covenant came into the camp, all Israel gave a great shout, so that the ground shook.
 
-**6** When the Philistines heard the noise of the shouting, they said, "What is this great shouting in the camp of the Hebrews?" When they learned that the ark of Yahweh had come into the camp,
+**6** When the Philistines heard the noise of the shouting, they said, "What is this great shouting in the camp of the Hebrews?" When they learned that the ark of the LORD had come into the camp,
 
 **7** the Philistines were afraid, for they said, "God has come into the camp." They said, "We are in trouble![^4-9] Nothing like this has ever happened before.[^4-10]
 
@@ -327,7 +327,7 @@
 [^4-1]: The Septuagint reads "In those days the Philistines gathered together for war against Israel, and Israel went out to meet them for battle".
 [^4-2]: Hebrew *ha-even ha-ezer*, "the stone of help". The place is named in 7:12.
 [^4-3]: The meaning of the Hebrew verb is uncertain. Literally "the battle was spread out".
-[^4-4]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^4-4]: *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles.
 [^4-5]: Or "so that he may come among us and save us". Literally "from the palm of our enemies".
 [^4-6]: Hebrew *YHWH tseva'ot*, traditionally "the LORD of hosts" or "the LORD Almighty". *Tseva'ot* means armies: the heavenly hosts and the armies of Israel.
 [^4-7]: Or "who sits on", "who dwells between".
@@ -350,19 +350,19 @@
 
 **2** The Philistines took the ark of God, brought it into the temple of Dagon[^5-1] and set it up beside Dagon.
 
-**3** When the people of Ashdod got up early the next day, there was Dagon, fallen face down on the ground before the ark of Yahweh.[^5-2] They took Dagon and put him back in his place.
+**3** When the people of Ashdod got up early the next day, there was Dagon, fallen face down on the ground before the ark of the LORD.[^5-2] They took Dagon and put him back in his place.
 
-**4** But when they got up early the next morning, there was Dagon, fallen face down on the ground before the ark of Yahweh. Dagon's head and both his hands lay broken off on the threshold. Only Dagon's body was left.[^5-3]
+**4** But when they got up early the next morning, there was Dagon, fallen face down on the ground before the ark of the LORD. Dagon's head and both his hands lay broken off on the threshold. Only Dagon's body was left.[^5-3]
 
 **5** That is why to this day neither the priests of Dagon nor anyone who enters the temple of Dagon steps on the threshold of Dagon in Ashdod.
 
-**6** The hand of Yahweh was heavy on the people of Ashdod. He devastated them and struck them with tumors,[^5-4] both Ashdod and its territory.[^5-5]
+**6** The hand of the LORD was heavy on the people of Ashdod. He devastated them and struck them with tumors,[^5-4] both Ashdod and its territory.[^5-5]
 
 **7** When the men of Ashdod saw what was happening, they said, "The ark of the God of Israel must not stay with us, for his hand is hard on us and on Dagon our god."
 
 **8** So they sent for all the rulers of the Philistines[^5-6] and gathered them together, and asked, "What shall we do with the ark of the God of Israel?" They answered, "Let the ark of the God of Israel be moved to Gath." So they moved the ark of the God of Israel there.
 
-**9** But after they had moved it, the hand of Yahweh was against the city, and there was a very great panic. He struck the people of the city, from the least to the greatest, and tumors broke out on them.[^5-7]
+**9** But after they had moved it, the hand of the LORD was against the city, and there was a very great panic. He struck the people of the city, from the least to the greatest, and tumors broke out on them.[^5-7]
 
 **10** So they sent the ark of God to Ekron. But as the ark of God came into Ekron, the people of Ekron cried out, "They have brought the ark of the God of Israel around to us to kill us and our people!"[^5-8]
 
@@ -371,7 +371,7 @@
 **12** Those who did not die were struck with tumors, and the cry of the city went up to heaven.
 
 [^5-1]: Literally "the house of Dagon", also in verse 5. Dagon was a god worshiped by the Philistines and by other peoples of the region, probably a god of grain.
-[^5-2]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^5-2]: *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles.
 [^5-3]: Literally "only Dagon was left on him".
 [^5-4]: The Hebrew text is written *ofalim*, "swellings", but read *techorim*, "tumors", a less coarse word. Either may refer to the swellings of a plague. Also in verses 9 and 12.
 [^5-5]: The Septuagint adds "And mice sprang up in the middle of their land, and there was a great panic of death in the city." Compare the gold mice in 6:4–5.
@@ -383,9 +383,9 @@
 
 *Status: draft*
 
-**1** The ark of Yahweh[^6-1] was in the territory[^6-2] of the Philistines for seven months.
+**1** The ark of the LORD[^6-1] was in the territory[^6-2] of the Philistines for seven months.
 
-**2** The Philistines called for the priests and the diviners and asked, "What shall we do with the ark of Yahweh? Tell us what we should send with it when we return it to its place."
+**2** The Philistines called for the priests and the diviners and asked, "What shall we do with the ark of the LORD? Tell us what we should send with it when we return it to its place."
 
 **3** They said, "If you send away the ark of the God of Israel, do not send it away empty. You must give something back to him as a guilt offering.[^6-3] Then you will be healed, and you will find out why his hand has not turned away from you."[^6-4]
 
@@ -397,35 +397,35 @@
 
 **7** So now, get a new cart ready, and two cows that have calves and have never been yoked. Hitch the cows to the cart, but take their calves away from them, back home.
 
-**8** Take the ark of Yahweh and put it on the cart. Put the gold objects that you are giving back to him as a guilt offering in a box beside it. Then send it off and let it go.
+**8** Take the ark of the LORD and put it on the cart. Put the gold objects that you are giving back to him as a guilt offering in a box beside it. Then send it off and let it go.
 
 **9** Watch it. If it goes up by the road to its own territory, toward Beth-shemesh, then it is he who has brought this great disaster on us. But if not, we will know that it was not his hand that struck us. It happened to us by chance."
 
 **10** The men did so. They took two cows that had calves and hitched them to the cart, and shut up their calves at home.
 
-**11** They put the ark of Yahweh on the cart, along with the box, the gold mice and the images of their tumors.
+**11** They put the ark of the LORD on the cart, along with the box, the gold mice and the images of their tumors.
 
 **12** The cows went straight along the road toward Beth-shemesh. They kept to the one highway, lowing as they went, and did not turn aside to the right or to the left. The rulers of the Philistines followed them as far as the border of Beth-shemesh.
 
 **13** The people of Beth-shemesh were harvesting wheat in the valley. When they looked up and saw the ark, they were overjoyed to see it.
 
-**14** The cart came into the field of Joshua of Beth-shemesh and stopped there. A large stone was there. They split up the wood of the cart and offered the cows as a burnt offering to Yahweh.
+**14** The cart came into the field of Joshua of Beth-shemesh and stopped there. A large stone was there. They split up the wood of the cart and offered the cows as a burnt offering to the LORD.
 
-**15** The Levites took down the ark of Yahweh and the box that was with it, which held the gold objects, and put them on the large stone. That day the people of Beth-shemesh offered burnt offerings and made sacrifices to Yahweh.
+**15** The Levites took down the ark of the LORD and the box that was with it, which held the gold objects, and put them on the large stone. That day the people of Beth-shemesh offered burnt offerings and made sacrifices to the LORD.
 
 **16** The five rulers of the Philistines saw this, and they went back to Ekron that same day.
 
-**17** These are the gold tumors that the Philistines gave back as a guilt offering to Yahweh: one for Ashdod, one for Gaza, one for Ashkelon, one for Gath, one for Ekron.
+**17** These are the gold tumors that the Philistines gave back as a guilt offering to the LORD: one for Ashdod, one for Gaza, one for Ashkelon, one for Gath, one for Ekron.
 
-**18** And the gold mice were for the number of all the Philistine towns belonging to the five rulers, from fortified cities to country villages, as far as Great Abel,[^6-11] where they set down the ark of Yahweh, which is in the field of Joshua of Beth-shemesh to this day.
+**18** And the gold mice were for the number of all the Philistine towns belonging to the five rulers, from fortified cities to country villages, as far as Great Abel,[^6-11] where they set down the ark of the LORD, which is in the field of Joshua of Beth-shemesh to this day.
 
-**19** He struck down some of the men of Beth-shemesh, because they had looked into[^6-12] the ark of Yahweh. He struck down seventy men among the people, fifty thousand men.[^6-13] The people mourned because Yahweh had struck the people with a great slaughter.
+**19** He struck down some of the men of Beth-shemesh, because they had looked into[^6-12] the ark of the LORD. He struck down seventy men among the people, fifty thousand men.[^6-13] The people mourned because the LORD had struck the people with a great slaughter.
 
-**20** The men of Beth-shemesh said, "Who can stand before Yahweh, this holy God? To whom will he go up from here?"[^6-14]
+**20** The men of Beth-shemesh said, "Who can stand before the LORD, this holy God? To whom will he go up from here?"[^6-14]
 
-**21** So they sent messengers to the people of Kiriath-jearim, saying, "The Philistines have returned the ark of Yahweh. Come down and take it up to your town."[^6-15]
+**21** So they sent messengers to the people of Kiriath-jearim, saying, "The Philistines have returned the ark of the LORD. Come down and take it up to your town."[^6-15]
 
-[^6-1]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^6-1]: *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles.
 [^6-2]: Literally "field".
 [^6-3]: Hebrew *asham*, the offering made to make amends for a wrong (Leviticus 5:14–19). Also in verses 4, 8 and 17.
 [^6-4]: In place of "and you will find out", the Septuagint reads "and atonement will be made for you".
@@ -437,7 +437,7 @@
 [^6-10]: Or "made fools of them". Hebrew *hit'allel*, as in Exodus 10:2.
 [^6-11]: Or "the great meadow". The Septuagint and the Targum read "the great stone" (Hebrew *even* instead of *avel*), as in verses 14–15.
 [^6-12]: Or "looked at".
-[^6-13]: Literally "seventy men, fifty thousand men", an unusual way of giving a number. The Septuagint begins the verse differently: "But the sons of Jeconiah did not rejoice with the men of Beth-shemesh when they saw the ark of Yahweh, and he struck down seventy men of them, and fifty thousand men."
+[^6-13]: Literally "seventy men, fifty thousand men", an unusual way of giving a number. The Septuagint begins the verse differently: "But the sons of Jeconiah did not rejoice with the men of Beth-shemesh when they saw the ark of the LORD, and he struck down seventy men of them, and fifty thousand men."
 [^6-14]: Or "To whom will it go up from us?", that is, the ark.
 [^6-15]: Literally "bring it up to you".
 
@@ -445,31 +445,31 @@
 
 *Status: draft*
 
-**1** So the men of Kiriath-jearim came and took up the ark of Yahweh.[^7-1] They brought it to the house of Abinadab on the hill,[^7-2] and they consecrated his son Eleazar to take care of the ark of Yahweh.
+**1** So the men of Kiriath-jearim came and took up the ark of the LORD.[^7-1] They brought it to the house of Abinadab on the hill,[^7-2] and they consecrated his son Eleazar to take care of the ark of the LORD.
 
-**2** From the day the ark came to stay at Kiriath-jearim, a long time passed, twenty years, and all the house of Israel lamented after Yahweh.[^7-3]
+**2** From the day the ark came to stay at Kiriath-jearim, a long time passed, twenty years, and all the house of Israel lamented after the LORD.[^7-3]
 
-**3** Samuel said to the whole house of Israel, "If you are returning to Yahweh with all your heart, get rid of the foreign gods and the Ashtoreths[^7-4] among you. Set your hearts on Yahweh and serve him alone, and he will rescue you from the power of the Philistines."
+**3** Samuel said to the whole house of Israel, "If you are returning to the LORD with all your heart, get rid of the foreign gods and the Ashtoreths[^7-4] among you. Set your hearts on the LORD and serve him alone, and he will rescue you from the power of the Philistines."
 
-**4** So the Israelites got rid of the Baals[^7-5] and the Ashtoreths, and served Yahweh alone.
+**4** So the Israelites got rid of the Baals[^7-5] and the Ashtoreths, and served the LORD alone.
 
-**5** Then Samuel said, "Gather all Israel at Mizpah, and I will pray to Yahweh for you."
+**5** Then Samuel said, "Gather all Israel at Mizpah, and I will pray to the LORD for you."
 
-**6** So they gathered at Mizpah. They drew water and poured it out before Yahweh. That day they fasted, and they said there, "We have sinned against Yahweh." And Samuel judged[^7-6] the Israelites at Mizpah.
+**6** So they gathered at Mizpah. They drew water and poured it out before the LORD. That day they fasted, and they said there, "We have sinned against the LORD." And Samuel judged[^7-6] the Israelites at Mizpah.
 
 **7** When the Philistines heard that the Israelites had gathered at Mizpah, the rulers of the Philistines went up against Israel. When the Israelites heard of it, they were afraid of the Philistines.
 
-**8** The Israelites said to Samuel, "Do not stop crying out to Yahweh our God for us, so that he will save us from the power of the Philistines."
+**8** The Israelites said to Samuel, "Do not stop crying out to the LORD our God for us, so that he will save us from the power of the Philistines."
 
-**9** So Samuel took a lamb that was still nursing and offered it as a whole burnt offering to Yahweh. Samuel cried out to Yahweh for Israel, and Yahweh answered him.
+**9** So Samuel took a lamb that was still nursing and offered it as a whole burnt offering to the LORD. Samuel cried out to the LORD for Israel, and the LORD answered him.
 
-**10** While Samuel was offering the burnt offering, the Philistines drew near to fight against Israel. But that day Yahweh thundered with a mighty thunder[^7-7] against the Philistines and threw them into confusion, and they were defeated by Israel.
+**10** While Samuel was offering the burnt offering, the Philistines drew near to fight against Israel. But that day the LORD thundered with a mighty thunder[^7-7] against the Philistines and threw them into confusion, and they were defeated by Israel.
 
 **11** The men of Israel went out from Mizpah and pursued the Philistines, striking them down all the way to a point below Beth-car.
 
-**12** Then Samuel took a stone and set it up between Mizpah and Shen.[^7-8] He named it Ebenezer,[^7-9] saying, "Up to now Yahweh has helped us."
+**12** Then Samuel took a stone and set it up between Mizpah and Shen.[^7-8] He named it Ebenezer,[^7-9] saying, "Up to now the LORD has helped us."
 
-**13** So the Philistines were subdued, and they did not come into Israel's territory again. The hand of Yahweh was against the Philistines all the days of Samuel.
+**13** So the Philistines were subdued, and they did not come into Israel's territory again. The hand of the LORD was against the Philistines all the days of Samuel.
 
 **14** The towns the Philistines had taken from Israel were returned to Israel, from Ekron to Gath, and Israel rescued their territory from the power of the Philistines. There was also peace between Israel and the Amorites.
 
@@ -477,11 +477,11 @@
 
 **16** Every year he went on a circuit to Bethel, Gilgal and Mizpah, and he judged Israel in all these places.
 
-**17** Then he would return to Ramah, because his home was there, and there too he judged Israel. He built an altar there to Yahweh.
+**17** Then he would return to Ramah, because his home was there, and there too he judged Israel. He built an altar there to the LORD.
 
-[^7-1]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^7-1]: *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles.
 [^7-2]: Or "at Gibeah". Hebrew *ba-giv'ah*, "on the hill".
-[^7-3]: The meaning of the Hebrew verb is uncertain: perhaps "longed for Yahweh" or "turned to follow Yahweh".
+[^7-3]: The meaning of the Hebrew verb is uncertain: perhaps "longed for the LORD" or "turned to follow the LORD".
 [^7-4]: Hebrew *ashtarot*, images of Astarte (Ashtoreth), a Canaanite goddess. Also in verse 4.
 [^7-5]: Hebrew *ba'alim*, images or local forms of Baal, the Canaanite storm god.
 [^7-6]: Or "led", "governed". Also in verses 15–17; see 4:18.
@@ -503,15 +503,15 @@
 
 **5** They said to him, "Look, you are old, and your sons do not follow your ways. Now appoint a king for us to judge us,[^8-2] like all the nations."
 
-**6** But Samuel was displeased when they said, "Give us a king to judge us." So Samuel prayed to Yahweh.[^8-3]
+**6** But Samuel was displeased when they said, "Give us a king to judge us." So Samuel prayed to the LORD.[^8-3]
 
-**7** Yahweh said to Samuel, "Listen to the people in everything they say to you. For it is not you they have rejected; they have rejected me from being king over them.
+**7** The LORD said to Samuel, "Listen to the people in everything they say to you. For it is not you they have rejected; they have rejected me from being king over them.
 
 **8** They are doing to you just what they have done from the day I brought them up out of Egypt until this day, forsaking me and serving other gods.
 
 **9** Now listen to them. But you must solemnly warn them and tell them the rights[^8-4] of the king who will reign over them."
 
-**10** Samuel told all the words of Yahweh to the people who were asking him for a king.
+**10** Samuel told all the words of the LORD to the people who were asking him for a king.
 
 **11** He said, "These will be the rights of the king who will reign over you: he will take your sons and put them in his chariots and among his horsemen,[^8-5] and they will run in front of his chariots.
 
@@ -527,25 +527,25 @@
 
 **17** He will take a tenth of your flocks, and you yourselves will become his slaves.
 
-**18** On that day you will cry out because of the king you have chosen for yourselves, but Yahweh will not answer you on that day."
+**18** On that day you will cry out because of the king you have chosen for yourselves, but the LORD will not answer you on that day."
 
 **19** But the people refused to listen to Samuel. "No!" they said. "We must have a king over us.
 
 **20** Then we too will be like all the nations. Our king will judge us and go out before us and fight our battles."
 
-**21** When Samuel had heard everything the people said, he repeated it to Yahweh.[^8-9]
+**21** When Samuel had heard everything the people said, he repeated it to the LORD.[^8-9]
 
-**22** Yahweh said to Samuel, "Listen to them and give them a king." Then Samuel said to the men of Israel, "Go back, each of you, to your own town."
+**22** The LORD said to Samuel, "Listen to them and give them a king." Then Samuel said to the men of Israel, "Go back, each of you, to your own town."
 
 [^8-1]: The Hebrew text is written "his way" but read "his ways".
 [^8-2]: Or "to govern us", "to lead us". Also in verses 6 and 20.
-[^8-3]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^8-3]: *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles.
 [^8-4]: Hebrew *mishpat*, "justice, custom, right": here the king's claims on his people, or his way of ruling. Also in verse 11.
 [^8-5]: Or "with his horses".
 [^8-6]: Or "officials". Hebrew *avadim*, "servants", here the king's courtiers. Also in verse 15.
 [^8-7]: Hebrew *sarisim*, court officials. The word can also mean "eunuchs".
 [^8-8]: The Septuagint reads "your best cattle".
-[^8-9]: Literally "spoke them in the ears of Yahweh".
+[^8-9]: Literally "spoke them in the ears of the LORD".
 
 ## Chapter 9
 
@@ -579,11 +579,11 @@
 
 **14** So they went up to the town. As they were coming into the town, there was Samuel, coming out toward them on his way up to the high place.
 
-**15** Now the day before Saul came, Yahweh[^9-10] had revealed this to Samuel:[^9-11]
+**15** Now the day before Saul came, the LORD[^9-10] had revealed this to Samuel:[^9-11]
 
 **16** "About this time tomorrow I will send you a man from the land of Benjamin. Anoint him to be ruler[^9-12] over my people Israel. He will save my people from the power of the Philistines. For I have looked on my people,[^9-13] because their cry has come to me."
 
-**17** When Samuel saw Saul, Yahweh told him,[^9-14] "There is the man I told you about! He will govern[^9-15] my people."
+**17** When Samuel saw Saul, the LORD told him,[^9-14] "There is the man I told you about! He will govern[^9-15] my people."
 
 **18** Saul came up to Samuel in the gateway and said, "Please tell me where the seer's house is."
 
@@ -614,7 +614,7 @@
 [^9-7]: Literally "Your word is good."
 [^9-8]: Hebrew *bamah*, a place of worship, often on a hill. Also in verses 13, 14, 19 and 25.
 [^9-9]: Literally "for him, as the day, you will find him".
-[^9-10]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^9-10]: *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles.
 [^9-11]: Literally "had uncovered Samuel's ear, saying".
 [^9-12]: Hebrew *nagid*, "leader, ruler", someone designated to lead. Traditionally "prince" or "captain".
 [^9-13]: The Septuagint reads "I have looked on the affliction of my people".
@@ -634,7 +634,7 @@
 
 *Status: draft*
 
-**1** Then Samuel took a flask of olive oil and poured it on Saul's head, and he kissed him and said, "Has not Yahweh[^10-1] anointed you ruler[^10-2] over his own people?[^10-3]
+**1** Then Samuel took a flask of olive oil and poured it on Saul's head, and he kissed him and said, "Has not the LORD[^10-1] anointed you ruler[^10-2] over his own people?[^10-3]
 
 **2** When you leave me today, you will meet two men near Rachel's tomb, at Zelzah in the territory of Benjamin. They will say to you, 'The donkeys you went to look for have been found. Now your father has stopped thinking about the donkeys and is worried about you. He is saying, "What shall I do about my son?"'
 
@@ -644,7 +644,7 @@
 
 **5** After that you will come to Gibeah of God,[^10-5] where the Philistine garrison[^10-6] is. As you come into the town, you will meet a band of prophets coming down from the high place, with harps, tambourines, flutes and lyres[^10-7] in front of them, and they will be prophesying.[^10-8]
 
-**6** Then the Spirit of Yahweh will rush upon you,[^10-9] and you will prophesy with them and be changed into a different person.
+**6** Then the Spirit of the LORD will rush upon you,[^10-9] and you will prophesy with them and be changed into a different person.
 
 **7** When these signs have come to you, do whatever the occasion calls for,[^10-10] for God is with you.
 
@@ -666,31 +666,31 @@
 
 **16** Saul said to his uncle, "He told us plainly that the donkeys had been found." But he did not tell him what Samuel had said about the kingship.
 
-**17** Samuel called the people together to Yahweh at Mizpah.
+**17** Samuel called the people together to the LORD at Mizpah.
 
-**18** He said to the Israelites, "This is what Yahweh, the God of Israel, says: 'I brought Israel up out of Egypt, and I rescued you from the power of the Egyptians and from the power of all the kingdoms that were oppressing you.'
+**18** He said to the Israelites, "This is what the LORD, the God of Israel, says: 'I brought Israel up out of Egypt, and I rescued you from the power of the Egyptians and from the power of all the kingdoms that were oppressing you.'
 
-**19** But today you have rejected your God, who saves you from all your disasters and your troubles. You have said to him,[^10-15] 'Set a king over us instead.' So now present yourselves before Yahweh by your tribes and by your clans."[^10-16]
+**19** But today you have rejected your God, who saves you from all your disasters and your troubles. You have said to him,[^10-15] 'Set a king over us instead.' So now present yourselves before the LORD by your tribes and by your clans."[^10-16]
 
 **20** Samuel brought all the tribes of Israel forward, and the tribe of Benjamin was chosen by lot.[^10-17]
 
 **21** Then he brought the tribe of Benjamin forward clan by clan,[^10-18] and the clan of Matri was chosen. Then Saul son of Kish was chosen. But when they looked for him, he could not be found.
 
-**22** So they inquired of Yahweh again, "Has the man come here yet?" Yahweh said, "There he is, hiding among the baggage."
+**22** So they inquired of the LORD again, "Has the man come here yet?" The LORD said, "There he is, hiding among the baggage."
 
 **23** They ran and brought him from there. When he stood among the people, he was a head taller than any of them.[^10-19]
 
-**24** Samuel said to all the people, "Do you see the man Yahweh has chosen? There is no one like him among all the people." Then all the people shouted, "Long live the king!"
+**24** Samuel said to all the people, "Do you see the man the LORD has chosen? There is no one like him among all the people." Then all the people shouted, "Long live the king!"
 
-**25** Samuel told the people the rules of the kingship.[^10-20] He wrote them in a scroll and placed it before Yahweh. Then Samuel sent all the people away, each to his own home.
+**25** Samuel told the people the rules of the kingship.[^10-20] He wrote them in a scroll and placed it before the LORD. Then Samuel sent all the people away, each to his own home.
 
 **26** Saul too went home to Gibeah, and with him went the valiant men[^10-21] whose hearts God had touched.
 
 **27** But some worthless men[^10-22] said, "How can this man save us?" They despised him and brought him no gift. But he kept silent.[^10-23]
 
-[^10-1]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^10-1]: *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles.
 [^10-2]: Hebrew *nagid*, "leader, ruler"; see 9:16.
-[^10-3]: Literally "over his inheritance". The Septuagint reads "Has not Yahweh anointed you ruler over his people Israel? You will reign over the people of Yahweh and save them from the power of their enemies around them. And this will be the sign for you that Yahweh has anointed you ruler over his inheritance:"
+[^10-3]: Literally "over his inheritance". The Septuagint reads "Has not the LORD anointed you ruler over his people Israel? You will reign over the people of the LORD and save them from the power of their enemies around them. And this will be the sign for you that the LORD has anointed you ruler over his inheritance:"
 [^10-4]: Literally "ask you about *shalom* (well-being)".
 [^10-5]: Hebrew *Giv'at ha-elohim*, "the hill of God".
 [^10-6]: Hebrew *netsiv*, which may mean a garrison, an officer or governor, or a pillar set up as a marker. Compare 13:3.
@@ -728,7 +728,7 @@
 
 **6** When Saul heard these words, the Spirit of God rushed upon him,[^11-3] and he became very angry.
 
-**7** He took a pair of oxen, cut them into pieces, and sent them throughout the territory of Israel by the messengers, saying, "This is what will be done to the oxen of anyone who does not come out after Saul and after Samuel." Then the dread of Yahweh[^11-4] fell on the people, and they came out as one man.
+**7** He took a pair of oxen, cut them into pieces, and sent them throughout the territory of Israel by the messengers, saying, "This is what will be done to the oxen of anyone who does not come out after Saul and after Samuel." Then the dread of the LORD[^11-4] fell on the people, and they came out as one man.
 
 **8** He counted[^11-5] them at Bezek: there were three hundred thousand Israelites and thirty thousand men of Judah.[^11-6]
 
@@ -740,23 +740,23 @@
 
 **12** Then the people said to Samuel, "Who was it that said, 'Is Saul to reign over us?'[^11-10] Hand those men over, so that we may put them to death."
 
-**13** But Saul said, "No one will be put to death today, for today Yahweh has brought victory to Israel."
+**13** But Saul said, "No one will be put to death today, for today the LORD has brought victory to Israel."
 
 **14** Samuel said to the people, "Come, let us go to Gilgal and renew the kingship there."
 
-**15** So all the people went to Gilgal, and there at Gilgal they made Saul king before Yahweh.[^11-11] There they sacrificed fellowship offerings[^11-12] before Yahweh, and Saul and all the men of Israel rejoiced greatly there.
+**15** So all the people went to Gilgal, and there at Gilgal they made Saul king before the LORD.[^11-11] There they sacrificed fellowship offerings[^11-12] before the LORD, and Saul and all the men of Israel rejoiced greatly there.
 
 [^11-1]: Literally "camped against". For the paragraph that 4QSam(a) has before this verse, see the note on 10:27.
 [^11-2]: That is, surrender to you. Also in verse 10.
 [^11-3]: Hebrew *tsalach*, "rush on, come powerfully on"; see 10:6.
-[^11-4]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^11-4]: *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles.
 [^11-5]: Or "mustered".
 [^11-6]: The Septuagint reads "six hundred thousand ... seventy thousand".
 [^11-7]: Literally "you will have deliverance". Hebrew *teshu'ah*, the word translated "victory" in verse 13.
 [^11-8]: That is, to Nahash and the Ammonites.
 [^11-9]: The last part of the night, before dawn.
 [^11-10]: Literally "Saul will reign over us", said scornfully; see 10:27.
-[^11-11]: The Septuagint reads "and there Samuel anointed Saul as king before Yahweh".
+[^11-11]: The Septuagint reads "and there Samuel anointed Saul as king before the LORD".
 [^11-12]: Hebrew *zevachim shelamim*, traditionally "peace offerings"; see 10:8.
 
 ## Chapter 12
@@ -767,64 +767,64 @@
 
 **2** Now here is the king, walking before you.[^12-1] As for me, I am old and gray, and my sons are here with you. I have walked before you from my youth until this day.
 
-**3** Here I am. Testify against me before Yahweh[^12-2] and before his anointed:[^12-3] Whose ox have I taken? Whose donkey have I taken? Whom have I cheated? Whom have I oppressed? From whose hand have I taken a bribe to make me shut my eyes?[^12-4] If I have, I will pay it back to you."
+**3** Here I am. Testify against me before the LORD[^12-2] and before his anointed:[^12-3] Whose ox have I taken? Whose donkey have I taken? Whom have I cheated? Whom have I oppressed? From whose hand have I taken a bribe to make me shut my eyes?[^12-4] If I have, I will pay it back to you."
 
 **4** They said, "You have not cheated us or oppressed us, and you have not taken anything from anyone's hand."
 
-**5** He said to them, "Yahweh is witness against you, and his anointed is witness this day, that you have found nothing in my hand." They said,[^12-5] "He is witness."
+**5** He said to them, "The LORD is witness against you, and his anointed is witness this day, that you have found nothing in my hand." They said,[^12-5] "He is witness."
 
-**6** Samuel said to the people, "It is Yahweh who appointed[^12-6] Moses and Aaron and brought your ancestors up out of the land of Egypt.
+**6** Samuel said to the people, "It is the LORD who appointed[^12-6] Moses and Aaron and brought your ancestors up out of the land of Egypt.
 
-**7** So now stand here, so that I may plead my case against you before Yahweh concerning all the righteous acts[^12-7] of Yahweh, which he has done for you and for your ancestors.
+**7** So now stand here, so that I may plead my case against you before the LORD concerning all the righteous acts[^12-7] of the LORD, which he has done for you and for your ancestors.
 
-**8** When Jacob went into Egypt, your ancestors cried out to Yahweh, and Yahweh sent Moses and Aaron, who brought your ancestors out of Egypt and settled them in this place.
+**8** When Jacob went into Egypt, your ancestors cried out to the LORD, and the LORD sent Moses and Aaron, who brought your ancestors out of Egypt and settled them in this place.
 
-**9** But they forgot Yahweh their God, so he sold them into the power of Sisera, the commander of the army of Hazor, and into the power of the Philistines and of the king of Moab, and they fought against them.
+**9** But they forgot the LORD their God, so he sold them into the power of Sisera, the commander of the army of Hazor, and into the power of the Philistines and of the king of Moab, and they fought against them.
 
-**10** Then they cried out to Yahweh and said,[^12-8] 'We have sinned, for we have forsaken Yahweh and served the Baals and the Ashtoreths. But now rescue us from the power of our enemies, and we will serve you.'
+**10** Then they cried out to the LORD and said,[^12-8] 'We have sinned, for we have forsaken the LORD and served the Baals and the Ashtoreths. But now rescue us from the power of our enemies, and we will serve you.'
 
-**11** So Yahweh sent Jerubbaal,[^12-9] Bedan,[^12-10] Jephthah and Samuel, and he rescued you from the power of your enemies all around you, and you lived in safety.
+**11** So the LORD sent Jerubbaal,[^12-9] Bedan,[^12-10] Jephthah and Samuel, and he rescued you from the power of your enemies all around you, and you lived in safety.
 
-**12** But when you saw that Nahash king of the Ammonites was coming against you, you said to me, 'No, a king must reign over us,' though Yahweh your God was your king.
+**12** But when you saw that Nahash king of the Ammonites was coming against you, you said to me, 'No, a king must reign over us,' though the LORD your God was your king.
 
-**13** Now here is the king you have chosen, the one you asked for. Look, Yahweh has set a king over you.
+**13** Now here is the king you have chosen, the one you asked for. Look, the LORD has set a king over you.
 
-**14** If you fear Yahweh and serve him and listen to his voice, and do not rebel against Yahweh's command,[^12-11] then both you and the king who reigns over you will follow Yahweh your God.[^12-12]
+**14** If you fear the LORD and serve him and listen to his voice, and do not rebel against the LORD's command,[^12-11] then both you and the king who reigns over you will follow the LORD your God.[^12-12]
 
-**15** But if you do not listen to Yahweh's voice, and rebel against Yahweh's command, the hand of Yahweh will be against you, as it was against your ancestors.[^12-13]
+**15** But if you do not listen to the LORD's voice, and rebel against the LORD's command, the hand of the LORD will be against you, as it was against your ancestors.[^12-13]
 
-**16** Now then, stand still and see this great thing Yahweh is about to do before your eyes.
+**16** Now then, stand still and see this great thing the LORD is about to do before your eyes.
 
-**17** Is it not wheat harvest today? I will call on Yahweh, and he will send thunder[^12-14] and rain. Then you will know and see how great is the evil you have done in the sight of Yahweh by asking for a king for yourselves."
+**17** Is it not wheat harvest today? I will call on the LORD, and he will send thunder[^12-14] and rain. Then you will know and see how great is the evil you have done in the sight of the LORD by asking for a king for yourselves."
 
-**18** Then Samuel called on Yahweh, and Yahweh sent thunder and rain that day. All the people greatly feared Yahweh and Samuel.
+**18** Then Samuel called on the LORD, and the LORD sent thunder and rain that day. All the people greatly feared the LORD and Samuel.
 
-**19** All the people said to Samuel, "Pray to Yahweh your God for your servants, so that we will not die, for we have added to all our sins this evil of asking for a king for ourselves."
+**19** All the people said to Samuel, "Pray to the LORD your God for your servants, so that we will not die, for we have added to all our sins this evil of asking for a king for ourselves."
 
-**20** Samuel said to the people, "Do not be afraid. You have done all this evil, yet do not turn aside from following Yahweh, but serve Yahweh with all your heart.
+**20** Samuel said to the people, "Do not be afraid. You have done all this evil, yet do not turn aside from following the LORD, but serve the LORD with all your heart.
 
 **21** Do not turn aside after empty things,[^12-15] which cannot help you or rescue you, because they are empty.
 
-**22** For the sake of his great name Yahweh will not abandon his people, because Yahweh has been pleased to make you his own people.
+**22** For the sake of his great name the LORD will not abandon his people, because the LORD has been pleased to make you his own people.
 
-**23** As for me, far be it from me to sin against Yahweh by ceasing to pray for you. I will teach you the good and right way.
+**23** As for me, far be it from me to sin against the LORD by ceasing to pray for you. I will teach you the good and right way.
 
-**24** Only fear Yahweh and serve him faithfully[^12-16] with all your heart. Consider what great things he has done for you.
+**24** Only fear the LORD and serve him faithfully[^12-16] with all your heart. Consider what great things he has done for you.
 
 **25** But if you persist in doing evil, both you and your king will be swept away."
 
 [^12-1]: Or "leading you".
-[^12-2]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^12-2]: *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles.
 [^12-3]: Hebrew *meshicho*, "his anointed one", here Saul. Also in verse 5; see 2:10.
 [^12-4]: Literally "to blind my eyes with it". The Septuagint reads "a bribe, or even a pair of sandals? Testify against me".
 [^12-5]: Literally "he said", the people speaking as one.
-[^12-6]: Literally "made". The Hebrew begins abruptly, "Yahweh, who made Moses and Aaron ..."; the Septuagint reads "Yahweh is witness, who made Moses and Aaron ...".
-[^12-7]: Hebrew *tsidqot*, "righteous acts", here Yahweh's acts of rescue.
+[^12-6]: Literally "made". The Hebrew begins abruptly, "The LORD, who made Moses and Aaron ..."; the Septuagint reads "The LORD is witness, who made Moses and Aaron ...".
+[^12-7]: Hebrew *tsidqot*, "righteous acts", here the LORD's acts of rescue.
 [^12-8]: The Hebrew text is written "he said" but read "they said".
 [^12-9]: Another name for Gideon (Judges 6:32).
 [^12-10]: No judge by this name is known from the book of Judges. The Septuagint reads "Barak" (Judges 4–5).
-[^12-11]: Literally "against the mouth of Yahweh". Also in verse 15.
-[^12-12]: Or "and if both you and the king who reigns over you follow Yahweh your God, (all will be well)". Literally "and you will be, both you and the king who reigns over you, after Yahweh your God".
+[^12-11]: Literally "against the mouth of the LORD". Also in verse 15.
+[^12-12]: Or "and if both you and the king who reigns over you follow the LORD your God, (all will be well)". Literally "and you will be, both you and the king who reigns over you, after the LORD your God".
 [^12-13]: Literally "against you and against your fathers". The Septuagint reads "against you and against your king".
 [^12-14]: Literally "voices". Also in verse 18. Rain was very rare at the time of the wheat harvest, in early summer.
 [^12-15]: Hebrew *tohu*, "emptiness", the word translated "formless" in Genesis 1:2. Also at the end of the verse.
@@ -856,11 +856,11 @@
 
 **11** Samuel said, "What have you done?" Saul said, "When I saw that the troops were scattering from me, and that you did not come at the set time, and that the Philistines were gathering at Michmash,
 
-**12** I thought, 'Now the Philistines will come down against me at Gilgal, and I have not sought the favor of Yahweh.'[^13-12] So I forced myself to offer the burnt offering."
+**12** I thought, 'Now the Philistines will come down against me at Gilgal, and I have not sought the favor of the LORD.'[^13-12] So I forced myself to offer the burnt offering."
 
-**13** Samuel said to Saul, "You have acted foolishly. You have not kept the command Yahweh your God gave you. If you had, Yahweh would now have established your kingdom over Israel forever.
+**13** Samuel said to Saul, "You have acted foolishly. You have not kept the command the LORD your God gave you. If you had, the LORD would now have established your kingdom over Israel forever.
 
-**14** But now your kingdom will not last. Yahweh has sought out for himself a man after his own heart, and Yahweh has appointed him ruler[^13-13] over his people, because you have not kept what Yahweh commanded you."
+**14** But now your kingdom will not last. The LORD has sought out for himself a man after his own heart, and the LORD has appointed him ruler[^13-13] over his people, because you have not kept what the LORD commanded you."
 
 **15** Then Samuel got up and went up from Gilgal to Gibeah of Benjamin.[^13-14] Saul counted the troops who were still with him, about six hundred men.
 
@@ -891,7 +891,7 @@
 [^13-9]: Literally "for the appointed time which Samuel". A word such as "had set" seems to be missing.
 [^13-10]: Hebrew *shelamim*, traditionally "peace offerings"; see 10:8.
 [^13-11]: Literally "to bless him".
-[^13-12]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles. Literally "I have not soothed the face of Yahweh".
+[^13-12]: *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles. Literally "I have not soothed the face of the LORD".
 [^13-13]: Hebrew *nagid*, "leader, ruler"; see 9:16.
 [^13-14]: The Septuagint reads "went up from Gilgal and went on his way. The rest of the people went up after Saul to meet the soldiers, and they came from Gilgal to Gibeah of Benjamin."
 [^13-15]: Literally "the destroyer", that is, a raiding force.
@@ -909,13 +909,13 @@
 
 **2** Saul was staying at the edge of Gibeah under the pomegranate tree at Migron. The troops with him numbered about six hundred men.
 
-**3** Ahijah son of Ahitub was there, wearing the ephod.[^14-1] Ahitub was the brother of Ichabod son of Phinehas, son of Eli, the priest of Yahweh[^14-2] at Shiloh. The troops did not know that Jonathan had gone.
+**3** Ahijah son of Ahitub was there, wearing the ephod.[^14-1] Ahitub was the brother of Ichabod son of Phinehas, son of Eli, the priest of the LORD[^14-2] at Shiloh. The troops did not know that Jonathan had gone.
 
 **4** Between the passes by which Jonathan intended to cross over to the Philistine outpost, there was a rocky crag[^14-3] on one side and a rocky crag on the other. One was called Bozez and the other Seneh.
 
 **5** One crag rose on the north, facing Michmash, and the other on the south, facing Geba.
 
-**6** Jonathan said to the young man who was his armor-bearer, "Come, let us go over to the outpost of these uncircumcised men. Perhaps Yahweh will act for us. Nothing can stop Yahweh from saving, whether by many or by few."
+**6** Jonathan said to the young man who was his armor-bearer, "Come, let us go over to the outpost of these uncircumcised men. Perhaps the LORD will act for us. Nothing can stop the LORD from saving, whether by many or by few."
 
 **7** His armor-bearer said to him, "Do all that is in your heart. Go ahead; I am with you, heart and soul."[^14-4]
 
@@ -923,11 +923,11 @@
 
 **9** If they say to us, 'Wait there until we come to you,' then we will stay where we are and not go up to them.
 
-**10** But if they say, 'Come up to us,' then we will go up, for Yahweh has given them into our hands. That will be the sign for us."
+**10** But if they say, 'Come up to us,' then we will go up, for the LORD has given them into our hands. That will be the sign for us."
 
 **11** So the two of them let the Philistine outpost see them. The Philistines said, "Look, Hebrews are coming out of the holes where they have been hiding."
 
-**12** The men of the outpost called out to Jonathan and his armor-bearer, "Come up to us, and we will teach you a lesson!"[^14-5] Jonathan said to his armor-bearer, "Come up after me, for Yahweh has given them into the hands of Israel."
+**12** The men of the outpost called out to Jonathan and his armor-bearer, "Come up to us, and we will teach you a lesson!"[^14-5] Jonathan said to his armor-bearer, "Come up after me, for the LORD has given them into the hands of Israel."
 
 **13** Jonathan climbed up on his hands and feet, with his armor-bearer behind him. The Philistines fell before Jonathan, and his armor-bearer killed them as he came after him.
 
@@ -949,7 +949,7 @@
 
 **22** Likewise, when all the men of Israel who had been hiding in the hill country of Ephraim heard that the Philistines were fleeing, they too joined the battle and pursued them closely.
 
-**23** So Yahweh saved Israel that day, and the battle moved on beyond Beth-aven.
+**23** So the LORD saved Israel that day, and the battle moved on beyond Beth-aven.
 
 **24** The men of Israel were hard pressed that day, for Saul had bound the troops with an oath, saying, "Cursed be anyone who eats food[^14-13] before evening, before I have taken vengeance on my enemies." So none of the troops tasted food.
 
@@ -969,11 +969,11 @@
 
 **32** So the troops pounced on the plunder.[^14-17] They took sheep, cattle and calves, slaughtered them on the ground, and ate them with the blood.[^14-18]
 
-**33** Saul was told, "Look, the troops are sinning against Yahweh by eating with the blood." He said, "You have acted faithlessly. Roll a large stone over to me at once."[^14-19]
+**33** Saul was told, "Look, the troops are sinning against the LORD by eating with the blood." He said, "You have acted faithlessly. Roll a large stone over to me at once."[^14-19]
 
-**34** Then Saul said, "Go out among the troops and tell them, 'Each of you bring me his ox or his sheep, and slaughter it here and eat. Do not sin against Yahweh by eating with the blood.'" So that night all the troops brought their oxen with them,[^14-20] and they slaughtered them there.
+**34** Then Saul said, "Go out among the troops and tell them, 'Each of you bring me his ox or his sheep, and slaughter it here and eat. Do not sin against the LORD by eating with the blood.'" So that night all the troops brought their oxen with them,[^14-20] and they slaughtered them there.
 
-**35** Saul built an altar to Yahweh. It was the first altar he built to Yahweh.
+**35** Saul built an altar to the LORD. It was the first altar he built to the LORD.
 
 **36** Saul said, "Let us go down after the Philistines by night and plunder them until the morning light. Let us not leave one of them alive." They said, "Do whatever seems good to you." But the priest said, "Let us draw near to God here."
 
@@ -981,11 +981,11 @@
 
 **38** Saul said, "Come here, all you leaders[^14-21] of the people, and find out how this sin has happened today.
 
-**39** For as surely as Yahweh lives, who saves Israel, even if it is in my son Jonathan, he must die." But not one of all the people answered him.
+**39** For as surely as the LORD lives, who saves Israel, even if it is in my son Jonathan, he must die." But not one of all the people answered him.
 
 **40** He said to all Israel, "You stand on one side, and I and my son Jonathan will stand on the other side." The people said to Saul, "Do whatever seems good to you."
 
-**41** Then Saul said to Yahweh, the God of Israel, "Give a perfect answer."[^14-22] Jonathan and Saul were taken by the lot, and the people went free.
+**41** Then Saul said to the LORD, the God of Israel, "Give a perfect answer."[^14-22] Jonathan and Saul were taken by the lot, and the people went free.
 
 **42** Saul said, "Cast the lot between me and my son Jonathan." And Jonathan was taken.
 
@@ -993,7 +993,7 @@
 
 **44** Saul said, "May God deal with me, and more severely,[^14-24] if you do not die, Jonathan."
 
-**45** But the people said to Saul, "Should Jonathan die, who has brought about this great victory in Israel? Far from it! As surely as Yahweh lives, not one hair of his head will fall to the ground, for he has acted with God today." So the people ransomed[^14-25] Jonathan, and he did not die.
+**45** But the people said to Saul, "Should Jonathan die, who has brought about this great victory in Israel? Far from it! As surely as the LORD lives, not one hair of his head will fall to the ground, for he has acted with God today." So the people ransomed[^14-25] Jonathan, and he did not die.
 
 **46** Then Saul stopped pursuing the Philistines,[^14-26] and the Philistines went back to their own territory.
 
@@ -1010,7 +1010,7 @@
 **52** There was fierce war against the Philistines all the days of Saul. Whenever Saul saw any strong or brave man, he took him into his service.[^14-30]
 
 [^14-1]: Literally "carrying an ephod"; see 2:18 and 2:28. Here it was used to seek God's answers.
-[^14-2]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^14-2]: *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles.
 [^14-3]: Literally "a tooth of rock". Also later in the verse and in verse 5.
 [^14-4]: Literally "Turn yourself; here I am with you as your heart."
 [^14-5]: Literally "and we will make known to you a thing".
@@ -1030,7 +1030,7 @@
 [^14-19]: Literally "today".
 [^14-20]: Literally "each his ox in his hand".
 [^14-21]: Literally "cornerstones".
-[^14-22]: Hebrew *havah tamim*, "give what is perfect (right)". With different vowels the words can be read "give Thummim", one of the two lots used to learn God's will (Exodus 28:30). The Septuagint has a longer text: "Then Saul said, 'Yahweh God of Israel, why have you not answered your servant today? If this guilt is in me or in my son Jonathan, Yahweh God of Israel, give Urim; but if it is in your people Israel, give Thummim.'"
+[^14-22]: Hebrew *havah tamim*, "give what is perfect (right)". With different vowels the words can be read "give Thummim", one of the two lots used to learn God's will (Exodus 28:30). The Septuagint has a longer text: "Then Saul said, 'the LORD God of Israel, why have you not answered your servant today? If this guilt is in me or in my son Jonathan, LORD God of Israel, give Urim; but if it is in your people Israel, give Thummim.'"
 [^14-23]: Or "Here I am, ready to die."
 [^14-24]: Literally "Thus may God do and thus may he add"; see 3:17.
 [^14-25]: Hebrew *padah*, "ransom, redeem", that is, they set him free.
@@ -1044,9 +1044,9 @@
 
 *Status: draft*
 
-**1** Samuel said to Saul, "Yahweh[^15-1] sent me to anoint you king over his people Israel. So now listen to the words of Yahweh.
+**1** Samuel said to Saul, "The LORD[^15-1] sent me to anoint you king over his people Israel. So now listen to the words of the LORD.
 
-**2** This is what Yahweh of Armies[^15-2] says: 'I will punish[^15-3] what Amalek did to Israel, how they opposed them on the way when they came up out of Egypt.[^15-4]
+**2** This is what the LORD of Armies[^15-2] says: 'I will punish[^15-3] what Amalek did to Israel, how they opposed them on the way when they came up out of Egypt.[^15-4]
 
 **3** Now go and strike Amalek. Devote to destruction[^15-5] everything that belongs to them. Do not spare them, but put them to death, men and women, children and babies, oxen and sheep, camels and donkeys.'"
 
@@ -1062,59 +1062,59 @@
 
 **9** But Saul and the troops spared Agag, and the best of the sheep and cattle, the fatlings[^15-8] and the lambs, and everything that was good. They were unwilling to devote them to destruction. But everything that was despised and worthless they devoted to destruction.
 
-**10** Then the word of Yahweh came to Samuel:
+**10** Then the word of the LORD came to Samuel:
 
-**11** "I regret[^15-9] that I made Saul king, for he has turned back from following me and has not carried out my words." Samuel was angry,[^15-10] and he cried out to Yahweh all night.
+**11** "I regret[^15-9] that I made Saul king, for he has turned back from following me and has not carried out my words." Samuel was angry,[^15-10] and he cried out to the LORD all night.
 
 **12** Early in the morning Samuel got up to meet Saul. Samuel was told, "Saul went to Carmel, and there he set up a monument[^15-11] for himself. Then he turned and went on, down to Gilgal."
 
-**13** When Samuel came to Saul, Saul said to him, "May Yahweh bless you! I have carried out the word of Yahweh."
+**13** When Samuel came to Saul, Saul said to him, "May the LORD bless you! I have carried out the word of the LORD."
 
 **14** But Samuel said, "Then what is this bleating of sheep in my ears, and the lowing of cattle that I hear?"
 
-**15** Saul said, "They brought them from the Amalekites. The troops spared the best of the sheep and cattle to sacrifice to Yahweh your God, but the rest we devoted to destruction."
+**15** Saul said, "They brought them from the Amalekites. The troops spared the best of the sheep and cattle to sacrifice to the LORD your God, but the rest we devoted to destruction."
 
-**16** Samuel said to Saul, "Stop! Let me tell you what Yahweh said to me last night." He said to him,[^15-12] "Tell me."
+**16** Samuel said to Saul, "Stop! Let me tell you what the LORD said to me last night." He said to him,[^15-12] "Tell me."
 
-**17** Samuel said, "Though you were small in your own eyes, are you not the head of the tribes of Israel? Yahweh anointed you king over Israel.
+**17** Samuel said, "Though you were small in your own eyes, are you not the head of the tribes of Israel? The LORD anointed you king over Israel.
 
-**18** Yahweh sent you on a mission[^15-13] and said, 'Go and devote the sinners, the Amalekites, to destruction. Fight against them until you have wiped them out.'
+**18** The LORD sent you on a mission[^15-13] and said, 'Go and devote the sinners, the Amalekites, to destruction. Fight against them until you have wiped them out.'
 
-**19** Why then did you not obey Yahweh?[^15-14] Why did you pounce on the plunder and do what was evil in the sight of Yahweh?"
+**19** Why then did you not obey the LORD?[^15-14] Why did you pounce on the plunder and do what was evil in the sight of the LORD?"
 
-**20** Saul said to Samuel, "But I did obey Yahweh. I went on the mission Yahweh sent me on. I brought back Agag king of the Amalekites, and I devoted the Amalekites to destruction.
+**20** Saul said to Samuel, "But I did obey the LORD. I went on the mission the LORD sent me on. I brought back Agag king of the Amalekites, and I devoted the Amalekites to destruction.
 
-**21** But the troops took sheep and cattle from the plunder, the best of what was devoted to destruction,[^15-15] to sacrifice to Yahweh your God at Gilgal."
+**21** But the troops took sheep and cattle from the plunder, the best of what was devoted to destruction,[^15-15] to sacrifice to the LORD your God at Gilgal."
 
-**22** Samuel said, "Does Yahweh delight in burnt offerings and sacrifices as much as in obeying the voice of Yahweh? To obey is better than sacrifice, and to pay attention is better than the fat of rams.
+**22** Samuel said, "Does the LORD delight in burnt offerings and sacrifices as much as in obeying the voice of the LORD? To obey is better than sacrifice, and to pay attention is better than the fat of rams.
 
-**23** For rebellion is like the sin of divination, and stubbornness like wickedness and household gods.[^15-16] Because you have rejected the word of Yahweh, he has rejected you as king."
+**23** For rebellion is like the sin of divination, and stubbornness like wickedness and household gods.[^15-16] Because you have rejected the word of the LORD, he has rejected you as king."
 
-**24** Saul said to Samuel, "I have sinned. I have gone against Yahweh's command[^15-17] and your words, because I was afraid of the troops and listened to them.
+**24** Saul said to Samuel, "I have sinned. I have gone against the LORD's command[^15-17] and your words, because I was afraid of the troops and listened to them.
 
-**25** Now, please forgive my sin and come back with me, so that I may worship Yahweh."
+**25** Now, please forgive my sin and come back with me, so that I may worship the LORD."
 
-**26** Samuel said to Saul, "I will not come back with you. For you have rejected the word of Yahweh, and Yahweh has rejected you from being king over Israel."
+**26** Samuel said to Saul, "I will not come back with you. For you have rejected the word of the LORD, and the LORD has rejected you from being king over Israel."
 
 **27** As Samuel turned to leave, Saul[^15-18] seized the hem of his robe, and it tore.
 
-**28** Samuel said to him, "Yahweh has torn the kingdom of Israel from you today and given it to a neighbor of yours who is better than you.
+**28** Samuel said to him, "The LORD has torn the kingdom of Israel from you today and given it to a neighbor of yours who is better than you.
 
 **29** And the Glory of Israel[^15-19] does not lie or change his mind,[^15-20] for he is not a human being, that he should change his mind."
 
-**30** Saul said, "I have sinned. But please honor me now before the elders of my people and before Israel. Come back with me, so that I may worship Yahweh your God."
+**30** Saul said, "I have sinned. But please honor me now before the elders of my people and before Israel. Come back with me, so that I may worship the LORD your God."
 
-**31** So Samuel went back with Saul, and Saul worshiped Yahweh.
+**31** So Samuel went back with Saul, and Saul worshiped the LORD.
 
 **32** Then Samuel said, "Bring me Agag king of the Amalekites." Agag came to him in chains.[^15-21] Agag said, "Surely the bitterness of death is past."[^15-22]
 
-**33** But Samuel said, "As your sword has made women childless, so your mother will be the most childless of women." And Samuel hacked Agag to pieces[^15-23] before Yahweh at Gilgal.
+**33** But Samuel said, "As your sword has made women childless, so your mother will be the most childless of women." And Samuel hacked Agag to pieces[^15-23] before the LORD at Gilgal.
 
 **34** Then Samuel went to Ramah, and Saul went up to his home at Gibeah of Saul.
 
-**35** Samuel did not see Saul again until the day of his death, but Samuel mourned for Saul. And Yahweh regretted that he had made Saul king over Israel.
+**35** Samuel did not see Saul again until the day of his death, but Samuel mourned for Saul. And the LORD regretted that he had made Saul king over Israel.
 
-[^15-1]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^15-1]: *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles.
 [^15-2]: Hebrew *YHWH tseva'ot*, traditionally "the LORD of hosts" or "the LORD Almighty". *Tseva'ot* means armies: the heavenly hosts and the armies of Israel.
 [^15-3]: Hebrew *paqad*, "attend to", here in the sense of punishing. Or "I have taken note of".
 [^15-4]: See Exodus 17:8–16 and Deuteronomy 25:17–19.
@@ -1127,10 +1127,10 @@
 [^15-11]: Literally "a hand".
 [^15-12]: The Hebrew text is written "They said to him" but read "He said to him".
 [^15-13]: Literally "on a way". Also in verse 20.
-[^15-14]: Literally "listen to the voice of Yahweh". Also in verse 20.
+[^15-14]: Literally "listen to the voice of the LORD". Also in verse 20.
 [^15-15]: Hebrew *cherem*, what is devoted to destruction.
 [^15-16]: Hebrew *teraphim*, images of gods kept in the home (Genesis 31:19). The Hebrew of this line is difficult; literally "and pushing (presumption) is wickedness and *teraphim*".
-[^15-17]: Literally "the mouth of Yahweh".
+[^15-17]: Literally "the mouth of the LORD".
 [^15-18]: Literally "he". The Septuagint reads "Saul".
 [^15-19]: Hebrew *netsach yisra'el*, perhaps "the Glory of Israel" or "the Eternal One of Israel".
 [^15-20]: Hebrew *nicham*, the verb translated "regret" in verses 11 and 35.
@@ -1142,33 +1142,33 @@
 
 *Status: draft*
 
-**1** Yahweh[^16-1] said to Samuel, "How long will you mourn for Saul, when I have rejected him from being king over Israel? Fill your horn with oil and go. I am sending you to Jesse of Bethlehem, for I have chosen[^16-2] a king for myself among his sons."
+**1** The LORD[^16-1] said to Samuel, "How long will you mourn for Saul, when I have rejected him from being king over Israel? Fill your horn with oil and go. I am sending you to Jesse of Bethlehem, for I have chosen[^16-2] a king for myself among his sons."
 
-**2** Samuel said, "How can I go? If Saul hears of it, he will kill me." Yahweh said, "Take a heifer with you, and say, 'I have come to sacrifice to Yahweh.'
+**2** Samuel said, "How can I go? If Saul hears of it, he will kill me." The LORD said, "Take a heifer with you, and say, 'I have come to sacrifice to the LORD.'
 
 **3** Invite Jesse to the sacrifice, and I will let you know what to do. You will anoint for me the one I name to you."
 
-**4** Samuel did what Yahweh said and came to Bethlehem. The elders of the town came trembling to meet him and asked, "Do you come in peace?"
+**4** Samuel did what the LORD said and came to Bethlehem. The elders of the town came trembling to meet him and asked, "Do you come in peace?"
 
-**5** He said, "In peace. I have come to sacrifice to Yahweh. Consecrate yourselves and come with me to the sacrifice." Then he consecrated Jesse and his sons and invited them to the sacrifice.
+**5** He said, "In peace. I have come to sacrifice to the LORD. Consecrate yourselves and come with me to the sacrifice." Then he consecrated Jesse and his sons and invited them to the sacrifice.
 
-**6** When they arrived, he saw Eliab and thought, "Surely Yahweh's anointed is standing here before him."[^16-3]
+**6** When they arrived, he saw Eliab and thought, "Surely the LORD's anointed is standing here before him."[^16-3]
 
-**7** But Yahweh said to Samuel, "Do not look at his appearance or at his height, for I have rejected him. It is not as a human being sees.[^16-4] A human being looks at the outward appearance,[^16-5] but Yahweh looks at the heart."
+**7** But the LORD said to Samuel, "Do not look at his appearance or at his height, for I have rejected him. It is not as a human being sees.[^16-4] A human being looks at the outward appearance,[^16-5] but the LORD looks at the heart."
 
-**8** Then Jesse called Abinadab and made him pass before Samuel. But Samuel said, "Yahweh has not chosen this one either."
+**8** Then Jesse called Abinadab and made him pass before Samuel. But Samuel said, "The LORD has not chosen this one either."
 
-**9** Then Jesse made Shammah pass by. But Samuel said, "Yahweh has not chosen this one either."
+**9** Then Jesse made Shammah pass by. But Samuel said, "The LORD has not chosen this one either."
 
-**10** Jesse made seven of his sons pass before Samuel, but Samuel said to Jesse, "Yahweh has not chosen these."
+**10** Jesse made seven of his sons pass before Samuel, but Samuel said to Jesse, "The LORD has not chosen these."
 
 **11** Then Samuel asked Jesse, "Are these all the boys you have?" He said, "There is still the youngest, but he is looking after the sheep." Samuel said to Jesse, "Send for him and bring him. We will not sit down to eat[^16-6] until he comes here."
 
-**12** So he sent for him and brought him in. He was ruddy,[^16-7] with beautiful eyes, and handsome. Yahweh said, "Get up and anoint him, for this is the one."
+**12** So he sent for him and brought him in. He was ruddy,[^16-7] with beautiful eyes, and handsome. The LORD said, "Get up and anoint him, for this is the one."
 
-**13** So Samuel took the horn of oil and anointed him in the presence of his brothers, and the Spirit of Yahweh rushed upon David[^16-8] from that day on. Then Samuel got up and went to Ramah.
+**13** So Samuel took the horn of oil and anointed him in the presence of his brothers, and the Spirit of the LORD rushed upon David[^16-8] from that day on. Then Samuel got up and went to Ramah.
 
-**14** Now the Spirit of Yahweh had left Saul, and an evil spirit[^16-9] from Yahweh tormented him.
+**14** Now the Spirit of the LORD had left Saul, and an evil spirit[^16-9] from the LORD tormented him.
 
 **15** Saul's servants[^16-10] said to him, "Look, an evil spirit from God is tormenting you.
 
@@ -1176,7 +1176,7 @@
 
 **17** So Saul said to his servants, "Find me a man who plays well and bring him to me."
 
-**18** One of the young men[^16-13] answered, "I have seen a son of Jesse of Bethlehem who knows how to play. He is a brave man[^16-14] and a warrior. He speaks well[^16-15] and is handsome, and Yahweh is with him."
+**18** One of the young men[^16-13] answered, "I have seen a son of Jesse of Bethlehem who knows how to play. He is a brave man[^16-14] and a warrior. He speaks well[^16-15] and is handsome, and the LORD is with him."
 
 **19** So Saul sent messengers to Jesse and said, "Send me your son David, who is with the sheep."
 
@@ -1188,9 +1188,9 @@
 
 **23** Whenever the spirit from God came on Saul, David would take the lyre and play it. Then Saul would be relieved and feel better, and the evil spirit would leave him.
 
-[^16-1]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^16-1]: *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles.
 [^16-2]: Literally "I have seen".
-[^16-3]: Literally "Surely before Yahweh is his anointed." Hebrew *meshicho*, "his anointed one"; see 2:10.
+[^16-3]: Literally "Surely before the LORD is his anointed." Hebrew *meshicho*, "his anointed one"; see 2:10.
 [^16-4]: Literally "For not what a human being sees". The Septuagint reads "For God does not see as a human being sees".
 [^16-5]: Literally "looks to the eyes".
 [^16-6]: Literally "We will not turn around", perhaps meaning "sit around the table".
@@ -1283,7 +1283,7 @@
 
 **36** Your servant has killed both lions and bears, and this uncircumcised Philistine will be like one of them, for he has defied the ranks of the living God."
 
-**37** David said, "Yahweh,[^17-22] who rescued me from the paw[^17-23] of the lion and from the paw of the bear, will rescue me from the hand of this Philistine." Saul said to David, "Go, and may Yahweh be with you."
+**37** David said, "The LORD,[^17-22] who rescued me from the paw[^17-23] of the lion and from the paw of the bear, will rescue me from the hand of this Philistine." Saul said to David, "Go, and may the LORD be with you."
 
 **38** Then Saul dressed David in his own tunic.[^17-24] He put a bronze helmet on his head and dressed him in a coat of armor.
 
@@ -1299,11 +1299,11 @@
 
 **44** The Philistine said to David, "Come here, and I will give your flesh to the birds of the sky and the wild animals."[^17-29]
 
-**45** David said to the Philistine, "You come against me with sword, spear and javelin, but I come against you in the name of Yahweh of Armies,[^17-30] the God of the ranks of Israel, whom you have defied.
+**45** David said to the Philistine, "You come against me with sword, spear and javelin, but I come against you in the name of the LORD of Armies,[^17-30] the God of the ranks of Israel, whom you have defied.
 
-**46** This very day Yahweh will hand you over to me. I will strike you down and cut off your head. This very day I will give the corpses of the Philistine army to the birds of the sky and the wild animals of the earth. Then the whole earth will know that there is a God in Israel.
+**46** This very day the LORD will hand you over to me. I will strike you down and cut off your head. This very day I will give the corpses of the Philistine army to the birds of the sky and the wild animals of the earth. Then the whole earth will know that there is a God in Israel.
 
-**47** And this whole assembly will know that it is not by sword or spear that Yahweh saves, for the battle is Yahweh's, and he will give all of you into our hands."
+**47** And this whole assembly will know that it is not by sword or spear that the LORD saves, for the battle is the LORD's, and he will give all of you into our hands."
 
 **48** As the Philistine got up and came closer to meet David, David ran quickly toward the battle line to meet the Philistine.
 
@@ -1348,7 +1348,7 @@
 [^17-19]: Literally "Was it not a word?"
 [^17-20]: Literally "Let no man's heart fall on him." The Septuagint reads "Let not my lord's heart fall".
 [^17-21]: That is, by its jaw.
-[^17-22]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^17-22]: *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles.
 [^17-23]: Literally "hand". Also later in the verse.
 [^17-24]: Hebrew *madav*, his garment, probably a military tunic. Also in verse 39.
 [^17-25]: Literally "his sword".
@@ -1387,17 +1387,17 @@
 
 **11** Saul hurled[^18-10] the spear, thinking, "I will pin David to the wall." But David escaped from him twice.
 
-**12** Saul was afraid of David, because Yahweh[^18-11] was with David but had left Saul.
+**12** Saul was afraid of David, because the LORD[^18-11] was with David but had left Saul.
 
 **13** So Saul removed him from his presence and made him a commander of a thousand. David led the troops in their campaigns.[^18-12]
 
-**14** David was successful in all he did,[^18-13] and Yahweh was with him.
+**14** David was successful in all he did,[^18-13] and the LORD was with him.
 
 **15** When Saul saw how very successful he was, he was in dread of him.
 
 **16** But all Israel and Judah loved David, because he led them in their campaigns.
 
-**17** Saul said to David, "Here is my older daughter Merab. I will give her to you as your wife. Only be a valiant warrior[^18-14] for me and fight Yahweh's battles." For Saul thought, "I will not raise my hand against him. Let the Philistines do it."[^18-15]
+**17** Saul said to David, "Here is my older daughter Merab. I will give her to you as your wife. Only be a valiant warrior[^18-14] for me and fight the LORD's battles." For Saul thought, "I will not raise my hand against him. Let the Philistines do it."[^18-15]
 
 **18** David said to Saul, "Who am I, and what is my family,[^18-16] my father's clan in Israel, that I should become the king's son-in-law?"
 
@@ -1419,7 +1419,7 @@
 
 **27** David got up and went, he and his men, and struck down two hundred Philistines.[^18-21] David brought their foreskins and presented the full number to the king, so that he might become the king's son-in-law. So Saul gave him his daughter Michal as his wife.
 
-**28** When Saul saw and knew that Yahweh was with David, and that his daughter Michal loved him,[^18-22]
+**28** When Saul saw and knew that the LORD was with David, and that his daughter Michal loved him,[^18-22]
 
 **29** Saul became even more afraid of David. And Saul was David's enemy for the rest of his life.[^18-23]
 
@@ -1435,7 +1435,7 @@
 [^18-8]: Literally "prophesied"; see 10:5.
 [^18-9]: Literally "playing with his hand"; see 16:23.
 [^18-10]: Or "raised".
-[^18-11]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^18-11]: *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles.
 [^18-12]: Literally "he went out and came in before the people". Also in verse 16.
 [^18-13]: Literally "in all his ways".
 [^18-14]: Hebrew *ben chayil*, "a son of strength".
@@ -1461,15 +1461,15 @@
 
 **4** Jonathan spoke well of David to his father Saul. He said to him, "Let the king not sin against his servant David, for he has not sinned against you, and what he has done has been very good for you.
 
-**5** He took his life in his hands[^19-2] and struck down the Philistine, and Yahweh[^19-3] brought about a great victory for all Israel. You saw it and rejoiced. Why then would you sin against innocent blood by killing David for no reason?"
+**5** He took his life in his hands[^19-2] and struck down the Philistine, and the LORD[^19-3] brought about a great victory for all Israel. You saw it and rejoiced. Why then would you sin against innocent blood by killing David for no reason?"
 
-**6** Saul listened to Jonathan, and Saul swore, "As surely as Yahweh lives, he will not be put to death."
+**6** Saul listened to Jonathan, and Saul swore, "As surely as the LORD lives, he will not be put to death."
 
 **7** Jonathan called David and told him all these things. Then Jonathan brought David to Saul, and he was with him as before.[^19-4]
 
 **8** Once again there was war. David went out and fought against the Philistines and struck them with a great slaughter, and they fled before him.
 
-**9** Then an evil spirit from Yahweh came on Saul as he was sitting in his house with his spear in his hand, while David was playing the lyre.[^19-5]
+**9** Then an evil spirit from the LORD came on Saul as he was sitting in his house with his spear in his hand, while David was playing the lyre.[^19-5]
 
 **10** Saul tried to pin David to the wall with the spear, but David slipped away from Saul, and he drove the spear into the wall. David fled and escaped that night.
 
@@ -1503,7 +1503,7 @@
 
 [^19-1]: Literally "and I will see what (there is)".
 [^19-2]: Literally "He put his *nephesh* in his palm".
-[^19-3]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^19-3]: *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles.
 [^19-4]: Literally "as yesterday and the day before".
 [^19-5]: Literally "playing with his hand"; see 16:23.
 [^19-6]: Literally "save your *nephesh*".
@@ -1522,7 +1522,7 @@
 
 **2** Jonathan said to him, "Far from it! You will not die. Look, my father does nothing, great or small, without telling me.[^20-1] Why would my father hide this from me? It is not so!"
 
-**3** But David took an oath again and said, "Your father knows very well that I have found favor in your eyes, and he has thought, 'Jonathan must not know this, or he will be grieved.' But truly, as surely as Yahweh[^20-2] lives and as surely as you live,[^20-3] there is only a step between me and death."
+**3** But David took an oath again and said, "Your father knows very well that I have found favor in your eyes, and he has thought, 'Jonathan must not know this, or he will be grieved.' But truly, as surely as the LORD[^20-2] lives and as surely as you live,[^20-3] there is only a step between me and death."
 
 **4** Jonathan said to David, "Whatever you want,[^20-4] I will do for you."
 
@@ -1532,7 +1532,7 @@
 
 **7** If he says, 'Good,' your servant is safe.[^20-6] But if he becomes angry, you will know that he has made up his mind to harm me.[^20-7]
 
-**8** So show faithful love to your servant, for you have brought your servant into a covenant of Yahweh with you. But if there is guilt in me, kill me yourself. Why should you bring me to your father?"
+**8** So show faithful love to your servant, for you have brought your servant into a covenant of the LORD with you. But if there is guilt in me, kill me yourself. Why should you bring me to your father?"
 
 **9** Jonathan said, "Far be it from you! If I knew for certain that my father had made up his mind to bring harm on you, would I not tell you?"
 
@@ -1540,15 +1540,15 @@
 
 **11** Jonathan said to David, "Come, let us go out into the field." So the two of them went out into the field.
 
-**12** Jonathan said to David, "Yahweh, the God of Israel, is my witness![^20-8] I will sound out my father about this time tomorrow, or the day after.[^20-9] If he is well disposed toward David, will I not then send to you and let you know?[^20-10]
+**12** Jonathan said to David, "The LORD, the God of Israel, is my witness![^20-8] I will sound out my father about this time tomorrow, or the day after.[^20-9] If he is well disposed toward David, will I not then send to you and let you know?[^20-10]
 
-**13** But if my father intends to harm you, may Yahweh deal with Jonathan, and more severely,[^20-11] if I do not let you know and send you away, so that you may go in peace. May Yahweh be with you as he was with my father.
+**13** But if my father intends to harm you, may the LORD deal with Jonathan, and more severely,[^20-11] if I do not let you know and send you away, so that you may go in peace. May the LORD be with you as he was with my father.
 
-**14** And if I am still alive, show me the faithful love of Yahweh, so that I do not die.[^20-12]
+**14** And if I am still alive, show me the faithful love of the LORD, so that I do not die.[^20-12]
 
-**15** And never cut off your faithful love from my family,[^20-13] not even when Yahweh cuts off every one of David's enemies from the face of the earth."
+**15** And never cut off your faithful love from my family,[^20-13] not even when the LORD cuts off every one of David's enemies from the face of the earth."
 
-**16** So Jonathan made a covenant with the house of David: "May Yahweh call David's enemies to account."[^20-14]
+**16** So Jonathan made a covenant with the house of David: "May the LORD call David's enemies to account."[^20-14]
 
 **17** Jonathan made David swear again because of his love for him,[^20-15] for he loved him as he loved himself.
 
@@ -1558,11 +1558,11 @@
 
 **20** I will shoot three arrows to the side of it, as though I were shooting at a target.
 
-**21** Then I will send the boy: 'Go, find the arrows.' If I say to the boy, 'Look, the arrows are on this side of you, pick them up,' then come, for it is safe for you and there is no danger,[^20-19] as surely as Yahweh lives.
+**21** Then I will send the boy: 'Go, find the arrows.' If I say to the boy, 'Look, the arrows are on this side of you, pick them up,' then come, for it is safe for you and there is no danger,[^20-19] as surely as the LORD lives.
 
-**22** But if I say to the young man, 'Look, the arrows are beyond you,' then go, for Yahweh has sent you away.
+**22** But if I say to the young man, 'Look, the arrows are beyond you,' then go, for the LORD has sent you away.
 
-**23** As for the matter you and I have spoken about, Yahweh is between you and me[^20-20] forever."
+**23** As for the matter you and I have spoken about, the LORD is between you and me[^20-20] forever."
 
 **24** So David hid in the field. When the new moon came, the king sat down to eat the meal.
 
@@ -1600,22 +1600,22 @@
 
 **41** As soon as the boy had gone, David got up from beside the south side,[^20-30] fell with his face to the ground and bowed down three times. They kissed each other and wept with each other, but David wept the most.[^20-31]
 
-**42** Jonathan said to David, "Go in peace, for the two of us have sworn in the name of Yahweh, saying, 'Yahweh will be between me and you, and between my descendants and your descendants forever.'"[^20-32]
+**42** Jonathan said to David, "Go in peace, for the two of us have sworn in the name of the LORD, saying, 'The LORD will be between me and you, and between my descendants and your descendants forever.'"[^20-32]
 
 [^20-1]: Literally "without uncovering my ear".
-[^20-2]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^20-2]: *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles.
 [^20-3]: Literally "as your *nephesh* lives".
 [^20-4]: Literally "Whatever your *nephesh* says".
 [^20-5]: The first day of the month, marked with sacrifices and a feast (Numbers 10:10; 28:11–15). Also in verses 18, 24, 27 and 34.
 [^20-6]: Literally "*shalom* (peace) to your servant".
 [^20-7]: Literally "that the evil is decided by him". Also in verses 9 and 33.
-[^20-8]: The Hebrew begins abruptly: "Yahweh, the God of Israel!" The words "is my witness" are added to make the sense clear.
+[^20-8]: The Hebrew begins abruptly: "The LORD, the God of Israel!" The words "is my witness" are added to make the sense clear.
 [^20-9]: Literally "tomorrow, the third (day)".
 [^20-10]: Literally "and uncover your ear". Also in verse 13.
-[^20-11]: Literally "Thus may Yahweh do to Jonathan and thus may he add"; see 3:17.
+[^20-11]: Literally "Thus may the LORD do to Jonathan and thus may he add"; see 3:17.
 [^20-12]: The Hebrew of verses 14–15 is difficult.
 [^20-13]: Literally "house".
-[^20-14]: Literally "And Jonathan cut with the house of David, and Yahweh will seek (it) from the hand of David's enemies." "David's enemies" may stand for David himself, to avoid speaking of a curse on him; compare 25:22.
+[^20-14]: Literally "And Jonathan cut with the house of David, and the LORD will seek (it) from the hand of David's enemies." "David's enemies" may stand for David himself, to avoid speaking of a curse on him; compare 25:22.
 [^20-15]: The Septuagint reads "Jonathan swore again to David".
 [^20-16]: Literally "And you will do it a third time; go down greatly". The Hebrew is difficult.
 [^20-17]: Literally "on the day of the deed", perhaps the time described in 19:2–3.
@@ -1651,9 +1651,9 @@
 
 **6** David answered the priest, "Women have certainly been kept from us, as always when I set out.[^21-4] The young men's bodies[^21-5] are holy even on an ordinary journey. How much more today will they be holy in their bodies!"[^21-6]
 
-**7** So the priest gave him holy bread, for there was no bread there except the bread of the Presence,[^21-7] which had been removed from before Yahweh[^21-8] so that hot bread could be put in its place on the day it was taken away.
+**7** So the priest gave him holy bread, for there was no bread there except the bread of the Presence,[^21-7] which had been removed from before the LORD[^21-8] so that hot bread could be put in its place on the day it was taken away.
 
-**8** Now one of Saul's servants was there that day, detained before Yahweh.[^21-9] His name was Doeg the Edomite, the chief of Saul's shepherds.[^21-10]
+**8** Now one of Saul's servants was there that day, detained before the LORD.[^21-9] His name was Doeg the Edomite, the chief of Saul's shepherds.[^21-10]
 
 **9** David said to Ahimelech, "Don't you have a spear or a sword here on hand? I didn't bring my sword or my weapons with me, because the king's business was urgent."
 
@@ -1677,8 +1677,8 @@
 [^21-4]: Literally "as yesterday and the day before when I went out".
 [^21-5]: Literally "vessels", that is, perhaps their bodies, or their gear.
 [^21-6]: The Hebrew of this verse is difficult.
-[^21-7]: Hebrew *lechem ha-panim*, "the bread of the face": twelve loaves set out before Yahweh in the sanctuary and replaced each Sabbath (Exodus 25:30; Leviticus 24:5–9).
-[^21-8]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^21-7]: Hebrew *lechem ha-panim*, "the bread of the face": twelve loaves set out before the LORD in the sanctuary and replaced each Sabbath (Exodus 25:30; Leviticus 24:5–9).
+[^21-8]: *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles.
 [^21-9]: Hebrew *ne'tsar*, "held back", perhaps to fulfill a vow or for purification.
 [^21-10]: Literally "the mightiest of the shepherds".
 [^21-11]: The Hebrew text is written "his thousand ... his ten thousand" but read "his thousands ... his tens of thousands". Compare 18:7.
@@ -1707,7 +1707,7 @@
 
 **9** Then Doeg the Edomite, who was standing with Saul's servants,[^22-7] answered, "I saw the son of Jesse come to Nob, to Ahimelech son of Ahitub.
 
-**10** Ahimelech inquired of Yahweh[^22-8] for him, gave him provisions, and gave him the sword of Goliath the Philistine."
+**10** Ahimelech inquired of the LORD[^22-8] for him, gave him provisions, and gave him the sword of Goliath the Philistine."
 
 **11** Then the king sent for Ahimelech the priest, son of Ahitub, and all his father's family, the priests who were at Nob, and they all came to the king.
 
@@ -1721,7 +1721,7 @@
 
 **16** The king said, "You will surely die, Ahimelech, you and all your father's family."
 
-**17** Then the king said to the guards[^22-11] standing around him, "Turn and kill the priests of Yahweh, for they too are on David's side.[^22-12] They knew he was fleeing, yet they did not tell me."[^22-13] But the king's servants would not lift a hand to strike down the priests of Yahweh.
+**17** Then the king said to the guards[^22-11] standing around him, "Turn and kill the priests of the LORD, for they too are on David's side.[^22-12] They knew he was fleeing, yet they did not tell me."[^22-13] But the king's servants would not lift a hand to strike down the priests of the LORD.
 
 **18** The king said to Doeg, "You turn and strike down the priests." So Doeg the Edomite turned and struck down the priests himself. That day he killed eighty-five men who wore the linen ephod.[^22-14]
 
@@ -1729,7 +1729,7 @@
 
 **20** But one son of Ahimelech son of Ahitub escaped. His name was Abiathar, and he fled to join David.[^22-15]
 
-**21** Abiathar told David that Saul had killed the priests of Yahweh.
+**21** Abiathar told David that Saul had killed the priests of the LORD.
 
 **22** David said to Abiathar, "I knew that day, when Doeg the Edomite was there, that he would be sure to tell Saul. I am to blame for[^22-16] the death of everyone in your father's family.
 
@@ -1742,7 +1742,7 @@
 [^22-5]: Literally "No one uncovers my ear". Also later in the verse.
 [^22-6]: Literally "is sick for me".
 [^22-7]: Or "who was in charge of Saul's servants".
-[^22-8]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^22-8]: *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles.
 [^22-9]: Hebrew *sar el mishma'tekha*, of uncertain meaning; perhaps "who turns aside to your obedience" or "who has access to your private council".
 [^22-10]: Literally "put a thing against".
 [^22-11]: Literally "runners".
@@ -1759,11 +1759,11 @@
 
 **1** David was told, "Look, the Philistines are fighting against Keilah and plundering the threshing floors."
 
-**2** So David inquired of Yahweh,[^23-1] "Shall I go and attack these Philistines?" Yahweh said to David, "Go, attack the Philistines and save Keilah."
+**2** So David inquired of the LORD,[^23-1] "Shall I go and attack these Philistines?" The LORD said to David, "Go, attack the Philistines and save Keilah."
 
 **3** But David's men said to him, "Look, we are afraid here in Judah. How much more if we go to Keilah against the ranks of the Philistines!"
 
-**4** Once again David inquired of Yahweh, and Yahweh answered him, "Get up, go down to Keilah, for I am giving the Philistines into your hands."
+**4** Once again David inquired of the LORD, and the LORD answered him, "Get up, go down to Keilah, for I am giving the Philistines into your hands."
 
 **5** So David and his men[^23-2] went to Keilah and fought the Philistines. He drove off their livestock and struck them with a great slaughter. So David saved the people of Keilah.
 
@@ -1775,11 +1775,11 @@
 
 **9** When David learned that Saul was plotting evil against him, he said to Abiathar the priest, "Bring the ephod here."
 
-**10** Then David said, "Yahweh, God of Israel, your servant has clearly heard that Saul intends to come to Keilah to destroy the town because of me.
+**10** Then David said, "LORD, God of Israel, your servant has clearly heard that Saul intends to come to Keilah to destroy the town because of me.
 
-**11** Will the leading men[^23-4] of Keilah hand me over to him? Will Saul come down, as your servant has heard? Yahweh, God of Israel, please tell your servant." Yahweh said, "He will come down."
+**11** Will the leading men[^23-4] of Keilah hand me over to him? Will Saul come down, as your servant has heard? LORD, God of Israel, please tell your servant." The LORD said, "He will come down."
 
-**12** David asked, "Will the leading men of Keilah hand me and my men over to Saul?" Yahweh said, "They will hand you over."
+**12** David asked, "Will the leading men of Keilah hand me and my men over to Saul?" The LORD said, "They will hand you over."
 
 **13** So David and his men, about six hundred, got up and left Keilah, and they went wherever they could go.[^23-5] When Saul was told that David had escaped from Keilah, he gave up the expedition.
 
@@ -1791,13 +1791,13 @@
 
 **17** He said to him, "Do not be afraid, for the hand of my father Saul will not find you. You will be king over Israel, and I will be second to you. Even my father Saul knows this."
 
-**18** The two of them made a covenant before Yahweh. David stayed at Horesh, and Jonathan went home.
+**18** The two of them made a covenant before the LORD. David stayed at Horesh, and Jonathan went home.
 
 **19** Then the Ziphites went up to Saul at Gibeah and said, "Is not David hiding among us in the strongholds at Horesh, on the hill of Hachilah, south of Jeshimon?[^23-9]
 
 **20** Now, O king, come down whenever you wish to come down,[^23-10] and it will be our part to hand him over to the king."
 
-**21** Saul said, "May you be blessed by Yahweh, for you have had compassion on me.
+**21** Saul said, "May you be blessed by the LORD, for you have had compassion on me.
 
 **22** Go and make sure once more.[^23-11] Find out and see the place where he goes[^23-12] and who has seen him there, for I am told he is very cunning.
 
@@ -1813,7 +1813,7 @@
 
 **28** So Saul turned back from pursuing David and went to meet the Philistines. That is why that place is called the Rock of Escape.[^23-15]
 
-[^23-1]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^23-1]: *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles.
 [^23-2]: The Hebrew text is written "his man" but read "his men".
 [^23-3]: The meaning of the Hebrew verb is uncertain.
 [^23-4]: Hebrew *ba'alei*, "lords, owners", the town's leading citizens. Also in verse 12.
@@ -1841,11 +1841,11 @@
 
 **4** He came to the sheepfolds by the road, where there was a cave, and Saul went in to relieve himself.[^24-2] David and his men were sitting in the back of the cave.
 
-**5** David's men said to him, "This is the day Yahweh[^24-3] spoke of when he said to you, 'I am giving your enemy[^24-4] into your hands, and you can do to him whatever seems good to you.'" Then David got up and secretly cut off the corner of Saul's robe.
+**5** David's men said to him, "This is the day the LORD[^24-3] spoke of when he said to you, 'I am giving your enemy[^24-4] into your hands, and you can do to him whatever seems good to you.'" Then David got up and secretly cut off the corner of Saul's robe.
 
 **6** Afterward David's conscience troubled him[^24-5] because he had cut off the corner of Saul's robe.
 
-**7** He said to his men, "Yahweh forbid[^24-6] that I should do such a thing to my lord, Yahweh's anointed,[^24-7] and raise my hand against him, for he is Yahweh's anointed."
+**7** He said to his men, "The LORD forbid[^24-6] that I should do such a thing to my lord, the LORD's anointed,[^24-7] and raise my hand against him, for he is the LORD's anointed."
 
 **8** With these words David restrained[^24-8] his men and did not let them rise up against Saul. Then Saul got up, left the cave and went on his way.
 
@@ -1853,39 +1853,39 @@
 
 **10** David said to Saul, "Why do you listen to the words of people who say, 'David is seeking to harm you'?
 
-**11** This very day your own eyes have seen how Yahweh gave you into my hands in the cave today. Some told me to kill you,[^24-9] but I spared you.[^24-10] I said, 'I will not raise my hand against my lord, for he is Yahweh's anointed.'
+**11** This very day your own eyes have seen how the LORD gave you into my hands in the cave today. Some told me to kill you,[^24-9] but I spared you.[^24-10] I said, 'I will not raise my hand against my lord, for he is the LORD's anointed.'
 
 **12** Look, my father, see the corner of your robe in my hand! Since I cut off the corner of your robe and did not kill you, you can know and see that I am guilty of no evil or rebellion.[^24-11] I have not sinned against you, yet you are hunting me down to take my life.
 
-**13** May Yahweh judge between me and you, and may Yahweh avenge me on you, but my hand will not be against you.
+**13** May the LORD judge between me and you, and may the LORD avenge me on you, but my hand will not be against you.
 
 **14** As the ancient proverb says, 'Out of the wicked comes wickedness.' But my hand will not be against you.
 
 **15** Against whom has the king of Israel come out? Whom are you pursuing? A dead dog! A single flea!
 
-**16** May Yahweh be the judge and decide between me and you. May he see and plead my cause, and vindicate me by rescuing me from your hand."[^24-12]
+**16** May the LORD be the judge and decide between me and you. May he see and plead my cause, and vindicate me by rescuing me from your hand."[^24-12]
 
 **17** When David had finished saying these words to Saul, Saul said, "Is that your voice, my son David?" And Saul wept aloud.
 
 **18** He said to David, "You are more righteous than I, for you have repaid me with good, while I have repaid you with evil.
 
-**19** Today you have shown how well you have dealt with me, for Yahweh handed me over to you, but you did not kill me.
+**19** Today you have shown how well you have dealt with me, for the LORD handed me over to you, but you did not kill me.
 
-**20** When a man finds his enemy, does he let him go on his way unharmed? May Yahweh reward you with good for what you have done for me today.
+**20** When a man finds his enemy, does he let him go on his way unharmed? May the LORD reward you with good for what you have done for me today.
 
 **21** Now I know that you will surely be king, and that the kingdom of Israel will be established in your hand.
 
-**22** So swear to me by Yahweh that you will not cut off my descendants after me, or wipe out my name from my father's family."
+**22** So swear to me by the LORD that you will not cut off my descendants after me, or wipe out my name from my father's family."
 
 **23** So David swore this to Saul. Then Saul went home, but David and his men went up to the stronghold.
 
 [^24-1]: Verse 1 is 23:29 in most English Bibles, and verses 2–23 are 24:1–22.
 [^24-2]: Literally "to cover his feet", a polite expression.
-[^24-3]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^24-3]: *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles.
 [^24-4]: The Hebrew text is written "your enemies" but read "your enemy".
 [^24-5]: Literally "David's heart struck him".
-[^24-6]: Literally "Far be it from me, from Yahweh".
-[^24-7]: Hebrew *meshiach YHWH*, "the anointed one of Yahweh", that is, the king; see 2:10. Also later in the verse and in verse 11.
+[^24-6]: Literally "Far be it from me, from the LORD".
+[^24-7]: Hebrew *meshiach YHWH*, "the anointed one of the LORD", that is, the king; see 2:10. Also later in the verse and in verse 11.
 [^24-8]: The meaning of the Hebrew verb is uncertain.
 [^24-9]: Literally "And one said to kill you".
 [^24-10]: Literally "and it had pity on you", that is, my eye. The Septuagint reads "and I spared you".
@@ -1946,23 +1946,23 @@
 
 **25** Please, my lord, pay no attention to this worthless man,[^25-18] Nabal. He is just like his name. Nabal is his name, and folly[^25-19] goes with him. But I, your servant, did not see the young men my lord sent.
 
-**26** Now, my lord, as surely as Yahweh[^25-20] lives and as surely as you live,[^25-21] since Yahweh has kept you from bloodshed and from taking vengeance with your own hand,[^25-22] now let your enemies and those who seek to harm my lord be like Nabal.
+**26** Now, my lord, as surely as the LORD[^25-20] lives and as surely as you live,[^25-21] since the LORD has kept you from bloodshed and from taking vengeance with your own hand,[^25-22] now let your enemies and those who seek to harm my lord be like Nabal.
 
 **27** And now let this gift[^25-23] that your servant[^25-24] has brought to my lord be given to the young men who follow my lord.[^25-25]
 
-**28** Please forgive your servant's offense. Yahweh will certainly make a lasting house[^25-26] for my lord, because my lord fights the battles of Yahweh, and no evil will be found in you as long as you live.
+**28** Please forgive your servant's offense. The LORD will certainly make a lasting house[^25-26] for my lord, because my lord fights the battles of the LORD, and no evil will be found in you as long as you live.
 
-**29** If anyone rises up to pursue you and seek your life, the life of my lord will be bound securely in the bundle of the living[^25-27] with Yahweh your God. But the lives of your enemies he will sling away as from the pocket of a sling.
+**29** If anyone rises up to pursue you and seek your life, the life of my lord will be bound securely in the bundle of the living[^25-27] with the LORD your God. But the lives of your enemies he will sling away as from the pocket of a sling.
 
-**30** When Yahweh has done for my lord all the good he has promised concerning you, and has appointed you ruler[^25-28] over Israel,
+**30** When the LORD has done for my lord all the good he has promised concerning you, and has appointed you ruler[^25-28] over Israel,
 
-**31** my lord will not have this as a cause of stumbling or a burden on his conscience,[^25-29] that he shed blood for no reason or took vengeance for himself. And when Yahweh has dealt well with my lord, remember your servant."
+**31** my lord will not have this as a cause of stumbling or a burden on his conscience,[^25-29] that he shed blood for no reason or took vengeance for himself. And when the LORD has dealt well with my lord, remember your servant."
 
-**32** David said to Abigail, "Blessed be Yahweh, the God of Israel, who sent you to meet me today!
+**32** David said to Abigail, "Blessed be the LORD, the God of Israel, who sent you to meet me today!
 
 **33** Blessed be your good sense, and blessed be you, for keeping me today from bloodshed and from taking vengeance with my own hand.
 
-**34** But as surely as Yahweh, the God of Israel, lives, who has kept me from harming you, if you had not come quickly to meet me, by morning light not a single male belonging to Nabal would have been left."
+**34** But as surely as the LORD, the God of Israel, lives, who has kept me from harming you, if you had not come quickly to meet me, by morning light not a single male belonging to Nabal would have been left."
 
 **35** Then David accepted from her what she had brought him, and he said to her, "Go home in peace. See, I have listened to you and granted your request."[^25-30]
 
@@ -1970,9 +1970,9 @@
 
 **37** In the morning, when Nabal had sobered up,[^25-33] his wife told him all these things, and his heart died within him, and he became like a stone.
 
-**38** About ten days later Yahweh struck Nabal, and he died.
+**38** About ten days later the LORD struck Nabal, and he died.
 
-**39** When David heard that Nabal was dead, he said, "Blessed be Yahweh, who has pleaded my case against Nabal for insulting me, and has kept his servant from doing evil. Yahweh has brought Nabal's evil down on his own head." Then David sent word to Abigail, asking to take her as his wife.
+**39** When David heard that Nabal was dead, he said, "Blessed be the LORD, who has pleaded my case against Nabal for insulting me, and has kept his servant from doing evil. The LORD has brought Nabal's evil down on his own head." Then David sent word to Abigail, asking to take her as his wife.
 
 **40** David's servants came to Abigail at Carmel and said to her, "David has sent us to you to take you as his wife."
 
@@ -2003,7 +2003,7 @@
 [^25-17]: Literally "speak in your ears".
 [^25-18]: Literally "man of *beliyya'al*"; see 2:12.
 [^25-19]: Hebrew *nevalah*, "folly, disgraceful behavior", a play on Nabal's name.
-[^25-20]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^25-20]: *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles.
 [^25-21]: Literally "as your *nephesh* lives".
 [^25-22]: Literally "and your hand saving you". Also in verses 31 and 33.
 [^25-23]: Literally "blessing".
@@ -2041,13 +2041,13 @@
 
 **8** Abishai said to David, "Today God has handed your enemy over to you. Now please let me pin him to the ground with one thrust of the spear.[^26-5] I won't need to strike him twice."
 
-**9** But David said to Abishai, "Do not destroy him. Who can raise his hand against Yahweh's anointed[^26-6] and be guiltless?"
+**9** But David said to Abishai, "Do not destroy him. Who can raise his hand against the LORD's anointed[^26-6] and be guiltless?"
 
-**10** David said, "As surely as Yahweh lives, Yahweh himself will strike him, or his day will come and he will die, or he will go down into battle and perish.
+**10** David said, "As surely as the LORD lives, the LORD himself will strike him, or his day will come and he will die, or he will go down into battle and perish.
 
-**11** Yahweh forbid[^26-7] that I should raise my hand against Yahweh's anointed. Now take the spear that is near his head and the water jug, and let us go."
+**11** The LORD forbid[^26-7] that I should raise my hand against the LORD's anointed. Now take the spear that is near his head and the water jug, and let us go."
 
-**12** So David took the spear and the water jug from near Saul's head, and they left. No one saw it or knew about it, and no one woke up. They were all asleep, because a deep sleep[^26-8] from Yahweh had fallen on them.
+**12** So David took the spear and the water jug from near Saul's head, and they left. No one saw it or knew about it, and no one woke up. They were all asleep, because a deep sleep[^26-8] from the LORD had fallen on them.
 
 **13** Then David crossed over to the other side and stood on top of the hill some distance away, with a wide space between them.
 
@@ -2055,23 +2055,23 @@
 
 **15** David said to Abner, "Aren't you a man? Who is like you in Israel? Then why didn't you guard your lord the king? For one of the people came to destroy your lord the king.
 
-**16** What you have done is not good. As surely as Yahweh lives, all of you deserve to die,[^26-9] because you did not guard your lord, Yahweh's anointed. Now look, where are the king's spear and the water jug that were near his head?"
+**16** What you have done is not good. As surely as the LORD lives, all of you deserve to die,[^26-9] because you did not guard your lord, the LORD's anointed. Now look, where are the king's spear and the water jug that were near his head?"
 
 **17** Saul recognized David's voice and said, "Is that your voice, my son David?" David said, "It is my voice, my lord the king."
 
 **18** He said, "Why is my lord pursuing his servant? What have I done? What evil am I guilty of?[^26-10]
 
-**19** Now let my lord the king listen to the words of his servant. If it is Yahweh who has stirred you up against me, may he accept an offering.[^26-11] But if it is human beings, may they be cursed before Yahweh, for they have now driven me out from my share in Yahweh's inheritance,[^26-12] saying, 'Go, serve other gods.'
+**19** Now let my lord the king listen to the words of his servant. If it is the LORD who has stirred you up against me, may he accept an offering.[^26-11] But if it is human beings, may they be cursed before the LORD, for they have now driven me out from my share in the LORD's inheritance,[^26-12] saying, 'Go, serve other gods.'
 
-**20** So now, do not let my blood fall to the ground far from the presence of Yahweh. For the king of Israel has come out to look for a single flea,[^26-13] as one hunts a partridge[^26-14] in the mountains."
+**20** So now, do not let my blood fall to the ground far from the presence of the LORD. For the king of Israel has come out to look for a single flea,[^26-13] as one hunts a partridge[^26-14] in the mountains."
 
 **21** Then Saul said, "I have sinned. Come back, my son David. I will never harm you again, because my life was precious in your eyes today. I have acted like a fool and have made a very great mistake."
 
 **22** David answered, "Here is the king's spear.[^26-15] Let one of the young men come over and get it.
 
-**23** Yahweh repays everyone for his righteousness and his faithfulness. Yahweh gave you into my hand[^26-16] today, but I would not raise my hand against Yahweh's anointed.
+**23** The LORD repays everyone for his righteousness and his faithfulness. The LORD gave you into my hand[^26-16] today, but I would not raise my hand against the LORD's anointed.
 
-**24** As your life was precious[^26-17] in my eyes today, so may my life be precious in the eyes of Yahweh, and may he rescue me from all trouble."
+**24** As your life was precious[^26-17] in my eyes today, so may my life be precious in the eyes of the LORD, and may he rescue me from all trouble."
 
 **25** Saul said to David, "May you be blessed, my son David! You will do great things and you will surely succeed."[^26-18] So David went on his way, and Saul went back home.[^26-19]
 
@@ -2080,13 +2080,13 @@
 [^26-3]: Hebrew *ma'gal*; see 17:20. Also in verse 7.
 [^26-4]: Zeruiah was David's sister (1 Chronicles 2:16).
 [^26-5]: Literally "let me strike him with the spear and into the ground once".
-[^26-6]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles. "Yahweh's anointed" (Hebrew *meshiach YHWH*, "the anointed one of Yahweh") is the king; see 2:10. Also in verses 11, 16 and 23.
-[^26-7]: Literally "Far be it from me, from Yahweh".
+[^26-6]: *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles. "The LORD's anointed" (Hebrew *meshiach YHWH*, "the anointed one of the LORD") is the king; see 2:10. Also in verses 11, 16 and 23.
+[^26-7]: Literally "Far be it from me, from the LORD".
 [^26-8]: Hebrew *tardemah*, as in Genesis 2:21 and 15:12.
 [^26-9]: Literally "you are sons of death".
 [^26-10]: Literally "What evil is in my hand?"
 [^26-11]: Literally "may he smell an offering", that is, be pleased with a sacrifice.
-[^26-12]: Literally "from attaching myself to the inheritance of Yahweh".
+[^26-12]: Literally "from attaching myself to the inheritance of the LORD".
 [^26-13]: The Septuagint reads "to seek my life".
 [^26-14]: Hebrew *qore*, literally "the caller".
 [^26-15]: The Hebrew text is written "Here is the spear, O king" but read "Here is the king's spear".
@@ -2146,7 +2146,7 @@
 
 **5** When Saul saw the Philistine army, he was afraid, and his heart trembled greatly.
 
-**6** Saul inquired of Yahweh,[^28-3] but Yahweh did not answer him, not by dreams, nor by Urim,[^28-4] nor by prophets.
+**6** Saul inquired of the LORD,[^28-3] but the LORD did not answer him, not by dreams, nor by Urim,[^28-4] nor by prophets.
 
 **7** Then Saul said to his servants, "Find me a woman who is a medium,[^28-5] so that I may go to her and consult her." His servants said to him, "There is a woman who is a medium at En-dor."
 
@@ -2154,7 +2154,7 @@
 
 **9** But the woman said to him, "Surely you know what Saul has done, how he has cut off the mediums and spiritists from the land. Why then are you setting a trap for my life to have me killed?"
 
-**10** Saul swore to her by Yahweh, "As surely as Yahweh lives, you will not be punished[^28-7] for this."
+**10** Saul swore to her by the LORD, "As surely as the LORD lives, you will not be punished[^28-7] for this."
 
 **11** Then the woman asked, "Whom shall I bring up for you?" He said, "Bring up Samuel for me."
 
@@ -2166,13 +2166,13 @@
 
 **15** Samuel said to Saul, "Why have you disturbed me by bringing me up?" Saul said, "I am in great distress. The Philistines are fighting against me, and God has turned away from me. He no longer answers me, either by prophets or by dreams. So I have called you to tell me what I should do."
 
-**16** Samuel said, "Why do you ask me, when Yahweh has turned away from you and become your enemy?[^28-9]
+**16** Samuel said, "Why do you ask me, when the LORD has turned away from you and become your enemy?[^28-9]
 
-**17** Yahweh has done to you[^28-10] just as he spoke through me. Yahweh has torn the kingdom out of your hand and given it to your neighbor, to David.
+**17** The LORD has done to you[^28-10] just as he spoke through me. The LORD has torn the kingdom out of your hand and given it to your neighbor, to David.
 
-**18** Because you did not obey Yahweh[^28-11] and did not carry out his fierce anger against Amalek, Yahweh has done this to you today.
+**18** Because you did not obey the LORD[^28-11] and did not carry out his fierce anger against Amalek, the LORD has done this to you today.
 
-**19** Yahweh will also give Israel along with you into the hands of the Philistines. Tomorrow you and your sons will be with me. Yahweh will also give the army of Israel into the hands of the Philistines."
+**19** The LORD will also give Israel along with you into the hands of the Philistines. Tomorrow you and your sons will be with me. The LORD will also give the army of Israel into the hands of the Philistines."
 
 **20** At once Saul fell full length on the ground, terrified by Samuel's words. There was no strength left in him, for he had eaten nothing[^28-12] all that day and all that night.
 
@@ -2188,15 +2188,15 @@
 
 [^28-1]: Literally "the keeper of my head".
 [^28-2]: Hebrew *ovot* and *yidde'onim*: spirits of the dead, or people who claimed to call them up and consult them (Leviticus 19:31; Deuteronomy 18:11). Also in verse 9.
-[^28-3]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
-[^28-4]: Hebrew *urim*, objects kept in the high priest's breastpiece and used to learn Yahweh's decision (Exodus 28:30; Numbers 27:21).
+[^28-3]: *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles.
+[^28-4]: Hebrew *urim*, objects kept in the high priest's breastpiece and used to learn the LORD's decision (Exodus 28:30; Numbers 27:21).
 [^28-5]: Literally "a woman who is mistress of an *ov*". Also later in the verse.
 [^28-6]: Hebrew *ov*.
 [^28-7]: Literally "guilt will not meet you".
 [^28-8]: Hebrew *elohim*, "god(s), divine being". The verb "coming up" is plural.
 [^28-9]: Hebrew *arekha*, a rare word, probably "your enemy". The Septuagint reads "and is with your neighbor".
 [^28-10]: Literally "to him", or "for himself".
-[^28-11]: Literally "did not listen to the voice of Yahweh".
+[^28-11]: Literally "did not listen to the voice of the LORD".
 [^28-12]: Literally "he had not eaten bread".
 [^28-13]: Hebrew *shiphchah*, "female servant"; see 1:18. Also in verse 22.
 [^28-14]: Literally "I put my *nephesh* in my palm".
@@ -2215,7 +2215,7 @@
 
 **5** Isn't this the David they sang about in their dances: 'Saul has struck down his thousands, and David his tens of thousands'?"[^29-5]
 
-**6** So Achish called David and said to him, "As surely as Yahweh[^29-6] lives, you have been honest, and I would be glad to have you march out and in with me in the army.[^29-7] I have found nothing wrong with you from the day you came to me until today. But the rulers do not approve of you.
+**6** So Achish called David and said to him, "As surely as the LORD[^29-6] lives, you have been honest, and I would be glad to have you march out and in with me in the army.[^29-7] I have found nothing wrong with you from the day you came to me until today. But the rulers do not approve of you.
 
 **7** So now go back, and go in peace, so that you do not displease[^29-8] the rulers of the Philistines."
 
@@ -2232,7 +2232,7 @@
 [^29-3]: Hebrew *satan*, "adversary, opponent".
 [^29-4]: Literally "Is it not with the heads of those men?"
 [^29-5]: The Hebrew text is written "his ten thousand" but read "his tens of thousands". Compare 18:7 and 21:12 (21:11 in most English Bibles).
-[^29-6]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^29-6]: *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles.
 [^29-7]: Literally "your going out and your coming in with me in the camp is good in my eyes".
 [^29-8]: Literally "do nothing evil in the eyes of".
 [^29-9]: The Septuagint adds "and go to the place where I stationed you. Do not let any evil thought enter your heart, for you are good in my sight."
@@ -2251,11 +2251,11 @@
 
 **5** David's two wives had been taken captive, Ahinoam of Jezreel and Abigail of Carmel, Nabal's widow.
 
-**6** David was in great distress, because the troops were talking of stoning him. All the troops were bitter in spirit,[^30-2] each one over his sons[^30-3] and daughters. But David found strength in Yahweh[^30-4] his God.
+**6** David was in great distress, because the troops were talking of stoning him. All the troops were bitter in spirit,[^30-2] each one over his sons[^30-3] and daughters. But David found strength in the LORD[^30-4] his God.
 
 **7** David said to Abiathar the priest, son of Ahimelech, "Please bring me the ephod." So Abiathar brought the ephod to David.
 
-**8** David inquired of Yahweh, "Shall I pursue this raiding party?[^30-5] Will I overtake them?" He answered him, "Pursue, for you will certainly overtake them, and you will certainly rescue the captives."[^30-6]
+**8** David inquired of the LORD, "Shall I pursue this raiding party?[^30-5] Will I overtake them?" He answered him, "Pursue, for you will certainly overtake them, and you will certainly rescue the captives."[^30-6]
 
 **9** So David went, he and the six hundred men who were with him, and they came to the Besor Valley,[^30-7] where some stayed behind.
 
@@ -2285,13 +2285,13 @@
 
 **22** But all the evil and worthless men[^30-14] among those who had gone with David said, "Because they did not go with us,[^30-15] we will not give them any of the plunder we recovered, except that each man may take his wife and his children and go."
 
-**23** But David said, "You must not do that, my brothers, with what Yahweh has given us. He has protected us and handed over to us the raiding party that came against us.
+**23** But David said, "You must not do that, my brothers, with what the LORD has given us. He has protected us and handed over to us the raiding party that came against us.
 
 **24** Who would listen to you in this matter? The share of the one who stays with the supplies is to be the same as the share of the one who goes down into battle. They will share alike."
 
 **25** From that day forward he made it a decree and a ruling[^30-16] for Israel, as it is to this day.
 
-**26** When David came to Ziklag, he sent some of the plunder to the elders of Judah, his friends,[^30-17] saying, "Here is a gift[^30-18] for you from the plunder of the enemies of Yahweh."
+**26** When David came to Ziklag, he sent some of the plunder to the elders of Judah, his friends,[^30-17] saying, "Here is a gift[^30-18] for you from the plunder of the enemies of the LORD."
 
 **27** He sent it to those in Bethel, Ramoth-negev[^30-19] and Jattir,
 
@@ -2306,7 +2306,7 @@
 [^30-1]: The dry country in the south of the land. Also in verse 14.
 [^30-2]: Literally "the *nephesh* of all the troops was bitter".
 [^30-3]: The Hebrew text is written "his son" but read "his sons".
-[^30-4]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^30-4]: *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles.
 [^30-5]: Hebrew *gedud*, a band of raiders. Also in verses 15 and 23.
 [^30-6]: Literally "and you will certainly rescue".
 [^30-7]: Hebrew *nachal*, a valley with a stream that flows in the rainy season. Also in verses 10 and 21.

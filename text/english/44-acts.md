@@ -196,11 +196,11 @@
 [^2-14]: Literally "all flesh".
 [^2-15]: Or "slaves". Joel has "the male and female servants", without "my", and does not have "and they will prophesy".
 [^2-16]: Joel has "in the heavens and on the earth"; "above", "signs" and "below" are added in Acts.
-[^2-17]: Joel has "the great and terrible day". Acts follows the Septuagint, which reads *epiphanes*, "glorious, manifest". In the Hebrew, "the Lord" in verses 20–21 is God's personal name, Yahweh.
+[^2-17]: Joel has "the great and terrible day". Acts follows the Septuagint, which reads *epiphanes*, "glorious, manifest". In the Hebrew, "the Lord" in verses 20–21 is God's personal name, YHWH ("the LORD").
 [^2-18]: Literally "Men, Israelites".
 [^2-19]: Literally "fastening (him)", that is, to a cross. *Lawless men*: or "men without the Law", that is, Gentiles.
 [^2-20]: Greek *odines*, "pains", especially the pains of childbirth. The phrase "pains of death" is found in the Septuagint of Psalms 18:5 (18:4 in most English Bibles) and 116:3, where the Hebrew has "the cords of death".
-[^2-21]: Verses 25–28 quote Psalm 16:8–11 from the Septuagint. Here the Hebrew reads "I have set Yahweh always before me". In the Hebrew, "the Lord" is God's personal name, Yahweh.
+[^2-21]: Verses 25–28 quote Psalm 16:8–11 from the Septuagint. Here the Hebrew reads "I have set the LORD always before me". In the Hebrew, "the Lord" is God's personal name, YHWH ("the LORD").
 [^2-22]: The Hebrew has "my whole being rejoices" (literally "my glory") and "will rest secure"; "my tongue" and "in hope" are the Septuagint's wording. *My body*: literally "my flesh", as in verse 31.
 [^2-23]: Greek *psyche*, "soul, life", for Hebrew *nephesh*.
 [^2-24]: Greek *hades*, the realm of the dead, like Sheol. The Hebrew psalm has *Sheol*.
@@ -212,9 +212,9 @@
 [^2-30]: Greek *christos*, "anointed one".
 [^2-31]: Many manuscripts read "that his soul was not abandoned to Hades".
 [^2-32]: Or "exalted by the right hand of God".
-[^2-33]: Psalm 110:1. In the Hebrew, "the Lord" is God's personal name: "Yahweh says to my lord".
+[^2-33]: Psalm 110:1. In the Hebrew, "the Lord" is God's personal name: "The LORD says to my lord".
 [^2-34]: Greek *metanoeo*, to turn around in mind and life.
-[^2-35]: Compare Isaiah 57:19 ("to the far and to the near") and Joel 3:5 (2:32 in most English Bibles: "those whom Yahweh calls").
+[^2-35]: Compare Isaiah 57:19 ("to the far and to the near") and Joel 3:5 (2:32 in most English Bibles: "those whom the LORD calls").
 [^2-36]: Literally "Be saved". *Crooked generation*: compare Deuteronomy 32:5.
 [^2-37]: Literally "his word". Many manuscripts read "those who gladly accepted his message".
 [^2-38]: Literally "souls".
@@ -287,7 +287,7 @@
 [^3-8]: Or "Leader", "Founder", "Pioneer". Greek *archegos*.
 [^3-9]: The Greek of this sentence is awkward. Literally "And on the faith of his name, this one whom you see and know, his name made strong".
 [^3-10]: Many manuscripts read "Moses said to the ancestors".
-[^3-11]: Literally "from your brothers". Verses 22–23 quote Deuteronomy 18:15, 18–19, with words from Leviticus 23:29. In the Hebrew, "the Lord" is God's personal name, Yahweh. Some manuscripts read "the Lord your God", as in Deuteronomy, and many read "the Lord our God".
+[^3-11]: Literally "from your brothers". Verses 22–23 quote Deuteronomy 18:15, 18–19, with words from Leviticus 23:29. In the Hebrew, "the Lord" is God's personal name, YHWH ("the LORD"). Some manuscripts read "the Lord your God", as in Deuteronomy, and many read "the Lord our God".
 [^3-12]: Greek *exolethreuo*, "destroy utterly". Deuteronomy 18:19 reads "I myself will hold him accountable"; the words "cut off from the people" are from Leviticus 23:29, where the Septuagint uses this verb.
 [^3-13]: Literally "sons".
 [^3-14]: Genesis 22:18; 26:4; 28:14 (compare 12:3). Genesis 22:18 and 26:4 have "nations"; 12:3 and 28:14 have "families".
@@ -386,7 +386,7 @@
 [^4-13]: Greek *despotes*, "master, sovereign ruler". Many manuscripts read "Master, you are the God who made".
 [^4-14]: See Exodus 20:11; Psalm 146:6.
 [^4-15]: The Greek of this sentence is difficult. Literally "who, of our father, through the Holy Spirit, of the mouth of David your servant, said". *Servant*: Greek *pais*, "servant" or "child", as in verses 27 and 30. Many manuscripts read "who said through the mouth of your servant David".
-[^4-16]: Psalm 2:1–2, as in the Septuagint, which has "gather together" where the Hebrew has "conspire together". In the Hebrew, "the Lord" is God's personal name, Yahweh. *His anointed one*: Greek *christos*, "anointed one, Messiah"; compare "whom you anointed" in verse 27.
+[^4-16]: Psalm 2:1–2, as in the Septuagint, which has "gather together" where the Hebrew has "conspire together". In the Hebrew, "the Lord" is God's personal name, YHWH ("the LORD"). *His anointed one*: Greek *christos*, "anointed one, Messiah"; compare "whom you anointed" in verse 27.
 [^4-17]: Many manuscripts leave out "in this city".
 [^4-18]: Greek *ethne*, "nations" or "Gentiles", the word translated "nations" in verse 25.
 [^4-19]: Or "slaves".
@@ -699,7 +699,7 @@
 [^7-23]: Exodus 2:13–14, as in the Septuagint, which adds "yesterday".
 [^7-24]: Exodus 2:15, 22; 18:3–4.
 [^7-25]: Many manuscripts read "an angel of the Lord", as in Exodus 3:2. Verses 30–34 retell Exodus 3:1–10, where the mountain is called Horeb.
-[^7-26]: Here and in verse 33, "the Lord" stands for God's personal name, Yahweh, as in Exodus 3:4, 7.
+[^7-26]: Here and in verse 33, "the Lord" stands for God's personal name, YHWH ("the LORD"), as in Exodus 3:4, 7.
 [^7-27]: Exodus 3:6, which reads "the God of your father". Many manuscripts read "the God of Abraham, the God of Isaac and the God of Jacob".
 [^7-28]: Exodus 3:5, 7–8, 10, shortened. *Groaning* is the word of Exodus 2:24.
 [^7-29]: Greek *Erythra Thalassa*, the Septuagint's name for the Hebrew *Yam Suph*, "Sea of Reeds".
@@ -717,7 +717,7 @@
 [^7-41]: Greek *Iesous*, the Greek form of the name Joshua (Hebrew *Yehoshua*). Joshua 3:14–17; 18:1.
 [^7-42]: Some manuscripts read "for the house of Jacob". Compare Psalm 132:5 ("a dwelling place for the Mighty One of Jacob") and 2 Samuel 7:1–16.
 [^7-43]: Literally "in things made by hands". Many manuscripts read "in temples made by hands".
-[^7-44]: Isaiah 66:1–2. In the Hebrew, "the Lord" is God's personal name, Yahweh. The Hebrew of verse 2 is a statement: "My hand made all these things."
+[^7-44]: Isaiah 66:1–2. In the Hebrew, "the Lord" is God's personal name, YHWH ("the LORD"). The Hebrew of verse 2 is a statement: "My hand made all these things."
 [^7-45]: *Stiff-necked*: literally "hard of neck", that is, stubborn, as in Exodus 33:3, 5. *Uncircumcised in heart and ears*: closed to God and unwilling to listen; compare Leviticus 26:41; Jeremiah 6:10; 9:25 (9:26 in most English Bibles). *Resist the Holy Spirit*: compare Isaiah 63:10.
 [^7-46]: Literally "into ordinances of angels". Compare Deuteronomy 33:2, where the Septuagint has angels at God's right hand at Sinai; Galatians 3:19; Hebrews 2:2.
 [^7-47]: Literally "they were sawn through in their hearts"; see 5:33.
@@ -1313,7 +1313,7 @@
 [^13-4]: The Roman governor of a province under the authority of the Senate, as Cyprus was.
 [^13-5]: That is, *Elymas* means "magician". The origin of the name is uncertain.
 [^13-6]: *Paul* (Latin *Paulus*) was his Roman name. From here on Acts calls him Paul.
-[^13-7]: Compare Hosea 14:10 (14:9 in most English Bibles): "the ways of Yahweh are right".
+[^13-7]: Compare Hosea 14:10 (14:9 in most English Bibles): "the ways of the LORD are right".
 [^13-8]: A different city from Antioch in Syria (11:19–26; 13:1).
 [^13-9]: Literally "Men, brothers"; also in verses 26 and 38.
 [^13-10]: Literally "Men, Israelites".
@@ -1516,7 +1516,7 @@
 [^15-9]: Greek *skene*, "tent, booth", the Septuagint's word for Hebrew *sukkah*, "shelter, hut". The royal house of David is pictured as a shelter that has fallen down.
 [^15-10]: Or "all the Gentiles". The Greek word is the same.
 [^15-11]: Literally "over whom my name has been called", that is, who belong to me. The Hebrew of Amos 9:12 reads "so that they may take possession of what is left of Edom and of all the nations that are called by my name". The Septuagint follows a Hebrew text that read *adam*, "humankind", for *edom*, "Edom", and *yidreshu*, "they will seek", for *yirshu*, "they will take possession". Most manuscripts of the Septuagint have no object after "seek"; Acts has "seek the Lord".
-[^15-12]: In the Hebrew of Amos, "says the Lord" is "declares Yahweh", with God's personal name, Yahweh.
+[^15-12]: In the Hebrew of Amos, "says the Lord" is "declares the LORD", with God's personal name, YHWH ("the LORD").
 [^15-13]: These words are not in Amos; compare Isaiah 45:21. Many manuscripts read "who does all these things. Known to God from long ago are all his works."
 [^15-14]: That is, food sacrificed to idols (verse 29).
 [^15-15]: Greek *porneia*, sexual immorality of any kind.

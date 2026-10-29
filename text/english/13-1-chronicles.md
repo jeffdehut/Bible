@@ -152,7 +152,7 @@
 
 **2** Dan, Joseph, Benjamin, Naphtali, Gad and Asher.
 
-**3** The sons of Judah:[^2-1] Er, Onan and Shelah. These three were born to him by the daughter of Shua, the Canaanite woman.[^2-2] Er, Judah's firstborn, was evil in the sight of Yahweh,[^2-3] so he put him to death.
+**3** The sons of Judah:[^2-1] Er, Onan and Shelah. These three were born to him by the daughter of Shua, the Canaanite woman.[^2-2] Er, Judah's firstborn, was evil in the sight of the LORD,[^2-3] so he put him to death.
 
 **4** His daughter-in-law Tamar bore him Perez and Zerah. Judah had five sons in all.
 
@@ -260,12 +260,12 @@
 
 [^2-1]: Verses 3–4 summarize Genesis 38; compare Genesis 46:12 and Numbers 26:19–21.
 [^2-2]: Or "by Bath-shua the Canaanite woman". Hebrew *bat-shua*, "daughter of Shua" (Genesis 38:2).
-[^2-3]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^2-3]: *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles.
 [^2-4]: Joshua 7:1 has Zabdi son of Zerah.
 [^2-5]: 1 Kings 5:11 (4:31 in most English Bibles) names Ethan the Ezrahite, Heman, Calcol and Darda as famous wise men.
 [^2-6]: Literally "sons"; also in verses 8 and 31. Carmi was a descendant of Zerah (Joshua 7:1).
 [^2-7]: Called Achan in Joshua 7. *Achar* sounds like the Hebrew *okher*, "troubler", and like Achor, the valley where Achan was put to death (Joshua 7:24–26).
-[^2-8]: Hebrew *cherem*, things set apart for Yahweh, to be destroyed or given wholly to him (Joshua 6:17–19; 7:1).
+[^2-8]: Hebrew *cherem*, things set apart for the LORD, to be destroyed or given wholly to him (Joshua 6:17–19; 7:1).
 [^2-9]: Another form of the name Caleb (verses 18 and 42).
 [^2-10]: Verses 10–12 give the line found in Ruth 4:19–22. Nahshon was the leader of Judah in the wilderness (Numbers 1:7; 2:3).
 [^2-11]: Ruth 4:20–21 has Salmah and Salmon.
@@ -567,7 +567,7 @@
 
 **40** Azariah fathered Seraiah, and Seraiah fathered Jehozadak.
 
-**41** Jehozadak went into exile[^5-18] when Yahweh[^5-19] sent Judah and Jerusalem into exile by the hand of Nebuchadnezzar.
+**41** Jehozadak went into exile[^5-18] when the LORD[^5-19] sent Judah and Jerusalem into exile by the hand of Nebuchadnezzar.
 
 [^5-1]: Literally "profaned his father's couches". See Genesis 35:22; 49:4.
 [^5-2]: Literally "and not to be enrolled in the genealogy for the birthright".
@@ -587,7 +587,7 @@
 [^5-16]: Verses 27–41 are 6:1–15 in most English Bibles. Compare Exodus 6:16–25.
 [^5-17]: Literally "sons".
 [^5-18]: Literally "went".
-[^5-19]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^5-19]: *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles.
 
 ## Chapter 6
 
@@ -623,9 +623,9 @@
 
 **15** Shimea his son, Haggiah his son, Asaiah his son.
 
-**16** These are the men whom David put in charge of the music in the house of Yahweh[^6-6] after the ark came to rest there.
+**16** These are the men whom David put in charge of the music in the house of the LORD[^6-6] after the ark came to rest there.
 
-**17** They served with music before the tabernacle, the tent of meeting,[^6-7] until Solomon built the house of Yahweh in Jerusalem. They carried out their service according to the rule laid down for them.
+**17** They served with music before the tabernacle, the tent of meeting,[^6-7] until Solomon built the house of the LORD in Jerusalem. They carried out their service according to the rule laid down for them.
 
 **18** These are the men who served, with their sons. From the Kohathites: Heman the singer, son of Joel, son of Samuel,
 
@@ -730,8 +730,8 @@
 [^6-3]: In verse 23 and in Exodus 6:21 Korah is the son of Izhar.
 [^6-4]: The Hebrew text is written "Elkanah his son, Elkanah" but read "Elkanah, the sons of Elkanah".
 [^6-5]: The firstborn's name is missing in the Hebrew. Verse 18 and 1 Samuel 8:2 name him Joel. The Hebrew *va-shni*, "and the second", was once taken as a name, Vashni.
-[^6-6]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
-[^6-7]: Literally "the tabernacle of the tent of meeting". Hebrew *mishkan*, "dwelling place", and *ohel mo'ed*, the tent where Yahweh met with his people (Exodus 27:21).
+[^6-6]: *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles.
+[^6-7]: Literally "the tabernacle of the tent of meeting". Hebrew *mishkan*, "dwelling place", and *ohel mo'ed*, the tent where the LORD met with his people (Exodus 27:21).
 [^6-8]: The Hebrew text is written "Ziph" but read "Zuph". Compare 1 Samuel 1:1, where the name is Zuph and Toah (verse 19) is Tohu.
 [^6-9]: Literally "brother", here a fellow Levite; also "kinsmen" in verses 29 and 33.
 [^6-10]: Hebrew *maqtirim*, "burning to smoke", used of both sacrifices and incense.
@@ -1010,15 +1010,15 @@
 
 **18** and until now they have been stationed at the King's Gate on the east. These were the gatekeepers of the camps of the Levites.
 
-**19** Shallum son of Kore, son of Ebiasaph, son of Korah, and his kinsmen of his ancestral family, the Korahites, were in charge of the work of the service, guarding the thresholds of the tent,[^9-9] as their ancestors had been in charge of the camp of Yahweh,[^9-10] guarding the entrance.
+**19** Shallum son of Kore, son of Ebiasaph, son of Korah, and his kinsmen of his ancestral family, the Korahites, were in charge of the work of the service, guarding the thresholds of the tent,[^9-9] as their ancestors had been in charge of the camp of the LORD,[^9-10] guarding the entrance.
 
-**20** Phinehas son of Eleazar was the officer over them in earlier times. Yahweh was with him.[^9-11]
+**20** Phinehas son of Eleazar was the officer over them in earlier times. The LORD was with him.[^9-11]
 
 **21** Zechariah son of Meshelemiah was the gatekeeper at the entrance of the tent of meeting.
 
 **22** All those chosen as gatekeepers at the thresholds numbered 212. They were listed in the genealogies in their villages. David and Samuel the seer had appointed them to their position of trust.
 
-**23** They and their sons were in charge of the gates of the house of Yahweh, the house of the tent, by watches.
+**23** They and their sons were in charge of the gates of the house of the LORD, the house of the tent, by watches.
 
 **24** The gatekeepers were on the four sides: east, west, north and south.
 
@@ -1071,10 +1071,10 @@
 [^9-7]: Literally "heads of fathers by the house of their fathers": leaders of extended families. Also in verses 13 and 33–34.
 [^9-8]: Hebrew *nagid*, "leader, ruler".
 [^9-9]: That is, the sanctuary. The temple is called "the tent" by the name of the tabernacle that came before it; also in verse 23.
-[^9-10]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
-[^9-11]: Or "May Yahweh be with him."
+[^9-10]: *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles.
+[^9-11]: Or "May the LORD be with him."
 [^9-12]: Hebrew *chavittim*, cakes made on a griddle (Leviticus 6:14; 6:21 in most English Bibles).
-[^9-13]: Hebrew *lechem ha-ma'arekhet*, "the bread of the arrangement": the bread of the Presence, set out in rows on the table before Yahweh (Exodus 25:30; Leviticus 24:5–9).
+[^9-13]: Hebrew *lechem ha-ma'arekhet*, "the bread of the arrangement": the bread of the Presence, set out in rows on the table before the LORD (Exodus 25:30; Leviticus 24:5–9).
 [^9-14]: The Hebrew text is written "Jeuel" but read "Jeiel". Verses 35–44 repeat, with small differences, 8:29–38.
 [^9-15]: Hebrew *Meri-baal*, another spelling of Merib-baal. Called Mephibosheth in 2 Samuel 4:4 and 9:6.
 [^9-16]: 8:35 adds "and Ahaz".
@@ -1107,9 +1107,9 @@
 
 **12** all the valiant men set out. They took the body of Saul and the bodies of his sons and brought them to Jabesh. They buried their bones under the oak[^10-8] at Jabesh, and they fasted for seven days.[^10-9]
 
-**13** So Saul died because of his unfaithfulness to Yahweh.[^10-10] He did not keep the word of Yahweh, and he even consulted a medium[^10-11] for guidance
+**13** So Saul died because of his unfaithfulness to the LORD.[^10-10] He did not keep the word of the LORD, and he even consulted a medium[^10-11] for guidance
 
-**14** instead of seeking guidance from Yahweh. So he put him to death and turned the kingdom over to David son of Jesse.
+**14** instead of seeking guidance from the LORD. So he put him to death and turned the kingdom over to David son of Jesse.
 
 [^10-1]: Verses 1–12 parallel 1 Samuel 31:1–13.
 [^10-2]: Literally "fell slain".
@@ -1120,7 +1120,7 @@
 [^10-7]: Literally "the house of their gods … the house of Dagon". 1 Samuel 31:10 reads "They put his armor in the temple of the Ashtoreths, and they fastened his body to the wall of Beth-shan." Dagon was a god of the Philistines (1 Samuel 5:2).
 [^10-8]: Hebrew *elah*, a large tree, perhaps a terebinth. 1 Samuel 31:13 has "the tamarisk tree".
 [^10-9]: 1 Samuel 31:12 adds that they traveled all night to take the bodies from the wall of Beth-shan, and that they burned them at Jabesh.
-[^10-10]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles. Compare 1 Samuel 13:13–14; 15:22–23; 28:6–19.
+[^10-10]: *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles. Compare 1 Samuel 13:13–14; 15:22–23; 28:6–19.
 [^10-11]: Hebrew *ov*: a spirit of the dead, or a person who claimed to call one up and consult it (1 Samuel 28:7).
 
 ## Chapter 11
@@ -1129,9 +1129,9 @@
 
 **1** All Israel gathered to David at Hebron[^11-1] and said, "Look, we are your own flesh and blood.[^11-2]
 
-**2** For some time now,[^11-3] even while Saul was king, it was you who led Israel out to battle and brought it back.[^11-4] And Yahweh[^11-5] your God said to you, 'You will shepherd my people Israel, and you will be leader[^11-6] over my people Israel.'"
+**2** For some time now,[^11-3] even while Saul was king, it was you who led Israel out to battle and brought it back.[^11-4] And the LORD[^11-5] your God said to you, 'You will shepherd my people Israel, and you will be leader[^11-6] over my people Israel.'"
 
-**3** All the elders of Israel came to the king at Hebron, and David made a covenant with them at Hebron before Yahweh, and they anointed David king over Israel, according to the word of Yahweh through Samuel.[^11-7]
+**3** All the elders of Israel came to the king at Hebron, and David made a covenant with them at Hebron before the LORD, and they anointed David king over Israel, according to the word of the LORD through Samuel.[^11-7]
 
 **4** David and all Israel went to Jerusalem, that is, Jebus. The Jebusites, the inhabitants of the land, were there.
 
@@ -1143,9 +1143,9 @@
 
 **8** He built the city all around, from the Millo[^11-10] to the surrounding area,[^11-11] and Joab restored[^11-12] the rest of the city.
 
-**9** David became greater and greater, for Yahweh of Armies[^11-13] was with him.
+**9** David became greater and greater, for the LORD of Armies[^11-13] was with him.
 
-**10** These are the chiefs of David's mighty warriors,[^11-14] who, together with all Israel, gave him strong support in his kingdom, to make him king according to the word of Yahweh concerning Israel.
+**10** These are the chiefs of David's mighty warriors,[^11-14] who, together with all Israel, gave him strong support in his kingdom, to make him king according to the word of the LORD concerning Israel.
 
 **11** This is the list of David's mighty warriors: Jashobeam son of Hachmoni,[^11-15] the chief of the officers.[^11-16] He wielded his spear against three hundred,[^11-17] whom he killed at one time.
 
@@ -1153,7 +1153,7 @@
 
 **13** He was with David at Pas-dammim when the Philistines gathered there for battle.[^11-18] There was a plot of ground full of barley,[^11-19] and the troops fled from the Philistines.
 
-**14** But they took their stand in the middle of the plot, defended it and struck down the Philistines. And Yahweh saved them with a great victory.
+**14** But they took their stand in the middle of the plot, defended it and struck down the Philistines. And the LORD saved them with a great victory.
 
 **15** Three of the Thirty,[^11-20] the chiefs, went down to the rock,[^11-21] to David at the cave of Adullam, while an army of Philistines was camped in the Valley of Rephaim.
 
@@ -1161,7 +1161,7 @@
 
 **17** David felt a craving and said, "If only someone would give me water to drink from the well of Bethlehem that is by the gate!"
 
-**18** So the Three broke through the Philistine camp, drew water from the well of Bethlehem that was by the gate, and carried it back to David. But David would not drink it. He poured it out to Yahweh
+**18** So the Three broke through the Philistine camp, drew water from the well of Bethlehem that was by the gate, and carried it back to David. But David would not drink it. He poured it out to the LORD
 
 **19** and said, "Far be it from me before my God that I should do this! Shall I drink the blood of these men at the risk of their lives? For at the risk of their lives they brought it."[^11-22] So he would not drink it. These were the deeds of the three mighty warriors.
 
@@ -1225,7 +1225,7 @@
 [^11-2]: Literally "your bone and your flesh".
 [^11-3]: Literally "both yesterday and the day before".
 [^11-4]: Literally "you were the one who led out and brought in Israel".
-[^11-5]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^11-5]: *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles.
 [^11-6]: Hebrew *nagid*, a leader or ruler designated by God.
 [^11-7]: Literally "by the hand of Samuel". See 1 Samuel 16:1–13. Here 2 Samuel 5:4–5 adds David's age and the length of his reign; compare 3:4 and 29:27 in this book.
 [^11-8]: 2 Samuel 5:6 adds "Even the blind and the lame will turn you away."
@@ -1233,7 +1233,7 @@
 [^11-10]: Hebrew *ha-millo*, "the filling": probably a terraced structure of stone and earth on the slope of the city.
 [^11-11]: Literally "to the surrounding". 2 Samuel 5:9 has "inward".
 [^11-12]: Literally "revived".
-[^11-13]: Hebrew *YHWH tseva'ot*, traditionally "the LORD of hosts" or "the LORD Almighty". *Tseva'ot* means armies: the heavenly hosts and the armies of Israel. 2 Samuel 5:10 has "Yahweh, the God of Armies".
+[^11-13]: Hebrew *YHWH tseva'ot*, traditionally "the LORD of hosts" or "the LORD Almighty". *Tseva'ot* means armies: the heavenly hosts and the armies of Israel. 2 Samuel 5:10 has "the LORD, the God of Armies".
 [^11-14]: Verses 10–41 parallel the list in 2 Samuel 23:8–39. Verses 41–47 continue the list beyond it.
 [^11-15]: 2 Samuel 23:8 has "Josheb-basshebeth the Tahchemonite".
 [^11-16]: The Hebrew text is written "the Thirty" but read *ha-shalishim*, perhaps "the officers" (literally "third men"). See 2 Samuel 23:8.
@@ -1317,7 +1317,7 @@
 
 **23** Day after day men came to David to help him, until there was a great army, like the army of God.[^12-14]
 
-**24** These are the numbers of the divisions[^12-15] armed for war, who came to David at Hebron to turn the kingdom of Saul over to him, according to the word of Yahweh:[^12-16]
+**24** These are the numbers of the divisions[^12-15] armed for war, who came to David at Hebron to turn the kingdom of Saul over to him, according to the word of the LORD:[^12-16]
 
 **25** Of the people of Judah, carrying shield and spear: 6,800 armed for war.
 
@@ -1368,7 +1368,7 @@
 [^12-13]: The Amalekites who raided Ziklag (1 Samuel 30).
 [^12-14]: Literally "like the camp of God", perhaps meaning "a very great army".
 [^12-15]: Literally "the heads".
-[^12-16]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles. Literally "according to the mouth of Yahweh".
+[^12-16]: *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles. Literally "according to the mouth of the LORD".
 [^12-17]: Literally "the leader of Aaron".
 [^12-18]: Literally "and the house of his father, 22 commanders".
 [^12-19]: Literally "at their mouth".
@@ -1381,7 +1381,7 @@
 
 **1** David consulted with the commanders of thousands and of hundreds, with every leader.
 
-**2** David said to the whole assembly of Israel, "If it seems good to you, and if it is from Yahweh[^13-1] our God, let us send word far and wide[^13-2] to our kinsmen who remain in all the regions of Israel, and with them to the priests and the Levites in their towns with pasturelands, so that they may gather to us.
+**2** David said to the whole assembly of Israel, "If it seems good to you, and if it is from the LORD[^13-1] our God, let us send word far and wide[^13-2] to our kinsmen who remain in all the regions of Israel, and with them to the priests and the Levites in their towns with pasturelands, so that they may gather to us.
 
 **3** Then let us bring the ark[^13-3] of our God back to us, for we did not seek it[^13-4] in the days of Saul."
 
@@ -1389,7 +1389,7 @@
 
 **5** So David assembled all Israel,[^13-5] from the Shihor of Egypt[^13-6] to Lebo-hamath,[^13-7] to bring the ark of God from Kiriath-jearim.
 
-**6** David and all Israel went up to Baalah, that is, to Kiriath-jearim, which belongs to Judah, to bring up from there the ark of God, Yahweh, who is enthroned on the cherubim,[^13-8] which is called by his name.[^13-9]
+**6** David and all Israel went up to Baalah, that is, to Kiriath-jearim, which belongs to Judah, to bring up from there the ark of God, the LORD, who is enthroned on the cherubim,[^13-8] which is called by his name.[^13-9]
 
 **7** They carried the ark of God on a new cart from the house of Abinadab, and Uzza[^13-10] and Ahio[^13-11] were driving the cart.
 
@@ -1397,17 +1397,17 @@
 
 **9** When they came to the threshing floor of Chidon,[^13-13] Uzza reached out his hand to take hold of the ark, because the oxen stumbled.
 
-**10** Yahweh's anger burned against Uzza, and he struck him down because he had reached out his hand to the ark. He died there before God.[^13-14]
+**10** The LORD's anger burned against Uzza, and he struck him down because he had reached out his hand to the ark. He died there before God.[^13-14]
 
-**11** David was angry[^13-15] because Yahweh had broken out against Uzza, and that place is called Perez-uzza[^13-16] to this day.
+**11** David was angry[^13-15] because the LORD had broken out against Uzza, and that place is called Perez-uzza[^13-16] to this day.
 
 **12** David was afraid of God that day, and he said, "How can I bring the ark of God home to me?"
 
 **13** So David did not move the ark to be with him in the City of David. Instead, he took it aside to the house of Obed-edom the Gittite.[^13-17]
 
-**14** The ark of God stayed with the household of Obed-edom in his house for three months, and Yahweh blessed the household of Obed-edom and everything he had.
+**14** The ark of God stayed with the household of Obed-edom in his house for three months, and the LORD blessed the household of Obed-edom and everything he had.
 
-[^13-1]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^13-1]: *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles.
 [^13-2]: Literally "let us break out, let us send".
 [^13-3]: Hebrew *aron*, "chest": the ark of the covenant, the gold-covered chest that held the tablets of the covenant (Exodus 25:10–22). After its return from the Philistines it had stayed at Kiriath-jearim for many years (1 Samuel 7:1–2).
 [^13-4]: Or "him", that is, God.
@@ -1415,7 +1415,7 @@
 [^13-6]: A stream on the border of Egypt, or a branch of the Nile (Joshua 13:3).
 [^13-7]: Or "the entrance of Hamath", in the far north.
 [^13-8]: Or "who sits above the cherubim". Hebrew *keruvim*: winged heavenly beings. Two gold cherubim stood on the cover of the ark (Exodus 25:18–22).
-[^13-9]: Literally "which is called by name", or "where the name is called". 2 Samuel 6:2 reads "which is called by the Name, the name of Yahweh of Armies, who is enthroned on the cherubim".
+[^13-9]: Literally "which is called by name", or "where the name is called". 2 Samuel 6:2 reads "which is called by the Name, the name of the LORD of Armies, who is enthroned on the cherubim".
 [^13-10]: 2 Samuel 6:3 has Uzzah, and says that he and Ahio were the sons of Abinadab.
 [^13-11]: The same Hebrew letters can be read *achyo*, "his brother".
 [^13-12]: 2 Samuel 6:5 has "with all kinds of instruments made of cypress wood" instead of "with all their might, with songs", and "rattles" instead of "trumpets".
@@ -1431,7 +1431,7 @@
 
 **1** Huram[^14-1] king of Tyre sent messengers to David, with cedar logs, stonemasons and carpenters,[^14-2] to build a house for him.
 
-**2** Then David knew that Yahweh[^14-3] had established him as king over Israel, and that his kingdom was highly exalted for the sake of his people Israel.
+**2** Then David knew that the LORD[^14-3] had established him as king over Israel, and that his kingdom was highly exalted for the sake of his people Israel.
 
 **3** David took more wives in Jerusalem,[^14-4] and David fathered more sons and daughters.
 
@@ -1447,7 +1447,7 @@
 
 **9** The Philistines had come and made a raid in the Valley of Rephaim.
 
-**10** David asked God, "Shall I go up against the Philistines? Will you hand them over to me?" Yahweh said to him, "Go up, and I will hand them over to you."
+**10** David asked God, "Shall I go up against the Philistines? Will you hand them over to me?" The LORD said to him, "Go up, and I will hand them over to you."
 
 **11** So they went up to Baal-perazim, and David defeated them there. David said, "God has broken through my enemies by my hand, as water breaks through." That is why that place was called Baal-perazim.[^14-8]
 
@@ -1461,11 +1461,11 @@
 
 **16** David did as God had commanded him, and they struck down the army of the Philistines from Gibeon[^14-11] all the way to Gezer.
 
-**17** David's fame spread through all the lands, and Yahweh made all the nations fear him.[^14-12]
+**17** David's fame spread through all the lands, and the LORD made all the nations fear him.[^14-12]
 
 [^14-1]: The Hebrew text is written "Hiram" but read "Huram". Verses 1–16 parallel 2 Samuel 5:11–25, which has Hiram.
 [^14-2]: Literally "craftsmen of walls and craftsmen of wood".
-[^14-3]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^14-3]: *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles.
 [^14-4]: 2 Samuel 5:13 reads "David took more concubines and wives from Jerusalem".
 [^14-5]: Elpelet and Nogah (verse 6) are not in 2 Samuel 5:15; compare 3:6–7, where Elpelet is called Eliphelet.
 [^14-6]: 3:8 and 2 Samuel 5:16 have Eliada.
@@ -1482,9 +1482,9 @@
 
 **1** David built houses for himself in the City of David. He prepared a place for the ark of God and pitched a tent for it.
 
-**2** Then David said, "No one but the Levites may carry the ark of God, for Yahweh[^15-1] chose them to carry the ark of Yahweh and to minister to him forever."[^15-2]
+**2** Then David said, "No one but the Levites may carry the ark of God, for the LORD[^15-1] chose them to carry the ark of the LORD and to minister to him forever."[^15-2]
 
-**3** David assembled all Israel at Jerusalem to bring up the ark of Yahweh to the place he had prepared for it.
+**3** David assembled all Israel at Jerusalem to bring up the ark of the LORD to the place he had prepared for it.
 
 **4** David gathered the descendants of Aaron and the Levites:
 
@@ -1502,13 +1502,13 @@
 
 **11** Then David called for Zadok and Abiathar the priests, and for the Levites Uriel, Asaiah, Joel, Shemaiah, Eliel and Amminadab.
 
-**12** He said to them, "You are the heads of the Levite families. Consecrate yourselves, you and your kinsmen, and bring up the ark of Yahweh, the God of Israel, to the place I have prepared for it.
+**12** He said to them, "You are the heads of the Levite families. Consecrate yourselves, you and your kinsmen, and bring up the ark of the LORD, the God of Israel, to the place I have prepared for it.
 
-**13** Because you were not there the first time,[^15-4] Yahweh our God broke out against us, for we did not seek him in the way that is prescribed."
+**13** Because you were not there the first time,[^15-4] the LORD our God broke out against us, for we did not seek him in the way that is prescribed."
 
-**14** So the priests and the Levites consecrated themselves to bring up the ark of Yahweh, the God of Israel.
+**14** So the priests and the Levites consecrated themselves to bring up the ark of the LORD, the God of Israel.
 
-**15** The Levites carried the ark of God on their shoulders with the poles on them, as Moses had commanded according to the word of Yahweh.[^15-5]
+**15** The Levites carried the ark of God on their shoulders with the poles on them, as Moses had commanded according to the word of the LORD.[^15-5]
 
 **16** David told the chiefs of the Levites to appoint their kinsmen as singers, to play loudly on musical instruments, harps, lyres and cymbals, raising sounds of joy.
 
@@ -1528,17 +1528,17 @@
 
 **24** Shebaniah, Joshaphat, Nethanel, Amasai, Zechariah, Benaiah and Eliezer, the priests, were to blow the trumpets before the ark of God. Obed-edom and Jehiah were also gatekeepers for the ark.
 
-**25** So David, the elders of Israel and the commanders of thousands went to bring up the ark of the covenant of Yahweh from the house of Obed-edom with rejoicing.[^15-11]
+**25** So David, the elders of Israel and the commanders of thousands went to bring up the ark of the covenant of the LORD from the house of Obed-edom with rejoicing.[^15-11]
 
-**26** Because God helped the Levites who were carrying the ark of the covenant of Yahweh, they sacrificed seven bulls and seven rams.[^15-12]
+**26** Because God helped the Levites who were carrying the ark of the covenant of the LORD, they sacrificed seven bulls and seven rams.[^15-12]
 
 **27** David was clothed in a robe of fine linen,[^15-13] as were all the Levites who were carrying the ark, the singers, and Chenaniah, the leader of the music of the singers. David also wore a linen ephod.[^15-14]
 
-**28** So all Israel brought up the ark of the covenant of Yahweh with shouting, with the sound of the ram's horn, with trumpets and cymbals, playing loudly on harps and lyres.
+**28** So all Israel brought up the ark of the covenant of the LORD with shouting, with the sound of the ram's horn, with trumpets and cymbals, playing loudly on harps and lyres.
 
-**29** As the ark of the covenant of Yahweh was coming into the City of David, Michal daughter of Saul looked down through the window. She saw King David dancing and celebrating, and she despised him in her heart.
+**29** As the ark of the covenant of the LORD was coming into the City of David, Michal daughter of Saul looked down through the window. She saw King David dancing and celebrating, and she despised him in her heart.
 
-[^15-1]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^15-1]: *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles.
 [^15-2]: Compare Numbers 4:15; Deuteronomy 10:8.
 [^15-3]: Literally "brothers", fellow Levites; also in verses 6–10, 12 and 16–18.
 [^15-4]: The Hebrew is abrupt. Literally "For because at the first time not you". See 13:9–11.
@@ -1549,8 +1549,8 @@
 [^15-9]: Hebrew *al ha-sheminit*, "on the eighth", a musical term of uncertain meaning, perhaps "on the octave" or "for low voices" (compare the titles of Psalms 6 and 12).
 [^15-10]: Hebrew *massa*, "lifting up": the raising of the voice in song, or the carrying of the ark. Also in verse 27.
 [^15-11]: Verses 25–29 parallel 2 Samuel 6:12–16.
-[^15-12]: 2 Samuel 6:13 reads "When those who carried the ark of Yahweh had gone six steps, he sacrificed an ox and a fattened calf."
-[^15-13]: Hebrew *mekhurbal*, "clothed". In 2 Samuel 6:14 a similar word, *mekharker*, "dancing", is used: "David danced before Yahweh with all his might."
+[^15-12]: 2 Samuel 6:13 reads "When those who carried the ark of the LORD had gone six steps, he sacrificed an ox and a fattened calf."
+[^15-13]: Hebrew *mekhurbal*, "clothed". In 2 Samuel 6:14 a similar word, *mekharker*, "dancing", is used: "David danced before the LORD with all his might."
 [^15-14]: Hebrew *ephod*, here a simple linen garment worn by priests serving at the sanctuary (1 Samuel 2:18; 22:18), not the high priest's richly woven ephod (Exodus 28:6–14).
 
 ## Chapter 16
@@ -1559,31 +1559,31 @@
 
 **1** They brought in the ark of God and set it inside the tent that David had pitched for it.[^16-1] Then they offered burnt offerings and fellowship offerings[^16-2] before God.
 
-**2** When David had finished offering the burnt offerings and the fellowship offerings, he blessed the people in the name of Yahweh.[^16-3]
+**2** When David had finished offering the burnt offerings and the fellowship offerings, he blessed the people in the name of the LORD.[^16-3]
 
 **3** He distributed to every Israelite, both men and women, to each one a loaf of bread, a date cake[^16-4] and a raisin cake.
 
-**4** He appointed some of the Levites to minister before the ark of Yahweh, to commemorate,[^16-5] to thank and to praise Yahweh, the God of Israel.
+**4** He appointed some of the Levites to minister before the ark of the LORD, to commemorate,[^16-5] to thank and to praise the LORD, the God of Israel.
 
 **5** Asaph was the chief, and second to him Zechariah, then Jeiel,[^16-6] Shemiramoth, Jehiel, Mattithiah, Eliab, Benaiah, Obed-edom and Jeiel, with harps and lyres, while Asaph sounded the cymbals.
 
 **6** Benaiah and Jahaziel the priests were to blow the trumpets regularly before the ark of the covenant of God.
 
-**7** That was the day when David first appointed Asaph and his kinsmen to give thanks to Yahweh:[^16-7]
+**7** That was the day when David first appointed Asaph and his kinsmen to give thanks to the LORD:[^16-7]
 
-**8** Give thanks to Yahweh; call on his name.[^16-8] Make known his deeds among the peoples.
+**8** Give thanks to the LORD; call on his name.[^16-8] Make known his deeds among the peoples.
 
 **9** Sing to him, sing praises to him; tell of all his wonders.
 
-**10** Glory in his holy name; let the hearts of those who seek Yahweh rejoice.
+**10** Glory in his holy name; let the hearts of those who seek the LORD rejoice.
 
-**11** Seek Yahweh and his strength; seek his face[^16-9] always.
+**11** Seek the LORD and his strength; seek his face[^16-9] always.
 
 **12** Remember the wonders he has done, his miracles and the judgments he has spoken,[^16-10]
 
 **13** you offspring of Israel his servant,[^16-11] children of Jacob, his chosen ones.
 
-**14** He is Yahweh our God; his judgments are in all the earth.
+**14** He is the LORD our God; his judgments are in all the earth.
 
 **15** Remember his covenant forever,[^16-12] the word he commanded for a thousand generations,
 
@@ -1601,43 +1601,43 @@
 
 **22** "Do not touch my anointed ones;[^16-15] do not harm my prophets."
 
-**23** Sing to Yahweh, all the earth;[^16-16] proclaim his salvation day after day.
+**23** Sing to the LORD, all the earth;[^16-16] proclaim his salvation day after day.
 
 **24** Declare his glory among the nations, his wonders among all the peoples.
 
-**25** For Yahweh is great and greatly to be praised; he is to be feared above all gods.
+**25** For the LORD is great and greatly to be praised; he is to be feared above all gods.
 
-**26** For all the gods of the peoples are idols,[^16-17] but Yahweh made the heavens.
+**26** For all the gods of the peoples are idols,[^16-17] but the LORD made the heavens.
 
 **27** Splendor and majesty are before him; strength and joy are in his place.[^16-18]
 
-**28** Ascribe to Yahweh, you families of the peoples, ascribe to Yahweh glory and strength.
+**28** Ascribe to the LORD, you families of the peoples, ascribe to the LORD glory and strength.
 
-**29** Ascribe to Yahweh the glory due his name.[^16-19] Bring an offering and come before him.[^16-20] Worship Yahweh in the splendor of holiness.[^16-21]
+**29** Ascribe to the LORD the glory due his name.[^16-19] Bring an offering and come before him.[^16-20] Worship the LORD in the splendor of holiness.[^16-21]
 
 **30** Tremble before him, all the earth. The world is firmly established; it cannot be moved.
 
-**31** Let the heavens rejoice and the earth be glad; let them say among the nations, "Yahweh reigns!"[^16-22]
+**31** Let the heavens rejoice and the earth be glad; let them say among the nations, "The LORD reigns!"[^16-22]
 
 **32** Let the sea roar, and all that fills it; let the fields exult, and everything in them.
 
-**33** Then the trees of the forest will sing for joy before Yahweh, for he comes to judge the earth.
+**33** Then the trees of the forest will sing for joy before the LORD, for he comes to judge the earth.
 
-**34** Give thanks to Yahweh, for he is good; his faithful love[^16-23] endures forever.
+**34** Give thanks to the LORD, for he is good; his faithful love[^16-23] endures forever.
 
 **35** Say, "Save us, God of our salvation![^16-24] Gather us and rescue us from the nations, so that we may give thanks to your holy name and glory in your praise."
 
-**36** Blessed be Yahweh, the God of Israel, from everlasting to everlasting. Then all the people said, "Amen!" and praised Yahweh.[^16-25]
+**36** Blessed be the LORD, the God of Israel, from everlasting to everlasting. Then all the people said, "Amen!" and praised the LORD.[^16-25]
 
-**37** So David left Asaph and his kinsmen there before the ark of the covenant of Yahweh, to minister before the ark regularly, as each day required.
+**37** So David left Asaph and his kinsmen there before the ark of the covenant of the LORD, to minister before the ark regularly, as each day required.
 
 **38** He also left Obed-edom and their kinsmen, sixty-eight of them. Obed-edom son of Jeduthun and Hosah were gatekeepers.
 
-**39** He left Zadok the priest and his kinsmen the priests before the tabernacle of Yahweh at the high place[^16-26] in Gibeon,
+**39** He left Zadok the priest and his kinsmen the priests before the tabernacle of the LORD at the high place[^16-26] in Gibeon,
 
-**40** to offer burnt offerings to Yahweh on the altar of burnt offering regularly, morning and evening, according to all that is written in the law of Yahweh, which he commanded Israel.
+**40** to offer burnt offerings to the LORD on the altar of burnt offering regularly, morning and evening, according to all that is written in the law of the LORD, which he commanded Israel.
 
-**41** With them were Heman and Jeduthun and the rest of those chosen and designated by name to give thanks to Yahweh, "for his faithful love endures forever."
+**41** With them were Heman and Jeduthun and the rest of those chosen and designated by name to give thanks to the LORD, "for his faithful love endures forever."
 
 **42** Heman and Jeduthun had with them trumpets and cymbals for those who were to play, and instruments for the songs of God.[^16-27] The sons of Jeduthun were at the gate.
 
@@ -1645,11 +1645,11 @@
 
 [^16-1]: Verses 1–3 parallel 2 Samuel 6:17–19.
 [^16-2]: Hebrew *shelamim*, traditionally "peace offerings". Most of the meat of these sacrifices was eaten by the worshipers (Leviticus 3; 7:11–21). Also in verse 2.
-[^16-3]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles. 2 Samuel 6:18 has "Yahweh of Armies".
+[^16-3]: *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles. 2 Samuel 6:18 has "the LORD of Armies".
 [^16-4]: Hebrew *eshpar*, a rare word of uncertain meaning: perhaps a cake of dates, or a portion of meat.
 [^16-5]: Or "to invoke". Hebrew *lehazkir*, "to cause to remember".
 [^16-6]: Perhaps the Jaaziel or Aziel of 15:18 and 15:20.
-[^16-7]: Literally "On that day, then David first gave to give thanks to Yahweh by the hand of Asaph and his brothers."
+[^16-7]: Literally "On that day, then David first gave to give thanks to the LORD by the hand of Asaph and his brothers."
 [^16-8]: Verses 8–22 match Psalm 105:1–15, with small differences.
 [^16-9]: Or "his presence".
 [^16-10]: Literally "the judgments of his mouth".
@@ -1664,10 +1664,10 @@
 [^16-19]: Literally "the glory of his name".
 [^16-20]: Psalm 96:8 has "come into his courts".
 [^16-21]: Or "in holy attire".
-[^16-22]: Or "Yahweh has become king!" In Psalm 96:10 this line comes earlier.
+[^16-22]: Or "The LORD has become king!" In Psalm 96:10 this line comes earlier.
 [^16-23]: Hebrew *chesed*: loyal, faithful love. Also in verse 41. Verses 34–36 match Psalm 106:1 and 47–48.
-[^16-24]: Psalm 106:47 has "Save us, Yahweh our God".
-[^16-25]: Psalm 106:48 has "Let all the people say, 'Amen!' Praise Yah!" (Hebrew *hallelu-yah*). Here the Hebrew is *vehallel la-YHWH*, "and they praised Yahweh".
+[^16-24]: Psalm 106:47 has "Save us, LORD our God".
+[^16-25]: Psalm 106:48 has "Let all the people say, 'Amen!' Praise Yah!" (Hebrew *hallelu-yah*). Here the Hebrew is *vehallel la-YHWH*, "and they praised the LORD".
 [^16-26]: Hebrew *bamah*, a place of worship, often on a hill.
 [^16-27]: Or "instruments for sacred song".
 [^16-28]: Compare 2 Samuel 6:19–20.
@@ -1676,25 +1676,25 @@
 
 *Status: draft*
 
-**1** When David was settled in his house,[^17-1] David said to Nathan the prophet, "Look, I am living in a house of cedar, while the ark of the covenant of Yahweh[^17-2] is under curtains."[^17-3]
+**1** When David was settled in his house,[^17-1] David said to Nathan the prophet, "Look, I am living in a house of cedar, while the ark of the covenant of the LORD[^17-2] is under curtains."[^17-3]
 
 **2** Nathan said to David, "Do all that is in your heart, for God is with you."
 
 **3** But that same night the word of God came to Nathan:
 
-**4** "Go and tell my servant David, 'This is what Yahweh says: You are not the one who will build me the house to live in.[^17-4]
+**4** "Go and tell my servant David, 'This is what the LORD says: You are not the one who will build me the house to live in.[^17-4]
 
 **5** For I have not lived in a house from the day I brought Israel up to this day. I have gone from tent to tent and from one tabernacle to another.[^17-5]
 
 **6** Wherever I have moved about among all Israel, did I ever say a word to any of the judges[^17-6] of Israel whom I commanded to shepherd my people, "Why have you not built me a house of cedar?"'
 
-**7** Now this is what you are to say to my servant David: 'This is what Yahweh of Armies[^17-7] says: I took you from the pasture, from following the sheep, to be ruler[^17-8] over my people Israel.
+**7** Now this is what you are to say to my servant David: 'This is what the LORD of Armies[^17-7] says: I took you from the pasture, from following the sheep, to be ruler[^17-8] over my people Israel.
 
 **8** I have been with you wherever you have gone, and I have cut off all your enemies from before you. I will make a name for you[^17-9] like the names of the great ones on the earth.
 
 **9** I will appoint a place for my people Israel, and I will plant them so that they may live in their own place and be disturbed no more. Wicked people[^17-10] will not wear them down any more, as they did at the beginning,
 
-**10** from the days when I appointed judges over my people Israel. I will subdue all your enemies. And I declare to you that Yahweh will build a house for you.[^17-11]
+**10** from the days when I appointed judges over my people Israel. I will subdue all your enemies. And I declare to you that the LORD will build a house for you.[^17-11]
 
 **11** When your days are complete and you go to be with your ancestors, I will raise up your offspring[^17-12] after you, one of your own sons, and I will establish his kingdom.
 
@@ -1706,32 +1706,32 @@
 
 **15** Nathan spoke to David in accordance with all these words and all this vision.
 
-**16** Then King David went in and sat before Yahweh and said, "Who am I, Yahweh God, and what is my house, that you have brought me this far?
+**16** Then King David went in and sat before the LORD and said, "Who am I, LORD God, and what is my house, that you have brought me this far?
 
-**17** And yet this was too small a thing in your eyes, God. You have also spoken about your servant's house for a long time to come. You have looked on me as a man of high rank,[^17-17] Yahweh God.
+**17** And yet this was too small a thing in your eyes, God. You have also spoken about your servant's house for a long time to come. You have looked on me as a man of high rank,[^17-17] LORD God.
 
 **18** What more can David say to you about the honor you have given your servant? You know your servant.
 
-**19** Yahweh, for the sake of your servant,[^17-18] and as your heart desired, you have done all this great thing, to make known all these great things.
+**19** LORD, for the sake of your servant,[^17-18] and as your heart desired, you have done all this great thing, to make known all these great things.
 
-**20** Yahweh, there is no one like you, and there is no God besides you, by all that we have heard with our ears.
+**20** LORD, there is no one like you, and there is no God besides you, by all that we have heard with our ears.
 
 **21** And who is like your people Israel, the one nation on earth that God went to redeem as a people for himself, to make a name for yourself by great and awesome things, by driving out nations from before your people whom you redeemed from Egypt?
 
-**22** You made your people Israel your own people forever, and you, Yahweh, became their God.
+**22** You made your people Israel your own people forever, and you, LORD, became their God.
 
-**23** Now, Yahweh, let the word you have spoken concerning your servant and his house be confirmed forever, and do as you have said.
+**23** Now, LORD, let the word you have spoken concerning your servant and his house be confirmed forever, and do as you have said.
 
-**24** Let it be confirmed, and let your name be great forever, so that people will say, 'Yahweh of Armies, the God of Israel, is God to Israel.' And the house of your servant David will be established before you.
+**24** Let it be confirmed, and let your name be great forever, so that people will say, 'The LORD of Armies, the God of Israel, is God to Israel.' And the house of your servant David will be established before you.
 
 **25** For you, my God, have revealed to your servant[^17-19] that you will build a house for him. That is why your servant has found the courage[^17-20] to pray before you.
 
-**26** Now, Yahweh, you are God, and you have promised this good thing to your servant.
+**26** Now, LORD, you are God, and you have promised this good thing to your servant.
 
-**27** Now you have been pleased to bless the house of your servant, so that it may continue forever before you. For you, Yahweh, have blessed it, and it will be blessed forever."
+**27** Now you have been pleased to bless the house of your servant, so that it may continue forever before you. For you, LORD, have blessed it, and it will be blessed forever."
 
 [^17-1]: Chapter 17 parallels 2 Samuel 7.
-[^17-2]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^17-2]: *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles.
 [^17-3]: Hebrew *yeri'ot*, the curtains of a tent. 2 Samuel 7:2 has "inside a tent".
 [^17-4]: 2 Samuel 7:5 reads "Are you the one to build me a house to live in?"
 [^17-5]: Literally "and from tabernacle"; the Hebrew seems to be shortened. 2 Samuel 7:6 reads "I have been moving about in a tent and a tabernacle."
@@ -1740,7 +1740,7 @@
 [^17-8]: Hebrew *nagid*, a leader or ruler designated by God.
 [^17-9]: Or "I have made a name for you". The verbs from here to verse 10 can be read as past or future.
 [^17-10]: Literally "sons of injustice".
-[^17-11]: That is, a dynasty, a line of kings from David's descendants. David had wanted to build a "house", a temple, for Yahweh (verse 4).
+[^17-11]: That is, a dynasty, a line of kings from David's descendants. David had wanted to build a "house", a temple, for the LORD (verse 4).
 [^17-12]: Literally "your seed".
 [^17-13]: Literally "I will be to him a father, and he will be to me a son." 2 Samuel 7:14 adds "When he does wrong, I will discipline him with the rod that men use, with blows inflicted by human beings."
 [^17-14]: Hebrew *chesed*: loyal, faithful love.
@@ -1765,7 +1765,7 @@
 
 **5** When the Arameans of Damascus came to help Hadadezer king of Zobah, David struck down twenty-two thousand of the Arameans.
 
-**6** Then David put garrisons[^18-6] in Aram of Damascus, and the Arameans became subject to David and brought him tribute. Yahweh[^18-7] gave David victory wherever he went.
+**6** Then David put garrisons[^18-6] in Aram of Damascus, and the Arameans became subject to David and brought him tribute. The LORD[^18-7] gave David victory wherever he went.
 
 **7** David took the gold shields[^18-8] that belonged to the officers of Hadadezer and brought them to Jerusalem.
 
@@ -1775,11 +1775,11 @@
 
 **10** he sent his son Hadoram[^18-11] to King David to greet him[^18-12] and to congratulate him because he had fought against Hadadezer and defeated him, for Hadadezer had often been at war with Tou.[^18-13] He also sent all kinds of articles of gold, silver and bronze.
 
-**11** King David dedicated these also to Yahweh, along with the silver and gold that he had carried off from all the nations: from Edom, from Moab, from the Ammonites, from the Philistines and from Amalek.
+**11** King David dedicated these also to the LORD, along with the silver and gold that he had carried off from all the nations: from Edom, from Moab, from the Ammonites, from the Philistines and from Amalek.
 
 **12** Abishai son of Zeruiah struck down eighteen thousand Edomites in the Valley of Salt.[^18-14]
 
-**13** He put garrisons in Edom, and all the Edomites became subject to David. Yahweh gave David victory wherever he went.
+**13** He put garrisons in Edom, and all the Edomites became subject to David. The LORD gave David victory wherever he went.
 
 **14** David reigned over all Israel, and he did what was just and right[^18-15] for all his people.
 
@@ -1795,7 +1795,7 @@
 [^18-4]: Literally "his hand", perhaps meaning a monument marking his rule. It is not clear whether "he" is David or Hadadezer.
 [^18-5]: 2 Samuel 8:4 has "1,700 horsemen and 20,000 foot soldiers".
 [^18-6]: Or "governors". The Hebrew lacks the word here; it is supplied from 2 Samuel 8:6. Hebrew *netsivim* is used in verse 13.
-[^18-7]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^18-7]: *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles.
 [^18-8]: Hebrew *shiltei*, a word of uncertain meaning: shields, or perhaps quivers.
 [^18-9]: The great bronze basin in the courtyard of the temple (1 Kings 7:23–26). 2 Samuel 8:8 has "Betah and Berothai" for Tibhath and Cun, and does not mention Solomon.
 [^18-10]: 2 Samuel 8:9 has Toi.
@@ -1838,7 +1838,7 @@
 
 **12** He said, "If the Arameans are too strong for me, then you are to come and rescue me. But if the Ammonites are too strong for you, I will rescue you.
 
-**13** Be strong, and let us show ourselves strong for the sake of our people and for the cities of our God. And may Yahweh[^19-9] do what seems good to him."
+**13** Be strong, and let us show ourselves strong for the sake of our people and for the cities of our God. And may the LORD[^19-9] do what seems good to him."
 
 **14** So Joab and the troops who were with him advanced to fight against the Arameans, and they fled before him.
 
@@ -1860,7 +1860,7 @@
 [^19-6]: That is, "Aram of the two rivers", in northern Mesopotamia.
 [^19-7]: 2 Samuel 10:6 says instead that the Ammonites hired twenty thousand foot soldiers from Beth-rehob and Zobah, the king of Maacah with a thousand men, and twelve thousand men of Tob.
 [^19-8]: Literally "all the army, the mighty men".
-[^19-9]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^19-9]: *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles.
 [^19-10]: That is, the Euphrates.
 [^19-11]: 2 Samuel 10:16 has Shobach.
 [^19-12]: 2 Samuel 10:17 reads "and came to Helam".
@@ -1909,7 +1909,7 @@
 
 **2** So David said to Joab and to the commanders of the people, "Go, count Israel from Beersheba to Dan, and bring me a report, so that I may know their number."
 
-**3** Joab said, "May Yahweh[^21-2] make his people a hundred times as many as they are! My lord the king, are they not all my lord's servants? Why does my lord want to do this? Why should he bring guilt on Israel?"
+**3** Joab said, "May the LORD[^21-2] make his people a hundred times as many as they are! My lord the king, are they not all my lord's servants? Why does my lord want to do this? Why should he bring guilt on Israel?"
 
 **4** But the king's word prevailed against Joab. So Joab went out and went throughout all Israel, and then he came back to Jerusalem.
 
@@ -1921,52 +1921,52 @@
 
 **8** David said to God, "I have sinned greatly in doing this thing. Now, please take away the guilt of your servant, for I have acted very foolishly."
 
-**9** Yahweh spoke to Gad, David's seer:
+**9** The LORD spoke to Gad, David's seer:
 
-**10** "Go and tell David, 'This is what Yahweh says: I am offering you three things. Choose one of them, and I will do it to you.'"
+**10** "Go and tell David, 'This is what the LORD says: I am offering you three things. Choose one of them, and I will do it to you.'"
 
-**11** So Gad came to David and said to him, "This is what Yahweh says: Take your choice:
+**11** So Gad came to David and said to him, "This is what the LORD says: Take your choice:
 
-**12** either three years[^21-5] of famine; or three months of being swept away[^21-6] before your foes, while the sword of your enemies overtakes you; or three days of the sword of Yahweh, a plague in the land, with the angel[^21-7] of Yahweh destroying throughout all the territory of Israel. Now decide what answer I should take back to the one who sent me."
+**12** either three years[^21-5] of famine; or three months of being swept away[^21-6] before your foes, while the sword of your enemies overtakes you; or three days of the sword of the LORD, a plague in the land, with the angel[^21-7] of the LORD destroying throughout all the territory of Israel. Now decide what answer I should take back to the one who sent me."
 
-**13** David said to Gad, "I am in great distress. Let me fall into the hand of Yahweh, for his mercy is very great, but do not let me fall into human hands."
+**13** David said to Gad, "I am in great distress. Let me fall into the hand of the LORD, for his mercy is very great, but do not let me fall into human hands."
 
-**14** So Yahweh sent a plague on Israel, and seventy thousand men of Israel fell.
+**14** So the LORD sent a plague on Israel, and seventy thousand men of Israel fell.
 
-**15** God sent an angel to Jerusalem to destroy it. But as he was destroying it, Yahweh saw and relented[^21-8] concerning the disaster, and he said to the angel who was destroying, "Enough! Now hold back your hand." The angel of Yahweh was standing by the threshing floor of Ornan[^21-9] the Jebusite.
+**15** God sent an angel to Jerusalem to destroy it. But as he was destroying it, the LORD saw and relented[^21-8] concerning the disaster, and he said to the angel who was destroying, "Enough! Now hold back your hand." The angel of the LORD was standing by the threshing floor of Ornan[^21-9] the Jebusite.
 
-**16** David looked up and saw the angel of Yahweh standing between earth and heaven, with a drawn sword in his hand stretched out over Jerusalem. Then David and the elders, clothed in sackcloth, fell on their faces.
+**16** David looked up and saw the angel of the LORD standing between earth and heaven, with a drawn sword in his hand stretched out over Jerusalem. Then David and the elders, clothed in sackcloth, fell on their faces.
 
-**17** David said to God, "Was it not I who gave the order to count the people? I am the one who has sinned and done great evil. But these sheep, what have they done? Yahweh my God, please let your hand be against me and against my father's house, but do not let the plague be on your people."
+**17** David said to God, "Was it not I who gave the order to count the people? I am the one who has sinned and done great evil. But these sheep, what have they done? LORD my God, please let your hand be against me and against my father's house, but do not let the plague be on your people."
 
-**18** Then the angel of Yahweh told Gad to tell David that David should go up and set up an altar to Yahweh on the threshing floor of Ornan the Jebusite.
+**18** Then the angel of the LORD told Gad to tell David that David should go up and set up an altar to the LORD on the threshing floor of Ornan the Jebusite.
 
-**19** So David went up at Gad's word, which he had spoken in the name of Yahweh.
+**19** So David went up at Gad's word, which he had spoken in the name of the LORD.
 
 **20** Ornan turned and saw the angel, and his four sons who were with him hid themselves. Ornan was threshing wheat.
 
 **21** When David came to Ornan, Ornan looked and saw David. He went out from the threshing floor and bowed down to David with his face to the ground.
 
-**22** David said to Ornan, "Give me the site of the threshing floor, so that I may build on it an altar to Yahweh. Sell it to me for the full price, so that the plague may be held back from the people."
+**22** David said to Ornan, "Give me the site of the threshing floor, so that I may build on it an altar to the LORD. Sell it to me for the full price, so that the plague may be held back from the people."
 
 **23** Ornan said to David, "Take it, and let my lord the king do whatever seems good to him. Look, I give the oxen for the burnt offerings, the threshing sledges for the wood and the wheat for the grain offering. I give it all."
 
-**24** But King David said to Ornan, "No, I will buy it for the full price. I will not take what is yours for Yahweh, or offer a burnt offering that costs me nothing."
+**24** But King David said to Ornan, "No, I will buy it for the full price. I will not take what is yours for the LORD, or offer a burnt offering that costs me nothing."
 
 **25** So David gave Ornan six hundred shekels[^21-10] of gold by weight for the site.
 
-**26** David built an altar to Yahweh there and offered burnt offerings and fellowship offerings.[^21-11] He called on Yahweh, and Yahweh answered him with fire from heaven on the altar of burnt offering.
+**26** David built an altar to the LORD there and offered burnt offerings and fellowship offerings.[^21-11] He called on the LORD, and the LORD answered him with fire from heaven on the altar of burnt offering.
 
-**27** Then Yahweh spoke to the angel, and he put his sword back into its sheath.
+**27** Then the LORD spoke to the angel, and he put his sword back into its sheath.
 
-**28** At that time, when David saw that Yahweh had answered him at the threshing floor of Ornan the Jebusite, he offered sacrifices there.
+**28** At that time, when David saw that the LORD had answered him at the threshing floor of Ornan the Jebusite, he offered sacrifices there.
 
-**29** For the tabernacle of Yahweh, which Moses had made in the wilderness, and the altar of burnt offering were at that time at the high place[^21-12] in Gibeon.
+**29** For the tabernacle of the LORD, which Moses had made in the wilderness, and the altar of burnt offering were at that time at the high place[^21-12] in Gibeon.
 
-**30** But David could not go before it to seek God, for he was terrified because of the sword of the angel of Yahweh.
+**30** But David could not go before it to seek God, for he was terrified because of the sword of the angel of the LORD.
 
-[^21-1]: Or "An adversary". Hebrew *satan*, "adversary, accuser", here without the article; in Job 1–2 and Zechariah 3 it has the article, *ha-satan*, "the Accuser". Chapter 21 parallels 2 Samuel 24, where verse 1 reads "Again the anger of Yahweh burned against Israel, and he incited David against them."
-[^21-2]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^21-1]: Or "An adversary". Hebrew *satan*, "adversary, accuser", here without the article; in Job 1–2 and Zechariah 3 it has the article, *ha-satan*, "the Accuser". Chapter 21 parallels 2 Samuel 24, where verse 1 reads "Again the anger of the LORD burned against Israel, and he incited David against them."
+[^21-2]: *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles.
 [^21-3]: 2 Samuel 24:9 gives eight hundred thousand for Israel and five hundred thousand for Judah.
 [^21-4]: Literally "This thing was evil in the eyes of God".
 [^21-5]: 2 Samuel 24:13 has "seven years".
@@ -1982,7 +1982,7 @@
 
 *Status: draft*
 
-**1** Then David said, "This is the house of Yahweh[^22-1] God, and this is the altar of burnt offering for Israel."
+**1** Then David said, "This is the house of the LORD[^22-1] God, and this is the altar of burnt offering for Israel."
 
 **2** David gave orders to gather the foreigners[^22-2] who were in the land of Israel, and he appointed stonecutters to cut dressed stones for building the house of God.
 
@@ -1990,37 +1990,37 @@
 
 **4** and cedar logs beyond counting, for the Sidonians and the Tyrians had brought great quantities of cedar logs to David.
 
-**5** David said, "My son Solomon is young and inexperienced, and the house to be built for Yahweh must be exceedingly great, famous and glorious throughout all lands. So I will make preparations for it." So David made great preparations before his death.
+**5** David said, "My son Solomon is young and inexperienced, and the house to be built for the LORD must be exceedingly great, famous and glorious throughout all lands. So I will make preparations for it." So David made great preparations before his death.
 
-**6** Then he called for his son Solomon and charged him to build a house for Yahweh, the God of Israel.
+**6** Then he called for his son Solomon and charged him to build a house for the LORD, the God of Israel.
 
-**7** David said to Solomon, "My son,[^22-3] I had it in my heart to build a house for the name of Yahweh my God.
+**7** David said to Solomon, "My son,[^22-3] I had it in my heart to build a house for the name of the LORD my God.
 
-**8** But the word of Yahweh came to me: 'You have shed much blood and fought great wars. You are not to build a house for my name, because you have shed so much blood on the earth before me.
+**8** But the word of the LORD came to me: 'You have shed much blood and fought great wars. You are not to build a house for my name, because you have shed so much blood on the earth before me.
 
 **9** But a son will be born to you who will be a man of rest. I will give him rest from all his enemies around him. His name will be Solomon,[^22-4] and I will give peace and quiet to Israel in his days.
 
 **10** He will build a house for my name. He will be my son, and I will be his father, and I will establish the throne of his kingdom over Israel forever.'
 
-**11** Now, my son, may Yahweh be with you, so that you succeed in building the house of Yahweh your God, as he has said you would.
+**11** Now, my son, may the LORD be with you, so that you succeed in building the house of the LORD your God, as he has said you would.
 
-**12** Only may Yahweh give you insight and understanding when he puts you in charge of Israel, so that you keep the law of Yahweh your God.
+**12** Only may the LORD give you insight and understanding when he puts you in charge of Israel, so that you keep the law of the LORD your God.
 
-**13** Then you will succeed, if you are careful to carry out the decrees and the rulings that Yahweh commanded Moses for Israel. Be strong and courageous. Do not be afraid or dismayed.
+**13** Then you will succeed, if you are careful to carry out the decrees and the rulings that the LORD commanded Moses for Israel. Be strong and courageous. Do not be afraid or dismayed.
 
-**14** Look, with great effort[^22-5] I have provided for the house of Yahweh 100,000 talents of gold and 1,000,000 talents of silver,[^22-6] and bronze and iron beyond weighing, for there is so much of it. I have also provided timber and stone, and you may add to them.
+**14** Look, with great effort[^22-5] I have provided for the house of the LORD 100,000 talents of gold and 1,000,000 talents of silver,[^22-6] and bronze and iron beyond weighing, for there is so much of it. I have also provided timber and stone, and you may add to them.
 
 **15** You also have many workmen: stonecutters, masons and carpenters,[^22-7] and all kinds of craftsmen skilled in every kind of work.
 
-**16** There is gold, silver, bronze and iron beyond counting. Get up and get to work, and may Yahweh be with you."
+**16** There is gold, silver, bronze and iron beyond counting. Get up and get to work, and may the LORD be with you."
 
 **17** David also commanded all the leaders of Israel to help his son Solomon:
 
-**18** "Is not Yahweh your God with you? Has he not given you rest on every side? For he has handed over the inhabitants of the land to me, and the land is subdued before Yahweh and before his people.
+**18** "Is not the LORD your God with you? Has he not given you rest on every side? For he has handed over the inhabitants of the land to me, and the land is subdued before the LORD and before his people.
 
-**19** Now set your heart and soul[^22-8] to seek Yahweh your God. Get up and build the sanctuary of Yahweh God, so that you may bring the ark of the covenant of Yahweh and the holy articles of God into the house that is to be built for the name of Yahweh."
+**19** Now set your heart and soul[^22-8] to seek the LORD your God. Get up and build the sanctuary of the LORD God, so that you may bring the ark of the covenant of the LORD and the holy articles of God into the house that is to be built for the name of the LORD."
 
-[^22-1]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^22-1]: *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles.
 [^22-2]: Hebrew *gerim*, foreigners living in Israel.
 [^22-3]: The Hebrew text is written "his son" but read "my son".
 [^22-4]: *Solomon* (Hebrew *Shelomoh*) sounds like *shalom*, "peace".
@@ -2039,9 +2039,9 @@
 
 **3** The Levites thirty years old and over were counted, and their number, counted man by man,[^23-2] was thirty-eight thousand.
 
-**4** Of these, twenty-four thousand were to oversee the work of the house of Yahweh,[^23-3] six thousand were to be officials and judges,
+**4** Of these, twenty-four thousand were to oversee the work of the house of the LORD,[^23-3] six thousand were to be officials and judges,
 
-**5** four thousand were to be gatekeepers, and four thousand were to praise Yahweh with the instruments I have made for praise.[^23-4]
+**5** four thousand were to be gatekeepers, and four thousand were to praise the LORD with the instruments I have made for praise.[^23-4]
 
 **6** David divided them into divisions according to the sons of Levi: Gershon, Kohath and Merari.
 
@@ -2057,7 +2057,7 @@
 
 **12** The sons of Kohath: Amram, Izhar, Hebron and Uzziel, four.
 
-**13** The sons of Amram: Aaron and Moses. Aaron was set apart to consecrate the most holy things,[^23-8] he and his sons forever, to burn offerings before Yahweh, to minister to him and to pronounce blessings in his name forever.
+**13** The sons of Amram: Aaron and Moses. Aaron was set apart to consecrate the most holy things,[^23-8] he and his sons forever, to burn offerings before the LORD, to minister to him and to pronounce blessings in his name forever.
 
 **14** As for Moses the man of God, his sons were counted as part of the tribe of Levi.
 
@@ -2079,27 +2079,27 @@
 
 **23** The sons of Mushi: Mahli, Eder and Jeremoth, three.
 
-**24** These were the descendants of Levi by their ancestral families, the heads of the families as they were registered, counted by name, man by man, who did the work for the service of the house of Yahweh, from twenty years old and upward.[^23-10]
+**24** These were the descendants of Levi by their ancestral families, the heads of the families as they were registered, counted by name, man by man, who did the work for the service of the house of the LORD, from twenty years old and upward.[^23-10]
 
-**25** For David said, "Yahweh, the God of Israel, has given rest to his people, and he dwells in Jerusalem forever.
+**25** For David said, "The LORD, the God of Israel, has given rest to his people, and he dwells in Jerusalem forever.
 
 **26** So the Levites no longer need to carry the tabernacle or any of the articles used in its service."
 
 **27** For by the last words of David the Levites were counted from twenty years old and upward.
 
-**28** Their duty was to assist the descendants of Aaron in the service of the house of Yahweh, in charge of the courts and the chambers, the purifying of all the holy things, and the work of the service of the house of God,
+**28** Their duty was to assist the descendants of Aaron in the service of the house of the LORD, in charge of the courts and the chambers, the purifying of all the holy things, and the work of the service of the house of God,
 
 **29** and in charge of the bread set out in rows,[^23-11] the fine flour for the grain offering, the wafers made without yeast, what is baked on the griddle, what is mixed with oil,[^23-12] and all measures of quantity and size.
 
-**30** They were to stand every morning to thank and praise Yahweh, and likewise in the evening,
+**30** They were to stand every morning to thank and praise the LORD, and likewise in the evening,
 
-**31** and whenever burnt offerings were offered to Yahweh on Sabbaths, new moons and appointed festivals, in the number required by the rule for them, regularly before Yahweh.
+**31** and whenever burnt offerings were offered to the LORD on Sabbaths, new moons and appointed festivals, in the number required by the rule for them, regularly before the LORD.
 
-**32** So they were to keep charge of[^23-13] the tent of meeting and of the holy place, and to assist their kinsmen the descendants of Aaron in the service of the house of Yahweh.
+**32** So they were to keep charge of[^23-13] the tent of meeting and of the holy place, and to assist their kinsmen the descendants of Aaron in the service of the house of the LORD.
 
 [^23-1]: Literally "satisfied with days".
 [^23-2]: Literally "by their skulls, by men", that is, head by head. Also in verse 24.
-[^23-3]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^23-3]: *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles.
 [^23-4]: The Hebrew has "I have made", as if David were speaking.
 [^23-5]: The Hebrew text is written "Shelomoth" but read "Shelomith".
 [^23-6]: This Shimei is Ladan's brother (verse 7). The Shimei of verse 9 is counted among the families of Ladan.
@@ -2151,7 +2151,7 @@
 
 **18** the twenty-third for Delaiah, the twenty-fourth for Maaziah.
 
-**19** These were their appointed duties in their service when they came into the house of Yahweh,[^24-4] according to the rule given them through their ancestor Aaron, as Yahweh, the God of Israel, had commanded him.
+**19** These were their appointed duties in their service when they came into the house of the LORD,[^24-4] according to the rule given them through their ancestor Aaron, as the LORD, the God of Israel, had commanded him.
 
 **20** As for the rest of the descendants of Levi: of the sons of Amram, Shubael;[^24-5] of the sons of Shubael, Jehdeiah.
 
@@ -2180,7 +2180,7 @@
 [^24-1]: Leviticus 10:1–2; Numbers 3:4.
 [^24-2]: The Hebrew is difficult. Literally "one father's house taken for Eleazar, and taken, taken for Ithamar".
 [^24-3]: Zechariah, the father of John the Baptist, belonged to the division of Abijah (Luke 1:5).
-[^24-4]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^24-4]: *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles.
 [^24-5]: Called Shebuel in 23:16.
 [^24-6]: Called Shelomith in 23:18.
 [^24-7]: The Hebrew is shortened: "And the sons, Jeriah". "Of Hebron" and "the chief" are supplied from 23:19.
@@ -2196,15 +2196,15 @@
 
 **2** Of the sons of Asaph: Zaccur, Joseph, Nethaniah and Asarelah, the sons of Asaph, under the direction of Asaph, who prophesied under the direction of the king.
 
-**3** Of Jeduthun, the sons of Jeduthun: Gedaliah, Zeri,[^25-3] Jeshaiah, Hashabiah and Mattithiah, six,[^25-4] under the direction of their father Jeduthun, who prophesied with the lyre in giving thanks and praise to Yahweh.[^25-5]
+**3** Of Jeduthun, the sons of Jeduthun: Gedaliah, Zeri,[^25-3] Jeshaiah, Hashabiah and Mattithiah, six,[^25-4] under the direction of their father Jeduthun, who prophesied with the lyre in giving thanks and praise to the LORD.[^25-5]
 
 **4** Of Heman, the sons of Heman: Bukkiah, Mattaniah, Uzziel, Shebuel, Jerimoth, Hananiah, Hanani, Eliathah, Giddalti, Romamti-ezer, Joshbekashah, Mallothi, Hothir and Mahazioth.[^25-6]
 
 **5** All these were sons of Heman, the king's seer, according to the promises of God to exalt him.[^25-7] God gave Heman fourteen sons and three daughters.
 
-**6** All these were under the direction of their father for the music in the house of Yahweh, with cymbals, harps and lyres, for the service of the house of God. Asaph, Jeduthun and Heman were under the direction of the king.
+**6** All these were under the direction of their father for the music in the house of the LORD, with cymbals, harps and lyres, for the service of the house of God. Asaph, Jeduthun and Heman were under the direction of the king.
 
-**7** Their number, with their kinsmen who were trained in singing to Yahweh, all of them skilled, was 288.
+**7** Their number, with their kinsmen who were trained in singing to the LORD, all of them skilled, was 288.
 
 **8** They cast lots for their duties, small and great alike, teacher and student alike.
 
@@ -2258,7 +2258,7 @@
 [^25-2]: The Hebrew text is written "the prophets" but read "who prophesied".
 [^25-3]: Called Izri in verse 11.
 [^25-4]: Only five are named. Shimei (verse 17) may be the sixth.
-[^25-5]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^25-5]: *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles.
 [^25-6]: Several of these names are also ordinary Hebrew words. Read together, the names from Hananiah to Mahazioth resemble lines of a prayer: "Be gracious to me, Yah, be gracious to me; you are my God; I have magnified and exalted help …".
 [^25-7]: Literally "to lift up the horn", a sign of strength and honor. Or "to sound the horn".
 [^25-8]: The Hebrew does not give a number for Joseph. With 12 for each of the twenty-four lots, the total is the 288 of verse 7.
@@ -2293,7 +2293,7 @@
 
 **11** Hilkiah the second, Tebaliah the third, Zechariah the fourth. All the sons and kinsmen of Hosah were thirteen.
 
-**12** To these divisions of the gatekeepers, by their chief men, were given duties, just as to their kinsmen, to minister in the house of Yahweh.[^26-3]
+**12** To these divisions of the gatekeepers, by their chief men, were given duties, just as to their kinsmen, to minister in the house of the LORD.[^26-3]
 
 **13** They cast lots for each gate by their ancestral families, small and great alike.
 
@@ -2313,7 +2313,7 @@
 
 **21** The sons of Ladan, the descendants of the Gershonites belonging to Ladan, the heads of the ancestral families belonging to Ladan the Gershonite: Jehieli.
 
-**22** The sons of Jehieli, Zetham and his brother Joel,[^26-9] were in charge of the treasuries of the house of Yahweh.
+**22** The sons of Jehieli, Zetham and his brother Joel,[^26-9] were in charge of the treasuries of the house of the LORD.
 
 **23** Of the Amramites, the Izharites, the Hebronites and the Uzzielites:
 
@@ -2323,13 +2323,13 @@
 
 **26** This Shelomoth[^26-11] and his kinsmen were in charge of all the treasuries of the dedicated gifts that King David, the heads of the ancestral families, the commanders of thousands and of hundreds, and the commanders of the army had dedicated.
 
-**27** They dedicated some of the plunder from the wars to maintain the house of Yahweh.
+**27** They dedicated some of the plunder from the wars to maintain the house of the LORD.
 
 **28** And everything that Samuel the seer, Saul son of Kish, Abner son of Ner and Joab son of Zeruiah had dedicated, all the dedicated gifts, were in the care of Shelomith and his kinsmen.
 
 **29** Of the Izharites, Chenaniah and his sons were assigned to outside duties for Israel, as officials and judges.
 
-**30** Of the Hebronites, Hashabiah and his kinsmen, 1,700 capable men, were in charge of Israel west of the Jordan, for all the work of Yahweh and for the service of the king.
+**30** Of the Hebronites, Hashabiah and his kinsmen, 1,700 capable men, were in charge of Israel west of the Jordan, for all the work of the LORD and for the service of the king.
 
 **31** Of the Hebronites, Jerijah[^26-12] was the chief of the Hebronites by their generations and ancestral families. In the fortieth year of David's reign a search was made, and capable men were found among them at Jazer in Gilead.
 
@@ -2337,7 +2337,7 @@
 
 [^26-1]: Compare 9:19, where Kore is the son of Ebiasaph.
 [^26-2]: Literally "brothers"; also "kinsmen" in verses 8–12, 25–26, 28 and 30–32.
-[^26-3]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^26-3]: *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles.
 [^26-4]: Called Meshelemiah in verses 1–2 and 9.
 [^26-5]: Hebrew *beit ha-asuppim*, "the house of the gatherings", a storehouse. Also in verse 17.
 [^26-6]: Shuppim is not named in the lists of verses 1–11.
@@ -2396,7 +2396,7 @@
 
 **22** of Dan, Azarel son of Jeroham. These were the leaders of the tribes of Israel.[^27-9]
 
-**23** David did not count those twenty years old and under, for Yahweh[^27-10] had promised to make Israel as numerous as the stars of the sky.
+**23** David did not count those twenty years old and under, for the LORD[^27-10] had promised to make Israel as numerous as the stars of the sky.
 
 **24** Joab son of Zeruiah began to count them, but he did not finish. Wrath came on Israel because of it,[^27-11] and the number was not entered in the records of King David.[^27-12]
 
@@ -2429,7 +2429,7 @@
 [^27-7]: Called Heled in 11:30.
 [^27-8]: Perhaps Eliab, David's eldest brother (2:13).
 [^27-9]: Gad and Asher are not listed.
-[^27-10]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles. Compare Genesis 15:5; 22:17.
+[^27-10]: *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles. Compare Genesis 15:5; 22:17.
 [^27-11]: See chapter 21.
 [^27-12]: Literally "in the number of the chronicles of King David". Hebrew *divrei ha-yamim*, "the matters of the days", the phrase that gives the books of Chronicles their Hebrew name.
 [^27-13]: Hebrew *shephelah*: the low hills between the central hill country and the coastal plain.
@@ -2444,29 +2444,29 @@
 
 **1** David assembled at Jerusalem all the officials of Israel: the officials of the tribes, the commanders of the divisions that served the king, the commanders of thousands and of hundreds, and the officials in charge of all the property and livestock of the king and his sons, together with the court officials,[^28-1] the mighty warriors and all the valiant men.
 
-**2** Then King David rose to his feet and said, "Listen to me, my brothers and my people. I had it in my heart to build a house of rest for the ark of the covenant of Yahweh,[^28-2] for the footstool of our God,[^28-3] and I made preparations to build it.
+**2** Then King David rose to his feet and said, "Listen to me, my brothers and my people. I had it in my heart to build a house of rest for the ark of the covenant of the LORD,[^28-2] for the footstool of our God,[^28-3] and I made preparations to build it.
 
 **3** But God said to me, 'You are not to build a house for my name, because you are a man of war and have shed blood.'
 
-**4** Yet Yahweh, the God of Israel, chose me from all my father's house to be king over Israel forever. For he chose Judah as leader,[^28-4] and in the house of Judah my father's house, and among my father's sons he was pleased to make me king over all Israel.
+**4** Yet the LORD, the God of Israel, chose me from all my father's house to be king over Israel forever. For he chose Judah as leader,[^28-4] and in the house of Judah my father's house, and among my father's sons he was pleased to make me king over all Israel.
 
-**5** And from all my sons, for Yahweh has given me many sons, he has chosen my son Solomon to sit on the throne of the kingdom of Yahweh over Israel.
+**5** And from all my sons, for the LORD has given me many sons, he has chosen my son Solomon to sit on the throne of the kingdom of the LORD over Israel.
 
 **6** He said to me, 'Your son Solomon is the one who will build my house and my courts, for I have chosen him to be my son, and I will be his father.
 
 **7** I will establish his kingdom forever if he is resolute in keeping my commands and my rulings, as he is today.'
 
-**8** So now, in the sight of all Israel, the assembly of Yahweh, and in the hearing of our God, keep and seek all the commands of Yahweh your God, so that you may possess this good land and leave it as an inheritance to your children after you forever.
+**8** So now, in the sight of all Israel, the assembly of the LORD, and in the hearing of our God, keep and seek all the commands of the LORD your God, so that you may possess this good land and leave it as an inheritance to your children after you forever.
 
-**9** And you, my son Solomon, know the God of your father, and serve him with a whole heart and a willing spirit,[^28-5] for Yahweh searches every heart and understands every plan and thought. If you seek him, he will let you find him, but if you forsake him, he will reject you forever.
+**9** And you, my son Solomon, know the God of your father, and serve him with a whole heart and a willing spirit,[^28-5] for the LORD searches every heart and understands every plan and thought. If you seek him, he will let you find him, but if you forsake him, he will reject you forever.
 
-**10** See now, Yahweh has chosen you to build a house for the sanctuary. Be strong and do it."
+**10** See now, the LORD has chosen you to build a house for the sanctuary. Be strong and do it."
 
 **11** Then David gave his son Solomon the plan[^28-6] of the porch of the temple, its buildings, its treasuries, its upper rooms, its inner rooms, and the room for the atonement cover,[^28-7]
 
-**12** and the plan of all that he had in mind[^28-8] for the courts of the house of Yahweh, for all the surrounding chambers, for the treasuries of the house of God and for the treasuries of the dedicated gifts,
+**12** and the plan of all that he had in mind[^28-8] for the courts of the house of the LORD, for all the surrounding chambers, for the treasuries of the house of God and for the treasuries of the dedicated gifts,
 
-**13** for the divisions of the priests and the Levites, for all the work of the service of the house of Yahweh, and for all the articles for the service of the house of Yahweh;
+**13** for the divisions of the priests and the Levites, for all the work of the service of the house of the LORD, and for all the articles for the service of the house of the LORD;
 
 **14** the weight of gold for all the gold articles for each kind of service, and the weight of silver for all the silver articles for each kind of service;
 
@@ -2476,16 +2476,16 @@
 
 **17** pure gold for the forks, the sprinkling bowls[^28-10] and the jars; the weight of gold for each of the gold bowls, and the weight of silver for each of the silver bowls;
 
-**18** and refined gold by weight for the altar of incense; and gold for the plan of the chariot,[^28-11] the cherubim that spread their wings and covered the ark of the covenant of Yahweh.
+**18** and refined gold by weight for the altar of incense; and gold for the plan of the chariot,[^28-11] the cherubim that spread their wings and covered the ark of the covenant of the LORD.
 
-**19** All this was in writing from the hand of Yahweh on me; he made me understand all the work of the plan.[^28-12]
+**19** All this was in writing from the hand of the LORD on me; he made me understand all the work of the plan.[^28-12]
 
-**20** Then David said to his son Solomon, "Be strong and courageous, and do it. Do not be afraid or dismayed, for Yahweh God, my God, is with you. He will not fail you or abandon you until all the work for the service of the house of Yahweh is finished.
+**20** Then David said to his son Solomon, "Be strong and courageous, and do it. Do not be afraid or dismayed, for the LORD God, my God, is with you. He will not fail you or abandon you until all the work for the service of the house of the LORD is finished.
 
 **21** Here are the divisions of the priests and the Levites for all the service of the house of God. With you in all the work will be every willing person who is skilled in any kind of service, and the officials and all the people will be at your command."
 
 [^28-1]: Hebrew *sarisim*, court officials. The word can also mean "eunuchs".
-[^28-2]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^28-2]: *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles.
 [^28-3]: Compare Psalm 99:5; 132:7.
 [^28-4]: Hebrew *nagid*, "leader, ruler".
 [^28-5]: Hebrew *nephesh*.
@@ -2495,13 +2495,13 @@
 [^28-9]: See 9:32.
 [^28-10]: Hebrew *mizraqot*, bowls used for splashing the blood of sacrifices against the altar (Exodus 27:3).
 [^28-11]: The cherubim above the ark are pictured as God's chariot; compare Psalm 18:11 (18:10 in most English Bibles) and Ezekiel 1 and 10.
-[^28-12]: The Hebrew changes to the first person, as if David were speaking. Literally "All in writing from the hand of Yahweh on me he gave understanding, all the works of the plan."
+[^28-12]: The Hebrew changes to the first person, as if David were speaking. Literally "All in writing from the hand of the LORD on me he gave understanding, all the works of the plan."
 
 ## Chapter 29
 
 *Status: draft*
 
-**1** King David said to the whole assembly, "My son Solomon, the one whom God has chosen, is young and inexperienced, and the work is great, for this palace[^29-1] is not for a human being but for Yahweh[^29-2] God.
+**1** King David said to the whole assembly, "My son Solomon, the one whom God has chosen, is young and inexperienced, and the work is great, for this palace[^29-1] is not for a human being but for the LORD[^29-2] God.
 
 **2** With all my resources I have provided for the house of my God the gold for the things of gold, the silver for the things of silver, the bronze for the things of bronze, the iron for the things of iron and the wood for the things of wood, as well as onyx stones[^29-3] and stones for setting, dark stones and stones of various colors,[^29-4] all kinds of precious stones, and marble in abundance.
 
@@ -2509,19 +2509,19 @@
 
 **4** three thousand talents of gold, of the gold of Ophir,[^29-5] and seven thousand talents of refined silver,[^29-6] for overlaying the walls of the buildings,
 
-**5** gold for the things of gold and silver for the things of silver, and for all the work to be done by craftsmen. Now who will offer willingly, consecrating himself[^29-7] today to Yahweh?"
+**5** gold for the things of gold and silver for the things of silver, and for all the work to be done by craftsmen. Now who will offer willingly, consecrating himself[^29-7] today to the LORD?"
 
 **6** Then the heads of the ancestral families, the leaders of the tribes of Israel, the commanders of thousands and of hundreds, and the officials in charge of the king's work offered willingly.
 
 **7** They gave for the service of the house of God five thousand talents and ten thousand darics[^29-8] of gold, ten thousand talents of silver, eighteen thousand talents of bronze and a hundred thousand talents of iron.
 
-**8** Anyone who had precious stones gave them to the treasury of the house of Yahweh, in the care of Jehiel the Gershonite.
+**8** Anyone who had precious stones gave them to the treasury of the house of the LORD, in the care of Jehiel the Gershonite.
 
-**9** The people rejoiced over their willing offerings, for they had given willingly to Yahweh with a whole heart. King David also rejoiced greatly.
+**9** The people rejoiced over their willing offerings, for they had given willingly to the LORD with a whole heart. King David also rejoiced greatly.
 
-**10** Then David blessed Yahweh in the sight of the whole assembly. David said, "Blessed are you, Yahweh, the God of our father Israel, from everlasting to everlasting.
+**10** Then David blessed the LORD in the sight of the whole assembly. David said, "Blessed are you, LORD, the God of our father Israel, from everlasting to everlasting.
 
-**11** Yours, Yahweh, are the greatness, the power, the glory, the victory[^29-9] and the majesty, for everything in heaven and on earth is yours. Yours, Yahweh, is the kingdom, and you are exalted as head over all.
+**11** Yours, LORD, are the greatness, the power, the glory, the victory[^29-9] and the majesty, for everything in heaven and on earth is yours. Yours, LORD, is the kingdom, and you are exalted as head over all.
 
 **12** Riches and honor come from you, and you rule over all. In your hand are strength and might, and it is in your hand to make great and to give strength to all.
 
@@ -2531,25 +2531,25 @@
 
 **15** For we are foreigners and strangers[^29-10] before you, as all our ancestors were. Our days on earth are like a shadow, and there is no hope.[^29-11]
 
-**16** Yahweh our God, all this abundance that we have provided to build you a house for your holy name comes from your hand, and all of it is yours.
+**16** LORD our God, all this abundance that we have provided to build you a house for your holy name comes from your hand, and all of it is yours.
 
 **17** I know, my God, that you test the heart and are pleased with uprightness. In the uprightness of my heart I have freely offered all these things, and now I have seen with joy your people who are present here offering freely to you.
 
-**18** Yahweh, the God of Abraham, Isaac and Israel, our ancestors, keep this forever in the inclinations of the thoughts of your people's hearts, and direct their hearts toward you.
+**18** LORD, the God of Abraham, Isaac and Israel, our ancestors, keep this forever in the inclinations of the thoughts of your people's hearts, and direct their hearts toward you.
 
 **19** Give my son Solomon a whole heart to keep your commands, your statutes[^29-12] and your decrees, to do everything, and to build the palace for which I have made preparations."
 
-**20** Then David said to the whole assembly, "Now bless Yahweh your God." And the whole assembly blessed Yahweh, the God of their ancestors. They bowed low and prostrated themselves before Yahweh and the king.
+**20** Then David said to the whole assembly, "Now bless the LORD your God." And the whole assembly blessed the LORD, the God of their ancestors. They bowed low and prostrated themselves before the LORD and the king.
 
-**21** The next day they offered sacrifices to Yahweh and burnt offerings to Yahweh: a thousand bulls, a thousand rams and a thousand lambs, with their drink offerings, and sacrifices in abundance for all Israel.
+**21** The next day they offered sacrifices to the LORD and burnt offerings to the LORD: a thousand bulls, a thousand rams and a thousand lambs, with their drink offerings, and sacrifices in abundance for all Israel.
 
-**22** They ate and drank before Yahweh that day with great joy. They made Solomon son of David king a second time,[^29-13] and they anointed him before Yahweh as ruler,[^29-14] and Zadok as priest.
+**22** They ate and drank before the LORD that day with great joy. They made Solomon son of David king a second time,[^29-13] and they anointed him before the LORD as ruler,[^29-14] and Zadok as priest.
 
-**23** Solomon sat on the throne of Yahweh as king in place of his father David. He prospered, and all Israel obeyed him.
+**23** Solomon sat on the throne of the LORD as king in place of his father David. He prospered, and all Israel obeyed him.
 
 **24** All the officials and the mighty warriors, and also all King David's sons, pledged their allegiance[^29-15] to King Solomon.
 
-**25** Yahweh made Solomon exceedingly great in the sight of all Israel and gave him royal majesty such as no king over Israel had had before him.
+**25** The LORD made Solomon exceedingly great in the sight of all Israel and gave him royal majesty such as no king over Israel had had before him.
 
 **26** So David son of Jesse reigned over all Israel.
 
@@ -2562,7 +2562,7 @@
 **30** together with all his reign and his might, and the events that came upon him, upon Israel and upon all the kingdoms of the lands.[^29-18]
 
 [^29-1]: Hebrew *birah*, "citadel, palace", here used of the temple. Also in verse 19.
-[^29-2]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^29-2]: *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles.
 [^29-3]: Hebrew *shoham*, a precious stone that cannot be identified with certainty.
 [^29-4]: Hebrew *avnei phukh ve-riqmah*. *Phukh* is antimony, a dark mineral used as eye paint; compare Isaiah 54:11. *Riqmah* means "many-colored" or "embroidered work".
 [^29-5]: A land famous for its gold (1 Kings 9:28).

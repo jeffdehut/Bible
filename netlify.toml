@@ -4,7 +4,7 @@
 # Everything the site needs is already built and committed (scripts/translation.py,
 # connections.py, maps.py and reader.py), so Netlify only publishes the folder: there is no
 # build step. To rebuild the data, run those scripts locally and commit the result. The other
-# folders (the source texts, the translation, the Obsidian notes) are published too, as plain
+# folders (the source texts, the translation, the connection notes) are published too, as plain
 # files; they are open data, and nothing links to them.
 
 [build]

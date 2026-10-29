@@ -19,7 +19,7 @@
 
 **6** for understanding a proverb and a figure of speech,[^1-10] the words of the wise and their riddles.
 
-**7** The fear of Yahweh[^1-11] is the beginning[^1-12] of knowledge; fools[^1-13] despise wisdom and discipline.
+**7** The fear of the LORD[^1-11] is the beginning[^1-12] of knowledge; fools[^1-13] despise wisdom and discipline.
 
 **8** Listen, my son,[^1-14] to your father's discipline, and do not abandon your mother's instruction.[^1-15]
 
@@ -63,7 +63,7 @@
 
 **28** Then they will call to me, but I will not answer; they will search hard for me, but they will not find me.
 
-**29** Because they hated knowledge and did not choose the fear of Yahweh,
+**29** Because they hated knowledge and did not choose the fear of the LORD,
 
 **30** because they would have none of my advice and spurned all my correction,
 
@@ -83,7 +83,7 @@
 [^1-8]: Hebrew *mezimmah*: the ability to think things through and make plans. The same word can mean a scheme in a bad sense (12:2; 14:17).
 [^1-9]: Hebrew *tachbulot*, perhaps connected with steering a ship by its ropes: the skill of finding the right course.
 [^1-10]: Hebrew *melitsah*, a rare word: perhaps an allusive saying or a figure whose meaning must be worked out (compare Habakkuk 2:6).
-[^1-11]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles. *The fear of Yahweh* is reverence for him that shows itself in obedience. It is a theme of the whole book (9:10; 15:33; 31:30).
+[^1-11]: *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles. *The fear of the LORD* is reverence for him that shows itself in obedience. It is a theme of the whole book (9:10; 15:33; 31:30).
 [^1-12]: Or "the first principle", "the chief part". Hebrew *reshit*.
 [^1-13]: Hebrew *ewilim*, plural of *ewil*. Proverbs uses several words for "fool". The *ewil* is morally perverse, stubborn and quick to quarrel. The *kesil* (verse 22), the most common word, is dull and self-satisfied, closed to learning. Both are translated "fool", and a note gives the Hebrew word at its first occurrence in each chapter.
 [^1-14]: The teacher addresses his pupil as "my son", as a father would his son. The address recurs throughout chapters 1–7 and often later.
@@ -111,9 +111,9 @@
 
 **4** if you look for it as for silver and search for it as for hidden treasure,
 
-**5** then you will understand the fear of Yahweh[^2-3] and find the knowledge[^2-4] of God.
+**5** then you will understand the fear of the LORD[^2-3] and find the knowledge[^2-4] of God.
 
-**6** For Yahweh gives wisdom; from his mouth come knowledge and insight.
+**6** For the LORD gives wisdom; from his mouth come knowledge and insight.
 
 **7** He stores up[^2-5] sound wisdom[^2-6] for the upright; he is a shield to those who walk in integrity,
 
@@ -149,7 +149,7 @@
 
 [^2-1]: Hebrew *tevunah*, from the same root as *binah*, "understanding" (verse 3). The two words are often paired; this translation uses "insight" for *tevunah* and "understanding" for *binah*. Also in verses 3, 6 and 11.
 [^2-2]: Hebrew *binah*: the ability to discern, to see what matters and tell things apart.
-[^2-3]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles. On *the fear of Yahweh*, see 1:7.
+[^2-3]: *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles. On *the fear of the LORD*, see 1:7.
 [^2-4]: Hebrew *da'at*: knowledge gained by learning and experience. *The knowledge of God* means knowing him personally, not only knowing about him.
 [^2-5]: The Hebrew text is written "And he has stored up" but read "He stores up".
 [^2-6]: Hebrew *tushiyyah*: sound wisdom, and the success it brings.
@@ -177,21 +177,21 @@
 
 **4** Then you will find favor and a good name[^3-3] in the sight of God and of people.
 
-**5** Trust in Yahweh[^3-4] with all your heart, and do not rely on your own understanding.[^3-5]
+**5** Trust in the LORD[^3-4] with all your heart, and do not rely on your own understanding.[^3-5]
 
 **6** In all your ways acknowledge him,[^3-6] and he will make your paths straight.
 
-**7** Do not be wise in your own eyes; fear Yahweh and turn away from evil.
+**7** Do not be wise in your own eyes; fear the LORD and turn away from evil.
 
 **8** It will be healing for your body[^3-7] and refreshment for your bones.
 
-**9** Honor Yahweh with your wealth and with the firstfruits of all your harvest.
+**9** Honor the LORD with your wealth and with the firstfruits of all your harvest.
 
 **10** Then your barns will be filled with plenty, and your vats will overflow with new wine.
 
-**11** My son, do not reject the discipline[^3-8] of Yahweh, and do not resent his correction,
+**11** My son, do not reject the discipline[^3-8] of the LORD, and do not resent his correction,
 
-**12** for Yahweh corrects the one he loves, as a father corrects the son he delights in.[^3-9]
+**12** for the LORD corrects the one he loves, as a father corrects the son he delights in.[^3-9]
 
 **13** Happy[^3-10] is the one who finds wisdom, the one who gains insight.[^3-11]
 
@@ -205,7 +205,7 @@
 
 **18** She is a tree of life[^3-13] to those who take hold of her; those who hold on to her are happy.
 
-**19** By wisdom Yahweh founded the earth; by insight he established the heavens.
+**19** By wisdom the LORD founded the earth; by insight he established the heavens.
 
 **20** By his knowledge the deep waters burst open, and the clouds drop down dew.
 
@@ -219,7 +219,7 @@
 
 **25** Do not be afraid of sudden terror, or of the ruin of the wicked when it comes.
 
-**26** For Yahweh will be your confidence[^3-18] and will keep your foot from being caught.
+**26** For the LORD will be your confidence[^3-18] and will keep your foot from being caught.
 
 **27** Do not withhold good from those to whom it is due, when it is in your power to do it.
 
@@ -231,9 +231,9 @@
 
 **31** Do not envy a violent man, and do not choose any of his ways.
 
-**32** For the devious are detestable[^3-20] to Yahweh, but he takes the upright into his confidence.
+**32** For the devious are detestable[^3-20] to the LORD, but he takes the upright into his confidence.
 
-**33** Yahweh's curse is on the house of the wicked, but he blesses the home of the righteous.
+**33** The LORD's curse is on the house of the wicked, but he blesses the home of the righteous.
 
 **34** He mocks the mockers,[^3-21] but he gives favor to the humble.[^3-22]
 
@@ -242,7 +242,7 @@
 [^3-1]: Literally "length of days and years of life and peace (*shalom*) they will add to you".
 [^3-2]: Hebrew *chesed ve-emet*. *Chesed* is loyal, faithful love; *emet* means both "truth" and "faithfulness, reliability".
 [^3-3]: Hebrew *sekhel tov*, literally "good sense", here perhaps the good name that good sense earns.
-[^3-4]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^3-4]: *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles.
 [^3-5]: Hebrew *binah*, as in 1:2.
 [^3-6]: Literally "know him".
 [^3-7]: Literally "your navel". The Septuagint reads "your body".
@@ -258,7 +258,7 @@
 [^3-17]: Literally "and grace for your neck", as in 1:9.
 [^3-18]: Or "at your side". Hebrew *kesel* can mean "confidence" or "side, loins".
 [^3-19]: The Hebrew text is written "to your neighbors" but read "to your neighbor".
-[^3-20]: Hebrew *to'evah*, something loathsome, traditionally "an abomination". The phrase "detestable to Yahweh" is frequent in Proverbs.
+[^3-20]: Hebrew *to'evah*, something loathsome, traditionally "an abomination". The phrase "detestable to the LORD" is frequent in Proverbs.
 [^3-21]: Hebrew *letsim*, as in 1:22: those who scorn wisdom and laugh at correction. The verb translated *mocks* is from the same root.
 [^3-22]: The Hebrew text is written "to the poor" but read "to the humble". James 4:6 and 1 Peter 5:5 quote this verse in the wording of the Septuagint: "God opposes the proud, but gives grace to the humble." The Septuagint has "the Lord".
 [^3-23]: Hebrew *kesilim*, plural of *kesil* (see 1:22).
@@ -379,7 +379,7 @@
 
 **20** Why should you be intoxicated, my son, with a strange woman, and embrace the breast of a foreign woman?[^5-12]
 
-**21** For a person's ways are in full view of Yahweh's eyes,[^5-13] and he examines all their paths.
+**21** For a person's ways are in full view of the LORD's eyes,[^5-13] and he examines all their paths.
 
 **22** The wicked man's own iniquities will capture him, and he will be held fast by the cords of his sin.
 
@@ -397,7 +397,7 @@
 [^5-10]: Or "Let your springs overflow …", meaning many children; but the question in verses 16–17 more likely warns against spending oneself on other women.
 [^5-11]: Hebrew *shagah*, "stagger, go astray": here the dizziness of love. The same verb is translated *be intoxicated* in verse 20 and *go astray* in verse 23.
 [^5-12]: Hebrew *nokhriyyah*, "foreign woman" (see 2:16).
-[^5-13]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^5-13]: *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles.
 [^5-14]: Hebrew *iwwelet*, "folly", the word related to *ewil*, "fool" (see 1:7).
 
 ## Chapter 6
@@ -434,7 +434,7 @@
 
 **15** So disaster will come on him suddenly; in an instant he will be broken, and there will be no healing.
 
-**16** There are six things that Yahweh[^6-9] hates, seven that are detestable to him:[^6-10]
+**16** There are six things that the LORD[^6-9] hates, seven that are detestable to him:[^6-10]
 
 **17** haughty eyes, a lying tongue, hands that shed innocent blood,
 
@@ -482,7 +482,7 @@
 [^6-6]: Hebrew *mehallekh*, "one who walks about", perhaps a prowler or a vagrant. Verses 10–11 are repeated in 24:33–34.
 [^6-7]: Literally "a man of a shield".
 [^6-8]: Hebrew *adam beliyya'al*, "a person of worthlessness", a phrase for someone who is wicked and destructive.
-[^6-9]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^6-9]: *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles.
 [^6-10]: Literally "an abomination (*to'evah*) of his soul" (see 3:32). The pattern "six … seven" builds up to the last item in the list (compare 30:15–31; Job 5:19).
 [^6-11]: Hebrew *yafiach*, perhaps "who breathes out", or a noun meaning "witness": "a witness of lies, a false witness".
 [^6-12]: Literally "she", probably the instruction of verse 20.
@@ -599,7 +599,7 @@
 
 **12** I, wisdom, live with prudence, and I possess knowledge and discretion.[^8-9]
 
-**13** The fear of Yahweh[^8-10] is hating evil. Pride and arrogance, the way of evil and a perverse mouth, I hate.
+**13** The fear of the LORD[^8-10] is hating evil. Pride and arrogance, the way of evil and a perverse mouth, I hate.
 
 **14** Advice and sound wisdom[^8-11] are mine; I am understanding;[^8-12] strength is mine.
 
@@ -617,7 +617,7 @@
 
 **21** to give wealth as an inheritance to those who love me,[^8-16] and to fill their treasuries.
 
-**22** Yahweh created me[^8-17] at the beginning of his way,[^8-18] before his works of long ago.
+**22** The LORD created me[^8-17] at the beginning of his way,[^8-18] before his works of long ago.
 
 **23** Long ages ago I was installed,[^8-19] at the very first, before the earth began.
 
@@ -643,7 +643,7 @@
 
 **34** Happy is the person who listens to me, watching daily at my doors, waiting beside my doorposts.
 
-**35** For whoever finds me finds life[^8-24] and obtains favor from Yahweh.
+**35** For whoever finds me finds life[^8-24] and obtains favor from the LORD.
 
 **36** But whoever misses me[^8-25] harms himself; all who hate me love death."
 
@@ -656,14 +656,14 @@
 [^8-7]: Hebrew *musar*: discipline, training and correction (see 1:2). Also in verse 33.
 [^8-8]: Hebrew *peninim*, as in 3:15.
 [^8-9]: Literally "I find knowledge of discretion". Hebrew *mezimmot*, plural of *mezimmah* (see 1:4).
-[^8-10]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^8-10]: *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles.
 [^8-11]: Hebrew *tushiyyah*, as in 2:7.
 [^8-12]: Hebrew *binah*, as in 1:2. Or "I have understanding".
 [^8-13]: Literally "all the judges of righteousness". Some Hebrew manuscripts read "all the judges of the earth", and the Septuagint has "rule the earth".
 [^8-14]: The Hebrew text is written "those who love her" but read "those who love me".
 [^8-15]: Or "prosperity". Hebrew *tsedaqah*.
 [^8-16]: Literally "to make those who love me inherit substance". Hebrew *yesh*, "there is", here "wealth".
-[^8-17]: Hebrew *qanani*, from the verb *qanah*. It usually means "acquire, get, possess", as in 4:5 and 4:7 ("Get wisdom"). In a few places it probably means "create" or "bring forth" (Genesis 14:19, 22; Deuteronomy 32:6; compare Genesis 4:1). So the line may mean "Yahweh created me", "Yahweh brought me forth" or "Yahweh possessed (or acquired) me". The Septuagint reads "created me"; the Vulgate reads "possessed me", the traditional English rendering. Verses 24–25, "I was brought forth", favor the sense of creating or begetting. The verse was much discussed in early Christian debates about Christ as the Wisdom of God (1 Corinthians 1:24).
+[^8-17]: Hebrew *qanani*, from the verb *qanah*. It usually means "acquire, get, possess", as in 4:5 and 4:7 ("Get wisdom"). In a few places it probably means "create" or "bring forth" (Genesis 14:19, 22; Deuteronomy 32:6; compare Genesis 4:1). So the line may mean "The LORD created me", "The LORD brought me forth" or "The LORD possessed (or acquired) me". The Septuagint reads "created me"; the Vulgate reads "possessed me", the traditional English rendering. Verses 24–25, "I was brought forth", favor the sense of creating or begetting. The verse was much discussed in early Christian debates about Christ as the Wisdom of God (1 Corinthians 1:24).
 [^8-18]: Or "as the first of his works". Literally "the beginning (*reshit*) of his way".
 [^8-19]: Hebrew *nissakhti*, from a verb meaning "pour out, install" (Psalm 2:6). With different vowels it reads "I was woven", "I was formed" (Psalm 139:13).
 [^8-20]: Literally "would not pass over his mouth".
@@ -695,7 +695,7 @@
 
 **9** Instruct a wise person,[^9-9] and he will become wiser still; teach a righteous person,[^9-10] and he will add to his learning.
 
-**10** The fear of Yahweh[^9-11] is the beginning[^9-12] of wisdom, and knowledge of the Holy One[^9-13] is understanding.
+**10** The fear of the LORD[^9-11] is the beginning[^9-12] of wisdom, and knowledge of the Holy One[^9-13] is understanding.
 
 **11** For through me[^9-14] your days will be many, and years will be added to your life.
 
@@ -723,7 +723,7 @@
 [^9-8]: Literally "his blemish".
 [^9-9]: Literally "Give to a wise person".
 [^9-10]: Hebrew *tsaddiq*: a righteous person, one who does what is right (see 2:20).
-[^9-11]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles. On *the fear of Yahweh*, see 1:7.
+[^9-11]: *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles. On *the fear of the LORD*, see 1:7.
 [^9-12]: Hebrew *techillah*, "beginning, first step", a different word from the one in 1:7.
 [^9-13]: Hebrew *qedoshim*, plural, probably to express majesty, as in 30:3. Or "knowledge of holy things".
 [^9-14]: Wisdom, or the teacher.
@@ -739,7 +739,7 @@
 
 **2** Treasures gained by wickedness are of no use, but righteousness rescues from death.
 
-**3** Yahweh[^10-3] will not let the righteous[^10-4] go hungry, but he thrusts away the craving[^10-5] of the wicked.[^10-6]
+**3** The LORD[^10-3] will not let the righteous[^10-4] go hungry, but he thrusts away the craving[^10-5] of the wicked.[^10-6]
 
 **4** A slack hand makes a person poor, but the hand of the diligent brings wealth.
 
@@ -777,7 +777,7 @@
 
 **21** The lips of the righteous feed many, but fools die for lack of sense.
 
-**22** The blessing of Yahweh makes rich, and he adds no sorrow to it.[^10-17]
+**22** The blessing of the LORD makes rich, and he adds no sorrow to it.[^10-17]
 
 **23** To a fool, doing wrong is like play, and so is wisdom to a person of insight.[^10-18]
 
@@ -787,11 +787,11 @@
 
 **26** Like vinegar to the teeth and smoke to the eyes, so is the lazy person[^10-19] to those who send him.
 
-**27** The fear of Yahweh adds days, but the years of the wicked will be cut short.
+**27** The fear of the LORD adds days, but the years of the wicked will be cut short.
 
 **28** The hope of the righteous ends in joy, but the expectation of the wicked will perish.
 
-**29** The way of Yahweh is a stronghold for the blameless, but ruin for those who do evil.
+**29** The way of the LORD is a stronghold for the blameless, but ruin for those who do evil.
 
 **30** The righteous will never be shaken, but the wicked will not remain in the land.
 
@@ -801,7 +801,7 @@
 
 [^10-1]: A new collection begins here (10:1–22:16), made up mostly of two-line sayings, often contrasting the wise and the foolish, the righteous and the wicked.
 [^10-2]: Hebrew *kesil*, the most common word for "fool" in Proverbs: someone dull and self-satisfied who does not want to learn (see 1:22). Also in verses 18 and 23.
-[^10-3]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^10-3]: *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles.
 [^10-4]: Hebrew *tsaddiq*: a righteous person, one who does what is right toward God and other people (see 2:20).
 [^10-5]: Hebrew *havvah*, "craving", a word that can also mean "destruction", as in Psalm 52:4 (52:2 in most English Bibles).
 [^10-6]: Hebrew *resha'im*, plural of *rasha*: wicked people, those who are guilty of wrong (see 2:22).
@@ -823,7 +823,7 @@
 
 *Status: draft*
 
-**1** Dishonest scales are detestable[^11-1] to Yahweh,[^11-2] but an accurate weight[^11-3] is his delight.
+**1** Dishonest scales are detestable[^11-1] to the LORD,[^11-2] but an accurate weight[^11-3] is his delight.
 
 **2** When pride comes, disgrace comes too, but with the humble is wisdom.
 
@@ -861,7 +861,7 @@
 
 **19** Truly righteousness leads to life,[^11-14] but whoever pursues evil goes to his death.
 
-**20** People with crooked hearts are detestable to Yahweh, but those whose way is blameless are his delight.
+**20** People with crooked hearts are detestable to the LORD, but those whose way is blameless are his delight.
 
 **21** You can be sure[^11-15] the evil person will not go unpunished, but the descendants of the righteous will escape.
 
@@ -886,7 +886,7 @@
 **31** If the righteous are repaid on earth, how much more the wicked and the sinner![^11-20]
 
 [^11-1]: Hebrew *to'evah*, something loathsome, traditionally "an abomination" (see 3:32). Also in verse 20.
-[^11-2]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^11-2]: *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles.
 [^11-3]: Literally "a full stone", a weight used with scales.
 [^11-4]: Hebrew *rasha*: a wicked person, one who is guilty of wrong (see 2:22).
 [^11-5]: Or "by their own destructive schemes". Hebrew *havvah*, as in 10:3.
@@ -912,7 +912,7 @@
 
 **1** Whoever loves discipline[^12-1] loves knowledge, but whoever hates correction is stupid.[^12-2]
 
-**2** A good person obtains favor from Yahweh,[^12-3] but he condemns a man who schemes.[^12-4]
+**2** A good person obtains favor from the LORD,[^12-3] but he condemns a man who schemes.[^12-4]
 
 **3** No one is made secure by wickedness, but the root of the righteous[^12-5] will never be moved.
 
@@ -952,7 +952,7 @@
 
 **21** No harm will happen to the righteous, but the wicked are filled with trouble.
 
-**22** Lying lips are detestable to Yahweh, but those who act faithfully are his delight.
+**22** Lying lips are detestable to the LORD, but those who act faithfully are his delight.
 
 **23** A prudent person conceals knowledge, but the heart of fools[^12-19] proclaims folly.[^12-20]
 
@@ -968,7 +968,7 @@
 
 [^12-1]: Hebrew *musar*: discipline, training and correction (see 1:2).
 [^12-2]: Hebrew *ba'ar*, "brutish", like an animal without understanding (also 30:2).
-[^12-3]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^12-3]: *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles.
 [^12-4]: Literally "a man of schemes". Hebrew *mezimmot*, the word translated "discretion" in 1:4, here in a bad sense.
 [^12-5]: Hebrew *tsaddiqim*, plural of *tsaddiq*: one who does what is right (see 2:20).
 [^12-6]: Hebrew *eshet chayil*, "a woman of strength, of worth", as in 31:10 and Ruth 3:11.
@@ -1071,7 +1071,7 @@
 
 **1** The wise woman builds her house,[^14-1] but folly[^14-2] tears it down with her own hands.
 
-**2** Whoever walks uprightly fears Yahweh,[^14-3] but whoever is devious in his ways despises him.
+**2** Whoever walks uprightly fears the LORD,[^14-3] but whoever is devious in his ways despises him.
 
 **3** In the mouth of a fool[^14-4] is a rod for his pride,[^14-5] but the lips of the wise protect them.
 
@@ -1119,9 +1119,9 @@
 
 **25** A truthful witness saves lives, but one who breathes out lies is a deceiver.
 
-**26** In the fear of Yahweh there is strong confidence, and his children will have a refuge.
+**26** In the fear of the LORD there is strong confidence, and his children will have a refuge.
 
-**27** The fear of Yahweh is a fountain of life, for turning away from the snares of death.
+**27** The fear of the LORD is a fountain of life, for turning away from the snares of death.
 
 **28** In a multitude of people is a king's glory, but without people a ruler is ruined.
 
@@ -1141,7 +1141,7 @@
 
 [^14-1]: Literally "The wise ones of women has built her house". With different vowels, "Wisdom (*chokhmot*, as in 9:1) has built her house", and the second line would then speak of Folly (compare 9:13).
 [^14-2]: Hebrew *iwwelet*, "folly", the word related to *ewil*, "fool" (see 1:7). Also in verses 8, 17, 18, 24 and 29.
-[^14-3]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^14-3]: *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles.
 [^14-4]: Hebrew *ewil*, the morally perverse, stubborn fool (see 1:7). Also in verse 9.
 [^14-5]: Literally "a rod of pride". The word for *rod* can also mean "shoot, branch" (Isaiah 11:1): his proud words may bring a beating on him, or his mouth sprouts pride.
 [^14-6]: Or "the manger is empty of grain".
@@ -1153,7 +1153,7 @@
 [^14-12]: Literally "but its end is ways of death". The verse is repeated in 16:25.
 [^14-13]: Literally "and from upon him a good man". Some scholars read "from his deeds", with a small change to the Hebrew.
 [^14-14]: Hebrew *peti*: a naive, inexperienced person, easily led (see 1:4). Also in verse 18.
-[^14-15]: Literally "fears". Or "fears (Yahweh)".
+[^14-15]: Literally "fears". Or "fears (the LORD)".
 [^14-16]: Hebrew *mezimmot*, as in 12:2.
 [^14-17]: Hebrew *tsaddiq*: one who does what is right (see 2:20).
 [^14-18]: Hebrew *ashrei*: happy, fortunate; traditionally "blessed".
@@ -1174,7 +1174,7 @@
 
 **2** The tongue of the wise makes knowledge attractive,[^15-1] but the mouth of fools[^15-2] gushes folly.[^15-3]
 
-**3** The eyes of Yahweh[^15-4] are everywhere, watching the evil and the good.
+**3** The eyes of the LORD[^15-4] are everywhere, watching the evil and the good.
 
 **4** A soothing tongue is a tree of life, but a twisted one crushes the spirit.
 
@@ -1184,13 +1184,13 @@
 
 **7** The lips of the wise spread knowledge, but the heart of fools is not so.[^15-10]
 
-**8** The sacrifice of the wicked is detestable to Yahweh, but the prayer of the upright is his delight.
+**8** The sacrifice of the wicked is detestable to the LORD, but the prayer of the upright is his delight.
 
-**9** The way of the wicked is detestable to Yahweh, but he loves the one who pursues righteousness.
+**9** The way of the wicked is detestable to the LORD, but he loves the one who pursues righteousness.
 
 **10** Severe discipline awaits the one who leaves the path; whoever hates correction will die.
 
-**11** Sheol and Abaddon[^15-11] lie open before Yahweh; how much more the hearts of humankind!
+**11** Sheol and Abaddon[^15-11] lie open before the LORD; how much more the hearts of humankind!
 
 **12** A mocker[^15-12] does not love the one who corrects him; he will not go to the wise.
 
@@ -1200,7 +1200,7 @@
 
 **15** All the days of the poor are hard, but a cheerful heart has a continual feast.
 
-**16** Better a little with the fear of Yahweh than great treasure with turmoil.
+**16** Better a little with the fear of the LORD than great treasure with turmoil.
 
 **17** Better a meal of vegetables where there is love than a fattened ox with hatred.
 
@@ -1218,15 +1218,15 @@
 
 **24** The path of life leads upward for the sensible,[^15-17] so that he may turn away from Sheol below.
 
-**25** Yahweh tears down the house of the proud, but he sets firm the boundary of the widow.
+**25** The LORD tears down the house of the proud, but he sets firm the boundary of the widow.
 
-**26** Evil plans are detestable to Yahweh, but gracious words are pure.[^15-18]
+**26** Evil plans are detestable to the LORD, but gracious words are pure.[^15-18]
 
 **27** Whoever is greedy for gain brings trouble on his household, but whoever hates bribes will live.
 
 **28** The heart of the righteous ponders how to answer, but the mouth of the wicked gushes evil things.
 
-**29** Yahweh is far from the wicked, but he hears the prayer of the righteous.
+**29** The LORD is far from the wicked, but he hears the prayer of the righteous.
 
 **30** Bright eyes[^15-19] gladden the heart; good news refreshes the bones.[^15-20]
 
@@ -1234,12 +1234,12 @@
 
 **32** Whoever ignores discipline despises himself, but whoever listens to correction gains sense.[^15-21]
 
-**33** The fear of Yahweh is the discipline of wisdom,[^15-22] and humility comes before honor.
+**33** The fear of the LORD is the discipline of wisdom,[^15-22] and humility comes before honor.
 
 [^15-1]: Or "uses knowledge well".
 [^15-2]: Hebrew *kesilim*, plural of *kesil* (see 1:22). Also in verses 7, 14 and 20.
 [^15-3]: Hebrew *iwwelet*, "folly", the word related to *ewil*, "fool" (see 1:7). Also in verses 14 and 21.
-[^15-4]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^15-4]: *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles.
 [^15-5]: Hebrew *ewil*, the morally perverse, stubborn fool (see 1:7).
 [^15-6]: Hebrew *musar*: discipline, training and correction (see 1:2). Also in verses 10, 32 and 33.
 [^15-7]: Hebrew *ya'rim*, a verb from the same root as *ormah*, "shrewdness, prudence" (see 1:4).
@@ -1263,27 +1263,27 @@
 
 *Status: draft*
 
-**1** The plans of the heart belong to people, but the answer of the tongue comes from Yahweh.[^16-1]
+**1** The plans of the heart belong to people, but the answer of the tongue comes from the LORD.[^16-1]
 
-**2** All a person's ways seem pure in his own eyes, but Yahweh weighs the spirits.[^16-2]
+**2** All a person's ways seem pure in his own eyes, but the LORD weighs the spirits.[^16-2]
 
-**3** Commit your works to Yahweh,[^16-3] and your plans will be established.
+**3** Commit your works to the LORD,[^16-3] and your plans will be established.
 
-**4** Yahweh has made everything for its purpose,[^16-4] even the wicked[^16-5] for the day of disaster.
+**4** The LORD has made everything for its purpose,[^16-4] even the wicked[^16-5] for the day of disaster.
 
-**5** Everyone who is proud in heart is detestable to Yahweh; you can be sure[^16-6] he will not go unpunished.
+**5** Everyone who is proud in heart is detestable to the LORD; you can be sure[^16-6] he will not go unpunished.
 
-**6** By faithful love and truth[^16-7] iniquity is atoned for,[^16-8] and by the fear of Yahweh one turns away from evil.
+**6** By faithful love and truth[^16-7] iniquity is atoned for,[^16-8] and by the fear of the LORD one turns away from evil.
 
-**7** When a person's ways please Yahweh, he makes even his enemies be at peace with him.
+**7** When a person's ways please the LORD, he makes even his enemies be at peace with him.
 
 **8** Better a little with righteousness than great income with injustice.
 
-**9** A person's heart plans his way, but Yahweh directs his steps.
+**9** A person's heart plans his way, but the LORD directs his steps.
 
 **10** Inspired decisions[^16-9] are on the lips of a king; his mouth does not betray justice.
 
-**11** Honest balances and scales belong to Yahweh; all the weights in the bag are his work.
+**11** Honest balances and scales belong to the LORD; all the weights in the bag are his work.
 
 **12** Doing wickedness is detestable to kings,[^16-10] for a throne is established by righteousness.
 
@@ -1301,7 +1301,7 @@
 
 **19** Better to be lowly in spirit with the humble[^16-13] than to divide plunder with the proud.
 
-**20** Whoever pays attention to the word[^16-14] will find good, and happy[^16-15] is the one who trusts in Yahweh.
+**20** Whoever pays attention to the word[^16-14] will find good, and happy[^16-15] is the one who trusts in the LORD.
 
 **21** The wise in heart are called discerning, and sweet speech increases learning.[^16-16]
 
@@ -1327,11 +1327,11 @@
 
 **32** Better to be slow to anger than a mighty warrior, and to rule one's spirit than to capture a city.
 
-**33** The lot is cast into the lap, but its every decision is from Yahweh.
+**33** The lot is cast into the lap, but its every decision is from the LORD.
 
-[^16-1]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^16-1]: *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles.
 [^16-2]: Or "the motives". Hebrew *ruchot*, plural of *ruach*.
-[^16-3]: Literally "Roll your works onto Yahweh".
+[^16-3]: Literally "Roll your works onto the LORD".
 [^16-4]: Or "for himself".
 [^16-5]: Hebrew *rasha*: one who is guilty of wrong (see 2:22).
 [^16-6]: Literally "hand to hand", as in 11:21.
@@ -1360,7 +1360,7 @@
 
 **2** A servant who acts wisely[^17-2] will rule over a son who acts shamefully, and will share the inheritance among the brothers.
 
-**3** The crucible is for silver and the furnace for gold, but Yahweh[^17-3] tests hearts.
+**3** The crucible is for silver and the furnace for gold, but the LORD[^17-3] tests hearts.
 
 **4** An evildoer listens to wicked lips; a liar pays attention to a destructive tongue.
 
@@ -1384,7 +1384,7 @@
 
 **14** Starting a quarrel is like letting out water; so drop the dispute before it breaks out.
 
-**15** Whoever acquits the wicked[^17-8] and whoever condemns the righteous,[^17-9] both are detestable to Yahweh.
+**15** Whoever acquits the wicked[^17-8] and whoever condemns the righteous,[^17-9] both are detestable to the LORD.
 
 **16** Why should a fool have money in his hand to buy wisdom, when he has no sense?[^17-10]
 
@@ -1414,7 +1414,7 @@
 
 [^17-1]: Literally "sacrifices". The meat of some sacrifices was eaten at a feast (7:14).
 [^17-2]: Hebrew *maskil*, as in 10:5.
-[^17-3]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^17-3]: *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles.
 [^17-4]: Hebrew *nabal*: a senseless, godless person, the word used of Nabal in 1 Samuel 25:25. Also in verse 21.
 [^17-5]: Literally "a stone of favor", a charm thought to bring good fortune.
 [^17-6]: Hebrew *kesil* (see 1:22). Also in verses 12, 16, 21, 24 and 25.
@@ -1454,7 +1454,7 @@
 
 **9** Whoever is slack in his work is brother to one who destroys.
 
-**10** The name of Yahweh[^18-8] is a strong tower; the righteous run into it and are safe.
+**10** The name of the LORD[^18-8] is a strong tower; the righteous run into it and are safe.
 
 **11** The wealth of the rich is their strong city; in their imagination[^18-9] it is like a high wall.
 
@@ -1478,7 +1478,7 @@
 
 **21** Death and life are in the power of the tongue, and those who love it will eat its fruit.
 
-**22** He who finds a wife finds a good thing and obtains favor from Yahweh.[^18-13]
+**22** He who finds a wife finds a good thing and obtains favor from the LORD.[^18-13]
 
 **23** The poor speak with pleading, but the rich answer harshly.
 
@@ -1491,7 +1491,7 @@
 [^18-5]: Literally "to lift up the face of the wicked".
 [^18-6]: Hebrew *tsaddiq*: one who does what is right (see 2:20).
 [^18-7]: Hebrew *mitlahamim*, a rare word, probably "tasty morsels" swallowed greedily. The verse is repeated in 26:22.
-[^18-8]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^18-8]: *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles.
 [^18-9]: Or "in their own conceit". Compare verse 10.
 [^18-10]: Hebrew *iwwelet*, "folly", the word related to *ewil*, "fool" (see 1:7).
 [^18-11]: Literally "A person's gift makes room for him".
@@ -1507,7 +1507,7 @@
 
 **2** Desire without knowledge is not good, and whoever hurries with his feet sins.[^19-2]
 
-**3** A person's folly[^19-3] ruins his way, but his heart rages against Yahweh.[^19-4]
+**3** A person's folly[^19-3] ruins his way, but his heart rages against the LORD.[^19-4]
 
 **4** Wealth adds many friends, but the poor is separated from his friend.
 
@@ -1529,13 +1529,13 @@
 
 **13** A foolish son is ruin to his father, and a wife's quarrels are a constant dripping.[^19-9]
 
-**14** House and wealth are an inheritance from fathers, but a sensible wife[^19-10] is from Yahweh.
+**14** House and wealth are an inheritance from fathers, but a sensible wife[^19-10] is from the LORD.
 
 **15** Laziness casts into a deep sleep, and an idle person will go hungry.
 
 **16** Whoever keeps the command keeps his life; whoever is careless of his ways will die.[^19-11]
 
-**17** Whoever is kind to the poor lends to Yahweh, and he will repay him for his deed.
+**17** Whoever is kind to the poor lends to the LORD, and he will repay him for his deed.
 
 **18** Discipline your son while there is hope; do not set your heart on his death.[^19-12]
 
@@ -1543,11 +1543,11 @@
 
 **20** Listen to advice and accept discipline,[^19-14] so that you may be wise in the end.
 
-**21** Many plans are in a person's heart, but it is the purpose of Yahweh that will stand.
+**21** Many plans are in a person's heart, but it is the purpose of the LORD that will stand.
 
 **22** What is desired in a person is faithful love,[^19-15] and it is better to be poor than a liar.
 
-**23** The fear of Yahweh leads to life; whoever has it rests content, untouched by harm.
+**23** The fear of the LORD leads to life; whoever has it rests content, untouched by harm.
 
 **24** The lazy person[^19-16] buries his hand in the dish; he will not even bring it back to his mouth.
 
@@ -1564,7 +1564,7 @@
 [^19-1]: Hebrew *kesil* (see 1:22). Also in verses 10, 13 and 29. Compare 28:6.
 [^19-2]: Or "misses the way". The verb *chata* means both "sin" and "miss" (8:36).
 [^19-3]: Hebrew *iwwelet*, "folly", the word related to *ewil*, "fool" (see 1:7).
-[^19-4]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^19-4]: *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles.
 [^19-5]: The Hebrew of this line is difficult. The text is written *lo*, "not", but read *lo*, "to him": literally "pursuing words, they are his". On the written form the line means "he pursues them with words, but they are gone". The verse has three lines instead of two, and the Septuagint has a different and longer text.
 [^19-6]: Literally "gains heart".
 [^19-7]: Hebrew *tevunah* (see 2:2).
@@ -1605,11 +1605,11 @@
 
 **9** Who can say, "I have made my heart clean; I am pure from my sin"?
 
-**10** Two different weights and two different measures,[^20-8] both are detestable to Yahweh.[^20-9]
+**10** Two different weights and two different measures,[^20-8] both are detestable to the LORD.[^20-9]
 
 **11** Even a child makes himself known by his actions,[^20-10] whether his conduct is pure and right.
 
-**12** The ear that hears and the eye that sees, Yahweh has made them both.
+**12** The ear that hears and the eye that sees, the LORD has made them both.
 
 **13** Do not love sleep, or you will become poor; open your eyes, and you will have plenty of bread.
 
@@ -1629,17 +1629,17 @@
 
 **21** An inheritance gained in haste at the beginning[^20-14] will not be blessed in the end.
 
-**22** Do not say, "I will pay back evil!" Wait for Yahweh, and he will rescue you.
+**22** Do not say, "I will pay back evil!" Wait for the LORD, and he will rescue you.
 
-**23** Two different weights are detestable to Yahweh, and dishonest scales are not good.
+**23** Two different weights are detestable to the LORD, and dishonest scales are not good.
 
-**24** A man's steps are from Yahweh; how then can anyone understand his own way?
+**24** A man's steps are from the LORD; how then can anyone understand his own way?
 
 **25** It is a trap for a person to say rashly, "It is holy!"[^20-15] and only afterward to think about his vows.
 
 **26** A wise king winnows out the wicked[^20-16] and drives the wheel over them.[^20-17]
 
-**27** The human spirit[^20-18] is the lamp of Yahweh, searching all the inner parts of the body.
+**27** The human spirit[^20-18] is the lamp of the LORD, searching all the inner parts of the body.
 
 **28** Faithful love and truth[^20-19] guard a king; by faithful love his throne is upheld.
 
@@ -1655,7 +1655,7 @@
 [^20-6]: Hebrew *tsaddiq*: one who does what is right (see 2:20).
 [^20-7]: Hebrew *ashrei*: happy, fortunate; traditionally "blessed".
 [^20-8]: Literally "a stone and a stone, an ephah and an ephah", one for buying and one for selling. Hebrew *ephah*, a measure for grain, used here for any measure of volume. Compare Deuteronomy 25:13–15.
-[^20-9]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^20-9]: *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles.
 [^20-10]: Or "Even a child may disguise himself by his actions".
 [^20-11]: Hebrew *peninim*, as in 3:15.
 [^20-12]: The Hebrew text is written "for foreigners" but read "for a foreign woman". Compare 27:13.
@@ -1672,11 +1672,11 @@
 
 *Status: draft*
 
-**1** The king's heart is like streams of water in the hand of Yahweh;[^21-1] he turns it wherever he wishes.
+**1** The king's heart is like streams of water in the hand of the LORD;[^21-1] he turns it wherever he wishes.
 
-**2** All a person's ways seem right in his own eyes, but Yahweh weighs hearts.
+**2** All a person's ways seem right in his own eyes, but the LORD weighs hearts.
 
-**3** Doing righteousness and justice is more acceptable to Yahweh than sacrifice.
+**3** Doing righteousness and justice is more acceptable to the LORD than sacrifice.
 
 **4** Haughty eyes and a proud heart, the lamp[^21-2] of the wicked,[^21-3] are sin.
 
@@ -1730,11 +1730,11 @@
 
 **29** A wicked man puts on a bold face, but the upright gives thought to his way.[^21-16]
 
-**30** There is no wisdom, no insight,[^21-17] no counsel that can stand against Yahweh.
+**30** There is no wisdom, no insight,[^21-17] no counsel that can stand against the LORD.
 
-**31** The horse is made ready for the day of battle, but victory belongs to Yahweh.
+**31** The horse is made ready for the day of battle, but victory belongs to the LORD.
 
-[^21-1]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^21-1]: *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles.
 [^21-2]: The Hebrew vowel points read *nir*, "newly plowed ground" (as in 13:23): "the plowing of the wicked". The same consonants can be read *ner*, "lamp" (13:9; 20:27).
 [^21-3]: Hebrew *resha'im*, plural of *rasha*: those who are guilty of wrong (see 2:22).
 [^21-4]: Hebrew *hevel*, "breath, vapor", the word used throughout Ecclesiastes.
@@ -1758,11 +1758,11 @@
 
 **1** A good name is to be chosen rather than great riches, and favor is better than silver and gold.
 
-**2** The rich and the poor meet together; Yahweh[^22-1] is the maker of them all.
+**2** The rich and the poor meet together; the LORD[^22-1] is the maker of them all.
 
 **3** The prudent[^22-2] sees danger and hides himself, but the simple[^22-3] go on and pay for it.
 
-**4** The reward for humility and the fear of Yahweh is riches, honor and life.[^22-4]
+**4** The reward for humility and the fear of the LORD is riches, honor and life.[^22-4]
 
 **5** Thorns and snares are in the way of the crooked; whoever guards his life will keep far from them.
 
@@ -1778,11 +1778,11 @@
 
 **11** Whoever loves purity of heart[^22-9] and whose speech is gracious will have the king as his friend.
 
-**12** The eyes of Yahweh watch over knowledge, but he overturns the words of the treacherous.
+**12** The eyes of the LORD watch over knowledge, but he overturns the words of the treacherous.
 
 **13** The lazy person[^22-10] says, "There is a lion outside! I will be killed in the streets!"
 
-**14** The mouth of strange women[^22-11] is a deep pit; whoever is cursed by Yahweh will fall into it.
+**14** The mouth of strange women[^22-11] is a deep pit; whoever is cursed by the LORD will fall into it.
 
 **15** Folly[^22-12] is bound up in the heart of a child, but the rod of discipline[^22-13] will drive it far from him.
 
@@ -1792,7 +1792,7 @@
 
 **18** for it is pleasant if you keep them within you,[^22-16] if all of them are ready on your lips.
 
-**19** So that your trust may be in Yahweh, I have taught you today, even you.
+**19** So that your trust may be in the LORD, I have taught you today, even you.
 
 **20** Have I not written for you excellent sayings[^22-17] of advice and knowledge,
 
@@ -1800,7 +1800,7 @@
 
 **22** Do not rob the poor because he is poor, and do not crush the afflicted at the gate,[^22-18]
 
-**23** for Yahweh will plead their case and will take the life of those who rob them.
+**23** for the LORD will plead their case and will take the life of those who rob them.
 
 **24** Do not make friends with a hot-tempered person, and do not go about with a man given to anger,
 
@@ -1814,10 +1814,10 @@
 
 **29** Do you see a man skilled in his work? He will serve before kings; he will not serve before obscure people.
 
-[^22-1]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^22-1]: *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles.
 [^22-2]: Hebrew *arum*, "shrewd, prudent" (see 1:4). The verse is repeated in 27:12.
 [^22-3]: Hebrew *peta'im*, plural of *peti*: naive, inexperienced people, easily led (see 1:4).
-[^22-4]: Literally "The reward of humility, the fear of Yahweh, riches and honor and life". Or "The reward of humility, which is the fear of Yahweh, is riches …".
+[^22-4]: Literally "The reward of humility, the fear of the LORD, riches and honor and life". Or "The reward of humility, which is the fear of the LORD, is riches …".
 [^22-5]: Literally "according to his way": the way he should go, or the way that suits him.
 [^22-6]: Or "slave".
 [^22-7]: The Septuagint adds a line, "God blesses a man who is cheerful and generous", echoed in 2 Corinthians 9:7.
@@ -1870,7 +1870,7 @@
 
 **16** and my inmost being[^23-12] will rejoice when your lips speak what is right.
 
-**17** Do not let your heart envy sinners, but continue[^23-13] in the fear of Yahweh[^23-14] all day long.
+**17** Do not let your heart envy sinners, but continue[^23-13] in the fear of the LORD[^23-14] all day long.
 
 **18** For surely there is a future, and your hope will not be cut off.
 
@@ -1920,8 +1920,8 @@
 [^23-10]: Hebrew *musar*: discipline, training and correction (see 1:2). Also in verses 13 and 23.
 [^23-11]: Hebrew *Sheol*, the realm of the dead.
 [^23-12]: Literally "my kidneys", thought of as the seat of the emotions.
-[^23-13]: Literally "but in the fear of Yahweh all day".
-[^23-14]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^23-13]: Literally "but in the fear of the LORD all day".
+[^23-14]: *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles.
 [^23-15]: Hebrew *tsaddiq*: one who does what is right (see 2:20).
 [^23-16]: The Hebrew text is written "delight in my ways" but read "keep to my ways".
 [^23-17]: Hebrew *nokhriyyah*, "foreign woman" (see 2:16).
@@ -1969,13 +1969,13 @@
 
 **17** Do not rejoice when your enemy[^24-13] falls, and do not let your heart be glad when he stumbles,
 
-**18** or Yahweh[^24-14] will see it and be displeased, and turn his anger away from him.
+**18** or the LORD[^24-14] will see it and be displeased, and turn his anger away from him.
 
 **19** Do not fret because of evildoers or envy the wicked,
 
 **20** for the evil person has no future; the lamp of the wicked will be snuffed out.
 
-**21** My son, fear Yahweh and the king; do not associate with those who are given to change,[^24-15]
+**21** My son, fear the LORD and the king; do not associate with those who are given to change,[^24-15]
 
 **22** for disaster from them will rise suddenly, and who knows the ruin the two of them can bring?[^24-16]
 
@@ -2016,9 +2016,9 @@
 [^24-11]: Or "Do not lie in wait, you wicked man". Hebrew *rasha* (see 2:22).
 [^24-12]: Hebrew *tsaddiq*: one who does what is right (see 2:20).
 [^24-13]: The Hebrew text is written "your enemies" but read "your enemy".
-[^24-14]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^24-14]: *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles.
 [^24-15]: Hebrew *shonim*, "those who change", perhaps rebels. The Septuagint reads "and do not disobey either of them".
-[^24-16]: *The two of them* are probably Yahweh and the king (verse 21).
+[^24-16]: *The two of them* are probably the LORD and the king (verse 21).
 [^24-17]: A short collection follows (verses 23–34). From here to the end of the book the Septuagint arranges the material differently. After 24:22 it has 30:1–14, then 24:23–34, then 30:15–33 and 31:1–9, then chapters 25–29, and last 31:10–31.
 [^24-18]: Literally "Recognizing faces".
 [^24-19]: A kiss on the lips may have been a sign of friendship and loyalty.
@@ -2074,7 +2074,7 @@
 
 **21** If your enemy[^25-7] is hungry, give him bread to eat; if he is thirsty, give him water to drink,
 
-**22** for you will heap burning coals on his head, and Yahweh[^25-8] will reward you.[^25-9]
+**22** for you will heap burning coals on his head, and the LORD[^25-8] will reward you.[^25-9]
 
 **23** The north wind brings forth rain, and a secret tongue, angry faces.
 
@@ -2095,7 +2095,7 @@
 [^25-5]: Literally "on its wheels", probably "at the right time" or "in the right way".
 [^25-6]: Hebrew *neter*, natron or soda, which fizzes when vinegar is poured on it.
 [^25-7]: Literally "the one who hates you".
-[^25-8]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^25-8]: *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles.
 [^25-9]: Romans 12:20 quotes verses 21–22.
 [^25-10]: The verse repeats 21:9.
 [^25-11]: Hebrew *tsaddiq*: one who does what is right (see 2:20).
@@ -2263,7 +2263,7 @@
 
 **4** Those who abandon the law[^28-4] praise the wicked, but those who keep the law fight against them.
 
-**5** Evil people do not understand justice, but those who seek Yahweh[^28-5] understand everything.
+**5** Evil people do not understand justice, but those who seek the LORD[^28-5] understand everything.
 
 **6** Better a poor person who walks in integrity than one whose ways are crooked,[^28-6] even if he is rich.
 
@@ -2303,7 +2303,7 @@
 
 **24** Whoever robs his father or his mother and says, "It is no offense," is a companion of a destroyer.
 
-**25** The greedy person[^28-15] stirs up strife, but whoever trusts in Yahweh will prosper.
+**25** The greedy person[^28-15] stirs up strife, but whoever trusts in the LORD will prosper.
 
 **26** Whoever trusts in his own heart is a fool,[^28-16] but whoever walks in wisdom will be kept safe.
 
@@ -2315,7 +2315,7 @@
 [^28-2]: Hebrew *tsaddiqim*, plural of *tsaddiq*: those who do what is right (see 2:20).
 [^28-3]: The Hebrew of this line is difficult. Literally "but by a person who understands, who knows, so it lasts long".
 [^28-4]: Hebrew *torah*, "instruction", here probably God's law. Also in verses 7 and 9.
-[^28-5]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^28-5]: *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles.
 [^28-6]: Literally "crooked of two ways", perhaps double-dealing. Also in verse 18. Compare 19:1.
 [^28-7]: Lending at interest to a fellow Israelite was forbidden (Leviticus 25:36–37).
 [^28-8]: Literally "a person must be searched for".
@@ -2356,7 +2356,7 @@
 
 **12** If a ruler listens to lies, all his officials become wicked.
 
-**13** The poor and the oppressor meet together; Yahweh[^29-12] gives light to the eyes of both.[^29-13]
+**13** The poor and the oppressor meet together; the LORD[^29-12] gives light to the eyes of both.[^29-13]
 
 **14** If a king judges the poor with faithfulness, his throne will be established forever.
 
@@ -2380,9 +2380,9 @@
 
 **24** Whoever is a partner with a thief hates his own life; he hears the curse but does not testify.[^29-18]
 
-**25** Fear of people sets a snare, but whoever trusts in Yahweh is kept safe.
+**25** Fear of people sets a snare, but whoever trusts in the LORD is kept safe.
 
-**26** Many seek the favor of a ruler, but justice for a person comes from Yahweh.
+**26** Many seek the favor of a ruler, but justice for a person comes from the LORD.
 
 **27** An unjust man is detestable to the righteous, and one whose way is upright is detestable to the wicked.
 
@@ -2397,7 +2397,7 @@
 [^29-9]: Literally "and the upright seek his life". This may mean that the upright care for the blameless person's life, or that the bloodthirsty seek the life of the upright.
 [^29-10]: Hebrew *kesil* (see 1:22). Also in verse 20.
 [^29-11]: Literally "brings out all his spirit (*ruach*)".
-[^29-12]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^29-12]: *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles.
 [^29-13]: Compare 22:2.
 [^29-14]: Hebrew *chazon*, a prophet's vision, revelation from God.
 [^29-15]: Hebrew *torah*, "instruction", here probably God's law.
@@ -2425,7 +2425,7 @@
 
 **8** keep falsehood and lies far from me; give me neither poverty nor riches; feed me with the bread I need,[^30-9]
 
-**9** or I may become full and deny you and say, "Who is Yahweh?"[^30-10] or I may become poor and steal, and profane the name of my God.
+**9** or I may become full and deny you and say, "Who is the LORD?"[^30-10] or I may become poor and steal, and profane the name of my God.
 
 **10** Do not slander a servant to his master, or he will curse you, and you will be held guilty.
 
@@ -2484,7 +2484,7 @@
 [^30-7]: Hebrew *Eloah*, a poetic form of *Elohim*, "God". The line is nearly the same as Psalm 18:31 (18:30 in most English Bibles) and 2 Samuel 22:31.
 [^30-8]: Compare Deuteronomy 4:2; 13:1 (12:32 in most English Bibles).
 [^30-9]: Literally "the bread of my portion".
-[^30-10]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^30-10]: *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles.
 [^30-11]: Literally "A generation", that is, a kind of people. Also in verses 12–14.
 [^30-12]: Hebrew *aluqah*, a word found only here, probably "leech".
 [^30-13]: The pattern "three … four" builds up to the last item in the list (compare 6:16). Also in verses 18, 21 and 29.
@@ -2562,7 +2562,7 @@
 
 **29** "Many women have done capably,[^31-14] but you surpass them all."
 
-**30** Charm is deceptive and beauty is fleeting,[^31-15] but a woman who fears Yahweh[^31-16] is to be praised.
+**30** Charm is deceptive and beauty is fleeting,[^31-15] but a woman who fears the LORD[^31-16] is to be praised.
 
 **31** Give her the fruit of her hands, and let her works praise her in the gates.
 
@@ -2581,4 +2581,4 @@
 [^31-13]: The verb is from the same root as *ashrei*, "happy" (see 3:13).
 [^31-14]: Hebrew *chayil*, the word translated "capable" in verse 10. Literally "Many daughters have done capably".
 [^31-15]: Hebrew *hevel*, "breath, vapor", the word used throughout Ecclesiastes.
-[^31-16]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^31-16]: *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles.

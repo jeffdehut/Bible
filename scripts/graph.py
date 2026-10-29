@@ -16,10 +16,10 @@ events of Theographic's chronology. Links:
     family    parent and child (STEPBible TIPNR)
     event     an event to its passages, people and places
 
-The layout follows the model of d3-force, the engine behind Obsidian's graph view: links pull
-their ends to a set distance, more gently for well-linked nodes, and every node pushes every
-other away. The push between all pairs is worked out on a mesh with FFTs (a particle-mesh
-method), with the exact push added between near neighbours, so 5,600 nodes lay out in seconds.
+The layout follows the model of d3-force: links pull their ends to a set distance, more
+gently for well-linked nodes, and every node pushes every other away. The push between all
+pairs is worked out on a mesh with FFTs (a particle-mesh method), with the exact push added
+between near neighbours, so 5,600 nodes lay out in seconds.
 It starts from the wheel the page opens with (the chapters round a circle in order, everyone
 else at the middle of their chapters), so the opening animation from wheel to web is smooth.
 """
@@ -217,7 +217,8 @@ def map_places(ctx, node_of):
         e = ctx.entities[i]
         if e["kind"] != "place":
             continue
-        votes = collections.Counter(p for ref in e["verses"] for p in at.get(ref, ())
+        # sorted, so that a tie goes the same way on every build
+        votes = collections.Counter(p for ref in sorted(e["verses"]) for p in at.get(ref, ())
                                     if plain(links["places"][p][1]) == plain(e["name"]))
         if votes:
             pid, _, sheets = links["places"][votes.most_common(1)[0][0]]

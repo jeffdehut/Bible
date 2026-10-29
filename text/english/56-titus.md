@@ -95,7 +95,7 @@
 [^2-7]: Or "has appeared to all people, bringing salvation".
 [^2-8]: Greek *epiphaneia*, "appearance, manifestation", related to the verb "has appeared" in verse 11. *The appearing of the glory*: or "the glorious appearing".
 [^2-9]: Or "of the great God and our Savior Jesus Christ". In the Greek one article governs both "God" and "Savior", which many take to mean that both refer to Jesus Christ; others take them as two persons.
-[^2-10]: Greek *laos periousios*, the phrase the Septuagint uses for Israel as Yahweh's "treasured possession" (Exodus 19:5; Deuteronomy 14:2). *Redeem us from all lawlessness*: compare Psalm 130:8; Ezekiel 37:23.
+[^2-10]: Greek *laos periousios*, the phrase the Septuagint uses for Israel as the LORD's "treasured possession" (Exodus 19:5; Deuteronomy 14:2). *Redeem us from all lawlessness*: compare Psalm 130:8; Ezekiel 37:23.
 
 ## Chapter 3
 

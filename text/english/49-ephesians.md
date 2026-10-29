@@ -469,7 +469,7 @@
 
 **24** Grace be with all who love our Lord Jesus Christ with an undying love.[^6-22]
 
-[^6-1]: Exodus 20:12; Deuteronomy 5:16, as worded in the Septuagint. *On the earth*: or "in the land". The commandment continues "that Yahweh your God is giving you".
+[^6-1]: Exodus 20:12; Deuteronomy 5:16, as worded in the Septuagint. *On the earth*: or "in the land". The commandment continues "that the LORD your God is giving you".
 [^6-2]: Greek *pateres*, "fathers", a word that can sometimes mean "parents".
 [^6-3]: Greek *douloi*, "slaves"; also in verses 6 and 8. Slavery was part of the social order of the Roman world, and many members of the early churches were slaves or owned slaves. This passage addresses both (verses 5–9).
 [^6-4]: Literally "masters according to the flesh". Greek *kyrioi*, "lords, masters, owners", the same word as "Lord" in verses 7–9.

@@ -95,17 +95,17 @@
 
 **3** God blessed the seventh day and made it holy, because on it he rested from all the work he had done in creating.[^2-4]
 
-**4** These are the generations[^2-5] of the heavens and the earth when they were created. When[^2-6] Yahweh God[^2-7] made the earth and the heavens,
+**4** These are the generations[^2-5] of the heavens and the earth when they were created. When[^2-6] the LORD God[^2-7] made the earth and the heavens,
 
-**5** no shrub of the field was yet on the earth, and no plant of the field had yet sprung up, for Yahweh God had not sent rain on the earth, and there was no human being to work the ground.[^2-8]
+**5** no shrub of the field was yet on the earth, and no plant of the field had yet sprung up, for the LORD God had not sent rain on the earth, and there was no human being to work the ground.[^2-8]
 
 **6** But a stream[^2-9] would rise from the earth and water the whole surface of the ground.
 
-**7** Then Yahweh God formed the man[^2-10] from the dust of the ground. He breathed into his nostrils the breath of life, and the man became a living being.[^2-11]
+**7** Then the LORD God formed the man[^2-10] from the dust of the ground. He breathed into his nostrils the breath of life, and the man became a living being.[^2-11]
 
-**8** Yahweh God planted a garden in Eden,[^2-12] in the east,[^2-13] and there he put the man he had formed.
+**8** The LORD God planted a garden in Eden,[^2-12] in the east,[^2-13] and there he put the man he had formed.
 
-**9** Out of the ground Yahweh God made every tree grow that is pleasing to look at and good for food, with the tree of life in the middle of the garden, and the tree of the knowledge of good and evil.[^2-14]
+**9** Out of the ground the LORD God made every tree grow that is pleasing to look at and good for food, with the tree of life in the middle of the garden, and the tree of the knowledge of good and evil.[^2-14]
 
 **10** A river flowed out of Eden to water the garden. From there it divided and became four branches.[^2-15]
 
@@ -117,21 +117,21 @@
 
 **14** The name of the third river is the Tigris.[^2-19] It is the one that flows east of Assyria.[^2-20] And the fourth river is the Euphrates.[^2-21]
 
-**15** Yahweh God took the man and settled him in the garden of Eden to work it and take care of it.[^2-22]
+**15** The LORD God took the man and settled him in the garden of Eden to work it and take care of it.[^2-22]
 
-**16** Yahweh God commanded the man, "You may freely eat from every tree in the garden,
+**16** The LORD God commanded the man, "You may freely eat from every tree in the garden,
 
 **17** but you must not eat from the tree of the knowledge of good and evil. For on the day you eat from it, you will certainly die."[^2-23]
 
-**18** Then Yahweh God said, "It is not good for the man to be alone. I will make a helper who is right for him."[^2-24]
+**18** Then the LORD God said, "It is not good for the man to be alone. I will make a helper who is right for him."[^2-24]
 
-**19** So out of the ground Yahweh God formed every wild animal and every bird of the sky,[^2-25] and he brought them to the man to see what he would call them. Whatever the man called each living creature,[^2-26] that was its name.
+**19** So out of the ground the LORD God formed every wild animal and every bird of the sky,[^2-25] and he brought them to the man to see what he would call them. Whatever the man called each living creature,[^2-26] that was its name.
 
 **20** The man gave names to all the livestock, to the birds of the sky, and to every wild animal. But for the man[^2-27] no helper who was right for him was found.
 
-**21** So Yahweh God made a deep sleep fall on the man, and he slept. Then he took one of his ribs[^2-28] and closed up the flesh in its place.
+**21** So the LORD God made a deep sleep fall on the man, and he slept. Then he took one of his ribs[^2-28] and closed up the flesh in its place.
 
-**22** Yahweh God built the rib he had taken from the man into a woman, and he brought her to the man.
+**22** The LORD God built the rib he had taken from the man into a woman, and he brought her to the man.
 
 **23** The man said, "This one at last is bone of my bones and flesh of my flesh! She will be called 'woman,'[^2-29] because she was taken out of man."
 
@@ -145,7 +145,7 @@
 [^2-4]: Literally "from all his work which God created to do".
 [^2-5]: Hebrew *toledot*, from the verb "to father, give birth": what came from someone, their descendants and their story. The formula "These are the generations of …" heads each main section of Genesis.
 [^2-6]: Literally "On the day".
-[^2-7]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles. In chapters 2–3 it is usually joined with "God" (Elohim): "Yahweh God".
+[^2-7]: *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles. In chapters 2–3 it is usually joined with "God" (Elohim): "the LORD God".
 [^2-8]: Hebrew *adam*, "human being", sounds like *adamah*, "ground".
 [^2-9]: Hebrew *ed*, a rare word of uncertain meaning: perhaps a spring or flow of water. Traditionally "mist".
 [^2-10]: Hebrew *ha-adam*, "the human", the same word as in verse 5. In chapters 2–3 it is not yet a personal name.
@@ -163,7 +163,7 @@
 [^2-22]: Or "to serve it and guard it".
 [^2-23]: Literally "dying you will die", an emphatic form.
 [^2-24]: Hebrew *ezer kenegdo*, literally "a helper corresponding to him" or "opposite him". *Ezer*, "helper", is often used of God (Psalm 33:20). Also in verse 20.
-[^2-25]: Or "Now out of the ground Yahweh God had formed every wild animal and every bird of the sky".
+[^2-25]: Or "Now out of the ground the LORD God had formed every wild animal and every bird of the sky".
 [^2-26]: Hebrew *nephesh chayyah*, the phrase translated "living being" in verse 7.
 [^2-27]: The Hebrew vowel points read "for Adam", as a name. The same consonants can be read "for the man", as elsewhere in the chapter.
 [^2-28]: Or "one of his sides". Hebrew *tsela* usually means a side, as of a building or the ark.
@@ -174,7 +174,7 @@
 
 *Status: draft*
 
-**1** Now the snake[^3-1] was more crafty[^3-2] than any wild animal that Yahweh God[^3-3] had made. It said to the woman, "Did God really say, 'You must not eat from any tree in the garden'?"
+**1** Now the snake[^3-1] was more crafty[^3-2] than any wild animal that the LORD God[^3-3] had made. It said to the woman, "Did God really say, 'You must not eat from any tree in the garden'?"
 
 **2** The woman said to the snake, "We may eat fruit from the trees in the garden,
 
@@ -188,9 +188,9 @@
 
 **7** Then the eyes of both of them were opened, and they knew that they were naked. They sewed fig leaves together and made themselves loincloths.
 
-**8** They heard the sound[^3-6] of Yahweh God walking in the garden in the breeze of the day,[^3-7] and the man and his wife hid from Yahweh God among the trees of the garden.
+**8** They heard the sound[^3-6] of the LORD God walking in the garden in the breeze of the day,[^3-7] and the man and his wife hid from the LORD God among the trees of the garden.
 
-**9** But Yahweh God called to the man and said to him, "Where are you?"
+**9** But the LORD God called to the man and said to him, "Where are you?"
 
 **10** He said, "I heard the sound of you in the garden, and I was afraid because I was naked, so I hid."
 
@@ -198,9 +198,9 @@
 
 **12** The man said, "The woman you gave to be with me, she gave me fruit from the tree, and I ate."
 
-**13** Then Yahweh God said to the woman, "What is this you have done?" The woman said, "The snake deceived me, and I ate."
+**13** Then the LORD God said to the woman, "What is this you have done?" The woman said, "The snake deceived me, and I ate."
 
-**14** Yahweh God said to the snake, "Because you have done this, you are cursed more than all the livestock and all the wild animals.[^3-8] You will crawl on your belly, and you will eat dust all the days of your life.
+**14** The LORD God said to the snake, "Because you have done this, you are cursed more than all the livestock and all the wild animals.[^3-8] You will crawl on your belly, and you will eat dust all the days of your life.
 
 **15** I will put hostility between you and the woman, and between your offspring[^3-9] and her offspring. He[^3-10] will strike[^3-11] your head, and you will strike his heel."
 
@@ -214,17 +214,17 @@
 
 **20** The man named his wife Eve,[^3-15] because she became the mother of everyone living.
 
-**21** Yahweh God made garments of skin for the man[^3-16] and his wife, and he clothed them.
+**21** The LORD God made garments of skin for the man[^3-16] and his wife, and he clothed them.
 
-**22** Then Yahweh God said, "Look, the man has become like one of us, knowing good and evil. And now, he might reach out his hand and take from the tree of life too, and eat, and live forever!"[^3-17]
+**22** Then the LORD God said, "Look, the man has become like one of us, knowing good and evil. And now, he might reach out his hand and take from the tree of life too, and eat, and live forever!"[^3-17]
 
-**23** So Yahweh God sent him out of the garden of Eden to work the ground from which he had been taken.
+**23** So the LORD God sent him out of the garden of Eden to work the ground from which he had been taken.
 
 **24** He drove the man out. And to the east of the garden of Eden[^3-18] he stationed the cherubim[^3-19] and a flaming sword that turned every way,[^3-20] to guard the way to the tree of life.
 
 [^3-1]: Hebrew *nachash*, traditionally "serpent".
 [^3-2]: Hebrew *arum*, "shrewd, crafty", sounds like *arummim*, "naked" (2:25; 3:7).
-[^3-3]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^3-3]: *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles.
 [^3-4]: Or "like gods", "like divine beings". Hebrew *elohim* can mean God or gods.
 [^3-5]: Or "desirable to make one wise".
 [^3-6]: Or "voice"; also in verse 10.
@@ -247,23 +247,23 @@
 
 *Status: draft*
 
-**1** The man had sexual relations with[^4-1] his wife Eve, and she became pregnant and gave birth to Cain.[^4-2] She said, "I have gotten a man with the help of Yahweh."[^4-3]
+**1** The man had sexual relations with[^4-1] his wife Eve, and she became pregnant and gave birth to Cain.[^4-2] She said, "I have gotten a man with the help of the LORD."[^4-3]
 
 **2** Then she gave birth again, to his brother Abel.[^4-4] Abel kept flocks, and Cain worked the ground.
 
-**3** In the course of time[^4-5] Cain brought some of the produce of the ground as an offering[^4-6] to Yahweh.
+**3** In the course of time[^4-5] Cain brought some of the produce of the ground as an offering[^4-6] to the LORD.
 
-**4** And Abel, for his part, brought some of the firstborn of his flock and some of their fat portions. Yahweh looked with favor on Abel and his offering,
+**4** And Abel, for his part, brought some of the firstborn of his flock and some of their fat portions. The LORD looked with favor on Abel and his offering,
 
 **5** but on Cain and his offering he did not look with favor. So Cain was very angry, and his face fell.
 
-**6** Yahweh said to Cain, "Why are you angry? Why has your face fallen?
+**6** The LORD said to Cain, "Why are you angry? Why has your face fallen?
 
 **7** If you do what is right, will you not be accepted?[^4-7] But if you do not do what is right, sin is crouching at the door. Its desire is for you, but you must rule over it."[^4-8]
 
 **8** Cain spoke to his brother Abel.[^4-9] And while they were in the field, Cain attacked his brother Abel and killed him.
 
-**9** Then Yahweh said to Cain, "Where is your brother Abel?" He said, "I don't know. Am I my brother's keeper?"
+**9** Then the LORD said to Cain, "Where is your brother Abel?" He said, "I don't know. Am I my brother's keeper?"
 
 **10** Then he said, "What have you done? Your brother's blood is crying out to me from the ground![^4-10]
 
@@ -271,13 +271,13 @@
 
 **12** When you work the ground, it will no longer give you its strength. You will be a restless wanderer[^4-12] on the earth."
 
-**13** Cain said to Yahweh, "My punishment is too great to bear.[^4-13]
+**13** Cain said to the LORD, "My punishment is too great to bear.[^4-13]
 
 **14** Look, today you are driving me away from the face of the ground, and I will be hidden from your presence. I will be a restless wanderer on the earth, and whoever finds me will kill me."
 
-**15** But Yahweh said to him, "Therefore,[^4-14] whoever kills Cain will suffer vengeance seven times over." And Yahweh put a mark on Cain,[^4-15] so that no one who found him would strike him down.
+**15** But the LORD said to him, "Therefore,[^4-14] whoever kills Cain will suffer vengeance seven times over." And the LORD put a mark on Cain,[^4-15] so that no one who found him would strike him down.
 
-**16** So Cain went out from Yahweh's presence and lived in the land of Nod,[^4-16] east of Eden.
+**16** So Cain went out from the LORD's presence and lived in the land of Nod,[^4-16] east of Eden.
 
 **17** Cain had sexual relations with his wife, and she became pregnant and gave birth to Enoch. He was building a city, and he named the city after his son Enoch.
 
@@ -297,11 +297,11 @@
 
 **25** Adam[^4-21] had sexual relations with his wife again, and she gave birth to a son and named him Seth.[^4-22] "For God has granted me another child[^4-23] in place of Abel," she said, "since Cain killed him."
 
-**26** A son was born to Seth too, and he named him Enosh.[^4-24] At that time people began to call on the name of Yahweh.[^4-25]
+**26** A son was born to Seth too, and he named him Enosh.[^4-24] At that time people began to call on the name of the LORD.[^4-25]
 
 [^4-1]: Literally "knew"; also in verses 17 and 25.
 [^4-2]: *Cain* sounds like the Hebrew *qaniti*, "I have gotten".
-[^4-3]: Literally "with Yahweh". *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^4-3]: Literally "with the LORD". *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles.
 [^4-4]: Hebrew *Hevel*, which means "breath" or "vapor".
 [^4-5]: Literally "At the end of days".
 [^4-6]: Hebrew *minchah*, a gift or tribute; also in verses 4 and 5.
@@ -323,7 +323,7 @@
 [^4-22]: Hebrew *Shet*, which sounds like *shat*, "granted".
 [^4-23]: Literally "another seed".
 [^4-24]: *Enosh* means "human being".
-[^4-25]: That is, to worship Yahweh by calling on his name. Or "to proclaim the name of Yahweh".
+[^4-25]: That is, to worship the LORD by calling on his name. Or "to proclaim the name of the LORD".
 
 ## Chapter 5
 
@@ -385,7 +385,7 @@
 
 **28** When Lamech had lived 182 years, he fathered a son.
 
-**29** He named him Noah,[^5-7] saying, "This one will comfort us in our work and in the painful toil of our hands, caused by the ground that Yahweh[^5-8] has cursed."
+**29** He named him Noah,[^5-7] saying, "This one will comfort us in our work and in the painful toil of our hands, caused by the ground that the LORD[^5-8] has cursed."
 
 **30** After he fathered Noah, Lamech lived 595 years, and he fathered sons and daughters.
 
@@ -400,7 +400,7 @@
 [^5-5]: In this chapter the Hebrew states each age in full, for example "thirty and a hundred years". The Septuagint and the Samaritan Pentateuch give different figures for several of the ages; the Septuagint, for example, has Adam father Seth at 230 years and live 700 years afterward.
 [^5-6]: That is, lived in close fellowship with God. Also in verse 24.
 [^5-7]: *Noah* means "rest" and sounds like *yenachamenu*, "he will comfort us". The Septuagint reads "This one will give us rest".
-[^5-8]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^5-8]: *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles.
 
 ## Chapter 6
 
@@ -410,17 +410,17 @@
 
 **2** the sons of God[^6-1] saw that the daughters of humankind were beautiful,[^6-2] and they took as wives any of them they chose.
 
-**3** Then Yahweh[^6-3] said, "My spirit will not remain[^6-4] in human beings forever, for they are flesh.[^6-5] Their days will be 120 years."
+**3** Then the LORD[^6-3] said, "My spirit will not remain[^6-4] in human beings forever, for they are flesh.[^6-5] Their days will be 120 years."
 
 **4** The Nephilim[^6-6] were on the earth in those days, and also afterward, when the sons of God slept with[^6-7] the daughters of humankind and they bore children to them. These were the mighty men of old, the famous men.[^6-8]
 
-**5** Yahweh saw that the wickedness of human beings on the earth was great, and that every inclination of the thoughts of their hearts was only evil all the time.
+**5** The LORD saw that the wickedness of human beings on the earth was great, and that every inclination of the thoughts of their hearts was only evil all the time.
 
-**6** Yahweh regretted that he had made human beings on the earth, and he was grieved to his heart.
+**6** The LORD regretted that he had made human beings on the earth, and he was grieved to his heart.
 
-**7** So Yahweh said, "I will wipe out from the face of the ground the human beings I have created: people together with livestock, creatures that move along the ground, and birds of the sky. For I regret that I made them."
+**7** So the LORD said, "I will wipe out from the face of the ground the human beings I have created: people together with livestock, creatures that move along the ground, and birds of the sky. For I regret that I made them."
 
-**8** But Noah found favor in the eyes of Yahweh.
+**8** But Noah found favor in the eyes of the LORD.
 
 **9** These are the generations[^6-9] of Noah. Noah was a righteous man, blameless[^6-10] among the people of his time.[^6-11] Noah walked with God.
 
@@ -452,7 +452,7 @@
 
 [^6-1]: Hebrew *bene ha-elohim*; also in verse 4. Elsewhere the phrase refers to heavenly beings (Job 1:6; 2:1). It has also been understood as meaning rulers, or the descendants of Seth.
 [^6-2]: Literally "good".
-[^6-3]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^6-3]: *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles.
 [^6-4]: The meaning of the Hebrew verb is uncertain. Or "will not contend with", "will not judge". The Septuagint reads "will not remain".
 [^6-5]: That is, mortal. Literally "in that he also is flesh".
 [^6-6]: A Hebrew word of uncertain meaning, perhaps "fallen ones". Traditionally "giants" (compare Numbers 13:33).
@@ -478,7 +478,7 @@
 
 *Status: draft*
 
-**1** Then Yahweh[^7-1] said to Noah, "Go into the ark, you and your whole household, for I have seen that you are righteous before me in this generation.
+**1** Then the LORD[^7-1] said to Noah, "Go into the ark, you and your whole household, for I have seen that you are righteous before me in this generation.
 
 **2** Of every clean[^7-2] animal take with you seven pairs,[^7-3] a male and its mate. Of the animals that are not clean take one pair, a male and its mate.
 
@@ -486,7 +486,7 @@
 
 **4** For in seven days[^7-5] I will send rain on the earth for forty days and forty nights, and I will wipe out from the face of the ground every living thing that I have made."
 
-**5** And Noah did everything just as Yahweh had commanded him.
+**5** And Noah did everything just as the LORD had commanded him.
 
 **6** Noah was 600 years old when the flood came, the waters on the earth.
 
@@ -508,7 +508,7 @@
 
 **15** They came to Noah into the ark, two by two of all living creatures[^7-8] that have the breath of life[^7-9] in them.
 
-**16** Those that went in, male and female of all living creatures, went in as God had commanded him. Then Yahweh shut him in.
+**16** Those that went in, male and female of all living creatures, went in as God had commanded him. Then the LORD shut him in.
 
 **17** The flood continued forty days on the earth. The waters increased and lifted up the ark, and it rose high above the earth.
 
@@ -526,7 +526,7 @@
 
 **24** The waters grew mighty on the earth for 150 days.
 
-[^7-1]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^7-1]: *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles.
 [^7-2]: Ritually clean: fit for sacrifice and for food (see Leviticus 11).
 [^7-3]: Or "seven of each kind"; also in verse 3. Literally "seven seven, a man and his wife".
 [^7-4]: Literally "to keep seed alive".
@@ -580,9 +580,9 @@
 
 **19** Every animal, every creature that moves along the ground, and every bird, everything that moves on the earth, went out of the ark by their families.
 
-**20** Then Noah built an altar to Yahweh.[^8-6] He took some of every clean animal and some of every clean bird and offered burnt offerings[^8-7] on the altar.
+**20** Then Noah built an altar to the LORD.[^8-6] He took some of every clean animal and some of every clean bird and offered burnt offerings[^8-7] on the altar.
 
-**21** Yahweh smelled the pleasing aroma,[^8-8] and Yahweh said in his heart,[^8-9] "I will never again curse the ground because of human beings, even though[^8-10] the inclination of the human heart is evil from youth. And I will never again strike down every living thing, as I have done.
+**21** The LORD smelled the pleasing aroma,[^8-8] and the LORD said in his heart,[^8-9] "I will never again curse the ground because of human beings, even though[^8-10] the inclination of the human heart is evil from youth. And I will never again strike down every living thing, as I have done.
 
 **22** As long as the earth lasts, seedtime and harvest, cold and heat, summer and winter, day and night will not cease."
 
@@ -591,7 +591,7 @@
 [^8-3]: Literally "no resting place for the sole of its foot".
 [^8-4]: That is, of Noah's life (see 7:11).
 [^8-5]: Literally "all flesh".
-[^8-6]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^8-6]: *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles.
 [^8-7]: Offerings that were burned whole on the altar.
 [^8-8]: Hebrew *reach ha-nichoach*, "the soothing smell". *Nichoach* sounds like the name Noah.
 [^8-9]: Or "said to himself".
@@ -651,7 +651,7 @@
 
 **25** he said, "Cursed be Canaan! He will be the lowest of slaves[^9-10] to his brothers."
 
-**26** He also said, "Blessed be Yahweh,[^9-11] the God of Shem! May Canaan be his[^9-12] slave.
+**26** He also said, "Blessed be the LORD,[^9-11] the God of Shem! May Canaan be his[^9-12] slave.
 
 **27** May God make room for Japheth,[^9-13] and may he live in the tents of Shem. May Canaan be his slave."
 
@@ -669,7 +669,7 @@
 [^9-8]: Literally "from these the whole earth was scattered".
 [^9-9]: Or "Noah began to be a farmer, and he planted a vineyard".
 [^9-10]: Literally "a slave of slaves".
-[^9-11]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^9-11]: *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles.
 [^9-12]: Or "their"; also in verse 27.
 [^9-13]: Hebrew *yapht*, "make room, enlarge", sounds like the name Japheth.
 
@@ -693,7 +693,7 @@
 
 **8** Cush fathered Nimrod. He was the first on earth to become a mighty warrior.
 
-**9** He was a mighty hunter before Yahweh.[^10-5] That is why it is said, "Like Nimrod, a mighty hunter before Yahweh."
+**9** He was a mighty hunter before the LORD.[^10-5] That is why it is said, "Like Nimrod, a mighty hunter before the LORD."
 
 **10** The beginning of his kingdom was Babel,[^10-6] Erech, Accad and Calneh, in the land of Shinar.[^10-7]
 
@@ -745,7 +745,7 @@
 [^10-2]: The Samaritan Pentateuch and the Septuagint read "Rodanim" (the people of Rhodes), as 1 Chronicles 1:7 does in the Hebrew. In Hebrew the letters *d* and *r* look very alike.
 [^10-3]: Literally "the coastlands of the nations".
 [^10-4]: Hebrew *Mitsrayim*, the usual Hebrew name for Egypt; also in verse 13.
-[^10-5]: Or "in Yahweh's sight". *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^10-5]: Or "in the LORD's sight". *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles.
 [^10-6]: That is, Babylon.
 [^10-7]: That is, Babylonia, in southern Mesopotamia.
 [^10-8]: Or "From that land Asshur went out".
@@ -767,15 +767,15 @@
 
 **4** Then they said, "Come, let us build ourselves a city, with a tower whose top reaches the heavens. Let us make a name for ourselves, so that we will not be scattered over the face of the whole earth."
 
-**5** Yahweh[^11-4] came down to see the city and the tower that the people[^11-5] were building.
+**5** The LORD[^11-4] came down to see the city and the tower that the people[^11-5] were building.
 
-**6** Yahweh said, "Look, they are one people, and they all have one language. This is only the beginning of what they will do. Now nothing they plan to do will be impossible for them.
+**6** The LORD said, "Look, they are one people, and they all have one language. This is only the beginning of what they will do. Now nothing they plan to do will be impossible for them.
 
 **7** Come, let us go down and confuse their language there, so that they will not understand one another's speech."
 
-**8** So Yahweh scattered them from there over the face of the whole earth, and they stopped building the city.
+**8** So the LORD scattered them from there over the face of the whole earth, and they stopped building the city.
 
-**9** That is why it was called Babel,[^11-6] because there Yahweh confused the language of the whole earth, and from there Yahweh scattered them over the face of the whole earth.
+**9** That is why it was called Babel,[^11-6] because there the LORD confused the language of the whole earth, and from there the LORD scattered them over the face of the whole earth.
 
 **10** These are the generations[^11-7] of Shem. When Shem was 100 years old, he fathered Arpachshad, two years after the flood.
 
@@ -826,7 +826,7 @@
 [^11-1]: Literally "one lip"; also in verses 6, 7 and 9.
 [^11-2]: Or "moved eastward".
 [^11-3]: Or "bitumen", a natural asphalt.
-[^11-4]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^11-4]: *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles.
 [^11-5]: Literally "the sons of humankind".
 [^11-6]: *Babel*, the Hebrew name for Babylon, sounds like *balal*, "confuse".
 [^11-7]: Hebrew *toledot*; see 2:4.
@@ -841,21 +841,21 @@
 
 *Status: draft*
 
-**1** Yahweh[^12-1] said to Abram, "Go from your land, your relatives[^12-2] and your father's household to the land that I will show you.
+**1** The LORD[^12-1] said to Abram, "Go from your land, your relatives[^12-2] and your father's household to the land that I will show you.
 
 **2** I will make you into a great nation. I will bless you and make your name great, and you will be a blessing.[^12-3]
 
 **3** I will bless those who bless you, and whoever treats you with contempt I will curse.[^12-4] In you all the families of the earth will be blessed."[^12-5]
 
-**4** So Abram went, as Yahweh had told him, and Lot went with him. Abram was 75 years old when he left Haran.
+**4** So Abram went, as the LORD had told him, and Lot went with him. Abram was 75 years old when he left Haran.
 
 **5** Abram took his wife Sarai, his nephew Lot, all the possessions they had gathered, and the people they had acquired[^12-6] in Haran, and they set out for the land of Canaan. They came to the land of Canaan,
 
 **6** and Abram passed through the land as far as the place[^12-7] at Shechem, to the oak[^12-8] of Moreh. At that time the Canaanites were in the land.
 
-**7** Then Yahweh appeared to Abram and said, "To your offspring[^12-9] I will give this land." So he built an altar there to Yahweh, who had appeared to him.
+**7** Then the LORD appeared to Abram and said, "To your offspring[^12-9] I will give this land." So he built an altar there to the LORD, who had appeared to him.
 
-**8** From there he moved on to the hill country east of Bethel and pitched his tent, with Bethel to the west[^12-10] and Ai to the east. There he built an altar to Yahweh and called on the name of Yahweh.[^12-11]
+**8** From there he moved on to the hill country east of Bethel and pitched his tent, with Bethel to the west[^12-10] and Ai to the east. There he built an altar to the LORD and called on the name of the LORD.[^12-11]
 
 **9** Then Abram journeyed on by stages toward the Negev.[^12-12]
 
@@ -873,7 +873,7 @@
 
 **16** He treated Abram well because of her, and Abram acquired flocks and herds, male donkeys, male and female servants,[^12-15] female donkeys and camels.
 
-**17** But Yahweh struck Pharaoh and his household with great plagues because of Sarai, Abram's wife.
+**17** But the LORD struck Pharaoh and his household with great plagues because of Sarai, Abram's wife.
 
 **18** So Pharaoh summoned Abram and said, "What is this you have done to me? Why didn't you tell me she was your wife?
 
@@ -881,7 +881,7 @@
 
 **20** Pharaoh gave his men orders about him, and they sent him away with his wife and everything he had.
 
-[^12-1]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^12-1]: *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles.
 [^12-2]: Or "your birthplace".
 [^12-3]: Or "Be a blessing!"
 [^12-4]: Two different Hebrew verbs: *qalal*, "treat lightly, speak of with contempt", and *arar*, "curse".
@@ -907,7 +907,7 @@
 
 **3** He went on by stages from the Negev as far as Bethel, to the place between Bethel and Ai where his tent had been at first,
 
-**4** the place where he had made the altar before. There Abram called on the name of Yahweh.[^13-2]
+**4** the place where he had made the altar before. There Abram called on the name of the LORD.[^13-2]
 
 **5** Lot, who was traveling with Abram, also had flocks and herds and tents.
 
@@ -919,15 +919,15 @@
 
 **9** Isn't the whole land before you? Please separate from me. If you go to the left, I will go to the right; if you go to the right, I will go to the left."
 
-**10** Lot looked up[^13-4] and saw that the whole plain[^13-5] of the Jordan was well watered everywhere, like the garden of Yahweh, like the land of Egypt, as far as Zoar. This was before Yahweh destroyed Sodom and Gomorrah.
+**10** Lot looked up[^13-4] and saw that the whole plain[^13-5] of the Jordan was well watered everywhere, like the garden of the LORD, like the land of Egypt, as far as Zoar. This was before the LORD destroyed Sodom and Gomorrah.
 
 **11** So Lot chose for himself the whole plain of the Jordan, and Lot traveled east. So they separated from each other.
 
 **12** Abram settled in the land of Canaan, while Lot settled among the cities of the plain and moved his tent as far as Sodom.
 
-**13** Now the men of Sodom were wicked, great sinners against Yahweh.
+**13** Now the men of Sodom were wicked, great sinners against the LORD.
 
-**14** After Lot had separated from him, Yahweh said to Abram, "Look up from the place where you are, and look north and south, east and west.
+**14** After Lot had separated from him, the LORD said to Abram, "Look up from the place where you are, and look north and south, east and west.
 
 **15** All the land that you see I will give to you and to your offspring[^13-6] forever.
 
@@ -935,10 +935,10 @@
 
 **17** Get up, walk through the land, its length and its breadth, for I will give it to you."
 
-**18** So Abram moved his tent and came and settled by the oaks[^13-7] of Mamre, which are at Hebron, and there he built an altar to Yahweh.
+**18** So Abram moved his tent and came and settled by the oaks[^13-7] of Mamre, which are at Hebron, and there he built an altar to the LORD.
 
 [^13-1]: Literally "heavy".
-[^13-2]: See 4:26. *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^13-2]: See 4:26. *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles.
 [^13-3]: Literally "for we are men, brothers". Lot was Abram's nephew (11:27; 12:5).
 [^13-4]: Literally "lifted up his eyes"; also in verse 14.
 [^13-5]: Hebrew *kikkar*, "circle": the round valley of the Jordan; also in verses 11–12.
@@ -991,7 +991,7 @@
 
 **21** The king of Sodom said to Abram, "Give me the people,[^14-16] and take the goods for yourself."
 
-**22** But Abram said to the king of Sodom, "I have raised my hand[^14-17] to Yahweh,[^14-18] God Most High, Creator of heaven and earth,
+**22** But Abram said to the king of Sodom, "I have raised my hand[^14-17] to the LORD,[^14-18] God Most High, Creator of heaven and earth,
 
 **23** that I will not take a thread or a sandal strap, or anything that is yours, so that you will never say, 'I made Abram rich.'
 
@@ -1014,27 +1014,27 @@
 [^14-15]: Literally "he gave him a tenth of everything".
 [^14-16]: Hebrew *nephesh*, here meaning the persons who had been captured.
 [^14-17]: That is, I have sworn an oath.
-[^14-18]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^14-18]: *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles.
 
 ## Chapter 15
 
 *Status: draft*
 
-**1** After these things the word of Yahweh[^15-1] came to Abram in a vision: "Do not be afraid, Abram. I am your shield. Your reward will be very great."[^15-2]
+**1** After these things the word of the LORD[^15-1] came to Abram in a vision: "Do not be afraid, Abram. I am your shield. Your reward will be very great."[^15-2]
 
-**2** But Abram said, "Lord Yahweh,[^15-3] what will you give me, since I go on childless, and the heir of my household[^15-4] is Eliezer of Damascus?"
+**2** But Abram said, "Lord GOD,[^15-3] what will you give me, since I go on childless, and the heir of my household[^15-4] is Eliezer of Damascus?"
 
 **3** Abram said, "Look, you have given me no offspring,[^15-5] so a member of my household will be my heir."
 
-**4** Then the word of Yahweh came to him: "This man will not be your heir. Your heir will be one who comes from your own body."[^15-6]
+**4** Then the word of the LORD came to him: "This man will not be your heir. Your heir will be one who comes from your own body."[^15-6]
 
 **5** He brought him outside and said, "Look up at the sky and count the stars, if you are able to count them." Then he said to him, "So will your offspring be."
 
-**6** Abram believed[^15-7] Yahweh, and he credited it to him as righteousness.[^15-8]
+**6** Abram believed[^15-7] the LORD, and he credited it to him as righteousness.[^15-8]
 
-**7** Then he said to him, "I am Yahweh, who brought you out of Ur of the Chaldeans to give you this land to possess."
+**7** Then he said to him, "I am the LORD, who brought you out of Ur of the Chaldeans to give you this land to possess."
 
-**8** But he said, "Lord Yahweh, how can I know that I will possess it?"
+**8** But he said, "Lord GOD, how can I know that I will possess it?"
 
 **9** He said to him, "Bring me a three-year-old heifer, a three-year-old female goat, a three-year-old ram, a turtledove and a young pigeon."
 
@@ -1054,7 +1054,7 @@
 
 **17** When the sun had gone down and it was dark, a smoking firepot and a flaming torch appeared and passed between these pieces.
 
-**18** On that day Yahweh made a covenant[^15-10] with Abram, saying, "To your offspring I give[^15-11] this land, from the river of Egypt to the great river, the river Euphrates:
+**18** On that day the LORD made a covenant[^15-10] with Abram, saying, "To your offspring I give[^15-11] this land, from the river of Egypt to the great river, the river Euphrates:
 
 **19** the Kenites, the Kenizzites, the Kadmonites,
 
@@ -1062,14 +1062,14 @@
 
 **21** the Amorites, the Canaanites, the Girgashites and the Jebusites."
 
-[^15-1]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^15-1]: *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles.
 [^15-2]: Or "I am your shield, your very great reward".
 [^15-3]: Hebrew *Adonai YHWH*; also in verse 8.
 [^15-4]: The meaning of the Hebrew phrase, *ben-mesheq beti*, is uncertain. *Mesheq* sounds like *Dammeseq*, "Damascus".
 [^15-5]: Literally "seed"; also in verses 5, 13 and 18.
 [^15-6]: Literally "who comes out of your inner parts".
 [^15-7]: Or "trusted".
-[^15-8]: That is, Yahweh counted Abram's trust as righteousness. Some understand Abram as the subject: "and he counted it to Yahweh as righteousness".
+[^15-8]: That is, the LORD counted Abram's trust as righteousness. Some understand Abram as the subject: "and he counted it to the LORD as righteousness".
 [^15-9]: Hebrew *dor*, which can also mean a lifetime.
 [^15-10]: Literally "cut a covenant", referring to the ceremony of cutting the animals in verses 9–17.
 [^15-11]: Literally "I have given".
@@ -1080,29 +1080,29 @@
 
 **1** Now Sarai, Abram's wife, had borne him no children. She had an Egyptian servant[^16-1] whose name was Hagar.
 
-**2** So Sarai said to Abram, "Look, Yahweh[^16-2] has kept me from having children. Please sleep with[^16-3] my servant; perhaps I can build a family through her."[^16-4] And Abram listened to Sarai.
+**2** So Sarai said to Abram, "Look, the LORD[^16-2] has kept me from having children. Please sleep with[^16-3] my servant; perhaps I can build a family through her."[^16-4] And Abram listened to Sarai.
 
 **3** So after Abram had lived ten years in the land of Canaan, Sarai, Abram's wife, took her servant Hagar the Egyptian and gave her to her husband Abram as his wife.
 
 **4** He slept with Hagar, and she became pregnant. When she saw that she was pregnant, her mistress became of little worth in her eyes.
 
-**5** Then Sarai said to Abram, "This wrong done to me is your fault![^16-5] I put my servant in your arms, and when she saw that she was pregnant, I became of little worth in her eyes. May Yahweh judge between me and you!"
+**5** Then Sarai said to Abram, "This wrong done to me is your fault![^16-5] I put my servant in your arms, and when she saw that she was pregnant, I became of little worth in her eyes. May the LORD judge between me and you!"
 
 **6** Abram said to Sarai, "Look, your servant is in your hands. Do to her whatever you think best." Then Sarai mistreated her, and she ran away from her.
 
-**7** The angel of Yahweh[^16-6] found her by a spring of water in the wilderness, the spring on the road to Shur.
+**7** The angel of the LORD[^16-6] found her by a spring of water in the wilderness, the spring on the road to Shur.
 
 **8** He said, "Hagar, servant of Sarai, where have you come from, and where are you going?" She said, "I am running away from my mistress Sarai."
 
-**9** The angel of Yahweh said to her, "Go back to your mistress and submit to her."[^16-7]
+**9** The angel of the LORD said to her, "Go back to your mistress and submit to her."[^16-7]
 
-**10** The angel of Yahweh also said to her, "I will greatly multiply your offspring,[^16-8] so that they will be too many to count."
+**10** The angel of the LORD also said to her, "I will greatly multiply your offspring,[^16-8] so that they will be too many to count."
 
-**11** And the angel of Yahweh said to her, "Look, you are pregnant and will give birth to a son. You are to name him Ishmael,[^16-9] for Yahweh has heard of your misery.
+**11** And the angel of the LORD said to her, "Look, you are pregnant and will give birth to a son. You are to name him Ishmael,[^16-9] for the LORD has heard of your misery.
 
 **12** He will be a wild donkey of a man. His hand will be against everyone, and everyone's hand against him. He will live in defiance of all his brothers."[^16-10]
 
-**13** She called Yahweh, who spoke to her, by this name: "You are El-roi,"[^16-11] for she said, "Have I really seen here the one who sees me?"[^16-12]
+**13** She called the LORD, who spoke to her, by this name: "You are El-roi,"[^16-11] for she said, "Have I really seen here the one who sees me?"[^16-12]
 
 **14** That is why the well was called Beer-lahai-roi.[^16-13] It is between Kadesh and Bered.
 
@@ -1111,11 +1111,11 @@
 **16** Abram was 86 years old when Hagar bore Ishmael to Abram.
 
 [^16-1]: Or "slave woman". Hebrew *shiphchah*, a female servant who belonged to her mistress.
-[^16-2]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^16-2]: *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles.
 [^16-3]: Literally "go in to"; also in verse 4.
 [^16-4]: Literally "perhaps I will be built from her". The verb "build", *banah*, sounds like *ben*, "son".
 [^16-5]: Literally "My wrong is on you". Hebrew *chamas*, "violence, injustice".
-[^16-6]: Or "the messenger of Yahweh". Hebrew *malakh* means messenger. Here the angel speaks in Yahweh's name (verse 10), and Hagar addresses Yahweh as the one who spoke to her (verse 13).
+[^16-6]: Or "the messenger of the LORD". Hebrew *malakh* means messenger. Here the angel speaks in the LORD's name (verse 10), and Hagar addresses the LORD as the one who spoke to her (verse 13).
 [^16-7]: Literally "humble yourself under her hands".
 [^16-8]: Literally "seed".
 [^16-9]: *Ishmael* means "God hears".
@@ -1128,7 +1128,7 @@
 
 *Status: draft*
 
-**1** When Abram was 99 years old, Yahweh[^17-1] appeared to Abram and said to him, "I am God Almighty.[^17-2] Walk before me and be blameless.[^17-3]
+**1** When Abram was 99 years old, the LORD[^17-1] appeared to Abram and said to him, "I am God Almighty.[^17-2] Walk before me and be blameless.[^17-3]
 
 **2** I will make my covenant between me and you, and I will multiply you greatly."
 
@@ -1182,7 +1182,7 @@
 
 **27** And all the men of his household, those born in the household and those bought with money from foreigners, were circumcised with him.
 
-[^17-1]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^17-1]: *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles.
 [^17-2]: Hebrew *El Shaddai*. The meaning of *Shaddai* is uncertain.
 [^17-3]: Hebrew *tamim*, "whole, complete": with integrity.
 [^17-4]: *Abram* means "exalted father".
@@ -1203,7 +1203,7 @@
 
 *Status: draft*
 
-**1** Yahweh[^18-1] appeared to Abraham[^18-2] by the oaks[^18-3] of Mamre as he was sitting at the entrance of his tent in the heat of the day.
+**1** The LORD[^18-1] appeared to Abraham[^18-2] by the oaks[^18-3] of Mamre as he was sitting at the entrance of his tent in the heat of the day.
 
 **2** He looked up and saw three men standing near him. When he saw them, he ran from the entrance of the tent to meet them and bowed down to the ground.
 
@@ -1227,25 +1227,25 @@
 
 **12** So Sarah laughed to herself, saying, "After I am worn out, and my lord is old, shall I have pleasure?"
 
-**13** Yahweh said to Abraham, "Why did Sarah laugh and say, 'Will I really have a child, now that I am old?'
+**13** The LORD said to Abraham, "Why did Sarah laugh and say, 'Will I really have a child, now that I am old?'
 
-**14** Is anything too hard[^18-10] for Yahweh? At the appointed time I will come back to you, at this time next year, and Sarah will have a son."
+**14** Is anything too hard[^18-10] for the LORD? At the appointed time I will come back to you, at this time next year, and Sarah will have a son."
 
 **15** But Sarah denied it, saying, "I didn't laugh," because she was afraid. He said, "No, you did laugh."
 
 **16** Then the men got up from there and looked down toward Sodom, and Abraham walked with them to see them on their way.
 
-**17** Yahweh said, "Shall I hide from Abraham what I am about to do,
+**17** The LORD said, "Shall I hide from Abraham what I am about to do,
 
 **18** since Abraham will surely become a great and powerful nation, and all the nations of the earth will be blessed in him?[^18-11]
 
-**19** For I have chosen[^18-12] him, so that he will command his children and his household after him to keep the way of Yahweh by doing what is right and just,[^18-13] so that Yahweh may bring about for Abraham what he has promised him."
+**19** For I have chosen[^18-12] him, so that he will command his children and his household after him to keep the way of the LORD by doing what is right and just,[^18-13] so that the LORD may bring about for Abraham what he has promised him."
 
-**20** Then Yahweh said, "The outcry against Sodom and Gomorrah is great, and their sin is very grave.
+**20** Then the LORD said, "The outcry against Sodom and Gomorrah is great, and their sin is very grave.
 
 **21** I will go down and see whether they have done altogether as the outcry that has come to me says.[^18-14] And if not, I will know."
 
-**22** The men turned from there and went toward Sodom, but Abraham remained standing before Yahweh.[^18-15]
+**22** The men turned from there and went toward Sodom, but Abraham remained standing before the LORD.[^18-15]
 
 **23** Abraham came near and said, "Will you really sweep away the righteous with the wicked?
 
@@ -1253,7 +1253,7 @@
 
 **25** Far be it from you to do such a thing, to put the righteous to death with the wicked, so that the righteous and the wicked are treated alike! Far be it from you! Shall not the Judge of all the earth do what is just?"[^18-16]
 
-**26** Yahweh said, "If I find fifty righteous people in the city of Sodom, I will spare the whole place for their sake."
+**26** The LORD said, "If I find fifty righteous people in the city of Sodom, I will spare the whole place for their sake."
 
 **27** Abraham answered, "Look, I have dared to speak to the Lord,[^18-17] though I am only dust and ashes.
 
@@ -1267,9 +1267,9 @@
 
 **32** He said, "Please do not let the Lord be angry, and I will speak just once more. Suppose ten are found there." He said, "For the sake of the ten I will not destroy it."
 
-**33** When Yahweh had finished speaking to Abraham, he went his way, and Abraham returned to his place.
+**33** When the LORD had finished speaking to Abraham, he went his way, and Abraham returned to his place.
 
-[^18-1]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^18-1]: *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles.
 [^18-2]: Literally "to him".
 [^18-3]: Or "terebinths".
 [^18-4]: The Hebrew vowel points read *Adonai*, "Lord", the form used of God. The same consonants can be read *adoni*, "my lord", a polite way of addressing a man.
@@ -1283,7 +1283,7 @@
 [^18-12]: Literally "known".
 [^18-13]: Hebrew *tsedaqah u-mishpat*, "righteousness and justice".
 [^18-14]: Literally "whether according to its outcry that has come to me they have done completely".
-[^18-15]: Jewish tradition lists this verse among the "corrections of the scribes" (*tiqqune sopherim*), saying the text once read "Yahweh remained standing before Abraham".
+[^18-15]: Jewish tradition lists this verse among the "corrections of the scribes" (*tiqqune sopherim*), saying the text once read "The LORD remained standing before Abraham".
 [^18-16]: Literally "do justice". Hebrew *mishpat*.
 [^18-17]: Hebrew *Adonai*; also in verses 30–32.
 
@@ -1315,13 +1315,13 @@
 
 **12** The men said to Lot, "Who else do you have here? A son-in-law, your sons, your daughters, anyone you have in the city, bring them out of this place.
 
-**13** For we are about to destroy this place, because the outcry against its people has become great before Yahweh,[^19-6] and Yahweh has sent us to destroy it."
+**13** For we are about to destroy this place, because the outcry against its people has become great before the LORD,[^19-6] and the LORD has sent us to destroy it."
 
-**14** So Lot went out and spoke to his sons-in-law, who were to marry his daughters.[^19-7] He said, "Get up, get out of this place, for Yahweh is about to destroy the city." But his sons-in-law thought he was joking.
+**14** So Lot went out and spoke to his sons-in-law, who were to marry his daughters.[^19-7] He said, "Get up, get out of this place, for the LORD is about to destroy the city." But his sons-in-law thought he was joking.
 
 **15** As dawn was breaking, the angels urged Lot, "Get up! Take your wife and your two daughters who are here, or you will be swept away in the punishment[^19-8] of the city."
 
-**16** But he hesitated. So the men seized his hand and the hands of his wife and his two daughters, because Yahweh had compassion on him, and they brought him out and left him outside the city.
+**16** But he hesitated. So the men seized his hand and the hands of his wife and his two daughters, because the LORD had compassion on him, and they brought him out and left him outside the city.
 
 **17** As soon as they had brought them out, he said,[^19-9] "Run for your life! Don't look back, and don't stop anywhere in the plain. Flee to the hills, or you will be swept away."
 
@@ -1337,13 +1337,13 @@
 
 **23** The sun had risen over the land when Lot reached Zoar.
 
-**24** Then Yahweh rained down sulfur[^19-14] and fire on Sodom and Gomorrah, from Yahweh out of the heavens.
+**24** Then the LORD rained down sulfur[^19-14] and fire on Sodom and Gomorrah, from the LORD out of the heavens.
 
 **25** He overthrew those cities and the whole plain, all the inhabitants of the cities, and whatever grew from the ground.
 
 **26** But Lot's wife, behind him, looked back, and she became a pillar of salt.
 
-**27** Abraham got up early in the morning and went to the place where he had stood before Yahweh.
+**27** Abraham got up early in the morning and went to the place where he had stood before the LORD.
 
 **28** He looked down toward Sodom and Gomorrah and toward all the land of the plain, and he saw smoke rising from the land like the smoke of a furnace.
 
@@ -1372,7 +1372,7 @@
 [^19-3]: Literally "who have not known a man".
 [^19-4]: Literally "under the shadow of my roof".
 [^19-5]: Hebrew *sanverim*, a rare word, perhaps a dazzling, blinding light.
-[^19-6]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^19-6]: *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles.
 [^19-7]: Or "who had married his daughters". Literally "who were taking his daughters".
 [^19-8]: Or "guilt". Hebrew *avon*; see 4:13.
 [^19-9]: Literally "he said"; one of the two speaks.
@@ -1425,7 +1425,7 @@
 
 **17** Then Abraham prayed to God, and God healed Abimelech, his wife and his slave women, so that they bore children again.
 
-**18** For Yahweh[^20-9] had closed every womb in Abimelech's household because of Sarah, Abraham's wife.
+**18** For the LORD[^20-9] had closed every womb in Abimelech's household because of Sarah, Abraham's wife.
 
 [^20-1]: Hebrew *Adonai*.
 [^20-2]: Literally "righteous".
@@ -1435,13 +1435,13 @@
 [^20-6]: Hebrew *chesed*: loyal, faithful love.
 [^20-7]: Literally "a thousand of silver", probably shekels: about 25 pounds (11.5 kg) of silver.
 [^20-8]: The meaning of the Hebrew is uncertain. Literally "it is for you a covering of the eyes for all who are with you, and with all, and you are vindicated".
-[^20-9]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^20-9]: *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles.
 
 ## Chapter 21
 
 *Status: draft*
 
-**1** Yahweh[^21-1] visited[^21-2] Sarah as he had said, and Yahweh did for Sarah what he had promised.
+**1** The LORD[^21-1] visited[^21-2] Sarah as he had said, and the LORD did for Sarah what he had promised.
 
 **2** Sarah became pregnant and bore Abraham a son in his old age, at the appointed time God had told him.
 
@@ -1505,11 +1505,11 @@
 
 **32** So they made a covenant at Beersheba. Then Abimelech and Phicol the commander of his army got up and returned to the land of the Philistines.
 
-**33** Abraham planted a tamarisk tree in Beersheba, and there he called on the name of Yahweh, the Everlasting God.[^21-11]
+**33** Abraham planted a tamarisk tree in Beersheba, and there he called on the name of the LORD, the Everlasting God.[^21-11]
 
 **34** And Abraham stayed as a foreigner in the land of the Philistines for a long time.
 
-[^21-1]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^21-1]: *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles.
 [^21-2]: Hebrew *paqad*, "attend to, take note of, come to help".
 [^21-3]: Or "will laugh at me". The Hebrew words for "laughter" and "laugh" sound like the name Isaac (17:17–19).
 [^21-4]: Hebrew *metsacheq*, from the same root as the name Isaac. It can mean laughing, playing, joking or mocking. The Septuagint and the Vulgate add "with her son Isaac".
@@ -1545,17 +1545,17 @@
 
 **10** Then Abraham reached out his hand and took the knife to slaughter his son.
 
-**11** But the angel of Yahweh[^22-4] called to him from heaven, "Abraham! Abraham!" He said, "Here I am."
+**11** But the angel of the LORD[^22-4] called to him from heaven, "Abraham! Abraham!" He said, "Here I am."
 
 **12** He said, "Do not lay your hand on the boy or do anything to him. For now I know that you fear God, since you have not withheld your son, your only son, from me."
 
 **13** Abraham looked up and saw a ram behind him,[^22-5] caught in a thicket by its horns. Abraham went and took the ram and offered it as a burnt offering in place of his son.
 
-**14** Abraham named that place "Yahweh will provide."[^22-6] As it is said to this day, "On the mountain of Yahweh it will be provided."[^22-7]
+**14** Abraham named that place "The LORD will provide."[^22-6] As it is said to this day, "On the mountain of the LORD it will be provided."[^22-7]
 
-**15** The angel of Yahweh called to Abraham a second time from heaven
+**15** The angel of the LORD called to Abraham a second time from heaven
 
-**16** and said, "I swear by myself, declares Yahweh, that because you have done this and have not withheld your son, your only son,
+**16** and said, "I swear by myself, declares the LORD, that because you have done this and have not withheld your son, your only son,
 
 **17** I will richly bless you, and I will greatly multiply your offspring,[^22-8] like the stars of the sky and like the sand on the seashore. Your offspring will take possession of the gates of their enemies.[^22-9]
 
@@ -1576,9 +1576,9 @@
 [^22-1]: Hebrew *yachid*, "only, one and only"; also in verses 12 and 16.
 [^22-2]: An offering burned whole on the altar.
 [^22-3]: Literally "will see"; see verse 14.
-[^22-4]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles. On "the angel of Yahweh", see 16:7.
+[^22-4]: *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles. On "the angel of the LORD", see 16:7.
 [^22-5]: The Samaritan Pentateuch and the Septuagint read "a ram", "one ram". In Hebrew, "behind" (*achar*) and "one" (*echad*) differ only by letters that look alike.
-[^22-6]: Hebrew *YHWH yir'eh*, "Yahweh will see", that is, will see to it.
+[^22-6]: Hebrew *YHWH yir'eh*, "The LORD will see", that is, will see to it.
 [^22-7]: Or "he will be seen", "he will appear".
 [^22-8]: Literally "seed"; also later in this verse and in verse 18.
 [^22-9]: Literally "his enemies". The gate stands for the city.
@@ -1642,11 +1642,11 @@
 
 *Status: draft*
 
-**1** Abraham was now old, advanced in years, and Yahweh[^24-1] had blessed Abraham in every way.
+**1** Abraham was now old, advanced in years, and the LORD[^24-1] had blessed Abraham in every way.
 
 **2** Abraham said to his servant, the senior servant of his household,[^24-2] who was in charge of all he had, "Put your hand under my thigh,[^24-3]
 
-**3** and I will make you swear by Yahweh, the God of heaven and the God of the earth, that you will not take a wife for my son from the daughters of the Canaanites, among whom I am living,
+**3** and I will make you swear by the LORD, the God of heaven and the God of the earth, that you will not take a wife for my son from the daughters of the Canaanites, among whom I am living,
 
 **4** but will go to my country and to my relatives[^24-4] and take a wife for my son Isaac."
 
@@ -1654,7 +1654,7 @@
 
 **6** Abraham said to him, "Make sure that you do not take my son back there.
 
-**7** Yahweh, the God of heaven, who took me from my father's household and from the land of my birth, and who spoke to me and swore to me, 'To your offspring[^24-5] I will give this land,' he will send his angel ahead of you, and you will take a wife for my son from there.
+**7** The LORD, the God of heaven, who took me from my father's household and from the land of my birth, and who spoke to me and swore to me, 'To your offspring[^24-5] I will give this land,' he will send his angel ahead of you, and you will take a wife for my son from there.
 
 **8** If the woman is not willing to follow you, you will be released from this oath of mine. Only do not take my son back there."
 
@@ -1664,7 +1664,7 @@
 
 **11** He made the camels kneel down outside the city by the well of water at evening, the time when the women go out to draw water.
 
-**12** He said, "Yahweh, God of my master Abraham, please give me success today, and show faithful love[^24-7] to my master Abraham.
+**12** He said, "LORD, God of my master Abraham, please give me success today, and show faithful love[^24-7] to my master Abraham.
 
 **13** Look, I am standing by the spring of water, and the daughters of the men of the city are coming out to draw water.
 
@@ -1682,7 +1682,7 @@
 
 **20** So she quickly emptied her jar into the trough and ran back to the well to draw water, and she drew water for all his camels.
 
-**21** The man was gazing at her in silence, waiting to learn whether Yahweh had made his journey successful or not.
+**21** The man was gazing at her in silence, waiting to learn whether the LORD had made his journey successful or not.
 
 **22** When the camels had finished drinking, the man took a gold nose ring weighing a beka,[^24-9] and two bracelets for her wrists weighing ten shekels[^24-10] of gold.
 
@@ -1692,9 +1692,9 @@
 
 **25** She also said to him, "We have plenty of straw and fodder, and room to spend the night."
 
-**26** Then the man bowed down and worshiped Yahweh.
+**26** Then the man bowed down and worshiped the LORD.
 
-**27** He said, "Blessed be Yahweh, the God of my master Abraham, who has not withdrawn his faithful love and his faithfulness[^24-11] from my master. As for me, Yahweh has led me on the way to the house of my master's relatives."[^24-12]
+**27** He said, "Blessed be the LORD, the God of my master Abraham, who has not withdrawn his faithful love and his faithfulness[^24-11] from my master. As for me, the LORD has led me on the way to the house of my master's relatives."[^24-12]
 
 **28** The young woman ran and told her mother's household about these things.
 
@@ -1702,7 +1702,7 @@
 
 **30** As soon as he saw the nose ring, and the bracelets on his sister's wrists, and heard his sister Rebekah say, "This is what the man said to me," he went to the man, and there he was, standing by the camels at the spring.
 
-**31** He said, "Come in, you who are blessed by Yahweh. Why are you standing outside? I have prepared the house and a place for the camels."
+**31** He said, "Come in, you who are blessed by the LORD. Why are you standing outside? I have prepared the house and a place for the camels."
 
 **32** So the man came into the house. The camels were unloaded[^24-13] and given straw and fodder, and water was brought to wash his feet and the feet of the men who were with him.
 
@@ -1710,7 +1710,7 @@
 
 **34** So he said, "I am Abraham's servant.
 
-**35** Yahweh has greatly blessed my master, and he has become rich. He has given him flocks and herds, silver and gold, male and female servants,[^24-15] camels and donkeys.
+**35** The LORD has greatly blessed my master, and he has become rich. He has given him flocks and herds, silver and gold, male and female servants,[^24-15] camels and donkeys.
 
 **36** Sarah, my master's wife, bore my master a son when she was old, and he has given him everything he has.
 
@@ -1720,15 +1720,15 @@
 
 **39** I said to my master, 'Perhaps the woman will not follow me.'
 
-**40** He said to me, 'Yahweh, before whom I have walked, will send his angel with you and make your journey successful, and you will take a wife for my son from my clan and from my father's household.
+**40** He said to me, 'The LORD, before whom I have walked, will send his angel with you and make your journey successful, and you will take a wife for my son from my clan and from my father's household.
 
 **41** Then you will be free from my oath,[^24-16] when you come to my clan. Even if they will not give her to you, you will be free from my oath.'
 
-**42** Today I came to the spring, and I said, 'Yahweh, God of my master Abraham, if only you would make the journey on which I am going successful!
+**42** Today I came to the spring, and I said, 'LORD, God of my master Abraham, if only you would make the journey on which I am going successful!
 
 **43** Look, I am standing by the spring of water. Let the young woman[^24-17] who comes out to draw water, to whom I say, "Please give me a little water from your jar to drink,"
 
-**44** and who says to me, "Drink, and I will draw water for your camels too," let her be the woman Yahweh has chosen for my master's son.'
+**44** and who says to me, "Drink, and I will draw water for your camels too," let her be the woman the LORD has chosen for my master's son.'
 
 **45** Before I had finished speaking in my heart, there was Rebekah coming out with her jar on her shoulder. She went down to the spring and drew water, and I said to her, 'Please give me a drink.'
 
@@ -1736,15 +1736,15 @@
 
 **47** I asked her, 'Whose daughter are you?' She said, 'The daughter of Bethuel son of Nahor, whom Milcah bore to him.' So I put the ring in her nose and the bracelets on her wrists.
 
-**48** Then I bowed down and worshiped Yahweh, and I blessed Yahweh, the God of my master Abraham, who had led me by the right way[^24-18] to take the daughter of my master's brother[^24-19] for his son.
+**48** Then I bowed down and worshiped the LORD, and I blessed the LORD, the God of my master Abraham, who had led me by the right way[^24-18] to take the daughter of my master's brother[^24-19] for his son.
 
 **49** Now, if you will show faithful love and faithfulness to my master, tell me. And if not, tell me, so that I may turn to the right or to the left."
 
-**50** Laban and Bethuel answered, "This has come from Yahweh. We cannot say anything to you, bad or good.
+**50** Laban and Bethuel answered, "This has come from the LORD. We cannot say anything to you, bad or good.
 
-**51** Here is Rebekah before you. Take her and go, and let her be the wife of your master's son, as Yahweh has said."
+**51** Here is Rebekah before you. Take her and go, and let her be the wife of your master's son, as the LORD has said."
 
-**52** When Abraham's servant heard their words, he bowed down to the ground before Yahweh.
+**52** When Abraham's servant heard their words, he bowed down to the ground before the LORD.
 
 **53** Then the servant brought out articles of silver and gold, and clothing, and gave them to Rebekah. He also gave costly gifts to her brother and to her mother.
 
@@ -1752,7 +1752,7 @@
 
 **55** Her brother and her mother said, "Let the young woman stay with us a few days, ten or so.[^24-20] After that she may go."
 
-**56** But he said to them, "Do not delay me, since Yahweh has made my journey successful. Send me away so that I may go to my master."
+**56** But he said to them, "Do not delay me, since the LORD has made my journey successful. Send me away so that I may go to my master."
 
 **57** They said, "Let us call the young woman and ask her."[^24-21]
 
@@ -1776,7 +1776,7 @@
 
 **67** Then Isaac brought her into the tent of his mother Sarah.[^24-26] He took Rebekah, and she became his wife, and he loved her. So Isaac was comforted after his mother's death.
 
-[^24-1]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^24-1]: *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles.
 [^24-2]: Literally "the elder of his household".
 [^24-3]: A solemn gesture made when swearing an oath (compare 47:29).
 [^24-4]: Or "my birthplace".
@@ -1847,11 +1847,11 @@
 
 **20** Isaac was 40 years old when he married Rebekah, daughter of Bethuel the Aramean of Paddan-aram[^25-7] and sister of Laban the Aramean.
 
-**21** Isaac prayed to Yahweh[^25-8] for his wife, because she was barren. Yahweh answered his prayer, and his wife Rebekah became pregnant.
+**21** Isaac prayed to the LORD[^25-8] for his wife, because she was barren. The LORD answered his prayer, and his wife Rebekah became pregnant.
 
-**22** The children struggled together within her, and she said, "If this is how it is, why am I like this?"[^25-9] So she went to inquire of Yahweh.
+**22** The children struggled together within her, and she said, "If this is how it is, why am I like this?"[^25-9] So she went to inquire of the LORD.
 
-**23** Yahweh said to her, "Two nations are in your womb, and two peoples from within you will be divided. One people will be stronger than the other, and the older will serve the younger."
+**23** The LORD said to her, "Two nations are in your womb, and two peoples from within you will be divided. One people will be stronger than the other, and the older will serve the younger."
 
 **24** When her time to give birth was complete, there were twins in her womb.
 
@@ -1882,7 +1882,7 @@
 [^25-5]: Hebrew *toledot*; see 2:4. Also in verses 13 and 19.
 [^25-6]: Or "He settled to the east of all his brothers", "alongside all his brothers". Literally "he fell over against the face of all his brothers"; compare 16:12.
 [^25-7]: A region of Aram in northern Mesopotamia; compare 24:10.
-[^25-8]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^25-8]: *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles.
 [^25-9]: The meaning of the Hebrew is uncertain. Literally "If so, why this I?"
 [^25-10]: Hebrew *admoni*, which sounds like *Edom* (verse 30).
 [^25-11]: Hebrew *se'ar*, which sounds like *Seir*, the hill country where Esau's descendants lived (36:8).
@@ -1898,7 +1898,7 @@
 
 **1** Now there was a famine in the land, besides the earlier famine that had occurred in the days of Abraham, and Isaac went to Abimelech king of the Philistines, in Gerar.
 
-**2** Yahweh[^26-1] appeared to him and said, "Do not go down to Egypt. Live in the land that I tell you about.
+**2** The LORD[^26-1] appeared to him and said, "Do not go down to Egypt. Live in the land that I tell you about.
 
 **3** Stay as a foreigner in this land, and I will be with you and bless you. For to you and to your offspring[^26-2] I will give all these lands, and I will fulfill the oath that I swore to your father Abraham.
 
@@ -1918,7 +1918,7 @@
 
 **11** So Abimelech commanded all the people, "Whoever touches this man or his wife will surely be put to death."
 
-**12** Isaac sowed seed in that land, and that year he reaped a hundred times what he had sown,[^26-6] for Yahweh blessed him.
+**12** Isaac sowed seed in that land, and that year he reaped a hundred times what he had sown,[^26-6] for the LORD blessed him.
 
 **13** The man became rich, and he kept growing richer until he was very rich.
 
@@ -1938,21 +1938,21 @@
 
 **21** Then they dug another well, and they quarreled over that one too, so he named it Sitnah.[^26-10]
 
-**22** He moved on from there and dug another well, and they did not quarrel over it. So he named it Rehoboth,[^26-11] saying, "Now Yahweh has made room for us, and we will be fruitful in the land."
+**22** He moved on from there and dug another well, and they did not quarrel over it. So he named it Rehoboth,[^26-11] saying, "Now the LORD has made room for us, and we will be fruitful in the land."
 
 **23** From there he went up to Beersheba.
 
-**24** That night Yahweh appeared to him and said, "I am the God of your father Abraham. Do not be afraid, for I am with you. I will bless you and multiply your offspring for the sake of my servant Abraham."
+**24** That night the LORD appeared to him and said, "I am the God of your father Abraham. Do not be afraid, for I am with you. I will bless you and multiply your offspring for the sake of my servant Abraham."
 
-**25** So he built an altar there and called on the name of Yahweh. He pitched his tent there, and Isaac's servants dug a well there.
+**25** So he built an altar there and called on the name of the LORD. He pitched his tent there, and Isaac's servants dug a well there.
 
 **26** Then Abimelech came to him from Gerar, with Ahuzzath his adviser[^26-12] and Phicol the commander of his army.
 
 **27** Isaac said to them, "Why have you come to me, since you hate me and sent me away from you?"
 
-**28** They said, "We have clearly seen that Yahweh has been with you. So we said, 'Let there be an oath[^26-13] between us, between us and you, and let us make a covenant with you,
+**28** They said, "We have clearly seen that the LORD has been with you. So we said, 'Let there be an oath[^26-13] between us, between us and you, and let us make a covenant with you,
 
-**29** that you will do us no harm, just as we have not touched you, and have done you nothing but good, and have sent you away in peace.' You are now blessed by Yahweh."
+**29** that you will do us no harm, just as we have not touched you, and have done you nothing but good, and have sent you away in peace.' You are now blessed by the LORD."
 
 **30** So he made them a feast, and they ate and drank.
 
@@ -1966,7 +1966,7 @@
 
 **35** They made life bitter[^26-15] for Isaac and Rebekah.
 
-[^26-1]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^26-1]: *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles.
 [^26-2]: Literally "seed"; also in verses 4 and 24.
 [^26-3]: Or "will bless themselves by your offspring"; see 22:18.
 [^26-4]: Hebrew *torot*, the plural of *torah*, "instruction".
@@ -1998,7 +1998,7 @@
 
 **6** Rebekah said to her son Jacob, "Look, I heard your father say to your brother Esau,
 
-**7** 'Bring me game and prepare me tasty food to eat, so that I may bless you before Yahweh[^27-2] before I die.'
+**7** 'Bring me game and prepare me tasty food to eat, so that I may bless you before the LORD[^27-2] before I die.'
 
 **8** Now, my son, listen to me and do what I tell you.
 
@@ -2024,7 +2024,7 @@
 
 **19** Jacob said to his father, "I am Esau, your firstborn. I have done as you told me. Please sit up and eat some of my game, so that you may bless me."
 
-**20** Isaac said to his son, "How did you find it so quickly, my son?" He said, "Because Yahweh your God made it happen for me."
+**20** Isaac said to his son, "How did you find it so quickly, my son?" He said, "Because the LORD your God made it happen for me."
 
 **21** Then Isaac said to Jacob, "Please come near, so that I can touch you, my son, to know whether you are really my son Esau or not."
 
@@ -2038,7 +2038,7 @@
 
 **26** Then his father Isaac said to him, "Please come near and kiss me, my son."
 
-**27** So he came near and kissed him. When Isaac smelled the smell of his clothes, he blessed him and said, "See, the smell of my son is like the smell of a field that Yahweh has blessed.
+**27** So he came near and kissed him. When Isaac smelled the smell of his clothes, he blessed him and said, "See, the smell of my son is like the smell of a field that the LORD has blessed.
 
 **28** May God give you of the dew of heaven and of the richness[^27-3] of the earth, and plenty of grain and new wine.
 
@@ -2079,7 +2079,7 @@
 **46** Then Rebekah said to Isaac, "I am sick of my life because of the Hittite women.[^27-8] If Jacob marries one of the Hittite women like these, one of the women of the land, what good will my life be to me?"
 
 [^27-1]: Literally "so that my *nephesh* may bless you"; similarly in verses 19, 25 and 31.
-[^27-2]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^27-2]: *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles.
 [^27-3]: Literally "fatness"; also in verse 39.
 [^27-4]: Hebrew *aqav*, "grasp by the heel, deceive", a play on the name Jacob (25:26).
 [^27-5]: Hebrew *bekhorah*, "birthright", sounds like *berakhah*, "blessing".
@@ -2115,13 +2115,13 @@
 
 **12** He dreamed, and there was a stairway[^28-7] set up on the earth, with its top reaching to heaven, and there were angels of God going up and down on it.
 
-**13** And there was Yahweh,[^28-8] standing above it.[^28-9] He said, "I am Yahweh, the God of your father Abraham and the God of Isaac. The land on which you are lying I will give to you and to your offspring.
+**13** And there was the LORD,[^28-8] standing above it.[^28-9] He said, "I am the LORD, the God of your father Abraham and the God of Isaac. The land on which you are lying I will give to you and to your offspring.
 
 **14** Your offspring will be like the dust of the earth, and you will spread out to the west and to the east, to the north and to the south. All the families of the earth will be blessed[^28-10] in you and in your offspring.
 
 **15** Look, I am with you and will watch over you wherever you go, and I will bring you back to this land. For I will not leave you until I have done what I have promised you."
 
-**16** Then Jacob woke from his sleep and said, "Surely Yahweh is in this place, and I did not know it."
+**16** Then Jacob woke from his sleep and said, "Surely the LORD is in this place, and I did not know it."
 
 **17** He was afraid and said, "How awesome this place is! This is none other than the house of God, and this is the gate of heaven."
 
@@ -2131,7 +2131,7 @@
 
 **20** Then Jacob made a vow, saying, "If God will be with me and watch over me on this journey that I am taking, and give me bread to eat and clothes to wear,
 
-**21** and I return safely[^28-13] to my father's house, then Yahweh will be my God,[^28-14]
+**21** and I return safely[^28-13] to my father's house, then the LORD will be my God,[^28-14]
 
 **22** and this stone that I have set up as a pillar will be God's house, and of everything you give me I will surely give you a tenth."
 
@@ -2142,13 +2142,13 @@
 [^28-5]: Literally "the place". Hebrew *maqom* often means a holy site (12:6).
 [^28-6]: Literally "at his head"; also in verse 18.
 [^28-7]: Hebrew *sullam*, a word found only here: perhaps a ramp or stairway. Traditionally "ladder".
-[^28-8]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^28-8]: *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles.
 [^28-9]: Or "beside him".
 [^28-10]: Or "will bless themselves by you"; see 12:3. "Earth" here is Hebrew *adamah*, "ground".
 [^28-11]: Hebrew *matsevah*, a standing stone set up as a memorial or for worship; also in verse 22.
 [^28-12]: *Bethel* means "house of God".
 [^28-13]: Literally "in peace". Hebrew *shalom*.
-[^28-14]: Or "and if Yahweh will be my God, then this stone …".
+[^28-14]: Or "and if the LORD will be my God, then this stone …".
 
 ## Chapter 29
 
@@ -2214,15 +2214,15 @@
 
 **30** Jacob slept with Rachel too, and he loved Rachel more than Leah. And he worked for Laban another seven years.
 
-**31** When Yahweh[^29-16] saw that Leah was unloved,[^29-17] he opened her womb. But Rachel was unable to have children.
+**31** When the LORD[^29-16] saw that Leah was unloved,[^29-17] he opened her womb. But Rachel was unable to have children.
 
-**32** Leah became pregnant and gave birth to a son, and she named him Reuben, for she said, "Yahweh has seen my misery. Surely now my husband will love me."[^29-18]
+**32** Leah became pregnant and gave birth to a son, and she named him Reuben, for she said, "The LORD has seen my misery. Surely now my husband will love me."[^29-18]
 
-**33** She became pregnant again and gave birth to a son. She said, "Yahweh heard that I was unloved, so he has given me this one too." So she named him Simeon.[^29-19]
+**33** She became pregnant again and gave birth to a son. She said, "The LORD heard that I was unloved, so he has given me this one too." So she named him Simeon.[^29-19]
 
 **34** She became pregnant again and gave birth to a son. She said, "Now this time my husband will become attached to me, for I have borne him three sons." That is why he was named Levi.[^29-20]
 
-**35** She became pregnant again and gave birth to a son. She said, "This time I will praise Yahweh." That is why she named him Judah.[^29-21] Then she stopped having children.
+**35** She became pregnant again and gave birth to a son. She said, "This time I will praise the LORD." That is why she named him Judah.[^29-21] Then she stopped having children.
 
 [^29-1]: Literally "lifted his feet".
 [^29-2]: Literally "the sons of the east", the peoples living east of Canaan. Here it means the region of Haran in Aram.
@@ -2239,7 +2239,7 @@
 [^29-13]: Literally "go in to her", a Hebrew way of speaking of sexual relations. Also in verses 23 and 30.
 [^29-14]: Hebrew *shiphchah*, a female servant or slave who belonged to her mistress. Also in verse 29.
 [^29-15]: The seven days of wedding celebrations for Leah.
-[^29-16]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^29-16]: *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles.
 [^29-17]: Literally "hated", meaning loved less than Rachel. Also in verse 33.
 [^29-18]: *Reuben* sounds like Hebrew *re'u ben*, "Look, a son!", and like *ra'ah be-onyi*, "he has seen my misery".
 [^29-19]: *Simeon* (Hebrew *Shim'on*) sounds like *shama*, "he heard".
@@ -2296,19 +2296,19 @@
 
 **23** She became pregnant and gave birth to a son, and she said, "God has taken away my disgrace."
 
-**24** She named him Joseph, saying, "May Yahweh[^30-17] add another son for me."[^30-18]
+**24** She named him Joseph, saying, "May the LORD[^30-17] add another son for me."[^30-18]
 
 **25** After Rachel had given birth to Joseph, Jacob said to Laban, "Send me away, so that I can go to my own place and my own country.
 
 **26** Give me my wives and my children, for whom I have worked for you, and let me go. You know how I have worked for you."
 
-**27** But Laban said to him, "Please, if I have found favor with you …[^30-19] I have learned by divination[^30-20] that Yahweh has blessed me because of you."
+**27** But Laban said to him, "Please, if I have found favor with you …[^30-19] I have learned by divination[^30-20] that the LORD has blessed me because of you."
 
 **28** He went on, "Name your wages, and I will pay them."
 
 **29** Jacob said to him, "You know how I have worked for you, and how your livestock have done in my care.
 
-**30** The little you had before I came has grown into a great amount, and Yahweh has blessed you wherever I went.[^30-21] But now, when will I provide for my own household too?"
+**30** The little you had before I came has grown into a great amount, and the LORD has blessed you wherever I went.[^30-21] But now, when will I provide for my own household too?"
 
 **31** Laban said, "What shall I give you?" Jacob said, "Don't give me anything. If you will do this one thing for me, I will go back to pasturing and taking care of your flock.
 
@@ -2352,7 +2352,7 @@
 [^30-14]: *Issachar* sounds like *sakar*, "wages", the word used in this verse and in verse 16 ("I have paid for you", literally "I have hired you").
 [^30-15]: The Hebrew word *yizbeleni* is rare. It probably means "he will honor me", or perhaps "he will live with me".
 [^30-16]: *Zebulun* sounds like *zeved*, "gift", and *yizbeleni*, "he will honor me".
-[^30-17]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^30-17]: *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles.
 [^30-18]: *Joseph* (Hebrew *Yoseph*) sounds like *yoseph*, "may he add", and also like *asaph*, "he has taken away", in verse 23.
 [^30-19]: Laban does not finish his sentence. He means "please stay".
 [^30-20]: Hebrew *nichashti*. Some scholars take it from a similar word meaning "I have prospered".
@@ -2369,7 +2369,7 @@
 
 **2** And Jacob saw from Laban's face that he was not as friendly toward him as before.[^31-2]
 
-**3** Then Yahweh[^31-3] said to Jacob, "Go back to the land of your fathers and to your relatives, and I will be with you."
+**3** Then the LORD[^31-3] said to Jacob, "Go back to the land of your fathers and to your relatives, and I will be with you."
 
 **4** So Jacob sent for Rachel and Leah and called them out to the field where his flock was.
 
@@ -2461,7 +2461,7 @@
 
 **48** Laban said, "This heap is a witness between me and you today." That is why it was named Galeed.
 
-**49** It was also called Mizpah,[^31-22] because he said, "May Yahweh keep watch between me and you when we are out of each other's sight.
+**49** It was also called Mizpah,[^31-22] because he said, "May the LORD keep watch between me and you when we are out of each other's sight.
 
 **50** If you mistreat my daughters, or if you take other wives besides my daughters, even though no one is with us, see: God is a witness between me and you."
 
@@ -2475,7 +2475,7 @@
 
 [^31-1]: Hebrew *kavod*, "weight, honor, glory", here meaning wealth.
 [^31-2]: Literally "and look, he was not with him as yesterday and the day before". Also in verse 5.
-[^31-3]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^31-3]: *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles.
 [^31-4]: Literally "ten counts", probably meaning "again and again". Also in verse 41.
 [^31-5]: Literally "I am the God Bethel" (Hebrew *ha-El Beth-El*). The Septuagint reads "I am the God who appeared to you in the place of God". *Bethel* means "house of God"; see 28:10–22.
 [^31-6]: Hebrew *matsevah*, an upright stone set up as a marker or memorial. Traditionally "pillar". Also in verses 45, 51 and 52.
@@ -2521,7 +2521,7 @@
 
 **9** He thought,[^32-5] "If Esau comes to one camp and attacks it, the camp that is left can escape."
 
-**10** Then Jacob said, "God of my father Abraham and God of my father Isaac, Yahweh,[^32-6] you who said to me, 'Go back to your country and your relatives, and I will do you good,'
+**10** Then Jacob said, "God of my father Abraham and God of my father Isaac, LORD,[^32-6] you who said to me, 'Go back to your country and your relatives, and I will do you good,'
 
 **11** I am not worthy of all the faithful love[^32-7] and all the faithfulness you have shown your servant. For I crossed this Jordan with only my staff, and now I have become two camps.
 
@@ -2574,7 +2574,7 @@
 [^32-3]: *Mahanaim* means "two camps". Compare verses 8 and 11.
 [^32-4]: Hebrew *mal'akhim*, the same word as "angels" in verse 2.
 [^32-5]: Literally "He said".
-[^32-6]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^32-6]: *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles.
 [^32-7]: Hebrew *chasadim*, the plural of *chesed*: loyal, faithful love, here in its many acts.
 [^32-8]: Literally "mother upon sons".
 [^32-9]: Literally "I will cover his face", meaning "appease him". This verse and the next play on the word *panim*, "face": literally "the gift going before my face … I will see his face … perhaps he will lift up my face", and "the gift passed on before his face". The word returns in the name Peniel (verse 31).
@@ -3010,13 +3010,13 @@
 
 **6** Judah took a wife for Er, his firstborn, and her name was Tamar.
 
-**7** But Er, Judah's firstborn, was evil in the sight of Yahweh,[^38-4] so Yahweh put him to death.
+**7** But Er, Judah's firstborn, was evil in the sight of the LORD,[^38-4] so the LORD put him to death.
 
 **8** Then Judah said to Onan, "Sleep with your brother's wife and do your duty to her as her husband's brother.[^38-5] Raise up children[^38-6] for your brother."
 
 **9** But Onan knew that the children would not be his. So whenever he slept with his brother's wife, he spilled his semen on the ground,[^38-7] so that he would not give children to his brother.
 
-**10** What he did was evil in the sight of Yahweh, so he put him to death too.
+**10** What he did was evil in the sight of the LORD, so he put him to death too.
 
 **11** Then Judah said to his daughter-in-law Tamar, "Live as a widow in your father's house until my son Shelah grows up." For he thought, "He too may die like his brothers." So Tamar went and lived in her father's house.
 
@@ -3061,7 +3061,7 @@
 [^38-1]: Literally "turned aside".
 [^38-2]: Literally "took her and went in to her". "Went in to" is a Hebrew way of speaking of sexual relations; also in verses 8, 9, 16 and 18.
 [^38-3]: Or "It was at Chezib that she gave birth to him." The Septuagint reads "She was at Chezib".
-[^38-4]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^38-4]: *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles.
 [^38-5]: Hebrew *yabbem*: to marry the widow of a brother who had died without a son, so that a son born to her would carry on the dead brother's name (Deuteronomy 25:5–10).
 [^38-6]: Literally "seed", meaning offspring. Also in verse 9.
 [^38-7]: Literally "he spoiled it on the ground".
@@ -3078,13 +3078,13 @@
 
 **1** Now Joseph had been taken down to Egypt. Potiphar, an Egyptian, one of Pharaoh's officials and the captain of the guard, bought him from the Ishmaelites who had taken him down there.
 
-**2** Yahweh[^39-1] was with Joseph, and he became a successful man. He lived in the house of his Egyptian master.
+**2** The LORD[^39-1] was with Joseph, and he became a successful man. He lived in the house of his Egyptian master.
 
-**3** His master saw that Yahweh was with him and that Yahweh made everything he did succeed.[^39-2]
+**3** His master saw that the LORD was with him and that the LORD made everything he did succeed.[^39-2]
 
 **4** Joseph found favor with him and became his personal attendant. Potiphar put him in charge of his household and entrusted him with everything he owned.
 
-**5** From the time he put him in charge of his household and of everything he owned, Yahweh blessed the Egyptian's household because of Joseph. Yahweh's blessing was on everything he owned, in the house and in the fields.
+**5** From the time he put him in charge of his household and of everything he owned, the LORD blessed the Egyptian's household because of Joseph. The LORD's blessing was on everything he owned, in the house and in the fields.
 
 **6** So he left everything he owned in Joseph's care, and with Joseph there he did not concern himself with anything except the food he ate.[^39-3] Now Joseph was well built and handsome.
 
@@ -3116,13 +3116,13 @@
 
 **20** Joseph's master took him and put him in the prison,[^39-7] the place where the king's prisoners were held. And he remained there in the prison.
 
-**21** But Yahweh was with Joseph and showed him faithful love.[^39-8] He gave him favor in the eyes of the prison warden.
+**21** But the LORD was with Joseph and showed him faithful love.[^39-8] He gave him favor in the eyes of the prison warden.
 
 **22** The warden put Joseph in charge of all the prisoners in the prison, and he was responsible for everything that was done there.
 
-**23** The warden paid no attention to anything in Joseph's care, because Yahweh was with him, and Yahweh made whatever he did succeed.
+**23** The warden paid no attention to anything in Joseph's care, because the LORD was with him, and the LORD made whatever he did succeed.
 
-[^39-1]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^39-1]: *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles.
 [^39-2]: Literally "made everything he did succeed in his hand".
 [^39-3]: Literally "he did not know anything with him except the bread he ate". This may mean that Potiphar paid attention only to his meals, or that food was the one thing Joseph did not handle, perhaps because of Egyptian rules about eating (compare 43:32).
 [^39-4]: That is, her husband. She does not name him.
@@ -3913,7 +3913,7 @@
 
 **17** May Dan be a snake by the road, a viper by the path, that bites the horse's heels so that its rider falls backward.
 
-**18** I wait for your salvation, Yahweh![^49-14]
+**18** I wait for your salvation, LORD![^49-14]
 
 **19** Gad will be attacked by a band of raiders, but he will attack them at their heels.[^49-15]
 
@@ -3958,7 +3958,7 @@
 [^49-11]: Or "His eyes are dark from wine, and his teeth white from milk".
 [^49-12]: Or "between the saddlebags". The meaning of the Hebrew word *mishpetayim* is uncertain.
 [^49-13]: *Dan* sounds like *yadin*, "he will judge" or "he will provide justice". See 30:6.
-[^49-14]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^49-14]: *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles.
 [^49-15]: The verse plays on the name Gad: *Gad gedud yegudennu, ve-hu yagud aqev*, "Gad, raiders will raid him, but he will raid at their heel."
 [^49-16]: Literally "From Asher, his bread will be fat". Many scholars join the first letter of this verse to the last word of verse 19, reading "at their heels" there and "Asher's bread" here.
 [^49-17]: Or "that bears lovely fawns". The Hebrew for "words" (*imrei*) may also be read as a word for young animals.

@@ -141,17 +141,17 @@
 
 **1** Moses was tending the flock of his father-in-law Jethro, the priest of Midian. He led the flock to the far side of the wilderness[^3-1] and came to Horeb,[^3-2] the mountain of God.
 
-**2** There the angel[^3-3] of Yahweh[^3-4] appeared to him in a flame of fire from the middle of a bush.[^3-5] Moses looked, and the bush was burning with fire, but the bush was not burned up.
+**2** There the angel[^3-3] of the LORD[^3-4] appeared to him in a flame of fire from the middle of a bush.[^3-5] Moses looked, and the bush was burning with fire, but the bush was not burned up.
 
 **3** So Moses said, "I will go over and look at this amazing sight. Why isn't the bush burning up?"
 
-**4** When Yahweh saw that he had gone over to look, God called to him from the middle of the bush: "Moses, Moses!" He answered, "Here I am."
+**4** When the LORD saw that he had gone over to look, God called to him from the middle of the bush: "Moses, Moses!" He answered, "Here I am."
 
 **5** God said, "Do not come any closer. Take your sandals off your feet, for the place where you are standing is holy ground."
 
 **6** He said, "I am the God of your father, the God of Abraham, the God of Isaac and the God of Jacob." Then Moses hid his face, because he was afraid to look at God.
 
-**7** Yahweh said, "I have seen, I have truly seen, the misery of my people in Egypt. I have heard them crying out because of their slave drivers. I know how they are suffering.
+**7** The LORD said, "I have seen, I have truly seen, the misery of my people in Egypt. I have heard them crying out because of their slave drivers. I know how they are suffering.
 
 **8** I have come down to rescue them from the power[^3-6] of the Egyptians and to bring them up out of that land to a good and spacious land, a land flowing with milk and honey,[^3-7] the home of the Canaanites, Hittites, Amorites, Perizzites, Hivites and Jebusites.
 
@@ -167,13 +167,13 @@
 
 **14** God said to Moses, "I am who I am."[^3-11] And he said, "This is what you are to say to the Israelites: 'I Am[^3-12] has sent me to you.'"
 
-**15** God also said to Moses, "This is what you are to say to the Israelites: 'Yahweh,[^3-13] the God of your ancestors, the God of Abraham, the God of Isaac and the God of Jacob, has sent me to you.' This is my name forever, and this is how I am to be remembered from generation to generation.
+**15** God also said to Moses, "This is what you are to say to the Israelites: 'The LORD,[^3-13] the God of your ancestors, the God of Abraham, the God of Isaac and the God of Jacob, has sent me to you.' This is my name forever, and this is how I am to be remembered from generation to generation.
 
-**16** Go and gather the elders of Israel, and say to them, 'Yahweh, the God of your ancestors, the God of Abraham, Isaac and Jacob, appeared to me and said: I have paid close attention[^3-14] to you and to what has been done to you in Egypt.
+**16** Go and gather the elders of Israel, and say to them, 'The LORD, the God of your ancestors, the God of Abraham, Isaac and Jacob, appeared to me and said: I have paid close attention[^3-14] to you and to what has been done to you in Egypt.
 
 **17** And I have promised that I will bring you up out of your misery in Egypt to the land of the Canaanites, Hittites, Amorites, Perizzites, Hivites and Jebusites, a land flowing with milk and honey.'
 
-**18** They will listen to you. Then you and the elders of Israel are to go to the king of Egypt and say to him, 'Yahweh, the God of the Hebrews, has met with us. Now please let us go on a three-day journey into the wilderness to sacrifice to Yahweh our God.'
+**18** They will listen to you. Then you and the elders of Israel are to go to the king of Egypt and say to him, 'The LORD, the God of the Hebrews, has met with us. Now please let us go on a three-day journey into the wilderness to sacrifice to the LORD our God.'
 
 **19** But I know that the king of Egypt will not let you go unless he is forced by a mighty hand.[^3-15]
 
@@ -185,8 +185,8 @@
 
 [^3-1]: Or "to the west side of the wilderness". Literally "behind the wilderness".
 [^3-2]: The mountain is called Horeb here and in 17:6, and Sinai in chapter 19.
-[^3-3]: Or "messenger". Hebrew *mal'akh*. In the next verses it is Yahweh and God who speak from the bush.
-[^3-4]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^3-3]: Or "messenger". Hebrew *mal'akh*. In the next verses it is the LORD and God who speak from the bush.
+[^3-4]: *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles.
 [^3-5]: Hebrew *seneh*, a thorny bush. The word sounds like *Sinai*.
 [^3-6]: Literally "hand".
 [^3-7]: A land rich in pasture for flocks and herds and in honey, either from bees or a syrup made from dates.
@@ -195,7 +195,7 @@
 [^3-10]: Literally "fathers"; also in verses 15 and 16.
 [^3-11]: Hebrew *ehyeh asher ehyeh*. *Ehyeh* is a form of the verb *hayah*, "be", that can mean "I am" or "I will be", and *asher* can mean "who", "what" or "that". So the phrase can also be translated "I will be who I will be" or "I will be what I will be". The Greek Septuagint reads "I am the one who is". It has been understood as a statement of God's own being, as a promise of his presence (compare "I will be with you" in verse 12), or as a refusal to be defined by any name. The text does not explain it.
 [^3-12]: Hebrew *ehyeh*, "I am" or "I will be".
-[^3-13]: The name YHWH appears to come from the same verb, *hayah* (in an older form *hawah*), "be". In verse 14 God speaks of himself as *ehyeh*, "I am"; the name *Yahweh* is probably the matching form, "he is" or "he will be", by which others speak of him. Some scholars take it to mean "he causes to be". Traditionally "the LORD"; see the note on verse 2.
+[^3-13]: *The LORD* stands for God's personal name, YHWH, which appears to come from the same verb, *hayah* (in an older form *hawah*), "be". In verse 14 God speaks of himself as *ehyeh*, "I am"; the name, probably pronounced *Yahweh*, is the matching form, "he is" or "he will be", by which others speak of him. Some scholars take it to mean "he causes to be". See the note on verse 2.
 [^3-14]: Hebrew *paqod paqadti*, "I have surely visited" or "attended to", the words Joseph used in Genesis 50:24–25.
 [^3-15]: Literally "and not by a mighty hand", which may mean "not even when he is forced by a mighty hand". The Greek Septuagint reads "unless by a mighty hand".
 [^3-16]: Literally "I will give this people favor in the eyes of Egypt".
@@ -205,17 +205,17 @@
 
 *Status: draft*
 
-**1** Moses answered, "But what if they do not believe me or listen to what I say? They may say, 'Yahweh[^4-1] did not appear to you.'"
+**1** Moses answered, "But what if they do not believe me or listen to what I say? They may say, 'The LORD[^4-1] did not appear to you.'"
 
-**2** Yahweh said to him, "What is that in your hand?" He said, "A staff."
+**2** The LORD said to him, "What is that in your hand?" He said, "A staff."
 
 **3** He said, "Throw it on the ground." So he threw it on the ground, and it became a snake, and Moses ran away from it.
 
-**4** Then Yahweh said to Moses, "Reach out your hand and take hold of it by the tail." So he reached out his hand and grabbed it, and it became a staff in his hand.
+**4** Then the LORD said to Moses, "Reach out your hand and take hold of it by the tail." So he reached out his hand and grabbed it, and it became a staff in his hand.
 
-**5** "This is so that they may believe that Yahweh, the God of their ancestors, the God of Abraham, the God of Isaac and the God of Jacob, has appeared to you."
+**5** "This is so that they may believe that the LORD, the God of their ancestors, the God of Abraham, the God of Isaac and the God of Jacob, has appeared to you."
 
-**6** Yahweh also said to him, "Put your hand inside your cloak." So he put his hand inside his cloak, and when he took it out, his hand had a skin disease,[^4-2] white as snow.
+**6** The LORD also said to him, "Put your hand inside your cloak." So he put his hand inside his cloak, and when he took it out, his hand had a skin disease,[^4-2] white as snow.
 
 **7** Then he said, "Put your hand back inside your cloak." So he put his hand back inside his cloak, and when he took it out of his cloak, it had become like the rest of his body again.
 
@@ -223,15 +223,15 @@
 
 **9** And if they do not believe even these two signs or listen to you, take some water from the Nile and pour it on the dry ground. The water you take from the Nile will become blood on the dry ground."
 
-**10** Moses said to Yahweh, "Please, Lord, I have never been a man of words, not in the past[^4-4] and not since you have spoken to your servant. I am slow of speech and slow of tongue."[^4-5]
+**10** Moses said to the LORD, "Please, Lord, I have never been a man of words, not in the past[^4-4] and not since you have spoken to your servant. I am slow of speech and slow of tongue."[^4-5]
 
-**11** Yahweh said to him, "Who gave human beings their mouths? Who makes a person unable to speak or unable to hear, able to see or blind? Is it not I, Yahweh?
+**11** The LORD said to him, "Who gave human beings their mouths? Who makes a person unable to speak or unable to hear, able to see or blind? Is it not I, the LORD?
 
 **12** Now go. I will be[^4-6] with your mouth, and I will teach you what to say."
 
 **13** But Moses said, "Please, Lord, send someone else."[^4-7]
 
-**14** Then Yahweh's anger burned against Moses, and he said, "What about your brother Aaron the Levite? I know that he can speak well. And look, he is already coming out to meet you, and when he sees you, he will be glad in his heart.
+**14** Then the LORD's anger burned against Moses, and he said, "What about your brother Aaron the Levite? I know that he can speak well. And look, he is already coming out to meet you, and when he sees you, he will be glad in his heart.
 
 **15** You will speak to him and put the words in his mouth. I will be with your mouth and with his mouth, and I will teach you both what to do.
 
@@ -241,33 +241,33 @@
 
 **18** Then Moses went back to his father-in-law Jether[^4-9] and said to him, "Please let me go back to my own people[^4-10] in Egypt and see whether they are still alive." Jethro said to Moses, "Go in peace."
 
-**19** Yahweh said to Moses in Midian, "Go back to Egypt, for all the men who wanted to kill you are dead."[^4-11]
+**19** The LORD said to Moses in Midian, "Go back to Egypt, for all the men who wanted to kill you are dead."[^4-11]
 
 **20** So Moses took his wife and his sons, put them on a donkey, and went back to the land of Egypt. Moses took the staff of God in his hand.
 
-**21** Yahweh said to Moses, "When you go back to Egypt, see that you perform in front of Pharaoh all the wonders I have put in your power.[^4-12] But I will harden his heart,[^4-13] and he will not let the people go.
+**21** The LORD said to Moses, "When you go back to Egypt, see that you perform in front of Pharaoh all the wonders I have put in your power.[^4-12] But I will harden his heart,[^4-13] and he will not let the people go.
 
-**22** Then say to Pharaoh, 'This is what Yahweh says: Israel is my son, my firstborn.
+**22** Then say to Pharaoh, 'This is what the LORD says: Israel is my son, my firstborn.
 
 **23** I told you, "Let my son go, so that he may serve[^4-14] me," but you refused to let him go. So now I will kill your son, your firstborn.'"
 
-**24** On the way, at the place where they stopped for the night, Yahweh met him and tried to kill him.[^4-15]
+**24** On the way, at the place where they stopped for the night, the LORD met him and tried to kill him.[^4-15]
 
 **25** But Zipporah took a flint knife, cut off her son's foreskin, and touched his feet[^4-16] with it. She said, "Surely you are a bridegroom of blood to me."
 
 **26** So he let him alone. At that time she said "a bridegroom of blood" because of the circumcision.[^4-17]
 
-**27** Yahweh said to Aaron, "Go into the wilderness to meet Moses." So he went and met him at the mountain of God, and he kissed him.
+**27** The LORD said to Aaron, "Go into the wilderness to meet Moses." So he went and met him at the mountain of God, and he kissed him.
 
-**28** Moses told Aaron everything that Yahweh had sent him to say, and all the signs he had commanded him to perform.
+**28** Moses told Aaron everything that the LORD had sent him to say, and all the signs he had commanded him to perform.
 
 **29** Then Moses and Aaron went and gathered all the elders of the Israelites.
 
-**30** Aaron told them everything that Yahweh had said to Moses, and he performed the signs in front of the people.
+**30** Aaron told them everything that the LORD had said to Moses, and he performed the signs in front of the people.
 
-**31** The people believed. When they heard that Yahweh had paid attention[^4-18] to the Israelites and had seen their misery, they bowed down and worshiped.
+**31** The people believed. When they heard that the LORD had paid attention[^4-18] to the Israelites and had seen their misery, they bowed down and worshiped.
 
-[^4-1]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^4-1]: *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles.
 [^4-2]: Hebrew *metsora'at*, traditionally "leprous". The word covered various skin diseases, not only what is now called leprosy. *White as snow* may describe the color or the flaking of the skin.
 [^4-3]: Literally "listen to the voice of the first sign". Likewise "believe the voice of the second sign".
 [^4-4]: Literally "neither yesterday nor the day before".
@@ -282,7 +282,7 @@
 [^4-13]: Hebrew *chazaq*, "make strong, firm". Exodus describes Pharaoh's heart with three different verbs: *chazaq*, "be strong, firm" (in this translation "harden", "hard"); *kaved*, "be heavy" ("make stubborn", "stubborn"); and *qashah*, "be hard, harsh" ("make unyielding"). In Hebrew the heart is the center of thought and will, not only of feeling.
 [^4-14]: Or "worship". Hebrew *avad*, the verb also used for Israel's slave labor (1:13–14).
 [^4-15]: Literally "him … him". The Hebrew does not say whether Moses or his son is meant.
-[^4-16]: The Hebrew does not say whose feet are meant: Moses', the boy's, or Yahweh's. *Feet* may also be a polite way of referring to the genitals.
+[^4-16]: The Hebrew does not say whose feet are meant: Moses', the boy's, or the LORD's. *Feet* may also be a polite way of referring to the genitals.
 [^4-17]: Or "with regard to circumcision". The meaning of these verses is uncertain. Hebrew *chatan*, "bridegroom", is related to an Arabic word meaning "circumcise".
 [^4-18]: Hebrew *paqad*; see 3:16.
 
@@ -290,11 +290,11 @@
 
 *Status: draft*
 
-**1** Afterward Moses and Aaron went to Pharaoh and said, "This is what Yahweh,[^5-1] the God of Israel, says: 'Let my people go, so that they may hold a festival for me in the wilderness.'"
+**1** Afterward Moses and Aaron went to Pharaoh and said, "This is what the LORD,[^5-1] the God of Israel, says: 'Let my people go, so that they may hold a festival for me in the wilderness.'"
 
-**2** Pharaoh said, "Who is Yahweh, that I should listen to him and let Israel go? I do not know Yahweh, and besides, I will not let Israel go."
+**2** Pharaoh said, "Who is the LORD, that I should listen to him and let Israel go? I do not know the LORD, and besides, I will not let Israel go."
 
-**3** They said, "The God of the Hebrews has met with us. Please let us go on a three-day journey into the wilderness to sacrifice to Yahweh our God, or he may strike us with plague or with the sword."
+**3** They said, "The God of the Hebrews has met with us. Please let us go on a three-day journey into the wilderness to sacrifice to the LORD our God, or he may strike us with plague or with the sword."
 
 **4** But the king of Egypt said to them, "Moses and Aaron, why are you taking the people away from their work? Get back to your labor!"
 
@@ -322,7 +322,7 @@
 
 **16** No straw is given to your servants, yet we are told, 'Make bricks!' Now your servants are being beaten, but the fault is your own people's."[^5-5]
 
-**17** He said, "You are lazy, lazy! That is why you are saying, 'Let us go and sacrifice to Yahweh.'
+**17** He said, "You are lazy, lazy! That is why you are saying, 'Let us go and sacrifice to the LORD.'
 
 **18** Now go and work. No straw will be given to you, but you must still deliver the full quota of bricks."
 
@@ -330,13 +330,13 @@
 
 **20** As they came out from Pharaoh, they met Moses and Aaron, who were standing there waiting for them.
 
-**21** They said to them, "May Yahweh look on you and judge you! You have made us repulsive to Pharaoh and his officials,[^5-6] and you have put a sword in their hand to kill us."
+**21** They said to them, "May the LORD look on you and judge you! You have made us repulsive to Pharaoh and his officials,[^5-6] and you have put a sword in their hand to kill us."
 
-**22** Moses went back to Yahweh and said, "Lord, why have you brought trouble on this people? Why did you ever send me?
+**22** Moses went back to the LORD and said, "Lord, why have you brought trouble on this people? Why did you ever send me?
 
 **23** Ever since I came to Pharaoh to speak in your name, he has brought trouble on this people, and you have not rescued your people at all."
 
-[^5-1]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^5-1]: *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles.
 [^5-2]: The Samaritan Pentateuch reads "Look, they are now more numerous than the people of the land".
 [^5-3]: Hebrew *shoterim*, officials, perhaps record keepers. Verse 14 shows that they were Israelites placed over their own people.
 [^5-4]: Literally "as yesterday and the day before"; also in verses 8 and 14.
@@ -347,31 +347,31 @@
 
 *Status: draft*
 
-**1** Yahweh[^6-1] said to Moses, "Now you will see what I will do to Pharaoh. Forced by a mighty hand,[^6-2] he will let them go; forced by a mighty hand, he will drive them out of his land."
+**1** The LORD[^6-1] said to Moses, "Now you will see what I will do to Pharaoh. Forced by a mighty hand,[^6-2] he will let them go; forced by a mighty hand, he will drive them out of his land."
 
-**2** God spoke to Moses and said to him, "I am Yahweh.
+**2** God spoke to Moses and said to him, "I am the LORD.
 
-**3** I appeared to Abraham, to Isaac and to Jacob as God Almighty,[^6-3] but by my name Yahweh I did not make myself known to them.[^6-4]
+**3** I appeared to Abraham, to Isaac and to Jacob as God Almighty,[^6-3] but by my name the LORD I did not make myself known to them.[^6-4]
 
 **4** I also established my covenant with them, to give them the land of Canaan, the land where they lived as foreigners.
 
 **5** And I have heard the groaning of the Israelites, whom the Egyptians are holding in slavery, and I have remembered my covenant.
 
-**6** So say to the Israelites: 'I am Yahweh. I will bring you out from under the forced labor of the Egyptians. I will rescue you from slavery to them, and I will redeem[^6-5] you with an outstretched arm and with great acts of judgment.
+**6** So say to the Israelites: 'I am the LORD. I will bring you out from under the forced labor of the Egyptians. I will rescue you from slavery to them, and I will redeem[^6-5] you with an outstretched arm and with great acts of judgment.
 
-**7** I will take you as my own people, and I will be your God. Then you will know that I am Yahweh your God, who brought you out from under the forced labor of the Egyptians.
+**7** I will take you as my own people, and I will be your God. Then you will know that I am the LORD your God, who brought you out from under the forced labor of the Egyptians.
 
-**8** I will bring you to the land that I swore[^6-6] to give to Abraham, to Isaac and to Jacob, and I will give it to you as your possession. I am Yahweh.'"
+**8** I will bring you to the land that I swore[^6-6] to give to Abraham, to Isaac and to Jacob, and I will give it to you as your possession. I am the LORD.'"
 
 **9** Moses told this to the Israelites, but they did not listen to Moses, because they were so discouraged[^6-7] and their labor was so hard.
 
-**10** Then Yahweh said to Moses,
+**10** Then the LORD said to Moses,
 
 **11** "Go and tell Pharaoh king of Egypt to let the Israelites go out of his land."
 
-**12** But Moses said to Yahweh, "If the Israelites have not listened to me, how will Pharaoh listen to me, when I speak so poorly?"[^6-8]
+**12** But Moses said to the LORD, "If the Israelites have not listened to me, how will Pharaoh listen to me, when I speak so poorly?"[^6-8]
 
-**13** Then Yahweh spoke to Moses and Aaron and gave them orders concerning the Israelites and Pharaoh king of Egypt, to bring the Israelites out of the land of Egypt.
+**13** Then the LORD spoke to Moses and Aaron and gave them orders concerning the Israelites and Pharaoh king of Egypt, to bring the Israelites out of the land of Egypt.
 
 **14** These are the heads of their ancestral families.[^6-9] The sons of Reuben, Israel's firstborn: Hanoch, Pallu, Hezron and Carmi. These were the clans of Reuben.
 
@@ -397,20 +397,20 @@
 
 **25** Aaron's son Eleazar married one of the daughters of Putiel, and she bore him Phinehas. These were the heads of the Levite families, by their clans.
 
-**26** It was this Aaron and Moses to whom Yahweh said, "Bring the Israelites out of the land of Egypt, division by division."[^6-12]
+**26** It was this Aaron and Moses to whom the LORD said, "Bring the Israelites out of the land of Egypt, division by division."[^6-12]
 
 **27** They were the ones who spoke to Pharaoh king of Egypt about bringing the Israelites out of Egypt. It was this Moses and Aaron.
 
-**28** On the day when Yahweh spoke to Moses in the land of Egypt,
+**28** On the day when the LORD spoke to Moses in the land of Egypt,
 
-**29** Yahweh said to Moses, "I am Yahweh. Tell Pharaoh king of Egypt everything that I tell you."
+**29** the LORD said to Moses, "I am the LORD. Tell Pharaoh king of Egypt everything that I tell you."
 
-**30** But Moses said to Yahweh, "I speak so poorly.[^6-13] How will Pharaoh listen to me?"
+**30** But Moses said to the LORD, "I speak so poorly.[^6-13] How will Pharaoh listen to me?"
 
-[^6-1]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^6-1]: *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles.
 [^6-2]: Literally "with a mighty hand"; also in the next clause. It may refer to God's hand or to the force that will compel Pharaoh.
 [^6-3]: Hebrew *El Shaddai*. The meaning of *Shaddai* is uncertain.
-[^6-4]: Or, read as a question, "did I not make myself known to them by my name Yahweh?" In Genesis, the name Yahweh is used in the stories of Abraham, Isaac and Jacob (for example Genesis 15:7; 28:13). The verse has been understood in different ways: that they did not know the full meaning of the name, or that the stories come from different traditions.
+[^6-4]: Or, read as a question, "did I not make myself known to them by my name the LORD?" In Genesis, the name YHWH is used in the stories of Abraham, Isaac and Jacob (for example Genesis 15:7; 28:13). The verse has been understood in different ways: that they did not know the full meaning of the name, or that the stories come from different traditions.
 [^6-5]: Hebrew *ga'al*, to act as a family's redeemer: a relative who buys back a family member from slavery or debt.
 [^6-6]: Literally "raised my hand", a gesture of taking an oath.
 [^6-7]: Literally "because of shortness of spirit". Hebrew *ruach*, "spirit, breath". Or "because they were out of breath".
@@ -425,7 +425,7 @@
 
 *Status: draft*
 
-**1** Yahweh[^7-1] said to Moses, "See, I have made you like God to Pharaoh,[^7-2] and your brother Aaron will be your prophet.
+**1** The LORD[^7-1] said to Moses, "See, I have made you like God to Pharaoh,[^7-2] and your brother Aaron will be your prophet.
 
 **2** You are to say everything I command you, and your brother Aaron is to tell Pharaoh to let the Israelites go out of his land.
 
@@ -433,49 +433,49 @@
 
 **4** Pharaoh will not listen to you. Then I will lay my hand on Egypt, and with great acts of judgment I will bring my divisions,[^7-4] my people the Israelites, out of the land of Egypt.
 
-**5** The Egyptians will know that I am Yahweh when I stretch out my hand against Egypt and bring the Israelites out from among them."
+**5** The Egyptians will know that I am the LORD when I stretch out my hand against Egypt and bring the Israelites out from among them."
 
-**6** Moses and Aaron did so. They did just as Yahweh commanded them.
+**6** Moses and Aaron did so. They did just as the LORD commanded them.
 
 **7** Moses was eighty years old and Aaron eighty-three when they spoke to Pharaoh.
 
-**8** Yahweh said to Moses and Aaron,
+**8** The LORD said to Moses and Aaron,
 
 **9** "When Pharaoh says to you, 'Perform a wonder,' then say to Aaron, 'Take your staff and throw it down in front of Pharaoh.' It will become a serpent."[^7-5]
 
-**10** So Moses and Aaron went to Pharaoh and did just as Yahweh had commanded. Aaron threw down his staff in front of Pharaoh and his officials,[^7-6] and it became a serpent.
+**10** So Moses and Aaron went to Pharaoh and did just as the LORD had commanded. Aaron threw down his staff in front of Pharaoh and his officials,[^7-6] and it became a serpent.
 
 **11** Then Pharaoh also summoned the wise men and the sorcerers, and the magicians[^7-7] of Egypt did the same thing by their secret arts.[^7-8]
 
 **12** Each of them threw down his staff, and they became serpents. But Aaron's staff swallowed up their staffs.
 
-**13** Yet Pharaoh's heart grew hard,[^7-9] and he did not listen to them, just as Yahweh had said.
+**13** Yet Pharaoh's heart grew hard,[^7-9] and he did not listen to them, just as the LORD had said.
 
-**14** Then Yahweh said to Moses, "Pharaoh's heart is stubborn.[^7-10] He refuses to let the people go.
+**14** Then the LORD said to Moses, "Pharaoh's heart is stubborn.[^7-10] He refuses to let the people go.
 
 **15** Go to Pharaoh in the morning, when he goes out to the water. Stand on the bank of the Nile to meet him, and take in your hand the staff that was turned into a snake.
 
-**16** Say to him, 'Yahweh, the God of the Hebrews, has sent me to you to say: Let my people go, so that they may serve[^7-11] me in the wilderness. But until now you have not listened.
+**16** Say to him, 'The LORD, the God of the Hebrews, has sent me to you to say: Let my people go, so that they may serve[^7-11] me in the wilderness. But until now you have not listened.
 
-**17** This is what Yahweh says: By this you will know that I am Yahweh. Look, with the staff that is in my hand I will strike the water in the Nile, and it will be turned into blood.
+**17** This is what the LORD says: By this you will know that I am the LORD. Look, with the staff that is in my hand I will strike the water in the Nile, and it will be turned into blood.
 
 **18** The fish in the Nile will die, and the Nile will stink, and the Egyptians will be unable to drink water from the Nile.'"
 
-**19** Yahweh said to Moses, "Tell Aaron, 'Take your staff and stretch out your hand over the waters of Egypt, over their rivers, their canals,[^7-12] their ponds and all their pools of water, so that they become blood.' There will be blood throughout the land of Egypt, even in containers of wood and of stone."[^7-13]
+**19** The LORD said to Moses, "Tell Aaron, 'Take your staff and stretch out your hand over the waters of Egypt, over their rivers, their canals,[^7-12] their ponds and all their pools of water, so that they become blood.' There will be blood throughout the land of Egypt, even in containers of wood and of stone."[^7-13]
 
-**20** Moses and Aaron did just as Yahweh had commanded. He raised the staff and struck the water in the Nile in the sight of Pharaoh and his officials, and all the water in the Nile was turned into blood.
+**20** Moses and Aaron did just as the LORD had commanded. He raised the staff and struck the water in the Nile in the sight of Pharaoh and his officials, and all the water in the Nile was turned into blood.
 
 **21** The fish in the Nile died, and the Nile stank, so that the Egyptians could not drink water from the Nile. There was blood throughout the land of Egypt.
 
-**22** But the magicians of Egypt did the same thing by their secret arts. So Pharaoh's heart grew hard, and he did not listen to them, just as Yahweh had said.
+**22** But the magicians of Egypt did the same thing by their secret arts. So Pharaoh's heart grew hard, and he did not listen to them, just as the LORD had said.
 
 **23** Pharaoh turned and went into his palace,[^7-14] and he did not take even this to heart.
 
 **24** All the Egyptians dug around the Nile for water to drink, because they could not drink the water of the Nile.
 
-**25** Seven days passed after Yahweh struck the Nile.
+**25** Seven days passed after the LORD struck the Nile.
 
-**26** Then Yahweh said to Moses,[^7-15] "Go to Pharaoh and say to him, 'This is what Yahweh says: Let my people go, so that they may serve me.
+**26** Then the LORD said to Moses,[^7-15] "Go to Pharaoh and say to him, 'This is what the LORD says: Let my people go, so that they may serve me.
 
 **27** If you refuse to let them go, I will strike your whole territory with frogs.
 
@@ -483,7 +483,7 @@
 
 **29** The frogs will come up on you, on your people and on all your officials.'"
 
-[^7-1]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^7-1]: *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles.
 [^7-2]: Literally "I have made you God to Pharaoh". Compare 4:16.
 [^7-3]: Hebrew *qashah*, "make hard, harsh". On the three verbs used for Pharaoh's heart, see the note on 4:21.
 [^7-4]: Literally "my armies". Hebrew *tsava'ot*; see 6:26.
@@ -503,63 +503,63 @@
 
 *Status: draft*
 
-**1** Yahweh[^8-1] said to Moses,[^8-2] "Tell Aaron, 'Stretch out your hand with your staff over the rivers, the canals and the ponds, and make frogs come up on the land of Egypt.'"
+**1** The LORD[^8-1] said to Moses,[^8-2] "Tell Aaron, 'Stretch out your hand with your staff over the rivers, the canals and the ponds, and make frogs come up on the land of Egypt.'"
 
 **2** So Aaron stretched out his hand over the waters of Egypt, and the frogs came up and covered the land of Egypt.
 
 **3** But the magicians did the same thing by their secret arts, and they too made frogs come up on the land of Egypt.
 
-**4** Then Pharaoh summoned Moses and Aaron and said, "Pray to Yahweh to take the frogs away from me and my people, and I will let the people go to sacrifice to Yahweh."
+**4** Then Pharaoh summoned Moses and Aaron and said, "Pray to the LORD to take the frogs away from me and my people, and I will let the people go to sacrifice to the LORD."
 
 **5** Moses said to Pharaoh, "I leave it to you[^8-3] to tell me when I should pray for you, for your officials[^8-4] and for your people, that the frogs may be removed from you and your houses and remain only in the Nile."
 
-**6** "Tomorrow," he said. Moses said, "It will be as you say, so that you may know that there is no one like Yahweh our God.
+**6** "Tomorrow," he said. Moses said, "It will be as you say, so that you may know that there is no one like the LORD our God.
 
 **7** The frogs will leave you and your houses, your officials and your people. They will remain only in the Nile."
 
-**8** Then Moses and Aaron left Pharaoh, and Moses cried out to Yahweh about the frogs he had brought on Pharaoh.[^8-5]
+**8** Then Moses and Aaron left Pharaoh, and Moses cried out to the LORD about the frogs he had brought on Pharaoh.[^8-5]
 
-**9** Yahweh did what Moses asked. The frogs died in the houses, in the courtyards and in the fields.
+**9** The LORD did what Moses asked. The frogs died in the houses, in the courtyards and in the fields.
 
 **10** They piled them up in heaps, and the land stank.
 
-**11** But when Pharaoh saw that there was relief, he made his heart stubborn,[^8-6] and he did not listen to them, just as Yahweh had said.
+**11** But when Pharaoh saw that there was relief, he made his heart stubborn,[^8-6] and he did not listen to them, just as the LORD had said.
 
-**12** Then Yahweh said to Moses, "Tell Aaron, 'Stretch out your staff and strike the dust of the ground, and it will become gnats[^8-7] throughout the land of Egypt.'"
+**12** Then the LORD said to Moses, "Tell Aaron, 'Stretch out your staff and strike the dust of the ground, and it will become gnats[^8-7] throughout the land of Egypt.'"
 
 **13** They did so. Aaron stretched out his hand with his staff and struck the dust of the ground, and gnats came on people and animals. All the dust of the ground became gnats throughout the land of Egypt.
 
 **14** The magicians tried to bring out gnats by their secret arts, but they could not. The gnats were on people and animals.
 
-**15** The magicians said to Pharaoh, "This is the finger of God." But Pharaoh's heart grew hard,[^8-8] and he did not listen to them, just as Yahweh had said.
+**15** The magicians said to Pharaoh, "This is the finger of God." But Pharaoh's heart grew hard,[^8-8] and he did not listen to them, just as the LORD had said.
 
-**16** Then Yahweh said to Moses, "Get up early in the morning and stand in front of Pharaoh as he goes out to the water. Say to him, 'This is what Yahweh says: Let my people go, so that they may serve[^8-9] me.
+**16** Then the LORD said to Moses, "Get up early in the morning and stand in front of Pharaoh as he goes out to the water. Say to him, 'This is what the LORD says: Let my people go, so that they may serve[^8-9] me.
 
 **17** If you do not let my people go, I will send swarms of flies[^8-10] on you, your officials, your people and your houses. The houses of the Egyptians will be full of the swarms, and so will the ground they stand on.
 
-**18** But on that day I will set apart the land of Goshen, where my people live, so that there will be no swarms there. Then you will know that I, Yahweh, am here in this land.
+**18** But on that day I will set apart the land of Goshen, where my people live, so that there will be no swarms there. Then you will know that I, the LORD, am here in this land.
 
 **19** I will make a distinction[^8-11] between my people and your people. This sign will happen tomorrow.'"
 
-**20** And Yahweh did so. Dense swarms of flies came into Pharaoh's house and into the houses of his officials. Throughout the land of Egypt the land was ruined by the swarms.
+**20** And the LORD did so. Dense swarms of flies came into Pharaoh's house and into the houses of his officials. Throughout the land of Egypt the land was ruined by the swarms.
 
 **21** Then Pharaoh summoned Moses and Aaron and said, "Go, sacrifice to your God here in the land."
 
-**22** But Moses said, "It would not be right to do that, because what we sacrifice to Yahweh our God is detestable to the Egyptians.[^8-12] If we sacrifice what is detestable to the Egyptians right in front of them, won't they stone us?
+**22** But Moses said, "It would not be right to do that, because what we sacrifice to the LORD our God is detestable to the Egyptians.[^8-12] If we sacrifice what is detestable to the Egyptians right in front of them, won't they stone us?
 
-**23** We must go on a three-day journey into the wilderness and sacrifice to Yahweh our God, as he tells us."
+**23** We must go on a three-day journey into the wilderness and sacrifice to the LORD our God, as he tells us."
 
-**24** Pharaoh said, "I will let you go to sacrifice to Yahweh your God in the wilderness. Only, you must not go very far away. Pray for me."
+**24** Pharaoh said, "I will let you go to sacrifice to the LORD your God in the wilderness. Only, you must not go very far away. Pray for me."
 
-**25** Moses said, "As soon as I leave you, I will pray to Yahweh, and tomorrow the swarms of flies will leave Pharaoh, his officials and his people. Only, Pharaoh must not deceive us again by refusing to let the people go to sacrifice to Yahweh."
+**25** Moses said, "As soon as I leave you, I will pray to the LORD, and tomorrow the swarms of flies will leave Pharaoh, his officials and his people. Only, Pharaoh must not deceive us again by refusing to let the people go to sacrifice to the LORD."
 
-**26** So Moses left Pharaoh and prayed to Yahweh.
+**26** So Moses left Pharaoh and prayed to the LORD.
 
-**27** Yahweh did what Moses asked. He removed the swarms of flies from Pharaoh, from his officials and from his people. Not one was left.
+**27** The LORD did what Moses asked. He removed the swarms of flies from Pharaoh, from his officials and from his people. Not one was left.
 
 **28** But this time too Pharaoh made his heart stubborn, and he did not let the people go.
 
-[^8-1]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^8-1]: *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles.
 [^8-2]: Verses 1–28 are 8:5–32 in most English Bibles.
 [^8-3]: Literally "Have the glory over me", a courteous way of letting Pharaoh choose the time.
 [^8-4]: Literally "servants"; also in verses 7, 17, 20, 25 and 27.
@@ -570,27 +570,27 @@
 [^8-9]: Or "worship".
 [^8-10]: Hebrew *arov*, "swarm" or "mixture". The text does not say what kind of insect.
 [^8-11]: Hebrew *pedut*, which elsewhere means "redemption". The Greek Septuagint reads "distinction", as if from a similar Hebrew word, *pelut*, which matches "set apart" (*palah*) in verse 18.
-[^8-12]: Literally "the abomination of Egypt we sacrifice to Yahweh our God"; likewise later in the verse.
+[^8-12]: Literally "the abomination of Egypt we sacrifice to the LORD our God"; likewise later in the verse.
 
 ## Chapter 9
 
 *Status: draft*
 
-**1** Then Yahweh[^9-1] said to Moses, "Go to Pharaoh and tell him, 'This is what Yahweh, the God of the Hebrews, says: Let my people go, so that they may serve[^9-2] me.
+**1** Then the LORD[^9-1] said to Moses, "Go to Pharaoh and tell him, 'This is what the LORD, the God of the Hebrews, says: Let my people go, so that they may serve[^9-2] me.
 
 **2** If you refuse to let them go and keep holding on to them,[^9-3]
 
-**3** the hand of Yahweh will bring a very severe plague[^9-4] on your livestock in the fields: on the horses, the donkeys, the camels, the cattle, and the sheep and goats.
+**3** the hand of the LORD will bring a very severe plague[^9-4] on your livestock in the fields: on the horses, the donkeys, the camels, the cattle, and the sheep and goats.
 
-**4** But Yahweh will make a distinction between the livestock of Israel and the livestock of Egypt, so that nothing belonging to the Israelites will die.'"
+**4** But the LORD will make a distinction between the livestock of Israel and the livestock of Egypt, so that nothing belonging to the Israelites will die.'"
 
-**5** Yahweh set a time and said, "Tomorrow Yahweh will do this in the land."
+**5** The LORD set a time and said, "Tomorrow the LORD will do this in the land."
 
-**6** And the next day Yahweh did it. All the livestock of Egypt died, but not one animal of the Israelites' livestock died.
+**6** And the next day the LORD did it. All the livestock of Egypt died, but not one animal of the Israelites' livestock died.
 
 **7** Pharaoh sent to find out, and not even one of the livestock of Israel had died. But Pharaoh's heart was stubborn,[^9-5] and he did not let the people go.
 
-**8** Then Yahweh said to Moses and Aaron, "Take handfuls of soot from a kiln, and let Moses throw it into the air in front of Pharaoh.
+**8** Then the LORD said to Moses and Aaron, "Take handfuls of soot from a kiln, and let Moses throw it into the air in front of Pharaoh.
 
 **9** It will become fine dust over the whole land of Egypt, and it will cause boils[^9-6] that break out into sores on people and animals throughout the land of Egypt."
 
@@ -598,9 +598,9 @@
 
 **11** The magicians could not stand in front of Moses because of the boils, for the boils were on the magicians and on all the Egyptians.
 
-**12** But Yahweh hardened[^9-7] Pharaoh's heart, and he did not listen to them, just as Yahweh had said to Moses.
+**12** But the LORD hardened[^9-7] Pharaoh's heart, and he did not listen to them, just as the LORD had said to Moses.
 
-**13** Then Yahweh said to Moses, "Get up early in the morning, stand in front of Pharaoh, and say to him, 'This is what Yahweh, the God of the Hebrews, says: Let my people go, so that they may serve me.
+**13** Then the LORD said to Moses, "Get up early in the morning, stand in front of Pharaoh, and say to him, 'This is what the LORD, the God of the Hebrews, says: Let my people go, so that they may serve me.
 
 **14** For this time I am going to send all my plagues against you yourself,[^9-8] and against your officials[^9-9] and your people, so that you may know that there is no one like me in all the earth.
 
@@ -614,13 +614,13 @@
 
 **19** Now send word, and bring your livestock and everything you have in the fields to shelter. Every person and animal that is found in the fields and not brought into the house will die when the hail comes down on them.'"
 
-**20** Those of Pharaoh's officials who feared the word of Yahweh hurried their slaves[^9-11] and their livestock into the houses.
+**20** Those of Pharaoh's officials who feared the word of the LORD hurried their slaves[^9-11] and their livestock into the houses.
 
-**21** But those who paid no attention to the word of Yahweh left their slaves and their livestock in the fields.
+**21** But those who paid no attention to the word of the LORD left their slaves and their livestock in the fields.
 
-**22** Then Yahweh said to Moses, "Stretch out your hand toward the sky, so that there will be hail throughout the land of Egypt, on people and on animals and on every plant of the field in the land of Egypt."
+**22** Then the LORD said to Moses, "Stretch out your hand toward the sky, so that there will be hail throughout the land of Egypt, on people and on animals and on every plant of the field in the land of Egypt."
 
-**23** Moses stretched out his staff toward the sky, and Yahweh sent thunder[^9-12] and hail, and fire came down to the earth. So Yahweh rained hail on the land of Egypt.
+**23** Moses stretched out his staff toward the sky, and the LORD sent thunder[^9-12] and hail, and fire came down to the earth. So the LORD rained hail on the land of Egypt.
 
 **24** There was hail, and fire flashing[^9-13] in the middle of the hail. It was very heavy, such as had never been in all the land of Egypt since it became a nation.
 
@@ -628,25 +628,25 @@
 
 **26** Only in the land of Goshen, where the Israelites were, was there no hail.
 
-**27** Then Pharaoh sent for Moses and Aaron and said to them, "This time I have sinned. Yahweh is in the right, and I and my people are in the wrong.
+**27** Then Pharaoh sent for Moses and Aaron and said to them, "This time I have sinned. The LORD is in the right, and I and my people are in the wrong.
 
-**28** Pray to Yahweh. We have had enough of God's thunder[^9-14] and hail. I will let you go; you will not have to stay any longer."
+**28** Pray to the LORD. We have had enough of God's thunder[^9-14] and hail. I will let you go; you will not have to stay any longer."
 
-**29** Moses said to him, "As soon as I have gone out of the city, I will spread out my hands to Yahweh. The thunder will stop, and there will be no more hail, so that you may know that the earth belongs to Yahweh.
+**29** Moses said to him, "As soon as I have gone out of the city, I will spread out my hands to the LORD. The thunder will stop, and there will be no more hail, so that you may know that the earth belongs to the LORD.
 
-**30** But as for you and your officials, I know that you do not yet fear Yahweh God."
+**30** But as for you and your officials, I know that you do not yet fear the LORD God."
 
 **31** The flax and the barley were struck down, because the barley was in the ear and the flax was in bud.
 
 **32** But the wheat and the spelt were not struck down, because they ripen later.
 
-**33** Moses left Pharaoh and went out of the city, and he spread out his hands to Yahweh. The thunder and the hail stopped, and the rain no longer poured down on the earth.
+**33** Moses left Pharaoh and went out of the city, and he spread out his hands to the LORD. The thunder and the hail stopped, and the rain no longer poured down on the earth.
 
 **34** When Pharaoh saw that the rain, the hail and the thunder had stopped, he sinned again: he made his heart stubborn,[^9-15] he and his officials.
 
-**35** So Pharaoh's heart grew hard,[^9-16] and he did not let the Israelites go, just as Yahweh had said through Moses.
+**35** So Pharaoh's heart grew hard,[^9-16] and he did not let the Israelites go, just as the LORD had said through Moses.
 
-[^9-1]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^9-1]: *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles.
 [^9-2]: Or "worship"; also in verse 13.
 [^9-3]: Hebrew *machaziq*, a form of *chazaq*, the verb used for Pharaoh's hardened heart (verses 12 and 35).
 [^9-4]: Literally "a very heavy plague". Hebrew *dever*, a deadly epidemic.
@@ -667,11 +667,11 @@
 
 *Status: draft*
 
-**1** Then Yahweh[^10-1] said to Moses, "Go to Pharaoh, for I have made his heart and the hearts of his officials[^10-2] stubborn,[^10-3] so that I may perform these signs of mine among them,
+**1** Then the LORD[^10-1] said to Moses, "Go to Pharaoh, for I have made his heart and the hearts of his officials[^10-2] stubborn,[^10-3] so that I may perform these signs of mine among them,
 
-**2** and so that you may tell your children and grandchildren[^10-4] how I dealt harshly with the Egyptians[^10-5] and what signs I performed among them. Then you will know that I am Yahweh."
+**2** and so that you may tell your children and grandchildren[^10-4] how I dealt harshly with the Egyptians[^10-5] and what signs I performed among them. Then you will know that I am the LORD."
 
-**3** So Moses and Aaron went to Pharaoh and said to him, "This is what Yahweh, the God of the Hebrews, says: 'How long will you refuse to humble yourself before me? Let my people go, so that they may serve[^10-6] me.
+**3** So Moses and Aaron went to Pharaoh and said to him, "This is what the LORD, the God of the Hebrews, says: 'How long will you refuse to humble yourself before me? Let my people go, so that they may serve[^10-6] me.
 
 **4** If you refuse to let my people go, tomorrow I will bring locusts into your territory.
 
@@ -679,59 +679,59 @@
 
 **6** They will fill your houses and the houses of all your officials and of all the Egyptians. Neither your fathers nor your grandfathers have seen anything like it, from the day they came to be on the earth until this day.'" Then he turned and left Pharaoh.
 
-**7** Pharaoh's officials said to him, "How long will this man be a trap for us? Let the men go, so that they may serve Yahweh their God. Don't you realize yet that Egypt is ruined?"
+**7** Pharaoh's officials said to him, "How long will this man be a trap for us? Let the men go, so that they may serve the LORD their God. Don't you realize yet that Egypt is ruined?"
 
-**8** So Moses and Aaron were brought back to Pharaoh, and he said to them, "Go, serve Yahweh your God. But who exactly will be going?"
+**8** So Moses and Aaron were brought back to Pharaoh, and he said to them, "Go, serve the LORD your God. But who exactly will be going?"
 
-**9** Moses said, "We will go with our young and our old. We will go with our sons and our daughters, with our flocks and our herds, because we are to hold a festival for Yahweh."
+**9** Moses said, "We will go with our young and our old. We will go with our sons and our daughters, with our flocks and our herds, because we are to hold a festival for the LORD."
 
-**10** He said to them, "Yahweh would really have to be with you if I let you go with your little ones![^10-7] Look, you clearly have evil in mind.[^10-8]
+**10** He said to them, "The LORD would really have to be with you if I let you go with your little ones![^10-7] Look, you clearly have evil in mind.[^10-8]
 
-**11** No! Only the men may go and serve Yahweh, since that is what you have been asking for." And they were driven out of Pharaoh's presence.
+**11** No! Only the men may go and serve the LORD, since that is what you have been asking for." And they were driven out of Pharaoh's presence.
 
-**12** Then Yahweh said to Moses, "Stretch out your hand over the land of Egypt for the locusts, so that they come up over the land of Egypt and eat every plant in the land, everything the hail has left."
+**12** Then the LORD said to Moses, "Stretch out your hand over the land of Egypt for the locusts, so that they come up over the land of Egypt and eat every plant in the land, everything the hail has left."
 
-**13** So Moses stretched out his staff over the land of Egypt, and Yahweh drove an east wind over the land all that day and all that night. When morning came, the east wind had brought the locusts.
+**13** So Moses stretched out his staff over the land of Egypt, and the LORD drove an east wind over the land all that day and all that night. When morning came, the east wind had brought the locusts.
 
 **14** The locusts came up over the whole land of Egypt and settled on every part of Egypt's territory in great numbers.[^10-9] There had never been such a swarm of locusts before, and there never will be again.
 
 **15** They covered the face of the whole land, so that the land was darkened. They ate every plant in the land and all the fruit of the trees that the hail had left. Nothing green was left on any tree or plant in the fields throughout the land of Egypt.
 
-**16** Pharaoh quickly summoned Moses and Aaron and said, "I have sinned against Yahweh your God and against you.
+**16** Pharaoh quickly summoned Moses and Aaron and said, "I have sinned against the LORD your God and against you.
 
-**17** Now please forgive my sin just this once, and pray to Yahweh your God that he will at least take this deadly plague[^10-10] away from me."
+**17** Now please forgive my sin just this once, and pray to the LORD your God that he will at least take this deadly plague[^10-10] away from me."
 
-**18** So Moses left Pharaoh and prayed to Yahweh.
+**18** So Moses left Pharaoh and prayed to the LORD.
 
-**19** Yahweh turned the wind into a very strong west wind,[^10-11] which picked up the locusts and drove them into the Red Sea.[^10-12] Not a single locust was left anywhere in the territory of Egypt.
+**19** The LORD turned the wind into a very strong west wind,[^10-11] which picked up the locusts and drove them into the Red Sea.[^10-12] Not a single locust was left anywhere in the territory of Egypt.
 
-**20** But Yahweh hardened[^10-13] Pharaoh's heart, and he did not let the Israelites go.
+**20** But the LORD hardened[^10-13] Pharaoh's heart, and he did not let the Israelites go.
 
-**21** Then Yahweh said to Moses, "Stretch out your hand toward the sky, so that there will be darkness over the land of Egypt, a darkness that can be felt."
+**21** Then the LORD said to Moses, "Stretch out your hand toward the sky, so that there will be darkness over the land of Egypt, a darkness that can be felt."
 
 **22** So Moses stretched out his hand toward the sky, and there was thick darkness throughout the land of Egypt for three days.
 
 **23** People could not see one another, and no one got up from where he was for three days. But all the Israelites had light where they lived.
 
-**24** Then Pharaoh summoned Moses and said, "Go, serve Yahweh. Only your flocks and your herds must stay behind. Even your little ones may go with you."
+**24** Then Pharaoh summoned Moses and said, "Go, serve the LORD. Only your flocks and your herds must stay behind. Even your little ones may go with you."
 
-**25** But Moses said, "You must also let us have sacrifices and burnt offerings to offer to Yahweh our God.
+**25** But Moses said, "You must also let us have sacrifices and burnt offerings to offer to the LORD our God.
 
-**26** Our livestock must go with us too. Not a hoof is to be left behind, for we must take some of them to serve Yahweh our God. And until we get there, we will not know what we are to use to serve Yahweh."
+**26** Our livestock must go with us too. Not a hoof is to be left behind, for we must take some of them to serve the LORD our God. And until we get there, we will not know what we are to use to serve the LORD."
 
-**27** But Yahweh hardened Pharaoh's heart, and he was not willing to let them go.
+**27** But the LORD hardened Pharaoh's heart, and he was not willing to let them go.
 
 **28** Pharaoh said to him, "Get away from me! Make sure you never see my face again, for on the day you see my face you will die."
 
 **29** Moses said, "As you say. I will never see your face again."
 
-[^10-1]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^10-1]: *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles.
 [^10-2]: Literally "servants"; also in verses 6 and 7.
 [^10-3]: Literally "made heavy". Hebrew *kaved*. On the verbs used for Pharaoh's heart, see the note on 4:21.
 [^10-4]: Literally "tell in the ears of your son and your son's son".
 [^10-5]: Or "made fools of the Egyptians".
 [^10-6]: Or "worship"; also in verses 7, 8, 11, 24 and 26.
-[^10-7]: Literally "So may Yahweh be with you, as I will let you and your little ones go!", spoken in mockery. *Little ones* (Hebrew *taf*) means children and others who depend on the family.
+[^10-7]: Literally "So may the LORD be with you, as I will let you and your little ones go!", spoken in mockery. *Little ones* (Hebrew *taf*) means children and others who depend on the family.
 [^10-8]: Literally "See, evil is before your faces". It may mean "you have evil plans" or "disaster lies ahead of you".
 [^10-9]: Literally "very heavy".
 [^10-10]: Literally "this death".
@@ -743,30 +743,30 @@
 
 *Status: draft*
 
-**1** Yahweh[^11-1] said to Moses, "I will bring one more plague on Pharaoh and on Egypt. After that he will let you go from here. When he lets you go, he will drive you out of here completely.[^11-2]
+**1** The LORD[^11-1] said to Moses, "I will bring one more plague on Pharaoh and on Egypt. After that he will let you go from here. When he lets you go, he will drive you out of here completely.[^11-2]
 
 **2** Tell the people[^11-3] that every man is to ask his neighbor, and every woman her neighbor, for objects of silver and gold."
 
-**3** Yahweh made the Egyptians look with favor on the people.[^11-4] And the man Moses was highly respected in the land of Egypt, by Pharaoh's officials[^11-5] and by the people.
+**3** The LORD made the Egyptians look with favor on the people.[^11-4] And the man Moses was highly respected in the land of Egypt, by Pharaoh's officials[^11-5] and by the people.
 
-**4** So Moses said, "This is what Yahweh says: 'About midnight I will go out through the middle of Egypt.
+**4** So Moses said, "This is what the LORD says: 'About midnight I will go out through the middle of Egypt.
 
 **5** Every firstborn in the land of Egypt will die, from the firstborn of Pharaoh who sits on his throne to the firstborn of the slave woman who grinds grain at the hand mill,[^11-6] and every firstborn of the livestock.
 
 **6** There will be a great cry throughout the land of Egypt, such as there has never been and never will be again.
 
-**7** But not even a dog will growl[^11-7] at any of the Israelites, whether person or animal.' Then you will know that Yahweh makes a distinction between Egypt and Israel.
+**7** But not even a dog will growl[^11-7] at any of the Israelites, whether person or animal.' Then you will know that the LORD makes a distinction between Egypt and Israel.
 
 **8** All these officials of yours will come down to me and bow down to me, saying, 'Go, you and all the people who follow you.'[^11-8] After that I will go." And he left Pharaoh in hot anger.
 
-**9** Yahweh said to Moses, "Pharaoh will not listen to you, so that my wonders may be multiplied in the land of Egypt."
+**9** The LORD said to Moses, "Pharaoh will not listen to you, so that my wonders may be multiplied in the land of Egypt."
 
-**10** Moses and Aaron performed all these wonders in front of Pharaoh, but Yahweh hardened[^11-9] Pharaoh's heart, and he did not let the Israelites go out of his land.
+**10** Moses and Aaron performed all these wonders in front of Pharaoh, but the LORD hardened[^11-9] Pharaoh's heart, and he did not let the Israelites go out of his land.
 
-[^11-1]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^11-1]: *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles.
 [^11-2]: Or "When he lets you go, it will be for good; he will drive you out of here."
 [^11-3]: Literally "Speak in the ears of the people".
-[^11-4]: Literally "Yahweh gave the people favor in the eyes of Egypt".
+[^11-4]: Literally "The LORD gave the people favor in the eyes of Egypt".
 [^11-5]: Literally "servants"; also in verse 8.
 [^11-6]: Literally "who is behind the millstones".
 [^11-7]: Literally "sharpen its tongue".
@@ -777,7 +777,7 @@
 
 *Status: draft*
 
-**1** Yahweh[^12-1] said to Moses and Aaron in the land of Egypt,
+**1** The LORD[^12-1] said to Moses and Aaron in the land of Egypt,
 
 **2** "This month is to be the first month for you. It is to be the first of the months of your year.[^12-2]
 
@@ -797,13 +797,13 @@
 
 **10** Do not leave any of it until morning. Whatever is left of it until morning you must burn in the fire.
 
-**11** This is how you are to eat it: with your belt fastened,[^12-6] your sandals on your feet and your staff in your hand. You are to eat it in haste. It is Yahweh's Passover.[^12-7]
+**11** This is how you are to eat it: with your belt fastened,[^12-6] your sandals on your feet and your staff in your hand. You are to eat it in haste. It is the LORD's Passover.[^12-7]
 
-**12** On that night I will pass through the land of Egypt and strike down every firstborn in the land of Egypt, both people and animals, and I will carry out judgments on all the gods of Egypt. I am Yahweh.
+**12** On that night I will pass through the land of Egypt and strike down every firstborn in the land of Egypt, both people and animals, and I will carry out judgments on all the gods of Egypt. I am the LORD.
 
 **13** The blood will be a sign for you on the houses where you are. When I see the blood, I will pass over you, and no plague will come on you to destroy you when I strike the land of Egypt.
 
-**14** This day is to be a day for you to remember. You are to celebrate it as a festival to Yahweh. Throughout your generations you are to celebrate it as a permanent decree.
+**14** This day is to be a day for you to remember. You are to celebrate it as a festival to the LORD. Throughout your generations you are to celebrate it as a permanent decree.
 
 **15** For seven days you are to eat unleavened bread. On the very first day you must remove yeast from your houses, for whoever eats anything leavened from the first day to the seventh day, that person must be cut off[^12-8] from Israel.
 
@@ -821,23 +821,23 @@
 
 **22** Take a bunch of hyssop,[^12-13] dip it in the blood that is in the basin,[^12-14] and touch the top of the doorframe and the two doorposts with some of the blood in the basin. Not one of you is to go out of the door of his house until morning.
 
-**23** When Yahweh passes through to strike down the Egyptians, he will see the blood on the top of the doorframe and on the two doorposts. Then Yahweh will pass over the door, and he will not let the destroyer come into your houses to strike you down.
+**23** When the LORD passes through to strike down the Egyptians, he will see the blood on the top of the doorframe and on the two doorposts. Then the LORD will pass over the door, and he will not let the destroyer come into your houses to strike you down.
 
 **24** You are to observe this as a decree for you and your descendants forever.
 
-**25** When you come into the land that Yahweh will give you, as he has promised, you are to observe this ceremony.[^12-15]
+**25** When you come into the land that the LORD will give you, as he has promised, you are to observe this ceremony.[^12-15]
 
 **26** And when your children ask you, 'What does this ceremony mean to you?'
 
-**27** you are to say, 'It is the Passover sacrifice to Yahweh, who passed over the houses of the Israelites in Egypt when he struck down the Egyptians, but spared our houses.'" Then the people bowed down and worshiped.
+**27** you are to say, 'It is the Passover sacrifice to the LORD, who passed over the houses of the Israelites in Egypt when he struck down the Egyptians, but spared our houses.'" Then the people bowed down and worshiped.
 
-**28** The Israelites went and did it. They did just as Yahweh had commanded Moses and Aaron.
+**28** The Israelites went and did it. They did just as the LORD had commanded Moses and Aaron.
 
-**29** At midnight Yahweh struck down every firstborn in the land of Egypt, from the firstborn of Pharaoh, who sat on his throne, to the firstborn of the prisoner in the dungeon, and every firstborn of the livestock.
+**29** At midnight the LORD struck down every firstborn in the land of Egypt, from the firstborn of Pharaoh, who sat on his throne, to the firstborn of the prisoner in the dungeon, and every firstborn of the livestock.
 
 **30** Pharaoh got up in the night, he and all his officials[^12-16] and all the Egyptians. There was a great cry in Egypt, for there was not a house without someone dead.
 
-**31** He summoned Moses and Aaron in the night and said, "Get up, get out from among my people, both you and the Israelites! Go, serve[^12-17] Yahweh, as you have asked.
+**31** He summoned Moses and Aaron in the night and said, "Get up, get out from among my people, both you and the Israelites! Go, serve[^12-17] the LORD, as you have asked.
 
 **32** Take your flocks and your herds too, as you have asked, and go. And bless me too."
 
@@ -847,7 +847,7 @@
 
 **35** The Israelites had done as Moses had told them. They had asked the Egyptians for objects of silver and gold and for clothing,
 
-**36** and Yahweh had made the Egyptians look with favor on the people,[^12-19] so they gave them what they asked for. So they plundered the Egyptians.
+**36** and the LORD had made the Egyptians look with favor on the people,[^12-19] so they gave them what they asked for. So they plundered the Egyptians.
 
 **37** The Israelites set out from Rameses for Succoth. There were about six hundred thousand[^12-20] men on foot, not counting the little ones.
 
@@ -857,11 +857,11 @@
 
 **40** The time that the Israelites had lived in Egypt was 430 years.[^12-21]
 
-**41** At the end of the 430 years, on that very day, all the divisions of Yahweh went out of the land of Egypt.
+**41** At the end of the 430 years, on that very day, all the divisions of the LORD went out of the land of Egypt.
 
-**42** It was a night of keeping watch for Yahweh, to bring them out of the land of Egypt. This same night belongs to Yahweh, a night of keeping watch for all the Israelites throughout their generations.[^12-22]
+**42** It was a night of keeping watch for the LORD, to bring them out of the land of Egypt. This same night belongs to the LORD, a night of keeping watch for all the Israelites throughout their generations.[^12-22]
 
-**43** Yahweh said to Moses and Aaron, "This is the decree for the Passover: No outsider[^12-23] may eat it.
+**43** The LORD said to Moses and Aaron, "This is the decree for the Passover: No outsider[^12-23] may eat it.
 
 **44** But any man's slave who has been bought with money may eat it after you have circumcised him.
 
@@ -871,15 +871,15 @@
 
 **47** The whole community of Israel is to keep it.
 
-**48** If a foreigner living among you wants to keep Yahweh's Passover, all the males in his household must be circumcised. Then he may come near and keep it, and he will be like someone born in the land. But no uncircumcised man may eat it.
+**48** If a foreigner living among you wants to keep the LORD's Passover, all the males in his household must be circumcised. Then he may come near and keep it, and he will be like someone born in the land. But no uncircumcised man may eat it.
 
 **49** The same law[^12-24] applies to the person born in the land and to the foreigner who lives among you."
 
-**50** All the Israelites did it. They did just as Yahweh had commanded Moses and Aaron.
+**50** All the Israelites did it. They did just as the LORD had commanded Moses and Aaron.
 
-**51** On that very day Yahweh brought the Israelites out of the land of Egypt, division by division.
+**51** On that very day the LORD brought the Israelites out of the land of Egypt, division by division.
 
-[^12-1]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^12-1]: *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles.
 [^12-2]: This month is called Abib in 13:4, and later Nisan. It falls in March–April.
 [^12-3]: Hebrew *seh*, a young animal from the flock, either a sheep or a goat (verse 5); also in verses 4 and 5.
 [^12-4]: Literally "for the house of the fathers".
@@ -897,10 +897,10 @@
 [^12-16]: Literally "servants".
 [^12-17]: Or "worship".
 [^12-18]: Hebrew *chazaq*, the verb used for Pharaoh's hardened heart.
-[^12-19]: Literally "Yahweh gave the people favor in the eyes of Egypt".
+[^12-19]: Literally "The LORD gave the people favor in the eyes of Egypt".
 [^12-20]: Hebrew *elef*, "thousand". Some scholars think the word here means a clan or military unit, which would give a much smaller number.
 [^12-21]: The Greek Septuagint reads "in the land of Egypt and in the land of Canaan", and the Samaritan Pentateuch "in the land of Canaan and in the land of Egypt". Compare Genesis 15:13 and Galatians 3:17.
-[^12-22]: Or "It was a night when Yahweh kept watch to bring them out of the land of Egypt. This same night is to be kept as a vigil to Yahweh by all the Israelites throughout their generations."
+[^12-22]: Or "It was a night when the LORD kept watch to bring them out of the land of Egypt. This same night is to be kept as a vigil to the LORD by all the Israelites throughout their generations."
 [^12-23]: Literally "son of a foreign land", someone who does not belong to the community. In verses 48–49 the word is *ger*, a foreigner who lives among the Israelites.
 [^12-24]: Hebrew *torah*, "instruction, law".
 
@@ -908,37 +908,37 @@
 
 *Status: draft*
 
-**1** Yahweh[^13-1] said to Moses,
+**1** The LORD[^13-1] said to Moses,
 
 **2** "Set apart to me as holy every firstborn, the first to open the womb among the Israelites, both people and animals. It belongs to me."
 
-**3** Moses said to the people, "Remember this day, the day you came out of Egypt, out of the place of slavery,[^13-2] for Yahweh brought you out of here by the strength of his hand. Nothing leavened is to be eaten.
+**3** Moses said to the people, "Remember this day, the day you came out of Egypt, out of the place of slavery,[^13-2] for the LORD brought you out of here by the strength of his hand. Nothing leavened is to be eaten.
 
 **4** Today you are going out, in the month of Abib.[^13-3]
 
-**5** When Yahweh brings you into the land of the Canaanites, Hittites, Amorites, Hivites and Jebusites, which he swore to your ancestors[^13-4] to give you, a land flowing with milk and honey, you are to observe this ceremony[^13-5] in this month.
+**5** When the LORD brings you into the land of the Canaanites, Hittites, Amorites, Hivites and Jebusites, which he swore to your ancestors[^13-4] to give you, a land flowing with milk and honey, you are to observe this ceremony[^13-5] in this month.
 
-**6** For seven days you are to eat unleavened bread, and on the seventh day there is to be a festival to Yahweh.
+**6** For seven days you are to eat unleavened bread, and on the seventh day there is to be a festival to the LORD.
 
 **7** Unleavened bread is to be eaten throughout the seven days. Nothing leavened is to be seen among you, and no yeast is to be seen anywhere in your territory.
 
-**8** On that day you are to tell your son, 'This is because of what Yahweh did for me when I came out of Egypt.'
+**8** On that day you are to tell your son, 'This is because of what the LORD did for me when I came out of Egypt.'
 
-**9** It will be a sign for you on your hand and a reminder on your forehead,[^13-6] so that Yahweh's instruction[^13-7] may be on your lips. For with a mighty hand Yahweh brought you out of Egypt.
+**9** It will be a sign for you on your hand and a reminder on your forehead,[^13-6] so that the LORD's instruction[^13-7] may be on your lips. For with a mighty hand the LORD brought you out of Egypt.
 
 **10** You are to keep this decree at its appointed time, year after year.
 
-**11** When Yahweh brings you into the land of the Canaanites, as he swore to you and to your ancestors, and gives it to you,
+**11** When the LORD brings you into the land of the Canaanites, as he swore to you and to your ancestors, and gives it to you,
 
-**12** you are to hand over[^13-8] to Yahweh every first to open the womb. Every firstborn that your animals bear belongs to Yahweh, if it is a male.
+**12** you are to hand over[^13-8] to the LORD every first to open the womb. Every firstborn that your animals bear belongs to the LORD, if it is a male.
 
 **13** Every firstborn donkey you must redeem with a lamb,[^13-9] and if you do not redeem it, you must break its neck. Every firstborn among your sons you must redeem.
 
-**14** In the future, when your son asks you, 'What does this mean?' you are to say to him, 'By the strength of his hand Yahweh brought us out of Egypt, out of the place of slavery.
+**14** In the future, when your son asks you, 'What does this mean?' you are to say to him, 'By the strength of his hand the LORD brought us out of Egypt, out of the place of slavery.
 
-**15** When Pharaoh was unyielding[^13-10] and would not let us go, Yahweh killed every firstborn in the land of Egypt, both the firstborn of people and the firstborn of animals. That is why I sacrifice to Yahweh every male that first opens the womb, but every firstborn of my sons I redeem.'
+**15** When Pharaoh was unyielding[^13-10] and would not let us go, the LORD killed every firstborn in the land of Egypt, both the firstborn of people and the firstborn of animals. That is why I sacrifice to the LORD every male that first opens the womb, but every firstborn of my sons I redeem.'
 
-**16** It will be a sign on your hand and a band on your forehead,[^13-11] for by the strength of his hand Yahweh brought us out of Egypt."
+**16** It will be a sign on your hand and a band on your forehead,[^13-11] for by the strength of his hand the LORD brought us out of Egypt."
 
 **17** When Pharaoh let the people go, God did not lead them by the road through the land of the Philistines, although that was the shorter way.[^13-12] For God said, "If they face war, the people may change their minds and go back to Egypt."
 
@@ -948,11 +948,11 @@
 
 **20** They set out from Succoth and camped at Etham, on the edge of the wilderness.
 
-**21** Yahweh went ahead of them, by day in a pillar of cloud to guide them on their way, and by night in a pillar of fire to give them light, so that they could travel by day and by night.
+**21** The LORD went ahead of them, by day in a pillar of cloud to guide them on their way, and by night in a pillar of fire to give them light, so that they could travel by day and by night.
 
 **22** The pillar of cloud by day and the pillar of fire by night never left its place in front of the people.
 
-[^13-1]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^13-1]: *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles.
 [^13-2]: Literally "out of the house of slaves"; also in verse 14.
 [^13-3]: *Abib* means "ear of grain". It falls in March–April. See 12:2.
 [^13-4]: Literally "fathers"; also in verse 11.
@@ -972,13 +972,13 @@
 
 *Status: draft*
 
-**1** Yahweh[^14-1] said to Moses,
+**1** The LORD[^14-1] said to Moses,
 
 **2** "Tell the Israelites to turn back and camp in front of Pi-hahiroth, between Migdol and the sea. You are to camp by the sea, in front of Baal-zephon, opposite it.
 
 **3** Pharaoh will say of the Israelites, 'They are wandering around the land in confusion. The wilderness has shut them in.'
 
-**4** I will harden[^14-2] Pharaoh's heart, and he will pursue them. Then I will gain glory[^14-3] for myself through Pharaoh and his whole army, and the Egyptians will know that I am Yahweh." And they did so.
+**4** I will harden[^14-2] Pharaoh's heart, and he will pursue them. Then I will gain glory[^14-3] for myself through Pharaoh and his whole army, and the Egyptians will know that I am the LORD." And they did so.
 
 **5** When the king of Egypt was told that the people had fled, Pharaoh and his officials[^14-4] changed their minds about the people. They said, "What have we done? We have let Israel go, and they will no longer serve us!"
 
@@ -986,55 +986,55 @@
 
 **7** He took six hundred select chariots, and all the other chariots of Egypt, with officers[^14-6] over all of them.
 
-**8** Yahweh hardened the heart of Pharaoh king of Egypt, and he pursued the Israelites, who were going out boldly.[^14-7]
+**8** The LORD hardened the heart of Pharaoh king of Egypt, and he pursued the Israelites, who were going out boldly.[^14-7]
 
 **9** The Egyptians pursued them, all Pharaoh's chariot horses, his horsemen[^14-8] and his army, and they overtook them as they were camped by the sea, near Pi-hahiroth, in front of Baal-zephon.
 
-**10** As Pharaoh came near, the Israelites looked up, and there were the Egyptians marching after them! They were terrified, and the Israelites cried out to Yahweh.
+**10** As Pharaoh came near, the Israelites looked up, and there were the Egyptians marching after them! They were terrified, and the Israelites cried out to the LORD.
 
 **11** They said to Moses, "Was it because there were no graves in Egypt that you have taken us away to die in the wilderness? What have you done to us, bringing us out of Egypt?
 
 **12** Isn't this what we told you in Egypt: 'Leave us alone, and let us serve the Egyptians'? It would have been better for us to serve the Egyptians than to die in the wilderness."
 
-**13** Moses said to the people, "Do not be afraid. Stand firm and see how Yahweh will save you today.[^14-9] The Egyptians you see today you will never see again.
+**13** Moses said to the people, "Do not be afraid. Stand firm and see how the LORD will save you today.[^14-9] The Egyptians you see today you will never see again.
 
-**14** Yahweh will fight for you. You need only to be still."
+**14** The LORD will fight for you. You need only to be still."
 
-**15** Then Yahweh said to Moses, "Why are you crying out to me? Tell the Israelites to move on.
+**15** Then the LORD said to Moses, "Why are you crying out to me? Tell the Israelites to move on.
 
 **16** As for you, raise your staff and stretch out your hand over the sea and split it, so that the Israelites can go through the middle of the sea on dry ground.
 
 **17** And I will harden the hearts of the Egyptians, and they will go in after them. Then I will gain glory for myself through Pharaoh and his whole army, his chariots and his horsemen.
 
-**18** The Egyptians will know that I am Yahweh when I have gained glory for myself through Pharaoh, his chariots and his horsemen."
+**18** The Egyptians will know that I am the LORD when I have gained glory for myself through Pharaoh, his chariots and his horsemen."
 
 **19** Then the angel[^14-10] of God, who had been going ahead of the camp of Israel, moved and went behind them. The pillar of cloud moved from in front of them and stood behind them.
 
 **20** It came between the camp of Egypt and the camp of Israel. There was the cloud and the darkness, and it lit up the night.[^14-11] So neither came near the other all night.
 
-**21** Then Moses stretched out his hand over the sea, and all that night Yahweh drove the sea back with a strong east wind and turned the sea into dry land. The waters were split,
+**21** Then Moses stretched out his hand over the sea, and all that night the LORD drove the sea back with a strong east wind and turned the sea into dry land. The waters were split,
 
 **22** and the Israelites went through the middle of the sea on dry ground, with the waters forming a wall for them on their right and on their left.
 
 **23** The Egyptians pursued them and went in after them into the middle of the sea, all Pharaoh's horses, his chariots and his horsemen.
 
-**24** In the morning watch,[^14-12] Yahweh looked down on the Egyptian army from the pillar of fire and cloud, and he threw the Egyptian army into confusion.
+**24** In the morning watch,[^14-12] the LORD looked down on the Egyptian army from the pillar of fire and cloud, and he threw the Egyptian army into confusion.
 
-**25** He made the wheels of their chariots come off,[^14-13] so that they drove with difficulty.[^14-14] The Egyptians said, "Let us flee from Israel, for Yahweh is fighting for them against Egypt!"
+**25** He made the wheels of their chariots come off,[^14-13] so that they drove with difficulty.[^14-14] The Egyptians said, "Let us flee from Israel, for the LORD is fighting for them against Egypt!"
 
-**26** Then Yahweh said to Moses, "Stretch out your hand over the sea, so that the waters may come back over the Egyptians, over their chariots and their horsemen."
+**26** Then the LORD said to Moses, "Stretch out your hand over the sea, so that the waters may come back over the Egyptians, over their chariots and their horsemen."
 
-**27** So Moses stretched out his hand over the sea, and at daybreak the sea went back to its normal place. The Egyptians were fleeing toward it, and Yahweh swept the Egyptians into the middle of the sea.
+**27** So Moses stretched out his hand over the sea, and at daybreak the sea went back to its normal place. The Egyptians were fleeing toward it, and the LORD swept the Egyptians into the middle of the sea.
 
 **28** The waters came back and covered the chariots and the horsemen, the whole army of Pharaoh that had gone into the sea after them. Not one of them was left.
 
 **29** But the Israelites had walked on dry ground through the middle of the sea, with the waters forming a wall for them on their right and on their left.
 
-**30** That day Yahweh saved Israel from the power[^14-15] of the Egyptians, and Israel saw the Egyptians lying dead on the seashore.
+**30** That day the LORD saved Israel from the power[^14-15] of the Egyptians, and Israel saw the Egyptians lying dead on the seashore.
 
-**31** When Israel saw the great power[^14-16] that Yahweh had shown against the Egyptians, the people feared Yahweh, and they believed in Yahweh and in his servant Moses.
+**31** When Israel saw the great power[^14-16] that the LORD had shown against the Egyptians, the people feared the LORD, and they believed in the LORD and in his servant Moses.
 
-[^14-1]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^14-1]: *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles.
 [^14-2]: Hebrew *chazaq*, "make strong, firm"; also in verses 8 and 17. On the verbs used for Pharaoh's heart, see the note on 4:21.
 [^14-3]: Hebrew *ikkavedah*, from *kaved*, "be heavy, be honored", the verb used elsewhere for Pharaoh's stubborn heart; also in verses 17 and 18.
 [^14-4]: Literally "servants".
@@ -1042,7 +1042,7 @@
 [^14-6]: Hebrew *shalishim*, perhaps "third men", the third soldier in a chariot.
 [^14-7]: Literally "with a raised hand".
 [^14-8]: Or "charioteers"; also in verses 17, 18, 23, 26 and 28.
-[^14-9]: Literally "see the salvation of Yahweh, which he will do for you today".
+[^14-9]: Literally "see the salvation of the LORD, which he will do for you today".
 [^14-10]: Or "messenger".
 [^14-11]: The Hebrew is difficult. It may mean that the cloud brought darkness to one side and light to the other. The Greek Septuagint reads "and there was darkness and gloom, and the night passed".
 [^14-12]: The last part of the night, before dawn.
@@ -1055,17 +1055,17 @@
 
 *Status: draft*
 
-**1** Then Moses and the Israelites sang this song to Yahweh.[^15-1] They said: "I will sing to Yahweh, for he has risen up in triumph.[^15-2] Horse and rider[^15-3] he has hurled into the sea.
+**1** Then Moses and the Israelites sang this song to the LORD.[^15-1] They said: "I will sing to the LORD, for he has risen up in triumph.[^15-2] Horse and rider[^15-3] he has hurled into the sea.
 
-**2** Yah[^15-4] is my strength and my song;[^15-5] he has become my salvation. This is my God, and I will praise him;[^15-6] the God of my father, and I will exalt him.
+**2** The LORD[^15-4] is my strength and my song;[^15-5] he has become my salvation. This is my God, and I will praise him;[^15-6] the God of my father, and I will exalt him.
 
-**3** Yahweh is a warrior;[^15-7] Yahweh is his name.
+**3** The LORD is a warrior;[^15-7] the LORD is his name.
 
 **4** Pharaoh's chariots and his army he has thrown into the sea. His best officers[^15-8] are drowned in the Red Sea.[^15-9]
 
 **5** The deep waters have covered them; they sank to the depths like a stone.
 
-**6** Your right hand, Yahweh, is majestic in power. Your right hand, Yahweh, shatters the enemy.
+**6** Your right hand, LORD, is majestic in power. Your right hand, LORD, shatters the enemy.
 
 **7** In the greatness of your majesty you overthrow those who rise against you. You send out your burning anger; it consumes them like stubble.
 
@@ -1075,7 +1075,7 @@
 
 **10** You blew with your breath,[^15-13] and the sea covered them. They sank like lead in the mighty waters.
 
-**11** Who is like you among the gods,[^15-14] Yahweh? Who is like you, majestic in holiness, awesome in glorious deeds, doing wonders?
+**11** Who is like you among the gods,[^15-14] LORD? Who is like you, majestic in holiness, awesome in glorious deeds, doing wonders?
 
 **12** You stretched out your right hand, and the earth swallowed them.
 
@@ -1085,17 +1085,17 @@
 
 **15** Then the chiefs of Edom were terrified; trembling seized the leaders[^15-16] of Moab; all the people of Canaan melted away.
 
-**16** Terror and dread fall on them. Because of the greatness of your arm they are as still as a stone, until your people pass by, Yahweh, until the people you have acquired[^15-17] pass by.
+**16** Terror and dread fall on them. Because of the greatness of your arm they are as still as a stone, until your people pass by, LORD, until the people you have acquired[^15-17] pass by.
 
-**17** You will bring them in and plant them on the mountain of your inheritance, the place, Yahweh, that you made for your dwelling, the sanctuary, Lord, that your hands established.
+**17** You will bring them in and plant them on the mountain of your inheritance, the place, LORD, that you made for your dwelling, the sanctuary, Lord, that your hands established.
 
-**18** Yahweh will reign forever and ever."
+**18** The LORD will reign forever and ever."
 
-**19** When Pharaoh's horses, with his chariots and his horsemen, went into the sea, Yahweh brought the waters of the sea back over them, but the Israelites walked on dry ground through the middle of the sea.
+**19** When Pharaoh's horses, with his chariots and his horsemen, went into the sea, the LORD brought the waters of the sea back over them, but the Israelites walked on dry ground through the middle of the sea.
 
 **20** Then Miriam the prophet,[^15-18] Aaron's sister, took a tambourine in her hand, and all the women went out after her with tambourines and dancing.
 
-**21** Miriam sang to them:[^15-19] "Sing to Yahweh, for he has risen up in triumph. Horse and rider he has hurled into the sea."
+**21** Miriam sang to them:[^15-19] "Sing to the LORD, for he has risen up in triumph. Horse and rider he has hurled into the sea."
 
 **22** Then Moses led Israel on from the Red Sea, and they went out into the wilderness of Shur. They traveled for three days in the wilderness and found no water.
 
@@ -1103,16 +1103,16 @@
 
 **24** The people grumbled against Moses and said, "What are we to drink?"
 
-**25** He cried out to Yahweh, and Yahweh showed him a piece of wood.[^15-21] He threw it into the water, and the water became sweet. There Yahweh gave them a decree and a ruling,[^15-22] and there he tested them.
+**25** He cried out to the LORD, and the LORD showed him a piece of wood.[^15-21] He threw it into the water, and the water became sweet. There the LORD gave them a decree and a ruling,[^15-22] and there he tested them.
 
-**26** He said, "If you listen carefully to the voice of Yahweh your God and do what is right in his eyes, if you pay attention to his commands and keep all his decrees, I will not bring on you any of the diseases I brought on the Egyptians, for I am Yahweh who heals you."
+**26** He said, "If you listen carefully to the voice of the LORD your God and do what is right in his eyes, if you pay attention to his commands and keep all his decrees, I will not bring on you any of the diseases I brought on the Egyptians, for I am the LORD who heals you."
 
 **27** Then they came to Elim, where there were twelve springs of water and seventy palm trees, and they camped there by the water.
 
-[^15-1]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^15-1]: *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles.
 [^15-2]: Hebrew *ga'oh ga'ah*, "he has risen up high", "he has triumphed gloriously"; also in verse 21.
 [^15-3]: Or "horse and its chariot driver"; also in verse 21.
-[^15-4]: Hebrew *Yah*, a short form of the name Yahweh, as in *hallelu-yah*, "praise Yah".
+[^15-4]: Hebrew *Yah*, a short form of the name YHWH, as in *hallelu-yah*, "praise Yah".
 [^15-5]: Or "my might", "my protection". Hebrew *zimrah*.
 [^15-6]: The meaning of the Hebrew verb is uncertain. Traditionally "I will glorify him"; perhaps "I will make him a home".
 [^15-7]: Literally "a man of war".
@@ -1140,33 +1140,33 @@
 
 **2** In the wilderness the whole community of the Israelites grumbled against Moses and Aaron.
 
-**3** The Israelites said to them, "If only we had died by the hand of Yahweh[^16-1] in the land of Egypt, when we sat by the pots of meat and ate all the bread we wanted! But you have brought us out into this wilderness to kill this whole assembly with hunger."
+**3** The Israelites said to them, "If only we had died by the hand of the LORD[^16-1] in the land of Egypt, when we sat by the pots of meat and ate all the bread we wanted! But you have brought us out into this wilderness to kill this whole assembly with hunger."
 
-**4** Then Yahweh said to Moses, "I am going to rain down bread from heaven for you. The people are to go out each day and gather enough for that day. In this way I will test them, to see whether they will follow my instructions[^16-2] or not.
+**4** Then the LORD said to Moses, "I am going to rain down bread from heaven for you. The people are to go out each day and gather enough for that day. In this way I will test them, to see whether they will follow my instructions[^16-2] or not.
 
 **5** On the sixth day, when they prepare what they bring in, it will be twice as much as they gather on other days."
 
-**6** So Moses and Aaron said to all the Israelites, "This evening you will know that it was Yahweh who brought you out of the land of Egypt,
+**6** So Moses and Aaron said to all the Israelites, "This evening you will know that it was the LORD who brought you out of the land of Egypt,
 
-**7** and in the morning you will see the glory[^16-3] of Yahweh, because he has heard your grumbling against Yahweh. Who are we, that you grumble against us?"
+**7** and in the morning you will see the glory[^16-3] of the LORD, because he has heard your grumbling against the LORD. Who are we, that you grumble against us?"
 
-**8** Moses also said, "You will know it when Yahweh gives you meat to eat in the evening and all the bread you want in the morning, because Yahweh has heard the grumbling you are directing against him. Who are we? Your grumbling is not against us, but against Yahweh."
+**8** Moses also said, "You will know it when the LORD gives you meat to eat in the evening and all the bread you want in the morning, because the LORD has heard the grumbling you are directing against him. Who are we? Your grumbling is not against us, but against the LORD."
 
-**9** Then Moses said to Aaron, "Say to the whole community of the Israelites, 'Come near before Yahweh, for he has heard your grumbling.'"
+**9** Then Moses said to Aaron, "Say to the whole community of the Israelites, 'Come near before the LORD, for he has heard your grumbling.'"
 
-**10** While Aaron was speaking to the whole community of the Israelites, they turned toward the wilderness, and there was the glory of Yahweh appearing in the cloud.
+**10** While Aaron was speaking to the whole community of the Israelites, they turned toward the wilderness, and there was the glory of the LORD appearing in the cloud.
 
-**11** Yahweh said to Moses,
+**11** The LORD said to Moses,
 
-**12** "I have heard the grumbling of the Israelites. Tell them, 'At twilight[^16-4] you will eat meat, and in the morning you will have your fill of bread. Then you will know that I am Yahweh your God.'"
+**12** "I have heard the grumbling of the Israelites. Tell them, 'At twilight[^16-4] you will eat meat, and in the morning you will have your fill of bread. Then you will know that I am the LORD your God.'"
 
 **13** That evening quail came up and covered the camp, and in the morning there was a layer of dew around the camp.
 
 **14** When the layer of dew had gone, there on the surface of the wilderness was something fine and flaky,[^16-5] as fine as frost on the ground.
 
-**15** When the Israelites saw it, they said to one another, "What is it?"[^16-6] For they did not know what it was. Moses said to them, "It is the bread that Yahweh has given you to eat.
+**15** When the Israelites saw it, they said to one another, "What is it?"[^16-6] For they did not know what it was. Moses said to them, "It is the bread that the LORD has given you to eat.
 
-**16** This is what Yahweh has commanded: 'Each of you is to gather as much of it as he needs to eat, an omer[^16-7] for each person.[^16-8] Each of you is to take it for the number of people in his tent.'"
+**16** This is what the LORD has commanded: 'Each of you is to gather as much of it as he needs to eat, an omer[^16-7] for each person.[^16-8] Each of you is to take it for the number of people in his tent.'"
 
 **17** The Israelites did so. Some gathered more and some less.
 
@@ -1180,35 +1180,35 @@
 
 **22** On the sixth day they gathered twice as much bread, two omers for each person. All the leaders of the community came and told Moses.
 
-**23** He said to them, "This is what Yahweh said: 'Tomorrow is a day of complete rest, a holy Sabbath[^16-9] to Yahweh. Bake what you want to bake and boil what you want to boil, and set aside whatever is left over to be kept until morning.'"
+**23** He said to them, "This is what the LORD said: 'Tomorrow is a day of complete rest, a holy Sabbath[^16-9] to the LORD. Bake what you want to bake and boil what you want to boil, and set aside whatever is left over to be kept until morning.'"
 
 **24** So they set it aside until morning, as Moses had commanded, and it did not stink, and there were no maggots in it.
 
-**25** Moses said, "Eat it today, because today is a Sabbath to Yahweh. Today you will not find any in the field.
+**25** Moses said, "Eat it today, because today is a Sabbath to the LORD. Today you will not find any in the field.
 
 **26** For six days you are to gather it, but on the seventh day, the Sabbath, there will be none."
 
 **27** Yet on the seventh day some of the people went out to gather it, but they found none.
 
-**28** Then Yahweh said to Moses, "How long will you all refuse to keep my commands and my instructions?
+**28** Then the LORD said to Moses, "How long will you all refuse to keep my commands and my instructions?
 
-**29** See, Yahweh has given you the Sabbath. That is why on the sixth day he gives you bread for two days. Each of you is to stay where he is. No one is to leave his place on the seventh day."
+**29** See, the LORD has given you the Sabbath. That is why on the sixth day he gives you bread for two days. Each of you is to stay where he is. No one is to leave his place on the seventh day."
 
 **30** So the people rested on the seventh day.
 
 **31** The house of Israel called it manna.[^16-10] It was like coriander seed, white, and it tasted like wafers made with honey.
 
-**32** Moses said, "This is what Yahweh has commanded: 'Keep a full omer of it throughout your generations, so that they can see the bread I fed you in the wilderness when I brought you out of the land of Egypt.'"
+**32** Moses said, "This is what the LORD has commanded: 'Keep a full omer of it throughout your generations, so that they can see the bread I fed you in the wilderness when I brought you out of the land of Egypt.'"
 
-**33** So Moses said to Aaron, "Take a jar and put a full omer of manna in it. Then place it before Yahweh, to be kept throughout your generations."
+**33** So Moses said to Aaron, "Take a jar and put a full omer of manna in it. Then place it before the LORD, to be kept throughout your generations."
 
-**34** As Yahweh had commanded Moses, Aaron placed it in front of the testimony,[^16-11] to be kept.
+**34** As the LORD had commanded Moses, Aaron placed it in front of the testimony,[^16-11] to be kept.
 
 **35** The Israelites ate manna for forty years, until they came to a land where people lived. They ate manna until they came to the border of the land of Canaan.
 
 **36** An omer is a tenth of an ephah.[^16-12]
 
-[^16-1]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^16-1]: *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles.
 [^16-2]: Hebrew *torah*, "instruction, law"; also in verse 28.
 [^16-3]: Hebrew *kavod*, "weight, honor, glory", from the same root as *kaved*, "be heavy"; also in verse 10.
 [^16-4]: Literally "between the two evenings"; see 12:6.
@@ -1225,19 +1225,19 @@
 
 *Status: draft*
 
-**1** The whole community of the Israelites set out from the wilderness of Sin, moving from place to place as Yahweh[^17-1] commanded.[^17-2] They camped at Rephidim, but there was no water for the people to drink.
+**1** The whole community of the Israelites set out from the wilderness of Sin, moving from place to place as the LORD[^17-1] commanded.[^17-2] They camped at Rephidim, but there was no water for the people to drink.
 
-**2** So the people quarreled with Moses and said, "Give us water to drink." Moses said to them, "Why are you quarreling with me? Why are you testing Yahweh?"
+**2** So the people quarreled with Moses and said, "Give us water to drink." Moses said to them, "Why are you quarreling with me? Why are you testing the LORD?"
 
 **3** But the people were thirsty for water there, and the people grumbled against Moses. They said, "Why did you bring us up out of Egypt, to kill us and our children and our livestock with thirst?"[^17-3]
 
-**4** Then Moses cried out to Yahweh, "What am I to do with this people? A little more and they will stone me!"
+**4** Then Moses cried out to the LORD, "What am I to do with this people? A little more and they will stone me!"
 
-**5** Yahweh said to Moses, "Go on ahead of the people, and take some of the elders of Israel with you. Take in your hand the staff with which you struck the Nile, and go.
+**5** The LORD said to Moses, "Go on ahead of the people, and take some of the elders of Israel with you. Take in your hand the staff with which you struck the Nile, and go.
 
 **6** I will stand there in front of you on the rock at Horeb. Strike the rock, and water will come out of it, and the people will drink." Moses did so in the sight of the elders of Israel.
 
-**7** He named the place Massah and Meribah,[^17-4] because the Israelites quarreled and because they tested Yahweh, saying, "Is Yahweh among us or not?"
+**7** He named the place Massah and Meribah,[^17-4] because the Israelites quarreled and because they tested the LORD, saying, "Is the LORD among us or not?"
 
 **8** Then Amalek[^17-5] came and fought against Israel at Rephidim.
 
@@ -1251,28 +1251,28 @@
 
 **13** So Joshua defeated Amalek and his army[^17-7] with the sword.
 
-**14** Then Yahweh said to Moses, "Write this in a book to be remembered, and make sure that Joshua hears it:[^17-8] I will completely wipe out the memory of Amalek from under heaven."
+**14** Then the LORD said to Moses, "Write this in a book to be remembered, and make sure that Joshua hears it:[^17-8] I will completely wipe out the memory of Amalek from under heaven."
 
-**15** Moses built an altar and named it Yahweh Is My Banner.[^17-9]
+**15** Moses built an altar and named it The LORD Is My Banner.[^17-9]
 
-**16** He said, "A hand was raised against the throne of Yah![^17-10] Yahweh will be at war with Amalek from generation to generation."
+**16** He said, "A hand was raised against the throne of the LORD![^17-10] The LORD will be at war with Amalek from generation to generation."
 
-[^17-1]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
-[^17-2]: Literally "by their stages, at the mouth of Yahweh".
+[^17-1]: *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles.
+[^17-2]: Literally "by their stages, at the mouth of the LORD".
 [^17-3]: Literally "to kill me and my children and my livestock". The people speak as one person.
 [^17-4]: *Massah* means "testing" and *Meribah* "quarreling".
 [^17-5]: The Amalekites, a desert people descended from Esau's grandson Amalek (Genesis 36:12).
 [^17-6]: Literally "heavy". Hebrew *kaved*.
 [^17-7]: Literally "his people".
 [^17-8]: Literally "put it in the ears of Joshua".
-[^17-9]: Hebrew *Yahweh nissi*.
-[^17-10]: The Hebrew is uncertain. Literally "for a hand on (or against) the throne of Yah". It may be an oath sworn with the hand raised to God's throne. Many scholars read *nes*, "banner", for the unusual word *kes*, "throne", which gives "A hand on the banner of Yah!" and matches the name in verse 15. *Yah* is a short form of the name Yahweh.
+[^17-9]: Hebrew *YHWH nissi*.
+[^17-10]: The Hebrew is uncertain. Literally "for a hand on (or against) the throne of Yah". It may be an oath sworn with the hand raised to God's throne. Many scholars read *nes*, "banner", for the unusual word *kes*, "throne", which gives "A hand on the banner of Yah!" and matches the name in verse 15. *Yah* is a short form of the name YHWH.
 
 ## Chapter 18
 
 *Status: draft*
 
-**1** Jethro, the priest of Midian and Moses' father-in-law, heard about everything God had done for Moses and for his people Israel, how Yahweh[^18-1] had brought Israel out of Egypt.
+**1** Jethro, the priest of Midian and Moses' father-in-law, heard about everything God had done for Moses and for his people Israel, how the LORD[^18-1] had brought Israel out of Egypt.
 
 **2** So Jethro, Moses' father-in-law, took Zipporah, Moses' wife, after Moses had sent her away,[^18-2]
 
@@ -1286,13 +1286,13 @@
 
 **7** Moses went out to meet his father-in-law. He bowed down and kissed him, and they asked each other how they were.[^18-6] Then they went into the tent.
 
-**8** Moses told his father-in-law everything Yahweh had done to Pharaoh and to the Egyptians for Israel's sake, all the hardships that had come on them along the way, and how Yahweh had rescued them.
+**8** Moses told his father-in-law everything the LORD had done to Pharaoh and to the Egyptians for Israel's sake, all the hardships that had come on them along the way, and how the LORD had rescued them.
 
-**9** Jethro rejoiced over all the good that Yahweh had done for Israel in rescuing them from the power[^18-7] of the Egyptians.
+**9** Jethro rejoiced over all the good that the LORD had done for Israel in rescuing them from the power[^18-7] of the Egyptians.
 
-**10** Jethro said, "Blessed be Yahweh, who has rescued you from the power of the Egyptians and from the power of Pharaoh, who has rescued the people from under the power of the Egyptians.
+**10** Jethro said, "Blessed be the LORD, who has rescued you from the power of the Egyptians and from the power of Pharaoh, who has rescued the people from under the power of the Egyptians.
 
-**11** Now I know that Yahweh is greater than all the gods, because of what happened when they acted arrogantly against them."[^18-8]
+**11** Now I know that the LORD is greater than all the gods, because of what happened when they acted arrogantly against them."[^18-8]
 
 **12** Then Jethro, Moses' father-in-law, brought a burnt offering and sacrifices to God, and Aaron came with all the elders of Israel to eat a meal[^18-9] with Moses' father-in-law in the presence of God.
 
@@ -1326,7 +1326,7 @@
 
 **27** Then Moses let his father-in-law go, and he went back to his own land.
 
-[^18-1]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^18-1]: *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles.
 [^18-2]: Literally "after her sending away". The earlier chapters do not tell when this happened; compare 4:20–26.
 [^18-3]: See 2:22. *Gershom* sounds like *ger sham*, "a foreigner there".
 [^18-4]: *Eliezer* means "My God is help".
@@ -1348,7 +1348,7 @@
 
 **2** They had set out from Rephidim, and they came to the wilderness of Sinai and camped in the wilderness. Israel camped there in front of the mountain.
 
-**3** Then Moses went up to God, and Yahweh[^19-2] called to him from the mountain: "This is what you are to say to the house of Jacob and tell the Israelites:
+**3** Then Moses went up to God, and the LORD[^19-2] called to him from the mountain: "This is what you are to say to the house of Jacob and tell the Israelites:
 
 **4** 'You have seen for yourselves what I did to the Egyptians, and how I carried you on eagles'[^19-3] wings and brought you to myself.
 
@@ -1356,15 +1356,15 @@
 
 **6** You will be for me a kingdom of priests and a holy nation.' These are the words you are to speak to the Israelites."
 
-**7** So Moses came and summoned the elders of the people and set before them all these words that Yahweh had commanded him.
+**7** So Moses came and summoned the elders of the people and set before them all these words that the LORD had commanded him.
 
-**8** All the people answered together, "We will do everything Yahweh has said." And Moses took the people's answer back to Yahweh.
+**8** All the people answered together, "We will do everything the LORD has said." And Moses took the people's answer back to the LORD.
 
-**9** Yahweh said to Moses, "I am going to come to you in a thick cloud, so that the people will hear when I speak with you, and will always believe you." Then Moses told Yahweh what the people had said.
+**9** The LORD said to Moses, "I am going to come to you in a thick cloud, so that the people will hear when I speak with you, and will always believe you." Then Moses told the LORD what the people had said.
 
-**10** Yahweh said to Moses, "Go to the people and consecrate them[^19-6] today and tomorrow. Have them wash their clothes
+**10** The LORD said to Moses, "Go to the people and consecrate them[^19-6] today and tomorrow. Have them wash their clothes
 
-**11** and be ready by the third day, for on the third day Yahweh will come down on Mount Sinai in the sight of all the people.
+**11** and be ready by the third day, for on the third day the LORD will come down on Mount Sinai in the sight of all the people.
 
 **12** Set limits for the people all around, and say, 'Be careful not to go up the mountain or touch its edge. Whoever touches the mountain must be put to death.
 
@@ -1378,24 +1378,24 @@
 
 **17** Then Moses brought the people out of the camp to meet God, and they stood at the foot of the mountain.
 
-**18** Mount Sinai was all in smoke, because Yahweh had come down on it in fire. Its smoke went up like the smoke of a kiln, and the whole mountain shook violently.[^19-11]
+**18** Mount Sinai was all in smoke, because the LORD had come down on it in fire. Its smoke went up like the smoke of a kiln, and the whole mountain shook violently.[^19-11]
 
 **19** As the sound of the ram's horn grew louder and louder, Moses spoke, and God answered him in thunder.[^19-12]
 
-**20** Yahweh came down on Mount Sinai, on the top of the mountain. Yahweh called Moses to the top of the mountain, and Moses went up.
+**20** The LORD came down on Mount Sinai, on the top of the mountain. The LORD called Moses to the top of the mountain, and Moses went up.
 
-**21** Yahweh said to Moses, "Go down and warn the people not to force their way through to Yahweh to look, or many of them will die.[^19-13]
+**21** The LORD said to Moses, "Go down and warn the people not to force their way through to the LORD to look, or many of them will die.[^19-13]
 
-**22** Even the priests who come near Yahweh must consecrate themselves, or Yahweh will break out against them."
+**22** Even the priests who come near the LORD must consecrate themselves, or the LORD will break out against them."
 
-**23** Moses said to Yahweh, "The people cannot come up Mount Sinai, for you yourself warned us, 'Set limits around the mountain and make it holy.'"
+**23** Moses said to the LORD, "The people cannot come up Mount Sinai, for you yourself warned us, 'Set limits around the mountain and make it holy.'"
 
-**24** Yahweh said to him, "Go down, and then come up, you and Aaron with you. But the priests and the people must not force their way through to come up to Yahweh, or he will break out against them."
+**24** The LORD said to him, "Go down, and then come up, you and Aaron with you. But the priests and the people must not force their way through to come up to the LORD, or he will break out against them."
 
 **25** So Moses went down to the people and spoke to them.[^19-14]
 
 [^19-1]: Literally "on this day", probably the first day of the month.
-[^19-2]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^19-2]: *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles.
 [^19-3]: Hebrew *nesher*, an eagle or a griffon vulture.
 [^19-4]: Literally "if you truly listen to my voice".
 [^19-5]: Hebrew *segullah*, a personal treasure, a king's own property.
@@ -1415,27 +1415,27 @@
 
 **1** Then God spoke all these words:[^20-1]
 
-**2** "I am Yahweh[^20-2] your God, who brought you out of the land of Egypt, out of the place of slavery.[^20-3]
+**2** "I am the LORD[^20-2] your God, who brought you out of the land of Egypt, out of the place of slavery.[^20-3]
 
 **3** You must have no other gods besides me.[^20-4]
 
 **4** You must not make for yourself an idol,[^20-5] or an image of anything in the heavens above, or on the earth below, or in the waters under the earth.
 
-**5** You must not bow down to them or serve them,[^20-6] for I, Yahweh your God, am a jealous God.[^20-7] I punish children for the wrongdoing of their parents,[^20-8] to the third and the fourth generation of those who hate me,
+**5** You must not bow down to them or serve them,[^20-6] for I, the LORD your God, am a jealous God.[^20-7] I punish children for the wrongdoing of their parents,[^20-8] to the third and the fourth generation of those who hate me,
 
 **6** but I show faithful love[^20-9] to thousands[^20-10] of those who love me and keep my commands.
 
-**7** You must not misuse the name of Yahweh your God,[^20-11] for Yahweh will not leave unpunished anyone who misuses his name.
+**7** You must not misuse the name of the LORD your God,[^20-11] for the LORD will not leave unpunished anyone who misuses his name.
 
 **8** Remember the Sabbath day, to keep it holy.
 
 **9** For six days you are to work and do all your work,
 
-**10** but the seventh day is a Sabbath to Yahweh your God. On it you must not do any work, neither you, nor your son or your daughter, nor your male or female slave,[^20-12] nor your livestock, nor the foreigner who lives in your towns.[^20-13]
+**10** but the seventh day is a Sabbath to the LORD your God. On it you must not do any work, neither you, nor your son or your daughter, nor your male or female slave,[^20-12] nor your livestock, nor the foreigner who lives in your towns.[^20-13]
 
-**11** For in six days Yahweh made the heavens and the earth, the sea and everything in them, and he rested on the seventh day. That is why Yahweh blessed the Sabbath day and made it holy.
+**11** For in six days the LORD made the heavens and the earth, the sea and everything in them, and he rested on the seventh day. That is why the LORD blessed the Sabbath day and made it holy.
 
-**12** Honor[^20-14] your father and your mother, so that you may live long in the land that Yahweh your God is giving you.
+**12** Honor[^20-14] your father and your mother, so that you may live long in the land that the LORD your God is giving you.
 
 **13** You must not murder.[^20-15]
 
@@ -1455,7 +1455,7 @@
 
 **21** So the people stood at a distance, while Moses went near to the thick darkness where God was.
 
-**22** Then Yahweh said to Moses, "This is what you are to say to the Israelites: 'You have seen for yourselves that I have spoken to you from heaven.
+**22** Then the LORD said to Moses, "This is what you are to say to the Israelites: 'You have seen for yourselves that I have spoken to you from heaven.
 
 **23** You must not make anything to set beside me. You must not make for yourselves gods of silver or gods of gold.[^20-20]
 
@@ -1466,7 +1466,7 @@
 **26** And do not go up to my altar by steps, so that your nakedness is not exposed on it.'"
 
 [^20-1]: Verses 2–17 are called "the ten words" (34:28; Deuteronomy 4:13; 10:4), traditionally the Ten Commandments. Traditions count them differently. In Jewish tradition verse 2 is the first word and verses 3–6 the second; in many Christian traditions verse 3 is the first commandment and verses 4–6 the second; in Catholic and Lutheran tradition verses 3–6 are the first and verse 17 is divided into two. In verses 2–17 the Hebrew text carries two sets of accents. One divides the passage into verses as numbered here, which is the numbering of the Leningrad Codex and of most English Bibles. The other, used for public reading, treats each commandment as a single unit, so some Jewish editions number the verses of this passage differently.
-[^20-2]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^20-2]: *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles.
 [^20-3]: Literally "out of the house of slaves".
 [^20-4]: Or "before me", "in my presence". Hebrew *al panai*, literally "on my face".
 [^20-5]: Hebrew *pesel*, a carved image.
@@ -1475,7 +1475,7 @@
 [^20-8]: Literally "visiting the wrongdoing of fathers on sons".
 [^20-9]: Hebrew *chesed*: loyal, faithful love.
 [^20-10]: Or "to a thousand generations".
-[^20-11]: Literally "You must not lift up the name of Yahweh your God for emptiness", traditionally "take the name … in vain". This includes using God's name in a false oath or for no good purpose; likewise later in the verse.
+[^20-11]: Literally "You must not lift up the name of the LORD your God for emptiness", traditionally "take the name … in vain". This includes using God's name in a false oath or for no good purpose; likewise later in the verse.
 [^20-12]: Or "servant". Hebrew *eved*, *amah*; also in verse 17.
 [^20-13]: Literally "within your gates". Hebrew *ger*, a foreigner who lives among the Israelites.
 [^20-14]: Hebrew *kabbed*, from *kaved*, "be heavy": to give weight to, to respect.
@@ -1609,7 +1609,7 @@
 
 **9** If a man gives his neighbor a donkey, an ox, a sheep or any other animal to keep safe, and it dies or is injured or is carried off while no one is looking,
 
-**10** an oath before Yahweh[^22-6] is to settle the matter between them, that he has not laid his hand on his neighbor's property. Its owner must accept this, and he does not have to make restitution.
+**10** an oath before the LORD[^22-6] is to settle the matter between them, that he has not laid his hand on his neighbor's property. Its owner must accept this, and he does not have to make restitution.
 
 **11** But if it was actually stolen from him, he must make restitution to its owner.
 
@@ -1627,7 +1627,7 @@
 
 **18** Whoever has sexual relations with an animal must be put to death.
 
-**19** Whoever sacrifices to any god other than Yahweh alone must be destroyed.[^22-10]
+**19** Whoever sacrifices to any god other than the LORD alone must be destroyed.[^22-10]
 
 **20** You must not mistreat or oppress a foreigner,[^22-11] for you were foreigners in the land of Egypt.
 
@@ -1656,7 +1656,7 @@
 [^22-3]: Hebrew *seh*, a sheep or a goat; also in verses 8 and 9.
 [^22-4]: Hebrew *ba'ar*, which can mean "graze" or "burn". Some understand verse 4 as "If a man burns off a field or vineyard and lets the fire spread …", to match verse 5.
 [^22-5]: Or "the judges". Hebrew *ha-elohim*, "God"; also twice in verse 8. See the note on 21:6.
-[^22-6]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^22-6]: *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles.
 [^22-7]: Literally "it came for its hire". Or "If he is a hired worker, the loss is covered by his wages".
 [^22-8]: Hebrew *mohar*, the payment a man gave to the family of the woman he married.
 [^22-9]: Literally "weigh out".
@@ -1703,11 +1703,11 @@
 
 **16** Keep the Festival of Harvest, with the first produce of your work, of what you sow in the field. And keep the Festival of Ingathering at the end of the year,[^23-13] when you gather in the produce of your work from the field.[^23-14]
 
-**17** Three times a year all your males are to appear before the Lord Yahweh.[^23-15]
+**17** Three times a year all your males are to appear before the Lord GOD.[^23-15]
 
 **18** Do not offer the blood of my sacrifice with anything that contains yeast. And the fat of my festival offering must not be left overnight until morning.
 
-**19** Bring the best of the firstfruits of your soil to the house of Yahweh your God. Do not boil a young goat in its mother's milk.
+**19** Bring the best of the firstfruits of your soil to the house of the LORD your God. Do not boil a young goat in its mother's milk.
 
 **20** Look, I am sending an angel[^23-16] ahead of you to guard you on the way and to bring you to the place I have prepared.
 
@@ -1719,7 +1719,7 @@
 
 **24** Do not bow down to their gods or serve them, and do not follow their practices.[^23-18] You must tear them down completely and smash their standing stones to pieces.[^23-19]
 
-**25** Serve Yahweh your God, and he will bless your bread and your water.[^23-20] I will take sickness away from among you.
+**25** Serve the LORD your God, and he will bless your bread and your water.[^23-20] I will take sickness away from among you.
 
 **26** No woman in your land will miscarry or be unable to have children. I will give you a full life span.[^23-21]
 
@@ -1751,7 +1751,7 @@
 [^23-12]: Literally "My face is not to be seen empty-handed."
 [^23-13]: Literally "at the going out of the year".
 [^23-14]: The Festival of Harvest is called the Festival of Weeks in 34:22, and the Festival of Ingathering is later called the Festival of Shelters (Leviticus 23:34).
-[^23-15]: Hebrew *ha-adon YHWH*. *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^23-15]: Hebrew *ha-adon YHWH*. *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles.
 [^23-16]: Or "a messenger". Hebrew *mal'akh* means both. Also in verse 23.
 [^23-17]: Or "Do not provoke him".
 [^23-18]: Literally "do not do according to their works".
@@ -1768,21 +1768,21 @@
 
 *Status: draft*
 
-**1** Then he said to Moses,[^24-1] "Come up to Yahweh,[^24-2] you and Aaron, Nadab and Abihu, and seventy of the elders of Israel. Bow down in worship at a distance.
+**1** Then he said to Moses,[^24-1] "Come up to the LORD,[^24-2] you and Aaron, Nadab and Abihu, and seventy of the elders of Israel. Bow down in worship at a distance.
 
-**2** Moses alone is to come near to Yahweh. The others must not come near, and the people must not come up with him."
+**2** Moses alone is to come near to the LORD. The others must not come near, and the people must not come up with him."
 
-**3** Moses came and told the people all Yahweh's words and all the rulings.[^24-3] All the people answered with one voice, "We will do everything Yahweh has said."
+**3** Moses came and told the people all the LORD's words and all the rulings.[^24-3] All the people answered with one voice, "We will do everything the LORD has said."
 
-**4** Then Moses wrote down all Yahweh's words. He got up early in the morning and built an altar at the foot of the mountain, and set up twelve standing stones[^24-4] for the twelve tribes of Israel.
+**4** Then Moses wrote down all the LORD's words. He got up early in the morning and built an altar at the foot of the mountain, and set up twelve standing stones[^24-4] for the twelve tribes of Israel.
 
-**5** He sent some young men of the Israelites, and they offered burnt offerings and sacrificed bulls to Yahweh as fellowship offerings.[^24-5]
+**5** He sent some young men of the Israelites, and they offered burnt offerings and sacrificed bulls to the LORD as fellowship offerings.[^24-5]
 
 **6** Moses took half of the blood and put it in bowls, and the other half of the blood he splashed against the altar.
 
-**7** Then he took the Book of the Covenant[^24-6] and read it aloud to the people.[^24-7] They said, "We will do everything Yahweh has said, and we will obey."[^24-8]
+**7** Then he took the Book of the Covenant[^24-6] and read it aloud to the people.[^24-7] They said, "We will do everything the LORD has said, and we will obey."[^24-8]
 
-**8** Moses took the blood and splashed it on the people. He said, "This is the blood of the covenant that Yahweh has made with you on the basis of all these words."
+**8** Moses took the blood and splashed it on the people. He said, "This is the blood of the covenant that the LORD has made with you on the basis of all these words."
 
 **9** Then Moses and Aaron, Nadab and Abihu, and seventy of the elders of Israel went up.
 
@@ -1790,7 +1790,7 @@
 
 **11** But God did not lay a hand on these leaders of the Israelites.[^24-11] They saw God,[^24-12] and they ate and drank.
 
-**12** Yahweh said to Moses, "Come up to me on the mountain and stay there. I will give you the stone tablets with the instruction and the commandment that I have written to teach them."[^24-13]
+**12** The LORD said to Moses, "Come up to me on the mountain and stay there. I will give you the stone tablets with the instruction and the commandment that I have written to teach them."[^24-13]
 
 **13** So Moses set out with Joshua his assistant, and Moses went up the mountain of God.
 
@@ -1798,16 +1798,16 @@
 
 **15** When Moses went up the mountain, the cloud covered the mountain.
 
-**16** The glory of Yahweh settled[^24-14] on Mount Sinai, and the cloud covered it for six days. On the seventh day he called to Moses from inside the cloud.
+**16** The glory of the LORD settled[^24-14] on Mount Sinai, and the cloud covered it for six days. On the seventh day he called to Moses from inside the cloud.
 
-**17** To the Israelites, the glory of Yahweh looked like a consuming fire on the top of the mountain.[^24-15]
+**17** To the Israelites, the glory of the LORD looked like a consuming fire on the top of the mountain.[^24-15]
 
 **18** Moses went into the cloud and went up the mountain. He was on the mountain for forty days and forty nights.
 
-[^24-1]: The speaker is Yahweh, though he speaks of himself in the third person in this verse.
-[^24-2]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^24-1]: The speaker is the LORD, though he speaks of himself in the third person in this verse.
+[^24-2]: *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles.
 [^24-3]: Hebrew *mishpatim*, "judgments, rulings": the laws of 21:1–23:19.
-[^24-4]: Hebrew *matsevot*, as in 23:24, but here set up for the worship of Yahweh.
+[^24-4]: Hebrew *matsevot*, as in 23:24, but here set up for the worship of the LORD.
 [^24-5]: Hebrew *zevachim shelamim*, traditionally "peace offerings". In these sacrifices most of the meat was eaten by the worshipers.
 [^24-6]: Or "the scroll of the covenant".
 [^24-7]: Literally "read it in the ears of the people".
@@ -1818,13 +1818,13 @@
 [^24-12]: The verb here (*chazah*) differs from the one in verse 10. It is often used of seeing in a vision.
 [^24-13]: Or "the stone tablets, and the instruction and the commandment, which I have written to teach them." Hebrew *torah* here is "instruction" or "law".
 [^24-14]: Hebrew *shakhan*, "dwell, settle", the verb from which *mishkan*, "tabernacle", comes.
-[^24-15]: Literally "The appearance of the glory of Yahweh was like a consuming fire on the top of the mountain in the eyes of the sons of Israel."
+[^24-15]: Literally "The appearance of the glory of the LORD was like a consuming fire on the top of the mountain in the eyes of the sons of Israel."
 
 ## Chapter 25
 
 *Status: draft*
 
-**1** Yahweh[^25-1] said to Moses,
+**1** The LORD[^25-1] said to Moses,
 
 **2** "Tell the Israelites to bring me a contribution.[^25-2] You are to receive my contribution from everyone whose heart moves them to give.
 
@@ -1904,7 +1904,7 @@
 
 **40** See that you make them according to the pattern you are being shown on the mountain.
 
-[^25-1]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^25-1]: *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles.
 [^25-2]: Hebrew *terumah*: something set apart and given for a sacred purpose, traditionally "heave offering". Literally "Speak to the sons of Israel, and let them take for me a contribution."
 [^25-3]: Or "copper". Hebrew *nechoshet* means both.
 [^25-4]: Literally "blue and purple and crimson worm". These were wools dyed with costly dyes: *tekhelet*, a violet-blue, and *argaman*, a red-purple, both made from sea snails, and *tola'at shani*, a crimson made from an insect.
@@ -1925,7 +1925,7 @@
 [^25-19]: Hebrew *miqshah*: hammered out of a single piece of metal.
 [^25-20]: About 3 inches (7.5 cm).
 [^25-21]: Literally "with which it is poured out". The exact form and use of these vessels are uncertain.
-[^25-22]: Literally "bread of the face": bread set out in Yahweh's presence (Leviticus 24:5–9).
+[^25-22]: Literally "bread of the face": bread set out in the LORD's presence (Leviticus 24:5–9).
 [^25-23]: Literally "its thigh and its reed". *Shaft* (Hebrew *qaneh*) is the same word as "branch" in verse 32.
 [^25-24]: Hebrew *kaftor*: probably a rounded knob, like the base of a flower.
 [^25-25]: Literally "a bud under two of the branches from it", three times.
@@ -2074,7 +2074,7 @@
 
 **20** "Command the Israelites to bring you pure oil of pressed olives[^27-10] for the light, so that a lamp can be kept burning always.
 
-**21** In the tent of meeting,[^27-11] outside the veil that is in front of the testimony,[^27-12] Aaron and his sons are to keep it burning before Yahweh[^27-13] from evening until morning. This is a permanent decree for the Israelites, for all their generations.
+**21** In the tent of meeting,[^27-11] outside the veil that is in front of the testimony,[^27-12] Aaron and his sons are to keep it burning before the LORD[^27-13] from evening until morning. This is a permanent decree for the Israelites, for all their generations.
 
 [^27-1]: The altar of burnt offering, which stood in the courtyard (30:28; 40:6).
 [^27-2]: A cubit was about 18 inches (45 cm), so the altar was about 7½ feet square and 4½ feet high (2.3 by 2.3 by 1.4 m).
@@ -2086,9 +2086,9 @@
 [^27-8]: Literally "for the shoulder", the side wing of the entrance. Also in verse 15.
 [^27-9]: Literally "fifty by fifty".
 [^27-10]: Literally "pure olive oil, beaten": oil from olives crushed by hand, the finest grade.
-[^27-11]: Hebrew *ohel mo'ed*: the tent where Yahweh met with Moses and the people (25:22; 29:42–43). It is another name for the tabernacle.
+[^27-11]: Hebrew *ohel mo'ed*: the tent where the LORD met with Moses and the people (25:22; 29:42–43). It is another name for the tabernacle.
 [^27-12]: Literally "outside the veil that is over the testimony". The testimony was in the ark (25:16).
-[^27-13]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^27-13]: *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles.
 
 ## Chapter 28
 
@@ -2116,7 +2116,7 @@
 
 **11** Engrave the names of the sons of Israel on the two stones as a gem cutter engraves a seal.[^28-9] Mount them in settings of gold.
 
-**12** Put the two stones on the shoulder pieces of the ephod, as stones of remembrance for the Israelites. Aaron is to carry their names before Yahweh[^28-10] on his two shoulders as a reminder.
+**12** Put the two stones on the shoulder pieces of the ephod, as stones of remembrance for the Israelites. Aaron is to carry their names before the LORD[^28-10] on his two shoulders as a reminder.
 
 **13** "Make settings of gold,
 
@@ -2150,9 +2150,9 @@
 
 **28** The breastpiece is to be tied by its rings[^28-14] to the rings of the ephod with a cord of blue, so that it lies on the woven waistband of the ephod. Then the breastpiece will not come loose from the ephod.
 
-**29** "So Aaron will carry the names of the sons of Israel on the breastpiece of judgment over his heart whenever he goes into the holy place, as a reminder before Yahweh at all times.
+**29** "So Aaron will carry the names of the sons of Israel on the breastpiece of judgment over his heart whenever he goes into the holy place, as a reminder before the LORD at all times.
 
-**30** Put the Urim and the Thummim[^28-15] into the breastpiece of judgment, so that they will be over Aaron's heart when he goes in before Yahweh. So Aaron will always carry the means of judgment for the Israelites[^28-16] over his heart before Yahweh.
+**30** Put the Urim and the Thummim[^28-15] into the breastpiece of judgment, so that they will be over Aaron's heart when he goes in before the LORD. So Aaron will always carry the means of judgment for the Israelites[^28-16] over his heart before the LORD.
 
 **31** "Make the robe of the ephod entirely of blue.
 
@@ -2162,13 +2162,13 @@
 
 **34** a gold bell and a pomegranate, a gold bell and a pomegranate, all around the hem of the robe.
 
-**35** Aaron is to wear it when he serves. Its sound will be heard when he goes into the holy place before Yahweh and when he comes out, so that he will not die.
+**35** Aaron is to wear it when he serves. Its sound will be heard when he goes into the holy place before the LORD and when he comes out, so that he will not die.
 
-**36** "Make a plate[^28-18] of pure gold, and engrave on it, as on a seal, 'Holy to Yahweh.'
+**36** "Make a plate[^28-18] of pure gold, and engrave on it, as on a seal, 'Holy to the LORD.'
 
 **37** Fasten it to a cord of blue, so that it is on the turban. It is to be on the front of the turban.
 
-**38** It will be on Aaron's forehead, and Aaron will bear the guilt connected with the holy things[^28-19] that the Israelites consecrate, all their holy gifts. It is to be on his forehead always, so that they may be accepted before Yahweh.
+**38** It will be on Aaron's forehead, and Aaron will bear the guilt connected with the holy things[^28-19] that the Israelites consecrate, all their holy gifts. It is to be on his forehead always, so that they may be accepted before the LORD.
 
 **39** "Weave the tunic of fine linen in a checkered pattern. Make a turban of fine linen, and make a sash, the work of an embroiderer.
 
@@ -2189,7 +2189,7 @@
 [^28-7]: Hebrew *chesheb*: a decorated band or belt that tied the ephod around the body.
 [^28-8]: Hebrew *shoham*. The identification of this stone is uncertain.
 [^28-9]: Literally "the work of a craftsman in stone, the engravings of a seal".
-[^28-10]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^28-10]: *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles.
 [^28-11]: Or "breastpiece of decision". It held the Urim and Thummim, through which God's decisions were sought (verse 30).
 [^28-12]: About 9 inches (23 cm).
 [^28-13]: The identification of many of the stones in verses 17–20 is uncertain. *Lapis lazuli* is Hebrew *sappir*, traditionally "sapphire" (see 24:10); *moonstone* is *yahalom*, traditionally "diamond"; *beryl* is *tarshish*.
@@ -2228,7 +2228,7 @@
 
 **10** "Bring the bull to the front of the tent of meeting, and Aaron and his sons are to lay their hands on the bull's head.
 
-**11** Slaughter the bull before Yahweh[^29-3] at the entrance of the tent of meeting.
+**11** Slaughter the bull before the LORD[^29-3] at the entrance of the tent of meeting.
 
 **12** Take some of the bull's blood and put it on the horns of the altar with your finger, and pour out all the blood at the base of the altar.
 
@@ -2242,7 +2242,7 @@
 
 **17** Cut the ram into its pieces. Wash its internal organs and its legs, and put them with its pieces and its head.
 
-**18** Then burn the whole ram on the altar. It is a burnt offering to Yahweh, a pleasing aroma,[^29-6] an offering by fire[^29-7] to Yahweh.
+**18** Then burn the whole ram on the altar. It is a burnt offering to the LORD, a pleasing aroma,[^29-6] an offering by fire[^29-7] to the LORD.
 
 **19** "Take the other ram, and Aaron and his sons are to lay their hands on the ram's head.
 
@@ -2252,17 +2252,17 @@
 
 **22** "Take the fat from the ram: the fat tail, the fat that covers the internal organs, the long lobe of the liver, the two kidneys with the fat on them, and the right thigh. For it is a ram of ordination.[^29-8]
 
-**23** Also take one loaf of bread, one cake of bread made with oil, and one wafer from the basket of bread made without yeast that is before Yahweh.
+**23** Also take one loaf of bread, one cake of bread made with oil, and one wafer from the basket of bread made without yeast that is before the LORD.
 
-**24** Put all these in the hands of Aaron and his sons, and wave them as a wave offering[^29-9] before Yahweh.
+**24** Put all these in the hands of Aaron and his sons, and wave them as a wave offering[^29-9] before the LORD.
 
-**25** Then take them from their hands and burn them on the altar on top of the burnt offering, as a pleasing aroma before Yahweh. It is an offering by fire to Yahweh.
+**25** Then take them from their hands and burn them on the altar on top of the burnt offering, as a pleasing aroma before the LORD. It is an offering by fire to the LORD.
 
-**26** Take the breast of Aaron's ram of ordination and wave it as a wave offering before Yahweh. It will be your share.
+**26** Take the breast of Aaron's ram of ordination and wave it as a wave offering before the LORD. It will be your share.
 
 **27** "Consecrate the breast of the wave offering and the thigh of the contribution,[^29-10] the parts that were waved and lifted up from the ram of ordination, from what belongs to Aaron and to his sons.
 
-**28** This is to be the permanent share of Aaron and his sons from the Israelites, for it is a contribution. It will be a contribution from the Israelites from their fellowship sacrifices,[^29-11] their contribution to Yahweh.
+**28** This is to be the permanent share of Aaron and his sons from the Israelites, for it is a contribution. It will be a contribution from the Israelites from their fellowship sacrifices,[^29-11] their contribution to the LORD.
 
 **29** "Aaron's sacred garments are to belong to his sons after him, so that they can be anointed and ordained in them.[^29-12]
 
@@ -2288,9 +2288,9 @@
 
 **40** With the first lamb offer a tenth of an ephah[^29-17] of fine flour mixed with a quarter of a hin[^29-18] of oil from pressed olives, and a quarter of a hin of wine as a drink offering.
 
-**41** Offer the other lamb at twilight. Offer with it the same grain offering and drink offering as in the morning, as a pleasing aroma, an offering by fire to Yahweh.
+**41** Offer the other lamb at twilight. Offer with it the same grain offering and drink offering as in the morning, as a pleasing aroma, an offering by fire to the LORD.
 
-**42** This is to be a regular burnt offering for all your generations, at the entrance of the tent of meeting before Yahweh, where I will meet with you, to speak to you there.
+**42** This is to be a regular burnt offering for all your generations, at the entrance of the tent of meeting before the LORD, where I will meet with you, to speak to you there.
 
 **43** There I will meet with the Israelites, and it will be made holy[^29-19] by my glory.
 
@@ -2298,17 +2298,17 @@
 
 **45** I will live among the Israelites and be their God.
 
-**46** They will know that I am Yahweh their God, who brought them out of the land of Egypt so that I might live among them. I am Yahweh their God.
+**46** They will know that I am the LORD their God, who brought them out of the land of Egypt so that I might live among them. I am the LORD their God.
 
 [^29-1]: Hebrew *nezer ha-qodesh*, "the holy diadem", the sign of Aaron's consecration: here the gold plate of 28:36–37.
 [^29-2]: Literally "you shall fill the hand of Aaron and the hand of his sons", an idiom for installing someone as a priest. Also in verses 29, 33 and 35.
-[^29-3]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^29-3]: *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles.
 [^29-4]: Hebrew *hiqtir*, "turn into smoke". Also in verses 18 and 25.
 [^29-5]: Hebrew *chatta't*, traditionally "sin offering". Its main purpose was to purify, so it is also called the "purification offering".
 [^29-6]: Literally "a soothing smell", a phrase that pictures God accepting the offering with pleasure.
 [^29-7]: Hebrew *ishsheh*, traditionally "an offering made by fire". Some take it to mean "a food gift".
 [^29-8]: Hebrew *millu'im*, literally "filling", from the idiom "fill the hand" for installing a priest (see verse 9).
-[^29-9]: Hebrew *tenufah*: an offering lifted or moved toward the altar and back, to present it to Yahweh.
+[^29-9]: Hebrew *tenufah*: an offering lifted or moved toward the altar and back, to present it to the LORD.
 [^29-10]: Hebrew *terumah*, "something lifted up, set apart", as in 25:2. Traditionally "heave offering".
 [^29-11]: Hebrew *zivchei shalmeihem*, traditionally "their peace offerings". See 24:5.
 [^29-12]: Literally "for anointing in them and for filling their hand in them".
@@ -2338,35 +2338,35 @@
 
 **7** Aaron is to burn fragrant incense on it. Every morning, when he tends the lamps, he is to burn it.
 
-**8** And when Aaron lights the lamps[^30-4] at twilight,[^30-5] he is to burn it. This is to be a regular offering of incense before Yahweh[^30-6] for all your generations.
+**8** And when Aaron lights the lamps[^30-4] at twilight,[^30-5] he is to burn it. This is to be a regular offering of incense before the LORD[^30-6] for all your generations.
 
 **9** Do not offer on it any unauthorized incense,[^30-7] or a burnt offering or a grain offering, and do not pour a drink offering on it.
 
-**10** Once a year Aaron is to make atonement on its horns. Once a year he is to make atonement for it with the blood of the sin offering of atonement,[^30-8] for all your generations. It is most holy to Yahweh."
+**10** Once a year Aaron is to make atonement on its horns. Once a year he is to make atonement for it with the blood of the sin offering of atonement,[^30-8] for all your generations. It is most holy to the LORD."
 
-**11** Yahweh said to Moses,
+**11** The LORD said to Moses,
 
-**12** "When you take a census of the Israelites[^30-9] to count them, each man must pay Yahweh a ransom for his life when they are counted. Then no plague will come on them when they are counted.
+**12** "When you take a census of the Israelites[^30-9] to count them, each man must pay the LORD a ransom for his life when they are counted. Then no plague will come on them when they are counted.
 
-**13** Everyone who crosses over to those already counted[^30-10] is to give this: half a shekel,[^30-11] by the sanctuary shekel[^30-12] (a shekel is twenty gerahs[^30-13]). This half shekel is a contribution to Yahweh.
+**13** Everyone who crosses over to those already counted[^30-10] is to give this: half a shekel,[^30-11] by the sanctuary shekel[^30-12] (a shekel is twenty gerahs[^30-13]). This half shekel is a contribution to the LORD.
 
-**14** Everyone who crosses over to those counted, twenty years old and over, is to give Yahweh's contribution.
+**14** Everyone who crosses over to those counted, twenty years old and over, is to give the LORD's contribution.
 
-**15** When you give Yahweh's contribution to make atonement for your lives, the rich must not give more and the poor must not give less than half a shekel.
+**15** When you give the LORD's contribution to make atonement for your lives, the rich must not give more and the poor must not give less than half a shekel.
 
-**16** Take the atonement money from the Israelites and use it for the service of the tent of meeting. It will be a reminder of the Israelites before Yahweh, to make atonement for your lives."
+**16** Take the atonement money from the Israelites and use it for the service of the tent of meeting. It will be a reminder of the Israelites before the LORD, to make atonement for your lives."
 
-**17** Yahweh said to Moses,
+**17** The LORD said to Moses,
 
 **18** "Make a bronze basin[^30-14] with a bronze stand, for washing. Put it between the tent of meeting and the altar, and put water in it.
 
 **19** Aaron and his sons are to wash their hands and their feet with water from it.
 
-**20** Whenever they go into the tent of meeting, they are to wash with water, so that they will not die. And when they come near the altar to serve, to burn an offering by fire[^30-15] to Yahweh,
+**20** Whenever they go into the tent of meeting, they are to wash with water, so that they will not die. And when they come near the altar to serve, to burn an offering by fire[^30-15] to the LORD,
 
 **21** they are to wash their hands and their feet, so that they will not die. This is to be a permanent decree for them, for Aaron and for his descendants, for all their generations."
 
-**22** Yahweh said to Moses,
+**22** The LORD said to Moses,
 
 **23** "Take the finest spices: 500 shekels[^30-16] of liquid myrrh, half as much fragrant cinnamon, 250 shekels, 250 shekels of fragrant cane,
 
@@ -2390,13 +2390,13 @@
 
 **33** Anyone who mixes perfume like it, or puts any of it on someone who is not a priest,[^30-20] is to be cut off from his people.'"[^30-21]
 
-**34** Yahweh said to Moses, "Take fragrant spices: gum resin,[^30-22] onycha and galbanum, fragrant spices together with pure frankincense, all in equal amounts.
+**34** The LORD said to Moses, "Take fragrant spices: gum resin,[^30-22] onycha and galbanum, fragrant spices together with pure frankincense, all in equal amounts.
 
 **35** Make them into incense, a fragrant blend, the work of a perfumer, salted,[^30-23] pure and holy.
 
 **36** Grind some of it into fine powder and put some of it in front of the testimony in the tent of meeting, where I will meet with you. It is to be most holy to you.
 
-**37** As for the incense you are to make, do not make any for yourselves with the same formula. You are to treat it as holy to Yahweh.
+**37** As for the incense you are to make, do not make any for yourselves with the same formula. You are to treat it as holy to the LORD.
 
 **38** Anyone who makes anything like it, to enjoy its fragrance, is to be cut off from his people."
 
@@ -2405,7 +2405,7 @@
 [^30-3]: Literally "on its two side walls, on its two sides".
 [^30-4]: Literally "makes the lamps go up", as in 25:37.
 [^30-5]: Literally "between the two evenings".
-[^30-6]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^30-6]: *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles.
 [^30-7]: Literally "strange incense": incense not made by the formula of verses 34–38.
 [^30-8]: The offering made on the Day of Atonement (Leviticus 16:18–19; 23:27).
 [^30-9]: Literally "When you lift up the head of the sons of Israel".
@@ -2428,7 +2428,7 @@
 
 *Status: draft*
 
-**1** Yahweh[^31-1] said to Moses,
+**1** The LORD[^31-1] said to Moses,
 
 **2** "See, I have chosen by name[^31-2] Bezalel son of Uri, son of Hur, of the tribe of Judah.
 
@@ -2450,21 +2450,21 @@
 
 **11** and the anointing oil and the fragrant incense for the holy place. They are to make them just as I have commanded you."
 
-**12** Yahweh said to Moses,
+**12** The LORD said to Moses,
 
-**13** "Tell the Israelites, 'Above all, you must keep my Sabbaths.[^31-8] For this is a sign between me and you for all your generations, so that you may know that I am Yahweh, who makes you holy.
+**13** "Tell the Israelites, 'Above all, you must keep my Sabbaths.[^31-8] For this is a sign between me and you for all your generations, so that you may know that I am the LORD, who makes you holy.
 
 **14** Keep the Sabbath, because it is holy for you. Anyone who profanes it must be put to death. Whoever does any work on it, that person[^31-9] must be cut off from among his people.
 
-**15** For six days work may be done, but the seventh day is a Sabbath of complete rest,[^31-10] holy to Yahweh. Anyone who does any work on the Sabbath day must be put to death.
+**15** For six days work may be done, but the seventh day is a Sabbath of complete rest,[^31-10] holy to the LORD. Anyone who does any work on the Sabbath day must be put to death.
 
 **16** The Israelites must keep the Sabbath, observing the Sabbath for all their generations as a permanent covenant.
 
-**17** It is a sign between me and the Israelites forever. For in six days Yahweh made the heavens and the earth, and on the seventh day he stopped working and was refreshed.'"[^31-11]
+**17** It is a sign between me and the Israelites forever. For in six days the LORD made the heavens and the earth, and on the seventh day he stopped working and was refreshed.'"[^31-11]
 
 **18** When he had finished speaking with Moses on Mount Sinai, he gave him the two tablets of the testimony, tablets of stone written with the finger of God.
 
-[^31-1]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^31-1]: *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles.
 [^31-2]: Literally "I have called by name".
 [^31-3]: Or "a divine spirit". Hebrew *ruach elohim*.
 [^31-4]: Hebrew *chokhmah*, "wisdom", here practical skill.
@@ -2488,25 +2488,25 @@
 
 **4** He took the gold from them, shaped it with a tool[^32-2] and made it into a calf of cast metal. Then they said, "These are your gods,[^32-3] Israel, who brought you up out of the land of Egypt."
 
-**5** When Aaron saw this, he built an altar in front of it. Aaron made a proclamation: "Tomorrow there will be a festival to Yahweh."[^32-4]
+**5** When Aaron saw this, he built an altar in front of it. Aaron made a proclamation: "Tomorrow there will be a festival to the LORD."[^32-4]
 
 **6** Early the next day they got up and offered burnt offerings and brought fellowship offerings. The people sat down to eat and drink, and then got up to revel.[^32-5]
 
-**7** Yahweh said to Moses, "Go down at once, because your people, whom you brought up out of the land of Egypt, have acted corruptly.
+**7** The LORD said to Moses, "Go down at once, because your people, whom you brought up out of the land of Egypt, have acted corruptly.
 
 **8** They have been quick to turn away from the way I commanded them. They have made themselves a calf of cast metal. They have bowed down to it and sacrificed to it, and they have said, 'These are your gods, Israel, who brought you up out of the land of Egypt.'"
 
-**9** Yahweh said to Moses, "I have seen this people, and they are a stiff-necked people.[^32-6]
+**9** The LORD said to Moses, "I have seen this people, and they are a stiff-necked people.[^32-6]
 
 **10** Now leave me alone, so that my anger may burn against them and I may destroy them. Then I will make you into a great nation."
 
-**11** But Moses pleaded with Yahweh his God.[^32-7] He said, "Yahweh, why should your anger burn against your people, whom you brought out of the land of Egypt with great power and a strong hand?
+**11** But Moses pleaded with the LORD his God.[^32-7] He said, "LORD, why should your anger burn against your people, whom you brought out of the land of Egypt with great power and a strong hand?
 
 **12** Why should the Egyptians say, 'He brought them out with evil intent, to kill them in the mountains and wipe them off the face of the earth'? Turn from your fierce anger, and relent[^32-8] from bringing disaster on your people.
 
 **13** Remember Abraham, Isaac and Israel, your servants, to whom you swore by yourself. You said to them, 'I will make your descendants as numerous as the stars of the sky, and I will give your descendants all this land that I have spoken of, and they will possess it forever.'"
 
-**14** So Yahweh relented from the disaster he had said he would bring on his people.
+**14** So the LORD relented from the disaster he had said he would bring on his people.
 
 **15** Moses turned and went down the mountain with the two tablets of the testimony in his hands. The tablets were written on both sides. They were written on the front and on the back.
 
@@ -2530,33 +2530,33 @@
 
 **25** Moses saw that the people were running wild, for Aaron had let them run wild, and they had become an object of scorn among their enemies.[^32-13]
 
-**26** So Moses stood at the gate of the camp and said, "Whoever is on Yahweh's side, come to me!" And all the Levites[^32-14] gathered around him.
+**26** So Moses stood at the gate of the camp and said, "Whoever is on the LORD's side, come to me!" And all the Levites[^32-14] gathered around him.
 
-**27** He said to them, "This is what Yahweh, the God of Israel, says: 'Each of you, strap your sword to your side.[^32-15] Go back and forth through the camp from gate to gate, and each of you kill his brother, his friend and his neighbor.'"
+**27** He said to them, "This is what the LORD, the God of Israel, says: 'Each of you, strap your sword to your side.[^32-15] Go back and forth through the camp from gate to gate, and each of you kill his brother, his friend and his neighbor.'"
 
 **28** The Levites did as Moses said, and about three thousand of the people died[^32-16] that day.
 
-**29** Moses said, "Dedicate yourselves to Yahweh today,[^32-17] because each of you has gone against his own son and his own brother. So he will give you a blessing today."
+**29** Moses said, "Dedicate yourselves to the LORD today,[^32-17] because each of you has gone against his own son and his own brother. So he will give you a blessing today."
 
-**30** The next day Moses said to the people, "You have committed a great sin. But now I will go up to Yahweh. Perhaps I can make atonement for your sin."
+**30** The next day Moses said to the people, "You have committed a great sin. But now I will go up to the LORD. Perhaps I can make atonement for your sin."
 
-**31** So Moses went back to Yahweh and said, "Oh, this people has committed a great sin! They have made themselves gods of gold.
+**31** So Moses went back to the LORD and said, "Oh, this people has committed a great sin! They have made themselves gods of gold.
 
 **32** But now, if you will forgive their sin…[^32-18] But if not, please wipe me out of the book you have written."
 
-**33** Yahweh said to Moses, "Whoever has sinned against me, I will wipe out of my book.
+**33** The LORD said to Moses, "Whoever has sinned against me, I will wipe out of my book.
 
 **34** Now go, lead the people to the place I told you about. Look, my angel[^32-19] will go ahead of you. But when the day comes for me to punish, I will punish them for their sin."[^32-20]
 
-**35** And Yahweh struck the people with a plague because they had made the calf, the one Aaron made.[^32-21]
+**35** And the LORD struck the people with a plague because they had made the calf, the one Aaron made.[^32-21]
 
 [^32-1]: Or "a god". Hebrew *elohim* can mean "God" or "gods". The verb "will go" is plural.
 [^32-2]: Or "tied it up in a bag". The Hebrew can be understood either way.
 [^32-3]: Or "This is your god". In the Hebrew, "these" and "brought you up" are plural. Also in verse 8.
-[^32-4]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^32-4]: *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles.
 [^32-5]: Hebrew *letsacheq*, "to laugh, play, make merry". It can suggest sexual play.
 [^32-6]: Literally "hard of neck", that is, stubborn, like an ox that will not bend its neck to the yoke.
-[^32-7]: Literally "softened the face of Yahweh his God".
+[^32-7]: Literally "softened the face of the LORD his God".
 [^32-8]: Or "change your mind". Hebrew *hinnachem*, "relent, be sorry". The same verb is in verse 14.
 [^32-9]: The Hebrew word translated "shouting" is unusual.
 [^32-10]: Moses' answer plays on the verb *anah*, "answer, sing". Literally "It is not the sound of the answering of might, and it is not the sound of the answering of weakness; the sound of singing I hear." The meaning of the last word is uncertain.
@@ -2566,7 +2566,7 @@
 [^32-14]: Literally "the sons of Levi". Also in verse 28.
 [^32-15]: Literally "on his thigh".
 [^32-16]: Literally "fell".
-[^32-17]: Literally "Fill your hand today for Yahweh", the idiom used for ordaining priests (28:41). Some understand it as "You have ordained yourselves today".
+[^32-17]: Literally "Fill your hand today for the LORD", the idiom used for ordaining priests (28:41). Some understand it as "You have ordained yourselves today".
 [^32-18]: The sentence is left unfinished in the Hebrew.
 [^32-19]: Or "my messenger". Hebrew *mal'akh*.
 [^32-20]: Literally "on the day of my visiting, I will visit their sin upon them".
@@ -2576,7 +2576,7 @@
 
 *Status: draft*
 
-**1** Yahweh[^33-1] said to Moses, "Go, leave this place, you and the people you brought up out of the land of Egypt. Go up to the land I promised on oath to Abraham, Isaac and Jacob, when I said, 'I will give it to your descendants.'
+**1** The LORD[^33-1] said to Moses, "Go, leave this place, you and the people you brought up out of the land of Egypt. Go up to the land I promised on oath to Abraham, Isaac and Jacob, when I said, 'I will give it to your descendants.'
 
 **2** I will send an angel[^33-2] ahead of you, and I will drive out the Canaanites, Amorites, Hittites, Perizzites, Hivites and Jebusites.
 
@@ -2584,11 +2584,11 @@
 
 **4** When the people heard this bad news, they mourned, and no one put on his ornaments.
 
-**5** Yahweh said to Moses, "Say to the Israelites, 'You are a stiff-necked people. If I went up among you for a single moment, I would destroy you. So now take off your ornaments, and I will decide what to do with you.'"[^33-4]
+**5** The LORD said to Moses, "Say to the Israelites, 'You are a stiff-necked people. If I went up among you for a single moment, I would destroy you. So now take off your ornaments, and I will decide what to do with you.'"[^33-4]
 
 **6** So the Israelites stripped off their ornaments from Mount Horeb onward.[^33-5]
 
-**7** Now Moses used to take the tent[^33-6] and pitch it outside the camp, some distance from the camp. He called it the tent of meeting. Anyone who wanted to seek Yahweh would go out to the tent of meeting outside the camp.
+**7** Now Moses used to take the tent[^33-6] and pitch it outside the camp, some distance from the camp. He called it the tent of meeting. Anyone who wanted to seek the LORD would go out to the tent of meeting outside the camp.
 
 **8** Whenever Moses went out to the tent, all the people would get up and stand at the entrances of their tents, watching Moses until he went into the tent.
 
@@ -2596,9 +2596,9 @@
 
 **10** When all the people saw the pillar of cloud standing at the entrance of the tent, they would all get up and bow down, each at the entrance of his tent.
 
-**11** Yahweh would speak to Moses face to face, as someone speaks to a friend. Then Moses would return to the camp, but his assistant Joshua son of Nun, a young man, would not leave the tent.
+**11** The LORD would speak to Moses face to face, as someone speaks to a friend. Then Moses would return to the camp, but his assistant Joshua son of Nun, a young man, would not leave the tent.
 
-**12** Moses said to Yahweh, "Look, you keep telling me, 'Lead these people up,' but you have not let me know whom you will send with me. Yet you have said, 'I know you by name, and you have found favor in my sight.'
+**12** Moses said to the LORD, "Look, you keep telling me, 'Lead these people up,' but you have not let me know whom you will send with me. Yet you have said, 'I know you by name, and you have found favor in my sight.'
 
 **13** Now, if I have found favor in your sight, please let me know your ways, so that I may know you and keep on finding favor in your sight. And remember that this nation is your people."
 
@@ -2608,45 +2608,45 @@
 
 **16** How else will it be known that I have found favor in your sight, I and your people? Is it not by your going with us, so that we are set apart, I and your people, from all the peoples on the face of the earth?"
 
-**17** Yahweh said to Moses, "I will do this very thing you have asked, because you have found favor in my sight, and I know you by name."
+**17** The LORD said to Moses, "I will do this very thing you have asked, because you have found favor in my sight, and I know you by name."
 
 **18** Moses said, "Please show me your glory."
 
-**19** He said, "I will make all my goodness pass in front of you, and I will proclaim my name, Yahweh,[^33-9] before you. I will be gracious to whom I will be gracious, and I will show compassion to whom I will show compassion."
+**19** He said, "I will make all my goodness pass in front of you, and I will proclaim my name, the LORD,[^33-9] before you. I will be gracious to whom I will be gracious, and I will show compassion to whom I will show compassion."
 
 **20** But he said, "You cannot see my face, for no human being can see me and live."
 
-**21** Yahweh said, "Look, there is a place beside me. Stand on the rock,
+**21** The LORD said, "Look, there is a place beside me. Stand on the rock,
 
 **22** and when my glory passes by, I will put you in a crevice in the rock and cover you with my hand until I have passed by.
 
 **23** Then I will take away my hand, and you will see my back. But my face must not be seen."
 
-[^33-1]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^33-1]: *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles.
 [^33-2]: Or "a messenger". Hebrew *mal'akh*.
 [^33-3]: Literally "hard of neck", that is, stubborn. Also in verse 5.
 [^33-4]: Literally "that I may know what I will do to you".
 [^33-5]: Literally "from Mount Horeb". It may also mean "at Mount Horeb". Horeb is another name for Sinai.
 [^33-6]: The Hebrew verbs in verses 7–11 describe repeated action. The text does not say which tent this was; the tabernacle of chapters 25–31 had not yet been made.
-[^33-7]: The speaker is Yahweh (verse 11).
+[^33-7]: The speaker is the LORD (verse 11).
 [^33-8]: Literally "My face". Also in verse 15.
-[^33-9]: Literally "I will call in the name of Yahweh".
+[^33-9]: Literally "I will call in the name of the LORD".
 
 ## Chapter 34
 
 *Status: draft*
 
-**1** Yahweh[^34-1] said to Moses, "Cut two stone tablets like the first ones, and I will write on the tablets the words that were on the first tablets, which you broke.
+**1** The LORD[^34-1] said to Moses, "Cut two stone tablets like the first ones, and I will write on the tablets the words that were on the first tablets, which you broke.
 
 **2** Be ready in the morning. In the morning come up Mount Sinai and present yourself to me there on the top of the mountain.
 
 **3** No one is to come up with you, and no one is to be seen anywhere on the mountain. Not even the flocks or the herds may graze in front of that mountain."
 
-**4** So Moses cut two stone tablets like the first ones. He got up early in the morning and went up Mount Sinai, as Yahweh had commanded him, and he took the two stone tablets in his hand.
+**4** So Moses cut two stone tablets like the first ones. He got up early in the morning and went up Mount Sinai, as the LORD had commanded him, and he took the two stone tablets in his hand.
 
-**5** Yahweh came down in the cloud and stood there with him, and he proclaimed the name Yahweh.[^34-2]
+**5** The LORD came down in the cloud and stood there with him, and he proclaimed the name, the LORD.[^34-2]
 
-**6** Yahweh passed by in front of him and proclaimed, "Yahweh, Yahweh,[^34-3] a God compassionate[^34-4] and gracious, slow to anger,[^34-5] and abounding in faithful love and faithfulness,[^34-6]
+**6** The LORD passed by in front of him and proclaimed, "The LORD, the LORD,[^34-3] a God compassionate[^34-4] and gracious, slow to anger,[^34-5] and abounding in faithful love and faithfulness,[^34-6]
 
 **7** keeping faithful love for thousands,[^34-7] forgiving wrongdoing, rebellion and sin.[^34-8] Yet he does not let the guilty go unpunished.[^34-9] He punishes the children and the grandchildren for the wrongdoing of their fathers, to the third and the fourth generation."[^34-10]
 
@@ -2654,7 +2654,7 @@
 
 **9** He said, "If I have found favor in your sight, Lord, please let the Lord go among us. This is a stiff-necked people,[^34-11] but forgive our wrongdoing and our sin, and take us as your own possession."
 
-**10** He said, "Look, I am making a covenant. In front of all your people I will do wonders such as have never been done[^34-12] in all the earth or in any nation. All the people among whom you live will see the work of Yahweh, for what I am going to do with you is awesome.
+**10** He said, "Look, I am making a covenant. In front of all your people I will do wonders such as have never been done[^34-12] in all the earth or in any nation. All the people among whom you live will see the work of the LORD, for what I am going to do with you is awesome.
 
 **11** Be careful to do what I command you today. Look, I am going to drive out before you the Amorites, Canaanites, Hittites, Perizzites, Hivites and Jebusites.
 
@@ -2662,7 +2662,7 @@
 
 **13** Instead, tear down their altars, smash their standing stones and cut down their Asherah poles.[^34-13]
 
-**14** You must not bow down to any other god, for Yahweh, whose name is Jealous,[^34-14] is a jealous God.
+**14** You must not bow down to any other god, for the LORD, whose name is Jealous,[^34-14] is a jealous God.
 
 **15** Do not make a covenant with the people who live in the land. Otherwise, when they prostitute themselves to their gods[^34-15] and sacrifice to their gods, someone will invite you, and you will eat from his sacrifice.
 
@@ -2680,17 +2680,17 @@
 
 **22** Celebrate the Festival of Weeks with the firstfruits of the wheat harvest, and the Festival of Ingathering at the turn of the year.[^34-23]
 
-**23** Three times a year all your males are to appear before the Lord Yahweh, the God of Israel.
+**23** Three times a year all your males are to appear before the Lord GOD, the God of Israel.
 
-**24** For I will drive out nations before you and enlarge your territory. No one will covet your land when you go up three times a year to appear before Yahweh your God.
+**24** For I will drive out nations before you and enlarge your territory. No one will covet your land when you go up three times a year to appear before the LORD your God.
 
 **25** "Do not offer the blood of my sacrifice with anything that contains yeast,[^34-24] and the sacrifice of the Passover festival must not be left until morning.
 
-**26** Bring the best of the firstfruits of your soil to the house of Yahweh your God. Do not boil a young goat in its mother's milk."
+**26** Bring the best of the firstfruits of your soil to the house of the LORD your God. Do not boil a young goat in its mother's milk."
 
-**27** Yahweh said to Moses, "Write down these words, for on the basis of these words I have made a covenant with you and with Israel."
+**27** The LORD said to Moses, "Write down these words, for on the basis of these words I have made a covenant with you and with Israel."
 
-**28** Moses was there with Yahweh for forty days and forty nights. He did not eat bread or drink water. And he wrote on the tablets the words of the covenant, the Ten Commandments.[^34-25]
+**28** Moses was there with the LORD for forty days and forty nights. He did not eat bread or drink water. And he wrote on the tablets the words of the covenant, the Ten Commandments.[^34-25]
 
 **29** When Moses came down from Mount Sinai with the two tablets of the testimony in his hand, as he came down from the mountain, Moses did not know that the skin of his face was shining[^34-26] because he had been speaking with him.[^34-27]
 
@@ -2698,17 +2698,17 @@
 
 **31** But Moses called to them, and Aaron and all the leaders of the community came back to him, and Moses spoke to them.
 
-**32** After that all the Israelites came near, and he gave them all the commands that Yahweh had spoken to him on Mount Sinai.
+**32** After that all the Israelites came near, and he gave them all the commands that the LORD had spoken to him on Mount Sinai.
 
 **33** When Moses had finished speaking with them, he put a covering[^34-28] over his face.
 
-**34** But whenever Moses went in before Yahweh to speak with him, he would take the covering off until he came out. When he came out, he would tell the Israelites what he had been commanded.
+**34** But whenever Moses went in before the LORD to speak with him, he would take the covering off until he came out. When he came out, he would tell the Israelites what he had been commanded.
 
 **35** The Israelites would see Moses' face, that the skin of Moses' face was shining. Then Moses would put the covering back over his face until he went in to speak with him.
 
-[^34-1]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
-[^34-2]: Literally "he called in the name of Yahweh". The subject is probably Yahweh, as promised in 33:19, though it could be Moses.
-[^34-3]: Or "Yahweh, Yahweh is a God compassionate and gracious…". The Hebrew can also be read "Yahweh passed in front of him, and Yahweh proclaimed, 'Yahweh, a God compassionate…'"
+[^34-1]: *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles.
+[^34-2]: Literally "he called in the name of the LORD". The subject is probably the LORD, as promised in 33:19, though it could be Moses.
+[^34-3]: Or "The LORD, the LORD is a God compassionate and gracious…". The Hebrew can also be read "The LORD passed in front of him, and the LORD proclaimed, 'The LORD, a God compassionate…'"
 [^34-4]: Hebrew *rachum*, a word related to *rechem*, "womb": tender, motherly compassion.
 [^34-5]: Literally "long of nostrils", that is, slow to become angry.
 [^34-6]: Hebrew *rav chesed ve-emet*. *Chesed* is loyal, faithful love, the love that keeps a covenant; *emet* is firmness, reliability, truth. Traditionally "abundant in goodness and truth" or "steadfast love and faithfulness". These words in verses 6–7 are echoed often in the Bible, for example Numbers 14:18; Psalm 86:15; 103:8; 145:8; Joel 2:13; Jonah 4:2.
@@ -2720,7 +2720,7 @@
 [^34-12]: Literally "have never been created". The verb is *bara*, used of God's creating in Genesis 1:1.
 [^34-13]: Hebrew *asherim*: wooden poles or trees set up as symbols of the goddess Asherah.
 [^34-14]: Or "Zealous". Hebrew *qanna*: one who will not share the loyalty that is owed to him.
-[^34-15]: Literally "when they go whoring after their gods", a common image for unfaithfulness to Yahweh. Also in verse 16.
+[^34-15]: Literally "when they go whoring after their gods", a common image for unfaithfulness to the LORD. Also in verse 16.
 [^34-16]: Literally "you will take from his daughters for your sons".
 [^34-17]: *Abib* means "new ears of grain": the first month of the year, around March–April.
 [^34-18]: Literally "everything that first opens the womb".
@@ -2730,24 +2730,24 @@
 [^34-22]: Hebrew *tishbot*, "cease, rest", the verb related to *Shabbat*, "Sabbath". Also later in the verse.
 [^34-23]: In the autumn. Compare 23:16.
 [^34-24]: Literally "Do not slaughter the blood of my sacrifice with yeast."
-[^34-25]: Literally "the ten words". The Hebrew does not say who wrote. In verse 1 Yahweh says that he will write on the tablets.
+[^34-25]: Literally "the ten words". The Hebrew does not say who wrote. In verse 1 the LORD says that he will write on the tablets.
 [^34-26]: Hebrew *qaran*, "shine, send out rays", a verb related to *qeren*, "horn". The Latin Vulgate translated it "horned", which is why Moses is often shown with horns in medieval art. Also in verses 30 and 35.
-[^34-27]: That is, with Yahweh. Also in verse 35.
+[^34-27]: That is, with the LORD. Also in verse 35.
 [^34-28]: Hebrew *masveh*, a covering for the face, traditionally "veil". Also in verses 34 and 35.
 
 ## Chapter 35
 
 *Status: draft*
 
-**1** Moses assembled the whole community of the Israelites and said to them, "These are the things Yahweh[^35-1] has commanded you to do.
+**1** Moses assembled the whole community of the Israelites and said to them, "These are the things the LORD[^35-1] has commanded you to do.
 
-**2** For six days work may be done, but the seventh day is to be holy for you, a Sabbath of complete rest[^35-2] to Yahweh. Anyone who does any work on it must be put to death.
+**2** For six days work may be done, but the seventh day is to be holy for you, a Sabbath of complete rest[^35-2] to the LORD. Anyone who does any work on it must be put to death.
 
 **3** Do not light a fire in any of your homes on the Sabbath day."
 
-**4** Moses said to the whole community of the Israelites, "This is what Yahweh has commanded:[^35-3]
+**4** Moses said to the whole community of the Israelites, "This is what the LORD has commanded:[^35-3]
 
-**5** Take from among you a contribution[^35-4] for Yahweh. Let everyone whose heart is willing bring it as Yahweh's contribution: gold, silver and bronze;
+**5** Take from among you a contribution[^35-4] for the LORD. Let everyone whose heart is willing bring it as the LORD's contribution: gold, silver and bronze;
 
 **6** blue, purple and scarlet yarn;[^35-5] fine linen; goats' hair;
 
@@ -2757,7 +2757,7 @@
 
 **9** onyx stones and other stones for setting, for the ephod and for the breastpiece.
 
-**10** "Let all who are skilled[^35-7] among you come and make everything Yahweh has commanded:
+**10** "Let all who are skilled[^35-7] among you come and make everything the LORD has commanded:
 
 **11** the tabernacle, with its tent and its covering, its clasps and its frames, its crossbars, its posts and its bases;
 
@@ -2779,13 +2779,13 @@
 
 **20** Then the whole community of the Israelites left Moses' presence.
 
-**21** Everyone whose heart stirred him and everyone whose spirit moved him came and brought Yahweh's contribution for the work on the tent of meeting, for all its service, and for the sacred garments.
+**21** Everyone whose heart stirred him and everyone whose spirit moved him came and brought the LORD's contribution for the work on the tent of meeting, for all its service, and for the sacred garments.
 
-**22** They came, men and women alike, all who were willing. They brought brooches, earrings, rings and necklaces,[^35-10] all kinds of gold jewelry. Everyone presented gold as a wave offering[^35-11] to Yahweh.
+**22** They came, men and women alike, all who were willing. They brought brooches, earrings, rings and necklaces,[^35-10] all kinds of gold jewelry. Everyone presented gold as a wave offering[^35-11] to the LORD.
 
 **23** Everyone who had blue, purple or scarlet yarn, fine linen, goats' hair, rams' skins dyed red or fine leather brought them.
 
-**24** Everyone who could make a contribution of silver or bronze brought it as Yahweh's contribution, and everyone who had acacia wood for any part of the work brought it.
+**24** Everyone who could make a contribution of silver or bronze brought it as the LORD's contribution, and everyone who had acacia wood for any part of the work brought it.
 
 **25** All the skilled women spun with their own hands and brought what they had spun: blue, purple and scarlet yarn and fine linen.
 
@@ -2795,9 +2795,9 @@
 
 **28** and the spices and the oil for the light, for the anointing oil and for the fragrant incense.
 
-**29** All the men and women whose hearts moved them to bring something for all the work that Yahweh had commanded through Moses to be done brought it. The Israelites brought it as a freewill offering to Yahweh.
+**29** All the men and women whose hearts moved them to bring something for all the work that the LORD had commanded through Moses to be done brought it. The Israelites brought it as a freewill offering to the LORD.
 
-**30** Then Moses said to the Israelites, "See, Yahweh has chosen by name[^35-12] Bezalel son of Uri, son of Hur, of the tribe of Judah.
+**30** Then Moses said to the Israelites, "See, the LORD has chosen by name[^35-12] Bezalel son of Uri, son of Hur, of the tribe of Judah.
 
 **31** He has filled him with the Spirit of God,[^35-13] with skill, understanding and knowledge, and with ability in every kind of craft,
 
@@ -2809,7 +2809,7 @@
 
 **35** He has filled them with skill[^35-15] to do every kind of work as craftsmen, as designers, as embroiderers in blue, purple and scarlet yarn and fine linen, and as weavers. They can do every kind of work and make artistic designs.
 
-[^35-1]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^35-1]: *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles.
 [^35-2]: Hebrew *shabbat shabbaton*, an emphatic phrase: "a Sabbath of Sabbath rest".
 [^35-3]: Verses 5–19 repeat the instructions of 25:2–7 and the list of what was to be made in chapters 25–31.
 [^35-4]: Hebrew *terumah*: something set apart and given for a sacred purpose. See 25:2.
@@ -2819,8 +2819,8 @@
 [^35-8]: Literally "the veil of the screen".
 [^35-9]: The meaning of the Hebrew word *serad* is uncertain. See 31:10.
 [^35-10]: The identification of these ornaments is uncertain. The last, *kumaz*, may be a pendant or a bead.
-[^35-11]: Hebrew *tenufah*. See 29:24. Literally "every man who waved a wave offering of gold to Yahweh".
-[^35-12]: Literally "Yahweh has called by name".
+[^35-11]: Hebrew *tenufah*. See 29:24. Literally "every man who waved a wave offering of gold to the LORD".
+[^35-12]: Literally "The LORD has called by name".
 [^35-13]: Or "a divine spirit". Hebrew *ruach elohim*.
 [^35-14]: Literally "And to teach he put in his heart, he and Oholiab son of Ahisamach, of the tribe of Dan."
 [^35-15]: Literally "wisdom of heart".
@@ -2829,15 +2829,15 @@
 
 *Status: draft*
 
-**1** So Bezalel and Oholiab and all the skilled people[^36-1] to whom Yahweh[^36-2] has given skill and understanding, to know how to do all the work for the service of the sanctuary, are to do the work just as Yahweh has commanded."[^36-3]
+**1** So Bezalel and Oholiab and all the skilled people[^36-1] to whom the LORD[^36-2] has given skill and understanding, to know how to do all the work for the service of the sanctuary, are to do the work just as the LORD has commanded."[^36-3]
 
-**2** Then Moses called Bezalel and Oholiab and all the skilled people to whom Yahweh had given skill,[^36-4] everyone whose heart stirred him to come and do the work.
+**2** Then Moses called Bezalel and Oholiab and all the skilled people to whom the LORD had given skill,[^36-4] everyone whose heart stirred him to come and do the work.
 
 **3** They received from Moses all the contributions that the Israelites had brought for doing the work for the service of the sanctuary. But the people kept bringing him more freewill offerings, morning after morning.
 
 **4** So all the skilled workers who were doing all the work on the sanctuary left the work each of them was doing and came
 
-**5** and said to Moses, "The people are bringing much more than enough for doing the work that Yahweh commanded us to do."
+**5** and said to Moses, "The people are bringing much more than enough for doing the work that the LORD commanded us to do."
 
 **6** So Moses gave an order, and they sent a message throughout the camp: "No man or woman is to make anything more as a contribution for the sanctuary." So the people were stopped from bringing more.
 
@@ -2906,8 +2906,8 @@
 **38** with its five posts and their hooks. He overlaid their tops and their bands with gold, and their five bases were of bronze.
 
 [^36-1]: Literally "every man wise of heart". Also in verses 2, 4 and 8.
-[^36-2]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
-[^36-3]: Or "So Bezalel and Oholiab and all the skilled people … did the work just as Yahweh had commanded." The verse may end Moses' words of 35:30–35, or begin the account of the work.
+[^36-2]: *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles.
+[^36-3]: Or "So Bezalel and Oholiab and all the skilled people … did the work just as the LORD had commanded." The verse may end Moses' words of 35:30–35, or begin the account of the work.
 [^36-4]: Literally "had put wisdom in his heart".
 [^36-5]: Literally "blue and purple and crimson worm": wools dyed violet-blue, red-purple and crimson. See 25:4.
 [^36-6]: Literally "cherubim, the work of a designer, he made them". From here to 39:31 the Hebrew verbs are mostly singular, "he made". They probably refer to Bezalel (37:1), who led the work.
@@ -3035,7 +3035,7 @@
 
 **21** This is the inventory[^38-7] of the tabernacle, the tabernacle of the testimony, which was recorded at Moses' command, as the work of the Levites under the direction of Ithamar son of Aaron the priest.
 
-**22** Bezalel son of Uri, son of Hur, of the tribe of Judah, made everything Yahweh[^38-8] had commanded Moses.
+**22** Bezalel son of Uri, son of Hur, of the tribe of Judah, made everything the LORD[^38-8] had commanded Moses.
 
 **23** With him was Oholiab son of Ahisamach, of the tribe of Dan, a craftsman and designer, and an embroiderer in blue, purple and scarlet yarn and fine linen.
 
@@ -3062,7 +3062,7 @@
 [^38-5]: Literally "blue and purple and crimson worm": wools dyed violet-blue, red-purple and crimson. See 25:4.
 [^38-6]: Literally "and the height, in width, five cubits", that is, the width of the cloth, which formed its height.
 [^38-7]: Hebrew *pequdei*, "the things counted", the same root as "counted" in verses 25–26.
-[^38-8]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^38-8]: *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles.
 [^38-9]: A talent was about 75 pounds (34 kg), and a shekel about ⅖ ounce (11.5 grams). A talent was 3,000 shekels (see verses 25–26), so the gold weighed about 2,200 pounds (1,000 kg).
 [^38-10]: Literally "the shekel of the holy place", the standard weight used at the sanctuary (30:13).
 [^38-11]: About 7,500 pounds (3,400 kg).
@@ -3074,7 +3074,7 @@
 
 *Status: draft*
 
-**1** From the blue, purple and scarlet yarn[^39-1] they made woven garments[^39-2] for serving in the holy place. They also made the sacred garments for Aaron, as Yahweh[^39-3] had commanded Moses.
+**1** From the blue, purple and scarlet yarn[^39-1] they made woven garments[^39-2] for serving in the holy place. They also made the sacred garments for Aaron, as the LORD[^39-3] had commanded Moses.
 
 **2** He made the ephod of gold, of blue, purple and scarlet yarn, and of fine twisted linen.
 
@@ -3082,11 +3082,11 @@
 
 **4** They made shoulder pieces for the ephod, attached to its two edges, so that it was joined together.
 
-**5** The woven waistband on it was of one piece with it and made in the same way: of gold, of blue, purple and scarlet yarn, and of fine twisted linen, as Yahweh had commanded Moses.
+**5** The woven waistband on it was of one piece with it and made in the same way: of gold, of blue, purple and scarlet yarn, and of fine twisted linen, as the LORD had commanded Moses.
 
 **6** They prepared the onyx stones, mounted in settings of gold and engraved like a seal with the names of the sons of Israel.
 
-**7** He put them on the shoulder pieces of the ephod as stones of remembrance for the Israelites, as Yahweh had commanded Moses.
+**7** He put them on the shoulder pieces of the ephod as stones of remembrance for the Israelites, as the LORD had commanded Moses.
 
 **8** He made the breastpiece, the work of a skilled designer, in the same way as the ephod: of gold, of blue, purple and scarlet yarn, and of fine twisted linen.
 
@@ -3114,7 +3114,7 @@
 
 **20** They made two more gold rings and fastened them to the bottom of the two shoulder pieces on the front of the ephod, close to its seam, just above the woven waistband of the ephod.
 
-**21** They tied the breastpiece by its rings to the rings of the ephod with a cord of blue, so that it lay on the woven waistband of the ephod and the breastpiece would not come loose from the ephod, as Yahweh had commanded Moses.
+**21** They tied the breastpiece by its rings to the rings of the ephod with a cord of blue, so that it lay on the woven waistband of the ephod and the breastpiece would not come loose from the ephod, as the LORD had commanded Moses.
 
 **22** He made the robe of the ephod, the work of a weaver, entirely of blue.
 
@@ -3124,19 +3124,19 @@
 
 **25** They made bells of pure gold and put the bells between the pomegranates, all around the hem of the robe, between the pomegranates:
 
-**26** a bell and a pomegranate, a bell and a pomegranate, all around the hem of the robe, to be worn for serving, as Yahweh had commanded Moses.
+**26** a bell and a pomegranate, a bell and a pomegranate, all around the hem of the robe, to be worn for serving, as the LORD had commanded Moses.
 
 **27** They made the tunics of fine linen, the work of a weaver, for Aaron and his sons,
 
 **28** and the turban of fine linen, the decorated caps[^39-8] of fine linen, and the linen undergarments of fine twisted linen,
 
-**29** and the sash of fine twisted linen and blue, purple and scarlet yarn, the work of an embroiderer, as Yahweh had commanded Moses.
+**29** and the sash of fine twisted linen and blue, purple and scarlet yarn, the work of an embroiderer, as the LORD had commanded Moses.
 
-**30** They made the plate, the holy crown,[^39-9] of pure gold, and wrote on it an inscription, engraved like a seal: "Holy to Yahweh."
+**30** They made the plate, the holy crown,[^39-9] of pure gold, and wrote on it an inscription, engraved like a seal: "Holy to the LORD."
 
-**31** They fastened a cord of blue to it, to attach it to the turban above, as Yahweh had commanded Moses.
+**31** They fastened a cord of blue to it, to attach it to the turban above, as the LORD had commanded Moses.
 
-**32** So all the work on the tabernacle, the tent of meeting, was finished. The Israelites did everything just as Yahweh had commanded Moses. That is what they did.
+**32** So all the work on the tabernacle, the tent of meeting, was finished. The Israelites did everything just as the LORD had commanded Moses. That is what they did.
 
 **33** Then they brought the tabernacle to Moses: the tent and all its furnishings, its clasps, its frames, its crossbars,[^39-10] its posts and its bases;
 
@@ -3156,13 +3156,13 @@
 
 **41** the woven garments for serving in the holy place, the sacred garments for Aaron the priest, and the garments of his sons for serving as priests.
 
-**42** The Israelites had done all the work just as Yahweh had commanded Moses.
+**42** The Israelites had done all the work just as the LORD had commanded Moses.
 
-**43** Moses saw all the work, and they had done it just as Yahweh had commanded. That is what they had done. And Moses blessed them.
+**43** Moses saw all the work, and they had done it just as the LORD had commanded. That is what they had done. And Moses blessed them.
 
 [^39-1]: Literally "the blue and the purple and the crimson worm": wools dyed violet-blue, red-purple and crimson. See 25:4.
 [^39-2]: The meaning of the Hebrew word *serad* is uncertain. See 31:10. Also in verse 41.
-[^39-3]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^39-3]: *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles.
 [^39-4]: About 9 inches (23 cm).
 [^39-5]: The identification of many of the stones in verses 10–13 is uncertain. See 28:17.
 [^39-6]: The meaning of the Hebrew word *tachra* is uncertain.
@@ -3178,7 +3178,7 @@
 
 *Status: draft*
 
-**1** Yahweh[^40-1] said to Moses,
+**1** The LORD[^40-1] said to Moses,
 
 **2** "On the first day of the first month, set up the tabernacle, the tent of meeting.[^40-2]
 
@@ -3208,53 +3208,53 @@
 
 **15** Anoint them as you anointed their father, so that they may serve me as priests. Their anointing will make them a priesthood that lasts forever, for all their generations."
 
-**16** Moses did everything just as Yahweh had commanded him. That is what he did.
+**16** Moses did everything just as the LORD had commanded him. That is what he did.
 
 **17** So on the first day of the first month in the second year,[^40-5] the tabernacle was set up.
 
 **18** Moses set up the tabernacle. He put its bases in place, set up its frames, put in its crossbars and set up its posts.
 
-**19** He spread the tent over the tabernacle and put the covering of the tent on top of it, as Yahweh had commanded Moses.
+**19** He spread the tent over the tabernacle and put the covering of the tent on top of it, as the LORD had commanded Moses.
 
 **20** He took the testimony[^40-6] and put it into the ark. He put the poles on the ark, and he put the atonement cover on top of the ark.
 
-**21** He brought the ark into the tabernacle and hung the veil that screens it off,[^40-7] and so he screened off the ark of the testimony, as Yahweh had commanded Moses.
+**21** He brought the ark into the tabernacle and hung the veil that screens it off,[^40-7] and so he screened off the ark of the testimony, as the LORD had commanded Moses.
 
 **22** He put the table in the tent of meeting, on the north side of the tabernacle, outside the veil.
 
-**23** He set out the bread on it in order before Yahweh, as Yahweh had commanded Moses.
+**23** He set out the bread on it in order before the LORD, as the LORD had commanded Moses.
 
 **24** He put the lampstand in the tent of meeting, opposite the table, on the south side of the tabernacle.
 
-**25** He set up[^40-8] the lamps before Yahweh, as Yahweh had commanded Moses.
+**25** He set up[^40-8] the lamps before the LORD, as the LORD had commanded Moses.
 
 **26** He put the gold altar in the tent of meeting, in front of the veil,
 
-**27** and burned fragrant incense on it, as Yahweh had commanded Moses.
+**27** and burned fragrant incense on it, as the LORD had commanded Moses.
 
 **28** He put up the screen at the entrance of the tabernacle.
 
-**29** He placed the altar of burnt offering at the entrance of the tabernacle, the tent of meeting, and offered on it the burnt offering and the grain offering, as Yahweh had commanded Moses.
+**29** He placed the altar of burnt offering at the entrance of the tabernacle, the tent of meeting, and offered on it the burnt offering and the grain offering, as the LORD had commanded Moses.
 
 **30** He placed the basin between the tent of meeting and the altar, and put water in it for washing.
 
 **31** Moses and Aaron and his sons would wash their hands and their feet with water from it.
 
-**32** Whenever they went into the tent of meeting, and whenever they came near the altar, they would wash, as Yahweh had commanded Moses.
+**32** Whenever they went into the tent of meeting, and whenever they came near the altar, they would wash, as the LORD had commanded Moses.
 
 **33** He set up the courtyard around the tabernacle and the altar, and put up the screen at the gate of the courtyard. So Moses finished the work.
 
-**34** Then the cloud covered the tent of meeting, and the glory of Yahweh filled the tabernacle.
+**34** Then the cloud covered the tent of meeting, and the glory of the LORD filled the tabernacle.
 
-**35** Moses could not go into the tent of meeting, because the cloud had settled[^40-9] on it, and the glory of Yahweh filled the tabernacle.
+**35** Moses could not go into the tent of meeting, because the cloud had settled[^40-9] on it, and the glory of the LORD filled the tabernacle.
 
 **36** Whenever the cloud lifted from above the tabernacle, the Israelites would set out. So it was in all their journeys.
 
 **37** But if the cloud did not lift, they did not set out until the day it lifted.
 
-**38** For the cloud of Yahweh was over the tabernacle by day, and there was fire in it[^40-10] by night, in the sight of the whole house of Israel, in all their journeys.
+**38** For the cloud of the LORD was over the tabernacle by day, and there was fire in it[^40-10] by night, in the sight of the whole house of Israel, in all their journeys.
 
-[^40-1]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^40-1]: *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles.
 [^40-2]: Literally "the tabernacle of the tent of meeting". Also in verses 6 and 29.
 [^40-3]: Literally "arrange its arrangement": the bread of the Presence (verse 23; 25:30).
 [^40-4]: Literally "make its lamps go up": either setting them in place on the lampstand or lighting them (see 25:37).

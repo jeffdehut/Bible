@@ -1,4 +1,4 @@
-"""Shared helpers for writing the Obsidian notes in connections/."""
+"""Shared helpers for writing the connection notes in connections/."""
 
 import json
 import os

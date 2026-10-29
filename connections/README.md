@@ -1,22 +1,20 @@
 # Connections: start here
 
-These notes recreate Chris Harrison's [Bible visualizations](https://www.chrisharrison.net/index.php/visualizations/BibleViz) as links you can explore in Obsidian's graph view, using open data and the original-language texts in this repository.
-
-Open the repository folder as an Obsidian vault, then open **Graph view**.
+These notes recreate Chris Harrison's [Bible visualizations](https://www.chrisharrison.net/index.php/visualizations/BibleViz) as notes linked to one another, using open data and the original-language texts in this repository. The site's *Web of Scripture* (`graph.html`) draws them all as one web.
 
 ## 1. Cross-references (Harrison's arc diagram)
 
-Graph filter: `path:connections/chapters` (the default). Each of the 1,189 nodes is a chapter, colored by section from Torah (red) to Revelation (violet). Each line is a cross-reference between two chapters. 61,387 cross-references connect 33,542 pairs of chapters. Harrison's graphic draws 63,779.
+There is a note for each of the 1,189 chapters, in `chapters/`, linked to the chapters it shares cross-references with. 61,387 cross-references connect 33,542 pairs of chapters. Harrison's graphic draws 63,779.
 
-Open any chapter note to read the text with its cross-references verse by verse. Obsidian's *Backlinks* pane lists the chapters that point back to it, and *Local graph* shows its neighbors.
+Open any chapter note to read the text with its cross-references verse by verse.
 
 ## 2. People and places (Harrison's social network)
 
-Graph filter: `path:connections/people OR path:connections/places`. Each node is a person (3,003) or place (1,004). Two are linked when they are named in the same verse (15,318 pairs), as in Harrison's graph.
+There is a note for each person (3,003, in `people/`) and place (1,004, in `places/`). Two are linked when they are named in the same verse (15,318 pairs), as in Harrison's graph.
 
 ## 3. Where names occur (Harrison's distribution chart)
 
-Each person and place note lists every chapter it appears in, in canonical order, with the number of verses. Its *Local graph* shows the same thing visually.
+Each person and place note lists every chapter it appears in, in canonical order, with the number of verses.
 
 ## 4. Genealogy
 
@@ -45,7 +43,7 @@ Ussher anchor dates in the verse data: Creation 4004 BC; The Flood 2348 BC; Tera
 
 **Verse numbering.** Both datasets use English verse numbers. Old Testament references are converted to the Hebrew numbering of our text using STEPBible's [TVTMS](https://github.com/STEPBible/STEPBible-Data) mapping. That mapping comes with tests for detecting which numbering a Bible follows. Run against our text, 4,953 of 4,957 Hebrew-tradition rows pass. The rest are for Bibles that number Psalm titles separately, which ours doesn't. This yields 1,970 renumbered verses, e.g. English Malachi 4:5 = Hebrew Malachi 3:23. Unresolved references: 0 cross-references, 0 name references.
 
-**Names.** Each note is titled with TIPNR's main English name, and its other names are Obsidian aliases, so searching for *Jacob* finds the patriarch, whom TIPNR files under *Israel*. TIPNR's *Israel* covers both the patriarch and the nation named after him, so it is the largest hub in the network, as it is in Harrison's.
+**Names.** Each note is titled with TIPNR's main English name, and its other names are listed as aliases, so searching for *Jacob* finds the patriarch, whom TIPNR files under *Israel*. TIPNR's *Israel* covers both the patriarch and the nation named after him, so it is the largest hub in the network, as it is in Harrison's.
 
 **Left out:** names of groups and nations (e.g. Amorites), unnamed people (e.g. "the father of …"), and names found only in the Greek Septuagint. The cross-reference list per verse is sorted by votes, highest first.
 

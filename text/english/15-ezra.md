@@ -7,19 +7,19 @@
 
 *Status: draft*
 
-**1** In the first year of Cyrus king of Persia,[^1-1] to fulfill the word of Yahweh[^1-2] spoken by Jeremiah,[^1-3] Yahweh stirred the spirit of Cyrus king of Persia, and he sent a proclamation throughout his whole kingdom and also put it in writing:[^1-4]
+**1** In the first year of Cyrus king of Persia,[^1-1] to fulfill the word of the LORD[^1-2] spoken by Jeremiah,[^1-3] the LORD stirred the spirit of Cyrus king of Persia, and he sent a proclamation throughout his whole kingdom and also put it in writing:[^1-4]
 
-**2** "This is what Cyrus king of Persia says: Yahweh, the God of heaven, has given me all the kingdoms of the earth, and he has appointed me[^1-5] to build him a house in Jerusalem, which is in Judah.
+**2** "This is what Cyrus king of Persia says: The LORD, the God of heaven, has given me all the kingdoms of the earth, and he has appointed me[^1-5] to build him a house in Jerusalem, which is in Judah.
 
-**3** Whoever among you belongs to any of his people, may his God be with him! Let him go up to Jerusalem, which is in Judah, and build the house of Yahweh, the God of Israel. He is the God who is in Jerusalem.[^1-6]
+**3** Whoever among you belongs to any of his people, may his God be with him! Let him go up to Jerusalem, which is in Judah, and build the house of the LORD, the God of Israel. He is the God who is in Jerusalem.[^1-6]
 
 **4** And every survivor,[^1-7] in whatever place he is living as a foreigner, is to be helped[^1-8] by the people of his place with silver and gold, with goods and with livestock, besides freewill offerings for the house of God in Jerusalem."
 
-**5** Then the heads of the ancestral families[^1-9] of Judah and Benjamin, and the priests and the Levites, everyone whose spirit God had stirred, got ready to go up and build the house of Yahweh in Jerusalem.
+**5** Then the heads of the ancestral families[^1-9] of Judah and Benjamin, and the priests and the Levites, everyone whose spirit God had stirred, got ready to go up and build the house of the LORD in Jerusalem.
 
 **6** All their neighbors helped them[^1-10] with articles of silver, with gold, with goods, with livestock and with valuable gifts, besides everything that was given as a freewill offering.
 
-**7** King Cyrus also brought out the articles of the house of Yahweh that Nebuchadnezzar had carried away from Jerusalem and put in the house of his gods.[^1-11]
+**7** King Cyrus also brought out the articles of the house of the LORD that Nebuchadnezzar had carried away from Jerusalem and put in the house of his gods.[^1-11]
 
 **8** Cyrus king of Persia had them brought out by Mithredath the treasurer,[^1-12] who counted them out to Sheshbazzar, the leader of Judah.[^1-13]
 
@@ -30,11 +30,11 @@
 **11** All the articles of gold and of silver numbered 5,400.[^1-17] Sheshbazzar brought them all up when the exiles were brought up from Babylon to Jerusalem.
 
 [^1-1]: Verses 1–3 repeat, with small differences, the last two verses of 2 Chronicles (36:22–23), which break off in the middle of verse 3 at "let him go up". Cyrus II of Persia conquered Babylon in 539 BC, so his first year as its king was 538 BC.
-[^1-2]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^1-2]: *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles.
 [^1-3]: Literally "from the mouth of Jeremiah". See Jeremiah 25:11–12; 29:10.
 [^1-4]: Literally "and he made a voice pass through all his kingdom, and also in writing, saying".
 [^1-5]: Or "charged me". Literally "he has appointed on me".
-[^1-6]: Or "the God of Israel. He is God. It is in Jerusalem." 2 Chronicles 36:23 reads "may Yahweh his God be with him, and let him go up" and ends there.
+[^1-6]: Or "the God of Israel. He is God. It is in Jerusalem." 2 Chronicles 36:23 reads "may the LORD his God be with him, and let him go up" and ends there.
 [^1-7]: Literally "everyone who remains", that is, the people of Judah who survived the exile.
 [^1-8]: Literally "the men of his place are to lift him up".
 [^1-9]: Literally "the heads of the fathers", that is, of the fathers' houses: extended families descended from a common ancestor. The phrase recurs throughout Ezra and Nehemiah.
@@ -185,7 +185,7 @@
 
 **67** their camels 435 and their donkeys 6,720.
 
-**68** When they came to the house of Yahweh[^2-52] in Jerusalem, some of the heads of the ancestral families gave freewill offerings for the house of God, to set it up on its site.
+**68** When they came to the house of the LORD[^2-52] in Jerusalem, some of the heads of the ancestral families gave freewill offerings for the house of God, to set it up on its site.
 
 **69** As they were able, they gave to the treasury for the work 61,000 darics[^2-53] of gold, 5,000 minas[^2-54] of silver and 100 priests' garments.[^2-55]
 
@@ -238,11 +238,11 @@
 [^2-45]: Literally "they were defiled from the priesthood". Nehemiah 7:64 has "it was not found".
 [^2-46]: Hebrew *tirshata*, a Persian title of a high official, perhaps meaning "His Excellency". It is used of Nehemiah in Nehemiah 8:9 and 10:2 (10:1 in most English Bibles).
 [^2-47]: Literally "the holy of holies": the priests' share of the most holy offerings (Leviticus 2:3; 6:10–11, English 6:17–18).
-[^2-48]: Literally "until a priest stood for Urim and for Thummim". These were kept in the high priest's breastpiece and used to learn Yahweh's decision (Exodus 28:30; Numbers 27:21). Nehemiah 7:65 has "the priest".
+[^2-48]: Literally "until a priest stood for Urim and for Thummim". These were kept in the high priest's breastpiece and used to learn the LORD's decision (Exodus 28:30; Numbers 27:21). Nehemiah 7:65 has "the priest".
 [^2-49]: The numbers given in verses 3–60 add up to 29,818.
 [^2-50]: Nehemiah 7:67 has 245 singers.
 [^2-51]: The Hebrew text of Nehemiah 7 does not have this line on the horses and mules.
-[^2-52]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^2-52]: *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles.
 [^2-53]: Hebrew *darkemonim*: probably darics, Persian gold coins weighing about 0.3 ounce (8.4 g) each; or Greek drachmas.
 [^2-54]: A mina was about 1.25 pounds (0.6 kg).
 [^2-55]: Nehemiah 7:69–71 (7:70–72 in most English Bibles) records the gifts differently.
@@ -256,23 +256,23 @@
 
 **2** Then Jeshua son of Jozadak and his fellow priests,[^3-2] and Zerubbabel son of Shealtiel and his kinsmen, set to work and built the altar of the God of Israel, to offer burnt offerings[^3-3] on it, as it is written in the Law of Moses, the man of God.
 
-**3** They set up the altar on its foundations, because they were afraid of the peoples of the lands,[^3-4] and they offered burnt offerings on it to Yahweh,[^3-5] burnt offerings morning and evening.[^3-6]
+**3** They set up the altar on its foundations, because they were afraid of the peoples of the lands,[^3-4] and they offered burnt offerings on it to the LORD,[^3-5] burnt offerings morning and evening.[^3-6]
 
 **4** They kept the Festival of Shelters,[^3-7] as it is written, and offered the daily burnt offerings by number, as prescribed for each day.[^3-8]
 
-**5** After that they offered the regular burnt offering,[^3-9] the offerings for the new moons and for all the sacred appointed festivals of Yahweh, and the offerings of everyone who brought a freewill offering to Yahweh.
+**5** After that they offered the regular burnt offering,[^3-9] the offerings for the new moons and for all the sacred appointed festivals of the LORD, and the offerings of everyone who brought a freewill offering to the LORD.
 
-**6** From the first day of the seventh month they began to offer burnt offerings to Yahweh, but the foundation of the temple of Yahweh had not yet been laid.
+**6** From the first day of the seventh month they began to offer burnt offerings to the LORD, but the foundation of the temple of the LORD had not yet been laid.
 
 **7** So they gave money to the stonecutters and the craftsmen, and food, drink and oil to the people of Sidon and Tyre, to bring cedar wood from Lebanon by sea to Joppa,[^3-10] as Cyrus king of Persia had authorized them.
 
-**8** In the second month of the second year after they came to the house of God in Jerusalem, Zerubbabel son of Shealtiel, Jeshua son of Jozadak and the rest of their kinsmen, the priests and the Levites, and all who had come to Jerusalem from the captivity, made a start. They appointed the Levites who were twenty years old or more to supervise the work on the house of Yahweh.
+**8** In the second month of the second year after they came to the house of God in Jerusalem, Zerubbabel son of Shealtiel, Jeshua son of Jozadak and the rest of their kinsmen, the priests and the Levites, and all who had come to Jerusalem from the captivity, made a start. They appointed the Levites who were twenty years old or more to supervise the work on the house of the LORD.
 
 **9** Jeshua,[^3-11] with his sons and his kinsmen, and Kadmiel and his sons, the descendants of Judah,[^3-12] together took charge of supervising those doing the work on the house of God, along with the descendants of Henadad, their sons and their kinsmen, the Levites.
 
-**10** When the builders laid the foundation of the temple of Yahweh, the priests in their vestments[^3-13] were stationed with trumpets, and the Levites, the descendants of Asaph, with cymbals, to praise Yahweh as David king of Israel had directed.[^3-14]
+**10** When the builders laid the foundation of the temple of the LORD, the priests in their vestments[^3-13] were stationed with trumpets, and the Levites, the descendants of Asaph, with cymbals, to praise the LORD as David king of Israel had directed.[^3-14]
 
-**11** They sang responsively,[^3-15] praising and giving thanks to Yahweh: "For he is good; his faithful love[^3-16] toward Israel lasts forever." And all the people shouted with a great shout as they praised Yahweh, because the foundation of the house of Yahweh had been laid.
+**11** They sang responsively,[^3-15] praising and giving thanks to the LORD: "For he is good; his faithful love[^3-16] toward Israel lasts forever." And all the people shouted with a great shout as they praised the LORD, because the foundation of the house of the LORD had been laid.
 
 **12** But many of the priests and the Levites and the heads of the ancestral families, the old men who had seen the first house, wept aloud when the foundation of this house was laid before their eyes,[^3-17] while many others shouted aloud for joy.
 
@@ -282,7 +282,7 @@
 [^3-2]: Literally "his brothers"; also "his kinsmen" later in the verse and in verses 8–9.
 [^3-3]: Hebrew *olot*, from the verb "go up": offerings wholly burned on the altar (Leviticus 1).
 [^3-4]: Or "even though they were afraid of the peoples of the lands". The Hebrew is difficult. *The peoples of the lands* are the other peoples living in and around Judah.
-[^3-5]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^3-5]: *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles.
 [^3-6]: The Hebrew text is written "he offered" but read "they offered".
 [^3-7]: Hebrew *sukkot*, "booths, shelters". Traditionally "Tabernacles". See Leviticus 23:33–43; Numbers 29:12–38.
 [^3-8]: Literally "according to the ruling, the matter of a day in its day".
@@ -300,11 +300,11 @@
 
 *Status: draft*
 
-**1** When the enemies of Judah and Benjamin heard that the returned exiles[^4-1] were building a temple for Yahweh,[^4-2] the God of Israel,
+**1** When the enemies of Judah and Benjamin heard that the returned exiles[^4-1] were building a temple for the LORD,[^4-2] the God of Israel,
 
 **2** they came to Zerubbabel and to the heads of the ancestral families and said to them, "Let us build with you, for like you we seek your God, and we have been sacrificing to him[^4-3] since the days of Esarhaddon king of Assyria, who brought us here."[^4-4]
 
-**3** But Zerubbabel, Jeshua and the rest of the heads of the ancestral families of Israel said to them, "It is not for you to build a house for our God with us.[^4-5] We alone will build it for Yahweh, the God of Israel, as King Cyrus, the king of Persia, commanded us."
+**3** But Zerubbabel, Jeshua and the rest of the heads of the ancestral families of Israel said to them, "It is not for you to build a house for our God with us.[^4-5] We alone will build it for the LORD, the God of Israel, as King Cyrus, the king of Persia, commanded us."
 
 **4** Then the people of the land[^4-6] discouraged the people of Judah[^4-7] and made them afraid to build.
 
@@ -349,7 +349,7 @@
 **24** Then the work on the house of God in Jerusalem stopped, and it remained stopped until the second year of the reign of Darius king of Persia.[^4-30]
 
 [^4-1]: Literally "the sons of the exile".
-[^4-2]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^4-2]: *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles.
 [^4-3]: The Hebrew text is written "and we have not been sacrificing" but read "and we have been sacrificing to him".
 [^4-4]: Esarhaddon was king of Assyria from 681 to 669 BC. On the peoples the Assyrians settled in the land, see 2 Kings 17:24–41.
 [^4-5]: Literally "Not for you and for us to build a house for our God".
@@ -475,9 +475,9 @@
 
 **20** The priests and the Levites had purified themselves together, and all of them were clean. They slaughtered the Passover lamb for all the returned exiles, for their kinsmen the priests and for themselves.
 
-**21** The Israelites who had returned from the exile ate it, together with everyone who had separated himself from the uncleanness of the nations of the land to join them, to seek Yahweh,[^6-19] the God of Israel.
+**21** The Israelites who had returned from the exile ate it, together with everyone who had separated himself from the uncleanness of the nations of the land to join them, to seek the LORD,[^6-19] the God of Israel.
 
-**22** For seven days they kept the Festival of Unleavened Bread with joy, because Yahweh had made them joyful and had turned the heart of the king of Assyria[^6-20] toward them, so that he strengthened their hands in the work on the house of God, the God of Israel.
+**22** For seven days they kept the Festival of Unleavened Bread with joy, because the LORD had made them joyful and had turned the heart of the king of Assyria[^6-20] toward them, so that he strengthened their hands in the work on the house of God, the God of Israel.
 
 [^6-1]: Aramaic *te'em*, "order, decree". The text of 4:8–6:18 is in Aramaic.
 [^6-2]: Literally "in the house of the books".
@@ -497,7 +497,7 @@
 [^6-16]: Aramaic *bene galuta*, "the sons of the exile". In verses 19–20 the Hebrew has the same phrase, *bene ha-golah*.
 [^6-17]: Or "purification offering". Aramaic *chatta'ah*, Hebrew *chatta't*: an offering to remove the effects of sin and impurity (Leviticus 4).
 [^6-18]: The Aramaic section that began at 4:8 ends here. From verse 19 the text is in Hebrew again.
-[^6-19]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^6-19]: *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles.
 [^6-20]: Here the Persian king, who now ruled the lands of the former Assyrian Empire.
 
 ## Chapter 7
@@ -514,7 +514,7 @@
 
 **5** son of Abishua, son of Phinehas, son of Eleazar, son of Aaron the chief priest,
 
-**6** this Ezra came up from Babylon. He was a scribe skilled in the Law of Moses, which Yahweh,[^7-3] the God of Israel, had given. The king granted him everything he asked, because the hand of Yahweh his God was on him.
+**6** this Ezra came up from Babylon. He was a scribe skilled in the Law of Moses, which the LORD,[^7-3] the God of Israel, had given. The king granted him everything he asked, because the hand of the LORD his God was on him.
 
 **7** Some of the Israelites, and some of the priests, the Levites, the singers, the gatekeepers and the temple servants, also went up to Jerusalem in the seventh year of King Artaxerxes.
 
@@ -522,9 +522,9 @@
 
 **9** On the first day of the first month he began the journey up from Babylon,[^7-4] and on the first day of the fifth month he came to Jerusalem, because the good hand of his God was on him.
 
-**10** For Ezra had set his heart to study[^7-5] the Law of Yahweh and to do it, and to teach its decrees and rulings[^7-6] in Israel.
+**10** For Ezra had set his heart to study[^7-5] the Law of the LORD and to do it, and to teach its decrees and rulings[^7-6] in Israel.
 
-**11** This is a copy of the letter that King Artaxerxes gave to Ezra the priest, the scribe, a scribe learned in the words of Yahweh's commands and his decrees for Israel:
+**11** This is a copy of the letter that King Artaxerxes gave to Ezra the priest, the scribe, a scribe learned in the words of the LORD's commands and his decrees for Israel:
 
 **12** "Artaxerxes, king of kings, to Ezra the priest, the scribe of the law[^7-7] of the God of heaven: Perfect peace.[^7-8] And now:
 
@@ -556,13 +556,13 @@
 
 **26** Whoever does not obey the law of your God and the law of the king, let judgment be carried out on him strictly, whether death, banishment,[^7-16] confiscation of property or imprisonment."
 
-**27** Blessed be Yahweh, the God of our ancestors,[^7-17] who put such a thing as this into the king's heart, to bring honor to the house of Yahweh in Jerusalem,
+**27** Blessed be the LORD, the God of our ancestors,[^7-17] who put such a thing as this into the king's heart, to bring honor to the house of the LORD in Jerusalem,
 
-**28** and who has shown me faithful love[^7-18] before the king and his advisers and all the king's powerful officials. I took courage, because the hand of Yahweh my God was on me, and I gathered leaders from Israel to go up with me.
+**28** and who has shown me faithful love[^7-18] before the king and his advisers and all the king's powerful officials. I took courage, because the hand of the LORD my God was on me, and I gathered leaders from Israel to go up with me.
 
 [^7-1]: Artaxerxes I, who reigned from 465 to 424 BC. His seventh year (verse 7) was 458 BC, about sixty years after the temple was finished (6:15).
 [^7-2]: The list in verses 1–5 is shorter than the line of high priests in 1 Chronicles 5:29–41 (6:3–15 in most English Bibles). "Son" can also mean "descendant".
-[^7-3]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^7-3]: *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles.
 [^7-4]: Literally "it was the founding of the going up from Babylon".
 [^7-5]: Literally "to seek".
 [^7-6]: Literally "decree and ruling".
@@ -637,9 +637,9 @@
 
 **27** 20 gold bowls worth 1,000 darics,[^8-17] and 2 articles of fine polished bronze,[^8-18] as precious as gold.
 
-**28** I said to them, "You are holy to Yahweh,[^8-19] and the articles are holy. The silver and the gold are a freewill offering to Yahweh, the God of your ancestors.
+**28** I said to them, "You are holy to the LORD,[^8-19] and the articles are holy. The silver and the gold are a freewill offering to the LORD, the God of your ancestors.
 
-**29** Guard them carefully until you weigh them out in Jerusalem, in the chambers of the house of Yahweh, before the leading priests and Levites and the leaders of the ancestral families of Israel."
+**29** Guard them carefully until you weigh them out in Jerusalem, in the chambers of the house of the LORD, before the leading priests and Levites and the leaders of the ancestral families of Israel."
 
 **30** So the priests and the Levites took charge of the silver, the gold and the articles by weight, to bring them to Jerusalem, to the house of our God.
 
@@ -651,7 +651,7 @@
 
 **34** Everything was counted and weighed, and the whole weight was recorded at that time.
 
-**35** The exiles who had come back from captivity[^8-21] offered burnt offerings to the God of Israel: twelve bulls for all Israel, ninety-six rams, seventy-seven lambs, and twelve male goats as a sin offering.[^8-22] All this was a burnt offering to Yahweh.
+**35** The exiles who had come back from captivity[^8-21] offered burnt offerings to the God of Israel: twelve bulls for all Israel, ninety-six rams, seventy-seven lambs, and twelve male goats as a sin offering.[^8-22] All this was a burnt offering to the LORD.
 
 **36** They delivered the king's orders[^8-23] to the king's satraps[^8-24] and the governors of the province Beyond the River,[^8-25] and they gave their support to the people and to the house of God.
 
@@ -673,7 +673,7 @@
 [^8-16]: Literally "silver articles, 100 by talents". The Hebrew may mean 100 silver articles whose weight in talents is not given.
 [^8-17]: Hebrew *adarkonim*: probably darics, Persian gold coins; see 2:69.
 [^8-18]: The meaning of Hebrew *mutshav tovah* is uncertain: perhaps "fine shining bronze".
-[^8-19]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^8-19]: *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles.
 [^8-20]: Literally "from the hand of the enemy and the one lying in ambush on the way".
 [^8-21]: Literally "Those who came from the captivity, the sons of the exile".
 [^8-22]: Or "purification offering". Hebrew *chatta't*: an offering to remove the effects of sin and impurity (Leviticus 4).
@@ -693,13 +693,13 @@
 
 **4** Then everyone who trembled at the words of the God of Israel gathered around me because of the unfaithfulness of the exiles, while I sat appalled until the evening offering.[^9-6]
 
-**5** At the evening offering I got up from my self-humbling,[^9-7] with my garment and my robe torn, and I fell on my knees and spread out my hands to Yahweh[^9-8] my God.
+**5** At the evening offering I got up from my self-humbling,[^9-7] with my garment and my robe torn, and I fell on my knees and spread out my hands to the LORD[^9-8] my God.
 
 **6** I said, "My God, I am ashamed and humiliated to lift up my face to you, my God, for our iniquities have risen higher than our heads, and our guilt has grown as high as the heavens.
 
 **7** From the days of our ancestors until this day we have been deep in guilt. Because of our iniquities, we, our kings and our priests have been handed over to the kings of the lands, to the sword, to captivity, to plunder and to open shame,[^9-9] as it is today.
 
-**8** But now, for a brief moment, Yahweh our God has shown us grace by leaving us survivors and giving us a firm place[^9-10] in his holy place, so that our God may brighten our eyes and give us a little new life in our slavery.
+**8** But now, for a brief moment, the LORD our God has shown us grace by leaving us survivors and giving us a firm place[^9-10] in his holy place, so that our God may brighten our eyes and give us a little new life in our slavery.
 
 **9** For we are slaves. Yet our God has not forsaken us in our slavery. He has shown us faithful love[^9-11] before the kings of Persia, giving us new life to set up the house of our God and repair its ruins, and giving us a wall[^9-12] in Judah and Jerusalem.
 
@@ -713,7 +713,7 @@
 
 **14** shall we again break your commands and intermarry with the peoples who practice these detestable things? Would you not be angry with us until you had destroyed us, leaving no remnant or survivors?
 
-**15** Yahweh, God of Israel, you are righteous, for we are left as survivors, as it is today. Here we are before you in our guilt, though because of this no one can stand before you."
+**15** LORD, God of Israel, you are righteous, for we are left as survivors, as it is today. Here we are before you in our guilt, though because of this no one can stand before you."
 
 [^9-1]: Hebrew *to'evot*, "abominations, detestable things". Also in verses 11 and 14.
 [^9-2]: Compare Deuteronomy 7:1–4 and 23:4–9 (23:3–8 in most English Bibles).
@@ -722,7 +722,7 @@
 [^9-5]: Hebrew *ma'al*: a breach of faith, betraying a trust, especially toward God. Also in verse 4.
 [^9-6]: Hebrew *minchah*, "offering", here the offering made at the end of the afternoon. Also in verse 5.
 [^9-7]: Or "my fasting".
-[^9-8]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^9-8]: *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles.
 [^9-9]: Literally "shame of face".
 [^9-10]: Literally "a peg", like a tent peg driven firmly into the ground.
 [^9-11]: Hebrew *chesed*: loyal, faithful love. Literally "he has extended faithful love to us".
@@ -756,7 +756,7 @@
 
 **10** Then Ezra the priest stood up and said to them, "You have been unfaithful and have married foreign women, adding to the guilt of Israel.
 
-**11** Now make confession[^10-7] to Yahweh,[^10-8] the God of your ancestors, and do his will. Separate yourselves from the peoples of the land and from the foreign women."
+**11** Now make confession[^10-7] to the LORD,[^10-8] the God of your ancestors, and do his will. Separate yourselves from the peoples of the land and from the foreign women."
 
 **12** Then the whole assembly answered with a loud voice, "Yes! It is our duty to do according to your word.[^10-9]
 
@@ -831,7 +831,7 @@
 [^10-5]: Hebrew *charam*, "devote": to give something up wholly to God, so that it is lost to its owner.
 [^10-6]: The ninth month, Kislev, around November–December, in the rainy season.
 [^10-7]: Or "give praise". Hebrew *todah* can mean either.
-[^10-8]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^10-8]: *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles.
 [^10-9]: The Hebrew text is written "your words" but read "your word".
 [^10-10]: Or "were put in charge of this". Literally "stood over this".
 [^10-11]: Or "Ezra the priest selected men who were heads of ancestral families". Literally "And they were set apart, Ezra the priest, men, heads of the fathers, by their fathers' house, and all of them by names".

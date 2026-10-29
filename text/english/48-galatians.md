@@ -201,7 +201,7 @@
 [^3-2]: Or "by believing what you heard", or "by the message that brings faith". Literally "from hearing of faith"; also in verse 5.
 [^3-3]: Greek *sarx*, "flesh". In Paul's moral sense, human nature in its weakness and opposition to God; here perhaps also with a glance at circumcision, a rite performed on the flesh.
 [^3-4]: Or "experience".
-[^3-5]: Genesis 15:6, as in the Septuagint (see Romans 4:3). The Hebrew has "Yahweh", God's personal name, where Paul has "God".
+[^3-5]: Genesis 15:6, as in the Septuagint (see Romans 4:3). The Hebrew has God's personal name, YHWH ("the LORD"), where Paul has "God".
 [^3-6]: Greek *huioi*, "sons". Paul includes women and men (verses 26–28).
 [^3-7]: Greek *dikaioo*, traditionally "justify"; also in verses 11 and 24. *Gentiles* and *nations* later in the verse translate the same Greek word, *ethne*.
 [^3-8]: Genesis 12:3, with "all the nations" from 18:18 (compare 22:18).
@@ -306,7 +306,7 @@
 [^4-13]: That is, in the ordinary human way; also in verse 29.
 [^4-14]: Literally "the Hagar", perhaps meaning the name Hagar. Many manuscripts read "For Hagar".
 [^4-15]: Many manuscripts read "the mother of us all".
-[^4-16]: Isaiah 54:1, as in the Septuagint, which has "Rejoice" where the Hebrew has "Sing". The Hebrew adds "says Yahweh".
+[^4-16]: Isaiah 54:1, as in the Septuagint, which has "Rejoice" where the Hebrew has "Sing". The Hebrew adds "says the LORD".
 [^4-17]: Many manuscripts read "Now we … are".
 [^4-18]: Compare Genesis 21:9.
 [^4-19]: Genesis 21:10, where Sarah says "with my son, with Isaac".

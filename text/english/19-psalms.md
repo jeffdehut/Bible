@@ -9,7 +9,7 @@
 
 **1** Happy[^1-1] is the one[^1-2] who does not walk by the advice of the wicked, or stand in the way of sinners, or sit in the seat of mockers.
 
-**2** Instead, his delight is in the law[^1-3] of Yahweh,[^1-4] and on his law he meditates[^1-5] day and night.
+**2** Instead, his delight is in the law[^1-3] of the LORD,[^1-4] and on his law he meditates[^1-5] day and night.
 
 **3** He is like a tree planted by streams of water, which yields its fruit in its season, and its leaves do not wither. In all that he does, he prospers.
 
@@ -17,12 +17,12 @@
 
 **5** So the wicked will not stand[^1-6] in the judgment, nor sinners in the assembly of the righteous.
 
-**6** For Yahweh knows[^1-7] the way of the righteous, but the way of the wicked will perish.
+**6** For the LORD knows[^1-7] the way of the righteous, but the way of the wicked will perish.
 
 [^1-1]: Hebrew *ashrei*: happy, fortunate; traditionally "blessed". It describes a life that goes well, and is a different word from *barukh*, "blessed", used when God blesses or is blessed.
 [^1-2]: Literally "the man".
 [^1-3]: Hebrew *torah*, "instruction, teaching": here God's teaching as a whole. Also in the next line.
-[^1-4]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^1-4]: *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles.
 [^1-5]: Or "murmurs", reading quietly aloud.
 [^1-6]: Or "will not rise".
 [^1-7]: That is, watches over and cares for.
@@ -33,7 +33,7 @@
 
 **1** Why do the nations rage,[^2-1] and the peoples plot in vain?[^2-2]
 
-**2** The kings of the earth take their stand, and the rulers conspire together, against Yahweh[^2-3] and against his anointed one:[^2-4]
+**2** The kings of the earth take their stand, and the rulers conspire together, against the LORD[^2-3] and against his anointed one:[^2-4]
 
 **3** "Let us break their chains, and throw off their ropes from us!"
 
@@ -43,7 +43,7 @@
 
 **6** "I myself have installed[^2-5] my king on Zion, my holy mountain."
 
-**7** I will proclaim the decree of Yahweh.[^2-6] He said to me, "You are my son; today I have become your father.[^2-7]
+**7** I will proclaim the decree of the LORD.[^2-6] He said to me, "You are my son; today I have become your father.[^2-7]
 
 **8** Ask me, and I will make the nations your inheritance, the ends of the earth your possession.
 
@@ -51,20 +51,20 @@
 
 **10** So now, you kings, be wise; take warning, you who rule the earth.[^2-9]
 
-**11** Serve Yahweh with fear, and rejoice with trembling.
+**11** Serve the LORD with fear, and rejoice with trembling.
 
 **12** Kiss the son,[^2-10] or he will be angry, and you will perish on your way, for his anger flares up quickly. Happy[^2-11] are all who take refuge in him.
 
 [^2-1]: Or "conspire", "gather in uproar". Acts 4:25–26 quotes verses 1–2.
 [^2-2]: Literally "murmur emptiness".
-[^2-3]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
-[^2-4]: Hebrew *meshicho*, "his anointed one", the king anointed at Yahweh's command, from *mashiach*, the word behind "Messiah". Later Jewish and Christian readers heard the promised Messiah in this psalm, and Acts 4:25–27 applies verses 1–2 to Jesus.
+[^2-3]: *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles.
+[^2-4]: Hebrew *meshicho*, "his anointed one", the king anointed at the LORD's command, from *mashiach*, the word behind "Messiah". Later Jewish and Christian readers heard the promised Messiah in this psalm, and Acts 4:25–27 applies verses 1–2 to Jesus.
 [^2-5]: Hebrew *nasakhti*. The verb usually means "pour out" (as a drink offering), so perhaps "consecrated"; here it probably means "set up, installed".
-[^2-6]: The king now speaks. Or "I will proclaim the decree: Yahweh said to me".
-[^2-7]: Literally "today I have begotten you". At his enthronement the king becomes Yahweh's son (compare 2 Samuel 7:14, "I will be his father, and he will be my son"). Acts 13:33 and Hebrews 1:5; 5:5 quote this line, and it is echoed in the voice from heaven at Jesus' baptism (Mark 1:11).
+[^2-6]: The king now speaks. Or "I will proclaim the decree: The LORD said to me".
+[^2-7]: Literally "today I have begotten you". At his enthronement the king becomes the LORD's son (compare 2 Samuel 7:14, "I will be his father, and he will be my son"). Acts 13:33 and Hebrews 1:5; 5:5 quote this line, and it is echoed in the voice from heaven at Jesus' baptism (Mark 1:11).
 [^2-8]: Or "with an iron scepter". The Septuagint, reading the same consonants with different vowels, has "You will shepherd them with a rod of iron", the wording found in Revelation 2:27; 12:5; 19:15.
 [^2-9]: Literally "you judges of the earth".
-[^2-10]: Hebrew *nashqu-bar*, a disputed phrase. *Bar* is the Aramaic word for "son" (verse 7 has the Hebrew *ben*), and a kiss was a sign of homage (compare 1 Kings 19:18). But *bar* can also mean "pure", giving "Kiss sincerely" or "Do homage in purity". The Septuagint reads "Take hold of instruction" (or "discipline"). Some scholars rearrange the words at the end of verse 11 and the start of verse 12 to read "with trembling kiss his feet". It is not clear whether "he" and "his" in the rest of the verse refer to Yahweh or to the son.
+[^2-10]: Hebrew *nashqu-bar*, a disputed phrase. *Bar* is the Aramaic word for "son" (verse 7 has the Hebrew *ben*), and a kiss was a sign of homage (compare 1 Kings 19:18). But *bar* can also mean "pure", giving "Kiss sincerely" or "Do homage in purity". The Septuagint reads "Take hold of instruction" (or "discipline"). Some scholars rearrange the words at the end of verse 11 and the start of verse 12 to read "with trembling kiss his feet". It is not clear whether "he" and "his" in the rest of the verse refer to the LORD or to the son.
 [^2-11]: Hebrew *ashrei*: happy, fortunate; traditionally "blessed".
 
 ## Chapter 3
@@ -73,24 +73,24 @@
 
 **1** A psalm of David, when he fled from his son Absalom.[^3-1]
 
-**2** Yahweh,[^3-2] how many are my adversaries! Many are rising up against me.
+**2** LORD,[^3-2] how many are my adversaries! Many are rising up against me.
 
 **3** Many are saying of me,[^3-3] "There is no salvation for him in God." Selah.[^3-4]
 
-**4** But you, Yahweh, are a shield around me, my glory,[^3-5] the one who lifts up my head.
+**4** But you, LORD, are a shield around me, my glory,[^3-5] the one who lifts up my head.
 
-**5** I cry aloud to Yahweh, and he answers me from his holy mountain. Selah.
+**5** I cry aloud to the LORD, and he answers me from his holy mountain. Selah.
 
-**6** I lay down and slept; I woke again, for Yahweh sustains me.
+**6** I lay down and slept; I woke again, for the LORD sustains me.
 
 **7** I will not be afraid of the tens of thousands of people who have taken their stand against me on every side.
 
-**8** Rise up, Yahweh! Save me, my God! For you have struck all my enemies on the jaw; you have broken the teeth of the wicked.
+**8** Rise up, LORD! Save me, my God! For you have struck all my enemies on the jaw; you have broken the teeth of the wicked.
 
-**9** Salvation belongs to Yahweh. May your blessing be on your people. Selah.
+**9** Salvation belongs to the LORD. May your blessing be on your people. Selah.
 
 [^3-1]: *Of David*: or "for David", "about David". The events are told in 2 Samuel 15–18. In the Hebrew text the title is verse 1, so verses 2–9 are 3:1–8 in most English Bibles.
-[^3-2]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^3-2]: *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles.
 [^3-3]: Literally "of my soul (*nephesh*)".
 [^3-4]: Hebrew *selah*, a musical or liturgical term of uncertain meaning. Also in verses 5 and 9.
 [^3-5]: Or "my honor": the one who gives me honor.
@@ -105,17 +105,17 @@
 
 **3** You people,[^4-4] how long will you turn my honor into shame? How long will you love what is worthless and seek after lies?[^4-5] Selah.[^4-6]
 
-**4** Know that Yahweh[^4-7] has set apart the faithful one[^4-8] for himself; Yahweh hears when I call to him.
+**4** Know that the LORD[^4-7] has set apart the faithful one[^4-8] for himself; the LORD hears when I call to him.
 
 **5** Tremble,[^4-9] and do not sin. Search your hearts[^4-10] on your beds, and be still. Selah.
 
-**6** Offer right sacrifices,[^4-11] and trust in Yahweh.
+**6** Offer right sacrifices,[^4-11] and trust in the LORD.
 
-**7** Many are saying, "Who will show us good?" Let the light of your face shine on us, Yahweh.[^4-12]
+**7** Many are saying, "Who will show us good?" Let the light of your face shine on us, LORD.[^4-12]
 
 **8** You have put more joy in my heart than they have when their grain and new wine abound.
 
-**9** In peace I will lie down and sleep at once,[^4-13] for you alone, Yahweh, make me live in safety.[^4-14]
+**9** In peace I will lie down and sleep at once,[^4-13] for you alone, LORD, make me live in safety.[^4-14]
 
 [^4-1]: *For the director*: Hebrew *lamenatseach*, probably the leader of the temple music. *Of David*: or "for David", "about David". In the Hebrew text the title is verse 1, so verses 2–9 are 4:1–8 in most English Bibles.
 [^4-2]: Or "my righteous God", "God who upholds my right".
@@ -123,14 +123,14 @@
 [^4-4]: Literally "Sons of a man", perhaps "men of rank".
 [^4-5]: Or "love worthless things and seek false gods".
 [^4-6]: Hebrew *selah*, a musical or liturgical term of uncertain meaning. Also in verse 5.
-[^4-7]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^4-7]: *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles.
 [^4-8]: Hebrew *chasid*, "faithful, loyal", related to *chesed*, "faithful love".
 [^4-9]: Or "Be angry". The Septuagint reads "Be angry, and do not sin", the wording quoted in Ephesians 4:26.
 [^4-10]: Literally "Speak in your hearts", that is, think it over.
 [^4-11]: Literally "sacrifices of righteousness".
 [^4-12]: Literally "Lift up over us the light of your face", that is, look on us with favor (compare Numbers 6:25–26).
 [^4-13]: Literally "together", that is, both lie down and sleep.
-[^4-14]: Or "for you, Yahweh, make me live alone, in safety", that is, untroubled.
+[^4-14]: Or "for you, LORD, make me live alone, in safety", that is, untroubled.
 
 ## Chapter 5
 
@@ -138,21 +138,21 @@
 
 **1** For the director. With the Nehiloth.[^5-1] A psalm of David.[^5-2]
 
-**2** Listen to my words, Yahweh;[^5-3] consider my sighing.
+**2** Listen to my words, LORD;[^5-3] consider my sighing.
 
 **3** Pay attention to the sound of my cry for help, my King and my God, for to you I pray.
 
-**4** Yahweh, in the morning you hear my voice; in the morning I lay out my case before you[^5-4] and keep watch.
+**4** LORD, in the morning you hear my voice; in the morning I lay out my case before you[^5-4] and keep watch.
 
 **5** For you are not a God who delights in wickedness; evil cannot stay with you as a guest.
 
 **6** The boastful cannot stand before your eyes; you hate all evildoers.
 
-**7** You destroy those who speak lies; Yahweh detests the violent and the deceitful.[^5-5]
+**7** You destroy those who speak lies; the LORD detests the violent and the deceitful.[^5-5]
 
 **8** But I, through the greatness of your faithful love,[^5-6] will come into your house; I will bow down toward your holy temple in reverence for you.
 
-**9** Yahweh, lead me in your righteousness, because of those who lie in wait for me; make your way straight before me.
+**9** LORD, lead me in your righteousness, because of those who lie in wait for me; make your way straight before me.
 
 **10** For there is nothing reliable in their mouth; their inner self is destruction. Their throat is an open grave; they flatter with their tongue.[^5-7]
 
@@ -160,11 +160,11 @@
 
 **12** But let all who take refuge in you rejoice; let them shout for joy forever. Spread your protection over them, so that those who love your name may exult in you.
 
-**13** For you bless the righteous, Yahweh; you surround him with favor as with a shield.
+**13** For you bless the righteous, LORD; you surround him with favor as with a shield.
 
 [^5-1]: Hebrew *el-hannechilot*, a term of uncertain meaning, perhaps "for flutes".
 [^5-2]: *For the director*: Hebrew *lamenatseach*, probably the leader of the temple music. *Of David*: or "for David", "about David". In the Hebrew text the title is verse 1, so verses 2–13 are 5:1–12 in most English Bibles.
-[^5-3]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^5-3]: *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles.
 [^5-4]: Literally "I set in order for you", perhaps a plea, or a sacrifice.
 [^5-5]: Literally "a man of blood and deceit".
 [^5-6]: Hebrew *chesed*: loyal, faithful love.
@@ -176,13 +176,13 @@
 
 **1** For the director. With stringed instruments, according to the Sheminith.[^6-1] A psalm of David.[^6-2]
 
-**2** Yahweh,[^6-3] do not rebuke me in your anger, or discipline me in your wrath.
+**2** LORD,[^6-3] do not rebuke me in your anger, or discipline me in your wrath.
 
-**3** Be gracious to me, Yahweh, for I am wasting away; heal me, Yahweh, for my bones are shaking with terror.
+**3** Be gracious to me, LORD, for I am wasting away; heal me, LORD, for my bones are shaking with terror.
 
-**4** My soul[^6-4] is shaking with terror. But you, Yahweh, how long?
+**4** My soul[^6-4] is shaking with terror. But you, LORD, how long?
 
-**5** Turn, Yahweh, rescue my life;[^6-5] save me for the sake of your faithful love.[^6-6]
+**5** Turn, LORD, rescue my life;[^6-5] save me for the sake of your faithful love.[^6-6]
 
 **6** For in death no one remembers you; in Sheol[^6-7] who gives you thanks?
 
@@ -190,15 +190,15 @@
 
 **8** My eye grows dim with grief; it grows weak because of all my adversaries.
 
-**9** Depart from me, all you evildoers,[^6-9] for Yahweh has heard the sound of my weeping.
+**9** Depart from me, all you evildoers,[^6-9] for the LORD has heard the sound of my weeping.
 
-**10** Yahweh has heard my plea for mercy; Yahweh accepts my prayer.
+**10** The LORD has heard my plea for mercy; the LORD accepts my prayer.
 
 **11** All my enemies will be ashamed and shake with terror; they will turn back and be ashamed in an instant.
 
 [^6-1]: Hebrew *sheminit*, "the eighth", a term of uncertain meaning: perhaps an eight-stringed instrument, a lower octave, or a tune. Also in the title of Psalm 12 and in 1 Chronicles 15:21.
 [^6-2]: *For the director*: Hebrew *lamenatseach*, probably the leader of the temple music. *Of David*: or "for David", "about David". In the Hebrew text the title is verse 1, so verses 2–11 are 6:1–10 in most English Bibles.
-[^6-3]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^6-3]: *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles.
 [^6-4]: Hebrew *nephesh*: soul, life, self.
 [^6-5]: Hebrew *nephesh*.
 [^6-6]: Hebrew *chesed*: loyal, faithful love.
@@ -210,23 +210,23 @@
 
 *Status: draft*
 
-**1** A shiggaion[^7-1] of David, which he sang to Yahweh[^7-2] concerning Cush, a Benjaminite.[^7-3]
+**1** A shiggaion[^7-1] of David, which he sang to the LORD[^7-2] concerning Cush, a Benjaminite.[^7-3]
 
-**2** Yahweh my God, in you I take refuge. Save me from all who pursue me, and rescue me,
+**2** LORD my God, in you I take refuge. Save me from all who pursue me, and rescue me,
 
 **3** or like a lion he will tear me[^7-4] to pieces, dragging me away with no one to rescue me.
 
-**4** Yahweh my God, if I have done this, if there is wrong on my hands,
+**4** LORD my God, if I have done this, if there is wrong on my hands,
 
 **5** if I have repaid my friend[^7-5] with evil, or plundered my adversary without cause,[^7-6]
 
 **6** then let the enemy pursue me[^7-7] and overtake me; let him trample my life to the ground, and lay my honor[^7-8] in the dust. Selah.[^7-9]
 
-**7** Rise up, Yahweh, in your anger; lift yourself up against the fury of my adversaries. Awake for me; you have decreed justice.[^7-10]
+**7** Rise up, LORD, in your anger; lift yourself up against the fury of my adversaries. Awake for me; you have decreed justice.[^7-10]
 
 **8** Let the assembly of the peoples gather around you, and over it return on high.
 
-**9** Yahweh judges the peoples. Judge me, Yahweh, according to my righteousness, and according to the integrity that is in me.
+**9** The LORD judges the peoples. Judge me, LORD, according to my righteousness, and according to the integrity that is in me.
 
 **10** Let the evil of the wicked come to an end, but establish the righteous, you who test hearts and minds,[^7-11] righteous God!
 
@@ -244,10 +244,10 @@
 
 **17** His trouble comes back on his own head; his violence comes down on his own skull.[^7-14]
 
-**18** I will give thanks to Yahweh for his righteousness, and sing praise to the name of Yahweh Most High.[^7-15]
+**18** I will give thanks to the LORD for his righteousness, and sing praise to the name of the LORD Most High.[^7-15]
 
 [^7-1]: Hebrew *shiggayon*, a term of uncertain meaning, perhaps a lament, or a song with a changing rhythm (from *shagah*, "wander, stray"). Compare Habakkuk 3:1.
-[^7-2]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^7-2]: *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles.
 [^7-3]: *Of David*: or "for David", "about David". Literally "concerning the words of Cush, a Benjaminite"; Cush is not mentioned elsewhere. In the Hebrew text the title is verse 1, so verses 2–18 are 7:1–17 in most English Bibles.
 [^7-4]: Literally "my soul (*nephesh*)".
 [^7-5]: Literally "the one at peace with me".
@@ -268,7 +268,7 @@
 
 **1** For the director. According to the Gittith.[^8-1] A psalm of David.[^8-2]
 
-**2** Yahweh,[^8-3] our Lord, how majestic is your name in all the earth! You have set your splendor above the heavens.[^8-4]
+**2** LORD,[^8-3] our Lord, how majestic is your name in all the earth! You have set your splendor above the heavens.[^8-4]
 
 **3** Out of the mouths of children and nursing infants you have established strength[^8-5] because of your adversaries, to silence the enemy and the avenger.
 
@@ -284,11 +284,11 @@
 
 **9** the birds of the sky and the fish of the sea, whatever passes along the paths of the seas.
 
-**10** Yahweh, our Lord, how majestic is your name in all the earth!
+**10** LORD, our Lord, how majestic is your name in all the earth!
 
 [^8-1]: Hebrew *gittit*, a term of uncertain meaning, perhaps an instrument or tune from Gath, or a song for the winepress (*gat*). Also in the titles of Psalms 81 and 84.
 [^8-2]: *For the director*: Hebrew *lamenatseach*, probably the leader of the temple music. *Of David*: or "for David", "about David". In the Hebrew text the title is verse 1, so verses 2–10 are 8:1–9 in most English Bibles.
-[^8-3]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^8-3]: *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles.
 [^8-4]: The Hebrew of this line is difficult. Literally "which set your splendor on the heavens". Or "whose splendor is praised above the heavens".
 [^8-5]: The Septuagint reads "you have prepared praise", the wording quoted in Matthew 21:16.
 [^8-6]: Literally "son of *adam* (humankind)", that is, a human being, a mortal. Hebrews 2:6–8 quotes verses 5–7 from the Septuagint. Compare Job 7:17.
@@ -301,7 +301,7 @@
 
 **1** For the director. According to Muth-labben.[^9-1] A psalm of David.[^9-2]
 
-**2** I will give thanks to Yahweh[^9-3] with all my heart; I will tell of all your wonderful deeds.[^9-4]
+**2** I will give thanks to the LORD[^9-3] with all my heart; I will tell of all your wonderful deeds.[^9-4]
 
 **3** I will rejoice and exult in you; I will sing praise to your name, Most High.[^9-5]
 
@@ -313,37 +313,37 @@
 
 **7** The enemy is finished, in ruins forever;[^9-6] you have uprooted their cities; the very memory of them has perished.
 
-**8** But Yahweh sits enthroned forever; he has set up his throne for judgment.
+**8** But the LORD sits enthroned forever; he has set up his throne for judgment.
 
 **9** He will judge the world in righteousness; he will judge the peoples with fairness.
 
-**10** Yahweh is a stronghold for the oppressed, a stronghold in times of trouble.
+**10** The LORD is a stronghold for the oppressed, a stronghold in times of trouble.
 
-**11** Those who know your name will trust in you, for you, Yahweh, have not abandoned those who seek you.
+**11** Those who know your name will trust in you, for you, LORD, have not abandoned those who seek you.
 
-**12** Sing praises to Yahweh, who dwells in Zion; proclaim his deeds among the peoples.
+**12** Sing praises to the LORD, who dwells in Zion; proclaim his deeds among the peoples.
 
 **13** For the one who avenges bloodshed remembers them; he does not forget the cry of the humble.[^9-7]
 
-**14** Be gracious to me, Yahweh! See how I suffer from those who hate me, you who lift me up from the gates of death,
+**14** Be gracious to me, LORD! See how I suffer from those who hate me, you who lift me up from the gates of death,
 
 **15** so that I may tell of all your praises in the gates of Daughter Zion,[^9-8] and rejoice in your salvation.
 
 **16** The nations have sunk into the pit they made; their foot is caught in the net they hid.
 
-**17** Yahweh has made himself known; he has carried out justice. The wicked are snared by the work of their own hands.[^9-9] Higgaion.[^9-10] Selah.[^9-11]
+**17** The LORD has made himself known; he has carried out justice. The wicked are snared by the work of their own hands.[^9-9] Higgaion.[^9-10] Selah.[^9-11]
 
 **18** The wicked will return to Sheol,[^9-12] all the nations that forget God.
 
 **19** For the needy will not always be forgotten, nor will the hope of the afflicted perish forever.[^9-13]
 
-**20** Rise up, Yahweh! Do not let mortals prevail; let the nations be judged before you.
+**20** Rise up, LORD! Do not let mortals prevail; let the nations be judged before you.
 
-**21** Strike them with terror,[^9-14] Yahweh; let the nations know that they are only mortals. Selah.
+**21** Strike them with terror,[^9-14] LORD; let the nations know that they are only mortals. Selah.
 
 [^9-1]: Hebrew *almut labben*, a term of uncertain meaning. It may be read "on the death of the son", perhaps the name of a tune, or it may be connected with *alamot* (the title of Psalm 46; 1 Chronicles 15:20).
 [^9-2]: *For the director*: Hebrew *lamenatseach*, probably the leader of the temple music. *Of David*: or "for David", "about David". In the Hebrew text the title is verse 1, so verses 2–21 are 9:1–20 in most English Bibles.
-[^9-3]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^9-3]: *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles.
 [^9-4]: Psalms 9 and 10 together form one incomplete acrostic poem. In the Hebrew, the verses begin with the letters of the alphabet in order, about one letter for every two verses. Psalm 9 runs from *aleph* (verses 2–3) to *kaph* (verse 19), with *dalet* missing. Psalm 10 begins with *lamed* (verse 1) and ends with *qof*, *resh*, *shin* and *tav* (verses 12–17), but in 10:2–11 the pattern is broken. The Septuagint treats Psalms 9 and 10 as a single psalm.
 [^9-5]: Hebrew *Elyon*, a title of God.
 [^9-6]: The Hebrew of this line is difficult. Literally "The enemy, they are finished, ruins forever".
@@ -360,11 +360,11 @@
 
 *Status: draft*
 
-**1** Why, Yahweh,[^10-1] do you stand far off? Why do you hide yourself in times of trouble?[^10-2]
+**1** Why, LORD,[^10-1] do you stand far off? Why do you hide yourself in times of trouble?[^10-2]
 
 **2** In his arrogance the wicked hotly pursues the afflicted. Let them be caught in the schemes they have devised.[^10-3]
 
-**3** For the wicked boasts of what he desires,[^10-4] and the greedy one curses[^10-5] and despises Yahweh.
+**3** For the wicked boasts of what he desires,[^10-4] and the greedy one curses[^10-5] and despises the LORD.
 
 **4** The wicked, in his pride,[^10-6] does not seek him.[^10-7] All his thoughts are, "There is no God."
 
@@ -382,7 +382,7 @@
 
 **11** He says in his heart, "God has forgotten; he has hidden his face; he will never see."
 
-**12** Rise up, Yahweh! God, lift up your hand. Do not forget the humble.[^10-14]
+**12** Rise up, LORD! God, lift up your hand. Do not forget the humble.[^10-14]
 
 **13** Why does the wicked despise God? He says in his heart, "You will not call me to account."
 
@@ -390,17 +390,17 @@
 
 **15** Break the arm of the wicked and the evil one; call his wickedness to account until you find no more.
 
-**16** Yahweh is King forever and ever; the nations have perished from his land.
+**16** The LORD is King forever and ever; the nations have perished from his land.
 
-**17** You have heard the desire of the humble, Yahweh; you strengthen their heart; you listen closely,[^10-15]
+**17** You have heard the desire of the humble, LORD; you strengthen their heart; you listen closely,[^10-15]
 
 **18** to do justice for the fatherless and the oppressed, so that mortals who are of the earth may strike terror no more.
 
-[^10-1]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^10-1]: *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles.
 [^10-2]: Psalm 10 has no title. It continues the acrostic pattern of Psalm 9 (see the note at 9:2), and the Septuagint treats the two as one psalm.
 [^10-3]: Or "The afflicted are caught in the schemes that the wicked have devised."
 [^10-4]: Literally "of the desire of his soul (*nephesh*)".
-[^10-5]: Literally "blesses", a way of avoiding the words "curses God". Or "he blesses the greedy and despises Yahweh".
+[^10-5]: Literally "blesses", a way of avoiding the words "curses God". Or "he blesses the greedy and despises the LORD".
 [^10-6]: Literally "according to the height of his nose".
 [^10-7]: Or "says, 'He will not call to account.'"
 [^10-8]: The Hebrew text is written "his way" but read "his ways".
@@ -416,26 +416,26 @@
 
 *Status: draft*
 
-**1** For the director. Of David.[^11-1] In Yahweh[^11-2] I take refuge. How can you say to me,[^11-3] "Flee like a bird to your mountain"?[^11-4]
+**1** For the director. Of David.[^11-1] In the LORD[^11-2] I take refuge. How can you say to me,[^11-3] "Flee like a bird to your mountain"?[^11-4]
 
 **2** For look, the wicked bend the bow; they have fitted their arrow to the string, to shoot from the darkness at the upright in heart.
 
 **3** When the foundations are torn down, what can the righteous do?
 
-**4** Yahweh is in his holy temple; Yahweh's throne is in heaven. His eyes watch; his gaze[^11-5] tests human beings.
+**4** The LORD is in his holy temple; the LORD's throne is in heaven. His eyes watch; his gaze[^11-5] tests human beings.
 
-**5** Yahweh tests the righteous, but the wicked and those who love violence he hates with all his being.[^11-6]
+**5** The LORD tests the righteous, but the wicked and those who love violence he hates with all his being.[^11-6]
 
 **6** He will rain snares[^11-7] on the wicked; fire and sulfur and a scorching wind will be the portion of their cup.
 
-**7** For Yahweh is righteous; he loves righteous deeds. The upright will see his face.[^11-8]
+**7** For the LORD is righteous; he loves righteous deeds. The upright will see his face.[^11-8]
 
 [^11-1]: *For the director*: Hebrew *lamenatseach*, probably the leader of the temple music. *Of David*: or "for David", "about David". In the Hebrew text the title is part of verse 1. In this psalm it shares the verse with the first line, so the verse numbers match English Bibles.
-[^11-2]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^11-2]: *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles.
 [^11-3]: Literally "to my soul (*nephesh*)".
 [^11-4]: Literally "Flee to your mountain, bird".
 [^11-5]: Literally "his eyelids".
-[^11-6]: Literally "his soul (*nephesh*) hates". Or "Yahweh tests the righteous and the wicked, and he hates those who love violence."
+[^11-6]: Literally "his soul (*nephesh*) hates". Or "The LORD tests the righteous and the wicked, and he hates those who love violence."
 [^11-7]: Hebrew *pachim*. Some scholars read *pachamei*, "coals of", with a small change to the Hebrew: "He will rain coals of fire and sulfur on the wicked".
 [^11-8]: Or "His face looks on the upright."
 
@@ -445,25 +445,25 @@
 
 **1** For the director. According to the Sheminith.[^12-1] A psalm of David.[^12-2]
 
-**2** Save, Yahweh,[^12-3] for the faithful[^12-4] are no more; the loyal have vanished from among human beings.
+**2** Save, LORD,[^12-3] for the faithful[^12-4] are no more; the loyal have vanished from among human beings.
 
 **3** They speak lies to one another; with flattering lips and a double heart[^12-5] they speak.
 
-**4** May Yahweh cut off all flattering lips, the tongue that speaks boastfully,
+**4** May the LORD cut off all flattering lips, the tongue that speaks boastfully,
 
 **5** those who say, "With our tongue we will prevail; our lips are our own. Who is master over us?"
 
-**6** "Because the afflicted are plundered, because the needy groan, now I will arise," says Yahweh. "I will place them in the safety they long for."[^12-6]
+**6** "Because the afflicted are plundered, because the needy groan, now I will arise," says the LORD. "I will place them in the safety they long for."[^12-6]
 
-**7** The words of Yahweh are pure words, like silver refined in a furnace in the ground,[^12-7] purified seven times.
+**7** The words of the LORD are pure words, like silver refined in a furnace in the ground,[^12-7] purified seven times.
 
-**8** You, Yahweh, will keep them; you will guard each one[^12-8] from this generation forever.
+**8** You, LORD, will keep them; you will guard each one[^12-8] from this generation forever.
 
 **9** The wicked prowl on every side, when what is vile is honored among human beings.[^12-9]
 
 [^12-1]: Hebrew *sheminit*, "the eighth", a term of uncertain meaning: perhaps an eight-stringed instrument, a lower octave, or a tune. Also in the title of Psalm 6.
 [^12-2]: *For the director*: Hebrew *lamenatseach*, probably the leader of the temple music. *Of David*: or "for David", "about David". In the Hebrew text the title is verse 1, so verses 2–9 are 12:1–8 in most English Bibles.
-[^12-3]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^12-3]: *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles.
 [^12-4]: Hebrew *chasid*, "faithful, loyal", related to *chesed*, "faithful love". Literally "the faithful one has come to an end".
 [^12-5]: Literally "with a heart and a heart".
 [^12-6]: The Hebrew of this line is difficult. Literally "I will set in safety; he pants for it". Or "I will set him in safety from the one who sneers at him".
@@ -477,18 +477,18 @@
 
 **1** For the director. A psalm of David.[^13-1]
 
-**2** How long, Yahweh?[^13-2] Will you forget me forever? How long will you hide your face from me?
+**2** How long, LORD?[^13-2] Will you forget me forever? How long will you hide your face from me?
 
 **3** How long must I wrestle with my thoughts,[^13-3] with sorrow in my heart every day? How long will my enemy be exalted over me?
 
-**4** Look on me and answer me, Yahweh my God. Give light to my eyes, or I will sleep the sleep of death,
+**4** Look on me and answer me, LORD my God. Give light to my eyes, or I will sleep the sleep of death,
 
 **5** or my enemy will say, "I have overcome him," and my adversaries will rejoice when I am shaken.
 
-**6** But I trust in your faithful love;[^13-4] my heart will rejoice in your salvation. I will sing to Yahweh, for he has been good to me.
+**6** But I trust in your faithful love;[^13-4] my heart will rejoice in your salvation. I will sing to the LORD, for he has been good to me.
 
 [^13-1]: *For the director*: Hebrew *lamenatseach*, probably the leader of the temple music. *Of David*: or "for David", "about David". In the Hebrew text the title is verse 1, so verses 2–5 are 13:1–4 in most English Bibles, and verse 6 is divided there into two verses, 13:5–6.
-[^13-2]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^13-2]: *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles.
 [^13-3]: Literally "set counsels in my soul (*nephesh*)".
 [^13-4]: Hebrew *chesed*: loyal, faithful love.
 
@@ -498,41 +498,41 @@
 
 **1** For the director. Of David.[^14-1] The fool[^14-2] says in his heart, "There is no God." They are corrupt; they do detestable deeds; there is no one who does good.
 
-**2** Yahweh[^14-3] looks down from heaven on human beings, to see if there is anyone who understands, anyone who seeks God.
+**2** The LORD[^14-3] looks down from heaven on human beings, to see if there is anyone who understands, anyone who seeks God.
 
 **3** They have all turned aside; together they have become corrupt. There is no one who does good, not even one.[^14-4]
 
-**4** Do they know nothing, all the evildoers, who eat up my people as they eat bread, and do not call on Yahweh?
+**4** Do they know nothing, all the evildoers, who eat up my people as they eat bread, and do not call on the LORD?
 
 **5** There they are, in great terror, for God is with the generation of the righteous.
 
-**6** You would frustrate the plans of the afflicted, but Yahweh is their refuge.[^14-5]
+**6** You would frustrate the plans of the afflicted, but the LORD is their refuge.[^14-5]
 
-**7** Oh, that salvation for Israel would come from Zion! When Yahweh restores the fortunes of his people,[^14-6] let Jacob rejoice, let Israel be glad.
+**7** Oh, that salvation for Israel would come from Zion! When the LORD restores the fortunes of his people,[^14-6] let Jacob rejoice, let Israel be glad.
 
-[^14-1]: *For the director*: Hebrew *lamenatseach*, probably the leader of the temple music. *Of David*: or "for David", "about David". In the Hebrew text the title is part of verse 1. In this psalm it shares the verse with the first line, so the verse numbers match English Bibles. Psalm 14 is almost the same as Psalm 53:2–7 (53:1–6 in English). Psalm 53 has *Elohim*, "God", where this psalm has "Yahweh", and its verse 6 differs from verses 5–6 here.
+[^14-1]: *For the director*: Hebrew *lamenatseach*, probably the leader of the temple music. *Of David*: or "for David", "about David". In the Hebrew text the title is part of verse 1. In this psalm it shares the verse with the first line, so the verse numbers match English Bibles. Psalm 14 is almost the same as Psalm 53:2–7 (53:1–6 in English). Psalm 53 has *Elohim*, "God", where this psalm has "the LORD", and its verse 6 differs from verses 5–6 here.
 [^14-2]: Hebrew *naval*, someone who is morally and spiritually senseless, not merely unintelligent.
-[^14-3]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^14-3]: *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles.
 [^14-4]: Romans 3:10–12 quotes verses 1–3 freely.
-[^14-5]: Literally "You would put to shame the counsel of the afflicted, for Yahweh is his refuge." "You" are the evildoers.
+[^14-5]: Literally "You would put to shame the counsel of the afflicted, for the LORD is his refuge." "You" are the evildoers.
 [^14-6]: Or "brings back his captive people".
 
 ## Chapter 15
 
 *Status: draft*
 
-**1** A psalm of David.[^15-1] Yahweh,[^15-2] who may stay as a guest in your tent? Who may live on your holy mountain?
+**1** A psalm of David.[^15-1] LORD,[^15-2] who may stay as a guest in your tent? Who may live on your holy mountain?
 
 **2** The one who lives blamelessly[^15-3] and does what is right, and speaks the truth from his heart;
 
 **3** who does not go around slandering, does no harm to his neighbor, and does not heap insults on those close to him;
 
-**4** in whose eyes a worthless person is despised, but who honors those who fear Yahweh; who keeps his oath even when it hurts, and does not change it;
+**4** in whose eyes a worthless person is despised, but who honors those who fear the LORD; who keeps his oath even when it hurts, and does not change it;
 
 **5** who does not lend his money at interest, and does not take a bribe against the innocent. Whoever does these things will never be shaken.
 
 [^15-1]: *Of David*: or "for David", "about David". In the Hebrew text the title is part of verse 1. In this psalm it shares the verse with the first line, so the verse numbers match English Bibles.
-[^15-2]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^15-2]: *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles.
 [^15-3]: Literally "walks blamelessly".
 
 ## Chapter 16
@@ -541,19 +541,19 @@
 
 **1** A miktam[^16-1] of David.[^16-2] Keep me safe, God, for in you I take refuge.
 
-**2** I said[^16-3] to Yahweh,[^16-4] "You are my Lord; I have nothing good apart from you."[^16-5]
+**2** I said[^16-3] to the LORD,[^16-4] "You are my Lord; I have nothing good apart from you."[^16-5]
 
 **3** As for the holy ones who are in the land, they are the noble ones in whom is all my delight.[^16-6]
 
 **4** The sorrows[^16-7] of those who hurry after another god will multiply. I will not pour out their drink offerings of blood, or take their names on my lips.
 
-**5** Yahweh, you are my allotted portion and my cup; you hold my lot.
+**5** LORD, you are my allotted portion and my cup; you hold my lot.
 
 **6** The boundary lines have fallen for me in pleasant places; yes, I have a beautiful inheritance.
 
-**7** I will bless Yahweh, who counsels me; even at night my heart[^16-8] instructs me.
+**7** I will bless the LORD, who counsels me; even at night my heart[^16-8] instructs me.
 
-**8** I have set Yahweh always before me; because he is at my right hand, I will not be shaken.[^16-9]
+**8** I have set the LORD always before me; because he is at my right hand, I will not be shaken.[^16-9]
 
 **9** So my heart is glad and my whole being rejoices;[^16-10] my body too will rest secure.[^16-11]
 
@@ -564,7 +564,7 @@
 [^16-1]: Hebrew *miktam*, a term of uncertain meaning. The Septuagint understood it as "an inscription" on a stone. Also in the titles of Psalms 56–60.
 [^16-2]: Or "for David", "about David". In the Hebrew text the title is part of verse 1. In this psalm it shares the verse with the first line, so the verse numbers match English Bibles.
 [^16-3]: The Hebrew reads "you said", addressed to a woman, perhaps to the speaker's own soul. The Septuagint reads "I said".
-[^16-4]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^16-4]: *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles.
 [^16-5]: Literally "my good is not beyond you".
 [^16-6]: The Hebrew of verses 3–4 is difficult. "The holy ones" may be God's faithful people in the land, or the gods worshiped there, which verse 4 rejects.
 [^16-7]: The word for "sorrows" (*atsvot*) sounds like a word for "idols" (*atsabbim*).
@@ -581,7 +581,7 @@
 
 *Status: draft*
 
-**1** A prayer of David.[^17-1] Hear, Yahweh,[^17-2] a just cause; listen to my cry; give ear to my prayer, which comes from lips free of deceit.
+**1** A prayer of David.[^17-1] Hear, LORD,[^17-2] a just cause; listen to my cry; give ear to my prayer, which comes from lips free of deceit.
 
 **2** Let my vindication come from your presence; let your eyes see what is right.
 
@@ -605,14 +605,14 @@
 
 **12** He is like a lion eager to tear its prey, like a young lion lurking in hiding.
 
-**13** Rise up, Yahweh! Confront him; bring him down. Rescue my life[^17-9] from the wicked with your sword,
+**13** Rise up, LORD! Confront him; bring him down. Rescue my life[^17-9] from the wicked with your sword,
 
-**14** from men, by your hand, Yahweh, from men of this world, whose portion is in this life. You fill their belly with what you have stored up; their children have plenty, and they leave what is left to their little ones.[^17-10]
+**14** from men, by your hand, LORD, from men of this world, whose portion is in this life. You fill their belly with what you have stored up; their children have plenty, and they leave what is left to their little ones.[^17-10]
 
 **15** As for me, in righteousness I will see your face; when I awake, I will be satisfied with your likeness.
 
 [^17-1]: *Of David*: or "for David", "about David". In the Hebrew text the title is part of verse 1. In this psalm it shares the verse with the first line, so the verse numbers match English Bibles.
-[^17-2]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^17-2]: *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles.
 [^17-3]: The Hebrew of this line is uncertain. Or "If I have planned evil, it has not passed my mouth".
 [^17-4]: Hebrew *chasadim*, the plural of *chesed*, "loyal, faithful love": "your acts of faithful love".
 [^17-5]: Literally "the little man, the daughter of the eye", that is, the pupil, which is guarded with great care (compare Deuteronomy 32:10).
@@ -626,19 +626,19 @@
 
 *Status: draft*
 
-**1** For the director. Of the servant of Yahweh,[^18-1] of David, who spoke to Yahweh the words of this song on the day when Yahweh rescued him from the hand of all his enemies and from the hand of Saul.[^18-2]
+**1** For the director. Of the servant of the LORD,[^18-1] of David, who spoke to the LORD the words of this song on the day when the LORD rescued him from the hand of all his enemies and from the hand of Saul.[^18-2]
 
-**2** He said: "I love you,[^18-3] Yahweh, my strength.
+**2** He said: "I love you,[^18-3] LORD, my strength.
 
-**3** Yahweh is my rock, my fortress and my deliverer; my God, my rock, in whom I take refuge; my shield and the horn[^18-4] of my salvation, my stronghold.
+**3** The LORD is my rock, my fortress and my deliverer; my God, my rock, in whom I take refuge; my shield and the horn[^18-4] of my salvation, my stronghold.
 
-**4** I call on Yahweh, who is worthy of praise, and I am saved from my enemies.
+**4** I call on the LORD, who is worthy of praise, and I am saved from my enemies.
 
 **5** The cords of death[^18-5] surrounded me; the torrents of destruction[^18-6] terrified me.
 
 **6** The cords of Sheol[^18-7] coiled around me; the snares of death confronted me.
 
-**7** In my distress I called on Yahweh; to my God I cried for help. From his temple he heard my voice, and my cry for help before him reached his ears.
+**7** In my distress I called on the LORD; to my God I cried for help. From his temple he heard my voice, and my cry for help before him reached his ears.
 
 **8** Then the earth shook and trembled; the foundations of the mountains quaked; they shook because he was angry.
 
@@ -652,29 +652,29 @@
 
 **13** Out of the brightness before him his clouds passed by, with hail and coals of fire.[^18-11]
 
-**14** Yahweh thundered in the heavens; the Most High[^18-12] uttered his voice, with hail and coals of fire.[^18-13]
+**14** The LORD thundered in the heavens; the Most High[^18-12] uttered his voice, with hail and coals of fire.[^18-13]
 
 **15** He sent out his arrows and scattered them, many lightning bolts, and threw them into confusion.
 
-**16** The channels of the waters were seen; the foundations of the world were laid bare at your rebuke, Yahweh, at the blast of the breath of your nostrils.
+**16** The channels of the waters were seen; the foundations of the world were laid bare at your rebuke, LORD, at the blast of the breath of your nostrils.
 
 **17** He reached down from on high and took me; he drew me out of many waters.
 
 **18** He rescued me from my strong enemy, from those who hated me, for they were too strong for me.
 
-**19** They confronted me on the day of my disaster, but Yahweh was my support.
+**19** They confronted me on the day of my disaster, but the LORD was my support.
 
 **20** He brought me out into a wide place; he rescued me because he delighted in me.
 
-**21** Yahweh rewarded me according to my righteousness; according to the cleanness of my hands he repaid me.
+**21** The LORD rewarded me according to my righteousness; according to the cleanness of my hands he repaid me.
 
-**22** For I have kept the ways of Yahweh, and I have not done evil by turning from my God.
+**22** For I have kept the ways of the LORD, and I have not done evil by turning from my God.
 
 **23** For all his rulings are before me, and his decrees I have not put away from me.
 
 **24** I was blameless before him, and I kept myself from my guilt.[^18-14]
 
-**25** So Yahweh has repaid me according to my righteousness, according to the cleanness of my hands in his sight.
+**25** So the LORD has repaid me according to my righteousness, according to the cleanness of my hands in his sight.
 
 **26** With the faithful you show yourself faithful;[^18-15] with the blameless man you show yourself blameless.
 
@@ -682,13 +682,13 @@
 
 **28** For you save a humble people,[^18-16] but haughty eyes you bring low.
 
-**29** For you light my lamp; Yahweh my God lights up my darkness.
+**29** For you light my lamp; the LORD my God lights up my darkness.
 
 **30** For with you I can charge against a troop;[^18-17] with my God I can leap over a wall.
 
-**31** This God, his way is perfect; the word of Yahweh is refined.[^18-18] He is a shield to all who take refuge in him.
+**31** This God, his way is perfect; the word of the LORD is refined.[^18-18] He is a shield to all who take refuge in him.
 
-**32** For who is God besides Yahweh? And who is a rock except our God?
+**32** For who is God besides the LORD? And who is a rock except our God?
 
 **33** This God is the one who arms me with strength, and makes my way blameless.
 
@@ -708,7 +708,7 @@
 
 **41** You made my enemies turn their backs to me;[^18-20] those who hated me, I destroyed them.
 
-**42** They cried for help, but there was no one to save them; they cried to Yahweh, but he did not answer them.
+**42** They cried for help, but there was no one to save them; they cried to the LORD, but he did not answer them.
 
 **43** I beat them as fine as dust before the wind; I poured them out like the mud of the streets.[^18-21]
 
@@ -718,17 +718,17 @@
 
 **46** Foreigners lose heart, and they come trembling out of their strongholds.
 
-**47** Yahweh lives! Blessed be my rock! Exalted be the God of my salvation,
+**47** The LORD lives! Blessed be my rock! Exalted be the God of my salvation,
 
 **48** the God who grants me vengeance and subdues peoples under me,
 
 **49** who rescues me from my enemies. You lift me high above those who rise against me; you rescue me from violent men.
 
-**50** So I will praise you, Yahweh, among the nations, and sing praises to your name.[^18-24]
+**50** So I will praise you, LORD, among the nations, and sing praises to your name.[^18-24]
 
 **51** He gives great victories to his king;[^18-25] he shows faithful love[^18-26] to his anointed,[^18-27] to David and his offspring forever."
 
-[^18-1]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^18-1]: *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles.
 [^18-2]: *For the director*: Hebrew *lamenatseach*, probably the leader of the temple music. *Of David*: or "for David", "about David". In the Hebrew text the title is verse 1, so verses 2–51 are 18:1–50 in most English Bibles. This song appears again, with small differences, as 2 Samuel 22; from verse 4 on, the verse numbers of the two chapters match. The notes below give some of the differences.
 [^18-3]: Hebrew *erchamkha*, from the root used of tender, compassionate love. 2 Samuel 22 does not have this line.
 [^18-4]: A symbol of strength, like the horns of a wild ox. 2 Samuel 22:3 adds "and my refuge; my savior, you save me from violence".
@@ -754,7 +754,7 @@
 [^18-24]: Romans 15:9 quotes this verse.
 [^18-25]: The Hebrew text is written "He is a tower of salvation for his king" but read "He gives great victories to his king". In 2 Samuel 22:51 it is the other way around.
 [^18-26]: Hebrew *chesed*: loyal, faithful love.
-[^18-27]: Hebrew *meshicho*, "his anointed one", the king anointed at Yahweh's command.
+[^18-27]: Hebrew *meshicho*, "his anointed one", the king anointed at the LORD's command.
 
 ## Chapter 19
 
@@ -774,11 +774,11 @@
 
 **7** It rises at one end of the heavens and makes its circuit to the other end; nothing is hidden from its heat.
 
-**8** The law[^19-6] of Yahweh[^19-7] is perfect, restoring the soul;[^19-8] the statutes[^19-9] of Yahweh are trustworthy, making the simple wise.
+**8** The law[^19-6] of the LORD[^19-7] is perfect, restoring the soul;[^19-8] the statutes[^19-9] of the LORD are trustworthy, making the simple wise.
 
-**9** The precepts of Yahweh are right, giving joy to the heart; the command of Yahweh is pure, giving light to the eyes.
+**9** The precepts of the LORD are right, giving joy to the heart; the command of the LORD is pure, giving light to the eyes.
 
-**10** The fear of Yahweh is clean, enduring forever; the rulings of Yahweh are true, and righteous altogether.
+**10** The fear of the LORD is clean, enduring forever; the rulings of the LORD are true, and righteous altogether.
 
 **11** They are more desirable than gold, than much fine gold; they are sweeter than honey, than honey dripping from the comb.
 
@@ -788,7 +788,7 @@
 
 **14** Keep your servant also from willful sins;[^19-10] do not let them rule over me. Then I will be blameless, and innocent of great wrongdoing.
 
-**15** May the words of my mouth and the meditation of my heart be pleasing to you, Yahweh, my rock and my redeemer.[^19-11]
+**15** May the words of my mouth and the meditation of my heart be pleasing to you, LORD, my rock and my redeemer.[^19-11]
 
 [^19-1]: *For the director*: Hebrew *lamenatseach*, probably the leader of the temple music. *Of David*: or "for David", "about David". In the Hebrew text the title is verse 1, so verses 2–15 are 19:1–14 in most English Bibles.
 [^19-2]: Hebrew *raqia*, the sky pictured as a solid vault (Genesis 1:6–8). Traditionally "firmament".
@@ -796,7 +796,7 @@
 [^19-4]: Hebrew *qav*, "line", perhaps a measuring line that marks out their domain. The Septuagint reads "their sound", the wording quoted in Romans 10:18.
 [^19-5]: Literally "in them", that is, in the heavens.
 [^19-6]: Hebrew *torah*, "instruction, teaching". Verses 8–10 use six words for God's teaching. This translation keeps one English word for each: *law*, *statutes*, *precepts*, *command*, *fear* and *rulings*.
-[^19-7]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^19-7]: *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles.
 [^19-8]: Hebrew *nephesh*: soul, life, self. Or "renewing life".
 [^19-9]: Hebrew *edut*, traditionally "testimony": the solemn terms of the covenant.
 [^19-10]: Or "from the arrogant".
@@ -808,7 +808,7 @@
 
 **1** For the director. A psalm of David.[^20-1]
 
-**2** May Yahweh[^20-2] answer you in the day of trouble; may the name of the God of Jacob keep you safe.[^20-3]
+**2** May the LORD[^20-2] answer you in the day of trouble; may the name of the God of Jacob keep you safe.[^20-3]
 
 **3** May he send you help from the sanctuary, and support you from Zion.
 
@@ -816,24 +816,24 @@
 
 **5** May he give you what your heart desires, and fulfill all your plans.
 
-**6** We will shout for joy at your victory,[^20-7] and raise our banners in the name of our God. May Yahweh fulfill all your requests.
+**6** We will shout for joy at your victory,[^20-7] and raise our banners in the name of our God. May the LORD fulfill all your requests.
 
-**7** Now I know that Yahweh saves his anointed;[^20-8] he will answer him from his holy heaven with the saving might of his right hand.
+**7** Now I know that the LORD saves his anointed;[^20-8] he will answer him from his holy heaven with the saving might of his right hand.
 
-**8** Some trust in chariots and some in horses, but we call on the name of Yahweh our God.[^20-9]
+**8** Some trust in chariots and some in horses, but we call on the name of the LORD our God.[^20-9]
 
 **9** They collapse and fall, but we rise and stand firm.
 
-**10** Yahweh, save! May the king answer us on the day we call.[^20-10]
+**10** LORD, save! May the king answer us on the day we call.[^20-10]
 
 [^20-1]: *For the director*: Hebrew *lamenatseach*, probably the leader of the temple music. *Of David*: or "for David", "about David". In the Hebrew text the title is verse 1, so verses 2–10 are 20:1–9 in most English Bibles.
-[^20-2]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^20-2]: *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles.
 [^20-3]: Literally "set you on high", out of reach of danger.
 [^20-4]: Hebrew *minchah*, often the grain offering (Leviticus 2), but also any gift or offering.
 [^20-5]: Literally "find your burnt offering fat", that is, rich and acceptable.
 [^20-6]: Hebrew *selah*, a musical or liturgical term of uncertain meaning.
 [^20-7]: Or "your salvation". Hebrew *yeshu'ah*.
-[^20-8]: Hebrew *meshicho*, "his anointed one", the king anointed at Yahweh's command.
+[^20-8]: Hebrew *meshicho*, "his anointed one", the king anointed at the LORD's command.
 [^20-9]: Literally "we cause to remember the name", that is, we invoke it.
 [^20-10]: The Hebrew accents divide the verse this way, and "the king" may then be God. The Septuagint reads "Lord, save the king, and answer us on the day we call."
 
@@ -843,7 +843,7 @@
 
 **1** For the director. A psalm of David.[^21-1]
 
-**2** Yahweh,[^21-2] the king rejoices in your strength; how greatly he exults in your salvation!
+**2** LORD,[^21-2] the king rejoices in your strength; how greatly he exults in your salvation!
 
 **3** You have given him his heart's desire, and have not withheld the request of his lips. Selah.[^21-3]
 
@@ -855,11 +855,11 @@
 
 **7** For you make him most blessed forever;[^21-5] you make him glad with the joy of your presence.
 
-**8** For the king trusts in Yahweh, and through the faithful love[^21-6] of the Most High[^21-7] he will not be shaken.
+**8** For the king trusts in the LORD, and through the faithful love[^21-6] of the Most High[^21-7] he will not be shaken.
 
 **9** Your hand will find all your enemies; your right hand will find those who hate you.[^21-8]
 
-**10** You will make them like a blazing furnace when you appear.[^21-9] Yahweh will swallow them up in his anger, and fire will consume them.
+**10** You will make them like a blazing furnace when you appear.[^21-9] The LORD will swallow them up in his anger, and fire will consume them.
 
 **11** You will destroy their offspring[^21-10] from the earth, their descendants from among human beings.
 
@@ -867,16 +867,16 @@
 
 **13** For you will make them turn their backs[^21-11] when you aim your bows at their faces.
 
-**14** Be exalted, Yahweh, in your strength! We will sing and praise your might.
+**14** Be exalted, LORD, in your strength! We will sing and praise your might.
 
 [^21-1]: *For the director*: Hebrew *lamenatseach*, probably the leader of the temple music. *Of David*: or "for David", "about David". In the Hebrew text the title is verse 1, so verses 2–14 are 21:1–13 in most English Bibles.
-[^21-2]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^21-2]: *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles.
 [^21-3]: Hebrew *selah*, a musical or liturgical term of uncertain meaning.
 [^21-4]: Literally "blessings of good".
 [^21-5]: Literally "you set him as blessings forever". Or "you make him a blessing forever".
 [^21-6]: Hebrew *chesed*: loyal, faithful love.
 [^21-7]: Hebrew *Elyon*, a title of God.
-[^21-8]: In verses 9–13 "you" is probably the king, though it may be Yahweh.
+[^21-8]: In verses 9–13 "you" is probably the king, though it may be the LORD.
 [^21-9]: Literally "at the time of your face".
 [^21-10]: Literally "their fruit".
 [^21-11]: Literally "you will make them a shoulder".
@@ -901,7 +901,7 @@
 
 **8** All who see me mock me; they sneer at me[^22-7] and shake their heads:
 
-**9** "Commit yourself to Yahweh![^22-8] Let him rescue him; let him deliver him, since he delights in him!"[^22-9]
+**9** "Commit yourself to the LORD![^22-8] Let him rescue him; let him deliver him, since he delights in him!"[^22-9]
 
 **10** Yet you are the one who brought me out of the womb, who made me feel safe at my mother's breasts.
 
@@ -923,7 +923,7 @@
 
 **19** They divide my clothes among them, and for my garment they cast lots.[^22-15]
 
-**20** But you, Yahweh, do not be far away; my strength, come quickly to help me.
+**20** But you, LORD, do not be far away; my strength, come quickly to help me.
 
 **21** Rescue my life[^22-16] from the sword, my only life[^22-17] from the power of the dog.
 
@@ -931,17 +931,17 @@
 
 **23** I will tell of your name to my brothers; in the midst of the assembly I will praise you.[^22-19]
 
-**24** You who fear Yahweh, praise him! All you descendants of Jacob, honor him! Stand in awe of him, all you descendants of Israel!
+**24** You who fear the LORD, praise him! All you descendants of Jacob, honor him! Stand in awe of him, all you descendants of Israel!
 
 **25** For he has not despised or scorned the suffering of the afflicted; he has not hidden his face from him, but when he cried to him for help, he heard.
 
 **26** From you comes my praise in the great assembly; I will fulfill my vows before those who fear him.
 
-**27** The humble will eat and be satisfied; those who seek Yahweh will praise him. May your hearts live forever!
+**27** The humble will eat and be satisfied; those who seek the LORD will praise him. May your hearts live forever!
 
-**28** All the ends of the earth will remember and turn to Yahweh, and all the families of the nations will bow down before you.
+**28** All the ends of the earth will remember and turn to the LORD, and all the families of the nations will bow down before you.
 
-**29** For kingship belongs to Yahweh, and he rules over the nations.
+**29** For kingship belongs to the LORD, and he rules over the nations.
 
 **30** All the prosperous of the earth will eat and bow down; all who go down to the dust will kneel before him, those who cannot keep themselves alive.[^22-20]
 
@@ -956,7 +956,7 @@
 [^22-5]: Or "Yet you are the Holy One, enthroned; you are the praise of Israel."
 [^22-6]: Literally "the scorn of humankind (*adam*)".
 [^22-7]: Literally "they open wide with the lip". Mark 15:29 recalls this verse.
-[^22-8]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles. *Commit yourself*: literally "Roll (it) on Yahweh". The Septuagint reads "He hoped in the Lord".
+[^22-8]: *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles. *Commit yourself*: literally "Roll (it) on the LORD". The Septuagint reads "He hoped in the Lord".
 [^22-9]: Matthew 27:43 echoes this verse.
 [^22-10]: Literally "from the womb".
 [^22-11]: A fertile region east of the Jordan, famous for its cattle.
@@ -975,7 +975,7 @@
 
 *Status: draft*
 
-**1** A psalm of David.[^23-1] Yahweh[^23-2] is my shepherd; I have everything I need.[^23-3]
+**1** A psalm of David.[^23-1] The LORD[^23-2] is my shepherd; I have everything I need.[^23-3]
 
 **2** He lets me lie down in green pastures. He leads me beside quiet waters.[^23-4]
 
@@ -985,10 +985,10 @@
 
 **5** You spread a table for me in front of my enemies. You anoint my head with oil; my cup overflows.
 
-**6** Surely goodness and faithful love[^23-8] will follow me[^23-9] all the days of my life, and I will live in the house of Yahweh[^23-10] for all my days.[^23-11]
+**6** Surely goodness and faithful love[^23-8] will follow me[^23-9] all the days of my life, and I will live in the house of the LORD[^23-10] for all my days.[^23-11]
 
 [^23-1]: Or "for David", "about David". In the Hebrew text the title is part of verse 1. In this psalm it shares the verse with the first line, so the verse numbers match English Bibles.
-[^23-2]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^23-2]: *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles.
 [^23-3]: Literally "I shall not lack".
 [^23-4]: Literally "waters of rest".
 [^23-5]: Hebrew *nephesh*: soul, life, self. Or "He refreshes me", "He brings me back".
@@ -996,76 +996,76 @@
 [^23-7]: Hebrew *tsalmavet*, "deep darkness", traditionally read as "the shadow of death".
 [^23-8]: Hebrew *chesed*: loyal, faithful love.
 [^23-9]: Literally "pursue me".
-[^23-10]: The Hebrew vowel points read "I will return to the house of Yahweh". The same consonants can be read "I will dwell", as the Greek Septuagint understood them.
+[^23-10]: The Hebrew vowel points read "I will return to the house of the LORD". The same consonants can be read "I will dwell", as the Greek Septuagint understood them.
 [^23-11]: Literally "for length of days", that is, for as long as I live.
 
 ## Chapter 24
 
 *Status: draft*
 
-**1** Of David. A psalm.[^24-1] The earth is Yahweh's,[^24-2] and everything in it, the world and those who live in it.[^24-3]
+**1** Of David. A psalm.[^24-1] The earth is the LORD's,[^24-2] and everything in it, the world and those who live in it.[^24-3]
 
 **2** For he founded it on the seas, and established it on the rivers.
 
-**3** Who may go up the mountain of Yahweh? Who may stand in his holy place?
+**3** Who may go up the mountain of the LORD? Who may stand in his holy place?
 
 **4** The one who has clean hands and a pure heart, who has not lifted up my soul to what is false,[^24-4] and has not sworn deceitfully.
 
-**5** He will receive blessing from Yahweh, and righteousness[^24-5] from the God of his salvation.
+**5** He will receive blessing from the LORD, and righteousness[^24-5] from the God of his salvation.
 
 **6** Such is the generation of those who seek him, who seek your face, Jacob.[^24-6] Selah.[^24-7]
 
 **7** Lift up your heads, you gates! Be lifted up, you ancient doors,[^24-8] so that the King of glory may come in.
 
-**8** Who is this King of glory? Yahweh, strong and mighty, Yahweh, mighty in battle!
+**8** Who is this King of glory? The LORD, strong and mighty, the LORD, mighty in battle!
 
 **9** Lift up your heads, you gates! Lift them up, you ancient doors, so that the King of glory may come in.
 
-**10** Who is he, this King of glory? Yahweh of Armies,[^24-9] he is the King of glory! Selah.
+**10** Who is he, this King of glory? The LORD of Armies,[^24-9] he is the King of glory! Selah.
 
 [^24-1]: *Of David*: or "for David", "about David". In the Hebrew text the title is part of verse 1. In this psalm it shares the verse with the first line, so the verse numbers match English Bibles.
-[^24-2]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^24-2]: *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles.
 [^24-3]: 1 Corinthians 10:26 quotes the first line of this verse.
-[^24-4]: "My" is probably Yahweh's own self: the line echoes the command not to misuse Yahweh's name, literally "lift up" his name "to what is false" (Exodus 20:7), that is, not to swear falsely by him. Some Hebrew manuscripts read "his soul (*nephesh*)": "who has not set his heart on what is false".
+[^24-4]: "My" is probably the LORD's own self: the line echoes the command not to misuse the LORD's name, literally "lift up" his name "to what is false" (Exodus 20:7), that is, not to swear falsely by him. Some Hebrew manuscripts read "his soul (*nephesh*)": "who has not set his heart on what is false".
 [^24-5]: Or "vindication". Hebrew *tsedaqah*.
 [^24-6]: The Septuagint reads "who seek the face of the God of Jacob".
 [^24-7]: Hebrew *selah*, a musical or liturgical term of uncertain meaning. Also in verse 10.
 [^24-8]: Literally "doors of long ago", or "everlasting doors".
-[^24-9]: *Yahweh of Armies* (Hebrew *YHWH tseva'ot*) is traditionally "the LORD of hosts" or "the LORD Almighty". *Tseva'ot* means armies: the heavenly hosts and the armies of Israel.
+[^24-9]: *The LORD of Armies* (Hebrew *YHWH tseva'ot*) is traditionally "the LORD of hosts" or "the LORD Almighty". *Tseva'ot* means armies: the heavenly hosts and the armies of Israel.
 
 ## Chapter 25
 
 *Status: draft*
 
-**1** Of David.[^25-1] To you, Yahweh,[^25-2] I lift up my soul.[^25-3]
+**1** Of David.[^25-1] To you, LORD,[^25-2] I lift up my soul.[^25-3]
 
 **2** My God, in you I trust; do not let me be put to shame; do not let my enemies triumph over me.
 
 **3** No one who waits for you will be put to shame; those who are treacherous without cause will be put to shame.
 
-**4** Make your ways known to me, Yahweh; teach me your paths.
+**4** Make your ways known to me, LORD; teach me your paths.
 
 **5** Lead me in your truth[^25-4] and teach me, for you are the God of my salvation; for you I wait all day long.
 
-**6** Remember your compassion, Yahweh, and your faithful love,[^25-5] for they have been from of old.
+**6** Remember your compassion, LORD, and your faithful love,[^25-5] for they have been from of old.
 
-**7** Do not remember the sins of my youth or my offenses; according to your faithful love remember me, for the sake of your goodness, Yahweh.
+**7** Do not remember the sins of my youth or my offenses; according to your faithful love remember me, for the sake of your goodness, LORD.
 
-**8** Yahweh is good and upright; so he teaches sinners the way.
+**8** The LORD is good and upright; so he teaches sinners the way.
 
 **9** He leads the humble in what is right, and teaches the humble his way.
 
-**10** All the paths of Yahweh are faithful love and faithfulness[^25-6] for those who keep his covenant and his statutes.[^25-7]
+**10** All the paths of the LORD are faithful love and faithfulness[^25-6] for those who keep his covenant and his statutes.[^25-7]
 
-**11** For the sake of your name, Yahweh, forgive my guilt, for it is great.
+**11** For the sake of your name, LORD, forgive my guilt, for it is great.
 
-**12** Who is the one who fears Yahweh? He will teach him the way he should choose.
+**12** Who is the one who fears the LORD? He will teach him the way he should choose.
 
 **13** He himself[^25-8] will live in prosperity, and his offspring will inherit the land.
 
-**14** The close counsel[^25-9] of Yahweh is for those who fear him, and he makes his covenant known to them.
+**14** The close counsel[^25-9] of the LORD is for those who fear him, and he makes his covenant known to them.
 
-**15** My eyes are always on Yahweh, for he will free my feet from the net.
+**15** My eyes are always on the LORD, for he will free my feet from the net.
 
 **16** Turn to me and be gracious to me, for I am lonely and afflicted.
 
@@ -1082,7 +1082,7 @@
 **22** Redeem Israel, God, from all its troubles.
 
 [^25-1]: *Of David*: or "for David", "about David". In the Hebrew text the title is part of verse 1. In this psalm it shares the verse with the first line, so the verse numbers match English Bibles. Psalm 25 is an acrostic: in the Hebrew, each verse begins with the next letter of the alphabet. The pattern is not complete: *bet* comes in the second word of verse 2, there is no verse for *vav* or *qof*, *resh* begins both verses 18 and 19, and verse 22, beginning with *pe*, stands outside the alphabet as a closing prayer (compare Psalm 34).
-[^25-2]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^25-2]: *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles.
 [^25-3]: Hebrew *nephesh*: soul, life, self.
 [^25-4]: Or "faithfulness". Hebrew *emet*.
 [^25-5]: Hebrew *chasadim*, the plural of *chesed*, "loyal, faithful love": "your acts of faithful love".
@@ -1097,9 +1097,9 @@
 
 *Status: draft*
 
-**1** Of David.[^26-1] Judge me,[^26-2] Yahweh,[^26-3] for I have walked in my integrity; I have trusted in Yahweh without wavering.
+**1** Of David.[^26-1] Judge me,[^26-2] LORD,[^26-3] for I have walked in my integrity; I have trusted in the LORD without wavering.
 
-**2** Test me, Yahweh, and try me; refine my heart and my mind.[^26-4]
+**2** Test me, LORD, and try me; refine my heart and my mind.[^26-4]
 
 **3** For your faithful love[^26-5] is before my eyes, and I have walked in your faithfulness.
 
@@ -1107,11 +1107,11 @@
 
 **5** I hate the assembly of evildoers, and I will not sit with the wicked.
 
-**6** I wash my hands in innocence, and go around your altar, Yahweh,
+**6** I wash my hands in innocence, and go around your altar, LORD,
 
 **7** making thanksgiving heard aloud, and telling of all your wonderful deeds.
 
-**8** Yahweh, I love the house where you live, the place where your glory dwells.
+**8** LORD, I love the house where you live, the place where your glory dwells.
 
 **9** Do not sweep me away[^26-6] with sinners, or my life with the bloodthirsty,
 
@@ -1119,11 +1119,11 @@
 
 **11** But I walk in my integrity; redeem me and be gracious to me.
 
-**12** My foot stands on level ground; in the great assemblies I will bless Yahweh.
+**12** My foot stands on level ground; in the great assemblies I will bless the LORD.
 
 [^26-1]: *Of David*: or "for David", "about David". In the Hebrew text the title is part of verse 1. In this psalm it shares the verse with the first line, so the verse numbers match English Bibles.
 [^26-2]: Or "Vindicate me".
-[^26-3]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^26-3]: *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles.
 [^26-4]: Literally "my kidneys and my heart". The kidneys were thought of as the seat of the emotions and the inner life.
 [^26-5]: Hebrew *chesed*: loyal, faithful love.
 [^26-6]: Literally "Do not gather my soul (*nephesh*)".
@@ -1132,46 +1132,46 @@
 
 *Status: draft*
 
-**1** Of David.[^27-1] Yahweh[^27-2] is my light and my salvation; whom shall I fear? Yahweh is the stronghold of my life; of whom shall I be afraid?
+**1** Of David.[^27-1] The LORD[^27-2] is my light and my salvation; whom shall I fear? The LORD is the stronghold of my life; of whom shall I be afraid?
 
 **2** When evildoers come near me to devour my flesh, my adversaries and my enemies, it is they who stumble and fall.
 
 **3** Though an army camps against me, my heart will not fear; though war rises against me, even then I will be confident.
 
-**4** One thing I have asked of Yahweh; this I will seek: to live in the house of Yahweh all the days of my life, to gaze on the beauty of Yahweh, and to seek him[^27-3] in his temple.
+**4** One thing I have asked of the LORD; this I will seek: to live in the house of the LORD all the days of my life, to gaze on the beauty of the LORD, and to seek him[^27-3] in his temple.
 
 **5** For he will hide me in his shelter in the day of trouble; he will conceal me under the cover of his tent; he will set me high on a rock.
 
-**6** And now my head will be lifted up above my enemies around me, and I will offer sacrifices in his tent with shouts of joy; I will sing and make music to Yahweh.
+**6** And now my head will be lifted up above my enemies around me, and I will offer sacrifices in his tent with shouts of joy; I will sing and make music to the LORD.
 
-**7** Hear, Yahweh, when I call aloud; be gracious to me and answer me.
+**7** Hear, LORD, when I call aloud; be gracious to me and answer me.
 
-**8** My heart says to you, "Seek my face!"[^27-4] Your face, Yahweh, I will seek.
+**8** My heart says to you, "Seek my face!"[^27-4] Your face, LORD, I will seek.
 
 **9** Do not hide your face from me; do not turn your servant away in anger. You have been my help; do not reject me or abandon me, God of my salvation.
 
-**10** Though my father and my mother abandon me, Yahweh will take me in.
+**10** Though my father and my mother abandon me, the LORD will take me in.
 
-**11** Teach me your way, Yahweh, and lead me on a level path, because of those who lie in wait for me.
+**11** Teach me your way, LORD, and lead me on a level path, because of those who lie in wait for me.
 
 **12** Do not hand me over to the will[^27-5] of my adversaries, for false witnesses have risen against me, breathing out violence.
 
-**13** If I had not believed that I would see the goodness of Yahweh in the land of the living![^27-6]
+**13** If I had not believed that I would see the goodness of the LORD in the land of the living![^27-6]
 
-**14** Wait for Yahweh; be strong, and let your heart take courage. Wait for Yahweh!
+**14** Wait for the LORD; be strong, and let your heart take courage. Wait for the LORD!
 
 [^27-1]: *Of David*: or "for David", "about David". In the Hebrew text the title is part of verse 1. In this psalm it shares the verse with the first line, so the verse numbers match English Bibles.
-[^27-2]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^27-2]: *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles.
 [^27-3]: Or "to inquire", "to reflect". Hebrew *levaqqer*.
-[^27-4]: The Hebrew is difficult. Literally "To you my heart says, 'Seek (you plural) my face'": the heart repeats Yahweh's own invitation.
+[^27-4]: The Hebrew is difficult. Literally "To you my heart says, 'Seek (you plural) my face'": the heart repeats the LORD's own invitation.
 [^27-5]: Literally "the soul (*nephesh*)", that is, the desire.
-[^27-6]: The sentence is left unfinished, as if to say "I would have been lost". In the Hebrew text, dots are written above and below the word for "if not" (*lule*), a scribal mark of doubt. Without it the verse reads "I believe that I will see the goodness of Yahweh in the land of the living."
+[^27-6]: The sentence is left unfinished, as if to say "I would have been lost". In the Hebrew text, dots are written above and below the word for "if not" (*lule*), a scribal mark of doubt. Without it the verse reads "I believe that I will see the goodness of the LORD in the land of the living."
 
 ## Chapter 28
 
 *Status: draft*
 
-**1** Of David.[^28-1] To you, Yahweh,[^28-2] I call; my rock, do not be deaf to me, for if you are silent to me, I will become like those who go down to the pit.[^28-3]
+**1** Of David.[^28-1] To you, LORD,[^28-2] I call; my rock, do not be deaf to me, for if you are silent to me, I will become like those who go down to the pit.[^28-3]
 
 **2** Hear the sound of my pleas for mercy when I cry to you for help, when I lift up my hands toward your holy inner sanctuary.[^28-4]
 
@@ -1179,51 +1179,51 @@
 
 **4** Repay them according to their deeds, according to the evil of their actions. Repay them according to the work of their hands; give back to them what they deserve.
 
-**5** Because they do not understand the deeds of Yahweh or the work of his hands, he will tear them down and not build them up.
+**5** Because they do not understand the deeds of the LORD or the work of his hands, he will tear them down and not build them up.
 
-**6** Blessed be Yahweh, for he has heard the sound of my pleas for mercy.
+**6** Blessed be the LORD, for he has heard the sound of my pleas for mercy.
 
-**7** Yahweh is my strength and my shield; my heart trusts in him, and I am helped. My heart exults, and with my song I will give thanks to him.
+**7** The LORD is my strength and my shield; my heart trusts in him, and I am helped. My heart exults, and with my song I will give thanks to him.
 
-**8** Yahweh is their strength;[^28-5] he is a saving stronghold for his anointed.[^28-6]
+**8** The LORD is their strength;[^28-5] he is a saving stronghold for his anointed.[^28-6]
 
 **9** Save your people and bless your inheritance; be their shepherd and carry them forever.
 
 [^28-1]: *Of David*: or "for David", "about David". In the Hebrew text the title is part of verse 1. In this psalm it shares the verse with the first line, so the verse numbers match English Bibles.
-[^28-2]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^28-2]: *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles.
 [^28-3]: Hebrew *bor*, "pit": the grave and the realm of the dead.
 [^28-4]: Hebrew *devir*, the innermost room of the temple, the most holy place (1 Kings 6:16).
 [^28-5]: The Septuagint reads "the strength of his people", which differs from the Hebrew by one letter.
-[^28-6]: Hebrew *meshicho*, "his anointed one", the king anointed at Yahweh's command.
+[^28-6]: Hebrew *meshicho*, "his anointed one", the king anointed at the LORD's command.
 
 ## Chapter 29
 
 *Status: draft*
 
-**1** A psalm of David.[^29-1] Ascribe to Yahweh,[^29-2] you heavenly beings,[^29-3] ascribe to Yahweh glory and strength.
+**1** A psalm of David.[^29-1] Ascribe to the LORD,[^29-2] you heavenly beings,[^29-3] ascribe to the LORD glory and strength.
 
-**2** Ascribe to Yahweh the glory due his name;[^29-4] worship Yahweh in the splendor of holiness.[^29-5]
+**2** Ascribe to the LORD the glory due his name;[^29-4] worship the LORD in the splendor of holiness.[^29-5]
 
-**3** The voice of Yahweh is over the waters; the God of glory thunders, Yahweh, over the mighty waters.
+**3** The voice of the LORD is over the waters; the God of glory thunders, the LORD, over the mighty waters.
 
-**4** The voice of Yahweh is powerful; the voice of Yahweh is majestic.
+**4** The voice of the LORD is powerful; the voice of the LORD is majestic.
 
-**5** The voice of Yahweh breaks the cedars; Yahweh breaks the cedars of Lebanon.
+**5** The voice of the LORD breaks the cedars; the LORD breaks the cedars of Lebanon.
 
 **6** He makes Lebanon skip like a calf, and Sirion[^29-6] like a young wild ox.
 
-**7** The voice of Yahweh strikes with flames of fire.[^29-7]
+**7** The voice of the LORD strikes with flames of fire.[^29-7]
 
-**8** The voice of Yahweh shakes the wilderness; Yahweh shakes the wilderness of Kadesh.
+**8** The voice of the LORD shakes the wilderness; the LORD shakes the wilderness of Kadesh.
 
-**9** The voice of Yahweh makes the deer give birth,[^29-8] and strips the forests bare, and in his temple everyone says, "Glory!"
+**9** The voice of the LORD makes the deer give birth,[^29-8] and strips the forests bare, and in his temple everyone says, "Glory!"
 
-**10** Yahweh sat enthroned over the flood;[^29-9] Yahweh sits enthroned as King forever.
+**10** The LORD sat enthroned over the flood;[^29-9] the LORD sits enthroned as King forever.
 
-**11** May Yahweh give strength to his people; may Yahweh bless his people with peace.[^29-10]
+**11** May the LORD give strength to his people; may the LORD bless his people with peace.[^29-10]
 
 [^29-1]: *Of David*: or "for David", "about David". In the Hebrew text the title is part of verse 1. In this psalm it shares the verse with the first line, so the verse numbers match English Bibles.
-[^29-2]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^29-2]: *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles.
 [^29-3]: Literally "sons of gods" (Hebrew *bene elim*): heavenly beings who serve in God's court (compare Job 1:6; Psalm 89:7, 89:6 in English).
 [^29-4]: Literally "the glory of his name". Verses 1–2 are close to 1 Chronicles 16:28–29 and Psalm 96:7–9.
 [^29-5]: Or "in holy attire".
@@ -1231,7 +1231,7 @@
 [^29-7]: Literally "hews out flames of fire", perhaps of lightning.
 [^29-8]: Or, with different vowels, "makes the oaks whirl".
 [^29-9]: Hebrew *mabbul*, the word used for the great flood in Genesis 6–11.
-[^29-10]: Or "Yahweh gives strength to his people; Yahweh blesses his people with peace."
+[^29-10]: Or "The LORD gives strength to his people; the LORD blesses his people with peace."
 
 ## Chapter 30
 
@@ -1239,33 +1239,33 @@
 
 **1** A psalm. A song for the dedication of the house.[^30-1] Of David.[^30-2]
 
-**2** I will exalt you, Yahweh,[^30-3] for you have drawn me up,[^30-4] and have not let my enemies rejoice over me.
+**2** I will exalt you, LORD,[^30-3] for you have drawn me up,[^30-4] and have not let my enemies rejoice over me.
 
-**3** Yahweh my God, I cried to you for help, and you healed me.
+**3** LORD my God, I cried to you for help, and you healed me.
 
-**4** Yahweh, you brought up my life[^30-5] from Sheol;[^30-6] you kept me alive, so that I did not go down to the pit.[^30-7]
+**4** LORD, you brought up my life[^30-5] from Sheol;[^30-6] you kept me alive, so that I did not go down to the pit.[^30-7]
 
-**5** Sing praises to Yahweh, you his faithful ones;[^30-8] give thanks to his holy name.[^30-9]
+**5** Sing praises to the LORD, you his faithful ones;[^30-8] give thanks to his holy name.[^30-9]
 
 **6** For his anger lasts only a moment, but his favor for a lifetime.[^30-10] Weeping may stay for the night, but joy comes in the morning.
 
 **7** As for me, I said when I was at ease, "I will never be shaken."
 
-**8** Yahweh, by your favor you made my mountain stand strong.[^30-11] You hid your face, and I was terrified.
+**8** LORD, by your favor you made my mountain stand strong.[^30-11] You hid your face, and I was terrified.
 
-**9** To you, Yahweh, I called; to the Lord I pleaded for mercy:
+**9** To you, LORD, I called; to the Lord I pleaded for mercy:
 
 **10** "What profit is there in my blood, if I go down to the pit?[^30-12] Will the dust praise you? Will it proclaim your faithfulness?
 
-**11** Hear, Yahweh, and be gracious to me! Yahweh, be my helper!"
+**11** Hear, LORD, and be gracious to me! LORD, be my helper!"
 
 **12** You have turned my mourning into dancing; you have taken off my sackcloth and clothed me with joy,
 
-**13** so that my whole being[^30-13] may sing praises to you and not be silent. Yahweh my God, I will give thanks to you forever.
+**13** so that my whole being[^30-13] may sing praises to you and not be silent. LORD my God, I will give thanks to you forever.
 
 [^30-1]: Probably the temple, though it is not named. The word for "dedication", *chanukkah*, later gave its name to the festival of Hanukkah.
 [^30-2]: *Of David*: or "for David", "about David". In the Hebrew text the title is verse 1, so verses 2–13 are 30:1–12 in most English Bibles.
-[^30-3]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^30-3]: *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles.
 [^30-4]: Like a bucket drawn up from a well.
 [^30-5]: Hebrew *nephesh*: soul, life, self.
 [^30-6]: Hebrew *Sheol*, the realm of the dead.
@@ -1283,7 +1283,7 @@
 
 **1** For the director. A psalm of David.[^31-1]
 
-**2** In you, Yahweh,[^31-2] I take refuge; never let me be put to shame; in your righteousness rescue me.[^31-3]
+**2** In you, LORD,[^31-2] I take refuge; never let me be put to shame; in your righteousness rescue me.[^31-3]
 
 **3** Turn your ear to me; rescue me quickly. Be a rock of refuge for me, a strong fortress to save me.
 
@@ -1291,15 +1291,15 @@
 
 **5** Bring me out of the net that they have hidden for me, for you are my refuge.
 
-**6** Into your hand I commit my spirit;[^31-4] you have redeemed me, Yahweh, faithful God.
+**6** Into your hand I commit my spirit;[^31-4] you have redeemed me, LORD, faithful God.
 
-**7** I hate[^31-5] those who cling to worthless idols, but I trust in Yahweh.
+**7** I hate[^31-5] those who cling to worthless idols, but I trust in the LORD.
 
 **8** I will rejoice and be glad in your faithful love,[^31-6] because you have seen my affliction; you have known the distress of my soul.[^31-7]
 
 **9** You have not handed me over to the enemy; you have set my feet in a wide place.
 
-**10** Be gracious to me, Yahweh, for I am in distress; my eye wastes away with grief, my soul and my body too.[^31-8]
+**10** Be gracious to me, LORD, for I am in distress; my eye wastes away with grief, my soul and my body too.[^31-8]
 
 **11** For my life is spent with sorrow, and my years with groaning. My strength fails because of my guilt,[^31-9] and my bones waste away.
 
@@ -1309,13 +1309,13 @@
 
 **14** For I hear the whispering of many, terror on every side,[^31-10] as they plot together against me; they scheme to take my life.
 
-**15** But I trust in you, Yahweh; I say, "You are my God."
+**15** But I trust in you, LORD; I say, "You are my God."
 
 **16** My times are in your hand; rescue me from the hand of my enemies and from those who pursue me.
 
 **17** Let your face shine on your servant; save me in your faithful love.
 
-**18** Yahweh, do not let me be put to shame, for I call on you. Let the wicked be put to shame; let them be silent in Sheol.[^31-11]
+**18** LORD, do not let me be put to shame, for I call on you. Let the wicked be put to shame; let them be silent in Sheol.[^31-11]
 
 **19** Let lying lips be silenced, which speak arrogantly against the righteous with pride and contempt.
 
@@ -1323,16 +1323,16 @@
 
 **21** You hide them in the shelter of your presence from human plots;[^31-12] you keep them safe in a shelter from accusing tongues.[^31-13]
 
-**22** Blessed be Yahweh, for he has shown me the wonder of his faithful love in a city under siege.[^31-14]
+**22** Blessed be the LORD, for he has shown me the wonder of his faithful love in a city under siege.[^31-14]
 
 **23** As for me, I said in my alarm, "I am cut off from your sight." But you heard the sound of my pleas for mercy when I cried to you for help.
 
-**24** Love Yahweh, all you his faithful ones![^31-15] Yahweh protects the loyal, but repays in full the one who acts with pride.
+**24** Love the LORD, all you his faithful ones![^31-15] The LORD protects the loyal, but repays in full the one who acts with pride.
 
-**25** Be strong, and let your heart take courage, all you who hope in Yahweh.
+**25** Be strong, and let your heart take courage, all you who hope in the LORD.
 
 [^31-1]: *For the director*: Hebrew *lamenatseach*, probably the leader of the temple music. *Of David*: or "for David", "about David". In the Hebrew text the title is verse 1, so verses 2–25 are 31:1–24 in most English Bibles.
-[^31-2]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^31-2]: *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles.
 [^31-3]: Verses 2–4 appear again, with small differences, in 71:1–3.
 [^31-4]: Hebrew *ruach*: spirit, breath. Jesus speaks the first line of this verse on the cross in Luke 23:46.
 [^31-5]: Some Hebrew manuscripts and the Septuagint read "You hate".
@@ -1353,13 +1353,13 @@
 
 **1** Of David. A maskil.[^32-1] Happy[^32-2] is the one whose offense is forgiven, whose sin is covered.[^32-3]
 
-**2** Happy is the person to whom Yahweh[^32-4] does not count guilt, and in whose spirit there is no deceit.
+**2** Happy is the person to whom the LORD[^32-4] does not count guilt, and in whose spirit there is no deceit.
 
 **3** When I kept silent, my bones wasted away through my groaning[^32-5] all day long.
 
 **4** For day and night your hand was heavy on me; my strength was dried up[^32-6] as in the heat of summer. Selah.[^32-7]
 
-**5** I made my sin known to you, and I did not cover up my guilt. I said, "I will confess my offenses to Yahweh," and you forgave the guilt of my sin. Selah.
+**5** I made my sin known to you, and I did not cover up my guilt. I said, "I will confess my offenses to the LORD," and you forgave the guilt of my sin. Selah.
 
 **6** So let everyone who is faithful[^32-8] pray to you while you may be found.[^32-9] Surely when the great waters overflow, they will not reach him.
 
@@ -1369,21 +1369,21 @@
 
 **9** Do not be like a horse or a mule, without understanding, which must be held in with bit and bridle, or it will not come near you.[^32-12]
 
-**10** Many are the pains of the wicked, but the one who trusts in Yahweh is surrounded by faithful love.[^32-13]
+**10** Many are the pains of the wicked, but the one who trusts in the LORD is surrounded by faithful love.[^32-13]
 
-**11** Rejoice in Yahweh and be glad, you righteous; shout for joy, all you upright in heart.
+**11** Rejoice in the LORD and be glad, you righteous; shout for joy, all you upright in heart.
 
 [^32-1]: *Of David*: or "for David", "about David". *Maskil*: a term of uncertain meaning, perhaps "a skillful psalm" or "a psalm of instruction". In the Hebrew text the title is part of verse 1. In this psalm it shares the verse with the first line, so the verse numbers match English Bibles.
 [^32-2]: Hebrew *ashrei*: happy, fortunate; traditionally "blessed". Also in verse 2.
 [^32-3]: Romans 4:7–8 quotes verses 1–2.
-[^32-4]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^32-4]: *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles.
 [^32-5]: Literally "my roaring".
 [^32-6]: Literally "my sap was turned". Hebrew *leshad*, a rare word, perhaps "vitality, moisture".
 [^32-7]: Hebrew *selah*, a musical or liturgical term of uncertain meaning. Also in verses 5 and 7.
 [^32-8]: Hebrew *chasid*, "faithful, loyal", related to *chesed*, "faithful love".
 [^32-9]: Literally "at a time of finding".
 [^32-10]: The Hebrew of this phrase is unusual. Literally "shouts of escape".
-[^32-11]: Here Yahweh seems to speak, though the speaker may be the psalmist teaching others.
+[^32-11]: Here the LORD seems to speak, though the speaker may be the psalmist teaching others.
 [^32-12]: The Hebrew of this verse is difficult. Literally "with bit and bridle, its ornament, to curb it; not coming near to you".
 [^32-13]: Hebrew *chesed*: loyal, faithful love.
 
@@ -1391,31 +1391,31 @@
 
 *Status: draft*
 
-**1** Shout for joy in Yahweh,[^33-1] you righteous! Praise is fitting for the upright.
+**1** Shout for joy in the LORD,[^33-1] you righteous! Praise is fitting for the upright.
 
-**2** Give thanks to Yahweh with the lyre; make music to him with a ten-stringed harp.[^33-2]
+**2** Give thanks to the LORD with the lyre; make music to him with a ten-stringed harp.[^33-2]
 
 **3** Sing to him a new song; play skillfully, with shouts of joy.
 
-**4** For the word of Yahweh is upright, and all his work is done in faithfulness.
+**4** For the word of the LORD is upright, and all his work is done in faithfulness.
 
-**5** He loves righteousness and justice; the earth is full of the faithful love[^33-3] of Yahweh.
+**5** He loves righteousness and justice; the earth is full of the faithful love[^33-3] of the LORD.
 
-**6** By the word of Yahweh the heavens were made, and all their host[^33-4] by the breath of his mouth.
+**6** By the word of the LORD the heavens were made, and all their host[^33-4] by the breath of his mouth.
 
 **7** He gathers the waters of the sea as in a heap;[^33-5] he puts the deep waters in storehouses.
 
-**8** Let all the earth fear Yahweh; let all who live in the world stand in awe of him.
+**8** Let all the earth fear the LORD; let all who live in the world stand in awe of him.
 
 **9** For he spoke, and it came to be; he commanded, and it stood firm.
 
-**10** Yahweh frustrates the plans of the nations; he thwarts the purposes of the peoples.
+**10** The LORD frustrates the plans of the nations; he thwarts the purposes of the peoples.
 
-**11** The plans of Yahweh stand forever, the purposes of his heart through all generations.
+**11** The plans of the LORD stand forever, the purposes of his heart through all generations.
 
-**12** Happy[^33-6] is the nation whose God is Yahweh, the people he has chosen as his inheritance.
+**12** Happy[^33-6] is the nation whose God is the LORD, the people he has chosen as his inheritance.
 
-**13** From heaven Yahweh looks down; he sees all human beings.
+**13** From heaven the LORD looks down; he sees all human beings.
 
 **14** From the place where he sits enthroned he watches all who live on the earth.
 
@@ -1425,17 +1425,17 @@
 
 **17** A horse is a false hope for victory;[^33-7] for all its great strength it cannot save.
 
-**18** See, the eye of Yahweh is on those who fear him, on those who hope in his faithful love,
+**18** See, the eye of the LORD is on those who fear him, on those who hope in his faithful love,
 
 **19** to rescue them[^33-8] from death and keep them alive in famine.
 
-**20** We wait[^33-9] for Yahweh; he is our help and our shield.
+**20** We wait[^33-9] for the LORD; he is our help and our shield.
 
 **21** For in him our heart rejoices, because we trust in his holy name.
 
-**22** May your faithful love be on us, Yahweh, as we hope in you.
+**22** May your faithful love be on us, LORD, as we hope in you.
 
-[^33-1]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^33-1]: *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles.
 [^33-2]: Literally "with a harp of ten". The *kinnor* (lyre) and *nevel* (harp) were both stringed instruments.
 [^33-3]: Hebrew *chesed*: loyal, faithful love.
 [^33-4]: That is, the sun, moon and stars.
@@ -1451,27 +1451,27 @@
 
 **1** Of David, when he changed his behavior[^34-1] before Abimelech, who drove him out, and he went away.[^34-2]
 
-**2** I will bless Yahweh[^34-3] at all times; his praise will always be in my mouth.[^34-4]
+**2** I will bless the LORD[^34-3] at all times; his praise will always be in my mouth.[^34-4]
 
-**3** My soul[^34-5] will boast in Yahweh; let the humble hear and be glad.
+**3** My soul[^34-5] will boast in the LORD; let the humble hear and be glad.
 
-**4** Magnify Yahweh with me; let us exalt his name together.
+**4** Magnify the LORD with me; let us exalt his name together.
 
-**5** I sought Yahweh, and he answered me; he rescued me from all my fears.
+**5** I sought the LORD, and he answered me; he rescued me from all my fears.
 
 **6** Those who looked to him were radiant, and their faces will never be ashamed.[^34-6]
 
-**7** This afflicted man called, and Yahweh heard, and saved him from all his troubles.
+**7** This afflicted man called, and the LORD heard, and saved him from all his troubles.
 
-**8** The angel of Yahweh camps around those who fear him, and rescues them.
+**8** The angel of the LORD camps around those who fear him, and rescues them.
 
-**9** Taste and see that Yahweh is good.[^34-7] Happy[^34-8] is the one who takes refuge in him.
+**9** Taste and see that the LORD is good.[^34-7] Happy[^34-8] is the one who takes refuge in him.
 
-**10** Fear Yahweh, you his holy ones, for those who fear him lack nothing.
+**10** Fear the LORD, you his holy ones, for those who fear him lack nothing.
 
-**11** Young lions[^34-9] may go hungry and starve, but those who seek Yahweh lack no good thing.
+**11** Young lions[^34-9] may go hungry and starve, but those who seek the LORD lack no good thing.
 
-**12** Come, children, listen to me; I will teach you the fear of Yahweh.
+**12** Come, children, listen to me; I will teach you the fear of the LORD.
 
 **13** Who is the one who delights in life, and loves many days to see good?[^34-10]
 
@@ -1479,25 +1479,25 @@
 
 **15** Turn away from evil and do good; seek peace and pursue it.
 
-**16** The eyes of Yahweh are on the righteous, and his ears are turned to their cry for help.
+**16** The eyes of the LORD are on the righteous, and his ears are turned to their cry for help.
 
-**17** The face of Yahweh is against those who do evil, to cut off the memory of them from the earth.
+**17** The face of the LORD is against those who do evil, to cut off the memory of them from the earth.
 
-**18** They cry out,[^34-11] and Yahweh hears, and rescues them from all their troubles.
+**18** They cry out,[^34-11] and the LORD hears, and rescues them from all their troubles.
 
-**19** Yahweh is near to the brokenhearted, and saves those who are crushed in spirit.
+**19** The LORD is near to the brokenhearted, and saves those who are crushed in spirit.
 
-**20** Many are the troubles of the righteous, but Yahweh rescues him from them all.
+**20** Many are the troubles of the righteous, but the LORD rescues him from them all.
 
 **21** He guards all his bones; not one of them will be broken.[^34-12]
 
 **22** Evil will kill the wicked, and those who hate the righteous will be condemned.
 
-**23** Yahweh redeems the life[^34-13] of his servants; none who take refuge in him will be condemned.
+**23** The LORD redeems the life[^34-13] of his servants; none who take refuge in him will be condemned.
 
 [^34-1]: Literally "changed his sense", that is, pretended to be insane. The story is told in 1 Samuel 21:11–16 (21:10–15 in English), where the king of Gath is called Achish. *Abimelech* may have been a title of Philistine kings (compare Genesis 20; 26).
 [^34-2]: *Of David*: or "for David", "about David". In the Hebrew text the title is verse 1, so verses 2–23 are 34:1–22 in most English Bibles.
-[^34-3]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^34-3]: *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles.
 [^34-4]: Psalm 34 is an acrostic: in the Hebrew, each verse from verse 2 to verse 22 begins with the next letter of the alphabet. There is no verse for *vav*, and verse 23, beginning with *pe*, stands outside the alphabet as a closing line, as in Psalm 25.
 [^34-5]: Hebrew *nephesh*: soul, life, self.
 [^34-6]: The Septuagint has commands: "Come to him and be enlightened, and your faces will never be put to shame."
@@ -1513,7 +1513,7 @@
 
 *Status: draft*
 
-**1** Of David.[^35-1] Contend, Yahweh,[^35-2] with those who contend with me; fight against those who fight against me.
+**1** Of David.[^35-1] Contend, LORD,[^35-2] with those who contend with me; fight against those who fight against me.
 
 **2** Take hold of shield and buckler,[^35-3] and rise up to help me.
 
@@ -1521,17 +1521,17 @@
 
 **4** Let those who seek my life be put to shame and disgraced; let those who plan harm against me be turned back and confounded.
 
-**5** Let them be like chaff before the wind, with the angel of Yahweh driving them away.
+**5** Let them be like chaff before the wind, with the angel of the LORD driving them away.
 
-**6** Let their way be dark and slippery, with the angel of Yahweh pursuing them.
+**6** Let their way be dark and slippery, with the angel of the LORD pursuing them.
 
 **7** For without cause they hid their net for me in a pit; without cause they dug it for my life.[^35-6]
 
 **8** Let ruin come on him unawares; let the net he hid catch him; let him fall into it, to his ruin.
 
-**9** Then my soul[^35-7] will rejoice in Yahweh and delight in his salvation.
+**9** Then my soul[^35-7] will rejoice in the LORD and delight in his salvation.
 
-**10** All my bones will say, "Yahweh, who is like you? You rescue the afflicted from those too strong for them, the afflicted and the needy from those who rob them."
+**10** All my bones will say, "LORD, who is like you? You rescue the afflicted from those too strong for them, the afflicted and the needy from those who rob them."
 
 **11** Malicious witnesses[^35-8] rise up; they question me about things I do not know.
 
@@ -1555,22 +1555,22 @@
 
 **21** They open their mouths wide against me; they say, "Aha! Aha! Our eyes have seen it!"
 
-**22** You have seen it, Yahweh; do not be silent. Lord, do not be far from me.
+**22** You have seen it, LORD; do not be silent. Lord, do not be far from me.
 
 **23** Wake up! Rouse yourself to defend me, my God and my Lord, to plead my cause!
 
-**24** Judge me[^35-17] according to your righteousness, Yahweh my God, and do not let them gloat over me.
+**24** Judge me[^35-17] according to your righteousness, LORD my God, and do not let them gloat over me.
 
 **25** Do not let them say in their hearts, "Aha, just what we wanted!"[^35-18] Do not let them say, "We have swallowed him up."
 
 **26** Let those who rejoice at my misfortune be put to shame and confounded together; let those who exalt themselves over me be clothed with shame and disgrace.
 
-**27** Let those who delight in my vindication[^35-19] shout for joy and be glad; let them say always, "Great is Yahweh, who delights in the well-being[^35-20] of his servant!"
+**27** Let those who delight in my vindication[^35-19] shout for joy and be glad; let them say always, "Great is the LORD, who delights in the well-being[^35-20] of his servant!"
 
 **28** Then my tongue will tell of your righteousness, of your praise all day long.
 
 [^35-1]: *Of David*: or "for David", "about David". In the Hebrew text the title is part of verse 1. In this psalm it shares the verse with the first line, so the verse numbers match English Bibles.
-[^35-2]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^35-2]: *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles.
 [^35-3]: Hebrew *magen* and *tsinnah*, a small round shield and a large one that covered the whole body.
 [^35-4]: Hebrew *segor*, perhaps a weapon, or a verb: "and close the way".
 [^35-5]: Literally "to my soul (*nephesh*)".
@@ -1594,7 +1594,7 @@
 
 *Status: draft*
 
-**1** For the director. Of the servant of Yahweh,[^36-1] of David.[^36-2]
+**1** For the director. Of the servant of the LORD,[^36-1] of David.[^36-2]
 
 **2** Rebellion speaks to the wicked deep in my heart:[^36-3] there is no fear of God before his eyes.[^36-4]
 
@@ -1604,9 +1604,9 @@
 
 **5** He plans wickedness on his bed; he sets himself on a path that is not good; he does not reject evil.
 
-**6** Yahweh, your faithful love[^36-6] reaches to the heavens, your faithfulness to the clouds.
+**6** LORD, your faithful love[^36-6] reaches to the heavens, your faithfulness to the clouds.
 
-**7** Your righteousness is like the mighty mountains,[^36-7] your judgments like the great deep. Yahweh, you save humans and animals alike.
+**7** Your righteousness is like the mighty mountains,[^36-7] your judgments like the great deep. LORD, you save humans and animals alike.
 
 **8** How precious is your faithful love, God! Human beings take refuge in the shadow of your wings.
 
@@ -1620,9 +1620,9 @@
 
 **13** There the evildoers lie fallen; they are thrust down and cannot rise.
 
-[^36-1]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^36-1]: *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles.
 [^36-2]: *For the director*: Hebrew *lamenatseach*, probably the leader of the temple music. *Of David*: or "for David", "about David". In the Hebrew text the title is verse 1, so verses 2–13 are 36:1–12 in most English Bibles.
-[^36-3]: The Hebrew of this line is difficult. Literally "An oracle of rebellion to the wicked in the middle of my heart". *Oracle* (*ne'um*) is the word used in "says Yahweh". Or "I know deep in my heart what rebellion says to the wicked". The Septuagint reads "The lawless one says in himself that he will sin".
+[^36-3]: The Hebrew of this line is difficult. Literally "An oracle of rebellion to the wicked in the middle of my heart". *Oracle* (*ne'um*) is the word used in "says the LORD". Or "I know deep in my heart what rebellion says to the wicked". The Septuagint reads "The lawless one says in himself that he will sin".
 [^36-4]: Romans 3:18 quotes the second line of this verse.
 [^36-5]: The Hebrew of this verse is difficult. Literally "For he makes it smooth to him in his eyes, to find his guilt, to hate".
 [^36-6]: Hebrew *chesed*: loyal, faithful love.
@@ -1637,19 +1637,19 @@
 
 **2** For like grass they will soon wither, and like green plants they will fade.
 
-**3** Trust in Yahweh[^37-3] and do good; live in the land and cultivate faithfulness.[^37-4]
+**3** Trust in the LORD[^37-3] and do good; live in the land and cultivate faithfulness.[^37-4]
 
-**4** Delight yourself in Yahweh, and he will give you the desires of your heart.
+**4** Delight yourself in the LORD, and he will give you the desires of your heart.
 
-**5** Commit your way to Yahweh;[^37-5] trust in him, and he will act.
+**5** Commit your way to the LORD;[^37-5] trust in him, and he will act.
 
 **6** He will make your righteousness shine like the light, and your justice like the noonday sun.
 
-**7** Be still before Yahweh and wait patiently for him. Do not fret because of the one who prospers in his way, the one who carries out evil schemes.
+**7** Be still before the LORD and wait patiently for him. Do not fret because of the one who prospers in his way, the one who carries out evil schemes.
 
 **8** Stop being angry and abandon your rage; do not fret: it leads only to evil.
 
-**9** For evildoers will be cut off, but those who wait for Yahweh, they will inherit the land.
+**9** For evildoers will be cut off, but those who wait for the LORD, they will inherit the land.
 
 **10** Yet a little while and the wicked will be no more; you will look closely at his place, and he will not be there.
 
@@ -1665,21 +1665,21 @@
 
 **16** Better is the little that the righteous has than the wealth of many wicked.
 
-**17** For the arms of the wicked will be broken, but Yahweh upholds the righteous.
+**17** For the arms of the wicked will be broken, but the LORD upholds the righteous.
 
-**18** Yahweh knows the days of the blameless, and their inheritance will last forever.
+**18** The LORD knows the days of the blameless, and their inheritance will last forever.
 
 **19** They will not be put to shame in evil times; in days of famine they will have plenty.
 
-**20** But the wicked will perish; the enemies of Yahweh are like the glory of the pastures:[^37-7] they vanish; like smoke they vanish.
+**20** But the wicked will perish; the enemies of the LORD are like the glory of the pastures:[^37-7] they vanish; like smoke they vanish.
 
 **21** The wicked borrows and does not repay, but the righteous is generous and gives.
 
 **22** For those whom he blesses will inherit the land, but those whom he curses will be cut off.
 
-**23** A man's steps are made firm by Yahweh, and he delights in his way.[^37-8]
+**23** A man's steps are made firm by the LORD, and he delights in his way.[^37-8]
 
-**24** Though he falls, he will not be thrown down, for Yahweh holds his hand.
+**24** Though he falls, he will not be thrown down, for the LORD holds his hand.
 
 **25** I have been young and now I am old, yet I have not seen the righteous abandoned, or his children begging for bread.
 
@@ -1687,7 +1687,7 @@
 
 **27** Turn away from evil and do good, and you will live in the land forever.
 
-**28** For Yahweh loves justice and will not abandon his faithful ones.[^37-9] They will be kept safe forever, but the children of the wicked will be cut off.
+**28** For the LORD loves justice and will not abandon his faithful ones.[^37-9] They will be kept safe forever, but the children of the wicked will be cut off.
 
 **29** The righteous will inherit the land and live in it forever.
 
@@ -1697,9 +1697,9 @@
 
 **32** The wicked watches for the righteous and seeks to kill him.
 
-**33** Yahweh will not abandon him to his power, or let him be condemned when he is brought to trial.
+**33** The LORD will not abandon him to his power, or let him be condemned when he is brought to trial.
 
-**34** Wait for Yahweh and keep his way, and he will exalt you to inherit the land; you will see it when the wicked are cut off.
+**34** Wait for the LORD and keep his way, and he will exalt you to inherit the land; you will see it when the wicked are cut off.
 
 **35** I have seen a wicked and ruthless man, spreading himself like a luxuriant tree in its native soil.[^37-11]
 
@@ -1709,18 +1709,18 @@
 
 **38** But rebels will be destroyed altogether; the future of the wicked will be cut off.
 
-**39** The salvation of the righteous comes from Yahweh; he is their stronghold in time of trouble.
+**39** The salvation of the righteous comes from the LORD; he is their stronghold in time of trouble.
 
-**40** Yahweh helps them and rescues them; he rescues them from the wicked and saves them, because they take refuge in him.
+**40** The LORD helps them and rescues them; he rescues them from the wicked and saves them, because they take refuge in him.
 
 [^37-1]: *Of David*: or "for David", "about David". In the Hebrew text the title is part of verse 1. In this psalm it shares the verse with the first line, so the verse numbers match English Bibles.
 [^37-2]: Psalm 37 is an acrostic: in the Hebrew, each letter of the alphabet in turn begins a section, usually of two verses (*aleph* at verse 1, *bet* at verse 3, and so on, to *tav* at verse 39). The *ayin* section begins in the middle of verse 28, with *le'olam*, "forever".
-[^37-3]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^37-3]: *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles.
 [^37-4]: Or "and graze in safety", "and feed on faithfulness".
-[^37-5]: Literally "Roll your way on Yahweh".
+[^37-5]: Literally "Roll your way on the LORD".
 [^37-6]: Or "the earth". Jesus echoes this line in Matthew 5:5.
 [^37-7]: Or "like the fat of lambs", which is burned up in sacrifice.
-[^37-8]: It is not clear whether Yahweh delights in the man's way, or the man in Yahweh's.
+[^37-8]: It is not clear whether the LORD delights in the man's way, or the man in the LORD's.
 [^37-9]: Hebrew *chasidim*, "faithful, loyal ones", related to *chesed*, "faithful love".
 [^37-10]: Hebrew *torah*, "instruction, teaching".
 [^37-11]: Literally "like a green native". The Septuagint reads "like the cedars of Lebanon".
@@ -1733,7 +1733,7 @@
 
 **1** A psalm of David.[^38-1] To bring to remembrance.[^38-2]
 
-**2** Yahweh,[^38-3] do not rebuke me in your anger, or discipline me in your wrath.[^38-4]
+**2** LORD,[^38-3] do not rebuke me in your anger, or discipline me in your wrath.[^38-4]
 
 **3** For your arrows have sunk into me, and your hand has come down on me.
 
@@ -1761,7 +1761,7 @@
 
 **15** I have become like a man who does not hear, in whose mouth there are no arguments.
 
-**16** For in you, Yahweh, I hope; you will answer, Lord my God.
+**16** For in you, LORD, I hope; you will answer, Lord my God.
 
 **17** For I said, "Do not let them gloat over me, who exalt themselves over me when my foot slips."
 
@@ -1773,13 +1773,13 @@
 
 **21** Those who repay evil for good accuse me[^38-11] because I pursue good.
 
-**22** Do not abandon me, Yahweh; my God, do not be far from me.
+**22** Do not abandon me, LORD; my God, do not be far from me.
 
 **23** Come quickly to help me, Lord, my salvation.
 
 [^38-1]: *Of David*: or "for David", "about David". In the Hebrew text the title is verse 1, so verses 2–23 are 38:1–22 in most English Bibles.
 [^38-2]: Hebrew *lehazkir*, "to cause to remember" or "to make a memorial". The psalm may have been sung with the memorial portion of an offering (Leviticus 2:2), or it may call on God to remember the one who prays. Also in the title of Psalm 70.
-[^38-3]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^38-3]: *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles.
 [^38-4]: This verse is almost the same as 6:2 (6:1 in English).
 [^38-5]: Hebrew *shalom*: peace, well-being, wholeness.
 [^38-6]: Literally "my loins".
@@ -1801,7 +1801,7 @@
 
 **4** My heart grew hot within me; as I mused, a fire burned. Then I spoke with my tongue:
 
-**5** "Yahweh,[^39-4] let me know my end, and what is the measure of my days; let me know how fleeting I am.
+**5** "LORD,[^39-4] let me know my end, and what is the measure of my days; let me know how fleeting I am.
 
 **6** See, you have made my days a few handbreadths,[^39-5] and my lifetime is as nothing before you. Surely every human being, however firmly he stands, is only a breath.[^39-6] Selah.[^39-7]
 
@@ -1817,14 +1817,14 @@
 
 **12** When you discipline someone with rebukes for guilt, you consume like a moth what is dear to him. Surely every human being is only a breath. Selah.
 
-**13** Hear my prayer, Yahweh, and listen to my cry for help; do not be silent at my tears. For I am a foreigner with you, a temporary resident,[^39-9] like all my ancestors.
+**13** Hear my prayer, LORD, and listen to my cry for help; do not be silent at my tears. For I am a foreigner with you, a temporary resident,[^39-9] like all my ancestors.
 
 **14** Look away from me, so that I may smile again, before I go away and am no more."
 
 [^39-1]: One of David's chief musicians (1 Chronicles 16:41; 25:1). The Hebrew text is written "Jedithun" but read "Jeduthun".
 [^39-2]: *For the director*: Hebrew *lamenatseach*, probably the leader of the temple music. *Of David*: or "for David", "about David". In the Hebrew text the title is verse 1, so verses 2–14 are 39:1–13 in most English Bibles.
 [^39-3]: Or "to no avail".
-[^39-4]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^39-4]: *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles.
 [^39-5]: A handbreadth was about 3 inches (7.5 cm), the width of four fingers.
 [^39-6]: Hebrew *hevel*, "breath, vapor", the word used throughout Ecclesiastes ("Vapor of vapors", Ecclesiastes 1:2). Also in verses 7 and 12.
 [^39-7]: Hebrew *selah*, a musical or liturgical term of uncertain meaning. Also in verse 12.
@@ -1837,15 +1837,15 @@
 
 **1** For the director. Of David. A psalm.[^40-1]
 
-**2** I waited patiently for Yahweh;[^40-2] he turned to me and heard my cry for help.
+**2** I waited patiently for the LORD;[^40-2] he turned to me and heard my cry for help.
 
 **3** He drew me up from the pit of destruction,[^40-3] out of the miry clay; he set my feet on a rock and made my steps secure.
 
-**4** He put a new song in my mouth, a song of praise to our God. Many will see and fear,[^40-4] and will trust in Yahweh.
+**4** He put a new song in my mouth, a song of praise to our God. Many will see and fear,[^40-4] and will trust in the LORD.
 
-**5** Happy[^40-5] is the one who makes Yahweh his trust, who does not turn to the proud, or to those who go astray after lies.[^40-6]
+**5** Happy[^40-5] is the one who makes the LORD his trust, who does not turn to the proud, or to those who go astray after lies.[^40-6]
 
-**6** Many are the wonders you have done, Yahweh my God, and your plans for us; no one can compare with you.[^40-7] If I would proclaim them and speak of them, they are too many to count.
+**6** Many are the wonders you have done, LORD my God, and your plans for us; no one can compare with you.[^40-7] If I would proclaim them and speak of them, they are too many to count.
 
 **7** Sacrifice and offering you did not desire, but you have opened my ears;[^40-8] burnt offering and sin offering[^40-9] you did not ask for.
 
@@ -1853,26 +1853,26 @@
 
 **9** I delight to do your will, my God; your law[^40-11] is within my heart."[^40-12]
 
-**10** I have proclaimed the good news[^40-13] of righteousness in the great assembly. See, I do not hold back my lips, Yahweh, as you know.
+**10** I have proclaimed the good news[^40-13] of righteousness in the great assembly. See, I do not hold back my lips, LORD, as you know.
 
 **11** I have not hidden your righteousness within my heart; I have spoken of your faithfulness and your salvation. I have not concealed your faithful love and your truth[^40-14] from the great assembly.
 
-**12** You, Yahweh, will not withhold your compassion from me; your faithful love and your truth will always protect me.
+**12** You, LORD, will not withhold your compassion from me; your faithful love and your truth will always protect me.
 
 **13** For evils without number have surrounded me; my sins have overtaken me, and I cannot see. They are more than the hairs of my head, and my heart fails me.
 
-**14** Be pleased, Yahweh, to rescue me; Yahweh, come quickly to help me.[^40-15]
+**14** Be pleased, LORD, to rescue me; LORD, come quickly to help me.[^40-15]
 
 **15** Let those who seek my life,[^40-16] to sweep it away, be put to shame and confounded together; let those who delight in my harm be turned back and disgraced.
 
 **16** Let those who say to me, "Aha! Aha!" be appalled because of their shame.
 
-**17** But let all who seek you rejoice and be glad in you; let those who love your salvation say always, "Great is Yahweh!"
+**17** But let all who seek you rejoice and be glad in you; let those who love your salvation say always, "Great is the LORD!"
 
 **18** As for me, I am afflicted and needy; may the Lord think of me. You are my help and my deliverer; my God, do not delay.
 
 [^40-1]: *For the director*: Hebrew *lamenatseach*, probably the leader of the temple music. *Of David*: or "for David", "about David". In the Hebrew text the title is verse 1, so verses 2–18 are 40:1–17 in most English Bibles.
-[^40-2]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles. *I waited patiently*: literally "I waited and waited".
+[^40-2]: *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles. *I waited patiently*: literally "I waited and waited".
 [^40-3]: Literally "the pit of roaring", perhaps of rushing water, or "of desolation".
 [^40-4]: In Hebrew "see" (*yir'u*) and "fear" (*yira'u*) sound alike.
 [^40-5]: Hebrew *ashrei*: happy, fortunate; traditionally "blessed".
@@ -1894,13 +1894,13 @@
 
 **1** For the director. A psalm of David.[^41-1]
 
-**2** Happy[^41-2] is the one who considers the poor; in the day of trouble Yahweh[^41-3] will rescue him.
+**2** Happy[^41-2] is the one who considers the poor; in the day of trouble the LORD[^41-3] will rescue him.
 
-**3** Yahweh will protect him and keep him alive; he will be called happy in the land. Do not hand him over to the will[^41-4] of his enemies!
+**3** The LORD will protect him and keep him alive; he will be called happy in the land. Do not hand him over to the will[^41-4] of his enemies!
 
-**4** Yahweh will sustain him on his sickbed; in his illness you restore him to health.[^41-5]
+**4** The LORD will sustain him on his sickbed; in his illness you restore him to health.[^41-5]
 
-**5** As for me, I said, "Yahweh, be gracious to me; heal me,[^41-6] for I have sinned against you."
+**5** As for me, I said, "LORD, be gracious to me; heal me,[^41-6] for I have sinned against you."
 
 **6** My enemies speak evil of me: "When will he die, and his name perish?"
 
@@ -1912,17 +1912,17 @@
 
 **10** Even my close friend,[^41-8] whom I trusted, who ate my bread, has lifted up his heel against me.[^41-9]
 
-**11** But you, Yahweh, be gracious to me and raise me up, so that I may repay them.
+**11** But you, LORD, be gracious to me and raise me up, so that I may repay them.
 
 **12** By this I know that you delight in me: that my enemy does not shout in triumph over me.
 
 **13** As for me, you uphold me in my integrity, and set me in your presence forever.
 
-**14** Blessed be Yahweh, the God of Israel, from everlasting to everlasting. Amen and Amen.[^41-10]
+**14** Blessed be the LORD, the God of Israel, from everlasting to everlasting. Amen and Amen.[^41-10]
 
 [^41-1]: *For the director*: Hebrew *lamenatseach*, probably the leader of the temple music. *Of David*: or "for David", "about David". In the Hebrew text the title is verse 1, so verses 2–14 are 41:1–13 in most English Bibles.
 [^41-2]: Hebrew *ashrei*: happy, fortunate; traditionally "blessed".
-[^41-3]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^41-3]: *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles.
 [^41-4]: Literally "the soul (*nephesh*)", that is, the desire.
 [^41-5]: Literally "all his bed you have turned in his sickness".
 [^41-6]: Literally "heal my soul (*nephesh*)".
@@ -1951,7 +1951,7 @@
 
 **8** Deep calls to deep at the roar of your waterfalls;[^42-11] all your breakers and your waves have swept over me.
 
-**9** By day Yahweh[^42-12] commands his faithful love,[^42-13] and at night his song[^42-14] is with me, a prayer to the God of my life.
+**9** By day the LORD[^42-12] commands his faithful love,[^42-13] and at night his song[^42-14] is with me, a prayer to the God of my life.
 
 **10** I say to God, my rock, "Why have you forgotten me? Why must I go about in mourning,[^42-15] oppressed by the enemy?"
 
@@ -1962,7 +1962,7 @@
 [^42-1]: *For the director*: Hebrew *lamenatseach*, probably the leader of the temple music. *Maskil*: a term of uncertain meaning, perhaps "a skillful psalm" or "a psalm of instruction". *Of the sons of Korah*: or "for the sons of Korah", a family of Levites who served as temple singers (2 Chronicles 20:19). In the Hebrew text the title is verse 1, so verses 2–12 are 42:1–11 in most English Bibles. Psalms 42 and 43 were probably once a single psalm: they share a refrain (42:6, 12; 43:5), Psalm 43 has no title of its own, and many Hebrew manuscripts write them as one.
 [^42-2]: The noun is masculine but the verb is feminine, so perhaps "a doe".
 [^42-3]: Hebrew *nephesh*: soul, life, self. Also in verses 3, 5, 6, 7 and 12.
-[^42-4]: Psalms 42–83 are often called the "Elohistic Psalter". In them God is mostly called *Elohim*, "God", where other psalms use his personal name, Yahweh. Compare Psalm 53 with Psalm 14, and Psalm 70 with 40:14–18 (40:13–17 in most English Bibles), where the same lines appear with *Elohim* in place of Yahweh. This translation renders each name as it stands.
+[^42-4]: Psalms 42–83 are often called the "Elohistic Psalter". In them God is mostly called *Elohim*, "God", where other psalms use his personal name, YHWH ("the LORD"). Compare Psalm 53 with Psalm 14, and Psalm 70 with 40:14–18 (40:13–17 in most English Bibles), where the same lines appear with *Elohim* in place of the LORD. This translation renders each name as it stands.
 [^42-5]: The vowel points read "appear before God", the usual phrase for coming to worship at the sanctuary (Exodus 23:15; 34:23). The same consonants can be read "see the face of God".
 [^42-6]: Literally "I remember these things, and I pour out my soul upon me", that is, in grief.
 [^42-7]: Hebrew *sakh*, found only here, so the meaning is uncertain.
@@ -1970,7 +1970,7 @@
 [^42-9]: Literally "the salvations of his face". In verse 12 and 43:5 the refrain ends "the salvation of my face and my God". The Septuagint has that wording here too, joining the first word of verse 7, "my God", to this verse.
 [^42-10]: Literally "the Hermons", the peaks of Mount Hermon near the sources of the Jordan in the far north. *Mizar* means "small"; the mountain is unknown.
 [^42-11]: Or "channels", "torrents". The word appears elsewhere only in 2 Samuel 5:8.
-[^42-12]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^42-12]: *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles.
 [^42-13]: Hebrew *chesed*: loyal, faithful love.
 [^42-14]: The Hebrew text is written "a song" but read "his song".
 [^42-15]: Literally "dark", wearing the dark clothes of mourning.
@@ -2114,7 +2114,7 @@
 [^45-5]: Literally "succeed, ride". The verse begins "And your majesty", repeating the last word of verse 4.
 [^45-6]: Literally "for the word of truth, and humility of righteousness". The Hebrew is compressed.
 [^45-7]: The Hebrew order is "Your arrows are sharp, peoples fall beneath you, in the heart of the king's enemies".
-[^45-8]: The Hebrew *kis'akha elohim* most naturally means "Your throne, God", addressing the king as *elohim*, "God". No other Israelite king is called this, though compare Isaiah 9:5 (9:6 in most English Bibles), where the royal child is called "Mighty God" (*el gibbor*). Other possible readings are "Your throne is God's throne forever" (compare 1 Chronicles 29:23, "Solomon sat on the throne of Yahweh as king") and "Your throne is like God's, forever". Verse 8 distinguishes the king from "God, your God". The Septuagint reads "Your throne, O God, is forever and ever", and Hebrews 1:8–9 quotes verses 7–8 in that form, applying them to the Son.
+[^45-8]: The Hebrew *kis'akha elohim* most naturally means "Your throne, God", addressing the king as *elohim*, "God". No other Israelite king is called this, though compare Isaiah 9:5 (9:6 in most English Bibles), where the royal child is called "Mighty God" (*el gibbor*). Other possible readings are "Your throne is God's throne forever" (compare 1 Chronicles 29:23, "Solomon sat on the throne of the LORD as king") and "Your throne is like God's, forever". Verse 8 distinguishes the king from "God, your God". The Septuagint reads "Your throne, O God, is forever and ever", and Hebrews 1:8–9 quotes verses 7–8 in that form, applying them to the Son.
 [^45-9]: Or "of uprightness".
 [^45-10]: Or "so, God, your God has anointed you", continuing to address the king. Hebrew *meshachakha*, "has anointed you", from the same root as *mashiach*, "anointed one".
 [^45-11]: Hebrew *minni*, probably "strings" (compare 150:4).
@@ -2142,15 +2142,15 @@
 
 **7** Nations roar, kingdoms totter; he raises his voice, and the earth melts.
 
-**8** Yahweh of Armies[^46-7] is with us; the God of Jacob is our fortress. Selah.
+**8** The LORD of Armies[^46-7] is with us; the God of Jacob is our fortress. Selah.
 
-**9** Come, see the works of Yahweh, the desolations[^46-8] he has brought on the earth.
+**9** Come, see the works of the LORD, the desolations[^46-8] he has brought on the earth.
 
 **10** He makes wars cease to the end of the earth; he breaks the bow and snaps the spear; he burns the chariots[^46-9] with fire.
 
 **11** "Be still,[^46-10] and know that I am God. I will be exalted among the nations; I will be exalted in the earth."
 
-**12** Yahweh of Armies is with us; the God of Jacob is our fortress. Selah.
+**12** The LORD of Armies is with us; the God of Jacob is our fortress. Selah.
 
 [^46-1]: Hebrew *al-alamot*, a musical term of uncertain meaning, perhaps "for soprano voices" (compare 1 Chronicles 15:20).
 [^46-2]: *For the director*: Hebrew *lamenatseach*, probably the leader of the temple music. *Of the sons of Korah*: or "for the sons of Korah", a family of Levites who served as temple singers. In the Hebrew text the title is verse 1, so verses 2–12 are 46:1–11 in most English Bibles.
@@ -2158,7 +2158,7 @@
 [^46-4]: Hebrew *selah*, a musical or liturgical term of uncertain meaning. Also in verses 8 and 12.
 [^46-5]: Hebrew *Elyon*, a title of God. Literally "the holy place of the dwellings of the Most High".
 [^46-6]: Literally "at the turning of the morning".
-[^46-7]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles. *Yahweh of Armies* (Hebrew *YHWH tseva'ot*) is traditionally "the LORD of hosts" or "the LORD Almighty". *Tseva'ot* means armies: the heavenly hosts and the armies of Israel. Also in verse 12.
+[^46-7]: *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles. *The LORD of Armies* (Hebrew *YHWH tseva'ot*) is traditionally "the LORD of hosts" or "the LORD Almighty". *Tseva'ot* means armies: the heavenly hosts and the armies of Israel. Also in verse 12.
 [^46-8]: Or "the astonishing deeds".
 [^46-9]: Hebrew *agalot*, "carts, wagons". The Septuagint reads "shields".
 [^46-10]: Or "Stop!", "Let go!"
@@ -2171,13 +2171,13 @@
 
 **2** Clap your hands, all you peoples; shout to God with loud songs of joy.
 
-**3** For Yahweh,[^47-2] the Most High,[^47-3] is awesome, a great King over all the earth.
+**3** For the LORD,[^47-2] the Most High,[^47-3] is awesome, a great King over all the earth.
 
 **4** He subdues peoples under us, and nations under our feet.
 
 **5** He chose our inheritance for us, the pride of Jacob, whom he loves. Selah.[^47-4]
 
-**6** God has gone up with a shout, Yahweh with the sound of the ram's horn.[^47-5]
+**6** God has gone up with a shout, the LORD with the sound of the ram's horn.[^47-5]
 
 **7** Sing praises to God, sing praises; sing praises to our King, sing praises.
 
@@ -2188,7 +2188,7 @@
 **10** The nobles of the peoples have gathered as the people of the God of Abraham.[^47-7] For the shields of the earth[^47-8] belong to God; he is highly exalted.
 
 [^47-1]: *For the director*: Hebrew *lamenatseach*, probably the leader of the temple music. *Of the sons of Korah*: or "for the sons of Korah", a family of Levites who served as temple singers. In the Hebrew text the title is verse 1, so verses 2–10 are 47:1–9 in most English Bibles.
-[^47-2]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^47-2]: *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles.
 [^47-3]: Hebrew *Elyon*, a title of God.
 [^47-4]: Hebrew *selah*, a musical or liturgical term of uncertain meaning.
 [^47-5]: Hebrew *shofar*.
@@ -2202,7 +2202,7 @@
 
 **1** A song. A psalm of the sons of Korah.[^48-1]
 
-**2** Great is Yahweh,[^48-2] and most worthy of praise, in the city of our God, his holy mountain.
+**2** Great is the LORD,[^48-2] and most worthy of praise, in the city of our God, his holy mountain.
 
 **3** Beautiful in its height, the joy of all the earth, is Mount Zion, the heights of Zaphon,[^48-3] the city of the great King.
 
@@ -2216,7 +2216,7 @@
 
 **8** With an east wind you shatter the ships of Tarshish.[^48-4]
 
-**9** As we have heard, so we have seen, in the city of Yahweh of Armies,[^48-5] in the city of our God: God will establish it forever. Selah.[^48-6]
+**9** As we have heard, so we have seen, in the city of the LORD of Armies,[^48-5] in the city of our God: God will establish it forever. Selah.[^48-6]
 
 **10** We ponder your faithful love,[^48-7] God, within your temple.
 
@@ -2231,7 +2231,7 @@
 **15** that this is God, our God, forever and ever. He will guide us until death.[^48-10]
 
 [^48-1]: *Of the sons of Korah*: or "for the sons of Korah", a family of Levites who served as temple singers. In the Hebrew text the title is verse 1, so verses 2–15 are 48:1–14 in most English Bibles.
-[^48-2]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^48-2]: *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles.
 [^48-3]: Or "in the far north". *Tsaphon*, "north", was also the name of a mountain in Syria where Canaanite myth placed the home of the gods (compare Isaiah 14:13).
 [^48-4]: Large seagoing ships.
 [^48-5]: Hebrew *YHWH tseva'ot*, traditionally "the LORD of hosts" or "the LORD Almighty". *Tseva'ot* means armies: the heavenly hosts and the armies of Israel.
@@ -2312,7 +2312,7 @@
 
 *Status: draft*
 
-**1** A psalm of Asaph.[^50-1] The Mighty One, God, Yahweh,[^50-2] has spoken and summoned the earth from the rising of the sun to its setting.
+**1** A psalm of Asaph.[^50-1] The Mighty One, God, the LORD,[^50-2] has spoken and summoned the earth from the rising of the sun to its setting.
 
 **2** Out of Zion, perfect in beauty, God shines out.
 
@@ -2359,7 +2359,7 @@
 **23** Whoever offers a sacrifice of thanksgiving honors me; and to the one who keeps to the way,[^50-10] I will show the salvation of God."
 
 [^50-1]: *Of Asaph*: or "for Asaph". Asaph was a Levite whom David appointed to lead the temple singers (1 Chronicles 16:5–7; 25:1–2). Psalms 73–83 are also "of Asaph". In the Hebrew text the title is part of verse 1. In this psalm it shares the verse with the first line, so the verse numbers match English Bibles.
-[^50-2]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles. *The Mighty One, God, Yahweh*: Hebrew *El Elohim YHWH*, three names for God together, as in Joshua 22:22. It can also be read "The God of gods, Yahweh".
+[^50-2]: *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles. *The Mighty One, God, the LORD*: Hebrew *El Elohim YHWH*, three names for God together, as in Joshua 22:22. It can also be read "The God of gods, the LORD".
 [^50-3]: Or "May our God come, and not keep silent".
 [^50-4]: Hebrew *chasidim*, "the faithful, the loyal", related to *chesed*, "faithful love".
 [^50-5]: Hebrew *selah*, a musical or liturgical term of uncertain meaning.
@@ -2478,12 +2478,12 @@
 **7** Oh, that salvation for Israel would come from Zion! When God restores the fortunes of his people,[^53-8] let Jacob rejoice, let Israel be glad.
 
 [^53-1]: Hebrew *al-machalat*, a term of uncertain meaning, perhaps a tune, or "for sickness" (from *chalah*, "be sick"). Also in the title of Psalm 88.
-[^53-2]: *For the director*: Hebrew *lamenatseach*, probably the leader of the temple music. *Maskil*: a term of uncertain meaning, perhaps "a skillful psalm" or "a psalm of instruction". *Of David*: or "for David", "about David". In the Hebrew text the title is verse 1, so verses 2–7 are 53:1–6 in most English Bibles. Psalm 53 is almost the same as Psalm 14. It has *Elohim*, "God", where Psalm 14 has "Yahweh" (see the note on 42:2), and its verse 6 differs from 14:5–6.
+[^53-2]: *For the director*: Hebrew *lamenatseach*, probably the leader of the temple music. *Maskil*: a term of uncertain meaning, perhaps "a skillful psalm" or "a psalm of instruction". *Of David*: or "for David", "about David". In the Hebrew text the title is verse 1, so verses 2–7 are 53:1–6 in most English Bibles. Psalm 53 is almost the same as Psalm 14. It has *Elohim*, "God", where Psalm 14 has "the LORD" (see the note on 42:2), and its verse 6 differs from 14:5–6.
 [^53-3]: Hebrew *naval*, someone who is morally and spiritually senseless, not merely unintelligent.
 [^53-4]: Hebrew *sag*. Psalm 14:3 has *sar*, "turned aside".
 [^53-5]: Romans 3:10–12 quotes verses 2–4 freely (compare 14:1–3).
 [^53-6]: Literally "the bones of the one who camps against you".
-[^53-7]: Psalm 14:5–6 reads instead "There they are, in great terror, for God is with the generation of the righteous. You would frustrate the plans of the afflicted, but Yahweh is their refuge."
+[^53-7]: Psalm 14:5–6 reads instead "There they are, in great terror, for God is with the generation of the righteous. You would frustrate the plans of the afflicted, but the LORD is their refuge."
 [^53-8]: Or "brings back his captive people".
 
 ## Chapter 54
@@ -2504,7 +2504,7 @@
 
 **7** He will repay with evil those who lie in wait for me.[^54-7] In your faithfulness, destroy them.
 
-**8** With a freewill offering I will sacrifice to you; I will give thanks to your name, Yahweh,[^54-8] for it is good.
+**8** With a freewill offering I will sacrifice to you; I will give thanks to your name, LORD,[^54-8] for it is good.
 
 **9** For he has rescued me from every trouble, and my eye has looked in triumph on my enemies.[^54-9]
 
@@ -2515,7 +2515,7 @@
 [^54-5]: Hebrew *selah*, a musical or liturgical term of uncertain meaning.
 [^54-6]: Literally "the Lord is among those who uphold my soul (*nephesh*)".
 [^54-7]: The Hebrew text is written "Evil will return to those who lie in wait for me" but read "He will repay with evil those who lie in wait for me".
-[^54-8]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^54-8]: *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles.
 [^54-9]: Literally "my eye has looked on my enemies".
 
 ## Chapter 55
@@ -2554,7 +2554,7 @@
 
 **16** Let death come on them by surprise;[^55-5] let them go down alive to Sheol,[^55-6] for evil is in their dwellings, in their midst.
 
-**17** As for me, I call to God, and Yahweh[^55-7] will save me.
+**17** As for me, I call to God, and the LORD[^55-7] will save me.
 
 **18** Evening and morning and at noon I complain and groan, and he hears my voice.
 
@@ -2566,7 +2566,7 @@
 
 **22** His speech is smoother than butter,[^55-13] but war is in his heart; his words are softer than oil, but they are drawn swords.
 
-**23** Cast your burden[^55-14] on Yahweh, and he will sustain you; he will never let the righteous be shaken.
+**23** Cast your burden[^55-14] on the LORD, and he will sustain you; he will never let the righteous be shaken.
 
 **24** But you, God, will bring them down to the pit of destruction;[^55-15] people of bloodshed and deceit will not live out half their days. But as for me, I will trust in you.
 
@@ -2576,7 +2576,7 @@
 [^55-4]: Literally "a man according to my rank", my equal.
 [^55-5]: The Hebrew text is written as one word, *yeshimot*, "Desolations be on them!", but read as two, *yashi mavet*, "Let death come deceitfully on them".
 [^55-6]: Hebrew *Sheol*, the realm of the dead. Compare Numbers 16:30–33.
-[^55-7]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^55-7]: *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles.
 [^55-8]: Hebrew *nephesh*: soul, life, self.
 [^55-9]: Literally "for with many they are with me": either many are against me, or many are on my side.
 [^55-10]: That is, answer them with judgment. The same consonants can be read "humble them".
@@ -2610,7 +2610,7 @@
 
 **10** Then my enemies will turn back on the day I call. This I know: God is for me.
 
-**11** In God, whose word I praise, in Yahweh,[^56-11] whose word I praise,
+**11** In God, whose word I praise, in the LORD,[^56-11] whose word I praise,
 
 **12** in God I trust; I will not be afraid. What can a human being do to me?
 
@@ -2628,7 +2628,7 @@
 [^56-8]: The Hebrew of this line is difficult. Literally "On account of wickedness, deliver for them". Or "Because of their wickedness, cast them out".
 [^56-9]: Or "my lament". Hebrew *nodi*, which sounds like *nod*, "bottle", in the next line.
 [^56-10]: A skin bottle, for water, milk or wine.
-[^56-11]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^56-11]: *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles.
 [^56-12]: Literally "Upon me, God, are your vows", the vows I made to you.
 [^56-13]: Literally "have you not rescued my feet from stumbling?"
 [^56-14]: Or "in the light of the living".
@@ -2690,7 +2690,7 @@
 
 **6** that will not listen to the voice of charmers, or of the most skillful caster of spells.
 
-**7** God, break the teeth in their mouths; tear out the fangs of the young lions, Yahweh.[^58-5]
+**7** God, break the teeth in their mouths; tear out the fangs of the young lions, LORD.[^58-5]
 
 **8** Let them vanish like water that runs away; when he aims his arrows,[^58-6] let them be cut off.[^58-7]
 
@@ -2706,7 +2706,7 @@
 [^58-2]: *For the director*: Hebrew *lamenatseach*, probably the leader of the temple music. *Of David*: or "for David", "about David". *Miktam*: a term of uncertain meaning (see the note on the title of Psalm 16). In the Hebrew text the title is verse 1, so verses 2–12 are 58:1–11 in most English Bibles.
 [^58-3]: The vowel points read *elem*, "silence": "Do you indeed speak righteousness in silence?" The same consonants can be read *elim*, "gods" or "mighty ones", the rulers addressed in this psalm (compare Psalm 82).
 [^58-4]: Literally "from the belly".
-[^58-5]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^58-5]: *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles.
 [^58-6]: The Hebrew text is written "his arrow" but read "his arrows".
 [^58-7]: The Hebrew of this line is difficult. Literally "he treads his arrows as they are cut off".
 [^58-8]: The Hebrew of this verse is very difficult. Literally "Before your pots perceive the thornbush, like living, like burning, he will whirl it away".
@@ -2723,17 +2723,17 @@
 
 **3** Rescue me from evildoers, and save me from bloodthirsty men.[^59-3]
 
-**4** For see, they lie in wait for my life;[^59-4] fierce men band together against me, not for any transgression or sin of mine, Yahweh.[^59-5]
+**4** For see, they lie in wait for my life;[^59-4] fierce men band together against me, not for any transgression or sin of mine, LORD.[^59-5]
 
 **5** For no guilt of mine they run and take up their positions. Rouse yourself to meet me, and see!
 
-**6** You, Yahweh God of Armies,[^59-6] God of Israel, wake up to punish all the nations; show no mercy to any treacherous evildoers. Selah.[^59-7]
+**6** You, LORD God of Armies,[^59-6] God of Israel, wake up to punish all the nations; show no mercy to any treacherous evildoers. Selah.[^59-7]
 
 **7** They return at evening, howling like dogs, and prowl around the city.
 
 **8** See, they spew from their mouths; swords are on their lips, for they think, "Who will hear?"[^59-8]
 
-**9** But you, Yahweh, laugh at them; you mock all the nations.
+**9** But you, LORD, laugh at them; you mock all the nations.
 
 **10** Because of his strength, I will watch for you,[^59-9] for God is my fortress.
 
@@ -2757,8 +2757,8 @@
 [^59-2]: *For the director*: Hebrew *lamenatseach*, probably the leader of the temple music. *Of David*: or "for David", "about David". *Miktam*: a term of uncertain meaning (see the note on the title of Psalm 16). The events are told in 1 Samuel 19:11–17. In the Hebrew text the title is verse 1, so verses 2–18 are 59:1–17 in most English Bibles.
 [^59-3]: Literally "men of blood".
 [^59-4]: Hebrew *nephesh*: soul, life, self.
-[^59-5]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
-[^59-6]: Hebrew *YHWH Elohim tseva'ot*. Compare "Yahweh of Armies", traditionally "the LORD of hosts" or "the LORD Almighty". *Tseva'ot* means armies: the heavenly hosts and the armies of Israel.
+[^59-5]: *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles.
+[^59-6]: Hebrew *YHWH Elohim tseva'ot*. Compare "the LORD of Armies", traditionally "the LORD of hosts" or "the LORD Almighty". *Tseva'ot* means armies: the heavenly hosts and the armies of Israel.
 [^59-7]: Hebrew *selah*, a musical or liturgical term of uncertain meaning. Also in verse 14.
 [^59-8]: Literally "for who hears?"
 [^59-9]: Literally "His strength, I will watch for you", perhaps meaning the enemy's strength. Verse 18 has "my strength", and the Septuagint reads that here: "My strength, I will watch for you".
@@ -2945,14 +2945,14 @@
 
 **10** Then all people will fear; they will proclaim the work of God and ponder what he has done.
 
-**11** Let the righteous rejoice in Yahweh[^64-6] and take refuge in him; let all the upright in heart give praise.[^64-7]
+**11** Let the righteous rejoice in the LORD[^64-6] and take refuge in him; let all the upright in heart give praise.[^64-7]
 
 [^64-1]: *For the director*: Hebrew *lamenatseach*, probably the leader of the temple music. *Of David*: or "for David", "about David". In the Hebrew text the title is verse 1, so verses 2–11 are 64:1–10 in most English Bibles.
 [^64-2]: Two different Hebrew words, *mere'im* and *po'alei aven*, both "evildoers".
 [^64-3]: Literally "They make strong for themselves an evil word".
 [^64-4]: The Hebrew of this verse is difficult. Literally "They search out injustices; we have finished a searched-out search; and the inward part of a man and the heart are deep".
 [^64-5]: Literally "They make him stumble, their tongue against them".
-[^64-6]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^64-6]: *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles.
 [^64-7]: Or "let them glory", "boast".
 
 ## Chapter 65
@@ -3089,7 +3089,7 @@
 
 **4** But let the righteous be glad; let them rejoice before God; let them celebrate with joy.
 
-**5** Sing to God, sing praises to his name; build up a road for the one who rides through the deserts.[^68-3] His name is Yah;[^68-4] rejoice before him.
+**5** Sing to God, sing praises to his name; build up a road for the one who rides through the deserts.[^68-3] His name is the LORD;[^68-4] rejoice before him.
 
 **6** A father of the fatherless and a defender of widows is God in his holy dwelling.
 
@@ -3113,15 +3113,15 @@
 
 **16** A mountain of God[^68-15] is the mountain of Bashan; a mountain of many peaks is the mountain of Bashan.
 
-**17** Why do you look with envy,[^68-16] you mountains of many peaks, at the mountain God desired for his dwelling? Yes, Yahweh[^68-17] will dwell there forever.
+**17** Why do you look with envy,[^68-16] you mountains of many peaks, at the mountain God desired for his dwelling? Yes, the LORD[^68-17] will dwell there forever.
 
 **18** The chariots of God are twice ten thousand, thousands upon thousands; the Lord is among them, Sinai is in the holy place.[^68-18]
 
-**19** You went up to the heights; you led captives away; you received gifts from people,[^68-19] even from the rebellious, so that Yah God might dwell there.
+**19** You went up to the heights; you led captives away; you received gifts from people,[^68-19] even from the rebellious, so that the LORD God might dwell there.
 
 **20** Blessed be the Lord, who day after day bears our burden,[^68-20] the God who is our salvation. Selah.
 
-**21** Our God is a God who saves,[^68-21] and to Yahweh the Lord belong the ways of escape from death.[^68-22]
+**21** Our God is a God who saves,[^68-21] and to GOD the Lord belong the ways of escape from death.[^68-22]
 
 **22** Surely God will crush the heads of his enemies, the hairy crown of the one who walks in his guilt.
 
@@ -3133,7 +3133,7 @@
 
 **26** The singers go in front, the musicians last, and between them young women playing tambourines.
 
-**27** In the assemblies bless God, Yahweh, you who come from the spring of Israel.[^68-26]
+**27** In the assemblies bless God, the LORD, you who come from the spring of Israel.[^68-26]
 
 **28** There is little Benjamin, leading them,[^68-27] the princes of Judah in their throng,[^68-28] the princes of Zebulun, the princes of Naphtali.
 
@@ -3156,7 +3156,7 @@
 [^68-1]: *For the director*: Hebrew *lamenatseach*, probably the leader of the temple music. *Of David*: or "for David", "about David". In the Hebrew text the title is verse 1, so verses 2–36 are 68:1–35 in most English Bibles. This psalm is one of the most difficult in the Psalter. Many of its words are rare, some lines seem to be quotations from older poems, and the connection between its sections is often unclear. The notes mark the most uncertain lines.
 [^68-2]: Compare Numbers 10:35, the words Moses spoke whenever the ark set out.
 [^68-3]: Literally "cast up (a highway) for the one who rides in the *aravot*", the desert plains. Some take *aravot* as "clouds", comparing verse 34 and a title of the god Baal in Canaanite poetry, "rider of the clouds". The verb *sollu* may also mean "lift up (a song)".
-[^68-4]: Hebrew *Yah*, a short form of the name Yahweh, as in *hallelu-yah*, "praise Yah". Also in verse 19.
+[^68-4]: Hebrew *Yah*, a short form of the name YHWH, as in *hallelu-yah*, "praise Yah". Also in verse 19.
 [^68-5]: Hebrew *kosharot*, found only here, perhaps "prosperity" or "singing".
 [^68-6]: Literally "God, when you went out before your people, when you marched through the wasteland", a sentence that continues in verse 9.
 [^68-7]: Hebrew *selah*, a musical or liturgical term of uncertain meaning. Also in verses 20 and 33. Verses 8–9 are close to Judges 5:4–5.
@@ -3169,12 +3169,12 @@
 [^68-14]: A mountain, perhaps the one near Shechem (Judges 9:48), or one in Bashan. *Zalmon* is related to *tselem*, "shadow, darkness".
 [^68-15]: Or "A mighty mountain", as "mountains of God" can mean mighty mountains (compare 36:7, English 36:6).
 [^68-16]: Hebrew *teratsedun*, found only here; the meaning is uncertain.
-[^68-17]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^68-17]: *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles.
 [^68-18]: Literally "the Lord among them, Sinai, in holiness". Some scholars read "the Lord has come from Sinai into the holy place", with a small change to the Hebrew (compare Deuteronomy 33:2).
 [^68-19]: Literally "among *adam* (humankind)". Ephesians 4:8 quotes this verse in a form that reads "he gave gifts to people".
 [^68-20]: Or "who carries us".
 [^68-21]: Literally "God is for us a God of acts of salvation".
-[^68-22]: Literally "to death the goings out".
+[^68-22]: Literally "to death the goings out". *GOD the Lord*: Hebrew *YHWH Adonai*. Next to "Lord", God's personal name is written GOD in capitals, as in most English Bibles.
 [^68-23]: Literally "so that you may crush your foot in blood". The Septuagint reads "so that your foot may be dipped in blood" (compare 58:11).
 [^68-24]: Literally "the tongue of your dogs, from the enemies its portion".
 [^68-25]: Or "in holiness".
@@ -3204,7 +3204,7 @@
 
 **6** God, you know my folly; my guilty deeds are not hidden from you.
 
-**7** Do not let those who hope in you be put to shame because of me, Lord Yahweh of Armies;[^69-6] do not let those who seek you be disgraced because of me, God of Israel.
+**7** Do not let those who hope in you be put to shame because of me, Lord GOD of Armies;[^69-6] do not let those who seek you be disgraced because of me, God of Israel.
 
 **8** For it is for your sake that I have borne insults, that shame has covered my face.
 
@@ -3218,13 +3218,13 @@
 
 **13** Those who sit at the gate talk about me, and drunkards make songs about me.[^69-10]
 
-**14** But as for me, my prayer is to you, Yahweh, at a time of favor. God, in your great faithful love,[^69-11] answer me with your sure salvation.[^69-12]
+**14** But as for me, my prayer is to you, LORD, at a time of favor. God, in your great faithful love,[^69-11] answer me with your sure salvation.[^69-12]
 
 **15** Rescue me from the mire, and do not let me sink; let me be rescued from those who hate me, and from the deep waters.
 
 **16** Do not let the flood sweep over me, or the deep swallow me up, or the pit[^69-13] close its mouth over me.
 
-**17** Answer me, Yahweh, for your faithful love is good; in your great compassion turn to me.
+**17** Answer me, LORD, for your faithful love is good; in your great compassion turn to me.
 
 **18** Do not hide your face from your servant, for I am in distress; answer me quickly.
 
@@ -3254,11 +3254,11 @@
 
 **31** I will praise the name of God with a song, and magnify him with thanksgiving.
 
-**32** This will please Yahweh more than an ox, a bull with its horns and hoofs.
+**32** This will please the LORD more than an ox, a bull with its horns and hoofs.
 
 **33** The humble will see it and be glad; you who seek God, let your hearts revive.
 
-**34** For Yahweh hears the needy, and does not despise his own who are prisoners.
+**34** For the LORD hears the needy, and does not despise his own who are prisoners.
 
 **35** Let heaven and earth praise him, the seas and everything that moves in them.
 
@@ -3271,7 +3271,7 @@
 [^69-3]: Hebrew *nephesh*, here "throat, neck". Elsewhere it means soul, life, self, as in verses 11 and 19.
 [^69-4]: Compare John 15:25.
 [^69-5]: Literally "my enemies of falsehood".
-[^69-6]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles. *Yahweh of Armies* (Hebrew *YHWH tseva'ot*) is traditionally "the LORD of hosts" or "the LORD Almighty". *Tseva'ot* means armies: the heavenly hosts and the armies of Israel.
+[^69-6]: *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles. *The LORD of Armies* (Hebrew *YHWH tseva'ot*) is traditionally "the LORD of hosts" or "the LORD Almighty". *Tseva'ot* means armies: the heavenly hosts and the armies of Israel.
 [^69-7]: Quoted in John 2:17.
 [^69-8]: Quoted in Romans 15:3.
 [^69-9]: Literally "When I wept in the fasting of my soul (*nephesh*)".
@@ -3297,7 +3297,7 @@
 
 **1** For the director. Of David. To bring to remembrance.[^70-1]
 
-**2** God, come to rescue me;[^70-2] Yahweh,[^70-3] come quickly to help me!
+**2** God, come to rescue me;[^70-2] LORD,[^70-3] come quickly to help me!
 
 **3** Let those who seek my life[^70-4] be put to shame and confounded; let those who delight in my harm be turned back and disgraced.
 
@@ -3305,21 +3305,21 @@
 
 **5** But let all who seek you rejoice and be glad in you; let those who love your salvation say always, "Great is God!"[^70-6]
 
-**6** As for me, I am afflicted and needy; God, come quickly to me! You are my help and my deliverer; Yahweh, do not delay.[^70-7]
+**6** As for me, I am afflicted and needy; God, come quickly to me! You are my help and my deliverer; LORD, do not delay.[^70-7]
 
-[^70-1]: *For the director*: Hebrew *lamenatseach*, probably the leader of the temple music. *Of David*: or "for David", "about David". *To bring to remembrance*: Hebrew *lehazkir* (see the note on the title of Psalm 38). In the Hebrew text the title is verse 1, so verses 2–6 are 70:1–5 in most English Bibles. Psalm 70 is almost the same as 40:14–18 (40:13–17 in most English Bibles). In several places it has *Elohim*, "God", where Psalm 40 has "Yahweh" (see the note on 42:2), and the notes below give the other differences.
-[^70-2]: Literally "God, to rescue me". Psalm 40:14 (40:13 in most English Bibles) has "Be pleased, Yahweh, to rescue me".
-[^70-3]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^70-1]: *For the director*: Hebrew *lamenatseach*, probably the leader of the temple music. *Of David*: or "for David", "about David". *To bring to remembrance*: Hebrew *lehazkir* (see the note on the title of Psalm 38). In the Hebrew text the title is verse 1, so verses 2–6 are 70:1–5 in most English Bibles. Psalm 70 is almost the same as 40:14–18 (40:13–17 in most English Bibles). In several places it has *Elohim*, "God", where Psalm 40 has "the LORD" (see the note on 42:2), and the notes below give the other differences.
+[^70-2]: Literally "God, to rescue me". Psalm 40:14 (40:13 in most English Bibles) has "Be pleased, LORD, to rescue me".
+[^70-3]: *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles.
 [^70-4]: Hebrew *nephesh*: soul, life, self. Psalm 40:15 (40:14 in most English Bibles) adds "together" and "to sweep it away".
 [^70-5]: Literally "turn back on the heel of their shame". Psalm 40:16 (40:15 in most English Bibles) has "Let them be appalled because of their shame", and "who say to me".
-[^70-6]: Psalm 40:17 (40:16 in most English Bibles) has "Great is Yahweh!"
-[^70-7]: Psalm 40:18 (40:17 in most English Bibles) has "may the Lord think of me" for "God, come quickly to me", and "my God, do not delay" for "Yahweh, do not delay".
+[^70-6]: Psalm 40:17 (40:16 in most English Bibles) has "Great is the LORD!"
+[^70-7]: Psalm 40:18 (40:17 in most English Bibles) has "may the Lord think of me" for "God, come quickly to me", and "my God, do not delay" for "LORD, do not delay".
 
 ## Chapter 71
 
 *Status: draft*
 
-**1** In you, Yahweh,[^71-1] I take refuge; let me never be put to shame.[^71-2]
+**1** In you, LORD,[^71-1] I take refuge; let me never be put to shame.[^71-2]
 
 **2** In your righteousness rescue me and deliver me; turn your ear to me and save me.
 
@@ -3327,7 +3327,7 @@
 
 **4** My God, rescue me from the hand of the wicked, from the grasp of the unjust and the ruthless.
 
-**5** For you are my hope, Lord Yahweh, my trust from my youth.
+**5** For you are my hope, Lord GOD, my trust from my youth.
 
 **6** On you I have leaned from birth;[^71-4] you are the one who brought me out[^71-5] from my mother's womb. My praise is always of you.
 
@@ -3349,7 +3349,7 @@
 
 **15** My mouth will tell of your righteousness, of your salvation all day long, though I do not know their number.[^71-8]
 
-**16** I will come with the mighty deeds of the Lord Yahweh; I will make mention of your righteousness, yours alone.
+**16** I will come with the mighty deeds of the Lord GOD; I will make mention of your righteousness, yours alone.
 
 **17** God, you have taught me from my youth, and to this day I declare your wonderful deeds.
 
@@ -3367,7 +3367,7 @@
 
 **24** My tongue too will speak of your righteousness all day long, for those who seek my harm have been put to shame and disgraced.
 
-[^71-1]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^71-1]: *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles.
 [^71-2]: Psalm 71 has no title. Verses 1–3 are close to 31:2–4 (31:1–3 in most English Bibles).
 [^71-3]: Literally "a rock of dwelling". Psalm 31:3 (31:2 in most English Bibles) has "a rock of refuge (*ma'oz*), a house of fortresses".
 [^71-4]: Literally "from the belly".
@@ -3416,7 +3416,7 @@
 
 **17** May his name endure forever; may his name increase[^72-12] as long as the sun shines. May all nations be blessed in him; may they call him happy.[^72-13]
 
-**18** Blessed be Yahweh[^72-14] God, the God of Israel, who alone does wonderful things.
+**18** Blessed be the LORD[^72-14] God, the God of Israel, who alone does wonderful things.
 
 **19** Blessed be his glorious name forever; may the whole earth be filled with his glory. Amen and Amen.[^72-15]
 
@@ -3435,7 +3435,7 @@
 [^72-11]: Literally "may they flourish from the city".
 [^72-12]: Hebrew *yinnon*, found only here, perhaps "sprout", "increase".
 [^72-13]: Compare God's promise to Abraham in Genesis 12:3; 22:18.
-[^72-14]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^72-14]: *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles.
 [^72-15]: Verses 18–19 are a doxology, a closing word of praise, which ends Book 2 of the Psalms (Psalms 42–72). Each of the five books ends with one (41:14, English 41:13; 72:18–19; 89:53, English 89:52; 106:48), and Psalm 150 closes the whole collection.
 [^72-16]: This line probably closed an earlier collection of David's prayers. Several later psalms are also titled "of David" (for example Psalms 86, 101, 103, 108–110 and 138–145).
 
@@ -3497,7 +3497,7 @@
 
 **27** For see, those who are far from you will perish; you destroy all who are unfaithful to you.[^73-17]
 
-**28** But as for me, it is good to be near God;[^73-18] I have made the Lord Yahweh[^73-19] my refuge, so that I may tell of all your works.
+**28** But as for me, it is good to be near God;[^73-18] I have made the Lord GOD[^73-19] my refuge, so that I may tell of all your works.
 
 [^73-1]: *Of Asaph*: or "for Asaph", a Levite who led the temple singers (see the note on 50:1). Psalms 73–83 are all "of Asaph". In the Hebrew text the title is part of verse 1. In this psalm it shares the verse with the first line, so the verse numbers match English Bibles. Psalm 73 begins Book 3 of the Psalms (Psalms 73–89).
 [^73-2]: Hebrew *shalom*: peace, well-being, prosperity.
@@ -3517,7 +3517,7 @@
 [^73-16]: Literally "the rock of my heart".
 [^73-17]: Literally "everyone who goes away from you as a prostitute", a common picture of unfaithfulness to God.
 [^73-18]: Literally "the nearness of God is good for me".
-[^73-19]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^73-19]: *The Lord GOD*: Hebrew *Adonai YHWH*, "my Lord YHWH". God's personal name, YHWH, is written GOD in capitals after "Lord", and "the LORD" elsewhere, as in most English Bibles.
 
 ## Chapter 74
 
@@ -3557,7 +3557,7 @@
 
 **17** You set all the boundaries of the earth; summer and winter, you made them.
 
-**18** Remember this: the enemy taunts, Yahweh,[^74-12] and a foolish people despises your name.
+**18** Remember this: the enemy taunts, LORD,[^74-12] and a foolish people despises your name.
 
 **19** Do not give the life of your dove to the wild beasts;[^74-13] do not forget the life of your afflicted forever.
 
@@ -3580,7 +3580,7 @@
 [^74-9]: A many-headed sea monster, a picture of the forces of chaos (compare Job 40:25, English 41:1; Isaiah 27:1).
 [^74-10]: Literally "to a people, to desert creatures".
 [^74-11]: Literally "the light".
-[^74-12]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles. Or "the enemy taunts Yahweh".
+[^74-12]: *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles. Or "the enemy taunts the LORD".
 [^74-13]: Literally "to the beast the soul (*nephesh*) of your turtledove". The Hebrew word *chayyat*, "beast", also means "life" or "community" in the next line.
 
 ## Chapter 75
@@ -3603,7 +3603,7 @@
 
 **8** For God is the judge; he puts down one and lifts up another.
 
-**9** For in the hand of Yahweh[^75-8] there is a cup, with foaming wine, richly mixed; he pours from it, and all the wicked of the earth must drain it to the dregs and drink.
+**9** For in the hand of the LORD[^75-8] there is a cup, with foaming wine, richly mixed; he pours from it, and all the wicked of the earth must drain it to the dregs and drink.
 
 **10** But as for me, I will declare it forever; I will sing praises to the God of Jacob.
 
@@ -3616,7 +3616,7 @@
 [^75-5]: The horn of an animal is a picture of strength and pride. Also in verses 6 and 11.
 [^75-6]: Literally "with a neck of arrogance". The Septuagint reads "speak injustice against God".
 [^75-7]: Hebrew *harim*, "lifting up", as in verses 5–6 and 8. Or "and not from the wilderness of the mountains".
-[^75-8]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^75-8]: *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles.
 [^75-9]: The speaker may be God, as in verses 3–6, or the psalmist.
 
 ## Chapter 76
@@ -3645,7 +3645,7 @@
 
 **11** Surely human wrath will praise you; with the remnant of wrath you will clothe yourself.[^76-10]
 
-**12** Make vows to Yahweh[^76-11] your God, and fulfill them; let all around him bring gifts to the one who is to be feared.
+**12** Make vows to the LORD[^76-11] your God, and fulfill them; let all around him bring gifts to the one who is to be feared.
 
 **13** He cuts short the spirit of princes; he is feared by the kings of the earth.
 
@@ -3659,7 +3659,7 @@
 [^76-8]: Literally "did not find their hands".
 [^76-9]: Literally "fell into a deep sleep".
 [^76-10]: The Hebrew of this verse is difficult. Literally "the remnant of wraths you will gird on". Or "the survivors of wrath will keep your festivals".
-[^76-11]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^76-11]: *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles.
 
 ## Chapter 77
 
@@ -3687,7 +3687,7 @@
 
 **11** Then I said, "This is my grief: that the right hand of the Most High has changed."[^77-10]
 
-**12** I will remember[^77-11] the deeds of Yah;[^77-12] yes, I will remember your wonders of old.
+**12** I will remember[^77-11] the deeds of the LORD;[^77-12] yes, I will remember your wonders of old.
 
 **13** I will meditate on all your work, and ponder your mighty deeds.
 
@@ -3718,7 +3718,7 @@
 [^77-9]: Literally "word".
 [^77-10]: The Hebrew of this verse is difficult. Literally "My sickness, it is the changing of the right hand of the Most High". *Shenot*, "changing", can also mean "years": "the years of the right hand of the Most High". *Most High*: Hebrew *Elyon*, a title of God.
 [^77-11]: The Hebrew text is written "I will make mention of" but read "I will remember".
-[^77-12]: Hebrew *Yah*, a short form of the name Yahweh, as in *hallelu-yah*, "praise Yah".
+[^77-12]: Hebrew *Yah*, a short form of the name YHWH, as in *hallelu-yah*, "praise Yah".
 [^77-13]: Or "in the holy place".
 [^77-14]: Literally "gave a voice".
 [^77-15]: Hebrew *galgal*, "wheel" or "whirlwind".
@@ -3734,7 +3734,7 @@
 
 **3** things that we have heard and known, that our ancestors have told us.
 
-**4** We will not hide them from their children; we will tell the next generation the praiseworthy deeds of Yahweh,[^78-5] his might, and the wonders he has done.
+**4** We will not hide them from their children; we will tell the next generation the praiseworthy deeds of the LORD,[^78-5] his might, and the wonders he has done.
 
 **5** He established a statute[^78-6] in Jacob, and set a law in Israel, which he commanded our ancestors to make known to their children,
 
@@ -3768,7 +3768,7 @@
 
 **20** True, he struck the rock, and water gushed out, and streams overflowed. But can he also give bread, or provide meat for his people?"
 
-**21** So when Yahweh heard, he was furious; a fire was kindled against Jacob, and his anger rose against Israel,[^78-13]
+**21** So when the LORD heard, he was furious; a fire was kindled against Jacob, and his anger rose against Israel,[^78-13]
 
 **22** because they did not believe in God, or trust in his salvation.
 
@@ -3876,7 +3876,7 @@
 [^78-2]: Hebrew *torah*, "instruction, teaching".
 [^78-3]: Hebrew *mashal*, a saying, parable or poem.
 [^78-4]: Matthew 13:35 quotes this verse.
-[^78-5]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^78-5]: *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles.
 [^78-6]: Hebrew *edut*, traditionally "testimony": the solemn terms of the covenant. Also in verse 56, in the plural.
 [^78-7]: Literally "equipped shooters of the bow". The event is not known.
 [^78-8]: Literally "the field of Zoan". Zoan was a city in the eastern Nile delta (Numbers 13:22).
@@ -3924,7 +3924,7 @@
 
 **4** We have become a disgrace to our neighbors, the scorn and mockery of those around us.
 
-**5** How long, Yahweh?[^79-5] Will you be angry forever? Will your jealousy[^79-6] burn like fire?
+**5** How long, LORD?[^79-5] Will you be angry forever? Will your jealousy[^79-6] burn like fire?
 
 **6** Pour out your wrath on the nations that do not know you, and on the kingdoms that do not call on your name.
 
@@ -3946,7 +3946,7 @@
 [^79-2]: Compare Micah 3:12 and Jeremiah 26:18.
 [^79-3]: Hebrew *chasidim*, "the faithful, the loyal", related to *chesed*, "faithful love".
 [^79-4]: 1 Maccabees 7:17 quotes verses 2–3.
-[^79-5]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^79-5]: *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles.
 [^79-6]: Or "zeal".
 [^79-7]: The verb is singular in the Hebrew, "he has devoured", that is, the enemy. Verses 6–7 are nearly the same as Jeremiah 10:25.
 [^79-8]: Or "his pasture", "his dwelling place".
@@ -3969,7 +3969,7 @@
 
 **4** God, restore us;[^80-5] let your face shine, and we will be saved.[^80-6]
 
-**5** Yahweh God of Armies,[^80-7] how long will you smolder with anger[^80-8] against the prayer of your people?
+**5** LORD God of Armies,[^80-7] how long will you smolder with anger[^80-8] against the prayer of your people?
 
 **6** You have fed them the bread of tears, and made them drink tears by the measure.[^80-9]
 
@@ -3999,7 +3999,7 @@
 
 **19** Then we will not turn away from you; give us life, and we will call on your name.
 
-**20** Yahweh God of Armies, restore us; let your face shine, and we will be saved.
+**20** LORD God of Armies, restore us; let your face shine, and we will be saved.
 
 [^80-1]: Hebrew *el-shoshannim*, "according to lilies", probably the name of a tune (compare the titles of Psalms 45 and 69).
 [^80-2]: Hebrew *edut*, "testimony", perhaps part of the name of the tune, "Lilies of the Testimony" (compare the title of Psalm 60).
@@ -4007,7 +4007,7 @@
 [^80-4]: Or "above the cherubim". Hebrew *keruvim*: winged heavenly beings. Two gold cherubim stood on the cover of the ark (Exodus 25:18–22).
 [^80-5]: Or "bring us back". The refrain comes again, growing longer each time, in verses 8 and 20.
 [^80-6]: *Let your face shine*: compare the priestly blessing in Numbers 6:25.
-[^80-7]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles. *Yahweh God of Armies*: Hebrew *YHWH Elohim tseva'ot*. Compare "Yahweh of Armies", traditionally "the LORD of hosts" or "the LORD Almighty". *Tseva'ot* means armies: the heavenly hosts and the armies of Israel. Verse 20 has the same title, and verses 8 and 15 have *Elohim tseva'ot*, "God of Armies".
+[^80-7]: *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles. *The LORD God of Armies*: Hebrew *YHWH Elohim tseva'ot*. Compare "the LORD of Armies", traditionally "the LORD of hosts" or "the LORD Almighty". *Tseva'ot* means armies: the heavenly hosts and the armies of Israel. Verse 20 has the same title, and verses 8 and 15 have *Elohim tseva'ot*, "God of Armies".
 [^80-8]: Literally "will you smoke".
 [^80-9]: Hebrew *shalish*, "a third", a measure of uncertain size, probably large.
 [^80-10]: Literally "mock for themselves". The Septuagint reads "mock us".
@@ -4043,7 +4043,7 @@
 
 **10** There shall be no strange god among you; you shall not bow down to a foreign god.
 
-**11** I am Yahweh[^81-12] your God, who brought you up out of the land of Egypt.[^81-13] Open your mouth wide, and I will fill it.
+**11** I am the LORD[^81-12] your God, who brought you up out of the land of Egypt.[^81-13] Open your mouth wide, and I will fill it.
 
 **12** But my people did not listen to my voice, and Israel would have none of me.
 
@@ -4053,7 +4053,7 @@
 
 **15** I would soon subdue their enemies, and turn my hand against their adversaries.
 
-**16** Those who hate Yahweh would come cringing to him,[^81-14] and their time would last forever.[^81-15]
+**16** Those who hate the LORD would come cringing to him,[^81-14] and their time would last forever.[^81-15]
 
 **17** But he would feed you[^81-16] with the finest of the wheat, and with honey from the rock I would satisfy you."[^81-17]
 
@@ -4068,7 +4068,7 @@
 [^81-9]: The baskets used for carrying clay and bricks in Egypt (compare Exodus 1:14).
 [^81-10]: *Meribah* means "quarreling". The events are told in Exodus 17:1–7 and Numbers 20:1–13.
 [^81-11]: Hebrew *selah*, a musical or liturgical term of uncertain meaning.
-[^81-12]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^81-12]: *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles.
 [^81-13]: Verses 10–11 echo the Ten Commandments (Exodus 20:2–3; Deuteronomy 5:6–7).
 [^81-14]: Or "would pretend to obey him".
 [^81-15]: Literally "and their time would be forever", perhaps their time of punishment.
@@ -4142,11 +4142,11 @@
 
 **16** so pursue them with your tempest, and terrify them with your storm.
 
-**17** Fill their faces with shame, so that they will seek your name, Yahweh.[^83-14]
+**17** Fill their faces with shame, so that they will seek your name, LORD.[^83-14]
 
 **18** Let them be put to shame and terrified forever; let them be disgraced and perish.
 
-**19** Let them know that you alone, whose name is Yahweh, are the Most High[^83-15] over all the earth.
+**19** Let them know that you alone, whose name is the LORD, are the Most High[^83-15] over all the earth.
 
 [^83-1]: *Of Asaph*: or "for Asaph", a Levite who led the temple singers (see the note on 50:1). In the Hebrew text the title is verse 1, so verses 2–19 are 83:1–18 in most English Bibles.
 [^83-2]: Literally "against your hidden ones", those whom God keeps hidden and safe (compare 27:5).
@@ -4161,7 +4161,7 @@
 [^83-11]: The leaders of Midian (Judges 7:25; 8:21).
 [^83-12]: That is, the land that belongs to God.
 [^83-13]: Hebrew *galgal*, "wheel", perhaps the dry heads of wild plants that the wind rolls along like wheels (compare Isaiah 17:13).
-[^83-14]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^83-14]: *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles.
 [^83-15]: Hebrew *Elyon*, a title of God.
 
 ## Chapter 84
@@ -4170,11 +4170,11 @@
 
 **1** For the director. According to the Gittith.[^84-1] Of the sons of Korah. A psalm.[^84-2]
 
-**2** How lovely is your dwelling place,[^84-3] Yahweh of Armies!
+**2** How lovely is your dwelling place,[^84-3] LORD of Armies!
 
-**3** My soul[^84-4] longs, it even faints for the courts of Yahweh; my heart and my flesh sing for joy to the living God.
+**3** My soul[^84-4] longs, it even faints for the courts of the LORD; my heart and my flesh sing for joy to the living God.
 
-**4** Even the sparrow has found a home, and the swallow a nest for herself, where she may lay her young, at your altars, Yahweh of Armies, my King and my God.
+**4** Even the sparrow has found a home, and the swallow a nest for herself, where she may lay her young, at your altars, LORD of Armies, my King and my God.
 
 **5** Happy[^84-5] are those who live in your house; they will praise you continually.[^84-6] Selah.[^84-7]
 
@@ -4184,19 +4184,19 @@
 
 **8** They go from strength to strength; each one appears before God in Zion.[^84-11]
 
-**9** Yahweh God of Armies, hear my prayer; listen, God of Jacob. Selah.
+**9** LORD God of Armies, hear my prayer; listen, God of Jacob. Selah.
 
 **10** Look on our shield, God;[^84-12] look on the face of your anointed.[^84-13]
 
 **11** For a day in your courts is better than a thousand elsewhere.[^84-14] I would rather stand at the threshold[^84-15] of the house of my God than live in the tents of wickedness.
 
-**12** For Yahweh God is a sun and a shield; Yahweh gives grace and glory. He does not hold back any good thing from those who walk blamelessly.
+**12** For the LORD God is a sun and a shield; the LORD gives grace and glory. He does not hold back any good thing from those who walk blamelessly.
 
-**13** Yahweh of Armies, happy is the one who trusts in you.
+**13** LORD of Armies, happy is the one who trusts in you.
 
 [^84-1]: Hebrew *gittit*, a term of uncertain meaning (see the note on the title of Psalm 8).
 [^84-2]: *For the director*: Hebrew *lamenatseach*, probably the leader of the temple music. *Of the sons of Korah*: or "for the sons of Korah", a family of Levites who served as temple singers. In the Hebrew text the title is verse 1, so verses 2–13 are 84:1–12 in most English Bibles.
-[^84-3]: Literally "your dwellings". *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles. *Yahweh of Armies* (Hebrew *YHWH tseva'ot*) is traditionally "the LORD of hosts" or "the LORD Almighty". *Tseva'ot* means armies: the heavenly hosts and the armies of Israel. Also in verses 4 and 13, and in verse 9, where the Hebrew is *YHWH Elohim tseva'ot*, "Yahweh God of Armies".
+[^84-3]: Literally "your dwellings". *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles. *The LORD of Armies* (Hebrew *YHWH tseva'ot*) is traditionally "the LORD of hosts" or "the LORD Almighty". *Tseva'ot* means armies: the heavenly hosts and the armies of Israel. Also in verses 4 and 13, and in verse 9, where the Hebrew is *YHWH Elohim tseva'ot*, "the LORD God of Armies".
 [^84-4]: Hebrew *nephesh*: soul, life, self.
 [^84-5]: Hebrew *ashrei*: happy, fortunate; traditionally "blessed" (see the note on 1:1). Also in verses 6 and 13.
 [^84-6]: Literally "they will still praise you".
@@ -4216,7 +4216,7 @@
 
 **1** For the director. Of the sons of Korah. A psalm.[^85-1]
 
-**2** Yahweh,[^85-2] you have shown favor to your land; you have restored the fortunes of Jacob.[^85-3]
+**2** LORD,[^85-2] you have shown favor to your land; you have restored the fortunes of Jacob.[^85-3]
 
 **3** You have forgiven[^85-4] the iniquity of your people; you have covered all their sin. Selah.[^85-5]
 
@@ -4228,9 +4228,9 @@
 
 **7** Will you not give us life again, so that your people may rejoice in you?
 
-**8** Show us your faithful love,[^85-7] Yahweh, and grant us your salvation.
+**8** Show us your faithful love,[^85-7] LORD, and grant us your salvation.
 
-**9** Let me hear what God, Yahweh, will say, for he will speak peace to his people, to his faithful ones;[^85-8] but let them not turn back to folly.[^85-9]
+**9** Let me hear what God, the LORD, will say, for he will speak peace to his people, to his faithful ones;[^85-8] but let them not turn back to folly.[^85-9]
 
 **10** Surely his salvation is near to those who fear him, so that glory may dwell in our land.
 
@@ -4238,12 +4238,12 @@
 
 **12** Faithfulness springs up from the earth, and righteousness looks down from heaven.
 
-**13** Yahweh will indeed give what is good, and our land will yield its harvest.
+**13** The LORD will indeed give what is good, and our land will yield its harvest.
 
 **14** Righteousness will go before him, and make a path for his steps.[^85-11]
 
 [^85-1]: *For the director*: Hebrew *lamenatseach*, probably the leader of the temple music. *Of the sons of Korah*: or "for the sons of Korah", a family of Levites who served as temple singers. In the Hebrew text the title is verse 1, so verses 2–14 are 85:1–13 in most English Bibles.
-[^85-2]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^85-2]: *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles.
 [^85-3]: Or "you have brought back the captives of Jacob".
 [^85-4]: Literally "lifted", that is, taken away.
 [^85-5]: Hebrew *selah*, a musical or liturgical term of uncertain meaning.
@@ -4258,7 +4258,7 @@
 
 *Status: draft*
 
-**1** A prayer of David.[^86-1] Turn your ear, Yahweh,[^86-2] and answer me, for I am afflicted and needy.
+**1** A prayer of David.[^86-1] Turn your ear, LORD,[^86-2] and answer me, for I am afflicted and needy.
 
 **2** Guard my life,[^86-3] for I am faithful;[^86-4] you are my God; save your servant, who trusts in you.
 
@@ -4268,7 +4268,7 @@
 
 **5** For you, Lord, are good and forgiving, abounding in faithful love[^86-5] to all who call on you.
 
-**6** Listen, Yahweh, to my prayer, and pay attention to the sound of my pleas for mercy.
+**6** Listen, LORD, to my prayer, and pay attention to the sound of my pleas for mercy.
 
 **7** In the day of my trouble I call on you, for you will answer me.
 
@@ -4278,7 +4278,7 @@
 
 **10** For you are great, and you do wonders; you alone are God.
 
-**11** Teach me your way, Yahweh, so that I may walk in your truth; give me an undivided heart[^86-6] to fear your name.
+**11** Teach me your way, LORD, so that I may walk in your truth; give me an undivided heart[^86-6] to fear your name.
 
 **12** I will give thanks to you, Lord my God, with all my heart, and I will glorify your name forever.
 
@@ -4290,10 +4290,10 @@
 
 **16** Turn to me and be gracious to me; give your strength to your servant, and save the son of your female servant.[^86-10]
 
-**17** Show me a sign of your goodness,[^86-11] so that those who hate me may see it and be put to shame, for you, Yahweh, have helped me and comforted me.
+**17** Show me a sign of your goodness,[^86-11] so that those who hate me may see it and be put to shame, for you, LORD, have helped me and comforted me.
 
 [^86-1]: *Of David*: or "for David", "about David". It is the only psalm in Book 3 (Psalms 73–89) with David's name in its title. In the Hebrew text the title is part of verse 1. In this psalm it shares the verse with the first line, so the verse numbers match English Bibles. Many of its lines echo other psalms and Exodus 34:6.
-[^86-2]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^86-2]: *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles.
 [^86-3]: Hebrew *nephesh*: soul, life, self. Also in verses 4, 13 and 14.
 [^86-4]: Hebrew *chasid*, "faithful one", related to *chesed*, "faithful love". Or "devoted to you".
 [^86-5]: Hebrew *chesed*: loyal, faithful love. Also in verses 13 and 15.
@@ -4310,7 +4310,7 @@
 
 **1** Of the sons of Korah. A psalm. A song.[^87-1] The city he founded stands on the holy mountains.[^87-2]
 
-**2** Yahweh[^87-3] loves the gates of Zion more than all the dwellings of Jacob.
+**2** The LORD[^87-3] loves the gates of Zion more than all the dwellings of Jacob.
 
 **3** Glorious things are spoken of you, city of God. Selah.[^87-4]
 
@@ -4318,13 +4318,13 @@
 
 **5** And of Zion it will be said, "Each one and every one[^87-8] was born in her," and the Most High[^87-9] himself will establish her.
 
-**6** Yahweh will record, as he registers the peoples,[^87-10] "This one was born there." Selah.
+**6** The LORD will record, as he registers the peoples,[^87-10] "This one was born there." Selah.
 
 **7** Singers and dancers alike say,[^87-11] "All my springs are in you."
 
 [^87-1]: *Of the sons of Korah*: or "for the sons of Korah", a family of Levites who served as temple singers. In the Hebrew text the title is part of verse 1. In this psalm it shares the verse with the first line, so the verse numbers match English Bibles.
 [^87-2]: Literally "His foundation is on the holy mountains", that is, Zion, the city God founded.
-[^87-3]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^87-3]: *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles.
 [^87-4]: Hebrew *selah*, a musical or liturgical term of uncertain meaning. Also in verse 6.
 [^87-5]: Hebrew *Rahav*, a poetic name for Egypt (Isaiah 30:7), taken from the name of a sea monster (89:11, English 89:10; Job 26:12). It is not the Rahab of Joshua 2, whose name is spelled differently in Hebrew.
 [^87-6]: The land on the upper Nile, south of Egypt.
@@ -4340,7 +4340,7 @@
 
 **1** A song. A psalm of the sons of Korah. For the director. According to Mahalath Leannoth.[^88-1] A maskil of Heman the Ezrahite.[^88-2]
 
-**2** Yahweh,[^88-3] God of my salvation, by day I cry out, and by night, before you.[^88-4]
+**2** LORD,[^88-3] God of my salvation, by day I cry out, and by night, before you.[^88-4]
 
 **3** Let my prayer come before you; turn your ear to my cry.
 
@@ -4356,7 +4356,7 @@
 
 **9** You have taken my friends far from me; you have made me a horror to them. I am shut in, and I cannot get out.
 
-**10** My eye grows dim from affliction. I call on you, Yahweh, every day; I spread out my hands to you.
+**10** My eye grows dim from affliction. I call on you, LORD, every day; I spread out my hands to you.
 
 **11** Do you work wonders for the dead? Do the shades[^88-10] rise up to praise you? Selah.
 
@@ -4364,9 +4364,9 @@
 
 **13** Are your wonders known in the darkness, or your righteousness in the land of forgetfulness?[^88-13]
 
-**14** But I cry to you for help, Yahweh; in the morning my prayer comes before you.
+**14** But I cry to you for help, LORD; in the morning my prayer comes before you.
 
-**15** Why, Yahweh, do you reject my soul? Why do you hide your face from me?
+**15** Why, LORD, do you reject my soul? Why do you hide your face from me?
 
 **16** I have been afflicted and close to death from my youth; I bear your terrors; I am helpless.[^88-14]
 
@@ -4378,7 +4378,7 @@
 
 [^88-1]: Hebrew *al-machalat le'annot*. *Machalat* is a term of uncertain meaning (see the note on the title of Psalm 53). *Le'annot* may mean "for singing", "for responsive singing", or "for affliction".
 [^88-2]: *Of the sons of Korah*: or "for the sons of Korah", a family of Levites who served as temple singers. *For the director*: Hebrew *lamenatseach*, probably the leader of the temple music. *Maskil*: a term of uncertain meaning, perhaps "a skillful psalm" or "a psalm of instruction". *Of Heman*: or "for Heman". A wise man named Heman is mentioned in 1 Kings 5:11 (4:31 in most English Bibles), and Heman was also one of David's chief musicians (1 Chronicles 15:17, 19; 25:1). *Ezrahite* probably means a descendant of Zerah (1 Chronicles 2:6). In the Hebrew text the title is verse 1, so verses 2–19 are 88:1–18 in most English Bibles.
-[^88-3]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^88-3]: *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles.
 [^88-4]: Literally "the day I cried out in the night before you". The Hebrew is unusual.
 [^88-5]: Hebrew *nephesh*: soul, life, self. Also in verse 15.
 [^88-6]: Hebrew *Sheol*, the realm of the dead.
@@ -4398,7 +4398,7 @@
 
 **1** A maskil of Ethan the Ezrahite.[^89-1]
 
-**2** I will sing of the faithful love[^89-2] of Yahweh[^89-3] forever; with my mouth I will make your faithfulness[^89-4] known to all generations.
+**2** I will sing of the faithful love[^89-2] of the LORD[^89-3] forever; with my mouth I will make your faithfulness[^89-4] known to all generations.
 
 **3** For I said, "Faithful love will be built up forever; in the heavens you will establish your faithfulness."[^89-5]
 
@@ -4406,13 +4406,13 @@
 
 **5** 'I will establish your offspring forever, and build your throne for all generations.'" Selah.[^89-7]
 
-**6** The heavens praise your wonders, Yahweh, and your faithfulness in the assembly of the holy ones.[^89-8]
+**6** The heavens praise your wonders, LORD, and your faithfulness in the assembly of the holy ones.[^89-8]
 
-**7** For who in the skies can compare with Yahweh? Who among the sons of the gods[^89-9] is like Yahweh,
+**7** For who in the skies can compare with the LORD? Who among the sons of the gods[^89-9] is like the LORD,
 
 **8** a God greatly feared in the council of the holy ones, and awesome above all who are around him?
 
-**9** Yahweh God of Armies,[^89-10] who is like you? You are mighty, Yah,[^89-11] and your faithfulness surrounds you.
+**9** LORD God of Armies,[^89-10] who is like you? You are mighty, LORD,[^89-11] and your faithfulness surrounds you.
 
 **10** You rule the raging of the sea; when its waves rise, you calm them.
 
@@ -4426,13 +4426,13 @@
 
 **15** Righteousness and justice are the foundation of your throne; faithful love and faithfulness[^89-15] go before you.
 
-**16** Happy[^89-16] are the people who know the festal shout,[^89-17] who walk, Yahweh, in the light of your face.
+**16** Happy[^89-16] are the people who know the festal shout,[^89-17] who walk, LORD, in the light of your face.
 
 **17** In your name they rejoice all day long, and in your righteousness they are lifted up.
 
 **18** For you are the glory of their strength, and by your favor our horn[^89-18] is lifted high.[^89-19]
 
-**19** For our shield belongs to Yahweh, and our king to the Holy One of Israel.[^89-20]
+**19** For our shield belongs to the LORD, and our king to the Holy One of Israel.[^89-20]
 
 **20** Once you spoke in a vision to your faithful ones,[^89-21] and said, "I have given help to a mighty man; I have raised up one chosen from the people.[^89-22]
 
@@ -4488,7 +4488,7 @@
 
 **46** You have cut short the days of his youth; you have covered him with shame. Selah.
 
-**47** How long, Yahweh? Will you hide yourself forever? Will your wrath burn like fire?
+**47** How long, LORD? Will you hide yourself forever? Will your wrath burn like fire?
 
 **48** Remember how short my life is![^89-36] For what futility you have created all humankind!
 
@@ -4498,21 +4498,21 @@
 
 **51** Remember, Lord, how your servants are taunted, how I carry in my heart the insults of all the many peoples,[^89-39]
 
-**52** with which your enemies have taunted, Yahweh, with which they have taunted the footsteps of your anointed.[^89-40]
+**52** with which your enemies have taunted, LORD, with which they have taunted the footsteps of your anointed.[^89-40]
 
-**53** Blessed be Yahweh forever. Amen and Amen.[^89-41]
+**53** Blessed be the LORD forever. Amen and Amen.[^89-41]
 
 [^89-1]: *Maskil*: a term of uncertain meaning, perhaps "a skillful psalm" or "a psalm of instruction". *Of Ethan*: or "for Ethan". A wise man named Ethan the Ezrahite is mentioned in 1 Kings 5:11 (4:31 in most English Bibles), and Ethan was also one of David's chief musicians (1 Chronicles 15:17, 19). *Ezrahite* probably means a descendant of Zerah (1 Chronicles 2:6). In the Hebrew text the title is verse 1, so verses 2–53 are 89:1–52 in most English Bibles. The psalm celebrates God's covenant with David (verses 4–5 and 20–38; compare 2 Samuel 7:8–16) and then laments that God seems to have abandoned it, for the king of David's line has been defeated and shamed (verses 39–52).
 [^89-2]: Hebrew *chesed*: loyal, faithful love. Here and in verse 50 it is plural, "acts of faithful love". Also in verses 3, 15, 25, 29 and 34.
-[^89-3]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^89-3]: *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles.
 [^89-4]: Hebrew *emunah*: firmness, reliability, faithfulness. Also in verses 3, 6, 9, 25, 34 and 50. *Chesed* and *emunah* each appear seven times in the psalm.
 [^89-5]: The Septuagint reads "For you said".
 [^89-6]: God speaks in verses 4–5, summing up the promise that is given in full in verses 20–38.
 [^89-7]: Hebrew *selah*, a musical or liturgical term of uncertain meaning. Also in verses 38, 46 and 49.
 [^89-8]: The heavenly beings who serve in God's court, as in verse 8.
 [^89-9]: Literally "sons of gods" (Hebrew *bene elim*): heavenly beings who serve in God's court (compare 29:1; Job 1:6).
-[^89-10]: Hebrew *YHWH Elohei tseva'ot*. Compare "Yahweh of Armies", traditionally "the LORD of hosts" or "the LORD Almighty". *Tseva'ot* means armies: the heavenly hosts and the armies of Israel.
-[^89-11]: Hebrew *Yah*, a short form of the name Yahweh. *Mighty*: Hebrew *chasin*, found only here.
+[^89-10]: Hebrew *YHWH Elohei tseva'ot*. Compare "the LORD of Armies", traditionally "the LORD of hosts" or "the LORD Almighty". *Tseva'ot* means armies: the heavenly hosts and the armies of Israel.
+[^89-11]: Hebrew *Yah*, a short form of the name YHWH. *Mighty*: Hebrew *chasin*, found only here.
 [^89-12]: Hebrew *Rahav*, a sea monster, a picture of the chaos that God subdued (Job 26:12; Isaiah 51:9), and also a poetic name for Egypt (87:4).
 [^89-13]: Literally "the right", since the south lies on the right hand of one who faces east.
 [^89-14]: Two mountains in the north of Israel.
@@ -4521,7 +4521,7 @@
 [^89-17]: Hebrew *teru'ah*, the shout or trumpet blast of worship and festival (compare Leviticus 23:24; Numbers 10:5).
 [^89-18]: A symbol of strength, like the horns of a wild ox. Also in verse 25.
 [^89-19]: The Hebrew text is written "you lift high our horn" but read "our horn is lifted high".
-[^89-20]: That is, the king, "our shield", belongs to God. Or "For Yahweh is our shield, the Holy One of Israel is our king".
+[^89-20]: That is, the king, "our shield", belongs to God. Or "For the LORD is our shield, the Holy One of Israel is our king".
 [^89-21]: Hebrew *chasidim*, "faithful ones", related to *chesed*, "faithful love". The vision is probably the one given to Nathan the prophet (2 Samuel 7:4–17).
 [^89-22]: Or "I have exalted a young man from the people".
 [^89-23]: Hebrew *meshachtiv*, from the same root as *mashiach*, "anointed one". Acts 13:22 echoes the first half of this verse, together with 1 Samuel 13:14.
@@ -4572,7 +4572,7 @@
 
 **12** So teach us to count our days, so that we may gain a heart of wisdom.
 
-**13** Turn back, Yahweh![^90-12] How long? Have compassion on your servants.[^90-13]
+**13** Turn back, LORD![^90-12] How long? Have compassion on your servants.[^90-13]
 
 **14** Satisfy us in the morning with your faithful love,[^90-14] so that we may sing for joy and be glad all our days.
 
@@ -4593,7 +4593,7 @@
 [^90-9]: Literally "or if with strength, eighty years".
 [^90-10]: Literally "their pride".
 [^90-11]: Literally "and according to your fear, your wrath".
-[^90-12]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^90-12]: *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles.
 [^90-13]: Or "Relent concerning your servants". Moses uses the same words, "turn" and "relent", when he prays for the people in Exodus 32:12.
 [^90-14]: Hebrew *chesed*: loyal, faithful love.
 [^90-15]: Hebrew *no'am*, "pleasantness, kindness, beauty".
@@ -4604,7 +4604,7 @@
 
 **1** Whoever lives in the shelter of the Most High[^91-1] will rest in the shadow of the Almighty.[^91-2]
 
-**2** I will say to Yahweh,[^91-3] "My refuge and my fortress, my God, in whom I trust."
+**2** I will say to the LORD,[^91-3] "My refuge and my fortress, my God, in whom I trust."
 
 **3** For he will rescue you from the snare of the fowler, and from the deadly plague.[^91-4]
 
@@ -4618,7 +4618,7 @@
 
 **8** You will only look with your eyes and see the punishment of the wicked.
 
-**9** For you, Yahweh, are my refuge! You have made the Most High your dwelling place;[^91-7]
+**9** For you, LORD, are my refuge! You have made the Most High your dwelling place;[^91-7]
 
 **10** no harm will befall you, and no plague will come near your tent.
 
@@ -4636,11 +4636,11 @@
 
 [^91-1]: Hebrew *Elyon*, a title of God. Also in verse 9. Psalm 91 has no title in the Hebrew. The Septuagint gives it the title "A song of praise, of David".
 [^91-2]: Hebrew *Shaddai*, traditionally "the Almighty"; the meaning is uncertain.
-[^91-3]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^91-3]: *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles.
 [^91-4]: Literally "from the plague of destruction". The same consonants can be read *davar*, "word", for *dever*, "plague", as the Septuagint did: "from a troubling word".
 [^91-5]: Hebrew *socherah*, found only here, perhaps a wall around a city, or a kind of shield. *Faithfulness*: Hebrew *emet*, firmness, reliability, truth.
 [^91-6]: Hebrew *qetev*, "destruction" or "pestilence". The Septuagint reads "the demon of noonday".
-[^91-7]: Literally "For you, Yahweh, my refuge; the Most High you have made your dwelling." The speaker changes suddenly: the first line repeats the words of the one who trusts (verse 2), and the second speaks to him again. Or "Because you have made Yahweh, my refuge, the Most High, your dwelling place".
+[^91-7]: Literally "For you, LORD, my refuge; the Most High you have made your dwelling." The speaker changes suddenly: the first line repeats the words of the one who trusts (verse 2), and the second speaks to him again. Or "Because you have made the LORD, my refuge, the Most High, your dwelling place".
 [^91-8]: In Matthew 4:6 and Luke 4:10–11 the devil quotes verses 11–12 to Jesus.
 [^91-9]: Hebrew *tannin*, a serpent or sea monster.
 [^91-10]: Hebrew *chashaq*, "be attached to, set one's love on". God speaks in verses 14–16.
@@ -4651,23 +4651,23 @@
 
 **1** A psalm. A song for the Sabbath day.[^92-1]
 
-**2** It is good to give thanks to Yahweh,[^92-2] and to sing praise to your name, Most High,[^92-3]
+**2** It is good to give thanks to the LORD,[^92-2] and to sing praise to your name, Most High,[^92-3]
 
 **3** to declare your faithful love[^92-4] in the morning, and your faithfulness by night,
 
 **4** on the ten-stringed instrument and on the harp, to the melody[^92-5] of the lyre.
 
-**5** For you have made me glad, Yahweh, by what you have done; I sing for joy at the works of your hands.
+**5** For you have made me glad, LORD, by what you have done; I sing for joy at the works of your hands.
 
-**6** How great are your works, Yahweh! How very deep are your thoughts!
+**6** How great are your works, LORD! How very deep are your thoughts!
 
 **7** The senseless man does not know, and the fool does not understand this:
 
 **8** though the wicked sprout like grass, and all evildoers flourish, they will be destroyed forever.
 
-**9** But you, Yahweh, are on high forever.
+**9** But you, LORD, are on high forever.
 
-**10** For look, your enemies, Yahweh, for look, your enemies will perish; all evildoers will be scattered.
+**10** For look, your enemies, LORD, for look, your enemies will perish; all evildoers will be scattered.
 
 **11** But you have raised my horn like that of the wild ox;[^92-6] I am anointed with fresh oil.[^92-7]
 
@@ -4675,14 +4675,14 @@
 
 **13** The righteous will flourish like the palm tree, and grow tall like a cedar in Lebanon.
 
-**14** Planted in the house of Yahweh, they will flourish in the courts of our God.
+**14** Planted in the house of the LORD, they will flourish in the courts of our God.
 
 **15** They will still bear fruit in old age; they will stay full of sap and green,
 
-**16** to declare that Yahweh is upright; he is my rock, and there is no injustice in him.
+**16** to declare that the LORD is upright; he is my rock, and there is no injustice in him.
 
 [^92-1]: This is the only psalm whose title names the Sabbath. In the Hebrew text the title is verse 1, so verses 2–16 are 92:1–15 in most English Bibles.
-[^92-2]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^92-2]: *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles.
 [^92-3]: Hebrew *Elyon*, a title of God.
 [^92-4]: Hebrew *chesed*: loyal, faithful love.
 [^92-5]: Hebrew *higgayon*, "a murmuring sound", perhaps the resounding music of the lyre. Compare 9:17, where it is a musical term.
@@ -4694,18 +4694,18 @@
 
 *Status: draft*
 
-**1** Yahweh[^93-1] reigns;[^93-2] he is clothed with majesty. Yahweh is clothed; he has wrapped himself in strength. The world is firmly established; it cannot be moved.[^93-3]
+**1** The LORD[^93-1] reigns;[^93-2] he is clothed with majesty. The LORD is clothed; he has wrapped himself in strength. The world is firmly established; it cannot be moved.[^93-3]
 
 **2** Your throne was established long ago; you are from everlasting.
 
-**3** The floods have lifted up, Yahweh, the floods have lifted up their voice; the floods lift up their pounding waves.[^93-4]
+**3** The floods have lifted up, LORD, the floods have lifted up their voice; the floods lift up their pounding waves.[^93-4]
 
-**4** Mightier than the sound of many waters, mightier than the breakers of the sea, is Yahweh, mighty on high.
+**4** Mightier than the sound of many waters, mightier than the breakers of the sea, is the LORD, mighty on high.
 
-**5** Your statutes[^93-5] are very trustworthy; holiness befits your house, Yahweh, for all time to come.[^93-6]
+**5** Your statutes[^93-5] are very trustworthy; holiness befits your house, LORD, for all time to come.[^93-6]
 
-[^93-1]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles. Psalm 93 has no title in the Hebrew. The Septuagint gives it one: "For the day before the Sabbath, when the earth was settled. A song of praise, of David."
-[^93-2]: Or "Yahweh has become king", "Yahweh is king". Hebrew *YHWH malakh*. Psalms 93 and 95–99 are often called the "Yahweh is king" psalms, or the enthronement psalms. They celebrate Yahweh's rule as king over the whole world and its peoples (93:1; 95:3; 96:10; 97:1; 98:6; 99:1; compare 47:9).
+[^93-1]: *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles. Psalm 93 has no title in the Hebrew. The Septuagint gives it one: "For the day before the Sabbath, when the earth was settled. A song of praise, of David."
+[^93-2]: Or "The LORD has become king", "The LORD is king". Hebrew *YHWH malakh*. Psalms 93 and 95–99 are often called the "The LORD is king" psalms, or the enthronement psalms. They celebrate the LORD's rule as king over the whole world and its peoples (93:1; 95:3; 96:10; 97:1; 98:6; 99:1; compare 47:9).
 [^93-3]: The same words are in 96:10 and 1 Chronicles 16:30.
 [^93-4]: Hebrew *dokhyam*, found only here, "their pounding" or "their crashing". *Floods*: Hebrew *neharot*, "rivers", here the great waters that stand for the forces of chaos which God rules (compare 89:10, English 89:9).
 [^93-5]: Hebrew *edot*, traditionally "testimonies": the solemn terms of the covenant.
@@ -4715,19 +4715,19 @@
 
 *Status: draft*
 
-**1** God of vengeance,[^94-1] Yahweh,[^94-2] God of vengeance, shine out!
+**1** God of vengeance,[^94-1] LORD,[^94-2] God of vengeance, shine out!
 
 **2** Rise up, Judge of the earth; pay back to the proud what they deserve.
 
-**3** How long will the wicked, Yahweh, how long will the wicked exult?
+**3** How long will the wicked, LORD, how long will the wicked exult?
 
 **4** They pour out arrogant words; all the evildoers boast.
 
-**5** They crush your people, Yahweh, and afflict your inheritance.
+**5** They crush your people, LORD, and afflict your inheritance.
 
 **6** They kill the widow and the foreigner, and murder the fatherless.
 
-**7** They say, "Yah[^94-3] does not see; the God of Jacob pays no attention."
+**7** They say, "The LORD[^94-3] does not see; the God of Jacob pays no attention."
 
 **8** Understand, you senseless among the people! You fools, when will you be wise?
 
@@ -4735,21 +4735,21 @@
 
 **10** He who disciplines the nations, does he not punish, he who teaches humankind knowledge?[^94-4]
 
-**11** Yahweh knows the thoughts of humankind, that they are only a breath.[^94-5]
+**11** The LORD knows the thoughts of humankind, that they are only a breath.[^94-5]
 
-**12** Happy[^94-6] is the one you discipline, Yah, and whom you teach from your law,
+**12** Happy[^94-6] is the one you discipline, LORD, and whom you teach from your law,
 
 **13** to give him rest from days of trouble, until a pit is dug for the wicked.
 
-**14** For Yahweh will not abandon his people; he will not forsake his inheritance.
+**14** For the LORD will not abandon his people; he will not forsake his inheritance.
 
 **15** For justice will again be righteous,[^94-7] and all the upright in heart will follow it.
 
 **16** Who will rise up for me against evildoers? Who will take a stand for me against evildoers?
 
-**17** If Yahweh had not been my help, my soul[^94-8] would soon have lived in the land of silence.[^94-9]
+**17** If the LORD had not been my help, my soul[^94-8] would soon have lived in the land of silence.[^94-9]
 
-**18** When I said, "My foot is slipping," your faithful love,[^94-10] Yahweh, held me up.
+**18** When I said, "My foot is slipping," your faithful love,[^94-10] LORD, held me up.
 
 **19** When my anxious thoughts multiply within me, your comforts delight my soul.
 
@@ -4757,13 +4757,13 @@
 
 **21** They band together against the life of the righteous, and condemn the innocent to death.[^94-12]
 
-**22** But Yahweh has become my stronghold, and my God the rock of my refuge.
+**22** But the LORD has become my stronghold, and my God the rock of my refuge.
 
-**23** He will turn their own iniquity back on them, and destroy them for their wickedness; Yahweh our God will destroy them.
+**23** He will turn their own iniquity back on them, and destroy them for their wickedness; the LORD our God will destroy them.
 
 [^94-1]: Literally "God of vengeances", the God who punishes wrong and sets it right. Psalm 94 has no title in the Hebrew. The Septuagint gives it one: "A psalm of David, for the fourth day of the week."
-[^94-2]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
-[^94-3]: Hebrew *Yah*, a short form of the name Yahweh. Also in verse 12.
+[^94-2]: *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles.
+[^94-3]: Hebrew *Yah*, a short form of the name YHWH. Also in verse 12.
 [^94-4]: The Hebrew breaks off, leaving the question unfinished: literally "he who teaches humankind knowledge".
 [^94-5]: Hebrew *hevel*, "breath, vapor", something without substance (compare Ecclesiastes 1:2). 1 Corinthians 3:20 quotes this verse, with "the wise" in place of "humankind".
 [^94-6]: Hebrew *ashrei*: happy, fortunate; traditionally "blessed".
@@ -4778,17 +4778,17 @@
 
 *Status: draft*
 
-**1** Come, let us sing for joy to Yahweh;[^95-1] let us shout aloud to the rock of our salvation.
+**1** Come, let us sing for joy to the LORD;[^95-1] let us shout aloud to the rock of our salvation.
 
 **2** Let us come before him with thanksgiving; let us shout aloud to him with songs of praise.
 
-**3** For Yahweh is a great God, and a great King above all gods.[^95-2]
+**3** For the LORD is a great God, and a great King above all gods.[^95-2]
 
 **4** In his hand are the depths of the earth, and the peaks[^95-3] of the mountains are his.
 
 **5** The sea is his, for he made it, and his hands formed the dry land.
 
-**6** Come, let us bow down and worship; let us kneel before Yahweh our Maker.
+**6** Come, let us bow down and worship; let us kneel before the LORD our Maker.
 
 **7** For he is our God, and we are the people of his pasture, the sheep of his hand. Today, if only you would listen to his voice:[^95-4]
 
@@ -4800,8 +4800,8 @@
 
 **11** So I swore in my anger, 'They shall never enter my rest.'"[^95-6]
 
-[^95-1]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles. Psalm 95 has no title in the Hebrew. The Septuagint gives it the title "A song of praise, of David", and Hebrews 4:7 speaks of these words as spoken "through David".
-[^95-2]: Psalm 95 is one of the "Yahweh is king" psalms (see the note on 93:1).
+[^95-1]: *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles. Psalm 95 has no title in the Hebrew. The Septuagint gives it the title "A song of praise, of David", and Hebrews 4:7 speaks of these words as spoken "through David".
+[^95-2]: Psalm 95 is one of the "The LORD is king" psalms (see the note on 93:1).
 [^95-3]: Hebrew *to'afot*, a rare word, perhaps "heights" or "summits".
 [^95-4]: Hebrews 3:7–11 quotes verses 7–11 from the Septuagint, and returns to them in 3:15 and 4:3–7. From verse 8 on, God speaks.
 [^95-5]: *Meribah* means "quarreling" and *Massah* "testing". The events are told in Exodus 17:1–7 and Numbers 20:1–13. The Septuagint, quoted in Hebrews 3:8, translates the names: "as in the rebellion, as on the day of testing in the wilderness".
@@ -4811,47 +4811,47 @@
 
 *Status: draft*
 
-**1** Sing to Yahweh[^96-1] a new song; sing to Yahweh, all the earth.[^96-2]
+**1** Sing to the LORD[^96-1] a new song; sing to the LORD, all the earth.[^96-2]
 
-**2** Sing to Yahweh, bless his name; proclaim his salvation day after day.
+**2** Sing to the LORD, bless his name; proclaim his salvation day after day.
 
 **3** Declare his glory among the nations, his wonders among all the peoples.
 
-**4** For Yahweh is great and greatly to be praised; he is to be feared above all gods.
+**4** For the LORD is great and greatly to be praised; he is to be feared above all gods.
 
-**5** For all the gods of the peoples are idols,[^96-3] but Yahweh made the heavens.
+**5** For all the gods of the peoples are idols,[^96-3] but the LORD made the heavens.
 
 **6** Splendor and majesty are before him; strength and beauty are in his sanctuary.[^96-4]
 
-**7** Ascribe to Yahweh, you families of the peoples, ascribe to Yahweh glory and strength.
+**7** Ascribe to the LORD, you families of the peoples, ascribe to the LORD glory and strength.
 
-**8** Ascribe to Yahweh the glory due his name;[^96-5] bring an offering and come into his courts.[^96-6]
+**8** Ascribe to the LORD the glory due his name;[^96-5] bring an offering and come into his courts.[^96-6]
 
-**9** Worship Yahweh in the splendor of holiness;[^96-7] tremble before him, all the earth.
+**9** Worship the LORD in the splendor of holiness;[^96-7] tremble before him, all the earth.
 
-**10** Say among the nations, "Yahweh reigns![^96-8] The world is firmly established; it cannot be moved. He will judge the peoples with fairness."
+**10** Say among the nations, "The LORD reigns![^96-8] The world is firmly established; it cannot be moved. He will judge the peoples with fairness."
 
 **11** Let the heavens rejoice and the earth be glad; let the sea roar, and all that fills it;
 
 **12** let the fields exult, and everything in them. Then all the trees of the forest will sing for joy
 
-**13** before Yahweh, for he comes, for he comes to judge the earth. He will judge the world with righteousness, and the peoples with his faithfulness.[^96-9]
+**13** before the LORD, for he comes, for he comes to judge the earth. He will judge the world with righteousness, and the peoples with his faithfulness.[^96-9]
 
-[^96-1]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles. Psalm 96 has no title in the Hebrew. The Septuagint gives it one: "When the house was being built after the captivity. A song of David."
-[^96-2]: Most of this psalm appears also in 1 Chronicles 16:23–33, in the song of thanksgiving sung when David brought the ark to Jerusalem, with some differences in wording and order. The notes give the main differences. For *a new song*, compare 33:3 and 98:1. 1 Chronicles 16:23 has only "Sing to Yahweh, all the earth", and then the second half of verse 2.
+[^96-1]: *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles. Psalm 96 has no title in the Hebrew. The Septuagint gives it one: "When the house was being built after the captivity. A song of David."
+[^96-2]: Most of this psalm appears also in 1 Chronicles 16:23–33, in the song of thanksgiving sung when David brought the ark to Jerusalem, with some differences in wording and order. The notes give the main differences. For *a new song*, compare 33:3 and 98:1. 1 Chronicles 16:23 has only "Sing to the LORD, all the earth", and then the second half of verse 2.
 [^96-3]: Hebrew *elilim*, "worthless things", which sounds like *elohim*, "gods".
 [^96-4]: 1 Chronicles 16:27 has "strength and joy are in his place".
 [^96-5]: Literally "the glory of his name". Verses 7–9 are close to 29:1–2.
 [^96-6]: 1 Chronicles 16:29 has "come before him".
 [^96-7]: Or "in holy attire".
-[^96-8]: Or "Yahweh has become king!" (see the note on 93:1). In 1 Chronicles 16:31 these words come after the first half of verse 11, and the rest of this verse is not there, except for the line "The world is firmly established; it cannot be moved" (1 Chronicles 16:30).
+[^96-8]: Or "The LORD has become king!" (see the note on 93:1). In 1 Chronicles 16:31 these words come after the first half of verse 11, and the rest of this verse is not there, except for the line "The world is firmly established; it cannot be moved" (1 Chronicles 16:30).
 [^96-9]: Hebrew *emunah*: firmness, reliability, faithfulness. 1 Chronicles 16:33 ends at "for he comes to judge the earth". Verse 13 is almost the same as 98:9.
 
 ## Chapter 97
 
 *Status: draft*
 
-**1** Yahweh[^97-1] reigns![^97-2] Let the earth rejoice; let the many coastlands[^97-3] be glad.
+**1** The LORD[^97-1] reigns![^97-2] Let the earth rejoice; let the many coastlands[^97-3] be glad.
 
 **2** Clouds and thick darkness surround him;[^97-4] righteousness and justice are the foundation of his throne.
 
@@ -4859,24 +4859,24 @@
 
 **4** His lightnings light up the world; the earth sees and trembles.
 
-**5** The mountains melt like wax before Yahweh, before the Lord of all the earth.
+**5** The mountains melt like wax before the LORD, before the Lord of all the earth.
 
 **6** The heavens proclaim his righteousness, and all the peoples see his glory.
 
 **7** All who serve carved images are put to shame, those who boast in idols.[^97-5] Bow down to him, all you gods![^97-6]
 
-**8** Zion hears and rejoices, and the daughters of Judah[^97-7] exult because of your judgments, Yahweh.
+**8** Zion hears and rejoices, and the daughters of Judah[^97-7] exult because of your judgments, LORD.
 
-**9** For you, Yahweh, are the Most High[^97-8] over all the earth; you are exalted far above all gods.
+**9** For you, LORD, are the Most High[^97-8] over all the earth; you are exalted far above all gods.
 
-**10** You who love Yahweh, hate evil! He guards the lives[^97-9] of his faithful ones;[^97-10] he rescues them from the hand of the wicked.
+**10** You who love the LORD, hate evil! He guards the lives[^97-9] of his faithful ones;[^97-10] he rescues them from the hand of the wicked.
 
 **11** Light is sown[^97-11] for the righteous, and joy for the upright in heart.
 
-**12** Rejoice in Yahweh, you righteous, and give thanks to his holy name.[^97-12]
+**12** Rejoice in the LORD, you righteous, and give thanks to his holy name.[^97-12]
 
-[^97-1]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles. Psalm 97 has no title in the Hebrew.
-[^97-2]: Or "Yahweh has become king!" (see the note on 93:1).
+[^97-1]: *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles. Psalm 97 has no title in the Hebrew.
+[^97-2]: Or "The LORD has become king!" (see the note on 93:1).
 [^97-3]: Or "islands", the distant lands across the sea.
 [^97-4]: Compare God's coming at Mount Sinai (Exodus 19:16–18; Deuteronomy 4:11).
 [^97-5]: Hebrew *elilim*, "worthless things", which sounds like *elohim*, "gods".
@@ -4892,57 +4892,57 @@
 
 *Status: draft*
 
-**1** A psalm.[^98-1] Sing to Yahweh[^98-2] a new song, for he has done wonders; his right hand and his holy arm have won him victory.[^98-3]
+**1** A psalm.[^98-1] Sing to the LORD[^98-2] a new song, for he has done wonders; his right hand and his holy arm have won him victory.[^98-3]
 
-**2** Yahweh has made his salvation known; in the sight of the nations he has revealed his righteousness.[^98-4]
+**2** The LORD has made his salvation known; in the sight of the nations he has revealed his righteousness.[^98-4]
 
 **3** He has remembered his faithful love[^98-5] and his faithfulness to the house of Israel; all the ends of the earth have seen the salvation of our God.
 
-**4** Shout aloud to Yahweh, all the earth; break out in songs of joy and sing praises.
+**4** Shout aloud to the LORD, all the earth; break out in songs of joy and sing praises.
 
-**5** Sing praises to Yahweh with the lyre, with the lyre and the sound of song.
+**5** Sing praises to the LORD with the lyre, with the lyre and the sound of song.
 
-**6** With trumpets and the sound of the ram's horn,[^98-6] shout aloud before the King, Yahweh.[^98-7]
+**6** With trumpets and the sound of the ram's horn,[^98-6] shout aloud before the King, the LORD.[^98-7]
 
 **7** Let the sea roar, and all that fills it, the world and those who live in it.
 
 **8** Let the rivers clap their hands; let the mountains sing for joy together
 
-**9** before Yahweh, for he comes to judge the earth. He will judge the world with righteousness, and the peoples with fairness.[^98-8]
+**9** before the LORD, for he comes to judge the earth. He will judge the world with righteousness, and the peoples with fairness.[^98-8]
 
 [^98-1]: In the Hebrew text the title is part of verse 1. In this psalm it shares the verse with the first line, so the verse numbers match English Bibles.
-[^98-2]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^98-2]: *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles.
 [^98-3]: Literally "have saved for him".
 [^98-4]: Or "his vindication", his justice that sets things right.
 [^98-5]: Hebrew *chesed*: loyal, faithful love.
 [^98-6]: Hebrew *shofar*. The trumpets (*chatsotserot*) were made of hammered silver (Numbers 10:2).
-[^98-7]: Psalm 98 is one of the "Yahweh is king" psalms (see the note on 93:1).
+[^98-7]: Psalm 98 is one of the "The LORD is king" psalms (see the note on 93:1).
 [^98-8]: Verse 9 is almost the same as 96:13.
 
 ## Chapter 99
 
 *Status: draft*
 
-**1** Yahweh[^99-1] reigns![^99-2] Let the peoples tremble! He is enthroned on the cherubim;[^99-3] let the earth quake!
+**1** The LORD[^99-1] reigns![^99-2] Let the peoples tremble! He is enthroned on the cherubim;[^99-3] let the earth quake!
 
-**2** Yahweh is great in Zion; he is exalted above all the peoples.
+**2** The LORD is great in Zion; he is exalted above all the peoples.
 
 **3** Let them praise your great and awesome name. Holy is he![^99-4]
 
 **4** The King in his might loves justice.[^99-5] You have established fairness; you have done justice and righteousness in Jacob.
 
-**5** Exalt Yahweh our God, and bow down at his footstool.[^99-6] Holy is he!
+**5** Exalt the LORD our God, and bow down at his footstool.[^99-6] Holy is he!
 
-**6** Moses and Aaron were among his priests, and Samuel among those who called on his name.[^99-7] They called to Yahweh, and he answered them.
+**6** Moses and Aaron were among his priests, and Samuel among those who called on his name.[^99-7] They called to the LORD, and he answered them.
 
 **7** He spoke to them in the pillar of cloud;[^99-8] they kept his statutes[^99-9] and the decree he gave them.
 
-**8** Yahweh our God, you answered them; you were a God who forgave them, yet you punished their misdeeds.[^99-10]
+**8** LORD our God, you answered them; you were a God who forgave them, yet you punished their misdeeds.[^99-10]
 
-**9** Exalt Yahweh our God, and bow down at his holy mountain, for Yahweh our God is holy.
+**9** Exalt the LORD our God, and bow down at his holy mountain, for the LORD our God is holy.
 
-[^99-1]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles. Psalm 99 has no title in the Hebrew.
-[^99-2]: Or "Yahweh has become king!" (see the note on 93:1). Psalm 99 is the last of the "Yahweh is king" psalms.
+[^99-1]: *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles. Psalm 99 has no title in the Hebrew.
+[^99-2]: Or "The LORD has become king!" (see the note on 93:1). Psalm 99 is the last of the "The LORD is king" psalms.
 [^99-3]: Or "above the cherubim". Hebrew *keruvim*: winged heavenly beings. Two gold cherubim stood on the cover of the ark (Exodus 25:18–22).
 [^99-4]: This refrain comes again in verse 5, and in a longer form at the end of verse 9 (compare Isaiah 6:3).
 [^99-5]: Literally "And the strength of a king loves justice." Or "Mighty King, who loves justice, you have established fairness".
@@ -4956,18 +4956,18 @@
 
 *Status: draft*
 
-**1** A psalm for thanksgiving.[^100-1] Shout aloud to Yahweh,[^100-2] all the earth!
+**1** A psalm for thanksgiving.[^100-1] Shout aloud to the LORD,[^100-2] all the earth!
 
-**2** Serve Yahweh with gladness; come before him with songs of joy.
+**2** Serve the LORD with gladness; come before him with songs of joy.
 
-**3** Know that Yahweh is God. It is he who made us, and we are his;[^100-3] we are his people, the sheep of his pasture.
+**3** Know that the LORD is God. It is he who made us, and we are his;[^100-3] we are his people, the sheep of his pasture.
 
 **4** Enter his gates with thanksgiving, and his courts with praise; give thanks to him, bless his name.
 
-**5** For Yahweh is good; his faithful love[^100-4] endures forever, and his faithfulness to all generations.
+**5** For the LORD is good; his faithful love[^100-4] endures forever, and his faithfulness to all generations.
 
 [^100-1]: Or "for the thank offering". Hebrew *todah*, "thanksgiving", also a sacrifice given in thanksgiving (Leviticus 7:12; compare 50:14). Also in verse 4. In the Hebrew text the title is part of verse 1. In this psalm it shares the verse with the first line, so the verse numbers match English Bibles.
-[^100-2]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^100-2]: *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles.
 [^100-3]: The Hebrew text is written "and not we ourselves" but read "and we are his". The two words sound the same.
 [^100-4]: Hebrew *chesed*: loyal, faithful love. *His faithful love endures forever* is a refrain of praise found often in the Psalms and elsewhere (106:1; 107:1; 118:1; 136; 1 Chronicles 16:34).
 
@@ -4975,7 +4975,7 @@
 
 *Status: draft*
 
-**1** Of David. A psalm.[^101-1] I will sing of faithful love[^101-2] and justice; to you, Yahweh,[^101-3] I will sing praise.
+**1** Of David. A psalm.[^101-1] I will sing of faithful love[^101-2] and justice; to you, LORD,[^101-3] I will sing praise.
 
 **2** I will pay attention to the blameless way.[^101-4] When will you come to me? I will walk with integrity of heart within my house.
 
@@ -4989,11 +4989,11 @@
 
 **7** No one who practices deceit will live in my house; no one who tells lies will stand firm in my sight.
 
-**8** Morning by morning[^101-9] I will silence all the wicked in the land, cutting off all evildoers from the city of Yahweh.
+**8** Morning by morning[^101-9] I will silence all the wicked in the land, cutting off all evildoers from the city of the LORD.
 
 [^101-1]: *Of David*: or "for David", "about David". In the Hebrew text the title is part of verse 1. In this psalm it shares the verse with the first line, so the verse numbers match English Bibles. The speaker is a king, who promises to rule justly.
 [^101-2]: Hebrew *chesed*: loyal, faithful love.
-[^101-3]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^101-3]: *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles.
 [^101-4]: Or "I will act wisely in the blameless way".
 [^101-5]: Literally "a thing of *beliyya'al*", "worthlessness".
 [^101-6]: Hebrew *setim*, a rare word, "those who swerve", or "faithlessness".
@@ -5005,9 +5005,9 @@
 
 *Status: draft*
 
-**1** A prayer of one who is afflicted, when he grows faint and pours out his complaint before Yahweh.[^102-1]
+**1** A prayer of one who is afflicted, when he grows faint and pours out his complaint before the LORD.[^102-1]
 
-**2** Yahweh, hear my prayer; let my cry for help come to you.
+**2** LORD, hear my prayer; let my cry for help come to you.
 
 **3** Do not hide your face from me in the day of my distress; turn your ear to me; in the day I call, answer me quickly.
 
@@ -5029,27 +5029,27 @@
 
 **12** My days are like a lengthening shadow;[^102-5] I wither away like grass.
 
-**13** But you, Yahweh, sit enthroned forever, and your name endures[^102-6] through all generations.
+**13** But you, LORD, sit enthroned forever, and your name endures[^102-6] through all generations.
 
 **14** You will rise up and have compassion on Zion, for it is time to be gracious to her; the appointed time has come.
 
 **15** For your servants hold her stones dear, and have pity on her dust.
 
-**16** The nations will fear the name of Yahweh, and all the kings of the earth your glory.
+**16** The nations will fear the name of the LORD, and all the kings of the earth your glory.
 
-**17** For Yahweh will build up Zion; he will appear in his glory.[^102-7]
+**17** For the LORD will build up Zion; he will appear in his glory.[^102-7]
 
 **18** He will turn to the prayer of the destitute,[^102-8] and will not despise their prayer.
 
-**19** Let this be written down for a generation to come, so that a people yet to be created may praise Yah:[^102-9]
+**19** Let this be written down for a generation to come, so that a people yet to be created may praise the LORD:[^102-9]
 
-**20** that he looked down from his holy height; from heaven Yahweh gazed on the earth,
+**20** that he looked down from his holy height; from heaven the LORD gazed on the earth,
 
 **21** to hear the groaning of the prisoner, to set free those condemned to die,[^102-10]
 
-**22** so that the name of Yahweh may be declared in Zion, and his praise in Jerusalem,
+**22** so that the name of the LORD may be declared in Zion, and his praise in Jerusalem,
 
-**23** when the peoples gather together, and the kingdoms, to serve Yahweh.
+**23** when the peoples gather together, and the kingdoms, to serve the LORD.
 
 **24** He has broken my strength[^102-11] on the way; he has cut short my days.
 
@@ -5063,7 +5063,7 @@
 
 **29** The children of your servants will live secure, and their offspring will be established before you."
 
-[^102-1]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles. This is the only psalm title that describes the one who prays, rather than naming a person. *Complaint*: or "lament". In the Hebrew text the title is verse 1, so verses 2–29 are 102:1–28 in most English Bibles.
+[^102-1]: *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles. This is the only psalm title that describes the one who prays, rather than naming a person. *Complaint*: or "lament". In the Hebrew text the title is verse 1, so verses 2–29 are 102:1–28 in most English Bibles.
 [^102-2]: That is, I am nothing but skin and bones.
 [^102-3]: Hebrew *qa'at*, an unclean bird (Leviticus 11:18), perhaps a pelican or a kind of owl. *Little owl*: Hebrew *kos* (Leviticus 11:17).
 [^102-4]: Literally "swear by me", using my fate in their curses (compare Jeremiah 29:22).
@@ -5071,7 +5071,7 @@
 [^102-6]: Literally "your remembrance", the name by which you are remembered and called on.
 [^102-7]: The verbs in verses 17–18 are in the past tense in Hebrew, speaking of what God will do as though it were already done.
 [^102-8]: Hebrew *ar'ar*, "stripped, bare", perhaps also a shrub of the desert (compare Jeremiah 17:6).
-[^102-9]: Hebrew *Yah*, a short form of the name Yahweh.
+[^102-9]: Hebrew *Yah*, a short form of the name YHWH.
 [^102-10]: Literally "the sons of death". Compare 79:11.
 [^102-11]: The Hebrew text is written "his strength" but read "my strength". The Septuagint reads the same consonants differently: "He answered him in the way of his strength: Tell me the shortness of my days."
 [^102-12]: Hebrews 1:10–12 quotes verses 26–28 from the Septuagint, which begins "You, Lord, in the beginning laid the foundation of the earth", and applies them to the Son.
@@ -5081,9 +5081,9 @@
 
 *Status: draft*
 
-**1** Of David.[^103-1] Bless Yahweh,[^103-2] my soul,[^103-3] and all that is within me, bless his holy name.
+**1** Of David.[^103-1] Bless the LORD,[^103-2] my soul,[^103-3] and all that is within me, bless his holy name.
 
-**2** Bless Yahweh, my soul, and do not forget all his benefits:
+**2** Bless the LORD, my soul, and do not forget all his benefits:
 
 **3** he forgives all your iniquity; he heals all your diseases;
 
@@ -5091,11 +5091,11 @@
 
 **5** he satisfies you with good things as long as you live,[^103-5] so that your youth is renewed like the eagle's.[^103-6]
 
-**6** Yahweh does what is right,[^103-7] and brings justice for all who are oppressed.
+**6** The LORD does what is right,[^103-7] and brings justice for all who are oppressed.
 
 **7** He made known his ways to Moses, his deeds to the people of Israel.[^103-8]
 
-**8** Yahweh is compassionate and gracious, slow to anger and abounding in faithful love.[^103-9]
+**8** The LORD is compassionate and gracious, slow to anger and abounding in faithful love.[^103-9]
 
 **9** He will not always accuse, nor will he keep his anger forever.
 
@@ -5105,7 +5105,7 @@
 
 **12** As far as the east is from the west, so far has he removed our transgressions from us.
 
-**13** As a father has compassion on his children, so Yahweh has compassion on those who fear him.
+**13** As a father has compassion on his children, so the LORD has compassion on those who fear him.
 
 **14** For he knows how we are formed;[^103-10] he remembers that we are dust.
 
@@ -5113,35 +5113,35 @@
 
 **16** when the wind passes over it, it is gone, and its place knows it no more.
 
-**17** But the faithful love of Yahweh is from everlasting to everlasting on those who fear him, and his righteousness to their children's children,
+**17** But the faithful love of the LORD is from everlasting to everlasting on those who fear him, and his righteousness to their children's children,
 
 **18** to those who keep his covenant and remember to do his precepts.
 
-**19** Yahweh has established his throne in the heavens, and his kingdom rules over all.
+**19** The LORD has established his throne in the heavens, and his kingdom rules over all.
 
-**20** Bless Yahweh, you his angels, you mighty ones who carry out his word, who obey the voice of his word.
+**20** Bless the LORD, you his angels, you mighty ones who carry out his word, who obey the voice of his word.
 
-**21** Bless Yahweh, all his armies,[^103-11] you his servants who do his will.
+**21** Bless the LORD, all his armies,[^103-11] you his servants who do his will.
 
-**22** Bless Yahweh, all his works, in all places where he rules. Bless Yahweh, my soul.
+**22** Bless the LORD, all his works, in all places where he rules. Bless the LORD, my soul.
 
 [^103-1]: *Of David*: or "for David", "about David". In the Hebrew text the title is part of verse 1. In this psalm it shares the verse with the first line, so the verse numbers match English Bibles.
-[^103-2]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^103-2]: *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles.
 [^103-3]: Hebrew *nephesh*: soul, life, self. Also in verses 2 and 22. The psalmist speaks to himself.
 [^103-4]: Hebrew *chesed*: loyal, faithful love. Also in verses 8, 11 and 17.
 [^103-5]: Hebrew *edyekh*, "your ornament", a word of uncertain meaning here, perhaps "your years" or "your life". The Septuagint reads "your desire".
 [^103-6]: Hebrew *nesher*, the eagle or the vulture (compare Isaiah 40:31).
-[^103-7]: Literally "Yahweh does righteous acts".
+[^103-7]: Literally "The LORD does righteous acts".
 [^103-8]: Compare Moses' prayer in Exodus 33:13, "show me your ways".
 [^103-9]: These words echo God's description of himself in Exodus 34:6 (compare 86:15; 145:8).
 [^103-10]: Literally "our form", from the verb used in Genesis 2:7, where God forms the man from the dust.
-[^103-11]: Hebrew *tseva'av*, "his armies", the heavenly hosts (compare "Yahweh of Armies", 24:10).
+[^103-11]: Hebrew *tseva'av*, "his armies", the heavenly hosts (compare "the LORD of Armies", 24:10).
 
 ## Chapter 104
 
 *Status: draft*
 
-**1** Bless Yahweh,[^104-1] my soul![^104-2] Yahweh my God, you are very great; you are clothed with splendor and majesty.[^104-3]
+**1** Bless the LORD,[^104-1] my soul![^104-2] LORD my God, you are very great; you are clothed with splendor and majesty.[^104-3]
 
 **2** He wraps himself in light as in a robe; he stretches out the heavens like a tent curtain.[^104-4]
 
@@ -5171,7 +5171,7 @@
 
 **15** and wine to gladden the human heart, oil to make faces shine, and bread to strengthen the human heart.
 
-**16** The trees of Yahweh drink their fill, the cedars of Lebanon that he planted,
+**16** The trees of the LORD drink their fill, the cedars of Lebanon that he planted,
 
 **17** where the birds build their nests; the stork has her home in the junipers.
 
@@ -5187,7 +5187,7 @@
 
 **23** People go out to their work, and to their labor until evening.
 
-**24** How many are your works, Yahweh! In wisdom you have made them all; the earth is full of your creatures.
+**24** How many are your works, LORD! In wisdom you have made them all; the earth is full of your creatures.
 
 **25** There is the sea, great and wide,[^104-14] teeming with creatures beyond number, living things both small and great.
 
@@ -5201,18 +5201,18 @@
 
 **30** When you send out your Spirit,[^104-18] they are created, and you renew the face of the ground.
 
-**31** May the glory of Yahweh endure forever; may Yahweh rejoice in his works,
+**31** May the glory of the LORD endure forever; may the LORD rejoice in his works,
 
 **32** he who looks at the earth, and it trembles, who touches the mountains, and they smoke.
 
-**33** I will sing to Yahweh as long as I live; I will sing praise to my God while I have being.
+**33** I will sing to the LORD as long as I live; I will sing praise to my God while I have being.
 
-**34** May my meditation be pleasing to him; I rejoice in Yahweh.
+**34** May my meditation be pleasing to him; I rejoice in the LORD.
 
-**35** Let sinners vanish from the earth, and let the wicked be no more. Bless Yahweh, my soul! Praise Yah![^104-19]
+**35** Let sinners vanish from the earth, and let the wicked be no more. Bless the LORD, my soul! Praise the LORD![^104-19]
 
-[^104-1]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
-[^104-2]: Hebrew *nephesh*: soul, life, self. Also in verse 35. Psalm 104 has no title in the Hebrew. The Septuagint gives it the title "Of David". Like Psalm 103, it begins and ends with "Bless Yahweh, my soul".
+[^104-1]: *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles.
+[^104-2]: Hebrew *nephesh*: soul, life, self. Also in verse 35. Psalm 104 has no title in the Hebrew. The Septuagint gives it the title "Of David". Like Psalm 103, it begins and ends with "Bless the LORD, my soul".
 [^104-3]: Psalm 104 praises God as the maker and keeper of the world. It follows roughly the order of the creation account in Genesis 1: light and the heavens (verses 2–4), the earth and the waters (5–9), springs, plants and animals (10–18), the moon and the sun (19–23), and the sea and its creatures (25–26). Many scholars compare it with the Egyptian *Great Hymn to the Aten*, which has some similar images (compare especially verses 20–30). The psalm moves between speaking to God ("you") and speaking about him ("he").
 [^104-4]: Hebrew *yeri'ah*, the word used for the curtains of the tabernacle (Exodus 26:1).
 [^104-5]: The waters above the sky (Genesis 1:7).
@@ -5229,25 +5229,25 @@
 [^104-16]: Or "to play with".
 [^104-17]: Compare Genesis 3:19.
 [^104-18]: Or "your breath". Hebrew *ruach* means spirit, wind or breath; in verse 29 it is "their breath" (*rucham*).
-[^104-19]: Hebrew *hallelu-yah*, "praise Yah", the source of the word "Hallelujah". *Yah* is a short form of the name Yahweh. This is the first time the call appears in the Psalms. The Septuagint places it at the start of Psalm 105 instead.
+[^104-19]: Hebrew *hallelu-yah*, "praise Yah", the source of the word "Hallelujah". *Yah* is a short form of the name YHWH. This is the first time the call appears in the Psalms. The Septuagint places it at the start of Psalm 105 instead.
 
 ## Chapter 105
 
 *Status: draft*
 
-**1** Give thanks to Yahweh;[^105-1] call on his name. Make known his deeds among the peoples.[^105-2]
+**1** Give thanks to the LORD;[^105-1] call on his name. Make known his deeds among the peoples.[^105-2]
 
 **2** Sing to him, sing praises to him; tell of all his wonders.
 
-**3** Glory in his holy name; let the hearts of those who seek Yahweh rejoice.
+**3** Glory in his holy name; let the hearts of those who seek the LORD rejoice.
 
-**4** Seek Yahweh and his strength; seek his face[^105-3] always.
+**4** Seek the LORD and his strength; seek his face[^105-3] always.
 
 **5** Remember the wonders he has done, his miracles and the judgments he has spoken,[^105-4]
 
 **6** you offspring of Abraham his servant,[^105-5] children of Jacob, his chosen ones.
 
-**7** He is Yahweh our God; his judgments are in all the earth.
+**7** He is the LORD our God; his judgments are in all the earth.
 
 **8** He remembers his covenant forever,[^105-6] the word he commanded for a thousand generations,
 
@@ -5271,7 +5271,7 @@
 
 **18** They hurt his foot[^105-11] with shackles; his neck[^105-12] was put in iron,
 
-**19** until the time that his word came true; the word of Yahweh tested him.[^105-13]
+**19** until the time that his word came true; the word of the LORD tested him.[^105-13]
 
 **20** The king sent and released him; the ruler of peoples set him free.
 
@@ -5281,7 +5281,7 @@
 
 **23** Then Israel came to Egypt; Jacob lived as a foreigner in the land of Ham.[^105-15]
 
-**24** Yahweh made his people very fruitful, and made them stronger than their adversaries.
+**24** The LORD made his people very fruitful, and made them stronger than their adversaries.
 
 **25** He turned their hearts to hate his people, to deal craftily with his servants.
 
@@ -5323,9 +5323,9 @@
 
 **44** He gave them the lands of the nations, and they took possession of what the peoples had toiled for,
 
-**45** so that they would keep his decrees and observe his laws. Praise Yah![^105-23]
+**45** so that they would keep his decrees and observe his laws. Praise the LORD![^105-23]
 
-[^105-1]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles. Psalm 105 has no title in the Hebrew.
+[^105-1]: *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles. Psalm 105 has no title in the Hebrew.
 [^105-2]: Verses 1–15 appear also in 1 Chronicles 16:8–22, in the song of thanksgiving sung when David brought the ark to Jerusalem, with small differences. The psalm then retells the story of Israel from Abraham to the entry into the land, as the keeping of God's promise to Abraham (verses 8–11, 42).
 [^105-3]: Or "his presence".
 [^105-4]: Literally "the judgments of his mouth".
@@ -5353,13 +5353,13 @@
 
 *Status: draft*
 
-**1** Praise Yah![^106-1] Give thanks to Yahweh,[^106-2] for he is good; his faithful love[^106-3] endures forever.
+**1** Praise the LORD![^106-1] Give thanks to the LORD,[^106-2] for he is good; his faithful love[^106-3] endures forever.
 
-**2** Who can tell of the mighty deeds of Yahweh, or proclaim all his praise?
+**2** Who can tell of the mighty deeds of the LORD, or proclaim all his praise?
 
 **3** Happy[^106-4] are those who keep justice, who do what is right at all times.
 
-**4** Remember me, Yahweh, when you show favor to your people; come to me[^106-5] with your salvation,
+**4** Remember me, LORD, when you show favor to your people; come to me[^106-5] with your salvation,
 
 **5** so that I may see the prosperity of your chosen ones, rejoice in the joy of your nation, and glory together with your inheritance.
 
@@ -5383,7 +5383,7 @@
 
 **15** He gave them what they asked for, but sent a wasting disease among them.[^106-9]
 
-**16** In the camp they grew jealous of Moses, and of Aaron, the holy one of Yahweh.
+**16** In the camp they grew jealous of Moses, and of Aaron, the holy one of the LORD.
 
 **17** The earth opened and swallowed Dathan, and covered the company of Abiram.
 
@@ -5401,7 +5401,7 @@
 
 **24** Then they despised the pleasant land; they did not believe his word.
 
-**25** They grumbled in their tents; they did not listen to the voice of Yahweh.[^106-14]
+**25** They grumbled in their tents; they did not listen to the voice of the LORD.[^106-14]
 
 **26** So he raised his hand against them,[^106-15] to make them fall in the wilderness,
 
@@ -5419,7 +5419,7 @@
 
 **33** for they rebelled against his spirit,[^106-19] and he spoke rashly with his lips.[^106-20]
 
-**34** They did not destroy the peoples, as Yahweh had told them to,
+**34** They did not destroy the peoples, as the LORD had told them to,
 
 **35** but they mixed with the nations and learned their ways.
 
@@ -5431,7 +5431,7 @@
 
 **39** They made themselves unclean by what they did, and prostituted themselves by their deeds.[^106-22]
 
-**40** So the anger of Yahweh burned against his people, and he abhorred his inheritance.
+**40** So the anger of the LORD burned against his people, and he abhorred his inheritance.
 
 **41** He handed them over to the nations, and those who hated them ruled over them.
 
@@ -5445,12 +5445,12 @@
 
 **46** He caused them to be pitied by all who held them captive.
 
-**47** Save us, Yahweh our God, and gather us from among the nations, so that we may give thanks to your holy name and glory in your praise.[^106-24]
+**47** Save us, LORD our God, and gather us from among the nations, so that we may give thanks to your holy name and glory in your praise.[^106-24]
 
-**48** Blessed be Yahweh, the God of Israel, from everlasting to everlasting. Let all the people say, "Amen!" Praise Yah![^106-25]
+**48** Blessed be the LORD, the God of Israel, from everlasting to everlasting. Let all the people say, "Amen!" Praise the LORD![^106-25]
 
 [^106-1]: Hebrew *hallelu-yah*, "praise Yah" (see the note on 104:35). Also in verse 48. Psalm 106 has no other title.
-[^106-2]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles. The rest of this verse is the same as 1 Chronicles 16:34 (compare 100:5; 107:1; 118:1; 136:1).
+[^106-2]: *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles. The rest of this verse is the same as 1 Chronicles 16:34 (compare 100:5; 107:1; 118:1; 136:1).
 [^106-3]: Hebrew *chesed*: loyal, faithful love. Also in verses 7 and 45, where it is plural, "acts of faithful love".
 [^106-4]: Hebrew *ashrei*: happy, fortunate; traditionally "blessed".
 [^106-5]: Literally "visit me".
@@ -5473,15 +5473,15 @@
 [^106-22]: A picture of Israel's unfaithfulness to God, as of a wife to her husband (compare Hosea 2; Ezekiel 16).
 [^106-23]: The Hebrew text is written "his faithful love" but read "his acts of faithful love".
 [^106-24]: Verses 47–48 are close to 1 Chronicles 16:35–36, where verse 35 begins "Say, 'Save us, God of our salvation! Gather us and rescue us from the nations…'"
-[^106-25]: 1 Chronicles 16:36 has "Then all the people said, 'Amen!' and praised Yahweh." The blessing in this verse closes Book 4 of the Psalms (Psalms 90–106). Books 1, 2 and 3 end in a similar way (41:14, English 41:13; 72:18–19; 89:53, English 89:52), and Psalm 150 closes the whole collection.
+[^106-25]: 1 Chronicles 16:36 has "Then all the people said, 'Amen!' and praised the LORD." The blessing in this verse closes Book 4 of the Psalms (Psalms 90–106). Books 1, 2 and 3 end in a similar way (41:14, English 41:13; 72:18–19; 89:53, English 89:52), and Psalm 150 closes the whole collection.
 
 ## Chapter 107
 
 *Status: draft*
 
-**1** Give thanks to Yahweh,[^107-1] for he is good; his faithful love[^107-2] endures forever.
+**1** Give thanks to the LORD,[^107-1] for he is good; his faithful love[^107-2] endures forever.
 
-**2** Let the redeemed of Yahweh say so, those he redeemed from the hand of the adversary,
+**2** Let the redeemed of the LORD say so, those he redeemed from the hand of the adversary,
 
 **3** and gathered from the lands, from the east and from the west, from the north and from the sea.[^107-3]
 
@@ -5489,11 +5489,11 @@
 
 **5** They were hungry and thirsty; their soul[^107-5] fainted within them.
 
-**6** Then they cried out to Yahweh in their trouble, and he rescued them from their distress.[^107-6]
+**6** Then they cried out to the LORD in their trouble, and he rescued them from their distress.[^107-6]
 
 **7** He led them by a straight road, to go to a city to live in.
 
-**8** Let them give thanks to Yahweh for his faithful love, and for his wonders for humankind.[^107-7]
+**8** Let them give thanks to the LORD for his faithful love, and for his wonders for humankind.[^107-7]
 
 **9** For he satisfies the thirsty soul, and fills the hungry soul with good things.
 
@@ -5503,11 +5503,11 @@
 
 **12** So he humbled their hearts with hard labor; they stumbled, and there was no one to help.
 
-**13** Then they cried out to Yahweh in their trouble, and he saved them from their distress.
+**13** Then they cried out to the LORD in their trouble, and he saved them from their distress.
 
 **14** He brought them out of darkness and deep darkness, and snapped their chains.
 
-**15** Let them give thanks to Yahweh for his faithful love, and for his wonders for humankind.
+**15** Let them give thanks to the LORD for his faithful love, and for his wonders for humankind.
 
 **16** For he shatters the doors of bronze, and cuts through the bars of iron.[^107-10]
 
@@ -5515,17 +5515,17 @@
 
 **18** They loathed all food, and they drew near to the gates of death.
 
-**19** Then they cried out to Yahweh in their trouble, and he saved them from their distress.
+**19** Then they cried out to the LORD in their trouble, and he saved them from their distress.
 
 **20** He sent out his word and healed them, and rescued them from their graves.[^107-12]
 
-**21** Let them give thanks to Yahweh for his faithful love, and for his wonders for humankind.
+**21** Let them give thanks to the LORD for his faithful love, and for his wonders for humankind.
 
 **22** Let them offer sacrifices of thanksgiving,[^107-13] and tell of his deeds with songs of joy.
 
 **23** Some went down to the sea in ships, doing business on the great waters.
 
-**24** They saw the works of Yahweh, his wonders in the deep.
+**24** They saw the works of the LORD, his wonders in the deep.
 
 **25** For he spoke and raised a stormy wind, which lifted high the waves of the sea.
 
@@ -5533,13 +5533,13 @@
 
 **27** They reeled and staggered like drunkards, and all their skill[^107-15] was swallowed up.
 
-**28** Then they cried out to Yahweh in their trouble, and he brought them out of their distress.
+**28** Then they cried out to the LORD in their trouble, and he brought them out of their distress.
 
 **29** He made the storm a calm, and its waves were still.
 
 **30** They were glad when it grew quiet, and he guided them to the harbor[^107-16] they longed for.
 
-**31** Let them give thanks to Yahweh for his faithful love, and for his wonders for humankind.
+**31** Let them give thanks to the LORD for his faithful love, and for his wonders for humankind.
 
 **32** Let them exalt him in the assembly of the people, and praise him in the council of the elders.
 
@@ -5563,9 +5563,9 @@
 
 **42** The upright see it and are glad, and all injustice shuts its mouth.[^107-19]
 
-**43** Whoever is wise, let him heed these things, and consider the acts of faithful love of Yahweh.
+**43** Whoever is wise, let him heed these things, and consider the acts of faithful love of the LORD.
 
-[^107-1]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles. Psalm 107 has no title. It begins Book 5 of the Psalms (Psalms 107–150). Its first verse is the same as 106:1b (compare 100:5; 118:1; 1 Chronicles 16:34).
+[^107-1]: *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles. Psalm 107 has no title. It begins Book 5 of the Psalms (Psalms 107–150). Its first verse is the same as 106:1b (compare 100:5; 118:1; 1 Chronicles 16:34).
 [^107-2]: Hebrew *chesed*: loyal, faithful love. Also in verses 8, 15, 21, 31 and 43, where it is plural, "acts of faithful love".
 [^107-3]: *The sea* usually means the west. Here it may mean the south (the Red Sea), to complete the four directions.
 [^107-4]: Literally "in the wasteland of a road", or "in the wasteland, (without) a road".
@@ -5595,7 +5595,7 @@
 
 **3** Wake up, harp and lyre! I will wake the dawn.
 
-**4** I will give thanks to you among the peoples, Yahweh;[^108-3] I will sing praise to you among the nations.
+**4** I will give thanks to you among the peoples, LORD;[^108-3] I will sing praise to you among the nations.
 
 **5** For your faithful love[^108-4] is great, above the heavens,[^108-5] and your faithfulness to the clouds.
 
@@ -5619,7 +5619,7 @@
 
 [^108-1]: *Of David*: or "for David", "about David". In the Hebrew text the title is verse 1, so verses 2–14 are 108:1–13 in most English Bibles. The psalm joins two passages found elsewhere, with small differences: verses 2–6 are 57:8–12 (57:7–11 in most English Bibles), and verses 7–14 are 60:7–14 (60:5–12 in most English Bibles). The notes give the main differences.
 [^108-2]: Hebrew *af-kevodi*, "also my glory", perhaps meaning "with my whole being" (compare 16:9; 57:9, English 57:8). Psalm 57:8–9 (57:7–8 in most English Bibles) repeats "my heart is steadfast" and has "Wake up, my glory!"
-[^108-3]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles. Psalm 57:10 (57:9 in most English Bibles) has "Lord".
+[^108-3]: *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles. Psalm 57:10 (57:9 in most English Bibles) has "Lord".
 [^108-4]: Hebrew *chesed*: loyal, faithful love.
 [^108-5]: Psalm 57:11 (57:10 in most English Bibles) has "reaching to the heavens".
 [^108-6]: Psalm 60:7 (60:5 in most English Bibles) is written "answer us" but read "answer me".
@@ -5662,9 +5662,9 @@
 
 **13** May his descendants be cut off; may their name be blotted out in the next generation.
 
-**14** May the iniquity of his ancestors be remembered before Yahweh,[^109-11] and do not let the sin of his mother be blotted out.
+**14** May the iniquity of his ancestors be remembered before the LORD,[^109-11] and do not let the sin of his mother be blotted out.
 
-**15** Let them be before Yahweh continually, and may he cut off their memory from the earth,
+**15** Let them be before the LORD continually, and may he cut off their memory from the earth,
 
 **16** because he did not remember to show faithful love, but hounded the afflicted and needy man, and the brokenhearted, to put them to death.
 
@@ -5674,9 +5674,9 @@
 
 **19** May it be to him like a garment he wraps around himself, like a belt he always wears.
 
-**20** May this be the reward of my accusers from Yahweh, of those who speak evil against my life.[^109-14]
+**20** May this be the reward of my accusers from the LORD, of those who speak evil against my life.[^109-14]
 
-**21** But you, Yahweh my Lord,[^109-15] deal with me for the sake of your name; because your faithful love is good, rescue me.
+**21** But you, GOD my Lord,[^109-15] deal with me for the sake of your name; because your faithful love is good, rescue me.
 
 **22** For I am afflicted and needy, and my heart is pierced within me.
 
@@ -5686,15 +5686,15 @@
 
 **25** I have become a disgrace to them; when they see me, they shake their heads.[^109-17]
 
-**26** Help me, Yahweh my God; save me according to your faithful love.
+**26** Help me, LORD my God; save me according to your faithful love.
 
-**27** Let them know that this is your hand, that you, Yahweh, have done it.
+**27** Let them know that this is your hand, that you, LORD, have done it.
 
 **28** Let them curse, but you will bless. When they rise up, let them be put to shame, and let your servant rejoice.
 
 **29** May my accusers be clothed with disgrace, and wrapped in their own shame as in a cloak.
 
-**30** With my mouth I will give great thanks to Yahweh; I will praise him in the midst of the crowd.
+**30** With my mouth I will give great thanks to the LORD; I will praise him in the midst of the crowd.
 
 **31** For he stands at the right hand of the needy, to save him from those who would condemn him to death.[^109-18]
 
@@ -5703,16 +5703,16 @@
 [^109-3]: Hebrew *yistenuni*, from the same root as *satan*, "accuser" (verse 6). Also in verses 20 and 29, "my accusers".
 [^109-4]: Literally "but I, prayer". Or "but I pray for them".
 [^109-5]: Hebrew *satan*, "adversary, accuser", here without the article, as in a court of law. The accuser stood at the right hand of the accused (compare Zechariah 3:1). The Septuagint reads "the devil".
-[^109-6]: Verses 6–19 contain some of the harshest curses in the Bible. They speak of one man ("him"), while the enemies in verses 2–5 and 20–29 are many. Many interpreters read verses 6–19 as the psalmist's own prayer against the leader of his enemies. Others read them as the curses his enemies speak against him (compare "they speak against me", verse 2, and "those who speak evil against my life", verse 20), which he quotes and then hands over to God. On that reading, verse 20 means "This is what my accusers seek from Yahweh". The Hebrew has no quotation marks, and either reading is possible. This translation does not put them in quotation marks.
+[^109-6]: Verses 6–19 contain some of the harshest curses in the Bible. They speak of one man ("him"), while the enemies in verses 2–5 and 20–29 are many. Many interpreters read verses 6–19 as the psalmist's own prayer against the leader of his enemies. Others read them as the curses his enemies speak against him (compare "they speak against me", verse 2, and "those who speak evil against my life", verse 20), which he quotes and then hands over to God. On that reading, verse 20 means "This is what my accusers seek from the LORD". The Hebrew has no quotation marks, and either reading is possible. This translation does not put them in quotation marks.
 [^109-7]: Literally "let him go out wicked", that is, condemned.
 [^109-8]: Hebrew *pequddah*, "charge, office". Acts 1:20 quotes this line from the Septuagint, with 69:26 (69:25 in most English Bibles), and applies it to Judas.
 [^109-9]: Literally "and search from their ruins".
 [^109-10]: Hebrew *chesed*: loyal, faithful love. Also in verses 16, 21 and 26.
-[^109-11]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^109-11]: *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles.
 [^109-12]: Or "so let it come on him… so let it be far from him". The Hebrew verbs in verses 17–18 are in the past tense, but the context is a curse.
 [^109-13]: Literally "into his inner parts".
 [^109-14]: Hebrew *nephesh*: soul, life, self. Also in verse 31. On the meaning of this verse, see the note on verse 6.
-[^109-15]: Hebrew *YHWH Adonai*, the reverse of the more common *Adonai YHWH*, "the Lord Yahweh".
+[^109-15]: Hebrew *YHWH Adonai*, the reverse of the more common *Adonai YHWH*, "the Lord GOD". Next to "Lord", God's personal name is written GOD in capitals, as in most English Bibles.
 [^109-16]: Literally "my flesh has grown lean, without fat".
 [^109-17]: Compare 22:8 (22:7 in most English Bibles) and Mark 15:29.
 [^109-18]: Literally "from those who judge his soul (*nephesh*)".
@@ -5721,13 +5721,13 @@
 
 *Status: draft*
 
-**1** Of David. A psalm.[^110-1] Yahweh[^110-2] says to my lord:[^110-3] "Sit at my right hand until I make your enemies a footstool for your feet."[^110-4]
+**1** Of David. A psalm.[^110-1] The LORD[^110-2] says to my lord:[^110-3] "Sit at my right hand until I make your enemies a footstool for your feet."[^110-4]
 
-**2** Yahweh will extend your mighty scepter[^110-5] from Zion. Rule in the midst of your enemies!
+**2** The LORD will extend your mighty scepter[^110-5] from Zion. Rule in the midst of your enemies!
 
 **3** Your people will offer themselves willingly[^110-6] on the day of your power,[^110-7] in holy splendor.[^110-8] From the womb of the dawn, the dew of your youth is yours.[^110-9]
 
-**4** Yahweh has sworn an oath and will not change his mind: "You are a priest forever, after the manner of Melchizedek."[^110-10]
+**4** The LORD has sworn an oath and will not change his mind: "You are a priest forever, after the manner of Melchizedek."[^110-10]
 
 **5** The Lord is at your right hand;[^110-11] he will shatter kings on the day of his wrath.
 
@@ -5736,7 +5736,7 @@
 **7** He will drink from the stream by the way; so he will lift up his head.[^110-14]
 
 [^110-1]: *Of David*: or "for David", "about David". In the Hebrew text the title is part of verse 1. In this psalm it shares the verse with the first line, so the verse numbers match English Bibles. In Mark 12:35–37 Jesus' argument takes David as the speaker of the psalm.
-[^110-2]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles. *Says*: literally "The declaration of Yahweh", the word (*ne'um*) that marks a prophet's oracle ("declares Yahweh").
+[^110-2]: *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles. *Says*: literally "The declaration of the LORD", the word (*ne'um*) that marks a prophet's oracle ("declares the LORD").
 [^110-3]: Hebrew *adoni*, "my lord", a title of respect for a superior, here the king. The vowel points distinguish it from *Adonai*, "the Lord", used of God (as in verse 5).
 [^110-4]: The place at the right hand is the place of honor and shared rule; a conquered enemy was put under the victor's feet (compare Joshua 10:24). Jesus quotes this verse in Mark 12:36 (also Matthew 22:44; Luke 20:42–43). It is one of the Old Testament verses most often quoted or echoed in the New Testament: see Acts 2:34–35; 1 Corinthians 15:25; Hebrews 1:13; 10:12–13.
 [^110-5]: Literally "the staff of your strength".
@@ -5745,7 +5745,7 @@
 [^110-8]: Or "in holy garments". Some Hebrew manuscripts read "on the holy mountains".
 [^110-9]: Literally "From the womb of the dawn, to you (is) the dew of your youth": perhaps the king's youthful strength is renewed each day, like the dew at dawn. Or "your young men will come to you like the dew". The same consonants can be read "I have begotten you", as in 2:7. The Septuagint reads the verse "With you is rule on the day of your power, in the splendor of the holy ones; from the womb, before the morning star, I have begotten you."
 [^110-10]: Hebrew *al-divrati malki-tsedeq*. *Al-divrati* probably means "according to the manner of"; it can also mean "on account of", giving "on my account, a righteous king". Melchizedek was king of Salem and "priest of God Most High" (Genesis 14:18–20); his name means "my king is righteous" or "king of righteousness". The Septuagint reads "according to the order of Melchizedek", the wording quoted in Hebrews 5:6, 10; 6:20, and Hebrews 7 explains the verse at length.
-[^110-11]: In verse 1 the king sits at Yahweh's right hand; here the Lord stands at the king's right hand, as his protector in battle. In verses 5–7 it is not always clear whether the subject is the Lord or the king.
+[^110-11]: In verse 1 the king sits at the LORD's right hand; here the Lord stands at the king's right hand, as his protector in battle. In verses 5–7 it is not always clear whether the subject is the Lord or the king.
 [^110-12]: Literally "he judges among the nations; full of corpses". Or "he fills (the land) with corpses".
 [^110-13]: Literally "he shatters head over a wide land". Or "he shatters the ruler of a vast land".
 [^110-14]: That is, refreshed, he stands tall in victory.
@@ -5754,13 +5754,13 @@
 
 *Status: draft*
 
-**1** Praise Yah![^111-1] I will give thanks to Yahweh[^111-2] with all my heart, in the council of the upright and in the assembly.[^111-3]
+**1** Praise the LORD![^111-1] I will give thanks to the LORD[^111-2] with all my heart, in the council of the upright and in the assembly.[^111-3]
 
-**2** Great are the works of Yahweh, studied by all who delight in them.
+**2** Great are the works of the LORD, studied by all who delight in them.
 
 **3** Splendor and majesty are his work, and his righteousness endures forever.
 
-**4** He has made his wonders to be remembered;[^111-4] Yahweh is gracious and compassionate.[^111-5]
+**4** He has made his wonders to be remembered;[^111-4] the LORD is gracious and compassionate.[^111-5]
 
 **5** He gives food[^111-6] to those who fear him; he remembers his covenant forever.
 
@@ -5772,10 +5772,10 @@
 
 **9** He sent redemption to his people; he has commanded his covenant forever. Holy and awesome is his name.
 
-**10** The fear of Yahweh is the beginning of wisdom;[^111-7] all who practice them have good understanding.[^111-8] His praise endures forever.
+**10** The fear of the LORD is the beginning of wisdom;[^111-7] all who practice them have good understanding.[^111-8] His praise endures forever.
 
-[^111-1]: Hebrew *hallelu-yah*, "praise Yah", the source of the word "Hallelujah". *Yah* is a short form of the name Yahweh.
-[^111-2]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^111-1]: Hebrew *hallelu-yah*, "praise Yah", the source of the word "Hallelujah". *Yah* is a short form of the name YHWH.
+[^111-2]: *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles.
 [^111-3]: Psalm 111 is an acrostic. After the opening "Praise Yah", each line in the Hebrew begins with the next letter of the alphabet: twenty-two lines, two to a verse in verses 1–8 and three to a verse in verses 9–10. Psalm 112 follows the same pattern, and the two psalms share several phrases (111:3 and 112:3, 9; 111:4 and 112:4).
 [^111-4]: Literally "He has made a memorial for his wonders", perhaps the festivals that recall them (compare Exodus 12:14).
 [^111-5]: Compare Exodus 34:6.
@@ -5787,7 +5787,7 @@
 
 *Status: draft*
 
-**1** Praise Yah![^112-1] Happy[^112-2] is the one[^112-3] who fears Yahweh,[^112-4] who greatly delights in his commands.[^112-5]
+**1** Praise the LORD![^112-1] Happy[^112-2] is the one[^112-3] who fears the LORD,[^112-4] who greatly delights in his commands.[^112-5]
 
 **2** His descendants will be mighty in the land; the generation of the upright will be blessed.
 
@@ -5799,7 +5799,7 @@
 
 **6** For he will never be shaken; the righteous will be remembered forever.[^112-10]
 
-**7** He is not afraid of bad news; his heart is steady, trusting in Yahweh.
+**7** He is not afraid of bad news; his heart is steady, trusting in the LORD.
 
 **8** His heart is secure; he will not be afraid, until he looks in triumph on his adversaries.[^112-11]
 
@@ -5807,14 +5807,14 @@
 
 **10** The wicked will see it and be angry; he will grind his teeth and melt away. The desire of the wicked will perish.
 
-[^112-1]: Hebrew *hallelu-yah*, "praise Yah", the source of the word "Hallelujah". *Yah* is a short form of the name Yahweh.
+[^112-1]: Hebrew *hallelu-yah*, "praise Yah", the source of the word "Hallelujah". *Yah* is a short form of the name YHWH.
 [^112-2]: Hebrew *ashrei*: happy, fortunate; traditionally "blessed".
 [^112-3]: Literally "the man".
-[^112-4]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^112-4]: *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles.
 [^112-5]: Psalm 112 is an acrostic, like Psalm 111. After the opening "Praise Yah", each line in the Hebrew begins with the next letter of the alphabet: twenty-two lines, two to a verse in verses 1–8 and three to a verse in verses 9–10.
 [^112-6]: Psalm 111:3 says this of God's righteousness. Here it is said of the one who fears him (also in verse 9).
 [^112-7]: Or "He dawns in the darkness as a light for the upright".
-[^112-8]: Psalm 111:4 says that Yahweh is "gracious and compassionate". Here the words probably describe the one who fears him.
+[^112-8]: Psalm 111:4 says that the LORD is "gracious and compassionate". Here the words probably describe the one who fears him.
 [^112-9]: Literally "Good (is) a man who is gracious and lends; he sustains his matters with justice".
 [^112-10]: Literally "will be for a memorial forever".
 [^112-11]: Literally "until he looks on his adversaries", that is, sees their defeat.
@@ -5825,15 +5825,15 @@
 
 *Status: draft*
 
-**1** Praise Yah![^113-1] Praise, you servants of Yahweh;[^113-2] praise the name of Yahweh.[^113-3]
+**1** Praise the LORD![^113-1] Praise, you servants of the LORD;[^113-2] praise the name of the LORD.[^113-3]
 
-**2** May the name of Yahweh be blessed, from now on and forever.
+**2** May the name of the LORD be blessed, from now on and forever.
 
-**3** From the rising of the sun to its setting, the name of Yahweh is to be praised.
+**3** From the rising of the sun to its setting, the name of the LORD is to be praised.
 
-**4** Yahweh is high above all nations; his glory is above the heavens.
+**4** The LORD is high above all nations; his glory is above the heavens.
 
-**5** Who is like Yahweh our God, who is enthroned on high,
+**5** Who is like the LORD our God, who is enthroned on high,
 
 **6** who stoops down to look on the heavens and the earth?[^113-4]
 
@@ -5841,10 +5841,10 @@
 
 **8** to seat them with nobles, with the nobles of his people.[^113-6]
 
-**9** He gives the childless woman a home, as a happy mother of children.[^113-7] Praise Yah!
+**9** He gives the childless woman a home, as a happy mother of children.[^113-7] Praise the LORD!
 
-[^113-1]: Hebrew *hallelu-yah*, "praise Yah", the source of the word "Hallelujah". *Yah* is a short form of the name Yahweh. Also at the end of verse 9.
-[^113-2]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^113-1]: Hebrew *hallelu-yah*, "praise Yah", the source of the word "Hallelujah". *Yah* is a short form of the name YHWH. Also at the end of verse 9.
+[^113-2]: *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles.
 [^113-3]: Psalms 113–118 are known in Jewish tradition as the Hallel ("praise"), sung at Passover and the other festivals. Psalms 113–114 are sung before the Passover meal and 115–118 after it; the hymn sung at the end of the Last Supper (Mark 14:26) may have been part of it.
 [^113-4]: Literally "who makes high to sit, who makes low to see, in the heavens and on the earth". Or "who sits enthroned on high and looks far down on the heavens and the earth".
 [^113-5]: Or "the garbage heap", the refuse dump outside a town, where beggars sat.
@@ -5882,7 +5882,7 @@
 
 *Status: draft*
 
-**1** Not to us, Yahweh,[^115-1] not to us, but to your name give glory, because of your faithful love,[^115-2] because of your faithfulness.
+**1** Not to us, LORD,[^115-1] not to us, but to your name give glory, because of your faithful love,[^115-2] because of your faithfulness.
 
 **2** Why should the nations say, "Where, then, is their God?"
 
@@ -5898,34 +5898,34 @@
 
 **8** Those who make them will become like them, and so will all who trust in them.[^115-3]
 
-**9** Israel, trust in Yahweh! He is their help and their shield.[^115-4]
+**9** Israel, trust in the LORD! He is their help and their shield.[^115-4]
 
-**10** House of Aaron, trust in Yahweh! He is their help and their shield.
+**10** House of Aaron, trust in the LORD! He is their help and their shield.
 
-**11** You who fear Yahweh, trust in Yahweh! He is their help and their shield.
+**11** You who fear the LORD, trust in the LORD! He is their help and their shield.
 
-**12** Yahweh has remembered us; he will bless. He will bless the house of Israel; he will bless the house of Aaron.
+**12** The LORD has remembered us; he will bless. He will bless the house of Israel; he will bless the house of Aaron.
 
-**13** He will bless those who fear Yahweh, the small together with the great.
+**13** He will bless those who fear the LORD, the small together with the great.
 
-**14** May Yahweh give you increase, you and your children.[^115-5]
+**14** May the LORD give you increase, you and your children.[^115-5]
 
-**15** May you be blessed by Yahweh, the maker of heaven and earth.
+**15** May you be blessed by the LORD, the maker of heaven and earth.
 
-**16** The heavens are the heavens of Yahweh,[^115-6] but the earth he has given to human beings.[^115-7]
+**16** The heavens are the heavens of the LORD,[^115-6] but the earth he has given to human beings.[^115-7]
 
-**17** It is not the dead who praise Yah,[^115-8] nor any who go down into silence.[^115-9]
+**17** It is not the dead who praise the LORD,[^115-8] nor any who go down into silence.[^115-9]
 
-**18** But we will bless Yah from now on and forever. Praise Yah![^115-10]
+**18** But we will bless the LORD from now on and forever. Praise the LORD![^115-10]
 
-[^115-1]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles. The Septuagint makes Psalm 115 part of Psalm 114 (see the note on 114:1). Verses 4–11 appear again, with small differences, in 135:15–20.
+[^115-1]: *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles. The Septuagint makes Psalm 115 part of Psalm 114 (see the note on 114:1). Verses 4–11 appear again, with small differences, in 135:15–20.
 [^115-2]: Hebrew *chesed*: loyal, faithful love.
 [^115-3]: Or "May those who make them become like them, and all who trust in them."
-[^115-4]: Verses 9–11 call on Israel, the priests (the house of Aaron) and all who fear Yahweh to trust in him. Each verse ends with the same refrain, which turns to speak of them as "their". Compare 118:2–4.
-[^115-5]: Literally "May Yahweh add to you, to you and to your sons".
-[^115-6]: Literally "The heavens are heavens for Yahweh".
+[^115-4]: Verses 9–11 call on Israel, the priests (the house of Aaron) and all who fear the LORD to trust in him. Each verse ends with the same refrain, which turns to speak of them as "their". Compare 118:2–4.
+[^115-5]: Literally "May the LORD add to you, to you and to your sons".
+[^115-6]: Literally "The heavens are heavens for the LORD".
 [^115-7]: Literally "to the sons of *adam* (humankind)".
-[^115-8]: Hebrew *Yah*, a short form of the name Yahweh. Also in verse 18.
+[^115-8]: Hebrew *Yah*, a short form of the name YHWH. Also in verse 18.
 [^115-9]: That is, into the silent world of the dead (compare 94:17).
 [^115-10]: Hebrew *hallelu-yah*, "praise Yah", the source of the word "Hallelujah".
 
@@ -5933,45 +5933,45 @@
 
 *Status: draft*
 
-**1** I love Yahweh,[^116-1] for he hears my voice, my pleas for mercy.[^116-2]
+**1** I love the LORD,[^116-1] for he hears my voice, my pleas for mercy.[^116-2]
 
 **2** Because he has turned his ear to me, I will call on him as long as I live.[^116-3]
 
 **3** The cords of death surrounded me; the distress of Sheol[^116-4] found me; I found trouble and sorrow.
 
-**4** Then I called on the name of Yahweh: "Please, Yahweh, rescue my life!"[^116-5]
+**4** Then I called on the name of the LORD: "Please, LORD, rescue my life!"[^116-5]
 
-**5** Yahweh is gracious and righteous; our God is compassionate.
+**5** The LORD is gracious and righteous; our God is compassionate.
 
-**6** Yahweh protects the simple; I was brought low, and he saved me.
+**6** The LORD protects the simple; I was brought low, and he saved me.
 
-**7** Return to your rest, my soul,[^116-6] for Yahweh has dealt generously with you.
+**7** Return to your rest, my soul,[^116-6] for the LORD has dealt generously with you.
 
 **8** For you have rescued my life from death, my eyes from tears, my feet from stumbling.
 
-**9** I will walk before Yahweh in the land of the living.[^116-7]
+**9** I will walk before the LORD in the land of the living.[^116-7]
 
 **10** I kept faith, even when I said,[^116-8] "I am greatly afflicted."
 
 **11** I said in my alarm, "Everyone is a liar."[^116-9]
 
-**12** What can I give back to Yahweh for all his goodness to me?
+**12** What can I give back to the LORD for all his goodness to me?
 
-**13** I will lift up the cup of salvation[^116-10] and call on the name of Yahweh.
+**13** I will lift up the cup of salvation[^116-10] and call on the name of the LORD.
 
-**14** I will fulfill my vows to Yahweh in the presence of all his people.
+**14** I will fulfill my vows to the LORD in the presence of all his people.
 
-**15** Precious in the eyes of Yahweh is the death of his faithful ones.[^116-11]
+**15** Precious in the eyes of the LORD is the death of his faithful ones.[^116-11]
 
-**16** Please, Yahweh, truly I am your servant; I am your servant, the son of your female servant.[^116-12] You have loosed my bonds.
+**16** Please, LORD, truly I am your servant; I am your servant, the son of your female servant.[^116-12] You have loosed my bonds.
 
-**17** To you I will offer a sacrifice of thanksgiving,[^116-13] and call on the name of Yahweh.
+**17** To you I will offer a sacrifice of thanksgiving,[^116-13] and call on the name of the LORD.
 
-**18** I will fulfill my vows to Yahweh in the presence of all his people,
+**18** I will fulfill my vows to the LORD in the presence of all his people,
 
-**19** in the courts of the house of Yahweh, in your midst, Jerusalem. Praise Yah![^116-14]
+**19** in the courts of the house of the LORD, in your midst, Jerusalem. Praise the LORD![^116-14]
 
-[^116-1]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles. *I love Yahweh*: literally "I love, for Yahweh hears". The Septuagint divides this psalm into two, verses 1–9 and verses 10–19 (see the note on 114:1).
+[^116-1]: *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles. *I love the LORD*: literally "I love, for the LORD hears". The Septuagint divides this psalm into two, verses 1–9 and verses 10–19 (see the note on 114:1).
 [^116-2]: Literally "my voice, my supplications".
 [^116-3]: Literally "in my days".
 [^116-4]: Hebrew *Sheol*, the realm of the dead. *The distress*: or "the straits", "the pangs". Compare 18:5–6 (18:4–5 in most English Bibles).
@@ -5984,100 +5984,100 @@
 [^116-11]: Hebrew *chasidim*, "the faithful, the loyal", related to *chesed*, "faithful love". *Precious*: that is, costly: their death is no small matter to him.
 [^116-12]: That is, a servant born in the household, and so bound to it for life (compare 86:16).
 [^116-13]: Hebrew *todah*: a sacrifice given in thanksgiving (Leviticus 7:12).
-[^116-14]: Hebrew *hallelu-yah*, "praise Yah", the source of the word "Hallelujah". *Yah* is a short form of the name Yahweh.
+[^116-14]: Hebrew *hallelu-yah*, "praise Yah", the source of the word "Hallelujah". *Yah* is a short form of the name YHWH.
 
 ## Chapter 117
 
 *Status: draft*
 
-**1** Praise Yahweh,[^117-1] all nations! Extol him, all peoples![^117-2]
+**1** Praise the LORD,[^117-1] all nations! Extol him, all peoples![^117-2]
 
-**2** For great is his faithful love[^117-3] toward us,[^117-4] and the faithfulness of Yahweh endures forever. Praise Yah![^117-5]
+**2** For great is his faithful love[^117-3] toward us,[^117-4] and the faithfulness of the LORD endures forever. Praise the LORD![^117-5]
 
-[^117-1]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles. Psalm 117 is the shortest psalm.
+[^117-1]: *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles. Psalm 117 is the shortest psalm.
 [^117-2]: Romans 15:11 quotes this verse.
 [^117-3]: Hebrew *chesed*: loyal, faithful love.
 [^117-4]: Literally "is mighty over us".
-[^117-5]: Hebrew *hallelu-yah*, "praise Yah", the source of the word "Hallelujah". *Yah* is a short form of the name Yahweh.
+[^117-5]: Hebrew *hallelu-yah*, "praise Yah", the source of the word "Hallelujah". *Yah* is a short form of the name YHWH.
 
 ## Chapter 118
 
 *Status: draft*
 
-**1** Give thanks to Yahweh,[^118-1] for he is good; his faithful love[^118-2] endures forever.[^118-3]
+**1** Give thanks to the LORD,[^118-1] for he is good; his faithful love[^118-2] endures forever.[^118-3]
 
 **2** Let Israel say, "His faithful love endures forever."
 
 **3** Let the house of Aaron say, "His faithful love endures forever."
 
-**4** Let those who fear Yahweh say, "His faithful love endures forever."[^118-4]
+**4** Let those who fear the LORD say, "His faithful love endures forever."[^118-4]
 
-**5** In my distress I called on Yah;[^118-5] Yah answered me and set me in a broad place.[^118-6]
+**5** In my distress I called on the LORD;[^118-5] the LORD answered me and set me in a broad place.[^118-6]
 
-**6** Yahweh is for me; I will not be afraid. What can anyone[^118-7] do to me?[^118-8]
+**6** The LORD is for me; I will not be afraid. What can anyone[^118-7] do to me?[^118-8]
 
-**7** Yahweh is for me as my helper;[^118-9] I will look in triumph on those who hate me.
+**7** The LORD is for me as my helper;[^118-9] I will look in triumph on those who hate me.
 
-**8** It is better to take refuge in Yahweh than to trust in human beings.
+**8** It is better to take refuge in the LORD than to trust in human beings.
 
-**9** It is better to take refuge in Yahweh than to trust in nobles.
+**9** It is better to take refuge in the LORD than to trust in nobles.
 
-**10** All the nations surrounded me; in the name of Yahweh I cut them off.[^118-10]
+**10** All the nations surrounded me; in the name of the LORD I cut them off.[^118-10]
 
-**11** They surrounded me, yes, they surrounded me; in the name of Yahweh I cut them off.
+**11** They surrounded me, yes, they surrounded me; in the name of the LORD I cut them off.
 
-**12** They surrounded me like bees; they died out like a fire of thorns.[^118-11] In the name of Yahweh I cut them off.
+**12** They surrounded me like bees; they died out like a fire of thorns.[^118-11] In the name of the LORD I cut them off.
 
-**13** You pushed me hard to make me fall,[^118-12] but Yahweh helped me.
+**13** You pushed me hard to make me fall,[^118-12] but the LORD helped me.
 
-**14** Yah is my strength and my song;[^118-13] he has become my salvation.
+**14** The LORD is my strength and my song;[^118-13] he has become my salvation.
 
-**15** The sound of joyful shouting and salvation is in the tents of the righteous: "The right hand of Yahweh does mighty deeds!
+**15** The sound of joyful shouting and salvation is in the tents of the righteous: "The right hand of the LORD does mighty deeds!
 
-**16** The right hand of Yahweh is lifted high; the right hand of Yahweh does mighty deeds!"
+**16** The right hand of the LORD is lifted high; the right hand of the LORD does mighty deeds!"
 
-**17** I will not die, but live, and I will tell of the works of Yah.
+**17** I will not die, but live, and I will tell of the works of the LORD.
 
-**18** Yah has disciplined me severely, but he has not given me over to death.
+**18** The LORD has disciplined me severely, but he has not given me over to death.
 
-**19** Open the gates of righteousness for me; I will enter through them and give thanks to Yah.
+**19** Open the gates of righteousness for me; I will enter through them and give thanks to the LORD.
 
-**20** This is the gate of Yahweh; the righteous will enter through it.
+**20** This is the gate of the LORD; the righteous will enter through it.
 
 **21** I will give thanks to you, for you have answered me, and have become my salvation.
 
 **22** The stone the builders rejected has become the cornerstone.[^118-14]
 
-**23** This was Yahweh's doing, and it is marvelous in our eyes.[^118-15]
+**23** This was the LORD's doing, and it is marvelous in our eyes.[^118-15]
 
-**24** This is the day that Yahweh has made;[^118-16] let us rejoice and be glad in it.
+**24** This is the day that the LORD has made;[^118-16] let us rejoice and be glad in it.
 
-**25** Please, Yahweh, save us![^118-17] Please, Yahweh, give us success!
+**25** Please, LORD, save us![^118-17] Please, LORD, give us success!
 
-**26** Blessed is the one who comes in the name of Yahweh![^118-18] We bless you[^118-19] from the house of Yahweh.
+**26** Blessed is the one who comes in the name of the LORD![^118-18] We bless you[^118-19] from the house of the LORD.
 
-**27** Yahweh is God, and he has given us light. Bind the festival sacrifice with cords to the horns of the altar.[^118-20]
+**27** The LORD is God, and he has given us light. Bind the festival sacrifice with cords to the horns of the altar.[^118-20]
 
 **28** You are my God, and I will give thanks to you; my God, I will exalt you.
 
-**29** Give thanks to Yahweh, for he is good; his faithful love endures forever.
+**29** Give thanks to the LORD, for he is good; his faithful love endures forever.
 
-[^118-1]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^118-1]: *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles.
 [^118-2]: Hebrew *chesed*: loyal, faithful love.
 [^118-3]: Literally "for his faithful love is forever". Also in verses 2–4 and 29. The same refrain runs through Psalm 136.
-[^118-4]: Verses 2–4 call on Israel, the priests (the house of Aaron) and all who fear Yahweh, as in 115:9–11.
-[^118-5]: Hebrew *Yah*, a short form of the name Yahweh. Also in verses 14 and 17–19.
+[^118-4]: Verses 2–4 call on Israel, the priests (the house of Aaron) and all who fear the LORD, as in 115:9–11.
+[^118-5]: Hebrew *Yah*, a short form of the name YHWH. Also in verses 14 and 17–19.
 [^118-6]: Literally "Yah answered me in the broad place". *Distress* is literally "the narrow place".
 [^118-7]: Hebrew *adam*, "a human being".
 [^118-8]: Hebrews 13:6 quotes this verse from the Septuagint, which reads "The Lord is my helper; I will not be afraid."
-[^118-9]: Literally "Yahweh is for me among my helpers".
+[^118-9]: Literally "The LORD is for me among my helpers".
 [^118-10]: Hebrew *amilam*, a rare form, perhaps "I cut them off" or "I fended them off". Also in verses 11 and 12. The verb may be the one used for circumcision.
 [^118-11]: That is, as quickly as a fire of dry thorns. The Septuagint reads "they blazed up like a fire among thorns".
 [^118-12]: Literally "You pushed, pushed me to fall", speaking to the enemy. The Septuagint reads "I was pushed hard, so that I fell".
 [^118-13]: Or "my might". Hebrew *zimrah*. This line repeats Exodus 15:2 (compare Isaiah 12:2).
 [^118-14]: Literally "the head of the corner": either a cornerstone in the foundation or the capstone at the top of a wall. Jesus quotes verses 22–23 in Mark 12:10–11 (also Matthew 21:42; Luke 20:17), and Acts 4:11 and 1 Peter 2:7 apply verse 22 to him.
-[^118-15]: Literally "From Yahweh this has come".
-[^118-16]: Or "This is the day on which Yahweh has acted". *In it*: or "in him".
+[^118-15]: Literally "From the LORD this has come".
+[^118-16]: Or "This is the day on which the LORD has acted". *In it*: or "in him".
 [^118-17]: Hebrew *hoshi'ah na*, "save, please", the phrase that became "Hosanna" (Mark 11:9–10). The Hebrew does not say whom.
 [^118-18]: The crowds greet Jesus with this line in Mark 11:9 (also Matthew 21:9; Luke 19:38; John 12:13), and Jesus quotes it in Matthew 23:39 and Luke 13:35.
 [^118-19]: "You" is plural: the priests bless those who come up to the temple.
@@ -6087,7 +6087,7 @@
 
 *Status: draft*
 
-**1** Happy[^119-1] are those whose way is blameless,[^119-2] who walk in the law[^119-3] of Yahweh.[^119-4]
+**1** Happy[^119-1] are those whose way is blameless,[^119-2] who walk in the law[^119-3] of the LORD.[^119-4]
 
 **2** Happy are those who keep his statutes,[^119-5] who seek him with all their heart.
 
@@ -6109,7 +6109,7 @@
 
 **11** I have treasured your promise[^119-8] in my heart, so that I may not sin against you.
 
-**12** Blessed are you, Yahweh; teach me your decrees.
+**12** Blessed are you, LORD; teach me your decrees.
 
 **13** With my lips I recount all the rulings of your mouth.
 
@@ -6147,11 +6147,11 @@
 
 **30** I have chosen the way of faithfulness; I have set your rulings before me.[^119-18]
 
-**31** I cling to your statutes; Yahweh, do not let me be put to shame.
+**31** I cling to your statutes; LORD, do not let me be put to shame.
 
 **32** I will run in the way of your commands, for you set my heart free.[^119-19]
 
-**33** Teach me, Yahweh, the way of your decrees,[^119-20] and I will keep it to the end.[^119-21]
+**33** Teach me, LORD, the way of your decrees,[^119-20] and I will keep it to the end.[^119-21]
 
 **34** Give me understanding, and I will keep your law and obey it with all my heart.
 
@@ -6167,7 +6167,7 @@
 
 **40** See, I long for your precepts; in your righteousness give me life.
 
-**41** May your faithful love[^119-23] come to me, Yahweh,[^119-24] your salvation according to your promise.
+**41** May your faithful love[^119-23] come to me, LORD,[^119-24] your salvation according to your promise.
 
 **42** Then I will have an answer for the one who taunts me,[^119-25] for I trust in your word.
 
@@ -6189,17 +6189,17 @@
 
 **51** The arrogant mock me without restraint, but I do not turn away from your law.
 
-**52** I remember your rulings of old, Yahweh, and I take comfort.
+**52** I remember your rulings of old, LORD, and I take comfort.
 
 **53** Burning anger seizes me because of the wicked, who forsake your law.
 
 **54** Your decrees have been my songs in the house where I live as a stranger.[^119-29]
 
-**55** In the night I remember your name, Yahweh, and I keep your law.
+**55** In the night I remember your name, LORD, and I keep your law.
 
 **56** This has been my lot: I have kept your precepts.[^119-30]
 
-**57** Yahweh is my portion;[^119-31] I have promised to keep your words.[^119-32]
+**57** The LORD is my portion;[^119-31] I have promised to keep your words.[^119-32]
 
 **58** I have sought your favor[^119-33] with all my heart; be gracious to me according to your promise.
 
@@ -6213,9 +6213,9 @@
 
 **63** I am a companion of all who fear you, of those who keep your precepts.
 
-**64** The earth is full of your faithful love, Yahweh; teach me your decrees.
+**64** The earth is full of your faithful love, LORD; teach me your decrees.
 
-**65** You have dealt well with your servant,[^119-35] Yahweh, according to your word.
+**65** You have dealt well with your servant,[^119-35] LORD, according to your word.
 
 **66** Teach me good judgment[^119-36] and knowledge, for I believe in your commands.
 
@@ -6235,7 +6235,7 @@
 
 **74** Those who fear you will see me and rejoice, for I hope in your word.
 
-**75** I know, Yahweh, that your rulings are righteous, and that in faithfulness you have afflicted me.
+**75** I know, LORD, that your rulings are righteous, and that in faithfulness you have afflicted me.
 
 **76** May your faithful love comfort me, according to your promise to your servant.
 
@@ -6263,7 +6263,7 @@
 
 **88** In your faithful love give me life, and I will keep the statutes[^119-45] of your mouth.
 
-**89** Forever, Yahweh, your word stands firm in the heavens.[^119-46]
+**89** Forever, LORD, your word stands firm in the heavens.[^119-46]
 
 **90** Your faithfulness endures from generation to generation; you established the earth, and it stands.
 
@@ -6299,9 +6299,9 @@
 
 **106** I have sworn an oath and confirmed it, to keep your righteous rulings.
 
-**107** I am severely afflicted; Yahweh, give me life according to your word.
+**107** I am severely afflicted; LORD, give me life according to your word.
 
-**108** Accept, Yahweh, the freewill offerings of my mouth,[^119-51] and teach me your rulings.
+**108** Accept, LORD, the freewill offerings of my mouth,[^119-51] and teach me your rulings.
 
 **109** My life is always in my hand,[^119-52] yet I do not forget your law.
 
@@ -6337,7 +6337,7 @@
 
 **125** I am your servant; give me understanding, so that I may know your statutes.
 
-**126** It is time for Yahweh to act;[^119-61] they have broken your law.
+**126** It is time for the LORD to act;[^119-61] they have broken your law.
 
 **127** Therefore I love your commands more than gold, more than fine gold.
 
@@ -6359,7 +6359,7 @@
 
 **136** Streams of water flow down from my eyes, because they do not keep your law.
 
-**137** You are righteous, Yahweh,[^119-68] and your rulings are upright.
+**137** You are righteous, LORD,[^119-68] and your rulings are upright.
 
 **138** You have commanded your statutes in righteousness and in great faithfulness.[^119-69]
 
@@ -6375,7 +6375,7 @@
 
 **144** Your statutes are righteous forever; give me understanding, so that I may live.
 
-**145** I call with all my heart;[^119-71] answer me, Yahweh, and I will keep your decrees.
+**145** I call with all my heart;[^119-71] answer me, LORD, and I will keep your decrees.
 
 **146** I call to you; save me, and I will keep your statutes.
 
@@ -6383,11 +6383,11 @@
 
 **148** My eyes are awake before the watches of the night,[^119-73] so that I may meditate on your promise.
 
-**149** Hear my voice according to your faithful love; Yahweh, give me life according to your justice.[^119-74]
+**149** Hear my voice according to your faithful love; LORD, give me life according to your justice.[^119-74]
 
 **150** Those who pursue wicked schemes draw near; they are far from your law.
 
-**151** You are near, Yahweh, and all your commands are truth.
+**151** You are near, LORD, and all your commands are truth.
 
 **152** Long ago I learned from your statutes that you have established them forever.
 
@@ -6397,13 +6397,13 @@
 
 **155** Salvation is far from the wicked, for they do not seek your decrees.
 
-**156** Your compassion is great, Yahweh; give me life according to your rulings.
+**156** Your compassion is great, LORD; give me life according to your rulings.
 
 **157** Many are my persecutors and my adversaries, but I do not turn away from your statutes.
 
 **158** I look on the treacherous with disgust, because they do not keep your promise.
 
-**159** See how I love your precepts! Yahweh, give me life according to your faithful love.
+**159** See how I love your precepts! LORD, give me life according to your faithful love.
 
 **160** The sum of your word[^119-76] is truth, and every one of your righteous rulings endures forever.
 
@@ -6417,13 +6417,13 @@
 
 **165** Great peace have those who love your law; nothing makes them stumble.[^119-79]
 
-**166** I wait for your salvation, Yahweh, and I do your commands.
+**166** I wait for your salvation, LORD, and I do your commands.
 
 **167** My soul keeps your statutes; I love them greatly.
 
 **168** I keep your precepts and your statutes, for all my ways are before you.
 
-**169** Let my cry come near to you, Yahweh;[^119-80] give me understanding according to your word.
+**169** Let my cry come near to you, LORD;[^119-80] give me understanding according to your word.
 
 **170** Let my plea come before you; rescue me according to your promise.
 
@@ -6433,7 +6433,7 @@
 
 **173** Let your hand be ready to help me, for I have chosen your precepts.
 
-**174** I long for your salvation, Yahweh, and your law is my delight.
+**174** I long for your salvation, LORD, and your law is my delight.
 
 **175** Let my soul live, and it will praise you; and let your rulings help me.
 
@@ -6442,7 +6442,7 @@
 [^119-1]: Hebrew *ashrei*: happy, fortunate; traditionally "blessed". Also in verse 2.
 [^119-2]: *Aleph*: each verse of this stanza (verses 1–8) begins in Hebrew with this letter, the first of the alphabet. Psalm 119, the longest psalm, is an acrostic: it has twenty-two stanzas of eight verses, one stanza for each letter of the Hebrew alphabet in order, and every verse of a stanza begins with its letter. Almost every verse names God's teaching with one of eight words, and this translation keeps one English word for each: *law* (*torah*), *statutes* (*edot*), *precepts* (*piqqudim*), *commands* (*mitsvot*), *rulings* (*mishpatim*), *decrees* (*chuqqim*), *promise* (*imrah*) and *word* (*davar*). Compare Psalm 19:8–10 (19:7–9 in most English Bibles).
 [^119-3]: Hebrew *torah*, "instruction, teaching": here God's teaching as a whole.
-[^119-4]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^119-4]: *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles.
 [^119-5]: Hebrew *edot*, traditionally "testimonies": the solemn terms of the covenant.
 [^119-6]: Literally "the rulings of your righteousness". Also in verses 62, 106, 160 and 164.
 [^119-7]: *Bet*: each verse of this stanza (verses 9–16) begins in Hebrew with this letter.
@@ -6470,7 +6470,7 @@
 [^119-29]: Literally "in the house of my sojourning", that is, in this life, where I live like a foreigner (compare verse 19).
 [^119-30]: Literally "This has been to me, that I have kept your precepts": either keeping them is my reward, or my blessing has come because I kept them.
 [^119-31]: *Chet*: each verse of this stanza (verses 57–64) begins in Hebrew with this letter.
-[^119-32]: Or "My portion, Yahweh, I have said, is to keep your words." *Portion*: one's share of land, here Yahweh himself (compare 16:5; Numbers 18:20).
+[^119-32]: Or "My portion, LORD, I have said, is to keep your words." *Portion*: one's share of land, here the LORD himself (compare 16:5; Numbers 18:20).
 [^119-33]: Literally "I have softened your face", that is, entreated you.
 [^119-34]: Or "The bands of the wicked surround me".
 [^119-35]: *Tet*: each verse of this stanza (verses 65–72) begins in Hebrew with this letter.
@@ -6499,7 +6499,7 @@
 [^119-58]: *Ayin*: each verse of this stanza (verses 121–128) begins in Hebrew with this letter. *What is just and right*: literally "justice (*mishpat*) and righteousness". *Mishpat* is the word translated "rulings" elsewhere in this psalm.
 [^119-59]: Literally "Be surety for your servant for good", that is, stand guarantee for me, as one who pledges to pay another's debt. This verse has none of the eight words for God's teaching.
 [^119-60]: Literally "the promise of your righteousness".
-[^119-61]: Or "It is time to act for Yahweh".
+[^119-61]: Or "It is time to act for the LORD".
 [^119-62]: Literally "all precepts of all I consider right". The Hebrew is difficult. Some scholars read "all your precepts", with a small change to the Hebrew.
 [^119-63]: *Pe*: each verse of this stanza (verses 129–136) begins in Hebrew with this letter.
 [^119-64]: Literally "the opening", or "the doorway".
@@ -6525,9 +6525,9 @@
 
 *Status: draft*
 
-**1** A song of ascents.[^120-1] To Yahweh[^120-2] I called in my distress, and he answered me.
+**1** A song of ascents.[^120-1] To the LORD[^120-2] I called in my distress, and he answered me.
 
-**2** Yahweh, rescue me[^120-3] from lying lips, from a deceitful tongue.
+**2** LORD, rescue me[^120-3] from lying lips, from a deceitful tongue.
 
 **3** What will he give you, and what more will he do to you,[^120-4] you deceitful tongue?
 
@@ -6540,7 +6540,7 @@
 **7** I am for peace,[^120-8] but when I speak, they are for war.
 
 [^120-1]: Hebrew *shir ha-ma'alot*, "a song of the goings up". Psalms 120–134 all have this title. They were probably sung by pilgrims going up to Jerusalem for the festivals; Jewish tradition also linked them with the fifteen steps in the temple courts where the Levites sang. In the Hebrew text the title is part of verse 1. In this psalm it shares the verse with the first line, so the verse numbers match English Bibles.
-[^120-2]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^120-2]: *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles.
 [^120-3]: Literally "rescue my soul (*nephesh*)".
 [^120-4]: The words echo an oath, "May God do so to you, and more also" (1 Samuel 3:17): what punishment will God give the liar?
 [^120-5]: The wood of the broom tree makes charcoal that burns long and hot. The liar's punishment will fit the tongue's sharp, burning words.
@@ -6554,22 +6554,22 @@
 
 **1** A song of ascents.[^121-1] I lift up my eyes to the mountains. Where does my help come from?
 
-**2** My help comes from Yahweh,[^121-2] the maker of heaven and earth.
+**2** My help comes from the LORD,[^121-2] the maker of heaven and earth.
 
 **3** He will not let your foot slip;[^121-3] the one who guards you[^121-4] will not slumber.
 
 **4** Look, the one who guards Israel will neither slumber nor sleep.
 
-**5** Yahweh is the one who guards you; Yahweh is your shade at your right hand.
+**5** The LORD is the one who guards you; the LORD is your shade at your right hand.
 
 **6** The sun will not strike you by day, nor the moon by night.[^121-5]
 
-**7** Yahweh will guard you from all harm; he will guard your life.[^121-6]
+**7** The LORD will guard you from all harm; he will guard your life.[^121-6]
 
-**8** Yahweh will guard your going out and your coming in,[^121-7] from now on and forever.
+**8** The LORD will guard your going out and your coming in,[^121-7] from now on and forever.
 
 [^121-1]: Here the Hebrew has *shir lamma'alot*, "a song for the ascents", a slightly different form of the title of Psalms 120–134 (see the note on 120:1). In the Hebrew text the title is part of verse 1. In this psalm it shares the verse with the first line, so the verse numbers match English Bibles.
-[^121-2]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^121-2]: *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles.
 [^121-3]: Or "May he not let your foot slip; may the one who guards you not slumber."
 [^121-4]: Hebrew *shomer*, "guard, keeper", from *shamar*, "guard, keep", the word that runs through verses 3–8.
 [^121-5]: The sun's heat could cause sunstroke, and the moon was thought to cause harm by night.
@@ -6580,13 +6580,13 @@
 
 *Status: draft*
 
-**1** A song of ascents. Of David.[^122-1] I was glad when they said to me, "Let us go to the house of Yahweh."[^122-2]
+**1** A song of ascents. Of David.[^122-1] I was glad when they said to me, "Let us go to the house of the LORD."[^122-2]
 
 **2** Our feet are standing within your gates, Jerusalem.
 
 **3** Jerusalem, built as a city that is bound firmly together,[^122-3]
 
-**4** where the tribes go up, the tribes of Yah,[^122-4] according to the statute[^122-5] given to Israel, to give thanks to the name of Yahweh.
+**4** where the tribes go up, the tribes of the LORD,[^122-4] according to the statute[^122-5] given to Israel, to give thanks to the name of the LORD.
 
 **5** For there the thrones for judgment stand,[^122-6] the thrones of the house of David.
 
@@ -6596,13 +6596,13 @@
 
 **8** For the sake of my brothers and my friends, I will say, "Peace be within you."
 
-**9** For the sake of the house of Yahweh our God, I will seek your good.
+**9** For the sake of the house of the LORD our God, I will seek your good.
 
 [^122-1]: *A song of ascents*: Hebrew *shir ha-ma'alot* (see the note on 120:1). *Of David*: or "for David", "about David". In the Hebrew text the title is part of verse 1. In this psalm it shares the verse with the first line, so the verse numbers match English Bibles.
-[^122-2]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^122-2]: *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles.
 [^122-3]: Or "compact", its houses joined closely together.
-[^122-4]: Hebrew *Yah*, a short form of the name Yahweh.
-[^122-5]: Hebrew *edut*, traditionally "testimony": the solemn terms of the covenant. The law required every Israelite man to appear before Yahweh three times a year (Exodus 23:17; Deuteronomy 16:16).
+[^122-4]: Hebrew *Yah*, a short form of the name YHWH.
+[^122-5]: Hebrew *edut*, traditionally "testimony": the solemn terms of the covenant. The law required every Israelite man to appear before the LORD three times a year (Exodus 23:17; Deuteronomy 16:16).
 [^122-6]: Literally "sit", or "sat".
 [^122-7]: Literally "Ask the peace (*shalom*) of Jerusalem". Verses 6–7 play on the sound of the city's name, *Yerushalayim*: *sha'alu shelom* "ask the peace", *yishlayu* "be secure", *shalom* "peace", *shalvah* "security".
 
@@ -6612,24 +6612,24 @@
 
 **1** A song of ascents.[^123-1] To you I lift up my eyes, you who are enthroned in the heavens.
 
-**2** As the eyes of servants[^123-2] look to the hand of their master, as the eyes of a female servant look to the hand of her mistress, so our eyes look to Yahweh[^123-3] our God, until he is gracious to us.
+**2** As the eyes of servants[^123-2] look to the hand of their master, as the eyes of a female servant look to the hand of her mistress, so our eyes look to the LORD[^123-3] our God, until he is gracious to us.
 
-**3** Be gracious to us, Yahweh, be gracious to us, for we have had more than enough of contempt.
+**3** Be gracious to us, LORD, be gracious to us, for we have had more than enough of contempt.
 
 **4** We have had more than enough[^123-4] of the scorn of those who are at ease, of the contempt of the proud.
 
 [^123-1]: *A song of ascents*: Hebrew *shir ha-ma'alot* (see the note on 120:1). In the Hebrew text the title is part of verse 1. In this psalm it shares the verse with the first line, so the verse numbers match English Bibles.
 [^123-2]: Or "slaves".
-[^123-3]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^123-3]: *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles.
 [^123-4]: Literally "Our soul (*nephesh*) has been filled for itself".
 
 ## Chapter 124
 
 *Status: draft*
 
-**1** A song of ascents. Of David.[^124-1] If it had not been Yahweh[^124-2] who was on our side, let Israel now say,
+**1** A song of ascents. Of David.[^124-1] If it had not been the LORD[^124-2] who was on our side, let Israel now say,
 
-**2** if it had not been Yahweh who was on our side when people[^124-3] rose up against us,
+**2** if it had not been the LORD who was on our side when people[^124-3] rose up against us,
 
 **3** then they would have swallowed us alive, when their anger blazed against us;
 
@@ -6637,14 +6637,14 @@
 
 **5** then the raging[^124-5] waters would have gone over us.
 
-**6** Blessed be Yahweh, who has not given us as prey to their teeth.
+**6** Blessed be the LORD, who has not given us as prey to their teeth.
 
 **7** We have escaped[^124-6] like a bird from the fowler's trap; the trap is broken, and we have escaped.
 
-**8** Our help is in the name of Yahweh, the maker of heaven and earth.
+**8** Our help is in the name of the LORD, the maker of heaven and earth.
 
 [^124-1]: *A song of ascents*: Hebrew *shir ha-ma'alot* (see the note on 120:1). *Of David*: or "for David", "about David". In the Hebrew text the title is part of verse 1. In this psalm it shares the verse with the first line, so the verse numbers match English Bibles.
-[^124-2]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^124-2]: *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles.
 [^124-3]: Hebrew *adam*, "human beings".
 [^124-4]: Literally "over our soul (*nephesh*)". Also in verse 5.
 [^124-5]: Or "arrogant". Hebrew *zeidonim*, related to *zedim*, "the arrogant".
@@ -6654,40 +6654,40 @@
 
 *Status: draft*
 
-**1** A song of ascents.[^125-1] Those who trust in Yahweh[^125-2] are like Mount Zion, which cannot be shaken but stands firm forever.[^125-3]
+**1** A song of ascents.[^125-1] Those who trust in the LORD[^125-2] are like Mount Zion, which cannot be shaken but stands firm forever.[^125-3]
 
-**2** As the mountains surround Jerusalem, so Yahweh surrounds his people, from now on and forever.[^125-4]
+**2** As the mountains surround Jerusalem, so the LORD surrounds his people, from now on and forever.[^125-4]
 
 **3** For the scepter of wickedness will not rest on the land allotted to the righteous,[^125-5] so that the righteous do not stretch out their hands to do wrong.
 
-**4** Do good, Yahweh, to those who are good, to those who are upright in their hearts.
+**4** Do good, LORD, to those who are good, to those who are upright in their hearts.
 
-**5** But those who turn aside to their crooked ways, Yahweh will lead away with the evildoers. Peace be on Israel!
+**5** But those who turn aside to their crooked ways, the LORD will lead away with the evildoers. Peace be on Israel!
 
 [^125-1]: *A song of ascents*: Hebrew *shir ha-ma'alot* (see the note on 120:1). In the Hebrew text the title is part of verse 1. In this psalm it shares the verse with the first line, so the verse numbers match English Bibles.
-[^125-2]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^125-2]: *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles.
 [^125-3]: Literally "sits forever", or "is inhabited forever".
-[^125-4]: Literally "Jerusalem: mountains are around her, and Yahweh is around his people".
+[^125-4]: Literally "Jerusalem: mountains are around her, and the LORD is around his people".
 [^125-5]: Literally "on the lot of the righteous", the share of land assigned to them by lot (compare Joshua 14:2). The scepter of a wicked ruler stands for foreign rule over the land.
 
 ## Chapter 126
 
 *Status: draft*
 
-**1** A song of ascents.[^126-1] When Yahweh[^126-2] restored the fortunes of Zion,[^126-3] we were like those who dream.[^126-4]
+**1** A song of ascents.[^126-1] When the LORD[^126-2] restored the fortunes of Zion,[^126-3] we were like those who dream.[^126-4]
 
-**2** Then our mouths were filled with laughter, and our tongues with shouts of joy. Then they said among the nations, "Yahweh has done great things for them."
+**2** Then our mouths were filled with laughter, and our tongues with shouts of joy. Then they said among the nations, "The LORD has done great things for them."
 
-**3** Yahweh has done great things for us, and we were glad.[^126-5]
+**3** The LORD has done great things for us, and we were glad.[^126-5]
 
-**4** Restore our fortunes, Yahweh, like streams in the Negev.[^126-6]
+**4** Restore our fortunes, LORD, like streams in the Negev.[^126-6]
 
 **5** Those who sow in tears will reap with shouts of joy.
 
 **6** The one who goes out weeping, carrying the seed to sow,[^126-7] will surely come back with shouts of joy, carrying his sheaves.
 
 [^126-1]: *A song of ascents*: Hebrew *shir ha-ma'alot* (see the note on 120:1). In the Hebrew text the title is part of verse 1. In this psalm it shares the verse with the first line, so the verse numbers match English Bibles.
-[^126-2]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^126-2]: *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles.
 [^126-3]: Or "brought back the captives of Zion". Hebrew *shivat tsiyyon*. Also in verse 4. The return from exile in Babylon may be meant.
 [^126-4]: The Septuagint reads "like those who are comforted".
 [^126-5]: Or "and we are glad".
@@ -6698,18 +6698,18 @@
 
 *Status: draft*
 
-**1** A song of ascents. Of Solomon.[^127-1] Unless Yahweh[^127-2] builds the house, its builders labor over it in vain. Unless Yahweh guards the city, the guard keeps watch in vain.
+**1** A song of ascents. Of Solomon.[^127-1] Unless the LORD[^127-2] builds the house, its builders labor over it in vain. Unless the LORD guards the city, the guard keeps watch in vain.
 
 **2** It is in vain that you rise up early and go late to rest, eating the bread of anxious toil; for he gives sleep to the one he loves.[^127-3]
 
-**3** Look, children[^127-4] are an inheritance from Yahweh, the fruit of the womb a reward.
+**3** Look, children[^127-4] are an inheritance from the LORD, the fruit of the womb a reward.
 
 **4** Like arrows in the hand of a warrior are the children of one's youth.
 
 **5** Happy[^127-5] is the man who has filled his quiver with them! They will not be put to shame when they speak with enemies at the gate.[^127-6]
 
-[^127-1]: *A song of ascents*: Hebrew *shir ha-ma'alot* (see the note on 120:1). *Of Solomon*: or "for Solomon". Solomon built the house of Yahweh (1 Kings 6), and he was also named *Jedidiah*, "loved by Yah" (2 Samuel 12:25; compare "the one he loves" in verse 2). In the Hebrew text the title is part of verse 1. In this psalm it shares the verse with the first line, so the verse numbers match English Bibles.
-[^127-2]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^127-1]: *A song of ascents*: Hebrew *shir ha-ma'alot* (see the note on 120:1). *Of Solomon*: or "for Solomon". Solomon built the house of the LORD (1 Kings 6), and he was also named *Jedidiah*, "loved by Yah" (2 Samuel 12:25; compare "the one he loves" in verse 2). In the Hebrew text the title is part of verse 1. In this psalm it shares the verse with the first line, so the verse numbers match English Bibles.
+[^127-2]: *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles.
 [^127-3]: Or "for he gives to the one he loves while he sleeps". Hebrew *yedido*, "his beloved".
 [^127-4]: Literally "sons". Also in verse 4.
 [^127-5]: Hebrew *ashrei*: happy, fortunate; traditionally "blessed".
@@ -6719,21 +6719,21 @@
 
 *Status: draft*
 
-**1** A song of ascents.[^128-1] Happy[^128-2] is everyone who fears Yahweh,[^128-3] who walks in his ways.
+**1** A song of ascents.[^128-1] Happy[^128-2] is everyone who fears the LORD,[^128-3] who walks in his ways.
 
 **2** You will eat the fruit of your labor;[^128-4] you will be happy, and it will go well with you.
 
 **3** Your wife will be like a fruitful vine within your house,[^128-5] your children[^128-6] like olive shoots around your table.
 
-**4** Look, this is how the man who fears Yahweh will be blessed.
+**4** Look, this is how the man who fears the LORD will be blessed.
 
-**5** May Yahweh bless you from Zion; may you see the prosperity of Jerusalem all the days of your life.
+**5** May the LORD bless you from Zion; may you see the prosperity of Jerusalem all the days of your life.
 
 **6** May you see your children's children. Peace be on Israel!
 
 [^128-1]: *A song of ascents*: Hebrew *shir ha-ma'alot* (see the note on 120:1). In the Hebrew text the title is part of verse 1. In this psalm it shares the verse with the first line, so the verse numbers match English Bibles.
 [^128-2]: Hebrew *ashrei*: happy, fortunate; traditionally "blessed". Also in verse 2.
-[^128-3]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^128-3]: *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles.
 [^128-4]: Literally "the labor of your hands".
 [^128-5]: Literally "in the innermost parts of your house".
 [^128-6]: Literally "your sons". Also in verse 6.
@@ -6748,7 +6748,7 @@
 
 **3** The plowers plowed over my back; they made their furrows long."[^129-2]
 
-**4** Yahweh[^129-3] is righteous; he has cut the cords of the wicked.[^129-4]
+**4** The LORD[^129-3] is righteous; he has cut the cords of the wicked.[^129-4]
 
 **5** May all who hate Zion be put to shame and turned back.
 
@@ -6756,11 +6756,11 @@
 
 **7** with which the reaper does not fill his hand, nor the binder of sheaves his arms,[^129-6]
 
-**8** and those who pass by do not say, "The blessing of Yahweh be on you! We bless you in the name of Yahweh."[^129-7]
+**8** and those who pass by do not say, "The blessing of the LORD be on you! We bless you in the name of the LORD."[^129-7]
 
 [^129-1]: *A song of ascents*: Hebrew *shir ha-ma'alot* (see the note on 120:1). In the Hebrew text the title is part of verse 1. In this psalm it shares the verse with the first line, so the verse numbers match English Bibles.
 [^129-2]: That is, they cut deep wounds in me, like a plow cutting furrows, perhaps by flogging.
-[^129-3]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^129-3]: *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles.
 [^129-4]: Perhaps the ropes that harnessed the plow to the ox, or the cords that bound Israel.
 [^129-5]: Or "before it is pulled up". Grass that sprouted in the thin soil of a flat roof soon dried up in the sun.
 [^129-6]: Literally "his bosom", the fold of the garment where an armful of grain was carried.
@@ -6770,26 +6770,26 @@
 
 *Status: draft*
 
-**1** A song of ascents.[^130-1] Out of the depths I call to you, Yahweh.[^130-2]
+**1** A song of ascents.[^130-1] Out of the depths I call to you, LORD.[^130-2]
 
 **2** Lord, hear my voice! Let your ears be attentive to my voice as I plead for mercy.[^130-3]
 
-**3** If you, Yah,[^130-4] kept a record of iniquities,[^130-5] Lord, who could stand?
+**3** If you, LORD,[^130-4] kept a record of iniquities,[^130-5] Lord, who could stand?
 
 **4** But with you there is forgiveness, so that you may be feared.
 
-**5** I wait for Yahweh; my soul[^130-6] waits, and in his word I put my hope.
+**5** I wait for the LORD; my soul[^130-6] waits, and in his word I put my hope.
 
 **6** My soul waits for the Lord[^130-7] more than watchmen wait for the morning, more than watchmen for the morning.
 
-**7** Israel, put your hope in Yahweh! For with Yahweh there is faithful love,[^130-8] and with him is abundant redemption.
+**7** Israel, put your hope in the LORD! For with the LORD there is faithful love,[^130-8] and with him is abundant redemption.
 
 **8** He himself will redeem Israel from all its iniquities.
 
 [^130-1]: *A song of ascents*: Hebrew *shir ha-ma'alot* (see the note on 120:1). In the Hebrew text the title is part of verse 1. In this psalm it shares the verse with the first line, so the verse numbers match English Bibles.
-[^130-2]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^130-2]: *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles.
 [^130-3]: Literally "to the voice of my supplications".
-[^130-4]: Hebrew *Yah*, a short form of the name Yahweh.
+[^130-4]: Hebrew *Yah*, a short form of the name YHWH.
 [^130-5]: Literally "If you watch iniquities".
 [^130-6]: Hebrew *nephesh*: soul, life, self. Also in verse 6.
 [^130-7]: The Hebrew has no verb: literally "My soul (is) for the Lord".
@@ -6799,14 +6799,14 @@
 
 *Status: draft*
 
-**1** A song of ascents. Of David.[^131-1] Yahweh,[^131-2] my heart is not proud, and my eyes are not haughty. I do not concern myself[^131-3] with great matters, or with things too wonderful for me.
+**1** A song of ascents. Of David.[^131-1] LORD,[^131-2] my heart is not proud, and my eyes are not haughty. I do not concern myself[^131-3] with great matters, or with things too wonderful for me.
 
 **2** Instead,[^131-4] I have calmed and quieted my soul,[^131-5] like a weaned child with its mother; my soul within me is like a weaned child.
 
-**3** Israel, put your hope in Yahweh, from now on and forever.
+**3** Israel, put your hope in the LORD, from now on and forever.
 
 [^131-1]: *A song of ascents*: Hebrew *shir ha-ma'alot* (see the note on 120:1). *Of David*: or "for David", "about David". In the Hebrew text the title is part of verse 1. In this psalm it shares the verse with the first line, so the verse numbers match English Bibles.
-[^131-2]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^131-2]: *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles.
 [^131-3]: Literally "I do not walk".
 [^131-4]: Literally "If not", a form used in oaths: "Surely".
 [^131-5]: Hebrew *nephesh*: soul, life, self. Also in the next line. A weaned child no longer frets for the breast, but rests content on its mother.
@@ -6815,31 +6815,31 @@
 
 *Status: draft*
 
-**1** A song of ascents.[^132-1] Yahweh,[^132-2] remember David and all his hardships,[^132-3]
+**1** A song of ascents.[^132-1] LORD,[^132-2] remember David and all his hardships,[^132-3]
 
-**2** how he swore an oath to Yahweh and made a vow to the Mighty One of Jacob:[^132-4]
+**2** how he swore an oath to the LORD and made a vow to the Mighty One of Jacob:[^132-4]
 
 **3** "I will not enter the tent of my house or get into my bed;[^132-5]
 
 **4** I will not give sleep to my eyes or slumber to my eyelids,
 
-**5** until I find a place for Yahweh, a dwelling place for the Mighty One of Jacob."
+**5** until I find a place for the LORD, a dwelling place for the Mighty One of Jacob."
 
 **6** Look, we heard of it in Ephrathah; we found it in the fields of Jaar.[^132-6]
 
 **7** Let us go to his dwelling place; let us bow down at his footstool.[^132-7]
 
-**8** Rise up, Yahweh, and go to your resting place, you and the ark of your might.[^132-8]
+**8** Rise up, LORD, and go to your resting place, you and the ark of your might.[^132-8]
 
 **9** May your priests be clothed with righteousness, and may your faithful ones[^132-9] shout for joy.
 
 **10** For the sake of David your servant, do not reject your anointed one.[^132-10]
 
-**11** Yahweh swore to David a sure oath, from which he will not turn back: "One of your own descendants[^132-11] I will set on your throne.
+**11** The LORD swore to David a sure oath, from which he will not turn back: "One of your own descendants[^132-11] I will set on your throne.
 
 **12** If your sons keep my covenant and my statutes[^132-12] that I will teach them, their sons also will sit on your throne forever."
 
-**13** For Yahweh has chosen Zion; he has desired it for his dwelling:
+**13** For the LORD has chosen Zion; he has desired it for his dwelling:
 
 **14** "This is my resting place forever; here I will dwell,[^132-13] for I have desired it.
 
@@ -6851,16 +6851,16 @@
 
 **18** His enemies I will clothe with shame, but on him his crown will shine."[^132-15]
 
-[^132-1]: *A song of ascents*: Hebrew *shir ha-ma'alot* (see the note on 120:1). In the Hebrew text the title is part of verse 1. In this psalm it shares the verse with the first line, so the verse numbers match English Bibles. The psalm recalls how David brought the ark to Jerusalem (2 Samuel 6) and Yahweh's promise to him (2 Samuel 7).
-[^132-2]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^132-1]: *A song of ascents*: Hebrew *shir ha-ma'alot* (see the note on 120:1). In the Hebrew text the title is part of verse 1. In this psalm it shares the verse with the first line, so the verse numbers match English Bibles. The psalm recalls how David brought the ark to Jerusalem (2 Samuel 6) and the LORD's promise to him (2 Samuel 7).
+[^132-2]: *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles.
 [^132-3]: Or "all his self-denial", the oath he kept (verses 3–5). Literally "all his being afflicted".
 [^132-4]: Hebrew *avir ya'aqov*, an ancient title of God (Genesis 49:24; Isaiah 49:26). Also in verse 5.
 [^132-5]: Literally "If I enter the tent of my house, if I go up on the couch of my bed", the form of an oath. Also in verse 4.
 [^132-6]: *It* is probably the ark (verse 8). *Ephrathah* is another name for Bethlehem (Ruth 4:11; Micah 5:1, 5:2 in most English Bibles), or for the clan around Kiriath-jearim (1 Chronicles 2:50). *Jaar*, "forest", is probably Kiriath-jearim, "town of forests", where the ark stayed for twenty years until David brought it to Jerusalem (1 Samuel 7:1–2).
-[^132-7]: The ark was pictured as the footstool of Yahweh, who is enthroned above the cherubim (1 Chronicles 28:2; compare 99:5).
+[^132-7]: The ark was pictured as the footstool of the LORD, who is enthroned above the cherubim (1 Chronicles 28:2; compare 99:5).
 [^132-8]: Verses 8–10 are nearly the same as Solomon's prayer at the dedication of the temple in 2 Chronicles 6:41–42. Compare also Numbers 10:35.
 [^132-9]: Hebrew *chasidim*, "the faithful, the loyal", related to *chesed*, "faithful love". Also in verse 16.
-[^132-10]: Literally "do not turn away the face of your anointed one", that is, do not refuse his request (compare 1 Kings 2:16). Hebrew *meshichekha*, "your anointed one", the king of David's line, anointed at Yahweh's command.
+[^132-10]: Literally "do not turn away the face of your anointed one", that is, do not refuse his request (compare 1 Kings 2:16). Hebrew *meshichekha*, "your anointed one", the king of David's line, anointed at the LORD's command.
 [^132-11]: Literally "From the fruit of your body". Compare 2 Samuel 7:12–16. Acts 2:30 recalls this oath.
 [^132-12]: Hebrew *edot*, traditionally "testimonies": the solemn terms of the covenant.
 [^132-13]: Or "here I will sit enthroned".
@@ -6875,27 +6875,27 @@
 
 **2** It is like the fine oil on the head, running down on the beard, the beard of Aaron, running down over the collar of his robes.[^133-3]
 
-**3** It is like the dew of Hermon,[^133-4] which falls on the mountains of Zion. For there Yahweh[^133-5] has commanded the blessing: life forevermore.
+**3** It is like the dew of Hermon,[^133-4] which falls on the mountains of Zion. For there the LORD[^133-5] has commanded the blessing: life forevermore.
 
 [^133-1]: *A song of ascents*: Hebrew *shir ha-ma'alot* (see the note on 120:1). *Of David*: or "for David", "about David". In the Hebrew text the title is part of verse 1. In this psalm it shares the verse with the first line, so the verse numbers match English Bibles.
 [^133-2]: Literally "the dwelling of brothers also together".
 [^133-3]: Literally "over the mouth of his garments", the opening at the neck. The oil is the oil of anointing poured on Aaron's head when he was consecrated as high priest (Exodus 29:7; Leviticus 8:12).
 [^133-4]: Mount Hermon, the highest mountain in the region, in the far north, known for its heavy dew.
-[^133-5]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^133-5]: *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles.
 
 ## Chapter 134
 
 *Status: draft*
 
-**1** A song of ascents.[^134-1] Come,[^134-2] bless Yahweh,[^134-3] all you servants of Yahweh, who stand in the house of Yahweh by night.
+**1** A song of ascents.[^134-1] Come,[^134-2] bless the LORD,[^134-3] all you servants of the LORD, who stand in the house of the LORD by night.
 
-**2** Lift up your hands toward the sanctuary,[^134-4] and bless Yahweh.
+**2** Lift up your hands toward the sanctuary,[^134-4] and bless the LORD.
 
-**3** May Yahweh bless you from Zion, the maker of heaven and earth.[^134-5]
+**3** May the LORD bless you from Zion, the maker of heaven and earth.[^134-5]
 
 [^134-1]: *A song of ascents*: Hebrew *shir ha-ma'alot* (see the note on 120:1). In the Hebrew text the title is part of verse 1. In this psalm it shares the verse with the first line, so the verse numbers match English Bibles. This is the last of the Songs of Ascents (Psalms 120–134).
 [^134-2]: Literally "Look".
-[^134-3]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^134-3]: *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles.
 [^134-4]: Or "in holiness". Hebrew *qodesh*, "holiness, the holy place".
 [^134-5]: "You" is singular: the priests' blessing on each worshiper (compare Numbers 6:24).
 
@@ -6903,17 +6903,17 @@
 
 *Status: draft*
 
-**1** Praise Yah![^135-1] Praise the name of Yahweh;[^135-2] praise him, you servants of Yahweh,
+**1** Praise the LORD![^135-1] Praise the name of the LORD;[^135-2] praise him, you servants of the LORD,
 
-**2** who stand in the house of Yahweh, in the courts of the house of our God.
+**2** who stand in the house of the LORD, in the courts of the house of our God.
 
-**3** Praise Yah, for Yahweh is good; sing praises to his name, for it is pleasant.[^135-3]
+**3** Praise the LORD, for the LORD is good; sing praises to his name, for it is pleasant.[^135-3]
 
-**4** For Yah has chosen Jacob for himself, Israel as his treasured possession.[^135-4]
+**4** For the LORD has chosen Jacob for himself, Israel as his treasured possession.[^135-4]
 
-**5** For I know that Yahweh is great, and our Lord is above all gods.
+**5** For I know that the LORD is great, and our Lord is above all gods.
 
-**6** Whatever Yahweh pleases, he does, in the heavens and on the earth, in the seas and all the depths.
+**6** Whatever the LORD pleases, he does, in the heavens and on the earth, in the seas and all the depths.
 
 **7** He makes the clouds[^135-5] rise from the ends of the earth; he makes lightning for the rain, and brings out the wind from his storehouses.[^135-6]
 
@@ -6927,9 +6927,9 @@
 
 **12** He gave their land as an inheritance, an inheritance to his people Israel.
 
-**13** Yahweh, your name endures forever, your renown,[^135-8] Yahweh, from generation to generation.
+**13** LORD, your name endures forever, your renown,[^135-8] LORD, from generation to generation.
 
-**14** For Yahweh will give justice to his people[^135-9] and have compassion on his servants.
+**14** For the LORD will give justice to his people[^135-9] and have compassion on his servants.
 
 **15** The idols of the nations are silver and gold, the work of human hands.[^135-10]
 
@@ -6939,14 +6939,14 @@
 
 **18** Those who make them will become like them, and so will all who trust in them.
 
-**19** House of Israel, bless Yahweh! House of Aaron, bless Yahweh!
+**19** House of Israel, bless the LORD! House of Aaron, bless the LORD!
 
-**20** House of Levi, bless Yahweh! You who fear Yahweh, bless Yahweh!
+**20** House of Levi, bless the LORD! You who fear the LORD, bless the LORD!
 
-**21** Blessed be Yahweh from Zion, he who dwells in Jerusalem. Praise Yah!
+**21** Blessed be the LORD from Zion, he who dwells in Jerusalem. Praise the LORD!
 
-[^135-1]: Hebrew *hallelu-yah*, "praise Yah", the source of the word "Hallelujah". *Yah* is a short form of the name Yahweh. Also in verses 3 and 21.
-[^135-2]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^135-1]: Hebrew *hallelu-yah*, "praise Yah", the source of the word "Hallelujah". *Yah* is a short form of the name YHWH. Also in verses 3 and 21.
+[^135-2]: *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles.
 [^135-3]: Or "for he is gracious", "for it (his name) is lovely".
 [^135-4]: Hebrew *segullah*, a king's or an owner's personal treasure (Exodus 19:5).
 [^135-5]: Or "vapors".
@@ -6960,7 +6960,7 @@
 
 *Status: draft*
 
-**1** Give thanks to Yahweh,[^136-1] for he is good, for his faithful love[^136-2] endures forever.[^136-3]
+**1** Give thanks to the LORD,[^136-1] for he is good, for his faithful love[^136-2] endures forever.[^136-3]
 
 **2** Give thanks to the God of gods, for his faithful love endures forever.
 
@@ -7012,7 +7012,7 @@
 
 **26** Give thanks to the God of heaven, for his faithful love endures forever.
 
-[^136-1]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^136-1]: *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles.
 [^136-2]: Hebrew *chesed*: loyal, faithful love.
 [^136-3]: Literally "for his faithful love is forever". The refrain ends every verse of the psalm, probably sung by the congregation in response to the leader (compare 118:1–4; 2 Chronicles 7:3, 6; Ezra 3:11). In Jewish tradition this psalm is called the Great Hallel.
 [^136-4]: Hebrew *Yam Suph*, literally "Sea of Reeds". The Greek Septuagint calls it "the Red Sea"; also in verse 15.
@@ -7031,13 +7031,13 @@
 
 **3** For there our captors asked us for songs, and our tormentors[^137-3] asked for joy: "Sing us one of the songs of Zion!"
 
-**4** How can we sing the song of Yahweh[^137-4] in a foreign land?
+**4** How can we sing the song of the LORD[^137-4] in a foreign land?
 
 **5** If I forget you, Jerusalem, may my right hand forget its skill.[^137-5]
 
 **6** May my tongue stick to the roof of my mouth if I do not remember you, if I do not set Jerusalem above my highest joy.
 
-**7** Remember, Yahweh, against the Edomites the day of Jerusalem,[^137-6] when they said, "Tear it down! Tear it down to its foundations!"[^137-7]
+**7** Remember, LORD, against the Edomites the day of Jerusalem,[^137-6] when they said, "Tear it down! Tear it down to its foundations!"[^137-7]
 
 **8** Daughter of Babylon,[^137-8] doomed to destruction,[^137-9] happy[^137-10] is the one who pays you back for what you have done to us.
 
@@ -7046,9 +7046,9 @@
 [^137-1]: The rivers and canals of the land of Babylon, between the Tigris and the Euphrates, where the people of Judah lived in exile after Jerusalem fell in 587 or 586 BC (2 Kings 25).
 [^137-2]: Hebrew *aravim*, traditionally "willows", probably the poplars that grow along the Euphrates.
 [^137-3]: Hebrew *tolalenu*, a word found only here, so the meaning is uncertain. Perhaps "those who plundered us".
-[^137-4]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^137-4]: *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles.
 [^137-5]: Literally "may my right hand forget", that is, forget how to play the lyre. Some scholars read "may my right hand wither", with a small change to the Hebrew.
-[^137-6]: Literally "Remember, Yahweh, for the sons of Edom the day of Jerusalem", the day the city fell. The Edomites, Israel's neighbors to the south and descendants of Esau, rejoiced at its fall and joined in the plunder (Obadiah 10–14; Lamentations 4:21–22; Ezekiel 25:12).
+[^137-6]: Literally "Remember, LORD, for the sons of Edom the day of Jerusalem", the day the city fell. The Edomites, Israel's neighbors to the south and descendants of Esau, rejoiced at its fall and joined in the plunder (Obadiah 10–14; Lamentations 4:21–22; Ezekiel 25:12).
 [^137-7]: Literally "Lay it bare, lay it bare, down to the foundation in it."
 [^137-8]: A poetic name for the city of Babylon and its people, pictured as a woman.
 [^137-9]: Literally "devastated", that is, about to be devastated.
@@ -7065,36 +7065,36 @@
 
 **3** On the day I called, you answered me; you made me bold, with strength in my soul.[^138-5]
 
-**4** All the kings of the earth will give thanks to you, Yahweh,[^138-6] when they hear the words of your mouth.[^138-7]
+**4** All the kings of the earth will give thanks to you, LORD,[^138-6] when they hear the words of your mouth.[^138-7]
 
-**5** They will sing of the ways of Yahweh, for great is the glory of Yahweh.
+**5** They will sing of the ways of the LORD, for great is the glory of the LORD.
 
-**6** For though Yahweh is high, he looks on the lowly; but the proud he knows from far away.
+**6** For though the LORD is high, he looks on the lowly; but the proud he knows from far away.
 
 **7** Though I walk in the midst of trouble, you preserve my life; you stretch out your hand against the anger of my enemies, and your right hand saves me.
 
-**8** Yahweh will fulfill his purpose for me.[^138-8] Yahweh, your faithful love endures forever; do not abandon the works of your hands.
+**8** The LORD will fulfill his purpose for me.[^138-8] LORD, your faithful love endures forever; do not abandon the works of your hands.
 
 [^138-1]: *Of David*: or "for David", "about David". In the Hebrew text the title is part of verse 1. In this psalm it shares the verse with the first line, so the verse numbers match English Bibles. Psalms 138–145 all have David's name in their titles.
 [^138-2]: Hebrew *elohim*, which can mean "God", "gods" or "heavenly beings". Here probably the gods of the nations, or the heavenly beings around God's throne. The Septuagint reads "before the angels".
 [^138-3]: Hebrew *chesed*: loyal, faithful love. Also in verse 8.
 [^138-4]: Literally "for you have made great your promise (*imrah*) above all your name". The Hebrew is difficult. Perhaps "you have done even more than you promised", or "you have exalted your name and your promise above everything".
 [^138-5]: Literally "you made me bold in my soul (*nephesh*), strength".
-[^138-6]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^138-6]: *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles.
 [^138-7]: Or "for they have heard".
-[^138-8]: Literally "Yahweh will complete (it) on my behalf".
+[^138-8]: Literally "The LORD will complete (it) on my behalf".
 
 ## Chapter 139
 
 *Status: draft*
 
-**1** For the director. Of David. A psalm.[^139-1] Yahweh,[^139-2] you have searched me and you know me.
+**1** For the director. Of David. A psalm.[^139-1] LORD,[^139-2] you have searched me and you know me.
 
 **2** You know when I sit down and when I rise up; you understand my thoughts from far away.
 
 **3** You sift[^139-3] my path and my lying down; you are familiar with all my ways.
 
-**4** Even before a word is on my tongue, look, Yahweh, you know it completely.[^139-4]
+**4** Even before a word is on my tongue, look, LORD, you know it completely.[^139-4]
 
 **5** You hem me in behind and before; you have laid your hand on me.
 
@@ -7128,7 +7128,7 @@
 
 **20** They speak of you with evil intent; your enemies take your name in vain.[^139-20]
 
-**21** Do I not hate those who hate you, Yahweh? Do I not loathe those who rise up against you?
+**21** Do I not hate those who hate you, LORD? Do I not loathe those who rise up against you?
 
 **22** I hate them with complete hatred; they have become my enemies.
 
@@ -7137,9 +7137,9 @@
 **24** See if there is any hurtful way in me,[^139-21] and lead me in the everlasting way.[^139-22]
 
 [^139-1]: *For the director*: Hebrew *lamenatseach*, probably the leader of the temple music. *Of David*: or "for David", "about David". In the Hebrew text the title is part of verse 1. In this psalm it shares the verse with the first line, so the verse numbers match English Bibles.
-[^139-2]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^139-2]: *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles.
 [^139-3]: Or "measure", "examine". Hebrew *zerita*, perhaps from the verb for winnowing grain.
-[^139-4]: Literally "For there is not a word on my tongue, (but) look, Yahweh, you know all of it."
+[^139-4]: Literally "For there is not a word on my tongue, (but) look, LORD, you know all of it."
 [^139-5]: Or "your spirit", "your breath". Hebrew *ruach*.
 [^139-6]: Hebrew *Sheol*, the realm of the dead.
 [^139-7]: That is, the far west. The dawn is in the east, and the sea, the Mediterranean, in the west.
@@ -7155,7 +7155,7 @@
 [^139-17]: Some scholars read "I come to the end (of them)", with a small change to the Hebrew.
 [^139-18]: Hebrew *Eloah*, a poetic word for God.
 [^139-19]: Literally "men of blood", that is, murderers.
-[^139-20]: Literally "they lift up to falsehood, your enemies", echoing the command not to misuse Yahweh's name (Exodus 20:7). *Your enemies*: Hebrew *arekha*, a rare word, probably from Aramaic; it usually means "your cities".
+[^139-20]: Literally "they lift up to falsehood, your enemies", echoing the command not to misuse the LORD's name (Exodus 20:7). *Your enemies*: Hebrew *arekha*, a rare word, probably from Aramaic; it usually means "your cities".
 [^139-21]: Or "any way of pain", "any idolatrous way". Hebrew *otsev* can mean "pain" or "idol".
 [^139-22]: Or "the ancient way", the way of old.
 
@@ -7165,21 +7165,21 @@
 
 **1** For the director. A psalm of David.[^140-1]
 
-**2** Rescue me, Yahweh,[^140-2] from evil people;[^140-3] guard me from the violent,
+**2** Rescue me, LORD,[^140-2] from evil people;[^140-3] guard me from the violent,
 
 **3** who plan evil things in their hearts and stir up wars every day.
 
 **4** They sharpen their tongues like a serpent's; the venom of vipers is under their lips.[^140-4] Selah.[^140-5]
 
-**5** Keep me, Yahweh, from the hands of the wicked; guard me from the violent, who plan to trip up my feet.
+**5** Keep me, LORD, from the hands of the wicked; guard me from the violent, who plan to trip up my feet.
 
 **6** The arrogant have hidden a trap for me, and cords; they have spread a net beside the path; they have set snares for me. Selah.
 
-**7** I say to Yahweh, "You are my God." Listen, Yahweh, to my voice as I plead for mercy.
+**7** I say to the LORD, "You are my God." Listen, LORD, to my voice as I plead for mercy.
 
-**8** Yahweh the Lord, my strong salvation,[^140-6] you shield my head on the day of battle.
+**8** GOD the Lord, my strong salvation,[^140-6] you shield my head on the day of battle.
 
-**9** Do not grant, Yahweh, the desires of the wicked; do not let their schemes succeed, or they will be exalted. Selah.
+**9** Do not grant, LORD, the desires of the wicked; do not let their schemes succeed, or they will be exalted. Selah.
 
 **10** As for the heads of those who surround me,[^140-7] may the trouble their own lips cause cover them.
 
@@ -7187,16 +7187,16 @@
 
 **12** Do not let a slanderer[^140-10] be established in the land; may evil hunt down the violent with blow upon blow.[^140-11]
 
-**13** I know[^140-12] that Yahweh upholds the cause of the afflicted, and justice for the needy.
+**13** I know[^140-12] that the LORD upholds the cause of the afflicted, and justice for the needy.
 
 **14** Surely the righteous will give thanks to your name; the upright will live in your presence.
 
 [^140-1]: *For the director*: Hebrew *lamenatseach*, probably the leader of the temple music. *Of David*: or "for David", "about David". In the Hebrew text the title is verse 1, so verses 2–14 are 140:1–13 in most English Bibles.
-[^140-2]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^140-2]: *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles.
 [^140-3]: Literally "from an evil human being (*adam*); from a man of violence". Also in verse 5.
 [^140-4]: Romans 3:13 quotes this line.
 [^140-5]: Hebrew *selah*, a musical or liturgical term of uncertain meaning. Also in verses 6 and 9.
-[^140-6]: Literally "the strength of my salvation".
+[^140-6]: Literally "the strength of my salvation". *GOD the Lord*: Hebrew *YHWH Adonai*. Next to "Lord", God's personal name is written GOD in capitals, as in most English Bibles.
 [^140-7]: Literally "The head of those who surround me". Or, joining the word to the end of verse 9, "they lift up their heads".
 [^140-8]: The Hebrew text is written "May they bring down burning coals on them" but read "May burning coals fall on them". *May they be thrown*: literally "may he make them fall".
 [^140-9]: Hebrew *mahamorot*, a word found only here, perhaps "pits of water" or "deep pits".
@@ -7208,11 +7208,11 @@
 
 *Status: draft*
 
-**1** A psalm of David.[^141-1] Yahweh,[^141-2] I call to you; come quickly to me. Listen to my voice when I call to you.
+**1** A psalm of David.[^141-1] LORD,[^141-2] I call to you; come quickly to me. Listen to my voice when I call to you.
 
 **2** May my prayer be set before you like incense, the lifting up of my hands like the evening offering.[^141-3]
 
-**3** Set a guard, Yahweh, over my mouth; keep watch over the door of my lips.
+**3** Set a guard, LORD, over my mouth; keep watch over the door of my lips.
 
 **4** Do not let my heart turn to anything evil, to do wicked deeds with those who are evildoers; do not let me eat of their delicacies.
 
@@ -7222,20 +7222,20 @@
 
 **7** As when one plows and breaks up the ground, our bones are scattered at the mouth of Sheol.[^141-7]
 
-**8** But my eyes are on you, Yahweh the Lord; in you I take refuge; do not pour out my life.[^141-8]
+**8** But my eyes are on you, GOD the Lord; in you I take refuge; do not pour out my life.[^141-8]
 
 **9** Keep me from the trap they have laid for me,[^141-9] and from the snares of the evildoers.
 
 **10** Let the wicked fall into their own nets,[^141-10] while I pass by safely.
 
 [^141-1]: *Of David*: or "for David", "about David". In the Hebrew text the title is part of verse 1. In this psalm it shares the verse with the first line, so the verse numbers match English Bibles.
-[^141-2]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^141-2]: *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles.
 [^141-3]: Hebrew *minchah*, often the grain offering (Leviticus 2), but also any gift or offering. Incense was offered morning and evening (Exodus 30:7–8), and an offering was made each evening (Exodus 29:39–41; 2 Kings 16:15).
 [^141-4]: Hebrew *chesed*: loyal, faithful love; here, a kindness. Or "Let a righteous person strike me in faithful love and rebuke me", or "If a righteous person strikes me, it is a kindness".
 [^141-5]: Literally "for still, and my prayer in their evils". The Hebrew of verses 5–7 is very difficult, and every rendering of them is uncertain. Or "my prayer continues even in their troubles".
 [^141-6]: Literally "into the hands of the rock". Or "When their judges are handed over to the rock".
 [^141-7]: Hebrew *Sheol*, the realm of the dead.
-[^141-8]: Hebrew *nephesh*: soul, life, self. Or "do not leave me defenseless". Compare Isaiah 53:12, "he poured out his life to death".
+[^141-8]: Hebrew *nephesh*: soul, life, self. Or "do not leave me defenseless". Compare Isaiah 53:12, "he poured out his life to death". *GOD the Lord*: Hebrew *YHWH Adonai*. Next to "Lord", God's personal name is written GOD in capitals, as in most English Bibles.
 [^141-9]: Literally "from the hands of the trap they have set for me".
 [^141-10]: Literally "into his nets", perhaps God's nets, or each into his own.
 
@@ -7245,7 +7245,7 @@
 
 **1** A maskil of David, when he was in the cave. A prayer.[^142-1]
 
-**2** With my voice I cry out to Yahweh;[^142-2] with my voice I plead with Yahweh for mercy.
+**2** With my voice I cry out to the LORD;[^142-2] with my voice I plead with the LORD for mercy.
 
 **3** I pour out my complaint before him; I tell him of my trouble.
 
@@ -7253,14 +7253,14 @@
 
 **5** Look to my right and see: there is no one who takes notice of me.[^142-3] I have no refuge;[^142-4] no one cares for my life.[^142-5]
 
-**6** I cry out to you, Yahweh; I say, "You are my refuge, my portion in the land of the living."
+**6** I cry out to you, LORD; I say, "You are my refuge, my portion in the land of the living."
 
 **7** Listen to my cry, for I am brought very low. Rescue me from my persecutors, for they are too strong for me.
 
 **8** Bring me out of prison,[^142-6] so that I may give thanks to your name. The righteous will gather around me,[^142-7] for you will deal generously with me.
 
 [^142-1]: *Maskil*: a term of uncertain meaning, perhaps "a skillful psalm" or "a psalm of instruction". *Of David*: or "for David", "about David". *In the cave*: David hid from Saul in the cave of Adullam (1 Samuel 22:1) and in a cave near En-gedi (1 Samuel 24:4, 24:3 in most English Bibles); compare the title of Psalm 57. In the Hebrew text the title is verse 1, so verses 2–8 are 142:1–7 in most English Bibles.
-[^142-2]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^142-2]: *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles.
 [^142-3]: An advocate or protector stood at a person's right hand (compare 16:8; 109:31; 110:5).
 [^142-4]: Literally "Refuge has perished from me".
 [^142-5]: Hebrew *nephesh*: soul, life, self. Also in verse 8.
@@ -7271,7 +7271,7 @@
 
 *Status: draft*
 
-**1** A psalm of David.[^143-1] Yahweh,[^143-2] hear my prayer; listen to my pleas for mercy. In your faithfulness answer me, in your righteousness.
+**1** A psalm of David.[^143-1] LORD,[^143-2] hear my prayer; listen to my pleas for mercy. In your faithfulness answer me, in your righteousness.
 
 **2** Do not bring your servant into judgment, for no one living is righteous before you.[^143-3]
 
@@ -7283,20 +7283,20 @@
 
 **6** I spread out my hands to you; my soul thirsts for you like a parched land.[^143-6] Selah.[^143-7]
 
-**7** Answer me quickly, Yahweh; my spirit fails. Do not hide your face from me, or I will be like those who go down to the pit.
+**7** Answer me quickly, LORD; my spirit fails. Do not hide your face from me, or I will be like those who go down to the pit.
 
 **8** Let me hear of your faithful love[^143-8] in the morning, for in you I trust. Make me know the way I should go, for to you I lift up my soul.
 
-**9** Rescue me from my enemies, Yahweh; I hide myself in you.[^143-9]
+**9** Rescue me from my enemies, LORD; I hide myself in you.[^143-9]
 
 **10** Teach me to do your will, for you are my God. May your good Spirit[^143-10] lead me on level ground.
 
-**11** For the sake of your name, Yahweh, give me life; in your righteousness bring me[^143-11] out of trouble.
+**11** For the sake of your name, LORD, give me life; in your righteousness bring me[^143-11] out of trouble.
 
 **12** In your faithful love, destroy my enemies, and wipe out all my adversaries,[^143-12] for I am your servant.
 
 [^143-1]: *Of David*: or "for David", "about David". In the Hebrew text the title is part of verse 1. In this psalm it shares the verse with the first line, so the verse numbers match English Bibles.
-[^143-2]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^143-2]: *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles.
 [^143-3]: Or "for no one living will be found in the right before you". Paul echoes this line in Romans 3:20 and Galatians 2:16.
 [^143-4]: Hebrew *nephesh*: soul, life, self. Also in verses 6 and 8.
 [^143-5]: Literally "like the dead of long ago". Compare Lamentations 3:6.
@@ -7312,15 +7312,15 @@
 
 *Status: draft*
 
-**1** Of David.[^144-1] Blessed be Yahweh,[^144-2] my rock, who trains my hands for war, my fingers for battle,
+**1** Of David.[^144-1] Blessed be the LORD,[^144-2] my rock, who trains my hands for war, my fingers for battle,
 
 **2** my faithful love[^144-3] and my fortress, my stronghold and my deliverer, my shield, in whom I take refuge, who subdues my people under me.[^144-4]
 
-**3** Yahweh, what is a human being, that you take notice of him, a son of man,[^144-5] that you think of him?
+**3** LORD, what is a human being, that you take notice of him, a son of man,[^144-5] that you think of him?
 
 **4** A human being is like a breath;[^144-6] his days are like a passing shadow.
 
-**5** Yahweh, bend your heavens and come down; touch the mountains, so that they smoke.
+**5** LORD, bend your heavens and come down; touch the mountains, so that they smoke.
 
 **6** Flash out lightning and scatter them; send out your arrows and throw them into confusion.
 
@@ -7340,10 +7340,10 @@
 
 **14** May our cattle be heavy with young;[^144-11] may there be no breach in the walls, no going into exile,[^144-12] and no cry of distress in our streets.
 
-**15** Happy[^144-13] are the people for whom it is so; happy are the people whose God is Yahweh!
+**15** Happy[^144-13] are the people for whom it is so; happy are the people whose God is the LORD!
 
 [^144-1]: *Of David*: or "for David", "about David". In the Hebrew text the title is part of verse 1. In this psalm it shares the verse with the first line, so the verse numbers match English Bibles. Verses 1–11 draw on many lines of Psalm 18 (compare 18:3, 10, 15, 17, 35, 48; 18:2, 9, 14, 16, 34, 47 in most English Bibles).
-[^144-2]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^144-2]: *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles.
 [^144-3]: Hebrew *chasdi*, "my *chesed*" (loyal, faithful love): the God who shows me faithful love.
 [^144-4]: Some Hebrew manuscripts read "who subdues peoples under me", as in 18:48 (18:47 in most English Bibles).
 [^144-5]: Literally "a son of *enosh* (mortal)". Compare 8:5 (8:4 in most English Bibles).
@@ -7364,7 +7364,7 @@
 
 **2** Every day I will bless you and praise your name forever and ever.
 
-**3** Great is Yahweh,[^145-3] and most worthy of praise; his greatness is beyond searching out.
+**3** Great is the LORD,[^145-3] and most worthy of praise; his greatness is beyond searching out.
 
 **4** One generation will commend your works to another; they will tell of your mighty acts.
 
@@ -7374,11 +7374,11 @@
 
 **7** They will pour out the memory of your abundant goodness[^145-6] and sing joyfully of your righteousness.
 
-**8** Yahweh is gracious and compassionate, slow to anger and great in faithful love.[^145-7]
+**8** The LORD is gracious and compassionate, slow to anger and great in faithful love.[^145-7]
 
-**9** Yahweh is good to all, and his compassion is over all that he has made.
+**9** The LORD is good to all, and his compassion is over all that he has made.
 
-**10** All your works will give thanks to you, Yahweh, and your faithful ones[^145-8] will bless you.
+**10** All your works will give thanks to you, LORD, and your faithful ones[^145-8] will bless you.
 
 **11** They will speak of the glory of your kingdom and talk of your might,
 
@@ -7386,25 +7386,25 @@
 
 **13** Your kingdom is an everlasting kingdom, and your dominion endures through all generations.[^145-10]
 
-**14** Yahweh upholds all who fall, and raises up all who are bowed down.
+**14** The LORD upholds all who fall, and raises up all who are bowed down.
 
 **15** The eyes of all look to you, and you give them their food at the proper time.
 
 **16** You open your hand and satisfy the desire of every living thing.
 
-**17** Yahweh is righteous in all his ways and faithful[^145-11] in all his deeds.
+**17** The LORD is righteous in all his ways and faithful[^145-11] in all his deeds.
 
-**18** Yahweh is near to all who call on him, to all who call on him in truth.
+**18** The LORD is near to all who call on him, to all who call on him in truth.
 
 **19** He fulfills the desire of those who fear him; he hears their cry and saves them.
 
-**20** Yahweh watches over all who love him, but all the wicked he will destroy.
+**20** The LORD watches over all who love him, but all the wicked he will destroy.
 
-**21** My mouth will speak the praise of Yahweh, and let every creature[^145-12] bless his holy name forever and ever.
+**21** My mouth will speak the praise of the LORD, and let every creature[^145-12] bless his holy name forever and ever.
 
 [^145-1]: *A song of praise*: Hebrew *tehillah*, "praise", the word that gives the book its Hebrew name, *Tehillim*, "Praises". This is the only psalm with this title. *Of David*: or "for David", "about David". In the Hebrew text the title is part of verse 1. In this psalm it shares the verse with the first line, so the verse numbers match English Bibles.
 [^145-2]: Psalm 145 is an acrostic: in the Hebrew, each verse begins with the next letter of the alphabet, from *aleph* (verse 1) to *tav* (verse 21). There is no verse for *nun* (see the note on verse 13).
-[^145-3]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^145-3]: *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles.
 [^145-4]: Literally "the words (or matters) of your wonders".
 [^145-5]: The Hebrew text is written "your great deeds" but read "your greatness".
 [^145-6]: That is, tell of it eagerly, like water bubbling from a spring. Literally "They will pour out the memory of the abundance of your goodness".
@@ -7419,28 +7419,28 @@
 
 *Status: draft*
 
-**1** Praise Yah![^146-1] Praise Yahweh,[^146-2] my soul![^146-3]
+**1** Praise the LORD![^146-1] Praise the LORD,[^146-2] my soul![^146-3]
 
-**2** I will praise Yahweh as long as I live; I will sing praises to my God while I have being.[^146-4]
+**2** I will praise the LORD as long as I live; I will sing praises to my God while I have being.[^146-4]
 
 **3** Do not put your trust in nobles, in a mortal,[^146-5] who cannot save.
 
 **4** When his breath departs, he returns to his ground;[^146-6] on that very day his plans perish.
 
-**5** Happy[^146-7] is the one whose help is the God of Jacob, whose hope is in Yahweh his God,
+**5** Happy[^146-7] is the one whose help is the God of Jacob, whose hope is in the LORD his God,
 
 **6** the maker of heaven and earth, the sea, and all that is in them, who keeps faith forever,[^146-8]
 
-**7** who brings about justice for the oppressed, who gives food to the hungry. Yahweh sets the prisoners free;
+**7** who brings about justice for the oppressed, who gives food to the hungry. The LORD sets the prisoners free;
 
-**8** Yahweh opens the eyes of the blind; Yahweh raises up those who are bowed down; Yahweh loves the righteous.
+**8** the LORD opens the eyes of the blind; the LORD raises up those who are bowed down; the LORD loves the righteous.
 
-**9** Yahweh watches over the foreigners;[^146-9] he upholds the orphan and the widow, but he twists the way of the wicked.[^146-10]
+**9** The LORD watches over the foreigners;[^146-9] he upholds the orphan and the widow, but he twists the way of the wicked.[^146-10]
 
-**10** Yahweh will reign forever, your God, Zion, from generation to generation. Praise Yah!
+**10** The LORD will reign forever, your God, Zion, from generation to generation. Praise the LORD!
 
-[^146-1]: Hebrew *hallelu-yah*, "praise Yah", the source of the word "Hallelujah". *Yah* is a short form of the name Yahweh. Also at the end of verse 10. Each of the last five psalms (146–150) begins and ends with this call.
-[^146-2]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^146-1]: Hebrew *hallelu-yah*, "praise Yah", the source of the word "Hallelujah". *Yah* is a short form of the name YHWH. Also at the end of verse 10. Each of the last five psalms (146–150) begins and ends with this call.
+[^146-2]: *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles.
 [^146-3]: Hebrew *nephesh*: soul, life, self. The psalmist speaks to his own soul, as in 103:1 and 104:1.
 [^146-4]: Literally "while I am still".
 [^146-5]: Literally "in a son of *adam* (humankind)".
@@ -7454,9 +7454,9 @@
 
 *Status: draft*
 
-**1** Praise Yah![^147-1] For it is good to sing praises to our God; for it is pleasant, and praise is fitting.
+**1** Praise the LORD![^147-1] For it is good to sing praises to our God; for it is pleasant, and praise is fitting.
 
-**2** Yahweh[^147-2] builds up Jerusalem; he gathers the outcasts of Israel.[^147-3]
+**2** The LORD[^147-2] builds up Jerusalem; he gathers the outcasts of Israel.[^147-3]
 
 **3** He heals the brokenhearted and binds up their wounds.
 
@@ -7464,9 +7464,9 @@
 
 **5** Great is our Lord, and abundant in power; his understanding is beyond measure.[^147-5]
 
-**6** Yahweh lifts up the humble; he casts the wicked down to the ground.
+**6** The LORD lifts up the humble; he casts the wicked down to the ground.
 
-**7** Sing to Yahweh with thanksgiving; make music to our God on the lyre.
+**7** Sing to the LORD with thanksgiving; make music to our God on the lyre.
 
 **8** He covers the heavens with clouds; he prepares rain for the earth; he makes grass grow on the mountains.[^147-6]
 
@@ -7474,9 +7474,9 @@
 
 **10** He takes no delight in the strength of the horse, no pleasure in the legs of a warrior.[^147-7]
 
-**11** Yahweh takes pleasure in those who fear him, in those who hope in his faithful love.[^147-8]
+**11** The LORD takes pleasure in those who fear him, in those who hope in his faithful love.[^147-8]
 
-**12** Extol Yahweh, Jerusalem! Praise your God, Zion![^147-9]
+**12** Extol the LORD, Jerusalem! Praise your God, Zion![^147-9]
 
 **13** For he has strengthened the bars of your gates; he has blessed your children within you.
 
@@ -7492,10 +7492,10 @@
 
 **19** He declares his words[^147-12] to Jacob, his decrees and his rulings to Israel.
 
-**20** He has not done this for any other nation; they do not know his rulings. Praise Yah!
+**20** He has not done this for any other nation; they do not know his rulings. Praise the LORD!
 
-[^147-1]: Hebrew *hallelu-yah*, "praise Yah", the source of the word "Hallelujah". *Yah* is a short form of the name Yahweh. Also at the end of verse 20.
-[^147-2]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^147-1]: Hebrew *hallelu-yah*, "praise Yah", the source of the word "Hallelujah". *Yah* is a short form of the name YHWH. Also at the end of verse 20.
+[^147-2]: *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles.
 [^147-3]: That is, the exiles who had been scattered (compare Isaiah 11:12; 56:8).
 [^147-4]: Literally "he calls names to all of them". Compare Isaiah 40:26.
 [^147-5]: Literally "there is no number to his understanding".
@@ -7511,7 +7511,7 @@
 
 *Status: draft*
 
-**1** Praise Yah![^148-1] Praise Yahweh[^148-2] from the heavens; praise him in the heights!
+**1** Praise the LORD![^148-1] Praise the LORD[^148-2] from the heavens; praise him in the heights!
 
 **2** Praise him, all his angels; praise him, all his armies![^148-3]
 
@@ -7519,11 +7519,11 @@
 
 **4** Praise him, you highest heavens,[^148-4] and you waters above the heavens!
 
-**5** Let them praise the name of Yahweh, for he commanded, and they were created.
+**5** Let them praise the name of the LORD, for he commanded, and they were created.
 
 **6** He established them forever and ever; he gave a decree that will not pass away.[^148-5]
 
-**7** Praise Yahweh from the earth, you sea monsters[^148-6] and all the depths,
+**7** Praise the LORD from the earth, you sea monsters[^148-6] and all the depths,
 
 **8** fire and hail, snow and mist,[^148-7] stormy wind that carries out his word,
 
@@ -7535,13 +7535,13 @@
 
 **12** young men and young women alike, old and young together.
 
-**13** Let them praise the name of Yahweh, for his name alone is exalted; his splendor is above the earth and the heavens.
+**13** Let them praise the name of the LORD, for his name alone is exalted; his splendor is above the earth and the heavens.
 
-**14** He has raised up a horn[^148-9] for his people, praise for all his faithful ones,[^148-10] for the Israelites, the people close to him. Praise Yah!
+**14** He has raised up a horn[^148-9] for his people, praise for all his faithful ones,[^148-10] for the Israelites, the people close to him. Praise the LORD!
 
-[^148-1]: Hebrew *hallelu-yah*, "praise Yah", the source of the word "Hallelujah". *Yah* is a short form of the name Yahweh. Also at the end of verse 14.
-[^148-2]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
-[^148-3]: The heavenly hosts (compare "Yahweh of Armies", 24:10). The Hebrew text is written "his army" but read "his armies".
+[^148-1]: Hebrew *hallelu-yah*, "praise Yah", the source of the word "Hallelujah". *Yah* is a short form of the name YHWH. Also at the end of verse 14.
+[^148-2]: *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles.
+[^148-3]: The heavenly hosts (compare "the LORD of Armies", 24:10). The Hebrew text is written "his army" but read "his armies".
 [^148-4]: Literally "heavens of the heavens". *The waters above the heavens*: compare Genesis 1:7.
 [^148-5]: Or "a decree that they will not transgress". Compare Jeremiah 31:35–36; 33:25.
 [^148-6]: Hebrew *tanninim*, the great creatures of the sea (Genesis 1:21).
@@ -7554,13 +7554,13 @@
 
 *Status: draft*
 
-**1** Praise Yah![^149-1] Sing to Yahweh[^149-2] a new song, his praise in the assembly of the faithful.[^149-3]
+**1** Praise the LORD![^149-1] Sing to the LORD[^149-2] a new song, his praise in the assembly of the faithful.[^149-3]
 
 **2** Let Israel rejoice in their Maker; let the people of Zion[^149-4] be glad in their King.
 
 **3** Let them praise his name with dancing; let them make music to him with tambourine and lyre.
 
-**4** For Yahweh takes pleasure in his people; he crowns the humble with salvation.[^149-5]
+**4** For the LORD takes pleasure in his people; he crowns the humble with salvation.[^149-5]
 
 **5** Let the faithful exult in glory; let them sing for joy on their beds.[^149-6]
 
@@ -7570,10 +7570,10 @@
 
 **8** to bind their kings with chains, and their nobles with fetters of iron,
 
-**9** to carry out on them the judgment written.[^149-7] This is the honor of all his faithful ones. Praise Yah!
+**9** to carry out on them the judgment written.[^149-7] This is the honor of all his faithful ones. Praise the LORD!
 
-[^149-1]: Hebrew *hallelu-yah*, "praise Yah", the source of the word "Hallelujah". *Yah* is a short form of the name Yahweh. Also at the end of verse 9.
-[^149-2]: *Yahweh*: God's personal name (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.
+[^149-1]: Hebrew *hallelu-yah*, "praise Yah", the source of the word "Hallelujah". *Yah* is a short form of the name YHWH. Also at the end of verse 9.
+[^149-2]: *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles.
 [^149-3]: Hebrew *chasidim*, "the faithful, the loyal", related to *chesed*, "faithful love". Also in verses 5 and 9.
 [^149-4]: Literally "the sons of Zion".
 [^149-5]: Or "he adorns the humble with victory".
@@ -7584,7 +7584,7 @@
 
 *Status: draft*
 
-**1** Praise Yah![^150-1] Praise God in his sanctuary;[^150-2] praise him in the mighty dome of the sky![^150-3]
+**1** Praise the LORD![^150-1] Praise God in his sanctuary;[^150-2] praise him in the mighty dome of the sky![^150-3]
 
 **2** Praise him for his mighty deeds; praise him for his surpassing greatness![^150-4]
 
@@ -7594,9 +7594,9 @@
 
 **5** Praise him with clashing cymbals; praise him with resounding cymbals![^150-6]
 
-**6** Let everything that has breath praise Yah! Praise Yah![^150-7]
+**6** Let everything that has breath praise the LORD! Praise the LORD![^150-7]
 
-[^150-1]: Hebrew *hallelu-yah*, "praise Yah", the source of the word "Hallelujah". *Yah* is a short form of the name Yahweh. Also at the end of verse 6.
+[^150-1]: Hebrew *hallelu-yah*, "praise Yah", the source of the word "Hallelujah". *Yah* is a short form of the name YHWH. Also at the end of verse 6.
 [^150-2]: Or "in his holiness". Hebrew *qodesh*, "holiness, holy place": the temple on earth, or God's dwelling in heaven.
 [^150-3]: Literally "in the dome of his strength". Hebrew *raqia*, the sky pictured as a solid vault (Genesis 1:6–8; see 19:2).
 [^150-4]: Literally "according to the abundance of his greatness".

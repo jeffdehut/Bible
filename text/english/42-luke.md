@@ -175,7 +175,7 @@
 [^1-6]: Herod the Great, who ruled Judea as king under Rome from 37 to 4 BC.
 [^1-7]: The priests were divided into twenty-four divisions, which took turns serving in the temple. Abijah was the eighth (1 Chronicles 24:10).
 [^1-8]: Literally "from the daughters of Aaron", that is, from a priestly family.
-[^1-9]: Greek *kyrios*. In Luke 1–2, as in the Greek Old Testament, "the Lord" usually means God, standing for the divine name Yahweh.
+[^1-9]: Greek *kyrios*. In Luke 1–2, as in the Greek Old Testament, "the Lord" usually means God, standing for God's personal name, YHWH ("the LORD").
 [^1-10]: Literally "advanced in their days"; also in verse 18.
 [^1-11]: Greek *naos*, the sanctuary building itself, as distinct from the temple courts where the people stood (verse 10); also in verses 21–22.
 [^1-12]: Compare Numbers 6:3; Judges 13:4.
@@ -190,7 +190,7 @@
 [^1-21]: *Greetings*: Greek *chaire*, the usual greeting, literally "Rejoice!" *Highly favored*: or "graced", from *charis*, "grace, favor".
 [^1-22]: Many manuscripts add "Blessed are you among women."
 [^1-23]: Many manuscripts read "When she saw him, she was greatly troubled at his words".
-[^1-24]: Greek *Iesous*, the Greek form of the Hebrew name Joshua, which means "Yahweh saves".
+[^1-24]: Greek *Iesous*, the Greek form of the Hebrew name Joshua, which means "The LORD saves".
 [^1-25]: Literally "his father David".
 [^1-26]: Literally "since I do not know a man", a Hebrew way of speaking of sexual relations.
 [^1-27]: Or "So the holy child to be born will be called the Son of God."
@@ -204,7 +204,7 @@
 [^1-35]: Literally "had magnified his mercy with her".
 [^1-36]: The Greek has no verb for the tongue: literally "his mouth was opened, and his tongue".
 [^1-37]: Literally "laid them up in their heart".
-[^1-38]: Compare Psalm 41:14 (41:13 in most English Bibles); 72:18; 106:48. In the Hebrew, "the Lord" is God's personal name, Yahweh. Zechariah's song (verses 68–79) is known as the Benedictus, from its first word in Latin.
+[^1-38]: Compare Psalm 41:14 (41:13 in most English Bibles); 72:18; 106:48. In the Hebrew, "the Lord" is God's personal name, YHWH ("the LORD"). Zechariah's song (verses 68–79) is known as the Benedictus, from its first word in Latin.
 [^1-39]: Literally "visited", in the sense of coming to look after (Genesis 50:24; Exodus 4:31); also in verse 78.
 [^1-40]: The horn is a picture of strength: a mighty savior. Compare Psalm 18:3 (18:2 in most English Bibles); 132:17.
 [^1-41]: Compare Malachi 3:1; Isaiah 40:3.
@@ -335,7 +335,7 @@
 [^2-11]: Traditionally "the heavenly host", the angels as God's army.
 [^2-12]: Literally "among people of good pleasure", that is, people on whom God's favor rests. Many manuscripts read "and on earth peace, goodwill among people". In Greek the difference is a single letter (*eudokias*, *eudokia*).
 [^2-13]: The Law of Moses set a time of purification for a mother after childbirth (Leviticus 12:1–8). The Greek says "their purification".
-[^2-14]: Exodus 13:2, 12. In the Hebrew, "the Lord" is God's personal name, Yahweh.
+[^2-14]: Exodus 13:2, 12. In the Hebrew, "the Lord" is God's personal name, YHWH ("the LORD").
 [^2-15]: Leviticus 12:8, the offering of a mother who could not afford a lamb.
 [^2-16]: That is, the time when God would comfort his people (Isaiah 40:1; 49:13).
 [^2-17]: Or "the Lord's Anointed". Greek *christos*.
@@ -442,7 +442,7 @@
 [^3-4]: Literally "in the time of the high priest Annas and Caiaphas". Annas was high priest from AD 6 to 15, and his son-in-law Caiaphas from about AD 18 to 36 (John 18:13). Annas kept great influence and is still called high priest in Acts 4:6.
 [^3-5]: A baptism expressing a change of heart and life. Greek *metanoia*, a turning around of mind and life.
 [^3-6]: Literally "all flesh".
-[^3-7]: Isaiah 40:3–5, following the Greek translation. In the Hebrew, "the Lord" is God's personal name, Yahweh. Where verse 6 has "and all people will see the salvation of God", the Hebrew reads "Then the glory of Yahweh will be revealed, and all people will see it together."
+[^3-7]: Isaiah 40:3–5, following the Greek translation. In the Hebrew, "the Lord" is God's personal name, YHWH ("the LORD"). Where verse 6 has "and all people will see the salvation of God", the Hebrew reads "Then the glory of the LORD will be revealed, and all people will see it together."
 [^3-8]: Literally "offspring of vipers".
 [^3-9]: Literally "fruits worthy of repentance".
 [^3-10]: A wooden fork for tossing threshed grain into the air, so that the wind would blow the chaff away.
@@ -557,12 +557,12 @@
 [^4-3]: Many manuscripts read "Then the devil led him up on a high mountain and in an instant showed him all the kingdoms of the world."
 [^4-4]: Literally "worship before me".
 [^4-5]: Many manuscripts add "Get behind me, Satan!"
-[^4-6]: Deuteronomy 6:13. In the Hebrew, "the Lord" is God's personal name, Yahweh. The Hebrew reads "Fear" where Luke has "Worship", and does not have "only".
+[^4-6]: Deuteronomy 6:13. In the Hebrew, "the Lord" is God's personal name, YHWH ("the LORD"). The Hebrew reads "Fear" where Luke has "Worship", and does not have "only".
 [^4-7]: Literally "the little wing", perhaps a corner of the temple walls high above the valley.
 [^4-8]: Psalm 91:11–12, leaving out "in all your ways".
-[^4-9]: Deuteronomy 6:16. In the Hebrew, "the Lord" is God's personal name, Yahweh.
+[^4-9]: Deuteronomy 6:16. In the Hebrew, "the Lord" is God's personal name, YHWH ("the LORD").
 [^4-10]: Many manuscripts add "to heal the brokenhearted".
-[^4-11]: Isaiah 61:1–2, mostly following the Greek translation, with "to set the oppressed free" from 58:6. In the Hebrew, "the Lord" is God's personal name, Yahweh. The Hebrew also has "to bind up the brokenhearted" after "He has sent me", and where Luke has "recovery of sight for the blind", it has "release for the prisoners". The reading stops before Isaiah's next words, "and the day of vengeance of our God".
+[^4-11]: Isaiah 61:1–2, mostly following the Greek translation, with "to set the oppressed free" from 58:6. In the Hebrew, "the Lord" is God's personal name, YHWH ("the LORD"). The Hebrew also has "to bind up the brokenhearted" after "He has sent me", and where Luke has "recovery of sight for the blind", it has "release for the prisoners". The reading stops before Isaiah's next words, "and the day of vengeance of our God".
 [^4-12]: Or "testified about him".
 [^4-13]: Greek *dektos*, the word translated "favor" in verse 19.
 [^4-14]: 1 Kings 17:1–16; 18:1.
@@ -1301,7 +1301,7 @@
 [^10-6]: Many manuscripts read "Jesus rejoiced in spirit".
 [^10-7]: Many manuscripts begin the verse "And turning to the disciples, he said, 'All things …'"
 [^10-8]: Greek *nomikos*, an expert in the Law of Moses.
-[^10-9]: Deuteronomy 6:5, where the Hebrew reads "with all your heart, with all your soul, and with all your strength". In the Hebrew, "the Lord" is God's personal name, Yahweh.
+[^10-9]: Deuteronomy 6:5, where the Hebrew reads "with all your heart, with all your soul, and with all your strength". In the Hebrew, "the Lord" is God's personal name, YHWH ("the LORD").
 [^10-10]: Leviticus 19:18.
 [^10-11]: Compare Leviticus 18:5.
 [^10-12]: Literally "wanting to justify himself". Greek *dikaioo*, traditionally "justify".
@@ -1695,7 +1695,7 @@
 [^13-17]: Many manuscripts read "On that very day".
 [^13-18]: Or "I will be finished", "I will be made complete". Greek *teleioumai*.
 [^13-19]: Or "is abandoned to you". *Your house* may mean the temple or the city; compare Jeremiah 12:7; 22:5. Many manuscripts add "desolate".
-[^13-20]: Psalm 118:26. In the Hebrew, "the Lord" is God's personal name, Yahweh.
+[^13-20]: Psalm 118:26. In the Hebrew, "the Lord" is God's personal name, YHWH ("the LORD").
 
 ## Chapter 14
 
@@ -2257,7 +2257,7 @@
 [^19-6]: A mina was worth about a hundred days' wages for a laborer.
 [^19-7]: Or "the hill called Olivet". Greek *Elaion*, "olives" or "olive grove".
 [^19-8]: Or "Its master"; also in verse 34. Greek *kyrios* means "lord, master, owner"; the "owners" in verse 33 are its *kyrioi*.
-[^19-9]: Psalm 118:26. In the Hebrew, "the Lord" is God's personal name, Yahweh.
+[^19-9]: Psalm 118:26. In the Hebrew, "the Lord" is God's personal name, YHWH ("the LORD").
 [^19-10]: Literally "the time of your visitation", the time of God's coming to save or to judge.
 [^19-11]: Many manuscripts add "and buying there".
 [^19-12]: Isaiah 56:7.
@@ -2373,8 +2373,8 @@
 [^20-10]: Many manuscripts add "married the woman, and he died childless".
 [^20-11]: Literally "the sons of this age".
 [^20-12]: Literally "They are sons of God, being sons of the resurrection."
-[^20-13]: Exodus 3:6, 15. In the Hebrew of Exodus 3:15, "the Lord" is God's personal name, Yahweh.
-[^20-14]: Psalm 110:1. In the Hebrew: "Yahweh says to my lord", with *ne'um*, the word that introduces a prophetic oracle.
+[^20-13]: Exodus 3:6, 15. In the Hebrew of Exodus 3:15, "the Lord" is God's personal name, YHWH ("the LORD").
+[^20-14]: Psalm 110:1. In the Hebrew: "The LORD says to my lord", with *ne'um*, the word that introduces a prophetic oracle.
 [^20-15]: That is, they exploit widows and take their property.
 
 ## Chapter 21

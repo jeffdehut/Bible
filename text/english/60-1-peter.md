@@ -136,7 +136,7 @@
 
 [^2-1]: Greek *logikos*, "reasonable, spiritual", perhaps also "of the word" (*logos*, 1:23). *Pure*: Greek *adolos*, "without deceit", in contrast to "deceit" (*dolos*) in verse 1.
 [^2-2]: Many manuscripts leave out "into salvation".
-[^2-3]: Compare Psalm 34:9 (34:8 in most English Bibles), "Taste and see that Yahweh is good." In the Hebrew, "the Lord" is God's personal name, Yahweh.
+[^2-3]: Compare Psalm 34:9 (34:8 in most English Bibles), "Taste and see that the LORD is good." In the Hebrew, "the Lord" is God's personal name, YHWH ("the LORD").
 [^2-4]: Or "let yourselves be built", a command.
 [^2-5]: Or "in it", the stone.
 [^2-6]: Isaiah 28:16, as in the Septuagint. The Hebrew reads "a stone, a tested stone, a precious cornerstone, a firm foundation. Whoever trusts will not panic."
@@ -224,10 +224,10 @@
 [^3-5]: Literally "as with the weaker vessel, the female". Greek *skeuos*, "vessel, container", is used of the body or the person.
 [^3-6]: Many manuscripts read "courteous".
 [^3-7]: Psalm 34:13–17 (34:12–16 in most English Bibles), quoted in verses 10–12 from the Septuagint, with the psalm's question ("Who is the one who delights in life …?") turned into a statement and its commands into the third person.
-[^3-8]: In the Hebrew, "the Lord" is God's personal name, Yahweh. Peter leaves out the end of the psalm verse, "to cut off the memory of them from the earth".
+[^3-8]: In the Hebrew, "the Lord" is God's personal name, YHWH ("the LORD"). Peter leaves out the end of the psalm verse, "to cut off the memory of them from the earth".
 [^3-9]: Many manuscripts read "if you imitate what is good".
 [^3-10]: Or "Do not be afraid of them", literally "do not fear their fear". Verses 14–15 echo Isaiah 8:12–13, in a form close to the Septuagint.
-[^3-11]: Or "regard Christ as Lord and as holy". Isaiah 8:13 reads "Yahweh of Armies: he is the one you must regard as holy." Many manuscripts read "regard the Lord God as holy".
+[^3-11]: Or "regard Christ as Lord and as holy". Isaiah 8:13 reads "The LORD of Armies: he is the one you must regard as holy." Many manuscripts read "regard the Lord God as holy".
 [^3-12]: Literally "fear", perhaps the fear of God (compare 2:17–18).
 [^3-13]: Many manuscripts read "when they speak against you as evildoers" (compare 2:12).
 [^3-14]: Some manuscripts read "died".
@@ -294,7 +294,7 @@
 [^4-8]: Literally "as oracles of God".
 [^4-9]: *To him* may refer to God or to Jesus Christ.
 [^4-10]: Literally "Beloved".
-[^4-11]: Literally "the (Spirit) of glory and the Spirit of God". Compare Isaiah 11:2, "The Spirit of Yahweh will rest on him". Many manuscripts add "On their part he is blasphemed, but on your part he is glorified."
+[^4-11]: Literally "the (Spirit) of glory and the Spirit of God". Compare Isaiah 11:2, "The Spirit of the LORD will rest on him". Many manuscripts add "On their part he is blasphemed, but on your part he is glorified."
 [^4-12]: Greek *allotriepiskopos*, a rare word, perhaps "one who meddles in other people's affairs", or "one who misuses what belongs to others".
 [^4-13]: Greek *Christianos*, "a follower of Christ", a name first given to the disciples by others (Acts 11:26; 26:28).
 [^4-14]: Many manuscripts read "in this matter".
@@ -339,7 +339,7 @@
 [^5-4]: Or "the older men", in contrast to "the younger".
 [^5-5]: Greek *enkombomai*, "tie on", as a servant ties on an apron. Many manuscripts read "All of you, submitting to one another, clothe yourselves with humility".
 [^5-6]: Proverbs 3:34, as in the Septuagint (see James 4:6). The Hebrew reads "He mocks the mockers, but he gives favor to the humble."
-[^5-7]: Compare Psalm 55:23 (55:22 in most English Bibles), "Cast your burden on Yahweh", where the Septuagint reads "your care".
+[^5-7]: Compare Psalm 55:23 (55:22 in most English Bibles), "Cast your burden on the LORD", where the Septuagint reads "your care".
 [^5-8]: Greek *antidikos*, an opponent in a lawsuit, an accuser.
 [^5-9]: Literally "the brotherhood".
 [^5-10]: Some manuscripts leave out "establish you".

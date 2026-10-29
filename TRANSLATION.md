@@ -29,7 +29,7 @@ the SBLGNT apparatus or the Septuagint, are noted rather than adopted.
 
 **Meaning-based, not a paraphrase.** We translate thought for thought within each verse, not
 word for word. We keep:
-- the imagery where an English reader can follow it ("Yahweh is my shepherd")
+- the imagery where an English reader can follow it ("The LORD is my shepherd")
 - the repetition and structure of poetry and narrative
 - the text's own ambiguity where it is deliberate or unresolved
 
@@ -59,24 +59,24 @@ Decisions marked **proposed** are used in the pilot and are open for review.
 
 | Source | Rendering | Notes |
 |---|---|---|
-| יהוה (YHWH, the divine name) | **Yahweh** | God's personal name, in its probable pronunciation. Most English Bibles write "the LORD"; a note says so at the name's first occurrence in each chapter where it appears. In the New Testament, Greek *kyrios* is "the Lord", with a note where it quotes a passage using the name, and, where narrative uses it plainly of God (Luke 1–2, "the angel of the Lord"), a note at its first occurrence in each chapter that it stands for the divine name, as in the Greek Old Testament. |
+| יהוה (YHWH, the divine name) | **the LORD** | God's personal name, written in capitals as in most English Bibles (the reader shows small capitals). Its probable pronunciation, *Yahweh*, is given only in the note on Exodus 3:15. Where God is addressed, "LORD" without "the" ("Rise up, LORD!"). Next to *Adonai*, "Lord", it is GOD: "the Lord GOD" (*Adonai YHWH*), "GOD the Lord" (*YHWH Adonai*, Habakkuk 3:19). A note says what LORD stands for at its first occurrence in each chapter: `*LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles.` (The first drafts wrote "Yahweh"; every chapter was changed on October 29, 2026.) In the New Testament, Greek *kyrios* is "the Lord", with a note where it quotes a passage using the name, and, where narrative uses it plainly of God (Luke 1–2, "the angel of the Lord"), a note at its first occurrence in each chapter that it stands for the divine name, as in the Greek Old Testament. |
 | אֱלֹהִים (Elohim), אֱלוֹהַּ (Eloah), אֵל (El), θεός | God | A note on the poetic *Eloah* (common in Job) is optional, at most once per chapter. |
 | אָדָם (adam), when it means humanity | humankind / human beings | When it refers to the man Adam, *Adam*. |
 | נֶפֶשׁ (nephesh) | life, self, soul, living being, by context | Not automatically "soul". |
 | חֶסֶד (chesed) | faithful love | Loyal, covenant love. Noted where it matters. |
 | ὁ χριστός | the Messiah | As a title. "Christ" where it functions as a name, e.g. *Jesus Christ*. |
-| מָשִׁיחַ | anointed, anointed one | In the Old Testament it means a king or priest anointed with oil ("Yahweh's anointed", 1 Samuel 24:7). Where later Jewish and Christian readers heard the promised Messiah (Psalm 2:2, Daniel 9:25–26), a note says so; the text keeps "anointed". |
+| מָשִׁיחַ | anointed, anointed one | In the Old Testament it means a king or priest anointed with oil ("the LORD's anointed", 1 Samuel 24:7). Where later Jewish and Christian readers heard the promised Messiah (Psalm 2:2, Daniel 9:25–26), a note says so; the text keeps "anointed". |
 | ὁ λόγος (John 1) | the Word | |
 | οἱ Ἰουδαῖοι | the Jews | Kept as written. A note explains where the context shows the religious authorities in Jerusalem are meant (common in John). |
 | ἀδελφοί (to a mixed group) | brothers and sisters (proposed) | For the believers as a whole, and whenever the context shows the group includes women; *brothers* for a particular group of men, and in the address *Ἄνδρες ἀδελφοί*, "Brothers". |
 | Time of day | modern equivalent in the text, the original in a note | e.g. "about four in the afternoon" for "the tenth hour". |
 | Units of length, weight, volume; money | the original unit in the text, its approximate value in a note | e.g. "three hundred denarii" with the note "About a year's wages for a laborer"; "a cubit" with "About 18 inches (45 cm)". The note is given at the unit's first occurrence in each chapter. The smallest coins (lepton, kodrantes, assarion) may be "a penny" or "small copper coins" in the text, with the coin named in a note (Mark 12:42). |
-| יהוה צְבָאוֹת | Yahweh of Armies (proposed) | Traditionally "the LORD of hosts" or "the LORD Almighty". *Tseva'ot* means armies: the heavenly hosts and the armies of Israel. Noted at its first occurrence in each chapter. |
-| אֲדֹנָי (Adonai), of God | the Lord | אֲדֹנָי יְהוִה is "the Lord Yahweh", noted at its first occurrence in a book (`Hebrew *Adonai YHWH*, "my Lord Yahweh".`); a note in each later chapter is optional. |
+| יהוה צְבָאוֹת | the LORD of Armies (proposed) | Traditionally "the LORD of hosts" or "the LORD Almighty". *Tseva'ot* means armies: the heavenly hosts and the armies of Israel. Noted at its first occurrence in each chapter. |
+| אֲדֹנָי (Adonai), of God | the Lord | אֲדֹנָי יְהוִה is "the Lord GOD", noted at its first occurrence in a book (`Hebrew *Adonai YHWH*, "my Lord YHWH". After "Lord", God's personal name is written GOD in capitals, as in most English Bibles.`); a note in each later chapter is optional. |
 | אֵל שַׁדַּי, שַׁדַּי | God Almighty, the Almighty | Hebrew *(El) Shaddai*; the meaning is uncertain. Noted at its first occurrence in each chapter. |
-| הַלְלוּ־יָהּ (hallelu-yah) | Praise Yah! (Hebrew); Hallelujah (Revelation 19, where the Greek transliterates it) | Noted at its first occurrence in each psalm: "Hebrew *hallelu-yah*, 'praise Yah', the source of the word 'Hallelujah'". *Yah* is a short form of the divine name. |
-| יְהוָה מָלָךְ (Psalms 93, 96–99) | Yahweh reigns! | "Or 'Yahweh has become king!'", noted at 93:1. |
-| Prophetic formulas | נְאֻם יְהוָה "declares Yahweh"; כֹּה אָמַר יְהוָה "This is what Yahweh says"; הוֹי "Woe to …"; מַשָּׂא "An oracle concerning …"; בַּיּוֹם הַהוּא "On that day"; קְדוֹשׁ יִשְׂרָאֵל "the Holy One of Israel"; וִידַעְתֶּם כִּי אֲנִי יְהוָה "Then you will know that I am Yahweh" | Set in Isaiah and Jeremiah and used in every prophetic book. *Hoy* is noted at its first occurrence in each book; *massa* ("oracle", also "burden") likewise. Later chapters may give a short pointer ("See 13:1"). Where *hoy* is not a cry of disaster it is "Ah", noted. |
+| הַלְלוּ־יָהּ (hallelu-yah) | Praise the LORD! (Hebrew); Hallelujah (Revelation 19, where the Greek transliterates it) | Noted at its first occurrence in each psalm: "Hebrew *hallelu-yah*, 'praise Yah', the source of the word 'Hallelujah'". *Yah*, a short form of the divine name, is "the LORD" wherever it stands alone (Exodus 15:2), with a note. |
+| יְהוָה מָלָךְ (Psalms 93, 96–99) | The LORD reigns! | "Or 'The LORD has become king!'", noted at 93:1. |
+| Prophetic formulas | נְאֻם יְהוָה "declares the LORD"; כֹּה אָמַר יְהוָה "This is what the LORD says"; הוֹי "Woe to …"; מַשָּׂא "An oracle concerning …"; בַּיּוֹם הַהוּא "On that day"; קְדוֹשׁ יִשְׂרָאֵל "the Holy One of Israel"; וִידַעְתֶּם כִּי אֲנִי יְהוָה "Then you will know that I am the LORD" | Set in Isaiah and Jeremiah and used in every prophetic book. *Hoy* is noted at its first occurrence in each book; *massa* ("oracle", also "burden") likewise. Later chapters may give a short pointer ("See 13:1"). Where *hoy* is not a cry of disaster it is "Ah", noted. |
 | שְׁאוֹל (Sheol) | Sheol | The realm of the dead. Noted at its first occurrence in each chapter. |
 | מִשְׁכָּן, אֹהֶל מוֹעֵד | tabernacle, tent of meeting | The renderings of the tabernacle, its furnishings, the priestly garments and the offerings are set in Exodus 25–40 and Leviticus 1–7; later books reuse them (for example *kapporet* "atonement cover", *choshen* "breastpiece", *shelamim* "fellowship offering", *chatta't* "sin offering" with a note "Or 'purification offering'"). |
 | פָּרֹכֶת (parokhet), καταπέτασμα | veil | The hanging that screens the most holy place, in the tabernacle, the temple (Mark 15:38) and Hebrews. Not "curtain", which is יְרִיעָה; מָסָךְ is "screen". |
@@ -126,15 +126,18 @@ from the Hebrew.
   subject or object has to be supplied, use the one the context gives and keep it minimal
   (Mark 10:6 says "he made them", with "God" in a note). Where a Hebrew clause has no verb and
   English needs one (Nehemiah 3:25), supply the plainest verb the context implies and note it.
-  This is for narrative and lists. The ordinary Hebrew clause without a verb ("Yahweh my
+  This is for narrative and lists. The ordinary Hebrew clause without a verb ("the LORD my
   shepherd") simply takes "is" or "are" in English, with no note.
 - Narrative is in the past tense, including Greek and Hebrew historic presents. Mark's εὐθύς is
   "at once" or "immediately", not always "and immediately".
 - American spelling: "honor", "neighbor", "forever", "worshiped", "judgment". Dashes are
   unspaced em dashes ("this—that"); ranges of verses take an en dash ("1–3").
 - Poetry keeps its parallel lines and its images. Each verse is still one line in the file.
-- Divine name: every יהוה is "Yahweh", whatever its vowels (יְהוִה too). Theophoric
-  names (Jonathan, Elijah) are spelled as in most English Bibles.
+- Divine name: every יהוה is "the LORD", whatever its vowels (יְהוִה too), with "The" at the
+  start of a sentence and no article where God is addressed ("Answer me, LORD"; "LORD my God,
+  …"; "I, the LORD, have spoken" is not an address). Next to *Adonai* it is GOD ("the Lord
+  GOD"). A name built on it keeps its capital: "The LORD Is My Banner" (Exodus 17:15).
+  Theophoric names (Jonathan, Elijah) are spelled as in most English Bibles.
 - Hebrew paragraph marks (פ, ס) at the end of a verse and UXLC's transcription marks (`[t]`,
   `[c]`, `[m]`, `[d]`, `[q]`, `[y]`) are not text. Don't translate them or note them. `[X]`
   marks a verse missing from the Leningrad Codex (Joshua 21:36–37): translate it and say so
@@ -185,11 +188,11 @@ from the Hebrew.
 - Standard forms: `Literally "…".` `Or "…".` `Hebrew *nephesh*, …` `Greek *logos*, …`
   Transliterate simply: *chesed*, *ruach*, *nephesh*, *lestes*.
 - Old Testament quotations and allusions get a reference in a note (Mark 12:10–11). If the
-  quotation names Yahweh, the note says: `In the Hebrew, "the Lord" is God's personal name,
-  Yahweh.` If a New Testament quotation follows the Greek Septuagint where it differs from the
+  quotation has the divine name, the note says: `In the Hebrew, "the Lord" is God's personal
+  name, YHWH ("the LORD").` If a New Testament quotation follows the Greek Septuagint where it differs from the
   Hebrew, say so.
-- The Yahweh note, at the first occurrence in each chapter: `*Yahweh*: God's personal name
-  (Hebrew YHWH), traditionally rendered "the LORD" in English Bibles.`
+- The LORD note, at the first occurrence in each chapter: `*LORD*: God's personal name, Hebrew
+  YHWH, written "the LORD" in capitals as in most English Bibles.`
 - **New Testament variants** come only from the SBLGNT apparatus. Note those that change the
   meaning: a word, phrase or verse added or left out, or a different word. Spelling, word
   order, the article, εὐθύς/εὐθέως and similar differences are not noted. Wording:
@@ -250,7 +253,7 @@ from the Hebrew.
   word order is noted only if the English would differ. Where the Septuagint arranges a whole
   passage differently (as in 1 Kings 20–21, Jeremiah, Proverbs 24–31), one note at the start of
   the passage says so.
-- In prophetic and poetic books, Yahweh's own words in the poems are not put in quotation marks
+- In prophetic and poetic books, the LORD's own words in the poems are not put in quotation marks
   (as in Deuteronomy 32 and Isaiah); a song or saying the text introduces as speech ("On that
   day you will say: …") is, and so is a dialogue in which speakers alternate (Isaiah 63:1–6).
   Words the prophet reports others saying (Malachi's "But you ask, 'How …?'") are quoted; a
@@ -258,10 +261,10 @@ from the Hebrew.
   A document given whole without an introduction (Nebuchadnezzar's letter, Daniel 3:31–4:34)
   takes no quotation marks.
 - Quotation marks: double for speech, single for a quotation inside it, and so on alternating
-  for deeper levels. The messenger formula ("This is what Yahweh says: …") inside a message
+  for deeper levels. The messenger formula ("This is what the LORD says: …") inside a message
   takes a colon and no marks of its own (Jeremiah 27:2–11).
-- Yahweh's speech in a prose narrative is quoted like anyone's ("Yahweh said to Jeremiah,
-  '…'"). A whole oracle or sermon in Yahweh's voice is not put in quotation marks.
+- The LORD's speech in a prose narrative is quoted like anyone's ("The LORD said to Jeremiah,
+  '…'"). A whole oracle or sermon in the LORD's voice is not put in quotation marks.
 - Where the narrator breaks into a speech (Luke 7:29–30), the quotation closes before the aside
   and reopens after it.
 - Within a chapter, a speech's quotation is opened once and closed once; it isn't reopened at

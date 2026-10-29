@@ -163,7 +163,7 @@
 [^2-18]: Literally "our father".
 [^2-19]: Greek *dikaioo*, traditionally "justified"; also in verses 24 and 25. James may mean that God declared Abraham righteous on the basis of what he did, or that his actions showed him to be righteous (vindicated him). Paul uses the same verb and the same example of Abraham (Genesis 15:6) when he writes that "a person is declared righteous by faith apart from works of the law" (Romans 3:28; compare Romans 4:1–5; Galatians 2:16). Interpreters differ on how the two passages relate. Many hold that they use the words in different senses: Paul speaks of works of the law as a ground of standing with God, and James of the deeds that true faith produces; and Paul speaks of the beginning of a right relationship with God, James of its proof or of the final judgment. Others see a real difference between them, or James answering a misunderstanding of Paul's teaching.
 [^2-20]: Genesis 22:9–12.
-[^2-21]: Genesis 15:6, as in the Septuagint, which has "God" and the passive "it was credited". The Hebrew reads "Abram believed Yahweh, and he credited it to him as righteousness."
+[^2-21]: Genesis 15:6, as in the Septuagint, which has "God" and the passive "it was credited". The Hebrew reads "Abram believed the LORD, and he credited it to him as righteousness."
 [^2-22]: Compare 2 Chronicles 20:7; Isaiah 41:8.
 [^2-23]: Joshua 2:1–21. *The messengers*: the two spies Joshua sent.
 [^2-24]: Or "breath".
@@ -320,13 +320,13 @@
 
 [^5-1]: Greek *ios*, "rust", the word translated "poison" in 3:8.
 [^5-2]: Or, punctuated differently, "and it will eat your flesh like fire. You have stored up treasure in the last days."
-[^5-3]: Greek *Kyrios Sabaoth*, from the Hebrew title *Yahweh tseva'ot*, "Yahweh of Armies", traditionally "the Lord of hosts". Compare Isaiah 5:9, "Yahweh of Armies has sworn in my hearing", and Deuteronomy 24:14–15.
+[^5-3]: Greek *Kyrios Sabaoth*, from the Hebrew title *YHWH tseva'ot*, "the LORD of Armies", traditionally "the Lord of hosts". Compare Isaiah 5:9, "The LORD of Armies has sworn in my hearing", and Deuteronomy 24:14–15.
 [^5-4]: Many manuscripts read "as in a day of slaughter". Compare Jeremiah 12:3, "set them apart for the day of killing".
 [^5-5]: The SBLGNT punctuates this as a question. *He* may be God, who "opposes the proud" (4:6, the same verb), or the righteous one, whose cry rises against them. Many translations read it as a statement: "who does not resist you".
 [^5-6]: Greek *adelphoi*, "brothers", used of the believers, men and women alike; also in verses 9, 10, 12 and 19.
 [^5-7]: Literally "the early and the late", the autumn and spring rains (Deuteronomy 11:14). Many manuscripts add "rain".
 [^5-8]: Literally "the end of the Lord": the purpose he had and the good end he gave (Job 42:10–17).
-[^5-9]: Compare Psalm 103:8, "Yahweh is compassionate and gracious".
+[^5-9]: Compare Psalm 103:8, "The LORD is compassionate and gracious".
 [^5-10]: Many manuscripts read "fall into hypocrisy". Compare Matthew 5:34–37.
 [^5-11]: Or "heal". Greek *sozo* means both.
 [^5-12]: Or "The prayer of a righteous person, when it is put into action, can do much."

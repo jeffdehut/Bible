@@ -99,7 +99,7 @@
 
 [^1-1]: Greek *christos*, "anointed one". The SBLGNT and some early manuscripts end the verse here. Many manuscripts add "the Son of God".
 [^1-2]: Many later manuscripts read "in the prophets". The quotation combines Malachi 3:1 (and Exodus 23:20) with Isaiah 40:3.
-[^1-3]: Isaiah 40:3. In Isaiah's Hebrew, "the Lord" is God's personal name, Yahweh.
+[^1-3]: Isaiah 40:3. In Isaiah's Hebrew, "the Lord" is God's personal name, YHWH ("the LORD").
 [^1-4]: A baptism expressing a change of heart and life. Greek *metanoia*, a turning around of mind and life.
 [^1-5]: Greek *euthys*, "immediately", one of Mark's favorite words. It is rendered "at once", "as soon as" or "just then", as the sentence requires.
 [^1-6]: Or "You are my beloved Son; I take great pleasure in you."
@@ -1065,7 +1065,7 @@
 
 [^11-1]: Or "Its master". Greek *kyrios* means "lord, master, owner".
 [^11-2]: A Hebrew expression, originally "Save, please!" (Psalm 118:25), used as a shout of praise.
-[^11-3]: Psalm 118:26. In the Hebrew, "the Lord" is God's personal name, Yahweh.
+[^11-3]: Psalm 118:26. In the Hebrew, "the Lord" is God's personal name, YHWH ("the LORD").
 [^11-4]: Or "a vessel".
 [^11-5]: Isaiah 56:7.
 [^11-6]: Jeremiah 7:11.
@@ -1167,15 +1167,15 @@
 
 [^12-1]: Or "slave"; also in verse 4. Greek *doulos*.
 [^12-2]: Literally "the head of the corner".
-[^12-3]: Psalm 118:22–23. In the Hebrew, "the Lord" is God's personal name, Yahweh.
+[^12-3]: Psalm 118:22–23. In the Hebrew, "the Lord" is God's personal name, YHWH ("the LORD").
 [^12-4]: Literally "you do not look at the face of people", that is, you show no favoritism.
 [^12-5]: Greek *kensos*, the poll tax paid to Rome.
 [^12-6]: Deuteronomy 25:5–6.
 [^12-7]: Exodus 3:6.
-[^12-8]: Deuteronomy 6:4. In the Hebrew, "the Lord" is God's personal name: "Yahweh our God, Yahweh is one". Also "Yahweh is our God, Yahweh alone."
+[^12-8]: Deuteronomy 6:4. In the Hebrew, "the Lord" is God's personal name: "The LORD our God, the LORD is one". Also "The LORD is our God, the LORD alone."
 [^12-9]: Deuteronomy 6:5.
 [^12-10]: Leviticus 19:18.
-[^12-11]: Psalm 110:1. In the Hebrew: "Yahweh says to my lord", with *ne'um*, the word that introduces a prophetic oracle.
+[^12-11]: Psalm 110:1. In the Hebrew: "The LORD says to my lord", with *ne'um*, the word that introduces a prophetic oracle.
 [^12-12]: That is, they exploit widows and take their property.
 [^12-13]: Greek *lepta*, the smallest coins. The verse adds "which make a *kodrantes*", a Roman coin worth 1/64 of a denarius.
 

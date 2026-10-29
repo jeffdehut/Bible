@@ -108,7 +108,7 @@
 [^2-4]: The woman speaks in verses 3–13.
 [^2-5]: Or "and his look upon me was love".
 [^2-6]: The commands are plural: she speaks to the young women.
-[^2-7]: An oath by the animals of love. In Hebrew *bi-tsva'ot o be-ayelot ha-sadeh* sounds like the oaths "by (Yahweh of) Armies", *tseva'ot*, and "by God Almighty", *El Shaddai*. The same refrain comes in 3:5, and in a shorter form in 8:4.
+[^2-7]: An oath by the animals of love. In Hebrew *bi-tsva'ot o be-ayelot ha-sadeh* sounds like the oaths "by (the LORD of) Armies", *tseva'ot*, and "by God Almighty", *El Shaddai*. The same refrain comes in 3:5, and in a shorter form in 8:4.
 [^2-8]: Literally "until it pleases".
 [^2-9]: Literally "The voice of my beloved!"
 [^2-10]: Or "the time of singing". Hebrew *zamir* can mean either.
@@ -362,7 +362,7 @@
 
 **5** Who is this coming up from the wilderness, leaning on her beloved?[^8-4] Under the apple tree I awakened you;[^8-5] there your mother was in labor with you; there she who bore you was in labor.
 
-**6** Set me as a seal on your heart, as a seal on your arm, for love is as strong as death, its passion[^8-6] as unyielding as Sheol.[^8-7] Its flashes are flashes of fire, a flame of Yah.[^8-8]
+**6** Set me as a seal on your heart, as a seal on your arm, for love is as strong as death, its passion[^8-6] as unyielding as Sheol.[^8-7] Its flashes are flashes of fire, a flame of the LORD.[^8-8]
 
 **7** Many waters cannot quench love, and rivers cannot sweep it away. If a man gave all the wealth of his house for love, he would be utterly despised.[^8-9]
 
@@ -387,7 +387,7 @@
 [^8-5]: Or "I aroused you".
 [^8-6]: Or "jealousy". Hebrew *qin'ah*, "ardor, zeal, jealousy".
 [^8-7]: Hebrew *Sheol*, the realm of the dead.
-[^8-8]: Hebrew *shalhevetyah*, written as one word in the Leningrad Codex. The ending *-yah* may be *Yah*, the short form of the name Yahweh (as in *hallelu-yah*, "praise Yah"; Exodus 15:2), giving "a flame of Yah", "the very flame of Yahweh". Or it may express a superlative, "a mighty flame", "the hottest flame", as words for God sometimes do in Hebrew (compare "mountains of God", that is, mighty mountains, in Psalm 36:7, 36:6 in English Bibles). Some Hebrew manuscripts write it as two words, *shalhevet yah*, "a flame of Yah". If the divine name is here, it is the only place it appears in the Song.
+[^8-8]: Hebrew *shalhevetyah*, written as one word in the Leningrad Codex. The ending *-yah* may be *Yah*, the short form of the name YHWH (as in *hallelu-yah*, "praise Yah"; Exodus 15:2), giving "a flame of Yah", "the very flame of the LORD". Or it may express a superlative, "a mighty flame", "the hottest flame", as words for God sometimes do in Hebrew (compare "mountains of God", that is, mighty mountains, in Psalm 36:7, 36:6 in English Bibles). Some Hebrew manuscripts write it as two words, *shalhevet yah*, "a flame of Yah". If the divine name is here, it is the only place it appears in the Song.
 [^8-9]: Or "it would be utterly scorned".
 [^8-10]: Perhaps her brothers speak in verses 8–9 (compare 1:6).
 [^8-11]: Hebrew *shalom*, "peace", perhaps a play on *Shelomoh*, "Solomon" (verses 11–12), and on "Shulammite" (7:1). The woman speaks.
