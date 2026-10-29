@@ -13,7 +13,9 @@ Writes  data/bible/study/topics.json     every topic's name, in order: the index
                                          subtopics, their references and "see also" topics
         data/bible/study/dNN.json        dictionary entries in chunks of 200, by number
         data/bible/study/NN-book.json    for each book, verse by verse, the topics and the
-                                         dictionary entries that cite the verse
+                                         dictionary entries that cite the verse ("t", "d"),
+                                         and its cross-references ("x"), most-voted first
+        OpenBible.info cross-references  (CC BY), those with at least 3 votes
 
 References are written as "Gen.11.26" or "Gen.11.26-28" or "Gen.15" (a whole chapter), in
 this repository's verse numbering (Hebrew numbering in the Old Testament).
@@ -232,6 +234,32 @@ def easton_entries(refs):
     return entries, by_verse
 
 
+# ---------------------------------------------------------------- cross-references
+
+XREF_MIN_VOTES = 3
+
+
+def cross_references(vers, texts):
+    """{verse: [(target, votes)]}, most-voted first; targets as "Rom.5.8" or "Rom.5.8-10"."""
+    refs, _, _ = connections.load_cross_references(connections.fetch_openbible(), XREF_MIN_VOTES, vers, texts)
+    out = collections.defaultdict(list)
+    for a, b, e, votes in refs:
+        if e[0] != b[0] or e < b:
+            e = b
+        label = f"{b[0]}.{b[1]}.{b[2]}"
+        if e != b:
+            label += f"-{e[2]}" if e[1] == b[1] else f"-{e[1]}.{e[2]}"
+        out[a].append((label, votes))
+    for a in out:
+        seen, kept = set(), []
+        for label, votes in sorted(out[a], key=lambda x: -x[1]):
+            if label not in seen:
+                seen.add(label)
+                kept.append((label, votes))
+        out[a] = kept
+    return out
+
+
 # ---------------------------------------------------------------- output
 
 def write_json(path, data):
@@ -246,6 +274,7 @@ def main():
     topics, topic_verses = nave_topics(refs)
     nave_bad, refs.bad = refs.bad, 0
     entries, dict_verses = easton_entries(refs)
+    xrefs = cross_references(vers, texts)
     os.makedirs(OUT, exist_ok=True)
     for name in os.listdir(OUT):
         os.remove(os.path.join(OUT, name))
@@ -258,10 +287,13 @@ def main():
     for num, osis, name, _ in BOOKS:
         t = {f"{c}:{v}": ts for (b, c, v), ts in sorted(topic_verses.items()) if b == osis}
         d = {f"{c}:{v}": sorted(ds) for (b, c, v), ds in sorted(dict_verses.items()) if b == osis}
-        write_json(os.path.join(OUT, file_stem(num, name) + ".json"), {"t": t, "d": d})
+        x = {f"{c}:{v}": [r for r, _ in rs] for (b, c, v), rs in sorted(xrefs.items()) if b == osis}
+        write_json(os.path.join(OUT, file_stem(num, name) + ".json"), {"t": t, "d": d, "x": x})
     n_refs = sum(len(s[2]) for t in topics for s in t["s"])
     print(f"Topics: {len(topics)} with {n_refs} references ({nave_bad} not found in our text), "
           f"{len(topic_verses)} verses indexed")
+    print(f"Cross-references: {sum(len(v) for v in xrefs.values())} from {len(xrefs)} verses "
+          f"(OpenBible.info, at least {XREF_MIN_VOTES} votes)")
     print(f"Dictionary: {len(entries)} entries ({refs.bad} references not found), {len(dict_verses)} verses indexed")
 
 

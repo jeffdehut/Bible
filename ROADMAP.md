@@ -119,6 +119,25 @@ Chinese translation.
 
 Study questions and other written helps are left out for now: data only.
 
+**Ways to see the data** (chosen October 2026). Each view gets the maps' print sizes and SVG,
+PDF and PNG export, with its data as CSV or JSON:
+
+1. Search results as a strip of the 66 books, showing where the hits fall.
+2. A Hebrew or Greek word's footprint across the Bible, with how it is glossed.
+3. Cross-references as arcs, for the whole Bible and for one verse.
+4. A Nave's topic across the Bible, with the topics that share its verses.
+5. Storylines: each person as a line through the chapters they appear in (fuller once
+   MACULA's referents are in).
+6. Who refers to whom, and who speaks to whom, from MACULA's referents.
+7. The divided kingdom: the kings of Israel and Judah as reign bars, with their prophets and
+   the dates shared with Assyria and Babylon, in the style of the maps.
+8. The Bible as a bookshelf: the books to scale, opening to their chapters.
+9. Density maps of all 1,189 chapters: cross-references, people, places, notes, status.
+10. A downloads page: every dataset as CSV or JSON, with its licence.
+
+Print editions of the reader (a reader's edition, an interlinear, a Gospel synopsis) wait until
+the translation is finished and checked.
+
 ## 2. Maps
 
 - **Style.** See *Map style: after the Eilers wall maps* below. Maps keep their paper look in

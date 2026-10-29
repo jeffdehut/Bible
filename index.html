@@ -278,6 +278,7 @@ textarea { min-height: 88px; resize: vertical; }
   border: 1px solid var(--line); background: var(--surface); color: var(--lapis); border-radius: 8px; padding: 4px 8px;
   font: 600 13px/1.2 var(--sans); cursor: pointer; font-variant-numeric: tabular-nums;
 }
+.refs button.more { border-color: transparent; background: transparent; }
 .refs button[aria-expanded="true"] { background: var(--lapis-soft); border-color: var(--lapis); }
 .preview { flex-basis: 100%; margin: 4px 0 6px; padding: 10px 12px; border-radius: 10px; background: var(--surface); border: 1px solid var(--line); font: 400 16px/1.55 var(--read); }
 .preview .r { display: block; font: 600 12.5px/1.2 var(--sans); color: var(--muted); margin-bottom: 4px; }
@@ -485,6 +486,10 @@ if (/(^#|&)(access_token|error)=/.test(location.hash)) {
     <h3>On the maps</h3>
     <ul class="places" id="vplaces"></ul>
   </div>
+  <div class="section" id="vxref-wrap" hidden>
+    <h3>Related verses</h3>
+    <div class="refs" id="vxref"></div>
+  </div>
   <div class="section" id="vtopics-wrap" hidden>
     <h3>Topics</h3>
     <ul class="places" id="vtopics"></ul>
@@ -682,6 +687,7 @@ if (/(^#|&)(access_token|error)=/.test(location.hash)) {
     <h3>Under each verse</h3>
     <p>Tap a verse to see it in Hebrew, Aramaic or Greek, word by word. The words, glosses and grammar come from STEPBible's tagged texts (TAHOT and TAGNT), and the definitions from its brief lexicons (TBESH and TBESG). STEPBible's glosses are its own, not this translation's.</p>
     <p>People a verse names are listed under <em>People</em>: tap one to see their family in the genealogy. The names come from STEPBible's TIPNR, which marks each name in the Hebrew, Aramaic and Greek.</p>
+    <p>Under <em>Related verses</em>, a verse lists its cross-references from OpenBible.info (CC BY), those that at least three readers voted for, the most-voted first; most come from the public-domain <em>Treasury of Scripture Knowledge</em>. Tap one to read it in place.</p>
     <p>Under <em>Topics</em>, a verse lists the topics of Nave’s Topical Bible (1896, public domain) that cite it, and under <em>In the Bible dictionary</em>, the entries of Easton’s Bible Dictionary (1897, public domain; linked edition from Theographic, CC BY-SA 4.0) that do. Both are also in the menu, under <em>Topics and dictionary</em>. Their verse numbers have been moved to this translation’s.</p>
     <p>Under <em>Parallel passages</em>, a verse in the Gospels shows the section of A. T. Robertson’s <em>Harmony of the Gospels</em> (1922, public domain) it belongs to, with every Gospel that tells it, side by side; a verse in Samuel or Kings, the passages that tell it again in Chronicles or Isaiah, after Appendix 56 of the Companion Bible (public domain). <em>Reading plans</em> divide the chapters into days; the chronological plan follows Ussher’s dates as the Treasury of Scripture Knowledge gives them (via Theographic), with the chapters of each book kept in order. Your place in a plan is kept on this device.</p>
     <p>Places a verse names are listed under <em>On the maps</em>: tap one to see it on the Bible map for that part of the story. Which verses name which places comes from OpenBible.info's Bible Geocoding Data (CC BY 4.0), kept only where this translation uses the name.</p>
@@ -1283,7 +1289,7 @@ $("open-study").onclick = () => openStudy(study.k);
 // The verse panel: the topics that cite the verse, and the dictionary entries that do,
 // those whose name is in the verse first.
 async function showStudy(b, c, n, span) {
-  for (const id of ["vtopics", "vdict"]) { $(id + "-wrap").hidden = true; $(id).textContent = ""; }
+  for (const id of ["vtopics", "vdict", "vxref"]) { $(id + "-wrap").hidden = true; $(id).textContent = ""; }
   let S, tn, dn;
   try { [S, tn, dn] = await Promise.all([getJSON(`study/${b.slug}.json`), getJSON(STUDY_KIND.t.index), getJSON(STUDY_KIND.d.index)]); }
   catch (e) { return; }
@@ -1302,6 +1308,14 @@ async function showStudy(b, c, n, span) {
     $(id + "-wrap").hidden = !ids.length;
   };
   chips(S.t[`${c}:${n}`] || [], tn, "t", "vtopics");
+  // Cross-references, most-voted first; tap one to read it here.
+  const xs = (S.x || {})[`${c}:${n}`] || [], box = $("vxref"), XLIMIT = 10;
+  const renderX = all => {
+    box.replaceChildren(...(all ? xs : xs.slice(0, XLIMIT)).map(r => refButton(r, box)).filter(Boolean));
+    if (!all && xs.length > XLIMIT) box.append(el("button", { type: "button", class: "more", text: `+${xs.length - XLIMIT} more`, onclick: () => renderX(true) }));
+  };
+  renderX(false);
+  $("vxref-wrap").hidden = !xs.length;
   chips(S.d[`${c}:${n}`] || [], dn, "d", "vdict");
 }
 
