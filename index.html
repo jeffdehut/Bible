@@ -230,6 +230,11 @@ textarea { min-height: 88px; resize: vertical; }
 .word dd { margin: 0; }
 .word .def { margin-top: 10px; font: 400 14.5px/1.55 var(--sans); color: var(--ink); white-space: pre-line; max-height: 260px; overflow: auto; }
 .word .def a { text-decoration: none; }
+.word .def.full { max-height: 420px; border-top: 1px solid var(--line); padding-top: 10px; }
+.word .def.full hr { border: 0; border-top: 1px dashed var(--line); margin: 10px 0; }
+.word .full-btn { margin-top: 10px; }
+.cite { border: 0; background: var(--bg); color: var(--muted); border-radius: 6px; padding: 0 5px; font: 500 12px/1.6 var(--sans); cursor: pointer; text-align: left; }
+.cite.open { display: block; margin: 2px 0; padding: 4px 8px; white-space: normal; }
 .word .credit { margin-top: 8px; font-size: 12px; color: var(--faint); }
 .notes-list { margin: 0; padding: 0; list-style: none; display: grid; gap: 8px; }
 .notes-list li { font: 400 15px/1.55 var(--read); }
@@ -243,6 +248,104 @@ textarea { min-height: 88px; resize: vertical; }
 .places svg { width: 16px; height: 16px; flex: none; color: var(--lapis); }
 .places small { font: 500 12.5px/1.2 var(--sans); color: var(--muted); }
 .en-number { font-size: 13px; color: var(--muted); }
+.places button {
+  display: inline-flex; align-items: center; gap: 6px; min-height: 36px; padding: 6px 12px 6px 9px; border-radius: 99px; border: 0; cursor: pointer;
+  background: var(--lapis-soft); color: var(--ink); font: 600 14px/1.2 var(--sans); text-align: left;
+}
+.places button:hover { box-shadow: inset 0 0 0 1px var(--lapis); }
+.places button.more { background: transparent; color: var(--lapis); padding-inline: 6px; }
+
+/* Topics and dictionary */
+#study .tabs { margin-bottom: 10px; }
+#study-back { display: none; }
+#study.entry #study-back { display: inline-grid; }
+#study.entry .tabs, #study.entry #study-q, #study.entry #study-list, #study.entry #study-count { display: none; }
+#study:not(.entry) #study-entry { display: none; }
+.study-list { list-style: none; margin: 10px 0 0; padding: 0; columns: 2 220px; column-gap: 12px; }
+.study-list li { break-inside: avoid; }
+.study-list button {
+  width: 100%; text-align: left; border: 0; background: transparent; border-radius: 8px; padding: 8px 10px; cursor: pointer;
+  font: 500 16px/1.3 var(--read); color: var(--ink);
+}
+.study-list button:hover { background: var(--lapis-soft); }
+.study-entry h3 { margin: 4px 0 2px; font: 500 26px/1.15 var(--read); }
+.study-entry .kind { font: 600 12px/1.2 var(--sans); letter-spacing: 0.1em; text-transform: uppercase; color: var(--muted); }
+.study-entry .also { display: flex; flex-wrap: wrap; align-items: center; gap: 6px; margin: 12px 0 4px; font-size: 13px; color: var(--muted); }
+.study-entry .also button, .study-entry .xref {
+  border: 0; background: var(--lapis-soft); color: var(--ink); border-radius: 99px; padding: 5px 10px; font: 600 13px/1.2 var(--sans); cursor: pointer;
+}
+.study-entry .sub { margin: 14px 0 0; }
+.study-entry .sub.d1 { margin: 8px 0 0 16px; padding-left: 10px; border-left: 2px solid var(--line); }
+.study-entry .sub > p { margin: 0 0 6px; font: 600 15px/1.35 var(--sans); }
+.study-entry .sub.d1 > p { font-weight: 500; }
+.refs { display: flex; flex-wrap: wrap; gap: 4px; }
+.refs button {
+  border: 1px solid var(--line); background: var(--surface); color: var(--lapis); border-radius: 8px; padding: 4px 8px;
+  font: 600 13px/1.2 var(--sans); cursor: pointer; font-variant-numeric: tabular-nums;
+}
+.refs button.more { border-color: transparent; background: transparent; }
+.refs button[aria-expanded="true"] { background: var(--lapis-soft); border-color: var(--lapis); }
+.preview { flex-basis: 100%; margin: 4px 0 6px; padding: 10px 12px; border-radius: 10px; background: var(--surface); border: 1px solid var(--line); font: 400 16px/1.55 var(--read); }
+.preview .r { display: block; font: 600 12.5px/1.2 var(--sans); color: var(--muted); margin-bottom: 4px; }
+.preview .vn { vertical-align: 0.35em; }
+.preview a { display: inline-block; margin-top: 6px; font: 600 13px/1.2 var(--sans); text-decoration: none; }
+.dict p { font: 400 16px/1.6 var(--read); margin: 12px 0 0; }
+.dict ol { margin: 12px 0 0; padding-left: 22px; }
+.dict ol li { font: 400 16px/1.6 var(--read); margin-bottom: 8px; }
+.dict a { color: var(--lapis); text-decoration: none; font-family: var(--sans); font-size: 0.88em; font-weight: 600; cursor: pointer; }
+/* Parallel passages */
+.par { border: 1px solid var(--line); border-radius: 12px; padding: 10px 12px; background: var(--surface); margin-bottom: 8px; }
+.par .pt { font: 600 14px/1.35 var(--sans); margin: 0 0 6px; }
+.par .pt small { color: var(--muted); font-weight: 500; margin-right: 4px; }
+.par .refs { margin-bottom: 8px; }
+.par .refs .here { color: var(--ink); border-color: var(--lapis); background: var(--lapis-soft); }
+#parallel.sheet.dialog { width: min(1180px, calc(100vw - 48px)); }
+#parallel:not(.compare) #par-cols, #parallel:not(.compare) #par-head { display: none; }
+#parallel.compare #par-list, #parallel.compare .tabs { display: none; }
+#parallel:not(.compare) #par-back { display: none; }
+.par-head { margin: 4px 0 12px; }
+.par-head .kind { font: 600 12px/1.2 var(--sans); letter-spacing: 0.1em; text-transform: uppercase; color: var(--muted); }
+.par-head h3 { margin: 2px 0 0; font: 500 24px/1.2 var(--read); }
+.cols { display: grid; gap: 12px; grid-template-columns: repeat(auto-fit, minmax(260px, 1fr)); align-items: start; }
+.col { border: 1px solid var(--line); border-radius: 12px; background: var(--surface); padding: 12px 14px; }
+.col h4 { margin: 0 0 8px; font: 600 13px/1.2 var(--sans); color: var(--lapis); display: flex; justify-content: space-between; gap: 8px; }
+.col h4 a { text-decoration: none; }
+.col p { margin: 0; font: 400 16.5px/1.65 var(--read); }
+.col .v.here { background: color-mix(in srgb, var(--gold) 18%, transparent); }
+@media (max-width: 719px) { .cols { grid-template-columns: 1fr; } }
+.par-list h3 { margin: 18px 0 6px; font: 600 12px/1.2 var(--sans); letter-spacing: 0.1em; text-transform: uppercase; color: var(--muted); }
+.par-list ol { list-style: none; margin: 0; padding: 0; }
+.par-list button {
+  width: 100%; text-align: left; border: 0; background: transparent; border-radius: 8px; padding: 8px 10px; cursor: pointer;
+  display: grid; grid-template-columns: 44px 1fr; gap: 2px 8px; color: var(--ink);
+}
+.par-list button:hover { background: var(--lapis-soft); }
+.par-list .no { font: 600 13px/1.4 var(--sans); color: var(--muted); font-variant-numeric: tabular-nums; }
+.par-list .nm { font: 500 16px/1.3 var(--read); }
+.par-list .rr { grid-column: 2; font: 500 12.5px/1.3 var(--sans); color: var(--muted); }
+
+/* Reading plans */
+.plans { list-style: none; margin: 8px 0 0; padding: 0; display: grid; gap: 8px; }
+.plans li { border: 1px solid var(--line); border-radius: 12px; padding: 12px 14px; background: var(--surface); display: grid; gap: 6px; }
+.plans b { font: 500 18px/1.25 var(--read); }
+.plans p { margin: 0; font-size: 14px; color: var(--muted); }
+.plans .btn { justify-self: start; }
+.today { border: 1px solid var(--lapis); border-radius: 14px; padding: 14px 16px; background: var(--surface); display: grid; gap: 10px; }
+.today .kind { font: 600 12px/1.2 var(--sans); letter-spacing: 0.1em; text-transform: uppercase; color: var(--muted); }
+.today h3 { margin: 0; font: 500 22px/1.2 var(--read); }
+.today .reads { display: flex; flex-wrap: wrap; gap: 6px; }
+.today .reads a { display: inline-flex; align-items: center; gap: 6px; min-height: 36px; padding: 6px 12px; border-radius: 99px; background: var(--lapis-soft); color: var(--ink); text-decoration: none; font: 600 14px/1.2 var(--sans); }
+.progress { height: 6px; border-radius: 6px; background: var(--lapis-soft); overflow: hidden; }
+.progress i { display: block; height: 100%; background: var(--lapis); }
+.days { list-style: none; margin: 12px 0 0; padding: 0; display: grid; gap: 2px; max-height: 360px; overflow: auto; }
+.days li { display: grid; grid-template-columns: 30px 64px 1fr; align-items: center; gap: 6px; padding: 4px 6px; border-radius: 8px; font-size: 14px; }
+.days li.cur { background: var(--lapis-soft); }
+.days input { width: 18px; height: 18px; accent-color: var(--lapis); }
+.days .d { color: var(--muted); font-variant-numeric: tabular-nums; }
+.days a { color: var(--ink); text-decoration: none; }
+.days a:hover { text-decoration: underline; }
+.days li.done a { color: var(--muted); }
+.study-entry .credit { margin-top: 16px; font-size: 12.5px; color: var(--faint); }
 
 /* Picker */
 .tabs { display: flex; gap: 4px; background: var(--bg); padding: 4px; border-radius: 12px; border: 1px solid var(--line); }
@@ -276,6 +379,18 @@ textarea { min-height: 88px; resize: vertical; }
 .results .s { font: 400 16px/1.45 var(--read); }
 .results mark { background: var(--hl-yellow); color: inherit; border-radius: 2px; padding: 0 1px; }
 .count { font-size: 13px; color: var(--muted); margin: 8px 0 0; }
+.count button { border: 0; background: none; padding: 0; color: var(--lapis); font: inherit; font-weight: 600; cursor: pointer; }
+/* Where the hits fall: the 66 books, each as wide as it is long, darker the more it matches. */
+.strip { margin: 10px 0 2px; }
+.strip .bars { display: flex; gap: 1px; height: 30px; align-items: stretch; }
+.strip .bars button { flex: var(--w) 1 0; min-width: 2px; border: 0; padding: 0; cursor: pointer; border-radius: 2px;
+  background: color-mix(in srgb, var(--lapis) calc(var(--d) * 100%), var(--line)); }
+.strip .bars button.none { background: var(--line); opacity: 0.55; cursor: default; }
+.strip .bars button[aria-pressed="true"] { outline: 2px solid var(--gold); outline-offset: 1px; }
+.strip .bars .gap { flex: 0 0 4px; background: none; }
+.strip .parts { display: flex; gap: 1px; margin-top: 4px; font: 600 10.5px/1.2 var(--sans); letter-spacing: 0.04em; color: var(--muted); text-transform: uppercase; }
+.strip .parts span { flex: var(--w) 1 0; min-width: 0; overflow: hidden; white-space: nowrap; text-overflow: clip; border-top: 2px solid var(--line); padding-top: 3px; }
+.strip .parts .gap { flex: 0 0 4px; border: 0; }
 
 /* My notes */
 .mine { list-style: none; margin: 8px 0 0; padding: 0; display: grid; gap: 6px; }
@@ -388,6 +503,22 @@ if (/(^#|&)(access_token|error)=/.test(location.hash)) {
     <h3>On the maps</h3>
     <ul class="places" id="vplaces"></ul>
   </div>
+  <div class="section" id="vxref-wrap" hidden>
+    <h3>Related verses</h3>
+    <div class="refs" id="vxref"></div>
+  </div>
+  <div class="section" id="vtopics-wrap" hidden>
+    <h3>Topics</h3>
+    <ul class="places" id="vtopics"></ul>
+  </div>
+  <div class="section" id="vdict-wrap" hidden>
+    <h3>In the Bible dictionary</h3>
+    <ul class="places" id="vdict"></ul>
+  </div>
+  <div class="section" id="vpar-wrap" hidden>
+    <h3>Parallel passages</h3>
+    <div id="vpar"></div>
+  </div>
   <div class="section">
     <h3>Word by word</h3>
     <ol class="inter" id="inter"></ol>
@@ -442,7 +573,47 @@ if (/(^#|&)(access_token|error)=/.test(location.hash)) {
   <div class="sheet-head"><h2 id="search-title">Search the Bible</h2><button class="btn" type="button" data-close aria-label="Close"><svg class="icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M6 6l12 12M18 6 6 18"/></svg></button></div>
   <input type="search" id="q" placeholder="Words or a reference" autocomplete="off" enterkeyhint="search" aria-label="Search">
   <p class="count" id="q-count">Search every verse of the translation. Put a phrase in quotes to search for it exactly.</p>
+  <div class="strip" id="q-strip" hidden></div>
   <ol class="results" id="results"></ol>
+</section>
+
+<section class="sheet dialog" id="study" hidden aria-labelledby="study-title">
+  <div class="grab"></div>
+  <div class="sheet-head">
+    <button class="btn" type="button" id="study-back" aria-label="Back to the list"><svg class="icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="m15 5-7 7 7 7"/></svg></button>
+    <h2 id="study-title">Topics and dictionary</h2>
+    <button class="btn" type="button" data-close aria-label="Close"><svg class="icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M6 6l12 12M18 6 6 18"/></svg></button>
+  </div>
+  <div class="tabs" role="tablist" aria-label="Topics or dictionary">
+    <button type="button" role="tab" id="study-tab-t" aria-selected="true">Topics</button>
+    <button type="button" role="tab" id="study-tab-d" aria-selected="false">Dictionary</button>
+  </div>
+  <input type="search" id="study-q" placeholder="Find a topic: faith, prayer, Abraham" autocomplete="off" enterkeyhint="search" aria-label="Find">
+  <p class="count" id="study-count"></p>
+  <ol class="study-list" id="study-list"></ol>
+  <article class="study-entry" id="study-entry" aria-live="polite"></article>
+</section>
+
+<section class="sheet dialog" id="parallel" hidden aria-labelledby="par-title">
+  <div class="grab"></div>
+  <div class="sheet-head">
+    <button class="btn" type="button" id="par-back" aria-label="Back to the list"><svg class="icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="m15 5-7 7 7 7"/></svg></button>
+    <h2 id="par-title">Parallel passages</h2>
+    <button class="btn" type="button" data-close aria-label="Close"><svg class="icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M6 6l12 12M18 6 6 18"/></svg></button>
+  </div>
+  <div class="tabs" role="tablist" aria-label="Which parallels">
+    <button type="button" role="tab" id="par-tab-g" aria-selected="true">The Gospels</button>
+    <button type="button" role="tab" id="par-tab-k" aria-selected="false">Kings and Chronicles</button>
+  </div>
+  <div class="par-list" id="par-list"></div>
+  <div class="par-head" id="par-head"></div>
+  <div class="cols" id="par-cols"></div>
+</section>
+
+<section class="sheet dialog" id="plans" hidden aria-labelledby="plans-title">
+  <div class="grab"></div>
+  <div class="sheet-head"><h2 id="plans-title">Reading plans</h2><button class="btn" type="button" data-close aria-label="Close"><svg class="icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M6 6l12 12M18 6 6 18"/></svg></button></div>
+  <div id="plans-body"></div>
 </section>
 
 <section class="sheet dialog" id="settings" hidden aria-labelledby="settings-title">
@@ -479,6 +650,9 @@ if (/(^#|&)(access_token|error)=/.test(location.hash)) {
   <ul class="menu">
     <li><button type="button" id="open-mine"><span>My highlights and notes<small>Saved on this device</small></span></button></li>
     <li><button type="button" id="open-account" hidden><span>Sync across devices<small id="account-sub">Keep your highlights and notes on every device</small></span></button></li>
+    <li><button type="button" id="open-plans"><span>Reading plans<small id="plans-sub">Through the Bible in a year, and shorter plans</small></span></button></li>
+    <li><button type="button" id="open-parallels"><span>Parallel passages<small>The Gospels side by side; Kings beside Chronicles</small></span></button></li>
+    <li><button type="button" id="open-study"><span>Topics and dictionary<small>Nave’s topics and Easton’s Bible dictionary</small></span></button></li>
     <li><button type="button" id="open-about"><span>About this translation<small>A first draft, awaiting review</small></span></button></li>
     <li><a href="maps/index.html"><span>Bible maps<small>Eight sheets, from the patriarchs to Paul</small></span></a></li>
     <li><a href="genealogy.html"><span>The Generations<small>From Adam to Jesus, and every family</small></span></a></li>
@@ -531,6 +705,10 @@ if (/(^#|&)(access_token|error)=/.test(location.hash)) {
     <h3>Under each verse</h3>
     <p>Tap a verse to see it in Hebrew, Aramaic or Greek, word by word. The words, glosses and grammar come from STEPBible's tagged texts (TAHOT and TAGNT), and the definitions from its brief lexicons (TBESH and TBESG). STEPBible's glosses are its own, not this translation's.</p>
     <p>People a verse names are listed under <em>People</em>: tap one to see their family in the genealogy. The names come from STEPBible's TIPNR, which marks each name in the Hebrew, Aramaic and Greek.</p>
+    <p>A word’s <em>Full entry</em> opens Brown, Driver and Briggs’s Hebrew lexicon (1906, public domain; Open Scriptures’ outline of it, CC BY 4.0) or Liddell, Scott and Jones’s Greek lexicon (1940, public domain; formatted by STEPBible, CC BY 4.0).</p>
+    <p>Under <em>Related verses</em>, a verse lists its cross-references from OpenBible.info (CC BY), those that at least three readers voted for, the most-voted first; most come from the public-domain <em>Treasury of Scripture Knowledge</em>. Tap one to read it in place.</p>
+    <p>Under <em>Topics</em>, a verse lists the topics of Nave’s Topical Bible (1896, public domain) that cite it, and under <em>In the Bible dictionary</em>, the entries of Easton’s Bible Dictionary (1897, public domain; linked edition from Theographic, CC BY-SA 4.0) that do. Both are also in the menu, under <em>Topics and dictionary</em>. Their verse numbers have been moved to this translation’s.</p>
+    <p>Under <em>Parallel passages</em>, a verse in the Gospels shows the section of A. T. Robertson’s <em>Harmony of the Gospels</em> (1922, public domain) it belongs to, with every Gospel that tells it, side by side; a verse in Samuel or Kings, the passages that tell it again in Chronicles or Isaiah, after Appendix 56 of the Companion Bible (public domain). <em>Reading plans</em> divide the chapters into days; the chronological plan follows Ussher’s dates as the Treasury of Scripture Knowledge gives them (via Theographic), with the chapters of each book kept in order. Your place in a plan is kept on this device.</p>
     <p>Places a verse names are listed under <em>On the maps</em>: tap one to see it on the Bible map for that part of the story. Which verses name which places comes from OpenBible.info's Bible Geocoding Data (CC BY 4.0), kept only where this translation uses the name.</p>
     <h3>Licenses</h3>
     <p>Translation: CC BY 4.0. Hebrew: Unicode/XML Leningrad Codex (UXLC 2.6), Tanach.us. Greek: SBL Greek New Testament, © 2010 Society of Biblical Literature and Logos Bible Software, CC BY 4.0. Word data and lexicons: STEPBible.org, CC BY 4.0. Paragraphs follow the Masoretic paragraph marks and, in the New Testament, STEPBible's paragraph marks.</p>
@@ -880,6 +1058,8 @@ async function openVerse(span) {
   $("vnotes-wrap").hidden = !labels.length;
   showPeople(b, c, n, span);
   showPlaces(b, c, n, span);
+  showStudy(b, c, n, span);
+  showParallels(b, c, n, span);
   // Highlight and note.
   const id = `${b.osis}.${c}.${n}`;
   const a = notes[id] || {};
@@ -976,6 +1156,375 @@ function fallbackCopy(s, done) {
   t.remove();
 }
 
+/* ---------- Topics (Nave's) and the dictionary (Easton's) ---------- */
+// Built by scripts/study.py: names in study/topics.json and study/dictionary.json, entries in
+// chunks of 200, and for each book the topics and entries that cite each verse.
+const STUDY_KIND = { t: { index: "study/topics.json", noun: "topic", hint: "Find a topic: faith, prayer, Abraham" },
+                     d: { index: "study/dictionary.json", noun: "entry", hint: "Find a word, person or place: ephod, Bethel" } };
+const studyEntry = (k, i) => getJSON(`study/${k}${String(Math.floor(i / 200)).padStart(2, "0")}.json`).then(a => a[i % 200]);
+const normName = s => s.normalize("NFD").replace(/[̀-ͯ]/g, "").toLowerCase();
+// "Gen.11.26-28", "Gen.11.26-12.3" or "Gen.15" -> { b, c, v, label }
+function parseRef(ref) {
+  const m = /^([1-3]?[A-Za-z]+)\.(\d+)(?:\.(\d+))?(?:-(\d+)(?:\.(\d+))?)?$/.exec(ref);
+  const b = m && byOsis[m[1]];
+  if (!b) return null;
+  const c = +m[2], v = m[3] ? +m[3] : null, name = b.osis === "Ps" ? "Psalm" : b.n;
+  let label = `${name} ${c}` + (v ? `:${v}` : "");
+  if (m[4]) label += m[5] ? `–${m[4]}:${m[5]}` : v ? `–${m[4]}` : `–${m[4]}`;
+  return { b, c, v, label };
+}
+let study = { k: "t", i: null, back: [] };
+function openStudy(k, i) {
+  study.k = k;
+  study.back = [];
+  openSheet("study");
+  if (i == null) { study.i = null; renderStudy(); } else showStudyEntry(k, i);
+}
+function setStudyTab(k) {
+  study.k = k; study.i = null;
+  $("study-tab-t").setAttribute("aria-selected", String(k === "t"));
+  $("study-tab-d").setAttribute("aria-selected", String(k === "d"));
+  $("study-q").placeholder = STUDY_KIND[k].hint;
+  renderStudy();
+}
+async function renderStudy() {
+  $("study").classList.remove("entry");
+  $("study-title").textContent = "Topics and dictionary";
+  for (const k of ["t", "d"]) $("study-tab-" + k).setAttribute("aria-selected", String(study.k === k));
+  $("study-q").placeholder = STUDY_KIND[study.k].hint;
+  let names;
+  try { names = await getJSON(STUDY_KIND[study.k].index); }
+  catch (e) { $("study-count").textContent = "This list couldn't be loaded. Check your connection and try again."; return; }
+  const q = normName($("study-q").value.trim());
+  let hits = names.map((n, i) => [n, i]);
+  if (q) {
+    hits = hits.map(([n, i]) => { const s = normName(n); return [n, i, s === q ? 0 : s.startsWith(q) ? 1 : s.includes(q) ? 2 : 3]; })
+      .filter(h => h[2] < 3).sort((a, b) => a[2] - b[2] || a[0].localeCompare(b[0]));
+  }
+  const LIMIT = 300;
+  $("study-count").textContent = q ? `${hits.length} ${hits.length === 1 ? STUDY_KIND[study.k].noun : study.k === "t" ? "topics" : "entries"} found` +
+    (hits.length > LIMIT ? `; the first ${LIMIT} are shown` : "")
+    : study.k === "t" ? `${names.length.toLocaleString("en")} topics from Nave’s Topical Bible, each with the verses on it.`
+    : `${names.length.toLocaleString("en")} entries from Easton’s Bible Dictionary.`;
+  $("study-list").replaceChildren(...hits.slice(0, LIMIT).map(([n, i]) =>
+    el("li", {}, el("button", { type: "button", text: n, onclick: () => showStudyEntry(study.k, i, true) }))));
+}
+// A verse's text, for a preview under a reference.
+async function verseText(b, c, v) {
+  const data = await getJSON("text/" + b.slug + ".json");
+  const ch = data.chapters[c - 1];
+  if (!ch) return [];
+  return ch.v.filter(r => (v == null ? r[0] <= 3 : r[0] === v)).map(r => [r[0], plainVerse(r[1])]);
+}
+function refButton(ref, box) {
+  const r = parseRef(ref);
+  if (!r) return null;
+  const btn = el("button", { type: "button", "aria-expanded": "false", text: r.label });
+  btn.onclick = async () => {
+    const open = btn.getAttribute("aria-expanded") === "true";
+    box.querySelectorAll(".preview").forEach(p => p.remove());
+    box.querySelectorAll("[aria-expanded=true]").forEach(x => x.setAttribute("aria-expanded", "false"));
+    if (open) return;
+    btn.setAttribute("aria-expanded", "true");
+    const pv = el("div", { class: "preview" }, el("span", { class: "r", text: r.label }));
+    btn.after(pv);
+    try {
+      const rows = await verseText(r.b, r.c, r.v);
+      for (const [n, t] of rows) pv.append(el("span", { class: "vn", text: n }), divineName(t, document.createDocumentFragment()), " ");
+      if (r.v == null) pv.append(el("span", { class: "missing", text: "…" }));
+    } catch (e) { pv.append("This passage couldn't be loaded."); }
+    pv.append(el("br"), el("a", { href: refHash(r.b, r.c, r.v || undefined), onclick: () => { closeSheets(); closeVerse(); }, text: "Read it in context →" }));
+  };
+  return btn;
+}
+// Easton's text: paragraphs, with references as [[Gen.10.22|Gen. 10:22]].
+function dictParagraph(text) {
+  const p = el("p");
+  let last = 0;
+  for (const m of text.matchAll(/\[\[([^|\]]+)\|([^\]]+)\]\]/g)) {
+    if (m.index > last) p.append(text.slice(last, m.index));
+    const r = parseRef(m[1]);
+    p.append(r ? el("a", { href: refHash(r.b, r.c, r.v || undefined), title: r.label, onclick: () => { closeSheets(); closeVerse(); }, text: m[2] }) : m[2]);
+    last = m.index + m[0].length;
+  }
+  if (last < text.length) p.append(text.slice(last));
+  return p;
+}
+async function showStudyEntry(k, i, push) {
+  if (push && study.i != null) study.back.push([study.k, study.i]);
+  study.k = k; study.i = i;
+  $("study").classList.add("entry");
+  const box = $("study-entry");
+  box.replaceChildren(el("p", { class: "count", text: "Loading…" }));
+  let e, names;
+  try { [e, names] = await Promise.all([studyEntry(k, i), getJSON(STUDY_KIND[k === "t" ? "d" : "t"].index)]); }
+  catch (err) { box.replaceChildren(el("p", { class: "count", text: "This entry couldn't be loaded. Check your connection and try again." })); return; }
+  $("study-title").textContent = k === "t" ? "Topic" : "Bible dictionary";
+  const kids = [el("div", { class: "kind", text: k === "t" ? "Nave’s Topical Bible" : "Easton’s Bible Dictionary" }), el("h3", { text: e.n })];
+  // The same name in the other book.
+  const other = names.findIndex(n => normName(n) === normName(e.n));
+  const also = el("div", { class: "also" });
+  if (other >= 0) also.append(el("button", { type: "button", onclick: () => showStudyEntry(k === "t" ? "d" : "t", other, true),
+    text: k === "t" ? `${e.n} in the dictionary` : `${e.n}: the topic, with its verses` }));
+  if (k === "t" && e.see) {
+    const tnames = await getJSON(STUDY_KIND.t.index);
+    also.append("See also");
+    for (const j of e.see) also.append(el("button", { type: "button", text: tnames[j], onclick: () => showStudyEntry("t", j, true) }));
+  }
+  if (also.childNodes.length) kids.push(also);
+  if (k === "t") {
+    for (const [head, depth, refs] of e.s) {
+      const sub = el("div", { class: `sub d${depth}` });
+      if (head) sub.append(el("p", { text: head }));
+      if (refs.length) {
+        const box2 = el("div", { class: "refs" });
+        for (const r of refs) { const b = refButton(r, box2); if (b) box2.append(b); }
+        sub.append(box2);
+      }
+      kids.push(sub);
+    }
+    kids.push(el("p", { class: "credit", text: "Nave’s Topical Bible (1896), public domain, from CCEL’s edition by way of CrossWire. Verse numbers follow this translation. Tap a reference to read it here." }));
+  } else {
+    const d = el("div", { class: "dict" });
+    if (e.s.length > 2) {
+      d.append(dictParagraph(e.s[0]));
+      const ol = el("ol");
+      for (const s of e.s.slice(1)) { const li = el("li"); for (const para of s.split("\n\n")) li.append(dictParagraph(para)); ol.append(li); }
+      d.append(ol);
+    } else for (const s of e.s) for (const para of s.split("\n\n")) d.append(dictParagraph(para));
+    kids.push(d, el("p", { class: "credit", text: "Easton’s Bible Dictionary (1897), public domain; linked edition from Theographic (CC BY-SA 4.0). Its references follow the King James Version." }));
+  }
+  box.replaceChildren(...kids);
+  $("study").scrollTop = 0;
+}
+$("study-back").onclick = () => {
+  const prev = study.back.pop();
+  if (prev) showStudyEntry(prev[0], prev[1]); else { study.i = null; renderStudy(); }
+};
+$("study-tab-t").onclick = () => setStudyTab("t");
+$("study-tab-d").onclick = () => setStudyTab("d");
+$("study-q").addEventListener("input", () => renderStudy());
+$("open-study").onclick = () => openStudy(study.k);
+// The verse panel: the topics that cite the verse, and the dictionary entries that do,
+// those whose name is in the verse first.
+async function showStudy(b, c, n, span) {
+  for (const id of ["vtopics", "vdict", "vxref"]) { $(id + "-wrap").hidden = true; $(id).textContent = ""; }
+  let S, tn, dn;
+  try { [S, tn, dn] = await Promise.all([getJSON(`study/${b.slug}.json`), getJSON(STUDY_KIND.t.index), getJSON(STUDY_KIND.d.index)]); }
+  catch (e) { return; }
+  if (selected !== span) return;
+  const row = cur.chapter.v.find(r => r[0] === n), text = normName(plainVerse(row ? row[1] : ""));
+  const chips = (list, names, k, id) => {
+    const named = i => text.includes(normName(names[i]).replace(/ \d+$/, "")) ? 0 : 1;
+    const ids = [...list].sort((x, y) => named(x) - named(y) || names[x].localeCompare(names[y]));
+    const ul = $(id), LIMIT = 10;
+    const render = all => {
+      ul.replaceChildren(...(all ? ids : ids.slice(0, LIMIT)).map(i =>
+        el("li", {}, el("button", { type: "button", text: names[i], onclick: () => openStudy(k, i) }))));
+      if (!all && ids.length > LIMIT) ul.append(el("li", {}, el("button", { type: "button", class: "more", text: `+${ids.length - LIMIT} more`, onclick: () => render(true) })));
+    };
+    render(false);
+    $(id + "-wrap").hidden = !ids.length;
+  };
+  chips(S.t[`${c}:${n}`] || [], tn, "t", "vtopics");
+  // Cross-references, most-voted first; tap one to read it here.
+  const xs = (S.x || {})[`${c}:${n}`] || [], box = $("vxref"), XLIMIT = 10;
+  const renderX = all => {
+    box.replaceChildren(...(all ? xs : xs.slice(0, XLIMIT)).map(r => refButton(r, box)).filter(Boolean));
+    if (!all && xs.length > XLIMIT) box.append(el("button", { type: "button", class: "more", text: `+${xs.length - XLIMIT} more`, onclick: () => renderX(true) }));
+  };
+  renderX(false);
+  $("vxref-wrap").hidden = !xs.length;
+  chips(S.d[`${c}:${n}`] || [], dn, "d", "vdict");
+}
+
+/* ---------- Parallel passages ---------- */
+// Built by scripts/parallels.py: Robertson's harmony of the Gospels, by section, and the
+// Companion Bible's table of Samuel and Kings beside Chronicles (and Isaiah).
+// "Matt.5-7", "Mark.11.27-12.12", "Luke.2.39" -> { b, c1, v1, c2, v2 } (v null for whole chapters)
+function rangeOf(ref) {
+  const m = /^([1-3]?[A-Za-z]+)\.(\d+)(?:\.(\d+))?(?:-(\d+)(?:\.(\d+))?)?$/.exec(ref);
+  const b = m && byOsis[m[1]];
+  if (!b) return null;
+  const c1 = +m[2], v1 = m[3] ? +m[3] : null;
+  let c2 = c1, v2 = v1;
+  if (m[4]) { if (v1 == null) c2 = +m[4]; else if (m[5]) { c2 = +m[4]; v2 = +m[5]; } else v2 = +m[4]; }
+  return { b, c1, v1, c2, v2 };
+}
+async function passage(ref) {
+  const r = rangeOf(ref);
+  const data = await getJSON("text/" + r.b.slug + ".json");
+  const out = [];
+  for (let c = r.c1; c <= r.c2; c++) {
+    const ch = data.chapters[c - 1];
+    if (!ch) continue;
+    for (const row of ch.v) {
+      if (r.v1 != null && c === r.c1 && row[0] < r.v1) continue;
+      if (r.v2 != null && c === r.c2 && row[0] > r.v2) continue;
+      out.push([c, row[0], row[1]]);
+    }
+  }
+  return { r, rows: out };
+}
+const parLabel = s => (s.k === "g" ? s.t : s.refs.map(x => parseRef(x)?.label).join(" · "));
+const inSet = (ref, b, c, v) => { const r = rangeOf(ref); return r && r.b === b && (c > r.c1 || (c === r.c1 && (r.v1 == null || v >= r.v1))) && (c < r.c2 || (c === r.c2 && (r.v2 == null || v <= r.v2))); };
+let parTab = "g";
+async function openParallels(i, here) {
+  openSheet("parallel");
+  if (i == null) { $("parallel").classList.remove("compare"); renderParList(); return; }
+  const P = await getJSON("study/parallels.json");
+  const s = P.sets[i];
+  $("parallel").classList.add("compare");
+  $("par-title").textContent = "Side by side";
+  $("par-head").replaceChildren(
+    el("div", { class: "kind", text: s.k === "g" ? `Harmony of the Gospels · section ${s.no} · ${P.parts[s.part]}` : "Samuel and Kings beside Chronicles" }),
+    el("h3", { text: parLabel(s) }));
+  const cols = $("par-cols");
+  cols.replaceChildren(...s.refs.map(() => el("div", { class: "col" }, el("p", { class: "count", text: "Loading…" }))));
+  s.refs.forEach(async (ref, k) => {
+    const col = cols.children[k];
+    try {
+      const { r, rows } = await passage(ref);
+      const label = parseRef(ref).label;
+      const p = el("p");
+      let lastC = null;
+      for (const [c, v, t] of rows) {
+        const span = el("span", { class: "v" + (here && here.b === r.b && here.c === c && here.v === v ? " here" : "") },
+          el("span", { class: "vn", text: lastC !== c && (r.c1 !== r.c2) ? `${c}:${v}` : v }), inline(t || "", null), " ");
+        lastC = c;
+        p.append(span);
+      }
+      col.replaceChildren(el("h4", {}, el("span", { text: label }),
+        el("a", { href: refHash(r.b, r.c1, r.v1 || undefined), onclick: () => { closeSheets(); closeVerse(); }, text: "Open →" })), p);
+    } catch (e) { col.replaceChildren(el("p", { class: "count", text: "This passage couldn't be loaded." })); }
+  });
+  $("parallel").scrollTop = 0;
+}
+async function renderParList() {
+  $("par-title").textContent = "Parallel passages";
+  for (const k of ["g", "k"]) $("par-tab-" + k).setAttribute("aria-selected", String(parTab === k));
+  let P;
+  try { P = await getJSON("study/parallels.json"); } catch (e) { $("par-list").textContent = "The list couldn't be loaded."; return; }
+  const box = $("par-list");
+  box.textContent = "";
+  const item = (s, i, no) => el("li", {}, el("button", { type: "button", onclick: () => openParallels(i) },
+    el("span", { class: "no", text: no }), el("span", { class: "nm", text: parLabel(s) }),
+    s.k === "g" ? el("span", { class: "rr", text: s.refs.map(x => parseRef(x)?.label).join(" · ") }) : null));
+  if (parTab === "g") {
+    box.append(el("p", { class: "count", text: "A. T. Robertson’s Harmony of the Gospels (1922, public domain): the life of Jesus in 184 sections, each with every Gospel that tells it." }));
+    let part = -1, ol = null;
+    P.sets.forEach((s, i) => {
+      if (s.k !== "g") return;
+      if (s.part !== part) { part = s.part; box.append(el("h3", { text: P.parts[part] })); ol = el("ol"); box.append(ol); }
+      ol.append(item(s, i, "§" + s.no));
+    });
+  } else {
+    box.append(el("p", { class: "count", text: "The passages of Samuel and Kings told again in Chronicles, and in Isaiah, from Appendix 56 of the Companion Bible (public domain)." }));
+    const ol = el("ol");
+    let n = 0;
+    P.sets.forEach((s, i) => { if (s.k === "k") ol.append(item(s, i, String(++n))); });
+    box.append(ol);
+  }
+}
+$("par-tab-g").onclick = () => { parTab = "g"; renderParList(); };
+$("par-tab-k").onclick = () => { parTab = "k"; renderParList(); };
+$("par-back").onclick = () => { $("parallel").classList.remove("compare"); renderParList(); };
+$("open-parallels").onclick = () => openParallels();
+// The verse panel: each set of parallels the verse belongs to, with the other passages.
+async function showParallels(b, c, n, span) {
+  $("vpar-wrap").hidden = true; $("vpar").textContent = "";
+  let S, P;
+  try { [S, P] = await Promise.all([getJSON(`study/${b.slug}.json`), getJSON("study/parallels.json")]); } catch (e) { return; }
+  if (selected !== span) return;
+  const ids = (S.p || {})[`${c}:${n}`] || [];
+  const here = { b, c, v: n };
+  for (const i of ids) {
+    const s = P.sets[i];
+    if (s.refs.length < 2) continue;
+    const refs = el("div", { class: "refs" });
+    for (const ref of s.refs) {
+      const r = parseRef(ref);
+      const mine = inSet(ref, b, c, n);
+      refs.append(el("button", { type: "button", class: mine ? "here" : null, text: r.label, title: mine ? "This passage" : "Compare",
+        onclick: () => openParallels(i, here) }));
+    }
+    $("vpar").append(el("div", { class: "par" },
+      el("p", { class: "pt" }, s.k === "g" ? el("small", { text: "§" + s.no }) : null, s.k === "g" ? s.t : "Told again in Chronicles"),
+      refs, el("button", { class: "btn line", type: "button", text: "Compare side by side", onclick: () => openParallels(i, here) })));
+  }
+  $("vpar-wrap").hidden = !$("vpar").childNodes.length;
+}
+
+/* ---------- Reading plans ---------- */
+// Built by scripts/parallels.py. The plan you follow, and the days you've marked, are kept on
+// this device: { id, start (local midnight, ms), done: [day numbers from 0] }.
+let plan = store.get("plan", null);
+const DAY = 86400000;
+const midnight = (d = new Date()) => new Date(d.getFullYear(), d.getMonth(), d.getDate()).getTime();
+// "Gen.1","Gen.2","Gen.3","Exod.1" -> [[Genesis 1–3, href], [Exodus 1, href]]
+function readings(refs) {
+  const out = [];
+  for (const ref of refs) {
+    const [o, c] = ref.split("."), b = byOsis[o];
+    const last = out[out.length - 1];
+    if (last && last.b === b && last.c2 === +c - 1) last.c2 = +c; else out.push({ b, c1: +c, c2: +c });
+  }
+  return out.map(x => [`${x.b.osis === "Ps" ? (x.c1 === x.c2 ? "Psalm" : "Psalms") : x.b.n} ${x.c1}${x.c2 !== x.c1 ? "–" + x.c2 : ""}`, refHash(x.b, x.c1)]);
+}
+function savePlan() { store.set("plan", plan); updatePlanSub(); }
+function updatePlanSub() {
+  const sub = $("plans-sub");
+  if (!plan) { sub.textContent = "Through the Bible in a year, and shorter plans"; return; }
+  getJSON("study/plans.json").then(P => {
+    const p = P.find(x => x.id === plan.id);
+    if (p) sub.textContent = `${p.n}: ${plan.done.length} of ${p.days.length} days read`;
+  }).catch(() => {});
+}
+async function renderPlans() {
+  const body = $("plans-body");
+  let P;
+  try { P = await getJSON("study/plans.json"); } catch (e) { body.textContent = "The plans couldn't be loaded. Check your connection and try again."; return; }
+  const p = plan && P.find(x => x.id === plan.id);
+  if (!p) {
+    body.replaceChildren(el("p", { class: "count", text: "Choose a plan. Your progress is kept on this device." }),
+      el("ul", { class: "plans" }, ...P.map(x => el("li", {}, el("b", { text: x.n }), el("p", { text: x.about }),
+        el("button", { class: "btn line", type: "button", text: "Start today", onclick: () => { plan = { id: x.id, start: midnight(), done: [] }; savePlan(); renderPlans(); } })))));
+    return;
+  }
+  const today = Math.min(p.days.length - 1, Math.max(0, Math.round((midnight() - plan.start) / DAY)));
+  const done = new Set(plan.done);
+  let next = 0;
+  while (next < p.days.length && done.has(next)) next++;
+  const show = next < p.days.length ? next : null;
+  const toggle = d => { done.has(d) ? done.delete(d) : done.add(d); plan.done = [...done].sort((a, b) => a - b); savePlan(); renderPlans(); };
+  const kids = [];
+  if (show == null) kids.push(el("div", { class: "today" }, el("div", { class: "kind", text: p.n }), el("h3", { text: "You’ve finished this plan." })));
+  else {
+    const behind = show < today ? ` · ${today - show} day${today - show === 1 ? "" : "s"} behind` : show > today ? " · ahead of schedule" : "";
+    kids.push(el("div", { class: "today" },
+      el("div", { class: "kind", text: `${p.n} · day ${show + 1} of ${p.days.length}${behind}` }),
+      el("h3", { text: show === today ? "Today’s reading" : "Next reading" }),
+      el("div", { class: "reads" }, ...readings(p.days[show]).map(([t, href]) => el("a", { href, onclick: () => closeSheets(), text: t }))),
+      el("div", { class: "progress", "aria-hidden": "true" }, el("i", { style: `width:${(100 * done.size / p.days.length).toFixed(1)}%` })),
+      el("div", { class: "actions" }, el("button", { class: "btn solid", type: "button", text: `Mark day ${show + 1} read`, onclick: () => toggle(show) }))));
+  }
+  const list = el("ol", { class: "days" });
+  p.days.forEach((refs, d) => {
+    const cb = el("input", { type: "checkbox", "aria-label": `Day ${d + 1} read` });
+    cb.checked = done.has(d);
+    cb.onchange = () => toggle(d);
+    list.append(el("li", { class: (done.has(d) ? "done " : "") + (d === show ? "cur" : "") }, cb, el("span", { class: "d", text: `Day ${d + 1}` }),
+      el("span", {}, ...readings(refs).flatMap(([t, href], k) => [k ? ", " : null, el("a", { href, onclick: () => closeSheets(), text: t })]).filter(Boolean))));
+  });
+  kids.push(list, el("div", { class: "actions", style: "margin-top:12px" },
+    el("button", { class: "btn line", type: "button", text: "Stop this plan", onclick: () => { if (confirm(`Stop “${p.n}”? The days you’ve marked will be cleared.`)) { plan = null; store.set("plan", null); updatePlanSub(); renderPlans(); } } })),
+    el("p", { class: "count", text: `Started ${new Date(plan.start).toLocaleDateString(undefined, { day: "numeric", month: "long", year: "numeric" })}. Your progress is kept on this device.` }));
+  body.replaceChildren(...kids);
+  setTimeout(() => list.querySelector(".cur")?.scrollIntoView({ block: "center" }), 30);
+}
+$("open-plans").onclick = () => { openSheet("plans"); renderPlans(); };
+updatePlanSub();
+
 /* ---------- A word ---------- */
 const lexCache = {};
 async function lexEntry(strong, ot) {
@@ -1010,16 +1559,44 @@ async function showWord(surface, f, ot, aramaic) {
   box.append(dl);
   if (lex && lex[4]) box.append(el("div", { class: "def" }, richDef(lex[4])));
   box.append(el("div", { class: "credit", text: ot ? "Lexicon: STEPBible TBESH (abridged BDB), CC BY 4.0" : "Lexicon: STEPBible TBESG (Abbott-Smith), CC BY 4.0" }));
+  // The full entry, loaded when asked for: Brown-Driver-Briggs or Liddell-Scott-Jones.
+  const key = parts[main];
+  const more = el("button", { class: "btn line full-btn", type: "button", text: ot ? "Full entry: Brown–Driver–Briggs" : "Full entry: Liddell–Scott–Jones" });
+  more.onclick = async () => {
+    more.disabled = true; more.textContent = "Loading…";
+    const full = await fullEntry(key, ot);
+    if (!full) { more.textContent = "No fuller entry for this word"; return; }
+    more.remove();
+    const div = el("div", { class: "def full" });
+    for (const [k, t] of (Array.isArray(full) ? full : [full]).entries()) { if (k) div.append(el("hr")); div.append(richDef(t)); }
+    box.append(div, el("div", { class: "credit", text: ot ? "Brown, Driver and Briggs, A Hebrew and English Lexicon of the Old Testament (1906), public domain; outline and markup by Open Scriptures, CC BY 4.0" : "Liddell, Scott and Jones, A Greek–English Lexicon (1940), public domain; formatted by STEPBible (TFLSJ), CC BY 4.0. Tap a grey label to see the works cited." }));
+  };
+  box.append(more);
   if (innerWidth < 1100) box.scrollIntoView({ block: "nearest", behavior: "smooth" });
+}
+async function fullEntry(strong, ot) {
+  const m = strong.match(/^(\d+)/);
+  if (!m) return null;
+  const file = `lexicon/${ot ? "bdb" : "lsj"}/${String(Math.floor(+m[1] / 100)).padStart(2, "0")}.json`;
+  let data;
+  try { data = await getJSON(file); } catch (e) { return null; }
+  return data[strong] || data[m[1]] || null;
 }
 function richDef(text) {
   const frag = document.createDocumentFragment();
-  const re = /\*\*(.+?)\*\*|_(.+?)_|\[\[([^|\]]+)\|([^\]]+)\]\]/g;
+  const re = /\*\*(.+?)\*\*|_(.+?)_|\[\[([^|\]]+)\|([^\]]+)\]\]|\{\{([^|}]*)\|([^}]*)\}\}/g;
   let last = 0, m;
   while ((m = re.exec(text))) {
     if (m.index > last) frag.append(text.slice(last, m.index));
     if (m[1] != null) frag.append(el("b", { text: m[1] }));
     else if (m[2] != null) frag.append(el("i", { text: m[2] }));
+    else if (m[5] != null) {
+      // A citation in LSJ: a small label that opens to the works cited.
+      const label = m[5], works = m[6];
+      const c = el("button", { type: "button", class: "cite", title: works, text: label });
+      c.onclick = () => { c.classList.toggle("open"); c.textContent = c.classList.contains("open") ? works : label; };
+      frag.append(c);
+    }
     else {
       const [slug, c, v] = m[3].split(".");
       const b = BOOKS.find(x => x.slug === slug);
@@ -1153,11 +1730,44 @@ $("goto").addEventListener("keydown", ev => {
 });
 
 /* ---------- Search ---------- */
-let searchData = null, searchTimer = 0;
+let searchData = null, searchTimer = 0, searchBook = null, bookVerses = null;
+// The parts of the Bible, by the index of their first book.
+const PARTS = [[0, "Law"], [5, "History"], [17, "Poetry"], [22, "Prophets"], [39, "Gospels"], [43, "Acts"], [44, "Letters"], [65, "Rev."]];
+function drawStrip(hits) {
+  const strip = $("q-strip");
+  if (!hits.length) { strip.hidden = true; return; }
+  if (!bookVerses) { bookVerses = {}; for (const r of searchData) bookVerses[r[0]] = (bookVerses[r[0]] || 0) + 1; }
+  const n = {};
+  for (const r of hits) n[r[0]] = (n[r[0]] || 0) + 1;
+  // Shade by matches per verse, on a square-root scale so a few matches still show.
+  const dens = s => (n[s] || 0) / bookVerses[s];
+  const max = Math.max(...BOOKS.map(b => dens(b.slug)));
+  const bars = el("div", { class: "bars", role: "group", "aria-label": "Matches in each book" });
+  const parts = el("div", { class: "parts", "aria-hidden": "true" });
+  BOOKS.forEach((b, k) => {
+    if (k === 39) { bars.append(el("span", { class: "gap" })); parts.append(el("span", { class: "gap" })); }
+    const c = n[b.slug] || 0;
+    const btn = el("button", { type: "button", class: c ? null : "none", title: `${b.n}: ${c ? c.toLocaleString("en-US") + " verse" + (c === 1 ? "" : "s") : "none"}`,
+      "aria-label": `${b.n}, ${c} matching verse${c === 1 ? "" : "s"}`, "aria-pressed": String(searchBook === b.slug), disabled: c ? null : true,
+      style: `--w:${bookVerses[b.slug]};--d:${c ? (0.3 + 0.7 * Math.sqrt(dens(b.slug) / max)).toFixed(3) : 0}`,
+      onclick: () => { searchBook = searchBook === b.slug ? null : b.slug; runSearch(); } });
+    bars.append(btn);
+    const part = PARTS.find(p => p[0] === k);
+    if (part) {
+      const end = (PARTS[PARTS.indexOf(part) + 1] || [66])[0];
+      const w = BOOKS.slice(k, end).reduce((t, x) => t + bookVerses[x.slug], 0);
+      parts.append(el("span", { style: `--w:${w}`, text: part[1] }));
+    }
+  });
+  strip.replaceChildren(bars, parts);
+  strip.hidden = false;
+  // A part too narrow for its name (Acts, Revelation) keeps its rule but not its name.
+  requestAnimationFrame(() => { for (const sp of parts.children) if (sp.scrollWidth > sp.clientWidth + 1) sp.textContent = ""; });
+}
 async function runSearch() {
   const q = $("q").value.trim();
   const out = $("results"); out.textContent = "";
-  if (!q) { $("q-count").textContent = "Search every verse of the translation. Put a phrase in quotes to search for it exactly."; return; }
+  if (!q) { $("q-count").textContent = "Search every verse of the translation. Put a phrase in quotes to search for it exactly."; $("q-strip").hidden = true; searchBook = null; return; }
   const ref = parseRef(q);
   if (ref && /\d/.test(q)) {
     out.append(el("li", {}, el("button", { type: "button", onclick: () => { closeSheets(); go(ref.b, ref.c, ref.v); } },
@@ -1173,9 +1783,15 @@ async function runSearch() {
   if (!terms.length) return;
   const esc = s => s.replace(/[.*+?^${}()|[\]\\]/g, "\\$&");
   const tests = terms.map(t => new RegExp((/^\w/.test(t) ? "\\b" : "") + esc(t), "i"));
-  const hits = [];
-  for (const r of searchData) if (tests.every(re => re.test(r[3]))) hits.push(r);
-  $("q-count").textContent = hits.length ? `${hits.length.toLocaleString("en-US")} verse${hits.length === 1 ? "" : "s"}${hits.length > 300 ? ", showing the first 300" : ""}` : "No verses match.";
+  const all = [];
+  for (const r of searchData) if (tests.every(re => re.test(r[3]))) all.push(r);
+  if (searchBook && !all.some(r => r[0] === searchBook)) searchBook = null;
+  const hits = searchBook ? all.filter(r => r[0] === searchBook) : all;
+  const cnt = $("q-count");
+  cnt.textContent = all.length ? `${all.length.toLocaleString("en-US")} verse${all.length === 1 ? "" : "s"}` : "No verses match.";
+  if (searchBook) cnt.append(`; ${hits.length.toLocaleString("en-US")} in ${bySlug[searchBook].n} `, el("button", { type: "button", text: "Show all books", onclick: () => { searchBook = null; runSearch(); } }));
+  if (hits.length > 300) cnt.append(", showing the first 300");
+  drawStrip(all);
   const mark = new RegExp("(" + terms.map(t => (/^\w/.test(t) ? "\\b" : "") + esc(t)).join("|") + ")", "ig");
   for (const r of hits.slice(0, 300)) {
     const b = bySlug[r[0]];

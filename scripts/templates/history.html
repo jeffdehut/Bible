@@ -3,238 +3,362 @@
 <meta name="description" content="World history from the death and resurrection of Jesus to today, drawn as parallel streams in the manner of Adams' Synchronological Chart.">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Frank+Ruhl+Libre:wght@300..900&family=Libre+Franklin:wght@400;500;600;700&display=swap">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Frank+Ruhl+Libre:wght@300..900&family=Libre+Franklin:wght@400;500;600;700&family=Noto+Serif:ital,wght@0,400;1,400&display=swap">
 <style>
-/* Layout: masthead and controls, a context strip of all of history with a window, the
-   stream chart beneath a sticky year axis, then a chronicle of everything in view. */
+/* Layout, as on the web of Scripture: under the site's bar, the whole window is the chart of
+   streams, scrolling up and down beneath a glass time bar (all of history with a window over the
+   years shown, and the year axis). Controls float over it: search and the ranges at the top, the
+   key at the bottom left, zoom at the bottom right, the card for what is chosen on the right, or
+   from the bottom on phones. The opening title sits in the middle; the chronicle of everything
+   in view and the notes open as panels. */
 :root {
-  --bg: #fbfaf7;
-  --surface: #ffffff;
-  --ink: #161b26;
-  --muted: #5b6475;
-  --faint: #8d95a4;
-  --line: #e4e2db;
-  --grid: #eeece6;
-  --accent: #2646a1;
-  --accent-soft: #e7ecf8;
-  --lapis: var(--accent);
-  --lapis-soft: var(--accent-soft);
-  --gold: #8a640b;
-  --gold-soft: #f6eedb;
-  --shadow: 0 1px 2px rgb(22 27 38 / 6%), 0 10px 30px rgb(22 27 38 / 10%);
-  --display: "Frank Ruhl Libre", Georgia, serif;
+  --bg: #fbfaf7; --surface: #ffffff; --ink: #161b26; --muted: #5b6475; --faint: #8d95a4; --line: #e4e2db; --grid: #e9e6de;
+  --lapis: #2646a1; --lapis-soft: #e7ecf8; --gold: #8a640b; --gold-soft: #f6eedb;
+  --stage-1: #fdfcf9; --stage-2: #efece4;
+  --chrome: color-mix(in srgb, var(--surface) 90%, transparent);
+  --shadow: 0 1px 2px rgb(22 27 38 / 8%), 0 10px 30px rgb(22 27 38 / 12%);
+  --read: "Frank Ruhl Libre", "Noto Serif", Georgia, serif;
   --sans: "Libre Franklin", system-ui, -apple-system, "Segoe UI", sans-serif;
-  --step--1: clamp(0.8rem, 0.78rem + 0.1vw, 0.86rem);
-  --step-0: clamp(0.95rem, 0.92rem + 0.15vw, 1.03rem);
-  --step-1: clamp(1.15rem, 1.08rem + 0.35vw, 1.35rem);
-  --step-2: clamp(1.45rem, 1.3rem + 0.75vw, 1.95rem);
-  --step-4: clamp(2.6rem, 1.9rem + 3.6vw, 5.4rem);
+  --greek: "Noto Serif", "Frank Ruhl Libre", Georgia, serif;
 }
 @media (prefers-color-scheme: dark) {
   :root:not([data-theme="light"]) {
-    --bg: #0d111b; --surface: #131a28; --ink: #e9ecf3; --muted: #a3acbd; --faint: #6f7a90; --line: #263047; --grid: #1a2234;
-    --accent: #9db3ff; --accent-soft: #1c2650; --gold: #e2bd5c; --gold-soft: #2a2414;
-    --shadow: 0 1px 2px rgb(0 0 0 / 35%), 0 12px 32px rgb(0 0 0 / 40%);
+    --bg: #0d111b; --surface: #131a28; --ink: #e9ecf3; --muted: #a3acbd; --faint: #6f7a90; --line: #263047; --grid: #182033;
+    --lapis: #9db3ff; --lapis-soft: #1c2650; --gold: #e2bd5c; --gold-soft: #2a2414;
+    --stage-1: #141c33; --stage-2: #05070d;
+    --shadow: 0 1px 2px rgb(0 0 0 / 35%), 0 12px 32px rgb(0 0 0 / 45%);
     color-scheme: dark;
   }
 }
 :root[data-theme="dark"] {
-  --bg: #0d111b; --surface: #131a28; --ink: #e9ecf3; --muted: #a3acbd; --faint: #6f7a90; --line: #263047; --grid: #1a2234;
-  --accent: #9db3ff; --accent-soft: #1c2650; --gold: #e2bd5c; --gold-soft: #2a2414;
-  --shadow: 0 1px 2px rgb(0 0 0 / 35%), 0 12px 32px rgb(0 0 0 / 40%);
+  --bg: #0d111b; --surface: #131a28; --ink: #e9ecf3; --muted: #a3acbd; --faint: #6f7a90; --line: #263047; --grid: #182033;
+  --lapis: #9db3ff; --lapis-soft: #1c2650; --gold: #e2bd5c; --gold-soft: #2a2414;
+  --stage-1: #141c33; --stage-2: #05070d;
+  --shadow: 0 1px 2px rgb(0 0 0 / 35%), 0 12px 32px rgb(0 0 0 / 45%);
   color-scheme: dark;
 }
 * { box-sizing: border-box; }
 [hidden] { display: none !important; }
+html, body { height: 100%; overflow: hidden; overscroll-behavior: none; }
 html { -webkit-text-size-adjust: 100%; }
 body {
-  margin: 0; background: var(--bg); color: var(--ink); font: 400 var(--step-0)/1.55 var(--sans);
-  padding-left: max(16px, env(safe-area-inset-left, 0px));
-  padding-right: max(16px, env(safe-area-inset-right, 0px));
+  margin: 0; background: var(--bg); color: var(--ink); font: 400 15px/1.45 var(--sans);
+  padding-left: max(16px, env(safe-area-inset-left, 0px)); padding-right: max(16px, env(safe-area-inset-right, 0px));
 }
-.wrap { max-width: 1440px; margin-inline: auto; }
-a { color: var(--accent); }
-:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; border-radius: 4px; }
-h1, h2, h3 { font-family: var(--display); font-weight: 500; text-wrap: balance; margin: 0; }
+a { color: var(--lapis); }
+:focus-visible { outline: 2px solid var(--lapis); outline-offset: 2px; border-radius: 4px; }
+button { font: inherit; color: inherit; }
 
-.masthead { padding-block: clamp(28px, 5vw, 56px) 20px; }
-.masthead .wrap { display: grid; gap: 16px; }
-h1 { font-size: var(--step-4); font-weight: 300; line-height: 0.95; letter-spacing: -0.02em; }
-.lede { max-width: 66ch; font-size: var(--step-1); line-height: 1.5; color: var(--muted); margin: 0; }
-.lede b { color: var(--ink); font-weight: 600; }
-
-/* Controls */
-.controls { display: flex; flex-wrap: wrap; gap: 12px 24px; align-items: center; padding-block: 14px; border-top: 1px solid var(--line); }
-.seg { display: inline-flex; flex-wrap: wrap; gap: 4px; padding: 4px; border-radius: 10px; background: var(--surface); border: 1px solid var(--line); }
-.seg button, .chip, .tool {
-  all: unset; cursor: pointer; font: 500 var(--step--1)/1.2 var(--sans); color: var(--ink); border-radius: 7px; padding: 7px 11px;
+.stage {
+  position: fixed; left: 0; right: 0; bottom: 0; top: calc(var(--bar) + env(safe-area-inset-top, 0px)); overflow: hidden;
+  background: radial-gradient(ellipse 80% 70% at 50% 45%, var(--stage-1), var(--stage-2));
+  --head: 158px;
 }
-.seg button[aria-pressed="true"] { background: var(--accent); color: var(--surface); }
-.seg button:hover:not([aria-pressed="true"]) { background: var(--accent-soft); }
-.seg button:focus-visible, .chip:focus-visible, .tool:focus-visible { outline: 2px solid var(--accent); }
-.chips { display: flex; flex-wrap: wrap; gap: 6px; }
-.chip { display: inline-flex; align-items: center; gap: 7px; border: 1px solid var(--line); background: var(--surface); border-radius: 999px; padding: 6px 11px; }
-.chip i { width: 9px; height: 9px; border-radius: 50%; background: var(--c); }
-.chip[aria-pressed="false"] { color: var(--faint); background: transparent; }
-.chip[aria-pressed="false"] i { background: transparent; box-shadow: inset 0 0 0 1.5px var(--faint); }
-.tools { display: inline-flex; gap: 4px; margin-inline-start: auto; }
-.tool { border: 1px solid var(--line); background: var(--surface); width: 34px; height: 34px; padding: 0; display: grid; place-items: center; font-size: 1rem; }
-.tool:hover { background: var(--accent-soft); }
-.hint { width: 100%; margin: 0; font-size: var(--step--1); color: var(--muted); }
+@media (max-width: 760px) { .stage { --head: 212px; } }
+.ui { transition: opacity 0.6s; }
+.stage:not(.ready) .ui { opacity: 0; pointer-events: none; }
 
-/* Context strip */
-.overview-wrap { margin-top: 4px; }
-#overview { display: block; width: 100%; height: 64px; }
-#overview .density { fill: var(--faint); opacity: 0.45; }
-#overview .tick text { fill: var(--muted); font: 500 10px var(--sans); font-variant-numeric: tabular-nums; }
-#overview .tick line { stroke: var(--line); }
-#overview .anchor { stroke: var(--gold); stroke-width: 1.5; }
-#overview .selection { fill: var(--accent); fill-opacity: 0.14; stroke: var(--accent); stroke-width: 1.5; rx: 4px; }
-#overview .handle { fill: var(--accent); }
-
-/* Chart */
-.chart-card { scroll-margin-top: calc(var(--bar) + env(safe-area-inset-top, 0px) + 8px); margin-top: 12px; background: var(--surface); border: 1px solid var(--line); border-radius: 14px; box-shadow: var(--shadow); }
-.axis-wrap { position: sticky; top: calc(env(safe-area-inset-top, 0px) + var(--bar)); z-index: 4; background: var(--surface); border-bottom: 1px solid var(--line); border-radius: 14px 14px 0 0; }
-#axis { display: block; width: 100%; height: 34px; }
-#axis text { fill: var(--muted); font: 500 11px var(--sans); font-variant-numeric: tabular-nums; }
-#axis .range { fill: var(--ink); font: 600 11px var(--sans); }
+/* The chart, scrolling beneath the time bar */
+.scroller {
+  position: absolute; inset: 0; overflow-y: auto; overflow-x: hidden; overscroll-behavior: contain;
+  padding-top: var(--head); padding-bottom: 60vh; transition: opacity 1s;
+}
+.stage:not(.ready) .scroller { opacity: 0.4; }
 #chart { display: block; width: 100%; touch-action: pan-y; cursor: grab; }
 #chart:active { cursor: grabbing; }
 #chart .grid line { stroke: var(--grid); }
 #chart .grid line.major { stroke: var(--line); }
-#chart .band-label { font: 600 11px var(--sans); letter-spacing: 0.06em; text-transform: uppercase; }
-#chart .band-bg { opacity: 0.045; }
+#chart .band-label { font: 600 11px var(--sans); letter-spacing: 0.06em; text-transform: uppercase; paint-order: stroke; stroke: var(--halo); stroke-width: 3px; stroke-linejoin: round; }
+#chart .band-bg { opacity: 0.05; }
 #chart .group-label { fill: var(--muted); font: 600 10px var(--sans); letter-spacing: 0.14em; text-transform: uppercase; }
 #chart .mark { cursor: pointer; }
 #chart .mark text { font: 500 11px var(--sans); pointer-events: none; }
 #chart .mark.sel rect, #chart .mark.sel path { stroke: var(--ink); stroke-width: 2; stroke-dasharray: none; }
+#chart.dimmed .mark:not(.sel):not(.kin) { opacity: 0.35; }
 #chart .anchor line { stroke: var(--gold); stroke-width: 1.5; }
 #chart .anchor text { fill: var(--gold); font: 600 11px var(--sans); }
-#chart .now line { stroke: var(--accent); stroke-width: 1.5; stroke-dasharray: 4 3; }
-#chart .now text { fill: var(--accent); font: 600 11px var(--sans); }
-.chart-foot { display: flex; flex-wrap: wrap; gap: 6px 18px; padding: 10px 14px; border-top: 1px solid var(--line); font-size: var(--step--1); color: var(--muted); }
-.key { display: inline-flex; align-items: center; gap: 6px; }
-.key svg { width: 26px; height: 12px; }
+#chart .now line { stroke: var(--lapis); stroke-width: 1.5; stroke-dasharray: 4 3; }
+#chart .now text { fill: var(--lapis); font: 600 11px var(--sans); }
+:root { --halo: rgba(251, 250, 247, 0.9); }
+@media (prefers-color-scheme: dark) { :root:not([data-theme="light"]) { --halo: rgba(5, 7, 13, 0.85); } }
+:root[data-theme="dark"] { --halo: rgba(5, 7, 13, 0.85); }
+
+/* The opening title */
+.title {
+  position: absolute; inset: 0; display: grid; place-content: center; text-align: center; padding: 24px; pointer-events: none;
+  transition: opacity 0.9s, transform 1.2s;
+}
+.title.gone { opacity: 0; transform: scale(1.04); }
+.title h1 { margin: 0; font: 300 clamp(40px, 9vw, 84px)/1 var(--read); letter-spacing: -0.02em; color: var(--ink); text-wrap: balance; }
+.title h1, .title p { text-shadow: 0 0 18px var(--stage-1), 0 0 36px var(--stage-1); }
+.title .grc { margin: 14px 0 0; font: italic 400 clamp(17px, 2.6vw, 24px)/1.3 var(--greek); color: var(--gold); }
+.title .en { margin: 4px 0 0; font: 500 13px/1.4 var(--sans); color: var(--muted); }
+.title .count { margin: 18px 0 0; font: 600 11.5px/1.4 var(--sans); letter-spacing: 0.12em; text-transform: uppercase; color: var(--muted); }
+.title .skip { margin: 26px 0 0; font: 500 12px/1 var(--sans); color: var(--faint); }
+@media (prefers-reduced-motion: no-preference) {
+  .title h1, .title p { animation: rise 1.4s cubic-bezier(.2, .7, .2, 1) both; }
+  .title .grc { animation-delay: 0.25s; } .title .en { animation-delay: 0.4s; } .title .count { animation-delay: 0.7s; } .title .skip { animation-delay: 1.4s; }
+}
+@keyframes rise { from { opacity: 0; transform: translateY(10px); filter: blur(4px); } to { opacity: 1; transform: none; filter: none; } }
+
+/* Controls over the chart */
+.top { position: absolute; z-index: 4; top: 12px; left: 12px; right: 12px; display: flex; gap: 8px; align-items: flex-start; pointer-events: none; }
+.top > * { pointer-events: auto; }
+.finder { position: relative; flex: 1 1 auto; max-width: 360px; }
+.finder input {
+  width: 100%; font: 400 16px/1.3 var(--sans); color: var(--ink); background: var(--chrome); backdrop-filter: blur(10px); -webkit-backdrop-filter: blur(10px);
+  border: 1px solid var(--line); border-radius: 12px; padding: 10px 14px 10px 38px; box-shadow: var(--shadow);
+}
+.finder input:focus { outline: 2px solid var(--lapis); outline-offset: 0; border-color: transparent; }
+.finder svg { position: absolute; z-index: 1; left: 12px; top: 50%; width: 17px; height: 17px; transform: translateY(-50%); color: var(--muted); pointer-events: none; }
+.results {
+  position: absolute; z-index: 6; inset: calc(100% + 6px) 0 auto 0; margin: 0; padding: 6px; list-style: none;
+  background: var(--surface); border: 1px solid var(--line); border-radius: 12px; box-shadow: var(--shadow); max-height: min(380px, 60vh); overflow-y: auto;
+}
+.results li { display: flex; align-items: center; gap: 10px; padding: 8px 10px; border-radius: 8px; cursor: pointer; }
+.results li[aria-selected="true"], .results li:hover { background: var(--lapis-soft); }
+.results b { font: 500 15px/1.25 var(--read); }
+.results small { display: block; color: var(--muted); font-size: 12.5px; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+.results span { min-width: 0; }
+.dot { flex: none; width: 11px; height: 11px; border-radius: 50%; background: var(--c); }
+.dot.star { border-radius: 2px; transform: rotate(45deg) scale(0.85); }
+.pill {
+  display: inline-flex; gap: 2px; padding: 3px; border-radius: 12px; background: var(--chrome); backdrop-filter: blur(10px); -webkit-backdrop-filter: blur(10px);
+  border: 1px solid var(--line); box-shadow: var(--shadow); flex: none; max-width: 100%; overflow-x: auto; scrollbar-width: none;
+}
+.pill::-webkit-scrollbar { display: none; }
+.pill button { border: 0; background: transparent; cursor: pointer; border-radius: 9px; padding: 7px 11px; font: 600 13px/1 var(--sans); color: var(--muted); min-height: 34px; white-space: nowrap; flex: none; }
+.pill button[aria-pressed="true"] { background: var(--lapis); color: var(--surface); }
+.pill button:hover:not([aria-pressed="true"]) { background: var(--lapis-soft); color: var(--ink); }
+.pill .icon { display: grid; place-items: center; padding: 0; width: 34px; }
+.pill svg { width: 18px; height: 18px; }
+.pill .short { display: none; }
+@media (max-width: 480px) { .pill .long { display: none; } .pill .short { display: inline; } }
+.pill .sep { flex: none; width: 1px; margin: 6px 3px; background: var(--line); }
+
+/* The time bar: all of history with a window, and the axis of the years shown */
+.timebar {
+  position: absolute; z-index: 3; top: 62px; left: 12px; right: 12px; display: grid; grid-template-columns: auto minmax(0, 1fr) auto; align-items: center; gap: 4px;
+  background: var(--chrome); backdrop-filter: blur(10px); -webkit-backdrop-filter: blur(10px);
+  border: 1px solid var(--line); border-radius: 14px; box-shadow: var(--shadow); padding: 4px;
+}
+@media (max-width: 760px) { .timebar { top: 116px; } }
+@media (min-width: 761px) { body.card-open .timebar { right: 384px; } }
+.timebar .step { width: 34px; height: 76px; border: 0; background: transparent; border-radius: 10px; cursor: pointer; display: grid; place-items: center; color: var(--muted); }
+.timebar .step:hover { background: var(--lapis-soft); color: var(--ink); }
+.timebar .step svg { width: 18px; height: 18px; }
+#overview { display: block; width: 100%; height: 44px; }
+#overview .density { fill: var(--faint); opacity: 0.45; }
+#overview .tick text { fill: var(--muted); font: 500 10px var(--sans); font-variant-numeric: tabular-nums; }
+#overview .tick line { stroke: var(--line); }
+#overview .anchor { stroke: var(--gold); stroke-width: 1.5; }
+#overview .selection { fill: var(--lapis); fill-opacity: 0.16; stroke: var(--lapis); stroke-width: 1.5; }
+#axis { display: block; width: 100%; height: 30px; border-top: 1px solid var(--line); }
+#axis text { fill: var(--muted); font: 500 11px var(--sans); font-variant-numeric: tabular-nums; }
+
+.zoom { position: absolute; z-index: 4; right: 12px; bottom: calc(12px + env(safe-area-inset-bottom, 0px)); display: grid; gap: 6px; }
+.zoom button {
+  width: 40px; height: 40px; display: grid; place-items: center; border: 1px solid var(--line); border-radius: 12px; cursor: pointer;
+  background: var(--chrome); backdrop-filter: blur(10px); -webkit-backdrop-filter: blur(10px); box-shadow: var(--shadow); color: var(--ink);
+}
+.zoom svg { width: 18px; height: 18px; }
+
+.key {
+  position: absolute; z-index: 4; left: 12px; bottom: calc(12px + env(safe-area-inset-bottom, 0px)); max-width: min(380px, calc(100% - 76px));
+  background: var(--chrome); backdrop-filter: blur(10px); -webkit-backdrop-filter: blur(10px);
+  border: 1px solid var(--line); border-radius: 14px; box-shadow: var(--shadow); padding: 8px;
+}
+.key summary { list-style: none; cursor: pointer; display: flex; align-items: center; gap: 8px; padding: 4px 6px; font: 600 12px/1.2 var(--sans); letter-spacing: 0.08em; text-transform: uppercase; color: var(--muted); }
+.key summary::-webkit-details-marker { display: none; }
+.key summary .dots { display: flex; gap: 3px; }
+.key summary .dots i { width: 8px; height: 8px; border-radius: 50%; background: var(--c); }
+.key[open] summary .dots { display: none; }
+.key .chips { display: flex; flex-wrap: wrap; gap: 4px; padding: 6px 2px 2px; }
+.key .chip {
+  display: inline-flex; align-items: center; gap: 6px; border: 1px solid transparent; background: transparent; border-radius: 999px;
+  padding: 5px 9px 5px 7px; font: 500 12.5px/1.2 var(--sans); cursor: pointer; color: var(--ink);
+}
+.key .chip:hover { background: var(--lapis-soft); }
+.key .chip[aria-pressed="false"] { color: var(--faint); }
+.key .chip[aria-pressed="false"] .dot { background: transparent; box-shadow: inset 0 0 0 1.5px var(--faint); }
+.key .legend { display: flex; flex-wrap: wrap; gap: 4px 14px; margin: 6px 6px 0; font-size: 12px; color: var(--muted); }
+.key .legend span { display: inline-flex; align-items: center; gap: 6px; }
+.key .legend svg { width: 22px; height: 12px; }
+.key .hint { margin: 6px 6px 2px; font-size: 12px; color: var(--muted); }
 
 .tip {
   position: fixed; z-index: 20; pointer-events: none; max-width: 300px; padding: 8px 10px; border-radius: 8px;
-  background: var(--ink); color: var(--bg); font-size: var(--step--1); line-height: 1.35; box-shadow: var(--shadow);
+  background: var(--ink); color: var(--bg); font-size: 13px; line-height: 1.35; box-shadow: var(--shadow);
 }
 .tip b { display: block; font-weight: 600; }
 
-/* Detail */
-.detail {
-  position: fixed; z-index: 30; right: max(16px, env(safe-area-inset-right, 0px)); bottom: max(16px, env(safe-area-inset-bottom, 0px));
-  width: min(380px, calc(100vw - 32px)); max-height: min(70vh, 520px); overflow-y: auto;
-  background: var(--surface); border: 1px solid var(--line); border-radius: 14px; box-shadow: var(--shadow); padding: 18px 18px 16px;
-  display: grid; gap: 10px;
+/* The card for what is chosen */
+.card {
+  position: absolute; z-index: 5; top: 64px; right: 12px; max-height: calc(100% - 80px); width: 360px; overflow-y: auto; overscroll-behavior: contain;
+  background: var(--surface); border: 1px solid var(--line); border-radius: 16px; box-shadow: var(--shadow); padding: 16px 16px 18px;
+  display: flex; flex-direction: column; gap: 12px;
 }
-.detail .kind { display: flex; align-items: center; gap: 8px; font: 600 var(--step--1)/1.2 var(--sans); letter-spacing: 0.08em; text-transform: uppercase; color: var(--muted); }
-.detail .kind i { width: 10px; height: 10px; border-radius: 50%; background: var(--c); }
-.detail h2 { font-size: var(--step-2); line-height: 1.1; padding-right: 32px; }
-.detail .when { font: 500 var(--step-0)/1.3 var(--sans); font-variant-numeric: tabular-nums; }
-.detail p { margin: 0; }
-.detail .close { all: unset; cursor: pointer; position: absolute; top: 12px; right: 12px; width: 32px; height: 32px; display: grid; place-items: center; border-radius: 8px; font-size: 1.2rem; color: var(--muted); }
-.detail .close:hover { background: var(--accent-soft); }
-.detail .close:focus-visible { outline: 2px solid var(--accent); }
-.detail .meta { font-size: var(--step--1); color: var(--muted); }
+@media (min-width: 761px) { body.card-open .zoom { right: 384px; } }
+.card .grab { display: none; }
+.card .close { position: absolute; top: 10px; right: 10px; width: 34px; height: 34px; border: 0; background: transparent; border-radius: 9px; cursor: pointer; display: grid; place-items: center; color: var(--muted); }
+.card .close:hover { background: var(--lapis-soft); }
+.card .kicker { display: flex; align-items: center; gap: 8px; font: 600 11.5px/1.3 var(--sans); letter-spacing: 0.1em; text-transform: uppercase; color: var(--muted); padding-right: 36px; }
+.card h2 { margin: -4px 0 0; font: 500 26px/1.1 var(--read); padding-right: 30px; text-wrap: balance; }
+.card h2 small { display: block; margin-top: 6px; font: 500 14px/1.3 var(--sans); color: var(--muted); font-variant-numeric: tabular-nums; }
+.card p { margin: 0; }
+.card .meta { font-size: 13.5px; color: var(--muted); }
+.actions { display: flex; flex-wrap: wrap; gap: 6px; }
+.act {
+  display: inline-flex; align-items: center; gap: 6px; text-decoration: none; border-radius: 10px; padding: 8px 12px; font: 600 13.5px/1.2 var(--sans);
+  border: 1px solid var(--line); color: var(--ink); background: var(--surface); cursor: pointer;
+}
+.act.solid { background: var(--lapis); color: var(--surface); border-color: var(--lapis); }
+.act svg { width: 16px; height: 16px; }
+.rel h3 { margin: 0 0 6px; font: 600 11.5px/1.2 var(--sans); letter-spacing: 0.08em; text-transform: uppercase; color: var(--muted); }
+.rel .list { display: flex; flex-wrap: wrap; gap: 5px; }
+.node-chip {
+  display: inline-flex; align-items: center; gap: 6px; border: 0; cursor: pointer; border-radius: 999px; padding: 5px 10px 5px 8px;
+  background: var(--lapis-soft); color: var(--ink); font: 500 13px/1.2 var(--sans); text-align: left;
+}
+.node-chip:hover { box-shadow: inset 0 0 0 1px var(--lapis); }
+.node-chip small { color: var(--muted); font-weight: 400; }
+.node-chip .dot { width: 8px; height: 8px; }
 
-/* Chronicle */
-section { padding-block: clamp(28px, 5vw, 56px); }
-.section-head { display: grid; gap: 8px; margin-bottom: 18px; max-width: 72ch; }
-.section-head h2 { font-size: var(--step-2); }
-.section-head p { margin: 0; color: var(--muted); }
-.chronicle { display: grid; gap: 22px; }
-.century h3 { font-size: var(--step-1); font-weight: 500; padding-bottom: 6px; border-bottom: 1px solid var(--line); margin-bottom: 4px; }
-.century ol { list-style: none; margin: 0; padding: 0; columns: 2 380px; column-gap: 32px; }
+@media (max-width: 760px) {
+  .card {
+    top: auto; left: 0; right: 0; bottom: 0; width: auto; max-height: 52%; border-radius: 18px 18px 0 0; border-bottom: 0;
+    padding: 6px max(16px, env(safe-area-inset-left, 0px)) max(18px, env(safe-area-inset-bottom, 0px));
+  }
+  .card .grab { display: block; flex: none; width: 40px; height: 4px; border-radius: 4px; background: var(--line); margin: 2px auto 4px; }
+  .card .close { top: 12px; }
+  .card h2 { font-size: 23px; }
+  body.card-open .zoom, body.card-open .key { display: none; }
+  .top { flex-wrap: wrap; }
+  .finder { flex-basis: 100%; max-width: none; order: 2; }
+  .pill { order: 1; }
+  .top .spacer { flex: 1; order: 1; }
+}
+
+/* Panels: the chronicle of what is in view, and about this chart */
+.panel {
+  position: absolute; z-index: 7; top: 64px; left: 50%; transform: translateX(-50%); width: min(720px, calc(100% - 24px)); max-height: calc(100% - 88px); overflow-y: auto;
+  background: var(--surface); border: 1px solid var(--line); border-radius: 16px; box-shadow: var(--shadow); padding: 18px 20px;
+}
+@media (max-width: 760px) { .panel { top: 112px; max-height: calc(100% - 124px); } }
+.panel h2 { margin: 0 0 8px; font: 500 22px/1.2 var(--read); }
+.panel p { margin: 0 0 10px; font-size: 14.5px; }
+.panel .sub { color: var(--muted); }
+.panel .close { float: right; border: 0; background: transparent; cursor: pointer; border-radius: 9px; width: 34px; height: 34px; display: grid; place-items: center; color: var(--muted); }
+.panel .close:hover { background: var(--lapis-soft); }
+.panel .epigraph { margin: 0 0 12px; color: var(--gold); font: italic 400 20px/1.3 var(--greek); }
+.panel .epigraph small { display: block; font: 500 12.5px/1.3 var(--sans); color: var(--muted); font-style: normal; }
+.chronicle { display: grid; gap: 18px; }
+.century h3 { margin: 0 0 4px; font: 500 18px/1.2 var(--read); padding-bottom: 6px; border-bottom: 1px solid var(--line); }
+.century ol { list-style: none; margin: 0; padding: 0; columns: 2 300px; column-gap: 24px; }
 .century li { break-inside: avoid; }
 .century button {
-  all: unset; cursor: pointer; box-sizing: border-box; width: 100%; display: grid; grid-template-columns: 112px minmax(0, 1fr); gap: 2px 12px;
-  padding: 7px 6px; border-radius: 8px;
+  all: unset; cursor: pointer; box-sizing: border-box; width: 100%; display: grid; grid-template-columns: 100px minmax(0, 1fr); gap: 2px 12px;
+  padding: 6px; border-radius: 8px;
 }
-.century button:hover { background: var(--accent-soft); }
-.century button:focus-visible { outline: 2px solid var(--accent); }
-.century .yr { font: 500 var(--step--1)/1.5 var(--sans); font-variant-numeric: tabular-nums; color: var(--muted); font-variant-numeric: tabular-nums; }
+.century button:hover { background: var(--lapis-soft); }
+.century button:focus-visible { outline: 2px solid var(--lapis); }
+.century .yr { font: 500 13px/1.5 var(--sans); font-variant-numeric: tabular-nums; color: var(--muted); }
 .century .nm { font-weight: 500; }
-.century .st { grid-column: 2; display: inline-flex; align-items: center; gap: 6px; font-size: var(--step--1); color: var(--muted); }
+.century .st { grid-column: 2; display: inline-flex; align-items: center; gap: 6px; font-size: 12.5px; color: var(--muted); }
 .century .st i { width: 8px; height: 8px; border-radius: 50%; background: var(--c); flex: none; }
-.more-note { color: var(--muted); font-size: var(--step--1); }
-
-footer { border-top: 1px solid var(--line); padding-block: 28px 48px; color: var(--muted); font-size: var(--step--1); }
-footer .wrap { display: grid; gap: 8px; max-width: 86ch; margin-inline: 0; }
-footer p { margin: 0; }
-@media (max-width: 640px) {
-  .tools { margin-inline-start: 0; }
-  .century button { grid-template-columns: 96px minmax(0, 1fr); }
-}
+.visually-hidden { position: absolute; width: 1px; height: 1px; overflow: hidden; clip: rect(0 0 0 0); white-space: nowrap; }
 </style>
 
 <!-- APPBAR -->
 
-<header class="masthead">
-  <div class="wrap">
+<main class="stage" id="stage">
+  <div class="scroller" id="scroller">
+    <svg id="chart" role="img" aria-label="World-history streams; the chronicle lists everything shown"></svg>
+  </div>
+
+  <div class="title" id="title" aria-hidden="true">
     <h1>Streams of Time</h1>
-    <p class="lede">History from the <b>death and resurrection of Jesus, about AD 30,</b> to today: the empires, churches, scriptures and thinkers of every continent, side by side. After Sebastian Adams’ <i>Synchronological Chart</i> of 1871, with modern dates throughout.</p>
+    <p class="grc" lang="grc">ὅτε δὲ ἦλθεν τὸ πλήρωμα τοῦ χρόνου</p>
+    <p class="en">“When the fullness of time had come.” Galatians 4:4</p>
+    <p class="count" id="count">&nbsp;</p>
+    <p class="skip">Tap anywhere to begin</p>
   </div>
-</header>
 
-<main>
-  <div class="wrap">
-    <div class="controls" role="group" aria-label="Chart controls">
-      <div class="seg" id="ranges" role="group" aria-label="Years shown"></div>
-      <div class="chips" id="groups" role="group" aria-label="Streams shown"></div>
-      <div class="tools">
-        <button class="tool" id="earlier" type="button" aria-label="Earlier">‹</button>
-        <button class="tool" id="zoom-out" type="button" aria-label="Zoom out">−</button>
-        <button class="tool" id="zoom-in" type="button" aria-label="Zoom in">+</button>
-        <button class="tool" id="later" type="button" aria-label="Later">›</button>
-      </div>
-      <p class="hint" id="hint">Drag the chart or the window in the strip below to move through time. Pinch, or hold Ctrl and scroll, to zoom.</p>
+  <div class="top ui">
+    <div class="finder">
+      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><circle cx="11" cy="11" r="7"/><path d="m20 20-3.5-3.5"/></svg>
+      <label for="q" class="visually-hidden">Find a ruler, a life or an event</label>
+      <input id="q" type="search" autocomplete="off" spellcheck="false" enterkeyhint="search" placeholder="Find Augustine, Charlemagne, Nicaea…"
+             role="combobox" aria-expanded="false" aria-controls="results" aria-autocomplete="list">
+      <ul class="results" id="results" role="listbox" hidden></ul>
     </div>
-    <div class="overview-wrap"><svg id="overview" role="img" aria-label="All of history, with the years shown highlighted"></svg></div>
-    <div class="chart-card">
-      <div class="axis-wrap"><svg id="axis" aria-hidden="true"></svg></div>
-      <svg id="chart" role="img" aria-label="World-history streams; the chronicle below lists everything shown"></svg>
-      <div class="chart-foot" aria-hidden="true">
-        <span class="key"><svg viewBox="0 0 26 12"><rect x="1" y="2" width="24" height="8" rx="2" fill="var(--faint)" opacity=".25"/></svg>Era</span>
-        <span class="key"><svg viewBox="0 0 26 12"><rect x="1" y="2" width="24" height="8" rx="2" fill="var(--faint)" opacity=".5"/></svg>Dynasty or movement</span>
-        <span class="key"><svg viewBox="0 0 26 12"><rect x="1" y="2" width="24" height="8" rx="2" fill="var(--faint)"/></svg>Reign or life</span>
-        <span class="key"><svg viewBox="0 0 26 12"><path d="M13 1 18 6 13 11 8 6Z" fill="var(--faint)"/></svg>Event</span>
-        <span class="key"><svg viewBox="0 0 26 12"><rect x="1" y="2" width="24" height="8" rx="2" fill="none" stroke="var(--faint)" stroke-dasharray="3 2"/></svg>Approximate dates</span>
-      </div>
+    <span class="spacer"></span>
+    <div class="pill" id="ranges" role="group" aria-label="Years shown">
+      <span class="sep" aria-hidden="true"></span>
+      <button type="button" class="icon" data-panel="chronicle" aria-label="Chronicle of the years shown" title="Chronicle of the years shown"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M9 6h11M9 12h11M9 18h11M4.5 6h.01M4.5 12h.01M4.5 18h.01"/></svg></button>
+      <button type="button" class="icon" data-panel="about" aria-label="About this chart" title="About this chart"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><circle cx="12" cy="12" r="9"/><path d="M12 11v6M12 7.5v.5"/></svg></button>
     </div>
   </div>
 
-  <section aria-labelledby="chron-h">
-    <div class="wrap">
-      <div class="section-head">
-        <h2 id="chron-h">Chronicle</h2>
-        <p id="chron-sub">Everything in the years shown above, in order.</p>
-      </div>
-      <div class="chronicle" id="chronicle"></div>
+  <div class="timebar ui">
+    <button type="button" class="step" id="earlier" aria-label="Earlier"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="m15 5-7 7 7 7"/></svg></button>
+    <div>
+      <svg id="overview" role="img" aria-label="All of history, with the years shown highlighted; drag the window to move"></svg>
+      <svg id="axis" aria-hidden="true"></svg>
     </div>
+    <button type="button" class="step" id="later" aria-label="Later"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="m9 5 7 7-7 7"/></svg></button>
+  </div>
+
+  <details class="key ui" id="key">
+    <summary><span>Key</span><span class="dots" id="key-dots"></span></summary>
+    <div class="chips" id="groups" role="group" aria-label="Show or hide"></div>
+    <div class="legend" aria-hidden="true">
+      <span><svg viewBox="0 0 22 12"><rect x="1" y="2" width="20" height="8" rx="2" fill="var(--faint)" opacity=".25"/></svg>Era</span>
+      <span><svg viewBox="0 0 22 12"><rect x="1" y="2" width="20" height="8" rx="2" fill="var(--faint)" opacity=".5"/></svg>Dynasty or movement</span>
+      <span><svg viewBox="0 0 22 12"><rect x="1" y="2" width="20" height="8" rx="2" fill="var(--faint)"/></svg>Reign or life</span>
+      <span><svg viewBox="0 0 22 12"><path d="M11 1 16 6 11 11 6 6Z" fill="var(--faint)"/></svg>Event</span>
+      <span><svg viewBox="0 0 22 12"><rect x="1" y="2" width="20" height="8" rx="2" fill="none" stroke="var(--faint)" stroke-dasharray="3 2"/></svg>Approximate dates</span>
+    </div>
+    <p class="hint">Tap a color to show or hide it. Drag the chart or the window above to move through time; pinch, or hold Ctrl and scroll, to zoom.</p>
+  </details>
+
+  <div class="zoom ui">
+    <button type="button" id="zoom-in" aria-label="Zoom in"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round"><path d="M12 5v14M5 12h14"/></svg></button>
+    <button type="button" id="zoom-out" aria-label="Zoom out"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round"><path d="M5 12h14"/></svg></button>
+    <button type="button" id="zoom-fit" aria-label="All of history"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M4 9V4h5M20 9V4h-5M4 15v5h5M20 15v5h-5"/></svg></button>
+  </div>
+
+  <article class="card" id="card" hidden aria-live="polite"></article>
+
+  <section class="panel" id="chronicle-panel" hidden aria-labelledby="chron-h">
+    <button type="button" class="close" data-close aria-label="Close"><svg viewBox="0 0 24 24" width="18" height="18" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M6 6l12 12M18 6 6 18"/></svg></button>
+    <h2 id="chron-h">Chronicle</h2>
+    <p class="sub" id="chron-sub">Everything in the years shown, in order.</p>
+    <div class="chronicle" id="chronicle"></div>
+  </section>
+
+  <section class="panel" id="about" hidden aria-labelledby="about-h">
+    <button type="button" class="close" data-close aria-label="Close"><svg viewBox="0 0 24 24" width="18" height="18" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M6 6l12 12M18 6 6 18"/></svg></button>
+    <h2 id="about-h">Streams of Time</h2>
+    <p class="epigraph" lang="grc">ὅτε δὲ ἦλθεν τὸ πλήρωμα τοῦ χρόνου<small>“When the fullness of time had come.” Galatians 4:4</small></p>
+    <p>History from the <b>death and resurrection of Jesus, about AD 30,</b> to today: the empires, churches, scriptures and thinkers of every continent, side by side. After Sebastian Adams’ <i>Synchronological Chart</i> of 1871, with modern dates throughout.</p>
+    <p><b>Sources and method.</b> The rows are curated in this project’s <code>data/</code> tables (periods, rulers, events and lives), using the conventional dates of standard references, with Wikidata identifiers wherever an item’s English label matched exactly. Ancient and early medieval dates are often approximate and are marked so.</p>
+    <p class="sub">The Bible lane shows events the Bible narrates that outside evidence dates: modern dates, with Ussher’s date in each item’s details. The chart follows the plan of Sebastian C. Adams’ <i>Synchronological Chart, or Map of History</i> (1871). Built from the project’s data by <code>scripts/connections.py</code>.</p>
   </section>
 </main>
 
-<aside class="detail" id="detail" hidden aria-live="polite"></aside>
 <div class="tip" id="tip" hidden></div>
-
-<footer>
-  <div class="wrap">
-    <p><b>Sources and method.</b> The rows are curated in this project’s <code>data/</code> tables (periods, rulers, events and lives), using the conventional dates of standard references, with Wikidata identifiers wherever an item’s English label matched exactly. Ancient and early medieval dates are often approximate and are marked so.</p>
-    <p>The Bible lane shows events the Bible narrates that outside evidence dates: modern dates, with Ussher’s date in each item’s details. The chart follows the plan of Sebastian C. Adams’ <i>Synchronological Chart, or Map of History</i> (1871). Part of the Plain English Bible, built from the project’s data by <code>scripts/connections.py</code>.</p>
-  </div>
-</footer>
 
 <!-- DATA -->
 <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/7.8.5/d3.min.js"></script>
 <script>
 (() => {
-  const D = JSON.parse(document.getElementById("data").textContent);
+  const $ = id => document.getElementById(id);
+  const D = JSON.parse($("data").textContent);
   const PRESENT = D.present;
   const FULL = [-3200, PRESENT + 8];
-  const RANGES = [["AD 30 – today", [18, PRESENT + 8]], ["Since 1500", [1480, PRESENT + 6]],
-                  ["Antiquity", [-3150, 70]], ["All of history", FULL]];
+  const RANGES = [["Since AD 30", "AD 30", [18, PRESENT + 8]], ["Since 1500", "1500", [1480, PRESENT + 6]],
+                  ["Antiquity", "Ancient", [-3150, 70]], ["All", "All", FULL]];
   const GROUP_HUE = { "Bible lands": 32, "Faith and scripture": 224, "Mediterranean and Europe": 352, "Asia": 158,
                       "Africa and the Americas": 278, "The wider world": 200 };
   const KIND = { pe: "Era", pd: "Dynasty or movement", r: "Reign", f: "Life", e: "Event" };
@@ -259,7 +383,13 @@ footer p { margin: 0; }
     for (const c of kids.flat()) if (c != null) n.append(c);
     return n;
   };
+  const svgIcon = path => { const s = el("span", { style: "display:contents" }); s.innerHTML = path; return s; };
   const reduced = matchMedia("(prefers-reduced-motion: reduce)").matches;
+  // A verse in the reader: "1 Kings 14:25" -> index.html#1-kings-14-25
+  const readerHref = ref => {
+    const m = /^(.+?) (\d+)(?::(\d+))?/.exec(ref || "");
+    return m ? `index.html#${m[1].toLowerCase().replace(/ /g, "-")}-${m[2]}${m[3] ? "-" + m[3] : ""}` : null;
+  };
 
   // ---- Items, with the Bible synchronisms as their own lane.
   const BIBLE = "The Bible in world history";
@@ -268,7 +398,9 @@ footer p { margin: 0; }
     note: `${s.ev}. ${s.ref}.` }));
   const streams = [{ name: BIBLE, group: "The Bible" }, ...D.streams];
   const groups = ["The Bible", ...D.groups];
+  const groupOf = new Map(streams.map(s => [s.name, s.group]));
   const byStream = d3.group(items, d => d.s);
+  $("count").textContent = `${streams.length} streams · ${fmt.format(items.length)} eras, reigns, lives and events · 5,000 years`;
 
   // ---- Colours: one hue family per group, a shade per stream; recomputed when the theme changes.
   const dark = () => {
@@ -276,6 +408,7 @@ footer p { margin: 0; }
     return t ? t === "dark" : matchMedia("(prefers-color-scheme: dark)").matches;
   };
   const colour = {};
+  const groupColour = g => (g === "The Bible" ? colour[BIBLE] : colour[streams.find(s => s.group === g).name]);
   function setColours() {
     const dk = dark();
     for (const g of groups) {
@@ -288,7 +421,7 @@ footer p { margin: 0; }
       });
     }
     document.querySelectorAll("[data-stream-colour]").forEach(n => n.style.setProperty("--c", colour[n.dataset.streamColour]));
-    groupChips.forEach(([g, b]) => b.style.setProperty("--c", g === "The Bible" ? colour[BIBLE] : colour[streams.find(s => s.group === g).name]));
+    renderKey();
   }
 
   // ---- Rows: eras, dynasties, reigns and lives, then events, packed by overlap of years.
@@ -317,8 +450,9 @@ footer p { margin: 0; }
 
   // ---- State
   const groupOn = new Map(groups.map(g => [g, true]));
-  let domain = RANGES[0][1].slice();
+  let domain = FULL.slice();
   let selected = null;
+  const stage = $("stage"), scroller = $("scroller"), card = $("card");
   const chart = d3.select("#chart"), axis = d3.select("#axis"), overview = d3.select("#overview");
   const gGrid = chart.append("g").attr("class", "grid"), gBands = chart.append("g"), gMarks = chart.append("g"), gAnchor = chart.append("g");
   let W = 0, x0 = d3.scaleLinear().domain(FULL), x = x0.copy();
@@ -328,18 +462,18 @@ footer p { margin: 0; }
   // ---- Zoom, kept in terms of the full domain.
   const zoom = d3.zoom().scaleExtent([1, 900])
     .filter(e => (e.type === "wheel" ? e.ctrlKey : !e.button) && (e.type !== "touchstart" || e.touches.length > 1))
-    .on("zoom", e => { x = e.transform.rescaleX(x0); domain = x.domain(); draw(); syncBrush(); if (e.sourceEvent) scheduleChronicle(); });
+    .on("zoom", e => { x = e.transform.rescaleX(x0); domain = x.domain(); draw(); syncBrush(); if (e.sourceEvent) { clearRange(); scheduleChronicle(); } });
   chart.call(zoom).on("dblclick.zoom", null);
   chart.on("wheel.pan", e => {
     if (e.ctrlKey || Math.abs(e.deltaX) <= Math.abs(e.deltaY)) return;
     e.preventDefault();
     chart.call(zoom.translateBy, -e.deltaX / d3.zoomTransform(chart.node()).k, 0);
   }, { passive: false });
-  function setDomain(dm, animate) {
+  function setDomain(dm, animate, duration = 550) {
     const [a, b] = [Math.max(FULL[0], dm[0]), Math.min(FULL[1], dm[1])];
     const k = (x0(FULL[1]) - x0(FULL[0])) / (x0(b) - x0(a));
     const t = d3.zoomIdentity.scale(k).translate(-x0(a), 0);
-    (animate && !reduced ? chart.transition().duration(550) : chart).call(zoom.transform, t);
+    (animate && !reduced ? chart.transition().duration(duration) : chart).call(zoom.transform, t);
     scheduleChronicle();
   }
 
@@ -363,10 +497,12 @@ footer p { margin: 0; }
 
   // ---- Drawing
   const inView = d => d.z >= domain[0] - 1 && d.a <= domain[1] + 1;
+  let bandAt = new Map();
   function draw() {
+    if (!W) return;
     const vis = streams.filter(s => groupOn.get(s.group) && (byStream.get(s.name) || []).some(inView));
     let y = 6;
-    const bandAt = new Map();
+    bandAt = new Map();
     let lastGroup = null;
     const bands = [];
     for (const s of vis) {
@@ -390,11 +526,14 @@ footer p { margin: 0; }
     gGrid.selectAll("line").data(tk, d => d.y).join("line")
       .attr("class", d => ((d.y <= 0 ? 1 - d.y : d.y) % (step * 5) === 0 ? "major" : null))
       .attr("x1", d => x(d.y)).attr("x2", d => x(d.y)).attr("y1", 0).attr("y2", H);
-    axis.attr("viewBox", `0 0 ${W} 34`);
-    axis.selectAll("text.t").data(tk, d => d.y).join("text").attr("class", "t")
-      .attr("x", d => Math.min(W - 4, Math.max(4, x(d.y))))
-      .attr("text-anchor", d => (x(d.y) < 28 ? "start" : x(d.y) > W - 28 ? "end" : "middle"))
-      .attr("y", 21).text(d => d.label);
+    const AW = axis.node().clientWidth || W;
+    axis.attr("viewBox", `0 0 ${AW} 30`);
+    // Each year sits right above its grid line in the chart below.
+    const off = axis.node().getBoundingClientRect().left - chart.node().getBoundingClientRect().left;
+    const ax = y => x(y) - off;
+    axis.selectAll("text.t").data(tk.filter(d => ax(d.y) > 24 && ax(d.y) < AW - 24), d => d.y).join("text").attr("class", "t")
+      .attr("x", d => ax(d.y)).attr("text-anchor", "middle")
+      .attr("y", 19).text(d => d.label);
 
     // bands and labels
     gBands.selectAll("g.band").data(bands, d => d.stream || `g:${d.group}`).join(enter => {
@@ -406,9 +545,9 @@ footer p { margin: 0; }
       const g = d3.select(this);
       if (d.stream) {
         g.select("rect").attr("x", 0).attr("width", W).attr("y", d.y).attr("height", d.h).attr("fill", colour[d.stream]);
-        g.select("text").attr("class", "band-label").attr("x", 10).attr("y", d.y + 15).attr("fill", colour[d.stream]).text(d.stream);
+        g.select("text").attr("class", "band-label").attr("x", 14).attr("y", d.y + 15).attr("fill", colour[d.stream]).text(d.stream);
       } else {
-        g.select("text").attr("class", "group-label").attr("x", 10).attr("y", d.y + 11).text(d.group);
+        g.select("text").attr("class", "group-label").attr("x", 14).attr("y", d.y + 11).text(d.group);
       }
     });
 
@@ -418,7 +557,7 @@ footer p { margin: 0; }
     const lastLabel = new Map();
     const marks = gMarks.selectAll("g.mark").data(shown, d => d.id).join(enter => {
       const g = enter.append("g").attr("class", "mark")
-        .on("click", (e, d) => openDetail(d))
+        .on("click", (e, d) => select(d))
         .on("pointerenter", (e, d) => showTip(e, d)).on("pointermove", (e, d) => moveTip(e)).on("pointerleave", hideTip);
       g.each(function (d) {
         const n = d3.select(this);
@@ -427,7 +566,10 @@ footer p { margin: 0; }
       });
       return g;
     });
+    chart.classed("dimmed", !!selected);
     marks.classed("sel", d => selected && d.id === selected.id);
+    marks.classed("kin", d => selected && d.s === selected.s);
+    const ink = getComputedStyle(document.documentElement).getPropertyValue("--ink");
     marks.each(function (d) {
       const n = d3.select(this);
       const band = bandAt.get(d.s);
@@ -437,7 +579,8 @@ footer p { margin: 0; }
       if (d.k === "e") {
         const cx = x(d.a), cy = ry + EROW / 2;
         n.select("path").attr("d", `M${cx},${cy - 6}L${cx + 6},${cy}L${cx},${cy + 6}L${cx - 6},${cy}Z`)
-          .attr("fill", c).attr("fill-opacity", d.c ? 0.55 : 1).attr("stroke", c).attr("stroke-width", 1);
+          .attr("fill", c).attr("fill-opacity", d.c ? 0.55 : 1).attr("stroke", c).attr("stroke-width", 1)
+          .attr("filter", dark() ? "url(#glow)" : null);
         const tw = textW(d.n);
         const key = `${d.s}:${d.row}`;
         const free = (lastLabel.get(key) ?? -Infinity) < cx - 6;
@@ -451,7 +594,7 @@ footer p { margin: 0; }
         const xa = Math.max(-4, x(d.a)), xb = Math.min(W + 4, x(d.z));
         const w = Math.max(3, xb - xa);
         const op = d.k === "pe" ? 0.2 : d.k === "pd" ? 0.42 : 0.92;
-        n.select("rect").attr("x", xa).attr("y", ry).attr("width", w).attr("height", ROW).attr("rx", 4)
+        n.select("rect").attr("x", xa).attr("y", ry).attr("width", w).attr("height", ROW).attr("rx", 5)
           .attr("fill", c).attr("fill-opacity", op).attr("stroke", c).attr("stroke-opacity", d.c ? 0.9 : 0.5)
           .attr("stroke-dasharray", d.c ? "3 2" : null);
         const tw = textW(d.n);
@@ -459,7 +602,7 @@ footer p { margin: 0; }
         if (w > tw + 12) {
           const lx = Math.max(xa, 0) + 6;
           label.attr("x", Math.min(lx, xb - tw - 6)).attr("y", ry + 14)
-            .attr("fill", solid ? (dark() ? "#0a0f1d" : "#ffffff") : getComputedStyle(document.documentElement).getPropertyValue("--ink"))
+            .attr("fill", solid ? (dark() ? "#0a0f1d" : "#ffffff") : ink)
             .text(d.n).attr("display", null);
         } else label.attr("display", "none");
       }
@@ -476,50 +619,52 @@ footer p { margin: 0; }
         const right = ax + textW(a.label, 11, 600) + 12 < W;
         g.select("text").attr("x", right ? ax + 6 : ax - 6).attr("y", H - 8).attr("text-anchor", right ? "start" : "end").text(a.label);
       });
-    axis.selectAll("text.range").data([0]).join("text").attr("class", "range").attr("x", W - 8).attr("y", 21).attr("text-anchor", "end")
-      .text(() => "").attr("display", "none");
   }
+  // A soft glow for the events on the dark stage, as the web's points glow.
+  chart.append("defs").html('<filter id="glow" x="-1" y="-1" width="3" height="3"><feGaussianBlur stdDeviation="2.2" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>');
 
   // ---- Context strip with a window (focus and context).
-  const OH = 64;
+  const OH = 44;
   const centuries = d3.rollup(items.filter(d => d.s !== BIBLE), v => v.length, d => Math.floor(d.a / 100));
   const brush = d3.brushX().handleSize(10).on("brush end", e => {
     if (!e.sourceEvent || !e.selection) return;
+    clearRange();
     const [a, b] = e.selection.map(xo.invert);
     setDomain([a, b], false);
   });
-  let xo = d3.scaleLinear().domain(FULL);
-  const gDensity = overview.append("g"), gOAxis = overview.append("g").attr("class", "tick-g"), gBrush = overview.append("g").attr("class", "brush");
+  let xo = d3.scaleLinear().domain(FULL), OW = 0;
+  const gDensity = overview.append("g"), gOAxis = overview.append("g"), gBrush = overview.append("g").attr("class", "brush");
   function drawOverview() {
-    xo.range([0, W]);
-    overview.attr("viewBox", `0 0 ${W} ${OH}`);
+    OW = overview.node().clientWidth;
+    xo.range([0, OW]);
+    overview.attr("viewBox", `0 0 ${OW} ${OH}`);
     const maxC = Math.max(...centuries.values());
     const bars = [...centuries].map(([c, n]) => ({ c, n }));
     gDensity.selectAll("rect").data(bars, d => d.c).join("rect").attr("class", "density")
       .attr("x", d => xo(d.c * 100)).attr("width", d => Math.max(1, xo(d.c * 100 + 100) - xo(d.c * 100) - 1))
-      .attr("y", d => 40 - 32 * Math.sqrt(d.n / maxC)).attr("height", d => 32 * Math.sqrt(d.n / maxC)).attr("rx", 1);
-    const labels = (W < 600 ? [-3000, -1000, 1, 2000] : [-3000, -2000, -1000, 1, 1000, 2000]).map(y => ({ y, t: y === 1 ? "AD 1" : y < 0 ? `${-y} BC` : `${y}` }));
+      .attr("y", d => 28 - 24 * Math.sqrt(d.n / maxC)).attr("height", d => 24 * Math.sqrt(d.n / maxC)).attr("rx", 1);
+    const labels = (OW < 500 ? [-3000, -1000, 1, 2000] : [-3000, -2000, -1000, 1, 1000, 2000]).map(y => ({ y, t: y === 1 ? "AD 1" : y < 0 ? `${-y} BC` : `${y}` }));
     gOAxis.selectAll("g").data(labels, d => d.y).join(enter => { const g = enter.append("g").attr("class", "tick"); g.append("line"); g.append("text"); return g; })
       .each(function (d) {
         const g = d3.select(this), px = xo(d.y);
-        g.select("line").attr("x1", px).attr("x2", px).attr("y1", 42).attr("y2", 47);
-        g.select("text").attr("x", px).attr("y", 59).attr("text-anchor", d.y === -3000 ? "start" : d.y === 2000 ? "end" : "middle").text(d.t);
+        g.select("line").attr("x1", px).attr("x2", px).attr("y1", 29).attr("y2", 32);
+        g.select("text").attr("x", px).attr("y", 41).attr("text-anchor", d.y === -3000 ? "start" : d.y === 2000 ? "end" : "middle").text(d.t);
       });
-    overview.selectAll("line.anchor").data([30]).join("line").attr("class", "anchor").attr("x1", xo(30)).attr("x2", xo(30)).attr("y1", 2).attr("y2", 42);
-    brush.extent([[0, 0], [W, 44]]);
+    overview.selectAll("line.anchor").data([30]).join("line").attr("class", "anchor").attr("x1", xo(30)).attr("x2", xo(30)).attr("y1", 2).attr("y2", 30);
+    brush.extent([[0, 0], [OW, 31]]);
     gBrush.call(brush);
     syncBrush();
   }
   let syncing = false;
   function syncBrush() {
-    if (syncing) return;
+    if (syncing || !OW) return;
     syncing = true;
     gBrush.call(brush.move, [xo(domain[0]), xo(domain[1])]);
     syncing = false;
   }
 
-  // ---- Tooltip and details
-  const tip = document.getElementById("tip");
+  // ---- Tooltip
+  const tip = $("tip");
   const when = d => {
     const c = d.c ? "c. " : "";
     if (d.k === "e" || d.a === d.z) return `${c}${yl(d.a)}`;
@@ -538,15 +683,30 @@ footer p { margin: 0; }
     tip.style.left = `${left}px`; tip.style.top = `${top}px`;
   }
   function hideTip() { tip.hidden = true; }
-  const detail = document.getElementById("detail");
-  function openDetail(d) {
-    selected = d; hideTip();
+
+  // ---- The card
+  const ICON = {
+    read: '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linejoin="round"><path d="M12 6c-2-1.3-4.7-1.8-8-1.5v13c3.3-.3 6 .2 8 1.5 2-1.3 4.7-1.8 8-1.5v-13c-3.3-.3-6 .2-8 1.5Zm0 0v13"/></svg>',
+    span: '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M4 6v12M20 6v12M7 12h10M10 9l-3 3 3 3M14 9l3 3-3 3"/></svg>',
+    link: '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M14 4h6v6M20 4l-9 9M18 14v5a1 1 0 0 1-1 1H5a1 1 0 0 1-1-1V7a1 1 0 0 1 1-1h5"/></svg>',
+    close: '<svg viewBox="0 0 24 24" width="18" height="18" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M6 6l12 12M18 6 6 18"/></svg>',
+  };
+  const act = (attrs, text, icon, solid) => el(attrs.href ? "a" : "button", { ...attrs, type: attrs.href ? null : "button", class: `act${solid ? " solid" : ""}` }, svgIcon(ICON[icon] || ""), text);
+  const dotFor = d => el("i", { class: `dot${d.k === "e" ? " star" : ""}`, "data-stream-colour": d.s, style: `--c:${colour[d.s]}` });
+  // Others of the same stream living or ruling at the time, for the card.
+  function sameTime(d) {
+    const a = d.a, z = d.k === "e" ? d.a : d.z;
+    return items.filter(o => o !== d && o.k !== "pe" && o.a <= z && o.z >= a && o.s !== d.s && groupOn.get(groupOf.get(o.s)) && (o.k === "r" || o.k === "f" || o.k === "e"))
+      .sort((p, q) => Math.abs(p.a - a) - Math.abs(q.a - a)).slice(0, 12);
+  }
+  function renderCard(d) {
     const kind = d.sync ? "Synchronism" : KIND[d.k];
+    const ref = d.sync ? d.sync.ref : d.ref;
     const parts = [
-      el("button", { class: "close", type: "button", "aria-label": "Close", onclick: closeDetail, text: "×" }),
-      el("div", { class: "kind", "data-stream-colour": d.s }, el("i"), `${kind} · ${d.s}`),
-      el("h2", { text: d.n }),
-      el("div", { class: "when", text: when(d) }),
+      el("div", { class: "grab" }),
+      el("button", { class: "close", type: "button", "aria-label": "Close", onclick: () => select(null) }, svgIcon(ICON.close)),
+      el("div", { class: "kicker" }, dotFor(d), `${kind} · ${d.s}`),
+      el("h2", {}, d.n, el("small", { text: when(d) })),
     ];
     if (d.sync) {
       const diff = d.sync.us != null ? d.sync.us - d.sync.m : null;
@@ -554,18 +714,47 @@ footer p { margin: 0; }
       parts.push(el("p", { class: "meta", text: `${d.sync.ref}. Ussher dates it ${d.sync.us != null ? yl(d.sync.us) : "—"}${diff ? `, ${Math.abs(diff)} years ${diff < 0 ? "earlier" : "later"}` : ""}.` }));
     } else if (d.note) parts.push(el("p", { text: d.note }));
     if (d.bible) parts.push(el("p", { class: "meta", text: `In the Bible: ${d.bible}, first named at ${d.ref}.` }));
-    if (d.wd) parts.push(el("p", { class: "meta" }, el("a", { href: `https://www.wikidata.org/wiki/${d.wd}`, target: "_blank", rel: "noopener", text: `Wikidata ${d.wd}` })));
-    detail.replaceChildren(...parts);
-    detail.style.setProperty("--c", colour[d.s]);
-    detail.querySelector(".kind").style.setProperty("--c", colour[d.s]);
-    detail.hidden = false;
-    draw();
+    const href = readerHref(ref);
+    parts.push(el("div", { class: "actions" },
+      href ? act({ href }, `Read ${ref}`, "read", true) : null,
+      d.k !== "e" ? act({ onclick: () => showYears(d) }, "Show its years", "span", !href) : act({ onclick: () => showYears(d) }, "Show its time", "span", !href),
+      d.wd ? act({ href: `https://www.wikidata.org/wiki/${d.wd}`, target: "_blank", rel: "noopener" }, "Wikidata", "link") : null));
+    const kin = sameTime(d);
+    if (kin.length) parts.push(el("div", { class: "rel" }, el("h3", { text: d.k === "e" ? "At the time" : "At the same time" }),
+      el("div", { class: "list" }, kin.map(o => el("button", { type: "button", class: "node-chip", onclick: () => select(o, { reveal: true }) },
+        dotFor(o), o.n, el("small", { text: o.s }))))));
+    card.replaceChildren(...parts);
+    card.hidden = false;
+    card.scrollTop = 0;
+    document.body.classList.add("card-open");
   }
-  function closeDetail() { detail.hidden = true; selected = null; draw(); }
-  document.addEventListener("keydown", e => { if (e.key === "Escape" && !detail.hidden) closeDetail(); });
+  function showYears(d) {
+    const a = d.a, z = d.k === "e" ? d.a : d.z, pad = Math.max(15, (z - a) * 0.6);
+    clearRange();
+    setDomain([a - pad, z + pad], true);
+    setTimeout(() => reveal(d), reduced ? 0 : 600);
+  }
+  // Scroll the chart so the item's band is in view.
+  function reveal(d) {
+    const b = bandAt.get(d.s);
+    if (!b) return;
+    const y = b.y + (b.rowY.get(d.row) ?? b.y) - b.y;
+    const top = scroller.scrollTop, view = scroller.clientHeight - parseFloat(getComputedStyle(stage).getPropertyValue("--head")) - (innerWidth < 760 && !card.hidden ? scroller.clientHeight * 0.5 : 96);
+    if (y < top + 10 || y > top + view - 30) scroller.scrollTo({ top: Math.max(0, y - 60), behavior: reduced ? "auto" : "smooth" });
+  }
+  function select(d, opts = {}) {
+    selected = d; hideTip();
+    if (!d) { card.hidden = true; document.body.classList.remove("card-open"); draw(); return; }
+    if (!groupOn.get(groupOf.get(d.s))) { groupOn.set(groupOf.get(d.s), true); renderKey(); }
+    renderCard(d);
+    if (opts.reveal) {
+      const z = d.k === "e" ? d.a : d.z;
+      if (z < domain[0] || d.a > domain[1]) showYears(d); else { draw(); reveal(d); }
+    } else draw();
+  }
 
   // ---- Chronicle of what is in view
-  const chron = document.getElementById("chronicle"), chronSub = document.getElementById("chron-sub");
+  const chron = $("chronicle"), chronSub = $("chron-sub");
   let chronTimer = null;
   function scheduleChronicle() { clearTimeout(chronTimer); chronTimer = setTimeout(renderChronicle, 180); }
   const centuryName = c => {
@@ -575,64 +764,139 @@ footer p { margin: 0; }
   };
   const centuryOf = y => (y <= 0 ? -(Math.floor(-y / 100) + 1) : Math.floor((y - 1) / 100) + 1);
   function renderChronicle() {
+    if ($("chronicle-panel").hidden) return;
     const [a, b] = domain;
-    const list = items.filter(d => groupOn.get(streams.find(s => s.name === d.s).group) && d.a >= a && d.a <= b)
+    const list = items.filter(d => groupOn.get(groupOf.get(d.s)) && d.a >= a && d.a <= b)
       .sort((p, q) => p.a - q.a || (p.k === "e") - (q.k === "e") || p.n.localeCompare(q.n));
     const LIMIT = 600;
     const byC = d3.group(list.slice(0, LIMIT), d => centuryOf(d.a));
     chron.replaceChildren(...[...byC].map(([c, ds]) => el("div", { class: "century" },
       el("h3", { text: centuryName(c) }),
-      el("ol", {}, ds.map(d => el("li", {}, el("button", { type: "button", onclick: () => { openDetail(d); } },
+      el("ol", {}, ds.map(d => el("li", {}, el("button", { type: "button", onclick: () => { closePanels(); select(d, { reveal: true }); } },
         el("span", { class: "yr", text: `${d.c ? "c. " : ""}${span(d)}` }),
         el("span", { class: "nm", text: d.n }),
-        el("span", { class: "st", "data-stream-colour": d.s }, el("i"), `${KIND[d.k]} · ${d.s}`))))))));
+        el("span", { class: "st", "data-stream-colour": d.s, style: `--c:${colour[d.s]}` }, el("i"), `${KIND[d.k]} · ${d.s}`))))))));
     chronSub.textContent = `${fmt.format(list.length)} entries that begin between ${yl(Math.round(a))} and ${yl(Math.min(Math.round(b), PRESENT))}, in order.` +
       (list.length > LIMIT ? ` The first ${LIMIT} are listed; zoom in to see the rest.` : "");
-    setColours();
   }
 
-  // ---- Controls
-  const ranges = document.getElementById("ranges");
-  const rangeButtons = RANGES.map(([label, dm], k) => {
-    const b = el("button", { type: "button", "aria-pressed": k === 0 ? "true" : "false", text: label,
-      onclick: () => { rangeButtons.forEach(o => o.setAttribute("aria-pressed", "false")); b.setAttribute("aria-pressed", "true"); setDomain(dm, true); } });
-    ranges.append(b);
+  // ---- Controls: the ranges, panels, the key, zoom and keys
+  const pill = $("ranges"), sep = pill.querySelector(".sep");
+  const rangeButtons = RANGES.map(([label, short, dm]) => {
+    const b = el("button", { type: "button", "aria-pressed": "false", "aria-label": label,
+      onclick: () => { clearRange(); b.setAttribute("aria-pressed", "true"); setDomain(dm, true); } },
+      el("span", { class: "long", text: label }), el("span", { class: "short", text: short }));
+    pill.insertBefore(b, sep);
     return b;
   });
-  chart.on("pointerdown.range", () => rangeButtons.forEach(o => o.setAttribute("aria-pressed", "false")));
-  const groupBox = document.getElementById("groups");
-  const groupChips = groups.map(g => {
-    const b = el("button", { type: "button", class: "chip", "aria-pressed": "true", onclick: () => {
-      groupOn.set(g, !groupOn.get(g)); b.setAttribute("aria-pressed", groupOn.get(g) ? "true" : "false"); draw(); renderChronicle(); } },
-      el("i"), g);
-    groupBox.append(b);
-    return [g, b];
+  function clearRange() { rangeButtons.forEach(o => o.setAttribute("aria-pressed", "false")); }
+  const panels = ["chronicle-panel", "about"];
+  function closePanels() { for (const p of panels) $(p).hidden = true; }
+  for (const b of document.querySelectorAll("[data-panel]")) b.onclick = () => {
+    const id = b.dataset.panel === "chronicle" ? "chronicle-panel" : b.dataset.panel;
+    const open = $(id).hidden;
+    closePanels();
+    $(id).hidden = !open;
+    if (open && id === "chronicle-panel") renderChronicle();
+  };
+  for (const p of panels) $(p).querySelector("[data-close]").onclick = () => { $(p).hidden = true; };
+  function renderKey() {
+    $("key-dots").replaceChildren(...groups.map(g => el("i", { style: `--c:${groupColour(g)}` })));
+    $("groups").replaceChildren(...groups.map(g => el("button", { type: "button", class: "chip", "aria-pressed": String(groupOn.get(g)),
+      onclick: () => {
+        groupOn.set(g, !groupOn.get(g));
+        if (selected && !groupOn.get(groupOf.get(selected.s))) select(null);
+        renderKey(); draw(); renderChronicle();
+      } },
+      el("i", { class: "dot", style: `--c:${groupColour(g)}` }), g)));
+  }
+  if (innerWidth >= 760) $("key").open = true;
+  const shift = f => { const span = domain[1] - domain[0]; clearRange(); setDomain([domain[0] + f * span, domain[1] + f * span], true); };
+  $("earlier").onclick = () => shift(-0.35);
+  $("later").onclick = () => shift(0.35);
+  const zoomBy = f => { const mid = (domain[0] + domain[1]) / 2, half = (domain[1] - domain[0]) / 2 / f; clearRange(); setDomain([mid - half, mid + half], true); };
+  $("zoom-in").onclick = () => zoomBy(1.6);
+  $("zoom-out").onclick = () => zoomBy(1 / 1.6);
+  $("zoom-fit").onclick = () => rangeButtons[RANGES.length - 1].click();
+  addEventListener("keydown", e => {
+    if (revealing) { skip(); return; }
+    if (e.target === q) return;
+    if (e.key === "Escape") { if (panels.some(p => !$(p).hidden)) closePanels(); else select(null); }
+    else if (e.key === "/") { e.preventDefault(); q.focus(); }
+    else if (e.key === "ArrowLeft") shift(-0.2);
+    else if (e.key === "ArrowRight") shift(0.2);
+    else if (e.key === "+" || e.key === "=") zoomBy(1.5);
+    else if (e.key === "-") zoomBy(1 / 1.5);
   });
-  const shift = f => { const span = domain[1] - domain[0]; setDomain([domain[0] + f * span, domain[1] + f * span], true); };
-  document.getElementById("earlier").onclick = () => shift(-0.35);
-  document.getElementById("later").onclick = () => shift(0.35);
-  const zoomBy = f => { const mid = (domain[0] + domain[1]) / 2, half = (domain[1] - domain[0]) / 2 / f; setDomain([mid - half, mid + half], true); };
-  document.getElementById("zoom-in").onclick = () => zoomBy(1.6);
-  document.getElementById("zoom-out").onclick = () => zoomBy(1 / 1.6);
+  chart.on("click.empty", e => { if (revealing) skip(); else if (e.target === chart.node() && selected) select(null); });
+
+  // ---- Search
+  const q = $("q"), results = $("results");
+  const norm = s => s.normalize("NFD").replace(/[̀-ͯ]/g, "").toLowerCase();
+  const index = items.map(d => [d, norm(`${d.n} ${d.bible || ""}`)]);
+  let hits = [], active = -1;
+  function search(term) {
+    const t = norm(term.trim());
+    if (!t) return [];
+    const out = [];
+    for (const [d, key] of index) {
+      const s = key === t ? 3 : key.startsWith(t) ? 2 : key.includes(t) ? 1 : 0;
+      if (s) out.push([s, d.k === "pe" ? 0 : d.k === "pd" ? 1 : 2, d]);
+    }
+    return out.sort((a, b) => b[0] - a[0] || b[1] - a[1] || a[2].a - b[2].a).slice(0, 10).map(x => x[2]);
+  }
+  function showResults() {
+    results.replaceChildren(...hits.map((d, k) => el("li", { role: "option", id: `opt-${k}`, "aria-selected": k === active ? "true" : "false",
+      onmousedown: e => { e.preventDefault(); choose(d); } },
+      dotFor(d), el("span", {}, el("b", { text: d.n }), el("small", { text: `${d.sync ? "Synchronism" : KIND[d.k]} · ${d.s} · ${d.c ? "c. " : ""}${span(d)}` })))));
+    results.hidden = !hits.length;
+    q.setAttribute("aria-expanded", hits.length ? "true" : "false");
+    if (active >= 0) q.setAttribute("aria-activedescendant", `opt-${active}`); else q.removeAttribute("aria-activedescendant");
+  }
+  function choose(d) { hits = []; showResults(); q.value = ""; q.blur(); closePanels(); select(d); showYears(d); }
+  q.addEventListener("input", () => { hits = search(q.value); active = hits.length ? 0 : -1; showResults(); });
+  q.addEventListener("keydown", e => {
+    if (e.key === "ArrowDown" && hits.length) { active = (active + 1) % hits.length; showResults(); e.preventDefault(); }
+    else if (e.key === "ArrowUp" && hits.length) { active = (active - 1 + hits.length) % hits.length; showResults(); e.preventDefault(); }
+    else if (e.key === "Enter" && active >= 0) { choose(hits[active]); e.preventDefault(); }
+    else if (e.key === "Escape") { hits = []; showResults(); q.blur(); }
+  });
+  q.addEventListener("blur", () => setTimeout(() => { hits = []; showResults(); }, 150));
+
+  // ---- The opening: all of history under the title, then into the years since the cross.
+  let revealing = true, revealTimer = null;
+  function skip() { if (revealing) { clearTimeout(revealTimer); finishReveal(); } }
+  function finishReveal() {
+    if (!revealing) return;
+    revealing = false;
+    $("title").classList.add("gone");
+    setTimeout(() => { $("title").hidden = true; }, 1000);
+    stage.classList.add("ready");
+    rangeButtons[0].setAttribute("aria-pressed", "true");
+    setDomain(RANGES[0][2], true, 1400);
+  }
+  stage.addEventListener("pointerdown", e => { if (revealing) { e.preventDefault(); skip(); } }, true);
 
   // ---- Size and theme
   function resize() {
-    const w = document.getElementById("chart").clientWidth;
-    if (!w || w === W) return;
+    const w = $("chart").clientWidth;
+    if (!w || w === W) { drawOverview(); return; }
     W = w;
     x0 = d3.scaleLinear().domain(FULL).range([0, W]);
     zoom.extent([[0, 0], [W, 1]]).translateExtent([[0, 0], [W, 1]]);
     drawOverview();
     setDomain(domain, false);
   }
-  new ResizeObserver(resize).observe(document.getElementById("chart"));
-  const themeChanged = () => { setColours(); draw(); };
+  new ResizeObserver(resize).observe(stage);
+  // The time bar narrows beside the card on wide screens.
+  new ResizeObserver(() => { if (W && overview.node().clientWidth !== OW) { drawOverview(); draw(); } }).observe(overview.node());
+  const themeChanged = () => { setColours(); draw(); if (selected) renderCard(selected); renderChronicle(); };
   matchMedia("(prefers-color-scheme: dark)").addEventListener("change", themeChanged);
   new MutationObserver(themeChanged).observe(document.documentElement, { attributes: true, attributeFilter: ["data-theme"] });
 
   setColours();
   resize();
-  renderChronicle();
   (document.fonts?.ready || Promise.resolve()).then(() => draw());
+  if (reduced) finishReveal(); else revealTimer = setTimeout(finishReveal, 2600);
 })();
 </script>

@@ -77,6 +77,70 @@ Chinese translation.
   people it names under *People* and the places under *On the maps*.
 - Cross-references beside each verse (OpenBible.info, already in `connections/`).
 
+**Study helps** (chosen October 2026, in this order):
+
+1. **Topics and dictionary (done).** `scripts/study.py` builds Nave's Topical Bible (5,322
+   topics, about 78,000 references; public domain, CCEL's edition by way of CrossWire) and
+   Easton's Bible Dictionary (3,964 entries; Theographic's linked edition, CC BY-SA 4.0) into
+   `data/bible/study/`, with every reference moved to our verse numbers. A verse lists the
+   topics and dictionary entries that cite it; *Topics and dictionary* in the menu lists them
+   all, searchable, and a reference opens the verse in place before going to it. Next: link
+   the people and places a verse names to their dictionary entries.
+2. **Section headings and book introductions.** Headings through every chapter, and for each
+   book a short introduction (author, date, setting, outline, themes), written for this
+   translation in plain English and labelled as drafts like the translation, with their own
+   review status. Planned in detail in HEADINGS.md: tools and four hand-written samples
+   first, then the drafting in one overnight run, batch by batch, with a review pass.
+3. **Parallel passages and reading plans (done).** `scripts/parallels.py` builds A. T.
+   Robertson's *Harmony of the Gospels* (1922, public domain: 184 sections, each with every
+   Gospel that tells it) and the Companion Bible's table of Samuel and Kings told again in
+   Chronicles and Isaiah (Appendix 56, public domain: 110 sets). A verse shows its section and
+   opens the passages side by side. Five reading plans: the Bible in a year in the order of the
+   books, the Bible in the order it happened (Ussher's dates via Theographic, each book's
+   chapters kept in order except Psalms and Chronicles), the New Testament in 90 days, the
+   Gospels in 30 days, and Psalms and Proverbs in a month; progress is kept on the device.
+   Still to come: Old Testament quotations in the New (no complete public-domain list was
+   found), titles for the Kings and Chronicles sets (from the section headings of step 2), and
+   reading-plan progress kept with the account.
+
+**More open data** (chosen October 2026; licences to confirm file by file before use):
+
+- **Cross-references in the reader**: the OpenBible.info references already in `connections/`
+  (CC BY), beside each verse.
+- **Tyndale Open Study Notes** (CC BY-SA 4.0): study notes, profiles, theme articles and,
+  if included, book introductions, kept as separate data with their own credit. To check first
+  what the release contains, and how it bears on the introductions of HEADINGS.md.
+- **MACULA Hebrew and Greek** (Clear Bible, CC BY 4.0): syntax and referents (who "he" or
+  "they" is), using only the parts under CC BY (its UBS word senses are "used with permission").
+- **More of STEPBible** (CC BY 4.0): which manuscripts and editions support each Greek word
+  (the full Liddell–Scott–Jones is in, above).
+- **Fuller lexicons (done)**: a word's *Full entry* opens Brown–Driver–Briggs (Open Scriptures'
+  outline of it, CC BY 4.0) for Hebrew and Aramaic, and the full Liddell–Scott–Jones (STEPBible's
+  TFLSJ, CC BY 4.0) for Greek, built by `scripts/lexicons.py`. Abbott-Smith was already there:
+  STEPBible's brief Greek lexicon is drawn from it.
+
+Study questions and other written helps are left out for now: data only.
+
+**Ways to see the data** (chosen October 2026). Each view gets the maps' print sizes and SVG,
+PDF and PNG export, with its data as CSV or JSON:
+
+1. Search results as a strip of the 66 books, showing where the hits fall (done: tap a book
+   to see only its verses).
+2. A Hebrew or Greek word's footprint across the Bible, with how it is glossed.
+3. Cross-references as arcs, for the whole Bible and for one verse.
+4. A Nave's topic across the Bible, with the topics that share its verses.
+5. Storylines: each person as a line through the chapters they appear in (fuller once
+   MACULA's referents are in).
+6. Who refers to whom, and who speaks to whom, from MACULA's referents.
+7. The divided kingdom: the kings of Israel and Judah as reign bars, with their prophets and
+   the dates shared with Assyria and Babylon, in the style of the maps.
+8. The Bible as a bookshelf: the books to scale, opening to their chapters.
+9. Density maps of all 1,189 chapters: cross-references, people, places, notes, status.
+10. A downloads page: every dataset as CSV or JSON, with its licence.
+
+Print editions of the reader (a reader's edition, an interlinear, a Gospel synopsis) wait until
+the translation is finished and checked.
+
 ## 2. Maps
 
 - **Style.** See *Map style: after the Eilers wall maps* below. Maps keep their paper look in
@@ -274,6 +338,12 @@ knows the historical geography.
 
 ## 3. Genealogy viewer (built)
 
+- **One design with the web.** The page is laid out like *The Web of Scripture*: the chart
+  fills the window under an opening title, with floating search, a key, zoom and a card for the
+  person chosen (a sheet from the bottom on phones). Each generation takes the color of its era
+  on the line (before the Flood, after the Flood, the patriarchs to David, the kings of Judah,
+  the exile to Jesus); choosing someone draws their line back to Adam and dims the rest. The
+  line from Adam to Jesus and the largest families open as a panel.
 - **Everyone connected.** The whole family of Adam on one chart: 1,061 people over 76
   generations, with the families who married into it (Saul's through Michal, Ruth beside
   Boaz). The line from Adam to Jesus runs straight through in gold; choosing anyone draws
@@ -311,6 +381,17 @@ knows the historical geography.
   reader and each person in the genealogy links to its place in the web.
 - **Still to come:** threads for the cross-references within a chapter, and following a
   thread from verse to verse.
+
+## 3c. Streams of Time (built)
+
+- **World history beside the Bible.** `history.html` draws the empires, churches, scriptures and
+  thinkers of every continent as parallel streams, after Adams' *Synchronological Chart* (1871),
+  with the Bible's dated events as a lane of their own.
+- **One design with the web.** The chart fills the window under an opening title (all of
+  history, then into the years since the cross), beneath a glass time bar of all of history
+  with a window to drag. Search finds any ruler, life or event; the card shows what was
+  happening elsewhere at the same time, with links to the reader and Wikidata. The key shows
+  or hides each group of streams, and the chronicle of what is in view opens as a panel.
 
 ## 4. Accounts (built; waiting on a Supabase project)
 
