@@ -895,7 +895,8 @@ def territory_layers(sheet, terr, names, groups, tints):
         if not m.any():
             continue
         line, width = spine(m, sheet)
-        fills.append({"name": n, "group": groups[n], "tint": tints[groups[n]], "d": d(outlines(m, smooth=1.5), True)})
+        tint = tints.get(n, tints.get(groups[n]))      # a territory's own tint, else its group's
+        fills.append({"name": n, "group": groups[n], "tint": tint, "d": d(outlines(m, smooth=1.5), True)})
         if line:
             labels.append({"text": n.replace(" (east)", "").upper(), "style": "nation" if groups[n] == n else "tribe",
                            "pts": line, "width": round(width, 1)})
@@ -2194,6 +2195,240 @@ def western_asia_map():
     return data, page
 
 
+# --- Map No. 6: The empires of Assyria, Babylon and Persia ------------------------------------
+
+# Each period's lands, grown from their towns: name: (tint, empire, towns, other points, reach).
+# Lands of one empire share a dashed border; a land's own tint marks a province or vassal.
+EUPHRATES_ROAD = [(37.15, 36.20), "Carchemish", (38.75, 35.85), (40.10, 35.30), (40.90, 34.55), (41.90, 34.45),
+                  (42.95, 34.10), (44.30, 32.95)]
+EMPIRES6 = [
+    {"name": "Assyria, about 670 BC", "short": "Assyria",
+     "note": "Under Esarhaddon, who also held Lower Egypt from 671 BC. Judah under Manasseh paid tribute.",
+     "lands": {
+         "Assyria": ("olive", "Assyria", ["Nineveh", "Calah", "Asshur", "Babylon 1", "Ur 2", "Erech", "Haran", "Gozan",
+                                          "Carchemish", "Damascus", "Hamath 1", "Arpad", "Samaria 1", "Megiddo", "Sidon",
+                                          "Riblah 1", "Tadmor"],
+                     [(36.2, 36.2), (35.3, 36.9), (39.5, 36.4), (41.0, 35.5), (42.5, 34.5), (44.0, 33.3), (45.5, 32.0)], 200),
+         "Judah": ("salmon", "Assyria", ["Jerusalem", "Lachish", "Hebron", "Beersheba 1"], [], 40),
+         "Egypt": ("yellow", "Egypt", ["Memphis", "Zoan", "Tahpanhes"], [], 30),
+         "Media": ("sage", "Media", ["Ecbatana"], [(51.43, 35.60), (47.0, 35.0), (47.5, 36.8), (49.5, 36.5), (52.5, 36.0)], 260),
+         "Elam": ("lime", "Elam", ["Susa"], [(48.0, 31.5), (49.5, 32.5), (48.8, 31.0), (51.5, 30.5), (52.89, 29.93)], 260),
+         "Urartu": ("yellow", "Urartu", ["Ararat"], [(43.33, 38.50), (41.27, 39.90), (43.0, 39.3), (45.0, 40.2)], 200),
+         "Lydia": ("salmon", "Lydia", ["Sardis"], [(29.0, 38.6), (30.5, 39.0), (31.5, 38.5)], 180),
+         "Arabia": ("blush", "Arabia", ["Tema", "Dedan"], [(39.87, 29.81), (42.0, 27.5), (45.0, 26.0), (37.5, 28.0)], 300),
+     }},
+    {"name": "Babylon, about 570 BC", "short": "Babylon",
+     "note": "Under Nebuchadnezzar, after the fall of Nineveh (612 BC) and of Jerusalem (586 BC). The Medes held the "
+             "north and east, to the Halys.",
+     "lands": {
+         "Babylonia": ("yellow", "Babylon", ["Babylon 1", "Ur 2", "Erech", "Asshur", "Haran", "Carchemish", "Riblah 1",
+                                             "Hamath 1", "Damascus", "Tyre", "Sidon", "Jerusalem", "Lachish", "Gaza", "Tadmor"],
+                       [(41.0, 35.5), (42.5, 34.5), (44.0, 33.3), (45.5, 32.0), (36.2, 36.2), (43.15, 36.0)], 200),
+         "Elam": ("lime", "Babylon", ["Susa"], [(48.0, 31.5), (49.5, 32.5), (48.8, 31.0)], 160),
+         "Media": ("sage", "Media", ["Ecbatana", "Ararat"], [(51.43, 35.60), (47.0, 35.0), (47.5, 36.8), (49.5, 36.5),
+                                                             (43.33, 38.50), (41.27, 39.90), (45.0, 40.2), (37.5, 38.5),
+                                                             (35.49, 38.72), (44.0, 37.2)], 300),
+         "Persia": ("salmon", "Media", [], [(52.89, 29.93), (53.17, 30.19), (51.5, 30.5), (54.5, 29.0), (52.0, 28.5)], 260),
+         "Lydia": ("lime", "Lydia", ["Sardis"], [(29.0, 38.6), (30.5, 39.0), (32.0, 39.5), (33.3, 40.0), (31.5, 38.5)], 200),
+         "Cilicia": ("olive", "Cilicia", ["Tarsus"], [(35.3, 37.0), (33.9, 36.4)], 90),
+         "Egypt": ("yellow", "Egypt", ["Memphis", "Zoan", "Tahpanhes"], [], 30),
+         "Arabia": ("blush", "Arabia", ["Tema", "Dedan"], [(39.87, 29.81), (42.0, 27.5), (45.0, 26.0), (37.5, 28.0)], 300),
+     }},
+    {"name": "Persia, about 500 BC", "short": "Persia",
+     "note": "Under Darius I, whose empire ran from Egypt and Lydia to India (Esther 1:1). Judah was a small province "
+             "of the land Beyond the River.",
+     "lands": {
+         "Persia": ("salmon", "Persia", [], [(52.89, 29.93), (53.17, 30.19), (51.5, 30.5), (54.5, 29.0), (52.0, 28.5)], 260),
+         "Elam": ("lime", "Persia", ["Susa"], [(48.0, 31.5), (49.5, 32.5), (48.8, 31.0)], 160),
+         "Media": ("sage", "Persia", ["Ecbatana"], [(51.43, 35.60), (47.0, 35.0), (47.5, 36.8), (49.5, 36.5), (52.5, 36.0)], 260),
+         "Babylon": ("yellow", "Persia", ["Babylon 1", "Ur 2", "Erech", "Accad"], [(45.20, 32.13), (44.0, 33.3), (46.5, 31.0)], 160),
+         "Assyria": ("olive", "Persia", ["Nineveh", "Calah", "Asshur", "Haran", "Gozan", "Carchemish"],
+                     [(39.5, 36.4), (41.0, 35.5), (42.7, 36.4)], 160),
+         "Beyond the River": ("lime", "Persia", ["Damascus", "Hamath 1", "Riblah 1", "Tadmor", "Tyre", "Sidon", "Samaria 1",
+                                                 "Megiddo", "Gaza", "Arpad"], [(36.2, 36.2)], 140),
+         "Judah": ("salmon", "Persia", ["Jerusalem", "Bethlehem 1", "Mizpah 3"], [], 22),
+         "Egypt": ("yellow", "Persia", ["Memphis", "Zoan", "Tahpanhes"], [], 30),
+         "Armenia": ("blush", "Persia", ["Ararat"], [(43.33, 38.50), (41.27, 39.90), (43.0, 39.3), (45.0, 40.2)], 200),
+         "Cappadocia": ("yellow", "Persia", [], [(35.49, 38.72), (34.6, 37.84), (36.5, 39.0), (34.2, 38.6), (34.62, 40.02)], 220),
+         "Lydia": ("sage", "Persia", ["Sardis"], [(29.0, 38.6), (30.5, 39.0), (31.5, 38.5), (32.0, 39.5)], 200),
+         "Cilicia": ("salmon", "Persia", ["Tarsus"], [(35.3, 37.0), (33.9, 36.4)], 90),
+         "Arabia": ("blush", "Arabia", ["Tema", "Dedan"], [(39.87, 29.81), (42.0, 27.5), (45.0, 26.0), (37.5, 28.0)], 300),
+     }},
+]
+EXILES = [
+    {"name": "Israel taken to Assyria", "short": "Israel exiled", "ref": "2 Kings 17", "color": "brown", "unit": "Place",
+     "note": "Samaria fell to Assyria in 722 BC, and its people were settled in the places 2 Kings names. The order of "
+             "the places here is the map's.",
+     "stops": [
+         ("Samaria 1", "Samaria", "2 Kings 17:6", None, {"what": "The city falls after a three-year siege"}),
+         ("Gozan", "Gozan, on the Habor", "2 Kings 17:6", "land", {"word": "Gozan", "via": ["Damascus", "Hamath 1", (37.15, 36.20),
+                                                                                         "Carchemish"], "guess": True}),
+         ("Halah", "Halah", "2 Kings 17:6", "land"),
+         ("Media", "Towns of the Medes", "2 Kings 17:6", "land", {"word": "Medes", "why": "Not plotted: the text names no town."}),
+     ]},
+    {"name": "Jonah", "short": "Jonah", "ref": "Jonah 1–3", "color": "green", "unit": "Place",
+     "note": "Sent to Nineveh, Jonah sails for Tarshish instead; after the storm and the fish, he goes to Nineveh.",
+     "stops": [
+         ("Gath-hepher", "Gath-hepher", "2 Kings 14:25", None, {"what": "Jonah's home"}),
+         ("Joppa", "Joppa", "Jonah 1:3", "land", {"what": "He finds a ship going to Tarshish"}),
+         ("Tarshish 1", "Tarshish", "Jonah 1:3", "sea", {"why": "Not plotted: Jonah never reached it. Tarshish lay far to the "
+                                                                 "west, perhaps in Spain."}),
+         ("Nineveh", "Nineveh", "Jonah 3:3", "land", {"via": ["Damascus", "Tadmor"], "guess": True, "what": "Nineveh repents"}),
+     ]},
+    {"name": "Judah taken to Babylon", "short": "Judah exiled", "ref": "2 Kings 25; Ezekiel 3", "color": "red", "unit": "Place",
+     "note": "Nebuchadnezzar took Jerusalem in 586 BC. King Zedekiah was judged at Riblah and taken to Babylon, and the "
+             "exiles were settled by the river Chebar.",
+     "stops": [
+         ("Jerusalem", "Jerusalem", "2 Kings 25:1", None, {"what": "The siege; the temple burned"}),
+         ("Riblah 1", "Riblah", "2 Kings 25:6", "land", {"what": "Zedekiah is judged and blinded"}),
+         ("Babylon 1", "Babylon", "2 Kings 25:7", "land", {"via": EUPHRATES_ROAD, "guess": True}),
+         ("Tel-abib", "Tel-abib", "Ezekiel 3:15", "land", {"what": "Ezekiel among the exiles by the river Chebar"}),
+     ]},
+    {"name": "Jeremiah taken to Egypt", "short": "Jeremiah", "ref": "Jeremiah 40–43", "color": "violet", "unit": "Place",
+     "note": "After the murder of the governor Gedaliah, the people left in Judah fled to Egypt and took Jeremiah with them.",
+     "stops": [
+         ("Mizpah 3", "Mizpah", "Jeremiah 40:6", None, {"what": "Jeremiah stays with Gedaliah"}),
+         ("Geruth Chimham", "Geruth-chimham", "Jeremiah 41:17", "land"),
+         ("Tahpanhes", "Tahpanhes", "Jeremiah 43:7", "land", {"what": "Jeremiah's last prophecies"}),
+     ]},
+    {"name": "Ezra's return", "short": "Ezra", "ref": "Ezra 7–8", "color": "blue", "unit": "Place",
+     "note": "Ezra the scribe led a company back from Babylon in 458 BC, by the long road up the Euphrates and down "
+             "through Syria.",
+     "stops": [
+         ("Babylon 1", "Babylon", "Ezra 7:6", None),
+         ("Ahava", "Ahava", "Ezra 8:15", "land", {"what": "Fasting and prayer by the river"}),
+         ("Jerusalem", "Jerusalem", "Ezra 8:32", "land", {"via": EUPHRATES_ROAD[::-1][:-1] + ["Hamath 1", "Damascus"], "guess": True}),
+     ]},
+    {"name": "Nehemiah", "short": "Nehemiah", "ref": "Nehemiah 1–2", "color": "black", "unit": "Place",
+     "note": "Cupbearer to the king at Susa, Nehemiah went to Jerusalem in 445 BC to rebuild its walls.",
+     "stops": [
+         ("Susa", "Susa", "Nehemiah 1:1", None, {"what": "News of Jerusalem's broken walls"}),
+         ("Jerusalem", "Jerusalem", "Nehemiah 2:11", "land", {"via": ["Babylon 1"] + EUPHRATES_ROAD[::-1][:-1] + ["Hamath 1", "Damascus"],
+                                                               "guess": True, "what": "The walls rebuilt in 52 days"}),
+     ]},
+]
+
+
+def empires_map():
+    """Map No. 6, as a dict ready for JSON, and the words for its page."""
+    sheet = Sheet(*SHEET4, res=2.0)
+    sheet.elev = elev = elevation(sheet, 6)
+    sea = sea_mask(sheet, elev, [(32.0, 33.5), (31.5, 41.8), (37.5, 41.5), (36.0, 25.0), (51.0, 27.0), (34.6, 28.8)])
+    sea |= _component(elev <= -27, sheet, 51.0, 40.0)
+    lakes = ne_lakes(sheet, skip=("Lake Razazah",)) & ~sea
+    lakes |= ndimage.binary_fill_holes(_component(elev <= -392, sheet, 35.50, 31.50))
+    wet = sea | lakes
+    land = ~sea
+    all_places = places()
+    by_name = {p["name"]: p for p in all_places}
+    ours = our_spellings()
+    res = sheet.res
+    flow = drainage(sheet, elev, wet, 2)
+    rivers6 = ne_rivers(sheet)
+    nile_km = [p for p, n, _ in rivers6 if n in ("Nile", "Rosetta Branch", "Damietta Branch")]
+    nile_seeds = []
+    for line in nile_km:
+        for x, y in line[::4]:
+            lon, lat = sheet.lonlat(x, y)
+            if 24 < lat < 31.3:
+                nile_seeds.append(("Nile", "Egypt", lon, lat))
+
+    layers, _ = terrain_layers(sheet, land, lakes, flow, wet, 1e12, 9.0, ripple_km=(3.5, 8, 14, 21, 30, 41), min_slope=1.6)
+    layers["rivers"] = ne_river_layers(sheet, rivers6)
+    layers["borders"] = {}
+    periods = []
+    for P in EMPIRES6:
+        lands = P["lands"]
+        seeds6 = list(nile_seeds)
+        for n, (_, _, towns, extra, _) in lands.items():
+            seeds6 += [(t, n, by_name[t]["lon"], by_name[t]["lat"]) for t in towns]
+            seeds6 += [(n, n, lon, lat) for lon, lat in extra]
+        names6 = list(lands)
+        terr, _ = territories(sheet, elev, wet, flow + (2,), seeds6, step=2, cap_km={n: v[4] for n, v in lands.items()},
+                              names=names6, barrier=None, keep_seeded=True)
+        terr = give_islands(terr, land & ~lakes, max_cells=int(3000 / res ** 2))
+        groups = {n: v[1] for n, v in lands.items()}
+        tints = {n: v[0] for n, v in lands.items()}
+        fills, labels, borders = territory_layers(sheet, terr, names6, groups, tints)
+        for lb in labels:
+            lb["style"] = "nation"
+        periods.append({"name": P["name"], "note": P["note"], "territories": fills, "labels": labels, "borders": borders})
+
+    labels = []
+    for text, pts, size in [("GREAT SEA", [(29.0, 33.6), (32.6, 33.3)], 34), ("RED SEA", [(36.2, 25.6), (37.9, 24.4)], 30),
+                            ("PERSIAN GULF", [(50.0, 28.4), (52.6, 26.8)], 30), ("CASPIAN SEA", [(50.6, 41.5), (51.6, 38.0)], 30),
+                            ("BLACK SEA", [(32.5, 42.0), (36.5, 41.8)], 28)]:
+        labels.append({"text": text, "style": "redsea" if text == "RED SEA" else "sea", "pts": line_km(sheet, pts, 2), "size": size})
+
+    pl = place_records(sheet, all_places, OT_BOOKS, ours, min_score=300)
+    journeys = build_journeys(sheet, EXILES, by_name, cost_grid(sheet, wet, step=2, slope_weight=8.0), sea_grid(sheet, sea), pl)
+
+    feats = {"mountains": [], "rivers": [], "waters": [], "regions": region_labels(sheet, by_name, ours, ["Chaldea"], OT_BOOKS)}
+    for n, lon, lat, length in (("Euphrates", 40.6, 35.0, 260), ("Tigris", 44.6, 33.6, 240), ("Nile", 31.2, 27.5, 260),
+                                ("Ulai", 48.3, 31.9, 120)):
+        line = follow([p for p, *_ in rivers6], lon, lat, sheet, length, reach_km=40)
+        if line:
+            feats["rivers"].append({"n": n, "pts": line, "main": n in ("Euphrates", "Tigris", "Nile")})
+    x, y = sheet.xy(45.23, 32.13)
+    feats["waters"].append({"n": "River Chebar", "x": round(x, 2), "y": round(y, 2), "lake": 1})
+
+    key_rows = [["camp", "Place on a journey"], ["camp-unsure", "Place uncertain (?)"]]
+    key_rows += [["journey", f"{J['name']} ({J['ref']})", J["color"]] for J in journeys]
+    key_rows += [["conjectural", "Way uncertain"], ["gap", ""], ["dot", "Town"], ["unsure", "Site uncertain (?)"],
+                 ["river", "River"], ["nation", "Border of an empire or kingdom"], ["tribe", "Border of a province"], ["gap", ""]]
+    for k, P in enumerate(EMPIRES6):
+        by_tint = {}
+        for n, v in P["lands"].items():
+            by_tint.setdefault(v[0], []).append(n)
+        for tint, names in by_tint.items():
+            key_rows.append(["swatch", ", ".join(names), tint, k])
+    data = {
+        "sheet": sheet_info(sheet), "grid": 2, "focus": 0.45, "file": "map-06-the-empires",
+        "page": {"w": 10.3, "h": 7.8}, "layers": layers, "territories": [], "labels": labels, "periods": periods,
+        "places": pl, "features": feats, "territoryLabel": "Land", "journeys": journeys,
+        "routeButton": "Journeys", "routesTitle": "Exile and return",
+        "routesNote": "Choose a journey to follow it place by place. Each place is named in the verse given.",
+        "routeLayer": "The exiles, Jonah, and the return",
+        "title": furniture_height({"box": {"x": 12, "y": 835, "w": 560}, "scale": 4.4, "lines": [
+            ["series", "MAP No. 6 · A STYLE STUDY", 7.5], ["display-fit", "THE EMPIRES", 20],
+            ["sub", "ASSYRIA · BABYLON · PERSIA", 27.5],
+            ["italic", "The empires of the prophets, with the exiles of Israel and Judah,", 33.5],
+            ["italic", "the return, and the places of the Old Testament whose location is known", 37.4], ["rule", "", 40.6],
+            ["plain", "Shown: Assyria at its height, about 670 BC", 45.5, 0],
+            ["plain", "Shown: Babylon under Nebuchadnezzar, about 570 BC", 45.5, 1],
+            ["plain", "Shown: Persia under Darius I, about 500 BC", 45.5, 2],
+            ["credit", "After the Eilers Sunday School Maps, St. Louis · Drawn from open data · CC BY 4.0", 50.5]]}),
+        "key": {"box": {"x": 1100, "y": 1290, "w": 360}, "scale": 4.7, "scale_bars": [[0, 50, 100, 150], [0, 100, 200]],
+                "rows": key_rows},
+    }
+    page = {
+        "slug": "empires", "NO": "6", "H1": "The Empires: Assyria, Babylon, Persia", "TITLE": "Bible Empires Map",
+        "DESCRIPTION": "Map No. 6, a style study after the Eilers Sunday School wall maps: the empires of Assyria, Babylon "
+                       "and Persia, with the exiles of Israel and Judah and the return, drawn from open data.",
+        "PAGE": "letter landscape", "PAGE_W": "10.3", "PAGE_H": "7.8",
+        "GRID_LABEL": "Two-degree squares, as used by the index",
+        "GRID_NOTE": "Grid squares are two degrees of latitude and longitude: letters across the top, numbers down the side.",
+        "ABOUT": about_html(
+            "A <strong>style study</strong> for the project's Bible maps, in the manner of the Eilers Sunday School wall "
+            "maps (A. H. Eilers &amp; Co., St. Louis). No Eilers Map No. 6 is known to us, so this sheet fills the "
+            "number with the empires of the exile.",
+            ["Flat tints for each land, with the seas left as paper", KEPT[1],
+             "Each journey in its own color, with the places numbered", KEPT[3], KEPT[4]], CHANGED + [
+                "One sheet shows three empires: choose Assyria, Babylon or Persia from the title or under Layers"],
+            ["<strong>Land, water and relief</strong> come from elevation data; the rivers and lakes from Natural "
+             "Earth, leaving out modern reservoirs.",
+             "<strong>The journeys</strong> follow 2 Kings, Jonah, Jeremiah, Ezekiel, Ezra and Nehemiah. Every place is "
+             "named in the verse given, and the build checks each name against this project's translation. The "
+             "roads between are reconstructions, so they are dashed.",
+             "<strong>Empires are approximate</strong>, grown from their cities, and their borders moved within each "
+             "period. Provinces and vassals have their own tints inside an empire's border.",
+             PLACES_MADE.format(books="the Old Testament").replace("Places scored below 500", "Places scored at least "
+                                                                    "300 are shown; those below 500"), NAMES_MADE],
+            SOURCES + ["Rivers and lakes: Natural Earth (public domain)"]),
+    }
+    return data, page
+
+
 # --- Map No. 1: Palestine in the time of Christ ------------------------------------------------
 
 GOSPELS = ["Matt", "Mark", "Luke", "John"]
@@ -2436,7 +2671,7 @@ def write_map(data, page):
 
 
 MAPS = {"palestine": palestine_map, "roman-empire": roman_map, "western-asia": western_asia_map, "exodus": exodus_map,
-        "kingdoms": kingdoms_map}
+        "empires": empires_map, "kingdoms": kingdoms_map}
 
 
 def main():
@@ -2448,8 +2683,8 @@ def main():
         for J in data.get("journeys", []):
             shown = sum(1 + len(s.get("also", [])) for s in J["stops"] if "x" in s)
             extra += f"; {J['short']}: {shown} of {len(J['stops'])} stops shown"
-        print(f"Map No. {page['NO']}, {page['H1']}: {len(data['places'])} places, "
-              f"{len(data['territories'])} territories{extra}")
+        lands = len(data["territories"]) or sum(len(P["territories"]) for P in data.get("periods", []))
+        print(f"Map No. {page['NO']}, {page['H1']}: {len(data['places'])} places, {lands} territories{extra}")
 
 
 if __name__ == "__main__":

@@ -41,6 +41,7 @@
   --route-green: #2f7a3e;
   --route-violet: #6b3d8e;
   --route-brown: #8a5a2b;
+  --route-black: #2a2420;
 }
 @media (prefers-color-scheme: dark) {
   :root:not([data-theme="light"]) {
@@ -97,6 +98,10 @@ button { font: inherit; color: inherit; }
 .tag .home svg { width: 18px; height: 18px; }
 .tag .no { font: 600 11px/1.2 var(--sans); letter-spacing: 0.12em; text-transform: uppercase; color: var(--muted); }
 .tag h1 { margin: 2px 0 0; font: 700 17px/1.15 var(--serif); letter-spacing: 0.01em; }
+.tag select {
+  margin-top: 5px; max-width: 100%; font: 600 12.5px/1.2 var(--sans); color: var(--ink); background: transparent;
+  border: 1px solid var(--line); border-radius: 8px; padding: 4px 6px;
+}
 .tag .draft { display: inline-block; margin-left: 6px; padding: 1px 6px; border-radius: 99px; background: var(--accent); color: var(--chrome-solid); font: 600 10px/1.5 var(--sans); letter-spacing: 0.08em; vertical-align: 2px; }
 .tools {
   display: flex; gap: 4px; flex-wrap: wrap; justify-content: flex-end;
@@ -276,6 +281,7 @@ button { font: inherit; color: inherit; }
     <div class="txt">
     <div class="no"><span class="wide">Map </span>No. {{NO}} · Style study<span class="draft">DRAFT</span></div>
     <h1>{{H1}}</h1>
+    <select id="period-pick" aria-label="Period shown" hidden></select>
     </div>
   </div>
   <nav class="tools" aria-label="Map tools">
@@ -1111,7 +1117,7 @@ function sheetSVG(wPx, hPx) {
   out.setAttribute("width", wPx); out.setAttribute("height", hPx);
   const style = document.createElementNS(NS, "style");
   const vars = ["--paper", "--wild", "--yellow", "--salmon", "--blush", "--lime", "--sage", "--olive", "--water", "--map-ink", "--vermilion", "--deep-red", "--river", "--wave", "--region-ink",
-    "--route-red", "--route-blue", "--route-green", "--route-violet", "--route-brown"];
+    "--route-red", "--route-blue", "--route-green", "--route-violet", "--route-brown", "--route-black"];
   let cssText = "@import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&family=Old+Standard+TT:ital,wght@0,400;0,700;1,400&family=Rokkitt:wght@500;600;700&display=swap');\n";
   cssText += "svg{" + vars.map(v => `${v}:${css(v)}`).join(";") + "}\n";
   for (const sheet of document.styleSheets) {
@@ -1184,24 +1190,31 @@ for (const lab of document.querySelectorAll("[data-needs]"))
   lab.hidden = !(lab.dataset.needs === "tribes" ? anyTribes : JOURNEYS.length || (D.roads || []).length);
 if (D.routeLayer) document.getElementById("route-layer").textContent = D.routeLayer;
 if (D.periods) {
-  // Lands that changed with time: one period at a time.
-  const box = document.getElementById("periods");
-  box.hidden = false;
+  // Lands that changed with time: one period at a time, chosen in the title tag or in Layers.
+  const box = document.getElementById("periods"), pick = document.getElementById("period-pick");
+  box.hidden = pick.hidden = false;
+  const showPeriod = k => {
+    state.period = k;
+    pick.value = String(k);
+    for (const r of box.querySelectorAll("input")) r.checked = +r.value === k;
+    world.node().textContent = "";
+    drawSheet();
+    applyLayers();
+    render();
+  };
   D.periods.forEach((P, k) => {
     const lab = document.createElement("label");
     lab.innerHTML = '<input type="radio" name="period"> <span><small></small></span>';
+    lab.querySelector("input").value = k;
     lab.querySelector("input").checked = k === state.period;
     lab.querySelector("span").prepend(P.name);
     lab.querySelector("small").textContent = P.note || "";
-    lab.querySelector("input").onchange = () => {
-      state.period = k;
-      world.node().textContent = "";
-      drawSheet();
-      applyLayers();
-      render();
-    };
+    lab.querySelector("input").onchange = () => showPeriod(k);
     box.append(lab);
+    pick.add(new Option(P.name, String(k)));
   });
+  pick.value = String(state.period);
+  pick.onchange = () => showPeriod(+pick.value);
 }
 for (const b of document.querySelectorAll("[data-panel]")) b.onclick = () => openPanel(b.dataset.panel);
 for (const b of document.querySelectorAll(".panel .close")) b.onclick = () => openPanel(null);
