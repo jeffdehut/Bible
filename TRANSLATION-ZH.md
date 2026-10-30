@@ -327,6 +327,16 @@ Settled while drafting Judges:
 | The Song of Deborah (5:2–31) | Poetry without quotation marks, as Deuteronomy 32 | 5:1 ends 說：; words quoted inside the song 「」; a note on each hard line. |
 | Gaal (9:26–41) | 迦勒 | The Union Version's form; noted as not Caleb (*Ga'al*, not *Kalev*). |
 | אֵל בְּרִית (9:46) | 伊勒‧比利土 | The Hebrew's form, as in Joshua; noted: 和合本作「巴力‧比利土」. |
+| שִׁבֹּלֶת / סִבֹּלֶת (12:6) | 示播列／西播列 | The sound difference kept visible; noted: *sh* said as *s*. |
+| צָלְחָה רוּחַ יְהוָה עַל | 耶和華的靈猛然臨到 | *tsalach* noted (14:6, 19; 15:14). Kept apart from 臨到 (הָיְתָה עַל). |
+| נְזִיר אֱלֹהִים (Samson) | 歸給神的拿細耳人 | As Numbers 6; *nazir* noted (13:5; 16:17). |
+| סַרְנֵי פְלִשְׁתִּים | 非利士人的首領 | *seranim* noted (3:3; 16:5). |
+| אֶלֶף וּמֵאָה כֶסֶף (no unit) | 一千一百塊銀子 | Noted: probably shekels, with the weight. |
+| פֶּסֶל וּמַסֵּכָה; תְּרָפִים | 雕刻的像和鑄造的像；家中的神像 | Judges 17–18; *teraphim* noted. |
+| בַּיָּמִים הָהֵם אֵין מֶלֶךְ בְּיִשְׂרָאֵל; אִישׁ הַיָּשָׁר בְּעֵינָיו יַעֲשֶׂה | 那時以色列中沒有王，各人隨自己的意思行事 | Identical at 17:6, 21:25 (18:1, 19:1 the first clause only); noted 直譯：「各人做自己眼中看為正的事」, linked to 14:3 (她在我眼中看為正 → 我喜歡她). |
+| The suspended nun (18:30) | 瑪拿西 in the text | 摩西 in a note, with the scribal mark. |
+| בְּנֵי־בְלִיַּעַל | 無賴之徒 | As Deuteronomy 13:14; *beliyya'al* noted. |
+| נְבָלָה; זִמָּה וּנְבָלָה | 醜惡的事；淫亂醜惡的事 | *nevalah* noted (19:23; 20:6). |
 
 ## Style
 
