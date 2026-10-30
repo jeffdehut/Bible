@@ -123,9 +123,10 @@ cost of a live one.
 1. **Create a project** at [supabase.com](https://supabase.com/dashboard). Choose a region near
    most readers, and keep the database password somewhere safe.
 2. **Create the table.** In the project's **SQL Editor**, paste all of `supabase/schema.sql` and
-   run it. It creates one table, `annotations`, with rules that let each person read and write
-   only their own rows, and two functions: `push_annotations`, which keeps whichever version of
-   a verse's highlight and note is newer, and `delete_account`.
+   run it. It creates two tables, `annotations` and `plans` (the reading plan each person
+   follows), with rules that let each person read and write only their own rows, and three
+   functions: `push_annotations` and `push_plan`, which keep whichever version is newer, and
+   `delete_account`. Running it again on an older project adds what is new and keeps the data.
 3. **Sign-in emails.** Under **Authentication → Sign In / Providers**, leave **Email** on.
    Supabase's own emails carry only a link, which signs the reader in on the device where it is
    opened; that works once step 4 is done. To add a code, which suits the installed app better,
@@ -159,7 +160,9 @@ cost of a live one.
 
 What readers see: **Sync across devices** in the reader's menu. Signing in adds what the device
 has saved to the account and brings in what the account holds, verse by verse, the newest
-change winning; after that each change is sent a few seconds after it is made. Signing out
+change winning; the reading plan is kept the same way, as one record (the first time two devices
+following the same plan meet, the days marked on either are kept). After that each change is sent
+a few seconds after it is made. Signing out
 leaves the notes on the device. **Delete my account** removes the account and everything in it
 at once. `privacy.html` says all this for readers; read it over before going live.
 

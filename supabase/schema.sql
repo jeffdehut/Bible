@@ -1,4 +1,5 @@
--- Accounts for the Plain English Bible: each reader's highlights and notes, one row per verse.
+-- Accounts for the Plain English Bible: each reader's highlights and notes, one row per verse,
+-- and the reading plan they follow.
 --
 -- Run this once in the Supabase project's SQL editor (see DEPLOY.md, "Accounts"). It is safe
 -- to run again: it replaces the functions and policies and leaves the data alone.
@@ -72,7 +73,47 @@ $$;
 revoke all on function public.push_annotations(jsonb) from public, anon;
 grant execute on function public.push_annotations(jsonb) to authenticated;
 
--- Delete the signed-in person's account, and with it all their highlights and notes.
+-- The reading plan each person follows, one row each: {"id", "start", "done": [days]}, or null
+-- when they stopped following one. Added October 2026; safe to run on an older database.
+create table if not exists public.plans (
+  user_id    uuid   primary key default auth.uid() references auth.users (id) on delete cascade,
+  plan       jsonb  check (plan is null or (jsonb_typeof(plan) = 'object' and pg_column_size(plan) <= 8000)),
+  updated_at bigint not null,                        -- when the device made the change
+  synced_at  timestamptz not null default clock_timestamp()
+);
+alter table public.plans enable row level security;
+drop policy if exists "Read own plan" on public.plans;
+drop policy if exists "Add own plan" on public.plans;
+drop policy if exists "Change own plan" on public.plans;
+create policy "Read own plan" on public.plans
+  for select to authenticated using ((select auth.uid()) = user_id);
+create policy "Add own plan" on public.plans
+  for insert to authenticated with check ((select auth.uid()) = user_id);
+create policy "Change own plan" on public.plans
+  for update to authenticated using ((select auth.uid()) = user_id) with check ((select auth.uid()) = user_id);
+revoke all on public.plans from anon;
+
+-- Store a device's plan if it is newer than the account's. Returns whether it was stored.
+create or replace function public.push_plan(plan jsonb, updated_at bigint)
+returns boolean
+language sql
+security invoker
+set search_path = ''
+as $$
+  with written as (
+    insert into public.plans as p (user_id, plan, updated_at, synced_at)
+    values ((select auth.uid()), push_plan.plan, push_plan.updated_at, clock_timestamp())
+    on conflict (user_id) do update
+      set plan = excluded.plan, updated_at = excluded.updated_at, synced_at = clock_timestamp()
+      where p.updated_at < excluded.updated_at
+    returning 1
+  )
+  select exists (select 1 from written);
+$$;
+revoke all on function public.push_plan(jsonb, bigint) from public, anon;
+grant execute on function public.push_plan(jsonb, bigint) to authenticated;
+
+-- Delete the signed-in person's account, and with it all their highlights, notes and plan.
 create or replace function public.delete_account()
 returns void
 language sql
