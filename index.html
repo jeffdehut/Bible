@@ -433,85 +433,60 @@ textarea { min-height: 88px; resize: vertical; }
 .tabs { display: flex; gap: 4px; background: var(--bg); padding: 4px; border-radius: 12px; border: 1px solid var(--line); }
 .tabs button { flex: 1; border: 0; background: transparent; border-radius: 9px; padding: 9px 8px; font: 600 14px/1 var(--sans); cursor: pointer; }
 .tabs button[aria-selected="true"] { background: var(--surface); box-shadow: var(--shadow); }
-/* The book and chapter picker. On a phone, a tall sheet that slides between the books and the
-   chapters of one book; from 900px up, a wide dialog with both side by side. */
-#picker { --pk-h: min(88vh, 780px); height: var(--pk-h); max-height: var(--pk-h); }
-.pk-head { gap: 4px; }
-.pk-head h2 { text-align: left; }
-.pk-back { display: none; align-items: center; gap: 2px; border: 0; background: transparent; color: var(--lapis); font: 600 15px/1 var(--sans); padding: 8px 8px 8px 0; cursor: pointer; }
-.pk-back svg { width: 20px; height: 20px; }
-#picker[data-pane="chapters"] .pk-back { display: inline-flex; }
-#picker[data-pane="chapters"] .pk-head h2 { text-align: center; }
-.pk-search { display: flex; align-items: center; gap: 8px; margin: 4px 0 0; padding: 0 12px; border-radius: 12px; background: var(--bg); border: 1px solid var(--line); }
-.pk-search:focus-within { border-color: var(--lapis); box-shadow: 0 0 0 3px var(--lapis-soft); }
+/* The book and chapter picker: one screen. The books in one list under their parts; a book's
+   chapters open in place beneath it, the book being read open from the start; a rail of the
+   parts down the side to jump through the Bible, and a search above that narrows the list. */
+#picker { --pk-h: min(90vh, 820px); height: var(--pk-h); max-height: var(--pk-h); position: fixed; }
+@media (min-width: 720px) { .sheet.dialog#picker { width: min(600px, calc(100vw - 48px)); --pk-h: min(800px, calc(100vh - var(--bar) - 48px)); } }
+.pk-search { display: flex; align-items: center; gap: 8px; margin: 2px 0 0; padding: 0 12px; border-radius: 12px; background: color-mix(in srgb, var(--ink) 6%, var(--raised)); }
+.pk-search:focus-within { box-shadow: 0 0 0 2px var(--lapis); }
 .pk-search svg { width: 18px; height: 18px; flex: none; color: var(--muted); }
-.pk-search input { flex: 1; min-width: 0; border: 0; background: transparent; padding: 12px 0; font: 400 16px/1.2 var(--sans); color: var(--ink); outline: none; }
-.pk-body { position: relative; flex: 1 1 auto; min-height: 0; display: flex; overflow: hidden; margin: 10px calc(-1 * max(16px, env(safe-area-inset-right, 0px))) 0 calc(-1 * max(16px, env(safe-area-inset-left, 0px))); }
-.pk-pane { flex: none; width: 100%; height: 100%; overflow-y: auto; overscroll-behavior: contain; padding: 4px max(16px, env(safe-area-inset-right, 0px)) max(24px, env(safe-area-inset-bottom, 0px)) max(16px, env(safe-area-inset-left, 0px));
-  transition: transform 0.32s cubic-bezier(.2, .8, .2, 1); }
-#picker[data-pane="chapters"] .pk-pane { transform: translateX(-100%); }
-@media (prefers-reduced-motion: reduce) { .pk-pane { transition: none; } }
-.pk-go { display: flex; align-items: center; justify-content: space-between; gap: 12px; width: 100%; margin: 0 0 12px; padding: 14px 16px; border: 0; border-radius: 14px; background: var(--lapis); color: var(--surface); font: 600 16px/1.2 var(--sans); cursor: pointer; text-align: left; }
+.pk-search input { flex: 1; min-width: 0; border: 0; background: transparent; padding: 11px 0; font: 400 16px/1.2 var(--sans); color: var(--ink); outline: none; }
+#picker .pk-list { padding-right: max(40px, env(safe-area-inset-right, 0px)); scroll-behavior: smooth; }
+@media (prefers-reduced-motion: reduce) { #picker .pk-list { scroll-behavior: auto; } }
+.pk-go { display: flex; align-items: center; justify-content: space-between; gap: 12px; width: 100%; margin: 4px 0 10px; padding: 13px 16px; border: 0; border-radius: 14px; background: var(--lapis); color: var(--surface); font: 600 17px/1.2 var(--sans); cursor: pointer; text-align: left; }
 .pk-go[hidden] { display: none; }
-.pk-go small { font-weight: 500; opacity: 0.8; }
-.pk-recent { margin: 0 0 14px; }
-.pk-recent .eyebrow { margin: 0 0 6px; }
-.pk-recent-row { display: flex; gap: 6px; overflow-x: auto; scrollbar-width: none; margin: 0 calc(-1 * max(16px, env(safe-area-inset-right, 0px))) 0 calc(-1 * max(16px, env(safe-area-inset-left, 0px))); padding: 0 16px; }
+.pk-recent { margin: 4px 0 2px; }
+.pk-recent-row { display: flex; gap: 6px; overflow-x: auto; scrollbar-width: none; }
 .pk-recent-row::-webkit-scrollbar { display: none; }
-.pk-recent-row button { flex: none; border: 1px solid var(--line); background: var(--surface); border-radius: 99px; padding: 8px 14px; font: 500 14px/1.2 var(--sans); color: var(--ink); cursor: pointer; }
-.pk-testaments { position: sticky; top: -4px; z-index: 2; display: flex; gap: 4px; margin: 0 0 6px; padding: 4px; border-radius: 12px; background: color-mix(in srgb, var(--bg) 92%, transparent); backdrop-filter: blur(8px); -webkit-backdrop-filter: blur(8px); border: 1px solid var(--line); }
-.pk-testaments button { flex: 1; border: 0; background: transparent; border-radius: 9px; padding: 9px 8px; font: 600 14px/1 var(--sans); color: var(--muted); cursor: pointer; }
-.pk-testaments button[aria-pressed="true"] { background: var(--surface); color: var(--ink); box-shadow: var(--shadow); }
-.pk-filtering .pk-testaments, .pk-filtering .pk-recent { display: none; }
-.pk-sec { --c: var(--c1); margin: 14px 0 0; scroll-margin-top: 56px; }
-@media (prefers-color-scheme: dark) { :root:not([data-theme="light"]) .pk-sec, :root:not([data-theme="light"]) .pk-hero { --c: var(--c2); } }
-:root[data-theme="dark"] .pk-sec, :root[data-theme="dark"] .pk-hero { --c: var(--c2); }
-.pk-sec h3 { display: flex; align-items: center; gap: 8px; margin: 0 0 8px; font: 600 12px/1.3 var(--sans); letter-spacing: 0.08em; text-transform: uppercase; color: var(--muted); }
-.pk-sec h3 i { display: inline-grid; place-items: center; width: 24px; height: 24px; border-radius: 50%; background: var(--c); color: var(--raised); }
+.pk-recent-row button { flex: none; display: inline-flex; align-items: center; gap: 6px; border: 0; background: color-mix(in srgb, var(--ink) 6%, var(--raised)); border-radius: 99px; padding: 7px 12px; font: 500 14px/1.2 var(--sans); color: var(--ink); cursor: pointer; }
+.pk-recent-row button svg { width: 14px; height: 14px; color: var(--muted); }
+.pk-filtering .pk-recent { display: none; }
+.pk-sec, .pk-index button { --c: var(--c1); }
+@media (prefers-color-scheme: dark) { :root:not([data-theme="light"]) .pk-sec, :root:not([data-theme="light"]) .pk-index button { --c: var(--c2); } }
+:root[data-theme="dark"] .pk-sec, :root[data-theme="dark"] .pk-index button { --c: var(--c2); }
+.pk-sec h3 { position: sticky; top: 0; z-index: 2; display: flex; align-items: center; gap: 8px; margin: 0; padding: 14px 0 6px; background: var(--raised); font: 600 13px/1.3 var(--sans); letter-spacing: 0.06em; text-transform: uppercase; color: var(--muted); }
+.pk-sec h3 i { display: inline-grid; place-items: center; width: 22px; height: 22px; border-radius: 7px; background: var(--c); color: var(--raised); }
 .pk-sec h3 i svg { width: 14px; height: 14px; }
-.pk-sec h3 small { margin-left: auto; font-weight: 500; letter-spacing: 0; text-transform: none; }
-.pk-books { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 8px; margin: 0; padding: 0; list-style: none; }
-@media (min-width: 560px) { .pk-books { grid-template-columns: repeat(3, minmax(0, 1fr)); } }
-.pk-books button { position: relative; display: flex; align-items: baseline; justify-content: space-between; gap: 6px; width: 100%; min-height: 50px; padding: 12px 12px 12px 16px; border: 1px solid var(--line); border-radius: 12px; background: var(--surface); color: var(--ink); cursor: pointer; text-align: left; overflow: hidden;
-  transition: border-color 0.15s, transform 0.15s; }
-.pk-books button::before { content: ""; position: absolute; left: 0; top: 0; bottom: 0; width: 4px; background: var(--c); }
-.pk-books button b { font: 500 16px/1.2 var(--read); }
-.pk-books button small { font: 500 12px/1 var(--sans); color: var(--faint); font-variant-numeric: tabular-nums; }
-.pk-books button:hover { border-color: var(--c); }
-.pk-books button:active { transform: scale(0.98); }
-.pk-books button[aria-current="true"] { border-color: var(--c); background: color-mix(in srgb, var(--c) 12%, var(--surface)); }
-.pk-books button[aria-current="true"] b { font-weight: 700; }
-.pk-books button.pk-sel { box-shadow: inset 0 0 0 2px var(--lapis); }
+.pk-rows { margin: 0; padding: 0; list-style: none; border-radius: 14px; background: var(--surface); border: 1px solid var(--line); overflow: hidden; }
+.pk-rows > li + li { border-top: 1px solid var(--line); }
+.pk-book { display: flex; align-items: center; gap: 10px; width: 100%; min-height: 48px; padding: 10px 14px; border: 0; background: transparent; color: var(--ink); cursor: pointer; text-align: left; -webkit-tap-highlight-color: transparent; }
+.pk-book:active { background: color-mix(in srgb, var(--ink) 6%, var(--surface)); }
+.pk-book b { flex: 1; font: 500 17px/1.2 var(--read); }
+.pk-book small { font: 500 13px/1 var(--sans); color: var(--faint); font-variant-numeric: tabular-nums; }
+.pk-book .chev { width: 16px; height: 16px; flex: none; color: var(--faint); transition: transform 0.25s cubic-bezier(.2, .8, .2, 1); }
+.pk-book[aria-expanded="true"] .chev { transform: rotate(90deg); color: var(--c); }
+.pk-book[aria-expanded="true"] b { font-weight: 700; color: var(--c); }
+.pk-book .now { font: 600 11px/1 var(--sans); letter-spacing: 0.04em; text-transform: uppercase; color: var(--surface); background: var(--c); padding: 4px 7px; border-radius: 99px; }
+/* A book's chapters open below it: the height eases from nothing to all. */
+.pk-ch { display: grid; grid-template-rows: 0fr; transition: grid-template-rows 0.3s cubic-bezier(.2, .8, .2, 1); }
+.pk-ch.open { grid-template-rows: 1fr; }
+.pk-ch > div { overflow: hidden; }
+@media (prefers-reduced-motion: reduce) { .pk-ch, .pk-book .chev { transition: none; } }
+.pk-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(48px, 1fr)); gap: 8px; margin: 0; padding: 4px 14px 14px; list-style: none; }
+.pk-grid button { position: relative; width: 100%; height: 48px; border: 0; border-radius: 12px; background: color-mix(in srgb, var(--c) 11%, var(--surface)); color: var(--ink); font: 600 17px/1 var(--sans); font-variant-numeric: tabular-nums; cursor: pointer; transition: transform 0.12s; -webkit-tap-highlight-color: transparent; }
+.pk-grid button:hover { background: color-mix(in srgb, var(--c) 22%, var(--surface)); }
+.pk-grid button:active { transform: scale(0.94); }
+.pk-grid button[aria-current="true"] { background: var(--c); color: var(--surface); }
+.pk-grid button.mine::after { content: ""; position: absolute; top: 6px; right: 6px; width: 6px; height: 6px; border-radius: 50%; background: var(--gold); }
+.pk-grid button[aria-current="true"].mine::after { background: var(--surface); }
 .pk-empty { color: var(--muted); text-align: center; margin: 24px 0; }
-.pk-hero { --c: var(--c1); display: flex; align-items: center; gap: 14px; margin: 4px 0 14px; padding: 14px; border-radius: 16px; background: color-mix(in srgb, var(--c) 12%, var(--surface)); border: 1px solid color-mix(in srgb, var(--c) 30%, var(--line)); }
-.pk-hero i { display: grid; place-items: center; flex: none; width: 48px; height: 48px; border-radius: 14px; background: var(--c); color: var(--raised); }
-.pk-hero i svg { width: 26px; height: 26px; }
-.pk-hero .eyebrow { margin: 0; }
-.pk-hero h3 { margin: 2px 0 0; font: 500 28px/1.1 var(--read); }
-.pk-hero p.n { margin: 2px 0 0; font: 500 13px/1.3 var(--sans); color: var(--muted); }
-.pk-chapters { display: grid; grid-template-columns: repeat(auto-fill, minmax(56px, 1fr)); gap: 8px; margin: 0; padding: 0; list-style: none; }
-.pk-chapters button { position: relative; width: 100%; min-height: 52px; aspect-ratio: 1.1; border: 1px solid var(--line); border-radius: 12px; background: var(--surface); color: var(--ink); font: 600 17px/1 var(--sans); font-variant-numeric: tabular-nums; cursor: pointer; transition: border-color 0.15s, transform 0.15s; }
-.pk-chapters button:hover { border-color: var(--lapis); }
-.pk-chapters button:active { transform: scale(0.96); }
-.pk-chapters button[aria-current="true"] { background: var(--lapis); border-color: var(--lapis); color: var(--surface); }
-.pk-chapters button.mine::after { content: ""; position: absolute; top: 6px; right: 6px; width: 7px; height: 7px; border-radius: 50%; background: var(--gold); }
-.pk-key { margin: 10px 0 0; font-size: 13px; color: var(--muted); display: flex; align-items: center; gap: 6px; }
-.pk-key::before { content: ""; width: 7px; height: 7px; border-radius: 50%; background: var(--gold); }
-.pk-near { display: flex; gap: 8px; margin: 18px 0 0; }
-.pk-near button { flex: 1; display: flex; align-items: center; gap: 6px; min-height: 48px; padding: 10px 14px; border: 1px solid var(--line); border-radius: 12px; background: var(--surface); color: var(--ink); font: 500 15px/1.2 var(--read); cursor: pointer; }
-.pk-near button.next { justify-content: flex-end; text-align: right; }
-.pk-near button small { display: block; font: 600 11px/1.2 var(--sans); letter-spacing: 0.06em; text-transform: uppercase; color: var(--muted); }
-.pk-near span { flex: 1; }
-@media (min-width: 900px) {
-  .sheet.dialog#picker { width: min(940px, calc(100vw - 48px)); --pk-h: min(760px, calc(100vh - var(--bar) - 48px)); }
-  #picker .pk-pane { transform: none !important; }
-  #picker .pk-body { gap: 0; }
-  #pk-books { width: 58%; }
-  #pk-chapters { width: 42%; border-left: 1px solid var(--line); }
-  #picker[data-pane] .pk-back { display: none; }
-  #picker[data-pane] .pk-head h2 { text-align: left; }
-  .pk-books { grid-template-columns: repeat(3, minmax(0, 1fr)); }
-}
+/* The parts down the side, to jump through the Bible as in an index. */
+.pk-index { position: absolute; right: max(6px, env(safe-area-inset-right, 0px)); top: 132px; bottom: max(16px, env(safe-area-inset-bottom, 0px)); display: flex; flex-direction: column; justify-content: center; gap: 6px; z-index: 3; }
+.pk-index button { display: grid; place-items: center; width: 28px; height: 28px; border: 0; border-radius: 9px; background: color-mix(in srgb, var(--c) 16%, var(--raised)); color: var(--c); cursor: pointer; }
+.pk-index button svg { width: 16px; height: 16px; }
+.pk-index button[aria-current="true"] { background: var(--c); color: var(--raised); }
+.pk-filtering ~ .pk-index { display: none; }
 .group-label { margin: 16px 0 0; }
 .hint { font-size: 13px; color: var(--muted); margin: 6px 0 0; }
 
@@ -808,30 +783,20 @@ if (/(^#|&)(access_token|error)=/.test(location.hash)) {
   <p class="prose" id="fn-text" style="font-family:var(--read);font-size:17px"></p>
 </section>
 
-<section class="sheet dialog split" id="picker" hidden aria-labelledby="picker-title" data-pane="books">
+<section class="sheet dialog split" id="picker" hidden aria-labelledby="picker-title">
   <div class="grab"></div>
-  <div class="sheet-head pk-head">
-    <button class="pk-back" type="button" id="pk-back" aria-label="All books"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="m15 5-7 7 7 7"/></svg><span>Books</span></button>
-    <h2 id="picker-title">Books</h2>
-    <button class="btn" type="button" data-close aria-label="Close"><svg class="icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M6 6l12 12M18 6 6 18"/></svg></button>
-  </div>
+  <div class="sheet-head"><h2 id="picker-title">Go to</h2><button class="btn" type="button" data-close aria-label="Close"><svg class="icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M6 6l12 12M18 6 6 18"/></svg></button></div>
   <label class="pk-search">
     <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><circle cx="11" cy="11" r="7"/><path d="m20 20-3.5-3.5"/></svg>
-    <input type="text" id="goto" placeholder="Find a book, or go to a passage: jn 3:16" autocomplete="off" autocapitalize="off" spellcheck="false" enterkeyhint="go" aria-label="Find a book or passage">
+    <input type="text" id="goto" placeholder="Book or passage, like jn 3:16" autocomplete="off" autocapitalize="off" spellcheck="false" enterkeyhint="go" aria-label="Find a book or passage">
   </label>
-  <div class="pk-body">
-    <div class="pk-pane scroll" id="pk-books" role="region" aria-label="Books">
-      <button type="button" class="pk-go" id="pk-go" hidden></button>
-      <div class="pk-recent" id="pk-recent" hidden><p class="eyebrow">Jump back in</p><div class="pk-recent-row" id="recent"></div></div>
-      <div class="pk-testaments" role="group" aria-label="Testament">
-        <button type="button" id="tab-ot" aria-pressed="true">Old Testament</button>
-        <button type="button" id="tab-nt" aria-pressed="false">New Testament</button>
-      </div>
-      <div id="books"></div>
-      <p class="pk-empty" id="pk-empty" hidden>No book by that name.</p>
-    </div>
-    <div class="pk-pane scroll" id="pk-chapters" role="region" aria-label="Chapters"></div>
+  <div class="scroll pk-list" id="pk-list">
+    <button type="button" class="pk-go" id="pk-go" hidden></button>
+    <div class="pk-recent" id="pk-recent" hidden><div class="pk-recent-row" id="recent"></div></div>
+    <div id="books"></div>
+    <p class="pk-empty" id="pk-empty" hidden>No book by that name.</p>
   </div>
+  <nav class="pk-index" id="pk-index" aria-label="Parts of the Bible"></nav>
 </section>
 
 <section class="sheet dialog split" id="search" hidden aria-labelledby="search-title">
@@ -2403,140 +2368,145 @@ function describeGreek(code) {
 }
 
 /* ---------- Picker ---------- */
-// Opens on the chapters of the book being read (the move made most), one step from all the books:
-// in their parts, with each part's color and icon, a search that narrows them as you type and
-// goes straight to a passage, and the chapters you were last reading.
+// One screen: the books in one list under their parts, and a book's chapters opening in place
+// beneath it, the book being read open from the start, so a chapter is one tap and another book's
+// chapter two. A rail of the parts jumps through the Bible; the search narrows the list as you
+// type, opens the book when one is left, and goes straight to a passage ("jn 3:16", "ps 23").
 const PK_PARTS = [[0, "The Law", "torah", "#a8790a", "#f2c45a"], [5, "History", "history", "#bf5a1f", "#f59a62"], [17, "Poetry and Wisdom", "wisdom", "#2f8a3c", "#8fdc8a"],
   [22, "The Prophets", "prophets", "#c43434", "#ff7272"], [39, "The Gospels", "gospels", "#2459c4", "#6fb0ff"], [43, "Acts", "acts", "#0f8c83", "#4fd6cb"],
   [44, "The Letters", "letters", "#6d43c9", "#b996ff"], [65, "Revelation", "revelation", "#c23a7c", "#ff86c0"]];
-const pkPart = i => PK_PARTS.reduce((k, [start], j) => (i >= start ? j : k), 0);
 const pkColors = k => `--c1:${PK_PARTS[k][3]};--c2:${PK_PARTS[k][4]}`;
 const pkIcon = k => `<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="${window.Share?.icons?.[PK_PARTS[k][2]] || ""}"/></svg>`;
-const bookTitle = b => (b.osis === "Ps" ? "Psalms" : b.n);
-let pickerBook = null, pkTiles = new Map();
+const CHEV = '<svg class="chev" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><path d="m9 6 6 6-6 6"/></svg>';
+let pkOpen = null, pkRows = new Map();
 function openPicker() {
   $("goto").value = "";
   renderBooks();
   pkFilter("");
-  showChapters(cur ? cur.b : BOOKS[0]);
-  setPane(cur ? "chapters" : "books");
   openSheet("picker");
-  // The current book's part in view behind the chapters, for the step back.
-  const tile = cur && pkTiles.get(cur.b);
-  if (tile) requestAnimationFrame(() => { const pane = $("pk-books"); pane.scrollTop = Math.max(0, tile.offsetTop - pane.clientHeight / 3); syncTestament(); });
-}
-function setPane(p) {
-  $("picker").dataset.pane = p;
-  $("picker-title").textContent = p === "chapters" && pickerBook && innerWidth < 900 ? bookTitle(pickerBook) : "Books";
+  const b = cur ? cur.b : null;
+  if (b && b.s.length > 1) pkExpand(b, { instant: true });
+  else requestAnimationFrame(() => { $("pk-list").scrollTop = 0; });
+  pkSyncIndex();
 }
 function renderBooks() {
   const box = $("books");
-  box.textContent = ""; pkTiles = new Map();
+  box.textContent = ""; pkRows = new Map(); pkOpen = null;
   PK_PARTS.forEach(([first, name], k) => {
     const last = (PK_PARTS[k + 1] || [BOOKS.length])[0];
-    const books = BOOKS.slice(first, last);
-    const h = el("h3", {}, el("i"), name, el("small", { text: books.length === 1 ? "" : `${books.length} books` }));
+    const h = el("h3", {}, el("i"), name);
     h.querySelector("i").innerHTML = pkIcon(k);
-    const ol = el("ol", { class: "pk-books" });
-    for (const b of books) {
-      const t = el("button", { type: "button", "aria-current": String(!!cur && cur.b === b), onclick: () => pickBook(b) },
-        el("b", { text: b.n }), el("small", { text: b.s.length === 1 ? "1 ch." : String(b.s.length), title: `${b.s.length} chapters` }));
-      pkTiles.set(b, t);
-      ol.append(el("li", {}, t));
+    const ul = el("ul", { class: "pk-rows" });
+    for (const b of BOOKS.slice(first, last)) {
+      const here = !!cur && cur.b === b;
+      const row = el("button", { type: "button", class: "pk-book", "aria-expanded": "false", onclick: () => (b.s.length === 1 ? (closeSheets(), go(b, 1)) : pkExpand(pkOpen === b ? null : b)) },
+        el("b", { text: b.n }), here ? el("span", { class: "now", text: "Reading" }) : null, el("small", { text: b.s.length === 1 ? "" : String(b.s.length) }));
+      row.insertAdjacentHTML("beforeend", CHEV);
+      const ch = el("div", { class: "pk-ch" }, el("div"));
+      pkRows.set(b, { row, ch });
+      ul.append(el("li", {}, row, ch));
     }
-    box.append(el("section", { class: "pk-sec", style: pkColors(k), "data-t": books[0].t, id: "pk-part-" + k }, h, ol));
+    box.append(el("section", { class: "pk-sec", style: pkColors(k), id: "pk-part-" + k }, h, ul));
   });
+  $("pk-index").replaceChildren(...PK_PARTS.map(([, name], k) => {
+    const btn = el("button", { type: "button", title: name, "aria-label": name, style: pkColors(k), onclick: () => pkJump(k) });
+    btn.innerHTML = pkIcon(k);
+    return btn;
+  }));
   const recent = store.get("recent", []).filter(r => bySlug[r.s] && !(cur && bySlug[r.s] === cur.b && r.c === cur.c)).slice(0, 8);
   $("pk-recent").hidden = !recent.length;
-  $("recent").replaceChildren(...recent.map(r => { const b = bySlug[r.s]; return el("button", { type: "button", text: `${b.osis === "Ps" ? "Psalm" : b.n} ${r.c}`, onclick: () => { closeSheets(); go(b, r.c); } }); }));
+  $("recent").replaceChildren(...recent.map(r => {
+    const b = bySlug[r.s], btn = el("button", { type: "button", onclick: () => { closeSheets(); go(b, r.c); } }, `${b.osis === "Ps" ? "Psalm" : b.n} ${r.c}`);
+    btn.insertAdjacentHTML("afterbegin", '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><circle cx="12" cy="12" r="8.5"/><path d="M12 7.5V12l3 2"/></svg>');
+    return btn;
+  }));
 }
-function pickBook(b) {
-  if (b.s.length === 1) { closeSheets(); go(b, 1); return; }
-  showChapters(b);
-  setPane("chapters");
+// Open a book's chapters in place (and close the one open), bringing its row to the top.
+function pkExpand(b, { instant = false } = {}) {
+  // The book that was open closes at once, so the list does not shift while the new one opens.
+  if (pkOpen && pkRows.get(pkOpen)) {
+    const o = pkRows.get(pkOpen);
+    o.row.setAttribute("aria-expanded", "false");
+    if (b) { o.ch.style.transition = "none"; o.ch.classList.remove("open"); void o.ch.offsetHeight; o.ch.style.transition = ""; }
+    else o.ch.classList.remove("open");
+  }
+  pkOpen = b;
+  if (!b) return;
+  const { row, ch } = pkRows.get(b);
+  if (!ch.firstChild.firstChild) {
+    const mine = new Set();
+    for (const id in notes) { const [o, c] = id.split("."); if (o === b.osis) mine.add(+c); }
+    const grid = el("ol", { class: "pk-grid", "aria-label": `${b.osis === "Ps" ? "Psalms" : b.n}: chapters` });
+    b.s.forEach((st, j) => grid.append(el("li", {}, el("button", { type: "button", class: mine.has(j + 1) ? "mine" : "",
+      "aria-current": String(!!cur && cur.b === b && cur.c === j + 1), "aria-label": `${b.osis === "Ps" ? "Psalm" : b.n} ${j + 1}${mine.has(j + 1) ? ", with your notes" : ""}`,
+      text: j + 1, onclick: () => { closeSheets(); go(b, j + 1); } }))));
+    ch.firstChild.append(grid);
+  }
+  row.setAttribute("aria-expanded", "true");
+  const list = $("pk-list");
+  if (instant) {
+    ch.style.transition = "none"; ch.classList.add("open"); void ch.offsetHeight; ch.style.transition = "";
+    list.style.scrollBehavior = "auto";
+    // The book's row near the top, and in a long book the current chapter in view as well.
+    const on = ch.querySelector('[aria-current="true"]');
+    let top = row.getBoundingClientRect().top - list.getBoundingClientRect().top + list.scrollTop - 44;
+    if (on) { const below = on.getBoundingClientRect().top - row.getBoundingClientRect().top; if (below > list.clientHeight * 0.6) top += below - list.clientHeight * 0.45; }
+    list.scrollTop = top;
+    list.style.scrollBehavior = "";
+    return;
+  }
+  // Its row up under the part's heading, and its chapters opening below.
+  list.scrollTo({ top: row.getBoundingClientRect().top - list.getBoundingClientRect().top + list.scrollTop - 44 });
+  ch.classList.add("open");
 }
-// One book's chapters, its part's color and icon above them; a gold dot marks the chapters
-// with your highlights, notes or bookmarks.
-function showChapters(b) {
-  pickerBook = b;
-  for (const [bk, t] of pkTiles) t.classList.toggle("pk-sel", bk === b && !(cur && cur.b === b));
-  const i = BOOKS.indexOf(b), k = pkPart(i), pane = $("pk-chapters");
-  const mine = new Set();
-  for (const id in notes) { const [o, c] = id.split("."); if (o === b.osis) mine.add(+c); }
-  const hero = el("div", { class: "pk-hero", style: pkColors(k) }, el("i"),
-    el("div", {}, el("p", { class: "eyebrow", text: PK_PARTS[k][1] }), el("h3", { text: bookTitle(b) }),
-      el("p", { class: "n", text: `${b.s.length} ${b.osis === "Ps" ? "psalms" : b.s.length === 1 ? "chapter" : "chapters"}` })));
-  hero.querySelector("i").innerHTML = pkIcon(k);
-  const grid = el("ol", { class: "pk-chapters", "aria-label": `${bookTitle(b)}: chapters` });
-  b.s.forEach((st, j) => {
-    const here = !!cur && cur.b === b && cur.c === j + 1;
-    grid.append(el("li", {}, el("button", { type: "button", class: mine.has(j + 1) ? "mine" : "", "aria-current": String(here),
-      "aria-label": `${b.osis === "Ps" ? "Psalm" : "Chapter"} ${j + 1}${mine.has(j + 1) ? ", with your notes" : ""}`, text: j + 1, onclick: () => { closeSheets(); go(b, j + 1); } })));
-  });
-  const near = el("div", { class: "pk-near" });
-  const prev = BOOKS[i - 1], next = BOOKS[i + 1];
-  if (prev) near.append(el("button", { type: "button", onclick: () => pickBook(prev) }, "‹", el("span", {}, el("small", { text: "Previous book" }), bookTitle(prev))));
-  if (next) near.append(el("button", { type: "button", class: "next", onclick: () => pickBook(next) }, el("span", {}, el("small", { text: "Next book" }), bookTitle(next)), "›"));
-  pane.replaceChildren(hero, grid, mine.size ? el("p", { class: "pk-key", text: "Chapters with your highlights or notes" }) : "", near);
-  pane.scrollTop = 0;
-  if ($("picker").dataset.pane === "chapters") setPane("chapters");
-  // The current chapter in view in a long book (Psalms).
-  const on = grid.querySelector('[aria-current="true"]');
-  if (on) requestAnimationFrame(() => { if (on.offsetTop > pane.clientHeight * 0.6) pane.scrollTop = on.offsetTop - pane.clientHeight / 3; });
+function pkJump(k) {
+  const sec = $("pk-part-" + k), list = $("pk-list");
+  list.scrollTo({ top: sec.offsetTop - list.offsetTop });
 }
-// The search: books whose names (or usual abbreviations) begin with what is typed, and, for a
-// passage ("jn 3:16", "ps 23"), a button straight to it.
+function pkSyncIndex() {
+  const list = $("pk-list"), y = list.scrollTop + list.offsetTop + 8;
+  let at = 0;
+  PK_PARTS.forEach((_, k) => { const s = $("pk-part-" + k); if (s && !s.hidden && s.offsetTop <= y) at = k; });
+  [...$("pk-index").children].forEach((b, k) => b.setAttribute("aria-current", String(k === at)));
+}
+$("pk-list").addEventListener("scroll", () => requestAnimationFrame(pkSyncIndex), { passive: true });
+// The search: books whose names (or usual abbreviations) begin with what is typed; a passage
+// gets a button straight to it.
 const pkNorm = q => q.toLowerCase().replace(/\./g, "").replace(/^(first|i)\s+/, "1").replace(/^(second|ii)\s+/, "2").replace(/^(third|iii)\s+/, "3").replace(/\s+/g, "");
 function pkFilter(text) {
-  const q = pkNorm(text.replace(/\s*\d+([:. ]\s*\d*)?\s*$/, ""));
-  const ref = text.trim() ? parseRef(text) : null;
-  const hasNumber = /\d\s*$|\d[:. ]\d/.test(text.trim()) && !/^[123]\s*[a-z]*$/i.test(text.trim());
+  const t = text.trim();
+  const q = pkNorm(t.replace(/\s*\d+([:. ]\s*\d*)?\s*$/, ""));
+  const ref = t ? parseRef(t) : null;
+  const hasNumber = /\d\s*$|\d[:. ]\d/.test(t) && !/^[123]\s*[a-z]*$/i.test(t);
   const go_ = $("pk-go");
   go_.hidden = !(ref && hasNumber);
   if (!go_.hidden) {
-    const label = `${ref.b.osis === "Ps" ? "Psalm" : ref.b.n} ${ref.c}${ref.v ? ":" + ref.v : ""}`;
-    go_.replaceChildren(el("span", {}, el("small", { text: "Go to" }), el("br"), label), "→");
+    go_.replaceChildren(el("span", { text: `${ref.b.osis === "Ps" ? "Psalm" : ref.b.n} ${ref.c}${ref.v ? ":" + ref.v : ""}` }), "→");
     go_.onclick = () => { closeSheets(); go(ref.b, ref.c, ref.v); };
   }
-  $("pk-books").classList.toggle("pk-filtering", !!q);
-  let shown = 0;
-  for (const sec of $("books").children) {
-    let any = 0;
-    for (const li of sec.querySelectorAll("li")) {
-      const b = [...pkTiles].find(([, t]) => li.contains(t))[0];
-      const ok = !q || aliases.some(([al, bk]) => bk === b && al.startsWith(q)) || pkNorm(b.n).startsWith(q);
-      li.hidden = !ok; any += ok;
-    }
-    sec.hidden = !any; shown += any;
+  $("pk-list").classList.toggle("pk-filtering", !!q);
+  let shown = [];
+  for (const [b, { row }] of pkRows) {
+    const ok = !q || aliases.some(([al, bk]) => bk === b && al.startsWith(q)) || pkNorm(b.n).startsWith(q);
+    row.parentElement.hidden = !ok;
+    if (ok) shown.push(b);
   }
-  $("pk-empty").hidden = !!shown || !q;
-  return { ref, hasNumber, only: shown === 1 ? BOOKS.find(b => !pkTiles.get(b).closest("li").hidden) : null };
+  for (const sec of $("books").children) sec.hidden = ![...sec.querySelectorAll(".pk-rows > li")].some(li => !li.hidden);
+  $("pk-empty").hidden = !!shown.length || !q;
+  return { ref, hasNumber, only: q && shown.length === 1 ? shown[0] : null };
 }
 $("goto").addEventListener("input", () => {
-  if ($("picker").dataset.pane !== "books" && innerWidth < 900) setPane("books");
   const { ref, only } = pkFilter($("goto").value);
-  $("pk-books").scrollTop = 0;
-  // Side by side, the book being typed shows its chapters at once.
-  const b = only || (ref && ref.b);
-  if (innerWidth >= 900 && b && b !== pickerBook && b.s.length > 1) showChapters(b);
+  const b = only || (ref && $("goto").value.trim() ? ref.b : null);
+  if (b && b.s.length > 1 && $("goto").value.trim()) { if (pkOpen !== b) pkExpand(b, { instant: true }); }
+  else $("pk-list").scrollTop = 0;
 });
 $("goto").addEventListener("keydown", ev => {
   if (ev.key !== "Enter") return;
   const { ref, hasNumber, only } = pkFilter($("goto").value);
   if (ref && hasNumber) { closeSheets(); go(ref.b, ref.c, ref.v); }
-  else if (only || ref) { $("goto").blur(); pickBook(only || ref.b); }
+  else if (only || ref) { const b = only || ref.b; if (b.s.length === 1) { closeSheets(); go(b, 1); } else { $("goto").blur(); pkExpand(b, { instant: true }); } }
 });
-$("pk-back").onclick = () => setPane("books");
-// The testaments: jump to each, and follow the scroll.
-$("tab-ot").onclick = () => { $("pk-books").scrollTo({ top: 0, behavior: "smooth" }); };
-$("tab-nt").onclick = () => { const s = $("pk-part-4"); $("pk-books").scrollTo({ top: s.offsetTop - 52, behavior: "smooth" }); };
-function syncTestament() {
-  const nt = $("pk-part-4"), pane = $("pk-books");
-  const inNT = nt && pane.scrollTop + 60 >= nt.offsetTop;
-  $("tab-ot").setAttribute("aria-pressed", String(!inNT)); $("tab-nt").setAttribute("aria-pressed", String(!!inNT));
-}
-$("pk-books").addEventListener("scroll", syncTestament, { passive: true });
-addEventListener("resize", () => { if (!$("picker").hidden) setPane($("picker").dataset.pane); });
 
 /* ---------- Search ---------- */
 let searchData = null, searchTimer = 0, searchBook = null, bookVerses = null;
