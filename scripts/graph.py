@@ -304,3 +304,4 @@ def write(ctx, chapters, nodes, node_of, links, weight, pos, people_index, on_ma
     with open(os.path.join(ROOT, "data", "graph-briefs.json"), "w", encoding="utf-8", newline="\n") as f:
         json.dump(briefs, f, ensure_ascii=False, separators=(",", ":"))
         f.write("\n")
+

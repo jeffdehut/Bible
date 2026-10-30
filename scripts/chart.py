@@ -315,3 +315,4 @@ def write_charts(ctx, out_dir):
             f.write(render(ctx, title, s, e, ppy))
         files.append((title, name))
     return files
+

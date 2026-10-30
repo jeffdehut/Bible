@@ -313,3 +313,4 @@ def build(ctx, family_of, groups):
     return (f"Site: {len(g['n'])} people, {g['stats']['links']} parent-child links, {g['stats']['in_tree']} in the "
             f"tree of Adam's family; {pairs} people named in verses; "
             f"{len(h['items'])} world-history items in {len(h['streams'])} streams")
+

@@ -75,3 +75,4 @@ as $$
 $$;
 revoke all on function public.delete_account() from public, anon;
 grant execute on function public.delete_account() to authenticated;
+

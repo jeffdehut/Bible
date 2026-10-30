@@ -270,3 +270,4 @@ def layout(people, root, line, order_key):
     pos = {i: (d, round(y - base)) for i, (d, y) in pos.items()}
     left = [i for i in members if i not in pos]
     return pos, beside, left
+
