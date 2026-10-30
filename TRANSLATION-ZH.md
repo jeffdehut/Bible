@@ -188,6 +188,53 @@ Settled while drafting Exodus:
 | בָּמוֹת; גִּלּוּלִים; אֱלִילִים | 丘壇；可憎的偶像；虛無的偶像 | |
 | מַעֲשֵׂר | 十分之一 | |
 
+Settled while drafting Numbers:
+
+| Source | Rendering | Notes |
+|---|---|---|
+| מִשְׁפָּחָה; בֵּית אָבוֹת | 宗族；家族 | 家族 noted: 「父家」. As in Exodus 6. |
+| פָּקַד; פְּקֻדִים | 數點；被數點的 | Census totals in Chinese numerals with 人: 四萬零五百人, 六十萬零三千五百五十人. |
+| צָבָא; צִבְאוֹת | 軍隊；隊伍 | Of the Levites' work (Numbers 4, 8): 服役, noted. |
+| דֶּגֶל; מַחֲנֶה | 旗；營 | |
+| מִשְׁמֶרֶת; עֲבֹדָה; מַשָּׂא | 職守、職責；工作；抬的東西 | |
+| זָר | 外人 | Noted: here anyone not a Levite (or not a priest). |
+| אֶלֶף (a clan or unit) | 千萬人 | Noted: 「以色列的千」. |
+| נָזִיר; נֵזֶר | 拿細耳人；分別出來、歸給神的頭髮 | |
+| מֵי הַמָּרִים הַמְאָרְרִים | 帶來詛咒的苦水 | |
+| חֲנֻכָּה | 奉獻禮 | |
+| קְעָרָה; מִזְרָק; כַּף (Numbers 7) | 銀盤；銀碗；金碟 | |
+| חֲצֹצְרָה; תְּרוּעָה | 號筒；警號 | |
+| The priestly blessing (6:24–26) | 願耶和華賜福給你，保護你…… | Three plain lines, each opening 願耶和華. |
+| תּוּר; דִּבָּה | 窺探；壞消息 | Of the spies (Numbers 13–14). |
+| רוּחַ (given to Moses and the elders) | 靈 | Noted: *ruach*; the same word is 風 in 11:31. |
+| מַחְתָּה | 火鼎 | As in Exodus–Leviticus; noted: 「香爐」. |
+| מַטֶּה (Numbers 17) | 杖 | Noted: also means 支派. |
+| מֵי נִדָּה; פָרָה אֲדֻמָּה | 除污穢的水；紅色的母牛 | |
+| נֶאֱסַף אֶל־עַמָּיו | 歸到他的族人那裏 | Noted: died and joined his ancestors. |
+| בְּרִית מֶלַח | 鹽約 | Noted: a covenant that cannot be broken. |
+| נִכְרַת מֵעַמָּיו | 從族人中被剪除 | Notes refer to 9:13. |
+| הֶחֱרִים | 完全毀滅 | Noted: 永獻當滅 (21:2–3). |
+| נְחָשִׁים שְׂרָפִים; נְחַשׁ נְחֹשֶׁת | 火蛇；銅蛇 | |
+| מָשָׁל (Balaam's oracles) | 詩歌 | 「巴蘭就說出他的詩歌」; noted at 23:7. Oracles kept as poetry in one quotation, parallel lines joined by ，；. |
+| נְאֻם | 宣告 | 「比珥的兒子巴蘭的宣告」. |
+| אָרַר; קָבַב; זָעַם | 詛咒；咒詛；怒斥 | Two verbs for cursing kept apart. |
+| רְאֵם | 野牛 | Noted: traditionally 獨角獸. |
+| כּוֹכָב; שֵׁבֶט (24:17) | 星；權杖 | Noted: *shevet* is also 支派; later read of the Messiah. |
+| מַלְאַךְ יְהוָה (Numbers 22) | 耶和華的使者 | *le-satan* noted: 作敵對者. |
+| קִנְאָה (Phinehas) | 忌恨 | Noted: also 熱心. |
+| Clans in the census (Numbers 26) | 屬哈諾的，有哈諾族 | As in Numbers 3; names exactly as the Union Version, even where it spells one Hebrew name two ways (希斯倫 26:6, 希斯崙 26:21). |
+| תָּמִיד (offerings) | 經常獻的燔祭 | Noted: *tamid*. |
+| רָאשֵׁי חָדְשֵׁיכֶם | 每月的初一 | |
+| מְלֶאכֶת עֲבֹדָה | 日常的工作 | As in Leviticus 23. |
+| עֲצֶרֶת | 嚴肅的聚會 | As in Leviticus 23:36; noted. |
+| נֶדֶר; אִסָּר; הֵפֵר | 許願；約束自己的話；廢除 | Numbers 30; *issar* noted. A vow 有效／無效 (קוּם). |
+| מֶכֶס | 稅 | Noted. Spoil totals in Chinese numerals: 羊六十七萬五千隻. |
+| מַסָּע; חָנָה (Numbers 33) | 他們從……起行，在……安營 | Kept as one repeated line; camp names exactly as the Union Version (伊坦 33:8 beside 以倘 33:6). |
+| עִיר מִקְלָט | 逃城 | |
+| רֹצֵחַ | 殺人的 (by accident)；殺人犯 (35:16–21, 30–31) | One Hebrew word, noted at 35:6. |
+| גֹּאֵל הַדָּם | 報血仇的 | *go'el* noted (35:12). |
+| מִגְרָשׁ | 草場 | Noted: open land around a town. |
+
 ## Style
 
 **Characters and words.** Plain words over the Union Version's literary ones (吊下去, not 縋下來). Hong Kong standard forms: 裏 (not 裡), 着 for the particle (看着、
