@@ -235,6 +235,25 @@ Settled while drafting Numbers:
 | גֹּאֵל הַדָּם | 報血仇的 | *go'el* noted (35:12). |
 | מִגְרָשׁ | 草場 | Noted: open land around a town. |
 
+Settled while drafting Deuteronomy:
+
+| Source | Rendering | Notes |
+|---|---|---|
+| Moses' speeches | In quotation marks, as in English | 「 reopened at each chapter and new paragraph; the first speech 1:6–4:40, the second from 5:1 (noted). The LORD's words inside them 『』, a third level 「」. Asides in （）(2:10–12, 20–23; 3:9, 11, 13–14). |
+| עֵבֶר הַיַּרְדֵּן | 約旦河東 | Noted: 「在約旦河那邊」. West of the river (3:20, 25): 約旦河那邊. |
+| יָרַשׁ; הוֹרִישׁ | 佔領 (land)；趕走 (nations) | |
+| שֹׁטְרִים | 官員 | As Numbers 11:16; noted. |
+| הָעֲרָבָה; הַשְּׁפֵלָה; הַמִּישֹׁר | 亞拉巴；低地；高原 | Each noted. |
+| עֵדֹת | 法度 | Noted. With 律例 (חֻקִּים) and 典章 (מִשְׁפָּטִים). |
+| הַמִּצְוָה (singular) | 誡命 | Noted where it means the whole law. |
+| The Ten Commandments (Deuteronomy 5) | Exodus 20's wording wherever the Hebrew is the same | 5:12 要謹守 (*shamor*, Exodus 要記念); 5:21 貪圖 (*chamad*) and 貪戀 (*hit'avvah*). Differences noted. |
+| The Shema (6:4–5) | 以色列啊，你要聽：耶和華我們的神，耶和華是獨一的。你要全心、全人、全力愛耶和華你的神。 | Other readings of 6:4 noted: 耶和華我們的神是獨一的耶和華；耶和華是我們的神，唯獨耶和華. |
+| טֹטָפֹת; מְזוּזֹת | 頭帶；門框 | *tefillin* and *mezuzah* noted. |
+| קְשֵׁה־עֹרֶף | 頑梗的百姓 | As Exodus 32:9; noted: 「硬着頸項」. |
+| אִמֵּץ לֵב | 使……心固執 | Kept apart from 剛硬, 頑梗 (2:30). |
+| דָּגָן, תִּירוֹשׁ, יִצְהָר | 五穀、新酒和新油 | |
+| צִרְעָה | 黃蜂 | Noted: uncertain. |
+
 ## Style
 
 **Characters and words.** Plain words over the Union Version's literary ones (吊下去, not 縋下來). Hong Kong standard forms: 裏 (not 裡), 着 for the particle (看着、

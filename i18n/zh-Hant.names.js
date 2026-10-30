@@ -2,6 +2,9 @@
 // (public domain) spells them. Written by scripts/names_zh.py: don't edit by hand;
 // corrections go in OVERRIDES there.
 I18N.add({
+"Zamzummim":"散送冥",
+"Emim":"以米",
+"Sion":"西雲",
 "Parnach":"帕納",
 "Hahiroth":"哈希錄",
 "Shepher":"沙斐",
@@ -1039,7 +1042,7 @@ I18N.add({
 "Demetrius":"底米丟",
 "Derbe":"特庇",
 "Deuel":"丟珥",
-"Di-zahab":"陀弗",
+"Di-zahab":"底撒哈",
 "Diana":"亞底米",
 "Dibon":"底本",
 "Dibon (Nehemiah 11.25)":"底本（尼希米記 11.25）",
@@ -3936,7 +3939,7 @@ I18N.add({
 "Tola (Genesis 46.13)":"陀拉（創世記 46.13）",
 "Tola (Judges 10.1)":"陀拉（士師記 10.1）",
 "Tolad":"陀臘",
-"Tophel":"亞拉巴",
+"Tophel":"陀弗",
 "Topheth":"陀斐特",
 "Tower of Hananel":"哈楠業樓",
 "Tower of the Hundred":"哈米亞樓",
