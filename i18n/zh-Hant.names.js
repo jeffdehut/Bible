@@ -3006,7 +3006,7 @@ I18N.add({
 "Neariah (1 Chronicles 3.22)":"尼利雅（歷代志上 3.22）",
 "Neariah (1 Chronicles 4.42)":"尼利雅（歷代志上 4.42）",
 "Nebai":"尼拜",
-"Nebaioth":"押德別",
+"Nebaioth":"尼拜約",
 "Nebajoth":"尼拜約",
 "Neballat":"尼八拉",
 "Nebat":"尼八",

@@ -117,6 +117,11 @@ Settled while drafting Genesis:
 | שִׁפְחָה | 使女 | |
 | הַנֶּגֶב; יָם הַמֶּלַח | 南地；鹽海 | The Dead Sea, noted. |
 | Name changes and meanings | 亞伯蘭→亞伯拉罕, 撒萊→撒拉 | The meaning in a note. |
+| עֹלָה | 燔祭 | Noted: an offering burned whole. |
+| פִּילֶגֶשׁ; אָמָה | 妾；女奴 or 婢女 | A wife's maid (Genesis 29–30): 婢女. |
+| שֶׁקֶל | 舍客勒 | About 11.5 g, noted. |
+| בְּכֹרָה; מַצֵּבָה | 長子的名分；石柱 | |
+| יְהוָה יִרְאֶה; אֵל עוֹלָם | 耶和華以勒；永生神 | |
 
 ## Style
 

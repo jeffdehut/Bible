@@ -46,7 +46,7 @@ CODES = ["GEN", "EXO", "LEV", "NUM", "DEU", "JOS", "JDG", "RUT", "1SA", "2SA", "
 # Hand corrections: English name -> Chinese, or None to leave a name out.
 OVERRIDES = {
     "God": None, "LORD": None, "Lord": None,
-    "Jesus": "耶穌", "Christ": "基督", "Pharaoh": "法老",
+    "Jesus": "耶穌", "Christ": "基督", "Pharaoh": "法老", "Nebaioth": "尼拜約",
     # Found with others in every verse, so the verses can't tell them apart:
     "Simon": "西門", "Philip": "腓力", "Pilate": "彼拉多", "Galilee": "加利利", "Jordan": "約旦河",
     "Sinai": "西奈", "Huldah": "戶勒大", "Darda": "達大", "Telah": "他拉", "Heldai": "黑玳",
