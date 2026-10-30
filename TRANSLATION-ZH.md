@@ -213,6 +213,19 @@ Settled while drafting Numbers:
 | נֶאֱסַף אֶל־עַמָּיו | 歸到他的族人那裏 | Noted: died and joined his ancestors. |
 | בְּרִית מֶלַח | 鹽約 | Noted: a covenant that cannot be broken. |
 | נִכְרַת מֵעַמָּיו | 從族人中被剪除 | Notes refer to 9:13. |
+| הֶחֱרִים | 完全毀滅 | Noted: 永獻當滅 (21:2–3). |
+| נְחָשִׁים שְׂרָפִים; נְחַשׁ נְחֹשֶׁת | 火蛇；銅蛇 | |
+| מָשָׁל (Balaam's oracles) | 詩歌 | 「巴蘭就說出他的詩歌」; noted at 23:7. Oracles kept as poetry in one quotation, parallel lines joined by ，；. |
+| נְאֻם | 宣告 | 「比珥的兒子巴蘭的宣告」. |
+| אָרַר; קָבַב; זָעַם | 詛咒；咒詛；怒斥 | Two verbs for cursing kept apart. |
+| רְאֵם | 野牛 | Noted: traditionally 獨角獸. |
+| כּוֹכָב; שֵׁבֶט (24:17) | 星；權杖 | Noted: *shevet* is also 支派; later read of the Messiah. |
+| מַלְאַךְ יְהוָה (Numbers 22) | 耶和華的使者 | *le-satan* noted: 作敵對者. |
+| קִנְאָה (Phinehas) | 忌恨 | Noted: also 熱心. |
+| Clans in the census (Numbers 26) | 屬哈諾的，有哈諾族 | As in Numbers 3; names exactly as the Union Version, even where it spells one Hebrew name two ways (希斯倫 26:6, 希斯崙 26:21). |
+| תָּמִיד (offerings) | 經常獻的燔祭 | Noted: *tamid*. |
+| רָאשֵׁי חָדְשֵׁיכֶם | 每月的初一 | |
+| מְלֶאכֶת עֲבֹדָה | 日常的工作 | As in Leviticus 23. |
 
 ## Style
 

@@ -2,6 +2,17 @@
 // (public domain) spells them. Written by scripts/names_zh.py: don't edit by hand;
 // corrections go in OVERRIDES there.
 I18N.add({
+"Bamoth-baal":"巴末‧巴力",
+"Zophim":"瑣腓",
+"Suphah":"蘇法",
+"Waheb":"哇哈伯",
+"Shuham":"書含",
+"Hupham":"戶反",
+"Shephupham":"書反",
+"Hoglah":"曷拉",
+"Iezer":"伊以謝",
+"Puvah":"普瓦",
+"Zephon":"洗分",
 "Nazirite":"拿細耳人",
 "Zuriel":"蘇列",
 "Pagiel":"帕結",
@@ -425,7 +436,7 @@ I18N.add({
 "Armoni":"亞摩尼",
 "Arnan":"亞珥難",
 "Arnon":"亞嫩河",
-"Arod":"亞列利",
+"Arod":"亞律",
 "Aroer":"亞羅珥",
 "Aroer (1 Samuel 30.28)":"亞羅珥（撒母耳記上 30.28）",
 "Aroer (Deuteronomy 2.36)":"亞羅珥（申命記 2.36）",
