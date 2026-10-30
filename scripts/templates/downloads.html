@@ -1,0 +1,48 @@
+<title>Open Data · Plain English Bible</title>
+<meta name="claude:viewport-fit-sides" content="cover">
+<meta name="description" content="Download the Open Plain English Translation and the open data behind this site: the text, the word-by-word data, lexicons, cross-references, people and places, the web of Scripture, the timeline and the maps.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Frank+Ruhl+Libre:wght@300..700&family=Libre+Franklin:wght@400;500;600;700&display=swap">
+<style>
+/* A list of what can be downloaded, each with its size, format and license. */
+:root {
+  --bg: #fbfaf7; --surface: #ffffff; --ink: #161b26; --muted: #5b6475; --line: #e4e2db;
+  --lapis: #2646a1; --lapis-soft: #e7ecf8; --gold: #8a640b; --gold-soft: #f6eedb;
+  --read: "Frank Ruhl Libre", "Noto Serif", Georgia, serif;
+  --sans: "Libre Franklin", system-ui, -apple-system, "Segoe UI", sans-serif;
+}
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) { --bg: #0d111b; --surface: #131a28; --ink: #e9ecf3; --muted: #a3acbd; --line: #263047; --lapis: #9db3ff; --lapis-soft: #1c2650; --gold: #e2bd5c; --gold-soft: #2a2414; color-scheme: dark; }
+}
+:root[data-theme="dark"] { --bg: #0d111b; --surface: #131a28; --ink: #e9ecf3; --muted: #a3acbd; --line: #263047; --lapis: #9db3ff; --lapis-soft: #1c2650; --gold: #e2bd5c; --gold-soft: #2a2414; color-scheme: dark; }
+* { box-sizing: border-box; }
+html { -webkit-text-size-adjust: 100%; }
+body { margin: 0; background: var(--bg); color: var(--ink); font: 400 16px/1.55 var(--sans);
+  padding-left: max(16px, env(safe-area-inset-left, 0px)); padding-right: max(16px, env(safe-area-inset-right, 0px)); }
+a { color: var(--lapis); }
+main { max-width: 860px; margin-inline: auto; padding-block: clamp(24px, 5vw, 48px) 64px; }
+h1 { margin: 0 0 6px; font: 300 clamp(36px, 7vw, 56px)/1.02 var(--read); letter-spacing: -0.02em; }
+.lede { margin: 0 0 18px; max-width: 64ch; color: var(--muted); }
+h2 { margin: 28px 0 8px; font: 500 22px/1.2 var(--read); }
+.items { list-style: none; margin: 0; padding: 0; display: grid; gap: 8px; }
+.items li { display: grid; grid-template-columns: minmax(0, 1fr) auto; gap: 4px 14px; align-items: center; padding: 12px 14px; border: 1px solid var(--line); border-radius: 12px; background: var(--surface); }
+.items b { font-weight: 600; }
+.items p { grid-column: 1; margin: 0; font-size: 14px; color: var(--muted); }
+.items .meta { grid-column: 1; display: flex; flex-wrap: wrap; gap: 6px; font: 600 11.5px/1.2 var(--sans); }
+.items .meta span { padding: 3px 8px; border-radius: 99px; background: var(--lapis-soft); color: var(--lapis); }
+.items .meta span.lic { background: var(--gold-soft); color: var(--gold); }
+.items a.dl { grid-column: 2; grid-row: 1 / span 3; display: inline-flex; align-items: center; gap: 6px; min-height: 38px; padding: 6px 14px; border-radius: 10px; background: var(--lapis); color: var(--surface); font: 600 14px/1.2 var(--sans); text-decoration: none; white-space: nowrap; }
+@media (max-width: 560px) { .items li { grid-template-columns: 1fr; } .items a.dl { grid-column: 1; grid-row: auto; justify-self: start; } }
+.note { margin: 28px 0 0; font-size: 14px; color: var(--muted); }
+code { font-size: 0.92em; }
+</style>
+
+<!-- APPBAR -->
+
+<main>
+  <h1>Open Data</h1>
+  <p class="lede">Everything this site is built from is open: download the translation and the data, use it in your own study or software, and share it, with credit as each license asks. The complete source, with the scripts that build every file, is on <a href="https://github.com/jeffdehut/Bible">GitHub</a>.</p>
+{{SECTIONS}}
+  <p class="note">Built {{DATE}}. The translation is a draft under review; files change as it is checked. For attribution of the translation: “The Open Plain English Translation (draft), CC BY 4.0, bibledata.org.” The other sources are credited in each file’s description and in the repository’s README.</p>
+</main>

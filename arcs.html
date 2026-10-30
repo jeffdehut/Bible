@@ -1,0 +1,232 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<link rel="icon" href="icons/icon.svg" type="image/svg+xml">
+<link rel="apple-touch-icon" href="icons/icon-192.png">
+<meta name="theme-color" content="#fbfaf7" media="(prefers-color-scheme: light)">
+<meta name="theme-color" content="#0d111b" media="(prefers-color-scheme: dark)">
+<script>try { const t = (JSON.parse(localStorage.getItem("pe.settings")) || {}).theme; if (t === "light" || t === "dark") document.documentElement.setAttribute("data-theme", t); } catch (e) { /* storage unavailable */ }</script>
+</head>
+<body>
+<title>Cross-References · Plain English Bible</title>
+<meta name="claude:viewport-fit-sides" content="cover">
+<meta name="description" content="Every chapter of the Bible in a line, and an arc for each chapter that cross-references another: thousands of threads tying the Bible together. Choose a book to see its threads.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Frank+Ruhl+Libre:wght@300..700&family=Libre+Franklin:wght@400;500;600;700&display=swap">
+<style>
+/* The Bible's chapters along a line, and an arc over it for each pair of chapters that
+   cross-reference each other. A book chosen lights its own arcs. */
+:root {
+  --bg: #fbfaf7; --surface: #ffffff; --ink: #161b26; --muted: #5b6475; --faint: #8d95a4; --line: #e4e2db;
+  --lapis: #2646a1; --lapis-soft: #e7ecf8;
+  --shadow: 0 1px 2px rgb(22 27 38 / 6%), 0 10px 30px rgb(22 27 38 / 10%);
+  --read: "Frank Ruhl Libre", "Noto Serif", Georgia, serif;
+  --sans: "Libre Franklin", system-ui, -apple-system, "Segoe UI", sans-serif;
+}
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) { --bg: #0d111b; --surface: #131a28; --ink: #e9ecf3; --muted: #a3acbd; --faint: #6f7a90; --line: #263047; --lapis: #9db3ff; --lapis-soft: #1c2650; color-scheme: dark; }
+}
+:root[data-theme="dark"] { --bg: #0d111b; --surface: #131a28; --ink: #e9ecf3; --muted: #a3acbd; --faint: #6f7a90; --line: #263047; --lapis: #9db3ff; --lapis-soft: #1c2650; color-scheme: dark; }
+* { box-sizing: border-box; }
+html { -webkit-text-size-adjust: 100%; }
+body { margin: 0; background: var(--bg); color: var(--ink); font: 400 16px/1.5 var(--sans);
+  padding-left: max(12px, env(safe-area-inset-left, 0px)); padding-right: max(12px, env(safe-area-inset-right, 0px)); }
+a { color: var(--lapis); }
+main { max-width: 1200px; margin-inline: auto; padding-block: clamp(22px, 5vw, 44px) 60px; }
+h1 { margin: 0 0 6px; font: 300 clamp(36px, 7vw, 56px)/1.02 var(--read); letter-spacing: -0.02em; }
+.lede { margin: 0 0 14px; max-width: 66ch; color: var(--muted); }
+.stage { position: relative; }
+canvas { display: block; width: 100%; touch-action: pan-y; cursor: crosshair; }
+.tip { position: absolute; transform: translate(-50%, -130%); padding: 4px 9px; border-radius: 7px; background: var(--ink); color: var(--bg); font: 600 12px/1.3 var(--sans); white-space: nowrap; pointer-events: none; }
+.books { display: flex; flex-wrap: wrap; gap: 5px; margin: 14px 0 0; }
+.books button { display: inline-flex; align-items: center; gap: 6px; min-height: 30px; padding: 3px 10px; border-radius: 99px; border: 1px solid var(--line); background: var(--surface); color: var(--ink); font: 500 13px/1.2 var(--sans); cursor: pointer; }
+.books button i { width: 8px; height: 8px; border-radius: 50%; background: var(--c); }
+.books button[aria-pressed="true"] { background: var(--ink); color: var(--bg); border-color: var(--ink); }
+.panel { margin: 16px 0 0; padding: 14px 16px; border: 1px solid var(--line); border-radius: 14px; background: var(--surface); box-shadow: var(--shadow); }
+.panel[hidden] { display: none; }
+.panel h2 { margin: 0 0 4px; font: 400 26px/1.15 var(--read); }
+.panel p { margin: 0 0 8px; color: var(--muted); font-size: 14px; }
+.panel ol { margin: 0; padding: 0; list-style: none; display: grid; gap: 4px; grid-template-columns: repeat(auto-fill, minmax(220px, 1fr)); }
+.panel li { display: flex; align-items: center; gap: 8px; font-size: 14px; }
+.panel li i { width: 10px; height: 10px; border-radius: 50%; background: var(--c); flex: none; }
+.panel li .bar { flex: 1; height: 6px; border-radius: 3px; background: var(--line); overflow: hidden; }
+.panel li .bar b { display: block; height: 100%; background: var(--c); }
+.panel li small { color: var(--muted); min-width: 2.5em; text-align: right; }
+.panel .acts { margin-top: 10px; display: flex; flex-wrap: wrap; gap: 8px; }
+.panel .acts a { display: inline-flex; min-height: 34px; align-items: center; padding: 5px 12px; border-radius: 10px; background: var(--lapis-soft); color: var(--lapis); font: 600 14px/1.2 var(--sans); text-decoration: none; }
+.note { margin: 22px 0 0; font-size: 14px; color: var(--muted); max-width: 72ch; }
+.loading { color: var(--muted); }
+</style>
+
+<style>
+:root { --bar: 56px; }
+body::before { content: ""; position: fixed; inset: 0 0 auto; height: env(safe-area-inset-top, 0px); z-index: 11; background: var(--bg); }
+.appbar {
+  position: sticky; top: env(safe-area-inset-top, 0px); z-index: 10; height: var(--bar);
+  margin-inline: calc(-1 * max(16px, env(safe-area-inset-left, 0px))) calc(-1 * max(16px, env(safe-area-inset-right, 0px)));
+  padding-inline: max(8px, env(safe-area-inset-left, 0px)) max(8px, env(safe-area-inset-right, 0px));
+  display: flex; align-items: center; gap: 4px; background: color-mix(in srgb, var(--bg) 92%, transparent);
+  backdrop-filter: blur(10px); -webkit-backdrop-filter: blur(10px); border-bottom: 1px solid var(--line);
+}
+.appbar .brand {
+  display: inline-flex; align-items: center; gap: 10px; min-height: 40px; padding: 0 8px; border-radius: 10px;
+  color: var(--ink); text-decoration: none; white-space: nowrap; font: 500 17px/1 "Frank Ruhl Libre", "Noto Serif", Georgia, serif; letter-spacing: 0.01em;
+}
+.appbar .brand img { width: 26px; height: 26px; border-radius: 7px; flex: none; }
+.appnav { margin-inline-start: auto; display: flex; gap: 2px; }
+.appnav a {
+  display: inline-flex; align-items: center; min-height: 40px; padding: 0 12px; border-radius: 10px; white-space: nowrap;
+  font: 600 14px/1 "Libre Franklin", system-ui, -apple-system, "Segoe UI", sans-serif; color: var(--muted); text-decoration: none;
+}
+.appnav a:hover { background: var(--lapis-soft); color: var(--ink); }
+.appnav a[aria-current="page"] { background: var(--lapis-soft); color: var(--lapis); }
+.appbar a:focus-visible { outline: 2px solid var(--lapis); outline-offset: 0; }
+@media (max-width: 640px) { .appbar .brand span { display: none; } .appnav a { padding: 0 9px; } }
+/* On a phone the five parts take the whole bar, and scroll sideways if they still don't fit. */
+@media (max-width: 480px) {
+  .appbar .brand { display: none; }
+  .appnav { margin-inline: 0; flex: 1; justify-content: space-between; overflow-x: auto; scrollbar-width: none; }
+  .appnav::-webkit-scrollbar { display: none; }
+  .appnav a { padding: 0 7px; font-size: 13.5px; flex: none; }
+}
+@media print { .appbar { display: none; } }
+</style>
+<header class="appbar">
+  <a class="brand" href="index.html"><img src="icons/icon.svg" alt="Plain English Bible"><span aria-hidden="true">Plain English Bible</span></a>
+  <nav class="appnav" aria-label="Plain English Bible"><a href="index.html">Read</a><a href="maps/index.html">Maps</a><a href="genealogy.html">Genealogy</a><a href="history.html">Timeline</a><a href="graph.html">Connections</a></nav>
+</header>
+<script>document.querySelector(".appnav [aria-current]")?.scrollIntoView({ inline: "nearest", block: "nearest" });</script>
+
+<main>
+  <h1>Threads of Cross-References</h1>
+  <p class="lede">Every chapter of the Bible in a line, from Genesis to Revelation, and an arc between each pair of chapters that refer to one another: the further apart, the higher the arc. Choose a book, or point at the line, to see its own threads.</p>
+  <div class="stage" id="stage"><canvas id="arcs" aria-label="Arcs joining chapters that cross-reference each other"></canvas><div class="tip" id="tip" hidden></div></div>
+  <p class="loading" id="loading">Loading the cross-references…</p>
+  <div class="books" id="books" role="group" aria-label="Choose a book"></div>
+  <section class="panel" id="panel" hidden aria-live="polite"></section>
+  <p class="note">Cross-references from OpenBible.info (CC BY), counted between chapters, with their strength as readers voted it; the same data as <a href="graph.html">the web of Scripture</a>.</p>
+</main>
+
+<script>
+(() => {
+  const $ = id => document.getElementById(id);
+  const SECTIONS = [["Torah", "#f2c45a", "#a8790a"], ["History", "#f59a62", "#bf5a1f"], ["Wisdom", "#8fdc8a", "#2f8a3c"], ["Prophets", "#ff7272", "#c43434"],
+    ["Gospels", "#6fb0ff", "#2459c4"], ["Acts", "#4fd6cb", "#0f8c83"], ["Letters", "#b996ff", "#6d43c9"], ["Letters", "#b996ff", "#6d43c9"], ["Revelation", "#ff86c0", "#c23a7c"]];
+  const dark = () => { const t = document.documentElement.getAttribute("data-theme"); return t ? t === "dark" : matchMedia("(prefers-color-scheme: dark)").matches; };
+  const col = sec => SECTIONS[sec][dark() ? 1 : 2];
+  let D, NC, bookOf, chapterOf, A = [], B = [], Wt = [], chosen = -1, hoverBook = -1;
+  const el = (tag, attrs = {}, ...kids) => { const e = document.createElement(tag); for (const k in attrs) { if (k === "text") e.textContent = attrs[k]; else if (k.startsWith("on")) e.addEventListener(k.slice(2), attrs[k]); else e.setAttribute(k, attrs[k]); } for (const c of kids) if (c != null) e.append(c); return e; };
+  const bookName = b => (D.books[b][0] === "Psalms" ? "Psalms" : D.books[b][0]);
+  const slug = b => D.books[b][0].toLowerCase().replace(/ /g, "-");
+
+  fetch("data/graph.json").then(r => r.json()).then(data => {
+    D = data; NC = D.kinds[0];
+    bookOf = new Uint8Array(NC); chapterOf = new Uint16Array(NC);
+    let k = 0;
+    D.books.forEach(([, , , n], b) => { for (let c = 1; c <= n; c++, k++) { bookOf[k] = b; chapterOf[k] = c; } });
+    // The cross-references between chapters (see graph.html, unpack).
+    const flat = D.links.xref || [];
+    let a = 0, b = 0, wi = 0;
+    for (let j = 0; j < flat.length; j += 2) {
+      if (j && flat[j] === 0) b += flat[j + 1]; else { a += flat[j]; b = a + flat[j + 1]; }
+      const w = D.w[wi++];
+      if (a < NC && b < NC && a !== b) { A.push(Math.min(a, b)); B.push(Math.max(a, b)); Wt.push(w || 1); }
+    }
+    $("loading").hidden = true;
+    const bar = $("books");
+    D.books.forEach((bk, i) => bar.append(el("button", { type: "button", style: `--c:${col(bk[2])}`, "aria-pressed": "false", onclick: () => choose(chosen === i ? -1 : i) }, el("i"), bookName(i))));
+    resize();
+    const h = decodeURIComponent(location.hash.slice(1));
+    const at = D.books.findIndex((_, i) => slug(i) === h);
+    if (at >= 0) choose(at);
+  }).catch(() => { $("loading").textContent = "The cross-references couldn't be loaded. Check your connection and reload the page."; });
+
+  const cv = $("arcs"), ctx = cv.getContext("2d");
+  let W = 0, H = 0, base = 0, dpr = 1;
+  const xOf = i => 6 + (W - 12) * (i + 0.5) / NC;
+  function resize() {
+    W = cv.clientWidth; H = Math.round(Math.min(560, Math.max(260, W * 0.5))); base = H - 26; dpr = Math.min(2, devicePixelRatio || 1);
+    cv.width = W * dpr; cv.height = H * dpr; cv.style.height = H + "px";
+    draw();
+  }
+  function draw() {
+    if (!D) return;
+    ctx.setTransform(dpr, 0, 0, dpr, 0, 0);
+    ctx.clearRect(0, 0, W, H);
+    const focus = chosen >= 0 ? chosen : hoverBook;
+    const maxR = base - 8, span = W - 12;
+    const arc = (e, alpha, width) => {
+      const xa = xOf(A[e]), xb = xOf(B[e]), r = (xb - xa) / 2;
+      const ry = Math.min(maxR, r * (maxR / (span / 2)) * 1.0 + 0.5);
+      ctx.globalAlpha = alpha; ctx.lineWidth = width;
+      ctx.strokeStyle = col(D.books[bookOf[A[e]]][2]);
+      ctx.beginPath(); ctx.ellipse((xa + xb) / 2, base, r, ry, 0, Math.PI, 2 * Math.PI); ctx.stroke();
+    };
+    // All the threads, faint; then the chosen book's, bright, over them.
+    for (let e = 0; e < A.length; e++) {
+      const mine = focus >= 0 && (bookOf[A[e]] === focus || bookOf[B[e]] === focus);
+      if (!mine) arc(e, focus >= 0 ? 0.03 : Math.min(0.5, 0.06 + Wt[e] * 0.02), 0.8);
+    }
+    if (focus >= 0) for (let e = 0; e < A.length; e++) if (bookOf[A[e]] === focus || bookOf[B[e]] === focus) arc(e, Math.min(0.9, 0.25 + Wt[e] * 0.05), 1.3);
+    ctx.globalAlpha = 1;
+    // The line of chapters, colored by part of the Bible, with the books marked.
+    for (let i = 0; i < NC; i++) {
+      ctx.fillStyle = col(D.books[bookOf[i]][2]);
+      ctx.globalAlpha = focus < 0 || bookOf[i] === focus ? 1 : 0.35;
+      ctx.fillRect(xOf(i) - (W - 12) / NC / 2, base + 2, Math.max(1, (W - 12) / NC), 8);
+    }
+    ctx.globalAlpha = 1;
+    ctx.font = '600 11px "Libre Franklin", system-ui, sans-serif'; ctx.textBaseline = "top"; ctx.fillStyle = getComputedStyle(document.documentElement).getPropertyValue("--muted");
+    const marks = [[0, "Genesis"], [D.books.findIndex(b => b[1] === "Ps"), "Psalms"], [D.books.findIndex(b => b[1] === "Isa"), "Isaiah"], [D.books.findIndex(b => b[1] === "Matt"), "Matthew"], [65, "Rev."]];
+    let first = 0;
+    for (const [b, t] of marks) {
+      let s = 0; for (let i = 0; i < b; i++) s += D.books[i][3];
+      const x = Math.max(0, Math.min(W - ctx.measureText(t).width, xOf(s)));
+      if (x >= first) { ctx.fillText(t, x, base + 13); first = x + ctx.measureText(t).width + 8; }
+    }
+  }
+  function choose(b) {
+    chosen = b;
+    document.querySelectorAll("#books button").forEach((x, i) => x.setAttribute("aria-pressed", String(i === b)));
+    draw();
+    const panel = $("panel");
+    if (b < 0) { panel.hidden = true; try { history.replaceState(null, "", location.pathname); } catch (e) {} return; }
+    // The books it is most bound to, by the strength of their cross-references.
+    const by = new Map();
+    let n = 0;
+    for (let e = 0; e < A.length; e++) {
+      const x = bookOf[A[e]], y = bookOf[B[e]];
+      if (x !== b && y !== b) continue;
+      n++;
+      const o = x === b ? y : x;
+      if (o !== b) by.set(o, (by.get(o) || 0) + Wt[e]);
+    }
+    const top = [...by].sort((p, q) => q[1] - p[1]).slice(0, 12), max = top.length ? top[0][1] : 1;
+    panel.replaceChildren(el("h2", { text: bookName(b) }),
+      el("p", { text: `${n.toLocaleString()} threads to chapters elsewhere. Most bound to:` }),
+      el("ol", {}, ...top.map(([o, w]) => el("li", { style: `--c:${col(D.books[o][2])}` }, el("i"), el("span", { text: bookName(o) }), el("span", { class: "bar" }, el("b", { style: `width:${(100 * w / max).toFixed(0)}%` })), el("small", { text: String(w) })))),
+      el("div", { class: "acts" }, el("a", { href: `index.html#${slug(b)}-1`, text: `Read ${bookName(b)}` }), el("a", { href: `graph.html#${slug(b)}-1`, text: "In the web of Scripture" })));
+    panel.hidden = false;
+    try { history.replaceState(null, "", "#" + slug(b)); } catch (e) {}
+  }
+  // Pointing at the line shows a book; a tap chooses it.
+  const pick = ev => { const r = cv.getBoundingClientRect(), x = ev.clientX - r.left; const i = Math.max(0, Math.min(NC - 1, Math.round(((x - 6) / (W - 12)) * NC - 0.5))); return [i, x, ev.clientY - r.top]; };
+  cv.addEventListener("pointermove", ev => {
+    if (!D || ev.pointerType !== "mouse") return;
+    const [i, x] = pick(ev), b = bookOf[i];
+    $("tip").hidden = false; $("tip").textContent = `${bookName(b)} ${chapterOf[i]}`; $("tip").style.left = x + "px"; $("tip").style.top = base + "px";
+    if (b !== hoverBook) { hoverBook = b; if (chosen < 0) draw(); }
+  });
+  cv.addEventListener("pointerleave", () => { $("tip").hidden = true; hoverBook = -1; if (chosen < 0) draw(); });
+  cv.addEventListener("click", ev => { if (!D) return; const [i] = pick(ev); choose(bookOf[i] === chosen ? -1 : bookOf[i]); });
+  let t = 0;
+  addEventListener("resize", () => { clearTimeout(t); t = setTimeout(resize, 120); });
+  matchMedia("(prefers-color-scheme: dark)").addEventListener?.("change", draw);
+})();
+</script>
+
+</body>
+</html>

@@ -1,0 +1,284 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<link rel="icon" href="icons/icon.svg" type="image/svg+xml">
+<link rel="apple-touch-icon" href="icons/icon-192.png">
+<meta name="theme-color" content="#fbfaf7" media="(prefers-color-scheme: light)">
+<meta name="theme-color" content="#0d111b" media="(prefers-color-scheme: dark)">
+<script>try { const t = (JSON.parse(localStorage.getItem("pe.settings")) || {}).theme; if (t === "light" || t === "dark") document.documentElement.setAttribute("data-theme", t); } catch (e) { /* storage unavailable */ }</script>
+</head>
+<body>
+<title>The Kings of Israel and Judah · Plain English Bible</title>
+<meta name="claude:viewport-fit-sides" content="cover">
+<meta name="description" content="Every king of Israel and Judah, side by side through time, with the prophets of their days, each reign's length and verdict as the Bible gives them, and the chapters that tell it.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Frank+Ruhl+Libre:wght@300..700&family=Libre+Franklin:wght@400;500;600;700&display=swap">
+<style>
+/* Two kingdoms side by side down the years: Israel on the left, Judah on the right, their
+   prophets between; a reign's color is the Bible's verdict on it. A card gives the details. */
+:root {
+  --bg: #fbfaf7; --surface: #ffffff; --ink: #161b26; --muted: #5b6475; --faint: #8d95a4; --line: #e4e2db;
+  --lapis: #2646a1; --lapis-soft: #e7ecf8; --gold: #8a640b;
+  --good: #2f8a3c; --evil: #b5452f; --mixed: #c08a14; --none: #8d95a4; --prophet: #6d43c9;
+  --shadow: 0 1px 2px rgb(22 27 38 / 6%), 0 10px 30px rgb(22 27 38 / 10%);
+  --read: "Frank Ruhl Libre", "Noto Serif", Georgia, serif;
+  --sans: "Libre Franklin", system-ui, -apple-system, "Segoe UI", sans-serif;
+}
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    --bg: #0d111b; --surface: #131a28; --ink: #e9ecf3; --muted: #a3acbd; --faint: #6f7a90; --line: #263047;
+    --lapis: #9db3ff; --lapis-soft: #1c2650; --gold: #e2bd5c;
+    --good: #6fd27c; --evil: #ff8a73; --mixed: #f2c45a; --none: #8d95a4; --prophet: #c4a6ff;
+    --shadow: 0 1px 2px rgb(0 0 0 / 35%), 0 12px 32px rgb(0 0 0 / 40%); color-scheme: dark;
+  }
+}
+:root[data-theme="dark"] {
+  --bg: #0d111b; --surface: #131a28; --ink: #e9ecf3; --muted: #a3acbd; --faint: #6f7a90; --line: #263047;
+  --lapis: #9db3ff; --lapis-soft: #1c2650; --gold: #e2bd5c;
+  --good: #6fd27c; --evil: #ff8a73; --mixed: #f2c45a; --none: #8d95a4; --prophet: #c4a6ff;
+  --shadow: 0 1px 2px rgb(0 0 0 / 35%), 0 12px 32px rgb(0 0 0 / 40%); color-scheme: dark;
+}
+* { box-sizing: border-box; }
+html { -webkit-text-size-adjust: 100%; }
+body {
+  margin: 0; background: var(--bg); color: var(--ink); font: 400 16px/1.5 var(--sans);
+  padding-left: max(12px, env(safe-area-inset-left, 0px)); padding-right: max(12px, env(safe-area-inset-right, 0px));
+}
+a { color: var(--lapis); }
+:focus-visible { outline: 2px solid var(--lapis); outline-offset: 2px; border-radius: 4px; }
+main { max-width: 980px; margin-inline: auto; padding-block: clamp(22px, 5vw, 44px) 60px; }
+h1 { margin: 0 0 6px; font: 300 clamp(36px, 7vw, 56px)/1.02 var(--read); letter-spacing: -0.02em; }
+.lede { margin: 0 0 14px; max-width: 64ch; color: var(--muted); }
+.legend { display: flex; flex-wrap: wrap; gap: 6px 14px; margin: 0 0 14px; font: 500 13px/1.3 var(--sans); color: var(--muted); }
+.legend span { display: inline-flex; align-items: center; gap: 6px; }
+.legend i { width: 14px; height: 10px; border-radius: 3px; background: var(--c); }
+.legend i.co { background: repeating-linear-gradient(135deg, var(--c) 0 2px, transparent 2px 4px); border: 1px solid var(--c); }
+.heads { position: sticky; top: calc(var(--bar, 56px) + env(safe-area-inset-top, 0px)); z-index: 2; display: grid; background: color-mix(in srgb, var(--bg) 92%, transparent); backdrop-filter: blur(8px); -webkit-backdrop-filter: blur(8px); padding: 8px 0; border-bottom: 1px solid var(--line); font: 600 12px/1.2 var(--sans); letter-spacing: 0.08em; text-transform: uppercase; color: var(--muted); }
+.heads span:nth-child(2) { text-align: right; padding-right: 10px; }
+.heads span:nth-child(3) { text-align: center; color: var(--prophet); }
+.heads span:nth-child(4) { padding-left: 10px; }
+#chart { display: block; width: 100%; overflow: visible; }
+#chart text { font: 600 12px var(--sans); fill: var(--ink); }
+#chart .yr { font: 500 11px var(--sans); fill: var(--muted); }
+#chart .grid { stroke: var(--line); }
+#chart .ev text { font: 600 11px var(--sans); fill: var(--gold); }
+#chart .ev line { stroke: var(--gold); stroke-dasharray: 3 3; }
+#chart .reign { cursor: pointer; }
+#chart .reign:hover rect.bar, #chart .reign:focus-visible rect.bar, #chart .reign.sel rect.bar { stroke: var(--ink) !important; stroke-width: 2 !important; }
+#chart .reign .yrs { font: 500 11px var(--sans); fill: var(--muted); }
+#chart .lead { stroke: var(--faint); stroke-width: 1; }
+#chart .prophet text { font: 600 11px var(--sans); fill: var(--prophet); }
+#chart .united text.big { font: 500 18px var(--read); }
+@media (prefers-reduced-motion: no-preference) {
+  #chart .reign { animation: grow 0.6s cubic-bezier(.2, .7, .2, 1) both; }
+}
+@keyframes grow { from { opacity: 0; } to { opacity: 1; } }
+.note { margin: 22px 0 0; font-size: 14px; color: var(--muted); max-width: 70ch; }
+/* The card: a sheet at the bottom on a phone, a panel at the side on a wide screen. */
+.card { position: fixed; z-index: 20; left: 0; right: 0; bottom: 0; max-height: 62vh; overflow: auto; background: var(--surface); border-top: 1px solid var(--line);
+  border-radius: 18px 18px 0 0; box-shadow: var(--shadow); padding: 14px max(16px, env(safe-area-inset-right, 0px)) max(18px, env(safe-area-inset-bottom, 0px)) max(16px, env(safe-area-inset-left, 0px)); }
+@media (min-width: 900px) { .card { left: auto; right: 16px; bottom: 16px; top: 76px; width: 360px; max-height: none; border: 1px solid var(--line); border-radius: 16px; } }
+.card[hidden] { display: none; }
+.card .kicker { display: flex; align-items: center; gap: 8px; font: 600 11.5px/1.3 var(--sans); letter-spacing: 0.08em; text-transform: uppercase; color: var(--muted); padding-right: 34px; }
+.card .kicker i { width: 10px; height: 10px; border-radius: 3px; background: var(--c); }
+.card h2 { margin: 6px 0 2px; font: 400 28px/1.1 var(--read); }
+.card .when { margin: 0 0 10px; font: 600 14px/1.3 var(--sans); color: var(--muted); }
+.card .verdict { margin: 0 0 10px; padding: 8px 10px; border-radius: 10px; background: color-mix(in srgb, var(--c) 14%, transparent); color: var(--ink); font: 500 14px/1.35 var(--sans); }
+.card dl { margin: 0 0 10px; display: grid; grid-template-columns: auto 1fr; gap: 4px 12px; font-size: 14px; }
+.card dt { color: var(--muted); }
+.card dd { margin: 0; }
+.card .acts { display: flex; flex-wrap: wrap; gap: 8px; margin: 6px 0 12px; }
+.card .acts a { display: inline-flex; align-items: center; min-height: 36px; padding: 6px 12px; border-radius: 10px; background: var(--lapis-soft); color: var(--lapis); font: 600 14px/1.2 var(--sans); text-decoration: none; }
+.card h3 { margin: 12px 0 6px; font: 600 12px/1.3 var(--sans); letter-spacing: 0.08em; text-transform: uppercase; color: var(--muted); }
+.card .chips { display: flex; flex-wrap: wrap; gap: 6px; }
+.card .chips button { display: inline-flex; align-items: center; gap: 6px; min-height: 30px; padding: 3px 10px; border-radius: 99px; border: 1px solid var(--line); background: var(--bg); color: var(--ink); font: 500 13px/1.2 var(--sans); cursor: pointer; }
+.card .chips i { width: 8px; height: 8px; border-radius: 50%; background: var(--c); }
+.card .close { position: absolute; top: 10px; right: 10px; width: 36px; height: 36px; border: 0; border-radius: 10px; background: transparent; color: var(--ink); cursor: pointer; }
+.card .close:hover { background: var(--lapis-soft); }
+</style>
+
+<style>
+:root { --bar: 56px; }
+body::before { content: ""; position: fixed; inset: 0 0 auto; height: env(safe-area-inset-top, 0px); z-index: 11; background: var(--bg); }
+.appbar {
+  position: sticky; top: env(safe-area-inset-top, 0px); z-index: 10; height: var(--bar);
+  margin-inline: calc(-1 * max(16px, env(safe-area-inset-left, 0px))) calc(-1 * max(16px, env(safe-area-inset-right, 0px)));
+  padding-inline: max(8px, env(safe-area-inset-left, 0px)) max(8px, env(safe-area-inset-right, 0px));
+  display: flex; align-items: center; gap: 4px; background: color-mix(in srgb, var(--bg) 92%, transparent);
+  backdrop-filter: blur(10px); -webkit-backdrop-filter: blur(10px); border-bottom: 1px solid var(--line);
+}
+.appbar .brand {
+  display: inline-flex; align-items: center; gap: 10px; min-height: 40px; padding: 0 8px; border-radius: 10px;
+  color: var(--ink); text-decoration: none; white-space: nowrap; font: 500 17px/1 "Frank Ruhl Libre", "Noto Serif", Georgia, serif; letter-spacing: 0.01em;
+}
+.appbar .brand img { width: 26px; height: 26px; border-radius: 7px; flex: none; }
+.appnav { margin-inline-start: auto; display: flex; gap: 2px; }
+.appnav a {
+  display: inline-flex; align-items: center; min-height: 40px; padding: 0 12px; border-radius: 10px; white-space: nowrap;
+  font: 600 14px/1 "Libre Franklin", system-ui, -apple-system, "Segoe UI", sans-serif; color: var(--muted); text-decoration: none;
+}
+.appnav a:hover { background: var(--lapis-soft); color: var(--ink); }
+.appnav a[aria-current="page"] { background: var(--lapis-soft); color: var(--lapis); }
+.appbar a:focus-visible { outline: 2px solid var(--lapis); outline-offset: 0; }
+@media (max-width: 640px) { .appbar .brand span { display: none; } .appnav a { padding: 0 9px; } }
+/* On a phone the five parts take the whole bar, and scroll sideways if they still don't fit. */
+@media (max-width: 480px) {
+  .appbar .brand { display: none; }
+  .appnav { margin-inline: 0; flex: 1; justify-content: space-between; overflow-x: auto; scrollbar-width: none; }
+  .appnav::-webkit-scrollbar { display: none; }
+  .appnav a { padding: 0 7px; font-size: 13.5px; flex: none; }
+}
+@media print { .appbar { display: none; } }
+</style>
+<header class="appbar">
+  <a class="brand" href="index.html"><img src="icons/icon.svg" alt="Plain English Bible"><span aria-hidden="true">Plain English Bible</span></a>
+  <nav class="appnav" aria-label="Plain English Bible"><a href="index.html">Read</a><a href="maps/index.html">Maps</a><a href="genealogy.html">Genealogy</a><a href="history.html">Timeline</a><a href="graph.html">Connections</a></nav>
+</header>
+<script>document.querySelector(".appnav [aria-current]")?.scrollIntoView({ inline: "nearest", block: "nearest" });</script>
+
+<main>
+  <h1>The Kings of Israel and Judah</h1>
+  <p class="lede">The two kingdoms side by side, from Saul to the fall of Jerusalem: each reign as long as it lasted, colored by the verdict the books of Kings give it, with the prophets of their days between them. Tap a king for the chapters that tell the reign.</p>
+  <div class="legend">
+    <span><i style="--c:var(--good)"></i>Did what was right</span>
+    <span><i style="--c:var(--evil)"></i>Did what was evil</span>
+    <span><i style="--c:var(--mixed)"></i>Both are said</span>
+    <span><i style="--c:var(--none)"></i>No verdict</span>
+    <span><i class="co" style="--c:var(--faint)"></i>Reigning beside his father</span>
+    <span><i style="--c:var(--prophet)"></i>Prophet</span>
+  </div>
+  <div class="heads" id="heads"><span></span><span>Israel</span><span>Prophets</span><span>Judah</span></div>
+  <svg id="chart" role="img" aria-label="The reigns of the kings of Israel and Judah through time"></svg>
+  <p class="note">Years BC follow Edwin R. Thiele, <i>The Mysterious Numbers of the Hebrew Kings</i> (3rd ed., 1983), the reckoning most charts use; others differ by a few years, and the early dates by more. Where a son reigned beside his father, the shaded part is the shared reign. The length of each reign and its verdict are as the Bible gives them; the prophets' years are approximate.</p>
+</main>
+<article class="card" id="card" hidden aria-live="polite"></article>
+
+<script type="application/json" id="data">{"united":[{"n":"Saul","a":1050,"co":null,"z":1010,"len":"42 years (1 Samuel 13:1, partly lost in the Hebrew)","v":"mixed","ref":"1 Samuel 9–31","chr":"1 Chronicles 10"},{"n":"David","a":1010,"co":null,"z":970,"len":"40 years (2 Samuel 5:4)","v":"good","ref":"2 Samuel 2–24; 1 Kings 1–2","chr":"1 Chronicles 11–29"},{"n":"Solomon","a":970,"co":null,"z":931,"len":"40 years (1 Kings 11:42)","v":"mixed","ref":"1 Kings 1–11","chr":"2 Chronicles 1–9"}],"judah":[{"n":"Rehoboam","a":931,"co":null,"z":913,"len":"17 years (1 Kings 14:21)","v":"evil","ref":"1 Kings 12:1–24; 14:21–31","chr":"2 Chronicles 10–12"},{"n":"Abijah","a":913,"co":null,"z":911,"len":"3 years (1 Kings 15:2)","v":"evil","ref":"1 Kings 15:1–8","chr":"2 Chronicles 13"},{"n":"Asa","a":911,"co":null,"z":870,"len":"41 years (1 Kings 15:10)","v":"good","ref":"1 Kings 15:9–24","chr":"2 Chronicles 14–16"},{"n":"Jehoshaphat","a":870,"co":873,"z":848,"len":"25 years (1 Kings 22:42)","v":"good","ref":"1 Kings 22:1–50","chr":"2 Chronicles 17–20"},{"n":"Jehoram","a":848,"co":853,"z":841,"len":"8 years (2 Kings 8:17)","v":"evil","ref":"2 Kings 8:16–24","chr":"2 Chronicles 21"},{"n":"Ahaziah","a":841,"co":null,"z":841,"len":"1 year (2 Kings 8:26)","v":"evil","ref":"2 Kings 8:25–29; 9:27–29","chr":"2 Chronicles 22:1–9"},{"n":"Athaliah","a":841,"co":null,"z":835,"len":"6 years (2 Kings 11:3)","v":"evil","ref":"2 Kings 11","chr":"2 Chronicles 22:10–23:21"},{"n":"Joash","a":835,"co":null,"z":796,"len":"40 years (2 Kings 12:2)","v":"good","ref":"2 Kings 12","chr":"2 Chronicles 24"},{"n":"Amaziah","a":796,"co":null,"z":767,"len":"29 years (2 Kings 14:2)","v":"good","ref":"2 Kings 14:1–22","chr":"2 Chronicles 25"},{"n":"Uzziah","a":767,"co":792,"z":740,"len":"52 years (2 Kings 15:2)","v":"good","ref":"2 Kings 15:1–7","chr":"2 Chronicles 26"},{"n":"Jotham","a":740,"co":750,"z":732,"len":"16 years (2 Kings 15:33)","v":"good","ref":"2 Kings 15:32–38","chr":"2 Chronicles 27"},{"n":"Ahaz","a":732,"co":735,"z":716,"len":"16 years (2 Kings 16:2)","v":"evil","ref":"2 Kings 16","chr":"2 Chronicles 28"},{"n":"Hezekiah","a":716,"co":null,"z":687,"len":"29 years (2 Kings 18:2)","v":"good","ref":"2 Kings 18–20","chr":"2 Chronicles 29–32"},{"n":"Manasseh","a":687,"co":697,"z":643,"len":"55 years (2 Kings 21:1)","v":"evil","ref":"2 Kings 21:1–18","chr":"2 Chronicles 33:1–20"},{"n":"Amon","a":643,"co":null,"z":641,"len":"2 years (2 Kings 21:19)","v":"evil","ref":"2 Kings 21:19–26","chr":"2 Chronicles 33:21–25"},{"n":"Josiah","a":641,"co":null,"z":609,"len":"31 years (2 Kings 22:1)","v":"good","ref":"2 Kings 22:1–23:30","chr":"2 Chronicles 34–35"},{"n":"Jehoahaz","a":609,"co":null,"z":609,"len":"3 months (2 Kings 23:31)","v":"evil","ref":"2 Kings 23:31–34","chr":"2 Chronicles 36:1–4"},{"n":"Jehoiakim","a":609,"co":null,"z":598,"len":"11 years (2 Kings 23:36)","v":"evil","ref":"2 Kings 23:34–24:7","chr":"2 Chronicles 36:5–8"},{"n":"Jehoiachin","a":598,"co":null,"z":597,"len":"3 months (2 Kings 24:8)","v":"evil","ref":"2 Kings 24:8–17; 25:27–30","chr":"2 Chronicles 36:9–10"},{"n":"Zedekiah","a":597,"co":null,"z":586,"len":"11 years (2 Kings 24:18)","v":"evil","ref":"2 Kings 24:18–25:7","chr":"2 Chronicles 36:11–21"}],"israel":[{"n":"Jeroboam","a":931,"co":null,"z":910,"len":"22 years (1 Kings 14:20)","v":"evil","ref":"1 Kings 11:26–14:20","chr":"2 Chronicles 10; 13"},{"n":"Nadab","a":910,"co":null,"z":909,"len":"2 years (1 Kings 15:25)","v":"evil","ref":"1 Kings 15:25–31","chr":null},{"n":"Baasha","a":909,"co":null,"z":886,"len":"24 years (1 Kings 15:33)","v":"evil","ref":"1 Kings 15:27–16:7","chr":"2 Chronicles 16:1–6"},{"n":"Elah","a":886,"co":null,"z":885,"len":"2 years (1 Kings 16:8)","v":"evil","ref":"1 Kings 16:8–14","chr":null},{"n":"Zimri","a":885,"co":null,"z":885,"len":"7 days (1 Kings 16:15)","v":"evil","ref":"1 Kings 16:9–20","chr":null},{"n":"Tibni","a":885,"co":null,"z":880,"len":"a rival king, with no years given (1 Kings 16:21–22)","v":"none","ref":"1 Kings 16:21–22","chr":null},{"n":"Omri","a":880,"co":885,"z":874,"len":"12 years (1 Kings 16:23)","v":"evil","ref":"1 Kings 16:16–28","chr":null},{"n":"Ahab","a":874,"co":null,"z":853,"len":"22 years (1 Kings 16:29)","v":"evil","ref":"1 Kings 16:29–22:40","chr":"2 Chronicles 18"},{"n":"Ahaziah of Israel","a":853,"co":null,"z":852,"len":"2 years (1 Kings 22:52)","v":"evil","ref":"1 Kings 22:51–2 Kings 1:18","chr":"2 Chronicles 20:35–37"},{"n":"Joram","a":852,"co":null,"z":841,"len":"12 years (2 Kings 3:1)","v":"evil","ref":"2 Kings 3; 9:14–26","chr":null},{"n":"Jehu","a":841,"co":null,"z":814,"len":"28 years (2 Kings 10:36)","v":"mixed","ref":"2 Kings 9–10","chr":"2 Chronicles 22:7–9"},{"n":"Jehoahaz of Israel","a":814,"co":null,"z":798,"len":"17 years (2 Kings 13:1)","v":"evil","ref":"2 Kings 13:1–9","chr":null},{"n":"Jehoash","a":798,"co":null,"z":782,"len":"16 years (2 Kings 13:10)","v":"evil","ref":"2 Kings 13:10–25; 14:8–16","chr":"2 Chronicles 25:17–24"},{"n":"Jeroboam II","a":782,"co":793,"z":753,"len":"41 years (2 Kings 14:23)","v":"evil","ref":"2 Kings 14:23–29","chr":null},{"n":"Zechariah","a":753,"co":null,"z":753,"len":"6 months (2 Kings 15:8)","v":"evil","ref":"2 Kings 15:8–12","chr":null},{"n":"Shallum","a":752,"co":null,"z":752,"len":"1 month (2 Kings 15:13)","v":"none","ref":"2 Kings 15:10–15","chr":null},{"n":"Menahem","a":752,"co":null,"z":742,"len":"10 years (2 Kings 15:17)","v":"evil","ref":"2 Kings 15:14–22","chr":null},{"n":"Pekahiah","a":742,"co":null,"z":740,"len":"2 years (2 Kings 15:23)","v":"evil","ref":"2 Kings 15:23–26","chr":null},{"n":"Pekah","a":740,"co":752,"z":732,"len":"20 years (2 Kings 15:27), counted from a rival reign in Gilead","v":"evil","ref":"2 Kings 15:25–31; 16:5","chr":"2 Chronicles 28:5–8"},{"n":"Hoshea","a":732,"co":null,"z":722,"len":"9 years (2 Kings 17:1)","v":"evil","ref":"2 Kings 15:30; 17:1–6","chr":null}],"prophets":[{"n":"Samuel","a":1070,"z":1015,"ref":"1 Samuel 3–25"},{"n":"Nathan","a":1000,"z":965,"ref":"2 Samuel 7; 12; 1 Kings 1"},{"n":"Ahijah","a":935,"z":910,"ref":"1 Kings 11:29–39; 14:1–18"},{"n":"Elijah","a":870,"z":850,"ref":"1 Kings 17–2 Kings 2"},{"n":"Elisha","a":850,"z":795,"ref":"2 Kings 2–13"},{"n":"Jonah","a":790,"z":770,"ref":"2 Kings 14:25; Jonah"},{"n":"Amos","a":765,"z":755,"ref":"Amos 1:1"},{"n":"Hosea","a":755,"z":715,"ref":"Hosea 1:1"},{"n":"Isaiah","a":740,"z":685,"ref":"Isaiah 1:1; 6:1"},{"n":"Micah","a":735,"z":700,"ref":"Micah 1:1"},{"n":"Nahum","a":660,"z":630,"ref":"Nahum"},{"n":"Zephaniah","a":640,"z":620,"ref":"Zephaniah 1:1"},{"n":"Jeremiah","a":627,"z":586,"ref":"Jeremiah 1:1–3"},{"n":"Habakkuk","a":610,"z":595,"ref":"Habakkuk"},{"n":"Huldah","a":622,"z":620,"ref":"2 Kings 22:14–20"},{"n":"Ezekiel","a":593,"z":571,"ref":"Ezekiel 1:1–3"}],"verdict":{"good":"Did what was right in the eyes of the LORD","evil":"Did what was evil in the eyes of the LORD","mixed":"Praised and blamed: the account gives both","none":"The account gives no verdict"}}</script>
+<script>
+(() => {
+  const D = JSON.parse(document.getElementById("data").textContent);
+  const $ = id => document.getElementById(id);
+  const NS = "http://www.w3.org/2000/svg";
+  const make = (tag, attrs = {}, text) => { const e = document.createElementNS(NS, tag); for (const k in attrs) e.setAttribute(k, attrs[k]); if (text != null) e.textContent = text; return e; };
+  const el = (tag, attrs = {}, ...kids) => { const e = document.createElement(tag); for (const k in attrs) { if (k === "text") e.textContent = attrs[k]; else if (k === "class") e.className = attrs[k]; else if (k.startsWith("on")) e.addEventListener(k.slice(2), attrs[k]); else e.setAttribute(k, attrs[k]); } for (const c of kids) if (c != null) e.append(c); return e; };
+  const VC = { good: "var(--good)", evil: "var(--evil)", mixed: "var(--mixed)", none: "var(--none)" };
+  const TOP = 1055, BOTTOM = 580;
+  const bc = y => `${y} BC`;
+  const span = r => (r.a === r.z ? `${r.a} BC` : `${r.a}–${r.z} BC`);
+  // "2 Kings 18–20" -> index.html#2-kings-18 (the first chapter of a reference).
+  const readHref = ref => { const m = /^(\d? ?[A-Za-z ]+?) (\d+)/.exec(ref); return m ? `index.html#${m[1].toLowerCase().replace(/ /g, "-")}-${m[2]}` : null; };
+  const all = [...D.united.map(r => ({ ...r, side: "united" })), ...D.israel.map(r => ({ ...r, side: "israel" })), ...D.judah.map(r => ({ ...r, side: "judah" }))];
+  let selected = null;
+
+  function draw() {
+    const svg = $("chart"), W = svg.clientWidth || 360;
+    const phone = W < 560, AX = phone ? 38 : 52, PW = phone ? 74 : 110, LW = (W - AX - PW) / 2;
+    const K = phone ? 2.3 : 2.6, y = v => 10 + (TOP - v) * K, H = y(BOTTOM) + 20;
+    $("heads").style.gridTemplateColumns = `${AX}px ${LW}px ${PW}px ${LW}px`;
+    svg.setAttribute("viewBox", `0 0 ${W} ${H}`); svg.setAttribute("height", H);
+    svg.textContent = "";
+    const xIsr = AX + LW, xJud = AX + LW + PW, BW = phone ? 14 : 18;
+    // Years down the side, every 50.
+    for (let v = 1050; v >= 600; v -= 50) {
+      svg.append(make("line", { class: "grid", x1: AX - 4, x2: W, y1: y(v), y2: y(v) }));
+      svg.append(make("text", { class: "yr", x: AX - 8, y: y(v) + 4, "text-anchor": "end" }, phone ? v : bc(v)));
+    }
+    // Turning points.
+    for (const [v, t] of [[931, "The kingdom divides"], [722, "Samaria falls to Assyria"], [586, "Jerusalem falls to Babylon"]]) {
+      const g = make("g", { class: "ev" });
+      g.append(make("line", { x1: AX, x2: W, y1: y(v), y2: y(v) }));
+      g.append(make("text", { x: W - 4, y: y(v) - 5, "text-anchor": "end" }, t));
+      svg.append(g);
+    }
+    // The prophets, between the kingdoms.
+    const pl = [];
+    D.prophets.forEach((p, k) => {
+      const g = make("g", { class: "prophet" }), x = xIsr + 10 + (k % 3) * 6;
+      g.append(make("rect", { x, y: y(p.a), width: 4, height: Math.max(4, (p.a - p.z) * K), rx: 2, fill: "var(--prophet)", opacity: 0.75 }));
+      pl.push([g, y(p.a) + 10, p.n, x]);
+      svg.append(g);
+    });
+    let last = -99;
+    for (const [g, ly, n, x] of pl.sort((a, b) => a[1] - b[1])) { const yy = Math.max(ly, last + 14); last = yy; g.append(make("text", { x: xIsr + 30, y: yy }, n)); }
+    // The reigns: a bar where it fell, a label beside it where there is room.
+    const lanes = { israel: [], judah: [] };
+    all.forEach((r, k) => {
+      const g = make("g", { class: "reign", tabindex: 0, role: "button", "aria-label": `${r.n}, ${span(r)}`, style: `animation-delay:${k * 15}ms` });
+      const top = y(r.co || r.a), y0 = y(r.a), y1 = y(r.z) + Math.max(3, K * 0.6);
+      if (r.side === "united") {
+        const x0 = AX + 8, x1 = W - 8;
+        g.classList.add("united");
+        g.append(make("rect", { class: "bar", x: x0, y: y0, width: x1 - x0, height: y1 - y0, rx: 8, fill: VC[r.v], opacity: 0.16, stroke: VC[r.v] }));
+        g.append(make("text", { class: "big", x: (x0 + x1) / 2, y: (y0 + y1) / 2 + 2, "text-anchor": "middle" }, r.n));
+        g.append(make("text", { class: "yrs", x: (x0 + x1) / 2, y: (y0 + y1) / 2 + 18, "text-anchor": "middle" }, span(r)));
+      } else {
+        const left = r.side === "israel", bx = left ? xIsr - BW - 4 : xJud + 4;
+        if (r.co) {
+          const pat = make("rect", { x: bx, y: top, width: BW, height: y0 - top, rx: 3, fill: VC[r.v], opacity: 0.35 });
+          g.append(pat);
+        }
+        g.append(make("rect", { class: "bar", x: bx, y: y0, width: BW, height: Math.max(3, y1 - y0), rx: 3, fill: VC[r.v], stroke: "var(--bg)", "stroke-width": 1.5 }));
+        lanes[r.side].push([g, (y0 + Math.max(y0 + 3, y1)) / 2, r, left, bx]);
+      }
+      g.addEventListener("click", () => select(r, g));
+      g.addEventListener("keydown", e => { if (e.key === "Enter" || e.key === " ") { e.preventDefault(); select(r, g); } });
+      svg.append(g);
+    });
+    // Labels, kept apart, with a short line to a bar they had to leave.
+    for (const [side, list] of Object.entries(lanes)) {
+      let last = -99;
+      for (const [g, mid, r, left, bx] of list.sort((a, b) => a[1] - b[1])) {
+        const ly = Math.max(mid + 4, last + (phone ? 15 : 17));
+        last = ly;
+        const tx = left ? bx - 8 : bx + BW + 8, anchor = left ? "end" : "start";
+        if (Math.abs(ly - 4 - mid) > 3) g.append(make("line", { class: "lead", x1: left ? bx - 1 : bx + BW + 1, x2: left ? tx + 3 : tx - 3, y1: mid, y2: ly - 4 }));
+        const t = make("text", { x: tx, y: ly, "text-anchor": anchor }, r.n.replace(/ of (Israel|Judah)$/, ""));
+        g.append(t);
+        if (!phone) g.append(make("text", { class: "yrs", x: tx + (left ? -t.getComputedTextLength() - 6 : t.getComputedTextLength() + 6), y: ly, "text-anchor": anchor }, span(r)));
+      }
+    }
+    if (selected) svg.querySelectorAll(".reign")[all.indexOf(selected)]?.classList.add("sel");
+  }
+
+  function select(r, g) {
+    selected = r;
+    document.querySelectorAll("#chart .reign.sel").forEach(x => x.classList.remove("sel"));
+    g?.classList.add("sel");
+    const card = $("card"), c = VC[r.v];
+    const title = r.side === "united" ? "King of all Israel" : r.side === "israel" ? "King of Israel" : r.n === "Athaliah" ? "Queen of Judah" : "King of Judah";
+    const read = r.ref.split(";").map(s => s.trim()).filter(Boolean);
+    const at = (o, a, z) => (o.co || o.a) >= z && o.z <= a;
+    const others = all.filter(o => o !== r && o.side !== r.side && o.side !== "united" && at(o, r.co || r.a, r.z));
+    const prophets = D.prophets.filter(p => p.a >= r.z && p.z <= (r.co || r.a));
+    card.replaceChildren(...[
+      el("button", { class: "close", type: "button", "aria-label": "Close", onclick: close, text: "✕" }),
+      el("div", { class: "kicker", style: `--c:${c}` }, el("i"), title),
+      el("h2", { text: r.n.replace(/ of (Israel|Judah)$/, "") }),
+      el("p", { class: "when", text: (r.co ? `${r.co}–${r.a} BC beside his father; alone ` : "") + span(r) }),
+      el("p", { class: "verdict", style: `--c:${c}`, text: D.verdict[r.v] }),
+      el("dl", {}, el("dt", { text: "The Bible says" }), el("dd", { text: `He reigned ${r.len}` }),
+        el("dt", { text: "Told in" }), el("dd", { text: r.ref }), r.chr ? el("dt", { text: "Chronicles" }) : null, r.chr ? el("dd", { text: r.chr }) : null),
+      el("div", { class: "acts" }, ...read.slice(0, 2).map(ref => { const h = readHref(/^\d/.test(ref) && !/[A-Za-z]/.test(ref) ? r.ref.split(" ").slice(0, 2).join(" ") : ref); return h ? el("a", { href: h, text: `Read ${ref.replace(/:.*$/, "")}` }) : null; }),
+        r.chr && readHref(r.chr) ? el("a", { href: readHref(r.chr), text: `Read ${r.chr.split(";")[0].replace(/:.*$/, "")}` }) : null),
+      others.length ? el("h3", { text: r.side === "judah" ? "In Israel at the time" : r.side === "israel" ? "In Judah at the time" : "" }) : null,
+      others.length ? el("div", { class: "chips" }, ...others.map(o => el("button", { type: "button", style: `--c:${VC[o.v]}`, onclick: () => select(o, $("chart").querySelectorAll(".reign")[all.indexOf(o)]) }, el("i"), o.n.replace(/ of (Israel|Judah)$/, "")))) : null,
+      prophets.length ? el("h3", { text: "Prophets of his days" }) : null,
+      prophets.length ? el("div", { class: "chips" }, ...prophets.map(p => { const h = readHref(p.ref); return el("button", { type: "button", style: "--c:var(--prophet)", onclick: () => { if (h) location.href = h; } }, el("i"), p.n); })) : null].filter(Boolean));
+    card.hidden = false; card.scrollTop = 0;
+    try { history.replaceState(null, "", "#" + encodeURIComponent(r.n.toLowerCase().replace(/ /g, "-"))); } catch (e) { /* not allowed here */ }
+  }
+  function close() { $("card").hidden = true; selected = null; document.querySelectorAll("#chart .reign.sel").forEach(x => x.classList.remove("sel")); try { history.replaceState(null, "", location.pathname); } catch (e) {} }
+  addEventListener("keydown", e => { if (e.key === "Escape") close(); });
+  let t = 0;
+  addEventListener("resize", () => { clearTimeout(t); t = setTimeout(draw, 120); });
+  draw();
+  const h = decodeURIComponent(location.hash.slice(1));
+  if (h) { const r = all.find(o => o.n.toLowerCase().replace(/ /g, "-") === h); if (r) select(r, $("chart").querySelectorAll(".reign")[all.indexOf(r)]); }
+})();
+</script>
+
+</body>
+</html>

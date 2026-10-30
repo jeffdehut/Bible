@@ -1,0 +1,120 @@
+<title>The Bookshelf · Plain English Bible</title>
+<meta name="claude:viewport-fit-sides" content="cover">
+<meta name="description" content="The 66 books of the Bible as a shelf of books, each as thick as it is long: the Law, the histories, the poets, the prophets, the Gospels and letters, with how long each takes to read.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Frank+Ruhl+Libre:wght@300..700&family=Libre+Franklin:wght@400;500;600;700&display=swap">
+<style>
+/* The books as spines on shelves, a shelf for each part of the Bible; a spine's thickness is
+   the book's length in words. A tap pulls a book out. */
+:root {
+  --bg: #fbfaf7; --surface: #ffffff; --ink: #161b26; --muted: #5b6475; --faint: #8d95a4; --line: #e4e2db;
+  --lapis: #2646a1; --lapis-soft: #e7ecf8; --wood: #c8a97a; --wood-2: #a8865a;
+  --shadow: 0 1px 2px rgb(22 27 38 / 6%), 0 10px 30px rgb(22 27 38 / 10%);
+  --read: "Frank Ruhl Libre", "Noto Serif", Georgia, serif;
+  --sans: "Libre Franklin", system-ui, -apple-system, "Segoe UI", sans-serif;
+}
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) { --bg: #0d111b; --surface: #131a28; --ink: #e9ecf3; --muted: #a3acbd; --faint: #6f7a90; --line: #263047; --lapis: #9db3ff; --lapis-soft: #1c2650; --wood: #5a4630; --wood-2: #3d2f20; color-scheme: dark; }
+}
+:root[data-theme="dark"] { --bg: #0d111b; --surface: #131a28; --ink: #e9ecf3; --muted: #a3acbd; --faint: #6f7a90; --line: #263047; --lapis: #9db3ff; --lapis-soft: #1c2650; --wood: #5a4630; --wood-2: #3d2f20; color-scheme: dark; }
+* { box-sizing: border-box; }
+html { -webkit-text-size-adjust: 100%; }
+body { margin: 0; background: var(--bg); color: var(--ink); font: 400 16px/1.5 var(--sans);
+  padding-left: max(12px, env(safe-area-inset-left, 0px)); padding-right: max(12px, env(safe-area-inset-right, 0px)); }
+a { color: var(--lapis); }
+main { max-width: 1100px; margin-inline: auto; padding-block: clamp(22px, 5vw, 44px) 60px; }
+h1 { margin: 0 0 6px; font: 300 clamp(36px, 7vw, 56px)/1.02 var(--read); letter-spacing: -0.02em; }
+.lede { margin: 0 0 8px; max-width: 64ch; color: var(--muted); }
+.totals { margin: 0 0 18px; font: 600 13px/1.4 var(--sans); color: var(--muted); letter-spacing: 0.04em; }
+.shelf { margin: 0 0 22px; }
+.shelf h2 { margin: 0 0 6px; font: 600 12px/1.3 var(--sans); letter-spacing: 0.1em; text-transform: uppercase; color: var(--muted); }
+.row { display: flex; align-items: flex-end; gap: 2px; padding: 0 6px; min-height: 150px; border-bottom: 10px solid var(--wood); box-shadow: 0 6px 0 -2px var(--wood-2); flex-wrap: wrap; row-gap: 14px; }
+.spine { position: relative; display: flex; align-items: center; justify-content: center; min-width: 16px; border: 0; border-radius: 3px 3px 1px 1px; cursor: pointer; padding: 6px 0;
+  background: linear-gradient(90deg, rgb(0 0 0 / 14%), transparent 18%, transparent 80%, rgb(0 0 0 / 18%)), var(--c); color: var(--on, #fff);
+  box-shadow: inset 0 -6px 0 rgb(0 0 0 / 10%); transition: transform 0.2s cubic-bezier(.2, .7, .2, 1); }
+.spine::before { content: ""; position: absolute; left: 0; right: 0; top: 10px; height: 2px; background: rgb(255 255 255 / 40%); }
+.spine::after { content: ""; position: absolute; left: 0; right: 0; bottom: 14px; height: 2px; background: rgb(255 255 255 / 40%); }
+.spine span { writing-mode: vertical-rl; transform: rotate(180deg); font: 600 12px/1 var(--sans); letter-spacing: 0.04em; white-space: nowrap; overflow: hidden; max-height: calc(100% - 30px); }
+.spine:hover, .spine:focus-visible, .spine[aria-pressed="true"] { transform: translateY(-10px); }
+.spine:focus-visible { outline: 2px solid var(--ink); outline-offset: 2px; }
+.card { position: fixed; z-index: 20; left: 0; right: 0; bottom: 0; max-height: 64vh; overflow: auto; background: var(--surface); border-top: 1px solid var(--line);
+  border-radius: 18px 18px 0 0; box-shadow: var(--shadow); padding: 14px max(16px, env(safe-area-inset-right, 0px)) max(18px, env(safe-area-inset-bottom, 0px)) max(16px, env(safe-area-inset-left, 0px)); }
+@media (min-width: 900px) { .card { left: auto; right: 16px; bottom: 16px; width: 380px; border: 1px solid var(--line); border-radius: 16px; } }
+.card[hidden] { display: none; }
+.card .kicker { display: flex; align-items: center; gap: 8px; font: 600 11.5px/1.3 var(--sans); letter-spacing: 0.08em; text-transform: uppercase; color: var(--muted); }
+.card .kicker i { width: 10px; height: 10px; border-radius: 3px; background: var(--c); }
+.card h2 { margin: 6px 0 8px; font: 400 30px/1.1 var(--read); }
+.card .stats { display: grid; grid-template-columns: repeat(2, 1fr); gap: 8px; margin: 0 0 12px; }
+.card .stats div { padding: 8px 10px; border-radius: 10px; background: var(--lapis-soft); }
+.card .stats b { display: block; font: 600 20px/1.1 var(--sans); }
+.card .stats small { color: var(--muted); font-size: 12px; }
+.card p { margin: 0 0 10px; font-size: 14px; color: var(--muted); }
+.card .first { font: 400 16px/1.5 var(--read); color: var(--ink); }
+.card .acts { display: flex; flex-wrap: wrap; gap: 8px; }
+.card .acts a { display: inline-flex; min-height: 36px; align-items: center; padding: 6px 12px; border-radius: 10px; background: var(--lapis-soft); color: var(--lapis); font: 600 14px/1.2 var(--sans); text-decoration: none; }
+.card .acts a.solid { background: var(--lapis); color: var(--surface); }
+.card .close { position: absolute; top: 10px; right: 10px; width: 36px; height: 36px; border: 0; border-radius: 10px; background: transparent; color: var(--ink); cursor: pointer; }
+</style>
+
+<!-- APPBAR -->
+
+<main>
+  <h1>The Bookshelf</h1>
+  <p class="lede">The 66 books of the Bible on their shelves, each spine as thick as the book is long. Tap a book to take it down: how long it is, how long it takes to read, and where it begins.</p>
+  <p class="totals" id="totals"></p>
+  <div id="shelves"></div>
+</main>
+<article class="card" id="card" hidden aria-live="polite"></article>
+
+<!-- DATA -->
+<script>
+(() => {
+  const D = JSON.parse(document.getElementById("data").textContent);
+  const $ = id => document.getElementById(id);
+  const el = (tag, attrs = {}, ...kids) => { const e = document.createElement(tag); for (const k in attrs) { if (k === "text") e.textContent = attrs[k]; else if (k === "class") e.className = attrs[k]; else if (k.startsWith("on")) e.addEventListener(k.slice(2), attrs[k]); else e.setAttribute(k, attrs[k]); } for (const c of kids) if (c != null) e.append(c); return e; };
+  const dark = () => { const t = document.documentElement.getAttribute("data-theme"); return t ? t === "dark" : matchMedia("(prefers-color-scheme: dark)").matches; };
+  const fmt = n => n.toLocaleString("en");
+  const mins = w => { const m = Math.round(w / 230); return m < 60 ? `${m} min` : `${Math.floor(m / 60)} h ${m % 60} min`; };
+  const slug = b => b.n.toLowerCase().replace(/ /g, "-");
+  const maxW = Math.max(...D.books.map(b => b.w));
+  let open = null;
+  const total = D.books.reduce((t, b) => t + b.w, 0);
+  $("totals").textContent = `66 books · ${fmt(D.books.reduce((t, b) => t + b.c, 0))} chapters · ${fmt(D.books.reduce((t, b) => t + b.v, 0))} verses · ${fmt(total)} words · about ${Math.round(total / 230 / 60)} hours of reading`;
+  const shelves = $("shelves");
+  for (const [k, sec] of D.sections.entries()) {
+    const row = el("div", { class: "row" });
+    for (const b of D.books.filter(b => b.s === k)) {
+      const wpx = 16 + 46 * Math.sqrt(b.w / maxW), hpx = 118 + (b.t === "NT" ? 0 : 18) + (b.w > 20000 ? 10 : 0);
+      const btn = el("button", { class: "spine", type: "button", "aria-pressed": "false", style: `--c:${sec.c[dark() ? 0 : 1]};${dark() ? "--on:#0b1020;" : ""}width:${wpx.toFixed(0)}px;height:${hpx}px`, title: b.n, onclick: () => show(b, btn) }, el("span", { text: b.n }));
+      row.append(btn);
+    }
+    shelves.append(el("section", { class: "shelf" }, el("h2", { text: sec.n }), row));
+  }
+  function show(b, btn) {
+    document.querySelectorAll(".spine[aria-pressed=true]").forEach(x => x.setAttribute("aria-pressed", "false"));
+    if (open === b) { close(); return; }
+    open = b; btn.setAttribute("aria-pressed", "true");
+    const sec = D.sections[b.s], c = sec.c[dark() ? 0 : 1];
+    $("card").replaceChildren(
+      el("button", { class: "close", type: "button", "aria-label": "Close", onclick: close, text: "✕" }),
+      el("div", { class: "kicker", style: `--c:${c}` }, el("i"), `${sec.n} · ${b.lang}`),
+      el("h2", { text: b.n }),
+      el("div", { class: "stats" },
+        el("div", {}, el("b", { text: fmt(b.c) }), el("small", { text: b.c === 1 ? "chapter" : "chapters" })),
+        el("div", {}, el("b", { text: fmt(b.v) }), el("small", { text: "verses" })),
+        el("div", {}, el("b", { text: fmt(b.w) }), el("small", { text: "words in English" })),
+        el("div", {}, el("b", { text: mins(b.w) }), el("small", { text: "to read aloud, about" }))),
+      el("p", { text: `${(100 * b.w / total).toFixed(1)}% of the Bible · ${fmt(b.o)} words in the ${b.lang.replace(/ and /, " and ")}` }),
+      el("p", { class: "first", text: `“${b.first}”` }),
+      el("div", { class: "acts" }, el("a", { class: "solid", href: `index.html#${slug(b)}-1`, text: `Read ${b.n}` }), el("a", { href: `graph.html#${slug(b)}-1`, text: "In the web" }), el("a", { href: `arcs.html#${slug(b)}`, text: "Its cross-references" })));
+    $("card").hidden = false;
+    try { history.replaceState(null, "", "#" + slug(b)); } catch (e) {}
+  }
+  function close() { open = null; $("card").hidden = true; document.querySelectorAll(".spine[aria-pressed=true]").forEach(x => x.setAttribute("aria-pressed", "false")); try { history.replaceState(null, "", location.pathname); } catch (e) {} }
+  addEventListener("keydown", e => { if (e.key === "Escape") close(); });
+  const h = decodeURIComponent(location.hash.slice(1));
+  const at = D.books.findIndex(b => slug(b) === h);
+  if (at >= 0) show(D.books[at], document.querySelectorAll(".spine")[at]);
+})();
+</script>
