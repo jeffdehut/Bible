@@ -226,6 +226,14 @@ Settled while drafting Numbers:
 | תָּמִיד (offerings) | 經常獻的燔祭 | Noted: *tamid*. |
 | רָאשֵׁי חָדְשֵׁיכֶם | 每月的初一 | |
 | מְלֶאכֶת עֲבֹדָה | 日常的工作 | As in Leviticus 23. |
+| עֲצֶרֶת | 嚴肅的聚會 | As in Leviticus 23:36; noted. |
+| נֶדֶר; אִסָּר; הֵפֵר | 許願；約束自己的話；廢除 | Numbers 30; *issar* noted. A vow 有效／無效 (קוּם). |
+| מֶכֶס | 稅 | Noted. Spoil totals in Chinese numerals: 羊六十七萬五千隻. |
+| מַסָּע; חָנָה (Numbers 33) | 他們從……起行，在……安營 | Kept as one repeated line; camp names exactly as the Union Version (伊坦 33:8 beside 以倘 33:6). |
+| עִיר מִקְלָט | 逃城 | |
+| רֹצֵחַ | 殺人的 (by accident)；殺人犯 (35:16–21, 30–31) | One Hebrew word, noted at 35:6. |
+| גֹּאֵל הַדָּם | 報血仇的 | *go'el* noted (35:12). |
+| מִגְרָשׁ | 草場 | Noted: open land around a town. |
 
 ## Style
 

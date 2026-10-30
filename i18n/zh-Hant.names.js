@@ -2,6 +2,11 @@
 // (public domain) spells them. Written by scripts/names_zh.py: don't edit by hand;
 // corrections go in OVERRIDES there.
 I18N.add({
+"Parnach":"帕納",
+"Hahiroth":"哈希錄",
+"Shepher":"沙斐",
+"Sebam":"示班",
+"Nimrah":"寧拉",
 "Bamoth-baal":"巴末‧巴力",
 "Zophim":"瑣腓",
 "Suphah":"蘇法",
