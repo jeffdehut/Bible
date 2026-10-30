@@ -235,6 +235,56 @@ Settled while drafting Numbers:
 | גֹּאֵל הַדָּם | 報血仇的 | *go'el* noted (35:12). |
 | מִגְרָשׁ | 草場 | Noted: open land around a town. |
 
+Settled while drafting Deuteronomy:
+
+| Source | Rendering | Notes |
+|---|---|---|
+| Moses' speeches | In quotation marks, as in English | 「 reopened at each chapter and new paragraph; the first speech 1:6–4:40, the second from 5:1 (noted). The LORD's words inside them 『』, a third level 「」. Asides in （）(2:10–12, 20–23; 3:9, 11, 13–14). |
+| עֵבֶר הַיַּרְדֵּן | 約旦河東 | Noted: 「在約旦河那邊」. West of the river (3:20, 25): 約旦河那邊. |
+| יָרַשׁ; הוֹרִישׁ | 佔領 (land)；趕走 (nations) | |
+| שֹׁטְרִים | 官員 | As Numbers 11:16; noted. |
+| הָעֲרָבָה; הַשְּׁפֵלָה; הַמִּישֹׁר | 亞拉巴；低地；高原 | Each noted. |
+| עֵדֹת | 法度 | Noted. With 律例 (חֻקִּים) and 典章 (מִשְׁפָּטִים). |
+| הַמִּצְוָה (singular) | 誡命 | Noted where it means the whole law. |
+| The Ten Commandments (Deuteronomy 5) | Exodus 20's wording wherever the Hebrew is the same | 5:12 要謹守 (*shamor*, Exodus 要記念); 5:21 貪圖 (*chamad*) and 貪戀 (*hit'avvah*). Differences noted. |
+| The Shema (6:4–5) | 以色列啊，你要聽：耶和華我們的神，耶和華是獨一的。你要全心、全人、全力愛耶和華你的神。 | Other readings of 6:4 noted: 耶和華我們的神是獨一的耶和華；耶和華是我們的神，唯獨耶和華. |
+| טֹטָפֹת; מְזוּזֹת | 頭帶；門框 | *tefillin* and *mezuzah* noted. |
+| קְשֵׁה־עֹרֶף | 頑梗的百姓 | As Exodus 32:9; noted: 「硬着頸項」. |
+| אִמֵּץ לֵב | 使……心固執 | Kept apart from 剛硬, 頑梗 (2:30). |
+| דָּגָן, תִּירוֹשׁ, יִצְהָר | 五穀、新酒和新油 | |
+| צִרְעָה | 黃蜂 | Noted: uncertain. |
+| The law code (Deuteronomy 12–26) | Without quotation marks | Note at 12:1: Moses still speaking, speech ends 26:19. Chapter 11 ends with the speech open. Quotations inside the laws 「」. |
+| הַמָּקוֹם אֲשֶׁר יִבְחַר … לְשַׁכֵּן שְׁמוֹ שָׁם | 耶和華所選擇作他名居所的地方 | Noted: 「使他的名住在那裏」. |
+| בִּשְׁעָרֶיךָ | 你城裏 | Noted: 「城門裏」. |
+| יָתוֹם; אַלְמָנָה; גֵּר | 孤兒；寡婦；寄居的外人 | *yatom* noted. |
+| נָכְרִי | 外族人 | Noted: a foreigner not settled in Israel. |
+| בִּעַרְתָּ הָרָע | 把那惡從你們中間除掉 | Noted: 「焚除」. |
+| הַכֹּהֲנִים הַלְוִיִּם | 利未人祭司 | Noted: 「祭司，就是利未人」. |
+| שְׁמִטָּה | 豁免；豁免年 | Noted: *shemittah*, cancelling debts. |
+| צְבִי; אַיָּל | 羚羊；鹿 | |
+| Animals (Deuteronomy 14) | Leviticus 11's names for the same Hebrew words | Extra quadrupeds 狍子、野山羊、羱羊、劍羚、野綿羊; *ra'ah* 鳶 (as *da'ah*), *dayyah* 黑鳶; noted. |
+| לֶחֶם עֹנִי | 困苦的餅 | Noted: 「困苦餅」. |
+| קֹסֵם; מְעוֹנֵן; מְנַחֵשׁ; מְכַשֵּׁף; חֹבֵר חָבֶר | 占卜的；觀兆的；用法術的；行邪術的；念咒語的 | Deuteronomy 18:10–11. |
+| נָבִיא כָּמֹנִי (18:15, 18) | 一位像我的先知 | Noted: Acts 3:22–23, 7:37. |
+| עִיר מִקְלָט; רֹצֵחַ; גֹּאֵל הַדָּם (Deuteronomy 19) | 逃城；殺人的；報血仇的 | As Numbers 35; *rotseach* and *go'el ha-dam* noted. |
+| לֹא תָחוֹס עֵינְךָ | 不可憐惜 | Noted: 「你的眼不可憐惜」. |
+| נַעֲרָה written נַעַר | 少女 | One note per chapter: written *na'ar*, read *na'arah* (22:15). |
+| קְדֵשָׁה; קָדֵשׁ | 廟妓 | Noted (23:18). |
+| יִבֵּם; יְבָמָה | 盡夫兄弟的本分；兄弟的遺孀 | *yabbem* noted (25:5). |
+| אֲרַם נַהֲרַיִם | 兩河之間的亞蘭 | As Genesis 24:10 (Union Version 美索不達米亞); noted. |
+| אֲרַמִּי אֹבֵד אָבִי (26:5) | 我祖先是一個流浪的亞蘭人 | *oved* noted: 流浪的 or 將要滅亡的. |
+| The curses of 27:15–26 | 『……的，必受咒詛！』眾民都要說：『阿們！』 | One formula throughout; 『』 because Moses' speech is open. 27:15 回答說 (*ve'anu*). |
+| אָמֵן | 阿們 | Noted: 確實如此，願它成就. |
+| בָּרוּךְ; אָרוּר (28:3–6, 16–19) | 必蒙福；必受咒詛 | The two lists kept word for word parallel. |
+| פְּרִי בִטְנְךָ, פְּרִי אַדְמָתְךָ | 你身體所生的、你土地所出產的 | Also 28:53 and 30:9. |
+| אָלָה | 誓言 (with 約)；咒詛 | Noted at 29:11. |
+| The third speech (29:1–30:20) | In quotation marks | Noted at 29:1 and 30:20. |
+| The Song of Moses (32:1–43); the Blessing (33:2–29) | Poetry without quotation marks | The LORD's words in the song unmarked (noted 32:20); 論……，他說： for each tribe. |
+| צוּר (of God) | 磐石 | Noted at 32:4: *tsur*. |
+| עֶלְיוֹן (alone); שֵׁדִים | 至高者；鬼魔 | |
+| יְשֻׁרוּן | 耶書崙 | Noted: from *yashar*. |
+| הוֹשֵׁעַ (32:44) | 何西阿 | Noted: Joshua's earlier name; the Union Version has 約書亞. |
+
 ## Style
 
 **Characters and words.** Plain words over the Union Version's literary ones (吊下去, not 縋下來). Hong Kong standard forms: 裏 (not 裡), 着 for the particle (看着、
