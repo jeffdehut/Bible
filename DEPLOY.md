@@ -87,6 +87,8 @@ python3 scripts/translation.py   # the compiled translation in text/english/
 python3 scripts/connections.py   # the notes in connections/, and the genealogy, timeline and web pages
 python3 scripts/reader.py        # the reader's data in data/bible/
 python3 scripts/maps.py          # the maps in maps/
+node scripts/map-previews.js     # pictures of the maps for their cards (then: python3 scripts/maps.py index)
+python3 scripts/atlas.py          # the plates of the 1915 historical atlas in maps/atlas/
 python3 scripts/study.py         # the topics and dictionary in data/bible/study/
 python3 scripts/parallels.py     # parallel passages and reading plans (after study.py)
 python3 scripts/lexicons.py      # the full lexicon entries (BDB, LSJ) in data/bible/lexicon/

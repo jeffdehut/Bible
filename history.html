@@ -136,6 +136,7 @@ button { font: inherit; color: inherit; }
 #chart .band-icon { fill: none; stroke-width: 2.2; stroke-linecap: round; stroke-linejoin: round; }
 #chart .ev-icon .bob > circle { stroke: currentColor; stroke-width: 1.5; }
 #chart .ev-icon .bob > g * { fill: none; stroke: currentColor; stroke-width: 1.9; stroke-linecap: round; stroke-linejoin: round; }
+#chart .bar-icon * { fill: none; stroke: currentColor; stroke-width: 2.1; stroke-linecap: round; stroke-linejoin: round; pointer-events: none; }
 #chart .mark.sel .ev-icon .bob > circle { stroke: var(--ink); stroke-width: 2.5; }
 @media (prefers-reduced-motion: no-preference) {
   #chart .mark { animation: settle 0.6s cubic-bezier(.2, .7, .2, 1) both; }
@@ -422,13 +423,14 @@ body::before { content: ""; position: fixed; inset: 0 0 auto; height: env(safe-a
       <span><svg viewBox="0 0 22 12"><rect x="1" y="2" width="20" height="8" rx="2" fill="var(--faint)" opacity=".25"/></svg>Era</span>
       <span><svg viewBox="0 0 22 12"><rect x="1" y="2" width="20" height="8" rx="2" fill="var(--faint)" opacity=".5"/></svg>Dynasty or movement</span>
       <span><svg viewBox="0 0 22 12"><rect x="1" y="2" width="20" height="8" rx="2" fill="var(--faint)"/></svg>Reign or life</span>
-      <span><svg viewBox="0 0 22 12"><path d="M11 1 16 6 11 11 6 6Z" fill="var(--faint)"/></svg>Event</span>
+      <span><svg viewBox="0 0 22 12"><circle cx="11" cy="6" r="5.2" fill="none" stroke="var(--faint)" stroke-width="1.2"/><path d="M11 3.4l.8 1.7 1.9.3-1.4 1.3.3 1.9L11 7.7l-1.6.9.3-1.9-1.4-1.3 1.9-.3Z" fill="none" stroke="var(--faint)" stroke-width=".9"/></svg>Event, with its icon</span>
       <span><svg viewBox="0 0 22 12"><rect x="1" y="2" width="20" height="8" rx="2" fill="none" stroke="var(--faint)" stroke-dasharray="3 2"/></svg>Approximate dates</span>
     </div>
     <p class="hint">Tap a color to show or hide it. Swipe or drag the chart, or tap an age above, to move through time; pinch, or hold Ctrl and scroll, to zoom. The gold line marks a year: tap its badge to see the world then.</p>
   </details>
 
   <div class="zoom ui">
+    <button type="button" id="share-view" aria-label="Share" title="Share this item, or the year under the gold line"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="18" cy="5" r="2.5"/><circle cx="6" cy="12" r="2.5"/><circle cx="18" cy="19" r="2.5"/><path d="m8.2 10.8 7.6-4.4M8.2 13.2l7.6 4.4"/></svg></button>
     <button type="button" id="zoom-in" aria-label="Zoom in"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round"><path d="M12 5v14M5 12h14"/></svg></button>
     <button type="button" id="zoom-out" aria-label="Zoom out"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round"><path d="M5 12h14"/></svg></button>
     <button type="button" id="zoom-fit" aria-label="All of history"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M4 9V4h5M20 9V4h-5M4 15v5h5M20 15v5h-5"/></svg></button>
@@ -550,7 +552,82 @@ body::before { content: ""; position: fixed; inset: 0 0 auto; height: env(safe-a
     quill: '<path d="M20 4C12 4 6 10 5 19"/><path d="M5 19c4-1 9-4 11-9"/><path d="M3 21l2-2"/>',
     globe: '<circle cx="12" cy="12" r="9"/><path d="M3 12h18M12 3c3 3 3 15 0 18M12 3c-3 3-3 15 0 18"/>',
     crescent: '<path d="M15 4a8 8 0 1 0 5 13 7 7 0 0 1-5-13Z"/>',
+    swords: '<path d="M4 4l10.5 10.5M4 4h3.5v3.5M13 16.5l3.5-3.5M15 18.5l1.5-1.5"/><path d="M20 4 9.5 14.5M20 4h-3.5v3.5M11 16.5 7.5 13M9 18.5 7.5 17"/><path d="M4.5 19.5 7 17M19.5 19.5 17 17"/>',
+    fire: '<path d="M12 3c1 3.5 5 5.5 5 10a5 5 0 0 1-10 0c0-2.5 1.5-4 2.5-5.5.3 1.8 1.2 2.8 2.5 3 .2-2.8-1-5 0-7.5Z"/>',
+    scales: '<path d="M12 4v16M8 20h8M5 7h14"/><path d="M5 7 2.5 13a2.5 2.5 0 0 0 5 0Z"/><path d="M19 7l-2.5 6a2.5 2.5 0 0 0 5 0Z"/>',
+    dove: '<path d="M3 13.5c3 0 5-1 6.5-3.5C11 7 13 5 16 5c2 0 3.5 1 4 2l1.5.5-1.5 1c0 5-4 9-10 9-2 0-4-.8-5.5-2"/><path d="M9.5 10 7 5"/>',
+    torch: '<path d="M9 10h6l-1.5 11h-3Z"/><path d="M12 2c1.5 2 3 3 3 5a3 3 0 0 1-6 0c0-2 1.5-3 3-5Z"/>',
+    volcano: '<path d="M2 21l6.5-11h7L22 21Z"/><path d="M10 6.5c0-2 1-3.5 2-3.5s2 1.5 2 3.5M7.5 5 6.5 3.5M16.5 5l1-1.5"/>',
+    virus: '<circle cx="12" cy="12" r="5"/><path d="M12 3v4M12 17v4M3 12h4M17 12h4M5.6 5.6l2.9 2.9M15.5 15.5l2.9 2.9M5.6 18.4l2.9-2.9M15.5 8.5l2.9-2.9"/>',
+    rocket: '<path d="M12 2c3 2.5 4.5 6 4.5 10v4h-9v-4c0-4 1.5-7.5 4.5-10Z"/><circle cx="12" cy="10" r="1.6"/><path d="M7.5 13 5 17v2l2.5-1.5M16.5 13 19 17v2l-2.5-1.5M10 20l2 2 2-2"/>',
+    wall: '<path d="M3 6h18v12H3z"/><path d="M3 10h18M3 14h18M8 6v4M14 6v4M11 10v4M17 10v4M8 14v4M14 14v4"/>',
+    at: '<circle cx="12" cy="12" r="4"/><path d="M16 12v1.5a2.5 2.5 0 0 0 5 0V12a9 9 0 1 0-3.5 7.1"/>',
+    atom: '<circle cx="12" cy="12" r="1.5"/><ellipse cx="12" cy="12" rx="10" ry="4"/><ellipse cx="12" cy="12" rx="10" ry="4" transform="rotate(60 12 12)"/><ellipse cx="12" cy="12" rx="10" ry="4" transform="rotate(120 12 12)"/>',
+    leaf: '<path d="M5 19C5 9 11 4 20 4c0 9-5 15-15 15Z"/><path d="M5 19l8-8"/>',
+    music: '<path d="M9 18V5l11-2v13"/><circle cx="6.5" cy="18" r="2.5"/><circle cx="17.5" cy="16" r="2.5"/>',
+    mask: '<path d="M4 5h16v6a8 8 0 0 1-16 0Z"/><path d="M8 10h2M14 10h2M9 15c1.5 1.3 4.5 1.3 6 0"/>',
+    telescope: '<path d="M3 11l13-6 2 4.5-13 6Z"/><path d="M16 5l3-1.5 2 4.5-3 1.5"/><path d="M10 13.5 7 21M11 13l3 8"/>',
+    star6: '<path d="M12 3 20 17H4Z"/><path d="M12 21 4 7h16Z"/>',
+    star5: '<path d="M12 3l2.7 5.6 6.1.9-4.4 4.3 1 6.1L12 17l-5.4 2.9 1-6.1L3.2 9.5l6.1-.9Z"/>',
+    sunrise: '<path d="M3 18h18M7 18a5 5 0 0 1 10 0"/><path d="M12 5v4M4.9 10.9 7 13M19.1 10.9 17 13M3 21.5h18"/>',
+    flag: '<path d="M5 21V4"/><path d="M5 4h12l-2 4 2 4H5"/>',
+    chain: '<path d="M9 7H7a5 5 0 0 0 0 10h2"/><path d="M15 7h2a5 5 0 0 1 0 10h-2"/><path d="M12 3.5V7M12 17v3.5"/>',
+    people: '<circle cx="8" cy="8" r="3"/><circle cx="16.5" cy="8" r="3"/><path d="M2 20c0-3.5 2.7-6 6-6s6 2.5 6 6M13.5 14.2c.9-.2 1.9-.2 3-.2 3.3 0 5.5 2.5 5.5 6"/>',
+    hourglass: '<path d="M6 3h12M6 21h12"/><path d="M7.5 3v2.5a4.5 4.5 0 0 0 9 0V3M7.5 21v-2.5a4.5 4.5 0 0 1 9 0V21"/>',
+    gear: '<circle cx="12" cy="12" r="3"/><path d="M10.6 3h2.8l.5 2.4 1.9.9 2.1-1.3 2 2-1.3 2.1.9 1.9 2.4.5v2.8l-2.4.5-.9 1.9 1.3 2.1-2 2-2.1-1.3-1.9.9-.5 2.4h-2.8l-.5-2.4-1.9-.9-2.1 1.3-2-2 1.3-2.1-.9-1.9L3 13.4v-2.8l2.4-.5.9-1.9-1.3-2.1 2-2 2.1 1.3 1.9-.9Z"/>',
+    brush: '<path d="M19 3 10 12"/><path d="M10 12c-2 0-3.5 1.5-3.5 3.5 0 1.5-1 3-3 3 1.5 2 4 2.8 6 2 2-.8 3.5-2.5 3.5-4.5 0-2-1-3-3-4Z"/>',
+    bulb: '<path d="M9 18h6M10 21h4"/><path d="M12 3a6 6 0 0 0-3.5 10.9c.6.5 1 1.3 1 2.1h5c0-.8.4-1.6 1-2.1A6 6 0 0 0 12 3Z"/>',
+    shield: '<path d="M12 3 4 6v6c0 5 3.5 8 8 9 4.5-1 8-4 8-9V6Z"/><path d="M12 7v10M8 11h8"/>',
+    snowflake: '<path d="M12 2v20M3.3 7l17.4 10M3.3 17 20.7 7"/><path d="M9.5 4 12 6l2.5-2M9.5 20l2.5-2 2.5 2"/>',
+    candle: '<path d="M9 10h6v11H9z"/><path d="M12 10V8"/><path d="M12 2c1.2 1.6 2 2.6 2 3.6a2 2 0 0 1-4 0c0-1 .8-2 2-3.6Z"/>',
+    city: '<path d="M3 21h18M5 21V10l4-3v14M9 21V5l6 3v13M15 21v-9h4v9"/>',
+    church: '<path d="M12 2v5M10 4h4"/><path d="M5 21V12l7-5 7 5v9"/><path d="M10 21v-5h4v5"/>',
+    harp: '<path d="M6 21V3c6 2 10 7 12 14H6"/><path d="M9 6v11M12 8.5V17M15 12v5"/>',
   };
+  // Each item's icon: chosen by its name, else by its kind and its stream.
+  const ICON_RULES = [
+    [/crucifixion|crucified/i, "cross"], [/resurrection/i, "sunrise"], [/birth of jesus/i, "star5"],
+    [/vesuvius|eruption/i, "volcano"], [/pyramid/i, "pyramid"], [/olympic/i, "torch"],
+    [/black death|pandemic|plague|covid/i, "virus"], [/holocaust/i, "candle"], [/atomic|bombing/i, "atom"],
+    [/apollo|space/i, "rocket"], [/berlin wall/i, "wall"], [/world wide web|internet/i, "at"], [/september 11/i, "city"],
+    [/origin of species/i, "leaf"], [/voyage|columbus/i, "ship"], [/zion|state of israel|israeli/i, "star6"],
+    [/abolition|emancipation|apartheid|slavery/i, "chain"], [/united nations|peace of|human rights/i, "dove"],
+    [/independence|revolution|restoration|united states|republic\b/i, "flag"],
+    [/battle|\bwar\b|wars|revolt|rebellion|siege|invade|crusade|takes jerusalem|sack of|warring|conquest/i, "swords"],
+    [/fire\b|destruction|burn/i, "fire"], [/temple|dome of the rock/i, "temple"],
+    [/founding|constantinople$/i, "city"], [/\bfall of|falls\b|dissolution|collapse|crisis/i, "ruin"],
+    [/council|congress|synod/i, "people"], [/schism/i, "ruin"],
+    [/code of|magna carta|edict|decree|act\b|proclamation|theses|stele/i, "scales"],
+    [/talmud|mishnah|papyrus|codex|hexapla|diatessaron|festal letter|textus|masoret|scrolls|tannaim|amoraim|geonim/i, "scroll"],
+    [/bible|testament|vulgate|version|biblia|graece|instrumentum/i, "book"],
+    [/hijrah|islam|caliphate|sultanate|ottoman|mamluk|ayyubid|fatimid|abbasid|umayyad|rashidun|mughal|delhi/i, "crescent"],
+    [/church|revival|awakening|reformation|apostolic|nicene|vatican|trent/i, "church"],
+    [/cold war/i, "snowflake"], [/renaissance/i, "brush"], [/enlightenment/i, "bulb"], [/industrial/i, "gear"],
+    [/soviet|people's republic/i, "star5"], [/crowned|coronat/i, "crown"],
+    [/greece|greek|hellenistic|minoan|mycenaean|roman|rome|byzantine/i, "column"],
+    [/civilization|maya|teotihuacan|harappan|zimbabwe|aksum|ur\b|sumer/i, "city"],
+    [/dynasty|empire|kingdom|tsardom|duchy|raj|rule\b|komnenos|palaiologos|kingdoms/i, "crown"],
+    [/period|\bage\b|ages\b|era\b|middle ages/i, "hourglass"],
+  ];
+  const LIFE_RULES = [
+    [/bach/i, "music"], [/shakespeare/i, "mask"], [/galileo/i, "telescope"], [/newton|einstein/i, "atom"],
+    [/darwin/i, "leaf"], [/gandhi|king jr/i, "dove"], [/muhammad|avicenna|ibn khaldun/i, "crescent"],
+    [/rashi|maimonides|philo|josephus/i, "lamp"], [/wycliffe|erasmus|tyndale|tischendorf|jerome/i, "book"],
+    [/luther|calvin|wesley|bonhoeffer|ignatius|justin|irenaeus|tertullian|origen|eusebius|athanasius|augustine|bede|aquinas/i, "cross"],
+    [/^noah$/i, "flood"], [/^abraham$|^sarah$|^isaac$|^israel$|^jacob$/i, "tent"], [/^moses$|^aaron$/i, "tablets"],
+    [/^joseph$/i, "pyramid"], [/^david$/i, "harp"], [/^jesus$/i, "cross"], [/^adam$|^eve$/i, "garden"],
+  ];
+  const STREAM_KIND_GLYPH = { "Thinkers and writers": "quill", "High priests": "flame", "Roman officials": "column" };
+  function iconOf(d) {
+    if (d.glyph) return d.glyph;
+    let g = d.icon;
+    if (!g && d.k === "f") g = (LIFE_RULES.find(([re]) => re.test(d.n)) || [])[1]
+      || (d.s === "Lives in the Bible" && /\bking\b|\bqueen\b/i.test(d.note || "") ? "crown" : null);
+    if (!g && d.k !== "r") g = (ICON_RULES.find(([re]) => re.test(d.n)) || [])[1];
+    if (!g) g = d.k === "r" ? (STREAM_KIND_GLYPH[d.s] || "crown") : d.k === "f" ? (STREAM_KIND_GLYPH[d.s] || "person")
+      : STREAM_GLYPH[d.s] || (d.k === "e" ? "star5" : "crown");
+    return (d.glyph = GLYPH[g] ? g : "crown");
+  }
   const STREAM_GLYPH = {
     "The Bible in world history": "book", "From Creation": "creation", "Lives in the Bible": "person",
     "Egypt": "pyramid", "Sumer and Akkad": "ziggurat", "Babylon": "ziggurat", "Tyre": "ship", "Carthage": "ship",
@@ -588,7 +665,7 @@ body::before { content: ""; position: fixed; inset: 0 0 auto; height: env(safe-a
   }
 
   // ---- Rows: eras, dynasties, reigns and lives, then events, packed by overlap of years.
-  const ROW = 20, GAP = 4, EROW = 18, HEAD = 22, BAND_GAP = 10;
+  const ROW = 20, GAP = 4, EROW = 22, HEAD = 22, BAND_GAP = 10;
   const layout = new Map();
   for (const s of streams) {
     const its = byStream.get(s.name) || [];
@@ -726,11 +803,14 @@ body::before { content: ""; position: fixed; inset: 0 0 auto; height: env(safe-a
         .on("pointerenter", (e, d) => showTip(e, d)).on("pointermove", (e, d) => moveTip(e)).on("pointerleave", hideTip);
       g.each(function (d) {
         const n = d3.select(this);
-        if (d.icon) {
+        if (d.k === "e") {
           const b = n.append("g").attr("class", "ev-icon").append("g").attr("class", "bob").style("animation-delay", `${-(d.id % 7) * 0.8}s`);
           b.append("circle").attr("cx", 12).attr("cy", 12).attr("r", 15);
-          b.append("g").html(GLYPH[d.icon]);
-        } else if (d.k === "e") n.append("path"); else n.append("rect");
+          b.append("g").html(GLYPH[iconOf(d)]);
+        } else {
+          n.append("rect");
+          n.append("g").attr("class", "bar-icon").html(GLYPH[iconOf(d)]);
+        }
         n.append("text");
       });
       return g;
@@ -745,7 +825,7 @@ body::before { content: ""; position: fixed; inset: 0 0 auto; height: env(safe-a
       const ry = band.rowY.get(d.row);
       const c = colour[d.s];
       const label = n.select("text");
-      if (d.icon) {
+      if (d.k === "e") {
         const cx = x(d.a), cy = ry + EROW / 2;
         n.select("g.ev-icon").attr("transform", `translate(${cx - 8.5} ${cy - 8.5}) scale(0.71)`)
           .attr("color", c).select("circle").attr("fill", dark() ? "#141a28" : "#fffdf8").attr("stroke", c);
@@ -781,10 +861,17 @@ body::before { content: ""; position: fixed; inset: 0 0 auto; height: env(safe-a
           .attr("stroke-dasharray", d.c ? "3 2" : null);
         const tw = textW(d.n);
         const solid = d.k === "r" || d.k === "f";
-        if (w > tw + 12) {
-          const lx = Math.max(xa, 0) + 6;
-          label.attr("x", Math.min(lx, xb - tw - 6)).attr("y", ry + 14)
-            .attr("fill", solid ? (dark() ? "#0a0f1d" : "#ffffff") : ink)
+        const onBar = solid ? (dark() ? "#0a0f1d" : "#ffffff") : c;
+        // The icon at the start of the bar, then the name, when there is room.
+        const lx = Math.max(xa, 0) + 5;
+        const icon = n.select("g.bar-icon");
+        if (w >= 20) {
+          const ix = Math.min(lx, xb - 17);
+          icon.attr("display", null).attr("transform", `translate(${ix} ${ry + 3.5}) scale(0.54)`).attr("color", onBar);
+        } else icon.attr("display", "none");
+        if (w > tw + 30) {
+          label.attr("x", Math.min(lx + 17, xb - tw - 6)).attr("y", ry + 14)
+            .attr("fill", solid ? onBar : ink)
             .text(d.n).attr("display", null);
         } else label.attr("display", "none");
       }
@@ -976,10 +1063,7 @@ body::before { content: ""; position: fixed; inset: 0 0 auto; height: env(safe-a
       href ? act({ href }, `Read ${ref}`, "read", true) : null,
       d.k !== "e" ? act({ onclick: () => showYears(d) }, "Show its years", "span", !href) : act({ onclick: () => showYears(d) }, "Show its time", "span", !href),
       d.wd ? act({ href: `https://www.wikidata.org/wiki/${d.wd}`, target: "_blank", rel: "noopener" }, "Wikidata", "link") : null,
-      act({ onclick: () => window.Share?.history({
-        item: { n: d.n, when: when(d), kind: d.sync ? "Synchronism" : KIND[d.k], stream: d.s, color: colour[d.s], a: d.a, z: d.k === "e" ? d.a : d.z },
-        kin: sameTime(d).map(o => ({ n: o.n, s: o.s, color: colour[o.s], a: o.a, z: o.k === "e" ? o.a : o.z, event: o.k === "e" })),
-        url: Share.here("history.html", "#" + itemHash(d)) }) }, "Share", "share")));
+      act({ onclick: () => shareItem(d) }, "Share", "share")));
     const kin = sameTime(d);
     if (kin.length) parts.push(el("div", { class: "rel" }, el("h3", { text: d.k === "e" ? "At the time" : "At the same time" }),
       el("div", { class: "list" }, kin.map(o => el("button", { type: "button", class: "node-chip", onclick: () => select(o, { reveal: true }) },
@@ -1024,6 +1108,24 @@ body::before { content: ""; position: fixed; inset: 0 0 auto; height: env(safe-a
 
   // ---- The world in a year: what each part of the world was doing then, and the events near it.
   const SHARE_ORDER = { r: 0, f: 1, e: 2, pd: 3, pe: 4 };   // people and events first on a picture
+  // Sharing: an item as a picture with what stood beside it, or a year with what each part of
+  // the world was doing then; each with a link back to the same place in the chart.
+  function shareItem(d) {
+    window.Share?.history({
+      item: { n: d.n, when: when(d), kind: d.sync ? "Synchronism" : KIND[d.k], stream: d.s, color: colour[d.s], a: d.a, z: d.k === "e" ? d.a : d.z },
+      kin: sameTime(d).map(o => ({ n: o.n, s: o.s, color: colour[o.s], a: o.a, z: o.k === "e" ? o.a : o.z, event: o.k === "e" })),
+      url: Share.here("history.html", "#" + itemHash(d)) });
+  }
+  function shareMoment(Y) {
+    const win = Math.max(3, Math.round((domain[1] - domain[0]) * 0.03));
+    window.Share?.moment({ year: yl(Y), age: ageOf(Y),
+      groups: groups.filter(g => groupOn.get(g)).map(g => ({ name: g, color: groupColour(g),
+        items: items.filter(o => groupOf.get(o.s) === g && (o.k === "e" ? Math.abs(o.a - Y) <= win : o.a <= Y && o.z >= Y))
+          .sort((p, q) => SHARE_ORDER[p.k] - SHARE_ORDER[q.k]).slice(0, 5).map(o => o.n) })).filter(x => x.items.length),
+      url: Share.here("history.html", "#year=" + Y) });
+  }
+  // The share button by the zoom: the item chosen, else the year under the gold line.
+  $("share-view").onclick = () => (selected ? shareItem(selected) : shareMoment(snapYear != null && !card.hidden ? snapYear : lensYear));
   let snapYear = null, snapTimer = 0;
   function snapshot(Y, follow) {
     snapYear = Y;
@@ -1049,11 +1151,7 @@ body::before { content: ""; position: fixed; inset: 0 0 auto; height: env(safe-a
           dotFor(o), o.n, el("small", { text: o.k === "e" ? ylShort(o.a) : o.s }))))));
     }
     parts.push(any ? box : el("p", { class: "meta", text: "Nothing in this chart for that year. Move on a little." }));
-    parts.push(el("div", { class: "actions" }, act({ onclick: () => window.Share?.moment({ year: yl(Y), age: ageOf(Y),
-      groups: groups.filter(g => groupOn.get(g)).map(g => ({ name: g, color: groupColour(g),
-        items: items.filter(o => groupOf.get(o.s) === g && (o.k === "e" ? Math.abs(o.a - Y) <= win : o.a <= Y && o.z >= Y))
-          .sort((p, q) => SHARE_ORDER[p.k] - SHARE_ORDER[q.k]).slice(0, 5).map(o => o.n) })).filter(x => x.items.length),
-      url: Share.here("history.html", "#year=" + Y) }) }, "Share this moment", "share", true)));
+    parts.push(el("div", { class: "actions" }, act({ onclick: () => shareMoment(Y) }, "Share this moment", "share", true)));
     card.replaceChildren(...parts);
     card.hidden = false; card.scrollTop = 0;
     document.body.classList.add("card-open");

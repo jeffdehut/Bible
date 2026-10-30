@@ -3115,8 +3115,23 @@ INDEX = [
 ]
 
 
+def preview(slug):
+    """maps/previews/SLUG.jpg, a small picture of the sheet for its card, made from the full-size
+    photograph scripts/map-previews.js takes (maps/previews/SLUG.png). None if there is none."""
+    src = os.path.join(SITE, "maps", "previews", slug + ".png")
+    out = os.path.join(SITE, "maps", "previews", slug + ".jpg")
+    if not os.path.exists(src):
+        return None
+    if not os.path.exists(out) or os.path.getmtime(out) < os.path.getmtime(src):
+        im = Image.open(src).convert("RGB")
+        im.thumbnail((720, 720), Image.LANCZOS)
+        im.save(out, "JPEG", quality=78, optimize=True, progressive=True)
+    return f"previews/{slug}.jpg"
+
+
 def write_index():
-    """maps/index.html: every sheet built so far, with its journeys and tints."""
+    """maps/index.html: every sheet built so far, with its journeys and tints, and a picture of
+    each where scripts/map-previews.js has taken one."""
     import html
     sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
     import webpages
@@ -3133,9 +3148,13 @@ def write_index():
         stops = sum(len(J["stops"]) for J in d.get("journeys", []))
         plate = (f'<span class="lbl">Map No.</span><span class="no">{no}</span>' if no.isdigit()
                  else f'<span class="lbl">Ancient</span><span class="no word">{no}</span>')
+        pic = preview(slug)
+        top = (f'      <div class="pic"><img src="{pic}" alt="" loading="lazy" decoding="async">'
+               f'<div class="plate" aria-hidden="true">{plate}</div></div>\n' if pic
+               else f'      <div class="plate" aria-hidden="true">{plate}</div>\n')
         cards.append(
-            f'    <li><a class="sheet" href="{slug}.html">\n'
-            f'      <div class="plate" aria-hidden="true">{plate}</div>\n'
+            f'    <li><a class="sheet{" has-pic" if pic else ""}" href="{slug}.html">\n'
+            + top +
             f'      <div class="body">\n'
             f'        <p class="era">{html.escape(era)}</p>\n'
             f'        <h2>{html.escape(title)}</h2>\n'
@@ -3248,6 +3267,8 @@ MAPS = {"palestine": palestine_map, "palestine-history": palestine_history_map, 
 
 def main():
     wanted = sys.argv[1:] or list(MAPS)
+    if wanted == ["index"]:                 # only the index, e.g. after node scripts/map-previews.js
+        wanted = []
     for name in wanted:
         data, page = MAPS[name]()
         write_map(data, page)
