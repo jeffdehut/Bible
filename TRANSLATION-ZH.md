@@ -143,6 +143,18 @@ Settled while drafting Exodus:
 | קִדֵּשׁ | 分別為聖 | |
 | אֵל קַנָּא | 忌邪的神 | |
 | The Ten Commandments | 不可謀殺 (20:13, noted: traditionally 不可殺人), 不可妄用耶和華你神的名 | How the traditions count them, noted at 20:1. |
+| מִשְׁפָּטִים; חֻקִּים | 典章；律例 | |
+| מִשְׁכָּן; אֹהֶל מוֹעֵד | 帳幕；會幕 | |
+| אֲרוֹן הָעֵדֻת; כַּפֹּרֶת | 法櫃；施恩座 | *kipper* noted. |
+| פָּרֹכֶת; מָסָךְ; קְלָעִים | 幔子；門簾；帷子 | |
+| קֹדֶשׁ הַקֳּדָשִׁים; מְנוֹרָה | 至聖所；燈臺 | |
+| אֵפוֹד; חֹשֶׁן; אוּרִים וְתֻמִּים | 以弗得；胸牌；烏陵和土明 | |
+| מִלֵּא יָד | 授予聖職 | Noted: 「充滿手」. |
+| חַטָּאת; תְּנוּפָה; אִשֶּׁה | 贖罪祭；搖祭；火祭 | |
+| רֵיחַ נִיחֹחַ | 馨香的氣味 | |
+| Festivals | 無酵節、收割節、收藏節 | |
+| Precious stones, dyes, spices | Modern identifications, as in the English | Traditional names in notes. |
+| The law code (Exodus 21–23) | Without quotation marks | A note at 21:1 says who speaks. |
 
 ## Style
 
