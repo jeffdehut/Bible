@@ -2,6 +2,11 @@
 // (public domain) spells them. Written by scripts/names_zh.py: don't edit by hand;
 // corrections go in OVERRIDES there.
 I18N.add({
+"Putiel":"普鐵",
+"Abiasaph":"亞比亞撒",
+"Elzaphan":"以利撒反",
+"Shiphrah":"施弗拉",
+"Pithom":"比東",
 "Muppim":"母平",
 "Ishvi":"亦施韋",
 "Ishvah":"亦施瓦",
@@ -2905,7 +2910,7 @@ I18N.add({
 "Miriam (Exodus 15.20)":"米利暗（出埃及記 15.20）",
 "Mirmah":"米瑪",
 "Misgab":"米斯迦",
-"Mishael":"亞伯尼歌",
+"Mishael":"米沙利",
 "Mishael (Daniel 1.6)":"亞伯尼歌（但以理書 1.6）",
 "Mishael (Exodus 6.22)":"亞伯尼歌（出埃及記 6.22）",
 "Mishael (Nehemiah 8.4)":"亞伯尼歌（尼希米記 8.4）",
@@ -3777,7 +3782,7 @@ I18N.add({
 "Sisera (Ezra 2.53)":"西西拉（以斯拉記 2.53）",
 "Sisera (Judges 4.2)":"西西拉（士師記 4.2）",
 "Sismai":"西斯買",
-"Sithri":"米沙利",
+"Sithri":"西提利",
 "Sitnah":"西提拿",
 "Smyrna":"士每拿",
 "So":"梭",
