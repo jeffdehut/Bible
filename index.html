@@ -1027,7 +1027,7 @@ if (/(^#|&)(access_token|error)=/.test(location.hash)) {
     <p>A word’s <em>Full entry</em> opens Brown, Driver and Briggs’s Hebrew lexicon (1906, public domain; Open Scriptures’ outline of it, CC BY 4.0) or Liddell, Scott and Jones’s Greek lexicon (1940, public domain; formatted by STEPBible, CC BY 4.0).</p>
     <p>Under <em>Related verses</em>, a verse lists its cross-references from OpenBible.info (CC BY), those that at least three readers voted for, the most-voted first; most come from the public-domain <em>Treasury of Scripture Knowledge</em>. Tap one to read it in place.</p>
     <p>Under <em>Topics</em>, a verse lists the topics of Nave’s Topical Bible (1896, public domain) that cite it, and under <em>In the Bible dictionary</em>, the entries of Easton’s Bible Dictionary (1897, public domain; linked edition from Theographic, CC BY-SA 4.0) that do. Both are also in the menu, under <em>Topics and dictionary</em>. Their verse numbers have been moved to this translation’s.</p>
-    <p>Under <em>Parallel passages</em>, a verse in the Gospels shows the section of A. T. Robertson’s <em>Harmony of the Gospels</em> (1922, public domain) it belongs to, with every Gospel that tells it, side by side; a verse in Samuel or Kings, the passages that tell it again in Chronicles or Isaiah, after Appendix 56 of the Companion Bible (public domain). <em>Reading plans</em> divide the chapters into days; the chronological plan follows Ussher’s dates as the Treasury of Scripture Knowledge gives them (via Theographic), with the chapters of each book kept in order. Your place in a plan is kept on this device.</p>
+    <p>Under <em>Parallel passages</em>, a verse in the Gospels shows the section of A. T. Robertson’s <em>Harmony of the Gospels</em> (1922, public domain) it belongs to, with every Gospel that tells it, side by side; a verse in Samuel or Kings, the passages that tell it again in Chronicles or Isaiah, after Appendix 56 of the Companion Bible (public domain). <em>Reading plans</em> divide the chapters into days; the chronological plan follows Ussher’s dates as the Treasury of Scripture Knowledge gives them (via Theographic), with the chapters of each book kept in order. Your place in a plan is kept on this device, and in your account if you sign in.</p>
     <p>Places a verse names are listed under <em>On the maps</em>: tap one to see it on the Bible map for that part of the story. Which verses name which places comes from OpenBible.info's Bible Geocoding Data (CC BY 4.0), kept only where this translation uses the name.</p>
     <h3>Licenses</h3>
     <p>Translation: CC BY 4.0. Hebrew: Unicode/XML Leningrad Codex (UXLC 2.6), Tanach.us. Greek: SBL Greek New Testament, © 2010 Society of Biblical Literature and Logos Bible Software, CC BY 4.0. Word data and lexicons: STEPBible.org, CC BY 4.0. Paragraphs follow the Masoretic paragraph marks and, in the New Testament, STEPBible's paragraph marks.</p>
@@ -2131,8 +2131,10 @@ async function showParallels(b, c, n, span) {
 
 /* ---------- Reading plans ---------- */
 // Built by scripts/parallels.py. The plan you follow, and the days you've marked, are kept on
-// this device: { id, start (local midnight, ms), done: [day numbers from 0] }.
+// this device, and in the account when signed in: { id, start (local midnight, ms), done: [day
+// numbers from 0] }. planT is when it last changed here (before that was kept, its start).
 let plan = store.get("plan", null);
+let planT = store.get("planT", plan ? plan.start : 0);
 const DAY = 86400000;
 const midnight = (d = new Date()) => new Date(d.getFullYear(), d.getMonth(), d.getDate()).getTime();
 // "Gen.1","Gen.2","Gen.3","Exod.1" -> [[Genesis 1–3, href], [Exodus 1, href]]
@@ -2147,7 +2149,12 @@ function readings(refs) {
   return out.map(x => [`${x.b.osis === "Ps" ? (x.c1 === x.c2 ? "Psalm" : "Psalms") : x.b.n} ${x.c1}${x.c2 !== x.c1 ? "–" + x.c2 : ""}`, refHash(x.b, x.c1), x.i]);
 }
 const dayHref = (d, i) => "#plan-" + (d + 1) + (i ? "-" + i : "");
-function savePlan() { store.set("plan", plan); updatePlanSub(); }
+function savePlan() {
+  planT = Date.now();
+  store.set("plan", plan); store.set("planT", planT);
+  updatePlanSub();
+  if (reader.plan.onChange) reader.plan.onChange();
+}
 function updatePlanSub() {
   const sub = $("plans-sub");
   if (!plan) { sub.textContent = ""; return; }
@@ -2162,7 +2169,7 @@ async function renderPlans() {
   try { P = await getJSON("study/plans.json"); } catch (e) { body.textContent = "The plans couldn't be loaded. Check your connection and try again."; return; }
   const p = plan && P.find(x => x.id === plan.id);
   if (!p) {
-    body.replaceChildren(el("p", { class: "count", text: "Choose a plan. Your progress is kept on this device." }),
+    body.replaceChildren(el("p", { class: "count", text: "Choose a plan. Your progress is kept on this device, and on all your devices when you’re signed in." }),
       el("ul", { class: "plans" }, ...P.map(x => el("li", {}, el("b", { text: x.n }), el("p", { text: x.about }),
         el("button", { class: "btn line", type: "button", text: "Start today", onclick: () => { plan = { id: x.id, start: midnight(), done: [] }; savePlan(); renderPlans(); } })))));
     return;
@@ -2194,8 +2201,8 @@ async function renderPlans() {
       el("span", {}, ...readings(refs).flatMap(([t, , i], k) => [k ? ", " : null, el("a", { href: dayHref(d, i), onclick: () => closeSheets(), text: t })]).filter(Boolean))));
   });
   kids.push(list, el("div", { class: "actions", style: "margin-top:12px" },
-    el("button", { class: "btn line", type: "button", text: "Stop this plan", onclick: () => { if (confirm(`Stop “${p.n}”? The days you’ve marked will be cleared.`)) { plan = null; store.set("plan", null); updatePlanSub(); renderPlans(); } } })),
-    el("p", { class: "count", text: `Started ${new Date(plan.start).toLocaleDateString(undefined, { day: "numeric", month: "long", year: "numeric" })}. Your progress is kept on this device.` }));
+    el("button", { class: "btn line", type: "button", text: "Stop this plan", onclick: () => { if (confirm(`Stop “${p.n}”? The days you’ve marked will be cleared.`)) { plan = null; savePlan(); renderPlans(); } } })),
+    el("p", { class: "count", text: `Started ${new Date(plan.start).toLocaleDateString(undefined, { day: "numeric", month: "long", year: "numeric" })}. Your progress is kept on this device${reader.signedIn ? " and in your account" : ""}.` }));
   body.replaceChildren(...kids);
   setTimeout(() => list.querySelector(".cur")?.scrollIntoView({ block: "center" }), 30);
 }
@@ -3473,7 +3480,7 @@ getJSON("books.json").then(list => {
   addEventListener("hashchange", route);
   route();
 }).catch(() => { $("loading").textContent = "The Bible couldn't be loaded. Check your connection and reload the page."; });
-if ("serviceWorker" in navigator && /^https?:$/.test(location.protocol) && !embedded) navigator.serviceWorker.register("sw.js?v=39").catch(() => {});
+if ("serviceWorker" in navigator && /^https?:$/.test(location.protocol) && !embedded) navigator.serviceWorker.register("sw.js?v=40").catch(() => {});
 
 /* ---------- For account.js: highlights and notes, and two of the reader's tools ---------- */
 var reader = {
@@ -3489,11 +3496,24 @@ var reader = {
     },
     onChange: null,   // account.js: told of each change made on this device
   },
+  // The reading plan: { plan, t } here, and the account's when it is newer.
+  plan: {
+    get: () => ({ plan, t: planT }),
+    apply(p, t) {
+      plan = p; planT = t;
+      store.set("plan", plan); store.set("planT", planT);
+      updatePlanSub();
+      if (!$("plans").hidden) renderPlans();
+      if (view.kind === "plan" && !$("plan-end").hidden) renderPlanEnd();
+    },
+    onChange: null,
+  },
+  signedIn: false,   // account.js sets it
   openSheet, toast,
 };
 </script>
 <script src="config.js?v=31"></script>
 <script src="share.js?v=31"></script>
-<script src="account.js?v=31"></script>
+<script src="account.js?v=32"></script>
 </body>
 </html>

@@ -1,4 +1,5 @@
-// Accounts: an optional sign-in that keeps highlights and notes the same on every device.
+// Accounts: an optional sign-in that keeps highlights, notes and the reading plan the same on
+// every device.
 //
 // Reading, highlighting and notes never need an account: they are saved in the browser first.
 // Signing in, with a link sent by email (no password), adds what this device has saved to the
@@ -19,10 +20,13 @@
 
   // { session: {access_token, refresh_token, expires_at, user: {id, email}},
   //   pulled: the server time of the newest change fetched, dirty: {verse: time changed},
-  //   last: when this device last synced }
+  //   last: when this device last synced, planDirty: the plan changed here and isn't sent yet,
+  //   planSeen: this device has synced its plan with the account at least once }
   let state = {};
   try { state = JSON.parse(localStorage.getItem(STORE)) || {}; } catch (e) { /* storage unavailable */ }
   state.dirty = state.dirty || {};
+  // Signed in before plans were kept in the account: send this device's plan once.
+  if (state.session && !state.planSeen && R.plan.get().plan) state.planDirty = true;
   const save = () => { try { localStorage.setItem(STORE, JSON.stringify(state)); } catch (e) { /* storage unavailable */ } };
   let status = "", problem = "";
 
@@ -83,6 +87,8 @@
     state.pulled = null;
     state.dirty = {};
     for (const [id, a] of Object.entries(R.annotations.all())) state.dirty[id] = a.t || Date.now();
+    state.planDirty = !!R.plan.get().plan;
+    state.planSeen = false;
     save();
     render();
     sync();
@@ -139,6 +145,7 @@
       try {
         await pull();
         await push();
+        await syncPlan();
         state.last = Date.now(); save();
         status = "ok"; problem = "";
       } catch (e) {
@@ -186,7 +193,36 @@
       save();
     }
   }
+  // The reading plan: one record, the newer winning. The first time a device meets the account's
+  // plan, if both follow the same plan, the days marked on either are kept.
+  async function syncPlan() {
+    const rows = await call("/rest/v1/plans?select=plan,updated_at");
+    const theirs = rows && rows[0], mine = R.plan.get();
+    if (theirs && theirs.updated_at > mine.t) {
+      let p = theirs.plan, t = theirs.updated_at;
+      if (!state.planSeen && p && mine.plan && p.id === mine.plan.id) {
+        p = { ...p, start: Math.min(p.start, mine.plan.start), done: [...new Set([...p.done, ...mine.plan.done])].sort((a, b) => a - b) };
+        if (p.done.length !== theirs.plan.done.length || p.start !== theirs.plan.start) { t = Date.now(); state.planDirty = true; }
+      } else state.planDirty = false;
+      R.plan.apply(p, t);
+    } else if (theirs && theirs.updated_at === mine.t) state.planDirty = false;
+    else if (!theirs && mine.plan) state.planDirty = true;
+    if (state.planDirty) {
+      const sent = R.plan.get();
+      await call("/rest/v1/rpc/push_plan", { method: "POST", body: { plan: sent.plan, updated_at: sent.t } });
+      if (R.plan.get().t === sent.t) state.planDirty = false;
+    }
+    state.planSeen = true;
+    save();
+  }
   let soon = 0;
+  R.plan.onChange = () => {
+    if (!state.session) return;
+    state.planDirty = true;
+    save();
+    clearTimeout(soon);
+    soon = setTimeout(sync, 2000);
+  };
   R.annotations.onChange = ids => {
     if (!state.session) return;
     const notes = R.annotations.all();
@@ -231,10 +267,11 @@
   const statusText = () => status === "syncing" ? "Syncing…" : status === "offline" ? "Offline: changes will sync when you're back online"
     : status === "error" ? "Couldn't sync just now. It will try again." : state.last ? `Synced ${ago(state.last)}` : "Not synced yet";
   let step = { email: "", sent: false, busy: false, confirmDelete: false };
-  const privacy = () => el("p", { class: "hint" }, "Your account holds your email address and your highlights and notes, nothing else. ",
+  const privacy = () => el("p", { class: "hint" }, "Your account holds your email address, your highlights and notes, and your reading plan, nothing else. ",
     el("a", { href: "privacy.html", text: "Privacy" }));
   function render() {
     $("open-account").hidden = false;
+    R.signedIn = !!state.session;
     $("account-sub").textContent = state.session ? statusText() : "";
     $("mine-account").textContent = state.session ? `Also kept in your account, ${state.session.user.email}. ${statusText()}.`
       : "Sign in to keep them in an account and on every device you use.";
@@ -262,7 +299,7 @@
     } else if (!step.sent) {
       const email = el("input", { type: "email", id: "account-email", autocomplete: "email", inputmode: "email", placeholder: "you@example.com", required: true, value: step.email });
       kids.push(
-        el("p", {}, "Sign in with your email to keep your highlights and notes on every device you use. We'll email you a link to sign in with: there's no password."),
+        el("p", {}, "Sign in with your email to keep your highlights, notes and reading plan on every device you use. We'll email you a link to sign in with: there's no password."),
         el("p", { class: "hint", text: "Reading never needs an account, and what you've saved on this device stays here either way." }),
         el("form", { class: "account-form", onsubmit: async ev => {
           ev.preventDefault();
