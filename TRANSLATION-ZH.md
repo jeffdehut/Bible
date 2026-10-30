@@ -205,6 +205,14 @@ Settled while drafting Numbers:
 | קְעָרָה; מִזְרָק; כַּף (Numbers 7) | 銀盤；銀碗；金碟 | |
 | חֲצֹצְרָה; תְּרוּעָה | 號筒；警號 | |
 | The priestly blessing (6:24–26) | 願耶和華賜福給你，保護你…… | Three plain lines, each opening 願耶和華. |
+| תּוּר; דִּבָּה | 窺探；壞消息 | Of the spies (Numbers 13–14). |
+| רוּחַ (given to Moses and the elders) | 靈 | Noted: *ruach*; the same word is 風 in 11:31. |
+| מַחְתָּה | 火鼎 | As in Exodus–Leviticus; noted: 「香爐」. |
+| מַטֶּה (Numbers 17) | 杖 | Noted: also means 支派. |
+| מֵי נִדָּה; פָרָה אֲדֻמָּה | 除污穢的水；紅色的母牛 | |
+| נֶאֱסַף אֶל־עַמָּיו | 歸到他的族人那裏 | Noted: died and joined his ancestors. |
+| בְּרִית מֶלַח | 鹽約 | Noted: a covenant that cannot be broken. |
+| נִכְרַת מֵעַמָּיו | 從族人中被剪除 | Notes refer to 9:13. |
 
 ## Style
 
