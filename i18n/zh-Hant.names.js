@@ -2,6 +2,8 @@
 // (public domain) spells them. Written by scripts/names_zh.py: don't edit by hand;
 // corrections go in OVERRIDES there.
 I18N.add({
+"Ephrathah":"以法他",
+"Mara":"瑪拉",
 "Rimmon":"臨門",
 "Sorek":"梭烈",
 "Sorek Valley":"梭烈谷",

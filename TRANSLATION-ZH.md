@@ -338,6 +338,35 @@ Settled while drafting Judges:
 | בְּנֵי־בְלִיַּעַל | 無賴之徒 | As Deuteronomy 13:14; *beliyya'al* noted. |
 | נְבָלָה; זִמָּה וּנְבָלָה | 醜惡的事；淫亂醜惡的事 | *nevalah* noted (19:23; 20:6). |
 
+Settled while drafting Ruth:
+
+| Source | Rendering | Notes |
+|---|---|---|
+| גֹּאֵל; גָּאַל | 至近的親屬；盡至近親屬的本分、贖 | As Leviticus 25; *go'el* noted at 2:20 with 「救贖者」. |
+| חֶסֶד | 慈愛 | The glossary note at 1:8, 2:20, 3:10. |
+| שַׁדַּי (alone) | 全能者 | Noted: *Shaddai*, meaning uncertain (1:20). |
+| כֹּה יַעֲשֶׂה יְהוָה לִי וְכֹה יֹסִיף | 願耶和華（神）重重懲罰我（你） | Oath formula; literal wording in a note (Ruth 1:17; 1 Samuel 3:17). |
+| גִּבּוֹר חַיִל; אֵשֶׁת חַיִל | 有地位的人；賢德的女子 | *chayil* noted and linked (2:1; 3:11; 4:11). |
+| לִקֵּט | 拾麥穗 | Gleaning law noted (2:2). |
+| כָּנָף (2:12; 3:9) | 翅膀；衣襟 | The one word noted. |
+| נָעֳמִי; מָרָא | 拿俄米；瑪拉 | Meanings noted: 「甜美」, 「苦」 (1:20). |
+
+Settled while drafting 1 Samuel:
+
+| Source | Rendering | Notes |
+|---|---|---|
+| יְהוָה צְבָאוֹת | 萬軍之耶和華 | *tseva'ot* noted at the first occurrence in each chapter (1:3, the first in the Bible). |
+| Hannah's song (2:1–10) | Poetry without quotation marks | 2:1 opens 哈拿禱告說：. |
+| שָׁאַל; שָׁאוּל | 求；歸給 | The play on Samuel's and Saul's names noted (1:20, 28; 2:20). |
+| מְשִׁיחוֹ (2:10, 35) | 他的受膏者 | *mashiach* noted: the king. |
+| הֵיכַל יְהוָה | 耶和華的殿 | *heikhal* noted (1:9). |
+| אֲרוֹן בְּרִית יְהוָה; אֲרוֹן הָאֱלֹהִים | 耶和華的約櫃；神的約櫃 | |
+| יֹשֵׁב הַכְּרֻבִים | 坐在基路伯上的 | Noted: or 「坐在……之間」. |
+| עֳפָלִים / טְחֹרִים | 腫瘤 | Ketiv and qere noted (5:6; 6:4); traditionally 痔瘡. |
+| אָשָׁם (1 Samuel 6) | 贖愆祭 | Noted: 賠償祭. |
+| אִי־כָבוֹד | 以迦博 | Noted: 「榮耀在哪裏？」 or 「沒有榮耀」 (4:21). |
+| Text-critical notes | 七十士譯本；4QSam-a（一份撒母耳記的死海古卷） | As the English has them. |
+
 ## Style
 
 **Characters and words.** Plain words over the Union Version's literary ones (吊下去, not 縋下來). Hong Kong standard forms: 裏 (not 裡), 着 for the particle (看着、
