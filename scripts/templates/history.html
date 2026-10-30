@@ -52,16 +52,16 @@ button { font: inherit; color: inherit; }
 .stage {
   position: fixed; left: 0; right: 0; bottom: 0; top: calc(var(--bar) + env(safe-area-inset-top, 0px)); overflow: hidden;
   background: radial-gradient(ellipse 80% 70% at 50% 45%, var(--stage-1), var(--stage-2));
-  --head: 158px;
+  --head: 172px;
 }
-@media (max-width: 760px) { .stage { --head: 212px; } }
+@media (max-width: 760px) { .stage { --head: 226px; } }
 .ui { transition: opacity 0.6s; }
 .stage:not(.ready) .ui { opacity: 0; pointer-events: none; }
 
 /* The chart, scrolling beneath the time bar */
 .scroller {
   position: absolute; inset: 0; overflow-y: auto; overflow-x: hidden; overscroll-behavior: contain;
-  padding-top: var(--head); padding-bottom: 60vh; transition: opacity 1s;
+  padding-top: calc(var(--head) + 74px); padding-bottom: 60vh; transition: opacity 1s;
 }
 .stage:not(.ready) .scroller { opacity: 0.4; }
 #chart { display: block; width: 100%; touch-action: pan-y; cursor: grab; }
@@ -72,7 +72,8 @@ button { font: inherit; color: inherit; }
 #chart .band-bg { opacity: 0.05; }
 #chart .group-label { fill: var(--muted); font: 600 10px var(--sans); letter-spacing: 0.14em; text-transform: uppercase; }
 #chart .mark { cursor: pointer; }
-#chart .mark text { font: 500 11px var(--sans); pointer-events: none; }
+#chart .mark text { font: 600 11.5px var(--sans); pointer-events: none; }
+#chart .mark path { stroke: var(--surface); stroke-width: 1.5; }
 #chart .mark.sel rect, #chart .mark.sel path { stroke: var(--ink); stroke-width: 2; stroke-dasharray: none; }
 #chart.dimmed .mark:not(.sel):not(.kin) { opacity: 0.35; }
 #chart .anchor line { stroke: var(--gold); stroke-width: 1.5; }
@@ -82,6 +83,25 @@ button { font: inherit; color: inherit; }
 :root { --halo: rgba(251, 250, 247, 0.9); }
 @media (prefers-color-scheme: dark) { :root:not([data-theme="light"]) { --halo: rgba(5, 7, 13, 0.85); } }
 :root[data-theme="dark"] { --halo: rgba(5, 7, 13, 0.85); }
+
+/* The year lens: a line through the middle of the chart, and the year it stands on. */
+.lens { position: absolute; z-index: 2; top: var(--head); bottom: 0; width: 0; border-left: 2px solid var(--gold); opacity: 0.8; pointer-events: none; box-shadow: 0 0 12px var(--gold); }
+.lens-badge {
+  position: absolute; z-index: 4; top: calc(var(--head) + 8px); transform: translateX(-50%); display: grid; justify-items: center; gap: 1px;
+  border: 1px solid color-mix(in srgb, var(--gold) 45%, var(--line)); border-radius: 14px; padding: 7px 14px 8px; cursor: pointer;
+  background: var(--chrome); backdrop-filter: blur(10px); -webkit-backdrop-filter: blur(10px); box-shadow: var(--shadow); color: var(--ink);
+}
+.lens-badge b { font: 600 22px/1.05 var(--read); font-variant-numeric: tabular-nums; }
+.lens-badge small { font: 600 10.5px/1.2 var(--sans); letter-spacing: 0.08em; text-transform: uppercase; color: var(--gold); }
+.lens-badge span { font: 600 12px/1.3 var(--sans); color: var(--lapis); }
+.lens-badge:hover { border-color: var(--gold); }
+#overview .age { cursor: pointer; }
+#overview .age rect { opacity: 0.85; }
+#overview .age text { font: 600 9.5px var(--sans); letter-spacing: 0.04em; fill: #fff; pointer-events: none; }
+#overview .age:hover rect { opacity: 1; }
+.snap .group { margin-top: 2px; }
+.snap .group h3 { display: flex; align-items: center; gap: 6px; }
+.snap .group h3 i { width: 9px; height: 9px; border-radius: 50%; background: var(--c); }
 
 /* The opening title */
 .title {
@@ -144,10 +164,10 @@ button { font: inherit; color: inherit; }
 }
 @media (max-width: 760px) { .timebar { top: 116px; } }
 @media (min-width: 761px) { body.card-open .timebar { right: 384px; } }
-.timebar .step { width: 34px; height: 76px; border: 0; background: transparent; border-radius: 10px; cursor: pointer; display: grid; place-items: center; color: var(--muted); }
+.timebar .step { width: 34px; height: 90px; border: 0; background: transparent; border-radius: 10px; cursor: pointer; display: grid; place-items: center; color: var(--muted); }
 .timebar .step:hover { background: var(--lapis-soft); color: var(--ink); }
 .timebar .step svg { width: 18px; height: 18px; }
-#overview { display: block; width: 100%; height: 44px; }
+#overview { display: block; width: 100%; height: 58px; }
 #overview .density { fill: var(--faint); opacity: 0.45; }
 #overview .tick text { fill: var(--muted); font: 500 10px var(--sans); font-variant-numeric: tabular-nums; }
 #overview .tick line { stroke: var(--line); }
@@ -267,6 +287,29 @@ button { font: inherit; color: inherit; }
 .century .st { grid-column: 2; display: inline-flex; align-items: center; gap: 6px; font-size: 12.5px; color: var(--muted); }
 .century .st i { width: 8px; height: 8px; border-radius: 50%; background: var(--c); flex: none; }
 .visually-hidden { position: absolute; width: 1px; height: 1px; overflow: hidden; clip: rect(0 0 0 0); white-space: nowrap; }
+
+/* The card slides away: on a phone, drag it down by its top to leave only that showing; on a
+   wide screen, the arrow tucks it to the side. A tap on what's left brings it back. */
+.card { transition: transform 0.3s cubic-bezier(.2, .7, .2, 1); touch-action: pan-y; }
+.card .tuck { position: absolute; top: 10px; right: 46px; width: 34px; height: 34px; border: 0; background: transparent; border-radius: 9px; cursor: pointer; display: grid; place-items: center; color: var(--muted); }
+.card .tuck:hover { background: var(--lapis-soft); }
+.card .tuck svg { transition: transform 0.3s; }
+.card.tucked { cursor: pointer; }
+.card.tucked .tuck svg { transform: rotate(180deg); }
+@media (min-width: 761px) {
+  .card.tucked { transform: translateX(calc(100% - 44px)); }
+  .card.tucked > :not(.tuck) { opacity: 0.25; }
+  .card.tucked .tuck { right: auto; left: 5px; }
+  body.card-tucked .zoom { right: 64px !important; }
+  body.card-tucked .timebar { right: 64px !important; }
+}
+@media (max-width: 760px) {
+  .card .tuck { top: 12px; }
+  .card .tuck svg { transform: rotate(90deg); }
+  .card.tucked .tuck svg { transform: rotate(-90deg); }
+  .card.tucked { transform: translateY(calc(100% - 96px)); }
+  .card .grab, .card .kicker, .card h2 { cursor: grab; touch-action: none; }
+}
 </style>
 
 <!-- APPBAR -->
@@ -319,7 +362,7 @@ button { font: inherit; color: inherit; }
       <span><svg viewBox="0 0 22 12"><path d="M11 1 16 6 11 11 6 6Z" fill="var(--faint)"/></svg>Event</span>
       <span><svg viewBox="0 0 22 12"><rect x="1" y="2" width="20" height="8" rx="2" fill="none" stroke="var(--faint)" stroke-dasharray="3 2"/></svg>Approximate dates</span>
     </div>
-    <p class="hint">Tap a color to show or hide it. Drag the chart or the window above to move through time; pinch, or hold Ctrl and scroll, to zoom.</p>
+    <p class="hint">Tap a color to show or hide it. Swipe or drag the chart, or tap an age above, to move through time; pinch, or hold Ctrl and scroll, to zoom. The gold line marks a year: tap its badge to see the world then.</p>
   </details>
 
   <div class="zoom ui">
@@ -327,6 +370,11 @@ button { font: inherit; color: inherit; }
     <button type="button" id="zoom-out" aria-label="Zoom out"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round"><path d="M5 12h14"/></svg></button>
     <button type="button" id="zoom-fit" aria-label="All of history"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M4 9V4h5M20 9V4h-5M4 15v5h5M20 15v5h-5"/></svg></button>
   </div>
+
+  <div class="lens ui" id="lens" aria-hidden="true"></div>
+  <button type="button" class="lens-badge ui" id="lens-badge" aria-label="What was happening in this year">
+    <b id="lens-year">AD 30</b><small id="lens-age"></small><span>What was happening ›</span>
+  </button>
 
   <article class="card" id="card" hidden aria-live="polite"></article>
 
@@ -344,6 +392,7 @@ button { font: inherit; color: inherit; }
     <p>History from the <b>death and resurrection of Jesus, about AD 30,</b> to today: the empires, churches, scriptures and thinkers of every continent, side by side. After Sebastian Adams’ <i>Synchronological Chart</i> of 1871, with modern dates throughout.</p>
     <p><b>Sources and method.</b> The rows are curated in this project’s <code>data/</code> tables (periods, rulers, events and lives), using the conventional dates of standard references, with Wikidata identifiers wherever an item’s English label matched exactly. Ancient and early medieval dates are often approximate and are marked so.</p>
     <p class="sub">The Bible lane shows events the Bible narrates that outside evidence dates: modern dates, with Ussher’s date in each item’s details. The chart follows the plan of Sebastian C. Adams’ <i>Synchronological Chart, or Map of History</i> (1871). Built from the project’s data by <code>scripts/connections.py</code>.</p>
+    <p class="sub">Part of the Plain English Bible, designed and orchestrated by Jeff Dehut. Questions or suggestions? <a href="mailto:info@bibledata.org">Write to info@bibledata.org</a>.</p>
   </section>
 </main>
 
@@ -351,12 +400,23 @@ button { font: inherit; color: inherit; }
 
 <!-- DATA -->
 <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/7.8.5/d3.min.js"></script>
+<script src="share.js?v=18"></script>
 <script>
 (() => {
   const $ = id => document.getElementById(id);
   const D = JSON.parse($("data").textContent);
   const PRESENT = D.present;
   const FULL = [-3200, PRESENT + 8];
+  // The ages of history, for the time bar: each a name and its years, to jump to.
+  const AGES = [
+    ["The first civilizations", -3200, -1999, "#a8763e"], ["The patriarchs", -1999, -1199, "#8f8a3c"],
+    ["Kings and prophets", -1199, -538, "#3f8a5a"], ["Persia and Greece", -538, -62, "#3c7f8f"],
+    ["Rome and the apostles", -62, 313, "#4062a8"], ["The Christian empire", 313, 600, "#6b4fa8"],
+    ["The early Middle Ages", 600, 1000, "#94468f"], ["The high Middle Ages", 1000, 1450, "#a8455e"],
+    ["Renaissance and Reformation", 1450, 1650, "#b0583a"], ["Revolutions and missions", 1650, 1900, "#9a7a2a"],
+    ["The modern world", 1900, 3000, "#57616f"],
+  ];
+  const ageOf = y => (AGES.find(([, a, z]) => y >= a && y < z) || AGES[AGES.length - 1])[0];
   const RANGES = [["Since AD 30", "AD 30", [18, PRESENT + 8]], ["Since 1500", "1500", [1480, PRESENT + 6]],
                   ["Antiquity", "Ancient", [-3150, 70]], ["All", "All", FULL]];
   const GROUP_HUE = { "Bible lands": 32, "Faith and scripture": 224, "Mediterranean and Europe": 352, "Asia": 158,
@@ -619,12 +679,29 @@ button { font: inherit; color: inherit; }
         const right = ax + textW(a.label, 11, 600) + 12 < W;
         g.select("text").attr("x", right ? ax + 6 : ax - 6).attr("y", H - 8).attr("text-anchor", right ? "start" : "end").text(a.label);
       });
+    updateLens();
+  }
+  // ---- The year lens. It stands in the middle of the part of the chart not under the card.
+  let lensYear = 30;
+  function lensX() { return (W - (!card.hidden && innerWidth > 760 && !card.classList.contains("tucked") ? 384 : 0)) / 2; }
+  function updateLens() {
+    const lx = lensX();
+    lensYear = Math.round(x.invert(lx));
+    $("lens").style.left = `${lx}px`;
+    $("lens-badge").style.left = `${lx}px`;
+    $("lens-year").textContent = yl(lensYear);
+    $("lens-age").textContent = ageOf(lensYear);
+    // An open snapshot follows the lens as the years move under it.
+    if (snapYear != null && !card.hidden && !selected && lensYear !== snapYear) {
+      clearTimeout(snapTimer);
+      snapTimer = setTimeout(() => { if (snapYear != null && !card.hidden && !selected) snapshot(lensYear, true); }, 120);
+    }
   }
   // A soft glow for the events on the dark stage, as the web's points glow.
   chart.append("defs").html('<filter id="glow" x="-1" y="-1" width="3" height="3"><feGaussianBlur stdDeviation="2.2" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>');
 
   // ---- Context strip with a window (focus and context).
-  const OH = 44;
+  const OH = 58;
   const centuries = d3.rollup(items.filter(d => d.s !== BIBLE), v => v.length, d => Math.floor(d.a / 100));
   const brush = d3.brushX().handleSize(10).on("brush end", e => {
     if (!e.sourceEvent || !e.selection) return;
@@ -643,12 +720,23 @@ button { font: inherit; color: inherit; }
     gDensity.selectAll("rect").data(bars, d => d.c).join("rect").attr("class", "density")
       .attr("x", d => xo(d.c * 100)).attr("width", d => Math.max(1, xo(d.c * 100 + 100) - xo(d.c * 100) - 1))
       .attr("y", d => 28 - 24 * Math.sqrt(d.n / maxC)).attr("height", d => 24 * Math.sqrt(d.n / maxC)).attr("rx", 1);
+    // The ages, as a ribbon under the density; a tap goes to one.
+    const gAges = overview.selectAll("g.ages").data([0]).join("g").attr("class", "ages");
+    gAges.selectAll("g.age").data(AGES).join(enter => { const g = enter.append("g").attr("class", "age"); g.append("rect"); g.append("text"); g.append("title"); return g; })
+      .on("click", (e, d) => { clearRange(); setDomain([d[1], Math.min(d[2], PRESENT + 8)], true); })
+      .each(function (d) {
+        const g = d3.select(this), x1 = xo(d[1]), x2 = xo(Math.min(d[2], FULL[1]));
+        g.select("rect").attr("x", x1 + 0.5).attr("width", Math.max(1, x2 - x1 - 1)).attr("y", 31).attr("height", 12).attr("rx", 3).attr("fill", d[3]);
+        const label = d[0].replace(/^The /, "");
+        g.select("text").attr("x", (x1 + x2) / 2).attr("y", 40).attr("text-anchor", "middle").text(textW(label, 9.5, 600) + 6 < x2 - x1 ? label : "");
+        g.select("title").text(`${d[0]}: ${yl(d[1])} – ${d[2] > PRESENT ? "today" : yl(d[2])}`);
+      });
     const labels = (OW < 500 ? [-3000, -1000, 1, 2000] : [-3000, -2000, -1000, 1, 1000, 2000]).map(y => ({ y, t: y === 1 ? "AD 1" : y < 0 ? `${-y} BC` : `${y}` }));
     gOAxis.selectAll("g").data(labels, d => d.y).join(enter => { const g = enter.append("g").attr("class", "tick"); g.append("line"); g.append("text"); return g; })
       .each(function (d) {
         const g = d3.select(this), px = xo(d.y);
-        g.select("line").attr("x1", px).attr("x2", px).attr("y1", 29).attr("y2", 32);
-        g.select("text").attr("x", px).attr("y", 41).attr("text-anchor", d.y === -3000 ? "start" : d.y === 2000 ? "end" : "middle").text(d.t);
+        g.select("line").attr("x1", px).attr("x2", px).attr("y1", 44).attr("y2", 47);
+        g.select("text").attr("x", px).attr("y", 56).attr("text-anchor", d.y === -3000 ? "start" : d.y === 2000 ? "end" : "middle").text(d.t);
       });
     overview.selectAll("line.anchor").data([30]).join("line").attr("class", "anchor").attr("x1", xo(30)).attr("x2", xo(30)).attr("y1", 2).attr("y2", 30);
     brush.extent([[0, 0], [OW, 31]]);
@@ -684,8 +772,54 @@ button { font: inherit; color: inherit; }
   }
   function hideTip() { tip.hidden = true; }
 
+
+  /* ---------- The card slides away (see the style above) ---------- */
+  (function slidingCard(card) {
+    const TUCK = '<svg viewBox="0 0 24 24" width="18" height="18" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="m9 6 6 6-6 6"/></svg>';
+    const phone = () => innerWidth <= 760;
+    const set = on => { card.classList.toggle("tucked", on); document.body.classList.toggle("card-tucked", on && !card.hidden); };
+    // Each time the card is filled, it opens fully and gets its arrow.
+    new MutationObserver(() => {
+      if (card.querySelector(":scope > .tuck")) return;
+      const b = document.createElement("button");
+      b.type = "button"; b.className = "tuck"; b.innerHTML = TUCK;
+      b.setAttribute("aria-label", "Slide the card out of the way");
+      b.onclick = e => { e.stopPropagation(); set(!card.classList.contains("tucked")); };
+      card.append(b);
+      set(false);
+    }).observe(card, { childList: true });
+    new MutationObserver(() => { if (card.hidden) set(false); }).observe(card, { attributes: true, attributeFilter: ["hidden"] });
+    let y0 = null, dy = 0;
+    card.addEventListener("pointerdown", e => {
+      if (!phone() || !e.target.closest(".grab, .kicker, h2") || e.target.closest("button, a")) return;
+      y0 = e.clientY; dy = 0; card.style.transition = "none";
+      card.setPointerCapture(e.pointerId);
+    });
+    card.addEventListener("pointermove", e => {
+      if (y0 == null) return;
+      dy = e.clientY - y0;
+      const base = card.classList.contains("tucked") ? card.offsetHeight - 96 : 0;
+      card.style.transform = `translateY(${Math.max(0, base + dy)}px)`;
+    });
+    const end = () => {
+      if (y0 == null) return;
+      card.style.transition = ""; card.style.transform = "";
+      const tucked = card.classList.contains("tucked");
+      if (!tucked && dy > 60) set(true);
+      else if (tucked && dy < -30) set(false);
+      y0 = null;
+    };
+    card.addEventListener("pointerup", end);
+    card.addEventListener("pointercancel", end);
+    // A tap on the tucked card brings it back, rather than acting on what's under the tap.
+    card.addEventListener("click", e => {
+      if (card.classList.contains("tucked") && !e.target.closest(".close, .tuck") && Math.abs(dy) < 6) { e.preventDefault(); e.stopPropagation(); set(false); }
+    }, true);
+  })(document.getElementById("card"));
+
   // ---- The card
   const ICON = {
+    share: '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="18" cy="5" r="2.5"/><circle cx="6" cy="12" r="2.5"/><circle cx="18" cy="19" r="2.5"/><path d="m8.2 10.8 7.6-4.4M8.2 13.2l7.6 4.4"/></svg>',
     read: '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linejoin="round"><path d="M12 6c-2-1.3-4.7-1.8-8-1.5v13c3.3-.3 6 .2 8 1.5 2-1.3 4.7-1.8 8-1.5v-13c-3.3-.3-6 .2-8 1.5Zm0 0v13"/></svg>',
     span: '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M4 6v12M20 6v12M7 12h10M10 9l-3 3 3 3M14 9l3 3-3 3"/></svg>',
     link: '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M14 4h6v6M20 4l-9 9M18 14v5a1 1 0 0 1-1 1H5a1 1 0 0 1-1-1V7a1 1 0 0 1 1-1h5"/></svg>',
@@ -718,7 +852,11 @@ button { font: inherit; color: inherit; }
     parts.push(el("div", { class: "actions" },
       href ? act({ href }, `Read ${ref}`, "read", true) : null,
       d.k !== "e" ? act({ onclick: () => showYears(d) }, "Show its years", "span", !href) : act({ onclick: () => showYears(d) }, "Show its time", "span", !href),
-      d.wd ? act({ href: `https://www.wikidata.org/wiki/${d.wd}`, target: "_blank", rel: "noopener" }, "Wikidata", "link") : null));
+      d.wd ? act({ href: `https://www.wikidata.org/wiki/${d.wd}`, target: "_blank", rel: "noopener" }, "Wikidata", "link") : null,
+      act({ onclick: () => window.Share?.history({
+        item: { n: d.n, when: when(d), kind: d.sync ? "Synchronism" : KIND[d.k], stream: d.s, color: colour[d.s], a: d.a, z: d.k === "e" ? d.a : d.z },
+        kin: sameTime(d).map(o => ({ n: o.n, s: o.s, color: colour[o.s], a: o.a, z: o.k === "e" ? o.a : o.z, event: o.k === "e" })),
+        url: Share.here("history.html", "#" + itemHash(d)) }) }, "Share", "share")));
     const kin = sameTime(d);
     if (kin.length) parts.push(el("div", { class: "rel" }, el("h3", { text: d.k === "e" ? "At the time" : "At the same time" }),
       el("div", { class: "list" }, kin.map(o => el("button", { type: "button", class: "node-chip", onclick: () => select(o, { reveal: true }) },
@@ -742,8 +880,16 @@ button { font: inherit; color: inherit; }
     const top = scroller.scrollTop, view = scroller.clientHeight - parseFloat(getComputedStyle(stage).getPropertyValue("--head")) - (innerWidth < 760 && !card.hidden ? scroller.clientHeight * 0.5 : 96);
     if (y < top + 10 || y > top + view - 30) scroller.scrollTo({ top: Math.max(0, y - 60), behavior: reduced ? "auto" : "smooth" });
   }
+  // A link to an item: #item=its name (and its stream, where a name is used twice).
+  const itemHash = d => "item=" + encodeURIComponent(d.n) + (items.filter(o => o.n === d.n).length > 1 ? "&in=" + encodeURIComponent(d.s) : "");
+  function fromHash() {
+    const h = new URLSearchParams(location.hash.slice(1));
+    const n = h.get("item"), st = h.get("in");
+    return n ? items.find(o => o.n === n && (!st || o.s === st)) || null : null;
+  }
   function select(d, opts = {}) {
-    selected = d; hideTip();
+    selected = d; hideTip(); snapYear = null;
+    try { history.replaceState(null, "", d ? "#" + itemHash(d) : location.pathname); } catch (e) { /* not allowed here */ }
     if (!d) { card.hidden = true; document.body.classList.remove("card-open"); draw(); return; }
     if (!groupOn.get(groupOf.get(d.s))) { groupOn.set(groupOf.get(d.s), true); renderKey(); }
     renderCard(d);
@@ -752,6 +898,66 @@ button { font: inherit; color: inherit; }
       if (z < domain[0] || d.a > domain[1]) showYears(d); else { draw(); reveal(d); }
     } else draw();
   }
+
+  // ---- The world in a year: what each part of the world was doing then, and the events near it.
+  const SHARE_ORDER = { r: 0, f: 1, e: 2, pd: 3, pe: 4 };   // people and events first on a picture
+  let snapYear = null, snapTimer = 0;
+  function snapshot(Y, follow) {
+    snapYear = Y;
+    if (!follow) { selected = null; hideTip(); draw(); }
+    const win = Math.max(3, Math.round((domain[1] - domain[0]) * 0.03));
+    const order = { pe: 0, pd: 1, r: 2, f: 3, e: 4 };
+    const parts = [
+      el("div", { class: "grab" }),
+      el("button", { class: "close", type: "button", "aria-label": "Close", onclick: () => select(null) }, svgIcon(ICON.close)),
+      el("div", { class: "kicker", text: `The world in ${yl(Y)} · ${ageOf(Y)}` }),
+      el("h2", {}, yl(Y), el("small", { text: `Events within ${win} years either side` })),
+    ];
+    const box = el("div", { class: "snap" });
+    let any = 0;
+    for (const g of groups) {
+      if (!groupOn.get(g)) continue;
+      const now = items.filter(o => groupOf.get(o.s) === g && (o.k === "e" ? Math.abs(o.a - Y) <= win : o.a <= Y && o.z >= Y))
+        .sort((p, q) => order[p.k] - order[q.k] || (p.k === "e" ? Math.abs(p.a - Y) - Math.abs(q.a - Y) : p.a - q.a)).slice(0, 10);
+      if (!now.length) continue;
+      any += now.length;
+      box.append(el("div", { class: "rel group" }, el("h3", {}, el("i", { style: `--c:${groupColour(g)}` }), g),
+        el("div", { class: "list" }, now.map(o => el("button", { type: "button", class: "node-chip", onclick: () => select(o, { reveal: true }) },
+          dotFor(o), o.n, el("small", { text: o.k === "e" ? ylShort(o.a) : o.s }))))));
+    }
+    parts.push(any ? box : el("p", { class: "meta", text: "Nothing in this chart for that year. Move on a little." }));
+    parts.push(el("div", { class: "actions" }, act({ onclick: () => window.Share?.moment({ year: yl(Y), age: ageOf(Y),
+      groups: groups.filter(g => groupOn.get(g)).map(g => ({ name: g, color: groupColour(g),
+        items: items.filter(o => groupOf.get(o.s) === g && (o.k === "e" ? Math.abs(o.a - Y) <= win : o.a <= Y && o.z >= Y))
+          .sort((p, q) => SHARE_ORDER[p.k] - SHARE_ORDER[q.k]).slice(0, 5).map(o => o.n) })).filter(x => x.items.length),
+      url: Share.here("history.html", "#year=" + Y) }) }, "Share this moment", "share", true)));
+    card.replaceChildren(...parts);
+    card.hidden = false; card.scrollTop = 0;
+    document.body.classList.add("card-open");
+    try { history.replaceState(null, "", "#year=" + Y); } catch (e) { /* not allowed here */ }
+    if (follow) return;
+    // The card takes room on a wide screen: keep the year under the lens.
+    requestAnimationFrame(() => { chart.call(zoom.translateBy, (lensX() - x(Y)) / d3.zoomTransform(chart.node()).k, 0); updateLens(); });
+  }
+  $("lens-badge").onclick = () => snapshot(lensYear);
+
+  // ---- One finger moves through time on a touch screen: across, the years; up and down, the streams.
+  (() => {
+    let sw = null;
+    const node = chart.node();
+    node.addEventListener("pointerdown", e => { if (e.pointerType === "touch" && e.isPrimary) sw = { x: e.clientX, y: e.clientY, id: e.pointerId, across: null }; });
+    node.addEventListener("pointermove", e => {
+      if (!sw || e.pointerId !== sw.id) return;
+      const dx = e.clientX - sw.x, dy = e.clientY - sw.y;
+      if (sw.across == null && Math.hypot(dx, dy) > 8) sw.across = Math.abs(dx) > Math.abs(dy);
+      if (!sw.across) return;
+      chart.call(zoom.translateBy, dx / d3.zoomTransform(node).k, 0);
+      sw.x = e.clientX; sw.y = e.clientY;
+      clearRange(); scheduleChronicle();
+    });
+    const end = () => { sw = null; };
+    node.addEventListener("pointerup", end); node.addEventListener("pointercancel", end);
+  })();
 
   // ---- Chronicle of what is in view
   const chron = $("chronicle"), chronSub = $("chron-sub");
@@ -872,6 +1078,10 @@ button { font: inherit; color: inherit; }
     $("title").classList.add("gone");
     setTimeout(() => { $("title").hidden = true; }, 1000);
     stage.classList.add("ready");
+    const linked = fromHash();
+    if (linked) { select(linked); showYears(linked); return; }
+    const y = Number(new URLSearchParams(location.hash.slice(1)).get("year"));
+    if (y) { setDomain([y - 60, y + 60], true, 1400); setTimeout(() => snapshot(y), reduced ? 0 : 1500); return; }
     rangeButtons[0].setAttribute("aria-pressed", "true");
     setDomain(RANGES[0][2], true, 1400);
   }

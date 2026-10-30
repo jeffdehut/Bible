@@ -135,6 +135,14 @@ main { max-width: 680px; margin-inline: auto; padding-block: 28px 120px; }
 .v[data-h="pink"] { background: var(--hl-pink); }
 .v[data-h="orange"] { background: var(--hl-orange); }
 .v.flash { animation: flash 1.6s ease-out; }
+mark.hlp { color: inherit; border-radius: 3px; padding: 0.04em 0; box-decoration-break: clone; -webkit-box-decoration-break: clone; }
+mark.hlp[data-c="yellow"] { background: var(--hl-yellow); }
+mark.hlp[data-c="green"] { background: var(--hl-green); }
+mark.hlp[data-c="blue"] { background: var(--hl-blue); }
+mark.hlp[data-c="pink"] { background: var(--hl-pink); }
+mark.hlp[data-c="orange"] { background: var(--hl-orange); }
+.hl-bar { position: fixed; z-index: 12; display: flex; gap: 6px; padding: 6px; border-radius: 99px; background: var(--raised); border: 1px solid var(--line); box-shadow: var(--shadow); }
+.hl-bar .swatch { width: 30px; height: 30px; }
 @keyframes flash { 0%, 30% { background: color-mix(in srgb, var(--gold) 28%, transparent); } }
 .vn { font: 600 0.58em/1 var(--sans); color: var(--gold); vertical-align: 0.55em; margin: 0 0.18em 0 0.1em; font-variant-numeric: tabular-nums; }
 .vn.title { font-style: italic; }
@@ -184,6 +192,13 @@ main { max-width: 680px; margin-inline: auto; padding-block: 28px 120px; }
   }
   .sheet.dialog .grab { display: none; }
 }
+/* A sheet with a list: its title, tabs and search stay put, and only the list scrolls. */
+.sheet.split { display: flex; flex-direction: column; overflow: hidden; }
+.sheet.split > .scroll { flex: 1 1 auto; min-height: 0; overflow-y: auto; overscroll-behavior: contain; margin: 8px calc(-1 * max(16px, env(safe-area-inset-right, 0px))) 0 calc(-1 * max(16px, env(safe-area-inset-left, 0px))); padding: 0 max(16px, env(safe-area-inset-right, 0px)) max(20px, env(safe-area-inset-bottom, 0px)) max(16px, env(safe-area-inset-left, 0px)); }
+.sheet.split .sheet-head { position: static; }
+.sheet.split > :not(.scroll) { flex: none; }
+@media (min-width: 720px) { .sheet.split.dialog { height: calc(100vh - var(--bar) - 48px); } }
+@media (max-width: 719px) { .sheet.split { height: 78vh; } }
 .section { margin-top: 16px; }
 .section > h3 { margin: 0 0 8px; font: 600 12px/1.2 var(--sans); letter-spacing: 0.1em; text-transform: uppercase; color: var(--muted); }
 .swatches { display: flex; flex-wrap: wrap; gap: 8px; align-items: center; }
@@ -258,9 +273,22 @@ textarea { min-height: 88px; resize: vertical; }
 /* Topics and dictionary */
 #study .tabs { margin-bottom: 10px; }
 #study-back { display: none; }
-#study.entry #study-back { display: inline-grid; }
-#study.entry .tabs, #study.entry #study-q, #study.entry #study-list, #study.entry #study-count { display: none; }
+#study.entry #study-back, #study.lettered #study-back { display: inline-grid; }
+#study.entry .tabs, #study.entry #study-q, #study.entry #study-list, #study.entry #study-count, #study.entry #study-grid { display: none; }
 #study:not(.entry) #study-entry { display: none; }
+/* Letters, as the book picker's chapters: a grid to choose from, and a bar to switch. */
+.letters { display: grid; grid-template-columns: repeat(auto-fill, minmax(52px, 1fr)); gap: 6px; margin: 10px 0 0; padding: 0; list-style: none; }
+.letters button {
+  width: 100%; aspect-ratio: 1.15; border: 1px solid var(--line); background: var(--surface); border-radius: 10px; cursor: pointer;
+  font: 500 19px/1 var(--read); color: var(--ink); display: grid; place-items: center; gap: 2px;
+}
+.letters button small { font: 500 10.5px/1 var(--sans); color: var(--muted); }
+.letters button:hover { border-color: var(--lapis); }
+.letter-bar { display: flex; gap: 4px; overflow-x: auto; scrollbar-width: none; margin-top: 8px; padding-bottom: 2px; }
+.letter-bar::-webkit-scrollbar { display: none; }
+.letter-bar button { flex: none; min-width: 34px; height: 34px; border: 1px solid var(--line); background: var(--surface); border-radius: 9px; cursor: pointer; font: 600 14px/1 var(--sans); color: var(--ink); padding: 0 8px; }
+.letter-bar button[aria-pressed="true"] { background: var(--lapis); border-color: var(--lapis); color: var(--surface); }
+#study.entry .letter-bar { display: none; }
 .study-list { list-style: none; margin: 10px 0 0; padding: 0; columns: 2 220px; column-gap: 12px; }
 .study-list li { break-inside: avoid; }
 .study-list button {
@@ -539,6 +567,7 @@ if (/(^#|&)(access_token|error)=/.test(location.hash)) {
     <textarea id="note" placeholder="Write a note on this verse. It's saved on this device."></textarea>
   </div>
   <div class="section actions">
+    <button class="btn line" type="button" id="share-verse"><svg class="icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="18" cy="5" r="2.5"/><circle cx="6" cy="12" r="2.5"/><circle cx="18" cy="19" r="2.5"/><path d="m8.2 10.8 7.6-4.4M8.2 13.2l7.6 4.4"/></svg>Share verse</button>
     <button class="btn line" type="button" id="copy-verse"><svg class="icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linejoin="round"><rect x="8" y="8" width="12" height="12" rx="2"/><path d="M16 8V5a1 1 0 0 0-1-1H5a1 1 0 0 0-1 1v10a1 1 0 0 0 1 1h3"/></svg>Copy verse</button>
   </div>
 </section>
@@ -550,12 +579,13 @@ if (/(^#|&)(access_token|error)=/.test(location.hash)) {
   <p class="prose" id="fn-text" style="font-family:var(--read);font-size:17px"></p>
 </section>
 
-<section class="sheet dialog" id="picker" hidden aria-labelledby="picker-title">
+<section class="sheet dialog split" id="picker" hidden aria-labelledby="picker-title">
   <div class="grab"></div>
   <div class="sheet-head"><h2 id="picker-title">Books</h2><button class="btn" type="button" data-close aria-label="Close"><svg class="icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M6 6l12 12M18 6 6 18"/></svg></button></div>
   <label class="eyebrow" for="goto">Go to a passage</label>
   <input type="text" id="goto" placeholder="For example: jn 3:16, ps 23, 1 cor 13" autocomplete="off" enterkeyhint="go" style="margin-top:6px">
   <p class="hint" id="goto-hint"></p>
+  <div class="scroll" id="picker-scroll">
   <div id="recent-wrap" class="group-label" hidden><p class="eyebrow" style="margin-bottom:6px">Recent</p><div class="recent" id="recent"></div></div>
   <div id="chapters-wrap" hidden>
     <p class="eyebrow group-label" id="chapters-label"></p>
@@ -568,18 +598,19 @@ if (/(^#|&)(access_token|error)=/.test(location.hash)) {
     </div>
   </div>
   <ol class="books" id="books"></ol>
+  </div>
 </section>
 
-<section class="sheet dialog" id="search" hidden aria-labelledby="search-title">
+<section class="sheet dialog split" id="search" hidden aria-labelledby="search-title">
   <div class="grab"></div>
   <div class="sheet-head"><h2 id="search-title">Search the Bible</h2><button class="btn" type="button" data-close aria-label="Close"><svg class="icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M6 6l12 12M18 6 6 18"/></svg></button></div>
   <input type="search" id="q" placeholder="Words or a reference" autocomplete="off" enterkeyhint="search" aria-label="Search">
   <p class="count" id="q-count">Search every verse of the translation. Put a phrase in quotes to search for it exactly.</p>
   <div class="strip" id="q-strip" hidden></div>
-  <ol class="results" id="results"></ol>
+  <div class="scroll"><ol class="results" id="results"></ol></div>
 </section>
 
-<section class="sheet dialog" id="study" hidden aria-labelledby="study-title">
+<section class="sheet dialog split" id="study" hidden aria-labelledby="study-title">
   <div class="grab"></div>
   <div class="sheet-head">
     <button class="btn" type="button" id="study-back" aria-label="Back to the list"><svg class="icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="m15 5-7 7 7 7"/></svg></button>
@@ -591,12 +622,16 @@ if (/(^#|&)(access_token|error)=/.test(location.hash)) {
     <button type="button" role="tab" id="study-tab-d" aria-selected="false">Dictionary</button>
   </div>
   <input type="search" id="study-q" placeholder="Find a topic: faith, prayer, Abraham" autocomplete="off" enterkeyhint="search" aria-label="Find">
-  <p class="count" id="study-count"></p>
-  <ol class="study-list" id="study-list"></ol>
-  <article class="study-entry" id="study-entry" aria-live="polite"></article>
+  <div class="letter-bar" id="study-letters" role="group" aria-label="Letters" hidden></div>
+  <div class="scroll" id="study-scroll">
+    <p class="count" id="study-count"></p>
+    <ol class="letters" id="study-grid"></ol>
+    <ol class="study-list" id="study-list"></ol>
+    <article class="study-entry" id="study-entry" aria-live="polite"></article>
+  </div>
 </section>
 
-<section class="sheet dialog" id="parallel" hidden aria-labelledby="par-title">
+<section class="sheet dialog split" id="parallel" hidden aria-labelledby="par-title">
   <div class="grab"></div>
   <div class="sheet-head">
     <button class="btn" type="button" id="par-back" aria-label="Back to the list"><svg class="icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="m15 5-7 7 7 7"/></svg></button>
@@ -607,15 +642,17 @@ if (/(^#|&)(access_token|error)=/.test(location.hash)) {
     <button type="button" role="tab" id="par-tab-g" aria-selected="true">The Gospels</button>
     <button type="button" role="tab" id="par-tab-k" aria-selected="false">Kings and Chronicles</button>
   </div>
-  <div class="par-list" id="par-list"></div>
-  <div class="par-head" id="par-head"></div>
-  <div class="cols" id="par-cols"></div>
+  <div class="scroll" id="par-scroll">
+    <div class="par-list" id="par-list"></div>
+    <div class="par-head" id="par-head"></div>
+    <div class="cols" id="par-cols"></div>
+  </div>
 </section>
 
-<section class="sheet dialog" id="plans" hidden aria-labelledby="plans-title">
+<section class="sheet dialog split" id="plans" hidden aria-labelledby="plans-title">
   <div class="grab"></div>
   <div class="sheet-head"><h2 id="plans-title">Reading plans</h2><button class="btn" type="button" data-close aria-label="Close"><svg class="icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M6 6l12 12M18 6 6 18"/></svg></button></div>
-  <div id="plans-body"></div>
+  <div class="scroll" id="plans-body"></div>
 </section>
 
 <section class="sheet dialog" id="settings" hidden aria-labelledby="settings-title">
@@ -655,6 +692,7 @@ if (/(^#|&)(access_token|error)=/.test(location.hash)) {
     <li><button type="button" id="open-plans"><span>Reading plans<small id="plans-sub">Through the Bible in a year, and shorter plans</small></span></button></li>
     <li><button type="button" id="open-parallels"><span>Parallel passages<small>The Gospels side by side; Kings beside Chronicles</small></span></button></li>
     <li><button type="button" id="open-study"><span>Topics and dictionary<small>Nave’s topics and Easton’s Bible dictionary</small></span></button></li>
+    <li><button type="button" id="open-project"><span>About this project<small>Who made it, feedback and support</small></span></button></li>
     <li><button type="button" id="open-about"><span>About this translation<small>A first draft, awaiting review</small></span></button></li>
     <li><a href="maps/index.html"><span>Bible maps<small>Eight sheets, from the patriarchs to Paul</small></span></a></li>
     <li><a href="genealogy.html"><span>The Generations<small>From Adam to Jesus, and every family</small></span></a></li>
@@ -688,6 +726,23 @@ if (/(^#|&)(access_token|error)=/.test(location.hash)) {
   <div class="grab"></div>
   <div class="sheet-head"><h2 id="account-title">Sync across devices</h2><button class="btn" type="button" data-close aria-label="Close"><svg class="icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M6 6l12 12M18 6 6 18"/></svg></button></div>
   <div id="account-body"></div>
+</section>
+
+<section class="sheet dialog" id="project" hidden aria-labelledby="project-title">
+  <div class="grab"></div>
+  <div class="sheet-head"><h2 id="project-title">About this project</h2><button class="btn" type="button" data-close aria-label="Close"><svg class="icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M6 6l12 12M18 6 6 18"/></svg></button></div>
+  <div class="prose">
+    <p><strong>Plain English Bible</strong> brings together a new, openly licensed translation of the whole Bible from the Hebrew, Aramaic and Greek, with the original words beneath it, maps, a genealogy, a timeline of world history, and the web of connections that runs through Scripture: made to be read on a phone, free to everyone, and open for anyone to reuse.</p>
+    <p>Designed and orchestrated by <strong>Jeff Dehut</strong>. The translation and the tools were drafted with the help of AI (Claude) and are being reviewed; every source and license is credited where it is used.</p>
+    <h3>Questions and suggestions</h3>
+    <p>Found a mistake, have a question, or an idea for the project? We read every message.</p>
+    <p class="actions"><a class="btn solid" id="feedback-link" href="mailto:info@bibledata.org"><svg class="icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="5" width="18" height="14" rx="2"/><path d="m3 7 9 6 9-6"/></svg>Send feedback</a></p>
+    <div id="support-wrap" hidden>
+      <h3>Support this project</h3>
+      <p>The site has no ads and never will, and everything in it is free to use. If it has helped you, you can help keep it growing: hosting, review of the translation, and new languages.</p>
+      <p class="actions"><a class="btn line" id="support-link" href="#" target="_blank" rel="noopener"><svg class="icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 20s-7-4.4-7-10a4 4 0 0 1 7-2.6A4 4 0 0 1 19 10c0 5.6-7 10-7 10Z"/></svg>Support this project</a></p>
+    </div>
+  </div>
 </section>
 
 <section class="sheet dialog" id="about" hidden aria-labelledby="about-title">
@@ -884,6 +939,7 @@ async function show(b, c, v, opts = {}) {
     const a = notes[id];
     if (a && a.h) span.dataset.h = a.h;
     if (a && a.n) span.classList.add("has-note");
+    if (a && a.r) markRanges(span, a.r);
     p.append(span);
     if (row[3] && row[3].p) { text.append(p); p = el("p"); }
   }
@@ -1071,6 +1127,8 @@ async function openVerse(span) {
   $("note").value = a.n || "";
   $("note").oninput = () => { setNote(id, span, $("note").value); };
   $("copy-verse").onclick = () => copyVerse(row);
+  $("share-verse").onclick = () => window.Share?.verse({ ref: `${bookName} ${c}:${n}`, text: plainVerse(row[1]),
+    note: "Open Plain English Translation · draft", url: Share.here("index.html", refHash(b, c, n)).replace(/index\.html#/, "#") });
   // Words.
   $("word").hidden = true;
   const inter = $("inter");
@@ -1140,7 +1198,8 @@ function setNote(id, span, text) {
   }, 300);
 }
 function saveAnnotation(id, a) {
-  if (a.h || a.n) { a.t = Date.now(); notes[id] = a; } else delete notes[id];
+  if (a.r && !a.r.length) delete a.r;
+  if (a.h || a.n || a.r) { a.t = Date.now(); notes[id] = a; } else delete notes[id];
   store.set("annotations", notes);
   reader.annotations.onChange?.([id]);
 }
@@ -1175,7 +1234,7 @@ function parseRef(ref) {
   if (m[4]) label += m[5] ? `–${m[4]}:${m[5]}` : v ? `–${m[4]}` : `–${m[4]}`;
   return { b, c, v, label };
 }
-let study = { k: "t", i: null, back: [] };
+let study = { k: "t", i: null, back: [], letter: null };
 function openStudy(k, i) {
   study.k = k;
   study.back = [];
@@ -1183,14 +1242,16 @@ function openStudy(k, i) {
   if (i == null) { study.i = null; renderStudy(); } else showStudyEntry(k, i);
 }
 function setStudyTab(k) {
-  study.k = k; study.i = null;
-  $("study-tab-t").setAttribute("aria-selected", String(k === "t"));
-  $("study-tab-d").setAttribute("aria-selected", String(k === "d"));
-  $("study-q").placeholder = STUDY_KIND[k].hint;
+  study.k = k; study.i = null; study.letter = null;
   renderStudy();
 }
+// The letter a name is filed under: its first letter, without accents.
+const letterOf = n => (normName(n).match(/[a-z]/) || ["#"])[0].toUpperCase();
+// The list: a grid of letters to begin with; a letter's names once one is chosen (with a bar to
+// switch letters); or, while searching, the names that match.
 async function renderStudy() {
-  $("study").classList.remove("entry");
+  const sheet = $("study");
+  sheet.classList.remove("entry");
   $("study-title").textContent = "Topics and dictionary";
   for (const k of ["t", "d"]) $("study-tab-" + k).setAttribute("aria-selected", String(study.k === k));
   $("study-q").placeholder = STUDY_KIND[study.k].hint;
@@ -1198,18 +1259,38 @@ async function renderStudy() {
   try { names = await getJSON(STUDY_KIND[study.k].index); }
   catch (e) { $("study-count").textContent = "This list couldn't be loaded. Check your connection and try again."; return; }
   const q = normName($("study-q").value.trim());
-  let hits = names.map((n, i) => [n, i]);
+  const counts = {};
+  for (const n of names) counts[letterOf(n)] = (counts[letterOf(n)] || 0) + 1;
+  const letters = Object.keys(counts).sort();
+  const grid = $("study-grid"), list = $("study-list"), bar = $("study-letters");
+  const noun = study.k === "t" ? "topics" : "entries";
+  const item = ([n, i]) => el("li", {}, el("button", { type: "button", text: n, onclick: () => showStudyEntry(study.k, i, true) }));
+  const pick = L => { study.letter = L; renderStudy(); $("study-scroll").scrollTop = 0; };
   if (q) {
-    hits = hits.map(([n, i]) => { const s = normName(n); return [n, i, s === q ? 0 : s.startsWith(q) ? 1 : s.includes(q) ? 2 : 3]; })
+    const hits = names.map((n, i) => { const s = normName(n); return [n, i, s === q ? 0 : s.startsWith(q) ? 1 : s.includes(q) ? 2 : 3]; })
       .filter(h => h[2] < 3).sort((a, b) => a[2] - b[2] || a[0].localeCompare(b[0]));
+    const LIMIT = 300;
+    $("study-count").textContent = `${hits.length} ${hits.length === 1 ? STUDY_KIND[study.k].noun : noun} found` + (hits.length > LIMIT ? `; the first ${LIMIT} are shown` : "");
+    grid.replaceChildren(); bar.hidden = true; sheet.classList.remove("lettered");
+    list.replaceChildren(...hits.slice(0, LIMIT).map(item));
+    return;
   }
-  const LIMIT = 300;
-  $("study-count").textContent = q ? `${hits.length} ${hits.length === 1 ? STUDY_KIND[study.k].noun : study.k === "t" ? "topics" : "entries"} found` +
-    (hits.length > LIMIT ? `; the first ${LIMIT} are shown` : "")
-    : study.k === "t" ? `${names.length.toLocaleString("en")} topics from Nave’s Topical Bible, each with the verses on it.`
-    : `${names.length.toLocaleString("en")} entries from Easton’s Bible Dictionary.`;
-  $("study-list").replaceChildren(...hits.slice(0, LIMIT).map(([n, i]) =>
-    el("li", {}, el("button", { type: "button", text: n, onclick: () => showStudyEntry(study.k, i, true) }))));
+  if (!study.letter) {
+    $("study-count").textContent = study.k === "t" ? `${names.length.toLocaleString("en")} topics from Nave’s Topical Bible, each with the verses on it. Choose a letter.`
+      : `${names.length.toLocaleString("en")} entries from Easton’s Bible Dictionary. Choose a letter.`;
+    list.replaceChildren(); bar.hidden = true; sheet.classList.remove("lettered");
+    grid.replaceChildren(...letters.map(L => el("li", {}, el("button", { type: "button", "aria-label": `${L}: ${counts[L]} ${noun}`, onclick: () => pick(L) },
+      L, el("small", { text: counts[L] })))));
+    return;
+  }
+  const L = study.letter;
+  const mine = names.map((n, i) => [n, i]).filter(([n]) => letterOf(n) === L);
+  $("study-count").textContent = `${mine.length} ${mine.length === 1 ? STUDY_KIND[study.k].noun : noun} under ${L}`;
+  grid.replaceChildren(); sheet.classList.add("lettered");
+  bar.replaceChildren(...letters.map(x => el("button", { type: "button", "aria-pressed": String(x === L), text: x, onclick: () => pick(x) })));
+  bar.hidden = false;
+  bar.querySelector("[aria-pressed=true]")?.scrollIntoView({ inline: "center", block: "nearest" });
+  list.replaceChildren(...mine.map(item));
 }
 // A verse's text, for a preview under a reference.
 async function verseText(b, c, v) {
@@ -1307,7 +1388,7 @@ async function showStudyEntry(k, i, push, hint) {
   }
   if (k === "t" && !own && !e.see && !e.gone) kids.push(el("p", { class: "count", text: "Nave’s gives no verses or cross-references for this topic." }));
   box.replaceChildren(...kids);
-  $("study").scrollTop = 0;
+  $("study-scroll").scrollTop = 0;
   // Opened from a cross-reference to a part of the topic: go to that part.
   if (hint) {
     const want = normName(hint).replace(/[^a-z ]/g, "");
@@ -1315,15 +1396,17 @@ async function showStudyEntry(k, i, push, hint) {
       || [...box.querySelectorAll(".sub > p")].find(p => normName(p.textContent).includes(want))
       || [...box.querySelectorAll(".sub > p")].find(p => { const ws = new Set(normName(p.textContent).replace(/[^a-z ]/g, " ").split(/\s+/)); return want.split(" ").every(w => ws.has(w)); });
     if (head) {
-      const sheet = $("study");   // clear of the sheet's sticky header
-      sheet.scrollTop += head.getBoundingClientRect().top - sheet.getBoundingClientRect().top - $("study").querySelector(".sheet-head").offsetHeight - 16;
+      const box2 = $("study-scroll");
+      box2.scrollTop += head.getBoundingClientRect().top - box2.getBoundingClientRect().top - 12;
       head.classList.add("flash");
     }
   }
 }
 $("study-back").onclick = () => {
   const prev = study.back.pop();
-  if (prev) showStudyEntry(prev[0], prev[1]); else { study.i = null; renderStudy(); }
+  if (prev) showStudyEntry(prev[0], prev[1]);
+  else if (study.i != null) { study.i = null; renderStudy(); }
+  else { study.letter = null; renderStudy(); }   // from a letter's list back to the letters
 };
 $("study-tab-t").onclick = () => setStudyTab("t");
 $("study-tab-d").onclick = () => setStudyTab("d");
@@ -1422,7 +1505,7 @@ async function openParallels(i, here) {
         el("a", { href: refHash(r.b, r.c1, r.v1 || undefined), onclick: () => { closeSheets(); closeVerse(); }, text: "Open →" })), p);
     } catch (e) { col.replaceChildren(el("p", { class: "count", text: "This passage couldn't be loaded." })); }
   });
-  $("parallel").scrollTop = 0;
+  $("par-scroll").scrollTop = 0;
 }
 async function renderParList() {
   $("par-title").textContent = "Parallel passages";
@@ -1915,6 +1998,108 @@ function toast(msg, ms = 2200) {
   const t = $("toast"); t.textContent = msg; t.hidden = false;
   clearTimeout(toastTimer); toastTimer = setTimeout(() => { t.hidden = true; }, ms);
 }
+/* ---------- Highlighting part of a verse ---------- */
+// A highlight on part of a verse is stored with the verse as [start, end, color], counting the
+// characters of its words as the reader shows them (not the verse number or note letters), so
+// the same words are marked on every device. Selecting words in the text shows a color bar.
+function countedText(span) {
+  const out = [];
+  const walk = document.createTreeWalker(span, NodeFilter.SHOW_TEXT, { acceptNode: n => n.parentElement.closest(".vn, .fn, .missing") ? NodeFilter.FILTER_REJECT : NodeFilter.FILTER_ACCEPT });
+  for (let n = walk.nextNode(); n; n = walk.nextNode()) out.push(n);
+  return out;
+}
+function unmarkRanges(span) {
+  for (const m of span.querySelectorAll("mark.hlp")) m.replaceWith(...m.childNodes);
+  span.normalize();
+}
+function markRanges(span, ranges) {
+  for (const [s, e, c] of ranges) {
+    let at = 0;
+    for (const node of countedText(span)) {
+      const len = node.data.length, a = Math.max(s, at), z = Math.min(e, at + len);
+      if (a < z) {
+        let mid = node;
+        if (a > at) mid = mid.splitText(a - at);
+        if (z < at + len) mid.splitText(z - a);
+        const m = el("mark", { class: "hlp", "data-c": c });
+        mid.replaceWith(m); m.append(mid);
+      }
+      at += len;
+    }
+  }
+}
+// Where a selection boundary falls in a verse, in counted characters.
+function offsetIn(span, node, off) {
+  const point = document.createRange(); point.setStart(node, off); point.collapse(true);
+  let at = 0;
+  for (const t of countedText(span)) {
+    if (t === node) return at + off;
+    if (point.comparePoint(t, 0) > 0) return at;   // this text begins after the boundary
+    at += t.data.length;
+  }
+  return at;
+}
+function selectedVerses() {
+  const sel = getSelection();
+  if (!sel.rangeCount || sel.isCollapsed) return [];
+  const r = sel.getRangeAt(0);
+  if (!$("text").contains(r.commonAncestorContainer)) return [];
+  const out = [];
+  for (const span of $("text").querySelectorAll(".v")) {
+    if (!r.intersectsNode(span)) continue;
+    const total = countedText(span).reduce((t, n) => t + n.data.length, 0);
+    const s = span.contains(r.startContainer) ? offsetIn(span, r.startContainer, r.startOffset) : 0;
+    const e = span.contains(r.endContainer) ? offsetIn(span, r.endContainer, r.endOffset) : total;
+    if (e > s) out.push([span, s, e]);
+  }
+  return out;
+}
+function highlightSelection(color) {
+  const { b, c } = cur;
+  const touched = [];
+  for (const [span, s, e] of selectedVerses()) {
+    const id = `${b.osis}.${c}.${span.dataset.v}`;
+    const a = notes[id] || {};
+    // What was marked here before gives way; then the new color, and like neighbors join up.
+    let rs = [];
+    for (const [x, y, k] of a.r || []) {
+      if (y <= s || x >= e) rs.push([x, y, k]);
+      else { if (x < s) rs.push([x, s, k]); if (y > e) rs.push([e, y, k]); }
+    }
+    if (color) rs.push([s, e, color]);
+    rs.sort((p, q) => p[0] - q[0]);
+    rs = rs.reduce((acc, r) => { const l = acc[acc.length - 1]; if (l && l[2] === r[2] && l[1] >= r[0]) l[1] = Math.max(l[1], r[1]); else acc.push(r); return acc; }, []);
+    const words = countedText(span).map(n => n.data).join("");
+    rs = rs.filter(([x, y]) => words.slice(x, y).trim());   // a leftover space isn't worth keeping
+    a.r = rs;
+    saveAnnotation(id, a);
+    unmarkRanges(span); if (a.r) markRanges(span, a.r);
+    touched.push(id);
+  }
+  getSelection().removeAllRanges();
+  $("hl-bar").hidden = true;
+  if (touched.length) toast(color ? "Highlighted" : "Highlight removed");
+}
+const hlBar = el("div", { class: "hl-bar", id: "hl-bar", hidden: true, role: "toolbar", "aria-label": "Highlight the selected words" });
+for (const h of HL) hlBar.append(el("button", { type: "button", class: "swatch", style: `background:var(--hl-${h})`, "aria-label": "Highlight in " + h, onmousedown: e => e.preventDefault(), onclick: () => highlightSelection(h) }));
+hlBar.append(el("button", { type: "button", class: "swatch none", "aria-label": "Remove highlighting", onmousedown: e => e.preventDefault(), onclick: () => highlightSelection(null) }));
+document.body.append(hlBar);
+let hlTimer = 0;
+document.addEventListener("selectionchange", () => {
+  clearTimeout(hlTimer);
+  hlTimer = setTimeout(() => {
+    const vs = selectedVerses();
+    if (!vs.length) { hlBar.hidden = true; return; }
+    const rect = getSelection().getRangeAt(0).getBoundingClientRect();
+    hlBar.hidden = false;
+    // Above the words, or below them on touch screens, where the system's own menu sits above.
+    const below = matchMedia("(pointer: coarse)").matches;
+    const top = below ? rect.bottom + 12 : rect.top - hlBar.offsetHeight - 10;
+    hlBar.style.top = `${Math.max(8, Math.min(innerHeight - hlBar.offsetHeight - 8, top))}px`;
+    hlBar.style.left = `${Math.max(8, Math.min(innerWidth - hlBar.offsetWidth - 8, rect.left + rect.width / 2 - hlBar.offsetWidth / 2))}px`;
+  }, 180);
+});
+
 $("text").addEventListener("click", ev => {
   const fn = ev.target.closest(".fn");
   if (fn) {
@@ -1938,6 +2123,16 @@ $("open-settings").onclick = () => openSheet("settings");
 $("open-menu").onclick = () => openSheet("menu");
 $("open-mine").onclick = () => { renderMine(); $("backup-box").hidden = true; openSheet("mine"); };
 $("open-about").onclick = () => openSheet("about");
+$("open-project").onclick = () => openSheet("project");
+// Feedback and support, from config.js.
+// config.js loads after this script, so read it once the page has loaded.
+addEventListener("DOMContentLoaded", () => {
+  const cfg = window.SITE_CONFIG || {};
+  const ref = cur => (cur ? ` (${cur.b.osis === "Ps" ? "Psalm" : cur.b.n} ${cur.c})` : "");
+  if (cfg.feedback) $("feedback-link").onclick = () => { $("feedback-link").href = `mailto:${cfg.feedback}?subject=${encodeURIComponent("Plain English Bible" + ref(cur))}`; };
+  else $("feedback-link").hidden = true;
+  if (cfg.support) { $("support-link").href = cfg.support; $("support-wrap").hidden = false; }
+});
 $("home").onclick = ev => { ev.preventDefault(); openPicker(); };
 $("scrim").onclick = closeSheets;
 $("verse-scrim").onclick = closeVerse;
@@ -1981,15 +2176,15 @@ getJSON("books.json").then(list => {
   addEventListener("hashchange", route);
   route();
 }).catch(() => { $("loading").textContent = "The Bible couldn't be loaded. Check your connection and reload the page."; });
-if ("serviceWorker" in navigator && /^https?:$/.test(location.protocol) && !embedded) navigator.serviceWorker.register("sw.js?v=15").catch(() => {});
+if ("serviceWorker" in navigator && /^https?:$/.test(location.protocol) && !embedded) navigator.serviceWorker.register("sw.js?v=18").catch(() => {});
 
 /* ---------- For account.js: highlights and notes, and two of the reader's tools ---------- */
 var reader = {
   annotations: {
     all: () => notes,
-    // Changes from the account: [[id, {h, n, t} or null to remove], ...]
+    // Changes from the account: [[id, {h, n, r, t} or null to remove], ...]
     apply(changes) {
-      for (const [id, a] of changes) { if (a && (a.h || a.n)) notes[id] = a; else delete notes[id]; }
+      for (const [id, a] of changes) { if (a && (a.h || a.n || (a.r && a.r.length))) notes[id] = a; else delete notes[id]; }
       store.set("annotations", notes);
       if (!$("mine").hidden) renderMine();
       if (cur && $("verse").hidden) show(cur.b, cur.c, null, { keepScroll: true });
@@ -1999,7 +2194,8 @@ var reader = {
   openSheet, toast,
 };
 </script>
-<script src="config.js?v=15"></script>
-<script src="account.js?v=15"></script>
+<script src="config.js?v=18"></script>
+<script src="share.js?v=18"></script>
+<script src="account.js?v=18"></script>
 </body>
 </html>

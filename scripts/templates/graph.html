@@ -192,6 +192,29 @@ button { font: inherit; color: inherit; }
 .about .close { float: right; border: 0; background: transparent; cursor: pointer; border-radius: 9px; width: 34px; height: 34px; display: grid; place-items: center; color: var(--muted); }
 .fallback { position: absolute; inset: 0; display: grid; place-content: center; text-align: center; padding: 24px; color: var(--muted); }
 .visually-hidden { position: absolute; width: 1px; height: 1px; overflow: hidden; clip: rect(0 0 0 0); white-space: nowrap; }
+
+/* The card slides away: on a phone, drag it down by its top to leave only that showing; on a
+   wide screen, the arrow tucks it to the side. A tap on what's left brings it back. */
+.card { transition: transform 0.3s cubic-bezier(.2, .7, .2, 1); touch-action: pan-y; }
+.card .tuck { position: absolute; top: 10px; right: 46px; width: 34px; height: 34px; border: 0; background: transparent; border-radius: 9px; cursor: pointer; display: grid; place-items: center; color: var(--muted); }
+.card .tuck:hover { background: var(--lapis-soft); }
+.card .tuck svg { transition: transform 0.3s; }
+.card.tucked { cursor: pointer; }
+.card.tucked .tuck svg { transform: rotate(180deg); }
+@media (min-width: 761px) {
+  .card.tucked { transform: translateX(calc(100% - 44px)); }
+  .card.tucked > :not(.tuck) { opacity: 0.25; }
+  .card.tucked .tuck { right: auto; left: 5px; }
+  body.card-tucked .zoom { right: 64px !important; }
+  body.card-tucked .timebar { right: 64px !important; }
+}
+@media (max-width: 760px) {
+  .card .tuck { top: 12px; }
+  .card .tuck svg { transform: rotate(90deg); }
+  .card.tucked .tuck svg { transform: rotate(-90deg); }
+  .card.tucked { transform: translateY(calc(100% - 96px)); }
+  .card .grab, .card .kicker, .card h2 { cursor: grab; touch-action: none; }
+}
 </style>
 
 <!-- APPBAR -->
@@ -249,11 +272,13 @@ button { font: inherit; color: inherit; }
     </ul>
     <p>In <em>Web</em>, linked things are pulled together and everything else pushed apart, so the books that quote each other gather, and people cluster round the chapters that tell their stories. In <em>Wheel</em>, the chapters stand in order round a circle from Genesis, at the top, to Revelation. The arrangement is worked out when the site is built (<code>scripts/graph.py</code>).</p>
     <p>Chapters are colored by section, people are pale points, places are rings and events are diamonds. Sources: OpenBible.info cross-references (CC BY), STEPBible TIPNR (CC BY 4.0), Theographic (CC BY-SA 4.0).</p>
+    <p class="sub">Part of the Plain English Bible, designed and orchestrated by Jeff Dehut. Questions or suggestions? <a href="mailto:info@bibledata.org">Write to info@bibledata.org</a>.</p>
   </section>
   <p class="fallback" id="fallback" hidden>This view needs WebGL, which this browser has turned off. The <a href="genealogy.html">genealogy</a> and the <a href="index.html">reader</a> work without it.</p>
 </main>
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/7.8.5/d3.min.js"></script>
+<script src="share.js?v=18"></script>
 <script>
 (() => {
   const $ = id => document.getElementById(id);
@@ -793,10 +818,56 @@ button { font: inherit; color: inherit; }
     (reduced ? oz : oz.transition().duration(850)).call(zoom.transform, t);
   }
 
+
+  /* ---------- The card slides away (see the style above) ---------- */
+  (function slidingCard(card) {
+    const TUCK = '<svg viewBox="0 0 24 24" width="18" height="18" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="m9 6 6 6-6 6"/></svg>';
+    const phone = () => innerWidth <= 760;
+    const set = on => { card.classList.toggle("tucked", on); document.body.classList.toggle("card-tucked", on && !card.hidden); };
+    // Each time the card is filled, it opens fully and gets its arrow.
+    new MutationObserver(() => {
+      if (card.querySelector(":scope > .tuck")) return;
+      const b = document.createElement("button");
+      b.type = "button"; b.className = "tuck"; b.innerHTML = TUCK;
+      b.setAttribute("aria-label", "Slide the card out of the way");
+      b.onclick = e => { e.stopPropagation(); set(!card.classList.contains("tucked")); };
+      card.append(b);
+      set(false);
+    }).observe(card, { childList: true });
+    new MutationObserver(() => { if (card.hidden) set(false); }).observe(card, { attributes: true, attributeFilter: ["hidden"] });
+    let y0 = null, dy = 0;
+    card.addEventListener("pointerdown", e => {
+      if (!phone() || !e.target.closest(".grab, .kicker, h2") || e.target.closest("button, a")) return;
+      y0 = e.clientY; dy = 0; card.style.transition = "none";
+      card.setPointerCapture(e.pointerId);
+    });
+    card.addEventListener("pointermove", e => {
+      if (y0 == null) return;
+      dy = e.clientY - y0;
+      const base = card.classList.contains("tucked") ? card.offsetHeight - 96 : 0;
+      card.style.transform = `translateY(${Math.max(0, base + dy)}px)`;
+    });
+    const end = () => {
+      if (y0 == null) return;
+      card.style.transition = ""; card.style.transform = "";
+      const tucked = card.classList.contains("tucked");
+      if (!tucked && dy > 60) set(true);
+      else if (tucked && dy < -30) set(false);
+      y0 = null;
+    };
+    card.addEventListener("pointerup", end);
+    card.addEventListener("pointercancel", end);
+    // A tap on the tucked card brings it back, rather than acting on what's under the tap.
+    card.addEventListener("click", e => {
+      if (card.classList.contains("tucked") && !e.target.closest(".close, .tuck") && Math.abs(dy) < 6) { e.preventDefault(); e.stopPropagation(); set(false); }
+    }, true);
+  })(document.getElementById("card"));
+
   /* ---------- The card ---------- */
   let briefs = null;
   const loadBriefs = () => briefs || (briefs = fetch("data/graph-briefs.json").then(r => r.json()).catch(() => (briefs = null)));
   const ICON = {
+    share: '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="18" cy="5" r="2.5"/><circle cx="6" cy="12" r="2.5"/><circle cx="18" cy="19" r="2.5"/><path d="m8.2 10.8 7.6-4.4M8.2 13.2l7.6 4.4"/></svg>',
     read: '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linejoin="round"><path d="M12 6c-2-1.3-4.7-1.8-8-1.5v13c3.3-.3 6 .2 8 1.5 2-1.3 4.7-1.8 8-1.5v-13c-3.3-.3-6 .2-8 1.5Zm0 0v13"/></svg>',
     tree: '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="5" r="2.5"/><circle cx="6" cy="19" r="2.5"/><circle cx="18" cy="19" r="2.5"/><path d="M12 7.5v4M6 16.5V14h12v2.5"/></svg>',
     map: '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linejoin="round"><path d="M12 21s-7-6.2-7-11.5a7 7 0 0 1 14 0C19 14.8 12 21 12 21Z"/><circle cx="12" cy="9.5" r="2.5"/></svg>',
@@ -859,6 +930,17 @@ button { font: inherit; color: inherit; }
       kids.push(chips(k === 3 ? "People" : "Events", by(5).filter(([j]) => (k === 3 ? kind[j] === 1 : kind[j] === 3)).map(([j]) => [j, k !== 3 && D.yr[j - NC] != null ? yl(D.yr[j - NC]) : ""])));
       if (k === 3) kids.push(chips("Places", by(5).filter(([j]) => kind[j] === 2).map(([j]) => [j])));
     }
+    // Share: a picture of this point and its strongest threads, with a link back here.
+    const share = el("button", { type: "button", class: "act", onclick: () => {
+      const seen = new Set();
+      const ns = adj[i].map(([j, , w]) => [j, (w || 0) * 100 + deg[j]]).sort((a, b) => b[1] - a[1])
+        .filter(([j]) => !seen.has(j) && seen.add(j)).slice(0, 14)
+        .map(([j]) => ({ label: split(j)[0], color: GROUPS[group[j]].c[0], ring: kind[j] === 2 }));
+      window.Share?.web({ center: { label: split(i)[0], sub: kicker, color: GROUPS[group[i]].c[0] }, nodes: ns,
+        caption: `${fmt.format(deg[i])} connections`, url: Share.here("graph.html", location.hash) });
+    } });
+    share.innerHTML = ICON.share; share.append("Share");
+    actions.append(share);
     card.replaceChildren(...kids.filter(Boolean));
     card.hidden = false;
     card.scrollTop = 0;
