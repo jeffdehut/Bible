@@ -2148,7 +2148,7 @@ getJSON("books.json").then(list => {
   addEventListener("hashchange", route);
   route();
 }).catch(() => { $("loading").textContent = "The Bible couldn't be loaded. Check your connection and reload the page."; });
-if ("serviceWorker" in navigator && /^https?:$/.test(location.protocol) && !embedded) navigator.serviceWorker.register("sw.js?v=16").catch(() => {});
+if ("serviceWorker" in navigator && /^https?:$/.test(location.protocol) && !embedded) navigator.serviceWorker.register("sw.js?v=17").catch(() => {});
 
 /* ---------- For account.js: highlights and notes, and two of the reader's tools ---------- */
 var reader = {
@@ -2166,8 +2166,8 @@ var reader = {
   openSheet, toast,
 };
 </script>
-<script src="config.js?v=16"></script>
-<script src="share.js?v=16"></script>
-<script src="account.js?v=16"></script>
+<script src="config.js?v=17"></script>
+<script src="share.js?v=17"></script>
+<script src="account.js?v=17"></script>
 </body>
 </html>

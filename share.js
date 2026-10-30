@@ -216,6 +216,34 @@
     return open(c, { title: `${item.n}: streams of time`, text: `${item.n} (${item.when}), and what else was happening at the time.`, url, filename: item.n.replace(/[^\w]+/g, "-") + "-timeline" });
   }
 
+  /* ---------- The world in a year: each part of the world, and what it was doing ---------- */
+  // groups: [{name, color, items: [names]}]
+  async function moment({ year, age, groups, url }) {
+    await ready();
+    const [c, g] = canvas();
+    g.fillStyle = PAPER; g.fillRect(0, 0, SIZE, SIZE);
+    g.textBaseline = "alphabetic";
+    g.fillStyle = GOLD; g.font = `600 24px ${SANS}`;
+    g.fillText("THE WORLD IN", 72, 108);
+    g.fillStyle = INK; g.font = `400 120px ${READ}`;
+    g.fillText(year, 66, 222);
+    g.fillStyle = MUTED; g.font = `600 24px ${SANS}`;
+    g.fillText(age.toUpperCase(), 72, 266);
+    const gs = groups.slice(0, 7);
+    const top = 320, room = SIZE - 170 - top, rh = Math.min(118, room / Math.max(1, gs.length));
+    gs.forEach((grp, k) => {
+      const y = top + k * rh;
+      g.fillStyle = grp.color; g.beginPath(); g.roundRect(72, y + 6, 10, rh - 18, 5); g.fill();
+      g.fillStyle = grp.color; g.font = `700 19px ${SANS}`;
+      g.fillText(grp.name.toUpperCase(), 100, y + 26);
+      const t = fit(g, grp.items.join(" · "), s => `500 ${s}px ${READ}`, 30, 20, SIZE - 172, rh - 40, 1.2);
+      g.fillStyle = INK; g.font = `500 ${t.size}px ${READ}`;
+      t.lines.forEach((line, j) => g.fillText(line, 100, y + 26 + 10 + t.size * (j + 1) * 1.15));
+    });
+    await footer(g, url, false);
+    return open(c, { title: `The world in ${year}`, text: `The world in ${year}: ${age}.`, url, filename: "the-world-in-" + year.replace(/\s+/g, "-") });
+  }
+
   /* ---------- Sharing the picture ---------- */
   const STYLE = `
     .share-scrim { position: fixed; inset: 0; z-index: 50; background: rgb(10 14 24 / 55%); display: grid; place-items: center; padding: 16px; }
@@ -266,5 +294,5 @@
     dialog(c, blob, info);
   }
 
-  window.Share = { verse, web, history, here };
+  window.Share = { verse, web, history, moment, here };
 })();
