@@ -113,7 +113,8 @@
     let seed = [...center.label].reduce((a, ch) => a * 31 + ch.charCodeAt(0), 7) >>> 0;
     const rnd = () => ((seed = (seed * 1103515245 + 12345) >>> 0) / 4294967296);
     for (let k = 0; k < 260; k++) { g.fillStyle = `rgba(200,210,255,${0.08 + rnd() * 0.25})`; g.beginPath(); g.arc(rnd() * SIZE, rnd() * SIZE, rnd() * 2.2, 0, 7); g.fill(); }
-    const cx = SIZE / 2, cy = SIZE / 2 - 10, R = 330;
+    // The title at the top, and the web in the space below it, clear of the words.
+    const cx = SIZE / 2, cy = 628, R = 256;
     const ns = nodes.slice(0, 14);
     const at = ns.map((n, k) => { const a = -Math.PI / 2 + (2 * Math.PI * k) / ns.length; const r = R * (k % 2 ? 0.86 : 1); return [cx + r * Math.cos(a), cy + r * Math.sin(a), a]; });
     // Threads, glowing.
@@ -145,17 +146,16 @@
       g.lineWidth = 6; g.strokeStyle = "rgba(5,7,13,0.85)"; g.strokeText(n.label, lx, ly);
       g.fillStyle = "#e9ecf3"; g.fillText(n.label, lx, ly);
     });
-    g.textAlign = "center";
-    // The point's name, on a dark plate so the threads don't run through it.
-    g.font = `500 44px ${READ}`;
-    const nw = Math.max(g.measureText(center.label).width, (() => { g.font = `600 20px ${SANS}`; return g.measureText((center.sub || "").toUpperCase()).width; })()) + 48;
-    g.fillStyle = "rgba(9,12,22,0.88)"; g.beginPath(); g.roundRect(cx - nw / 2, cy + 64, nw, center.sub ? 98 : 64, 18); g.fill();
-    g.font = `500 44px ${READ}`; g.fillStyle = "#ffffff"; g.fillText(center.label, cx, cy + 96);
-    g.font = `600 20px ${SANS}`; g.fillStyle = "#a3acbd";
-    g.fillText((center.sub || "").toUpperCase(), cx, cy + 138);
+    g.textAlign = "center"; g.textBaseline = "alphabetic";
+    // Above the web: where it is from, the point's name, what it is and how many threads.
     g.font = `600 22px ${SANS}`; g.fillStyle = "#e2bd5c";
-    g.fillText("THE WEB OF SCRIPTURE", cx, 82);
-    if (caption) { g.font = `500 22px ${SANS}`; g.fillStyle = "#a3acbd"; g.fillText(caption, cx, 118); }
+    g.fillText("THE WEB OF SCRIPTURE", cx, 78);
+    const t = fit(g, center.label, s => `500 ${s}px ${READ}`, 58, 36, SIZE - 160, 130, 1.1);
+    g.font = `500 ${t.size}px ${READ}`; g.fillStyle = "#ffffff";
+    let ty = 92 + t.size;
+    for (const line of t.lines) { g.fillText(line, cx, ty); ty += t.size * 1.1; }
+    const sub = [(center.sub || "").toUpperCase(), caption].filter(Boolean).join("  ·  ");
+    if (sub) { g.font = `600 20px ${SANS}`; g.fillStyle = "#a3acbd"; g.fillText(sub, cx, ty + 10); }
     g.textAlign = "left";
     await footer(g, url, true);
     return open(c, { title: `${center.label}: the web of Scripture`, text: `${center.label} and the threads that connect it, on the web of Scripture.`, url, filename: center.label.replace(/[^\w]+/g, "-") + "-connections" });
