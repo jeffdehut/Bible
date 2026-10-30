@@ -345,6 +345,8 @@ textarea { min-height: 88px; resize: vertical; }
 .days a { color: var(--ink); text-decoration: none; }
 .days a:hover { text-decoration: underline; }
 .days li.done a { color: var(--muted); }
+.study-entry .sub > p.flash { animation: flash 1.6s ease-out; border-radius: 4px; }
+.study-entry .also span { flex-basis: 100%; }
 .study-entry .credit { margin-top: 16px; font-size: 12.5px; color: var(--faint); }
 
 /* Picker */
@@ -1243,6 +1245,8 @@ function dictParagraph(text) {
   let last = 0;
   for (const m of text.matchAll(/\[\[([^|\]]+)\|([^\]]+)\]\]/g)) {
     if (m.index > last) p.append(text.slice(last, m.index));
+    const d = /^d:(\d+)$/.exec(m[1]);
+    if (d) { const j = +d[1]; p.append(el("a", { href: "#", onclick: ev => { ev.preventDefault(); showStudyEntry("d", j, true); }, text: m[2] })); last = m.index + m[0].length; continue; }
     const r = parseRef(m[1]);
     p.append(r ? el("a", { href: refHash(r.b, r.c, r.v || undefined), title: r.label, onclick: () => { closeSheets(); closeVerse(); }, text: m[2] }) : m[2]);
     last = m.index + m[0].length;
@@ -1250,7 +1254,7 @@ function dictParagraph(text) {
   if (last < text.length) p.append(text.slice(last));
   return p;
 }
-async function showStudyEntry(k, i, push) {
+async function showStudyEntry(k, i, push, hint) {
   if (push && study.i != null) study.back.push([study.k, study.i]);
   study.k = k; study.i = i;
   $("study").classList.add("entry");
@@ -1266,11 +1270,18 @@ async function showStudyEntry(k, i, push) {
   const also = el("div", { class: "also" });
   if (other >= 0) also.append(el("button", { type: "button", onclick: () => showStudyEntry(k === "t" ? "d" : "t", other, true),
     text: k === "t" ? `${e.n} in the dictionary` : `${e.n}: the topic, with its verses` }));
+  // Nave's cross-references: a topic, or a part of one ("Jesus, the Christ: Rejected"), which
+  // opens at that part. A topic with nothing of its own is only such a pointer.
+  const own = k === "t" && e.s.some(([, , refs]) => refs.length);
   if (k === "t" && e.see) {
     const tnames = await getJSON(STUDY_KIND.t.index);
-    also.append("See also");
-    for (const j of e.see) also.append(el("button", { type: "button", text: tnames[j], onclick: () => showStudyEntry("t", j, true) }));
+    also.append(own ? "See also" : "Nave’s lists this under");
+    for (const x of e.see) {
+      const [j, part] = Array.isArray(x) ? x : [x, ""];
+      also.append(el("button", { type: "button", text: part ? `${tnames[j]}: ${part}` : tnames[j], onclick: () => showStudyEntry("t", j, true, part) }));
+    }
   }
+  if (k === "t" && e.gone) also.append(el("span", { text: `Nave’s also points to ${e.gone.map(g => `“${g}”`).join(", ")}, which this edition doesn’t have.` }));
   if (also.childNodes.length) kids.push(also);
   if (k === "t") {
     for (const [head, depth, refs] of e.s) {
@@ -1294,8 +1305,21 @@ async function showStudyEntry(k, i, push) {
     } else for (const s of e.s) for (const para of s.split("\n\n")) d.append(dictParagraph(para));
     kids.push(d, el("p", { class: "credit", text: "Easton’s Bible Dictionary (1897), public domain; linked edition from Theographic (CC BY-SA 4.0). Its references follow the King James Version." }));
   }
+  if (k === "t" && !own && !e.see && !e.gone) kids.push(el("p", { class: "count", text: "Nave’s gives no verses or cross-references for this topic." }));
   box.replaceChildren(...kids);
   $("study").scrollTop = 0;
+  // Opened from a cross-reference to a part of the topic: go to that part.
+  if (hint) {
+    const want = normName(hint).replace(/[^a-z ]/g, "");
+    const head = [...box.querySelectorAll(".sub > p")].find(p => normName(p.textContent).replace(/[^a-z ]/g, "").startsWith(want))
+      || [...box.querySelectorAll(".sub > p")].find(p => normName(p.textContent).includes(want))
+      || [...box.querySelectorAll(".sub > p")].find(p => { const ws = new Set(normName(p.textContent).replace(/[^a-z ]/g, " ").split(/\s+/)); return want.split(" ").every(w => ws.has(w)); });
+    if (head) {
+      const sheet = $("study");   // clear of the sheet's sticky header
+      sheet.scrollTop += head.getBoundingClientRect().top - sheet.getBoundingClientRect().top - $("study").querySelector(".sheet-head").offsetHeight - 16;
+      head.classList.add("flash");
+    }
+  }
 }
 $("study-back").onclick = () => {
   const prev = study.back.pop();
