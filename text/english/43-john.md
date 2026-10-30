@@ -127,7 +127,7 @@
 [^1-16]: The prophet like Moses promised in Deuteronomy 18:15–18.
 [^1-17]: Isaiah 40:3. In Isaiah's Hebrew, "the Lord" is God's personal name, YHWH ("the LORD").
 [^1-18]: Or "Some Pharisees had been sent."
-[^1-19]: The SBLGNT reads "the Chosen One of God", with some early manuscripts. Most manuscripts and editions read "the Son of God".
+[^1-19]: The SBLGNT reads "the Chosen One of God", following a reading given in the margin of Westcott and Hort. The other editions, and many manuscripts, read "the Son of God".
 [^1-20]: Literally "about the tenth hour", counting hours from sunrise.
 [^1-21]: Literally "which, translated, is *Christos*". *Messiah* (Hebrew and Aramaic) and *Christos* (Greek) both mean "anointed one".
 [^1-22]: *Cephas* (Aramaic) and *Peter* (Greek) both mean "rock".

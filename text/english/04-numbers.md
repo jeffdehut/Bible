@@ -979,7 +979,7 @@
 
 **7** But when the assembly is to be gathered, you are to blow the trumpets without sounding an alarm.
 
-**8** The sons of Aaron, the priests, are to blow the trumpets. This is to be a permanent statute for you throughout your generations.
+**8** The sons of Aaron, the priests, are to blow the trumpets. This is to be a permanent decree for you throughout your generations.
 
 **9** When you go to war in your land against an enemy who is oppressing you, sound an alarm on the trumpets. Then you will be remembered before the LORD your God, and you will be saved from your enemies.
 
@@ -1048,7 +1048,7 @@
 [^10-9]: Literally "the sanctuary", here the holy objects of the sanctuary (4:4–15).
 [^10-10]: The Hebrew may mean that either Reuel or Hobab was Moses' father-in-law. Reuel is Moses' father-in-law in Exodus 2:18–21, where he is a priest of Midian, but in Judges 4:11 Hobab is called Moses' father-in-law. Elsewhere Moses' father-in-law is called Jethro (Exodus 3:1).
 [^10-11]: In the Hebrew text verses 35–36 are set off by two marks shaped like the letter *nun* written upside down, one before verse 35 and one after verse 36. Similar marks appear in Psalm 107. The rabbis understood the marks to mean that these two verses are not in their original place, or that they form a book of their own. The Septuagint places verse 34 after verse 36.
-[^10-12]: Compare Psalm 68:2 (68:1 in English Bibles).
+[^10-12]: Compare Psalm 68:2 (68:1 in most English Bibles).
 [^10-13]: Literally "the ten thousands of the thousands of Israel". Or "Bring back, LORD, the countless thousands of Israel."
 
 ## Chapter 11
@@ -1428,7 +1428,7 @@
 
 **14** If a foreigner[^15-11] is living with you, or anyone else who is among you throughout your generations, and he presents an offering by fire, a pleasing aroma to the LORD, he is to do just as you do.
 
-**15** For the assembly there is to be one statute for you and for the foreigner who lives among you. It is a permanent statute throughout your generations: you and the foreigner are to be alike before the LORD.
+**15** For the assembly there is to be one statute for you and for the foreigner who lives among you. It is a permanent decree throughout your generations: you and the foreigner are to be alike before the LORD.
 
 **16** There is to be one law and one regulation for you and for the foreigner who lives among you."
 
@@ -2295,7 +2295,7 @@
 
 **8** He went after the Israelite man into the inner tent[^25-8] and drove the spear through both of them, the Israelite man and the woman, through her belly.[^25-9] Then the plague on the Israelites was stopped.
 
-**9** Those who died in the plague numbered 24,000.
+**9** Those who died in the plague numbered twenty-four thousand.
 
 **10** The LORD said to Moses,
 
@@ -2778,7 +2778,7 @@
 
 **4** Send a thousand men from each tribe, from all the tribes of Israel, to the war."
 
-**5** So from the clans[^31-3] of Israel 1,000 were provided from each tribe, 12,000 men armed for war.
+**5** So from the clans[^31-3] of Israel a thousand were provided from each tribe, twelve thousand men armed for war.
 
 **6** Moses sent them to the war, a thousand from each tribe, together with Phinehas son of Eleazar the priest, who took with him the holy objects[^31-4] and the trumpets for sounding the alarm.
 
@@ -2844,11 +2844,11 @@
 
 **37** and the tribute for the LORD from the sheep and goats was 675;
 
-**38** 36,000 cattle, and the tribute from them for the LORD was seventy-two;
+**38** 36,000 cattle, and the tribute from them for the LORD was 72;
 
-**39** 30,500 donkeys, and the tribute from them for the LORD was sixty-one;
+**39** 30,500 donkeys, and the tribute from them for the LORD was 61;
 
-**40** and 16,000 people, and the tribute from them for the LORD was thirty-two people.
+**40** and 16,000 people, and the tribute from them for the LORD was 32 people.
 
 **41** Moses gave the tribute, the LORD's contribution, to Eleazar the priest, as the LORD had commanded Moses.
 

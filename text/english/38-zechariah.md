@@ -689,13 +689,13 @@
 
 **15** A plague like this will also strike the horses, the mules, the camels, the donkeys and all the animals in those camps.
 
-**16** Then all who are left of all the nations that came against Jerusalem will go up year after year to worship the King, the LORD of Armies,[^14-18] and to celebrate the Festival of Booths.[^14-19]
+**16** Then all who are left of all the nations that came against Jerusalem will go up year after year to worship the King, the LORD of Armies,[^14-18] and to celebrate the Festival of Shelters.[^14-19]
 
 **17** If any of the clans of the earth do not go up to Jerusalem to worship the King, the LORD of Armies, there will be no rain on them.
 
-**18** If the clan of Egypt does not go up and come in, they will have no rain.[^14-20] There will be the plague with which the LORD strikes the nations that do not go up to celebrate the Festival of Booths.
+**18** If the clan of Egypt does not go up and come in, they will have no rain.[^14-20] There will be the plague with which the LORD strikes the nations that do not go up to celebrate the Festival of Shelters.
 
-**19** This will be the punishment[^14-21] of Egypt and the punishment of all the nations that do not go up to celebrate the Festival of Booths.
+**19** This will be the punishment[^14-21] of Egypt and the punishment of all the nations that do not go up to celebrate the Festival of Shelters.
 
 **20** On that day the bells of the horses will bear the words "Holy to the LORD",[^14-22] and the cooking pots in the house of the LORD will be like the sprinkling bowls in front of the altar.
 

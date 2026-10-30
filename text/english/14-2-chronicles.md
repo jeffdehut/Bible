@@ -105,7 +105,7 @@
 **17** He made 70,000 of them carriers of loads and 80,000 stonecutters in the hills, and 3,600 overseers to make the people work.
 
 [^2-1]: Literally "counted".
-[^2-2]: Verses 1–17 are 2:2–18 in most English Bibles. They parallel 1 Kings 5:15–32 (5:1–18 in most English Bibles), which gives the number of overseers as 3,300 (1 Kings 5:30, English 5:16).
+[^2-2]: Verses 1–17 are 2:2–18 in most English Bibles. They parallel 1 Kings 5:15–32 (5:1–18 in most English Bibles), which gives the number of overseers as 3,300 (1 Kings 5:30; 5:16 in most English Bibles).
 [^2-3]: Called Hiram in 1 Kings 5. Also in verses 10 and 11.
 [^2-4]: Literally "As you did with David my father, and sent him cedars to build him a house to live in." The words "so do for me" are understood.
 [^2-5]: *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles.
@@ -136,7 +136,7 @@
 
 **3** These are the foundations Solomon laid for building the house of God:[^3-7] the length, in cubits of the old standard,[^3-8] was sixty cubits, and the width twenty cubits.
 
-**4** The porch[^3-9] in front of the house was twenty cubits long, across the width of the house, and 120 high.[^3-10] He overlaid it on the inside with pure gold.
+**4** The porch[^3-9] in front of the house was 20 cubits long, across the width of the house, and 120 high.[^3-10] He overlaid it on the inside with pure gold.
 
 **5** He paneled the great house[^3-11] with cypress wood[^3-12] and overlaid it with fine gold, and he decorated it with palm trees and chains.
 
@@ -255,12 +255,12 @@
 [^4-13]: Hebrew *mizraqim*: bowls, probably for sprinkling the blood of the sacrifices (Exodus 27:3). Also in verses 11 and 22.
 [^4-14]: Hebrew *azarah*, a word for a courtyard found in Chronicles and Ezekiel. Also later in the verse.
 [^4-15]: Literally "from the right shoulder, eastward, opposite the south".
-[^4-16]: The craftsman Huram-abi (2:12; verse 16). The Hebrew text is written "Hiram" in the second half of the verse but read "Huram".
+[^4-16]: The craftsman Huram-abi (2:12, which is 2:13 in most English Bibles; verse 16). The Hebrew text is written "Hiram" in the second half of the verse but read "Huram".
 [^4-17]: Hebrew *sirot*. 1 Kings 7:40 has *kiyyorot*, "basins". Also in verse 16.
 [^4-18]: Hebrew *gullot*, "bowls": the rounded parts of the capitals. Also later in the verse and in verse 13.
 [^4-19]: Literally "on the face of the pillars".
 [^4-20]: Hebrew *mekhonot*: bronze stands on wheels, each carrying a basin (1 Kings 7:27–38).
-[^4-21]: Hebrew *Huram aviv*, "Huram his father". Compare 2:12.
+[^4-21]: Hebrew *Huram aviv*, "Huram his father". Compare 2:12 (2:13 in most English Bibles).
 [^4-22]: *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles.
 [^4-23]: Literally "in the thickness of the ground", probably clay ground suitable for molds.
 [^4-24]: 1 Kings 7:46 has Zarethan.
@@ -425,7 +425,7 @@
 [^6-10]: Literally "keep their way".
 [^6-11]: 1 Kings 8:25 reads "walking before me".
 [^6-12]: Literally "the heavens and the heaven of heavens".
-[^6-13]: Literally "and he lifts against him a curse to curse him": the accused is made to swear an oath that calls down a curse on himself if he is guilty (Exodus 22:10–11; Numbers 5:19–22).
+[^6-13]: Literally "and he lifts against him a curse to curse him": the accused is made to swear an oath that calls down a curse on himself if he is guilty (Exodus 22:10–11, which is 22:11–12 in most English Bibles; Numbers 5:19–22).
 [^6-14]: Literally "returning to the wicked … and declaring the righteous righteous".
 [^6-15]: Or "acknowledge your name". Also in verse 26.
 [^6-16]: Or "when you answer them". The Hebrew *ta'anem* can come from either verb.
@@ -549,11 +549,11 @@
 **18** Huram sent him ships by his servants, with servants who knew the sea. They went with Solomon's servants to Ophir[^8-12] and took from there 450 talents of gold,[^8-13] which they brought to King Solomon.
 
 [^8-1]: *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles. Verses 1–18 parallel 1 Kings 9:10–28.
-[^8-2]: Hiram king of Tyre (2:2). Also in verse 18. According to 1 Kings 9:11–13, Solomon gave Hiram twenty towns in Galilee.
+[^8-2]: Hiram king of Tyre (2:2; 2:3 in most English Bibles). Also in verse 18. According to 1 Kings 9:11–13, Solomon gave Hiram twenty towns in Galilee.
 [^8-3]: Literally "and was strong against it".
 [^8-4]: The oasis city later called Palmyra, in the Syrian desert (1 Kings 9:18).
 [^8-5]: Or "horses". Hebrew *parashim*. Also in verse 9.
-[^8-6]: Hebrew *mas*: work gangs conscripted to labor for the king (1 Kings 4:6; 5:27).
+[^8-6]: Hebrew *mas*: work gangs conscripted to labor for the king (1 Kings 4:6; 5:27, which is 5:13 in most English Bibles).
 [^8-7]: Hebrew *shalishim*, an officer's title of uncertain meaning, perhaps from "third", the third man in a chariot.
 [^8-8]: Literally "the officers of the officials". The Hebrew text is written *netsivim* but read *nitsavim*; both mean "officials" or "governors".
 [^8-9]: 1 Kings 9:23 gives 550.
@@ -639,8 +639,8 @@
 [^9-9]: 1 Kings 10:9 has "on the throne of Israel".
 [^9-10]: Literally "justice and righteousness".
 [^9-11]: A talent was about 75 pounds (34 kg), so 120 talents was about 9,000 pounds (4,100 kg).
-[^9-12]: Hiram king of Tyre (2:2). The Hebrew text is written "Hiram" but read "Huram".
-[^9-13]: Hebrew *algummim*, a costly wood that cannot be identified with certainty (2:7). 1 Kings 10:11–12 has *almuggim*. Also in verse 11.
+[^9-12]: Hiram king of Tyre (2:2; 2:3 in most English Bibles). The Hebrew text is written "Hiram" but read "Huram".
+[^9-13]: Hebrew *algummim*, a costly wood that cannot be identified with certainty (2:7; 2:8 in most English Bibles). 1 Kings 10:11–12 has *almuggim*. Also in verse 11.
 [^9-14]: Hebrew *mesillot*, "raised paths", perhaps steps or terraces. 1 Kings 10:12 has *mis'ad*, "supports".
 [^9-15]: 1 Kings 10:13 reads "besides what he gave her out of his royal generosity".
 [^9-16]: About 50,000 pounds (22,600 kg).
@@ -716,7 +716,7 @@
 [^10-8]: See 1 Kings 11:29–39.
 [^10-9]: 1 Kings 12:16 reads "When all Israel saw that the king did not listen to them".
 [^10-10]: Literally "Each man to your tents, Israel!", that is, go home. Compare 2 Samuel 20:1.
-[^10-11]: Called Adoniram in 1 Kings 4:6 and 5:28, and Adoram in 1 Kings 12:18.
+[^10-11]: Called Adoniram in 1 Kings 4:6 and 5:28 (5:14 in most English Bibles), and Adoram in 1 Kings 12:18.
 [^10-12]: Hebrew *mas*: work gangs conscripted to labor for the king (8:8).
 
 ## Chapter 11
@@ -997,7 +997,7 @@
 [^15-7]: Hebrew *gevirah*, "great lady": the title of the king's mother, who held an official position at court.
 [^15-8]: Hebrew *mifletset*, "a horrible thing". Its exact nature is unknown. Also later in the verse.
 [^15-9]: A Canaanite goddess, whose symbol was a wooden pole or tree.
-[^15-10]: Hebrew *bamot*: places of worship, often on hilltops. Compare 14:2, 4.
+[^15-10]: Hebrew *bamot*: places of worship, often on hilltops. Compare 14:2, 4 (14:3, 5 in most English Bibles).
 [^15-11]: Literally "was whole". 1 Kings 15:14 adds "with the LORD".
 
 ## Chapter 16
@@ -1378,7 +1378,7 @@
 [^21-9]: Hebrew *bamot*: places of worship, often on hilltops.
 [^21-10]: Literally "caused the inhabitants of Jerusalem to prostitute themselves", a common image for unfaithfulness to the LORD. Also in verse 13.
 [^21-11]: Literally "your father David".
-[^21-12]: Literally "who are beside the Cushites". Compare 14:8.
+[^21-12]: Literally "who are beside the Cushites". Compare 14:8 (14:9 in most English Bibles).
 [^21-13]: Called Ahaziah in 22:1. The two names have the same parts in reverse order and mean "The LORD has taken hold".
 [^21-14]: Literally "and at the time when the end came out, two days". "Days" here probably means years.
 [^21-15]: See 16:14.
@@ -1902,7 +1902,7 @@
 [^29-5]: Hebrew *mishkan*, the word for the tabernacle, here used of the temple.
 [^29-6]: Or "whistling", a sound of shock or scorn.
 [^29-7]: Hebrew *heikhal*: here the main hall of the temple (26:16).
-[^29-8]: The table for the bread of the Presence, set out in rows (2:3; 13:11).
+[^29-8]: The table for the bread of the Presence, set out in rows (2:3, which is 2:4 in most English Bibles; 13:11).
 [^29-9]: Or "purification offering". Hebrew *chatta't*. Also in verses 23 and 24.
 [^29-10]: Or "purified the altar with their blood".
 [^29-11]: Literally "you have filled your hand", the idiom used for ordaining a priest (13:9).
@@ -2037,7 +2037,7 @@
 [^31-6]: Hebrew *devash*: honey, or a syrup made from fruit such as dates.
 [^31-7]: The third month was the time of the wheat harvest and the Festival of Weeks, and the seventh month the end of the fruit harvest and the Festival of Shelters.
 [^31-8]: Hebrew *terumah*: something set apart and given for a sacred purpose (Exodus 25:2). Also in verses 12 and 14.
-[^31-9]: The portions of the offerings that only the priests could eat (Leviticus 6:10, 22; English 6:17, 29).
+[^31-9]: The portions of the offerings that only the priests could eat (Leviticus 6:10, 22; 6:17, 29 in most English Bibles).
 [^31-10]: The sense of the verse is uncertain. Some read "thirty years old" (compare 1 Chronicles 23:3).
 [^31-11]: Literally "by the house of their fathers".
 [^31-12]: Hebrew *migrash*: the open land around the towns, used for grazing (11:14; Numbers 35:2–5).
@@ -2289,7 +2289,7 @@
 [^34-4]: Hebrew *bamot*: places of worship, often on hilltops.
 [^34-5]: Hebrew *asherim*: wooden poles or trees that were symbols of the goddess Asherah. Also in verses 4 and 7.
 [^34-6]: Plural of *Baal*, "lord, master": the Canaanite god Baal, worshiped in many local forms.
-[^34-7]: Hebrew *chammanim*, a word of uncertain meaning: perhaps incense altars, or sun pillars (14:4). Also in verse 7.
+[^34-7]: Hebrew *chammanim*, a word of uncertain meaning: perhaps incense altars, or sun pillars (14:4; 14:5 in most English Bibles). Also in verse 7.
 [^34-8]: Compare 1 Kings 13:2; 2 Kings 23:16, 20.
 [^34-9]: The Hebrew text is written as two words of uncertain meaning, *bhr btyhm*, but read *becharvotehem*, "in their ruins" (or "with their swords").
 [^34-10]: Hebrew *mazkir*: a senior royal official, perhaps in charge of records and announcements.

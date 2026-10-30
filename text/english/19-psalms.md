@@ -350,7 +350,7 @@
 [^9-7]: The Hebrew text is written "the afflicted" (*aniyyim*) but read "the humble" (*anavim*). The two words are closely related.
 [^9-8]: A poetic name for Jerusalem and its people, pictured as a young woman.
 [^9-9]: The Hebrew vowel points read "he snares the wicked by the work of his hands". The same consonants can be read "the wicked are snared", as here.
-[^9-10]: Hebrew *higgayon*, a term of uncertain meaning, perhaps a musical direction. Elsewhere the word means "meditation" or "murmuring" (Psalms 19:15 and 92:4; 19:14 and 92:3 in English).
+[^9-10]: Hebrew *higgayon*, a term of uncertain meaning, perhaps a musical direction. Elsewhere the word means "meditation" or "murmuring" (Psalms 19:15 and 92:4; 19:14 and 92:3 in most English Bibles).
 [^9-11]: Hebrew *selah*, a musical or liturgical term of uncertain meaning. Also in verse 21.
 [^9-12]: Hebrew *Sheol*, the realm of the dead.
 [^9-13]: The Hebrew text is written "the humble" (*anavim*) but read "the afflicted" (*aniyyim*).
@@ -510,7 +510,7 @@
 
 **7** Oh, that salvation for Israel would come from Zion! When the LORD restores the fortunes of his people,[^14-6] let Jacob rejoice, let Israel be glad.
 
-[^14-1]: *For the director*: Hebrew *lamenatseach*, probably the leader of the temple music. *Of David*: or "for David", "about David". In the Hebrew text the title is part of verse 1. In this psalm it shares the verse with the first line, so the verse numbers match English Bibles. Psalm 14 is almost the same as Psalm 53:2–7 (53:1–6 in English). Psalm 53 has *Elohim*, "God", where this psalm has "the LORD", and its verse 6 differs from verses 5–6 here.
+[^14-1]: *For the director*: Hebrew *lamenatseach*, probably the leader of the temple music. *Of David*: or "for David", "about David". In the Hebrew text the title is part of verse 1. In this psalm it shares the verse with the first line, so the verse numbers match English Bibles. Psalm 14 is almost the same as Psalm 53:2–7 (53:1–6 in most English Bibles). Psalm 53 has *Elohim*, "God", where this psalm has "the LORD", and its verse 6 differs from verses 5–6 here.
 [^14-2]: Hebrew *naval*, someone who is morally and spiritually senseless, not merely unintelligent.
 [^14-3]: *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles.
 [^14-4]: Romans 3:10–12 quotes verses 1–3 freely.
@@ -575,7 +575,7 @@
 [^16-12]: Hebrew *nephesh*: soul, life, self.
 [^16-13]: Hebrew *Sheol*, the realm of the dead.
 [^16-14]: Hebrew *chasid*, "faithful, loyal", related to *chesed*, "faithful love".
-[^16-15]: Hebrew *shachat*, "pit", a name for the grave and the realm of the dead (as in 30:10, 30:9 in English). The Septuagint renders it "corruption" or "decay", and Acts 2:27, 31 and 13:35 quote this verse in that form.
+[^16-15]: Hebrew *shachat*, "pit", a name for the grave and the realm of the dead (as in 30:10, 30:9 in most English Bibles). The Septuagint renders it "corruption" or "decay", and Acts 2:27, 31 and 13:35 quote this verse in that form.
 
 ## Chapter 17
 
@@ -1224,7 +1224,7 @@
 
 [^29-1]: *Of David*: or "for David", "about David". In the Hebrew text the title is part of verse 1. In this psalm it shares the verse with the first line, so the verse numbers match English Bibles.
 [^29-2]: *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles.
-[^29-3]: Literally "sons of gods" (Hebrew *bene elim*): heavenly beings who serve in God's court (compare Job 1:6; Psalm 89:7, 89:6 in English).
+[^29-3]: Literally "sons of gods" (Hebrew *bene elim*): heavenly beings who serve in God's court (compare Job 1:6; Psalm 89:7, 89:6 in most English Bibles).
 [^29-4]: Literally "the glory of his name". Verses 1–2 are close to 1 Chronicles 16:28–29 and Psalm 96:7–9.
 [^29-5]: Or "in holy attire".
 [^29-6]: Another name for Mount Hermon (Deuteronomy 3:9).
@@ -1495,7 +1495,7 @@
 
 **23** The LORD redeems the life[^34-13] of his servants; none who take refuge in him will be condemned.
 
-[^34-1]: Literally "changed his sense", that is, pretended to be insane. The story is told in 1 Samuel 21:11–16 (21:10–15 in English), where the king of Gath is called Achish. *Abimelech* may have been a title of Philistine kings (compare Genesis 20; 26).
+[^34-1]: Literally "changed his sense", that is, pretended to be insane. The story is told in 1 Samuel 21:11–16 (21:10–15 in most English Bibles), where the king of Gath is called Achish. *Abimelech* may have been a title of Philistine kings (compare Genesis 20; 26).
 [^34-2]: *Of David*: or "for David", "about David". In the Hebrew text the title is verse 1, so verses 2–23 are 34:1–22 in most English Bibles.
 [^34-3]: *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles.
 [^34-4]: Psalm 34 is an acrostic: in the Hebrew, each verse from verse 2 to verse 22 begins with the next letter of the alphabet. There is no verse for *vav*, and verse 23, beginning with *pe*, stands outside the alphabet as a closing line, as in Psalm 25.
@@ -1583,8 +1583,8 @@
 [^35-12]: Hebrew *nekhim*, a word of uncertain meaning, perhaps "attackers", "slanderers" or "outcasts".
 [^35-13]: The Hebrew of this line is difficult. Literally "with the godless of the mockers of a cake".
 [^35-14]: Hebrew *nephesh*.
-[^35-15]: Literally "my only one", that is, my precious life (compare 22:21, 22:20 in English).
-[^35-16]: John 15:25 quotes "They hated me without cause", from this verse or from 69:5 (69:4 in English).
+[^35-15]: Literally "my only one", that is, my precious life (compare 22:21, 22:20 in most English Bibles).
+[^35-16]: John 15:25 quotes "They hated me without cause", from this verse or from 69:5 (69:4 in most English Bibles).
 [^35-17]: Or "Vindicate me".
 [^35-18]: Literally "Aha, our soul (*nephesh*)!", that is, our desire.
 [^35-19]: Or "my righteousness". Hebrew *tsedeq*.
@@ -1780,7 +1780,7 @@
 [^38-1]: *Of David*: or "for David", "about David". In the Hebrew text the title is verse 1, so verses 2–23 are 38:1–22 in most English Bibles.
 [^38-2]: Hebrew *lehazkir*, "to cause to remember" or "to make a memorial". The psalm may have been sung with the memorial portion of an offering (Leviticus 2:2), or it may call on God to remember the one who prays. Also in the title of Psalm 70.
 [^38-3]: *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles.
-[^38-4]: This verse is almost the same as 6:2 (6:1 in English).
+[^38-4]: This verse is almost the same as 6:2 (6:1 in most English Bibles).
 [^38-5]: Hebrew *shalom*: peace, well-being, wholeness.
 [^38-6]: Literally "my loins".
 [^38-7]: Literally "I roar".
@@ -1885,7 +1885,7 @@
 [^40-12]: Literally "in the middle of my inner parts".
 [^40-13]: Hebrew *bissarti*, "I brought good news". In the Septuagint this is *euangelizomai*, the verb behind "gospel".
 [^40-14]: Hebrew *chesed ve'emet*: loyal, faithful love and reliability, truth (compare 25:10). Also in verse 12.
-[^40-15]: Verses 14–18 appear again, with small differences, as Psalm 70:2–6 (70:1–5 in English).
+[^40-15]: Verses 14–18 appear again, with small differences, as Psalm 70:2–6 (70:1–5 in most English Bibles).
 [^40-16]: Hebrew *nephesh*: soul, life, self.
 
 ## Chapter 41
@@ -1926,10 +1926,10 @@
 [^41-4]: Literally "the soul (*nephesh*)", that is, the desire.
 [^41-5]: Literally "all his bed you have turned in his sickness".
 [^41-6]: Literally "heal my soul (*nephesh*)".
-[^41-7]: Literally "a thing of *beliyya'al*", "worthlessness", here perhaps a deadly disease or a curse (compare 18:5, 18:4 in English).
+[^41-7]: Literally "a thing of *beliyya'al*", "worthlessness", here perhaps a deadly disease or a curse (compare 18:5, 18:4 in most English Bibles).
 [^41-8]: Literally "the man of my peace".
 [^41-9]: That is, has turned against me. John 13:18 quotes this line.
-[^41-10]: This blessing closes Book 1 of the Psalms (Psalms 1–41). Each of the next three books ends in a similar way (72:18–19; 89:53, 89:52 in English; 106:48); compare 1 Chronicles 16:36.
+[^41-10]: This blessing closes Book 1 of the Psalms (Psalms 1–41). Each of the next three books ends in a similar way (72:18–19; 89:53, 89:52 in most English Bibles; 106:48); compare 1 Chronicles 16:36.
 
 ## Chapter 42
 
@@ -1959,7 +1959,7 @@
 
 **12** Why are you downcast, my soul? Why are you in turmoil within me? Hope in God, for I will yet praise him, my saving help[^42-17] and my God.
 
-[^42-1]: *For the director*: Hebrew *lamenatseach*, probably the leader of the temple music. *Maskil*: a term of uncertain meaning, perhaps "a skillful psalm" or "a psalm of instruction". *Of the sons of Korah*: or "for the sons of Korah", a family of Levites who served as temple singers (2 Chronicles 20:19). In the Hebrew text the title is verse 1, so verses 2–12 are 42:1–11 in most English Bibles. Psalms 42 and 43 were probably once a single psalm: they share a refrain (42:6, 12; 43:5), Psalm 43 has no title of its own, and many Hebrew manuscripts write them as one.
+[^42-1]: *For the director*: Hebrew *lamenatseach*, probably the leader of the temple music. *Maskil*: a term of uncertain meaning, perhaps "a skillful psalm" or "a psalm of instruction". *Of the sons of Korah*: or "for the sons of Korah", a family of Levites who served as temple singers (2 Chronicles 20:19). In the Hebrew text the title is verse 1, so verses 2–12 are 42:1–11 in most English Bibles. Psalms 42 and 43 were probably once a single psalm: they share a refrain (42:6, 12; 43:5; 42:5, 11 in most English Bibles), Psalm 43 has no title of its own, and many Hebrew manuscripts write them as one.
 [^42-2]: The noun is masculine but the verb is feminine, so perhaps "a doe".
 [^42-3]: Hebrew *nephesh*: soul, life, self. Also in verses 3, 5, 6, 7 and 12.
 [^42-4]: Psalms 42–83 are often called the "Elohistic Psalter". In them God is mostly called *Elohim*, "God", where other psalms use his personal name, YHWH ("the LORD"). Compare Psalm 53 with Psalm 14, and Psalm 70 with 40:14–18 (40:13–17 in most English Bibles), where the same lines appear with *Elohim* in place of the LORD. This translation renders each name as it stands.
@@ -1991,7 +1991,7 @@
 
 **5** Why are you downcast, my soul?[^43-7] Why are you in turmoil within me? Hope in God, for I will yet praise him, my saving help[^43-8] and my God.
 
-[^43-1]: Psalm 43 has no title, and its refrain (verse 5) is the refrain of Psalm 42 (42:6, 12). The two were probably once a single psalm.
+[^43-1]: Psalm 43 has no title, and its refrain (verse 5) is the refrain of Psalm 42 (42:6, 12; 42:5, 11 in most English Bibles). The two were probably once a single psalm.
 [^43-2]: Hebrew *lo-chasid*, "not faithful", that is, ungodly. *Chasid* is related to *chesed*, "faithful love".
 [^43-3]: Literally "from a man of deceit and injustice".
 [^43-4]: Literally "dark", wearing the dark clothes of mourning.
@@ -2059,7 +2059,7 @@
 **27** Rise up and help us! Redeem us for the sake of your faithful love.[^44-8]
 
 [^44-1]: *For the director*: Hebrew *lamenatseach*, probably the leader of the temple music. *Of the sons of Korah*: or "for the sons of Korah", a family of Levites who served as temple singers. *Maskil*: a term of uncertain meaning, perhaps "a skillful psalm" or "a psalm of instruction". In the Hebrew text the title is verse 1, so verses 2–27 are 44:1–26 in most English Bibles.
-[^44-2]: *Them*: our ancestors (verse 2). *Set free*: or "let spread out", like a vine sending out its branches (compare 80:12, English 80:11).
+[^44-2]: *Them*: our ancestors (verse 2). *Set free*: or "let spread out", like a vine sending out its branches (compare 80:12, 80:11 in most English Bibles).
 [^44-3]: Literally "salvations".
 [^44-4]: Hebrew *selah*, a musical or liturgical term of uncertain meaning.
 [^44-5]: Hebrew *tsalmavet*, "deep darkness", traditionally read as "the shadow of death".
@@ -2879,7 +2879,7 @@
 [^62-5]: The Hebrew of this verse is difficult. Literally "How long will you rush upon a man? You will murder, all of you, like a leaning wall, a fence pushed in".
 [^62-6]: Hebrew *selah*, a musical or liturgical term of uncertain meaning. Also in verse 9.
 [^62-7]: Literally "On God my salvation and my glory".
-[^62-8]: Literally "the sons of *adam* are a breath, the sons of *ish* are a lie", two words for "man", perhaps common people and people of rank (compare 49:3). *Breath*: Hebrew *hevel*, "vapor, breath", the word used throughout Ecclesiastes.
+[^62-8]: Literally "the sons of *adam* are a breath, the sons of *ish* are a lie", two words for "man", perhaps common people and people of rank (compare 49:3, 49:2 in most English Bibles). *Breath*: Hebrew *hevel*, "vapor, breath", the word used throughout Ecclesiastes.
 [^62-9]: Hebrew *chesed*: loyal, faithful love.
 [^62-10]: Compare Job 34:11; Proverbs 24:12; Romans 2:6.
 
@@ -3167,7 +3167,7 @@
 [^68-12]: Or "among the campfires", "between the saddlebags". The word is close to the one in Judges 5:16.
 [^68-13]: Hebrew *Shaddai*. The meaning of the name is uncertain.
 [^68-14]: A mountain, perhaps the one near Shechem (Judges 9:48), or one in Bashan. *Zalmon* is related to *tselem*, "shadow, darkness".
-[^68-15]: Or "A mighty mountain", as "mountains of God" can mean mighty mountains (compare 36:7, English 36:6).
+[^68-15]: Or "A mighty mountain", as "mountains of God" can mean mighty mountains (compare 36:7, 36:6 in most English Bibles).
 [^68-16]: Hebrew *teratsedun*, found only here; the meaning is uncertain.
 [^68-17]: *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles.
 [^68-18]: Literally "the Lord among them, Sinai, in holiness". Some scholars read "the Lord has come from Sinai into the holy place", with a small change to the Hebrew (compare Deuteronomy 33:2).
@@ -3175,7 +3175,7 @@
 [^68-20]: Or "who carries us".
 [^68-21]: Literally "God is for us a God of acts of salvation".
 [^68-22]: Literally "to death the goings out". *GOD the Lord*: Hebrew *YHWH Adonai*. Next to "Lord", God's personal name is written GOD in capitals, as in most English Bibles.
-[^68-23]: Literally "so that you may crush your foot in blood". The Septuagint reads "so that your foot may be dipped in blood" (compare 58:11).
+[^68-23]: Literally "so that you may crush your foot in blood". The Septuagint reads "so that your foot may be dipped in blood" (compare 58:11, 58:10 in most English Bibles).
 [^68-24]: Literally "the tongue of your dogs, from the enemies its portion".
 [^68-25]: Or "in holiness".
 [^68-26]: That is, you descendants of Israel.
@@ -3436,7 +3436,7 @@
 [^72-12]: Hebrew *yinnon*, found only here, perhaps "sprout", "increase".
 [^72-13]: Compare God's promise to Abraham in Genesis 12:3; 22:18.
 [^72-14]: *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles.
-[^72-15]: Verses 18–19 are a doxology, a closing word of praise, which ends Book 2 of the Psalms (Psalms 42–72). Each of the five books ends with one (41:14, English 41:13; 72:18–19; 89:53, English 89:52; 106:48), and Psalm 150 closes the whole collection.
+[^72-15]: Verses 18–19 are a doxology, a closing word of praise, which ends Book 2 of the Psalms (Psalms 42–72). Each of the five books ends with one (41:14, 41:13 in most English Bibles; 72:18–19; 89:53, 89:52 in most English Bibles; 106:48), and Psalm 150 closes the whole collection.
 [^72-16]: This line probably closed an earlier collection of David's prayers. Several later psalms are also titled "of David" (for example Psalms 86, 101, 103, 108–110 and 138–145).
 
 ## Chapter 73
@@ -3512,7 +3512,7 @@
 [^73-11]: Or "their phantom", "their shadow".
 [^73-12]: Literally "in my kidneys". The kidneys were thought of as the seat of the emotions and the inner life.
 [^73-13]: Hebrew *behemot*, "beasts", perhaps meaning "a great beast", "a brute".
-[^73-14]: Or "and afterward you will receive me with honor", or "and lead me after glory". Compare 49:16.
+[^73-14]: Or "and afterward you will receive me with honor", or "and lead me after glory". Compare 49:16 (49:15 in most English Bibles).
 [^73-15]: Literally "and with you I desire nothing on earth".
 [^73-16]: Literally "the rock of my heart".
 [^73-17]: Literally "everyone who goes away from you as a prostitute", a common picture of unfaithfulness to God.
@@ -3577,7 +3577,7 @@
 [^74-6]: Literally "Let us oppress them together".
 [^74-7]: Literally "from the midst of your bosom". The Hebrew text is written "your decree" (*chuqqekha*) but read "your bosom" (*cheqekha*).
 [^74-8]: Hebrew *tanninim*, great creatures of the sea (Genesis 1:21).
-[^74-9]: A many-headed sea monster, a picture of the forces of chaos (compare Job 40:25, English 41:1; Isaiah 27:1).
+[^74-9]: A many-headed sea monster, a picture of the forces of chaos (compare Job 40:25, 41:1 in most English Bibles; Isaiah 27:1).
 [^74-10]: Literally "to a people, to desert creatures".
 [^74-11]: Literally "the light".
 [^74-12]: *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles. Or "the enemy taunts the LORD".
@@ -4096,8 +4096,8 @@
 **8** Rise up, God, judge the earth, for all the nations are your inheritance.[^82-10]
 
 [^82-1]: *Of Asaph*: or "for Asaph", a Levite who led the temple singers (see the note on 50:1). In the Hebrew text the title is part of verse 1. In this psalm it shares the verse with the first line, so the verse numbers match English Bibles.
-[^82-2]: Literally "in the assembly of El", or "in the assembly of God". *El* is a word for God, and in the myths of Canaan it was also the name of the chief god, who presided over an assembly of gods. Here God (*Elohim*) stands in judgment in his own heavenly council (compare 89:6–8, English 89:5–7; 1 Kings 22:19; Job 1:6).
-[^82-3]: Hebrew *elohim*, the same word as "God" at the start of the verse. Here it means the members of God's council, heavenly beings who were given rule over the nations (compare Deuteronomy 32:8, as read in the Septuagint and a Dead Sea Scroll). Many Jewish and Christian interpreters have understood these "gods" as human rulers or judges, who judge in God's name (compare Exodus 21:6; 22:7–8, where *ha-elohim*, "God", may mean the judges).
+[^82-2]: Literally "in the assembly of El", or "in the assembly of God". *El* is a word for God, and in the myths of Canaan it was also the name of the chief god, who presided over an assembly of gods. Here God (*Elohim*) stands in judgment in his own heavenly council (compare 89:6–8, 89:5–7 in most English Bibles; 1 Kings 22:19; Job 1:6).
+[^82-3]: Hebrew *elohim*, the same word as "God" at the start of the verse. Here it means the members of God's council, heavenly beings who were given rule over the nations (compare Deuteronomy 32:8, as read in the Septuagint and a Dead Sea Scroll). Many Jewish and Christian interpreters have understood these "gods" as human rulers or judges, who judge in God's name (compare Exodus 21:6; 22:7–8, 22:8–9 in most English Bibles, where *ha-elohim*, "God", may mean the judges).
 [^82-4]: Literally "lift up the faces of the wicked", that is, show them partiality.
 [^82-5]: Hebrew *selah*, a musical or liturgical term of uncertain meaning.
 [^82-6]: Verse 5 may be God's words about the gods of the council, or the psalmist's own comment. Their injustice shakes the order of the world.
@@ -4204,7 +4204,7 @@
 [^84-8]: Literally "highways are in their heart", that is, the roads of pilgrimage to Zion.
 [^84-9]: Hebrew *ha-bakha*, perhaps a kind of balsam tree that grows in dry places (compare 2 Samuel 5:23–24), or "weeping" (from *bakhah*, "weep"). The valley is unknown.
 [^84-10]: Hebrew *berakhot*. The same consonants can be read *berekhot*, "pools".
-[^84-11]: The Septuagint reads "the God of gods will be seen in Zion", taking *el*, "to", as *El*, "God". For "appear before God", compare 42:3.
+[^84-11]: The Septuagint reads "the God of gods will be seen in Zion", taking *el*, "to", as *El*, "God". For "appear before God", compare 42:3 (42:2 in most English Bibles).
 [^84-12]: Or "God, our shield, look". *Our shield* may be the king, who is also "your anointed".
 [^84-13]: Hebrew *meshichekha*, "your anointed one", from *mashiach*: the king, anointed with oil.
 [^84-14]: Literally "than a thousand".
@@ -4326,7 +4326,7 @@
 [^87-2]: Literally "His foundation is on the holy mountains", that is, Zion, the city God founded.
 [^87-3]: *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles.
 [^87-4]: Hebrew *selah*, a musical or liturgical term of uncertain meaning. Also in verse 6.
-[^87-5]: Hebrew *Rahav*, a poetic name for Egypt (Isaiah 30:7), taken from the name of a sea monster (89:11, English 89:10; Job 26:12). It is not the Rahab of Joshua 2, whose name is spelled differently in Hebrew.
+[^87-5]: Hebrew *Rahav*, a poetic name for Egypt (Isaiah 30:7), taken from the name of a sea monster (89:11, 89:10 in most English Bibles; Job 26:12). It is not the Rahab of Joshua 2, whose name is spelled differently in Hebrew.
 [^87-6]: The land on the upper Nile, south of Egypt.
 [^87-7]: That is, people of these nations will be counted as born in Zion, as its own citizens.
 [^87-8]: Literally "a man and a man".
@@ -4527,7 +4527,7 @@
 [^89-23]: Hebrew *meshachtiv*, from the same root as *mashiach*, "anointed one". Acts 13:22 echoes the first half of this verse, together with 1 Samuel 13:14.
 [^89-24]: Hebrew *yashi*, "deceive", or "exact payment from".
 [^89-25]: Literally "a son of injustice". Compare 2 Samuel 7:10.
-[^89-26]: Perhaps the Mediterranean Sea and the river Euphrates with its streams (compare 72:8; 80:12, English 80:11). The king's rule mirrors God's rule over the sea (verse 10).
+[^89-26]: Perhaps the Mediterranean Sea and the river Euphrates with its streams (compare 72:8; 80:12, 80:11 in most English Bibles). The king's rule mirrors God's rule over the sea (verse 10).
 [^89-27]: Compare 2 Samuel 7:14 and Exodus 4:22, where Israel is God's firstborn son.
 [^89-28]: Hebrew *elyon*, the word used as a title of God, "the Most High". Revelation 1:5 echoes this verse and verse 38, calling Jesus "the faithful witness, the firstborn of the dead, and the ruler of the kings of the earth".
 [^89-29]: Literally "as the days of the heavens".
@@ -4542,7 +4542,7 @@
 [^89-38]: Literally "from the hand of Sheol". Hebrew *Sheol*, the realm of the dead.
 [^89-39]: Literally "my carrying in my bosom all of many peoples". The Hebrew is difficult, and "the insults of" is supplied from the context.
 [^89-40]: *Footsteps*: that is, every step he takes, wherever he goes. Later Jewish tradition used the phrase "the footsteps of the Messiah" for the troubled time before his coming.
-[^89-41]: This blessing closes Book 3 of the Psalms (Psalms 73–89). Books 1, 2 and 4 end in a similar way (41:14, English 41:13; 72:18–19; 106:48), and Psalm 150 closes the whole collection.
+[^89-41]: This blessing closes Book 3 of the Psalms (Psalms 73–89). Books 1, 2 and 4 end in a similar way (41:14, 41:13 in most English Bibles; 72:18–19; 106:48), and Psalm 150 closes the whole collection.
 
 ## Chapter 90
 
@@ -4685,7 +4685,7 @@
 [^92-2]: *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles.
 [^92-3]: Hebrew *Elyon*, a title of God.
 [^92-4]: Hebrew *chesed*: loyal, faithful love.
-[^92-5]: Hebrew *higgayon*, "a murmuring sound", perhaps the resounding music of the lyre. Compare 9:17, where it is a musical term.
+[^92-5]: Hebrew *higgayon*, "a murmuring sound", perhaps the resounding music of the lyre. Compare 9:17 (9:16 in most English Bibles), where it is a musical term.
 [^92-6]: A symbol of strength. Hebrew *re'em*, the wild ox.
 [^92-7]: Hebrew *balloti*, of uncertain meaning, probably "I am anointed" or "you have poured over me". The Septuagint reads "my old age with rich oil", taking the same consonants from another verb.
 [^92-8]: Literally "My eye has looked on those who watch me; of those who rise against me, evildoers, my ears hear."
@@ -4705,9 +4705,9 @@
 **5** Your statutes[^93-5] are very trustworthy; holiness befits your house, LORD, for all time to come.[^93-6]
 
 [^93-1]: *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles. Psalm 93 has no title in the Hebrew. The Septuagint gives it one: "For the day before the Sabbath, when the earth was settled. A song of praise, of David."
-[^93-2]: Or "The LORD has become king", "The LORD is king". Hebrew *YHWH malakh*. Psalms 93 and 95–99 are often called the "The LORD is king" psalms, or the enthronement psalms. They celebrate the LORD's rule as king over the whole world and its peoples (93:1; 95:3; 96:10; 97:1; 98:6; 99:1; compare 47:9).
+[^93-2]: Or "The LORD has become king", "The LORD is king". Hebrew *YHWH malakh*. Psalms 93 and 95–99 are often called the "The LORD is king" psalms, or the enthronement psalms. They celebrate the LORD's rule as king over the whole world and its peoples (93:1; 95:3; 96:10; 97:1; 98:6; 99:1; compare 47:9, 47:8 in most English Bibles).
 [^93-3]: The same words are in 96:10 and 1 Chronicles 16:30.
-[^93-4]: Hebrew *dokhyam*, found only here, "their pounding" or "their crashing". *Floods*: Hebrew *neharot*, "rivers", here the great waters that stand for the forces of chaos which God rules (compare 89:10, English 89:9).
+[^93-4]: Hebrew *dokhyam*, found only here, "their pounding" or "their crashing". *Floods*: Hebrew *neharot*, "rivers", here the great waters that stand for the forces of chaos which God rules (compare 89:10, 89:9 in most English Bibles).
 [^93-5]: Hebrew *edot*, traditionally "testimonies": the solemn terms of the covenant.
 [^93-6]: Literally "for length of days".
 
@@ -4947,7 +4947,7 @@
 [^99-4]: This refrain comes again in verse 5, and in a longer form at the end of verse 9 (compare Isaiah 6:3).
 [^99-5]: Literally "And the strength of a king loves justice." Or "Mighty King, who loves justice, you have established fairness".
 [^99-6]: The ark, or the temple where it stood (compare 132:7; 1 Chronicles 28:2).
-[^99-7]: Aaron was the first high priest. Moses also served as a priest when the priesthood was set up (Exodus 24:4–8; Leviticus 8), and Samuel offered sacrifices (1 Samuel 7:9). All three were known for interceding for the people (Exodus 32:11–14; Numbers 17:11–13, English 16:46–48; 1 Samuel 7:5–9; compare Jeremiah 15:1).
+[^99-7]: Aaron was the first high priest. Moses also served as a priest when the priesthood was set up (Exodus 24:4–8; Leviticus 8), and Samuel offered sacrifices (1 Samuel 7:9). All three were known for interceding for the people (Exodus 32:11–14; Numbers 17:11–13, 16:46–48 in most English Bibles; 1 Samuel 7:5–9; compare Jeremiah 15:1).
 [^99-8]: Compare Exodus 33:9 and Numbers 12:5.
 [^99-9]: Hebrew *edot*, traditionally "testimonies": the solemn terms of the covenant.
 [^99-10]: Or "and you avenged the wrongs done to them". *A God who forgave*: literally "a God who lifts", the word used for forgiving in Exodus 34:7.
@@ -5225,7 +5225,7 @@
 [^104-12]: Hebrew *shephannim*, the rock hyrax, a small animal that lives among rocks (Leviticus 11:5; Proverbs 30:26).
 [^104-13]: Hebrew *mo'adim*, "appointed times", including the festivals (compare Genesis 1:14).
 [^104-14]: Literally "wide of hands", stretching out on every side.
-[^104-15]: A great sea creature, pictured elsewhere as a monster of chaos (74:14; Job 3:8; 40:25, English 41:1; Isaiah 27:1). Here it is one of the creatures God has made.
+[^104-15]: A great sea creature, pictured elsewhere as a monster of chaos (74:14; Job 3:8; 40:25, 41:1 in most English Bibles; Isaiah 27:1). Here it is one of the creatures God has made.
 [^104-16]: Or "to play with".
 [^104-17]: Compare Genesis 3:19.
 [^104-18]: Or "your breath". Hebrew *ruach* means spirit, wind or breath; in verse 29 it is "their breath" (*rucham*).
@@ -5336,13 +5336,13 @@
 [^105-9]: Hebrew *meshichai*, "my anointed ones", from *mashiach*. Here it refers to the patriarchs, Abraham, Isaac and Jacob.
 [^105-10]: That is, the supply of food that people depend on, as one leans on a staff. The story of Joseph that follows is told in Genesis 37–50.
 [^105-11]: The Hebrew text is written "his feet" but read "his foot".
-[^105-12]: Hebrew *nephesh*, here perhaps "neck" or "throat" (compare 69:2), or "he himself".
+[^105-12]: Hebrew *nephesh*, here perhaps "neck" or "throat" (compare 69:2, 69:1 in most English Bibles), or "he himself".
 [^105-13]: *His word* may be Joseph's word, his reading of the dreams (Genesis 40–41), or God's word. *Tested*: or "refined", as metal is refined.
 [^105-14]: Literally "by his *nephesh*". The Septuagint reads "to instruct his princes", from a verb that differs by one letter.
 [^105-15]: That is, Egypt (compare Genesis 10:6, where Ham is the ancestor of Egypt).
 [^105-16]: Literally "They set among them the words of his signs". The plagues in verses 28–36 follow the account of Exodus 7–12, but in a different order, and without the plagues on livestock and of boils.
 [^105-17]: The Hebrew text is written "his words" but read "his word". *They* are probably Moses and Aaron. The Septuagint reads "and they rebelled against his words", without "not".
-[^105-18]: Hebrew *arov*, "swarm" or "mixture" (see Exodus 8:17, English 8:21). *Gnats*: Hebrew *kinnim* (Exodus 8:12–14, English 8:16–18).
+[^105-18]: Hebrew *arov*, "swarm" or "mixture" (see Exodus 8:17, 8:21 in most English Bibles). *Gnats*: Hebrew *kinnim* (Exodus 8:12–14, 8:16–18 in most English Bibles).
 [^105-19]: Compare Genesis 49:3.
 [^105-20]: Literally "He asked", that is, the people. The events are told in Exodus 16 and Numbers 11:31–34.
 [^105-21]: The manna (Exodus 16:4; compare 78:24).
@@ -5473,7 +5473,7 @@
 [^106-22]: A picture of Israel's unfaithfulness to God, as of a wife to her husband (compare Hosea 2; Ezekiel 16).
 [^106-23]: The Hebrew text is written "his faithful love" but read "his acts of faithful love".
 [^106-24]: Verses 47–48 are close to 1 Chronicles 16:35–36, where verse 35 begins "Say, 'Save us, God of our salvation! Gather us and rescue us from the nations…'"
-[^106-25]: 1 Chronicles 16:36 has "Then all the people said, 'Amen!' and praised the LORD." The blessing in this verse closes Book 4 of the Psalms (Psalms 90–106). Books 1, 2 and 3 end in a similar way (41:14, English 41:13; 72:18–19; 89:53, English 89:52), and Psalm 150 closes the whole collection.
+[^106-25]: 1 Chronicles 16:36 has "Then all the people said, 'Amen!' and praised the LORD." The blessing in this verse closes Book 4 of the Psalms (Psalms 90–106). Books 1, 2 and 3 end in a similar way (41:14, 41:13 in most English Bibles; 72:18–19; 89:53, 89:52 in most English Bibles), and Psalm 150 closes the whole collection.
 
 ## Chapter 107
 
@@ -5618,7 +5618,7 @@
 **14** With God we will do valiantly; he will trample our adversaries.
 
 [^108-1]: *Of David*: or "for David", "about David". In the Hebrew text the title is verse 1, so verses 2–14 are 108:1–13 in most English Bibles. The psalm joins two passages found elsewhere, with small differences: verses 2–6 are 57:8–12 (57:7–11 in most English Bibles), and verses 7–14 are 60:7–14 (60:5–12 in most English Bibles). The notes give the main differences.
-[^108-2]: Hebrew *af-kevodi*, "also my glory", perhaps meaning "with my whole being" (compare 16:9; 57:9, English 57:8). Psalm 57:8–9 (57:7–8 in most English Bibles) repeats "my heart is steadfast" and has "Wake up, my glory!"
+[^108-2]: Hebrew *af-kevodi*, "also my glory", perhaps meaning "with my whole being" (compare 16:9; 57:9, 57:8 in most English Bibles). Psalm 57:8–9 (57:7–8 in most English Bibles) repeats "my heart is steadfast" and has "Wake up, my glory!"
 [^108-3]: *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles. Psalm 57:10 (57:9 in most English Bibles) has "Lord".
 [^108-4]: Hebrew *chesed*: loyal, faithful love.
 [^108-5]: Psalm 57:11 (57:10 in most English Bibles) has "reaching to the heavens".

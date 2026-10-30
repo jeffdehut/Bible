@@ -268,7 +268,9 @@ from the Hebrew.
 - Where the narrator breaks into a speech (Luke 7:29–30), the quotation closes before the aside
   and reopens after it.
 - Within a chapter, a speech's quotation is opened once and closed once; it isn't reopened at
-  each verse. A "list" for the numbers rule is the paragraph its numbers belong to.
+  each verse. A long speech (a law code, a sermon) may be divided into paragraphs: a paragraph
+  of the same speech starts with an opening quotation mark and the one before it has no closing
+  mark, as in English print, and the reader starts a new paragraph there. A "list" for the numbers rule is the paragraph its numbers belong to.
 - Technical terms (tabernacle furnishings, sacrifices, priestly garments) get a full note at
   their first occurrence in a book. Later chapters give a short note only where a reader needs
   it, pointing back: "See 25:17."
@@ -284,7 +286,8 @@ from the Hebrew.
 - The note on an Old Testament quotation gives the reference in Hebrew numbering with the
   English added: "Psalm 2:7"; "Joel 3:1–5 (2:28–32 in most English Bibles)".
 
-**Before you finish.** `python3 scripts/translation.py --check <book>` must pass.
+**Before you finish.** `python3 scripts/translation.py --check <book>` must pass, and
+`python3 scripts/consistency.py` reports the rules a script can test (`translation/CONSISTENCY.md`).
 
 ## Format
 

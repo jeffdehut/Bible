@@ -562,7 +562,7 @@
 [^7-42]: That is, he took his father-in-law's name. On Barzillai the Gileadite, see 2 Samuel 17:27; 19:32–40 (19:31–39 in most English Bibles).
 [^7-43]: Literally "they were defiled from the priesthood". Ezra 2:62 has "they were not found".
 [^7-44]: Hebrew *tirshata*, a Persian title of a high official, perhaps meaning "His Excellency". Also in verse 69. It is used of Nehemiah in 8:9 and 10:2 (10:1 in most English Bibles).
-[^7-45]: Literally "the holy of holies": the priests' share of the most holy offerings (Leviticus 2:3; 6:10–11, English 6:17–18).
+[^7-45]: Literally "the holy of holies": the priests' share of the most holy offerings (Leviticus 2:3; 6:10–11; 6:17–18 in most English Bibles).
 [^7-46]: Literally "until the priest stood for Urim and Thummim". These were kept in the high priest's breastpiece and used to learn the LORD's decision (Exodus 28:30; Numbers 27:21). Ezra 2:63 has "a priest".
 [^7-47]: The numbers given in verses 8–62 add up to 31,089.
 [^7-48]: Ezra 2:65 has 200 singers.
@@ -918,7 +918,7 @@
 [^11-8]: 1 Chronicles 9:10 has "Jedaiah, Jehoiarib and Jachin".
 [^11-9]: Or "a member of one of the great families". *Haggedolim* means "the great ones".
 [^11-10]: The Hebrew is difficult. Literally "the head of the beginning, he gave thanks at the prayer".
-[^11-11]: Literally "the matter of a day in its day". Hebrew *amanah*, "firm agreement", is the word used in 10:1.
+[^11-11]: Literally "the matter of a day in its day". Hebrew *amanah*, "firm agreement", is the word used in 10:1 (9:38 in most English Bibles).
 [^11-12]: Literally "at the king's hand".
 [^11-13]: Literally "its daughters": the smaller places that belonged to a town. Also in verses 27–28 and 30–31.
 [^11-14]: Or "Ge-harashim".
@@ -1022,7 +1022,7 @@
 
 **47** So in the days of Zerubbabel and in the days of Nehemiah all Israel gave the portions for the singers and the gatekeepers, as each day required. They set apart what was due to the Levites, and the Levites set apart what was due to the descendants of Aaron.
 
-[^12-1]: Compare the priests who sealed the agreement in 10:3–9. Verses 12–21 name the heads of the same priestly families a generation later.
+[^12-1]: Compare the priests who sealed the agreement in 10:3–9 (10:2–8 in most English Bibles). Verses 12–21 name the heads of the same priestly families a generation later.
 [^12-2]: Hebrew *huyyedot*, found only here: songs or choirs of thanksgiving.
 [^12-3]: The Hebrew text is written "Unno" but read "Unni".
 [^12-4]: Or "according to their divisions". Literally "for watches".
@@ -1125,7 +1125,7 @@
 [^13-10]: Hebrew *chesed*: loyal, faithful love.
 [^13-11]: Literally "who had settled", that is, taken them into their homes as wives. Also in verse 27.
 [^13-12]: Hebrew *ashdodit*, the language of the people of Ashdod, a Philistine city.
-[^13-13]: Compare 10:31 and Deuteronomy 7:3.
+[^13-13]: Compare 10:31 (10:30 in most English Bibles) and Deuteronomy 7:3.
 [^13-14]: See 1 Kings 3:12–13; 11:1–8; 2 Samuel 12:24–25.
 [^13-15]: Or "Must we hear of you".
 [^13-16]: Compare Numbers 25:12–13; Malachi 2:4–8.

@@ -176,7 +176,7 @@
 [^2-34]: Hebrew *radnu*, a rare verb, perhaps "we roam freely" or "we are free".
 [^2-35]: Or "you have trained your ways in wickedness". The Hebrew text is written "I have taught" but read "you have taught". The written form may be an old spelling of "you have taught" (compare verse 20).
 [^2-36]: Literally "on your wings", the edges of a robe.
-[^2-37]: A householder who killed a burglar caught breaking in was not guilty of murder (Exodus 22:1). These victims had done nothing of the kind.
+[^2-37]: A householder who killed a burglar caught breaking in was not guilty of murder (Exodus 22:1, 22:2 in most English Bibles). These victims had done nothing of the kind.
 [^2-38]: The Hebrew of this line is obscure. Literally "for on all these".
 [^2-39]: A gesture of grief and shame (2 Samuel 13:19).
 
@@ -484,7 +484,7 @@
 
 **22** This is what the LORD says: Look, a people is coming from the land of the north; a great nation is being stirred up from the farthest parts of the earth.
 
-**23** They grasp bow and javelin; they are cruel and show no mercy. Their sound is like the roaring sea; they ride on horses, drawn up like warriors for battle against you, daughter Zion.
+**23** They grasp bow and javelin; they are cruel and show no mercy. Their sound is like the roaring sea; they ride on horses, drawn up like warriors for battle against you, Daughter Zion.
 
 **24** We have heard the report of them; our hands hang limp. Anguish has gripped us, pain like that of a woman in labor.
 
@@ -2938,7 +2938,7 @@
 [^41-10]: Hebrew *rav-tabbachim*, literally "chief of the butchers" or "chief of the cooks", a title of the commander of the royal bodyguard.
 [^41-11]: Literally "the great waters" (compare 2 Samuel 2:13).
 [^41-12]: Hebrew *sarisim*, court officials. The word can also mean eunuchs.
-[^41-13]: Perhaps "the lodging place of Chimham". The Hebrew text is written "Kimoham" but read "Chimham". Chimham may be the son of Barzillai to whom David showed kindness (2 Samuel 19:38–41).
+[^41-13]: Perhaps "the lodging place of Chimham". The Hebrew text is written "Kimoham" but read "Chimham". Chimham may be the son of Barzillai to whom David showed kindness (2 Samuel 19:38–41, 19:37–40 in most English Bibles).
 
 ## Chapter 42
 
@@ -3505,7 +3505,7 @@
 [^49-26]: The name of several kings of Damascus (1 Kings 15:18; 2 Kings 13:3). Compare Amos 1:4.
 [^49-27]: Kedar was a people of the Arabian desert (2:10). This Hazor is not the city in Galilee but probably a group of Arab settlements. Nebuchadnezzar campaigned against the Arabs in 599–598 BC.
 [^49-28]: The Hebrew text is written "against them" but read "against you".
-[^49-29]: See 9:25.
+[^49-29]: See 9:25 (9:26 in most English Bibles).
 [^49-30]: Elam lay east of Babylonia, in what is now southwestern Iran. Zedekiah began to reign in 597 BC.
 [^49-31]: Literally "the first of their might". The Elamites were famous archers (Isaiah 22:6).
 [^49-32]: The Hebrew text is written *olam*, "forever", but read *Elam*.

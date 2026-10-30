@@ -3396,7 +3396,7 @@
 
 **1** This is what the LORD[^56-1] says: Keep justice and do what is right,[^56-2] for my salvation is about to come, and my righteousness to be revealed.
 
-**2** Blessed is the person who does this, the human being who holds fast to it, who keeps the Sabbath without profaning it and keeps his hand from doing any evil.
+**2** Happy is the person who does this, the human being who holds fast to it, who keeps the Sabbath without profaning it and keeps his hand from doing any evil.
 
 **3** Let no foreigner who has joined himself to the LORD say, "The LORD will surely separate me from his people." And let no eunuch say, "Look, I am only a dry tree."[^56-3]
 

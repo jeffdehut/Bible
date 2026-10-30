@@ -488,7 +488,7 @@
 
 **5** And Noah did everything just as the LORD had commanded him.
 
-**6** Noah was 600 years old when the flood came, the waters on the earth.
+**6** Noah was six hundred years old when the flood came, the waters on the earth.
 
 **7** Noah went into the ark, with his sons, his wife and his sons' wives, to escape the waters of the flood.
 
@@ -847,7 +847,7 @@
 
 **3** I will bless those who bless you, and whoever treats you with contempt I will curse.[^12-4] In you all the families of the earth will be blessed."[^12-5]
 
-**4** So Abram went, as the LORD had told him, and Lot went with him. Abram was 75 years old when he left Haran.
+**4** So Abram went, as the LORD had told him, and Lot went with him. Abram was seventy-five years old when he left Haran.
 
 **5** Abram took his wife Sarai, his nephew Lot, all the possessions they had gathered, and the people they had acquired[^12-6] in Haran, and they set out for the land of Canaan. They came to the land of Canaan,
 
@@ -1008,7 +1008,7 @@
 [^14-9]: The meaning of the Hebrew verb is uncertain; literally "emptied out".
 [^14-10]: Literally "on the left of", that is, for someone facing east.
 [^14-11]: *Melchizedek* means "king of righteousness".
-[^14-12]: Probably Jerusalem (compare Psalm 76:3, 76:2 in English).
+[^14-12]: Probably Jerusalem; compare Psalm 76:3 (76:2 in most English Bibles).
 [^14-13]: Hebrew *El Elyon*; also in verses 19, 20 and 22.
 [^14-14]: Or "Owner", "Maker"; also in verse 22.
 [^14-15]: Literally "he gave him a tenth of everything".
@@ -1044,7 +1044,7 @@
 
 **12** As the sun was going down, a deep sleep fell on Abram, and a terror, a great darkness, came over him.
 
-**13** Then he said to Abram, "Know for certain that your offspring will be foreigners in a land that is not theirs. They will be enslaved and oppressed for 400 years.
+**13** Then he said to Abram, "Know for certain that your offspring will be foreigners in a land that is not theirs. They will be enslaved and oppressed for four hundred years.
 
 **14** But I will judge the nation they serve, and afterward they will come out with great possessions.
 
@@ -1064,7 +1064,7 @@
 
 [^15-1]: *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles.
 [^15-2]: Or "I am your shield, your very great reward".
-[^15-3]: Hebrew *Adonai YHWH*; also in verse 8.
+[^15-3]: Hebrew *Adonai YHWH*, "my Lord YHWH". After "Lord", God's personal name is written GOD in capitals, as in most English Bibles. Also in verse 8.
 [^15-4]: The meaning of the Hebrew phrase, *ben-mesheq beti*, is uncertain. *Mesheq* sounds like *Dammeseq*, "Damascus".
 [^15-5]: Literally "seed"; also in verses 5, 13 and 18.
 [^15-6]: Literally "who comes out of your inner parts".
@@ -1108,7 +1108,7 @@
 
 **15** Hagar bore Abram a son, and Abram named his son, whom Hagar bore, Ishmael.
 
-**16** Abram was 86 years old when Hagar bore Ishmael to Abram.
+**16** Abram was eighty-six years old when Hagar bore Ishmael to Abram.
 
 [^16-1]: Or "slave woman". Hebrew *shiphchah*, a female servant who belonged to her mistress.
 [^16-2]: *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles.
@@ -1128,7 +1128,7 @@
 
 *Status: draft*
 
-**1** When Abram was 99 years old, the LORD[^17-1] appeared to Abram and said to him, "I am God Almighty.[^17-2] Walk before me and be blameless.[^17-3]
+**1** When Abram was ninety-nine years old, the LORD[^17-1] appeared to Abram and said to him, "I am God Almighty.[^17-2] Walk before me and be blameless.[^17-3]
 
 **2** I will make my covenant between me and you, and I will multiply you greatly."
 
@@ -1160,7 +1160,7 @@
 
 **16** I will bless her, and I will also give you a son by her. I will bless her, and she will become nations; kings of peoples will come from her."
 
-**17** Abraham fell face down and laughed.[^17-12] He said to himself, "Will a son be born to a man who is 100 years old? Will Sarah, who is 90 years old, give birth?"
+**17** Abraham fell face down and laughed.[^17-12] He said to himself, "Will a son be born to a man who is a hundred years old? Will Sarah, who is ninety years old, give birth?"
 
 **18** And Abraham said to God, "If only Ishmael might live under your favor!"[^17-13]
 
@@ -1174,9 +1174,9 @@
 
 **23** Then Abraham took his son Ishmael and all those born in his household and all those bought with his money, every male among the men of Abraham's household, and he circumcised the flesh of their foreskins that very day, as God had told him.
 
-**24** Abraham was 99 years old when he was circumcised in the flesh of his foreskin,
+**24** Abraham was ninety-nine years old when he was circumcised in the flesh of his foreskin,
 
-**25** and his son Ishmael was 13 years old when he was circumcised in the flesh of his foreskin.
+**25** and his son Ishmael was thirteen years old when he was circumcised in the flesh of his foreskin.
 
 **26** On that very day Abraham and his son Ishmael were circumcised.
 
@@ -1449,7 +1449,7 @@
 
 **4** Abraham circumcised his son Isaac when he was eight days old, as God had commanded him.
 
-**5** Abraham was 100 years old when his son Isaac was born to him.
+**5** Abraham was a hundred years old when his son Isaac was born to him.
 
 **6** Sarah said, "God has brought me laughter. Everyone who hears will laugh with me."[^21-3]
 
@@ -1845,7 +1845,7 @@
 
 **19** These are the generations of Isaac, Abraham's son. Abraham fathered Isaac.
 
-**20** Isaac was 40 years old when he married Rebekah, daughter of Bethuel the Aramean of Paddan-aram[^25-7] and sister of Laban the Aramean.
+**20** Isaac was forty years old when he married Rebekah, daughter of Bethuel the Aramean of Paddan-aram[^25-7] and sister of Laban the Aramean.
 
 **21** Isaac prayed to the LORD[^25-8] for his wife, because she was barren. The LORD answered his prayer, and his wife Rebekah became pregnant.
 
@@ -1857,7 +1857,7 @@
 
 **25** The first came out red,[^25-10] his whole body like a hairy[^25-11] cloak, so they named him Esau.
 
-**26** After this his brother came out, with his hand grasping Esau's heel, so he was named Jacob.[^25-12] Isaac was 60 years old when she bore them.
+**26** After this his brother came out, with his hand grasping Esau's heel, so he was named Jacob.[^25-12] Isaac was sixty years old when she bore them.
 
 **27** When the boys grew up, Esau became a skillful hunter, a man of the open country, while Jacob was a quiet[^25-13] man, living in tents.
 
@@ -1962,7 +1962,7 @@
 
 **33** He named it Shibah.[^26-14] That is why the name of the city is Beersheba to this day.
 
-**34** When Esau was 40 years old, he married Judith daughter of Beeri the Hittite, and Basemath daughter of Elon the Hittite.
+**34** When Esau was forty years old, he married Judith daughter of Beeri the Hittite, and Basemath daughter of Elon the Hittite.
 
 **35** They made life bitter[^26-15] for Isaac and Rebekah.
 

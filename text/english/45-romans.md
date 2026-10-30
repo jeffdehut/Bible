@@ -138,7 +138,7 @@
 
 **19** and are confident that you are a guide to the blind, a light to those in darkness,
 
-**20** an instructor of the foolish, a teacher of children, because you have in the Law the embodiment of knowledge and truth —
+**20** an instructor of the foolish, a teacher of children, because you have in the Law the embodiment of knowledge and truth—
 
 **21** you, then, who teach another, do you not teach yourself? You who preach that one must not steal, do you steal?
 
@@ -373,7 +373,7 @@
 
 **11** And not only that, but we also boast in God through our Lord Jesus Christ, through whom we have now received reconciliation.
 
-**12** Therefore, just as sin came into the world through one man, and death through sin, and so death spread to all people, because all sinned[^5-6] —
+**12** Therefore, just as sin came into the world through one man, and death through sin, and so death spread to all people, because all sinned[^5-6]—
 
 **13** for sin was in the world before the Law,[^5-7] but sin is not counted when there is no law.
 
@@ -679,7 +679,7 @@
 
 **9** For this is what the promise said: "At this time I will come, and Sarah will have a son."[^9-10]
 
-**10** And not only that, but Rebekah too, when she had conceived children by one man, our father Isaac —
+**10** And not only that, but Rebekah too, when she had conceived children by one man, our father Isaac—
 
 **11** for though they were not yet born and had done nothing either good or bad, so that God's purpose in choosing might stand,
 
@@ -1148,7 +1148,7 @@
 
 **23** But now, since I no longer have any room for work in these regions, and since I have longed for several years[^15-16] to come to you,
 
-**24** whenever I go to Spain[^15-17]—for I hope to see you as I pass through and to be sent on my way there by you, once I have first enjoyed your company for a while —
+**24** whenever I go to Spain[^15-17]—for I hope to see you as I pass through and to be sent on my way there by you, once I have first enjoyed your company for a while—
 
 **25** but now I am going to Jerusalem to serve God's holy people.[^15-18]
 

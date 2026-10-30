@@ -17,7 +17,7 @@
 
 **5** to whom be the glory forever and ever. Amen.
 
-**6** I am astonished that you are so quickly deserting him who called you by the grace of Christ, and are turning to a different good news[^1-3] —
+**6** I am astonished that you are so quickly deserting him who called you by the grace of Christ, and are turning to a different good news[^1-3]—
 
 **7** not that there is another one; but there are some who are troubling you and want to distort the good news of Christ.
 
@@ -83,7 +83,7 @@
 
 **3** But not even Titus, who was with me, was compelled to be circumcised, though he was a Greek.
 
-**4** But because of the false brothers[^2-2] secretly brought in, who slipped in to spy on the freedom that we have in Christ Jesus, so that they might enslave us —
+**4** But because of the false brothers[^2-2] secretly brought in, who slipped in to spy on the freedom that we have in Christ Jesus, so that they might enslave us—
 
 **5** we did not give in to them and submit even for a moment, so that the truth of the good news might remain with you.
 
