@@ -559,6 +559,7 @@ if (/(^#|&)(access_token|error)=/.test(location.hash)) {
     <textarea id="note" placeholder="Write a note on this verse. It's saved on this device."></textarea>
   </div>
   <div class="section actions">
+    <button class="btn line" type="button" id="share-verse"><svg class="icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="18" cy="5" r="2.5"/><circle cx="6" cy="12" r="2.5"/><circle cx="18" cy="19" r="2.5"/><path d="m8.2 10.8 7.6-4.4M8.2 13.2l7.6 4.4"/></svg>Share verse</button>
     <button class="btn line" type="button" id="copy-verse"><svg class="icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linejoin="round"><rect x="8" y="8" width="12" height="12" rx="2"/><path d="M16 8V5a1 1 0 0 0-1-1H5a1 1 0 0 0-1 1v10a1 1 0 0 0 1 1h3"/></svg>Copy verse</button>
   </div>
 </section>
@@ -1099,6 +1100,8 @@ async function openVerse(span) {
   $("note").value = a.n || "";
   $("note").oninput = () => { setNote(id, span, $("note").value); };
   $("copy-verse").onclick = () => copyVerse(row);
+  $("share-verse").onclick = () => window.Share?.verse({ ref: `${bookName} ${c}:${n}`, text: plainVerse(row[1]),
+    note: "Open Plain English Translation · draft", url: Share.here("index.html", refHash(b, c, n)).replace(/index\.html#/, "#") });
   // Words.
   $("word").hidden = true;
   const inter = $("inter");
@@ -2052,6 +2055,7 @@ var reader = {
 };
 </script>
 <script src="config.js?v=15"></script>
+<script src="share.js?v=15"></script>
 <script src="account.js?v=15"></script>
 </body>
 </html>

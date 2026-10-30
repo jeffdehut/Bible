@@ -374,6 +374,7 @@ button { font: inherit; color: inherit; }
 
 <!-- DATA -->
 <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/7.8.5/d3.min.js"></script>
+<script src="share.js?v=15"></script>
 <script>
 (() => {
   const $ = id => document.getElementById(id);
@@ -754,6 +755,7 @@ button { font: inherit; color: inherit; }
 
   // ---- The card
   const ICON = {
+    share: '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="18" cy="5" r="2.5"/><circle cx="6" cy="12" r="2.5"/><circle cx="18" cy="19" r="2.5"/><path d="m8.2 10.8 7.6-4.4M8.2 13.2l7.6 4.4"/></svg>',
     read: '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linejoin="round"><path d="M12 6c-2-1.3-4.7-1.8-8-1.5v13c3.3-.3 6 .2 8 1.5 2-1.3 4.7-1.8 8-1.5v-13c-3.3-.3-6 .2-8 1.5Zm0 0v13"/></svg>',
     span: '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M4 6v12M20 6v12M7 12h10M10 9l-3 3 3 3M14 9l3 3-3 3"/></svg>',
     link: '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M14 4h6v6M20 4l-9 9M18 14v5a1 1 0 0 1-1 1H5a1 1 0 0 1-1-1V7a1 1 0 0 1 1-1h5"/></svg>',
@@ -786,7 +788,11 @@ button { font: inherit; color: inherit; }
     parts.push(el("div", { class: "actions" },
       href ? act({ href }, `Read ${ref}`, "read", true) : null,
       d.k !== "e" ? act({ onclick: () => showYears(d) }, "Show its years", "span", !href) : act({ onclick: () => showYears(d) }, "Show its time", "span", !href),
-      d.wd ? act({ href: `https://www.wikidata.org/wiki/${d.wd}`, target: "_blank", rel: "noopener" }, "Wikidata", "link") : null));
+      d.wd ? act({ href: `https://www.wikidata.org/wiki/${d.wd}`, target: "_blank", rel: "noopener" }, "Wikidata", "link") : null,
+      act({ onclick: () => window.Share?.history({
+        item: { n: d.n, when: when(d), kind: d.sync ? "Synchronism" : KIND[d.k], stream: d.s, color: colour[d.s], a: d.a, z: d.k === "e" ? d.a : d.z },
+        kin: sameTime(d).map(o => ({ n: o.n, s: o.s, color: colour[o.s], a: o.a, z: o.k === "e" ? o.a : o.z, event: o.k === "e" })),
+        url: Share.here("history.html", "#" + itemHash(d)) }) }, "Share", "share")));
     const kin = sameTime(d);
     if (kin.length) parts.push(el("div", { class: "rel" }, el("h3", { text: d.k === "e" ? "At the time" : "At the same time" }),
       el("div", { class: "list" }, kin.map(o => el("button", { type: "button", class: "node-chip", onclick: () => select(o, { reveal: true }) },
@@ -810,8 +816,16 @@ button { font: inherit; color: inherit; }
     const top = scroller.scrollTop, view = scroller.clientHeight - parseFloat(getComputedStyle(stage).getPropertyValue("--head")) - (innerWidth < 760 && !card.hidden ? scroller.clientHeight * 0.5 : 96);
     if (y < top + 10 || y > top + view - 30) scroller.scrollTo({ top: Math.max(0, y - 60), behavior: reduced ? "auto" : "smooth" });
   }
+  // A link to an item: #item=its name (and its stream, where a name is used twice).
+  const itemHash = d => "item=" + encodeURIComponent(d.n) + (items.filter(o => o.n === d.n).length > 1 ? "&in=" + encodeURIComponent(d.s) : "");
+  function fromHash() {
+    const h = new URLSearchParams(location.hash.slice(1));
+    const n = h.get("item"), st = h.get("in");
+    return n ? items.find(o => o.n === n && (!st || o.s === st)) || null : null;
+  }
   function select(d, opts = {}) {
     selected = d; hideTip();
+    try { history.replaceState(null, "", d ? "#" + itemHash(d) : location.pathname); } catch (e) { /* not allowed here */ }
     if (!d) { card.hidden = true; document.body.classList.remove("card-open"); draw(); return; }
     if (!groupOn.get(groupOf.get(d.s))) { groupOn.set(groupOf.get(d.s), true); renderKey(); }
     renderCard(d);
@@ -940,6 +954,8 @@ button { font: inherit; color: inherit; }
     $("title").classList.add("gone");
     setTimeout(() => { $("title").hidden = true; }, 1000);
     stage.classList.add("ready");
+    const linked = fromHash();
+    if (linked) { select(linked); showYears(linked); return; }
     rangeButtons[0].setAttribute("aria-pressed", "true");
     setDomain(RANGES[0][2], true, 1400);
   }

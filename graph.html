@@ -326,6 +326,7 @@ body::before { content: ""; position: fixed; inset: 0 0 auto; height: env(safe-a
 </main>
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/7.8.5/d3.min.js"></script>
+<script src="share.js?v=15"></script>
 <script>
 (() => {
   const $ = id => document.getElementById(id);
@@ -914,6 +915,7 @@ body::before { content: ""; position: fixed; inset: 0 0 auto; height: env(safe-a
   let briefs = null;
   const loadBriefs = () => briefs || (briefs = fetch("data/graph-briefs.json").then(r => r.json()).catch(() => (briefs = null)));
   const ICON = {
+    share: '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="18" cy="5" r="2.5"/><circle cx="6" cy="12" r="2.5"/><circle cx="18" cy="19" r="2.5"/><path d="m8.2 10.8 7.6-4.4M8.2 13.2l7.6 4.4"/></svg>',
     read: '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linejoin="round"><path d="M12 6c-2-1.3-4.7-1.8-8-1.5v13c3.3-.3 6 .2 8 1.5 2-1.3 4.7-1.8 8-1.5v-13c-3.3-.3-6 .2-8 1.5Zm0 0v13"/></svg>',
     tree: '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="5" r="2.5"/><circle cx="6" cy="19" r="2.5"/><circle cx="18" cy="19" r="2.5"/><path d="M12 7.5v4M6 16.5V14h12v2.5"/></svg>',
     map: '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linejoin="round"><path d="M12 21s-7-6.2-7-11.5a7 7 0 0 1 14 0C19 14.8 12 21 12 21Z"/><circle cx="12" cy="9.5" r="2.5"/></svg>',
@@ -976,6 +978,17 @@ body::before { content: ""; position: fixed; inset: 0 0 auto; height: env(safe-a
       kids.push(chips(k === 3 ? "People" : "Events", by(5).filter(([j]) => (k === 3 ? kind[j] === 1 : kind[j] === 3)).map(([j]) => [j, k !== 3 && D.yr[j - NC] != null ? yl(D.yr[j - NC]) : ""])));
       if (k === 3) kids.push(chips("Places", by(5).filter(([j]) => kind[j] === 2).map(([j]) => [j])));
     }
+    // Share: a picture of this point and its strongest threads, with a link back here.
+    const share = el("button", { type: "button", class: "act", onclick: () => {
+      const seen = new Set();
+      const ns = adj[i].map(([j, , w]) => [j, (w || 0) * 100 + deg[j]]).sort((a, b) => b[1] - a[1])
+        .filter(([j]) => !seen.has(j) && seen.add(j)).slice(0, 14)
+        .map(([j]) => ({ label: split(j)[0], color: GROUPS[group[j]].c[0], ring: kind[j] === 2 }));
+      window.Share?.web({ center: { label: split(i)[0], sub: kicker, color: GROUPS[group[i]].c[0] }, nodes: ns,
+        caption: `${fmt.format(deg[i])} connections`, url: Share.here("graph.html", location.hash) });
+    } });
+    share.innerHTML = ICON.share; share.append("Share");
+    actions.append(share);
     card.replaceChildren(...kids.filter(Boolean));
     card.hidden = false;
     card.scrollTop = 0;
