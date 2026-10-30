@@ -64,6 +64,16 @@ h1 { margin: 0; font: 400 clamp(2.6rem, 1.8rem + 4vw, 4.6rem)/1 var(--display); 
 .plate .lbl { font: 700 10px/1.1 var(--slab); letter-spacing: 0.14em; text-transform: uppercase; }
 .plate .no { font: 400 40px/1 var(--display); color: var(--red); }
 .plate .no.word { font-size: 22px; padding-top: 8px; }
+/* A card with a picture of its sheet: the picture across the top, the plate on its corner. */
+.sheet.has-pic { grid-template-columns: minmax(0, 1fr); gap: 0; padding: 0; overflow: hidden; }
+.sheet.has-pic .body { padding: 14px 18px 16px; }
+.pic { position: relative; aspect-ratio: 16 / 9; overflow: hidden; border-bottom: 1px solid var(--line); background: var(--paper); }
+.pic img { display: block; width: 100%; height: 100%; object-fit: cover; object-position: center 40%; transition: transform 0.6s cubic-bezier(.2, .7, .2, 1); }
+@media (prefers-reduced-motion: no-preference) { .sheet.has-pic:hover .pic img { transform: scale(1.04); } }
+.pic .plate { position: absolute; left: 10px; top: 10px; margin: 0; padding: 6px 8px 7px; outline-offset: 2px; box-shadow: 0 2px 8px rgb(0 0 0 / 18%); }
+.pic .plate .lbl { font-size: 8.5px; }
+.pic .plate .no { font-size: 26px; }
+.pic .plate .no.word { font-size: 15px; padding-top: 4px; }
 .body { min-width: 0; display: grid; gap: 6px; align-content: start; }
 .era { margin: 0; font: 600 11.5px/1.35 var(--sans); letter-spacing: 0.08em; text-transform: uppercase; color: var(--muted); }
 .sheet h2 { margin: 0; font: 700 1.35rem/1.15 var(--serif); text-wrap: balance; }

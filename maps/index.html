@@ -76,6 +76,16 @@ h1 { margin: 0; font: 400 clamp(2.6rem, 1.8rem + 4vw, 4.6rem)/1 var(--display); 
 .plate .lbl { font: 700 10px/1.1 var(--slab); letter-spacing: 0.14em; text-transform: uppercase; }
 .plate .no { font: 400 40px/1 var(--display); color: var(--red); }
 .plate .no.word { font-size: 22px; padding-top: 8px; }
+/* A card with a picture of its sheet: the picture across the top, the plate on its corner. */
+.sheet.has-pic { grid-template-columns: minmax(0, 1fr); gap: 0; padding: 0; overflow: hidden; }
+.sheet.has-pic .body { padding: 14px 18px 16px; }
+.pic { position: relative; aspect-ratio: 16 / 9; overflow: hidden; border-bottom: 1px solid var(--line); background: var(--paper); }
+.pic img { display: block; width: 100%; height: 100%; object-fit: cover; object-position: center 40%; transition: transform 0.6s cubic-bezier(.2, .7, .2, 1); }
+@media (prefers-reduced-motion: no-preference) { .sheet.has-pic:hover .pic img { transform: scale(1.04); } }
+.pic .plate { position: absolute; left: 10px; top: 10px; margin: 0; padding: 6px 8px 7px; outline-offset: 2px; box-shadow: 0 2px 8px rgb(0 0 0 / 18%); }
+.pic .plate .lbl { font-size: 8.5px; }
+.pic .plate .no { font-size: 26px; }
+.pic .plate .no.word { font-size: 15px; padding-top: 4px; }
 .body { min-width: 0; display: grid; gap: 6px; align-content: start; }
 .era { margin: 0; font: 600 11.5px/1.35 var(--sans); letter-spacing: 0.08em; text-transform: uppercase; color: var(--muted); }
 .sheet h2 { margin: 0; font: 700 1.35rem/1.15 var(--serif); text-wrap: balance; }
@@ -141,8 +151,8 @@ body::before { content: ""; position: fixed; inset: 0 0 auto; height: env(safe-a
   </header>
   <p class="order">In the order of the Bible’s history</p>
   <ol class="sheets">
-    <li><a class="sheet" href="western-asia.html">
-      <div class="plate" aria-hidden="true"><span class="lbl">Map No.</span><span class="no">4</span></div>
+    <li><a class="sheet has-pic" href="western-asia.html">
+      <div class="pic"><img src="previews/western-asia.jpg" alt="" loading="lazy" decoding="async"><div class="plate" aria-hidden="true"><span class="lbl">Map No.</span><span class="no">4</span></div></div>
       <div class="body">
         <p class="era">The patriarchs · about 2000–1700 BC</p>
         <h2>Western Asia</h2>
@@ -152,8 +162,8 @@ body::before { content: ""; position: fixed; inset: 0 0 auto; height: env(safe-a
         <div class="tints" aria-hidden="true"><span style="background: var(--yellow)"></span><span style="background: var(--lime)"></span><span style="background: var(--olive)"></span><span style="background: var(--sage)"></span><span style="background: var(--salmon)"></span><span style="background: var(--blush)"></span></div>
       </div>
     </a></li>
-    <li><a class="sheet" href="exodus.html">
-      <div class="plate" aria-hidden="true"><span class="lbl">Map No.</span><span class="no">5</span></div>
+    <li><a class="sheet has-pic" href="exodus.html">
+      <div class="pic"><img src="previews/exodus.jpg" alt="" loading="lazy" decoding="async"><div class="plate" aria-hidden="true"><span class="lbl">Map No.</span><span class="no">5</span></div></div>
       <div class="body">
         <p class="era">The wilderness years · 1491 BC by Ussher</p>
         <h2>The Exodus</h2>
@@ -163,8 +173,8 @@ body::before { content: ""; position: fixed; inset: 0 0 auto; height: env(safe-a
         <div class="tints" aria-hidden="true"><span style="background: var(--yellow)"></span><span style="background: var(--lime)"></span><span style="background: var(--olive)"></span><span style="background: var(--sage)"></span><span style="background: var(--salmon)"></span><span style="background: var(--wild)"></span></div>
       </div>
     </a></li>
-    <li><a class="sheet" href="palestine-history.html">
-      <div class="plate" aria-hidden="true"><span class="lbl">Map No.</span><span class="no">2</span></div>
+    <li><a class="sheet has-pic" href="palestine-history.html">
+      <div class="pic"><img src="previews/palestine-history.jpg" alt="" loading="lazy" decoding="async"><div class="plate" aria-hidden="true"><span class="lbl">Map No.</span><span class="no">2</span></div></div>
       <div class="body">
         <p class="era">The conquest to Solomon · about 1400–930 BC</p>
         <h2>Palestine: Old Testament History</h2>
@@ -174,8 +184,8 @@ body::before { content: ""; position: fixed; inset: 0 0 auto; height: env(safe-a
         <div class="tints" aria-hidden="true"><span style="background: var(--lime)"></span><span style="background: var(--salmon)"></span><span style="background: var(--sage)"></span><span style="background: var(--olive)"></span><span style="background: var(--yellow)"></span><span style="background: var(--blush)"></span></div>
       </div>
     </a></li>
-    <li><a class="sheet" href="kingdoms.html">
-      <div class="plate" aria-hidden="true"><span class="lbl">Map No.</span><span class="no">7</span></div>
+    <li><a class="sheet has-pic" href="kingdoms.html">
+      <div class="pic"><img src="previews/kingdoms.jpg" alt="" loading="lazy" decoding="async"><div class="plate" aria-hidden="true"><span class="lbl">Map No.</span><span class="no">7</span></div></div>
       <div class="body">
         <p class="era">The divided kingdom · 931–586 BC</p>
         <h2>The Kingdoms of Judah and Israel</h2>
@@ -185,8 +195,8 @@ body::before { content: ""; position: fixed; inset: 0 0 auto; height: env(safe-a
         <div class="tints" aria-hidden="true"><span style="background: var(--sage)"></span><span style="background: var(--blush)"></span><span style="background: var(--olive)"></span><span style="background: var(--salmon)"></span><span style="background: var(--yellow)"></span></div>
       </div>
     </a></li>
-    <li><a class="sheet" href="empires.html">
-      <div class="plate" aria-hidden="true"><span class="lbl">Map No.</span><span class="no">6</span></div>
+    <li><a class="sheet has-pic" href="empires.html">
+      <div class="pic"><img src="previews/empires.jpg" alt="" loading="lazy" decoding="async"><div class="plate" aria-hidden="true"><span class="lbl">Map No.</span><span class="no">6</span></div></div>
       <div class="body">
         <p class="era">The exile and return · about 740–440 BC</p>
         <h2>The Empires: Assyria, Babylon, Persia</h2>
@@ -196,8 +206,8 @@ body::before { content: ""; position: fixed; inset: 0 0 auto; height: env(safe-a
         <div class="tints" aria-hidden="true"><span style="background: var(--olive)"></span><span style="background: var(--salmon)"></span><span style="background: var(--yellow)"></span><span style="background: var(--sage)"></span><span style="background: var(--lime)"></span><span style="background: var(--blush)"></span></div>
       </div>
     </a></li>
-    <li><a class="sheet" href="palestine.html">
-      <div class="plate" aria-hidden="true"><span class="lbl">Map No.</span><span class="no">1</span></div>
+    <li><a class="sheet has-pic" href="palestine.html">
+      <div class="pic"><img src="previews/palestine.jpg" alt="" loading="lazy" decoding="async"><div class="plate" aria-hidden="true"><span class="lbl">Map No.</span><span class="no">1</span></div></div>
       <div class="body">
         <p class="era">The life of Jesus · about 5 BC to AD 30</p>
         <h2>Palestine in the Time of Christ</h2>
@@ -207,8 +217,8 @@ body::before { content: ""; position: fixed; inset: 0 0 auto; height: env(safe-a
         <div class="tints" aria-hidden="true"><span style="background: var(--yellow)"></span><span style="background: var(--salmon)"></span><span style="background: var(--olive)"></span><span style="background: var(--lime)"></span><span style="background: var(--sage)"></span><span style="background: var(--blush)"></span></div>
       </div>
     </a></li>
-    <li><a class="sheet" href="jerusalem.html">
-      <div class="plate" aria-hidden="true"><span class="lbl">Ancient</span><span class="no word">Plan</span></div>
+    <li><a class="sheet has-pic" href="jerusalem.html">
+      <div class="pic"><img src="previews/jerusalem.jpg" alt="" loading="lazy" decoding="async"><div class="plate" aria-hidden="true"><span class="lbl">Ancient</span><span class="no word">Plan</span></div></div>
       <div class="body">
         <p class="era">From David to the apostles</p>
         <h2>Ancient Jerusalem</h2>
@@ -218,8 +228,8 @@ body::before { content: ""; position: fixed; inset: 0 0 auto; height: env(safe-a
         <div class="tints" aria-hidden="true"><span style="background: var(--wild)"></span></div>
       </div>
     </a></li>
-    <li><a class="sheet" href="roman-empire.html">
-      <div class="plate" aria-hidden="true"><span class="lbl">Map No.</span><span class="no">3</span></div>
+    <li><a class="sheet has-pic" href="roman-empire.html">
+      <div class="pic"><img src="previews/roman-empire.jpg" alt="" loading="lazy" decoding="async"><div class="plate" aria-hidden="true"><span class="lbl">Map No.</span><span class="no">3</span></div></div>
       <div class="body">
         <p class="era">The church spreads · about AD 35–62</p>
         <h2>The Roman Empire and the Travels of Paul</h2>
@@ -236,6 +246,6 @@ body::before { content: ""; position: fixed; inset: 0 0 auto; height: env(safe-a
   </footer>
 </div>
 
+
 </body>
 </html>
-
