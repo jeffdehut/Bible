@@ -2,6 +2,14 @@
 // (public domain) spells them. Written by scripts/names_zh.py: don't edit by hand;
 // corrections go in OVERRIDES there.
 I18N.add({
+"Ahijah (1 Samuel 14.3)":"亞希亞（撒母耳記上 14.3）",
+"Valley of Zeboim":"洗波音谷",
+"Bozez":"播薛",
+"Shen":"善",
+"Shaalim":"沙琳",
+"Shalishah":"沙利沙",
+"Aphiah":"亞斐亞",
+"Zeror":"洗羅",
 "Ephrathah":"以法他",
 "Mara":"瑪拉",
 "Rimmon":"臨門",
