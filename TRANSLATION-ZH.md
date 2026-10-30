@@ -188,6 +188,24 @@ Settled while drafting Exodus:
 | בָּמוֹת; גִּלּוּלִים; אֱלִילִים | 丘壇；可憎的偶像；虛無的偶像 | |
 | מַעֲשֵׂר | 十分之一 | |
 
+Settled while drafting Numbers:
+
+| Source | Rendering | Notes |
+|---|---|---|
+| מִשְׁפָּחָה; בֵּית אָבוֹת | 宗族；家族 | 家族 noted: 「父家」. As in Exodus 6. |
+| פָּקַד; פְּקֻדִים | 數點；被數點的 | Census totals in Chinese numerals with 人: 四萬零五百人, 六十萬零三千五百五十人. |
+| צָבָא; צִבְאוֹת | 軍隊；隊伍 | Of the Levites' work (Numbers 4, 8): 服役, noted. |
+| דֶּגֶל; מַחֲנֶה | 旗；營 | |
+| מִשְׁמֶרֶת; עֲבֹדָה; מַשָּׂא | 職守、職責；工作；抬的東西 | |
+| זָר | 外人 | Noted: here anyone not a Levite (or not a priest). |
+| אֶלֶף (a clan or unit) | 千萬人 | Noted: 「以色列的千」. |
+| נָזִיר; נֵזֶר | 拿細耳人；分別出來、歸給神的頭髮 | |
+| מֵי הַמָּרִים הַמְאָרְרִים | 帶來詛咒的苦水 | |
+| חֲנֻכָּה | 奉獻禮 | |
+| קְעָרָה; מִזְרָק; כַּף (Numbers 7) | 銀盤；銀碗；金碟 | |
+| חֲצֹצְרָה; תְּרוּעָה | 號筒；警號 | |
+| The priestly blessing (6:24–26) | 願耶和華賜福給你，保護你…… | Three plain lines, each opening 願耶和華. |
+
 ## Style
 
 **Characters and words.** Plain words over the Union Version's literary ones (吊下去, not 縋下來). Hong Kong standard forms: 裏 (not 裡), 着 for the particle (看着、

@@ -2,6 +2,9 @@
 // (public domain) spells them. Written by scripts/names_zh.py: don't edit by hand;
 // corrections go in OVERRIDES there.
 I18N.add({
+"Nazirite":"拿細耳人",
+"Zuriel":"蘇列",
+"Pagiel":"帕結",
 "Asherah":"亞舍拉",
 "Abib":"亞筆",
 "Oholiab":"亞何利亞伯",
@@ -190,7 +193,7 @@ I18N.add({
 "Ahiah":"亞希亞",
 "Ahiam":"亞希暗",
 "Ahian":"利克希",
-"Ahiezer":"亞米沙代",
+"Ahiezer":"亞希以謝",
 "Ahiezer (1 Chronicles 12.3)":"亞米沙代（歷代志上 12.3）",
 "Ahiezer (Numbers 1.12)":"亞米沙代（民數記 1.12）",
 "Ahihud":"亞希忽",
@@ -320,7 +323,7 @@ I18N.add({
 "Amminadab":"亞米拿達",
 "Amminadab (1 Chronicles 15.10)":"亞米拿達（歷代志上 15.10）",
 "Amminadab (Exodus 6.23)":"亞米拿達（出埃及記 6.23）",
-"Ammishaddai":"亞希以謝",
+"Ammishaddai":"亞米沙代",
 "Ammizabad":"暗米薩拔",
 "Ammon":"亞捫",
 "Amnon":"暗嫩",
@@ -3115,7 +3118,7 @@ I18N.add({
 "Obed (Ruth 4.17)":"俄備得（路得記 4.17）",
 "Obed-edom":"俄別‧以東",
 "Oboth":"阿伯",
-"Ochran":"帕結",
+"Ochran":"俄蘭",
 "Ocran":"俄蘭",
 "Oded":"俄德",
 "Oded (2 Chronicles 15.1)":"俄德（歷代志下 15.1）",
