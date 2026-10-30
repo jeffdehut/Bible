@@ -486,8 +486,8 @@ input[type="range"] { width: 100%; accent-color: var(--lapis); }
   text-decoration: none; cursor: pointer;
 }
 .menu svg { width: 46px; height: 46px; padding: 11px; border-radius: 14px; background: var(--lapis-soft); color: var(--lapis); box-sizing: border-box; flex: none; }
-.menu.explore svg { background: var(--gold-soft); color: var(--gold); }
-.menu.about svg { background: color-mix(in srgb, var(--line) 55%, transparent); color: var(--muted); }
+.menu.menu-explore svg { background: var(--gold-soft); color: var(--gold); }
+.menu.menu-about svg { background: color-mix(in srgb, var(--line) 55%, transparent); color: var(--muted); }
 .menu a:hover, .menu button:hover { background: var(--lapis-soft); }
 .menu a:hover svg, .menu button:hover svg { background: var(--surface); }
 .menu a:focus-visible, .menu button:focus-visible { outline: 2px solid var(--lapis); outline-offset: -2px; }
@@ -855,33 +855,9 @@ if (/(^#|&)(access_token|error)=/.test(location.hash)) {
 <section class="sheet dialog" id="menu" hidden aria-labelledby="menu-title">
   <div class="grab"></div>
   <div class="sheet-head"><h2 id="menu-title">Plain English Bible</h2><button class="btn" type="button" data-close aria-label="Close"><svg class="icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M6 6l12 12M18 6 6 18"/></svg></button></div>
-  <h3 class="menu-group">Read and study</h3>
-  <ul class="menu">
-    <li><button type="button" id="open-mine" title="My highlights and notes, saved on this device"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="m14.5 4.5 5 5L10 19H5v-5z"/><path d="m12 7 5 5"/><path d="M4 21h16"/></svg><span>Highlights &amp; notes</span></button></li>
-    <li><button type="button" id="open-bookmarks" title="The passages you bookmarked"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M6 3h12v18l-6-4.5L6 21Z"/></svg><span>Bookmarks</span><small id="bookmarks-sub"></small></button></li>
-    <li><button type="button" id="open-plans" title="Reading plans: through the Bible in a year, and shorter plans"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><rect x="3.5" y="5" width="17" height="15" rx="2.5"/><path d="M3.5 10h17M8 3v4M16 3v4"/><path d="m9 15 2 2 4-4"/></svg><span>Reading plans</span><small id="plans-sub"></small></button></li>
-    <li><button type="button" id="open-study" title="Nave’s topics and Easton’s Bible dictionary"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M12 6.5C10 5 7 4.5 3.5 5v14c3.5-.5 6.5 0 8.5 1.5 2-1.5 5-2 8.5-1.5V5C17 4.5 14 5 12 6.5Z"/><path d="M12 6.5v14"/></svg><span>Topics &amp; dictionary</span></button></li>
-    <li><button type="button" id="open-parallels" title="The Gospels side by side; Kings beside Chronicles"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><rect x="3" y="4" width="7.5" height="16" rx="1.5"/><rect x="13.5" y="4" width="7.5" height="16" rx="1.5"/><path d="M5.5 8.5h2.5M5.5 12h2.5M5.5 15.5h2.5M16 8.5h2.5M16 12h2.5M16 15.5h2.5"/></svg><span>Parallel passages</span></button></li>
-    <li><button type="button" id="open-marks" title="Key words marked through the whole Bible, as in an inductive study"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M4 18.5c2-.6 3.2-.6 5 0s3 .6 5 0 3.2-.6 6 0"/><rect x="4" y="5" width="9" height="8" rx="1.5"/><path d="m16.5 6.5 2 3.5h-4z"/></svg><span>Study markings</span><small id="marks-sub"></small></button></li>
-    <li><button type="button" id="open-account" hidden title="Keep your highlights and notes on every device"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M19.5 10A8 8 0 0 0 5.6 7.2L4 9"/><path d="M4 4v5h5"/><path d="M4.5 14a8 8 0 0 0 13.9 2.8L20 15"/><path d="M20 20v-5h-5"/></svg><span>Sync devices</span><small id="account-sub"></small></button></li>
-  </ul>
-  <h3 class="menu-group">Explore</h3>
-  <ul class="menu explore">
-    <li><a href="graph.html" title="Every chapter, person and place, and the threads between them"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="6" cy="7" r="2.2"/><circle cx="18" cy="6" r="2.2"/><circle cx="12" cy="17" r="2.2"/><path d="M8 7.6 15.9 6.4M7.2 9 11 15M16.9 8 13 15"/></svg><span>Connections</span></a></li>
-    <li><a href="maps/index.html" title="Eight sheets, from the patriarchs to Paul"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M9 4 3.5 6v14L9 18l6 2 5.5-2V4L15 6 9 4Z"/><path d="M9 4v14M15 6v14"/></svg><span>Maps</span></a></li>
-    <li><a href="history.html" title="Streams of Time: world history beside the Bible"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M3 6.5c3 0 3-2 6-2s3 2 6 2 3-2 6-2"/><path d="M3 12c3 0 3-2 6-2s3 2 6 2 3-2 6-2"/><path d="M3 17.5c3 0 3-2 6-2s3 2 6 2 3-2 6-2"/><path d="M8 21v-2.5M16 21v-2.5"/></svg><span>Timeline</span></a></li>
-    <li><a href="genealogy.html" title="The Generations: from Adam to Jesus, and every family"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="12" cy="5" r="2.2"/><circle cx="6" cy="19" r="2.2"/><circle cx="18" cy="19" r="2.2"/><path d="M12 7.2V12M6 16.8V12h12v4.8"/></svg><span>Genealogy</span></a></li>
-    <li><a href="kings.html" title="The kings of Israel and Judah side by side, with the prophets of their days"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M3 8l4.2 4L12 6l4.8 6L21 8l-2 11H5Z"/></svg><span>Kings</span></a></li>
-    <li><a href="arcs.html" title="Every cross-reference in the Bible as an arc"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M3 19a9 9 0 0 1 18 0"/><path d="M7 19a5 5 0 0 1 10 0"/><path d="M10 19a2 2 0 0 1 4 0"/><path d="M2 19h20"/></svg><span>Cross-refs</span></a></li>
-    <li><a href="library.html" title="The 66 books as a bookshelf"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M4 20V5h3v15M8 20V7h3v13M13 20l-1.5-14 3-.4L16 19.6"/><path d="M17 20V4h3v16M2 20.5h20"/></svg><span>Bookshelf</span></a></li>
-  </ul>
-  <h3 class="menu-group">About</h3>
-  <ul class="menu about">
-    <li><button type="button" id="open-project" title="Who made it"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="12" cy="12" r="9"/><path d="M12 11v5.5M12 7.6v.1"/></svg><span>This project</span></button></li>
-    <li><button type="button" id="open-about" title="A first draft, awaiting review"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M6 3h8.5L19 7.5V21H6z"/><path d="M14 3v5h5"/><path d="M9 12.5h7M9 16h5"/></svg><span>This translation</span></button></li>
-    <li><a id="menu-feedback" href="mailto:info@bibledata.org" title="Questions, mistakes and ideas"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><rect x="3" y="5" width="18" height="14" rx="2.5"/><path d="m3.5 7 8.5 6 8.5-6"/></svg><span>Send feedback</span></a></li>
-  </ul>
+  <div id="site-menu"><!-- nav.js: the site's menu, the same on every page --></div>
 </section>
+<script src="nav.js?v=30"></script>
 
 <section class="sheet dialog" id="mine" hidden aria-labelledby="mine-title">
   <div class="grab"></div>
@@ -3196,6 +3172,14 @@ $("main").addEventListener("touchend", ev => {
 /* ---------- Start ---------- */
 function route() {
   closeSheets();
+  // "#open=bookmarks", from the menu on another page: the last chapter read, with that tool open.
+  const om = location.hash.match(/^#open=(\w+)$/);
+  if (om) {
+    const last = store.get("last", null), bk = (last && bySlug[last.s]) || byOsis.John, ch = last && bySlug[last.s] ? Math.min(last.c, bk.s.length) : 1;
+    history.replaceState(null, "", refHash(bk, ch));
+    show(bk, ch).then(() => $("open-" + om[1])?.click());
+    return;
+  }
   const pm = location.hash.match(/^#plan-(\d+)(?:-(\d+))?$/);
   if (pm) { showPlanDay(+pm[1] - 1, pm[2] ? +pm[2] : 0); return; }
   const r = parseHash();

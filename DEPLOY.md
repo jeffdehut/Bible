@@ -97,6 +97,7 @@ python3 scripts/markings.py      # the study markings in data/bible/markings/ (a
 python3 scripts/footprint.py     # where each Hebrew and Greek word appears, in data/bible/footprint/
 python3 scripts/kings.py         # kings.html, the kings of Israel and Judah
 python3 scripts/explore.py       # arcs.html and library.html (after connections.py); downloads.html is turned off for now (DOWNLOADS in the script)
+python3 scripts/web3d.py         # web3d.html and data/web3d.json, the web laid out in 3D (after connections.py; about a minute); "page" rebuilds only the page
 ```
 
 Then push the branch, and merging it into `main` puts it live. The pages are built from templates in `scripts/templates/`; edit those, not the built pages.

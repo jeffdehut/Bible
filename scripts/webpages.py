@@ -296,6 +296,7 @@ body::before { content: ""; position: fixed; inset: 0 0 auto; height: env(safe-a
   .appnav::-webkit-scrollbar { display: none; }
   .appnav a { padding: 0 7px; font-size: 13.5px; flex: none; }
 }
+@media (max-width: 480px) { .appbar .sitenav-btn { width: 36px; } }
 @media print { .appbar { display: none; } }
 </style>"""
 
@@ -308,6 +309,7 @@ def appbar(current, root=""):
             f'  <a class="brand" href="{root}index.html"><img src="{root}icons/icon.svg" alt="Plain English Bible">'
             f'<span aria-hidden="true">Plain English Bible</span></a>\n'
             f'  <nav class="appnav" aria-label="Plain English Bible">{links}</nav>\n</header>\n'
+            f'<script src="{root}nav.js?v=30"></script>\n'
             '<script>document.querySelector(".appnav [aria-current]")?.scrollIntoView({ inline: "nearest", block: "nearest" });</script>')
 
 

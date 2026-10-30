@@ -267,12 +267,14 @@ body::before { content: ""; position: fixed; inset: 0 0 auto; height: env(safe-a
   .appnav::-webkit-scrollbar { display: none; }
   .appnav a { padding: 0 7px; font-size: 13.5px; flex: none; }
 }
+@media (max-width: 480px) { .appbar .sitenav-btn { width: 36px; } }
 @media print { .appbar { display: none; } }
 </style>
 <header class="appbar">
   <a class="brand" href="index.html"><img src="icons/icon.svg" alt="Plain English Bible"><span aria-hidden="true">Plain English Bible</span></a>
   <nav class="appnav" aria-label="Plain English Bible"><a href="index.html">Read</a><a href="maps/index.html">Maps</a><a href="genealogy.html">Genealogy</a><a href="history.html">Timeline</a><a href="graph.html" aria-current="page">Connections</a></nav>
 </header>
+<script src="nav.js?v=30"></script>
 <script>document.querySelector(".appnav [aria-current]")?.scrollIntoView({ inline: "nearest", block: "nearest" });</script>
 
 <main class="stage" id="stage">

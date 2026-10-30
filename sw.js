@@ -2,7 +2,7 @@
 // lexicon page and font is cached the first time it is read, then served from the cache
 // while a fresh copy is fetched in the background.
 const VERSION = "reader-30";
-const SHELL = ["./", "index.html", "config.js?v=30", "account.js?v=30", "manifest.webmanifest", "icons/icon.svg", "icons/icon-192.png", "data/bible/books.json"];
+const SHELL = ["./", "index.html", "config.js?v=30", "account.js?v=30", "nav.js?v=30", "manifest.webmanifest", "icons/icon.svg", "icons/icon-192.png", "data/bible/books.json"];
 
 self.addEventListener("install", event => {
   event.waitUntil(caches.open(VERSION).then(cache => cache.addAll(SHELL)).then(() => self.skipWaiting()));

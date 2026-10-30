@@ -1,0 +1,594 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<link rel="icon" href="icons/icon.svg" type="image/svg+xml">
+<link rel="apple-touch-icon" href="icons/icon-192.png">
+<meta name="theme-color" content="#05070d" media="(prefers-color-scheme: light)">
+<meta name="theme-color" content="#05070d" media="(prefers-color-scheme: dark)">
+<script>try { const t = (JSON.parse(localStorage.getItem("pe.settings")) || {}).theme; if (t === "light" || t === "dark") document.documentElement.setAttribute("data-theme", t); } catch (e) { /* storage unavailable */ }</script>
+</head>
+<body>
+<title>The Web in 3D · Plain English Bible</title>
+<meta name="claude:viewport-fit-sides" content="cover">
+<meta name="description" content="The web of Scripture in three dimensions: every chapter, person, place and event of the Bible, and the threads between them, hanging in space. Turn it, fly into it, and tap any point.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Frank+Ruhl+Libre:wght@300..700&family=Libre+Franklin:wght@400;500;600;700&display=swap">
+<style>
+/* The web of Scripture in space: WebGL points and threads, turned with a finger or a mouse.
+   The stage is always night, whatever the theme, so the colors glow. */
+:root, :root[data-theme="light"], :root[data-theme="dark"] {
+  --bg: #05070d; --surface: #111827; --ink: #e9ecf3; --muted: #a3acbd; --faint: #6f7a90; --line: #232c40;
+  --lapis: #9db3ff; --lapis-soft: #1c2650;
+  --read: "Frank Ruhl Libre", "Noto Serif", Georgia, serif;
+  --sans: "Libre Franklin", system-ui, -apple-system, "Segoe UI", sans-serif;
+  color-scheme: dark;
+}
+* { box-sizing: border-box; }
+html, body { height: 100%; }
+html { -webkit-text-size-adjust: 100%; }
+body { margin: 0; overflow: hidden; background: radial-gradient(120% 90% at 50% 40%, #0d1424 0%, #05070d 70%) fixed, var(--bg); color: var(--ink); font: 400 16px/1.5 var(--sans);
+  padding-left: max(16px, env(safe-area-inset-left, 0px)); padding-right: max(16px, env(safe-area-inset-right, 0px)); }
+a { color: var(--lapis); }
+.stage { position: fixed; inset: calc(var(--bar) + env(safe-area-inset-top, 0px)) 0 0 0; }
+.stage canvas { position: absolute; inset: 0; width: 100%; height: 100%; display: block; }
+#gl { touch-action: none; cursor: grab; }
+#gl.dragging { cursor: grabbing; }
+#labels { pointer-events: none; }
+.title { position: absolute; left: max(16px, env(safe-area-inset-left, 0px)); top: 14px; pointer-events: none; max-width: min(520px, calc(100% - 92px)); }
+.title h1 { margin: 0; font: 300 clamp(26px, 5vw, 40px)/1.05 var(--read); letter-spacing: -0.01em; }
+.title p { margin: 4px 0 0; color: var(--muted); font-size: 13.5px; }
+.tools { position: absolute; right: max(12px, env(safe-area-inset-right, 0px)); top: 12px; display: flex; flex-direction: column; gap: 6px; }
+.tools button, .find input { border: 1px solid var(--line); background: color-mix(in srgb, var(--surface) 82%, transparent); color: var(--ink); backdrop-filter: blur(8px); -webkit-backdrop-filter: blur(8px); }
+.tools button { width: 42px; height: 42px; border-radius: 12px; display: grid; place-items: center; cursor: pointer; }
+.tools button[aria-pressed="true"] { background: var(--lapis-soft); border-color: var(--lapis); color: var(--lapis); }
+.tools svg { width: 20px; height: 20px; }
+.find { position: absolute; left: max(16px, env(safe-area-inset-left, 0px)); bottom: max(14px, env(safe-area-inset-bottom, 0px)); width: min(320px, calc(100% - 32px)); }
+.find input { width: 100%; height: 44px; border-radius: 12px; padding: 0 14px; font: 400 15px/1 var(--sans); }
+.find input::placeholder { color: var(--faint); }
+.find ul { list-style: none; margin: 0 0 6px; padding: 4px; border: 1px solid var(--line); border-radius: 12px; background: var(--surface); max-height: 46vh; overflow: auto; }
+.find li button { width: 100%; display: flex; align-items: center; gap: 10px; padding: 8px 10px; border: 0; border-radius: 8px; background: transparent; color: var(--ink); font: 400 14.5px/1.25 var(--sans); text-align: left; cursor: pointer; }
+.find li button:hover, .find li button:focus-visible, .find li button[aria-selected="true"] { background: var(--lapis-soft); outline: none; }
+.find li small { margin-left: auto; color: var(--faint); font-size: 12px; white-space: nowrap; }
+.dot { flex: none; width: 10px; height: 10px; border-radius: 50%; background: var(--c); box-shadow: 0 0 8px var(--c); }
+.key { position: absolute; right: max(12px, env(safe-area-inset-right, 0px)); bottom: max(14px, env(safe-area-inset-bottom, 0px)); display: flex; flex-wrap: wrap; justify-content: flex-end; gap: 4px 10px; max-width: 420px; font: 500 12px/1.3 var(--sans); color: var(--muted); pointer-events: none; }
+.key span { display: inline-flex; align-items: center; gap: 5px; }
+.key .dot { width: 8px; height: 8px; }
+@media (max-width: 700px) { .key { display: none; } }
+.card { position: absolute; z-index: 5; left: 0; right: 0; bottom: 0; max-height: 58%; overflow: auto; background: color-mix(in srgb, var(--surface) 94%, transparent); backdrop-filter: blur(12px); -webkit-backdrop-filter: blur(12px);
+  border-top: 1px solid var(--line); border-radius: 18px 18px 0 0; padding: 14px max(16px, env(safe-area-inset-right, 0px)) max(18px, env(safe-area-inset-bottom, 0px)) max(16px, env(safe-area-inset-left, 0px)); }
+@media (min-width: 760px) { .card { left: auto; right: 66px; top: 12px; bottom: auto; width: 360px; max-height: calc(100% - 24px); border: 1px solid var(--line); border-radius: 16px; } }
+.card[hidden] { display: none; }
+.card .kicker { display: flex; align-items: center; gap: 8px; font: 600 11.5px/1.3 var(--sans); letter-spacing: 0.08em; text-transform: uppercase; color: var(--muted); padding-right: 40px; }
+.card h2 { margin: 6px 0 4px; font: 400 28px/1.12 var(--read); }
+.card p { margin: 0 0 10px; color: var(--muted); font-size: 14px; }
+.card .acts { display: flex; flex-wrap: wrap; gap: 8px; margin: 0 0 12px; }
+.card .acts a { display: inline-flex; min-height: 36px; align-items: center; padding: 6px 12px; border-radius: 10px; background: var(--lapis-soft); color: var(--lapis); font: 600 14px/1.2 var(--sans); text-decoration: none; }
+.card .acts a.solid { background: var(--lapis); color: #0b1020; }
+.card h3 { margin: 10px 0 6px; font: 600 11.5px/1.3 var(--sans); letter-spacing: 0.08em; text-transform: uppercase; color: var(--muted); }
+.chips { display: flex; flex-wrap: wrap; gap: 6px; }
+.chips button { display: inline-flex; align-items: center; gap: 6px; min-height: 32px; padding: 4px 10px; border: 1px solid var(--line); border-radius: 99px; background: transparent; color: var(--ink); font: 500 13px/1.2 var(--sans); cursor: pointer; }
+.chips button:hover, .chips button:focus-visible { border-color: var(--lapis); }
+.chips .dot { width: 8px; height: 8px; }
+.card .close { position: absolute; top: 10px; right: 10px; width: 36px; height: 36px; border: 0; border-radius: 10px; background: transparent; color: var(--ink); cursor: pointer; font-size: 16px; }
+.hint { position: absolute; left: 50%; bottom: calc(max(14px, env(safe-area-inset-bottom, 0px)) + 58px); transform: translateX(-50%); width: max-content; max-width: calc(100% - 32px); padding: 6px 12px; border-radius: 99px; background: rgb(5 7 13 / 70%); color: var(--muted); font-size: 14px; text-align: center; pointer-events: none; transition: opacity 0.6s; }
+.hint.gone { opacity: 0; }
+.nogl { position: absolute; inset: 0; display: grid; place-items: center; padding: 24px; text-align: center; color: var(--muted); }
+</style>
+
+<style>
+:root { --bar: 56px; }
+body::before { content: ""; position: fixed; inset: 0 0 auto; height: env(safe-area-inset-top, 0px); z-index: 11; background: var(--bg); }
+.appbar {
+  position: sticky; top: env(safe-area-inset-top, 0px); z-index: 10; height: var(--bar);
+  margin-inline: calc(-1 * max(16px, env(safe-area-inset-left, 0px))) calc(-1 * max(16px, env(safe-area-inset-right, 0px)));
+  padding-inline: max(8px, env(safe-area-inset-left, 0px)) max(8px, env(safe-area-inset-right, 0px));
+  display: flex; align-items: center; gap: 4px; background: color-mix(in srgb, var(--bg) 92%, transparent);
+  backdrop-filter: blur(10px); -webkit-backdrop-filter: blur(10px); border-bottom: 1px solid var(--line);
+}
+.appbar .brand {
+  display: inline-flex; align-items: center; gap: 10px; min-height: 40px; padding: 0 8px; border-radius: 10px;
+  color: var(--ink); text-decoration: none; white-space: nowrap; font: 500 17px/1 "Frank Ruhl Libre", "Noto Serif", Georgia, serif; letter-spacing: 0.01em;
+}
+.appbar .brand img { width: 26px; height: 26px; border-radius: 7px; flex: none; }
+.appnav { margin-inline-start: auto; display: flex; gap: 2px; }
+.appnav a {
+  display: inline-flex; align-items: center; min-height: 40px; padding: 0 12px; border-radius: 10px; white-space: nowrap;
+  font: 600 14px/1 "Libre Franklin", system-ui, -apple-system, "Segoe UI", sans-serif; color: var(--muted); text-decoration: none;
+}
+.appnav a:hover { background: var(--lapis-soft); color: var(--ink); }
+.appnav a[aria-current="page"] { background: var(--lapis-soft); color: var(--lapis); }
+.appbar a:focus-visible { outline: 2px solid var(--lapis); outline-offset: 0; }
+@media (max-width: 640px) { .appbar .brand span { display: none; } .appnav a { padding: 0 9px; } }
+/* On a phone the five parts take the whole bar, and scroll sideways if they still don't fit. */
+@media (max-width: 480px) {
+  .appbar .brand { display: none; }
+  .appnav { margin-inline: 0; flex: 1; justify-content: space-between; overflow-x: auto; scrollbar-width: none; }
+  .appnav::-webkit-scrollbar { display: none; }
+  .appnav a { padding: 0 7px; font-size: 13.5px; flex: none; }
+}
+@media (max-width: 480px) { .appbar .sitenav-btn { width: 36px; } }
+@media print { .appbar { display: none; } }
+</style>
+<header class="appbar">
+  <a class="brand" href="index.html"><img src="icons/icon.svg" alt="Plain English Bible"><span aria-hidden="true">Plain English Bible</span></a>
+  <nav class="appnav" aria-label="Plain English Bible"><a href="index.html">Read</a><a href="maps/index.html">Maps</a><a href="genealogy.html">Genealogy</a><a href="history.html">Timeline</a><a href="graph.html">Connections</a></nav>
+</header>
+<script src="nav.js?v=30"></script>
+<script>document.querySelector(".appnav [aria-current]")?.scrollIntoView({ inline: "nearest", block: "nearest" });</script>
+
+<div class="stage" id="stage">
+  <canvas id="gl" aria-label="The web of Scripture in three dimensions. Drag to turn it, pinch or scroll to fly in, tap a point to see it." role="img"></canvas>
+  <canvas id="labels" aria-hidden="true"></canvas>
+  <div class="title">
+    <h1>The Web in 3D</h1>
+    <p id="count">Every chapter, person, place and event, and the threads between them.</p>
+  </div>
+  <div class="tools" role="toolbar" aria-label="View">
+    <button type="button" id="spin" aria-pressed="true" title="Turn slowly" aria-label="Turn slowly"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 12a9 9 0 1 1-3-6.7"/><path d="M21 4v5h-5"/></svg></button>
+    <button type="button" id="threads" aria-pressed="false" title="Only the cross-references" aria-label="Only the cross-references"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M3 18c3-9 6-9 9 0M12 18c3-9 6-9 9 0"/></svg></button>
+    <button type="button" id="home" title="See it all" aria-label="See it all"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M4 9V4h5M20 9V4h-5M4 15v5h5M20 15v5h-5"/></svg></button>
+    <a id="flat" href="graph.html" title="The web flat, in Connections" aria-label="The web flat, in Connections" style="display:grid;place-items:center;width:42px;height:42px;border-radius:12px;border:1px solid var(--line);background:color-mix(in srgb, var(--surface) 82%, transparent);color:var(--ink)"><svg viewBox="0 0 24 24" width="20" height="20" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="6" cy="6" r="2.5"/><circle cx="18" cy="8" r="2.5"/><circle cx="10" cy="18" r="2.5"/><path d="m8.4 6.4 7.2 1.2M7.1 8.3l2 7.4M16.4 10l-4.6 6"/></svg></a>
+  </div>
+  <div class="find">
+    <ul id="results" role="listbox" hidden></ul>
+    <input id="q" type="search" placeholder="Find a chapter, person, place or event" autocomplete="off" aria-label="Find in the web" aria-controls="results">
+  </div>
+  <div class="key" id="key"></div>
+  <div class="hint" id="hint">Loading the web …</div>
+  <article class="card" id="card" hidden aria-live="polite"></article>
+</div>
+
+<script>
+(() => {
+  const $ = id => document.getElementById(id);
+  const el = (tag, attrs = {}, ...kids) => { const e = document.createElement(tag); for (const k in attrs) { if (k === "text") e.textContent = attrs[k]; else if (k === "class") e.className = attrs[k]; else if (k.startsWith("on")) e.addEventListener(k.slice(2), attrs[k]); else e.setAttribute(k, attrs[k]); } for (const c of kids) if (c != null) e.append(c); return e; };
+  const fmt = new Intl.NumberFormat("en");
+  const yl = y => (y <= 0 ? `${1 - y} BC` : `AD ${y}`);
+  const still = matchMedia("(prefers-reduced-motion: reduce)").matches;
+
+  // The colors of the Connections page, on its night stage.
+  const GROUPS = [
+    { name: "Torah", sec: [0], c: "#f2c45a" }, { name: "History", sec: [1], c: "#f59a62" },
+    { name: "Wisdom", sec: [2], c: "#8fdc8a" }, { name: "Prophets", sec: [3], c: "#ff7272" },
+    { name: "Gospels", sec: [4], c: "#6fb0ff" }, { name: "Acts", sec: [5], c: "#4fd6cb" },
+    { name: "Letters", sec: [6, 7], c: "#b996ff" }, { name: "Revelation", sec: [8], c: "#ff86c0" },
+    { name: "People", kind: 1, c: "#aab6d8" }, { name: "Places", kind: 2, c: "#7fd6b4" }, { name: "Events", kind: 3, c: "#ffd27a" },
+  ];
+  const hex = h => [1, 3, 5].map(i => parseInt(h.slice(i, i + 2), 16) / 255);
+  const KIND_NAME = ["Chapter", "Person", "Place", "Event"];
+  const TYPES = ["xref", "seq", "names", "together", "family", "event"];
+
+  let D, N, NC, kind, group, P, deg, adj, linkA, linkB, linkT, chapterOf = [], bookOf = [], bookStart = [], briefs = null;
+  const label = k => (k < NC ? `${D.books[bookOf[k]][0]} ${chapterOf[k]}` : D.n[k - NC].replace(/ \((.+ \d+\.\d+)\)$/, ""));
+  const slug = s => s.toLowerCase().replace(/ /g, "-");
+  const refOf = k => { const j = k - NC, b = D.f[3 * j]; return b < 0 ? null : [b, D.f[3 * j + 1], D.f[3 * j + 2]]; };
+
+  function unpack(data, space) {
+    D = data;
+    NC = D.kinds[0]; N = NC + D.kinds[1] + D.kinds[2] + D.kinds[3];
+    kind = new Uint8Array(N); group = new Uint8Array(N);
+    let k = 0;
+    D.books.forEach(([, , sec, n], b) => {
+      bookStart[b] = k;
+      const g = GROUPS.findIndex(G => G.sec && G.sec.includes(sec));
+      for (let c = 1; c <= n; c++, k++) { chapterOf[k] = c; bookOf[k] = b; group[k] = g; }
+    });
+    for (let i = NC; i < N; i++) {
+      kind[i] = i < NC + D.kinds[1] ? 1 : i < NC + D.kinds[1] + D.kinds[2] ? 2 : 3;
+      group[i] = GROUPS.findIndex(G => G.kind === kind[i]);
+    }
+    P = Float32Array.from(space.p);
+    const A = [], B = [], T = [];
+    for (let i = 0; i + 1 < NC; i++) { A.push(i); B.push(i + 1); T.push(1); }
+    for (const [t, flat] of Object.entries(D.links)) {
+      const ti = TYPES.indexOf(t);
+      let a = 0, b = 0;
+      for (let j = 0; j < flat.length; j += 2) {
+        if (j && flat[j] === 0) b += flat[j + 1];
+        else { a += flat[j]; b = a + flat[j + 1]; }
+        A.push(a); B.push(b); T.push(ti);
+      }
+    }
+    linkA = Uint16Array.from(A); linkB = Uint16Array.from(B); linkT = Uint8Array.from(T);
+    deg = new Uint16Array(N); adj = Array.from({ length: N }, () => []);
+    for (let e = 0; e < linkA.length; e++) { deg[linkA[e]]++; deg[linkB[e]]++; adj[linkA[e]].push(linkB[e]); adj[linkB[e]].push(linkA[e]); }
+  }
+
+  /* ---------- Matrices (column-major, as WebGL wants them) ---------- */
+  const perspective = (fov, aspect, near, far) => { const f = 1 / Math.tan(fov / 2), nf = 1 / (near - far); return [f / aspect, 0, 0, 0, 0, f, 0, 0, 0, 0, (far + near) * nf, -1, 0, 0, 2 * far * near * nf, 0]; };
+  const mul = (a, b) => { const o = new Array(16); for (let c = 0; c < 4; c++) for (let r = 0; r < 4; r++) o[c * 4 + r] = a[r] * b[c * 4] + a[4 + r] * b[c * 4 + 1] + a[8 + r] * b[c * 4 + 2] + a[12 + r] * b[c * 4 + 3]; return o; };
+  function lookAt(eye, at) {
+    const z = norm(sub(eye, at)), x = norm(cross([0, 1, 0], z)), y = cross(z, x);
+    return [x[0], y[0], z[0], 0, x[1], y[1], z[1], 0, x[2], y[2], z[2], 0, -dot(x, eye), -dot(y, eye), -dot(z, eye), 1];
+  }
+  const sub = (a, b) => [a[0] - b[0], a[1] - b[1], a[2] - b[2]];
+  const dot = (a, b) => a[0] * b[0] + a[1] * b[1] + a[2] * b[2];
+  const cross = (a, b) => [a[1] * b[2] - a[2] * b[1], a[2] * b[0] - a[0] * b[2], a[0] * b[1] - a[1] * b[0]];
+  const norm = a => { const l = Math.hypot(...a) || 1; return [a[0] / l, a[1] / l, a[2] / l]; };
+
+  /* ---------- WebGL ---------- */
+  const gl = $("gl").getContext("webgl", { antialias: true, alpha: true, premultipliedAlpha: false });
+  const lc = $("labels").getContext("2d");
+  if (!gl) {
+    $("hint").remove();
+    $("stage").append(el("div", { class: "nogl" }, el("p", {}, "This view needs WebGL, which this browser has turned off. ", el("a", { href: "graph.html", text: "The web is also on the Connections page." }))));
+    return;
+  }
+  function program(vs, fs) {
+    const p = gl.createProgram();
+    for (const [type, src] of [[gl.VERTEX_SHADER, vs], [gl.FRAGMENT_SHADER, fs]]) {
+      const s = gl.createShader(type); gl.shaderSource(s, src); gl.compileShader(s);
+      if (!gl.getShaderParameter(s, gl.COMPILE_STATUS)) throw new Error(gl.getShaderInfoLog(s));
+      gl.attachShader(p, s);
+    }
+    gl.linkProgram(p);
+    return p;
+  }
+  // Fog: the far side of the web fades, so near and far read at a glance.
+  const FOG = `uniform vec2 u_fog; float fog(vec4 v) { return clamp((u_fog.y + v.z) / (u_fog.y - u_fog.x), 0.12, 1.0); }`;
+  const pointProg = program(`
+    attribute vec3 a_p; attribute vec3 a_c; attribute float a_s; attribute float a_h;
+    uniform mat4 u_view; uniform mat4 u_proj; uniform float u_px; uniform float u_t; uniform float u_live;
+    varying vec3 v_c; varying float v_a; ${FOG}
+    void main() {
+      vec4 v = u_view * vec4(a_p, 1.0);
+      gl_Position = u_proj * v;
+      float tw = 1.0 + u_live * 0.18 * sin(u_t * 1.3 + a_p.x * 0.013 + a_p.y * 0.017);
+      float s = a_s * (a_h > 1.5 ? 1.6 : 1.0) * tw;
+      gl_PointSize = clamp(s * u_px / gl_Position.w, 2.0, a_h < 0.5 ? 24.0 : 56.0);
+      v_c = a_c;
+      v_a = fog(v) * (a_h < 0.5 ? 0.1 : a_h > 1.5 ? 1.0 : 0.62);
+    }`, `
+    precision mediump float; varying vec3 v_c; varying float v_a;
+    void main() {
+      float d = length(gl_PointCoord - 0.5) * 2.0;
+      if (d > 1.0) discard;
+      float core = smoothstep(0.55, 0.35, d), glow = exp(-d * d * 3.5);
+      gl_FragColor = vec4(mix(v_c, vec3(1.0), core * 0.3) * (core + glow * 0.55) * v_a, 1.0);
+    }`);
+  const lineProg = program(`
+    attribute vec3 a_p; attribute vec3 a_c; attribute float a_a;
+    uniform mat4 u_view; uniform mat4 u_proj; varying vec3 v_c; varying float v_a; ${FOG}
+    void main() { vec4 v = u_view * vec4(a_p, 1.0); gl_Position = u_proj * v; v_c = a_c; v_a = a_a * fog(v); }`, `
+    precision mediump float; varying vec3 v_c; varying float v_a;
+    void main() { gl_FragColor = vec4(v_c * v_a, 1.0); }`);
+
+  const buf = (data, usage = gl.STATIC_DRAW) => { const b = gl.createBuffer(); gl.bindBuffer(gl.ARRAY_BUFFER, b); gl.bufferData(gl.ARRAY_BUFFER, data, usage); return b; };
+  const attr = (prog, name, b, size) => { const loc = gl.getAttribLocation(prog, name); gl.bindBuffer(gl.ARRAY_BUFFER, b); gl.enableVertexAttribArray(loc); gl.vertexAttribPointer(loc, size, gl.FLOAT, false, 0, 0); };
+  let pBuf, cBuf, sBuf, hBuf, H, lpBuf, lcBuf, laBuf, LA, baseLA;
+
+  function buffers() {
+    const C = new Float32Array(N * 3), S = new Float32Array(N);
+    for (let i = 0; i < N; i++) {
+      C.set(hex(GROUPS[group[i]].c), 3 * i);
+      S[i] = (i < NC ? 9 : 6) + 2.6 * Math.sqrt(deg[i]);
+    }
+    H = new Float32Array(N).fill(1);
+    pBuf = buf(P); cBuf = buf(C); sBuf = buf(S); hBuf = buf(H, gl.DYNAMIC_DRAW);
+    const E = linkA.length, LP = new Float32Array(E * 6), LC = new Float32Array(E * 6);
+    LA = new Float32Array(E * 2); baseLA = new Float32Array(E * 2);
+    for (let e = 0; e < E; e++) {
+      const a = linkA[e], b = linkB[e];
+      LP.set(P.subarray(3 * a, 3 * a + 3), 6 * e); LP.set(P.subarray(3 * b, 3 * b + 3), 6 * e + 3);
+      LC.set(C.subarray(3 * a, 3 * a + 3), 6 * e); LC.set(C.subarray(3 * b, 3 * b + 3), 6 * e + 3);
+      // The threads between chapters show most; names and families stay a faint haze.
+      const w = linkT[e] === 0 ? 0.11 : linkT[e] === 1 ? 0.22 : 0.035;
+      baseLA[2 * e] = baseLA[2 * e + 1] = w;
+    }
+    LA.set(baseLA);
+    lpBuf = buf(LP); lcBuf = buf(LC); laBuf = buf(LA, gl.DYNAMIC_DRAW);
+  }
+
+  /* ---------- The camera: it circles a point, at a distance ---------- */
+  const cam = { yaw: 0.6, pitch: 0.18, dist: 5200, at: [0, 0, 0] };
+  let home = { dist: 5200, at: [0, 0, 0] };
+  let W = 0, Hh = 0, dpr = 1, view, proj, fly = null, spin = !still, idleSince = 0, interacting = false;
+  const FOV = 50 * Math.PI / 180;
+  function resize() {
+    const r = $("stage").getBoundingClientRect();
+    dpr = Math.min(devicePixelRatio || 1, 2); W = r.width; Hh = r.height;
+    for (const c of [$("gl"), $("labels")]) { c.width = Math.round(W * dpr); c.height = Math.round(Hh * dpr); }
+    gl.viewport(0, 0, $("gl").width, $("gl").height);
+    lc.setTransform(dpr, 0, 0, dpr, 0, 0);
+  }
+  function eye() {
+    const cp = Math.cos(cam.pitch);
+    return [cam.at[0] + cam.dist * cp * Math.sin(cam.yaw), cam.at[1] + cam.dist * Math.sin(cam.pitch), cam.at[2] + cam.dist * cp * Math.cos(cam.yaw)];
+  }
+  function fitHome() {
+    // The distance that shows nearly all of the web: the 98th centile of distance from the middle.
+    const r = Array.from({ length: N }, (_, i) => Math.hypot(P[3 * i], P[3 * i + 1], P[3 * i + 2])).sort((a, b) => a - b)[Math.floor(N * 0.98)];
+    const fit = r / Math.sin(FOV / 2) / Math.min(1, W / Hh) * 1.02;
+    home = { dist: fit, at: [0, 0, 0] };
+    cam.dist = fit * 1.9; cam.at = [0, 0, 0];
+    flyTo(home.at, home.dist, 2200);
+  }
+  function flyTo(at, dist, ms = 1000) {
+    if (still) { cam.at = at.slice(); cam.dist = dist; return; }
+    fly = { t0: performance.now(), ms, from: { at: cam.at.slice(), dist: cam.dist }, to: { at: at.slice(), dist } };
+  }
+
+  /* ---------- Drawing ---------- */
+  let t0 = performance.now(), labelsDirty = true;
+  function frame(now) {
+    if (fly) {
+      const u = Math.min(1, (now - fly.t0) / fly.ms), e = u < 0.5 ? 4 * u * u * u : 1 - Math.pow(-2 * u + 2, 3) / 2;
+      cam.at = fly.from.at.map((v, i) => v + (fly.to.at[i] - v) * e);
+      cam.dist = Math.exp(Math.log(fly.from.dist) + (Math.log(fly.to.dist) - Math.log(fly.from.dist)) * e);
+      if (u >= 1) fly = null;
+    }
+    if (spin && !interacting && now - idleSince > 2500) cam.yaw += 0.0011;
+    const ey = eye();
+    view = lookAt(ey, cam.at);
+    const near = Math.max(10, cam.dist * 0.02), far = cam.dist + 6000;
+    proj = perspective(FOV, W / Hh, near, far);
+    const fogNear = Math.max(near, cam.dist - 1600), fogFar = cam.dist + 2600;
+    gl.clearColor(0, 0, 0, 0); gl.clear(gl.COLOR_BUFFER_BIT);
+    gl.enable(gl.BLEND); gl.blendFunc(gl.ONE, gl.ONE); gl.disable(gl.DEPTH_TEST);
+
+    gl.useProgram(lineProg);
+    attr(lineProg, "a_p", lpBuf, 3); attr(lineProg, "a_c", lcBuf, 3); attr(lineProg, "a_a", laBuf, 1);
+    gl.uniformMatrix4fv(gl.getUniformLocation(lineProg, "u_view"), false, view);
+    gl.uniformMatrix4fv(gl.getUniformLocation(lineProg, "u_proj"), false, proj);
+    gl.uniform2f(gl.getUniformLocation(lineProg, "u_fog"), fogNear, fogFar);
+    gl.drawArrays(gl.LINES, 0, linkA.length * 2);
+
+    gl.useProgram(pointProg);
+    attr(pointProg, "a_p", pBuf, 3); attr(pointProg, "a_c", cBuf, 3); attr(pointProg, "a_s", sBuf, 1); attr(pointProg, "a_h", hBuf, 1);
+    gl.uniformMatrix4fv(gl.getUniformLocation(pointProg, "u_view"), false, view);
+    gl.uniformMatrix4fv(gl.getUniformLocation(pointProg, "u_proj"), false, proj);
+    gl.uniform2f(gl.getUniformLocation(pointProg, "u_fog"), fogNear, fogFar);
+    gl.uniform1f(gl.getUniformLocation(pointProg, "u_px"), Hh * dpr / (2 * Math.tan(FOV / 2)));
+    gl.uniform1f(gl.getUniformLocation(pointProg, "u_t"), (now - t0) / 1000);
+    gl.uniform1f(gl.getUniformLocation(pointProg, "u_live"), still ? 0 : 1);
+    gl.drawArrays(gl.POINTS, 0, N);
+
+    drawLabels(ey);
+    requestAnimationFrame(frame);
+  }
+  // Where node i falls on the screen: [x, y, depth], or null behind the camera.
+  function project(i, mvp) {
+    const x = P[3 * i], y = P[3 * i + 1], z = P[3 * i + 2];
+    const w = mvp[3] * x + mvp[7] * y + mvp[11] * z + mvp[15];
+    if (w <= 1) return null;
+    return [((mvp[0] * x + mvp[4] * y + mvp[8] * z + mvp[12]) / w + 1) * W / 2, (1 - (mvp[1] * x + mvp[5] * y + mvp[9] * z + mvp[13]) / w) * Hh / 2, w];
+  }
+
+  // Labels: the books at the middle of their chapters, and, once one is chosen, it and its
+  // nearest kin. Nearer labels are drawn first and keep their place; a label that would cover
+  // one already drawn is left out.
+  let bookCenters = [];
+  function drawLabels() {
+    lc.clearRect(0, 0, W, Hh);
+    const mvp = mul(proj, view), taken = [], items = [];
+    if (selected != null) {
+      items.push([selected, 0]);
+      for (const j of kin.slice(0, 24)) items.push([j, 1]);
+    }
+    for (const [b, x, y, z] of bookCenters) items.push([[x, y, z, D.books[b][0], b], 2]);
+    const shown = [];
+    for (const [it, tier] of items) {
+      let s, text, color;
+      if (tier === 2) {
+        const [x, y, z, name, b] = it, w = mvp[3] * x + mvp[7] * y + mvp[11] * z + mvp[15];
+        if (w <= 1) continue;
+        s = [((mvp[0] * x + mvp[4] * y + mvp[8] * z + mvp[12]) / w + 1) * W / 2, (1 - (mvp[1] * x + mvp[5] * y + mvp[9] * z + mvp[13]) / w) * Hh / 2, w];
+        text = name; color = GROUPS[group[bookStart[b]]].c;
+      } else {
+        s = project(it, mvp); if (!s) continue;
+        text = label(it); color = tier === 0 ? "#ffffff" : GROUPS[group[it]].c;
+      }
+      if (s[0] < -50 || s[0] > W + 50 || s[1] < -20 || s[1] > Hh + 20) continue;
+      shown.push([s, text, color, tier]);
+    }
+    shown.sort((a, b) => a[3] - b[3] || a[0][2] - b[0][2]);
+    for (const [s, text, color, tier] of shown) {
+      const size = tier === 0 ? 16 : tier === 1 ? 12.5 : Math.max(10.5, Math.min(14, 12 * cam.dist / s[2]));
+      lc.font = `${tier === 0 ? 600 : 500} ${size}px "Libre Franklin", system-ui, sans-serif`;
+      const w = lc.measureText(text).width, x = s[0] - w / 2, y = s[1] - (tier === 2 ? 0 : 10);
+      const box = [x - 3, y - size, x + w + 3, y + 4];
+      if (taken.some(t => box[0] < t[2] && box[2] > t[0] && box[1] < t[3] && box[3] > t[1])) continue;
+      taken.push(box);
+      const depth = Math.max(0.25, Math.min(1, (cam.dist + 1800 - s[2]) / 2400));
+      lc.globalAlpha = tier === 2 ? (selected != null ? 0.35 : 0.85) * depth : 1;
+      lc.lineWidth = 3; lc.strokeStyle = "rgba(5,7,13,0.85)"; lc.strokeText(text, x, y);
+      lc.fillStyle = color; lc.fillText(text, x, y);
+    }
+    lc.globalAlpha = 1;
+  }
+
+  /* ---------- Choosing a point ---------- */
+  let selected = null, kin = [];
+  function select(i, { fly: go = true } = {}) {
+    selected = i;
+    H.fill(i == null ? 1 : 0); LA.set(baseLA);
+    if (i != null) {
+      kin = [...new Set(adj[i])].sort((a, b) => deg[b] - deg[a]);
+      H[i] = 2; for (const j of kin) H[j] = 1;
+      for (let e = 0; e < linkA.length; e++) {
+        const on = linkA[e] === i || linkB[e] === i;
+        LA[2 * e] = LA[2 * e + 1] = on ? 0.9 : baseLA[2 * e] * 0.15;
+      }
+      if (go) flyTo([P[3 * i], P[3 * i + 1], P[3 * i + 2]], Math.min(cam.dist, Math.max(900, home.dist * 0.4)));
+      showCard(i);
+      try { history.replaceState(null, "", "#" + (i < NC ? `${slug(D.books[bookOf[i]][0])}-${chapterOf[i]}` : `n${i}`)); } catch (e) {}
+    } else {
+      kin = []; $("card").hidden = true;
+      try { history.replaceState(null, "", location.pathname); } catch (e) {}
+    }
+    if (threadsOnly) applyThreads();
+    gl.bindBuffer(gl.ARRAY_BUFFER, hBuf); gl.bufferSubData(gl.ARRAY_BUFFER, 0, H);
+    gl.bindBuffer(gl.ARRAY_BUFFER, laBuf); gl.bufferSubData(gl.ARRAY_BUFFER, 0, LA);
+  }
+  const dotOf = j => el("span", { class: "dot", style: `--c:${GROUPS[group[j]].c}` });
+  function showCard(i) {
+    const k = kind[i];
+    const yr = k === 3 && D.yr[i - NC] != null ? D.yr[i - NC] : null;
+    const kicker = k === 0 ? `Chapter · ${GROUPS[group[i]].name}` : KIND_NAME[k] + (yr != null ? ` · ${yl(yr)}` : "");
+    const reader = k === 0 ? `index.html#${slug(D.books[bookOf[i]][0])}-${chapterOf[i]}` : (r => r ? `index.html#${slug(D.books[r[0]][0])}-${r[1]}-${r[2]}` : null)(refOf(i));
+    const groups = [["Chapters", 0], ["People", 1], ["Places", 2], ["Events", 3]].map(([name, kk]) => {
+      const js = kin.filter(j => kind[j] === kk);
+      if (!js.length) return null;
+      return [el("h3", { text: `${name} · ${fmt.format(js.length)}` }),
+        el("div", { class: "chips" }, ...js.slice(0, 14).map(j => el("button", { type: "button", onclick: () => select(j) }, dotOf(j), label(j))))];
+    });
+    const brief = el("p", { text: `${fmt.format(kin.length)} connections` });
+    $("card").replaceChildren(
+      el("button", { class: "close", type: "button", "aria-label": "Close", text: "✕", onclick: () => select(null, { fly: false }) }),
+      el("div", { class: "kicker" }, dotOf(i), kicker),
+      el("h2", { text: label(i) }), brief,
+      el("div", { class: "acts" },
+        reader ? el("a", { class: "solid", href: reader, text: k === 0 ? "Read it" : "Read where it’s first named" }) : null,
+        el("a", { href: `graph.html#${k === 0 ? `${slug(D.books[bookOf[i]][0])}-${chapterOf[i]}` : `n${i}`}`, text: "In Connections" })),
+      ...groups.flat().filter(Boolean));
+    $("card").hidden = false;
+    if (k) (briefs ||= fetch("data/graph-briefs.json").then(r => r.json()).catch(() => null)).then(B => {
+      if (B && selected === i && B[i - NC]) brief.textContent = `${B[i - NC]} · ${fmt.format(kin.length)} connections`;
+    });
+  }
+  let threadsOnly = false;
+  function applyThreads() {
+    for (let e = 0; e < linkA.length; e++) if (linkT[e] > 1 && !(selected != null && (linkA[e] === selected || linkB[e] === selected))) LA[2 * e] = LA[2 * e + 1] = 0;
+  }
+
+  /* ---------- Turning, flying in and tapping ---------- */
+  const pts = new Map();
+  let down = null, pinch = null;
+  const gc = $("gl");
+  const wake = () => { idleSince = performance.now(); $("hint").classList.add("gone"); };
+  gc.addEventListener("pointerdown", e => {
+    gc.setPointerCapture(e.pointerId); pts.set(e.pointerId, [e.clientX, e.clientY]);
+    interacting = true; fly = null; wake();
+    if (pts.size === 1) down = { x: e.clientX, y: e.clientY, t: performance.now(), moved: 0 };
+    if (pts.size === 2) { const [a, b] = [...pts.values()]; pinch = { d: Math.hypot(a[0] - b[0], a[1] - b[1]), dist: cam.dist }; down = null; }
+  });
+  gc.addEventListener("pointermove", e => {
+    if (!pts.has(e.pointerId)) return;
+    const [px, py] = pts.get(e.pointerId);
+    pts.set(e.pointerId, [e.clientX, e.clientY]);
+    if (pinch && pts.size === 2) {
+      const [a, b] = [...pts.values()];
+      cam.dist = clampDist(pinch.dist * pinch.d / Math.max(10, Math.hypot(a[0] - b[0], a[1] - b[1])));
+      return;
+    }
+    if (pts.size === 1) {
+      const dx = e.clientX - px, dy = e.clientY - py;
+      if (down) down.moved += Math.abs(dx) + Math.abs(dy);
+      if (down && down.moved > 6) gc.classList.add("dragging");
+      cam.yaw -= dx * 0.005;
+      cam.pitch = Math.max(-1.45, Math.min(1.45, cam.pitch + dy * 0.005));
+    }
+  });
+  const up = e => {
+    pts.delete(e.pointerId);
+    if (pts.size < 2) pinch = null;
+    if (!pts.size) {
+      interacting = false; gc.classList.remove("dragging"); wake();
+      if (down && down.moved < 8 && performance.now() - down.t < 500 && e.type === "pointerup") tap(e);
+      down = null;
+    }
+  };
+  gc.addEventListener("pointerup", up); gc.addEventListener("pointercancel", up);
+  const clampDist = d => Math.max(120, Math.min(home.dist * 3, d));
+  gc.addEventListener("wheel", e => { e.preventDefault(); fly = null; wake(); cam.dist = clampDist(cam.dist * Math.exp(e.deltaY * (e.deltaMode ? 0.05 : 0.0012))); }, { passive: false });
+  function tap(e) {
+    const r = gc.getBoundingClientRect(), x = e.clientX - r.left, y = e.clientY - r.top, mvp = mul(proj, view);
+    let best = null, bd = Infinity;
+    for (let i = 0; i < N; i++) {
+      const s = project(i, mvp); if (!s) continue;
+      const rad = Math.max(14, ((i < NC ? 9 : 6) + 2.6 * Math.sqrt(deg[i])) * (Hh / (2 * Math.tan(FOV / 2))) / s[2] / 2);
+      const d = Math.hypot(s[0] - x, s[1] - y);
+      // Nearer points win a close call.
+      if (d < rad && d + s[2] * 0.002 < bd) { bd = d + s[2] * 0.002; best = i; }
+    }
+    select(best, { fly: best != null });
+  }
+  addEventListener("keydown", e => {
+    if (e.target.closest("input")) return;
+    if (e.key === "Escape") select(null, { fly: false });
+    const step = { ArrowLeft: [-0.12, 0], ArrowRight: [0.12, 0], ArrowUp: [0, 0.1], ArrowDown: [0, -0.1] }[e.key];
+    if (step) { e.preventDefault(); wake(); cam.yaw += step[0]; cam.pitch = Math.max(-1.45, Math.min(1.45, cam.pitch + step[1])); }
+    if (e.key === "+" || e.key === "=") { wake(); cam.dist = clampDist(cam.dist / 1.2); }
+    if (e.key === "-") { wake(); cam.dist = clampDist(cam.dist * 1.2); }
+  });
+
+  /* ---------- The tools ---------- */
+  const setSpin = on => { spin = on; $("spin").setAttribute("aria-pressed", String(on)); };
+  setSpin(spin);
+  $("spin").onclick = () => setSpin(!spin);
+  $("home").onclick = () => { select(null, { fly: false }); flyTo(home.at, home.dist, 1200); };
+  $("threads").onclick = () => {
+    threadsOnly = !threadsOnly; $("threads").setAttribute("aria-pressed", String(threadsOnly));
+    select(selected, { fly: false });
+  };
+
+  /* ---------- Finding ---------- */
+  let found = [], cursor = -1;
+  function search(q) {
+    q = q.trim().toLowerCase();
+    if (!q) { $("results").hidden = true; found = []; return; }
+    const m = /^(.+?)\s*(\d+)$/.exec(q);
+    const out = [];
+    if (m) {
+      const b = D.books.findIndex(([name, osis]) => name.toLowerCase().startsWith(m[1]) || osis.toLowerCase() === m[1]);
+      if (b >= 0 && +m[2] >= 1 && +m[2] <= D.books[b][3]) out.push(bookStart[b] + +m[2] - 1);
+    }
+    const starts = [], has = [];
+    for (let i = NC; i < N; i++) { const n = D.n[i - NC].toLowerCase(); if (n.startsWith(q)) starts.push(i); else if (n.includes(q)) has.push(i); }
+    D.books.forEach(([name], b) => { if (!m && name.toLowerCase().startsWith(q)) out.push(bookStart[b]); });
+    const byDeg = (a, b) => deg[b] - deg[a];
+    found = [...out, ...starts.sort(byDeg), ...has.sort(byDeg)].slice(0, 9);
+    cursor = -1;
+    $("results").replaceChildren(...found.map((j, k) => el("li", {}, el("button", { type: "button", role: "option", "aria-selected": "false", onclick: () => pick(j) },
+      dotOf(j), label(j), el("small", { text: j < NC ? "Chapter" : KIND_NAME[kind[j]] })))));
+    $("results").hidden = !found.length;
+  }
+  function pick(j) { $("q").value = ""; $("results").hidden = true; $("q").blur(); select(j); }
+  $("q").addEventListener("input", e => search(e.target.value));
+  $("q").addEventListener("keydown", e => {
+    if (e.key === "ArrowDown" || e.key === "ArrowUp") {
+      e.preventDefault();
+      cursor = Math.max(0, Math.min(found.length - 1, cursor + (e.key === "ArrowDown" ? 1 : -1)));
+      [...$("results").querySelectorAll("button")].forEach((b, k) => b.setAttribute("aria-selected", String(k === cursor)));
+    }
+    if (e.key === "Enter" && found.length) pick(found[Math.max(0, cursor)]);
+    if (e.key === "Escape") { $("q").value = ""; search(""); }
+  });
+
+  function fromHash() {
+    const h = decodeURIComponent(location.hash.slice(1));
+    let m;
+    if ((m = /^n(\d+)$/.exec(h)) && +m[1] < N) return +m[1];
+    if ((m = /^(.+)-(\d+)$/.exec(h))) {
+      const b = D.books.findIndex(([name]) => slug(name) === m[1]);
+      if (b >= 0 && +m[2] >= 1 && +m[2] <= D.books[b][3]) return bookStart[b] + +m[2] - 1;
+    }
+    return null;
+  }
+
+  Promise.all([fetch("data/graph.json").then(r => r.json()), fetch("data/web3d.json").then(r => r.json())]).then(([data, space]) => {
+    unpack(data, space);
+    bookCenters = D.books.map(([, , , n], b) => {
+      let x = 0, y = 0, z = 0;
+      for (let c = 0; c < n; c++) { const i = bookStart[b] + c; x += P[3 * i]; y += P[3 * i + 1]; z += P[3 * i + 2]; }
+      return [b, x / n, y / n, z / n, n];
+    }).sort((a, b) => b[4] - a[4]);
+    $("count").textContent = `${fmt.format(NC)} chapters · ${fmt.format(D.kinds[1])} people · ${fmt.format(D.kinds[2])} places · ${fmt.format(D.kinds[3])} events · ${fmt.format(linkA.length)} threads`;
+    $("key").replaceChildren(...GROUPS.map(G => el("span", {}, el("span", { class: "dot", style: `--c:${G.c}` }), G.name)));
+    resize(); buffers(); fitHome();
+    $("hint").textContent = matchMedia("(pointer: coarse)").matches ? "Drag to turn it · pinch to fly in · tap a point" : "Drag to turn it · scroll to fly in · click a point";
+    setTimeout(() => $("hint").classList.add("gone"), 5000);
+    const i = fromHash();
+    if (i != null) setTimeout(() => select(i), still ? 0 : 1200);
+    requestAnimationFrame(frame);
+  }).catch(() => { $("hint").textContent = "The web could not be loaded. Check the connection and try again."; });
+  addEventListener("resize", () => { if (D) resize(); });
+  addEventListener("hashchange", () => { const i = fromHash(); if (i != null && i !== selected) select(i); });
+})();
+</script>
+
+</body>
+</html>
