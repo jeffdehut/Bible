@@ -21,35 +21,54 @@
    the book's length in words. A tap pulls a book out. */
 :root {
   --bg: #fbfaf7; --surface: #ffffff; --ink: #161b26; --muted: #5b6475; --faint: #8d95a4; --line: #e4e2db;
-  --lapis: #2646a1; --lapis-soft: #e7ecf8; --wood: #c8a97a; --wood-2: #a8865a;
+  --lapis: #2646a1; --lapis-soft: #e7ecf8; --wood: #c8a97a; --wood-2: #a8865a; --case: #f1ebe0;
   --shadow: 0 1px 2px rgb(22 27 38 / 6%), 0 10px 30px rgb(22 27 38 / 10%);
   --read: "Frank Ruhl Libre", "Noto Serif", Georgia, serif;
   --sans: "Libre Franklin", system-ui, -apple-system, "Segoe UI", sans-serif;
 }
 @media (prefers-color-scheme: dark) {
-  :root:not([data-theme="light"]) { --bg: #0d111b; --surface: #131a28; --ink: #e9ecf3; --muted: #a3acbd; --faint: #6f7a90; --line: #263047; --lapis: #9db3ff; --lapis-soft: #1c2650; --wood: #5a4630; --wood-2: #3d2f20; color-scheme: dark; }
+  :root:not([data-theme="light"]) { --bg: #0d111b; --surface: #131a28; --ink: #e9ecf3; --muted: #a3acbd; --faint: #6f7a90; --line: #263047; --lapis: #9db3ff; --lapis-soft: #1c2650; --wood: #5a4630; --wood-2: #3d2f20; --case: #161c29; color-scheme: dark; }
 }
-:root[data-theme="dark"] { --bg: #0d111b; --surface: #131a28; --ink: #e9ecf3; --muted: #a3acbd; --faint: #6f7a90; --line: #263047; --lapis: #9db3ff; --lapis-soft: #1c2650; --wood: #5a4630; --wood-2: #3d2f20; color-scheme: dark; }
+:root[data-theme="dark"] { --bg: #0d111b; --surface: #131a28; --ink: #e9ecf3; --muted: #a3acbd; --faint: #6f7a90; --line: #263047; --lapis: #9db3ff; --lapis-soft: #1c2650; --wood: #5a4630; --wood-2: #3d2f20; --case: #161c29; color-scheme: dark; }
 * { box-sizing: border-box; }
 html { -webkit-text-size-adjust: 100%; }
 body { margin: 0; background: var(--bg); color: var(--ink); font: 400 16px/1.5 var(--sans);
-  padding-left: max(12px, env(safe-area-inset-left, 0px)); padding-right: max(12px, env(safe-area-inset-right, 0px)); }
+  padding-left: max(16px, env(safe-area-inset-left, 0px)); padding-right: max(16px, env(safe-area-inset-right, 0px)); }
 a { color: var(--lapis); }
 main { max-width: 1100px; margin-inline: auto; padding-block: clamp(22px, 5vw, 44px) 60px; }
 h1 { margin: 0 0 6px; font: 300 clamp(36px, 7vw, 56px)/1.02 var(--read); letter-spacing: -0.02em; }
 .lede { margin: 0 0 8px; max-width: 64ch; color: var(--muted); }
 .totals { margin: 0 0 18px; font: 600 13px/1.4 var(--sans); color: var(--muted); letter-spacing: 0.04em; }
-.shelf { margin: 0 0 22px; }
-.shelf h2 { margin: 0 0 6px; font: 600 12px/1.3 var(--sans); letter-spacing: 0.1em; text-transform: uppercase; color: var(--muted); }
-.row { display: flex; align-items: flex-end; gap: 2px; padding: 0 6px; min-height: 150px; border-bottom: 10px solid var(--wood); box-shadow: 0 6px 0 -2px var(--wood-2); flex-wrap: wrap; row-gap: 14px; }
-.spine { position: relative; display: flex; align-items: center; justify-content: center; min-width: 16px; border: 0; border-radius: 3px 3px 1px 1px; cursor: pointer; padding: 6px 0;
+/* One bookcase: every book in order on a single run of shelves that wraps onto as many planks as
+   the screen needs. The planks and the labels on their edges are laid out after the books, from
+   where the books fall (see layout()), so a section's label runs under its own books on every
+   plank it reaches. */
+.chips { display: flex; gap: 6px; flex-wrap: nowrap; overflow-x: auto; scrollbar-width: none; margin: 0 -16px 14px; padding: 2px 16px; }
+.chips::-webkit-scrollbar { display: none; }
+.chip { flex: none; display: inline-flex; align-items: center; gap: 7px; min-height: 36px; padding: 4px 12px 4px 5px; border: 1px solid var(--line); border-radius: 99px; background: var(--surface); color: var(--ink); font: 500 13.5px/1.2 var(--sans); cursor: pointer; }
+.chip small { color: var(--faint); font-size: 12px; }
+.chip[aria-pressed="true"] { border-color: var(--ink); }
+.dot { display: inline-grid; place-items: center; width: 26px; height: 26px; border-radius: 50%; background: var(--c); color: var(--on); flex: none; }
+.dot svg { width: 16px; height: 16px; }
+@media (min-width: 760px) { .chips { flex-wrap: wrap; overflow: visible; margin: 0 0 18px; padding: 0; } }
+.case { position: relative; padding: 18px 12px 6px; border-radius: 14px; background: linear-gradient(var(--case), var(--case)); box-shadow: inset 0 0 0 1px var(--line); }
+.shelf { position: relative; display: flex; flex-wrap: wrap; align-items: flex-end; column-gap: 2px; row-gap: 62px; padding-bottom: 54px; }
+.plank { position: absolute; left: -12px; right: -12px; height: 12px; background: var(--wood); box-shadow: 0 5px 0 -1px var(--wood-2); border-radius: 2px; pointer-events: none; }
+.tag::before { content: ""; position: absolute; left: 0; top: 0; width: var(--w); height: 3px; background: var(--c); }
+.tag { position: absolute; display: flex; align-items: center; gap: 5px; height: 26px; padding: 8px 0 0; color: var(--ink); font: 600 12px/1 var(--sans); letter-spacing: 0.02em; white-space: nowrap; overflow: hidden; pointer-events: auto; cursor: pointer; background: none; border: 0; text-align: left; }
+.tag svg { flex: none; width: 15px; height: 15px; color: var(--c); }
+.tag.more { color: var(--muted); font-weight: 500; }
+.spine { position: relative; display: flex; align-items: center; justify-content: center; min-width: 18px; border: 0; border-radius: 3px 3px 1px 1px; cursor: pointer; padding: 6px 0;
   background: linear-gradient(90deg, rgb(0 0 0 / 14%), transparent 18%, transparent 80%, rgb(0 0 0 / 18%)), var(--c); color: var(--on, #fff);
-  box-shadow: inset 0 -6px 0 rgb(0 0 0 / 10%); transition: transform 0.2s cubic-bezier(.2, .7, .2, 1); }
+  box-shadow: inset 0 -6px 0 rgb(0 0 0 / 10%); transition: transform 0.2s cubic-bezier(.2, .7, .2, 1), opacity 0.2s; }
+.spine.first:not(:first-child) { margin-left: 10px; }
 .spine::before { content: ""; position: absolute; left: 0; right: 0; top: 10px; height: 2px; background: rgb(255 255 255 / 40%); }
 .spine::after { content: ""; position: absolute; left: 0; right: 0; bottom: 14px; height: 2px; background: rgb(255 255 255 / 40%); }
-.spine span { writing-mode: vertical-rl; transform: rotate(180deg); font: 600 12px/1 var(--sans); letter-spacing: 0.04em; white-space: nowrap; overflow: hidden; max-height: calc(100% - 30px); }
+.spine span { writing-mode: vertical-rl; transform: rotate(180deg); font: 600 var(--fs, 12px)/1 var(--sans); letter-spacing: 0.04em; white-space: nowrap; overflow: hidden; max-height: calc(100% - 26px); }
 .spine:hover, .spine:focus-visible, .spine[aria-pressed="true"] { transform: translateY(-10px); }
 .spine:focus-visible { outline: 2px solid var(--ink); outline-offset: 2px; }
+.spine { scroll-margin-top: calc(var(--bar, 56px) + 40px); }
+.shelf.only .spine:not(.on) { opacity: 0.25; }
 .card { position: fixed; z-index: 20; left: 0; right: 0; bottom: 0; max-height: 64vh; overflow: auto; background: var(--surface); border-top: 1px solid var(--line);
   border-radius: 18px 18px 0 0; box-shadow: var(--shadow); padding: 14px max(16px, env(safe-area-inset-right, 0px)) max(18px, env(safe-area-inset-bottom, 0px)) max(16px, env(safe-area-inset-left, 0px)); }
 @media (min-width: 900px) { .card { left: auto; right: 16px; bottom: 16px; width: 380px; border: 1px solid var(--line); border-radius: 16px; } }
@@ -97,10 +116,12 @@ body::before { content: ""; position: fixed; inset: 0 0 auto; height: env(safe-a
   <h1>The Bookshelf</h1>
   <p class="lede">The 66 books of the Bible on their shelves, each spine as thick as the book is long. Tap a book to take it down: how long it is, how long it takes to read, and where it begins.</p>
   <p class="totals" id="totals"></p>
-  <div id="shelves"></div>
+  <div class="chips" id="sections" aria-label="The parts of the Bible"></div>
+  <div class="case"><div class="shelf" id="shelf"></div></div>
 </main>
 <article class="card" id="card" hidden aria-live="polite"></article>
 
+<script src="share.js?v=31"></script>
 <script type="application/json" id="data">{"books":[{"n":"Genesis","osis":"Gen","t":"OT","s":0,"c":50,"v":1533,"w":35736,"o":20630,"first":"In the beginning God created the heavens and the earth.","lang":"Hebrew"},{"n":"Exodus","osis":"Exod","t":"OT","s":0,"c":40,"v":1213,"w":30131,"o":16726,"first":"These are the names of the sons of Israel who came to Egypt. They came with Jacob, each man with his household:","lang":"Hebrew"},{"n":"Leviticus","osis":"Lev","t":"OT","s":0,"c":27,"v":859,"w":23389,"o":11955,"first":"The LORD called to Moses and spoke to him from the tent of meeting. He said,","lang":"Hebrew"},{"n":"Numbers","osis":"Num","t":"OT","s":0,"c":36,"v":1289,"w":29757,"o":16423,"first":"The LORD spoke to Moses in the wilderness of Sinai, in the tent of meeting, on the first day of the second month, in the second year after the Israelites came out of the …","lang":"Hebrew"},{"n":"Deuteronomy","osis":"Deut","t":"OT","s":0,"c":34,"v":959,"w":26852,"o":14320,"first":"These are the words that Moses spoke to all Israel east of the Jordan, in the wilderness, in the Arabah opposite Suph, between Paran and Tophel, Laban, Hazeroth and Di-zahab.","lang":"Hebrew"},{"n":"Joshua","osis":"Josh","t":"OT","s":1,"c":24,"v":658,"w":17129,"o":10084,"first":"After the death of Moses the servant of the LORD, the LORD said to Joshua son of Nun, Moses' assistant,","lang":"Hebrew"},{"n":"Judges","osis":"Judg","t":"OT","s":1,"c":21,"v":618,"w":17469,"o":9905,"first":"After the death of Joshua, the Israelites inquired of the LORD, \"Which of us is to go up first against the Canaanites, to fight against them?\"","lang":"Hebrew"},{"n":"Ruth","osis":"Ruth","t":"OT","s":1,"c":4,"v":85,"w":2414,"o":1306,"first":"In the days when the judges ruled, there was a famine in the land. A man from Bethlehem in Judah went to live for a while in the country of Moab, he and his wife and his two sons.","lang":"Hebrew"},{"n":"1 Samuel","osis":"1Sam","t":"OT","s":1,"c":31,"v":811,"w":23019,"o":13335,"first":"There was a certain man from Ramathaim-zophim, from the hill country of Ephraim. His name was Elkanah son of Jeroham, son of Elihu, son of Tohu, son of Zuph, an Ephraimite.","lang":"Hebrew"},{"n":"2 Samuel","osis":"2Sam","t":"OT","s":1,"c":24,"v":695,"w":19211,"o":11128,"first":"After the death of Saul, when David had come back from defeating the Amalekites, David stayed in Ziklag for two days.","lang":"Hebrew"},{"n":"1 Kings","osis":"1Kgs","t":"OT","s":1,"c":22,"v":817,"w":22806,"o":13186,"first":"King David was old, well on in years. They covered him with blankets, but he could not get warm.","lang":"Hebrew"},{"n":"2 Kings","osis":"2Kgs","t":"OT","s":1,"c":25,"v":719,"w":22151,"o":12353,"first":"After Ahab's death, Moab rebelled against Israel.","lang":"Hebrew"},{"n":"1 Chronicles","osis":"1Chr","t":"OT","s":1,"c":29,"v":943,"w":18323,"o":10788,"first":"Adam, Seth, Enosh,","lang":"Hebrew"},{"n":"2 Chronicles","osis":"2Chr","t":"OT","s":1,"c":36,"v":822,"w":24223,"o":13350,"first":"Solomon son of David established himself firmly over his kingdom. The LORD his God was with him and made him exceedingly great.","lang":"Hebrew"},{"n":"Ezra","osis":"Ezra","t":"OT","s":1,"c":10,"v":280,"w":6784,"o":3791,"first":"In the first year of Cyrus king of Persia, to fulfill the word of the LORD spoken by Jeremiah, the LORD stirred the spirit of Cyrus king of Persia, and he sent a …","lang":"Hebrew and Aramaic"},{"n":"Nehemiah","osis":"Neh","t":"OT","s":1,"c":13,"v":405,"w":9696,"o":5336,"first":"The words of Nehemiah son of Hacaliah. In the month of Kislev, in the twentieth year, I was in the citadel of Susa,","lang":"Hebrew"},{"n":"Esther","osis":"Esth","t":"OT","s":1,"c":10,"v":167,"w":5410,"o":3057,"first":"This happened in the days of Ahasuerus, the Ahasuerus who reigned over 127 provinces, from India to Cush.","lang":"Hebrew"},{"n":"Job","osis":"Job","t":"OT","s":2,"c":42,"v":1070,"w":17530,"o":8398,"first":"There was a man in the land of Uz whose name was Job. That man was blameless and upright; he feared God and turned away from evil.","lang":"Hebrew"},{"n":"Psalms","osis":"Ps","t":"OT","s":2,"c":150,"v":2527,"w":41992,"o":19655,"first":"Happy is the one who does not walk by the advice of the wicked, or stand in the way of sinners, or sit in the seat of mockers.","lang":"Hebrew"},{"n":"Proverbs","osis":"Prov","t":"OT","s":2,"c":31,"v":915,"w":14472,"o":6984,"first":"The proverbs of Solomon son of David, king of Israel,","lang":"Hebrew"},{"n":"Ecclesiastes","osis":"Eccl","t":"OT","s":2,"c":12,"v":222,"w":5298,"o":2999,"first":"The words of the Teacher, the son of David, king in Jerusalem.","lang":"Hebrew"},{"n":"Song of Songs","osis":"Song","t":"OT","s":2,"c":8,"v":117,"w":2568,"o":1254,"first":"The Song of Songs, which is Solomon's.","lang":"Hebrew"},{"n":"Isaiah","osis":"Isa","t":"OT","s":3,"c":66,"v":1291,"w":35112,"o":16987,"first":"The vision of Isaiah son of Amoz, which he saw concerning Judah and Jerusalem in the days of Uzziah, Jotham, Ahaz and Hezekiah, kings of Judah.","lang":"Hebrew"},{"n":"Jeremiah","osis":"Jer","t":"OT","s":3,"c":52,"v":1364,"w":40377,"o":21975,"first":"The words of Jeremiah son of Hilkiah, one of the priests in Anathoth in the land of Benjamin.","lang":"Hebrew"},{"n":"Lamentations","osis":"Lam","t":"OT","s":3,"c":5,"v":154,"w":3238,"o":1564,"first":"How lonely sits the city that was full of people! She has become like a widow, she who was great among the nations. The princess among the provinces has been put to forced labor.","lang":"Hebrew"},{"n":"Ezekiel","osis":"Ezek","t":"OT","s":3,"c":48,"v":1273,"w":37121,"o":18866,"first":"In the thirtieth year, in the fourth month, on the fifth day of the month, while I was among the exiles by the river Chebar, the heavens were opened, and I saw visions of God.","lang":"Hebrew"},{"n":"Daniel","osis":"Dan","t":"OT","s":3,"c":12,"v":357,"w":11062,"o":6036,"first":"In the third year of the reign of Jehoiakim king of Judah, Nebuchadnezzar king of Babylon came to Jerusalem and besieged it.","lang":"Hebrew and Aramaic"},{"n":"Hosea","osis":"Hos","t":"OT","s":3,"c":14,"v":197,"w":4938,"o":2386,"first":"The word of the LORD that came to Hosea son of Beeri in the days of Uzziah, Jotham, Ahaz and Hezekiah, kings of Judah, and in the days of Jeroboam son of Joash, king of Israel.","lang":"Hebrew"},{"n":"Joel","osis":"Joel","t":"OT","s":3,"c":4,"v":73,"w":1858,"o":958,"first":"The word of the LORD that came to Joel son of Pethuel.","lang":"Hebrew"},{"n":"Amos","osis":"Amos","t":"OT","s":3,"c":9,"v":146,"w":4037,"o":2045,"first":"The words of Amos, who was one of the sheep breeders of Tekoa, which he saw concerning Israel in the days of Uzziah king of Judah and in the days of Jeroboam son of …","lang":"Hebrew"},{"n":"Obadiah","osis":"Obad","t":"OT","s":3,"c":1,"v":21,"w":618,"o":292,"first":"The vision of Obadiah. This is what the Lord GOD says concerning Edom: We have heard a report from the LORD, and an envoy has been sent among the nations: \"Rise up! Let …","lang":"Hebrew"},{"n":"Jonah","osis":"Jonah","t":"OT","s":3,"c":4,"v":48,"w":1281,"o":688,"first":"The word of the LORD came to Jonah son of Amittai:","lang":"Hebrew"},{"n":"Micah","osis":"Mic","t":"OT","s":3,"c":7,"v":105,"w":2951,"o":1400,"first":"The word of the LORD that came to Micah of Moresheth in the days of Jotham, Ahaz and Hezekiah, kings of Judah, which he saw concerning Samaria and Jerusalem.","lang":"Hebrew"},{"n":"Nahum","osis":"Nah","t":"OT","s":3,"c":3,"v":47,"w":1160,"o":562,"first":"An oracle concerning Nineveh. The book of the vision of Nahum the Elkoshite.","lang":"Hebrew"},{"n":"Habakkuk","osis":"Hab","t":"OT","s":3,"c":3,"v":56,"w":1395,"o":672,"first":"The oracle that Habakkuk the prophet saw.","lang":"Hebrew"},{"n":"Zephaniah","osis":"Zeph","t":"OT","s":3,"c":3,"v":53,"w":1544,"o":769,"first":"The word of the LORD that came to Zephaniah son of Cushi, son of Gedaliah, son of Amariah, son of Hezekiah, in the days of Josiah son of Amon king of Judah.","lang":"Hebrew"},{"n":"Haggai","osis":"Hag","t":"OT","s":3,"c":2,"v":38,"w":1053,"o":601,"first":"In the second year of King Darius, on the first day of the sixth month, the word of the LORD came through Haggai the prophet to Zerubbabel son of Shealtiel, governor of …","lang":"Hebrew"},{"n":"Zechariah","osis":"Zech","t":"OT","s":3,"c":14,"v":211,"w":5950,"o":3134,"first":"In the eighth month, in the second year of Darius, the word of the LORD came to Zechariah son of Berechiah, son of Iddo, the prophet:","lang":"Hebrew"},{"n":"Malachi","osis":"Mal","t":"OT","s":3,"c":3,"v":55,"w":1739,"o":876,"first":"An oracle. The word of the LORD to Israel through Malachi.","lang":"Hebrew"},{"n":"Matthew","osis":"Matt","t":"NT","s":4,"c":28,"v":1068,"w":22491,"o":18329,"first":"The record of the genealogy of Jesus the Messiah, the son of David, the son of Abraham.","lang":"Greek"},{"n":"Mark","osis":"Mark","t":"NT","s":4,"c":16,"v":673,"w":13896,"o":11286,"first":"The beginning of the good news about Jesus the Messiah.","lang":"Greek"},{"n":"Luke","osis":"Luke","t":"NT","s":4,"c":24,"v":1149,"w":24494,"o":19446,"first":"Since many have undertaken to compile an account of the events that have been fulfilled among us,","lang":"Greek"},{"n":"John","osis":"John","t":"NT","s":4,"c":21,"v":878,"w":18900,"o":15625,"first":"In the beginning was the Word. The Word was with God, and the Word was God.","lang":"Greek"},{"n":"Acts","osis":"Acts","t":"NT","s":5,"c":28,"v":1002,"w":23464,"o":18412,"first":"In my first book, Theophilus, I wrote about all that Jesus began to do and to teach,","lang":"Greek"},{"n":"Romans","osis":"Rom","t":"NT","s":6,"c":16,"v":430,"w":9553,"o":7055,"first":"Paul, a servant of Christ Jesus, called to be an apostle, set apart for the good news of God,","lang":"Greek"},{"n":"1 Corinthians","osis":"1Cor","t":"NT","s":6,"c":16,"v":437,"w":9586,"o":6812,"first":"Paul, called to be an apostle of Christ Jesus by the will of God, and our brother Sosthenes,","lang":"Greek"},{"n":"2 Corinthians","osis":"2Cor","t":"NT","s":6,"c":13,"v":256,"w":6191,"o":4473,"first":"Paul, an apostle of Christ Jesus by the will of God, and our brother Timothy, to the church of God in Corinth, together with all God's holy people throughout Achaia:","lang":"Greek"},{"n":"Galatians","osis":"Gal","t":"NT","s":6,"c":6,"v":149,"w":3220,"o":2226,"first":"Paul, an apostle, not from human beings nor through a human being, but through Jesus Christ and God the Father, who raised him from the dead,","lang":"Greek"},{"n":"Ephesians","osis":"Eph","t":"NT","s":6,"c":6,"v":155,"w":3095,"o":2416,"first":"Paul, an apostle of Christ Jesus by the will of God, to God's holy people who are [in Ephesus] and are faithful in Christ Jesus:","lang":"Greek"},{"n":"Philippians","osis":"Phil","t":"NT","s":6,"c":4,"v":104,"w":2229,"o":1626,"first":"Paul and Timothy, servants of Christ Jesus, to all God's holy people in Christ Jesus who are in Philippi, together with the overseers and deacons:","lang":"Greek"},{"n":"Colossians","osis":"Col","t":"NT","s":6,"c":4,"v":95,"w":1973,"o":1580,"first":"Paul, an apostle of Christ Jesus by the will of God, and Timothy our brother,","lang":"Greek"},{"n":"1 Thessalonians","osis":"1Thess","t":"NT","s":6,"c":5,"v":89,"w":1923,"o":1473,"first":"Paul, Silvanus and Timothy, to the church of the Thessalonians in God the Father and the Lord Jesus Christ: Grace to you and peace.","lang":"Greek"},{"n":"2 Thessalonians","osis":"2Thess","t":"NT","s":6,"c":3,"v":47,"w":1084,"o":820,"first":"Paul, Silvanus and Timothy, to the church of the Thessalonians in God our Father and the Lord Jesus Christ:","lang":"Greek"},{"n":"1 Timothy","osis":"1Tim","t":"NT","s":6,"c":6,"v":113,"w":2325,"o":1591,"first":"Paul, an apostle of Christ Jesus by command of God our Savior and of Christ Jesus our hope,","lang":"Greek"},{"n":"2 Timothy","osis":"2Tim","t":"NT","s":6,"c":4,"v":83,"w":1670,"o":1235,"first":"Paul, an apostle of Christ Jesus by the will of God, according to the promise of the life that is in Christ Jesus,","lang":"Greek"},{"n":"Titus","osis":"Titus","t":"NT","s":6,"c":3,"v":46,"w":938,"o":659,"first":"Paul, a servant of God and an apostle of Jesus Christ, for the faith of God's chosen ones and the knowledge of the truth that accords with godliness,","lang":"Greek"},{"n":"Philemon","osis":"Phlm","t":"NT","s":6,"c":1,"v":25,"w":464,"o":334,"first":"Paul, a prisoner of Christ Jesus, and Timothy our brother, to Philemon our beloved friend and fellow worker,","lang":"Greek"},{"n":"Hebrews","osis":"Heb","t":"NT","s":6,"c":13,"v":303,"w":7007,"o":4935,"first":"Long ago God spoke to our ancestors through the prophets at many times and in many ways.","lang":"Greek"},{"n":"James","osis":"Jas","t":"NT","s":6,"c":5,"v":108,"w":2379,"o":1739,"first":"James, a servant of God and of the Lord Jesus Christ, to the twelve tribes in the Dispersion: Greetings.","lang":"Greek"},{"n":"1 Peter","osis":"1Pet","t":"NT","s":6,"c":5,"v":105,"w":2484,"o":1678,"first":"Peter, an apostle of Jesus Christ, to God's chosen people who live as foreigners in the Dispersion, in Pontus, Galatia, Cappadocia, Asia and Bithynia,","lang":"Greek"},{"n":"2 Peter","osis":"2Pet","t":"NT","s":6,"c":3,"v":61,"w":1561,"o":1098,"first":"Simeon Peter, a servant and apostle of Jesus Christ, to those who have received a faith as precious as ours through the righteousness of our God and Savior Jesus Christ:","lang":"Greek"},{"n":"1 John","osis":"1John","t":"NT","s":6,"c":5,"v":105,"w":2599,"o":2137,"first":"What was from the beginning, what we have heard, what we have seen with our eyes, what we have looked at and our hands have touched, concerning the word of life","lang":"Greek"},{"n":"2 John","osis":"2John","t":"NT","s":6,"c":1,"v":13,"w":299,"o":245,"first":"The elder, to the chosen lady and her children, whom I love in truth, and not only I, but also all who have come to know the truth,","lang":"Greek"},{"n":"3 John","osis":"3John","t":"NT","s":6,"c":1,"v":15,"w":323,"o":219,"first":"The elder, to my dear friend Gaius, whom I love in truth.","lang":"Greek"},{"n":"Jude","osis":"Jude","t":"NT","s":6,"c":1,"v":25,"w":653,"o":459,"first":"Jude, a servant of Jesus Christ and brother of James, to those who are called, who are loved by God the Father and kept for Jesus Christ:","lang":"Greek"},{"n":"Revelation","osis":"Rev","t":"NT","s":7,"c":22,"v":405,"w":11486,"o":9833,"first":"The revelation of Jesus Christ, which God gave him to show his servants what must soon take place. He made it known by sending his angel to his servant John,","lang":"Greek"}],"sections":[{"n":"The Law","c":["#f2c45a","#a8790a"]},{"n":"History","c":["#f59a62","#bf5a1f"]},{"n":"Poetry and Wisdom","c":["#8fdc8a","#2f8a3c"]},{"n":"The Prophets","c":["#ff7272","#c43434"]},{"n":"The Gospels","c":["#6fb0ff","#2459c4"]},{"n":"Acts","c":["#4fd6cb","#0f8c83"]},{"n":"The Letters","c":["#b996ff","#6d43c9"]},{"n":"Revelation","c":["#ff86c0","#c23a7c"]}]}</script>
 <script>
 (() => {
@@ -115,16 +136,79 @@ body::before { content: ""; position: fixed; inset: 0 0 auto; height: env(safe-a
   let open = null;
   const total = D.books.reduce((t, b) => t + b.w, 0);
   $("totals").textContent = `66 books · ${fmt(D.books.reduce((t, b) => t + b.c, 0))} chapters · ${fmt(D.books.reduce((t, b) => t + b.v, 0))} verses · ${fmt(total)} words · about ${Math.round(total / 230 / 60)} hours of reading`;
-  const shelves = $("shelves");
-  for (const [k, sec] of D.sections.entries()) {
-    const row = el("div", { class: "row" });
-    for (const b of D.books.filter(b => b.s === k)) {
-      const wpx = 16 + 46 * Math.sqrt(b.w / maxW), hpx = 118 + (b.t === "NT" ? 0 : 18) + (b.w > 20000 ? 10 : 0);
-      const btn = el("button", { class: "spine", type: "button", "aria-pressed": "false", style: `--c:${sec.c[dark() ? 0 : 1]};${dark() ? "--on:#0b1020;" : ""}width:${wpx.toFixed(0)}px;height:${hpx}px`, title: b.n, onclick: () => show(b, btn) }, el("span", { text: b.n }));
-      row.append(btn);
+  // Each part's icon (share.js), and a short name for a label with little room.
+  const ICON = ["torah", "history", "wisdom", "prophets", "gospels", "acts", "letters", "revelation"];
+  const SHORT = ["Law", "History", "Poetry", "Prophets", "Gospels", "Acts", "Letters", "Rev."];
+  const icon = k => `<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="${window.Share ? Share.icons[ICON[k]] : ""}"/></svg>`;
+  const colorOf = k => D.sections[k].c[dark() ? 0 : 1];
+  const shelf = $("shelf"), spines = [];
+  let only = null;
+  D.books.forEach((b, i) => {
+    const phone = innerWidth < 600;
+    const wpx = (phone ? 18 : 16) + (phone ? 40 : 46) * Math.sqrt(b.w / maxW), hpx = (phone ? 132 : 140) + (b.t === "NT" ? 0 : 18) + (b.w > 20000 ? 10 : 0);
+    const btn = el("button", { class: "spine" + (i === 0 || D.books[i - 1].s !== b.s ? " first" : ""), type: "button", "aria-pressed": "false", "data-s": b.s, title: b.n,
+      style: `width:${wpx.toFixed(0)}px;height:${hpx}px`, onclick: () => show(b, btn) }, el("span", { text: b.n }));
+    spines.push(btn); shelf.append(btn);
+  });
+  // One size for every spine's name: the largest, up to 12px, at which the longest name fits its
+  // spine. A name is never shrunk alone.
+  function fitNames() {
+    const g = document.createElement("canvas").getContext("2d");
+    let size = 12;
+    for (; size > 8; size -= 0.5) {
+      g.font = `600 ${size}px "Libre Franklin", system-ui, sans-serif`;
+      if (spines.every((sp, i) => g.measureText(D.books[i].n).width + D.books[i].n.length * 0.04 * size <= sp.offsetHeight - 26 - 12)) break;
     }
-    shelves.append(el("section", { class: "shelf" }, el("h2", { text: sec.n }), row));
+    shelf.style.setProperty("--fs", size + "px");
   }
+  fitNames();
+  function paint() {
+    spines.forEach((sp, i) => { sp.style.setProperty("--c", colorOf(D.books[i].s)); sp.style.setProperty("--on", dark() ? "#0b1020" : "#fff"); sp.classList.toggle("on", only == null || D.books[i].s === only); });
+    shelf.classList.toggle("only", only != null);
+    $("sections").replaceChildren(...D.sections.map((sec, k) => {
+      const n = D.books.filter(b => b.s === k).length;
+      const dot = el("span", { class: "dot", style: `--c:${colorOf(k)};--on:${dark() ? "#0b1020" : "#fff"}` }); dot.innerHTML = icon(k);
+      return el("button", { type: "button", class: "chip", "aria-pressed": String(only === k), onclick: () => pick(k) }, dot, sec.n, el("small", { text: String(n) }));
+    }));
+    layout();
+  }
+  function pick(k) {
+    only = only === k ? null : k; paint();
+    if (only != null) spines.find((_, i) => D.books[i].s === k).scrollIntoView({ behavior: "smooth", block: "center" });
+  }
+  // The planks under each line of books, and on each plank's edge a label for every run of one
+  // part's books: its full name if it fits, else its short name, else its icon alone.
+  function layout() {
+    shelf.querySelectorAll(".plank, .tag").forEach(e => e.remove());
+    const lines = new Map();
+    spines.forEach((sp, i) => { const bottom = sp.offsetTop + sp.offsetHeight; if (!lines.has(bottom)) lines.set(bottom, []); lines.get(bottom).push(i); });
+    const seen = new Set();
+    for (const [bottom, idx] of lines) {
+      shelf.append(el("div", { class: "plank", style: `top:${bottom}px` }));
+      let a = 0;
+      while (a < idx.length) {
+        let z = a;
+        while (z + 1 < idx.length && D.books[idx[z + 1]].s === D.books[idx[a]].s) z++;
+        const k = D.books[idx[a]].s, first = spines[idx[a]], last = spines[idx[z]];
+        const left = first.offsetLeft, width = last.offsetLeft + last.offsetWidth - left;
+        // The label may run on over empty shelf: up to the next part's books, or the shelf's end.
+        const room = (z + 1 < idx.length ? spines[idx[z + 1]].offsetLeft - 8 : shelf.clientWidth) - left;
+        const cont = seen.has(k); seen.add(k);
+        const tag = el("button", { type: "button", class: "tag" + (cont ? " more" : ""), title: D.sections[k].n, "aria-label": D.sections[k].n, style: `--c:${colorOf(k)};--w:${width}px;top:${bottom + 16}px;left:${left}px;width:${Math.max(width, room, 18)}px`, onclick: () => pick(k) });
+        shelf.append(tag);
+        for (const text of [D.sections[k].n, SHORT[k], ""]) {
+          tag.innerHTML = icon(k) + (text ? `<span>${text}</span>` : "");
+          if (tag.scrollWidth <= tag.clientWidth + 1) break;
+        }
+        a = z + 1;
+      }
+    }
+  }
+  paint();
+  let lastW = shelf.clientWidth;
+  new ResizeObserver(() => { if (shelf.clientWidth !== lastW) { lastW = shelf.clientWidth; layout(); } }).observe(shelf);
+  if (document.fonts) document.fonts.ready.then(() => { fitNames(); layout(); });
+  matchMedia("(prefers-color-scheme: dark)").addEventListener("change", paint);
   function show(b, btn) {
     document.querySelectorAll(".spine[aria-pressed=true]").forEach(x => x.setAttribute("aria-pressed", "false"));
     if (open === b) { close(); return; }
@@ -132,7 +216,7 @@ body::before { content: ""; position: fixed; inset: 0 0 auto; height: env(safe-a
     const sec = D.sections[b.s], c = sec.c[dark() ? 0 : 1];
     $("card").replaceChildren(
       el("button", { class: "close", type: "button", "aria-label": "Close", onclick: close, text: "✕" }),
-      el("div", { class: "kicker", style: `--c:${c}` }, el("i"), `${sec.n} · ${b.lang}`),
+      el("div", { class: "kicker" }, (d => (d.innerHTML = icon(b.s), d))(el("span", { class: "dot", style: `--c:${c};--on:${dark() ? "#0b1020" : "#fff"}` })), `${sec.n} · ${b.lang}`),
       el("h2", { text: b.n }),
       el("div", { class: "stats" },
         el("div", {}, el("b", { text: fmt(b.c) }), el("small", { text: b.c === 1 ? "chapter" : "chapters" })),
@@ -149,7 +233,7 @@ body::before { content: ""; position: fixed; inset: 0 0 auto; height: env(safe-a
   addEventListener("keydown", e => { if (e.key === "Escape") close(); });
   const h = decodeURIComponent(location.hash.slice(1));
   const at = D.books.findIndex(b => slug(b) === h);
-  if (at >= 0) show(D.books[at], document.querySelectorAll(".spine")[at]);
+  if (at >= 0) { show(D.books[at], spines[at]); spines[at].scrollIntoView({ block: "start" }); }
 })();
 </script>
 
