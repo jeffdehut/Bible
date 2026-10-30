@@ -4,7 +4,7 @@ A new translation of the Bible into plain, modern Traditional Chinese for native
 directly from the Hebrew, Aramaic and Greek texts in this repository. It is written for readers
 in Hong Kong, in the standard written Chinese they read every day, not in Cantonese.
 
-**Status:** a pilot: the Gospel of Mark, drafted. Every chapter is an AI draft until native readers have reviewed it.
+**Status:** Mark drafted; the rest of the Bible in progress from Genesis (see translation-zh/STATUS.md). Every chapter is an AI draft until native readers have reviewed it.
 
 ## What carries over from the English translation
 
@@ -94,6 +94,23 @@ Settled while drafting Mark (open for review like the rest):
 | Hours | 上午九時左右, 中午十二時, 下午三時 | The original hour in a note. |
 | The days of the week | 七日的第一日 | |
 | Animals | 牠 | |
+
+Settled while drafting Genesis:
+
+| Source | Rendering | Notes |
+|---|---|---|
+| יְהוָה אֱלֹהִים | 耶和華神 | Noted in Genesis 2. |
+| רָקִיעַ | 穹蒼 | Noted: pictured as a solid dome; not the Union Version's 空氣. |
+| תֹּהוּ וָבֹהוּ | 荒涼空虛 | |
+| נֶפֶשׁ חַיָּה | 有生命的活物 (animals); 有生命的活人 (Genesis 2:7) | Notes link them. |
+| נְפִלִים | 拿非利人 | Noted: traditionally 偉人. |
+| בְּנֵי הָאֱלֹהִים | 神的兒子們 | |
+| תֵּבָה; כְּרֻבִים | 方舟；基路伯 | |
+| תּוֹלְדֹת | 來歷 (a section's heading); 後代、後代的記錄 (a genealogy) | |
+| הָאָדָם (Genesis 2–3) | 那人 | Notes where the vowel points read the name 亞當. |
+| מוֹעֲדִים | 節期 | |
+| Rivers | 希底結 (Tigris), 伯拉河 (Euphrates) | Union Version names; modern names in a note. |
+| מִצְרַיִם | 埃及 | Also where the Union Version has 麥西 (Genesis 10). |
 
 ## Style
 
