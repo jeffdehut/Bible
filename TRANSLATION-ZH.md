@@ -4,7 +4,7 @@ A new translation of the Bible into plain, modern Traditional Chinese for native
 directly from the Hebrew, Aramaic and Greek texts in this repository. It is written for readers
 in Hong Kong, in the standard written Chinese they read every day, not in Cantonese.
 
-**Status:** a pilot (Mark). Every chapter is an AI draft until native readers have reviewed it.
+**Status:** a pilot: the Gospel of Mark, drafted. Every chapter is an AI draft until native readers have reviewed it.
 
 ## What carries over from the English translation
 
@@ -74,6 +74,26 @@ Proposed in the pilot, open for review:
 | ἀμὴν λέγω ὑμῖν | 我實在告訴你們 | |
 | οἱ ἄρτοι τῆς προθέσεως, לֶחֶם הַפָּנִים | 供奉在神面前的餅 | Noted: `傳統譯作「陳設餅」`. Never 聖餅, the Catholic word for the communion wafer. |
 | Σατανᾶς, הַשָּׂטָן | 撒但 | The Union Version's form, by the decision on names, though most writing outside the Bible has 撒旦. |
+
+Settled while drafting Mark (open for review like the rest):
+
+| Source | Rendering | Notes |
+|---|---|---|
+| Ῥαββί; Ραββουνι | 拉比；拉波尼 | Noted: 「我的老師」. Διδάσκαλε is 老師 (not the dated 夫子). |
+| Καῖσαρ | 該撒 | The Union Version's form, by the decision on names; noted: today usually 凱撒. |
+| γέεννα | 地獄 | Noted: *geenna*, from the Valley of Hinnom (欣嫩子谷). |
+| ζωὴ αἰώνιος; ἡ ζωή | 永生；生命 | "Enter life" (Mark 9:43, 45) is 進入生命: 永 is not added. |
+| σκανδαλίζω | 跌倒；使……絆倒 | By context; noted where the other is possible. |
+| συνέδριον; βουλευτής | 議會；議員 | Noted: the Union Version's 公會. |
+| λῃστής | 叛亂分子 | Noted: 或譯「強盜」. As the English "rebel". |
+| ἀρχιερεῖς; πρεσβύτεροι | 祭司長；長老 | |
+| τὰ ἔθνη | 外邦人 | |
+| δηνάριον; λεπτόν, κοδράντης | 銀幣；小銅錢 | Values in notes: a day's wage; ¹⁄₆₄ of a denarius. |
+| Ὡσαννά | 和散那 | Noted: from Psalm 118:25. |
+| ἀδελφοί, ἀδελφαί (of Jesus) | 兄弟；姊妹 | Not 哥哥／弟弟, which would add birth order. |
+| Hours | 上午九時左右, 中午十二時, 下午三時 | The original hour in a note. |
+| The days of the week | 七日的第一日 | |
+| Animals | 牠 | |
 
 ## Style
 
