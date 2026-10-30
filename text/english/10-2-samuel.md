@@ -43,7 +43,7 @@
 
 **18** and he ordered that the people of Judah be taught "The Bow."[^1-9] It is written in the Book of Jashar:[^1-10]
 
-**19** "Your glory,[^1-11] Israel, lies slain on your heights. How the mighty have fallen!
+**19** Your glory,[^1-11] Israel, lies slain on your heights. How the mighty have fallen!
 
 **20** Do not tell it in Gath; do not announce it in the streets of Ashkelon, or the daughters of the Philistines will rejoice; the daughters of the uncircumcised will celebrate.
 
@@ -59,7 +59,7 @@
 
 **26** I grieve for you, my brother Jonathan. You were very dear to me. Your love for me was more wonderful than the love of women.
 
-**27** How the mighty have fallen, and the weapons of war have perished!"
+**27** How the mighty have fallen, and the weapons of war have perished!
 
 [^1-1]: Literally "the masters of the horsemen", that is, the horsemen or their commanders.
 [^1-2]: The Hebrew text is written "He said to him" but read "I said to him".
@@ -81,7 +81,7 @@
 
 *Status: draft*
 
-**1** After this, David asked the LORD,[^2-1] "Shall I go up to one of the towns of Judah?" The LORD said to him, "Go up." David said, "Where shall I go?" He said, "To Hebron."
+**1** After this, David inquired of the LORD,[^2-1] "Shall I go up to one of the towns of Judah?" The LORD said to him, "Go up." David said, "Where shall I go?" He said, "To Hebron."
 
 **2** So David went up there, with his two wives, Ahinoam of Jezreel and Abigail the widow[^2-2] of Nabal of Carmel.
 
@@ -133,13 +133,13 @@
 
 **26** Abner called to Joab, "Must the sword go on devouring forever? Don't you know that it will be bitter in the end? How long will it be before you tell the troops to turn back from chasing their brothers?"
 
-**27** Joab said, "As God lives, if you had not spoken, the troops would not have given up chasing their brothers until morning."[^2-13]
+**27** Joab said, "As surely as God lives, if you had not spoken, the troops would not have given up chasing their brothers until morning."[^2-13]
 
 **28** Then Joab blew the ram's horn, and all the troops stopped. They did not chase Israel any longer, and they fought no more.
 
 **29** Abner and his men marched through the Arabah[^2-14] all that night. They crossed the Jordan, went through the whole Bithron,[^2-15] and came to Mahanaim.
 
-**30** Joab came back from chasing Abner and gathered all the troops. Nineteen of David's servants were missing, besides Asahel.
+**30** Joab came back from chasing Abner and gathered all the troops. Of David's servants, 19 were missing, besides Asahel.
 
 **31** But David's servants had struck down the men of Benjamin, Abner's men, and 360 of them had died.
 
@@ -290,7 +290,7 @@
 
 **8** They brought the head of Ish-bosheth to David at Hebron and said to the king, "Here is the head of Ish-bosheth son of Saul, your enemy, who sought your life. Today the LORD[^4-5] has given my lord the king vengeance on Saul and on his offspring."
 
-**9** David answered Rechab and his brother Baanah, the sons of Rimmon the Beerothite, and said to them, "As the LORD lives, who has rescued my life from every trouble,
+**9** David answered Rechab and his brother Baanah, the sons of Rimmon the Beerothite, and said to them, "As surely as the LORD lives, who has rescued my life from every trouble,
 
 **10** when someone told me, 'Look, Saul is dead,' and thought he was bringing good news, I seized him and killed him at Ziklag. That was the reward I gave him for his news.[^4-6]
 
@@ -345,7 +345,7 @@
 
 **18** The Philistines had come and spread out in the Valley of Rephaim.
 
-**19** David asked the LORD, "Shall I go up against the Philistines? Will you hand them over to me?" The LORD said to David, "Go up, for I will certainly hand the Philistines over to you."
+**19** David inquired of the LORD, "Shall I go up against the Philistines? Will you hand them over to me?" The LORD said to David, "Go up, for I will certainly hand the Philistines over to you."
 
 **20** So David came to Baal-perazim, and David defeated them there. He said, "The LORD has broken through my enemies ahead of me, as water breaks through." That is why that place was called Baal-perazim.[^5-14]
 
@@ -353,7 +353,7 @@
 
 **22** Once again the Philistines came up and spread out in the Valley of Rephaim.
 
-**23** When David asked the LORD, he said, "Do not go up. Circle around behind them and come at them opposite the balsam trees.[^5-16]
+**23** When David inquired of the LORD, he said, "Do not go up. Circle around behind them and come at them opposite the balsam trees.[^5-16]
 
 **24** When you hear the sound of marching in the tops of the balsam trees, then act quickly, for then the LORD will have gone out ahead of you to strike down the army of the Philistines."
 
@@ -543,7 +543,7 @@
 
 **3** David also defeated Hadadezer son of Rehob, king of Zobah, when he went to restore his control[^8-3] at the River Euphrates.[^8-4]
 
-**4** David captured from him 1,700 horsemen[^8-5] and 20,000 foot soldiers. David hamstrung all the chariot horses, but he kept back a hundred of them for chariots.
+**4** David captured from him 1,700 horsemen[^8-5] and 20,000 foot soldiers. David hamstrung all the chariot horses, but he kept back 100 of them for chariots.
 
 **5** When the Arameans of Damascus came to help Hadadezer king of Zobah, David struck down twenty-two thousand of the Arameans.
 
@@ -772,21 +772,21 @@
 
 **4** Now a traveler came to the rich man, but he was unwilling to take one of his own sheep or cattle to prepare for the traveler who had come to him. Instead he took the poor man's lamb and prepared it for the man who had come to him."
 
-**5** David's anger burned hot against the man, and he said to Nathan, "As the LORD lives, the man who did this deserves to die![^12-2]
+**5** David's anger burned hot against the man, and he said to Nathan, "As surely as the LORD lives, the man who did this deserves to die![^12-2]
 
 **6** He must pay for the lamb four times over,[^12-3] because he did this thing and because he had no pity."
 
-**7** Nathan said to David, "You are the man! This is what the LORD, the God of Israel, says: 'I anointed you king over Israel, and I rescued you from the hand of Saul.
+**7** Nathan said to David, "You are the man! This is what the LORD, the God of Israel, says: I anointed you king over Israel, and I rescued you from the hand of Saul.
 
 **8** I gave you your master's house, and your master's wives into your arms.[^12-4] I gave you the house of Israel and Judah. And if that had been too little, I would have given you as much again and more.
 
 **9** Why have you despised the word of the LORD by doing what is evil in my sight?[^12-5] You struck down Uriah the Hittite with the sword and took his wife to be your wife. You killed him with the sword of the Ammonites.
 
-**10** Now therefore the sword will never depart from your house, because you despised me and took the wife of Uriah the Hittite to be your wife.'
+**10** Now therefore the sword will never depart from your house, because you despised me and took the wife of Uriah the Hittite to be your wife.
 
-**11** This is what the LORD says: 'I am going to raise up trouble against you from your own house. Before your eyes I will take your wives and give them to your neighbor, and he will sleep with your wives in broad daylight.[^12-6]
+**11** This is what the LORD says: I am going to raise up trouble against you from your own house. Before your eyes I will take your wives and give them to your neighbor, and he will sleep with your wives in broad daylight.[^12-6]
 
-**12** You did it in secret, but I will do this thing before all Israel and before the sun.'"
+**12** You did it in secret, but I will do this thing before all Israel and before the sun."
 
 **13** David said to Nathan, "I have sinned against the LORD." Nathan said to David, "The LORD, for his part, has taken away your sin. You will not die.
 
@@ -970,7 +970,7 @@
 
 **10** The king said, "If anyone says anything to you, bring him to me, and he will never touch you again."
 
-**11** She said, "Please let the king remember the LORD[^14-3] your God, so that the avenger of blood[^14-4] may not add to the destruction, and they may not destroy my son." He said, "As the LORD lives, not one hair of your son will fall to the ground."
+**11** She said, "Please let the king remember the LORD[^14-3] your God, so that the avenger of blood[^14-4] may not add to the destruction, and they may not destroy my son." He said, "As surely as the LORD lives, not one hair of your son will fall to the ground."
 
 **12** Then the woman said, "Please let your servant speak a word to my lord the king." He said, "Speak."
 
@@ -1029,7 +1029,7 @@
 [^14-11]: Literally "to turn around the face of the matter".
 [^14-12]: The Hebrew text is written "his servant" but read "your servant".
 [^14-13]: Literally "at the end of days to days".
-[^14-14]: A shekel is about 2/5 ounce (11.5 grams), so two hundred shekels is about 5 pounds (2.3 kg).
+[^14-14]: A shekel is about ⅖ ounce (11.5 grams), so two hundred shekels is about 5 pounds (2.3 kg).
 [^14-15]: The Septuagint adds "and she became the wife of Rehoboam son of Solomon and bore him Abijah". Compare 18:18, where Absalom has no son.
 [^14-16]: The Hebrew text is written "and I will set it on fire" but read "set it on fire".
 
@@ -1077,7 +1077,7 @@
 
 **20** You came only yesterday. Should I make you wander about with us today, while I go wherever I may go? Go back, and take your brothers with you. Faithful love and faithfulness be with you."[^15-9]
 
-**21** But Ittai answered the king, "As the LORD lives, and as my lord the king lives, wherever my lord the king may be, whether for death or for life, there your servant will be."
+**21** But Ittai answered the king, "As surely as the LORD lives, and as surely as my lord the king lives, wherever my lord the king may be, whether for death or for life, there your servant will be."
 
 **22** David said to Ittai, "Go on, then, and cross over." So Ittai the Gittite crossed over with all his men and all the little ones who were with him.
 
@@ -1346,7 +1346,7 @@
 [^18-2]: Some Hebrew manuscripts, the Septuagint and the Vulgate read "But you are like ten thousand of us." In Hebrew, "now" and "you" sound alike (*attah*).
 [^18-3]: Hebrew *elah*, a large tree, an oak or a terebinth. Also in verses 10 and 14.
 [^18-4]: Literally "he was put".
-[^18-5]: Literally "ten of silver", probably ten shekels. A shekel is about 2/5 ounce (11.5 grams), so ten shekels is about 4 ounces (115 grams). In verse 12, a thousand shekels is about 25 pounds (11.5 kg).
+[^18-5]: Literally "ten of silver", probably ten shekels. A shekel is about ⅖ ounce (11.5 grams), so ten shekels is about 4 ounces (115 grams). In verse 12, a thousand shekels is about 25 pounds (11.5 kg).
 [^18-6]: The Hebrew text is written "And not" (*lo*) but read "Even if" (*lu*).
 [^18-7]: Literally "Guard, whoever, the young man Absalom". The Septuagint reads "Guard for me the young man Absalom".
 [^18-8]: The Hebrew text is written "against his life" but read "against my life".
@@ -1621,7 +1621,7 @@
 [^21-12]: Hebrew *ba'alei*, "the lords of", meaning the citizens or leading men.
 [^21-13]: The Hebrew text is written "and they stayed at Nob" but read "Ishbi-benob".
 [^21-14]: Hebrew *ha-rapha*, perhaps the ancestor of the Rephaim, a people remembered as giants (Deuteronomy 2:11, 20). Also in verses 18, 20 and 22.
-[^21-15]: A shekel is about 2/5 ounce (11.5 grams), so three hundred shekels is about 7½ pounds (3.5 kg).
+[^21-15]: A shekel is about ⅖ ounce (11.5 grams), so three hundred shekels is about 7½ pounds (3.5 kg).
 [^21-16]: Literally "girded with a new (one)". The noun is missing: perhaps a new sword or new armor.
 [^21-17]: The heavy rod of a loom. 1 Chronicles 20:5 reads "Elhanan son of Jair struck down Lahmi the brother of Goliath the Gittite". In 1 Samuel 17 David kills Goliath. *Oregim* means "weavers", and the word may have been copied into the name from the end of the verse.
 [^21-18]: The Hebrew text is written *midyan* but read *madon*. Both words are of uncertain meaning here; 1 Chronicles 20:6 has "a man of great size".
@@ -1633,7 +1633,7 @@
 
 **1** David spoke the words of this song to the LORD[^22-1] on the day when the LORD rescued him from the hand of all his enemies and from the hand of Saul.[^22-2]
 
-**2** He said: "The LORD is my rock, my fortress and my deliverer.[^22-3]
+**2** He said: The LORD is my rock, my fortress and my deliverer.[^22-3]
 
 **3** My God, my rock,[^22-4] in whom I take refuge; my shield and the horn[^22-5] of my salvation, my stronghold and my refuge; my savior, you save me from violence.[^22-6]
 
@@ -1731,7 +1731,7 @@
 
 **50** So I will praise you, LORD, among the nations, and sing praises to your name.[^22-29]
 
-**51** He is a tower of salvation[^22-30] for his king; he shows faithful love[^22-31] to his anointed,[^22-32] to David and his offspring forever."
+**51** He is a tower of salvation[^22-30] for his king; he shows faithful love[^22-31] to his anointed,[^22-32] to David and his offspring forever.
 
 [^22-1]: *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles.
 [^22-2]: This song appears again, with small differences, as Psalm 18. From verse 4 on, its verse numbers match those of Psalm 18 in the Hebrew; in English Bibles the psalm's verses are numbered one lower. The notes below give some of the differences.
@@ -1770,19 +1770,19 @@
 
 *Status: draft*
 
-**1** These are the last words of David: "The declaration[^23-1] of David son of Jesse, the declaration of the man who was raised on high,[^23-2] the anointed of the God of Jacob, the sweet singer of the songs of Israel:[^23-3]
+**1** These are the last words of David: The declaration[^23-1] of David son of Jesse, the declaration of the man who was raised on high,[^23-2] the anointed of the God of Jacob, the sweet singer of the songs of Israel:[^23-3]
 
 **2** The Spirit of the LORD[^23-4] spoke through me; his word was on my tongue.
 
-**3** The God of Israel spoke; the Rock of Israel said to me: 'One who rules over people in righteousness, who rules in the fear of God,
+**3** The God of Israel spoke; the Rock of Israel said to me: "One who rules over people in righteousness, who rules in the fear of God,
 
-**4** is like the light of morning when the sun rises, a morning without clouds, when the grass springs from the earth through sunshine after rain.'[^23-5]
+**4** is like the light of morning when the sun rises, a morning without clouds, when the grass springs from the earth through sunshine after rain."[^23-5]
 
 **5** Is not my house like this with God?[^23-6] For he has made an everlasting covenant with me, ordered in every part and secured. Will he not make all my salvation and all my desire grow?
 
 **6** But the worthless[^23-7] are all like thorns that are tossed away, for they cannot be picked up by hand.
 
-**7** Whoever touches them must arm himself with iron or the shaft of a spear, and they are utterly burned up with fire where they lie."[^23-8]
+**7** Whoever touches them must arm himself with iron or the shaft of a spear, and they are utterly burned up with fire where they lie.[^23-8]
 
 **8** These are the names of David's mighty warriors: Josheb-basshebeth[^23-9] the Tahchemonite, the chief of the officers.[^23-10] He was Adino the Eznite, who killed eight hundred men at one time.[^23-11]
 
@@ -1949,6 +1949,6 @@
 [^24-15]: The Hebrew text is written "Araniah" but read "Araunah".
 [^24-16]: Literally "the equipment of the oxen".
 [^24-17]: Literally "The whole, Araunah the king gave to the king." Some take it to mean that Araunah had been the Jebusite king of Jerusalem.
-[^24-18]: A shekel is about 2/5 ounce (11.5 grams), so fifty shekels is about 1¼ pounds (575 grams). In 1 Chronicles 21:25 David pays six hundred shekels of gold for the site.
+[^24-18]: A shekel is about ⅖ ounce (11.5 grams), so fifty shekels is about 1¼ pounds (575 grams). In 1 Chronicles 21:25 David pays six hundred shekels of gold for the site.
 [^24-19]: Hebrew *shelamim*; see 6:17.
 [^24-20]: The Septuagint adds "And Solomon later added to the altar, for it was small at first."

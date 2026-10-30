@@ -318,7 +318,7 @@
 [^5-12]: Hebrew *ma'al*: a breach of faith, especially by taking or misusing what belongs to God.
 [^5-13]: That is, the things dedicated to the LORD, such as offerings, tithes and the priests' portions.
 [^5-14]: Hebrew *asham*, "guilt" or "compensation". Many scholars translate it "reparation offering", because it was brought together with repayment for what had been wrongly taken or withheld (verse 16; verses 21–24).
-[^5-15]: A shekel was a weight of silver, about 2/5 ounce (11.5 grams). The Hebrew may mean "at least two shekels".
+[^5-15]: A shekel was a weight of silver, about ⅖ ounce (11.5 grams). The Hebrew may mean "at least two shekels".
 [^5-16]: Literally "by the shekel of the sanctuary": the standard weight used at the sanctuary, twenty gerahs (Exodus 30:13; Leviticus 27:25).
 [^5-17]: Literally "And what he sinned from the holy thing he shall repay".
 [^5-18]: Or "and he feels guilty".
@@ -683,7 +683,7 @@
 [^10-5]: Letting the hair hang loose and tearing one's clothes were signs of mourning (21:10). Or "Do not uncover your heads".
 [^10-6]: Literally "he will be angry".
 [^10-7]: Literally "may weep the burning that the LORD has burned".
-[^10-8]: Hebrew *shekhar*, an alcoholic drink made from grain or fruit, perhaps a kind of beer.
+[^10-8]: Or "fermented drink"; brewed from grain.
 [^10-9]: Hebrew *chol*: what is ordinary, not set apart as holy.
 [^10-10]: Literally "seeking, he sought".
 [^10-11]: Literally "to bear the iniquity".
@@ -1744,7 +1744,7 @@
 
 **5** In the first month,[^23-5] on the fourteenth day of the month, at twilight,[^23-6] is the LORD's Passover.
 
-**6** On the fifteenth day of the same month is the LORD's Festival of Unleavened Bread. For seven days you are to eat bread made without yeast.
+**6** On the fifteenth day of the same month is the LORD's Festival of Bread Made without Yeast. For seven days you are to eat bread made without yeast.
 
 **7** On the first day you are to hold a holy assembly. You must not do any regular work.[^23-7]
 
@@ -2237,7 +2237,7 @@
 
 [^27-1]: *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles.
 [^27-2]: Literally "makes a special vow, by your valuation of persons, to the LORD". A person vowed to the LORD was released by paying a fixed sum to the sanctuary. The word for "value" (*erekh*, "your valuation") recurs throughout the chapter.
-[^27-3]: A shekel was a weight of silver, about 2/5 ounce (11.5 grams), so fifty shekels was about 1¼ pounds (575 grams). On the sanctuary shekel, see verse 25.
+[^27-3]: A shekel was a weight of silver, about ⅖ ounce (11.5 grams), so fifty shekels was about 1¼ pounds (575 grams). On the sanctuary shekel, see verse 25.
 [^27-4]: Literally "But if he is poorer than your valuation".
 [^27-5]: A homer was probably about 220 liters (6 bushels). The word means "donkey-load".
 [^27-6]: Hebrew *cherem*: something devoted to the LORD for good, which could not be sold or redeemed (verses 28–29).

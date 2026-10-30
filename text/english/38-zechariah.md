@@ -156,7 +156,7 @@
 [^3-11]: Hebrew *tsemach*, "sprout, growth", a title of a coming king of David's line (Jeremiah 23:5; 33:15; Zechariah 6:12). The Aramaic Targum reads "my servant the anointed one (Messiah)".
 [^3-12]: The meaning of the stone is uncertain. It may be a stone for the temple, or a gem for the high priest's turban, which was engraved "Holy to the LORD" (Exodus 28:36–38). *Eyes* may mean "facets" or "springs". Compare 4:10.
 [^3-13]: Hebrew *ne'um YHWH tseva'ot*, "the declaration of the LORD of Armies", a formula that marks a prophet's words as the LORD's own solemn statement. Also in verse 10.
-[^3-14]: A picture of peace and safety (1 Kings 5:5, 4:25 in most English Bibles; Micah 4:4).
+[^3-14]: A picture of peace and safety (1 Kings 5:5; 4:25 in most English Bibles; Micah 4:4).
 
 ## Chapter 4
 
@@ -330,7 +330,7 @@
 [^7-6]: Literally "separate myself", that is, by fasting. The fast of the fifth month mourned the burning of the temple and of Jerusalem by the Babylonians (2 Kings 25:8–9; Jeremiah 52:12–13). Now that the temple was being rebuilt, the people asked whether to keep it.
 [^7-7]: The fast of the seventh month probably mourned the murder of Gedaliah, the governor appointed by Babylon (2 Kings 25:25; Jeremiah 41:1–3). Compare 8:19.
 [^7-8]: The prophets before the exile (1:4).
-[^7-9]: The dry south of Judah and the low hills to the west.
+[^7-9]: The Negev is the dry south of Judah; the Shephelah, the low hills between the coastal plain and the hill country of Judah.
 [^7-10]: Hebrew *chesed*, loyal, covenant love.
 [^7-11]: Literally "each to his brother". Also in verse 10.
 [^7-12]: Like an ox that will not take the yoke (Nehemiah 9:29; Hosea 4:16).
@@ -448,7 +448,7 @@
 [^9-5]: A play on words: *Tsor*, "Tyre", and *matsor*, "fortress". Tyre stood on an island off the coast.
 [^9-6]: Hebrew *Adonai*, "the Lord", not the name YHWH.
 [^9-7]: Or "strike her wealth into the sea" or "her rampart into the sea".
-[^9-8]: Hebrew *mamzer*, a person of forbidden or mixed birth (Deuteronomy 23:3, 23:2 in most English Bibles).
+[^9-8]: Hebrew *mamzer*, a person of forbidden or mixed birth (Deuteronomy 23:3; 23:2 in most English Bibles).
 [^9-9]: Meat eaten with its blood, and other food that was unclean to Israel (Leviticus 11; 17:10–14). The Philistines will be cleansed and become part of the LORD's people.
 [^9-10]: Hebrew *alluf*, a clan or a clan chief.
 [^9-11]: The people of Jerusalem before David took it, who lived on among the people of Judah (2 Samuel 5:6–9; 24:18–24).
@@ -462,7 +462,7 @@
 [^9-19]: Hebrew *bor*, a pit or empty cistern, used as a prison (Genesis 37:24; Jeremiah 38:6).
 [^9-20]: Compare Isaiah 61:7.
 [^9-21]: Literally "I will fill the bow with Ephraim".
-[^9-22]: Hebrew *Yavan*, Ionia, the Greeks of the Aegean coasts (Ezekiel 27:13; Joel 4:6, 3:6 in most English Bibles).
+[^9-22]: Hebrew *Yavan*, Ionia, the Greeks of the Aegean coasts (Ezekiel 27:13; Joel 4:6; 3:6 in most English Bibles).
 [^9-23]: Hebrew *Adonai YHWH*, "my Lord YHWH". After "Lord", God's personal name is written GOD in capitals, as in most English Bibles.
 [^9-24]: Hebrew *shofar*, a trumpet made from a ram's horn, sounded as an alarm in war.
 [^9-25]: Hebrew *teman*, the south, also the region of Teman in Edom, from which the LORD comes in Habakkuk 3:3.
@@ -501,7 +501,7 @@
 
 [^10-1]: *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles.
 [^10-2]: Hebrew *malqosh*, the spring rain of March and April, which ripens the crops before the harvest.
-[^10-3]: Hebrew *teraphim*, images kept in the home and consulted for guidance (Genesis 31:19; Ezekiel 21:26, 21:21 in most English Bibles).
+[^10-3]: Hebrew *teraphim*, images kept in the home and consulted for guidance (Genesis 31:19; Ezekiel 21:26; 21:21 in most English Bibles).
 [^10-4]: Compare Numbers 27:17; Mark 6:34.
 [^10-5]: Literally "the male goats", the leaders of the flock (Isaiah 14:9; Jeremiah 50:8). The verb *paqad* means "punish" here and "care for" in the next line.
 [^10-6]: Hebrew *YHWH tseva'ot*, traditionally "the LORD of hosts" or "the LORD Almighty". *Tseva'ot* means armies: the heavenly hosts and the armies of Israel.
@@ -646,7 +646,7 @@
 
 [^13-1]: Hebrew *niddah*, the impurity of menstruation, and the word used for the water that cleansed from impurity (Numbers 19:9).
 [^13-2]: *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles. *The LORD of Armies* (Hebrew *YHWH tseva'ot*) is traditionally "the LORD of hosts" or "the LORD Almighty". *Tseva'ot* means armies: the heavenly hosts and the armies of Israel. *Declares the LORD* is Hebrew *ne'um YHWH*, "the declaration of the LORD", a formula that marks a prophet's words as the LORD's own solemn statement. Also in verses 7 and 8.
-[^13-3]: The same verb, *daqar*, as *pierced* in 12:10. The law required a false prophet to be put to death, even by his own family (Deuteronomy 13:7–12, 13:6–11 in most English Bibles; 18:20).
+[^13-3]: The same verb, *daqar*, as *pierced* in 12:10. The law required a false prophet to be put to death, even by his own family (Deuteronomy 13:7–12; 13:6–11 in most English Bibles; 18:20).
 [^13-4]: The garment worn by prophets such as Elijah (2 Kings 1:8; 2:13).
 [^13-5]: The Hebrew is pointed *adam hiqnani*, "a man sold me" or "a man made me his servant". The same letters, divided into words differently, can be read *adamah qinyani*, "the land has been my livelihood". Compare Amos 7:14.
 [^13-6]: Literally "between your hands", that is, on the chest or the back. Prophets of other gods sometimes cut themselves (1 Kings 18:28).
@@ -667,7 +667,7 @@
 
 **4** On that day his feet will stand on the Mount of Olives,[^14-4] which lies east of Jerusalem, and the Mount of Olives will be split in two from east to west by a very wide valley. Half of the mountain will move north, and half of it south.
 
-**5** You will flee by the valley of my mountains,[^14-5] for the valley of the mountains will reach as far as Azel.[^14-6] You will flee as you fled from the earthquake in the days of Uzziah king of Judah.[^14-7] Then the LORD my God will come, and all the holy ones with him.[^14-8]
+**5** You will flee by the valley of my mountains,[^14-5] for the valley of the mountains will reach as far as Azel.[^14-6] You will flee as you fled from the earthquake in the days of Uzziah king of Judah.[^14-7] Then the LORD my God will come, and all the holy ones with you.[^14-8]
 
 **6** On that day there will be no light, neither brightness nor frost.[^14-9]
 
@@ -708,7 +708,7 @@
 [^14-5]: The same consonants can be read "The valley of my mountains will be blocked", as the Septuagint reads. Also later in the verse.
 [^14-6]: The place is unknown.
 [^14-7]: The earthquake in the eighth century BC, which Amos 1:1 also mentions.
-[^14-8]: Hebrew "with you". The Septuagint, the Syriac and the Vulgate read "with him". The holy ones are the angels of the LORD's heavenly army (Deuteronomy 33:2–3; Psalm 89:6, 89:5 in most English Bibles). Compare 1 Thessalonians 3:13.
+[^14-8]: The Septuagint, the Syriac and the Vulgate read "with him". *You* may be the LORD, addressed suddenly, or Jerusalem. The holy ones are the angels of the LORD's heavenly army (Deuteronomy 33:2–3; Psalm 89:6; 89:5 in most English Bibles). Compare 1 Thessalonians 3:13.
 [^14-9]: The Hebrew is difficult. Literally "there will be no light, precious things and congealing". The Hebrew text is written "the precious things will congeal". The Septuagint reads "there will be no light, and cold and frost".
 [^14-10]: Literally "one day", perhaps a day like no other (compare Genesis 1:5).
 [^14-11]: The Dead Sea and the Mediterranean. Compare Ezekiel 47:1–12; Joel 4:18 (3:18 in most English Bibles).

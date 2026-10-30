@@ -282,7 +282,7 @@
 
 **1** All who are under the yoke as slaves[^6-1] should regard their own masters as worthy of all honor, so that the name of God and the teaching may not be slandered.[^6-2]
 
-**2** Those who have believing masters must not look down on them because they are brothers;[^6-3] rather they must serve them all the better, because those who benefit from their good service[^6-4] are believers and beloved. Teach and urge these things.
+**2** Those who have believing masters must not look down on them because they are brothers and sisters;[^6-3] rather they must serve them all the better, because those who benefit from their good service[^6-4] are believers and beloved. Teach and urge these things.
 
 **3** If anyone teaches a different doctrine and does not agree with the sound[^6-5] words of our Lord Jesus Christ and the teaching that accords with godliness,
 
@@ -324,7 +324,7 @@
 
 [^6-1]: Greek *douloi*, "slaves". *Masters* in verses 1–2 is *despotai*, "owners". Slavery was part of the social order of the Roman world, and some members of the churches were slaves or owned slaves (compare Ephesians 6:5–9).
 [^6-2]: Compare Isaiah 52:5, quoted in Romans 2:24. *Slandered*: Greek *blasphemeo*, "slander, revile, blaspheme".
-[^6-3]: Greek *adelphoi*, here fellow believers.
+[^6-3]: Greek *adelphoi*, "brothers", here fellow believers.
 [^6-4]: Or "because those who devote themselves to doing good", taking the words to describe the masters' kindness. Greek *euergesia*, "a good deed, benefit".
 [^6-5]: Greek *hygiaino*, "be healthy"; compare "sickly" (*noseo*, "be sick") in verse 4.
 [^6-6]: Many manuscripts add "Withdraw from such people."

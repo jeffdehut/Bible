@@ -337,7 +337,7 @@
 
 **12** The kings of the earth did not believe, nor did any of the inhabitants of the world, that foe and enemy could enter the gates of Jerusalem.
 
-**13** It happened because of the sins of her prophets and the iniquities of her priests,[^4-13] who shed in her midst the blood of the righteous.
+**13** It happened because of the sins of her prophets and the guilt of her priests,[^4-13] who shed in her midst the blood of the righteous.
 
 **14** They wandered blind through the streets, so defiled with blood that no one could touch their garments.
 
@@ -355,21 +355,21 @@
 
 **21** Rejoice and be glad, Daughter Edom,[^4-20] you who live in the land of Uz![^4-21] To you also the cup will pass;[^4-22] you will become drunk and strip yourself naked.
 
-**22** Your punishment is complete, Daughter Zion; he will not keep you in exile any longer. But he will punish your iniquity, Daughter Edom; he will expose your sins.
+**22** Your punishment is complete, Daughter Zion; he will not keep you in exile any longer. But he will punish your guilt, Daughter Edom; he will expose your sins.
 
 [^4-1]: Hebrew *eikhah*, "How!"; see 1:1. This chapter is an acrostic poem: its twenty-two verses begin with the letters of the Hebrew alphabet in order, with *pe* (verse 16) before *ayin* (verse 17), as in chapters 2 and 3. Each verse here has two lines.
 [^4-2]: Perhaps the stones of the temple, or precious stones, a picture of the "precious children" of verse 2.
 [^4-3]: The Hebrew text is written *tannin*, which can mean "sea monster" or be another plural form of "jackals", but read *tannim*, "jackals".
 [^4-4]: Literally "the daughter of my people"; see 2:11. Also in verses 6 and 10.
 [^4-5]: The ostrich was thought to neglect its young (Job 39:13–16).
-[^4-6]: Or "iniquity". Hebrew *avon* means both the wrong and its punishment, and *chatta't*, "sin", later in the verse, can also mean its punishment. Also in verse 22.
+[^4-6]: Or "guilt". Hebrew *avon* means both the wrong and its punishment, and *chatta't*, "sin", later in the verse, can also mean its punishment. Also in verse 22.
 [^4-7]: Literally "and no hands whirled against it". Or "and no hands were wrung over it".
 [^4-8]: Or "Her Nazirites". Hebrew *nezireha*, "her consecrated ones".
 [^4-9]: Hebrew *peninim*, perhaps red coral, or pearls.
 [^4-10]: Hebrew *sappir*, probably lapis lazuli, a deep blue stone.
 [^4-11]: Literally "who flow away, pierced, from the produce of the field".
 [^4-12]: *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles.
-[^4-13]: Literally "From the sins of her prophets, the iniquities of her priests".
+[^4-13]: Literally "From the sins of her prophets, the guilt of her priests".
 [^4-14]: Or "They shall not live among us as foreigners any longer".
 [^4-15]: Literally "The face of the LORD".
 [^4-16]: Hebrew *hevel*, "breath, vapor", the key word of Ecclesiastes; here "in vain".
@@ -396,7 +396,7 @@
 
 **6** We have given our hand to Egypt, and to Assyria, to get enough bread.[^5-4]
 
-**7** Our ancestors sinned and are no more, and we bear their iniquities.
+**7** Our ancestors sinned and are no more, and we bear their guilt.
 
 **8** Slaves[^5-5] rule over us; there is no one to rescue us from their hand.
 

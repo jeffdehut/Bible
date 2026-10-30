@@ -46,7 +46,7 @@
 [^1-5]: Hebrew *Adonai YHWH*, "my Lord YHWH". After "Lord", God's personal name is written GOD in capitals, as in most English Bibles. The second *Lord* in the verse is *Adonai* alone.
 [^1-6]: Hebrew *pesha*, "rebellion, transgression", a deliberate breaking of faith. Also in verse 13.
 [^1-7]: The high places were hill shrines where sacrifices were offered. The Septuagint reads "the sin of the house of Judah".
-[^1-8]: Hebrew *etnan*, the fee paid to a prostitute. The gifts given at Samaria's shrines are pictured as the earnings of an unfaithful wife (Hosea 2:14, 2:12 in most English Bibles; 9:1). When the city falls, its treasures will go to adorn the temples of the conquerors.
+[^1-8]: Hebrew *etnan*, the fee paid to a prostitute. The gifts given at Samaria's shrines are pictured as the earnings of an unfaithful wife (Hosea 2:14; 2:12 in most English Bibles; 9:1). When the city falls, its treasures will go to adorn the temples of the conquerors.
 [^1-9]: Or "stripped". The prophet acts out the fate of captives, as Isaiah did (Isaiah 20:2–4).
 [^1-10]: Literally "her wounds are incurable". *Her* is Samaria.
 [^1-11]: Verses 10–15 are a series of plays on the names of towns, most of them in the low hills of Judah near Micah's home, on the path of an invading army, probably that of Sennacherib king of Assyria in 701 BC. The Hebrew is difficult, and several of the towns are unknown. This line repeats David's lament for Saul (2 Samuel 1:20), and *Gath* (*gat*) sounds like *taggidu*, "tell".
@@ -88,11 +88,11 @@
 
 **10** Get up and go, for this is no place of rest,[^2-18] because of the uncleanness that destroys with a painful destruction.[^2-19]
 
-**11** If a man went about with wind and lies[^2-20] and deceived, saying, "I will preach to you about wine and beer," he would be the preacher for this people!
+**11** If a man went about with wind and lies[^2-20] and deceived, saying, "I will preach to you about wine and beer,"[^2-21] he would be the preacher for this people!
 
-**12** I will surely gather all of you, Jacob; I will surely bring together the remnant of Israel. I will put them together like sheep in a fold,[^2-21] like a flock in the middle of its pasture. The place will hum with people.
+**12** I will surely gather all of you, Jacob; I will surely bring together the remnant of Israel. I will put them together like sheep in a fold,[^2-22] like a flock in the middle of its pasture. The place will hum with people.
 
-**13** The one who breaks open the way[^2-22] will go up before them. They will break through, pass through the gate and go out by it. Their king will pass on before them, the LORD at their head.
+**13** The one who breaks open the way[^2-23] will go up before them. They will break through, pass through the gate and go out by it. Their king will pass on before them, the LORD at their head.
 
 [^2-1]: Hebrew *hoy*, a cry of mourning for the dead ("Alas!", 1 Kings 13:30). The prophets use it to announce disaster, and in that sense it is translated "Woe to" throughout this book.
 [^2-2]: Literally "because their hand is to God", an idiom for "it is within their power" (Genesis 31:29).
@@ -114,8 +114,9 @@
 [^2-18]: The promised land was to be Israel's place of rest (Deuteronomy 12:9).
 [^2-19]: Or "because it is unclean, it will be destroyed with a painful destruction". The Hebrew verb may also mean "take in pledge".
 [^2-20]: Hebrew *ruach*, "wind" or "spirit", the same word as in verse 7: a false prophet who claims the spirit but has only wind.
-[^2-21]: Hebrew *botsrah*, which is also the name Bozrah, a city of Edom, famous for its sheep (Isaiah 34:6).
-[^2-22]: Hebrew *ha-porets*, "the breaker", like a shepherd breaking open the gap in a sheepfold to lead the flock out.
+[^2-21]: Or "fermented drink"; brewed from grain.
+[^2-22]: Hebrew *botsrah*, which is also the name Bozrah, a city of Edom, famous for its sheep (Isaiah 34:6).
+[^2-23]: Hebrew *ha-porets*, "the breaker", like a shepherd breaking open the gap in a sheepfold to lead the flock out.
 
 ## Chapter 3
 
@@ -193,7 +194,7 @@
 [^4-4]: Or "will flow to it", like a river.
 [^4-5]: Hebrew *torah*, "instruction, teaching, law".
 [^4-6]: Hebrew *ittim*, probably iron plow points or hoes. Joel 4:10 (3:10 in most English Bibles) turns the image around: "Beat your plowshares into swords."
-[^4-7]: A picture of peace and safety, as in the days of Solomon (1 Kings 5:5, 4:25 in most English Bibles; compare Zechariah 3:10).
+[^4-7]: A picture of peace and safety, as in the days of Solomon (1 Kings 5:5; 4:25 in most English Bibles; compare Zechariah 3:10).
 [^4-8]: Hebrew *YHWH tseva'ot*, traditionally "the LORD of hosts" or "the LORD Almighty". *Tseva'ot* means armies: the heavenly hosts and the armies of Israel.
 [^4-9]: Hebrew *ne'um YHWH*, "the declaration of the LORD", a formula that marks a prophet's words as the LORD's own solemn statement.
 [^4-10]: The Hebrew is feminine singular, "the limping one", picturing the people as a lame ewe of the flock. Also in verse 7. Compare Zephaniah 3:19.

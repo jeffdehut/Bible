@@ -23,11 +23,11 @@
 
 **8** They said to him, "He was a hairy man,[^1-12] with a leather belt fastened around his waist." He said, "It was Elijah the Tishbite."
 
-**9** Then the king sent a captain of fifty[^1-13] with his fifty men to Elijah. The captain went up to him, and there he was, sitting on top of the hill. He said to him, "Man of God, the king says, 'Come down!'"
+**9** Then the king sent a captain of fifty[^1-13] with his fifty men to Elijah. The captain went up to him, and there he was, sitting on top of the hill. He said to him, "Man of God, the king says: Come down!"
 
 **10** Elijah answered the captain of fifty, "If I am a man of God, let fire come down from heaven and consume you and your fifty!"[^1-14] Then fire came down from heaven and consumed him and his fifty.
 
-**11** Again the king sent another captain of fifty with his fifty men to him. He spoke to Elijah and said, "Man of God, this is what the king says: 'Come down at once!'"
+**11** Again the king sent another captain of fifty with his fifty men to him. He spoke to Elijah and said, "Man of God, this is what the king says: Come down at once!"
 
 **12** Elijah answered them, "If I am a man of God, let fire come down from heaven and consume you and your fifty!" Then the fire of God[^1-15] came down from heaven and consumed him and his fifty.
 
@@ -70,15 +70,15 @@
 
 **1** When the LORD[^2-1] was about to take Elijah up to heaven in a whirlwind, Elijah and Elisha were on their way from Gilgal.[^2-2]
 
-**2** Elijah said to Elisha, "Please stay here, for the LORD has sent me on to Bethel." But Elisha said, "As the LORD lives, and as you yourself live,[^2-3] I will not leave you." So they went down to Bethel.
+**2** Elijah said to Elisha, "Please stay here, for the LORD has sent me on to Bethel." But Elisha said, "As surely as the LORD lives, and as surely as you yourself live,[^2-3] I will not leave you." So they went down to Bethel.
 
 **3** The company of prophets[^2-4] who were at Bethel came out to Elisha and said to him, "Do you know that today the LORD is going to take your master away from you?"[^2-5] He said, "Yes, I know. Be quiet."
 
-**4** Elijah said to him, "Elisha, please stay here, for the LORD has sent me on to Jericho." But he said, "As the LORD lives, and as you yourself live, I will not leave you." So they came to Jericho.
+**4** Elijah said to him, "Elisha, please stay here, for the LORD has sent me on to Jericho." But he said, "As surely as the LORD lives, and as surely as you yourself live, I will not leave you." So they came to Jericho.
 
 **5** The company of prophets who were at Jericho came up to Elisha and said to him, "Do you know that today the LORD is going to take your master away from you?" He said, "Yes, I know. Be quiet."
 
-**6** Then Elijah said to him, "Please stay here, for the LORD has sent me on to the Jordan." But he said, "As the LORD lives, and as you yourself live, I will not leave you." So the two of them went on.
+**6** Then Elijah said to him, "Please stay here, for the LORD has sent me on to the Jordan." But he said, "As surely as the LORD lives, and as surely as you yourself live, I will not leave you." So the two of them went on.
 
 **7** Fifty men of the company of prophets went too, and they stood at a distance, facing them, while the two of them stood by the Jordan.
 
@@ -163,7 +163,7 @@
 
 **13** Elisha said to the king of Israel, "What do you want with me?[^3-12] Go to your father's prophets and your mother's prophets." But the king of Israel said to him, "No, for the LORD has called these three kings together to hand them over to Moab."
 
-**14** Elisha said, "As the LORD of Armies[^3-13] lives, whom I serve,[^3-14] if I did not have respect for Jehoshaphat king of Judah,[^3-15] I would not look at you or even notice you.
+**14** Elisha said, "As surely as the LORD of Armies[^3-13] lives, whom I serve,[^3-14] if I did not have respect for Jehoshaphat king of Judah,[^3-15] I would not look at you or even notice you.
 
 **15** But now bring me a musician." And while the musician was playing, the hand of the LORD[^3-16] came on Elisha.
 
@@ -280,7 +280,7 @@
 
 **29** Elisha said to Gehazi, "Tuck up your robe,[^4-11] take my staff in your hand and go. If you meet anyone, do not greet him, and if anyone greets you, do not answer him. Lay my staff on the boy's face."
 
-**30** But the boy's mother said, "As the LORD lives, and as you yourself live,[^4-12] I will not leave you." So he got up and followed her.
+**30** But the boy's mother said, "As surely as the LORD lives, and as surely as you yourself live,[^4-12] I will not leave you." So he got up and followed her.
 
 **31** Gehazi went on ahead of them and laid the staff on the boy's face, but there was no sound and no sign of life.[^4-13] So he went back to meet Elisha and told him, "The boy has not woken up."
 
@@ -363,7 +363,7 @@
 
 **15** Then he went back to the man of God, he and all his company. He came and stood before him and said, "Now I know that there is no God in all the earth except in Israel. So please accept a gift[^5-13] from your servant."
 
-**16** But Elisha said, "As the LORD lives, whom I serve,[^5-14] I will not accept anything." Naaman urged him to accept it, but he refused.
+**16** But Elisha said, "As surely as the LORD lives, whom I serve,[^5-14] I will not accept anything." Naaman urged him to accept it, but he refused.
 
 **17** Naaman said, "If not, then please let your servant be given as much earth as a pair of mules can carry.[^5-15] For your servant will never again offer burnt offering or sacrifice to other gods, but only to the LORD.
 
@@ -371,7 +371,7 @@
 
 **19** Elisha said to him, "Go in peace." So Naaman went away from him some distance.
 
-**20** Then Gehazi, the servant of Elisha the man of God, said to himself, "Look, my master has let this Aramean Naaman off without accepting from him what he brought. As the LORD lives, I will run after him and take something from him."
+**20** Then Gehazi, the servant of Elisha the man of God, said to himself, "Look, my master has let this Aramean Naaman off without accepting from him what he brought. As surely as the LORD lives, I will run after him and take something from him."
 
 **21** So Gehazi hurried after Naaman. When Naaman saw someone running after him, he got down from the chariot to meet him and said, "Is everything all right?"
 
@@ -672,9 +672,9 @@
 
 **17** The watchman standing on the tower in Jezreel saw Jehu's troops coming, and he said, "I see a company of troops." Jehoram said, "Take a horseman and send him to meet them, and let him ask, 'Is it peace?'"
 
-**18** So the horseman went to meet him and said, "This is what the king says: 'Is it peace?'" Jehu said, "What do you have to do with peace? Fall in behind me." The watchman reported, "The messenger has reached them, but he is not coming back."
+**18** So the horseman went to meet him and said, "This is what the king says: Is it peace?" Jehu said, "What do you have to do with peace? Fall in behind me." The watchman reported, "The messenger has reached them, but he is not coming back."
 
-**19** Then the king sent a second horseman. He came to them and said, "This is what the king says: 'Is it peace?'" Jehu said, "What do you have to do with peace? Fall in behind me."
+**19** Then the king sent a second horseman. He came to them and said, "This is what the king says: Is it peace?" Jehu said, "What do you have to do with peace? Fall in behind me."
 
 **20** The watchman reported, "He has reached them, but he is not coming back. And the driving is like the driving of Jehu son of Nimshi, for he drives like a madman."
 
@@ -886,7 +886,7 @@
 
 [^11-1]: Literally "all the offspring of the kingdom".
 [^11-2]: Called Jehoshabeath in 2 Chronicles 22:11.
-[^11-3]: Also called Jehoash (12:1). *Joash* is a shorter form of the same name.
+[^11-3]: Also called Jehoash (12:1; 11:21 in most English Bibles). *Joash* is a shorter form of the same name.
 [^11-4]: Literally "the room of the beds", perhaps a storeroom for bedding.
 [^11-5]: *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles. "The house of the LORD" is the temple.
 [^11-6]: Probably foreign soldiers in the royal guard, perhaps from Caria in southwest Asia Minor. Also in verse 19.
@@ -1540,7 +1540,7 @@
 
 **20** Then Isaiah son of Amoz sent this message to Hezekiah: "This is what the LORD, the God of Israel, says: I have heard what you prayed to me about Sennacherib king of Assyria.
 
-**21** This is the word that the LORD has spoken against him: The virgin daughter Zion[^19-9] despises you and mocks you. Daughter Jerusalem tosses her head behind your back.
+**21** This is the word that the LORD has spoken against him: The virgin Daughter Zion[^19-9] despises you and mocks you. Daughter Jerusalem tosses her head behind your back.
 
 **22** Whom have you mocked and insulted? Against whom have you raised your voice and lifted your eyes in pride? Against the Holy One of Israel!
 
@@ -1801,7 +1801,7 @@
 
 **8** He brought all the priests from the towns of Judah, and he defiled the high places where the priests had burned incense, from Geba to Beersheba. He tore down the high places of the gates, which were at the entrance of the gate of Joshua the governor of the city, on the left as one goes through the city gate.
 
-**9** However, the priests of the high places did not go up to the altar of the LORD in Jerusalem, but they ate unleavened bread among their fellow priests.[^23-13]
+**9** However, the priests of the high places did not go up to the altar of the LORD in Jerusalem, but they ate bread made without yeast among their fellow priests.[^23-13]
 
 **10** He defiled Topheth,[^23-14] which is in the Valley of Ben-hinnom,[^23-15] so that no one could make his son or his daughter pass through the fire to Molech.[^23-16]
 

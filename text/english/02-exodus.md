@@ -290,7 +290,7 @@
 
 *Status: draft*
 
-**1** Afterward Moses and Aaron went to Pharaoh and said, "This is what the LORD,[^5-1] the God of Israel, says: 'Let my people go, so that they may hold a festival for me in the wilderness.'"
+**1** Afterward Moses and Aaron went to Pharaoh and said, "This is what the LORD,[^5-1] the God of Israel, says: Let my people go, so that they may hold a festival for me in the wilderness."
 
 **2** Pharaoh said, "Who is the LORD, that I should listen to him and let Israel go? I do not know the LORD, and besides, I will not let Israel go."
 
@@ -308,9 +308,9 @@
 
 **9** Make the work heavier for the men, so that they keep at it and pay no attention to lies."
 
-**10** So the people's slave drivers and their foremen went out and said to the people, "This is what Pharaoh says: 'I will not give you any straw.
+**10** So the people's slave drivers and their foremen went out and said to the people, "This is what Pharaoh says: I will not give you any straw.
 
-**11** Go and get straw for yourselves wherever you can find it. But your work will not be reduced at all.'"
+**11** Go and get straw for yourselves wherever you can find it. But your work will not be reduced at all."
 
 **12** So the people scattered throughout the land of Egypt to gather stubble for straw.
 
@@ -671,13 +671,13 @@
 
 **2** and so that you may tell your children and grandchildren[^10-4] how I dealt harshly with the Egyptians[^10-5] and what signs I performed among them. Then you will know that I am the LORD."
 
-**3** So Moses and Aaron went to Pharaoh and said to him, "This is what the LORD, the God of the Hebrews, says: 'How long will you refuse to humble yourself before me? Let my people go, so that they may serve[^10-6] me.
+**3** So Moses and Aaron went to Pharaoh and said to him, "This is what the LORD, the God of the Hebrews, says: How long will you refuse to humble yourself before me? Let my people go, so that they may serve[^10-6] me.
 
 **4** If you refuse to let my people go, tomorrow I will bring locusts into your territory.
 
 **5** They will cover the face of the land, so that no one will be able to see the ground. They will eat whatever is left to you, whatever escaped the hail, and they will eat every tree that is growing for you in the fields.
 
-**6** They will fill your houses and the houses of all your officials and of all the Egyptians. Neither your fathers nor your grandfathers have seen anything like it, from the day they came to be on the earth until this day.'" Then he turned and left Pharaoh.
+**6** They will fill your houses and the houses of all your officials and of all the Egyptians. Neither your fathers nor your grandfathers have seen anything like it, from the day they came to be on the earth until this day." Then he turned and left Pharaoh.
 
 **7** Pharaoh's officials said to him, "How long will this man be a trap for us? Let the men go, so that they may serve the LORD their God. Don't you realize yet that Egypt is ruined?"
 
@@ -749,13 +749,13 @@
 
 **3** The LORD made the Egyptians look with favor on the people.[^11-4] And the man Moses was highly respected in the land of Egypt, by Pharaoh's officials[^11-5] and by the people.
 
-**4** So Moses said, "This is what the LORD says: 'About midnight I will go out through the middle of Egypt.
+**4** So Moses said, "This is what the LORD says: About midnight I will go out through the middle of Egypt.
 
 **5** Every firstborn in the land of Egypt will die, from the firstborn of Pharaoh who sits on his throne to the firstborn of the slave woman who grinds grain at the hand mill,[^11-6] and every firstborn of the livestock.
 
 **6** There will be a great cry throughout the land of Egypt, such as there has never been and never will be again.
 
-**7** But not even a dog will growl[^11-7] at any of the Israelites, whether person or animal.' Then you will know that the LORD makes a distinction between Egypt and Israel.
+**7** But not even a dog will growl[^11-7] at any of the Israelites, whether person or animal. Then you will know that the LORD makes a distinction between Egypt and Israel.
 
 **8** All these officials of yours will come down to me and bow down to me, saying, 'Go, you and all the people who follow you.'[^11-8] After that I will go." And he left Pharaoh in hot anger.
 
@@ -791,7 +791,7 @@
 
 **7** They are to take some of the blood and put it on the two doorposts and on the top of the doorframe of the houses where they eat it.
 
-**8** They are to eat the meat that same night, roasted over the fire. They are to eat it with unleavened bread and bitter herbs.
+**8** They are to eat the meat that same night, roasted over the fire. They are to eat it with bread made without yeast and bitter herbs.
 
 **9** Do not eat any of it raw or boiled in water, but roasted over the fire, with its head, its legs and its inner parts.
 
@@ -805,17 +805,17 @@
 
 **14** This day is to be a day for you to remember. You are to celebrate it as a festival to the LORD. Throughout your generations you are to celebrate it as a permanent decree.
 
-**15** For seven days you are to eat unleavened bread. On the very first day you must remove yeast from your houses, for whoever eats anything leavened from the first day to the seventh day, that person must be cut off[^12-8] from Israel.
+**15** For seven days you are to eat bread made without yeast. On the very first day you must remove yeast from your houses, for whoever eats anything leavened from the first day to the seventh day, that person must be cut off[^12-8] from Israel.
 
-**16** On the first day you are to hold a sacred assembly,[^12-9] and on the seventh day a sacred assembly. No work at all may be done on those days, except to prepare what each person needs to eat. Only that may be done.
+**16** On the first day you are to hold a holy assembly,[^12-9] and on the seventh day a holy assembly. No work at all may be done on those days, except to prepare what each person needs to eat. Only that may be done.
 
-**17** You are to observe the Festival of Unleavened Bread,[^12-10] because on this very day I brought your divisions[^12-11] out of the land of Egypt. You are to observe this day throughout your generations as a permanent decree.
+**17** You are to observe the Festival of Bread Made without Yeast,[^12-10] because on this very day I brought your divisions[^12-11] out of the land of Egypt. You are to observe this day throughout your generations as a permanent decree.
 
-**18** In the first month, from the evening of the fourteenth day of the month until the evening of the twenty-first day of the month, you are to eat unleavened bread.
+**18** In the first month, from the evening of the fourteenth day of the month until the evening of the twenty-first day of the month, you are to eat bread made without yeast.
 
 **19** For seven days no yeast may be found in your houses. For whoever eats anything leavened, that person must be cut off from the community of Israel, whether a foreigner or someone born in the land.
 
-**20** You must not eat anything leavened. Wherever you live, you are to eat unleavened bread."
+**20** You must not eat anything leavened. Wherever you live, you are to eat bread made without yeast."
 
 **21** Then Moses summoned all the elders of Israel and said to them, "Go and choose lambs[^12-12] for your families, and slaughter the Passover lamb.
 
@@ -853,7 +853,7 @@
 
 **38** A large mixed crowd also went up with them, and a great number of livestock, both flocks and herds.
 
-**39** They baked the dough they had brought out of Egypt into flat loaves of unleavened bread. It had not risen, because they had been driven out of Egypt and could not wait, and they had not prepared any provisions for themselves.
+**39** They baked the dough they had brought out of Egypt into flat loaves of bread made without yeast. It had not risen, because they had been driven out of Egypt and could not wait, and they had not prepared any provisions for themselves.
 
 **40** The time that the Israelites had lived in Egypt was 430 years.[^12-21]
 
@@ -888,7 +888,7 @@
 [^12-7]: Hebrew *pesach*. The related verb *pasach*, in verses 13, 23 and 27, means "pass over" or perhaps "protect, stand guard over".
 [^12-8]: That is, removed from the people, either by being excluded or by death. The phrase is not explained here.
 [^12-9]: Literally "a holy calling", a gathering called for worship.
-[^12-10]: Literally "observe the unleavened bread". The same Hebrew consonants can be read "observe the commands".
+[^12-10]: Literally "observe the bread made without yeast". The same Hebrew consonants can be read "observe the commands".
 [^12-11]: Literally "armies"; also in verses 41 and 51. Hebrew *tsava'ot*; see 6:26.
 [^12-12]: Hebrew *tson*, "flock animals", sheep or goats.
 [^12-13]: A small bushy plant, used in rites of cleansing.
@@ -918,9 +918,9 @@
 
 **5** When the LORD brings you into the land of the Canaanites, Hittites, Amorites, Hivites and Jebusites, which he swore to your ancestors[^13-4] to give you, a land flowing with milk and honey, you are to observe this ceremony[^13-5] in this month.
 
-**6** For seven days you are to eat unleavened bread, and on the seventh day there is to be a festival to the LORD.
+**6** For seven days you are to eat bread made without yeast, and on the seventh day there is to be a festival to the LORD.
 
-**7** Unleavened bread is to be eaten throughout the seven days. Nothing leavened is to be seen among you, and no yeast is to be seen anywhere in your territory.
+**7** Bread made without yeast is to be eaten throughout the seven days. Nothing leavened is to be seen among you, and no yeast is to be seen anywhere in your territory.
 
 **8** On that day you are to tell your son, 'This is because of what the LORD did for me when I came out of Egypt.'
 
@@ -1055,7 +1055,7 @@
 
 *Status: draft*
 
-**1** Then Moses and the Israelites sang this song to the LORD.[^15-1] They said: "I will sing to the LORD, for he has risen up in triumph.[^15-2] Horse and rider[^15-3] he has hurled into the sea.
+**1** Then Moses and the Israelites sang this song to the LORD.[^15-1] They said: I will sing to the LORD, for he has risen up in triumph.[^15-2] Horse and rider[^15-3] he has hurled into the sea.
 
 **2** The LORD[^15-4] is my strength and my song;[^15-5] he has become my salvation. This is my God, and I will praise him;[^15-6] the God of my father, and I will exalt him.
 
@@ -1071,7 +1071,7 @@
 
 **8** At the blast of your nostrils[^15-10] the waters piled up. The flowing waters stood up like a wall;[^15-11] the deep waters turned solid in the heart of the sea.
 
-**9** The enemy said, 'I will pursue, I will overtake, I will divide the plunder. I will have my fill of them.[^15-12] I will draw my sword; my hand will destroy them.'
+**9** The enemy said, "I will pursue, I will overtake, I will divide the plunder. I will have my fill of them.[^15-12] I will draw my sword; my hand will destroy them."
 
 **10** You blew with your breath,[^15-13] and the sea covered them. They sank like lead in the mighty waters.
 
@@ -1089,13 +1089,13 @@
 
 **17** You will bring them in and plant them on the mountain of your inheritance, the place, LORD, that you made for your dwelling, the sanctuary, Lord, that your hands established.
 
-**18** The LORD will reign forever and ever."
+**18** The LORD will reign forever and ever.
 
 **19** When Pharaoh's horses, with his chariots and his horsemen, went into the sea, the LORD brought the waters of the sea back over them, but the Israelites walked on dry ground through the middle of the sea.
 
 **20** Then Miriam the prophet,[^15-18] Aaron's sister, took a tambourine in her hand, and all the women went out after her with tambourines and dancing.
 
-**21** Miriam sang to them:[^15-19] "Sing to the LORD, for he has risen up in triumph. Horse and rider he has hurled into the sea."
+**21** Miriam sang to them:[^15-19] Sing to the LORD, for he has risen up in triumph. Horse and rider he has hurled into the sea.
 
 **22** Then Moses led Israel on from the Red Sea, and they went out into the wilderness of Shur. They traveled for three days in the wilderness and found no water.
 
@@ -1699,7 +1699,7 @@
 
 **14** Three times[^23-10] a year you are to hold a festival for me.
 
-**15** Keep the Festival of Unleavened Bread. For seven days you are to eat bread made without yeast, as I commanded you, at the appointed time in the month of Abib,[^23-11] for in that month you came out of Egypt. No one is to appear before me empty-handed.[^23-12]
+**15** Keep the Festival of Bread Made without Yeast. For seven days you are to eat bread made without yeast, as I commanded you, at the appointed time in the month of Abib,[^23-11] for in that month you came out of Egypt. No one is to appear before me empty-handed.[^23-12]
 
 **16** Keep the Festival of Harvest, with the first produce of your work, of what you sow in the field. And keep the Festival of Ingathering at the end of the year,[^23-13] when you gather in the produce of your work from the field.[^23-14]
 
@@ -1842,7 +1842,7 @@
 
 **9** Make it exactly like the pattern I am showing you, the pattern of the tabernacle[^25-11] and the pattern of all its furnishings.
 
-**10** "They are to make an ark[^25-12] of acacia wood, two and a half cubits[^25-13] long, one and a half cubits wide and one and a half cubits high.
+**10** "They are to make an ark[^25-12] of acacia wood, 2½ cubits[^25-13] long, 1½ cubits wide and 1½ cubits high.
 
 **11** Overlay it with pure gold. Overlay it inside and out, and make a gold molding[^25-14] all around it.
 
@@ -1856,7 +1856,7 @@
 
 **16** Put into the ark the testimony[^25-16] that I will give you.
 
-**17** "Make an atonement cover[^25-17] of pure gold, two and a half cubits long and one and a half cubits wide.
+**17** "Make an atonement cover[^25-17] of pure gold, 2½ cubits long and 1½ cubits wide.
 
 **18** Make two cherubim[^25-18] of gold. Make them of hammered work[^25-19] at the two ends of the atonement cover.
 
@@ -1868,11 +1868,11 @@
 
 **22** There I will meet with you. From above the atonement cover, from between the two cherubim that are on the ark of the testimony, I will speak with you about everything I command you for the Israelites.
 
-**23** "Make a table of acacia wood, two cubits long, one cubit wide and one and a half cubits high.
+**23** "Make a table of acacia wood, 2 cubits long, 1 cubit wide and 1½ cubits high.
 
 **24** Overlay it with pure gold, and make a gold molding all around it.
 
-**25** Make a rim a handbreadth[^25-20] wide all around it, and make a gold molding all around its rim.
+**25** Make a rim 1 handbreadth[^25-20] wide all around it, and make a gold molding all around its rim.
 
 **26** Make four gold rings for it, and fasten the rings to the four corners, where its four legs are.
 
@@ -1900,7 +1900,7 @@
 
 **38** Its tongs and its trays[^25-27] are to be of pure gold.
 
-**39** It is to be made from a talent[^25-28] of pure gold, together with all these utensils.
+**39** It is to be made from 1 talent[^25-28] of pure gold, together with all these utensils.
 
 **40** See that you make them according to the pattern you are being shown on the mountain.
 
@@ -1939,7 +1939,7 @@
 
 **1** "Make the tabernacle[^26-1] with ten curtains of fine twisted linen[^26-2] and blue, purple and scarlet yarn,[^26-3] with cherubim worked into them by a skilled designer.[^26-4]
 
-**2** Each curtain is to be twenty-eight cubits[^26-5] long and four cubits wide. All the curtains are to be the same size.
+**2** Each curtain is to be 28 cubits[^26-5] long and 4 cubits wide. All the curtains are to be the same size.
 
 **3** Five of the curtains are to be joined to one another, and the other five curtains are to be joined to one another.
 
@@ -1951,7 +1951,7 @@
 
 **7** "Make curtains of goats' hair for a tent over the tabernacle. Make eleven of these curtains.
 
-**8** Each curtain is to be thirty cubits long and four cubits wide. All eleven curtains are to be the same size.
+**8** Each curtain is to be 30 cubits long and 4 cubits wide. All eleven curtains are to be the same size.
 
 **9** Join five of the curtains together by themselves, and six of the curtains by themselves. Fold the sixth curtain double at the front of the tent.
 
@@ -1967,7 +1967,7 @@
 
 **15** "Make upright frames[^26-7] of acacia wood for the tabernacle.
 
-**16** Each frame is to be ten cubits long and one and a half cubits wide.
+**16** Each frame is to be 10 cubits long and 1½ cubits wide.
 
 **17** Each frame is to have two tenons,[^26-8] joined to each other.[^26-9] Do this for all the frames of the tabernacle.
 
@@ -2034,7 +2034,7 @@
 
 *Status: draft*
 
-**1** "Make the altar[^27-1] of acacia wood, five cubits[^27-2] long and five cubits wide. The altar is to be square, and it is to be three cubits high.
+**1** "Make the altar[^27-1] of acacia wood, 5 cubits[^27-2] long and 5 cubits wide. The altar is to be square, and it is to be 3 cubits high.
 
 **2** Make horns for it on its four corners. Its horns are to be of one piece with it. Then overlay it with bronze.
 
@@ -2050,25 +2050,25 @@
 
 **8** Make it hollow, out of boards. They are to make it just as you were shown on the mountain.
 
-**9** "Make the courtyard of the tabernacle. On the south side the courtyard is to have hangings[^27-4] of fine twisted linen, a hundred cubits long for that side,
+**9** "Make the courtyard of the tabernacle. On the south side the courtyard is to have hangings[^27-4] of fine twisted linen, 100 cubits long for that side,
 
 **10** with twenty posts and twenty bronze bases. The hooks of the posts and their bands[^27-5] are to be of silver.
 
-**11** In the same way, on the north side there are to be hangings a hundred cubits long, with twenty posts[^27-6] and twenty bronze bases. The hooks of the posts and their bands are to be of silver.
+**11** In the same way, on the north side there are to be hangings 100 cubits long, with twenty posts[^27-6] and twenty bronze bases. The hooks of the posts and their bands are to be of silver.
 
-**12** Across the width of the courtyard on the west side[^27-7] there are to be hangings fifty cubits long, with ten posts and ten bases.
+**12** Across the width of the courtyard on the west side[^27-7] there are to be hangings 50 cubits long, with ten posts and ten bases.
 
-**13** The width of the courtyard on the east side, toward the sunrise, is to be fifty cubits.
+**13** The width of the courtyard on the east side, toward the sunrise, is to be 50 cubits.
 
-**14** On one side of the entrance[^27-8] there are to be hangings fifteen cubits long, with three posts and three bases,
+**14** On one side of the entrance[^27-8] there are to be hangings 15 cubits long, with three posts and three bases,
 
-**15** and on the other side hangings fifteen cubits long, with three posts and three bases.
+**15** and on the other side hangings 15 cubits long, with three posts and three bases.
 
-**16** For the gate of the courtyard there is to be a screen twenty cubits long, of blue, purple and scarlet yarn and fine twisted linen, the work of an embroiderer, with four posts and four bases.
+**16** For the gate of the courtyard there is to be a screen 20 cubits long, of blue, purple and scarlet yarn and fine twisted linen, the work of an embroiderer, with four posts and four bases.
 
 **17** All the posts around the courtyard are to have silver bands and silver hooks, and bronze bases.
 
-**18** The courtyard is to be a hundred cubits long and fifty cubits wide,[^27-9] with hangings of fine twisted linen five cubits high, and with bronze bases.
+**18** The courtyard is to be 100 cubits long and 50 cubits wide,[^27-9] with hangings of fine twisted linen 5 cubits high, and with bronze bases.
 
 **19** All the utensils of the tabernacle, for all its service, and all its tent pegs and all the tent pegs of the courtyard are to be of bronze.
 
@@ -2262,7 +2262,7 @@
 
 **27** "Consecrate the breast of the wave offering and the thigh of the contribution,[^29-10] the parts that were waved and lifted up from the ram of ordination, from what belongs to Aaron and to his sons.
 
-**28** This is to be the permanent share of Aaron and his sons from the Israelites, for it is a contribution. It will be a contribution from the Israelites from their fellowship sacrifices,[^29-11] their contribution to the LORD.
+**28** This is to be the permanent share of Aaron and his sons from the Israelites, for it is a contribution. It will be a contribution from the Israelites from their fellowship offerings,[^29-11] their contribution to the LORD.
 
 **29** "Aaron's sacred garments are to belong to his sons after him, so that they can be anointed and ordained in them.[^29-12]
 
@@ -2326,7 +2326,7 @@
 
 **1** "Make an altar for burning incense.[^30-1] Make it of acacia wood.
 
-**2** It is to be square, a cubit[^30-2] long and a cubit wide, and it is to be two cubits high. Its horns are to be of one piece with it.
+**2** It is to be square, 1 cubit[^30-2] long and 1 cubit wide, and it is to be 2 cubits high. Its horns are to be of one piece with it.
 
 **3** Overlay it with pure gold, its top, its sides all around and its horns, and make a gold molding all around it.
 
@@ -2348,11 +2348,11 @@
 
 **12** "When you take a census of the Israelites[^30-9] to count them, each man must pay the LORD a ransom for his life when they are counted. Then no plague will come on them when they are counted.
 
-**13** Everyone who crosses over to those already counted[^30-10] is to give this: half a shekel,[^30-11] by the sanctuary shekel[^30-12] (a shekel is twenty gerahs[^30-13]). This half shekel is a contribution to the LORD.
+**13** Everyone who crosses over to those already counted[^30-10] is to give this: ½ shekel,[^30-11] by the sanctuary shekel[^30-12] (a shekel is 20 gerahs[^30-13]). This ½ shekel is a contribution to the LORD.
 
 **14** Everyone who crosses over to those counted, twenty years old and over, is to give the LORD's contribution.
 
-**15** When you give the LORD's contribution to make atonement for your lives, the rich must not give more and the poor must not give less than half a shekel.
+**15** When you give the LORD's contribution to make atonement for your lives, the rich must not give more and the poor must not give less than ½ shekel.
 
 **16** Take the atonement money from the Israelites and use it for the service of the tent of meeting. It will be a reminder of the Israelites before the LORD, to make atonement for your lives."
 
@@ -2370,7 +2370,7 @@
 
 **23** "Take the finest spices: 500 shekels[^30-16] of liquid myrrh, half as much fragrant cinnamon, 250 shekels, 250 shekels of fragrant cane,
 
-**24** and 500 shekels of cassia, by the sanctuary shekel, and a hin[^30-17] of olive oil.
+**24** and 500 shekels of cassia, by the sanctuary shekel, and 1 hin[^30-17] of olive oil.
 
 **25** Make these into a sacred anointing oil, a fragrant blend, the work of a perfumer. It will be a sacred anointing oil.
 
@@ -2415,7 +2415,7 @@
 [^30-13]: A gerah was about 1/50 ounce (0.6 gram).
 [^30-14]: Hebrew *kiyyor*, traditionally "laver".
 [^30-15]: Hebrew *ishsheh*. See 29:18.
-[^30-16]: Literally "five hundred". The weights are in shekels (verse 24). Five hundred shekels was about 12½ pounds (5.7 kg).
+[^30-16]: Literally "five hundred". The weights are in shekels (verse 24); 500 shekels was about 12½ pounds (5.7 kg).
 [^30-17]: About a gallon (4 liters).
 [^30-18]: Or "Whoever touches them must be holy."
 [^30-19]: Literally "on the flesh of a human being".
@@ -2532,7 +2532,7 @@
 
 **26** So Moses stood at the gate of the camp and said, "Whoever is on the LORD's side, come to me!" And all the Levites[^32-14] gathered around him.
 
-**27** He said to them, "This is what the LORD, the God of Israel, says: 'Each of you, strap your sword to your side.[^32-15] Go back and forth through the camp from gate to gate, and each of you kill his brother, his friend and his neighbor.'"
+**27** He said to them, "This is what the LORD, the God of Israel, says: Each of you, strap your sword to your side.[^32-15] Go back and forth through the camp from gate to gate, and each of you kill his brother, his friend and his neighbor."
 
 **28** The Levites did as Moses said, and about three thousand of the people died[^32-16] that day.
 
@@ -2670,7 +2670,7 @@
 
 **17** Do not make yourself any gods of cast metal.
 
-**18** "Keep the Festival of Unleavened Bread. For seven days you are to eat bread made without yeast, as I commanded you, at the appointed time in the month of Abib,[^34-17] for in the month of Abib you came out of Egypt.
+**18** "Keep the Festival of Bread Made without Yeast. For seven days you are to eat bread made without yeast, as I commanded you, at the appointed time in the month of Abib,[^34-17] for in the month of Abib you came out of Egypt.
 
 **19** Every firstborn[^34-18] belongs to me, including every male among your livestock,[^34-19] the firstborn of cattle and of sheep.
 
@@ -2845,7 +2845,7 @@
 
 **8** All the skilled people among those doing the work made the tabernacle with ten curtains of fine twisted linen and blue, purple and scarlet yarn.[^36-5] He made them with cherubim worked into them by a skilled designer.[^36-6]
 
-**9** Each curtain was twenty-eight cubits[^36-7] long and four cubits wide. All the curtains were the same size.
+**9** Each curtain was 28 cubits[^36-7] long and 4 cubits wide. All the curtains were the same size.
 
 **10** He joined five of the curtains to one another, and he joined the other five curtains to one another.
 
@@ -2857,7 +2857,7 @@
 
 **14** He made curtains of goats' hair for a tent over the tabernacle. He made eleven of these curtains.
 
-**15** Each curtain was thirty cubits long and four cubits wide. All eleven curtains were the same size.
+**15** Each curtain was 30 cubits long and 4 cubits wide. All eleven curtains were the same size.
 
 **16** He joined five of the curtains together by themselves, and six of the curtains by themselves.
 
@@ -2869,7 +2869,7 @@
 
 **20** He made upright frames[^36-9] of acacia wood for the tabernacle.
 
-**21** Each frame was ten cubits long and one and a half cubits wide.
+**21** Each frame was 10 cubits long and 1½ cubits wide.
 
 **22** Each frame had two tenons, joined to each other.[^36-10] He did this for all the frames of the tabernacle.
 
@@ -2923,7 +2923,7 @@
 
 *Status: draft*
 
-**1** Bezalel made the ark of acacia wood, two and a half cubits[^37-1] long, one and a half cubits wide and one and a half cubits high.
+**1** Bezalel made the ark of acacia wood, 2½ cubits[^37-1] long, 1½ cubits wide and 1½ cubits high.
 
 **2** He overlaid it with pure gold, inside and out, and made a gold molding all around it.
 
@@ -2933,7 +2933,7 @@
 
 **5** He put the poles through the rings on the sides of the ark, for carrying the ark.
 
-**6** He made an atonement cover[^37-3] of pure gold, two and a half cubits long and one and a half cubits wide.
+**6** He made an atonement cover[^37-3] of pure gold, 2½ cubits long and 1½ cubits wide.
 
 **7** He made two cherubim of gold. He made them of hammered work at the two ends of the atonement cover,
 
@@ -2941,11 +2941,11 @@
 
 **9** The cherubim had their wings spread out upward, sheltering the atonement cover with their wings. They faced each other, with their faces turned toward the atonement cover.
 
-**10** He made the table of acacia wood, two cubits long, one cubit wide and one and a half cubits high.
+**10** He made the table of acacia wood, 2 cubits long, 1 cubit wide and 1½ cubits high.
 
 **11** He overlaid it with pure gold and made a gold molding all around it.
 
-**12** He made a rim a handbreadth[^37-4] wide all around it, and made a gold molding all around its rim.
+**12** He made a rim 1 handbreadth[^37-4] wide all around it, and made a gold molding all around its rim.
 
 **13** He cast four gold rings for it and fastened the rings to the four corners, where its four legs were.
 
@@ -2969,9 +2969,9 @@
 
 **23** He made its seven lamps, and its tongs and its trays, of pure gold.
 
-**24** He made the lampstand and all its utensils from a talent[^37-6] of pure gold.
+**24** He made the lampstand and all its utensils from 1 talent[^37-6] of pure gold.
 
-**25** He made the altar of incense of acacia wood. It was square, a cubit long and a cubit wide, and it was two cubits high. Its horns were of one piece with it.
+**25** He made the altar of incense of acacia wood. It was square, 1 cubit long and 1 cubit wide, and it was 2 cubits high. Its horns were of one piece with it.
 
 **26** He overlaid it with pure gold, its top, its sides all around and its horns, and he made a gold molding all around it.
 
@@ -2993,7 +2993,7 @@
 
 *Status: draft*
 
-**1** He made the altar of burnt offering of acacia wood. It was square, five cubits[^38-1] long and five cubits wide, and it was three cubits high.
+**1** He made the altar of burnt offering of acacia wood. It was square, 5 cubits[^38-1] long and 5 cubits wide, and it was 3 cubits high.
 
 **2** He made horns for it on its four corners. Its horns were of one piece with it, and he overlaid it with bronze.
 
@@ -3009,25 +3009,25 @@
 
 **8** He made the bronze basin and its bronze stand from the mirrors of the women who served[^38-2] at the entrance of the tent of meeting.
 
-**9** He made the courtyard. On the south side the hangings of the courtyard were of fine twisted linen, a hundred cubits long,
+**9** He made the courtyard. On the south side the hangings of the courtyard were of fine twisted linen, 100 cubits long,
 
 **10** with twenty posts and twenty bronze bases. The hooks of the posts and their bands were of silver.
 
-**11** On the north side the hangings were a hundred cubits long, with twenty posts and twenty bronze bases. The hooks of the posts and their bands were of silver.
+**11** On the north side the hangings were 100 cubits long, with twenty posts and twenty bronze bases. The hooks of the posts and their bands were of silver.
 
-**12** On the west side[^38-3] there were hangings fifty cubits long, with ten posts and ten bases. The hooks of the posts and their bands were of silver.
+**12** On the west side[^38-3] there were hangings 50 cubits long, with ten posts and ten bases. The hooks of the posts and their bands were of silver.
 
-**13** On the east side, toward the sunrise, the courtyard was fifty cubits wide.
+**13** On the east side, toward the sunrise, the courtyard was 50 cubits wide.
 
-**14** There were hangings fifteen cubits long on one side of the entrance,[^38-4] with three posts and three bases,
+**14** There were hangings 15 cubits long on one side of the entrance,[^38-4] with three posts and three bases,
 
-**15** and on the other side, so that there were hangings on both sides of the gate of the courtyard, hangings fifteen cubits long, with three posts and three bases.
+**15** and on the other side, so that there were hangings on both sides of the gate of the courtyard, hangings 15 cubits long, with three posts and three bases.
 
 **16** All the hangings around the courtyard were of fine twisted linen.
 
 **17** The bases for the posts were of bronze. The hooks of the posts and their bands were of silver, and their tops were overlaid with silver. All the posts of the courtyard had silver bands.
 
-**18** The screen for the gate of the courtyard was the work of an embroiderer, of blue, purple and scarlet yarn[^38-5] and fine twisted linen. It was twenty cubits long and five cubits high,[^38-6] matching the hangings of the courtyard.
+**18** The screen for the gate of the courtyard was the work of an embroiderer, of blue, purple and scarlet yarn[^38-5] and fine twisted linen. It was 20 cubits long and 5 cubits high,[^38-6] matching the hangings of the courtyard.
 
 **19** It had four posts and four bronze bases. Their hooks were of silver, and the overlay of their tops and their bands were of silver.
 
@@ -3043,9 +3043,9 @@
 
 **25** The silver from those of the community who were counted came to 100 talents and 1,775 shekels, by the sanctuary shekel.[^38-11]
 
-**26** That was a beka[^38-12] for each person, that is, half a shekel by the sanctuary shekel, for everyone who crossed over to those counted, from twenty years old and over: 603,550 in all.[^38-13]
+**26** That was 1 beka[^38-12] for each person, that is, ½ shekel by the sanctuary shekel, for everyone who crossed over to those counted, from 20 years old and over: 603,550 in all.[^38-13]
 
-**27** The hundred talents of silver were used to cast the bases of the sanctuary and the bases of the veil: a hundred bases from the hundred talents, a talent for each base.
+**27** The 100 talents of silver were used to cast the bases of the sanctuary and the bases of the veil: 100 bases from the 100 talents, 1 talent for each base.
 
 **28** From the 1,775 shekels he made hooks for the posts, overlaid their tops and made bands for them.
 

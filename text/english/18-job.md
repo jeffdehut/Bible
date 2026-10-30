@@ -1727,7 +1727,7 @@
 
 **1** Job took up his discourse again:[^27-1]
 
-**2** "As God lives, who has denied me justice,[^27-2] and the Almighty,[^27-3] who has made my soul bitter,
+**2** "As surely as God lives, who has denied me justice,[^27-2] and the Almighty,[^27-3] who has made my soul bitter,
 
 **3** as long as my breath is in me, and the breath of God[^27-4] is in my nostrils,
 
@@ -1772,7 +1772,7 @@
 **23** It claps its hands at him and hisses at him from its place.[^27-20]
 
 [^27-1]: Literally "And Job again lifted up his *mashal* and said". Hebrew *mashal* usually means a proverb or a poem; here, a solemn speech. Also in 29:1. This new heading, at the point where Zophar would be expected to speak, is one reason some think the order of this third round of speeches has been disturbed (see the note at 25:1).
-[^27-2]: Literally "who has taken away my justice". Hebrew *mishpat*: justice, the right owed to me in my case. *As God lives* is the form of an oath.
+[^27-2]: Literally "who has taken away my justice". Hebrew *mishpat*: justice, the right owed to me in my case. *As surely as God lives* is the form of an oath (literally "God lives").
 [^27-3]: Hebrew *Shaddai*, traditionally "the Almighty"; the meaning is uncertain. Also in verses 10, 11 and 13.
 [^27-4]: Hebrew *Eloah*, a poetic form of *Elohim*, "God", used often in Job. Also in verses 8 and 10. *Breath* is Hebrew *ruach*, "breath, spirit".
 [^27-5]: Literally "if my lips speak wickedness, if my tongue utters deceit …", the form of a solemn oath: "may God punish me if I do".

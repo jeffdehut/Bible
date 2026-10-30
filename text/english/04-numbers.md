@@ -292,7 +292,7 @@
 
 **38** Those who were to camp in front of the tabernacle on the east, in front of the tent of meeting toward the sunrise, were Moses and Aaron and his sons. They were responsible for the care of the sanctuary, carrying out the duty owed by the Israelites. Any outsider who came near was to be put to death.
 
-**39** All the Levites registered, whom Moses and Aaron[^3-13] registered at the command of the LORD by their clans, every male a month old or more, numbered twenty-two thousand.
+**39** All the Levites registered, whom Moses and Aaron[^3-13] registered at the command of the LORD by their clans, every male a month old or more, numbered 22,000.
 
 **40** The LORD said to Moses, "Register every firstborn male among the Israelites a month old or more, and count the number of their names.
 
@@ -308,7 +308,7 @@
 
 **46** As the redemption price for the 273 firstborn of the Israelites who outnumber the Levites,
 
-**47** collect five shekels[^3-14] for each one.[^3-15] Collect it by the sanctuary shekel, twenty gerahs[^3-16] to the shekel.
+**47** collect 5 shekels[^3-14] for each one.[^3-15] Collect it by the sanctuary shekel, 20 gerahs[^3-16] to the shekel.
 
 **48** Give the money to Aaron and his sons as the redemption price for those of them who are in excess."
 
@@ -327,11 +327,11 @@
 [^3-7]: Literally "given, given", an emphatic form. Compare 8:16.
 [^3-8]: Literally "at the mouth"; also in verses 39 and 51.
 [^3-9]: *The tabernacle* here is probably the inner layer of linen curtains, and *the tent* the layer of goats' hair curtains over it (Exodus 26:1–14).
-[^3-10]: The figures in verses 22, 28 and 34 add up to 22,300, but verse 39 gives a total of twenty-two thousand. Some manuscripts of the Septuagint read 8,300 here, which would match that total.
+[^3-10]: The figures in verses 22, 28 and 34 add up to 22,300, but verse 39 gives a total of 22,000. Some manuscripts of the Septuagint read 8,300 here, which would match that total.
 [^3-11]: Literally "keepers of the charge of the holy place"; also in verse 32.
 [^3-12]: Probably the veil that hung in front of the ark (4:5).
 [^3-13]: In the Hebrew text the word "and Aaron" has dots written above each of its letters, one of the fifteen places in the Hebrew Bible marked in this way. Traditionally the dots mark a word as doubtful. Aaron is not named in the commands of verses 15 and 40.
-[^3-14]: A shekel was about 0.4 ounce (11.5 grams) of silver.
+[^3-14]: A shekel was about ⅖ ounce (11.5 grams) of silver.
 [^3-15]: Literally "five, five shekels per skull".
 [^3-16]: A gerah was about 1/50 ounce (0.6 gram).
 [^3-17]: About 35 pounds (16 kilograms).
@@ -557,7 +557,7 @@
 
 **2** "Speak to the Israelites and tell them: When a man or a woman makes a special vow, the vow of a Nazirite,[^6-2] to dedicate themselves to the LORD,
 
-**3** he[^6-3] is to keep away from wine and strong drink.[^6-4] He must not drink vinegar made from wine or vinegar made from strong drink. He must not drink any grape juice, or eat grapes, fresh or dried.
+**3** he[^6-3] is to keep away from wine and beer.[^6-4] He must not drink vinegar made from wine or vinegar made from beer. He must not drink any grape juice, or eat grapes, fresh or dried.
 
 **4** As long as he is a Nazirite,[^6-5] he must not eat anything that comes from the grapevine, not even the seeds or the skins.[^6-6]
 
@@ -581,15 +581,15 @@
 
 **14** and he is to present his offering to the LORD: one year-old male lamb without defect as a burnt offering, one year-old female lamb without defect as a sin offering, one ram without defect as a fellowship offering,[^6-15]
 
-**15** and a basket of unleavened bread, loaves made of fine flour mixed with oil, and wafers of unleavened bread spread with oil, together with their grain offerings and their drink offerings.
+**15** and a basket of bread made without yeast, loaves made of fine flour mixed with oil, and wafers made without yeast spread with oil, together with their grain offerings and their drink offerings.
 
 **16** The priest is to present them before the LORD and offer his sin offering and his burnt offering.
 
-**17** He is to offer the ram as a fellowship sacrifice to the LORD, together with the basket of unleavened bread. The priest is also to offer its grain offering and its drink offering.
+**17** He is to offer the ram as a fellowship offering to the LORD, together with the basket of bread made without yeast. The priest is also to offer its grain offering and its drink offering.
 
-**18** "Then at the entrance of the tent of meeting the Nazirite is to shave his consecrated head. He is to take the hair from his consecrated head and put it on the fire that is under the fellowship sacrifice.
+**18** "Then at the entrance of the tent of meeting the Nazirite is to shave his consecrated head. He is to take the hair from his consecrated head and put it on the fire that is under the fellowship offering.
 
-**19** The priest is to take the boiled shoulder of the ram, one loaf of unleavened bread from the basket and one wafer of unleavened bread, and put them in the hands of the Nazirite after he has shaved off his consecrated hair.
+**19** The priest is to take the boiled shoulder of the ram, one loaf made without yeast from the basket and one wafer made without yeast, and put them in the hands of the Nazirite after he has shaved off his consecrated hair.
 
 **20** The priest is to wave them as a wave offering[^6-16] before the LORD. They are holy and belong to the priest, together with the breast that is waved and the thigh that is presented.[^6-17] After that the Nazirite may drink wine.
 
@@ -610,7 +610,7 @@
 [^6-1]: *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles.
 [^6-2]: Hebrew *nazir*, from *nazar*, "separate, dedicate": someone set apart for the LORD. The related noun *nezer*, "separation, dedication", is translated "vow of separation", "separation" or "consecration" in this chapter. Traditionally "Nazarite".
 [^6-3]: The Hebrew uses masculine forms from here on, but verse 2 makes clear that the law applies to women as well.
-[^6-4]: Hebrew *shekhar*: beer or other strong drink.
+[^6-4]: Or "fermented drink"; brewed from grain.
 [^6-5]: Literally "All the days of his separation"; also in verse 8.
 [^6-6]: Two rare words of uncertain meaning. They may refer to the seeds and skins of grapes, or to unripe grapes and their skins.
 [^6-7]: Literally "a dead *nephesh*" (person).
@@ -659,157 +659,157 @@
 
 **12** The one who presented his offering on the first day was Nahshon son of Amminadab, of the tribe of Judah.
 
-**13** His offering was one silver plate weighing 130 shekels[^7-5] and one silver basin weighing seventy shekels, by the sanctuary shekel, both of them full of fine flour mixed with oil as a grain offering;
+**13** His offering was one silver plate weighing 130 shekels[^7-5] and one silver basin weighing 70 shekels, by the sanctuary shekel, both of them full of fine flour mixed with oil as a grain offering;
 
-**14** one gold dish weighing ten shekels,[^7-6] full of incense;
+**14** one gold dish weighing 10 shekels,[^7-6] full of incense;
 
 **15** one young bull,[^7-7] one ram and one year-old male lamb as a burnt offering;
 
 **16** one male goat as a sin offering;
 
-**17** and as the fellowship sacrifice,[^7-8] two head of cattle, five rams, five male goats and five year-old male lambs. This was the offering of Nahshon son of Amminadab.
+**17** and as the fellowship offering,[^7-8] two head of cattle, five rams, five male goats and five year-old male lambs. This was the offering of Nahshon son of Amminadab.
 
 **18** On the second day Nethanel son of Zuar, the leader of Issachar, presented an offering.
 
-**19** He presented as his offering one silver plate weighing 130 shekels and one silver basin weighing seventy shekels, by the sanctuary shekel, both of them full of fine flour mixed with oil as a grain offering;
+**19** He presented as his offering one silver plate weighing 130 shekels and one silver basin weighing 70 shekels, by the sanctuary shekel, both of them full of fine flour mixed with oil as a grain offering;
 
-**20** one gold dish weighing ten shekels, full of incense;
+**20** one gold dish weighing 10 shekels, full of incense;
 
 **21** one young bull, one ram and one year-old male lamb as a burnt offering;
 
 **22** one male goat as a sin offering;
 
-**23** and as the fellowship sacrifice, two head of cattle, five rams, five male goats and five year-old male lambs. This was the offering of Nethanel son of Zuar.
+**23** and as the fellowship offering, two head of cattle, five rams, five male goats and five year-old male lambs. This was the offering of Nethanel son of Zuar.
 
 **24** On the third day it was the leader of the people of Zebulun, Eliab son of Helon.
 
-**25** His offering was one silver plate weighing 130 shekels and one silver basin weighing seventy shekels, by the sanctuary shekel, both of them full of fine flour mixed with oil as a grain offering;
+**25** His offering was one silver plate weighing 130 shekels and one silver basin weighing 70 shekels, by the sanctuary shekel, both of them full of fine flour mixed with oil as a grain offering;
 
-**26** one gold dish weighing ten shekels, full of incense;
+**26** one gold dish weighing 10 shekels, full of incense;
 
 **27** one young bull, one ram and one year-old male lamb as a burnt offering;
 
 **28** one male goat as a sin offering;
 
-**29** and as the fellowship sacrifice, two head of cattle, five rams, five male goats and five year-old male lambs. This was the offering of Eliab son of Helon.
+**29** and as the fellowship offering, two head of cattle, five rams, five male goats and five year-old male lambs. This was the offering of Eliab son of Helon.
 
 **30** On the fourth day it was the leader of the people of Reuben, Elizur son of Shedeur.
 
-**31** His offering was one silver plate weighing 130 shekels and one silver basin weighing seventy shekels, by the sanctuary shekel, both of them full of fine flour mixed with oil as a grain offering;
+**31** His offering was one silver plate weighing 130 shekels and one silver basin weighing 70 shekels, by the sanctuary shekel, both of them full of fine flour mixed with oil as a grain offering;
 
-**32** one gold dish weighing ten shekels, full of incense;
+**32** one gold dish weighing 10 shekels, full of incense;
 
 **33** one young bull, one ram and one year-old male lamb as a burnt offering;
 
 **34** one male goat as a sin offering;
 
-**35** and as the fellowship sacrifice, two head of cattle, five rams, five male goats and five year-old male lambs. This was the offering of Elizur son of Shedeur.
+**35** and as the fellowship offering, two head of cattle, five rams, five male goats and five year-old male lambs. This was the offering of Elizur son of Shedeur.
 
 **36** On the fifth day it was the leader of the people of Simeon, Shelumiel son of Zurishaddai.
 
-**37** His offering was one silver plate weighing 130 shekels and one silver basin weighing seventy shekels, by the sanctuary shekel, both of them full of fine flour mixed with oil as a grain offering;
+**37** His offering was one silver plate weighing 130 shekels and one silver basin weighing 70 shekels, by the sanctuary shekel, both of them full of fine flour mixed with oil as a grain offering;
 
-**38** one gold dish weighing ten shekels, full of incense;
+**38** one gold dish weighing 10 shekels, full of incense;
 
 **39** one young bull, one ram and one year-old male lamb as a burnt offering;
 
 **40** one male goat as a sin offering;
 
-**41** and as the fellowship sacrifice, two head of cattle, five rams, five male goats and five year-old male lambs. This was the offering of Shelumiel son of Zurishaddai.
+**41** and as the fellowship offering, two head of cattle, five rams, five male goats and five year-old male lambs. This was the offering of Shelumiel son of Zurishaddai.
 
 **42** On the sixth day it was the leader of the people of Gad, Eliasaph son of Deuel.
 
-**43** His offering was one silver plate weighing 130 shekels and one silver basin weighing seventy shekels, by the sanctuary shekel, both of them full of fine flour mixed with oil as a grain offering;
+**43** His offering was one silver plate weighing 130 shekels and one silver basin weighing 70 shekels, by the sanctuary shekel, both of them full of fine flour mixed with oil as a grain offering;
 
-**44** one gold dish weighing ten shekels, full of incense;
+**44** one gold dish weighing 10 shekels, full of incense;
 
 **45** one young bull, one ram and one year-old male lamb as a burnt offering;
 
 **46** one male goat as a sin offering;
 
-**47** and as the fellowship sacrifice, two head of cattle, five rams, five male goats and five year-old male lambs. This was the offering of Eliasaph son of Deuel.
+**47** and as the fellowship offering, two head of cattle, five rams, five male goats and five year-old male lambs. This was the offering of Eliasaph son of Deuel.
 
 **48** On the seventh day it was the leader of the people of Ephraim, Elishama son of Ammihud.
 
-**49** His offering was one silver plate weighing 130 shekels and one silver basin weighing seventy shekels, by the sanctuary shekel, both of them full of fine flour mixed with oil as a grain offering;
+**49** His offering was one silver plate weighing 130 shekels and one silver basin weighing 70 shekels, by the sanctuary shekel, both of them full of fine flour mixed with oil as a grain offering;
 
-**50** one gold dish weighing ten shekels, full of incense;
+**50** one gold dish weighing 10 shekels, full of incense;
 
 **51** one young bull, one ram and one year-old male lamb as a burnt offering;
 
 **52** one male goat as a sin offering;
 
-**53** and as the fellowship sacrifice, two head of cattle, five rams, five male goats and five year-old male lambs. This was the offering of Elishama son of Ammihud.
+**53** and as the fellowship offering, two head of cattle, five rams, five male goats and five year-old male lambs. This was the offering of Elishama son of Ammihud.
 
 **54** On the eighth day it was the leader of the people of Manasseh, Gamaliel son of Pedahzur.
 
-**55** His offering was one silver plate weighing 130 shekels and one silver basin weighing seventy shekels, by the sanctuary shekel, both of them full of fine flour mixed with oil as a grain offering;
+**55** His offering was one silver plate weighing 130 shekels and one silver basin weighing 70 shekels, by the sanctuary shekel, both of them full of fine flour mixed with oil as a grain offering;
 
-**56** one gold dish weighing ten shekels, full of incense;
+**56** one gold dish weighing 10 shekels, full of incense;
 
 **57** one young bull, one ram and one year-old male lamb as a burnt offering;
 
 **58** one male goat as a sin offering;
 
-**59** and as the fellowship sacrifice, two head of cattle, five rams, five male goats and five year-old male lambs. This was the offering of Gamaliel son of Pedahzur.
+**59** and as the fellowship offering, two head of cattle, five rams, five male goats and five year-old male lambs. This was the offering of Gamaliel son of Pedahzur.
 
 **60** On the ninth day it was the leader of the people of Benjamin, Abidan son of Gideoni.
 
-**61** His offering was one silver plate weighing 130 shekels and one silver basin weighing seventy shekels, by the sanctuary shekel, both of them full of fine flour mixed with oil as a grain offering;
+**61** His offering was one silver plate weighing 130 shekels and one silver basin weighing 70 shekels, by the sanctuary shekel, both of them full of fine flour mixed with oil as a grain offering;
 
-**62** one gold dish weighing ten shekels, full of incense;
+**62** one gold dish weighing 10 shekels, full of incense;
 
 **63** one young bull, one ram and one year-old male lamb as a burnt offering;
 
 **64** one male goat as a sin offering;
 
-**65** and as the fellowship sacrifice, two head of cattle, five rams, five male goats and five year-old male lambs. This was the offering of Abidan son of Gideoni.
+**65** and as the fellowship offering, two head of cattle, five rams, five male goats and five year-old male lambs. This was the offering of Abidan son of Gideoni.
 
 **66** On the tenth day it was the leader of the people of Dan, Ahiezer son of Ammishaddai.
 
-**67** His offering was one silver plate weighing 130 shekels and one silver basin weighing seventy shekels, by the sanctuary shekel, both of them full of fine flour mixed with oil as a grain offering;
+**67** His offering was one silver plate weighing 130 shekels and one silver basin weighing 70 shekels, by the sanctuary shekel, both of them full of fine flour mixed with oil as a grain offering;
 
-**68** one gold dish weighing ten shekels, full of incense;
+**68** one gold dish weighing 10 shekels, full of incense;
 
 **69** one young bull, one ram and one year-old male lamb as a burnt offering;
 
 **70** one male goat as a sin offering;
 
-**71** and as the fellowship sacrifice, two head of cattle, five rams, five male goats and five year-old male lambs. This was the offering of Ahiezer son of Ammishaddai.
+**71** and as the fellowship offering, two head of cattle, five rams, five male goats and five year-old male lambs. This was the offering of Ahiezer son of Ammishaddai.
 
 **72** On the eleventh day it was the leader of the people of Asher, Pagiel son of Ochran.
 
-**73** His offering was one silver plate weighing 130 shekels and one silver basin weighing seventy shekels, by the sanctuary shekel, both of them full of fine flour mixed with oil as a grain offering;
+**73** His offering was one silver plate weighing 130 shekels and one silver basin weighing 70 shekels, by the sanctuary shekel, both of them full of fine flour mixed with oil as a grain offering;
 
-**74** one gold dish weighing ten shekels, full of incense;
+**74** one gold dish weighing 10 shekels, full of incense;
 
 **75** one young bull, one ram and one year-old male lamb as a burnt offering;
 
 **76** one male goat as a sin offering;
 
-**77** and as the fellowship sacrifice, two head of cattle, five rams, five male goats and five year-old male lambs. This was the offering of Pagiel son of Ochran.
+**77** and as the fellowship offering, two head of cattle, five rams, five male goats and five year-old male lambs. This was the offering of Pagiel son of Ochran.
 
 **78** On the twelfth day it was the leader of the people of Naphtali, Ahira son of Enan.
 
-**79** His offering was one silver plate weighing 130 shekels and one silver basin weighing seventy shekels, by the sanctuary shekel, both of them full of fine flour mixed with oil as a grain offering;
+**79** His offering was one silver plate weighing 130 shekels and one silver basin weighing 70 shekels, by the sanctuary shekel, both of them full of fine flour mixed with oil as a grain offering;
 
-**80** one gold dish weighing ten shekels, full of incense;
+**80** one gold dish weighing 10 shekels, full of incense;
 
 **81** one young bull, one ram and one year-old male lamb as a burnt offering;
 
 **82** one male goat as a sin offering;
 
-**83** and as the fellowship sacrifice, two head of cattle, five rams, five male goats and five year-old male lambs. This was the offering of Ahira son of Enan.
+**83** and as the fellowship offering, two head of cattle, five rams, five male goats and five year-old male lambs. This was the offering of Ahira son of Enan.
 
 **84** This was the dedication offering for the altar from the leaders of Israel on the day it was anointed: twelve silver plates, twelve silver basins and twelve gold dishes.
 
-**85** Each silver plate weighed 130 shekels and each basin seventy. All the silver of the vessels came to 2,400 shekels,[^7-9] by the sanctuary shekel.
+**85** Each silver plate weighed 130 shekels and each basin 70. All the silver of the vessels came to 2,400 shekels,[^7-9] by the sanctuary shekel.
 
-**86** The twelve gold dishes full of incense weighed ten shekels each, by the sanctuary shekel. All the gold of the dishes came to 120 shekels.[^7-10]
+**86** The twelve gold dishes full of incense weighed 10 shekels each, by the sanctuary shekel. All the gold of the dishes came to 120 shekels.[^7-10]
 
 **87** All the cattle for the burnt offering came to twelve bulls, together with twelve rams and twelve year-old male lambs, with their grain offerings, and twelve male goats as a sin offering.
 
-**88** All the cattle for the fellowship sacrifice came to twenty-four bulls, together with sixty rams, sixty male goats and sixty year-old male lambs. This was the dedication offering for the altar after it was anointed.
+**88** All the cattle for the fellowship offering came to twenty-four bulls, together with sixty rams, sixty male goats and sixty year-old male lambs. This was the dedication offering for the altar after it was anointed.
 
 **89** When Moses went into the tent of meeting to speak with him,[^7-11] he heard the voice speaking to him from above the atonement cover[^7-12] that was on the ark of the testimony, from between the two cherubim. And he spoke to him.
 
@@ -817,7 +817,7 @@
 [^7-2]: *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles.
 [^7-3]: Hebrew *tsav*, a word of uncertain meaning, perhaps "covered" or "for carrying loads".
 [^7-4]: Hebrew *chanukkah*, "dedication"; also in verses 11, 84 and 88.
-[^7-5]: The Hebrew gives only the number here: literally "130 its weight". A shekel was about 0.4 ounce (11.5 grams), so the plate weighed about 3 1/4 pounds (1.5 kilograms) and the basin about 1 3/4 pounds (0.8 kilogram).
+[^7-5]: The Hebrew gives only the number here: literally "130 its weight". A shekel was about ⅖ ounce (11.5 grams), so the plate weighed about 3¼ pounds (1.5 kilograms) and the basin about 1¾ pounds (0.8 kilogram).
 [^7-6]: Literally "one dish of ten, gold". The dish weighed about 4 ounces (115 grams).
 [^7-7]: Literally "a bull, a son of the herd".
 [^7-8]: Hebrew *shelamim*, traditionally "peace offering". In these sacrifices most of the meat was eaten by the worshipers.
@@ -906,7 +906,7 @@
 
 **2** "Let the Israelites keep[^9-2] the Passover at its appointed time.
 
-**3** Keep it at its appointed time, at twilight[^9-3] on the fourteenth day of this month. Keep it in keeping with all its statutes and all its regulations."
+**3** Keep it at its appointed time, at twilight[^9-3] on the fourteenth day of this month. Keep it in keeping with all its decrees and all its rulings."
 
 **4** So Moses told the Israelites to keep the Passover,
 
@@ -922,13 +922,13 @@
 
 **10** "Tell the Israelites: If any of you or your descendants is unclean because of a dead body, or is away on a distant journey,[^9-5] he may still keep the Passover to the LORD.
 
-**11** They are to keep it in the second month, at twilight on the fourteenth day. They are to eat it with unleavened bread and bitter herbs.
+**11** They are to keep it in the second month, at twilight on the fourteenth day. They are to eat it with bread made without yeast and bitter herbs.
 
-**12** They must not leave any of it until morning, and they must not break any of its bones. They are to keep it in keeping with every statute of the Passover.
+**12** They must not leave any of it until morning, and they must not break any of its bones. They are to keep it in keeping with every decree of the Passover.
 
 **13** But if anyone who is clean and is not on a journey fails to keep the Passover, that person is to be cut off from his people,[^9-6] because he did not present the LORD's offering at its appointed time. That man will bear the consequences of his sin.
 
-**14** "If a foreigner[^9-7] living among you wants to keep the Passover to the LORD, he is to keep it in keeping with the statute and the regulation for the Passover. You are to have one statute for the foreigner and for the native-born."
+**14** "If a foreigner[^9-7] living among you wants to keep the Passover to the LORD, he is to keep it in keeping with the decree and the ruling for the Passover. You are to have one decree for the foreigner and for the native-born."
 
 **15** On the day the tabernacle was set up, the cloud covered the tabernacle, the tent of the testimony. From evening until morning it would be over the tabernacle, looking like fire.
 
@@ -983,7 +983,7 @@
 
 **9** When you go to war in your land against an enemy who is oppressing you, sound an alarm on the trumpets. Then you will be remembered before the LORD your God, and you will be saved from your enemies.
 
-**10** Also on your days of rejoicing, at your appointed festivals and at the beginning of your months, blow the trumpets over your burnt offerings and over your fellowship sacrifices.[^10-8] They will be a reminder of you before your God. I am the LORD your God."
+**10** Also on your days of rejoicing, at your appointed festivals and at the beginning of your months, blow the trumpets over your burnt offerings and over your fellowship offerings.[^10-8] They will be a reminder of you before your God. I am the LORD your God."
 
 **11** In the second year, on the twentieth day of the second month, the cloud lifted from above the tabernacle of the testimony.
 
@@ -1428,9 +1428,9 @@
 
 **14** If a foreigner[^15-11] is living with you, or anyone else who is among you throughout your generations, and he presents an offering by fire, a pleasing aroma to the LORD, he is to do just as you do.
 
-**15** For the assembly there is to be one statute for you and for the foreigner who lives among you. It is a permanent decree throughout your generations: you and the foreigner are to be alike before the LORD.
+**15** For the assembly there is to be one decree for you and for the foreigner who lives among you. It is a permanent decree throughout your generations: you and the foreigner are to be alike before the LORD.
 
-**16** There is to be one law and one regulation for you and for the foreigner who lives among you."
+**16** There is to be one law and one ruling for you and for the foreigner who lives among you."
 
 **17** The LORD said to Moses,
 
@@ -1519,7 +1519,7 @@
 
 **5** Then he said to Korah and all his followers,[^16-5] "In the morning the LORD will make known who belongs to him and who is holy, and he will let that one come near to him. The one he chooses he will let come near to him.
 
-**6** Do this, Korah and all your followers: take censers.[^16-6]
+**6** Do this, Korah and all your followers: take firepans.[^16-6]
 
 **7** Tomorrow put fire in them and put incense on them before the LORD. The man the LORD chooses will be the one who is holy. You have gone too far, you Levites!"
 
@@ -1541,9 +1541,9 @@
 
 **16** Moses said to Korah, "You and all your followers are to appear before the LORD tomorrow, you and they and Aaron.
 
-**17** Each of you is to take his censer and put incense on it, and each of you is to present his censer before the LORD, 250 censers. You and Aaron are also to bring your censers."
+**17** Each of you is to take his firepan and put incense on it, and each of you is to present his firepan before the LORD, 250 firepans. You and Aaron are also to bring your firepans."
 
-**18** So each man took his censer, put fire in it and placed incense on it, and they stood at the entrance of the tent of meeting with Moses and Aaron.
+**18** So each man took his firepan, put fire in it and placed incense on it, and they stood at the entrance of the tent of meeting with Moses and Aaron.
 
 **19** When Korah had gathered the whole community against them at the entrance of the tent of meeting, the glory of the LORD appeared to the whole community.
 
@@ -1584,7 +1584,7 @@
 [^16-3]: Literally "Enough for you!"; also in verse 7.
 [^16-4]: *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles.
 [^16-5]: Literally "his community" (Hebrew *edah*); also in verses 6, 11 and 16.
-[^16-6]: Hebrew *machtot*: pans for carrying burning coals, the same word translated "firepans" in 4:14.
+[^16-6]: Hebrew *machtot*: pans for carrying burning coals, traditionally "censers".
 [^16-7]: Probably meaning "Do you think you can blind these men to what you are doing?" Literally "Will you bore out the eyes of those men?"
 [^16-8]: Literally "Do not turn to their offering". Hebrew *minchah*, here an offering of any kind.
 [^16-9]: That is, the God who gives life and breath to every living creature. Hebrew *ruchot*, plural of *ruach*, "spirit, breath".
@@ -1602,11 +1602,11 @@
 
 **1** The LORD[^17-1] said to Moses,[^17-2]
 
-**2** "Tell Eleazar son of Aaron the priest to take the censers out of the blaze, and to scatter the coals[^17-3] some distance away, for the censers are holy.
+**2** "Tell Eleazar son of Aaron the priest to take the firepans out of the blaze, and to scatter the coals[^17-3] some distance away, for the firepans are holy.
 
-**3** Take the censers of these men who sinned at the cost of their own lives,[^17-4] and have them hammered into thin sheets as plating for the altar. They were presented before the LORD, and so they have become holy. Let them be a sign to the Israelites."
+**3** Take the firepans of these men who sinned at the cost of their own lives,[^17-4] and have them hammered into thin sheets as plating for the altar. They were presented before the LORD, and so they have become holy. Let them be a sign to the Israelites."
 
-**4** So Eleazar the priest took the bronze censers that had been presented by those who were burned, and they were hammered out as plating for the altar,
+**4** So Eleazar the priest took the bronze firepans that had been presented by those who were burned, and they were hammered out as plating for the altar,
 
 **5** as a reminder to the Israelites that no outsider,[^17-5] no one who is not a descendant of Aaron, should come near to burn incense before the LORD, so that he would not become like Korah and his followers. This was as the LORD had told him through Moses.
 
@@ -1620,7 +1620,7 @@
 
 **10** "Get away from this community, so that I may destroy them in an instant." And they fell face down.
 
-**11** Moses said to Aaron, "Take the censer, put fire from the altar in it, and put incense on it. Then go quickly to the community and make atonement for them, for wrath has gone out from the LORD. The plague has begun."
+**11** Moses said to Aaron, "Take the firepan, put fire from the altar in it, and put incense on it. Then go quickly to the community and make atonement for them, for wrath has gone out from the LORD. The plague has begun."
 
 **12** Aaron took it, as Moses had said, and ran into the middle of the assembly. The plague had already begun among the people. He put on the incense and made atonement for the people.
 
@@ -1756,7 +1756,7 @@
 [^18-18]: Literally "Every opening of the womb".
 [^18-19]: That is, buy back by paying a price. The Hebrew repeats the verb for emphasis.
 [^18-20]: Literally "by your valuation", the fixed price for such cases (Leviticus 27:2–7).
-[^18-21]: A shekel was about 2/5 ounce (11.5 grams), so five shekels were about 2 ounces (57 grams).
+[^18-21]: A shekel was about ⅖ ounce (11.5 grams), so five shekels were about 2 ounces (57 grams).
 [^18-22]: Literally "the shekel of the holy place": the standard weight used at the sanctuary.
 [^18-23]: A gerah was the smallest weight, a twentieth of a shekel.
 [^18-24]: Hebrew *ishsheh*. See 15:3.
@@ -1816,7 +1816,7 @@
 **22** Anything that the unclean person touches will be unclean, and anyone who touches it will be unclean until evening."
 
 [^19-1]: *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles.
-[^19-2]: Literally "the statute of the instruction (*torah*)".
+[^19-2]: Literally "the decree of the instruction (*torah*)".
 [^19-3]: Hebrew *parah*, a young cow. Or "a heifer that is entirely red, without defect".
 [^19-4]: A small bushy plant used for sprinkling (Exodus 12:22; Leviticus 14:4).
 [^19-5]: Literally "crimson of the worm": wool dyed with a crimson dye made from an insect.
@@ -1943,9 +1943,9 @@
 
 **16** From there they went on to Beer.[^21-15] That is the well where the LORD said to Moses, "Gather the people together, and I will give them water."
 
-**17** Then Israel sang this song: "Spring up, O well! Sing to it!
+**17** Then Israel sang this song: Spring up, O well! Sing to it!
 
-**18** The well that the princes dug, that the nobles of the people hollowed out with the scepter, with their staffs." From the wilderness they went on to Mattanah,[^21-16]
+**18** The well that the princes dug, that the nobles of the people hollowed out with the scepter, with their staffs. From the wilderness they went on to Mattanah,[^21-16]
 
 **19** from Mattanah to Nahaliel, from Nahaliel to Bamoth,
 
@@ -2529,7 +2529,7 @@
 [^27-1]: *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles.
 [^27-2]: Literally "in his own sin he died": for his own sin, not for taking part in Korah's rebellion (chapter 16).
 [^27-3]: In the Hebrew text the last letter of this word is written large, a scribal tradition.
-[^27-4]: Literally "a statute of judgment".
+[^27-4]: Literally "a decree of judgment".
 [^27-5]: Literally "this mountain of the Abarim". *Abarim* means "regions beyond" or "crossings": the mountains east of the Jordan. According to Deuteronomy 32:49 the mountain is Mount Nebo.
 [^27-6]: That is, die. See 20:24.
 [^27-7]: Literally "my mouth".
@@ -2557,7 +2557,7 @@
 
 **6** It is the regular burnt offering that was instituted at Mount Sinai, as a pleasing aroma, an offering by fire to the LORD.
 
-**7** Its drink offering is to be a quarter of a hin for each lamb. Pour out the drink offering of fermented drink[^28-7] to the LORD in the holy place.
+**7** Its drink offering is to be a quarter of a hin for each lamb. Pour out the drink offering of beer[^28-7] to the LORD in the holy place.
 
 **8** Offer the other lamb at twilight. Offer it with the same grain offering and drink offering as in the morning, as an offering by fire, a pleasing aroma to the LORD.
 
@@ -2579,7 +2579,7 @@
 
 **17** On the fifteenth day of this month there is to be a festival.[^28-13] For seven days bread made without yeast is to be eaten.
 
-**18** On the first day you are to hold a sacred assembly. Do no regular work.[^28-14]
+**18** On the first day you are to hold a holy assembly. Do no regular work.[^28-14]
 
 **19** Present to the LORD an offering by fire, a burnt offering: two young bulls, one ram and seven male lambs a year old. They must be without defect.
 
@@ -2593,9 +2593,9 @@
 
 **24** In this way you are to offer every day for seven days the food of the offering by fire, a pleasing aroma to the LORD. It is to be offered in addition to the regular burnt offering and its drink offering.
 
-**25** On the seventh day you are to hold a sacred assembly. Do no regular work.
+**25** On the seventh day you are to hold a holy assembly. Do no regular work.
 
-**26** "'On the day of the firstfruits, when you present to the LORD an offering of new grain at your Festival of Weeks,[^28-15] you are to hold a sacred assembly. Do no regular work.
+**26** "'On the day of the firstfruits, when you present to the LORD an offering of new grain at your Festival of Weeks,[^28-15] you are to hold a holy assembly. Do no regular work.
 
 **27** Present a burnt offering as a pleasing aroma to the LORD: two young bulls, one ram and seven male lambs a year old,
 
@@ -2613,13 +2613,13 @@
 [^28-4]: Literally "between the two evenings", probably the time between sunset and dark. Also in verse 8.
 [^28-5]: Literally "a tenth of the ephah". A tenth of an ephah was about 2 quarts (2 liters).
 [^28-6]: A hin was about a gallon (4 liters), so a quarter of a hin was about a quart (1 liter).
-[^28-7]: Hebrew *shekar*, usually beer or another fermented drink. Here it probably means wine, as in verse 14 and Exodus 29:40.
+[^28-7]: Hebrew *shekhar*, usually beer, a fermented drink. Here it probably means wine, as in verse 14 and Exodus 29:40.
 [^28-8]: Hebrew *esronim*, "tenths", that is, tenths of an ephah. Also in verses 12–13, 20–21 and 28–29.
 [^28-9]: Literally "at the heads of your months", the day of the new moon.
 [^28-10]: Literally "bulls, sons of the herd". Also in verses 19 and 27.
 [^28-11]: Literally "one he-goat of the goats". Also in verses 22 and 30.
 [^28-12]: Or "purification offering" (see 6:11). Also in verse 22.
-[^28-13]: Hebrew *chag*: one of the three pilgrimage festivals (Exodus 23:14–17). This is the Festival of Unleavened Bread.
+[^28-13]: Hebrew *chag*: one of the three pilgrimage festivals (Exodus 23:14–17). This is the Festival of Bread Made without Yeast.
 [^28-14]: Literally "any work of labor": ordinary daily work. Also in verses 25 and 26.
 [^28-15]: Literally "in your weeks": the festival held seven weeks after the barley harvest began (Leviticus 23:15–16; Deuteronomy 16:9–10). It is also called the Festival of Harvest (Exodus 23:16).
 
@@ -2627,7 +2627,7 @@
 
 *Status: draft*
 
-**1** "'On the first day of the seventh month you are to hold a sacred assembly. Do no regular work.[^29-1] It is to be a day of trumpet blasts[^29-2] for you.
+**1** "'On the first day of the seventh month you are to hold a holy assembly. Do no regular work.[^29-1] It is to be a day of trumpet blasts[^29-2] for you.
 
 **2** Offer a burnt offering as a pleasing aroma to the LORD:[^29-3] one young bull,[^29-4] one ram and seven male lambs a year old, without defect,
 
@@ -2639,7 +2639,7 @@
 
 **6** These are in addition to the burnt offering of the new month and its grain offering, and the regular burnt offering and its grain offering, and their drink offerings, as prescribed for them, as a pleasing aroma, an offering by fire[^29-8] to the LORD.
 
-**7** "'On the tenth day of this seventh month you are to hold a sacred assembly. You are to deny yourselves,[^29-9] and do no work at all.
+**7** "'On the tenth day of this seventh month you are to hold a holy assembly. You are to deny yourselves,[^29-9] and do no work at all.
 
 **8** Present to the LORD a burnt offering, a pleasing aroma: one young bull, one ram and seven male lambs a year old. They must be without defect.
 
@@ -2649,7 +2649,7 @@
 
 **11** and one male goat as a sin offering. These are in addition to the sin offering for atonement,[^29-10] and the regular burnt offering and its grain offering, and their drink offerings.
 
-**12** "'On the fifteenth day of the seventh month you are to hold a sacred assembly. Do no regular work. Celebrate a festival to the LORD for seven days.
+**12** "'On the fifteenth day of the seventh month you are to hold a holy assembly. Do no regular work. Celebrate a festival to the LORD for seven days.
 
 **13** Present a burnt offering, an offering by fire, a pleasing aroma to the LORD: thirteen young bulls, two rams and fourteen male lambs a year old. They must be without defect.
 
@@ -2755,7 +2755,7 @@
 
 **16** But if he cancels them some time after he has heard of them, he will bear her guilt."[^30-8]
 
-**17** These are the rules that the LORD commanded Moses about a man and his wife, and about a father and his daughter while she is young and living in her father's house.
+**17** These are the decrees that the LORD commanded Moses about a man and his wife, and about a father and his daughter while she is young and living in her father's house.
 
 [^30-1]: *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles.
 [^30-2]: Verses 1–17 are 29:40 and 30:1–16 in most English Bibles.
@@ -2888,7 +2888,7 @@
 [^31-8]: Literally "every woman who has known a man by lying with a male". Also in verses 18 and 35.
 [^31-9]: Literally "all the little ones among the women".
 [^31-10]: Hebrew *nephesh*, "a person".
-[^31-11]: Literally "the statute of the instruction (*torah*)", as in 19:2.
+[^31-11]: Literally "the decree of the instruction (*torah*)", as in 19:2.
 [^31-12]: See 19:9.
 [^31-13]: Literally "lift up the head of".
 [^31-14]: Hebrew *mekhes*, a tax or levy. Also in verses 37–41.
@@ -2896,7 +2896,7 @@
 [^31-16]: Hebrew *terumah* (see 5:9). Also in verses 41 and 52.
 [^31-17]: Literally "the thousands".
 [^31-18]: Hebrew *kumaz*, of uncertain meaning: perhaps a pendant or necklace.
-[^31-19]: A shekel was about 2/5 ounce (11.5 grams), so this was about 420 pounds (190 kilograms).
+[^31-19]: A shekel was about ⅖ ounce (11.5 grams), so this was about 420 pounds (190 kilograms).
 [^31-20]: Or "a memorial".
 
 ## Chapter 32
@@ -3283,7 +3283,7 @@
 [^35-7]: Hebrew *go'el*, the nearest relative (see 5:8). Here he is the one who avenges a death; in verses 19–27, "the avenger of blood".
 [^35-8]: Literally "with lying in wait": deliberately.
 [^35-9]: Literally "there is no blood for him".
-[^35-10]: Literally "a statute of judgment".
+[^35-10]: Literally "a decree of judgment".
 [^35-11]: Hebrew *kofer*: a payment in place of a life.
 [^35-12]: Literally "who is guilty to die".
 [^35-13]: Hebrew *chanaf*, "pollute, profane". Also later in the verse.
@@ -3316,7 +3316,7 @@
 
 **12** They married into the clans of the descendants of Manasseh son of Joseph, and their inheritance remained with the tribe of their father's clan.
 
-**13** These are the commands and the rules that the LORD gave to the Israelites through Moses[^36-5] in the plains of Moab by the Jordan, across from Jericho.
+**13** These are the commands and the rulings that the LORD gave to the Israelites through Moses[^36-5] in the plains of Moab by the Jordan, across from Jericho.
 
 [^36-1]: *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles.
 [^36-2]: Hebrew *yovel*: every fiftieth year, when land that had been sold returned to its original owners (Leviticus 25:8–17).

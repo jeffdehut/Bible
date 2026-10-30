@@ -53,7 +53,7 @@ def forms(*words):
     out = []
     for w in words:
         out += [w, w[0].upper() + w[1:]]
-    return sorted(set(out), key=len, reverse=True)
+    return sorted(set(out), key=lambda f: (-len(f), f))
 
 
 def inflect(*stems):

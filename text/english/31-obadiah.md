@@ -76,7 +76,7 @@
 [^1-25]: The Hebrew changes here from "you" (one person) to "you" (many). It may refer to the people of Judah, who drank the cup of the LORD's anger, or to the Edomites, who drank in celebration on Mount Zion. On the cup of the LORD's anger, see Jeremiah 25:15–29 and 49:12.
 [^1-26]: The meaning of the Hebrew verb is uncertain. Perhaps "stagger".
 [^1-27]: The same consonants can be read "will dispossess those who dispossessed them", as the Septuagint reads.
-[^1-28]: The Negev was the dry country in the south of Judah, and the Shephelah the low hills in the west, toward the coastal plain. *The people of* is added: literally "the Negev will possess … and the Shephelah …".
+[^1-28]: The Negev was the dry country in the south of Judah, and the Shephelah the low hills between the coastal plain and the hill country of Judah. *The people of* is added: literally "the Negev will possess … and the Shephelah …".
 [^1-29]: The Hebrew of the first half of the verse is difficult. Literally "the exiles of this army of the Israelites, which Canaanites as far as Zarephath". *This army* may instead be read "Halah", a place in Assyria to which Israelites were exiled (2 Kings 17:6), with a small change to the Hebrew. Zarephath was a town on the coast between Tyre and Sidon (1 Kings 17:9).
 [^1-30]: Probably Sardis, in western Asia Minor. In later Hebrew *Sepharad* became the name for Spain.
 [^1-31]: Hebrew *moshi'im*, "saviors", as in the book of Judges (Judges 3:9, 15). The Septuagint reads "those who have been rescued".

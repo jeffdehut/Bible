@@ -6,6 +6,12 @@ book by book, for the rest. 147 clear breaches with a certain fix were corrected
 
 ## Questions of policy
 
+**Decided, 30 October 2026.** The owner accepted the proposed answer to each question below;
+they are recorded in TRANSLATION.md (the checklist, and the table "Decided in the October 2026
+review") and applied throughout the translation, with the findings they settled. In Numbers,
+*chuqqim u-mishpatim* follows the rest of the Torah and the glossary: "decrees and rulings". The
+findings further down that the decisions did not settle are still open.
+
 1. **The messenger formula.** TRANSLATION.md says "This is what the LORD says: …" inside a message takes a colon and no quotation marks of its own. The drafts are split: some books follow it, others open single quotes after the colon, especially where a prophet speaks directly (1 Samuel 2:27, 10:18, 15:2; 1 Kings 13:2) and for a king's message ("This is what Ben-hadad says"). Decide whether the rule covers direct speech and human messengers; about 35 findings (Exodus, Joshua, Judges, 1–2 Kings) wait on it.
 2. **Measurements.** The checklist says every measurement in a passage of measurements is in digits (Exodus 26, Ezekiel 40–48), but Genesis 6:15, Exodus 25–27 and 36–38, 1 Kings 6–7 and Ezekiel 40–47 are in words; only Ezekiel 48 (and now 45, to match it) uses digits. Change the rule (digits only where some number needs them) or convert the passages.
 3. **The unit of the numbers rule.** "A list is the paragraph its numbers belong to" splits some tallies (Judges 20, 1 Kings 5:27–30, 1 Chronicles 25). Decide whether a tally can span paragraphs.

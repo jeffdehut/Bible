@@ -90,7 +90,7 @@
 
 **25** I will sow her for myself in the land. I will have compassion on Lo-ruhamah, and I will say to Lo-ammi, "You are my people," and he will say, "My God."[^2-19]
 
-[^2-1]: Verses 1–2 are 1:10–11 in most English Bibles, and verses 3–25 are 2:1–23. Compare the promise to Abraham (Genesis 22:17; 32:13, 32:12 in most English Bibles).
+[^2-1]: Verses 1–2 are 1:10–11 in most English Bibles, and verses 3–25 are 2:1–23. Compare the promise to Abraham (Genesis 22:17; 32:13; 32:12 in most English Bibles).
 [^2-2]: Quoted in Romans 9:26.
 [^2-3]: Or "and they will spring up from the land", like a crop (see "Jezreel", "God sows", in 1:4), or "and they will take possession of the land". The meaning is uncertain.
 [^2-4]: Ammi means "my people" and Ruhamah "shown compassion": the names of Hosea's children (1:6, 9) without "not".
@@ -165,7 +165,7 @@
 
 **14** I will not punish your daughters when they turn to prostitution, or your daughters-in-law when they commit adultery, for the men themselves go off with prostitutes and sacrifice with shrine prostitutes.[^4-17] A people without understanding will come to ruin.
 
-**15** Though you, Israel, play the prostitute, do not let Judah become guilty. Do not go to Gilgal, do not go up to Beth-aven,[^4-18] and do not swear, "As the LORD lives!"
+**15** Though you, Israel, play the prostitute, do not let Judah become guilty. Do not go to Gilgal, do not go up to Beth-aven,[^4-18] and do not swear, "As surely as the LORD lives!"
 
 **16** For Israel is stubborn, like a stubborn heifer. Can the LORD now pasture them like a lamb in a broad meadow?[^4-19]
 
@@ -182,9 +182,9 @@
 [^4-5]: Literally "bloods touch bloods".
 [^4-6]: Or "dries up". The Hebrew verb can have either meaning.
 [^4-7]: The meaning of the Hebrew is uncertain. Some scholars read "for with you is my case, O priest", with small changes to the Hebrew.
-[^4-8]: Probably the nation (compare 2:4, 2:2 in most English Bibles), or the priest's own family. *Destroy* (Hebrew *damah*) is the same verb as "are destroyed" in verse 6.
+[^4-8]: Probably the nation (compare 2:4; 2:2 in most English Bibles), or the priest's own family. *Destroy* (Hebrew *damah*) is the same verb as "are destroyed" in verse 6.
 [^4-9]: According to an ancient Jewish scribal tradition (the "corrections of the scribes"), the original text read "They have exchanged my glory for shame" (compare Psalm 106:20; Jeremiah 2:11).
-[^4-10]: Hebrew *chatta't* means both "sin" and "sin offering": the priests eat the people's sin offerings (Leviticus 6:19, 6:26 in most English Bibles), and so profit from their sin.
+[^4-10]: Hebrew *chatta't* means both "sin" and "sin offering": the priests eat the people's sin offerings (Leviticus 6:19; 6:26 in most English Bibles), and so profit from their sin.
 [^4-11]: Literally "they lift up his soul to their iniquity".
 [^4-12]: Literally "I will punish him for his ways and repay him for his deeds".
 [^4-13]: Literally "for they have abandoned the LORD to keep". Some join the first word of verse 11 to this verse: "they have abandoned the LORD to devote themselves to prostitution".
@@ -192,7 +192,7 @@
 [^4-15]: A wooden idol and a diviner's rod, used to seek omens.
 [^4-16]: Literally "they have prostituted themselves from under their God", as a wife leaves her husband's authority.
 [^4-17]: Hebrew *qedeshot*, "consecrated women". See Genesis 38:21 and Deuteronomy 23:18 (23:17 in most English Bibles).
-[^4-18]: Beth-aven, "house of wickedness", is a mocking name for Bethel, "house of God", where one of the royal shrines of the northern kingdom stood (1 Kings 12:28–33). Gilgal was another center of worship (9:15; 12:12, 12:11 in most English Bibles; Amos 4:4).
+[^4-18]: Beth-aven, "house of wickedness", is a mocking name for Bethel, "house of God", where one of the royal shrines of the northern kingdom stood (1 Kings 12:28–33). Gilgal was another center of worship (9:15; 12:12; 12:11 in most English Bibles; Amos 4:4).
 [^4-19]: Or "Now the LORD will pasture them like a lamb in a broad meadow."
 [^4-20]: Ephraim, the largest tribe of the northern kingdom, is often used in Hosea as a name for the kingdom of Israel.
 [^4-21]: The Hebrew of this verse is very uncertain. *Her rulers* is literally "her shields".
@@ -239,7 +239,7 @@
 [^5-4]: *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles.
 [^5-5]: Literally "answers in his face".
 [^5-6]: Literally "foreign children".
-[^5-7]: Or "a month", that is, very soon. The new moon was a festival (2:13, 2:11 in most English Bibles).
+[^5-7]: Or "a month", that is, very soon. The new moon was a festival (2:13; 2:11 in most English Bibles).
 [^5-8]: See 4:15.
 [^5-9]: Perhaps a battle cry (compare Judges 5:14). Gibeah, Ramah and Bethel lay on the road north from Jerusalem, in the land of Benjamin.
 [^5-10]: Moving a neighbor's boundary stone was a serious crime (Deuteronomy 19:14; 27:17).
@@ -253,11 +253,11 @@
 
 *Status: draft*
 
-**1** "Come, let us return to the LORD.[^6-1] For he has torn us, but he will heal us; he has struck us, but he will bind up our wounds.
+**1** Come, let us return to the LORD.[^6-1] For he has torn us, but he will heal us; he has struck us, but he will bind up our wounds.
 
 **2** After two days he will revive us; on the third day he will raise us up, so that we may live before him.[^6-2]
 
-**3** Let us know, let us press on to know the LORD. His coming is as sure as the dawn. He will come to us like the rain, like the spring rain that waters the earth."[^6-3]
+**3** Let us know, let us press on to know the LORD. His coming is as sure as the dawn. He will come to us like the rain, like the spring rain that waters the earth.[^6-3]
 
 **4** What shall I do with you, Ephraim? What shall I do with you, Judah? Your faithful love[^6-4] is like the morning mist, like the dew that goes away early.
 
@@ -519,7 +519,7 @@
 **11** They will come trembling like birds from Egypt, like doves from the land of Assyria, and I will settle them in their homes, declares the LORD.
 
 [^11-1]: Quoted in Matthew 2:15, which follows the Hebrew. The Septuagint reads "and out of Egypt I called his children".
-[^11-2]: Literally "They called to them; so they went from before them", perhaps meaning the prophets (verse 7; 12:11, 12:10 in most English Bibles). The Septuagint reads "The more I called them, the more they went away from me".
+[^11-2]: Literally "They called to them; so they went from before them", perhaps meaning the prophets (verse 7; 12:11; 12:10 in most English Bibles). The Septuagint reads "The more I called them, the more they went away from me".
 [^11-3]: Literally "he took them on his arms". The Septuagint and the Vulgate read "I took them in my arms".
 [^11-4]: Literally "cords of a man".
 [^11-5]: Or "like those who lift a little child to their cheek", reading the same consonants as *ul*, "infant", instead of *ol*, "yoke".
@@ -527,7 +527,7 @@
 [^11-7]: "To me" is supplied. Literally "they refused to return".
 [^11-8]: Literally "his bars". Some take the word to mean "his boasters" or "his false prophets".
 [^11-9]: The Hebrew of this verse is uncertain. *Upward* (Hebrew *al*) may be a title of God, "the Most High" (compare 7:16).
-[^11-10]: Admah and Zeboiim were destroyed with Sodom and Gomorrah (Genesis 14:2; Deuteronomy 29:22, 29:23 in most English Bibles).
+[^11-10]: Admah and Zeboiim were destroyed with Sodom and Gomorrah (Genesis 14:2; Deuteronomy 29:22; 29:23 in most English Bibles).
 [^11-11]: Literally "my compassions grow warm together".
 [^11-12]: Or "I will not come into the city". The Hebrew *be-ir* usually means "into a city".
 [^11-13]: *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles.
@@ -571,7 +571,7 @@
 [^12-2]: The meaning of the Hebrew is uncertain. It may also mean "and Judah is still unruly against God, against the faithful Holy One". *Holy One* is plural in Hebrew, probably a plural of majesty (compare Proverbs 9:10; 30:3), or "the holy ones".
 [^12-3]: *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles.
 [^12-4]: A play on words: *aqav*, "he grasped the heel", and *Ya'aqov*, "Jacob" (Genesis 25:26; 27:36).
-[^12-5]: A play on words: *sarah*, "he struggled", and *Yisra'el*, "Israel" (Genesis 32:25–29, 32:24–28 in most English Bibles). Also in verse 5.
+[^12-5]: A play on words: *sarah*, "he struggled", and *Yisra'el*, "Israel" (Genesis 32:25–29; 32:24–28 in most English Bibles). Also in verse 5.
 [^12-6]: The Septuagint and the Syriac read "with him". On Jacob at Bethel, see Genesis 28:10–22; 35:1–15.
 [^12-7]: *The LORD, the God of Armies* (Hebrew *YHWH Elohei ha-tseva'ot*) is traditionally "the LORD God of hosts". *Tseva'ot* means armies: the heavenly hosts and the armies of Israel.
 [^12-8]: Literally "The LORD is his memorial", the name by which he is to be remembered (Exodus 3:15).

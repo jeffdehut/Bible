@@ -1634,7 +1634,7 @@
 [^23-3]: Literally "a prince of God". The phrase can mean "a mighty prince".
 [^23-4]: Literally "If it is with your *nephesh*".
 [^23-5]: Literally "I have given"; also twice more in this verse.
-[^23-6]: A shekel is about 2/5 ounce (11.5 grams), so four hundred shekels is about 10 pounds (4.6 kg).
+[^23-6]: A shekel is about ⅖ ounce (11.5 grams), so four hundred shekels is about 10 pounds (4.6 kg).
 [^23-7]: Literally "passing to the merchant", that is, silver of the weight accepted in trade.
 [^23-8]: Literally "facing"; also in verse 19.
 
@@ -1784,8 +1784,8 @@
 [^24-6]: "Aram of the two rivers", in northern Mesopotamia.
 [^24-7]: Hebrew *chesed*: loyal, faithful love; also in verses 14, 27 and 49.
 [^24-8]: Literally "no man had known her".
-[^24-9]: Half a shekel: about 1/5 ounce (5.7 grams).
-[^24-10]: A shekel is about 2/5 ounce (11.5 grams), so ten shekels is about 4 ounces (115 grams).
+[^24-9]: Half a shekel: about ⅕ ounce (5.7 grams).
+[^24-10]: A shekel is about ⅖ ounce (11.5 grams), so ten shekels is about 4 ounces (115 grams).
 [^24-11]: Hebrew *emet*, "truth, reliability"; also in verse 49.
 [^24-12]: Literally "brothers".
 [^24-13]: Literally "He unloaded the camels and gave straw and fodder to the camels, and water to wash his feet …". The Hebrew does not say who did this.
@@ -2807,29 +2807,29 @@
 
 **4** Adah bore Eliphaz to Esau, and Basemath bore Reuel.
 
-**5** Oholibamah bore Jeush,[^36-4] Jalam and Korah. These were the sons of Esau who were born to him in the land of Canaan.
+**5** Oholibamah bore Jeush, Jalam and Korah. These were the sons of Esau who were born to him in the land of Canaan.
 
-**6** Esau took his wives, his sons and daughters, all the people[^36-5] of his household, his livestock, all his animals, and all the property he had acquired in the land of Canaan, and he went to another land,[^36-6] away from his brother Jacob.
+**6** Esau took his wives, his sons and daughters, all the people[^36-4] of his household, his livestock, all his animals, and all the property he had acquired in the land of Canaan, and he went to another land,[^36-5] away from his brother Jacob.
 
 **7** For their possessions were too great for them to live together. The land where they were living as foreigners could not support them because of their livestock.
 
 **8** So Esau settled in the hill country of Seir. Esau is Edom.
 
-**9** These are the generations of Esau, the father of Edom,[^36-7] in the hill country of Seir.
+**9** These are the generations of Esau, the father of Edom,[^36-6] in the hill country of Seir.
 
 **10** These are the names of Esau's sons: Eliphaz, the son of Esau's wife Adah, and Reuel, the son of Esau's wife Basemath.
 
 **11** The sons of Eliphaz were Teman, Omar, Zepho, Gatam and Kenaz.
 
-**12** Timna was a concubine[^36-8] of Esau's son Eliphaz, and she bore Amalek to Eliphaz. These were the descendants[^36-9] of Esau's wife Adah.
+**12** Timna was a concubine[^36-7] of Esau's son Eliphaz, and she bore Amalek to Eliphaz. These were the descendants[^36-8] of Esau's wife Adah.
 
 **13** These were the sons of Reuel: Nahath, Zerah, Shammah and Mizzah. These were the descendants of Esau's wife Basemath.
 
-**14** These were the sons of Esau's wife Oholibamah, daughter of Anah, daughter of Zibeon: she bore Esau Jeush,[^36-10] Jalam and Korah.
+**14** These were the sons of Esau's wife Oholibamah, daughter of Anah, daughter of Zibeon: she bore Esau Jeush, Jalam and Korah.
 
-**15** These are the chiefs[^36-11] among Esau's descendants. The sons of Eliphaz, Esau's firstborn: chief Teman, chief Omar, chief Zepho, chief Kenaz,
+**15** These are the chiefs[^36-9] among Esau's descendants. The sons of Eliphaz, Esau's firstborn: chief Teman, chief Omar, chief Zepho, chief Kenaz,
 
-**16** chief Korah,[^36-12] chief Gatam and chief Amalek. These are the chiefs descended from Eliphaz in the land of Edom. They were the descendants of Adah.
+**16** chief Korah,[^36-10] chief Gatam and chief Amalek. These are the chiefs descended from Eliphaz in the land of Edom. They were the descendants of Adah.
 
 **17** These are the sons of Esau's son Reuel: chief Nahath, chief Zerah, chief Shammah and chief Mizzah. These are the chiefs descended from Reuel in the land of Edom. They were the descendants of Esau's wife Basemath.
 
@@ -2845,11 +2845,11 @@
 
 **23** These are the sons of Shobal: Alvan, Manahath, Ebal, Shepho and Onam.
 
-**24** These are the sons of Zibeon: Aiah and Anah. This is the Anah who found the hot springs[^36-13] in the wilderness while he was pasturing the donkeys of his father Zibeon.
+**24** These are the sons of Zibeon: Aiah and Anah. This is the Anah who found the hot springs[^36-11] in the wilderness while he was pasturing the donkeys of his father Zibeon.
 
 **25** These are the children of Anah: Dishon, and Oholibamah daughter of Anah.
 
-**26** These are the sons of Dishan:[^36-14] Hemdan, Eshban, Ithran and Cheran.
+**26** These are the sons of Dishan:[^36-12] Hemdan, Eshban, Ithran and Cheran.
 
 **27** These are the sons of Ezer: Bilhan, Zaavan and Akan.
 
@@ -2871,11 +2871,11 @@
 
 **36** When Hadad died, Samlah from Masrekah became king in his place.
 
-**37** When Samlah died, Shaul from Rehoboth on the River[^36-15] became king in his place.
+**37** When Samlah died, Shaul from Rehoboth on the River[^36-13] became king in his place.
 
 **38** When Shaul died, Baal-hanan son of Achbor became king in his place.
 
-**39** When Baal-hanan son of Achbor died, Hadar[^36-16] became king in his place. The name of his city was Pau, and his wife's name was Mehetabel daughter of Matred, daughter of Me-zahab.
+**39** When Baal-hanan son of Achbor died, Hadar[^36-14] became king in his place. The name of his city was Pau, and his wife's name was Mehetabel daughter of Matred, daughter of Me-zahab.
 
 **40** These are the names of the chiefs descended from Esau, by their clans and their places, name by name: chief Timna, chief Alvah, chief Jetheth,
 
@@ -2888,19 +2888,17 @@
 [^36-1]: Hebrew *toledot*; see 2:4. Also in verse 9.
 [^36-2]: Literally "daughters".
 [^36-3]: Probably "granddaughter": in verse 24 Anah is Zibeon's son. The Samaritan Pentateuch and the Septuagint read "Anah son of Zibeon". Also in verse 14. Verse 20 counts Zibeon among the Horites.
-[^36-4]: The Hebrew text is written "Jeish" but read "Jeush".
-[^36-5]: Hebrew *nephesh*, "persons".
-[^36-6]: Literally "to a land". The Hebrew does not name it; verse 8 says that Esau settled in Seir.
-[^36-7]: That is, the ancestor of the Edomites. Also in verse 43.
-[^36-8]: Hebrew *pilegesh*, a wife of lower status than a principal wife.
-[^36-9]: Literally "sons". Also in verses 13, 16 and 17.
-[^36-10]: The Hebrew text is written "Jeish" but read "Jeush", as in verse 5.
-[^36-11]: Hebrew *alluf*, the head of a clan. Some take the word to mean "clan" (Hebrew *eleph*). Also in the rest of the chapter.
-[^36-12]: Korah is listed in verse 18 among the sons of Oholibamah. The Samaritan Pentateuch leaves out "chief Korah" here.
-[^36-13]: Hebrew *yemim*, a word found only here. "Hot springs" follows the Latin Vulgate; the meaning is uncertain.
-[^36-14]: Dishan's sons are listed in verse 28, and the list of Seir's sons in verses 20–21 puts Dishon before Ezer. 1 Chronicles 1:41 reads "Dishon" here.
-[^36-15]: Perhaps the Euphrates, which is often called "the River".
-[^36-16]: 1 Chronicles 1:50 has "Hadad", and "Pai" for Pau.
+[^36-4]: Hebrew *nephesh*, "persons".
+[^36-5]: Literally "to a land". The Hebrew does not name it; verse 8 says that Esau settled in Seir.
+[^36-6]: That is, the ancestor of the Edomites. Also in verse 43.
+[^36-7]: Hebrew *pilegesh*, a wife of lower status than a principal wife.
+[^36-8]: Literally "sons". Also in verses 13, 16 and 17.
+[^36-9]: Hebrew *alluf*, the head of a clan. Some take the word to mean "clan" (Hebrew *eleph*). Also in the rest of the chapter.
+[^36-10]: Korah is listed in verse 18 among the sons of Oholibamah. The Samaritan Pentateuch leaves out "chief Korah" here.
+[^36-11]: Hebrew *yemim*, a word found only here. "Hot springs" follows the Latin Vulgate; the meaning is uncertain.
+[^36-12]: Dishan's sons are listed in verse 28, and the list of Seir's sons in verses 20–21 puts Dishon before Ezer. 1 Chronicles 1:41 reads "Dishon" here.
+[^36-13]: Perhaps the Euphrates, which is often called "the River".
+[^36-14]: 1 Chronicles 1:50 has "Hadad", and "Pai" for Pau.
 
 ## Chapter 37
 

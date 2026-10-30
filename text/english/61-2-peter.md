@@ -118,7 +118,7 @@
 
 **22** What the true proverb says has happened to them: "A dog returns to its own vomit,"[^2-30] and, "A sow that has been washed goes back to wallowing in the mud."[^2-31]
 
-[^2-1]: That is, Israel (compare Deuteronomy 13:2–6, 13:1–5 in most English Bibles). Verses 1–18 closely parallel Jude 4–16, and 3:1–3 parallels Jude 17–18; many of the same Greek words and images are used.
+[^2-1]: That is, Israel (compare Deuteronomy 13:2–6; 13:1–5 in most English Bibles). Verses 1–18 closely parallel Jude 4–16, and 3:1–3 parallels Jude 17–18; many of the same Greek words and images are used.
 [^2-2]: Greek *haireseis*, "opinions, sects, factions"; literally "heresies of destruction".
 [^2-3]: Greek *despotes*, "master, owner" (compare Jude 4).
 [^2-4]: Greek *aselgeia*, "debauchery, unrestrained behavior" (compare Jude 4); also in verses 7 and 18.
@@ -132,7 +132,7 @@
 [^2-12]: Literally "who go after flesh in desire of defilement" (compare Jude 7).
 [^2-13]: Or "lordship". Greek *kyriotes* (compare Jude 8).
 [^2-14]: Literally "glories", probably angelic beings (compare Jude 8).
-[^2-15]: Many manuscripts and most modern editions add "before the Lord"; the SBLGNT leaves these words out, following a minority reading. Compare Jude 9.
+[^2-15]: The words "before the Lord" are not in the SBLGNT, which here follows the margin of Westcott and Hort; the other editions add them. Compare Jude 9.
 [^2-16]: Literally "slandering in what they do not know". Compare Jude 10.
 [^2-17]: Or "they will be destroyed like them", the animals.
 [^2-18]: Literally "being wronged (as) the wage of wrong", a play on words. Many manuscripts read "receiving the wage of wrongdoing".

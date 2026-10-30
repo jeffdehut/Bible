@@ -516,6 +516,20 @@ input[type="range"] { width: 100%; accent-color: var(--lapis); }
 .mk-list label { display: grid; grid-template-columns: 20px 112px 1fr; align-items: center; gap: 12px; padding: 8px 0; border-bottom: 1px solid var(--line); cursor: pointer; }
 .mk-sample { font: 400 18px/1.4 var(--read); color: var(--ink); }
 .mk-text { font: 400 14px/1.3 var(--sans); }
+/* A strip of the Bible's chapters: where a word, topic or person appears. */
+.strip { position: relative; margin: 8px 0 4px; }
+.strip-svg { display: block; width: 100%; height: 46px; border-radius: 6px; cursor: pointer; touch-action: manipulation; }
+.strip-ends { position: relative; height: 16px; font: 500 11px/16px var(--sans); color: var(--muted); }
+.strip-ends span { position: absolute; top: 0; }
+.strip-ends span:first-child { left: 0; } .strip-ends span:last-child { right: 0; }
+.strip-ends span:nth-child(2) { padding-left: 4px; }
+.strip-tip { position: absolute; top: -24px; transform: translateX(-50%); padding: 3px 8px; border-radius: 6px; background: var(--ink); color: var(--bg); font: 600 12px/1.3 var(--sans); white-space: nowrap; pointer-events: none; }
+.strip-sum { margin: 4px 0 6px; font: 500 13px/1.35 var(--sans); color: var(--muted); }
+.strip-books { display: flex; flex-wrap: wrap; gap: 6px; }
+.strip-books button { display: inline-flex; align-items: center; gap: 6px; min-height: 30px; padding: 3px 10px; border-radius: 99px; border: 1px solid var(--line); background: var(--surface); color: var(--ink); font: 500 13px/1.2 var(--sans); cursor: pointer; }
+.strip-books button i { width: 8px; height: 8px; border-radius: 50%; }
+.strip-books small { color: var(--muted); }
+.strip-h { margin: 14px 0 0; font: 600 12px/1.3 var(--sans); letter-spacing: 0.06em; text-transform: uppercase; color: var(--muted); }
 /* The web of Scripture in small: the things a verse touches, and the web round each. */
 .webchips { list-style: none; margin: 0; padding: 0; display: flex; flex-wrap: wrap; gap: 6px; }
 .webchips button { display: inline-flex; align-items: center; gap: 7px; min-height: 34px; padding: 4px 12px 4px 5px; border-radius: 99px; border: 1px solid var(--line); background: var(--surface); color: var(--ink); font: 500 14px/1.2 var(--sans); cursor: pointer; }
@@ -817,11 +831,15 @@ if (/(^#|&)(access_token|error)=/.test(location.hash)) {
     <li><a href="maps/index.html" title="Eight sheets, from the patriarchs to Paul"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M9 4 3.5 6v14L9 18l6 2 5.5-2V4L15 6 9 4Z"/><path d="M9 4v14M15 6v14"/></svg><span>Maps</span></a></li>
     <li><a href="history.html" title="Streams of Time: world history beside the Bible"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M3 6.5c3 0 3-2 6-2s3 2 6 2 3-2 6-2"/><path d="M3 12c3 0 3-2 6-2s3 2 6 2 3-2 6-2"/><path d="M3 17.5c3 0 3-2 6-2s3 2 6 2 3-2 6-2"/><path d="M8 21v-2.5M16 21v-2.5"/></svg><span>Timeline</span></a></li>
     <li><a href="genealogy.html" title="The Generations: from Adam to Jesus, and every family"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="12" cy="5" r="2.2"/><circle cx="6" cy="19" r="2.2"/><circle cx="18" cy="19" r="2.2"/><path d="M12 7.2V12M6 16.8V12h12v4.8"/></svg><span>Genealogy</span></a></li>
+    <li><a href="kings.html" title="The kings of Israel and Judah side by side, with the prophets of their days"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M3 8l4.2 4L12 6l4.8 6L21 8l-2 11H5Z"/></svg><span>Kings</span></a></li>
+    <li><a href="arcs.html" title="Every cross-reference in the Bible as an arc"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M3 19a9 9 0 0 1 18 0"/><path d="M7 19a5 5 0 0 1 10 0"/><path d="M10 19a2 2 0 0 1 4 0"/><path d="M2 19h20"/></svg><span>Cross-refs</span></a></li>
+    <li><a href="library.html" title="The 66 books as a bookshelf"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M4 20V5h3v15M8 20V7h3v13M13 20l-1.5-14 3-.4L16 19.6"/><path d="M17 20V4h3v16M2 20.5h20"/></svg><span>Bookshelf</span></a></li>
   </ul>
   <h3 class="menu-group">About</h3>
   <ul class="menu about">
     <li><button type="button" id="open-project" title="Who made it"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="12" cy="12" r="9"/><path d="M12 11v5.5M12 7.6v.1"/></svg><span>This project</span></button></li>
     <li><button type="button" id="open-about" title="A first draft, awaiting review"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M6 3h8.5L19 7.5V21H6z"/><path d="M14 3v5h5"/><path d="M9 12.5h7M9 16h5"/></svg><span>This translation</span></button></li>
+    <li><a href="downloads.html" title="Download the translation and the open data"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M12 3v12m0 0-4.5-4.5M12 15l4.5-4.5M4 19h16"/></svg><span>Open data</span></a></li>
     <li><a id="menu-feedback" href="mailto:info@bibledata.org" title="Questions, mistakes and ideas"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><rect x="3" y="5" width="18" height="14" rx="2.5"/><path d="m3.5 7 8.5 6 8.5-6"/></svg><span>Send feedback</span></a></li>
   </ul>
 </section>
@@ -863,6 +881,7 @@ if (/(^#|&)(access_token|error)=/.test(location.hash)) {
   <p class="wm-sub" id="wm-sub"></p>
   <div class="wm-stage"><svg id="wm-svg" viewBox="0 0 360 330" role="img" aria-labelledby="wm-title"></svg></div>
   <p class="hint" id="wm-hint">Tap a point to follow its threads.</p>
+  <div id="wm-story"></div>
   <div class="actions" id="wm-actions"></div>
 </section>
 
@@ -1700,6 +1719,13 @@ async function showStudyEntry(k, i, push, hint) {
   if (k === "t" && e.gone) also.append(el("span", { text: `Nave’s also points to ${e.gone.map(g => `“${g}”`).join(", ")}, which this edition doesn’t have.` }));
   if (also.childNodes.length) kids.push(also);
   if (k === "t") {
+    // Where the topic's verses fall through the Bible.
+    const counts = new Map();
+    for (const [, , refs] of e.s) for (const r of refs) {
+      const p = parseRef(r);
+      if (p && p.b) { const i = chapterNumber(p.b, p.c); if (i >= 0) counts.set(i, (counts.get(i) || 0) + 1); }
+    }
+    if (counts.size > 1) kids.push(el("p", { class: "strip-h", text: "Through the Bible" }), bibleStrip(counts, { unit: ["verse", "verses"], label: "Where the topic's verses fall" }));
     for (const [head, depth, refs] of e.s) {
       const sub = el("div", { class: `sub d${depth}` });
       if (head) sub.append(el("p", { text: head }));
@@ -2004,6 +2030,14 @@ async function showWord(surface, f, ot, aramaic) {
   row("Strong's", parts.map(p => (ot ? "H" : "G") + p).join(" + "));
   box.append(dl);
   if (lex && lex[4]) box.append(el("div", { class: "def" }, richDef(lex[4])));
+  // Where the word appears through the Bible.
+  const foot = el("div");
+  box.append(foot);
+  wordFootprint(parts[main], ot).then(counts => {
+    if (!counts || !counts.size) return;
+    foot.append(el("p", { class: "strip-h", text: `Where ${lex ? lex[0].replace(/^\//, "") : "this word"} appears` }),
+      bibleStrip(counts, { label: `Where the word appears through the Bible`, top: 6 }));
+  });
   box.append(el("div", { class: "credit", text: ot ? "Lexicon: STEPBible TBESH (abridged BDB), CC BY 4.0" : "Lexicon: STEPBible TBESG (Abbott-Smith), CC BY 4.0" }));
   // The full entry, loaded when asked for: Brown-Driver-Briggs or Liddell-Scott-Jones.
   const key = parts[main];
@@ -2347,6 +2381,103 @@ function toast(msg, ms = 2200) {
   const t = $("toast"); t.textContent = msg; t.hidden = false;
   clearTimeout(toastTimer); toastTimer = setTimeout(() => { t.hidden = true; }, ms);
 }
+/* ---------- Through the whole Bible: a strip of its 1,189 chapters ---------- */
+// Where a word, a topic or a person appears: a bar for each chapter it is in, as tall as how
+// often, colored by the part of the Bible; a tap on the strip goes to the nearest chapter. Used
+// by a word's footprint, a topic and a person's storyline (the web in small).
+const STRIP_SECTIONS = [[0, "Torah"], [5, "History"], [17, "Wisdom"], [22, "Prophets"], [39, "Gospels"], [43, "Acts"], [44, "Letters"], [65, "Revelation"]];
+const sectionOfBook = i => STRIP_SECTIONS.reduce((s, [start], k) => (i >= start ? k : s), 0);
+let chapterIndex = null;
+function chapters() {
+  if (!chapterIndex) { chapterIndex = []; BOOKS.forEach((b, bi) => b.s.forEach((_, c) => chapterIndex.push([b, c + 1, bi]))); }
+  return chapterIndex;
+}
+const chapterNumber = (b, c) => { let n = 0; for (const x of BOOKS) { if (x === b) return n + c - 1; n += x.s.length; } return -1; };
+function bibleStrip(counts, opts = {}) {
+  const CH = chapters(), NS = "http://www.w3.org/2000/svg", Wd = CH.length, Ht = 46;
+  const make = (tag, attrs) => { const e = document.createElementNS(NS, tag); for (const k in attrs) e.setAttribute(k, attrs[k]); return e; };
+  const svg = make("svg", { viewBox: `0 0 ${Wd} ${Ht}`, preserveAspectRatio: "none", class: "strip-svg", role: "img", "aria-label": opts.label || "Where it appears through the Bible" });
+  const colors = WEB_GROUPS.map((_, g) => webColor(g));
+  // The parts of the Bible, faintly, behind the bars.
+  let start = 0;
+  STRIP_SECTIONS.forEach(([first], k) => {
+    const next = STRIP_SECTIONS[k + 1] ? STRIP_SECTIONS[k + 1][0] : BOOKS.length;
+    const n = BOOKS.slice(first, next).reduce((t, b) => t + b.s.length, 0);
+    svg.append(make("rect", { x: start, y: 0, width: n, height: Ht, fill: colors[k], opacity: 0.1 }));
+    start += n;
+  });
+  let max = 1, total = 0;
+  for (const [, n] of counts) { max = Math.max(max, n); total += n; }
+  for (const [i, n] of counts) {
+    if (!CH[i]) continue;
+    const h = 7 + (Ht - 9) * Math.sqrt(n / max);
+    svg.append(make("rect", { x: i - 0.2, y: Ht - h, width: 2.4, height: h, fill: colors[sectionOfBook(CH[i][2])] }));
+  }
+  const nt = BOOKS.slice(0, 39).reduce((t, b) => t + b.s.length, 0);
+  svg.append(make("line", { x1: nt, x2: nt, y1: 0, y2: Ht, stroke: "var(--faint)", "stroke-width": 1.5, "vector-effect": "non-scaling-stroke" }));
+  const box = el("div", { class: "strip" }, svg,
+    el("div", { class: "strip-ends" }, el("span", { text: "Genesis" }), el("span", { text: "Matt.", style: `left:${(100 * nt / Wd).toFixed(1)}%` }), el("span", { text: "Rev." })));
+  // A tap goes to the nearest chapter on the strip that has it.
+  const tip = el("div", { class: "strip-tip", hidden: true });
+  box.append(tip);
+  const near = ev => {
+    const r = svg.getBoundingClientRect(), x = ((ev.clientX - r.left) / r.width) * Wd;
+    let best = null, bd = Infinity;
+    for (const [i] of counts) { const d = Math.abs(i - x); if (d < bd) { bd = d; best = i; } }
+    return bd <= Math.max(8, Wd * 14 / r.width) ? best : null;
+  };
+  svg.addEventListener("pointermove", ev => {
+    const i = near(ev);
+    if (i == null) { tip.hidden = true; return; }
+    const [b, c] = CH[i];
+    tip.hidden = false; tip.textContent = `${bookName(b)} ${c}${counts.get(i) > 1 ? ` · ${counts.get(i)}` : ""}`;
+    tip.style.left = `${(100 * i / Wd).toFixed(1)}%`;
+  });
+  svg.addEventListener("pointerleave", () => { tip.hidden = true; });
+  svg.addEventListener("click", ev => { const i = near(ev); if (i != null) (opts.onPick || stripGo)(CH[i][0], CH[i][1]); });
+  // In words: how often, and the books with the most.
+  const byBook = new Map();
+  for (const [i, n] of counts) { const b = CH[i] && CH[i][0]; if (b) byBook.set(b, (byBook.get(b) || 0) + n); }
+  const unit = opts.unit || ["time", "times"];
+  box.append(el("p", { class: "strip-sum", text: `${total.toLocaleString()} ${total === 1 ? unit[0] : unit[1]} in ${counts.size.toLocaleString()} chapter${counts.size === 1 ? "" : "s"} of ${byBook.size} book${byBook.size === 1 ? "" : "s"}` }));
+  const top = [...byBook].sort((a, b) => b[1] - a[1]).slice(0, opts.top || 6);
+  if (top.length > 1) box.append(el("div", { class: "strip-books" }, ...top.map(([b, n]) => el("button", { type: "button",
+    onclick: () => { const i = [...counts.keys()].filter(i => CH[i][0] === b).sort((x, y) => counts.get(y) - counts.get(x))[0]; (opts.onPick || stripGo)(b, CH[i][1]); } },
+    el("i", { style: `background:${colors[sectionOfBook(BOOKS.indexOf(b))]}` }), bookName(b), el("small", { text: String(n) })))));
+  return box;
+}
+function stripGo(b, c) { closeSheets(); closeVerse(); go(b, c); }
+// A word's footprint: where the word (by its Strong's number) appears in the Hebrew or Greek.
+async function wordFootprint(key, ot) {
+  const m = key.match(/^(\d+)/);
+  if (!m) return null;
+  let data;
+  try { data = await getJSON(`footprint/${ot ? "h" : "g"}${String(Math.floor(+m[1] / 1000)).padStart(2, "0")}.json`); } catch (e) { return null; }
+  const f = data[key];
+  if (!f) return null;
+  const counts = new Map();
+  for (let i = 1; i < f.length; i += 2) counts.set(f[i], f[i + 1]);
+  return counts;
+}
+// A person's storyline: the chapters that name them (people.json, verse by verse).
+let peopleChapters = null;
+async function personChapters(k) {
+  if (!peopleChapters) {
+    const L = await getJSON("people.json");
+    peopleChapters = new Map();
+    for (const [osis, verses] of Object.entries(L.verses)) {
+      const b = byOsis[osis];
+      if (!b) continue;
+      const base = chapterNumber(b, 1);
+      for (const [cv, ks] of Object.entries(verses)) {
+        const i = base + +cv.split(":")[0] - 1;
+        for (const p of ks) { let m = peopleChapters.get(p); if (!m) peopleChapters.set(p, m = new Map()); m.set(i, (m.get(i) || 0) + 1); }
+      }
+    }
+  }
+  return peopleChapters.get(k) || new Map();
+}
+
 /* ---------- The web of Scripture, in small ---------- */
 // The verse panel lists what a verse touches in the web of Scripture (graph.html): its chapter,
 // and the people, places and events in it. Each opens a small view of the web round it: the
@@ -2463,6 +2594,13 @@ async function openWeb(i, opts = {}) {
     .filter(([n]) => n).map(([n, one, many]) => `${n} ${n === 1 ? one : many}`);
   $("wm-sub").textContent = `${W.deg[i]} connections${words.length ? ": " + words.join(", ") : ""}${seen.size > 12 ? ". The strongest 12 are shown." : ""}`;
   drawWeb(W, i, ns);
+  // A person's storyline: the chapters that name them.
+  const story = $("wm-story");
+  story.textContent = "";
+  if (W.gen.has(i)) personChapters(W.gen.get(i)).then(counts => {
+    if (counts.size < 2 || $("wm-title").textContent !== W.name(i)) return;
+    story.append(el("p", { class: "strip-h", text: `${W.name(i)} through the Bible` }), bibleStrip(counts, { unit: ["verse", "verses"], label: `The chapters that name ${W.name(i)}` }));
+  });
   // Read it, or see it in the whole web.
   const acts = $("wm-actions");
   acts.textContent = "";
@@ -2802,7 +2940,7 @@ getJSON("books.json").then(list => {
   addEventListener("hashchange", route);
   route();
 }).catch(() => { $("loading").textContent = "The Bible couldn't be loaded. Check your connection and reload the page."; });
-if ("serviceWorker" in navigator && /^https?:$/.test(location.protocol) && !embedded) navigator.serviceWorker.register("sw.js?v=26").catch(() => {});
+if ("serviceWorker" in navigator && /^https?:$/.test(location.protocol) && !embedded) navigator.serviceWorker.register("sw.js?v=28").catch(() => {});
 
 /* ---------- For account.js: highlights and notes, and two of the reader's tools ---------- */
 var reader = {
@@ -2820,8 +2958,8 @@ var reader = {
   openSheet, toast,
 };
 </script>
-<script src="config.js?v=26"></script>
-<script src="share.js?v=26"></script>
-<script src="account.js?v=26"></script>
+<script src="config.js?v=28"></script>
+<script src="share.js?v=28"></script>
+<script src="account.js?v=28"></script>
 </body>
 </html>

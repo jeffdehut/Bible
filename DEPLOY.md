@@ -5,6 +5,7 @@ it links to sits beside it:
 
 ```
 index.html               the reader (home page)
+kings.html, arcs.html, library.html, downloads.html   the kings, the cross-references, the bookshelf and the open data
 config.js, account.js    site settings, and the optional accounts (off until set up)
 privacy.html             what the site keeps about its readers
 genealogy.html           The Generations
@@ -93,6 +94,9 @@ python3 scripts/study.py         # the topics and dictionary in data/bible/study
 python3 scripts/parallels.py     # parallel passages and reading plans (after study.py)
 python3 scripts/lexicons.py      # the full lexicon entries (BDB, LSJ) in data/bible/lexicon/
 python3 scripts/markings.py      # the study markings in data/bible/markings/ (after reader.py)
+python3 scripts/footprint.py     # where each Hebrew and Greek word appears, in data/bible/footprint/
+python3 scripts/kings.py         # kings.html, the kings of Israel and Judah
+python3 scripts/explore.py       # arcs.html, library.html, downloads.html and downloads/ (after connections.py)
 ```
 
 Then push the branch, and merging it into `main` puts it live. The pages are built from templates in `scripts/templates/`; edit those, not the built pages.

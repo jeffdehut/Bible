@@ -1253,7 +1253,7 @@
 [^18-5]: That is, he does not eat sacrificial meals at the shrines on the hills (6:13; 22:9). Also in verses 11 and 15.
 [^18-6]: Hebrew *gillulim*, a contemptuous word for idols, perhaps related to the word for dung. Also in verses 12 and 15.
 [^18-7]: Hebrew *niddah* (Leviticus 15:19–24; 18:19).
-[^18-8]: Literally "his pledge, for a debt, he returns". The law required a creditor to give back a poor man's cloak, taken in pledge, by sunset (Exodus 22:25–26, 22:26–27 in most English Bibles; Deuteronomy 24:10–13).
+[^18-8]: Literally "his pledge, for a debt, he returns". The law required a creditor to give back a poor man's cloak, taken in pledge, by sunset (Exodus 22:25–26; 22:26–27 in most English Bibles; Deuteronomy 24:10–13).
 [^18-9]: Hebrew *neshekh* and *tarbit*, two words for interest, perhaps interest taken in advance and interest added at repayment. The law forbade lending at interest to a fellow Israelite (Leviticus 25:35–37). Also in verses 13 and 17.
 [^18-10]: The Hebrew is difficult. Literally "and does a brother of one of these".
 [^18-11]: Or "and does none of these duties".
@@ -1894,7 +1894,7 @@
 [^25-8]: Literally "with all your contempt in *nephesh*". Also in verse 15.
 [^25-9]: The Hebrew text is written *lebag*, a word of uncertain meaning, but read *lebaz*, "as plunder".
 [^25-10]: The mountain country of Edom (Genesis 36:8).
-[^25-11]: Towns of Moab north of the Arnon River (Numbers 32:37–38; Joshua 13:17–20). The Hebrew text is written *Qiryatam* but read *Qiryatayim*, "Kiriathaim".
+[^25-11]: Towns of Moab north of the Arnon River (Numbers 32:37–38; Joshua 13:17–20).
 [^25-12]: Teman was a region of Edom; Dedan was an oasis in northern Arabia, to the southeast of Edom.
 [^25-13]: Literally "with everlasting enmity".
 [^25-14]: A play on words: *hikhratti*, "I will cut off", and *Keretim*, "Cherethites", a people closely linked with the Philistines (1 Samuel 30:14; Zephaniah 2:5), perhaps from Crete.
@@ -3003,7 +3003,7 @@
 [^39-9]: *Hamon-gog* means "the horde of Gog". Also in verse 15.
 [^39-10]: The meaning of this verse is uncertain.
 [^39-11]: *Hamonah* means "horde".
-[^39-12]: A fertile region east of the Jordan, famous for its cattle (Amos 4:1; Psalm 22:13, 22:12 in most English Bibles).
+[^39-12]: A fertile region east of the Jordan, famous for its cattle (Amos 4:1; Psalm 22:13; 22:12 in most English Bibles).
 [^39-13]: Literally "horse and chariot".
 [^39-14]: Literally "turn the turning", an idiom for restoring what was lost. Or "bring back the captives".
 [^39-15]: Or "They will forget", reading the same consonants as *nashu*.
@@ -3020,27 +3020,27 @@
 
 **4** The man said to me, "Son of man,[^40-3] look with your eyes, hear with your ears, and pay attention to everything I am going to show you, for you have been brought here so that I may show it to you. Tell the house of Israel everything you see."
 
-**5** There was a wall all around the outside of the house.[^40-4] In the man's hand was a measuring reed six cubits long, each cubit being a cubit and a handbreadth.[^40-5] He measured the thickness[^40-6] of the wall: one reed; and its height: one reed.
+**5** There was a wall all around the outside of the house.[^40-4] In the man's hand was a measuring reed 6 cubits long, each cubit being a cubit and a handbreadth.[^40-5] He measured the thickness[^40-6] of the wall: 1 reed; and its height: 1 reed.
 
-**6** Then he went to the gate that faced east. He climbed its steps[^40-7] and measured the threshold of the gate: one reed wide; and the other threshold: one reed wide.
+**6** Then he went to the gate that faced east. He climbed its steps[^40-7] and measured the threshold of the gate: 1 reed wide; and the other threshold: 1 reed wide.
 
-**7** Each alcove[^40-8] was one reed long and one reed wide, and between the alcoves were five cubits. The threshold of the gate beside the porch[^40-9] of the gate, on the inside, was one reed.
+**7** Each alcove[^40-8] was 1 reed long and 1 reed wide, and between the alcoves were 5 cubits. The threshold of the gate beside the porch[^40-9] of the gate, on the inside, was 1 reed.
 
-**8** He measured the porch of the gate on the inside: one reed.
+**8** He measured the porch of the gate on the inside: 1 reed.
 
-**9** Then he measured the porch of the gate: eight cubits; and its jambs:[^40-10] two cubits. The porch of the gate was on the inside.
+**9** Then he measured the porch of the gate: 8 cubits; and its jambs:[^40-10] 2 cubits. The porch of the gate was on the inside.
 
 **10** The alcoves of the east gate were three on one side and three on the other. The three had the same measurements, and the jambs on either side had the same measurements.
 
-**11** He measured the width of the entrance of the gate: ten cubits; and the length of the gate: thirteen cubits.
+**11** He measured the width of the entrance of the gate: 10 cubits; and the length of the gate: 13 cubits.
 
-**12** There was a barrier of one cubit in front of the alcoves, one cubit on either side; and the alcoves were six cubits on one side and six cubits on the other.
+**12** There was a barrier of 1 cubit in front of the alcoves, 1 cubit on either side; and the alcoves were 6 cubits on one side and 6 cubits on the other.
 
-**13** He measured the gate from the roof of one alcove to the roof of the other:[^40-11] the width was twenty-five cubits, from doorway to opposite doorway.
+**13** He measured the gate from the roof of one alcove to the roof of the other:[^40-11] the width was 25 cubits, from doorway to opposite doorway.
 
-**14** He made the jambs sixty cubits, and the gate reached all around to the jamb of the court.[^40-12]
+**14** He made the jambs 60 cubits, and the gate reached all around to the jamb of the court.[^40-12]
 
-**15** From the front of the entrance gate to the front of the porch of the inner gate was fifty cubits.
+**15** From the front of the entrance gate to the front of the porch of the inner gate was 50 cubits.
 
 **16** The alcoves and their jambs had narrow windows[^40-13] all around, on the inside of the gate, and so did the porches.[^40-14] There were windows all around on the inside, and on the jambs were palm trees.[^40-15]
 
@@ -3048,41 +3048,41 @@
 
 **18** The pavement ran beside the gates, corresponding to the length of the gates. This was the lower pavement.
 
-**19** Then he measured the distance from the front of the lower gate to the front of the inner court, outside: a hundred cubits, on the east and on the north.
+**19** Then he measured the distance from the front of the lower gate to the front of the inner court, outside: 100 cubits, on the east and on the north.
 
 **20** As for the gate of the outer court that faced north, he measured its length and its width.
 
-**21** Its alcoves, three on one side and three on the other, its jambs and its porches had the same measurements as the first gate: fifty cubits long and twenty-five cubits wide.
+**21** Its alcoves, three on one side and three on the other, its jambs and its porches had the same measurements as the first gate: 50 cubits long and 25 cubits wide.
 
 **22** Its windows, its porches and its palm trees had the same measurements as those of the gate that faced east. Seven steps led up to it, and its porches were in front of them.
 
-**23** The inner court had a gate opposite the north gate, as it had for the east gate. He measured from gate to gate: a hundred cubits.
+**23** The inner court had a gate opposite the north gate, as it had for the east gate. He measured from gate to gate: 100 cubits.
 
 **24** Then he led me toward the south, and there was a gate facing south. He measured its jambs and its porches; they had the same measurements as the others.
 
-**25** It and its porches had windows all around, like those other windows. It was fifty cubits long and twenty-five cubits wide.
+**25** It and its porches had windows all around, like those other windows. It was 50 cubits long and 25 cubits wide.
 
 **26** Seven steps led up to it, and its porches were in front of them. It had palm trees on its jambs, one on either side.
 
-**27** The inner court had a gate toward the south, and he measured from gate to gate toward the south: a hundred cubits.
+**27** The inner court had a gate toward the south, and he measured from gate to gate toward the south: 100 cubits.
 
 **28** Then he brought me into the inner court through the south gate, and he measured the south gate. It had the same measurements as the others.
 
-**29** Its alcoves, its jambs and its porches had the same measurements as the others. It and its porches had windows all around. It was fifty cubits long and twenty-five cubits wide.
+**29** Its alcoves, its jambs and its porches had the same measurements as the others. It and its porches had windows all around. It was 50 cubits long and 25 cubits wide.
 
-**30** There were porches all around, twenty-five cubits long and five cubits wide.[^40-16]
+**30** There were porches all around, 25 cubits long and 5 cubits wide.[^40-16]
 
 **31** Its porches faced the outer court, and there were palm trees on its jambs. Its stairway had eight steps.
 
 **32** Then he brought me into the inner court on the east side, and he measured the gate. It had the same measurements as the others.
 
-**33** Its alcoves, its jambs and its porches had the same measurements as the others. It and its porches had windows all around. It was fifty cubits long and twenty-five cubits wide.
+**33** Its alcoves, its jambs and its porches had the same measurements as the others. It and its porches had windows all around. It was 50 cubits long and 25 cubits wide.
 
 **34** Its porches faced the outer court, and there were palm trees on its jambs on either side. Its stairway had eight steps.
 
 **35** Then he brought me to the north gate, and he measured it. It had the same measurements as the others,
 
-**36** with its alcoves, its jambs and its porches, and it had windows all around. It was fifty cubits long and twenty-five cubits wide.
+**36** with its alcoves, its jambs and its porches, and it had windows all around. It was 50 cubits long and 25 cubits wide.
 
 **37** Its jambs faced the outer court, and there were palm trees on its jambs on either side. Its stairway had eight steps.
 
@@ -3094,9 +3094,9 @@
 
 **41** So there were four tables on one side and four tables on the other, beside the gate: eight tables on which they were to slaughter.
 
-**42** There were also four tables of dressed stone[^40-20] for the burnt offering, a cubit and a half long, a cubit and a half wide and a cubit high. On them they were to lay the instruments with which they slaughtered the burnt offering and the sacrifice.
+**42** There were also four tables of dressed stone[^40-20] for the burnt offering, 1½ cubits long, 1½ cubits wide and 1 cubit high. On them they were to lay the instruments with which they slaughtered the burnt offering and the sacrifice.
 
-**43** Hooks,[^40-21] a handbreadth long, were fastened all around on the inside, and the meat of the offering was to be laid on the tables.
+**43** Hooks,[^40-21] 1 handbreadth long, were fastened all around on the inside, and the meat of the offering was to be laid on the tables.
 
 **44** Outside the inner gate, in the inner court, were rooms for the singers,[^40-22] one beside the north gate, facing south, and one beside the east gate, facing north.
 
@@ -3104,11 +3104,11 @@
 
 **46** and the room that faces north is for the priests who have charge of the altar. These are the sons of Zadok,[^40-23] who alone among the sons of Levi may come near to the LORD to serve him."
 
-**47** He measured the court: a hundred cubits long and a hundred cubits wide, a square. The altar was in front of the house.
+**47** He measured the court: 100 cubits long and 100 cubits wide, a square. The altar was in front of the house.
 
-**48** Then he brought me to the porch of the house and measured the jambs of the porch: five cubits on one side and five cubits on the other. The width of the gate was three cubits on one side and three cubits on the other.[^40-24]
+**48** Then he brought me to the porch of the house and measured the jambs of the porch: 5 cubits on one side and 5 cubits on the other. The width of the gate was 3 cubits on one side and 3 cubits on the other.[^40-24]
 
-**49** The porch was twenty cubits long and eleven cubits wide, and it was reached by steps.[^40-25] There were pillars[^40-26] beside the jambs, one on either side.
+**49** The porch was 20 cubits long and 11 cubits wide, and it was reached by steps.[^40-25] There were pillars[^40-26] beside the jambs, one on either side.
 
 [^40-1]: In 573 BC, probably in April. *At the beginning of the year* (Hebrew *rosh hashanah*) probably means the first month, as in 45:18–21; the tenth day of that month was the day the Passover lamb was chosen (Exodus 12:3). The city had fallen in 586 BC (33:21).
 [^40-2]: *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles.
@@ -3121,7 +3121,7 @@
 [^40-9]: Hebrew *ulam*: an entrance hall or vestibule, as at Solomon's temple (1 Kings 6:3).
 [^40-10]: Hebrew *ayil*, probably the thick wall or pilaster on either side of a passage. The meaning is uncertain.
 [^40-11]: Literally "from the roof of the alcove to its roof". The width was probably measured from the back of an alcove on one side to the back of the alcove opposite.
-[^40-12]: The meaning of this verse is uncertain. Literally "And he made jambs, sixty cubits, and to the jamb of the court the gate all around, all around." Some take "he made" to mean "he measured". The Septuagint reads differently.
+[^40-12]: The meaning of this verse is uncertain. Literally "And he made jambs, 60 cubits, and to the jamb of the court the gate all around, all around." Some take "he made" to mean "he measured". The Septuagint reads differently.
 [^40-13]: Hebrew *atumot*, perhaps "narrow", "latticed" or "with recessed frames" (1 Kings 6:4). Also in 41:16, 26.
 [^40-14]: Hebrew *elammot*, plural of *elam*, another form of *ulam*, "porch". Also in verses 21–36.
 [^40-15]: Carved palm trees, as on the walls of Solomon's temple (1 Kings 6:29). Also in verses 22, 26, 31, 34 and 37.
@@ -3133,7 +3133,7 @@
 [^40-21]: Hebrew *shefattayim*, perhaps "double hooks" or "ledges". The meaning is uncertain.
 [^40-22]: The Septuagint reads "two rooms", and "the south gate" instead of "the east gate". The rooms in verses 45–46 are for priests.
 [^40-23]: Zadok was the priest whom Solomon made chief priest in place of Abiathar (1 Kings 2:35). In Ezekiel only his descendants may serve at the altar (43:19; 44:15–16).
-[^40-24]: The Septuagint adds "The width of the doorway was fourteen cubits", and reads "the side walls of the doorway of the porch were three cubits on one side and three cubits on the other".
+[^40-24]: The Septuagint adds "The width of the doorway was 14 cubits", and reads "the side walls of the doorway of the porch were 3 cubits on one side and 3 cubits on the other".
 [^40-25]: Literally "and by the steps by which they went up to it". The Septuagint reads "by ten steps".
 [^40-26]: Like the two bronze pillars that stood at the porch of Solomon's temple (1 Kings 7:15–22).
 
@@ -3141,35 +3141,35 @@
 
 *Status: draft*
 
-**1** Then he brought me into the main hall[^41-1] and measured the jambs:[^41-2] six cubits[^41-3] wide on one side and six cubits wide on the other, the width of the tent.[^41-4]
+**1** Then he brought me into the main hall[^41-1] and measured the jambs:[^41-2] 6 cubits[^41-3] wide on one side and 6 cubits wide on the other, the width of the tent.[^41-4]
 
-**2** The entrance was ten cubits wide, and the side walls of the entrance were five cubits on one side and five cubits on the other. He measured its length: forty cubits; and its width: twenty cubits.
+**2** The entrance was 10 cubits wide, and the side walls of the entrance were 5 cubits on one side and 5 cubits on the other. He measured its length: 40 cubits; and its width: 20 cubits.
 
-**3** Then he went inside and measured the jambs of the entrance: two cubits; the entrance: six cubits; and the width of the entrance: seven cubits.[^41-5]
+**3** Then he went inside and measured the jambs of the entrance: 2 cubits; the entrance: 6 cubits; and the width of the entrance: 7 cubits.[^41-5]
 
-**4** He measured its length: twenty cubits; and its width: twenty cubits, at the far end of the main hall. He said to me, "This is the most holy place."[^41-6]
+**4** He measured its length: 20 cubits; and its width: 20 cubits, at the far end of the main hall. He said to me, "This is the most holy place."[^41-6]
 
-**5** Then he measured the wall of the house:[^41-7] six cubits thick; and the width of the side rooms[^41-8] all around the house: four cubits.
+**5** Then he measured the wall of the house:[^41-7] 6 cubits thick; and the width of the side rooms[^41-8] all around the house: 4 cubits.
 
 **6** The side rooms were one above another, thirty-three of them.[^41-9] There were ledges in the wall of the house all around for the side rooms, so that they would be supported, but they were not fastened into the wall of the house.[^41-10]
 
 **7** The side rooms grew wider as they went around, story by story upward, for the structure around the house went up story by story all around the house. So the house was wider at the top, and one went up from the lowest story to the highest by way of the middle one.[^41-11]
 
-**8** I saw that the house had a raised platform all around. The foundations of the side rooms were a full reed, six cubits to the edge.[^41-12]
+**8** I saw that the house had a raised platform all around. The foundations of the side rooms were a full reed, 6 cubits to the edge.[^41-12]
 
-**9** The thickness of the outer wall of the side rooms was five cubits. There was an open area[^41-13] beside the side structure of the house.
+**9** The thickness of the outer wall of the side rooms was 5 cubits. There was an open area[^41-13] beside the side structure of the house.
 
-**10** Between the rooms there was a width of twenty cubits all around the house, on every side.[^41-14]
+**10** Between the rooms there was a width of 20 cubits all around the house, on every side.[^41-14]
 
-**11** The doorways of the side rooms opened onto the open area, one doorway toward the north and one doorway toward the south. The width of the open area was five cubits all around.
+**11** The doorways of the side rooms opened onto the open area, one doorway toward the north and one doorway toward the south. The width of the open area was 5 cubits all around.
 
-**12** The building that faced the separate yard[^41-15] on the west side[^41-16] was seventy cubits wide. The wall of the building was five cubits thick all around, and its length was ninety cubits.
+**12** The building that faced the separate yard[^41-15] on the west side[^41-16] was 70 cubits wide. The wall of the building was 5 cubits thick all around, and its length was 90 cubits.
 
-**13** Then he measured the house: a hundred cubits long; and the separate yard and the building with its walls: a hundred cubits long.
+**13** Then he measured the house: 100 cubits long; and the separate yard and the building with its walls: 100 cubits long.
 
-**14** The width of the front of the house and of the separate yard on the east was a hundred cubits.
+**14** The width of the front of the house and of the separate yard on the east was 100 cubits.
 
-**15** He measured the length of the building facing the separate yard at the back of the house, with its galleries[^41-17] on either side: a hundred cubits. The main hall, the inner room[^41-18] and the porches[^41-19] of the court,
+**15** He measured the length of the building facing the separate yard at the back of the house, with its galleries[^41-17] on either side: 100 cubits. The main hall, the inner room[^41-18] and the porches[^41-19] of the court,
 
 **16** the thresholds, the narrow windows[^41-20] and the galleries all around the three of them, opposite the threshold, were paneled with wood all around, from the floor up to the windows; and the windows were covered.
 
@@ -3183,7 +3183,7 @@
 
 **21** The doorposts of the main hall were square. In front of the holy place was something that looked like this:[^41-24]
 
-**22** an altar of wood, three cubits high and two cubits long, with its corners. Its length[^41-25] and its walls were of wood. He said to me, "This is the table[^41-26] that is before the LORD."[^41-27]
+**22** an altar of wood, 3 cubits high and 2 cubits long, with its corners. Its length[^41-25] and its walls were of wood. He said to me, "This is the table[^41-26] that is before the LORD."[^41-27]
 
 **23** The main hall and the holy place each had a double door.
 
@@ -3195,9 +3195,9 @@
 
 [^41-1]: Hebrew *heikhal*, "palace, temple": here the large main room of the temple, in front of the most holy place, as in Solomon's temple (1 Kings 6:3, 17). Traditionally "the temple" or "the nave".
 [^41-2]: Hebrew *elim*, probably the thick walls on either side of a passage (40:9). Also in verse 3.
-[^41-3]: The long cubit of 40:5, about 21 inches (53 cm). A reed (verse 8) was six such cubits, about 10½ feet (3.2 m).
+[^41-3]: The long cubit of 40:5, about 21 inches (53 cm). A reed (verse 8) was 6 such cubits, about 10½ feet (3.2 m).
 [^41-4]: Literally "the width of the tent". The meaning is uncertain.
-[^41-5]: The Septuagint reads "and the side walls of the entrance were seven cubits on either side".
+[^41-5]: The Septuagint reads "and the side walls of the entrance were 7 cubits on either side".
 [^41-6]: Literally "the holy of holies": the innermost room. Its measurements are those of the inner sanctuary of Solomon's temple (1 Kings 6:20).
 [^41-7]: That is, the temple, as throughout chapters 40–48.
 [^41-8]: Hebrew *tsela*, "rib, side": rooms built against the outside of the temple walls, as in Solomon's temple (1 Kings 6:5–10).
@@ -3206,7 +3206,7 @@
 [^41-11]: The meaning of this verse is uncertain. *The structure around* (Hebrew *musav*) may also mean a winding stair.
 [^41-12]: Hebrew *atsilah*, a word of uncertain meaning, perhaps "to the edge" or "to the joint".
 [^41-13]: Hebrew *munnach*, "what is left": a free space or terrace. Also in verse 11. The meaning of verses 9–11 is uncertain.
-[^41-14]: Probably the rooms in the courts (40:17; 42:1–14). The open space between them and the temple was twenty cubits wide.
+[^41-14]: Probably the rooms in the courts (40:17; 42:1–14). The open space between them and the temple was 20 cubits wide.
 [^41-15]: Hebrew *gizrah*, "cut-off area": an enclosed yard behind the temple, separated from the rest. Also in verses 13–15 and 42:1, 10, 13.
 [^41-16]: Literally "toward the sea", that is, the Mediterranean.
 [^41-17]: Hebrew *attiqim*, a word of uncertain meaning, perhaps "galleries", "terraces" or "passages". Also in verse 16 and 42:3, 5.
@@ -3217,7 +3217,7 @@
 [^41-22]: Hebrew *keruvim* (singular *keruv*, "cherub"): winged heavenly beings who guard holy places (Genesis 3:24; Exodus 25:18–22). Solomon's temple had carvings of cherubim and palm trees (1 Kings 6:29).
 [^41-23]: In the Hebrew text, dots are written over the word for "main hall", a scribal mark of doubt.
 [^41-24]: The meaning is uncertain. Literally "The main hall: a doorpost squared; and the front of the holy place: the appearance like the appearance." *The holy place* is probably the inner room (verse 4).
-[^41-25]: The Septuagint reads "two cubits long and two cubits wide", and "its base" for "its length".
+[^41-25]: The Septuagint reads "2 cubits long and 2 cubits wide", and "its base" for "its length".
 [^41-26]: Perhaps the table for the bread of the Presence (Exodus 25:23–30), or an altar of incense (Exodus 30:1–10), which stood in front of the inner room.
 [^41-27]: *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles.
 [^41-28]: Hebrew *av*, of uncertain meaning: perhaps a canopy, an overhang, or a threshold (1 Kings 7:6). Also in verse 26.
@@ -3228,19 +3228,19 @@
 
 **1** Then he brought me out into the outer court, by the way toward the north, and he brought me to the rooms opposite the separate yard[^42-1] and opposite the building on the north.
 
-**2** Their length along the front, where the doorway faced north, was a hundred cubits,[^42-2] and the width was fifty cubits.[^42-3]
+**2** Their length along the front, where the doorway faced north, was 100 cubits,[^42-2] and the width was 50 cubits.[^42-3]
 
-**3** Opposite the twenty cubits that belonged to the inner court,[^42-4] and opposite the pavement that belonged to the outer court, was gallery[^42-5] facing gallery, in three stories.
+**3** Opposite the 20 cubits that belonged to the inner court,[^42-4] and opposite the pavement that belonged to the outer court, was gallery[^42-5] facing gallery, in three stories.
 
-**4** In front of the rooms was a passage ten cubits wide, on the inner side, a way of one cubit,[^42-6] and their doorways were on the north.
+**4** In front of the rooms was a passage 10 cubits wide, on the inner side, a way of 1 cubit,[^42-6] and their doorways were on the north.
 
 **5** The upper rooms were narrower, for the galleries took more space from them than from the lower and the middle rooms of the building.
 
 **6** For they were in three stories and had no pillars like the pillars of the courts. So the upper rooms were set back from the ground more than the lower and the middle ones.
 
-**7** There was an outer wall parallel to the rooms, toward the outer court, in front of the rooms; it was fifty cubits long.
+**7** There was an outer wall parallel to the rooms, toward the outer court, in front of the rooms; it was 50 cubits long.
 
-**8** For the rooms on the side of the outer court were fifty cubits long, while those facing the main hall[^42-7] were a hundred cubits.
+**8** For the rooms on the side of the outer court were 50 cubits long, while those facing the main hall[^42-7] were 100 cubits.
 
 **9** Below these rooms was the entryway from the east, as one enters them from the outer court.
 
@@ -3256,33 +3256,33 @@
 
 **15** When he had finished measuring the inner house,[^42-15] he brought me out by the gate that faced east and measured the area all around.
 
-**16** He measured the east side[^42-16] with the measuring reed: five hundred reeds[^42-17] by the measuring reed, all around.
+**16** He measured the east side[^42-16] with the measuring reed: 500 reeds[^42-17] by the measuring reed, all around.
 
-**17** He measured the north side: five hundred reeds by the measuring reed, all around.
+**17** He measured the north side: 500 reeds by the measuring reed, all around.
 
-**18** He measured the south side: five hundred reeds by the measuring reed.
+**18** He measured the south side: 500 reeds by the measuring reed.
 
-**19** He turned to the west side and measured: five hundred reeds by the measuring reed.
+**19** He turned to the west side and measured: 500 reeds by the measuring reed.
 
-**20** He measured it on the four sides. It had a wall all around, five hundred long and five hundred wide, to separate the holy from the common.
+**20** He measured it on the four sides. It had a wall all around, 500 long and 500 wide, to separate the holy from the common.
 
 [^42-1]: Hebrew *gizrah*, "cut-off area": the enclosed yard behind the temple (41:12). Also in verses 10 and 13.
-[^42-2]: The long cubit of 40:5, about 21 inches (53 cm). A reed (verse 16) was six such cubits, about 10½ feet (3.2 m).
-[^42-3]: The meaning of the Hebrew is uncertain. Literally "To the face of the length of the hundred cubits, the doorway of the north, and the width fifty cubits."
-[^42-4]: The open space of twenty cubits around the temple (41:10).
+[^42-2]: The long cubit of 40:5, about 21 inches (53 cm). A reed (verse 16) was 6 such cubits, about 10½ feet (3.2 m).
+[^42-3]: The meaning of the Hebrew is uncertain. Literally "To the face of the length of the 100 cubits, the doorway of the north, and the width 50 cubits."
+[^42-4]: The open space of 20 cubits around the temple (41:10).
 [^42-5]: Hebrew *attiq*, a word of uncertain meaning, perhaps "gallery", "terrace" or "passage" (41:15). Also in verse 5.
-[^42-6]: The Septuagint and the Syriac read "a hundred cubits long".
+[^42-6]: The Septuagint and the Syriac read "100 cubits long".
 [^42-7]: Hebrew *heikhal*, the main room of the temple (41:1).
 [^42-8]: The Septuagint reads "toward the south", which fits verses 12–13.
 [^42-9]: Hebrew *haginah*, a word found only here, perhaps "matching". The meaning of this verse is uncertain.
 [^42-10]: *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles.
-[^42-11]: Literally "the holy things of the holy things": the offerings of the highest degree of holiness, which only the priests could eat, and only in a holy place (Leviticus 6:9–11, 6:16–18 in most English Bibles).
+[^42-11]: Literally "the holy things of the holy things": the offerings of the highest degree of holiness, which only the priests could eat, and only in a holy place (Leviticus 6:9–11; 6:16–18 in most English Bibles).
 [^42-12]: Hebrew *minchah*, "gift, tribute": an offering of flour or grain (Leviticus 2).
 [^42-13]: Hebrew *chatta't*. Or "purification offering" (40:39).
 [^42-14]: Hebrew *asham*, perhaps "reparation offering" (40:39).
 [^42-15]: That is, the temple area inside the outer wall (40:5).
 [^42-16]: Hebrew *ruach*, "wind", here a direction or side. Also in verses 17–20.
-[^42-17]: The Hebrew text is written "five cubits" but read "five hundred". Five hundred reeds would be 3,000 cubits, nearly a mile (1.6 km). Many think five hundred cubits are meant here, as in 45:2: about 875 feet (265 m).
+[^42-17]: The Hebrew text is written "5 cubits" but read "500". A side of 500 reeds would be 3,000 cubits, nearly a mile (1.6 km). Many think 500 cubits are meant here, as in 45:2: about 875 feet (265 m).
 
 ## Chapter 43
 
@@ -3312,15 +3312,15 @@
 
 **12** This is the law of the house: on the top of the mountain, the whole area all around will be most holy. Yes, this is the law of the house."
 
-**13** These are the measurements of the altar in cubits, the cubit being a cubit and a handbreadth:[^43-14] its base is a cubit deep and a cubit wide, with a rim of one span[^43-15] around its edge. And this is the height[^43-16] of the altar:
+**13** These are the measurements of the altar in cubits, the cubit being a cubit and a handbreadth:[^43-14] its base is 1 cubit deep and 1 cubit wide, with a rim of 1 span[^43-15] around its edge. And this is the height[^43-16] of the altar:
 
-**14** From the base on the ground to the lower ledge it is two cubits, and the width is one cubit; and from the smaller ledge to the larger ledge it is four cubits, and the width is one cubit.
+**14** From the base on the ground to the lower ledge it is 2 cubits, and the width is 1 cubit; and from the smaller ledge to the larger ledge it is 4 cubits, and the width is 1 cubit.
 
-**15** The altar hearth[^43-17] is four cubits high, and from the hearth four horns[^43-18] project upward.
+**15** The altar hearth[^43-17] is 4 cubits high, and from the hearth four horns[^43-18] project upward.
 
-**16** The altar hearth is square, twelve cubits long and twelve wide, square on its four sides.
+**16** The altar hearth is square, 12 cubits long and 12 wide, square on its four sides.
 
-**17** The ledge is square, fourteen cubits long and fourteen wide on its four sides, with a rim around it of half a cubit, and its base is a cubit all around. Its steps face east.
+**17** The ledge is square, 14 cubits long and 14 wide on its four sides, with a rim around it of ½ cubit, and its base is 1 cubit all around. Its steps face east.
 
 **18** Then he said to me, "Son of man, this is what the Lord GOD[^43-19] says: These are the decrees for the altar on the day it is made, for offering burnt offerings[^43-20] on it and for splashing blood against it.
 
@@ -3356,7 +3356,7 @@
 [^43-12]: Hebrew *tokhnit*, "measurement, pattern" (28:12).
 [^43-13]: The Hebrew text is written "all its law" but read "all its laws".
 [^43-14]: The long cubit of 40:5, about 21 inches (53 cm).
-[^43-15]: Hebrew *zeret*, the span of the hand, half a cubit: here about 10½ inches (27 cm).
+[^43-15]: Hebrew *zeret*, the span of the hand, ½ cubit: here about 10½ inches (27 cm).
 [^43-16]: Hebrew *gav*, "back", here perhaps the base or the height. The meaning is uncertain.
 [^43-17]: Hebrew *har'el* here and *ari'el* later in this verse and in verse 16: probably the hearth on top of the altar, where the fire burned. *Har'el* sounds like "mountain of God", and *ari'el* like "lion of God" (compare Isaiah 29:1).
 [^43-18]: The projections at the four corners of the altar (Exodus 27:2).
@@ -3453,7 +3453,7 @@
 [^44-14]: Literally "I have lifted my hand", the gesture of one who swears an oath (20:5).
 [^44-15]: See 40:46. The other Levites had served at the local shrines, the high places, before Josiah's reform (2 Kings 23:8–9).
 [^44-16]: Hebrew *pe'er*, a headdress, the word used for the priests' caps in Exodus 39:28.
-[^44-17]: That is, pass on holiness to the people by contact (Exodus 29:37; 30:29; Leviticus 6:20, 6:27 in most English Bibles).
+[^44-17]: That is, pass on holiness to the people by contact (Exodus 29:37; 30:29; Leviticus 6:20; 6:27 in most English Bibles).
 [^44-18]: Literally "He". The Hebrew moves between singular and plural in verses 25–27.
 [^44-19]: Hebrew *chatta't*. Or "purification offering" (40:39). Also in verse 29.
 [^44-20]: Hebrew *minchah*, "gift, tribute": an offering of flour or grain (Leviticus 2).
@@ -3488,11 +3488,11 @@
 
 **11** The ephah and the bath are to be the same size, the bath holding a tenth of a homer and the ephah a tenth of a homer. The homer[^45-12] is to be the standard measure for both.
 
-**12** The shekel is to be twenty gerahs. Twenty shekels, twenty-five shekels and fifteen shekels are to be your mina.[^45-13]
+**12** The shekel is to be 20 gerahs, and your mina is to be 20 shekels, 25 shekels and 15 shekels.[^45-13]
 
 **13** This is the contribution you are to present: a sixth of an ephah from each homer of wheat, and a sixth of an ephah from each homer of barley.
 
-**14** The prescribed portion of oil, measured by the bath, is a tenth of a bath from each kor.[^45-14] Ten baths make a homer, for ten baths are a homer.
+**14** The prescribed portion of oil, measured by the bath, is a tenth of a bath from each kor.[^45-14] A homer is 10 baths, for 10 baths are a homer.
 
 **15** And one sheep is to be given from every flock of two hundred, from the well-watered pastures of Israel, for grain offerings,[^45-15] burnt offerings[^45-16] and fellowship offerings,[^45-17] to make atonement[^45-18] for the people, declares the Lord GOD.
 
@@ -3506,7 +3506,7 @@
 
 **20** You are to do the same on the seventh day of the month[^45-22] for anyone who sins unintentionally or through ignorance. So you will make atonement for the house.
 
-**21** In the first month, on the fourteenth day of the month, you are to celebrate the Passover, a festival lasting a week,[^45-23] when unleavened bread is to be eaten.
+**21** In the first month, on the fourteenth day of the month, you are to celebrate the Passover, a festival lasting a week,[^45-23] when bread made without yeast is to be eaten.
 
 **22** On that day the prince is to provide, for himself and for all the people of the land, a bull as a sin offering.
 
@@ -3518,7 +3518,7 @@
 
 [^45-1]: Hebrew *terumah*: something set apart and given for a sacred purpose (44:30). Also in verses 6, 7, 13 and 16, and in chapter 48.
 [^45-2]: *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles.
-[^45-3]: The unit is not given; probably the long cubit of 40:5, so that the area was about 8 miles by 3 miles (13 by 5.3 km). The Septuagint reads "twenty thousand wide", which fits verses 3–5 and 48:8–13. The area is described again in 48:8–22.
+[^45-3]: The unit is not given; probably the long cubit of 40:5, so that the area was about 8 miles by 3 miles (13 by 5.3 km). The Septuagint reads "20,000 wide", which fits verses 3–5 and 48:8–13. The area is described again in 48:8–22.
 [^45-4]: The long cubit of 40:5, about 21 inches (53 cm).
 [^45-5]: That is, the temple, as throughout chapters 40–48.
 [^45-6]: The Septuagint reads "for cities to live in".
@@ -3528,7 +3528,7 @@
 [^45-10]: Literally "Lift your evictions from my people".
 [^45-11]: The ephah, a dry measure, and the bath, a liquid measure, were the same size (verse 11): probably about 22 liters, two-thirds of a bushel or about 6 gallons.
 [^45-12]: A homer was probably about 220 liters (6 bushels). The word means "donkey-load".
-[^45-13]: Together sixty shekels. A shekel was about 2/5 ounce (11.5 grams) and a gerah about 1/50 ounce (0.6 gram), so this mina was about 1½ pounds (690 grams).
+[^45-13]: Together 60 shekels. A shekel was about ⅖ ounce (11.5 grams) and a gerah about 1/50 ounce (0.6 gram), so this mina was about 1½ pounds (690 grams).
 [^45-14]: A kor was the same size as a homer, about 220 liters.
 [^45-15]: Hebrew *minchah*, "gift, tribute": an offering of flour or grain (Leviticus 2). Also in verses 17, 24 and 25.
 [^45-16]: Hebrew *olah*: an animal burned whole on the altar (40:38; Leviticus 1).
@@ -3588,7 +3588,7 @@
 
 **21** Then he brought me out into the outer court and led me around to the four corners of the court, and in each corner of the court there was a court.
 
-**22** In the four corners of the court were enclosed courts,[^46-14] forty long and thirty wide.[^46-15] The four corner courts had the same measurements.[^46-16]
+**22** In the four corners of the court were enclosed courts,[^46-14] 40 long and 30 wide.[^46-15] The four corner courts had the same measurements.[^46-16]
 
 **23** Around each of the four of them was a row of stonework, and hearths for cooking were built under the rows all around.
 
@@ -3620,11 +3620,11 @@
 
 **2** He brought me out by way of the north gate and led me around on the outside to the outer gate that faces east, and there the water was trickling out from the south side.
 
-**3** As the man went out toward the east with a measuring line in his hand, he measured a thousand cubits[^47-3] and led me through the water, and it was ankle-deep.
+**3** As the man went out toward the east with a measuring line in his hand, he measured 1,000 cubits[^47-3] and led me through the water, and it was ankle-deep.
 
-**4** He measured another thousand and led me through the water, and it was knee-deep. He measured another thousand and led me through, and it was waist-deep.
+**4** He measured another 1,000 and led me through the water, and it was knee-deep. He measured another 1,000 and led me through, and it was waist-deep.
 
-**5** He measured another thousand, and it was a river that I could not cross, for the water had risen. It was deep enough to swim in, a river that could not be crossed.
+**5** He measured another 1,000, and it was a river that I could not cross, for the water had risen. It was deep enough to swim in, a river that could not be crossed.
 
 **6** He said to me, "Son of man,[^47-4] have you seen this?" Then he led me back along the bank of the river.
 
@@ -3664,7 +3664,7 @@
 
 [^47-1]: That is, the temple, as throughout chapters 40–48.
 [^47-2]: Literally "the right side". Directions were given facing east, so the right side is the south. Also in verse 2.
-[^47-3]: The long cubit of 40:5, about 21 inches (53 cm), so a thousand cubits was about a third of a mile (530 m).
+[^47-3]: The long cubit of 40:5, about 21 inches (53 cm), so 1,000 cubits was about a third of a mile (530 m).
 [^47-4]: Hebrew *ben adam*, "son of man": a human being, a mortal.
 [^47-5]: The deep rift valley of the Jordan and the Dead Sea.
 [^47-6]: Literally "into the sea, the ones brought out". The meaning is uncertain. *The sea* is the Dead Sea, whose water is too salty for fish to live in it.

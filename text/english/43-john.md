@@ -59,7 +59,7 @@
 
 **26** John answered them, "I baptize with water. Standing among you is someone you do not know.
 
-**27** He is the one who comes after me. I am not worthy to untie the strap of his sandal."
+**27** He is the one who comes after me. I am not worthy to untie the strap of his sandal."[^1-19]
 
 **28** This happened in Bethany on the other side of the Jordan, where John was baptizing.
 
@@ -73,7 +73,7 @@
 
 **33** I did not know him myself, but the one who sent me to baptize with water told me, 'When you see the Spirit come down and remain on someone, he is the one who baptizes with the Holy Spirit.'
 
-**34** I have seen it, and I testify that this is God's Chosen One."[^1-19]
+**34** I have seen it, and I testify that this is God's Chosen One."[^1-20]
 
 **35** The next day John was standing there again with two of his disciples.
 
@@ -83,13 +83,13 @@
 
 **38** Jesus turned around, saw them following, and asked them, "What are you looking for?" They said to him, "Rabbi" (which means Teacher), "where are you staying?"
 
-**39** He said to them, "Come, and you will see." So they went and saw where he was staying, and they stayed with him that day. It was about four in the afternoon.[^1-20]
+**39** He said to them, "Come, and you will see." So they went and saw where he was staying, and they stayed with him that day. It was about four in the afternoon.[^1-21]
 
 **40** Andrew, the brother of Simon Peter, was one of the two who heard what John said and followed Jesus.
 
-**41** The first thing Andrew did was find his brother Simon and tell him, "We have found the Messiah" (which means the Anointed One).[^1-21]
+**41** The first thing Andrew did was find his brother Simon and tell him, "We have found the Messiah" (which means the Anointed One).[^1-22]
 
-**42** He brought Simon to Jesus. Jesus looked at him and said, "You are Simon son of John. You will be called Cephas" (which means Peter).[^1-22]
+**42** He brought Simon to Jesus. Jesus looked at him and said, "You are Simon son of John. You will be called Cephas" (which means Peter).[^1-23]
 
 **43** The next day Jesus decided to go to Galilee. He found Philip and said to him, "Follow me."
 
@@ -107,7 +107,7 @@
 
 **50** Jesus answered him, "Do you believe because I told you I saw you under the fig tree? You will see greater things than that."
 
-**51** Then he said to him, "Truly, truly, I tell you all:[^1-23] you will see heaven opened, and the angels of God going up and coming down on the Son of Man."
+**51** Then he said to him, "Truly, truly, I tell you all:[^1-24] you will see heaven opened, and the angels of God going up and coming down on the Son of Man."
 
 [^1-1]: *Word*: Greek *logos*, "word, message, reason". John uses it as a title for the one who becomes the man Jesus (verse 14). *With God*: or "in the presence of God".
 [^1-2]: The SBLGNT, like most modern editions, begins this sentence with the last words of verse 3 ("what has come into being"). Many translations instead end verse 3 with them: "Without him nothing came into being that has come into being. In him was life …"
@@ -127,11 +127,12 @@
 [^1-16]: The prophet like Moses promised in Deuteronomy 18:15–18.
 [^1-17]: Isaiah 40:3. In Isaiah's Hebrew, "the Lord" is God's personal name, YHWH ("the LORD").
 [^1-18]: Or "Some Pharisees had been sent."
-[^1-19]: The SBLGNT reads "the Chosen One of God", following a reading given in the margin of Westcott and Hort. The other editions, and many manuscripts, read "the Son of God".
-[^1-20]: Literally "about the tenth hour", counting hours from sunrise.
-[^1-21]: Literally "which, translated, is *Christos*". *Messiah* (Hebrew and Aramaic) and *Christos* (Greek) both mean "anointed one".
-[^1-22]: *Cephas* (Aramaic) and *Peter* (Greek) both mean "rock".
-[^1-23]: "You" is plural in Greek. *Truly, truly*: Greek *amen amen*, a solemn affirmation.
+[^1-19]: Many manuscripts read "He is the one who comes after me, who ranks ahead of me".
+[^1-20]: The SBLGNT reads "the Chosen One of God", following a reading given in the margin of Westcott and Hort. The other editions, and many manuscripts, read "the Son of God".
+[^1-21]: Literally "about the tenth hour", counting hours from sunrise.
+[^1-22]: Literally "which, translated, is *Christos*". *Messiah* (Hebrew and Aramaic) and *Christos* (Greek) both mean "anointed one".
+[^1-23]: *Cephas* (Aramaic) and *Peter* (Greek) both mean "rock".
+[^1-24]: "You" is plural in Greek. *Truly, truly*: Greek *amen amen*, a solemn affirmation. Many manuscripts read "from now on you will see".
 
 ## Chapter 2
 
@@ -842,7 +843,7 @@
 [^7-14]: The prophet like Moses promised in Deuteronomy 18:15–18; see 1:21.
 [^7-15]: Literally "the seed".
 [^7-16]: See 2 Samuel 7:12; Psalm 89:4–5 (89:3–4 in most English Bibles); Micah 5:1 (5:2 in most English Bibles).
-[^7-17]: Literally "Never has a man spoken like this."
+[^7-17]: Literally "Never has a man spoken like this." Many manuscripts read "No one ever spoke like this man."
 [^7-18]: Many manuscripts read "no prophet has arisen from Galilee".
 [^7-19]: The passage in double brackets ⟦ ⟧, John 7:53–8:11 (the woman caught in adultery), is not in the earliest manuscripts of John, including the papyri P66 and P75 and Codex Sinaiticus and Codex Vaticanus (4th century). Where later manuscripts include it, it usually stands here, but some place it after John 7:36, 7:44 or 21:25, or after Luke 21:38, and some mark it as doubtful. Its vocabulary and style differ from the rest of John. The SBLGNT prints it in double brackets, as a later addition to the Gospel; this translation does the same. Many scholars think it preserves an early story about Jesus that circulated on its own.
 
@@ -1120,7 +1121,7 @@
 
 **13** He runs away because he is a hired man and does not care about the sheep.
 
-**14** I am the good shepherd. I know my own, and my own know me,
+**14** I am the good shepherd. I know my own, and my own know me,[^10-6]
 
 **15** just as the Father knows me and I know the Father. And I lay down my life for the sheep.
 
@@ -1128,47 +1129,47 @@
 
 **17** This is why the Father loves me: because I lay down my life so that I may take it up again.
 
-**18** No one takes it[^10-6] from me, but I lay it down of my own accord. I have authority to lay it down, and I have authority to take it up again. This command I received from my Father."
+**18** No one takes it[^10-7] from me, but I lay it down of my own accord. I have authority to lay it down, and I have authority to take it up again. This command I received from my Father."
 
-**19** Again there was a division among the Jews[^10-7] because of these words.
+**19** Again there was a division among the Jews[^10-8] because of these words.
 
 **20** Many of them were saying, "He has a demon and is out of his mind. Why do you listen to him?"
 
 **21** Others were saying, "These are not the words of someone possessed by a demon. Can a demon open the eyes of the blind?"
 
-**22** Then came the Festival of Dedication[^10-8] in Jerusalem. It was winter,
+**22** Then came the Festival of Dedication[^10-9] in Jerusalem. It was winter,
 
-**23** and Jesus was walking in the temple, in Solomon's Colonnade.[^10-9]
+**23** and Jesus was walking in the temple, in Solomon's Colonnade.[^10-10]
 
-**24** So the Jews gathered around him and said to him, "How long will you keep us in suspense?[^10-10] If you are the Messiah, tell us plainly."
+**24** So the Jews gathered around him and said to him, "How long will you keep us in suspense?[^10-11] If you are the Messiah, tell us plainly."
 
 **25** Jesus answered them, "I told you, and you do not believe. The works that I do in my Father's name testify about me.
 
-**26** But you do not believe, because you are not among my sheep.[^10-11]
+**26** But you do not believe, because you are not among my sheep.[^10-12]
 
 **27** My sheep listen to my voice. I know them, and they follow me.
 
 **28** I give them eternal life, and they will never perish. No one will snatch them out of my hand.
 
-**29** My Father, in what he has given me, is greater than all,[^10-12] and no one can snatch them out of the Father's hand.
+**29** My Father, in what he has given me, is greater than all,[^10-13] and no one can snatch them out of the Father's hand.
 
-**30** I and the Father are one."[^10-13]
+**30** I and the Father are one."[^10-14]
 
 **31** Again the Jews picked up stones to stone him.
 
 **32** Jesus answered them, "I have shown you many good works from the Father. For which of these works are you going to stone me?"
 
-**33** The Jews answered him, "We are not stoning you for a good work, but for blasphemy, because you, a man, are making yourself God."[^10-14]
+**33** The Jews answered him, "We are not stoning you for a good work, but for blasphemy, because you, a man, are making yourself God."[^10-15]
 
-**34** Jesus answered them, "Is it not written in your law, 'I said, "You are gods"'?[^10-15]
+**34** Jesus answered them, "Is it not written in your law, 'I said, "You are gods"'?[^10-16]
 
-**35** If he called them gods to whom the word of God came (and scripture cannot be set aside),[^10-16]
+**35** If he called them gods to whom the word of God came (and scripture cannot be set aside),[^10-17]
 
 **36** do you say of the one whom the Father consecrated and sent into the world, 'You are blaspheming,' because I said, 'I am the Son of God'?
 
 **37** If I am not doing the works of my Father, do not believe me.
 
-**38** But if I am doing them, even if you do not believe me, believe the works, so that you may know and understand[^10-17] that the Father is in me and I am in the Father."
+**38** But if I am doing them, even if you do not believe me, believe the works, so that you may know and understand[^10-18] that the Father is in me and I am in the Father."
 
 **39** Again they tried to seize him, but he escaped from their hands.
 
@@ -1183,18 +1184,19 @@
 [^10-3]: Or "the door"; also in verses 1–2 and 9. See the note on 6:35.
 [^10-4]: Many manuscripts leave out "before me".
 [^10-5]: Greek *kalos*, "good, noble, fine"; also in verse 14.
-[^10-6]: Some manuscripts read "No one has taken it".
-[^10-7]: Greek *hoi Ioudaioi*. Here Jesus' hearers in Jerusalem, among them the Pharisees of 9:40. In verses 24, 31 and 33 they are his opponents in the temple.
-[^10-8]: Greek *enkainia*, "renewal, dedication": the winter festival (Hanukkah) that celebrated the rededication of the temple in 164 BC, after the Syrian king Antiochus IV had defiled it (1 Maccabees 4:36–59).
-[^10-9]: A covered walkway with columns along the east side of the temple courts (see Acts 3:11).
-[^10-10]: Literally "How long will you take away our life?" or "lift up our soul", that is, keep us in doubt.
-[^10-11]: Many manuscripts add "as I told you".
-[^10-12]: The SBLGNT here follows a reading given in the margin of Westcott and Hort; literally "My Father, what he has given me, is greater than all". Some manuscripts read "What my Father has given me is greater than all." Many manuscripts read "My Father, who has given them to me, is greater than all."
-[^10-13]: Greek *hen*, neuter: literally "one thing".
-[^10-14]: Or "a god".
-[^10-15]: Psalm 82:6.
-[^10-16]: Literally "cannot be loosed", that is, cannot be annulled.
-[^10-17]: Many manuscripts read "know and believe".
+[^10-6]: Many manuscripts read "and I am known by my own".
+[^10-7]: Some manuscripts read "No one has taken it".
+[^10-8]: Greek *hoi Ioudaioi*. Here Jesus' hearers in Jerusalem, among them the Pharisees of 9:40. In verses 24, 31 and 33 they are his opponents in the temple.
+[^10-9]: Greek *enkainia*, "renewal, dedication": the winter festival (Hanukkah) that celebrated the rededication of the temple in 164 BC, after the Syrian king Antiochus IV had defiled it (1 Maccabees 4:36–59).
+[^10-10]: A covered walkway with columns along the east side of the temple courts (see Acts 3:11).
+[^10-11]: Literally "How long will you take away our life?" or "lift up our soul", that is, keep us in doubt.
+[^10-12]: Many manuscripts add "as I told you".
+[^10-13]: The SBLGNT here follows a reading given in the margin of Westcott and Hort; literally "My Father, what he has given me, is greater than all". Some manuscripts read "What my Father has given me is greater than all." Many manuscripts read "My Father, who has given them to me, is greater than all."
+[^10-14]: Greek *hen*, neuter: literally "one thing".
+[^10-15]: Or "a god".
+[^10-16]: Psalm 82:6.
+[^10-17]: Literally "cannot be loosed", that is, cannot be annulled.
+[^10-18]: Many manuscripts read "know and believe".
 
 ## Chapter 11
 
@@ -1905,7 +1907,7 @@
 
 **32** This was to fulfill the word Jesus had spoken when he indicated what kind of death he was going to die.[^18-13]
 
-**33** Then Pilate went back into the Praetorium, called Jesus, and said to him, "Are you the King of the Jews?"
+**33** Then Pilate went back into the Praetorium, called Jesus, and said to him, "Are you the king of the Jews?"
 
 **34** Jesus answered, "Are you saying this on your own, or did others tell you about me?"
 
@@ -1917,7 +1919,7 @@
 
 **38** Pilate said to him, "What is truth?" After saying this, he went out again to the Jews and said to them, "I find no grounds for a charge against him.
 
-**39** But you have a custom that I release one man for you at the Passover. So do you want me to release for you the King of the Jews?"
+**39** But you have a custom that I release one man for you at the Passover. So do you want me to release for you the king of the Jews?"
 
 **40** They shouted back, "Not this man, but Barabbas!" Now Barabbas was a robber.[^18-16]
 
@@ -1927,7 +1929,7 @@
 [^18-4]: See 6:39; 17:12.
 [^18-5]: Or "slave". Greek *doulos*; also in verses 18 and 26.
 [^18-6]: Greek *chiliarchos*, "commander of a thousand", a Roman officer.
-[^18-7]: Greek *hoi Ioudaioi*. In the account of Jesus' arrest and trial the word refers to the Jewish authorities in Jerusalem, the chief priests and their officers (verses 3 and 35), except in the title "King of the Jews" and in verse 20, where it means the Jewish people as a whole.
+[^18-7]: Greek *hoi Ioudaioi*. In the account of Jesus' arrest and trial the word refers to the Jewish authorities in Jerusalem, the chief priests and their officers (verses 3 and 35), except in the phrase "king of the Jews" and in verse 20, where it means the Jewish people as a whole.
 [^18-8]: Annas had been high priest from AD 6 to 15, and five of his sons held the office after him. Caiaphas was high priest from about AD 18 to 36.
 [^18-9]: See 11:49–50.
 [^18-10]: Greek *ouk eimi*, also in verse 25; compare Jesus' *ego eimi*, "I am he", in verses 5–8.
@@ -1946,7 +1948,7 @@
 
 **2** The soldiers twisted together a crown of thorns and put it on his head, and they put a purple robe on him.
 
-**3** They kept coming up to him and saying, "Hail, King of the Jews!" and they struck him in the face.
+**3** They kept coming up to him and saying, "Hail, king of the Jews!" and they struck him in the face.
 
 **4** Pilate went out again and said to them, "Look, I am bringing him out to you, so that you may know that I find no grounds for a charge against him."
 
@@ -1982,7 +1984,7 @@
 
 **20** Many of the Jews read this notice, because the place where Jesus was crucified was near the city, and it was written in Hebrew, Latin, and Greek.
 
-**21** So the chief priests of the Jews said to Pilate, "Do not write, 'The King of the Jews,' but, 'This man said, "I am King of the Jews."'"
+**21** So the chief priests of the Jews said to Pilate, "Do not write, 'The King of the Jews,' but, 'This man said, "I am king of the Jews."'"
 
 **22** Pilate answered, "What I have written, I have written."
 

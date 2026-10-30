@@ -112,6 +112,29 @@ Decisions marked **proposed** are used in the pilot and are open for review.
 | πνεῦμα ἀκάθαρτον | unclean spirit | |
 | ἐπίσκοπος, πρεσβύτερος, διάκονος | overseer, elder, servant | "Deacon" where the context is an office (Philippians 1:1, 1 Timothy 3). |
 
+### Decided in the October 2026 review
+
+| Source | Rendering | Notes |
+|---|---|---|
+| מִקְרָא קֹדֶשׁ | holy assembly | Not "sacred assembly". |
+| מַצּוֹת | bread made without yeast | Not "unleavened bread"; the festival is the Festival of Bread Made without Yeast. |
+| מַחְתָּה | firepan | A tray for carrying coals; not "censer". |
+| שֵׁכָר | beer | Noted at its first occurrence in a book: "Or 'fermented drink'; brewed from grain". |
+| שְׁלָמִים | fellowship offering | Also where זֶבַח שְׁלָמִים is shortened to "sacrifice" in the same passage. |
+| חֻקִּים וּמִשְׁפָּטִים (Numbers) | decrees and rulings | As in the rest of the Torah and the glossary (חֹק "decree", מִשְׁפָּט "ruling"). |
+| שְׁפֵלָה | the Shephelah | Noted at its first occurrence in a book: "The low hills between the coastal plain and the hill country of Judah". |
+| עָוֹן | guilt | In Lamentations as in Jeremiah. |
+| הוֹי (a cry of mourning) | Ah | As in the glossary, in Jeremiah too ("Alas" is not used). |
+| חַי־יְהוָה | As surely as the LORD lives | Not "As the LORD lives". |
+| שָׁאַל בַּיהוָה | inquired of the LORD | Not "asked the LORD". |
+| בַּת־צִיּוֹן (and Babylon, Egypt, Sidon) | Daughter Zion | Capital D where it is a title for the city; "the daughter of Zion" only where it describes. |
+| ὁ βασιλεὺς τῶν Ἰουδαίων | the king of the Jews | Lowercase in all four Gospels, except the inscription on the cross, a title: "THE KING OF THE JEWS". |
+| ὁ Χριστός (Hebrews) | the Messiah / Christ | "The Messiah" where the article stresses the title (3:14, 5:5); "Christ" where it serves as a name. |
+| אִמְרָה (outside Psalm 119) | word; promise where the context is a promise | Psalm 138:2 "promise"; 147:15 "word". |
+| ἀδελφοί | brothers and sisters / brothers | As in the glossary: Acts 3:17 and 1 Timothy 6:2 "brothers and sisters"; Acts 9:30 "brothers". |
+| A shekel's weight | ⅖ ounce | With the fraction character, in notes. |
+| An English verse number inside parentheses | (Psalm 89:11; 89:10 in most English Bibles) | A semicolon before the English number. |
+
 ## Translator's checklist
 
 These rules come from drafting the Gospel of Mark. Every chapter follows them.
@@ -159,8 +182,10 @@ from the Hebrew.
   "1,775 shekels", "46,500", "120,000"). Never "eleven hundred" or "seventeen hundred". In a census, list, battle tally or calculation where some
   numbers need digits, all of its numbers are digits (Numbers 1, Judges 20, Ezra 2). Numbers
   counted together in one sentence form such a list: "1,400 chariots and 12,000 horsemen". In a
-  passage of measurements (Exodus 26, Ezekiel 40–48) every measurement is in digits, while counts
-  of other things ("three gates") follow the general rule. Where the Hebrew gives a measurement
+  long passage of measurements (the tabernacle, Exodus 25–27, 30 and 36–38; the temple, 1 Kings
+  6–7 and 2 Chronicles 3–4; Ezekiel 40–48) every measurement is in digits, while counts of other things ("three gates")
+  follow the general rule. A single measurement in a narrative (the ark, Genesis 6:15) follows
+  the general rule. Where the Hebrew gives a measurement
   without its unit (Ezekiel 45:1), don't add the unit in the text; say in a note what is meant. Ordinals in words ("the twenty-seventh day").
   Modern measurements and dates in notes are digits.
 - Scribal marks: the extraordinary points (`[4]`), the inverted nuns (`[8]`) and the unusual
@@ -230,6 +255,12 @@ from the Hebrew.
     Version, and not in the apparatus (1 John 5:7–8, Acts 8:37). They may be noted as "The
     Textus Receptus (followed by the King James Version) adds …", after checking the words in
     this repository's `text/greek-tr/`.
+  - Words the SBLGNT leaves out (following, for instance, Westcott and Hort's margin or against
+    the Byzantine text) are noted only where most English Bibles have them. A short Byzantine
+    addition is likewise noted only where a familiar English Bible has the words (John 1:27,
+    1:51, 7:46, 10:14).
+  - Where one of the critical editions keeps a verse the others leave out (Tregelles at Mark
+    7:16, 9:44, 46), the note says "Most critical editions leave it out".
 - **Old Testament variants**: the ketiv/qere, and well-known, well-documented readings of
   the Septuagint (including 1 Esdras, its parallel to Ezra–Nehemiah), the Dead Sea Scrolls, the
   Samaritan Pentateuch, the Syriac, the Aramaic Targums or the Vulgate
@@ -239,6 +270,10 @@ from the Hebrew.
   say just "some manuscripts" in the Old Testament. Every note citing an ancient version is
   verified against a critical apparatus (BHS/BHQ, Göttingen or Rahlfs Septuagint) at the
   *checked* stage.
+- Where the Hebrew makes sense, the text follows it and an ancient version's different reading
+  goes in a note (Zechariah 14:5 "with you", 2 Chronicles 1:13 "to").
+- A subject the Greek or Hebrew leaves as a pronoun stays a pronoun in the text, and who is
+  meant goes in a note (Revelation 19:9 and 22:1 "he", the angel; Hebrews 10:5 "he", Christ).
 - Conjectural emendations (changes to the Hebrew proposed by scholars, with no manuscript
   behind them) may be given only where the Hebrew is very difficult, and always worded so they
   can't be mistaken for manuscript evidence: "Some scholars read *gal*, 'a heap', with a small
@@ -249,7 +284,9 @@ from the Hebrew.
   rabbinic "corrections of the scribes" (*tiqqune sopherim*) may be cited by that name.
 - In the Aramaic chapters, a ketiv/qere note says "The Aramaic text is written … but read …". A ketiv that differs only in person or number, with no change to the
   English, is not noted.
-- A ketiv/qere that changes the form of a name (Janim/Janum) is noted; one that only changes
+- A ketiv/qere that changes the form of a name (Janim/Janum) is noted, unless the two forms
+  differ only by a vowel letter (Doeg, Abigail, Naioth, Luhith, Memucan, Ahasuerus): that is
+  spelling, and not noted. One that only changes
   word order is noted only if the English would differ. Where the Septuagint arranges a whole
   passage differently (as in 1 Kings 20–21, Jeremiah, Proverbs 24–31), one note at the start of
   the passage says so.
@@ -260,9 +297,17 @@ from the Hebrew.
   speech a poem only imagines, with no speaker named, is not.
   A document given whole without an introduction (Nebuchadnezzar's letter, Daniel 3:31–4:34)
   takes no quotation marks.
+- A song the narrative introduces with a heading of its own ("Moses spoke the words of this
+  song", Exodus 15, Numbers 21:17–18, Deuteronomy 32–33, Judges 5, 1 Samuel 2:1–10, 2 Samuel 1:19–27,
+  22 and 23:1–7, Isaiah 26:1–6, Jonah 2) is set as poetry without quotation marks. In the Psalms, God's words are quoted only where the psalm introduces them as speech
+  ("He said to me", 2:7; "Hear, my people", 50:7); otherwise the poem carries them unquoted
+  (46:11, 75:3–6, 87:4, 89:4–5, 91:14–16). Hosea 6:1–3, a speech with no introduction, is not
+  quoted.
 - Quotation marks: double for speech, single for a quotation inside it, and so on alternating
   for deeper levels. The messenger formula ("This is what the LORD says: …") inside a message
-  takes a colon and no marks of its own (Jeremiah 27:2–11).
+  takes a colon and no marks of its own (Jeremiah 27:2–11), whoever delivers it: a prophet
+  sent with a message, a prophet speaking in person (1 Samuel 2:27, 15:2; 1 Kings 13:2), or a
+  king's messenger ("This is what Ben-hadad says: …").
 - The LORD's speech in a prose narrative is quoted like anyone's ("The LORD said to Jeremiah,
   '…'"). A whole oracle or sermon in the LORD's voice is not put in quotation marks.
 - Where the narrator breaks into a speech (Luke 7:29–30), the quotation closes before the aside
@@ -270,7 +315,7 @@ from the Hebrew.
 - Within a chapter, a speech's quotation is opened once and closed once; it isn't reopened at
   each verse. A long speech (a law code, a sermon) may be divided into paragraphs: a paragraph
   of the same speech starts with an opening quotation mark and the one before it has no closing
-  mark, as in English print, and the reader starts a new paragraph there. A "list" for the numbers rule is the paragraph its numbers belong to.
+  mark, as in English print, and the reader starts a new paragraph there. A "list" for the numbers rule is the paragraph its numbers belong to, except that a tally adding up one count is one list even where it runs across paragraphs (Judges 20, 1 Kings 5:27–30, 1 Chronicles 25).
 - Technical terms (tabernacle furnishings, sacrifices, priestly garments) get a full note at
   their first occurrence in a book. Later chapters give a short note only where a reader needs
   it, pointing back: "See 25:17."

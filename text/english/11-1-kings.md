@@ -63,7 +63,7 @@
 
 **28** Then King David answered, "Call Bathsheba to me." She came into the king's presence and stood before the king.
 
-**29** The king swore an oath and said, "As the LORD lives, who has rescued my life from every trouble,
+**29** The king swore an oath and said, "As surely as the LORD lives, who has rescued my life from every trouble,
 
 **30** just as I swore to you by the LORD, the God of Israel, 'Your son Solomon will be king after me, and he will sit on my throne in my place,' so I will do this very day."
 
@@ -198,7 +198,7 @@
 
 **23** Then King Solomon swore by the LORD, "May God deal with me, and more besides,[^2-20] if Adonijah has not made this request at the cost of his life!
 
-**24** Now, as the LORD lives, who has established me and set me on the throne of my father David, and who has made me a house[^2-21] as he promised, Adonijah will be put to death today."
+**24** Now, as surely as the LORD lives, who has established me and set me on the throne of my father David, and who has made me a house[^2-21] as he promised, Adonijah will be put to death today."
 
 **25** So King Solomon sent Benaiah son of Jehoiada,[^2-22] and he struck Adonijah down, and he died.
 
@@ -210,7 +210,7 @@
 
 **29** King Solomon was told, "Joab has fled to the tent of the LORD, and he is there beside the altar." So Solomon sent Benaiah son of Jehoiada, saying, "Go, strike him down."
 
-**30** Benaiah went to the tent of the LORD and said to him, "This is what the king says: 'Come out!'" But he said, "No, I will die here." Benaiah brought word back to the king: "This is what Joab said, and this is how he answered me."
+**30** Benaiah went to the tent of the LORD and said to him, "This is what the king says: Come out!" But he said, "No, I will die here." Benaiah brought word back to the king: "This is what Joab said, and this is how he answered me."
 
 **31** The king said to him, "Do as he has said. Strike him down and bury him, and so take away from me and from my father's house the blood that Joab shed without cause.
 
@@ -520,15 +520,15 @@
 
 **1** In the four hundred and eightieth year[^6-1] after the Israelites came out of the land of Egypt, in the fourth year of Solomon's reign over Israel, in the month of Ziv,[^6-2] which is the second month, he began to build[^6-3] the house for the LORD.[^6-4]
 
-**2** The house that King Solomon built for the LORD was sixty cubits[^6-5] long, twenty wide and thirty cubits high.
+**2** The house that King Solomon built for the LORD was 60 cubits[^6-5] long, 20 wide and 30 cubits high.
 
-**3** The porch[^6-6] in front of the main hall[^6-7] of the house was twenty cubits long, across the width of the house, and it extended ten cubits in front of the house.[^6-8]
+**3** The porch[^6-6] in front of the main hall[^6-7] of the house was 20 cubits long, across the width of the house, and it extended 10 cubits in front of the house.[^6-8]
 
 **4** He made windows for the house with recessed frames.[^6-9]
 
 **5** Against the wall of the house he built a side structure[^6-10] all around, against the walls of the house all around the main hall and the inner sanctuary,[^6-11] and he made side rooms[^6-12] all around.
 
-**6** The lowest story was five cubits wide, the middle one six cubits wide and the third seven cubits wide. For he made offsets[^6-13] all around the outside of the house, so that the beams would not be set into the walls of the house.
+**6** The lowest story was 5 cubits wide, the middle one 6 cubits wide and the third 7 cubits wide. For he made offsets[^6-13] all around the outside of the house, so that the beams would not be set into the walls of the house.
 
 **7** When the house was built, it was built with stone finished at the quarry.[^6-14] No hammer or axe or any iron tool was heard in the house while it was being built.
 
@@ -536,7 +536,7 @@
 
 **9** So he built the house and finished it. He roofed the house with beams and planks of cedar.[^6-18]
 
-**10** He built the side structure against the whole house, each story five cubits high, and it was joined to the house with cedar beams.
+**10** He built the side structure against the whole house, each story 5 cubits high, and it was joined to the house with cedar beams.
 
 **11** Then the word of the LORD came to Solomon:
 
@@ -548,27 +548,27 @@
 
 **15** He lined the walls of the house on the inside with boards of cedar. From the floor of the house up to the ceiling[^6-21] he covered them with wood on the inside, and he covered the floor of the house with boards of cypress.[^6-22]
 
-**16** He built off twenty cubits at the rear of the house with boards of cedar from the floor up to the ceiling.[^6-23] He built this inside as an inner sanctuary, as the most holy place.[^6-24]
+**16** He built off 20 cubits at the rear of the house with boards of cedar from the floor up to the ceiling.[^6-23] He built this inside as an inner sanctuary, as the most holy place.[^6-24]
 
-**17** The house, that is, the main hall in front of it,[^6-25] was forty cubits long.
+**17** The house, that is, the main hall in front of it,[^6-25] was 40 cubits long.
 
 **18** The cedar inside the house was carved with gourds and open flowers.[^6-26] All was cedar. No stone was seen.
 
 **19** He prepared the inner sanctuary inside the house, to put the ark of the covenant of the LORD there.
 
-**20** The inside of the inner sanctuary[^6-27] was twenty cubits long, twenty cubits wide and twenty cubits high, and he overlaid it with pure gold.[^6-28] He also overlaid the altar with cedar.[^6-29]
+**20** The inside of the inner sanctuary[^6-27] was 20 cubits long, 20 cubits wide and 20 cubits high, and he overlaid it with pure gold.[^6-28] He also overlaid the altar with cedar.[^6-29]
 
 **21** Solomon overlaid the inside of the house with pure gold. He stretched chains of gold across the front of the inner sanctuary, and he overlaid it with gold.
 
 **22** He overlaid the whole house with gold, until the whole house was finished. He also overlaid with gold the whole altar that belonged to the inner sanctuary.[^6-30]
 
-**23** In the inner sanctuary he made two cherubim[^6-31] of olive wood,[^6-32] each ten cubits high.
+**23** In the inner sanctuary he made two cherubim[^6-31] of olive wood,[^6-32] each 10 cubits high.
 
-**24** One wing of the cherub was five cubits long, and the other wing of the cherub was five cubits long: ten cubits from the tip of one wing to the tip of the other.
+**24** One wing of the cherub was 5 cubits long, and the other wing of the cherub was 5 cubits long: 10 cubits from the tip of one wing to the tip of the other.
 
-**25** The second cherub also measured ten cubits. Both cherubim had the same measurements and the same shape.
+**25** The second cherub also measured 10 cubits. Both cherubim had the same measurements and the same shape.
 
-**26** The height of the one cherub was ten cubits, and so was that of the other cherub.
+**26** The height of the one cherub was 10 cubits, and so was that of the other cherub.
 
 **27** He put the cherubim in the middle of the inner room of the house.[^6-33] The wings of the cherubim were spread out, so that the wing of one touched the one wall and the wing of the other cherub touched the other wall, while their wings touched each other in the middle of the room, wing to wing.
 
@@ -601,7 +601,7 @@
 [^6-5]: A cubit was about 18 inches (45 cm), so the house was about 90 feet long, 30 feet wide and 45 feet high (27 by 9 by 13.5 m).
 [^6-6]: Hebrew *ulam*: an entrance hall in front of the main hall; traditionally "porch" or "vestibule".
 [^6-7]: Hebrew *heikhal*, "palace, temple": here the large main room of the house, in front of the inner sanctuary. Traditionally "the temple" or "the nave".
-[^6-8]: Literally "ten cubits was its width in front of the house".
+[^6-8]: Literally "10 cubits was its width in front of the house".
 [^6-9]: The meaning of the Hebrew is uncertain. Perhaps "windows with closed lattices" or "narrow windows set in frames".
 [^6-10]: Hebrew *yatsia*: a structure of three stories built against the outside walls of the house and divided into side rooms. Also in verse 10.
 [^6-11]: Hebrew *devir*: the innermost room, the most holy place (verse 16). Traditionally "the oracle".
@@ -642,7 +642,7 @@
 
 **1** Solomon spent thirteen years building his own house, and he finished his whole house.
 
-**2** He built the House of the Forest of Lebanon,[^7-1] a hundred cubits[^7-2] long, fifty cubits wide and thirty cubits high, on four rows of cedar pillars, with cedar beams on the pillars.
+**2** He built the House of the Forest of Lebanon,[^7-1] 100 cubits[^7-2] long, 50 cubits wide and 30 cubits high, on four rows of cedar pillars, with cedar beams on the pillars.
 
 **3** It was roofed with cedar above the beams[^7-3] that were on the pillars, forty-five of them, fifteen in each row.
 
@@ -650,7 +650,7 @@
 
 **5** All the doorways and doorposts had square frames, with window facing window three times.[^7-6]
 
-**6** He made the Hall of Pillars fifty cubits long and thirty cubits wide. There was a porch in front of the pillars, with pillars and a canopy[^7-7] in front of them.
+**6** He made the Hall of Pillars 50 cubits long and 30 cubits wide. There was a porch in front of the pillars, with pillars and a canopy[^7-7] in front of them.
 
 **7** He made the Hall of the Throne where he was to judge, the Hall of Judgment. It was lined with cedar from floor to floor.[^7-8]
 
@@ -658,7 +658,7 @@
 
 **9** All these were made of costly stones, dressed stone[^7-10] cut to measure and trimmed with saws on the inside and the outside, from the foundation to the coping,[^7-11] and on the outside as far as the great courtyard.
 
-**10** The foundation was laid with costly stones, large stones, stones of ten cubits and stones of eight cubits.
+**10** The foundation was laid with costly stones, large stones, stones of 10 cubits and stones of 8 cubits.
 
 **11** Above them were costly stones, dressed stone cut to measure, and cedar.
 
@@ -668,15 +668,15 @@
 
 **14** He was the son of a widow from the tribe of Naphtali,[^7-14] and his father was a man of Tyre, a craftsman in bronze.[^7-15] He was filled with wisdom, understanding and skill for doing every kind of work in bronze. He came to King Solomon and did all his work.
 
-**15** He cast[^7-16] the two pillars of bronze. The one pillar was eighteen cubits high, and a cord of twelve cubits went around the other pillar.[^7-17]
+**15** He cast[^7-16] the two pillars of bronze. The one pillar was 18 cubits high, and a cord of 12 cubits went around the other pillar.[^7-17]
 
-**16** He also made two capitals[^7-18] of cast bronze to set on the tops of the pillars. The one capital was five cubits high, and the other capital was five cubits high.
+**16** He also made two capitals[^7-18] of cast bronze to set on the tops of the pillars. The one capital was 5 cubits high, and the other capital was 5 cubits high.
 
 **17** There were lattices of network and wreaths of chainwork[^7-19] for the capitals on top of the pillars, seven for the one capital and seven for the other capital.
 
 **18** He made the pillars, and there were two rows all around on the one network, to cover the capitals that were on top of the pomegranates.[^7-20] He did the same for the other capital.
 
-**19** The capitals that were on top of the pillars in the porch were of lily work, four cubits.[^7-21]
+**19** The capitals that were on top of the pillars in the porch were of lily work, 4 cubits.[^7-21]
 
 **20** The capitals on the two pillars also had pomegranates above, next to the rounded part[^7-22] beside the network. There were two hundred pomegranates in rows all around, on the other capital as well.[^7-23]
 
@@ -684,15 +684,15 @@
 
 **22** On top of the pillars was lily work. So the work on the pillars was finished.
 
-**23** He made the Sea[^7-27] of cast metal, ten cubits from rim to rim, round all around and five cubits high. A line of thirty cubits measured around it.[^7-28]
+**23** He made the Sea[^7-27] of cast metal, 10 cubits from rim to rim, round all around and 5 cubits high. A line of 30 cubits measured around it.[^7-28]
 
 **24** Under its rim, gourds[^7-29] encircled it all around, ten to a cubit,[^7-30] going all around the Sea. The gourds were in two rows, cast in one piece with it.
 
 **25** It stood on twelve oxen, three facing north, three facing west,[^7-31] three facing south and three facing east. The Sea rested on top of them, and all their hindquarters were toward the center.
 
-**26** It was a handbreadth[^7-32] thick, and its rim was made like the rim of a cup, like a lily blossom. It held two thousand baths.[^7-33]
+**26** It was 1 handbreadth[^7-32] thick, and its rim was made like the rim of a cup, like a lily blossom. It held 2,000 baths.[^7-33]
 
-**27** He also made the ten stands[^7-34] of bronze. Each stand was four cubits long, four cubits wide and three cubits high.
+**27** He also made the ten stands[^7-34] of bronze. Each stand was 4 cubits long, 4 cubits wide and 3 cubits high.
 
 **28** This is how the stands were made: they had panels, and the panels were set between the frames.[^7-35]
 
@@ -700,21 +700,21 @@
 
 **30** Each stand had four bronze wheels with bronze axles, and its four feet had supports.[^7-38] The supports were cast underneath the basin,[^7-39] with wreaths at the side of each.[^7-40]
 
-**31** Its opening inside the crown[^7-41] and upward was a cubit. Its opening was round, made like a pedestal, a cubit and a half. On its opening there were also engravings. Their panels were square, not round.
+**31** Its opening inside the crown[^7-41] and upward was 1 cubit. Its opening was round, made like a pedestal, 1½ cubits. On its opening there were also engravings. Their panels were square, not round.
 
-**32** The four wheels were underneath the panels, and the axles[^7-42] of the wheels were in the stand. Each wheel was a cubit and a half high.
+**32** The four wheels were underneath the panels, and the axles[^7-42] of the wheels were in the stand. Each wheel was 1½ cubits high.
 
 **33** The wheels were made like chariot wheels. Their axles, rims, spokes and hubs were all of cast metal.
 
 **34** There were four supports at the four corners of each stand. The supports were of one piece with the stand.
 
-**35** At the top of the stand there was a round band half a cubit high. On top of the stand, its stays[^7-43] and its panels were of one piece with it.
+**35** At the top of the stand there was a round band ½ cubit high. On top of the stand, its stays[^7-43] and its panels were of one piece with it.
 
 **36** On the surfaces of its stays and on its panels he engraved cherubim, lions and palm trees, wherever there was space,[^7-44] with wreaths all around.
 
 **37** This is how he made the ten stands. All of them were cast alike, with the same measurements and the same shape.
 
-**38** He made ten basins of bronze. Each basin held forty baths, and each basin measured four cubits.[^7-45] There was one basin on each of the ten stands.
+**38** He made ten basins of bronze. Each basin held 40 baths, and each basin measured 4 cubits.[^7-45] There was one basin on each of the ten stands.
 
 **39** He put five of the stands on the south side of the house and five on the north side.[^7-46] He put the Sea on the south side of the house, toward the southeast.[^7-47]
 
@@ -762,7 +762,7 @@
 [^7-18]: Hebrew *koterot*: the decorated tops of the pillars.
 [^7-19]: Hebrew *gedilim*, "twisted threads", like the tassels of Deuteronomy 22:12; here twisted chains forming wreaths.
 [^7-20]: The Hebrew of this verse is difficult. Many interpreters think "pillars" and "pomegranates" have changed places: "He made the pomegranates in two rows all around on the one network, to cover the capitals that were on top of the pillars."
-[^7-21]: The meaning is uncertain: perhaps the lily-shaped part of each capital was four cubits high.
+[^7-21]: The meaning is uncertain: perhaps the lily-shaped part of each capital was 4 cubits high.
 [^7-22]: Literally "the belly".
 [^7-23]: Literally "and the pomegranates were two hundred, rows all around, on the second capital". Each capital seems to have had two hundred pomegranates (verse 42).
 [^7-24]: Hebrew *heikhal*, the main room of the temple (6:3).
@@ -771,10 +771,10 @@
 [^7-27]: A huge basin of bronze, called "the Sea" for its size. According to 2 Chronicles 4:6 the priests washed in it.
 [^7-28]: The Sea was about 15 feet (4.5 m) across, 7½ feet (2.3 m) high and 45 feet (13.5 m) around.
 [^7-29]: Ornaments shaped like gourds (6:18). Also later in the verse.
-[^7-30]: Or "for ten cubits".
+[^7-30]: Or "for 10 cubits".
 [^7-31]: Literally "toward the sea", that is, the Mediterranean.
 [^7-32]: About 3 inches (7.5 cm).
-[^7-33]: A bath was about 6 gallons (22 liters), so the Sea held about 12,000 gallons (44,000 liters). 2 Chronicles 4:5 reads "three thousand baths".
+[^7-33]: A bath was about 6 gallons (22 liters), so the Sea held about 12,000 gallons (44,000 liters). 2 Chronicles 4:5 reads "3,000 baths".
 [^7-34]: Hebrew *mekhonot*: bronze stands on wheels, each carrying a basin (verse 38).
 [^7-35]: Hebrew *shelabbim*, perhaps the uprights or crosspieces of the frame. Also in verse 29.
 [^7-36]: Hebrew *ken*, "pedestal" or "stand". Or "On the frames above it was the same". Also in verse 31.
@@ -786,7 +786,7 @@
 [^7-42]: Literally "hands". Also in verse 33.
 [^7-43]: Literally "hands", here perhaps braces or handles. Also in verse 36.
 [^7-44]: Literally "according to the bare space of each". The meaning is uncertain.
-[^7-45]: Probably its width. Forty baths was about 240 gallons (880 liters).
+[^7-45]: Probably its width. 40 baths was about 240 gallons (880 liters).
 [^7-46]: Literally "on the shoulder of the house on the right … on the shoulder of the house on its left". Facing east, the right side is the south.
 [^7-47]: Literally "from the right shoulder of the house, eastward, opposite the south".
 [^7-48]: Hebrew *Hirom*, another spelling of the name.
@@ -1158,7 +1158,7 @@
 [^10-29]: Literally "sought the face of Solomon".
 [^10-30]: Hebrew *neshek*, "weapons". Some take it as a word meaning "myrrh".
 [^10-31]: Or "horses". Hebrew *parashim*. Also later in the verse.
-[^10-32]: The low hills between the hill country of Judah and the coastal plain.
+[^10-32]: The low hills between the coastal plain and the hill country of Judah.
 [^10-33]: Hebrew *miqveh*, probably Kue, that is, Cilicia, in what is now southern Turkey. Also later in the verse. Some take the word as "in droves".
 [^10-34]: Literally "six hundred of silver", that is, shekels: about 15 pounds (6.9 kg). The horse cost 150 shekels, about 3¾ pounds (1.7 kg).
 [^10-35]: Literally "by their hand".
@@ -1227,7 +1227,7 @@
 
 **30** Ahijah took hold of the new cloak he was wearing and tore it into twelve pieces.
 
-**31** He said to Jeroboam, "Take ten pieces for yourself, for this is what the LORD, the God of Israel, says: 'Look, I am about to tear the kingdom out of Solomon's hand, and I will give you ten tribes.
+**31** He said to Jeroboam, "Take ten pieces for yourself, for this is what the LORD, the God of Israel, says: Look, I am about to tear the kingdom out of Solomon's hand, and I will give you ten tribes.
 
 **32** But he will have one tribe, for the sake of my servant David and for the sake of Jerusalem, the city I have chosen out of all the tribes of Israel.
 
@@ -1243,7 +1243,7 @@
 
 **38** If you listen to all that I command you, and walk in my ways, and do what is right in my eyes by keeping my decrees and my commands, as my servant David did, I will be with you. I will build you a lasting dynasty,[^11-37] as I built for David, and I will give Israel to you.
 
-**39** I will humble the descendants of David because of this, but not forever.'"
+**39** I will humble the descendants of David because of this, but not forever."
 
 **40** Solomon tried to kill Jeroboam, but Jeroboam fled to Egypt, to Shishak king of Egypt, and he stayed in Egypt until Solomon died.
 
@@ -1392,7 +1392,7 @@
 
 **1** Just then a man of God[^13-1] came from Judah to Bethel at the word of the LORD,[^13-2] while Jeroboam was standing by the altar to burn incense.
 
-**2** He cried out against the altar at the word of the LORD, "Altar, altar! This is what the LORD says: 'A son will be born to the house of David, Josiah by name. He will sacrifice on you the priests of the high places who burn incense on you, and human bones will be burned on you.'"[^13-3]
+**2** He cried out against the altar at the word of the LORD, "Altar, altar! This is what the LORD says: A son will be born to the house of David, Josiah by name. He will sacrifice on you the priests of the high places who burn incense on you, and human bones will be burned on you."[^13-3]
 
 **3** That same day he gave a sign, saying, "This is the sign that the LORD has spoken: The altar will be split apart, and the ashes[^13-4] on it will be poured out."
 
@@ -1430,9 +1430,9 @@
 
 **20** While they were sitting at the table, the word of the LORD came to the prophet who had brought him back.
 
-**21** He cried out to the man of God who had come from Judah, "This is what the LORD says: 'Because you have rebelled against the word of the LORD[^13-11] and have not kept the command that the LORD your God gave you,
+**21** He cried out to the man of God who had come from Judah, "This is what the LORD says: Because you have rebelled against the word of the LORD[^13-11] and have not kept the command that the LORD your God gave you,
 
-**22** but have come back and eaten bread and drunk water in the place where he told you, "Do not eat bread or drink water," your body will not be buried in the tomb of your ancestors.'"[^13-12]
+**22** but have come back and eaten bread and drunk water in the place where he told you, 'Do not eat bread or drink water,' your body will not be buried in the tomb of your ancestors."[^13-12]
 
 **23** After he had eaten bread and after he had drunk, he saddled the donkey for him, for the prophet he had brought back.[^13-13]
 
@@ -1778,11 +1778,11 @@
 
 **11** As she was going to get it, he called to her and said, "Please bring me a piece of bread in your hand."
 
-**12** She said, "As the LORD your God lives, I have nothing baked,[^17-6] only a handful of flour in a jar and a little oil in a jug. Look, I am gathering a couple of sticks, so that I can go in and prepare it for myself and my son, and we will eat it and die."
+**12** She said, "As surely as the LORD your God lives, I have nothing baked,[^17-6] only a handful of flour in a jar and a little oil in a jug. Look, I am gathering a couple of sticks, so that I can go in and prepare it for myself and my son, and we will eat it and die."
 
 **13** Elijah said to her, "Do not be afraid. Go and do as you have said. But first make me a small cake from it and bring it out to me. After that make something for yourself and your son.
 
-**14** For this is what the LORD, the God of Israel, says: 'The jar of flour will not be used up, and the jug of oil will not run dry, until the day the LORD sends rain on the face of the earth.'"
+**14** For this is what the LORD, the God of Israel, says: The jar of flour will not be used up, and the jug of oil will not run dry, until the day the LORD sends rain on the face of the earth."
 
 **15** She went and did as Elijah had said, and she and he and her household[^17-7] ate for many days.
 
@@ -1837,7 +1837,7 @@
 
 **9** But he said, "What sin have I committed, that you are handing your servant over to Ahab to kill me?
 
-**10** As the LORD your God lives, there is no nation or kingdom where my lord has not sent to look for you. When they said, 'He is not here,' he made the kingdom or nation swear that they had not found you.
+**10** As surely as the LORD your God lives, there is no nation or kingdom where my lord has not sent to look for you. When they said, 'He is not here,' he made the kingdom or nation swear that they had not found you.
 
 **11** And now you say, 'Go and tell your lord, "Elijah is here."'
 
@@ -1847,7 +1847,7 @@
 
 **14** And now you say, 'Go and tell your lord, "Elijah is here."' He will kill me!"
 
-**15** Elijah said, "As the LORD of Armies[^18-6] lives, whom I serve,[^18-7] I will show myself to him today."
+**15** Elijah said, "As surely as the LORD of Armies[^18-6] lives, whom I serve,[^18-7] I will show myself to him today."
 
 **16** So Obadiah went to meet Ahab and told him, and Ahab went to meet Elijah.
 
@@ -2007,13 +2007,13 @@
 
 **2** He sent messengers into the city to Ahab king of Israel,
 
-**3** and he said to him,[^20-2] "This is what Ben-hadad says: 'Your silver and your gold are mine, and your wives and the best of your sons are mine.'"
+**3** and he said to him,[^20-2] "This is what Ben-hadad says: Your silver and your gold are mine, and your wives and the best of your sons are mine."
 
 **4** The king of Israel answered, "As you say, my lord the king, I am yours, with all that I have."
 
-**5** The messengers came back and said, "This is what Ben-hadad says: 'I sent to you, saying, "You are to give me your silver and your gold, your wives and your sons."
+**5** The messengers came back and said, "This is what Ben-hadad says: I sent to you, saying, 'You are to give me your silver and your gold, your wives and your sons.'
 
-**6** But at this time tomorrow I will send my servants to you, and they will search your house and the houses of your servants. They will lay their hands on everything you value[^20-3] and take it away.'"
+**6** But at this time tomorrow I will send my servants to you, and they will search your house and the houses of your servants. They will lay their hands on everything you value[^20-3] and take it away."
 
 **7** Then the king of Israel called all the elders of the land and said, "Mark this, and see how this man is looking for trouble. For he sent to me for my wives and my sons, my silver and my gold, and I did not refuse him."
 
@@ -2027,9 +2027,9 @@
 
 **12** When Ben-hadad heard this message, he was drinking with the kings in the shelters.[^20-6] He said to his servants, "Take your positions!"[^20-7] So they took their positions against the city.
 
-**13** Just then a prophet came up to Ahab king of Israel and said, "This is what the LORD[^20-8] says: 'Have you seen this whole great army? Look, I will hand it over to you today, and you will know that I am the LORD.'"
+**13** Just then a prophet came up to Ahab king of Israel and said, "This is what the LORD[^20-8] says: Have you seen this whole great army? Look, I will hand it over to you today, and you will know that I am the LORD."
 
-**14** Ahab said, "By whom?" He said, "This is what the LORD says: 'By the young men who serve the district governors.'" Ahab said, "Who will start the battle?" He said, "You."
+**14** Ahab said, "By whom?" He said, "This is what the LORD says: By the young men who serve the district governors." Ahab said, "Who will start the battle?" He said, "You."
 
 **15** So Ahab mustered the young men who served the district governors, and they were 232. After them he mustered all the people, all the Israelites, 7,000.
 
@@ -2057,7 +2057,7 @@
 
 **27** The Israelites were mustered and given provisions, and they went out to meet them. The Israelites camped opposite them like two little flocks of goats, while the Arameans filled the countryside.
 
-**28** Then the man of God came near and said to the king of Israel, "This is what the LORD says: 'Because the Arameans have said, "The LORD is a god of the hills, but he is not a god of the valleys," I will hand over all this great army to you, and you will know that I am the LORD.'"
+**28** Then the man of God came near and said to the king of Israel, "This is what the LORD says: Because the Arameans have said, 'The LORD is a god of the hills, but he is not a god of the valleys,' I will hand over all this great army to you, and you will know that I am the LORD."
 
 **29** They camped opposite each other for seven days. On the seventh day the battle was joined, and the Israelites struck down a hundred thousand Aramean foot soldiers in one day.
 
@@ -2085,7 +2085,7 @@
 
 **41** Then he quickly removed the bandage from his eyes, and the king of Israel recognized him as one of the prophets.
 
-**42** He said to the king, "This is what the LORD says: 'Because you have let go out of your hand the man I had devoted to destruction,[^20-21] your life will be for his life, and your people for his people.'"
+**42** He said to the king, "This is what the LORD says: Because you have let go out of your hand the man I had devoted to destruction,[^20-21] your life will be for his life, and your people for his people."
 
 **43** So the king of Israel went home sullen and angry, and he came to Samaria.
 
@@ -2211,13 +2211,13 @@
 
 **10** The king of Israel and Jehoshaphat king of Judah were sitting each on his throne, dressed in their robes, at the threshing floor at the entrance of the gate of Samaria, and all the prophets were prophesying before them.
 
-**11** Zedekiah son of Chenaanah had made himself horns of iron, and he said, "This is what the LORD says: 'With these you will gore the Arameans until they are destroyed.'"
+**11** Zedekiah son of Chenaanah had made himself horns of iron, and he said, "This is what the LORD says: With these you will gore the Arameans until they are destroyed."
 
 **12** All the prophets were prophesying the same, saying, "Go up to Ramoth-gilead and succeed. The LORD will hand it over to the king."
 
 **13** The messenger who had gone to summon Micaiah said to him, "Look, the prophets with one voice are speaking favorably to the king.[^22-4] Please let your word[^22-5] be like the word of one of them, and speak favorably."
 
-**14** But Micaiah said, "As the LORD lives, whatever the LORD says to me, that is what I will speak."
+**14** But Micaiah said, "As surely as the LORD lives, whatever the LORD says to me, that is what I will speak."
 
 **15** When he came to the king, the king said to him, "Micaiah, shall we go to battle against Ramoth-gilead, or shall we hold back?" He said to him, "Go up and succeed. The LORD will hand it over to the king."
 

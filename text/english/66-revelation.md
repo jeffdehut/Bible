@@ -821,7 +821,7 @@
 
 [^14-1]: Compare Psalm 2:6, "I myself have installed my king on Zion, my holy mountain"; Joel 3:5 (2:32 in most English Bibles).
 [^14-2]: Many manuscripts read "They sang a new song".
-[^14-3]: Greek *parthenoi*, "virgins", here used of men. The image may draw on the rule that Israel's soldiers kept away from women while on campaign (1 Samuel 21:5–6, 21:4–5 in most English Bibles; 2 Samuel 11:11), or on the prophets' picture of idolatry as sexual unfaithfulness (compare 2:14, 20).
+[^14-3]: Greek *parthenoi*, "virgins", here used of men. The image may draw on the rule that Israel's soldiers kept away from women while on campaign (1 Samuel 21:5–6; 21:4–5 in most English Bibles; 2 Samuel 11:11), or on the prophets' picture of idolatry as sexual unfaithfulness (compare 2:14, 20).
 [^14-4]: Many manuscripts add "by Jesus".
 [^14-5]: The first and best part of the harvest, which belonged to God (Exodus 23:19; compare Jeremiah 2:3).
 [^14-6]: Compare Zephaniah 3:13, "and no deceitful tongue will be found in their mouths"; Isaiah 53:9.
@@ -1102,7 +1102,7 @@
 
 **8** She has been given fine linen, bright and clean, to wear." For the fine linen is the righteous deeds[^19-10] of God's holy people.[^19-11]
 
-**9** Then the angel said to me,[^19-12] "Write: Blessed are those who are invited to the wedding banquet of the Lamb." And he said to me, "These are the true words of God."
+**9** Then he said to me,[^19-12] "Write: Blessed are those who are invited to the wedding banquet of the Lamb." And he said to me, "These are the true words of God."
 
 **10** Then I fell at his feet to worship him, but he said to me, "Don't do that! I am a fellow servant with you and with your brothers and sisters[^19-13] who hold to the testimony of Jesus.[^19-14] Worship God! For the testimony of Jesus is the spirit of prophecy."
 
@@ -1139,7 +1139,7 @@
 [^19-9]: Literally "his wife". Compare Isaiah 54:5–6; 62:5; Hosea 2:21–22 (2:19–20 in most English Bibles), where God is the husband of his people.
 [^19-10]: Greek *dikaiomata*, "righteous acts". Compare Isaiah 61:10, "he has clothed me with garments of salvation and wrapped me in a robe of righteousness".
 [^19-11]: Literally "of the holy ones", traditionally "of the saints".
-[^19-12]: Literally "he said to me", probably the angel of 17:1.
+[^19-12]: That is, the angel, probably the angel of 17:1.
 [^19-13]: Greek *adelphoi*, "brothers", used of the believers, men and women alike.
 [^19-14]: Or "the testimony about Jesus"; also later in the verse.
 [^19-15]: Compare Isaiah 11:4, "He will judge the poor with righteousness"; Psalm 96:13.
@@ -1301,7 +1301,7 @@
 
 *Status: draft*
 
-**1** Then the angel showed me the river of the water of life,[^22-1] bright as crystal, flowing from the throne of God and of the Lamb
+**1** Then he showed me the river of the water of life,[^22-1] bright as crystal, flowing from the throne of God and of the Lamb
 
 **2** down the middle of the city's street. On either side of the river was the tree of life,[^22-2] bearing twelve kinds of fruit, yielding its fruit each month, and the leaves of the tree are for the healing of the nations.[^22-3]
 
@@ -1343,7 +1343,7 @@
 
 **21** The grace of the Lord Jesus be with all.[^22-27]
 
-[^22-1]: Literally "Then he showed me", the angel of 21:9. Many manuscripts read "a pure river of the water of life". Compare Ezekiel 47:1–12, the river that flows out from the temple; Zechariah 14:8, "On that day living water will flow out from Jerusalem".
+[^22-1]: That is, the angel of 21:9. Many manuscripts read "a pure river of the water of life". Compare Ezekiel 47:1–12, the river that flows out from the temple; Zechariah 14:8, "On that day living water will flow out from Jerusalem".
 [^22-2]: Genesis 2:9; 3:22–24. See 2:7.
 [^22-3]: Or "flowing from the throne of God and of the Lamb. In the middle of the city's street, and on either side of the river, was the tree of life …". Compare Ezekiel 47:12, "They will bear fresh fruit every month … Their fruit will be for food and their leaves for healing."
 [^22-4]: Compare Zechariah 14:11, "there will never again be a curse of destruction"; Genesis 3:17.

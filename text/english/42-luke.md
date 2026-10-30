@@ -35,7 +35,7 @@
 
 **14** You will have joy and gladness, and many will rejoice at his birth,
 
-**15** for he will be great in the sight of the Lord. He must never drink wine or strong drink,[^1-12] and he will be filled with the Holy Spirit even before he is born.[^1-13]
+**15** for he will be great in the sight of the Lord. He must never drink wine or beer,[^1-12] and he will be filled with the Holy Spirit even before he is born.[^1-13]
 
 **16** He will turn many of the people of Israel back to the Lord their God.
 
@@ -178,7 +178,7 @@
 [^1-9]: Greek *kyrios*. In Luke 1–2, as in the Greek Old Testament, "the Lord" usually means God, standing for God's personal name, YHWH ("the LORD").
 [^1-10]: Literally "advanced in their days"; also in verse 18.
 [^1-11]: Greek *naos*, the sanctuary building itself, as distinct from the temple courts where the people stood (verse 10); also in verses 21–22.
-[^1-12]: Compare Numbers 6:3; Judges 13:4.
+[^1-12]: Greek *sikera*, from the Hebrew *shekhar*. Or "fermented drink"; brewed from grain. Compare Numbers 6:3; Judges 13:4.
 [^1-13]: Literally "even from his mother's womb".
 [^1-14]: That is, ahead of the Lord their God (verse 16).
 [^1-15]: Malachi 3:23–24 (4:5–6 in most English Bibles).
@@ -2477,7 +2477,7 @@
 
 *Status: draft*
 
-**1** The Festival of Unleavened Bread, which is called the Passover, was approaching.
+**1** The Festival of Bread Made without Yeast, which is called the Passover, was approaching.
 
 **2** The chief priests and the scribes were looking for a way to do away with Jesus, because they were afraid of the people.
 
@@ -2489,7 +2489,7 @@
 
 **6** He accepted, and he began looking for an opportunity to hand Jesus over to them when no crowd was present.
 
-**7** Then came the day of Unleavened Bread, on which the Passover lamb had to be sacrificed.
+**7** Then came the day of Bread Made without Yeast, on which the Passover lamb had to be sacrificed.
 
 **8** Jesus sent Peter and John, saying, "Go and prepare the Passover for us, so that we may eat it."
 

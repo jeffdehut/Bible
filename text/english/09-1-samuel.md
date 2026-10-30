@@ -76,9 +76,9 @@
 [^1-11]: Literally "bitter of *nephesh*".
 [^1-12]: Hebrew *amah*, a female servant or slave, a humble way of speaking of oneself. Also later in the verse and in verse 16.
 [^1-13]: Literally "seed of men".
-[^1-14]: Literally "a razor will not go up on his head". Compare the Nazirite vow (Numbers 6:5) and Samson (Judges 13:5). The Septuagint adds "and he will not drink wine or strong drink".
+[^1-14]: Literally "a razor will not go up on his head". Compare the Nazirite vow (Numbers 6:5) and Samson (Judges 13:5). The Septuagint adds "and he will not drink wine or beer".
 [^1-15]: Literally "hard of spirit".
-[^1-16]: Hebrew *shekhar*, an alcoholic drink made from grain or fruit, perhaps a kind of beer.
+[^1-16]: Or "fermented drink"; brewed from grain. Hebrew *shekhar*.
 [^1-17]: Literally "Do not put your servant before a daughter of *beliyya'al*", that is, a worthless or wicked woman.
 [^1-18]: Literally "out of the greatness of my complaint and my provocation I have spoken until now".
 [^1-19]: Hebrew *shiphchah*, "female servant", with the same meaning as *amah* in verses 11 and 16.
@@ -101,7 +101,7 @@
 
 *Status: draft*
 
-**1** Hannah prayed and said, "My heart rejoices in the LORD;[^2-1] my horn[^2-2] is lifted high in the LORD. My mouth laughs at my enemies,[^2-3] for I rejoice in your salvation.
+**1** Hannah prayed and said: My heart rejoices in the LORD;[^2-1] my horn[^2-2] is lifted high in the LORD. My mouth laughs at my enemies,[^2-3] for I rejoice in your salvation.
 
 **2** There is no one holy like the LORD; there is no one besides you. There is no rock like our God.
 
@@ -119,7 +119,7 @@
 
 **9** He guards the feet of his faithful ones,[^2-12] but the wicked are silenced in darkness, for no one wins by strength.
 
-**10** Those who oppose the LORD will be shattered; he will thunder against them from heaven.[^2-13] The LORD will judge the ends of the earth. He will give strength to his king and lift high the horn of his anointed."[^2-14]
+**10** Those who oppose the LORD will be shattered; he will thunder against them from heaven.[^2-13] The LORD will judge the ends of the earth. He will give strength to his king and lift high the horn of his anointed.[^2-14]
 
 **11** Then Elkanah went home to Ramah, but the boy served the LORD in the presence of Eli the priest.
 
@@ -153,7 +153,7 @@
 
 **26** And the boy Samuel kept growing, both in stature and in favor[^2-30] with the LORD and with people.
 
-**27** A man of God came to Eli and said to him, "This is what the LORD says: 'Did I not reveal myself to your father's family when they were in Egypt, subject to Pharaoh's household?[^2-31]
+**27** A man of God came to Eli and said to him, "This is what the LORD says: Did I not reveal myself to your father's family when they were in Egypt, subject to Pharaoh's household?[^2-31]
 
 **28** I chose him[^2-32] out of all the tribes of Israel to be my priest, to go up to my altar, to burn incense, and to wear an ephod in my presence. And I gave your father's family all the offerings by fire[^2-33] from the Israelites.
 
@@ -171,7 +171,7 @@
 
 **35** I will raise up for myself a faithful priest, who will do what is in my heart and my mind.[^2-40] I will build him a lasting house,[^2-41] and he will walk before my anointed[^2-42] forever.[^2-43]
 
-**36** Everyone who is left in your family will come and bow down to him for a piece[^2-44] of silver and a loaf of bread. He will say, "Please appoint me to one of the priestly offices, so that I may have a scrap of bread to eat."'"
+**36** Everyone who is left in your family will come and bow down to him for a piece[^2-44] of silver and a loaf of bread. He will say, 'Please appoint me to one of the priestly offices, so that I may have a scrap of bread to eat.'"
 
 [^2-1]: *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles.
 [^2-2]: The horn, as of a wild ox, is an image of strength and dignity. Also in verse 10.
@@ -610,7 +610,7 @@
 [^9-3]: Literally "From his shoulders and upward he was taller than all the people."
 [^9-4]: Hebrew *na'ar*, "young man", here a servant. Also in verses 5, 7–8, 10, 22 and 27.
 [^9-5]: Literally "tell us our way on which we have walked".
-[^9-6]: A shekel is about 2/5 ounce (11.5 grams), so a quarter of a shekel is about 1/10 ounce (3 grams).
+[^9-6]: A shekel is about ⅖ ounce (11.5 grams), so a quarter of a shekel is about 1/10 ounce (3 grams).
 [^9-7]: Literally "Your word is good."
 [^9-8]: Hebrew *bamah*, a place of worship, often on a hill. Also in verses 13, 14, 19 and 25.
 [^9-9]: Literally "for him, as the day, you will find him".
@@ -668,7 +668,7 @@
 
 **17** Samuel called the people together to the LORD at Mizpah.
 
-**18** He said to the Israelites, "This is what the LORD, the God of Israel, says: 'I brought Israel up out of Egypt, and I rescued you from the power of the Egyptians and from the power of all the kingdoms that were oppressing you.'
+**18** He said to the Israelites, "This is what the LORD, the God of Israel, says: I brought Israel up out of Egypt, and I rescued you from the power of the Egyptians and from the power of all the kingdoms that were oppressing you.
 
 **19** But today you have rejected your God, who saves you from all your disasters and your troubles. You have said to him,[^10-15] 'Set a king over us instead.' So now present yourselves before the LORD by your tribes and by your clans."[^10-16]
 
@@ -897,7 +897,7 @@
 [^13-15]: Literally "the destroyer", that is, a raiding force.
 [^13-16]: The Hebrew text is written "the Philistine had said" but read "the Philistines had said".
 [^13-17]: The Hebrew names of these tools are uncertain. The last word is nearly the same as the word for "plowshare"; the Septuagint reads "sickle".
-[^13-18]: Hebrew *pim*, a weight of about two-thirds of a shekel, about 1/4 ounce (8 grams). The word was not understood until stone weights inscribed with it were found by archaeologists. A shekel is about 2/5 ounce (11.5 grams).
+[^13-18]: Hebrew *pim*, a weight of about two-thirds of a shekel, about 1/4 ounce (8 grams). The word was not understood until stone weights inscribed with it were found by archaeologists. A shekel is about ⅖ ounce (11.5 grams).
 [^13-19]: The Hebrew of this verse is difficult, and the meaning of some words is uncertain.
 [^13-20]: Hebrew *matsav*, a garrison or post.
 
@@ -977,7 +977,7 @@
 
 **36** Saul said, "Let us go down after the Philistines by night and plunder them until the morning light. Let us not leave one of them alive." They said, "Do whatever seems good to you." But the priest said, "Let us draw near to God here."
 
-**37** So Saul asked God, "Shall I go down after the Philistines? Will you give them into the hands of Israel?" But he did not answer him that day.
+**37** So Saul inquired of God, "Shall I go down after the Philistines? Will you give them into the hands of Israel?" But he did not answer him that day.
 
 **38** Saul said, "Come here, all you leaders[^14-21] of the people, and find out how this sin has happened today.
 
@@ -1046,9 +1046,9 @@
 
 **1** Samuel said to Saul, "The LORD[^15-1] sent me to anoint you king over his people Israel. So now listen to the words of the LORD.
 
-**2** This is what the LORD of Armies[^15-2] says: 'I will punish[^15-3] what Amalek did to Israel, how they opposed them on the way when they came up out of Egypt.[^15-4]
+**2** This is what the LORD of Armies[^15-2] says: I will punish[^15-3] what Amalek did to Israel, how they opposed them on the way when they came up out of Egypt.[^15-4]
 
-**3** Now go and strike Amalek. Devote to destruction[^15-5] everything that belongs to them. Do not spare them, but put them to death, men and women, children and babies, oxen and sheep, camels and donkeys.'"
+**3** Now go and strike Amalek. Devote to destruction[^15-5] everything that belongs to them. Do not spare them, but put them to death, men and women, children and babies, oxen and sheep, camels and donkeys."
 
 **4** So Saul summoned the troops and counted them at Telaim: two hundred thousand foot soldiers, and ten thousand men of Judah.
 
@@ -1330,7 +1330,7 @@
 [^17-1]: *Elah* means "terebinth", a large tree. Also in verse 19.
 [^17-2]: Hebrew *ish ha-benayim*, "the man between", one who fought in single combat between two armies. Also in verse 23.
 [^17-3]: A cubit is about 18 inches (45 cm), and a span about 9 inches (23 cm), so Goliath was about 9 feet 9 inches (3 m) tall. 4QSam(a), a Dead Sea Scroll of Samuel, and the Septuagint read "four cubits and a span", about 6 feet 9 inches (2 m).
-[^17-4]: A shekel is about 2/5 ounce (11.5 grams), so five thousand shekels is about 125 pounds (57 kg).
+[^17-4]: A shekel is about ⅖ ounce (11.5 grams), so five thousand shekels is about 125 pounds (57 kg).
 [^17-5]: Hebrew *kidon*, perhaps a javelin, or a curved sword. Also in verse 45.
 [^17-6]: The Hebrew text is written "arrow" but read "shaft".
 [^17-7]: A heavy wooden bar on a loom. The comparison may refer to the spear's size, or to a loop and cord attached to it like the rod on a loom.
@@ -1443,7 +1443,7 @@
 [^18-16]: Hebrew *chayyai*, "my life", or perhaps "my kin".
 [^18-17]: Literally "the thing was right in his eyes". Also in verse 26.
 [^18-18]: The Hebrew is difficult. Literally "By two you will become my son-in-law today."
-[^18-19]: Hebrew *mohar*, the payment a man made to the family of his bride (Exodus 22:15–16 (22:16–17 in most English Bibles)).
+[^18-19]: Hebrew *mohar*, the payment a man made to the family of his bride (Exodus 22:15–16; 22:16–17 in most English Bibles).
 [^18-20]: Literally "and the days were not yet full".
 [^18-21]: The Septuagint reads "a hundred"; compare 2 Samuel 3:14.
 [^18-22]: The Septuagint reads "and that all Israel loved him".

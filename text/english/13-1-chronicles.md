@@ -1447,7 +1447,7 @@
 
 **9** The Philistines had come and made a raid in the Valley of Rephaim.
 
-**10** David asked God, "Shall I go up against the Philistines? Will you hand them over to me?" The LORD said to him, "Go up, and I will hand them over to you."
+**10** David inquired of God, "Shall I go up against the Philistines? Will you hand them over to me?" The LORD said to him, "Go up, and I will hand them over to you."
 
 **11** So they went up to Baal-perazim, and David defeated them there. David said, "God has broken through my enemies by my hand, as water breaks through." That is why that place was called Baal-perazim.[^14-8]
 
@@ -1455,7 +1455,7 @@
 
 **13** Once again the Philistines made a raid in the valley.
 
-**14** Again David asked God, and God said to him, "Do not go up after them. Turn away from them and come at them opposite the balsam trees.[^14-10]
+**14** Again David inquired of God, and God said to him, "Do not go up after them. Turn away from them and come at them opposite the balsam trees.[^14-10]
 
 **15** When you hear the sound of marching in the tops of the balsam trees, then go out to battle, for God will have gone out ahead of you to strike down the army of the Philistines."
 
@@ -1974,7 +1974,7 @@
 [^21-7]: Or "messenger". Hebrew *mal'akh* means both. Also in verses 15–16, 18, 20, 27 and 30.
 [^21-8]: Or "changed his mind".
 [^21-9]: 2 Samuel 24:16 calls him Araunah.
-[^21-10]: A shekel is about 2/5 ounce (11.5 grams), so six hundred shekels is about 15 pounds (6.9 kg). 2 Samuel 24:24 says that David bought the threshing floor and the oxen for fifty shekels of silver.
+[^21-10]: A shekel is about ⅖ ounce (11.5 grams), so six hundred shekels is about 15 pounds (6.9 kg). 2 Samuel 24:24 says that David bought the threshing floor and the oxen for fifty shekels of silver.
 [^21-11]: Hebrew *shelamim*; see 16:1.
 [^21-12]: Hebrew *bamah*, a place of worship, often on a hill.
 
@@ -2406,7 +2406,7 @@
 
 **27** Shimei the Ramathite was in charge of the vineyards, and Zabdi the Shiphmite was in charge of the produce of the vineyards for the wine cellars.
 
-**28** Baal-hanan the Gederite was in charge of the olive and sycamore-fig trees in the western foothills,[^27-13] and Joash was in charge of the stores of oil.
+**28** Baal-hanan the Gederite was in charge of the olive and sycamore-fig trees in the Shephelah,[^27-13] and Joash was in charge of the stores of oil.
 
 **29** Shirtai[^27-14] the Sharonite was in charge of the herds that grazed in Sharon, and Shaphat son of Adlai was in charge of the herds in the valleys.
 
@@ -2432,7 +2432,7 @@
 [^27-10]: *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles. Compare Genesis 15:5; 22:17.
 [^27-11]: See chapter 21.
 [^27-12]: Literally "in the number of the chronicles of King David". Hebrew *divrei ha-yamim*, "the matters of the days", the phrase that gives the books of Chronicles their Hebrew name.
-[^27-13]: Hebrew *shephelah*: the low hills between the central hill country and the coastal plain.
+[^27-13]: The low hills between the coastal plain and the hill country of Judah.
 [^27-14]: The Hebrew text is written "Shitrai" but read "Shirtai". Most English Bibles have Shitrai.
 [^27-15]: Hebrew *dod*, "uncle", or more generally "relative".
 [^27-16]: Perhaps as their tutor.
