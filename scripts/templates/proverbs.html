@@ -1,0 +1,184 @@
+<title>Proverbs by Topic · Plain English Bible</title>
+<meta name="claude:viewport-fit-sides" content="cover">
+<meta name="description" content="Every verse of Proverbs in order, in the collections the book marks, with the topics they speak of: words and the tongue, wealth and poverty, work and laziness, anger, pride, friends, family, kings, justice, fools and more. Choose a topic to see all it says.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Frank+Ruhl+Libre:wght@300..700&family=Libre+Franklin:wght@400;500;600;700&display=swap">
+<style>
+/* Proverbs as a field: a row for each chapter, a square for each verse, tinted by the
+   collection it belongs to. A topic lights its verses through the whole book, and lists them. */
+:root {
+  --bg: #fbfaf7; --surface: #ffffff; --ink: #161b26; --muted: #5b6475; --faint: #8d95a4; --line: #e4e2db;
+  --lapis: #2646a1; --lapis-soft: #e7ecf8; --hit: #c2410c; --hit-soft: #fde7da;
+  --shadow: 0 1px 2px rgb(22 27 38 / 6%), 0 10px 30px rgb(22 27 38 / 10%);
+  --read: "Frank Ruhl Libre", "Noto Serif", Georgia, serif;
+  --sans: "Libre Franklin", system-ui, -apple-system, "Segoe UI", sans-serif;
+}
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) { --bg: #0d111b; --surface: #131a28; --ink: #e9ecf3; --muted: #a3acbd; --faint: #6f7a90; --line: #263047; --lapis: #9db3ff; --lapis-soft: #1c2650; --hit: #ffb37a; --hit-soft: #3a2414; color-scheme: dark; }
+}
+:root[data-theme="dark"] { --bg: #0d111b; --surface: #131a28; --ink: #e9ecf3; --muted: #a3acbd; --faint: #6f7a90; --line: #263047; --lapis: #9db3ff; --lapis-soft: #1c2650; --hit: #ffb37a; --hit-soft: #3a2414; color-scheme: dark; }
+* { box-sizing: border-box; }
+html { -webkit-text-size-adjust: 100%; }
+body { margin: 0; background: var(--bg); color: var(--ink); font: 400 16px/1.5 var(--sans);
+  padding-left: max(16px, env(safe-area-inset-left, 0px)); padding-right: max(16px, env(safe-area-inset-right, 0px)); }
+a { color: var(--lapis); }
+main { max-width: 1100px; margin-inline: auto; padding-block: clamp(22px, 5vw, 44px) 80px; }
+h1 { margin: 0 0 6px; font: 300 clamp(36px, 7vw, 56px)/1.02 var(--read); letter-spacing: -0.02em; }
+.lede { margin: 0 0 18px; max-width: 66ch; color: var(--muted); }
+h2 { margin: 28px 0 6px; font: 500 22px/1.2 var(--read); }
+.label { margin: 16px 0 6px; font: 600 11.5px/1.3 var(--sans); letter-spacing: 0.08em; text-transform: uppercase; color: var(--muted); }
+.strip { display: flex; gap: 3px; height: 46px; }
+.strip button { flex: var(--n); min-width: 8px; border: 0; border-radius: 8px; background: var(--c); color: var(--on); font: 600 12px/1.15 var(--sans); padding: 4px 6px; text-align: left; overflow: hidden; cursor: pointer; }
+.strip button span { display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; }
+.strip button[aria-pressed="true"] { box-shadow: inset 0 0 0 3px var(--ink); }
+.about { margin: 8px 0 0; padding: 10px 14px; border-radius: 12px; background: var(--surface); border: 1px solid var(--line); font-size: 14.5px; color: var(--muted); }
+.about b { color: var(--ink); }
+.about[hidden] { display: none; }
+.chips { display: flex; flex-wrap: wrap; gap: 6px; }
+.chip { display: inline-flex; align-items: center; gap: 6px; min-height: 34px; padding: 4px 12px; border: 1px solid var(--line); border-radius: 99px; background: var(--surface); color: var(--ink); font: 500 13.5px/1.2 var(--sans); cursor: pointer; }
+.chip small { color: var(--faint); font-size: 12px; }
+.chip[aria-pressed="true"] { border-color: var(--hit); background: var(--hit-soft); color: var(--hit); }
+.chip[aria-pressed="true"] small { color: inherit; }
+.field { margin: 14px 0 0; display: grid; gap: 3px; }
+.field .row { display: grid; grid-template-columns: 26px repeat(36, minmax(0, 1fr)); gap: 3px; align-items: center; }
+.field .row b { font: 600 11px/1 var(--sans); color: var(--faint); text-align: right; padding-right: 4px; }
+.dot { aspect-ratio: 1; min-width: 0; padding: 0; border: 0; border-radius: 3px; background: var(--c); cursor: pointer; transition: opacity 0.2s, background 0.2s; }
+.dot.dim { opacity: 0.18; }
+.dot.hit { background: var(--hit); opacity: 1; }
+.dot[aria-pressed="true"] { outline: 2px solid var(--ink); outline-offset: 1px; }
+.dot:focus-visible { outline: 2px solid var(--ink); outline-offset: 1px; }
+.summary { margin: 10px 0 0; font-size: 14px; color: var(--muted); min-height: 1.5em; }
+.list { margin: 6px 0 0; padding: 0; list-style: none; columns: 2 340px; column-gap: 24px; }
+.list li { break-inside: avoid; margin: 0 0 10px; padding: 10px 12px; border-radius: 12px; background: var(--surface); border: 1px solid var(--line); font: 400 16px/1.5 var(--read); }
+.list li a { display: block; margin-bottom: 2px; font: 600 12px/1.3 var(--sans); text-decoration: none; letter-spacing: 0.02em; }
+.more { margin: 6px 0 0; }
+.more button { border: 1px solid var(--line); background: var(--surface); color: var(--ink); border-radius: 10px; padding: 8px 14px; font: 600 14px/1.2 var(--sans); cursor: pointer; }
+.card { position: fixed; z-index: 20; left: 0; right: 0; bottom: 0; max-height: 60vh; overflow: auto; background: var(--surface); border-top: 1px solid var(--line);
+  border-radius: 18px 18px 0 0; box-shadow: var(--shadow); padding: 16px max(16px, env(safe-area-inset-right, 0px)) max(18px, env(safe-area-inset-bottom, 0px)) max(16px, env(safe-area-inset-left, 0px)); }
+@media (min-width: 900px) { .card { left: auto; right: 16px; bottom: 16px; width: 380px; border: 1px solid var(--line); border-radius: 16px; } }
+.card[hidden] { display: none; }
+.card .kicker { font: 600 11.5px/1.3 var(--sans); letter-spacing: 0.08em; text-transform: uppercase; color: var(--muted); padding-right: 40px; }
+.card h2 { margin: 6px 0 8px; font: 400 26px/1.1 var(--read); }
+.card .verse { margin: 0 0 12px; font: 400 19px/1.5 var(--read); }
+.card .chips .chip { min-height: 30px; font-size: 12.5px; }
+.card .acts { display: flex; flex-wrap: wrap; gap: 8px; margin-top: 12px; }
+.card .acts a { display: inline-flex; min-height: 36px; align-items: center; padding: 6px 12px; border-radius: 10px; background: var(--lapis); color: var(--surface); font: 600 14px/1.2 var(--sans); text-decoration: none; }
+.card .close { position: absolute; top: 10px; right: 10px; width: 36px; height: 36px; border: 0; border-radius: 10px; background: transparent; color: var(--ink); cursor: pointer; font-size: 16px; }
+.note { margin: 30px 0 0; font-size: 13.5px; color: var(--muted); max-width: 72ch; }
+</style>
+
+<!-- APPBAR -->
+
+<main>
+  <h1>Proverbs by Topic</h1>
+  <p class="lede">After its opening chapters, Proverbs is hundreds of short sayings, and a subject comes back again and again, far apart. Here every verse is a square, chapter by chapter. Choose a topic to light up everything the book says about it, and read it together.</p>
+
+  <p class="label">The collections the book marks</p>
+  <div class="strip" id="strip"></div>
+  <p class="about" id="about" hidden></p>
+
+  <p class="label">Topics</p>
+  <div class="chips" id="topics"></div>
+
+  <div class="field" id="field" aria-label="Every verse of Proverbs, a row for each chapter"></div>
+  <p class="summary" id="summary" aria-live="polite"></p>
+  <ul class="list" id="list"></ul>
+  <p class="more" id="more" hidden><button type="button">Show all</button></p>
+
+  <p class="note">A verse is put under a topic when its Hebrew uses one of the topic's words (by Strong's number, from STEPBible's tagged text) or its English does, so a saying about the tongue is found whether it says tongue, lips, mouth or words. It is a way in, not a commentary: a few verses will be found by a word used in passing.</p>
+</main>
+<article class="card" id="card" hidden aria-live="polite"></article>
+
+<!-- DATA -->
+<script>
+(() => {
+  const D = JSON.parse(document.getElementById("data").textContent);
+  const $ = id => document.getElementById(id);
+  const el = (tag, attrs = {}, ...kids) => { const e = document.createElement(tag); for (const k in attrs) { if (k === "text") e.textContent = attrs[k]; else if (k === "class") e.className = attrs[k]; else if (k.startsWith("on")) e.addEventListener(k.slice(2), attrs[k]); else e.setAttribute(k, attrs[k]); } for (const c of kids) if (c != null) e.append(c); return e; };
+  const dark = () => { const t = document.documentElement.getAttribute("data-theme"); return t ? t === "dark" : matchMedia("(prefers-color-scheme: dark)").matches; };
+  const V = D.verses.map(([c, v, t, topics, col, but]) => ({ c, v, t, topics, col, but }));
+  // A quiet tint for each collection, and a stronger one for its band in the strip. [light, dark]
+  const COLS = [["#d9c7a0", "#5a4b2c"], ["#b9cbe8", "#2c3d63"], ["#c9dcc0", "#2f4a2c"], ["#c9dcc0", "#2f4a2c"], ["#e3c4cf", "#57303f"], ["#d6cde8", "#3d3460"], ["#f0d3b8", "#5c3d22"], ["#bfe0da", "#22504a"]];
+  const BANDS = [["#a8790a", "#f2c45a"], ["#2459c4", "#6fb0ff"], ["#2f8a3c", "#8fdc8a"], ["#2f8a3c", "#8fdc8a"], ["#c23a7c", "#ff86c0"], ["#6d43c9", "#b996ff"], ["#bf5a1f", "#f59a62"], ["#0f8c83", "#4fd6cb"]];
+  const BUT = D.topics.length;   // the "but" sayings, after the topics
+  let topic = null, col = null, open = null, showAll = false;
+  const ref = x => `Proverbs ${x.c}:${x.v}`;
+  const href = x => `index.html#proverbs-${x.c}-${x.v}`;
+  const matches = x => (topic == null || (topic === BUT ? x.but : x.topics.includes(topic))) && (col == null || x.col === col);
+
+  /* ---------- The collections ---------- */
+  const bands = D.collections.map((C, i) => {
+    const n = V.filter(x => x.col === i).length;
+    const b = el("button", { type: "button", "aria-pressed": "false", title: `${C.n} (${C.from.join(":")}–${C.to.join(":")})`, style: `--n:${n}`, onclick: () => { col = col === i ? null : i; update(); } }, el("span", { text: C.n }));
+    return b;
+  });
+  $("strip").append(...bands);
+
+  /* ---------- Topics ---------- */
+  const count = k => V.filter(x => (k === BUT ? x.but : x.topics.includes(k))).length;
+  const chips = [...D.topics.map(([, n], k) => [k, n]), [BUT, "Sayings that turn on “but”"]].map(([k, n]) =>
+    el("button", { type: "button", class: "chip", "aria-pressed": "false", onclick: () => { topic = topic === k ? null : k; showAll = false; update(); } }, n, el("small", { text: String(count(k)) })));
+  $("topics").append(...chips);
+
+  /* ---------- The field ---------- */
+  const dots = [];
+  for (let c = 1; c <= 31; c++) {
+    const row = el("div", { class: "row" }, el("b", { text: String(c) }));
+    for (const x of V.filter(x => x.c === c)) {
+      const d = el("button", { type: "button", class: "dot", "aria-label": ref(x), title: ref(x), "aria-pressed": "false", onclick: () => show(x) });
+      dots.push([d, x]); row.append(d);
+    }
+    $("field").append(row);
+  }
+
+  function update() {
+    const dk = dark() ? 1 : 0;
+    bands.forEach((b, i) => { b.style.setProperty("--c", BANDS[i][dk]); b.style.setProperty("--on", dk ? "#0b1020" : "#fff"); b.setAttribute("aria-pressed", String(col === i)); });
+    chips.forEach((b, k) => b.setAttribute("aria-pressed", String(topic === (k < BUT ? k : BUT))));
+    const any = topic != null || col != null;
+    for (const [d, x] of dots) {
+      d.style.setProperty("--c", COLS[x.col][dk]);
+      const m = matches(x);
+      d.classList.toggle("hit", topic != null && m);
+      d.classList.toggle("dim", any && !m);
+    }
+    const C = col != null ? D.collections[col] : null;
+    $("about").hidden = !C;
+    if (C) $("about").replaceChildren(el("b", { text: `${C.n} (${C.from.join(":")}–${C.to.join(":")}). ` }), C.about);
+    const hits = any ? V.filter(matches) : [];
+    const name = topic == null ? null : topic === BUT ? "sayings that turn on “but”" : D.topics[topic][1].toLowerCase();
+    $("summary").textContent = !any ? "Choose a topic or a collection, or tap a square to read a verse." :
+      `${hits.length} ${hits.length === 1 ? "verse" : "verses"}${name ? ` on ${name}` : ""}${C ? ` in ${C.n}` : ""}${topic != null && col == null ? `, in ${new Set(hits.map(x => x.c)).size} of the 31 chapters` : ""}.`;
+    const shown = showAll ? hits : hits.slice(0, 40);
+    $("list").replaceChildren(...(topic != null ? shown : []).map(x => el("li", {}, el("a", { href: href(x), text: ref(x) }), x.t)));
+    $("more").hidden = topic == null || hits.length <= shown.length;
+    try { history.replaceState(null, "", topic != null && topic < BUT ? "#" + D.topics[topic][0] : location.pathname); } catch (e) {}
+  }
+  $("more").querySelector("button").onclick = () => { showAll = true; update(); };
+
+  /* ---------- A verse ---------- */
+  function show(x) {
+    if (open) open[0].setAttribute("aria-pressed", "false");
+    const d = dots.find(([, y]) => y === x);
+    open = d; d[0].setAttribute("aria-pressed", "true");
+    const C = D.collections[x.col];
+    $("card").replaceChildren(
+      el("button", { class: "close", type: "button", "aria-label": "Close", text: "✕", onclick: close }),
+      el("div", { class: "kicker", text: C.n }),
+      el("h2", { text: ref(x) }),
+      el("p", { class: "verse", text: x.t }),
+      x.topics.length || x.but ? el("div", { class: "chips" }, ...x.topics.map(k => el("button", { type: "button", class: "chip", onclick: () => { topic = k; showAll = false; update(); close(); $("field").scrollIntoView({ behavior: "smooth" }); } }, D.topics[k][1])),
+        x.but ? el("button", { type: "button", class: "chip", onclick: () => { topic = BUT; update(); close(); } }, "Turns on “but”") : null) : null,
+      el("div", { class: "acts" }, el("a", { href: href(x), text: `Read Proverbs ${x.c}` })));
+    $("card").hidden = false;
+  }
+  function close() { if (open) open[0].setAttribute("aria-pressed", "false"); open = null; $("card").hidden = true; }
+  addEventListener("keydown", e => { if (e.key === "Escape") close(); });
+
+  const h = location.hash.slice(1), k = D.topics.findIndex(t => t[0] === h);
+  if (k >= 0) topic = k;
+  update();
+  matchMedia("(prefers-color-scheme: dark)").addEventListener("change", update);
+})();
+</script>
