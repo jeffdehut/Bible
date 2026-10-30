@@ -273,6 +273,17 @@ Settled while drafting Deuteronomy:
 | יִבֵּם; יְבָמָה | 盡夫兄弟的本分；兄弟的遺孀 | *yabbem* noted (25:5). |
 | אֲרַם נַהֲרַיִם | 兩河之間的亞蘭 | As Genesis 24:10 (Union Version 美索不達米亞); noted. |
 | אֲרַמִּי אֹבֵד אָבִי (26:5) | 我祖先是一個流浪的亞蘭人 | *oved* noted: 流浪的 or 將要滅亡的. |
+| The curses of 27:15–26 | 『……的，必受咒詛！』眾民都要說：『阿們！』 | One formula throughout; 『』 because Moses' speech is open. 27:15 回答說 (*ve'anu*). |
+| אָמֵן | 阿們 | Noted: 確實如此，願它成就. |
+| בָּרוּךְ; אָרוּר (28:3–6, 16–19) | 必蒙福；必受咒詛 | The two lists kept word for word parallel. |
+| פְּרִי בִטְנְךָ, פְּרִי אַדְמָתְךָ | 你身體所生的、你土地所出產的 | Also 28:53 and 30:9. |
+| אָלָה | 誓言 (with 約)；咒詛 | Noted at 29:11. |
+| The third speech (29:1–30:20) | In quotation marks | Noted at 29:1 and 30:20. |
+| The Song of Moses (32:1–43); the Blessing (33:2–29) | Poetry without quotation marks | The LORD's words in the song unmarked (noted 32:20); 論……，他說： for each tribe. |
+| צוּר (of God) | 磐石 | Noted at 32:4: *tsur*. |
+| עֶלְיוֹן (alone); שֵׁדִים | 至高者；鬼魔 | |
+| יְשֻׁרוּן | 耶書崙 | Noted: from *yashar*. |
+| הוֹשֵׁעַ (32:44) | 何西阿 | Noted: Joshua's earlier name; the Union Version has 約書亞. |
 
 ## Style
 

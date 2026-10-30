@@ -2,6 +2,8 @@
 // (public domain) spells them. Written by scripts/names_zh.py: don't edit by hand;
 // corrections go in OVERRIDES there.
 I18N.add({
+"Jeshurun":"耶書崙",
+"Gerizim":"基利心",
 "Zamzummim":"散送冥",
 "Emim":"以米",
 "Sion":"西雲",
@@ -1078,7 +1080,7 @@ I18N.add({
 "Dumah (Joshua 15.52)":"度瑪（約書亞記 15.52）",
 "Dung Gate":"谷門",
 "Dura":"杜拉",
-"Ebal":"以巴錄",
+"Ebal":"以巴路",
 "Ebed":"以別",
 "Ebed (Ezra 8.6)":"以別（以斯拉記 8.6）",
 "Ebed (Judges 9.26)":"以別（士師記 9.26）",
@@ -2967,11 +2969,11 @@ I18N.add({
 "Moserah":"摩西拉",
 "Moseroth":"摩西錄",
 "Moses":"摩西",
-"Mount Carmel":"亞舍拉",
-"Mount Gilboa":"非利士",
+"Mount Carmel":"迦密山",
+"Mount Gilboa":"基利波山",
 "Mount Hor":"何珥山",
 "Mount Mizar":"米薩山",
-"Mount Zion":"雅各",
+"Mount Zion":"錫安山",
 "Mount of Olives":"橄欖山",
 "Moza":"摩撒",
 "Moza (1 Chronicles 2.46)":"摩撒（歷代志上 2.46）",
