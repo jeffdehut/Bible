@@ -2,6 +2,22 @@
 // (public domain) spells them. Written by scripts/names_zh.py: don't edit by hand;
 // corrections go in OVERRIDES there.
 I18N.add({
+"Anakim":"亞衲人",
+"Greater Sidon":"大西頓",
+"waters of Merom":"米倫水",
+"Book of Jashar":"雅煞珥書",
+"Jashar":"雅煞珥",
+"Kephirah":"基非拉",
+"Gibeath-haaraloth":"除皮山",
+"Naphoth-dor":"多珥山岡",
+"Mount Hermon":"黑門山",
+"Mount Gerizim":"基利心山",
+"Mount Ebal":"以巴路山",
+"Valley of Achor":"亞割谷",
+"Sea of Kinnereth":"基尼烈海",
+"Arnon Valley":"亞嫩谷",
+"Valley of Mizpeh":"米斯巴平原",
+"Mount Halak":"哈拉山",
 "Jeshurun":"耶書崙",
 "Gerizim":"基利心",
 "Zamzummim":"散送冥",

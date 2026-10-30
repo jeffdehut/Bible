@@ -285,6 +285,24 @@ Settled while drafting Deuteronomy:
 | יְשֻׁרוּן | 耶書崙 | Noted: from *yashar*. |
 | הוֹשֵׁעַ (32:44) | 何西阿 | Noted: Joshua's earlier name; the Union Version has 約書亞. |
 
+Settled while drafting Joshua:
+
+| Source | Rendering | Notes |
+|---|---|---|
+| אֲרוֹן הַבְּרִית; אֲרוֹן הָעֵדֻת | 約櫃；法櫃 | *aron* noted at 3:3; 法櫃 explained at 4:16. |
+| חֵרֶם; הֶחֱרִים | 永獻當滅的（物）；完全毀滅 | *cherem*, *charam* noted at the first occurrence in each chapter. |
+| שׁוֹפְרוֹת הַיּוֹבְלִים; הֵרִיעַ, תְּרוּעָה (of the people) | 羊角號；吶喊 | |
+| שַׂר־צְבָא־יְהוָה | 耶和華軍隊的元帥 | *tsava* noted. |
+| זוֹנָה (Rahab) | 妓女 | Noted: the Targum's 開旅店的. |
+| כִּידוֹן | 短槍 | Noted: or a curved sword. |
+| תֵּל | 廢墟堆 (8:28)；土丘 (11:13) | Noted. |
+| נַחַל | 谷 (亞嫩谷) | *nachal* noted. |
+| הָאֲשֵׁדוֹת; הָהָר הֶחָלָק | 山坡；哈拉山 | |
+| עֲנָקִים; רְפָאִים | 亞衲人；利乏音人 | |
+| סֵפֶר הַיָּשָׁר | 《雅煞珥書》 | Book titles in 《》. |
+| The list of kings (12:9–24) | 一個是……王 | Uniform, names exactly as the Union Version. |
+| Place names of two words ("Valley of X", "Mount X") | As in the Union Version's text | 亞割谷, 米斯巴平原, 黎巴嫩平原, 多珥山岡, 米倫水, 除皮山. |
+
 ## Style
 
 **Characters and words.** Plain words over the Union Version's literary ones (吊下去, not 縋下來). Hong Kong standard forms: 裏 (not 裡), 着 for the particle (看着、
