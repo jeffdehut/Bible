@@ -149,11 +149,31 @@ def downloads():
           .replace("{{DATE}}", datetime.date.today().strftime("%-d %B %Y")))
 
 
+# The open-data page is turned off for now: downloads.html only sends visitors to the reader, and
+# no archives are built. Set this to True to bring the page and its archives back.
+DOWNLOADS = False
+OFF = """<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="robots" content="noindex">
+<meta http-equiv="refresh" content="0; url=index.html">
+<title>Plain English Bible</title>
+</head>
+<body><p><a href="index.html">Plain English Bible</a></p></body>
+</html>
+"""
+
+
 def main():
     n = library()
     write("arcs.html", open(os.path.join(TEMPLATES, "arcs.html"), encoding="utf-8").read())
-    downloads()
-    print(f"library.html: {n} books; arcs.html; downloads.html and downloads/")
+    if DOWNLOADS:
+        downloads()
+    else:
+        with open(os.path.join(ROOT, "downloads.html"), "w", encoding="utf-8", newline="\n") as f:
+            f.write(OFF)
+    print(f"library.html: {n} books; arcs.html; downloads.html {'and downloads/' if DOWNLOADS else '(turned off)'}")
 
 
 if __name__ == "__main__":
