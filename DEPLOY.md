@@ -89,7 +89,9 @@ python3 scripts/lexicons.py      # the full lexicon entries (BDB, LSJ) in data/b
 
 Then push the branch, and merging it into `main` puts it live. The pages are built from templates in `scripts/templates/`; edit those, not the built pages.
 When the service worker or the app shell changes, raise `VERSION` in `sw.js` so installed
-copies of the reader pick up the new version.
+copies of the reader pick up the new version, and raise the `?v=` number after `sw.js`, `config.js`
+and `account.js` in `index.html` (and `config.js` in `scripts/templates/privacy.html`) to match:
+Porkbun's servers keep JavaScript files for 30 days, so a changed script needs a new address.
 
 ## Accounts
 
