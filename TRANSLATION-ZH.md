@@ -253,6 +253,19 @@ Settled while drafting Deuteronomy:
 | אִמֵּץ לֵב | 使……心固執 | Kept apart from 剛硬, 頑梗 (2:30). |
 | דָּגָן, תִּירוֹשׁ, יִצְהָר | 五穀、新酒和新油 | |
 | צִרְעָה | 黃蜂 | Noted: uncertain. |
+| The law code (Deuteronomy 12–26) | Without quotation marks | Note at 12:1: Moses still speaking, speech ends 26:19. Chapter 11 ends with the speech open. Quotations inside the laws 「」. |
+| הַמָּקוֹם אֲשֶׁר יִבְחַר … לְשַׁכֵּן שְׁמוֹ שָׁם | 耶和華所選擇作他名居所的地方 | Noted: 「使他的名住在那裏」. |
+| בִּשְׁעָרֶיךָ | 你城裏 | Noted: 「城門裏」. |
+| יָתוֹם; אַלְמָנָה; גֵּר | 孤兒；寡婦；寄居的外人 | *yatom* noted. |
+| נָכְרִי | 外族人 | Noted: a foreigner not settled in Israel. |
+| בִּעַרְתָּ הָרָע | 把那惡從你們中間除掉 | Noted: 「焚除」. |
+| הַכֹּהֲנִים הַלְוִיִּם | 利未人祭司 | Noted: 「祭司，就是利未人」. |
+| שְׁמִטָּה | 豁免；豁免年 | Noted: *shemittah*, cancelling debts. |
+| צְבִי; אַיָּל | 羚羊；鹿 | |
+| Animals (Deuteronomy 14) | Leviticus 11's names for the same Hebrew words | Extra quadrupeds 狍子、野山羊、羱羊、劍羚、野綿羊; *ra'ah* 鳶 (as *da'ah*), *dayyah* 黑鳶; noted. |
+| לֶחֶם עֹנִי | 困苦的餅 | Noted: 「困苦餅」. |
+| קֹסֵם; מְעוֹנֵן; מְנַחֵשׁ; מְכַשֵּׁף; חֹבֵר חָבֶר | 占卜的；觀兆的；用法術的；行邪術的；念咒語的 | Deuteronomy 18:10–11. |
+| נָבִיא כָּמֹנִי (18:15, 18) | 一位像我的先知 | Noted: Acts 3:22–23, 7:37. |
 
 ## Style
 
