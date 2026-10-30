@@ -55,6 +55,7 @@ button { font: inherit; color: inherit; }
 #ov { touch-action: none; cursor: grab; }
 #ov:active { cursor: grabbing; }
 #ov.over { cursor: pointer; }
+#ov.pulling { cursor: grabbing; }
 .ui { transition: opacity 0.6s; }
 .stage:not(.ready) .ui { opacity: 0; pointer-events: none; }
 
@@ -278,7 +279,7 @@ button { font: inherit; color: inherit; }
 </main>
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/7.8.5/d3.min.js"></script>
-<script src="share.js?v=21"></script>
+<script src="share.js?v=22"></script>
 <script>
 (() => {
   const $ = id => document.getElementById(id);
@@ -423,12 +424,22 @@ button { font: inherit; color: inherit; }
   if (!gl) { $("fallback").hidden = false; $("title").hidden = true; return; }
   const VS_NODE = `
     attribute vec2 a_wheel; attribute vec2 a_web; attribute vec3 a_color;
-    attribute float a_size; attribute float a_delay; attribute float a_kind; attribute float a_state; attribute float a_stagger;
+    attribute float a_size; attribute float a_delay; attribute float a_kind; attribute float a_state; attribute float a_stagger; attribute float a_node;
     uniform vec2 u_scale; uniform vec2 u_offset; uniform float u_time; uniform float u_morph; uniform float u_zoom; uniform float u_dpr; uniform float u_dark;
+    uniform float u_bt; uniform float u_drift; uniform vec3 u_moved[48];
     varying vec3 v_color; varying float v_alpha; varying float v_kind; varying float v_core; varying float v_aa;
+    // The web breathes: each point drifts a pixel or two in a slow swell that runs across the
+    // web, and a point pulled by the reader carries its nearest neighbours with it.
+    vec2 alive(vec2 web, float node) {
+      float ph = web.x * 0.0021 + web.y * 0.0017, own = fract(node * 0.6180339) * 6.2832;
+      vec2 d = vec2(sin(u_bt * 0.55 + ph * 6.0) + 0.6 * sin(u_bt * 0.83 + own), cos(u_bt * 0.47 + ph * 5.0) + 0.6 * cos(u_bt * 0.71 + own * 1.3));
+      vec2 o = d * u_drift;
+      for (int k = 0; k < 48; k++) { if (abs(u_moved[k].x - node) < 0.5) o += u_moved[k].yz; }
+      return o;
+    }
     void main() {
       float m = clamp(u_morph * 1.5 - a_stagger * 0.5, 0.0, 1.0); m = m * m * (3.0 - 2.0 * m);
-      vec2 p = mix(a_wheel, a_web, m);
+      vec2 p = mix(a_wheel, a_web, m) + alive(a_web, a_node);
       gl_Position = vec4(p * u_scale + u_offset, 0.0, 1.0);
       float appear = smoothstep(a_delay, a_delay + 0.5, u_time);
       float st = a_state;
@@ -458,12 +469,22 @@ button { font: inherit; color: inherit; }
       gl_FragColor = vec4(col, a);
     }`;
   const VS_LINK = `
-    attribute vec2 a_wheel; attribute vec2 a_web; attribute vec3 a_color; attribute float a_delay; attribute float a_state; attribute float a_stagger;
+    attribute vec2 a_wheel; attribute vec2 a_web; attribute vec3 a_color; attribute float a_delay; attribute float a_state; attribute float a_stagger; attribute float a_node;
     uniform vec2 u_scale; uniform vec2 u_offset; uniform float u_time; uniform float u_morph; uniform float u_base;
+    uniform float u_bt; uniform float u_drift; uniform vec3 u_moved[48];
     varying vec3 v_color; varying float v_alpha;
+    // The web breathes: each point drifts a pixel or two in a slow swell that runs across the
+    // web, and a point pulled by the reader carries its nearest neighbours with it.
+    vec2 alive(vec2 web, float node) {
+      float ph = web.x * 0.0021 + web.y * 0.0017, own = fract(node * 0.6180339) * 6.2832;
+      vec2 d = vec2(sin(u_bt * 0.55 + ph * 6.0) + 0.6 * sin(u_bt * 0.83 + own), cos(u_bt * 0.47 + ph * 5.0) + 0.6 * cos(u_bt * 0.71 + own * 1.3));
+      vec2 o = d * u_drift;
+      for (int k = 0; k < 48; k++) { if (abs(u_moved[k].x - node) < 0.5) o += u_moved[k].yz; }
+      return o;
+    }
     void main() {
       float m = clamp(u_morph * 1.5 - a_stagger * 0.5, 0.0, 1.0); m = m * m * (3.0 - 2.0 * m);
-      vec2 p = mix(a_wheel, a_web, m);
+      vec2 p = mix(a_wheel, a_web, m) + alive(a_web, a_node);
       gl_Position = vec4(p * u_scale + u_offset, 0.0, 1.0);
       float appear = smoothstep(a_delay, a_delay + 0.9, u_time);
       float st = a_state;
@@ -481,7 +502,7 @@ button { font: inherit; color: inherit; }
     if (!gl.getProgramParameter(p, gl.LINK_STATUS)) throw new Error(gl.getProgramInfoLog(p));
     const loc = {};
     for (let i = 0; i < gl.getProgramParameter(p, gl.ACTIVE_ATTRIBUTES); i++) { const n = gl.getActiveAttrib(p, i).name; loc[n] = gl.getAttribLocation(p, n); }
-    for (let i = 0; i < gl.getProgramParameter(p, gl.ACTIVE_UNIFORMS); i++) { const n = gl.getActiveUniform(p, i).name; loc[n] = gl.getUniformLocation(p, n); }
+    for (let i = 0; i < gl.getProgramParameter(p, gl.ACTIVE_UNIFORMS); i++) { const n = gl.getActiveUniform(p, i).name.replace(/\[0\]$/, ""); loc[n] = gl.getUniformLocation(p, n); }
     return { p, loc };
   }
   let PN, PL, buf = {}, stateN, stateL, delay, stagger;
@@ -516,17 +537,19 @@ button { font: inherit; color: inherit; }
       kindF[i] = kind[i];
     }
     const E = linkA.length;
-    const lw = new Float32Array(4 * E), lb = new Float32Array(4 * E), ld = new Float32Array(2 * E), ls = new Float32Array(2 * E);
+    const lw = new Float32Array(4 * E), lb = new Float32Array(4 * E), ld = new Float32Array(2 * E), ls = new Float32Array(2 * E), ln = new Float32Array(2 * E);
     for (let e = 0; e < E; e++) {
       const a = linkA[e], b = linkB[e];
       lw.set([WX[a], WY[a], WX[b], WY[b]], 4 * e);
       lb.set([X[a], Y[a], X[b], Y[b]], 4 * e);
       ld[2 * e] = ld[2 * e + 1] = Math.max(delay[a], delay[b]) + 0.15;
       ls[2 * e] = stagger[a]; ls[2 * e + 1] = stagger[b];
+      ln[2 * e] = a; ln[2 * e + 1] = b;
     }
     buf = {
       nWheel: buffer(interleave(WX, WY)), nWeb: buffer(interleave(X, Y)), nSize: buffer(size), nDelay: buffer(delay), nKind: buffer(kindF),
       nStagger: buffer(stagger), nColor: buffer(nodeColors()), nState: buffer(stateN = new Float32Array(N), gl.DYNAMIC_DRAW),
+      nNode: buffer(Float32Array.from({ length: N }, (_, i) => i)), lNode: buffer(ln),
       lWheel: buffer(lw), lWeb: buffer(lb), lDelay: buffer(ld), lStagger: buffer(ls), lColor: buffer(linkColors()),
       lState: buffer(stateL = new Float32Array(2 * E), gl.DYNAMIC_DRAW),
     };
@@ -593,7 +616,8 @@ button { font: inherit; color: inherit; }
     gl.uniform1f(PL.loc.u_time, revealing ? clock : 100); gl.uniform1f(PL.loc.u_morph, morph);
     gl.uniform1f(PL.loc.u_base, (dark ? 0.13 : 0.075) * Math.min(1.8, Math.max(0.6, 0.85 + Math.log2(T.k / fitK) * 0.2)));
     attr(PL, "a_wheel", buf.lWheel, 2); attr(PL, "a_web", buf.lWeb, 2); attr(PL, "a_color", buf.lColor, 3);
-    attr(PL, "a_delay", buf.lDelay, 1); attr(PL, "a_state", buf.lState, 1); attr(PL, "a_stagger", buf.lStagger, 1);
+    attr(PL, "a_delay", buf.lDelay, 1); attr(PL, "a_state", buf.lState, 1); attr(PL, "a_stagger", buf.lStagger, 1); attr(PL, "a_node", buf.lNode, 1);
+    motionUniforms(PL);
     gl.drawArrays(gl.LINES, 0, 2 * linkA.length);
     // Nodes
     gl.useProgram(PN.p);
@@ -601,7 +625,8 @@ button { font: inherit; color: inherit; }
     gl.uniform1f(PN.loc.u_time, revealing ? clock : 100); gl.uniform1f(PN.loc.u_morph, morph);
     gl.uniform1f(PN.loc.u_zoom, T.k); gl.uniform1f(PN.loc.u_dpr, dpr); gl.uniform1f(PN.loc.u_dark, dark ? 1 : 0); gl.uniform1f(PN.loc.u_glow, dark ? 1 : 0);
     attr(PN, "a_wheel", buf.nWheel, 2); attr(PN, "a_web", buf.nWeb, 2); attr(PN, "a_color", buf.nColor, 3); attr(PN, "a_size", buf.nSize, 1);
-    attr(PN, "a_delay", buf.nDelay, 1); attr(PN, "a_kind", buf.nKind, 1); attr(PN, "a_state", buf.nState, 1); attr(PN, "a_stagger", buf.nStagger, 1);
+    attr(PN, "a_delay", buf.nDelay, 1); attr(PN, "a_kind", buf.nKind, 1); attr(PN, "a_state", buf.nState, 1); attr(PN, "a_stagger", buf.nStagger, 1); attr(PN, "a_node", buf.nNode, 1);
+    motionUniforms(PN);
     if (dark) gl.blendFunc(gl.SRC_ALPHA, gl.ONE);
     // People, places and events first, then the chapters over them.
     gl.drawArrays(gl.POINTS, NC, N - NC);
@@ -611,10 +636,108 @@ button { font: inherit; color: inherit; }
   // Where a node is on screen now (as the shaders place it).
   function posOf(i) {
     const m0 = Math.min(1, Math.max(0, morph * 1.5 - stagger[i] * 0.5)), m = m0 * m0 * (3 - 2 * m0);
-    const x = WX[i] + (X[i] - WX[i]) * m, y = WY[i] + (Y[i] - WY[i]) * m;
+    const o = pulled.get(i);
+    const x = WX[i] + (X[i] - WX[i]) * m + (o ? o.x : 0), y = WY[i] + (Y[i] - WY[i]) * m + (o ? o.y : 0);
     return [x * T.k + T.x, y * T.k + T.y];
   }
   const radiusOf = i => Math.min(46, Math.max(kind[i] ? 1.6 : 2.2, ((i < NC ? 7 : 4.5) + Math.sqrt(deg[i]) * (i < NC ? 1.6 : 1.4)) * T.k)) / 2;
+
+  /* ---------- A living web ---------- */
+  // At rest the web drifts very slightly (about a pixel and a half on screen, in a slow swell),
+  // and stills while a node is chosen or under the pointer, so nothing moves while it is aimed
+  // at. A node can be pulled: press on it and drag (on a touch screen, hold it a moment first);
+  // its nearest neighbours follow on springs, and all settle back when it is let go. Pressing
+  // anywhere else pans and zooms as before. Drawn at most thirty times a second, and not at
+  // all with reduced motion, while the page is hidden, or once the springs have settled.
+  const pulled = new Map();               // node → { x, y, vx, vy, w } (world units)
+  const movedU = new Float32Array(48 * 3);
+  let drift = 0, lastBreath = 0, grab = null;
+  function motionUniforms(P) {
+    gl.uniform1f(P.loc.u_bt, performance.now() / 1000);
+    gl.uniform1f(P.loc.u_drift, revealing ? 0 : drift * 0.8 / T.k);
+    movedU.fill(-1);
+    let k = 0;
+    for (const [i, o] of pulled) { if (k >= 48) break; movedU[3 * k] = i; movedU[3 * k + 1] = o.x; movedU[3 * k + 2] = o.y; k++; }
+    gl.uniform3fv(P.loc.u_moved, movedU);
+  }
+  function stepSprings() {
+    if (!pulled.size) return false;
+    let busy = false;
+    for (const [i, o] of pulled) {
+      let tx = 0, ty = 0;
+      if (grab) {
+        if (i === grab.i) { o.x = grab.x - X[i]; o.y = grab.y - Y[i]; o.vx = o.vy = 0; busy = true; continue; }
+        const g = pulled.get(grab.i);
+        tx = g.x * o.w; ty = g.y * o.w;
+      }
+      o.vx = (o.vx + (tx - o.x) * 0.16) * 0.74; o.vy = (o.vy + (ty - o.y) * 0.16) * 0.74;
+      o.x += o.vx; o.y += o.vy;
+      if (Math.abs(o.x - tx) + Math.abs(o.y - ty) + Math.abs(o.vx) + Math.abs(o.vy) > 0.02 / T.k) busy = true;
+      else if (!grab) { o.x = o.y = 0; }
+    }
+    if (!busy && !grab) pulled.clear();
+    return busy || !!grab;
+  }
+  function breathe(now) {
+    requestAnimationFrame(breathe);
+    if (revealing || !PN || document.hidden || now - lastBreath < 33) return;
+    lastBreath = now;
+    const still = reduced || selected >= 0 || hover >= 0 || grab || layout !== "web";
+    drift += ((still ? 0 : 1) - drift) * 0.05;
+    if (drift < 0.001) drift = 0;
+    const springs = stepSprings();
+    if (springs) { drawGL(); drawOverlay(); }
+    else if (drift > 0) drawGL();
+  }
+  requestAnimationFrame(breathe);
+  // Pulling a node.
+  const PULL_NEIGHBOURS = 47;
+  function startPull(i, sx, sy) {
+    const wx = (sx - T.x) / T.k, wy = (sy - T.y) / T.k;
+    grab = { i, x: X[i], y: Y[i], dx: wx - X[i], dy: wy - Y[i], moved: false };
+    pulled.clear();
+    pulled.set(i, { x: 0, y: 0, vx: 0, vy: 0, w: 1 });
+    // The nearest neighbours follow, the nearer the more.
+    const near = adj[i].map(([j]) => j).filter(j => !hidden.has(group[j]))
+      .map(j => [j, Math.hypot(X[j] - X[i], Y[j] - Y[i])]).sort((a, b) => a[1] - b[1]).slice(0, PULL_NEIGHBOURS);
+    const scale = (near.length ? near[near.length - 1][1] : 1) || 1;
+    for (const [j, d] of near) pulled.set(j, { x: 0, y: 0, vx: 0, vy: 0, w: 0.55 * Math.exp(-1.6 * d / scale) + 0.08 });
+    ov.classList.add("pulling");
+  }
+  function movePull(sx, sy) {
+    if (!grab) return;
+    const wx = (sx - T.x) / T.k - grab.dx, wy = (sy - T.y) / T.k - grab.dy;
+    if (Math.hypot(wx - X[grab.i], wy - Y[grab.i]) * T.k > 3) grab.moved = true;
+    grab.x = wx; grab.y = wy;
+  }
+  let suppressClick = false;
+  function endPull() {
+    if (!grab) return;
+    suppressClick = grab.moved;
+    grab = null;
+    ov.classList.remove("pulling");
+    ov.__zoom = T;                    // a pan the gesture began underneath is forgotten
+  }
+  let pressNode = -1, holdTimer = 0, press = null;
+  ov.addEventListener("pointerdown", ev => {
+    pressNode = -1;
+    if (revealing || layout !== "web" || reduced) return;
+    const r = ov.getBoundingClientRect(), sx = ev.clientX - r.left, sy = ev.clientY - r.top;
+    const i = nodeAt(sx, sy, ev.pointerType === "mouse" ? 6 : 8);
+    if (i < 0) return;
+    if (ev.pointerType === "mouse") { pressNode = i; startPull(i, sx, sy); ov.setPointerCapture(ev.pointerId); return; }
+    // A finger: only after holding still a moment, so a quick drag still pans.
+    press = { id: ev.pointerId, x: ev.clientX, y: ev.clientY };
+    clearTimeout(holdTimer);
+    holdTimer = setTimeout(() => { if (press) { startPull(i, sx, sy); navigator.vibrate?.(8); } }, 380);
+  }, true);
+  ov.addEventListener("pointermove", ev => {
+    if (press && !grab && Math.hypot(ev.clientX - press.x, ev.clientY - press.y) > 8) { clearTimeout(holdTimer); press = null; }
+    if (!grab) return;
+    const r = ov.getBoundingClientRect();
+    movePull(ev.clientX - r.left, ev.clientY - r.top);
+  });
+  for (const t of ["pointerup", "pointercancel"]) ov.addEventListener(t, () => { clearTimeout(holdTimer); press = null; pressNode = -1; endPull(); });
 
   /* ---------- The overlay: names, and the threads of the node chosen ---------- */
   let bookCenters = [];
@@ -726,7 +849,12 @@ button { font: inherit; color: inherit; }
 
   /* ---------- Zoom, pan and picking ---------- */
   let fitK = 1, geo, byImportance;
-  const zoom = d3.zoom().scaleExtent([0.02, 20]).on("zoom", ev => { T = ev.transform; hover = -1; schedule(); });
+  const zoom = d3.zoom().scaleExtent([0.02, 20]).on("zoom", ev => { if (grab) return; T = ev.transform; hover = -1; schedule(); });
+  // A mouse press on a node pulls it (see "A living web"); elsewhere, d3 pans as before.
+  zoom.filter(ev => {
+    if (ev.type === "mousedown" && pressNode >= 0) return false;
+    return (!ev.ctrlKey || ev.type === "wheel") && !ev.button;
+  });
   const oz = d3.select(ov);
   function fitTransform(xs, ys, pad = 40, bottom = 0) {
     let x0 = Infinity, x1 = -Infinity, y0 = Infinity, y1 = -Infinity;
@@ -768,6 +896,7 @@ button { font: inherit; color: inherit; }
   }
   ov.addEventListener("click", ev => {
     if (revealing) { skip(); return; }
+    if (suppressClick) { suppressClick = false; return; }
     const r = ov.getBoundingClientRect();
     const i = nodeAt(ev.clientX - r.left, ev.clientY - r.top, ev.pointerType === "mouse" ? 8 : 16);
     if (i >= 0) select(i); else if (selected >= 0) select(-1);

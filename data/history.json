@@ -1,6 +1,14 @@
 {
  "streams": [
   {
+   "name": "From Creation",
+   "group": "The Bible"
+  },
+  {
+   "name": "Lives in the Bible",
+   "group": "The Bible"
+  },
+  {
    "name": "Egypt",
    "group": "Bible lands"
   },
@@ -3619,6 +3627,602 @@
    "n": "Martin Luther King Jr.",
    "a": 1929,
    "z": 1968
+  },
+  {
+   "k": "e",
+   "s": "From Creation",
+   "n": "Creation",
+   "a": -4003,
+   "z": -4003,
+   "c": 1,
+   "ref": "Genesis 1:1",
+   "icon": "creation",
+   "note": "In the beginning God created the heavens and the earth.",
+   "u": 1
+  },
+  {
+   "k": "e",
+   "s": "From Creation",
+   "n": "The garden of Eden",
+   "a": -4003,
+   "z": -4003,
+   "c": 1,
+   "ref": "Genesis 2:8",
+   "icon": "garden",
+   "note": "Adam and Eve in the garden, and their fall.",
+   "u": 1
+  },
+  {
+   "k": "e",
+   "s": "From Creation",
+   "n": "The Flood",
+   "a": -2347,
+   "z": -2347,
+   "c": 1,
+   "ref": "Genesis 7:11",
+   "icon": "flood",
+   "note": "Noah, his family and the animals in the ark.",
+   "u": 1
+  },
+  {
+   "k": "e",
+   "s": "From Creation",
+   "n": "The tower of Babel",
+   "a": -2241,
+   "z": -2241,
+   "c": 1,
+   "ref": "Genesis 11:9",
+   "icon": "tower",
+   "note": "The languages confused and the peoples scattered; Ussher's date is approximate.",
+   "u": 1
+  },
+  {
+   "k": "e",
+   "s": "From Creation",
+   "n": "The call of Abram",
+   "a": -1920,
+   "z": -1920,
+   "c": 1,
+   "ref": "Genesis 12:1",
+   "icon": "tent",
+   "note": "Abram leaves Harran for the land God will show him.",
+   "u": 1
+  },
+  {
+   "k": "e",
+   "s": "From Creation",
+   "n": "Jacob's family goes down to Egypt",
+   "a": -1705,
+   "z": -1705,
+   "c": 1,
+   "ref": "Genesis 46:6",
+   "icon": "pyramid",
+   "note": "Seventy of Jacob's household settle in Goshen.",
+   "u": 1
+  },
+  {
+   "k": "e",
+   "s": "From Creation",
+   "n": "The Exodus",
+   "a": -1490,
+   "z": -1490,
+   "c": 1,
+   "ref": "Exodus 14:21",
+   "icon": "waves",
+   "note": "Israel leaves Egypt through the sea.",
+   "u": 1
+  },
+  {
+   "k": "e",
+   "s": "From Creation",
+   "n": "The law at Sinai",
+   "a": -1490,
+   "z": -1490,
+   "c": 1,
+   "ref": "Exodus 20:1",
+   "icon": "tablets",
+   "note": "The ten commandments and the covenant at Sinai.",
+   "u": 1
+  },
+  {
+   "k": "e",
+   "s": "From Creation",
+   "n": "Solomon begins the temple",
+   "a": -1011,
+   "z": -1011,
+   "c": 1,
+   "ref": "1 Kings 6:1",
+   "icon": "temple",
+   "note": "In the 480th year after the Exodus.",
+   "u": 1
+  },
+  {
+   "k": "e",
+   "s": "From Creation",
+   "n": "The kingdom divides",
+   "a": -974,
+   "z": -974,
+   "c": 1,
+   "ref": "1 Kings 12:19",
+   "icon": "crown",
+   "note": "Israel in the north, Judah in the south.",
+   "u": 1
+  },
+  {
+   "k": "e",
+   "s": "From Creation",
+   "n": "Samaria falls",
+   "a": -720,
+   "z": -720,
+   "c": 1,
+   "ref": "2 Kings 17:6",
+   "icon": "ruin",
+   "note": "Assyria carries the northern kingdom into exile.",
+   "u": 1
+  },
+  {
+   "k": "e",
+   "s": "From Creation",
+   "n": "Jerusalem falls",
+   "a": -587,
+   "z": -587,
+   "c": 1,
+   "ref": "2 Kings 25:9",
+   "icon": "ruin",
+   "note": "Babylon burns the temple; Judah goes into exile (Ussher's year).",
+   "u": 1
+  },
+  {
+   "k": "e",
+   "s": "From Creation",
+   "n": "Cyrus lets the exiles return",
+   "a": -535,
+   "z": -535,
+   "c": 1,
+   "ref": "Ezra 1:1",
+   "icon": "home",
+   "note": "The first return from Babylon.",
+   "u": 1
+  },
+  {
+   "k": "f",
+   "s": "Lives in the Bible",
+   "n": "Aaron",
+   "a": -1573,
+   "z": -1451,
+   "u": 1,
+   "note": "Moses' brother, first high priest of Israel",
+   "ref": "Exodus 4:14"
+  },
+  {
+   "k": "f",
+   "s": "Lives in the Bible",
+   "n": "Abel",
+   "a": -3937,
+   "z": -3874,
+   "u": 1,
+   "note": "Adam and Eve's second son, killed by Cain",
+   "ref": "Genesis 4:2"
+  },
+  {
+   "k": "f",
+   "s": "Lives in the Bible",
+   "n": "Abraham",
+   "a": -1995,
+   "z": -1820,
+   "u": 1,
+   "note": "Patriarch, chosen by God to father His people",
+   "ref": "Genesis 11:26"
+  },
+  {
+   "k": "f",
+   "s": "Lives in the Bible",
+   "n": "Adam",
+   "a": -4003,
+   "z": -3073,
+   "u": 1,
+   "note": "The first man, created by God",
+   "ref": "Genesis 2:19"
+  },
+  {
+   "k": "f",
+   "s": "Lives in the Bible",
+   "n": "Ahaz",
+   "a": -762,
+   "z": -725,
+   "u": 1,
+   "note": "King of Judah, son of Jotham",
+   "ref": "2 Kings 15:38"
+  },
+  {
+   "k": "f",
+   "s": "Lives in the Bible",
+   "n": "Ahaziah",
+   "a": -907,
+   "z": -885,
+   "u": 1,
+   "note": "King of Judah, son of Jehoram and Athaliah",
+   "ref": "2 Kings 8:24"
+  },
+  {
+   "k": "f",
+   "s": "Lives in the Bible",
+   "n": "Amaziah",
+   "a": -862,
+   "z": -809,
+   "u": 1,
+   "note": "King of Judah, son of Joash",
+   "ref": "2 Kings 12:22"
+  },
+  {
+   "k": "f",
+   "s": "Lives in the Bible",
+   "n": "Arpachshad",
+   "a": -2345,
+   "z": -1907,
+   "u": 1,
+   "note": "Son of Shem, ancestor of Abraham",
+   "ref": "Genesis 10:22"
+  },
+  {
+   "k": "f",
+   "s": "Lives in the Bible",
+   "n": "David",
+   "a": -1084,
+   "z": -1014,
+   "u": 1,
+   "note": "Anointed king of Israel, ancestor of Jesus Christ",
+   "ref": "Ruth 4:17"
+  },
+  {
+   "k": "f",
+   "s": "Lives in the Bible",
+   "n": "Eber",
+   "a": -2280,
+   "z": -1816,
+   "u": 1,
+   "note": "Ancestor of Abraham; father of Peleg and Joktan",
+   "ref": "Genesis 10:21"
+  },
+  {
+   "k": "f",
+   "s": "Lives in the Bible",
+   "n": "Enoch",
+   "a": -3381,
+   "z": -3016,
+   "u": 1,
+   "note": "A righteous man who walked with God.",
+   "ref": "Genesis 5:18"
+  },
+  {
+   "k": "f",
+   "s": "Lives in the Bible",
+   "n": "Enosh",
+   "a": -3768,
+   "z": -2863,
+   "u": 1,
+   "note": "Son of Seth, during whose time people called on the Lord's name.",
+   "ref": "Genesis 4:26"
+  },
+  {
+   "k": "f",
+   "s": "Lives in the Bible",
+   "n": "Hezekiah",
+   "a": -751,
+   "z": -696,
+   "u": 1,
+   "note": "A righteous king of Judah.",
+   "ref": "2 Kings 16:20"
+  },
+  {
+   "k": "f",
+   "s": "Lives in the Bible",
+   "n": "Isaac",
+   "a": -1895,
+   "z": -1715,
+   "u": 1,
+   "note": "Son of Abraham; father of Jacob and Esau.",
+   "ref": "Genesis 17:19"
+  },
+  {
+   "k": "f",
+   "s": "Lives in the Bible",
+   "n": "Ishmael",
+   "a": -1909,
+   "z": -1772,
+   "u": 1,
+   "note": "Son of Abraham and Hagar; father of Arab tribes.",
+   "ref": "Genesis 16:11"
+  },
+  {
+   "k": "f",
+   "s": "Lives in the Bible",
+   "n": "Israel",
+   "a": -1835,
+   "z": -1688,
+   "u": 1,
+   "note": "Patriarch, son of Isaac, father of twelve tribes",
+   "ref": "Genesis 25:26"
+  },
+  {
+   "k": "f",
+   "s": "Lives in the Bible",
+   "n": "Jared",
+   "a": -3543,
+   "z": -2581,
+   "u": 1,
+   "note": "Ancestor of Noah; father of Enoch",
+   "ref": "Genesis 5:15"
+  },
+  {
+   "k": "f",
+   "s": "Lives in the Bible",
+   "n": "Jehoiakim",
+   "a": -633,
+   "z": -597,
+   "u": 1,
+   "note": "King of Judah, son of Josiah",
+   "ref": "2 Kings 23:34"
+  },
+  {
+   "k": "f",
+   "s": "Lives in the Bible",
+   "n": "Jehoram",
+   "a": -924,
+   "z": -885,
+   "u": 1,
+   "note": "Son of Jehoshaphat, king of Judah.",
+   "ref": "1 Kings 22:51"
+  },
+  {
+   "k": "f",
+   "s": "Lives in the Bible",
+   "n": "Jehoshaphat",
+   "a": -949,
+   "z": -888,
+   "u": 1,
+   "note": "Son of Asa, king of Judah.",
+   "ref": "1 Kings 15:24"
+  },
+  {
+   "k": "f",
+   "s": "Lives in the Bible",
+   "n": "Jesus",
+   "a": -3,
+   "z": 30,
+   "u": 1,
+   "note": "The Son of God and Savior of the world.",
+   "ref": "Isaiah 7:14"
+  },
+  {
+   "k": "f",
+   "s": "Lives in the Bible",
+   "n": "Job",
+   "a": -1719,
+   "z": -1579,
+   "u": 1,
+   "note": "A righteous man who endured great suffering",
+   "ref": "Job 1:1"
+  },
+  {
+   "k": "f",
+   "s": "Lives in the Bible",
+   "n": "Joseph",
+   "a": -1744,
+   "z": -1634,
+   "u": 1,
+   "note": "Son of Jacob, ruler in Egypt",
+   "ref": "Genesis 30:24"
+  },
+  {
+   "k": "f",
+   "s": "Lives in the Bible",
+   "n": "Josiah",
+   "a": -648,
+   "z": -608,
+   "u": 1,
+   "note": "King of Judah known for his religious reforms",
+   "ref": "1 Kings 13:2"
+  },
+  {
+   "k": "f",
+   "s": "Lives in the Bible",
+   "n": "Jotham",
+   "a": -783,
+   "z": -741,
+   "u": 1,
+   "note": "King of Judah and son of Uzziah",
+   "ref": "2 Kings 15:5"
+  },
+  {
+   "k": "f",
+   "s": "Lives in the Bible",
+   "n": "Kenan",
+   "a": -3678,
+   "z": -2768,
+   "u": 1,
+   "note": "Son of Enosh, descendant of Seth",
+   "ref": "Genesis 5:9"
+  },
+  {
+   "k": "f",
+   "s": "Lives in the Bible",
+   "n": "Lamech",
+   "a": -3129,
+   "z": -2352,
+   "u": 1,
+   "note": "Father of Noah; lived 777 years",
+   "ref": "Genesis 5:25"
+  },
+  {
+   "k": "f",
+   "s": "Lives in the Bible",
+   "n": "Manasseh",
+   "a": -708,
+   "z": -641,
+   "u": 1,
+   "note": "King of Judah, son of Hezekiah.",
+   "ref": "2 Kings 20:21"
+  },
+  {
+   "k": "f",
+   "s": "Lives in the Bible",
+   "n": "Methuselah",
+   "a": -3316,
+   "z": -2347,
+   "u": 1,
+   "note": "The oldest person mentioned in the Bible.",
+   "ref": "Genesis 5:21"
+  },
+  {
+   "k": "f",
+   "s": "Lives in the Bible",
+   "n": "Moses",
+   "a": -1570,
+   "z": -1451,
+   "u": 1,
+   "note": "Prophet who led Israel out of Egypt",
+   "ref": "Exodus 2:10"
+  },
+  {
+   "k": "f",
+   "s": "Lives in the Bible",
+   "n": "Nahor",
+   "a": -2154,
+   "z": -2006,
+   "u": 1,
+   "note": "Son of Serug; father of Terah, Abraham's father.",
+   "ref": "Genesis 11:22"
+  },
+  {
+   "k": "f",
+   "s": "Lives in the Bible",
+   "n": "Noah",
+   "a": -2947,
+   "z": -1997,
+   "u": 1,
+   "note": "Righteous man, built ark, survived flood",
+   "ref": "Genesis 5:29"
+  },
+  {
+   "k": "f",
+   "s": "Lives in the Bible",
+   "n": "Peleg",
+   "a": -2246,
+   "z": -2007,
+   "u": 1,
+   "note": "Descendant of Shem, ancestor of Abraham",
+   "ref": "Genesis 10:25"
+  },
+  {
+   "k": "f",
+   "s": "Lives in the Bible",
+   "n": "Rehoboam",
+   "a": -1015,
+   "z": -957,
+   "u": 1,
+   "note": "Son of Solomon, first king of Judah",
+   "ref": "1 Kings 11:43"
+  },
+  {
+   "k": "f",
+   "s": "Lives in the Bible",
+   "n": "Reu",
+   "a": -2216,
+   "z": -1977,
+   "u": 1,
+   "note": "Son of Peleg, ancestor of Abraham",
+   "ref": "Genesis 11:18"
+  },
+  {
+   "k": "f",
+   "s": "Lives in the Bible",
+   "n": "Samuel",
+   "a": -1151,
+   "z": -1059,
+   "u": 1,
+   "note": "Prophet and last judge of Israel before the kings",
+   "ref": "1 Samuel 1:20"
+  },
+  {
+   "k": "f",
+   "s": "Lives in the Bible",
+   "n": "Sarah",
+   "a": -1986,
+   "z": -1859,
+   "u": 1,
+   "note": "Wife of Abraham; mother of Isaac",
+   "ref": "Genesis 11:29"
+  },
+  {
+   "k": "f",
+   "s": "Lives in the Bible",
+   "n": "Serug",
+   "a": -2184,
+   "z": -1954,
+   "u": 1,
+   "note": "Son of Reu; father of Nahor, ancestor of Abraham",
+   "ref": "Genesis 11:20"
+  },
+  {
+   "k": "f",
+   "s": "Lives in the Bible",
+   "n": "Seth",
+   "a": -3873,
+   "z": -2961,
+   "u": 1,
+   "note": "Third son of Adam and Eve, ancestor of righteous line",
+   "ref": "Genesis 4:25"
+  },
+  {
+   "k": "f",
+   "s": "Lives in the Bible",
+   "n": "Shelah",
+   "a": -2310,
+   "z": -1877,
+   "u": 1,
+   "note": "Son of Arpachshad and ancestor of Abraham",
+   "ref": "Genesis 10:24"
+  },
+  {
+   "k": "f",
+   "s": "Lives in the Bible",
+   "n": "Shem",
+   "a": -2445,
+   "z": -1845,
+   "u": 1,
+   "note": "Noah's son, ancestor of Semitic peoples",
+   "ref": "Genesis 5:32"
+  },
+  {
+   "k": "f",
+   "s": "Lives in the Bible",
+   "n": "Solomon",
+   "a": -1035,
+   "z": -974,
+   "u": 1,
+   "note": "Son of David, king of Israel, known for his wisdom.",
+   "ref": "2 Samuel 5:14"
+  },
+  {
+   "k": "f",
+   "s": "Lives in the Bible",
+   "n": "Terah",
+   "a": -2125,
+   "z": -1920,
+   "u": 1,
+   "note": "Abraham's father who settled in Haran",
+   "ref": "Genesis 11:24"
+  },
+  {
+   "k": "f",
+   "s": "Lives in the Bible",
+   "n": "Uzziah",
+   "a": -826,
+   "z": -757,
+   "u": 1,
+   "note": "King of Judah, reigned 52 years",
+   "ref": "2 Kings 14:21"
   }
  ],
  "syncs": [
@@ -3815,6 +4419,6 @@
    "ev": "Pilate was prefect of Judea AD 26-36 (Tacitus, Annals 15.44; Josephus); astronomy allows a Friday 14 Nisan on 7 April AD 30 and 3 April AD 33"
   }
  ],
+ "ussher": "Dates follow Ussher's chronology, counted from the Bible's own genealogies and reigns (through Theographic). Historians date the early chapters very differently, so this lane is the Bible's own reckoning, set beside the rest.",
  "present": 2026
 }
-
