@@ -488,6 +488,18 @@ textarea { min-height: 88px; resize: vertical; }
 .pk-index button[aria-current="true"] { background: var(--c); color: var(--raised); }
 .pk-filtering ~ .pk-index { display: none; }
 .group-label { margin: 16px 0 0; }
+/* Giving: a button for each way, with the handle beneath its name. */
+.give { display: grid; grid-template-columns: repeat(auto-fit, minmax(180px, 1fr)); gap: 8px; margin: 10px 0 0; }
+.give-btn { display: flex; align-items: center; gap: 12px; min-height: 56px; padding: 10px 14px; border: 1px solid var(--line); border-radius: 14px; background: var(--surface); color: var(--ink); text-decoration: none; transition: border-color 0.15s, transform 0.15s; }
+.give-btn[hidden] { display: none; }
+.give-btn:hover { border-color: var(--lapis); }
+.give-btn:active { transform: scale(0.98); }
+.give-btn .mark { display: grid; place-items: center; flex: none; width: 36px; height: 36px; border-radius: 10px; background: var(--lapis); color: #fff; font: 800 20px/1 var(--sans); }
+.give-btn .mark svg { width: 20px; height: 20px; }
+.give-btn .mark.cash { background: #00a826; }
+.give-btn .mark.venmo { background: #0074de; font-style: italic; }
+.give-btn b { display: block; font: 600 16px/1.2 var(--sans); }
+.give-btn small { display: block; font: 500 13px/1.3 var(--sans); color: var(--muted); }
 .hint { font-size: 13px; color: var(--muted); margin: 6px 0 0; }
 
 /* Search */
@@ -984,7 +996,12 @@ if (/(^#|&)(access_token|error)=/.test(location.hash)) {
     <div id="support-wrap" hidden>
       <h3>Support this project</h3>
       <p>The site has no ads and never will, and everything in it is free to use. If it has helped you, you can help keep it growing: hosting, review of the translation, and new languages.</p>
-      <p class="actions"><a class="btn line" id="support-link" href="#" target="_blank" rel="noopener"><svg class="icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 20s-7-4.4-7-10a4 4 0 0 1 7-2.6A4 4 0 0 1 19 10c0 5.6-7 10-7 10Z"/></svg>Support this project</a></p>
+      <div class="give">
+        <a class="give-btn" id="give-cashapp" href="#" target="_blank" rel="noopener" hidden><span class="mark cash" aria-hidden="true">$</span><span><b>Cash App</b><small id="give-cashapp-tag"></small></span></a>
+        <a class="give-btn" id="give-venmo" href="#" target="_blank" rel="noopener" hidden><span class="mark venmo" aria-hidden="true">V</span><span><b>Venmo</b><small id="give-venmo-tag"></small></span></a>
+        <a class="give-btn" id="support-link" href="#" target="_blank" rel="noopener" hidden><span class="mark" aria-hidden="true"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 20s-7-4.4-7-10a4 4 0 0 1 7-2.6A4 4 0 0 1 19 10c0 5.6-7 10-7 10Z"/></svg></span><span><b>Give another way</b></span></a>
+      </div>
+      <p class="hint">Gifts go to Jeff Dehut personally, to support the project; they are not tax-deductible.</p>
     </div>
   </div>
 </section>
@@ -3393,7 +3410,13 @@ addEventListener("DOMContentLoaded", () => {
     if (cfg.feedback) a.onclick = () => { a.href = `mailto:${cfg.feedback}?subject=${encodeURIComponent("Plain English Bible" + ref(cur))}`; };
     else a.hidden = true;
   }
-  if (cfg.support) { $("support-link").href = cfg.support; $("support-wrap").hidden = false; }
+  // Giving: Cash App and Venmo by their public handles, or another donation page.
+  const handle = v => (v || "").trim().replace(/^[$@]/, "");
+  const cash = handle(cfg.cashapp), venmo = handle(cfg.venmo);
+  if (cash) { $("give-cashapp").href = `https://cash.app/$${encodeURIComponent(cash)}`; $("give-cashapp-tag").textContent = "$" + cash; $("give-cashapp").hidden = false; }
+  if (venmo) { $("give-venmo").href = `https://venmo.com/u/${encodeURIComponent(venmo)}`; $("give-venmo-tag").textContent = "@" + venmo; $("give-venmo").hidden = false; }
+  if (cfg.support) { $("support-link").href = cfg.support; $("support-link").hidden = false; }
+  $("support-wrap").hidden = !(cash || venmo || cfg.support);
 });
 $("home").onclick = ev => { ev.preventDefault(); openPicker(); };
 $("scrim").onclick = closeSheets;
@@ -3469,7 +3492,7 @@ var reader = {
   openSheet, toast,
 };
 </script>
-<script src="config.js?v=30"></script>
+<script src="config.js?v=31"></script>
 <script src="share.js?v=31"></script>
 <script src="account.js?v=31"></script>
 </body>

@@ -13,7 +13,10 @@ window.SITE_CONFIG = {
   contact: "privacy@bibledata.org",   // a Porkbun email forward to the owner's inbox
   // Where readers send questions and suggestions: the "Send feedback" buttons.
   feedback: "info@bibledata.org",
-  // A page where people can support the project financially (a donation page). Leave empty to
-  // hide the "Support this project" section.
+  // Where people can give to support the project: the "Support this project" buttons in the
+  // reader's "This project" sheet. A Cash App $cashtag and a Venmo username (both public), and
+  // optionally another donation page; leave all empty to hide the section.
+  cashapp: "jeffreydehut",      // cash.app/$jeffreydehut
+  venmo: "Jeffrey-Dehut",       // venmo.com/u/Jeffrey-Dehut
   support: "",
 };
