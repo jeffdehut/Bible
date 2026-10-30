@@ -162,13 +162,13 @@
   async function pull() {
     const since = state.pulled ? new Date(Date.parse(state.pulled) - 60000).toISOString() : null;
     for (let offset = 0; ; offset += 1000) {
-      const rows = await call("/rest/v1/annotations?select=verse,highlight,ranges,note,updated_at,deleted,synced_at" +
+      const rows = await call("/rest/v1/annotations?select=verse,highlight,ranges,note,bookmark,updated_at,deleted,synced_at" +
         (since ? "&synced_at=gt." + encodeURIComponent(since) : "") + "&order=synced_at.asc,verse.asc&limit=1000&offset=" + offset);
       const notes = R.annotations.all(), changes = [];
       for (const r of rows) {
         const mine = state.dirty[r.verse] ?? (notes[r.verse] ? notes[r.verse].t || 0 : 0);
         if (r.updated_at > mine) {
-          changes.push([r.verse, r.deleted ? null : { h: r.highlight || undefined, r: r.ranges || undefined, n: r.note || undefined, t: r.updated_at }]);
+          changes.push([r.verse, r.deleted ? null : { h: r.highlight || undefined, r: r.ranges || undefined, n: r.note || undefined, b: r.bookmark || undefined, t: r.updated_at }]);
           delete state.dirty[r.verse];
         } else if (r.updated_at === mine) delete state.dirty[r.verse];
         if (!state.pulled || Date.parse(r.synced_at) > Date.parse(state.pulled)) state.pulled = r.synced_at;
@@ -184,8 +184,8 @@
     const notes = R.annotations.all();
     for (let k = 0; k < ids.length; k += 500) {
       const rows = ids.slice(k, k + 500).map(id => notes[id]
-        ? { verse: id, highlight: notes[id].h || null, ranges: notes[id].r || null, note: notes[id].n || null, updated_at: notes[id].t || sent[id], deleted: false }
-        : { verse: id, highlight: null, ranges: null, note: null, updated_at: sent[id], deleted: true });
+        ? { verse: id, highlight: notes[id].h || null, ranges: notes[id].r || null, note: notes[id].n || null, bookmark: notes[id].b || null, updated_at: notes[id].t || sent[id], deleted: false }
+        : { verse: id, highlight: null, ranges: null, note: null, bookmark: null, updated_at: sent[id], deleted: true });
       await call("/rest/v1/rpc/push_annotations", { method: "POST", body: { rows } });
       for (const r of rows) if (state.dirty[r.verse] === sent[r.verse]) delete state.dirty[r.verse];
       save();
