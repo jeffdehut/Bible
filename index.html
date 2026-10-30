@@ -43,6 +43,7 @@
   --hebrew: "Noto Serif Hebrew", "Frank Ruhl Libre", "SBL Hebrew", serif;
   --size: 20px;
   --bar: 56px;
+  --mk-gold: #b07d00; --mk-crimson: #b3203a; --mk-teal: #0f8a83; --mk-red: #c62d1f; --mk-pink: #f2a7c3; --mk-blue: #2a5bd7; --mk-green: #2f8f3a; --mk-brown: #8a5a2b; --mk-orange: #d9711c; --mk-indigo: #4b3fb5; --mk-purple: #8a3fb5; --mk-navy: #1f3a7a; --mk-violet: #c7b3f2; --mk-amber: #f5cf6b; --mk-sky: #2b93c9; --mk-slate: #56657d; --mk-gray: #7a7f88; --mk-olive: #6f7d1c; --mk-leaf: #3f9a52; --mk-ink: #c0392b;
 }
 @media (prefers-color-scheme: dark) {
   :root:not([data-theme="light"]) {
@@ -51,6 +52,7 @@
     --draft: #f39a80; --draft-soft: #3a1d16;
     --hl-yellow: rgb(226 189 92 / 30%); --hl-green: rgb(94 199 161 / 26%); --hl-blue: rgb(120 160 255 / 28%);
     --hl-pink: rgb(240 130 180 / 26%); --hl-orange: rgb(240 150 90 / 28%);
+    --mk-gold: #e8bd4f; --mk-crimson: #f07088; --mk-teal: #4fd1c5; --mk-red: #ff7a6b; --mk-pink: rgb(240 130 180 / 70%); --mk-blue: #7ea6ff; --mk-green: #6fd27c; --mk-brown: #d0a274; --mk-orange: #f5a35a; --mk-indigo: #a99cff; --mk-purple: #d59cff; --mk-navy: #9bb4f0; --mk-violet: rgb(170 140 255 / 70%); --mk-amber: rgb(240 200 90 / 70%); --mk-sky: #6cc6f2; --mk-slate: #a7b4c9; --mk-gray: #9aa1ad; --mk-olive: #c3d160; --mk-leaf: #7fd38f; --mk-ink: #ff8a7a;
     --shadow: 0 1px 2px rgb(0 0 0 / 35%), 0 12px 32px rgb(0 0 0 / 40%);
     color-scheme: dark;
   }
@@ -61,6 +63,7 @@
   --draft: #f39a80; --draft-soft: #3a1d16;
   --hl-yellow: rgb(226 189 92 / 30%); --hl-green: rgb(94 199 161 / 26%); --hl-blue: rgb(120 160 255 / 28%);
   --hl-pink: rgb(240 130 180 / 26%); --hl-orange: rgb(240 150 90 / 28%);
+  --mk-gold: #e8bd4f; --mk-crimson: #f07088; --mk-teal: #4fd1c5; --mk-red: #ff7a6b; --mk-pink: rgb(240 130 180 / 70%); --mk-blue: #7ea6ff; --mk-green: #6fd27c; --mk-brown: #d0a274; --mk-orange: #f5a35a; --mk-indigo: #a99cff; --mk-purple: #d59cff; --mk-navy: #9bb4f0; --mk-violet: rgb(170 140 255 / 70%); --mk-amber: rgb(240 200 90 / 70%); --mk-sky: #6cc6f2; --mk-slate: #a7b4c9; --mk-gray: #9aa1ad; --mk-olive: #c3d160; --mk-leaf: #7fd38f; --mk-ink: #ff8a7a;
   --shadow: 0 1px 2px rgb(0 0 0 / 35%), 0 12px 32px rgb(0 0 0 / 40%);
   color-scheme: dark;
 }
@@ -461,6 +464,30 @@ input[type="range"] { width: 100%; accent-color: var(--lapis); }
 .menu small { display: block; color: var(--muted); font-size: 11.5px; font-weight: 400; line-height: 1.25; margin-top: -3px; }
 .menu small:empty { display: none; }
 
+/* Study markings: the shape tells the kind of word, the color which word. */
+.mk { --mc: var(--muted); border-radius: 3px; box-decoration-break: clone; -webkit-box-decoration-break: clone; text-decoration-skip-ink: none; }
+.mk[data-s="box"] { box-shadow: inset 0 0 0 1.5px var(--mc); padding: 0 0.12em; }
+.mk[data-s="cloud"] { border: 1.5px dashed var(--mc); border-radius: 0.8em; padding: 0 0.18em; }
+.mk[data-s="circle"] { border: 1.5px solid var(--mc); border-radius: 1em; padding: 0 0.22em; }
+.mk[data-s="under"] { text-decoration: underline 2px var(--mc); text-underline-offset: 0.2em; }
+.mk[data-s="double"] { text-decoration: underline double 1.5px var(--mc); text-underline-offset: 0.18em; }
+.mk[data-s="dotted"] { text-decoration: underline dotted 2.5px var(--mc); text-underline-offset: 0.22em; }
+.mk[data-s="wavy"] { text-decoration: underline wavy 1.5px var(--mc); text-underline-offset: 0.2em; }
+.mk[data-s="strike"] { text-decoration: line-through 2px var(--mc); }
+.mk[data-s="tint"] { background: color-mix(in srgb, var(--mc) 38%, transparent); }
+.mk[data-g]::before { content: attr(data-g); color: var(--mc); font: 700 0.62em/1 var(--sans); vertical-align: 0.55em; margin-right: 0.1em; }
+.linkish { border: 0; background: none; padding: 0; font: inherit; color: var(--lapis); text-decoration: underline; cursor: pointer; }
+.marks-top { padding: 0 0 6px; border-bottom: 1px solid var(--line); }
+.switch { display: flex; align-items: center; gap: 10px; font: 600 15px/1.3 var(--sans); cursor: pointer; padding: 6px 0; }
+.switch input, .mk-list input, .mk-group input { width: 20px; height: 20px; accent-color: var(--lapis); flex: none; margin: 0; }
+.mk-group { font: 600 13px/1 var(--sans); letter-spacing: 0.05em; text-transform: uppercase; color: var(--muted); margin: 18px 0 6px; }
+.mk-group label { display: flex; align-items: center; gap: 10px; cursor: pointer; }
+.mk-list { list-style: none; margin: 0; padding: 0; }
+.mk-list label { display: grid; grid-template-columns: 20px 112px 1fr; align-items: center; gap: 12px; padding: 8px 0; border-bottom: 1px solid var(--line); cursor: pointer; }
+.mk-sample { font: 400 18px/1.4 var(--read); color: var(--ink); }
+.mk-text { font: 400 14px/1.3 var(--sans); }
+.mk-text small { display: block; color: var(--muted); font-size: 12.5px; }
+
 .toast {
   position: fixed; z-index: 10; left: 50%; bottom: max(24px, env(safe-area-inset-bottom, 0px)); transform: translateX(-50%);
   background: var(--ink); color: var(--bg); border-radius: 99px; padding: 10px 16px; font: 600 14px/1.2 var(--sans); box-shadow: var(--shadow);
@@ -691,6 +718,22 @@ if (/(^#|&)(access_token|error)=/.test(location.hash)) {
       <button type="button" data-v="on">Show markers</button><button type="button" data-v="off">Hide markers</button>
     </div>
   </div>
+  <div class="setting">
+    <span class="lbl" id="marks-label">Study markings</span>
+    <div class="seg" role="group" aria-labelledby="marks-label" id="showmarks">
+      <button type="button" data-v="off">Off</button><button type="button" data-v="on">Show markings</button>
+    </div>
+    <small>Key words marked through the whole Bible, as in an inductive study: God, Jesus and the Spirit, themes such as love and sin, time and place, and connecting words. <button class="linkish" type="button" id="open-marks-2">Choose what to mark</button></small>
+  </div>
+</section>
+
+<section class="sheet dialog split" id="marks" hidden aria-labelledby="marks-title">
+  <div class="grab"></div>
+  <div class="sheet-head"><h2 id="marks-title">Study markings</h2><button class="btn" type="button" data-close aria-label="Close"><svg class="icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M6 6l12 12M18 6 6 18"/></svg></button></div>
+  <div class="marks-top">
+    <label class="switch"><input type="checkbox" id="marks-on"><span>Show markings in the text</span></label>
+  </div>
+  <div class="scroll" id="marks-body"></div>
 </section>
 
 <section class="sheet dialog" id="menu" hidden aria-labelledby="menu-title">
@@ -702,6 +745,7 @@ if (/(^#|&)(access_token|error)=/.test(location.hash)) {
     <li><button type="button" id="open-plans" title="Reading plans: through the Bible in a year, and shorter plans"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><rect x="3.5" y="5" width="17" height="15" rx="2.5"/><path d="M3.5 10h17M8 3v4M16 3v4"/><path d="m9 15 2 2 4-4"/></svg><span>Reading plans</span><small id="plans-sub"></small></button></li>
     <li><button type="button" id="open-study" title="Nave’s topics and Easton’s Bible dictionary"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M12 6.5C10 5 7 4.5 3.5 5v14c3.5-.5 6.5 0 8.5 1.5 2-1.5 5-2 8.5-1.5V5C17 4.5 14 5 12 6.5Z"/><path d="M12 6.5v14"/></svg><span>Topics &amp; dictionary</span></button></li>
     <li><button type="button" id="open-parallels" title="The Gospels side by side; Kings beside Chronicles"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><rect x="3" y="4" width="7.5" height="16" rx="1.5"/><rect x="13.5" y="4" width="7.5" height="16" rx="1.5"/><path d="M5.5 8.5h2.5M5.5 12h2.5M5.5 15.5h2.5M16 8.5h2.5M16 12h2.5M16 15.5h2.5"/></svg><span>Parallel passages</span></button></li>
+    <li><button type="button" id="open-marks" title="Key words marked through the whole Bible, as in an inductive study"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M4 18.5c2-.6 3.2-.6 5 0s3 .6 5 0 3.2-.6 6 0"/><rect x="4" y="5" width="9" height="8" rx="1.5"/><path d="m16.5 6.5 2 3.5h-4z"/></svg><span>Study markings</span><small id="marks-sub"></small></button></li>
     <li><button type="button" id="open-account" hidden title="Keep your highlights and notes on every device"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M19.5 10A8 8 0 0 0 5.6 7.2L4 9"/><path d="M4 4v5h5"/><path d="M4.5 14a8 8 0 0 0 13.9 2.8L20 15"/><path d="M20 20v-5h-5"/></svg><span>Sync devices</span><small id="account-sub"></small></button></li>
   </ul>
   <h3 class="menu-group">Explore</h3>
@@ -800,7 +844,7 @@ const store = {
   get(k, d) { try { const v = localStorage.getItem("pe." + k); return v == null ? d : JSON.parse(v); } catch (e) { return d; } },
   set(k, v) { try { localStorage.setItem("pe." + k, JSON.stringify(v)); } catch (e) { /* storage unavailable */ } },
 };
-const settings = Object.assign({ size: 20, theme: "system", numbering: "hebrew", notes: "on" }, store.get("settings", {}));
+const settings = Object.assign({ size: 20, theme: "system", numbering: "hebrew", notes: "on", marks: "off", markOff: [] }, store.get("settings", {}));
 let notes = store.get("annotations", {});   // { "John.3.16": { h: "yellow", n: "text", t: 1730000000000 } }
 
 /* ---------- Data ---------- */
@@ -962,6 +1006,7 @@ async function show(b, c, v, opts = {}) {
     if (row[3] && row[3].p) { text.append(p); p = el("p"); }
   }
   if (p.childNodes.length) text.append(p);
+  if (settings.marks === "on") paintMarks(b, c);
   // Chapter navigation.
   const idx = BOOKS.indexOf(b);
   const prev = c > 1 ? [b, c - 1] : idx > 0 ? [BOOKS[idx - 1], BOOKS[idx - 1].s.length] : null;
@@ -2002,12 +2047,14 @@ function applySettings() {
   if (settings.theme === "system") document.documentElement.removeAttribute("data-theme");
   else document.documentElement.setAttribute("data-theme", settings.theme);
   $("size").value = settings.size;
-  for (const [id, key] of [["theme", "theme"], ["numbering", "numbering"], ["shownotes", "notes"]])
+  for (const [id, key] of [["theme", "theme"], ["numbering", "numbering"], ["shownotes", "notes"], ["showmarks", "marks"]])
     for (const b of $(id).children) b.setAttribute("aria-pressed", String(b.dataset.v === settings[key]));
+  $("marks-on").checked = settings.marks === "on";
+  $("marks-sub").textContent = settings.marks === "on" ? "On" : "";
   store.set("settings", settings);
 }
 $("size").oninput = () => { settings.size = +$("size").value; applySettings(); };
-for (const [id, key] of [["theme", "theme"], ["numbering", "numbering"], ["shownotes", "notes"]])
+for (const [id, key] of [["theme", "theme"], ["numbering", "numbering"], ["shownotes", "notes"], ["showmarks", "marks"]])
   $(id).onclick = ev => { const b = ev.target.closest("button"); if (!b) return; settings[key] = b.dataset.v; applySettings(); if (key !== "theme" && cur) show(cur.b, cur.c, null, { keepScroll: true }); };
 
 /* ---------- Little things ---------- */
@@ -2016,6 +2063,106 @@ function toast(msg, ms = 2200) {
   const t = $("toast"); t.textContent = msg; t.hidden = false;
   clearTimeout(toastTimer); toastTimer = setTimeout(() => { t.hidden = true; }, ms);
 }
+/* ---------- Study markings ---------- */
+// Key words marked through the whole Bible (scripts/markings.py, MARKINGS.md). Each verse's
+// marks are [start, end, marking] in the same counted characters as partial highlights.
+const MARK_LANG = "en";
+const markRules = () => getJSON("markings/rules.json");
+const markName = (x, k = "name") => x[k] && (x[k][MARK_LANG] || x[k].en);
+async function paintMarks(b, c) {
+  let R, M;
+  try { [R, M] = await Promise.all([markRules(), getJSON(`markings/${MARK_LANG}/${b.slug}.json`)]); }
+  catch (e) { return; }
+  if (!cur || cur.b !== b || cur.c !== c || settings.marks !== "on") return;
+  const off = new Set(settings.markOff || []), marks = M[c - 1] || {};
+  for (const span of $("text").querySelectorAll(".v")) {
+    const list = marks[span.dataset.v];
+    if (!list) continue;
+    // From the end, so each wrap leaves the earlier offsets where they were.
+    for (let i = list.length - 3; i >= 0; i -= 3) {
+      const r = R.markings[list[i + 2]];
+      if (r && !off.has(r.id)) wrapMark(span, list[i], list[i + 1], r);
+    }
+  }
+}
+function unpaintMarks() {
+  for (const m of $("text").querySelectorAll(".mk")) m.replaceWith(...m.childNodes);
+  for (const v of $("text").querySelectorAll(".v")) v.normalize();
+}
+function markEl(r) {
+  const m = el("span", { class: "mk", "data-s": r.style, title: markName(r) });
+  m.style.setProperty("--mc", `var(--mk-${r.color})`);
+  if (r.glyph) m.dataset.g = r.glyph;
+  return m;
+}
+function wrapMark(span, s, e, r) {
+  // Where the counted characters s and e fall in the verse's text.
+  let at = 0, sn = null, so = 0, en = null, eo = 0;
+  for (const node of countedText(span)) {
+    const len = node.data.length;
+    if (!sn && s < at + len) { sn = node; so = s - at; }
+    if (e <= at + len) { en = node; eo = e - at; break; }
+    at += len;
+  }
+  if (!sn || !en) return;
+  const range = document.createRange();
+  range.setStart(sn, so); range.setEnd(en, eo);
+  // A word set in parts (the small capitals of LORD) is wrapped whole, not part by part.
+  if (so === 0) { let n = sn; while (n.parentNode !== span && !n.previousSibling && !n.parentNode.matches(".mk, mark")) n = n.parentNode; if (n !== sn) range.setStartBefore(n); }
+  if (eo === en.data.length) { let n = en; while (n.parentNode !== span && !n.nextSibling && !n.parentNode.matches(".mk, mark")) n = n.parentNode; if (n !== en) range.setEndAfter(n); }
+  try { range.surroundContents(markEl(r)); }
+  catch (err) {
+    // Across a highlight's edge: mark each piece.
+    at = 0;
+    for (const node of countedText(span)) {
+      const len = node.data.length, a = Math.max(s, at), z = Math.min(e, at + len);
+      if (a < z) {
+        let mid = node;
+        if (a > at) mid = mid.splitText(a - at);
+        if (z < at + len) mid.splitText(z - a);
+        const m = markEl(r); mid.replaceWith(m); m.append(mid);
+      }
+      at += len;
+    }
+  }
+}
+function repaintMarks() {
+  unpaintMarks();
+  if (cur && settings.marks === "on") paintMarks(cur.b, cur.c);
+}
+async function renderMarksKey() {
+  const body = $("marks-body");
+  let R;
+  try { R = await markRules(); }
+  catch (e) { body.textContent = "The markings couldn't be loaded. Check your connection and try again."; return; }
+  const off = new Set(settings.markOff || []);
+  const save = () => { settings.markOff = [...off]; store.set("settings", settings); repaintMarks(); };
+  body.textContent = "";
+  body.append(el("p", { class: "hint", text: "Each marking follows a word of the Hebrew or Greek, so a word is marked where the original has it: “Spirit” where it is God’s Spirit, “love” where the text speaks of love. Turn any of them off to study one or two words at a time." }));
+  for (const g of R.groups) {
+    const rules = R.markings.filter(r => r.group === g.id);
+    const all = el("input", { type: "checkbox" });
+    const sync = () => { all.checked = rules.every(r => !off.has(r.id)); all.indeterminate = !all.checked && rules.some(r => !off.has(r.id)); };
+    const boxes = [];
+    all.onchange = () => { for (const r of rules) all.checked ? off.delete(r.id) : off.add(r.id); boxes.forEach(b => { b.checked = all.checked; }); save(); };
+    const list = el("ul", { class: "mk-list" });
+    for (const r of rules) {
+      const box = el("input", { type: "checkbox" });
+      box.checked = !off.has(r.id);
+      box.onchange = () => { box.checked ? off.delete(r.id) : off.add(r.id); sync(); save(); };
+      boxes.push(box);
+      const sample = markEl(r); sample.textContent = markName(r, "sample") || markName(r);
+      list.append(el("li", {}, el("label", {}, box, el("span", { class: "mk-sample" }, sample),
+        el("span", { class: "mk-text" }, el("b", { text: markName(r) }), markName(r, "note") ? el("small", { text: markName(r, "note") }) : ""))));
+    }
+    sync();
+    body.append(el("h3", { class: "mk-group" }, el("label", {}, all, el("span", { text: markName(g) }))), list);
+  }
+}
+$("marks-on").onchange = () => { settings.marks = $("marks-on").checked ? "on" : "off"; applySettings(); repaintMarks(); };
+$("open-marks").onclick = () => { openSheet("marks"); renderMarksKey(); };
+$("open-marks-2").onclick = () => { openSheet("marks"); renderMarksKey(); };
+
 /* ---------- Highlighting part of a verse ---------- */
 // A highlight on part of a verse is stored with the verse as [start, end, color], counting the
 // characters of its words as the reader shows them (not the verse number or note letters), so
@@ -2197,7 +2344,7 @@ getJSON("books.json").then(list => {
   addEventListener("hashchange", route);
   route();
 }).catch(() => { $("loading").textContent = "The Bible couldn't be loaded. Check your connection and reload the page."; });
-if ("serviceWorker" in navigator && /^https?:$/.test(location.protocol) && !embedded) navigator.serviceWorker.register("sw.js?v=19").catch(() => {});
+if ("serviceWorker" in navigator && /^https?:$/.test(location.protocol) && !embedded) navigator.serviceWorker.register("sw.js?v=20").catch(() => {});
 
 /* ---------- For account.js: highlights and notes, and two of the reader's tools ---------- */
 var reader = {
@@ -2215,8 +2362,8 @@ var reader = {
   openSheet, toast,
 };
 </script>
-<script src="config.js?v=19"></script>
-<script src="share.js?v=19"></script>
-<script src="account.js?v=19"></script>
+<script src="config.js?v=20"></script>
+<script src="share.js?v=20"></script>
+<script src="account.js?v=20"></script>
 </body>
 </html>

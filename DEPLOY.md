@@ -90,6 +90,7 @@ python3 scripts/maps.py          # the maps in maps/
 python3 scripts/study.py         # the topics and dictionary in data/bible/study/
 python3 scripts/parallels.py     # parallel passages and reading plans (after study.py)
 python3 scripts/lexicons.py      # the full lexicon entries (BDB, LSJ) in data/bible/lexicon/
+python3 scripts/markings.py      # the study markings in data/bible/markings/ (after reader.py)
 ```
 
 Then push the branch, and merging it into `main` puts it live. The pages are built from templates in `scripts/templates/`; edit those, not the built pages.
