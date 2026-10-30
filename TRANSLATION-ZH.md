@@ -302,6 +302,14 @@ Settled while drafting Joshua:
 | סֵפֶר הַיָּשָׁר | 《雅煞珥書》 | Book titles in 《》. |
 | The list of kings (12:9–24) | 一個是……王 | Uniform, names exactly as the Union Version. |
 | Place names of two words ("Valley of X", "Mount X") | As in the Union Version's text | 亞割谷, 米斯巴平原, 黎巴嫩平原, 多珥山岡, 米倫水, 除皮山. |
+| Boundaries (Joshua 15–19): יָצָא; עָבַר; עָלָה, יָרַד; נָסַב; תָּאַר; תֹּצְאֹת | 伸到；經過；上到，下到；轉向；延伸到；盡頭在 | One verb, one rendering, throughout. |
+| Town lists: עָרִים … וְחַצְרֵיהֶן; בְּנוֹת (of a town) | 一共二十九座城，連同屬城的村莊；屬它的鎮 | Counts in Chinese numerals; *chatserim* and 「女兒們」 noted. |
+| X וְאֶת־מִגְרָשֶׁהָ (Joshua 21) | X和屬它的草場 | Uniform through the list. |
+| גּוֹרָל | 籤；抽籤所得的地 | 「第二籤抽出來是西緬」. |
+| עִיר מִקְלַט הָרֹצֵחַ | 殺人者的逃城 | As Numbers 35; *rotseach* noted. |
+| A name the Leningrad Codex spells unlike the Union Version | The Hebrew's form in the text, the Union Version's in a note | 魯瑪 (15:52, 和合本「度瑪」); 基法‧阿摩拿 (18:24, qere; ketiv as 和合本). |
+| הַנָּהָר | 大河 | Noted: the Euphrates. |
+| אֲנִי וּבֵיתִי נַעֲבֹד אֶת־יְהוָה (24:15) | 至於我和我一家，我們必事奉耶和華 | |
 
 ## Style
 
