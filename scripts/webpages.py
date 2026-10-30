@@ -261,15 +261,9 @@ def document(body, root="", colors=("#fbfaf7", "#0d111b")):
 
 
 # The bar across the top of the pages beside the reader: the name, which leads to the reader,
-# and the four parts of the site, with the one shown marked. It takes the page's own colors
-# (--bg, --ink, --muted, --line, --lapis, --lapis-soft), so it sits on any of them.
-# Each part is an icon, named in its tooltip and for screen readers; the icons are the menu's
-# (nav.js), with an open book for the reader.
-NAV = [("index.html", "Read", '<path d="M12 6.5C10 5 7 4.5 3.5 5v14c3.5-.5 6.5 0 8.5 1.5 2-1.5 5-2 8.5-1.5V5C17 4.5 14 5 12 6.5Z"/><path d="M12 6.5v14"/><path d="M6.5 9.5h3M6.5 13h3M14.5 9.5h3M14.5 13h3"/>'),
-       ("maps/index.html", "Maps", '<path d="M9 4 3.5 6v14L9 18l6 2 5.5-2V4L15 6 9 4Z"/><path d="M9 4v14M15 6v14"/>'),
-       ("genealogy.html", "Genealogy", '<circle cx="12" cy="5" r="2.2"/><circle cx="6" cy="19" r="2.2"/><circle cx="18" cy="19" r="2.2"/><path d="M12 7.2V12M6 16.8V12h12v4.8"/>'),
-       ("history.html", "Timeline", '<path d="M3 6.5c3 0 3-2 6-2s3 2 6 2 3-2 6-2"/><path d="M3 12c3 0 3-2 6-2s3 2 6 2 3-2 6-2"/><path d="M3 17.5c3 0 3-2 6-2s3 2 6 2 3-2 6-2"/><path d="M8 21v-2.5M16 21v-2.5"/>'),
-       ("graph.html", "Connections", '<circle cx="6" cy="7" r="2.2"/><circle cx="18" cy="6" r="2.2"/><circle cx="12" cy="17" r="2.2"/><path d="M8 7.6 15.9 6.4M7.2 9 11 15M16.9 8 13 15"/>')]
+# and the menu button (nav.js puts it at the end), which holds every part of the site, the same
+# on every page. It takes the page's own colors (--bg, --ink, --muted, --line, --lapis,
+# --lapis-soft), so it sits on any of them.
 APPBAR_CSS = """<style>
 :root { --bar: 56px; }
 body::before { content: ""; position: fixed; inset: 0 0 auto; height: env(safe-area-inset-top, 0px); z-index: 11; background: var(--bg); }
@@ -285,31 +279,19 @@ body::before { content: ""; position: fixed; inset: 0 0 auto; height: env(safe-a
   color: var(--ink); text-decoration: none; white-space: nowrap; font: 500 17px/1 "Frank Ruhl Libre", "Noto Serif", Georgia, serif; letter-spacing: 0.01em;
 }
 .appbar .brand img { width: 26px; height: 26px; border-radius: 7px; flex: none; }
-.appnav { margin-inline-start: auto; display: flex; gap: 2px; }
-.appnav a {
-  display: inline-grid; place-items: center; width: 42px; height: 40px; border-radius: 10px; color: var(--muted); text-decoration: none;
-}
-.appnav svg { width: 22px; height: 22px; }
-.appnav a:hover { background: var(--lapis-soft); color: var(--ink); }
-.appnav a[aria-current="page"] { background: var(--lapis-soft); color: var(--lapis); }
+.appbar .sitenav-btn { margin-inline-start: auto; }
 .appbar a:focus-visible { outline: 2px solid var(--lapis); outline-offset: 0; }
-@media (max-width: 420px) { .appbar .brand span { display: none; } .appnav a { width: 40px; } }
 @media print { .appbar { display: none; } }
 </style>"""
 
 
 def appbar(current, root=""):
-    """The shared bar, for the page whose address (from the site root) is `current`."""
-    mark = ' aria-current="page"'
-    links = "".join(f'<a href="{root}{href}"{mark if href == current else ""} title="{text}" aria-label="{text}">'
-                    f'<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">{icon}</svg></a>'
-                    for href, text, icon in NAV)
+    """The shared bar, for the page whose address (from the site root) is `current`; the menu
+    marks the page it is on (nav.js)."""
     return (f'{APPBAR_CSS}\n<header class="appbar">\n'
             f'  <a class="brand" href="{root}index.html"><img src="{root}icons/icon.svg" alt="Plain English Bible">'
-            f'<span aria-hidden="true">Plain English Bible</span></a>\n'
-            f'  <nav class="appnav" aria-label="Plain English Bible">{links}</nav>\n</header>\n'
-            f'<script src="{root}nav.js?v=31"></script>\n'
-            '<script>document.querySelector(".appnav [aria-current]")?.scrollIntoView({ inline: "nearest", block: "nearest" });</script>')
+            f'<span aria-hidden="true">Plain English Bible</span></a>\n</header>\n'
+            f'<script src="{root}nav.js?v=31"></script>')
 
 
 def page(name, data):
