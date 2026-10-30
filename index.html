@@ -443,13 +443,23 @@ input[type="range"] { width: 100%; accent-color: var(--lapis); }
 .prose p { margin: 0 0 10px; max-width: 62ch; }
 .prose h3 { font: 600 15px/1.3 var(--sans); margin: 16px 0 6px; }
 .prose ul { margin: 0 0 10px; padding-left: 20px; }
-.menu { list-style: none; margin: 4px 0 0; padding: 0; display: grid; gap: 2px; }
+.menu-group { font: 600 12px/1 var(--sans); letter-spacing: 0.06em; text-transform: uppercase; color: var(--muted); margin: 14px 2px 8px; }
+.menu-group:first-of-type { margin-top: 4px; }
+.menu { list-style: none; margin: 0; padding: 0; display: grid; grid-template-columns: repeat(auto-fill, minmax(78px, 1fr)); gap: 6px; }
+.menu li:has(> [hidden]) { display: none; }
 .menu a, .menu button {
-  display: flex; align-items: center; gap: 12px; width: 100%; text-align: left; border: 0; background: transparent;
-  padding: 11px 10px; border-radius: 10px; font: 500 15px/1.3 var(--sans); color: var(--ink); text-decoration: none; cursor: pointer;
+  display: flex; flex-direction: column; align-items: center; justify-content: flex-start; gap: 7px; width: 100%; height: 100%; text-align: center; hyphens: auto;
+  border: 0; background: transparent; padding: 10px 4px 9px; border-radius: 14px; font: 500 13px/1.25 var(--sans); color: var(--ink);
+  text-decoration: none; cursor: pointer;
 }
+.menu svg { width: 46px; height: 46px; padding: 11px; border-radius: 14px; background: var(--lapis-soft); color: var(--lapis); box-sizing: border-box; flex: none; }
+.menu.explore svg { background: var(--gold-soft); color: var(--gold); }
+.menu.about svg { background: color-mix(in srgb, var(--line) 55%, transparent); color: var(--muted); }
 .menu a:hover, .menu button:hover { background: var(--lapis-soft); }
-.menu small { display: block; color: var(--muted); font-size: 13px; font-weight: 400; }
+.menu a:hover svg, .menu button:hover svg { background: var(--surface); }
+.menu a:focus-visible, .menu button:focus-visible { outline: 2px solid var(--lapis); outline-offset: -2px; }
+.menu small { display: block; color: var(--muted); font-size: 11.5px; font-weight: 400; line-height: 1.25; margin-top: -3px; }
+.menu small:empty { display: none; }
 
 .toast {
   position: fixed; z-index: 10; left: 50%; bottom: max(24px, env(safe-area-inset-bottom, 0px)); transform: translateX(-50%);
@@ -686,18 +696,26 @@ if (/(^#|&)(access_token|error)=/.test(location.hash)) {
 <section class="sheet dialog" id="menu" hidden aria-labelledby="menu-title">
   <div class="grab"></div>
   <div class="sheet-head"><h2 id="menu-title">Plain English Bible</h2><button class="btn" type="button" data-close aria-label="Close"><svg class="icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M6 6l12 12M18 6 6 18"/></svg></button></div>
+  <h3 class="menu-group">Read and study</h3>
   <ul class="menu">
-    <li><button type="button" id="open-mine"><span>My highlights and notes<small>Saved on this device</small></span></button></li>
-    <li><button type="button" id="open-account" hidden><span>Sync across devices<small id="account-sub">Keep your highlights and notes on every device</small></span></button></li>
-    <li><button type="button" id="open-plans"><span>Reading plans<small id="plans-sub">Through the Bible in a year, and shorter plans</small></span></button></li>
-    <li><button type="button" id="open-parallels"><span>Parallel passages<small>The Gospels side by side; Kings beside Chronicles</small></span></button></li>
-    <li><button type="button" id="open-study"><span>Topics and dictionary<small>Nave’s topics and Easton’s Bible dictionary</small></span></button></li>
-    <li><button type="button" id="open-project"><span>About this project<small>Who made it, feedback and support</small></span></button></li>
-    <li><button type="button" id="open-about"><span>About this translation<small>A first draft, awaiting review</small></span></button></li>
-    <li><a href="maps/index.html"><span>Bible maps<small>Eight sheets, from the patriarchs to Paul</small></span></a></li>
-    <li><a href="genealogy.html"><span>The Generations<small>From Adam to Jesus, and every family</small></span></a></li>
-    <li><a href="history.html"><span>Streams of Time<small>World history beside the Bible</small></span></a></li>
-    <li><a href="graph.html"><span>The Web of Scripture<small>Every chapter, person and place, and the threads between them</small></span></a></li>
+    <li><button type="button" id="open-mine" title="My highlights and notes, saved on this device"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="m14.5 4.5 5 5L10 19H5v-5z"/><path d="m12 7 5 5"/><path d="M4 21h16"/></svg><span>Highlights &amp; notes</span></button></li>
+    <li><button type="button" id="open-plans" title="Reading plans: through the Bible in a year, and shorter plans"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><rect x="3.5" y="5" width="17" height="15" rx="2.5"/><path d="M3.5 10h17M8 3v4M16 3v4"/><path d="m9 15 2 2 4-4"/></svg><span>Reading plans</span><small id="plans-sub"></small></button></li>
+    <li><button type="button" id="open-study" title="Nave’s topics and Easton’s Bible dictionary"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M12 6.5C10 5 7 4.5 3.5 5v14c3.5-.5 6.5 0 8.5 1.5 2-1.5 5-2 8.5-1.5V5C17 4.5 14 5 12 6.5Z"/><path d="M12 6.5v14"/></svg><span>Topics &amp; dictionary</span></button></li>
+    <li><button type="button" id="open-parallels" title="The Gospels side by side; Kings beside Chronicles"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><rect x="3" y="4" width="7.5" height="16" rx="1.5"/><rect x="13.5" y="4" width="7.5" height="16" rx="1.5"/><path d="M5.5 8.5h2.5M5.5 12h2.5M5.5 15.5h2.5M16 8.5h2.5M16 12h2.5M16 15.5h2.5"/></svg><span>Parallel passages</span></button></li>
+    <li><button type="button" id="open-account" hidden title="Keep your highlights and notes on every device"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M19.5 10A8 8 0 0 0 5.6 7.2L4 9"/><path d="M4 4v5h5"/><path d="M4.5 14a8 8 0 0 0 13.9 2.8L20 15"/><path d="M20 20v-5h-5"/></svg><span>Sync devices</span><small id="account-sub"></small></button></li>
+  </ul>
+  <h3 class="menu-group">Explore</h3>
+  <ul class="menu explore">
+    <li><a href="graph.html" title="Every chapter, person and place, and the threads between them"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="6" cy="7" r="2.2"/><circle cx="18" cy="6" r="2.2"/><circle cx="12" cy="17" r="2.2"/><path d="M8 7.6 15.9 6.4M7.2 9 11 15M16.9 8 13 15"/></svg><span>Connections</span></a></li>
+    <li><a href="maps/index.html" title="Eight sheets, from the patriarchs to Paul"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M9 4 3.5 6v14L9 18l6 2 5.5-2V4L15 6 9 4Z"/><path d="M9 4v14M15 6v14"/></svg><span>Maps</span></a></li>
+    <li><a href="history.html" title="Streams of Time: world history beside the Bible"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M3 6.5c3 0 3-2 6-2s3 2 6 2 3-2 6-2"/><path d="M3 12c3 0 3-2 6-2s3 2 6 2 3-2 6-2"/><path d="M3 17.5c3 0 3-2 6-2s3 2 6 2 3-2 6-2"/><path d="M8 21v-2.5M16 21v-2.5"/></svg><span>Timeline</span></a></li>
+    <li><a href="genealogy.html" title="The Generations: from Adam to Jesus, and every family"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="12" cy="5" r="2.2"/><circle cx="6" cy="19" r="2.2"/><circle cx="18" cy="19" r="2.2"/><path d="M12 7.2V12M6 16.8V12h12v4.8"/></svg><span>Genealogy</span></a></li>
+  </ul>
+  <h3 class="menu-group">About</h3>
+  <ul class="menu about">
+    <li><button type="button" id="open-project" title="Who made it"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="12" cy="12" r="9"/><path d="M12 11v5.5M12 7.6v.1"/></svg><span>This project</span></button></li>
+    <li><button type="button" id="open-about" title="A first draft, awaiting review"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M6 3h8.5L19 7.5V21H6z"/><path d="M14 3v5h5"/><path d="M9 12.5h7M9 16h5"/></svg><span>This translation</span></button></li>
+    <li><a id="menu-feedback" href="mailto:info@bibledata.org" title="Questions, mistakes and ideas"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><rect x="3" y="5" width="18" height="14" rx="2.5"/><path d="m3.5 7 8.5 6 8.5-6"/></svg><span>Send feedback</span></a></li>
   </ul>
 </section>
 
@@ -1581,10 +1599,10 @@ function readings(refs) {
 function savePlan() { store.set("plan", plan); updatePlanSub(); }
 function updatePlanSub() {
   const sub = $("plans-sub");
-  if (!plan) { sub.textContent = "Through the Bible in a year, and shorter plans"; return; }
+  if (!plan) { sub.textContent = ""; return; }
   getJSON("study/plans.json").then(P => {
     const p = P.find(x => x.id === plan.id);
-    if (p) sub.textContent = `${p.n}: ${plan.done.length} of ${p.days.length} days read`;
+    if (p) sub.textContent = `${plan.done.length} of ${p.days.length} days`;
   }).catch(() => {});
 }
 async function renderPlans() {
@@ -2129,8 +2147,11 @@ $("open-project").onclick = () => openSheet("project");
 addEventListener("DOMContentLoaded", () => {
   const cfg = window.SITE_CONFIG || {};
   const ref = cur => (cur ? ` (${cur.b.osis === "Ps" ? "Psalm" : cur.b.n} ${cur.c})` : "");
-  if (cfg.feedback) $("feedback-link").onclick = () => { $("feedback-link").href = `mailto:${cfg.feedback}?subject=${encodeURIComponent("Plain English Bible" + ref(cur))}`; };
-  else $("feedback-link").hidden = true;
+  for (const id of ["feedback-link", "menu-feedback"]) {
+    const a = $(id);
+    if (cfg.feedback) a.onclick = () => { a.href = `mailto:${cfg.feedback}?subject=${encodeURIComponent("Plain English Bible" + ref(cur))}`; };
+    else a.hidden = true;
+  }
   if (cfg.support) { $("support-link").href = cfg.support; $("support-wrap").hidden = false; }
 });
 $("home").onclick = ev => { ev.preventDefault(); openPicker(); };
@@ -2176,7 +2197,7 @@ getJSON("books.json").then(list => {
   addEventListener("hashchange", route);
   route();
 }).catch(() => { $("loading").textContent = "The Bible couldn't be loaded. Check your connection and reload the page."; });
-if ("serviceWorker" in navigator && /^https?:$/.test(location.protocol) && !embedded) navigator.serviceWorker.register("sw.js?v=18").catch(() => {});
+if ("serviceWorker" in navigator && /^https?:$/.test(location.protocol) && !embedded) navigator.serviceWorker.register("sw.js?v=19").catch(() => {});
 
 /* ---------- For account.js: highlights and notes, and two of the reader's tools ---------- */
 var reader = {
@@ -2194,8 +2215,8 @@ var reader = {
   openSheet, toast,
 };
 </script>
-<script src="config.js?v=18"></script>
-<script src="share.js?v=18"></script>
-<script src="account.js?v=18"></script>
+<script src="config.js?v=19"></script>
+<script src="share.js?v=19"></script>
+<script src="account.js?v=19"></script>
 </body>
 </html>

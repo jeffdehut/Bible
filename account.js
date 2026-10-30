@@ -228,7 +228,7 @@
     el("a", { href: "privacy.html", text: "Privacy" }));
   function render() {
     $("open-account").hidden = false;
-    $("account-sub").textContent = state.session ? `${state.session.user.email} · ${statusText()}` : "Keep your highlights and notes on every device";
+    $("account-sub").textContent = state.session ? statusText() : "";
     $("mine-account").textContent = state.session ? `Also kept in your account, ${state.session.user.email}. ${statusText()}.`
       : "Sign in to keep them in an account and on every device you use.";
     if (!body) return;
