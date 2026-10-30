@@ -311,6 +311,23 @@ Settled while drafting Joshua:
 | הַנָּהָר | 大河 | Noted: the Euphrates. |
 | אֲנִי וּבֵיתִי נַעֲבֹד אֶת־יְהוָה (24:15) | 至於我和我一家，我們必事奉耶和華 | |
 
+Settled while drafting Judges:
+
+| Source | Rendering | Notes |
+|---|---|---|
+| שֹׁפֵט; שָׁפַט אֶת־יִשְׂרָאֵל | 士師；作以色列的士師 | Noted at 2:16 (*shofetim*): leaders and deliverers who also governed, not only judges in court. God as הַשֹּׁפֵט (11:27): 審判者, noted as the same word. |
+| וַיַּעֲשׂוּ בְנֵי־יִשְׂרָאֵל אֶת־הָרַע בְּעֵינֵי יְהוָה | 以色列人（又）行耶和華眼中看為惡的事 | Word for word the same each time. |
+| The cycle: וַיִּחַר־אַף יְהוָה בְּיִשְׂרָאֵל; מָכַר בְּיַד; נָתַן בְּיַד | 耶和華的怒氣向以色列發作；把他們賣給；交在……手中 | 賣給 noted: 「賣在……手中」. |
+| זָעַק אֶל־יְהוָה; הֵקִים מוֹשִׁיעַ | 以色列人向耶和華呼求；耶和華為他們興起一位拯救者 | |
+| וַתִּשְׁקֹט הָאָרֶץ; נִכְנַע | 那地太平了……年；被制伏 | 太平 noted: 「安靜了」. |
+| רוּחַ יְהוָה (הָיְתָה) עַל; לָבְשָׁה | 耶和華的靈臨到；籠罩 (6:34) | *ruach* noted; 籠罩 noted: 「穿上」. |
+| הַבְּעָלִים; הָעַשְׁתָּרוֹת; הָאֲשֵׁרוֹת | 眾巴力；亞斯她錄；眾亞舍拉 | Plurals explained at 2:11, 13; 3:7. A single אֲשֵׁרָה: 亞舍拉木柱. |
+| בְּנֵי־קֶדֶם | 東方人 | Noted: 「東方的子孫」. |
+| בַּעֲלֵי שְׁכֶם | 示劍的領袖 | Noted at 9:2: *ba'alei Shekhem*. |
+| The Song of Deborah (5:2–31) | Poetry without quotation marks, as Deuteronomy 32 | 5:1 ends 說：; words quoted inside the song 「」; a note on each hard line. |
+| Gaal (9:26–41) | 迦勒 | The Union Version's form; noted as not Caleb (*Ga'al*, not *Kalev*). |
+| אֵל בְּרִית (9:46) | 伊勒‧比利土 | The Hebrew's form, as in Joshua; noted: 和合本作「巴力‧比利土」. |
+
 ## Style
 
 **Characters and words.** Plain words over the Union Version's literary ones (吊下去, not 縋下來). Hong Kong standard forms: 裏 (not 裡), 着 for the particle (看着、

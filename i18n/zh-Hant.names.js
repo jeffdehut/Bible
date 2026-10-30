@@ -2,6 +2,15 @@
 // (public domain) spells them. Written by scripts/names_zh.py: don't edit by hand;
 // corrections go in OVERRIDES there.
 I18N.add({
+"El-berith":"伊勒‧比利土",
+"Baal-berith":"巴力‧比利土",
+"Karkor":"加各",
+"Moreh":"摩利",
+"Harod":"哈律",
+"Jerubbaal":"耶路‧巴力",
+"Harosheth-ha-goiim":"夏羅設",
+"Timnath-heres":"亭拿‧希烈",
+"Har-heres":"希烈山",
 "Zelah":"洗拉",
 "Mount Seir":"西珥山",
 "Rumah":"魯瑪",
