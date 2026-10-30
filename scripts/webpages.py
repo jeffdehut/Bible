@@ -250,7 +250,7 @@ THEME = ('<script>try { const t = (JSON.parse(localStorage.getItem("pe.settings"
 def head(root="", colors=("#fbfaf7", "#0d111b")):
     """The icon, the browser colors and the theme: the same on every page of the site."""
     light, dark = colors
-    return (f'<script src="{root}i18n.js?v=5"></script>\n'
+    return (f'<script src="{root}i18n.js?v=6"></script>\n'
             f'<link rel="icon" href="{root}icons/icon.svg" type="image/svg+xml">\n'
             f'<link rel="apple-touch-icon" href="{root}icons/icon-192.png">\n'
             f'<meta name="theme-color" content="{light}" media="(prefers-color-scheme: light)">\n'
