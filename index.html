@@ -516,6 +516,42 @@ input[type="range"] { width: 100%; accent-color: var(--lapis); }
 .mk-list label { display: grid; grid-template-columns: 20px 112px 1fr; align-items: center; gap: 12px; padding: 8px 0; border-bottom: 1px solid var(--line); cursor: pointer; }
 .mk-sample { font: 400 18px/1.4 var(--read); color: var(--ink); }
 .mk-text { font: 400 14px/1.3 var(--sans); }
+/* Bookmarks: a ribbon by the verse number, and the list. */
+.v.bm > .vn::before { content: ""; display: inline-block; width: 0.55em; height: 0.8em; margin-right: 0.15em; vertical-align: -0.08em; background: var(--lapis); clip-path: polygon(0 0, 100% 0, 100% 100%, 50% 72%, 0 100%); }
+.hl-bar .bmsel { display: grid; place-items: center; background: var(--surface); color: var(--lapis); border: 1px solid var(--line); }
+.hl-bar .bmsel svg { width: 16px; height: 16px; }
+#bm-verse[aria-pressed="true"] { background: var(--lapis-soft); color: var(--lapis); border-color: var(--lapis); }
+#bm-verse[aria-pressed="true"] svg path { fill: currentColor; }
+.bmlist { list-style: none; margin: 0; padding: 0; display: grid; gap: 6px; }
+.bmlist li { display: flex; align-items: stretch; gap: 4px; border: 1px solid var(--line); border-radius: 12px; background: var(--surface); }
+.bmlist .go { flex: 1; min-width: 0; display: grid; gap: 2px; text-align: left; border: 0; background: transparent; padding: 10px 12px; cursor: pointer; color: var(--ink); font: inherit; }
+.bmlist .go b { font: 600 15px/1.3 var(--sans); }
+.bmlist .go span { font: 400 15px/1.4 var(--read); color: var(--muted); overflow: hidden; display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; }
+.bmlist .go small { font: 500 12px/1.2 var(--sans); color: var(--faint); }
+.bmlist .rm { flex: none; width: 44px; border: 0; background: transparent; color: var(--muted); cursor: pointer; border-radius: 0 12px 12px 0; }
+.bmlist .rm:hover { background: var(--lapis-soft); color: var(--ink); }
+.bmlist .empty { padding: 14px; color: var(--muted); border-style: dashed; }
+/* Listening: the verse being read, and the player along the bottom. */
+.v.speaking { background: color-mix(in srgb, var(--lapis-soft) 85%, transparent); box-shadow: 0 0 0 3px color-mix(in srgb, var(--lapis-soft) 85%, transparent); }
+.listen { position: fixed; z-index: 6; left: 50%; transform: translateX(-50%); bottom: max(12px, env(safe-area-inset-bottom, 0px)); width: min(560px, calc(100% - 24px));
+  display: flex; align-items: center; gap: 4px; padding: 6px; border-radius: 99px; background: color-mix(in srgb, var(--raised) 94%, transparent);
+  border: 1px solid var(--line); box-shadow: var(--shadow); backdrop-filter: blur(8px); -webkit-backdrop-filter: blur(8px); }
+.listen[hidden] { display: none; }
+.lplay { flex: none; width: 44px; height: 44px; border: 0; border-radius: 50%; background: var(--lapis); color: var(--surface); display: grid; place-items: center; cursor: pointer; }
+.lplay svg, .lbtn svg { width: 20px; height: 20px; }
+.lbtn { flex: none; min-width: 38px; height: 38px; border: 0; border-radius: 99px; background: transparent; color: var(--ink); display: grid; place-items: center; cursor: pointer; padding: 0 8px; }
+.lbtn:hover { background: var(--lapis-soft); }
+.lbtn.ltext { font: 600 13px/1 var(--sans); }
+.lwhere { flex: 1; min-width: 0; font: 600 13px/1.2 var(--sans); color: var(--muted); white-space: nowrap; overflow: hidden; text-overflow: ellipsis; text-align: center; }
+body.listening .auto { display: none; }
+body.listening .toast { bottom: calc(76px + env(safe-area-inset-bottom, 0px)); }
+.auto .auto-listen { display: grid !important; place-items: center; color: var(--lapis); }
+.auto .auto-listen svg { width: 20px; height: 20px; }
+.voicelist { list-style: none; margin: 12px 0 0; padding: 0; display: grid; gap: 4px; }
+.voicelist button { width: 100%; display: flex; align-items: center; gap: 10px; text-align: left; padding: 10px 12px; border: 1px solid var(--line); border-radius: 10px; background: var(--surface); color: var(--ink); font: 500 15px/1.3 var(--sans); cursor: pointer; }
+.voicelist button[aria-pressed="true"] { border-color: var(--lapis); background: var(--lapis-soft); }
+.voicelist small { color: var(--muted); margin-left: auto; font-size: 12px; }
+.voicelist .nat { color: var(--gold); font-weight: 600; }
 /* A strip of the Bible's chapters: where a word, topic or person appears. */
 .strip { position: relative; margin: 8px 0 4px; }
 .strip-svg { display: block; width: 100%; height: 46px; border-radius: 6px; cursor: pointer; touch-action: manipulation; }
@@ -598,6 +634,7 @@ if (/(^#|&)(access_token|error)=/.test(location.hash)) {
   <article id="chapter" hidden>
     <div class="plan-bar" id="plan-bar" hidden>
       <span><b id="plan-bar-text"></b><span id="plan-bar-what"></span></span>
+      <button class="btn line" type="button" id="plan-bar-listen"><svg class="icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M4 15v-3a8 8 0 0 1 16 0v3"/><rect x="3" y="14" width="4.5" height="7" rx="1.5"/><rect x="16.5" y="14" width="4.5" height="7" rx="1.5"/></svg>Listen</button>
       <button class="btn line" type="button" id="plan-bar-all">All days</button>
     </div>
     <div id="more-before" aria-hidden="true"></div>
@@ -668,6 +705,8 @@ if (/(^#|&)(access_token|error)=/.test(location.hash)) {
     <textarea id="note" placeholder="Write a note on this verse. It's saved on this device."></textarea>
   </div>
   <div class="section actions">
+    <button class="btn line" type="button" id="bm-verse"><svg class="icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M6 3h12v18l-6-4.5L6 21Z"/></svg><span>Bookmark</span></button>
+    <button class="btn line" type="button" id="listen-verse"><svg class="icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M4 15v-3a8 8 0 0 1 16 0v3"/><rect x="3" y="14" width="4.5" height="7" rx="1.5"/><rect x="16.5" y="14" width="4.5" height="7" rx="1.5"/></svg>Listen from here</button>
     <button class="btn line" type="button" id="share-verse"><svg class="icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="18" cy="5" r="2.5"/><circle cx="6" cy="12" r="2.5"/><circle cx="18" cy="19" r="2.5"/><path d="m8.2 10.8 7.6-4.4M8.2 13.2l7.6 4.4"/></svg>Share verse</button>
     <button class="btn line" type="button" id="copy-verse"><svg class="icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linejoin="round"><rect x="8" y="8" width="12" height="12" rx="2"/><path d="M16 8V5a1 1 0 0 0-1-1H5a1 1 0 0 0-1 1v10a1 1 0 0 0 1 1h3"/></svg>Copy verse</button>
   </div>
@@ -819,6 +858,7 @@ if (/(^#|&)(access_token|error)=/.test(location.hash)) {
   <h3 class="menu-group">Read and study</h3>
   <ul class="menu">
     <li><button type="button" id="open-mine" title="My highlights and notes, saved on this device"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="m14.5 4.5 5 5L10 19H5v-5z"/><path d="m12 7 5 5"/><path d="M4 21h16"/></svg><span>Highlights &amp; notes</span></button></li>
+    <li><button type="button" id="open-bookmarks" title="The passages you bookmarked"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M6 3h12v18l-6-4.5L6 21Z"/></svg><span>Bookmarks</span><small id="bookmarks-sub"></small></button></li>
     <li><button type="button" id="open-plans" title="Reading plans: through the Bible in a year, and shorter plans"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><rect x="3.5" y="5" width="17" height="15" rx="2.5"/><path d="M3.5 10h17M8 3v4M16 3v4"/><path d="m9 15 2 2 4-4"/></svg><span>Reading plans</span><small id="plans-sub"></small></button></li>
     <li><button type="button" id="open-study" title="Nave’s topics and Easton’s Bible dictionary"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M12 6.5C10 5 7 4.5 3.5 5v14c3.5-.5 6.5 0 8.5 1.5 2-1.5 5-2 8.5-1.5V5C17 4.5 14 5 12 6.5Z"/><path d="M12 6.5v14"/></svg><span>Topics &amp; dictionary</span></button></li>
     <li><button type="button" id="open-parallels" title="The Gospels side by side; Kings beside Chronicles"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><rect x="3" y="4" width="7.5" height="16" rx="1.5"/><rect x="13.5" y="4" width="7.5" height="16" rx="1.5"/><path d="M5.5 8.5h2.5M5.5 12h2.5M5.5 15.5h2.5M16 8.5h2.5M16 12h2.5M16 15.5h2.5"/></svg><span>Parallel passages</span></button></li>
@@ -885,6 +925,20 @@ if (/(^#|&)(access_token|error)=/.test(location.hash)) {
   <div class="actions" id="wm-actions"></div>
 </section>
 
+<section class="sheet dialog split" id="bookmarks" hidden aria-labelledby="bookmarks-title">
+  <div class="grab"></div>
+  <div class="sheet-head"><h2 id="bookmarks-title">Bookmarks</h2><button class="btn" type="button" data-close aria-label="Close"><svg class="icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M6 6l12 12M18 6 6 18"/></svg></button></div>
+  <div class="scroll"><ul class="bmlist" id="bookmarks-list"></ul></div>
+</section>
+
+<section class="sheet dialog" id="listen-voices" hidden aria-labelledby="lv-title">
+  <div class="grab"></div>
+  <div class="sheet-head"><h2 id="lv-title">Voice</h2><button class="btn" type="button" data-close aria-label="Close"><svg class="icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M6 6l12 12M18 6 6 18"/></svg></button></div>
+  <div class="seg" role="group" aria-label="Voice" id="lv-kind"><button type="button" data-v="female">Female</button><button type="button" data-v="male">Male</button></div>
+  <ul class="voicelist" id="lv-list"></ul>
+  <p class="hint">These are the voices built into this device and browser, so they differ from one device to another and need no download. The most natural are marked. On some phones the voice pauses when the screen locks; the reader keeps the screen awake while it reads.</p>
+</section>
+
 <section class="sheet dialog" id="project" hidden aria-labelledby="project-title">
   <div class="grab"></div>
   <div class="sheet-head"><h2 id="project-title">About this project</h2><button class="btn" type="button" data-close aria-label="Close"><svg class="icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M6 6l12 12M18 6 6 18"/></svg></button></div>
@@ -932,7 +986,17 @@ if (/(^#|&)(access_token|error)=/.test(location.hash)) {
 
 <div class="toast" id="toast" role="status" hidden></div>
 <div class="fade top" aria-hidden="true"></div><div class="fade bottom" aria-hidden="true"></div>
+<div class="listen" id="listen" hidden role="region" aria-label="Listening">
+  <button class="lbtn" type="button" id="ls-prev" aria-label="Previous verse"><svg viewBox="0 0 24 24" fill="currentColor"><path d="M6 5h2v14H6zM20 5v14L9 12z"/></svg></button>
+  <button class="lplay" type="button" id="ls-play" aria-label="Pause"></button>
+  <button class="lbtn" type="button" id="ls-next" aria-label="Next verse"><svg viewBox="0 0 24 24" fill="currentColor"><path d="M16 5h2v14h-2zM4 5v14l11-7z"/></svg></button>
+  <span class="lwhere" id="ls-where"></span>
+  <button class="lbtn ltext" type="button" id="ls-speed" aria-label="Reading speed">1×</button>
+  <button class="lbtn ltext" type="button" id="ls-voice" aria-label="Choose the voice">Voice</button>
+  <button class="lbtn" type="button" id="ls-stop" aria-label="Stop listening"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round"><path d="M6 6l12 12M18 6 6 18"/></svg></button>
+</div>
 <div class="auto" id="auto">
+  <button class="auto-btn auto-listen" type="button" id="auto-listen" aria-label="Listen" title="Listen: read aloud from here"><svg class="icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M4 15v-3a8 8 0 0 1 16 0v3"/><rect x="3" y="14" width="4.5" height="7" rx="1.5"/><rect x="16.5" y="14" width="4.5" height="7" rx="1.5"/></svg></button>
   <button class="auto-btn" type="button" id="auto-slower" aria-label="Slower">−</button>
   <span class="auto-speed" id="auto-speed"></span>
   <button class="auto-btn" type="button" id="auto-faster" aria-label="Faster">+</button>
@@ -1113,6 +1177,7 @@ function buildChapter(b, c, data) {
     const a = notes[id];
     if (a && a.h) span.dataset.h = a.h;
     if (a && a.n) span.classList.add("has-note");
+    if (a && a.b) span.classList.add("bm");
     if (a && a.r) markRanges(span, a.r);
     p.append(span);
     if (row[3] && row[3].p) { sec.append(p); p = el("p"); }
@@ -1145,6 +1210,7 @@ async function show(b, c, v, opts = {}) {
   const token = ++showToken;
   if (!opts.plan) view = { kind: "bible" };
   autoScroll.stop();
+  if (typeof listen !== "undefined" && listen.on && !opts.keepListening) listen.stop();
   $("loading").hidden = false;
   let data;
   try { data = await getJSON("text/" + b.slug + ".json"); }
@@ -1481,6 +1547,12 @@ async function openVerse(span) {
   $("note").value = a.n || "";
   $("note").oninput = () => { setNote(id, span, $("note").value); };
   $("copy-verse").onclick = () => copyVerse(row);
+  const bmb = $("bm-verse");
+  const bmOn = () => !!(notes[id] && notes[id].b);
+  const bmShow = () => { bmb.setAttribute("aria-pressed", String(bmOn())); bmb.querySelector("span").textContent = bmOn() ? "Bookmarked" : "Bookmark"; };
+  bmShow();
+  bmb.onclick = () => { setBookmark(id, bmOn() ? null : id); bmShow(); toast(bmOn() ? `Bookmarked ${passageLabel(id)}` : "Bookmark removed"); };
+  $("listen-verse").onclick = () => { closeVerse(); listen.start(span); };
   $("share-verse").onclick = () => window.Share?.verse({ ref: `${bookName} ${c}:${n}`, text: plainVerse(row[1]),
     note: "Open Plain English Translation · draft", url: Share.here("index.html", refHash(b, c, n)).replace(/index\.html#/, "#") });
   // Words.
@@ -1553,7 +1625,8 @@ function setNote(id, span, text) {
 }
 function saveAnnotation(id, a) {
   if (a.r && !a.r.length) delete a.r;
-  if (a.h || a.n || a.r) { a.t = Date.now(); notes[id] = a; } else delete notes[id];
+  if (a.b && typeof a.b !== "object") delete a.b;
+  if (a.h || a.n || a.r || a.b) { a.t = Date.now(); notes[id] = a; } else delete notes[id];
   store.set("annotations", notes);
   reader.annotations.onChange?.([id]);
 }
@@ -2292,7 +2365,7 @@ function osisOrder(id) {
 }
 function renderMine() {
   const list = $("mine-list"); list.textContent = "";
-  const ids = Object.keys(notes).filter(id => byOsis[id.split(".")[0]]).sort((a, b) => osisOrder(a) - osisOrder(b));
+  const ids = Object.keys(notes).filter(id => byOsis[id.split(".")[0]] && (notes[id].h || notes[id].n || notes[id].r)).sort((a, b) => osisOrder(a) - osisOrder(b));
   if (!ids.length) { list.append(el("li", { class: "empty", text: "No highlights or notes yet. Tap a verse to add one." })); return; }
   for (const id of ids) {
     const [o, c, v] = id.split(".");
@@ -2342,7 +2415,7 @@ $("restore-apply").onclick = () => {
   for (const [id, a] of Object.entries(incoming)) {
     if (!/^[1-3]?[A-Za-z]+\.\d+\.\d+$/.test(id) || !a) continue;
     const mine = notes[id];
-    if (!mine || (a.t || 0) > (mine.t || 0)) { notes[id] = { h: HL.includes(a.h) ? a.h : undefined, n: typeof a.n === "string" ? a.n : undefined, t: a.t || Date.now() }; added.push(id); }
+    if (!mine || (a.t || 0) > (mine.t || 0)) { notes[id] = { h: HL.includes(a.h) ? a.h : undefined, n: typeof a.n === "string" ? a.n : undefined, r: Array.isArray(a.r) ? a.r : undefined, b: a.b && typeof a.b === "object" ? a.b : undefined, t: a.t || Date.now() }; added.push(id); }
   }
   store.set("annotations", notes);
   if (added.length) reader.annotations.onChange?.(added);
@@ -2655,6 +2728,207 @@ function drawWeb(W, i, ns) {
   $("wm-hint").hidden = !ns.length;
 }
 
+/* ---------- Bookmarks ---------- */
+// A bookmark is kept with the verse it starts at, beside its highlight and note (and synced with
+// them): { e: "John.3.18" } for a passage that runs on to that verse, {} for the verse alone.
+const refOfId = id => { const [o, c, v] = id.split("."); return { b: byOsis[o], c: +c, v: +v }; };
+function passageLabel(id, end) {
+  const a = refOfId(id), name = bookName(a.b);
+  if (!end || end === id) return `${name} ${a.c}:${a.v}`;
+  const z = refOfId(end);
+  return z.c === a.c ? `${name} ${a.c}:${a.v}–${z.v}` : `${name} ${a.c}:${a.v}–${z.c}:${z.v}`;
+}
+function setBookmark(id, end) {
+  const a = notes[id] ? { ...notes[id] } : {};
+  if (end === null) delete a.b; else a.b = end && end !== id ? { e: end } : {};
+  saveAnnotation(id, a);
+  for (const sp of $("text").querySelectorAll(`.v[data-id="${id}"]`)) sp.classList.toggle("bm", !!notes[id]?.b);
+  updateBookmarksSub();
+}
+function bookmarkSelection() {
+  const vs = selectedVerses();
+  if (!vs.length) return;
+  const first = vs[0][0].dataset.id, last = vs[vs.length - 1][0].dataset.id;
+  setBookmark(first, last);
+  getSelection().removeAllRanges();
+  $("hl-bar").hidden = true;
+  toast(`Bookmarked ${passageLabel(first, last)}`);
+}
+function updateBookmarksSub() {
+  const n = Object.values(notes).filter(a => a.b).length;
+  $("bookmarks-sub").textContent = n ? String(n) : "";
+}
+async function renderBookmarks() {
+  const list = $("bookmarks-list");
+  const ids = Object.keys(notes).filter(id => notes[id].b && byOsis[id.split(".")[0]]).sort((a, b) => (notes[b].t || 0) - (notes[a].t || 0));
+  list.textContent = "";
+  if (!ids.length) { list.append(el("li", { class: "empty", text: "No bookmarks yet. Tap a verse and choose Bookmark, or select a few verses and tap the ribbon." })); return; }
+  for (const id of ids) {
+    const r = refOfId(id), end = notes[id].b.e;
+    const words = el("span", { text: "" });
+    const li = el("li", {},
+      el("button", { class: "go", type: "button", onclick: () => { closeSheets(); go(r.b, r.c, r.v); } },
+        el("b", { text: passageLabel(id, end) }), words,
+        el("small", { text: new Date(notes[id].t || Date.now()).toLocaleDateString(undefined, { day: "numeric", month: "short", year: "numeric" }) })),
+      el("button", { class: "rm", type: "button", "aria-label": `Remove the bookmark at ${passageLabel(id, end)}`, onclick: () => { setBookmark(id, null); renderBookmarks(); } }, "✕"));
+    list.append(li);
+    getJSON("text/" + r.b.slug + ".json").then(d => { const row = d.chapters[r.c - 1]?.v.find(x => x[0] === r.v); if (row) words.textContent = plainVerse(row[1]); }).catch(() => {});
+  }
+}
+$("open-bookmarks").onclick = () => { openSheet("bookmarks"); renderBookmarks(); };
+updateBookmarksSub();
+
+/* ---------- Listening ---------- */
+// The reader reads aloud with the voices built into the device (the Web Speech API): nothing
+// to download, and no service behind it. It reads verse by verse, marking the verse it is
+// reading, announces each new chapter, and goes on into the next as the reader would scroll;
+// in a reading plan it reads the day's chapters and then offers to mark the day read.
+const listen = (() => {
+  const synth = window.speechSynthesis;
+  const SPEEDS = [0.8, 0.9, 1, 1.1, 1.25, 1.5];
+  const FEMALE = /\b(samantha|karen|moira|tessa|victoria|fiona|veena|serena|allison|ava|susan|zoe|nicky|kate|catherine|martha|kathy|aria|jenny|michelle|emma|libby|sonia|natasha|clara|zira|hazel|heera|joanna|salli|kendra|kimberly|ivy|amy|female|woman)\b/i;
+  const MALE = /\b(daniel|alex|fred|arthur|aaron|gordon|oliver|rishi|tom|lee|ralph|albert|bruce|reed|guy|davis|andrew|brian|christopher|eric|roger|steffan|ryan|thomas|william|liam|mark|david|george|richard|ravi|james|matthew|justin|joey|male|man)\b/i;
+  let on = false, playing = false, span = null, token = 0, wake = null, said = null;
+  const gender = v => (FEMALE.test(v.name) ? "female" : MALE.test(v.name) ? "male" : "");
+  const quality = v => (/natural|neural|enhanced|premium|siri/i.test(v.name) ? 3 : /google|online/i.test(v.name) ? 2 : 0) + (/en[-_]US/i.test(v.lang) ? 0.5 : 0);
+  const voices = () => (synth ? synth.getVoices().filter(v => /^en\b|^en[-_]/i.test(v.lang)) : []);
+  function voice() {
+    const vs = voices();
+    const chosen = vs.find(v => v.voiceURI === settings.voice);
+    if (chosen) return chosen;
+    const want = settings.voiceKind || "female";
+    return [...vs].sort((a, b) => (gender(b) === want) - (gender(a) === want) || quality(b) - quality(a))[0] || null;
+  }
+  const clean = t => plainVerse(t).replace(/\bLORD\b/g, "Lord").replace(/\bGOD\b/g, "God").replace(/[\[\]]/g, "");
+  const nextSpan = sp => {
+    const all = [...$("text").querySelectorAll(".v")];
+    return all[all.indexOf(sp) + 1] || null;
+  };
+  const prevSpan = sp => { const all = [...$("text").querySelectorAll(".v")]; return all[all.indexOf(sp) - 1] || null; };
+  function say(text, done) {
+    const u = new SpeechSynthesisUtterance(text);
+    const v = voice();
+    if (v) { u.voice = v; u.lang = v.lang; }
+    u.rate = SPEEDS[settings.listenSpeed ?? 2];
+    const my = token;
+    u.onend = () => { if (my === token && playing) done(); };
+    u.onerror = e => { if (my === token && playing && e.error !== "interrupted" && e.error !== "canceled") done(); };
+    said = u;
+    synth.speak(u);
+  }
+  function mark(sp) {
+    for (const x of $("text").querySelectorAll(".v.speaking")) x.classList.remove("speaking");
+    if (!sp) return;
+    sp.classList.add("speaking");
+    const r = sp.getBoundingClientRect();
+    if (r.top < innerHeight * 0.2 || r.bottom > innerHeight * 0.75) sp.scrollIntoView({ block: "center", behavior: matchMedia("(prefers-reduced-motion: reduce)").matches ? "auto" : "smooth" });
+    const ctx = ctxOfNode(sp);
+    $("ls-where").textContent = ctx ? `${bookName(ctx.b)} ${ctx.c}:${sp.dataset.v}` : "";
+  }
+  async function readFrom(sp) {
+    if (!playing) return;
+    if (!sp) {
+      // The end of what is shown: in the Bible, the next chapter; in a plan, the day's end.
+      if (view.kind === "plan") { finishPlan(); return; }
+      const before = $("text").querySelectorAll(".v").length;
+      for (let k = 0; k < 40 && $("text").querySelectorAll(".v").length <= before; k++) {
+        await addAfter();
+        if ($("text").querySelectorAll(".v").length <= before) await new Promise(r => setTimeout(r, 150));
+        if (!playing) return;
+      }
+      const all = $("text").querySelectorAll(".v");
+      sp = all.length > before ? all[before] : null;
+      if (!sp) { stop(); toast("The end of the Bible"); return; }
+    }
+    span = sp;
+    mark(sp);
+    const ctx = ctxOfNode(sp);
+    if (!ctx) return;
+    const row = ctx.chapter.v.find(r => r[0] === +sp.dataset.v);
+    const text = clean(row ? row[1] : "");
+    const firstOfChapter = ctx.sec.querySelector(".v") === sp;
+    const go = () => readFrom(nextSpan(sp));
+    const verse = () => (text ? say(text, go) : go());
+    if (firstOfChapter) say(`${ctx.b.osis === "Ps" ? "Psalm" : ctx.b.n}, ${ctx.b.osis === "Ps" ? "" : "chapter "}${ctx.c}.`, verse);
+    else verse();
+  }
+  function finishPlan() {
+    playing = false; render();
+    mark(null);
+    const day = view.day;
+    say(`The end of day ${day + 1}.`, () => {});
+    playing = false;
+    $("plan-end").scrollIntoView({ block: "center", behavior: "smooth" });
+    toast(`Day ${day + 1} read aloud. Mark it read below.`, 3600);
+  }
+  async function keepAwake(yes) {
+    try {
+      if (yes && !wake && navigator.wakeLock) { wake = await navigator.wakeLock.request("screen"); wake.addEventListener("release", () => { wake = null; }); }
+      if (!yes && wake) { await wake.release(); wake = null; }
+    } catch (e) { /* not allowed here */ }
+  }
+  function start(sp) {
+    if (!synth) { toast("This browser can't read aloud"); return; }
+    if (!voices().length) synth.getVoices();
+    autoScroll.stop();
+    token++; synth.cancel();
+    on = true; playing = true;
+    document.body.classList.add("listening");
+    $("listen").hidden = false;
+    keepAwake(true);
+    render();
+    readFrom(sp || firstOnScreen());
+  }
+  function pause() { token++; playing = false; synth.cancel(); render(); keepAwake(false); }
+  function resume() { playing = true; token++; synth.cancel(); render(); keepAwake(true); readFrom(span || firstOnScreen()); }
+  function stop() {
+    token++; playing = false; on = false; synth?.cancel();
+    mark(null); span = null;
+    document.body.classList.remove("listening");
+    $("listen").hidden = true; keepAwake(false); render();
+  }
+  function step(dir) { if (!span) return; const sp = dir > 0 ? nextSpan(span) : prevSpan(span); if (sp) { token++; synth.cancel(); playing = true; render(); readFrom(sp); } }
+  function firstOnScreen() {
+    for (const sp of $("text").querySelectorAll(".v")) if (sp.getBoundingClientRect().bottom > innerHeight * 0.15) return sp;
+    return $("text").querySelector(".v");
+  }
+  function render() {
+    $("ls-play").innerHTML = playing ? '<svg viewBox="0 0 24 24" fill="currentColor"><rect x="7" y="6" width="3.5" height="12" rx="1"/><rect x="13.5" y="6" width="3.5" height="12" rx="1"/></svg>'
+      : '<svg viewBox="0 0 24 24" fill="currentColor"><path d="M8 5.5v13l10.5-6.5z"/></svg>';
+    $("ls-play").setAttribute("aria-label", playing ? "Pause" : "Read aloud");
+    $("ls-speed").textContent = `${SPEEDS[settings.listenSpeed ?? 2]}×`;
+  }
+  function renderVoices() {
+    const list = $("lv-list");
+    list.textContent = "";
+    const current = voice();
+    for (const b of $("lv-kind").children) b.setAttribute("aria-pressed", String(!settings.voice && b.dataset.v === (settings.voiceKind || "female")));
+    const vs = voices().sort((a, b) => quality(b) - quality(a) || a.name.localeCompare(b.name));
+    if (!vs.length) { list.append(el("li", { class: "hint", text: "This browser offers no English voices." })); return; }
+    for (const v of vs) {
+      const g = gender(v);
+      list.append(el("li", {}, el("button", { type: "button", "aria-pressed": String(current && v.voiceURI === current.voiceURI), onclick: () => {
+        settings.voice = v.voiceURI; store.set("settings", settings); renderVoices();
+        const u = new SpeechSynthesisUtterance("In the beginning was the Word."); u.voice = v; u.lang = v.lang; u.rate = SPEEDS[settings.listenSpeed ?? 2];
+        if (!playing) { synth.cancel(); synth.speak(u); }
+      } }, v.name.replace(/^(Microsoft|Google)\s+/, "").replace(/\s*\(.*\)$/, ""), quality(v) >= 3 ? el("span", { class: "nat", text: "Natural" }) : null,
+        el("small", { text: [g === "female" ? "Female" : g === "male" ? "Male" : "", v.lang].filter(Boolean).join(" · ") }))));
+    }
+  }
+  if (synth) synth.onvoiceschanged = () => { if (!$("listen-voices").hidden) renderVoices(); };
+  $("ls-play").onclick = () => (playing ? pause() : resume());
+  $("ls-prev").onclick = () => step(-1);
+  $("ls-next").onclick = () => step(1);
+  $("ls-stop").onclick = stop;
+  $("ls-speed").onclick = () => { settings.listenSpeed = ((settings.listenSpeed ?? 2) + 1) % SPEEDS.length; store.set("settings", settings); render(); if (playing && span) { token++; synth.cancel(); readFrom(span); } };
+  $("ls-voice").onclick = () => { openSheet("listen-voices"); renderVoices(); };
+  $("lv-kind").onclick = ev => { const b = ev.target.closest("button"); if (!b) return; settings.voiceKind = b.dataset.v; delete settings.voice; store.set("settings", settings); renderVoices(); };
+  document.addEventListener("visibilitychange", () => { if (!document.hidden && playing) keepAwake(true); });
+  return { start, stop, get on() { return on; } };
+})();
+$("auto-listen").onclick = () => listen.start();
+$("plan-bar-listen").onclick = () => listen.start($("text").querySelector(".v"));
+
 /* ---------- Study markings ---------- */
 // Key words marked through the whole Bible (scripts/markings.py, MARKINGS.md). Each verse's
 // marks are [start, end, marking] in the same counted characters as partial highlights.
@@ -2840,6 +3114,8 @@ function highlightSelection(color) {
 const hlBar = el("div", { class: "hl-bar", id: "hl-bar", hidden: true, role: "toolbar", "aria-label": "Highlight the selected words" });
 for (const h of HL) hlBar.append(el("button", { type: "button", class: "swatch", style: `background:var(--hl-${h})`, "aria-label": "Highlight in " + h, onmousedown: e => e.preventDefault(), onclick: () => highlightSelection(h) }));
 hlBar.append(el("button", { type: "button", class: "swatch none", "aria-label": "Remove highlighting", onmousedown: e => e.preventDefault(), onclick: () => highlightSelection(null) }));
+hlBar.append(el("button", { type: "button", class: "swatch bmsel", "aria-label": "Bookmark the selected verses", title: "Bookmark these verses", onmousedown: e => e.preventDefault(), onclick: bookmarkSelection }));
+hlBar.lastChild.innerHTML = '<svg class="icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M6 3h12v18l-6-4.5L6 21Z"/></svg>';
 document.body.append(hlBar);
 let hlTimer = 0;
 document.addEventListener("selectionchange", () => {
@@ -2940,7 +3216,7 @@ getJSON("books.json").then(list => {
   addEventListener("hashchange", route);
   route();
 }).catch(() => { $("loading").textContent = "The Bible couldn't be loaded. Check your connection and reload the page."; });
-if ("serviceWorker" in navigator && /^https?:$/.test(location.protocol) && !embedded) navigator.serviceWorker.register("sw.js?v=28").catch(() => {});
+if ("serviceWorker" in navigator && /^https?:$/.test(location.protocol) && !embedded) navigator.serviceWorker.register("sw.js?v=29").catch(() => {});
 
 /* ---------- For account.js: highlights and notes, and two of the reader's tools ---------- */
 var reader = {
@@ -2948,7 +3224,8 @@ var reader = {
     all: () => notes,
     // Changes from the account: [[id, {h, n, r, t} or null to remove], ...]
     apply(changes) {
-      for (const [id, a] of changes) { if (a && (a.h || a.n || (a.r && a.r.length))) notes[id] = a; else delete notes[id]; }
+      for (const [id, a] of changes) { if (a && (a.h || a.n || (a.r && a.r.length) || a.b)) notes[id] = a; else delete notes[id]; }
+      if (!$("bookmarks").hidden) renderBookmarks();
       store.set("annotations", notes);
       if (!$("mine").hidden) renderMine();
       if (cur && $("verse").hidden) refresh();
@@ -2958,8 +3235,8 @@ var reader = {
   openSheet, toast,
 };
 </script>
-<script src="config.js?v=28"></script>
-<script src="share.js?v=28"></script>
-<script src="account.js?v=28"></script>
+<script src="config.js?v=29"></script>
+<script src="share.js?v=29"></script>
+<script src="account.js?v=29"></script>
 </body>
 </html>

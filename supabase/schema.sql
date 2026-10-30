@@ -25,6 +25,10 @@ create index if not exists annotations_synced on public.annotations (user_id, sy
 -- verse's words as the reader shows them. Added October 2026; safe to run on an older table.
 alter table public.annotations add column if not exists ranges jsonb
   check (ranges is null or (jsonb_typeof(ranges) = 'array' and jsonb_array_length(ranges) <= 200));
+-- A bookmark on the verse: {"e": "John.3.18"} for a passage to that verse, {} for the verse
+-- alone. Added October 2026; safe to run on an older table.
+alter table public.annotations add column if not exists bookmark jsonb
+  check (bookmark is null or (jsonb_typeof(bookmark) = 'object' and pg_column_size(bookmark) <= 400));
 
 -- Each person sees and changes only their own rows.
 alter table public.annotations enable row level security;
@@ -51,14 +55,14 @@ security invoker
 set search_path = ''
 as $$
   with incoming as (
-    select distinct on (r.verse) r.verse, r.highlight, r.ranges, r.note, r.updated_at, coalesce(r.deleted, false) as deleted
-    from jsonb_to_recordset(rows) as r(verse text, highlight text, ranges jsonb, note text, updated_at bigint, deleted boolean)
+    select distinct on (r.verse) r.verse, r.highlight, r.ranges, r.note, r.bookmark, r.updated_at, coalesce(r.deleted, false) as deleted
+    from jsonb_to_recordset(rows) as r(verse text, highlight text, ranges jsonb, note text, bookmark jsonb, updated_at bigint, deleted boolean)
     order by r.verse, r.updated_at desc
   ), written as (
-    insert into public.annotations as a (user_id, verse, highlight, ranges, note, updated_at, deleted, synced_at)
-    select (select auth.uid()), verse, highlight, ranges, note, updated_at, deleted, clock_timestamp() from incoming
+    insert into public.annotations as a (user_id, verse, highlight, ranges, note, bookmark, updated_at, deleted, synced_at)
+    select (select auth.uid()), verse, highlight, ranges, note, bookmark, updated_at, deleted, clock_timestamp() from incoming
     on conflict (user_id, verse) do update
-      set highlight = excluded.highlight, ranges = excluded.ranges, note = excluded.note, updated_at = excluded.updated_at,
+      set highlight = excluded.highlight, ranges = excluded.ranges, note = excluded.note, bookmark = excluded.bookmark, updated_at = excluded.updated_at,
           deleted = excluded.deleted, synced_at = clock_timestamp()
       where a.updated_at < excluded.updated_at
     returning 1
