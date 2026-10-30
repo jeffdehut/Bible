@@ -266,6 +266,13 @@ Settled while drafting Deuteronomy:
 | לֶחֶם עֹנִי | 困苦的餅 | Noted: 「困苦餅」. |
 | קֹסֵם; מְעוֹנֵן; מְנַחֵשׁ; מְכַשֵּׁף; חֹבֵר חָבֶר | 占卜的；觀兆的；用法術的；行邪術的；念咒語的 | Deuteronomy 18:10–11. |
 | נָבִיא כָּמֹנִי (18:15, 18) | 一位像我的先知 | Noted: Acts 3:22–23, 7:37. |
+| עִיר מִקְלָט; רֹצֵחַ; גֹּאֵל הַדָּם (Deuteronomy 19) | 逃城；殺人的；報血仇的 | As Numbers 35; *rotseach* and *go'el ha-dam* noted. |
+| לֹא תָחוֹס עֵינְךָ | 不可憐惜 | Noted: 「你的眼不可憐惜」. |
+| נַעֲרָה written נַעַר | 少女 | One note per chapter: written *na'ar*, read *na'arah* (22:15). |
+| קְדֵשָׁה; קָדֵשׁ | 廟妓 | Noted (23:18). |
+| יִבֵּם; יְבָמָה | 盡夫兄弟的本分；兄弟的遺孀 | *yabbem* noted (25:5). |
+| אֲרַם נַהֲרַיִם | 兩河之間的亞蘭 | As Genesis 24:10 (Union Version 美索不達米亞); noted. |
+| אֲרַמִּי אֹבֵד אָבִי (26:5) | 我祖先是一個流浪的亞蘭人 | *oved* noted: 流浪的 or 將要滅亡的. |
 
 ## Style
 
