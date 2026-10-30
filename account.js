@@ -1,7 +1,7 @@
 // Accounts: an optional sign-in that keeps highlights and notes the same on every device.
 //
 // Reading, highlighting and notes never need an account: they are saved in the browser first.
-// Signing in, with a code sent by email (no password), adds what this device has saved to the
+// Signing in, with a link sent by email (no password), adds what this device has saved to the
 // account and brings in what the account holds, verse by verse, the newest change winning.
 // After that each change is sent a few seconds after it is made, and the account is checked
 // for changes from other devices when the reader opens or comes back into view.
@@ -93,16 +93,11 @@
     problem = message || "";
     render();
   }
-  async function sendCode(email) {
-    // If the email carries a link as well as the code, the link brings the reader back to this
-    // page (the live site or a preview), provided Supabase's Redirect URLs allow it.
+  async function sendLink(email) {
+    // The email's link brings the reader back to this page (the live site or a preview),
+    // provided Supabase's Redirect URLs allow it.
     const back = encodeURIComponent(location.origin + location.pathname);
     await call("/auth/v1/otp?redirect_to=" + back, { method: "POST", auth: false, body: { email, create_user: true } });
-  }
-  async function verify(email, token) {
-    const s = await call("/auth/v1/verify", { method: "POST", auth: false, body: { type: "email", email, token } });
-    keep(s);
-    signedIn();
   }
   // A magic link brings the reader back with the session in the address; index.html sets it
   // aside before the reader reads the address.
@@ -111,7 +106,7 @@
     try { raw = sessionStorage.getItem("pe.authHash"); sessionStorage.removeItem("pe.authHash"); } catch (e) { /* storage unavailable */ }
     if (!raw) return false;
     const p = new URLSearchParams(raw);
-    if (p.get("error")) { problem = (p.get("error_description") || "That sign-in link didn't work").replace(/\+/g, " ") + ". Ask for a new code."; return true; }
+    if (p.get("error")) { problem = (p.get("error_description") || "That sign-in link didn't work").replace(/\+/g, " ") + ". Ask for a new link."; return true; }
     if (!p.get("access_token")) return false;
     state.session = { access_token: p.get("access_token"), refresh_token: p.get("refresh_token"), expires_at: +p.get("expires_at") || Math.floor(Date.now() / 1000) + (+p.get("expires_in") || 3600), user: { id: "", email: "" } };
     try {
@@ -120,7 +115,7 @@
       signedIn();
     } catch (e) {
       state.session = null;
-      problem = "That sign-in link didn't work. Ask for a new code.";
+      problem = "That sign-in link didn't work. Ask for a new link.";
       save();
     }
     return true;
@@ -201,6 +196,18 @@
     soon = setTimeout(sync, 2000);
   };
   document.addEventListener("visibilitychange", () => { if (document.visibilityState === "visible") sync(); });
+  // Signed in or out in another tab (as when the emailed link opens in a new one): follow it.
+  addEventListener("storage", e => {
+    if (e.key !== STORE) return;
+    let next = {};
+    try { next = JSON.parse(e.newValue) || {}; } catch (err) { /* unreadable */ }
+    if (!!next.session === !!state.session) return;
+    state = next; state.dirty = state.dirty || {};
+    step = { email: "", sent: false, busy: false, confirmDelete: false };
+    problem = "";
+    render();
+    if (state.session) sync();
+  });
   addEventListener("online", () => sync());
   setInterval(() => { if (document.visibilityState === "visible") sync(); }, 5 * 60 * 1000);
 
@@ -255,34 +262,33 @@
     } else if (!step.sent) {
       const email = el("input", { type: "email", id: "account-email", autocomplete: "email", inputmode: "email", placeholder: "you@example.com", required: true, value: step.email });
       kids.push(
-        el("p", {}, "Sign in with your email to keep your highlights and notes on every device you use. We'll send you a code: there's no password."),
+        el("p", {}, "Sign in with your email to keep your highlights and notes on every device you use. We'll email you a link to sign in with: there's no password."),
         el("p", { class: "hint", text: "Reading never needs an account, and what you've saved on this device stays here either way." }),
         el("form", { class: "account-form", onsubmit: async ev => {
           ev.preventDefault();
           step.email = email.value.trim();
           step.busy = true; problem = ""; render();
-          try { await sendCode(step.email); step.sent = true; }
-          catch (e) { problem = navigator.onLine === false ? "You're offline. Try again when you're connected." : "Couldn't send the code: " + e.message; }
+          try { await sendLink(step.email); step.sent = true; }
+          catch (e) { problem = navigator.onLine === false ? "You're offline. Try again when you're connected." : "Couldn't send the link: " + e.message; }
           step.busy = false; render();
         } },
           el("label", { for: "account-email", text: "Email" }), email,
-          el("div", { class: "actions" }, el("button", { class: "btn solid", type: "submit", disabled: step.busy }, step.busy ? "Sending…" : "Email me a code"))),
+          el("div", { class: "actions" }, el("button", { class: "btn solid", type: "submit", disabled: step.busy }, step.busy ? "Sending…" : "Email me a sign-in link"))),
         privacy());
     } else {
-      const code = el("input", { type: "text", id: "account-code", autocomplete: "one-time-code", inputmode: "numeric", pattern: "[0-9]*", maxlength: 10, placeholder: "123456", required: true });
+      // The link signs in whichever tab it opens in; this one follows (see the storage listener).
       kids.push(
-        el("p", {}, "We sent an email to ", el("strong", { text: step.email }), ". Open its link on this device, or enter its code here."),
-        el("form", { class: "account-form", onsubmit: async ev => {
-          ev.preventDefault();
-          step.busy = true; problem = ""; render();
-          try { await verify(step.email, code.value.trim()); step = { email: "", sent: false, busy: false, confirmDelete: false }; }
-          catch (e) { problem = e.status === 403 || e.status === 400 ? "That code didn't work. Check it, or ask for a new one." : "Couldn't sign in: " + e.message; step.busy = false; }
-          render();
-        } },
-          el("label", { for: "account-code", text: "Code" }), code,
-          el("div", { class: "actions" },
-            el("button", { class: "btn solid", type: "submit", disabled: step.busy }, step.busy ? "Signing in…" : "Sign in"),
-            el("button", { class: "btn line", type: "button", onclick: () => { step.sent = false; problem = ""; render(); } }, "Use a different email"))),
+        el("p", { class: "account-sent" }, el("strong", { text: "Check your email." })),
+        el("p", {}, "We sent a sign-in link to ", el("strong", { text: step.email }), ". Open it on this device, in this browser, and you'll be signed in."),
+        el("p", { class: "hint", text: step.resent ? "We sent another link: use the newest one, as each link works once." : "It can take a minute to arrive; if it doesn't, look in your spam folder. The link works once." }),
+        el("div", { class: "actions" },
+          el("button", { class: "btn solid", type: "button", disabled: step.busy, onclick: async () => {
+            step.busy = true; problem = ""; render();
+            try { await sendLink(step.email); step.resent = true; }
+            catch (e) { problem = navigator.onLine === false ? "You're offline. Try again when you're connected." : "Couldn't send the link: " + e.message; }
+            step.busy = false; render();
+          } }, step.busy ? "Sending…" : "Send another link"),
+          el("button", { class: "btn line", type: "button", onclick: () => { step.sent = false; step.resent = false; problem = ""; render(); } }, "Use a different email")),
         privacy());
     }
     body.replaceChildren(...kids);
