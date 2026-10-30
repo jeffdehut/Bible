@@ -179,6 +179,14 @@ Settled while drafting Exodus:
 | גִּלָּה עֶרְוָה | 發生性關係 | Noted: 「露出下體」. |
 | תּוֹעֵבָה; זִמָּה | 可憎的事；邪惡的事 | |
 | Animals in Leviticus 11, Deuteronomy 14 | Modern identifications, as in the English | Uncertainty and traditional names in notes. |
+| Festivals (Leviticus 23) | 逾越節、無酵節、七七節、吹角紀念的日子、贖罪日、住棚節 | Notes link 七七節 with 收割節 and 五旬節, 住棚節 with 收藏節. |
+| יוֹבֵל; דְּרוֹר | 禧年；自由 | |
+| גְּאֻלָּה; גֹּאֵל | 贖回；至近的親屬 | Noted: 救贖者. |
+| גֵּר; תּוֹשָׁב | 寄居的外人；寄居者 | |
+| חֵרֶם | 永獻；永獻當滅的 | Noted. |
+| אֹבוֹת וְיִדְּעֹנִים | 招魂的和交鬼的 | |
+| בָּמוֹת; גִּלּוּלִים; אֱלִילִים | 丘壇；可憎的偶像；虛無的偶像 | |
+| מַעֲשֵׂר | 十分之一 | |
 
 ## Style
 
