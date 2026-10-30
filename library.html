@@ -64,7 +64,7 @@ h1 { margin: 0 0 6px; font: 300 clamp(36px, 7vw, 56px)/1.02 var(--read); letter-
 .spine.first:not(:first-child) { margin-left: 10px; }
 .spine::before { content: ""; position: absolute; left: 0; right: 0; top: 10px; height: 2px; background: rgb(255 255 255 / 40%); }
 .spine::after { content: ""; position: absolute; left: 0; right: 0; bottom: 14px; height: 2px; background: rgb(255 255 255 / 40%); }
-.spine span { writing-mode: vertical-rl; transform: rotate(180deg); font: 600 12px/1 var(--sans); letter-spacing: 0.04em; white-space: nowrap; overflow: hidden; max-height: calc(100% - 26px); }
+.spine span { writing-mode: vertical-rl; transform: rotate(180deg); font: 600 var(--fs, 12px)/1 var(--sans); letter-spacing: 0.04em; white-space: nowrap; overflow: hidden; max-height: calc(100% - 26px); }
 .spine:hover, .spine:focus-visible, .spine[aria-pressed="true"] { transform: translateY(-10px); }
 .spine:focus-visible { outline: 2px solid var(--ink); outline-offset: 2px; }
 .spine { scroll-margin-top: calc(var(--bar, 56px) + 40px); }
@@ -145,11 +145,23 @@ body::before { content: ""; position: fixed; inset: 0 0 auto; height: env(safe-a
   let only = null;
   D.books.forEach((b, i) => {
     const phone = innerWidth < 600;
-    const wpx = (phone ? 18 : 16) + (phone ? 40 : 46) * Math.sqrt(b.w / maxW), hpx = (phone ? 116 : 118) + (b.t === "NT" ? 0 : 18) + (b.w > 20000 ? 10 : 0);
+    const wpx = (phone ? 18 : 16) + (phone ? 40 : 46) * Math.sqrt(b.w / maxW), hpx = (phone ? 132 : 140) + (b.t === "NT" ? 0 : 18) + (b.w > 20000 ? 10 : 0);
     const btn = el("button", { class: "spine" + (i === 0 || D.books[i - 1].s !== b.s ? " first" : ""), type: "button", "aria-pressed": "false", "data-s": b.s, title: b.n,
-      style: `width:${wpx.toFixed(0)}px;height:${hpx}px`, onclick: () => show(b, btn) }, el("span", { text: b.n, style: b.n.length > 13 ? "font-size:9.5px" : b.n.length > 9 ? "font-size:10.5px" : "" }));
+      style: `width:${wpx.toFixed(0)}px;height:${hpx}px`, onclick: () => show(b, btn) }, el("span", { text: b.n }));
     spines.push(btn); shelf.append(btn);
   });
+  // One size for every spine's name: the largest, up to 12px, at which the longest name fits its
+  // spine. A name is never shrunk alone.
+  function fitNames() {
+    const g = document.createElement("canvas").getContext("2d");
+    let size = 12;
+    for (; size > 8; size -= 0.5) {
+      g.font = `600 ${size}px "Libre Franklin", system-ui, sans-serif`;
+      if (spines.every((sp, i) => g.measureText(D.books[i].n).width + D.books[i].n.length * 0.04 * size <= sp.offsetHeight - 26 - 12)) break;
+    }
+    shelf.style.setProperty("--fs", size + "px");
+  }
+  fitNames();
   function paint() {
     spines.forEach((sp, i) => { sp.style.setProperty("--c", colorOf(D.books[i].s)); sp.style.setProperty("--on", dark() ? "#0b1020" : "#fff"); sp.classList.toggle("on", only == null || D.books[i].s === only); });
     shelf.classList.toggle("only", only != null);
@@ -195,7 +207,7 @@ body::before { content: ""; position: fixed; inset: 0 0 auto; height: env(safe-a
   paint();
   let lastW = shelf.clientWidth;
   new ResizeObserver(() => { if (shelf.clientWidth !== lastW) { lastW = shelf.clientWidth; layout(); } }).observe(shelf);
-  if (document.fonts) document.fonts.ready.then(layout);
+  if (document.fonts) document.fonts.ready.then(() => { fitNames(); layout(); });
   matchMedia("(prefers-color-scheme: dark)").addEventListener("change", paint);
   function show(b, btn) {
     document.querySelectorAll(".spine[aria-pressed=true]").forEach(x => x.setAttribute("aria-pressed", "false"));
