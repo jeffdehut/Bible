@@ -112,6 +112,27 @@ seen. Raise the `?v=` number after `config.js` and `account.js` in `index.html` 
 changed script needs a new address. Pages themselves are fetched network-first by the worker, so a
 published change shows on the first visit after it; data files show on the visit after.
 
+## Languages
+
+The site speaks each language listed in `LANGS` in `i18n.js` (English and Traditional Chinese
+so far); the menu's **Language** buttons switch between them, and a first visit follows the
+browser's language. Each language has:
+
+- `i18n/<code>.js`, its dictionary from the site's English wording, edited by hand, with the
+  books' names (`I18N.books`). `python3 scripts/i18n.py` says how much of the site's wording each
+  dictionary has, and `--missing <code>` lists what it lacks, ready to translate.
+- `i18n/<code>.names.js`, the names of people and places (for Chinese, `scripts/names_zh.py`,
+  from the Chinese Union Version).
+- Its Bible text where it has one: `python3 scripts/translation.py --lang zh` writes
+  `data/bible/i18n/zh-Hant/`, after `reader.py`. Chapters not yet translated show in English,
+  with a line saying so.
+
+A page's words are translated as they appear, when their whole wording is in the dictionary.
+Wording a script puts together from parts goes through `I18N.t("… {n} …", {n})` or
+`I18N.plural`, and text drawn on a canvas through `I18N.t`; `scripts/i18n.py --built` lists what
+still needs that. When a dictionary changes, raise the `?v=` after `i18n.js` everywhere (it is
+passed on to the dictionaries).
+
 ## Accounts
 
 Accounts let readers sign in, with a code sent by email, to keep their highlights and notes the
