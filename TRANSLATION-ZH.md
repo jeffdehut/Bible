@@ -169,6 +169,16 @@ Settled while drafting Exodus:
 | שֶׁרֶץ; שֶׁקֶץ; נְבֵלָה | 爬物；可憎的動物；自死的牲畜 | |
 | מַעַל; בִּשְׁגָגָה | 不忠；無意中 | |
 | נָשִׂיא; עַם הָאָרֶץ | 領袖；普通百姓 | |
+| אֵשׁ זָרָה | 別樣的火 | Noted: 「凡火」. |
+| שֵׁכָר | 啤酒 | Noted: 「濃酒」, brewed from grain (as the English "beer"). |
+| צָרַעַת | 嚴重的皮膚病 (people)；霉斑 (cloth, leather, houses) | |
+| נֶגַע; זוֹב; נִדָּה | 患處；漏症；經期不潔 | |
+| מַיִם חַיִּים | 活水 | |
+| עֲזָאזֵל | 阿撒瀉勒 | Noted, with 替罪羊. |
+| יוֹם הַכִּפֻּרִים; עִנָּה נֶפֶשׁ | 贖罪日；刻苦己心 | Fasting, noted. |
+| גִּלָּה עֶרְוָה | 發生性關係 | Noted: 「露出下體」. |
+| תּוֹעֵבָה; זִמָּה | 可憎的事；邪惡的事 | |
+| Animals in Leviticus 11, Deuteronomy 14 | Modern identifications, as in the English | Uncertainty and traditional names in notes. |
 
 ## Style
 
