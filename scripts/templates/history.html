@@ -119,6 +119,20 @@ button { font: inherit; color: inherit; }
   .title h1, .title p { animation: rise 1.4s cubic-bezier(.2, .7, .2, 1) both; }
   .title .grc { animation-delay: 0.25s; } .title .en { animation-delay: 0.4s; } .title .count { animation-delay: 0.7s; } .title .skip { animation-delay: 1.4s; }
 }
+/* A living chart: what comes into view settles in, the icons of the Bible's events float a
+   little, and the year line breathes. None of it moves with reduced motion. */
+#chart .band-icon { fill: none; stroke-width: 2.2; stroke-linecap: round; stroke-linejoin: round; }
+#chart .ev-icon .bob > circle { stroke: currentColor; stroke-width: 1.5; }
+#chart .ev-icon .bob > g * { fill: none; stroke: currentColor; stroke-width: 1.9; stroke-linecap: round; stroke-linejoin: round; }
+#chart .mark.sel .ev-icon .bob > circle { stroke: var(--ink); stroke-width: 2.5; }
+@media (prefers-reduced-motion: no-preference) {
+  #chart .mark { animation: settle 0.6s cubic-bezier(.2, .7, .2, 1) both; }
+  #chart .ev-icon .bob { animation: bob 6s ease-in-out infinite; transform-box: fill-box; transform-origin: center; }
+  .lens { animation: breathe 5s ease-in-out infinite; }
+}
+@keyframes settle { from { opacity: 0; } to { opacity: 1; } }
+@keyframes bob { 0%, 100% { transform: translateY(0); } 50% { transform: translateY(-1.5px); } }
+@keyframes breathe { 0%, 100% { opacity: 1; } 50% { opacity: 0.62; } }
 @keyframes rise { from { opacity: 0; transform: translateY(10px); filter: blur(4px); } to { opacity: 1; transform: none; filter: none; } }
 
 /* Controls over the chart */
@@ -391,7 +405,7 @@ button { font: inherit; color: inherit; }
     <p class="epigraph" lang="grc">ὅτε δὲ ἦλθεν τὸ πλήρωμα τοῦ χρόνου<small>“When the fullness of time had come.” Galatians 4:4</small></p>
     <p>History from the <b>death and resurrection of Jesus, about AD 30,</b> to today: the empires, churches, scriptures and thinkers of every continent, side by side. After Sebastian Adams’ <i>Synchronological Chart</i> of 1871, with modern dates throughout.</p>
     <p><b>Sources and method.</b> The rows are curated in this project’s <code>data/</code> tables (periods, rulers, events and lives), using the conventional dates of standard references, with Wikidata identifiers wherever an item’s English label matched exactly. Ancient and early medieval dates are often approximate and are marked so.</p>
-    <p class="sub">The Bible lane shows events the Bible narrates that outside evidence dates: modern dates, with Ussher’s date in each item’s details. The chart follows the plan of Sebastian C. Adams’ <i>Synchronological Chart, or Map of History</i> (1871). Built from the project’s data by <code>scripts/connections.py</code>.</p>
+    <p class="sub">The Bible lane shows events the Bible narrates that outside evidence dates: modern dates, with Ussher’s date in each item’s details. The lanes From Creation and Lives in the Bible follow the Bible’s own count of years as James Ussher reckoned it (1650), from the genealogy’s dates: historians date the early chapters very differently. The chart follows the plan of Sebastian C. Adams’ <i>Synchronological Chart, or Map of History</i> (1871). Built from the project’s data by <code>scripts/connections.py</code>.</p>
     <p class="sub">Part of the Plain English Bible, designed and orchestrated by Jeff Dehut. Questions or suggestions? <a href="mailto:info@bibledata.org">Write to info@bibledata.org</a>.</p>
   </section>
 </main>
@@ -406,10 +420,10 @@ button { font: inherit; color: inherit; }
   const $ = id => document.getElementById(id);
   const D = JSON.parse($("data").textContent);
   const PRESENT = D.present;
-  const FULL = [-3200, PRESENT + 8];
+  const FULL = [-4030, PRESENT + 8];
   // The ages of history, for the time bar: each a name and its years, to jump to.
   const AGES = [
-    ["The first civilizations", -3200, -1999, "#a8763e"], ["The patriarchs", -1999, -1199, "#8f8a3c"],
+    ["In the beginning", -4030, -3200, "#8a6d4b"], ["The first civilizations", -3200, -1999, "#a8763e"], ["The patriarchs", -1999, -1199, "#8f8a3c"],
     ["Kings and prophets", -1199, -538, "#3f8a5a"], ["Persia and Greece", -538, -62, "#3c7f8f"],
     ["Rome and the apostles", -62, 313, "#4062a8"], ["The Christian empire", 313, 600, "#6b4fa8"],
     ["The early Middle Ages", 600, 1000, "#94468f"], ["The high Middle Ages", 1000, 1450, "#a8455e"],
@@ -418,7 +432,7 @@ button { font: inherit; color: inherit; }
   ];
   const ageOf = y => (AGES.find(([, a, z]) => y >= a && y < z) || AGES[AGES.length - 1])[0];
   const RANGES = [["Since AD 30", "AD 30", [18, PRESENT + 8]], ["Since 1500", "1500", [1480, PRESENT + 6]],
-                  ["Antiquity", "Ancient", [-3150, 70]], ["All", "All", FULL]];
+                  ["From Creation", "Creation", [-4030, -400]], ["All", "All", FULL]];
   const GROUP_HUE = { "Bible lands": 32, "Faith and scripture": 224, "Mediterranean and Europe": 352, "Asia": 158,
                       "Africa and the Americas": 278, "The wider world": 200 };
   const KIND = { pe: "Era", pd: "Dynasty or movement", r: "Reign", f: "Life", e: "Event" };
@@ -460,7 +474,42 @@ button { font: inherit; color: inherit; }
   const groups = ["The Bible", ...D.groups];
   const groupOf = new Map(streams.map(s => [s.name, s.group]));
   const byStream = d3.group(items, d => d.s);
-  $("count").textContent = `${streams.length} streams · ${fmt.format(items.length)} eras, reigns, lives and events · 5,000 years`;
+  $("count").textContent = `${streams.length} streams · ${fmt.format(items.length)} eras, reigns, lives and events · from Creation to today`;
+  // Icons, drawn on a 24-unit square: for the Bible's events, and beside each stream's name.
+  const GLYPH = {
+    creation: '<circle cx="12" cy="12" r="4"/><path d="M12 2.5v3M12 18.5v3M2.5 12h3M18.5 12h3M5.3 5.3l2.1 2.1M16.6 16.6l2.1 2.1M5.3 18.7l2.1-2.1M16.6 7.4l2.1-2.1"/>',
+    garden: '<path d="M12 21v-7"/><path d="M12 14c-4 0-6-2.4-6-5.4S8.6 3 12 3s6 2.6 6 5.6-2 5.4-6 5.4Z"/><path d="M8.5 21h7"/>',
+    flood: '<path d="M3 16c2 0 2.2-1.4 4.5-1.4S9.6 16 12 16s2.4-1.4 4.5-1.4S19 16 21 16"/><path d="M3 20c2 0 2.2-1.4 4.5-1.4S9.6 20 12 20s2.4-1.4 4.5-1.4S19 20 21 20"/><path d="M5.5 12h13l-2-3.5h-9z"/><path d="M12 8.5V4"/>',
+    tower: '<path d="M7.5 21V10h9v11"/><path d="M9.5 10V6h5v4"/><path d="M11 6V3h2v3"/><path d="M4.5 21h15"/>',
+    tent: '<path d="M2.5 20 12 5l9.5 15Z"/><path d="M12 5v15"/><path d="M9.5 20 12 15l2.5 5"/>',
+    pyramid: '<path d="M2 20h20L12 4Z"/><path d="M12 4 9 20"/>',
+    waves: '<path d="M3 7c1.6 0 1.9-1.2 3.4-1.2S8.6 7 10 7M14 7c1.6 0 1.9-1.2 3.4-1.2S19.6 7 21 7M3 17c1.6 0 1.9-1.2 3.4-1.2S8.6 17 10 17M14 17c1.6 0 1.9-1.2 3.4-1.2S19.6 17 21 17"/><path d="M12 3v18"/>',
+    tablets: '<path d="M4 20V8a3 3 0 0 1 6 0v12Z"/><path d="M14 20V8a3 3 0 0 1 6 0v12Z"/><path d="M6 11h2M6 14h2M16 11h2M16 14h2"/>',
+    temple: '<path d="M3 9 12 4l9 5"/><path d="M5.5 9v10M9.8 9v10M14.2 9v10M18.5 9v10"/><path d="M3 20h18"/>',
+    crown: '<path d="M3 8l4.2 4L12 6l4.8 6L21 8l-2 11H5Z"/>',
+    ruin: '<path d="M3 20h18"/><path d="M5 20v-9h4v9M15 20v-5h4v5"/><path d="M9 11l2.5-3.5L13 10"/>',
+    home: '<path d="M3 11 12 4l9 7"/><path d="M6 9.5V20h12V9.5"/><path d="M10 20v-5h4v5"/>',
+    person: '<circle cx="12" cy="7.5" r="3.5"/><path d="M5 21c0-4 3-7 7-7s7 3 7 7"/>',
+    book: '<path d="M12 6.5C10 5 7 4.5 3.5 5v14c3.5-.5 6.5 0 8.5 1.5 2-1.5 5-2 8.5-1.5V5C17 4.5 14 5 12 6.5Z"/><path d="M12 6.5v14"/>',
+    ziggurat: '<path d="M3 20h18M5 20v-4h14v4M7.5 16v-4h9v4M10 12V8h4v4"/>',
+    column: '<path d="M4 6h16M5.5 4h13M4 20h16M7 6v14M12 6v14M17 6v14"/>',
+    ship: '<path d="M3 16h18l-3 4H6Z"/><path d="M12 16V4l6 8h-6"/>',
+    cross: '<path d="M12 3v18M7 8h10"/>',
+    scroll: '<path d="M7 4h11a2 2 0 0 1 0 4H7"/><path d="M7 4a2 2 0 0 0-2 2v12a2 2 0 0 0 2 2h11V8"/><path d="M9 12h6M9 15.5h6"/>',
+    lamp: '<path d="M12 4v16M6 8v3a6 6 0 0 0 12 0V8M8 20h8"/>',
+    flame: '<path d="M12 3c3 4 5 6 5 10a5 5 0 0 1-10 0c0-2 1-3.5 2-5 .5 2 1.5 3 3 3V3Z"/>',
+    quill: '<path d="M20 4C12 4 6 10 5 19"/><path d="M5 19c4-1 9-4 11-9"/><path d="M3 21l2-2"/>',
+    globe: '<circle cx="12" cy="12" r="9"/><path d="M3 12h18M12 3c3 3 3 15 0 18M12 3c-3 3-3 15 0 18"/>',
+    crescent: '<path d="M15 4a8 8 0 1 0 5 13 7 7 0 0 1-5-13Z"/>',
+  };
+  const STREAM_GLYPH = {
+    "The Bible in world history": "book", "From Creation": "creation", "Lives in the Bible": "person",
+    "Egypt": "pyramid", "Sumer and Akkad": "ziggurat", "Babylon": "ziggurat", "Tyre": "ship", "Carthage": "ship",
+    "Greece": "column", "Rome": "column", "Roman officials": "column", "Byzantine Empire": "column",
+    "High priests": "flame", "Jewish history": "lamp", "Church": "cross", "Bible transmission": "scroll",
+    "Islamic world": "crescent", "World": "globe", "World events": "globe", "Thinkers and writers": "quill",
+  };
+  const glyphFor = name => GLYPH[STREAM_GLYPH[name] || "crown"];
 
   // ---- Colours: one hue family per group, a shade per stream; recomputed when the theme changes.
   const dark = () => {
@@ -474,7 +523,12 @@ button { font: inherit; color: inherit; }
     for (const g of groups) {
       const ss = streams.filter(s => s.group === g);
       ss.forEach((s, k) => {
-        if (g === "The Bible") { colour[s.name] = dk ? "hsl(43 72% 62%)" : "hsl(40 85% 30%)"; return; }
+        if (g === "The Bible") {
+          colour[s.name] = s.name === "From Creation" ? (dk ? "hsl(28 70% 64%)" : "hsl(26 72% 36%)")
+            : s.name === "Lives in the Bible" ? (dk ? "hsl(52 50% 62%)" : "hsl(50 62% 28%)")
+            : dk ? "hsl(43 72% 62%)" : "hsl(40 85% 30%)";
+          return;
+        }
         const hue = GROUP_HUE[g] + (k - (ss.length - 1) / 2) * Math.min(13, 70 / ss.length);
         const l = dk ? 66 + (k % 2) * 6 : 38 + (k % 2) * 7;
         colour[s.name] = `hsl(${hue.toFixed(1)} ${dk ? 58 : 62}% ${l}%)`;
@@ -599,13 +653,15 @@ button { font: inherit; color: inherit; }
     gBands.selectAll("g.band").data(bands, d => d.stream || `g:${d.group}`).join(enter => {
       const g = enter.append("g").attr("class", "band");
       g.filter(d => d.stream).append("rect").attr("class", "band-bg");
+      g.filter(d => d.stream).append("g").attr("class", "band-icon").html(d => glyphFor(d.stream));
       g.append("text");
       return g;
     }).each(function (d) {
       const g = d3.select(this);
       if (d.stream) {
         g.select("rect").attr("x", 0).attr("width", W).attr("y", d.y).attr("height", d.h).attr("fill", colour[d.stream]);
-        g.select("text").attr("class", "band-label").attr("x", 14).attr("y", d.y + 15).attr("fill", colour[d.stream]).text(d.stream);
+        g.select("g.band-icon").attr("transform", `translate(13 ${d.y + 4.5}) scale(0.55)`).attr("stroke", colour[d.stream]);
+        g.select("text").attr("class", "band-label").attr("x", 32).attr("y", d.y + 15).attr("fill", colour[d.stream]).text(d.stream);
       } else {
         g.select("text").attr("class", "group-label").attr("x", 14).attr("y", d.y + 11).text(d.group);
       }
@@ -621,7 +677,11 @@ button { font: inherit; color: inherit; }
         .on("pointerenter", (e, d) => showTip(e, d)).on("pointermove", (e, d) => moveTip(e)).on("pointerleave", hideTip);
       g.each(function (d) {
         const n = d3.select(this);
-        if (d.k === "e") n.append("path"); else n.append("rect");
+        if (d.icon) {
+          const b = n.append("g").attr("class", "ev-icon").append("g").attr("class", "bob").style("animation-delay", `${-(d.id % 7) * 0.8}s`);
+          b.append("circle").attr("cx", 12).attr("cy", 12).attr("r", 15);
+          b.append("g").html(GLYPH[d.icon]);
+        } else if (d.k === "e") n.append("path"); else n.append("rect");
         n.append("text");
       });
       return g;
@@ -636,7 +696,20 @@ button { font: inherit; color: inherit; }
       const ry = band.rowY.get(d.row);
       const c = colour[d.s];
       const label = n.select("text");
-      if (d.k === "e") {
+      if (d.icon) {
+        const cx = x(d.a), cy = ry + EROW / 2;
+        n.select("g.ev-icon").attr("transform", `translate(${cx - 8.5} ${cy - 8.5}) scale(0.71)`)
+          .attr("color", c).select("circle").attr("fill", dark() ? "#141a28" : "#fffdf8").attr("stroke", c);
+        const tw = textW(d.n);
+        const key = `${d.s}:${d.row}`;
+        const free = (lastLabel.get(key) ?? -Infinity) < cx - 12;
+        const nextIn = shown.find(o => o !== d && o.s === d.s && o.row === d.row && o.a > d.a);
+        const room = nextIn ? x(nextIn.a) - cx - 20 : W - cx;
+        if (free && room > tw + 14 && cx > -20 && cx < W) {
+          label.attr("x", cx + 14).attr("y", cy + 4).attr("fill", c).text(d.n).attr("display", null);
+          lastLabel.set(key, cx + 14 + tw);
+        } else label.attr("display", "none");
+      } else if (d.k === "e") {
         const cx = x(d.a), cy = ry + EROW / 2;
         n.select("path").attr("d", `M${cx},${cy - 6}L${cx + 6},${cy}L${cx},${cy + 6}L${cx - 6},${cy}Z`)
           .attr("fill", c).attr("fill-opacity", d.c ? 0.55 : 1).attr("stroke", c).attr("stroke-width", 1)
@@ -731,12 +804,12 @@ button { font: inherit; color: inherit; }
         g.select("text").attr("x", (x1 + x2) / 2).attr("y", 40).attr("text-anchor", "middle").text(textW(label, 9.5, 600) + 6 < x2 - x1 ? label : "");
         g.select("title").text(`${d[0]}: ${yl(d[1])} – ${d[2] > PRESENT ? "today" : yl(d[2])}`);
       });
-    const labels = (OW < 500 ? [-3000, -1000, 1, 2000] : [-3000, -2000, -1000, 1, 1000, 2000]).map(y => ({ y, t: y === 1 ? "AD 1" : y < 0 ? `${-y} BC` : `${y}` }));
+    const labels = (OW < 500 ? [-4000, -2000, 1, 2000] : [-4000, -3000, -2000, -1000, 1, 1000, 2000]).map(y => ({ y, t: y === 1 ? "AD 1" : y < 0 ? `${-y} BC` : `${y}` }));
     gOAxis.selectAll("g").data(labels, d => d.y).join(enter => { const g = enter.append("g").attr("class", "tick"); g.append("line"); g.append("text"); return g; })
       .each(function (d) {
         const g = d3.select(this), px = xo(d.y);
         g.select("line").attr("x1", px).attr("x2", px).attr("y1", 44).attr("y2", 47);
-        g.select("text").attr("x", px).attr("y", 56).attr("text-anchor", d.y === -3000 ? "start" : d.y === 2000 ? "end" : "middle").text(d.t);
+        g.select("text").attr("x", px).attr("y", 56).attr("text-anchor", d.y === -4000 ? "start" : d.y === 2000 ? "end" : "middle").text(d.t);
       });
     overview.selectAll("line.anchor").data([30]).join("line").attr("class", "anchor").attr("x1", xo(30)).attr("x2", xo(30)).attr("y1", 2).attr("y2", 30);
     brush.extent([[0, 0], [OW, 31]]);
@@ -848,6 +921,7 @@ button { font: inherit; color: inherit; }
       parts.push(el("p", { class: "meta", text: `${d.sync.ref}. Ussher dates it ${d.sync.us != null ? yl(d.sync.us) : "—"}${diff ? `, ${Math.abs(diff)} years ${diff < 0 ? "earlier" : "later"}` : ""}.` }));
     } else if (d.note) parts.push(el("p", { text: d.note }));
     if (d.bible) parts.push(el("p", { class: "meta", text: `In the Bible: ${d.bible}, first named at ${d.ref}.` }));
+    if (d.u) parts.push(el("p", { class: "meta", text: (d.k === "f" ? `First named at ${d.ref}. ` : "") + D.ussher }));
     const href = readerHref(ref);
     parts.push(el("div", { class: "actions" },
       href ? act({ href }, `Read ${ref}`, "read", true) : null,

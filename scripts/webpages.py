@@ -146,7 +146,48 @@ def people_links(ctx):
     return out
 
 
-def history_data(ctx):
+# The Bible's own count of years, as James Ussher reckoned it (Annales Veteris Testamenti, 1650)
+# from the ages in its genealogies and reigns: the lane of key events from Creation, beside the
+# lives of the people the genealogy dates. Years are astronomical (0 is 1 BC); each item names
+# its verse and the icon the timeline draws for it.
+USSHER_LIVES = "Lives in the Bible"
+USSHER_EVENTS_STREAM = "From Creation"
+USSHER_EVENTS = [
+    ("Creation", -4003, "Genesis 1:1", "creation", "In the beginning God created the heavens and the earth."),
+    ("The garden of Eden", -4003, "Genesis 2:8", "garden", "Adam and Eve in the garden, and their fall."),
+    ("The Flood", -2347, "Genesis 7:11", "flood", "Noah, his family and the animals in the ark."),
+    ("The tower of Babel", -2241, "Genesis 11:9", "tower", "The languages confused and the peoples scattered; Ussher's date is approximate."),
+    ("The call of Abram", -1920, "Genesis 12:1", "tent", "Abram leaves Harran for the land God will show him."),
+    ("Jacob's family goes down to Egypt", -1705, "Genesis 46:6", "pyramid", "Seventy of Jacob's household settle in Goshen."),
+    ("The Exodus", -1490, "Exodus 14:21", "waves", "Israel leaves Egypt through the sea."),
+    ("The law at Sinai", -1490, "Exodus 20:1", "tablets", "The ten commandments and the covenant at Sinai."),
+    ("Solomon begins the temple", -1011, "1 Kings 6:1", "temple", "In the 480th year after the Exodus."),
+    ("The kingdom divides", -974, "1 Kings 12:19", "crown", "Israel in the north, Judah in the south."),
+    ("Samaria falls", -720, "2 Kings 17:6", "ruin", "Assyria carries the northern kingdom into exile."),
+    ("Jerusalem falls", -587, "2 Kings 25:9", "ruin", "Babylon burns the temple; Judah goes into exile (Ussher's year)."),
+    ("Cyrus lets the exiles return", -535, "Ezra 1:1", "home", "The first return from Babylon."),
+]
+USSHER_NOTE = ("Dates follow Ussher's chronology, counted from the Bible's own genealogies and reigns "
+               "(through Theographic). Historians date the early chapters very differently, so this "
+               "lane is the Bible's own reckoning, set beside the rest.")
+
+
+def ussher_items(g):
+    """The two Ussher lanes, from the genealogy page's data (genealogy_data, or its JSON)."""
+    get = lambda d, k: d.get(k, d.get(str(k)))
+    out = [{"k": "e", "s": USSHER_EVENTS_STREAM, "n": n, "a": y, "z": y, "c": 1, "ref": ref, "icon": icon,
+            "note": note, "u": 1} for n, y, ref, icon, note in USSHER_EVENTS]
+    for k in range(len(g["n"])):
+        a, z = get(g["by"], k), get(g["dy"], k)
+        if a is None or z is None or z < a:
+            continue
+        b, c, v = g["f"][3 * k:3 * k + 3]
+        out.append({"k": "f", "s": USSHER_LIVES, "n": g["n"][k], "a": a, "z": z, "u": 1,
+                    "note": g["b"][k], "ref": f"{g['books'][b]} {c}:{v}"})
+    return out
+
+
+def history_data(ctx, genealogy=None):
     order = [s for _, streams in STREAM_GROUPS for s in streams]
     group_of = {s: g for g, streams in STREAM_GROUPS for s in streams}
     items = []
@@ -175,11 +216,14 @@ def history_data(ctx):
     unknown = sorted({r["s"] for r in out} - set(order))
     if unknown:
         raise ValueError(f"streams missing from webpages.STREAM_GROUPS: {unknown}")
+    if genealogy:
+        out += ussher_items(genealogy)
     syncs = [{"n": s["event"], "ref": ref_label(*s["verse"]), "m": s["modern_y"], "us": s["ussher_y"],
               "c": 1 if s["approximate"] == "yes" else 0, "ev": s["evidence"]} for s in ctx.syncs]
     used = {r["s"] for r in out}
-    streams = [{"name": s, "group": group_of[s]} for s in order if s in used]
-    return {"streams": streams, "groups": [g for g, _ in STREAM_GROUPS], "items": out, "syncs": syncs,
+    streams = ([{"name": s, "group": "The Bible"} for s in (USSHER_EVENTS_STREAM, USSHER_LIVES) if s in used]
+               + [{"name": s, "group": group_of[s]} for s in order if s in used])
+    return {"streams": streams, "groups": [g for g, _ in STREAM_GROUPS], "items": out, "syncs": syncs, "ussher": USSHER_NOTE,
             "present": max(r["z"] for r in out)}
 
 
@@ -292,7 +336,8 @@ def write_static(name):
 
 def build(ctx, family_of, groups):
     os.makedirs(os.path.join(SITE, "data", "bible"), exist_ok=True)
-    pages = {"genealogy": genealogy_data(ctx, family_of, groups), "history": history_data(ctx)}
+    pages = {"genealogy": genealogy_data(ctx, family_of, groups)}
+    pages["history"] = history_data(ctx, pages["genealogy"])
     for name, data in pages.items():
         with open(os.path.join(SITE, "data", f"{name}.json"), "w", encoding="utf-8", newline="\n") as f:
             if name == "genealogy":
