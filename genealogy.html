@@ -744,7 +744,7 @@ body::before { content: ""; position: fixed; inset: 0 0 auto; height: env(safe-a
     if (labelOf.has(k)) return labelOf.get(k);
     const p = P[TREE[k].i];
     g.font = p.u ? ITALIC : FONT;
-    let s = p.n;
+    let s = (window.I18N ? I18N.t(p.n) : p.n);
     if (g.measureText(s).width > BW - 12) {
       while (s.length > 1 && g.measureText(s + "…").width > BW - 12) s = s.slice(0, -1);
       s += "…";
@@ -936,7 +936,7 @@ body::before { content: ""; position: fixed; inset: 0 0 auto; height: env(safe-a
     let limit = W - 12;
     for (let n = placed.length - 1; n >= 0; n--) {
       const [E, e] = placed[n];
-      const text = E.label.toUpperCase();
+      const text = (window.I18N ? I18N.t(E.label) : E.label).toUpperCase();
       const w = g.measureText(text).width;
       let sx = Math.max(E.col * CW * k + T.x, 20);
       if (sx + w + 8 > limit) sx = limit - w - 8;
@@ -961,7 +961,7 @@ body::before { content: ""; position: fixed; inset: 0 0 auto; height: env(safe-a
         const t = TREE[a];
         if (!vis(t)) continue;
         const sx = t.x * k + T.x, sy = t.y * k + T.y;
-        const text = P[t.i].n, w = g.measureText(text).width + 6;
+        const text = (window.I18N ? I18N.t(P[t.i].n) : P[t.i].n), w = g.measureText(text).width + 6;
         const bx = sx - 2, by = sy - 8;
         if (!fits(bx, by, w, 16)) continue;
         taken.push([bx, by, bx + w, by + 16]);

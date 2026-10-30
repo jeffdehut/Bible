@@ -133,7 +133,8 @@ canvas { display: block; width: 100%; touch-action: pan-y; cursor: crosshair; }
     ctx.font = '600 11px "Libre Franklin", system-ui, sans-serif'; ctx.textBaseline = "top"; ctx.fillStyle = getComputedStyle(document.documentElement).getPropertyValue("--muted");
     const marks = [[0, "Genesis"], [D.books.findIndex(b => b[1] === "Ps"), "Psalms"], [D.books.findIndex(b => b[1] === "Isa"), "Isaiah"], [D.books.findIndex(b => b[1] === "Matt"), "Matthew"], [65, "Rev."]];
     let first = 0;
-    for (const [b, t] of marks) {
+    for (const [b, t0] of marks) {
+      const t = (window.I18N ? I18N.t(t0) : t0);
       let s = 0; for (let i = 0; i < b; i++) s += D.books[i][3];
       const x = Math.max(0, Math.min(W - ctx.measureText(t).width, xOf(s)));
       if (x >= first) { ctx.fillText(t, x, base + 13); first = x + ctx.measureText(t).width + 8; }

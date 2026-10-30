@@ -6,7 +6,10 @@ Reads   the Chinese Union Version (Traditional, new punctuation, public domain),
         eBible.org (downloaded once into .cache/cuv/), which marks every proper noun (\\pn);
         data/bible/people.json and data/bible/places.json: each person and place, and the verses
         that name them (Hebrew numbering in the Old Testament, turned into the English numbering
-        the Union Version follows, through TVTMS); data/graph.json for the names as the
+        the Union Version follows, through TVTMS); Theographic's people and places (in
+        .cache/theographic/, from connections.py), which give every verse that names each one,
+        where the site's own lists name a place only where a map shows it; data/graph.json for
+        the names as the
         Connections page and the 3D web show them ("Abdi (1 Chronicles 6.29)")
 Writes  i18n/zh-Hant.names.js   I18N.add({English name: Chinese name, ...})
 
@@ -19,6 +22,7 @@ are paired in the order they come. A name still unsettled is left out, and shows
 Corrections go in OVERRIDES below, never in the written file.
 """
 
+import ast
 import collections
 import json
 import math
@@ -42,7 +46,12 @@ CODES = ["GEN", "EXO", "LEV", "NUM", "DEU", "JOS", "JDG", "RUT", "1SA", "2SA", "
 # Hand corrections: English name -> Chinese, or None to leave a name out.
 OVERRIDES = {
     "God": None, "LORD": None, "Lord": None,
-    "Jesus": "耶穌", "Christ": "基督",
+    "Jesus": "耶穌", "Christ": "基督", "Pharaoh": "法老",
+    # Found with others in every verse, so the verses can't tell them apart:
+    "Simon": "西門", "Philip": "腓力", "Pilate": "彼拉多", "Galilee": "加利利", "Jordan": "約旦河",
+    "Sinai": "西奈", "Huldah": "戶勒大", "Darda": "達大", "Telah": "他拉", "Heldai": "黑玳",
+    "Ibhar": "益轄", "Gaddi": "迦底", "Suah": "書亞", "Shua": "書亞", "Mica": "米迦",
+    "Ezrah": "以斯拉", "Elpalet": "以利法列",
 }
 
 
@@ -111,6 +120,27 @@ def site_names():
     return where
 
 
+def theographic_names(heb):
+    """{name: set of verses} from Theographic's people and places, which list every verse that
+    names them (the site's own lists name a place only where a map shows it). Its references are
+    in English numbering, turned into ours."""
+    folder = os.path.join(connections.CACHE, "theographic", "json")
+    load = lambda f: json.load(open(os.path.join(folder, f), encoding="utf-8"))
+    ref = {}
+    for r in load("verses.json"):
+        b, c, v = r["fields"]["osisRef"].split(".")
+        ref[r["id"]] = heb.get((b, int(c), int(v)), (b, int(c), int(v)))
+    ids = lambda x: ast.literal_eval(x) if isinstance(x, str) else (x or [])
+    where = collections.defaultdict(set)
+    for f, keys in (("people.json", ("name",)), ("places.json", ("displayTitle", "kjvName", "esvName"))):
+        for r in load(f):
+            vs = {ref[i] for i in ids(r["fields"].get("verses")) if i in ref}
+            for k in keys:
+                if r["fields"].get(k):
+                    where[r["fields"][k]] |= vs
+    return where
+
+
 def english_text():
     """{(osis, chapter, verse): our English text}, for the order names come in."""
     text = {}
@@ -123,30 +153,60 @@ def english_text():
     return text
 
 
+def onset(name):
+    """How an English name begins, for its sound: its first consonants ("sh", "t"), or its first
+    vowel."""
+    m = re.match(r"[^aeiouy]+|[aeiouy]", name.lower().replace("-", ""))
+    return m[0][:2] if m else ""
+
+
 def match(where, nouns):
     """The names their verses settle: {English: Chinese}, and the rest. Each proper noun is
-    scored for a name by recall (the share of the name's verses that have it) times precision
-    (the share of its verses that are the name's). A name takes its best proper noun when that is
-    clearly ahead of the next; one already given to a name found in the same verses is not given
-    again (Pedahzur, father of Gamaliel), and the names are gone over until nothing changes."""
+    scored for a name by recall (the share of the name's verses that have it), squared, times a
+    little of its precision (the share of its verses that are the name's: a little, as the Union
+    Version gives many people one name, 雅各 for Jacob and James), times how well its first character fits the
+    sound the English begins with (learned from the pairs the verses settle clearly: "H" is
+    usually 哈 or 希, rarely 特), which tells apart names always found together (Huldah,
+    daughter-in-law of Tikvah). A name takes its best proper noun when that is clearly ahead of
+    the next; one already given to a name found in the same verses is not given again (Pedahzur,
+    father of Gamaliel). The names are gone over until nothing changes."""
     df = collections.Counter(n for ns in nouns.values() for n in set(ns))
-    scores = {}
+    base = {}
     for name, vs in where.items():
         cands = collections.Counter(n for key in vs for n in set(nouns.get(key, [])))
         hits = sum(1 for key in vs if nouns.get(key))
-        scores[name] = {n: (cnt / hits) * (cnt / df[n]) for n, cnt in cands.items()}
+        base[name] = {n: (cnt / hits) ** 2 * (cnt / df[n]) ** 0.3 for n, cnt in cands.items() if cnt / hits >= 0.2 or len(vs) < 5}
+    # The sound: first characters of the clearly settled pairs, by how the English begins.
+    sound = collections.defaultdict(collections.Counter)
+    for name, sc in base.items():
+        top = sorted(sc.items(), key=lambda x: -x[1])
+        if top and top[0][1] >= 0.5 and (len(top) == 1 or top[0][1] >= 3 * top[1][1]) and len(where[name]) >= 3:
+            sound[onset(name)][top[0][0][0]] += 1
+    def fit(name, n):
+        c = sound.get(onset(name))
+        if not c:
+            return 1.0
+        return 0.25 + 0.75 * (c[n[0]] + 0.5) / (max(c.values()) + 0.5)
+    scores = {name: {n: sc * fit(name, n) for n, sc in cs.items()} for name, cs in base.items()}
     found, given = {}, collections.defaultdict(list)
+    blocked = lambda n, name: any(where[o] & where[name] for o in given[n])
+    pairs = sorted(((sc, name, n) for name, cs in scores.items() for n, sc in cs.items()), reverse=True)
     changed = True
     while changed:
         changed = False
-        for name in sorted(scores, key=lambda x: -max(scores[x].values(), default=0)):
-            if name in found:
+        for sc, name, n in pairs:
+            if name in found or sc < 0.1 or blocked(n, name):
                 continue
-            free = sorted(((sc, n) for n, sc in scores[name].items()
-                           if not any(where[o] & where[name] for o in given[n])), reverse=True)
-            if not free or free[0][0] < 0.25 or (len(free) > 1 and free[0][0] < 1.25 * free[1][0]):
+            second = max((x for m, x in scores[name].items() if m != n and not blocked(m, name)), default=0)
+            if sc < 1.5 * second:
                 continue
-            n = free[0][1]
+            # One verse is little to go on: then the sound must fit well, and the next be far behind.
+            if len(where[name]) < 2 and (fit(name, n) < 0.6 or sc < 2.5 * second):
+                continue
+            # A people named after a place ("Gittites") is written with 人, which the
+            # Union Version doesn't mark: left to the dictionary.
+            if re.search(r"(ite|ites|ians)$", name) and not n.endswith("人"):
+                continue
             found[name] = n
             given[n].append(name)
             changed = True
@@ -197,6 +257,8 @@ def main():
     for (osis, c, v), ns in cuv.items():
         nouns.setdefault(heb.get((osis, c, v), (osis, c, v)), []).extend(ns)
     where = site_names()
+    for name, vs in theographic_names(heb).items():
+        where[name] |= vs          # its names the site lacks too: a map or the timeline may show them
     found, unsure = match(where, nouns)
     found.update(by_order(unsure, found, where, nouns, english_text()))
     for k, v in OVERRIDES.items():
