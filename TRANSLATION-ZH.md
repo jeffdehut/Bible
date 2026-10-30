@@ -123,6 +123,44 @@ Settled while drafting Genesis:
 | בְּכֹרָה; מַצֵּבָה | 長子的名分；石柱 | |
 | יְהוָה יִרְאֶה; אֵל עוֹלָם | 耶和華以勒；永生神 | |
 
+Settled while drafting Exodus:
+
+| Source | Rendering | Notes |
+|---|---|---|
+| אֶהְיֶה אֲשֶׁר אֶהְיֶה (3:14) | 我就是我 | Noted: *ehyeh asher ehyeh*; 「我是那我是的」, 「我必是我所是的」, and the Union Version's 「我是自有永有的」. 3:15 notes YHWH, *Yahweh*, and how 耶和華 arose. |
+| Pharaoh's heart: חָזַק; כָּבֵד; קָשָׁה | 剛硬；頑固；頑梗 | Three verbs kept apart. |
+| נֹגְשִׂים; שֹׁטְרִים | 監工；工頭 | |
+| מַטֶּה; תַּנִּין | 杖；大蛇 | נָחָשׁ stays 蛇. |
+| חַרְטֻמִּים; מְכַשְּׁפִים; לְהָטִים | 術士；行邪術的；秘術 | |
+| זָבַת חָלָב וּדְבָשׁ | 流奶與蜜之地 | |
+| יַם־סוּף | 紅海 | Noted: 「蘆葦海」. |
+| צִבְאוֹת (Israel's divisions) | 隊伍 | |
+| פֶּסַח; מַצּוֹת | 逾越節；無酵餅、無酵節 | The wordplay with *pasach* noted. |
+| מִקְרָא קֹדֶשׁ | 聖會 | |
+| מָן | 嗎哪 | *man hu* noted (16:15). |
+| עֵדֻת; סְגֻלָּה | 法版；珍寶 | |
+| שְׁלָמִים; עֹלָה | 平安祭；燔祭 | |
+| קִדֵּשׁ | 分別為聖 | |
+| אֵל קַנָּא | 忌邪的神 | |
+| The Ten Commandments | 不可謀殺 (20:13, noted: traditionally 不可殺人), 不可妄用耶和華你神的名 | How the traditions count them, noted at 20:1. |
+| מִשְׁפָּטִים; חֻקִּים | 典章；律例 | |
+| מִשְׁכָּן; אֹהֶל מוֹעֵד | 帳幕；會幕 | |
+| אֲרוֹן הָעֵדֻת; כַּפֹּרֶת | 法櫃；施恩座 | *kipper* noted. |
+| פָּרֹכֶת; מָסָךְ; קְלָעִים | 幔子；門簾；帷子 | |
+| קֹדֶשׁ הַקֳּדָשִׁים; מְנוֹרָה | 至聖所；燈臺 | |
+| אֵפוֹד; חֹשֶׁן; אוּרִים וְתֻמִּים | 以弗得；胸牌；烏陵和土明 | |
+| מִלֵּא יָד | 授予聖職 | Noted: 「充滿手」. |
+| חַטָּאת; תְּנוּפָה; אִשֶּׁה | 贖罪祭；搖祭；火祭 | |
+| רֵיחַ נִיחֹחַ | 馨香的氣味 | |
+| Festivals | 無酵節、收割節、收藏節 | |
+| Precious stones, dyes, spices | Modern identifications, as in the English | Traditional names in notes. |
+| The law code (Exodus 21–23) | Without quotation marks | A note at 21:1 says who speaks. |
+| רַחוּם וְחַנּוּן … רַב־חֶסֶד וֶאֱמֶת (34:6) | 有憐憫、有恩典……充滿慈愛和信實 | Notes on *rachum*, *chesed*, *emet*. |
+| נִחַם | 改變心意 | |
+| שַׁבַּת שַׁבָּתוֹן | 完全休息的安息日 | |
+| אֲשֵׁרִים | 亞舍拉木柱 | |
+| חֹדֶשׁ הָאָבִיב; חַג שָׁבֻעֹת | 亞筆月；七七節 | |
+
 ## Style
 
 **Characters and words.** Plain words over the Union Version's literary ones (吊下去, not 縋下來). Hong Kong standard forms: 裏 (not 裡), 着 for the particle (看着、

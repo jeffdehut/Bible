@@ -46,7 +46,7 @@ CODES = ["GEN", "EXO", "LEV", "NUM", "DEU", "JOS", "JDG", "RUT", "1SA", "2SA", "
 # Hand corrections: English name -> Chinese, or None to leave a name out.
 OVERRIDES = {
     "God": None, "LORD": None, "Lord": None,
-    "Jesus": "耶穌", "Christ": "基督", "Pharaoh": "法老", "Nebaioth": "尼拜約", "Perez": "法勒斯", "Areli": "亞列利", "Huppim": "戶平", "Ziphion": "洗非芸", "Ishvah": "亦施瓦", "Ishvi": "亦施韋", "Muppim": "母平",
+    "Jesus": "耶穌", "Christ": "基督", "Pharaoh": "法老", "Nebaioth": "尼拜約", "Perez": "法勒斯", "Oholiab": "亞何利亞伯", "Abib": "亞筆", "Asherah": "亞舍拉", "Pi-hahiroth": "比‧哈希錄", "Baal-zephon": "巴力‧洗分", "Meribah": "米利巴", "Mishael": "米沙利", "Sithri": "西提利", "Pithom": "比東", "Shiphrah": "施弗拉", "Elzaphan": "以利撒反", "Abiasaph": "亞比亞撒", "Putiel": "普鐵", "Areli": "亞列利", "Huppim": "戶平", "Ziphion": "洗非芸", "Ishvah": "亦施瓦", "Ishvi": "亦施韋", "Muppim": "母平",
     # Found with others in every verse, so the verses can't tell them apart:
     "Simon": "西門", "Philip": "腓力", "Pilate": "彼拉多", "Galilee": "加利利", "Jordan": "約旦河",
     "Sinai": "西奈", "Huldah": "戶勒大", "Darda": "達大", "Telah": "他拉", "Heldai": "黑玳",
