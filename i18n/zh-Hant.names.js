@@ -2,6 +2,10 @@
 // (public domain) spells them. Written by scripts/names_zh.py: don't edit by hand;
 // corrections go in OVERRIDES there.
 I18N.add({
+"Muppim":"母平",
+"Ishvi":"亦施韋",
+"Ishvah":"亦施瓦",
+"Ziphion":"洗非芸",
 "Perez":"法勒斯",
 "Aaron":"亞倫",
 "Abagtha":"亞拔他",
@@ -391,7 +395,7 @@ I18N.add({
 "Ard (Genesis 46.21)":"亞勒（創世記 46.21）",
 "Ard (Numbers 26.40)":"亞勒（民數記 26.40）",
 "Ardon":"押墩",
-"Areli":"亞律",
+"Areli":"亞列利",
 "Areopagus":"亞略‧巴古",
 "Aretas":"亞哩達",
 "Argob":"亞珥歌伯",
@@ -1817,7 +1821,7 @@ I18N.add({
 "Huldah":"戶勒大",
 "Humtah":"宏他",
 "Huppah":"胡巴",
-"Huppim":"戶品",
+"Huppim":"戶平",
 "Huppim (1 Chronicles 7.12)":"戶品（歷代志上 7.12）",
 "Huppim (Genesis 46.21)":"戶品（創世記 46.21）",
 "Hur":"戶珥",
