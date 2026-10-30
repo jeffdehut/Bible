@@ -103,10 +103,13 @@ python3 scripts/referents.py     # data/bible/referents/: who "he" is, from MACU
 ```
 
 Then push the branch, and merging it into `main` puts it live. The pages are built from templates in `scripts/templates/`; edit those, not the built pages.
-When the service worker or the app shell changes, raise `VERSION` in `sw.js` so installed
-copies of the reader pick up the new version, and raise the `?v=` number after `sw.js`, `config.js`
-and `account.js` in `index.html` (and `config.js` in `scripts/templates/privacy.html`) to match:
-Porkbun's servers keep JavaScript files for 30 days, so a changed script needs a new address.
+When the service worker or the app shell changes, raise `VERSION` in `sw.js` (reader-N) and the
+`?v=N` the reader registers it with (`navigator.serviceWorker.register("sw.js?v=N")` in
+`index.html`) to the same N, so installed copies pick up the new worker at an address no cache has
+seen. Raise the `?v=` number after `config.js` and `account.js` in `index.html` (and `config.js` in
+`scripts/templates/privacy.html`) when they change: Porkbun's servers keep files for 30 days, so a
+changed script needs a new address. Pages themselves are fetched network-first by the worker, so a
+published change shows on the first visit after it; data files show on the visit after.
 
 ## Accounts
 
