@@ -1981,7 +1981,7 @@ getJSON("books.json").then(list => {
   addEventListener("hashchange", route);
   route();
 }).catch(() => { $("loading").textContent = "The Bible couldn't be loaded. Check your connection and reload the page."; });
-if ("serviceWorker" in navigator && /^https?:$/.test(location.protocol) && !embedded) navigator.serviceWorker.register("sw.js").catch(() => {});
+if ("serviceWorker" in navigator && /^https?:$/.test(location.protocol) && !embedded) navigator.serviceWorker.register("sw.js?v=15").catch(() => {});
 
 /* ---------- For account.js: highlights and notes, and two of the reader's tools ---------- */
 var reader = {
@@ -1999,7 +1999,7 @@ var reader = {
   openSheet, toast,
 };
 </script>
-<script src="config.js"></script>
-<script src="account.js"></script>
+<script src="config.js?v=15"></script>
+<script src="account.js?v=15"></script>
 </body>
 </html>
