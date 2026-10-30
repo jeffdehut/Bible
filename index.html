@@ -857,7 +857,7 @@ if (/(^#|&)(access_token|error)=/.test(location.hash)) {
   <div class="sheet-head"><h2 id="menu-title">Plain English Bible</h2><button class="btn" type="button" data-close aria-label="Close"><svg class="icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M6 6l12 12M18 6 6 18"/></svg></button></div>
   <div id="site-menu"><!-- nav.js: the site's menu, the same on every page --></div>
 </section>
-<script src="nav.js?v=31"></script>
+<script src="nav.js?v=32"></script>
 
 <section class="sheet dialog" id="mine" hidden aria-labelledby="mine-title">
   <div class="grab"></div>
@@ -1129,7 +1129,17 @@ function chapterHead(b, c, chapter) {
     el("div", { class: "meta" },
       el("button", { class: "badge " + st, type: "button", text: STATUS_LABEL[st] || st, onclick: () => openSheet("about") }),
       el("span", { class: "src", text: b.t === "NT" ? "From the Greek" : allAramaic(b, c) ? "From the Aramaic" : hasAramaic(b, c) ? "From the Hebrew and Aramaic" : "From the Hebrew" }),
-      web));
+      web, guide(b, c)));
+}
+// Psalms and Proverbs: a link to the page that sets the chapter among the rest (psalms.html,
+// proverbs.html).
+function guide(b, c) {
+  const g = b.osis === "Ps" ? ["psalms.html#" + c, "All the psalms", '<path d="M6 3.5c7 0 12 4.5 12.5 12"/><path d="M6 3.5V20.5h12.5"/><path d="M9.5 7v13.5M13 9.5v11M16 12.5v8"/>', "This psalm among all 150: its type, author and story"]
+    : b.osis === "Prov" ? ["proverbs.html", "By topic", '<path d="M3.5 13.5h17c0 3-3.6 5-8.5 5s-8.5-2-8.5-5Z"/><path d="M8.5 18.5 7.5 21h9l-1-2.5"/><path d="M12 4c1.2 1.6 2 2.6 2 4a2 2 0 0 1-4 0c0-1.4.8-2.4 2-4Z"/>', "Every proverb, by topic"] : null;
+  if (!g) return null;
+  const a = el("a", { class: "web-link", href: g[0], title: g[3] });
+  a.innerHTML = `<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">${g[2]}</svg>` + g[1];
+  return a;
 }
 function buildChapter(b, c, data) {
   const chapter = data.chapters[c - 1];

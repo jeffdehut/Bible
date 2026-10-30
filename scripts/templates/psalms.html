@@ -1,0 +1,292 @@
+<title>The Psalms · Plain English Bible</title>
+<meta name="claude:viewport-fit-sides" content="cover">
+<meta name="description" content="All 150 psalms at a glance: the five books of the Psalter, each psalm by type (lament, praise, thanksgiving, trust, royal, wisdom, history), who it is by, the moments in David's life behind it, and how the Psalter moves from lament to praise.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Frank+Ruhl+Libre:wght@300..700&family=Libre+Franklin:wght@400;500;600;700&display=swap">
+<style>
+/* The Psalter as five shelves of tiles, a tile for each psalm, as wide as the psalm is long and
+   colored by its type; a line beneath follows the mood from lament to praise. */
+:root {
+  --bg: #fbfaf7; --surface: #ffffff; --ink: #161b26; --muted: #5b6475; --faint: #8d95a4; --line: #e4e2db;
+  --lapis: #2646a1; --lapis-soft: #e7ecf8;
+  --shadow: 0 1px 2px rgb(22 27 38 / 6%), 0 10px 30px rgb(22 27 38 / 10%);
+  --read: "Frank Ruhl Libre", "Noto Serif", Georgia, serif;
+  --sans: "Libre Franklin", system-ui, -apple-system, "Segoe UI", sans-serif;
+}
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) { --bg: #0d111b; --surface: #131a28; --ink: #e9ecf3; --muted: #a3acbd; --faint: #6f7a90; --line: #263047; --lapis: #9db3ff; --lapis-soft: #1c2650; color-scheme: dark; }
+}
+:root[data-theme="dark"] { --bg: #0d111b; --surface: #131a28; --ink: #e9ecf3; --muted: #a3acbd; --faint: #6f7a90; --line: #263047; --lapis: #9db3ff; --lapis-soft: #1c2650; color-scheme: dark; }
+* { box-sizing: border-box; }
+html { -webkit-text-size-adjust: 100%; }
+body { margin: 0; background: var(--bg); color: var(--ink); font: 400 16px/1.5 var(--sans);
+  padding-left: max(16px, env(safe-area-inset-left, 0px)); padding-right: max(16px, env(safe-area-inset-right, 0px)); }
+a { color: var(--lapis); }
+main { max-width: 1100px; margin-inline: auto; padding-block: clamp(22px, 5vw, 44px) 80px; }
+h1 { margin: 0 0 6px; font: 300 clamp(36px, 7vw, 56px)/1.02 var(--read); letter-spacing: -0.02em; }
+.lede { margin: 0 0 18px; max-width: 66ch; color: var(--muted); }
+h2 { margin: 30px 0 4px; font: 500 22px/1.2 var(--read); }
+.sub { margin: 0 0 12px; color: var(--muted); font-size: 14px; max-width: 70ch; }
+.controls { display: flex; flex-wrap: wrap; align-items: center; gap: 8px 14px; margin: 0 0 8px; }
+.seg { display: inline-flex; padding: 3px; border-radius: 11px; background: var(--lapis-soft); }
+.seg button { border: 0; background: transparent; color: var(--muted); font: 600 13.5px/1 var(--sans); padding: 8px 12px; border-radius: 8px; cursor: pointer; }
+.seg button[aria-pressed="true"] { background: var(--surface); color: var(--ink); box-shadow: 0 1px 2px rgb(0 0 0 / 12%); }
+.label { font: 600 11.5px/1.3 var(--sans); letter-spacing: 0.08em; text-transform: uppercase; color: var(--muted); }
+.chips { display: flex; flex-wrap: wrap; gap: 6px; }
+.chip { display: inline-flex; align-items: center; gap: 6px; min-height: 32px; padding: 4px 11px; border: 1px solid var(--line); border-radius: 99px; background: var(--surface); color: var(--ink); font: 500 13px/1.2 var(--sans); cursor: pointer; }
+.chip i { width: 10px; height: 10px; border-radius: 3px; background: var(--c); flex: none; }
+.chip small { color: var(--faint); font-size: 12px; }
+.chip[aria-pressed="true"] { border-color: var(--lapis); background: var(--lapis-soft); color: var(--lapis); }
+.legend { margin: 6px 0 4px; }
+.book { margin: 22px 0 0; }
+.book h3 { display: flex; flex-wrap: wrap; align-items: baseline; gap: 4px 10px; margin: 0 0 8px; font: 500 19px/1.2 var(--read); }
+.book h3 small { font: 500 13px/1.3 var(--sans); color: var(--muted); }
+.tiles { display: flex; flex-wrap: wrap; gap: 4px; }
+.tile { position: relative; height: 52px; min-width: 30px; padding: 5px 6px; border: 0; border-radius: 8px; background: var(--c); color: var(--on); cursor: pointer; text-align: left;
+  display: flex; flex-direction: column; justify-content: space-between; font: 700 13px/1 var(--sans); transition: opacity 0.2s, transform 0.15s; }
+.tile small { font: 600 10px/1 var(--sans); opacity: 0.8; white-space: nowrap; overflow: hidden; }
+.tile.c::after { content: ""; position: absolute; inset: auto 5px 5px auto; width: 7px; height: 7px; border-radius: 50%; border: 1.5px solid currentColor; opacity: 0.7; }
+.tile:hover, .tile:focus-visible { transform: translateY(-2px); }
+.tile:focus-visible { outline: 2px solid var(--ink); outline-offset: 2px; }
+.tile[aria-pressed="true"] { outline: 3px solid var(--ink); outline-offset: 2px; }
+.tile.off { opacity: 0.16; }
+.mood { position: relative; margin-top: 8px; }
+.mood svg { display: block; width: 100%; height: auto; overflow: visible; }
+.mood text { font: 600 11px var(--sans); fill: var(--muted); }
+.facts { display: grid; grid-template-columns: repeat(auto-fit, minmax(150px, 1fr)); gap: 8px; margin: 10px 0 0; }
+.facts div { padding: 10px 12px; border-radius: 12px; background: var(--surface); border: 1px solid var(--line); }
+.facts b { display: block; font: 600 22px/1.1 var(--sans); }
+.facts small { color: var(--muted); font-size: 12.5px; }
+.authors { display: flex; height: 34px; border-radius: 10px; overflow: hidden; margin: 8px 0 6px; }
+.authors button { border: 0; min-width: 3px; padding: 0; background: var(--c); color: var(--on); font: 600 12px/1 var(--sans); cursor: pointer; overflow: hidden; white-space: nowrap; }
+.authors button[aria-pressed="true"] { box-shadow: inset 0 0 0 3px var(--ink); }
+.card { position: fixed; z-index: 20; left: 0; right: 0; bottom: 0; max-height: 70vh; overflow: auto; background: var(--surface); border-top: 1px solid var(--line);
+  border-radius: 18px 18px 0 0; box-shadow: var(--shadow); padding: 16px max(16px, env(safe-area-inset-right, 0px)) max(18px, env(safe-area-inset-bottom, 0px)) max(16px, env(safe-area-inset-left, 0px)); }
+@media (min-width: 900px) { .card { left: auto; right: 16px; bottom: 16px; width: 400px; max-height: calc(100vh - 90px); border: 1px solid var(--line); border-radius: 16px; } }
+.card[hidden] { display: none; }
+.card .kicker { display: flex; align-items: center; gap: 8px; font: 600 11.5px/1.3 var(--sans); letter-spacing: 0.08em; text-transform: uppercase; color: var(--muted); padding-right: 40px; }
+.card .kicker i { width: 10px; height: 10px; border-radius: 3px; background: var(--c); }
+.card h2 { margin: 6px 0 6px; font: 400 32px/1.1 var(--read); }
+.card .heading { margin: 0 0 10px; font: italic 400 15.5px/1.45 var(--read); color: var(--muted); }
+.card .first { margin: 0 0 12px; font: 400 17px/1.5 var(--read); }
+.card p { margin: 0 0 10px; font-size: 14px; color: var(--muted); }
+.card h3 { margin: 12px 0 6px; font: 600 11.5px/1.3 var(--sans); letter-spacing: 0.08em; text-transform: uppercase; color: var(--muted); }
+.card .tags { display: flex; flex-wrap: wrap; gap: 6px; margin: 0 0 6px; }
+.card .tags span { padding: 3px 9px; border-radius: 99px; background: var(--lapis-soft); color: var(--lapis); font: 600 12px/1.3 var(--sans); }
+.card .acts { display: flex; flex-wrap: wrap; gap: 8px; margin-top: 12px; }
+.card .acts a { display: inline-flex; min-height: 36px; align-items: center; padding: 6px 12px; border-radius: 10px; background: var(--lapis-soft); color: var(--lapis); font: 600 14px/1.2 var(--sans); text-decoration: none; }
+.card .acts a.solid { background: var(--lapis); color: var(--surface); }
+.card .story { display: inline-flex; align-items: center; gap: 6px; font-weight: 600; }
+.card .nt { display: flex; flex-wrap: wrap; gap: 6px; }
+.card .nt a { padding: 4px 10px; border-radius: 99px; border: 1px solid var(--line); text-decoration: none; font: 500 13px/1.3 var(--sans); color: var(--ink); }
+.card .close { position: absolute; top: 10px; right: 10px; width: 36px; height: 36px; border: 0; border-radius: 10px; background: transparent; color: var(--ink); cursor: pointer; font-size: 16px; }
+.note { margin: 30px 0 0; font-size: 13.5px; color: var(--muted); max-width: 72ch; }
+</style>
+
+<!-- APPBAR -->
+
+<main>
+  <h1>The Psalms</h1>
+  <p class="lede">A hundred and fifty songs and prayers in five books. Each tile is a psalm, as wide as it is long and colored by its type. Tap one to read its heading, its story and its links to the New Testament; choose a type, an author or a group to see where they fall.</p>
+
+  <div class="controls">
+    <span class="label">Color by</span>
+    <div class="seg" role="group" aria-label="Color by">
+      <button type="button" id="by-type" aria-pressed="true">Type</button>
+      <button type="button" id="by-author" aria-pressed="false">Author</button>
+    </div>
+  </div>
+  <div class="chips legend" id="legend" aria-label="Show only"></div>
+  <p class="sub" style="margin:6px 0 0">A ring in the corner marks a lament or song of the whole people, not one person.</p>
+  <div class="controls" style="margin-top:10px"><span class="label">Groups</span></div>
+  <div class="chips" id="groups"></div>
+
+  <div id="books"></div>
+
+  <h2>From lament to praise</h2>
+  <p class="sub" id="mood-sub"></p>
+  <div class="mood" id="mood"></div>
+
+  <h2>Who wrote them</h2>
+  <p class="sub">As the headings name them. Fifty psalms have no name over them; Psalm 88 names both the sons of Korah and Heman.</p>
+  <div class="authors" id="authors"></div>
+  <div class="chips" id="author-key"></div>
+
+  <h2>At a glance</h2>
+  <div class="facts" id="facts"></div>
+
+  <p class="note">The types follow one common way of sorting the psalms, compiled for this site (data/psalms.csv). Scholars sort many psalms differently, and many mix types: a lament may end in praise, a royal psalm may give thanks. The headings, authors and settings are the Bible's own, as this translation gives them; the New Testament links are the strongest cross-references from each psalm (OpenBible.info).</p>
+</main>
+<article class="card" id="card" hidden aria-live="polite"></article>
+
+<!-- DATA -->
+<script>
+(() => {
+  const D = JSON.parse(document.getElementById("data").textContent);
+  const $ = id => document.getElementById(id);
+  const el = (tag, attrs = {}, ...kids) => { const e = document.createElement(tag); for (const k in attrs) { if (k === "text") e.textContent = attrs[k]; else if (k === "class") e.className = attrs[k]; else if (k.startsWith("on")) e.addEventListener(k.slice(2), attrs[k]); else e.setAttribute(k, attrs[k]); } for (const c of kids) if (c != null) e.append(c); return e; };
+  const dark = () => { const t = document.documentElement.getAttribute("data-theme"); return t ? t === "dark" : matchMedia("(prefers-color-scheme: dark)").matches; };
+  const P = D.psalms;
+  // [light, dark]
+  const TYPES = {
+    lament: { n: "Lament", c: ["#b8455a", "#ff8fa3"], about: "A cry to God out of trouble: the complaint, the plea, and most often a turn to trust or praise before the end.", mood: -1 },
+    praise: { n: "Praise", c: ["#a87400", "#f2c45a"], about: "A hymn: a call to praise God, with the reasons: who he is, and what he has made and done.", mood: 1 },
+    thanksgiving: { n: "Thanksgiving", c: ["#bf5a1f", "#f59a62"], about: "Thanks for a rescue: the trouble, the cry, God's answer, and telling others what he did.", mood: 0.8 },
+    trust: { n: "Trust", c: ["#2f7d6b", "#7fd6b4"], about: "Quiet confidence in God, often in the middle of danger.", mood: 0.4 },
+    royal: { n: "Royal", c: ["#6d43c9", "#b996ff"], about: "About Israel's king: his crowning, wedding, battles and prayers, and God's promise to David's line.", mood: 0.3 },
+    wisdom: { n: "Wisdom", c: ["#2459c4", "#6fb0ff"], about: "Teaching: the two ways of life, the law of the LORD, and the puzzle of the wicked who prosper.", mood: 0 },
+    history: { n: "History", c: ["#5b6475", "#b6bdc9"], about: "Israel's story told again, to teach, to confess, or to praise.", mood: 0.2 },
+  };
+  const AUTHORS = [["David", "#2646a1", "#9db3ff"], ["Asaph", "#0f8c83", "#4fd6cb"], ["Sons of Korah", "#a8790a", "#f2c45a"], ["Solomon", "#c23a7c", "#ff86c0"],
+    ["Moses", "#bf5a1f", "#f59a62"], ["Heman", "#6d43c9", "#b996ff"], ["Ethan", "#2f8a3c", "#8fdc8a"], ["No name", "#8d95a4", "#5b6475"]];
+  const GROUPS = [
+    ["ascents", "Songs of Ascents", "Sung, it seems, by pilgrims going up to Jerusalem for the feasts (120–134)."],
+    ["hallel", "The Hallel", "Psalms 113–118, sung at Passover and the great feasts."],
+    ["final-hallel", "The last Hallel", "Psalms 146–150: each begins and ends “Praise the LORD!”"],
+    ["kingship", "The LORD reigns", "Psalms that hail the LORD as king of all the earth."],
+    ["zion", "Songs of Zion", "Psalms in praise of Jerusalem, the city of God."],
+    ["creation", "Creation", "Psalms that praise God as maker of the world."],
+    ["torah", "God's law", "Psalms in praise of the law of the LORD."],
+    ["messianic", "Of the Messiah", "Psalms the New Testament or long tradition reads of the Messiah."],
+    ["penitential", "Penitential", "The seven psalms of sorrow for sin, long prayed together."],
+    ["acrostic", "Alphabet poems", "Each line or stanza begins with the next letter of the Hebrew alphabet."],
+    ["imprecatory", "Calling down judgment", "Prayers that ask God to repay the wicked."],
+    ["entrance", "At the gate", "Questions and answers on who may come into God's presence."],
+    ["prophetic", "God speaks", "Psalms in which God himself speaks in judgment."],
+    ["story", "A moment in David's life", "The heading names a moment in David's life, told in Samuel."],
+  ];
+  const groupOf = k => GROUPS.find(g => g[0] === k);
+  const has = (p, k) => k === "story" ? !!p.s : p.tags.includes(k);
+  const authorOf = p => p.a.length ? p.a[0] : "No name";
+  let by = "type", only = null, open = null;
+  const colorOf = p => by === "type" ? TYPES[p.g].c[dark() ? 1 : 0] : (a => a[dark() ? 2 : 1])(AUTHORS.find(a => a[0] === authorOf(p)));
+  const ROMAN = ["I", "II", "III", "IV", "V"];
+  const slug = s => s.toLowerCase().replace(/ /g, "-");
+  const refHref = ref => { const m = /^(.+?) (\d+)(?::(\d+))?$/.exec(ref); return m ? `index.html#${slug(m[1])}-${m[2]}${m[3] ? "-" + m[3] : ""}` : "index.html"; };
+
+  /* ---------- The five books ---------- */
+  const tiles = [];
+  for (const [k, b] of D.books.entries()) {
+    const row = el("div", { class: "tiles" });
+    for (const p of P.filter(p => p.n >= b.from && p.n <= b.to)) {
+      const t = el("button", { type: "button", class: "tile" + (p.c ? " c" : ""), "aria-pressed": "false", "aria-label": `Psalm ${p.n}: ${TYPES[p.g].n}${p.a.length ? ", " + p.a.join(" and ") : ""}`, title: `Psalm ${p.n} · ${TYPES[p.g].n}${p.a.length ? " · " + p.a.join(", ") : ""}`, onclick: () => show(p) },
+        String(p.n), el("small", { text: p.a.length ? p.a[0].replace("Sons of ", "") : "" }));
+      t.style.width = `${Math.round(30 + 7.5 * Math.sqrt(p.v))}px`;
+      tiles[p.n] = t;
+      row.append(t);
+    }
+    $("books").append(el("section", { class: "book" },
+      el("h3", {}, `Book ${ROMAN[k]}`, el("small", { text: `Psalms ${b.from}–${b.to} · ends in a blessing of God (${b.dox})` })), row));
+  }
+  function paint() {
+    for (const p of P) {
+      const t = tiles[p.n], c = colorOf(p);
+      t.style.setProperty("--c", c);
+      t.style.setProperty("--on", dark() ? "#0b1020" : "#ffffff");
+      const show = !only || (only[0] === "type" ? p.g === only[1] : only[0] === "author" ? (only[1] === "No name" ? !p.a.length : p.a.includes(only[1])) : has(p, only[1]));
+      t.classList.toggle("off", !show);
+    }
+    legend();
+  }
+  function legend() {
+    const L = $("legend");
+    if (by === "type") L.replaceChildren(...Object.entries(TYPES).map(([k, T]) => chip(`${T.n}`, P.filter(p => p.g === k).length, T.c[dark() ? 1 : 0], ["type", k])));
+    else L.replaceChildren(...AUTHORS.map(([a, c1, c2]) => chip(a, P.filter(p => a === "No name" ? !p.a.length : p.a.includes(a)).length, dark() ? c2 : c1, ["author", a])));
+  }
+  function chip(text, n, c, key) {
+    const on = only && only[0] === key[0] && only[1] === key[1];
+    const b = el("button", { type: "button", class: "chip", "aria-pressed": String(!!on), onclick: () => { only = on ? null : key; paint(); syncGroups(); } }, el("i", { style: `--c:${c}` }), text, el("small", { text: String(n) }));
+    return b;
+  }
+  function syncGroups() { document.querySelectorAll("#groups .chip").forEach(b => b.setAttribute("aria-pressed", String(!!only && only[0] === "group" && only[1] === b.dataset.k))); }
+  $("groups").append(...GROUPS.map(([k, n, about]) => {
+    const count = P.filter(p => has(p, k)).length;
+    const b = el("button", { type: "button", class: "chip", "data-k": k, title: about, "aria-pressed": "false", onclick: () => { only = only && only[1] === k ? null : ["group", k]; paint(); syncGroups(); } }, n, el("small", { text: String(count) }));
+    return b;
+  }));
+  const setBy = v => { by = v; $("by-type").setAttribute("aria-pressed", String(v === "type")); $("by-author").setAttribute("aria-pressed", String(v === "author")); if (only && (only[0] === "type" || only[0] === "author")) only = null; paint(); };
+  $("by-type").onclick = () => setBy("type");
+  $("by-author").onclick = () => setBy("author");
+
+  /* ---------- The mood line ---------- */
+  function mood() {
+    const W = 1000, H = 190, pad = 26, n = P.length, x = i => pad + (W - 2 * pad) * (i / (n - 1)), y = v => H / 2 - v * (H / 2 - 22);
+    const raw = P.map(p => TYPES[p.g].mood), avg = raw.map((_, i) => { const a = raw.slice(Math.max(0, i - 7), i + 8); return a.reduce((s, v) => s + v, 0) / a.length; });
+    const NS = "http://www.w3.org/2000/svg", s = (tag, a) => { const e = document.createElementNS(NS, tag); for (const k in a) e.setAttribute(k, a[k]); return e; };
+    const svg = s("svg", { viewBox: `0 0 ${W} ${H}`, role: "img", "aria-label": "The mood of the psalms, from lament below to praise above, averaged over fifteen psalms at a time" });
+    const lam = TYPES.lament.c[dark() ? 1 : 0], pr = TYPES.praise.c[dark() ? 1 : 0];
+    const defs = s("defs", {}), grad = s("linearGradient", { id: "mg", x1: 0, y1: 0, x2: 0, y2: 1 });
+    grad.append(s("stop", { offset: "0", "stop-color": pr, "stop-opacity": 0.55 }), s("stop", { offset: "0.5", "stop-color": pr, "stop-opacity": 0.05 }), s("stop", { offset: "0.5", "stop-color": lam, "stop-opacity": 0.05 }), s("stop", { offset: "1", "stop-color": lam, "stop-opacity": 0.55 }));
+    defs.append(grad); svg.append(defs);
+    for (const b of D.books) {
+      const xb = x(b.from - 1) - (b.from > 1 ? (W - 2 * pad) / (n - 1) / 2 : 0);
+      if (b.from > 1) svg.append(s("line", { x1: xb, x2: xb, y1: 6, y2: H - 6, stroke: "var(--line)", "stroke-width": 1.5 }));
+    }
+    D.books.forEach((b, k) => { const t = s("text", { x: x((b.from + b.to) / 2 - 1), y: 12, "text-anchor": "middle" }); t.textContent = `Book ${ROMAN[k]}`; svg.append(t); });
+    svg.append(s("line", { x1: pad, x2: W - pad, y1: H / 2, y2: H / 2, stroke: "var(--line)", "stroke-dasharray": "3 4" }));
+    const line = avg.map((v, i) => `${i ? "L" : "M"}${x(i).toFixed(1)},${y(v).toFixed(1)}`).join("");
+    svg.append(s("path", { d: `${line}L${x(n - 1)},${H / 2}L${x(0)},${H / 2}Z`, fill: "url(#mg)" }));
+    svg.append(s("path", { d: line, fill: "none", stroke: "var(--ink)", "stroke-width": 2, "stroke-linejoin": "round" }));
+    // Each psalm as a tick, above the middle for praise, below for lament.
+    P.forEach((p, i) => svg.append(s("rect", { x: x(i) - 2, y: raw[i] >= 0 ? H / 2 - 4 - raw[i] * 14 : H / 2 + 4, width: 4, height: Math.max(2, Math.abs(raw[i]) * 14), rx: 1, fill: TYPES[p.g].c[dark() ? 1 : 0], opacity: 0.9 })));
+    const tPr = s("text", { x: pad, y: 34 }); tPr.textContent = "Praise"; const tLa = s("text", { x: pad, y: H - 12 }); tLa.textContent = "Lament";
+    svg.append(tPr, tLa);
+    const hit = s("rect", { x: 0, y: 0, width: W, height: H, fill: "transparent", style: "cursor:pointer" });
+    hit.addEventListener("click", e => { const r = svg.getBoundingClientRect(), i = Math.round(((e.clientX - r.left) / r.width * W - pad) / (W - 2 * pad) * (n - 1)); if (P[i]) show(P[i]); });
+    svg.append(hit);
+    $("mood").replaceChildren(svg);
+    const share = (b, g) => P.filter(p => p.n >= b.from && p.n <= b.to && p.g === g).length;
+    const B = D.books;
+    $("mood-sub").textContent = `Each tick is a psalm, above the line for praise and below it for lament; the line follows the mood fifteen psalms at a time. Laments are ${share(B[0], "lament")} of the ${B[0].to} psalms in Book I and ${share(B[1], "lament")} of ${B[1].to - B[1].from + 1} in Book II, but only ${share(B[4], "lament")} of ${B[4].to - B[4].from + 1} in Book V, which ends in five psalms of praise.`;
+  }
+
+  /* ---------- Authors and facts ---------- */
+  function authors() {
+    const counts = AUTHORS.map(([a, c1, c2]) => [a, P.filter(p => a === "No name" ? !p.a.length : p.a.includes(a)).length, dark() ? c2 : c1]);
+    const total = counts.reduce((s, c) => s + c[1], 0);
+    $("authors").replaceChildren(...counts.map(([a, n, c]) => el("button", { type: "button", title: `${a}: ${n}`, "aria-label": `${a}: ${n} psalms`, "aria-pressed": String(!!only && only[0] === "author" && only[1] === a), style: `flex:${n};--c:${c};--on:${dark() ? "#0b1020" : "#fff"}`, onclick: () => { setBy("author"); only = ["author", a]; paint(); authors(); $("books").scrollIntoView({ behavior: "smooth" }); } }, n >= 8 ? `${a} ${n}` : "")));
+    $("author-key").replaceChildren(...counts.map(([a, n, c]) => el("span", { class: "chip", style: "cursor:default" }, el("i", { style: `--c:${c}` }), a, el("small", { text: String(n) }))));
+  }
+  const totalVerses = P.reduce((s, p) => s + p.v, 0);
+  const longest = P.reduce((a, b) => (b.v > a.v ? b : a)), shortest = P.reduce((a, b) => (b.v < a.v ? b : a));
+  $("facts").append(
+    ...[[`${totalVerses.toLocaleString("en")}`, "verses in all"], [`${longest.v}`, `verses in Psalm ${longest.n}, the longest`], [`${shortest.v}`, `verses in Psalm ${shortest.n}, the shortest`],
+      [`${P.filter(p => p.t).length}`, "psalms with a heading"], [`${P.filter(p => p.d).length}`, "“for the director”"], [`${P.filter(p => p.s).length}`, "set at a moment in David's life"]]
+      .map(([b, s]) => el("div", {}, el("b", { text: b }), el("small", { text: s }))));
+
+  /* ---------- A psalm ---------- */
+  function show(p) {
+    if (open) tiles[open.n].setAttribute("aria-pressed", "false");
+    open = p; tiles[p.n].setAttribute("aria-pressed", "true");
+    const T = TYPES[p.g];
+    const groups = GROUPS.filter(([k]) => has(p, k)).map(([, n]) => el("span", { text: n }));
+    $("card").replaceChildren(
+      el("button", { class: "close", type: "button", "aria-label": "Close", text: "✕", onclick: close }),
+      el("div", { class: "kicker", style: `--c:${T.c[dark() ? 1 : 0]}` }, el("i"), `${p.c && p.g === "lament" ? "Lament of the people" : T.n} · Book ${ROMAN[D.books.findIndex(b => p.n <= b.to)]}`),
+      el("h2", { text: `Psalm ${p.n}` }),
+      p.t ? el("p", { class: "heading", text: p.t }) : el("p", { class: "heading", text: "No heading." }),
+      el("p", { class: "first", text: `“${p.f}”` }),
+      el("p", { text: `${p.v} verses · ${p.a.length ? "by " + p.a.join(" and ") : "no author named"}${p.k.length ? " · " + p.k.join(", ") : ""}` }),
+      el("p", { text: T.about }),
+      groups.length ? el("div", { class: "tags" }, ...groups) : null,
+      p.s ? el("p", {}, el("a", { class: "story", href: refHref(p.s), text: `Read the story: ${p.s}` })) : null,
+      p.nt.length ? el("h3", { text: "Linked in the New Testament" }) : null,
+      p.nt.length ? el("div", { class: "nt" }, ...p.nt.map(r => el("a", { href: refHref(r), text: r }))) : null,
+      el("div", { class: "acts" },
+        el("a", { class: "solid", href: `index.html#psalms-${p.n}`, text: `Read Psalm ${p.n}` }),
+        el("a", { href: `graph.html#psalms-${p.n}`, text: "Connections" }),
+        el("a", { href: `web3d.html#psalms-${p.n}`, text: "In 3D" })));
+    $("card").hidden = false;
+    try { history.replaceState(null, "", "#" + p.n); } catch (e) {}
+  }
+  function close() { if (open) tiles[open.n].setAttribute("aria-pressed", "false"); open = null; $("card").hidden = true; try { history.replaceState(null, "", location.pathname); } catch (e) {} }
+  addEventListener("keydown", e => { if (e.key === "Escape") close(); });
+
+  paint(); mood(); authors();
+  matchMedia("(prefers-color-scheme: dark)").addEventListener("change", () => { paint(); mood(); authors(); });
+  const fromHash = () => { const h = +location.hash.slice(1); if (h >= 1 && h <= 150 && (!open || open.n !== h)) { show(P[h - 1]); tiles[h].scrollIntoView({ block: "center" }); } };
+  fromHash();
+  addEventListener("hashchange", fromHash);
+})();
+</script>
