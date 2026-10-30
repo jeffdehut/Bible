@@ -86,6 +86,13 @@ h1 { margin: 0; font: 400 clamp(2.6rem, 1.8rem + 4vw, 4.6rem)/1 var(--display); 
 .pic .plate .lbl { font-size: 8.5px; }
 .pic .plate .no { font-size: 26px; }
 .pic .plate .no.word { font-size: 15px; padding-top: 4px; }
+.atlas-card { display: grid; text-decoration: none; background: var(--card); border: 1px solid var(--line); border-radius: 6px; overflow: hidden; box-shadow: var(--shadow); transition: border-color .15s, transform .15s; }
+.atlas-card:hover { border-color: var(--red); }
+@media (prefers-reduced-motion: no-preference) { .atlas-card:hover { transform: translateY(-2px); } }
+.atlas-card .body { padding: 14px 18px 16px; }
+.atlas-pics { display: grid; grid-template-columns: repeat(4, 1fr); grid-template-rows: minmax(0, 1fr); height: clamp(120px, 22vw, 220px); overflow: hidden; border-bottom: 1px solid var(--line); }
+.atlas-pics img { width: 100%; height: 100%; object-fit: cover; display: block; border-right: 1px solid var(--line); }
+@media (max-width: 520px) { .atlas-pics { grid-template-columns: repeat(2, 1fr); grid-template-rows: repeat(2, 1fr); height: 300px; } }
 .body { min-width: 0; display: grid; gap: 6px; align-content: start; }
 .era { margin: 0; font: 600 11.5px/1.35 var(--sans); letter-spacing: 0.08em; text-transform: uppercase; color: var(--muted); }
 .sheet h2 { margin: 0; font: 700 1.35rem/1.15 var(--serif); text-wrap: balance; }
@@ -240,6 +247,17 @@ body::before { content: ""; position: fixed; inset: 0 0 auto; height: env(safe-a
       </div>
     </a></li>
   </ol>
+  <p class="order">A classic atlas, in full</p>
+  <a class="atlas-card" href="atlas.html">
+    <div class="atlas-pics" aria-hidden="true">
+      <img src="atlas/david-solomon-t.jpg" alt="" loading="lazy"><img src="atlas/time-of-christ-t.jpg" alt="" loading="lazy"><img src="atlas/paul-t.jpg" alt="" loading="lazy"><img src="atlas/jerusalem-periods-t.jpg" alt="" loading="lazy">
+    </div>
+    <div class="body">
+      <p class="era">George Adam Smith &amp; J. G. Bartholomew · 1915 · Public domain</p>
+      <h2>Atlas of the Historical Geography of the Holy Land</h2>
+      <p class="blurb">Forty plates of the great Edinburgh atlas: the empires of the ancient world, Palestine at sixteen periods from the Judges to Agrippa II, Jerusalem at different periods, St. Paul’s travels, the seven churches and the spread of Christianity. Each opens to zoom.</p>
+    </div>
+  </a>
   <footer>
     <p>The numbers are those of the Eilers series where a sheet of the same subject is known: No. 1 Palestine, No. 2 Old Testament history, No. 3 the Roman Empire, No. 4 Western Asia, No. 5 the Exodus and No. 7 the kingdoms, with the plan of Ancient Jerusalem. No Eilers No. 6 is known, so that number goes to the empires of the exile.</p>
     <p>Places from the OpenBible.info Bible Geocoding Data (CC BY 4.0); elevation from the AWS Terrain Tiles; rivers and lakes from Natural Earth. Names are spelled as in the Open Plain English Translation. Maps CC BY 4.0.</p>

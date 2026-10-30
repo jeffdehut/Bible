@@ -1,0 +1,183 @@
+<title>Historical Atlas of the Holy Land</title>
+<meta name="claude:viewport-fit-sides" content="cover">
+<meta name="description" content="The maps of George Adam Smith and J. G. Bartholomew's Atlas of the Historical Geography of the Holy Land (1915), public domain: the Bible lands from the patriarchs to the expansion of Christianity, to zoom and study.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Abril+Fatface&family=Old+Standard+TT:ital,wght@0,400;0,700;1,400&family=Rokkitt:wght@500;600;700&family=Libre+Franklin:wght@400;500;600;700&display=swap">
+<style>
+/* The plates of the 1915 atlas: a catalogue like the maps' own, and a viewer that zooms. */
+:root {
+  --paper: #f6f0dd;
+  --card: #fbf7ea;
+  --ink: #1f1b16;
+  --muted: #5e5546;
+  --line: #d6ccb6;
+  --red: #a8301a;
+  --shadow: 0 1px 2px rgb(31 27 22 / 8%), 0 10px 26px rgb(31 27 22 / 10%);
+  --yellow: #f6e27f; --salmon: #f2b98a; --blush: #f8d8c0; --lime: #e3e6a2; --sage: #c9d8a5; --olive: #d9c784; --wild: #efe6cc;
+  --route-red: #d8432a; --route-blue: #2b5a8c; --route-green: #2f7a3e; --route-violet: #6b3d8e; --route-brown: #8a5a2b; --route-black: #2a2420;
+  --display: "Abril Fatface", Georgia, serif;
+  --serif: "Old Standard TT", Georgia, serif;
+  --slab: "Rokkitt", Georgia, serif;
+  --sans: "Libre Franklin", system-ui, -apple-system, "Segoe UI", sans-serif;
+  /* The site's bar takes these. */
+  --bg: var(--paper); --lapis: var(--red); --lapis-soft: rgb(168 48 26 / 9%);
+}
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    --paper: #191714; --card: #221f1a; --ink: #efe8da; --muted: #b3a891; --line: #3a342b; --red: #f08a6c; --lapis-soft: rgb(240 138 108 / 14%);
+    --shadow: 0 1px 2px rgb(0 0 0 / 40%), 0 10px 30px rgb(0 0 0 / 40%);
+    color-scheme: dark;
+  }
+}
+:root[data-theme="dark"] {
+  --paper: #191714; --card: #221f1a; --ink: #efe8da; --muted: #b3a891; --line: #3a342b; --red: #f08a6c; --lapis-soft: rgb(240 138 108 / 14%);
+  --shadow: 0 1px 2px rgb(0 0 0 / 40%), 0 10px 30px rgb(0 0 0 / 40%);
+  color-scheme: dark;
+}
+* { box-sizing: border-box; }
+body {
+  margin: 0; background: var(--paper); color: var(--ink); font: 400 16px/1.5 var(--serif);
+  padding-left: max(16px, env(safe-area-inset-left, 0px)); padding-right: max(16px, env(safe-area-inset-right, 0px));
+}
+a { color: inherit; }
+:focus-visible { outline: 2px solid var(--red); outline-offset: 3px; }
+.wrap { max-width: 1160px; margin: 0 auto; }
+.intro { padding-block: clamp(24px, 4vw, 48px) 14px; display: grid; gap: 12px; }
+.back { font: 600 13px/1 var(--sans); color: var(--red); text-decoration: none; }
+h1 { margin: 0; font: 400 clamp(2.2rem, 1.6rem + 3vw, 3.8rem)/1.02 var(--display); color: var(--red); text-wrap: balance; }
+.lede { margin: 0; max-width: 66ch; font-size: 1.05rem; color: var(--muted); }
+.lede strong { color: var(--ink); }
+.part { margin: 26px 0 12px; font: 600 12px/1.3 var(--sans); letter-spacing: 0.12em; text-transform: uppercase; color: var(--muted); }
+.plates { list-style: none; margin: 0; padding: 0; display: grid; grid-template-columns: repeat(auto-fill, minmax(min(100%, 250px), 1fr)); gap: 14px; }
+.plates a { display: grid; height: 100%; text-decoration: none; background: var(--card); border: 1px solid var(--line); border-radius: 6px; overflow: hidden; box-shadow: var(--shadow); transition: border-color .15s, transform .15s; }
+.plates a:hover { border-color: var(--red); }
+@media (prefers-reduced-motion: no-preference) { .plates a:hover { transform: translateY(-2px); } }
+.plates .thumb { aspect-ratio: 4 / 3; overflow: hidden; background: #e9e0c6; border-bottom: 1px solid var(--line); }
+.plates img { display: block; width: 100%; height: 100%; object-fit: cover; }
+.plates .txt { padding: 10px 12px 12px; display: grid; gap: 3px; align-content: start; }
+.plates .no { font: 700 11px/1.2 var(--slab); letter-spacing: 0.12em; text-transform: uppercase; color: var(--red); }
+.plates h2 { margin: 0; font: 700 1.02rem/1.2 var(--serif); }
+.plates .when { margin: 0; font: 500 12px/1.35 var(--sans); color: var(--muted); }
+footer { padding-block: 28px 44px; color: var(--muted); font-size: 0.95rem; max-width: 72ch; }
+footer p { margin: 0 0 10px; }
+
+/* The viewer: the plate on dark paper, to drag and pinch; its name and links along the top. */
+.viewer { position: fixed; inset: 0; z-index: 30; background: #14120f; color: #efe8da; display: grid; grid-template-rows: auto minmax(0, 1fr); grid-template-columns: minmax(0, 1fr); }
+.viewer[hidden] { display: none; }
+.vbar { display: flex; align-items: center; gap: 8px; padding: max(10px, env(safe-area-inset-top, 0px)) max(12px, env(safe-area-inset-right, 0px)) 10px max(12px, env(safe-area-inset-left, 0px));
+  background: rgb(20 18 15 / 92%); border-bottom: 1px solid #3a342b; }
+.vbar .t { min-width: 0; flex: 1; }
+.vbar .t b { display: block; font: 700 15px/1.25 var(--serif); white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+.vbar .t small { font: 500 12px/1.3 var(--sans); color: #b3a891; }
+.vbtn { flex: none; display: inline-grid; place-items: center; min-width: 40px; height: 40px; padding: 0 10px; border-radius: 10px; border: 1px solid #3a342b; background: #221f1a; color: inherit; font: 600 13px/1 var(--sans); text-decoration: none; cursor: pointer; }
+.vbtn svg { width: 18px; height: 18px; }
+.stage { position: relative; overflow: hidden; touch-action: none; cursor: grab; }
+.stage:active { cursor: grabbing; }
+.stage img { position: absolute; left: 0; top: 0; transform-origin: 0 0; user-select: none; -webkit-user-drag: none; max-width: none; }
+.stage .low { filter: blur(0.6px); }
+.vzoom { position: absolute; right: max(12px, env(safe-area-inset-right, 0px)); bottom: max(12px, env(safe-area-inset-bottom, 0px)); display: grid; gap: 6px; }
+.loading { position: absolute; left: 50%; top: 50%; transform: translate(-50%, -50%); font: 500 13px/1 var(--sans); color: #b3a891; }
+@media (max-width: 560px) { .vbtn .lbl { display: none; } }
+</style>
+
+<!-- APPBAR -->
+
+<div class="wrap">
+  <header class="intro">
+    <a class="back" href="index.html">← The Bible Maps</a>
+    <h1>Atlas of the Historical Geography of the Holy Land</h1>
+    <p class="lede">The maps of <strong>George Adam Smith</strong> and <strong>J. G. Bartholomew</strong>’s atlas (London, 1915): the Bible lands from the earliest empires to the expansion of Christianity, at period after period. Tap a plate to open it, then drag and pinch to read its names. The scholarship is of 1915, and many identifications have changed since; read them as a classic atlas, beside our own sheets.</p>
+  </header>
+{{PLATES}}
+  <footer>
+    <p>From the copy in the Columbia University Libraries, scanned for the Internet Archive (<a href="https://archive.org/details/ldpd_7032971_000">ldpd_7032971_000</a>), marked “Digital version available with no restrictions”. The atlas was published in 1915; George Adam Smith died in 1942 and John George Bartholomew in 1920, so it is in the public domain in the United States and in countries where copyright lasts 70 years after the author’s death.</p>
+  </footer>
+</div>
+
+<div class="viewer" id="viewer" hidden role="dialog" aria-modal="true" aria-labelledby="v-title">
+  <div class="vbar">
+    <button class="vbtn" type="button" id="v-close" aria-label="Back to the plates"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M19 12H5m0 0 6-6m-6 6 6 6"/></svg></button>
+    <div class="t"><b id="v-title"></b><small id="v-sub"></small></div>
+    <button class="vbtn" type="button" id="v-prev" aria-label="Previous plate"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="m15 6-6 6 6 6"/></svg></button>
+    <button class="vbtn" type="button" id="v-next" aria-label="Next plate"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="m9 6 6 6-6 6"/></svg></button>
+    <button class="vbtn" type="button" id="v-share" aria-label="Share"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="18" cy="5" r="2.5"/><circle cx="6" cy="12" r="2.5"/><circle cx="18" cy="19" r="2.5"/><path d="m8.2 10.8 7.6-4.4M8.2 13.2l7.6 4.4"/></svg></button>
+    <a class="vbtn" id="v-full" target="_blank" rel="noopener" aria-label="Full-size scan at the Internet Archive"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M14 4h6v6M20 4l-8 8M18 14v5a1 1 0 0 1-1 1H5a1 1 0 0 1-1-1V7a1 1 0 0 1 1-1h5"/></svg><span class="lbl">&nbsp;Scan</span></a>
+  </div>
+  <div class="stage" id="stage"><span class="loading" id="v-loading">Loading…</span>
+    <div class="vzoom">
+      <button class="vbtn" type="button" id="v-in" aria-label="Zoom in"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round"><path d="M12 5v14M5 12h14"/></svg></button>
+      <button class="vbtn" type="button" id="v-out" aria-label="Zoom out"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round"><path d="M5 12h14"/></svg></button>
+      <button class="vbtn" type="button" id="v-fit" aria-label="Whole plate"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M4 9V4h5M20 9V4h-5M4 15v5h5M20 15v5h-5"/></svg></button>
+    </div>
+  </div>
+</div>
+
+<script type="application/json" id="plates">{{DATA}}</script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/d3/7.8.5/d3.min.js"></script>
+<script src="../share.js?v=22"></script>
+<script>
+(() => {
+  const $ = id => document.getElementById(id);
+  const P = JSON.parse($("plates").textContent);
+  const viewer = $("viewer"), stage = $("stage");
+  let cur = -1, img = null, natural = [1, 1];
+  // Drag and pinch (d3.zoom), the plate drawn by a CSS transform.
+  const zoom = d3.zoom().scaleExtent([0.05, 8]).on("zoom", e => { if (img) img.style.transform = `translate(${e.transform.x}px, ${e.transform.y}px) scale(${e.transform.k})`; });
+  const sel = d3.select(stage).call(zoom).on("dblclick.zoom", null);
+  function fit(animate) {
+    const w = stage.clientWidth, h = stage.clientHeight, k = Math.min(w / natural[0], h / natural[1]) * 0.98;
+    zoom.scaleExtent([k * 0.8, Math.max(4, k * 12)]);
+    const t = d3.zoomIdentity.translate((w - natural[0] * k) / 2, (h - natural[1] * k) / 2).scale(k);
+    (animate ? sel.transition().duration(450) : sel).call(zoom.transform, t);
+  }
+  function open(i, push = true) {
+    if (i < 0 || i >= P.length) return;
+    cur = i;
+    const p = P[i];
+    $("v-title").textContent = `${p.no ? "Map " + p.no + ". " : ""}${p.title}`;
+    $("v-sub").textContent = p.when || "Smith and Bartholomew, 1915";
+    $("v-full").href = `https://archive.org/details/ldpd_7032971_000/page/n${p.page}/mode/1up`;
+    $("v-prev").disabled = i === 0; $("v-next").disabled = i === P.length - 1;
+    viewer.hidden = false; document.body.style.overflow = "hidden";
+    if (push) history.replaceState(null, "", "#" + p.id);
+    document.title = `${p.title} · Historical Atlas of the Holy Land`;
+    if (img) img.remove();
+    $("v-loading").hidden = false;
+    // The small picture at once, the full one as soon as it comes.
+    img = new Image(); img.alt = p.title; img.className = "low"; img.src = p.thumb;
+    stage.prepend(img);
+    natural = [p.w, p.h]; img.width = p.w; img.height = p.h;
+    fit(false);
+    const full = new Image();
+    full.onload = () => { if (cur !== i) return; img.src = full.src; img.classList.remove("low"); $("v-loading").hidden = true; };
+    full.src = p.image;
+  }
+  function close() {
+    viewer.hidden = true; document.body.style.overflow = "";
+    history.replaceState(null, "", location.pathname);
+    document.title = "Historical Atlas of the Holy Land";
+    const card = document.querySelector(`[data-plate="${P[cur]?.id}"]`); card?.focus();
+  }
+  for (const a of document.querySelectorAll("[data-plate]")) a.onclick = e => { e.preventDefault(); open(P.findIndex(p => p.id === a.dataset.plate)); };
+  $("v-close").onclick = close;
+  $("v-prev").onclick = () => open(cur - 1);
+  $("v-next").onclick = () => open(cur + 1);
+  $("v-in").onclick = () => sel.transition().duration(250).call(zoom.scaleBy, 1.6);
+  $("v-out").onclick = () => sel.transition().duration(250).call(zoom.scaleBy, 1 / 1.6);
+  $("v-fit").onclick = () => fit(true);
+  $("v-share").onclick = () => {
+    const p = P[cur], url = location.origin + location.pathname + "#" + p.id;
+    if (navigator.share && matchMedia("(pointer: coarse)").matches) navigator.share({ title: p.title, url }).catch(() => {});
+    else navigator.clipboard?.writeText(url).then(() => { $("v-share").title = "Link copied"; alert("Link copied: " + url); }, () => prompt("Copy this link", url));
+  };
+  addEventListener("keydown", e => {
+    if (viewer.hidden) return;
+    if (e.key === "Escape") close(); else if (e.key === "ArrowLeft") open(cur - 1); else if (e.key === "ArrowRight") open(cur + 1);
+  });
+  addEventListener("resize", () => { if (!viewer.hidden) fit(false); });
+  const fromHash = () => { const i = P.findIndex(p => "#" + p.id === location.hash); if (i >= 0) open(i, false); };
+  fromHash();
+  addEventListener("hashchange", fromHash);
+})();
+</script>
