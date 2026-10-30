@@ -294,6 +294,7 @@ textarea { min-height: 88px; resize: vertical; }
 .cite { border: 0; background: var(--bg); color: var(--muted); border-radius: 6px; padding: 0 5px; font: 500 12px/1.6 var(--sans); cursor: pointer; text-align: left; }
 .cite.open { display: block; margin: 2px 0; padding: 4px 8px; white-space: normal; }
 .word .credit { margin-top: 8px; font-size: 12px; color: var(--faint); }
+#vwho-wrap .credit, .variants .credit { margin: 8px 0 0; font-size: 12px; color: var(--faint); }
 .notes-list { margin: 0; padding: 0; list-style: none; display: grid; gap: 8px; }
 .notes-list li { font: 400 15px/1.55 var(--read); }
 .notes-list .mk { font: 600 12px/1 var(--sans); color: var(--lapis); margin-right: 6px; }
@@ -304,6 +305,14 @@ textarea { min-height: 88px; resize: vertical; }
 }
 .places a:hover { box-shadow: inset 0 0 0 1px var(--lapis); }
 .places svg { width: 16px; height: 16px; flex: none; color: var(--lapis); }
+.who { list-style: none; margin: 0; padding: 0; display: grid; gap: 4px; }
+.who li { display: flex; flex-wrap: wrap; align-items: baseline; gap: 4px 8px; font-size: 15px; }
+.who .src { font-size: 18px; }
+.who .f { color: var(--muted); }
+.who .to { font-weight: 600; }
+.who a { text-decoration: none; }
+.who small { color: var(--muted); }
+.who svg { width: 14px; height: 14px; vertical-align: -2px; margin-right: 3px; }
 .places small { font: 500 12.5px/1.2 var(--sans); color: var(--muted); }
 .en-number { font-size: 13px; color: var(--muted); }
 .places button {
@@ -677,6 +686,11 @@ if (/(^#|&)(access_token|error)=/.test(location.hash)) {
     <h3>People</h3>
     <ul class="places" id="vpeople"></ul>
   </div>
+  <div class="section" id="vwho-wrap" hidden>
+    <h3>Who is who</h3>
+    <ul class="who" id="vwho"></ul>
+    <p class="credit">Who each “he”, “she”, “they” and unnamed subject refers to, from MACULA Hebrew and Greek (Clear Bible, Biblica), CC BY 4.0.</p>
+  </div>
   <div class="section" id="vplaces-wrap" hidden>
     <h3>On the maps</h3>
     <ul class="places" id="vplaces"></ul>
@@ -959,6 +973,7 @@ if (/(^#|&)(access_token|error)=/.test(location.hash)) {
     <h3>Under each verse</h3>
     <p>Tap a verse to see it in Hebrew, Aramaic or Greek, word by word. The words, glosses and grammar come from STEPBible's tagged texts (TAHOT and TAGNT), and the definitions from its brief lexicons (TBESH and TBESG). STEPBible's glosses are its own, not this translation's.</p>
     <p>People a verse names are listed under <em>People</em>: tap one to see their family in the genealogy. The names come from STEPBible's TIPNR, which marks each name in the Hebrew, Aramaic and Greek.</p>
+    <p>Under <em>Who is who</em>, a verse shows who each “he”, “she”, “they” or unnamed subject refers to, followed back to the name or noun it stands for. This comes from MACULA Hebrew and MACULA Greek (Clear Bible, Biblica, CC BY 4.0). Under <em>Word by word</em>, a gold dot marks a word where the Greek editions or the Hebrew manuscripts differ; this comes from STEPBible's TAGNT and TAHOT (CC BY 4.0).</p>
     <p>A word’s <em>Full entry</em> opens Brown, Driver and Briggs’s Hebrew lexicon (1906, public domain; Open Scriptures’ outline of it, CC BY 4.0) or Liddell, Scott and Jones’s Greek lexicon (1940, public domain; formatted by STEPBible, CC BY 4.0).</p>
     <p>Under <em>Related verses</em>, a verse lists its cross-references from OpenBible.info (CC BY), those that at least three readers voted for, the most-voted first; most come from the public-domain <em>Treasury of Scripture Knowledge</em>. Tap one to read it in place.</p>
     <p>Under <em>Topics</em>, a verse lists the topics of Nave’s Topical Bible (1896, public domain) that cite it, and under <em>In the Bible dictionary</em>, the entries of Easton’s Bible Dictionary (1897, public domain; linked edition from Theographic, CC BY-SA 4.0) that do. Both are also in the menu, under <em>Topics and dictionary</em>. Their verse numbers have been moved to this translation’s.</p>
@@ -1429,6 +1444,39 @@ async function showPeople(b, c, n, span) {
   }
   wrap.hidden = !ks.length;
 }
+// Who each pronoun and unnamed subject refers to (data/bible/referents, from MACULA): each
+// entry [word, form, kind, name, chapter, verse, place, person].
+async function showWho(b, c, n, span) {
+  const wrap = $("vwho-wrap"), list = $("vwho");
+  wrap.hidden = true;
+  list.textContent = "";
+  let R, L, words;
+  try { [R, L, words] = await Promise.all([getJSON("referents/" + b.slug + ".json"), getJSON("people.json").catch(() => null), getJSON("words/" + b.slug + ".json")]); } catch (e) { return; }
+  if (selected !== span) return;
+  const entries = (R.c[c] || {})[n] || [];
+  if (!entries.length) return;
+  const row = cur.chapter.v.find(r => r[0] === n), ot = b.t === "OT";
+  const toks = tokensOf(row[2], ot), ws = (words.chapters[c - 1].w[n] || "").split("¦");
+  // One line for each word and what it refers to; a word may refer to more than one.
+  const seen = new Set();
+  for (const [i, form, kind, name, tc, tv, , person] of entries) {
+    const key = `${i}|${name}|${tc}:${tv}`;
+    if (seen.has(key)) continue;
+    seen.add(key);
+    const gloss = (ws[i] || "").split("|")[1] || "";
+    const said = /[a-z]/i.test(form) ? form : gloss;
+    const li = el("li", {},
+      el("span", { class: "src", lang: ot ? "he" : "grc", dir: ot ? "rtl" : "ltr", text: ((toks[i] || {}).s || "").replace(/[׃־,.;·]$/, "") }),
+      el("span", { class: "f", text: kind === "s" ? `${said}: who?` : `“${said}”` }), "→");
+    let to;
+    if (person != null && L) { to = el("a", { class: "to", href: `genealogy.html#p${person}`, title: `${L.n[person]} in the genealogy` }); to.innerHTML = PERSON; to.append(name); }
+    else to = el("span", { class: "to", text: name });
+    li.append(to);
+    if (tc !== c || tv !== n) li.append(el("a", { href: refHash(b, tc, tv), text: `${tc}:${tv}`, onclick: e => { e.preventDefault(); closeVerse(); go(b, tc, tv); } }));
+    list.append(li);
+  }
+  wrap.hidden = !list.children.length;
+}
 async function showPlaces(b, c, n, span) {
   const wrap = $("vplaces-wrap"), list = $("vplaces");
   wrap.hidden = true;
@@ -1530,6 +1578,7 @@ async function openVerse(span) {
   }
   $("vnotes-wrap").hidden = !labels.length;
   showPeople(b, c, n, span);
+  showWho(b, c, n, span);
   showPlaces(b, c, n, span);
   showWeb(b, c, n, span);
   showStudy(b, c, n, span);
