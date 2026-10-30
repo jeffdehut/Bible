@@ -9,35 +9,54 @@
    the book's length in words. A tap pulls a book out. */
 :root {
   --bg: #fbfaf7; --surface: #ffffff; --ink: #161b26; --muted: #5b6475; --faint: #8d95a4; --line: #e4e2db;
-  --lapis: #2646a1; --lapis-soft: #e7ecf8; --wood: #c8a97a; --wood-2: #a8865a;
+  --lapis: #2646a1; --lapis-soft: #e7ecf8; --wood: #c8a97a; --wood-2: #a8865a; --case: #f1ebe0;
   --shadow: 0 1px 2px rgb(22 27 38 / 6%), 0 10px 30px rgb(22 27 38 / 10%);
   --read: "Frank Ruhl Libre", "Noto Serif", Georgia, serif;
   --sans: "Libre Franklin", system-ui, -apple-system, "Segoe UI", sans-serif;
 }
 @media (prefers-color-scheme: dark) {
-  :root:not([data-theme="light"]) { --bg: #0d111b; --surface: #131a28; --ink: #e9ecf3; --muted: #a3acbd; --faint: #6f7a90; --line: #263047; --lapis: #9db3ff; --lapis-soft: #1c2650; --wood: #5a4630; --wood-2: #3d2f20; color-scheme: dark; }
+  :root:not([data-theme="light"]) { --bg: #0d111b; --surface: #131a28; --ink: #e9ecf3; --muted: #a3acbd; --faint: #6f7a90; --line: #263047; --lapis: #9db3ff; --lapis-soft: #1c2650; --wood: #5a4630; --wood-2: #3d2f20; --case: #161c29; color-scheme: dark; }
 }
-:root[data-theme="dark"] { --bg: #0d111b; --surface: #131a28; --ink: #e9ecf3; --muted: #a3acbd; --faint: #6f7a90; --line: #263047; --lapis: #9db3ff; --lapis-soft: #1c2650; --wood: #5a4630; --wood-2: #3d2f20; color-scheme: dark; }
+:root[data-theme="dark"] { --bg: #0d111b; --surface: #131a28; --ink: #e9ecf3; --muted: #a3acbd; --faint: #6f7a90; --line: #263047; --lapis: #9db3ff; --lapis-soft: #1c2650; --wood: #5a4630; --wood-2: #3d2f20; --case: #161c29; color-scheme: dark; }
 * { box-sizing: border-box; }
 html { -webkit-text-size-adjust: 100%; }
 body { margin: 0; background: var(--bg); color: var(--ink); font: 400 16px/1.5 var(--sans);
-  padding-left: max(12px, env(safe-area-inset-left, 0px)); padding-right: max(12px, env(safe-area-inset-right, 0px)); }
+  padding-left: max(16px, env(safe-area-inset-left, 0px)); padding-right: max(16px, env(safe-area-inset-right, 0px)); }
 a { color: var(--lapis); }
 main { max-width: 1100px; margin-inline: auto; padding-block: clamp(22px, 5vw, 44px) 60px; }
 h1 { margin: 0 0 6px; font: 300 clamp(36px, 7vw, 56px)/1.02 var(--read); letter-spacing: -0.02em; }
 .lede { margin: 0 0 8px; max-width: 64ch; color: var(--muted); }
 .totals { margin: 0 0 18px; font: 600 13px/1.4 var(--sans); color: var(--muted); letter-spacing: 0.04em; }
-.shelf { margin: 0 0 22px; }
-.shelf h2 { margin: 0 0 6px; font: 600 12px/1.3 var(--sans); letter-spacing: 0.1em; text-transform: uppercase; color: var(--muted); }
-.row { display: flex; align-items: flex-end; gap: 2px; padding: 0 6px; min-height: 150px; border-bottom: 10px solid var(--wood); box-shadow: 0 6px 0 -2px var(--wood-2); flex-wrap: wrap; row-gap: 14px; }
-.spine { position: relative; display: flex; align-items: center; justify-content: center; min-width: 16px; border: 0; border-radius: 3px 3px 1px 1px; cursor: pointer; padding: 6px 0;
+/* One bookcase: every book in order on a single run of shelves that wraps onto as many planks as
+   the screen needs. The planks and the labels on their edges are laid out after the books, from
+   where the books fall (see layout()), so a section's label runs under its own books on every
+   plank it reaches. */
+.chips { display: flex; gap: 6px; flex-wrap: nowrap; overflow-x: auto; scrollbar-width: none; margin: 0 -16px 14px; padding: 2px 16px; }
+.chips::-webkit-scrollbar { display: none; }
+.chip { flex: none; display: inline-flex; align-items: center; gap: 7px; min-height: 36px; padding: 4px 12px 4px 5px; border: 1px solid var(--line); border-radius: 99px; background: var(--surface); color: var(--ink); font: 500 13.5px/1.2 var(--sans); cursor: pointer; }
+.chip small { color: var(--faint); font-size: 12px; }
+.chip[aria-pressed="true"] { border-color: var(--ink); }
+.dot { display: inline-grid; place-items: center; width: 26px; height: 26px; border-radius: 50%; background: var(--c); color: var(--on); flex: none; }
+.dot svg { width: 16px; height: 16px; }
+@media (min-width: 760px) { .chips { flex-wrap: wrap; overflow: visible; margin: 0 0 18px; padding: 0; } }
+.case { position: relative; padding: 18px 12px 6px; border-radius: 14px; background: linear-gradient(var(--case), var(--case)); box-shadow: inset 0 0 0 1px var(--line); }
+.shelf { position: relative; display: flex; flex-wrap: wrap; align-items: flex-end; column-gap: 2px; row-gap: 62px; padding-bottom: 54px; }
+.plank { position: absolute; left: -12px; right: -12px; height: 12px; background: var(--wood); box-shadow: 0 5px 0 -1px var(--wood-2); border-radius: 2px; pointer-events: none; }
+.tag::before { content: ""; position: absolute; left: 0; top: 0; width: var(--w); height: 3px; background: var(--c); }
+.tag { position: absolute; display: flex; align-items: center; gap: 5px; height: 26px; padding: 8px 0 0; color: var(--ink); font: 600 12px/1 var(--sans); letter-spacing: 0.02em; white-space: nowrap; overflow: hidden; pointer-events: auto; cursor: pointer; background: none; border: 0; text-align: left; }
+.tag svg { flex: none; width: 15px; height: 15px; color: var(--c); }
+.tag.more { color: var(--muted); font-weight: 500; }
+.spine { position: relative; display: flex; align-items: center; justify-content: center; min-width: 18px; border: 0; border-radius: 3px 3px 1px 1px; cursor: pointer; padding: 6px 0;
   background: linear-gradient(90deg, rgb(0 0 0 / 14%), transparent 18%, transparent 80%, rgb(0 0 0 / 18%)), var(--c); color: var(--on, #fff);
-  box-shadow: inset 0 -6px 0 rgb(0 0 0 / 10%); transition: transform 0.2s cubic-bezier(.2, .7, .2, 1); }
+  box-shadow: inset 0 -6px 0 rgb(0 0 0 / 10%); transition: transform 0.2s cubic-bezier(.2, .7, .2, 1), opacity 0.2s; }
+.spine.first:not(:first-child) { margin-left: 10px; }
 .spine::before { content: ""; position: absolute; left: 0; right: 0; top: 10px; height: 2px; background: rgb(255 255 255 / 40%); }
 .spine::after { content: ""; position: absolute; left: 0; right: 0; bottom: 14px; height: 2px; background: rgb(255 255 255 / 40%); }
-.spine span { writing-mode: vertical-rl; transform: rotate(180deg); font: 600 12px/1 var(--sans); letter-spacing: 0.04em; white-space: nowrap; overflow: hidden; max-height: calc(100% - 30px); }
+.spine span { writing-mode: vertical-rl; transform: rotate(180deg); font: 600 12px/1 var(--sans); letter-spacing: 0.04em; white-space: nowrap; overflow: hidden; max-height: calc(100% - 26px); }
 .spine:hover, .spine:focus-visible, .spine[aria-pressed="true"] { transform: translateY(-10px); }
 .spine:focus-visible { outline: 2px solid var(--ink); outline-offset: 2px; }
+.spine { scroll-margin-top: calc(var(--bar, 56px) + 40px); }
+.shelf.only .spine:not(.on) { opacity: 0.25; }
 .card { position: fixed; z-index: 20; left: 0; right: 0; bottom: 0; max-height: 64vh; overflow: auto; background: var(--surface); border-top: 1px solid var(--line);
   border-radius: 18px 18px 0 0; box-shadow: var(--shadow); padding: 14px max(16px, env(safe-area-inset-right, 0px)) max(18px, env(safe-area-inset-bottom, 0px)) max(16px, env(safe-area-inset-left, 0px)); }
 @media (min-width: 900px) { .card { left: auto; right: 16px; bottom: 16px; width: 380px; border: 1px solid var(--line); border-radius: 16px; } }
@@ -63,10 +82,12 @@ h1 { margin: 0 0 6px; font: 300 clamp(36px, 7vw, 56px)/1.02 var(--read); letter-
   <h1>The Bookshelf</h1>
   <p class="lede">The 66 books of the Bible on their shelves, each spine as thick as the book is long. Tap a book to take it down: how long it is, how long it takes to read, and where it begins.</p>
   <p class="totals" id="totals"></p>
-  <div id="shelves"></div>
+  <div class="chips" id="sections" aria-label="The parts of the Bible"></div>
+  <div class="case"><div class="shelf" id="shelf"></div></div>
 </main>
 <article class="card" id="card" hidden aria-live="polite"></article>
 
+<script src="share.js?v=31"></script>
 <!-- DATA -->
 <script>
 (() => {
@@ -81,16 +102,67 @@ h1 { margin: 0 0 6px; font: 300 clamp(36px, 7vw, 56px)/1.02 var(--read); letter-
   let open = null;
   const total = D.books.reduce((t, b) => t + b.w, 0);
   $("totals").textContent = `66 books · ${fmt(D.books.reduce((t, b) => t + b.c, 0))} chapters · ${fmt(D.books.reduce((t, b) => t + b.v, 0))} verses · ${fmt(total)} words · about ${Math.round(total / 230 / 60)} hours of reading`;
-  const shelves = $("shelves");
-  for (const [k, sec] of D.sections.entries()) {
-    const row = el("div", { class: "row" });
-    for (const b of D.books.filter(b => b.s === k)) {
-      const wpx = 16 + 46 * Math.sqrt(b.w / maxW), hpx = 118 + (b.t === "NT" ? 0 : 18) + (b.w > 20000 ? 10 : 0);
-      const btn = el("button", { class: "spine", type: "button", "aria-pressed": "false", style: `--c:${sec.c[dark() ? 0 : 1]};${dark() ? "--on:#0b1020;" : ""}width:${wpx.toFixed(0)}px;height:${hpx}px`, title: b.n, onclick: () => show(b, btn) }, el("span", { text: b.n }));
-      row.append(btn);
-    }
-    shelves.append(el("section", { class: "shelf" }, el("h2", { text: sec.n }), row));
+  // Each part's icon (share.js), and a short name for a label with little room.
+  const ICON = ["torah", "history", "wisdom", "prophets", "gospels", "acts", "letters", "revelation"];
+  const SHORT = ["Law", "History", "Poetry", "Prophets", "Gospels", "Acts", "Letters", "Rev."];
+  const icon = k => `<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="${window.Share ? Share.icons[ICON[k]] : ""}"/></svg>`;
+  const colorOf = k => D.sections[k].c[dark() ? 0 : 1];
+  const shelf = $("shelf"), spines = [];
+  let only = null;
+  D.books.forEach((b, i) => {
+    const phone = innerWidth < 600;
+    const wpx = (phone ? 18 : 16) + (phone ? 40 : 46) * Math.sqrt(b.w / maxW), hpx = (phone ? 116 : 118) + (b.t === "NT" ? 0 : 18) + (b.w > 20000 ? 10 : 0);
+    const btn = el("button", { class: "spine" + (i === 0 || D.books[i - 1].s !== b.s ? " first" : ""), type: "button", "aria-pressed": "false", "data-s": b.s, title: b.n,
+      style: `width:${wpx.toFixed(0)}px;height:${hpx}px`, onclick: () => show(b, btn) }, el("span", { text: b.n, style: b.n.length > 13 ? "font-size:9.5px" : b.n.length > 9 ? "font-size:10.5px" : "" }));
+    spines.push(btn); shelf.append(btn);
+  });
+  function paint() {
+    spines.forEach((sp, i) => { sp.style.setProperty("--c", colorOf(D.books[i].s)); sp.style.setProperty("--on", dark() ? "#0b1020" : "#fff"); sp.classList.toggle("on", only == null || D.books[i].s === only); });
+    shelf.classList.toggle("only", only != null);
+    $("sections").replaceChildren(...D.sections.map((sec, k) => {
+      const n = D.books.filter(b => b.s === k).length;
+      const dot = el("span", { class: "dot", style: `--c:${colorOf(k)};--on:${dark() ? "#0b1020" : "#fff"}` }); dot.innerHTML = icon(k);
+      return el("button", { type: "button", class: "chip", "aria-pressed": String(only === k), onclick: () => pick(k) }, dot, sec.n, el("small", { text: String(n) }));
+    }));
+    layout();
   }
+  function pick(k) {
+    only = only === k ? null : k; paint();
+    if (only != null) spines.find((_, i) => D.books[i].s === k).scrollIntoView({ behavior: "smooth", block: "center" });
+  }
+  // The planks under each line of books, and on each plank's edge a label for every run of one
+  // part's books: its full name if it fits, else its short name, else its icon alone.
+  function layout() {
+    shelf.querySelectorAll(".plank, .tag").forEach(e => e.remove());
+    const lines = new Map();
+    spines.forEach((sp, i) => { const bottom = sp.offsetTop + sp.offsetHeight; if (!lines.has(bottom)) lines.set(bottom, []); lines.get(bottom).push(i); });
+    const seen = new Set();
+    for (const [bottom, idx] of lines) {
+      shelf.append(el("div", { class: "plank", style: `top:${bottom}px` }));
+      let a = 0;
+      while (a < idx.length) {
+        let z = a;
+        while (z + 1 < idx.length && D.books[idx[z + 1]].s === D.books[idx[a]].s) z++;
+        const k = D.books[idx[a]].s, first = spines[idx[a]], last = spines[idx[z]];
+        const left = first.offsetLeft, width = last.offsetLeft + last.offsetWidth - left;
+        // The label may run on over empty shelf: up to the next part's books, or the shelf's end.
+        const room = (z + 1 < idx.length ? spines[idx[z + 1]].offsetLeft - 8 : shelf.clientWidth) - left;
+        const cont = seen.has(k); seen.add(k);
+        const tag = el("button", { type: "button", class: "tag" + (cont ? " more" : ""), title: D.sections[k].n, "aria-label": D.sections[k].n, style: `--c:${colorOf(k)};--w:${width}px;top:${bottom + 16}px;left:${left}px;width:${Math.max(width, room, 18)}px`, onclick: () => pick(k) });
+        shelf.append(tag);
+        for (const text of [D.sections[k].n, SHORT[k], ""]) {
+          tag.innerHTML = icon(k) + (text ? `<span>${text}</span>` : "");
+          if (tag.scrollWidth <= tag.clientWidth + 1) break;
+        }
+        a = z + 1;
+      }
+    }
+  }
+  paint();
+  let lastW = shelf.clientWidth;
+  new ResizeObserver(() => { if (shelf.clientWidth !== lastW) { lastW = shelf.clientWidth; layout(); } }).observe(shelf);
+  if (document.fonts) document.fonts.ready.then(layout);
+  matchMedia("(prefers-color-scheme: dark)").addEventListener("change", paint);
   function show(b, btn) {
     document.querySelectorAll(".spine[aria-pressed=true]").forEach(x => x.setAttribute("aria-pressed", "false"));
     if (open === b) { close(); return; }
@@ -98,7 +170,7 @@ h1 { margin: 0 0 6px; font: 300 clamp(36px, 7vw, 56px)/1.02 var(--read); letter-
     const sec = D.sections[b.s], c = sec.c[dark() ? 0 : 1];
     $("card").replaceChildren(
       el("button", { class: "close", type: "button", "aria-label": "Close", onclick: close, text: "✕" }),
-      el("div", { class: "kicker", style: `--c:${c}` }, el("i"), `${sec.n} · ${b.lang}`),
+      el("div", { class: "kicker" }, (d => (d.innerHTML = icon(b.s), d))(el("span", { class: "dot", style: `--c:${c};--on:${dark() ? "#0b1020" : "#fff"}` })), `${sec.n} · ${b.lang}`),
       el("h2", { text: b.n }),
       el("div", { class: "stats" },
         el("div", {}, el("b", { text: fmt(b.c) }), el("small", { text: b.c === 1 ? "chapter" : "chapters" })),
@@ -115,6 +187,6 @@ h1 { margin: 0 0 6px; font: 300 clamp(36px, 7vw, 56px)/1.02 var(--read); letter-
   addEventListener("keydown", e => { if (e.key === "Escape") close(); });
   const h = decodeURIComponent(location.hash.slice(1));
   const at = D.books.findIndex(b => slug(b) === h);
-  if (at >= 0) show(D.books[at], document.querySelectorAll(".spine")[at]);
+  if (at >= 0) { show(D.books[at], spines[at]); spines[at].scrollIntoView({ block: "start" }); }
 })();
 </script>
