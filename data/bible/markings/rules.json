@@ -1,0 +1,1079 @@
+{
+ "groups": [
+  {
+   "id": "god",
+   "name": {
+    "en": "God"
+   }
+  },
+  {
+   "id": "themes",
+   "name": {
+    "en": "Key themes"
+   }
+  },
+  {
+   "id": "life",
+   "name": {
+    "en": "Life and death"
+   }
+  },
+  {
+   "id": "time",
+   "name": {
+    "en": "Time and place"
+   }
+  },
+  {
+   "id": "links",
+   "name": {
+    "en": "Connecting words"
+   }
+  }
+ ],
+ "markings": [
+  {
+   "id": "god",
+   "group": "god",
+   "style": "box",
+   "color": "gold",
+   "strongs": [
+    "H410",
+    "H426",
+    "H430",
+    "H433",
+    "H3050",
+    "H3068",
+    "H3069",
+    "H136",
+    "G2316",
+    "G3962"
+   ],
+   "name": {
+    "en": "God"
+   },
+   "sample": {
+    "en": "God"
+   },
+   "note": {
+    "en": "God, the LORD, the Father"
+   },
+   "forms": {
+    "en": [
+     "God",
+     "God's",
+     "LORD",
+     "LORD's",
+     "GOD",
+     "Father",
+     "Father's",
+     "Lord@H136",
+     "Lord's@H136"
+    ]
+   }
+  },
+  {
+   "id": "jesus",
+   "group": "god",
+   "style": "box",
+   "color": "crimson",
+   "strongs": [
+    "G2424",
+    "G5547",
+    "G3323",
+    "G5207",
+    "G721",
+    "G286"
+   ],
+   "name": {
+    "en": "Jesus"
+   },
+   "sample": {
+    "en": "Jesus"
+   },
+   "note": {
+    "en": "Jesus, Christ, the Messiah, the Son, the Lamb"
+   },
+   "forms": {
+    "en": [
+     "Lord Jesus Christ",
+     "Lord Jesus",
+     "Jesus Christ",
+     "Christ Jesus",
+     "Jesus",
+     "Jesus'",
+     "Christ",
+     "Christ's",
+     "Messiah",
+     "Son of Man",
+     "Son of God",
+     "Son",
+     "Lamb",
+     "Lamb's"
+    ]
+   }
+  },
+  {
+   "id": "spirit",
+   "group": "god",
+   "style": "cloud",
+   "color": "teal",
+   "strongs": [
+    "H7307",
+    "G4151"
+   ],
+   "name": {
+    "en": "The Holy Spirit"
+   },
+   "sample": {
+    "en": "Spirit"
+   },
+   "note": {
+    "en": "where the Spirit is God's own"
+   },
+   "forms": {
+    "en": [
+     "Holy Spirit",
+     "Spirit of God",
+     "Spirit of the LORD",
+     "Spirit"
+    ]
+   }
+  },
+  {
+   "id": "satan",
+   "group": "god",
+   "style": "strike",
+   "color": "red",
+   "strongs": [
+    "H7854",
+    "G4567",
+    "G1228",
+    "G954",
+    "G1404"
+   ],
+   "name": {
+    "en": "Satan"
+   },
+   "sample": {
+    "en": "the devil"
+   },
+   "note": {
+    "en": "Satan, the devil, the dragon"
+   },
+   "forms": {
+    "en": [
+     "the devil",
+     "The devil",
+     "devil's",
+     "Devil's",
+     "Satan",
+     "Satan's",
+     "Beelzebul",
+     "dragon"
+    ]
+   }
+  },
+  {
+   "id": "love",
+   "group": "themes",
+   "style": "tint",
+   "color": "pink",
+   "strongs": [
+    "G25",
+    "G26",
+    "G27",
+    "G5368",
+    "G5360",
+    "H157",
+    "H160",
+    "H2617"
+   ],
+   "name": {
+    "en": "Love"
+   },
+   "sample": {
+    "en": "love"
+   },
+   "note": {
+    "en": "love, beloved, steadfast love"
+   },
+   "forms": {
+    "en": [
+     "faithful kindness",
+     "Faithful kindness",
+     "lovingkindness",
+     "unfailing love",
+     "Unfailing love",
+     "Lovingkindness",
+     "steadfast love",
+     "Steadfast love",
+     "faithful love",
+     "Faithful love",
+     "Loyal love",
+     "loyal love",
+     "Kindness",
+     "kindness",
+     "loyalty",
+     "Loyalty",
+     "beloved",
+     "Beloved",
+     "Loving",
+     "loving",
+     "Loves",
+     "loves",
+     "loved",
+     "Loved",
+     "Love",
+     "love"
+    ]
+   }
+  },
+  {
+   "id": "faith",
+   "group": "themes",
+   "style": "double",
+   "color": "blue",
+   "strongs": [
+    "G4102",
+    "G4100",
+    "G4103",
+    "G4135",
+    "H539",
+    "H530"
+   ],
+   "name": {
+    "en": "Faith"
+   },
+   "sample": {
+    "en": "faith"
+   },
+   "note": {
+    "en": "faith, believe, faithful"
+   },
+   "forms": {
+    "en": [
+     "faithfulness",
+     "Faithfulness",
+     "Faithfully",
+     "faithfully",
+     "believers",
+     "Believers",
+     "Believing",
+     "believing",
+     "Faithful",
+     "unbelief",
+     "faithful",
+     "believes",
+     "believer",
+     "Unbelief",
+     "Believer",
+     "Believed",
+     "believed",
+     "Believes",
+     "believe",
+     "Trusted",
+     "trusted",
+     "Believe",
+     "belief",
+     "trusts",
+     "Belief",
+     "Trusts",
+     "Trust",
+     "trust",
+     "faith",
+     "Faith"
+    ]
+   }
+  },
+  {
+   "id": "grace",
+   "group": "themes",
+   "style": "under",
+   "color": "green",
+   "strongs": [
+    "G5485",
+    "G5483",
+    "H2580",
+    "H2603"
+   ],
+   "name": {
+    "en": "Grace"
+   },
+   "sample": {
+    "en": "grace"
+   },
+   "note": {
+    "en": "grace, favor, gracious"
+   },
+   "forms": {
+    "en": [
+     "Freely given",
+     "freely given",
+     "graciously",
+     "Graciously",
+     "gracious",
+     "Gracious",
+     "favor",
+     "Favor",
+     "grace",
+     "Grace"
+    ]
+   }
+  },
+  {
+   "id": "sin",
+   "group": "themes",
+   "style": "wavy",
+   "color": "brown",
+   "strongs": [
+    "G266",
+    "G264",
+    "G268",
+    "G265",
+    "G3900",
+    "G458",
+    "G93",
+    "H2403",
+    "H2398",
+    "H2399",
+    "H2400",
+    "H5771",
+    "H6588",
+    "H6586",
+    "H7563"
+   ],
+   "name": {
+    "en": "Sin"
+   },
+   "sample": {
+    "en": "sin"
+   },
+   "note": {
+    "en": "sin, iniquity, transgression, wickedness"
+   },
+   "forms": {
+    "en": [
+     "unrighteousness",
+     "Unrighteousness",
+     "transgressions",
+     "Transgressions",
+     "transgression",
+     "Transgression",
+     "Wrongdoings",
+     "wrongdoings",
+     "Lawlessness",
+     "lawlessness",
+     "wickedness",
+     "trespasses",
+     "rebellions",
+     "Wrongdoing",
+     "Trespasses",
+     "Rebellions",
+     "iniquities",
+     "wrongdoing",
+     "Iniquities",
+     "Wickedness",
+     "Rebellion",
+     "rebellion",
+     "Trespass",
+     "Offenses",
+     "rebelled",
+     "offenses",
+     "trespass",
+     "iniquity",
+     "Iniquity",
+     "Rebelled",
+     "Offense",
+     "sinning",
+     "Sinners",
+     "Sinning",
+     "offense",
+     "sinners",
+     "sinned",
+     "Wicked",
+     "sinner",
+     "wicked",
+     "Sinner",
+     "Sinned",
+     "Sinful",
+     "sinful",
+     "guilt",
+     "Guilt",
+     "Sins",
+     "sins",
+     "sin",
+     "Sin"
+    ]
+   }
+  },
+  {
+   "id": "repent",
+   "group": "themes",
+   "style": "under",
+   "color": "orange",
+   "glyph": "↻",
+   "strongs": [
+    "G3340",
+    "G3341",
+    "G1994",
+    "H7725"
+   ],
+   "name": {
+    "en": "Repent"
+   },
+   "sample": {
+    "en": "repent"
+   },
+   "note": {
+    "en": "repent, turn back to God"
+   },
+   "forms": {
+    "en": [
+     "Repentance",
+     "repentance",
+     "repenting",
+     "Repenting",
+     "Repented",
+     "repented",
+     "Repents",
+     "repents",
+     "repent",
+     "Repent"
+    ]
+   }
+  },
+  {
+   "id": "covenant",
+   "group": "themes",
+   "style": "circle",
+   "color": "indigo",
+   "strongs": [
+    "H1285",
+    "G1242"
+   ],
+   "name": {
+    "en": "Covenant"
+   },
+   "sample": {
+    "en": "covenant"
+   },
+   "forms": {
+    "en": [
+     "Covenants",
+     "covenants",
+     "Treaties",
+     "Covenant",
+     "covenant",
+     "treaties",
+     "Treaty",
+     "treaty"
+    ]
+   }
+  },
+  {
+   "id": "kingdom",
+   "group": "themes",
+   "style": "under",
+   "color": "purple",
+   "glyph": "♔",
+   "strongs": [
+    "G932",
+    "H4467",
+    "H4438",
+    "H4437"
+   ],
+   "name": {
+    "en": "Kingdom"
+   },
+   "sample": {
+    "en": "kingdom"
+   },
+   "forms": {
+    "en": [
+     "kingdoms",
+     "Kingdoms",
+     "kingship",
+     "Kingship",
+     "kingdom",
+     "Kingdom"
+    ]
+   }
+  },
+  {
+   "id": "save",
+   "group": "themes",
+   "style": "double",
+   "color": "green",
+   "strongs": [
+    "G4982",
+    "G4991",
+    "G4990",
+    "G4992",
+    "H3467",
+    "H3444",
+    "H3468",
+    "H8668"
+   ],
+   "name": {
+    "en": "Salvation"
+   },
+   "sample": {
+    "en": "saved"
+   },
+   "note": {
+    "en": "save, salvation, Savior"
+   },
+   "forms": {
+    "en": [
+     "deliverance",
+     "Deliverance",
+     "delivered",
+     "Salvation",
+     "Deliverer",
+     "deliverer",
+     "salvation",
+     "Delivered",
+     "delivers",
+     "Delivers",
+     "rescued",
+     "Rescues",
+     "Deliver",
+     "deliver",
+     "rescues",
+     "victory",
+     "Rescued",
+     "Victory",
+     "saving",
+     "rescue",
+     "Rescue",
+     "Saving",
+     "Savior",
+     "Saves",
+     "saves",
+     "Saved",
+     "saved",
+     "Save",
+     "save"
+    ]
+   }
+  },
+  {
+   "id": "righteous",
+   "group": "themes",
+   "style": "under",
+   "color": "navy",
+   "strongs": [
+    "G1342",
+    "G1343",
+    "G1344",
+    "G1345",
+    "H6662",
+    "H6664",
+    "H6666",
+    "H6663"
+   ],
+   "name": {
+    "en": "Righteousness"
+   },
+   "sample": {
+    "en": "righteous"
+   },
+   "note": {
+    "en": "righteous, justify"
+   },
+   "forms": {
+    "en": [
+     "Justification",
+     "justification",
+     "Righteousness",
+     "righteousness",
+     "in the right",
+     "In the right",
+     "Righteously",
+     "righteously",
+     "Righteous",
+     "Justified",
+     "righteous",
+     "Justifies",
+     "justified",
+     "justifies",
+     "justice",
+     "Upright",
+     "upright",
+     "Justice",
+     "Justify",
+     "justify"
+    ]
+   }
+  },
+  {
+   "id": "holy",
+   "group": "themes",
+   "style": "tint",
+   "color": "violet",
+   "strongs": [
+    "G40",
+    "G37",
+    "G38",
+    "G42",
+    "H6944",
+    "H6918",
+    "H6942"
+   ],
+   "name": {
+    "en": "Holy"
+   },
+   "sample": {
+    "en": "holy"
+   },
+   "note": {
+    "en": "holy, holiness, sanctify, saints"
+   },
+   "forms": {
+    "en": [
+     "Sanctification",
+     "sanctification",
+     "consecrated",
+     "Consecrated",
+     "consecrate",
+     "Holy Place",
+     "sanctified",
+     "Sanctifies",
+     "Consecrate",
+     "sanctifies",
+     "Sanctified",
+     "most holy",
+     "set apart",
+     "Set apart",
+     "Most holy",
+     "Holiness",
+     "sanctify",
+     "Sanctify",
+     "holiness",
+     "Saints",
+     "saints",
+     "Sacred",
+     "sacred",
+     "Holy",
+     "holy"
+    ]
+   }
+  },
+  {
+   "id": "glory",
+   "group": "themes",
+   "style": "tint",
+   "color": "amber",
+   "strongs": [
+    "G1391",
+    "G1392",
+    "H3519"
+   ],
+   "name": {
+    "en": "Glory"
+   },
+   "sample": {
+    "en": "glory"
+   },
+   "note": {
+    "en": "glory, glorify"
+   },
+   "forms": {
+    "en": [
+     "Glorifying",
+     "glorifying",
+     "glorifies",
+     "Glorifies",
+     "glorified",
+     "Glorified",
+     "Glorious",
+     "glorious",
+     "Glorify",
+     "glorify",
+     "glory",
+     "Honor",
+     "Glory",
+     "honor"
+    ]
+   }
+  },
+  {
+   "id": "pray",
+   "group": "themes",
+   "style": "circle",
+   "color": "sky",
+   "strongs": [
+    "G4336",
+    "G4335",
+    "G1189",
+    "G1162",
+    "H6419",
+    "H8605"
+   ],
+   "name": {
+    "en": "Prayer"
+   },
+   "sample": {
+    "en": "prayed"
+   },
+   "note": {
+    "en": "pray, prayer"
+   },
+   "forms": {
+    "en": [
+     "Praying",
+     "prayers",
+     "praying",
+     "Prayers",
+     "Prayed",
+     "prayer",
+     "prayed",
+     "Prayer",
+     "prays",
+     "Prays",
+     "pray",
+     "Pray"
+    ]
+   }
+  },
+  {
+   "id": "law",
+   "group": "themes",
+   "style": "under",
+   "color": "slate",
+   "glyph": "§",
+   "strongs": [
+    "G3551",
+    "H8451"
+   ],
+   "name": {
+    "en": "Law"
+   },
+   "sample": {
+    "en": "law"
+   },
+   "note": {
+    "en": "the law, instruction"
+   },
+   "forms": {
+    "en": [
+     "instructions",
+     "Instructions",
+     "instruction",
+     "Instruction",
+     "Teaching",
+     "teaching",
+     "Laws",
+     "laws",
+     "Law",
+     "law"
+    ]
+   }
+  },
+  {
+   "id": "truth",
+   "group": "themes",
+   "style": "dotted",
+   "color": "teal",
+   "strongs": [
+    "G225",
+    "G227",
+    "G228",
+    "H571"
+   ],
+   "name": {
+    "en": "Truth"
+   },
+   "sample": {
+    "en": "truth"
+   },
+   "note": {
+    "en": "truth, true"
+   },
+   "forms": {
+    "en": [
+     "truth",
+     "Truth",
+     "truly",
+     "Truly",
+     "True",
+     "true"
+    ]
+   }
+  },
+  {
+   "id": "life",
+   "group": "life",
+   "style": "dotted",
+   "color": "green",
+   "strongs": [
+    "G2222",
+    "G2198",
+    "H2416",
+    "H2421",
+    "H2425"
+   ],
+   "name": {
+    "en": "Life"
+   },
+   "sample": {
+    "en": "life"
+   },
+   "note": {
+    "en": "life, live, living"
+   },
+   "forms": {
+    "en": [
+     "Eternal life",
+     "eternal life",
+     "living",
+     "Living",
+     "lived",
+     "alive",
+     "Lives",
+     "lives",
+     "Lived",
+     "Alive",
+     "Life",
+     "life",
+     "Live",
+     "live"
+    ]
+   }
+  },
+  {
+   "id": "death",
+   "group": "life",
+   "style": "dotted",
+   "color": "gray",
+   "strongs": [
+    "G2288",
+    "G599",
+    "G3498",
+    "G2348",
+    "H4194",
+    "H4191"
+   ],
+   "name": {
+    "en": "Death"
+   },
+   "sample": {
+    "en": "died"
+   },
+   "note": {
+    "en": "death, die, dead"
+   },
+   "forms": {
+    "en": [
+     "put to death",
+     "Put to death",
+     "Killed",
+     "killed",
+     "dying",
+     "Dying",
+     "Death",
+     "kills",
+     "death",
+     "Kills",
+     "Dead",
+     "Died",
+     "Dies",
+     "dead",
+     "Kill",
+     "died",
+     "kill",
+     "dies",
+     "die",
+     "Die"
+    ]
+   }
+  },
+  {
+   "id": "time",
+   "group": "time",
+   "style": "dotted",
+   "color": "olive",
+   "glyph": "◷",
+   "strongs": [
+    "G2250",
+    "G5610",
+    "G2540",
+    "G5550",
+    "G4594",
+    "H3117",
+    "H6256",
+    "H8141",
+    "G2094",
+    "H3119",
+    "H6258",
+    "G3568"
+   ],
+   "name": {
+    "en": "Time"
+   },
+   "sample": {
+    "en": "day"
+   },
+   "note": {
+    "en": "day, hour, season, year, now"
+   },
+   "forms": {
+    "en": [
+     "This day",
+     "that day",
+     "That day",
+     "this day",
+     "seasons",
+     "Seasons",
+     "season",
+     "Season",
+     "hours",
+     "Years",
+     "Times",
+     "Today",
+     "years",
+     "today",
+     "Hours",
+     "times",
+     "Hour",
+     "Year",
+     "Time",
+     "Days",
+     "year",
+     "hour",
+     "days",
+     "time",
+     "Day",
+     "day",
+     "now",
+     "Now"
+    ]
+   }
+  },
+  {
+   "id": "place",
+   "group": "time",
+   "style": "double",
+   "color": "leaf",
+   "strongs": [],
+   "name": {
+    "en": "Places"
+   },
+   "sample": {
+    "en": "Jerusalem"
+   },
+   "note": {
+    "en": "towns, lands, rivers, mountains"
+   },
+   "forms": {
+    "en": []
+   }
+  },
+  {
+   "id": "therefore",
+   "group": "links",
+   "style": "glyph",
+   "color": "ink",
+   "glyph": "∴",
+   "strongs": [
+    "G3767",
+    "G1352",
+    "G686",
+    "G5105",
+    "G1223",
+    "H3651",
+    "H6258",
+    "H5921"
+   ],
+   "name": {
+    "en": "Therefore"
+   },
+   "sample": {
+    "en": "therefore"
+   },
+   "note": {
+    "en": "a conclusion: ask what it is there for"
+   },
+   "forms": {
+    "en": [
+     "For this reason",
+     "for this reason",
+     "therefore",
+     "Therefore",
+     "So then",
+     "so then"
+    ]
+   }
+  },
+  {
+   "id": "but",
+   "group": "links",
+   "style": "glyph",
+   "color": "ink",
+   "glyph": "⇄",
+   "strongs": [
+    "G235",
+    "G1161",
+    "G4133",
+    "H61",
+    "H3588",
+    "H389",
+    "H657"
+   ],
+   "name": {
+    "en": "But"
+   },
+   "sample": {
+    "en": "but"
+   },
+   "note": {
+    "en": "a contrast"
+   },
+   "forms": {
+    "en": [
+     "Nevertheless",
+     "nevertheless",
+     "however",
+     "However",
+     "But",
+     "but"
+    ]
+   }
+  },
+  {
+   "id": "purpose",
+   "group": "links",
+   "style": "glyph",
+   "color": "ink",
+   "glyph": "→",
+   "strongs": [
+    "G2443",
+    "G3704",
+    "G5620",
+    "G1519",
+    "H4616",
+    "H5668"
+   ],
+   "name": {
+    "en": "So that"
+   },
+   "sample": {
+    "en": "so that"
+   },
+   "note": {
+    "en": "a purpose or result"
+   },
+   "forms": {
+    "en": [
+     "In order that",
+     "in order that",
+     "in order to",
+     "In order to",
+     "So that",
+     "so that"
+    ]
+   }
+  }
+ ]
+}
