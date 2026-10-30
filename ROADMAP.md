@@ -109,9 +109,13 @@ Chinese translation.
   (CC BY), beside each verse.
 - **Tyndale Open Study Notes and Bible Dictionary**: looked into in October 2026 (CC BY-SA 4.0, written
   against the NLT) and left out, by decision.
-- **MACULA Hebrew and Greek** (Clear Bible, CC BY 4.0): syntax and referents (who "he" or
-  "they" is), using only the parts under CC BY (its UBS word senses are "used with permission",
-  and its Hebrew glosses come from SIL under their own terms).
+- **MACULA Hebrew and Greek (done)** (Clear Bible, Biblica, CC BY 4.0): who each pronoun and unnamed
+  subject refers to, followed back to its noun or name and linked to the person where the verse
+  names one, under *Who is who* in the reader (data/bible/referents/, built by
+  `scripts/referents.py`). Only its CC BY fields are read: not its UBS word senses ("used with
+  permission"), nor its Hebrew glosses (from SIL, under their own terms). Still to come from it:
+  fuller storylines (a person's chapters counting where they are only "he"), and who speaks to
+  whom.
 - **Editions and manuscripts (done)**: where the Greek editions differ (Nestle–Aland, SBL, Tyndale
   House, Westcott–Hort, Tregelles, the Textus Receptus and the Byzantine text), the Hebrew
   written-and-read forms (ketiv and qere), the words restored from the Septuagint, and other
