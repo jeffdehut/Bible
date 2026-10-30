@@ -32,7 +32,6 @@ h2 { margin: 28px 0 6px; font: 500 22px/1.2 var(--read); }
 .strip button { flex: var(--n); min-width: 8px; border: 0; border-radius: 8px; background: var(--c); color: var(--on); font: 600 12px/1.15 var(--sans); padding: 4px 6px; text-align: left; overflow: hidden; cursor: pointer; }
 .strip button { display: flex; align-items: center; gap: 6px; }
 .strip button .ti { flex: none; width: 18px; height: 18px; }
-@media (max-width: 700px) { .strip button { justify-content: center; padding: 4px; } .strip button span { display: none; } .strip button .ti { width: 20px; height: 20px; } }
 .chip .ti { width: 17px; height: 17px; color: var(--muted); flex: none; }
 .chip[aria-pressed="true"] .ti { color: inherit; }
 .summary { display: flex; align-items: center; gap: 8px; }
@@ -48,9 +47,35 @@ h2 { margin: 28px 0 6px; font: 500 22px/1.2 var(--read); }
 .chip small { color: var(--faint); font-size: 12px; }
 .chip[aria-pressed="true"] { border-color: var(--hit); background: var(--hit-soft); color: var(--hit); }
 .chip[aria-pressed="true"] small { color: inherit; }
-.field { margin: 14px 0 0; display: grid; gap: 3px; }
-.field .row { display: grid; grid-template-columns: 26px repeat(36, minmax(0, 1fr)); gap: 3px; align-items: center; }
-.field .row b { font: 600 11px/1 var(--sans); color: var(--faint); text-align: right; padding-right: 4px; }
+/* Phones first: each chapter wraps into lines of squares big enough to see and tap, its number
+   in the first square's place; from a tablet up, a chapter is one line of 36. */
+.field { margin: 14px 0 0; display: grid; gap: 8px; }
+.field .row { display: grid; grid-template-columns: repeat(auto-fill, minmax(26px, 1fr)); gap: 4px; align-items: center; }
+.field .row b { font: 700 12px/1 var(--sans); color: var(--muted); text-align: center; }
+@media (min-width: 700px) {
+  .field { gap: 3px; }
+  .field .row { grid-template-columns: 26px repeat(36, minmax(0, 1fr)); gap: 3px; }
+  .field .row b { font: 600 11px/1 var(--sans); color: var(--faint); text-align: right; padding-right: 4px; }
+}
+/* The topics stay at hand while the squares scroll by: one row to swipe, held under the bar. */
+.topicbar { position: sticky; top: calc(var(--bar, 56px) + env(safe-area-inset-top, 0px)); z-index: 6; margin: 0 -16px; padding: 2px 16px 8px;
+  background: color-mix(in srgb, var(--bg) 94%, transparent); backdrop-filter: blur(8px); -webkit-backdrop-filter: blur(8px); border-bottom: 1px solid var(--line); }
+.tb-head { display: flex; align-items: center; justify-content: space-between; gap: 10px; }
+.jump { border: 0; border-radius: 99px; background: var(--hit); color: var(--surface); font: 600 13px/1 var(--sans); padding: 8px 12px; cursor: pointer; margin-top: 8px; }
+.jump[hidden] { display: none; }
+.chips.scroll { flex-wrap: nowrap; overflow-x: auto; scrollbar-width: none; margin: 0 -16px; padding: 2px 16px; scroll-padding-inline: 16px; }
+.chips.scroll::-webkit-scrollbar { display: none; }
+.chips.scroll > * { flex: none; }
+.list, .field { scroll-margin-top: 150px; }
+.strip { display: none; }
+.pills .chip .badge { display: inline-grid; place-items: center; width: 22px; height: 22px; border-radius: 50%; background: var(--c); color: var(--on); flex: none; }
+.pills .chip .badge .ti { width: 14px; height: 14px; color: inherit; }
+.pills .chip[aria-pressed="true"] { border-color: var(--ink); background: var(--surface); color: var(--ink); }
+@media (min-width: 700px) { .strip { display: flex; } .pills { display: none; } }
+@media (min-width: 900px) {
+  .topicbar { position: static; margin: 0; padding: 0; background: none; backdrop-filter: none; -webkit-backdrop-filter: none; border: 0; }
+  .topicbar .chips.scroll { flex-wrap: wrap; overflow: visible; margin: 0; padding: 0; }
+}
 .dot { aspect-ratio: 1; min-width: 0; padding: 0; border: 0; border-radius: 3px; background: var(--c); cursor: pointer; transition: opacity 0.2s, background 0.2s; }
 .dot { display: grid; place-items: center; color: var(--ic); }
 .dot .ti { width: 72%; height: 72%; stroke-width: 2; opacity: 0.85; pointer-events: none; }
@@ -88,10 +113,13 @@ h2 { margin: 28px 0 6px; font: 500 22px/1.2 var(--read); }
 
   <p class="label">The collections the book marks</p>
   <div class="strip" id="strip"></div>
+  <div class="chips scroll pills" id="pills"></div>
   <p class="about" id="about" hidden></p>
 
-  <p class="label">Topics</p>
-  <div class="chips" id="topics"></div>
+  <div class="topicbar" id="topicbar">
+    <div class="tb-head"><p class="label">Topics</p><button type="button" class="jump" id="jump" hidden></button></div>
+    <div class="chips scroll" id="topics"></div>
+  </div>
 
   <div class="field" id="field" aria-label="Every verse of Proverbs, a row for each chapter"></div>
   <p class="summary" id="summary" aria-live="polite"></p>
@@ -130,6 +158,12 @@ h2 { margin: 28px 0 6px; font: 500 22px/1.2 var(--read); }
     return b;
   });
   $("strip").append(...bands);
+  const pills = D.collections.map((C, i) => {
+    const badge = el("span", { class: "badge" }); badge.append(Themes.el(COL_ICONS[i]));
+    return el("button", { type: "button", class: "chip", "aria-pressed": "false", onclick: () => { col = col === i ? null : i; update(); } }, badge, C.n,
+      el("small", { text: `${C.from[0]}${C.from[0] === C.to[0] ? "" : "–" + C.to[0]}` }));
+  });
+  $("pills").append(...pills);
 
   /* ---------- Topics ---------- */
   const count = k => V.filter(x => (k === BUT ? x.but : x.topics.includes(k))).length;
@@ -155,6 +189,7 @@ h2 { margin: 28px 0 6px; font: 500 22px/1.2 var(--read); }
 
   function update() {
     const dk = dark() ? 1 : 0;
+    pills.forEach((b, i) => { b.querySelector(".badge").style.cssText = `--c:${BANDS[i][dk]};--on:${dk ? "#0b1020" : "#fff"}`; b.setAttribute("aria-pressed", String(col === i)); });
     bands.forEach((b, i) => { b.style.setProperty("--c", BANDS[i][dk]); b.style.setProperty("--on", dk ? "#0b1020" : "#fff"); b.setAttribute("aria-pressed", String(col === i)); });
     chips.forEach((b, k) => b.setAttribute("aria-pressed", String(topic === (k < BUT ? k : BUT))));
     const any = topic != null || col != null;
@@ -173,12 +208,21 @@ h2 { margin: 28px 0 6px; font: 500 22px/1.2 var(--read); }
     const name = topic == null ? null : topic === BUT ? "sayings that turn on “but”" : D.topics[topic][1].toLowerCase();
     const text = !any ? "Choose a topic or a collection, or tap a square to read a verse." :
       `${hits.length} ${hits.length === 1 ? "verse" : "verses"}${name ? ` on ${name}` : ""}${C ? ` in ${C.n}` : ""}${topic != null && col == null ? `, in ${new Set(hits.map(x => x.c)).size} of the 31 chapters` : ""}.`;
+    $("jump").hidden = topic == null || !hits.length;
+    if (typeof jumpLabel === "function") jumpLabel();
+    const on = chips[topic == null ? -1 : topic < BUT ? topic : BUT];
+    if (on && matchMedia("(max-width: 899px)").matches) on.scrollIntoView({ inline: "nearest", block: "nearest" });
     $("summary").replaceChildren(...(topic != null ? [Themes.el(iconOf(topic))] : []), text);
     const shown = showAll ? hits : hits.slice(0, 40);
     $("list").replaceChildren(...(topic != null ? shown : []).map(x => el("li", {}, el("a", { href: href(x), text: ref(x) }), x.t)));
     $("more").hidden = topic == null || hits.length <= shown.length;
     try { history.replaceState(null, "", topic != null && topic < BUT ? "#" + D.topics[topic][0] : location.pathname); } catch (e) {}
   }
+  // Down to the verses, and once there, back up to the squares.
+  let reading = false;
+  $("jump").onclick = () => (reading ? $("field") : $("list")).scrollIntoView({ behavior: "smooth", block: "start" });
+  if ("IntersectionObserver" in window) new IntersectionObserver(es => { reading = es[0].isIntersecting || es[0].boundingClientRect.top < 0; jumpLabel(); }).observe($("list"));
+  function jumpLabel() { const n = $("list").children.length && V.filter(matches).length; $("jump").textContent = reading ? "Back to the squares ↑" : `Read the ${n} ${n === 1 ? "verse" : "verses"} ↓`; }
   $("more").querySelector("button").onclick = () => { showAll = true; update(); };
 
   /* ---------- A verse ---------- */
