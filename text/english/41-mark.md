@@ -97,7 +97,7 @@
 
 **45** But the man went out and began to talk about it freely, spreading the news, so that Jesus could no longer go into a town openly. He stayed out in deserted places, and people kept coming to him from everywhere.
 
-[^1-1]: Greek *christos*, "anointed one". The SBLGNT and some early manuscripts end the verse here. Many manuscripts add "the Son of God".
+[^1-1]: Greek *christos*, "anointed one". The SBLGNT here follows Westcott and Hort. Other editions add "the Son of God".
 [^1-2]: Many manuscripts read "in the prophets". The quotation combines Malachi 3:1 (and Exodus 23:20) with Isaiah 40:3.
 [^1-3]: Isaiah 40:3. In Isaiah's Hebrew, "the Lord" is God's personal name, YHWH ("the LORD").
 [^1-4]: A baptism expressing a change of heart and life. Greek *metanoia*, a turning around of mind and life.
@@ -105,7 +105,7 @@
 [^1-6]: Or "You are my beloved Son; I take great pleasure in you."
 [^1-7]: Or "tempted". The Greek word means both.
 [^1-8]: Literally "handed over".
-[^1-9]: Most manuscripts read "On the Sabbath he went into the synagogue and began to teach."
+[^1-9]: The SBLGNT here follows the margin of Westcott and Hort. Other editions read "On the Sabbath he went into the synagogue and began to teach."
 [^1-10]: Experts in the Law of Moses.
 [^1-11]: Literally "What to us and to you?", an idiom: "What do we have to do with you?"
 [^1-12]: Or "What is this? A new teaching with authority! He even gives orders …"
@@ -672,7 +672,7 @@
 [^7-5]: Isaiah 29:13, quoted from the Greek translation.
 [^7-6]: Exodus 20:12; Deuteronomy 5:16.
 [^7-7]: Exodus 21:17; Leviticus 20:9.
-[^7-8]: Many manuscripts add verse 16: "If anyone has ears to hear, let them hear." The SBLGNT and other critical editions leave it out, so this translation has no verse 16.
+[^7-8]: Many manuscripts add verse 16: "If anyone has ears to hear, let them hear." Most critical editions leave it out, as the SBLGNT does, so this translation has no verse 16.
 [^7-9]: Literally "cleansing all foods". Most interpreters take these words as Mark's comment on what Jesus said. Some take them as part of Jesus' words, referring to the digestive process.
 [^7-10]: Literally "an evil eye".
 [^7-11]: Many manuscripts add "and Sidon".
@@ -873,7 +873,7 @@
 [^9-6]: Or "to sin"; also in verses 43–47.
 [^9-7]: Literally "a donkey's millstone", one large enough to be turned by a donkey.
 [^9-8]: Greek *Gehenna*, from the Valley of Hinnom outside Jerusalem, used as a name for the place of final judgment.
-[^9-9]: Many manuscripts add verse 44, and verse 46 after verse 45, both repeating verse 48: "where 'their worm does not die, and the fire is not put out.'" The SBLGNT and other critical editions leave them out, so this translation has no verses 44 and 46.
+[^9-9]: Many manuscripts add verse 44, and verse 46 after verse 45, both repeating verse 48: "where 'their worm does not die, and the fire is not put out.'" Most critical editions leave them out, as the SBLGNT does, so this translation has no verses 44 and 46.
 [^9-10]: Isaiah 66:24.
 [^9-11]: Many manuscripts add "and every sacrifice will be salted with salt".
 
@@ -937,7 +937,7 @@
 
 **28** Peter began to say to him, "Look, we have left everything and followed you."
 
-**29** Jesus said, "Truly I tell you, there is no one who has left house or brothers or sisters or mother or father or children or fields for my sake and for the sake of the good news
+**29** Jesus said, "Truly I tell you, there is no one who has left house or brothers or sisters or mother or father[^10-8] or children or fields for my sake and for the sake of the good news
 
 **30** who will not receive a hundred times as much now in this present age, houses, brothers, sisters, mothers, children, and fields, along with persecutions, and in the age to come eternal life.
 
@@ -981,19 +981,20 @@
 
 **50** Throwing off his cloak, he jumped up and came to Jesus.
 
-**51** Jesus asked him, "What do you want me to do for you?" The blind man said, "Rabbouni,[^10-8] let me see again."
+**51** Jesus asked him, "What do you want me to do for you?" The blind man said, "Rabbouni,[^10-9] let me see again."
 
-**52** Jesus said to him, "Go; your faith has healed you."[^10-9] At once he regained his sight and followed Jesus on the road.
+**52** Jesus said to him, "Go; your faith has healed you."[^10-10] At once he regained his sight and followed Jesus on the road.
 
-[^10-1]: The SBLGNT here follows a few manuscripts. Most manuscripts and editions read "Some Pharisees came and, to test him, asked him …"
+[^10-1]: The SBLGNT here follows the margin of Westcott and Hort. Other editions read "Some Pharisees came and, to test him, asked him …"
 [^10-2]: Deuteronomy 24:1.
 [^10-3]: Genesis 1:27; 5:2. "He" is God, the subject in Genesis; many manuscripts add "God" here.
 [^10-4]: Genesis 2:24.
 [^10-5]: Exodus 20:12–16; Deuteronomy 5:16–20. "Do not defraud" may reflect the tenth commandment or Deuteronomy 24:14.
 [^10-6]: Many manuscripts add "taking up the cross".
 [^10-7]: Many manuscripts read "how hard it is for those who trust in riches to enter the kingdom of God!"
-[^10-8]: Aramaic, "my teacher", a respectful form of "Rabbi".
-[^10-9]: Or "has saved you".
+[^10-8]: Many manuscripts read "father or mother or wife", as in Matthew 19:29.
+[^10-9]: Aramaic, "my teacher", a respectful form of "Rabbi".
+[^10-10]: Or "has saved you".
 
 ## Chapter 11
 
@@ -1071,7 +1072,7 @@
 [^11-6]: Jeremiah 7:11.
 [^11-7]: Literally "Have faith of God".
 [^11-8]: Many manuscripts add verse 26: "But if you do not forgive, neither will your Father in heaven forgive your wrongdoings." The SBLGNT and other critical editions leave it out, so this translation has no verse 26.
-[^11-9]: These words are in the SBLGNT, following a few manuscripts. They are not in most manuscripts or editions.
+[^11-9]: These words are in the SBLGNT; the other editions leave them out.
 
 ## Chapter 12
 
@@ -1272,7 +1273,7 @@
 
 *Status: draft*
 
-**1** It was two days before the Passover and the Festival of Unleavened Bread. The chief priests and the scribes were looking for a way to arrest Jesus by deceit and kill him.
+**1** It was two days before the Passover and the Festival of Bread Made without Yeast. The chief priests and the scribes were looking for a way to arrest Jesus by deceit and kill him.
 
 **2** "But not during the festival," they said, "or there may be a riot among the people."
 
@@ -1294,7 +1295,7 @@
 
 **11** They were delighted to hear it and promised to give him money. So he began looking for an opportunity to hand him over.
 
-**12** On the first day of the Festival of Unleavened Bread, when the Passover lamb was sacrificed, Jesus' disciples asked him, "Where do you want us to go and prepare for you to eat the Passover?"
+**12** On the first day of the Festival of Bread Made without Yeast, when the Passover lamb was sacrificed, Jesus' disciples asked him, "Where do you want us to go and prepare for you to eat the Passover?"
 
 **13** He sent two of his disciples, telling them, "Go into the city, and a man carrying a jar of water will meet you. Follow him.
 
@@ -1430,7 +1431,7 @@
 [^14-12]: "The Power" is a reverent way of referring to God.
 [^14-13]: Psalm 110:1; Daniel 7:13.
 [^14-14]: Some manuscripts leave out "and a rooster crowed".
-[^14-15]: These words are in the SBLGNT, following most later manuscripts. Many modern editions leave them out.
+[^14-15]: These words are in the SBLGNT, following the Byzantine text; many modern editions leave them out.
 [^14-16]: The object of the curses is not stated: on himself, or on those accusing him.
 [^14-17]: The meaning of the Greek word translated "broke down" is uncertain; perhaps "he thought about it" or "he threw himself down".
 

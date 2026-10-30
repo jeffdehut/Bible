@@ -79,7 +79,7 @@
 [^1-8]: A title of God found often in Isaiah and only rarely elsewhere (2 Kings 19:22; Psalm 71:22): the holy God who has bound himself to Israel.
 [^1-9]: Literally "they are estranged backward".
 [^1-10]: Or "Where can you be beaten again?" The body is already wounded everywhere (verse 6).
-[^1-11]: Literally "like an overthrow by foreigners". *Overthrow* is the word used for the destruction of Sodom and Gomorrah (Genesis 19:25; Deuteronomy 29:22, 29:23 in most English Bibles), which are named in verses 9 and 10.
+[^1-11]: Literally "like an overthrow by foreigners". *Overthrow* is the word used for the destruction of Sodom and Gomorrah (Genesis 19:25; Deuteronomy 29:22; 29:23 in most English Bibles), which are named in verses 9 and 10.
 [^1-12]: A poetic name for Jerusalem and its people, pictured as a young woman.
 [^1-13]: Or "like a guarded city", a watchman's post left standing alone.
 [^1-14]: Hebrew *YHWH tseva'ot*, traditionally "the LORD of hosts" or "the LORD Almighty". *Tseva'ot* means armies: the heavenly hosts and the armies of Israel. The title is used often in Isaiah. Also in verse 24.
@@ -273,7 +273,7 @@
 [^4-4]: Literally "everyone written for life", that is, entered in the register of the living.
 [^4-5]: Or "wind" or "breath". Hebrew *ruach*.
 [^4-6]: The cloud and the fire recall the pillar that led Israel through the wilderness (Exodus 13:21–22).
-[^4-7]: Hebrew *chuppah*, a covering or canopy, the word later used for the canopy over a bride and groom (Psalm 19:6, 19:5 in most English Bibles; Joel 2:16).
+[^4-7]: Hebrew *chuppah*, a covering or canopy, the word later used for the canopy over a bride and groom (Psalm 19:6; 19:5 in most English Bibles; Joel 2:16).
 
 ## Chapter 5
 
@@ -299,19 +299,19 @@
 
 **10** For ten acres[^5-9] of vineyard will produce only one bath,[^5-10] and a homer of seed will produce only an ephah.[^5-11]
 
-**11** Woe to those who rise early in the morning to chase after beer, who stay up late at night till wine sets them on fire!
+**11** Woe to those who rise early in the morning to chase after beer,[^5-12] who stay up late at night till wine sets them on fire!
 
 **12** They have lyre and harp, tambourine and flute, and wine at their feasts, but they pay no attention to the deeds of the LORD, and they do not see the work of his hands.
 
-**13** Therefore my people go into exile for lack of knowledge.[^5-12] Their nobles are starving,[^5-13] and their masses are parched with thirst.
+**13** Therefore my people go into exile for lack of knowledge.[^5-13] Their nobles are starving,[^5-14] and their masses are parched with thirst.
 
-**14** Therefore Sheol[^5-14] has opened its throat wide[^5-15] and opened its mouth beyond measure. Down go her splendor and her masses, her noisy crowd and all who revel in her.[^5-16]
+**14** Therefore Sheol[^5-15] has opened its throat wide[^5-16] and opened its mouth beyond measure. Down go her splendor and her masses, her noisy crowd and all who revel in her.[^5-17]
 
 **15** So humankind is brought low, and everyone is humbled, and the eyes of the proud are humbled.
 
 **16** But the LORD of Armies is exalted by justice, and the holy God shows himself holy by righteousness.
 
-**17** Lambs will graze there as in their own pasture, and strangers will eat among the ruins of the rich.[^5-17]
+**17** Lambs will graze there as in their own pasture, and strangers will eat among the ruins of the rich.[^5-18]
 
 **18** Woe to those who drag guilt along with cords of falsehood, and sin as if with cart ropes,
 
@@ -321,15 +321,15 @@
 
 **21** Woe to those who are wise in their own eyes and clever in their own sight!
 
-**22** Woe to those who are heroes at drinking wine, and champions at mixing strong drinks,
+**22** Woe to those who are heroes at drinking wine, and champions at mixing beer,
 
 **23** who acquit the guilty for a bribe and deny justice to the innocent!
 
-**24** Therefore, as a tongue of fire devours straw and dry grass sinks down in the flame, their root will be like rot, and their blossom will blow away like dust. For they have rejected the instruction[^5-18] of the LORD of Armies and despised the word of the Holy One of Israel.
+**24** Therefore, as a tongue of fire devours straw and dry grass sinks down in the flame, their root will be like rot, and their blossom will blow away like dust. For they have rejected the instruction[^5-19] of the LORD of Armies and despised the word of the Holy One of Israel.
 
-**25** That is why the anger of the LORD burns against his people. He has stretched out his hand against them and struck them down. The mountains shook, and their corpses were like garbage in the middle of the streets. Yet for all this his anger has not turned away; his hand is still stretched out.[^5-19]
+**25** That is why the anger of the LORD burns against his people. He has stretched out his hand against them and struck them down. The mountains shook, and their corpses were like garbage in the middle of the streets. Yet for all this his anger has not turned away; his hand is still stretched out.[^5-20]
 
-**26** He will raise a signal flag for the nations far away and whistle for them[^5-20] from the ends of the earth. And look, swiftly, speedily they come!
+**26** He will raise a signal flag for the nations far away and whistle for them[^5-21] from the ends of the earth. And look, swiftly, speedily they come!
 
 **27** None of them is weary, and none stumbles; none slumbers or sleeps. Not a belt is loose at the waist, not a sandal strap is broken.
 
@@ -350,15 +350,16 @@
 [^5-9]: Literally "ten yokes": the land that ten teams of oxen could plow in a day.
 [^5-10]: A bath was about 6 gallons (22 liters).
 [^5-11]: A homer was ten ephahs (Ezekiel 45:11), probably about 220 liters (6 bushels). The harvest will be only a tenth of the seed sown.
-[^5-12]: Or "without knowing it".
-[^5-13]: Literally "Their glory are men of hunger". The same consonants can be read "dead from hunger".
-[^5-14]: Hebrew *Sheol*, the realm of the dead, pictured here as a monster with an open mouth.
-[^5-15]: Hebrew *nephesh*, here "throat, appetite".
-[^5-16]: *Her*: Jerusalem's.
-[^5-17]: Literally "the fat ones". The Septuagint reads "lambs" instead of "strangers". The meaning of the verse is uncertain.
-[^5-18]: Hebrew *torah*, "instruction, teaching, law".
-[^5-19]: This refrain returns in 9:11, 16 and 20 (9:12, 17 and 21 in most English Bibles) and in 10:4.
-[^5-20]: Literally "for it". The invader is singular in the Hebrew of verses 26–30, a single nation pictured as one army.
+[^5-12]: Or "fermented drink"; brewed from grain.
+[^5-13]: Or "without knowing it".
+[^5-14]: Literally "Their glory are men of hunger". The same consonants can be read "dead from hunger".
+[^5-15]: Hebrew *Sheol*, the realm of the dead, pictured here as a monster with an open mouth.
+[^5-16]: Hebrew *nephesh*, here "throat, appetite".
+[^5-17]: *Her*: Jerusalem's.
+[^5-18]: Literally "the fat ones". The Septuagint reads "lambs" instead of "strangers". The meaning of the verse is uncertain.
+[^5-19]: Hebrew *torah*, "instruction, teaching, law".
+[^5-20]: This refrain returns in 9:11, 16 and 20 (9:12, 17 and 21 in most English Bibles) and in 10:4.
+[^5-21]: Literally "for it". The invader is singular in the Hebrew of verses 26–30, a single nation pictured as one army.
 
 ## Chapter 6
 
@@ -480,7 +481,7 @@
 [^7-16]: Hebrew *nahalolim*, a word found only here. Perhaps "watering holes" or "pastures".
 [^7-17]: The Euphrates.
 [^7-18]: "The hair of the feet" probably means the hair of the body, including the private parts. Shaving a man's beard was a deep humiliation (2 Samuel 10:4–5).
-[^7-19]: A shekel is about 2/5 ounce (11.5 grams), so a thousand shekels is about 25 pounds (11.5 kg).
+[^7-19]: A shekel is about ⅖ ounce (11.5 grams), so a thousand shekels is about 25 pounds (11.5 kg).
 
 ## Chapter 8
 
@@ -1166,7 +1167,7 @@
 [^19-13]: Also called Tanis, a royal city in the Nile Delta.
 [^19-14]: Hebrew *Noph*, Memphis, the ancient capital of Egypt near modern Cairo.
 [^19-15]: Or "dizziness". Literally "a spirit of distortions".
-[^19-16]: The top and bottom of society (9:13–14, 9:14–15 in most English Bibles).
+[^19-16]: The top and bottom of society (9:13–14; 9:14–15 in most English Bibles).
 [^19-17]: That is, Hebrew or a related language.
 [^19-18]: Hebrew *ir ha-heres*. Some Hebrew manuscripts, the Great Isaiah Scroll from Qumran (1QIsa-a) and the Vulgate read *ir ha-cheres*, "City of the Sun", that is, Heliopolis in Egypt. The Septuagint reads "City of Righteousness".
 [^19-19]: Hebrew *matsevah*, a standing stone, a pillar set up as a memorial or as an object of worship. The law forbade them in Israel (Deuteronomy 16:22).
@@ -1495,7 +1496,7 @@
 
 *Status: draft*
 
-**1** On that day this song will be sung in the land of Judah: "We have a strong city; he sets up salvation as its walls and ramparts.[^26-1]
+**1** On that day this song will be sung in the land of Judah: We have a strong city; he sets up salvation as its walls and ramparts.[^26-1]
 
 **2** Open the gates, so that the righteous nation may enter, the nation that keeps faith.
 
@@ -1505,7 +1506,7 @@
 
 **5** For he has brought down those who live on high, the lofty city. He lays it low, lays it low to the ground, and casts it down to the dust.
 
-**6** The foot tramples it, the feet of the poor, the steps of the needy."
+**6** The foot tramples it, the feet of the poor, the steps of the needy.
 
 **7** The path of the righteous is level; you, the Upright One, make smooth the way of the righteous.[^26-6]
 
@@ -2201,7 +2202,7 @@
 
 **21** Then Isaiah son of Amoz sent this message to Hezekiah: "This is what the LORD, the God of Israel, says: Because you have prayed to me about Sennacherib king of Assyria,[^37-14]
 
-**22** this is the word that the LORD has spoken against him: The virgin daughter Zion[^37-15] despises you and mocks you. Daughter Jerusalem tosses her head behind your back.
+**22** this is the word that the LORD has spoken against him: The virgin Daughter Zion[^37-15] despises you and mocks you. Daughter Jerusalem tosses her head behind your back.
 
 **23** Whom have you mocked and insulted? Against whom have you raised your voice and lifted your eyes in pride? Against the Holy One of Israel!
 
@@ -2317,7 +2318,7 @@
 [^38-6]: In 2 Kings 20:8–11 Hezekiah first asks for a sign (compare verse 22), and Isaiah lets him choose whether the shadow will go forward or back.
 [^38-7]: Literally "the shadow of the steps, which has gone down on the steps of Ahaz". The "steps" were probably those of a stairway whose shadow marked the time of day. The Great Isaiah Scroll from Qumran (1QIsa-a) reads "the steps of the upper room of Ahaz" (compare 2 Kings 23:12).
 [^38-8]: Hebrew *mikhtav*. Some scholars read *miktam*, a term found in the titles of Psalms 16 and 56–60, with a small change to the Hebrew. The psalm in verses 10–20 has many rare words, and its meaning is uncertain in places.
-[^38-9]: Hebrew *bidmi yamai*, perhaps "in the quiet of my days" or "in the middle of my days" (compare Psalm 102:25, 102:24 in most English Bibles).
+[^38-9]: Hebrew *bidmi yamai*, perhaps "in the quiet of my days" or "in the middle of my days" (compare Psalm 102:25; 102:24 in most English Bibles).
 [^38-10]: Hebrew *Sheol*, the realm of the dead. Also in verse 18.
 [^38-11]: Or "I am consigned there for the rest of my years".
 [^38-12]: *Yah* is a short form of the name YHWH (12:2).
@@ -2693,7 +2694,7 @@
 [^43-12]: Hebrew *minchah*, "gift, tribute", in Leviticus a grain offering. *Burdened* is literally "made you serve".
 [^43-13]: Hebrew *qaneh*, "reed", an aromatic cane used to make the anointing oil (Exodus 30:23, "fragrant cane"). A play on words: *lo qanita … qaneh*, "you have not bought … cane".
 [^43-14]: *Burdened me* and *wearied me* are the verbs of verse 23: Israel has not served the LORD, but has made the LORD serve Israel's sins.
-[^43-15]: Literally "Your first father", perhaps Jacob (Hosea 12:3–5, 12:2–4 in most English Bibles), or Abraham.
+[^43-15]: Literally "Your first father", perhaps Jacob (Hosea 12:3–5; 12:2–4 in most English Bibles), or Abraham.
 [^43-16]: Hebrew *melitsim*, "interpreters, go-betweens", perhaps the priests and prophets.
 [^43-17]: Or "the holy princes", perhaps the priests. The Hebrew verbs in this verse can also be read as future: "So I will profane … I will hand Jacob over".
 [^43-18]: Hebrew *cherem*, "devotion to destruction" (34:2).
@@ -2906,7 +2907,7 @@
 
 *Status: draft*
 
-**1** Go down and sit in the dust, virgin daughter Babylon![^47-1] Sit on the ground without a throne, daughter of the Chaldeans![^47-2] For you will no longer be called tender and delicate.
+**1** Go down and sit in the dust, virgin Daughter Babylon![^47-1] Sit on the ground without a throne, daughter of the Chaldeans![^47-2] For you will no longer be called tender and delicate.
 
 **2** Take millstones and grind flour.[^47-3] Remove your veil; strip off your skirt; bare your legs and wade through the rivers.
 
@@ -3183,7 +3184,7 @@
 [^51-5]: Hebrew *argia*, perhaps "I will establish" or "in a moment", joined to the next verse.
 [^51-6]: Hebrew *iyyim*, the islands and coasts of the Mediterranean (11:11), and in these chapters the most distant lands.
 [^51-7]: Hebrew *kemo-khen*, perhaps "like gnats" (*ken*) or "in the same way".
-[^51-8]: Hebrew *Rahav*, a sea monster, a figure of the chaos that God overcame (Job 9:13; 26:12; Psalm 89:11, 89:10 in most English Bibles), and a poetic name for Egypt (30:7; Psalm 87:4). It is not the Rahab of Joshua 2, whose name is spelled differently in Hebrew.
+[^51-8]: Hebrew *Rahav*, a sea monster, a figure of the chaos that God overcame (Job 9:13; 26:12; Psalm 89:11; 89:10 in most English Bibles), and a poetic name for Egypt (30:7; Psalm 87:4). It is not the Rahab of Joshua 2, whose name is spelled differently in Hebrew.
 [^51-9]: Hebrew *tannin*, "sea monster, dragon" (27:1). The defeat of the monsters of the sea is joined in verse 10 with the crossing of the Red Sea.
 [^51-10]: Hebrew *ge'ulim*, those whom the LORD has rescued as next of kin (41:14).
 [^51-11]: Verse 11 repeats 35:10.
@@ -3192,7 +3193,7 @@
 [^51-14]: Hebrew *shachat*, "pit, grave", the world of the dead.
 [^51-15]: Or "who stills the sea when its waves roar". The same line is found in Jeremiah 31:35.
 [^51-16]: *The LORD of Armies* (Hebrew *YHWH tseva'ot*) is traditionally "the LORD of hosts" or "the LORD Almighty". *Tseva'ot* means armies: the heavenly hosts and the armies of Israel.
-[^51-17]: Literally "the bowl of the cup of reeling you have drunk, you have drained". The cup stands for the judgment God gives his people to drink (Jeremiah 25:15–17; Psalm 75:9, 75:8 in most English Bibles).
+[^51-17]: Literally "the bowl of the cup of reeling you have drunk, you have drained". The cup stands for the judgment God gives his people to drink (Jeremiah 25:15–17; Psalm 75:9; 75:8 in most English Bibles).
 [^51-18]: Literally "Who, I will comfort you?" The Great Isaiah Scroll from Qumran (1QIsa-a) and the Septuagint read "Who will comfort you?"
 [^51-19]: Literally "to your *nephesh*".
 
@@ -3294,7 +3295,7 @@
 [^53-15]: Literally "for the rebellion of my people, a blow to them" (or "to him"). The Septuagint reads "for the lawless acts of my people he was led to death".
 [^53-16]: Literally "in his deaths". *They made* is literally "he gave" or "one gave". The *rich* stand in parallel with the *wicked*, perhaps as oppressors. Compare the burial of Jesus in the tomb of Joseph of Arimathea, a rich man (Matthew 27:57–60).
 [^53-17]: 1 Peter 2:22 quotes this line.
-[^53-18]: Or "When his life makes a guilt offering". The Hebrew verb can mean "you make" or "it makes". Hebrew *asham*, the guilt offering (Leviticus 5:14–26, 5:14–6:7 in most English Bibles), also called the reparation offering, which made up for a wrong done. *Life* is Hebrew *nephesh*, also in verses 11–12.
+[^53-18]: Or "When his life makes a guilt offering". The Hebrew verb can mean "you make" or "it makes". Hebrew *asham*, the guilt offering (Leviticus 5:14–26; 5:14–6:7 in most English Bibles), also called the reparation offering, which made up for a wrong done. *Life* is Hebrew *nephesh*, also in verses 11–12.
 [^53-19]: The Great Isaiah Scroll from Qumran (1QIsa-a), two other Isaiah scrolls from Qumran and the Septuagint read "he will see light".
 [^53-20]: Or "By knowing him", that is, by the knowledge others gain of him.
 [^53-21]: Hebrew *yatsdiq*, "make righteous, declare righteous, bring justice to" (50:8). *Many* (Hebrew *rabbim*) is repeated from 52:14–15 and is found again twice in verse 12.
@@ -3387,7 +3388,7 @@
 
 [^55-1]: Hebrew *hoy*, usually "Woe to" (1:4). Here it is a call for attention, like the cry of a seller in the market.
 [^55-2]: Literally "and your *nephesh* will delight in fatness". Also in verse 3, "so that your *nephesh* may live".
-[^55-3]: Literally "the sure faithful acts (*chesed*) of David", the lasting love the LORD promised to David and his house (2 Samuel 7:15–16; Psalm 89:2–5, 29, 89:1–4, 28 in most English Bibles). Acts 13:34 quotes these words from the Septuagint: "I will give you the holy and sure things of David."
+[^55-3]: Literally "the sure faithful acts (*chesed*) of David", the lasting love the LORD promised to David and his house (2 Samuel 7:15–16; Psalm 89:2–5, 29; 89:1–4, 28 in most English Bibles). Acts 13:34 quotes these words from the Septuagint: "I will give you the holy and sure things of David."
 [^55-4]: *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles.
 
 ## Chapter 56
@@ -3420,7 +3421,7 @@
 
 [^56-1]: *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles.
 [^56-2]: Hebrew *tsedaqah*, the word translated "righteousness" later in the verse.
-[^56-3]: The law shut men who had been castrated, and some foreigners, out of the assembly of the LORD (Deuteronomy 23:2–4, 23:1–3 in most English Bibles). A eunuch could have no children to carry on his name.
+[^56-3]: The law shut men who had been castrated, and some foreigners, out of the assembly of the LORD (Deuteronomy 23:2–4; 23:1–3 in most English Bibles). A eunuch could have no children to carry on his name.
 [^56-4]: Hebrew *yad va-shem*, literally "a hand and a name": a monument that keeps a name alive (2 Samuel 18:18). *Them* in the next sentence is literally "him", each one of them.
 [^56-5]: Jesus quotes this line in Mark 11:17 when he drives the traders out of the temple courts.
 [^56-6]: The leaders of Israel. *Its* is literally "his", Israel's.
@@ -3792,7 +3793,7 @@
 [^63-9]: *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles.
 [^63-10]: Literally "to him was distress". The Hebrew text is written *lo*, "not", but read *lo*, "to him": the written text may mean "In all their distress he did not afflict them". The Septuagint reads "not an envoy or an angel, but he himself saved them".
 [^63-11]: Literally "the angel of his face". Or "the messenger of his presence". Compare Exodus 23:20–23; 33:14–15.
-[^63-12]: Literally "the spirit of his holiness" (Psalm 51:13, 51:11 in most English Bibles). Also in verse 11. Ephesians 4:30 echoes this line.
+[^63-12]: Literally "the spirit of his holiness" (Psalm 51:13; 51:11 in most English Bibles). Also in verse 11. Ephesians 4:30 echoes this line.
 [^63-13]: Literally "And he remembered the days of old, Moses, his people". The Hebrew is difficult.
 [^63-14]: Literally "gave him rest", that is, gave rest to the people.
 [^63-15]: Literally "the stirring of your inner parts".

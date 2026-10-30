@@ -58,7 +58,7 @@
 [^1-19]: Literally "a complete exile". Also in verse 9. The people were sold as slaves.
 [^1-20]: Gaza, Ashdod, Ashkelon and Ekron were four of the five chief cities of the Philistines. The fifth, Gath, is not named (compare 6:2).
 [^1-21]: Hebrew *Adonai YHWH*, "my Lord YHWH". After "Lord", God's personal name is written GOD in capitals, as in most English Bibles.
-[^1-22]: A treaty that bound the two sides as "brothers", perhaps with Israel (1 Kings 5:26, 5:12 in most English Bibles; 9:13).
+[^1-22]: A treaty that bound the two sides as "brothers", perhaps with Israel (1 Kings 5:26; 5:12 in most English Bibles; 9:13).
 [^1-23]: Israel. Edom was descended from Esau, the brother of Jacob (Genesis 25:24–26; 36:1).
 [^1-24]: Literally "destroyed his compassion".
 [^1-25]: Or "his fury kept watch forever". Many scholars read "he kept his anger forever" in the first line too, with a small change to the Hebrew.
@@ -115,7 +115,7 @@
 [^2-11]: Literally "who pant for the dust of the earth on the head of the poor". The verb *sha'af* means "pant, long for", but here it may be a form of *shuf*, "trample". If it means "long for", they covet even the dust that the poor throw on their heads in grief.
 [^2-12]: Literally "turn aside the way of the humble", that is, deny them justice.
 [^2-13]: Hebrew *na'arah*, a girl or young woman, perhaps a servant in the household. Compare Leviticus 18:8, 15.
-[^2-14]: The law required a cloak taken as a pledge for a debt to be given back before night (Exodus 22:25–26, 22:26–27 in most English Bibles; Deuteronomy 24:12–13).
+[^2-14]: The law required a cloak taken as a pledge for a debt to be given back before night (Exodus 22:25–26; 22:26–27 in most English Bibles; Deuteronomy 24:12–13).
 [^2-15]: Or "their gods".
 [^2-16]: Here the peoples who lived in Canaan before Israel (Genesis 15:16; Numbers 13:32–33).
 [^2-17]: People dedicated to God by a vow, who drank no wine (Numbers 6:1–21).
@@ -168,7 +168,7 @@
 [^3-8]: Hebrew *ne'um YHWH*, "the declaration of the LORD", a formula that marks a prophet's words as the LORD's own solemn statement. Also in verses 13 and 15.
 [^3-9]: Literally "An enemy, and around the land!" The Hebrew is abrupt.
 [^3-10]: Literally "He will bring down your strength from you". The Hebrew addresses Samaria as "you" (feminine).
-[^3-11]: A shepherd brought back such remains as proof that a wild animal had killed the sheep, so that he would not have to repay it (Exodus 22:12, 22:13 in most English Bibles; Genesis 31:39).
+[^3-11]: A shepherd brought back such remains as proof that a wild animal had killed the sheep, so that he would not have to repay it (Exodus 22:12; 22:13 in most English Bibles; Genesis 31:39).
 [^3-12]: The meaning is uncertain. Literally "with the corner of a bed and with Damascus of a couch". *Damascus* may be a word for fine fabric, or a word for part of a couch. Or "so the people of Israel will be rescued, those who sit in Samaria on the corner of a bed and on the cushions of a couch".
 [^3-13]: Hebrew *Adonai YHWH Elohei ha-tseva'ot*, "the Lord GOD, the God of the Armies". *Tseva'ot* means armies: the heavenly hosts and the armies of Israel. Compare "the LORD of Armies", traditionally "the LORD of hosts" or "the LORD Almighty".
 [^3-14]: Literally "On the day I punish the crimes of Israel on him".
@@ -206,7 +206,7 @@
 
 **13** For look, he who forms the mountains and creates the wind,[^4-20] who tells human beings what his thoughts are,[^4-21] who turns the dawn into darkness,[^4-22] and treads on the heights of the earth: the LORD, the God of Armies,[^4-23] is his name.
 
-[^4-1]: A fertile highland east of the Sea of Galilee, famous for its well-fed cattle (Deuteronomy 32:14; Psalm 22:13, 22:12 in most English Bibles). Here the phrase describes the wealthy women of Samaria.
+[^4-1]: A fertile highland east of the Sea of Galilee, famous for its well-fed cattle (Deuteronomy 32:14; Psalm 22:13; 22:12 in most English Bibles). Here the phrase describes the wealthy women of Samaria.
 [^4-2]: Literally "their lords".
 [^4-3]: Hebrew *Adonai YHWH*, "my Lord YHWH". After "Lord", God's personal name is written GOD in capitals, as in most English Bibles. *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles. *The Lord GOD* is also in verse 5.
 [^4-4]: The meaning of both words for hooks is uncertain. Or "in baskets … in fishing pots". *The last of you* may also mean "your descendants".
@@ -305,7 +305,7 @@
 [^5-15]: Hebrew *YHWH Elohei tseva'ot*, "the LORD, the God of Armies". *Tseva'ot* means armies: the heavenly hosts and the armies of Israel. Compare "the LORD of Armies", traditionally "the LORD of hosts" or "the LORD Almighty". Also in verses 15, 16 and 27.
 [^5-16]: Hebrew *Adonai*, "the Lord", not the name YHWH.
 [^5-17]: Hebrew *ho ho*, a cry of grief, related to *hoy* (verse 18).
-[^5-18]: Professional mourners, often women (Jeremiah 9:16, 9:17 in most English Bibles).
+[^5-18]: Professional mourners, often women (Jeremiah 9:16; 9:17 in most English Bibles).
 [^5-19]: As the LORD passed through Egypt on the night of the Passover (Exodus 12:12).
 [^5-20]: Hebrew *hoy*, a cry of mourning for the dead ("Alas!", 1 Kings 13:30). The prophets use it to announce disaster, and in that sense it is translated "Woe to" throughout this book.
 [^5-21]: The day when the LORD would act in power. The people expected it to bring victory and light for Israel.
@@ -348,7 +348,7 @@
 **14** For look, I am raising up a nation against you, house of Israel, declares the LORD, the God of Armies, and they will oppress you from Lebo-hamath to the Wadi of the Arabah.[^6-16]
 
 [^6-1]: Hebrew *hoy*. See 5:18.
-[^6-2]: Calneh and Hamath were cities in northern Syria, and Gath one of the five Philistine cities. All three had been conquered (Isaiah 10:9; 2 Kings 12:18, 12:17 in most English Bibles). The point may be that Israel is no safer than they were.
+[^6-2]: Calneh and Hamath were cities in northern Syria, and Gath one of the five Philistine cities. All three had been conquered (Isaiah 10:9; 2 Kings 12:18; 12:17 in most English Bibles). The point may be that Israel is no safer than they were.
 [^6-3]: Literally "the seat of violence", perhaps a court of injustice.
 [^6-4]: Hebrew *paratim*, found only here. Perhaps "strum" or "sing idle songs".
 [^6-5]: Literally "from bowls". The word is used for the large bowls in which the blood of sacrifices was collected (Exodus 27:3).
@@ -464,8 +464,8 @@
 [^8-7]: The Hebrew is abrupt. Literally "Many the corpse; in every place he has thrown; hush!" Compare 6:10.
 [^8-8]: See 2:7.
 [^8-9]: The Hebrew text is written "the humble of the land" but read "the poor of the land".
-[^8-10]: Trading stopped on the new moon and the Sabbath (2 Kings 4:23; Nehemiah 10:32, 10:31 in most English Bibles). *Open the stores of wheat*: literally "open wheat".
-[^8-11]: The ephah was the measure in which grain was sold, probably about 22 liters (two-thirds of a bushel). The shekel was the weight, about 2/5 ounce (11.5 grams), used to weigh the buyer's silver. A small measure and a heavy weight cheated the buyer twice.
+[^8-10]: Trading stopped on the new moon and the Sabbath (2 Kings 4:23; Nehemiah 10:32; 10:31 in most English Bibles). *Open the stores of wheat*: literally "open wheat".
+[^8-11]: The ephah was the measure in which grain was sold, probably about 22 liters (two-thirds of a bushel). The shekel was the weight, about ⅖ ounce (11.5 grams), used to weigh the buyer's silver. A small measure and a heavy weight cheated the buyer twice.
 [^8-12]: Compare 2:6.
 [^8-13]: Perhaps a title of God, like "the Glory of Israel" (1 Samuel 15:29). Or the LORD swears by the arrogance of Jacob (6:8), which is as sure not to change as his own oath.
 [^8-14]: Hebrew *ka'or*, "like the light", probably a short spelling of *kay'or*, "like the Nile", as in 9:5. The Nile rose in flood every year and fell again.

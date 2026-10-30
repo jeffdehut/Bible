@@ -343,8 +343,8 @@
 [^4-16]: Or "calls things that do not exist as though they did". Literally "calls the things that are not as being".
 [^4-17]: Genesis 15:5.
 [^4-18]: Many manuscripts read "he did not consider".
-[^4-19]: Many manuscripts read "already as good as dead". The SBLGNT leaves out "already", following a marginal reading of Westcott and Hort.
-[^4-20]: Many manuscripts read "That is why also". The SBLGNT leaves out "also", following a marginal reading of Westcott and Hort. The words that follow are Genesis 15:6, as in verse 3.
+[^4-19]: The word "already" is not in the SBLGNT, which follows a marginal reading of Westcott and Hort; the other editions read "already as good as dead".
+[^4-20]: The word "also" is not in the SBLGNT, which follows a marginal reading of Westcott and Hort; the other editions read "That is why also". The words that follow are Genesis 15:6, as in verse 3.
 [^4-21]: Literally "because of our justification" (Greek *dikaiosis*, from the same root as *dikaioo*). *For* in this verse also means "because of". Compare Isaiah 53:12.
 
 ## Chapter 5
@@ -1089,7 +1089,7 @@
 [^14-5]: Greek *adelphos*, "brother", a fellow believer; also in verses 13, 15 and 21.
 [^14-6]: Many manuscripts read "the judgment seat of Christ".
 [^14-7]: Isaiah 49:18 (and elsewhere), combined with Isaiah 45:23 as in the Septuagint, which has "every tongue will confess to God" where the Hebrew has "every tongue will swear allegiance". In the Hebrew, "the Lord" is God's personal name, YHWH ("the LORD"): "As surely as I live, declares the LORD". *Confess to God*: or "praise God".
-[^14-8]: Many manuscripts add "to God". The SBLGNT leaves it out, following a marginal reading of Westcott and Hort.
+[^14-8]: The words "to God" are not in the SBLGNT, which follows a marginal reading of Westcott and Hort; the other editions read "give an account of himself to God".
 [^14-9]: *Judge* and *decide* translate the same Greek verb, *krino*.
 [^14-10]: Greek *koinos*, "common", that is, ritually unclean; also later in the verse.
 [^14-11]: Many manuscripts read "But".

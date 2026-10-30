@@ -7,7 +7,7 @@
 
 *Status: draft*
 
-**1** After the death of Joshua, the Israelites asked the LORD,[^1-1] "Which of us is to go up first against the Canaanites, to fight against them?"
+**1** After the death of Joshua, the Israelites inquired of the LORD,[^1-1] "Which of us is to go up first against the Canaanites, to fight against them?"
 
 **2** The LORD said, "Judah is to go up. I have handed the land over to him."[^1-2]
 
@@ -23,7 +23,7 @@
 
 **8** The people of Judah[^1-6] fought against Jerusalem and captured it. They put it to the sword[^1-7] and set the city on fire.
 
-**9** Afterward the people of Judah went down to fight against the Canaanites who lived in the hill country, in the Negev[^1-8] and in the western foothills.[^1-9]
+**9** Afterward the people of Judah went down to fight against the Canaanites who lived in the hill country, in the Negev[^1-8] and in the Shephelah.[^1-9]
 
 **10** Judah went against the Canaanites who lived in Hebron (Hebron was formerly called Kiriath-arba),[^1-10] and they defeated Sheshai, Ahiman and Talmai.[^1-11]
 
@@ -79,7 +79,7 @@
 
 **36** The border of the Amorites ran from the Ascent of Akrabbim,[^1-36] from Sela,[^1-37] and upward.
 
-[^1-1]: *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles. To "ask the LORD" was to seek a ruling from him, probably by the sacred lot (Numbers 27:21; 1 Samuel 14:37–42).
+[^1-1]: *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles. To "inquire of the LORD" (literally "ask of the LORD") was to seek a ruling from him, probably by the sacred lot (Numbers 27:21; 1 Samuel 14:37–42).
 [^1-2]: Literally "Look, I have given the land into his hand." Judah is spoken of as one person, the tribe's ancestor; also in verse 3.
 [^1-3]: Literally "into my lot": the territory assigned to each tribe by lot (Joshua 15; 19:1–9).
 [^1-4]: *Adoni-bezek* means "lord of Bezek".
@@ -87,7 +87,7 @@
 [^1-6]: Literally "the sons of Judah"; also in verse 9.
 [^1-7]: Literally "struck it by the mouth of the sword"; also in verse 25.
 [^1-8]: The dry country in the south of the land. Also in verses 15 and 16.
-[^1-9]: Hebrew *shephelah*: the low hills between the central hill country and the coastal plain.
+[^1-9]: The low hills between the coastal plain and the hill country of Judah.
 [^1-10]: *Kiriath-arba* means "town of Arba" or "town of four".
 [^1-11]: The descendants of Anak, a people of great size (Numbers 13:22; Joshua 15:14).
 [^1-12]: *Kiriath-sepher* means "town of the book" or "town of the scribe".
@@ -355,7 +355,7 @@
 
 **1** On that day Deborah and Barak son of Abinoam sang this song:[^5-1]
 
-**2** "When the leaders took the lead in Israel,[^5-2] when the people offered themselves willingly, bless the LORD![^5-3]
+**2** When the leaders took the lead in Israel,[^5-2] when the people offered themselves willingly, bless the LORD![^5-3]
 
 **3** Hear, you kings! Listen, you rulers! I, to the LORD, I will sing; I will make music to the LORD, the God of Israel.
 
@@ -397,7 +397,7 @@
 
 **22** Then the horses' hooves hammered with the galloping, the galloping of his stallions.[^5-26]
 
-**23** 'Curse Meroz,' said the angel of the LORD,[^5-27] 'bitterly curse its people, because they did not come to help the LORD, to help the LORD against the warriors.'[^5-28]
+**23** "Curse Meroz," said the angel of the LORD,[^5-27] "bitterly curse its people, because they did not come to help the LORD, to help the LORD against the warriors."[^5-28]
 
 **24** Most blessed of women is Jael, the wife of Heber the Kenite, most blessed of women who live in tents.
 
@@ -407,13 +407,13 @@
 
 **27** Between her feet he sank down, he fell, he lay still. Between her feet he sank down, he fell. Where he sank down, there he fell, destroyed.[^5-29]
 
-**28** Through the window she looked out; Sisera's mother cried out[^5-30] through the lattice: 'Why is his chariot so slow to come? Why are the hoofbeats of his chariots so late?'
+**28** Through the window she looked out; Sisera's mother cried out[^5-30] through the lattice: "Why is his chariot so slow to come? Why are the hoofbeats of his chariots so late?"
 
 **29** The wisest of her ladies answer her; and she answers herself again and again:[^5-31]
 
-**30** 'Aren't they finding and dividing the plunder? A girl, two girls[^5-32] for every warrior; plunder of dyed cloth for Sisera, plunder of dyed cloth, embroidered, dyed cloth, two pieces of embroidery for the necks of the plunderer.'[^5-33]
+**30** "Aren't they finding and dividing the plunder? A girl, two girls[^5-32] for every warrior; plunder of dyed cloth for Sisera, plunder of dyed cloth, embroidered, dyed cloth, two pieces of embroidery for the necks of the plunderer."[^5-33]
 
-**31** So may all your enemies perish, LORD! But may those who love him be like the sun when it rises in its strength."[^5-34] And the land had peace[^5-35] for forty years.
+**31** So may all your enemies perish, LORD! But may those who love him be like the sun when it rises in its strength.[^5-34] And the land had peace[^5-35] for forty years.
 
 [^5-1]: Literally "sang on that day, saying". The verb is feminine singular, which puts Deborah first. The Song of Deborah is one of the oldest poems in the Bible. Its language is ancient, and in many lines the meaning is uncertain.
 [^5-2]: The meaning of this line is uncertain. It may instead mean "When locks of hair hung loose in Israel", referring to warriors who left their hair uncut under a vow (compare Numbers 6:5).
@@ -469,11 +469,11 @@
 
 **7** When the Israelites cried out to the LORD because of Midian,
 
-**8** the LORD sent a prophet to the Israelites. He said to them, "This is what the LORD, the God of Israel, says: 'I brought you up from Egypt and brought you out of the place of slavery.[^6-5]
+**8** the LORD sent a prophet to the Israelites. He said to them, "This is what the LORD, the God of Israel, says: I brought you up from Egypt and brought you out of the place of slavery.[^6-5]
 
 **9** I rescued you from the power of Egypt and from the power of all who oppressed you. I drove them out before you and gave you their land.
 
-**10** I said to you, "I am the LORD your God. Do not fear the gods of the Amorites, in whose land you are living." But you have not obeyed me.'"[^6-6]
+**10** I said to you, 'I am the LORD your God. Do not fear the gods of the Amorites, in whose land you are living.' But you have not obeyed me."[^6-6]
 
 **11** Then the angel of the LORD[^6-7] came and sat under the oak at Ophrah that belonged to Joash the Abiezrite. His son Gideon was threshing wheat in the winepress, to hide it from the Midianites.[^6-8]
 
@@ -491,11 +491,11 @@
 
 **18** Please do not leave here until I come back to you and bring out my offering and set it before you." He said, "I will stay until you come back."
 
-**19** So Gideon went in and prepared a young goat, and unleavened bread from an ephah[^6-15] of flour. He put the meat in a basket and the broth in a pot, and he brought them out to him under the oak and presented them.
+**19** So Gideon went in and prepared a young goat, and bread made without yeast from an ephah[^6-15] of flour. He put the meat in a basket and the broth in a pot, and he brought them out to him under the oak and presented them.
 
-**20** The angel of God said to him, "Take the meat and the unleavened bread, put them on this rock, and pour out the broth." And he did so.
+**20** The angel of God said to him, "Take the meat and the bread made without yeast, put them on this rock, and pour out the broth." And he did so.
 
-**21** Then the angel of the LORD reached out the tip of the staff in his hand and touched the meat and the unleavened bread. Fire flared up from the rock and consumed the meat and the unleavened bread, and the angel of the LORD vanished from his sight.[^6-16]
+**21** Then the angel of the LORD reached out the tip of the staff in his hand and touched the meat and the bread made without yeast. Fire flared up from the rock and consumed the meat and the bread made without yeast, and the angel of the LORD vanished from his sight.[^6-16]
 
 **22** When Gideon saw that it was the angel of the LORD, Gideon said, "Oh no, Lord GOD! For I have seen the angel of the LORD face to face!"[^6-17]
 
@@ -717,7 +717,7 @@
 [^8-12]: Hebrew *nezem*, an earring or a nose ring. Also in verses 25 and 26.
 [^8-13]: *Ishmaelites* here seems to be a general name for the desert traders. Compare Genesis 37:25–28, where Ishmaelites and Midianites appear together.
 [^8-14]: Literally "We will surely give."
-[^8-15]: Literally "a thousand and seven hundred of gold". A shekel is about 2/5 ounce (11.5 grams), so 1,700 shekels is about 43 pounds (19.5 kg).
+[^8-15]: Literally "a thousand and seven hundred of gold". A shekel is about ⅖ ounce (11.5 grams), so 1,700 shekels is about 43 pounds (19.5 kg).
 [^8-16]: Hebrew *ephod*. In Exodus 28:6–14 the ephod is a garment worn by the high priest. Here it seems to be an object used in worship, perhaps to seek guidance from God.
 [^8-17]: Literally "went whoring after it there", an image of unfaithfulness to the LORD.
 [^8-18]: Literally "was quiet".
@@ -1130,7 +1130,7 @@
 [^13-1]: *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles.
 [^13-2]: Literally "was barren"; also in verse 3.
 [^13-3]: Or "the messenger of the LORD". Hebrew *mal'akh* means messenger. The same is true of "the angel of God" in verses 6 and 9.
-[^13-4]: Hebrew *shekhar*, an alcoholic drink, probably beer made from grain. Also in verses 7 and 14.
+[^13-4]: Or "fermented drink"; brewed from grain. Hebrew *shekhar*. Also in verses 7 and 14.
 [^13-5]: Literally "No razor is to go up on his head."
 [^13-6]: Hebrew *nazir*, "one set apart, dedicated". The Nazirite's vow is described in Numbers 6:1–21. Also in verse 7.
 [^13-7]: Literally "listened to the voice of Manoah".
@@ -1397,7 +1397,7 @@
 
 **4** He said to them, "Micah has done this and that for me. He has hired me, and I have become his priest."
 
-**5** They said to him, "Please ask God, so that we may know whether the journey we are on will succeed."
+**5** They said to him, "Please inquire of God, so that we may know whether the journey we are on will succeed."
 
 **6** The priest said to them, "Go in peace. The journey you are on is under the eye of the LORD."[^18-2]
 
@@ -1557,7 +1557,7 @@
 
 **1** Then all the Israelites came out, from Dan to Beersheba and from the land of Gilead, and the community assembled as one man before the LORD[^20-1] at Mizpah.
 
-**2** The leaders[^20-2] of all the people, of all the tribes of Israel, took their places in the assembly of the people of God: four hundred thousand foot soldiers armed with swords.
+**2** The leaders[^20-2] of all the people, of all the tribes of Israel, took their places in the assembly of the people of God: 400,000 foot soldiers armed with swords.
 
 **3** The Benjaminites heard that the Israelites had gone up to Mizpah. The Israelites said, "Tell us how this evil thing happened."
 
@@ -1583,31 +1583,31 @@
 
 **14** Instead the Benjaminites came together from their towns to Gibeah, to go out to battle against the Israelites.
 
-**15** On that day the Benjaminites mustered from their towns twenty-six thousand men armed with swords, besides the people of Gibeah, who mustered seven hundred chosen men.
+**15** On that day the Benjaminites mustered from their towns 26,000 men armed with swords, besides the people of Gibeah, who mustered 700 chosen men.
 
-**16** Among all these troops there were seven hundred chosen men who were left-handed.[^20-10] Every one of them could sling a stone at a hair and not miss.
+**16** Among all these troops there were 700 chosen men who were left-handed.[^20-10] Every one of them could sling a stone at a hair and not miss.
 
-**17** The men of Israel, not counting Benjamin, mustered four hundred thousand men armed with swords, all of them warriors.
+**17** The men of Israel, not counting Benjamin, mustered 400,000 men armed with swords, all of them warriors.
 
-**18** The Israelites set out and went up to Bethel[^20-11] and asked God, "Which of us is to go up first to battle against the Benjaminites?" The LORD said, "Judah first."
+**18** The Israelites set out and went up to Bethel[^20-11] and inquired of God, "Which of us is to go up first to battle against the Benjaminites?" The LORD said, "Judah first."
 
 **19** The Israelites got up in the morning and camped against Gibeah.
 
 **20** The men of Israel went out to battle against Benjamin, and the men of Israel drew up their battle lines against them at Gibeah.
 
-**21** The Benjaminites came out of Gibeah and cut down twenty-two thousand Israelites on the battlefield that day.[^20-12]
+**21** The Benjaminites came out of Gibeah and cut down 22,000 Israelites on the battlefield that day.[^20-12]
 
 **22** But the troops, the men of Israel, took courage, and they again drew up their battle lines in the same place where they had drawn them up on the first day.
 
-**23** The Israelites went up and wept before the LORD until evening. They asked the LORD, "Shall we go out again to battle against our brothers the Benjaminites?"[^20-13] The LORD said, "Go up against them."
+**23** The Israelites went up and wept before the LORD until evening. They inquired of the LORD, "Shall we go out again to battle against our brothers the Benjaminites?"[^20-13] The LORD said, "Go up against them."
 
 **24** So the Israelites advanced against the Benjaminites on the second day.
 
-**25** On the second day Benjamin came out of Gibeah to meet them, and they cut down eighteen thousand more Israelites on the battlefield, all of them armed with swords.
+**25** On the second day Benjamin came out of Gibeah to meet them, and they cut down 18,000 more Israelites on the battlefield, all of them armed with swords.
 
 **26** Then all the Israelites, the whole army, went up to Bethel. They wept and sat there before the LORD, and they fasted that day until evening. They offered burnt offerings and fellowship offerings[^20-14] before the LORD.
 
-**27** The Israelites asked the LORD (for the ark of the covenant of God was there in those days,
+**27** The Israelites inquired of the LORD (for the ark of the covenant of God was there in those days,
 
 **28** and Phinehas son of Eleazar, son of Aaron, served before it[^20-15] in those days), "Shall we go out yet again to battle against our brothers the Benjaminites, or shall we stop?" The LORD said, "Go up, for tomorrow I will hand them over to you."
 
@@ -1621,7 +1621,7 @@
 
 **33** All the men of Israel rose from their places and drew up their battle lines at Baal-tamar, while the Israelites in ambush burst out of their position at Maareh-geba.[^20-17]
 
-**34** Ten thousand chosen men from all Israel came against Gibeah, and the fighting was heavy. But the Benjaminites did not know that disaster was close upon them.
+**34** 10,000 chosen men from all Israel came against Gibeah, and the fighting was heavy. But the Benjaminites did not know that disaster was close upon them.
 
 **35** The LORD defeated Benjamin before Israel, and that day the Israelites cut down 25,100 men of Benjamin, all of them armed with swords.
 

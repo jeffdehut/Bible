@@ -31,7 +31,7 @@
 
 **12** wisdom and knowledge are granted to you. I will also give you riches, wealth and honor, such as the kings before you never had, and none after you will have."
 
-**13** Then Solomon came from[^1-14] the high place at Gibeon, from before the tent of meeting, to Jerusalem, and he reigned over Israel.
+**13** Then Solomon came to[^1-14] the high place at Gibeon, from before the tent of meeting, to Jerusalem, and he reigned over Israel.
 
 **14** Solomon gathered chariots and horsemen.[^1-15] He had 1,400 chariots and 12,000 horsemen, and he stationed them in the chariot cities and with the king in Jerusalem.
 
@@ -56,10 +56,10 @@
 [^1-11]: That is, lead them.
 [^1-12]: Literally "judge". Also in verse 11.
 [^1-13]: Literally "many days".
-[^1-14]: The Hebrew reads "to"; the sense requires "from", as in the Septuagint and the Vulgate.
+[^1-14]: So the Hebrew, perhaps meaning that Solomon came back from his visit to the high place. The Septuagint and the Vulgate read "from".
 [^1-15]: Or "horses". Hebrew *parashim*. Also later in the verse. Verses 14–17 parallel 1 Kings 10:26–29; compare 2 Chronicles 9:25–28.
 [^1-16]: 1 Kings 10:27 has only "silver".
-[^1-17]: The low hills between the hill country of Judah and the coastal plain.
+[^1-17]: The low hills between the coastal plain and the hill country of Judah.
 [^1-18]: Hebrew *miqve'*, probably Kue, that is, Cilicia, in what is now southern Turkey. Also later in the verse. Some take the word as "in droves".
 [^1-19]: Literally "six hundred of silver", that is, shekels. A shekel was about ⅖ ounce (11.5 grams), so 600 shekels was about 15 pounds (6.9 kg), and 150 shekels about 3¾ pounds (1.7 kg).
 [^1-20]: Literally "by their hand".
@@ -134,7 +134,7 @@
 
 **2** He began to build on the second day of the second month,[^3-6] in the fourth year of his reign.
 
-**3** These are the foundations Solomon laid for building the house of God:[^3-7] the length, in cubits of the old standard,[^3-8] was sixty cubits, and the width twenty cubits.
+**3** These are the foundations Solomon laid for building the house of God:[^3-7] the length, in cubits of the old standard,[^3-8] was 60 cubits, and the width 20 cubits.
 
 **4** The porch[^3-9] in front of the house was 20 cubits long, across the width of the house, and 120 high.[^3-10] He overlaid it on the inside with pure gold.
 
@@ -144,21 +144,21 @@
 
 **7** He overlaid the house with gold: its beams, its thresholds, its walls and its doors. And he carved cherubim[^3-14] on the walls.
 
-**8** He made the most holy place.[^3-15] Its length, across the width of the house, was twenty cubits, and its width was twenty cubits. He overlaid it with six hundred talents[^3-16] of fine gold.
+**8** He made the most holy place.[^3-15] Its length, across the width of the house, was 20 cubits, and its width was 20 cubits. He overlaid it with 600 talents[^3-16] of fine gold.
 
-**9** The weight of the nails was fifty shekels[^3-17] of gold. He also overlaid the upper rooms with gold.
+**9** The weight of the nails was 50 shekels[^3-17] of gold. He also overlaid the upper rooms with gold.
 
 **10** In the most holy place he made two cherubim of sculptured work,[^3-18] and they overlaid them with gold.
 
-**11** The wings of the cherubim were twenty cubits long in all. One wing of the first cherub, five cubits long, touched the wall of the house, and its other wing, five cubits long, touched the wing of the other cherub.
+**11** The wings of the cherubim were 20 cubits long in all. One wing of the first cherub, 5 cubits long, touched the wall of the house, and its other wing, 5 cubits long, touched the wing of the other cherub.
 
-**12** One wing of the other cherub, five cubits long, touched the wall of the house, and its other wing, five cubits long, was joined to the wing of the first cherub.[^3-19]
+**12** One wing of the other cherub, 5 cubits long, touched the wall of the house, and its other wing, 5 cubits long, was joined to the wing of the first cherub.[^3-19]
 
-**13** The wings of these cherubim spread out twenty cubits. They stood on their feet, facing the house.[^3-20]
+**13** The wings of these cherubim spread out 20 cubits. They stood on their feet, facing the house.[^3-20]
 
 **14** He made the veil[^3-21] of blue, purple and crimson yarn and fine linen, and he worked cherubim into it.
 
-**15** In front of the house he made two pillars, thirty-five cubits long,[^3-22] with a capital[^3-23] on top of each, five cubits high.
+**15** In front of the house he made two pillars, 35 cubits long,[^3-22] with a capital[^3-23] on top of each, 5 cubits high.
 
 **16** He made chains in the inner sanctuary[^3-24] and put them on the tops of the pillars. He made a hundred pomegranates and put them on the chains.
 
@@ -179,13 +179,13 @@
 [^3-13]: A place not otherwise known.
 [^3-14]: Hebrew *keruvim* (singular *keruv*, "cherub"): winged heavenly beings who guard holy places (Genesis 3:24; Exodus 25:18–22).
 [^3-15]: Literally "the house of the holy of holies". Also in verse 10.
-[^3-16]: A talent was about 75 pounds (34 kg), so six hundred talents was about 45,000 pounds (20,400 kg).
-[^3-17]: A shekel was about ⅖ ounce (11.5 grams), so fifty shekels was about 1¼ pounds (575 grams).
+[^3-16]: A talent was about 75 pounds (34 kg), so 600 talents was about 45,000 pounds (20,400 kg).
+[^3-17]: A shekel was about ⅖ ounce (11.5 grams), so 50 shekels was about 1¼ pounds (575 grams).
 [^3-18]: Hebrew *tsa'tsu'im*, a word found only here, of uncertain meaning.
 [^3-19]: Literally "And the wing of the one cherub … to the wing of the other cherub".
 [^3-20]: Literally "and their faces toward the house", that is, toward the main hall.
 [^3-21]: Hebrew *parokhet*: the hanging that screened the most holy place (Exodus 26:31–33). 1 Kings 6:31–32 speaks of doors of olive wood.
-[^3-22]: 1 Kings 7:15 and Jeremiah 52:21 give the height of each pillar as eighteen cubits.
+[^3-22]: 1 Kings 7:15 and Jeremiah 52:21 give the height of each pillar as 18 cubits.
 [^3-23]: Hebrew *tsefet*, found only here. Elsewhere the capitals are called *koterot* (4:12; 1 Kings 7:16).
 [^3-24]: Hebrew *devir*: the innermost room, the most holy place (1 Kings 6:5, 16). The sense here is uncertain.
 [^3-25]: Hebrew *heikhal*, "palace, temple": here the large main room of the house, in front of the inner sanctuary. Traditionally "the temple" or "the nave".
@@ -196,15 +196,15 @@
 
 *Status: draft*
 
-**1** He made a bronze altar,[^4-1] twenty cubits[^4-2] long, twenty cubits wide and ten cubits high.
+**1** He made a bronze altar,[^4-1] 20 cubits[^4-2] long, 20 cubits wide and 10 cubits high.
 
-**2** He made the Sea[^4-3] of cast metal, ten cubits from rim to rim, round all around and five cubits high. A line of thirty cubits measured around it.
+**2** He made the Sea[^4-3] of cast metal, 10 cubits from rim to rim, round all around and 5 cubits high. A line of 30 cubits measured around it.
 
 **3** Under it were figures of oxen[^4-4] encircling it all around, ten to a cubit, going all around the Sea. The oxen were in two rows, cast in one piece with it.
 
 **4** It stood on twelve oxen, three facing north, three facing west,[^4-5] three facing south and three facing east. The Sea rested on top of them, and all their hindquarters were toward the center.
 
-**5** It was a handbreadth[^4-6] thick, and its rim was made like the rim of a cup, like a lily blossom. It could hold three thousand baths.[^4-7]
+**5** It was 1 handbreadth[^4-6] thick, and its rim was made like the rim of a cup, like a lily blossom. It could hold 3,000 baths.[^4-7]
 
 **6** He made ten basins[^4-8] and put five on the right and five on the left,[^4-9] for washing. In them they rinsed the things used for the burnt offering,[^4-10] but the Sea was for the priests to wash in.
 
@@ -246,7 +246,7 @@
 [^4-4]: 1 Kings 7:24 has *peqa'im*, "gourds", where this verse has *beqarim*, "oxen", a word that looks similar in Hebrew.
 [^4-5]: Literally "toward the sea", that is, the Mediterranean.
 [^4-6]: About 3 inches (7.5 cm).
-[^4-7]: A bath was about 6 gallons (22 liters), so the Sea held about 18,000 gallons (66,000 liters). 1 Kings 7:26 reads "two thousand baths".
+[^4-7]: A bath was about 6 gallons (22 liters), so the Sea held about 18,000 gallons (66,000 liters). 1 Kings 7:26 reads "2,000 baths".
 [^4-8]: Hebrew *kiyyor*, the word used for the bronze basin of the tabernacle (Exodus 30:18). Also in verse 14.
 [^4-9]: That is, on the south and on the north. Directions were given facing east, so the right side is the south. Also in verses 7 and 8.
 [^4-10]: Literally "the work of the burnt offering".
@@ -536,7 +536,7 @@
 
 **12** Then Solomon offered burnt offerings to the LORD on the altar of the LORD that he had built in front of the porch,
 
-**13** as each day required, offering them according to the command of Moses for the Sabbaths, the new moons and the appointed festivals three times a year: the Festival of Unleavened Bread, the Festival of Weeks and the Festival of Shelters.
+**13** as each day required, offering them according to the command of Moses for the Sabbaths, the new moons and the appointed festivals three times a year: the Festival of Bread Made without Yeast, the Festival of Weeks and the Festival of Shelters.
 
 **14** Following the ruling of his father David, he appointed the divisions of the priests for their service, and the Levites for their duties of praising and ministering beside the priests, as each day required, and the gatekeepers by their divisions for each gate, for this was what David the man of God had commanded.
 
@@ -658,7 +658,7 @@
 [^9-28]: Or "horses". Hebrew *parashim*.
 [^9-29]: 1 Kings 5:6 (4:26 in most English Bibles) has "forty thousand stalls". Verses 25–28 are close to 1:14–17 and 1 Kings 5:1, 6 (4:21, 26 in most English Bibles) and 10:26–29.
 [^9-30]: The Euphrates.
-[^9-31]: The low hills between the hill country of Judah and the coastal plain.
+[^9-31]: The low hills between the coastal plain and the hill country of Judah.
 [^9-32]: Verses 29–31 parallel 1 Kings 11:41–43.
 [^9-33]: Literally "the words of Nathan the prophet". These records have not survived.
 [^9-34]: Hebrew *Ye'do*, probably another form of the name Iddo (12:15; 13:22).
@@ -919,7 +919,7 @@
 
 **7** Asa had an army of 300,000 from Judah, carrying large shields and spears, and 280,000 from Benjamin, carrying shields and drawing bows. All these were mighty warriors.
 
-**8** Zerah the Cushite[^14-8] came out against them with an army of a million[^14-9] and three hundred chariots, and he came as far as Mareshah.
+**8** Zerah the Cushite[^14-8] came out against them with an army of 1,000,000[^14-9] and 300 chariots, and he came as far as Mareshah.
 
 **9** Asa went out to meet him, and they drew up their battle lines in the Valley of Zephathah at Mareshah.
 
@@ -1125,7 +1125,7 @@
 
 **12** The messenger who had gone to summon Micaiah said to him, "Look, the prophets with one voice are speaking favorably to the king.[^18-5] Please let your word be like that of one of them, and speak favorably."
 
-**13** But Micaiah said, "As the LORD lives, whatever my God says, that is what I will speak."
+**13** But Micaiah said, "As surely as the LORD lives, whatever my God says, that is what I will speak."
 
 **14** When he came to the king, the king said to him, "Micah,[^18-6] shall we go to battle against Ramoth-gilead, or shall I hold back?" He said, "Go up and succeed. They will be handed over to you."
 
@@ -1702,7 +1702,7 @@
 [^26-5]: Literally "in the seeing of God". The Septuagint reads "in the fear of God".
 [^26-6]: Literally "as far as the entrance of Egypt".
 [^26-7]: Hebrew *miqtsoa*: a corner or bend in the city wall (Nehemiah 3:19–25).
-[^26-8]: The low hills between the hill country of Judah and the coastal plain.
+[^26-8]: The low hills between the coastal plain and the hill country of Judah.
 [^26-9]: Or "on Carmel". Hebrew *karmel* means "garden land".
 [^26-10]: Hebrew *shoter*: an officer who kept records (19:11).
 [^26-11]: Literally "devices, the design of a designer". They may have been protective frames on the walls, behind which archers and slingers could stand.
@@ -1809,7 +1809,7 @@
 [^28-7]: Literally "their brothers". Also in verses 11 and 15.
 [^28-8]: That is, the leaders named in verse 12.
 [^28-9]: Plural in the Hebrew. Compare verse 20 and 2 Kings 16:7.
-[^28-10]: The low hills between the hill country of Judah and the coastal plain.
+[^28-10]: The low hills between the coastal plain and the hill country of Judah.
 [^28-11]: The dry region in the south of Judah.
 [^28-12]: Literally "its daughters". Also later in the verse.
 [^28-13]: Chronicles sometimes uses "Israel" for Judah (21:2).
@@ -1938,7 +1938,7 @@
 
 **12** In Judah also the hand of God was at work, giving them one heart to carry out the command of the king and the officials, by the word of the LORD.
 
-**13** A large crowd gathered in Jerusalem to keep the Festival of Unleavened Bread in the second month, a very great assembly.
+**13** A large crowd gathered in Jerusalem to keep the Festival of Bread Made without Yeast in the second month, a very great assembly.
 
 **14** They set to work and removed the altars that were in Jerusalem. They also removed all the incense altars and threw them into the Kidron Valley.
 
@@ -1954,7 +1954,7 @@
 
 **20** The LORD listened to Hezekiah and healed the people.
 
-**21** The Israelites who were present in Jerusalem kept the Festival of Unleavened Bread for seven days with great joy. The Levites and the priests praised the LORD day after day with loud instruments for the LORD.[^30-9]
+**21** The Israelites who were present in Jerusalem kept the Festival of Bread Made without Yeast for seven days with great joy. The Levites and the priests praised the LORD day after day with loud instruments for the LORD.[^30-9]
 
 **22** Hezekiah spoke encouragingly[^30-10] to all the Levites who showed good understanding in the service of the LORD. They ate the festival meals for the seven days, offering fellowship offerings[^30-11] and giving thanks[^30-12] to the LORD, the God of their ancestors.
 
@@ -2322,11 +2322,11 @@
 
 **6** Slaughter the Passover lambs, consecrate yourselves and prepare them for your relatives, to do as the LORD commanded through Moses."
 
-**7** Josiah gave the lay people flocks, lambs and young goats, all for the Passover offerings for all who were present, thirty thousand in number, and three thousand cattle. These were from the king's own possessions.
+**7** Josiah gave the lay people flocks, lambs and young goats, all for the Passover offerings for all who were present, 30,000 in number, and 3,000 cattle. These were from the king's own possessions.
 
 **8** His officials also gave freely to the people, the priests and the Levites. Hilkiah, Zechariah and Jehiel, the officials in charge of the house of God, gave the priests 2,600 Passover offerings and 300 cattle.
 
-**9** Conaniah, with Shemaiah and Nethanel his brothers, and Hashabiah, Jeiel and Jozabad, the leaders of the Levites, gave the Levites five thousand Passover offerings and five hundred cattle.
+**9** Conaniah, with Shemaiah and Nethanel his brothers, and Hashabiah, Jeiel and Jozabad, the leaders of the Levites, gave the Levites 5,000 Passover offerings and 500 cattle.
 
 **10** So the service was prepared. The priests stood in their places and the Levites in their divisions, as the king had commanded.
 
@@ -2342,7 +2342,7 @@
 
 **16** So all the service of the LORD was prepared that day, to keep the Passover and to offer burnt offerings on the altar of the LORD, as King Josiah had commanded.
 
-**17** The Israelites who were present kept the Passover at that time, and the Festival of Unleavened Bread for seven days.
+**17** The Israelites who were present kept the Passover at that time, and the Festival of Bread Made without Yeast for seven days.
 
 **18** No Passover like it had been kept in Israel since the days of Samuel the prophet. None of the kings of Israel had kept such a Passover as Josiah kept, with the priests, the Levites, all Judah and Israel who were present, and the inhabitants of Jerusalem.[^35-7]
 

@@ -19,7 +19,7 @@
 
 **6** "The LORD our God spoke to us at Horeb. He said, 'You have stayed at this mountain long enough.
 
-**7** Turn and set out. Go to the hill country of the Amorites and to all their neighbors in the Arabah, in the hill country, in the western foothills,[^1-9] in the Negev[^1-10] and along the seacoast: the land of the Canaanites, and Lebanon, as far as the great river, the river Euphrates.
+**7** Turn and set out. Go to the hill country of the Amorites and to all their neighbors in the Arabah, in the hill country, in the Shephelah,[^1-9] in the Negev[^1-10] and along the seacoast: the land of the Canaanites, and Lebanon, as far as the great river, the river Euphrates.
 
 **8** See, I have set the land before you. Go in and take possession of the land that the LORD swore to give to your ancestors,[^1-11] to Abraham, to Isaac and to Jacob, and to their descendants after them.'
 
@@ -107,7 +107,7 @@
 [^1-6]: Edrei is where Og was defeated (3:1). Compare Joshua 12:4, "who lived in Ashtaroth and in Edrei".
 [^1-7]: Hebrew *torah*, "instruction, law". The verb *be'er*, "explain", means to make something plain (compare 27:8).
 [^1-8]: Moses' first speech runs from verse 6 to 4:40.
-[^1-9]: Hebrew *shephelah*: the low hills between the central hill country and the coastal plain.
+[^1-9]: The low hills between the coastal plain and the hill country of Judah.
 [^1-10]: The dry country in the south of the land.
 [^1-11]: Literally "fathers"; also in verses 11, 21 and 35.
 [^1-12]: Literally "Give".
@@ -1204,7 +1204,7 @@
 [^14-14]: Hebrew *nokhri*: a foreigner from another land who has not settled among the Israelites.
 [^14-15]: Literally "to make his name dwell there".
 [^14-16]: Literally "bind up the silver in your hand".
-[^14-17]: Hebrew *shekhar*, an intoxicating drink, probably beer made from grain.
+[^14-17]: Or "fermented drink"; brewed from grain.
 [^14-18]: Literally "anything your *nephesh* (self) asks of you".
 [^14-19]: Hebrew *yatom*, a child who has lost his father, traditionally "orphan".
 
@@ -1311,7 +1311,7 @@
 
 **15** For seven days keep the festival for the LORD your God at the place that the LORD will choose, for the LORD your God will bless you in all your harvest and in all the work of your hands, and you will be full of joy.[^16-13]
 
-**16** Three times a year all your males are to appear before the LORD your God[^16-14] at the place he will choose: at the Festival of Unleavened Bread, at the Festival of Weeks and at the Festival of Shelters. No one is to appear before the LORD empty-handed.
+**16** Three times a year all your males are to appear before the LORD your God[^16-14] at the place he will choose: at the Festival of Bread Made without Yeast, at the Festival of Weeks and at the Festival of Shelters. No one is to appear before the LORD empty-handed.
 
 **17** Each of you is to give as he is able,[^16-15] according to the blessing that the LORD your God has given you.
 

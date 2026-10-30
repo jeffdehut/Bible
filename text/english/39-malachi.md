@@ -179,7 +179,7 @@
 [^3-14]: Probably the locust.
 [^3-15]: Literally "Your words have been strong against me".
 [^3-16]: Hebrew *mishmeret*, "charge, duty" (Zechariah 3:7). *In mourning* is literally "in black", the clothing of mourners.
-[^3-17]: A record of those who belong to the LORD (compare Exodus 32:32; Psalm 69:29, 69:28 in most English Bibles; Daniel 12:1). The kings of Persia kept such books (Esther 6:1–2).
+[^3-17]: A record of those who belong to the LORD (compare Exodus 32:32; Psalm 69:29; 69:28 in most English Bibles; Daniel 12:1). The kings of Persia kept such books (Esther 6:1–2).
 [^3-18]: Literally "thought on his name".
 [^3-19]: Hebrew *segullah*, a king's private treasure, the word used of Israel at Sinai (Exodus 19:5; Deuteronomy 7:6). Or "on the day when I make up my treasured possession".
 [^3-20]: Verses 19–24 are 4:1–6 in most English Bibles.

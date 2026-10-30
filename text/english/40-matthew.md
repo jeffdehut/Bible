@@ -395,7 +395,7 @@
 [^5-30]: Or "from evil".
 [^5-31]: Exodus 21:24; Leviticus 24:20; Deuteronomy 19:21.
 [^5-32]: Or "do not resist evil".
-[^5-33]: The tunic was worn next to the skin; the cloak was the outer garment, which a poor person also used as a blanket at night (Exodus 22:25–26, 22:26–27 in most English Bibles).
+[^5-33]: The tunic was worn next to the skin; the cloak was the outer garment, which a poor person also used as a blanket at night (Exodus 22:25–26; 22:26–27 in most English Bibles).
 [^5-34]: Greek *milion*, a Roman mile, about 1,480 meters (4,860 feet). Soldiers and officials could force people to carry loads for them.
 [^5-35]: Leviticus 19:18. The words "and hate your enemy" are not found in the Old Testament.
 [^5-36]: Many manuscripts read "love your enemies, bless those who curse you, do good to those who hate you, and pray for those who mistreat you and persecute you".
@@ -1711,7 +1711,7 @@
 [^19-14]: Some manuscripts read "the kingdom of heaven".
 [^19-15]: Greek *palingenesia*, "new birth, regeneration": the renewal of the world in the age to come.
 [^19-16]: Literally "the throne of his glory".
-[^19-17]: The words "or wife" are in the SBLGNT, following most later manuscripts. Many modern editions leave them out.
+[^19-17]: The words "or wife" are in the SBLGNT, following the Byzantine text; many modern editions leave them out.
 [^19-18]: Some manuscripts read "many times as much".
 
 ## Chapter 20
@@ -1909,7 +1909,7 @@
 [^21-16]: Literally "the head of the corner".
 [^21-17]: Psalm 118:22–23. In the Hebrew, "the Lord" is God's personal name, YHWH ("the LORD").
 [^21-18]: Or "a nation".
-[^21-19]: Compare Isaiah 8:14–15; Daniel 2:34–35, 44–45. Some manuscripts leave out this verse.
+[^21-19]: Compare Isaiah 8:14–15; Daniel 2:34–35, 44–45. Westcott and Hort leave out this verse in their margin.
 
 ## Chapter 22
 
@@ -2015,7 +2015,7 @@
 [^22-6]: Greek *kensos*, the poll tax paid to Rome; also in verse 19.
 [^22-7]: A Roman silver coin, a day's wage for a laborer.
 [^22-8]: Deuteronomy 25:5–6.
-[^22-9]: The words "of God" are in the SBLGNT, following most later manuscripts. Many modern editions leave them out.
+[^22-9]: The words "of God" are in the SBLGNT, as in the Byzantine text; many modern editions leave them out.
 [^22-10]: Exodus 3:6.
 [^22-11]: Greek *nomikos*, an expert in the Law of Moses.
 [^22-12]: Deuteronomy 6:5, where the Hebrew reads "with all your heart, with all your soul, and with all your strength". In the Hebrew, "the Lord" is God's personal name, YHWH ("the LORD").
@@ -2396,7 +2396,7 @@
 
 **16** From then on he looked for an opportunity to hand him over.
 
-**17** On the first day of the Festival of Unleavened Bread, the disciples came to Jesus and asked, "Where do you want us to prepare for you to eat the Passover?"
+**17** On the first day of the Festival of Bread Made without Yeast, the disciples came to Jesus and asked, "Where do you want us to prepare for you to eat the Passover?"
 
 **18** He said, "Go into the city to a certain man[^26-5] and tell him, 'The Teacher says: My time is near. I will celebrate the Passover with my disciples at your house.'"
 

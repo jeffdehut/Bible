@@ -120,7 +120,7 @@
 
 [^2-1]: *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles.
 [^2-2]: Or "Like blackness spread over the mountains", reading the same consonants as *shechor*, "blackness", instead of *shachar*, "dawn".
-[^2-3]: Literally "all faces gather a glow". The meaning of the Hebrew is uncertain (compare Nahum 2:11, 2:10 in most English Bibles).
+[^2-3]: Literally "all faces gather a glow". The meaning of the Hebrew is uncertain (compare Nahum 2:11; 2:10 in most English Bibles).
 [^2-4]: Or "and do not break ranks". The meaning of the Hebrew is uncertain.
 [^2-5]: Hebrew *chesed*, loyal, covenant love.
 [^2-6]: Compare Exodus 34:6–7; Jonah 4:2.

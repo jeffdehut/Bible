@@ -477,7 +477,7 @@
 
 **21** The Israelites who had returned from the exile ate it, together with everyone who had separated himself from the uncleanness of the nations of the land to join them, to seek the LORD,[^6-19] the God of Israel.
 
-**22** For seven days they kept the Festival of Unleavened Bread with joy, because the LORD had made them joyful and had turned the heart of the king of Assyria[^6-20] toward them, so that he strengthened their hands in the work on the house of God, the God of Israel.
+**22** For seven days they kept the Festival of Bread Made without Yeast with joy, because the LORD had made them joyful and had turned the heart of the king of Assyria[^6-20] toward them, so that he strengthened their hands in the work on the house of God, the God of Israel.
 
 [^6-1]: Aramaic *te'em*, "order, decree". The text of 4:8–6:18 is in Aramaic.
 [^6-2]: Literally "in the house of the books".

@@ -266,7 +266,7 @@
 
 **10** While the Israelites were camped at Gilgal, they kept the Passover on the evening of the fourteenth day of the month, in the plains of Jericho.
 
-**11** On the day after the Passover, that very day, they ate some of the produce[^5-10] of the land: unleavened bread and roasted grain.
+**11** On the day after the Passover, that very day, they ate some of the produce[^5-10] of the land: bread made without yeast and roasted grain.
 
 **12** The manna stopped on the day after,[^5-11] when they ate some of the produce of the land. The Israelites no longer had manna, and that year they ate from the crops of the land of Canaan.
 
@@ -390,7 +390,7 @@
 
 **12** That is why the Israelites cannot stand against their enemies. They turn their backs before their enemies, because they themselves have become devoted to destruction. I will not be with you any more unless you destroy what is devoted to destruction from among you.
 
-**13** Get up and consecrate the people. Say, 'Consecrate yourselves for tomorrow, for this is what the LORD, the God of Israel, says: "Things devoted to destruction are among you, Israel. You cannot stand against your enemies until you remove what is devoted to destruction from among you."'
+**13** Get up and consecrate the people. Say, 'Consecrate yourselves for tomorrow, for this is what the LORD, the God of Israel, says: Things devoted to destruction are among you, Israel. You cannot stand against your enemies until you remove what is devoted to destruction from among you.'
 
 **14** In the morning you are to come forward tribe by tribe. The tribe that the LORD takes[^7-8] is to come forward clan by clan. The clan that the LORD takes is to come forward household by household. And the household that the LORD takes is to come forward man by man.
 
@@ -431,7 +431,7 @@
 [^7-11]: Or "and make your confession to him". Hebrew *todah* means both praise and confession.
 [^7-12]: Babylonia.
 [^7-13]: Literally "tongue". Also in verse 24.
-[^7-14]: A shekel was about 2/5 ounce (11.5 grams), so two hundred shekels was about 5 pounds (2.3 kilograms), and fifty shekels about 1¼ pounds (575 grams).
+[^7-14]: A shekel was about ⅖ ounce (11.5 grams), so two hundred shekels was about 5 pounds (2.3 kilograms), and fifty shekels about 1¼ pounds (575 grams).
 [^7-15]: That is, a descendant of Zerah (verse 18).
 [^7-16]: Hebrew *akhar*, "bring disaster, trouble", sounds like *Achan* and gives the Valley of Achor its name.
 [^7-17]: *Achor* means "disaster, trouble".
@@ -534,7 +534,7 @@
 
 *Status: draft*
 
-**1** All the kings west of the Jordan[^9-1] heard of this, those in the hill country, in the western foothills[^9-2] and all along the coast of the Great Sea[^9-3] as far as Lebanon: the Hittites, the Amorites, the Canaanites, the Perizzites, the Hivites and the Jebusites.
+**1** All the kings west of the Jordan[^9-1] heard of this, those in the hill country, in the Shephelah[^9-2] and all along the coast of the Great Sea[^9-3] as far as Lebanon: the Hittites, the Amorites, the Canaanites, the Perizzites, the Hivites and the Jebusites.
 
 **2** They gathered together to fight as one[^9-4] against Joshua and Israel.
 
@@ -589,7 +589,7 @@
 **27** That day Joshua made them woodcutters and water carriers for the community and for the altar of the LORD at the place he would choose,[^9-13] as they are to this day.
 
 [^9-1]: Literally "beyond the Jordan", here meaning west of the river.
-[^9-2]: Hebrew *shephelah*: the low hills between the central hill country and the coastal plain.
+[^9-2]: The low hills between the coastal plain and the hill country of Judah.
 [^9-3]: The Mediterranean Sea.
 [^9-4]: Literally "with one mouth".
 [^9-5]: Hebrew *vayitstayyaru*, a rare word, probably "made themselves envoys". The Greek Septuagint reads "they took provisions", a similar Hebrew word, as in verse 12.
@@ -684,7 +684,7 @@
 
 **39** He captured it, with its king and all its towns. They put them to the sword and devoted to destruction every person in it. He left no survivor. As he had done to Hebron, so he did to Debir and its king, just as he had done to Libnah and its king.
 
-**40** So Joshua struck the whole land, the hill country, the Negev,[^10-16] the western foothills[^10-17] and the slopes,[^10-18] with all their kings. He left no survivor. He devoted to destruction everything that breathed, as the LORD, the God of Israel, had commanded.
+**40** So Joshua struck the whole land, the hill country, the Negev,[^10-16] the Shephelah[^10-17] and the slopes,[^10-18] with all their kings. He left no survivor. He devoted to destruction everything that breathed, as the LORD, the God of Israel, had commanded.
 
 **41** Joshua struck them from Kadesh-barnea to Gaza, and the whole land of Goshen[^10-19] as far as Gibeon.
 
@@ -708,7 +708,7 @@
 [^10-14]: Literally "No one sharpened his tongue against the Israelites, against anyone".
 [^10-15]: Hebrew *nephesh*, "living being". Also in verses 30, 32, 35, 37 and 39.
 [^10-16]: The dry country in the south of the land.
-[^10-17]: Hebrew *shephelah*: the low hills between the central hill country and the coastal plain.
+[^10-17]: The low hills between the coastal plain and the hill country of Judah.
 [^10-18]: Hebrew *ashedot*, the slopes that fall from the hill country, perhaps toward the Dead Sea.
 [^10-19]: A region in the south of Judah (compare 11:16; 15:51), not the Goshen in Egypt.
 
@@ -718,7 +718,7 @@
 
 **1** When Jabin king of Hazor heard of this, he sent word to Jobab king of Madon, to the king of Shimron, to the king of Achshaph,
 
-**2** and to the kings in the north, in the hill country, in the Arabah[^11-1] south of Kinnereth,[^11-2] in the western foothills[^11-3] and in Naphoth-dor[^11-4] on the west,
+**2** and to the kings in the north, in the hill country, in the Arabah[^11-1] south of Kinnereth,[^11-2] in the Shephelah[^11-3] and in Naphoth-dor[^11-4] on the west,
 
 **3** to the Canaanites in the east and in the west, to the Amorites, the Hittites, the Perizzites and the Jebusites in the hill country, and to the Hivites below Hermon in the land of Mizpah.
 
@@ -746,7 +746,7 @@
 
 **15** As the LORD had commanded his servant Moses, so Moses commanded Joshua, and so Joshua did. He left nothing undone of all that the LORD had commanded Moses.
 
-**16** So Joshua took this whole land: the hill country, the whole Negev,[^11-10] the whole land of Goshen, the western foothills, the Arabah, and the hill country of Israel with its foothills,
+**16** So Joshua took this whole land: the hill country, the whole Negev,[^11-10] the whole land of Goshen, the Shephelah, the Arabah, and the hill country of Israel with its foothills,
 
 **17** from Mount Halak,[^11-11] which rises toward Seir, as far as Baal-gad in the Valley of Lebanon below Mount Hermon. He captured all their kings and struck them down and put them to death.
 
@@ -764,7 +764,7 @@
 
 [^11-1]: Hebrew *aravah*: the deep rift valley of the Jordan and the Dead Sea, and its continuation south to the Gulf of Aqaba.
 [^11-2]: Hebrew *Kinarot*, the town and district of Kinnereth on the Sea of Galilee.
-[^11-3]: Hebrew *shephelah*: the low hills between the central hill country and the coastal plain. Also in verse 16.
+[^11-3]: The low hills between the coastal plain and the hill country; here, those of the north. In verse 16, those of Judah.
 [^11-4]: Or "the heights of Dor".
 [^11-5]: Or "met by agreement".
 [^11-6]: *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles.
@@ -794,7 +794,7 @@
 
 **7** These are the kings of the land whom Joshua and the Israelites struck down west of the Jordan,[^12-7] from Baal-gad in the Valley of Lebanon to Mount Halak, which rises toward Seir. Joshua gave their land to the tribes of Israel as a possession according to their divisions,
 
-**8** in the hill country, the western foothills,[^12-8] the Arabah, the slopes,[^12-9] the wilderness and the Negev,[^12-10] the land of the Hittites, the Amorites, the Canaanites, the Perizzites, the Hivites and the Jebusites:
+**8** in the hill country, the Shephelah,[^12-8] the Arabah, the slopes,[^12-9] the wilderness and the Negev,[^12-10] the land of the Hittites, the Amorites, the Canaanites, the Perizzites, the Hivites and the Jebusites:
 
 **9** the king of Jericho, one; the king of Ai, which is beside Bethel, one;
 
@@ -835,7 +835,7 @@
 [^12-5]: An ancient people remembered for their great height (Deuteronomy 2:11; 3:11).
 [^12-6]: *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles.
 [^12-7]: Literally "beyond the Jordan toward the sea".
-[^12-8]: Hebrew *shephelah*: the low hills between the central hill country and the coastal plain.
+[^12-8]: The low hills between the coastal plain and the hill country of Judah.
 [^12-9]: Hebrew *ashedot*; see 10:40.
 [^12-10]: The dry country in the south of the land.
 [^12-11]: Or "the king of Sharon". Some take the words with the previous name: "the king of Aphek in Sharon".
@@ -1050,7 +1050,7 @@
 
 **32** Lebaoth, Shilhim, Ain and Rimmon:[^15-23] in all, twenty-nine towns, with their villages.[^15-24]
 
-**33** In the western foothills:[^15-25] Eshtaol, Zorah, Ashnah,
+**33** In the Shephelah:[^15-25] Eshtaol, Zorah, Ashnah,
 
 **34** Zanoah, En-gannim, Tappuah, Enam,
 
@@ -1136,7 +1136,7 @@
 [^15-22]: Hebrew *gullot*, perhaps "pools" or "basins". It may also be a place name, Gulloth.
 [^15-23]: Perhaps one town, En-rimmon (Nehemiah 11:29). The names in verses 21–32 come to more than twenty-nine.
 [^15-24]: Hebrew *chatserim*: settlements without walls around a town.
-[^15-25]: Hebrew *shephelah*: the low hills between the central hill country and the coastal plain.
+[^15-25]: The low hills between the coastal plain and the hill country of Judah.
 [^15-26]: Or "Gederah and its sheepfolds". As one town, the list has fifteen names.
 [^15-27]: Literally "daughters": the smaller towns that depended on it. Also in verse 47.
 [^15-28]: The Hebrew text is written "the sea, the border" but read "the Great Sea".
@@ -1601,7 +1601,7 @@
 
 **15** They came to the Reubenites, the Gadites and the half-tribe of Manasseh in the land of Gilead and said to them,
 
-**16** "This is what the whole community of the LORD says: 'What is this unfaithfulness you have committed against the God of Israel, turning away today from following the LORD by building yourselves an altar, and so rebelling today against the LORD?
+**16** "This is what the whole community of the LORD says: What is this unfaithfulness you have committed against the God of Israel, turning away today from following the LORD by building yourselves an altar, and so rebelling today against the LORD?
 
 **17** Was the wrongdoing at Peor[^22-8] not enough for us? We have not cleansed ourselves of it to this day, even though a plague came on the community of the LORD.
 
@@ -1609,7 +1609,7 @@
 
 **19** But if the land you possess is unclean, cross over into the land that the LORD possesses, where the LORD's tabernacle[^22-9] stands, and take possession of land among us. Only do not rebel against the LORD, and do not rebel against us,[^22-10] by building yourselves an altar other than the altar of the LORD our God.
 
-**20** When Achan son of Zerah acted unfaithfully in the matter of what was devoted to destruction,[^22-11] did not wrath fall on the whole community of Israel? And he was not the only one to die for his wrongdoing.'"
+**20** When Achan son of Zerah acted unfaithfully in the matter of what was devoted to destruction,[^22-11] did not wrath fall on the whole community of Israel? And he was not the only one to die for his wrongdoing."
 
 **21** Then the Reubenites, the Gadites and the half-tribe of Manasseh answered the heads of the clans of Israel:
 
@@ -1711,7 +1711,7 @@
 
 **1** Joshua gathered all the tribes of Israel at Shechem.[^24-1] He summoned the elders, the leaders,[^24-2] the judges and the officials of Israel, and they presented themselves before God.
 
-**2** Joshua said to all the people, "This is what the LORD,[^24-3] the God of Israel, says: 'Long ago your ancestors, Terah the father of Abraham and of Nahor, lived beyond the River,[^24-4] and they served other gods.
+**2** Joshua said to all the people, "This is what the LORD,[^24-3] the God of Israel, says: Long ago your ancestors, Terah the father of Abraham and of Nahor, lived beyond the River,[^24-4] and they served other gods.
 
 **3** But I took your father Abraham from beyond the River and led him through all the land of Canaan. I made his descendants many, and I gave him Isaac.
 
@@ -1733,7 +1733,7 @@
 
 **12** I sent the hornet[^24-9] ahead of you, and it drove them out before you, the two kings of the Amorites.[^24-10] It was not by your sword or your bow.
 
-**13** I gave you a land you had not toiled over, and towns you had not built, and you live in them. You eat from vineyards and olive groves that you did not plant.'
+**13** I gave you a land you had not toiled over, and towns you had not built, and you live in them. You eat from vineyards and olive groves that you did not plant.
 
 **14** So now fear the LORD and serve him with integrity and faithfulness. Put away the gods your ancestors served beyond the River and in Egypt, and serve the LORD.
 

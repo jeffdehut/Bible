@@ -176,7 +176,7 @@
 [^2-34]: Hebrew *radnu*, a rare verb, perhaps "we roam freely" or "we are free".
 [^2-35]: Or "you have trained your ways in wickedness". The Hebrew text is written "I have taught" but read "you have taught". The written form may be an old spelling of "you have taught" (compare verse 20).
 [^2-36]: Literally "on your wings", the edges of a robe.
-[^2-37]: A householder who killed a burglar caught breaking in was not guilty of murder (Exodus 22:1, 22:2 in most English Bibles). These victims had done nothing of the kind.
+[^2-37]: A householder who killed a burglar caught breaking in was not guilty of murder (Exodus 22:1; 22:2 in most English Bibles). These victims had done nothing of the kind.
 [^2-38]: The Hebrew of this line is obscure. Literally "for on all these".
 [^2-39]: A gesture of grief and shame (2 Samuel 13:19).
 
@@ -322,7 +322,7 @@
 
 **30** And you, devastated one, what are you doing? Though you dress in scarlet, though you put on gold jewelry, though you enlarge your eyes with paint,[^4-22] you make yourself beautiful in vain. Your lovers despise you; they seek your life.
 
-**31** For I hear a cry like that of a woman in labor, the anguish of one bearing her first child, the cry of daughter Zion[^4-23] gasping for breath, stretching out her hands: "Woe is me! My life is fainting before the killers!"
+**31** For I hear a cry like that of a woman in labor, the anguish of one bearing her first child, the cry of Daughter Zion[^4-23] gasping for breath, stretching out her hands: "Woe is me! My life is fainting before the killers!"
 
 [^4-1]: *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles.
 [^4-2]: Hebrew *shiqqutsim*, "detestable things", a contemptuous word for idols.
@@ -1255,7 +1255,7 @@
 
 **25** then kings and officials who sit on David's throne will come in through the gates of this city, riding in chariots and on horses, they and their officials, the people of Judah and the inhabitants of Jerusalem. And this city will be inhabited forever.
 
-**26** People will come from the cities of Judah and the area around Jerusalem, from the land of Benjamin, from the western foothills, from the hill country and from the Negev, bringing burnt offerings and sacrifices, grain offerings and frankincense, and bringing thanksgiving sacrifices[^17-21] to the house of the LORD.
+**26** People will come from the cities of Judah and the area around Jerusalem, from the land of Benjamin, from the Shephelah,[^17-21] from the hill country and from the Negev, bringing burnt offerings and sacrifices, grain offerings and frankincense, and bringing thanksgiving sacrifices[^17-22] to the house of the LORD.
 
 **27** But if you do not listen to me, to keep the Sabbath day holy and not carry a load as you come in through the gates of Jerusalem on the Sabbath day, then I will kindle a fire in its gates that will consume the fortresses of Jerusalem, and it will not be put out.
 
@@ -1279,7 +1279,8 @@
 [^17-18]: The meaning of the Hebrew is uncertain.
 [^17-19]: Literally "the gate of the sons of the people", a gate of Jerusalem not mentioned elsewhere.
 [^17-20]: Exodus 20:8–10; Deuteronomy 5:12–14.
-[^17-21]: Hebrew *todah*, "thanksgiving, praise" (Leviticus 7:12).
+[^17-21]: The low hills between the coastal plain and the hill country of Judah.
+[^17-22]: Hebrew *todah*, "thanksgiving, praise" (Leviticus 7:12).
 
 ## Chapter 18
 
@@ -1381,7 +1382,7 @@
 [^19-2]: Hebrew *baqbuq*, a narrow-necked jar, a name that imitates the gurgling sound of liquid poured from it.
 [^19-3]: The Hebrew has no verb here; "take with you" is supplied.
 [^19-4]: Ben-hinnom, "the Son of Hinnom", was a valley south and west of Jerusalem (7:31).
-[^19-5]: The Hebrew text is written "Harsuth" but read "Harsith". The name probably means "Potsherd Gate", from *cheres*, a piece of broken pottery.
+[^19-5]: The name probably means "Potsherd Gate", from *cheres*, a piece of broken pottery.
 [^19-6]: *The LORD of Armies* (Hebrew *YHWH tseva'ot*) is traditionally "the LORD of hosts" or "the LORD Almighty". *Tseva'ot* means armies: the heavenly hosts and the armies of Israel. Also in verses 11 and 15.
 [^19-7]: Or "burning offerings". The Hebrew verb *qatar* means to make something go up in smoke. Also in verse 13.
 [^19-8]: Hebrew *bamot*: places of worship, often on hilltops.
@@ -1434,7 +1435,7 @@
 [^20-2]: Hebrew *mahpekhet*, from a root meaning "to turn", perhaps a frame that held the body twisted in a painful position. Also in verse 3.
 [^20-3]: Hebrew *Magor-missaviv*, the phrase Jeremiah uses in 6:25 and in verse 10.
 [^20-4]: This is the first time Babylon is named in the book.
-[^20-5]: Or "You enticed me". Hebrew *pittitani*, a verb used of seducing a young woman (Exodus 22:15, 22:16 in most English Bibles) and of luring someone into a trap (1 Kings 22:20–22). It is used again in verse 10. Verses 7–18 are the last of Jeremiah's personal laments (see 11:18).
+[^20-5]: Or "You enticed me". Hebrew *pittitani*, a verb used of seducing a young woman (Exodus 22:15; 22:16 in most English Bibles) and of luring someone into a trap (1 Kings 22:20–22). It is used again in verse 10. Verses 7–18 are the last of Jeremiah's personal laments (see 11:18).
 [^20-6]: Literally "Every man of my peace".
 [^20-7]: *The LORD of Armies* (Hebrew *YHWH tseva'ot*) is traditionally "the LORD of hosts" or "the LORD Almighty". *Tseva'ot* means armies: the heavenly hosts and the armies of Israel. This verse repeats 11:20 with small differences.
 [^20-8]: Literally "the kidneys and the heart". In Hebrew thought the kidneys were the seat of the emotions and the heart of thought and will.
@@ -1521,7 +1522,7 @@
 
 **17** But your eyes and your heart are set only on your dishonest gain, on shedding innocent blood, on oppression and extortion.
 
-**18** Therefore this is what the LORD says about Jehoiakim son of Josiah king of Judah: They will not mourn for him, "Alas,[^22-9] my brother! Alas, sister!" They will not mourn for him, "Alas, master! Alas, his majesty!"
+**18** Therefore this is what the LORD says about Jehoiakim son of Josiah king of Judah: They will not mourn for him, "Ah,[^22-9] my brother! Ah, sister!" They will not mourn for him, "Ah, master! Ah, his majesty!"
 
 **19** He will be buried with the burial of a donkey, dragged off and thrown out beyond the gates of Jerusalem.[^22-10]
 
@@ -1658,7 +1659,7 @@
 [^23-6]: The Septuagint places verses 7–8 after verse 40. They repeat 16:14–15 with small differences.
 [^23-7]: The Hebrew has "I", as though the LORD were speaking. 16:15 has "he".
 [^23-8]: *The LORD of Armies* (Hebrew *YHWH tseva'ot*) is traditionally "the LORD of hosts" or "the LORD Almighty". *Tseva'ot* means armies: the heavenly hosts and the armies of Israel. Also in verses 16 and 36.
-[^23-9]: Hebrew *la'anah*, a plant with a very bitter taste (9:14, 9:15 in most English Bibles).
+[^23-9]: Hebrew *la'anah*, a plant with a very bitter taste (9:14; 9:15 in most English Bibles).
 [^23-10]: Hebrew *mahbilim*, from *hevel*, "breath, vapor" (2:5): "they make you empty".
 [^23-11]: The same consonants can be read "to those who despise the word of the LORD", as the Septuagint reads.
 [^23-12]: The Hebrew text is written "my word" but read "his word".
@@ -1861,7 +1862,7 @@
 [^26-3]: Hebrew *torah*, "instruction, law".
 [^26-4]: Literally "rising early and sending".
 [^26-5]: See 7:12–14.
-[^26-6]: The Hebrew text is written "Micaiah" but read "Micah". Moresheth was a town in the western foothills of Judah (Micah 1:1, 14).
+[^26-6]: The Hebrew text is written "Micaiah" but read "Micah". Moresheth was a town in the Shephelah of Judah (Micah 1:1, 14).
 [^26-7]: *The LORD of Armies* (Hebrew *YHWH tseva'ot*) is traditionally "the LORD of hosts" or "the LORD Almighty". *Tseva'ot* means armies: the heavenly hosts and the armies of Israel.
 [^26-8]: Micah 3:12. *The temple mount* is literally "the mountain of the house".
 [^26-9]: Literally "soften the face of the LORD".
@@ -2233,7 +2234,7 @@
 [^31-11]: A town about 5 miles (8 km) north of Jerusalem. Rachel, the mother of Joseph and Benjamin and so the ancestor of Ephraim, was buried in that region (1 Samuel 10:2). The exiles were gathered at Ramah before they were taken to Babylon (40:1).
 [^31-12]: Literally "because he is not". Matthew 2:18 quotes this verse.
 [^31-13]: Or "relented". Hebrew *shuvi*, "my turning", which can mean turning away or turning back (see 3:12).
-[^31-14]: A gesture of grief or remorse (Ezekiel 21:17, 21:12 in most English Bibles).
+[^31-14]: A gesture of grief or remorse (Ezekiel 21:17; 21:12 in most English Bibles).
 [^31-15]: Literally "my insides groan for him".
 [^31-16]: Hebrew *tamrurim*, the same word as "bitter" in verse 15, here probably "guideposts".
 [^31-17]: The Hebrew text is written "I traveled" but read "you traveled". The written form may be an old spelling of "you traveled" (compare 2:20, 33).
@@ -2354,7 +2355,7 @@
 [^32-6]: Or "until I punish him". Hebrew *paqad*, "visit, attend to" (29:10).
 [^32-7]: When a member of a family had to sell land, his nearest relative had the right and the duty to buy it, so that it stayed in the family (Leviticus 25:25; Ruth 4:1–6).
 [^32-8]: Literally "my uncle's son". Also in verse 9.
-[^32-9]: A shekel is about 2/5 ounce (11.5 grams), so seventeen shekels is about 7 ounces (200 grams). Literally "seven shekels and ten of silver".
+[^32-9]: A shekel is about ⅖ ounce (11.5 grams), so seventeen shekels is about 7 ounces (200 grams). Literally "seven shekels and ten of silver".
 [^32-10]: Literally "I wrote in the document".
 [^32-11]: Literally "the command and the decrees". One copy of the deed was rolled up and sealed, to keep it safe from tampering; the other was left open, to be read.
 [^32-12]: The Hebrew has "my uncle", probably short for "my uncle's son" (verses 8–9).
@@ -2370,7 +2371,7 @@
 [^32-22]: Literally "over which my name is called", that is, which belongs to me (7:10).
 [^32-23]: Literally "to make pass over to Molech", that is, to sacrifice them by burning (7:31; 2 Kings 23:10). Molech was a god to whom children were offered (Leviticus 18:21).
 [^32-24]: Literally "that I will not turn back from after them".
-[^32-25]: The low hills between the hill country of Judah and the coastal plain.
+[^32-25]: The low hills between the coastal plain and the hill country of Judah.
 [^32-26]: The dry region in the south of Judah.
 [^32-27]: Literally "turn their turning", an idiom for restoring what was lost. Or "bring back their captives".
 
@@ -2440,7 +2441,7 @@
 [^33-8]: The sounds that the LORD had said he would silence (7:34; 16:9; 25:10).
 [^33-9]: *The LORD of Armies* (Hebrew *YHWH tseva'ot*) is traditionally "the LORD of hosts" or "the LORD Almighty". *Tseva'ot* means armies: the heavenly hosts and the armies of Israel. Also in verse 12.
 [^33-10]: Hebrew *chesed*: loyal, faithful love. The words of thanksgiving are a refrain of the Psalms (Psalm 106:1; 136:1).
-[^33-11]: The Shephelah is the low hills between the hill country of Judah and the coastal plain, and the Negev the dry region in the south of Judah.
+[^33-11]: The Shephelah is the low hills between the coastal plain and the hill country of Judah, and the Negev the dry region in the south of Judah.
 [^33-12]: Verses 14–26 are not in the Septuagint. Verses 14–16 repeat, with some differences, 23:5–6.
 [^33-13]: Hebrew *tsemach*, "sprout, branch", a title of a coming king of David's line (23:5; Zechariah 3:8; 6:12).
 [^33-14]: Hebrew *YHWH tsidqenu*. In 23:6 this is the name of the king; here it is the name of Jerusalem. It may play on the name of King Zedekiah, Hebrew *Tsidqiyyahu*, "The LORD is my righteousness".
@@ -2459,7 +2460,7 @@
 
 **4** Yet hear the word of the LORD, Zedekiah king of Judah. This is what the LORD says about you: You will not die by the sword.
 
-**5** You will die in peace. As they burned spices for your ancestors, the former kings who were before you, so they will burn spices for you[^34-4] and mourn for you, "Alas, master!"[^34-5] For I myself have spoken the word, declares the LORD.
+**5** You will die in peace. As they burned spices for your ancestors, the former kings who were before you, so they will burn spices for you[^34-4] and mourn for you, "Ah, master!"[^34-5] For I myself have spoken the word, declares the LORD.
 
 **6** Jeremiah the prophet spoke all these words to Zedekiah king of Judah in Jerusalem,
 
@@ -2881,7 +2882,7 @@
 [^40-4]: The Hebrew of this sentence is difficult. Literally "And he still would not turn back, 'And turn back to Gedaliah …'". "He said" is supplied.
 [^40-5]: A town about 8 miles (13 km) north of Jerusalem, where the Babylonians now set their governor.
 [^40-6]: Verses 7–9 are also told, more briefly, in 2 Kings 25:22–24, and 40:7–41:18 is summarized in 2 Kings 25:22–26.
-[^40-7]: The Hebrew text is written "Ophai" but read "Ephai". 2 Kings 25:23 has "Johanan son of Kareah", "Seraiah son of Tanhumeth the Netophathite" and "Jaazaniah son of the Maacathite". Netophah was a town near Bethlehem.
+[^40-7]: 2 Kings 25:23 has "Johanan son of Kareah", "Seraiah son of Tanhumeth the Netophathite" and "Jaazaniah son of the Maacathite". Netophah was a town near Bethlehem.
 [^40-8]: Hebrew *Kasdim*, traditionally "Chaldeans": the people of southern Mesopotamia whose kings then ruled Babylon. Also in verse 10. 2 Kings 25:24 reads "Do not be afraid of the Babylonian officials".
 [^40-9]: Literally "to stand before the Babylonians who come to us".
 [^40-10]: Hebrew *ha-yehudim*, the people of Judah. Also in verses 12 and 15.
@@ -2938,7 +2939,7 @@
 [^41-10]: Hebrew *rav-tabbachim*, literally "chief of the butchers" or "chief of the cooks", a title of the commander of the royal bodyguard.
 [^41-11]: Literally "the great waters" (compare 2 Samuel 2:13).
 [^41-12]: Hebrew *sarisim*, court officials. The word can also mean eunuchs.
-[^41-13]: Perhaps "the lodging place of Chimham". The Hebrew text is written "Kimoham" but read "Chimham". Chimham may be the son of Barzillai to whom David showed kindness (2 Samuel 19:38–41, 19:37–40 in most English Bibles).
+[^41-13]: Perhaps "the lodging place of Chimham". Chimham may be the son of Barzillai to whom David showed kindness (2 Samuel 19:38–41; 19:37–40 in most English Bibles).
 
 ## Chapter 42
 
@@ -3173,7 +3174,7 @@
 
 **10** That day belongs to the Lord GOD of Armies,[^46-9] a day of vengeance, to avenge himself on his foes. The sword will devour and be satisfied, and drink its fill of their blood. For the Lord GOD of Armies holds a sacrifice in the land of the north, by the Euphrates River.
 
-**11** Go up to Gilead and get balm,[^46-10] virgin daughter Egypt! In vain you have used many medicines;[^46-11] there is no healing for you.
+**11** Go up to Gilead and get balm,[^46-10] virgin Daughter Egypt! In vain you have used many medicines;[^46-11] there is no healing for you.
 
 **12** The nations have heard of your shame; your cry fills the earth. For warrior has stumbled against warrior; both have fallen together.
 
@@ -3189,7 +3190,7 @@
 
 **18** As surely as I live, declares the King, whose name is the LORD of Armies, one will come like Tabor among the mountains, and like Carmel by the sea.[^46-17]
 
-**19** Pack your bags for exile, you who live there, daughter Egypt, for Memphis will become a desolation, burned[^46-18] and empty of inhabitants.
+**19** Pack your bags for exile, you who live there, Daughter Egypt, for Memphis will become a desolation, burned[^46-18] and empty of inhabitants.
 
 **20** Egypt is a beautiful heifer, but a gadfly[^46-19] from the north has come, has come!
 
@@ -3248,7 +3249,7 @@
 
 **5** Baldness has come upon Gaza;[^47-5] Ashkelon is silenced. Remnant of their valley,[^47-6] how long will you gash yourself?
 
-**6** Alas,[^47-7] sword of the LORD! How long until you are quiet? Go back into your sheath; rest and be still.
+**6** Ah,[^47-7] sword of the LORD! How long until you are quiet? Go back into your sheath; rest and be still.
 
 **7** How can it be quiet,[^47-8] when the LORD has given it a command? Against Ashkelon and against the seacoast, there he has appointed it.
 
@@ -3299,21 +3300,21 @@
 
 **17** Mourn for him, all you who are around him, all who know his name. Say, "How the mighty scepter is broken, the glorious staff!"
 
-**18** Come down from your glory and sit on the parched ground, you who live there, daughter Dibon,[^48-15] for the destroyer of Moab has come up against you; he has ruined your strongholds.
+**18** Come down from your glory and sit on the parched ground, you who live there, Daughter Dibon,[^48-15] for the destroyer of Moab has come up against you; he has ruined your strongholds.
 
 **19** Stand by the road and watch, you who live in Aroer. Ask the man who flees and the woman who escapes; say, "What has happened?"
 
 **20** Moab is put to shame, for it is shattered. Wail and cry out! Proclaim by the Arnon[^48-16] that Moab is devastated.
 
-**21** Judgment has come to the land of the plateau: to Holon, to Jahzah and to Mephaath,[^48-17]
+**21** Judgment has come to the land of the plateau: to Holon, to Jahzah and to Mephaath,
 
 **22** to Dibon, to Nebo and to Beth-diblathaim,
 
 **23** to Kiriathaim, to Beth-gamul and to Beth-meon,
 
-**24** to Kerioth and to Bozrah,[^48-18] and to all the cities of the land of Moab, far and near.
+**24** to Kerioth and to Bozrah,[^48-17] and to all the cities of the land of Moab, far and near.
 
-**25** The horn of Moab is cut off, and his arm is broken,[^48-19] declares the LORD.
+**25** The horn of Moab is cut off, and his arm is broken,[^48-18] declares the LORD.
 
 **26** Make him drunk, for he has made himself great against the LORD. Let Moab wallow in his vomit, and let him also become a laughingstock.
 
@@ -3321,21 +3322,21 @@
 
 **28** Leave the cities and live among the rocks, you who live in Moab! Be like a dove that nests on the sides of the mouth of a gorge.
 
-**29** We have heard of the pride of Moab, how very proud he is: his loftiness, his pride, his arrogance and his haughty heart.[^48-20]
+**29** We have heard of the pride of Moab, how very proud he is: his loftiness, his pride, his arrogance and his haughty heart.[^48-19]
 
-**30** I know his insolence, declares the LORD, but it is empty; his boasts accomplish nothing.[^48-21]
+**30** I know his insolence, declares the LORD, but it is empty; his boasts accomplish nothing.[^48-20]
 
-**31** Therefore I wail for Moab; for all Moab I cry out; for the men of Kir-heres[^48-22] one moans.
+**31** Therefore I wail for Moab; for all Moab I cry out; for the men of Kir-heres[^48-21] one moans.
 
-**32** More than the weeping for Jazer I weep for you, vine of Sibmah! Your tendrils crossed over the sea; they reached as far as the sea of Jazer.[^48-23] On your summer fruit and on your grape harvest the destroyer has fallen.
+**32** More than the weeping for Jazer I weep for you, vine of Sibmah! Your tendrils crossed over the sea; they reached as far as the sea of Jazer.[^48-22] On your summer fruit and on your grape harvest the destroyer has fallen.
 
-**33** Joy and gladness have been taken away from the orchard[^48-24] and from the land of Moab. I have stopped the wine from the winepresses; no one treads them with shouts of joy. The shouting is no shout of joy.[^48-25]
+**33** Joy and gladness have been taken away from the orchard[^48-23] and from the land of Moab. I have stopped the wine from the winepresses; no one treads them with shouts of joy. The shouting is no shout of joy.[^48-24]
 
-**34** From the outcry at Heshbon as far as Elealeh, as far as Jahaz they raise their voice, from Zoar to Horonaim and Eglath-shelishiyah.[^48-26] For even the waters of Nimrim have become desolate.
+**34** From the outcry at Heshbon as far as Elealeh, as far as Jahaz they raise their voice, from Zoar to Horonaim and Eglath-shelishiyah.[^48-25] For even the waters of Nimrim have become desolate.
 
-**35** I will put an end in Moab, declares the LORD, to those who offer sacrifices on the high place and burn incense[^48-27] to their gods.
+**35** I will put an end in Moab, declares the LORD, to those who offer sacrifices on the high place and burn incense[^48-26] to their gods.
 
-**36** Therefore my heart moans for Moab like a flute; my heart moans like a flute for the men of Kir-heres. Therefore the wealth they gained has perished.[^48-28]
+**36** Therefore my heart moans for Moab like a flute; my heart moans like a flute for the men of Kir-heres. Therefore the wealth they gained has perished.[^48-27]
 
 **37** For every head is shaved bald and every beard cut off; on every hand are gashes, and around the waist is sackcloth.
 
@@ -3343,21 +3344,21 @@
 
 **39** How it is shattered! How they wail! How Moab has turned his back in shame! Moab has become a laughingstock and an object of terror to all those around him.
 
-**40** For this is what the LORD says: Look, one swoops down like an eagle and spreads his wings over Moab.[^48-29]
+**40** For this is what the LORD says: Look, one swoops down like an eagle and spreads his wings over Moab.[^48-28]
 
-**41** Kerioth is captured,[^48-30] and the strongholds are seized. On that day the hearts of Moab's warriors will be like the heart of a woman in labor.
+**41** Kerioth is captured,[^48-29] and the strongholds are seized. On that day the hearts of Moab's warriors will be like the heart of a woman in labor.
 
 **42** Moab will be destroyed and be a people no more, because he made himself great against the LORD.
 
-**43** Terror, pit and trap are before you, you who live in Moab, declares the LORD.[^48-31]
+**43** Terror, pit and trap are before you, you who live in Moab, declares the LORD.[^48-30]
 
 **44** Whoever flees from the terror will fall into the pit, and whoever climbs out of the pit will be caught in the trap. For I will bring upon her, upon Moab, the year of their punishment, declares the LORD.
 
-**45** In the shadow of Heshbon the fugitives stand without strength. For fire has gone out from Heshbon, and a flame from the midst of Sihon.[^48-32] It has devoured the forehead of Moab and the skulls of the boasters.[^48-33]
+**45** In the shadow of Heshbon the fugitives stand without strength. For fire has gone out from Heshbon, and a flame from the midst of Sihon.[^48-31] It has devoured the forehead of Moab and the skulls of the boasters.[^48-32]
 
 **46** Woe to you, Moab! The people of Chemosh have perished, for your sons have been taken into captivity, and your daughters into exile.
 
-**47** Yet I will restore the fortunes[^48-34] of Moab in the days to come,[^48-35] declares the LORD. Thus far the judgment on Moab.
+**47** Yet I will restore the fortunes[^48-33] of Moab in the days to come,[^48-34] declares the LORD. Thus far the judgment on Moab.
 
 [^48-1]: *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles. *The LORD of Armies* (Hebrew *YHWH tseva'ot*) is traditionally "the LORD of hosts" or "the LORD Almighty". *Tseva'ot* means armies: the heavenly hosts and the armies of Israel. Also in verse 15. Much of this chapter has lines in common with Isaiah 15–16.
 [^48-2]: The places named in this chapter are towns of Moab, east of the Dead Sea. Nebo is the town, not the mountain (Numbers 32:38).
@@ -3366,7 +3367,7 @@
 [^48-5]: The Septuagint reads "they raise a cry to Zoar" (compare Isaiah 15:5).
 [^48-6]: Literally "with weeping goes up weeping". Compare Isaiah 15:5.
 [^48-7]: Hebrew *aro'er*, perhaps a desert shrub (compare 17:6), or the town of Aroer (verse 19).
-[^48-8]: The god of Moab (Numbers 21:29; 1 Kings 11:7). The Hebrew text is written "Kemish" but read "Chemosh".
+[^48-8]: The god of Moab (Numbers 21:29; 1 Kings 11:7).
 [^48-9]: Hebrew *ha-mishor*, the high tableland of Moab. Also in verse 21.
 [^48-10]: The meaning of the Hebrew *tsits* is uncertain here. It may mean "wings", "a flower" or "salt".
 [^48-11]: Wine was left to settle on its sediment and then poured off into other jars to clear it.
@@ -3375,25 +3376,24 @@
 [^48-14]: The Hebrew is difficult. Literally "and her cities he has gone up".
 [^48-15]: Dibon was a chief city of Moab, north of the Arnon.
 [^48-16]: The deep gorge of the Arnon cuts through Moab to the Dead Sea.
-[^48-17]: The Hebrew text is written "Mophaath" but read "Mephaath".
-[^48-18]: A town in Moab, not the Bozrah of Edom (49:13).
-[^48-19]: Pictures of strength.
-[^48-20]: Verses 29–38 have many lines in common with Isaiah 16:6–11 and 15:2–7.
-[^48-21]: The Hebrew is difficult. Literally "and not right; his empty talk, not right they have done".
-[^48-22]: Called Kir-hareseth in Isaiah 16:7, a chief fortress of Moab. Also in verse 36.
-[^48-23]: Isaiah 16:8 reads "they reached as far as Jazer". The *sea* is probably the Dead Sea.
-[^48-24]: Hebrew *karmel*, "orchard, garden land" (2:7).
-[^48-25]: Literally "the shout is not a shout". The cry of the grape treaders has become the battle cry of the enemy (25:30; 51:14).
-[^48-26]: Or "the third Eglath". Compare Isaiah 15:4–6.
-[^48-27]: Or "burn offerings". The Hebrew verb *qatar* means to make something go up in smoke.
-[^48-28]: Literally "the abundance he made has perished" (Isaiah 15:7). Flutes were played at funerals.
-[^48-29]: Verses 40–41 are nearly the same as 49:22, which is said of Edom.
-[^48-30]: Or "The towns are captured". Hebrew *qeriyyot*, "towns", is also the name of Kerioth (verse 24).
-[^48-31]: A wordplay: *pachad*, "terror", *pachat*, "pit", and *pach*, "trap". Verses 43–44 are nearly the same as Isaiah 24:17–18.
-[^48-32]: Verses 45–46 draw on the ancient song in Numbers 21:28–29 and on Numbers 24:17. Sihon was the Amorite king whose capital was Heshbon (Numbers 21:26).
-[^48-33]: Literally "the sons of tumult". Numbers 24:17 has "the sons of Sheth".
-[^48-34]: Literally "turn the turning", an idiom for restoring what was lost. Or "bring back the captives".
-[^48-35]: Literally "in the latter end of the days".
+[^48-17]: A town in Moab, not the Bozrah of Edom (49:13).
+[^48-18]: Pictures of strength.
+[^48-19]: Verses 29–38 have many lines in common with Isaiah 16:6–11 and 15:2–7.
+[^48-20]: The Hebrew is difficult. Literally "and not right; his empty talk, not right they have done".
+[^48-21]: Called Kir-hareseth in Isaiah 16:7, a chief fortress of Moab. Also in verse 36.
+[^48-22]: Isaiah 16:8 reads "they reached as far as Jazer". The *sea* is probably the Dead Sea.
+[^48-23]: Hebrew *karmel*, "orchard, garden land" (2:7).
+[^48-24]: Literally "the shout is not a shout". The cry of the grape treaders has become the battle cry of the enemy (25:30; 51:14).
+[^48-25]: Or "the third Eglath". Compare Isaiah 15:4–6.
+[^48-26]: Or "burn offerings". The Hebrew verb *qatar* means to make something go up in smoke.
+[^48-27]: Literally "the abundance he made has perished" (Isaiah 15:7). Flutes were played at funerals.
+[^48-28]: Verses 40–41 are nearly the same as 49:22, which is said of Edom.
+[^48-29]: Or "The towns are captured". Hebrew *qeriyyot*, "towns", is also the name of Kerioth (verse 24).
+[^48-30]: A wordplay: *pachad*, "terror", *pachat*, "pit", and *pach*, "trap". Verses 43–44 are nearly the same as Isaiah 24:17–18.
+[^48-31]: Verses 45–46 draw on the ancient song in Numbers 21:28–29 and on Numbers 24:17. Sihon was the Amorite king whose capital was Heshbon (Numbers 21:26).
+[^48-32]: Literally "the sons of tumult". Numbers 24:17 has "the sons of Sheth".
+[^48-33]: Literally "turn the turning", an idiom for restoring what was lost. Or "bring back the captives".
+[^48-34]: Literally "in the latter end of the days".
 
 ## Chapter 49
 
@@ -3597,7 +3597,7 @@
 
 **41** Look, a people is coming from the north; a great nation and many kings are being stirred up from the farthest parts of the earth.[^50-32]
 
-**42** They grasp bow and javelin; they are cruel and show no mercy. Their sound is like the roaring sea; they ride on horses, drawn up like warriors for battle against you, daughter Babylon.
+**42** They grasp bow and javelin; they are cruel and show no mercy. Their sound is like the roaring sea; they ride on horses, drawn up like warriors for battle against you, Daughter Babylon.
 
 **43** The king of Babylon has heard the report of them, and his hands hang limp. Anguish has gripped him, pain like that of a woman in labor.
 
@@ -3891,7 +3891,7 @@
 **34** As for his allowance, a regular allowance was given him by the king of Babylon, a portion for each day, until the day of his death, for as long as he lived.[^52-34]
 
 [^52-1]: This chapter is also found, with small differences, in 2 Kings 24:18–25:30, except for verses 28–30, which only Jeremiah has. Verses 4–16 are also told, more briefly, in 39:1–10. The differences that change the sense are given in the notes.
-[^52-2]: The Hebrew text is written "Hamital" but read "Hamutal". Her father is not Jeremiah the prophet.
+[^52-2]: Her father is not Jeremiah the prophet.
 [^52-3]: *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles.
 [^52-4]: The Septuagint does not have verses 2–3.
 [^52-5]: In January 588 BC.

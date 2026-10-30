@@ -106,7 +106,7 @@
 [^2-5]: That is, a human being, a mortal. Psalm 8:5–7 (8:4–6 in most English Bibles), quoted in verses 6–8 from the Septuagint. In verse 9 Hebrews applies the words to Jesus.
 [^2-6]: *For a little while*: or "a little", also in verse 9. The Hebrew of the psalm reads "a little lower than God" (or "than the heavenly beings"); the Septuagint has "angels".
 [^2-7]: Some manuscripts add "and you set him over the works of your hands", as in the psalm.
-[^2-8]: Many manuscripts and most modern editions read "in putting everything in subjection to him". The SBLGNT leaves out "to him", following a minority reading.
+[^2-8]: The words "to him" are not in the SBLGNT, which here follows the margin of Westcott and Hort; the other editions read "in putting everything in subjection to him".
 [^2-9]: Literally "because of the suffering of death".
 [^2-10]: The SBLGNT reads *choris theou*, "apart from God", here following a minority reading against the other editions. Many manuscripts and most modern editions read *chariti theou*, "by the grace of God". "Apart from God" may mean that Jesus died without God's help, or abandoned by God, or that "everything" in verse 8 does not include God.
 [^2-11]: That is, experience death.
@@ -173,7 +173,7 @@
 [^3-2]: Greek *apostolos*, "one who is sent", used of Jesus only here in the New Testament.
 [^3-3]: Literally "of our confession". Many manuscripts add "Christ" to "Jesus".
 [^3-4]: Literally "who made him".
-[^3-5]: Numbers 12:7, where God says of Moses, "He is trusted in all my house"; *his house* is God's house. Greek *oikos*, "house", also means "household", the people of God. Many manuscripts and most modern editions read "in all his house", as in verse 5; the SBLGNT leaves out "all", following a minority reading.
+[^3-5]: Numbers 12:7, where God says of Moses, "He is trusted in all my house"; *his house* is God's house. Greek *oikos*, "house", also means "household", the people of God. The word "all" is not in the SBLGNT, which here follows the margin of Westcott and Hort; the other editions read "in all his house", as in verse 5.
 [^3-6]: Greek *therapon*, the word used for Moses in the Septuagint of Numbers 12:7.
 [^3-7]: Literally "the confidence and the boast of the hope". Many manuscripts add "firm to the end", as in verse 14.
 [^3-8]: Psalm 95:7–11, quoted in verses 7–11 from the Septuagint; Hebrews returns to it in verse 15 and in 4:3–7. In the psalm God speaks from verse 8 on.
@@ -546,7 +546,7 @@
 [^9-4]: Greek *katapetasma*, the hanging that screened the most holy place (Exodus 26:31–33). The first hanging was the screen at the entrance of the tent (Exodus 26:36).
 [^9-5]: Literally "the holy of holies", as in Exodus 26:33.
 [^9-6]: Greek *thymiaterion*, which can mean an incense altar or a censer (a firepan for burning incense). In Exodus 30:1–6 the gold altar of incense stands in front of the veil; on the Day of Atonement the high priest took burning coals and incense inside the veil (Leviticus 16:12–13).
-[^9-7]: See Exodus 16:33–34 (the manna); Numbers 17:16–26 (17:1–11 in most English Bibles; Aaron's staff); Exodus 25:16 and Deuteronomy 10:1–5 (the tablets). 1 Kings 8:9 says that in Solomon's temple there was nothing in the ark except the tablets.
+[^9-7]: See Exodus 16:33–34 (the manna); Numbers 17:16–26 (Aaron's staff; 17:1–11 in most English Bibles); Exodus 25:16 and Deuteronomy 10:1–5 (the tablets). 1 Kings 8:9 says that in Solomon's temple there was nothing in the ark except the tablets.
 [^9-8]: Winged heavenly beings, whose figures of gold stood at the two ends of the atonement cover (Exodus 25:18–20).
 [^9-9]: Greek *hilasterion*, the Septuagint's word for the *kapporet*, the gold lid of the ark, traditionally "mercy seat" (Exodus 25:17–22). On it the high priest sprinkled blood on the Day of Atonement (Leviticus 16:14–15).
 [^9-10]: Greek *agnoemata*, "sins of ignorance", wrongs done unknowingly. See Leviticus 16.
@@ -582,7 +582,7 @@
 
 **4** For it is impossible for the blood of bulls and goats to take away sins.
 
-**5** That is why, on coming into the world, Christ says,[^10-2] "Sacrifice and offering you did not desire, but a body you prepared for me.[^10-3]
+**5** That is why, on coming into the world, he says,[^10-2] "Sacrifice and offering you did not desire, but a body you prepared for me.[^10-3]
 
 **6** In burnt offerings and sin offerings[^10-4] you took no pleasure.[^10-5]
 
@@ -653,7 +653,7 @@
 **39** But we are not among those who shrink back and are destroyed, but among those who have faith and so preserve their lives.[^10-30]
 
 [^10-1]: Many manuscripts read "they can never", referring to the priests.
-[^10-2]: Literally "coming into the world, he says". Psalm 40:7–9 (40:6–8 in most English Bibles), quoted in verses 5–7 from the Septuagint.
+[^10-2]: That is, Christ. Literally "coming into the world, he says". Psalm 40:7–9 (40:6–8 in most English Bibles), quoted in verses 5–7 from the Septuagint.
 [^10-3]: The Hebrew of the psalm reads "but you have opened my ears" (literally "ears you have dug for me").
 [^10-4]: Greek *peri hamartias*, "for sin", the Septuagint's phrase for the sin offering (Hebrew *chatta't*, also translated "purification offering"); also in verses 8 and 18.
 [^10-5]: The Hebrew reads "you did not ask for".
@@ -811,7 +811,7 @@
 [^11-42]: A Jewish tradition says that the prophet Isaiah was killed by being sawn in two. Many manuscripts add "they were tested".
 [^11-43]: Greek *melote*, "sheepskin", the Septuagint's word for Elijah's cloak (1 Kings 19:13, 19).
 [^11-44]: Compare 1 Kings 18:4, 13.
-[^11-45]: Many manuscripts and most modern editions read "And all these"; the SBLGNT leaves out "these", following a minority reading.
+[^11-45]: The word "these" is not in the SBLGNT; the other editions read "And all these".
 
 ## Chapter 12
 
@@ -976,7 +976,7 @@
 [^13-14]: Compare Zechariah 9:11, "the blood of my covenant". *By the blood*: or "with the blood", perhaps going with "the great shepherd".
 [^13-15]: Many manuscripts read "in every good work".
 [^13-16]: Many manuscripts read "in you".
-[^13-17]: Many manuscripts and most modern editions read "forever and ever"; the SBLGNT has the shorter reading, following a minority.
+[^13-17]: The words "and ever" are not in the SBLGNT; the other editions read "forever and ever".
 [^13-18]: Greek *adelphoi*, "brothers", used of men and women alike.
 [^13-19]: Literally "the word of exhortation", the phrase used of a sermon in the synagogue in Acts 13:15.
 [^13-20]: Or "You know".

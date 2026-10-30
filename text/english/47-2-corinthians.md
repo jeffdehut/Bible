@@ -237,7 +237,7 @@
 [^4-7]: Compare Genesis 1:3 and Isaiah 9:1 (9:2 in most English Bibles). Many manuscripts read "Let light shine out of darkness".
 [^4-8]: Or "the same Spirit of faith".
 [^4-9]: Psalm 116:10, following the Septuagint (where it is Psalm 115:1). The Hebrew can be read "I believed, even when I spoke" (see the note there).
-[^4-10]: Many manuscripts read "the Lord Jesus". The SBLGNT leaves out "the Lord", following a marginal reading of Westcott and Hort.
+[^4-10]: The words "the Lord" are not in the SBLGNT, which follows a marginal reading of Westcott and Hort; the other editions read "the Lord Jesus".
 [^4-11]: Many manuscripts read "through Jesus".
 [^4-12]: Literally "our outer human being"; and "our inner one".
 
@@ -356,7 +356,7 @@
 [^6-9]: Literally "in your inward parts", thought of as the seat of the emotions.
 [^6-10]: Literally "Do not become mismatched in a yoke", a picture drawn from the law against yoking different kinds of animals together (Leviticus 19:19; Deuteronomy 22:10).
 [^6-11]: Verses 6:14–7:1 raise a well-known question about the unity of the letter. The passage interrupts Paul's appeal to the Corinthians to open their hearts, which 7:2 ("Make room for us") seems to continue directly from 6:13, and it uses several words found nowhere else in Paul's letters, such as "Beliar". Some scholars think it is part of another letter (perhaps the one mentioned in 1 Corinthians 5:9) or a piece by another author that was later added here; others think Paul himself wrote it here as part of his appeal. The question arises from the content of the passage, not from differences in the manuscripts recorded in the SBLGNT apparatus.
-[^6-12]: A name for Satan, found here only in the New Testament. It comes from the Hebrew *beliyya'al*, "worthlessness" (compare Deuteronomy 13:14, 13:13 in most English Bibles), and is used in Jewish writings of the time, including the Dead Sea Scrolls.
+[^6-12]: A name for Satan, found here only in the New Testament. It comes from the Hebrew *beliyya'al*, "worthlessness" (compare Deuteronomy 13:14; 13:13 in most English Bibles), and is used in Jewish writings of the time, including the Dead Sea Scrolls.
 [^6-13]: Many manuscripts read "you are the temple of the living God".
 [^6-14]: Combining Leviticus 26:11–12 and Ezekiel 37:27.
 [^6-15]: Isaiah 52:11 ("Touch nothing unclean. Go out from the middle of her; purify yourselves"), close to the Septuagint. "I will welcome you" recalls Ezekiel 20:34 in the Septuagint, where the Hebrew has "I will gather you".

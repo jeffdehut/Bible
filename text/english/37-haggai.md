@@ -41,7 +41,7 @@
 [^1-2]: *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles.
 [^1-3]: Literally "by the hand of". Also in verses 3 and 13 and in 2:1.
 [^1-4]: Haggai and Zechariah urged the people of Judah to rebuild the temple (Ezra 5:1–2; 6:14). Exiles had returned from Babylon after 538 BC and laid the foundation of the temple, but the work had stopped (Ezra 3:8–13; 4:24). The name *Haggai* probably means "born on a festival".
-[^1-5]: Zerubbabel was a grandson of King Jehoiachin (1 Chronicles 3:17–19). He was governor of the Persian province of Judah. Joshua, called Jeshua in Ezra 3:2, was the grandson of the last high priest before the exile (1 Chronicles 5:40–41, 6:14–15 in most English Bibles).
+[^1-5]: Zerubbabel was a grandson of King Jehoiachin (1 Chronicles 3:17–19). He was governor of the Persian province of Judah. Joshua, called Jeshua in Ezra 3:2, was the grandson of the last high priest before the exile (1 Chronicles 5:40–41; 6:14–15 in most English Bibles).
 [^1-6]: Hebrew *YHWH tseva'ot*, traditionally "the LORD of hosts" or "the LORD Almighty". *Tseva'ot* means armies: the heavenly hosts and the armies of Israel. The title is used often in Haggai, Zechariah and Malachi.
 [^1-7]: Hebrew *sefunim*, "covered", that is, roofed or paneled with wood, as were the royal buildings (1 Kings 7:3, 7).
 [^1-8]: Literally "Set your heart on your ways". Also in verse 7.
@@ -115,7 +115,7 @@
 [^2-11]: Or "The latter glory of this house will be greater than the former".
 [^2-12]: 18 December 520 BC. Also in verses 18 and 20.
 [^2-13]: Hebrew *torah*, here a priest's decision on a point of the law (Leviticus 10:10–11; Deuteronomy 17:11).
-[^2-14]: Literally "holy flesh", meat from a sacrifice. Whatever touched it became holy (Leviticus 6:20, 6:27 in most English Bibles), but holiness did not pass on any further.
+[^2-14]: Literally "holy flesh", meat from a sacrifice. Whatever touched it became holy (Leviticus 6:20; 6:27 in most English Bibles), but holiness did not pass on any further.
 [^2-15]: Literally "one unclean of *nephesh*", that is, by contact with a dead person (Numbers 19:11–13, 22). Uncleanness spreads more easily than holiness.
 [^2-16]: *There* is probably the altar, rebuilt soon after the return (Ezra 3:2–3).
 [^2-17]: Literally "set your heart". Also in verse 18.

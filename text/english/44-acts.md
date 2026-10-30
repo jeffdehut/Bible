@@ -257,7 +257,7 @@
 
 **16** It is his name, by faith in his name, that has made this man strong, whom you see and know.[^3-9] The faith that comes through him has given him this complete health in front of you all.
 
-**17** Now, brothers, I know that you acted in ignorance, as did your rulers.
+**17** Now, brothers and sisters,[^3-10] I know that you acted in ignorance, as did your rulers.
 
 **18** But this is how God fulfilled what he had announced beforehand through the mouth of all the prophets, that his Messiah would suffer.
 
@@ -267,15 +267,15 @@
 
 **21** Heaven must receive him until the times when all things are restored, which God spoke about long ago through the mouth of his holy prophets.
 
-**22** Moses said,[^3-10] 'The Lord God will raise up for you a prophet like me from your own people.[^3-11] You must listen to him in everything he tells you.
+**22** Moses said,[^3-11] 'The Lord God will raise up for you a prophet like me from your own people.[^3-12] You must listen to him in everything he tells you.
 
-**23** Everyone who does not listen to that prophet will be utterly cut off from the people.'[^3-12]
+**23** Everyone who does not listen to that prophet will be utterly cut off from the people.'[^3-13]
 
 **24** And all the prophets who have spoken, from Samuel and those after him, also announced these days.
 
-**25** You are the heirs[^3-13] of the prophets and of the covenant that God made with your ancestors, when he said to Abraham, 'And in your offspring all the families of the earth will be blessed.'[^3-14]
+**25** You are the heirs[^3-14] of the prophets and of the covenant that God made with your ancestors, when he said to Abraham, 'And in your offspring all the families of the earth will be blessed.'[^3-15]
 
-**26** God raised up his servant and sent him to you first, to bless you by turning each of you from your wicked ways."[^3-15]
+**26** God raised up his servant and sent him to you first, to bless you by turning each of you from your wicked ways."[^3-16]
 
 [^3-1]: Literally "the ninth hour", counting from sunrise. Many manuscripts begin the verse "Together", taking the word from the end of 2:47.
 [^3-2]: Many manuscripts read "get up and walk".
@@ -286,12 +286,13 @@
 [^3-7]: Greek *pais*, "servant" or "child"; also in verse 26. *Has glorified his servant* echoes Isaiah 52:13 in the Septuagint ("my servant … will be glorified").
 [^3-8]: Or "Leader", "Founder", "Pioneer". Greek *archegos*.
 [^3-9]: The Greek of this sentence is awkward. Literally "And on the faith of his name, this one whom you see and know, his name made strong".
-[^3-10]: Many manuscripts read "Moses said to the ancestors".
-[^3-11]: Literally "from your brothers". Verses 22–23 quote Deuteronomy 18:15, 18–19, with words from Leviticus 23:29. In the Hebrew, "the Lord" is God's personal name, YHWH ("the LORD"). Some manuscripts read "the Lord your God", as in Deuteronomy, and many read "the Lord our God".
-[^3-12]: Greek *exolethreuo*, "destroy utterly". Deuteronomy 18:19 reads "I myself will hold him accountable"; the words "cut off from the people" are from Leviticus 23:29, where the Septuagint uses this verb.
-[^3-13]: Literally "sons".
-[^3-14]: Genesis 22:18; 26:4; 28:14 (compare 12:3). Genesis 22:18 and 26:4 have "nations"; 12:3 and 28:14 have "families".
-[^3-15]: Or "to bless you as each of you turns from your wicked ways".
+[^3-10]: Greek *adelphoi*, "brothers". Peter is addressing the whole crowd at the temple (verses 11–12).
+[^3-11]: Many manuscripts read "Moses said to the ancestors".
+[^3-12]: Literally "from your brothers". Verses 22–23 quote Deuteronomy 18:15, 18–19, with words from Leviticus 23:29. In the Hebrew, "the Lord" is God's personal name, YHWH ("the LORD"). Some manuscripts read "the Lord your God", as in Deuteronomy, and many read "the Lord our God".
+[^3-13]: Greek *exolethreuo*, "destroy utterly". Deuteronomy 18:19 reads "I myself will hold him accountable"; the words "cut off from the people" are from Leviticus 23:29, where the Septuagint uses this verb.
+[^3-14]: Literally "sons".
+[^3-15]: Genesis 22:18; 26:4; 28:14 (compare 12:3). Genesis 22:18 and 26:4 have "nations"; 12:3 and 28:14 have "families".
+[^3-16]: Or "to bless you as each of you turns from your wicked ways".
 
 ## Chapter 4
 
@@ -1142,7 +1143,7 @@
 
 **2** He killed James, the brother of John, with the sword.
 
-**3** When he saw that this pleased the Jews, he went on to arrest Peter too. This was during the days of Unleavened Bread.[^12-2]
+**3** When he saw that this pleased the Jews, he went on to arrest Peter too. This was during the days of Bread Made without Yeast.[^12-2]
 
 **4** After seizing him, he put him in prison and handed him over to four squads of four soldiers each to guard him, intending to bring him out to the people after the Passover.
 
@@ -1189,7 +1190,7 @@
 **25** Barnabas and Saul returned when they had completed their service to Jerusalem,[^12-10] and they took with them John, who was called Mark.
 
 [^12-1]: Herod Agrippa I, a grandson of Herod the Great, king over Judea from AD 41 to 44.
-[^12-2]: The Festival of Unleavened Bread, the seven days that followed the Passover meal (Exodus 12:15–20; Leviticus 23:5–8).
+[^12-2]: The Festival of Bread Made without Yeast, the seven days that followed the Passover meal (Exodus 12:15–20; Leviticus 23:5–8).
 [^12-3]: Or "slave girl".
 [^12-4]: The name means "rose".
 [^12-5]: Probably James the brother of Jesus (Mark 6:3; Galatians 1:19), who later led the church in Jerusalem (15:13; 21:18), not the James of verse 2.
@@ -1948,7 +1949,7 @@
 
 **5** These men came[^20-4] and waited for us[^20-5] at Troas.
 
-**6** But we sailed from Philippi after the days of Unleavened Bread,[^20-6] and five days later we joined them at Troas, where we stayed seven days.
+**6** But we sailed from Philippi after the days of Bread Made without Yeast,[^20-6] and five days later we joined them at Troas, where we stayed seven days.
 
 **7** On the first day of the week, when we had gathered to break bread, Paul was talking with them. Since he intended to leave the next day, he kept on speaking until midnight.
 
@@ -2019,7 +2020,7 @@
 [^20-3]: Many manuscripts leave out "son of Pyrrhus".
 [^20-4]: Some manuscripts read "These men went on ahead".
 [^20-5]: Here the narrative again says "we" (see 16:10), and does so until 21:18.
-[^20-6]: The Festival of Unleavened Bread, the seven days that follow the Passover (Exodus 12:15–20).
+[^20-6]: The Festival of Bread Made without Yeast, the seven days that follow the Passover (Exodus 12:15–20).
 [^20-7]: The name means "fortunate".
 [^20-8]: Many manuscripts add "and after staying at Trogyllium".
 [^20-9]: The Festival of Weeks, fifty days after Passover (Leviticus 23:15–21). The Greek name means "fiftieth".

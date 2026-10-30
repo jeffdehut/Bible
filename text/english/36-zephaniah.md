@@ -61,7 +61,7 @@
 [^1-16]: Or "the house of their lord", perhaps the king's palace or the temple of their god.
 [^1-17]: The Fish Gate was in the north wall of Jerusalem (Nehemiah 3:3), and the Second Quarter, Hebrew *Mishneh*, a newer part of the city (2 Kings 22:14).
 [^1-18]: Hebrew *makhtesh*, "mortar", a hollow, probably a market district in a valley of Jerusalem.
-[^1-19]: Literally "the people of Canaan". *Canaanite* came to mean "trader" (Hosea 12:8, 12:7 in most English Bibles).
+[^1-19]: Literally "the people of Canaan". *Canaanite* came to mean "trader" (Hosea 12:8; 12:7 in most English Bibles).
 [^1-20]: Literally "who thicken on their dregs", like wine left too long on its sediment, which becomes thick and syrupy (Jeremiah 48:11).
 [^1-21]: Compare Deuteronomy 28:30, 39; Amos 5:11.
 [^1-22]: The Hebrew is difficult. Literally "The sound of the day of the LORD: bitter, crying out there is a warrior."

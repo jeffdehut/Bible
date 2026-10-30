@@ -73,7 +73,7 @@
 [^1-2]: Literally "Sosthenes the brother". A Sosthenes was leader of the synagogue in Corinth (Acts 18:17); whether he is the same man is not known.
 [^1-3]: Or "sanctified", "set apart as holy".
 [^1-4]: Literally "called holy ones", traditionally "called to be saints".
-[^1-5]: To "call on the name" of the Lord is the Old Testament's expression for praying to and worshiping the LORD (Genesis 12:8; Joel 3:5, 2:32 in most English Bibles).
+[^1-5]: To "call on the name" of the Lord is the Old Testament's expression for praying to and worshiping the LORD (Genesis 12:8; Joel 3:5; 2:32 in most English Bibles).
 [^1-6]: Or "in every place, theirs and ours".
 [^1-7]: Greek *logos*, "word, speech".
 [^1-8]: Literally "the testimony of Christ". *Among you*: or "in you".
@@ -313,9 +313,9 @@
 
 **6** Your boasting is not good. Don't you know that a little yeast leavens the whole batch of dough?
 
-**7** Clean out the old yeast so that you may be a new batch, as you really are unleavened. For Christ, our Passover lamb,[^5-8] has been sacrificed.[^5-9]
+**7** Clean out the old yeast so that you may be a new batch, as you really are without yeast. For Christ, our Passover lamb,[^5-8] has been sacrificed.[^5-9]
 
-**8** So let us celebrate the festival, not with the old yeast, the yeast of malice and evil, but with the unleavened bread of sincerity and truth.
+**8** So let us celebrate the festival, not with the old yeast, the yeast of malice and evil, but with bread made without yeast, the bread of sincerity and truth.
 
 **9** I wrote to you in my letter[^5-10] not to associate with sexually immoral people.
 
@@ -340,7 +340,7 @@
 [^5-11]: Or "But in fact, I wrote to you".
 [^5-12]: Greek *adelphos*, "brother", meaning any fellow believer.
 [^5-13]: Other editions accent the verb as a future: "God will judge".
-[^5-14]: Deuteronomy 17:7, and several times in Deuteronomy (for example 13:6, 13:5 in most English Bibles), where this translation has "purge the evil from among you". The Greek, like the Hebrew, can mean "the evil" or "the evil person".
+[^5-14]: Deuteronomy 17:7, and several times in Deuteronomy (for example 13:6; 13:5 in most English Bibles), where this translation has "purge the evil from among you". The Greek, like the Hebrew, can mean "the evil" or "the evil person".
 
 ## Chapter 6
 
