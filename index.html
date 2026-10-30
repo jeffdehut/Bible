@@ -161,15 +161,29 @@ mark.hlp[data-c="orange"] { background: var(--hl-orange); }
   border-radius: 2px; background: var(--gold); opacity: 0.8;
 }
 .missing { color: var(--faint); font-style: italic; }
-.chap-head { margin: 2.2em 0 0.8em; }
-.chap-head .eyebrow { margin: 0 0 4px; }
-.chap-head.new-book { margin-top: 3.2em; padding-top: 1.4em; border-top: 1px solid var(--line); }
-.chap-num { font: 400 2em/1 var(--read); margin: 0; color: var(--ink); }
-.no-chap #chapter-number, .no-chap .chap-num { display: none; }
-.no-chap .chap-head:not(.new-book) { margin: 0; }
-.no-chap .chead { margin-bottom: 0.4em; }
+.chap-head { margin: 0 0 18px; }
+.chap + .chap > .chap-head { margin-top: 2.6em; }
+.chap + .chap > .chap-head.new-book { margin-top: 3.4em; padding-top: 1.6em; border-top: 1px solid var(--line); }
+.chap-num { margin: 0; font: 300 clamp(44px, 9vw, 64px)/1 var(--read); letter-spacing: -0.02em; }
+.no-chap .chap-head:not(.new-book) { display: none; }
+.no-chap .chap-num, .no-chap .chap-head .meta { display: none; }
 .text.no-vn .vn { display: none; }
-.more-before { display: block; margin: 0 auto 18px; font-weight: 600; }
+/* The words fade at the top and bottom of the screen, so the eye rests in the middle. */
+.fade { position: fixed; left: 0; right: 0; height: 6vh; pointer-events: none; z-index: 5; }
+.fade.top { top: calc(var(--bar) + env(safe-area-inset-top, 0px)); background: linear-gradient(var(--bg), color-mix(in srgb, var(--bg) 0%, transparent)); }
+.fade.bottom { bottom: 0; height: calc(6vh + env(safe-area-inset-bottom, 0px)); background: linear-gradient(color-mix(in srgb, var(--bg) 0%, transparent), var(--bg)); }
+body:has(#chapter[hidden]) .fade, body:has(#chapter[hidden]) .auto { display: none; }
+body.panel-open .auto { display: none; }
+.auto { position: fixed; z-index: 6; right: max(14px, env(safe-area-inset-right, 0px)); bottom: max(14px, env(safe-area-inset-bottom, 0px));
+  display: flex; align-items: center; gap: 2px; padding: 4px; border-radius: 99px; background: color-mix(in srgb, var(--raised) 88%, transparent);
+  border: 1px solid var(--line); box-shadow: var(--shadow); backdrop-filter: blur(8px); -webkit-backdrop-filter: blur(8px); opacity: 0.82; transition: opacity 0.2s; }
+.auto:hover, .auto.on { opacity: 1; }
+.auto-play { width: 40px; height: 40px; border: 0; border-radius: 50%; background: var(--lapis); color: var(--surface); display: grid; place-items: center; cursor: pointer; padding: 0; }
+.auto-play svg { width: 20px; height: 20px; }
+.auto-btn { width: 34px; height: 34px; border: 0; border-radius: 50%; background: transparent; color: var(--ink); font: 500 20px/1 var(--sans); cursor: pointer; }
+.auto-btn:hover { background: var(--lapis-soft); }
+.auto-speed { font: 600 12px/1 var(--sans); color: var(--muted); min-width: 52px; text-align: center; }
+.auto:not(.on) .auto-btn, .auto:not(.on) .auto-speed { display: none; }
 .plan-bar { display: flex; align-items: center; gap: 10px; flex-wrap: wrap; background: var(--gold-soft); border-radius: 12px; padding: 10px 12px; margin: 0 0 18px; font: 500 14px/1.35 var(--sans); }
 .plan-bar b { display: block; font-weight: 600; }
 .plan-bar .btn { margin-left: auto; }
@@ -550,23 +564,10 @@ if (/(^#|&)(access_token|error)=/.test(location.hash)) {
       <span><b id="plan-bar-text"></b><span id="plan-bar-what"></span></span>
       <button class="btn line" type="button" id="plan-bar-all">All days</button>
     </div>
-    <button class="btn line more-before" id="more-before" type="button" hidden></button>
-    <header class="chead">
-      <p class="eyebrow" id="book-name"></p>
-      <h1 id="chapter-number"></h1>
-      <div class="meta">
-        <button class="badge" id="status" type="button"></button>
-        <span class="src" id="src-line"></span>
-        <a class="web-link" id="web-link" href="graph.html" title="This chapter in the web of connections"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><circle cx="6" cy="7" r="2.2"/><circle cx="18" cy="6" r="2.2"/><circle cx="12" cy="17" r="2.2"/><path d="M8 7.6 15.9 6.4M7.2 9 11 15M16.9 8 13 15"/></svg>Connections</a>
-      </div>
-    </header>
+    <div id="more-before" aria-hidden="true"></div>
     <div class="text" id="text"></div>
     <div id="more-after" aria-hidden="true"></div>
     <section class="plan-end" id="plan-end" hidden aria-label="End of the day's reading"></section>
-    <nav class="chapnav" id="chapnav" aria-label="Chapters">
-      <button class="btn line" id="prev" type="button"></button>
-      <button class="btn line" id="next" type="button"></button>
-    </nav>
   </article>
 </main>
 
@@ -729,13 +730,6 @@ if (/(^#|&)(access_token|error)=/.test(location.hash)) {
     </div>
   </div>
   <div class="setting">
-    <span class="lbl" id="flow-label">Reading</span>
-    <div class="seg" role="group" aria-labelledby="flow-label" id="flow">
-      <button type="button" data-v="chapter">One chapter</button><button type="button" data-v="book">The book</button><button type="button" data-v="bible">The whole Bible</button>
-    </div>
-    <small>One chapter at a time, with buttons to turn the page; or scroll on through the book, or through the whole Bible, the next chapter coming as you reach the end of one.</small>
-  </div>
-  <div class="setting">
     <span class="lbl" id="versenums-label">Verse numbers</span>
     <div class="seg" role="group" aria-labelledby="versenums-label" id="versenums">
       <button type="button" data-v="on">Show</button><button type="button" data-v="off">Hide</button>
@@ -879,6 +873,13 @@ if (/(^#|&)(access_token|error)=/.test(location.hash)) {
 </section>
 
 <div class="toast" id="toast" role="status" hidden></div>
+<div class="fade top" aria-hidden="true"></div><div class="fade bottom" aria-hidden="true"></div>
+<div class="auto" id="auto">
+  <button class="auto-btn" type="button" id="auto-slower" aria-label="Slower">−</button>
+  <span class="auto-speed" id="auto-speed"></span>
+  <button class="auto-btn" type="button" id="auto-faster" aria-label="Faster">+</button>
+  <button class="auto-play" type="button" id="auto-play" aria-label="Scroll by itself"></button>
+</div>
 
 <script>
 "use strict";
@@ -887,7 +888,7 @@ const store = {
   get(k, d) { try { const v = localStorage.getItem("pe." + k); return v == null ? d : JSON.parse(v); } catch (e) { return d; } },
   set(k, v) { try { localStorage.setItem("pe." + k, JSON.stringify(v)); } catch (e) { /* storage unavailable */ } },
 };
-const settings = Object.assign({ size: 20, theme: "system", numbering: "hebrew", notes: "on", marks: "off", markOff: [], flow: "chapter", verseNums: "on", chapNums: "on" }, store.get("settings", {}));
+const settings = Object.assign({ size: 20, theme: "system", numbering: "hebrew", notes: "on", marks: "off", markOff: [], speed: 2, verseNums: "on", chapNums: "on" }, store.get("settings", {}));
 let notes = store.get("annotations", {});   // { "John.3.16": { h: "yellow", n: "text", t: 1730000000000 } }
 
 /* ---------- Data ---------- */
@@ -1004,12 +1005,13 @@ function verseLabel(b, c, row) {
   }
   return { text: String(row[0]) };
 }
-// The reader shows a run of chapters: one at a time, or, as the reader scrolls, the rest of the
-// book or of the whole Bible, or the chapters of a day in a reading plan. Each chapter is a
-// <section class="chap"> holding its verses; `cur` is the chapter being read (the one at the
-// top of the screen, or the one whose verse was last tapped).
+// The reader shows the Bible as one long text: the chosen chapter front and center, the chapter
+// before it above, and more added at either end as the reader scrolls. Each chapter is a
+// <section class="chap"> with its own heading; `cur` is the chapter being read (the one at the
+// top of the screen, or the one whose verse was last tapped). A day of a reading plan shows
+// just that day's chapters.
 const ctxOf = new WeakMap();          // section → { b, c, data, chapter, letters, prev, next, sec }
-let view = { kind: "chapter" };       // "chapter", "flow" (more as you scroll) or "plan"
+let view = { kind: "bible" };         // "bible", or "plan" for a day of a reading plan
 const bookName = b => (b.osis === "Ps" ? "Psalm" : b.n);
 function neighbors(b, c) {
   const idx = BOOKS.indexOf(b);
@@ -1018,29 +1020,27 @@ function neighbors(b, c) {
     next: c < b.s.length ? [b, c + 1] : idx < BOOKS.length - 1 ? [BOOKS[idx + 1], 1] : null,
   };
 }
-// The chapter after this one in a scrolling view: in the same book, or anywhere in the Bible.
-function flowNext(b, c) {
-  const n = neighbors(b, c).next;
-  return n && (settings.flow === "bible" || n[0] === b) ? n : null;
+const WEB_ICON = '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><circle cx="6" cy="7" r="2.2"/><circle cx="18" cy="6" r="2.2"/><circle cx="12" cy="17" r="2.2"/><path d="M8 7.6 15.9 6.4M7.2 9 11 15M16.9 8 13 15"/></svg>';
+function chapterHead(b, c, chapter) {
+  const st = chapter.s || "draft";
+  const web = el("a", { class: "web-link", href: "graph.html#" + hashSlug(b) + "-" + c, title: "This chapter in the web of connections" });
+  web.innerHTML = WEB_ICON + "Connections";
+  return el("header", { class: "chead chap-head" + (c === 1 ? " new-book" : "") },
+    el("p", { class: "eyebrow", text: b.n }),
+    el("h2", { class: "chap-num", text: (b.osis === "Ps" ? "Psalm " : "") + c }),
+    el("div", { class: "meta" },
+      el("button", { class: "badge " + st, type: "button", text: STATUS_LABEL[st] || st, onclick: () => openSheet("about") }),
+      el("span", { class: "src", text: b.t === "NT" ? "From the Greek" : allAramaic(b, c) ? "From the Aramaic" : hasAramaic(b, c) ? "From the Hebrew and Aramaic" : "From the Hebrew" }),
+      web));
 }
-function flowPrev(b, c) {
-  const p = neighbors(b, c).prev;
-  return p && (settings.flow === "bible" || p[0] === b) ? p : null;
-}
-function chapterHead(b, c, newBook) {
-  const head = el("header", { class: "chap-head" + (newBook ? " new-book" : "") });
-  if (newBook) head.append(el("p", { class: "eyebrow", text: b.n }));
-  head.append(el("h2", { class: "chap-num", text: (b.osis === "Ps" ? "Psalm " : "") + c }));
-  return head;
-}
-function buildChapter(b, c, data, opts = {}) {
+function buildChapter(b, c, data) {
   const chapter = data.chapters[c - 1];
   // Notes are lettered in order of first use.
   const letters = {};
   let k = 0;
   for (const row of chapter.v) if (row[1]) for (const m of row[1].matchAll(/\[\^(\w+)\]/g)) if (!(m[1] in letters)) letters[m[1]] = letter(k++);
   const sec = el("section", { class: "chap" + (isPoetry(b, c) ? " poetry" : ""), "data-book": b.slug, "data-c": c, "aria-label": `${bookName(b)} ${c}` });
-  if (opts.head) sec.append(chapterHead(b, c, opts.newBook));
+  sec.append(chapterHead(b, c, chapter));
   let p = el("p");
   for (const row of chapter.v) {
     const [n, en] = row;
@@ -1048,7 +1048,6 @@ function buildChapter(b, c, data, opts = {}) {
     const id = `${b.osis}.${c}.${n}`;
     const span = el("span", { class: "v", "data-v": n, "data-id": id, tabindex: "0", role: "button", "aria-label": `Verse ${lab.text}` },
       el("sup", { class: "vn" + (lab.title ? " title" : ""), text: lab.text }));
-    if (opts.anchors) span.id = "v" + n;
     if (en) span.append(inline(en, letters));
     else span.append(el("span", { class: "missing", text: "(No verse here in the critical editions; see the note.)" }));
     span.append(" ");
@@ -1060,11 +1059,12 @@ function buildChapter(b, c, data, opts = {}) {
     if (row[3] && row[3].p) { sec.append(p); p = el("p"); }
   }
   if (p.childNodes.length) sec.append(p);
-  const ctx = { b, c, data, chapter, letters, sec, ...neighbors(b, c), head: !!opts.head, newBook: !!opts.newBook, anchors: !!opts.anchors };
+  const ctx = { b, c, data, chapter, letters, sec, ...neighbors(b, c) };
   ctxOf.set(sec, ctx);
   return ctx;
 }
 const ctxOfNode = node => { const sec = node && node.closest && node.closest(".chap"); return sec ? ctxOf.get(sec) : null; };
+const sections = () => $("text").querySelectorAll(".chap");
 // The chapter being read: the address, the title and the chapter button follow it.
 function setCurrent(ctx, opts = {}) {
   if (!ctx) return;
@@ -1077,15 +1077,6 @@ function setCurrent(ctx, opts = {}) {
   if (view.kind !== "plan" && opts.address !== false) history.replaceState(null, "", refHash(b, c));
   store.set("last", { s: b.slug, c });
 }
-function setHeader(b, c, chapter) {
-  $("book-name").textContent = b.n;
-  $("chapter-number").textContent = (b.osis === "Ps" ? "Psalm " : "") + c;
-  const st = chapter.s || "draft";
-  $("status").className = "badge " + st;
-  $("status").textContent = STATUS_LABEL[st] || st;
-  $("web-link").href = "graph.html#" + hashSlug(b) + "-" + c;
-  $("src-line").textContent = b.t === "NT" ? "From the Greek" : allAramaic(b, c) ? "From the Aramaic" : hasAramaic(b, c) ? "From the Hebrew and Aramaic" : "From the Hebrew";
-}
 function applyTextOptions() {
   $("text").classList.toggle("no-vn", settings.verseNums === "off");
   $("chapter").classList.toggle("no-chap", settings.chapNums === "off");
@@ -1093,7 +1084,8 @@ function applyTextOptions() {
 let showToken = 0;
 async function show(b, c, v, opts = {}) {
   const token = ++showToken;
-  if (!opts.plan) view = { kind: settings.flow === "book" || settings.flow === "bible" ? "flow" : "chapter" };
+  if (!opts.plan) view = { kind: "bible" };
+  autoScroll.stop();
   $("loading").hidden = false;
   let data;
   try { data = await getJSON("text/" + b.slug + ".json"); }
@@ -1102,113 +1094,89 @@ async function show(b, c, v, opts = {}) {
   closeVerse();
   $("loading").hidden = true;
   $("chapter").hidden = false;
-  setHeader(b, c, data.chapters[c - 1]);
   applyTextOptions();
   const text = $("text");
   text.textContent = "";
-  const ctx = buildChapter(b, c, data, { anchors: true });
+  const ctx = buildChapter(b, c, data);
   text.append(ctx.sec);
   cur = null;
   setCurrent(ctx, { force: true, address: false });
   if (settings.marks === "on") paintMarks(ctx);
-  // Remember.
   const recent = store.get("recent", []).filter(r => !(r.s === b.slug && r.c === c));
   recent.unshift({ s: b.slug, c });
   store.set("recent", recent.slice(0, 8));
   $("plan-bar").hidden = view.kind !== "plan";
   $("plan-end").hidden = true;
-  updateEnds();
   if (view.kind === "plan") await fillPlan(token);
-  else if (view.kind === "flow") watchMore();
   if (token !== showToken) return;
-  const target = v ? $("v" + v) : opts.chapterIndex ? text.querySelectorAll(".chap")[opts.chapterIndex] : null;
+  // The chosen chapter (or verse) at the top of the screen, just under the bar.
+  const target = v ? ctx.sec.querySelector(`.v[data-v="${v}"]`) : opts.chapterIndex ? sections()[opts.chapterIndex] : view.kind === "plan" ? null : ctx.sec;
   if (target) {
-    requestAnimationFrame(() => {
-      const y = target.getBoundingClientRect().top + scrollY - 90;
-      scrollTo({ top: Math.max(0, y), behavior: "instant" in document.documentElement.style ? "instant" : "auto" });
-      if (v) { target.classList.add("flash"); setTimeout(() => target.classList.remove("flash"), 1700); }
-    });
-  } else if (!opts.keepScroll) scrollTo(0, 0);
-  if ((data.chapters[c - 1].s || "draft") === "draft" && !store.get("seenDraft", false)) {
+    const y = target.getBoundingClientRect().top + scrollY - (v ? 120 : 70);
+    scrollTo({ top: Math.max(0, y), behavior: "instant" });
+    if (v) { target.classList.add("flash"); setTimeout(() => target.classList.remove("flash"), 1700); }
+  } else scrollTo({ top: 0, behavior: "instant" });
+  if (view.kind === "bible") watchEnds();
+  if ((ctx.chapter.s || "draft") === "draft" && !store.get("seenDraft", false)) {
     store.set("seenDraft", true);
     toast("This translation is a first draft. Tap the Draft label to learn more.", 5200);
   }
-  // Fetch the next book's text in the background, so turning the page is instant.
-  if (ctx.next) getJSON("text/" + ctx.next[0].slug + ".json").catch(() => {});
 }
-// The buttons at the two ends of what is shown.
-function updateEnds() {
-  const secs = $("text").querySelectorAll(".chap");
-  const first = secs.length ? ctxOf.get(secs[0]) : null, last = secs.length ? ctxOf.get(secs[secs.length - 1]) : null;
-  const name = (bk, ch) => bookName(bk) + " " + ch;
-  // Before the first chapter: in a scrolling view, a button that brings the chapter before.
-  const before = view.kind === "flow" && first ? flowPrev(first.b, first.c) : null;
-  $("more-before").hidden = !before;
-  if (before) { $("more-before").textContent = "↑ " + name(...before); $("more-before").onclick = () => addBefore(before); }
-  // After the last: the next chapter, unless more will come as the reader scrolls.
-  const nav = $("chapnav");
-  if (view.kind === "plan" || !last) { nav.hidden = true; return; }
-  const more = view.kind === "flow" && flowNext(last.b, last.c);
-  nav.hidden = !!more;
-  const prev = view.kind === "flow" ? (first && neighbors(first.b, first.c).prev) : last.prev;
-  const next = last.next;
-  $("prev").hidden = !prev || view.kind === "flow"; $("next").hidden = !next;
-  if (prev) { $("prev").textContent = "← " + name(...prev); $("prev").onclick = () => go(...prev); }
-  if (next) { $("next").textContent = name(...next) + " →"; $("next").onclick = () => go(...next); }
+// More of the Bible as either end comes near.
+let endObserver = null, adding = false;
+function watchEnds() {
+  if (!endObserver) endObserver = new IntersectionObserver(entries => {
+    for (const e of entries) if (e.isIntersecting) e.target.id === "more-after" ? addAfter() : addBefore();
+  }, { rootMargin: "1600px 0px 1600px 0px" });
+  endObserver.disconnect();
+  endObserver.observe($("more-before"));
+  endObserver.observe($("more-after"));
 }
-// Scrolling views: the next chapter is added when the end comes near.
-let moreObserver = null, adding = false;
-function watchMore() {
-  if (!moreObserver) moreObserver = new IntersectionObserver(entries => { if (entries.some(e => e.isIntersecting)) addMore(); }, { rootMargin: "0px 0px 1500px 0px" });
-  moreObserver.disconnect();
-  moreObserver.observe($("more-after"));
-}
-async function addMore() {
-  if (adding || view.kind !== "flow") return;
-  const secs = $("text").querySelectorAll(".chap");
-  const last = ctxOf.get(secs[secs.length - 1]);
-  const nx = last && flowNext(last.b, last.c);
-  if (!nx) return;
+const near = id => { const r = $(id).getBoundingClientRect(); return r.bottom > -1600 && r.top < innerHeight + 1600; };
+async function addAfter() {
+  if (adding || view.kind !== "bible") return;
+  const secs = sections(), last = ctxOf.get(secs[secs.length - 1]);
+  if (!last || !last.next) return;
   adding = true;
   const token = showToken;
   try {
-    const data = await getJSON("text/" + nx[0].slug + ".json");
+    const [b, c] = last.next;
+    const data = await getJSON("text/" + b.slug + ".json");
     if (token !== showToken) return;
-    const ctx = buildChapter(nx[0], nx[1], data, { head: true, newBook: nx[0] !== last.b });
+    const ctx = buildChapter(b, c, data);
     $("text").append(ctx.sec);
     if (settings.marks === "on") paintMarks(ctx);
-    updateEnds();
-  } catch (e) { /* offline: try again on the next scroll */ }
+  } catch (e) { return; /* offline: try again on the next scroll */ }
   finally { adding = false; }
-  // Still near the end (a short chapter): add another.
-  const r = $("more-after").getBoundingClientRect();
-  if (r.top < innerHeight + 1500 && token === showToken) addMore();
+  if (token === showToken && near("more-after")) addAfter();
+  else if (token === showToken && near("more-before")) addBefore();
 }
-async function addBefore([b, c]) {
+async function addBefore() {
+  if (adding || view.kind !== "bible") return;
+  const first = ctxOf.get(sections()[0]);
+  if (!first || !first.prev) return;
+  adding = true;
   const token = showToken;
-  let data;
-  try { data = await getJSON("text/" + b.slug + ".json"); } catch (e) { return; }
-  if (token !== showToken) return;
-  const text = $("text"), first = text.querySelector(".chap"), old = ctxOf.get(first);
-  // The chapter that was first gets a heading of its own, and the new one takes the page's.
-  const was = buildChapter(old.b, old.c, old.data, { head: true, newBook: old.b !== b });
-  first.replaceWith(was.sec);
-  if (settings.marks === "on") paintMarks(was);
-  const ctx = buildChapter(b, c, data, { anchors: true });
-  const y0 = was.sec.getBoundingClientRect().top;
-  text.prepend(ctx.sec);
-  for (const s of was.sec.querySelectorAll("[id^='v']")) s.removeAttribute("id");
-  setHeader(b, c, data.chapters[c - 1]);
-  // Keep the words on screen where they were.
-  scrollBy(0, was.sec.getBoundingClientRect().top - y0);
-  if (settings.marks === "on") paintMarks(ctx);
-  updateEnds();
+  try {
+    const [b, c] = first.prev;
+    const data = await getJSON("text/" + b.slug + ".json");
+    if (token !== showToken) return;
+    const ctx = buildChapter(b, c, data);
+    // Keep the words on screen where they were: measure, add above, and scroll by the difference.
+    const y0 = first.sec.getBoundingClientRect().top;
+    $("text").prepend(ctx.sec);
+    const dy = first.sec.getBoundingClientRect().top - y0;
+    if (dy) scrollBy({ top: dy, behavior: "instant" });
+    if (settings.marks === "on") paintMarks(ctx);
+  } catch (e) { return; }
+  finally { adding = false; }
+  if (token === showToken && near("more-after")) addAfter();
 }
 // Re-draw what is shown (a setting or a highlight changed), keeping the place.
 function refresh() {
-  for (const sec of [...$("text").querySelectorAll(".chap")]) {
+  for (const sec of [...sections()]) {
     const o = ctxOf.get(sec);
-    const ctx = buildChapter(o.b, o.c, o.data, { head: o.head, newBook: o.newBook, anchors: o.anchors });
+    const ctx = buildChapter(o.b, o.c, o.data);
     sec.replaceWith(ctx.sec);
     if (cur && cur.sec === sec) cur = ctx;
     if (settings.marks === "on") paintMarks(ctx);
@@ -1218,16 +1186,47 @@ function refresh() {
 // Follow the chapter at the top of the screen.
 let trackQueued = false;
 addEventListener("scroll", () => {
-  if (trackQueued || view.kind === "chapter") return;
+  if (trackQueued) return;
   trackQueued = true;
   requestAnimationFrame(() => {
     trackQueued = false;
-    const secs = $("text").querySelectorAll(".chap");
+    const secs = sections();
     let at = secs[0];
     for (const sec of secs) { if (sec.getBoundingClientRect().top < innerHeight * 0.35) at = sec; else break; }
     if (at && $("verse").hidden) setCurrent(ctxOf.get(at));
   });
 }, { passive: true });
+
+/* ---------- Scrolling by itself ---------- */
+// The play button scrolls the text at a reading pace; touching the text or scrolling stops it.
+const SPEEDS = [8, 12, 18, 26, 38];     // lines a minute
+const autoScroll = (() => {
+  let raf = 0, last = 0, carry = 0;
+  const lineHeight = () => parseFloat(getComputedStyle($("text")).lineHeight) || settings.size * 1.7;
+  function frame(t) {
+    const dt = Math.min(100, t - last); last = t;
+    carry += SPEEDS[settings.speed] / 60 * lineHeight() * dt / 1000;
+    const step = Math.floor(carry);
+    if (step) { carry -= step; scrollBy({ top: step, behavior: "instant" }); }
+    if (view.kind === "plan" && innerHeight + scrollY >= document.documentElement.scrollHeight - 2) { stop(); return; }
+    raf = requestAnimationFrame(frame);
+  }
+  function start() { if (raf) return; last = performance.now(); carry = 0; raf = requestAnimationFrame(frame); render(); }
+  function stop() { if (!raf) return; cancelAnimationFrame(raf); raf = 0; render(); }
+  function render() {
+    const on = !!raf;
+    $("auto").classList.toggle("on", on);
+    $("auto-play").setAttribute("aria-label", on ? "Stop scrolling" : "Scroll by itself");
+    $("auto-play").innerHTML = on ? '<svg viewBox="0 0 24 24" fill="currentColor"><rect x="7" y="6" width="3.5" height="12" rx="1"/><rect x="13.5" y="6" width="3.5" height="12" rx="1"/></svg>'
+      : '<svg viewBox="0 0 24 24" fill="currentColor"><path d="M8 5.5v13l10.5-6.5z"/></svg>';
+    $("auto-speed").textContent = ["Slowest", "Slow", "Steady", "Fast", "Fastest"][settings.speed];
+  }
+  return { start, stop, render, toggle: () => (raf ? stop() : start()), get on() { return !!raf; } };
+})();
+$("auto-play").onclick = () => autoScroll.toggle();
+$("auto-slower").onclick = () => { settings.speed = Math.max(0, settings.speed - 1); store.set("settings", settings); autoScroll.render(); };
+$("auto-faster").onclick = () => { settings.speed = Math.min(SPEEDS.length - 1, settings.speed + 1); store.set("settings", settings); autoScroll.render(); };
+for (const ev of ["wheel", "touchstart", "keydown"]) addEventListener(ev, e => { if (autoScroll.on && !e.target.closest?.("#auto")) autoScroll.stop(); }, { passive: true });
 
 /* ---------- A day of a reading plan ---------- */
 // "#plan-6" shows day 6 of the plan being followed, all its chapters one after another, and at
@@ -1245,11 +1244,11 @@ async function showPlanDay(day, k) {
 async function fillPlan(token) {
   const { list } = view;
   for (let i = 1; i < list.length; i++) {
-    const [b, c] = list[i], [pb, pc] = list[i - 1];
+    const [b, c] = list[i];
     let data;
     try { data = await getJSON("text/" + b.slug + ".json"); } catch (e) { break; }
     if (token !== showToken) return;
-    const ctx = buildChapter(b, c, data, { head: true, newBook: b !== pb || c !== pc + 1 });
+    const ctx = buildChapter(b, c, data);
     $("text").append(ctx.sec);
     if (settings.marks === "on") paintMarks(ctx);
   }
@@ -2278,7 +2277,7 @@ $("restore-apply").onclick = () => {
 };
 
 /* ---------- Settings ---------- */
-const SEGS = [["theme", "theme"], ["numbering", "numbering"], ["shownotes", "notes"], ["showmarks", "marks"], ["flow", "flow"], ["versenums", "verseNums"], ["chapnums", "chapNums"]];
+const SEGS = [["theme", "theme"], ["numbering", "numbering"], ["shownotes", "notes"], ["showmarks", "marks"], ["versenums", "verseNums"], ["chapnums", "chapNums"]];
 function applySettings() {
   document.documentElement.style.setProperty("--size", settings.size + "px");
   if (settings.theme === "system") document.documentElement.removeAttribute("data-theme");
@@ -2297,7 +2296,6 @@ for (const [id, key] of SEGS)
     settings[key] = b.dataset.v; applySettings();
     if (!cur || key === "theme") return;
     if (key === "verseNums" || key === "chapNums") applyTextOptions();
-    else if (key === "flow") { if (view.kind !== "plan") show(cur.b, cur.c); }
     else if (key === "marks") repaintMarks();
     else refresh();
   };
@@ -2527,7 +2525,6 @@ $("text").addEventListener("keydown", ev => {
   const v = ev.target.closest && ev.target.closest(".v");
   if (v && (ev.key === "Enter" || ev.key === " ")) { ev.preventDefault(); openVerse(v); }
 });
-$("status").onclick = () => openSheet("about");
 $("where").onclick = openPicker;
 $("open-search").onclick = () => { openSheet("search"); };
 $("open-settings").onclick = () => openSheet("settings");
@@ -2586,6 +2583,7 @@ function route() {
   show(b, c);
 }
 applySettings();
+autoScroll.render();
 getJSON("books.json").then(list => {
   BOOKS = list;
   for (const b of BOOKS) { bySlug[b.slug] = b; byOsis[b.osis] = b; }
@@ -2593,7 +2591,7 @@ getJSON("books.json").then(list => {
   addEventListener("hashchange", route);
   route();
 }).catch(() => { $("loading").textContent = "The Bible couldn't be loaded. Check your connection and reload the page."; });
-if ("serviceWorker" in navigator && /^https?:$/.test(location.protocol) && !embedded) navigator.serviceWorker.register("sw.js?v=21").catch(() => {});
+if ("serviceWorker" in navigator && /^https?:$/.test(location.protocol) && !embedded) navigator.serviceWorker.register("sw.js?v=22").catch(() => {});
 
 /* ---------- For account.js: highlights and notes, and two of the reader's tools ---------- */
 var reader = {
@@ -2611,8 +2609,8 @@ var reader = {
   openSheet, toast,
 };
 </script>
-<script src="config.js?v=21"></script>
-<script src="share.js?v=21"></script>
-<script src="account.js?v=21"></script>
+<script src="config.js?v=22"></script>
+<script src="share.js?v=22"></script>
+<script src="account.js?v=22"></script>
 </body>
 </html>
