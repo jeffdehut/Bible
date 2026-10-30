@@ -50,6 +50,11 @@ the site is a test. (`netlify.toml` holds the Netlify settings below; Porkbun ig
 | `send` | MX, TXT | as Resend's domain page gives them | sign-in emails sent through Resend |
 | `resend._domainkey` | TXT | as Resend's domain page gives it | the same (DKIM) |
 
+`info@bibledata.org` (the reader's **Send feedback** buttons, set as `feedback` in `config.js`)
+needs its own forward, made the same way. To show **Support this project** in the reader's
+**About this project** page, put the address of a donation page (Ko-fi, GitHub Sponsors, a
+PayPal or Stripe payment link) in `support` in `config.js`; left empty, the section stays hidden.
+
 `privacy@bibledata.org` forwards, through Porkbun (**Domain Management → Email → Email
 Forwarding**), to the owner's inbox. Supabase sends its sign-in emails through Resend (see
 step 3 under *Accounts*), from `signin@bibledata.org`.

@@ -11,4 +11,9 @@ window.SITE_CONFIG = {
   },
   // Where people can write about their data, shown on privacy.html. Needed before accounts go on.
   contact: "privacy@bibledata.org",   // a Porkbun email forward to the owner's inbox
+  // Where readers send questions and suggestions: the "Send feedback" buttons.
+  feedback: "info@bibledata.org",
+  // A page where people can support the project financially (a donation page). Leave empty to
+  // hide the "Support this project" section.
+  support: "",
 };

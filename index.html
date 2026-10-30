@@ -692,6 +692,7 @@ if (/(^#|&)(access_token|error)=/.test(location.hash)) {
     <li><button type="button" id="open-plans"><span>Reading plans<small id="plans-sub">Through the Bible in a year, and shorter plans</small></span></button></li>
     <li><button type="button" id="open-parallels"><span>Parallel passages<small>The Gospels side by side; Kings beside Chronicles</small></span></button></li>
     <li><button type="button" id="open-study"><span>Topics and dictionary<small>Nave’s topics and Easton’s Bible dictionary</small></span></button></li>
+    <li><button type="button" id="open-project"><span>About this project<small>Who made it, feedback and support</small></span></button></li>
     <li><button type="button" id="open-about"><span>About this translation<small>A first draft, awaiting review</small></span></button></li>
     <li><a href="maps/index.html"><span>Bible maps<small>Eight sheets, from the patriarchs to Paul</small></span></a></li>
     <li><a href="genealogy.html"><span>The Generations<small>From Adam to Jesus, and every family</small></span></a></li>
@@ -725,6 +726,23 @@ if (/(^#|&)(access_token|error)=/.test(location.hash)) {
   <div class="grab"></div>
   <div class="sheet-head"><h2 id="account-title">Sync across devices</h2><button class="btn" type="button" data-close aria-label="Close"><svg class="icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M6 6l12 12M18 6 6 18"/></svg></button></div>
   <div id="account-body"></div>
+</section>
+
+<section class="sheet dialog" id="project" hidden aria-labelledby="project-title">
+  <div class="grab"></div>
+  <div class="sheet-head"><h2 id="project-title">About this project</h2><button class="btn" type="button" data-close aria-label="Close"><svg class="icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M6 6l12 12M18 6 6 18"/></svg></button></div>
+  <div class="prose">
+    <p><strong>Plain English Bible</strong> brings together a new, openly licensed translation of the whole Bible from the Hebrew, Aramaic and Greek, with the original words beneath it, maps, a genealogy, a timeline of world history, and the web of connections that runs through Scripture: made to be read on a phone, free to everyone, and open for anyone to reuse.</p>
+    <p>Designed and orchestrated by <strong>Jeff Dehut</strong>. The translation and the tools were drafted with the help of AI (Claude) and are being reviewed; every source and license is credited where it is used.</p>
+    <h3>Questions and suggestions</h3>
+    <p>Found a mistake, have a question, or an idea for the project? We read every message.</p>
+    <p class="actions"><a class="btn solid" id="feedback-link" href="mailto:info@bibledata.org"><svg class="icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="5" width="18" height="14" rx="2"/><path d="m3 7 9 6 9-6"/></svg>Send feedback</a></p>
+    <div id="support-wrap" hidden>
+      <h3>Support this project</h3>
+      <p>The site has no ads and never will, and everything in it is free to use. If it has helped you, you can help keep it growing: hosting, review of the translation, and new languages.</p>
+      <p class="actions"><a class="btn line" id="support-link" href="#" target="_blank" rel="noopener"><svg class="icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 20s-7-4.4-7-10a4 4 0 0 1 7-2.6A4 4 0 0 1 19 10c0 5.6-7 10-7 10Z"/></svg>Support this project</a></p>
+    </div>
+  </div>
 </section>
 
 <section class="sheet dialog" id="about" hidden aria-labelledby="about-title">
@@ -2105,6 +2123,16 @@ $("open-settings").onclick = () => openSheet("settings");
 $("open-menu").onclick = () => openSheet("menu");
 $("open-mine").onclick = () => { renderMine(); $("backup-box").hidden = true; openSheet("mine"); };
 $("open-about").onclick = () => openSheet("about");
+$("open-project").onclick = () => openSheet("project");
+// Feedback and support, from config.js.
+// config.js loads after this script, so read it once the page has loaded.
+addEventListener("DOMContentLoaded", () => {
+  const cfg = window.SITE_CONFIG || {};
+  const ref = cur => (cur ? ` (${cur.b.osis === "Ps" ? "Psalm" : cur.b.n} ${cur.c})` : "");
+  if (cfg.feedback) $("feedback-link").onclick = () => { $("feedback-link").href = `mailto:${cfg.feedback}?subject=${encodeURIComponent("Plain English Bible" + ref(cur))}`; };
+  else $("feedback-link").hidden = true;
+  if (cfg.support) { $("support-link").href = cfg.support; $("support-wrap").hidden = false; }
+});
 $("home").onclick = ev => { ev.preventDefault(); openPicker(); };
 $("scrim").onclick = closeSheets;
 $("verse-scrim").onclick = closeVerse;
@@ -2148,7 +2176,7 @@ getJSON("books.json").then(list => {
   addEventListener("hashchange", route);
   route();
 }).catch(() => { $("loading").textContent = "The Bible couldn't be loaded. Check your connection and reload the page."; });
-if ("serviceWorker" in navigator && /^https?:$/.test(location.protocol) && !embedded) navigator.serviceWorker.register("sw.js?v=17").catch(() => {});
+if ("serviceWorker" in navigator && /^https?:$/.test(location.protocol) && !embedded) navigator.serviceWorker.register("sw.js?v=18").catch(() => {});
 
 /* ---------- For account.js: highlights and notes, and two of the reader's tools ---------- */
 var reader = {
@@ -2166,8 +2194,8 @@ var reader = {
   openSheet, toast,
 };
 </script>
-<script src="config.js?v=17"></script>
-<script src="share.js?v=17"></script>
-<script src="account.js?v=17"></script>
+<script src="config.js?v=18"></script>
+<script src="share.js?v=18"></script>
+<script src="account.js?v=18"></script>
 </body>
 </html>
