@@ -52,8 +52,12 @@ h2 { margin: 28px 0 6px; font: 500 22px/1.2 var(--read); }
 .field .row { display: grid; grid-template-columns: 26px repeat(36, minmax(0, 1fr)); gap: 3px; align-items: center; }
 .field .row b { font: 600 11px/1 var(--sans); color: var(--faint); text-align: right; padding-right: 4px; }
 .dot { aspect-ratio: 1; min-width: 0; padding: 0; border: 0; border-radius: 3px; background: var(--c); cursor: pointer; transition: opacity 0.2s, background 0.2s; }
+.dot { display: grid; place-items: center; color: var(--ic); }
+.dot .ti { width: 72%; height: 72%; stroke-width: 2; opacity: 0.85; pointer-events: none; }
+.field.small .dot .ti { display: none; }
 .dot.dim { opacity: 0.18; }
-.dot.hit { background: var(--hit); opacity: 1; }
+.dot.hit { background: var(--hit); opacity: 1; color: var(--surface); }
+.dot.hit .ti { opacity: 1; }
 .dot[aria-pressed="true"] { outline: 2px solid var(--ink); outline-offset: 1px; }
 .dot:focus-visible { outline: 2px solid var(--ink); outline-offset: 1px; }
 .summary { margin: 10px 0 0; font-size: 14px; color: var(--muted); min-height: 1.5em; }
@@ -134,6 +138,11 @@ h2 { margin: 28px 0 6px; font: 500 22px/1.2 var(--read); }
   $("topics").append(...chips);
 
   /* ---------- The field ---------- */
+  // Each square shows its verse's most particular topic: of the topics it speaks of, the one the
+  // book speaks of least, so "the heart" or "the LORD" gives way to the ant or the flame.
+  const total = D.topics.map((_, k) => count(k));
+  const mainIcon = x => x.topics.length ? iconOf(x.topics.reduce((a, b) => (total[b] < total[a] ? b : a))) : x.but ? "but" : null;
+  const setIcon = (d, name) => { if (d.dataset.icon === (name || "")) return; d.dataset.icon = name || ""; d.replaceChildren(...(name ? [Themes.el(name)] : [])); };
   const dots = [];
   for (let c = 1; c <= 31; c++) {
     const row = el("div", { class: "row" }, el("b", { text: String(c) }));
@@ -154,6 +163,8 @@ h2 { margin: 28px 0 6px; font: 500 22px/1.2 var(--read); }
       const m = matches(x);
       d.classList.toggle("hit", topic != null && m);
       d.classList.toggle("dim", any && !m);
+      d.style.setProperty("--ic", BANDS[x.col][dk]);
+      setIcon(d, topic != null && m ? iconOf(topic) : mainIcon(x));
     }
     const C = col != null ? D.collections[col] : null;
     $("about").hidden = !C;
@@ -189,9 +200,11 @@ h2 { margin: 28px 0 6px; font: 500 22px/1.2 var(--read); }
   function close() { if (open) open[0].setAttribute("aria-pressed", "false"); open = null; $("card").hidden = true; }
   addEventListener("keydown", e => { if (e.key === "Escape") close(); });
 
+  const sized = () => $("field").classList.toggle("small", (dots[0]?.[0].offsetWidth || 0) < 16);
+  addEventListener("resize", sized);
   const h = location.hash.slice(1), k = D.topics.findIndex(t => t[0] === h);
   if (k >= 0) topic = k;
-  update();
+  update(); sized();
   matchMedia("(prefers-color-scheme: dark)").addEventListener("change", update);
 })();
 </script>
