@@ -95,28 +95,20 @@ body::before { content: ""; position: fixed; inset: 0 0 auto; height: env(safe-a
 .appbar .brand img { width: 26px; height: 26px; border-radius: 7px; flex: none; }
 .appnav { margin-inline-start: auto; display: flex; gap: 2px; }
 .appnav a {
-  display: inline-flex; align-items: center; min-height: 40px; padding: 0 12px; border-radius: 10px; white-space: nowrap;
-  font: 600 14px/1 "Libre Franklin", system-ui, -apple-system, "Segoe UI", sans-serif; color: var(--muted); text-decoration: none;
+  display: inline-grid; place-items: center; width: 42px; height: 40px; border-radius: 10px; color: var(--muted); text-decoration: none;
 }
+.appnav svg { width: 22px; height: 22px; }
 .appnav a:hover { background: var(--lapis-soft); color: var(--ink); }
 .appnav a[aria-current="page"] { background: var(--lapis-soft); color: var(--lapis); }
 .appbar a:focus-visible { outline: 2px solid var(--lapis); outline-offset: 0; }
-@media (max-width: 640px) { .appbar .brand span { display: none; } .appnav a { padding: 0 9px; } }
-/* On a phone the five parts take the whole bar, and scroll sideways if they still don't fit. */
-@media (max-width: 480px) {
-  .appbar .brand { display: none; }
-  .appnav { margin-inline: 0; flex: 1; justify-content: space-between; overflow-x: auto; scrollbar-width: none; }
-  .appnav::-webkit-scrollbar { display: none; }
-  .appnav a { padding: 0 7px; font-size: 13.5px; flex: none; }
-}
-@media (max-width: 480px) { .appbar .sitenav-btn { width: 36px; } }
+@media (max-width: 420px) { .appbar .brand span { display: none; } .appnav a { width: 40px; } }
 @media print { .appbar { display: none; } }
 </style>
 <header class="appbar">
   <a class="brand" href="index.html"><img src="icons/icon.svg" alt="Plain English Bible"><span aria-hidden="true">Plain English Bible</span></a>
-  <nav class="appnav" aria-label="Plain English Bible"><a href="index.html">Read</a><a href="maps/index.html">Maps</a><a href="genealogy.html">Genealogy</a><a href="history.html">Timeline</a><a href="graph.html">Connections</a></nav>
+  <nav class="appnav" aria-label="Plain English Bible"><a href="index.html" title="Read" aria-label="Read"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M12 6.5C10 5 7 4.5 3.5 5v14c3.5-.5 6.5 0 8.5 1.5 2-1.5 5-2 8.5-1.5V5C17 4.5 14 5 12 6.5Z"/><path d="M12 6.5v14"/><path d="M6.5 9.5h3M6.5 13h3M14.5 9.5h3M14.5 13h3"/></svg></a><a href="maps/index.html" title="Maps" aria-label="Maps"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M9 4 3.5 6v14L9 18l6 2 5.5-2V4L15 6 9 4Z"/><path d="M9 4v14M15 6v14"/></svg></a><a href="genealogy.html" title="Genealogy" aria-label="Genealogy"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="12" cy="5" r="2.2"/><circle cx="6" cy="19" r="2.2"/><circle cx="18" cy="19" r="2.2"/><path d="M12 7.2V12M6 16.8V12h12v4.8"/></svg></a><a href="history.html" title="Timeline" aria-label="Timeline"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M3 6.5c3 0 3-2 6-2s3 2 6 2 3-2 6-2"/><path d="M3 12c3 0 3-2 6-2s3 2 6 2 3-2 6-2"/><path d="M3 17.5c3 0 3-2 6-2s3 2 6 2 3-2 6-2"/><path d="M8 21v-2.5M16 21v-2.5"/></svg></a><a href="graph.html" title="Connections" aria-label="Connections"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="6" cy="7" r="2.2"/><circle cx="18" cy="6" r="2.2"/><circle cx="12" cy="17" r="2.2"/><path d="M8 7.6 15.9 6.4M7.2 9 11 15M16.9 8 13 15"/></svg></a></nav>
 </header>
-<script src="nav.js?v=30"></script>
+<script src="nav.js?v=31"></script>
 <script>document.querySelector(".appnav [aria-current]")?.scrollIntoView({ inline: "nearest", block: "nearest" });</script>
 
 <div class="stage" id="stage">
@@ -142,6 +134,7 @@ body::before { content: ""; position: fixed; inset: 0 0 auto; height: env(safe-a
   <article class="card" id="card" hidden aria-live="polite"></article>
 </div>
 
+<script src="share.js?v=31"></script>
 <script>
 (() => {
   const $ = id => document.getElementById(id);
@@ -152,11 +145,11 @@ body::before { content: ""; position: fixed; inset: 0 0 auto; height: env(safe-a
 
   // The colors of the Connections page, on its night stage.
   const GROUPS = [
-    { name: "Torah", sec: [0], c: "#f2c45a" }, { name: "History", sec: [1], c: "#f59a62" },
-    { name: "Wisdom", sec: [2], c: "#8fdc8a" }, { name: "Prophets", sec: [3], c: "#ff7272" },
-    { name: "Gospels", sec: [4], c: "#6fb0ff" }, { name: "Acts", sec: [5], c: "#4fd6cb" },
-    { name: "Letters", sec: [6, 7], c: "#b996ff" }, { name: "Revelation", sec: [8], c: "#ff86c0" },
-    { name: "People", kind: 1, c: "#aab6d8" }, { name: "Places", kind: 2, c: "#7fd6b4" }, { name: "Events", kind: 3, c: "#ffd27a" },
+    { name: "Torah", icon: "torah", sec: [0], c: "#f2c45a" }, { name: "History", icon: "history", sec: [1], c: "#f59a62" },
+    { name: "Wisdom", icon: "wisdom", sec: [2], c: "#8fdc8a" }, { name: "Prophets", icon: "prophets", sec: [3], c: "#ff7272" },
+    { name: "Gospels", icon: "gospels", sec: [4], c: "#6fb0ff" }, { name: "Acts", icon: "acts", sec: [5], c: "#4fd6cb" },
+    { name: "Letters", icon: "letters", sec: [6, 7], c: "#b996ff" }, { name: "Revelation", icon: "revelation", sec: [8], c: "#ff86c0" },
+    { name: "People", icon: "person", kind: 1, c: "#aab6d8" }, { name: "Places", icon: "place", kind: 2, c: "#7fd6b4" }, { name: "Events", icon: "event", kind: 3, c: "#ffd27a" },
   ];
   const hex = h => [1, 3, 5].map(i => parseInt(h.slice(i, i + 2), 16) / 255);
   const KIND_NAME = ["Chapter", "Person", "Place", "Event"];
@@ -164,6 +157,7 @@ body::before { content: ""; position: fixed; inset: 0 0 auto; height: env(safe-a
 
   let D, N, NC, kind, group, P, deg, adj, linkA, linkB, linkT, chapterOf = [], bookOf = [], bookStart = [], briefs = null;
   const label = k => (k < NC ? `${D.books[bookOf[k]][0]} ${chapterOf[k]}` : D.n[k - NC].replace(/ \((.+ \d+\.\d+)\)$/, ""));
+  const sizeOf = i => (i < NC ? 9 : 6) + 2.6 * Math.sqrt(deg[i]);   // a point's size, across, in the web's units
   const slug = s => s.toLowerCase().replace(/ /g, "-");
   const refOf = k => { const j = k - NC, b = D.f[3 * j]; return b < 0 ? null : [b, D.f[3 * j + 1], D.f[3 * j + 2]]; };
 
@@ -265,7 +259,7 @@ body::before { content: ""; position: fixed; inset: 0 0 auto; height: env(safe-a
     const C = new Float32Array(N * 3), S = new Float32Array(N);
     for (let i = 0; i < N; i++) {
       C.set(hex(GROUPS[group[i]].c), 3 * i);
-      S[i] = (i < NC ? 9 : 6) + 2.6 * Math.sqrt(deg[i]);
+      S[i] = sizeOf(i);
     }
     H = new Float32Array(N).fill(1);
     pBuf = buf(P); cBuf = buf(C); sBuf = buf(S); hBuf = buf(H, gl.DYNAMIC_DRAW);
@@ -313,8 +307,9 @@ body::before { content: ""; position: fixed; inset: 0 0 auto; height: env(safe-a
   }
 
   /* ---------- Drawing ---------- */
-  let t0 = performance.now(), labelsDirty = true;
-  function frame(now) {
+  let t0 = performance.now(), shiftY = 0;
+  function frame(now) { render(now); requestAnimationFrame(frame); }
+  function render(now) {
     if (fly) {
       const u = Math.min(1, (now - fly.t0) / fly.ms), e = u < 0.5 ? 4 * u * u * u : 1 - Math.pow(-2 * u + 2, 3) / 2;
       cam.at = fly.from.at.map((v, i) => v + (fly.to.at[i] - v) * e);
@@ -326,6 +321,11 @@ body::before { content: ""; position: fixed; inset: 0 0 auto; height: env(safe-a
     view = lookAt(ey, cam.at);
     const near = Math.max(10, cam.dist * 0.02), far = cam.dist + 6000;
     proj = perspective(FOV, W / Hh, near, far);
+    // On a phone the card covers the lower part of the screen, so the middle of the view moves
+    // up into the part left showing.
+    const card = $("card"), lift = !card.hidden && W < 760 ? card.offsetHeight / Hh : 0;
+    shiftY += (lift - shiftY) * (still ? 1 : 0.12);
+    for (let c = 0; c < 4; c++) proj[4 * c + 1] += shiftY * proj[4 * c + 3];
     const fogNear = Math.max(near, cam.dist - 1600), fogFar = cam.dist + 2600;
     gl.clearColor(0, 0, 0, 0); gl.clear(gl.COLOR_BUFFER_BIT);
     gl.enable(gl.BLEND); gl.blendFunc(gl.ONE, gl.ONE); gl.disable(gl.DEPTH_TEST);
@@ -348,7 +348,6 @@ body::before { content: ""; position: fixed; inset: 0 0 auto; height: env(safe-a
     gl.drawArrays(gl.POINTS, 0, N);
 
     drawLabels(ey);
-    requestAnimationFrame(frame);
   }
   // Where node i falls on the screen: [x, y, depth], or null behind the camera.
   function project(i, mvp) {
@@ -358,47 +357,109 @@ body::before { content: ""; position: fixed; inset: 0 0 auto; height: env(safe-a
     return [((mvp[0] * x + mvp[4] * y + mvp[8] * z + mvp[12]) / w + 1) * W / 2, (1 - (mvp[1] * x + mvp[5] * y + mvp[9] * z + mvp[13]) / w) * Hh / 2, w];
   }
 
-  // Labels: the books at the middle of their chapters, and, once one is chosen, it and its
-  // nearest kin. Nearer labels are drawn first and keep their place; a label that would cover
-  // one already drawn is left out.
-  let bookCenters = [];
+  // Labels follow the eye. Every frame the points are ranked by how large they look and how
+  // near the middle of the screen they are, and as many as fit without touching are named, each
+  // with its icon on the point; the more you fly in, the more are named. The books' names show
+  // from afar and fade as you come close. Labels fade in and out, and one already shown holds
+  // its place against a newcomer of nearly the same rank, so they don't flicker as the web turns.
+  // Once a point is chosen, it and its kin are named instead.
+  let bookCenters = [], hovered = null;
+  const fade = new Map();                     // label key -> its opacity, eased each frame
+  const focal = () => Hh / (2 * Math.tan(FOV / 2));
+  const clamp = (v, a, b) => Math.max(a, Math.min(b, v));
+  const FONT = '"Libre Franklin", system-ui, sans-serif';
+  function bookAt(b, mvp) {
+    const [, x, y, z] = bookCenters.find(c => c[0] === b), w = mvp[3] * x + mvp[7] * y + mvp[11] * z + mvp[15];
+    return w <= 1 ? null : [((mvp[0] * x + mvp[4] * y + mvp[8] * z + mvp[12]) / w + 1) * W / 2, (1 - (mvp[1] * x + mvp[5] * y + mvp[9] * z + mvp[13]) / w) * Hh / 2, w];
+  }
   function drawLabels() {
     lc.clearRect(0, 0, W, Hh);
-    const mvp = mul(proj, view), taken = [], items = [];
-    if (selected != null) {
-      items.push([selected, 0]);
-      for (const j of kin.slice(0, 24)) items.push([j, 1]);
-    }
-    for (const [b, x, y, z] of bookCenters) items.push([[x, y, z, D.books[b][0], b], 2]);
-    const shown = [];
-    for (const [it, tier] of items) {
-      let s, text, color;
-      if (tier === 2) {
-        const [x, y, z, name, b] = it, w = mvp[3] * x + mvp[7] * y + mvp[11] * z + mvp[15];
-        if (w <= 1) continue;
-        s = [((mvp[0] * x + mvp[4] * y + mvp[8] * z + mvp[12]) / w + 1) * W / 2, (1 - (mvp[1] * x + mvp[5] * y + mvp[9] * z + mvp[13]) / w) * Hh / 2, w];
-        text = name; color = GROUPS[group[bookStart[b]]].c;
-      } else {
-        s = project(it, mvp); if (!s) continue;
-        text = label(it); color = tier === 0 ? "#ffffff" : GROUPS[group[it]].c;
+    const mvp = mul(proj, view), f = focal(), cx = W / 2, cy = Hh / 2, reach = Math.hypot(cx, cy);
+    const onScreen = s => s && s[0] > -40 && s[0] < W + 40 && s[1] > -20 && s[1] < Hh + 20;
+    const want = [];
+    const node = (i, tier) => { const s = project(i, mvp); if (onScreen(s)) want.push({ key: i, s, tier, r: sizeOf(i) * f / s[2] / 2 }); };
+    if (selected != null) { node(selected, 0); for (const j of kin) node(j, 2); }
+    if (hovered != null && hovered !== selected) node(hovered, 1);
+    const bookA = selected != null ? 0 : clamp((cam.dist / home.dist - 0.35) / 0.4, 0, 1);
+    if (bookA > 0.02) for (const [b] of bookCenters) { const s = bookAt(b, mvp); if (onScreen(s)) want.push({ key: "b" + b, s, tier: 3, book: b }); }
+    if (selected == null) {
+      const cand = [];
+      for (let i = 0; i < N; i++) {
+        const s = project(i, mvp);
+        if (!onScreen(s)) continue;
+        const r = sizeOf(i) * f / s[2] / 2;
+        if (r < 3.6) continue;
+        const centre = 1 - Math.min(1, Math.hypot(s[0] - cx, s[1] - cy) / reach);
+        cand.push([r * (0.5 + centre) * ((fade.get(i) || 0) > 0.5 ? 1.4 : 1), i, s, r]);
       }
-      if (s[0] < -50 || s[0] > W + 50 || s[1] < -20 || s[1] > Hh + 20) continue;
-      shown.push([s, text, color, tier]);
+      cand.sort((a, b) => b[0] - a[0]);
+      for (const [, i, s, r] of cand.slice(0, 300)) want.push({ key: i, s, tier: 4, r });
     }
-    shown.sort((a, b) => a[3] - b[3] || a[0][2] - b[0][2]);
-    for (const [s, text, color, tier] of shown) {
-      const size = tier === 0 ? 16 : tier === 1 ? 12.5 : Math.max(10.5, Math.min(14, 12 * cam.dist / s[2]));
-      lc.font = `${tier === 0 ? 600 : 500} ${size}px "Libre Franklin", system-ui, sans-serif`;
-      const w = lc.measureText(text).width, x = s[0] - w / 2, y = s[1] - (tier === 2 ? 0 : 10);
-      const box = [x - 3, y - size, x + w + 3, y + 4];
-      if (taken.some(t => box[0] < t[2] && box[2] > t[0] && box[1] < t[3] && box[3] > t[1])) continue;
-      taken.push(box);
-      const depth = Math.max(0.25, Math.min(1, (cam.dist + 1800 - s[2]) / 2400));
-      lc.globalAlpha = tier === 2 ? (selected != null ? 0.35 : 0.85) * depth : 1;
-      lc.lineWidth = 3; lc.strokeStyle = "rgba(5,7,13,0.85)"; lc.strokeText(text, x, y);
-      lc.fillStyle = color; lc.fillText(text, x, y);
+    // Place them, most wanted first, leaving out any that would touch one already placed.
+    const budget = clamp(Math.round(W * Hh / 15000), 10, 70), taken = reserved(), placed = new Map();
+    let named = 0;
+    for (const L of want) {
+      if (placed.has(L.key) || (L.tier === 4 && named >= budget)) continue;
+      const book = L.tier === 3;
+      L.text = book ? D.books[L.book][0] : label(L.key);
+      L.size = L.tier === 0 ? 16 : book ? clamp(13 * home.dist / cam.dist, 11.5, 15) : L.tier === 4 ? clamp(10.5 + L.r * 0.35, 11, 14) : 12.5;
+      L.br = book ? 0 : clamp(L.r, 6.5, 12);
+      lc.font = `${L.tier === 0 || book ? 600 : 500} ${L.size}px ${FONT}`;
+      const w = lc.measureText(L.text).width;
+      const x0 = book ? L.s[0] - w / 2 - 10 : L.s[0] - L.br, x1 = book ? L.s[0] + w / 2 : L.s[0] + L.br + 5 + w;
+      const box = [x0 - 2, L.s[1] - Math.max(L.br, L.size * 0.7) - 2, x1 + 3, L.s[1] + Math.max(L.br, L.size * 0.7) + 2];
+      if (L.tier > 1 && taken.some(t => box[0] < t[2] && box[2] > t[0] && box[1] < t[3] && box[3] > t[1])) continue;
+      taken.push(box); placed.set(L.key, L);
+      if (L.tier === 4) named++;
+    }
+    // Ease every label toward shown or hidden; those on their way out are drawn where they now are.
+    for (const [key, a] of fade) if (!placed.has(key)) {
+      const b = a * 0.8;
+      if (b < 0.03) { fade.delete(key); continue; }
+      fade.set(key, b);
+      const book = typeof key === "string", s = book ? bookAt(+key.slice(1), mvp) : project(key, mvp);
+      if (!onScreen(s)) continue;
+      const L = { key, s, tier: book ? 3 : 4, book: book ? +key.slice(1) : null, r: book ? 0 : sizeOf(key) * f / s[2] / 2 };
+      L.text = book ? D.books[L.book][0] : label(key); L.size = book ? 13 : clamp(10.5 + L.r * 0.35, 11, 14); L.br = book ? 0 : clamp(L.r, 6.5, 12);
+      paint(L, b * (book ? 0.85 * bookA : 1));
+    }
+    for (const L of [...placed.values()].reverse()) {
+      const a = Math.min(1, (fade.get(L.key) || 0) + 0.12);
+      fade.set(L.key, a);
+      const depth = clamp((cam.dist + 1800 - L.s[2]) / 2400, 0.35, 1);
+      paint(L, a * (L.tier === 3 ? 0.85 * bookA : L.tier <= 1 ? 1 : depth));
     }
     lc.globalAlpha = 1;
+  }
+  // The title, the tools, the search, the key and the card: labels keep out from under them.
+  function reserved() {
+    if (sharing) return [];
+    const st = $("stage").getBoundingClientRect();
+    return [".title h1", ".title p", ".tools", ".find", ".key", "#card"].map(q => document.querySelector(q))
+      .filter(e => e && !e.hidden && e.offsetParent).map(e => e.getBoundingClientRect())
+      .map(r => [r.left - st.left - 4, r.top - st.top - 4, r.right - st.left + 4, r.bottom - st.top + 4]);
+  }
+  function paint(L, alpha) {
+    const book = L.tier === 3, g = book ? group[bookStart[L.book]] : group[L.key], color = GROUPS[g].c;
+    lc.globalAlpha = alpha;
+    lc.font = `${L.tier === 0 || book ? 600 : 500} ${L.size}px ${FONT}`;
+    lc.textBaseline = "middle"; lc.lineJoin = "round";
+    let x = L.s[0], y = L.s[1];
+    if (book) {
+      const w = lc.measureText(L.text).width;
+      x -= w / 2;
+      if (window.Share) Share.drawIcon(lc, GROUPS[g].icon, x - 10, y, 13, color, 2.2);
+    } else {
+      // The point becomes a badge: a disc in its color with its icon.
+      lc.beginPath(); lc.arc(x, y, L.br, 0, 2 * Math.PI);
+      lc.fillStyle = color; lc.fill();
+      lc.lineWidth = L.tier === 0 ? 2.5 : 1.5; lc.strokeStyle = L.tier === 0 ? "#ffffff" : "rgba(5,7,13,0.9)"; lc.stroke();
+      if (window.Share) Share.drawIcon(lc, GROUPS[g].icon, x, y, L.br * 1.35, "#0b1020", 2.4);
+      x += L.br + 5;
+    }
+    lc.lineWidth = 3.5; lc.strokeStyle = "rgba(5,7,13,0.85)"; lc.strokeText(L.text, x, y);
+    lc.fillStyle = L.tier === 0 ? "#ffffff" : book ? color : L.tier === 4 ? "#dfe4ee" : color;
+    lc.fillText(L.text, x, y);
   }
 
   /* ---------- Choosing a point ---------- */
@@ -437,18 +498,45 @@ body::before { content: ""; position: fixed; inset: 0 0 auto; height: env(safe-a
         el("div", { class: "chips" }, ...js.slice(0, 14).map(j => el("button", { type: "button", onclick: () => select(j) }, dotOf(j), label(j))))];
     });
     const brief = el("p", { text: `${fmt.format(kin.length)} connections` });
+    shareInfo = { kicker, sub: brief.textContent };
     $("card").replaceChildren(
       el("button", { class: "close", type: "button", "aria-label": "Close", text: "✕", onclick: () => select(null, { fly: false }) }),
       el("div", { class: "kicker" }, dotOf(i), kicker),
       el("h2", { text: label(i) }), brief,
       el("div", { class: "acts" },
         reader ? el("a", { class: "solid", href: reader, text: k === 0 ? "Read it" : "Read where it’s first named" }) : null,
-        el("a", { href: `graph.html#${k === 0 ? `${slug(D.books[bookOf[i]][0])}-${chapterOf[i]}` : `n${i}`}`, text: "In Connections" })),
+        el("a", { href: `graph.html#${k === 0 ? `${slug(D.books[bookOf[i]][0])}-${chapterOf[i]}` : `n${i}`}`, text: "In Connections" }),
+        window.Share ? el("a", { href: "#", role: "button", onclick: e => { e.preventDefault(); shareView(); } }, "Share") : null),
       ...groups.flat().filter(Boolean));
     $("card").hidden = false;
     if (k) (briefs ||= fetch("data/graph-briefs.json").then(r => r.json()).catch(() => null)).then(B => {
-      if (B && selected === i && B[i - NC]) brief.textContent = `${B[i - NC]} · ${fmt.format(kin.length)} connections`;
+      if (B && selected === i && B[i - NC]) shareInfo.sub = brief.textContent = `${B[i - NC]} · ${fmt.format(kin.length)} connections`;
     });
+  }
+  // Share: a picture of the view as it is now, framed on the chosen point, with its name. The web
+  // is drawn once more on the spot and copied at once, while WebGL's picture is still there.
+  let shareInfo = null, sharing = false;
+  async function shareView() {
+    const i = selected;
+    if (i == null || !window.Share) return;
+    const keep = hovered;
+    hovered = null; sharing = true;
+    render(performance.now());
+    const shot = document.createElement("canvas");
+    shot.width = gc.width; shot.height = gc.height;
+    const g = shot.getContext("2d");
+    g.drawImage(gc, 0, 0); g.drawImage($("labels"), 0, 0);
+    hovered = keep; sharing = false;
+    // The part of the view around the point, as wide as the picture's window is.
+    const s = project(i, mul(proj, view)) || [W / 2, Hh / 2], aspect = 1080 / 680;
+    let w = Math.min(shot.width, shot.height * aspect), h = w / aspect;
+    const x = clamp(s[0] * dpr - w / 2, 0, shot.width - w), y = clamp(s[1] * dpr - h / 2, 0, shot.height - h);
+    const crop = document.createElement("canvas");
+    crop.width = Math.round(w); crop.height = Math.round(h);
+    crop.getContext("2d").drawImage(shot, x, y, w, h, 0, 0, w, h);
+    const hash = i < NC ? `${slug(D.books[bookOf[i]][0])}-${chapterOf[i]}` : `n${i}`;
+    await Share.snapshot({ image: crop, kicker: shareInfo.kicker, title: label(i), sub: shareInfo.sub, color: GROUPS[group[i]].c,
+      icon: GROUPS[group[i]].icon, url: Share.here("web3d.html", "#" + hash) });
   }
   let threadsOnly = false;
   function applyThreads() {
@@ -514,18 +602,35 @@ body::before { content: ""; position: fixed; inset: 0 0 auto; height: env(safe-a
   gc.addEventListener("pointerup", up); gc.addEventListener("pointercancel", up);
   const clampDist = d => Math.max(120, Math.min(home.dist * 3, d));
   gc.addEventListener("wheel", e => { e.preventDefault(); fly = null; wake(); zoomAt(cam.dist * Math.exp(e.deltaY * (e.deltaMode ? 0.05 : 0.0012)), e.clientX, e.clientY); }, { passive: false });
-  function tap(e) {
-    const r = gc.getBoundingClientRect(), x = e.clientX - r.left, y = e.clientY - r.top, mvp = mul(proj, view);
+  // The point under (x, y) on the canvas, if any; the nearer of two close points wins.
+  function nearest(x, y) {
+    const mvp = mul(proj, view), f = focal();
     let best = null, bd = Infinity;
     for (let i = 0; i < N; i++) {
       const s = project(i, mvp); if (!s) continue;
-      const rad = Math.max(14, ((i < NC ? 9 : 6) + 2.6 * Math.sqrt(deg[i])) * (Hh / (2 * Math.tan(FOV / 2))) / s[2] / 2);
+      const rad = Math.max(14, sizeOf(i) * f / s[2] / 2);
       const d = Math.hypot(s[0] - x, s[1] - y);
-      // Nearer points win a close call.
       if (d < rad && d + s[2] * 0.002 < bd) { bd = d + s[2] * 0.002; best = i; }
     }
+    return best;
+  }
+  function tap(e) {
+    const r = gc.getBoundingClientRect(), best = nearest(e.clientX - r.left, e.clientY - r.top);
     select(best, { fly: best != null });
   }
+  // With a mouse, the point under the pointer is named.
+  let hoverAt = null;
+  gc.addEventListener("pointermove", e => {
+    if (e.pointerType !== "mouse" || pts.size || !view) return;
+    if (!hoverAt) requestAnimationFrame(() => {
+      const r = gc.getBoundingClientRect();
+      hovered = nearest(hoverAt[0] - r.left, hoverAt[1] - r.top);
+      gc.style.cursor = hovered != null ? "pointer" : "";
+      hoverAt = null;
+    });
+    hoverAt = [e.clientX, e.clientY];
+  });
+  gc.addEventListener("pointerleave", () => { hovered = null; gc.style.cursor = ""; });
   addEventListener("keydown", e => {
     if (e.target.closest("input")) return;
     if (e.key === "Escape") select(null, { fly: false });

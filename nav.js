@@ -9,6 +9,7 @@
   const ROOT = new URL(".", document.currentScript.src).href;
   const svg = d => `<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">${d}</svg>`;
   const ICON = {
+    read: '<path d="M12 6.5C10 5 7 4.5 3.5 5v14c3.5-.5 6.5 0 8.5 1.5 2-1.5 5-2 8.5-1.5V5C17 4.5 14 5 12 6.5Z"/><path d="M12 6.5v14"/><path d="M6.5 9.5h3M6.5 13h3M14.5 9.5h3M14.5 13h3"/>',
     mine: '<path d="m14.5 4.5 5 5L10 19H5v-5z"/><path d="m12 7 5 5"/><path d="M4 21h16"/>',
     bookmarks: '<path d="M6 3h12v18l-6-4.5L6 21Z"/>',
     plans: '<rect x="3.5" y="5" width="17" height="15" rx="2.5"/><path d="M3.5 10h17M8 3v4M16 3v4"/><path d="m9 15 2 2 4-4"/>',
@@ -35,6 +36,7 @@
   // element for a live line under the label; extra.hidden starts it hidden.
   const MENU = [
     ["Read and study", "", [
+      ["read", "Read", "read", "index.html", "Back to the Bible, where you left off", { away: true }],
       ["mine", "Highlights & notes", "mine", "reader:mine", "Your highlights and notes, saved on this device"],
       ["bookmarks", "Bookmarks", "bookmarks", "reader:bookmarks", "The passages you bookmarked", { sub: "bookmarks-sub" }],
       ["plans", "Reading plans", "plans", "reader:plans", "Through the Bible in a year, and shorter plans", { sub: "plans-sub" }],
@@ -73,6 +75,7 @@
       ul.className = "menu" + (cls ? " " + cls : "");
       for (const [id, label, icon, where, tip, extra = {}] of items) {
         if (extra.readerOnly && !inReader) continue;
+        if (extra.away && inReader) continue;
         const reader = where.startsWith("reader:");
         const li = document.createElement("li");
         const a = document.createElement(reader && inReader ? "button" : "a");
