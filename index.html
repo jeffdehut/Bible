@@ -135,6 +135,14 @@ main { max-width: 680px; margin-inline: auto; padding-block: 28px 120px; }
 .v[data-h="pink"] { background: var(--hl-pink); }
 .v[data-h="orange"] { background: var(--hl-orange); }
 .v.flash { animation: flash 1.6s ease-out; }
+mark.hlp { color: inherit; border-radius: 3px; padding: 0.04em 0; box-decoration-break: clone; -webkit-box-decoration-break: clone; }
+mark.hlp[data-c="yellow"] { background: var(--hl-yellow); }
+mark.hlp[data-c="green"] { background: var(--hl-green); }
+mark.hlp[data-c="blue"] { background: var(--hl-blue); }
+mark.hlp[data-c="pink"] { background: var(--hl-pink); }
+mark.hlp[data-c="orange"] { background: var(--hl-orange); }
+.hl-bar { position: fixed; z-index: 12; display: flex; gap: 6px; padding: 6px; border-radius: 99px; background: var(--raised); border: 1px solid var(--line); box-shadow: var(--shadow); }
+.hl-bar .swatch { width: 30px; height: 30px; }
 @keyframes flash { 0%, 30% { background: color-mix(in srgb, var(--gold) 28%, transparent); } }
 .vn { font: 600 0.58em/1 var(--sans); color: var(--gold); vertical-align: 0.55em; margin: 0 0.18em 0 0.1em; font-variant-numeric: tabular-nums; }
 .vn.title { font-style: italic; }
@@ -913,6 +921,7 @@ async function show(b, c, v, opts = {}) {
     const a = notes[id];
     if (a && a.h) span.dataset.h = a.h;
     if (a && a.n) span.classList.add("has-note");
+    if (a && a.r) markRanges(span, a.r);
     p.append(span);
     if (row[3] && row[3].p) { text.append(p); p = el("p"); }
   }
@@ -1171,7 +1180,8 @@ function setNote(id, span, text) {
   }, 300);
 }
 function saveAnnotation(id, a) {
-  if (a.h || a.n) { a.t = Date.now(); notes[id] = a; } else delete notes[id];
+  if (a.r && !a.r.length) delete a.r;
+  if (a.h || a.n || a.r) { a.t = Date.now(); notes[id] = a; } else delete notes[id];
   store.set("annotations", notes);
   reader.annotations.onChange?.([id]);
 }
@@ -1970,6 +1980,108 @@ function toast(msg, ms = 2200) {
   const t = $("toast"); t.textContent = msg; t.hidden = false;
   clearTimeout(toastTimer); toastTimer = setTimeout(() => { t.hidden = true; }, ms);
 }
+/* ---------- Highlighting part of a verse ---------- */
+// A highlight on part of a verse is stored with the verse as [start, end, color], counting the
+// characters of its words as the reader shows them (not the verse number or note letters), so
+// the same words are marked on every device. Selecting words in the text shows a color bar.
+function countedText(span) {
+  const out = [];
+  const walk = document.createTreeWalker(span, NodeFilter.SHOW_TEXT, { acceptNode: n => n.parentElement.closest(".vn, .fn, .missing") ? NodeFilter.FILTER_REJECT : NodeFilter.FILTER_ACCEPT });
+  for (let n = walk.nextNode(); n; n = walk.nextNode()) out.push(n);
+  return out;
+}
+function unmarkRanges(span) {
+  for (const m of span.querySelectorAll("mark.hlp")) m.replaceWith(...m.childNodes);
+  span.normalize();
+}
+function markRanges(span, ranges) {
+  for (const [s, e, c] of ranges) {
+    let at = 0;
+    for (const node of countedText(span)) {
+      const len = node.data.length, a = Math.max(s, at), z = Math.min(e, at + len);
+      if (a < z) {
+        let mid = node;
+        if (a > at) mid = mid.splitText(a - at);
+        if (z < at + len) mid.splitText(z - a);
+        const m = el("mark", { class: "hlp", "data-c": c });
+        mid.replaceWith(m); m.append(mid);
+      }
+      at += len;
+    }
+  }
+}
+// Where a selection boundary falls in a verse, in counted characters.
+function offsetIn(span, node, off) {
+  const point = document.createRange(); point.setStart(node, off); point.collapse(true);
+  let at = 0;
+  for (const t of countedText(span)) {
+    if (t === node) return at + off;
+    if (point.comparePoint(t, 0) > 0) return at;   // this text begins after the boundary
+    at += t.data.length;
+  }
+  return at;
+}
+function selectedVerses() {
+  const sel = getSelection();
+  if (!sel.rangeCount || sel.isCollapsed) return [];
+  const r = sel.getRangeAt(0);
+  if (!$("text").contains(r.commonAncestorContainer)) return [];
+  const out = [];
+  for (const span of $("text").querySelectorAll(".v")) {
+    if (!r.intersectsNode(span)) continue;
+    const total = countedText(span).reduce((t, n) => t + n.data.length, 0);
+    const s = span.contains(r.startContainer) ? offsetIn(span, r.startContainer, r.startOffset) : 0;
+    const e = span.contains(r.endContainer) ? offsetIn(span, r.endContainer, r.endOffset) : total;
+    if (e > s) out.push([span, s, e]);
+  }
+  return out;
+}
+function highlightSelection(color) {
+  const { b, c } = cur;
+  const touched = [];
+  for (const [span, s, e] of selectedVerses()) {
+    const id = `${b.osis}.${c}.${span.dataset.v}`;
+    const a = notes[id] || {};
+    // What was marked here before gives way; then the new color, and like neighbors join up.
+    let rs = [];
+    for (const [x, y, k] of a.r || []) {
+      if (y <= s || x >= e) rs.push([x, y, k]);
+      else { if (x < s) rs.push([x, s, k]); if (y > e) rs.push([e, y, k]); }
+    }
+    if (color) rs.push([s, e, color]);
+    rs.sort((p, q) => p[0] - q[0]);
+    rs = rs.reduce((acc, r) => { const l = acc[acc.length - 1]; if (l && l[2] === r[2] && l[1] >= r[0]) l[1] = Math.max(l[1], r[1]); else acc.push(r); return acc; }, []);
+    const words = countedText(span).map(n => n.data).join("");
+    rs = rs.filter(([x, y]) => words.slice(x, y).trim());   // a leftover space isn't worth keeping
+    a.r = rs;
+    saveAnnotation(id, a);
+    unmarkRanges(span); if (a.r) markRanges(span, a.r);
+    touched.push(id);
+  }
+  getSelection().removeAllRanges();
+  $("hl-bar").hidden = true;
+  if (touched.length) toast(color ? "Highlighted" : "Highlight removed");
+}
+const hlBar = el("div", { class: "hl-bar", id: "hl-bar", hidden: true, role: "toolbar", "aria-label": "Highlight the selected words" });
+for (const h of HL) hlBar.append(el("button", { type: "button", class: "swatch", style: `background:var(--hl-${h})`, "aria-label": "Highlight in " + h, onmousedown: e => e.preventDefault(), onclick: () => highlightSelection(h) }));
+hlBar.append(el("button", { type: "button", class: "swatch none", "aria-label": "Remove highlighting", onmousedown: e => e.preventDefault(), onclick: () => highlightSelection(null) }));
+document.body.append(hlBar);
+let hlTimer = 0;
+document.addEventListener("selectionchange", () => {
+  clearTimeout(hlTimer);
+  hlTimer = setTimeout(() => {
+    const vs = selectedVerses();
+    if (!vs.length) { hlBar.hidden = true; return; }
+    const rect = getSelection().getRangeAt(0).getBoundingClientRect();
+    hlBar.hidden = false;
+    // Above the words, or below them on touch screens, where the system's own menu sits above.
+    const below = matchMedia("(pointer: coarse)").matches;
+    const top = below ? rect.bottom + 12 : rect.top - hlBar.offsetHeight - 10;
+    hlBar.style.top = `${Math.max(8, Math.min(innerHeight - hlBar.offsetHeight - 8, top))}px`;
+    hlBar.style.left = `${Math.max(8, Math.min(innerWidth - hlBar.offsetWidth - 8, rect.left + rect.width / 2 - hlBar.offsetWidth / 2))}px`;
+  }, 180);
+});
+
 $("text").addEventListener("click", ev => {
   const fn = ev.target.closest(".fn");
   if (fn) {
@@ -2036,15 +2148,15 @@ getJSON("books.json").then(list => {
   addEventListener("hashchange", route);
   route();
 }).catch(() => { $("loading").textContent = "The Bible couldn't be loaded. Check your connection and reload the page."; });
-if ("serviceWorker" in navigator && /^https?:$/.test(location.protocol) && !embedded) navigator.serviceWorker.register("sw.js?v=15").catch(() => {});
+if ("serviceWorker" in navigator && /^https?:$/.test(location.protocol) && !embedded) navigator.serviceWorker.register("sw.js?v=16").catch(() => {});
 
 /* ---------- For account.js: highlights and notes, and two of the reader's tools ---------- */
 var reader = {
   annotations: {
     all: () => notes,
-    // Changes from the account: [[id, {h, n, t} or null to remove], ...]
+    // Changes from the account: [[id, {h, n, r, t} or null to remove], ...]
     apply(changes) {
-      for (const [id, a] of changes) { if (a && (a.h || a.n)) notes[id] = a; else delete notes[id]; }
+      for (const [id, a] of changes) { if (a && (a.h || a.n || (a.r && a.r.length))) notes[id] = a; else delete notes[id]; }
       store.set("annotations", notes);
       if (!$("mine").hidden) renderMine();
       if (cur && $("verse").hidden) show(cur.b, cur.c, null, { keepScroll: true });
@@ -2054,8 +2166,8 @@ var reader = {
   openSheet, toast,
 };
 </script>
-<script src="config.js?v=15"></script>
-<script src="share.js?v=15"></script>
-<script src="account.js?v=15"></script>
+<script src="config.js?v=16"></script>
+<script src="share.js?v=16"></script>
+<script src="account.js?v=16"></script>
 </body>
 </html>
