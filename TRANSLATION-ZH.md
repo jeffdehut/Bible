@@ -111,6 +111,12 @@ Settled while drafting Genesis:
 | מוֹעֲדִים | 節期 | |
 | Rivers | 希底結 (Tigris), 伯拉河 (Euphrates) | Union Version names; modern names in a note. |
 | מִצְרַיִם | 埃及 | Also where the Union Version has 麥西 (Genesis 10). |
+| אֵל עֶלְיוֹן; אֵל שַׁדַּי | 至高的神；全能的神 | Noted at first occurrence in each chapter (*El Elyon*; *El Shaddai*, meaning uncertain). |
+| בְּרִית; כָּרַת בְּרִית | 約；立約 | |
+| מַלְאַךְ יְהוָה | 耶和華的使者 | |
+| שִׁפְחָה | 使女 | |
+| הַנֶּגֶב; יָם הַמֶּלַח | 南地；鹽海 | The Dead Sea, noted. |
+| Name changes and meanings | 亞伯蘭→亞伯拉罕, 撒萊→撒拉 | The meaning in a note. |
 
 ## Style
 
