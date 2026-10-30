@@ -45,8 +45,15 @@ h2 { margin: 30px 0 4px; font: 500 22px/1.2 var(--read); }
 .tiles { display: flex; flex-wrap: wrap; gap: 4px; }
 .tile { position: relative; height: 52px; min-width: 30px; padding: 5px 6px; border: 0; border-radius: 8px; background: var(--c); color: var(--on); cursor: pointer; text-align: left;
   display: flex; flex-direction: column; justify-content: space-between; font: 700 13px/1 var(--sans); transition: opacity 0.2s, transform 0.15s; }
-.tile small { font: 600 10px/1 var(--sans); opacity: 0.8; white-space: nowrap; overflow: hidden; }
-.tile.c::after { content: ""; position: absolute; inset: auto 5px 5px auto; width: 7px; height: 7px; border-radius: 50%; border: 1.5px solid currentColor; opacity: 0.7; }
+.tile small { font: 600 10px/1 var(--sans); opacity: 0.8; white-space: nowrap; overflow: hidden; max-width: calc(100% - 15px); }
+.tile .ti { position: absolute; right: 5px; bottom: 5px; width: 14px; height: 14px; opacity: 0.95; }
+.tile.c::after { content: ""; position: absolute; inset: 6px 6px auto auto; width: 6px; height: 6px; border-radius: 50%; border: 1.5px solid currentColor; opacity: 0.7; }
+.badge { display: inline-grid; place-items: center; flex: none; width: 22px; height: 22px; border-radius: 50%; background: var(--c); color: var(--on, #fff); }
+.badge .ti { width: 14px; height: 14px; }
+.chip > .ti { width: 16px; height: 16px; color: var(--muted); }
+.chip[aria-pressed="true"] > .ti { color: inherit; }
+.card .tags .ti { width: 13px; height: 13px; vertical-align: -2px; margin-right: 4px; }
+.authors .ti { width: 15px; height: 15px; vertical-align: -3px; margin-right: 5px; }
 .tile:hover, .tile:focus-visible { transform: translateY(-2px); }
 .tile:focus-visible { outline: 2px solid var(--ink); outline-offset: 2px; }
 .tile[aria-pressed="true"] { outline: 3px solid var(--ink); outline-offset: 2px; }
@@ -120,6 +127,7 @@ h2 { margin: 30px 0 4px; font: 500 22px/1.2 var(--read); }
 </main>
 <article class="card" id="card" hidden aria-live="polite"></article>
 
+<script src="themes.js?v=1"></script>
 <!-- DATA -->
 <script>
 (() => {
@@ -172,7 +180,7 @@ h2 { margin: 30px 0 4px; font: 500 22px/1.2 var(--read); }
     for (const p of P.filter(p => p.n >= b.from && p.n <= b.to)) {
       const t = el("button", { type: "button", class: "tile" + (p.c ? " c" : ""), "aria-pressed": "false", "aria-label": `Psalm ${p.n}: ${TYPES[p.g].n}${p.a.length ? ", " + p.a.join(" and ") : ""}`, title: `Psalm ${p.n} · ${TYPES[p.g].n}${p.a.length ? " · " + p.a.join(", ") : ""}`, onclick: () => show(p) },
         String(p.n), el("small", { text: p.a.length ? p.a[0].replace("Sons of ", "") : "" }));
-      t.style.width = `${Math.round(30 + 7.5 * Math.sqrt(p.v))}px`;
+      t.style.width = `${Math.round(34 + 7.5 * Math.sqrt(p.v))}px`;
       tiles[p.n] = t;
       row.append(t);
     }
@@ -186,6 +194,8 @@ h2 { margin: 30px 0 4px; font: 500 22px/1.2 var(--read); }
       t.style.setProperty("--on", dark() ? "#0b1020" : "#ffffff");
       const show = !only || (only[0] === "type" ? p.g === only[1] : only[0] === "author" ? (only[1] === "No name" ? !p.a.length : p.a.includes(only[1])) : has(p, only[1]));
       t.classList.toggle("off", !show);
+      t.querySelector(".ti")?.remove();
+      t.append(Themes.el(by === "type" ? p.g : authorOf(p)));
     }
     legend();
   }
@@ -196,13 +206,15 @@ h2 { margin: 30px 0 4px; font: 500 22px/1.2 var(--read); }
   }
   function chip(text, n, c, key) {
     const on = only && only[0] === key[0] && only[1] === key[1];
-    const b = el("button", { type: "button", class: "chip", "aria-pressed": String(!!on), onclick: () => { only = on ? null : key; paint(); syncGroups(); } }, el("i", { style: `--c:${c}` }), text, el("small", { text: String(n) }));
+    const b = el("button", { type: "button", class: "chip", "aria-pressed": String(!!on), onclick: () => { only = on ? null : key; paint(); syncGroups(); } }, badge(key[1], c), text, el("small", { text: String(n) }));
     return b;
   }
+  // The theme's icon on a disc of its color.
+  function badge(icon, c) { const b = el("span", { class: "badge", style: `--c:${c};--on:${dark() ? "#0b1020" : "#fff"}` }); b.append(Themes.el(icon)); return b; }
   function syncGroups() { document.querySelectorAll("#groups .chip").forEach(b => b.setAttribute("aria-pressed", String(!!only && only[0] === "group" && only[1] === b.dataset.k))); }
   $("groups").append(...GROUPS.map(([k, n, about]) => {
     const count = P.filter(p => has(p, k)).length;
-    const b = el("button", { type: "button", class: "chip", "data-k": k, title: about, "aria-pressed": "false", onclick: () => { only = only && only[1] === k ? null : ["group", k]; paint(); syncGroups(); } }, n, el("small", { text: String(count) }));
+    const b = el("button", { type: "button", class: "chip", "data-k": k, title: about, "aria-pressed": "false", onclick: () => { only = only && only[1] === k ? null : ["group", k]; paint(); syncGroups(); } }, Themes.el(k), n, el("small", { text: String(count) }));
     return b;
   }));
   const setBy = v => { by = v; $("by-type").setAttribute("aria-pressed", String(v === "type")); $("by-author").setAttribute("aria-pressed", String(v === "author")); if (only && (only[0] === "type" || only[0] === "author")) only = null; paint(); };
@@ -245,8 +257,8 @@ h2 { margin: 30px 0 4px; font: 500 22px/1.2 var(--read); }
   function authors() {
     const counts = AUTHORS.map(([a, c1, c2]) => [a, P.filter(p => a === "No name" ? !p.a.length : p.a.includes(a)).length, dark() ? c2 : c1]);
     const total = counts.reduce((s, c) => s + c[1], 0);
-    $("authors").replaceChildren(...counts.map(([a, n, c]) => el("button", { type: "button", title: `${a}: ${n}`, "aria-label": `${a}: ${n} psalms`, "aria-pressed": String(!!only && only[0] === "author" && only[1] === a), style: `flex:${n};--c:${c};--on:${dark() ? "#0b1020" : "#fff"}`, onclick: () => { setBy("author"); only = ["author", a]; paint(); authors(); $("books").scrollIntoView({ behavior: "smooth" }); } }, n >= 8 ? `${a} ${n}` : "")));
-    $("author-key").replaceChildren(...counts.map(([a, n, c]) => el("span", { class: "chip", style: "cursor:default" }, el("i", { style: `--c:${c}` }), a, el("small", { text: String(n) }))));
+    $("authors").replaceChildren(...counts.map(([a, n, c]) => el("button", { type: "button", title: `${a}: ${n}`, "aria-label": `${a}: ${n} psalms`, "aria-pressed": String(!!only && only[0] === "author" && only[1] === a), style: `flex:${n};--c:${c};--on:${dark() ? "#0b1020" : "#fff"}`, onclick: () => { setBy("author"); only = ["author", a]; paint(); authors(); $("books").scrollIntoView({ behavior: "smooth" }); } }, n >= 8 ? Themes.el(a) : null, n >= 8 ? `${a} ${n}` : "")));
+    $("author-key").replaceChildren(...counts.map(([a, n, c]) => el("span", { class: "chip", style: "cursor:default" }, badge(a, c), a, el("small", { text: String(n) }))));
   }
   const totalVerses = P.reduce((s, p) => s + p.v, 0);
   const longest = P.reduce((a, b) => (b.v > a.v ? b : a)), shortest = P.reduce((a, b) => (b.v < a.v ? b : a));
@@ -260,10 +272,10 @@ h2 { margin: 30px 0 4px; font: 500 22px/1.2 var(--read); }
     if (open) tiles[open.n].setAttribute("aria-pressed", "false");
     open = p; tiles[p.n].setAttribute("aria-pressed", "true");
     const T = TYPES[p.g];
-    const groups = GROUPS.filter(([k]) => has(p, k)).map(([, n]) => el("span", { text: n }));
-    $("card").replaceChildren(
+    const groups = GROUPS.filter(([k]) => has(p, k)).map(([k, n]) => el("span", {}, Themes.el(k), n));
+    $("card").replaceChildren(...[
       el("button", { class: "close", type: "button", "aria-label": "Close", text: "✕", onclick: close }),
-      el("div", { class: "kicker", style: `--c:${T.c[dark() ? 1 : 0]}` }, el("i"), `${p.c && p.g === "lament" ? "Lament of the people" : T.n} · Book ${ROMAN[D.books.findIndex(b => p.n <= b.to)]}`),
+      el("div", { class: "kicker" }, badge(p.g, T.c[dark() ? 1 : 0]), `${p.c && p.g === "lament" ? "Lament of the people" : T.n} · Book ${ROMAN[D.books.findIndex(b => p.n <= b.to)]}`),
       el("h2", { text: `Psalm ${p.n}` }),
       p.t ? el("p", { class: "heading", text: p.t }) : el("p", { class: "heading", text: "No heading." }),
       el("p", { class: "first", text: `“${p.f}”` }),
@@ -276,7 +288,7 @@ h2 { margin: 30px 0 4px; font: 500 22px/1.2 var(--read); }
       el("div", { class: "acts" },
         el("a", { class: "solid", href: `index.html#psalms-${p.n}`, text: `Read Psalm ${p.n}` }),
         el("a", { href: `graph.html#psalms-${p.n}`, text: "Connections" }),
-        el("a", { href: `web3d.html#psalms-${p.n}`, text: "In 3D" })));
+        el("a", { href: `web3d.html#psalms-${p.n}`, text: "In 3D" }))].filter(Boolean));
     $("card").hidden = false;
     try { history.replaceState(null, "", "#" + p.n); } catch (e) {}
   }
