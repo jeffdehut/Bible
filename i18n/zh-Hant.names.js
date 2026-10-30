@@ -2,6 +2,18 @@
 // (public domain) spells them. Written by scripts/names_zh.py: don't edit by hand;
 // corrections go in OVERRIDES there.
 I18N.add({
+"Rimmon":"臨門",
+"Sorek":"梭烈",
+"Sorek Valley":"梭烈谷",
+"El-berith":"伊勒‧比利土",
+"Baal-berith":"巴力‧比利土",
+"Karkor":"加各",
+"Moreh":"摩利",
+"Harod":"哈律",
+"Jerubbaal":"耶路‧巴力",
+"Harosheth-ha-goiim":"夏羅設",
+"Timnath-heres":"亭拿‧希烈",
+"Har-heres":"希烈山",
 "Zelah":"洗拉",
 "Mount Seir":"西珥山",
 "Rumah":"魯瑪",
@@ -100,7 +112,7 @@ I18N.add({
 "Abdi (1 Chronicles 6.29)":"亞伯底（歷代志上 6.29）",
 "Abdi (2 Chronicles 29.12)":"亞伯底（歷代志下 29.12）",
 "Abdi (Ezra 10.26)":"亞伯底（以斯拉記 10.26）",
-"Abdon":"亞伯頓",
+"Abdon":"押頓",
 "Abdon (1 Chronicles 8.23)":"亞伯頓（歷代志上 8.23）",
 "Abdon (1 Chronicles 8.30)":"亞伯頓（歷代志上 8.30）",
 "Abdon (Judges 12.13)":"亞伯頓（士師記 12.13）",
