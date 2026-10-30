@@ -87,6 +87,7 @@ a { color: var(--lapis); }
 }
 .btn:hover { background: var(--lapis-soft); }
 .btn.solid { background: var(--lapis); color: var(--surface); }
+a.btn { text-decoration: none; }
 .btn.line { border: 1px solid var(--line); }
 .eyebrow { font: 600 12px/1.2 var(--sans); letter-spacing: 0.12em; text-transform: uppercase; color: var(--muted); margin: 0; }
 
@@ -127,8 +128,8 @@ main { max-width: 680px; margin-inline: auto; padding-block: 28px 120px; }
 .text { font: 400 var(--size)/1.7 var(--read); hyphens: manual; }
 .text p { margin: 0 0 0.9em; text-wrap: pretty; }
 /* Poetry: each verse on its own line, with a hanging indent. */
-.text.poetry p { margin: 0 0 1.1em; }
-.text.poetry .v { display: block; padding-left: 1.4em; text-indent: -1.4em; margin-bottom: 0.15em; }
+.chap.poetry p { margin: 0 0 1.1em; }
+.chap.poetry .v { display: block; padding-left: 1.4em; text-indent: -1.4em; margin-bottom: 0.15em; }
 .v { border-radius: 4px; cursor: pointer; transition: background-color 0.15s; box-decoration-break: clone; -webkit-box-decoration-break: clone; }
 .v:hover { background: color-mix(in srgb, var(--lapis) 7%, transparent); }
 .v.sel { background: color-mix(in srgb, var(--lapis) 14%, transparent); outline: 1px solid color-mix(in srgb, var(--lapis) 35%, transparent); }
@@ -160,6 +161,21 @@ mark.hlp[data-c="orange"] { background: var(--hl-orange); }
   border-radius: 2px; background: var(--gold); opacity: 0.8;
 }
 .missing { color: var(--faint); font-style: italic; }
+.chap-head { margin: 2.2em 0 0.8em; }
+.chap-head .eyebrow { margin: 0 0 4px; }
+.chap-head.new-book { margin-top: 3.2em; padding-top: 1.4em; border-top: 1px solid var(--line); }
+.chap-num { font: 400 2em/1 var(--read); margin: 0; color: var(--ink); }
+.no-chap #chapter-number, .no-chap .chap-num { display: none; }
+.no-chap .chap-head:not(.new-book) { margin: 0; }
+.no-chap .chead { margin-bottom: 0.4em; }
+.text.no-vn .vn { display: none; }
+.more-before { display: block; margin: 0 auto 18px; font-weight: 600; }
+.plan-bar { display: flex; align-items: center; gap: 10px; flex-wrap: wrap; background: var(--gold-soft); border-radius: 12px; padding: 10px 12px; margin: 0 0 18px; font: 500 14px/1.35 var(--sans); }
+.plan-bar b { display: block; font-weight: 600; }
+.plan-bar .btn { margin-left: auto; }
+.plan-end { margin-top: 36px; padding: 18px 16px; border-radius: 14px; background: var(--lapis-soft); font-family: var(--sans); }
+.plan-end .kind { margin: 0 0 4px; font: 600 12px/1.2 var(--sans); letter-spacing: 0.05em; text-transform: uppercase; color: var(--muted); }
+.plan-end h3 { margin: 0 0 12px; font: 600 18px/1.3 var(--sans); }
 .chapnav { display: flex; justify-content: space-between; gap: 12px; margin-top: 36px; padding-top: 18px; border-top: 1px solid var(--line); }
 .chapnav .btn { font-weight: 600; }
 .loading { color: var(--muted); padding: 40px 0; }
@@ -465,17 +481,17 @@ input[type="range"] { width: 100%; accent-color: var(--lapis); }
 .menu small:empty { display: none; }
 
 /* Study markings: the shape tells the kind of word, the color which word. */
-.mk { --mc: var(--muted); border-radius: 3px; box-decoration-break: clone; -webkit-box-decoration-break: clone; text-decoration-skip-ink: none; }
-.mk[data-s="box"] { box-shadow: inset 0 0 0 1.5px var(--mc); padding: 0 0.12em; }
-.mk[data-s="cloud"] { border: 1.5px dashed var(--mc); border-radius: 0.8em; padding: 0 0.18em; }
-.mk[data-s="circle"] { border: 1.5px solid var(--mc); border-radius: 1em; padding: 0 0.22em; }
-.mk[data-s="under"] { text-decoration: underline 2px var(--mc); text-underline-offset: 0.2em; }
-.mk[data-s="double"] { text-decoration: underline double 1.5px var(--mc); text-underline-offset: 0.18em; }
-.mk[data-s="dotted"] { text-decoration: underline dotted 2.5px var(--mc); text-underline-offset: 0.22em; }
-.mk[data-s="wavy"] { text-decoration: underline wavy 1.5px var(--mc); text-underline-offset: 0.2em; }
-.mk[data-s="strike"] { text-decoration: line-through 2px var(--mc); }
-.mk[data-s="tint"] { background: color-mix(in srgb, var(--mc) 38%, transparent); }
-.mk[data-g]::before { content: attr(data-g); color: var(--mc); font: 700 0.62em/1 var(--sans); vertical-align: 0.55em; margin-right: 0.1em; }
+.smk { --mc: var(--muted); border-radius: 3px; box-decoration-break: clone; -webkit-box-decoration-break: clone; text-decoration-skip-ink: none; }
+.smk[data-s="box"] { box-shadow: inset 0 0 0 1.5px var(--mc); padding: 0 0.12em; }
+.smk[data-s="cloud"] { border: 1.5px dashed var(--mc); border-radius: 0.8em; padding: 0 0.18em; }
+.smk[data-s="circle"] { border: 1.5px solid var(--mc); border-radius: 1em; padding: 0 0.22em; }
+.smk[data-s="under"] { text-decoration: underline 2px var(--mc); text-underline-offset: 0.2em; }
+.smk[data-s="double"] { text-decoration: underline double 1.5px var(--mc); text-underline-offset: 0.18em; }
+.smk[data-s="dotted"] { text-decoration: underline dotted 2.5px var(--mc); text-underline-offset: 0.22em; }
+.smk[data-s="wavy"] { text-decoration: underline wavy 1.5px var(--mc); text-underline-offset: 0.2em; }
+.smk[data-s="strike"] { text-decoration: line-through 2px var(--mc); }
+.smk[data-s="tint"] { background: color-mix(in srgb, var(--mc) 38%, transparent); }
+.smk[data-g]::before { content: attr(data-g); color: var(--mc); font: 700 0.62em/1 var(--sans); vertical-align: 0.55em; margin-right: 0.1em; }
 .linkish { border: 0; background: none; padding: 0; font: inherit; color: var(--lapis); text-decoration: underline; cursor: pointer; }
 .marks-top { padding: 0 0 6px; border-bottom: 1px solid var(--line); }
 .switch { display: flex; align-items: center; gap: 10px; font: 600 15px/1.3 var(--sans); cursor: pointer; padding: 6px 0; }
@@ -529,7 +545,12 @@ if (/(^#|&)(access_token|error)=/.test(location.hash)) {
 
 <main id="main">
   <p class="loading" id="loading">Loading…</p>
-  <article id="chapter" hidden aria-live="polite">
+  <article id="chapter" hidden>
+    <div class="plan-bar" id="plan-bar" hidden>
+      <span><b id="plan-bar-text"></b><span id="plan-bar-what"></span></span>
+      <button class="btn line" type="button" id="plan-bar-all">All days</button>
+    </div>
+    <button class="btn line more-before" id="more-before" type="button" hidden></button>
     <header class="chead">
       <p class="eyebrow" id="book-name"></p>
       <h1 id="chapter-number"></h1>
@@ -540,7 +561,9 @@ if (/(^#|&)(access_token|error)=/.test(location.hash)) {
       </div>
     </header>
     <div class="text" id="text"></div>
-    <nav class="chapnav" aria-label="Chapters">
+    <div id="more-after" aria-hidden="true"></div>
+    <section class="plan-end" id="plan-end" hidden aria-label="End of the day's reading"></section>
+    <nav class="chapnav" id="chapnav" aria-label="Chapters">
       <button class="btn line" id="prev" type="button"></button>
       <button class="btn line" id="next" type="button"></button>
     </nav>
@@ -706,6 +729,26 @@ if (/(^#|&)(access_token|error)=/.test(location.hash)) {
     </div>
   </div>
   <div class="setting">
+    <span class="lbl" id="flow-label">Reading</span>
+    <div class="seg" role="group" aria-labelledby="flow-label" id="flow">
+      <button type="button" data-v="chapter">One chapter</button><button type="button" data-v="book">The book</button><button type="button" data-v="bible">The whole Bible</button>
+    </div>
+    <small>One chapter at a time, with buttons to turn the page; or scroll on through the book, or through the whole Bible, the next chapter coming as you reach the end of one.</small>
+  </div>
+  <div class="setting">
+    <span class="lbl" id="versenums-label">Verse numbers</span>
+    <div class="seg" role="group" aria-labelledby="versenums-label" id="versenums">
+      <button type="button" data-v="on">Show</button><button type="button" data-v="off">Hide</button>
+    </div>
+  </div>
+  <div class="setting">
+    <span class="lbl" id="chapnums-label">Chapter numbers and breaks</span>
+    <div class="seg" role="group" aria-labelledby="chapnums-label" id="chapnums">
+      <button type="button" data-v="on">Show</button><button type="button" data-v="off">Hide</button>
+    </div>
+    <small>Hidden, the chapters run on as one text; each book still begins with its name.</small>
+  </div>
+  <div class="setting">
     <span class="lbl" id="numbering-label">Old Testament verse numbers</span>
     <div class="seg" role="group" aria-labelledby="numbering-label" id="numbering">
       <button type="button" data-v="hebrew">Hebrew</button><button type="button" data-v="english">English Bibles</button>
@@ -844,7 +887,7 @@ const store = {
   get(k, d) { try { const v = localStorage.getItem("pe." + k); return v == null ? d : JSON.parse(v); } catch (e) { return d; } },
   set(k, v) { try { localStorage.setItem("pe." + k, JSON.stringify(v)); } catch (e) { /* storage unavailable */ } },
 };
-const settings = Object.assign({ size: 20, theme: "system", numbering: "hebrew", notes: "on", marks: "off", markOff: [] }, store.get("settings", {}));
+const settings = Object.assign({ size: 20, theme: "system", numbering: "hebrew", notes: "on", marks: "off", markOff: [], flow: "chapter", verseNums: "on", chapNums: "on" }, store.get("settings", {}));
 let notes = store.get("annotations", {});   // { "John.3.16": { h: "yellow", n: "text", t: 1730000000000 } }
 
 /* ---------- Data ---------- */
@@ -961,40 +1004,51 @@ function verseLabel(b, c, row) {
   }
   return { text: String(row[0]) };
 }
-async function show(b, c, v, opts = {}) {
-  $("loading").hidden = false;
-  let data;
-  try { data = await getJSON("text/" + b.slug + ".json"); }
-  catch (e) { $("loading").textContent = "This chapter couldn't be loaded. Check your connection and try again."; return; }
+// The reader shows a run of chapters: one at a time, or, as the reader scrolls, the rest of the
+// book or of the whole Bible, or the chapters of a day in a reading plan. Each chapter is a
+// <section class="chap"> holding its verses; `cur` is the chapter being read (the one at the
+// top of the screen, or the one whose verse was last tapped).
+const ctxOf = new WeakMap();          // section → { b, c, data, chapter, letters, prev, next, sec }
+let view = { kind: "chapter" };       // "chapter", "flow" (more as you scroll) or "plan"
+const bookName = b => (b.osis === "Ps" ? "Psalm" : b.n);
+function neighbors(b, c) {
+  const idx = BOOKS.indexOf(b);
+  return {
+    prev: c > 1 ? [b, c - 1] : idx > 0 ? [BOOKS[idx - 1], BOOKS[idx - 1].s.length] : null,
+    next: c < b.s.length ? [b, c + 1] : idx < BOOKS.length - 1 ? [BOOKS[idx + 1], 1] : null,
+  };
+}
+// The chapter after this one in a scrolling view: in the same book, or anywhere in the Bible.
+function flowNext(b, c) {
+  const n = neighbors(b, c).next;
+  return n && (settings.flow === "bible" || n[0] === b) ? n : null;
+}
+function flowPrev(b, c) {
+  const p = neighbors(b, c).prev;
+  return p && (settings.flow === "bible" || p[0] === b) ? p : null;
+}
+function chapterHead(b, c, newBook) {
+  const head = el("header", { class: "chap-head" + (newBook ? " new-book" : "") });
+  if (newBook) head.append(el("p", { class: "eyebrow", text: b.n }));
+  head.append(el("h2", { class: "chap-num", text: (b.osis === "Ps" ? "Psalm " : "") + c }));
+  return head;
+}
+function buildChapter(b, c, data, opts = {}) {
   const chapter = data.chapters[c - 1];
-  cur = { b, c, data, chapter };
-  closeVerse();
-  $("loading").hidden = true;
-  $("chapter").hidden = false;
-  $("book-name").textContent = b.n;
-  $("chapter-number").textContent = (b.osis === "Ps" ? "Psalm " : "") + c;
-  $("where-label").textContent = (b.osis === "Ps" ? "Psalm" : b.n) + " " + c;
-  document.title = `${b.osis === "Ps" ? "Psalm" : b.n} ${c} · Plain English Bible`;
-  const st = chapter.s || "draft";
-  $("status").className = "badge " + st;
-  $("status").textContent = STATUS_LABEL[st] || st;
-  $("web-link").href = "graph.html#" + hashSlug(b) + "-" + c;
-  $("src-line").textContent = b.t === "NT" ? "From the Greek" : allAramaic(b, c) ? "From the Aramaic" : hasAramaic(b, c) ? "From the Hebrew and Aramaic" : "From the Hebrew";
   // Notes are lettered in order of first use.
   const letters = {};
   let k = 0;
   for (const row of chapter.v) if (row[1]) for (const m of row[1].matchAll(/\[\^(\w+)\]/g)) if (!(m[1] in letters)) letters[m[1]] = letter(k++);
-  cur.letters = letters;
-  const text = $("text");
-  text.textContent = "";
-  text.classList.toggle("poetry", isPoetry(b, c));
+  const sec = el("section", { class: "chap" + (isPoetry(b, c) ? " poetry" : ""), "data-book": b.slug, "data-c": c, "aria-label": `${bookName(b)} ${c}` });
+  if (opts.head) sec.append(chapterHead(b, c, opts.newBook));
   let p = el("p");
   for (const row of chapter.v) {
     const [n, en] = row;
     const lab = verseLabel(b, c, row);
     const id = `${b.osis}.${c}.${n}`;
-    const span = el("span", { class: "v", "data-v": n, id: "v" + n, tabindex: "0", role: "button", "aria-label": `Verse ${lab.text}` },
+    const span = el("span", { class: "v", "data-v": n, "data-id": id, tabindex: "0", role: "button", "aria-label": `Verse ${lab.text}` },
       el("sup", { class: "vn" + (lab.title ? " title" : ""), text: lab.text }));
+    if (opts.anchors) span.id = "v" + n;
     if (en) span.append(inline(en, letters));
     else span.append(el("span", { class: "missing", text: "(No verse here in the critical editions; see the note.)" }));
     span.append(" ");
@@ -1003,41 +1057,218 @@ async function show(b, c, v, opts = {}) {
     if (a && a.n) span.classList.add("has-note");
     if (a && a.r) markRanges(span, a.r);
     p.append(span);
-    if (row[3] && row[3].p) { text.append(p); p = el("p"); }
+    if (row[3] && row[3].p) { sec.append(p); p = el("p"); }
   }
-  if (p.childNodes.length) text.append(p);
-  if (settings.marks === "on") paintMarks(b, c);
-  // Chapter navigation.
-  const idx = BOOKS.indexOf(b);
-  const prev = c > 1 ? [b, c - 1] : idx > 0 ? [BOOKS[idx - 1], BOOKS[idx - 1].s.length] : null;
-  const next = c < b.s.length ? [b, c + 1] : idx < BOOKS.length - 1 ? [BOOKS[idx + 1], 1] : null;
-  const name = (bk, ch) => (bk.osis === "Ps" ? "Psalm" : bk.n) + " " + ch;
-  $("prev").hidden = !prev; $("next").hidden = !next;
-  if (prev) { $("prev").textContent = "← " + name(...prev); $("prev").onclick = () => go(...prev); }
-  if (next) { $("next").textContent = name(...next) + " →"; $("next").onclick = () => go(...next); }
-  cur.prev = prev; cur.next = next;
-  // Remember.
+  if (p.childNodes.length) sec.append(p);
+  const ctx = { b, c, data, chapter, letters, sec, ...neighbors(b, c), head: !!opts.head, newBook: !!opts.newBook, anchors: !!opts.anchors };
+  ctxOf.set(sec, ctx);
+  return ctx;
+}
+const ctxOfNode = node => { const sec = node && node.closest && node.closest(".chap"); return sec ? ctxOf.get(sec) : null; };
+// The chapter being read: the address, the title and the chapter button follow it.
+function setCurrent(ctx, opts = {}) {
+  if (!ctx) return;
+  const changed = !cur || cur.sec !== ctx.sec;
+  cur = ctx;
+  if (!changed && !opts.force) return;
+  const { b, c } = ctx;
+  $("where-label").textContent = bookName(b) + " " + c;
+  document.title = `${bookName(b)} ${c} · Plain English Bible`;
+  if (view.kind !== "plan" && opts.address !== false) history.replaceState(null, "", refHash(b, c));
   store.set("last", { s: b.slug, c });
+}
+function setHeader(b, c, chapter) {
+  $("book-name").textContent = b.n;
+  $("chapter-number").textContent = (b.osis === "Ps" ? "Psalm " : "") + c;
+  const st = chapter.s || "draft";
+  $("status").className = "badge " + st;
+  $("status").textContent = STATUS_LABEL[st] || st;
+  $("web-link").href = "graph.html#" + hashSlug(b) + "-" + c;
+  $("src-line").textContent = b.t === "NT" ? "From the Greek" : allAramaic(b, c) ? "From the Aramaic" : hasAramaic(b, c) ? "From the Hebrew and Aramaic" : "From the Hebrew";
+}
+function applyTextOptions() {
+  $("text").classList.toggle("no-vn", settings.verseNums === "off");
+  $("chapter").classList.toggle("no-chap", settings.chapNums === "off");
+}
+let showToken = 0;
+async function show(b, c, v, opts = {}) {
+  const token = ++showToken;
+  if (!opts.plan) view = { kind: settings.flow === "book" || settings.flow === "bible" ? "flow" : "chapter" };
+  $("loading").hidden = false;
+  let data;
+  try { data = await getJSON("text/" + b.slug + ".json"); }
+  catch (e) { $("loading").textContent = "This chapter couldn't be loaded. Check your connection and try again."; return; }
+  if (token !== showToken) return;
+  closeVerse();
+  $("loading").hidden = true;
+  $("chapter").hidden = false;
+  setHeader(b, c, data.chapters[c - 1]);
+  applyTextOptions();
+  const text = $("text");
+  text.textContent = "";
+  const ctx = buildChapter(b, c, data, { anchors: true });
+  text.append(ctx.sec);
+  cur = null;
+  setCurrent(ctx, { force: true, address: false });
+  if (settings.marks === "on") paintMarks(ctx);
+  // Remember.
   const recent = store.get("recent", []).filter(r => !(r.s === b.slug && r.c === c));
   recent.unshift({ s: b.slug, c });
   store.set("recent", recent.slice(0, 8));
-  if (v) {
-    const target = $("v" + v);
-    if (target) {
-      requestAnimationFrame(() => {
-        const y = target.getBoundingClientRect().top + scrollY - 90;
-        scrollTo({ top: Math.max(0, y), behavior: "instant" in document.documentElement.style ? "instant" : "auto" });
-        target.classList.add("flash");
-        setTimeout(() => target.classList.remove("flash"), 1700);
-      });
-    }
+  $("plan-bar").hidden = view.kind !== "plan";
+  $("plan-end").hidden = true;
+  updateEnds();
+  if (view.kind === "plan") await fillPlan(token);
+  else if (view.kind === "flow") watchMore();
+  if (token !== showToken) return;
+  const target = v ? $("v" + v) : opts.chapterIndex ? text.querySelectorAll(".chap")[opts.chapterIndex] : null;
+  if (target) {
+    requestAnimationFrame(() => {
+      const y = target.getBoundingClientRect().top + scrollY - 90;
+      scrollTo({ top: Math.max(0, y), behavior: "instant" in document.documentElement.style ? "instant" : "auto" });
+      if (v) { target.classList.add("flash"); setTimeout(() => target.classList.remove("flash"), 1700); }
+    });
   } else if (!opts.keepScroll) scrollTo(0, 0);
-  if (st === "draft" && !store.get("seenDraft", false)) {
+  if ((data.chapters[c - 1].s || "draft") === "draft" && !store.get("seenDraft", false)) {
     store.set("seenDraft", true);
     toast("This translation is a first draft. Tap the Draft label to learn more.", 5200);
   }
   // Fetch the next book's text in the background, so turning the page is instant.
-  if (next) getJSON("text/" + next[0].slug + ".json").catch(() => {});
+  if (ctx.next) getJSON("text/" + ctx.next[0].slug + ".json").catch(() => {});
+}
+// The buttons at the two ends of what is shown.
+function updateEnds() {
+  const secs = $("text").querySelectorAll(".chap");
+  const first = secs.length ? ctxOf.get(secs[0]) : null, last = secs.length ? ctxOf.get(secs[secs.length - 1]) : null;
+  const name = (bk, ch) => bookName(bk) + " " + ch;
+  // Before the first chapter: in a scrolling view, a button that brings the chapter before.
+  const before = view.kind === "flow" && first ? flowPrev(first.b, first.c) : null;
+  $("more-before").hidden = !before;
+  if (before) { $("more-before").textContent = "↑ " + name(...before); $("more-before").onclick = () => addBefore(before); }
+  // After the last: the next chapter, unless more will come as the reader scrolls.
+  const nav = $("chapnav");
+  if (view.kind === "plan" || !last) { nav.hidden = true; return; }
+  const more = view.kind === "flow" && flowNext(last.b, last.c);
+  nav.hidden = !!more;
+  const prev = view.kind === "flow" ? (first && neighbors(first.b, first.c).prev) : last.prev;
+  const next = last.next;
+  $("prev").hidden = !prev || view.kind === "flow"; $("next").hidden = !next;
+  if (prev) { $("prev").textContent = "← " + name(...prev); $("prev").onclick = () => go(...prev); }
+  if (next) { $("next").textContent = name(...next) + " →"; $("next").onclick = () => go(...next); }
+}
+// Scrolling views: the next chapter is added when the end comes near.
+let moreObserver = null, adding = false;
+function watchMore() {
+  if (!moreObserver) moreObserver = new IntersectionObserver(entries => { if (entries.some(e => e.isIntersecting)) addMore(); }, { rootMargin: "0px 0px 1500px 0px" });
+  moreObserver.disconnect();
+  moreObserver.observe($("more-after"));
+}
+async function addMore() {
+  if (adding || view.kind !== "flow") return;
+  const secs = $("text").querySelectorAll(".chap");
+  const last = ctxOf.get(secs[secs.length - 1]);
+  const nx = last && flowNext(last.b, last.c);
+  if (!nx) return;
+  adding = true;
+  const token = showToken;
+  try {
+    const data = await getJSON("text/" + nx[0].slug + ".json");
+    if (token !== showToken) return;
+    const ctx = buildChapter(nx[0], nx[1], data, { head: true, newBook: nx[0] !== last.b });
+    $("text").append(ctx.sec);
+    if (settings.marks === "on") paintMarks(ctx);
+    updateEnds();
+  } catch (e) { /* offline: try again on the next scroll */ }
+  finally { adding = false; }
+  // Still near the end (a short chapter): add another.
+  const r = $("more-after").getBoundingClientRect();
+  if (r.top < innerHeight + 1500 && token === showToken) addMore();
+}
+async function addBefore([b, c]) {
+  const token = showToken;
+  let data;
+  try { data = await getJSON("text/" + b.slug + ".json"); } catch (e) { return; }
+  if (token !== showToken) return;
+  const text = $("text"), first = text.querySelector(".chap"), old = ctxOf.get(first);
+  // The chapter that was first gets a heading of its own, and the new one takes the page's.
+  const was = buildChapter(old.b, old.c, old.data, { head: true, newBook: old.b !== b });
+  first.replaceWith(was.sec);
+  if (settings.marks === "on") paintMarks(was);
+  const ctx = buildChapter(b, c, data, { anchors: true });
+  const y0 = was.sec.getBoundingClientRect().top;
+  text.prepend(ctx.sec);
+  for (const s of was.sec.querySelectorAll("[id^='v']")) s.removeAttribute("id");
+  setHeader(b, c, data.chapters[c - 1]);
+  // Keep the words on screen where they were.
+  scrollBy(0, was.sec.getBoundingClientRect().top - y0);
+  if (settings.marks === "on") paintMarks(ctx);
+  updateEnds();
+}
+// Re-draw what is shown (a setting or a highlight changed), keeping the place.
+function refresh() {
+  for (const sec of [...$("text").querySelectorAll(".chap")]) {
+    const o = ctxOf.get(sec);
+    const ctx = buildChapter(o.b, o.c, o.data, { head: o.head, newBook: o.newBook, anchors: o.anchors });
+    sec.replaceWith(ctx.sec);
+    if (cur && cur.sec === sec) cur = ctx;
+    if (settings.marks === "on") paintMarks(ctx);
+  }
+  applyTextOptions();
+}
+// Follow the chapter at the top of the screen.
+let trackQueued = false;
+addEventListener("scroll", () => {
+  if (trackQueued || view.kind === "chapter") return;
+  trackQueued = true;
+  requestAnimationFrame(() => {
+    trackQueued = false;
+    const secs = $("text").querySelectorAll(".chap");
+    let at = secs[0];
+    for (const sec of secs) { if (sec.getBoundingClientRect().top < innerHeight * 0.35) at = sec; else break; }
+    if (at && $("verse").hidden) setCurrent(ctxOf.get(at));
+  });
+}, { passive: true });
+
+/* ---------- A day of a reading plan ---------- */
+// "#plan-6" shows day 6 of the plan being followed, all its chapters one after another, and at
+// the end a button that marks the day read. "#plan-6-2" opens it at its third chapter.
+async function showPlanDay(day, k) {
+  const P = await getJSON("study/plans.json").catch(() => null);
+  const p = P && plan && P.find(x => x.id === plan.id);
+  if (!p || !p.days[day]) { go(byOsis.John, 1); return; }
+  const list = p.days[day].map(r => { const [o, c] = r.split("."); return [byOsis[o], +c]; });
+  view = { kind: "plan", p, day, list };
+  $("plan-bar-text").textContent = `${p.n} · Day ${day + 1} of ${p.days.length}`;
+  $("plan-bar-what").textContent = readings(p.days[day]).map(x => x[0]).join(", ");
+  await show(list[0][0], list[0][1], null, { plan: true, chapterIndex: k || 0 });
+}
+async function fillPlan(token) {
+  const { list } = view;
+  for (let i = 1; i < list.length; i++) {
+    const [b, c] = list[i], [pb, pc] = list[i - 1];
+    let data;
+    try { data = await getJSON("text/" + b.slug + ".json"); } catch (e) { break; }
+    if (token !== showToken) return;
+    const ctx = buildChapter(b, c, data, { head: true, newBook: b !== pb || c !== pc + 1 });
+    $("text").append(ctx.sec);
+    if (settings.marks === "on") paintMarks(ctx);
+  }
+  renderPlanEnd();
+}
+function renderPlanEnd() {
+  const { p, day } = view, box = $("plan-end");
+  const done = plan && plan.done.includes(day);
+  const next = day + 1 < p.days.length ? day + 1 : null;
+  box.hidden = false;
+  box.replaceChildren(
+    el("p", { class: "kind", text: `${p.n} · Day ${day + 1}` }),
+    el("h3", { text: done ? "Day " + (day + 1) + " is marked read" : "You’ve reached the end of today’s reading" }),
+    el("div", { class: "actions" },
+      done ? el("button", { class: "btn line", type: "button", text: "Mark as not read", onclick: () => { plan.done = plan.done.filter(d => d !== day); savePlan(); renderPlanEnd(); } })
+        : el("button", { class: "btn solid", type: "button", text: `Mark day ${day + 1} read`, onclick: () => {
+          plan.done = [...new Set([...plan.done, day])].sort((a, b) => a - b); savePlan(); renderPlanEnd(); toast(`Day ${day + 1} marked read`); } }),
+      next != null ? el("a", { class: "btn line", href: "#plan-" + (next + 1), text: `Day ${next + 1} →` }) : null,
+      el("button", { class: "btn line", type: "button", text: "All days", onclick: () => { openSheet("plans"); renderPlans(); } })));
 }
 // Books and passages set as poetry, a verse to a line.
 function isPoetry(b, c) {
@@ -1148,6 +1379,7 @@ function renderOriginal(src, ot) {
   }
 }
 async function openVerse(span) {
+  setCurrent(ctxOfNode(span));
   if (!cur) return;
   const n = +span.dataset.v;
   const row = cur.chapter.v.find(r => r[0] === n);
@@ -1634,13 +1866,15 @@ const midnight = (d = new Date()) => new Date(d.getFullYear(), d.getMonth(), d.g
 // "Gen.1","Gen.2","Gen.3","Exod.1" -> [[Genesis 1–3, href], [Exodus 1, href]]
 function readings(refs) {
   const out = [];
-  for (const ref of refs) {
+  refs.forEach((ref, i) => {
     const [o, c] = ref.split("."), b = byOsis[o];
     const last = out[out.length - 1];
-    if (last && last.b === b && last.c2 === +c - 1) last.c2 = +c; else out.push({ b, c1: +c, c2: +c });
-  }
-  return out.map(x => [`${x.b.osis === "Ps" ? (x.c1 === x.c2 ? "Psalm" : "Psalms") : x.b.n} ${x.c1}${x.c2 !== x.c1 ? "–" + x.c2 : ""}`, refHash(x.b, x.c1)]);
+    if (last && last.b === b && last.c2 === +c - 1) last.c2 = +c; else out.push({ b, c1: +c, c2: +c, i });
+  });
+  // Each reading opens the whole day's passage, at that reading.
+  return out.map(x => [`${x.b.osis === "Ps" ? (x.c1 === x.c2 ? "Psalm" : "Psalms") : x.b.n} ${x.c1}${x.c2 !== x.c1 ? "–" + x.c2 : ""}`, refHash(x.b, x.c1), x.i]);
 }
+const dayHref = (d, i) => "#plan-" + (d + 1) + (i ? "-" + i : "");
 function savePlan() { store.set("plan", plan); updatePlanSub(); }
 function updatePlanSub() {
   const sub = $("plans-sub");
@@ -1674,9 +1908,10 @@ async function renderPlans() {
     kids.push(el("div", { class: "today" },
       el("div", { class: "kind", text: `${p.n} · day ${show + 1} of ${p.days.length}${behind}` }),
       el("h3", { text: show === today ? "Today’s reading" : "Next reading" }),
-      el("div", { class: "reads" }, ...readings(p.days[show]).map(([t, href]) => el("a", { href, onclick: () => closeSheets(), text: t }))),
+      el("div", { class: "reads" }, ...readings(p.days[show]).map(([t, , i]) => el("a", { href: dayHref(show, i), onclick: () => closeSheets(), text: t }))),
       el("div", { class: "progress", "aria-hidden": "true" }, el("i", { style: `width:${(100 * done.size / p.days.length).toFixed(1)}%` })),
-      el("div", { class: "actions" }, el("button", { class: "btn solid", type: "button", text: `Mark day ${show + 1} read`, onclick: () => toggle(show) }))));
+      el("div", { class: "actions" }, el("a", { class: "btn solid", href: dayHref(show, 0), onclick: () => closeSheets(), text: `Read day ${show + 1}` }),
+        el("button", { class: "btn line", type: "button", text: `Mark day ${show + 1} read`, onclick: () => toggle(show) }))));
   }
   const list = el("ol", { class: "days" });
   p.days.forEach((refs, d) => {
@@ -1684,7 +1919,7 @@ async function renderPlans() {
     cb.checked = done.has(d);
     cb.onchange = () => toggle(d);
     list.append(el("li", { class: (done.has(d) ? "done " : "") + (d === show ? "cur" : "") }, cb, el("span", { class: "d", text: `Day ${d + 1}` }),
-      el("span", {}, ...readings(refs).flatMap(([t, href], k) => [k ? ", " : null, el("a", { href, onclick: () => closeSheets(), text: t })]).filter(Boolean))));
+      el("span", {}, ...readings(refs).flatMap(([t, , i], k) => [k ? ", " : null, el("a", { href: dayHref(d, i), onclick: () => closeSheets(), text: t })]).filter(Boolean))));
   });
   kids.push(list, el("div", { class: "actions", style: "margin-top:12px" },
     el("button", { class: "btn line", type: "button", text: "Stop this plan", onclick: () => { if (confirm(`Stop “${p.n}”? The days you’ve marked will be cleared.`)) { plan = null; store.set("plan", null); updatePlanSub(); renderPlans(); } } })),
@@ -1693,6 +1928,7 @@ async function renderPlans() {
   setTimeout(() => list.querySelector(".cur")?.scrollIntoView({ block: "center" }), 30);
 }
 $("open-plans").onclick = () => { openSheet("plans"); renderPlans(); };
+$("plan-bar-all").onclick = () => { openSheet("plans"); renderPlans(); };
 updatePlanSub();
 
 /* ---------- A word ---------- */
@@ -2038,24 +2274,33 @@ $("restore-apply").onclick = () => {
   if (added.length) reader.annotations.onChange?.(added);
   toast(added.length ? `Restored ${added.length} ${added.length === 1 ? "highlight or note" : "highlights and notes"}` : "Nothing new in that backup");
   renderMine();
-  if (cur) show(cur.b, cur.c, null, { keepScroll: true });
+  if (cur) refresh();
 };
 
 /* ---------- Settings ---------- */
+const SEGS = [["theme", "theme"], ["numbering", "numbering"], ["shownotes", "notes"], ["showmarks", "marks"], ["flow", "flow"], ["versenums", "verseNums"], ["chapnums", "chapNums"]];
 function applySettings() {
   document.documentElement.style.setProperty("--size", settings.size + "px");
   if (settings.theme === "system") document.documentElement.removeAttribute("data-theme");
   else document.documentElement.setAttribute("data-theme", settings.theme);
   $("size").value = settings.size;
-  for (const [id, key] of [["theme", "theme"], ["numbering", "numbering"], ["shownotes", "notes"], ["showmarks", "marks"]])
+  for (const [id, key] of SEGS)
     for (const b of $(id).children) b.setAttribute("aria-pressed", String(b.dataset.v === settings[key]));
   $("marks-on").checked = settings.marks === "on";
   $("marks-sub").textContent = settings.marks === "on" ? "On" : "";
   store.set("settings", settings);
 }
 $("size").oninput = () => { settings.size = +$("size").value; applySettings(); };
-for (const [id, key] of [["theme", "theme"], ["numbering", "numbering"], ["shownotes", "notes"], ["showmarks", "marks"]])
-  $(id).onclick = ev => { const b = ev.target.closest("button"); if (!b) return; settings[key] = b.dataset.v; applySettings(); if (key !== "theme" && cur) show(cur.b, cur.c, null, { keepScroll: true }); };
+for (const [id, key] of SEGS)
+  $(id).onclick = ev => {
+    const b = ev.target.closest("button"); if (!b) return;
+    settings[key] = b.dataset.v; applySettings();
+    if (!cur || key === "theme") return;
+    if (key === "verseNums" || key === "chapNums") applyTextOptions();
+    else if (key === "flow") { if (view.kind !== "plan") show(cur.b, cur.c); }
+    else if (key === "marks") repaintMarks();
+    else refresh();
+  };
 
 /* ---------- Little things ---------- */
 let toastTimer = 0;
@@ -2069,13 +2314,14 @@ function toast(msg, ms = 2200) {
 const MARK_LANG = "en";
 const markRules = () => getJSON("markings/rules.json");
 const markName = (x, k = "name") => x[k] && (x[k][MARK_LANG] || x[k].en);
-async function paintMarks(b, c) {
+async function paintMarks(ctx) {
+  const { b, c, sec } = ctx;
   let R, M;
   try { [R, M] = await Promise.all([markRules(), getJSON(`markings/${MARK_LANG}/${b.slug}.json`)]); }
   catch (e) { return; }
-  if (!cur || cur.b !== b || cur.c !== c || settings.marks !== "on") return;
+  if (!sec.isConnected || settings.marks !== "on" || sec.querySelector(".smk")) return;
   const off = new Set(settings.markOff || []), marks = M[c - 1] || {};
-  for (const span of $("text").querySelectorAll(".v")) {
+  for (const span of sec.querySelectorAll(".v")) {
     const list = marks[span.dataset.v];
     if (!list) continue;
     // From the end, so each wrap leaves the earlier offsets where they were.
@@ -2086,11 +2332,11 @@ async function paintMarks(b, c) {
   }
 }
 function unpaintMarks() {
-  for (const m of $("text").querySelectorAll(".mk")) m.replaceWith(...m.childNodes);
+  for (const m of $("text").querySelectorAll(".smk")) m.replaceWith(...m.childNodes);
   for (const v of $("text").querySelectorAll(".v")) v.normalize();
 }
 function markEl(r) {
-  const m = el("span", { class: "mk", "data-s": r.style, title: markName(r) });
+  const m = el("span", { class: "smk", "data-s": r.style, title: markName(r) });
   m.style.setProperty("--mc", `var(--mk-${r.color})`);
   if (r.glyph) m.dataset.g = r.glyph;
   return m;
@@ -2108,8 +2354,8 @@ function wrapMark(span, s, e, r) {
   const range = document.createRange();
   range.setStart(sn, so); range.setEnd(en, eo);
   // A word set in parts (the small capitals of LORD) is wrapped whole, not part by part.
-  if (so === 0) { let n = sn; while (n.parentNode !== span && !n.previousSibling && !n.parentNode.matches(".mk, mark")) n = n.parentNode; if (n !== sn) range.setStartBefore(n); }
-  if (eo === en.data.length) { let n = en; while (n.parentNode !== span && !n.nextSibling && !n.parentNode.matches(".mk, mark")) n = n.parentNode; if (n !== en) range.setEndAfter(n); }
+  if (so === 0) { let n = sn; while (n.parentNode !== span && !n.previousSibling && !n.parentNode.matches(".smk, mark")) n = n.parentNode; if (n !== sn) range.setStartBefore(n); }
+  if (eo === en.data.length) { let n = en; while (n.parentNode !== span && !n.nextSibling && !n.parentNode.matches(".smk, mark")) n = n.parentNode; if (n !== en) range.setEndAfter(n); }
   try { range.surroundContents(markEl(r)); }
   catch (err) {
     // Across a highlight's edge: mark each piece.
@@ -2128,7 +2374,7 @@ function wrapMark(span, s, e, r) {
 }
 function repaintMarks() {
   unpaintMarks();
-  if (cur && settings.marks === "on") paintMarks(cur.b, cur.c);
+  if (settings.marks === "on") for (const sec of $("text").querySelectorAll(".chap")) paintMarks(ctxOf.get(sec));
 }
 async function renderMarksKey() {
   const body = $("marks-body");
@@ -2220,10 +2466,9 @@ function selectedVerses() {
   return out;
 }
 function highlightSelection(color) {
-  const { b, c } = cur;
   const touched = [];
   for (const [span, s, e] of selectedVerses()) {
-    const id = `${b.osis}.${c}.${span.dataset.v}`;
+    const id = span.dataset.id;
     const a = notes[id] || {};
     // What was marked here before gives way; then the new color, and like neighbors join up.
     let rs = [];
@@ -2270,7 +2515,8 @@ $("text").addEventListener("click", ev => {
   if (fn) {
     ev.stopPropagation();
     $("fn-title").textContent = "Note " + fn.textContent;
-    const p = $("fn-text"); p.textContent = ""; p.append(inline(cur.chapter.n[fn.dataset.n] || "", null));
+    const ctx = ctxOfNode(fn) || cur;
+    const p = $("fn-text"); p.textContent = ""; p.append(inline(ctx.chapter.n[fn.dataset.n] || "", null));
     openSheet("footnote");
     return;
   }
@@ -2308,6 +2554,7 @@ for (const b of document.querySelectorAll("[data-close]")) b.onclick = () => { i
 document.addEventListener("keydown", ev => {
   if (ev.key === "Escape") { closeSheets(); closeVerse(); return; }
   if (/INPUT|TEXTAREA|SELECT/.test(document.activeElement.tagName) || !$("scrim").hidden) return;
+  if (view.kind === "plan") { if (ev.key === "/") { ev.preventDefault(); openSheet("search"); } return; }
   if (ev.key === "ArrowLeft" && cur && cur.prev) go(...cur.prev);
   if (ev.key === "ArrowRight" && cur && cur.next) go(...cur.next);
   if (ev.key === "/" ) { ev.preventDefault(); openSheet("search"); }
@@ -2316,7 +2563,7 @@ document.addEventListener("keydown", ev => {
 let touch = null;
 $("main").addEventListener("touchstart", ev => { if (ev.touches.length === 1) touch = { x: ev.touches[0].clientX, y: ev.touches[0].clientY, t: Date.now() }; }, { passive: true });
 $("main").addEventListener("touchend", ev => {
-  if (!touch || !cur) return;
+  if (!touch || !cur || view.kind === "plan") return;
   const dx = ev.changedTouches[0].clientX - touch.x, dy = ev.changedTouches[0].clientY - touch.y, dt = Date.now() - touch.t;
   touch = null;
   if (Math.abs(dx) > 70 && Math.abs(dx) > Math.abs(dy) * 2 && dt < 700 && !String(getSelection()).trim()) {
@@ -2328,6 +2575,8 @@ $("main").addEventListener("touchend", ev => {
 /* ---------- Start ---------- */
 function route() {
   closeSheets();
+  const pm = location.hash.match(/^#plan-(\d+)(?:-(\d+))?$/);
+  if (pm) { showPlanDay(+pm[1] - 1, pm[2] ? +pm[2] : 0); return; }
   const r = parseHash();
   if (r) { show(r.b, r.c, r.v); return; }
   const last = store.get("last", null);
@@ -2344,7 +2593,7 @@ getJSON("books.json").then(list => {
   addEventListener("hashchange", route);
   route();
 }).catch(() => { $("loading").textContent = "The Bible couldn't be loaded. Check your connection and reload the page."; });
-if ("serviceWorker" in navigator && /^https?:$/.test(location.protocol) && !embedded) navigator.serviceWorker.register("sw.js?v=20").catch(() => {});
+if ("serviceWorker" in navigator && /^https?:$/.test(location.protocol) && !embedded) navigator.serviceWorker.register("sw.js?v=21").catch(() => {});
 
 /* ---------- For account.js: highlights and notes, and two of the reader's tools ---------- */
 var reader = {
@@ -2355,15 +2604,15 @@ var reader = {
       for (const [id, a] of changes) { if (a && (a.h || a.n || (a.r && a.r.length))) notes[id] = a; else delete notes[id]; }
       store.set("annotations", notes);
       if (!$("mine").hidden) renderMine();
-      if (cur && $("verse").hidden) show(cur.b, cur.c, null, { keepScroll: true });
+      if (cur && $("verse").hidden) refresh();
     },
     onChange: null,   // account.js: told of each change made on this device
   },
   openSheet, toast,
 };
 </script>
-<script src="config.js?v=20"></script>
-<script src="share.js?v=20"></script>
-<script src="account.js?v=20"></script>
+<script src="config.js?v=21"></script>
+<script src="share.js?v=21"></script>
+<script src="account.js?v=21"></script>
 </body>
 </html>
