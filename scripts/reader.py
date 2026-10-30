@@ -18,6 +18,8 @@ Writes  data/bible/books.json            the books, their chapters and each chap
                                           (Hebrew) or A (Aramaic) in the Old Testament; "main"
                                           is the morpheme that carries the meaning, if not
                                           the last
+        data/bible/variants/NN-book.json where the editions and manuscripts differ, verse by
+                                          verse (see variants_note below)
         data/bible/lexicon/xNN.json      the lexicon entries the words use, in chunks
         data/bible/search.json           every English verse as plain text, for search
 
@@ -82,7 +84,7 @@ def step_paths(key):
 def hebrew_words():
     """TAHOT words by (osis, chapter, verse) in Hebrew numbering, and the English number of
     each Hebrew verse where they differ."""
-    words, english = collections.defaultdict(list), {}
+    words, english, extra = collections.defaultdict(list), {}, collections.defaultdict(list)
     ref = re.compile(r"([1-3]?[A-Z][a-z]{1,2})\.(\d+)\.(\d+)(?:\((\d+)\.(\d+)\))?#\d+=(\S+)\t")
     for path in step_paths("tahot"):
         for line in open(path, encoding="utf-8"):
@@ -90,15 +92,20 @@ def hebrew_words():
             if not m:
                 continue
             code, c, v, hc, hv, kind = m.groups()
-            if kind.startswith(("K", "X")):      # a written form not read, or an extra word
-                continue
             osis = OSIS_OF[code]
             key = (osis, int(hc), int(hv)) if hc else (osis, int(c), int(v))
+            if kind.startswith("X"):              # an extra word, restored from the Septuagint
+                cols = line.rstrip("\n").split("\t")
+                extra[key].append((len(words[key]), cols[1], cols[3]))
+                continue
+            if kind.startswith("K"):              # a written form not read
+                continue
             if hc and (int(c), int(v)) != key[1:]:
                 english[key] = (int(c), int(v))
             cols = line.rstrip("\n").split("\t")
+            cols.append(kind)
             words[key].append(cols)
-    return words, english
+    return words, english, extra
 
 
 VARIANT = re.compile(r"(\S+) \(\w=([^)]*)\) (.*?) - (G\d+\w?)=([\w-]+) in: ([^;]*)")
@@ -108,6 +115,10 @@ def greek_words():
     """TAGNT words of the SBLGNT by (osis, chapter, verse), each as [Greek, transliteration,
     gloss, Strong's, grammar, dictionary form], and the verses that end a paragraph."""
     words, paragraph = collections.defaultdict(list), set()
+    # The words of other editions: all the words of each verse (for the few verses the SBLGNT
+    # prints in double brackets, which TAGNT does not count as its own), and the words of
+    # other editions that the SBLGNT lacks, after the SBLGNT word they follow.
+    every, added = collections.defaultdict(list), collections.defaultdict(list)
     ref = re.compile(r"([1-3]?[A-Z][a-z]{1,2})\.(\d+)\.(\d+)(?:\[\d+\])?#\d+=\S+\t")
     for path in step_paths("tagnt"):
         for line in open(path, encoding="utf-8"):
@@ -119,18 +130,75 @@ def greek_words():
             greek, _, translit = cols[1].partition(" (")
             if "¶" in greek:
                 paragraph.add(key)
+            eds = editions(cols[5])
+            strong, _, grammar = cols[3].partition("=")
+            word = [greek.replace("¶", ""), translit.rstrip(")"), cols[2], strong, grammar, cols[4].split("=")[0]]
+            others = [[vm[1], plain_gloss(vm[3]), editions(vm[6])] for vm in VARIANT.finditer(cols[6])]
+            every[key].append(word + [{"x": missing(eds)} if missing(eds) else {}])
+            # A word the SBLGNT has in another place (marked SBL»1) is not counted as its own.
             if "SBL" in cols[5].split("+"):
-                strong, _, grammar = cols[3].partition("=")
-                words[key].append([greek.replace("¶", ""), translit.rstrip(")"), cols[2], strong,
-                                   grammar, cols[4].split("=")[0]])
+                note = {}
+                if missing(eds):
+                    note["x"] = missing(eds)
+                if others:
+                    note["r"] = others
+                words[key].append(word + [note])
                 continue
             # Where the SBLGNT reads differently from this edition, TAGNT gives its reading
-            # among the variants.
+            # among the variants; this edition's reading is then the other one.
             for vm in VARIANT.finditer(cols[6]):
-                if "SBL" in re.split(r"[+\s»\d]+", vm[6]):
-                    words[key].append([vm[1], vm[2], vm[3], vm[4], vm[5], ""])
+                if "SBL" in editions(vm[6]):
+                    note = {"r": [[word[0], plain_gloss(word[2]), eds]] + [o for o in others if "SBL" not in o[2]]}
+                    words[key].append([vm[1], vm[2], vm[3], vm[4], vm[5], "", note])
                     break
-    return words, paragraph
+            else:
+                if "SBL" not in eds:
+                    added[key].append((len(words[key]), word[0], word[2], eds))
+    return words, paragraph, every, added
+
+
+# The editions TAGNT compares. A word in all of them needs no note.
+EDITIONS = ["NA28", "NA27", "Tyn", "SBL", "WH", "Treg", "TR", "Byz"]
+
+
+def editions(field):
+    """TAGNT's "+"-joined editions, without its marks of word order (TR»1)."""
+    out = []
+    for e in re.split(r"[+\s]+", field.strip()):
+        e = re.sub(r"[»«]\d*$", "", e)
+        if e and e not in out:
+            out.append(e)
+    return out
+
+
+def missing(eds):
+    return [e for e in EDITIONS if e not in eds] if any(e in EDITIONS for e in eds) else []
+
+
+HEB_VARIANT = re.compile(r"(?:^|;\s*|\s)([A-Z])=\s*([^\s(\"]*)\s*(?:\(([^)]*)\))?\s*\"([^\"]*)\"")
+
+
+def heb_clean(h):
+    return re.sub(r"[\\׃]", "", h.split("\\")[0]).replace("/", "")
+
+
+def plain_gloss(g):
+    """A gloss without STEPBible's marks for words implied (<the>) or supplied ([is])."""
+    return re.sub(r"[<>\[\]]", "", gloss_clean(g))
+
+
+def hebrew_note(r):
+    """Where a Hebrew word's manuscripts differ in sense: the written form (ketiv) of a word
+    read otherwise (qere), and readings of other manuscripts that change the meaning."""
+    kind, note = r[-1], {}
+    letters = re.search(r"\(([^)]*)\)", kind)
+    for m in HEB_VARIANT.finditer(r[6] if len(r) > 6 else ""):
+        siglum, translit, hebrew, gloss = m[1], m[2], (m[3] or "").replace("/", ""), m[4]
+        if siglum == "K" and kind.startswith("Q(K)"):
+            note["k"] = [heb_clean(hebrew), translit.replace("/", "").replace(".", ""), plain_gloss(gloss)]
+        elif letters and siglum in letters[1] and siglum != "K":
+            note.setdefault("r", []).append([siglum, heb_clean(hebrew), plain_gloss(gloss)])
+    return note
 
 
 def hebrew_tokens(text):
@@ -238,9 +306,60 @@ def write_json(path, data):
         f.write("\n")
 
 
+def group_runs(items):
+    """Added words as runs: those at one place in the verse (and, in Greek, in the same
+    editions) together, as (place, [words])."""
+    out = []
+    for it in items:
+        if out and out[-1][0] == it[0] and (len(it) < 4 or out[-1][1][0][3] == it[3]):
+            out[-1][1].append(it)
+        else:
+            out.append((it[0], [it]))
+    return out
+
+
+def variants_note(vch, v, wnotes, adds, match):
+    """data/bible/variants/NN-book.json, for one verse:
+        "w": {word: note}    by our word's place in the verse (from 0):
+                               "x": [editions]  the editions that leave the word out
+                               "r": [[word, gloss, [editions]]]  other readings and where
+                               "k": [Hebrew, transliteration, gloss]  how it is written (ketiv)
+                               "r": [[manuscript, Hebrew, gloss]]  other Hebrew manuscripts
+        "a": [[after, words, gloss, [editions]]]  words other editions add, after our word
+                               "after" (-1 at the verse's start); "LXX" marks the words restored
+                               to the Hebrew from the Septuagint.
+        "s": [[first, last, [editions]]]  a run of our words the editions leave out
+        "b": [editions]  a verse the SBLGNT prints in double brackets, and the editions that
+                               leave it out
+    Editions are TAGNT's: NA28, NA27, Tyn, SBL, WH, Treg, TR, Byz, and a few manuscripts."""
+    entry = vch.get(str(v), {})
+    # Three or more words in a row left out by the same editions, with nothing else to say of
+    # them, are one span: "s": [[first, last, [editions]]].
+    run, spans = [], []
+    for i in sorted(wnotes) + [None]:
+        n = wnotes.get(i) if i is not None else None
+        if n is not None and set(n) == {"x"} and run and i == run[-1] + 1 and wnotes[run[-1]] == n:
+            run.append(i)
+            continue
+        if len(run) >= 3:
+            spans.append([run[0], run[-1], wnotes[run[0]]["x"]])
+            for k in run:
+                del wnotes[k]
+        run = [i] if n is not None and set(n) == {"x"} else []
+    if spans:
+        entry["s"] = spans
+    if wnotes:
+        entry["w"] = {str(i): n for i, n in wnotes.items()}
+    if adds:
+        ours = {j: i for i, j in enumerate(match) if j is not None}
+        entry["a"] = [[max((ours[j] for j in ours if j < pos), default=-1)] + a[1:] for a in adds for pos in [a[0]]]
+    if entry:
+        vch[str(v)] = entry
+
+
 def main():
-    heb, english_numbers = hebrew_words()
-    grk, greek_paragraphs = greek_words()
+    heb, english_numbers, heb_extra = hebrew_words()
+    grk, greek_paragraphs, grk_every, grk_added = greek_words()
     lex = {"H": lexicon("tbesh"), "G": lexicon("tbesg")}
     used = collections.defaultdict(set)
     books, search = [], []
@@ -251,13 +370,13 @@ def main():
         for c, v, t in parse_book_md(os.path.join(ROOT, "text", "hebrew" if testament == "OT" else "greek",
                                                   stem + ".md")):
             source.setdefault(c, {})[v] = t
-        chapters, word_chapters, statuses = [], [], []
+        chapters, word_chapters, statuses, variants = [], [], [], {}
         for c in sorted(source):
             path = os.path.join(ROOT, "translation", stem, f"{c:03d}.md")
             meta, verses, notes = parse_chapter(path)
             statuses.append(meta.get("status", "draft"))
             ch = {"c": c, "s": meta.get("status", "draft"), "v": [], "n": notes}
-            wch = {}
+            wch, vch = {}, {}
             # Where the translation reopens a continuing speech at a verse, it starts a new
             # paragraph there (TRANSLATION.md), so the reader does too.
             reopen = {v for v, kind, _ in quote_events(verses) if kind == "reopen"}
@@ -276,8 +395,8 @@ def main():
                     keys = [re.sub(r"[^א-ת]", "", t[0]) if t[1] != "k" else "\0" for t in toks]
                     theirs = ["".join(HEB_LETTER.findall(r[1].split("\\")[0])) for r in rows]
                     match = align(keys, theirs)
-                    ws = []
-                    for (tok, kind), j in zip(toks, match):
+                    ws, wnotes = [], {}
+                    for i, ((tok, kind), j) in enumerate(zip(toks, match)):
                         stats["words"] += 1
                         if kind == "k":
                             ws.append("|||ketiv")
@@ -297,24 +416,41 @@ def main():
                         if main != len(strongs) - 1:
                             w.append(str(main))
                         ws.append("|".join(w))
+                        note = hebrew_note(r)
+                        if note:
+                            wnotes[i] = note
                     wch[v] = "¦".join(ws)
+                    adds = [[pos, " ".join(heb_clean(x[1]) for x in grp), " ".join(plain_gloss(x[2]) for x in grp), ["LXX"]]
+                            for pos, grp in group_runs(heb_extra.get((osis, c, v), []))]
+                    variants_note(vch, v, wnotes, adds, match)
                 else:
                     if (osis, c, v) in greek_paragraphs:
                         extra["p"] = 1
                     toks = [t for t in src.split() if greek_norm(t)]
-                    rows = grk.get((osis, c, v), [])
+                    rows = grk.get((osis, c, v)) or grk_every.get((osis, c, v), [])
                     match = align([greek_norm(t) for t in toks], [greek_norm(r[0]) for r in rows])
-                    ws = []
-                    for tok, j in zip(toks, match):
+                    ws, wnotes = [], {}
+                    for i, (tok, j) in enumerate(zip(toks, match)):
                         stats["words"] += 1
                         if j is None:
                             ws.append("")
                             continue
                         stats["aligned"] += 1
-                        g, tr, gloss, strong, grammar, _ = rows[j]
+                        g, tr, gloss, strong, grammar, _, note = rows[j]
                         used["G"].add(strong)
                         ws.append("|".join([tr, gloss_clean(gloss), short(strong), grammar]))
+                        if note:
+                            wnotes[i] = note
                     wch[v] = "¦".join(ws)
+                    adds = [[pos, " ".join(x[1] for x in grp), " ".join(plain_gloss(x[2]) for x in grp), grp[0][3]]
+                            for pos, grp in group_runs(grk_added.get((osis, c, v), []))]
+                    if not grk.get((osis, c, v)) and rows:
+                        # A verse the SBLGNT prints in double brackets, as not in the earliest
+                        # manuscripts: a note on the verse, not on each word.
+                        out = sorted(set.intersection(*(set(r[6].get("x", [])) for r in rows)) - {"SBL"}, key=EDITIONS.index)
+                        wnotes, adds = {}, []
+                        vch[str(v)] = {"b": out}
+                    variants_note(vch, v, wnotes, adds, match)
                 if v + 1 in reopen:
                     extra["p"] = 1
                 if extra:
@@ -324,9 +460,12 @@ def main():
                     search.append([stem, c, v, plain(en)])
             chapters.append(ch)
             word_chapters.append({"c": c, "w": wch})
+            if vch:
+                variants[c] = vch
         write_json(os.path.join(OUT, "text", stem + ".json"),
                    {"book": name, "osis": osis, "t": testament, "chapters": chapters})
         write_json(os.path.join(OUT, "words", stem + ".json"), {"book": name, "chapters": word_chapters})
+        write_json(os.path.join(OUT, "variants", stem + ".json"), {"book": name, "c": variants})
         books.append({"n": name, "osis": osis, "slug": stem, "t": testament, "s": statuses})
         stats["chapters"] += len(chapters)
     # Lexicon, in chunks of a thousand Strong's numbers, holding only the entries used.
