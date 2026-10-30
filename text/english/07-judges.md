@@ -551,7 +551,7 @@
 [^6-14]: The same words God spoke to Moses in Exodus 3:12.
 [^6-15]: An ephah was probably about 22 liters (two-thirds of a bushel).
 [^6-16]: Literally "went from his eyes".
-[^6-17]: Gideon fears death, because no one could see God and live (Exodus 33:20; compare Judges 13:22).
+[^6-17]: Hebrew *Adonai YHWH*, "my Lord YHWH". After "Lord", God's personal name is written GOD in capitals, as in most English Bibles. Gideon fears death, because no one could see God and live (Exodus 33:20; compare Judges 13:22).
 [^6-18]: Hebrew *YHWH shalom*.
 [^6-19]: Literally "Take the young bull of the ox that belongs to your father, and the second bull, seven years old." It is not clear whether one bull is meant or two.
 [^6-20]: Hebrew *asherah*: a wooden pole or tree that was a symbol of the goddess Asherah. Also in verses 26, 28 and 30.
@@ -1631,7 +1631,7 @@
 
 **38** The men of Israel had agreed on a signal with the men in ambush: they were to send up a great cloud[^20-20] of smoke from the city.
 
-**39** Then the men of Israel turned around in the battle. Benjamin had begun to strike down and kill about thirty men of Israel, for they said, "They are surely defeated before us, as in the first battle."
+**39** Then the men of Israel turned around in the battle. Benjamin had begun to strike down and kill about 30 men of Israel, for they said, "They are surely defeated before us, as in the first battle."
 
 **40** But the signal began to rise from the city, a column of smoke, and when the Benjaminites looked behind them, the whole city was going up in smoke to the sky.[^20-21]
 

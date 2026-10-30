@@ -525,7 +525,7 @@
 [^7-14]: Hebrew *chesed*: loyal, faithful love.
 [^7-15]: Hebrew *ne'eman*, "made firm, made sure, faithful".
 [^7-16]: Some Hebrew manuscripts and the Septuagint read "before me".
-[^7-17]: Hebrew *Adonai YHWH*. Also in verses 19, 20, 22, 28 and 29.
+[^7-17]: Hebrew *Adonai YHWH*, "my Lord YHWH". After "Lord", God's personal name is written GOD in capitals, as in most English Bibles. Also in verses 19, 20, 22, 28 and 29.
 [^7-18]: Hebrew *torat ha-adam*, literally "the law (or instruction) of humankind". The meaning is uncertain: perhaps "and this is a teaching for all people", or, as a question, "Is this the way you deal with a man?" The parallel in 1 Chronicles 17:17 is also difficult.
 [^7-19]: 1 Chronicles 17:19 reads "For the sake of your servant".
 [^7-20]: The Hebrew verb is plural, as though "gods went". 1 Chronicles 17:21 has the singular.
@@ -828,7 +828,7 @@
 
 [^12-1]: *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles.
 [^12-2]: Literally "is a son of death".
-[^12-3]: The Septuagint reads "seven times over". The law required fourfold repayment for a stolen sheep (Exodus 21:37, 22:1 in English).
+[^12-3]: The Septuagint reads "seven times over". The law required fourfold repayment for a stolen sheep: Exodus 21:37 (22:1 in most English Bibles).
 [^12-4]: Literally "into your bosom".
 [^12-5]: The Hebrew text is written "in his sight" but read "in my sight".
 [^12-6]: Literally "before the eyes of this sun". This is fulfilled in 16:21–22.
@@ -1460,7 +1460,7 @@
 [^19-4]: Literally "speak to the heart of your servants".
 [^19-5]: *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles.
 [^19-6]: Literally "to his tents".
-[^19-7]: The Septuagint has the words "What all Israel is saying has reached the king" at the end of verse 11 (19:10 in English).
+[^19-7]: The Septuagint has the words "What all Israel is saying has reached the king" at the end of verse 11 (19:10 in most English Bibles).
 [^19-8]: Literally "my bone and my flesh". Also in verse 14.
 [^19-9]: Literally "Thus may God do to me, and thus may he add", a solemn oath calling down punishment on oneself if one does not keep one's word.
 [^19-10]: Literally "before me all the days".
@@ -1603,7 +1603,7 @@
 
 **20** There was yet another battle, at Gath, where there was a man of great size[^21-18] who had six fingers on each hand and six toes on each foot, twenty-four in number. He too was descended from the Raphah.
 
-**21** When he taunted Israel, Jonathan son of Shimea,[^21-19] David's brother, struck him down.
+**21** When he taunted Israel, Jonathan son of Shimeah,[^21-19] David's brother, struck him down.
 
 **22** These four were descended from the Raphah in Gath, and they fell by the hand of David and by the hand of his servants.
 
@@ -1625,7 +1625,7 @@
 [^21-16]: Literally "girded with a new (one)". The noun is missing: perhaps a new sword or new armor.
 [^21-17]: The heavy rod of a loom. 1 Chronicles 20:5 reads "Elhanan son of Jair struck down Lahmi the brother of Goliath the Gittite". In 1 Samuel 17 David kills Goliath. *Oregim* means "weavers", and the word may have been copied into the name from the end of the verse.
 [^21-18]: The Hebrew text is written *midyan* but read *madon*. Both words are of uncertain meaning here; 1 Chronicles 20:6 has "a man of great size".
-[^21-19]: The Hebrew text is written "Shimei" but read "Shimea".
+[^21-19]: The Hebrew text is written "Shimei" but read "Shimeah" (as in 13:3).
 
 ## Chapter 22
 
@@ -1761,7 +1761,7 @@
 [^22-26]: Hebrew *yish'u*, "they looked". Psalm 18:42 has "they cried for help".
 [^22-27]: Or "pretend to obey me".
 [^22-28]: Hebrew *yachgeru*, perhaps "limp", or "gird themselves". Psalm 18:46 has "come trembling".
-[^22-29]: Psalm 18:50 (18:49 in English) is quoted in Romans 15:9.
+[^22-29]: Psalm 18:50 (18:49 in most English Bibles) is quoted in Romans 15:9.
 [^22-30]: The Hebrew text is written "He gives great victories", as in Psalm 18:51, but read "He is a tower of salvation".
 [^22-31]: Hebrew *chesed*: loyal, faithful love.
 [^22-32]: Hebrew *meshicho*, "his anointed one", the king anointed at the LORD's command.

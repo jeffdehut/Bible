@@ -40,6 +40,7 @@ from books import BOOKS, file_stem            # noqa: E402
 from build import parse_book_md               # noqa: E402
 import connections                            # noqa: E402
 from translation import parse_chapter         # noqa: E402
+from consistency import quote_events          # noqa: E402
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 OUT = os.path.join(ROOT, "data", "bible")
@@ -257,6 +258,9 @@ def main():
             statuses.append(meta.get("status", "draft"))
             ch = {"c": c, "s": meta.get("status", "draft"), "v": [], "n": notes}
             wch = {}
+            # Where the translation reopens a continuing speech at a verse, it starts a new
+            # paragraph there (TRANSLATION.md), so the reader does too.
+            reopen = {v for v, kind, _ in quote_events(verses) if kind == "reopen"}
             for v in sorted(source[c]):
                 src = source[c][v]
                 en = verses.get(v)
@@ -311,6 +315,8 @@ def main():
                         used["G"].add(strong)
                         ws.append("|".join([tr, gloss_clean(gloss), short(strong), grammar]))
                     wch[v] = "¦".join(ws)
+                if v + 1 in reopen:
+                    extra["p"] = 1
                 if extra:
                     row.append(extra)
                 ch["v"].append(row)

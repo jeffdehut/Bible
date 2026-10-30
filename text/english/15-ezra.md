@@ -237,7 +237,7 @@
 [^2-44]: That is, he took his father-in-law's name. On Barzillai the Gileadite, see 2 Samuel 17:27; 19:32–40 (19:31–39 in most English Bibles).
 [^2-45]: Literally "they were defiled from the priesthood". Nehemiah 7:64 has "it was not found".
 [^2-46]: Hebrew *tirshata*, a Persian title of a high official, perhaps meaning "His Excellency". It is used of Nehemiah in Nehemiah 8:9 and 10:2 (10:1 in most English Bibles).
-[^2-47]: Literally "the holy of holies": the priests' share of the most holy offerings (Leviticus 2:3; 6:10–11, English 6:17–18).
+[^2-47]: Literally "the holy of holies": the priests' share of the most holy offerings (Leviticus 2:3; 6:10–11; 6:17–18 in most English Bibles).
 [^2-48]: Literally "until a priest stood for Urim and for Thummim". These were kept in the high priest's breastpiece and used to learn the LORD's decision (Exodus 28:30; Numbers 27:21). Nehemiah 7:65 has "the priest".
 [^2-49]: The numbers given in verses 3–60 add up to 29,818.
 [^2-50]: Nehemiah 7:67 has 245 singers.
@@ -246,7 +246,7 @@
 [^2-53]: Hebrew *darkemonim*: probably darics, Persian gold coins weighing about 0.3 ounce (8.4 g) each; or Greek drachmas.
 [^2-54]: A mina was about 1.25 pounds (0.6 kg).
 [^2-55]: Nehemiah 7:69–71 (7:70–72 in most English Bibles) records the gifts differently.
-[^2-56]: Nehemiah 7:72 lists the groups in a different order and continues with the words of 3:1.
+[^2-56]: Nehemiah 7:72 (7:73 in most English Bibles) lists the groups in a different order and continues with the words of 3:1.
 
 ## Chapter 3
 
@@ -365,7 +365,7 @@
 [^4-15]: Aramaic *be'el te'em*, literally "master of decree": a high official, perhaps the commanding officer or chief of staff of the province. Traditionally "chancellor". Also in verses 9 and 17.
 [^4-16]: The text from here to 6:18 is in Aramaic, the common language of government in the Persian Empire, and not in Hebrew.
 [^4-17]: The meaning of these Aramaic words is uncertain. They may be titles borrowed from Persian (*dinaye* "judges", *apharsatkhaye* "envoys" or "investigators", *tarpelaye* "officials", *apharsaye* "officials") or the names of peoples. Verses 9–10 have no main verb: they seem to list the senders named at the head of the letter.
-[^4-18]: The Hebrew text is written "that is" but read "the Dehaites", a people not otherwise known. With the written text: "the people of Susa, that is, the Elamites".
+[^4-18]: The Aramaic text is written "that is" but read "the Dehaites", a people not otherwise known. With the written text: "the people of Susa, that is, the Elamites".
 [^4-19]: Probably Ashurbanipal, king of Assyria from 668 to about 627 BC.
 [^4-20]: Aramaic *avar naharah*, "beyond the river": the Persian province west of the Euphrates, which included Syria, Phoenicia and Judah. Also in verses 11, 16–17 and 20.
 [^4-21]: Aramaic *ukhe'enet*, "and now", a formula marking a transition in letters. Also in verses 11 and 17.
@@ -671,7 +671,7 @@
 [^8-14]: Hebrew *terumah*: something set apart and given for a sacred purpose.
 [^8-15]: A talent was about 75 pounds (34 kg), so 650 talents was about 24 tons (22 metric tons).
 [^8-16]: Literally "silver articles, 100 by talents". The Hebrew may mean 100 silver articles whose weight in talents is not given.
-[^8-17]: Hebrew *adarkonim*: probably darics, Persian gold coins; see 2:69.
+[^8-17]: Hebrew *adarkonim*: probably darics, Persian gold coins weighing about 0.3 ounce (8.4 g) each; see 2:69.
 [^8-18]: The meaning of Hebrew *mutshav tovah* is uncertain: perhaps "fine shining bronze".
 [^8-19]: *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles.
 [^8-20]: Literally "from the hand of the enemy and the one lying in ambush on the way".

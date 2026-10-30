@@ -102,7 +102,7 @@
 
 **23** On that day, declares the LORD of Armies, I will take you, Zerubbabel son of Shealtiel, my servant, declares the LORD, and I will make you like a signet ring,[^2-25] for I have chosen you, declares the LORD of Armies.
 
-[^2-1]: 17 October 520 BC, the last day of the Festival of Booths (Leviticus 23:34–36).
+[^2-1]: 17 October 520 BC, the last day of the Festival of Shelters (Leviticus 23:34–36).
 [^2-2]: *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles.
 [^2-3]: Solomon's temple, destroyed by the Babylonians in 587 or 586 BC, about sixty-six years before. Some of the older people had wept when the new foundation was laid (Ezra 3:12).
 [^2-4]: Hebrew *ne'um YHWH*, "the declaration of the LORD", a formula that marks a prophet's words as the LORD's own solemn statement.

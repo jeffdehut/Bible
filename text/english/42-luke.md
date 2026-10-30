@@ -347,7 +347,7 @@
 [^2-23]: Literally "is set for the fall and rising of many in Israel, and for a sign spoken against".
 [^2-24]: Literally "from her virginity".
 [^2-25]: Or "she had been a widow for eighty-four years".
-[^2-26]: Many manuscripts read "redemption in Jerusalem".
+[^2-26]: Many manuscripts read "give thanks to the Lord" for "give thanks to God", and "redemption in Jerusalem".
 [^2-27]: Many manuscripts add "in spirit".
 [^2-28]: Or "grace".
 [^2-29]: Many manuscripts add "to Jerusalem".
@@ -904,7 +904,7 @@
 [^7-1]: A Roman officer in command of about a hundred soldiers.
 [^7-2]: Or "slave". Greek *doulos*; also in verses 3, 8 and 10.
 [^7-3]: Greek *pais*, "boy", which can mean a son or a servant; here the same man is called *doulos* in verses 2, 3 and 10.
-[^7-4]: Here, for the first time in the narrative, Luke calls Jesus "the Lord"; also in verse 19.
+[^7-4]: Here, for the first time in the narrative, Luke calls Jesus "the Lord"; also in verse 19, where many manuscripts read "Jesus".
 [^7-5]: An open frame on which the dead were carried to burial.
 [^7-6]: The words of 1 Kings 17:23, where Elijah raises a widow's son.
 [^7-7]: Literally "visited"; see 1:68.

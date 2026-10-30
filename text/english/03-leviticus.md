@@ -104,7 +104,7 @@
 [^2-4]: Hebrew *solet*, finely ground flour, perhaps semolina.
 [^2-5]: An aromatic resin from trees of southern Arabia and East Africa, burned as incense.
 [^2-6]: Hebrew *azkarah*, "reminder, memorial": the part burned on the altar, standing for the whole offering. Or "token portion". Also in verses 9 and 16.
-[^2-7]: Literally "a holy of holies": the highest degree of holiness. Only the priests could eat it, and only in a holy place (6:9–11; English 6:16–18).
+[^2-7]: Literally "a holy of holies": the highest degree of holiness. Only the priests could eat it, and only in a holy place (6:9–11 (6:16–18 in most English Bibles)).
 [^2-8]: Hebrew *challot*, probably round cakes or loaves, perhaps pierced.
 [^2-9]: Hebrew *marcheshet*, probably a deep pan for frying or boiling (compare 7:9).
 [^2-10]: Literally "You shall bring the grain offering that is made from these to the LORD, and he shall present it to the priest, and he shall bring it near to the altar."
@@ -2243,6 +2243,6 @@
 [^27-6]: Hebrew *cherem*: something devoted to the LORD for good, which could not be sold or redeemed (verses 28–29).
 [^27-7]: A gerah was about 1/50 ounce (0.6 gram).
 [^27-8]: Hebrew *charam*, "devote, put under the ban", the verb related to *cherem* (verse 21).
-[^27-9]: That is, a person condemned under the ban (compare Exodus 22:19, English 22:20; Joshua 6:17–19).
+[^27-9]: That is, a person condemned under the ban (compare Exodus 22:19 (22:20 in most English Bibles); Joshua 6:17–19).
 [^27-10]: Hebrew *ma'aser*, "a tenth", traditionally "tithe". Also in verses 31 and 32.
 [^27-11]: Animals were counted as they passed under the shepherd's staff (compare Jeremiah 33:13; Ezekiel 20:37).

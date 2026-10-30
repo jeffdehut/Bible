@@ -375,7 +375,7 @@
 
 **14** These are the heads of their ancestral families.[^6-9] The sons of Reuben, Israel's firstborn: Hanoch, Pallu, Hezron and Carmi. These were the clans of Reuben.
 
-**15** The sons of Simeon: Jemuel, Jamin, Ohad, Jakin, Zohar, and Shaul the son of a Canaanite woman. These were the clans of Simeon.
+**15** The sons of Simeon: Jemuel, Jamin, Ohad, Jachin, Zohar, and Shaul the son of a Canaanite woman. These were the clans of Simeon.
 
 **16** These are the names of the sons of Levi according to their family records: Gershon, Kohath and Merari. Levi lived 137 years.
 
@@ -2370,7 +2370,7 @@
 
 **23** "Take the finest spices: 500 shekels[^30-16] of liquid myrrh, half as much fragrant cinnamon, 250 shekels, 250 shekels of fragrant cane,
 
-**24** and five hundred shekels of cassia, by the sanctuary shekel, and a hin[^30-17] of olive oil.
+**24** and 500 shekels of cassia, by the sanctuary shekel, and a hin[^30-17] of olive oil.
 
 **25** Make these into a sacred anointing oil, a fragrant blend, the work of a perfumer. It will be a sacred anointing oil.
 
@@ -2829,7 +2829,7 @@
 
 *Status: draft*
 
-**1** So Bezalel and Oholiab and all the skilled people[^36-1] to whom the LORD[^36-2] has given skill and understanding, to know how to do all the work for the service of the sanctuary, are to do the work just as the LORD has commanded."[^36-3]
+**1** "So Bezalel and Oholiab and all the skilled people[^36-1] to whom the LORD[^36-2] has given skill and understanding, to know how to do all the work for the service of the sanctuary, are to do the work just as the LORD has commanded."[^36-3]
 
 **2** Then Moses called Bezalel and Oholiab and all the skilled people to whom the LORD had given skill,[^36-4] everyone whose heart stirred him to come and do the work.
 
@@ -3039,7 +3039,7 @@
 
 **23** With him was Oholiab son of Ahisamach, of the tribe of Dan, a craftsman and designer, and an embroiderer in blue, purple and scarlet yarn and fine linen.
 
-**24** All the gold that was used for the work, in all the work on the sanctuary, the gold of the wave offering, came to twenty-nine talents and 730 shekels,[^38-9] by the sanctuary shekel.[^38-10]
+**24** All the gold that was used for the work, in all the work on the sanctuary, the gold of the wave offering, came to 29 talents and 730 shekels,[^38-9] by the sanctuary shekel.[^38-10]
 
 **25** The silver from those of the community who were counted came to 100 talents and 1,775 shekels, by the sanctuary shekel.[^38-11]
 
@@ -3049,7 +3049,7 @@
 
 **28** From the 1,775 shekels he made hooks for the posts, overlaid their tops and made bands for them.
 
-**29** The bronze of the wave offering came to seventy talents and 2,400 shekels.[^38-14]
+**29** The bronze of the wave offering came to 70 talents and 2,400 shekels.[^38-14]
 
 **30** With it he made the bases for the entrance of the tent of meeting, the bronze altar with its bronze grating, and all the utensils of the altar,
 

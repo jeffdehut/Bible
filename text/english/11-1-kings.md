@@ -202,7 +202,7 @@
 
 **25** So King Solomon sent Benaiah son of Jehoiada,[^2-22] and he struck Adonijah down, and he died.
 
-**26** To Abiathar the priest the king said, "Go to Anathoth, to your fields. You deserve to die,[^2-23] but I will not put you to death today, because you carried the ark[^2-24] of the Lord GOD before my father David, and because you shared in all the hardships my father suffered."
+**26** To Abiathar the priest the king said, "Go to Anathoth, to your fields. You deserve to die,[^2-23] but I will not put you to death today, because you carried the ark of the Lord GOD[^2-24] before my father David, and because you shared in all the hardships my father suffered."
 
 **27** So Solomon banished Abiathar from being a priest of the LORD, fulfilling the word that the LORD had spoken at Shiloh about the house of Eli.[^2-25]
 
@@ -255,7 +255,7 @@
 [^2-9]: That is, he made himself guilty of their blood.
 [^2-10]: Hebrew *Sheol*, the realm of the dead. Also in verse 9.
 [^2-11]: Hebrew *chesed*: loyal, faithful love.
-[^2-12]: Literally "they came near to me", that is, with help (2 Samuel 17:27–29; 19:32–40, English 19:31–39).
+[^2-12]: Literally "they came near to me", that is, with help (2 Samuel 17:27–29; 19:32–40; 19:31–39 in most English Bibles).
 [^2-13]: See 2 Samuel 16:5–13; 19:17–24 (19:16–23 in most English Bibles).
 [^2-14]: Literally "lay down with his fathers", a way of speaking of death.
 [^2-15]: The fortress of Zion, the oldest part of Jerusalem, which David captured (2 Samuel 5:7, 9).
@@ -267,7 +267,7 @@
 [^2-21]: That is, a dynasty (2 Samuel 7:11–16).
 [^2-22]: Literally "sent by the hand of Benaiah son of Jehoiada".
 [^2-23]: Literally "you are a man of death".
-[^2-24]: The gold-covered chest that held the stone tablets of the covenant (Exodus 25:10–22). David had brought it to Jerusalem (2 Samuel 6).
+[^2-24]: Hebrew *Adonai YHWH*, "my Lord YHWH". After "Lord", God's personal name is written GOD in capitals, as in most English Bibles. The ark is the gold-covered chest that held the stone tablets of the covenant (Exodus 25:10–22). David had brought it to Jerusalem (2 Samuel 6).
 [^2-25]: See 1 Samuel 2:27–36. Abiathar was a descendant of Eli (1 Samuel 14:3; 22:20).
 [^2-26]: See 1:50.
 [^2-27]: That is, the LORD will hold Joab responsible for the blood he shed. Also in verses 33, 37 and 44.
@@ -615,7 +615,7 @@
 [^6-19]: Literally "I will establish my word with you, which I spoke to David your father." See 2 Samuel 7:12–16.
 [^6-20]: Hebrew *shakhan*, "dwell", the verb from which *mishkan*, "tabernacle", comes.
 [^6-21]: Literally "up to the walls of the ceiling".
-[^6-22]: Hebrew *berosh*, a tall conifer: perhaps the cypress or the juniper (5:22, English 5:8). Also in verse 34.
+[^6-22]: Hebrew *berosh*, a tall conifer: perhaps the cypress or the juniper (5:22; 5:8 in most English Bibles). Also in verse 34.
 [^6-23]: Literally "up to the walls".
 [^6-24]: Literally "the holy of holies".
 [^6-25]: The Hebrew word translated "in front of it" (*lifnai*) is unusual, and the meaning is uncertain.
@@ -754,7 +754,7 @@
 [^7-10]: Hebrew *gazit*: stone cut and dressed to shape. Also in verses 11 and 12.
 [^7-11]: Hebrew *tefachot*, perhaps the top course of the wall, or the eaves.
 [^7-12]: *LORD*: God's personal name, Hebrew YHWH, written "the LORD" in capitals as in most English Bibles. "The house of the LORD" is the temple.
-[^7-13]: Not King Hiram of Tyre (5:15, English 5:1), but a craftsman with the same name. In 2 Chronicles 2:12 (2:13 in most English Bibles) he is called Huram-abi.
+[^7-13]: Not King Hiram of Tyre (5:15; 5:1 in most English Bibles), but a craftsman with the same name. In 2 Chronicles 2:12 (2:13 in most English Bibles) he is called Huram-abi.
 [^7-14]: 2 Chronicles 2:13 (2:14 in most English Bibles) says his mother was from the tribe of Dan.
 [^7-15]: Or "copper". Hebrew *nechoshet* means both.
 [^7-16]: Literally "formed".
@@ -959,7 +959,7 @@
 [^8-15]: Literally "keep their way".
 [^8-16]: The Hebrew text is written "your words" but read "your word".
 [^8-17]: Literally "the heavens and the heaven of heavens".
-[^8-18]: Literally "and he lifts against him a curse to curse him": the accused is made to swear an oath that calls down a curse on himself if he is guilty (Exodus 22:9–10, English 22:10–11; Numbers 5:19–22).
+[^8-18]: Literally "and he lifts against him a curse to curse him": the accused is made to swear an oath that calls down a curse on himself if he is guilty (Exodus 22:9–10, which is 22:10–11 in most English Bibles; Numbers 5:19–22).
 [^8-19]: Literally "declaring the wicked guilty … and declaring the righteous righteous".
 [^8-20]: Or "acknowledge your name". Also in verse 35.
 [^8-21]: Or "when you answer them". The Hebrew *ta'anem* can come from either verb.
@@ -1044,11 +1044,11 @@
 [^9-5]: Literally "a proverb and a sharp saying".
 [^9-6]: Literally "And this house will be high". The sense is uncertain. Compare 2 Chronicles 7:21.
 [^9-7]: Or "whistle", a sound of shock or scorn.
-[^9-8]: Hebrew *berosh*, a tall conifer: perhaps the cypress or the juniper (5:22, English 5:8).
+[^9-8]: Hebrew *berosh*, a tall conifer: perhaps the cypress or the juniper (5:22; 5:8 in most English Bibles).
 [^9-9]: Literally "they were not right in his eyes".
 [^9-10]: *Cabul* sounds like a Hebrew phrase meaning "like nothing". A town named Cabul lay in the territory of Asher (Joshua 19:27).
 [^9-11]: A talent was about 75 pounds (34 kg), so 120 talents was about 9,000 pounds (4,100 kg).
-[^9-12]: Hebrew *mas*: work gangs conscripted to labor for the king (4:6; 5:27, English 5:13).
+[^9-12]: Hebrew *mas*: work gangs conscripted to labor for the king (4:6; 5:27, which is 5:13 in most English Bibles).
 [^9-13]: Hebrew *millo*, "filling": probably a terrace or earthwork supporting buildings in the City of David. Also in verse 24.
 [^9-14]: Hebrew *shilluchim*, a parting gift given to a bride by her father.
 [^9-15]: The Hebrew text is written "Tamar" but read "Tadmor". Tamar was a town in the south of Judah (Ezekiel 47:19); Tadmor was the oasis city later called Palmyra, in the Syrian desert (2 Chronicles 8:4).
@@ -1559,7 +1559,7 @@
 [^14-15]: Hebrew *bamot*: places of worship, often on hilltops (3:2).
 [^14-16]: Hebrew *matsevot*: standing stones set up as objects of worship.
 [^14-17]: Or "every leafy tree".
-[^14-18]: Hebrew *qadesh*, "consecrated one": probably a man who served at a shrine and took part in sexual acts as part of its worship (Deuteronomy 23:18, English 23:17). The exact practice is uncertain.
+[^14-18]: Hebrew *qadesh*, "consecrated one": probably a man who served at a shrine and took part in sexual acts as part of its worship (Deuteronomy 23:18; 23:17 in most English Bibles). The exact practice is uncertain.
 [^14-19]: Pharaoh Sheshonq I, who led a campaign into Judah and Israel about 925 BC.
 [^14-20]: Literally "the runners": the king's bodyguard, who ran ahead of his chariot (1:5). Also in verse 28.
 [^14-21]: Literally "all the days".
@@ -2061,7 +2061,7 @@
 
 **29** They camped opposite each other for seven days. On the seventh day the battle was joined, and the Israelites struck down a hundred thousand Aramean foot soldiers in one day.
 
-**30** The rest fled into the city of Aphek, and the wall fell on 27,000 of the men who were left. Ben-hadad also fled and came into the city, and he hid in an inner room.[^20-13]
+**30** The rest fled into the city of Aphek, and the wall fell on twenty-seven thousand of the men who were left. Ben-hadad also fled and came into the city, and he hid in an inner room.[^20-13]
 
 **31** His servants said to him, "Look, we have heard that the kings of the house of Israel are merciful kings.[^20-14] Let us put sackcloth around our waists and ropes on our heads and go out to the king of Israel. Perhaps he will spare your life."
 

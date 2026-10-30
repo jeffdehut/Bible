@@ -725,7 +725,7 @@
 
 **66** Heshbon with its pasturelands and Jazer with its pasturelands.
 
-[^6-1]: Also spelled Gershon (5:27). Verses 1–66 are 6:16–81 in most English Bibles.
+[^6-1]: Also spelled Gershon (5:27; 6:1 in most English Bibles). Verses 1–66 are 6:16–81 in most English Bibles.
 [^6-2]: Literally "by their fathers".
 [^6-3]: In verse 23 and in Exodus 6:21 Korah is the son of Izhar.
 [^6-4]: The Hebrew text is written "Elkanah his son, Elkanah" but read "Elkanah, the sons of Elkanah".

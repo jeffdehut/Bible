@@ -185,7 +185,7 @@
 [^2-3]: Greek *pnoe*, "wind, breath", a word related to *pneuma*, "spirit, wind".
 [^2-4]: Literally "in other tongues". Greek *glossa* means both the tongue and a language; verse 3 uses it for the tongues like fire. In verses 6 and 8 the listeners call these languages their own *dialektos*, "language, speech". Verse 11 uses *glossa* again.
 [^2-5]: Greek *phone*, "sound" or "voice": either the sound from heaven (verse 2) or the sound of their speaking.
-[^2-6]: Some manuscripts read "They were all amazed"; many add "to one another".
+[^2-6]: Many manuscripts read "They were all amazed" and add "to one another".
 [^2-7]: The Roman province of Asia, in the west of what is now Turkey.
 [^2-8]: Greek *proselytoi*, traditionally "proselytes": Gentiles who had converted to Judaism.
 [^2-9]: Greek *glossai*, "tongues", as in verse 4.
@@ -278,7 +278,7 @@
 **26** God raised up his servant and sent him to you first, to bless you by turning each of you from your wicked ways."[^3-15]
 
 [^3-1]: Literally "the ninth hour", counting from sunrise. Many manuscripts begin the verse "Together", taking the word from the end of 2:47.
-[^3-2]: Some manuscripts read "get up and walk".
+[^3-2]: Many manuscripts read "get up and walk".
 [^3-3]: Many manuscripts read "While the lame man who had been healed was holding on to Peter and John".
 [^3-4]: Greek *stoa*, a long porch with a roof held up by columns, along the edge of the temple courts.
 [^3-5]: Literally "Men, Israelites".
@@ -488,7 +488,7 @@
 [^5-5]: Literally "all the words of this life".
 [^5-6]: Literally "the council and all the senate of the sons of Israel". The council is the *synedrion*, the Sanhedrin, the supreme Jewish council. The second phrase (Greek *gerousia*, "senate, council of elders") probably describes the council itself, but it may mean a wider body.
 [^5-7]: Many manuscripts read "the priest, the captain of the temple guard, and the chief priests".
-[^5-8]: Some manuscripts read "Did we not give you strict orders …?"
+[^5-8]: Many manuscripts read "Did we not give you strict orders …?"
 [^5-9]: That is, to hold us guilty of his death.
 [^5-10]: Literally "wood", meaning the cross. The words recall Deuteronomy 21:22–23.
 [^5-11]: Or "exalted him by his right hand".
@@ -710,7 +710,7 @@
 [^7-34]: That is, the sun, moon and stars, worshiped as gods (Deuteronomy 4:19; 17:3).
 [^7-35]: The twelve shorter prophetic books, Hosea to Malachi, which were written on one scroll.
 [^7-36]: Verses 42–43 quote Amos 5:25–27 from the Septuagint. Amos has "sacrifices and grain offerings".
-[^7-37]: The Hebrew of Amos 5:26 reads "You will carry Sikkuth your king and Kiyyun your images, the star of your god". *Rephan*: Greek *Rhaiphan*, a name the manuscripts spell in several ways (*Rhompha*, *Rhephan*, *Rhemphan*). Some manuscripts read "your god Rephan", as in the Septuagint.
+[^7-37]: The Hebrew of Amos 5:26 reads "You will carry Sikkuth your king and Kiyyun your images, the star of your god". *Rephan*: Greek *Rhaiphan*, a name the manuscripts spell in several ways (*Rhompha*, *Rhephan*, *Rhemphan*). Many manuscripts read "your god Rephan", as in the Septuagint.
 [^7-38]: Amos 5:27 has "beyond Damascus", in the Septuagint as in the Hebrew.
 [^7-39]: Greek *he skene tou martyriou*, the Septuagint's name for the tabernacle, which the Hebrew calls "the tabernacle of the testimony" (Exodus 38:21) and "the tent of meeting".
 [^7-40]: That is, as God directed. Exodus 25:9, 40.
@@ -807,7 +807,7 @@
 
 **40** But Philip found himself at Azotus,[^8-16] and as he passed through, he proclaimed the good news in all the towns until he came to Caesarea.
 
-[^8-1]: Some manuscripts read "a city of Samaria".
+[^8-1]: Many manuscripts read "a city of Samaria".
 [^8-2]: The Greek is loosely put together. Literally "For many of those who had unclean spirits, shrieking with a loud voice, came out".
 [^8-3]: Many manuscripts read "This man is the great power of God".
 [^8-4]: Many manuscripts read "in the name of Christ Jesus".
@@ -1328,9 +1328,9 @@
 [^13-19]: Many manuscripts read "God has brought salvation to Israel".
 [^13-20]: Or "I am not what you suppose me to be."
 [^13-21]: Compare Mark 1:7; Luke 3:16.
-[^13-22]: Some manuscripts read "to you".
+[^13-22]: Many manuscripts read "to you".
 [^13-23]: See 5:30.
-[^13-24]: Some manuscripts read "for us, their children".
+[^13-24]: Many manuscripts read "for us, their children".
 [^13-25]: Greek *anastesas*, "raising up", which can mean bringing someone onto the scene (as in 3:22) or raising from the dead (as in verse 34).
 [^13-26]: Some manuscripts read "the first psalm".
 [^13-27]: Psalm 2:7. Literally "today I have begotten you".
@@ -1343,7 +1343,7 @@
 [^13-34]: Habakkuk 1:5, as in the Septuagint. The Hebrew begins "Look among the nations and see! Be astonished, be amazed!", and does not have "perish".
 [^13-35]: Many manuscripts read "As they were going out of the synagogue of the Jews, the Gentiles urged them to speak these things to them on the next Sabbath".
 [^13-36]: Greek *proselytoi*; see 2:11.
-[^13-37]: Some manuscripts read "the word of God".
+[^13-37]: Many manuscripts read "the word of God".
 [^13-38]: Or "blaspheming".
 [^13-39]: Or "a light for the nations".
 [^13-40]: Isaiah 49:6, as in the Septuagint. Literally "so that you may be for salvation". The Hebrew reads "so that my salvation may reach to the end of the earth".

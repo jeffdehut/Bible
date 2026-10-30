@@ -98,7 +98,7 @@
 **45** But the man went out and began to talk about it freely, spreading the news, so that Jesus could no longer go into a town openly. He stayed out in deserted places, and people kept coming to him from everywhere.
 
 [^1-1]: Greek *christos*, "anointed one". The SBLGNT and some early manuscripts end the verse here. Many manuscripts add "the Son of God".
-[^1-2]: Many later manuscripts read "in the prophets". The quotation combines Malachi 3:1 (and Exodus 23:20) with Isaiah 40:3.
+[^1-2]: Many manuscripts read "in the prophets". The quotation combines Malachi 3:1 (and Exodus 23:20) with Isaiah 40:3.
 [^1-3]: Isaiah 40:3. In Isaiah's Hebrew, "the Lord" is God's personal name, YHWH ("the LORD").
 [^1-4]: A baptism expressing a change of heart and life. Greek *metanoia*, a turning around of mind and life.
 [^1-5]: Greek *euthys*, "immediately", one of Mark's favorite words. It is rendered "at once", "as soon as" or "just then", as the sentence requires.
@@ -259,14 +259,14 @@
 [^3-1]: Literally "the hardness of their heart".
 [^3-2]: Supporters of the family of Herod.
 [^3-3]: Literally "scourges", a word for painful afflictions.
-[^3-4]: Many manuscripts add "whom he also named apostles".
-[^3-5]: Some manuscripts leave out "So he appointed the Twelve".
+[^3-4]: Some manuscripts add "whom he also named apostles".
+[^3-5]: Many manuscripts leave out "So he appointed the Twelve".
 [^3-6]: From an Aramaic word meaning "zealous"; Luke calls him "Simon the Zealot" (Luke 6:15).
 [^3-7]: Literally "into a house".
 [^3-8]: Literally "those from him", that is, his relatives or associates.
 [^3-9]: A name for the prince of demons. In the Hebrew Bible, Baal-zebub ("lord of flies") was a god of Ekron (2 Kings 1:2).
 [^3-10]: Literally "the sons of men".
-[^3-11]: Most later manuscripts read "eternal judgment".
+[^3-11]: Many manuscripts read "eternal judgment".
 [^3-12]: Many manuscripts add "and your sisters".
 
 ## Chapter 4
@@ -361,7 +361,7 @@
 [^4-4]: Or "stumble"; Greek *skandalizo*.
 [^4-5]: Literally "of the age".
 [^4-6]: Greek *modios*, a container for measuring grain, holding about 8 liters (2 gallons).
-[^4-7]: Most later manuscripts read "Why are you so afraid? How is it that you have no faith?"
+[^4-7]: Many manuscripts read "Why are you so afraid? How is it that you have no faith?"
 
 ## Chapter 5
 
@@ -453,7 +453,7 @@
 
 **43** He gave them strict orders not to let anyone know about this, and he told them to give her something to eat.
 
-[^5-1]: Many later manuscripts read "Gadarenes".
+[^5-1]: Many manuscripts read "Gadarenes".
 [^5-2]: Literally "What to me and to you?"; see 1:24.
 [^5-3]: A Roman legion was a unit of several thousand soldiers.
 [^5-4]: "The Ten Towns", a group of Greek cities east of the Jordan.
@@ -578,7 +578,7 @@
 **56** Wherever he went, into villages, towns, or the countryside, they laid the sick in the marketplaces and begged him to let them touch even the edge of his cloak. And all who touched it were healed.[^6-11]
 
 [^6-1]: Greek *tekton*, a builder or craftsman who worked in wood or stone.
-[^6-2]: Many later manuscripts add "Truly I tell you, it will be more bearable for Sodom and Gomorrah on the day of judgment than for that town."
+[^6-2]: Many manuscripts add "Truly I tell you, it will be more bearable for Sodom and Gomorrah on the day of judgment than for that town."
 [^6-3]: Herod Antipas, ruler of Galilee. He was not formally a king.
 [^6-4]: Many manuscripts read "He was saying".
 [^6-5]: Many manuscripts read "he did many things".
@@ -1235,7 +1235,7 @@
 
 **26** Then they will see 'the Son of Man coming in clouds'[^13-7] with great power and glory.
 
-**27** And then he will send out the angels and gather his[^13-8] elect from the four winds, from the ends of the earth to the ends of the sky.
+**27** And then he will send out the angels and gather the elect[^13-8] from the four winds, from the ends of the earth to the ends of the sky.
 
 **28** "Learn this lesson from the fig tree: as soon as its branch becomes tender and puts out leaves, you know that summer is near.
 
@@ -1264,7 +1264,7 @@
 [^13-5]: Literally "no flesh".
 [^13-6]: Isaiah 13:10; 34:4.
 [^13-7]: Daniel 7:13.
-[^13-8]: Some manuscripts leave out "his".
+[^13-8]: The SBLGNT here follows Tregelles. Other editions read "his elect".
 [^13-9]: Or "it".
 [^13-10]: Many manuscripts add "and pray".
 
@@ -1597,5 +1597,5 @@
 [^16-2]: This "shorter ending" is found in a few manuscripts, usually followed by verses 9–20. The SBLGNT prints it in double brackets ⟦ ⟧, meaning it was almost certainly not part of what Mark wrote; this translation does the same.
 [^16-3]: Verses 9–20, the "longer ending", are in most manuscripts and editions but not in the earliest ones. Its vocabulary and style differ from the rest of Mark, and it draws on accounts in the other Gospels and Acts. The SBLGNT prints it in double brackets ⟦ ⟧, as an early addition rather than part of the original text.
 [^16-4]: Some manuscripts leave out "new".
-[^16-5]: Many manuscripts read "they will pick up snakes with their hands".
+[^16-5]: Some manuscripts read "they will pick up snakes with their hands".
 [^16-6]: See Psalm 110:1.

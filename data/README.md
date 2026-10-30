@@ -97,3 +97,4 @@ Every identifier was found by exact English label in Wikidata and checked agains
 description. Identifiers are left blank where no item could be confirmed, rather than guessed.
 The rows added for AD 30 to the present have no identifiers yet: Wikidata's API refused
 requests from the build environment when they were compiled, so they await the same check.
+

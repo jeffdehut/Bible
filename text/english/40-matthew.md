@@ -389,7 +389,7 @@
 [^5-24]: Deuteronomy 24:1.
 [^5-25]: Literally "except for a matter of *porneia*", a general word for sexual immorality.
 [^5-26]: Or "makes her the victim of adultery".
-[^5-27]: Compare Leviticus 19:12; Numbers 30:3; Deuteronomy 23:22 (23:21 in most English Bibles). In the Hebrew, "the Lord" is God's personal name, YHWH ("the LORD").
+[^5-27]: Compare Leviticus 19:12; Numbers 30:3 (30:2 in most English Bibles); Deuteronomy 23:22 (23:21 in most English Bibles). In the Hebrew, "the Lord" is God's personal name, YHWH ("the LORD").
 [^5-28]: Isaiah 66:1; Psalm 48:3 (48:2 in most English Bibles).
 [^5-29]: That is, a plain yes or no, without an oath.
 [^5-30]: Or "from evil".

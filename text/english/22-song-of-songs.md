@@ -331,7 +331,7 @@
 **14** The mandrakes[^7-17] give out their fragrance, and at our doors are all kinds of choice fruits, new as well as old, which I have stored up for you, my beloved.
 
 [^7-1]: Verse 1 is 6:13 in most English Bibles, and verses 2–14 are 7:1–13. *Shulammite* may mean "woman of Shulem", perhaps Shunem (1 Kings 1:3), or it may be a feminine form of the name Solomon (*Shelomoh*). Others ("we") speak in the first half of the verse; who answers in the second half is not clear.
-[^7-2]: Or "the dance of Mahanaim", a place whose name means "two camps" (Genesis 32:3, 32:2 in English Bibles).
+[^7-2]: Or "the dance of Mahanaim", a place whose name means "two camps" (Genesis 32:3, 32:2 in most English Bibles).
 [^7-3]: Literally "daughter of a noble". The man probably speaks in verses 2–10 ("you" is feminine).
 [^7-4]: Wine mixed with spices or water.
 [^7-5]: A city east of the Jordan, known for its pools.
@@ -387,7 +387,7 @@
 [^8-5]: Or "I aroused you".
 [^8-6]: Or "jealousy". Hebrew *qin'ah*, "ardor, zeal, jealousy".
 [^8-7]: Hebrew *Sheol*, the realm of the dead.
-[^8-8]: Hebrew *shalhevetyah*, written as one word in the Leningrad Codex. The ending *-yah* may be *Yah*, the short form of the name YHWH (as in *hallelu-yah*, "praise Yah"; Exodus 15:2), giving "a flame of Yah", "the very flame of the LORD". Or it may express a superlative, "a mighty flame", "the hottest flame", as words for God sometimes do in Hebrew (compare "mountains of God", that is, mighty mountains, in Psalm 36:7, 36:6 in English Bibles). Some Hebrew manuscripts write it as two words, *shalhevet yah*, "a flame of Yah". If the divine name is here, it is the only place it appears in the Song.
+[^8-8]: Hebrew *shalhevetyah*, written as one word in the Leningrad Codex. The ending *-yah* may be *Yah*, the short form of the name YHWH (as in *hallelu-yah*, "praise Yah"; Exodus 15:2), giving "a flame of Yah", "the very flame of the LORD". Or it may express a superlative, "a mighty flame", "the hottest flame", as words for God sometimes do in Hebrew (compare "mountains of God", that is, mighty mountains, in Psalm 36:7, 36:6 in most English Bibles). Some Hebrew manuscripts write it as two words, *shalhevet yah*, "a flame of Yah". If the divine name is here, it is the only place it appears in the Song.
 [^8-9]: Or "it would be utterly scorned".
 [^8-10]: Perhaps her brothers speak in verses 8–9 (compare 1:6).
 [^8-11]: Hebrew *shalom*, "peace", perhaps a play on *Shelomoh*, "Solomon" (verses 11–12), and on "Shulammite" (7:1). The woman speaks.

@@ -413,7 +413,7 @@
 
 **13** Ephraim, as I saw, was like Tyre, planted in a pleasant meadow; but Ephraim will bring out his children to the slayer.[^9-11]
 
-**14** Give them, the LORD—what will you give? Give them a womb that miscarries and breasts that are dry.
+**14** Give them, LORD—what will you give? Give them a womb that miscarries and breasts that are dry.
 
 **15** All their wickedness is in Gilgal; there I came to hate them. Because of their wicked deeds I will drive them out of my house. I will love them no more; all their officials are rebels.[^9-12]
 

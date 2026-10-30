@@ -125,3 +125,4 @@ class Chronology:
             elif len(scored) > 1 and scored[0][0] > 0:
                 ambiguous += 1
         return match, ambiguous
+

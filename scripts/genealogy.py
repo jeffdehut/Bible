@@ -245,3 +245,4 @@ class Genealogy:
 def flag_note(flags):
     words = [FLAG_TEXT[f] for f in sorted(flags) if f in FLAG_TEXT]
     return f" ({', '.join(words)})" if words else ""
+

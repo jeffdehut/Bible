@@ -3466,17 +3466,17 @@
 
 *Status: draft*
 
-**1** "'When you allot the land as an inheritance, you are to set apart a contribution[^45-1] for the LORD,[^45-2] a holy portion of the land, twenty-five thousand long and ten thousand wide.[^45-3] It will be holy throughout its whole area all around.
+**1** "'When you allot the land as an inheritance, you are to set apart a contribution[^45-1] for the LORD,[^45-2] a holy portion of the land, 25,000 long and 10,000 wide.[^45-3] It will be holy throughout its whole area all around.
 
-**2** Of this, a square of five hundred by five hundred is to be for the sanctuary, with fifty cubits[^45-4] of open land around it.
+**2** Of this, a square of 500 by 500 is to be for the sanctuary, with 50 cubits[^45-4] of open land around it.
 
-**3** From this measured area you are to measure off a section twenty-five thousand long and ten thousand wide, and in it will be the sanctuary, the most holy place.
+**3** From this measured area you are to measure off a section 25,000 long and 10,000 wide, and in it will be the sanctuary, the most holy place.
 
 **4** It is the holy portion of the land. It will be for the priests who serve in the sanctuary, who come near to serve the LORD. It will be a place for their houses and a holy area for the sanctuary.
 
-**5** An area twenty-five thousand long and ten thousand wide will belong to the Levites who serve the house,[^45-5] as their property, for twenty rooms.[^45-6]
+**5** An area 25,000 long and 10,000 wide will belong to the Levites who serve the house,[^45-5] as their property, for twenty rooms.[^45-6]
 
-**6** Alongside the holy contribution you are to assign as the city's property an area five thousand wide and twenty-five thousand long. It will belong to the whole house of Israel.
+**6** Alongside the holy contribution you are to assign as the city's property an area 5,000 wide and 25,000 long. It will belong to the whole house of Israel.
 
 **7** The prince[^45-7] is to have the land on both sides of the holy contribution and the city's property, alongside the holy contribution and the city's property, on the west side westward and on the east side eastward. Its length will correspond to one of the tribal portions, from the western border to the eastern border.[^45-8]
 

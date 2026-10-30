@@ -60,7 +60,7 @@
 [^1-7]: Hebrew *mishbatteha*, a word found only here, perhaps "her ruin" or "her ceasing".
 [^1-8]: Hebrew *nidah*, a word found only here. It may mean "an object of scorn" (from *nud*, "to shake the head"), or it may be another form of *niddah*, "unclean thing" (verse 17).
 [^1-9]: Jerusalem herself speaks in this line, in the last line of verse 11, and in verses 12–16 and 18–22. The poem does not mark where her words begin and end, so they are not put in quotation marks.
-[^1-10]: Compare Deuteronomy 23:4 (23:3 in English Bibles).
+[^1-10]: Compare Deuteronomy 23:4 (23:3 in most English Bibles).
 [^1-11]: Literally "to bring back life (*nephesh*)". Also in verse 19.
 [^1-12]: Literally "Not to you". The meaning is uncertain: perhaps "May it not happen to you".
 [^1-13]: Literally "and it ruled over it".
@@ -139,7 +139,7 @@
 [^2-14]: Literally "the daughter of my people", a tender way of speaking of the people as a young woman. Also in 3:48; 4:3, 6, 10.
 [^2-15]: Or "What witness can I bring for you?" The meaning of the verb is uncertain.
 [^2-16]: Literally "emptiness and whitewash".
-[^2-17]: Compare Psalm 48:3 (48:2 in English Bibles) and 50:2.
+[^2-17]: Compare Psalm 48:3 (48:2 in most English Bibles) and 50:2.
 [^2-18]: The Hebrew is difficult. Literally "Their heart cried out to the Lord, wall of Daughter Zion".
 [^2-19]: Literally "do not let the daughter of your eye be still". The "daughter of the eye" is the pupil.
 [^2-20]: Zion speaks in verses 20–22.

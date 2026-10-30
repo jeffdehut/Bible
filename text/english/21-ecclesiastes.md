@@ -305,7 +305,7 @@
 
 [^5-1]: Verses 1–19 are 5:2–20 in most English Bibles.
 [^5-2]: Hebrew *inyan*, the word translated "task" in 1:13.
-[^5-3]: Compare Deuteronomy 23:22–24 (23:21–23 in English Bibles).
+[^5-3]: Compare Deuteronomy 23:22–24 (23:21–23 in most English Bibles).
 [^5-4]: That is, yourself.
 [^5-5]: Hebrew *mal'akh*, "messenger", perhaps a priest or temple official (compare Malachi 2:7). The Septuagint reads "before God".
 [^5-6]: Hebrew *shegagah*, the word used for an unintentional sin in Leviticus 4 and Numbers 15.
