@@ -2,7 +2,8 @@
 // history, with a link back to the same place on the site. Phones share the picture and the link
 // through the system's share sheet; elsewhere a small window shows the picture with "Save image"
 // and "Copy link". Used by the reader (index.html), the web (graph.html) and the timeline
-// (history.html), each of which calls Share.verse, Share.web or Share.history.
+// (history.html), each of which calls Share.verse, Share.web or Share.history, and the web in 3D
+// (web3d.html), which calls Share.snapshot.
 (() => {
   const SIZE = 1080;
   const SITE = "bibledata.org";
@@ -276,6 +277,41 @@
     return open(c, { title: `The world in ${year}`, text: `The world in ${year}: ${age}.`, url, filename: "the-world-in-" + year.replace(/\s+/g, "-") });
   }
 
+  /* ---------- A view of the web in 3D, as the reader sees it ---------- */
+  // image: a canvas of the view; the chosen point's kicker, title and line beneath, its color
+  // and icon. The view is cropped to fill the space under the title, centred on the point.
+  async function snapshot({ image, kicker, title, sub, color, icon: mark, url }) {
+    await ready();
+    const [c, g] = canvas();
+    g.fillStyle = "#05070d"; g.fillRect(0, 0, SIZE, SIZE);
+    const top = 250, bottom = SIZE - 150, bw = SIZE, bh = bottom - top;
+    const k = Math.max(bw / image.width, bh / image.height);
+    const sw = bw / k, sh = bh / k;
+    g.save(); g.beginPath(); g.rect(0, top, bw, bh); g.clip();
+    g.drawImage(image, (image.width - sw) / 2, (image.height - sh) / 2, sw, sh, 0, top, bw, bh);
+    g.restore();
+    // Soft edges, so the view melts into the card.
+    for (const [y0, y1, a, b] of [[top, top + 70, 1, 0], [bottom - 70, bottom, 0, 1]]) {
+      const fade = g.createLinearGradient(0, y0, 0, y1);
+      fade.addColorStop(0, `rgba(5,7,13,${a})`); fade.addColorStop(1, `rgba(5,7,13,${b})`);
+      g.fillStyle = fade; g.fillRect(0, y0, SIZE, y1 - y0);
+    }
+    g.textBaseline = "alphabetic";
+    g.fillStyle = color; g.beginPath(); g.arc(94, 100, 22, 0, 2 * Math.PI); g.fill();
+    drawIcon(g, mark, 94, 100, 28, "#0b1020", 2.4);
+    g.fillStyle = color; g.font = `700 24px ${SANS}`;
+    g.fillText(kicker.toUpperCase(), 132, 109);
+    const t = fit(g, title, s => `400 ${s}px ${READ}`, 76, 44, SIZE - 144, 92, 1.1);
+    g.fillStyle = "#ffffff"; g.font = `400 ${t.size}px ${READ}`;
+    g.fillText(t.lines[0], 70, 140 + t.size * 0.9);
+    if (sub) {
+      g.fillStyle = "#a3acbd"; g.font = `500 26px ${SANS}`;
+      g.fillText(wrap(g, sub, SIZE - 144)[0], 72, 140 + t.size * 0.9 + 46);
+    }
+    await footer(g, url, true);
+    return open(c, { title: `${title} in the web of Scripture`, text: `${title}, in the web of Scripture.`, url, filename: title.replace(/[^\w]+/g, "-") + "-web-3d" });
+  }
+
   /* ---------- Sharing the picture ---------- */
   const STYLE = `
     .share-scrim { position: fixed; inset: 0; z-index: 50; background: rgb(10 14 24 / 55%); display: grid; place-items: center; padding: 16px; }
@@ -326,5 +362,5 @@
     dialog(c, blob, info);
   }
 
-  window.Share = { verse, web, history, moment, here, icons: ICONS, drawIcon };
+  window.Share = { verse, web, history, moment, snapshot, here, icons: ICONS, drawIcon };
 })();
