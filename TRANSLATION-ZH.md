@@ -123,6 +123,19 @@ Settled while drafting Genesis:
 | בְּכֹרָה; מַצֵּבָה | 長子的名分；石柱 | |
 | יְהוָה יִרְאֶה; אֵל עוֹלָם | 耶和華以勒；永生神 | |
 
+Settled while drafting Exodus:
+
+| Source | Rendering | Notes |
+|---|---|---|
+| אֶהְיֶה אֲשֶׁר אֶהְיֶה (3:14) | 我就是我 | Noted: *ehyeh asher ehyeh*; 「我是那我是的」, 「我必是我所是的」, and the Union Version's 「我是自有永有的」. 3:15 notes YHWH, *Yahweh*, and how 耶和華 arose. |
+| Pharaoh's heart: חָזַק; כָּבֵד; קָשָׁה | 剛硬；頑固；頑梗 | Three verbs kept apart. |
+| נֹגְשִׂים; שֹׁטְרִים | 監工；工頭 | |
+| מַטֶּה; תַּנִּין | 杖；大蛇 | נָחָשׁ stays 蛇. |
+| חַרְטֻמִּים; מְכַשְּׁפִים; לְהָטִים | 術士；行邪術的；秘術 | |
+| זָבַת חָלָב וּדְבָשׁ | 流奶與蜜之地 | |
+| יַם־סוּף | 紅海 | Noted: 「蘆葦海」. |
+| צִבְאוֹת (Israel's divisions) | 隊伍 | |
+
 ## Style
 
 **Characters and words.** Plain words over the Union Version's literary ones (吊下去, not 縋下來). Hong Kong standard forms: 裏 (not 裡), 着 for the particle (看着、
