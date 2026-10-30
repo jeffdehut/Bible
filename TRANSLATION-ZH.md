@@ -155,6 +155,11 @@ Settled while drafting Exodus:
 | Festivals | 無酵節、收割節、收藏節 | |
 | Precious stones, dyes, spices | Modern identifications, as in the English | Traditional names in notes. |
 | The law code (Exodus 21–23) | Without quotation marks | A note at 21:1 says who speaks. |
+| רַחוּם וְחַנּוּן … רַב־חֶסֶד וֶאֱמֶת (34:6) | 有憐憫、有恩典……充滿慈愛和信實 | Notes on *rachum*, *chesed*, *emet*. |
+| נִחַם | 改變心意 | |
+| שַׁבַּת שַׁבָּתוֹן | 完全休息的安息日 | |
+| אֲשֵׁרִים | 亞舍拉木柱 | |
+| חֹדֶשׁ הָאָבִיב; חַג שָׁבֻעֹת | 亞筆月；七七節 | |
 
 ## Style
 

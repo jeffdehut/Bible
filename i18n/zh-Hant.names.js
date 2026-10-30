@@ -2,6 +2,9 @@
 // (public domain) spells them. Written by scripts/names_zh.py: don't edit by hand;
 // corrections go in OVERRIDES there.
 I18N.add({
+"Asherah":"亞舍拉",
+"Abib":"亞筆",
+"Oholiab":"亞何利亞伯",
 "Putiel":"普鐵",
 "Abiasaph":"亞比亞撒",
 "Elzaphan":"以利撒反",
