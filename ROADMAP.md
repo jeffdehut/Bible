@@ -420,33 +420,24 @@ knows the historical geography.
 - **To do before turning it on:** a Supabase project, a mail service for the sign-in emails,
   and a contact address for privacy questions (see *Open questions*).
 
-## 5. Traditional Chinese translation (after the English is finished)
+## 5. Traditional Chinese translation (pilot begun, October 2026)
 
-A new translation into Traditional Chinese (繁體中文), made like the English one.
+A new translation into plain Traditional Chinese (繁體中文) for native readers in Hong Kong,
+made from the Hebrew, Aramaic and Greek like the English one. Its guide is
+[TRANSLATION-ZH.md](TRANSLATION-ZH.md).
 
-- **Starting point.** When the English has been reviewed, so that its notes and glossary are
-  settled.
-- **Translated from the source.** The Chinese is translated from the Hebrew, Aramaic and
-  Greek, not from the English. The English translation and its notes serve as a guide to the
-  decisions already made.
-- **Its own guide.** A `TRANSLATION.zh-Hant.md` with goals, a glossary and a checklist, like
-  `TRANSLATION.md`. Decisions to make first:
-  - **God:** 上帝 or 神. This is the long-standing "term question"; the Chinese Union Version
-    is printed in both forms.
-  - **The divine name:** 耶和華, the Chinese Union Version's form, or 上主, a title like the
-    English "the LORD".
-  - **Proper names:** follow the Chinese Union Version's familiar transliterations, so
-    readers recognize them, with notes where they differ from the original pronunciation.
-  - **Key terms:** 聖靈, 彌賽亞 and 基督 (matching the English "the Messiah" and "Christ"),
-    and the rest of the glossary.
-  - **Register:** plain modern written Chinese for the same readers as the English, about age
-    12–14 and up.
-  - **Punctuation:** Taiwan's standard: 「」 and 『』 for quotations, full-width marks.
-- **Format and checks.** `translation-zh-Hant/NN-book/CCC.md`, with the same front matter and
-  the same automated checks: every verse present, notes linked, draft status. It compiles to
-  `text/chinese-traditional/`.
-- **In the reader.** A language switch for the text and for the app's own interface, and
-  Chinese beside English or the original languages.
+- **Decided:** 神 for God (not 上帝); 耶和華 for the divine name; names as in the 1919 Chinese
+  Union Version; Hong Kong character forms and usage (裏, 着, 甚麼), in standard written Chinese.
+- **Carried over from the English:** the sources, verse numbering, variant rules, the limits on
+  interpretation and the status steps. The English notes serve as a list of the places that
+  need a note; the Chinese is never translated from the English.
+- **Format and checks.** `translation-zh/NN-book/CCC.md`, checked and compiled by
+  `python3 scripts/translation.py --lang zh` into `text/chinese/`, with checks for 耶和華, 上帝
+  and 裡 besides the English ones.
+- **Pilot:** Mark 1–2 drafted. Next: the rest of Mark, then review of the glossary's proposed
+  terms (基督, 經學家, 他 for God) before going further.
+- **In the reader (later).** A language switch for the text and the app's own interface, and
+  Chinese beside English or the original languages; search needs its own indexing for Chinese.
 - **Review.** Native speakers who read Hebrew or Greek, in the same draft → checked → reviewed
   → approved process.
 - **License.** CC BY 4.0, like the English.
@@ -460,7 +451,7 @@ A new translation into Traditional Chinese (繁體中文), made like the English
 3. Genealogy viewer (built).
 4. Phrase-level original language, alongside human review of the English.
 5. Accounts (built and on, with the "Plain Bible" Supabase project; open to others once a mail service is set up).
-6. Traditional Chinese, once the English is finished.
+6. Traditional Chinese: a pilot in Mark, begun alongside the English review.
 
 ## Open questions
 
