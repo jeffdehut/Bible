@@ -96,7 +96,7 @@ python3 scripts/lexicons.py      # the full lexicon entries (BDB, LSJ) in data/b
 python3 scripts/markings.py      # the study markings in data/bible/markings/ (after reader.py)
 python3 scripts/footprint.py     # where each Hebrew and Greek word appears, in data/bible/footprint/
 python3 scripts/kings.py         # kings.html, the kings of Israel and Judah
-python3 scripts/explore.py       # arcs.html, library.html, downloads.html and downloads/ (after connections.py)
+python3 scripts/explore.py       # arcs.html and library.html (after connections.py); downloads.html is turned off for now (DOWNLOADS in the script)
 ```
 
 Then push the branch, and merging it into `main` puts it live. The pages are built from templates in `scripts/templates/`; edit those, not the built pages.
