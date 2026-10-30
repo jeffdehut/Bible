@@ -107,13 +107,16 @@ Chinese translation.
 
 - **Cross-references in the reader**: the OpenBible.info references already in `connections/`
   (CC BY), beside each verse.
-- **Tyndale Open Study Notes** (CC BY-SA 4.0): study notes, profiles, theme articles and,
-  if included, book introductions, kept as separate data with their own credit. To check first
-  what the release contains, and how it bears on the introductions of HEADINGS.md.
+- **Tyndale Open Study Notes and Bible Dictionary**: looked into in October 2026 (CC BY-SA 4.0, written
+  against the NLT) and left out, by decision.
 - **MACULA Hebrew and Greek** (Clear Bible, CC BY 4.0): syntax and referents (who "he" or
-  "they" is), using only the parts under CC BY (its UBS word senses are "used with permission").
-- **More of STEPBible** (CC BY 4.0): which manuscripts and editions support each Greek word
-  (the full Liddell–Scott–Jones is in, above).
+  "they" is), using only the parts under CC BY (its UBS word senses are "used with permission",
+  and its Hebrew glosses come from SIL under their own terms).
+- **Editions and manuscripts (done)**: where the Greek editions differ (Nestle–Aland, SBL, Tyndale
+  House, Westcott–Hort, Tregelles, the Textus Receptus and the Byzantine text), the Hebrew
+  written-and-read forms (ketiv and qere), the words restored from the Septuagint, and other
+  Hebrew manuscripts' readings, from STEPBible's TAGNT and TAHOT, in the reader's word by word
+  (data/bible/variants/, built by `scripts/reader.py`). STEPBible's TTESV is left out (CC BY-NC).
 - **Fuller lexicons (done)**: a word's *Full entry* opens Brown–Driver–Briggs (Open Scriptures'
   outline of it, CC BY 4.0) for Hebrew and Aramaic, and the full Liddell–Scott–Jones (STEPBible's
   TFLSJ, CC BY 4.0) for Greek, built by `scripts/lexicons.py`. Abbott-Smith was already there:

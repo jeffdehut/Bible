@@ -254,6 +254,16 @@ textarea { min-height: 88px; resize: vertical; }
 .lang-note { font-size: 13px; color: var(--muted); margin: 4px 0 0; }
 .inter { display: flex; flex-wrap: wrap; gap: 6px; margin: 0; padding: 0; list-style: none; }
 .inter[dir="rtl"] { direction: rtl; }
+/* Where the editions or manuscripts differ: a gold dot on the word, and a box under the words. */
+.inter .w.var { position: relative; }
+.inter .w.var::after { content: ""; position: absolute; top: 5px; inset-inline-end: 5px; width: 7px; height: 7px; border-radius: 50%; background: var(--gold); }
+.variants { margin: 10px 0 0; padding: 10px 12px; border-radius: 12px; background: var(--gold-soft, color-mix(in srgb, var(--gold) 12%, transparent)); font-size: 14.5px; line-height: 1.5; }
+.variants h4 { margin: 0 0 4px; font: 600 11.5px/1.3 var(--sans); letter-spacing: 0.08em; text-transform: uppercase; color: var(--gold); }
+.variants p { margin: 0 0 6px; }
+.variants p:last-child { margin-bottom: 0; }
+.variants .src { font-size: 17px; }
+.variants small { color: var(--muted); }
+.word .eds { color: var(--muted); }
 .w {
   display: grid; gap: 1px; justify-items: start; text-align: start; border: 1px solid var(--line); background: var(--surface);
   border-radius: 10px; padding: 6px 9px 7px; cursor: pointer; min-width: 44px;
@@ -690,6 +700,7 @@ if (/(^#|&)(access_token|error)=/.test(location.hash)) {
   <div class="section">
     <h3>Word by word</h3>
     <ol class="inter" id="inter"></ol>
+    <div class="variants" id="vvar" hidden></div>
     <div class="word" id="word" hidden></div>
   </div>
   <div class="section" id="vnotes-wrap" hidden>
@@ -1556,9 +1567,11 @@ async function openVerse(span) {
     const r = span.getBoundingClientRect(), top = 64;
     if (r.top > innerHeight * 0.3 || r.top < top) scrollBy({ top: r.top - top, behavior: "smooth" });
   }
-  let words = [];
+  let words = [], vv = null;
+  $("vvar").hidden = true;
   try {
-    const wd = await getJSON("words/" + b.slug + ".json");
+    const [wd, vd] = await Promise.all([getJSON("words/" + b.slug + ".json"), getJSON("variants/" + b.slug + ".json").catch(() => null)]);
+    vv = vd && vd.c[c] && vd.c[c][n] || null;
     const str = wd.chapters[c - 1].w[n] || "";
     words = str ? str.split("¦") : [];
   } catch (e) {
@@ -1581,15 +1594,51 @@ async function openVerse(span) {
       el("span", { class: "o", text: t.s.replace(/[׃־]$/, "") }),
       el("span", { class: "t", text: tr || " " }),
       el("span", { class: "g", text: gloss || " " }));
-    if (strongs) btn.onclick = () => {
+    const vn = variantOf(vv, i);
+    if (vn) { btn.classList.add("var"); btn.title = "The editions or manuscripts differ here"; }
+    if (strongs || vn) btn.onclick = () => {
       for (const o of inter.querySelectorAll(".w")) o.setAttribute("aria-pressed", "false");
       btn.setAttribute("aria-pressed", "true");
-      showWord(t.s, f, ot, aramaic || (morph || "").startsWith("A"));
+      showWord(t.s, f, ot, aramaic || (morph || "").startsWith("A"), vn);
     };
     inter.append(el("li", {}, btn));
   });
   $("orig-label").textContent = ot ? (aramaic && words.some(w => (w.split("|")[3] || "").startsWith("A")) ? "Aramaic" : "Hebrew") : "Greek";
   if (!toks.length) inter.append(el("li", { class: "hint", text: "No words for this verse." }));
+  showVariants(vv, toks, words, ot);
+}
+/* ---------- Where the editions and manuscripts differ (data/bible/variants, from STEPBible) ---------- */
+const EDITION = { NA28: "Nestle–Aland 28", NA27: "Nestle–Aland 27", Tyn: "Tyndale House", SBL: "SBL", WH: "Westcott–Hort", Treg: "Tregelles",
+  TR: "Textus Receptus", Byz: "Byzantine", LXX: "the Septuagint", "01": "Codex Sinaiticus", "02": "Codex Alexandrinus", "03": "Codex Vaticanus",
+  "04": "Codex Ephraemi", "05": "Codex Bezae", "032": "Codex Washingtonianus", KJV: "the KJV", NIV: "the NIV" };
+const MANUSCRIPT = { A: "The Aleppo Codex", B: "BHS (the standard printed Hebrew Bible)", C: "The Cairo Codex", D: "The Dead Sea Scrolls", E: "A correction proposed by scholars",
+  F: "Other copies", H: "The Ben Chaim edition (1525)", P: "Other copies", S: "The scribes' own tradition", V: "Other manuscripts" };
+const edName = e => EDITION[e] || (/^P\d+$/.test(e) ? "Papyrus " + e.slice(1) : e);
+const edList = eds => { const n = eds.map(edName); return n.length < 3 ? n.join(" and ") : n.slice(0, -1).join(", ") + " and " + n[n.length - 1]; };
+function variantOf(vv, i) {
+  if (!vv) return null;
+  if (vv.w && vv.w[i]) return vv.w[i];
+  const sp = (vv.s || []).find(([a, z]) => i >= a && i <= z);
+  return sp ? { x: sp[2] } : null;
+}
+function showVariants(vv, toks, words, ot) {
+  const box = $("vvar");
+  box.textContent = "";
+  if (!vv) return;
+  const parts = [];
+  if (vv.b) parts.push(el("p", { text: "The SBL edition sets this verse in double brackets, as a later addition to the text." + (vv.b.length ? ` ${edList(vv.b)} ${vv.b.length > 1 ? "leave" : "leaves"} it out.` : "") }));
+  for (const [after, words_, gloss, eds] of vv.a || []) {
+    const where = after < 0 ? "at the start" : `after “${(toks[after] || {}).s || ""}”`;
+    parts.push(eds[0] === "LXX"
+      ? el("p", {}, "The Septuagint has more here, and some editions restore it to the Hebrew, " + where + ": ", el("span", { class: "src", lang: "he", dir: "rtl", text: words_ }), ` “${gloss}”`)
+      : el("p", {}, `${edList(eds)} ${eds.length > 1 ? "add" : "adds"} ${where}: `, el("span", { class: "src", lang: "grc", text: words_ }), ` “${gloss}”`));
+  }
+  const marked = toks.filter((_, i) => variantOf(vv, i)).length;
+  if (marked) parts.push(el("p", {}, el("small", { text: `${marked === 1 ? "One word differs" : marked + " words differ"}: tap a word with a gold dot.` })));
+  if (!parts.length) return;
+  box.append(el("h4", { text: "Where the " + (ot ? "manuscripts" : "editions") + " differ" }), ...parts);
+  if (!ot) box.append(el("p", {}, el("small", { text: "Editions compared (from STEPBible): Nestle–Aland 27 and 28 and SBL, today's standard texts; Tyndale House, Westcott–Hort and Tregelles; the Textus Receptus behind the KJV; and the Byzantine text of most later manuscripts." })));
+  box.hidden = false;
 }
 function setHighlight(id, span, h) {
   const a = notes[id] || {};
@@ -2064,9 +2113,9 @@ async function lexEntry(strong, ot) {
   try { lexCache[file] = lexCache[file] || await getJSON("lexicon/" + file + ".json"); } catch (e) { return null; }
   return lexCache[file][strong] || null;
 }
-async function showWord(surface, f, ot, aramaic) {
+async function showWord(surface, f, ot, aramaic, vn) {
   const [tr, gloss, strongs, morph, mainIdx] = f;
-  const parts = strongs.split("/");
+  const parts = strongs ? strongs.split("/") : [];
   const morphs = (morph || "").split("/");
   const main = mainIdx != null && mainIdx !== "" ? +mainIdx : parts.length - 1;
   const box = $("word");
@@ -2081,16 +2130,28 @@ async function showWord(surface, f, ot, aramaic) {
   box.append(lemma);
   const dl = el("dl");
   const row = (k, v) => dl.append(el("dt", { text: k }), el("dd", {}, v));
-  row("In this verse", `${surface.replace(/[׃־]$/, "")}${tr ? " (" + tr + ")" : ""}: “${gloss}”`);
+  row("In this verse", `${surface.replace(/[׃־]$/, "")}${tr ? " (" + tr + ")" : ""}${gloss ? `: “${gloss}”` : ""}`);
   if (ot && /^[HA]/.test(morphs[0] || "")) { aramaic = morphs[0][0] === "A"; morphs[0] = morphs[0].slice(1); }
   row("Grammar", ot ? morphs.map(m => describeHebrew(m, aramaic)).filter(Boolean).join(" + ") : describeGreek(morph));
   if (parts.length > 1) row("Made of", parts.map((p, i) => entries[i] ? `${entries[i][0].replace(/^\//, "")} “${entries[i][3]}”` : p).join(" + "));
-  row("Strong's", parts.map(p => (ot ? "H" : "G") + p).join(" + "));
+  if (strongs) row("Strong's", parts.map(p => (ot ? "H" : "G") + p).join(" + "));
+  if (vn) {
+    if (vn.k) row("Written as", el("span", {}, el("span", { lang: "he", dir: "rtl", text: vn.k[0] }), ` (${vn.k[1]}): “${vn.k[2]}”. It is written one way and read another (ketiv and qere); this text gives the reading.`));
+    // Editions that have another word here are named with it, not as leaving the word out.
+    const elsewhere = new Set((vn.r || []).flatMap(r => ot ? [] : r[2]));
+    const out = (vn.x || []).filter(e => !elsewhere.has(e));
+    if (out.length) row("Left out by", edList(out));
+    for (const r of vn.r || []) {
+      if (ot) row(MANUSCRIPT[r[0]] || "Another manuscript", el("span", {}, "reads ", el("span", { lang: "he", dir: "rtl", text: r[1] }), ` “${r[2]}”`));
+      else row("Other reading", el("span", {}, el("span", { lang: "grc", text: r[0] }), ` “${r[1]}” `, el("span", { class: "eds", text: `in ${edList(r[2])}` })));
+    }
+  }
   box.append(dl);
   if (lex && lex[4]) box.append(el("div", { class: "def" }, richDef(lex[4])));
   // Where the word appears through the Bible.
   const foot = el("div");
   box.append(foot);
+  if (!strongs) { if (innerWidth < 1100) box.scrollIntoView({ block: "nearest", behavior: "smooth" }); return; }
   wordFootprint(parts[main], ot).then(counts => {
     if (!counts || !counts.size) return;
     foot.append(el("p", { class: "strip-h", text: `Where ${lex ? lex[0].replace(/^\//, "") : "this word"} appears` }),
