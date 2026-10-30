@@ -103,6 +103,35 @@
 
   /* ---------- A connection: the chosen point and its threads ---------- */
   // center: {label, sub, color}; nodes: [{label, color, ring}] (the strongest first, up to 14).
+  /* ---------- The icons of the web's points ---------- */
+  // Drawn on a 24-unit square as strokes, one SVG path each, so the same shapes serve the page
+  // (as SVG), its canvas and these pictures (as Path2D).
+  const ICONS = {
+    torah: "M4 20V8a3 3 0 0 1 6 0v12ZM14 20V8a3 3 0 0 1 6 0v12ZM6 11h2M6 14h2M16 11h2M16 14h2",
+    history: "M3 8l4.2 4L12 6l4.8 6L21 8l-2 11H5Z",
+    wisdom: "M3.5 13.5h12.5a3.5 3.5 0 0 0 3.5-3.5h-2.5l-2.5 3.5M3.5 13.5c0 3 3 5 7 5s6.5-2 6.5-5M10.5 18.5V21M7 21h7M9.5 10c1.6-1.4 1.6-3 0-5-1 1.5-2.4 2-2.4 3.4S8.5 10 9.5 10Z",
+    prophets: "M3 10v4h3l7 4V6l-7 4ZM16.5 9a4 4 0 0 1 0 6M19 6.5a7.5 7.5 0 0 1 0 11",
+    gospels: "M12 3v18M7 8.5h10",
+    acts: "M12 3c1 3.5 5 5.5 5 10a5 5 0 0 1-10 0c0-2.5 1.5-4 2.5-5.5.3 1.8 1.2 2.8 2.5 3 .2-2.8-1-5 0-7.5Z",
+    letters: "M3 6h18v12H3ZM3.5 6.5 12 13l8.5-6.5",
+    revelation: "M12 3l2.7 5.6 6.1.9-4.4 4.3 1 6.1L12 17l-5.4 2.9 1-6.1L3.2 9.5l6.1-.9Z",
+    person: "M12 4a3.5 3.5 0 1 0 0 7 3.5 3.5 0 0 0 0-7ZM5 21c0-4 3-7 7-7s7 3 7 7",
+    place: "M12 21s-6-5.5-6-11a6 6 0 0 1 12 0c0 5.5-6 11-6 11ZM12 7.5a2.5 2.5 0 1 0 0 5 2.5 2.5 0 0 0 0-5Z",
+    event: "M12 2.5v5.5M12 16v5.5M2.5 12H8M16 12h5.5M5.3 5.3l3.6 3.6M15.1 15.1l3.6 3.6M5.3 18.7l3.6-3.6M15.1 8.9l3.6-3.6",
+  };
+  const paths = {};
+  // An icon centred at (x, y), `size` across, drawn in `color`.
+  function drawIcon(g, name, x, y, size, color, weight = 2) {
+    if (!ICONS[name]) return;
+    const p = paths[name] || (paths[name] = new Path2D(ICONS[name]));
+    g.save();
+    g.translate(x - size / 2, y - size / 2); g.scale(size / 24, size / 24);
+    g.strokeStyle = color; g.lineWidth = weight; g.lineCap = "round"; g.lineJoin = "round"; g.shadowBlur = 0;
+    g.stroke(p);
+    g.restore();
+  }
+
+
   async function web({ center, nodes, url, caption }) {
     await ready();
     const [c, g] = canvas();
@@ -130,19 +159,22 @@
     ns.forEach((n, k) => {
       const [x, y] = at[k];
       g.shadowColor = n.color; g.shadowBlur = 26; g.fillStyle = n.color;
-      g.beginPath(); g.arc(x, y, 17, 0, 7);
-      if (n.ring) { g.lineWidth = 7; g.strokeStyle = n.color; g.stroke(); } else g.fill();
+      g.beginPath(); g.arc(x, y, n.ring ? 19 : 21, 0, 7);
+      if (n.ring) { g.lineWidth = 5; g.strokeStyle = n.color; g.stroke(); } else g.fill();
     });
     g.shadowBlur = 50; g.shadowColor = center.color; g.fillStyle = center.color;
     g.beginPath(); g.arc(cx, cy, 56, 0, 7); g.fill();
     g.shadowBlur = 0;
+    // Each point's icon: dark on a filled point, in its own color inside a ring.
+    ns.forEach((n, k) => { const [x, y] = at[k]; drawIcon(g, n.icon, x, y, n.ring ? 17 : 21, n.ring ? n.color : "#0b1020", n.ring ? 2.4 : 2.6); });
+    drawIcon(g, center.icon, cx, cy, 60, "#0b1020", 2);
     // Labels, outside each point.
     g.textBaseline = "middle";
     ns.forEach((n, k) => {
       const [x, y, a] = at[k];
       const right = Math.cos(a) >= -0.05;
       g.font = `600 26px ${SANS}`; g.textAlign = Math.abs(Math.cos(a)) < 0.3 ? "center" : right ? "left" : "right";
-      const lx = x + (Math.abs(Math.cos(a)) < 0.3 ? 0 : right ? 28 : -28), ly = y + (Math.abs(Math.cos(a)) < 0.3 ? (Math.sin(a) < 0 ? -36 : 36) : 0);
+      const lx = x + (Math.abs(Math.cos(a)) < 0.3 ? 0 : right ? 34 : -34), ly = y + (Math.abs(Math.cos(a)) < 0.3 ? (Math.sin(a) < 0 ? -42 : 42) : 0);
       g.lineWidth = 6; g.strokeStyle = "rgba(5,7,13,0.85)"; g.strokeText(n.label, lx, ly);
       g.fillStyle = "#e9ecf3"; g.fillText(n.label, lx, ly);
     });
@@ -294,5 +326,5 @@
     dialog(c, blob, info);
   }
 
-  window.Share = { verse, web, history, moment, here };
+  window.Share = { verse, web, history, moment, here, icons: ICONS, drawIcon };
 })();

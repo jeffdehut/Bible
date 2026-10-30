@@ -111,6 +111,13 @@ button { font: inherit; color: inherit; }
 .dot { flex: none; width: 11px; height: 11px; border-radius: 50%; background: var(--c); }
 .dot.ring { background: transparent; box-shadow: inset 0 0 0 2.5px var(--c); }
 .dot.star { border-radius: 2px; transform: rotate(45deg) scale(0.85); }
+.dot.ico { width: 20px; height: 20px; display: inline-grid; place-items: center; border-radius: 50%; transform: none; }
+.dot.ico.ring { box-shadow: inset 0 0 0 2px var(--c); }
+.dot.ico svg { width: 13px; height: 13px; fill: none; stroke: var(--bg); stroke-width: 2.4; stroke-linecap: round; stroke-linejoin: round; }
+.dot.ico.ring svg { stroke: var(--c); }
+.node-chip .dot.ico { width: 18px; height: 18px; }
+.node-chip .dot.ico svg { width: 11px; height: 11px; }
+.key .chip[aria-pressed="false"] .dot.ico svg { stroke: var(--faint); }
 .pill {
   display: inline-flex; gap: 2px; padding: 3px; border-radius: 12px; background: var(--chrome); backdrop-filter: blur(10px); -webkit-backdrop-filter: blur(10px);
   border: 1px solid var(--line); box-shadow: var(--shadow); flex: none;
@@ -328,7 +335,7 @@ body::before { content: ""; position: fixed; inset: 0 0 auto; height: env(safe-a
 </main>
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/7.8.5/d3.min.js"></script>
-<script src="share.js?v=23"></script>
+<script src="share.js?v=24"></script>
 <script>
 (() => {
   const $ = id => document.getElementById(id);
@@ -350,17 +357,17 @@ body::before { content: ""; position: fixed; inset: 0 0 auto; height: env(safe-a
   /* ---------- Colors: one for each part of the Bible, and one each for people, places and events ---------- */
   // [dark stage, light stage]
   const GROUPS = [
-    { name: "Torah", sec: [0], c: ["#f2c45a", "#a8790a"] },
-    { name: "History", sec: [1], c: ["#f59a62", "#bf5a1f"] },
-    { name: "Wisdom", sec: [2], c: ["#8fdc8a", "#2f8a3c"] },
-    { name: "Prophets", sec: [3], c: ["#ff7272", "#c43434"] },
-    { name: "Gospels", sec: [4], c: ["#6fb0ff", "#2459c4"] },
-    { name: "Acts", sec: [5], c: ["#4fd6cb", "#0f8c83"] },
-    { name: "Letters", sec: [6, 7], c: ["#b996ff", "#6d43c9"] },
-    { name: "Revelation", sec: [8], c: ["#ff86c0", "#c23a7c"] },
-    { name: "People", kind: 1, c: ["#97a3c4", "#98a0b2"], shape: "" },
-    { name: "Places", kind: 2, c: ["#7fd6b4", "#3c8a6c"], shape: "ring" },
-    { name: "Events", kind: 3, c: ["#ffd27a", "#a87400"], shape: "star" },
+    { name: "Torah", sec: [0], c: ["#f2c45a", "#a8790a"], icon: "torah" },
+    { name: "History", sec: [1], c: ["#f59a62", "#bf5a1f"], icon: "history" },
+    { name: "Wisdom", sec: [2], c: ["#8fdc8a", "#2f8a3c"], icon: "wisdom" },
+    { name: "Prophets", sec: [3], c: ["#ff7272", "#c43434"], icon: "prophets" },
+    { name: "Gospels", sec: [4], c: ["#6fb0ff", "#2459c4"], icon: "gospels" },
+    { name: "Acts", sec: [5], c: ["#4fd6cb", "#0f8c83"], icon: "acts" },
+    { name: "Letters", sec: [6, 7], c: ["#b996ff", "#6d43c9"], icon: "letters" },
+    { name: "Revelation", sec: [8], c: ["#ff86c0", "#c23a7c"], icon: "revelation" },
+    { name: "People", kind: 1, c: ["#97a3c4", "#98a0b2"], shape: "", icon: "person" },
+    { name: "Places", kind: 2, c: ["#7fd6b4", "#3c8a6c"], shape: "ring", icon: "place" },
+    { name: "Events", kind: 3, c: ["#ffd27a", "#a87400"], shape: "star", icon: "event" },
   ];
   let dark = false;
   const readTheme = () => {
@@ -689,6 +696,7 @@ body::before { content: ""; position: fixed; inset: 0 0 auto; height: env(safe-a
     const x = WX[i] + (X[i] - WX[i]) * m + (o ? o.x : 0), y = WY[i] + (Y[i] - WY[i]) * m + (o ? o.y : 0);
     return [x * T.k + T.x, y * T.k + T.y];
   }
+  const ICON_MIN = 6;       // the smallest point, in pixels of radius, that holds its icon
   const radiusOf = i => Math.min(46, Math.max(kind[i] ? 1.6 : 2.2, ((i < NC ? 7 : 4.5) + Math.sqrt(deg[i]) * (i < NC ? 1.6 : 1.4)) * T.k)) / 2;
 
   /* ---------- A living web ---------- */
@@ -818,6 +826,20 @@ body::before { content: ""; position: fixed; inset: 0 0 auto; height: env(safe-a
       ctx.strokeStyle = colorOf(group[focus]); ctx.lineWidth = 2;
       ctx.beginPath(); ctx.arc(fx, fy, radiusOf(focus) + 5, 0, 2 * Math.PI); ctx.stroke();
     }
+    // Icons: inside every point big enough to hold one; a point too small has its icon beside
+    // its name (below). While a point is chosen, only it and its neighbours.
+    const icon = (i, x, y, size, color, weight) => window.Share?.drawIcon(ctx, GROUPS[group[i]].icon, x, y, size, color, weight);
+    const near = focus >= 0 ? new Set([focus, ...adj[focus].map(([j]) => j)]) : null;
+    const onPoint = dark ? "rgba(6,9,18,0.92)" : "rgba(255,255,255,0.95)";
+    for (let i = 0; i < N; i++) {
+      if (hidden.has(group[i]) || (near && !near.has(i))) continue;
+      const r = radiusOf(i);
+      if (r < ICON_MIN) continue;
+      const [x, y] = posOf(i);
+      if (x < -r || y < -r || x > W + r || y > H + r) continue;
+      const ring = kind[i] === 2;
+      icon(i, x, y, r * (ring ? 1.0 : 1.3), ring ? colorOf(group[i]) : onPoint, Math.max(1.6, 26 / r));
+    }
     // Names, most connected first, wherever they fit.
     const taken = [];
     const fits = (x, y, w, h) => {
@@ -831,10 +853,18 @@ body::before { content: ""; position: fixed; inset: 0 0 auto; height: env(safe-a
       if (x < -50 || y < -20 || x > W + 50 || y > H + 20) return false;
       const text = i < NC ? label(i) : split(i)[0];
       ctx.font = `${strong ? 600 : 500} ${strong ? 13 : 12}px "Libre Franklin", system-ui, sans-serif`;
-      const w = ctx.measureText(text).width, r = radiusOf(i);
-      const lx = x + r + 4, ly = y - 8;
+      const r = radiusOf(i), side = r < ICON_MIN ? 15 : 0;    // a small point's icon goes before its name
+      const w = ctx.measureText(text).width + side;
+      let lx = x + r + 4;
+      const ly = y - 8;
       if (!fits(lx - 2, ly, w + 4, 16)) return false;
       taken.push([lx - 2, ly, lx + w + 2, ly + 16]);
+      if (side) {
+        ctx.globalAlpha = strong || focus < 0 ? 1 : 0.32;
+        icon(i, lx + 6, y, 12, colorOf(group[i]), 2.4);
+        ctx.globalAlpha = 1;
+        lx += side;
+      }
       ctx.strokeStyle = halo; ctx.lineWidth = 3.5; ctx.strokeText(text, lx, y);
       ctx.fillStyle = strong ? (i === focus ? ink : colorOf(group[i])) : ink;
       ctx.globalAlpha = strong || focus < 0 ? 1 : 0.32;
@@ -1051,7 +1081,13 @@ body::before { content: ""; position: fixed; inset: 0 0 auto; height: env(safe-a
     map: '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linejoin="round"><path d="M12 21s-7-6.2-7-11.5a7 7 0 0 1 14 0C19 14.8 12 21 12 21Z"/><circle cx="12" cy="9.5" r="2.5"/></svg>',
   };
   const act = (href, text, icon, solid) => { const a = el("a", { class: `act${solid ? " solid" : ""}`, href }); a.innerHTML = ICON[icon] || ""; a.append(text); return a; };
-  const dotFor = g => el("i", { class: `dot ${GROUPS[g].shape || ""}`, style: `--c:${colorOf(g)}` });
+  // A point's mark in lists, the card and the key: its color, with its icon (see share.js).
+  const dotFor = g => {
+    const i = el("i", { class: `dot ico ${GROUPS[g].shape || ""}`, style: `--c:${colorOf(g)}`, "aria-hidden": "true" });
+    const d = window.Share?.icons?.[GROUPS[g].icon];
+    if (d) i.innerHTML = `<svg viewBox="0 0 24 24"><path d="${d}"/></svg>`;
+    return i;
+  };
   function chips(title, items, limit = 16) {
     if (!items.length) return null;
     const list = el("div", { class: "list" });
@@ -1113,8 +1149,8 @@ body::before { content: ""; position: fixed; inset: 0 0 auto; height: env(safe-a
       const seen = new Set();
       const ns = adj[i].map(([j, , w]) => [j, (w || 0) * 100 + deg[j]]).sort((a, b) => b[1] - a[1])
         .filter(([j]) => !seen.has(j) && seen.add(j)).slice(0, 14)
-        .map(([j]) => ({ label: split(j)[0], color: GROUPS[group[j]].c[0], ring: kind[j] === 2 }));
-      window.Share?.web({ center: { label: split(i)[0], sub: kicker, color: GROUPS[group[i]].c[0] }, nodes: ns,
+        .map(([j]) => ({ label: split(j)[0], color: GROUPS[group[j]].c[0], ring: kind[j] === 2, icon: GROUPS[group[j]].icon }));
+      window.Share?.web({ center: { label: split(i)[0], sub: kicker, color: GROUPS[group[i]].c[0], icon: GROUPS[group[i]].icon }, nodes: ns,
         caption: `${fmt.format(deg[i])} connections`, url: Share.here("graph.html", location.hash) });
     } });
     share.innerHTML = ICON.share; share.append("Share");
