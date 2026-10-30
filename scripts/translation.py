@@ -1,18 +1,22 @@
-"""Check and compile the Open Plain English Translation.
+"""Check and compile the Open Plain English Translation, and the Plain Chinese translation.
 
     python3 scripts/translation.py                   check everything, then compile
     python3 scripts/translation.py --check [BOOK ...]  only check (all books, or the named ones,
                                                       e.g. "genesis" or "01-genesis"); writes nothing
+    python3 scripts/translation.py --lang zh [...]   the same for the Chinese (TRANSLATION-ZH.md)
 
-Reads   translation/NN-book/CCC.md   one file per translated chapter (see TRANSLATION.md)
+Reads   translation/NN-book/CCC.md   one file per translated chapter (see TRANSLATION.md);
+        for --lang zh, translation-zh/NN-book/CCC.md
 Checks  every chapter against its source chapter in text/hebrew or text/greek:
           - one translated line for every source verse, and no others
           - every note referenced in the text is defined, and every defined note is used
           - the front matter has a known status
           - an Old Testament chapter whose Hebrew has the divine name YHWH says "LORD" (or "GOD",
             after "Lord"), and no verse writes the name "Yahweh"
+          - Chinese: the same, with 耶和華 for YHWH, and no 「上帝」 (the translation writes 神)
 Writes  text/english/NN-book.md      the translated chapters of each book, with notes
         translation/STATUS.md        progress by book and status
+        (for --lang zh: text/chinese/ and translation-zh/STATUS.md)
 Exits non-zero if any check fails.
 """
 
@@ -39,6 +43,17 @@ VERSE = re.compile(r"\*\*(\d+)\*\* (.+)")
 DIVINE_NAME = re.compile(r"(?<![\u05D0-\u05EA])[ובלכמש]{0,3}יהוה(?![\u05D0-\u05EA])")
 # The divine name in English: "the LORD", "LORD" where God is addressed, "GOD" next to "Lord".
 DIVINE_NAME_EN = re.compile(r"\b(LORD|GOD)\b")
+# Each translation: its folders, the name the checks look for, and the words a chapter must not use.
+LANGS = {
+    "en": {"src": "translation", "out": os.path.join("text", "english"), "name": DIVINE_NAME_EN, "name_text": "\"LORD\"",
+           "banned": {"Yahweh": "the divine name is written \"the LORD\", not \"Yahweh\""},
+           "license": LICENSE_LINE, "guide": "TRANSLATION.md"},
+    "zh": {"src": "translation-zh", "out": os.path.join("text", "chinese"), "name": re.compile("耶和華"), "name_text": "「耶和華」",
+           "banned": {"上帝": "God is 「神」 in this translation, not 「上帝」", "裡": "Hong Kong usage writes 「裏」, not 「裡」"},
+           "license": ("淺白中文譯本（初稿）。授權：CC BY 4.0。新約譯自 SBL 希臘文新約（CC BY 4.0，© 2010 Society of "
+                       "Biblical Literature and Logos Bible Software）；舊約譯自列寧格勒抄本（UXLC 2.6，Tanach.us）。"),
+           "guide": "TRANSLATION-ZH.md"},
+}
 NOTE_DEF = re.compile(r"\[\^(\w+)\]: (.+)")
 NOTE_REF = re.compile(r"\[\^(\w+)\](?!:)")
 
@@ -69,6 +84,13 @@ def parse_chapter(path):
 
 def main():
     args = sys.argv[1:]
+    lang = "en"
+    if args[:1] == ["--lang"] and len(args) > 1:
+        lang, args = args[1], args[2:]
+    if lang not in LANGS:
+        sys.exit(f"unknown language {lang!r}: use one of {', '.join(LANGS)}")
+    L = LANGS[lang]
+    TRANSLATION, OUT = os.path.join(ROOT, L["src"]), os.path.join(ROOT, L["out"])
     if args and args[0] != "--check":
         sys.exit(__doc__)
     check_only = bool(args)
@@ -115,11 +137,12 @@ def main():
                 errors.append(f"{label}: undefined notes {sorted(used - set(notes))}")
             if set(notes) - used:
                 errors.append(f"{label}: unused notes {sorted(set(notes) - used)}")
-            if c in has_name and not any(DIVINE_NAME_EN.search(t) for t in verses.values()):
-                errors.append(f"{label}: the Hebrew has the divine name YHWH, but the translation has no \"LORD\"")
+            if c in has_name and not any(L["name"].search(t) for t in verses.values()):
+                errors.append(f"{label}: the Hebrew has the divine name YHWH, but the translation has no {L['name_text']}")
             for v, t in verses.items():
-                if "Yahweh" in NOTE_REF.sub("", t):
-                    errors.append(f"{label}:{v}: the divine name is written \"the LORD\", not \"Yahweh\"")
+                for word, why in L["banned"].items():
+                    if word in NOTE_REF.sub("", t):
+                        errors.append(f"{label}:{v}: {why}")
             chapters[(num, osis, name, testament)][c] = (meta, verses, notes)
 
     if errors:
@@ -133,9 +156,9 @@ def main():
     for f in os.listdir(OUT):
         os.remove(os.path.join(OUT, f))
     for (num, osis, name, testament), chs in chapters.items():
-        lines = [f"# {name}", "", f"> **Text:** {LICENSE_LINE}  ",
+        lines = [f"# {name}", "", f"> **Text:** {L['license']}  ",
                  "> Chapters show their review status: *draft*, *checked*, *reviewed* or *approved*. "
-                 "See TRANSLATION.md.", ""]
+                 f"See {L['guide']}.", ""]
         for c in sorted(chs):
             meta, verses, notes = chs[c]
             lines += [f"## Chapter {c}", "", f"*Status: {meta['status']}*", ""]
@@ -168,7 +191,7 @@ def main():
               "|---|---|---|---|---|---|---|"] + rows + [""]
     with open(os.path.join(TRANSLATION, "STATUS.md"), "w", encoding="utf-8", newline="\n") as f:
         f.write("\n".join(status))
-    print(f"{done} chapters checked and compiled into text/english/ ({len(chapters)} books).")
+    print(f"{done} chapters checked and compiled into {L['out']}/ ({len(chapters)} books).")
 
 
 if __name__ == "__main__":

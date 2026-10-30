@@ -1,0 +1,137 @@
+# 淺白中文譯本 · The Plain Chinese Translation
+
+A new translation of the Bible into plain, modern Traditional Chinese for native readers, made
+directly from the Hebrew, Aramaic and Greek texts in this repository. It is written for readers
+in Hong Kong, in the standard written Chinese they read every day, not in Cantonese.
+
+**Status:** a pilot (Mark). Every chapter is an AI draft until native readers have reviewed it.
+
+## What carries over from the English translation
+
+The English translation's goals, principles and checklist ([TRANSLATION.md](TRANSLATION.md))
+apply here unchanged wherever they are not about English itself:
+
+- **The same sources:** the Leningrad Codex (UXLC 2.6) and the SBL Greek New Testament (v1.2),
+  with the same rules for the ketiv/qere, the SBLGNT apparatus and the Textus Receptus.
+- **The same verse numbering:** Hebrew numbering in the Old Testament, one line per verse,
+  and a verse left out of the SBLGNT is skipped with a note.
+- **The same limits:** translate every verse and only what is there; keep the imagery, the
+  repetition and the deliberate ambiguity; no harmonizing and no interpretation in the text.
+- **The same notes:** where a choice was made, where an idiom is restated, where manuscripts
+  differ in meaning, where an Old Testament passage is quoted.
+- **The same status steps:** draft → checked → reviewed → approved.
+
+**Translate from the Hebrew and Greek, never from the English.** The English text is not a
+source. Its notes are a useful list of the places that need a note (variants, idioms, unclear
+words), but each note is written afresh, in Chinese, for Chinese readers. A sentence shaped
+like an English sentence is a mistake even if every word is right.
+
+Tools: `python3 scripts/source.py mark 1` prints a chapter's source with its apparatus;
+`python3 scripts/translation.py --lang zh` checks every chapter and compiles the books into
+`text/chinese/`.
+
+## Goals
+
+1. **Accurate meaning.** As in English: nothing added, left out, softened or sharpened.
+2. **Plain Chinese.** Natural modern written Chinese (白話文) that a Hong Kong secondary-school
+   student can follow. Short sentences, everyday words, and idioms rendered by their meaning.
+   Not the Union Version's early-twentieth-century style, and not Cantonese (冇、佢、嘅).
+3. **Familiar where it helps.** Names, and the long-established words of Chinese churches,
+   follow the 1919 Chinese Union Version (和合本, public domain), so readers recognize them.
+   Its sentences are not copied: the translation is new.
+
+## Decisions (glossary)
+
+Decided by the project owner:
+
+| Source | Rendering | Notes |
+|---|---|---|
+| θεός, אֱלֹהִים, אֵל, אֱלוֹהַּ | **神** | Never 上帝 (the checker enforces this). Other gods: 神明, 別的神. |
+| יהוה (YHWH) | **耶和華** | As in the Union Version. A note at its first occurrence in each chapter: `耶和華：神的名字，希伯來文作 YHWH。` |
+| Names of people and places | **as in the Union Version** | 摩西、耶路撒冷、保羅、迦百農、撒但. A name the Union Version lacks is transliterated in its style. |
+| Readers | **Hong Kong** | Hong Kong character forms and usage (below). |
+
+Proposed in the pilot, open for review:
+
+| Source | Rendering | Notes |
+|---|---|---|
+| אֲדֹנָי יְהוִה / יְהוָה אֲדֹנָי | 主耶和華 / 耶和華主 | As in the Union Version. |
+| יהוה צְבָאוֹת | 萬軍之耶和華 | Noted at its first occurrence in each chapter: *tseva'ot* means armies. |
+| κύριος | 主 | Where a quotation has the divine name: `在希伯來文中，「主」是神的名字 YHWH（耶和華）。` |
+| χριστός | 基督 | At its first occurrence in each book: `希臘文 *christos*，意思是「受膏者」，就是希伯來文的「彌賽亞」。` |
+| מָשִׁיחַ | 受膏者 | A note where later readers heard the Messiah, as in English. |
+| πνεῦμα ἅγιον; πνεῦμα ἀκάθαρτον | 聖靈；污靈 | |
+| δαιμόνιον | 鬼 | 趕鬼, 被鬼附的人. |
+| ὁ υἱὸς τοῦ ἀνθρώπου | 人子 | Noted at its first occurrence in each book. |
+| ἡ βασιλεία τοῦ θεοῦ | 神的國 | |
+| γραμματεύς | 經學家 | Experts in the Law of Moses. Noted at its first occurrence in each book: `傳統譯作「文士」`. |
+| λεπρός, צָרַעַת | 患皮膚病的人；皮膚病 | Noted: `傳統譯作「長大痲瘋」`. |
+| חֶסֶד | 慈愛 | Noted where it matters: `希伯來文 *chesed*，指信實不變、守約的愛。` |
+| נֶפֶשׁ | 生命、自己、人、心, by context | Not automatically 靈魂. |
+| שְׁאוֹל | 陰間 | Noted at its first occurrence in each chapter: the realm of the dead. |
+| ἀδελφοί (to a mixed group) | 弟兄姊妹 | 弟兄 for a group of men, as in English. |
+| Pronouns for God and Jesus | 他 | Not 祂: the Hebrew and Greek have no such distinction, and the people in the story don't make it. |
+| ἀμὴν λέγω ὑμῖν | 我實在告訴你們 | |
+
+## Style
+
+**Characters and words.** Hong Kong standard forms: 裏 (not 裡), 着 for the particle (看着、
+帶着; 著 only in 顯著、著作), 衞, 甚麼 (not 什麼), 只 (not 祇). Hong Kong usage where it differs
+from Taiwan or the mainland. The checker rejects 裡.
+
+**Punctuation.** Full-width: ，。、；：？！ Quotations take 「」, a quotation inside one 『』.
+A speech that runs over several verses or paragraphs reopens 「 at each new paragraph and closes
+only where it ends, as in English. Dashes ——, ellipses …… .
+
+**Numbers.** Chinese numerals in the text, as Chinese Bibles have them: 四十天, 一百二十歲,
+一千四百輛戰車, 四萬六千五百. Modern measurements and dates in notes use digits: 約 45 厘米.
+
+**Units, money and time.** As in English: the original unit in the text, its value in a note at
+its first occurrence in each chapter (`一肘約 45 厘米`). Coins: 銀幣 (denarius), with
+`約為散工一天的工資`. Time of day in modern terms (下午四時左右), the original in a note.
+
+**Narrative.** Chinese has no tenses; use 了、過、就 as natural Chinese needs, not to mirror Greek
+aspect. Mark's εὐθύς is 立刻、一……就 or 正在那時, as the sentence requires.
+
+**Notes.** Markdown footnotes, numbered within the chapter. The marker goes straight after the
+word or phrase, before Chinese punctuation (`基督[^1]。`); a note on a whole quotation goes after
+its closing 」. Standard forms:
+
+- `直譯：「……」。` literally; `或譯：「……」。` or
+- `希伯來文 *chesed*，……` `希臘文 *logos*，……` (transliterated simply, as in English)
+- References: `以賽亞書40章3節`, ranges `24章5至9節`.
+- Where the Hebrew numbering differs from the Union Version's (which follows the English), add
+  it: `（和合本作89章52節）`.
+- Manuscript notes follow the English rules, worded: `許多抄本作「……」` (many manuscripts read),
+  `許多抄本加上「……」` (add), `有些抄本作「……」` (some), `SBL 希臘文新約在此依循韋斯科特和霍特（Westcott and Hort）的版本；其他版本……`.
+
+## Format
+
+As in English, one file per chapter, `translation-zh/NN-book/CCC.md`, with the book's English
+name in the front matter so the tools can match it to its source:
+
+```markdown
+---
+book: Mark
+chapter: 1
+source: SBLGNT v1.2
+status: draft
+translator: Claude (AI), draft
+reviewers: []
+---
+
+**1** 這是耶穌基督[^1]的福音的開始。
+
+[^1]: 希臘文 *christos*，……
+```
+
+## Review
+
+Drafts are AI-generated (Claude). A chapter becomes **checked** when the checker passes and it
+has been compared with the source; **reviewed** when a native Chinese reader who reads Greek or
+Hebrew has confirmed every verse, and a native reader has read it aloud for natural Chinese;
+**approved** when accepted for publication. Reviewers' names go in `reviewers`.
+
+## License
+
+CC BY 4.0, as for the English translation.
