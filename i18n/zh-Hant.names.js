@@ -2,6 +2,7 @@
 // (public domain) spells them. Written by scripts/names_zh.py: don't edit by hand;
 // corrections go in OVERRIDES there.
 I18N.add({
+"Perez":"法勒斯",
 "Aaron":"亞倫",
 "Abagtha":"亞拔他",
 "Abana":"亞罷拿",
