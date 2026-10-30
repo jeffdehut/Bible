@@ -135,6 +135,14 @@ Settled while drafting Exodus:
 | זָבַת חָלָב וּדְבָשׁ | 流奶與蜜之地 | |
 | יַם־סוּף | 紅海 | Noted: 「蘆葦海」. |
 | צִבְאוֹת (Israel's divisions) | 隊伍 | |
+| פֶּסַח; מַצּוֹת | 逾越節；無酵餅、無酵節 | The wordplay with *pasach* noted. |
+| מִקְרָא קֹדֶשׁ | 聖會 | |
+| מָן | 嗎哪 | *man hu* noted (16:15). |
+| עֵדֻת; סְגֻלָּה | 法版；珍寶 | |
+| שְׁלָמִים; עֹלָה | 平安祭；燔祭 | |
+| קִדֵּשׁ | 分別為聖 | |
+| אֵל קַנָּא | 忌邪的神 | |
+| The Ten Commandments | 不可謀殺 (20:13, noted: traditionally 不可殺人), 不可妄用耶和華你神的名 | How the traditions count them, noted at 20:1. |
 
 ## Style
 
