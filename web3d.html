@@ -3,6 +3,7 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<script src="i18n.js?v=1"></script>
 <link rel="icon" href="icons/icon.svg" type="image/svg+xml">
 <link rel="apple-touch-icon" href="icons/icon-192.png">
 <meta name="theme-color" content="#05070d" media="(prefers-color-scheme: light)">
@@ -100,7 +101,7 @@ body::before { content: ""; position: fixed; inset: 0 0 auto; height: env(safe-a
 <header class="appbar">
   <a class="brand" href="index.html"><img src="icons/icon.svg" alt="Plain English Bible"><span aria-hidden="true">Plain English Bible</span></a>
 </header>
-<script src="nav.js?v=32"></script>
+<script src="nav.js?v=33"></script>
 
 <div class="stage" id="stage">
   <canvas id="gl" aria-label="The web of Scripture in three dimensions. Drag to turn it; drag with two fingers, the right button or Shift held to slide it; pinch or scroll to fly in; tap a point to see it. Arrow keys turn it, and with Shift slide it." role="img"></canvas>
@@ -147,7 +148,8 @@ body::before { content: ""; position: fixed; inset: 0 0 auto; height: env(safe-a
   const TYPES = ["xref", "seq", "names", "together", "family", "event"];
 
   let D, N, NC, kind, group, P, deg, adj, linkA, linkB, linkT, chapterOf = [], bookOf = [], bookStart = [], briefs = null;
-  const label = k => (k < NC ? `${D.books[bookOf[k]][0]} ${chapterOf[k]}` : D.n[k - NC].replace(/ \((.+ \d+\.\d+)\)$/, ""));
+  const tr = (window.I18N ? I18N.t : s => s);
+  const label = k => (k < NC ? `${tr(D.books[bookOf[k]][0])} ${chapterOf[k]}` : tr(D.n[k - NC].replace(/ \((.+ \d+\.\d+)\)$/, "")));
   const sizeOf = i => (i < NC ? 9 : 6) + 2.6 * Math.sqrt(deg[i]);   // a point's size, across, in the web's units
   const slug = s => s.toLowerCase().replace(/ /g, "-");
   const refOf = k => { const j = k - NC, b = D.f[3 * j]; return b < 0 ? null : [b, D.f[3 * j + 1], D.f[3 * j + 2]]; };
@@ -392,7 +394,7 @@ body::before { content: ""; position: fixed; inset: 0 0 auto; height: env(safe-a
     for (const L of want) {
       if (placed.has(L.key) || (L.tier === 4 && named >= budget)) continue;
       const book = L.tier === 3;
-      L.text = book ? D.books[L.book][0] : label(L.key);
+      L.text = book ? tr(D.books[L.book][0]) : label(L.key);
       L.size = L.tier === 0 ? 16 : book ? clamp(13 * home.dist / cam.dist, 11.5, 15) : L.tier === 4 ? clamp(10.5 + L.r * 0.35, 11, 14) : 12.5;
       L.br = book ? 0 : clamp(L.r, 6.5, 12);
       lc.font = `${L.tier === 0 || book ? 600 : 500} ${L.size}px ${FONT}`;
@@ -411,7 +413,7 @@ body::before { content: ""; position: fixed; inset: 0 0 auto; height: env(safe-a
       const book = typeof key === "string", s = book ? bookAt(+key.slice(1), mvp) : project(key, mvp);
       if (!onScreen(s)) continue;
       const L = { key, s, tier: book ? 3 : 4, book: book ? +key.slice(1) : null, r: book ? 0 : sizeOf(key) * f / s[2] / 2 };
-      L.text = book ? D.books[L.book][0] : label(key); L.size = book ? 13 : clamp(10.5 + L.r * 0.35, 11, 14); L.br = book ? 0 : clamp(L.r, 6.5, 12);
+      L.text = book ? tr(D.books[L.book][0]) : label(key); L.size = book ? 13 : clamp(10.5 + L.r * 0.35, 11, 14); L.br = book ? 0 : clamp(L.r, 6.5, 12);
       paint(L, b * (book ? 0.85 * bookA : 1));
     }
     for (const L of [...placed.values()].reverse()) {

@@ -113,7 +113,8 @@ a { color: var(--lapis); }
   const TYPES = ["xref", "seq", "names", "together", "family", "event"];
 
   let D, N, NC, kind, group, P, deg, adj, linkA, linkB, linkT, chapterOf = [], bookOf = [], bookStart = [], briefs = null;
-  const label = k => (k < NC ? `${D.books[bookOf[k]][0]} ${chapterOf[k]}` : D.n[k - NC].replace(/ \((.+ \d+\.\d+)\)$/, ""));
+  const tr = (window.I18N ? I18N.t : s => s);
+  const label = k => (k < NC ? `${tr(D.books[bookOf[k]][0])} ${chapterOf[k]}` : tr(D.n[k - NC].replace(/ \((.+ \d+\.\d+)\)$/, "")));
   const sizeOf = i => (i < NC ? 9 : 6) + 2.6 * Math.sqrt(deg[i]);   // a point's size, across, in the web's units
   const slug = s => s.toLowerCase().replace(/ /g, "-");
   const refOf = k => { const j = k - NC, b = D.f[3 * j]; return b < 0 ? null : [b, D.f[3 * j + 1], D.f[3 * j + 2]]; };
@@ -358,7 +359,7 @@ a { color: var(--lapis); }
     for (const L of want) {
       if (placed.has(L.key) || (L.tier === 4 && named >= budget)) continue;
       const book = L.tier === 3;
-      L.text = book ? D.books[L.book][0] : label(L.key);
+      L.text = book ? tr(D.books[L.book][0]) : label(L.key);
       L.size = L.tier === 0 ? 16 : book ? clamp(13 * home.dist / cam.dist, 11.5, 15) : L.tier === 4 ? clamp(10.5 + L.r * 0.35, 11, 14) : 12.5;
       L.br = book ? 0 : clamp(L.r, 6.5, 12);
       lc.font = `${L.tier === 0 || book ? 600 : 500} ${L.size}px ${FONT}`;
@@ -377,7 +378,7 @@ a { color: var(--lapis); }
       const book = typeof key === "string", s = book ? bookAt(+key.slice(1), mvp) : project(key, mvp);
       if (!onScreen(s)) continue;
       const L = { key, s, tier: book ? 3 : 4, book: book ? +key.slice(1) : null, r: book ? 0 : sizeOf(key) * f / s[2] / 2 };
-      L.text = book ? D.books[L.book][0] : label(key); L.size = book ? 13 : clamp(10.5 + L.r * 0.35, 11, 14); L.br = book ? 0 : clamp(L.r, 6.5, 12);
+      L.text = book ? tr(D.books[L.book][0]) : label(key); L.size = book ? 13 : clamp(10.5 + L.r * 0.35, 11, 14); L.br = book ? 0 : clamp(L.r, 6.5, 12);
       paint(L, b * (book ? 0.85 * bookA : 1));
     }
     for (const L of [...placed.values()].reverse()) {

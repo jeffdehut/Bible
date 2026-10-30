@@ -16,11 +16,15 @@ Checks  every chapter against its source chapter in text/hebrew or text/greek:
           - Chinese: the same, with 耶和華 for YHWH, and no 「上帝」 (the translation writes 神)
 Writes  text/english/NN-book.md      the translated chapters of each book, with notes
         translation/STATUS.md        progress by book and status
-        (for --lang zh: text/chinese/ and translation-zh/STATUS.md)
+        (for --lang zh: text/chinese/ and translation-zh/STATUS.md, and the reader's data:
+        data/bible/i18n/zh-Hant/text/NN-book.json, the reader's book file with the Chinese
+        in place of the English, chapter by chapter, and data/bible/i18n/zh-Hant/books.json,
+        the chapters translated in each book; run after reader.py)
 Exits non-zero if any check fails.
 """
 
 import collections
+import json
 import os
 import re
 import sys
@@ -52,7 +56,7 @@ LANGS = {
            "banned": {"上帝": "God is 「神」 in this translation, not 「上帝」", "裡": "Hong Kong usage writes 「裏」, not 「裡」"},
            "license": ("淺白中文譯本（初稿）。授權：CC BY 4.0。新約譯自 SBL 希臘文新約（CC BY 4.0，© 2010 Society of "
                        "Biblical Literature and Logos Bible Software）；舊約譯自列寧格勒抄本（UXLC 2.6，Tanach.us）。"),
-           "guide": "TRANSLATION-ZH.md"},
+           "guide": "TRANSLATION-ZH.md", "reader": "zh-Hant"},
 }
 NOTE_DEF = re.compile(r"\[\^(\w+)\]: (.+)")
 NOTE_REF = re.compile(r"\[\^(\w+)\](?!:)")
@@ -191,7 +195,45 @@ def main():
               "|---|---|---|---|---|---|---|"] + rows + [""]
     with open(os.path.join(TRANSLATION, "STATUS.md"), "w", encoding="utf-8", newline="\n") as f:
         f.write("\n".join(status))
+    if L.get("reader"):
+        reader_data(L["reader"], chapters)
     print(f"{done} chapters checked and compiled into {L['out']}/ ({len(chapters)} books).")
+
+
+def reader_data(code, chapters):
+    """The reader's files for a translation: each book's English file (data/bible/text/) with
+    the translated chapters' wording, notes and status in place of the English ones. A chapter
+    not yet translated keeps the English, marked "l": "en", so the reader can say so."""
+    base = os.path.join(ROOT, "data", "bible")
+    out = os.path.join(base, "i18n", code, "text")
+    os.makedirs(out, exist_ok=True)
+    for f in os.listdir(out):
+        os.remove(os.path.join(out, f))
+    books = {}
+    for (num, osis, name, testament), chs in chapters.items():
+        stem = file_stem(num, name)
+        data = json.load(open(os.path.join(base, "text", stem + ".json"), encoding="utf-8"))
+        for ch in data["chapters"]:
+            c = int(ch["c"])
+            if c not in chs:
+                ch["l"] = "en"
+                continue
+            meta, verses, notes = chs[c]
+            ch["s"] = meta["status"]
+            ch["n"] = notes
+            rows = []
+            for row in ch["v"]:
+                if row[0] in verses:
+                    row[1] = verses[row[0]]
+                    rows.append(row)
+            ch["v"] = rows
+        with open(os.path.join(out, stem + ".json"), "w", encoding="utf-8", newline="\n") as f:
+            json.dump(data, f, ensure_ascii=False, separators=(",", ":"))
+            f.write("\n")
+        books[osis] = sorted(chs)
+    with open(os.path.join(base, "i18n", code, "books.json"), "w", encoding="utf-8", newline="\n") as f:
+        json.dump(books, f, ensure_ascii=False, separators=(",", ":"))
+        f.write("\n")
 
 
 if __name__ == "__main__":

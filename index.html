@@ -2,6 +2,7 @@
 <html lang="en">
 <head>
 <meta charset="utf-8">
+<script src="i18n.js?v=1"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
 <title>Plain English Bible</title>
 <meta name="claude:viewport-fit-sides" content="cover">
@@ -184,6 +185,7 @@ body.panel-open .auto { display: none; }
 .auto-btn:hover { background: var(--lapis-soft); }
 .auto-speed { font: 600 12px/1 var(--sans); color: var(--muted); min-width: 52px; text-align: center; }
 .auto:not(.on) .auto-btn, .auto:not(.on) .auto-speed { display: none; }
+.lang-note { margin: 6px 0 0; font: 400 13px/1.4 var(--sans); color: var(--muted); }
 .plan-bar { display: flex; align-items: center; gap: 10px; flex-wrap: wrap; background: var(--gold-soft); border-radius: 12px; padding: 10px 12px; margin: 0 0 18px; font: 500 14px/1.35 var(--sans); }
 .plan-bar b { display: block; font-weight: 600; }
 .plan-bar .btn { margin-left: auto; }
@@ -927,7 +929,7 @@ if (/(^#|&)(access_token|error)=/.test(location.hash)) {
   <div class="sheet-head"><h2 id="menu-title">Plain English Bible</h2><button class="btn" type="button" data-close aria-label="Close"><svg class="icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M6 6l12 12M18 6 6 18"/></svg></button></div>
   <div id="site-menu"><!-- nav.js: the site's menu, the same on every page --></div>
 </section>
-<script src="nav.js?v=32"></script>
+<script src="nav.js?v=33"></script>
 
 <section class="sheet dialog" id="mine" hidden aria-labelledby="mine-title">
   <div class="grab"></div>
@@ -1073,6 +1075,13 @@ function getJSON(path) {
   return cache.get(path);
 }
 let BOOKS = [], bySlug = {}, byOsis = {};
+// The language (i18n.js): its translation of the Bible where it has one, and its names for the
+// books. LBOOKS: the books translated, {osis: [chapters]}; the rest are read in English.
+const L = window.I18N || { lang: "en", en: true, t: s => s, plural: (n, a, b) => (n === 1 ? a : b).replace("{n}", n), LANGS: { en: {} } };
+const LANG = L.lang;
+let LBOOKS = {};
+const textPath = b => (LBOOKS[b.osis] ? `i18n/${LANG}/text/` : "text/") + b.slug + ".json";
+const psName = b => (b.osis === "Ps" && L.en ? "Psalm" : b.n);
 const $ = id => document.getElementById(id);
 const el = (tag, attrs = {}, ...kids) => {
   const e = document.createElement(tag);
@@ -1087,7 +1096,7 @@ const el = (tag, attrs = {}, ...kids) => {
 };
 
 /* ---------- References ---------- */
-const hashSlug = b => b.n.toLowerCase().replace(/ /g, "-");
+const hashSlug = b => b.en.toLowerCase().replace(/ /g, "-");
 const ABBR = {
   Gen: "gn ge", Exod: "ex exo", Lev: "lv le", Num: "nm nu nb", Deut: "dt de deu", Josh: "jos jsh", Judg: "jdg jg jdgs",
   Ruth: "rt ru rth", "1Sam": "1sa 1sm 1 sa", "2Sam": "2sa 2sm", "1Kgs": "1ki 1kg 1kgs 1 kings", "2Kgs": "2ki 2kg 2kgs",
@@ -1104,7 +1113,8 @@ const ABBR = {
 let aliases = [];
 function buildAliases() {
   for (const b of BOOKS) {
-    const forms = new Set([b.n.toLowerCase(), b.n.toLowerCase().replace(/\s+/g, ""), b.osis.toLowerCase(), hashSlug(b)]);
+    const forms = new Set([b.en.toLowerCase(), b.en.toLowerCase().replace(/\s+/g, ""), b.n.toLowerCase(), b.osis.toLowerCase(), hashSlug(b)]);
+    (b.alt || []).forEach(a => forms.add(a));
     (ABBR[b.osis] || "").split(" ").filter(Boolean).forEach(a => { forms.add(a); forms.add(a.replace(/\s+/g, "")); });
     if (b.osis === "Ps") forms.add("psalms");
     if (b.osis === "Song") { forms.add("song of solomon"); forms.add("canticles"); }
@@ -1185,7 +1195,7 @@ function verseLabel(b, c, row) {
 // just that day's chapters.
 const ctxOf = new WeakMap();          // section → { b, c, data, chapter, letters, prev, next, sec }
 let view = { kind: "bible" };         // "bible", or "plan" for a day of a reading plan
-const bookName = b => (b.osis === "Ps" ? "Psalm" : b.n);
+const bookName = b => psName(b);
 function neighbors(b, c) {
   const idx = BOOKS.indexOf(b);
   return {
@@ -1201,7 +1211,8 @@ function chapterHead(b, c, chapter) {
   web.innerHTML = WEB_ICON + "Connections";
   return el("header", { class: "chead chap-head" + (c === 1 ? " new-book" : "") },
     el("p", { class: "eyebrow", text: b.n }),
-    el("h2", { class: "chap-num", text: (b.osis === "Ps" ? "Psalm " : "") + c }),
+    el("h2", { class: "chap-num", text: (b.osis === "Ps" && L.en ? "Psalm " : "") + c }),
+    !L.en && (chapter.l === "en" || !LBOOKS[b.osis]) ? el("p", { class: "lang-note", text: "This chapter isn’t translated into this language yet, so it is shown in English." }) : null,
     el("div", { class: "meta" },
       el("button", { class: "badge " + st, type: "button", text: STATUS_LABEL[st] || st, onclick: () => openSheet("about") }),
       el("span", { class: "src", text: b.t === "NT" ? "From the Greek" : allAramaic(b, c) ? "From the Aramaic" : hasAramaic(b, c) ? "From the Hebrew and Aramaic" : "From the Hebrew" }),
@@ -1225,12 +1236,14 @@ function buildChapter(b, c, data) {
   for (const row of chapter.v) if (row[1]) for (const m of row[1].matchAll(/\[\^(\w+)\]/g)) if (!(m[1] in letters)) letters[m[1]] = letter(k++);
   const sec = el("section", { class: "chap" + (isPoetry(b, c) ? " poetry" : ""), "data-book": b.slug, "data-c": c, "aria-label": `${bookName(b)} ${c}` });
   sec.append(chapterHead(b, c, chapter));
-  let p = el("p");
+  // The verses keep their own wording: the page's translation (i18n.js) leaves them alone.
+  const para = () => el("p", { translate: "no", lang: chapter.l || (LBOOKS[b.osis] ? LANG : "en") });
+  let p = para();
   for (const row of chapter.v) {
     const [n, en] = row;
     const lab = verseLabel(b, c, row);
     const id = `${b.osis}.${c}.${n}`;
-    const span = el("span", { class: "v", "data-v": n, "data-id": id, tabindex: "0", role: "button", "aria-label": `Verse ${lab.text}` },
+    const span = el("span", { class: "v", "data-v": n, "data-id": id, tabindex: "0", role: "button", "aria-label": L.t("Verse {v}", { v: lab.text }) },
       el("sup", { class: "vn" + (lab.title ? " title" : ""), text: lab.text }));
     if (en) span.append(inline(en, letters));
     else span.append(el("span", { class: "missing", text: "(No verse here in the critical editions; see the note.)" }));
@@ -1241,7 +1254,7 @@ function buildChapter(b, c, data) {
     if (a && a.b) span.classList.add("bm");
     if (a && a.r) markRanges(span, a.r);
     p.append(span);
-    if (row[3] && row[3].p) { sec.append(p); p = el("p"); }
+    if (row[3] && row[3].p) { sec.append(p); p = para(); }
   }
   if (p.childNodes.length) sec.append(p);
   const ctx = { b, c, data, chapter, letters, sec, ...neighbors(b, c) };
@@ -1258,7 +1271,7 @@ function setCurrent(ctx, opts = {}) {
   if (!changed && !opts.force) return;
   const { b, c } = ctx;
   $("where-label").textContent = bookName(b) + " " + c;
-  document.title = `${bookName(b)} ${c} · Plain English Bible`;
+  document.title = `${bookName(b)} ${c} · ${L.t("Plain English Bible")}`;
   if (view.kind !== "plan" && opts.address !== false) history.replaceState(null, "", refHash(b, c));
   store.set("last", { s: b.slug, c });
 }
@@ -1274,7 +1287,7 @@ async function show(b, c, v, opts = {}) {
   if (typeof listen !== "undefined" && listen.on && !opts.keepListening) listen.stop();
   $("loading").hidden = false;
   let data;
-  try { data = await getJSON("text/" + b.slug + ".json"); }
+  try { data = await getJSON(textPath(b)); }
   catch (e) { $("loading").textContent = "This chapter couldn't be loaded. Check your connection and try again."; return; }
   if (token !== showToken) return;
   closeVerse();
@@ -1327,7 +1340,7 @@ async function addAfter() {
   const token = showToken;
   try {
     const [b, c] = last.next;
-    const data = await getJSON("text/" + b.slug + ".json");
+    const data = await getJSON(textPath(b));
     if (token !== showToken) return;
     const ctx = buildChapter(b, c, data);
     $("text").append(ctx.sec);
@@ -1345,7 +1358,7 @@ async function addBefore() {
   const token = showToken;
   try {
     const [b, c] = first.prev;
-    const data = await getJSON("text/" + b.slug + ".json");
+    const data = await getJSON(textPath(b));
     if (token !== showToken) return;
     const ctx = buildChapter(b, c, data);
     // Keep the words on screen where they were: measure, add above, and scroll by the difference.
@@ -1423,7 +1436,7 @@ async function showPlanDay(day, k) {
   if (!p || !p.days[day]) { go(byOsis.John, 1); return; }
   const list = p.days[day].map(r => { const [o, c] = r.split("."); return [byOsis[o], +c]; });
   view = { kind: "plan", p, day, list };
-  $("plan-bar-text").textContent = `${p.n} · Day ${day + 1} of ${p.days.length}`;
+  $("plan-bar-text").textContent = L.t("{plan} · Day {d} of {n}", { plan: L.t(p.n), d: day + 1, n: p.days.length });
   $("plan-bar-what").textContent = readings(p.days[day]).map(x => x[0]).join(", ");
   await show(list[0][0], list[0][1], null, { plan: true, chapterIndex: k || 0 });
 }
@@ -1432,7 +1445,7 @@ async function fillPlan(token) {
   for (let i = 1; i < list.length; i++) {
     const [b, c] = list[i];
     let data;
-    try { data = await getJSON("text/" + b.slug + ".json"); } catch (e) { break; }
+    try { data = await getJSON(textPath(b)); } catch (e) { break; }
     if (token !== showToken) return;
     const ctx = buildChapter(b, c, data);
     $("text").append(ctx.sec);
@@ -1446,13 +1459,13 @@ function renderPlanEnd() {
   const next = day + 1 < p.days.length ? day + 1 : null;
   box.hidden = false;
   box.replaceChildren(
-    el("p", { class: "kind", text: `${p.n} · Day ${day + 1}` }),
+    el("p", { class: "kind", text: L.t("{plan} · Day {d}", { plan: L.t(p.n), d: day + 1 }) }),
     el("h3", { text: done ? "Day " + (day + 1) + " is marked read" : "You’ve reached the end of today’s reading" }),
     el("div", { class: "actions" },
       done ? el("button", { class: "btn line", type: "button", text: "Mark as not read", onclick: () => { plan.done = plan.done.filter(d => d !== day); savePlan(); renderPlanEnd(); } })
-        : el("button", { class: "btn solid", type: "button", text: `Mark day ${day + 1} read`, onclick: () => {
-          plan.done = [...new Set([...plan.done, day])].sort((a, b) => a - b); savePlan(); renderPlanEnd(); toast(`Day ${day + 1} marked read`); } }),
-      next != null ? el("a", { class: "btn line", href: "#plan-" + (next + 1), text: `Day ${next + 1} →` }) : null,
+        : el("button", { class: "btn solid", type: "button", text: L.t("Mark day {d} read", { d: day + 1 }), onclick: () => {
+          plan.done = [...new Set([...plan.done, day])].sort((a, b) => a - b); savePlan(); renderPlanEnd(); toast(L.t("Day {d} marked read", { d: day + 1 })); } }),
+      next != null ? el("a", { class: "btn line", href: "#plan-" + (next + 1), text: L.t("Day {d}", { d: next + 1 }) + " →" }) : null,
       el("button", { class: "btn line", type: "button", text: "All days", onclick: () => { openSheet("plans"); renderPlans(); } })));
 }
 // Books and passages set as poetry, a verse to a line.
@@ -1606,7 +1619,7 @@ async function openVerse(span) {
   selected = span; span.classList.add("sel");
   const { b, c } = cur;
   const ot = b.t === "OT";
-  const bookName = b.osis === "Ps" ? "Psalm" : b.n;
+  const bookName = psName(b);
   $("verse-title").textContent = `${bookName} ${c}:${n}`;
   const e = row[3] && row[3].e;
   if (ot && e) {
@@ -1646,7 +1659,7 @@ async function openVerse(span) {
   const bmOn = () => !!(notes[id] && notes[id].b);
   const bmShow = () => { bmb.setAttribute("aria-pressed", String(bmOn())); bmb.querySelector("span").textContent = bmOn() ? "Bookmarked" : "Bookmark"; };
   bmShow();
-  bmb.onclick = () => { setBookmark(id, bmOn() ? null : id); bmShow(); toast(bmOn() ? `Bookmarked ${passageLabel(id)}` : "Bookmark removed"); };
+  bmb.onclick = () => { setBookmark(id, bmOn() ? null : id); bmShow(); toast(bmOn() ? L.t("Bookmarked {ref}", { ref: passageLabel(id) }) : "Bookmark removed"); };
   $("listen-verse").onclick = () => { closeVerse(); listen.start(span); };
   $("share-verse").onclick = () => window.Share?.verse({ ref: `${bookName} ${c}:${n}`, text: plainVerse(row[1]),
     note: "Open Plain English Translation · draft", url: Share.here("index.html", refHash(b, c, n)).replace(/index\.html#/, "#") });
@@ -1766,7 +1779,7 @@ function saveAnnotation(id, a) {
 function plainVerse(text) { return (text || "").replace(/\[\^\w+\]/g, "").replace(/\*/g, ""); }
 function copyVerse(row) {
   const { b, c } = cur;
-  const s = `“${plainVerse(row[1])}” (${b.osis === "Ps" ? "Psalm" : b.n} ${c}:${row[0]}, Open Plain English Translation, draft)`;
+  const s = `“${plainVerse(row[1])}” (${psName(b)} ${c}:${row[0]}, Open Plain English Translation, draft)`;
   const done = () => toast("Copied");
   if (navigator.clipboard) navigator.clipboard.writeText(s).then(done).catch(() => fallbackCopy(s, done));
   else fallbackCopy(s, done);
@@ -1789,7 +1802,7 @@ function parseOsisRef(ref) {
   const m = /^([1-3]?[A-Za-z]+)\.(\d+)(?:\.(\d+))?(?:-(\d+)(?:\.(\d+))?)?$/.exec(ref);
   const b = m && byOsis[m[1]];
   if (!b) return null;
-  const c = +m[2], v = m[3] ? +m[3] : null, name = b.osis === "Ps" ? "Psalm" : b.n;
+  const c = +m[2], v = m[3] ? +m[3] : null, name = psName(b);
   let label = `${name} ${c}` + (v ? `:${v}` : "");
   if (m[4]) label += m[5] ? `–${m[4]}:${m[5]}` : v ? `–${m[4]}` : `–${m[4]}`;
   return { b, c, v, label };
@@ -1854,7 +1867,7 @@ async function renderStudy() {
 }
 // A verse's text, for a preview under a reference.
 async function verseText(b, c, v) {
-  const data = await getJSON("text/" + b.slug + ".json");
+  const data = await getJSON(textPath(b));
   const ch = data.chapters[c - 1];
   if (!ch) return [];
   return ch.v.filter(r => (v == null ? r[0] <= 3 : r[0] === v)).map(r => [r[0], plainVerse(r[1])]);
@@ -2027,7 +2040,7 @@ function rangeOf(ref) {
 }
 async function passage(ref) {
   const r = rangeOf(ref);
-  const data = await getJSON("text/" + r.b.slug + ".json");
+  const data = await getJSON(textPath(r.b));
   const out = [];
   for (let c = r.c1; c <= r.c2; c++) {
     const ch = data.chapters[c - 1];
@@ -2160,7 +2173,7 @@ function updatePlanSub() {
   if (!plan) { sub.textContent = ""; return; }
   getJSON("study/plans.json").then(P => {
     const p = P.find(x => x.id === plan.id);
-    if (p) sub.textContent = `${plan.done.length} of ${p.days.length} days`;
+    if (p) sub.textContent = L.t("{done} of {n} days", { done: plan.done.length, n: p.days.length });
   }).catch(() => {});
 }
 async function renderPlans() {
@@ -2183,26 +2196,26 @@ async function renderPlans() {
   const kids = [];
   if (show == null) kids.push(el("div", { class: "today" }, el("div", { class: "kind", text: p.n }), el("h3", { text: "You’ve finished this plan." })));
   else {
-    const behind = show < today ? ` · ${today - show} day${today - show === 1 ? "" : "s"} behind` : show > today ? " · ahead of schedule" : "";
+    const behind = show < today ? " · " + L.plural(today - show, "{n} day behind", "{n} days behind") : show > today ? " · " + L.t("ahead of schedule") : "";
     kids.push(el("div", { class: "today" },
       el("div", { class: "kind", text: `${p.n} · day ${show + 1} of ${p.days.length}${behind}` }),
       el("h3", { text: show === today ? "Today’s reading" : "Next reading" }),
       el("div", { class: "reads" }, ...readings(p.days[show]).map(([t, , i]) => el("a", { href: dayHref(show, i), onclick: () => closeSheets(), text: t }))),
       el("div", { class: "progress", "aria-hidden": "true" }, el("i", { style: `width:${(100 * done.size / p.days.length).toFixed(1)}%` })),
-      el("div", { class: "actions" }, el("a", { class: "btn solid", href: dayHref(show, 0), onclick: () => closeSheets(), text: `Read day ${show + 1}` }),
-        el("button", { class: "btn line", type: "button", text: `Mark day ${show + 1} read`, onclick: () => toggle(show) }))));
+      el("div", { class: "actions" }, el("a", { class: "btn solid", href: dayHref(show, 0), onclick: () => closeSheets(), text: L.t("Read day {d}", { d: show + 1 }) }),
+        el("button", { class: "btn line", type: "button", text: L.t("Mark day {d} read", { d: show + 1 }), onclick: () => toggle(show) }))));
   }
   const list = el("ol", { class: "days" });
   p.days.forEach((refs, d) => {
-    const cb = el("input", { type: "checkbox", "aria-label": `Day ${d + 1} read` });
+    const cb = el("input", { type: "checkbox", "aria-label": L.t("Day {d} read", { d: d + 1 }) });
     cb.checked = done.has(d);
     cb.onchange = () => toggle(d);
-    list.append(el("li", { class: (done.has(d) ? "done " : "") + (d === show ? "cur" : "") }, cb, el("span", { class: "d", text: `Day ${d + 1}` }),
+    list.append(el("li", { class: (done.has(d) ? "done " : "") + (d === show ? "cur" : "") }, cb, el("span", { class: "d", text: L.t("Day {d}", { d: d + 1 }) }),
       el("span", {}, ...readings(refs).flatMap(([t, , i], k) => [k ? ", " : null, el("a", { href: dayHref(d, i), onclick: () => closeSheets(), text: t })]).filter(Boolean))));
   });
   kids.push(list, el("div", { class: "actions", style: "margin-top:12px" },
-    el("button", { class: "btn line", type: "button", text: "Stop this plan", onclick: () => { if (confirm(`Stop “${p.n}”? The days you’ve marked will be cleared.`)) { plan = null; savePlan(); renderPlans(); } } })),
-    el("p", { class: "count", text: `Started ${new Date(plan.start).toLocaleDateString(undefined, { day: "numeric", month: "long", year: "numeric" })}. Your progress is kept on this device${reader.signedIn ? " and in your account" : ""}.` }));
+    el("button", { class: "btn line", type: "button", text: "Stop this plan", onclick: () => { if (confirm(L.t("Stop “{plan}”? The days you’ve marked will be cleared.", { plan: L.t(p.n) }))) { plan = null; savePlan(); renderPlans(); } } })),
+    el("p", { class: "count", text: L.t(reader.signedIn ? "Started {date}. Your progress is kept on this device and in your account." : "Started {date}. Your progress is kept on this device.", { date: new Date(plan.start).toLocaleDateString(L.locale, { day: "numeric", month: "long", year: "numeric" }) }) }));
   body.replaceChildren(...kids);
   setTimeout(() => list.querySelector(".cur")?.scrollIntoView({ block: "center" }), 30);
 }
@@ -2440,7 +2453,7 @@ function renderBooks() {
   const recent = store.get("recent", []).filter(r => bySlug[r.s] && !(cur && bySlug[r.s] === cur.b && r.c === cur.c)).slice(0, 8);
   $("pk-recent").hidden = !recent.length;
   $("recent").replaceChildren(...recent.map(r => {
-    const b = bySlug[r.s], btn = el("button", { type: "button", onclick: () => { closeSheets(); go(b, r.c); } }, `${b.osis === "Ps" ? "Psalm" : b.n} ${r.c}`);
+    const b = bySlug[r.s], btn = el("button", { type: "button", onclick: () => { closeSheets(); go(b, r.c); } }, `${psName(b)} ${r.c}`);
     btn.insertAdjacentHTML("afterbegin", '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><circle cx="12" cy="12" r="8.5"/><path d="M12 7.5V12l3 2"/></svg>');
     return btn;
   }));
@@ -2462,7 +2475,7 @@ function pkExpand(b, { instant = false } = {}) {
     for (const id in notes) { const [o, c] = id.split("."); if (o === b.osis) mine.add(+c); }
     const grid = el("ol", { class: "pk-grid", "aria-label": `${b.osis === "Ps" ? "Psalms" : b.n}: chapters` });
     b.s.forEach((st, j) => grid.append(el("li", {}, el("button", { type: "button", class: mine.has(j + 1) ? "mine" : "",
-      "aria-current": String(!!cur && cur.b === b && cur.c === j + 1), "aria-label": `${b.osis === "Ps" ? "Psalm" : b.n} ${j + 1}${mine.has(j + 1) ? ", with your notes" : ""}`,
+      "aria-current": String(!!cur && cur.b === b && cur.c === j + 1), "aria-label": `${psName(b)} ${j + 1}${mine.has(j + 1) ? ", with your notes" : ""}`,
       text: j + 1, onclick: () => { closeSheets(); go(b, j + 1); } }))));
     ch.firstChild.append(grid);
   }
@@ -2505,7 +2518,7 @@ function pkFilter(text) {
   const go_ = $("pk-go");
   go_.hidden = !(ref && hasNumber);
   if (!go_.hidden) {
-    go_.replaceChildren(el("span", { text: `${ref.b.osis === "Ps" ? "Psalm" : ref.b.n} ${ref.c}${ref.v ? ":" + ref.v : ""}` }), "→");
+    go_.replaceChildren(el("span", { text: `${psName(ref.b)} ${ref.c}${ref.v ? ":" + ref.v : ""}` }), "→");
     go_.onclick = () => { closeSheets(); go(ref.b, ref.c, ref.v); };
   }
   $("pk-list").classList.toggle("pk-filtering", !!q);
@@ -2551,7 +2564,7 @@ function drawStrip(hits) {
     if (k === 39) { bars.append(el("span", { class: "gap" })); parts.append(el("span", { class: "gap" })); }
     const c = n[b.slug] || 0;
     const btn = el("button", { type: "button", class: c ? null : "none", title: `${b.n}: ${c ? c.toLocaleString("en-US") + " verse" + (c === 1 ? "" : "s") : "none"}`,
-      "aria-label": `${b.n}, ${c} matching verse${c === 1 ? "" : "s"}`, "aria-pressed": String(searchBook === b.slug), disabled: c ? null : true,
+      "aria-label": `${b.n}, ` + L.plural(c, "{n} matching verse", "{n} matching verses"), "aria-pressed": String(searchBook === b.slug), disabled: c ? null : true,
       style: `--w:${bookVerses[b.slug]};--d:${c ? (0.3 + 0.7 * Math.sqrt(dens(b.slug) / max)).toFixed(3) : 0}`,
       onclick: () => { searchBook = searchBook === b.slug ? null : b.slug; runSearch(); } });
     bars.append(btn);
@@ -2574,7 +2587,7 @@ async function runSearch() {
   const ref = parseRef(q);
   if (ref && /\d/.test(q)) {
     out.append(el("li", {}, el("button", { type: "button", onclick: () => { closeSheets(); go(ref.b, ref.c, ref.v); } },
-      el("span", { class: "r", text: "Go to" }), el("span", { class: "s", text: `${ref.b.osis === "Ps" ? "Psalm" : ref.b.n} ${ref.c}${ref.v ? ":" + ref.v : ""}` }))));
+      el("span", { class: "r", text: "Go to" }), el("span", { class: "s", text: `${psName(ref.b)} ${ref.c}${ref.v ? ":" + ref.v : ""}` }))));
   }
   if (!searchData) {
     $("q-count").textContent = "Loading the text…";
@@ -2603,7 +2616,7 @@ async function runSearch() {
     for (const m of r[3].matchAll(mark)) { s.append(r[3].slice(last, m.index), el("mark", { text: m[0] })); last = m.index + m[0].length; }
     s.append(r[3].slice(last));
     out.append(el("li", {}, el("button", { type: "button", onclick: () => { closeSheets(); go(b, r[1], r[2]); } },
-      el("span", { class: "r", text: `${b.osis === "Ps" ? "Psalm" : b.n} ${r[1]}:${r[2]}` }), s)));
+      el("span", { class: "r", text: `${psName(b)} ${r[1]}:${r[2]}` }), s)));
   }
 }
 $("q").addEventListener("input", () => { clearTimeout(searchTimer); searchTimer = setTimeout(runSearch, 220); });
@@ -2621,7 +2634,7 @@ function renderMine() {
     const [o, c, v] = id.split(".");
     const b = byOsis[o], a = notes[id];
     list.append(el("li", {}, el("button", { type: "button", onclick: () => { closeSheets(); go(b, +c, +v); } },
-      el("span", { class: "r" }, a.h ? el("span", { class: "dot", style: `background:var(--hl-${a.h})` }) : null, `${b.osis === "Ps" ? "Psalm" : b.n} ${c}:${v}`),
+      el("span", { class: "r" }, a.h ? el("span", { class: "dot", style: `background:var(--hl-${a.h})` }) : null, `${psName(b)} ${c}:${v}`),
       a.n ? el("span", { class: "n", text: a.n }) : null)));
   }
 }
@@ -2931,7 +2944,7 @@ async function openWeb(i, opts = {}) {
   if (ref && byOsis[ref[0]]) {
     const bk = byOsis[ref[0]];
     acts.append(el("button", { class: "btn solid", type: "button", onclick: () => { closeSheets(); closeVerse(); go(bk, ref[1], ref[2] || undefined); },
-      text: `Read ${bookName(bk)} ${ref[1]}${ref[2] ? ":" + ref[2] : ""}` }));
+      text: L.t("Read {ref}", { ref: `${bookName(bk)} ${ref[1]}${ref[2] ? ":" + ref[2] : ""}` }) }));
   }
   acts.append(el("a", { class: "btn line", href: "graph.html#" + W.hash(i), text: "Open in the full web" }));
   if (W.gen.has(i)) acts.append(el("a", { class: "btn line", href: `genealogy.html#p${W.gen.get(i)}`, text: "In the genealogy" }));
@@ -3002,7 +3015,7 @@ function bookmarkSelection() {
   setBookmark(first, last);
   getSelection().removeAllRanges();
   $("hl-bar").hidden = true;
-  toast(`Bookmarked ${passageLabel(first, last)}`);
+  toast(L.t("Bookmarked {ref}", { ref: passageLabel(first, last) }));
 }
 function updateBookmarksSub() {
   const n = Object.values(notes).filter(a => a.b).length;
@@ -3020,9 +3033,9 @@ async function renderBookmarks() {
       el("button", { class: "go", type: "button", onclick: () => { closeSheets(); go(r.b, r.c, r.v); } },
         el("b", { text: passageLabel(id, end) }), words,
         el("small", { text: new Date(notes[id].t || Date.now()).toLocaleDateString(undefined, { day: "numeric", month: "short", year: "numeric" }) })),
-      el("button", { class: "rm", type: "button", "aria-label": `Remove the bookmark at ${passageLabel(id, end)}`, onclick: () => { setBookmark(id, null); renderBookmarks(); } }, "✕"));
+      el("button", { class: "rm", type: "button", "aria-label": L.t("Remove the bookmark at {ref}", { ref: passageLabel(id, end) }), onclick: () => { setBookmark(id, null); renderBookmarks(); } }, "✕"));
     list.append(li);
-    getJSON("text/" + r.b.slug + ".json").then(d => { const row = d.chapters[r.c - 1]?.v.find(x => x[0] === r.v); if (row) words.textContent = plainVerse(row[1]); }).catch(() => {});
+    getJSON(textPath(r.b)).then(d => { const row = d.chapters[r.c - 1]?.v.find(x => x[0] === r.v); if (row) words.textContent = plainVerse(row[1]); }).catch(() => {});
   }
 }
 $("open-bookmarks").onclick = () => { openSheet("bookmarks"); renderBookmarks(); };
@@ -3099,17 +3112,17 @@ const listen = (() => {
     const firstOfChapter = ctx.sec.querySelector(".v") === sp;
     const go = () => readFrom(nextSpan(sp));
     const verse = () => (text ? say(text, go) : go());
-    if (firstOfChapter) say(`${ctx.b.osis === "Ps" ? "Psalm" : ctx.b.n}, ${ctx.b.osis === "Ps" ? "" : "chapter "}${ctx.c}.`, verse);
+    if (firstOfChapter) say(`${psName(ctx.b)}, ${ctx.b.osis === "Ps" ? "" : "chapter "}${ctx.c}.`, verse);
     else verse();
   }
   function finishPlan() {
     playing = false; render();
     mark(null);
     const day = view.day;
-    say(`The end of day ${day + 1}.`, () => {});
+    say(L.t("The end of day {d}.", { d: day + 1 }), () => {});
     playing = false;
     $("plan-end").scrollIntoView({ block: "center", behavior: "smooth" });
-    toast(`Day ${day + 1} read aloud. Mark it read below.`, 3600);
+    toast(L.t("Day {d} read aloud. Mark it read below.", { d: day + 1 }), 3600);
   }
   async function keepAwake(yes) {
     try {
@@ -3411,7 +3424,7 @@ $("open-project").onclick = () => openSheet("project");
 // config.js loads after this script, so read it once the page has loaded.
 addEventListener("DOMContentLoaded", () => {
   const cfg = window.SITE_CONFIG || {};
-  const ref = cur => (cur ? ` (${cur.b.osis === "Ps" ? "Psalm" : cur.b.n} ${cur.c})` : "");
+  const ref = cur => (cur ? ` (${psName(cur.b)} ${cur.c})` : "");
   for (const id of ["feedback-link", "menu-feedback"]) {
     const a = $(id);
     if (cfg.feedback) a.onclick = () => { a.href = `mailto:${cfg.feedback}?subject=${encodeURIComponent("Plain English Bible" + ref(cur))}`; };
@@ -3473,14 +3486,22 @@ function route() {
 }
 applySettings();
 autoScroll.render();
-getJSON("books.json").then(list => {
+Promise.all([getJSON("books.json"), !L.en && L.LANGS[LANG].bible ? getJSON(`i18n/${LANG}/books.json`).catch(() => ({})) : {}]).then(([list, lbooks]) => {
+  LBOOKS = lbooks;
+  // Each book keeps its English name (b.en: addresses, and searching in English) and takes the
+  // language's (b.n), with its short forms for "go to" (b.alt), from the dictionary.
+  for (const b of list) {
+    b.en = b.n;
+    const local = L.books && L.books[b.osis];
+    if (local) { b.n = local[0]; b.alt = local.slice(1); }
+  }
   BOOKS = list;
   for (const b of BOOKS) { bySlug[b.slug] = b; byOsis[b.osis] = b; }
   buildAliases();
   addEventListener("hashchange", route);
   route();
 }).catch(() => { $("loading").textContent = "The Bible couldn't be loaded. Check your connection and reload the page."; });
-if ("serviceWorker" in navigator && /^https?:$/.test(location.protocol) && !embedded) navigator.serviceWorker.register("sw.js?v=40").catch(() => {});
+if ("serviceWorker" in navigator && /^https?:$/.test(location.protocol) && !embedded) navigator.serviceWorker.register("sw.js?v=41").catch(() => {});
 
 /* ---------- For account.js: highlights and notes, and two of the reader's tools ---------- */
 var reader = {

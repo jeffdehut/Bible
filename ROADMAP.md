@@ -436,8 +436,10 @@ made from the Hebrew, Aramaic and Greek like the English one. Its guide is
   and 裡 besides the English ones.
 - **Pilot:** Mark 1–2 drafted. Next: the rest of Mark, then review of the glossary's proposed
   terms (基督, 經學家, 他 for God) before going further.
-- **In the reader (later).** A language switch for the text and the app's own interface, and
-  Chinese beside English or the original languages; search needs its own indexing for Chinese.
+- **In the app (begun).** A language switch on every page (`i18n.js`): the interface, the books'
+  names and the names of people and places in Chinese, and the Chinese text where it is
+  translated. Still to come: the wording scripts build (`scripts/i18n.py --built`), long
+  descriptions (timeline, people, dictionary), search in Chinese, and Chinese beside English.
 - **Review.** Native speakers who read Hebrew or Greek, in the same draft → checked → reviewed
   → approved process.
 - **License.** CC BY 4.0, like the English.

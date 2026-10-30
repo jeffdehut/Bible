@@ -95,6 +95,30 @@
       }
       into.append(h, ul);
     }
+    // The languages the site speaks: each named in itself. Choosing one shows the page again in it.
+    const L = window.I18N;
+    if (!L || Object.keys(L.LANGS).length < 2) return;
+    const h = document.createElement("h3");
+    h.className = "menu-group"; h.textContent = "Language";
+    const row = document.createElement("div");
+    row.className = "menu-lang"; row.setAttribute("role", "group"); row.setAttribute("aria-label", "Language");
+    for (const [code, info] of Object.entries(L.LANGS)) {
+      const b = document.createElement("button");
+      b.type = "button"; b.lang = code; b.textContent = info.name; b.setAttribute("translate", "no");
+      b.setAttribute("aria-pressed", String(code === L.lang));
+      b.onclick = () => L.set(code);
+      row.append(b);
+    }
+    into.append(h, row);
+    if (!document.getElementById("menu-lang-css")) {
+      const st = document.createElement("style");
+      st.id = "menu-lang-css";
+      st.textContent = `.menu-lang { display: flex; flex-wrap: wrap; gap: 8px; margin: 0 0 6px; }
+.menu-lang button { min-height: 40px; padding: 0 16px; border-radius: 999px; border: 1px solid var(--line, #e4e2db); background: transparent; color: var(--ink, #161b26); font: 500 15px/1 system-ui, -apple-system, "Segoe UI", sans-serif; cursor: pointer; }
+.menu-lang button:hover { background: var(--lapis-soft, #e7ecf8); }
+.menu-lang button[aria-pressed="true"] { background: var(--lapis, #2646a1); border-color: var(--lapis, #2646a1); color: #fff; }`;
+      document.head.append(st);
+    }
   }
 
   // In the reader: fill its menu sheet, now, before the reader's own script runs.

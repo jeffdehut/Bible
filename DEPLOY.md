@@ -100,6 +100,7 @@ python3 scripts/explore.py       # arcs.html and library.html (after connections
 python3 scripts/web3d.py         # web3d.html and data/web3d.json, the web laid out in 3D (after connections.py; about a minute); "page" rebuilds only the page
 python3 scripts/wisdom.py        # psalms.html (types in data/psalms.csv) and proverbs.html, after reader.py and connections.py
 python3 scripts/referents.py     # data/bible/referents/: who "he" is, from MACULA (after reader.py; downloads once into .cache/macula/)
+python3 scripts/names_zh.py      # i18n/zh-Hant.names.js: people and places as the Chinese Union Version spells them (after connections.py; downloads once into .cache/cuv/)
 ```
 
 Then push the branch, and merging it into `main` puts it live. The pages are built from templates in `scripts/templates/`; edit those, not the built pages.
@@ -110,6 +111,27 @@ seen. Raise the `?v=` number after `config.js` and `account.js` in `index.html` 
 `scripts/templates/privacy.html`) when they change: Porkbun's servers keep files for 30 days, so a
 changed script needs a new address. Pages themselves are fetched network-first by the worker, so a
 published change shows on the first visit after it; data files show on the visit after.
+
+## Languages
+
+The site speaks each language listed in `LANGS` in `i18n.js` (English and Traditional Chinese
+so far); the menu's **Language** buttons switch between them, and a first visit follows the
+browser's language. Each language has:
+
+- `i18n/<code>.js`, its dictionary from the site's English wording, edited by hand, with the
+  books' names (`I18N.books`). `python3 scripts/i18n.py` says how much of the site's wording each
+  dictionary has, and `--missing <code>` lists what it lacks, ready to translate.
+- `i18n/<code>.names.js`, the names of people and places (for Chinese, `scripts/names_zh.py`,
+  from the Chinese Union Version).
+- Its Bible text where it has one: `python3 scripts/translation.py --lang zh` writes
+  `data/bible/i18n/zh-Hant/`, after `reader.py`. Chapters not yet translated show in English,
+  with a line saying so.
+
+A page's words are translated as they appear, when their whole wording is in the dictionary.
+Wording a script puts together from parts goes through `I18N.t("… {n} …", {n})` or
+`I18N.plural`, and text drawn on a canvas through `I18N.t`; `scripts/i18n.py --built` lists what
+still needs that. When a dictionary changes, raise the `?v=` after `i18n.js` everywhere (it is
+passed on to the dictionaries).
 
 ## Accounts
 
