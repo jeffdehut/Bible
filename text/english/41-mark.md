@@ -507,7 +507,7 @@
 
 **21** An opportunity came on Herod's birthday, when he gave a banquet for his high officials, his military commanders, and the leading men of Galilee.
 
-**22** His daughter Herodias[^6-6] came in and danced, and she pleased Herod and his guests. The king said to the girl, "Ask me for whatever you want, and I will give it to you."
+**22** The daughter of Herodias herself[^6-6] came in and danced, and she pleased Herod and his guests. The king said to the girl, "Ask me for whatever you want, and I will give it to you."
 
 **23** He swore an oath to her: "Whatever you ask me, I will give you, up to half my kingdom."
 
@@ -582,7 +582,7 @@
 [^6-3]: Herod Antipas, ruler of Galilee. He was not formally a king.
 [^6-4]: Many manuscripts read "He was saying".
 [^6-5]: Many manuscripts read "he did many things".
-[^6-6]: Many manuscripts read "the daughter of Herodias herself". The historian Josephus names Herodias's daughter Salome.
+[^6-6]: Some manuscripts read "his daughter Herodias". The historian Josephus names Herodias's daughter Salome.
 [^6-7]: A denarius was a day's wage for a laborer, so this was about eight months' wages.
 [^6-8]: Or "gave thanks".
 [^6-9]: Literally "about the fourth watch of the night", between 3 and 6 a.m.
