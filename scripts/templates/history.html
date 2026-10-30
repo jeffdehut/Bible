@@ -267,6 +267,29 @@ button { font: inherit; color: inherit; }
 .century .st { grid-column: 2; display: inline-flex; align-items: center; gap: 6px; font-size: 12.5px; color: var(--muted); }
 .century .st i { width: 8px; height: 8px; border-radius: 50%; background: var(--c); flex: none; }
 .visually-hidden { position: absolute; width: 1px; height: 1px; overflow: hidden; clip: rect(0 0 0 0); white-space: nowrap; }
+
+/* The card slides away: on a phone, drag it down by its top to leave only that showing; on a
+   wide screen, the arrow tucks it to the side. A tap on what's left brings it back. */
+.card { transition: transform 0.3s cubic-bezier(.2, .7, .2, 1); touch-action: pan-y; }
+.card .tuck { position: absolute; top: 10px; right: 46px; width: 34px; height: 34px; border: 0; background: transparent; border-radius: 9px; cursor: pointer; display: grid; place-items: center; color: var(--muted); }
+.card .tuck:hover { background: var(--lapis-soft); }
+.card .tuck svg { transition: transform 0.3s; }
+.card.tucked { cursor: pointer; }
+.card.tucked .tuck svg { transform: rotate(180deg); }
+@media (min-width: 761px) {
+  .card.tucked { transform: translateX(calc(100% - 44px)); }
+  .card.tucked > :not(.tuck) { opacity: 0.25; }
+  .card.tucked .tuck { right: auto; left: 5px; }
+  body.card-tucked .zoom { right: 64px !important; }
+  body.card-tucked .timebar { right: 64px !important; }
+}
+@media (max-width: 760px) {
+  .card .tuck { top: 12px; }
+  .card .tuck svg { transform: rotate(90deg); }
+  .card.tucked .tuck svg { transform: rotate(-90deg); }
+  .card.tucked { transform: translateY(calc(100% - 96px)); }
+  .card .grab, .card .kicker, .card h2 { cursor: grab; touch-action: none; }
+}
 </style>
 
 <!-- APPBAR -->
@@ -683,6 +706,51 @@ button { font: inherit; color: inherit; }
     tip.style.left = `${left}px`; tip.style.top = `${top}px`;
   }
   function hideTip() { tip.hidden = true; }
+
+
+  /* ---------- The card slides away (see the style above) ---------- */
+  (function slidingCard(card) {
+    const TUCK = '<svg viewBox="0 0 24 24" width="18" height="18" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="m9 6 6 6-6 6"/></svg>';
+    const phone = () => innerWidth <= 760;
+    const set = on => { card.classList.toggle("tucked", on); document.body.classList.toggle("card-tucked", on && !card.hidden); };
+    // Each time the card is filled, it opens fully and gets its arrow.
+    new MutationObserver(() => {
+      if (card.querySelector(":scope > .tuck")) return;
+      const b = document.createElement("button");
+      b.type = "button"; b.className = "tuck"; b.innerHTML = TUCK;
+      b.setAttribute("aria-label", "Slide the card out of the way");
+      b.onclick = e => { e.stopPropagation(); set(!card.classList.contains("tucked")); };
+      card.append(b);
+      set(false);
+    }).observe(card, { childList: true });
+    new MutationObserver(() => { if (card.hidden) set(false); }).observe(card, { attributes: true, attributeFilter: ["hidden"] });
+    let y0 = null, dy = 0;
+    card.addEventListener("pointerdown", e => {
+      if (!phone() || !e.target.closest(".grab, .kicker, h2") || e.target.closest("button, a")) return;
+      y0 = e.clientY; dy = 0; card.style.transition = "none";
+      card.setPointerCapture(e.pointerId);
+    });
+    card.addEventListener("pointermove", e => {
+      if (y0 == null) return;
+      dy = e.clientY - y0;
+      const base = card.classList.contains("tucked") ? card.offsetHeight - 96 : 0;
+      card.style.transform = `translateY(${Math.max(0, base + dy)}px)`;
+    });
+    const end = () => {
+      if (y0 == null) return;
+      card.style.transition = ""; card.style.transform = "";
+      const tucked = card.classList.contains("tucked");
+      if (!tucked && dy > 60) set(true);
+      else if (tucked && dy < -30) set(false);
+      y0 = null;
+    };
+    card.addEventListener("pointerup", end);
+    card.addEventListener("pointercancel", end);
+    // A tap on the tucked card brings it back, rather than acting on what's under the tap.
+    card.addEventListener("click", e => {
+      if (card.classList.contains("tucked") && !e.target.closest(".close, .tuck") && Math.abs(dy) < 6) { e.preventDefault(); e.stopPropagation(); set(false); }
+    }, true);
+  })(document.getElementById("card"));
 
   // ---- The card
   const ICON = {
