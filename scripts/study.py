@@ -22,6 +22,7 @@ this repository's verse numbering (Hebrew numbering in the Old Testament).
 """
 
 import collections
+import difflib
 import html
 import json
 import os
@@ -148,6 +149,42 @@ def nave_topics(refs):
     topics, by_verse = [], collections.defaultdict(list)
     names = [title_case(k) for k, _ in entries]
     number = {k: i for i, (k, _) in enumerate(entries)}
+
+    bodies = {k: b.upper() for k, b in entries}
+
+    def resolve(target, hint=""):
+        """A "See" target as Nave's names it -> its topic's number. Nave's often points to a
+        shorter, plural, reordered or misspelled form of the name ("JESUS, NAMES OF" for the
+        topic "JESUS, THE CHRIST", "AFFLICTION" for "AFFLICTIONS AND ADVERSITIES", "LIFE
+        EVERLASTING" for "EVERLASTING LIFE", "SERIAH" for "SERAIAH"). Among several names that
+        fit, the one whose entry has the part pointed to ("DUTIES OF") is taken, else the shortest."""
+        t = re.sub(r"\s+", " ", target.upper()).strip(" ,.;:")
+        h = re.sub(r"\s+", " ", hint.upper()).strip(" ,.;:")
+        if h and f"{t}, {h}" in number:
+            return number[f"{t}, {h}"]
+        words = t.split(" ")
+        base = [t, re.sub(r" OF$", "", t), t.split(",")[0]] + ([t[:-1] + "IES"] if t.endswith("Y") else [])
+        if len(words) == 2:
+            base.append(f"{words[1]} {words[0]}")
+        forms = []
+        for f in base:
+            forms += [f, f + "S", f + "ES"] + ([f[:-1]] if f.endswith("S") else []) + ([f[:-2]] if f.endswith("ES") else [])
+        for f in forms:
+            if f in number:
+                return number[f]
+        for f in forms:
+            cands = [k for k in number if k.startswith(f) and k[len(f):len(f) + 1] in (" ", ",", "(")]
+            if cands:
+                fit = [k for k in cands if h and h in bodies[k]]
+                return number[min(fit or cands, key=len)]
+        if len(words) > 1 and words[0] in number:             # "NIGHT TIME" -> NIGHT
+            return number[words[0]]
+        close = difflib.get_close_matches(t, list(number), n=1, cutoff=0.86)
+        if not close and len(t) >= 5:                           # the last letter wrong: DEKAH, DEKAR
+            close = [k for k in number if len(k) == len(t) and k[:-1] == t[:-1]][:1]
+        return number[close[0]] if close else None
+
+    unresolved = 0
     for t, (key, body) in enumerate(entries):
         body = re.sub(r"</?(entryFree|def)[^>]*>", "", body)
         lines = []
@@ -156,14 +193,35 @@ def nave_topics(refs):
             head, _, rest = part.partition("<list>")
             lines.append((head, 0))
             lines += [(it, 1) for it in re.findall(r"<item>(.*?)</item>", rest, re.S)]
-        subs, see = [], []
+        subs, see, missing = [], [], []
         for text, depth in lines:
             text = text.replace("→", "").strip()
             if not text:
                 continue
+            # A "See" with its target untagged ("See PURSE") is tagged here.
+            text = re.sub(r"^(\s*See )([A-Z][A-Z ,'-]+)$", lambda m: f'{m[1]}<ref target="Nave:{m[2].strip()}">{m[2].strip()}</ref>', text)
             targets = re.findall(r'<ref target="Nave:([^"]+)">', text)
+            # A topic named inside an ordinary line ("Also called GEZER (which see)") is a link too.
+            if targets and not re.match(r"\s*See\b", re.sub(r"<[^>]+>", "", text)):
+                for x in targets:
+                    n = resolve(html.unescape(x))
+                    if n is not None and n != t:
+                        see.append(n)
             if re.match(r"\s*See\b", re.sub(r"<[^>]+>", "", text)) and targets:
-                see += [number[x] for x in targets if x in number and number[x] != t]
+                # Each target, with the part of it Nave's points to: "See JESUS, REJECTED".
+                for m in re.finditer(r'<ref target="Nave:([^"]+)">[^<]*</ref>([^<]*)', text):
+                    raw_hint = re.sub(r"[<>&;]|gt|amp", " ", html.unescape(html.unescape(m[2])))
+                    n = resolve(html.unescape(m[1]), raw_hint)
+                    if n is None:
+                        unresolved += 1
+                        missing.append(title_case(html.unescape(m[1])))
+                        continue
+                    if n == t:
+                        continue
+                    hint = re.sub(r"[<>&;]|gt|amp", " ", html.unescape(html.unescape(m[2])))
+                    hint = re.sub(r"\s+", " ", hint).strip(" ,.;:")
+                    hint = title_case(hint) if hint.isupper() else hint
+                    see.append([n, hint] if hint else n)
                 continue
             rs, verses = [], []
             for r in re.findall(r'<ref osisRef="([^"]+)"', text):
@@ -180,6 +238,7 @@ def nave_topics(refs):
             heading = re.sub(r"(\s*[;,]\s*:?\d[\d:\-–,\s]*)+(?=[;,]|$)", "", heading)
             heading = re.sub(r"\s{2,}", " ", heading).strip(" ;,")
             heading = re.sub(r"^0f\b", "Of", heading)   # a slip in the source
+            heading = heading.lstrip(". ")                 # a stray full stop before some headings
             if heading.isupper():
                 heading = title_case(heading)
             for b, c, v in verses:
@@ -189,8 +248,11 @@ def nave_topics(refs):
                 subs.append([heading, depth, rs])
         topic = {"n": names[t], "s": subs}
         if see:
-            topic["see"] = sorted(set(see), key=see.index)
+            topic["see"] = [x for k, x in enumerate(see) if x not in see[:k]]
+        if missing:
+            topic["gone"] = missing      # "See" targets this edition of Nave's doesn't have
         topics.append(topic)
+    print(f"Nave's cross-references not found: {unresolved}")
     return topics, by_verse
 
 
@@ -231,6 +293,17 @@ def easton_entries(refs):
         entries.append({"n": fs[0]["termLabel"], "s": senses})
         for verse in cite:
             by_verse[verse].append(n)
+    # "See ABRAHAM." points to another entry: written [[d:N|Abraham]], a link the reader opens.
+    index = {e["n"].lower(): k for k, e in enumerate(entries)}
+
+    def see(m):
+        name = m[2].strip(" ,.")
+        k = index.get(name.lower())
+        if k is None:
+            return m[0]
+        return f"{m[1]}[[d:{k}|{name.title()}]]"
+    for e in entries:
+        e["s"] = [re.sub(r"\b([Ss]ee (?:also )?)([A-Z][A-Z'-]+(?: [A-Z][A-Z'-]+)*)", see, x) for x in e["s"]]
     return entries, by_verse
 
 
