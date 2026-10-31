@@ -2,8 +2,8 @@
 <html lang="en">
 <head>
 <meta charset="utf-8">
-<script src="i18n.js?v=23"></script>
-<script src="ui.js?v=2"></script>
+<script src="i18n.js?v=24"></script>
+<script src="ui.js?v=3"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
 <title>BibleData.org</title>
 <meta name="claude:viewport-fit-sides" content="cover">
@@ -3949,7 +3949,7 @@ function anchorSelection(kind, value) {
 }
 // The wording a chapter is read in: a version, or our own translation in the site's language.
 const wordingOf = (chapter, b) => chapter.ver || (b && untranslated(b, chapter) ? "ours-en" : "ours-" + LANG);
-const STICKY_SVG = c => `<svg viewBox="0 0 20 20" aria-hidden="true"><path d="M2 2h16v11l-5 5H2z" fill="var(--hl-${c})" stroke="var(--ink-${c})" stroke-width="1.6" stroke-linejoin="round"/><path d="M13 18v-5h5" fill="var(--ink-${c})" fill-opacity=".35" stroke="var(--ink-${c})" stroke-width="1.6" stroke-linejoin="round"/><path d="M5.5 7h9M5.5 10.5h6" stroke="var(--ink-${c})" stroke-width="1.4" stroke-linecap="round" opacity=".7"/></svg>`;
+const STICKY_SVG = c => `<svg viewBox="0 0 20 20" aria-hidden="true"><path d="M2 2h16v11l-5 5H2z" style="fill:var(--hl-${c});stroke:var(--ink-${c})" stroke-width="1.6" stroke-linejoin="round"/><path d="M13 18v-5h5" style="fill:var(--ink-${c});fill-opacity:.35;stroke:var(--ink-${c})" stroke-width="1.6" stroke-linejoin="round"/><path d="M5.5 7h9M5.5 10.5h6" style="stroke:var(--ink-${c})" stroke-width="1.4" stroke-linecap="round" opacity=".7"/></svg>`;
 // Where a phrase stands in a verse, whole words, any case: [start, end], or null.
 function phraseIn(words, phrase) {
   const parts = (phrase || "").split(/[^\p{L}\p{N}'’]+/u).filter(Boolean);
@@ -4027,7 +4027,15 @@ const inEmojiSpan = vid => emojiParts(vid).length > 0;
 function repaintSpan(from, to) {
   emojiIndex = null;
   const lo = osisOrder(from), hi = osisOrder(to);
-  for (const sp of $("text").querySelectorAll(".v")) { const o = osisOrder(sp.dataset.id); if (o >= lo && o <= hi) paintVerse(sp); }
+  const done = [];
+  for (const sp of $("text").querySelectorAll(".v")) { const o = osisOrder(sp.dataset.id); if (o >= lo && o <= hi) { paintVerse(sp); done.push(sp); } }
+  redraw(done);
+}
+// A nudge so the browser lays out and draws the verses again now: Safari can otherwise leave a
+// note or emoji just put in the middle of a line undrawn until the page changes some other way.
+function redraw(spans) {
+  for (const sp of spans) void sp.offsetHeight;
+  requestAnimationFrame(() => { for (const sp of spans) { sp.style.transform = "translateZ(0)"; void sp.offsetHeight; sp.style.transform = ""; } });
 }
 // A verse's marks and notes, again, wherever it is shown.
 function paintVerse(span) {
@@ -4070,7 +4078,7 @@ function paintMarksOf(span, a, b, here) {
   if (ranges.length || tints.length) markRanges(span, [...tints, ...ranges]);
   placeStickies(span, span.dataset.id, a, here, b);
 }
-const repaint = id => { for (const sp of $("text").querySelectorAll(`.v[data-id="${id}"]`)) paintVerse(sp); };
+const repaint = id => { const sps = [...$("text").querySelectorAll(`.v[data-id="${id}"]`)]; for (const sp of sps) paintVerse(sp); redraw(sps); };
 
 /* The note card: a note's words, what you wrote, its color. */
 let nc = null;   // { id, k }
@@ -4161,7 +4169,7 @@ function barTool(label, icon, onclick, text) {
   return b;
 }
 // What to do with the chosen words: a row of its own, named, so it is always in view.
-const ICON_STICKY = '<svg class="icon" viewBox="0 0 20 20" aria-hidden="true"><path d="M2 2h16v11l-5 5H2z" fill="var(--hl-yellow)" stroke="var(--ink-yellow)" stroke-width="1.6" stroke-linejoin="round"/><path d="M13 18v-5h5" fill="var(--ink-yellow)" fill-opacity=".35" stroke="var(--ink-yellow)" stroke-width="1.6" stroke-linejoin="round"/><path d="M5.5 7h9M5.5 10.5h6" stroke="var(--ink-yellow)" stroke-width="1.4" stroke-linecap="round"/></svg>';
+const ICON_STICKY = '<svg class="icon" viewBox="0 0 20 20" aria-hidden="true"><path d="M2 2h16v11l-5 5H2z" style="fill:var(--hl-yellow);stroke:var(--ink-yellow)" stroke-width="1.6" stroke-linejoin="round"/><path d="M13 18v-5h5" style="fill:var(--ink-yellow);fill-opacity:.35;stroke:var(--ink-yellow)" stroke-width="1.6" stroke-linejoin="round"/><path d="M5.5 7h9M5.5 10.5h6" style="stroke:var(--ink-yellow)" stroke-width="1.4" stroke-linecap="round"/></svg>';
 const toolRow = (...tools) => el("div", { class: "row tools" }, ...tools);
 // The menu for marking words: a style (a highlight, a line, a box, lettering, or an emoji), then
 // its color (or which emoji), then a note, a bookmark, a copy. The same menu is the balloon over
@@ -4586,7 +4594,7 @@ Promise.all([getJSON("books.json"), Promise.all(ourLangs.map(k => getJSON(`i18n/
   addEventListener("hashchange", route);
   route();
 }).catch(() => { $("loading").textContent = "The Bible couldn't be loaded. Check your connection and reload the page."; });
-if ("serviceWorker" in navigator && /^https?:$/.test(location.protocol) && !embedded) navigator.serviceWorker.register("sw.js?v=64").catch(() => {});
+if ("serviceWorker" in navigator && /^https?:$/.test(location.protocol) && !embedded) navigator.serviceWorker.register("sw.js?v=65").catch(() => {});
 
 /* ---------- For account.js: highlights and notes, and two of the reader's tools ---------- */
 var reader = {

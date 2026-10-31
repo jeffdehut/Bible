@@ -219,8 +219,9 @@ html.ui-theming *, html.ui-theming *::before, html.ui-theming *::after { transit
   :where(.book, .glance li, .about > div):hover { transform: translateY(-2px); box-shadow: 0 8px 22px rgb(0 0 0 / 8%); }
   .ui-sheet:not([hidden]) :where(.menu li, .glance li, .about > div, .ver-list li) { animation: ui-rise .38s cubic-bezier(.2, .8, .2, 1) both; }
   ${Array.from({ length: 14 }, (_, i) => `.ui-sheet:not([hidden]) :where(.menu li, .ver-list li):nth-child(${i + 1}), :where(.glance, .about) > :nth-child(${i + 1}) { animation-delay: ${i * 22}ms; }`).join("\n  ")}
-  .fresh { animation: ui-wash .6s ease both; }
-  .sticky.fresh, .emo.fresh { animation: ui-pop .45s cubic-bezier(.2, .8, .2, 1) both; }
+  /* No fill mode: if a browser doesn't run the animation, the mark is simply there. */
+  .fresh { animation: ui-wash .6s ease; }
+  .sticky.fresh, .emo.fresh { animation: ui-pop .45s cubic-bezier(.2, .8, .2, 1); }
 }`;
   const style = document.createElement("style");
   style.id = "ui-theme";
