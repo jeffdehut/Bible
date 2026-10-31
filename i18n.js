@@ -127,8 +127,10 @@
 
   if (lang !== "en") {
     // The dictionary loads before the page's own scripts run, so they can use it at once.
+    // People and places first (scripts/names_zh.py), then the site's own wording, which wins
+    // where the two share a word ("Sin" the place, and "Sin" in a chart).
+    if (LANGS[lang].names) document.write(`<script src="${ROOT}i18n/${lang}.names.js?v=${V}"><\/script>`);
     document.write(`<script src="${ROOT}i18n/${lang}.js?v=${V}"><\/script>`);
-    if (LANGS[lang].names) document.write(`<script src="${ROOT}i18n/${lang}.names.js?v=${V}"><\/script>`);   // people and places (scripts/names_zh.py)
     document.write(`<style>:lang(zh-Hant) em, :lang(zh-Hant) i, :lang(zh-Hant) cite { font-style: normal; }
 :lang(zh-Hant) body { font-synthesis: none; }</style>`);
     // Once the page is read, everything in it is translated, and whatever is added later.

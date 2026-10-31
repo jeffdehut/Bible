@@ -201,6 +201,9 @@ def book_data(stem, name, osis, others, nt_rates):
         hits = [[v["c"], v["v"]] for v in verses if test(v["ws"])]
         if hits:
             out["patterns"].append({"id": pid, "n": label, "h": hits})
+    # Why it says it was written, in its own words: "I write ... so that ..." (hina).
+    out["purpose"] = [[v["c"], v["v"]] for v in verses
+                      if any(s == 1125 and g.endswith("1S") for s, g in v["ws"]) and any(s == 2443 for s, _ in v["ws"])]
     for aid, label, nums, case in ADDRESS:
         hits = [[v["c"], v["v"]] for v in verses if any(s in nums and re.search(r"-V[SP]", g) for s, g in v["ws"])]
         if hits:
