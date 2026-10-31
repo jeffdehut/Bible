@@ -24,3 +24,4 @@ Found while drafting; not yet settled across books.
 - Behemoth 比希摩 (Job 40:15) is a coined transliteration; *go'el* is 救贖者 in Job 19:25 but 至近的親屬 in Ruth.
 - Psalm title terms of uncertain meaning are transliterated with coined forms (示迦庸, 希迦庸, 瑪斯基勒, 米克坦, 舍米尼, 尼希錄, 基提, 亞拉莫);
   慕拉便 follows the Union Version. A specialist should confirm the forms before Psalms goes further.
+- *ruach qodsheka* (Psalm 51:13): 你聖潔的靈 in the text, traditional 你的聖靈 in a note; Isaiah 63:10–11 should follow the same choice.
