@@ -568,6 +568,38 @@ Settled while drafting 1 Chronicles:
 | בִּירָה (the temple) | 宮殿 | *birah* noted (29:1). |
 | אֲדַרְכֹנִים | 達利克 | Persian gold coin, noted (29:7). |
 
+Settled while drafting 2 Chronicles:
+
+| Source | Rendering | Notes |
+|---|---|---|
+| Parallels with Kings (2 Chronicles 1–12) | 1 Kings' wording wherever the Hebrew is the same | Temple terms (大殿, 內殿, 前廊, 海, 盆座, 洗濯盆, 柱頂, 網子), the dedication prayer, the regnal formulas. Differences noted as 列王紀上8章25節作「……」; the parallel noted at the start of each section. |
+| Numbering of 2 Chronicles 1–2 | 1:18 = 和合本 2:1；2:1–17 = 和合本 2:2–18 | Noted at 1:18 and 2:1; other references give both. |
+| חוּרָם (king of Tyre) | 戶蘭 | As 1 Chronicles 14:1; noted 和合本「希蘭」 (2:2; 8:2; 9:10). |
+| חוּרָם אָבִי / אָבִיו (the craftsman) | 戶蘭‧亞比 | *Huram avi* noted (2:12; 4:16); 和合本 reads 2:12 as 「我父親希蘭所用的」, 4:16 「巧匠戶蘭」. |
+| הַבַּיִת הַגָּדוֹל; הֵיכָל | 大殿 | As 1 Kings 6 (3:5, 17). |
+| סִירוֹת; יָעִים; מִזְרָקוֹת; מִזְלָגוֹת | 盆；鏟子；盤子；肉叉 | 4:11, 16; *sirot* noted against 1 Kings 7:40. |
+| אַלְגּוּמִּים | 檀香木 | As 1 Kings 10:11 (*almuggim*); noted (2:7; 9:10). |
+| כִּיּוֹר (6:13) | 銅臺 | Noted: the word for 洗濯盆. |
+| מַעַל | 不忠 | *ma'al* noted (12:2): a key word in Chronicles. |
+| Records of prophets (9:29; 12:15) | 先知拿單的記錄；示羅人亞希雅的預言；先見易多的默示 | Statement form, as the Kings formula; 直譯「不是都寫在……上嗎？」 noted. |
+| כִּי טוֹב כִּי לְעוֹלָם חַסְדּוֹ | 因為他是美善的，他的慈愛永遠長存 | As 1 Chronicles 16:34 (5:13; 7:3). |
+| Parallels with Kings (2 Chronicles 13–24) | The wording of 1 Kings 15, 22 and 2 Kings 8, 11–12 wherever the Hebrew is the same | Regnal formulas as Kings (登基作猶大王；開始作王的時候是N歲；與他的祖先同睡，葬在大衛城); differences noted as 列王紀下11章6節作「……」. |
+| Numbering of 2 Chronicles 13–14 | 13:23 = 和合本 14:1；14:1–14 = 和合本 14:2–15 | Noted at 13:23 and 14:1. |
+| סֵפֶר הַמְּלָכִים לִיהוּדָה וְיִשְׂרָאֵל; סֵפֶר מַלְכֵי יִשְׂרָאֵל | 《猶大和以色列諸王記》；《以色列諸王記》 | 16:11; 20:34. 「諸王的書」 noted. הִנָּם כְּתוּבִים 都寫在……上, 「看哪」 noted. |
+| מִדְרַשׁ | 註釋 | 先知易多的註釋 (13:22)；《諸王記》的註釋 (24:27); *midrash* noted. |
+| שְׂרֵפָה (at a king's burial) | 為他燒起極大的火 | Noted: a ceremonial fire of spices (16:14; 21:19). |
+| Names the Union Version harmonizes (2 Chronicles 13–24) | The Hebrew in the text | 俄德的預言 (15:8, 和合本 adds 亞撒利雅)；米迦 (18:14, 和合本「米該雅」)；亞捫人 (20:1, 和合本「米烏尼人」)；以色列王 (21:2, 和合本「猶大王」)；拉瑪 (22:6, 和合本「拉末」). |
+| הִזְנָה | 使……行邪淫 | 「賣淫」 noted as the image of unfaithfulness (21:11, 13). |
+| Parallels with Kings (2 Chronicles 25–36) | The wording of 2 Kings 14–25 wherever the Hebrew is the same | Regnal formulas unchanged; differences noted as 列王紀下14章20節作「……」; the parallel noted at the start of each section. |
+| הֲלֹא הִנָּם כְּתוּבִים עַל־סֵפֶר מַלְכֵי יְהוּדָה וְיִשְׂרָאֵל | 都寫在《猶大和以色列諸王記》上 | 《以色列和猶大諸王記》 where the Hebrew has that order (27:7; 35:27; 36:8); 「看哪」, 「諸王的書」 noted. 33:18 《以色列諸王記》 (「諸王的話」). |
+| צָרַעַת; בֵּית הַחָפְשִׁית (26:19–23) | 嚴重的皮膚病；隔離的房子 | As 2 Kings 15:5; the glossary note. |
+| חַטָּאת (29:21–24) | 贖罪祭 | 或譯「潔淨祭」 noted. |
+| הָרָצִים (30:6, 10) | 傳信的人 | 「奔跑的人」 noted (護衞兵 in Kings). |
+| בְּנֵי הָעָם (35:5–13) | 平民 | 「民眾的子孫」 noted. |
+| Names the Union Version harmonizes (2 Chronicles 25–36) | The Hebrew in the text | 托哈 (34:22, 和合本「特瓦」 from 2 Kings 22:14). |
+| כּוֹרֶשׁ; פְּרָת | 古列；伯拉河 | The classic Union Version forms, not the 1989 edition's 塞魯士, 幼發拉底河 (35:20; 36:22); 居魯士 noted. |
+| 2 Chronicles 36:22–23 (Ezra 1:1–3) | Ezra to follow this wording where the Hebrew is the same | Differences to be noted in Ezra. |
+
 ## Style
 
 **Characters and words.** Plain words over the Union Version's literary ones (吊下去, not 縋下來). Hong Kong standard forms: 裏 (not 裡), 着 for the particle (看着、
