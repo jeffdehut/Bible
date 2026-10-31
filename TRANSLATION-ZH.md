@@ -434,6 +434,28 @@ Settled while drafting 2 Samuel:
 | הוֹקִיעַ (21:6, 9, 13) | 處決 | Noted: uncertain (impale, hang, expose). |
 | הַמַּלְאָךְ (24:16–17) | 天使 | *mal'akh* noted; מַלְאַךְ יְהוָה stays 耶和華的使者. |
 
+Settled while drafting 1 Kings:
+
+| Source | Rendering | Notes |
+|---|---|---|
+| Samuel's terms | 萬軍之耶和華；耶和華的受膏者；基利提人和比利提人；史官；書記；願王萬歲 | Unchanged, with the same notes. |
+| וַיִּשְׁכַּב X עִם־אֲבֹתָיו וַיִּקָּבֵר בְּעִיר דָּוִד | X與他的祖先同睡，葬在大衛城 | Fixed regnal formula for all of Kings; noted at its first occurrence in each book (2:10): 「與他的祖先一同躺臥」, a way of speaking of death. In speech (1:21) the same words. |
+| מָלַךְ X עַל־יִשְׂרָאֵל N שָׁנָה | X作以色列王N年 | 2:11. |
+| נָגִיד | 領袖 | As 1 Samuel 9:16; noted 和合本「君」 (1:35). |
+| שׁוֹפָר | 羊角號 | As Joshua (1:34). |
+| נִצָּבִים (Solomon's districts) | 地方長官 | *nitsavim* noted (4:5). מַס: 服勞役的人 (4:6; 5:27). |
+| Numbering of 1 Kings 5 | 5:1–14 = 和合本 4:21–34；5:15–32 = 和合本 5:1–18 | Noted at 4:20 and 5:1; other references give both, as 5章22節（和合本作5章8節）. |
+| Temple: הֵיכָל; דְּבִיר; אוּלָם; יָצִיעַ; צְלָעוֹת | 大殿；內殿；前廊；旁屋；廂房 | Each noted (6:3–5); 大殿 corresponds to the tabernacle's 聖所, and 8:8, 10 (הַקֹּדֶשׁ) have 聖所. |
+| קֹדֶשׁ הַקֳּדָשִׁים; כְּרוּבִים; כִּיּוֹר; לֶחֶם הַפָּנִים; מַחְתּוֹת | 至聖所；基路伯；洗濯盆；供奉在神面前的餅；火鼎 | The tabernacle's terms (Exodus); the other vessels too (盆、鏟子、盤子、碟子、燈剪). |
+| Temple measurements (1 Kings 6–7) | Chinese numerals in the text (二十肘, 一肘半, 半肘) | Metric values in notes (一肘約 45 厘米; 一掌寬約 7.5 厘米; 一罷特約 22 公升). |
+| הַיָּם (7:23–44) | 海 | Noted: 和合本「銅海」. |
+| מְכֹנוֹת; כֹּתָרוֹת; שְׂבָכָה | 盆座；柱頂；網子 | 1 Kings 7. |
+| חִירָם (the craftsman, 7:13) | 戶蘭 | As the Union Version, apart from King Hiram 希蘭; noted. |
+| בְּרוֹשׁ | 松木 | As 2 Samuel 6:5; *berosh* noted. |
+| כֹּר | 柯珥 | About 220 liters, noted (和合本「歌珥」). |
+| Months: זִו; בּוּל; אֵתָנִים | 西弗月；布勒月；以他念月 | With 二月, 八月, 七月 as the Hebrew has them; the modern months noted. |
+| Solomon's prayer (8:23–53) | In quotation marks, one paragraph per petition | The petitions keep one shape: 求你在天上（你居住的地方）垂聽……; עָשָׂה מִשְׁפָּט 伸張公義 (8:45, 49, 59). |
+
 ## Style
 
 **Characters and words.** Plain words over the Union Version's literary ones (吊下去, not 縋下來). Hong Kong standard forms: 裏 (not 裡), 着 for the particle (看着、
