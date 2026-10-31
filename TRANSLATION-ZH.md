@@ -485,6 +485,53 @@ Settled while drafting 1 Kings:
 | רוּחַ שֶׁקֶר (22:22–23) | 謊言的靈 | *ruach* noted. |
 | Numbering of 1 Kings 22 | 22:44–54 = 和合本 22:43b–53 | Noted at 22:44. |
 
+Settled while drafting 2 Kings:
+
+| Source | Rendering | Notes |
+|---|---|---|
+| 1 Kings' terms and regnal formulas | 與他的祖先同睡，與他的祖先一同葬在大衛城；猶大王X第N年，Y登基作王；X開始作王的時候是N歲；都寫在《以色列諸王記》／《猶大諸王記》上 | Unchanged; the burial note at its first occurrence in the book (8:24), the title note at its first occurrence in each chapter. A king of Judah 登基作王 where the Hebrew does not repeat 猶大 (8:16, 25). |
+| יְהוֹרָם; יוֹרָם | 約蘭 | Both forms of the name, for both kings, as the Union Version; noted (1:17; 8:16, 21; 9:15). |
+| בַּעַל זְבוּב | 巴力‧西卜 | Noted: 「蒼蠅之主」, mocking *Baal-zebul*; 別西卜 (馬可福音3章22節). |
+| דָּרַשׁ בְּ | 求問 | *darash be-* noted (1:2). |
+| שַׂר־חֲמִשִּׁים | 五十夫長 | |
+| חַי־יְהוָה וְחֵי־נַפְשְׁךָ | 我指着永活的耶和華，又指着你的性命起誓 | As 1 Samuel 25:26 (2:2; 4:30). |
+| אֲדֹנֶיךָ (a prophet's master) | 你的師傅 | 2:3, 5, 16. |
+| פִּי־שְׁנַיִם (2:9) | 加倍 | Noted: 「兩個口」, the firstborn's share. |
+| רֶכֶב יִשְׂרָאֵל וּפָרָשָׁיו (2:12) | 以色列的戰車和騎兵 | For 13:14 too. |
+| אַדֶּרֶת | 外衣 | |
+| מְצֹרָע | 患了嚴重的皮膚病；患嚴重皮膚病的人 | The glossary note at 5:1; 7:3 refers to it. |
+| אֲרָם | 亞蘭；亞蘭人 | Noted at 5:1: 傳統譯作「敘利亞」. |
+| שָׁלִישׁ | 軍官 | *shalish* noted (7:2; 9:25). |
+| סָרִיס | 官員 | Noted: also 太監 (8:6; 9:32). |
+| Units: סְאָה; קַב; כִּכָּר | 細亞；卡布；他連得 | Values in notes (約 7 公升；約 1.2 公升, 和合本「升」；約 34 公斤). |
+| חֲרֵי יוֹנִים / דִּבְיוֹנִים (6:25) | 鴿子糞 | Ketiv and the politer qere noted; perhaps a name for a cheap food. |
+| כֹּה יַעֲשֶׂה־לִּי אֱלֹהִים וְכֹה יוֹסִף (singular verb) | 願神重重懲罰我 | As Ruth 1:17 (6:31). |
+| נְאֻם־יְהוָה (in an oracle) | 這是耶和華的宣告 | *ne'um* noted (9:26). |
+| חֲגֹר מָתְנֶיךָ | 你束上腰 | Noted: tucking the robe into the belt (4:29; 9:1). |
+| הֲשָׁלוֹם (Jehu, 9:17–31) | 平安嗎？ | |
+| Israel's synchronisms (10–17) | 猶大王X第N年，Y在撒馬利亞登基作以色列王，作王N年 | Judah's: 以色列王X第N年，Y登基作猶大王; where the length is placed after Samaria, 他在撒馬利亞作王N年 (15:13, 17). Months: 作王六個月, 一個月. |
+| הִנָּם כְּתוּבִים | 都寫在……上 | As the question form; noted once (15:6). |
+| יְהוֹאָשׁ; יוֹאָשׁ; יוֹאָחָז | 約阿施；約哈斯 | Both forms, both kings named Joash, one rendering; noted (11:2; 12:1; 13:10; 14:1). |
+| Numbering of 2 Kings 12 | 12:1 = 和合本 11:21；12:2–22 = 和合本 12:1–21 | Noted at 11:20 and 12:1. |
+| עֲזַרְיָה; עֻזִּיָּה | 亞撒利雅；烏西雅 | As the Hebrew has each; noted (14:21; 15:13). |
+| פּוּל; תִּגְלַת פִּלְאֶסֶר | 普勒；提革拉‧毘列色 | The classic 毘, not the 1989 edition's 毗; noted as one king (15:19, 29). |
+| רָצִים; כָּרִי; עַם הָאָרֶץ (2 Kings 11) | 護衞兵；迦利人；國中的百姓 | *am ha-arets* noted (11:14). |
+| חֻקּוֹת; מִשְׁפַּט (2 Kings 17) | 律例；規矩 | One rendering each through 17:7–41, so the repetitions stand; *mishpat* noted (17:26). |
+| יָרֵא (worship, 2 Kings 17) | 敬畏 | Noted: 「懼怕」 (17:7). |
+| הֶעֱבִיר בָּאֵשׁ | 使……經火 | Noted: burned as a sacrifice (16:3; 17:17). |
+| 2 Kings 18:13–20:19 (Isaiah 36–39) | Isaiah to follow this wording where the Hebrew is the same | Differences noted as 以賽亞書36章5節作「……」; the parallel noted at 18:13, 19:1, 20:1. Rabshakeh's speech 「」, Hezekiah's message 『』, the king of Assyria's words unmarked (18:29–35). 19:21–28 poetry inside Isaiah's speech, Sennacherib's boast 『』. |
+| תַּרְתָּן; רַב־סָרִיס; רַב־שָׁקֵה | 他珥探；拉伯撒利；拉伯沙基 | Titles, transliterated as the Union Version; each noted (18:17), 拉伯沙基 「酒政長」. |
+| אֲשֶׁר עַל־הַבַּיִת | 王宮總管 | As 10:5 (1 Kings 16:9; 18:3 have 王宮總管). |
+| אֲרָמִית; יְהוּדִית (18:26, 28) | 亞蘭語；猶大話 | 猶大話 noted: Hebrew. |
+| נְחֻשְׁתָּן; בְּרֹאדַךְ בַּלְאֲדָן | 尼忽士但；比羅達‧巴拉但 | Transliterated (和合本「銅塊」); the Hebrew's Berodach, with Isaiah's 米羅達 noted (20:12). |
+| בְּתוּלַת בַּת־צִיּוֹן; בַּת יְרוּשָׁלַםִ | 錫安的處女；耶路撒冷的女兒 | Noted (19:21). |
+| סֵפֶר הַתּוֹרָה; סֵפֶר הַבְּרִית | 律法書；約書 | 22:8; 23:2. |
+| כְּמָרִים; קְדֵשִׁים; מַזָּלוֹת | 拜偶像的祭司；廟妓；星座 | Josiah's reform (23:5, 7). |
+| הַר הַמַּשְׁחִית | 毀滅山 | Noted with *har ha-mishchah* and 和合本「邪僻山」 (23:13). |
+| כַּשְׂדִּים | 迦勒底人 | Noted at its first occurrence in each chapter. |
+| רַב־טַבָּחִים | 護衞長 | Noted: 「屠夫長」或「廚師長」 (25:8). |
+| Dates (2 Kings 25) | 十月十日；第三十七年十二月二十七日 | Chinese numerals; modern dates and Jeremiah 52's differences in notes. |
+
 ## Style
 
 **Characters and words.** Plain words over the Union Version's literary ones (吊下去, not 縋下來). Hong Kong standard forms: 裏 (not 裡), 着 for the particle (看着、
