@@ -38,8 +38,17 @@ VERSIONS = {
     "web": ("engwebp", "en", "WEB", "World English Bible", "Public domain. World English Bible, by eBible.org.", "https://ebible.org/web/"),
     "kjv": ("eng-kjv2006", "en", "KJV", "King James Version", "Public domain (outside the United Kingdom). King James Version, 1769 text.", "https://ebible.org/kjv/"),
     "lsv": ("englsv", "en", "LSV", "Literal Standard Version", "Literal Standard Version, © 2020 Covenant Press. Licensed CC BY-SA 4.0 (creativecommons.org/licenses/by-sa/4.0).", "https://www.lsvbible.com"),
+    "net": ("engnet", "en", "NET", "NET Bible®", "Scripture quoted by permission. Quotations designated (NET) are from the NET Bible® copyright ©1996, 2019 by Biblical Studies Press, L.L.C. https://netbible.com All rights reserved.", "https://netbible.org"),
     "cuv": ("cmn-cu89t", "zh-Hant", "和合本", "和合本（繁體）", "公有領域。中文和合本，新標點繁體版。", "https://ebible.org/cmn-cu89t/"),
     "ccb": ("cmncbt", "zh-Hant", "當代譯本", "當代譯本（開放資源版）", "聖經當代譯本（開放資源版），© 1979, 2005, 2007, 2012, 2023 Biblica, Inc. 按照 CC BY-SA 4.0 授權使用（creativecommons.org/licenses/by-sa/4.0）。", "https://ebible.org/cmncbt/"),
+}
+# What a version asks to be shown with its words: a line under each chapter (with its name linked
+# to its site), and how a copied verse or a shared picture names it.
+NOTICES = {
+    "net": {"notice": "Scripture quoted by permission. Quotations designated (NET) are from the NET Bible® copyright ©1996, 2019 by Biblical Studies Press, L.L.C. All rights reserved.",
+            "cite": "NET", "share": "NET Bible® · netbible.com"},
+    "lsv": {"notice": "Literal Standard Version, © 2020 Covenant Press. Licensed CC BY-SA 4.0.", "cite": "LSV", "share": "Literal Standard Version (CC BY-SA 4.0)"},
+    "ccb": {"notice": "聖經當代譯本（開放資源版）© Biblica, Inc. 按照 CC BY-SA 4.0 授權使用。", "cite": "當代譯本", "share": "當代譯本（CC BY-SA 4.0）"},
 }
 # USFM book codes, in our order.
 CODES = ["GEN", "EXO", "LEV", "NUM", "DEU", "JOS", "JDG", "RUT", "1SA", "2SA", "1KI", "2KI", "1CH", "2CH",
@@ -199,7 +208,7 @@ def main():
             with open(os.path.join(out_dir, stem + ".json"), "w", encoding="utf-8", newline="\n") as fh:
                 json.dump(data, fh, ensure_ascii=False, separators=(",", ":"))
                 fh.write("\n")
-        listing.append({"id": vid, "lang": lang, "short": short, "name": name, "license": lic, "url": url})
+        listing.append({"id": vid, "lang": lang, "short": short, "name": name, "license": lic, "url": url, **NOTICES.get(vid, {})})
         print(f"{vid}: " + ", ".join(f"{k} {n:,}" for k, n in sorted(stats.items())))
     with open(os.path.join(OUT, "versions.json"), "w", encoding="utf-8", newline="\n") as fh:
         json.dump(listing, fh, ensure_ascii=False, indent=1)
