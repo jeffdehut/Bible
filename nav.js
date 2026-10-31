@@ -55,10 +55,9 @@
       ["maps", "Maps", "maps", "maps/index.html", "Bible maps, and the 1915 historical atlas"],
       ["history", "Timeline", "time", "history.html", "World history beside the Bible, from Creation"],
       ["genealogy", "Genealogy", "gen", "genealogy.html", "From Adam to Jesus, and every family"],
-      ["visual", "Visual Bible", "visual", "visual/index.html", "Each book seen whole, from its own words"],
+      ["visual", "Visual Bible", "visual", "library.html", "Each book on the shelf, and seen whole from its own words"],
       ["kings", "Kings", "kings", "kings.html", "The kings of Israel and Judah, with the prophets of their days"],
       ["arcs", "Cross-refs", "arcs", "arcs.html", "Every cross-reference in the Bible as an arc"],
-      ["library", "Bookshelf", "shelf", "library.html", "The 66 books as a bookshelf"],
     ]],
     ["About", "menu-about", [
       ["project", "This project", "project", "reader:project", "Who made it"],
@@ -69,8 +68,8 @@
   ];
   const here = new URL(location.href);
   const inReader = !!document.getElementById("site-menu");
-  const isVisual = /\/visual\/|\/(psalms|proverbs)\.html$/.test(here.pathname);
-  const isHere = where => (where === "visual/index.html" && isVisual) || !where.startsWith("reader:") && !where.startsWith("mailto:") && new URL(where, ROOT).pathname === here.pathname;
+  const isVisual = /\/visual\/|\/(psalms|proverbs|library)\.html$/.test(here.pathname);
+  const isHere = where => (where === "library.html" && isVisual) || !where.startsWith("reader:") && !where.startsWith("mailto:") && new URL(where, ROOT).pathname === here.pathname;
 
   function render(into) {
     into.textContent = "";

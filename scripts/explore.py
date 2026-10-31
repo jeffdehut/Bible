@@ -1,5 +1,5 @@
 """Three pages for exploring and using the Bible's data: the cross-references as arcs
-(arcs.html), the books as a bookshelf (library.html) and the open data to download
+(arcs.html), the Visual Bible: the books as a bookshelf, and a page for each (library.html) and the open data to download
 (downloads.html, with the archives in downloads/).
 
     python3 scripts/explore.py          (after reader.py and connections.py)
@@ -61,6 +61,7 @@ def library():
         first = first if len(first) < 180 else first[:first.rfind(" ", 0, 170)] + " …"
         books.append({"n": name, "osis": osis, "t": testament, "s": section_of(i), "c": len(text["chapters"]),
                       "v": len(verses), "w": english, "o": original, "first": first,
+                      "p": {"Ps": "psalms.html", "Prov": "proverbs.html"}.get(osis, f"visual/{stem[3:]}.html"),
                       "lang": "Greek" if testament == "NT" else "Hebrew and Aramaic" if osis in ARAMAIC else "Hebrew"})
     data = {"books": books, "sections": [{"n": n, "c": c} for n, _, c in SECTIONS]}
     src = open(os.path.join(TEMPLATES, "library.html"), encoding="utf-8").read()
