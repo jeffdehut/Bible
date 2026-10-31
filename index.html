@@ -2,10 +2,10 @@
 <html lang="en">
 <head>
 <meta charset="utf-8">
-<script src="i18n.js?v=22"></script>
+<script src="i18n.js?v=23"></script>
 <script src="ui.js?v=2"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
-<title>Plain English Bible</title>
+<title>BibleData.org</title>
 <meta name="claude:viewport-fit-sides" content="cover">
 <meta name="description" content="The Open Plain English Translation, a first draft of the whole Bible, with the Hebrew, Aramaic and Greek beneath every verse.">
 <meta name="theme-color" content="#fbfaf7" media="(prefers-color-scheme: light)">
@@ -202,7 +202,7 @@ mark.hls[data-s="strike"] { text-decoration: line-through var(--c); text-decorat
 #notecard .swatch.ink { background: var(--c); border-color: transparent; }
 #notecard .swatch.ink[aria-pressed="true"] { border-color: var(--ink); }
 .hl-bar { position: fixed; z-index: 65; display: flex; flex-direction: column; gap: 6px; padding: 6px; border-radius: 20px; background: var(--raised); border: 1px solid var(--line); box-shadow: var(--shadow); }
-.hl-bar .swatch { width: 30px; height: 30px; flex: none; }
+.markmenu .swatch { width: 30px; height: 30px; flex: none; }
 @keyframes flash { 0%, 30% { background: color-mix(in srgb, var(--gold) 28%, transparent); } }
 .vn { font: 600 0.58em/1 var(--sans); color: var(--gold); vertical-align: 0.55em; margin: 0 0.18em 0 0.1em; font-variant-numeric: tabular-nums; }
 .vn.title { font-style: italic; }
@@ -297,7 +297,7 @@ body.panel-open .auto { display: none; }
 .swatch.none::after { content: ""; position: absolute; left: -2px; right: -2px; top: 50%; height: 2.5px; margin-top: -1.25px; background: #d64545; transform: rotate(-45deg); }
 .swatch.none:hover { border-color: #d64545; }
 /* Yours, at the top of the verse panel: highlight, note, your notes on words and markings, actions. */
-.yours { display: grid; gap: 10px; padding: 4px 0 14px; border-bottom: 1px solid var(--line); margin-bottom: 4px; }
+.yours { display: grid; grid-template-columns: minmax(0, 1fr); gap: 10px; padding: 4px 0 14px; border-bottom: 1px solid var(--line); margin-bottom: 4px; }
 .yours textarea { min-height: 64px; }
 .wnotes { list-style: none; margin: 0; padding: 0; display: grid; gap: 8px; }
 .wnotes li { display: grid; grid-template-columns: 1fr auto; gap: 4px 8px; align-items: start; padding: 8px 10px; border-radius: 12px; background: var(--surface); border: 1px solid var(--line); }
@@ -693,49 +693,54 @@ input[type="range"] { width: 100%; accent-color: var(--lapis); }
 .pick-handle::after { content: ""; position: absolute; left: 7px; width: 12px; height: 12px; border-radius: 50%; background: var(--lapis); }
 .pick-handle.lo::after { top: 2px; }
 .pick-handle.hi::after { bottom: 2px; }
-.hl-bar { align-items: stretch; max-width: calc(100vw - 16px); }
-.hl-bar .row { display: flex; align-items: center; gap: 6px; overflow-x: auto; scrollbar-width: none; }
-.hl-bar .row::-webkit-scrollbar { display: none; }
-.hl-bar .styles { gap: 4px; padding-bottom: 6px; border-bottom: 1px solid var(--line); }
-.hl-bar .pen { flex: none; display: grid; place-items: center; min-width: 34px; height: 30px; padding: 0 6px; border-radius: 9px; border: 1px solid transparent; background: none; color: var(--ink); cursor: pointer; font: 500 16px/1 var(--read); }
-.hl-bar .pen[aria-pressed="true"] { background: var(--lapis-soft); border-color: color-mix(in srgb, var(--lapis) 45%, transparent); }
-.hl-bar .pen mark { padding-inline: 1px; }
-.hl-bar .pen mark[data-s="zig"] { background-size: 6px 6px; padding-bottom: 4px; }
-.hl-bar .swatch.ink { background: var(--c); border-color: transparent; }
-/* Narrow phones: a little smaller, so every row fits on one line. */
-@media (max-width: 400px) {
-  .hl-bar { width: calc(100vw - 16px); }
-  .hl-bar .row:not(.tools) { gap: 4px; justify-content: space-between; }
-  .hl-bar .swatch:not(.tool) { flex: 1 1 0; width: auto; height: auto; min-width: 0; max-width: 30px; aspect-ratio: 1; }
-  .hl-bar .pen { flex: 1 1 0; min-width: 0; height: 28px; padding: 0 1px; font-size: 15px; }
-  .hl-bar .tool.wide { padding: 0 6px; gap: 4px; font-size: 12.5px; }
-}
+/* The menu for marking words: the balloon over chosen words, and the top of the verse panel. */
+.hl-bar { align-items: stretch; width: min(340px, calc(100vw - 16px)); transform-origin: 50% 100%; }
+.hl-bar.below { transform-origin: 50% 0; }
+@keyframes hl-pop { from { opacity: 0; transform: translateY(var(--pop-y, 6px)) scale(.96); } }
+.hl-bar.pop { animation: hl-pop .16s cubic-bezier(.2, .8, .2, 1); }
+.hl-bar.below.pop { --pop-y: -6px; }
+.markmenu { display: flex; flex-direction: column; gap: 6px; }
+.markmenu .row:not(.tools) { gap: 4px; justify-content: space-between; }
+.markmenu .swatch:not(.tool) { flex: 1 1 0; width: auto; height: auto; min-width: 0; max-width: 30px; aspect-ratio: 1; }
+.markmenu .pen { flex: 1 1 0; min-width: 0; padding: 0 1px; }
+#vmenu { min-width: 0; margin: 2px 0 4px; padding: 8px; border: 1px solid var(--line); border-radius: 16px; background: var(--surface); }
+.markmenu .row { display: flex; align-items: center; gap: 6px; overflow-x: auto; scrollbar-width: none; }
+.markmenu .row::-webkit-scrollbar { display: none; }
+.markmenu .styles { gap: 4px; padding-bottom: 6px; border-bottom: 1px solid var(--line); }
+.markmenu .pen { flex: none; display: grid; place-items: center; min-width: 34px; height: 30px; padding: 0 6px; border-radius: 9px; border: 1px solid transparent; background: none; color: var(--ink); cursor: pointer; font: 500 16px/1 var(--read); }
+.markmenu .pen[aria-pressed="true"] { background: var(--lapis-soft); border-color: color-mix(in srgb, var(--lapis) 45%, transparent); }
+.markmenu .pen mark { padding-inline: 1px; }
+.markmenu .pen mark[data-s="zig"] { background-size: 6px 6px; padding-bottom: 4px; }
+.markmenu .swatch.ink { background: var(--c); border-color: transparent; }
+.markmenu .row .pen { flex: 1 1 0; min-width: 0; padding: 0; overflow: hidden; }
 @media (max-width: 360px) {
-  .hl-bar .tool.wide:not(:first-child) { flex: 0 0 44px; padding: 0; }
-  .hl-bar .tool.wide:not(:first-child) span { display: none; }
+  .markmenu .tool.wide:not(:first-child) { flex: 0 0 44px; padding: 0; }
+  .markmenu .tool.wide:not(:first-child) span { display: none; }
 }
 /* Emoji: on the words they mark, and to choose from. */
-.emo { display: inline-block; margin: 0 0.1em 0 0.05em; font-size: 0.82em; line-height: 1; vertical-align: 0.32em; cursor: pointer; font-family: "Apple Color Emoji", "Segoe UI Emoji", "Noto Color Emoji", sans-serif; }
+.emo { display: inline-block; width: 0.9em; height: 0.9em; margin: 0 0.1em 0 0.06em; vertical-align: 0.3em; line-height: 0; color: var(--lapis); cursor: pointer; }
+.emo svg, .emo-pick svg, .emo-sample svg { width: 100%; height: 100%; display: block; }
+mark.emr { color: inherit; background: color-mix(in srgb, var(--lapis) 11%, transparent); box-shadow: inset 0 -1.5px 0 color-mix(in srgb, var(--lapis) 45%, transparent); border-radius: 3px; box-decoration-break: clone; -webkit-box-decoration-break: clone; }
 .emo:hover, .emo:focus-visible { transform: scale(1.2); outline: none; }
-.emo-pick { flex: none; width: 38px; height: 38px; border: 0; border-radius: 10px; background: none; font-size: 22px; line-height: 1; cursor: pointer; }
+.emo-pick { flex: none; width: 38px; height: 38px; padding: 8px; border: 0; border-radius: 10px; background: none; color: var(--lapis); cursor: pointer; }
 .emo-pick:hover, .emo-pick[aria-pressed="true"] { background: var(--lapis-soft); }
-.hl-bar .emo-row { gap: 2px; -webkit-mask-image: linear-gradient(90deg, #000 88%, transparent); mask-image: linear-gradient(90deg, #000 88%, transparent); padding-inline-end: 24px; }
-.hl-bar .emo-row .swatch.none { flex: none; width: 30px; height: 30px; margin-inline-start: 6px; }
-.hl-bar .emo-pick { width: 34px; height: 34px; font-size: 20px; }
-.hl-bar .pen .emo-sample { font-size: 17px; line-height: 1; font-family: "Apple Color Emoji", "Segoe UI Emoji", "Noto Color Emoji", sans-serif; }
+.markmenu .emo-row { gap: 2px; -webkit-mask-image: linear-gradient(90deg, #000 88%, transparent); mask-image: linear-gradient(90deg, #000 88%, transparent); padding-inline-end: 24px; }
+.markmenu .emo-row .swatch.none { flex: none; width: 30px; height: 30px; margin-inline-start: 6px; }
+.markmenu .emo-pick { width: 34px; height: 34px; padding: 7px; }
+.markmenu .pen .emo-sample { display: block; width: 18px; height: 18px; color: var(--lapis); }
 .emo-grid { display: none; flex-wrap: wrap; gap: 4px; margin: 4px 0 12px; }
 #notecard.is-emoji .emo-grid { display: flex; }
 #notecard.is-emoji #nc-text, #notecard.is-emoji #nc-colors, #notecard.is-emoji #nc-done { display: none; }
 .wnotes .emo-big { font-size: 22px; margin-inline-end: 8px; vertical-align: middle; }
-.hl-bar .tools { padding-top: 6px; border-top: 1px solid var(--line); justify-content: space-between; }
-.hl-bar .tool.wide { flex: 1 1 auto; width: auto; min-width: 0; height: 34px; padding: 0 10px; border-radius: 99px; display: inline-flex; align-items: center; justify-content: center; gap: 6px;
+.markmenu .tools { padding-top: 6px; border-top: 1px solid var(--line); justify-content: space-between; }
+.markmenu .tool.wide { flex: 1 1 auto; width: auto; min-width: 0; height: 34px; padding: 0 10px; border-radius: 99px; display: inline-flex; align-items: center; justify-content: center; gap: 6px;
   font: 600 13px/1 var(--sans); color: var(--ink); white-space: nowrap; }
-.hl-bar .tool.wide svg { width: 17px; height: 17px; flex: none; color: var(--lapis); }
-.hl-bar .hl-note { white-space: normal; }
-.hl-bar .tool { display: grid; place-items: center; background: var(--surface); color: var(--lapis); border: 1px solid var(--line); font: 600 20px/1 var(--sans); flex: none; }
-.hl-bar .tool svg { width: 16px; height: 16px; }
-.hl-bar .hl-note { font: 500 12.5px/1.3 var(--sans); color: var(--muted); padding: 0 8px; max-width: 240px; }
-.hl-bar .sep { width: 1px; align-self: stretch; margin: 4px 2px; background: var(--line); flex: none; }
+.markmenu .tool.wide svg { width: 17px; height: 17px; flex: none; color: var(--lapis); }
+.markmenu .hl-note { white-space: normal; }
+.markmenu .tool { display: grid; place-items: center; background: var(--surface); color: var(--lapis); border: 1px solid var(--line); font: 600 20px/1 var(--sans); flex: none; }
+.markmenu .tool svg { width: 16px; height: 16px; }
+.markmenu .hl-note { font: 500 12.5px/1.3 var(--sans); color: var(--muted); padding: 0 8px; max-width: 240px; }
+.markmenu .sep { width: 1px; align-self: stretch; margin: 4px 2px; background: var(--line); flex: none; }
 #bm-verse[aria-pressed="true"] { background: var(--lapis-soft); color: var(--lapis); border-color: var(--lapis); }
 #bm-verse[aria-pressed="true"] svg path { fill: currentColor; }
 .bmlist { list-style: none; margin: 0; padding: 0; display: grid; gap: 6px; }
@@ -834,7 +839,7 @@ if (/(^#|&)(access_token|error)=/.test(location.hash)) {
 </head>
 <body>
 <header class="appbar">
-  <a class="brand" href="#" id="home"><img src="icons/icon.svg" alt="">Plain English Bible</a>
+  <a class="brand" href="#" id="home"><img src="icons/icon.svg" alt="">BibleData.org</a>
   <button class="btn where" id="where" type="button" aria-haspopup="dialog" aria-label="Choose a book and chapter">
     <span id="where-label">…</span>
     <svg class="chev" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><path d="m6 9 6 6 6-6"/></svg>
@@ -872,14 +877,12 @@ if (/(^#|&)(access_token|error)=/.test(location.hash)) {
     <button class="btn" type="button" data-close aria-label="Close"><svg class="icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M6 6l12 12M18 6 6 18"/></svg></button>
   </div>
   <div class="yours" id="vyours">
-    <div class="swatches" id="swatches" role="group" aria-label="Highlight"></div>
-    <textarea id="note" aria-label="My note" placeholder="Write a note on this verse. It's saved on this device."></textarea>
+    <div class="markmenu" id="vmenu" role="group" aria-label="Mark this verse"></div>
+    <textarea id="note" aria-label="My note" placeholder="Write a note on this verse. It's saved on this device." hidden></textarea>
     <ul class="wnotes" id="vwords" hidden></ul>
   <div class="actions">
-    <button class="btn line" type="button" id="bm-verse"><svg class="icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M6 3h12v18l-6-4.5L6 21Z"/></svg><span>Bookmark</span></button>
     <button class="btn line" type="button" id="listen-verse"><svg class="icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M4 15v-3a8 8 0 0 1 16 0v3"/><rect x="3" y="14" width="4.5" height="7" rx="1.5"/><rect x="16.5" y="14" width="4.5" height="7" rx="1.5"/></svg>Listen from here</button>
     <button class="btn line" type="button" id="share-verse"><svg class="icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="18" cy="5" r="2.5"/><circle cx="6" cy="12" r="2.5"/><circle cx="18" cy="19" r="2.5"/><path d="m8.2 10.8 7.6-4.4M8.2 13.2l7.6 4.4"/></svg>Share verse</button>
-    <button class="btn line" type="button" id="copy-verse"><svg class="icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linejoin="round"><rect x="8" y="8" width="12" height="12" rx="2"/><path d="M16 8V5a1 1 0 0 0-1-1H5a1 1 0 0 0-1 1v10a1 1 0 0 0 1 1h3"/></svg>Copy verse</button>
   </div>
   </div>
   <div class="section">
@@ -1079,10 +1082,10 @@ if (/(^#|&)(access_token|error)=/.test(location.hash)) {
 </section>
 <section class="ui-sheet sheet dialog" id="menu" hidden aria-labelledby="menu-title">
   <div class="grab"></div>
-  <div class="sheet-head"><h2 id="menu-title">Plain English Bible</h2><button class="btn" type="button" data-close aria-label="Close"><svg class="icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M6 6l12 12M18 6 6 18"/></svg></button></div>
+  <div class="sheet-head"><h2 id="menu-title">BibleData.org</h2><button class="btn" type="button" data-close aria-label="Close"><svg class="icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M6 6l12 12M18 6 6 18"/></svg></button></div>
   <div id="site-menu"><!-- nav.js: the site's menu, the same on every page --></div>
 </section>
-<script src="nav.js?v=37"></script>
+<script src="nav.js?v=38"></script>
 
 <section class="ui-sheet sheet dialog" id="mine" hidden aria-labelledby="mine-title">
   <div class="grab"></div>
@@ -1165,7 +1168,7 @@ if (/(^#|&)(access_token|error)=/.test(location.hash)) {
   <div class="grab"></div>
   <div class="sheet-head"><h2 id="project-title">About this project</h2><button class="btn" type="button" data-close aria-label="Close"><svg class="icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M6 6l12 12M18 6 6 18"/></svg></button></div>
   <div class="prose">
-    <p><strong>Plain English Bible</strong> brings together a new, openly licensed translation of the whole Bible from the Hebrew, Aramaic and Greek, with the original words beneath it, maps, a genealogy, a timeline of world history, and the web of connections that runs through Scripture: made to be read on a phone, free to everyone, and open for anyone to reuse.</p>
+    <p><strong>BibleData.org</strong> brings together a new, openly licensed translation of the whole Bible from the Hebrew, Aramaic and Greek, with the original words beneath it, maps, a genealogy, a timeline of world history, and the web of connections that runs through Scripture: made to be read on a phone, free to everyone, and open for anyone to reuse.</p>
     <p>Designed and orchestrated by <strong>Jeff Dehut</strong>. The translation and the tools were drafted with the help of AI (Claude) and are being reviewed; every source and license is credited where it is used.</p>
     <h3>Questions and suggestions</h3>
     <p>Found a mistake, have a question, or an idea for the project? We read every message.</p>
@@ -1484,7 +1487,7 @@ function buildChapter(b, c, data) {
     if (a && a.h) span.dataset.h = a.h;
     if (a && a.n) span.classList.add("has-note");
     if (a && a.b) span.classList.add("bm");
-    if (a && a.r) paintMarksOf(span, a, b, wordingOf(chapter, b));
+    if ((a && a.r) || inEmojiSpan(id)) paintMarksOf(span, a || {}, b, wordingOf(chapter, b));
     p.append(span);
     if (row[3] && row[3].p) { sec.append(p); p = para(); }
   }
@@ -1505,7 +1508,7 @@ function setCurrent(ctx, opts = {}) {
   if (!changed && !opts.force) return;
   const { b, c } = ctx;
   $("where-label").textContent = bookName(b) + " " + c;
-  document.title = `${bookName(b)} ${c} · ${L.t("Plain English Bible")}`;
+  document.title = `${bookName(b)} ${c} · ${L.t("BibleData.org")}`;
   if (view.kind !== "plan" && opts.address !== false) history.replaceState(null, "", refHash(b, c));
   store.set("last", { s: b.slug, c });
 }
@@ -1891,16 +1894,12 @@ async function openVerse(span) {
   // Highlight and note.
   const id = `${b.osis}.${c}.${n}`;
   const a = notes[id] || {};
-  $("swatches").replaceChildren(...swatchRow(a.h, h => setHighlight(id, span, h)));
+  renderVerseMenu(id, span, row);
   renderWordNotes(id, span);
+  // A note written on the whole verse before notes became sticky notes: still here to read and change.
   $("note").value = a.n || "";
+  $("note").hidden = !a.n;
   $("note").oninput = () => { setNote(id, span, $("note").value); };
-  $("copy-verse").onclick = () => copyVerse(row);
-  const bmb = $("bm-verse");
-  const bmOn = () => !!(notes[id] && notes[id].b);
-  const bmShow = () => { bmb.setAttribute("aria-pressed", String(bmOn())); bmb.querySelector("span").textContent = bmOn() ? "Bookmarked" : "Bookmark"; };
-  bmShow();
-  bmb.onclick = () => { setBookmark(id, bmOn() ? null : id); bmShow(); toast(bmOn() ? L.t("Bookmarked {ref}", { ref: passageLabel(id) }) : "Bookmark removed"); };
   $("listen-verse").onclick = () => { closeVerse(); listen.start(span); };
   $("share-verse").onclick = () => window.Share?.verse({ ref: `${bookName} ${c}:${n}`, text: plainVerse(row[1]),
     note: VER === "ours" ? "Open Plain English Translation · draft" : verOf(VER)?.name || VER, url: Share.here("index.html", refHash(b, c, n)).replace(/index\.html#/, "#") });
@@ -1993,12 +1992,44 @@ function showVariants(vv, toks, words, ot) {
   if (!ot) box.append(el("p", {}, el("small", { text: "Editions compared (from STEPBible): Nestle–Aland 27 and 28 and SBL, today's standard texts; Tyndale House, Westcott–Hort and Tregelles; the Textus Receptus behind the KJV; and the Byzantine text of most later manuscripts." })));
   box.hidden = false;
 }
+// The verse panel's menu: the balloon's, for the whole verse. A highlight colors the verse; the
+// other styles, emoji and notes go on all its words.
+function renderVerseMenu(id, span, row) {
+  const a = () => notes[id] || {};
+  const whole = fn => () => { wholeVerse(span); fn(); renderVerseMenu(id, span, row); renderWordNotes(id, span); };
+  $("vmenu").replaceChildren(...markMenu({
+    again: () => renderVerseMenu(id, span, row),
+    bg: a().h,
+    emoji: null,
+    highlight: c => {
+      if (c && penOf(c) === "bg") setHighlight(id, span, a().h === c ? null : c);
+      else if (!c) { setHighlight(id, span, null); wholeVerse(span); highlightSelection(null); }
+      else { wholeVerse(span); highlightSelection(c); }
+      renderVerseMenu(id, span, row);
+    },
+    setEmoji: x => whole(() => emojiSelection(x))(),
+    clearEmoji: whole(() => clearEmoji()),
+    note: whole(() => noteSelection()),
+    bookmarked: !!a().b,
+    bookmark: () => { const on = !!a().b; setBookmark(id, on ? null : id); toast(!on ? L.t("Bookmarked {ref}", { ref: passageLabel(id) }) : "Bookmark removed"); renderVerseMenu(id, span, row); },
+    copy: () => copyVerse(row),
+  }));
+}
+// The whole verse chosen, quietly (no balloon): what the verse panel's menu acts on.
+function wholeVerse(span) {
+  const ts = countedText(span);
+  if (!ts.length) return;
+  const last = ts[ts.length - 1], end = last.data.trimEnd().length;
+  editingEmoji = null;
+  const range = document.createRange();
+  range.setStart(ts[0], 0); range.setEnd(last, end);
+  pick = { lo: { node: ts[0], s: 0, e: 0 }, hi: { node: last, s: end, e: end }, range };
+}
 function setHighlight(id, span, h) {
   const a = notes[id] || {};
   if (h) a.h = h; else delete a.h;
   saveAnnotation(id, a);
   if (h) span.dataset.h = h; else delete span.dataset.h;
-  for (const s of $("swatches").children) if (s.dataset.h) s.setAttribute("aria-pressed", String(s.dataset.h === h));
 }
 let noteTimer = 0;
 function setNote(id, span, text) {
@@ -2011,6 +2042,7 @@ function setNote(id, span, text) {
   }, 300);
 }
 function saveAnnotation(id, a) {
+  emojiIndex = null;
   if (a.r && !a.r.length) delete a.r;
   if (a.b && typeof a.b !== "object") delete a.b;
   if (a.h || a.n || a.r || a.b) { a.t = Date.now(); notes[id] = a; } else delete notes[id];
@@ -2879,7 +2911,7 @@ function renderMine() {
       a.n ? el("span", { class: "n", text: a.n }) : null,
       // Notes on words, and your markings, in the verse.
       ...(a.r || []).filter(q => q[2] === "n" && q[3]).map(q => el("span", { class: "n", text: "✎ " + q[3] })),
-      (a.r || []).some(q => q[2] === "e") ? el("span", { class: "n", text: a.r.filter(q => q[2] === "e").map(q => q[3]).join(" ") }) : null)));
+      (a.r || []).some(q => q[2] === "e") ? el("span", { class: "n" }, ...a.r.filter(q => q[2] === "e").map(q => emojiEl("span", q[3], { class: "emo" }))) : null)));
   }
 }
 const embedded = (() => { try { return window.top !== window.self; } catch (e) { return true; } })();
@@ -3207,7 +3239,7 @@ function viewerPlace() {
     const u = new URL(w.location.href);
     u.searchParams.delete("embed");
     $("vw-full").href = u.href;
-    $("vw-title").textContent = (d.title || "").replace(/\s*·\s*(Plain English Bible|淺白聖經).*$/, "");
+    $("vw-title").textContent = (d.title || "").replace(/\s*·\s*(BibleData.org|淺白聖經).*$/, "");
     $("vw-back").hidden = vwTrail.length < 2;
   } catch (e) { /* not ours */ }
 }
@@ -3768,7 +3800,7 @@ function countedText(span) {
 }
 function unmarkRanges(span) {
   for (const st of span.querySelectorAll(".sticky, .emo")) st.remove();
-  for (const m of span.querySelectorAll("mark.hlp, mark.hls, mark.wn, mark.um")) m.replaceWith(...m.childNodes);
+  for (const m of span.querySelectorAll("mark.emr, mark.hlp, mark.hls, mark.wn, mark.um")) m.replaceWith(...m.childNodes);
   span.normalize();
 }
 // A verse's ranges hold three kinds of thing, kept apart: [start, end, color] a highlight,
@@ -3776,7 +3808,7 @@ function unmarkRanges(span) {
 const isHl = r => typeof r[2] === "string" && (HL.includes(r[2]) || (/^(line|double|wavy|dash|zig|box|bold|strike):(\w+)$/.test(r[2]) && HL.includes(r[2].split(":")[1])));
 function markRanges(span, ranges) {
   // Highlights first (the outer marks), then lines and lettering, then markings; notes are sticky notes (placeStickies).
-  const order = [...ranges.filter(r => HL.includes(r[2])), ...ranges.filter(r => isHl(r) && !HL.includes(r[2]))];
+  const order = [...ranges.filter(r => String(r[2]).startsWith("emr:")), ...ranges.filter(r => HL.includes(r[2])), ...ranges.filter(r => isHl(r) && !HL.includes(r[2]))];
   for (const [s, e, c, x] of order) {
     let at = 0;
     for (const node of countedText(span)) {
@@ -3785,7 +3817,7 @@ function markRanges(span, ranges) {
         let mid = node;
         if (a > at) mid = mid.splitText(a - at);
         if (z < at + len) mid.splitText(z - a);
-        const m = HL.includes(c) ? el("mark", { class: "hlp", "data-c": c })
+        const m = String(c).startsWith("emr:") ? el("mark", { class: "emr", "data-id": c.split(":")[1], "data-k": c.split(":")[2] }) : HL.includes(c) ? el("mark", { class: "hlp", "data-c": c })
           : el("mark", { class: "hls", "data-s": penOf(c), style: `--c:var(--ink-${c.split(":")[1]})` });
         mid.replaceWith(m); m.append(mid);
       }
@@ -3878,7 +3910,17 @@ function swatchRow(current, pick, { pressed = true } = {}) {
 // was written on}]; start counts in verse f (or this one), end in this one.
 let freshAt = "";   // the note or emoji just made, which arrives with a little motion
 function noteSelection() { anchorSelection("n", ""); }
-function emojiSelection(emoji) { anchorSelection("e", emoji); store.set("lastEmoji", emoji); }
+function emojiSelection(emoji) {
+  store.set("lastEmoji", emoji);
+  if (editingEmoji) {
+    const { id, k } = editingEmoji, a = notes[id], q = a?.r?.[k];
+    if (q && emojiName(q[3]) === emoji) { clearEmoji(); return; }   // the same one again: off
+    editingEmoji = null;
+    if (q) { q[3] = emoji; saveAnnotation(id, a); freshAt = id + ":" + k; repaintSpan(q[4]?.f || id, id); freshAt = ""; }
+    clearSel(); hlBar.hidden = true; return;
+  }
+  anchorSelection("e", emoji);
+}
 function anchorSelection(kind, value) {
   const vs = selectedVerses();
   if (!vs.length) return;
@@ -3891,7 +3933,7 @@ function anchorSelection(kind, value) {
   if (e >= countedText(last).map(n => n.data).join("").trimEnd().length) meta.e = 1;   // to the end of the verse, in every wording
   a.r = a.r || [];
   const same = x => x[0] === s && x[1] === e && (x[4]?.f || null) === (meta.f || null) && (x[4]?.w || meta.w) === meta.w;
-  let k = kind === "n" ? a.r.findIndex(x => x[2] === "n" && same(x)) : a.r.findIndex(x => x[2] === "e" && x[3] === value && same(x));
+  let k = kind === "n" ? a.r.findIndex(x => x[2] === "n" && same(x)) : a.r.findIndex(x => x[2] === "e" && emojiName(x[3]) === value && same(x));
   if (kind === "e" && k >= 0) {   // the same emoji on the same words again: take it off
     a.r.splice(k, 1); saveAnnotation(id, a); clearSel(); hlBar.hidden = true; repaint(id); toast("Emoji removed"); return;
   }
@@ -3901,7 +3943,7 @@ function anchorSelection(kind, value) {
   clearSel();
   hlBar.hidden = true;
   freshAt = id + ":" + k;
-  repaint(id);
+  repaintSpan(meta.f || id, id);
   freshAt = "";
   if (kind === "n") openNote(id, k);
 }
@@ -3946,7 +3988,7 @@ function placeStickies(span, id, a, wording, b) {
     if (at < 0 || at > words.length) at = words.trimEnd().length;
     const col = HL.includes(m.c) ? m.c : "yellow";
     let st;
-    if (q[2] === "e") st = el("span", { class: "emo", role: "button", tabindex: "0", "data-k": k, "aria-label": q[3], text: q[3] });
+    if (q[2] === "e") st = emojiEl("span", q[3], { class: "emo", role: "button", tabindex: "0", "data-k": k });
     else {
       st = el("span", { class: "sticky", role: "button", tabindex: "0", "data-k": k, "aria-label": L.t("Note: {text}", { text: q[3] || "" }), title: q[3] || "" });
       st.innerHTML = STICKY_SVG(col);
@@ -3966,12 +4008,33 @@ function placeStickies(span, id, a, wording, b) {
     span.append(st);
   });
 }
+// The emoji whose words reach into a verse: [{id, k}, mark] for each, from the verse it is kept with
+// (the last of its words) back to the one it began in.
+let emojiIndex = null;
+function emojiSpans() {
+  if (emojiIndex) return emojiIndex;
+  emojiIndex = [];
+  for (const [id, a] of Object.entries(notes)) (a.r || []).forEach((q, k) => { if (q[2] === "e") emojiIndex.push({ id, k, from: (q[4] && q[4].f) || id }); });
+  return emojiIndex;
+}
+function emojiParts(vid) {
+  const o = osisOrder(vid), out = [];
+  for (const x of emojiSpans()) if (x.id.split(".")[0] === vid.split(".")[0] && osisOrder(x.from) <= o && o <= osisOrder(x.id)) out.push([x, notes[x.id].r[x.k]]);
+  return out.filter(([, q]) => q);
+}
+const inEmojiSpan = vid => emojiParts(vid).length > 0;
+// Every verse from one to another, painted again (an emoji over several verses).
+function repaintSpan(from, to) {
+  emojiIndex = null;
+  const lo = osisOrder(from), hi = osisOrder(to);
+  for (const sp of $("text").querySelectorAll(".v")) { const o = osisOrder(sp.dataset.id); if (o >= lo && o <= hi) paintVerse(sp); }
+}
 // A verse's marks and notes, again, wherever it is shown.
 function paintVerse(span) {
   const ctx = ctxOfNode(span), a = notes[span.dataset.id];
   unmarkRanges(span);
-  if (!a || !a.r || !ctx) return;
-  paintMarksOf(span, a, ctx.b, wordingOf(ctx.chapter, ctx.b));
+  if (!ctx || (!(a && a.r) && !inEmojiSpan(span.dataset.id))) return;
+  paintMarksOf(span, a || {}, ctx.b, wordingOf(ctx.chapter, ctx.b));
 }
 // A verse's highlights, notes and emoji in the wording it is shown in: those made on it where they
 // were made, the others where the word maps find their words.
@@ -3980,8 +4043,23 @@ function paintMarksOf(span, a, b, here) {
   const toToks = (mapNow(here, b) || {})[c]?.[v];
   let text = null;
   const words = () => (text = text ?? countedText(span).map(n => n.data).join(""));
+  // The words an emoji marks, tinted: its own verse's part, and the verses it began in or runs through.
+  const tints = [];
+  const fullLen = () => words().trimEnd().length;
+  for (const [x, q] of emojiParts(span.dataset.id)) {
+    const m = q[4] || {}, w = wordingOfMark(q, b), mine = w === here;
+    const from = (m.f || x.id) === span.dataset.id, to = x.id === span.dataset.id;
+    let s0 = 0, e0 = fullLen();
+    if (from) s0 = mine ? q[0] : (project((mapNow(w, b) || {})[c]?.[v], toToks, q[0], to ? q[1] : 1e9) || [0])[0];
+    if (to) {
+      const p = mine ? [q[0], q[1]] : ((!m.f && phraseIn(words(), m.q)) || project((mapNow(w, b) || {})[c]?.[v], toToks, m.f ? 0 : q[0], q[1]));
+      if (!p && !mine) continue;   // in a wording without its words: the sign alone, at the end
+      e0 = p[1]; if (from) s0 = p[0];
+    }
+    if (e0 > s0) tints.push([s0, e0, `emr:${x.id}:${x.k}`]);
+  }
   const ranges = [];
-  for (const q of a.r) {
+  for (const q of a.r || []) {
     if (!isHl(q)) continue;
     const w = wordingOfMark(q, b);
     if (w === here) { ranges.push(q); continue; }
@@ -3989,7 +4067,7 @@ function paintMarksOf(span, a, b, here) {
     const p = (q[3] && phraseIn(words(), q[3].q)) || project((mapNow(w, b) || {})[c]?.[v], toToks, q[0], q[1]);
     if (p) ranges.push([p[0], p[1], q[2]]);
   }
-  if (ranges.length) markRanges(span, ranges);
+  if (ranges.length || tints.length) markRanges(span, [...tints, ...ranges]);
   placeStickies(span, span.dataset.id, a, here, b);
 }
 const repaint = id => { for (const sp of $("text").querySelectorAll(`.v[data-id="${id}"]`)) paintVerse(sp); };
@@ -4059,7 +4137,7 @@ function renderWordNotes(id, span) {
     const rm = el("button", { class: "rm", type: "button", "aria-label": q[2] === "n" ? "Delete this note" : "Remove this emoji", text: "✕", onclick: () => {
       a.r = a.r.filter(x => x !== q); saveAnnotation(id, a); repaint(id); renderWordNotes(id, span);
     } });
-    if (q[2] === "e") return el("li", {}, el("div", {}, el("span", { class: "emo-big", text: q[3] }), quote), rm);
+    if (q[2] === "e") return el("li", {}, el("div", {}, emojiEl("span", q[3], { class: "emo emo-big" }), quote), rm);
     const box = el("textarea", { "aria-label": "My note on these words", placeholder: "Write a note on these words.", "data-s": q[0], "data-e": q[1] });
     box.value = q[3] || "";
     let t = 0;
@@ -4085,36 +4163,86 @@ function barTool(label, icon, onclick, text) {
 // What to do with the chosen words: a row of its own, named, so it is always in view.
 const ICON_STICKY = '<svg class="icon" viewBox="0 0 20 20" aria-hidden="true"><path d="M2 2h16v11l-5 5H2z" fill="var(--hl-yellow)" stroke="var(--ink-yellow)" stroke-width="1.6" stroke-linejoin="round"/><path d="M13 18v-5h5" fill="var(--ink-yellow)" fill-opacity=".35" stroke="var(--ink-yellow)" stroke-width="1.6" stroke-linejoin="round"/><path d="M5.5 7h9M5.5 10.5h6" stroke="var(--ink-yellow)" stroke-width="1.4" stroke-linecap="round"/></svg>';
 const toolRow = (...tools) => el("div", { class: "row tools" }, ...tools);
-// The balloon over chosen words: a style (a highlight, a line, a box, lettering, or an emoji),
-// then its color (or which emoji); then a note, a bookmark, a copy. The same in every version:
-// what is marked in one is found in the others by the words of the original (see "Word maps").
-function hlBarMain() {
-  hlBar.classList.remove("marking");
-  const sample = p => p === "emoji" ? el("span", { class: "emo-sample", text: "😊" }) : p === "bg" ? el("mark", { class: "hlp", "data-c": "yellow", text: "Ab" })
+// The menu for marking words: a style (a highlight, a line, a box, lettering, or an emoji), then
+// its color (or which emoji), then a note, a bookmark, a copy. The same menu is the balloon over
+// chosen words and the top of the verse panel (where it marks the whole verse): markMenu builds
+// it for a target that says what each choice does. The same in every version: what is marked in
+// one is found in the others by the words of the original (see "Word maps").
+function markMenu(t) {
+  const sample = p => p === "emoji" ? emojiEl("span", "joy", { class: "emo-sample" }) : p === "bg" ? el("mark", { class: "hlp", "data-c": "yellow", text: "Ab" })
     : el("mark", { class: "hls", "data-s": p, style: "--c:currentColor", text: p === "box" ? "Ab" : p === "bold" ? "B" : p === "strike" ? "S" : "U" });
   const pens = el("div", { class: "row styles", role: "group", "aria-label": "Style" }, ...PENS.map(([p, label]) =>
     el("button", { type: "button", class: "pen", "aria-label": label, title: label, "aria-pressed": String(pen === p), onmousedown: keepSel,
-      onclick: () => { pen = p; store.set("pen", p); hlBarMain(); placeHlBar(); } }, sample(p))));
+      onclick: () => { pen = p; store.set("pen", p); t.again(); } }, sample(p))));
   let second;
   if (pen === "emoji") {
-    const last = store.get("lastEmoji", null);
-    const list = last && EMOJI.includes(last) ? [last, ...EMOJI.filter(x => x !== last)] : EMOJI;
-    second = el("div", { class: "row emo-row" }, ...list.map(x => el("button", { type: "button", class: "emo-pick", "aria-label": x, onmousedown: keepSel, onclick: () => emojiSelection(x), text: x })),
-      el("button", { class: "swatch none", type: "button", "aria-label": "Remove emoji", title: "Remove emoji", onmousedown: keepSel, onclick: () => clearEmoji() }));
+    const last = t.emoji || store.get("lastEmoji", null);
+    const list = last && EMOJI.includes(emojiName(last)) ? [emojiName(last), ...EMOJI.filter(x => x !== emojiName(last))] : EMOJI;
+    second = el("div", { class: "row emo-row" }, ...list.map(x => emojiEl("button", x, { type: "button", class: "emo-pick", "aria-pressed": String(!!t.emoji && emojiName(t.emoji) === x), onmousedown: keepSel, onclick: () => t.setEmoji(x) })),
+      el("button", { class: "swatch none", type: "button", "aria-label": "Remove emoji", title: "Remove emoji", onmousedown: keepSel, onclick: () => t.clearEmoji() }));
   } else {
-    const colors = HL.map(h => el("button", { class: "swatch" + (pen === "bg" ? "" : " ink"), type: "button", "data-h": h,
+    const colors = HL.map(h => el("button", { class: "swatch" + (pen === "bg" ? "" : " ink"), type: "button", "data-h": h, "aria-pressed": String(pen === "bg" && t.bg === h),
       style: pen === "bg" ? `background:var(--hl-${h})` : `--c:var(--ink-${h})`, "aria-label": h, title: h, onmousedown: keepSel,
-      onclick: () => highlightSelection(pen === "bg" ? h : `${pen}:${h}`) }));
-    second = el("div", { class: "row" }, ...colors, el("button", { class: "swatch none", type: "button", "aria-label": "Clear highlight", title: "Clear highlight", onmousedown: keepSel, onclick: () => highlightSelection(null) }));
+      onclick: () => t.highlight(pen === "bg" ? h : `${pen}:${h}`) }));
+    second = el("div", { class: "row" }, ...colors, el("button", { class: "swatch none", type: "button", "aria-label": "Clear highlight", title: "Clear highlight", onmousedown: keepSel, onclick: () => t.highlight(null) }));
   }
-  hlBar.replaceChildren(pens, second,
-    toolRow(barTool("Note on these words", ICON_STICKY, noteSelection, L.t("Note")),
-      barTool("Bookmark the selected verses", ICON_BM, bookmarkSelection, L.t("Bookmark")), barTool("Copy the selected words", ICON_COPY, copySelection, L.t("Copy"))));
+  return [pens, second, toolRow(barTool("Note on these words", ICON_STICKY, t.note, L.t("Note")),
+    barTool("Bookmark", ICON_BM, t.bookmark, L.t(t.bookmarked ? "Bookmarked" : "Bookmark")), barTool("Copy the selected words", ICON_COPY, t.copy, L.t("Copy")))];
 }
-// Emoji for marking a passage: the last one used first, then a set chosen for study.
-const EMOJI = ["❤️", "🙏", "✝️", "🕊️", "👑", "💡", "⭐", "❓", "❗", "🔥", "🌱", "💧", "🍞", "🐑", "📖", "✨", "😊", "😢", "🙌", "⚠️", "🛡️", "⚓", "🌅", "🎵"];
+// The balloon: for the words chosen, or for an emoji tapped in the text (then that emoji's words).
+let editingEmoji = null;   // { id, k }
+function hlBarMain() {
+  hlBar.classList.remove("marking");
+  hlBar.classList.add("markmenu");
+  const ed = editingEmoji && notes[editingEmoji.id]?.r?.[editingEmoji.k];
+  hlBar.replaceChildren(...markMenu({
+    again: () => { hlBarMain(); placeHlBar(); },
+    emoji: ed ? ed[3] : null,
+    highlight: highlightSelection, setEmoji: emojiSelection, clearEmoji, note: noteSelection, bookmark: bookmarkSelection, copy: copySelection,
+  }));
+}
+// Emoji for marking a passage: simple one-color signs in the theme's accent. Kept by name; the
+// colored emoji of the first version stand for the same signs.
+const EMOJI_ICONS = {
+  heart: ["Love", "M12 20s-7-4.4-7-10a4 4 0 0 1 7-2.6A4 4 0 0 1 19 10c0 5.6-7 10-7 10Z"],
+  pray: ["Prayer", "M12 21V9.5L9.6 4.6a1.4 1.4 0 0 0-2.5 1.2L8.6 10 6 15v6M12 21V9.5l2.4-4.9a1.4 1.4 0 0 1 2.5 1.2L15.4 10 18 15v6"],
+  cross: ["Cross", "M12 3v18M6.5 8.5h11"],
+  dove: ["Spirit", "M3 12.5c3.5.5 6-1 8-4.5l2.5-4c1.5 2.2 1.6 4.4.5 6.5l6.5-1.2c-.8 4.8-4.5 8.2-10 8.2H8l-3.5 3v-4.2C3.5 15.5 3 14 3 12.5Z"],
+  crown: ["King", "M3 8l4.2 4L12 6l4.8 6L21 8l-2 11H5Z"],
+  light: ["Insight", "M9 18h6M10 21h4M12 3a6 6 0 0 0-3.5 10.9c.6.5 1 1.2 1 2.1h5c0-.9.4-1.6 1-2.1A6 6 0 0 0 12 3Z"],
+  star: ["Promise", "m12 3 2.6 5.6 6.1.7-4.5 4.2 1.2 6L12 16.6 6.6 19.5l1.2-6-4.5-4.2 6.1-.7Z"],
+  question: ["Question", "M8.8 8.6a3.3 3.3 0 1 1 4.8 3c-1 .5-1.6 1.3-1.6 2.6M12 18.5h.01"],
+  alert: ["Important", "M12 4v11M12 19.5h.01"],
+  fire: ["Fire", "M12 21c-3.9 0-6.5-2.6-6.5-6 0-3.5 3-5.5 3.5-9 2 1.5 3 3 3 4.5 1-1 1.5-2.2 1.5-3.5 2.5 2 4.5 4.6 4.5 8 0 3.4-2.6 6-6 6Z"],
+  sprout: ["Growth", "M12 21v-9M12 12c0-4 3-7 8-7 0 5-3 7-8 7ZM12 14c0-3-2.5-5.5-7-5.5 0 4 2.5 5.5 7 5.5Z"],
+  water: ["Water", "M12 3s6 6.5 6 11a6 6 0 0 1-12 0c0-4.5 6-11 6-11Z"],
+  bread: ["Bread", "M5.5 11A3.5 3.5 0 0 1 7.5 4h9a3.5 3.5 0 0 1 2 7v8a1 1 0 0 1-1 1h-11a1 1 0 0 1-1-1Z"],
+  sheep: ["Sheep", "M7.5 15a3 3 0 0 1-1.6-5.5A3 3 0 0 1 11 6.5a3 3 0 0 1 4.6.9 3 3 0 0 1 2.2 5.3 3 3 0 0 1-4.1 2.8 3 3 0 0 1-5.4-.5ZM9.5 16.5V20M14.5 16.5V20"],
+  book: ["Scripture", "M12 6.5C10 5 7 4.5 3.5 5v14c3.5-.5 6.5 0 8.5 1.5 2-1.5 5-2 8.5-1.5V5C17 4.5 14 5 12 6.5ZM12 6.5v14"],
+  glory: ["Glory", "M12 3l1.8 5.2L19 10l-5.2 1.8L12 17l-1.8-5.2L5 10l5.2-1.8ZM18.5 15.5l.8 2.2 2.2.8-2.2.8-.8 2.2-.8-2.2-2.2-.8 2.2-.8Z"],
+  joy: ["Joy", "M12 21a9 9 0 1 0 0-18 9 9 0 0 0 0 18ZM8.5 14.5c.9 1.3 2.1 2 3.5 2s2.6-.7 3.5-2M9 9.5h.01M15 9.5h.01"],
+  sorrow: ["Sorrow", "M12 21a9 9 0 1 0 0-18 9 9 0 0 0 0 18ZM8.5 16.5c.9-1.3 2.1-2 3.5-2s2.6.7 3.5 2M9 9.5h.01M15 9.5h.01"],
+  praise: ["Praise", "M7.5 21v-5.5L4.2 10a1.4 1.4 0 0 1 2.4-1.4L9 12V4.6a1.3 1.3 0 0 1 2.6 0V12M16.5 21v-5.5l3.3-5.5a1.4 1.4 0 0 0-2.4-1.4L15 12V4.6a1.3 1.3 0 0 0-2.6 0"],
+  warn: ["Warning", "M12 4 2.5 20h19ZM12 10v4.5M12 17.5h.01"],
+  shield: ["Protection", "M12 3 4 6v6c0 5 3.5 8 8 9 4.5-1 8-4 8-9V6Z"],
+  anchor: ["Hope", "M12 8.5V21M12 8.5a2.7 2.7 0 1 0 0-5.4 2.7 2.7 0 0 0 0 5.4ZM5 13H3a9 9 0 0 0 18 0h-2M8 11.5h8"],
+  morning: ["Morning", "M4 18h16M7 18a5 5 0 0 1 10 0M12 8V4.5M5.6 11.6 3.8 9.8M18.4 11.6l1.8-1.8M8 21h8"],
+  song: ["Song", "M9 18V5l11-2v13M9 18a3 3 0 1 1-6 0 3 3 0 0 1 6 0ZM20 16a3 3 0 1 1-6 0 3 3 0 0 1 6 0Z"],
+};
+const EMOJI = Object.keys(EMOJI_ICONS);
+const OLD_EMOJI = { "❤️": "heart", "🙏": "pray", "✝️": "cross", "🕊️": "dove", "👑": "crown", "💡": "light", "⭐": "star", "❓": "question", "❗": "alert", "🔥": "fire", "🌱": "sprout",
+  "💧": "water", "🍞": "bread", "🐑": "sheep", "📖": "book", "✨": "glory", "😊": "joy", "😢": "sorrow", "🙌": "praise", "⚠️": "warn", "🛡️": "shield", "⚓": "anchor", "🌅": "morning", "🎵": "song" };
+const emojiName = x => (EMOJI_ICONS[x] ? x : OLD_EMOJI[x] || "star");
+const emojiSvg = x => `<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.9" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="${EMOJI_ICONS[emojiName(x)][1]}"/></svg>`;
+const emojiEl = (tag, x, attrs = {}) => { const n = el(tag, { ...attrs, "aria-label": L.t(EMOJI_ICONS[emojiName(x)][0]), title: L.t(EMOJI_ICONS[emojiName(x)][0]) }); n.innerHTML = emojiSvg(x); return n; };
 // Take the emoji off the chosen words.
 function clearEmoji() {
+  if (editingEmoji) {
+    const { id, k } = editingEmoji, a = notes[id], q = a?.r?.[k];
+    editingEmoji = null;
+    if (q) { const from = q[4]?.f || id; a.r.splice(k, 1); saveAnnotation(id, a); repaintSpan(from, id); }
+    clearSel(); hlBar.hidden = true; toast("Emoji removed"); return;
+  }
   const vs = selectedVerses();
   if (!vs.length) return;
   const last = vs[vs.length - 1][0], id = last.dataset.id, a = notes[id];
@@ -4159,6 +4287,7 @@ function placeHlBar() {
   let below = !pick && matchMedia("(pointer: coarse)").matches;
   if (!below && rect.top - hlBar.offsetHeight - (pick ? 22 : 10) < 8) below = true;
   const top = below ? rect.bottom + (pick ? 26 : 12) : rect.top - hlBar.offsetHeight - (pick ? 22 : 10);
+  hlBar.classList.toggle("below", below);
   hlBar.style.top = `${Math.max(8, Math.min(innerHeight - hlBar.offsetHeight - 8, top))}px`;
   hlBar.style.left = `${Math.max(8, Math.min(innerWidth - hlBar.offsetWidth - 8, rect.left + rect.width / 2 - hlBar.offsetWidth / 2))}px`;
 }
@@ -4167,9 +4296,11 @@ let hlTimer = 0;
 function showSelBar() {
   const vs = selectedVerses();
   if (!vs.length) { hlBar.hidden = true; return; }
-  if (hlBar.hidden) hlBarMain();
+  const opening = hlBar.hidden;
+  if (opening) hlBarMain();
   hlBar.hidden = false;
   placeHlBar();
+  if (opening) { hlBar.classList.remove("pop"); void hlBar.offsetWidth; hlBar.classList.add("pop"); }
 }
 document.addEventListener("selectionchange", () => {
   if (pick) return;
@@ -4239,6 +4370,7 @@ function drawPick() {
     handle("lo", first.left, first.top - 14), handle("hi", last.right, last.bottom - 30));
 }
 function clearPick() {
+  editingEmoji = null;
   if (!pick) return;
   pick = null;
   pickLayer.replaceChildren();
@@ -4304,6 +4436,19 @@ document.addEventListener("pointerdown", ev => {
   if (pick && !holding && !ev.target.closest(".hl-bar, .pick-handle, .ui-sheet, .vn")) { clearPick(); if (ev.target.closest("#text")) skipUntil = Date.now() + 800; }
 }, true);
 addEventListener("resize", () => { if (pick) clearPick(); });
+// An emoji tapped: its words chosen, and the balloon on them with that emoji, to change or take off.
+function editEmoji(id, k, icon) {
+  clearSel();
+  const marks = [...$("text").querySelectorAll(`mark.emr[data-id="${id}"][data-k="${k}"]`)];
+  const first = marks[0], last = marks[marks.length - 1];
+  const tn = (m, end) => { const w = document.createTreeWalker(m, NodeFilter.SHOW_TEXT); let n, out = null; while ((n = w.nextNode())) { out = out || n; if (end) out = n; } return out; };
+  const a = first && tn(first, false), z = last && tn(last, true);
+  pen = "emoji";
+  editingEmoji = { id, k };
+  if (a && z) setPick({ node: a, s: 0, e: 0 }, { node: z, s: z.data.length, e: z.data.length });
+  else pickVerse(icon.closest(".v"));
+  hlBarMain(); placeHlBar();
+}
 function pickVerse(span) {
   const ts = countedText(span);
   if (!ts.length) return;
@@ -4318,6 +4463,7 @@ function pickVerse(span) {
 
 $("text").addEventListener("click", ev => {
   const st = ev.target.closest(".sticky, .emo");
+  if (st && st.classList.contains("emo")) { ev.stopPropagation(); skipUntil = 0; editEmoji(st.closest(".v").dataset.id, +st.dataset.k, st); return; }
   if (st) { ev.stopPropagation(); skipUntil = 0; clearSel(); openNote(st.closest(".v").dataset.id, +st.dataset.k); return; }
   if (Date.now() < skipUntil) { skipUntil = 0; return; }
   // A verse number chooses the whole verse; another verse number, while words are chosen, takes in
@@ -4354,7 +4500,7 @@ addEventListener("DOMContentLoaded", () => {
   const ref = cur => (cur ? ` (${psName(cur.b)} ${cur.c})` : "");
   for (const id of ["feedback-link", "menu-feedback"]) {
     const a = $(id);
-    if (cfg.feedback) a.onclick = () => { a.href = `mailto:${cfg.feedback}?subject=${encodeURIComponent("Plain English Bible" + ref(cur))}`; };
+    if (cfg.feedback) a.onclick = () => { a.href = `mailto:${cfg.feedback}?subject=${encodeURIComponent("BibleData.org" + ref(cur))}`; };
     else a.hidden = true;
   }
   // Giving: Cash App and Venmo by their public handles, or another donation page.
@@ -4440,7 +4586,7 @@ Promise.all([getJSON("books.json"), Promise.all(ourLangs.map(k => getJSON(`i18n/
   addEventListener("hashchange", route);
   route();
 }).catch(() => { $("loading").textContent = "The Bible couldn't be loaded. Check your connection and reload the page."; });
-if ("serviceWorker" in navigator && /^https?:$/.test(location.protocol) && !embedded) navigator.serviceWorker.register("sw.js?v=63").catch(() => {});
+if ("serviceWorker" in navigator && /^https?:$/.test(location.protocol) && !embedded) navigator.serviceWorker.register("sw.js?v=64").catch(() => {});
 
 /* ---------- For account.js: highlights and notes, and two of the reader's tools ---------- */
 var reader = {
