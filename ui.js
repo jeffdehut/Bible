@@ -172,3 +172,92 @@
     },
   };
 })();
+
+// The site's look, the same family on every page: its two typefaces, and a theme of colors that
+// reaches every page beside light and dark (UI.season). The themes follow the seasons of the
+// year: each sets the paper, the ink and the accent, in light and in dark. "classic" is the
+// site's own colors, which every page defines; a season sets them over the page's own.
+// Also here, a little motion shared by every page: pages rise in, buttons give under a press,
+// and the colors ease from one theme to the next. None of it runs for readers who ask for less.
+(() => {
+  const SEASONS = {
+    spring: {
+      light: { bg: "#f7faf3", surface: "#ffffff", raised: "#ffffff", ink: "#17251b", muted: "#55665a", faint: "#8b9a8e", line: "#dbe6d4", lapis: "#3b7a4b", "lapis-soft": "#e1efdf", gold: "#b0557c", "gold-soft": "#f8e4ec" },
+      dark: { bg: "#0d140f", surface: "#131c15", raised: "#17221a", ink: "#e5efe6", muted: "#a2b4a6", faint: "#6d8172", line: "#243328", lapis: "#8fd3a0", "lapis-soft": "#1b3322", gold: "#eba0c0", "gold-soft": "#33202a" },
+    },
+    summer: {
+      light: { bg: "#f6f9fc", surface: "#ffffff", raised: "#ffffff", ink: "#12202c", muted: "#526273", faint: "#8796a4", line: "#dbe5ee", lapis: "#1c6db3", "lapis-soft": "#e0edf9", gold: "#bf8200", "gold-soft": "#fbefd2" },
+      dark: { bg: "#0a121b", surface: "#101b26", raised: "#152230", ink: "#e5eef6", muted: "#9db0c2", faint: "#687c90", line: "#213346", lapis: "#7cc1f7", "lapis-soft": "#14304b", gold: "#f3c24f", "gold-soft": "#33280e" },
+    },
+    autumn: {
+      light: { bg: "#fbf6ee", surface: "#fffdf9", raised: "#fffdf9", ink: "#2a1c12", muted: "#6d5948", faint: "#a08b78", line: "#eadccd", lapis: "#a3461d", "lapis-soft": "#f6e3d6", gold: "#a8760c", "gold-soft": "#f6ead0" },
+      dark: { bg: "#17100b", surface: "#1f1610", raised: "#261c14", ink: "#f2e6d9", muted: "#bca794", faint: "#86705d", line: "#3a2b1f", lapis: "#f2a173", "lapis-soft": "#3b2215", gold: "#e8b955", "gold-soft": "#33260f" },
+    },
+    winter: {
+      light: { bg: "#f4f6f9", surface: "#ffffff", raised: "#ffffff", ink: "#131a25", muted: "#535f73", faint: "#8a94a6", line: "#dde3ec", lapis: "#2c5a8c", "lapis-soft": "#e2e9f4", gold: "#5f7896", "gold-soft": "#e6ecf3" },
+      dark: { bg: "#090d14", surface: "#0f151f", raised: "#131b27", ink: "#e8eef7", muted: "#a5b0c3", faint: "#6e7a90", line: "#222c3c", lapis: "#a9c9f2", "lapis-soft": "#18273f", gold: "#c3d1e6", "gold-soft": "#1d2635" },
+    },
+  };
+  const vars = p => Object.entries(p).map(([k, v]) => `--${k}: ${v};`).join(" ") + ` --accent: ${p.lapis};`;
+  let css = "";
+  for (const [name, s] of Object.entries(SEASONS)) {
+    css += `html[data-season="${name}"]:root { ${vars(s.light)} }\n`;
+    css += `@media (prefers-color-scheme: dark) { html[data-season="${name}"]:root:not([data-theme="light"]) { ${vars(s.dark)} } }\n`;
+    css += `html[data-season="${name}"][data-theme="dark"]:root { ${vars(s.dark)} }\n`;
+  }
+  css += `
+:root { --read: "Frank Ruhl Libre", "Noto Serif", Georgia, serif; --sans: "Libre Franklin", system-ui, -apple-system, "Segoe UI", sans-serif; }
+html[data-season] body { transition: background-color .45s ease, color .45s ease; }
+html.ui-theming *, html.ui-theming *::before, html.ui-theming *::after { transition: background-color .45s ease, color .45s ease, border-color .45s ease, fill .45s ease, stroke .45s ease !important; }
+@keyframes ui-rise { from { opacity: 0; transform: translateY(8px); } }
+@keyframes ui-pop { 0% { transform: scale(.4); opacity: 0; } 70% { transform: scale(1.15); } }
+@keyframes ui-wash { from { background-color: transparent; box-shadow: none; } }
+@media (prefers-reduced-motion: no-preference) {
+  body > main, body > .page, body > #parts { animation: ui-rise .5s cubic-bezier(.2, .8, .2, 1) both; }
+  :where(button, .btn, a.act, .chip, .swatch, .pen, .sitenav .menu a, .menu a, .menu button, .book, .web-link):active:not(:disabled) { transform: scale(.96); transition: transform .08s ease; }
+  :where(.btn, .chip, .book, .glance li, .about > div, .panel, .sitenav .menu a, .menu a, .menu button) { transition: transform .18s ease, box-shadow .18s ease, background-color .18s ease, border-color .18s ease; }
+  :where(.book, .glance li, .about > div):hover { transform: translateY(-2px); box-shadow: 0 8px 22px rgb(0 0 0 / 8%); }
+  .ui-sheet:not([hidden]) :where(.menu li, .glance li, .about > div, .ver-list li) { animation: ui-rise .38s cubic-bezier(.2, .8, .2, 1) both; }
+  ${Array.from({ length: 14 }, (_, i) => `.ui-sheet:not([hidden]) :where(.menu li, .ver-list li):nth-child(${i + 1}), :where(.glance, .about) > :nth-child(${i + 1}) { animation-delay: ${i * 22}ms; }`).join("\n  ")}
+  .fresh { animation: ui-wash .6s ease both; }
+  .sticky.fresh, .emo.fresh { animation: ui-pop .45s cubic-bezier(.2, .8, .2, 1) both; }
+}`;
+  const style = document.createElement("style");
+  style.id = "ui-theme";
+  style.textContent = css;
+  document.head.append(style);
+  // The family's typefaces, on pages that don't load them already.
+  if (![...document.querySelectorAll('link[href*="fonts.googleapis"]')].some(l => /Libre\+Franklin/.test(l.href) && /Frank\+Ruhl/.test(l.href))) {
+    const l = document.createElement("link");
+    l.rel = "stylesheet";
+    l.href = "https://fonts.googleapis.com/css2?family=Frank+Ruhl+Libre:wght@300..700&family=Libre+Franklin:wght@400;500;600;700&display=swap";
+    document.head.append(l);
+  }
+
+  const KEY = "pe.settings";
+  const read = () => { try { return JSON.parse(localStorage.getItem(KEY)) || {}; } catch (e) { return {}; } };
+  function apply(name, animate) {
+    const root = document.documentElement;
+    if (animate) { root.classList.add("ui-theming"); setTimeout(() => root.classList.remove("ui-theming"), 600); }
+    if (SEASONS[name]) root.dataset.season = name; else delete root.dataset.season;
+    // The browser's own bar takes the page's paper.
+    requestAnimationFrame(() => {
+      const bg = getComputedStyle(root).getPropertyValue("--bg").trim();
+      if (bg) for (const m of document.querySelectorAll('meta[name="theme-color"]')) m.content = bg;
+    });
+  }
+  apply(read().season);
+  // Another page, or the reader's viewer, changed it: follow.
+  addEventListener("storage", e => { if (e.key === KEY) apply(read().season, true); });
+  window.UI = Object.assign(window.UI || {}, {
+    SEASONS: Object.keys(SEASONS),
+    season: () => read().season || "classic",
+    setSeason(name) {
+      const s = read();
+      s.season = SEASONS[name] ? name : "classic";
+      try { localStorage.setItem(KEY, JSON.stringify(s)); } catch (e) { /* storage unavailable */ }
+      apply(s.season, true);
+    },
+    seasonColors: name => SEASONS[name],
+  });
+})();

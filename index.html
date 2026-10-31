@@ -2,8 +2,8 @@
 <html lang="en">
 <head>
 <meta charset="utf-8">
-<script src="i18n.js?v=21"></script>
-<script src="ui.js?v=1"></script>
+<script src="i18n.js?v=22"></script>
+<script src="ui.js?v=2"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
 <title>Plain English Bible</title>
 <meta name="claude:viewport-fit-sides" content="cover">
@@ -278,6 +278,15 @@ body.panel-open .auto { display: none; }
 .sheet.split > :not(.scroll) { flex: none; }
 .section { margin-top: 16px; }
 .section > h3 { margin: 0 0 8px; font: 600 12px/1.2 var(--sans); letter-spacing: 0.1em; text-transform: uppercase; color: var(--muted); }
+/* Themes: a card for each, with its paper, ink and accents. */
+.seasons { display: grid; grid-template-columns: repeat(auto-fill, minmax(118px, 1fr)); gap: 8px; margin-top: 6px; }
+.seasons button { display: grid; gap: 8px; padding: 10px; border-radius: 14px; border: 1px solid var(--line); background: var(--surface); color: var(--ink); text-align: start; cursor: pointer; }
+.seasons button[aria-checked="true"] { border-color: var(--lapis); box-shadow: inset 0 0 0 1.5px var(--lapis); }
+.seasons .sw { display: flex; align-items: center; gap: 0; height: 30px; border-radius: 9px; overflow: hidden; border: 1px solid color-mix(in srgb, var(--line) 70%, transparent); }
+.seasons .sw i { flex: 1; align-self: stretch; }
+.seasons .sw svg { width: 18px; height: 18px; margin: 0 6px; flex: none; }
+.seasons b { font: 600 14px/1.2 var(--sans); }
+.seasons small { display: block; font: 400 12px/1.3 var(--sans); color: var(--muted); margin-top: 1px; }
 .swatches { display: flex; flex-wrap: wrap; gap: 8px; align-items: center; }
 .swatch {
   width: 34px; height: 34px; border-radius: 50%; border: 2px solid var(--line); cursor: pointer; padding: 0;
@@ -297,7 +306,6 @@ body.panel-open .auto { display: none; }
 .wnotes textarea { grid-column: 1 / -1; min-height: 52px; font-size: 15px; padding: 8px 10px; }
 .wnotes .rm { width: 32px; height: 32px; border: 0; border-radius: 8px; background: transparent; color: var(--muted); cursor: pointer; font-size: 16px; }
 .wnotes .rm:hover { background: var(--lapis-soft); color: var(--ink); }
-.wnotes .mk-chip { display: inline-flex; align-items: center; gap: 6px; font: 600 13px/1.2 var(--sans); }
 /* In the text: a note on some words is a dotted line under them; your own markings are drawn as
    you chose them (the rules are written by the page from your markings). */
 mark.wn { background: none; color: inherit; text-decoration: underline dotted var(--lapis); text-decoration-thickness: 2px; text-underline-offset: 4px; }
@@ -706,6 +714,19 @@ input[type="range"] { width: 100%; accent-color: var(--lapis); }
   .hl-bar .tool.wide:not(:first-child) { flex: 0 0 44px; padding: 0; }
   .hl-bar .tool.wide:not(:first-child) span { display: none; }
 }
+/* Emoji: on the words they mark, and to choose from. */
+.emo { display: inline-block; margin: 0 0.1em 0 0.05em; font-size: 0.82em; line-height: 1; vertical-align: 0.32em; cursor: pointer; font-family: "Apple Color Emoji", "Segoe UI Emoji", "Noto Color Emoji", sans-serif; }
+.emo:hover, .emo:focus-visible { transform: scale(1.2); outline: none; }
+.emo-pick { flex: none; width: 38px; height: 38px; border: 0; border-radius: 10px; background: none; font-size: 22px; line-height: 1; cursor: pointer; }
+.emo-pick:hover, .emo-pick[aria-pressed="true"] { background: var(--lapis-soft); }
+.hl-bar .emo-row { gap: 2px; -webkit-mask-image: linear-gradient(90deg, #000 88%, transparent); mask-image: linear-gradient(90deg, #000 88%, transparent); padding-inline-end: 24px; }
+.hl-bar .emo-row .swatch.none { flex: none; width: 30px; height: 30px; margin-inline-start: 6px; }
+.hl-bar .emo-pick { width: 34px; height: 34px; font-size: 20px; }
+.hl-bar .pen .emo-sample { font-size: 17px; line-height: 1; font-family: "Apple Color Emoji", "Segoe UI Emoji", "Noto Color Emoji", sans-serif; }
+.emo-grid { display: none; flex-wrap: wrap; gap: 4px; margin: 4px 0 12px; }
+#notecard.is-emoji .emo-grid { display: flex; }
+#notecard.is-emoji #nc-text, #notecard.is-emoji #nc-colors, #notecard.is-emoji #nc-done { display: none; }
+.wnotes .emo-big { font-size: 22px; margin-inline-end: 8px; vertical-align: middle; }
 .hl-bar .tools { padding-top: 6px; border-top: 1px solid var(--line); justify-content: space-between; }
 .hl-bar .tool.wide { flex: 1 1 auto; width: auto; min-width: 0; height: 34px; padding: 0 10px; border-radius: 99px; display: inline-flex; align-items: center; justify-content: center; gap: 6px;
   font: 600 13px/1 var(--sans); color: var(--ink); white-space: nowrap; }
@@ -715,9 +736,6 @@ input[type="range"] { width: 100%; accent-color: var(--lapis); }
 .hl-bar .tool svg { width: 16px; height: 16px; }
 .hl-bar .hl-note { font: 500 12.5px/1.3 var(--sans); color: var(--muted); padding: 0 8px; max-width: 240px; }
 .hl-bar .sep { width: 1px; align-self: stretch; margin: 4px 2px; background: var(--line); flex: none; }
-.hl-bar .mk-pick { display: inline-flex; align-items: center; gap: 6px; height: 30px; padding: 0 10px 0 4px; border-radius: 99px; border: 1px solid var(--line); background: var(--surface); color: var(--ink); font: 600 13px/1 var(--sans); cursor: pointer; white-space: nowrap; flex: none; }
-.hl-bar .mk-pick .mk-sym { width: 22px; height: 22px; border-radius: 99px; }
-.hl-bar .mk-pick.add { padding: 0 12px; color: var(--lapis); }
 #bm-verse[aria-pressed="true"] { background: var(--lapis-soft); color: var(--lapis); border-color: var(--lapis); }
 #bm-verse[aria-pressed="true"] svg path { fill: currentColor; }
 .bmlist { list-style: none; margin: 0; padding: 0; display: grid; gap: 6px; }
@@ -999,10 +1017,15 @@ if (/(^#|&)(access_token|error)=/.test(location.hash)) {
     <input type="range" id="size" min="15" max="28" step="1">
   </div>
   <div class="setting">
-    <span class="lbl" id="theme-label">Theme</span>
+    <span class="lbl" id="theme-label">Light or dark</span>
     <div class="seg" role="group" aria-labelledby="theme-label" id="theme">
       <button type="button" data-v="system">Automatic</button><button type="button" data-v="light">Light</button><button type="button" data-v="dark">Dark</button>
     </div>
+  </div>
+  <div class="setting">
+    <span class="lbl" id="seasons-label">Themes</span>
+    <div class="seasons" role="radiogroup" aria-labelledby="seasons-label" id="seasons"></div>
+    <small>Colors for the whole site, from the seasons of the year God made, in light and in dark.</small>
   </div>
   <div class="setting">
     <span class="lbl" id="versenums-label">Verse numbers</span>
@@ -1054,32 +1077,12 @@ if (/(^#|&)(access_token|error)=/.test(location.hash)) {
   <ul class="ver-list" id="ver-list"></ul>
   <p class="hint">Your highlights, notes and bookmarks on whole verses show in every version. Highlights and notes on some of a verse's words, and your markings, are kept with our own translation's wording.</p>
 </section>
-<section class="ui-sheet sheet dialog" id="mymarks" hidden aria-labelledby="mymarks-title">
-  <div class="grab"></div>
-  <div class="sheet-head"><h2 id="mymarks-title">My markings</h2><button class="btn" type="button" data-close aria-label="Close"><svg class="icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M6 6l12 12M18 6 6 18"/></svg></button></div>
-  <p class="hint">Make your own markings to trace words and themes as you study: select some words in the text, tap the star, and choose a marking.</p>
-  <ul class="my-list" id="mk-list"></ul>
-  <div class="actions"><button class="btn line" type="button" id="mk-new">＋ New marking</button></div>
-  <form class="mk-edit" id="mk-edit" hidden>
-    <label for="mk-name">Name</label>
-    <input type="text" id="mk-name" maxlength="40" placeholder="e.g. Promises" autocomplete="off">
-    <div class="mk-row"><span class="lab">Symbol</span><div class="mk-grid" id="mk-syms" role="radiogroup" aria-label="Symbol"></div></div>
-    <div class="mk-row"><span class="lab">Color</span><div class="mk-grid" id="mk-cols" role="radiogroup" aria-label="Color"></div></div>
-    <div class="mk-row"><span class="lab">Style</span><div class="seg" id="mk-sts" role="radiogroup" aria-label="Style"></div></div>
-    <p class="mk-preview" id="mk-preview" translate="no"></p>
-    <div class="actions">
-      <button class="btn solid" type="submit" id="mk-save">Save</button>
-      <button class="btn line" type="button" id="mk-cancel">Cancel</button>
-      <button class="btn line danger" type="button" id="mk-del" hidden>Delete</button>
-    </div>
-  </form>
-</section>
 <section class="ui-sheet sheet dialog" id="menu" hidden aria-labelledby="menu-title">
   <div class="grab"></div>
   <div class="sheet-head"><h2 id="menu-title">Plain English Bible</h2><button class="btn" type="button" data-close aria-label="Close"><svg class="icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M6 6l12 12M18 6 6 18"/></svg></button></div>
   <div id="site-menu"><!-- nav.js: the site's menu, the same on every page --></div>
 </section>
-<script src="nav.js?v=36"></script>
+<script src="nav.js?v=37"></script>
 
 <section class="ui-sheet sheet dialog" id="mine" hidden aria-labelledby="mine-title">
   <div class="grab"></div>
@@ -1115,6 +1118,7 @@ if (/(^#|&)(access_token|error)=/.test(location.hash)) {
     <button class="btn" type="button" data-close aria-label="Close"><svg class="icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M6 6l12 12M18 6 6 18"/></svg></button>
   </div>
   <p id="nc-quote"></p>
+  <div class="emo-grid" id="nc-emoji" role="group" aria-label="Emoji"></div>
   <textarea id="nc-text" aria-label="My note" placeholder="Write your note. It goes with these words in every version."></textarea>
   <div class="swatches" id="nc-colors" role="group" aria-label="Note color"></div>
   <div class="actions"><button class="btn line" type="button" id="nc-del">Delete note</button><button class="btn solid" type="button" id="nc-done">Done</button></div>
@@ -1480,13 +1484,15 @@ function buildChapter(b, c, data) {
     if (a && a.h) span.dataset.h = a.h;
     if (a && a.n) span.classList.add("has-note");
     if (a && a.b) span.classList.add("bm");
-    if (a && a.r) { if (!chapter.ver) markRanges(span, a.r); placeStickies(span, id, a, wordingOf(chapter)); }
+    if (a && a.r) paintMarksOf(span, a, b, wordingOf(chapter, b));
     p.append(span);
     if (row[3] && row[3].p) { sec.append(p); p = para(); }
   }
   if (p.childNodes.length) sec.append(p);
   const ctx = { b, c, data, chapter, letters, sec, ...neighbors(b, c) };
   ctxOf.set(sec, ctx);
+  // Marks made on other wordings, and study markings in a version, once their word maps are in.
+  queueMicrotask(() => mapChapter(ctx));
   return ctx;
 }
 const ctxOfNode = node => { const sec = node && node.closest && node.closest(".chap"); return sec ? ctxOf.get(sec) : null; };
@@ -1792,7 +1798,7 @@ let selected = null;
 const HL = ["yellow", "green", "blue", "pink", "orange", "purple", "red", "teal", "gray"];
 // Ways of marking words: a highlight ("yellow"), or a line, a box or lettering in a color ("wavy:red").
 const PENS = [["bg", "Highlight"], ["line", "Underline"], ["double", "Double underline"], ["wavy", "Squiggly underline"], ["dash", "Dashed underline"],
-  ["zig", "Sharp underline"], ["box", "Box"], ["bold", "Bold"], ["strike", "Strikethrough"]];
+  ["zig", "Sharp underline"], ["box", "Box"], ["bold", "Bold"], ["strike", "Strikethrough"], ["emoji", "Emoji"]];
 const LINES = ["line", "double", "wavy", "dash", "zig"];
 const penOf = c => (HL.includes(c) ? "bg" : String(c).split(":")[0]);
 // What a new mark replaces where it lands: another of its kind (one highlight, one line, …).
@@ -2873,14 +2879,14 @@ function renderMine() {
       a.n ? el("span", { class: "n", text: a.n }) : null,
       // Notes on words, and your markings, in the verse.
       ...(a.r || []).filter(q => q[2] === "n" && q[3]).map(q => el("span", { class: "n", text: "✎ " + q[3] })),
-      (a.r || []).some(q => q[2] === "m") ? el("span", { class: "n" }, ...[...new Set(a.r.filter(q => q[2] === "m").map(q => q[3]))].map(markById).filter(Boolean).map(mkSym)) : null)));
+      (a.r || []).some(q => q[2] === "e") ? el("span", { class: "n", text: a.r.filter(q => q[2] === "e").map(q => q[3]).join(" ") }) : null)));
   }
 }
 const embedded = (() => { try { return window.top !== window.self; } catch (e) { return true; } })();
 $("backup").onclick = () => {
   $("backup-box").hidden = false;
   $("backup-label").textContent = "Your backup: copy it somewhere safe";
-  $("backup-text").value = JSON.stringify({ app: "plain-english-bible", version: 1, saved: new Date().toISOString(), annotations: notes, marks: myMarks }, null, 1);
+  $("backup-text").value = JSON.stringify({ app: "plain-english-bible", version: 1, saved: new Date().toISOString(), annotations: notes }, null, 1);
   $("backup-copy").hidden = false; $("backup-file").hidden = embedded;
   $("restore-apply").hidden = true; $("restore-file-label").hidden = true;
 };
@@ -2920,17 +2926,39 @@ $("restore-apply").onclick = () => {
   }
   store.set("annotations", notes);
   if (added.length) reader.annotations.onChange?.(added);
-  // Markings in the backup that this device doesn't have.
-  if (Array.isArray(data.marks)) {
-    const fresh = data.marks.filter(m => m && m.id && m.n && !markById(m.id));
-    if (fresh.length) { myMarks = [...myMarks, ...fresh]; saveMyMarks(); }
-  }
   toast(added.length ? `Restored ${added.length} ${added.length === 1 ? "highlight or note" : "highlights and notes"}` : "Nothing new in that backup");
   renderMine();
   if (cur) refresh();
 };
 
 /* ---------- Settings ---------- */
+// Themes (ui.js): the site's colors on every page, from the seasons.
+const SEASON_INFO = {
+  classic: ["Classic", "Parchment and lapis", '<path d="M12 6.5C10 5 7 4.5 3.5 5v14c3.5-.5 6.5 0 8.5 1.5 2-1.5 5-2 8.5-1.5V5C17 4.5 14 5 12 6.5Z"/><path d="M12 6.5v14"/>',
+    { light: { bg: "#fbfaf7", lapis: "#2646a1", gold: "#8a640b", ink: "#161b26" }, dark: { bg: "#0d111b", lapis: "#9db3ff", gold: "#e2bd5c", ink: "#e9ecf3" } }],
+  spring: ["Spring", "New leaves and blossom", '<path d="M12 21v-9"/><path d="M12 12c0-4 3-7 8-7 0 5-3 7-8 7Z"/><path d="M12 14c0-3-2.5-5.5-7-5.5 0 4 2.5 5.5 7 5.5Z"/>'],
+  summer: ["Summer", "Clear sky and sun", '<circle cx="12" cy="12" r="4"/><path d="M12 2.5v2.5M12 19v2.5M2.5 12H5M19 12h2.5M5.3 5.3l1.8 1.8M16.9 16.9l1.8 1.8M5.3 18.7l1.8-1.8M16.9 7.1l1.8-1.8"/>'],
+  autumn: ["Autumn", "Harvest and turning leaves", '<path d="M5 19C5 10 10 5 20 4c-1 10-6 15-15 15Z"/><path d="M5 19 13 11"/>'],
+  winter: ["Winter", "Snow and evening light", '<path d="M12 2.5v19M3.8 7.2l16.4 9.6M3.8 16.8l16.4-9.6"/><path d="m9.5 4.5 2.5 2 2.5-2M9.5 19.5l2.5-2 2.5 2M4.3 10.4l3.1-.6-1-3M19.7 13.6l-3.1.6 1 3M4.3 13.6l3.1.6-1 3M19.7 10.4l-3.1-.6 1-3"/>'],
+};
+function renderSeasons() {
+  const dark = document.documentElement.getAttribute("data-theme") ? document.documentElement.getAttribute("data-theme") === "dark" : matchMedia("(prefers-color-scheme: dark)").matches;
+  const now = UI.season ? UI.season() : "classic";
+  $("seasons").replaceChildren(...Object.entries(SEASON_INFO).map(([id, [name, sub, icon, own]]) => {
+    const c = (own || UI.seasonColors(id))[dark ? "dark" : "light"];
+    const sw = el("span", { class: "sw", style: `background:${c.bg};color:${c.lapis}` });
+    sw.innerHTML = `<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">${icon}</svg>`;
+    sw.append(el("i", { style: `background:${c.lapis}` }), el("i", { style: `background:${c.gold}` }), el("i", { style: `background:${c.ink}` }));
+    return el("button", { type: "button", role: "radio", "aria-checked": String(now === id), onclick: () => {
+      settings.season = id;
+      settings.seasonT = Date.now();
+      store.set("settings", settings);
+      reader.prefs.onChange?.(["season"]);
+      UI.setSeason(id);
+      renderSeasons();
+    } }, sw, el("span", {}, el("b", { text: name }), el("small", { text: sub })));
+  }));
+}
 const SEGS = [["theme", "theme"], ["numbering", "numbering"], ["shownotes", "notes"], ["showmarks", "marks"], ["versenums", "verseNums"], ["chapnums", "chapNums"]];
 function applySettings() {
   document.documentElement.style.setProperty("--size", settings.size + "px");
@@ -2939,6 +2967,8 @@ function applySettings() {
   $("size").value = settings.size;
   for (const [id, key] of SEGS)
     for (const b of $(id).children) b.setAttribute("aria-pressed", String(b.dataset.v === settings[key]));
+  if (window.UI && UI.setSeason && (settings.season || "classic") !== UI.season()) UI.setSeason(settings.season || "classic");
+  renderSeasons();
   $("marks-on").checked = settings.marks === "on";
   $("marks-sub").textContent = settings.marks === "on" ? "On" : "";
   store.set("settings", settings);
@@ -3502,6 +3532,23 @@ async function paintMarks(ctx) {
   catch (e) { return; }
   if (!sec.isConnected || settings.marks !== "on" || sec.querySelector(".smk")) return;
   const off = new Set(settings.markOff || []), marks = M[c - 1] || {};
+  // Our English has its markings counted for it; a version finds them by its word map; a wording
+  // with neither (our Chinese, for now) shows none rather than misplace them.
+  const here = wordingOf(ctx.chapter, b);
+  if (here !== "ours-en" && !mapNow(here, b)) return;
+  if (here !== "ours-en") {
+    const map = mapNow(here, b);
+    const rule = new Map();
+    R.markings.forEach((r, i) => { for (const sn of r.strongs || []) { const m = /^([HG])0*(\d+)/.exec(sn); if (m && (m[1] === "H") === (b.t === "OT")) rule.set(+m[2], i); } });
+    for (const span of sec.querySelectorAll(".v")) {
+      const toks = (map[c] || {})[span.dataset.v] || [];
+      for (let i = toks.length - 1; i >= 0; i--) {
+        const k = rule.get(toks[i][2]), r = k != null && R.markings[k];
+        if (r && !off.has(r.id)) wrapMark(span, toks[i][0], toks[i][1], r);
+      }
+    }
+    return;
+  }
   for (const span of sec.querySelectorAll(".v")) {
     const list = marks[span.dataset.v];
     if (!list) continue;
@@ -3589,7 +3636,85 @@ async function renderMarksKey() {
 $("marks-on").onchange = () => { settings.marks = $("marks-on").checked ? "on" : "off"; applySettings(); repaintMarks(); };
 $("open-marks").onclick = () => { openSheet("marks"); renderMarksKey(); };
 $("open-marks-2").onclick = () => { openSheet("marks"); renderMarksKey(); };
-$("open-mymarks").onclick = () => openMyMarks(false);
+
+/* ---------- Word maps ---------- */
+// Each wording (our translation in each language, and each version) has, where it can, a map of
+// where the words of the Hebrew, Aramaic and Greek fall in its verses (scripts/wordmaps.py). A
+// highlight, note or emoji made on one wording is shown on another by those words: the source
+// words under the marked text, found again, in order, in the other. Where a wording has no map,
+// a note or emoji finds its words' text there, or the end of the verse; a highlight waits.
+let MAPPED = [];
+getJSON("wordmaps/index.json").then(x => { MAPPED = x; for (const sec of sections()) mapChapter(ctxOf.get(sec)); }).catch(() => {});
+const mapCache = new Map();
+function wordMap(wording, b) {
+  if (!MAPPED.includes(wording)) return Promise.resolve(null);
+  const key = wording + "/" + b.slug;
+  if (!mapCache.has(key)) mapCache.set(key, getJSON(`wordmaps/${wording}/${b.slug}.json`).then(d => {
+    const out = {};
+    for (const ch of d.chapters) {
+      const cv = out[ch.c] = {};
+      for (const v in ch.v) {
+        const p = ch.v[v], toks = [];
+        let at = 0;
+        for (let i = 0; i < p.length; i += 3) { const s = at + p[i]; toks.push([s, s + p[i + 1], p[i + 2]]); at = s + p[i + 1]; }
+        cv[v] = toks;
+      }
+    }
+    return out;
+  }).catch(() => null));
+  return mapCache.get(key);
+}
+const mapsReady = new Map();   // wording/slug -> the map, once loaded
+function mapNow(wording, b) { return mapsReady.get(wording + "/" + b.slug) || null; }
+async function loadMap(wording, b) {
+  const m = await wordMap(wording, b);
+  if (m) mapsReady.set(wording + "/" + b.slug, m);
+  return m;
+}
+// The words of the original under [s, e] in one wording, found in another: [s, e] there, or null.
+function project(fromToks, toToks, s, e) {
+  if (!fromToks || !toToks) return null;
+  const seen = new Map(), want = [];
+  for (const [x, y, n] of fromToks) {
+    const k = (seen.get(n) || 0); seen.set(n, k + 1);
+    if (y > s && x < e) want.push([n, k]);
+  }
+  if (!want.length) return null;
+  const byN = new Map();
+  for (const t of toToks) { if (!byN.has(t[2])) byN.set(t[2], []); byN.get(t[2]).push(t); }
+  let lo = Infinity, hi = -1;
+  for (const [n, k] of want) {
+    const list = byN.get(n);
+    if (!list) continue;
+    const t = list[Math.min(k, list.length - 1)];
+    lo = Math.min(lo, t[0]); hi = Math.max(hi, t[1]);
+  }
+  return hi < 0 ? null : [lo, hi];
+}
+// The wording a mark was made on (marks from before the maps: our own, in the site's language).
+const wordingOfMark = (q, b) => (q[2] === "n" || q[2] === "e" ? q[4] && q[4].w : q[3] && q[3].w) || defaultWording(b);
+const defaultWording = b => (LANG === "en" || !(LB[LANG] || {})[b.osis]) ? "ours-en" : "ours-" + LANG;
+// After a chapter is shown: the maps it needs, then its marks from other wordings, and the study
+// markings in a version.
+async function mapChapter(ctx) {
+  if (!ctx || !MAPPED.length) return;
+  const { b, c, chapter, sec } = ctx;
+  const here = wordingOf(chapter, b);
+  const need = new Set();
+  for (const span of sec.querySelectorAll(".v")) {
+    const a = notes[span.dataset.id];
+    for (const q of (a && a.r) || []) { const w = wordingOfMark(q, b); if (w !== here) need.add(w); }
+  }
+  const studyHere = settings.marks === "on" && here !== "ours-en";
+  if (!need.size && !studyHere) return;
+  await Promise.all([here, ...need].map(w => loadMap(w, b)));
+  if (!sec.isConnected) return;
+  for (const span of sec.querySelectorAll(".v")) {
+    const a = notes[span.dataset.id];
+    if (a && a.r && a.r.some(q => wordingOfMark(q, b) !== here)) paintVerse(span);
+  }
+  if (studyHere) paintMarks(ctx);
+}
 
 /* ---------- Versions ---------- */
 // The language our wording is in, for a chapter read in our own translation (or null for another version).
@@ -3637,21 +3762,21 @@ $("ver").onclick = openVersions;
 // the same words are marked on every device. Selecting words in the text shows a color bar.
 function countedText(span) {
   const out = [];
-  const walk = document.createTreeWalker(span, NodeFilter.SHOW_TEXT, { acceptNode: n => n.parentElement.closest(".vn, .fn, .missing, .sticky") ? NodeFilter.FILTER_REJECT : NodeFilter.FILTER_ACCEPT });
+  const walk = document.createTreeWalker(span, NodeFilter.SHOW_TEXT, { acceptNode: n => n.parentElement.closest(".vn, .fn, .missing, .sticky, .emo") ? NodeFilter.FILTER_REJECT : NodeFilter.FILTER_ACCEPT });
   for (let n = walk.nextNode(); n; n = walk.nextNode()) out.push(n);
   return out;
 }
 function unmarkRanges(span) {
-  for (const st of span.querySelectorAll(".sticky")) st.remove();
+  for (const st of span.querySelectorAll(".sticky, .emo")) st.remove();
   for (const m of span.querySelectorAll("mark.hlp, mark.hls, mark.wn, mark.um")) m.replaceWith(...m.childNodes);
   span.normalize();
 }
 // A verse's ranges hold three kinds of thing, kept apart: [start, end, color] a highlight,
-// [start, end, "n", text] a note on those words, [start, end, "m", marking] one of your markings.
+// [start, end, "n", text, meta] a note on those words, [start, end, "e", emoji, meta] an emoji on them.
 const isHl = r => typeof r[2] === "string" && (HL.includes(r[2]) || (/^(line|double|wavy|dash|zig|box|bold|strike):(\w+)$/.test(r[2]) && HL.includes(r[2].split(":")[1])));
 function markRanges(span, ranges) {
   // Highlights first (the outer marks), then lines and lettering, then markings; notes are sticky notes (placeStickies).
-  const order = [...ranges.filter(r => HL.includes(r[2])), ...ranges.filter(r => isHl(r) && !HL.includes(r[2])), ...ranges.filter(r => r[2] === "m")];
+  const order = [...ranges.filter(r => HL.includes(r[2])), ...ranges.filter(r => isHl(r) && !HL.includes(r[2]))];
   for (const [s, e, c, x] of order) {
     let at = 0;
     for (const node of countedText(span)) {
@@ -3660,7 +3785,7 @@ function markRanges(span, ranges) {
         let mid = node;
         if (a > at) mid = mid.splitText(a - at);
         if (z < at + len) mid.splitText(z - a);
-        const m = c === "m" ? el("mark", { class: "um", "data-m": x }) : HL.includes(c) ? el("mark", { class: "hlp", "data-c": c })
+        const m = HL.includes(c) ? el("mark", { class: "hlp", "data-c": c })
           : el("mark", { class: "hls", "data-s": penOf(c), style: `--c:var(--ink-${c.split(":")[1]})` });
         mid.replaceWith(m); m.append(mid);
       }
@@ -3709,7 +3834,8 @@ function highlightSelection(color) {
     // What was marked here before gives way; then the new color, and like neighbors join up.
     let rs = [];
     // What gives way: marks of the same kind (clearing takes them all); notes, markings and other kinds stay.
-    const gives = q => isHl(q) && (!color || layerOf(q[2]) === layerOf(color));
+    const ctx = ctxOfNode(span), here = wordingOf(ctx.chapter, ctx.b);
+    const gives = q => isHl(q) && wordingOfMark(q, ctx.b) === here && (!color || layerOf(q[2]) === layerOf(color));
     const others = (a.r || []).filter(q => !gives(q));
     for (const [x, y, k] of (a.r || []).filter(gives)) {
       if (y <= s || x >= e) rs.push([x, y, k]);
@@ -3719,10 +3845,12 @@ function highlightSelection(color) {
     rs.sort((p, q) => p[0] - q[0]);
     rs = rs.reduce((acc, r) => { const l = acc[acc.length - 1]; if (l && l[2] === r[2] && l[1] >= r[0]) l[1] = Math.max(l[1], r[1]); else acc.push(r); return acc; }, []);
     const words = countedText(span).map(n => n.data).join("");
+    rs = rs.map(r => [r[0], r[1], r[2], { w: here, q: words.slice(r[0], r[1]).trim().slice(0, 300) }]);
     rs = rs.filter(([x, y]) => words.slice(x, y).trim());   // a leftover space isn't worth keeping
     a.r = [...rs, ...others];
     saveAnnotation(id, a);
     paintVerse(span);
+    if (color) for (const m of span.querySelectorAll("mark.hlp, mark.hls")) m.classList.add("fresh");
     touched.push(id);
   }
   clearSel();
@@ -3743,75 +3871,51 @@ function swatchRow(current, pick, { pressed = true } = {}) {
 // Markings you make yourself, to mark words through the Bible as you study: each has a name, a
 // symbol, a color and a style (a line under the words, a box round them, or the symbol alone).
 // They are kept on this device, and in your account when signed in (reader.prefs, "marks").
-const MK_SYMBOLS = ["▲", "●", "■", "◆", "★", "♥", "✚", "✝", "☁", "⚑", "✓", "✦"];
-const MK_COLORS = ["#c0392b", "#d35400", "#b7950b", "#27ae60", "#16a085", "#2e86c1", "#6c3483", "#7f8c8d"];
-const MK_STYLES = [["line", "Line under"], ["box", "Box around"], ["sym", "Symbol only"]];
-let myMarks = store.get("mymarks", []);
-let myMarksT = store.get("mymarksT", 0);
-function saveMyMarks() {
-  myMarksT = Date.now();
-  store.set("mymarks", myMarks); store.set("mymarksT", myMarksT);
-  paintMyMarks();
-  reader.prefs.onChange?.("marks");
-}
-function paintMyMarks() {
-  let st = $("mymarks-css");
-  if (!st) { st = el("style", { id: "mymarks-css" }); document.head.append(st); }
-  st.textContent = myMarks.map(markCss).join("\n");
-}
-function markCss(m) {
-  const sel = `mark.um[data-m="${m.id}"]`;
-  const look = m.st === "box" ? `outline: 2px solid ${m.c}; outline-offset: 1px; border-radius: 3px;` : m.st === "line" ? `box-shadow: inset 0 -3px 0 ${m.c};` : "";
-  return `${sel} { ${look} } ${sel}::before { content: "${m.s}︎"; color: ${m.c}; font: 700 0.62em/1 var(--sans); vertical-align: 0.55em; margin-inline-end: 1px; }`;
-}
-const markById = id => myMarks.find(m => m.id === id);
-const mkSym = m => el("span", { class: "mk-sym", style: `color:${m.c};background:color-mix(in srgb, ${m.c} 14%, transparent)`, "aria-hidden": "true", text: m.s + "︎" });
-
-// Apply (or, if it is already there, take off) a marking on the selected words.
-function markSelection(mid, picked = selectedVerses()) {
-  const touched = [];
-  let removed = false;
-  for (const [span, s, e] of picked) {
-    const id = span.dataset.id, a = notes[id] || {};
-    const rs = a.r || [];
-    const same = rs.findIndex(q => q[2] === "m" && q[3] === mid && q[0] === s && q[1] === e);
-    if (same >= 0) { rs.splice(same, 1); removed = true; } else rs.push([s, e, "m", mid]);
-    a.r = rs;
-    saveAnnotation(id, a);
-    paintVerse(span);
-    touched.push(id);
-  }
-  clearSel();
-  hlBar.hidden = true;
-  if (touched.length) toast(removed ? "Marking removed" : L.t("Marked as {name}", { name: markById(mid)?.n || "" }));
-}
 
 // A note on the selected words: the verse panel opens with a box for it at the top.
 // A note runs from a single word to several verses. It is kept with the verse it ends in:
 // [start, end, "n", text, {c: color, q: the words, f: the verse it starts in, w: the wording it
 // was written on}]; start counts in verse f (or this one), end in this one.
-function noteSelection() {
+let freshAt = "";   // the note or emoji just made, which arrives with a little motion
+function noteSelection() { anchorSelection("n", ""); }
+function emojiSelection(emoji) { anchorSelection("e", emoji); store.set("lastEmoji", emoji); }
+function anchorSelection(kind, value) {
   const vs = selectedVerses();
   if (!vs.length) return;
   const [first, s] = vs[0], [last, , e] = vs[vs.length - 1];
   const id = last.dataset.id, a = notes[id] || {};
   const quote = vs.map(([sp, x, y]) => countedText(sp).map(n => n.data).join("").slice(x, y).trim()).join(" ").replace(/\s+/g, " ");
-  const meta = { c: store.get("noteColor", "yellow"), q: quote.length > 400 ? quote.slice(0, 200) + " … " + quote.slice(-200) : quote, w: wordingOf(ctxOfNode(last).chapter) };
+  const lctx = ctxOfNode(last);
+  const meta = { c: store.get("noteColor", "yellow"), q: quote.length > 400 ? quote.slice(0, 200) + " … " + quote.slice(-200) : quote, w: wordingOf(lctx.chapter, lctx.b) };
   if (vs.length > 1) meta.f = first.dataset.id;
   if (e >= countedText(last).map(n => n.data).join("").trimEnd().length) meta.e = 1;   // to the end of the verse, in every wording
   a.r = a.r || [];
-  let k = a.r.findIndex(x => x[2] === "n" && x[0] === s && x[1] === e && (x[4]?.f || null) === (meta.f || null) && (x[4]?.w || meta.w) === meta.w);
-  if (k < 0) { a.r.push([s, e, "n", "", meta]); k = a.r.length - 1; }
+  const same = x => x[0] === s && x[1] === e && (x[4]?.f || null) === (meta.f || null) && (x[4]?.w || meta.w) === meta.w;
+  let k = kind === "n" ? a.r.findIndex(x => x[2] === "n" && same(x)) : a.r.findIndex(x => x[2] === "e" && x[3] === value && same(x));
+  if (kind === "e" && k >= 0) {   // the same emoji on the same words again: take it off
+    a.r.splice(k, 1); saveAnnotation(id, a); clearSel(); hlBar.hidden = true; repaint(id); toast("Emoji removed"); return;
+  }
+  if (k < 0) { a.r.push([s, e, kind, value, meta]); k = a.r.length - 1; }
   notes[id] = a;
   saveAnnotation(id, a);
   clearSel();
   hlBar.hidden = true;
+  freshAt = id + ":" + k;
   repaint(id);
-  openNote(id, k);
+  freshAt = "";
+  if (kind === "n") openNote(id, k);
 }
 // The wording a chapter is read in: a version, or our own translation in the site's language.
-const wordingOf = chapter => chapter.ver || "ours-" + LANG;
+const wordingOf = (chapter, b) => chapter.ver || (b && untranslated(b, chapter) ? "ours-en" : "ours-" + LANG);
 const STICKY_SVG = c => `<svg viewBox="0 0 20 20" aria-hidden="true"><path d="M2 2h16v11l-5 5H2z" fill="var(--hl-${c})" stroke="var(--ink-${c})" stroke-width="1.6" stroke-linejoin="round"/><path d="M13 18v-5h5" fill="var(--ink-${c})" fill-opacity=".35" stroke="var(--ink-${c})" stroke-width="1.6" stroke-linejoin="round"/><path d="M5.5 7h9M5.5 10.5h6" stroke="var(--ink-${c})" stroke-width="1.4" stroke-linecap="round" opacity=".7"/></svg>`;
+// Where a phrase stands in a verse, whole words, any case: [start, end], or null.
+function phraseIn(words, phrase) {
+  const parts = (phrase || "").split(/[^\p{L}\p{N}'’]+/u).filter(Boolean);
+  if (!parts.length || parts.join("").length < 3) return null;
+  const esc = w => w.replace(/[.*+?^${}()|[\]\\]/g, "\\$&");
+  const m = new RegExp("(?<![\\p{L}\\p{N}])" + parts.map(esc).join("[^\\p{L}\\p{N}]+") + "(?![\\p{L}\\p{N}])", "iu").exec(words);
+  return m ? [m.index, m.index + m[0].length] : null;
+}
 // Where the words of a note end, in another wording: its last few words found there, or the end of the verse.
 function tailIn(words, quote) {
   const tail = (quote || "").split(/[^\p{L}\p{N}]+/u).filter(Boolean).slice(-3);
@@ -3823,16 +3927,31 @@ function tailIn(words, quote) {
   }
   return -1;
 }
-function placeStickies(span, id, a, wording) {
+function placeStickies(span, id, a, wording, b) {
+  const [, c, v] = id.split(".");
+  const toToks = b && (mapNow(wording, b) || {})[c]?.[v];
   const words = countedText(span).map(n => n.data).join("");
   (a.r || []).forEach((q, k) => {
-    if (q[2] !== "n") return;
+    if (q[2] !== "n" && q[2] !== "e") return;
     const m = q[4] || {};
-    let at = (m.w || "ours-" + LANG) === wording ? q[1] : m.e ? -1 : tailIn(words, m.q);
+    const w = b ? wordingOfMark(q, b) : m.w || "ours-" + LANG;
+    let at;
+    if (w === wording) at = q[1];
+    else if (m.e) at = -1;
+    else {
+      // Its words' end, by the word map; else its words' text; else the end of the verse.
+      const p = (!m.f && phraseIn(words, m.q)) || (toToks && project((mapNow(w, b) || {})[c]?.[v], toToks, m.f ? 0 : q[0], q[1]));
+      at = p ? p[1] : tailIn(words, m.q);
+    }
     if (at < 0 || at > words.length) at = words.trimEnd().length;
-    const c = HL.includes(m.c) ? m.c : "yellow";
-    const st = el("span", { class: "sticky", role: "button", tabindex: "0", "data-k": k, "aria-label": L.t("Note: {text}", { text: q[3] || "" }), title: q[3] || "" });
-    st.innerHTML = STICKY_SVG(c);
+    const col = HL.includes(m.c) ? m.c : "yellow";
+    let st;
+    if (q[2] === "e") st = el("span", { class: "emo", role: "button", tabindex: "0", "data-k": k, "aria-label": q[3], text: q[3] });
+    else {
+      st = el("span", { class: "sticky", role: "button", tabindex: "0", "data-k": k, "aria-label": L.t("Note: {text}", { text: q[3] || "" }), title: q[3] || "" });
+      st.innerHTML = STICKY_SVG(col);
+    }
+    if (freshAt === id + ":" + k) st.classList.add("fresh");
     // Into the text, after the character the note ends at.
     let pos = 0;
     for (const node of countedText(span)) {
@@ -3851,9 +3970,27 @@ function placeStickies(span, id, a, wording) {
 function paintVerse(span) {
   const ctx = ctxOfNode(span), a = notes[span.dataset.id];
   unmarkRanges(span);
-  if (!a || !a.r) return;
-  if (!ctx || !ctx.chapter.ver) markRanges(span, a.r);
-  placeStickies(span, span.dataset.id, a, ctx ? wordingOf(ctx.chapter) : "ours-" + LANG);
+  if (!a || !a.r || !ctx) return;
+  paintMarksOf(span, a, ctx.b, wordingOf(ctx.chapter, ctx.b));
+}
+// A verse's highlights, notes and emoji in the wording it is shown in: those made on it where they
+// were made, the others where the word maps find their words.
+function paintMarksOf(span, a, b, here) {
+  const [, c, v] = span.dataset.id.split(".");
+  const toToks = (mapNow(here, b) || {})[c]?.[v];
+  let text = null;
+  const words = () => (text = text ?? countedText(span).map(n => n.data).join(""));
+  const ranges = [];
+  for (const q of a.r) {
+    if (!isHl(q)) continue;
+    const w = wordingOfMark(q, b);
+    if (w === here) { ranges.push(q); continue; }
+    // The same words, word for word, if this wording has them; else the source words, by the map.
+    const p = (q[3] && phraseIn(words(), q[3].q)) || project((mapNow(w, b) || {})[c]?.[v], toToks, q[0], q[1]);
+    if (p) ranges.push([p[0], p[1], q[2]]);
+  }
+  if (ranges.length) markRanges(span, ranges);
+  placeStickies(span, span.dataset.id, a, here, b);
 }
 const repaint = id => { for (const sp of $("text").querySelectorAll(`.v[data-id="${id}"]`)) paintVerse(sp); };
 
@@ -3868,6 +4005,15 @@ function openNote(id, k) {
   let quote = m.q;
   if (!quote) { const sp = $("text").querySelector(`.v[data-id="${id}"]`); if (sp && !ctxOfNode(sp)?.chapter.ver) quote = countedText(sp).map(n => n.data).join("").slice(q[0], q[1]).trim(); }
   $("nc-quote").replaceChildren(...(quote ? ["“", el("b", { text: quote }), "”"] : []));
+  const emo = q[2] === "e";
+  $("notecard").classList.toggle("is-emoji", emo);
+  $("nc-del").textContent = L.t(emo ? "Remove emoji" : "Delete note");
+  if (emo) {
+    $("nc-emoji").replaceChildren(...EMOJI.map(x => el("button", { type: "button", class: "emo-pick", "aria-pressed": String(x === q[3]), text: x,
+      onclick: () => { q[3] = x; saveAnnotation(id, a); repaint(id); openNote(id, k); } })));
+    openSheet("notecard");
+    return;
+  }
   $("nc-text").value = q[3] || "";
   const paint = () => $("nc-colors").replaceChildren(...HL.map(h => el("button", { class: "swatch ink", type: "button", style: `--c:var(--ink-${h})`, "aria-label": h, title: h,
     "aria-pressed": String((m.c || "yellow") === h), onclick: () => { m.c = h; store.set("noteColor", h); saveAnnotation(id, a); repaint(id); paint(); } })));
@@ -3892,6 +4038,7 @@ function deleteNote(id, k) {
 // Leaving the card: a note left empty goes.
 function ncLeave() {
   if (!nc) return;
+  if ($("notecard").classList.contains("is-emoji")) { nc = null; return; }
   clearTimeout(ncTimer);
   const { id, k } = nc;
   nc = null;
@@ -3906,16 +4053,13 @@ function renderWordNotes(id, span) {
   const list = $("vwords"), a = notes[id] || {};
   if (ctxOfNode(span)?.chapter.ver) { list.hidden = true; return; }   // they belong to our wording
   const words = countedText(span).map(n => n.data).join("");
-  const items = (a.r || []).filter(q => q[2] === "n" || q[2] === "m").sort((p, q) => p[0] - q[0]);
+  const items = (a.r || []).filter(q => q[2] === "n" || q[2] === "e").sort((p, q) => p[0] - q[0]);
   list.replaceChildren(...items.map(q => {
     const quote = el("div", { class: "q" }, "“", el("b", { text: (q[4] && q[4].q) || words.slice(q[0], q[1]).trim() }), "”");
-    const rm = el("button", { class: "rm", type: "button", "aria-label": q[2] === "n" ? "Delete this note" : "Remove this marking", text: "✕", onclick: () => {
+    const rm = el("button", { class: "rm", type: "button", "aria-label": q[2] === "n" ? "Delete this note" : "Remove this emoji", text: "✕", onclick: () => {
       a.r = a.r.filter(x => x !== q); saveAnnotation(id, a); repaint(id); renderWordNotes(id, span);
     } });
-    if (q[2] === "m") {
-      const m = markById(q[3]);
-      return el("li", {}, el("div", {}, quote, el("div", { class: "mk-chip" }, m ? mkSym(m) : null, m ? m.n : "A marking you deleted")), rm);
-    }
+    if (q[2] === "e") return el("li", {}, el("div", {}, el("span", { class: "emo-big", text: q[3] }), quote), rm);
     const box = el("textarea", { "aria-label": "My note on these words", placeholder: "Write a note on these words.", "data-s": q[0], "data-e": q[1] });
     box.value = q[3] || "";
     let t = 0;
@@ -3929,7 +4073,6 @@ function renderWordNotes(id, span) {
 /* The bar over selected words: highlight colors and clear, a note, a marking, a bookmark. */
 const hlBar = el("div", { class: "hl-bar", id: "hl-bar", hidden: true, role: "toolbar", "aria-label": "Highlight the selected words" });
 const ICON_NOTE = '<svg class="icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M4 20h4L19 9l-4-4L4 16Z"/><path d="m13.5 6.5 4 4"/></svg>';
-const ICON_MARK = '<svg class="icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="m12 3 2.6 5.6 6.1.7-4.5 4.2 1.2 6L12 16.6 6.6 19.5l1.2-6-4.5-4.2 6.1-.7Z"/></svg>';
 const ICON_BM = '<svg class="icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M6 3h12v18l-6-4.5L6 21Z"/></svg>';
 const ICON_COPY = '<svg class="icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="8" y="8" width="12" height="12" rx="2.5"/><path d="M16 8V5.5A1.5 1.5 0 0 0 14.5 4h-9A1.5 1.5 0 0 0 4 5.5v9A1.5 1.5 0 0 0 5.5 16H8"/></svg>';
 const keepSel = e => e.preventDefault();
@@ -3942,30 +4085,56 @@ function barTool(label, icon, onclick, text) {
 // What to do with the chosen words: a row of its own, named, so it is always in view.
 const ICON_STICKY = '<svg class="icon" viewBox="0 0 20 20" aria-hidden="true"><path d="M2 2h16v11l-5 5H2z" fill="var(--hl-yellow)" stroke="var(--ink-yellow)" stroke-width="1.6" stroke-linejoin="round"/><path d="M13 18v-5h5" fill="var(--ink-yellow)" fill-opacity=".35" stroke="var(--ink-yellow)" stroke-width="1.6" stroke-linejoin="round"/><path d="M5.5 7h9M5.5 10.5h6" stroke="var(--ink-yellow)" stroke-width="1.4" stroke-linecap="round"/></svg>';
 const toolRow = (...tools) => el("div", { class: "row tools" }, ...tools);
-function hlBarMain(other) {
+// The balloon over chosen words: a style (a highlight, a line, a box, lettering, or an emoji),
+// then its color (or which emoji); then a note, a bookmark, a copy. The same in every version:
+// what is marked in one is found in the others by the words of the original (see "Word maps").
+function hlBarMain() {
   hlBar.classList.remove("marking");
-  // In another version the words are not ours: whole verses can still be bookmarked, and
-  // highlighted from the verse panel.
-  if (other) {
-    hlBar.replaceChildren(el("div", { class: "row" }, el("span", { class: "hl-note", text: "Highlights and markings on words are kept on our own translation; notes go with every version." })),
-      toolRow(barTool("Note on these words", ICON_STICKY, noteSelection, L.t("Note")), barTool("Bookmark the selected verses", ICON_BM, bookmarkSelection, L.t("Bookmark")),
-        barTool("Copy the selected words", ICON_COPY, copySelection, L.t("Copy"))));
-    return;
-  }
-  const sample = p => p === "bg" ? el("mark", { class: "hlp", "data-c": "yellow", text: "Ab" }) : el("mark", { class: "hls", "data-s": p, style: "--c:currentColor", text: p === "box" ? "Ab" : p === "bold" ? "B" : p === "strike" ? "S" : "U" });
+  const sample = p => p === "emoji" ? el("span", { class: "emo-sample", text: "😊" }) : p === "bg" ? el("mark", { class: "hlp", "data-c": "yellow", text: "Ab" })
+    : el("mark", { class: "hls", "data-s": p, style: "--c:currentColor", text: p === "box" ? "Ab" : p === "bold" ? "B" : p === "strike" ? "S" : "U" });
   const pens = el("div", { class: "row styles", role: "group", "aria-label": "Style" }, ...PENS.map(([p, label]) =>
     el("button", { type: "button", class: "pen", "aria-label": label, title: label, "aria-pressed": String(pen === p), onmousedown: keepSel,
-      onclick: () => { pen = p; store.set("pen", p); hlBarMain(); } }, sample(p))));
-  const colors = HL.map(h => el("button", { class: "swatch" + (pen === "bg" ? "" : " ink"), type: "button", "data-h": h,
-    style: pen === "bg" ? `background:var(--hl-${h})` : `--c:var(--ink-${h})`, "aria-label": h, title: h, onmousedown: keepSel,
-    onclick: () => highlightSelection(pen === "bg" ? h : `${pen}:${h}`) }));
-  const clear = el("button", { class: "swatch none", type: "button", "aria-label": "Clear highlight", title: "Clear highlight", onmousedown: keepSel, onclick: () => highlightSelection(null) });
-  hlBar.replaceChildren(pens, el("div", { class: "row" }, ...colors, clear),
-    toolRow(barTool("Note on these words", ICON_STICKY, noteSelection, L.t("Note")), barTool("Mark these words", ICON_MARK, hlBarMarks, L.t("Marking")),
+      onclick: () => { pen = p; store.set("pen", p); hlBarMain(); placeHlBar(); } }, sample(p))));
+  let second;
+  if (pen === "emoji") {
+    const last = store.get("lastEmoji", null);
+    const list = last && EMOJI.includes(last) ? [last, ...EMOJI.filter(x => x !== last)] : EMOJI;
+    second = el("div", { class: "row emo-row" }, ...list.map(x => el("button", { type: "button", class: "emo-pick", "aria-label": x, onmousedown: keepSel, onclick: () => emojiSelection(x), text: x })),
+      el("button", { class: "swatch none", type: "button", "aria-label": "Remove emoji", title: "Remove emoji", onmousedown: keepSel, onclick: () => clearEmoji() }));
+  } else {
+    const colors = HL.map(h => el("button", { class: "swatch" + (pen === "bg" ? "" : " ink"), type: "button", "data-h": h,
+      style: pen === "bg" ? `background:var(--hl-${h})` : `--c:var(--ink-${h})`, "aria-label": h, title: h, onmousedown: keepSel,
+      onclick: () => highlightSelection(pen === "bg" ? h : `${pen}:${h}`) }));
+    second = el("div", { class: "row" }, ...colors, el("button", { class: "swatch none", type: "button", "aria-label": "Clear highlight", title: "Clear highlight", onmousedown: keepSel, onclick: () => highlightSelection(null) }));
+  }
+  hlBar.replaceChildren(pens, second,
+    toolRow(barTool("Note on these words", ICON_STICKY, noteSelection, L.t("Note")),
       barTool("Bookmark the selected verses", ICON_BM, bookmarkSelection, L.t("Bookmark")), barTool("Copy the selected words", ICON_COPY, copySelection, L.t("Copy"))));
+}
+// Emoji for marking a passage: the last one used first, then a set chosen for study.
+const EMOJI = ["❤️", "🙏", "✝️", "🕊️", "👑", "💡", "⭐", "❓", "❗", "🔥", "🌱", "💧", "🍞", "🐑", "📖", "✨", "😊", "😢", "🙌", "⚠️", "🛡️", "⚓", "🌅", "🎵"];
+// Take the emoji off the chosen words.
+function clearEmoji() {
+  const vs = selectedVerses();
+  if (!vs.length) return;
+  const last = vs[vs.length - 1][0], id = last.dataset.id, a = notes[id];
+  const ids = new Set(vs.map(([sp]) => sp.dataset.id));
+  let n = 0;
+  for (const vid of ids) {
+    const x = notes[vid];
+    if (!x || !x.r) continue;
+    const before = x.r.length;
+    x.r = x.r.filter(q => q[2] !== "e");
+    n += before - x.r.length;
+    if (before !== x.r.length) { saveAnnotation(vid, x); repaint(vid); }
+  }
+  clearSel(); hlBar.hidden = true;
+  toast(n ? "Emoji removed" : "No emoji here");
 }
 let pen = store.get("pen", "bg");
 if (!PENS.some(([p]) => p === pen)) pen = "bg";
+hlBarMain();
+document.body.append(hlBar);
 // Copy the chosen words, with where they are from.
 function copySelection() {
   const vs = selectedVerses();
@@ -3979,86 +4148,6 @@ function copySelection() {
   if (navigator.clipboard) navigator.clipboard.writeText(text).then(done).catch(() => fallbackCopy(text, done));
   else fallbackCopy(text, done);
 }
-// The second step of "mark": your markings, a way to make one, and back.
-function hlBarMarks() {
-  hlBar.classList.add("marking");
-  const back = el("button", { type: "button", class: "swatch tool", "aria-label": "Back", title: "Back", onmousedown: keepSel, onclick: hlBarMain, text: "‹" });
-  const chips = myMarks.map(m => el("button", { type: "button", class: "mk-pick", title: m.n, "aria-label": m.n, onmousedown: keepSel, onclick: () => markSelection(m.id) }, mkSym(m), el("span", { text: m.n })));
-  const add = el("button", { type: "button", class: "mk-pick add", onmousedown: keepSel, onclick: () => openMyMarks(true) }, el("span", { text: myMarks.length ? "＋" : "＋ New marking" }));
-  hlBar.replaceChildren(el("div", { class: "row" }, back, ...chips, add));
-  placeHlBar();
-}
-hlBarMain();
-document.body.append(hlBar);
-/* The "My markings" panel: your markings, and making or changing one. */
-let mkPending = null, mkEditing = null;
-function openMyMarks(fromSelection) {
-  // Words selected when you asked for a new marking get it as soon as it is saved.
-  mkPending = fromSelection ? selectedVerses().map(([span, s, e]) => [span, s, e]) : null;
-  if (fromSelection) { clearSel(); hlBar.hidden = true; }
-  renderMyMarks();
-  openSheet("mymarks");
-  if (fromSelection || !myMarks.length) editMark(null);
-}
-function renderMyMarks() {
-  $("mk-list").replaceChildren(...myMarks.map(m => {
-    const used = Object.values(notes).reduce((t, a) => t + (a.r || []).filter(q => q[2] === "m" && q[3] === m.id).length, 0);
-    return el("li", {}, mkSym(m), el("b", { text: m.n }), el("small", { text: L.plural(used, "{n} place", "{n} places") }),
-      el("button", { class: "btn line", type: "button", text: "Edit", onclick: () => editMark(m) }));
-  }));
-  $("mk-list").hidden = !myMarks.length;
-}
-function editMark(m) {
-  mkEditing = m;
-  const d = m ? { ...m } : { n: "", s: MK_SYMBOLS[myMarks.length % MK_SYMBOLS.length], c: MK_COLORS[myMarks.length % MK_COLORS.length], st: "line" };
-  $("mk-edit").hidden = false;
-  $("mk-del").hidden = !m;
-  $("mk-name").value = d.n;
-  const pick = (box, list, key, show) => {
-    box.replaceChildren(...list.map(v => {
-      const val = Array.isArray(v) ? v[0] : v;
-      const b = el("button", { type: "button", role: "radio", "aria-checked": String(d[key] === val), "aria-label": Array.isArray(v) ? v[1] : val,
-        onclick: () => { d[key] = val; for (const x of box.children) x.setAttribute("aria-checked", String(x === b)); preview(); } });
-      show(b, v);
-      return b;
-    }));
-  };
-  const preview = () => {
-    $("mk-preview").replaceChildren(el("style", { text: markCss({ ...d, id: "preview" }) }),
-      "In the beginning ", el("mark", { class: "um", "data-m": "preview", text: "God" }), " created the heavens and the earth.");
-  };
-  pick($("mk-syms"), MK_SYMBOLS, "s", (b, v) => { b.textContent = v + "︎"; });
-  pick($("mk-cols"), MK_COLORS, "c", (b, v) => { b.style.background = v; });
-  pick($("mk-sts"), MK_STYLES, "st", (b, v) => { b.textContent = v[1]; });
-  preview();
-  $("mk-edit").onsubmit = ev => {
-    ev.preventDefault();
-    d.n = $("mk-name").value.trim();
-    if (!d.n) { $("mk-name").focus(); return; }
-    if (m) Object.assign(m, d); else { d.id = "m" + Date.now().toString(36); myMarks.push(d); }
-    saveMyMarks();
-    $("mk-edit").hidden = true;
-    renderMyMarks();
-    if (!m && mkPending && mkPending.length) { markSelection(d.id, mkPending); mkPending = null; closeSheets(); }
-    else toast("Saved");
-  };
-  $("mk-cancel").onclick = () => { $("mk-edit").hidden = true; mkPending = null; };
-  $("mk-del").onclick = () => {
-    if (!confirm(L.t("Delete the marking “{name}”? It will be taken off every word it marks.", { name: m.n }))) return;
-    myMarks = myMarks.filter(x => x !== m);
-    const ids = [];
-    for (const [id, a] of Object.entries(notes)) if ((a.r || []).some(q => q[2] === "m" && q[3] === m.id)) {
-      a.r = a.r.filter(q => !(q[2] === "m" && q[3] === m.id)); saveAnnotation(id, a); ids.push(id);
-    }
-    saveMyMarks();
-    $("mk-edit").hidden = true;
-    renderMyMarks();
-    if (cur) refresh();
-  };
-  setTimeout(() => $("mk-name").focus(), 50);
-}
-$("mk-new").onclick = () => editMark(null);
-paintMyMarks();
 
 function placeHlBar() {
   const r = selRange();
@@ -4078,7 +4167,7 @@ let hlTimer = 0;
 function showSelBar() {
   const vs = selectedVerses();
   if (!vs.length) { hlBar.hidden = true; return; }
-  if (hlBar.hidden) hlBarMain(vs.some(([span]) => ctxOfNode(span)?.chapter.ver));
+  if (hlBar.hidden) hlBarMain();
   hlBar.hidden = false;
   placeHlBar();
 }
@@ -4228,7 +4317,7 @@ function pickVerse(span) {
 }
 
 $("text").addEventListener("click", ev => {
-  const st = ev.target.closest(".sticky");
+  const st = ev.target.closest(".sticky, .emo");
   if (st) { ev.stopPropagation(); skipUntil = 0; clearSel(); openNote(st.closest(".v").dataset.id, +st.dataset.k); return; }
   if (Date.now() < skipUntil) { skipUntil = 0; return; }
   // A verse number chooses the whole verse; another verse number, while words are chosen, takes in
@@ -4351,7 +4440,7 @@ Promise.all([getJSON("books.json"), Promise.all(ourLangs.map(k => getJSON(`i18n/
   addEventListener("hashchange", route);
   route();
 }).catch(() => { $("loading").textContent = "The Bible couldn't be loaded. Check your connection and reload the page."; });
-if ("serviceWorker" in navigator && /^https?:$/.test(location.protocol) && !embedded) navigator.serviceWorker.register("sw.js?v=62").catch(() => {});
+if ("serviceWorker" in navigator && /^https?:$/.test(location.protocol) && !embedded) navigator.serviceWorker.register("sw.js?v=63").catch(() => {});
 
 /* ---------- For account.js: highlights and notes, and two of the reader's tools ---------- */
 var reader = {
@@ -4379,19 +4468,18 @@ var reader = {
     },
     onChange: null,
   },
-  // Other things kept in the account by key: "marks", your markings. { v, t } here; the account's when newer.
+  // Other things kept in the account by key: "season", your theme. { v, t } here; the account's when newer.
   prefs: {
-    keys: ["marks"],
-    get: key => key === "marks" ? { v: myMarks, t: myMarksT } : null,
+    keys: ["season"],
+    get: key => key === "season" ? { v: settings.season || "classic", t: settings.seasonT || 0 } : null,
     apply(key, v, t) {
-      if (key !== "marks" || !Array.isArray(v)) return;
-      myMarks = v; myMarksT = t;
-      store.set("mymarks", myMarks); store.set("mymarksT", myMarksT);
-      paintMyMarks();
-      if (!$("mymarks").hidden) renderMyMarks();
+      if (key !== "season" || typeof v !== "string") return;
+      settings.season = v; settings.seasonT = t;
+      store.set("settings", settings);
+      UI.setSeason(v);
+      renderSeasons();
     },
-    // The first time a device meets the account's markings: both sets, joined by id.
-    merge: (key, mine, theirs) => key === "marks" ? [...theirs, ...mine.filter(m => !theirs.some(x => x.id === m.id))] : theirs,
+    merge: (key, mine, theirs) => theirs,
     onChange: null,
   },
   signedIn: false,   // account.js sets it
