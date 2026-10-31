@@ -83,6 +83,15 @@ html.ar-on .card.ui-sheet { position: fixed !important; inset: auto auto max(16p
 html.ar-on .card .ui-grab { display: none; }
 html.ar-on .card h2 { font-size: 22px; }
 html.ar-on .card .close { top: 6px; right: 6px; }
+/* On an iPhone or iPad: a choice between Apple's AR (the room) and the camera view (taps). */
+#ar-choose { position: fixed; left: 50%; bottom: max(20px, env(safe-area-inset-bottom, 0px)); transform: translateX(-50%); z-index: 90; width: min(320px, calc(100vw - 24px)); padding: 8px; border-radius: 18px; border: 1px solid var(--line);
+  background: color-mix(in srgb, var(--surface) 96%, transparent); backdrop-filter: blur(12px); -webkit-backdrop-filter: blur(12px); box-shadow: 0 14px 40px rgb(0 0 0 / 40%); animation: ar-drop .16s cubic-bezier(.2, .8, .2, 1); }
+#ar-choose[hidden] { display: none; }
+#ar-choose button { display: grid; grid-template-columns: 34px 1fr; gap: 2px 10px; width: 100%; padding: 10px; border: 0; border-radius: 12px; background: none; color: var(--ink); text-align: left; cursor: pointer; font: 600 15px/1.25 var(--sans); }
+#ar-choose button:hover { background: var(--lapis-soft); }
+#ar-choose button svg { grid-row: span 2; width: 28px; height: 28px; color: var(--lapis); }
+#ar-choose small { font: 400 13px/1.35 var(--sans); color: var(--muted); }
+@keyframes ar-drop { from { opacity: 0; transform: translateX(-50%) translateY(10px) scale(.97); } }
 @keyframes ar-pop { from { opacity: 0; transform: translateX(-50%) translateY(8px) scale(.96); } }
 .nogl { position: absolute; inset: 0; display: grid; place-items: center; padding: 24px; text-align: center; color: var(--muted); }
 </style>
@@ -112,6 +121,10 @@ html.ar-on .card .close { top: 6px; right: 6px; }
   <div class="key" id="key"></div>
   <div class="hint" id="hint">Loading the web …</div>
   <article class="card ui-sheet" id="card" hidden aria-live="polite"></article>
+  <div id="ar-choose" hidden role="menu">
+      <button type="button" id="ar-room" role="menuitem"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M12 3 20 7.5v9L12 21l-8-4.5v-9Z"/><path d="M4 7.5 12 12l8-4.5M12 12v9"/><path d="M2 21h20"/></svg><span id="ar-room-t">Place it in your room</span><small id="ar-room-s">Apple's own AR: it stands on your floor or table and you walk round it.</small></button>
+      <button type="button" id="ar-cam" role="menuitem"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M4 8h3l2-3h6l2 3h3v11H4Z"/><circle cx="12" cy="13" r="3.5"/></svg><span>Look through the camera</span><small>Tap points in it and follow their connections, one to the next.</small></button>
+    </div>
 </div>
 <div id="ar-ui">
   <p id="ar-tip">Tap a point to see its connections; tap one of them to follow it.</p>
@@ -499,9 +512,166 @@ html.ar-on .card .close { top: 6px; right: 6px; }
   (async () => {
     try { AR.xr = !!(navigator.xr && await navigator.xr.isSessionSupported("immersive-ar")); } catch (e) { AR.xr = false; }
     const camOk = !!(navigator.mediaDevices && navigator.mediaDevices.getUserMedia) && "DeviceOrientationEvent" in window && matchMedia("(pointer: coarse)").matches;
-    $("ar").hidden = !(AR.xr || camOk);
+    $("ar").hidden = !(AR.xr || camOk || quickLook);
   })();
-  $("ar").onclick = () => { if (AR.xr) startXR().catch(() => startCam()); else startCam(); };
+  // Apple's AR Quick Look (iPhone, iPad, Vision Pro): Safari places a model in the room with
+  // ARKit, the phone's own AR. It shows a model and runs none of the page, so the model is built
+  // here, now, from what is on screen: with nothing chosen, the whole web; with a point chosen,
+  // that point and its connections, each with its name, to read standing round it. Back on the
+  // page, tap another and place it again to follow the trail. (three.js's USDZ exporter, loaded
+  // only for this.)
+  const quickLook = (() => { const a = document.createElement("a"); return !!(a.relList && a.relList.supports && a.relList.supports("ar")); })();
+  const THREE_URL = "https://cdn.jsdelivr.net/npm/three@0.160.0/+esm";
+  const USDZ_URL = "https://cdn.jsdelivr.net/npm/three@0.160.0/examples/jsm/exporters/USDZExporter.js/+esm";
+  async function placeInRoom() {
+    arNote(selected != null ? L.t("Building {name} and its connections …", { name: label(selected) }) : L.t("Building the web …"));
+    try {
+      const data = await makeUSDZ();
+      const url = URL.createObjectURL(new Blob([data], { type: "model/vnd.usdz+zip" }));
+      const a = document.createElement("a");
+      a.rel = "ar"; a.href = url; a.append(document.createElement("img"));
+      document.body.append(a); a.click();
+      setTimeout(() => a.remove(), 2000);
+      $("hint").classList.add("gone");
+    } catch (e) { arNote(L.t("The model couldn't be built here.")); }
+  }
+  async function makeUSDZ() {
+    const THREE = await import(THREE_URL);
+    const { USDZExporter } = await import(USDZ_URL);
+    return new USDZExporter().parse(buildModel(THREE));
+  }
+  window.Web3D = { arHere: () => !$("ar").hidden && AR.mode !== "xr" && !(AR.mode === "cam" && !quickLook), ar: () => (AR.mode === "cam" ? placeInRoom() : $("ar").click()), usdz: makeUSDZ, model: async () => buildModel(await import(THREE_URL)), select: i => select(i) };   // for checking the model, and for tests
+  const L = window.I18N || { t: (s, v) => s.replace(/\{(\w+)\}/g, (m, k) => (v && k in v ? v[k] : m)) };
+  const firstOf = b => { for (let i = 0; i < NC; i++) if (bookOf[i] === b) return i; return 0; };
+  function buildModel(THREE) {
+    const scene = new THREE.Scene();
+    const focus = selected;
+    // The whole web: every chapter, and the most connected people, places and events (enough to
+    // see its shape, and light enough for a phone to build).
+    const ids = focus != null ? [focus, ...kin.slice(0, 48)]
+      : [...Array.from({ length: NC }, (_, i) => i), ...Array.from({ length: N - NC }, (_, i) => NC + i).sort((a, b) => deg[b] - deg[a]).slice(0, 900)];
+    const c = focus != null ? [P[3 * focus], P[3 * focus + 1], P[3 * focus + 2]] : [0, 0, 0];
+    let R = focus != null ? 0 : graphR;
+    if (focus != null) for (const i of ids) R = Math.max(R, Math.hypot(P[3 * i] - c[0], P[3 * i + 1] - c[1], P[3 * i + 2] - c[2]));
+    const k = (focus != null ? 0.32 : 0.5) / (R || 1);                       // metres for a unit of the web
+    const at = i => [(P[3 * i] - c[0]) * k, (P[3 * i + 1] - c[1]) * k + R * k + 0.02, (P[3 * i + 2] - c[2]) * k];  // standing on the floor
+    // The points: one mesh for each group's color.
+    // One small ball, its corners shared by its faces (the file stays small).
+    const ico = new THREE.IcosahedronGeometry(1, focus != null ? 1 : 0), raw = ico.attributes.position.array;
+    const key = new Map(), iv = [], tri = [];
+    for (let v = 0; v < raw.length; v += 3) {
+      const kk = raw[v].toFixed(4) + "," + raw[v + 1].toFixed(4) + "," + raw[v + 2].toFixed(4);
+      if (!key.has(kk)) { key.set(kk, iv.length / 3); iv.push(raw[v], raw[v + 1], raw[v + 2]); }
+      tri.push(key.get(kk));
+    }
+    const byGroup = new Map();
+    for (const i of ids) { if (!byGroup.has(group[i])) byGroup.set(group[i], []); byGroup.get(group[i]).push(i); }
+    for (const [g, list] of byGroup) {
+      const pos = new Float32Array(list.length * iv.length), nor = new Float32Array(list.length * iv.length), idx = [];
+      list.forEach((i, n) => {
+        const p = at(i), r = focus != null ? (i === focus ? 0.022 : 0.012) : Math.min(0.012, Math.max(0.0025, sizeOf(i) * k * 0.45));
+        for (let v = 0; v < iv.length; v += 3) {
+          pos[n * iv.length + v] = p[0] + iv[v] * r; pos[n * iv.length + v + 1] = p[1] + iv[v + 1] * r; pos[n * iv.length + v + 2] = p[2] + iv[v + 2] * r;
+          nor[n * iv.length + v] = iv[v]; nor[n * iv.length + v + 1] = iv[v + 1]; nor[n * iv.length + v + 2] = iv[v + 2];
+        }
+        for (const t of tri) idx.push(n * iv.length / 3 + t);
+      });
+      const geo = new THREE.BufferGeometry();
+      geo.setAttribute("position", new THREE.BufferAttribute(pos, 3)); geo.setAttribute("normal", new THREE.BufferAttribute(nor, 3));
+      geo.setIndex(idx);
+      const col = new THREE.Color(GROUPS[g].c);
+      const mesh = new THREE.Mesh(geo, new THREE.MeshStandardMaterial({ color: col, emissive: col, emissiveIntensity: 0.55, roughness: 0.45 }));
+      mesh.name = "points_" + g;
+      scene.add(mesh);
+    }
+    // The threads: thin rods (AR Quick Look draws no lines). The whole web keeps the chapters'
+    // own order and a share of the cross-references; a point keeps its threads to each connection.
+    const links = [];
+    if (focus != null) for (const j of ids.slice(1)) links.push([focus, j]);
+    else for (let e = 0; e < linkA.length; e++) if (linkT[e] === 1 || (linkT[e] === 0 && e % 4 === 0)) links.push([linkA[e], linkB[e]]);
+    // Each rod: a ring of three corners at each end, shared by its sides.
+    const rr = focus != null ? 0.0022 : 0.0007, SIDES = 3, lp = new Float32Array(links.length * SIDES * 6), li = [];
+    let o = 0;
+    links.forEach(([a, b], n) => {
+      const A = at(a), B = at(b), d = norm(sub(B, A));
+      const u = norm(Math.abs(d[1]) < 0.9 ? cross(d, [0, 1, 0]) : cross(d, [1, 0, 0])), w = cross(d, u);
+      for (const Pt of [A, B]) for (let s2 = 0; s2 < SIDES; s2++) {
+        const t = 2 * Math.PI * s2 / SIDES, cu = Math.cos(t) * rr, sw = Math.sin(t) * rr;
+        lp[o++] = Pt[0] + u[0] * cu + w[0] * sw; lp[o++] = Pt[1] + u[1] * cu + w[1] * sw; lp[o++] = Pt[2] + u[2] * cu + w[2] * sw;
+      }
+      const base = n * SIDES * 2;
+      for (let s2 = 0; s2 < SIDES; s2++) {
+        const a0 = base + s2, a1 = base + (s2 + 1) % SIDES, b0 = base + SIDES + s2, b1 = base + SIDES + (s2 + 1) % SIDES;
+        li.push(a0, b0, b1, a0, b1, a1);
+      }
+    });
+    const lg = new THREE.BufferGeometry();
+    lg.setAttribute("position", new THREE.BufferAttribute(lp, 3)); lg.setIndex(li); lg.computeVertexNormals();
+    const lcCol = new THREE.Color(focus != null ? GROUPS[group[focus]].c : "#b9c6e4");
+    const lines = new THREE.Mesh(lg, new THREE.MeshStandardMaterial({ color: lcCol, emissive: lcCol, emissiveIntensity: 0.4, transparent: true, opacity: focus != null ? 0.75 : 0.4, side: THREE.DoubleSide }));
+    lines.name = "threads";
+    scene.add(lines);
+    // Names: each point's own, around a chosen point; the books', over the whole web.
+    const names = focus != null ? ids.map(i => [label(i), at(i), i === focus ? 0.05 : 0.032, GROUPS[group[i]].c])
+      : bookCenters.map(([b, x, y, z]) => [tr(D.books[b][0]), [(x - c[0]) * k, (y - c[1]) * k + R * k + 0.06, (z - c[2]) * k], 0.035, GROUPS[group[firstOf(b)]].c]);
+    // All the names in one picture, each label a piece of it: one texture for the whole model,
+    // which a phone turns into the file quickly.
+    const px = 56, rowH = Math.round(px * 1.6), AW = 2048;
+    const meas = document.createElement("canvas").getContext("2d");
+    meas.font = `600 ${px}px "Libre Franklin", system-ui, sans-serif`;
+    const boxes = [];
+    let x = 0, y = 0;
+    for (const [text] of names) {
+      const w = Math.min(AW, Math.ceil(meas.measureText(text).width) + px);
+      if (x + w > AW) { x = 0; y += rowH + 4; }
+      boxes.push([x, y, w]); x += w + 4;
+    }
+    const atlas = document.createElement("canvas");
+    atlas.width = AW; atlas.height = y + rowH;
+    const g2 = atlas.getContext("2d");
+    names.forEach(([text, , , colr], n) => {
+      const [bx, by, w] = boxes[n];
+      g2.font = `600 ${px}px "Libre Franklin", system-ui, sans-serif`;
+      g2.fillStyle = "rgba(10,14,24,0.78)"; g2.beginPath(); g2.roundRect(bx, by, w, rowH, rowH / 2); g2.fill();
+      g2.fillStyle = colr; g2.beginPath(); g2.arc(bx + px * 0.45, by + rowH / 2, px * 0.16, 0, 7); g2.fill();
+      g2.fillStyle = "#f2f4f8"; g2.textBaseline = "middle"; g2.fillText(text, bx + px * 0.75, by + rowH / 2 + 2);
+    });
+    const tex = new THREE.CanvasTexture(atlas); tex.colorSpace = THREE.SRGBColorSpace;
+    const lpos = [], luv = [], lnor = [], lidx = [];
+    names.forEach(([, p, h], n) => {
+      const [bx, by, w] = boxes[n], hw = h * w / rowH / 2, hh = h / 2;
+      const cx = p[0], cy = p[1] + (focus != null ? h * 0.9 : 0), cz = p[2], o = lpos.length / 3;
+      lpos.push(cx - hw, cy - hh, cz, cx + hw, cy - hh, cz, cx + hw, cy + hh, cz, cx - hw, cy + hh, cz);
+      const u0 = bx / AW, u1 = (bx + w) / AW, v0 = 1 - (by + rowH) / atlas.height, v1 = 1 - by / atlas.height;
+      luv.push(u0, v0, u1, v0, u1, v1, u0, v1);
+      lnor.push(0, 0, 1, 0, 0, 1, 0, 0, 1, 0, 0, 1);
+      lidx.push(o, o + 1, o + 2, o, o + 2, o + 3);
+    });
+    if (names.length) {
+      const lg2 = new THREE.BufferGeometry();
+      lg2.setAttribute("position", new THREE.Float32BufferAttribute(lpos, 3));
+      lg2.setAttribute("normal", new THREE.Float32BufferAttribute(lnor, 3));
+      lg2.setAttribute("uv", new THREE.Float32BufferAttribute(luv, 2));
+      lg2.setIndex(lidx);
+      const labels = new THREE.Mesh(lg2, new THREE.MeshStandardMaterial({ map: tex, emissiveMap: tex, emissive: new THREE.Color("#ffffff"), transparent: true, side: THREE.DoubleSide, roughness: 1 }));
+      labels.name = "names";
+      scene.add(labels);
+    }
+    return scene;
+  }
+  // Which way, for this device: WebXR where the browser has it (it can do everything); Apple's AR
+  // or the camera on an iPhone or iPad (a choice); the camera elsewhere on a phone.
+  $("ar").onclick = e => {
+    e.stopPropagation();
+    if (AR.xr) { startXR().catch(() => startCam()); return; }
+    if (!quickLook) { startCam(); return; }
+    $("ar-room-t").textContent = L.t(selected != null ? "Place {name} in your room" : "Place the web in your room", { name: selected != null ? label(selected) : "" });
+    $("ar-room-s").textContent = L.t(selected != null ? "Apple's own AR: it and its connections stand in the room, named, and you walk round them." : "Apple's own AR: it stands on your floor or table and you walk round it. Choose a point first to place it with its connections.");
+    $("ar-choose").hidden = !$("ar-choose").hidden;
+  };
+  $("ar-room").onclick = () => { $("ar-choose").hidden = true; placeInRoom(); };
+  $("ar-cam").onclick = () => { $("ar-choose").hidden = true; startCam(); };
+  document.addEventListener("pointerdown", e => { if (!$("ar-choose").hidden && !e.target.closest("#ar-choose, #ar")) $("ar-choose").hidden = true; });
 
   // Where node i falls on the screen: [x, y, depth], or null behind the camera.
   function project(i, mvp) {
@@ -660,7 +830,8 @@ html.ar-on .card .close { top: 6px; right: 6px; }
       el("div", { class: "acts" },
         reader ? el("a", { class: "solid", href: reader, text: k === 0 ? "Read it" : "Read where it’s first named" }) : null,
         el("a", { href: `graph.html#${k === 0 ? `${slug(D.books[bookOf[i]][0])}-${chapterOf[i]}` : `n${i}`}`, text: "In Connections" }),
-        window.Share ? el("a", { href: "#", role: "button", onclick: e => { e.preventDefault(); shareView(); } }, "Share") : null),
+        window.Share ? el("a", { href: "#", role: "button", onclick: e => { e.preventDefault(); shareView(); } }, "Share") : null,
+        window.Web3D && Web3D.arHere() ? el("a", { href: "#", role: "button", onclick: e => { e.preventDefault(); Web3D.ar(); } }, "In your room") : null),
       ...groups.flat().filter(Boolean));
     $("card").hidden = false;
     if (k) (briefs ||= fetch("data/graph-briefs.json").then(r => r.json()).catch(() => null)).then(B => {
