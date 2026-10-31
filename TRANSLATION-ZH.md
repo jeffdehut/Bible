@@ -813,6 +813,14 @@ Settled while drafting Proverbs:
 | תּוֹעֲבַת יְהוָה | 耶和華所憎惡的 | *to'evah* noted (3:32). |
 | עֵץ חַיִּים; רְפָאִים; אֲבַדּוֹן | 生命樹；陰魂；亞巴頓 | As Job and Psalms. |
 | NT quotations (3:11–12; 3:34; 10:12; 11:31) | The Hebrew in the text | Hebrews 12:5–6 (「不要灰心」, 「鞭打」), James 4:6 / 1 Peter 5:5 (「神抵擋驕傲的人」), 1 Peter 4:8 (「許多的罪」), 1 Peter 4:18 in notes. |
+| Collection headings (22:17; 24:23; 25:1; 30:1; 31:1) | 智慧人的言語；以下也是智慧人的言語；以下也是所羅門的箴言，是猶大王希西家的人抄錄的 | A note at each says where the collection runs; 22:17 notes Amenemope and that sayings now run over several verses (one verse per line). |
+| מַשָּׂא (30:1; 31:1) | 默示 | 和合本「真言」; the tribe 瑪撒 (Genesis 25:14) in a note. As the prophets' *massa*. |
+| נָבָל | 愚頑人 | Noted at 17:7 (Nabal, 1 Samuel 25:25); 30:32 the verb 行事愚頑. |
+| נִרְגָּן | 說閒話的 | 16:28; 18:8; 26:20, 22. |
+| תּוֹרָה (28:4–9; 29:18) | 律法 | Noted: 「教導」, here probably God's law. |
+| אֵשֶׁת חַיִל (31:10; 12:4) | 賢德的婦人；賢德的妻子 | As Ruth 3:11 (賢德的女子); 和合本「才德的婦人」 noted; 31:10–31 noted as an acrostic. |
+| NT quotations (25:21–22; 26:11) | The Hebrew in the text (恨你的人, 炭火) | Romans 12:20 (LXX: 「你的仇敵」, no bread and water, no 「耶和華也必賞賜你」) and 2 Peter 2:22 (first line only, with the sow proverb) in notes. |
+| Repeated sayings (e.g. 18:8 = 26:22; 22:3 = 27:12; 6:10–11 = 24:33–34) | Word for word the same | Noted where the English notes them. |
 
 ## Style
 
