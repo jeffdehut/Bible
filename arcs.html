@@ -3,7 +3,7 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
-<script src="i18n.js?v=27"></script>
+<script src="i18n.js?v=28"></script>
 <script src="ui.js?v=3"></script>
 <link rel="icon" href="icons/icon.svg" type="image/svg+xml">
 <link rel="apple-touch-icon" href="icons/icon-192.png">
@@ -63,6 +63,35 @@ canvas { display: block; width: 100%; touch-action: pan-y; cursor: crosshair; }
 .panel li small { color: var(--muted); min-width: 2.5em; text-align: right; }
 .panel .acts { margin-top: 10px; display: flex; flex-wrap: wrap; gap: 8px; }
 .panel .acts a { display: inline-flex; min-height: 34px; align-items: center; padding: 5px 12px; border-radius: 10px; background: var(--lapis-soft); color: var(--lapis); font: 600 14px/1.2 var(--sans); text-decoration: none; }
+/* The chosen book's cross-references, verse by verse: a strip of its chapters, shaded by how
+   many each has, then the chosen chapter's verses, each with its references; any book in "Most
+   bound to" narrows them to that book. A reference opens where it is, with its words. */
+.panel ol li button.to { all: unset; display: contents; cursor: pointer; }
+.panel ol li[aria-pressed="true"] span:first-of-type { font-weight: 700; color: var(--c); }
+.panel ol li { cursor: pointer; border-radius: 6px; padding: 1px 3px; margin: 0 -3px; }
+.panel ol li:hover { background: var(--lapis-soft); }
+.xr { margin-top: 14px; padding-top: 12px; border-top: 1px solid var(--line); }
+.xr h3 { margin: 0 0 4px; font: 600 12px/1.3 var(--sans); letter-spacing: 0.08em; text-transform: uppercase; color: var(--muted); }
+.xr .filter { display: flex; align-items: center; flex-wrap: wrap; gap: 6px; margin: 0 0 10px; font-size: 13.5px; color: var(--muted); }
+.xr .filter button { display: inline-flex; align-items: center; gap: 6px; min-height: 28px; padding: 2px 10px; border-radius: 99px; border: 1px solid var(--c, var(--line)); background: color-mix(in srgb, var(--c, var(--lapis)) 12%, var(--surface)); color: var(--ink); font: 600 13px/1 var(--sans); cursor: pointer; }
+.xr .chs { display: grid; grid-template-columns: repeat(auto-fill, minmax(34px, 1fr)); gap: 3px; margin: 0 0 12px; }
+.xr .chs button { height: 30px; border: 1px solid transparent; border-radius: 6px; background: color-mix(in srgb, var(--lapis) var(--k), var(--surface)); color: var(--ink); font: 600 12px/1 var(--sans); cursor: pointer; padding: 0; }
+.xr .chs button[data-hot] { color: #fff; }
+.xr .chs button:disabled { opacity: 0.3; cursor: default; }
+.xr .chs button[aria-pressed="true"] { border-color: var(--ink); box-shadow: inset 0 0 0 1px var(--ink); }
+.xr .sum { margin: 0 0 8px; font-size: 13px; color: var(--muted); }
+.xr .vs { list-style: none; margin: 0; padding: 0; display: grid; gap: 10px; }
+.xr .vs > li { display: grid; grid-template-columns: 46px 1fr; gap: 4px 8px; align-items: start; }
+.xr .vn { all: unset; cursor: pointer; font: 700 13px/28px var(--sans); color: var(--lapis); text-align: right; }
+.xr .refs { display: flex; flex-wrap: wrap; gap: 4px; }
+.xr .refs button { min-height: 28px; padding: 2px 9px; border-radius: 8px; border: 1px solid var(--line); background: var(--surface); color: var(--ink); font: 500 13px/1.2 var(--sans); cursor: pointer; box-shadow: inset 3px 0 0 var(--c); }
+.xr .refs button[aria-expanded="true"] { border-color: var(--c); background: color-mix(in srgb, var(--c) 12%, var(--surface)); }
+.xr .refs button.more { box-shadow: none; color: var(--lapis); font-weight: 600; }
+.xr .open { grid-column: 2; margin: 2px 0 2px; padding: 10px 12px; border-radius: 10px; background: color-mix(in srgb, var(--c, var(--lapis)) 9%, var(--surface)); border: 1px solid var(--line); animation: xr-in .16s ease; }
+.xr .open b { display: block; font: 600 12.5px/1.3 var(--sans); color: var(--muted); margin-bottom: 3px; }
+.xr .open p { margin: 0 0 6px; font: 400 16px/1.5 var(--read); color: var(--ink); }
+.xr .open a { font: 600 13px/1 var(--sans); }
+@keyframes xr-in { from { opacity: 0; transform: translateY(-3px); } }
 .note { margin: 22px 0 0; font-size: 14px; color: var(--muted); max-width: 72ch; }
 .loading { color: var(--muted); }
 </style>
@@ -151,6 +180,7 @@ body::before { content: ""; position: fixed; inset: 0 0 auto; height: env(safe-a
     const maxR = base - 8, span = W - 12;
     const arc = (e, alpha, width) => {
       const xa = xOf(A[e]), xb = xOf(B[e]), r = (xb - xa) / 2;
+      if (!(r > 0)) return;   // (the canvas while it is being resized)
       const ry = Math.min(maxR, r * (maxR / (span / 2)) * 1.0 + 0.5);
       ctx.globalAlpha = alpha; ctx.lineWidth = width;
       ctx.strokeStyle = col(D.books[bookOf[A[e]]][2]);
@@ -200,11 +230,119 @@ body::before { content: ""; position: fixed; inset: 0 0 auto; height: env(safe-a
     panel.replaceChildren(el("div", { class: "ui-grab" }),
       el("div", { class: "ui-head" }, el("h2", { text: bookName(b) }), el("button", { type: "button", class: "close", "data-close": "", "aria-label": "Close", text: "✕", onclick: () => choose(-1) })),
       el("p", { text: `${n.toLocaleString()} threads to chapters elsewhere. Most bound to:` }),
-      el("ol", {}, ...top.map(([o, w]) => el("li", { style: `--c:${col(D.books[o][2])}` }, el("i"), el("span", { text: bookName(o) }), el("span", { class: "bar" }, el("b", { style: `width:${(100 * w / max).toFixed(0)}%` })), el("small", { text: String(w) })))),
-      el("div", { class: "acts" }, el("a", { href: `index.html#${slug(b)}-1`, text: `Read ${bookName(b)}` }), el("a", { href: `graph.html#${slug(b)}-1`, text: "In the web of Scripture" })));
+      el("ol", { id: "bound" }, ...top.map(([o, w]) => el("li", { style: `--c:${col(D.books[o][2])}`, "data-o": o, "aria-pressed": "false", role: "button", tabindex: "0", title: `Only the references to ${bookName(o)}`,
+        onclick: () => xrFilter(xr.filter === o ? null : o) }, el("i"), el("span", { text: bookName(o) }), el("span", { class: "bar" }, el("b", { style: `width:${(100 * w / max).toFixed(0)}%` })), el("small", { text: String(w) })))),
+      el("div", { class: "acts" }, el("a", { href: `index.html#${slug(b)}-1`, text: `Read ${bookName(b)}` }), el("a", { href: `graph.html#${slug(b)}-1`, text: "In the web of Scripture" })),
+      el("div", { class: "xr", id: "xr" }, el("p", { class: "sum", text: "Loading its cross-references…" })));
+    xrOpen(b);
     panel.hidden = false;
     try { history.replaceState(null, "", "#" + slug(b)); } catch (e) {}
   }
+  /* ---------- A book's cross-references, verse by verse ---------- */
+  // From the reader's own data (data/bible/study/<book>.json, "x": each verse's references, the
+  // most voted first); the words of a reference come from the book it is in, when it is opened.
+  const osisIndex = new Map();
+  let slugsP = null;
+  const slugs = () => (slugsP ||= fetch("data/bible/books.json").then(r => r.json()).then(l => Object.fromEntries(l.map(x => [x.osis, x.slug]))));
+  const jsonCache = new Map();
+  const getJSON = url => { if (!jsonCache.has(url)) jsonCache.set(url, fetch(url).then(r => { if (!r.ok) throw new Error(url); return r.json(); })); return jsonCache.get(url); };
+  const xr = { b: -1, x: null, filter: null, ch: 1 };
+  const REF = /^([1-3]?[A-Za-z]+)\.(\d+)\.(\d+)(?:-(?:([1-3]?[A-Za-z]+)\.)?(?:(\d+)\.)?(\d+))?$/;
+  function parseRef(r) {
+    const m = REF.exec(r);
+    if (!m) return null;
+    if (!osisIndex.size) D.books.forEach((bk, i) => osisIndex.set(bk[1], i));
+    const bi = osisIndex.get(m[1]);
+    if (bi == null) return null;
+    const c = +m[2], v = +m[3], c2 = m[5] ? +m[5] : c, v2 = m[6] ? +m[6] : v;
+    return { bi, c, v, c2, v2, label: `${bookName(bi)} ${c}:${v}${c2 !== c ? `–${c2}:${v2}` : v2 !== v ? `–${v2}` : ""}` };
+  }
+  const plain = t => (t || "").replace(/\[\^\w+\]/g, "").replace(/\*/g, "");
+  async function wordsOf(bi, c, v, c2 = c, v2 = v) {
+    const S = await slugs(), d = await getJSON(`data/bible/text/${S[D.books[bi][1]]}.json`);
+    const out = [];
+    for (const ch of d.chapters) {
+      if (ch.c < c || ch.c > c2) continue;
+      for (const row of ch.v) if ((ch.c > c || row[0] >= v) && (ch.c < c2 || row[0] <= v2) && row[1]) out.push(plain(row[1]));
+    }
+    return out.join(" ");
+  }
+  async function xrOpen(b) {
+    xr.b = b; xr.filter = null; xr.x = null;
+    try { const S = await slugs(); xr.x = (await getJSON(`data/bible/study/${S[D.books[b][1]]}.json`)).x || {}; }
+    catch (e) { if (xr.b === b) $("xr").replaceChildren(el("p", { class: "sum", text: "The cross-references couldn't be loaded." })); return; }
+    if (xr.b !== b) return;
+    xr.ch = firstChapter();
+    xrRender();
+  }
+  // What the filter keeps of a verse's references.
+  const kept = list => (xr.filter == null ? list : list.filter(r => { const p = parseRef(r); return p && p.bi === xr.filter; }));
+  function counts() {
+    const n = D.books[xr.b][3], by = new Array(n + 1).fill(0);
+    for (const k in xr.x) { const c = +k.split(":")[0]; if (c <= n) by[c] += kept(xr.x[k]).length; }
+    return by;
+  }
+  function firstChapter() { const by = counts(); const c = by.findIndex((k, i) => i > 0 && k > 0); return c > 0 ? c : 1; }
+  function xrFilter(o) {
+    xr.filter = o;
+    document.querySelectorAll("#bound li").forEach(li => li.setAttribute("aria-pressed", String(+li.dataset.o === o)));
+    if (counts()[xr.ch] === 0) xr.ch = firstChapter();
+    xrRender();
+  }
+  function xrRender() {
+    const box = $("xr");
+    if (!box || !xr.x) return;
+    const by = counts(), total = by.reduce((a, k) => a + k, 0), top = Math.max(1, ...by);
+    const name = bookName(xr.b);
+    const head = el("h3", { text: xr.filter == null ? `${total.toLocaleString()} cross-references from ${name}` : `${total.toLocaleString()} from ${name} to ${bookName(xr.filter)}` });
+    const filter = el("div", { class: "filter" }, xr.filter == null ? el("span", { text: "Tap a book above to see only its references." })
+      : el("button", { type: "button", style: `--c:${col(D.books[xr.filter][2])}`, onclick: () => xrFilter(null) }, `Only ${bookName(xr.filter)}`, " ✕"));
+    // The chapters: a cell each, as dark as it has references.
+    const chs = el("div", { class: "chs", role: "group", "aria-label": "Chapters" }, ...by.slice(1).map((k, i) => {
+      const c = i + 1, f = k ? 0.12 + 0.78 * Math.sqrt(k / top) : 0;
+      const bt = el("button", { type: "button", text: String(c), title: `Chapter ${c}: ${k} references`, "aria-pressed": String(c === xr.ch), style: `--k:${Math.round(f * 100)}%`, onclick: () => { xr.ch = c; xrRender(); } });
+      if (!k) bt.disabled = true;
+      if (f > 0.55) bt.dataset.hot = "";
+      return bt;
+    }));
+    // The chosen chapter's verses, each with its references (the first few, and the rest on asking).
+    const verses = Object.keys(xr.x).filter(k => +k.split(":")[0] === xr.ch).map(k => [+k.split(":")[1], kept(xr.x[k])]).filter(([, l]) => l.length).sort((a, b) => a[0] - b[0]);
+    const n = verses.reduce((a, [, l]) => a + l.length, 0);
+    const sum = el("p", { class: "sum", text: `Chapter ${xr.ch} · ${n.toLocaleString()} references from ${verses.length} ${verses.length === 1 ? "verse" : "verses"}` });
+    const SHOW = 8;
+    const list = el("ol", { class: "vs" }, ...verses.map(([v, refs]) => {
+      const li = el("li");
+      const refsBox = el("div", { class: "refs" });
+      const draw = all => {
+        refsBox.replaceChildren(...(all ? refs : refs.slice(0, SHOW)).map(r => {
+          const p = parseRef(r);
+          if (!p) return null;
+          return el("button", { type: "button", "aria-expanded": "false", style: `--c:${col(D.books[p.bi][2])}`, text: p.label, onclick: e => openRef(li, e.currentTarget, p, `${p.label}`) });
+        }).filter(Boolean));
+        if (!all && refs.length > SHOW) refsBox.append(el("button", { type: "button", class: "more", text: `+${refs.length - SHOW} more`, onclick: () => draw(true) }));
+      };
+      draw(false);
+      li.append(el("button", { type: "button", class: "vn", text: `${xr.ch}:${v}`, title: `${name} ${xr.ch}:${v}`, onclick: e => openRef(li, e.currentTarget, { bi: xr.b, c: xr.ch, v, c2: xr.ch, v2: v, label: `${name} ${xr.ch}:${v}` }) }), refsBox);
+      return li;
+    }));
+    box.replaceChildren(head, filter, chs, sum, list);
+  }
+  // A reference opened under its verse: its words, and the way to read it in the reader.
+  async function openRef(li, btn, p) {
+    const was = li.querySelector(".open");
+    const same = was && was.dataset.key === p.label;
+    li.querySelectorAll("[aria-expanded]").forEach(x => x.setAttribute("aria-expanded", "false"));
+    if (was) was.remove();
+    if (same) return;
+    btn.setAttribute("aria-expanded", "true");
+    const box = el("div", { class: "open", style: `--c:${col(D.books[p.bi][2])}` }, el("b", { text: p.label }), el("p", { text: "…" }),
+      el("a", { href: `index.html#${slug(p.bi)}-${p.c}-${p.v}`, text: "Read it in context →" }));
+    box.dataset.key = p.label;
+    li.append(box);
+    try { box.querySelector("p").textContent = await wordsOf(p.bi, p.c, p.v, p.c2, p.v2) || "—"; }
+    catch (e) { box.querySelector("p").textContent = "The verse couldn't be loaded."; }
+  }
+
   // Pointing at the line shows a book; a tap chooses it.
   const pick = ev => { const r = cv.getBoundingClientRect(), x = ev.clientX - r.left; const i = Math.max(0, Math.min(NC - 1, Math.round(((x - 6) / (W - 12)) * NC - 0.5))); return [i, x, ev.clientY - r.top]; };
   cv.addEventListener("pointermove", ev => {

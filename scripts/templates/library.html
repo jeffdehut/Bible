@@ -204,7 +204,7 @@ h1 { margin: 0 0 6px; font: 300 clamp(36px, 7vw, 56px)/1.02 var(--read); letter-
         el("div", {}, el("b", { text: mins(b.w) }), el("small", { text: "to read aloud, about" }))),
       el("p", { text: `${(100 * b.w / total).toFixed(1)}% of the Bible · ${fmt(b.o)} words in the ${b.lang.replace(/ and /, " and ")}` }),
       el("p", { class: "first", text: `“${b.first}”` }),
-      el("div", { class: "acts" }, el("a", { class: "solid", href: b.p, text: "See it whole" }), el("a", { href: `index.html#${slug(b)}-1`, text: `Read ${b.n}` }), el("a", { href: `graph.html#${slug(b)}-1`, text: "In the web" }), el("a", { href: `arcs.html#${slug(b)}`, text: "Its cross-references" })));
+      el("div", { class: "acts" }, el("a", { class: "solid", href: b.p, text: "Visual Data" }), el("a", { href: `index.html#${slug(b)}-1`, text: `Read ${b.n}` }), el("a", { href: `graph.html#${slug(b)}-1`, text: "In the web" }), el("a", { href: `arcs.html#${slug(b)}`, text: "Its cross-references" })));
     $("card").hidden = false;
     try { history.replaceState(null, "", "#" + slug(b)); } catch (e) {}
   }

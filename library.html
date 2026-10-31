@@ -3,7 +3,7 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
-<script src="i18n.js?v=27"></script>
+<script src="i18n.js?v=28"></script>
 <script src="ui.js?v=3"></script>
 <link rel="icon" href="icons/icon.svg" type="image/svg+xml">
 <link rel="apple-touch-icon" href="icons/icon-192.png">
@@ -240,7 +240,7 @@ body::before { content: ""; position: fixed; inset: 0 0 auto; height: env(safe-a
         el("div", {}, el("b", { text: mins(b.w) }), el("small", { text: "to read aloud, about" }))),
       el("p", { text: `${(100 * b.w / total).toFixed(1)}% of the Bible · ${fmt(b.o)} words in the ${b.lang.replace(/ and /, " and ")}` }),
       el("p", { class: "first", text: `“${b.first}”` }),
-      el("div", { class: "acts" }, el("a", { class: "solid", href: b.p, text: "See it whole" }), el("a", { href: `index.html#${slug(b)}-1`, text: `Read ${b.n}` }), el("a", { href: `graph.html#${slug(b)}-1`, text: "In the web" }), el("a", { href: `arcs.html#${slug(b)}`, text: "Its cross-references" })));
+      el("div", { class: "acts" }, el("a", { class: "solid", href: b.p, text: "Visual Data" }), el("a", { href: `index.html#${slug(b)}-1`, text: `Read ${b.n}` }), el("a", { href: `graph.html#${slug(b)}-1`, text: "In the web" }), el("a", { href: `arcs.html#${slug(b)}`, text: "Its cross-references" })));
     $("card").hidden = false;
     try { history.replaceState(null, "", "#" + slug(b)); } catch (e) {}
   }
