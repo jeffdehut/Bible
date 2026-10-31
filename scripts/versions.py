@@ -127,6 +127,42 @@ def parse(path):
     return verses, breaks, spans
 
 
+def place_rows(theirs, ours, testament, stats=None):
+    """Each verse of a version, in our numbering: ({English verse: our verse}, {our verse: text},
+    [(chapter, verse, text) of verses ours doesn't have])."""
+    stats = stats if stats is not None else collections.Counter()
+    place = {}
+    for ch in ours["chapters"]:
+        for row in ch["v"]:
+            e = row[3].get("e") if len(row) > 3 and isinstance(row[3], dict) else None
+            ec, ev = map(int, e.split(":")) if e else (int(ch["c"]), row[0])
+            place.setdefault((ec, ev), (int(ch["c"]), row[0]))
+    # Each verse of the version goes to ours. One with no verse of ours of its own joins a
+    # neighbor: in the Old Testament the verse before (a psalm's title and first line
+    # share a verse in the Hebrew), and a title the verse after it; in the New Testament
+    # it is a verse ours leaves out (Matthew 17:21), kept with its own number.
+    rows, extra = {}, []
+    for (ec, ev), text in sorted(theirs.items()):
+        if (ec, ev) in place:
+            key = place[(ec, ev)]
+            rows[key] = (rows[key] + " " + text) if key in rows else text
+            stats["placed"] += 1
+            continue
+        if ev == 0 and (ec, 1) in place:
+            key = place[(ec, 1)]
+            rows[key] = (text + " " + rows[key]) if key in rows else text
+            stats["joined"] += 1
+            continue
+        prev = next((place[(ec, w)] for w in range(ev - 1, -1, -1) if (ec, w) in place), None)
+        if testament == "OT" and prev:
+            rows[prev] = (rows[prev] + " " + text) if prev in rows else text
+            stats["joined"] += 1
+        elif ev:
+            extra.append((ec, ev, text))
+            stats["extra"] += 1
+    return place, rows, extra
+
+
 def main():
     os.makedirs(os.path.join(OUT, "versions"), exist_ok=True)
     listing = []
@@ -145,36 +181,7 @@ def main():
                 stats["books missing"] += 1
                 continue
             theirs, breaks, spans = parse(os.path.join(folder, f))
-            # Our verses, and the English verse each stands for.
-            place = {}
-            for ch in ours["chapters"]:
-                for row in ch["v"]:
-                    e = row[3].get("e") if len(row) > 3 and isinstance(row[3], dict) else None
-                    ec, ev = map(int, e.split(":")) if e else (int(ch["c"]), row[0])
-                    place.setdefault((ec, ev), (int(ch["c"]), row[0]))
-            # Each verse of the version goes to ours. One with no verse of ours of its own joins a
-            # neighbor: in the Old Testament the verse before (a psalm's title and first line
-            # share a verse in the Hebrew), and a title the verse after it; in the New Testament
-            # it is a verse ours leaves out (Matthew 17:21), kept with its own number.
-            rows, extra = {}, []
-            for (ec, ev), text in sorted(theirs.items()):
-                if (ec, ev) in place:
-                    key = place[(ec, ev)]
-                    rows[key] = (rows[key] + " " + text) if key in rows else text
-                    stats["placed"] += 1
-                    continue
-                if ev == 0 and (ec, 1) in place:
-                    key = place[(ec, 1)]
-                    rows[key] = (text + " " + rows[key]) if key in rows else text
-                    stats["joined"] += 1
-                    continue
-                prev = next((place[(ec, w)] for w in range(ev - 1, -1, -1) if (ec, w) in place), None)
-                if testament == "OT" and prev:
-                    rows[prev] = (rows[prev] + " " + text) if prev in rows else text
-                    stats["joined"] += 1
-                elif ev:
-                    extra.append((ec, ev, text))
-                    stats["extra"] += 1
+            place, rows, extra = place_rows(theirs, ours, testament, stats)
             chapters = collections.defaultdict(list)
             back = {v: k for k, v in place.items()}   # our verse -> the English verse it stands for
             for (c, v), text in rows.items():

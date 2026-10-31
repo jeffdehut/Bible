@@ -47,7 +47,6 @@
       ["study", "Topics & dictionary", "study", "reader:study", "Nave’s topics and Easton’s Bible dictionary"],
       ["parallels", "Parallel passages", "parallels", "reader:parallels", "The Gospels side by side; Kings beside Chronicles"],
       ["marks", "Study markings", "marks", "reader:marks", "Key words marked through the whole Bible", { sub: "marks-sub" }],
-      ["mymarks", "My markings", "mymarks", "reader:mymarks", "Your own markings, to trace words as you study"],
       ["account", "Sync devices", "sync", "reader:account", "Keep your highlights and notes on every device", { sub: "account-sub", hidden: true, readerOnly: true }],
     ]],
     ["Explore", "menu-explore", [
