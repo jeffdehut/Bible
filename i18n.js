@@ -71,14 +71,14 @@
     if (typeof v !== "string") return;
     const p = n.parentElement;
     if (p && p.closest(SKIP)) return;
-    n.nodeValue = raw.replace(s, v);
+    if (v !== s) n.nodeValue = raw.replace(s, v);   // a word that stays itself would loop the observer
   }
   function element(el) {
     for (const a of ATTRS) {
       const s = el.getAttribute(a);
-      if (s && typeof dict[s.trim()] === "string" && !el.closest(SKIP)) el.setAttribute(a, dict[s.trim()]);
+      if (s && typeof dict[s.trim()] === "string" && dict[s.trim()] !== s && !el.closest(SKIP)) el.setAttribute(a, dict[s.trim()]);
     }
-    if (el.tagName === "INPUT" && (el.type === "button" || el.type === "submit") && typeof dict[el.value] === "string") el.value = dict[el.value];
+    if (el.tagName === "INPUT" && (el.type === "button" || el.type === "submit") && typeof dict[el.value] === "string" && dict[el.value] !== el.value) el.value = dict[el.value];
   }
   function translate(root) {
     if (root.nodeType === 3) { textNode(root); return; }

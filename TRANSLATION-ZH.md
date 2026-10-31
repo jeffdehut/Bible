@@ -532,6 +532,23 @@ Settled while drafting 2 Kings:
 | רַב־טַבָּחִים | 護衞長 | Noted: 「屠夫長」或「廚師長」 (25:8). |
 | Dates (2 Kings 25) | 十月十日；第三十七年十二月二十七日 | Chinese numerals; modern dates and Jeremiah 52's differences in notes. |
 
+Settled while drafting 1 Chronicles:
+
+| Source | Rendering | Notes |
+|---|---|---|
+| Genealogies: בְּנֵי X; X הוֹלִיד אֶת־Y; Y בְנוֹ | X的兒子是……；X生了Y；Y的兒子Z | Chains of בֶּן (6:18–32) as 「A是B的兒子，B是C的兒子」; short ones 「C的孫子、B的兒子A」 (5:15). 「直譯：兒子們」 where one son is named. |
+| Names | The Union Version of Chronicles, passage by passage | Even where it spells one Hebrew name two ways (希斯崙 2:5, 希斯倫 5:3; 抹利 6:4, 末力 6:32). Where it harmonizes against the Hebrew (Genesis' form, a name added from the parallel), the Hebrew's form in the text and 和合本作「……」 in a note (羅單人 1:7, 洗非 1:36, 亞連 1:40, 亞迦 2:7, 薩瑪 2:11, 沙麥 7:34; 8:29, 31; 9:41). |
+| אֲבִי (of a town or clan) | X的父親 | Noted at 2:21: founder or leading man. |
+| בְּנוֹתֶיהָ (of a town) | 屬它的鎮 | As Joshua; 「女兒們」 noted. |
+| בֵּית אָבוֹת; רָאשֵׁי (בֵית) אָבוֹת | 家族；族長 | 「父家」 noted. |
+| אַלּוּף (Edom) | 族長 | As Genesis 36. |
+| X וְאֶת־מִגְרָשֶׁהָ (1 Chronicles 6) | X和屬它的草場 | As Joshua 21; Joshua's differing names noted. |
+| הִתְיַחֵשׂ | 按家譜登記 | |
+| Numbering of 1 Chronicles 5–6 | 5:27–41 = 和合本 6:1–15；6:1–66 = 和合本 6:16–81 | Noted at 5:27 and 6:1. |
+| נְתִינִים | 殿役 | Noted: *netinim*, 和合本「尼提寧」 (9:2). |
+| לֶחֶם הַמַּעֲרֶכֶת | 陳列的餅 | Noted as 供奉在神面前的餅, traditionally 陳設餅 (9:32). |
+| Parallels with Genesis, Joshua, Samuel | 創世記36章11節作「……」 | Wherever the English notes them. |
+
 ## Style
 
 **Characters and words.** Plain words over the Union Version's literary ones (吊下去, not 縋下來). Hong Kong standard forms: 裏 (not 裡), 着 for the particle (看着、

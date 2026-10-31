@@ -47,7 +47,7 @@
       ["study", "Topics & dictionary", "study", "reader:study", "Nave’s topics and Easton’s Bible dictionary"],
       ["parallels", "Parallel passages", "parallels", "reader:parallels", "The Gospels side by side; Kings beside Chronicles"],
       ["marks", "Study markings", "marks", "reader:marks", "Key words marked through the whole Bible", { sub: "marks-sub" }],
-      ["account", "Sync devices", "sync", "reader:account", "Keep your highlights and notes on every device", { sub: "account-sub", hidden: true, readerOnly: true }],
+      ["account", "Sign in & sync", "sync", "reader:account", "Sign in to keep your highlights and notes on every device", { sub: "account-sub", hidden: true }],
     ]],
     ["Explore", "menu-explore", [
       ["graph", "Connections", "web", "graph.html", "Every chapter, person and place, and the threads between them"],
@@ -174,6 +174,10 @@
 .sitenav .menu small:empty { display: none; }
 @media (prefers-color-scheme: dark) { :root:not([data-theme="light"]) .sitenav .menu.menu-explore svg { color: #e2bd5c; } }
 :root[data-theme="dark"] .sitenav .menu.menu-explore svg { color: #e2bd5c; }
+.appbar .sitenav-acct { margin-inline-start: auto; position: relative; }
+.appbar .sitenav-acct + .sitenav-btn { margin-inline-start: 2px; }
+.sitenav-acct span { position: absolute; top: 7px; right: 7px; width: 9px; height: 9px; border-radius: 50%; background: #1f9d55; border: 2px solid var(--surface, #fff); display: none; }
+.sitenav-acct.in span { display: block; }
 @media print { .sitenav-btn, .sitenav, .sitenav-scrim { display: none !important; } }`;
   document.head.append(css);
   const btn = document.createElement("button");
@@ -205,7 +209,18 @@
   addEventListener("keydown", e => { if (e.key === "Escape" && !panel.hidden) open(false); });
   // Where the button goes: the site's bar, a map's toolbar, or a corner of its own.
   const bar = document.querySelector(".appbar"), tools = document.querySelector(".bar .tools");
-  if (bar) bar.append(btn);
+  if (bar) {
+    // Beside the menu: the account, signed in or not (a green dot when signed in).
+    const acct = document.createElement("a");
+    let inAcct = false;
+    try { inAcct = !!(JSON.parse(localStorage.getItem("pe.account")) || {}).session; } catch (e) { /* storage unavailable */ }
+    acct.className = "sitenav-btn sitenav-acct" + (inAcct ? " in" : "");
+    acct.href = ROOT + "index.html#open=account";
+    acct.title = inAcct ? "Your account" : "Sign in to sync across devices";
+    acct.setAttribute("aria-label", acct.title);
+    acct.innerHTML = '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="8" r="4"/><path d="M4 21c0-4.4 3.6-7 8-7s8 2.6 8 7"/></svg><span aria-hidden="true"></span>';
+    bar.append(acct, btn);
+  }
   else if (tools) { btn.classList.add("in-tools"); tools.prepend(btn); }
   else { btn.style.cssText = "position:fixed;z-index:59;top:max(10px,env(safe-area-inset-top,0px));right:10px;background:var(--surface,#fff);box-shadow:0 2px 10px rgb(0 0 0 / 15%)"; document.body.append(btn); }
   document.body.append(scrim, panel);
