@@ -414,6 +414,16 @@ Settled while drafting 2 Samuel:
 | מַזְכִּיר; סוֹפֵר | 史官；書記 | Noted (8:16–17). |
 | הַכְּרֵתִי וְהַפְּלֵתִי | 基利提人和比利提人 | Noted: David's foreign guard (8:18). |
 | Chronicles parallels | 歷代志上…作「……」 | Wherever the English notes them. |
+| הֲדַדְעֶזֶר | 哈大底謝 | As the Union Version in Samuel and Kings (歷代志 has 哈大利謝). |
+| הַנָּהָר (10:16) | 大河 | As Joshua; noted: the Euphrates. |
+| נִבְאַשׁ בְּ | 惹……憎恨；使……憎恨你 | Noted: 「發臭」 (10:6; 16:21). |
+| בּוֹא אֶל (sexual) | 同房 | Noted: 「進到……那裏」 (3:7; 16:21). |
+| עִנָּה (2 Samuel 13) | 玷辱 | *innah* noted (13:12). |
+| נְבָלָה; נְבָלִים (13:12–13) | 醜惡的事；愚頑無恥的人 | As Judges 19:23; *nevalah* and the shared root noted. |
+| גֹּאֵל הַדָּם (14:11) | 報血仇的 | As Numbers 35; *go'el ha-dam* noted. |
+| מַלְאַךְ הָאֱלֹהִים (14:17, 20) | 神的使者 | Noted: 或譯「神的信差」. |
+| כִּכָּר | 他連得 | About 34 kg, noted (12:30). |
+| חֶסֶד (16:17, between friends) | 情義 | The glossary note on *chesed*. |
 
 ## Style
 

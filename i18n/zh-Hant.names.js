@@ -2,6 +2,8 @@
 // (public domain) spells them. Written by scripts/names_zh.py: don't edit by hand;
 // corrections go in OVERRIDES there.
 I18N.add({
+"Talmai":"達買",
+"Jedidiah":"耶底底亞",
 "Beerothite":"比錄",
 "Chidon":"基頓",
 "Eshbaal":"伊施‧巴力",
@@ -1628,7 +1630,7 @@ I18N.add({
 "Hadad (Genesis 36.35)":"哈達（創世記 36.35）",
 "Hadad (Genesis 36.39)":"哈達（創世記 36.39）",
 "Hadad-rimmon":"哈達臨門",
-"Hadadezer":"哈大利謝",
+"Hadadezer":"哈大底謝",
 "Hadar":"哈大",
 "Hadarezer":"哈大底謝",
 "Hadashah":"哈大沙",
