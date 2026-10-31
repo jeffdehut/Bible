@@ -3,7 +3,7 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
-<script src="i18n.js?v=24"></script>
+<script src="i18n.js?v=25"></script>
 <script src="ui.js?v=3"></script>
 <link rel="icon" href="icons/icon.svg" type="image/svg+xml">
 <link rel="apple-touch-icon" href="icons/icon-192.png">
@@ -76,6 +76,28 @@ a { color: var(--lapis); }
 .card .close { position: absolute; top: 10px; right: 10px; z-index: 4; width: 36px; height: 36px; border: 0; border-radius: 10px; background: transparent; color: var(--ink); cursor: pointer; font-size: 16px; }
 .hint { position: absolute; left: 50%; bottom: calc(max(14px, env(safe-area-inset-bottom, 0px)) + 58px); transform: translateX(-50%); width: max-content; max-width: calc(100% - 32px); padding: 6px 12px; border-radius: 99px; background: rgb(5 7 13 / 70%); color: var(--muted); font-size: 14px; text-align: center; pointer-events: none; transition: opacity 0.6s; }
 .hint.gone { opacity: 0; }
+/* Augmented reality: the web in the room (WebXR), or over the camera's picture (the iPhone). */
+#ar-video { position: absolute; inset: 0; width: 100%; height: 100%; object-fit: cover; display: none; background: #000; }
+html.ar-cam #ar-video { display: block; }
+html.ar-cam, html.ar-cam body { background: transparent !important; }
+html.ar-cam .stage { inset: 0; }
+html.ar-cam #gl { mix-blend-mode: screen; }
+html.ar-on .appbar, html.ar-on .title, html.ar-on .tools, html.ar-on .find, html.ar-on .key, html.ar-on .hint { display: none !important; }
+#ar-ui { position: fixed; inset: 0; z-index: 70; pointer-events: none; display: none; font: 400 15px/1.45 var(--sans); color: var(--ink); }
+html.ar-on #ar-ui { display: block; }
+#ar-ui > * { pointer-events: auto; }
+#ar-exit { position: absolute; top: max(14px, env(safe-area-inset-top, 0px)); right: 14px; display: inline-flex; align-items: center; gap: 6px; min-height: 40px; padding: 0 14px; border: 0; border-radius: 99px;
+  background: rgb(5 7 13 / 72%); color: #fff; font: 600 14px/1 var(--sans); cursor: pointer; backdrop-filter: blur(8px); -webkit-backdrop-filter: blur(8px); }
+#ar-tip { position: absolute; top: max(14px, env(safe-area-inset-top, 0px)); left: 14px; max-width: calc(100% - 150px); padding: 9px 14px; border-radius: 16px; background: rgb(5 7 13 / 62%); color: #e9ecf3; font: 500 13.5px/1.35 var(--sans); pointer-events: none; transition: opacity .4s; }
+#ar-tip.gone { opacity: 0; }
+/* In AR the card is a small window floating in the view, not a panel. */
+html.ar-on .card.ui-sheet { position: fixed !important; inset: auto auto max(16px, env(safe-area-inset-bottom, 0px)) 50% !important; transform: translateX(-50%) !important;
+  width: min(330px, calc(100vw - 24px)) !important; height: auto !important; max-height: 44vh !important; padding: 12px 14px 10px !important; border: 1px solid color-mix(in srgb, var(--line) 70%, transparent);
+  border-radius: 18px !important; box-shadow: 0 14px 40px rgb(0 0 0 / 45%); overflow: auto; animation: ar-pop .18s cubic-bezier(.2, .8, .2, 1); }
+html.ar-on .card .ui-grab { display: none; }
+html.ar-on .card h2 { font-size: 22px; }
+html.ar-on .card .close { top: 6px; right: 6px; }
+@keyframes ar-pop { from { opacity: 0; transform: translateX(-50%) translateY(8px) scale(.96); } }
 .nogl { position: absolute; inset: 0; display: grid; place-items: center; padding: 24px; text-align: center; color: var(--muted); }
 </style>
 
@@ -104,6 +126,7 @@ body::before { content: ""; position: fixed; inset: 0 0 auto; height: env(safe-a
 <script src="nav.js?v=38"></script>
 
 <div class="stage" id="stage">
+  <video id="ar-video" playsinline muted aria-hidden="true"></video>
   <canvas id="gl" aria-label="The web of Scripture in three dimensions. Drag to turn it; drag with two fingers, the right button or Shift held to slide it; pinch or scroll to fly in; tap a point to see it. Arrow keys turn it, and with Shift slide it." role="img"></canvas>
   <canvas id="labels" aria-hidden="true"></canvas>
   <div class="title">
@@ -115,6 +138,7 @@ body::before { content: ""; position: fixed; inset: 0 0 auto; height: env(safe-a
     <button type="button" id="threads" aria-pressed="false" title="Only the cross-references" aria-label="Only the cross-references"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M3 18c3-9 6-9 9 0M12 18c3-9 6-9 9 0"/></svg></button>
     <button type="button" id="home" title="See it all" aria-label="See it all"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M4 9V4h5M20 9V4h-5M4 15v5h5M20 15v5h-5"/></svg></button>
     <button type="button" id="help" title="How to move around" aria-label="How to move around"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="9"/><path d="M9.6 9.3a2.5 2.5 0 0 1 4.8.9c0 1.7-2.4 2.2-2.4 3.6"/><path d="M12 17.2h.01"/></svg></button>
+    <button type="button" id="ar" hidden title="See it in your room (augmented reality)" aria-label="See it in your room (augmented reality)"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 2.5 20.5 7v10L12 21.5 3.5 17V7Z"/><path d="M3.5 7 12 11.5 20.5 7M12 11.5v10"/><path d="M1.5 4V1.5H4M20 1.5h2.5V4M1.5 20v2.5H4M20 22.5h2.5V20"/></svg></button>
     <a id="flat" href="graph.html" title="The web flat, in Connections" aria-label="The web flat, in Connections" style="display:grid;place-items:center;width:42px;height:42px;border-radius:12px;border:1px solid var(--line);background:color-mix(in srgb, var(--surface) 82%, transparent);color:var(--ink)"><svg viewBox="0 0 24 24" width="20" height="20" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="6" cy="6" r="2.5"/><circle cx="18" cy="8" r="2.5"/><circle cx="10" cy="18" r="2.5"/><path d="m8.4 6.4 7.2 1.2M7.1 8.3l2 7.4M16.4 10l-4.6 6"/></svg></a>
   </div>
   <div class="find">
@@ -124,6 +148,10 @@ body::before { content: ""; position: fixed; inset: 0 0 auto; height: env(safe-a
   <div class="key" id="key"></div>
   <div class="hint" id="hint">Loading the web …</div>
   <article class="card ui-sheet" id="card" hidden aria-live="polite"></article>
+</div>
+<div id="ar-ui">
+  <p id="ar-tip">Tap a point to see its connections; tap one of them to follow it.</p>
+  <button type="button" id="ar-exit"><svg viewBox="0 0 24 24" width="16" height="16" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round"><path d="M6 6l12 12M18 6 6 18"/></svg>Leave AR</button>
 </div>
 
 <script src="share.js?v=31"></script>
@@ -230,19 +258,20 @@ body::before { content: ""; position: fixed; inset: 0 0 auto; height: env(safe-a
       v_c = a_c;
       v_a = fog(v) * (a_h < 0.5 ? 0.1 : a_h > 1.5 ? 1.0 : 0.62);
     }`, `
-    precision mediump float; varying vec3 v_c; varying float v_a;
+    precision mediump float; varying vec3 v_c; varying float v_a; uniform float u_ar;
     void main() {
       float d = length(gl_PointCoord - 0.5) * 2.0;
       if (d > 1.0) discard;
       float core = smoothstep(0.55, 0.35, d), glow = exp(-d * d * 3.5);
-      gl_FragColor = vec4(mix(v_c, vec3(1.0), core * 0.3) * (core + glow * 0.55) * v_a, 1.0);
+      vec3 c = mix(v_c, vec3(1.0), core * 0.3) * (core + glow * 0.55) * v_a;
+      gl_FragColor = u_ar > 0.5 ? vec4(c, max(max(c.r, c.g), c.b)) : vec4(c, 1.0);
     }`);
   const lineProg = program(`
     attribute vec3 a_p; attribute vec3 a_c; attribute float a_a;
     uniform mat4 u_view; uniform mat4 u_proj; varying vec3 v_c; varying float v_a; ${FOG}
     void main() { vec4 v = u_view * vec4(a_p, 1.0); gl_Position = u_proj * v; v_c = a_c; v_a = a_a * fog(v); }`, `
-    precision mediump float; varying vec3 v_c; varying float v_a;
-    void main() { gl_FragColor = vec4(v_c * v_a, 1.0); }`);
+    precision mediump float; varying vec3 v_c; varying float v_a; uniform float u_ar;
+    void main() { vec3 c = v_c * v_a * (u_ar > 0.5 ? 2.5 : 1.0); gl_FragColor = u_ar > 0.5 ? vec4(c, max(max(c.r, c.g), c.b)) : vec4(c, 1.0); }`);
 
   const buf = (data, usage = gl.STATIC_DRAW) => { const b = gl.createBuffer(); gl.bindBuffer(gl.ARRAY_BUFFER, b); gl.bufferData(gl.ARRAY_BUFFER, data, usage); return b; };
   const attr = (prog, name, b, size) => { const loc = gl.getAttribLocation(prog, name); gl.bindBuffer(gl.ARRAY_BUFFER, b); gl.enableVertexAttribArray(loc); gl.vertexAttribPointer(loc, size, gl.FLOAT, false, 0, 0); };
@@ -291,6 +320,7 @@ body::before { content: ""; position: fixed; inset: 0 0 auto; height: env(safe-a
     const r = Array.from({ length: N }, (_, i) => Math.hypot(P[3 * i], P[3 * i + 1], P[3 * i + 2])).sort((a, b) => a - b)[Math.floor(N * 0.98)];
     const fit = r / Math.sin(FOV / 2) / Math.min(1, W / Hh) * 1.02;
     home = { dist: fit, at: [0, 0, 0] };
+    graphR = r;
     cam.dist = fit * 1.9; cam.at = [0, 0, 0];
     flyTo(home.at, home.dist, 2200);
   }
@@ -302,46 +332,213 @@ body::before { content: ""; position: fixed; inset: 0 0 auto; height: env(safe-a
   /* ---------- Drawing ---------- */
   let t0 = performance.now(), shiftY = 0;
   function frame(now) { render(now); requestAnimationFrame(frame); }
+  function stepFly(now) {
+    if (!fly) return;
+    const u = Math.min(1, (now - fly.t0) / fly.ms), e = u < 0.5 ? 4 * u * u * u : 1 - Math.pow(-2 * u + 2, 3) / 2;
+    cam.at = fly.from.at.map((v, i) => v + (fly.to.at[i] - v) * e);
+    cam.dist = Math.exp(Math.log(fly.from.dist) + (Math.log(fly.to.dist) - Math.log(fly.from.dist)) * e);
+    if (u >= 1) fly = null;
+  }
   function render(now) {
-    if (fly) {
-      const u = Math.min(1, (now - fly.t0) / fly.ms), e = u < 0.5 ? 4 * u * u * u : 1 - Math.pow(-2 * u + 2, 3) / 2;
-      cam.at = fly.from.at.map((v, i) => v + (fly.to.at[i] - v) * e);
-      cam.dist = Math.exp(Math.log(fly.from.dist) + (Math.log(fly.to.dist) - Math.log(fly.from.dist)) * e);
-      if (u >= 1) fly = null;
+    if (AR.mode === "xr") return;          // the headset's or phone's own frames draw it then
+    stepFly(now);
+    let fov = FOV, near, far, fogNear, fogFar;
+    if (AR.mode === "cam") {
+      // Over the camera: the eye stands still and turns with the phone; the web hangs ahead.
+      fov = AR_FOV; view = camView();
+      near = 10; far = cam.dist + graphR * 4;
+      fogNear = Math.max(near, cam.dist - graphR * 0.7); fogFar = cam.dist + graphR * 1.8;
+      proj = perspective(fov, W / Hh, near, far);
+    } else {
+      if (spin && !interacting && now - idleSince > 2500) cam.yaw += 0.0011;
+      const ey = eye();
+      view = lookAt(ey, cam.at);
+      near = Math.max(10, cam.dist * 0.02); far = cam.dist + 6000;
+      proj = perspective(FOV, W / Hh, near, far);
+      // On a phone the card covers the lower part of the screen, so the middle of the view moves
+      // up into the part left showing.
+      const card = $("card"), lift = !card.hidden && W < 760 ? card.offsetHeight / Hh : 0;
+      shiftY += (lift - shiftY) * (still ? 1 : 0.12);
+      for (let c = 0; c < 4; c++) proj[4 * c + 1] += shiftY * proj[4 * c + 3];
+      fogNear = Math.max(near, cam.dist - 1600); fogFar = cam.dist + 2600;
     }
-    if (spin && !interacting && now - idleSince > 2500) cam.yaw += 0.0011;
-    const ey = eye();
-    view = lookAt(ey, cam.at);
-    const near = Math.max(10, cam.dist * 0.02), far = cam.dist + 6000;
-    proj = perspective(FOV, W / Hh, near, far);
-    // On a phone the card covers the lower part of the screen, so the middle of the view moves
-    // up into the part left showing.
-    const card = $("card"), lift = !card.hidden && W < 760 ? card.offsetHeight / Hh : 0;
-    shiftY += (lift - shiftY) * (still ? 1 : 0.12);
-    for (let c = 0; c < 4; c++) proj[4 * c + 1] += shiftY * proj[4 * c + 3];
-    const fogNear = Math.max(near, cam.dist - 1600), fogFar = cam.dist + 2600;
     gl.clearColor(0, 0, 0, 0); gl.clear(gl.COLOR_BUFFER_BIT);
+    drawGL(view, proj, Hh * dpr / (2 * Math.tan(fov / 2)), fogNear, fogFar, now, false);
+    drawLabels();
+  }
+  function drawGL(V, Pm, px, fogNear, fogFar, now, ar) {
     gl.enable(gl.BLEND); gl.blendFunc(gl.ONE, gl.ONE); gl.disable(gl.DEPTH_TEST);
-
     gl.useProgram(lineProg);
     attr(lineProg, "a_p", lpBuf, 3); attr(lineProg, "a_c", lcBuf, 3); attr(lineProg, "a_a", laBuf, 1);
-    gl.uniformMatrix4fv(gl.getUniformLocation(lineProg, "u_view"), false, view);
-    gl.uniformMatrix4fv(gl.getUniformLocation(lineProg, "u_proj"), false, proj);
+    gl.uniformMatrix4fv(gl.getUniformLocation(lineProg, "u_view"), false, V);
+    gl.uniformMatrix4fv(gl.getUniformLocation(lineProg, "u_proj"), false, Pm);
     gl.uniform2f(gl.getUniformLocation(lineProg, "u_fog"), fogNear, fogFar);
+    gl.uniform1f(gl.getUniformLocation(lineProg, "u_ar"), ar ? 1 : 0);
     gl.drawArrays(gl.LINES, 0, linkA.length * 2);
-
     gl.useProgram(pointProg);
     attr(pointProg, "a_p", pBuf, 3); attr(pointProg, "a_c", cBuf, 3); attr(pointProg, "a_s", sBuf, 1); attr(pointProg, "a_h", hBuf, 1);
-    gl.uniformMatrix4fv(gl.getUniformLocation(pointProg, "u_view"), false, view);
-    gl.uniformMatrix4fv(gl.getUniformLocation(pointProg, "u_proj"), false, proj);
+    gl.uniformMatrix4fv(gl.getUniformLocation(pointProg, "u_view"), false, V);
+    gl.uniformMatrix4fv(gl.getUniformLocation(pointProg, "u_proj"), false, Pm);
     gl.uniform2f(gl.getUniformLocation(pointProg, "u_fog"), fogNear, fogFar);
-    gl.uniform1f(gl.getUniformLocation(pointProg, "u_px"), Hh * dpr / (2 * Math.tan(FOV / 2)));
+    gl.uniform1f(gl.getUniformLocation(pointProg, "u_px"), px);
     gl.uniform1f(gl.getUniformLocation(pointProg, "u_t"), (now - t0) / 1000);
     gl.uniform1f(gl.getUniformLocation(pointProg, "u_live"), still ? 0 : 1);
+    gl.uniform1f(gl.getUniformLocation(pointProg, "u_ar"), ar ? 1 : 0);
     gl.drawArrays(gl.POINTS, 0, N);
-
-    drawLabels(ey);
   }
+
+  /* ---------- Augmented reality ---------- */
+  // Two ways. Where the browser can place things in the room (WebXR's "immersive-ar": Android
+  // phones and some headsets), the web hangs in the room, a little ahead of where you stood, and
+  // you walk round it. Elsewhere (the iPhone, whose Safari has no WebXR), the camera's picture
+  // fills the screen and the web floats in it, held in place as the phone turns. Either way a tap
+  // on a point opens a small card, and choosing one of its connections brings that point to the
+  // middle, close by, so a trail can be followed from point to point. Dragging turns the web.
+  const AR = { mode: null, q: null, ahead: null, session: null, ref: null, anchor: null, saved: null, stream: null, xr: false };
+  const AR_FOV = 62 * Math.PI / 180;       // about a phone camera's, upright
+  let graphR = 1000;
+  const T = t => [1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, t[0], t[1], t[2], 1];
+  const RY = a => { const c = Math.cos(a), s = Math.sin(a); return [c, 0, -s, 0, 0, 1, 0, 0, s, 0, c, 0, 0, 0, 0, 1]; };
+  const SC = k => [k, 0, 0, 0, 0, k, 0, 0, 0, 0, k, 0, 0, 0, 0, 1];
+  // The phone's turn, from its orientation (as three.js's DeviceOrientationControls reads it).
+  function orientQuat(al, be, ga, or) {
+    const r = Math.PI / 180, x = be * r, y = al * r, z = -ga * r;
+    const c1 = Math.cos(x / 2), c2 = Math.cos(y / 2), c3 = Math.cos(z / 2), s1 = Math.sin(x / 2), s2 = Math.sin(y / 2), s3 = Math.sin(z / 2);
+    let q = [s1 * c2 * c3 + c1 * s2 * s3, c1 * s2 * c3 - s1 * c2 * s3, c1 * c2 * s3 - s1 * s2 * c3, c1 * c2 * c3 + s1 * s2 * s3];
+    const qm = (a, b) => [a[3] * b[0] + a[0] * b[3] + a[1] * b[2] - a[2] * b[1], a[3] * b[1] - a[0] * b[2] + a[1] * b[3] + a[2] * b[0], a[3] * b[2] + a[0] * b[1] - a[1] * b[0] + a[2] * b[3], a[3] * b[3] - a[0] * b[0] - a[1] * b[1] - a[2] * b[2]];
+    q = qm(q, [-Math.SQRT1_2, 0, 0, Math.SQRT1_2]);                 // the camera looks out of the back
+    const o = -(or || 0) * r;
+    return qm(q, [0, 0, Math.sin(o / 2), Math.cos(o / 2)]);          // and the screen may be turned
+  }
+  function rotOf(q) {
+    const [x, y, z, w] = q;
+    return [1 - 2 * (y * y + z * z), 2 * (x * y + z * w), 2 * (x * z - y * w), 2 * (x * y - z * w), 1 - 2 * (x * x + z * z), 2 * (y * z + x * w), 2 * (x * z + y * w), 2 * (y * z - x * w), 1 - 2 * (x * x + y * y)];
+  }
+  function camView() {
+    const m = rotOf(AR.q || [0, 0, 0, 1]);
+    if (!AR.ahead) { const f = [-m[6], 0, -m[8]], l = Math.hypot(f[0], f[2]) || 1; AR.ahead = [f[0] / l, 0, f[2] / l]; }
+    // view = (the phone's turn)⁻¹ · (the web, ahead at the distance, turned by dragging, its chosen point in the middle)
+    const inv = [m[0], m[3], m[6], 0, m[1], m[4], m[7], 0, m[2], m[5], m[8], 0, 0, 0, 0, 1];
+    const c = AR.ahead.map(v => v * cam.dist);
+    return mul(inv, mul(T(c), mul(RY(cam.yaw), T(cam.at.map(v => -v)))));
+  }
+  function onOrient(e) {
+    if (e.alpha == null) return;
+    AR.q = orientQuat(e.alpha, e.beta, e.gamma, (screen.orientation && screen.orientation.angle) || window.orientation || 0);
+  }
+  function enterAR(mode) {
+    AR.saved = { at: cam.at.slice(), dist: cam.dist, yaw: cam.yaw, pitch: cam.pitch, spin };
+    spin = false; fly = null;
+    if (selected == null) cam.at = [0, 0, 0];
+    cam.yaw = 0; cam.dist = graphR * 2.4;
+    AR.mode = mode; AR.ahead = null; AR.anchor = null;
+    document.documentElement.classList.add("ar-on", mode === "cam" ? "ar-cam" : "ar-xr");
+    $("ar-tip").classList.remove("gone");
+    setTimeout(() => $("ar-tip").classList.add("gone"), 6000);
+  }
+  function startCam() {
+    // Motion first, in the tap's own moment (the iPhone asks), then the camera.
+    const ask = window.DeviceOrientationEvent && DeviceOrientationEvent.requestPermission ? DeviceOrientationEvent.requestPermission() : Promise.resolve("granted");
+    ask.catch(() => "denied").then(async ok => {
+      let stream;
+      try { stream = await navigator.mediaDevices.getUserMedia({ video: { facingMode: { ideal: "environment" } }, audio: false }); }
+      catch (e) { arNote("The camera couldn't be opened."); return; }
+      const v = $("ar-video"); v.srcObject = stream; v.play().catch(() => {});
+      AR.stream = stream; AR.q = null;
+      if (ok === "granted") addEventListener("deviceorientation", onOrient);
+      enterAR("cam");
+      // Without the phone's motion the web still floats there; it turns by dragging.
+      if (ok !== "granted") { $("ar-tip").textContent = "Motion is off, so drag to turn the web. (On an iPhone, allow Motion & Orientation Access in Settings › Safari.)"; }
+      resize();
+    });
+  }
+  async function startXR() {
+    const session = await navigator.xr.requestSession("immersive-ar", { requiredFeatures: ["local"], optionalFeatures: ["dom-overlay"], domOverlay: { root: $("ar-ui") } });
+    await gl.makeXRCompatible();
+    session.updateRenderState({ baseLayer: new XRWebGLLayer(session, gl, { alpha: true, antialias: true }) });
+    AR.ref = await session.requestReferenceSpace("local");
+    AR.session = session;
+    $("ar-ui").append($("card"));
+    enterAR("xr");
+    session.addEventListener("end", () => leaveAR(true));
+    session.addEventListener("select", onXRSelect);
+    session.requestAnimationFrame(xrFrame);
+  }
+  // In the room the web is life-size: about a metre across at first, and larger as you follow a
+  // trail in (the camera's distance stands for how near you've come).
+  const xrScale = () => (0.55 / graphR) * Math.min(6, (graphR * 2.4) / cam.dist);
+  const xrModel = () => mul(T(AR.anchor), mul(SC(xrScale()), mul(RY(cam.yaw), T(cam.at.map(v => -v)))));
+  function xrFrame(now, frame) {
+    const session = frame.session;
+    if (AR.mode !== "xr") return;
+    session.requestAnimationFrame(xrFrame);
+    stepFly(now);
+    const pose = frame.getViewerPose(AR.ref);
+    if (!pose) return;
+    const m = pose.transform.matrix;
+    if (!AR.anchor) { const f = [-m[8], 0, -m[10]], l = Math.hypot(f[0], f[2]) || 1; AR.anchor = [m[12] + f[0] / l * 1.2, m[13] - 0.1, m[14] + f[2] / l * 1.2]; }
+    const layer = session.renderState.baseLayer, M = xrModel(), k = xrScale();
+    const d = Math.hypot(m[12] - AR.anchor[0], m[13] - AR.anchor[1], m[14] - AR.anchor[2]);
+    gl.bindFramebuffer(gl.FRAMEBUFFER, layer.framebuffer);
+    gl.clearColor(0, 0, 0, 0); gl.clear(gl.COLOR_BUFFER_BIT);
+    for (const v of pose.views) {
+      const vp = layer.getViewport(v);
+      gl.viewport(vp.x, vp.y, vp.width, vp.height);
+      drawGL(mul(v.transform.inverse.matrix, M), v.projectionMatrix, v.projectionMatrix[5] * vp.height / 2 * k, Math.max(0.05, d - 0.6), d + 1.2, now, true);
+    }
+  }
+  // A tap in the room: the point nearest the line the tap points along.
+  function onXRSelect(e) {
+    const pose = e.frame.getPose(e.inputSource.targetRaySpace, AR.ref);
+    if (!pose || !AR.anchor) return;
+    const o = pose.transform.position, q = pose.transform.orientation;
+    const dir = (() => { const [x, y, z, w] = [q.x, q.y, q.z, q.w]; return [-(2 * (x * z + w * y)), -(2 * (y * z - w * x)), -(1 - 2 * (x * x + y * y))]; })();
+    const M = xrModel();
+    let best = null, ba = 0.045;
+    for (let i = 0; i < N; i++) {
+      const x = P[3 * i], y = P[3 * i + 1], z = P[3 * i + 2];
+      const wx = M[0] * x + M[4] * y + M[8] * z + M[12] - o.x, wy = M[1] * x + M[5] * y + M[9] * z + M[13] - o.y, wz = M[2] * x + M[6] * y + M[10] * z + M[14] - o.z;
+      const t = wx * dir[0] + wy * dir[1] + wz * dir[2];
+      if (t <= 0.05) continue;
+      const ang = Math.hypot(wx - dir[0] * t, wy - dir[1] * t, wz - dir[2] * t) / t;
+      if (ang < ba) { ba = ang; best = i; }
+    }
+    if (best != null) select(best);
+  }
+  function leaveAR(ended) {
+    const mode = AR.mode;
+    if (!mode) return;
+    AR.mode = null;
+    if (mode === "xr") {
+      if (!ended) AR.session.end().catch(() => {});
+      AR.session = null;
+      $("stage").append($("card"));
+      gl.bindFramebuffer(gl.FRAMEBUFFER, null);
+    } else {
+      removeEventListener("deviceorientation", onOrient);
+      for (const t of AR.stream ? AR.stream.getTracks() : []) t.stop();
+      $("ar-video").srcObject = null; AR.stream = null;
+    }
+    document.documentElement.classList.remove("ar-on", "ar-cam", "ar-xr");
+    const sv = AR.saved;
+    if (sv) { cam.yaw = sv.yaw; cam.pitch = sv.pitch; spin = sv.spin; if (selected == null) { cam.at = sv.at; cam.dist = sv.dist; } }
+    resize();
+  }
+  function arNote(text) {
+    const h = $("hint"); h.textContent = text; h.classList.remove("gone");
+    setTimeout(() => h.classList.add("gone"), 5000);
+  }
+  $("ar-exit").onclick = () => leaveAR(false);
+  // Taps on the card and the button belong to them, not to the room.
+  for (const id of ["ar-ui"]) $(id).addEventListener("beforexrselect", e => { if (e.target !== $("ar-ui")) e.preventDefault(); });
+  // The button shows where either way can work: WebXR, or a camera and the phone's motion.
+  (async () => {
+    try { AR.xr = !!(navigator.xr && await navigator.xr.isSessionSupported("immersive-ar")); } catch (e) { AR.xr = false; }
+    const camOk = !!(navigator.mediaDevices && navigator.mediaDevices.getUserMedia) && "DeviceOrientationEvent" in window && matchMedia("(pointer: coarse)").matches;
+    $("ar").hidden = !(AR.xr || camOk);
+  })();
+  $("ar").onclick = () => { if (AR.xr) startXR().catch(() => startCam()); else startCam(); };
+
   // Where node i falls on the screen: [x, y, depth], or null behind the camera.
   function project(i, mvp) {
     const x = P[3 * i], y = P[3 * i + 1], z = P[3 * i + 2];
