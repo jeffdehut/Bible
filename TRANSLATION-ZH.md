@@ -600,6 +600,36 @@ Settled while drafting 2 Chronicles:
 | כּוֹרֶשׁ; פְּרָת | 古列；伯拉河 | The classic Union Version forms, not the 1989 edition's 塞魯士, 幼發拉底河 (35:20; 36:22); 居魯士 noted. |
 | 2 Chronicles 36:22–23 (Ezra 1:1–3) | Ezra to follow this wording where the Hebrew is the same | Differences to be noted in Ezra. |
 
+Settled while drafting Ezra:
+
+| Source | Rendering | Notes |
+|---|---|---|
+| Ezra 1:1–3 (2 Chronicles 36:22–23) | 2 Chronicles 36's wording wherever the Hebrew is the same | 1:3 讓他上猶大的耶路撒冷去，建造耶和華以色列神的殿; the differences noted. |
+| Lists (Ezra 2; Nehemiah 7): בְּנֵי X N; אַנְשֵׁי X N | X的子孫，二千一百七十二人；X的人，五十六人 | A town's 「子孫」 are its people (noted 2:21). Nehemiah 7's names and numbers noted. |
+| Names (Ezra 2, 8, 10) | The Union Version of Ezra, list by list | Where it harmonizes, the Hebrew in the text: 基列‧亞琳 (2:25, 和合本「基列‧耶琳」), 西亞哈 (2:44, 和合本「西亞」); where it follows the ketiv, the qere: 撒刻 (8:14, 和合本「撒布」), 拉末 (10:29, 和合本「耶利末」). |
+| נְתִינִים; עַבְדֵי שְׁלֹמֹה | 殿役；所羅門僕人的子孫 | As 1 Chronicles 9:2; 和合本「尼提寧」 noted. |
+| בְּנֵי הַגּוֹלָה; בְּנֵי גָלוּתָא | 被擄歸回的人 | 「被擄的子孫」 noted. |
+| רָאשֵׁי הָאָבוֹת | 族長 | 「父親們的首領」 noted (1:5). |
+| סֹפֵר (Ezra) | 經學家 | Noted: 傳統譯作「文士」 (7:6). An official's scribe (Shimshai) 書記. |
+| פֶּחָה; תִּרְשָׁתָא; אֲחַשְׁדַּרְפְּנִים | 省長；省長；總督 | *pechah* (和合本 calls Tattenai 「總督」) and *tirshata* noted; satraps 總督 (8:36). |
+| עֲבַר נַהֲרָה (Aramaic); עֵבֶר הַנָּהָר | 河西省 | Noted at its first occurrence in each chapter: west of the Euphrates. |
+| Aramaic letters: בְּעֵל טְעֵם; טְעֵם; פַּרְשֶׁגֶן; וּכְעֶנֶת | 指揮官；命令；副本；如此如此 | *be'el te'em* (和合本「省長」), *ukhe'enet* (和合本「云云」) noted. |
+| The Aramaic of 4:8–6:18 and 7:12–26 | Noted where it starts and ends | 4:8, 6:18; 7:12, 7:27; and in the first note of 5:1, 6:1. |
+| מַעַל; תּוֹעֵבוֹת | 不忠；可憎的事 | *ma'al* noted (9:2). |
+| סְגָנִים; חֹרִים | 地方官；貴族 | *seganim* noted (Ezra 9:2; Nehemiah 2:16). |
+| הוֹשִׁיב נָשִׁים נָכְרִיּוֹת | 娶外族女子為妻 | 「使……住下」 noted (10:2). |
+
+Settled while drafting Nehemiah:
+
+| Source | Rendering | Notes |
+|---|---|---|
+| Gates, towers and pools (Nehemiah 2–3) | As in the Union Version's text | 羊門、魚門、古門、谷門、糞廠門、泉門、水門、馬門、東門、哈米弗甲門；哈米亞樓、哈楠業樓、爐樓、寬牆；王池、西羅亞池. Ein ha-tannin 大蛇泉 (2:13), 和合本「野狗井」 noted. |
+| הֶחֱזִיק; עַל־יָדוֹ; אַחֲרָיו (Nehemiah 3) | 修造；在他旁邊；他之後 | One rendering each through the chapter. |
+| שַׂר (חֲצִי) פֶּלֶךְ X | 管理X（半個）區的官長 | *pelekh* noted (3:9). |
+| Numbering of Nehemiah 3–4 | 3:33–38 = 和合本 4:1–6；4:1–17 = 和合本 4:7–23 | Noted at 3:33. |
+| הָעֶבֶד הָעַמֹּנִי (Tobiah) | 亞捫人官員 | 和合本「為奴的」 noted (2:10). |
+| מַשְׁקֶה | 酒政 | *mashqeh* noted (1:11). |
+
 ## Style
 
 **Characters and words.** Plain words over the Union Version's literary ones (吊下去, not 縋下來). Hong Kong standard forms: 裏 (not 裡), 着 for the particle (看着、
