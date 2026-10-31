@@ -568,6 +568,22 @@ Settled while drafting 1 Chronicles:
 | בִּירָה (the temple) | 宮殿 | *birah* noted (29:1). |
 | אֲדַרְכֹנִים | 達利克 | Persian gold coin, noted (29:7). |
 
+Settled while drafting 2 Chronicles:
+
+| Source | Rendering | Notes |
+|---|---|---|
+| Parallels with Kings (2 Chronicles 1–12) | 1 Kings' wording wherever the Hebrew is the same | Temple terms (大殿, 內殿, 前廊, 海, 盆座, 洗濯盆, 柱頂, 網子), the dedication prayer, the regnal formulas. Differences noted as 列王紀上8章25節作「……」; the parallel noted at the start of each section. |
+| Numbering of 2 Chronicles 1–2 | 1:18 = 和合本 2:1；2:1–17 = 和合本 2:2–18 | Noted at 1:18 and 2:1; other references give both. |
+| חוּרָם (king of Tyre) | 戶蘭 | As 1 Chronicles 14:1; noted 和合本「希蘭」 (2:2; 8:2; 9:10). |
+| חוּרָם אָבִי / אָבִיו (the craftsman) | 戶蘭‧亞比 | *Huram avi* noted (2:12; 4:16); 和合本 reads 2:12 as 「我父親希蘭所用的」, 4:16 「巧匠戶蘭」. |
+| הַבַּיִת הַגָּדוֹל; הֵיכָל | 大殿 | As 1 Kings 6 (3:5, 17). |
+| סִירוֹת; יָעִים; מִזְרָקוֹת; מִזְלָגוֹת | 盆；鏟子；盤子；肉叉 | 4:11, 16; *sirot* noted against 1 Kings 7:40. |
+| אַלְגּוּמִּים | 檀香木 | As 1 Kings 10:11 (*almuggim*); noted (2:7; 9:10). |
+| כִּיּוֹר (6:13) | 銅臺 | Noted: the word for 洗濯盆. |
+| מַעַל | 不忠 | *ma'al* noted (12:2): a key word in Chronicles. |
+| Records of prophets (9:29; 12:15) | 先知拿單的記錄；示羅人亞希雅的預言；先見易多的默示 | Statement form, as the Kings formula; 直譯「不是都寫在……上嗎？」 noted. |
+| כִּי טוֹב כִּי לְעוֹלָם חַסְדּוֹ | 因為他是美善的，他的慈愛永遠長存 | As 1 Chronicles 16:34 (5:13; 7:3). |
+
 ## Style
 
 **Characters and words.** Plain words over the Union Version's literary ones (吊下去, not 縋下來). Hong Kong standard forms: 裏 (not 裡), 着 for the particle (看着、

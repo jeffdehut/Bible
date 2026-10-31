@@ -2,6 +2,8 @@
 // (public domain) spells them. Written by scripts/names_zh.py: don't edit by hand;
 // corrections go in OVERRIDES there.
 I18N.add({
+"Jakin":"雅斤",
+"Huram-abi":"戶蘭‧亞比",
 "Shirtai":"施爾太",
 "Shitrai":"施提賚",
 "Jehezkel":"以西結",
