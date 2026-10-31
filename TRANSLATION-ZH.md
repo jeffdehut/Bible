@@ -747,6 +747,15 @@ Settled while drafting Psalms:
 | כִּסְאֲךָ אֱלֹהִים (45:7) | 神啊，你的寶座 | Long note: the king addressed as *elohim*, other readings, Septuagint and 希伯來書1章8至9節. |
 | Hebrews quoting the Septuagint (40:7–9) | The Hebrew (你開通了我的耳朵) in the text | The Septuagint 「你卻為我預備了身體」 and Hebrews' other changes in the note. |
 | צָפוֹן (48:3) | 北方的高處 | *Tsaphon*, the mountain of Canaanite myth, noted. |
+| Historical titles taking two verses (51; 52; 54; 60) | 1 交給詩班長。大衛的詩。 2 那時…… | Noted: 希伯來文以標題為第1至2節，所以第3至21節和合本作51篇1至19節，相差兩節. |
+| מַשְׂכִּיל לְדָוִד; לְדָוִד מִכְתָּם | 大衛的瑪斯基勒；屬大衛的。米克坦。 | The Hebrew order, as 16:1 and 32:1. |
+| עַל־מָחֲלַת; עַל־יְדוּתוּן; עַל־נְגִינַת | 按照麻哈拉；按照耶杜頓；用絲弦的樂器 | 麻哈拉 as the Union Version (also 88:1); 和合本「照耶杜頓的作法」 noted. |
+| Tune names: אַל־תַּשְׁחֵת; יוֹנַת אֵלֶם רְחֹקִים; שׁוּשַׁן עֵדוּת | 調用「不要毀壞」；調用「遠方無聲的鴿子」；調用「見證的百合花」 | 57–59, 75; 56; 60, 80. Union Version forms noted. |
+| Psalm 53 (Psalm 14) | Psalm 14's wording wherever the Hebrew agrees, 神 for *Elohim* | Differences noted (53:2 *avel*; 53:4 *sag*; 53:6). |
+| Psalm 108 (= 57:8–12; 60:7–14) | The wording of 57 and 60 | Psalm 108 to follow it where the Hebrew agrees; 60:10–11 note 108's differences. |
+| יְהוָה אֱלֹהִים צְבָאוֹת (59:6) | 耶和華萬軍之神 | As 2 Samuel 5:10; the Hebrew and 「萬軍之神耶和華」 noted. |
+| רוּחַ קָדְשְׁךָ (51:13) | 你聖潔的靈 | 傳統「你的聖靈」 noted. |
+| Psalm 68 | One reading in the text, others in notes | 68:19 受了禮物; Ephesians 4:8 「賜給」 (*edōken*) noted. Its hapax words noted as only here. |
 
 ## Style
 
