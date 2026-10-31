@@ -766,6 +766,15 @@ Settled while drafting Psalms:
 | רַהַב (87:4; 89:11); אֲבַדּוֹן; רְפָאִים | 拉哈伯 (not 喇合)；亞巴頓；陰魂 | As Job 26. |
 | עַל־מָחֲלַת לְעַנּוֹת (88:1) | 按照麻哈拉利暗俄 | The Union Version's form; *le'annot* noted. |
 | Psalm 78 (Exodus, Numbers) | The Pentateuch's words: 嗎哪、成群的蒼蠅、使水直立像牆壁 (Exodus 15:8) | 瑣安 as the Union Version's Psalms (鎖安 in Numbers 13:22, noted). |
+| אִישׁ הָאֱלֹהִים (90:1) | 神人摩西的禱告 | As Deuteronomy 33:1. 90:1 notes 第四卷 (90–106); 106:48 noted as closing it. |
+| יְהוָה מָלָךְ (93:1; 96:10; 97:1; 99:1) | 耶和華作王了 | As 1 Chronicles 16:31; 「耶和華已經作王了」「耶和華是王」 and the 「耶和華作王」詩篇 (93, 95–99) noted at 93:1. הַמֶּלֶךְ יְהוָה (98:6) 君王耶和華. |
+| Psalms 96; 105:1–15; 106:1, 47–48 (1 Chronicles 16:8–36) | 1 Chronicles 16's wording wherever the Hebrew agrees | Differences noted as 歷代志上16章27節作「……」. |
+| מִזְמוֹר לְתוֹדָה (100:1) | 感恩的詩 | 「為感恩祭作的詩」 noted. |
+| כִּי טוֹב כִּי לְעוֹלָם חַסְדּוֹ | 因為他是美善的，他的慈愛永遠長存 | As 1 Chronicles 16:34 (100:5; 106:1); for 107, 118, 136. |
+| בָּרֲכִי נַפְשִׁי אֶת־יְהוָה (103–104) | 我的心哪，你要稱頌耶和華 | *nephesh* noted. |
+| NT quotations (91:11–12; 95:7–11; 102:26–28; 104:4) | The Hebrew in the text | Notes give Matthew 4:6 and Luke 4:10–11's omissions, Hebrews 3's translated place names and 「四十年」, Hebrews 1:10–12's 「主啊」「捲起來」, Hebrews 1:7's 「以他的使者為風」. |
+| Psalms 105–106 (Genesis–Numbers) | The Pentateuch's words: 成群的蒼蠅、蚊子 (*kinnim*)、蝗蟲、蝻子 (*yeleq*)、鵪鶉、天上的糧食、米利巴水、巴力‧毗珥 | 含地 for Egypt, noted. |
+| לִוְיָתָן (104:26) | 利維坦 | As 74:14 and Job; 和合本「鱷魚」 noted. |
 
 ## Style
 
