@@ -222,6 +222,7 @@ I18N.add({
  "Copied": "已複製",
  "Copy": "複製",
  "Copy failed": "複製失敗",
+ "Copy the selected words": "複製所選的字詞",
  "Copy verse": "複製經文",
  "Counted from the Hebrew and Aramaic of the Leningrad Codex with STEPBible's tagged text (CC BY 4.0); people and places from the site's own lists; cross-references from OpenBible.info (CC BY). The verses shown are the Open Plain English Translation, a draft. Words are grouped by Strong's number, not by interpretation.": "根據列寧格勒抄本的希伯來文和亞蘭文，以及STEPBible的標記文本（CC BY 4.0）計算；人物和地點取自本站的名錄；串珠經文取自OpenBible.info（CC BY）。所顯示的經文是開放淺白英文譯本（初稿）。字詞按史特朗編號歸類，而不是按解釋歸類。",
  "Counted from the SBL Greek New Testament with STEPBible's tagged text (CC BY 4.0); people and places from the site's own lists; cross-references from OpenBible.info (CC BY). The verses shown are the Open Plain English Translation, a draft. Words are grouped by Strong's number, not by interpretation.": "根據SBL希臘文新約，以及STEPBible的標記文本（CC BY 4.0）計算；人物和地點取自本站的名錄；串珠經文取自OpenBible.info（CC BY）。所顯示的經文是開放淺白英文譯本（初稿）。字詞按史特朗編號歸類，而不是按解釋歸類。",

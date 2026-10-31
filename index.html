@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
 <meta charset="utf-8">
-<script src="i18n.js?v=17"></script>
+<script src="i18n.js?v=18"></script>
 <script src="ui.js?v=1"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
 <title>Plain English Bible</title>
@@ -622,6 +622,15 @@ input[type="range"] { width: 100%; accent-color: var(--lapis); }
 .mk-text { font: 400 14px/1.3 var(--sans); }
 /* Bookmarks: a ribbon by the verse number, and the list. */
 .v.bm > .vn::before { content: ""; display: inline-block; width: 0.55em; height: 0.8em; margin-right: 0.15em; vertical-align: -0.08em; background: var(--lapis); clip-path: polygon(0 0, 100% 0, 100% 100%, 50% 72%, 0 100%); }
+/* Choosing words by touch (pickWords below): the phone's own selection and its menu stay away. */
+@media (pointer: coarse) { .text .v { -webkit-user-select: none; user-select: none; -webkit-touch-callout: none; } }
+.pick-layer { position: absolute; top: 0; left: 0; width: 0; height: 0; z-index: 30; pointer-events: none; }
+.pick-layer i { position: absolute; border-radius: 3px; background: color-mix(in srgb, var(--lapis) 24%, transparent); }
+.pick-handle { position: absolute; width: 32px; height: 44px; margin-left: -16px; pointer-events: auto; touch-action: none; }
+.pick-handle::before { content: ""; position: absolute; left: 15px; width: 2px; top: 12px; bottom: 12px; background: var(--lapis); }
+.pick-handle::after { content: ""; position: absolute; left: 10px; width: 12px; height: 12px; border-radius: 50%; background: var(--lapis); }
+.pick-handle.lo::after { top: 2px; }
+.pick-handle.hi::after { bottom: 2px; }
 .hl-bar { align-items: center; max-width: calc(100vw - 16px); overflow-x: auto; scrollbar-width: none; }
 .hl-bar .tool { display: grid; place-items: center; background: var(--surface); color: var(--lapis); border: 1px solid var(--line); font: 600 20px/1 var(--sans); flex: none; }
 .hl-bar .tool svg { width: 16px; height: 16px; }
@@ -3122,7 +3131,7 @@ function bookmarkSelection() {
   if (!vs.length) return;
   const first = vs[0][0].dataset.id, last = vs[vs.length - 1][0].dataset.id;
   setBookmark(first, last);
-  getSelection().removeAllRanges();
+  clearSel();
   $("hl-bar").hidden = true;
   toast(L.t("Bookmarked {ref}", { ref: passageLabel(first, last) }));
 }
@@ -3477,11 +3486,18 @@ function offsetIn(span, node, off) {
   }
   return at;
 }
-function selectedVerses() {
+// The words chosen: by touch, our own choice (see "Choosing words by touch"); otherwise the
+// browser's selection.
+function selRange() {
+  if (pick) return pick.range;
   const sel = getSelection();
-  if (!sel.rangeCount || sel.isCollapsed) return [];
-  const r = sel.getRangeAt(0);
-  if (!$("text").contains(r.commonAncestorContainer)) return [];
+  return sel.rangeCount && !sel.isCollapsed ? sel.getRangeAt(0) : null;
+}
+function hasSel() { return !!pick || !!String(getSelection()).trim(); }
+function clearSel() { getSelection().removeAllRanges(); clearPick(); }
+function selectedVerses() {
+  const r = selRange();
+  if (!r || !$("text").contains(r.commonAncestorContainer)) return [];
   const out = [];
   for (const span of $("text").querySelectorAll(".v")) {
     if (!r.intersectsNode(span)) continue;
@@ -3514,7 +3530,7 @@ function highlightSelection(color) {
     unmarkRanges(span); if (a.r) markRanges(span, a.r);
     touched.push(id);
   }
-  getSelection().removeAllRanges();
+  clearSel();
   $("hl-bar").hidden = true;
   if (touched.length) toast(color ? "Highlighted" : "Highlight removed");
 }
@@ -3570,7 +3586,7 @@ function markSelection(mid, picked = selectedVerses()) {
     unmarkRanges(span); if (a.r) markRanges(span, a.r);
     touched.push(id);
   }
-  getSelection().removeAllRanges();
+  clearSel();
   hlBar.hidden = true;
   if (touched.length) toast(removed ? "Marking removed" : L.t("Marked as {name}", { name: markById(mid)?.n || "" }));
 }
@@ -3584,7 +3600,7 @@ function noteSelection() {
   a.r = a.r || [];
   let q = a.r.find(x => x[2] === "n" && x[0] === s && x[1] === e);
   if (!q) { q = [s, e, "n", ""]; a.r.push(q); notes[id] = a; }
-  getSelection().removeAllRanges();
+  clearSel();
   hlBar.hidden = true;
   openVerse(span).then(() => {});
   setTimeout(() => {
@@ -3623,6 +3639,7 @@ const hlBar = el("div", { class: "hl-bar", id: "hl-bar", hidden: true, role: "to
 const ICON_NOTE = '<svg class="icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M4 20h4L19 9l-4-4L4 16Z"/><path d="m13.5 6.5 4 4"/></svg>';
 const ICON_MARK = '<svg class="icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="m12 3 2.6 5.6 6.1.7-4.5 4.2 1.2 6L12 16.6 6.6 19.5l1.2-6-4.5-4.2 6.1-.7Z"/></svg>';
 const ICON_BM = '<svg class="icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M6 3h12v18l-6-4.5L6 21Z"/></svg>';
+const ICON_COPY = '<svg class="icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="8" y="8" width="12" height="12" rx="2.5"/><path d="M16 8V5.5A1.5 1.5 0 0 0 14.5 4h-9A1.5 1.5 0 0 0 4 5.5v9A1.5 1.5 0 0 0 5.5 16H8"/></svg>';
 const keepSel = e => e.preventDefault();
 function barTool(label, icon, onclick) {
   const b = el("button", { type: "button", class: "swatch tool", "aria-label": label, title: label, onmousedown: keepSel, onclick });
@@ -3635,12 +3652,25 @@ function hlBarMain(other) {
   // highlighted from the verse panel.
   if (other) {
     hlBar.replaceChildren(el("span", { class: "hl-note", text: "Highlights and notes on words, and markings, are kept on our own translation." }),
-      barTool("Bookmark the selected verses", ICON_BM, bookmarkSelection));
+      barTool("Copy the selected words", ICON_COPY, copySelection), barTool("Bookmark the selected verses", ICON_BM, bookmarkSelection));
     return;
   }
   hlBar.replaceChildren(...swatchRow(null, highlightSelection, { pressed: false }), el("span", { class: "sep", "aria-hidden": "true" }),
     barTool("Note on these words", ICON_NOTE, noteSelection), barTool("Mark these words", ICON_MARK, hlBarMarks),
-    barTool("Bookmark the selected verses", ICON_BM, bookmarkSelection));
+    barTool("Bookmark the selected verses", ICON_BM, bookmarkSelection), barTool("Copy the selected words", ICON_COPY, copySelection));
+}
+// Copy the chosen words, with where they are from.
+function copySelection() {
+  const vs = selectedVerses();
+  if (!vs.length) return;
+  const words = vs.map(([span, s, e]) => countedText(span).map(n => n.data).join("").slice(s, e).trim()).join(" ").replace(/\s+/g, " ");
+  const first = vs[0][0].dataset.id, last = vs[vs.length - 1][0].dataset.id;
+  const ver = VER === "ours" ? "Open Plain English Translation, draft" : verOf(VER)?.short || VER;
+  const text = `“${words}” (${passageLabel(first, last)}, ${ver})`;
+  clearSel();
+  const done = () => toast("Copied");
+  if (navigator.clipboard) navigator.clipboard.writeText(text).then(done).catch(() => fallbackCopy(text, done));
+  else fallbackCopy(text, done);
 }
 // The second step of "mark": your markings, a way to make one, and back.
 function hlBarMarks() {
@@ -3658,7 +3688,7 @@ let mkPending = null, mkEditing = null;
 function openMyMarks(fromSelection) {
   // Words selected when you asked for a new marking get it as soon as it is saved.
   mkPending = fromSelection ? selectedVerses().map(([span, s, e]) => [span, s, e]) : null;
-  if (fromSelection) { getSelection().removeAllRanges(); hlBar.hidden = true; }
+  if (fromSelection) { clearSel(); hlBar.hidden = true; }
   renderMyMarks();
   openSheet("mymarks");
   if (fromSelection || !myMarks.length) editMark(null);
@@ -3724,30 +3754,150 @@ $("mk-new").onclick = () => editMark(null);
 paintMyMarks();
 
 function placeHlBar() {
-  const sel = getSelection();
-  if (!sel.rangeCount) return;
-  const rect = sel.getRangeAt(0).getBoundingClientRect();
+  const r = selRange();
+  if (!r) return;
+  const rect = r.getBoundingClientRect();
   if (!rect.width && !rect.height) return;
-  // Above the words, or below them on touch screens, where the system's own menu sits above.
-  const below = matchMedia("(pointer: coarse)").matches;
-  const top = below ? rect.bottom + 12 : rect.top - hlBar.offsetHeight - 10;
+  // Above the words; below them where there is no room, or where the system's own menu sits
+  // above (a selection made the browser's way on a touch screen).
+  let below = !pick && matchMedia("(pointer: coarse)").matches;
+  if (!below && rect.top - hlBar.offsetHeight - (pick ? 22 : 10) < 8) below = true;
+  const top = below ? rect.bottom + (pick ? 26 : 12) : rect.top - hlBar.offsetHeight - (pick ? 22 : 10);
   hlBar.style.top = `${Math.max(8, Math.min(innerHeight - hlBar.offsetHeight - 8, top))}px`;
   hlBar.style.left = `${Math.max(8, Math.min(innerWidth - hlBar.offsetWidth - 8, rect.left + rect.width / 2 - hlBar.offsetWidth / 2))}px`;
 }
 
 let hlTimer = 0;
+function showSelBar() {
+  const vs = selectedVerses();
+  if (!vs.length) { hlBar.hidden = true; return; }
+  if (hlBar.hidden) hlBarMain(vs.some(([span]) => ctxOfNode(span)?.chapter.ver));
+  hlBar.hidden = false;
+  placeHlBar();
+}
 document.addEventListener("selectionchange", () => {
+  if (pick) return;
   clearTimeout(hlTimer);
-  hlTimer = setTimeout(() => {
-    const vs = selectedVerses();
-    if (!vs.length) { hlBar.hidden = true; return; }
-    if (hlBar.hidden) hlBarMain(vs.some(([span]) => ctxOfNode(span)?.chapter.ver));
-    hlBar.hidden = false;
-    placeHlBar();
-  }, 180);
+  hlTimer = setTimeout(showSelBar, 180);
 });
+addEventListener("scroll", () => { if (pick && !hlBar.hidden) placeHlBar(); }, { passive: true });
+
+/* Choosing words by touch. On phones and tablets the browser's own selection brings the
+   system's menu (Copy, Look Up, Share) over the words; so the Bible text can't be selected
+   that way there, and words are chosen here instead: hold a word to choose it, keep holding
+   and drag to take in more, or drag the handles at either end. Tap anywhere to let go. */
+let pick = null;                 // { lo, hi: {node, s, e} words, range }
+const pickLayer = el("div", { class: "pick-layer", "aria-hidden": "true" });
+document.body.append(pickLayer);
+const wordSeg = typeof Intl.Segmenter === "function" ? new Intl.Segmenter(document.documentElement.lang || undefined, { granularity: "word" }) : null;
+function caretAt(x, y) {
+  let node = null, off = 0;
+  if (document.caretPositionFromPoint) { const p = document.caretPositionFromPoint(x, y); if (p) { node = p.offsetNode; off = p.offset; } }
+  else if (document.caretRangeFromPoint) { const r = document.caretRangeFromPoint(x, y); if (r) { node = r.startContainer; off = r.startOffset; } }
+  if (!node || node.nodeType !== 3 || !node.parentElement.closest("#text .v") || node.parentElement.closest(".vn, .fn, .missing")) return null;
+  return { node, off };
+}
+// The word at a point in the text: Intl.Segmenter knows words in English and in Chinese.
+function wordAt(c) {
+  if (!c) return null;
+  const t = c.node.data;
+  if (wordSeg) {
+    const segs = [...wordSeg.segment(t)];
+    const find = o => segs.find(w => o >= w.index && o < w.index + w.segment.length);
+    let w = find(c.off);
+    if (!(w && w.isWordLike) && c.off > 0) w = find(c.off - 1);
+    return w && w.isWordLike ? { node: c.node, s: w.index, e: w.index + w.segment.length } : null;
+  }
+  const isW = ch => /[\p{L}\p{N}'’-]/u.test(ch);
+  let s = c.off, e = c.off;
+  if (!isW(t[s] || "") && s > 0 && isW(t[s - 1])) s = e = s - 1;
+  if (!isW(t[s] || "")) return null;
+  while (s > 0 && isW(t[s - 1])) s--;
+  while (e < t.length && isW(t[e])) e++;
+  return { node: c.node, s, e };
+}
+function wordBefore(a, b) {   // does word a begin before word b?
+  if (a.node === b.node) return a.s < b.s;
+  return !!(a.node.compareDocumentPosition(b.node) & Node.DOCUMENT_POSITION_FOLLOWING);
+}
+function setPick(a, b) {
+  const [lo, hi] = wordBefore(b, a) ? [b, a] : [a, b];
+  const range = document.createRange();
+  range.setStart(lo.node, lo.s); range.setEnd(hi.node, lo.node === hi.node ? Math.max(hi.e, lo.e) : hi.e);
+  pick = { lo, hi, range };
+  drawPick();
+  showSelBar();
+}
+function drawPick() {
+  if (!pick) { pickLayer.replaceChildren(); return; }
+  const rects = [...pick.range.getClientRects()].filter(r => r.width > 1);
+  if (!rects.length) return;
+  const X = scrollX, Y = scrollY;
+  const first = rects[0], last = rects[rects.length - 1];
+  const handle = (cls, x, y) => {
+    const h = el("span", { class: "pick-handle " + cls, style: `left:${x + X}px;top:${y + Y}px` });
+    h.addEventListener("pointerdown", ev => dragHandle(ev, cls));
+    return h;
+  };
+  pickLayer.replaceChildren(...rects.map(r => el("i", { style: `left:${r.left + X - 1}px;top:${r.top + Y}px;width:${r.width + 2}px;height:${r.height}px` })),
+    handle("lo", first.left, first.top - 14), handle("hi", last.right, last.bottom - 30));
+}
+function clearPick() {
+  if (!pick) return;
+  pick = null;
+  pickLayer.replaceChildren();
+  hlBar.hidden = true;
+}
+// Dragging a handle: the other end stays, this end follows the finger, a word at a time.
+function dragHandle(ev, which) {
+  ev.preventDefault(); ev.stopPropagation();
+  const h = ev.currentTarget, fixed = which === "lo" ? pick.hi : pick.lo;
+  h.setPointerCapture(ev.pointerId);
+  const move = e => {
+    const w = wordAt(caretAt(e.clientX, e.clientY + (which === "lo" ? 22 : -22)));
+    if (w) setPick(fixed, w);
+  };
+  const up = () => { h.removeEventListener("pointermove", move); h.removeEventListener("pointerup", up); h.removeEventListener("pointercancel", up); };
+  h.addEventListener("pointermove", move);
+  h.addEventListener("pointerup", up);
+  h.addEventListener("pointercancel", up);
+}
+let holdTimer = 0, holding = null, holdAt = null, skipUntil = 0;   // the tap that ends a hold is not a tap on the verse
+const coarse = matchMedia("(pointer: coarse)");
+$("text").addEventListener("touchstart", ev => {
+  if (!coarse.matches || ev.touches.length !== 1) return;
+  const t = ev.touches[0];
+  holdAt = { x: t.clientX, y: t.clientY };
+  clearTimeout(holdTimer);
+  holdTimer = setTimeout(() => {
+    const w = wordAt(caretAt(holdAt.x, holdAt.y));
+    if (!w) return;
+    holding = w;
+    skipUntil = Infinity;
+    setPick(w, w);
+    navigator.vibrate?.(8);
+  }, 420);
+}, { passive: true });
+$("text").addEventListener("touchmove", ev => {
+  const t = ev.touches[0];
+  if (holding) {
+    ev.preventDefault();   // the page holds still while the finger takes in words
+    const w = wordAt(caretAt(t.clientX, t.clientY));
+    if (w) setPick(holding, w);
+  } else if (holdAt && Math.hypot(t.clientX - holdAt.x, t.clientY - holdAt.y) > 10) clearTimeout(holdTimer);
+}, { passive: false });
+const letGo = () => { clearTimeout(holdTimer); if (holding) skipUntil = Date.now() + 500; holding = null; holdAt = null; };
+$("text").addEventListener("touchend", letGo);
+$("text").addEventListener("touchcancel", letGo);
+$("text").addEventListener("contextmenu", ev => { if (coarse.matches) ev.preventDefault(); });
+// A tap anywhere but the bar lets the words go.
+document.addEventListener("pointerdown", ev => {
+  if (pick && !holding && !ev.target.closest(".hl-bar, .pick-handle, .ui-sheet")) { clearPick(); if (ev.target.closest("#text")) skipUntil = Date.now() + 800; }
+}, true);
+addEventListener("resize", () => { if (pick) clearPick(); });
 
 $("text").addEventListener("click", ev => {
+  if (Date.now() < skipUntil) { skipUntil = 0; return; }
   const fn = ev.target.closest(".fn");
   if (fn) {
     ev.stopPropagation();
@@ -3758,7 +3908,7 @@ $("text").addEventListener("click", ev => {
     return;
   }
   const v = ev.target.closest(".v");
-  if (v && !String(getSelection()).trim()) { if (selected === v && !$("verse").hidden) closeVerse(); else openVerse(v); }
+  if (v && !hasSel()) { if (selected === v && !$("verse").hidden) closeVerse(); else openVerse(v); }
 });
 $("text").addEventListener("keydown", ev => {
   const v = ev.target.closest && ev.target.closest(".v");
@@ -3808,7 +3958,7 @@ $("main").addEventListener("touchend", ev => {
   if (!touch || !cur || view.kind === "plan") return;
   const dx = ev.changedTouches[0].clientX - touch.x, dy = ev.changedTouches[0].clientY - touch.y, dt = Date.now() - touch.t;
   touch = null;
-  if (Math.abs(dx) > 70 && Math.abs(dx) > Math.abs(dy) * 2 && dt < 700 && !String(getSelection()).trim()) {
+  if (Math.abs(dx) > 70 && Math.abs(dx) > Math.abs(dy) * 2 && dt < 700 && !hasSel()) {
     if (dx < 0 && cur.next) go(...cur.next);
     if (dx > 0 && cur.prev) go(...cur.prev);
   }
@@ -3856,7 +4006,7 @@ Promise.all([getJSON("books.json"), !L.en && L.LANGS[LANG].bible ? getJSON(`i18n
   addEventListener("hashchange", route);
   route();
 }).catch(() => { $("loading").textContent = "The Bible couldn't be loaded. Check your connection and reload the page."; });
-if ("serviceWorker" in navigator && /^https?:$/.test(location.protocol) && !embedded) navigator.serviceWorker.register("sw.js?v=58").catch(() => {});
+if ("serviceWorker" in navigator && /^https?:$/.test(location.protocol) && !embedded) navigator.serviceWorker.register("sw.js?v=59").catch(() => {});
 
 /* ---------- For account.js: highlights and notes, and two of the reader's tools ---------- */
 var reader = {
