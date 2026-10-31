@@ -307,6 +307,13 @@
     el("a", { href: "privacy.html", text: "Privacy" }));
   function render() {
     $("open-account").hidden = false;
+    const ab = $("acct-btn");
+    if (ab) {
+      ab.hidden = false;
+      ab.classList.toggle("in", !!state.session);
+      const tip = state.session ? state.session.user.email : "Sign in to sync across devices";
+      ab.title = tip; ab.setAttribute("aria-label", state.session ? "Your account: " + state.session.user.email : tip);
+    }
     R.signedIn = !!state.session;
     $("account-sub").textContent = state.session ? statusText() : "";
     $("mine-account").textContent = state.session ? `Also kept in your account, ${state.session.user.email}. ${statusText()}.`
