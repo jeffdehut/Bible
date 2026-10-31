@@ -706,6 +706,48 @@ Settled while drafting Job:
 | אֶמְאַס וְנִחַמְתִּי (42:6) | 我收回我的話，在塵土和爐灰中懊悔 | The other readings (我厭惡自己；不再在塵土和爐灰中哀哭；得了安慰) in a long note. |
 | שָׁב אֶת־שְׁבוּת (42:10) | 扭轉……的命運 | As Deuteronomy 30:3, noted. |
 
+Settled while drafting Psalms:
+
+| Source | Rendering | Notes |
+|---|---|---|
+| Psalm titles | Part of verse 1 (or 1–2), in the Hebrew order, each element ending 。: 交給詩班長。用絲弦的樂器。大衛的詩。 | Noted once per psalm at the title: 希伯來文以標題為第1節，所以第2至9節和合本作3篇1至8節. A title sharing its verse with the first line (11; 14; 15) noted as keeping the Union Version's numbers. Psalm references in notes: 19篇15節. |
+| לַמְנַצֵּחַ | 交給詩班長 | *lamenatseach* noted at its first occurrence in each psalm, with 和合本「交與伶長」. |
+| מִזְמוֹר לְדָוִד; לְדָוִד (alone) | 大衛的詩；屬大衛的 | 「或譯『為大衛作的』、『關於大衛的』」 noted in each psalm; *mizmor* noted (3:1). |
+| שִׁיר; תְּהִלָּה; תְּפִלָּה; שִׁיר הַמַּעֲלוֹת | 歌；讚美詩；禱告；上行之詩 | For later psalms. |
+| שִׁגָּיוֹן; הִגָּיוֹן; מַשְׂכִּיל; מִכְתָּם | 示迦庸；希迦庸；瑪斯基勒；米克坦 | Meaning uncertain, so transliterated; the Hebrew and the Union Version's 流離歌, 訓誨詩, 金詩 in a note. |
+| בִּנְגִינוֹת | 用絲弦的樂器 | Meaning known, translated. |
+| Terms of uncertain meaning: עַל־הַשְּׁמִינִית; אֶל־הַנְּחִילוֹת; עַל־הַגִּתִּית; עַלְמוּת לַבֵּן | 按照舍米尼；用尼希錄；按照基提；按照慕拉便 | 按照 for עַל, 用 for אֶל and בְּ; the Union Version's 調用第八, 用吹的樂器, 用迦特樂器 in the note. |
+| Tune names whose meaning is known (22:1, 56:1) | 調用「……」 | The name translated inside 「」. |
+| סֶלָה | 細拉 | Its own word after the line's 。 (「……。細拉。」), wherever the Hebrew has it; *selah* noted at its first occurrence in each psalm. |
+| אַשְׁרֵי | 多麼有福；有福 | *ashrei* noted at its first occurrence in each psalm, kept apart from בָּרוּךְ 蒙福. |
+| חֶסֶד; חָסִיד | 慈愛；忠誠的人、忠於他的人 | The glossary note on *chesed* at its first occurrence in each psalm; *chasid* noted with it. |
+| Divine names | 耶和華 (YHWH, noted in each psalm)；神 (Elohim, El, Eloah)；主 (Adonai)；至高者 (Elyon, noted)；萬軍之耶和華 | יְהוָה אֲדֹנֵינוּ 耶和華我們的主 (8:2). *Yah* alone 耶和華, noted; הַלְלוּ־יָהּ 你們要讚美耶和華, noted 「哈利路亞」. |
+| מְשִׁיחוֹ (2:2) | 他的受膏者 | Noted: the king; *mashiach* and 彌賽亞; Acts 4:25–27. |
+| New Testament quotations | The Hebrew in the text | A note only where the Septuagint or the New Testament reads differently (2:9; 4:5; 8:3, 6). |
+| Acrostics | Noted at the first verse | Psalms 9–10 (9:2; 10:1). |
+| עָנִי; עָנָו | 困苦人；謙卑人 | Kept apart, so a ketiv/qere between them is noted (9:13, 19; 10:12). Ketiv/qere differing only in form (5:9; 6:4; 10:5; 11:1) not noted. |
+| שָׁב שְׁבוּת (14:7) | 扭轉……的命運 | As Job 42:10; 「帶回被擄的」 noted. |
+| Psalm 18 (2 Samuel 22) | 2 Samuel 22's wording wherever the Hebrew is the same | Differences noted as 撒母耳記下22章5節作「……」; poetry without quotation marks, 18:2 opens 他說：. |
+| מִזְמוֹר (alone, after לְדָוִד); שִׁיר חֲנֻכַּת הַבַּיִת | 一首詩；為殿行奉獻禮時唱的歌 | 24:1; 30:1, *chanukkah* noted. |
+| Psalm 19:8–10 | 律法；法度；訓詞；誡命；敬畏；典章 | One rendering each for *torah*, *edut*, *piqqudim*, *mitsvah*, *yir'ah*, *mishpatim*; noted. |
+| גֹּאֵל (of God, 19:15) | 救贖者 | As Job 19:25; *go'el* noted with Ruth. |
+| כָּאֲרִי (22:17) | 他們像獅子一樣，撲咬我的手和我的腳 | The verb supplied and noted; 「扎」 (Septuagint, some manuscripts, 和合本) in the note. |
+| בּוֹר; שַׁחַת | 坑 (下坑的人)；墳坑 | Each noted (28:1; 30:4, 10; 16:10). |
+| כְּלָיוֹת | 心腸 | 「腎」 noted (16:7; 26:2). |
+| צַלְמָוֶת (23:4) | 死蔭的幽谷 | As Job 3:5 (死蔭); 「最黑暗的山谷」 noted. |
+| בְּנֵי אֵלִים (29:1) | 天上的眾生 | 「眾神的兒子們」 noted. |
+| Acrostics (Psalm 25) | Noted at verse 1 | The gaps and the closing *pe* verse described. |
+| Acrostics (Psalms 34, 37) | Noted at the first verse of the alphabet | 34:2 (no *vav*; closing *pe* verse 23, as 25); 37:1 (two-verse sections, *ayin* mid-verse 28). |
+| לְהַזְכִּיר; שִׁיר יְדִידֹת; עַל־שֹׁשַׁנִּים | 為了記念；愛的歌；調用「百合花」 | 38:1; 45:1; 和合本「紀念詩」「愛慕歌」 noted. |
+| עַל־עֲלָמוֹת (46:1) | 按照亞拉莫 | Coined; 「女高音」 and 和合本「調用女音」 noted, with 1 Chronicles 15:20. |
+| לִבְנֵי־קֹרַח | 可拉後裔的 | 「或譯『為可拉後裔作的』」 and the Levite singers noted in each psalm. |
+| Book divisions | Noted: 41:14 closes 第一卷; 42:1 opens 第二卷 (42–72) and the Korah psalms (42–49) | 42:2 notes the 「以羅欣詩集」 (42–83): 神 for *Elohim*, 耶和華 for YHWH, as each stands. |
+| Refrains (42:6, 12; 43:5; 46:8, 12; 49:13, 21) | Identical wording wherever the Hebrew is identical | Where it differs (42:6 *yeshu'ot panav*; 49:13 *bal yalin*), the Chinese differs and a note says how. |
+| הֶבֶל (39:6, 7, 12) | 一口氣；枉然 | *hevel* noted with 傳道書1章2節. |
+| כִּסְאֲךָ אֱלֹהִים (45:7) | 神啊，你的寶座 | Long note: the king addressed as *elohim*, other readings, Septuagint and 希伯來書1章8至9節. |
+| Hebrews quoting the Septuagint (40:7–9) | The Hebrew (你開通了我的耳朵) in the text | The Septuagint 「你卻為我預備了身體」 and Hebrews' other changes in the note. |
+| צָפוֹן (48:3) | 北方的高處 | *Tsaphon*, the mountain of Canaanite myth, noted. |
+
 ## Style
 
 **Characters and words.** Plain words over the Union Version's literary ones (吊下去, not 縋下來). Hong Kong standard forms: 裏 (not 裡), 着 for the particle (看着、

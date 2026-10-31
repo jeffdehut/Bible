@@ -22,3 +22,5 @@ Found while drafting; not yet settled across books.
 - Ginnethoi (Nehemiah 12:4): 近頓 as 和合本, the Hebrew form only in a note. Nehemiah 12:23 renders *sefer divrei ha-yamim* 《歷代志》, noted as not the biblical book.
 - Barachel (Job 32:2): 巴拉迦別 in the text from memory of the classic Union Version; the 1989 file has 巴拉迦. Check a classic edition.
 - Behemoth 比希摩 (Job 40:15) is a coined transliteration; *go'el* is 救贖者 in Job 19:25 but 至近的親屬 in Ruth.
+- Psalm title terms of uncertain meaning are transliterated with coined forms (示迦庸, 希迦庸, 瑪斯基勒, 米克坦, 舍米尼, 尼希錄, 基提, 亞拉莫);
+  慕拉便 follows the Union Version. A specialist should confirm the forms before Psalms goes further.
