@@ -1877,7 +1877,7 @@ I18N.add({
 "Habakkuk":"哈巴谷",
 "Habazziniah":"哈巴洗尼雅",
 "Habor":"哈博河",
-"Hacaliah":"亞達薛西",
+"Hacaliah":"哈迦利亞",
 "Hachaliah":"哈迦利亞",
 "Hachilah":"哈基拉山",
 "Hachmoni":"哈摩尼",

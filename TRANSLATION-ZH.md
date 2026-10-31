@@ -629,6 +629,17 @@ Settled while drafting Nehemiah:
 | Numbering of Nehemiah 3–4 | 3:33–38 = 和合本 4:1–6；4:1–17 = 和合本 4:7–23 | Noted at 3:33. |
 | הָעֶבֶד הָעַמֹּנִי (Tobiah) | 亞捫人官員 | 和合本「為奴的」 noted (2:10). |
 | מַשְׁקֶה | 酒政 | *mashqeh* noted (1:11). |
+| Nehemiah 7:6–72 (Ezra 2) | Ezra 2's wording and name forms wherever the Hebrew agrees | Differences noted as 以斯拉記2章5節作「……」; 第來雅 (7:62) kept as in Ezra, 和合本 here 第萊雅 noted. |
+| Numbering of Nehemiah 7 and 9–10 | 7:68–72 = 和合本 7:69–73；10:1 = 和合本 9:38；10:2–40 = 和合本 10:1–39 | The horses-and-mules line is not in the Leningrad Codex (noted 7:68); noted at 9:37 and 10:1. |
+| סֹפֵר (Ezra); כֹּהֵן סֹפֵר | 經學家；祭司兼經學家 | Noted at its first occurrence in the book (8:1). A storehouse official (13:13) 書記. |
+| סֻכּוֹת; עֲצֶרֶת (Nehemiah 8) | 棚；嚴肅的聚會 | 住棚節 noted (8:14). |
+| אֲמָנָה; הַחֲתוּם | 堅定的約；蓋了印的文件 | 10:1–2; 11:23 定規, noted as the same word. |
+| נְעָרַי (Nehemiah's men) | 我的僕人 | 4:10, 16; 5:10, 16; 13:19. |
+| הַגּוֹיִם (around Judah) | 外族 | 5:8–9, 17; 6:6, 16. |
+| תְּרוּמָה; לִשְׁכָּה; אוֹצָרוֹת | 舉祭；房間；庫房 | *terumah* noted (10:38; 12:44; 13:5). |
+| Chains of בֶּן (Nehemiah 11; 12:35) | A是B的兒子，B是C的兒子 | As 1 Chronicles 6. |
+| Names (Nehemiah 8–13) | The Union Version of Nehemiah, passage by passage | Even where it differs from Ezra or itself: 約撒達 (12:26, Ezra 約薩達), 哈疊 (11:34, 7:37 哈第), 撒迦利雅／撒迦利亞 (11:4, 12). 毘 for its 毗. |
+| תּוֹדֹת (12:31, 38, 40) | 稱謝的人（兩大隊） | Literal wording noted. |
 
 ## Style
 
