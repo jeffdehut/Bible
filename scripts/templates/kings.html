@@ -215,7 +215,7 @@ h1 { margin: 0 0 6px; font: 300 clamp(36px, 7vw, 56px)/1.02 var(--read); letter-
       others.length ? el("h3", { text: r.side === "judah" ? "In Israel at the time" : r.side === "israel" ? "In Judah at the time" : "" }) : null,
       others.length ? el("div", { class: "chips" }, ...others.map(o => el("button", { type: "button", style: `--c:${VC[o.v]}`, onclick: () => select(o, $("chart").querySelectorAll(".reign")[all.indexOf(o)]) }, el("i"), o.n.replace(/ of (Israel|Judah)$/, "")))) : null,
       prophets.length ? el("h3", { text: "Prophets of his days" }) : null,
-      prophets.length ? el("div", { class: "chips" }, ...prophets.map(p => { const h = readHref(p.ref); return el("button", { type: "button", style: "--c:var(--prophet)", onclick: () => { if (h) location.href = h; } }, el("i"), p.n); })) : null].filter(Boolean));
+      prophets.length ? el("div", { class: "chips" }, ...prophets.map(p => { const h = readHref(p.ref); return el("button", { type: "button", style: "--c:var(--prophet)", onclick: () => { if (!h) return; if (window.SiteNav?.read && document.documentElement.classList.contains("embedded")) SiteNav.read(new URL(h, location.href).hash); else location.href = h; } }, el("i"), p.n); })) : null].filter(Boolean));
     card.hidden = false; card.scrollTop = 0;
     try { history.replaceState(null, "", "#" + encodeURIComponent(r.n.toLowerCase().replace(/ /g, "-"))); } catch (e) { /* not allowed here */ }
   }

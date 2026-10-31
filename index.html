@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
 <meta charset="utf-8">
-<script src="i18n.js?v=19"></script>
+<script src="i18n.js?v=20"></script>
 <script src="ui.js?v=1"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
 <title>Plain English Bible</title>
@@ -38,6 +38,9 @@
   --hl-blue: #d3e3fb;
   --hl-pink: #f9d6e4;
   --hl-orange: #fbd9bb;
+  --hl-purple: #e6dafb; --hl-red: #f9d0cc; --hl-teal: #c9ece7; --hl-gray: #e3e3e0;
+  --ink-yellow: #c08f00; --ink-green: #2e8b3c; --ink-blue: #2a5bd7; --ink-pink: #cf3f86; --ink-orange: #d4621a;
+  --ink-purple: #7a3fc4; --ink-red: #d0342c; --ink-teal: #0f8379; --ink-gray: #5b6475;
   --shadow: 0 1px 2px rgb(22 27 38 / 6%), 0 10px 30px rgb(22 27 38 / 10%);
   --read: "Frank Ruhl Libre", "Noto Serif", Georgia, serif;
   --sans: "Libre Franklin", system-ui, -apple-system, "Segoe UI", sans-serif;
@@ -54,6 +57,8 @@
     --draft: #f39a80; --draft-soft: #3a1d16;
     --hl-yellow: rgb(226 189 92 / 30%); --hl-green: rgb(94 199 161 / 26%); --hl-blue: rgb(120 160 255 / 28%);
     --hl-pink: rgb(240 130 180 / 26%); --hl-orange: rgb(240 150 90 / 28%);
+    --hl-purple: rgb(170 140 255 / 28%); --hl-red: rgb(255 110 100 / 26%); --hl-teal: rgb(80 200 190 / 26%); --hl-gray: rgb(160 170 185 / 24%);
+    --ink-yellow: #e8bd4f; --ink-green: #6fd27c; --ink-blue: #7ea6ff; --ink-pink: #f08ab8; --ink-orange: #f5a35a; --ink-purple: #c79cff; --ink-red: #ff7a6b; --ink-teal: #4fd1c5; --ink-gray: #a7b4c9;
     --mk-gold: #e8bd4f; --mk-crimson: #f07088; --mk-teal: #4fd1c5; --mk-red: #ff7a6b; --mk-pink: rgb(240 130 180 / 70%); --mk-blue: #7ea6ff; --mk-green: #6fd27c; --mk-brown: #d0a274; --mk-orange: #f5a35a; --mk-indigo: #a99cff; --mk-purple: #d59cff; --mk-navy: #9bb4f0; --mk-violet: rgb(170 140 255 / 70%); --mk-amber: rgb(240 200 90 / 70%); --mk-sky: #6cc6f2; --mk-slate: #a7b4c9; --mk-gray: #9aa1ad; --mk-olive: #c3d160; --mk-leaf: #7fd38f; --mk-ink: #ff8a7a;
     --shadow: 0 1px 2px rgb(0 0 0 / 35%), 0 12px 32px rgb(0 0 0 / 40%);
     color-scheme: dark;
@@ -65,6 +70,8 @@
   --draft: #f39a80; --draft-soft: #3a1d16;
   --hl-yellow: rgb(226 189 92 / 30%); --hl-green: rgb(94 199 161 / 26%); --hl-blue: rgb(120 160 255 / 28%);
   --hl-pink: rgb(240 130 180 / 26%); --hl-orange: rgb(240 150 90 / 28%);
+  --hl-purple: rgb(170 140 255 / 28%); --hl-red: rgb(255 110 100 / 26%); --hl-teal: rgb(80 200 190 / 26%); --hl-gray: rgb(160 170 185 / 24%);
+  --ink-yellow: #e8bd4f; --ink-green: #6fd27c; --ink-blue: #7ea6ff; --ink-pink: #f08ab8; --ink-orange: #f5a35a; --ink-purple: #c79cff; --ink-red: #ff7a6b; --ink-teal: #4fd1c5; --ink-gray: #a7b4c9;
   --mk-gold: #e8bd4f; --mk-crimson: #f07088; --mk-teal: #4fd1c5; --mk-red: #ff7a6b; --mk-pink: rgb(240 130 180 / 70%); --mk-blue: #7ea6ff; --mk-green: #6fd27c; --mk-brown: #d0a274; --mk-orange: #f5a35a; --mk-indigo: #a99cff; --mk-purple: #d59cff; --mk-navy: #9bb4f0; --mk-violet: rgb(170 140 255 / 70%); --mk-amber: rgb(240 200 90 / 70%); --mk-sky: #6cc6f2; --mk-slate: #a7b4c9; --mk-gray: #9aa1ad; --mk-olive: #c3d160; --mk-leaf: #7fd38f; --mk-ink: #ff8a7a;
   --shadow: 0 1px 2px rgb(0 0 0 / 35%), 0 12px 32px rgb(0 0 0 / 40%);
   color-scheme: dark;
@@ -126,6 +133,23 @@ main { max-width: 680px; margin-inline: auto; padding-block: 28px 120px; }
 .chead .src { font-size: 13px; color: var(--muted); }
 .web-link { display: inline-flex; align-items: center; gap: 5px; font: 600 13px/1.2 var(--sans); color: var(--lapis); text-decoration: none; border-radius: 6px; }
 .web-link svg { width: 15px; height: 15px; }
+/* The viewer: the site's other pages (connections, maps, timeline, the Visual Bible) inside the
+   reader, beside the text on larger screens and over it on phones. */
+:root { --vw-w: min(640px, 50vw); }
+#viewer { display: flex; flex-direction: column; padding: 0; overflow: hidden; }
+#viewer[hidden] { display: none; }
+#viewer .grab { margin: 0; flex: none; }
+#viewer .vw-head { flex: none; display: flex; align-items: center; gap: 4px; padding: 6px 8px 6px 14px; border-bottom: 1px solid var(--line); }
+#viewer .vw-head h2 { flex: 1; min-width: 0; margin: 0; font: 600 16px/1.2 var(--sans); white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+#viewer .vw-head .btn { flex: none; }
+#vw-frame { flex: 1; width: 100%; min-height: 0; border: 0; background: var(--bg); }
+@media (min-width: 760px) {
+  #viewer { width: var(--vw-w); }
+  body.viewer-open main { margin-left: 24px; margin-right: calc(var(--vw-w) + 24px); max-width: none; }
+}
+@media (min-width: 1100px) {
+  body.viewer-open main { margin-right: calc(var(--vw-w) + max(24px, (100vw - var(--vw-w) - 680px) / 2)); margin-left: max(24px, (100vw - var(--vw-w) - 680px) / 2); max-width: 680px; }
+}
 .web-link:hover { text-decoration: underline; }
 .text { font: 400 var(--size)/1.7 var(--read); hyphens: manual; }
 .text p { margin: 0 0 0.9em; text-wrap: pretty; }
@@ -140,6 +164,10 @@ main { max-width: 680px; margin-inline: auto; padding-block: 28px 120px; }
 .v[data-h="blue"] { background: var(--hl-blue); }
 .v[data-h="pink"] { background: var(--hl-pink); }
 .v[data-h="orange"] { background: var(--hl-orange); }
+.v[data-h="purple"] { background: var(--hl-purple); }
+.v[data-h="red"] { background: var(--hl-red); }
+.v[data-h="teal"] { background: var(--hl-teal); }
+.v[data-h="gray"] { background: var(--hl-gray); }
 .v.flash { animation: flash 1.6s ease-out; }
 mark.hlp { color: inherit; border-radius: 3px; padding: 0.04em 0; box-decoration-break: clone; -webkit-box-decoration-break: clone; }
 mark.hlp[data-c="yellow"] { background: var(--hl-yellow); }
@@ -147,8 +175,34 @@ mark.hlp[data-c="green"] { background: var(--hl-green); }
 mark.hlp[data-c="blue"] { background: var(--hl-blue); }
 mark.hlp[data-c="pink"] { background: var(--hl-pink); }
 mark.hlp[data-c="orange"] { background: var(--hl-orange); }
-.hl-bar { position: fixed; z-index: 65; display: flex; gap: 6px; padding: 6px; border-radius: 99px; background: var(--raised); border: 1px solid var(--line); box-shadow: var(--shadow); }
-.hl-bar .swatch { width: 30px; height: 30px; }
+mark.hlp[data-c="purple"] { background: var(--hl-purple); }
+mark.hlp[data-c="red"] { background: var(--hl-red); }
+mark.hlp[data-c="teal"] { background: var(--hl-teal); }
+mark.hlp[data-c="gray"] { background: var(--hl-gray); }
+/* Lines, boxes and lettering on words, each in any color ("wavy:red"). One line, a box, bold and
+   strikethrough can sit on the same words, with or without a highlight. */
+mark.hls { background: none; color: inherit; border-radius: 2px; box-decoration-break: clone; -webkit-box-decoration-break: clone; text-decoration-skip-ink: none; }
+mark.hls[data-s="line"] { text-decoration: underline solid var(--c); text-decoration-thickness: 2px; text-underline-offset: 3px; }
+mark.hls[data-s="double"] { text-decoration: underline double var(--c); text-decoration-thickness: 1.5px; text-underline-offset: 3px; }
+mark.hls[data-s="wavy"] { text-decoration: underline wavy var(--c); text-decoration-thickness: 1.5px; text-underline-offset: 4px; }
+mark.hls[data-s="dash"] { text-decoration: underline dashed var(--c); text-decoration-thickness: 2px; text-underline-offset: 3px; }
+mark.hls[data-s="zig"] { padding-bottom: 5px; background-image: linear-gradient(45deg, transparent 58%, var(--c) 58% 84%, transparent 84%), linear-gradient(-45deg, transparent 58%, var(--c) 58% 84%, transparent 84%);
+  background-size: 9px 9px; background-repeat: repeat-x; background-position: 0 100%; }
+mark.hls[data-s="box"] { box-shadow: inset 0 0 0 1.5px var(--c); padding: 0 2px; border-radius: 3px; }
+mark.hls[data-s="bold"] { font-weight: 700; color: var(--c); }
+mark.hls[data-s="strike"] { text-decoration: line-through var(--c); text-decoration-thickness: 2px; }
+/* A note: a small sticky note after the words it is on, in the color chosen for it. */
+.sticky { display: inline-block; width: 0.82em; height: 0.82em; margin: 0 0.12em 0 0.08em; vertical-align: 0.42em; cursor: pointer; line-height: 0; border-radius: 2px; }
+.sticky svg { width: 100%; height: 100%; display: block; overflow: visible; }
+.sticky:hover, .sticky:focus-visible { transform: scale(1.18); outline: none; }
+#nc-quote { margin: 0 0 10px; font: 400 17px/1.5 var(--read); color: var(--muted); }
+#nc-quote b { color: var(--ink); font-weight: 500; }
+#nc-text { width: 100%; min-height: 120px; }
+#notecard .swatches { margin: 10px 0 4px; }
+#notecard .swatch.ink { background: var(--c); border-color: transparent; }
+#notecard .swatch.ink[aria-pressed="true"] { border-color: var(--ink); }
+.hl-bar { position: fixed; z-index: 65; display: flex; flex-direction: column; gap: 6px; padding: 6px; border-radius: 20px; background: var(--raised); border: 1px solid var(--line); box-shadow: var(--shadow); }
+.hl-bar .swatch { width: 30px; height: 30px; flex: none; }
 @keyframes flash { 0%, 30% { background: color-mix(in srgb, var(--gold) 28%, transparent); } }
 .vn { font: 600 0.58em/1 var(--sans); color: var(--gold); vertical-align: 0.55em; margin: 0 0.18em 0 0.1em; font-variant-numeric: tabular-nums; }
 .vn.title { font-style: italic; }
@@ -159,8 +213,8 @@ mark.hlp[data-c="orange"] { background: var(--hl-orange); }
   font: 600 0.6em/1 var(--sans); vertical-align: 0.6em;
 }
 .has-note::after {
-  content: ""; display: inline-block; width: 0.55em; height: 0.55em; margin-left: 0.2em; vertical-align: 0.5em;
-  border-radius: 2px; background: var(--gold); opacity: 0.8;
+  content: ""; display: inline-block; width: 0.78em; height: 0.78em; margin-left: 0.2em; vertical-align: 0.42em;
+  background: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 20 20'%3E%3Cpath d='M2 2h16v11l-5 5H2z' fill='%23f6d365' stroke='%23b8860b' stroke-width='1.4' stroke-linejoin='round'/%3E%3Cpath d='M13 18v-5h5' fill='%23e8b923' stroke='%23b8860b' stroke-width='1.4' stroke-linejoin='round'/%3E%3C/svg%3E") center / contain no-repeat;
 }
 .missing { color: var(--faint); font-style: italic; }
 .chap-head { margin: 0 0 18px; }
@@ -626,12 +680,19 @@ input[type="range"] { width: 100%; accent-color: var(--lapis); }
 @media (pointer: coarse) { .text .v { -webkit-user-select: none; user-select: none; -webkit-touch-callout: none; } }
 .pick-layer { position: absolute; top: 0; left: 0; width: 0; height: 0; z-index: 30; pointer-events: none; }
 .pick-layer i { position: absolute; border-radius: 3px; background: color-mix(in srgb, var(--lapis) 24%, transparent); }
-.pick-handle { position: absolute; width: 32px; height: 44px; margin-left: -16px; pointer-events: auto; touch-action: none; }
-.pick-handle::before { content: ""; position: absolute; left: 15px; width: 2px; top: 12px; bottom: 12px; background: var(--lapis); }
-.pick-handle::after { content: ""; position: absolute; left: 10px; width: 12px; height: 12px; border-radius: 50%; background: var(--lapis); }
+.pick-handle { position: absolute; width: 26px; height: 40px; margin-left: -13px; pointer-events: auto; touch-action: none; }
+.pick-handle::before { content: ""; position: absolute; left: 12px; width: 2px; top: 12px; bottom: 12px; background: var(--lapis); }
+.pick-handle::after { content: ""; position: absolute; left: 7px; width: 12px; height: 12px; border-radius: 50%; background: var(--lapis); }
 .pick-handle.lo::after { top: 2px; }
 .pick-handle.hi::after { bottom: 2px; }
-.hl-bar { align-items: center; max-width: calc(100vw - 16px); overflow-x: auto; scrollbar-width: none; }
+.hl-bar { align-items: stretch; max-width: calc(100vw - 16px); }
+.hl-bar .row { display: flex; align-items: center; gap: 6px; overflow-x: auto; scrollbar-width: none; }
+.hl-bar .row::-webkit-scrollbar { display: none; }
+.hl-bar .styles { gap: 4px; padding-bottom: 6px; border-bottom: 1px solid var(--line); }
+.hl-bar .pen { flex: none; display: grid; place-items: center; min-width: 34px; height: 30px; padding: 0 6px; border-radius: 9px; border: 1px solid transparent; background: none; color: var(--ink); cursor: pointer; font: 500 16px/1 var(--read); }
+.hl-bar .pen[aria-pressed="true"] { background: var(--lapis-soft); border-color: color-mix(in srgb, var(--lapis) 45%, transparent); }
+.hl-bar .pen mark { padding-inline: 1px; }
+.hl-bar .swatch.ink { background: var(--c); border-color: transparent; }
 .hl-bar .tool { display: grid; place-items: center; background: var(--surface); color: var(--lapis); border: 1px solid var(--line); font: 600 20px/1 var(--sans); flex: none; }
 .hl-bar .tool svg { width: 16px; height: 16px; }
 .hl-bar .hl-note { font: 500 12.5px/1.3 var(--sans); color: var(--muted); padding: 0 8px; max-width: 240px; }
@@ -1000,7 +1061,7 @@ if (/(^#|&)(access_token|error)=/.test(location.hash)) {
   <div class="sheet-head"><h2 id="menu-title">Plain English Bible</h2><button class="btn" type="button" data-close aria-label="Close"><svg class="icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M6 6l12 12M18 6 6 18"/></svg></button></div>
   <div id="site-menu"><!-- nav.js: the site's menu, the same on every page --></div>
 </section>
-<script src="nav.js?v=35"></script>
+<script src="nav.js?v=36"></script>
 
 <section class="ui-sheet sheet dialog" id="mine" hidden aria-labelledby="mine-title">
   <div class="grab"></div>
@@ -1029,6 +1090,27 @@ if (/(^#|&)(access_token|error)=/.test(location.hash)) {
   <div id="account-body"></div>
 </section>
 
+<section class="ui-sheet sheet dialog" id="notecard" hidden aria-labelledby="nc-title">
+  <div class="grab"></div>
+  <div class="sheet-head">
+    <h2 id="nc-title">Note</h2>
+    <button class="btn" type="button" data-close aria-label="Close"><svg class="icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M6 6l12 12M18 6 6 18"/></svg></button>
+  </div>
+  <p id="nc-quote"></p>
+  <textarea id="nc-text" aria-label="My note" placeholder="Write your note. It goes with these words in every version."></textarea>
+  <div class="swatches" id="nc-colors" role="group" aria-label="Note color"></div>
+  <div class="actions"><button class="btn line" type="button" id="nc-del">Delete note</button><button class="btn solid" type="button" id="nc-done">Done</button></div>
+</section>
+<section class="ui-sheet" id="viewer" data-detent="full" data-tuck hidden aria-labelledby="vw-title">
+  <div class="grab"></div>
+  <div class="vw-head">
+    <button class="btn" type="button" id="vw-back" aria-label="Back" hidden><svg class="icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M19 12H5m0 0 6-6m-6 6 6 6"/></svg></button>
+    <h2 id="vw-title"></h2>
+    <a class="btn" id="vw-full" href="graph.html" title="Open as a full page" aria-label="Open as a full page"><svg class="icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M14 4h6v6M20 4l-8 8"/><path d="M18 14v4.5A1.5 1.5 0 0 1 16.5 20h-11A1.5 1.5 0 0 1 4 18.5v-11A1.5 1.5 0 0 1 5.5 6H10"/></svg></a>
+    <button class="btn" type="button" id="vw-close" data-close aria-label="Close"><svg class="icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M6 6l12 12M18 6 6 18"/></svg></button>
+  </div>
+  <iframe id="vw-frame" title="Viewer"></iframe>
+</section>
 <section class="ui-sheet sheet dialog" id="webmini" hidden aria-labelledby="wm-title">
   <div class="grab"></div>
   <div class="sheet-head">
@@ -1326,11 +1408,15 @@ function neighbors(b, c) {
   };
 }
 const WEB_ICON = '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><circle cx="6" cy="7" r="2.2"/><circle cx="18" cy="6" r="2.2"/><circle cx="12" cy="17" r="2.2"/><path d="M8 7.6 15.9 6.4M7.2 9 11 15M16.9 8 13 15"/></svg>';
+const VIS_ICON = '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M4 20V10M9.5 20V4M15 20v-7M20.5 20V8"/></svg>';
+const visualHref = b => b.osis === "Ps" ? "psalms.html" : b.osis === "Prov" ? "proverbs.html" : "visual/" + b.slug.slice(3) + ".html";
 function chapterHead(b, c, chapter) {
   const st = chapter.s || "draft";
   const web = el("a", { class: "web-link", href: "graph.html#" + hashSlug(b) + "-" + c, title: "This chapter in the web of connections",
     onclick: ev => { if (ev.metaKey || ev.ctrlKey || ev.shiftKey) return; ev.preventDefault(); openWebChapter(b, c); } });
   web.innerHTML = WEB_ICON + "Connections";
+  const vis = el("a", { class: "web-link", href: visualHref(b), title: "This book in the Visual Bible" });
+  vis.innerHTML = VIS_ICON + "Visual";
   return el("header", { class: "chead chap-head" + (c === 1 ? " new-book" : "") },
     el("p", { class: "eyebrow", text: b.n }),
     el("h2", { class: "chap-num", text: (b.osis === "Ps" && L.en ? "Psalm " : "") + c }),
@@ -1340,7 +1426,7 @@ function chapterHead(b, c, chapter) {
       chapter.ver ? el("button", { class: "badge ver", type: "button", text: verOf(chapter.ver)?.name || chapter.ver, onclick: openVersions })
         : el("button", { class: "badge " + st, type: "button", text: STATUS_LABEL[st] || st, onclick: () => openSheet("about") }),
       el("span", { class: "src", text: b.t === "NT" ? "From the Greek" : allAramaic(b, c) ? "From the Aramaic" : hasAramaic(b, c) ? "From the Hebrew and Aramaic" : "From the Hebrew" }),
-      web, guide(b, c)));
+      web, vis, guide(b, c)));
 }
 // Psalms and Proverbs: a link to the page that sets the chapter among the rest (psalms.html,
 // proverbs.html).
@@ -1376,7 +1462,7 @@ function buildChapter(b, c, data) {
     if (a && a.h) span.dataset.h = a.h;
     if (a && a.n) span.classList.add("has-note");
     if (a && a.b) span.classList.add("bm");
-    if (a && a.r && !chapter.ver) markRanges(span, a.r);
+    if (a && a.r) { if (!chapter.ver) markRanges(span, a.r); placeStickies(span, id, a, wordingOf(chapter)); }
     p.append(span);
     if (row[3] && row[3].p) { sec.append(p); p = para(); }
   }
@@ -1685,7 +1771,14 @@ async function showPlaces(b, c, n, span) {
   wrap.hidden = !entries.length;
 }
 let selected = null;
-const HL = ["yellow", "green", "blue", "pink", "orange"];
+const HL = ["yellow", "green", "blue", "pink", "orange", "purple", "red", "teal", "gray"];
+// Ways of marking words: a highlight ("yellow"), or a line, a box or lettering in a color ("wavy:red").
+const PENS = [["bg", "Highlight"], ["line", "Underline"], ["double", "Double underline"], ["wavy", "Squiggly underline"], ["dash", "Dashed underline"],
+  ["zig", "Sharp underline"], ["box", "Box"], ["bold", "Bold"], ["strike", "Strikethrough"]];
+const LINES = ["line", "double", "wavy", "dash", "zig"];
+const penOf = c => (HL.includes(c) ? "bg" : String(c).split(":")[0]);
+// What a new mark replaces where it lands: another of its kind (one highlight, one line, …).
+const layerOf = c => { const p = penOf(c); return LINES.includes(p) ? "line" : p; };
 function openSheet(id) {
   for (const s of document.querySelectorAll(".sheet.dialog")) if (s.id !== id) s.hidden = true;
   $(id).hidden = false;
@@ -1694,6 +1787,7 @@ function openSheet(id) {
   if (f && matchMedia("(pointer: fine)").matches) setTimeout(() => f.focus(), 30);
 }
 function closeSheets() {
+  if (typeof ncLeave === "function") ncLeave();
   for (const s of document.querySelectorAll(".sheet.dialog")) s.hidden = true;
   $("scrim").hidden = true;
 }
@@ -3037,10 +3131,64 @@ async function showWeb(b, c, n, span) {
   }
   wrap.hidden = !seen.size;
 }
-async function openWebChapter(b, c) {
-  try { const W = await loadWeb(); const i = W.chapter(b.osis, c); if (i >= 0) openWeb(i); }
-  catch (e) { location.href = "graph.html#" + hashSlug(b) + "-" + c; }
+function openWebChapter(b, c) { openViewer("graph.html#" + hashSlug(b) + "-" + c); }
+
+/* ---------- The viewer ---------- */
+// The site's other pages, inside the reader (an iframe, "?embed=1"; nav.js keeps their links in
+// it). A link there to a passage moves the reader beside it, and on a phone tucks the viewer.
+const EXPLORE = /\/(graph|web3d|history|genealogy|kings|arcs|library|psalms|proverbs)\.html$|\/maps\/|\/visual\//;
+const viewer = $("viewer"), vwFrame = $("vw-frame");
+function openViewer(href) {
+  const u = new URL(href, location.href);
+  u.searchParams.set("embed", "1");
+  if (vwFrame.src !== u.href) { $("vw-title").textContent = ""; vwFrame.src = u.href; }
+  closeSheets();
+  if (UI.phone()) closeVerse();
+  viewer.hidden = false;
+  UI.open(viewer);
+  document.body.classList.add("viewer-open");
 }
+// The pages visited in the viewer, for its own Back (the browser's history is shared with the reader).
+let vwTrail = [], vwGoingBack = false;
+function viewerPlace() {
+  try {
+    const w = vwFrame.contentWindow, d = vwFrame.contentDocument;
+    const page = w.location.href.split("#")[0];
+    if (vwGoingBack) vwGoingBack = false;
+    else if (vwTrail[vwTrail.length - 1] !== page) vwTrail.push(page);
+    const u = new URL(w.location.href);
+    u.searchParams.delete("embed");
+    $("vw-full").href = u.href;
+    $("vw-title").textContent = (d.title || "").replace(/\s*·\s*(Plain English Bible|淺白聖經).*$/, "");
+    $("vw-back").hidden = vwTrail.length < 2;
+  } catch (e) { /* not ours */ }
+}
+vwFrame.addEventListener("load", viewerPlace);
+$("vw-back").onclick = () => {
+  if (vwTrail.length < 2) return;
+  vwTrail.pop();
+  vwGoingBack = true;
+  try { vwFrame.contentWindow.location.replace(vwTrail[vwTrail.length - 1]); } catch (e) { vwFrame.src = vwTrail[vwTrail.length - 1]; }
+};
+$("vw-close").onclick = () => { viewer.hidden = true; document.body.classList.remove("viewer-open"); };
+viewer.addEventListener("ui:tuck", e => document.body.classList.toggle("viewer-open", !e.detail));
+addEventListener("message", e => {
+  if (e.origin !== location.origin || !e.data || e.data.type !== "pe-read") return;
+  closeVerse();
+  const h = e.data.hash || "";
+  if (h && h !== location.hash) location.hash = h; else route();
+  if (UI.phone()) UI.tuck(viewer, true);
+});
+// Links to those pages, from the menu, the verse panel or anywhere in the reader, open here.
+document.addEventListener("click", e => {
+  if (e.defaultPrevented || e.button || e.metaKey || e.ctrlKey || e.shiftKey || e.altKey) return;
+  const a = e.target.closest && e.target.closest("a[href]");
+  if (!a || a.target === "_blank" || a.closest("#viewer")) return;
+  const u = new URL(a.href, location.href);
+  if (u.origin !== location.origin || !EXPLORE.test(u.pathname)) return;
+  e.preventDefault();
+  openViewer(u.href);
+});
 let webTrail = [];
 async function openWeb(i, opts = {}) {
   let W;
@@ -3077,7 +3225,7 @@ async function openWeb(i, opts = {}) {
     acts.append(el("button", { class: "btn solid", type: "button", onclick: () => { closeSheets(); closeVerse(); go(bk, ref[1], ref[2] || undefined); },
       text: L.t("Read {ref}", { ref: `${bookName(bk)} ${ref[1]}${ref[2] ? ":" + ref[2] : ""}` }) }));
   }
-  acts.append(el("a", { class: "btn line", href: "graph.html#" + W.hash(i), text: "Open in the full web" }));
+  acts.append(el("a", { class: "btn line", href: "graph.html#" + W.hash(i), text: "Explore in the full web" }));
   if (W.gen.has(i)) acts.append(el("a", { class: "btn line", href: `genealogy.html#p${W.gen.get(i)}`, text: "In the genealogy" }));
 }
 function drawWeb(W, i, ns) {
@@ -3471,19 +3619,21 @@ $("ver").onclick = openVersions;
 // the same words are marked on every device. Selecting words in the text shows a color bar.
 function countedText(span) {
   const out = [];
-  const walk = document.createTreeWalker(span, NodeFilter.SHOW_TEXT, { acceptNode: n => n.parentElement.closest(".vn, .fn, .missing") ? NodeFilter.FILTER_REJECT : NodeFilter.FILTER_ACCEPT });
+  const walk = document.createTreeWalker(span, NodeFilter.SHOW_TEXT, { acceptNode: n => n.parentElement.closest(".vn, .fn, .missing, .sticky") ? NodeFilter.FILTER_REJECT : NodeFilter.FILTER_ACCEPT });
   for (let n = walk.nextNode(); n; n = walk.nextNode()) out.push(n);
   return out;
 }
 function unmarkRanges(span) {
-  for (const m of span.querySelectorAll("mark.hlp, mark.wn, mark.um")) m.replaceWith(...m.childNodes);
+  for (const st of span.querySelectorAll(".sticky")) st.remove();
+  for (const m of span.querySelectorAll("mark.hlp, mark.hls, mark.wn, mark.um")) m.replaceWith(...m.childNodes);
   span.normalize();
 }
 // A verse's ranges hold three kinds of thing, kept apart: [start, end, color] a highlight,
 // [start, end, "n", text] a note on those words, [start, end, "m", marking] one of your markings.
-const isHl = r => HL.includes(r[2]);
+const isHl = r => typeof r[2] === "string" && (HL.includes(r[2]) || (/^(line|double|wavy|dash|zig|box|bold|strike):(\w+)$/.test(r[2]) && HL.includes(r[2].split(":")[1])));
 function markRanges(span, ranges) {
-  const order = [...ranges.filter(isHl), ...ranges.filter(r => r[2] === "m"), ...ranges.filter(r => r[2] === "n")];
+  // Highlights first (the outer marks), then lines and lettering, then markings; notes are sticky notes (placeStickies).
+  const order = [...ranges.filter(r => HL.includes(r[2])), ...ranges.filter(r => isHl(r) && !HL.includes(r[2])), ...ranges.filter(r => r[2] === "m")];
   for (const [s, e, c, x] of order) {
     let at = 0;
     for (const node of countedText(span)) {
@@ -3492,7 +3642,8 @@ function markRanges(span, ranges) {
         let mid = node;
         if (a > at) mid = mid.splitText(a - at);
         if (z < at + len) mid.splitText(z - a);
-        const m = c === "n" ? el("mark", { class: "wn", title: x || "" }) : c === "m" ? el("mark", { class: "um", "data-m": x }) : el("mark", { class: "hlp", "data-c": c });
+        const m = c === "m" ? el("mark", { class: "um", "data-m": x }) : HL.includes(c) ? el("mark", { class: "hlp", "data-c": c })
+          : el("mark", { class: "hls", "data-s": penOf(c), style: `--c:var(--ink-${c.split(":")[1]})` });
         mid.replaceWith(m); m.append(mid);
       }
       at += len;
@@ -3539,8 +3690,10 @@ function highlightSelection(color) {
     const a = notes[id] || {};
     // What was marked here before gives way; then the new color, and like neighbors join up.
     let rs = [];
-    const others = (a.r || []).filter(q => !isHl(q));   // notes on words and markings stay as they are
-    for (const [x, y, k] of (a.r || []).filter(isHl)) {
+    // What gives way: marks of the same kind (clearing takes them all); notes, markings and other kinds stay.
+    const gives = q => isHl(q) && (!color || layerOf(q[2]) === layerOf(color));
+    const others = (a.r || []).filter(q => !gives(q));
+    for (const [x, y, k] of (a.r || []).filter(gives)) {
       if (y <= s || x >= e) rs.push([x, y, k]);
       else { if (x < s) rs.push([x, s, k]); if (y > e) rs.push([e, y, k]); }
     }
@@ -3551,7 +3704,7 @@ function highlightSelection(color) {
     rs = rs.filter(([x, y]) => words.slice(x, y).trim());   // a leftover space isn't worth keeping
     a.r = [...rs, ...others];
     saveAnnotation(id, a);
-    unmarkRanges(span); if (a.r) markRanges(span, a.r);
+    paintVerse(span);
     touched.push(id);
   }
   clearSel();
@@ -3607,7 +3760,7 @@ function markSelection(mid, picked = selectedVerses()) {
     if (same >= 0) { rs.splice(same, 1); removed = true; } else rs.push([s, e, "m", mid]);
     a.r = rs;
     saveAnnotation(id, a);
-    unmarkRanges(span); if (a.r) markRanges(span, a.r);
+    paintVerse(span);
     touched.push(id);
   }
   clearSel();
@@ -3616,22 +3769,119 @@ function markSelection(mid, picked = selectedVerses()) {
 }
 
 // A note on the selected words: the verse panel opens with a box for it at the top.
+// A note runs from a single word to several verses. It is kept with the verse it ends in:
+// [start, end, "n", text, {c: color, q: the words, f: the verse it starts in, w: the wording it
+// was written on}]; start counts in verse f (or this one), end in this one.
 function noteSelection() {
   const vs = selectedVerses();
   if (!vs.length) return;
-  const [span, s, e] = vs[0];
-  const id = span.dataset.id, a = notes[id] || {};
+  const [first, s] = vs[0], [last, , e] = vs[vs.length - 1];
+  const id = last.dataset.id, a = notes[id] || {};
+  const quote = vs.map(([sp, x, y]) => countedText(sp).map(n => n.data).join("").slice(x, y).trim()).join(" ").replace(/\s+/g, " ");
+  const meta = { c: store.get("noteColor", "yellow"), q: quote.length > 400 ? quote.slice(0, 200) + " … " + quote.slice(-200) : quote, w: wordingOf(ctxOfNode(last).chapter) };
+  if (vs.length > 1) meta.f = first.dataset.id;
+  if (e >= countedText(last).map(n => n.data).join("").trimEnd().length) meta.e = 1;   // to the end of the verse, in every wording
   a.r = a.r || [];
-  let q = a.r.find(x => x[2] === "n" && x[0] === s && x[1] === e);
-  if (!q) { q = [s, e, "n", ""]; a.r.push(q); notes[id] = a; }
+  let k = a.r.findIndex(x => x[2] === "n" && x[0] === s && x[1] === e && (x[4]?.f || null) === (meta.f || null) && (x[4]?.w || meta.w) === meta.w);
+  if (k < 0) { a.r.push([s, e, "n", "", meta]); k = a.r.length - 1; }
+  notes[id] = a;
+  saveAnnotation(id, a);
   clearSel();
   hlBar.hidden = true;
-  openVerse(span).then(() => {});
-  setTimeout(() => {
-    const box = $("vwords").querySelector(`textarea[data-s="${s}"][data-e="${e}"]`);
-    if (box) { box.focus(); box.scrollIntoView({ block: "nearest" }); }
-  }, 60);
+  repaint(id);
+  openNote(id, k);
 }
+// The wording a chapter is read in: a version, or our own translation in the site's language.
+const wordingOf = chapter => chapter.ver || "ours-" + LANG;
+const STICKY_SVG = c => `<svg viewBox="0 0 20 20" aria-hidden="true"><path d="M2 2h16v11l-5 5H2z" fill="var(--hl-${c})" stroke="var(--ink-${c})" stroke-width="1.6" stroke-linejoin="round"/><path d="M13 18v-5h5" fill="var(--ink-${c})" fill-opacity=".35" stroke="var(--ink-${c})" stroke-width="1.6" stroke-linejoin="round"/><path d="M5.5 7h9M5.5 10.5h6" stroke="var(--ink-${c})" stroke-width="1.4" stroke-linecap="round" opacity=".7"/></svg>`;
+// Where the words of a note end, in another wording: its last few words found there, or the end of the verse.
+function tailIn(words, quote) {
+  const tail = (quote || "").split(/[^\p{L}\p{N}]+/u).filter(Boolean).slice(-3);
+  if (!tail.length) return -1;
+  const esc = w => w.replace(/[.*+?^${}()|[\]\\]/g, "\\$&");
+  for (let n = tail.length; n >= 1; n--) {
+    const m = new RegExp(tail.slice(-n).map(esc).join("[^\\p{L}\\p{N}]+"), "iu").exec(words);
+    if (m && (n > 1 || tail[tail.length - 1].length > 3)) return m.index + m[0].length;
+  }
+  return -1;
+}
+function placeStickies(span, id, a, wording) {
+  const words = countedText(span).map(n => n.data).join("");
+  (a.r || []).forEach((q, k) => {
+    if (q[2] !== "n") return;
+    const m = q[4] || {};
+    let at = (m.w || "ours-" + LANG) === wording ? q[1] : m.e ? -1 : tailIn(words, m.q);
+    if (at < 0 || at > words.length) at = words.trimEnd().length;
+    const c = HL.includes(m.c) ? m.c : "yellow";
+    const st = el("span", { class: "sticky", role: "button", tabindex: "0", "data-k": k, "aria-label": L.t("Note: {text}", { text: q[3] || "" }), title: q[3] || "" });
+    st.innerHTML = STICKY_SVG(c);
+    // Into the text, after the character the note ends at.
+    let pos = 0;
+    for (const node of countedText(span)) {
+      const len = node.data.length;
+      if (at <= pos + len) {
+        if (at - pos > 0 && at - pos < len) node.splitText(at - pos);
+        if (at - pos === 0) node.before(st); else node.after(st);
+        return;
+      }
+      pos += len;
+    }
+    span.append(st);
+  });
+}
+// A verse's marks and notes, again, wherever it is shown.
+function paintVerse(span) {
+  const ctx = ctxOfNode(span), a = notes[span.dataset.id];
+  unmarkRanges(span);
+  if (!a || !a.r) return;
+  if (!ctx || !ctx.chapter.ver) markRanges(span, a.r);
+  placeStickies(span, span.dataset.id, a, ctx ? wordingOf(ctx.chapter) : "ours-" + LANG);
+}
+const repaint = id => { for (const sp of $("text").querySelectorAll(`.v[data-id="${id}"]`)) paintVerse(sp); };
+
+/* The note card: a note's words, what you wrote, its color. */
+let nc = null;   // { id, k }
+function openNote(id, k) {
+  const a = notes[id], q = a && a.r && a.r[k];
+  if (!q) return;
+  const m = q[4] = q[4] || {};
+  nc = { id, k };
+  $("nc-title").textContent = m.f ? passageLabel(m.f, id) : passageLabel(id);
+  let quote = m.q;
+  if (!quote) { const sp = $("text").querySelector(`.v[data-id="${id}"]`); if (sp && !ctxOfNode(sp)?.chapter.ver) quote = countedText(sp).map(n => n.data).join("").slice(q[0], q[1]).trim(); }
+  $("nc-quote").replaceChildren(...(quote ? ["“", el("b", { text: quote }), "”"] : []));
+  $("nc-text").value = q[3] || "";
+  const paint = () => $("nc-colors").replaceChildren(...HL.map(h => el("button", { class: "swatch ink", type: "button", style: `--c:var(--ink-${h})`, "aria-label": h, title: h,
+    "aria-pressed": String((m.c || "yellow") === h), onclick: () => { m.c = h; store.set("noteColor", h); saveAnnotation(id, a); repaint(id); paint(); } })));
+  paint();
+  openSheet("notecard");
+  setTimeout(() => $("nc-text").focus(), 80);
+}
+let ncTimer = 0;
+$("nc-text").oninput = () => {
+  if (!nc) return;
+  clearTimeout(ncTimer);
+  const { id, k } = nc, text = $("nc-text").value;
+  ncTimer = setTimeout(() => { const a = notes[id]; if (a && a.r && a.r[k]) { a.r[k][3] = text; saveAnnotation(id, a); repaint(id); } }, 300);
+};
+function deleteNote(id, k) {
+  const a = notes[id];
+  if (!a || !a.r || !a.r[k]) return;
+  a.r.splice(k, 1);
+  saveAnnotation(id, a);
+  repaint(id);
+}
+// Leaving the card: a note left empty goes.
+function ncLeave() {
+  if (!nc) return;
+  clearTimeout(ncTimer);
+  const { id, k } = nc;
+  nc = null;
+  const a = notes[id];
+  if (a && a.r && a.r[k]) { a.r[k][3] = $("nc-text").value; if (!a.r[k][3].trim()) deleteNote(id, k); else { saveAnnotation(id, a); repaint(id); } }
+}
+$("nc-del").onclick = () => { if (!nc) return; const { id, k } = nc; nc = null; deleteNote(id, k); closeSheets(); toast("Note deleted"); };
+$("nc-done").onclick = () => closeSheets();
 
 // Your notes on words, and your markings, in this verse: at the top of the verse panel.
 function renderWordNotes(id, span) {
@@ -3640,9 +3890,9 @@ function renderWordNotes(id, span) {
   const words = countedText(span).map(n => n.data).join("");
   const items = (a.r || []).filter(q => q[2] === "n" || q[2] === "m").sort((p, q) => p[0] - q[0]);
   list.replaceChildren(...items.map(q => {
-    const quote = el("div", { class: "q" }, "“", el("b", { text: words.slice(q[0], q[1]).trim() }), "”");
+    const quote = el("div", { class: "q" }, "“", el("b", { text: (q[4] && q[4].q) || words.slice(q[0], q[1]).trim() }), "”");
     const rm = el("button", { class: "rm", type: "button", "aria-label": q[2] === "n" ? "Delete this note" : "Remove this marking", text: "✕", onclick: () => {
-      a.r = a.r.filter(x => x !== q); saveAnnotation(id, a); unmarkRanges(span); if (a.r) markRanges(span, a.r); renderWordNotes(id, span);
+      a.r = a.r.filter(x => x !== q); saveAnnotation(id, a); repaint(id); renderWordNotes(id, span);
     } });
     if (q[2] === "m") {
       const m = markById(q[3]);
@@ -3651,8 +3901,8 @@ function renderWordNotes(id, span) {
     const box = el("textarea", { "aria-label": "My note on these words", placeholder: "Write a note on these words.", "data-s": q[0], "data-e": q[1] });
     box.value = q[3] || "";
     let t = 0;
-    box.oninput = () => { clearTimeout(t); t = setTimeout(() => { q[3] = box.value; saveAnnotation(id, a); const m = span.querySelector(`mark.wn`); if (m) { unmarkRanges(span); markRanges(span, a.r); } }, 300); };
-    box.onblur = () => { if (!box.value.trim()) { a.r = a.r.filter(x => x !== q); saveAnnotation(id, a); unmarkRanges(span); if (a.r) markRanges(span, a.r); renderWordNotes(id, span); } };
+    box.oninput = () => { clearTimeout(t); t = setTimeout(() => { q[3] = box.value; saveAnnotation(id, a); repaint(id); }, 300); };
+    box.onblur = () => { if (!box.value.trim()) { a.r = a.r.filter(x => x !== q); saveAnnotation(id, a); repaint(id); renderWordNotes(id, span); } };
     return el("li", {}, quote, rm, box);
   }));
   list.hidden = !items.length;
@@ -3675,14 +3925,24 @@ function hlBarMain(other) {
   // In another version the words are not ours: whole verses can still be bookmarked, and
   // highlighted from the verse panel.
   if (other) {
-    hlBar.replaceChildren(el("span", { class: "hl-note", text: "Highlights and notes on words, and markings, are kept on our own translation." }),
-      barTool("Copy the selected words", ICON_COPY, copySelection), barTool("Bookmark the selected verses", ICON_BM, bookmarkSelection));
+    hlBar.replaceChildren(el("div", { class: "row" }, el("span", { class: "hl-note", text: "Highlights and markings on words are kept on our own translation; notes go with every version." }),
+      barTool("Note on these words", ICON_NOTE, noteSelection), barTool("Copy the selected words", ICON_COPY, copySelection), barTool("Bookmark the selected verses", ICON_BM, bookmarkSelection)));
     return;
   }
-  hlBar.replaceChildren(...swatchRow(null, highlightSelection, { pressed: false }), el("span", { class: "sep", "aria-hidden": "true" }),
+  const sample = p => p === "bg" ? el("mark", { class: "hlp", "data-c": "yellow", text: "Ab" }) : el("mark", { class: "hls", "data-s": p, style: "--c:currentColor", text: p === "box" ? "Ab" : p === "bold" ? "B" : p === "strike" ? "S" : "U" });
+  const pens = el("div", { class: "row styles", role: "group", "aria-label": "Style" }, ...PENS.map(([p, label]) =>
+    el("button", { type: "button", class: "pen", "aria-label": label, title: label, "aria-pressed": String(pen === p), onmousedown: keepSel,
+      onclick: () => { pen = p; store.set("pen", p); hlBarMain(); } }, sample(p))));
+  const colors = HL.map(h => el("button", { class: "swatch" + (pen === "bg" ? "" : " ink"), type: "button", "data-h": h,
+    style: pen === "bg" ? `background:var(--hl-${h})` : `--c:var(--ink-${h})`, "aria-label": h, title: h, onmousedown: keepSel,
+    onclick: () => highlightSelection(pen === "bg" ? h : `${pen}:${h}`) }));
+  const clear = el("button", { class: "swatch none", type: "button", "aria-label": "Clear highlight", title: "Clear highlight", onmousedown: keepSel, onclick: () => highlightSelection(null) });
+  hlBar.replaceChildren(pens, el("div", { class: "row" }, ...colors, clear, el("span", { class: "sep", "aria-hidden": "true" }),
     barTool("Note on these words", ICON_NOTE, noteSelection), barTool("Mark these words", ICON_MARK, hlBarMarks),
-    barTool("Bookmark the selected verses", ICON_BM, bookmarkSelection), barTool("Copy the selected words", ICON_COPY, copySelection));
+    barTool("Bookmark the selected verses", ICON_BM, bookmarkSelection), barTool("Copy the selected words", ICON_COPY, copySelection)));
 }
+let pen = store.get("pen", "bg");
+if (!PENS.some(([p]) => p === pen)) pen = "bg";
 // Copy the chosen words, with where they are from.
 function copySelection() {
   const vs = selectedVerses();
@@ -3702,7 +3962,7 @@ function hlBarMarks() {
   const back = el("button", { type: "button", class: "swatch tool", "aria-label": "Back", title: "Back", onmousedown: keepSel, onclick: hlBarMain, text: "‹" });
   const chips = myMarks.map(m => el("button", { type: "button", class: "mk-pick", title: m.n, "aria-label": m.n, onmousedown: keepSel, onclick: () => markSelection(m.id) }, mkSym(m), el("span", { text: m.n })));
   const add = el("button", { type: "button", class: "mk-pick add", onmousedown: keepSel, onclick: () => openMyMarks(true) }, el("span", { text: myMarks.length ? "＋" : "＋ New marking" }));
-  hlBar.replaceChildren(back, ...chips, add);
+  hlBar.replaceChildren(el("div", { class: "row" }, back, ...chips, add));
   placeHlBar();
 }
 hlBarMain();
@@ -3877,11 +4137,24 @@ function dragHandle(ev, which) {
   ev.preventDefault(); ev.stopPropagation();
   const h = ev.currentTarget, fixed = which === "lo" ? pick.hi : pick.lo;
   h.setPointerCapture(ev.pointerId);
+  const x0 = ev.clientX, y0 = ev.clientY;
+  let moved = false;
   const move = e => {
+    if (!moved && Math.hypot(e.clientX - x0, e.clientY - y0) < 6) return;
+    moved = true;
     const w = wordAt(caretAt(e.clientX, e.clientY + (which === "lo" ? 22 : -22)));
     if (w) setPick(fixed, w);
   };
-  const up = () => { h.removeEventListener("pointermove", move); h.removeEventListener("pointerup", up); h.removeEventListener("pointercancel", up); };
+  const up = e => {
+    // A tap on a handle, not a drag, is a tap on what lies under it (often the next verse number).
+    if (!moved && e.type === "pointerup") {
+      pickLayer.style.visibility = "hidden";
+      const under = document.elementFromPoint(e.clientX, e.clientY);
+      pickLayer.style.visibility = "";
+      const vn = under && under.closest(".vn");
+      if (vn) pickVerse(vn.closest(".v"));
+    }
+    h.removeEventListener("pointermove", move); h.removeEventListener("pointerup", up); h.removeEventListener("pointercancel", up); };
   h.addEventListener("pointermove", move);
   h.addEventListener("pointerup", up);
   h.addEventListener("pointercancel", up);
@@ -3916,12 +4189,29 @@ $("text").addEventListener("touchcancel", letGo);
 $("text").addEventListener("contextmenu", ev => { if (coarse.matches) ev.preventDefault(); });
 // A tap anywhere but the bar lets the words go.
 document.addEventListener("pointerdown", ev => {
-  if (pick && !holding && !ev.target.closest(".hl-bar, .pick-handle, .ui-sheet")) { clearPick(); if (ev.target.closest("#text")) skipUntil = Date.now() + 800; }
+  if (pick && !holding && !ev.target.closest(".hl-bar, .pick-handle, .ui-sheet, .vn")) { clearPick(); if (ev.target.closest("#text")) skipUntil = Date.now() + 800; }
 }, true);
 addEventListener("resize", () => { if (pick) clearPick(); });
+function pickVerse(span) {
+  const ts = countedText(span);
+  if (!ts.length) return;
+  const last = ts[ts.length - 1];
+  const lo = { node: ts[0], s: 0, e: 0 }, hi = { node: last, s: last.data.trimEnd().length, e: last.data.trimEnd().length };
+  getSelection().removeAllRanges();
+  if (pick && !pick.range.intersectsNode(span)) {
+    const after = !!(pick.hi.node.compareDocumentPosition(ts[0]) & Node.DOCUMENT_POSITION_FOLLOWING);
+    setPick(after ? pick.lo : lo, after ? hi : pick.hi);
+  } else setPick(lo, hi);
+}
 
 $("text").addEventListener("click", ev => {
+  const st = ev.target.closest(".sticky");
+  if (st) { ev.stopPropagation(); skipUntil = 0; clearSel(); openNote(st.closest(".v").dataset.id, +st.dataset.k); return; }
   if (Date.now() < skipUntil) { skipUntil = 0; return; }
+  // A verse number chooses the whole verse; another verse number, while words are chosen, takes in
+  // every verse to it: from one word to many verses.
+  const vn = ev.target.closest(".vn");
+  if (vn) { ev.stopPropagation(); pickVerse(vn.closest(".v")); return; }
   const fn = ev.target.closest(".fn");
   if (fn) {
     ev.stopPropagation();
@@ -3966,7 +4256,7 @@ addEventListener("DOMContentLoaded", () => {
 $("home").onclick = ev => { ev.preventDefault(); openPicker(); };
 $("scrim").onclick = closeSheets;
 $("verse-scrim").onclick = closeVerse;
-for (const b of document.querySelectorAll("[data-close]")) b.onclick = () => { if (b.closest("#verse")) closeVerse(); else closeSheets(); };
+for (const b of document.querySelectorAll("[data-close]")) if (!b.closest("#viewer")) b.onclick = () => { if (b.closest("#verse")) closeVerse(); else closeSheets(); };
 document.addEventListener("keydown", ev => {
   if (ev.key === "Escape") { closeSheets(); closeVerse(); return; }
   if (/INPUT|TEXTAREA|SELECT/.test(document.activeElement.tagName) || !$("scrim").hidden) return;
@@ -4038,7 +4328,7 @@ Promise.all([getJSON("books.json"), Promise.all(ourLangs.map(k => getJSON(`i18n/
   addEventListener("hashchange", route);
   route();
 }).catch(() => { $("loading").textContent = "The Bible couldn't be loaded. Check your connection and reload the page."; });
-if ("serviceWorker" in navigator && /^https?:$/.test(location.protocol) && !embedded) navigator.serviceWorker.register("sw.js?v=60").catch(() => {});
+if ("serviceWorker" in navigator && /^https?:$/.test(location.protocol) && !embedded) navigator.serviceWorker.register("sw.js?v=61").catch(() => {});
 
 /* ---------- For account.js: highlights and notes, and two of the reader's tools ---------- */
 var reader = {
