@@ -2,6 +2,12 @@
 // (public domain) spells them. Written by scripts/names_zh.py: don't edit by hand;
 // corrections go in OVERRIDES there.
 I18N.add({
+"Ismachiah":"伊斯瑪基雅",
+"Hozai":"何賽",
+"Hasrah":"哈斯拉",
+"Gur-baal":"姑珥‧巴力",
+"Gimzo":"瑾鎖",
+"Tokhath":"托哈",
 "Kenaanah":"基拿拿",
 "Imla":"音拉",
 "Jehoshabeath":"約示巴",
@@ -797,7 +803,7 @@ I18N.add({
 "Asaiah (1 Chronicles 4.36)":"亞帥雅（歷代志上 4.36）",
 "Asaiah (1 Chronicles 6.15)":"亞帥雅（歷代志上 6.15）",
 "Asaiah (1 Chronicles 9.5)":"亞帥雅（歷代志上 9.5）",
-"Asaiah (2 Kings 22.12)":"亞帥雅（列王紀下 22.12）",
+"Asaiah (2 Kings 22.12)":"亞撒雅（列王紀下 22.12）",
 "Asaph":"亞薩",
 "Asaph (1 Chronicles 6.24)":"亞薩（歷代志上 6.24）",
 "Asaph (1 Chronicles 9.15)":"亞薩（歷代志上 9.15）",
@@ -1322,7 +1328,7 @@ I18N.add({
 "Cuthah":"古他",
 "Cyprus":"塞浦路斯",
 "Cyrene":"古利奈",
-"Cyrus":"塞魯士",
+"Cyrus":"古列",
 "Dabbesheth":"大巴設",
 "Daberath":"大比拉",
 "Dagon":"大袞",

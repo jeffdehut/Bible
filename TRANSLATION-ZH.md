@@ -590,6 +590,15 @@ Settled while drafting 2 Chronicles:
 | שְׂרֵפָה (at a king's burial) | 為他燒起極大的火 | Noted: a ceremonial fire of spices (16:14; 21:19). |
 | Names the Union Version harmonizes (2 Chronicles 13–24) | The Hebrew in the text | 俄德的預言 (15:8, 和合本 adds 亞撒利雅)；米迦 (18:14, 和合本「米該雅」)；亞捫人 (20:1, 和合本「米烏尼人」)；以色列王 (21:2, 和合本「猶大王」)；拉瑪 (22:6, 和合本「拉末」). |
 | הִזְנָה | 使……行邪淫 | 「賣淫」 noted as the image of unfaithfulness (21:11, 13). |
+| Parallels with Kings (2 Chronicles 25–36) | The wording of 2 Kings 14–25 wherever the Hebrew is the same | Regnal formulas unchanged; differences noted as 列王紀下14章20節作「……」; the parallel noted at the start of each section. |
+| הֲלֹא הִנָּם כְּתוּבִים עַל־סֵפֶר מַלְכֵי יְהוּדָה וְיִשְׂרָאֵל | 都寫在《猶大和以色列諸王記》上 | 《以色列和猶大諸王記》 where the Hebrew has that order (27:7; 35:27; 36:8); 「看哪」, 「諸王的書」 noted. 33:18 《以色列諸王記》 (「諸王的話」). |
+| צָרַעַת; בֵּית הַחָפְשִׁית (26:19–23) | 嚴重的皮膚病；隔離的房子 | As 2 Kings 15:5; the glossary note. |
+| חַטָּאת (29:21–24) | 贖罪祭 | 或譯「潔淨祭」 noted. |
+| הָרָצִים (30:6, 10) | 傳信的人 | 「奔跑的人」 noted (護衞兵 in Kings). |
+| בְּנֵי הָעָם (35:5–13) | 平民 | 「民眾的子孫」 noted. |
+| Names the Union Version harmonizes (2 Chronicles 25–36) | The Hebrew in the text | 托哈 (34:22, 和合本「特瓦」 from 2 Kings 22:14). |
+| כּוֹרֶשׁ; פְּרָת | 古列；伯拉河 | The classic Union Version forms, not the 1989 edition's 塞魯士, 幼發拉底河 (35:20; 36:22); 居魯士 noted. |
+| 2 Chronicles 36:22–23 (Ezra 1:1–3) | Ezra to follow this wording where the Hebrew is the same | Differences to be noted in Ezra. |
 
 ## Style
 
