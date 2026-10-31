@@ -7,7 +7,7 @@
 <style>
 /* The Visual Bible: the books as spines on shelves, a shelf for each part of the Bible, a
    spine's thickness the book's length in words. A tap takes a book down, and "See it whole" opens
-   its page of charts (visual/, psalms.html, proverbs.html). Below, every book in short, by part. */
+   its page of charts (visual/, psalms.html, proverbs.html). */
 :root {
   --bg: #fbfaf7; --surface: #ffffff; --ink: #161b26; --muted: #5b6475; --faint: #8d95a4; --line: #e4e2db;
   --lapis: #2646a1; --lapis-soft: #e7ecf8; --wood: #c8a97a; --wood-2: #a8865a; --case: #f1ebe0;
@@ -72,17 +72,6 @@ h1 { margin: 0 0 6px; font: 300 clamp(36px, 7vw, 56px)/1.02 var(--read); letter-
 .card .acts { display: flex; flex-wrap: wrap; gap: 8px; }
 .card .acts a { display: inline-flex; min-height: 36px; align-items: center; padding: 6px 12px; border-radius: 10px; background: var(--lapis-soft); color: var(--lapis); font: 600 14px/1.2 var(--sans); text-decoration: none; }
 .card .acts a.solid { background: var(--lapis); color: var(--surface); }
-/* Every book, by part: small buttons in the shelf's colors and icons. */
-.idx-h { margin: 30px 0 4px; font: 500 20px/1.2 var(--read); }
-.idx { display: grid; gap: 14px; }
-.part h3 { display: flex; align-items: center; gap: 8px; margin: 0 0 7px; font: 600 12px/1.2 var(--sans); letter-spacing: 0.08em; text-transform: uppercase; color: var(--muted); }
-.part h3 .dot { width: 22px; height: 22px; }
-.part h3 .dot svg { width: 13px; height: 13px; }
-.part .bk { display: flex; flex-wrap: wrap; gap: 6px; }
-.part .bk a { display: inline-flex; align-items: center; min-height: 32px; padding: 0 11px; border-radius: 9px; border: 1px solid var(--line);
-  background: color-mix(in srgb, var(--c) 8%, var(--surface)); box-shadow: inset 3px 0 0 var(--c); color: var(--ink); text-decoration: none; font: 500 13.5px/1 var(--sans); white-space: nowrap;
-  transition: border-color .15s, background-color .15s, transform .15s; }
-.part .bk a:hover, .part .bk a:focus-visible { border-color: var(--c); background: color-mix(in srgb, var(--c) 16%, var(--surface)); transform: translateY(-1px); }
 .card .close { position: absolute; top: 10px; right: 10px; z-index: 4; width: 36px; height: 36px; border: 0; border-radius: 10px; background: transparent; color: var(--ink); cursor: pointer; }
 </style>
 
@@ -94,8 +83,6 @@ h1 { margin: 0 0 6px; font: 300 clamp(36px, 7vw, 56px)/1.02 var(--read); letter-
   <p class="totals" id="totals"></p>
   <div class="chips" id="sections" aria-label="The parts of the Bible"></div>
   <div class="case"><div class="shelf" id="shelf"></div></div>
-  <h2 class="idx-h">Every book</h2>
-  <div class="idx" id="idx"></div>
 </main>
 <article class="card ui-sheet" id="card" hidden aria-live="polite"></article>
 
@@ -208,17 +195,6 @@ h1 { margin: 0 0 6px; font: 300 clamp(36px, 7vw, 56px)/1.02 var(--read); letter-
     $("card").hidden = false;
     try { history.replaceState(null, "", "#" + slug(b)); } catch (e) {}
   }
-  // Every book, by part, each straight to its page.
-  function index() {
-    $("idx").replaceChildren(...D.sections.map((sec, k) => {
-      const c = colorOf(k), dot = el("span", { class: "dot", style: `--c:${c};--on:${dark() ? "#0b1020" : "#fff"}` });
-      dot.innerHTML = icon(k);
-      return el("section", { class: "part", style: `--c:${c}` }, el("h3", {}, dot, sec.n),
-        el("div", { class: "bk" }, ...D.books.filter(b => b.s === k).map(b => el("a", { href: b.p, text: b.n }))));
-    }));
-  }
-  index();
-  matchMedia("(prefers-color-scheme: dark)").addEventListener?.("change", index);
   function close() { open = null; $("card").hidden = true; document.querySelectorAll(".spine[aria-pressed=true]").forEach(x => x.setAttribute("aria-pressed", "false")); try { history.replaceState(null, "", location.pathname); } catch (e) {} }
   addEventListener("keydown", e => { if (e.key === "Escape") close(); });
   const h = decodeURIComponent(location.hash.slice(1));
