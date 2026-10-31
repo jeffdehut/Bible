@@ -12,3 +12,11 @@ Found while drafting; not yet settled across books.
   Shemer, Abihail…) keep one form; the text uses each passage's Union Version form.
 - Where the Leningrad Codex names a person or place differently from the Union Version, the text follows the
   Hebrew with the Union Version's form in a note (e.g. 1 Samuel 30:30, 2 Kings 20:12).
+- 毗 / 毘: both forms appear in names (毗 in Genesis, Judges, Samuel, 1 Chronicles; 毘 in 2 Kings, 1 Chronicles 5, Ezra).
+  Settle on one (the classic Union Version has 毘) and apply it everywhere, names table included.
+- Governors: Ezra uses 省長 for *pechah* and *tirshata* (和合本 總督 for Tattenai); check Haggai and Daniel follow (Nehemiah does: 5:14–18; 7:65; 8:9; 10:2; 12:26).
+- Siaha (Ezra 2:44): 西亞哈 against 和合本 西亞; doubtful.
+- Delaiah (Nehemiah 7:62): 第來雅 as in Ezra 2:60, against 和合本 Nehemiah's 第萊雅; the passage-by-passage rule would give 第萊雅.
+- Names-table keys with several bearers whose Nehemiah form differs (Mattaniah 瑪探雅/瑪他尼, Miniamin, Micaiah, Azarel, Azrikam,
+  Eliakim, Berechiah, Mehetabel) were left alone; the text uses Nehemiah's Union Version forms.
+- Ginnethoi (Nehemiah 12:4): 近頓 as 和合本, the Hebrew form only in a note. Nehemiah 12:23 renders *sefer divrei ha-yamim* 《歷代志》, noted as not the biblical book.
