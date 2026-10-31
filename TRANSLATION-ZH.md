@@ -387,6 +387,13 @@ Settled while drafting 1 Samuel:
 | לֶחֶם קֹדֶשׁ (21:5–7) | 分別為聖的餅 | Never 聖餅. With 供奉在神面前的餅 (21:7) and the note on Mark 2:26 (亞比亞他). |
 | מְשִׁיחַ יְהוָה | 耶和華的受膏者 | Noted (24:7). |
 | Names the Union Version translates (חֹרְשָׁה, הַיְשִׁימוֹן) | 何烈沙；耶示門 | Transliterated; its 樹林, 曠野 in notes. |
+| נָבָל; נְבָלָה (25:25) | 拿八；愚頑 | The wordplay noted: *Naval*, 「愚頑人」. |
+| אָמָה; שִׁפְחָה (a woman of herself) | 婢女 | Both noted as humble self-reference (25:24, 27; 28:21). |
+| אֵשֶׁת בַּעֲלַת־אוֹב; קָסַם בָּאוֹב | 招魂的婦人；招魂占卜 | As Leviticus 19:31 (招魂的); *ov* noted (28:7–8). Not 「巫婆」. |
+| אֱלֹהִים (28:13) | 神靈 | Noted: god(s) or a spirit being; the verb is plural. |
+| שָׂרֵי פְלִשְׁתִּים; סַרְנֵי פְלִשְׁתִּים | 非利士人的將領；非利士人的首領 | Kept apart (1 Samuel 29). |
+| גְּדוּד | （這幫）匪徒 | *gedud* noted (30:8). |
+| שָׁלָל; אִישׁ חַיִל | 掠物；勇士 | |
 
 ## Style
 

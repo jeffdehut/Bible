@@ -2,6 +2,8 @@
 // (public domain) spells them. Written by scripts/names_zh.py: don't edit by hand;
 // corrections go in OVERRIDES there.
 I18N.add({
+"Racal":"拉哈勒",
+"Hakilah":"哈基拉",
 "Jeshimon":"耶示門",
 "Horesh":"何烈沙",
 "Meholathite":"米何拉人",
@@ -3272,7 +3274,7 @@ I18N.add({
 "Palti":"帕提",
 "Palti (1 Samuel 25.44)":"帕提（撒母耳記上 25.44）",
 "Palti (Numbers 13.9)":"帕提（民數記 13.9）",
-"Paltiel":"阿散",
+"Paltiel":"帕鐵",
 "Pamphylia":"旁非利亞",
 "Paphos":"帕弗",
 "Parah":"巴拉",
