@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
 <meta charset="utf-8">
-<script src="i18n.js?v=18"></script>
+<script src="i18n.js?v=19"></script>
 <script src="ui.js?v=1"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
 <title>Plain English Bible</title>
@@ -1151,11 +1151,17 @@ let BOOKS = [], bySlug = {}, byOsis = {};
 const L = window.I18N || { lang: "en", en: true, t: s => s, plural: (n, a, b) => (n === 1 ? a : b).replace("{n}", n), LANGS: { en: {} } };
 const LANG = L.lang;
 let LBOOKS = {};
-const textPath = b => (LBOOKS[b.osis] ? `i18n/${LANG}/text/` : "text/") + b.slug + ".json";
+// Our translation in each language that has one: {lang: {osis: [chapters]}} (English: every book).
+const LB = {};
+const textPathIn = (b, lang) => (lang !== "en" && LB[lang]?.[b.osis] ? `i18n/${lang}/text/` : "text/") + b.slug + ".json";
+const textPath = b => textPathIn(b, LANG);
 const psName = b => (b.osis === "Ps" && L.en ? "Psalm" : b.n);
 // Other versions of the Bible (scripts/versions.py, data/bible/versions.json): the version being
 // read in this language, "ours" for the site's own translation. Switching swaps the text in
-// place; the Hebrew and Greek, word by word and the notes stay those of our data.
+// place; the Hebrew and Greek, word by word and the notes stay those of our data. Our own
+// translation into the site's other languages is listed too ("ours-zh-Hant", "ours-en"), and
+// reads like another version: highlights on words and notes on words stay with the wording
+// they were made on.
 let VERSIONS = [], VER = store.get("ver." + LANG, "ours");
 const verOf = id => VERSIONS.find(v => v.id === id);
 const ourName = () => L.en ? "Plain English" : "淺白譯本";
@@ -1165,6 +1171,12 @@ const merged = new Map();
 function getBook(b) {
   if (VER === "ours" || !verOf(VER)) return getJSON(textPath(b));
   const key = VER + "/" + b.slug;
+  const v = verOf(VER);
+  if (v.ours) {
+    if (!merged.has(key)) merged.set(key, getJSON(textPathIn(b, v.lang)).then(book => ({ ...book, ver: VER, chapters: book.chapters.map(ch => ({ ...ch, ver: VER })) }))
+      .catch(e => { merged.delete(key); throw e; }));
+    return merged.get(key);
+  }
   if (!merged.has(key)) merged.set(key, Promise.all([getJSON(textPath(b)), getJSON(`versions/${VER}/${b.slug}.json`)]).then(([base, ver]) => {
     const theirs = new Map(ver.chapters.map(ch => [+ch.c, ch.v]));
     return { ...base, ver: VER, chapters: base.chapters.map(ch => {
@@ -1322,7 +1334,8 @@ function chapterHead(b, c, chapter) {
   return el("header", { class: "chead chap-head" + (c === 1 ? " new-book" : "") },
     el("p", { class: "eyebrow", text: b.n }),
     el("h2", { class: "chap-num", text: (b.osis === "Ps" && L.en ? "Psalm " : "") + c }),
-    !L.en && !chapter.ver && (chapter.l === "en" || !LBOOKS[b.osis]) ? el("p", { class: "lang-note", text: "This chapter isn’t translated into this language yet, so it is shown in English." }) : null,
+    untranslated(b, chapter) ? el("p", { class: "lang-note", text: chapter.ver ? L.t("This chapter isn’t in the {name} yet, so it is shown in English.", { name: verOf(chapter.ver).name })
+      : "This chapter isn’t translated into this language yet, so it is shown in English." }) : null,
     el("div", { class: "meta" },
       chapter.ver ? el("button", { class: "badge ver", type: "button", text: verOf(chapter.ver)?.name || chapter.ver, onclick: openVersions })
         : el("button", { class: "badge " + st, type: "button", text: STATUS_LABEL[st] || st, onclick: () => openSheet("about") }),
@@ -1348,7 +1361,7 @@ function buildChapter(b, c, data) {
   const sec = el("section", { class: "chap" + (isPoetry(b, c) ? " poetry" : ""), "data-book": b.slug, "data-c": c, "aria-label": `${bookName(b)} ${c}` });
   sec.append(chapterHead(b, c, chapter));
   // The verses keep their own wording: the page's translation (i18n.js) leaves them alone.
-  const para = () => el("p", { translate: "no", lang: chapter.ver ? (verOf(chapter.ver)?.lang || "en") : chapter.l || (LBOOKS[b.osis] ? LANG : "en") });
+  const para = () => el("p", { translate: "no", lang: untranslated(b, chapter) ? "en" : chapter.ver ? (verOf(chapter.ver)?.lang || "en") : chapter.l || LANG });
   let p = para();
   for (const row of chapter.v) {
     const [n, en] = row;
@@ -3413,13 +3426,24 @@ $("open-marks-2").onclick = () => { openSheet("marks"); renderMarksKey(); };
 $("open-mymarks").onclick = () => openMyMarks(false);
 
 /* ---------- Versions ---------- */
+// The language our wording is in, for a chapter read in our own translation (or null for another version).
+function ourLangOf(chapter) {
+  if (!chapter.ver) return LANG;
+  const v = verOf(chapter.ver);
+  return v && v.ours ? v.lang : null;
+}
+// A chapter of our translation in a language it hasn't reached yet: it is shown in English.
+function untranslated(b, chapter) {
+  const lang = ourLangOf(chapter);
+  return !!lang && lang !== "en" && (chapter.l === "en" || !LB[lang]?.[b.osis]);
+}
 // The versions for the reader's language first (ours, then the others), then the rest.
 function openVersions() {
   const item = (id, short, name, lic) => el("li", {}, el("button", { type: "button", "aria-current": String(VER === id), onclick: () => setVersion(id) },
     el("span", { class: "s", translate: "no", text: short }), el("span", { class: "n", translate: "no", text: name }), el("span", { class: "l", text: lic })));
   const ours = item("ours", ourName(), L.en ? "Open Plain English Translation" : "淺白中文譯本",
     L.t("Our own translation, from the Hebrew, Aramaic and Greek. A first draft."));
-  const mine = VERSIONS.filter(v => v.lang === LANG), rest = VERSIONS.filter(v => v.lang !== LANG);
+  const mine = VERSIONS.filter(v => v.lang === LANG), rest = VERSIONS.filter(v => v.lang !== LANG).sort((a, b) => !!b.ours - !!a.ours);
   const head = t => el("li", {}, el("h3", { text: t }));
   $("ver-list").replaceChildren(ours, ...mine.map(v => item(v.id, v.short, v.name, v.license)),
     ...(rest.length ? [head("Other languages"), ...rest.map(v => item(v.id, v.short, v.name, v.license))] : []));
@@ -3987,10 +4011,18 @@ function route() {
 }
 applySettings();
 autoScroll.render();
-Promise.all([getJSON("books.json"), !L.en && L.LANGS[LANG].bible ? getJSON(`i18n/${LANG}/books.json`).catch(() => ({})) : {},
+const ourLangs = Object.keys(L.LANGS).filter(k => k !== "en" && L.LANGS[k].bible);
+Promise.all([getJSON("books.json"), Promise.all(ourLangs.map(k => getJSON(`i18n/${k}/books.json`).catch(() => ({})))),
   getJSON("versions.json").catch(() => [])]).then(([list, lbooks, versions]) => {
-  LBOOKS = lbooks;
-  VERSIONS = versions;
+  ourLangs.forEach((k, i) => { LB[k] = lbooks[i]; });
+  LBOOKS = LB[LANG] || {};
+  // Our own translation in the site's other languages, listed with the other versions.
+  const OURS = {
+    en: { short: "Plain English", name: "Open Plain English Translation", license: "Our own translation into English, from the Hebrew, Aramaic and Greek. A first draft." },
+    "zh-Hant": { short: "淺白中文", name: "淺白中文譯本", license: "Our own translation into Traditional Chinese, from the Hebrew, Aramaic and Greek. A first draft; books not yet translated are shown in English." },
+  };
+  const others = ["en", ...ourLangs].filter(k => k !== LANG && OURS[k] && (k === "en" || Object.keys(LB[k] || {}).length));
+  VERSIONS = [...others.map(k => ({ id: "ours-" + k, lang: k, ours: true, ...OURS[k] })), ...versions];
   if (!verOf(VER)) VER = "ours";
   $("ver-label").textContent = verShort();
   // Each book keeps its English name (b.en: addresses, and searching in English) and takes the
@@ -4006,7 +4038,7 @@ Promise.all([getJSON("books.json"), !L.en && L.LANGS[LANG].bible ? getJSON(`i18n
   addEventListener("hashchange", route);
   route();
 }).catch(() => { $("loading").textContent = "The Bible couldn't be loaded. Check your connection and reload the page."; });
-if ("serviceWorker" in navigator && /^https?:$/.test(location.protocol) && !embedded) navigator.serviceWorker.register("sw.js?v=59").catch(() => {});
+if ("serviceWorker" in navigator && /^https?:$/.test(location.protocol) && !embedded) navigator.serviceWorker.register("sw.js?v=60").catch(() => {});
 
 /* ---------- For account.js: highlights and notes, and two of the reader's tools ---------- */
 var reader = {
