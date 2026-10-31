@@ -519,6 +519,18 @@ Settled while drafting 2 Kings:
 | חֻקּוֹת; מִשְׁפַּט (2 Kings 17) | 律例；規矩 | One rendering each through 17:7–41, so the repetitions stand; *mishpat* noted (17:26). |
 | יָרֵא (worship, 2 Kings 17) | 敬畏 | Noted: 「懼怕」 (17:7). |
 | הֶעֱבִיר בָּאֵשׁ | 使……經火 | Noted: burned as a sacrifice (16:3; 17:17). |
+| 2 Kings 18:13–20:19 (Isaiah 36–39) | Isaiah to follow this wording where the Hebrew is the same | Differences noted as 以賽亞書36章5節作「……」; the parallel noted at 18:13, 19:1, 20:1. Rabshakeh's speech 「」, Hezekiah's message 『』, the king of Assyria's words unmarked (18:29–35). 19:21–28 poetry inside Isaiah's speech, Sennacherib's boast 『』. |
+| תַּרְתָּן; רַב־סָרִיס; רַב־שָׁקֵה | 他珥探；拉伯撒利；拉伯沙基 | Titles, transliterated as the Union Version; each noted (18:17), 拉伯沙基 「酒政長」. |
+| אֲשֶׁר עַל־הַבַּיִת | 宮廷總管 | As 10:5 (1 Kings 16:9; 18:3 have 王宮總管). |
+| אֲרָמִית; יְהוּדִית (18:26, 28) | 亞蘭語；猶大話 | 猶大話 noted: Hebrew. |
+| נְחֻשְׁתָּן; בְּרֹאדַךְ בַּלְאֲדָן | 尼忽士但；比羅達‧巴拉但 | Transliterated (和合本「銅塊」); the Hebrew's Berodach, with Isaiah's 米羅達 noted (20:12). |
+| בְּתוּלַת בַּת־צִיּוֹן; בַּת יְרוּשָׁלַםִ | 錫安的處女；耶路撒冷的女兒 | Noted (19:21). |
+| סֵפֶר הַתּוֹרָה; סֵפֶר הַבְּרִית | 律法書；約書 | 22:8; 23:2. |
+| כְּמָרִים; קְדֵשִׁים; מַזָּלוֹת | 拜偶像的祭司；廟妓；星座 | Josiah's reform (23:5, 7). |
+| הַר הַמַּשְׁחִית | 毀滅山 | Noted with *har ha-mishchah* and 和合本「邪僻山」 (23:13). |
+| כַּשְׂדִּים | 迦勒底人 | Noted at its first occurrence in each chapter. |
+| רַב־טַבָּחִים | 護衞長 | Noted: 「屠夫長」或「廚師長」 (25:8). |
+| Dates (2 Kings 25) | 十月十日；第三十七年十二月二十七日 | Chinese numerals; modern dates and Jeremiah 52's differences in notes. |
 
 ## Style
 

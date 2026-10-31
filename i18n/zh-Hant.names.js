@@ -2,6 +2,14 @@
 // (public domain) spells them. Written by scripts/names_zh.py: don't edit by hand;
 // corrections go in OVERRIDES there.
 I18N.add({
+"Rab-saris":"拉伯撒利",
+"Tartan":"他珥探",
+"Berodach-baladan":"比羅達‧巴拉但",
+"Tanhumeth":"單戶蔑",
+"Nehushtan":"尼忽士但",
+"Nisroch":"尼斯洛",
+"Hephzibah":"協西巴",
+"Harhas":"哈珥哈斯",
 "Anammelech":"亞拿米勒",
 "Tartak":"他珥他",
 "Nibhaz":"匿哈",
@@ -704,7 +712,7 @@ I18N.add({
 "Avva":"亞瓦",
 "Avvim":"亞文",
 "Azal":"亞薩",
-"Azaliah":"約西亞",
+"Azaliah":"亞薩利",
 "Azaniah":"亞散尼",
 "Azarael":"亞撒利",
 "Azareel":"亞薩列",
@@ -3500,7 +3508,7 @@ I18N.add({
 "Raamah":"拉瑪",
 "Rabbah":"拉巴",
 "Rabbith":"拉璧",
-"Rabshakeh":"猶大",
+"Rabshakeh":"拉伯沙基",
 "Rachel":"拉結",
 "Rahab":"喇合",
 "Rakem":"利金",
