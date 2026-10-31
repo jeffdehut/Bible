@@ -775,6 +775,21 @@ Settled while drafting Psalms:
 | NT quotations (91:11–12; 95:7–11; 102:26–28; 104:4) | The Hebrew in the text | Notes give Matthew 4:6 and Luke 4:10–11's omissions, Hebrews 3's translated place names and 「四十年」, Hebrews 1:10–12's 「主啊」「捲起來」, Hebrews 1:7's 「以他的使者為風」. |
 | Psalms 105–106 (Genesis–Numbers) | The Pentateuch's words: 成群的蒼蠅、蚊子 (*kinnim*)、蝗蟲、蝻子 (*yeleq*)、鵪鶉、天上的糧食、米利巴水、巴力‧毗珥 | 含地 for Egypt, noted. |
 | לִוְיָתָן (104:26) | 利維坦 | As 74:14 and Job; 和合本「鱷魚」 noted. |
+| Book division (107) | 107:1 notes 第五卷 (107–150) | |
+| הַלֵּל (113–118) | 「哈利爾」 | Noted at 113:1 (Passover, Mark 14:26); 114–118 refer back. |
+| נְאֻם יְהוָה לַאדֹנִי (110:1) | 耶和華對我主說 | *ne'um*, *adoni* against *Adonai*, the Greek 主對我主說 and Mark's 「放在你的腳下」 noted. |
+| עַל־דִּבְרָתִי מַלְכִּי־צֶדֶק (110:4) | 按照麥基洗德的方式 | Septuagint *taxis*, Hebrews and 和合本「等次」 noted. |
+| Acrostics (111; 112; 119) | Noted at verse 1 | 119: each stanza's letter at its first verse: `*Bet*（ב）：這一段（第9至16節）每節的希伯來文都以這個字母開頭。` |
+| Psalm 119's eight terms | 律法 (*torah*)；法度 (*edot*, *edut*)；訓詞 (*piqqudim*)；誡命 (*mitsvot*)；典章 (*mishpatim*)；律例 (*chuqqim*)；言語 (*imrah*)；話 (*davar*) | One rendering each, matching 19:8–10 and 78:5; listed at 119:1. *Mishpat* singular by context (審判 84; 公正 121, 149), noted. *Imrei El* 神的言語 (107:11). |
+| חַיֵּנִי (Psalm 119) | 使我存活 | 「使我甦醒」「保全我的性命」 noted (119:25). |
+| עֹמֶדֶת לָעַד (111:3, 10; 112:3, 9) | 存到永遠 | |
+| Psalm 118:14, 22–23, 26 | Exodus 15:2's and Mark 12:10–11's wording: 房角的基石；這是耶和華所做的，在我們眼中看為奇妙 | 118:26 בָּרוּךְ 是蒙福的 (Mark 11:9 「是應當稱頌的」 noted); 118:25 *hoshi'ah na* and 和散那 noted. |
+| שִׁיר הַמַּעֲלוֹת (120–134) | 上行之詩 | *shir ha-ma'alot* and the pilgrims noted at 120:1, later psalms refer back; 121:1 *shir lamma'alot* noted. 羅騰木 (120:4), 米設, 基達. |
+| כִּי לְעוֹלָם חַסְדּוֹ (136) | 他的慈愛永遠長存！ | Identical at the end of all 26 verses; 136:1 as 107:1 and 118:1; verses 4–25 (Hebrew participles) as short clauses 他……; noted at 136:1, 4. |
+| Psalm 135 (115:4–8; 136:17–22); Psalm 144 (Psalm 18) | The earlier psalm's wording wherever the Hebrew agrees | Differences noted. 雅珥 (132:6) coined, 和合本「基列‧耶琳」 noted. |
+| Acrostic (145) | Noted at 145:1 | The missing *nun* verse at 145:13, with 11QPs-a and the Septuagint's line. 145:8 חַנּוּן וְרַחוּם 有恩典、有憐憫……大有慈愛, the reversed order of Exodus 34:6 noted. |
+| Instruments: כִּנּוֹר; נֵבֶל; תֹּף; שׁוֹפָר; צֶלְצְלִים; עוּגָב | 琴；瑟；鼓；角、羊角號 (*shofar* noted)；鈸；簫 | 144:9 十弦的瑟 as 33:2. |
+| הַלְלוּ־יָהּ (146–150) | 你們要讚美耶和華 | 「哈利路亞」 noted at 146:1; 150:6 notes the close of 第五卷 and of the whole Psalter, and the Septuagint's Psalm 151. |
 
 ## Style
 
