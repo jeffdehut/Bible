@@ -3,7 +3,7 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
-<script src="i18n.js?v=13"></script>
+<script src="i18n.js?v=14"></script>
 <script src="ui.js?v=1"></script>
 <link rel="icon" href="icons/icon.svg" type="image/svg+xml">
 <link rel="apple-touch-icon" href="icons/icon-192.png">
@@ -32,6 +32,8 @@
   :root:not([data-theme="light"]) { --bg: #0d111b; --surface: #131a28; --ink: #e9ecf3; --muted: #a3acbd; --faint: #6f7a90; --line: #263047; --lapis: #9db3ff; --lapis-soft: #1c2650; --hit: #ffb37a; --hit-soft: #3a2414; color-scheme: dark; }
 }
 :root[data-theme="dark"] { --bg: #0d111b; --surface: #131a28; --ink: #e9ecf3; --muted: #a3acbd; --faint: #6f7a90; --line: #263047; --lapis: #9db3ff; --lapis-soft: #1c2650; --hit: #ffb37a; --hit-soft: #3a2414; color-scheme: dark; }
+.up { display: inline-block; margin: 0 0 4px; font: 600 12px/1.3 var(--sans); letter-spacing: 0.1em; text-transform: uppercase; color: var(--muted); text-decoration: none; }
+.up:hover { color: var(--lapis); }
 * { box-sizing: border-box; }
 html { -webkit-text-size-adjust: 100%; }
 body { margin: 0; background: var(--bg); color: var(--ink); font: 400 16px/1.5 var(--sans);
@@ -140,6 +142,7 @@ body::before { content: ""; position: fixed; inset: 0 0 auto; height: env(safe-a
 <script src="nav.js?v=34"></script>
 
 <main>
+  <a class="up" href="visual/index.html">Visual Bible</a>
   <h1>Proverbs by Topic</h1>
   <p class="lede">After its opening chapters, Proverbs is hundreds of short sayings, and a subject comes back again and again, far apart. Here every verse is a square, chapter by chapter. Choose a topic to light up everything the book says about it, and read it together.</p>
 

@@ -23,7 +23,7 @@ import re
 import sys
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-PAGES = sorted(glob.glob(os.path.join(ROOT, "*.html")) + glob.glob(os.path.join(ROOT, "maps", "*.html")))
+PAGES = sorted(glob.glob(os.path.join(ROOT, "*.html")) + glob.glob(os.path.join(ROOT, "maps", "*.html")) + glob.glob(os.path.join(ROOT, "visual", "*.html")))
 SCRIPTS = [os.path.join(ROOT, f) for f in ("nav.js", "account.js", "share.js", "themes.js")]
 ATTRS = {"title", "aria-label", "placeholder", "alt", "data-tip"}
 LATIN = re.compile(r"[A-Za-z]{2}")
