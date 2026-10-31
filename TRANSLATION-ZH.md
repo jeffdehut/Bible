@@ -376,6 +376,17 @@ Settled while drafting 1 Samuel:
 | נֹשֵׂא כֵלָיו | 替他拿兵器的人 | |
 | רוּחַ רָעָה מֵאֵת יְהוָה | 從耶和華那裏來的惡靈 | Noted: 使人受害的靈 (16:14). |
 | נִחַם (God, 1 Samuel 15) | 後悔；改變心意 (15:29) | One verb, noted. |
+| אִישׁ הַבֵּנַיִם | 出陣挑戰的勇士 | *ish ha-benayim* noted (17:4). |
+| חֵרֵף; מַעַרְכוֹת; מַעֲרָכָה | 辱罵；軍隊；戰陣 | 1 Samuel 17. |
+| קֶלַע | 機弦 | As Judges 20:16. |
+| The women's song (18:7; 21:12) | 「掃羅殺敵千千，大衛殺敵萬萬。」 | Literal wording and ketiv/qere noted. |
+| מַשְׂכִּיל | 成功 | *maskil* noted (18:5). |
+| הִתְנַבֵּא (Saul, 18:10) | 胡言亂語 | Noted: 「說預言」; 19:20–24 說預言, as 10:5. |
+| מְצוּדָה, מְצָדוֹת | 要塞 | |
+| שָׁאַל בַּיהוָה / בֵּאלֹהִים | 求問耶和華／神 | |
+| לֶחֶם קֹדֶשׁ (21:5–7) | 分別為聖的餅 | Never 聖餅. With 供奉在神面前的餅 (21:7) and the note on Mark 2:26 (亞比亞他). |
+| מְשִׁיחַ יְהוָה | 耶和華的受膏者 | Noted (24:7). |
+| Names the Union Version translates (חֹרְשָׁה, הַיְשִׁימוֹן) | 何烈沙；耶示門 | Transliterated; its 樹林, 曠野 in notes. |
 
 ## Style
 

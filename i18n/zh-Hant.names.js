@@ -2,6 +2,10 @@
 // (public domain) spells them. Written by scripts/names_zh.py: don't edit by hand;
 // corrections go in OVERRIDES there.
 I18N.add({
+"Jeshimon":"耶示門",
+"Horesh":"何烈沙",
+"Meholathite":"米何拉人",
+"Ezel":"以色",
 "Ahijah (1 Samuel 14.3)":"亞希亞（撒母耳記上 14.3）",
 "Valley of Zeboim":"洗波音谷",
 "Bozez":"播薛",

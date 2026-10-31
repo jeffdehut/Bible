@@ -1,6 +1,6 @@
 # Translation status
 
-268 of 1,189 chapters translated: 268 draft, 0 checked, 0 reviewed, 0 approved.
+276 of 1,189 chapters translated: 276 draft, 0 checked, 0 reviewed, 0 approved.
 
 | Book | Chapters | Draft | Checked | Reviewed | Approved | Translated chapters |
 |---|---|---|---|---|---|---|
@@ -12,5 +12,5 @@
 | Joshua | 24 | 24 |  |  |  | 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24 |
 | Judges | 21 | 21 |  |  |  | 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21 |
 | Ruth | 4 | 4 |  |  |  | 1, 2, 3, 4 |
-| 1 Samuel | 31 | 16 |  |  |  | 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16 |
+| 1 Samuel | 31 | 24 |  |  |  | 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24 |
 | Mark | 16 | 16 |  |  |  | 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16 |
