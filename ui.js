@@ -75,7 +75,8 @@
   const phone = () => matchMedia(PHONE).matches;
   // The panels sit under the page's bar, wherever it ends.
   function measureTop() {
-    const bar = document.querySelector(".appbar, header.bar, .topbar, .bar");
+    // The site's bar, or on a map its toolbar (the map's title tag beside it may run deeper).
+    const bar = document.querySelector(".appbar") || document.querySelector(".bar .tools") || document.querySelector("header.bar, .topbar, .bar");
     const b = bar ? Math.max(0, bar.getBoundingClientRect().bottom) : 0;
     document.documentElement.style.setProperty("--ui-top", Math.round(b) + "px");
   }
