@@ -398,7 +398,7 @@ Settled while drafting 1 Samuel:
 ## Style
 
 **Characters and words.** Plain words over the Union Version's literary ones (吊下去, not 縋下來). Hong Kong standard forms: 裏 (not 裡), 着 for the particle (看着、
-帶着; 著 only in 顯著、著作), 衞, 甚麼 (not 什麼), 只 (not 祇). Hong Kong usage where it differs
+帶着; 著 only in 顯著、著作), 衞, 甚麼 (not 什麼), 只 (not 祇), 吃 (not 喫). Hong Kong usage where it differs
 from Taiwan or the mainland. The checker rejects 裡.
 
 **Punctuation.** Full-width: ，。、；：？！ Quotations take 「」, a quotation inside one 『』.
