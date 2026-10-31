@@ -2,6 +2,13 @@
 // (public domain) spells them. Written by scripts/names_zh.py: don't edit by hand;
 // corrections go in OVERRIDES there.
 I18N.add({
+"Kue":"古耶",
+"Chinnereth":"基尼烈",
+"Abishalom":"押沙龍",
+"Tadmor":"達莫",
+"Tabrimmon":"他伯利們",
+"Abijam":"亞比央",
+"Zeruah":"洗魯阿",
 "Ethanim":"以他念",
 "Bul":"布勒",
 "Ziv":"西弗",
