@@ -1,0 +1,511 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<script src="../i18n.js?v=17"></script>
+<script src="../ui.js?v=1"></script>
+<link rel="icon" href="../icons/icon.svg" type="image/svg+xml">
+<link rel="apple-touch-icon" href="../icons/icon-192.png">
+<meta name="theme-color" content="#fbfaf7" media="(prefers-color-scheme: light)">
+<meta name="theme-color" content="#0d111b" media="(prefers-color-scheme: dark)">
+<script>try { const t = (JSON.parse(localStorage.getItem("pe.settings")) || {}).theme; if (t === "light" || t === "dark") document.documentElement.setAttribute("data-theme", t); } catch (e) { /* storage unavailable */ }</script>
+</head>
+<body>
+<title>Visual Bible · Plain English Bible</title>
+<meta name="claude:viewport-fit-sides" content="cover">
+<meta name="description" content="A book of the Bible seen whole, from its own words: the words it uses most, how they move through it, who is in it, who speaks, and the books it is tied to.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Frank+Ruhl+Libre:wght@300..700&family=Libre+Franklin:wght@400;500;600;700&display=swap">
+<style>
+/* A book seen whole, from its own words (scripts/visual.py, visual-book.html). Every mark is a
+   count of the book's own Hebrew, Aramaic or Greek words, and tapping it shows the verses. */
+:root {
+  --bg: #fbfaf7; --surface: #ffffff; --raised: #ffffff; --ink: #161b26; --muted: #5b6475; --faint: #8d95a4; --line: #e4e2db;
+  --lapis: #2646a1; --lapis-soft: #e7ecf8; --gold: #8a640b;
+  --read: "Frank Ruhl Libre", "Noto Serif", Georgia, serif;
+  --sans: "Libre Franklin", system-ui, -apple-system, "Segoe UI", sans-serif;
+}
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) { --bg: #0d111b; --surface: #131a28; --raised: #172033; --ink: #e9ecf3; --muted: #a3acbd; --faint: #6f7a90; --line: #263047; --lapis: #9db3ff; --lapis-soft: #1c2650; --gold: #e2bd5c; color-scheme: dark; }
+}
+:root[data-theme="dark"] { --bg: #0d111b; --surface: #131a28; --raised: #172033; --ink: #e9ecf3; --muted: #a3acbd; --faint: #6f7a90; --line: #263047; --lapis: #9db3ff; --lapis-soft: #1c2650; --gold: #e2bd5c; color-scheme: dark; }
+* { box-sizing: border-box; }
+html { -webkit-text-size-adjust: 100%; }
+body { margin: 0; background: var(--bg); color: var(--ink); font: 400 16px/1.5 var(--sans);
+  padding-left: max(16px, env(safe-area-inset-left, 0px)); padding-right: max(16px, env(safe-area-inset-right, 0px)); }
+a { color: var(--lapis); }
+main { max-width: 980px; margin-inline: auto; padding-block: clamp(20px, 5vw, 40px) 90px; }
+.kicker { font: 600 12px/1.3 var(--sans); letter-spacing: 0.1em; text-transform: uppercase; color: var(--muted); }
+.kicker a { color: inherit; text-decoration: none; }
+.kicker a:hover { color: var(--lapis); }
+h1 { margin: 4px 0 6px; font: 300 clamp(38px, 8vw, 60px)/1.02 var(--read); letter-spacing: -0.02em; }
+.lede { margin: 0 0 14px; max-width: 66ch; color: var(--muted); }
+h2 { margin: 34px 0 4px; font: 500 22px/1.2 var(--read); }
+.sub { margin: 0 0 12px; color: var(--muted); font-size: 14px; max-width: 70ch; }
+.family { display: flex; flex-wrap: wrap; gap: 6px; margin: 0 0 6px; }
+.family a { display: inline-flex; align-items: center; min-height: 34px; padding: 0 14px; border-radius: 99px; border: 1px solid var(--line); background: var(--surface); color: var(--ink); text-decoration: none; font: 600 14px/1 var(--sans); }
+.family a[aria-current="page"] { background: var(--lapis); border-color: var(--lapis); color: #fff; }
+.chips { display: flex; flex-wrap: wrap; gap: 6px; }
+.chip { display: inline-flex; align-items: center; gap: 6px; min-height: 32px; padding: 4px 11px; border: 1px solid var(--line); border-radius: 99px; background: var(--surface); color: var(--ink); font: 500 13px/1.2 var(--sans); cursor: pointer; }
+.chip i { width: 10px; height: 10px; border-radius: 3px; background: var(--c); flex: none; }
+.chip[aria-pressed="true"] { border-color: var(--c, var(--lapis)); box-shadow: inset 0 0 0 1px var(--c, var(--lapis)); }
+.panel { background: var(--surface); border: 1px solid var(--line); border-radius: 16px; padding: 14px; }
+/* About this book: who, when, to whom, what kind, its theme. */
+.about { margin: 10px 0 0; display: grid; gap: 8px; grid-template-columns: 1fr; }
+@media (min-width: 700px) { .about { grid-template-columns: 1fr 1fr; } .about .wide { grid-column: 1 / -1; } }
+.about > div { display: grid; grid-template-columns: 40px 1fr; gap: 12px; align-items: start; padding: 12px 14px; border: 1px solid var(--line); border-radius: 14px; background: var(--surface); }
+.about .ic { display: grid; place-items: center; width: 40px; height: 40px; border-radius: 12px; background: var(--lapis-soft); color: var(--lapis); }
+.about .ic svg { width: 22px; height: 22px; }
+.about dt { font: 600 11.5px/1.3 var(--sans); letter-spacing: 0.08em; text-transform: uppercase; color: var(--muted); }
+.about dd { margin: 2px 0 0; font: 500 15.5px/1.4 var(--sans); }
+.about dd small { display: block; margin-top: 2px; font: 400 13.5px/1.4 var(--sans); color: var(--muted); }
+.about .theme dd { font: 400 19px/1.4 var(--read); }
+/* At a glance: what the letter is about, each point read from its own words, with an icon. */
+.glance { list-style: none; margin: 10px 0 0; padding: 0; display: grid; gap: 8px; grid-template-columns: 1fr; }
+@media (min-width: 700px) { .glance { grid-template-columns: 1fr 1fr; } }
+.glance li { display: grid; grid-template-columns: 44px 1fr; gap: 12px; align-items: start; padding: 12px 14px; border: 1px solid var(--line); border-radius: 14px; background: var(--surface); }
+.glance .ic { display: grid; place-items: center; width: 44px; height: 44px; border-radius: 12px; background: color-mix(in srgb, var(--c) 15%, transparent); color: var(--c); }
+.glance .ic svg { width: 24px; height: 24px; }
+.glance b { display: block; font: 600 15px/1.3 var(--sans); }
+.glance span { display: block; margin-top: 2px; font: 400 14px/1.45 var(--sans); color: var(--muted); }
+.glance q { display: block; margin-top: 4px; font: 400 16px/1.45 var(--read); color: var(--ink); quotes: "“" "”"; }
+.glance .refs { display: flex; flex-wrap: wrap; gap: 4px; margin-top: 6px; }
+.glance .refs button { border: 1px solid var(--line); background: var(--bg); color: var(--lapis); border-radius: 99px; padding: 3px 9px; font: 600 12px/1.2 var(--sans); cursor: pointer; }
+/* Its words: a bar for each, with ticks for the Gospel of John and the rest of the New Testament. */
+.bars { display: grid; gap: 8px; }
+.bar { display: grid; grid-template-columns: minmax(96px, 150px) 1fr auto; align-items: center; gap: 10px; border: 0; background: none; padding: 2px 0; color: var(--ink); text-align: left; cursor: pointer; font: 500 14px/1.2 var(--sans); }
+.bar .track { position: relative; height: 16px; border-radius: 4px; background: color-mix(in srgb, var(--line) 55%, transparent); }
+.bar .fill { position: absolute; inset: 0 auto 0 0; border-radius: 4px; background: var(--c); }
+.bar .tick { position: absolute; top: -3px; bottom: -3px; width: 2px; background: var(--ink); opacity: .55; }
+.bar .tick.nt { background: var(--muted); opacity: .9; height: 22px; width: 2px; top: -3px; border-radius: 1px; }
+.bar .tick.john { background: var(--ink); }
+.bar .n { font: 600 12.5px/1 var(--sans); color: var(--muted); min-width: 34px; text-align: right; }
+.bar[aria-pressed="true"] .lab { color: var(--c); font-weight: 700; }
+.key { display: flex; flex-wrap: wrap; gap: 6px 16px; margin: 10px 0 0; font: 500 12.5px/1.3 var(--sans); color: var(--muted); }
+.key span { display: inline-flex; align-items: center; gap: 6px; }
+.key i { display: inline-block; width: 2px; height: 14px; background: var(--ink); opacity: .55; }
+.key i.nt { background: var(--muted); opacity: .9; }
+/* Verse by verse: a column for each verse, a row for each word. */
+.grid-wrap { display: grid; gap: 14px; }
+.chap h3 { margin: 0 0 4px; font: 600 12px/1 var(--sans); letter-spacing: 0.08em; text-transform: uppercase; color: var(--muted); }
+svg.vis { display: block; width: 100%; max-width: 100%; height: auto; overflow: visible; }
+svg.vis text { font: 500 10px var(--sans); fill: var(--muted); }
+svg.vis .col { cursor: pointer; }
+svg.vis .col:hover rect.hit, svg.vis .col:focus rect.hit { fill: var(--lapis-soft); }
+svg.vis rect.hit { fill: transparent; }
+svg.vis .dim { opacity: .14; }
+.lanes { display: grid; gap: 10px; }
+.lane { display: grid; grid-template-columns: minmax(92px, 32%) 1fr; gap: 10px; align-items: center; }
+.lane .lab { font: 600 13px/1.25 var(--sans); }
+.lane .lab small { display: block; color: var(--muted); font-weight: 500; }
+.lane svg { height: 26px; }
+.list { margin: 8px 0 0; padding: 0; list-style: none; display: grid; gap: 6px; }
+.list li button { display: block; width: 100%; text-align: left; border: 1px solid var(--line); border-radius: 12px; background: var(--surface); color: var(--ink); padding: 10px 12px; cursor: pointer; font: 400 15px/1.45 var(--read); }
+.list li b { font: 700 12px/1 var(--sans); color: var(--lapis); margin-inline-end: 6px; }
+details.more summary { cursor: pointer; font: 600 13px/1.3 var(--sans); color: var(--lapis); margin: 8px 0 0; }
+.voices-key { display: flex; flex-wrap: wrap; gap: 10px 16px; margin: 4px 0 10px; font: 500 13px/1 var(--sans); color: var(--muted); }
+.voices-key span { display: inline-flex; align-items: center; gap: 6px; }
+.voices-key i { width: 12px; height: 12px; border-radius: 3px; }
+.sisters { display: grid; grid-template-columns: 1fr; gap: 18px; }
+.note { font: 500 13px/1.45 var(--sans); color: var(--muted); margin: 10px 0 0; }
+/* Through the book: a row for each word, a cell for each chapter, darker where it comes more. */
+.heat { overflow-x: auto; -webkit-overflow-scrolling: touch; }
+.heat svg { display: block; }
+svg.vis rect.cell { cursor: pointer; }
+svg.vis rect.cell:hover { stroke: var(--ink); stroke-width: 1; }
+svg.vis .lab { font: 600 11px var(--sans); fill: var(--ink); }
+.links { display: grid; gap: 6px; }
+.links a, .links div { display: grid; grid-template-columns: minmax(96px, 150px) 1fr auto; gap: 10px; align-items: center; color: var(--ink); text-decoration: none; font: 500 14px/1.2 var(--sans); }
+.links .track { height: 12px; border-radius: 4px; background: color-mix(in srgb, var(--line) 55%, transparent); position: relative; }
+.links .fill { position: absolute; inset: 0 auto 0 0; border-radius: 4px; background: var(--lapis); opacity: .75; }
+.links a:hover .lab { color: var(--lapis); }
+.links .n { font: 600 12.5px/1 var(--sans); color: var(--muted); min-width: 34px; text-align: right; }
+.near { display: flex; flex-wrap: wrap; gap: 6px; margin-top: 10px; }
+.near a, .near span { display: inline-flex; align-items: center; min-height: 34px; padding: 0 14px; border-radius: 99px; border: 1px solid var(--line); background: var(--surface); color: var(--ink); text-decoration: none; font: 600 14px/1 var(--sans); }
+.near a:hover { border-color: var(--lapis); color: var(--lapis); }
+#card .vl { list-style: none; margin: 0 0 14px; padding: 0; display: grid; gap: 8px; }
+#card .vl li { font: 400 16.5px/1.5 var(--read); }
+#card .vl b { font: 700 12px/1 var(--sans); color: var(--lapis); margin-inline-end: 6px; }
+#card .vl a { color: inherit; text-decoration: none; }
+#card .vl a:hover b { text-decoration: underline; }
+#card .more { font: 500 13px/1.4 var(--sans); color: var(--muted); }
+/* The verse card: the site's panel (ui.js). */
+#card .ui-head { display: flex; align-items: center; gap: 8px; padding: 4px 0 6px; }
+#card h3 { flex: 1; margin: 0; font: 600 19px/1.2 var(--read); }
+#card .close { width: 36px; height: 36px; border: 0; border-radius: 10px; background: transparent; color: var(--muted); cursor: pointer; font-size: 18px; }
+#card .close:hover { background: var(--lapis-soft); }
+#card .txt { margin: 4px 0 12px; font: 400 19px/1.55 var(--read); }
+#card .also { font: 500 13.5px/1.4 var(--sans); color: var(--muted); margin: 0 0 12px; }
+#card .tags { display: flex; flex-wrap: wrap; gap: 6px; margin: 0 0 14px; }
+#card .tags span { display: inline-flex; align-items: center; gap: 6px; padding: 4px 10px; border-radius: 99px; background: color-mix(in srgb, var(--c) 14%, transparent); color: var(--ink); font: 600 12.5px/1.2 var(--sans); }
+#card .tags i { width: 8px; height: 8px; border-radius: 2px; background: var(--c); }
+#card .go { display: inline-flex; align-items: center; min-height: 40px; padding: 0 16px; border-radius: 10px; background: var(--lapis); color: #fff; text-decoration: none; font: 600 14px/1 var(--sans); }
+@media (min-width: 760px) { .lane { grid-template-columns: minmax(110px, 190px) 1fr; } }
+@media print { .appbar, #card { display: none; } }
+</style>
+<style>
+:root { --bar: 56px; }
+body::before { content: ""; position: fixed; inset: 0 0 auto; height: env(safe-area-inset-top, 0px); z-index: 11; background: var(--bg); }
+.appbar {
+  position: sticky; top: env(safe-area-inset-top, 0px); z-index: 10; height: var(--bar);
+  margin-inline: calc(-1 * max(16px, env(safe-area-inset-left, 0px))) calc(-1 * max(16px, env(safe-area-inset-right, 0px)));
+  padding-inline: max(8px, env(safe-area-inset-left, 0px)) max(8px, env(safe-area-inset-right, 0px));
+  display: flex; align-items: center; gap: 4px; background: color-mix(in srgb, var(--bg) 92%, transparent);
+  backdrop-filter: blur(10px); -webkit-backdrop-filter: blur(10px); border-bottom: 1px solid var(--line);
+}
+.appbar .brand {
+  display: inline-flex; align-items: center; gap: 10px; min-height: 40px; padding: 0 8px; border-radius: 10px;
+  color: var(--ink); text-decoration: none; white-space: nowrap; font: 500 17px/1 "Frank Ruhl Libre", "Noto Serif", Georgia, serif; letter-spacing: 0.01em;
+}
+.appbar .brand img { width: 26px; height: 26px; border-radius: 7px; flex: none; }
+.appbar .sitenav-btn { margin-inline-start: auto; }
+.appbar a:focus-visible { outline: 2px solid var(--lapis); outline-offset: 0; }
+@media print { .appbar { display: none; } }
+</style>
+<header class="appbar">
+  <a class="brand" href="../index.html"><img src="../icons/icon.svg" alt="Plain English Bible"><span aria-hidden="true">Plain English Bible</span></a>
+</header>
+<script src="../nav.js?v=35"></script>
+<main>
+  <div class="kicker"><a href="index.html">Visual Bible</a></div>
+  <h1 id="title"></h1>
+  <p class="lede" id="lede"></p>
+
+  <section id="s-about" aria-labelledby="about-title" hidden>
+    <h2 id="about-title">About this book</h2>
+    <dl class="about" id="about"></dl>
+    <p class="note">Authors and dates as introductions to the Bible commonly give them; many are debated, and the ranges say so.</p>
+  </section>
+
+  <section id="s-glance" aria-labelledby="glance-title">
+    <h2 id="glance-title">At a glance</h2>
+    <ul class="glance" id="glance"></ul>
+  </section>
+
+  <section id="s-words">
+    <h2>The words it uses most</h2>
+    <p class="sub" id="words-sub"></p>
+    <div class="panel"><div class="bars" id="bars"></div>
+      <div class="key"><span><i class="nt"></i><span id="rest-key"></span></span></div></div>
+  </section>
+
+  <section id="s-heat">
+    <h2>Through the book</h2>
+    <p class="sub" id="heat-sub"></p>
+    <div class="panel heat" id="heat"></div>
+  </section>
+
+  <section id="s-people" hidden>
+    <h2>The people in it</h2>
+    <p class="sub">The people it names most, and where they are in the book. Tap a mark to read those verses.</p>
+    <div class="panel lanes" id="people"></div>
+  </section>
+
+  <section id="s-places" hidden>
+    <h2>The places in it</h2>
+    <p class="sub">The places it names most, and where they come in the book.</p>
+    <div class="panel lanes" id="places"></div>
+  </section>
+
+  <section id="s-patterns" hidden>
+    <h2>Ways of speaking it repeats</h2>
+    <p class="sub">Phrases the book comes back to, found by their words in the original language. Each mark is a verse; tap the name of one to read them together.</p>
+    <div class="panel lanes" id="patterns"></div>
+  </section>
+
+  <section id="s-voices">
+    <h2>Who speaks, and to whom</h2>
+    <p class="sub" id="voices-sub"></p>
+    <div class="voices-key" id="voices-key"></div>
+    <div class="panel heat" id="voices"></div>
+  </section>
+
+  <section id="s-links" hidden>
+    <h2>The books it is tied to</h2>
+    <p class="sub">Cross-references from its verses to other books of the Bible, counted (OpenBible.info). Below, the books nearest to it in their choice of words.</p>
+    <div class="panel"><div class="links" id="links"></div><div class="near" id="near"></div></div>
+  </section>
+  <p class="note" id="sources"></p>
+</main>
+<section class="ui-sheet" id="card" hidden aria-labelledby="card-title">
+  <div class="ui-grab"></div>
+  <div class="ui-head"><h3 id="card-title"></h3><button class="close" type="button" data-close aria-label="Close">✕</button></div>
+  <div id="card-body"></div>
+</section>
+<script type="application/json" id="data">{"book":"2 Samuel","slug":"10-2-samuel","osis":"2Sam","t":"OT","chapters":24,"verses":695,"words":10803,"unit":"chapter","units":[1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24],"vc":[27,32,39,12,25,23,29,18,13,19,27,31,39,33,37,23,29,32,44,26,22,51,39,25],"uw":[355,510,651,233,346,369,444,257,217,311,438,512,630,588,587,376,516,577,798,433,409,366,436,444],"vo":[{"they":91,"you":26,"I":29},{"they":123,"I":10,"you":27,"we":1},{"they":125,"you":38,"I":28},{"they":71,"you":4,"I":8},{"they":75,"we":3,"you":21,"I":6},{"they":75,"I":8,"you":2},{"they":55,"you":85,"I":40,"we":2},{"they":58},{"they":48,"I":10,"you":21},{"they":91,"I":5,"you":11,"we":3},{"they":121,"I":10,"you":29,"we":3},{"they":150,"you":38,"I":28,"we":3},{"they":199,"you":46,"I":32,"we":4},{"they":140,"you":45,"I":41,"we":3},{"they":117,"you":51,"I":32,"we":6},{"they":72,"you":29,"I":20,"we":1},{"they":119,"I":10,"you":19,"we":5},{"they":130,"I":27,"you":28,"we":7},{"they":143,"I":74,"you":70,"we":9},{"they":112,"we":4,"you":20,"I":10},{"they":98,"I":5,"you":6,"we":8},{"they":94,"I":104,"you":24,"we":1},{"they":84,"I":9},{"they":83,"you":30,"I":23,"we":1}],"themes":[{"id":"113","n":"lord","c":"#d4495a","k":52,"h":[[1,10],[2,5],[2,7],[3,21],[4,8],[9,9],[9,10],[9,11],[10,3],[11,9],[11,11],[11,13],[12,8],[13,32],[13,33],[14,9],[14,12],[14,15],[14,17],[14,18],[14,19],[14,20],[14,22],[15,15],[15,21],[16,3],[16,4],[16,9],[18,28],[18,31],[18,32],[19,20],[19,21],[19,27],[19,28],[19,29],[19,31],[19,36],[19,38],[20,6],[24,3],[24,21],[24,22]],"r":4.81,"rest":0.97,"by":[1,2,1,1,0,0,0,0,4,1,4,2,2,10,3,3,0,3,10,1,0,0,0,4]},{"id":"4191","n":"to die","c":"#2e86c1","k":74,"h":[[1,4],[1,5],[1,9],[1,10],[1,15],[1,16],[2,7],[2,23],[2,31],[3,27],[3,30],[3,33],[3,37],[4,1],[4,7],[4,10],[6,7],[8,2],[9,8],[10,1],[10,18],[11,15],[11,17],[11,21],[11,24],[11,26],[12,13],[12,14],[12,18],[12,19],[12,21],[12,23],[13,28],[13,32],[13,33],[13,39],[14,2],[14,5],[14,6],[14,7],[14,14],[14,32],[16,9],[17,23],[18,3],[18,15],[18,20],[19,1],[19,7],[19,11],[19,22],[19,23],[19,24],[19,38],[20,3],[20,10],[20,19],[21,1],[21,4],[21,9],[21,17],[24,15]],"r":6.85,"rest":2.65,"by":[7,4,4,3,0,1,0,1,1,2,7,11,6,7,0,1,1,3,7,3,4,0,0,1]},{"id":"5221","n":"to smite","c":"#16a085","k":47,"h":[[1,1],[1,15],[2,22],[2,23],[2,31],[3,27],[4,6],[4,7],[5,8],[5,20],[5,24],[5,25],[6,7],[8,1],[8,2],[8,3],[8,5],[8,9],[8,10],[8,13],[10,18],[11,15],[11,21],[12,9],[13,28],[13,30],[14,6],[14,7],[15,14],[17,2],[18,11],[18,15],[20,10],[21,2],[21,12],[21,16],[21,17],[21,18],[21,19],[21,21],[23,10],[23,12],[23,20],[23,21],[24,10],[24,17]],"r":4.35,"rest":1.57,"by":[2,3,1,2,4,1,0,7,0,1,2,1,2,2,1,0,1,2,0,1,7,0,5,2]},{"id":"310A","n":"after","c":"#7d3c98","k":58,"h":[[1,1],[1,7],[1,10],[2,1],[2,10],[2,19],[2,20],[2,21],[2,22],[2,23],[2,24],[2,25],[2,26],[2,27],[2,28],[2,30],[3,16],[3,26],[3,28],[3,31],[5,13],[5,23],[7,8],[7,12],[10,1],[11,8],[11,15],[13,1],[13,17],[13,18],[13,34],[15,1],[15,13],[17,1],[17,9],[17,21],[18,16],[18,22],[19,31],[20,2],[20,6],[20,7],[20,10],[20,11],[20,13],[20,14],[21,1],[21,14],[21,18],[23,9],[23,10],[23,11],[24,10]],"r":5.37,"rest":2.27,"by":[3,15,4,0,2,0,2,0,0,1,2,0,4,0,2,0,3,2,1,10,3,0,3,1]},{"id":"5046","n":"to tell","c":"#d4a017","k":37,"h":[[1,4],[1,5],[1,6],[1,13],[1,20],[2,4],[3,23],[4,10],[6,12],[7,11],[10,5],[10,17],[11,5],[11,10],[11,18],[11,22],[12,18],[13,4],[14,33],[15,13],[15,28],[15,31],[15,35],[17,16],[17,17],[17,18],[17,21],[18,10],[18,11],[18,21],[18,25],[19,2],[19,7],[19,9],[21,11],[24,13]],"r":3.42,"rest":1.15,"by":[5,1,1,1,0,1,1,0,0,2,4,1,1,1,4,0,5,4,3,0,1,0,0,1]},{"id":"5971K","n":"people","c":"#a04000","k":15,"h":[[2,27],[2,28],[10,10],[18,1],[18,2],[18,3],[18,4],[18,6],[18,7],[18,16],[20,15],[23,10],[23,11]],"r":1.39,"rest":0.21,"by":[0,2,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,9,0,1,0,0,2,0]},{"id":"1309","n":"good news","c":"#27ae60","k":5,"h":[[4,10],[18,20],[18,22],[18,25],[18,27]],"r":0.46,"rest":0.0,"by":[0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0]},{"id":"2570","n":"belly","c":"#b9770e","k":4,"h":[[2,23],[3,27],[4,6],[20,10]],"r":0.37,"rest":0.0,"by":[0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0]},{"id":"7901G","n":"to lie down","c":"#1f618d","k":16,"h":[[4,7],[7,12],[8,2],[11,4],[11,11],[11,13],[12,3],[12,11],[12,16],[12,24],[13,5],[13,6],[13,8],[13,11],[13,14],[13,31]],"r":1.48,"rest":0.3,"by":[0,0,0,1,0,0,1,1,0,0,3,4,6,0,0,0,0,0,0,0,0,0,0,0]},{"id":"5288","n":"youth","c":"#c0392b","k":26,"h":[[1,5],[1,6],[1,13],[1,15],[2,14],[2,21],[4,12],[9,9],[12,16],[13,17],[13,28],[13,29],[13,32],[13,34],[14,21],[16,1],[16,2],[17,18],[18,5],[18,12],[18,15],[18,29],[18,32],[19,18],[20,11]],"r":2.41,"rest":0.74,"by":[4,2,0,1,0,0,0,0,1,0,0,1,5,1,0,2,1,6,1,1,0,0,0,0]},{"id":"5674C","n":"to pass","c":"#5d6d7e","k":8,"h":[[2,8],[3,10],[12,13],[19,16],[19,19],[19,41],[19,42],[24,10]],"r":0.74,"rest":0.07,"by":[0,1,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,4,0,0,0,0,1]},{"id":"5674A","n":"to pass","c":"#884ea0","k":40,"h":[[2,15],[2,29],[10,17],[11,27],[12,31],[15,18],[15,22],[15,23],[15,24],[15,33],[16,1],[16,9],[17,16],[17,20],[17,21],[17,22],[17,24],[18,9],[18,23],[19,19],[19,32],[19,34],[19,37],[19,38],[19,39],[19,40],[19,41],[20,13],[20,14],[24,5],[24,20]],"r":3.7,"rest":1.59,"by":[0,2,0,0,0,0,0,0,0,1,1,1,0,0,9,2,7,2,11,2,0,0,0,2]}],"people":[{"n":"David","k":225,"h":[[1,1],[1,2],[1,3],[1,4],[1,5],[1,11],[1,13],[1,14],[1,15],[1,16],[1,17],[2,1],[2,2],[2,3],[2,4],[2,5],[2,10],[2,11],[2,13],[2,15],[2,17],[2,30],[2,31],[3,1],[3,2],[3,5],[3,6],[3,8],[3,9],[3,10],[3,12],[3,14],[3,17],[3,18],[3,19],[3,20],[3,21],[3,22],[3,26],[3,28],[3,31],[3,35],[4,8],[4,9],[4,12],[5,1],[5,3],[5,4],[5,6],[5,7],[5,8],[5,9],[5,10],[5,11],[5,12],[5,13],[5,17],[5,19],[5,20],[5,21],[5,23],[5,25],[6,1],[6,2],[6,5],[6,8],[6,9],[6,10],[6,12],[6,14],[6,15],[6,16],[6,17],[6,18],[6,20],[6,21],[7,5],[7,8],[7,17],[7,18],[7,20],[7,26],[8,1],[8,2],[8,3],[8,4],[8,5],[8,6],[8,7],[8,8],[8,9],[8,10],[8,11],[8,13],[8,14],[8,15],[8,18],[9,1],[9,2],[9,5],[9,6],[9,7],[10,2],[10,3],[10,4],[10,5],[10,6],[10,7],[10,17],[10,18],[11,1],[11,2],[11,3],[11,4],[11,5],[11,6],[11,7],[11,8],[11,10],[11,11],[11,12],[11,13],[11,14],[11,17],[11,18],[11,22],[11,23],[11,25],[11,27],[12,1],[12,5],[12,7],[12,13],[12,15],[12,16],[12,18],[12,19],[12,20],[12,24],[12,27],[12,29],[12,30],[12,31],[13,1],[13,3],[13,7],[13,21],[13,30],[13,32],[13,39],[15,12],[15,13],[15,14],[15,22],[15,30],[15,31],[15,32],[15,33],[15,37],[16,1],[16,5],[16,6],[16,10],[16,11],[16,13],[16,16],[16,23],[17,1],[17,16],[17,17],[17,21],[17,22],[17,24],[17,27],[17,29],[18,1],[18,2],[18,7],[18,9],[18,24],[19,12],[19,17],[19,23],[19,42],[19,44],[20,1],[20,2],[20,3],[20,6],[20,11],[20,21],[20,26],[21,1],[21,3],[21,7],[21,11],[21,12],[21,15],[21,16],[21,17],[21,21],[21,22],[22,1],[22,51],[23,1],[23,8],[23,9],[23,13],[23,14],[23,15],[23,16],[23,23],[24,1],[24,10],[24,11],[24,12],[24,13],[24,14],[24,17],[24,18],[24,19],[24,21],[24,22],[24,24],[24,25]]},{"n":"Israel","k":101,"h":[[1,3],[1,12],[1,19],[1,24],[2,9],[2,10],[2,17],[2,28],[3,10],[3,12],[3,17],[3,18],[3,19],[3,21],[3,37],[3,38],[4,1],[5,1],[5,2],[5,3],[5,5],[5,12],[5,17],[6,1],[6,5],[6,15],[6,19],[6,20],[6,21],[7,6],[7,7],[7,8],[7,10],[7,11],[7,23],[7,24],[7,26],[7,27],[8,15],[10,9],[10,15],[10,17],[10,18],[10,19],[11,1],[11,11],[12,7],[12,8],[12,12],[13,12],[13,13],[14,25],[15,2],[15,6],[15,10],[15,13],[16,3],[16,15],[16,18],[16,21],[16,22],[17,4],[17,10],[17,11],[17,13],[17,14],[17,15],[17,24],[17,26],[18,6],[18,7],[18,16],[18,17],[19,9],[19,10],[19,12],[19,23],[19,41],[19,42],[19,43],[19,44],[20,1],[20,2],[20,14],[20,19],[20,23],[21,2],[21,4],[21,5],[21,15],[21,17],[21,21],[23,1],[23,3],[23,9],[24,1],[24,2],[24,4],[24,9],[24,15],[24,25]]},{"n":"Joab","k":84,"h":[[2,13],[2,14],[2,18],[2,22],[2,24],[2,26],[2,27],[2,28],[2,30],[2,32],[3,22],[3,23],[3,24],[3,26],[3,27],[3,29],[3,30],[3,31],[8,16],[10,7],[10,9],[10,13],[10,14],[11,1],[11,6],[11,7],[11,11],[11,14],[11,16],[11,17],[11,18],[11,22],[11,25],[12,26],[12,27],[14,1],[14,2],[14,3],[14,19],[14,20],[14,21],[14,22],[14,23],[14,29],[14,30],[14,31],[14,32],[14,33],[17,25],[18,2],[18,5],[18,10],[18,11],[18,12],[18,14],[18,15],[18,16],[18,20],[18,21],[18,22],[18,29],[19,2],[19,6],[19,14],[20,7],[20,8],[20,9],[20,10],[20,11],[20,13],[20,15],[20,16],[20,17],[20,20],[20,21],[20,22],[20,23],[23,18],[23,24],[23,37],[24,2],[24,3],[24,4],[24,9]]},{"n":"Absalom","k":83,"h":[[3,3],[13,1],[13,4],[13,20],[13,22],[13,23],[13,24],[13,25],[13,26],[13,27],[13,28],[13,29],[13,30],[13,32],[13,34],[13,37],[13,38],[13,39],[14,1],[14,21],[14,23],[14,24],[14,25],[14,27],[14,28],[14,29],[14,30],[14,31],[14,32],[14,33],[15,1],[15,2],[15,3],[15,4],[15,6],[15,7],[15,10],[15,11],[15,12],[15,13],[15,14],[15,31],[15,34],[15,37],[16,8],[16,15],[16,16],[16,17],[16,18],[16,20],[16,21],[16,22],[16,23],[17,1],[17,4],[17,5],[17,6],[17,7],[17,9],[17,14],[17,15],[17,18],[17,20],[17,24],[17,25],[17,26],[18,5],[18,9],[18,10],[18,12],[18,14],[18,15],[18,17],[18,18],[18,29],[18,32],[19,1],[19,2],[19,5],[19,7],[19,10],[19,11],[20,6]]},{"n":"Saul","k":57,"h":[[1,1],[1,2],[1,4],[1,5],[1,6],[1,12],[1,17],[1,21],[1,22],[1,23],[1,24],[2,4],[2,5],[2,7],[2,8],[2,10],[2,12],[2,15],[3,1],[3,6],[3,7],[3,8],[3,10],[3,13],[3,14],[4,1],[4,2],[4,4],[4,8],[4,10],[5,2],[6,16],[6,20],[6,23],[7,15],[9,1],[9,2],[9,3],[9,6],[9,7],[9,9],[12,7],[16,5],[16,8],[19,18],[19,25],[21,1],[21,2],[21,4],[21,6],[21,7],[21,8],[21,11],[21,12],[21,13],[21,14],[22,1]]},{"n":"Abner","k":40,"h":[[2,8],[2,12],[2,14],[2,17],[2,19],[2,20],[2,21],[2,22],[2,23],[2,24],[2,25],[2,26],[2,29],[2,30],[2,31],[3,6],[3,7],[3,8],[3,9],[3,11],[3,12],[3,16],[3,17],[3,19],[3,20],[3,21],[3,22],[3,23],[3,24],[3,25],[3,26],[3,27],[3,28],[3,30],[3,31],[3,32],[3,33],[3,37],[4,1],[4,12]]},{"n":"Judah","k":26,"h":[[1,18],[2,1],[2,4],[2,7],[2,10],[2,11],[3,8],[3,10],[5,5],[11,11],[12,8],[19,12],[19,15],[19,16],[19,17],[19,41],[19,42],[19,43],[19,44],[20,2],[20,4],[20,5],[21,2],[24,1],[24,7],[24,9]]},{"n":"Amnon","k":20,"h":[[3,2],[13,1],[13,2],[13,3],[13,4],[13,6],[13,7],[13,8],[13,9],[13,10],[13,15],[13,20],[13,22],[13,26],[13,27],[13,28],[13,29],[13,32],[13,33],[13,39]]},{"n":"Uriah","k":19,"h":[[11,3],[11,6],[11,7],[11,8],[11,9],[11,10],[11,11],[11,12],[11,14],[11,15],[11,16],[11,17],[11,21],[11,24],[11,26],[12,9],[12,10],[12,15],[23,39]]},{"n":"Jonathan","k":17,"h":[[1,4],[1,5],[1,12],[1,17],[1,22],[1,23],[1,25],[1,26],[4,4],[9,1],[9,3],[9,6],[9,7],[21,7],[21,12],[21,13],[21,14]]}],"places":[{"n":"Jerusalem","k":31,"h":[[5,5],[5,6],[5,13],[5,14],[8,7],[9,13],[10,14],[11,1],[11,12],[12,31],[14,23],[14,28],[15,8],[15,11],[15,14],[15,29],[15,37],[16,3],[16,15],[17,20],[19,16],[19,20],[19,26],[19,34],[19,35],[20,2],[20,3],[20,7],[20,22],[24,8],[24,16]]},{"n":"Hebron","k":21,"h":[[2,1],[2,3],[2,11],[2,32],[3,2],[3,5],[3,19],[3,20],[3,22],[3,27],[3,32],[4,1],[4,8],[4,12],[5,1],[5,3],[5,5],[5,13],[15,7],[15,9],[15,10]]},{"n":"Gath","k":8,"h":[[1,20],[15,18],[15,19],[15,22],[18,2],[21,19],[21,20],[21,22]]},{"n":"Gibeon","k":7,"h":[[2,12],[2,13],[2,16],[2,24],[3,30],[20,8],[21,9]]},{"n":"Bethlehem","k":6,"h":[[2,32],[21,19],[23,14],[23,15],[23,16],[23,24]]},{"n":"Mahanaim","k":6,"h":[[2,8],[2,12],[2,29],[17,24],[17,27],[19,33]]},{"n":"Bahurim","k":5,"h":[[3,16],[16,5],[17,18],[19,17],[23,31]]},{"n":"Beersheba","k":5,"h":[[3,10],[17,11],[24,2],[24,7],[24,15]]}],"patterns":[{"n":"“And it came to pass …”","h":[[1,1],[1,2],[2,1],[2,11],[3,6],[6,13],[7,1],[7,4],[8,1],[10,1],[11,1],[11,2],[11,14],[11,16],[12,18],[13,1],[13,23],[13,30],[13,36],[15,1],[15,7],[15,32],[16,16],[17,21],[17,27],[19,10],[19,26],[21,1],[21,18]]},{"n":"“Thus says the LORD”","h":[[7,5],[7,8],[12,7],[12,11],[24,12]]},{"n":"“the LORD of Armies”","h":[[6,2],[6,18],[7,8],[7,26],[7,27]]},{"n":"“As surely as the LORD lives”","h":[[4,9],[12,5],[14,11],[15,21],[22,47]]}],"purpose":[],"links":[{"n":"Psalms","k":146,"page":"../psalms.html"},{"n":"1 Samuel","k":91,"page":"1-samuel.html"},{"n":"1 Chronicles","k":55,"page":"1-chronicles.html"},{"n":"1 Kings","k":38,"page":"1-kings.html"},{"n":"Isaiah","k":34,"page":"isaiah.html"},{"n":"Deuteronomy","k":27,"page":"deuteronomy.html"},{"n":"Matthew","k":21,"page":"matthew.html"},{"n":"Proverbs","k":21,"page":"../proverbs.html"}],"near":[{"n":"1 Samuel","sim":0.521,"page":"1-samuel.html"},{"n":"1 Chronicles","sim":0.512,"page":"1-chronicles.html"},{"n":"1 Kings","sim":0.304,"page":"1-kings.html"}],"first":[1,1],"last":[24,25],"quotes":{"1:1":"After the death of Saul, when David had come back from defeating the Amalekites, David stayed in Ziklag for two days.","24:25":"David built an altar to the LORD there and offered burnt offerings and fellowship offerings. Then the LORD answered prayers for the land, and the plague was held back from Israel."},"about":{"author":"Unknown","self":"The book names no author.","date":"Events c. 1010–970 BC; written later","to":"Israel","kind":"Narrative","theme":"David's reign: the covenant with David, his sin, and its cost to his house"}}</script>
+<script>
+(() => {
+  const D = JSON.parse(document.getElementById("data").textContent);
+  const $ = id => document.getElementById(id);
+  const T = s => (window.I18N ? I18N.t(s) : s);
+  const fmt = (s, vars) => (window.I18N ? I18N.t(s, vars) : s.replace(/\{(\w+)\}/g, (m, k) => vars[k]));
+  const NS = "http://www.w3.org/2000/svg";
+  const svg = (tag, attrs = {}, ...kids) => { const n = document.createElementNS(NS, tag); for (const k in attrs) n.setAttribute(k, attrs[k]); n.append(...kids); return n; };
+  const el = (tag, attrs = {}, ...kids) => { const n = document.createElement(tag); for (const k in attrs) { if (k === "text") n.textContent = attrs[k]; else if (k.startsWith("on")) n.addEventListener(k.slice(2), attrs[k]); else if (attrs[k] != null) n.setAttribute(k, attrs[k]); } n.append(...kids.filter(x => x != null)); return n; };
+  const OT = D.t === "OT";
+  const multi = D.chapters > 1;
+  const U = D.units;                                   // chapters, or the verses of a one-chapter book
+  const unitOf = (c, v) => U.indexOf(multi ? c : v);
+  const ref = (c, v) => (multi ? `${c}:${v}` : String(v));
+  const fullRef = (c, v) => `${T(D.book)} ${ref(c, v)}`;
+  const readerHash = (c, v) => `../index.html#${D.book.toLowerCase().replace(/ /g, "-")}-${c}${v ? "-" + v : ""}`;
+  const rest = T(OT ? "Rest of the Old Testament" : "Rest of the New Testament");
+  // A verse's place in the book, 0 to 1, for lanes.
+  const before = []; D.vc.reduce((a, n, i) => { before[i] = a; return a + n; }, 0);
+  const at = (c, v) => (multi ? (before[c - 1] + v - 0.5) / D.verses : (v - 0.5) / D.verses);
+
+  document.title = `${T(D.book)} · ${T("Visual Bible")}`;
+  $("title").textContent = T(D.book);
+  $("lede").textContent = fmt(OT ? "{c} chapters · {v} verses · {w} words in Hebrew. Every chart counts the book's own words; tap any mark to read its verses."
+    : "{c} chapters · {v} verses · {w} words in Greek. Every chart counts the book's own words; tap any mark to read its verses.",
+    { c: D.chapters, v: D.verses.toLocaleString(), w: D.words.toLocaleString() });
+  if (!multi) $("lede").textContent = fmt(OT ? "{v} verses · {w} words in Hebrew. Every chart counts the book's own words; tap any mark to read its verses."
+    : "{v} verses · {w} words in Greek. Every chart counts the book's own words; tap any mark to read its verses.", { v: D.verses, w: D.words.toLocaleString() });
+  $("words-sub").textContent = T(OT ? "The words this book uses far more than the rest of the Old Testament does, for every 1,000 of its words in Hebrew; the tick marks the rest of the Old Testament. Tap a word to follow it through the book."
+    : "The words this book uses far more than the rest of the New Testament does, for every 1,000 of its words in Greek; the tick marks the rest of the New Testament. Tap a word to follow it through the book.");
+  $("rest-key").textContent = rest;
+  $("heat-sub").textContent = T(multi ? "Each row is one of its words, each column a chapter; the darker the cell, the more often the word comes there for the chapter's length. Tap a cell to read its verses."
+    : "Each row is one of its words, each column a verse; a cell is filled where the word comes. Tap a cell to read the verse.");
+  $("voices-sub").textContent = T(multi ? "The person of every verb and pronoun, chapter by chapter: “I”, “we”, “you”, and “he, she, they”. Where “I” and “you” rise, someone is speaking to someone."
+    : "The person of every verb and pronoun, verse by verse: “I”, “we”, “you”, and “he, she, they”.");
+  $("sources").textContent = T(OT ? "Counted from the Hebrew and Aramaic of the Leningrad Codex with STEPBible's tagged text (CC BY 4.0); people and places from the site's own lists; cross-references from OpenBible.info (CC BY). The verses shown are the Open Plain English Translation, a draft. Words are grouped by Strong's number, not by interpretation."
+    : "Counted from the SBL Greek New Testament with STEPBible's tagged text (CC BY 4.0); people and places from the site's own lists; cross-references from OpenBible.info (CC BY). The verses shown are the Open Plain English Translation, a draft. Words are grouped by Strong's number, not by interpretation.");
+
+  /* The verses, loaded when first needed */
+  let TEXT = null;
+  const plain = s => (s || "").replace(/\[\^\w+\]/g, "").replace(/\*/g, "").trim();
+  async function text() {
+    if (TEXT) return TEXT;
+    const r = await fetch(`../data/bible/text/${D.slug}.json`);
+    const j = await r.json();
+    TEXT = new Map();
+    for (const ch of j.chapters) for (const row of ch.v) TEXT.set(ch.c + ":" + row[0], plain(row[1]));
+    return TEXT;
+  }
+
+  /* The card: a title, a few words, and the verses */
+  async function open(title, hits, extra, tags) {
+    $("card-title").textContent = title;
+    $("card-body").replaceChildren(el("p", { class: "more", text: "…" }));
+    $("card").hidden = false;
+    let map;
+    try { map = await text(); } catch (e) { map = new Map(); }
+    const shown = hits.slice(0, 40);
+    $("card-body").replaceChildren(...[extra, tags].filter(Boolean),
+      el("ul", { class: "vl", translate: "no", lang: "en" }, ...shown.map(([c, v]) => el("li", {}, el("a", { href: readerHash(c, v) }, el("b", { text: ref(c, v) }), map.get(c + ":" + v) || "")))),
+      ...(hits.length > shown.length ? [el("p", { class: "more", text: fmt("and {n} more", { n: hits.length - shown.length }) })] : []),
+      el("a", { class: "go", href: readerHash(hits[0][0], hits[0][1]), text: T("Read it in context") }));
+  }
+  $("card").querySelector("[data-close]").onclick = () => { $("card").hidden = true; };
+  addEventListener("keydown", e => { if (e.key === "Escape") $("card").hidden = true; });
+  const inUnit = (hits, i) => hits.filter(([c, v]) => unitOf(c, v) === i);
+  const unitName = i => (multi ? `${T(D.book)} ${U[i]}` : fullRef(1, U[i]));
+
+  /* The words it uses most */
+  let focus = null;
+  const max = Math.max(...D.themes.map(t => Math.max(t.r, t.rest)));
+  function bars() {
+    $("bars").replaceChildren(...D.themes.map(t => {
+      const pct = x => (100 * x / max).toFixed(1) + "%";
+      return el("button", { class: "bar", type: "button", style: `--c:${t.c}`, "aria-pressed": String(focus === t.id),
+        title: `${T(t.n)}: ${t.k} · ${t.r} / 1,000 · ${rest} ${t.rest}`,
+        onclick: () => { focus = focus === t.id ? null : t.id; bars(); heat(); } },
+        el("span", { class: "lab", text: T(t.n) }),
+        el("span", { class: "track" }, el("span", { class: "fill", style: `width:${pct(t.r)}` }), el("span", { class: "tick nt", style: `left:${pct(t.rest)}` })),
+        el("span", { class: "n", text: String(t.k) }));
+    }));
+  }
+
+  /* Through the book: words × chapters */
+  const LW = 108;
+  const cellW = box => Math.max(multi ? 7 : 6, Math.min(28, ((box.clientWidth || 340) - 28 - LW) / U.length));
+  function heat() {
+    const box = $("heat"), cw = cellW(box), rh = 18, n = U.length, rows = D.themes;
+    const w = LW + n * cw + 4, h = rows.length * rh + 20;
+    const s = svg("svg", { class: "vis", width: w, height: h, viewBox: `0 0 ${w} ${h}`, role: "img", "aria-label": T("Through the book") });
+    rows.forEach((t, r) => {
+      const dens = t.by.map((k, i) => (D.uw[i] ? k / D.uw[i] : 0));
+      const top = Math.max(...dens) || 1;
+      const dim = focus && focus !== t.id;
+      s.append(svg("text", { x: LW - 6, y: r * rh + 12.5, "text-anchor": "end", class: "lab" + (dim ? " dim" : "") }, T(t.n)));
+      s.append(svg("rect", { x: LW, y: r * rh + 2, width: n * cw, height: rh - 4, rx: 2, fill: "var(--line)", opacity: 0.35 }));
+      dens.forEach((d, i) => {
+        if (!t.by[i]) return;
+        const c = svg("rect", { class: "cell" + (dim ? " dim" : ""), x: LW + i * cw + 0.5, y: r * rh + 2, width: Math.max(1, cw - 1), height: rh - 4, rx: 1.5,
+          fill: t.c, "fill-opacity": (0.18 + 0.82 * d / top).toFixed(2) });
+        c.append(svg("title", {}, `${unitName(i)} · ${T(t.n)} ×${t.by[i]}`));
+        c.onclick = () => open(`${unitName(i)} · ${T(t.n)}`, inUnit(t.h, i));
+        s.append(c);
+      });
+    });
+    const step = n > 40 ? 10 : n > 15 ? 5 : 1;
+    U.forEach((u, i) => { if (i === 0 || u % step === 0) s.append(svg("text", { x: LW + i * cw + cw / 2, y: h - 4, "text-anchor": "middle" }, String(u))); });
+    box.replaceChildren(s);
+  }
+
+  /* Lanes: a line through the book, a mark at each verse */
+  function lane(label, small, hits, color, onLabel) {
+    const W = 300, H = 26, pad = 4;
+    const s = svg("svg", { class: "vis", viewBox: `0 0 ${W} ${H}`, preserveAspectRatio: "none" });
+    s.append(svg("line", { x1: 0, x2: W, y1: H / 2, y2: H / 2, stroke: "var(--line)", "stroke-width": 2 }));
+    if (multi && D.chapters <= 60) D.vc.slice(1).forEach((_, i) => { const x = pad + (W - 2 * pad) * before[i + 1] / D.verses; s.append(svg("line", { x1: x, x2: x, y1: 8, y2: H - 8, stroke: "var(--faint)", "stroke-width": 0.6, opacity: 0.6 })); });
+    // Marks grouped by unit, so a tap reads that chapter's verses.
+    const groups = new Map();
+    for (const [c, v] of hits) { const i = unitOf(c, v); if (!groups.has(i)) groups.set(i, []); groups.get(i).push([c, v]); }
+    for (const [c, v] of hits) {
+      const x = pad + (W - 2 * pad) * at(c, v);
+      s.append(svg("rect", { x: x - 1, y: 5, width: 2, height: H - 10, rx: 1, fill: color, "pointer-events": "none" }));
+    }
+    for (const [i, hs] of groups) {
+      const [c0, v0] = hs[0], [c1, v1] = hs[hs.length - 1];
+      const x0 = pad + (W - 2 * pad) * at(c0, v0), x1 = pad + (W - 2 * pad) * at(c1, v1);
+      const g = svg("rect", { class: "hit", x: Math.min(x0, x1) - 5, y: 0, width: Math.abs(x1 - x0) + 10, height: H, role: "button", "aria-label": unitName(i) });
+      g.style.cursor = "pointer";
+      g.onclick = () => open(`${unitName(i)} · ${T(label)}`, hs);
+      s.append(g);
+    }
+    const lab = el("div", { class: "lab", style: `color:${color}` }, T(label), small ? el("small", { text: small }) : null);
+    if (onLabel) { lab.style.cursor = "pointer"; lab.setAttribute("role", "button"); lab.tabIndex = 0; lab.onclick = onLabel; }
+    return el("div", { class: "lane" }, lab, s);
+  }
+  const PCOL = ["#2646a1", "#c0392b", "#16a085", "#d4a017", "#7d3c98", "#e67e22", "#5d6d7e", "#27ae60", "#a04000", "#1f618d"];
+  const times = n => fmt("{n} verses", { n });
+  function people() {
+    if (!D.people.length) return;
+    $("s-people").hidden = false;
+    $("people").replaceChildren(...D.people.map((p, i) => lane(p.n, times(p.k), p.h, PCOL[i % PCOL.length], () => open(T(p.n), p.h))));
+  }
+  function places() {
+    if (!D.places.length) return;
+    $("s-places").hidden = false;
+    $("places").replaceChildren(...D.places.map((p, i) => lane(p.n, times(p.k), p.h, PCOL[(i + 3) % PCOL.length], () => open(T(p.n), p.h))));
+  }
+  function patterns() {
+    if (!D.patterns.length) return;
+    $("s-patterns").hidden = false;
+    $("patterns").replaceChildren(...D.patterns.map(p => lane(p.n, times(p.h.length), p.h, "var(--lapis)", () => open(T(p.n), p.h))));
+  }
+
+  /* Who speaks, and to whom */
+  const VO = [["I", "#c0392b", "“I”"], ["we", "#d4a017", "“we”"], ["you", "#2e86c1", "“you”"], ["they", "#8d95a4", "“he, she, they”"]];
+  function voices() {
+    $("voices-key").replaceChildren(...VO.map(([k, c, l]) => el("span", {}, el("i", { style: `background:${c}` }), T(l))));
+    const box = $("voices"), cw = cellW(box), H = 90, n = U.length, w = LW + n * cw + 4;
+    const s = svg("svg", { class: "vis", width: w, height: H + 20, viewBox: `0 0 ${w} ${H + 20}` });
+    ["100%", "50%", "0%"].forEach((l, i) => s.append(svg("text", { x: LW - 6, y: 8 + i * (H - 4) / 2, "text-anchor": "end" }, l)));
+    U.forEach((u, i) => {
+      const vo = D.vo[i], tot = VO.reduce((a, [k]) => a + (vo[k] || 0), 0) || 1;
+      let y = 4;
+      const g = svg("g", { class: "col", role: "button", tabindex: "0", "aria-label": unitName(i) });
+      g.append(svg("rect", { class: "hit", x: LW + i * cw, y: 0, width: cw, height: H + 4 }));
+      for (const [k, col] of VO) {
+        const hh = (H - 4) * (vo[k] || 0) / tot;
+        if (hh) g.append(svg("rect", { x: LW + i * cw + 0.5, y, width: Math.max(1, cw - 1), height: hh, fill: col }));
+        y += hh;
+      }
+      g.append(svg("title", {}, `${unitName(i)} · ` + VO.map(([k, , l]) => `${T(l)} ${Math.round(100 * (vo[k] || 0) / tot)}%`).join(" · ")));
+      g.onclick = () => {
+        const v1 = multi ? [[u, 1]] : [[1, u]];
+        open(unitName(i), v1, el("p", { class: "also", text: VO.map(([k, , l]) => `${T(l)} ${Math.round(100 * (vo[k] || 0) / tot)}%`).join(" · ") }));
+      };
+      s.append(g);
+    });
+    const step = n > 40 ? 10 : n > 15 ? 5 : 1;
+    U.forEach((u, i) => { if (i === 0 || u % step === 0) s.append(svg("text", { x: LW + i * cw + cw / 2, y: H + 16, "text-anchor": "middle" }, String(u))); });
+    box.replaceChildren(s);
+  }
+
+  /* The books it is tied to */
+  function links() {
+    if (!D.links.length) return;
+    $("s-links").hidden = false;
+    const top = D.links[0].k;
+    $("links").replaceChildren(...D.links.map(l => {
+      const kids = [el("span", { class: "lab", text: T(l.n) }), el("span", { class: "track" }, el("span", { class: "fill", style: `width:${(100 * l.k / top).toFixed(1)}%` })), el("span", { class: "n", text: String(l.k) })];
+      return l.page ? el("a", { href: l.page }, ...kids) : el("div", {}, ...kids);
+    }));
+    $("near").replaceChildren(el("span", { style: "border:0;background:none;padding:0;color:var(--muted);font-weight:500", text: T("Nearest in wording:") }),
+      ...D.near.map(b => (b.page ? el("a", { href: b.page, text: T(b.n) }) : el("span", { text: T(b.n) }))));
+  }
+
+  /* At a glance */
+  const ICONS = {
+    heart: '<path d="M12 20s-7-4.4-7-10a4 4 0 0 1 7-2.6A4 4 0 0 1 19 10c0 5.6-7 10-7 10Z"/>',
+    words: '<path d="M4 6h16M4 11h10M4 16h13"/>',
+    quote: '<path d="M7 7h4v4c0 3-1.5 5-4 6M14 7h4v4c0 3-1.5 5-4 6"/>',
+    voice: '<path d="M4 5h16v11H9l-5 4Z"/>',
+    people: '<circle cx="9" cy="8" r="3"/><circle cx="17" cy="9" r="2.5"/><path d="M3.5 19c.5-3.5 3-5 5.5-5s5 1.5 5.5 5M14.5 14.5c2.6-.3 5 .9 5.5 4"/>',
+    pin: '<path d="M12 21s-6-5.6-6-11a6 6 0 0 1 12 0c0 5.4-6 11-6 11Z"/><circle cx="12" cy="10" r="2.2"/>',
+    repeat: '<path d="M17 3l3 3-3 3"/><path d="M4 11V9a3 3 0 0 1 3-3h13M7 21l-3-3 3-3"/><path d="M20 13v2a3 3 0 0 1-3 3H4"/>',
+    link: '<path d="M10 14a4 4 0 0 0 5.7 0l3-3a4 4 0 0 0-5.7-5.7l-1 1"/><path d="M14 10a4 4 0 0 0-5.7 0l-3 3a4 4 0 0 0 5.7 5.7l1-1"/>',
+    start: '<path d="M5 4v16"/><path d="M5 5h11l-2 4 2 4H5"/>',
+  };
+  const icon = k => { const t = document.createElement("template"); t.innerHTML = `<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">${ICONS[k]}</svg>`; return t.content.firstChild; };
+  const refBtns = hits => el("div", { class: "refs" }, ...hits.slice(0, 8).map(([c, v]) => el("button", { type: "button", onclick: () => open(fullRef(c, v), [[c, v]]), text: ref(c, v) })));
+  function glance() {
+    const items = [];
+    const add = (ic, color, title, detail, extra) => items.push(el("li", { style: `--c:${color}` }, el("span", { class: "ic" }, icon(ic)),
+      el("div", {}, el("b", { text: title }), detail ? el("span", { text: detail }) : null, extra || null)));
+    const quote = ([c, v]) => el("q", { translate: "no", lang: "en", text: D.quotes[c + ":" + v] || "" });
+    if (D.purpose.length) {
+      const last = D.purpose[D.purpose.length - 1];
+      add("quote", "var(--lapis)", T("Why it was written, in its own words"), null, el("div", {}, quote(last), refBtns(D.purpose)));
+    } else {
+      add("start", "var(--lapis)", T("How it begins"), null, el("div", {}, quote(D.first), refBtns([D.first])));
+    }
+    const [t1, t2, t3] = D.themes;
+    if (t1) {
+      const x = t1.rest ? Math.round(t1.r / t1.rest) : 0;
+      add("heart", t1.c, fmt("Its word above all: {word}", { word: T(t1.n) }),
+        x >= 2 ? fmt(OT ? "{k} times — about {x} times as often as in the rest of the Old Testament." : "{k} times — about {x} times as often as in the rest of the New Testament.", { k: t1.k, x })
+          : fmt(OT ? "{k} times — more often than in the rest of the Old Testament." : "{k} times — more often than in the rest of the New Testament.", { k: t1.k }));
+    }
+    if (t2 && t3) add("words", t2.c, T("Its next words"), fmt("{a} ({ka}) and {b} ({kb}).", { a: T(t2.n), ka: t2.k, b: T(t3.n), kb: t3.k }));
+    if (D.people.length) add("people", "#16a085", T("Who is in it most"), D.people.slice(0, 4).map(p => `${T(p.n)} ×${p.k}`).join(" · "));
+    if (D.places.length) add("pin", "#a04000", T("Where it happens most"), D.places.slice(0, 4).map(p => `${T(p.n)} ×${p.k}`).join(" · "));
+    const vo = {}; for (const u of D.vo) for (const k in u) vo[k] = (vo[k] || 0) + u[k];
+    const tot = Object.values(vo).reduce((a, b) => a + b, 0) || 1;
+    const LABEL = { I: "“I”", we: "“we”", you: "“you”", they: "“he, she, they”" };
+    const order = Object.entries(vo).sort((a, b) => b[1] - a[1]);
+    if (order.length) {
+      // Most books tell of "he, she, they"; what stands out is how much "I" and "you" there is.
+      const second = order.find(([k]) => k !== "they");
+      add("voice", "#d4a017", order[0][0] === "they" && second ? fmt("Told mostly as {who}, then {who2}", { who: T(LABEL.they), who2: T(LABEL[second[0]]) }) : fmt("It speaks most as {who}", { who: T(LABEL[order[0][0]]) }),
+        Object.keys(LABEL).map(k => `${T(LABEL[k])} ${Math.round(100 * (vo[k] || 0) / tot)}%`).join(" · "));
+    }
+    if (D.patterns.length) add("repeat", "#2e86c1", T("Ways of speaking it repeats"), D.patterns.slice(0, 3).map(p => `${T(p.n)} ×${p.h.length}`).join(" · "));
+    if (D.links.length) add("link", "#5d6d7e", fmt("Most tied to {book}", { book: T(D.links[0].n) }),
+      fmt("{n} cross-references; then {rest}.", { n: D.links[0].k, rest: D.links.slice(1, 3).map(l => T(l.n)).join(", ") }));
+    if (D.purpose.length) add("start", "#7d3c98", T("How it begins"), null, el("div", {}, quote(D.first), refBtns([D.first])));
+    add("start", "#884ea0", T("How it ends"), null, el("div", {}, quote(D.last), refBtns([D.last])));
+    $("glance").replaceChildren(...items);
+  }
+
+  /* About this book */
+  function about() {
+    const A = D.about;
+    if (!A) return;
+    const IC = {
+      pen: '<path d="M4 20h4L19 9l-4-4L4 16Z"/><path d="m13.5 6.5 4 4"/>',
+      cal: '<rect x="3.5" y="5" width="17" height="15" rx="2.5"/><path d="M3.5 10h17M8 3v4M16 3v4"/>',
+      mail: '<rect x="3" y="5" width="18" height="14" rx="2.5"/><path d="m3.5 7 8.5 6 8.5-6"/>',
+      book: '<path d="M12 6.5C10 5 7 4.5 3.5 5v14c3.5-.5 6.5 0 8.5 1.5 2-1.5 5-2 8.5-1.5V5C17 4.5 14 5 12 6.5Z"/><path d="M12 6.5v14"/>',
+      star: '<path d="m12 3 2.6 5.6 6.1.7-4.5 4.2 1.2 6L12 16.6 6.6 19.5l1.2-6-4.5-4.2 6.1-.7Z"/>',
+    };
+    const row = (ic, label, value, small, cls) => el("div", { class: cls || null }, el("span", { class: "ic" }, (() => { const t = document.createElement("template"); t.innerHTML = `<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">${IC[ic]}</svg>`; return t.content.firstChild; })()),
+      el("div", {}, el("dt", { text: T(label) }), el("dd", {}, T(value), small ? el("small", { text: T(small) }) : null)));
+    $("about").replaceChildren(row("star", "Theme", A.theme, null, "theme wide"), row("pen", "Written by", A.author, A.self), row("cal", "When", A.date),
+      row("mail", "Written to", A.to), row("book", "Kind of writing", A.kind));
+    $("s-about").hidden = false;
+  }
+
+  about(); glance(); bars(); heat(); people(); places(); patterns(); voices(); links();
+  let rw = innerWidth;
+  addEventListener("resize", () => { if (Math.abs(innerWidth - rw) > 40) { rw = innerWidth; heat(); voices(); } });
+})();
+</script>
+
+</body>
+</html>

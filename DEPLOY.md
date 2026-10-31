@@ -102,7 +102,7 @@ python3 scripts/web3d.py         # web3d.html and data/web3d.json, the web laid 
 python3 scripts/wisdom.py        # psalms.html (types in data/psalms.csv) and proverbs.html, after reader.py and connections.py
 python3 scripts/referents.py     # data/bible/referents/: who "he" is, from MACULA (after reader.py; downloads once into .cache/macula/)
 python3 scripts/versions.py      # other versions to switch to (BSB, WEB, KJV, LSV, 和合本, 當代譯本) in data/bible/versions/ (after reader.py; downloads once into .cache/versions/)
-python3 scripts/visual.py        # the Visual Bible: visual/index.html and a page for each book made so far (1–3 John), after reader.py
+python3 scripts/visual.py        # the Visual Bible: visual/index.html and a page for every book (1–3 John from visual-letters.html, the rest from visual-book.html; Psalms and Proverbs keep their own pages), after reader.py
 python3 scripts/names_zh.py      # i18n/zh-Hant.names.js: people and places as the Chinese Union Version spells them (after connections.py; downloads once into .cache/cuv/)
 ```
 

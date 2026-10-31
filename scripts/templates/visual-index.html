@@ -40,7 +40,7 @@ div.book { opacity: .55; }
 <!-- APPBAR -->
 <main>
   <h1>Visual Bible</h1>
-  <p class="lede">Each book of the Bible seen whole, from its own words: what it says most, how it moves from start to end, who is in it and who speaks. No commentary: every chart counts the book's own words, and every mark leads to its verse. Books are added one at a time.</p>
+  <p class="lede">Each book of the Bible seen whole, from its own words: what it says most, how it moves from start to end, who is in it and who speaks. No commentary: every chart counts the book's own words, and every mark leads to its verse. Tap a book to open it.</p>
   <div id="parts"></div>
 </main>
 <!-- DATA -->
@@ -57,7 +57,7 @@ div.book { opacity: .55; }
     const books = D.books.slice(start, end);
     const made = books.filter(b => b.page).length;
     out.push(el("section", { class: "part" },
-      el("h2", {}, T(name), el("small", { text: made ? (window.I18N ? I18N.t("{n} of {m} ready", { n: made, m: books.length }) : `${made} of ${books.length} ready`) : "" })),
+      el("h2", {}, T(name), el("small", { text: made && made < books.length ? (window.I18N ? I18N.t("{n} of {m} ready", { n: made, m: books.length }) : `${made} of ${books.length} ready`) : "" })),
       el("div", { class: "books" }, ...books.map(b => b.page
         ? el("a", { class: "book", href: b.page, style: `--c:${color}` }, el("b", { text: T(b.n) }), el("small", { class: "open", text: T("Open") + " →" }))
         : el("div", { class: "book", style: `--c:${color}`, "aria-disabled": "true" }, el("b", { text: T(b.n) }), el("small", { text: T("Coming") }))))));
