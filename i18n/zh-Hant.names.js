@@ -2,6 +2,7 @@
 // (public domain) spells them. Written by scripts/names_zh.py: don't edit by hand;
 // corrections go in OVERRIDES there.
 I18N.add({
+"Abaddon":"亞巴頓",
 "Purim":"普珥",
 "Tebeth":"提別",
 "Sivan":"西彎",

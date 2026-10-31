@@ -688,6 +688,13 @@ Settled while drafting Job:
 | שַׁחַת (17:14) | 墳坑 | Noted: 或譯「朽壞」. |
 | גֹּאֲלִי (19:25) | 我的救贖者 | Long note: *go'el* (至近的親屬, as Ruth), 維護者／伸冤者, who is meant left open, 和合本「救贖主」. |
 | נָשָׂא פָנִים (13:8, 10) | 偏袒 | 「抬起他的臉」 noted. |
+| The speakers of 24–27 | As the Hebrew stands: Job speaks 23–24 and 26–31 | The debate noted at 24:18, 25:1, 26:5, 27:1, 27:13; 28 continues Job's speech (noted 28:1). |
+| נָשָׂא מְשָׁלוֹ (27:1; 29:1) | 繼續發表他的講論 | *mashal* noted. Job's speech 29–31 one quotation; 31:40 closes 」 before 約伯的話說完了. |
+| אֲבַדּוֹן | 亞巴頓 | As 啟示錄9章11節; noted 「毀滅」, 和合本「滅亡」 (26:6). |
+| רְפָאִים (the dead) | 陰魂 | Noted (26:5); the ancient people stay 利乏音人. |
+| סַפִּיר; שֹׁהַם; פִּטְדָה (Job 28) | 青金石；紅瑪瑙；貴橄欖石 | As Exodus 28; traditional names noted. |
+| יִרְאַת אֲדֹנָי … וְסוּר מֵרָע (28:28) | 敬畏主就是智慧，遠離惡事就是聰明 | Echoes 1:1 (敬畏神，遠離惡事); *Adonai* noted. |
+| Job's oath (Job 31) | 我若……，就願…… | Conditions left unfinished where the Hebrew leaves them (31:29–34), with ——. |
 
 ## Style
 
