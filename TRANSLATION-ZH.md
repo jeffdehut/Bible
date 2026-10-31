@@ -111,6 +111,7 @@ Settled while drafting Genesis:
 | מוֹעֲדִים | 節期 | |
 | Rivers | 希底結 (Tigris), 伯拉河 (Euphrates) | Union Version names; modern names in a note. |
 | מִצְרַיִם | 埃及 | Also where the Union Version has 麥西 (Genesis 10). |
+| צֹר; דַּמֶּשֶׂק | 推羅；大馬色 | The classic Union Version forms, as in its New Testament; not the 1989 edition's 泰爾, 大馬士革. |
 | אֵל עֶלְיוֹן; אֵל שַׁדַּי | 至高的神；全能的神 | Noted at first occurrence in each chapter (*El Elyon*; *El Shaddai*, meaning uncertain). |
 | בְּרִית; כָּרַת בְּרִית | 約；立約 | |
 | מַלְאַךְ יְהוָה | 耶和華的使者 | |
@@ -394,6 +395,44 @@ Settled while drafting 1 Samuel:
 | שָׂרֵי פְלִשְׁתִּים; סַרְנֵי פְלִשְׁתִּים | 非利士人的將領；非利士人的首領 | Kept apart (1 Samuel 29). |
 | גְּדוּד | （這幫）匪徒 | *gedud* noted (30:8). |
 | שָׁלָל; אִישׁ חַיִל | 掠物；勇士 | |
+
+Settled while drafting 2 Samuel:
+
+| Source | Rendering | Notes |
+|---|---|---|
+| 1 Samuel's terms | 耶和華的受膏者；求問耶和華；萬軍之耶和華 | Unchanged, with the same notes (1:14; 2:1; 6:2). |
+| David's lament (1:19–27) | Poetry without quotation marks | 1:18 ends with 《雅煞珥書》上：; the title 〈弓歌〉 in 〈〉, noted. |
+| הַצְּבִי (1:19) | 你的榮耀 | Noted: also 「羚羊」. |
+| אִישׁ־בֹּשֶׁת; מְפִיבֹשֶׁת | 伊施波設；米非波設 | *boshet* for *baal* noted (2:8; 4:4), with 伊施‧巴力, 米力‧巴力. |
+| חֹמֶשׁ | 肚腹 | Noted: traditionally 第五根肋骨 (2:23). |
+| מְצֻדַת צִיּוֹן; עִיר דָּוִד | 錫安的要塞；大衛城 | |
+| The blind and the lame (5:6–8) | 連瞎子和瘸子也能把你趕走；水道 | The other reading of 5:6, *tsinnor*, the ketiv and 「那殿」 noted. |
+| יְהוָה אֱלֹהֵי צְבָאוֹת | 耶和華萬軍之神 | *tseva'ot* noted (5:10). |
+| אֲדֹנָי יְהוִה | 主耶和華 | Noted at its first occurrence in each chapter (7:18). |
+| בַּיִת (2 Samuel 7) | 宮殿 (the king's)；殿宇 (for the LORD)；家室 (David's line) | The one word and the wordplay noted at 7:11. |
+| זֶרַע (7:12) | 後裔 | Noted: 「種子」. |
+| מַזְכִּיר; סוֹפֵר | 史官；書記 | Noted (8:16–17). |
+| הַכְּרֵתִי וְהַפְּלֵתִי | 基利提人和比利提人 | Noted: David's foreign guard (8:18). |
+| Chronicles parallels | 歷代志上…作「……」 | Wherever the English notes them. |
+| הֲדַדְעֶזֶר | 哈大底謝 | As the Union Version in Samuel and Kings (歷代志 has 哈大利謝). |
+| הַנָּהָר (10:16) | 大河 | As Joshua; noted: the Euphrates. |
+| נִבְאַשׁ בְּ | 惹……憎恨；使……憎恨你 | Noted: 「發臭」 (10:6; 16:21). |
+| בּוֹא אֶל (sexual) | 同房 | Noted: 「進到……那裏」 (3:7; 16:21). |
+| עִנָּה (2 Samuel 13) | 玷辱 | *innah* noted (13:12). |
+| נְבָלָה; נְבָלִים (13:12–13) | 醜惡的事；愚頑無恥的人 | As Judges 19:23; *nevalah* and the shared root noted. |
+| גֹּאֵל הַדָּם (14:11) | 報血仇的 | As Numbers 35; *go'el ha-dam* noted. |
+| מַלְאַךְ הָאֱלֹהִים (14:17, 20) | 神的使者 | Noted: 或譯「神的信差」. |
+| כִּכָּר | 他連得 | About 34 kg, noted (12:30). |
+| חֶסֶד (16:17, between friends) | 情義 | The glossary note on *chesed*. |
+| 19:1 (Union Version 18:33) | 我兒押沙龍啊！我兒，我兒押沙龍啊！ | Numbering noted at 18:32 and 19:1 (19:2–44 = 和合本 19:1–43). |
+| הַכּוּשִׁי (18:21–32) | 古實人 | Noted: 和合本 takes it as the name 古示. |
+| David's song (2 Samuel 22) | Poetry without quotation marks, one verse per line | 22:2 opens 他說：. Differences from Psalm 18 noted as 詩篇18篇3節（和合本作18篇2節）; Psalm 18 to follow this wording where the Hebrew is the same. |
+| סַלְעִי; מְצוּדָתִי; מִשְׂגַּבִּי; מָגִנִּי; קֶרֶן יִשְׁעִי (22:2–3) | 我的巖石；我的要塞；我的高臺；我的盾牌；我拯救的角 | צוּר stays 磐石. |
+| נְאֻם (23:1) | 宣告 | As Numbers 24; *ne'um* noted. David's last words (23:1–7) poetry. |
+| הַשְּׁלֹשָׁה; הַשְּׁלֹשִׁים (23:8–39) | 三個勇士；三十個勇士 | Ketiv/qere and *ha-shalishi* (軍官) noted. Names exactly as the Union Version; Chronicles differences noted. |
+| הָרָפָה (21:16–22) | 拉法的後代 | *ha-rapha* noted with 利乏音人; 和合本「偉人」. |
+| הוֹקִיעַ (21:6, 9, 13) | 處決 | Noted: uncertain (impale, hang, expose). |
+| הַמַּלְאָךְ (24:16–17) | 天使 | *mal'akh* noted; מַלְאַךְ יְהוָה stays 耶和華的使者. |
 
 ## Style
 
