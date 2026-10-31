@@ -2,6 +2,10 @@
 // (public domain) spells them. Written by scripts/names_zh.py: don't edit by hand;
 // corrections go in OVERRIDES there.
 I18N.add({
+"Behemoth":"比希摩",
+"Leviathan":"利維坦",
+"Keren-happuch":"基連‧哈樸",
+"Keziah":"基洗亞",
 "Abaddon":"亞巴頓",
 "Purim":"普珥",
 "Tebeth":"提別",
@@ -1041,7 +1045,7 @@ I18N.add({
 "Bani (Nehemiah 9.4)":"巴尼（尼希米記 9.4）",
 "Bar-jesus":"巴‧耶穌",
 "Barabbas":"巴拉巴",
-"Barachel":"巴拉迦",
+"Barachel":"巴拉迦別",
 "Barak":"巴拉",
 "Bariah":"巴利亞",
 "Barkos":"巴柯",

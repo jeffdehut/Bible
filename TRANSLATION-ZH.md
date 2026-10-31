@@ -695,6 +695,16 @@ Settled while drafting Job:
 | סַפִּיר; שֹׁהַם; פִּטְדָה (Job 28) | 青金石；紅瑪瑙；貴橄欖石 | As Exodus 28; traditional names noted. |
 | יִרְאַת אֲדֹנָי … וְסוּר מֵרָע (28:28) | 敬畏主就是智慧，遠離惡事就是聰明 | Echoes 1:1 (敬畏神，遠離惡事); *Adonai* noted. |
 | Job's oath (Job 31) | 我若……，就願…… | Conditions left unfinished where the Hebrew leaves them (31:29–34), with ——. |
+| Elihu's speeches (32:6–37:24) | 以利戶回答說 (32:6; 34:1; 35:1)；以利戶接着說 (36:1) | Each section a quotation closed at its end; 36 runs on into 37. 巴拉迦別 (32:2), the classic form; the 1989 text has 巴拉迦. |
+| שַׁחַת (Job 33) | 墳坑 | As 17:14, noted 或譯「朽壞」. *shelach* 死亡之河 (33:18; 36:12), 「刀」 noted. |
+| מַלְאָךְ מֵלִיץ (33:23) | 天使作中間人 | *melits* noted, with 16:20. |
+| סְעָרָה (38:1; 40:6) | 旋風 | 「暴風」 noted. The LORD's speeches: 38:2–39:30 (closed), 40:2, 40:7–41:26 (40 left open). |
+| אֱזָר־נָא כְגֶבֶר חֲלָצֶיךָ (38:3; 40:7) | 你要像勇士一樣束腰；我要問你，你要指教我 | Identical in 38:3, 40:7 and 42:4. |
+| Animals (Job 38–39) | 野山羊、野驢、野牛 (*re'em*)、鴕鳥、鸛、鷂鷹 (*nets*)、鷹 (*nesher*) | As Leviticus 11; *re'em* noted 「獨角獸」. *shofar* 羊角號. |
+| בְּהֵמוֹת (40:15) | 比希摩 | Transliterated as 利維坦; *behemot*, hippopotamus or elephant, and 和合本「河馬」 noted. |
+| Numbering of Job 40–41 | 40:25–32 = 和合本 41:1–8；41:1–26 = 和合本 41:9–34 | Noted at 40:25 and 41:1. |
+| אֶמְאַס וְנִחַמְתִּי (42:6) | 我收回我的話，在塵土和爐灰中懊悔 | The other readings (我厭惡自己；不再在塵土和爐灰中哀哭；得了安慰) in a long note. |
+| שָׁב אֶת־שְׁבוּת (42:10) | 扭轉……的命運 | As Deuteronomy 30:3, noted. |
 
 ## Style
 
