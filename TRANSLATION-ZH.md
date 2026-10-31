@@ -822,6 +822,38 @@ Settled while drafting Proverbs:
 | NT quotations (25:21–22; 26:11) | The Hebrew in the text (恨你的人, 炭火) | Romans 12:20 (LXX: 「你的仇敵」, no bread and water, no 「耶和華也必賞賜你」) and 2 Peter 2:22 (first line only, with the sow proverb) in notes. |
 | Repeated sayings (e.g. 18:8 = 26:22; 22:3 = 27:12; 6:10–11 = 24:33–34) | Word for word the same | Noted where the English notes them. |
 
+Settled while drafting Ecclesiastes:
+
+| Source | Rendering | Notes |
+|---|---|---|
+| קֹהֶלֶת | 傳道者 | As the Union Version; *Qohelet* (from *qahal*), the Greek *Ekklesiastes* and the feminine form noted at 1:1; 7:27 (feminine verb) and 12:8 (*ha-qohelet*) noted. |
+| הֶבֶל | 虛空 | As the Union Version, every time, so the pattern shows (as the English keeps "vapor"); 1:2 notes *hevel* 「氣息、水氣」, Abel, 「一口氣」 (Psalm 39), and later chapters refer back. 6:12, 7:15, 9:9 「虛空的日子」, noted as 「短暫」. |
+| הֲבֵל הֲבָלִים (1:2; 12:8) | 「虛空的虛空，」傳道者說，「虛空的虛空！一切都是虛空。」 | 12:8 the same words with the phrase once (「虛空的虛空，」傳道者說，「一切都是虛空。」), noted. |
+| תַּחַת הַשֶּׁמֶשׁ; תַּחַת הַשָּׁמַיִם | 日光之下；天下 | Noted at 1:3, 13. |
+| רְעוּת רוּחַ; רַעְיוֹן רוּחַ | 捕風 | Both; *re'ut ruach* noted at 1:14 (「追逐風」「牧放風」), *ra'yon* at 1:17. |
+| יִתְרוֹן; עָמָל; חֵלֶק | 益處 (勝過 in comparisons)；勞碌；份 | *yitron* noted 1:3, *cheleq* 2:10. |
+| עִנְיָן (רָע); מִקְרֶה | （苦）差事；遭遇 | 1:13; 2:14. |
+| כְּסִיל; סָכָל, סִכְלוּת, סֶכֶל; הוֹלֵלוֹת | 愚昧人；愚蠢人、愚蠢；狂妄 | 愚昧人 as Proverbs; the *sakhal* family kept apart as 愚蠢. |
+| אֵין טוֹב … מִ־/כִּי אִם | 人沒有甚麼比……更好的 | 2:24; 3:12, 22; 5:17; 8:15. |
+| Numbering of 4:17–5:19 | 4:17 = 和合本 5:1；5:1–19 = 和合本 5:2–20 | Noted at 4:17 and 5:1. |
+| Poetry (3:1–8; 12:1–7) | One verse per line, cola joined by ，； | 3:2–8 「……有時，……有時」. |
+
+Settled while drafting Song of Songs:
+
+| Source | Rendering | Notes |
+|---|---|---|
+| Speakers | In notes, as the English (「女子說話（「你」是陽性）」, 男子, 耶路撒冷的眾女子) | No headings in the text, though the 1989 Union Version prints them; the general note at 1:2. |
+| דּוֹדִי; רַעְיָתִי; דֹּדִים | 我的良人；我的佳偶；愛情 | The Union Version's names, noted 1:9, 13; *dodim* 1:2. *re'i* (5:16) 我的愛友. |
+| אֲחֹתִי כַלָּה | 我的妹子，我的新婦 | Noted 4:9. |
+| בְּנוֹת יְרוּשָׁלַםִ | 耶路撒冷的眾女子 | |
+| The refrain (2:7; 3:5; 8:4) | 耶路撒冷的眾女子啊，我指着羚羊或田野的母鹿，要你們起誓：不要驚動，不要喚醒愛情，等它自己情願。 | Identical; 8:4 without the oath by the animals, noted. |
+| צְבִי; עֹפֶר הָאַיָּלִים; אַיָּלוֹת | 羚羊；小鹿；母鹿 | |
+| Plants | 哪噠 (nard)、鳳仙花 (henna)、百合花、蘋果樹、番紅花、菖蒲、肉桂、沉香、風茄、核桃園 | Union Version names with the identification noted; חֲבַצֶּלֶת 水仙花 (2:1), not its 玫瑰花, noted. |
+| Stones (5:14–15) | 水蒼玉 (*tarshish*)；青金石 (*sappir*)；白玉石 (*shesh*) | As Exodus 28; notes. |
+| שׁוּלַמִּית | 書拉密女 | 7:1 noted. |
+| שַׁלְהֶבֶתְיָה (8:6) | 耶和華的烈焰 | *-yah* and the superlative reading in a long note. |
+| Numbering of 7:1–14 | 7:1 = 和合本 6:13；7:2–14 = 和合本 7:1–13 | Noted at 7:1. |
+
 ## Style
 
 **Characters and words.** Plain words over the Union Version's literary ones (吊下去, not 縋下來). Hong Kong standard forms: 裏 (not 裡), 着 for the particle (看着、
