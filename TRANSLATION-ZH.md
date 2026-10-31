@@ -521,7 +521,7 @@ Settled while drafting 2 Kings:
 | הֶעֱבִיר בָּאֵשׁ | 使……經火 | Noted: burned as a sacrifice (16:3; 17:17). |
 | 2 Kings 18:13–20:19 (Isaiah 36–39) | Isaiah to follow this wording where the Hebrew is the same | Differences noted as 以賽亞書36章5節作「……」; the parallel noted at 18:13, 19:1, 20:1. Rabshakeh's speech 「」, Hezekiah's message 『』, the king of Assyria's words unmarked (18:29–35). 19:21–28 poetry inside Isaiah's speech, Sennacherib's boast 『』. |
 | תַּרְתָּן; רַב־סָרִיס; רַב־שָׁקֵה | 他珥探；拉伯撒利；拉伯沙基 | Titles, transliterated as the Union Version; each noted (18:17), 拉伯沙基 「酒政長」. |
-| אֲשֶׁר עַל־הַבַּיִת | 宮廷總管 | As 10:5 (1 Kings 16:9; 18:3 have 王宮總管). |
+| אֲשֶׁר עַל־הַבַּיִת | 王宮總管 | As 10:5 (1 Kings 16:9; 18:3 have 王宮總管). |
 | אֲרָמִית; יְהוּדִית (18:26, 28) | 亞蘭語；猶大話 | 猶大話 noted: Hebrew. |
 | נְחֻשְׁתָּן; בְּרֹאדַךְ בַּלְאֲדָן | 尼忽士但；比羅達‧巴拉但 | Transliterated (和合本「銅塊」); the Hebrew's Berodach, with Isaiah's 米羅達 noted (20:12). |
 | בְּתוּלַת בַּת־צִיּוֹן; בַּת יְרוּשָׁלַםִ | 錫安的處女；耶路撒冷的女兒 | Noted (19:21). |
