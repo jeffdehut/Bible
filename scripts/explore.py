@@ -158,9 +158,9 @@ OFF = """<!doctype html>
 <meta charset="utf-8">
 <meta name="robots" content="noindex">
 <meta http-equiv="refresh" content="0; url=index.html">
-<title>Plain English Bible</title>
+<title>BibleData.org</title>
 </head>
-<body><p><a href="index.html">Plain English Bible</a></p></body>
+<body><p><a href="index.html">BibleData.org</a></p></body>
 </html>
 """
 

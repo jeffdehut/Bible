@@ -1,4 +1,4 @@
-// The site's menu: every part of the Plain English Bible, the same on every page.
+// The site's menu: every part of the BibleData.org, the same on every page.
 //
 // This file is the one list of destinations. In the reader (index.html) it fills the menu
 // sheet, giving each reader tool the id the reader's script listens for. On every other page it
@@ -178,7 +178,7 @@
 @media print { .sitenav-btn, .sitenav, .sitenav-scrim { display: none !important; } }`;
   document.head.append(css);
   const btn = document.createElement("button");
-  btn.type = "button"; btn.className = "sitenav-btn"; btn.setAttribute("aria-label", "Menu: every part of the Plain English Bible");
+  btn.type = "button"; btn.className = "sitenav-btn"; btn.setAttribute("aria-label", "Menu: every part of the BibleData.org");
   btn.setAttribute("aria-expanded", "false"); btn.setAttribute("aria-controls", "sitenav");
   btn.innerHTML = '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M4 7h16M4 12h16M4 17h16"/></svg>';
   // The menu is a panel of ui.js, as in the reader: a sheet from the bottom on phones, a panel
@@ -186,12 +186,12 @@
   const scrim = document.createElement("div");
   scrim.className = "ui-scrim sitenav-scrim"; scrim.hidden = true;
   const panel = document.createElement("nav");
-  panel.className = "ui-sheet sitenav"; panel.id = "sitenav"; panel.hidden = true; panel.setAttribute("aria-label", "Plain English Bible");
+  panel.className = "ui-sheet sitenav"; panel.id = "sitenav"; panel.hidden = true; panel.setAttribute("aria-label", "BibleData.org");
   const grab = document.createElement("div");
   grab.className = "ui-grab";
   const head = document.createElement("div");
   head.className = "sitenav-head ui-head";
-  head.innerHTML = '<b>Plain English Bible</b><button type="button" data-close aria-label="Close">✕</button>';
+  head.innerHTML = '<b>BibleData.org</b><button type="button" data-close aria-label="Close">✕</button>';
   const body = document.createElement("div");
   render(body);
   panel.append(grab, head, body);

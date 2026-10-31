@@ -68,7 +68,7 @@
     g.fillStyle = dark ? "#e9ecf3" : INK;
     g.font = `500 30px ${READ}`;
     g.textBaseline = "middle";
-    g.fillText("Plain English Bible", 140, y + 4);
+    g.fillText("BibleData.org", 140, y + 4);
     g.font = `600 24px ${SANS}`;
     g.fillStyle = dark ? "#9db3ff" : LAPIS;
     g.textAlign = "right";
