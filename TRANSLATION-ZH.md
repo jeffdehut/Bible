@@ -706,6 +706,28 @@ Settled while drafting Job:
 | אֶמְאַס וְנִחַמְתִּי (42:6) | 我收回我的話，在塵土和爐灰中懊悔 | The other readings (我厭惡自己；不再在塵土和爐灰中哀哭；得了安慰) in a long note. |
 | שָׁב אֶת־שְׁבוּת (42:10) | 扭轉……的命運 | As Deuteronomy 30:3, noted. |
 
+Settled while drafting Psalms:
+
+| Source | Rendering | Notes |
+|---|---|---|
+| Psalm titles | Part of verse 1 (or 1–2), in the Hebrew order, each element ending 。: 交給詩班長。用絲弦的樂器。大衛的詩。 | Noted once per psalm at the title: 希伯來文以標題為第1節，所以第2至9節和合本作3篇1至8節. A title sharing its verse with the first line (11; 14; 15) noted as keeping the Union Version's numbers. Psalm references in notes: 19篇15節. |
+| לַמְנַצֵּחַ | 交給詩班長 | *lamenatseach* noted at its first occurrence in each psalm, with 和合本「交與伶長」. |
+| מִזְמוֹר לְדָוִד; לְדָוִד (alone) | 大衛的詩；屬大衛的 | 「或譯『為大衛作的』、『關於大衛的』」 noted in each psalm; *mizmor* noted (3:1). |
+| שִׁיר; תְּהִלָּה; תְּפִלָּה; שִׁיר הַמַּעֲלוֹת | 歌；讚美詩；禱告；上行之詩 | For later psalms. |
+| שִׁגָּיוֹן; הִגָּיוֹן; מַשְׂכִּיל; מִכְתָּם | 示迦庸；希迦庸；瑪斯基勒；米克坦 | Meaning uncertain, so transliterated; the Hebrew and the Union Version's 流離歌, 訓誨詩, 金詩 in a note. |
+| בִּנְגִינוֹת | 用絲弦的樂器 | Meaning known, translated. |
+| Terms of uncertain meaning: עַל־הַשְּׁמִינִית; אֶל־הַנְּחִילוֹת; עַל־הַגִּתִּית; עַלְמוּת לַבֵּן | 按照舍米尼；用尼希錄；按照基提；按照慕拉便 | 按照 for עַל, 用 for אֶל and בְּ; the Union Version's 調用第八, 用吹的樂器, 用迦特樂器 in the note. |
+| Tune names whose meaning is known (22:1, 56:1) | 調用「……」 | The name translated inside 「」. |
+| סֶלָה | 細拉 | Its own word after the line's 。 (「……。細拉。」), wherever the Hebrew has it; *selah* noted at its first occurrence in each psalm. |
+| אַשְׁרֵי | 多麼有福；有福 | *ashrei* noted at its first occurrence in each psalm, kept apart from בָּרוּךְ 蒙福. |
+| חֶסֶד; חָסִיד | 慈愛；忠誠的人、忠於他的人 | The glossary note on *chesed* at its first occurrence in each psalm; *chasid* noted with it. |
+| Divine names | 耶和華 (YHWH, noted in each psalm)；神 (Elohim, El, Eloah)；主 (Adonai)；至高者 (Elyon, noted)；萬軍之耶和華 | יְהוָה אֲדֹנֵינוּ 耶和華我們的主 (8:2). *Yah* alone 耶和華, noted; הַלְלוּ־יָהּ 你們要讚美耶和華, noted 「哈利路亞」. |
+| מְשִׁיחוֹ (2:2) | 他的受膏者 | Noted: the king; *mashiach* and 彌賽亞; Acts 4:25–27. |
+| New Testament quotations | The Hebrew in the text | A note only where the Septuagint or the New Testament reads differently (2:9; 4:5; 8:3, 6). |
+| Acrostics | Noted at the first verse | Psalms 9–10 (9:2; 10:1). |
+| עָנִי; עָנָו | 困苦人；謙卑人 | Kept apart, so a ketiv/qere between them is noted (9:13, 19; 10:12). Ketiv/qere differing only in form (5:9; 6:4; 10:5; 11:1) not noted. |
+| שָׁב שְׁבוּת (14:7) | 扭轉……的命運 | As Job 42:10; 「帶回被擄的」 noted. |
+
 ## Style
 
 **Characters and words.** Plain words over the Union Version's literary ones (吊下去, not 縋下來). Hong Kong standard forms: 裏 (not 裡), 着 for the particle (看着、
