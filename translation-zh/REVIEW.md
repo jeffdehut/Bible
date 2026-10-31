@@ -29,3 +29,4 @@ Found while drafting; not yet settled across books.
 - *ne'um YHWH*: settled as 耶和華說 (opening) / 這是耶和華說的 (closing) everywhere; Kings and Chronicles brought into line (Isaiah 1–12).
 - Isaiah 7:14 *almah*: 少女 in the text, 童女 (和合本, Matthew 1:23) in a note; Matthew 1:23 itself will read 童女 from the Greek *parthenos*.
 - Isaiah 13–27: animals of the ruins (13:21–22; 14:23 *qippod* 刺蝟, 和合本「箭豬」) are uncertain and rendered loosely; Kir-hareseth and Kir-heres (16:7, 11) both 吉珥‧哈列設 as the Union Version; 23:10 and 24:16 (*razi li*) rest on uncertain Hebrew.
+- Isaiah 28–39: 28:10, 13 *tsav la-tsav* transliterated as 擦夫拉擦夫 (coined); 28:25, 27 spices as modern 蒔蘿、孜然 against 和合本「小茴香、大茴香」; 38:14 *sus agur* 雨燕或鶇鳥 uncertain. 39:6 *amar YHWH* rendered 這是耶和華說的 to match 2 Kings 20:17, which blurs the *ne'um*/*amar* line kept at Isaiah 22:14. Perazim 毗拉心 (as 2 Samuel 5:20) against the classic 毘.

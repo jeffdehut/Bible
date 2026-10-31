@@ -883,6 +883,16 @@ Settled while drafting Isaiah (for all the prophets):
 | נְאֻם יְהוָה mid-verse (14:22; 22:25) | 這是……說的 after a clause; 萬軍之耶和華說： opening a verse | 22:14 *amar* (not *ne'um*) closing: ……，主萬軍之耶和華說. |
 | לִוְיָתָן; תַּנִּין (27:1) | 利維坦；海怪 | As Job and Psalms; 和合本「鱷魚」 and Ugarit's Litan noted. |
 | NT quotations (22:13; 25:8) | The Hebrew in the text | 22:13 1 Corinthians 15:32 agrees (LXX); 25:8 1 Corinthians 15:54 passive 「死亡被吞滅，得了勝利」 (*lanetsach* as victory) and the Septuagint's different line noted. |
+| צַו לָצָו … קַו לָקָו (28:10, 13) | 「擦夫拉擦夫……卡夫拉卡夫，這裏一點，那裏一點」 | Transliterated as babble; 「命令上加命令……準繩上加準繩」 and 和合本 noted. |
+| פִּנַּת יִקְרַת מוּסָד מוּסָּד (28:16) | 寶貴的房角石，是穩固的根基 | 房角石 as Job 38:6 and 1 Peter 2:6; Psalm 118:22 *rosh pinnah* stays 房角的基石. Romans 9:33; 10:11 and 1 Peter 2:6 (Septuagint 「不至於羞愧」, 「信靠他」) noted. |
+| NT quotations (28:11–12; 28:16; 29:13–14; 35:3) | The Hebrew in the text | 29:13 shares Mark 7:6's 「用嘴唇尊敬我，心卻遠離我」; Paul's first person (1 Corinthians 14:21), Mark 7:7 (LXX), 1 Corinthians 1:19, Hebrews 12:12 in notes. |
+| אֲרִיאֵל (29:1–7) | 亞利伊勒 | The name; 祭壇的爐臺 at 29:2 (Ezekiel 43:15) noted. |
+| אוֹב (29:4) | 亡魂 | The spirit called up; 招魂的 stays for the medium. |
+| אַשְׁרֵי (30:18; 32:20) | ……是有福的 | *ashrei* noted, as Psalms. |
+| רַהַב (30:7) | 拉哈伯 | As Job 9:13, noted as not 喇合. |
+| Animals of the ruins (34:11–15) | 13:21–22 and 14:23's names (曠野的走獸、鬣狗、野山羊、豺狼、鴕鳥、刺蝟); 鵜鶘、大鴞 as Leviticus 11; 黑鳶 (*dayyah*) | *lilit* 夜間的怪物, *qippoz* 貓頭鷹 (和合本「箭蛇」) noted. |
+| Isaiah 36–39 (2 Kings 18:13–20:19) | 2 Kings' wording wherever the Hebrew agrees | Differences noted as 列王紀下18章20節作「……」; Isaiah's names (米羅達‧巴拉但, 39:1). 39:6 *amar YHWH* follows Kings' 這是耶和華說的, noted as not *ne'um*. |
+| Hezekiah's psalm (38:9–20) | Poetry without quotation marks; 我曾說：「……」 for his quoted thoughts | *mikhtav* 所寫的 (*miktam* noted); *Yah* 耶和華; *bor* 下坑. |
 
 ## Style
 
