@@ -583,6 +583,13 @@ Settled while drafting 2 Chronicles:
 | מַעַל | 不忠 | *ma'al* noted (12:2): a key word in Chronicles. |
 | Records of prophets (9:29; 12:15) | 先知拿單的記錄；示羅人亞希雅的預言；先見易多的默示 | Statement form, as the Kings formula; 直譯「不是都寫在……上嗎？」 noted. |
 | כִּי טוֹב כִּי לְעוֹלָם חַסְדּוֹ | 因為他是美善的，他的慈愛永遠長存 | As 1 Chronicles 16:34 (5:13; 7:3). |
+| Parallels with Kings (2 Chronicles 13–24) | The wording of 1 Kings 15, 22 and 2 Kings 8, 11–12 wherever the Hebrew is the same | Regnal formulas as Kings (登基作猶大王；開始作王的時候是N歲；與他的祖先同睡，葬在大衛城); differences noted as 列王紀下11章6節作「……」. |
+| Numbering of 2 Chronicles 13–14 | 13:23 = 和合本 14:1；14:1–14 = 和合本 14:2–15 | Noted at 13:23 and 14:1. |
+| סֵפֶר הַמְּלָכִים לִיהוּדָה וְיִשְׂרָאֵל; סֵפֶר מַלְכֵי יִשְׂרָאֵל | 《猶大和以色列諸王記》；《以色列諸王記》 | 16:11; 20:34. 「諸王的書」 noted. הִנָּם כְּתוּבִים 都寫在……上, 「看哪」 noted. |
+| מִדְרַשׁ | 註釋 | 先知易多的註釋 (13:22)；《諸王記》的註釋 (24:27); *midrash* noted. |
+| שְׂרֵפָה (at a king's burial) | 為他燒起極大的火 | Noted: a ceremonial fire of spices (16:14; 21:19). |
+| Names the Union Version harmonizes (2 Chronicles 13–24) | The Hebrew in the text | 俄德的預言 (15:8, 和合本 adds 亞撒利雅)；米迦 (18:14, 和合本「米該雅」)；亞捫人 (20:1, 和合本「米烏尼人」)；以色列王 (21:2, 和合本「猶大王」)；拉瑪 (22:6, 和合本「拉末」). |
+| הִזְנָה | 使……行邪淫 | 「賣淫」 noted as the image of unfaithfulness (21:11, 13). |
 
 ## Style
 

@@ -2,6 +2,14 @@
 // (public domain) spells them. Written by scripts/names_zh.py: don't edit by hand;
 // corrections go in OVERRIDES there.
 I18N.add({
+"Kenaanah":"基拿拿",
+"Imla":"音拉",
+"Jehoshabeath":"約示巴",
+"Dodavahu":"多大瓦",
+"Tob-adonijah":"駝‧巴多尼雅",
+"Ben-hail":"便‧亥伊勒",
+"Zephathah":"洗法",
+"Ephrain":"以法拉音",
 "Jakin":"雅斤",
 "Huram-abi":"戶蘭‧亞比",
 "Shirtai":"施爾太",
@@ -1075,7 +1083,7 @@ I18N.add({
 "Beor":"比珥",
 "Beor (Genesis 36.32)":"比珥（創世記 36.32）",
 "Beor (Numbers 22.5)":"比珥（民數記 22.5）",
-"Beracah":"基比亞",
+"Beracah":"比拉迦",
 "Berachah":"比拉迦",
 "Beraiah":"比拉雅",
 "Berea":"庇哩亞",
@@ -4048,7 +4056,7 @@ I18N.add({
 "Shimri (1 Chronicles 26.10)":"申利（歷代志上 26.10）",
 "Shimri (1 Chronicles 4.37)":"申利（歷代志上 4.37）",
 "Shimri (2 Chronicles 29.13)":"申利（歷代志下 29.13）",
-"Shimrith":"示米押",
+"Shimrith":"示米利",
 "Shimron":"伸崙",
 "Shimron-meron":"伸崙‧米崙",
 "Shimshai":"伸帥",
