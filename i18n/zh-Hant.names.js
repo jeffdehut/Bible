@@ -2,6 +2,10 @@
 // (public domain) spells them. Written by scripts/names_zh.py: don't edit by hand;
 // corrections go in OVERRIDES there.
 I18N.add({
+"Jezreelite":"耶斯列人",
+"Tishbite":"提斯比人",
+"Kerith":"基立溪",
+"Ethbaal":"謁巴力",
 "Kue":"古耶",
 "Chinnereth":"基尼烈",
 "Abishalom":"押沙龍",
@@ -3495,7 +3499,7 @@ I18N.add({
 "Ramathaim-zophim":"拉瑪‧瑣非",
 "Rameses":"蘭塞",
 "Ramoth":"拉末",
-"Ramoth-gilead":"拉末",
+"Ramoth-gilead":"基列的拉末",
 "Raphah":"拉法",
 "Raphu":"拉孚",
 "Reaia":"利亞雅",
