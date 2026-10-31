@@ -548,6 +548,14 @@ Settled while drafting 1 Chronicles:
 | נְתִינִים | 殿役 | Noted: *netinim*, 和合本「尼提寧」 (9:2). |
 | לֶחֶם הַמַּעֲרֶכֶת | 陳列的餅 | Noted as 供奉在神面前的餅, traditionally 陳設餅 (9:32). |
 | Parallels with Genesis, Joshua, Samuel | 創世記36章11節作「……」 | Wherever the English notes them. |
+| Parallels with Samuel (1 Chronicles 11–20) | 2 Samuel's wording wherever the Hebrew is the same | Differences noted as 撒母耳記下23章11節作「……」; the parallel noted at the start of each section. Names by the Union Version of Chronicles (哈大利謝, beside Samuel's 哈大底謝, noted at 18:3). |
+| הַגִּבּוֹרִים; הַשְּׁלֹשָׁה; הַשְּׁלוֹשִׁים; הַשָּׁלִישִׁים (qere) | 勇士；三個勇士；三十個勇士 (三十個首領 11:15)；軍官 | As 2 Samuel 23; ketiv/qere noted (11:11; 12:19). |
+| חוּרָם (qere, the king of Tyre, 14:1) | 戶蘭 | The Hebrew's form; 和合本「希蘭」 and the ketiv noted. |
+| Musical terms: נְבָלִים; כִּנֹּרוֹת; מְצִלְתַּיִם; חֲצֹצְרוֹת; שׁוֹפָר; תְּרוּעָה | 瑟；琴；鈸；號筒；羊角號；吶喊 | 鼓瑟彈琴, 敲鈸, 吹號筒. |
+| עַל־עֲלָמוֹת; עַל־הַשְּׁמִינִית (15:20–21) | 按着女高音的調子；按着第八調 | Both noted as uncertain, with the psalm titles. |
+| מַשָּׂא (15:22, 27) | 歌唱 | *massa* noted: lifting the voice, or carrying the ark. |
+| The psalm of 16:8–36 | Poetry without quotation marks, one verse per line | 16:7 ends with ：; differences from Psalms 105, 96, 106 noted as 詩篇105篇6節作「……」; those psalms to follow this wording where the Hebrew is the same. |
+| יְהוָה אֱלֹהִים (17:16–17) | 耶和華神 | 2 Samuel 7's 主耶和華 noted. |
 
 ## Style
 
