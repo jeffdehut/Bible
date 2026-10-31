@@ -641,6 +641,71 @@ Settled while drafting Nehemiah:
 | Names (Nehemiah 8–13) | The Union Version of Nehemiah, passage by passage | Even where it differs from Ezra or itself: 約撒達 (12:26, Ezra 約薩達), 哈疊 (11:34, 7:37 哈第), 撒迦利雅／撒迦利亞 (11:4, 12). 毘 for its 毗. |
 | תּוֹדֹת (12:31, 38, 40) | 稱謝的人（兩大隊） | Literal wording noted. |
 
+Settled while drafting Esther:
+
+| Source | Rendering | Notes |
+|---|---|---|
+| God in Esther | Not added | 4:14 「別處」 noted: the Hebrew book never names God; the Septuagint's additions. |
+| שׁוּשַׁן הַבִּירָה; הָעִיר שׁוּשָׁן | 書珊城堡；書珊城 | As Nehemiah 1:1. |
+| מְדִינָה; אֲחַשְׁדַּרְפְּנִים; פַּחוֹת; שָׂרֵי הַמְּדִינוֹת | 省；總督；省長；各省的首領 | As Ezra and Nehemiah; satraps noted at 3:12. |
+| שָׂרִים; פַּרְתְּמִים | 大臣；顯貴 | *partemim* noted (1:3; 6:9). |
+| סָרִיס | 太監 | *saris* noted at 1:10 (官員 in Kings). |
+| דָּת | 法令 (律例 for Haman's "their laws", 3:8) | *dat* noted (1:8). |
+| בֵּית הַנָּשִׁים; פִּילַגְשִׁים | 後宮；妃嬪 | 「婦女的房屋」 and *pilagshim* (elsewhere 妾) noted (2:3, 14). |
+| שַׁעַר הַמֶּלֶךְ | 王宮的大門（口） | Noted: where officials did business (2:19). |
+| עֵץ; תָּלָה | 木柱；掛在……上 | *ets* noted at 2:23: a pole or stake, traditionally 「木頭」, 「絞架」. |
+| הָרָצִים | 傳信的人 | As 2 Chronicles 30:6; 「奔跑的人」 noted (3:13). |
+| פַּתְשֶׁגֶן; פִּתְגָם | 副本；詔令 | Persian loanwords noted. |
+| שַׁרְבִיט הַזָּהָב | 金杖 | |
+| פּוּר; פּוּרִים | 普珥；普珥日 | *pur* 「籤」 noted (3:7; 9:26). |
+| הַיְּהוּדִים | 猶太人 | As Nehemiah 13:23 (和合本 猶大人). |
+| Months | 正月，就是尼散月；三月，就是西彎月；十月，就是提別月；十二月，就是亞達月 | Modern months noted. |
+| סֵפֶר דִּבְרֵי הַיָּמִים | 年鑒；《米底亞和波斯諸王記》 (10:2) | 「日子的事的書」 noted (2:23). |
+| Names where the Union Version harmonizes | The Hebrew in the text | 辟探拿 (6:2, 和合本「辟探」 as 2:21). |
+
+Settled while drafting Job:
+
+| Source | Rendering | Notes |
+|---|---|---|
+| Poetry (Job 3 onward) | One verse per line, its cola joined by ，；, speeches in 「」 | 「 reopened at each chapter of a speech that continues (5:1; 7:1); a voice quoted inside a speech 『』 (4:17–21). Prose frame (1–2; 42:7–17) as narrative. |
+| וַיַּעַן X וַיֹּאמַר | X回答說： | 3:2 約伯說：, 「回答說」 noted. |
+| הַשָּׂטָן (Job 1–2) | 撒但 | *ha-satan* noted at the first occurrence in each chapter: 「那敵對者、那控告者」, a title with the article; 或譯「那敵對者」; 1 Chronicles 21:1. |
+| בְּנֵי הָאֱלֹהִים | 神的兒子們 | As Genesis 6; noted (1:6; 2:1). |
+| בֵּרֵךְ for "curse" (1:5, 11; 2:5, 9) | 咒詛 | 直譯「祝福」 noted. |
+| תָּם וְיָשָׁר; תֻּמָּה | 完全正直；純全 | *tam* noted (1:1). |
+| אֱלוֹהַּ; אֵל; שַׁדַּי | 神；神；全能者 | *Eloah* and *Shaddai* noted at the first occurrence in each chapter. |
+| צַלְמָוֶת | 死蔭 | *tsalmavet* noted (3:5). |
+| לִוְיָתָן; תַּנִּין (7:12) | 利維坦；海怪 | 和合本「鱷魚」 noted (3:8). |
+| שְׁאוֹל | 陰間 | Glossary note (7:9). |
+| חֶסֶד (6:14) | 慈愛 | Glossary note. |
+| Speakers' openings | 書亞人比勒達回答說；拿瑪人瑣法回答說；提幔人以利法回答說 | A speech running on (9→10, 12→14, 16→17) leaves 」 off at the chapter's end. |
+| Job speaking to God inside a speech | No inner quotation marks | Noted where it starts (10:2; 13:20; 17:3), as in English. |
+| רַהַב (9:13) | 拉哈伯 | The sea monster, noted as not 喇合 (Joshua 2). |
+| עָשׁ, כְּסִיל, כִּימָה (9:9) | 北斗、參星、昴星 | Uncertain identifications noted; also for 38:31–32. |
+| מוֹכִיחַ (9:33) | 仲裁人 | *mokhiach* and the Septuagint's 「但願」 noted. |
+| תּוּשִׁיָּה | 真智慧 | As 5:12, noted (6:13; 11:6; 12:16). |
+| צַלְמָוֶת | 死蔭 | Noted at the first occurrence in each chapter (10:21; 12:22; 16:16). |
+| שַׁחַת (17:14) | 墳坑 | Noted: 或譯「朽壞」. |
+| גֹּאֲלִי (19:25) | 我的救贖者 | Long note: *go'el* (至近的親屬, as Ruth), 維護者／伸冤者, who is meant left open, 和合本「救贖主」. |
+| נָשָׂא פָנִים (13:8, 10) | 偏袒 | 「抬起他的臉」 noted. |
+| The speakers of 24–27 | As the Hebrew stands: Job speaks 23–24 and 26–31 | The debate noted at 24:18, 25:1, 26:5, 27:1, 27:13; 28 continues Job's speech (noted 28:1). |
+| נָשָׂא מְשָׁלוֹ (27:1; 29:1) | 繼續發表他的講論 | *mashal* noted. Job's speech 29–31 one quotation; 31:40 closes 」 before 約伯的話說完了. |
+| אֲבַדּוֹן | 亞巴頓 | As 啟示錄9章11節; noted 「毀滅」, 和合本「滅亡」 (26:6). |
+| רְפָאִים (the dead) | 陰魂 | Noted (26:5); the ancient people stay 利乏音人. |
+| סַפִּיר; שֹׁהַם; פִּטְדָה (Job 28) | 青金石；紅瑪瑙；貴橄欖石 | As Exodus 28; traditional names noted. |
+| יִרְאַת אֲדֹנָי … וְסוּר מֵרָע (28:28) | 敬畏主就是智慧，遠離惡事就是聰明 | Echoes 1:1 (敬畏神，遠離惡事); *Adonai* noted. |
+| Job's oath (Job 31) | 我若……，就願…… | Conditions left unfinished where the Hebrew leaves them (31:29–34), with ——. |
+| Elihu's speeches (32:6–37:24) | 以利戶回答說 (32:6; 34:1; 35:1)；以利戶接着說 (36:1) | Each section a quotation closed at its end; 36 runs on into 37. 巴拉迦別 (32:2), the classic form; the 1989 text has 巴拉迦. |
+| שַׁחַת (Job 33) | 墳坑 | As 17:14, noted 或譯「朽壞」. *shelach* 死亡之河 (33:18; 36:12), 「刀」 noted. |
+| מַלְאָךְ מֵלִיץ (33:23) | 天使作中間人 | *melits* noted, with 16:20. |
+| סְעָרָה (38:1; 40:6) | 旋風 | 「暴風」 noted. The LORD's speeches: 38:2–39:30 (closed), 40:2, 40:7–41:26 (40 left open). |
+| אֱזָר־נָא כְגֶבֶר חֲלָצֶיךָ (38:3; 40:7) | 你要像勇士一樣束腰；我要問你，你要指教我 | Identical in 38:3, 40:7 and 42:4. |
+| Animals (Job 38–39) | 野山羊、野驢、野牛 (*re'em*)、鴕鳥、鸛、鷂鷹 (*nets*)、鷹 (*nesher*) | As Leviticus 11; *re'em* noted 「獨角獸」. *shofar* 羊角號. |
+| בְּהֵמוֹת (40:15) | 比希摩 | Transliterated as 利維坦; *behemot*, hippopotamus or elephant, and 和合本「河馬」 noted. |
+| Numbering of Job 40–41 | 40:25–32 = 和合本 41:1–8；41:1–26 = 和合本 41:9–34 | Noted at 40:25 and 41:1. |
+| אֶמְאַס וְנִחַמְתִּי (42:6) | 我收回我的話，在塵土和爐灰中懊悔 | The other readings (我厭惡自己；不再在塵土和爐灰中哀哭；得了安慰) in a long note. |
+| שָׁב אֶת־שְׁבוּת (42:10) | 扭轉……的命運 | As Deuteronomy 30:3, noted. |
+
 ## Style
 
 **Characters and words.** Plain words over the Union Version's literary ones (吊下去, not 縋下來). Hong Kong standard forms: 裏 (not 裡), 着 for the particle (看着、
