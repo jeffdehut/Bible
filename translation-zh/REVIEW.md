@@ -12,3 +12,7 @@ Found while drafting; not yet settled across books.
   Shemer, Abihail…) keep one form; the text uses each passage's Union Version form.
 - Where the Leningrad Codex names a person or place differently from the Union Version, the text follows the
   Hebrew with the Union Version's form in a note (e.g. 1 Samuel 30:30, 2 Kings 20:12).
+- 毗 / 毘: both forms appear in names (毗 in Genesis, Judges, Samuel, 1 Chronicles; 毘 in 2 Kings, 1 Chronicles 5, Ezra).
+  Settle on one (the classic Union Version has 毘) and apply it everywhere, names table included.
+- Governors: Ezra uses 省長 for *pechah* and *tirshata* (和合本 總督 for Tattenai); check Haggai, Nehemiah and Daniel follow.
+- Siaha (Ezra 2:44): 西亞哈 against 和合本 西亞; doubtful.
