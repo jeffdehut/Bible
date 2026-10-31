@@ -2,6 +2,23 @@
 // (public domain) spells them. Written by scripts/names_zh.py: don't edit by hand;
 // corrections go in OVERRIDES there.
 I18N.add({
+"Purim":"普珥",
+"Tebeth":"提別",
+"Sivan":"西彎",
+"Nisan":"尼散",
+"Vaizatha":"瓦耶撒他",
+"Aridai":"亞利代",
+"Arisai":"亞利賽",
+"Parmashta":"帕瑪斯他",
+"Hadassah":"哈大沙",
+"Bigthan":"辟探",
+"Marsena":"瑪西拿",
+"Meres":"米力",
+"Admatha":"押瑪他",
+"Carshena":"甲示拿",
+"Carkas":"甲迦",
+"Bigtha":"比革他",
+"Biztha":"比斯他",
 "Achmetha":"亞馬他",
 "Mispar":"米斯拔",
 "Asnah":"押拿",

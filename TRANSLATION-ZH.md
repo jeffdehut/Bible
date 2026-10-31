@@ -641,6 +641,44 @@ Settled while drafting Nehemiah:
 | Names (Nehemiah 8–13) | The Union Version of Nehemiah, passage by passage | Even where it differs from Ezra or itself: 約撒達 (12:26, Ezra 約薩達), 哈疊 (11:34, 7:37 哈第), 撒迦利雅／撒迦利亞 (11:4, 12). 毘 for its 毗. |
 | תּוֹדֹת (12:31, 38, 40) | 稱謝的人（兩大隊） | Literal wording noted. |
 
+Settled while drafting Esther:
+
+| Source | Rendering | Notes |
+|---|---|---|
+| God in Esther | Not added | 4:14 「別處」 noted: the Hebrew book never names God; the Septuagint's additions. |
+| שׁוּשַׁן הַבִּירָה; הָעִיר שׁוּשָׁן | 書珊城堡；書珊城 | As Nehemiah 1:1. |
+| מְדִינָה; אֲחַשְׁדַּרְפְּנִים; פַּחוֹת; שָׂרֵי הַמְּדִינוֹת | 省；總督；省長；各省的首領 | As Ezra and Nehemiah; satraps noted at 3:12. |
+| שָׂרִים; פַּרְתְּמִים | 大臣；顯貴 | *partemim* noted (1:3; 6:9). |
+| סָרִיס | 太監 | *saris* noted at 1:10 (官員 in Kings). |
+| דָּת | 法令 (律例 for Haman's "their laws", 3:8) | *dat* noted (1:8). |
+| בֵּית הַנָּשִׁים; פִּילַגְשִׁים | 後宮；妃嬪 | 「婦女的房屋」 and *pilagshim* (elsewhere 妾) noted (2:3, 14). |
+| שַׁעַר הַמֶּלֶךְ | 王宮的大門（口） | Noted: where officials did business (2:19). |
+| עֵץ; תָּלָה | 木柱；掛在……上 | *ets* noted at 2:23: a pole or stake, traditionally 「木頭」, 「絞架」. |
+| הָרָצִים | 傳信的人 | As 2 Chronicles 30:6; 「奔跑的人」 noted (3:13). |
+| פַּתְשֶׁגֶן; פִּתְגָם | 副本；詔令 | Persian loanwords noted. |
+| שַׁרְבִיט הַזָּהָב | 金杖 | |
+| פּוּר; פּוּרִים | 普珥；普珥日 | *pur* 「籤」 noted (3:7; 9:26). |
+| הַיְּהוּדִים | 猶太人 | As Nehemiah 13:23 (和合本 猶大人). |
+| Months | 正月，就是尼散月；三月，就是西彎月；十月，就是提別月；十二月，就是亞達月 | Modern months noted. |
+| סֵפֶר דִּבְרֵי הַיָּמִים | 年鑒；《米底亞和波斯諸王記》 (10:2) | 「日子的事的書」 noted (2:23). |
+| Names where the Union Version harmonizes | The Hebrew in the text | 辟探拿 (6:2, 和合本「辟探」 as 2:21). |
+
+Settled while drafting Job:
+
+| Source | Rendering | Notes |
+|---|---|---|
+| Poetry (Job 3 onward) | One verse per line, its cola joined by ，；, speeches in 「」 | 「 reopened at each chapter of a speech that continues (5:1; 7:1); a voice quoted inside a speech 『』 (4:17–21). Prose frame (1–2; 42:7–17) as narrative. |
+| וַיַּעַן X וַיֹּאמַר | X回答說： | 3:2 約伯說：, 「回答說」 noted. |
+| הַשָּׂטָן (Job 1–2) | 撒但 | *ha-satan* noted at the first occurrence in each chapter: 「那敵對者、那控告者」, a title with the article; 或譯「那敵對者」; 1 Chronicles 21:1. |
+| בְּנֵי הָאֱלֹהִים | 神的兒子們 | As Genesis 6; noted (1:6; 2:1). |
+| בֵּרֵךְ for "curse" (1:5, 11; 2:5, 9) | 咒詛 | 直譯「祝福」 noted. |
+| תָּם וְיָשָׁר; תֻּמָּה | 完全正直；純全 | *tam* noted (1:1). |
+| אֱלוֹהַּ; אֵל; שַׁדַּי | 神；神；全能者 | *Eloah* and *Shaddai* noted at the first occurrence in each chapter. |
+| צַלְמָוֶת | 死蔭 | *tsalmavet* noted (3:5). |
+| לִוְיָתָן; תַּנִּין (7:12) | 利維坦；海怪 | 和合本「鱷魚」 noted (3:8). |
+| שְׁאוֹל | 陰間 | Glossary note (7:9). |
+| חֶסֶד (6:14) | 慈愛 | Glossary note. |
+
 ## Style
 
 **Characters and words.** Plain words over the Union Version's literary ones (吊下去, not 縋下來). Hong Kong standard forms: 裏 (not 裡), 着 for the particle (看着、
