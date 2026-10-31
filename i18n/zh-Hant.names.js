@@ -2,6 +2,10 @@
 // (public domain) spells them. Written by scripts/names_zh.py: don't edit by hand;
 // corrections go in OVERRIDES there.
 I18N.add({
+"Beth-haggan":"伯‧哈干",
+"Gur":"姑珥",
+"Bidkar":"畢甲",
+"Joram":"約蘭",
 "Jezreelite":"耶斯列人",
 "Tishbite":"提斯比人",
 "Kerith":"基立溪",

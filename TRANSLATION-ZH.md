@@ -485,6 +485,31 @@ Settled while drafting 1 Kings:
 | רוּחַ שֶׁקֶר (22:22–23) | 謊言的靈 | *ruach* noted. |
 | Numbering of 1 Kings 22 | 22:44–54 = 和合本 22:43b–53 | Noted at 22:44. |
 
+Settled while drafting 2 Kings:
+
+| Source | Rendering | Notes |
+|---|---|---|
+| 1 Kings' terms and regnal formulas | 與他的祖先同睡，與他的祖先一同葬在大衛城；猶大王X第N年，Y登基作王；X開始作王的時候是N歲；都寫在《以色列諸王記》／《猶大諸王記》上 | Unchanged; the burial note at its first occurrence in the book (8:24), the title note at its first occurrence in each chapter. A king of Judah 登基作王 where the Hebrew does not repeat 猶大 (8:16, 25). |
+| יְהוֹרָם; יוֹרָם | 約蘭 | Both forms of the name, for both kings, as the Union Version; noted (1:17; 8:16, 21; 9:15). |
+| בַּעַל זְבוּב | 巴力‧西卜 | Noted: 「蒼蠅之主」, mocking *Baal-zebul*; 別西卜 (馬可福音3章22節). |
+| דָּרַשׁ בְּ | 求問 | *darash be-* noted (1:2). |
+| שַׂר־חֲמִשִּׁים | 五十夫長 | |
+| חַי־יְהוָה וְחֵי־נַפְשְׁךָ | 我指着永活的耶和華，又指着你的性命起誓 | As 1 Samuel 25:26 (2:2; 4:30). |
+| אֲדֹנֶיךָ (a prophet's master) | 你的師傅 | 2:3, 5, 16. |
+| פִּי־שְׁנַיִם (2:9) | 加倍 | Noted: 「兩個口」, the firstborn's share. |
+| רֶכֶב יִשְׂרָאֵל וּפָרָשָׁיו (2:12) | 以色列的戰車和騎兵 | For 13:14 too. |
+| אַדֶּרֶת | 外衣 | |
+| מְצֹרָע | 患了嚴重的皮膚病；患嚴重皮膚病的人 | The glossary note at 5:1; 7:3 refers to it. |
+| אֲרָם | 亞蘭；亞蘭人 | Noted at 5:1: 傳統譯作「敘利亞」. |
+| שָׁלִישׁ | 軍官 | *shalish* noted (7:2; 9:25). |
+| סָרִיס | 官員 | Noted: also 太監 (8:6; 9:32). |
+| Units: סְאָה; קַב; כִּכָּר | 細亞；卡布；他連得 | Values in notes (約 7 公升；約 1.2 公升, 和合本「升」；約 34 公斤). |
+| חֲרֵי יוֹנִים / דִּבְיוֹנִים (6:25) | 鴿子糞 | Ketiv and the politer qere noted; perhaps a name for a cheap food. |
+| כֹּה יַעֲשֶׂה־לִּי אֱלֹהִים וְכֹה יוֹסִף (singular verb) | 願神重重懲罰我 | As Ruth 1:17 (6:31). |
+| נְאֻם־יְהוָה (in an oracle) | 這是耶和華的宣告 | *ne'um* noted (9:26). |
+| חֲגֹר מָתְנֶיךָ | 你束上腰 | Noted: tucking the robe into the belt (4:29; 9:1). |
+| הֲשָׁלוֹם (Jehu, 9:17–31) | 平安嗎？ | |
+
 ## Style
 
 **Characters and words.** Plain words over the Union Version's literary ones (吊下去, not 縋下來). Hong Kong standard forms: 裏 (not 裡), 着 for the particle (看着、
