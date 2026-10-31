@@ -150,6 +150,13 @@
     }
   }
   addEventListener("pointerup", release);
+  // A tucked panel comes back when it is tapped anywhere (its own tuck button aside).
+  document.addEventListener("click", ev => {
+    const sheet = ev.target.closest && ev.target.closest(".ui-sheet.tucked");
+    if (!sheet || ev.target.closest(".ui-tuck")) return;
+    ev.preventDefault(); ev.stopPropagation();
+    tuck(sheet, false);
+  }, true);
   addEventListener("pointercancel", release);
 
   window.UI = {
