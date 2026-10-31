@@ -1,67 +1,7 @@
 <title>Visual Bible · BibleData.org</title>
-<meta name="claude:viewport-fit-sides" content="cover">
-<meta name="description" content="Every book of the Bible seen whole, from its own words: pages of charts made for each book, with no commentary.">
-<link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Frank+Ruhl+Libre:wght@300..700&family=Libre+Franklin:wght@400;500;600;700&display=swap">
-<style>
-/* The Visual Bible: every book, and a page for each one made so far (scripts/visual.py). */
-:root {
-  --bg: #fbfaf7; --surface: #ffffff; --raised: #ffffff; --ink: #161b26; --muted: #5b6475; --faint: #8d95a4; --line: #e4e2db;
-  --lapis: #2646a1; --lapis-soft: #e7ecf8;
-  --read: "Frank Ruhl Libre", "Noto Serif", Georgia, serif;
-  --sans: "Libre Franklin", system-ui, -apple-system, "Segoe UI", sans-serif;
-}
-@media (prefers-color-scheme: dark) {
-  :root:not([data-theme="light"]) { --bg: #0d111b; --surface: #131a28; --raised: #172033; --ink: #e9ecf3; --muted: #a3acbd; --faint: #6f7a90; --line: #263047; --lapis: #9db3ff; --lapis-soft: #1c2650; color-scheme: dark; }
-}
-:root[data-theme="dark"] { --bg: #0d111b; --surface: #131a28; --raised: #172033; --ink: #e9ecf3; --muted: #a3acbd; --faint: #6f7a90; --line: #263047; --lapis: #9db3ff; --lapis-soft: #1c2650; color-scheme: dark; }
-* { box-sizing: border-box; }
-html { -webkit-text-size-adjust: 100%; }
-body { margin: 0; background: var(--bg); color: var(--ink); font: 400 16px/1.5 var(--sans);
-  padding-left: max(16px, env(safe-area-inset-left, 0px)); padding-right: max(16px, env(safe-area-inset-right, 0px)); }
-main { max-width: 1040px; margin-inline: auto; padding-block: clamp(20px, 5vw, 40px) 90px; }
-h1 { margin: 0 0 6px; font: 300 clamp(38px, 8vw, 60px)/1.02 var(--read); letter-spacing: -0.02em; }
-.lede { margin: 0 0 18px; max-width: 64ch; color: var(--muted); }
-.part { margin: 24px 0 0; }
-.part h2 { display: flex; align-items: baseline; gap: 10px; margin: 0 0 10px; font: 500 20px/1.2 var(--read); }
-.part h2 small { font: 500 13px/1.3 var(--sans); color: var(--muted); }
-.books { display: grid; grid-template-columns: repeat(auto-fill, minmax(150px, 1fr)); gap: 8px; }
-.book { position: relative; display: flex; flex-direction: column; justify-content: space-between; min-height: 84px; padding: 12px 12px 10px; border-radius: 14px;
-  border: 1px solid var(--line); background: var(--surface); color: var(--ink); text-decoration: none; overflow: hidden; }
-.book::before { content: ""; position: absolute; inset: 0 auto 0 0; width: 4px; background: var(--c); }
-.book b { font: 500 17px/1.2 var(--read); }
-.book small { font: 500 12px/1.3 var(--sans); color: var(--muted); }
-a.book:hover { border-color: var(--c); box-shadow: 0 6px 18px rgb(22 27 38 / 10%); }
-a.book small.open { color: var(--c); font-weight: 700; }
-div.book { opacity: .55; }
-@media (min-width: 700px) { .books { grid-template-columns: repeat(auto-fill, minmax(170px, 1fr)); } }
-</style>
+<meta http-equiv="refresh" content="0; url=../library.html">
+<link rel="canonical" href="../library.html">
+<script>location.replace("../library.html" + location.hash);</script>
 <!-- APPBAR -->
-<main>
-  <h1>Visual Bible</h1>
-  <p class="lede">Each book of the Bible seen whole, from its own words: what it says most, how it moves from start to end, who is in it and who speaks. No commentary: every chart counts the book's own words, and every mark leads to its verse. Tap a book to open it.</p>
-  <div id="parts"></div>
-</main>
+<main style="max-width:640px;margin:40px auto;padding:0 16px;font:16px/1.5 system-ui,sans-serif"><p>The Visual Bible is now on <a href="../library.html">the bookshelf</a>.</p></main>
 <!-- DATA -->
-<script>
-(() => {
-  const D = JSON.parse(document.getElementById("data").textContent);
-  const T = s => (window.I18N ? I18N.t(s) : s);
-  const PARTS = [[0, "The Law", "#a8790a"], [5, "History", "#bf5a1f"], [17, "Poetry and Wisdom", "#2f8a3c"], [22, "The Prophets", "#c43434"],
-    [39, "The Gospels", "#2459c4"], [43, "Acts", "#0f8c83"], [44, "The Letters", "#6d43c9"], [65, "Revelation", "#c23a7c"]];
-  const el = (tag, attrs = {}, ...kids) => { const n = document.createElement(tag); for (const k in attrs) { if (k === "text") n.textContent = attrs[k]; else if (attrs[k] != null) n.setAttribute(k, attrs[k]); } n.append(...kids); return n; };
-  const out = [];
-  PARTS.forEach(([start, name, color], i) => {
-    const end = i + 1 < PARTS.length ? PARTS[i + 1][0] : D.books.length;
-    const books = D.books.slice(start, end);
-    const made = books.filter(b => b.page).length;
-    out.push(el("section", { class: "part" },
-      el("h2", {}, T(name), el("small", { text: made && made < books.length ? (window.I18N ? I18N.t("{n} of {m} ready", { n: made, m: books.length }) : `${made} of ${books.length} ready`) : "" })),
-      el("div", { class: "books" }, ...books.map(b => b.page
-        ? el("a", { class: "book", href: b.page, style: `--c:${color}` }, el("b", { text: T(b.n) }), el("small", { class: "open", text: T("Open") + " →" }))
-        : el("div", { class: "book", style: `--c:${color}`, "aria-disabled": "true" }, el("b", { text: T(b.n) }), el("small", { text: T("Coming") }))))));
-  });
-  document.getElementById("parts").replaceChildren(...out);
-})();
-</script>
