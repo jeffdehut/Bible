@@ -395,6 +395,25 @@ Settled while drafting 1 Samuel:
 | גְּדוּד | （這幫）匪徒 | *gedud* noted (30:8). |
 | שָׁלָל; אִישׁ חַיִל | 掠物；勇士 | |
 
+Settled while drafting 2 Samuel:
+
+| Source | Rendering | Notes |
+|---|---|---|
+| 1 Samuel's terms | 耶和華的受膏者；求問耶和華；萬軍之耶和華 | Unchanged, with the same notes (1:14; 2:1; 6:2). |
+| David's lament (1:19–27) | Poetry without quotation marks | 1:18 ends with 《雅煞珥書》上：; the title 〈弓歌〉 in 〈〉, noted. |
+| הַצְּבִי (1:19) | 你的榮耀 | Noted: also 「羚羊」. |
+| אִישׁ־בֹּשֶׁת; מְפִיבֹשֶׁת | 伊施波設；米非波設 | *boshet* for *baal* noted (2:8; 4:4), with 伊施‧巴力, 米力‧巴力. |
+| חֹמֶשׁ | 肚腹 | Noted: traditionally 第五根肋骨 (2:23). |
+| מְצֻדַת צִיּוֹן; עִיר דָּוִד | 錫安的要塞；大衛城 | |
+| The blind and the lame (5:6–8) | 連瞎子和瘸子也能把你趕走；水道 | The other reading of 5:6, *tsinnor*, the ketiv and 「那殿」 noted. |
+| יְהוָה אֱלֹהֵי צְבָאוֹת | 耶和華萬軍之神 | *tseva'ot* noted (5:10). |
+| אֲדֹנָי יְהוִה | 主耶和華 | Noted at its first occurrence in each chapter (7:18). |
+| בַּיִת (2 Samuel 7) | 宮殿 (the king's)；殿宇 (for the LORD)；家室 (David's line) | The one word and the wordplay noted at 7:11. |
+| זֶרַע (7:12) | 後裔 | Noted: 「種子」. |
+| מַזְכִּיר; סוֹפֵר | 史官；書記 | Noted (8:16–17). |
+| הַכְּרֵתִי וְהַפְּלֵתִי | 基利提人和比利提人 | Noted: David's foreign guard (8:18). |
+| Chronicles parallels | 歷代志上…作「……」 | Wherever the English notes them. |
+
 ## Style
 
 **Characters and words.** Plain words over the Union Version's literary ones (吊下去, not 縋下來). Hong Kong standard forms: 裏 (not 裡), 着 for the particle (看着、

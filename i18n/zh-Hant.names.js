@@ -2,6 +2,15 @@
 // (public domain) spells them. Written by scripts/names_zh.py: don't edit by hand;
 // corrections go in OVERRIDES there.
 I18N.add({
+"Beerothite":"比錄",
+"Chidon":"基頓",
+"Eshbaal":"伊施‧巴力",
+"Merib-baal":"米力‧巴力",
+"Pelethites":"比利提",
+"Cherethites":"基利提",
+"Toi":"陀以",
+"Ashurites":"亞書利",
+"Bithron":"畢倫",
 "Racal":"拉哈勒",
 "Hakilah":"哈基拉",
 "Jeshimon":"耶示門",
@@ -1337,7 +1346,7 @@ I18N.add({
 "Elishama (Numbers 1.10)":"以利沙瑪（民數記 1.10）",
 "Elishaphat":"以利沙法",
 "Elisheba":"以利沙巴",
-"Elishua":"益轄",
+"Elishua":"以利書亞",
 "Eliud":"以律",
 "Elizabeth":"伊利莎白",
 "Elizaphan":"以利撒反",
