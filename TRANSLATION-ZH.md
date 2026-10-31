@@ -678,6 +678,16 @@ Settled while drafting Job:
 | לִוְיָתָן; תַּנִּין (7:12) | 利維坦；海怪 | 和合本「鱷魚」 noted (3:8). |
 | שְׁאוֹל | 陰間 | Glossary note (7:9). |
 | חֶסֶד (6:14) | 慈愛 | Glossary note. |
+| Speakers' openings | 書亞人比勒達回答說；拿瑪人瑣法回答說；提幔人以利法回答說 | A speech running on (9→10, 12→14, 16→17) leaves 」 off at the chapter's end. |
+| Job speaking to God inside a speech | No inner quotation marks | Noted where it starts (10:2; 13:20; 17:3), as in English. |
+| רַהַב (9:13) | 拉哈伯 | The sea monster, noted as not 喇合 (Joshua 2). |
+| עָשׁ, כְּסִיל, כִּימָה (9:9) | 北斗、參星、昴星 | Uncertain identifications noted; also for 38:31–32. |
+| מוֹכִיחַ (9:33) | 仲裁人 | *mokhiach* and the Septuagint's 「但願」 noted. |
+| תּוּשִׁיָּה | 真智慧 | As 5:12, noted (6:13; 11:6; 12:16). |
+| צַלְמָוֶת | 死蔭 | Noted at the first occurrence in each chapter (10:21; 12:22; 16:16). |
+| שַׁחַת (17:14) | 墳坑 | Noted: 或譯「朽壞」. |
+| גֹּאֲלִי (19:25) | 我的救贖者 | Long note: *go'el* (至近的親屬, as Ruth), 維護者／伸冤者, who is meant left open, 和合本「救贖主」. |
+| נָשָׂא פָנִים (13:8, 10) | 偏袒 | 「抬起他的臉」 noted. |
 
 ## Style
 
