@@ -791,6 +791,29 @@ Settled while drafting Psalms:
 | Instruments: כִּנּוֹר; נֵבֶל; תֹּף; שׁוֹפָר; צֶלְצְלִים; עוּגָב | 琴；瑟；鼓；角、羊角號 (*shofar* noted)；鈸；簫 | 144:9 十弦的瑟 as 33:2. |
 | הַלְלוּ־יָהּ (146–150) | 你們要讚美耶和華 | 「哈利路亞」 noted at 146:1; 150:6 notes the close of 第五卷 and of the whole Psalter, and the Septuagint's Psalm 151. |
 
+Settled while drafting Proverbs:
+
+| Source | Rendering | Notes |
+|---|---|---|
+| Layout | One verse per line, cola joined by ，；; 10:1–22:16 each saying one line of two halves | 10:1 notes the new collection. |
+| חָכְמָה; חָכָם | 智慧；智慧人 | *chokhmah* noted (1:2). |
+| בִּינָה; תְּבוּנָה; נָבוֹן | 聰明；悟性；聰明人 (有悟性的人 for אִישׁ תְּבוּנָה) | Same root, kept apart; noted 1:2, 2:2. |
+| דַּעַת | 知識 | 認識神 (2:5), 認識至聖者 (9:10). |
+| מוּסָר; תּוֹכַחַת; לֶקַח; תּוֹרָה | 管教；責備；學問；教導 | *musar* noted (1:2): 傳統譯作「訓誨」. A mother's *torah* 教導 (和合本「法則」). |
+| עָרְמָה; עָרוּם | 精明；精明人 | *ormah* noted (1:4), 和合本「靈明」. |
+| מְזִמָּה | 謀略 (good)；詭計 (bad: אִישׁ מְזִמּוֹת 設詭計的人) | 1:4; 12:2; 14:17. |
+| תּוּשִׁיָּה; תַּחְבֻּלוֹת; שֵׂכֶל; מַשְׂכִּיל | 真智慧；指引；見識；明智的 | *tushiyyah* as Job. |
+| Fools: כְּסִיל; אֱוִיל; פֶּתִי | 愚昧人；愚妄人；愚蒙人 | As the Union Version broadly; the three described at 1:7, the Hebrew noted at its first occurrence in each chapter. Abstracts כְּסִילוּת 愚昧, אִוֶּלֶת 愚妄, פְּתָיוּת 愚蒙. |
+| לֵץ; חֲסַר־לֵב; בַּעַר; עָצֵל | 愛嘲笑人的 (as Psalm 1)；無知的人 (「缺少心的」 noted)；像畜類一樣愚蠢；懶惰人 | |
+| צַדִּיק; רָשָׁע; יָשָׁר; תָּם | 義人；惡人；正直人；完全人 | *tsaddiq*, *rasha* noted (2:20, 22). |
+| יִרְאַת יְהוָה | 敬畏耶和華 | 1:7 and 9:10 kept parallel (……是知識／智慧的開端); *reshit*, *techillah* noted. 15:33 refers to both. |
+| בְּנִי | 我兒 | Noted 1:8. |
+| אִשָּׁה זָרָה; נָכְרִיָּה | 陌生女子；外族女子 | 和合本「淫婦」「外女」 noted (2:16). |
+| Lady Wisdom; Folly | 智慧 (她)；愚昧的婦人 | Her speeches in 「」, opened afresh in each chapter (1:22–33; 8:4–36; 9:4–6); 8:22 *qanani* 造了我, long note. |
+| תּוֹעֲבַת יְהוָה | 耶和華所憎惡的 | *to'evah* noted (3:32). |
+| עֵץ חַיִּים; רְפָאִים; אֲבַדּוֹן | 生命樹；陰魂；亞巴頓 | As Job and Psalms. |
+| NT quotations (3:11–12; 3:34; 10:12; 11:31) | The Hebrew in the text | Hebrews 12:5–6 (「不要灰心」, 「鞭打」), James 4:6 / 1 Peter 5:5 (「神抵擋驕傲的人」), 1 Peter 4:8 (「許多的罪」), 1 Peter 4:18 in notes. |
+
 ## Style
 
 **Characters and words.** Plain words over the Union Version's literary ones (吊下去, not 縋下來). Hong Kong standard forms: 裏 (not 裡), 着 for the particle (看着、
