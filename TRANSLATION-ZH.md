@@ -785,6 +785,11 @@ Settled while drafting Psalms:
 | עֹמֶדֶת לָעַד (111:3, 10; 112:3, 9) | 存到永遠 | |
 | Psalm 118:14, 22–23, 26 | Exodus 15:2's and Mark 12:10–11's wording: 房角的基石；這是耶和華所做的，在我們眼中看為奇妙 | 118:26 בָּרוּךְ 是蒙福的 (Mark 11:9 「是應當稱頌的」 noted); 118:25 *hoshi'ah na* and 和散那 noted. |
 | שִׁיר הַמַּעֲלוֹת (120–134) | 上行之詩 | *shir ha-ma'alot* and the pilgrims noted at 120:1, later psalms refer back; 121:1 *shir lamma'alot* noted. 羅騰木 (120:4), 米設, 基達. |
+| כִּי לְעוֹלָם חַסְדּוֹ (136) | 他的慈愛永遠長存！ | Identical at the end of all 26 verses; 136:1 as 107:1 and 118:1; verses 4–25 (Hebrew participles) as short clauses 他……; noted at 136:1, 4. |
+| Psalm 135 (115:4–8; 136:17–22); Psalm 144 (Psalm 18) | The earlier psalm's wording wherever the Hebrew agrees | Differences noted. 雅珥 (132:6) coined, 和合本「基列‧耶琳」 noted. |
+| Acrostic (145) | Noted at 145:1 | The missing *nun* verse at 145:13, with 11QPs-a and the Septuagint's line. 145:8 חַנּוּן וְרַחוּם 有恩典、有憐憫……大有慈愛, the reversed order of Exodus 34:6 noted. |
+| Instruments: כִּנּוֹר; נֵבֶל; תֹּף; שׁוֹפָר; צֶלְצְלִים; עוּגָב | 琴；瑟；鼓；角、羊角號 (*shofar* noted)；鈸；簫 | 144:9 十弦的瑟 as 33:2. |
+| הַלְלוּ־יָהּ (146–150) | 你們要讚美耶和華 | 「哈利路亞」 noted at 146:1; 150:6 notes the close of 第五卷 and of the whole Psalter, and the Septuagint's Psalm 151. |
 
 ## Style
 
