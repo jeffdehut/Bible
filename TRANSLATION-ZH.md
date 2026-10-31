@@ -737,6 +737,16 @@ Settled while drafting Psalms:
 | צַלְמָוֶת (23:4) | 死蔭的幽谷 | As Job 3:5 (死蔭); 「最黑暗的山谷」 noted. |
 | בְּנֵי אֵלִים (29:1) | 天上的眾生 | 「眾神的兒子們」 noted. |
 | Acrostics (Psalm 25) | Noted at verse 1 | The gaps and the closing *pe* verse described. |
+| Acrostics (Psalms 34, 37) | Noted at the first verse of the alphabet | 34:2 (no *vav*; closing *pe* verse 23, as 25); 37:1 (two-verse sections, *ayin* mid-verse 28). |
+| לְהַזְכִּיר; שִׁיר יְדִידֹת; עַל־שֹׁשַׁנִּים | 為了記念；愛的歌；調用「百合花」 | 38:1; 45:1; 和合本「紀念詩」「愛慕歌」 noted. |
+| עַל־עֲלָמוֹת (46:1) | 按照亞拉莫 | Coined; 「女高音」 and 和合本「調用女音」 noted, with 1 Chronicles 15:20. |
+| לִבְנֵי־קֹרַח | 可拉後裔的 | 「或譯『為可拉後裔作的』」 and the Levite singers noted in each psalm. |
+| Book divisions | Noted: 41:14 closes 第一卷; 42:1 opens 第二卷 (42–72) and the Korah psalms (42–49) | 42:2 notes the 「以羅欣詩集」 (42–83): 神 for *Elohim*, 耶和華 for YHWH, as each stands. |
+| Refrains (42:6, 12; 43:5; 46:8, 12; 49:13, 21) | Identical wording wherever the Hebrew is identical | Where it differs (42:6 *yeshu'ot panav*; 49:13 *bal yalin*), the Chinese differs and a note says how. |
+| הֶבֶל (39:6, 7, 12) | 一口氣；枉然 | *hevel* noted with 傳道書1章2節. |
+| כִּסְאֲךָ אֱלֹהִים (45:7) | 神啊，你的寶座 | Long note: the king addressed as *elohim*, other readings, Septuagint and 希伯來書1章8至9節. |
+| Hebrews quoting the Septuagint (40:7–9) | The Hebrew (你開通了我的耳朵) in the text | The Septuagint 「你卻為我預備了身體」 and Hebrews' other changes in the note. |
+| צָפוֹן (48:3) | 北方的高處 | *Tsaphon*, the mountain of Canaanite myth, noted. |
 
 ## Style
 
