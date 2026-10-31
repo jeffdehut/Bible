@@ -38,6 +38,17 @@ h2 { margin: 34px 0 4px; font: 500 22px/1.2 var(--read); }
 .chip i { width: 10px; height: 10px; border-radius: 3px; background: var(--c); flex: none; }
 .chip[aria-pressed="true"] { border-color: var(--c, var(--lapis)); box-shadow: inset 0 0 0 1px var(--c, var(--lapis)); }
 .panel { background: var(--surface); border: 1px solid var(--line); border-radius: 16px; padding: 14px; }
+/* At a glance: what the letter is about, each point read from its own words, with an icon. */
+.glance { list-style: none; margin: 10px 0 0; padding: 0; display: grid; gap: 8px; grid-template-columns: 1fr; }
+@media (min-width: 700px) { .glance { grid-template-columns: 1fr 1fr; } }
+.glance li { display: grid; grid-template-columns: 44px 1fr; gap: 12px; align-items: start; padding: 12px 14px; border: 1px solid var(--line); border-radius: 14px; background: var(--surface); }
+.glance .ic { display: grid; place-items: center; width: 44px; height: 44px; border-radius: 12px; background: color-mix(in srgb, var(--c) 15%, transparent); color: var(--c); }
+.glance .ic svg { width: 24px; height: 24px; }
+.glance b { display: block; font: 600 15px/1.3 var(--sans); }
+.glance span { display: block; margin-top: 2px; font: 400 14px/1.45 var(--sans); color: var(--muted); }
+.glance q { display: block; margin-top: 4px; font: 400 16px/1.45 var(--read); color: var(--ink); quotes: "“" "”"; }
+.glance .refs { display: flex; flex-wrap: wrap; gap: 4px; margin-top: 6px; }
+.glance .refs button { border: 1px solid var(--line); background: var(--bg); color: var(--lapis); border-radius: 99px; padding: 3px 9px; font: 600 12px/1.2 var(--sans); cursor: pointer; }
 /* Its words: a bar for each, with ticks for the Gospel of John and the rest of the New Testament. */
 .bars { display: grid; gap: 8px; }
 .bar { display: grid; grid-template-columns: minmax(96px, 150px) 1fr auto; align-items: center; gap: 10px; border: 0; background: none; padding: 2px 0; color: var(--ink); text-align: left; cursor: pointer; font: 500 14px/1.2 var(--sans); }
@@ -95,6 +106,11 @@ details.more summary { cursor: pointer; font: 600 13px/1.3 var(--sans); color: v
   <h1 id="title"></h1>
   <p class="lede" id="lede"></p>
   <nav class="family" id="family" aria-label="The letters of John"></nav>
+
+  <section id="s-glance" aria-labelledby="glance-title">
+    <h2 id="glance-title">At a glance</h2>
+    <ul class="glance" id="glance"></ul>
+  </section>
 
   <section id="s-words">
     <h2>The words it uses most</h2>
@@ -354,6 +370,63 @@ details.more summary { cursor: pointer; font: 600 13px/1.3 var(--sans); color: v
   }
   const multiOther = (L, c, v) => (new Set(L.verses.map(x => x.c)).size > 1 ? `${c}:${v}` : String(v));
 
-  bars(); grid(); pairs(); patterns(); voices(); people(); sisters();
+  /* At a glance */
+  const ICONS = {
+    heart: '<path d="M12 20s-7-4.4-7-10a4 4 0 0 1 7-2.6A4 4 0 0 1 19 10c0 5.6-7 10-7 10Z"/>',
+    words: '<path d="M4 6h16M4 11h10M4 16h13"/>',
+    quote: '<path d="M7 7h4v4c0 3-1.5 5-4 6M14 7h4v4c0 3-1.5 5-4 6"/>',
+    voice: '<path d="M4 5h16v11H9l-5 4Z"/>',
+    people: '<circle cx="9" cy="8" r="3"/><circle cx="17" cy="9" r="2.5"/><path d="M3.5 19c.5-3.5 3-5 5.5-5s5 1.5 5.5 5M14.5 14.5c2.6-.3 5 .9 5.5 4"/>',
+    scale: '<path d="M12 4v16M6 20h12M5 8h14"/><path d="m5 8-3 6h6ZM19 8l-3 6h6Z"/>',
+    repeat: '<path d="M17 3l3 3-3 3"/><path d="M4 11V9a3 3 0 0 1 3-3h13M7 21l-3-3 3-3"/><path d="M20 13v2a3 3 0 0 1-3 3H4"/>',
+    link: '<path d="M10 14a4 4 0 0 0 5.7 0l3-3a4 4 0 0 0-5.7-5.7l-1 1"/><path d="M14 10a4 4 0 0 0-5.7 0l-3 3a4 4 0 0 0 5.7 5.7l1-1"/>',
+  };
+  const icon = k => { const t = document.createElement("template"); t.innerHTML = `<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">${ICONS[k]}</svg>`; return t.content.firstChild; };
+  const fmt = (s, vars) => (window.I18N ? I18N.t(s, vars) : s.replace(/\{(\w+)\}/g, (m, k) => vars[k]));
+  const refBtns = hits => el("div", { class: "refs" }, ...hits.slice(0, 8).map(([c, v]) => el("button", { type: "button", onclick: () => open(c, v), text: multi ? `${c}:${v}` : String(v) })));
+  function glance() {
+    const items = [];
+    const add = (ic, color, title, detail, extra) => items.push(el("li", { style: `--c:${color}` }, el("span", { class: "ic" }, icon(ic)),
+      el("div", {}, el("b", { text: title }), detail ? el("span", { text: detail }) : null, extra || null)));
+    // Why it was written, in its own words.
+    if (D.purpose && D.purpose.length) {
+      const [c, v] = D.purpose[D.purpose.length - 1];
+      add("quote", "var(--lapis)", T("Why it was written, in its own words"), null,
+        el("div", {}, el("q", { translate: "no", lang: "en", text: byRef.get(c + ":" + v).t }), refBtns(D.purpose)));
+    }
+    // Its most-used words.
+    const [t1, t2, t3] = D.themes;
+    if (t1) {
+      const times = t1.nt ? Math.round(t1.r / t1.nt) : 0;
+      add("heart", t1.c, fmt("Its word above all: {word}", { word: T(t1.n).toLowerCase() }),
+        fmt(times >= 2 ? "{k} times — about {x} times as often as in the rest of the New Testament." : "{k} times.", { k: t1.k, x: times }));
+    }
+    if (t2 && t3) add("words", t2.c, T("Its next words"), fmt("{a} ({ka}) and {b} ({kb}).", { a: T(t2.n).toLowerCase(), ka: t2.k, b: T(t3.n).toLowerCase(), kb: t3.k }));
+    // Opposites it sets side by side.
+    const pairs = D.pairs.filter(([a, b]) => theme.get(a)?.k >= 2 && theme.get(b)?.k >= 2).map(([a, b]) => `${T(theme.get(a).n).toLowerCase()} — ${T(theme.get(b).n).toLowerCase()}`);
+    if (pairs.length) add("scale", "#7d3c98", T("Sets side by side"), pairs.join(" · "));
+    // Its voice.
+    const vo = {}; for (const v of V) for (const k in v.vo) vo[k] = (vo[k] || 0) + v.vo[k];
+    const tot = Object.values(vo).reduce((a, b) => a + b, 0) || 1;
+    const top = Object.entries(vo).sort((a, b) => b[1] - a[1])[0];
+    const LABEL = { I: "“I”", we: "“we”", you: "“you”", they: "“he, she, they”" };
+    if (top) add("voice", "#d4a017", fmt("It speaks most as {who}", { who: T(LABEL[top[0]]) }),
+      fmt("{p}% of its verbs and pronouns", { p: Math.round(100 * top[1] / tot) }) + " · " +
+        Object.keys(LABEL).filter(k => k !== top[0]).map(k => `${T(LABEL[k])} ${Math.round(100 * (vo[k] || 0) / tot)}%`).join(" · "));
+    // How it addresses its readers.
+    if (D.address.length) add("people", "#e67e22", T("What it calls its readers"),
+      D.address.map(a => `${T(a.n)} ×${a.h.length}`).join(" · "));
+    // Its sentence patterns.
+    const pats = [...D.patterns].sort((a, b) => b.h.length - a.h.length).slice(0, 3);
+    if (pats.length) add("repeat", "#2e86c1", T("Ways of speaking it repeats"), pats.map(p => `${T(p.n)} ×${p.h.length}`).join(" · "));
+    // The people it names (the short letters).
+    if (V.length <= 40 && D.people.length) add("people", "#16a085", T("Who is in it"), D.people.map(p => T(p.n)).join(" · "));
+    // Its sisters.
+    const strongest = [...D.links].sort((a, b) => b.l.length - a.l.length)[0];
+    if (strongest) add("link", "#5d6d7e", fmt("Closest in wording to {book}", { book: T(strongest.book) }), fmt("{n} pairs of verses share words.", { n: strongest.l.length }));
+    $("glance").replaceChildren(...items);
+  }
+
+  glance(); bars(); grid(); pairs(); patterns(); voices(); people(); sisters();
 })();
 </script>

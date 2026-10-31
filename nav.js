@@ -24,7 +24,7 @@
     atlas: '<path d="M4 4h7v16H4zM13 4h7v16h-7z"/><path d="M6.5 8h2M15.5 8h2M6.5 11h2M15.5 11h2"/>',
     time: '<path d="M3 6.5c3 0 3-2 6-2s3 2 6 2 3-2 6-2"/><path d="M3 12c3 0 3-2 6-2s3 2 6 2 3-2 6-2"/><path d="M3 17.5c3 0 3-2 6-2s3 2 6 2 3-2 6-2"/><path d="M8 21v-2.5M16 21v-2.5"/>',
     gen: '<circle cx="12" cy="5" r="2.2"/><circle cx="6" cy="19" r="2.2"/><circle cx="18" cy="19" r="2.2"/><path d="M12 7.2V12M6 16.8V12h12v4.8"/>',
-    visual: '<rect x="3.5" y="13" width="3.5" height="7" rx="1"/><rect x="10.25" y="8" width="3.5" height="12" rx="1"/><rect x="17" y="4" width="3.5" height="16" rx="1"/>',
+    visual: '<path d="M12 6.5C10 5 7 4.5 3.5 5v14c3.5-.5 6.5 0 8.5 1.5 2-1.5 5-2 8.5-1.5V5C17 4.5 14 5 12 6.5Z"/><path d="M12 6.5v14"/><path d="M6.5 16v-3M9 16v-6M15 16v-4M17.5 16V9"/>',
     psalms: '<path d="M6 3.5c7 0 12 4.5 12.5 12"/><path d="M6 3.5V20.5h12.5"/><path d="M9.5 7v13.5M13 9.5v11M16 12.5v8"/>',
     proverbs: '<path d="M3.5 13.5h17c0 3-3.6 5-8.5 5s-8.5-2-8.5-5Z"/><path d="M20.5 13.5c1-.7 1.3-1.6 1.2-2.7"/><path d="M8.5 18.5 7.5 21h9l-1-2.5"/><path d="M12 4c1.2 1.6 2 2.6 2 4a2 2 0 0 1-4 0c0-1.4.8-2.4 2-4Z"/>',
     kings: '<path d="M3 8l4.2 4L12 6l4.8 6L21 8l-2 11H5Z"/>',
