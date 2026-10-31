@@ -756,6 +756,16 @@ Settled while drafting Psalms:
 | יְהוָה אֱלֹהִים צְבָאוֹת (59:6) | 耶和華萬軍之神 | As 2 Samuel 5:10; the Hebrew and 「萬軍之神耶和華」 noted. |
 | רוּחַ קָדְשְׁךָ (51:13) | 你聖潔的靈 | 傳統「你的聖靈」 noted. |
 | Psalm 68 | One reading in the text, others in notes | 68:19 受了禮物; Ephesians 4:8 「賜給」 (*edōken*) noted. Its hapax words noted as only here. |
+| Book divisions (72–73; 89) | 72:18–19 and 89:53 noted as closing 第二卷, 第三卷; 72:20 耶西的兒子大衛的禱告完畢了 | 73:1 notes 第三卷 (73–89) and the Asaph psalms (73–83); 83:1 the last of them. |
+| לְאָסָף | 亞薩的詩 (מִזְמוֹר לְאָסָף)；屬亞薩的 (alone or before מִזְמוֹר: 屬亞薩的。一首詩。) | 「或譯『為亞薩作的』」 and the Levite singer (50:1) noted in each psalm. 以斯拉人以探, 希幔 (88; 89). |
+| Psalm 70 (= 40:14–18) | Psalm 40's wording wherever the Hebrew agrees, 神 for *Elohim* | Each difference noted (70:2, 3, 4, 5, 6). |
+| NT quotations where the Greek differs | The Hebrew in the text | 69:10 (John 2:17 future 「將要吞噬」); 69:26 (Acts 1:20 singular); 78:2 (Matthew 13:35 「從創立以來所隱藏的事」); 78:24 (John 6:31 *artos*). 82:6 noted as agreeing. |
+| אֱלֹהִים (82:1, 6) | 神聖的議會；眾神；你們是神 | The divine council in the text; human judges (Exodus 21:6; 22:7–8) and 和合本「有權力者的會」「諸神」 in the notes. |
+| עֵדוּת (78:5, 56; 81:6) | 法度 | As 19:8; noted. |
+| Psalm 89 (2 Samuel 7) | 2 Samuel 7's words: 後裔、王位、堅立、兇惡的人、苦待、杖、鞭打、慈愛不收回 | בְּנֵי אֵלִים 天上的眾生 (89:7); *emunah* 信實. |
+| רַהַב (87:4; 89:11); אֲבַדּוֹן; רְפָאִים | 拉哈伯 (not 喇合)；亞巴頓；陰魂 | As Job 26. |
+| עַל־מָחֲלַת לְעַנּוֹת (88:1) | 按照麻哈拉利暗俄 | The Union Version's form; *le'annot* noted. |
+| Psalm 78 (Exodus, Numbers) | The Pentateuch's words: 嗎哪、成群的蒼蠅、使水直立像牆壁 (Exodus 15:8) | 瑣安 as the Union Version's Psalms (鎖安 in Numbers 13:22, noted). |
 
 ## Style
 
