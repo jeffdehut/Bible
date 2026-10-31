@@ -250,7 +250,7 @@ THEME = ('<script>try { const t = (JSON.parse(localStorage.getItem("pe.settings"
 def head(root="", colors=("#fbfaf7", "#0d111b")):
     """The icon, the browser colors and the theme: the same on every page of the site."""
     light, dark = colors
-    return (f'<script src="{root}i18n.js?v=19"></script>\n'
+    return (f'<script src="{root}i18n.js?v=20"></script>\n'
             f'<script src="{root}ui.js?v=1"></script>\n'
             f'<link rel="icon" href="{root}icons/icon.svg" type="image/svg+xml">\n'
             f'<link rel="apple-touch-icon" href="{root}icons/icon-192.png">\n'
@@ -293,7 +293,7 @@ def appbar(current, root=""):
     return (f'{APPBAR_CSS}\n<header class="appbar">\n'
             f'  <a class="brand" href="{root}index.html"><img src="{root}icons/icon.svg" alt="Plain English Bible">'
             f'<span aria-hidden="true">Plain English Bible</span></a>\n</header>\n'
-            f'<script src="{root}nav.js?v=35"></script>')
+            f'<script src="{root}nav.js?v=36"></script>')
 
 
 def page(name, data):

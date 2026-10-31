@@ -124,6 +124,32 @@
     }
   }
 
+  // Inside the reader's viewer (an iframe, "?embed=1"): no bar and no menu of its own; a link
+  // to the reader moves the reader beside it instead, and a link to another page of the site
+  // stays in the viewer.
+  if (here.searchParams.has("embed") && window.parent !== window) {
+    document.documentElement.classList.add("embedded");
+    const st = document.createElement("style");
+    st.textContent = "html.embedded { --bar: 0px; } .embedded .appbar { display: none !important; }";
+    document.head.append(st);
+    const readerPaths = [new URL("index.html", ROOT).pathname, new URL(".", ROOT).pathname];
+    document.addEventListener("click", e => {
+      if (e.defaultPrevented || e.button || e.metaKey || e.ctrlKey || e.shiftKey || e.altKey) return;
+      const a = e.target.closest && e.target.closest("a[href]");
+      if (!a || a.target === "_blank" || a.hasAttribute("download")) return;
+      const u = new URL(a.href, location.href);
+      if (u.origin !== location.origin) { a.target = "_blank"; a.rel = "noopener"; return; }
+      if (readerPaths.includes(u.pathname)) { e.preventDefault(); parent.postMessage({ type: "pe-read", hash: u.hash }, location.origin); return; }
+      if (u.pathname === location.pathname || u.searchParams.has("embed") || !/\.html$|\/$/.test(u.pathname)) return;
+      e.preventDefault();
+      u.searchParams.set("embed", "1");
+      location.href = u.href;
+    });
+    // Pages that send the reader somewhere by script do it through this.
+    window.SiteNav = { MENU, render, read: hash => parent.postMessage({ type: "pe-read", hash }, location.origin) };
+    return;
+  }
+
   // In the reader: fill its menu sheet, now, before the reader's own script runs.
   if (inReader) { render(document.getElementById("site-menu")); window.SiteNav = { MENU, render }; return; }
 
