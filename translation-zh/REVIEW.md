@@ -25,3 +25,4 @@ Found while drafting; not yet settled across books.
 - Psalm title terms of uncertain meaning are transliterated with coined forms (示迦庸, 希迦庸, 瑪斯基勒, 米克坦, 舍米尼, 尼希錄, 基提, 亞拉莫);
   慕拉便 follows the Union Version. A specialist should confirm the forms before Psalms goes further.
 - *ruach qodsheka* (Psalm 51:13): 你聖潔的靈 in the text, traditional 你的聖靈 in a note; Isaiah 63:10–11 should follow the same choice.
+- בָּרוּךְ הַבָּא (Psalm 118:26) is 是蒙福的 by the Psalms rule, but Mark 11:9 has 是應當稱頌的; settle one rendering for the quotation in both places.
