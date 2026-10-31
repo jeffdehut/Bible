@@ -509,6 +509,16 @@ Settled while drafting 2 Kings:
 | נְאֻם־יְהוָה (in an oracle) | 這是耶和華的宣告 | *ne'um* noted (9:26). |
 | חֲגֹר מָתְנֶיךָ | 你束上腰 | Noted: tucking the robe into the belt (4:29; 9:1). |
 | הֲשָׁלוֹם (Jehu, 9:17–31) | 平安嗎？ | |
+| Israel's synchronisms (10–17) | 猶大王X第N年，Y在撒馬利亞登基作以色列王，作王N年 | Judah's: 以色列王X第N年，Y登基作猶大王; where the length is placed after Samaria, 他在撒馬利亞作王N年 (15:13, 17). Months: 作王六個月, 一個月. |
+| הִנָּם כְּתוּבִים | 都寫在……上 | As the question form; noted once (15:6). |
+| יְהוֹאָשׁ; יוֹאָשׁ; יוֹאָחָז | 約阿施；約哈斯 | Both forms, both kings named Joash, one rendering; noted (11:2; 12:1; 13:10; 14:1). |
+| Numbering of 2 Kings 12 | 12:1 = 和合本 11:21；12:2–22 = 和合本 12:1–21 | Noted at 11:20 and 12:1. |
+| עֲזַרְיָה; עֻזִּיָּה | 亞撒利雅；烏西雅 | As the Hebrew has each; noted (14:21; 15:13). |
+| פּוּל; תִּגְלַת פִּלְאֶסֶר | 普勒；提革拉‧毘列色 | The classic 毘, not the 1989 edition's 毗; noted as one king (15:19, 29). |
+| רָצִים; כָּרִי; עַם הָאָרֶץ (2 Kings 11) | 護衞兵；迦利人；國中的百姓 | *am ha-arets* noted (11:14). |
+| חֻקּוֹת; מִשְׁפַּט (2 Kings 17) | 律例；規矩 | One rendering each through 17:7–41, so the repetitions stand; *mishpat* noted (17:26). |
+| יָרֵא (worship, 2 Kings 17) | 敬畏 | Noted: 「懼怕」 (17:7). |
+| הֶעֱבִיר בָּאֵשׁ | 使……經火 | Noted: burned as a sacrifice (16:3; 17:17). |
 
 ## Style
 
