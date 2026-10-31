@@ -2,6 +2,8 @@
 // (public domain) spells them. Written by scripts/names_zh.py: don't edit by hand;
 // corrections go in OVERRIDES there.
 I18N.add({
+"Immanuel":"以馬內利",
+"Shear-jashub":"施亞雅述",
 "Behemoth":"比希摩",
 "Leviathan":"利維坦",
 "Keren-happuch":"基連‧哈樸",

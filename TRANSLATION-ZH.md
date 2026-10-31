@@ -854,6 +854,29 @@ Settled while drafting Song of Songs:
 | שַׁלְהֶבֶתְיָה (8:6) | 耶和華的烈焰 | *-yah* and the superlative reading in a long note. |
 | Numbering of 7:1–14 | 7:1 = 和合本 6:13；7:2–14 = 和合本 7:1–13 | Noted at 7:1. |
 
+Settled while drafting Isaiah (for all the prophets):
+
+| Source | Rendering | Notes |
+|---|---|---|
+| Layout | One verse per line; poetry and prose as the English lays them out | The LORD's words in the poems unmarked (noted 1:2, as Deuteronomy 32); narrative with speeches (6–8) in 「」, a message inside 『』. |
+| חָזוֹן | 異象 | *chazon* noted (1:1). |
+| כֹּה אָמַר יְהוָה; כֹּה אָמַר אֲדֹנָי יְהוִה | 耶和華這樣說；主耶和華這樣說 | As 2 Kings 19:6, 20 (Isaiah 37:6, 21). |
+| נְאֻם יְהוָה | 耶和華說 (opening a saying, 1:24)；這是耶和華說的 (closing it, 3:15) | *ne'um*, 「……的宣告」, noted at the first occurrence in each chapter; Kings' 這是耶和華的宣告 mentioned (see REVIEW.md). |
+| מַשָּׂא | 默示 | 「X的默示」, as Proverbs 30:1; *massa* noted (from 13:1). |
+| קְדוֹשׁ יִשְׂרָאֵל | 以色列的聖者 | As 2 Kings 19:22; noted at 1:4. |
+| יְהוָה צְבָאוֹת; הָאָדוֹן יְהוָה צְבָאוֹת; אֲדֹנָי יְהוִה צְבָאוֹת | 萬軍之耶和華；主萬軍之耶和華 | *tseva'ot* noted at the first occurrence in each chapter; *ha-adon* and *Adonai* noted. |
+| בַּיּוֹם הַהוּא | 到那日 | |
+| הוֹי; אוֹי | 禍哉；……有禍了 | *hoy* noted at 1:4 (a cry of mourning), later chapters refer back; 1:24 (resolve) 啊. *oy* 他們有禍了, 我有禍了 (3:9, 11; 6:5). |
+| בַּת־צִיּוֹן; בְּנוֹת צִיּוֹן | 錫安的女兒；錫安的女子 | Noted (1:8). |
+| אֱלִילִים | 虛無的偶像 | *elilim* noted (2:8). |
+| בְּכָל־זֹאת לֹא־שָׁב אַפּוֹ וְעוֹד יָדוֹ נְטוּיָה | 雖然這樣，他的怒氣還沒有轉消，他的手仍然伸出 | Identical at 5:25; 9:11, 16, 20; 10:4. |
+| עַלְמָה (7:14) | 少女 | 「童女」 (和合本) and the Septuagint's *parthenos* quoted in Matthew 1:23 in the note; *betulah* mentioned. |
+| שְׁאָר יָשׁוּב; מַהֵר שָׁלָל חָשׁ בַּז; עִמָּנוּ אֵל | 施亞雅述；瑪黑珥‧沙拉勒‧哈施‧罷斯；以馬內利 | Meanings noted; 8:10 神與我們同在 (*immanu el*). |
+| פֶּלֶא יוֹעֵץ אֵל גִּבּוֹר אֲבִיעַד שַׂר־שָׁלוֹם (9:5) | 奇妙的策士、大能的神、永恆的父、和平的君 | *el gibbor* 大能的神 also 10:21 (全能 is kept for *Shaddai*); 和合本, Targum, Septuagint noted. |
+| Numbering of 8:23–9:20 | 8:23 = 和合本 9:1；9:1–20 = 和合本 9:2–21 | Noted at 8:23 and 9:1; other references give both. |
+| NT quotations | The Hebrew in the text | A note where the Greek differs: 1:9; 6:9–10; 7:14; 8:12–14, 17–18; 8:23–9:1; 10:22–23; 11:10. |
+| שְׂרָפִים; צֶמַח (4:2); חֹטֶר, נֵצֶר (11:1) | 撒拉弗；苗；嫩枝、枝子 | *tsemach* and *netser* noted. |
+
 ## Style
 
 **Characters and words.** Plain words over the Union Version's literary ones (吊下去, not 縋下來). Hong Kong standard forms: 裏 (not 裡), 着 for the particle (看着、

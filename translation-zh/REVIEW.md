@@ -26,3 +26,5 @@ Found while drafting; not yet settled across books.
   慕拉便 follows the Union Version. A specialist should confirm the forms before Psalms goes further.
 - *ruach qodsheka* (Psalm 51:13): 你聖潔的靈 in the text, traditional 你的聖靈 in a note; Isaiah 63:10–11 should follow the same choice.
 - בָּרוּךְ הַבָּא (Psalm 118:26) is 是蒙福的 by the Psalms rule, but Mark 11:9 has 是應當稱頌的; settle one rendering for the quotation in both places.
+- *ne'um YHWH*: 這是耶和華的宣告 in Kings (2 Kings 9:26; 19:33; 22:19), but 耶和華說 / 這是耶和華說的 from Isaiah on; settle one (Isaiah 37:34 = 2 Kings 19:33).
+- Isaiah 7:14 *almah*: 少女 in the text, 童女 (和合本, Matthew 1:23) in a note; Matthew 1:23 itself will read 童女 from the Greek *parthenos*.
