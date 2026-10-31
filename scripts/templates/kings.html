@@ -65,11 +65,7 @@ h1 { margin: 0 0 6px; font: 300 clamp(36px, 7vw, 56px)/1.02 var(--read); letter-
 }
 @keyframes grow { from { opacity: 0; } to { opacity: 1; } }
 .note { margin: 22px 0 0; font-size: 14px; color: var(--muted); max-width: 70ch; }
-/* The card: a sheet at the bottom on a phone, a panel at the side on a wide screen. */
-.card { position: fixed; z-index: 20; left: 0; right: 0; bottom: 0; max-height: 62vh; overflow: auto; background: var(--surface); border-top: 1px solid var(--line);
-  border-radius: 18px 18px 0 0; box-shadow: var(--shadow); padding: 14px max(16px, env(safe-area-inset-right, 0px)) max(18px, env(safe-area-inset-bottom, 0px)) max(16px, env(safe-area-inset-left, 0px)); }
-@media (min-width: 900px) { .card { left: auto; right: 16px; bottom: 16px; top: 76px; width: 360px; max-height: none; border: 1px solid var(--line); border-radius: 16px; } }
-.card[hidden] { display: none; }
+/* The card: a panel of ui.js, a sheet at the bottom on a phone, a panel down the right on a wider screen. */
 .card .kicker { display: flex; align-items: center; gap: 8px; font: 600 11.5px/1.3 var(--sans); letter-spacing: 0.08em; text-transform: uppercase; color: var(--muted); padding-right: 34px; }
 .card .kicker i { width: 10px; height: 10px; border-radius: 3px; background: var(--c); }
 .card h2 { margin: 6px 0 2px; font: 400 28px/1.1 var(--read); }
@@ -85,6 +81,7 @@ h1 { margin: 0 0 6px; font: 300 clamp(36px, 7vw, 56px)/1.02 var(--read); letter-
 .card .chips button { display: inline-flex; align-items: center; gap: 6px; min-height: 30px; padding: 3px 10px; border-radius: 99px; border: 1px solid var(--line); background: var(--bg); color: var(--ink); font: 500 13px/1.2 var(--sans); cursor: pointer; }
 .card .chips i { width: 8px; height: 8px; border-radius: 50%; background: var(--c); }
 .card .close { position: absolute; top: 10px; right: 10px; width: 36px; height: 36px; border: 0; border-radius: 10px; background: transparent; color: var(--ink); cursor: pointer; }
+@media (max-width: 759px) { .card .close { top: 22px; } }
 .card .close:hover { background: var(--lapis-soft); }
 </style>
 
@@ -105,7 +102,7 @@ h1 { margin: 0 0 6px; font: 300 clamp(36px, 7vw, 56px)/1.02 var(--read); letter-
   <svg id="chart" role="img" aria-label="The reigns of the kings of Israel and Judah through time"></svg>
   <p class="note">Years BC follow Edwin R. Thiele, <i>The Mysterious Numbers of the Hebrew Kings</i> (3rd ed., 1983), the reckoning most charts use; others differ by a few years, and the early dates by more. Where a son reigned beside his father, the shaded part is the shared reign. The length of each reign and its verdict are as the Bible gives them; the prophets' years are approximate.</p>
 </main>
-<article class="card" id="card" hidden aria-live="polite"></article>
+<article class="card ui-sheet" id="card" hidden aria-live="polite"></article>
 
 <!-- DATA -->
 <script>
@@ -205,9 +202,10 @@ h1 { margin: 0 0 6px; font: 300 clamp(36px, 7vw, 56px)/1.02 var(--read); letter-
     const others = all.filter(o => o !== r && o.side !== r.side && o.side !== "united" && at(o, r.co || r.a, r.z));
     const prophets = D.prophets.filter(p => p.a >= r.z && p.z <= (r.co || r.a));
     card.replaceChildren(...[
+      el("div", { class: "ui-grab" }),
       el("button", { class: "close", type: "button", "aria-label": "Close", onclick: close, text: "✕" }),
-      el("div", { class: "kicker", style: `--c:${c}` }, el("i"), title),
-      el("h2", { text: r.n.replace(/ of (Israel|Judah)$/, "") }),
+      el("div", { class: "kicker ui-head", style: `--c:${c}` }, el("i"), title),
+      el("h2", { class: "ui-head", text: r.n.replace(/ of (Israel|Judah)$/, "") }),
       el("p", { class: "when", text: (r.co ? `${r.co}–${r.a} BC beside his father; alone ` : "") + span(r) }),
       el("p", { class: "verdict", style: `--c:${c}`, text: D.verdict[r.v] }),
       el("dl", {}, el("dt", { text: "The Bible says" }), el("dd", { text: `He reigned ${r.len}` }),
