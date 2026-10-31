@@ -1,0 +1,50 @@
+[
+ {
+  "id": "bsb",
+  "lang": "en",
+  "short": "BSB",
+  "name": "Berean Standard Bible",
+  "license": "Public domain. The Holy Bible, Berean Standard Bible, BSB, is produced in cooperation with Bible Hub, Discovery Bible, OpenBible.com, and the Berean Bible Translation Committee.",
+  "url": "https://berean.bible"
+ },
+ {
+  "id": "web",
+  "lang": "en",
+  "short": "WEB",
+  "name": "World English Bible",
+  "license": "Public domain. World English Bible, by eBible.org.",
+  "url": "https://ebible.org/web/"
+ },
+ {
+  "id": "kjv",
+  "lang": "en",
+  "short": "KJV",
+  "name": "King James Version",
+  "license": "Public domain (outside the United Kingdom). King James Version, 1769 text.",
+  "url": "https://ebible.org/kjv/"
+ },
+ {
+  "id": "lsv",
+  "lang": "en",
+  "short": "LSV",
+  "name": "Literal Standard Version",
+  "license": "Literal Standard Version, © 2020 Covenant Press. Licensed CC BY-SA 4.0 (creativecommons.org/licenses/by-sa/4.0).",
+  "url": "https://www.lsvbible.com"
+ },
+ {
+  "id": "cuv",
+  "lang": "zh-Hant",
+  "short": "和合本",
+  "name": "和合本（繁體）",
+  "license": "公有領域。中文和合本，新標點繁體版。",
+  "url": "https://ebible.org/cmn-cu89t/"
+ },
+ {
+  "id": "ccb",
+  "lang": "zh-Hant",
+  "short": "當代譯本",
+  "name": "當代譯本（開放資源版）",
+  "license": "聖經當代譯本（開放資源版），© 1979, 2005, 2007, 2012, 2023 Biblica, Inc. 按照 CC BY-SA 4.0 授權使用（creativecommons.org/licenses/by-sa/4.0）。",
+  "url": "https://ebible.org/cmncbt/"
+ }
+]

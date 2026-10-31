@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
 <meta charset="utf-8">
-<script src="i18n.js?v=12"></script>
+<script src="i18n.js?v=13"></script>
 <script src="ui.js?v=1"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
 <title>Plain English Bible</title>
@@ -248,10 +248,21 @@ body.panel-open .auto { display: none; }
    you chose them (the rules are written by the page from your markings). */
 mark.wn { background: none; color: inherit; text-decoration: underline dotted var(--lapis); text-decoration-thickness: 2px; text-underline-offset: 4px; }
 mark.um { background: none; color: inherit; }
-.mk-list { list-style: none; margin: 12px 0 0; padding: 0; display: grid; gap: 6px; }
-.mk-list li { display: flex; align-items: center; gap: 10px; padding: 8px 10px; border: 1px solid var(--line); border-radius: 12px; background: var(--surface); }
-.mk-list li b { flex: 1; font: 600 15px/1.3 var(--sans); }
-.mk-list li small { color: var(--muted); font: 500 12.5px/1.2 var(--sans); }
+.ver-btn { font: 600 13px/1 var(--sans); padding: 0 10px; min-height: 32px; border: 1px solid var(--line); border-radius: 99px; color: var(--muted); margin-inline-start: 2px; white-space: nowrap; }
+.ver-btn:hover { color: var(--ink); }
+.badge.ver { background: var(--lapis-soft); color: var(--lapis); }
+.badge.ver::before { display: none; }
+.ver-list { list-style: none; margin: 4px 0 12px; padding: 0; display: grid; gap: 6px; }
+.ver-list h3 { margin: 10px 2px 2px; font: 600 12px/1.2 var(--sans); letter-spacing: 0.08em; text-transform: uppercase; color: var(--muted); }
+.ver-list button { width: 100%; text-align: start; display: grid; grid-template-columns: auto 1fr; gap: 2px 12px; align-items: center; padding: 10px 12px; border-radius: 12px; border: 1px solid var(--line); background: var(--surface); color: var(--ink); cursor: pointer; }
+.ver-list button[aria-current="true"] { border-color: var(--lapis); box-shadow: inset 0 0 0 1px var(--lapis); }
+.ver-list .s { grid-row: span 2; min-width: 54px; font: 700 14px/1 var(--sans); color: var(--lapis); }
+.ver-list .n { font: 600 15px/1.3 var(--sans); }
+.ver-list .l { font: 400 12px/1.4 var(--sans); color: var(--muted); }
+.my-list { list-style: none; margin: 12px 0 0; padding: 0; display: grid; gap: 6px; }
+.my-list li { display: flex; align-items: center; gap: 10px; padding: 8px 10px; border: 1px solid var(--line); border-radius: 12px; background: var(--surface); }
+.my-list li b { flex: 1; font: 600 15px/1.3 var(--sans); }
+.my-list li small { color: var(--muted); font: 500 12.5px/1.2 var(--sans); }
 .mk-edit { display: grid; gap: 10px; margin-top: 14px; padding-top: 14px; border-top: 1px solid var(--line); }
 .mk-edit label, .mk-row .lab { font: 600 12px/1.2 var(--sans); letter-spacing: 0.08em; text-transform: uppercase; color: var(--muted); }
 .mk-row { display: grid; gap: 6px; }
@@ -614,6 +625,7 @@ input[type="range"] { width: 100%; accent-color: var(--lapis); }
 .hl-bar { align-items: center; max-width: calc(100vw - 16px); overflow-x: auto; scrollbar-width: none; }
 .hl-bar .tool { display: grid; place-items: center; background: var(--surface); color: var(--lapis); border: 1px solid var(--line); font: 600 20px/1 var(--sans); flex: none; }
 .hl-bar .tool svg { width: 16px; height: 16px; }
+.hl-bar .hl-note { font: 500 12.5px/1.3 var(--sans); color: var(--muted); padding: 0 8px; max-width: 240px; }
 .hl-bar .sep { width: 1px; align-self: stretch; margin: 4px 2px; background: var(--line); flex: none; }
 .hl-bar .mk-pick { display: inline-flex; align-items: center; gap: 6px; height: 30px; padding: 0 10px 0 4px; border-radius: 99px; border: 1px solid var(--line); background: var(--surface); color: var(--ink); font: 600 13px/1 var(--sans); cursor: pointer; white-space: nowrap; flex: none; }
 .hl-bar .mk-pick .mk-sym { width: 22px; height: 22px; border-radius: 99px; }
@@ -721,6 +733,7 @@ if (/(^#|&)(access_token|error)=/.test(location.hash)) {
     <span id="where-label">…</span>
     <svg class="chev" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><path d="m6 9 6 6 6-6"/></svg>
   </button>
+  <button class="btn ver-btn" id="ver" type="button" aria-haspopup="dialog" aria-label="Choose a version of the Bible"><span id="ver-label">…</span></button>
   <span class="spacer"></span>
   <button class="btn" id="open-search" type="button" aria-label="Search"><svg class="icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><circle cx="11" cy="11" r="7"/><path d="m20 20-3.5-3.5"/></svg></button>
   <button class="btn" id="open-settings" type="button" aria-label="Text and display settings"><svg class="icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M4 19 9 5l5 14M5.8 14h6.4"/><path d="M15 19l3-8 3 8M15.9 16.6h4.2"/></svg></button>
@@ -947,11 +960,17 @@ if (/(^#|&)(access_token|error)=/.test(location.hash)) {
   <div class="scroll" id="marks-body"></div>
 </section>
 
+<section class="ui-sheet sheet dialog" id="versions" hidden aria-labelledby="versions-title">
+  <div class="grab"></div>
+  <div class="sheet-head"><h2 id="versions-title">Versions</h2><button class="btn" type="button" data-close aria-label="Close"><svg class="icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M6 6l12 12M18 6 6 18"/></svg></button></div>
+  <ul class="ver-list" id="ver-list"></ul>
+  <p class="hint">Your highlights, notes and bookmarks on whole verses show in every version. Highlights and notes on some of a verse's words, and your markings, are kept with our own translation's wording.</p>
+</section>
 <section class="ui-sheet sheet dialog" id="mymarks" hidden aria-labelledby="mymarks-title">
   <div class="grab"></div>
   <div class="sheet-head"><h2 id="mymarks-title">My markings</h2><button class="btn" type="button" data-close aria-label="Close"><svg class="icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M6 6l12 12M18 6 6 18"/></svg></button></div>
   <p class="hint">Make your own markings to trace words and themes as you study: select some words in the text, tap the star, and choose a marking.</p>
-  <ul class="mk-list" id="mk-list"></ul>
+  <ul class="my-list" id="mk-list"></ul>
   <div class="actions"><button class="btn line" type="button" id="mk-new">＋ New marking</button></div>
   <form class="mk-edit" id="mk-edit" hidden>
     <label for="mk-name">Name</label>
@@ -1125,6 +1144,44 @@ const LANG = L.lang;
 let LBOOKS = {};
 const textPath = b => (LBOOKS[b.osis] ? `i18n/${LANG}/text/` : "text/") + b.slug + ".json";
 const psName = b => (b.osis === "Ps" && L.en ? "Psalm" : b.n);
+// Other versions of the Bible (scripts/versions.py, data/bible/versions.json): the version being
+// read in this language, "ours" for the site's own translation. Switching swaps the text in
+// place; the Hebrew and Greek, word by word and the notes stay those of our data.
+let VERSIONS = [], VER = store.get("ver." + LANG, "ours");
+const verOf = id => VERSIONS.find(v => v.id === id);
+const ourName = () => L.en ? "Plain English" : "淺白譯本";
+const verShort = () => VER === "ours" ? ourName() : (verOf(VER)?.short || VER);
+const merged = new Map();
+// A book in the version being read: our book file with the version's wording in place of ours.
+function getBook(b) {
+  if (VER === "ours" || !verOf(VER)) return getJSON(textPath(b));
+  const key = VER + "/" + b.slug;
+  if (!merged.has(key)) merged.set(key, Promise.all([getJSON(textPath(b)), getJSON(`versions/${VER}/${b.slug}.json`)]).then(([base, ver]) => {
+    const theirs = new Map(ver.chapters.map(ch => [+ch.c, ch.v]));
+    return { ...base, ver: VER, chapters: base.chapters.map(ch => {
+      const rows = theirs.get(+ch.c) || [];
+      const byV = new Map(rows.filter(r => !(r[2] && r[2].x)).map(r => [r[0], r]));
+      const out = [];
+      let covered = 0;
+      for (const row of ch.v) {
+        if (row[0] <= covered) continue;          // joined into the verse before
+        const t = byV.get(row[0]);
+        if (!t) continue;                         // the version has no verse here
+        const extra = { ...(row[3] || {}), ...(t[2] || {}) };
+        if (!(t[2] && t[2].p)) delete extra.p;
+        if (extra.to) covered = extra.to;
+        out.push([row[0], t[1], row[2], extra]);
+      }
+      // Verses the version has and ours doesn't (Matthew 17:21 in the King James), in their place.
+      for (const t of rows.filter(r => r[2] && r[2].x)) {
+        const at = out.findIndex(r => r[0] > t[0]);
+        out.splice(at < 0 ? out.length : at, 0, [t[0], t[1], "", { ...t[2] }]);
+      }
+      return { c: ch.c, s: "", n: {}, v: out, ver: VER };
+    }) };
+  }).catch(e => { merged.delete(key); throw e; }));
+  return merged.get(key);
+}
 const $ = id => document.getElementById(id);
 const el = (tag, attrs = {}, ...kids) => {
   const e = document.createElement(tag);
@@ -1223,6 +1280,7 @@ function inline(text, noteLetters) {
 }
 const letter = i => { let s = ""; i++; while (i > 0) { const r = (i - 1) % 26; s = String.fromCharCode(97 + r) + s; i = Math.floor((i - 1) / 26); } return s; };
 function verseLabel(b, c, row) {
+  if (row[3] && row[3].to) return { text: `${row[0]}–${row[3].to}` };
   const e = row[3] && row[3].e;
   if (settings.numbering === "english" && b.t === "OT" && e) {
     const [ec, ev] = e.split(":").map(Number);
@@ -1255,9 +1313,10 @@ function chapterHead(b, c, chapter) {
   return el("header", { class: "chead chap-head" + (c === 1 ? " new-book" : "") },
     el("p", { class: "eyebrow", text: b.n }),
     el("h2", { class: "chap-num", text: (b.osis === "Ps" && L.en ? "Psalm " : "") + c }),
-    !L.en && (chapter.l === "en" || !LBOOKS[b.osis]) ? el("p", { class: "lang-note", text: "This chapter isn’t translated into this language yet, so it is shown in English." }) : null,
+    !L.en && !chapter.ver && (chapter.l === "en" || !LBOOKS[b.osis]) ? el("p", { class: "lang-note", text: "This chapter isn’t translated into this language yet, so it is shown in English." }) : null,
     el("div", { class: "meta" },
-      el("button", { class: "badge " + st, type: "button", text: STATUS_LABEL[st] || st, onclick: () => openSheet("about") }),
+      chapter.ver ? el("button", { class: "badge ver", type: "button", text: verOf(chapter.ver)?.name || chapter.ver, onclick: openVersions })
+        : el("button", { class: "badge " + st, type: "button", text: STATUS_LABEL[st] || st, onclick: () => openSheet("about") }),
       el("span", { class: "src", text: b.t === "NT" ? "From the Greek" : allAramaic(b, c) ? "From the Aramaic" : hasAramaic(b, c) ? "From the Hebrew and Aramaic" : "From the Hebrew" }),
       web, guide(b, c)));
 }
@@ -1280,7 +1339,7 @@ function buildChapter(b, c, data) {
   const sec = el("section", { class: "chap" + (isPoetry(b, c) ? " poetry" : ""), "data-book": b.slug, "data-c": c, "aria-label": `${bookName(b)} ${c}` });
   sec.append(chapterHead(b, c, chapter));
   // The verses keep their own wording: the page's translation (i18n.js) leaves them alone.
-  const para = () => el("p", { translate: "no", lang: chapter.l || (LBOOKS[b.osis] ? LANG : "en") });
+  const para = () => el("p", { translate: "no", lang: chapter.ver ? (verOf(chapter.ver)?.lang || "en") : chapter.l || (LBOOKS[b.osis] ? LANG : "en") });
   let p = para();
   for (const row of chapter.v) {
     const [n, en] = row;
@@ -1295,7 +1354,7 @@ function buildChapter(b, c, data) {
     if (a && a.h) span.dataset.h = a.h;
     if (a && a.n) span.classList.add("has-note");
     if (a && a.b) span.classList.add("bm");
-    if (a && a.r) markRanges(span, a.r);
+    if (a && a.r && !chapter.ver) markRanges(span, a.r);
     p.append(span);
     if (row[3] && row[3].p) { sec.append(p); p = para(); }
   }
@@ -1330,7 +1389,7 @@ async function show(b, c, v, opts = {}) {
   if (typeof listen !== "undefined" && listen.on && !opts.keepListening) listen.stop();
   $("loading").hidden = false;
   let data;
-  try { data = await getJSON(textPath(b)); }
+  try { data = await getBook(b); }
   catch (e) { $("loading").textContent = "This chapter couldn't be loaded. Check your connection and try again."; return; }
   if (token !== showToken) return;
   closeVerse();
@@ -1383,7 +1442,7 @@ async function addAfter() {
   const token = showToken;
   try {
     const [b, c] = last.next;
-    const data = await getJSON(textPath(b));
+    const data = await getBook(b);
     if (token !== showToken) return;
     const ctx = buildChapter(b, c, data);
     $("text").append(ctx.sec);
@@ -1401,7 +1460,7 @@ async function addBefore() {
   const token = showToken;
   try {
     const [b, c] = first.prev;
-    const data = await getJSON(textPath(b));
+    const data = await getBook(b);
     if (token !== showToken) return;
     const ctx = buildChapter(b, c, data);
     // Keep the words on screen where they were: measure, add above, and scroll by the difference.
@@ -1488,7 +1547,7 @@ async function fillPlan(token) {
   for (let i = 1; i < list.length; i++) {
     const [b, c] = list[i];
     let data;
-    try { data = await getJSON(textPath(b)); } catch (e) { break; }
+    try { data = await getBook(b); } catch (e) { break; }
     if (token !== showToken) return;
     const ctx = buildChapter(b, c, data);
     $("text").append(ctx.sec);
@@ -1704,7 +1763,7 @@ async function openVerse(span) {
   bmb.onclick = () => { setBookmark(id, bmOn() ? null : id); bmShow(); toast(bmOn() ? L.t("Bookmarked {ref}", { ref: passageLabel(id) }) : "Bookmark removed"); };
   $("listen-verse").onclick = () => { closeVerse(); listen.start(span); };
   $("share-verse").onclick = () => window.Share?.verse({ ref: `${bookName} ${c}:${n}`, text: plainVerse(row[1]),
-    note: "Open Plain English Translation · draft", url: Share.here("index.html", refHash(b, c, n)).replace(/index\.html#/, "#") });
+    note: VER === "ours" ? "Open Plain English Translation · draft" : verOf(VER)?.name || VER, url: Share.here("index.html", refHash(b, c, n)).replace(/index\.html#/, "#") });
   // Words.
   $("word").hidden = true;
   const inter = $("inter");
@@ -1821,7 +1880,7 @@ function saveAnnotation(id, a) {
 function plainVerse(text) { return (text || "").replace(/\[\^\w+\]/g, "").replace(/\*/g, ""); }
 function copyVerse(row) {
   const { b, c } = cur;
-  const s = `“${plainVerse(row[1])}” (${psName(b)} ${c}:${row[0]}, Open Plain English Translation, draft)`;
+  const s = `“${plainVerse(row[1])}” (${psName(b)} ${c}:${row[0]}, ${VER === "ours" ? "Open Plain English Translation, draft" : verOf(VER)?.short || VER})`;
   const done = () => toast("Copied");
   if (navigator.clipboard) navigator.clipboard.writeText(s).then(done).catch(() => fallbackCopy(s, done));
   else fallbackCopy(s, done);
@@ -1909,7 +1968,7 @@ async function renderStudy() {
 }
 // A verse's text, for a preview under a reference.
 async function verseText(b, c, v) {
-  const data = await getJSON(textPath(b));
+  const data = await getBook(b);
   const ch = data.chapters[c - 1];
   if (!ch) return [];
   return ch.v.filter(r => (v == null ? r[0] <= 3 : r[0] === v)).map(r => [r[0], plainVerse(r[1])]);
@@ -2082,7 +2141,7 @@ function rangeOf(ref) {
 }
 async function passage(ref) {
   const r = rangeOf(ref);
-  const data = await getJSON(textPath(r.b));
+  const data = await getBook(r.b);
   const out = [];
   for (let c = r.c1; c <= r.c2; c++) {
     const ch = data.chapters[c - 1];
@@ -3085,7 +3144,7 @@ async function renderBookmarks() {
         el("small", { text: new Date(notes[id].t || Date.now()).toLocaleDateString(undefined, { day: "numeric", month: "short", year: "numeric" }) })),
       el("button", { class: "rm", type: "button", "aria-label": L.t("Remove the bookmark at {ref}", { ref: passageLabel(id, end) }), onclick: () => { setBookmark(id, null); renderBookmarks(); } }, "✕"));
     list.append(li);
-    getJSON(textPath(r.b)).then(d => { const row = d.chapters[r.c - 1]?.v.find(x => x[0] === r.v); if (row) words.textContent = plainVerse(row[1]); }).catch(() => {});
+    getBook(r.b).then(d => { const row = d.chapters[r.c - 1]?.v.find(x => x[0] === r.v); if (row) words.textContent = plainVerse(row[1]); }).catch(() => {});
   }
 }
 $("open-bookmarks").onclick = () => { openSheet("bookmarks"); renderBookmarks(); };
@@ -3344,6 +3403,35 @@ $("open-marks").onclick = () => { openSheet("marks"); renderMarksKey(); };
 $("open-marks-2").onclick = () => { openSheet("marks"); renderMarksKey(); };
 $("open-mymarks").onclick = () => openMyMarks(false);
 
+/* ---------- Versions ---------- */
+// The versions for the reader's language first (ours, then the others), then the rest.
+function openVersions() {
+  const item = (id, short, name, lic) => el("li", {}, el("button", { type: "button", "aria-current": String(VER === id), onclick: () => setVersion(id) },
+    el("span", { class: "s", translate: "no", text: short }), el("span", { class: "n", translate: "no", text: name }), el("span", { class: "l", text: lic })));
+  const ours = item("ours", ourName(), L.en ? "Open Plain English Translation" : "淺白中文譯本",
+    L.t("Our own translation, from the Hebrew, Aramaic and Greek. A first draft."));
+  const mine = VERSIONS.filter(v => v.lang === LANG), rest = VERSIONS.filter(v => v.lang !== LANG);
+  const head = t => el("li", {}, el("h3", { text: t }));
+  $("ver-list").replaceChildren(ours, ...mine.map(v => item(v.id, v.short, v.name, v.license)),
+    ...(rest.length ? [head("Other languages"), ...rest.map(v => item(v.id, v.short, v.name, v.license))] : []));
+  openSheet("versions");
+}
+// Switch versions in place: the same chapter and verse, with no reload.
+function setVersion(id) {
+  closeSheets();
+  if (id === VER) return;
+  VER = id;
+  store.set("ver." + LANG, VER);
+  $("ver-label").textContent = verShort();
+  if (!cur) return;
+  // The verse at the top of the screen stays at the top.
+  let v = null;
+  for (const span of cur.sec.querySelectorAll(".v")) if (span.getBoundingClientRect().bottom > 80) { v = +span.dataset.v; break; }
+  show(cur.b, cur.c, v && v > 1 ? v : null);
+  toast(L.t("Reading the {name}", { name: verOf(VER)?.name || (L.en ? "Open Plain English Translation" : "淺白中文譯本") }));
+}
+$("ver").onclick = openVersions;
+
 /* ---------- Highlighting part of a verse ---------- */
 // A highlight on part of a verse is stored with the verse as [start, end, color], counting the
 // characters of its words as the reader shows them (not the verse number or note letters), so
@@ -3508,6 +3596,7 @@ function noteSelection() {
 // Your notes on words, and your markings, in this verse: at the top of the verse panel.
 function renderWordNotes(id, span) {
   const list = $("vwords"), a = notes[id] || {};
+  if (ctxOfNode(span)?.chapter.ver) { list.hidden = true; return; }   // they belong to our wording
   const words = countedText(span).map(n => n.data).join("");
   const items = (a.r || []).filter(q => q[2] === "n" || q[2] === "m").sort((p, q) => p[0] - q[0]);
   list.replaceChildren(...items.map(q => {
@@ -3540,8 +3629,15 @@ function barTool(label, icon, onclick) {
   b.innerHTML = icon;
   return b;
 }
-function hlBarMain() {
+function hlBarMain(other) {
   hlBar.classList.remove("marking");
+  // In another version the words are not ours: whole verses can still be bookmarked, and
+  // highlighted from the verse panel.
+  if (other) {
+    hlBar.replaceChildren(el("span", { class: "hl-note", text: "Highlights and notes on words, and markings, are kept on our own translation." }),
+      barTool("Bookmark the selected verses", ICON_BM, bookmarkSelection));
+    return;
+  }
   hlBar.replaceChildren(...swatchRow(null, highlightSelection, { pressed: false }), el("span", { class: "sep", "aria-hidden": "true" }),
     barTool("Note on these words", ICON_NOTE, noteSelection), barTool("Mark these words", ICON_MARK, hlBarMarks),
     barTool("Bookmark the selected verses", ICON_BM, bookmarkSelection));
@@ -3645,7 +3741,7 @@ document.addEventListener("selectionchange", () => {
   hlTimer = setTimeout(() => {
     const vs = selectedVerses();
     if (!vs.length) { hlBar.hidden = true; return; }
-    if (hlBar.hidden) hlBarMain();
+    if (hlBar.hidden) hlBarMain(vs.some(([span]) => ctxOfNode(span)?.chapter.ver));
     hlBar.hidden = false;
     placeHlBar();
   }, 180);
@@ -3741,8 +3837,12 @@ function route() {
 }
 applySettings();
 autoScroll.render();
-Promise.all([getJSON("books.json"), !L.en && L.LANGS[LANG].bible ? getJSON(`i18n/${LANG}/books.json`).catch(() => ({})) : {}]).then(([list, lbooks]) => {
+Promise.all([getJSON("books.json"), !L.en && L.LANGS[LANG].bible ? getJSON(`i18n/${LANG}/books.json`).catch(() => ({})) : {},
+  getJSON("versions.json").catch(() => [])]).then(([list, lbooks, versions]) => {
   LBOOKS = lbooks;
+  VERSIONS = versions;
+  if (!verOf(VER)) VER = "ours";
+  $("ver-label").textContent = verShort();
   // Each book keeps its English name (b.en: addresses, and searching in English) and takes the
   // language's (b.n), with its short forms for "go to" (b.alt), from the dictionary.
   for (const b of list) {
@@ -3756,7 +3856,7 @@ Promise.all([getJSON("books.json"), !L.en && L.LANGS[LANG].bible ? getJSON(`i18n
   addEventListener("hashchange", route);
   route();
 }).catch(() => { $("loading").textContent = "The Bible couldn't be loaded. Check your connection and reload the page."; });
-if ("serviceWorker" in navigator && /^https?:$/.test(location.protocol) && !embedded) navigator.serviceWorker.register("sw.js?v=53").catch(() => {});
+if ("serviceWorker" in navigator && /^https?:$/.test(location.protocol) && !embedded) navigator.serviceWorker.register("sw.js?v=54").catch(() => {});
 
 /* ---------- For account.js: highlights and notes, and two of the reader's tools ---------- */
 var reader = {
