@@ -562,10 +562,6 @@ body.ui-panel-open .zoom { right: calc(var(--ui-panel-w) + 16px); }
       if (card.classList.contains("tucked")) UI.tuck(card, false);
     }).observe(card, { childList: true });
     new MutationObserver(() => { if (card.hidden && card.classList.contains("tucked")) UI.tuck(card, false); else mark(); }).observe(card, { attributes: true, attributeFilter: ["hidden"] });
-    // A tap on what's left of the tucked card brings it back, rather than acting on what's under the tap.
-    card.addEventListener("click", e => {
-      if (card.classList.contains("tucked") && !e.target.closest(".tuck")) { e.preventDefault(); e.stopPropagation(); UI.tuck(card, false); }
-    }, true);
   })(document.getElementById("card"));
 
   /* ---------- The card ---------- */
