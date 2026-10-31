@@ -4042,7 +4042,7 @@ I18N.add({
 "Tubal-cain":"土八‧該隱",
 "Tychicus":"推基古",
 "Tyre":"推羅",
-"Tyrians":"泰爾",
+"Tyrians":"推羅人",
 "Ucal":"烏甲",
 "Uel":"烏益",
 "Ulai":"烏萊河",
