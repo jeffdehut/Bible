@@ -60,7 +60,7 @@
   color-scheme: dark;
 }
 * { box-sizing: border-box; }
-[hidden] { display: none !important; }
+[hidden]:not(.ui-sheet) { display: none !important; }
 html, body { height: 100%; }
 body {
   margin: 0; background: var(--table); color: var(--ink);
@@ -134,24 +134,16 @@ button { font: inherit; color: inherit; }
   .tag select { width: 100%; }
 }
 
-/* Side panel (bottom sheet on phones) */
-.panel {
-  position: fixed; z-index: 4; top: max(70px, calc(env(safe-area-inset-top, 0px) + 62px)); right: max(16px, env(safe-area-inset-right, 0px));
-  width: min(380px, calc(100vw - 32px)); max-height: calc(100vh - 150px); overflow: auto;
-  background: var(--chrome-solid); border: 1px solid var(--line); border-radius: 14px; box-shadow: var(--shadow);
-  padding: 14px 16px 16px;
-}
+/* Side panels and the place card: the site's shared panel (ui.js) places them, a sheet from the
+   bottom on phones, down the right-hand side under the toolbar on wider screens. */
+.panel, .card { background: var(--chrome-solid); }
+body.ui-panel-open .zoom { right: calc(var(--ui-panel-w) + 16px); }
 .panel h2 { margin: 0 0 8px; font: 700 18px/1.2 var(--serif); }
 .panel p { margin: 0 0 10px; color: var(--muted); font-size: 14px; }
 .panel p strong { color: var(--ink); }
-.panel .close { position: absolute; top: 8px; right: 8px; border: 0; background: transparent; border-radius: 8px; padding: 6px; cursor: pointer; }
+.panel .close { position: absolute; z-index: 4; top: 8px; right: 8px; border: 0; background: transparent; border-radius: 8px; padding: 6px; cursor: pointer; }
 .panel .close svg { width: 18px; height: 18px; display: block; }
 .panel a { color: var(--accent); }
-@media (max-width: 640px) {
-  .panel { top: auto; bottom: 0; right: 0; left: 0; width: auto; max-height: 62vh; border-radius: 16px 16px 0 0;
-    padding-bottom: max(16px, env(safe-area-inset-bottom, 0px));
-    padding-left: max(16px, env(safe-area-inset-left, 0px)); padding-right: max(16px, env(safe-area-inset-right, 0px)); }
-}
 #find input {
   width: 100%; padding: 9px 12px; border: 1px solid var(--line); border-radius: 10px;
   background: transparent; color: var(--ink); font: 400 15px/1.3 var(--sans); margin-bottom: 8px;
@@ -175,17 +167,12 @@ button { font: inherit; color: inherit; }
 .about li { margin-bottom: 3px; }
 
 /* Place card */
-.card {
-  position: fixed; z-index: 4; left: max(16px, env(safe-area-inset-left, 0px)); bottom: max(14px, env(safe-area-inset-bottom, 0px));
-  width: min(360px, calc(100vw - 92px)); background: var(--chrome-solid); border: 1px solid var(--line);
-  border-radius: 14px; box-shadow: var(--shadow); padding: 12px 14px 13px;
-}
 .card h2 { margin: 0 34px 2px 0; font: 700 21px/1.15 var(--serif); }
 .card .kind { font: 600 11px/1.3 var(--sans); letter-spacing: 0.1em; text-transform: uppercase; color: var(--muted); }
 .card dl { display: grid; grid-template-columns: auto 1fr; gap: 3px 12px; margin: 8px 0 0; font-size: 13.5px; }
 .card dt { color: var(--muted); }
 .card dd { margin: 0; }
-.card .close { position: absolute; top: 8px; right: 8px; border: 0; background: transparent; border-radius: 8px; padding: 6px; cursor: pointer; }
+.card .close { position: absolute; z-index: 4; top: 8px; right: 8px; border: 0; background: transparent; border-radius: 8px; padding: 6px; cursor: pointer; }
 .card .close svg { width: 18px; height: 18px; display: block; }
 .card a { color: var(--accent); }
 .card .back { display: inline-flex; align-items: center; gap: 4px; margin: 0 34px 6px 0; font: 600 13px/1.3 var(--sans); text-decoration: none; }
@@ -296,17 +283,19 @@ button { font: inherit; color: inherit; }
   <button type="button" id="zfit" aria-label="Show the whole sheet"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M4 9V4h5M20 9V4h-5M4 15v5h5M20 15v5h-5"/></svg></button>
 </div>
 
-<section class="panel" id="find" hidden aria-label="Find a place">
+<section class="panel ui-sheet" id="find" hidden aria-label="Find a place">
+  <div class="ui-grab"></div>
   <button type="button" class="close" aria-label="Close"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M6 6l12 12M18 6 6 18"/></svg></button>
-  <h2>Index of places</h2>
+  <h2 class="ui-head">Index of places</h2>
   <input type="search" placeholder="Search places" aria-label="Search places" autocomplete="off">
   <p class="count"></p>
   <ol></ol>
 </section>
 
-<section class="panel" id="layers" hidden aria-label="Layers">
+<section class="panel ui-sheet" id="layers" hidden aria-label="Layers">
+  <div class="ui-grab"></div>
   <button type="button" class="close" aria-label="Close"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M6 6l12 12M18 6 6 18"/></svg></button>
-  <h2>Layers</h2>
+  <h2 class="ui-head">Layers</h2>
   <fieldset class="periods toggles" id="periods" hidden><legend>Period</legend></fieldset>
   <div class="toggles">
     <label><input type="checkbox" data-layer="modern"> <span>Modern names<small>The modern site under each place, in italics</small></span></label>
@@ -317,21 +306,23 @@ button { font: inherit; color: inherit; }
   </div>
 </section>
 
-<section class="panel about" id="about" hidden aria-label="About this map">
+<section class="panel ui-sheet about" id="about" hidden aria-label="About this map">
+  <div class="ui-grab"></div>
   <button type="button" class="close" aria-label="Close"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M6 6l12 12M18 6 6 18"/></svg></button>
-  <h2>About this map</h2>
+  <h2 class="ui-head">About this map</h2>
 {{ABOUT}}
 </section>
 
-<section class="panel" id="stations" hidden aria-label="Journeys and routes">
+<section class="panel ui-sheet" id="stations" hidden aria-label="Journeys and routes">
+  <div class="ui-grab"></div>
   <button type="button" class="close" aria-label="Close"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M6 6l12 12M18 6 6 18"/></svg></button>
   <div class="journeys" role="group" aria-label="Choose a journey" hidden></div>
-  <h2 id="stations-title"></h2>
+  <h2 class="ui-head" id="stations-title"></h2>
   <p id="stations-note"></p>
   <ol class="stations"></ol>
 </section>
 
-<aside class="card" id="card" hidden aria-live="polite"></aside>
+<aside class="card ui-sheet" id="card" hidden aria-live="polite"><div class="ui-grab"></div></aside>
 
 
 <!-- DATA -->
@@ -890,7 +881,7 @@ const fromReader = link.get("from") && {
 };
 function cardShell() {
   const card = document.getElementById("card");
-  card.innerHTML = "";
+  card.innerHTML = '<div class="ui-grab"></div>';
   const close = document.createElement("button");
   close.className = "close"; close.type = "button"; close.setAttribute("aria-label", "Close");
   close.innerHTML = '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M6 6l12 12M18 6 6 18"/></svg>';
@@ -924,7 +915,7 @@ function showStation(j) {
   const J = JOURNEYS[state.journey];
   const kind = document.createElement("div"); kind.className = "kind";
   kind.textContent = (JOURNEYS.length > 1 ? J.short + " · " : "") + `${J.unit || "Stop"} ${st.n} of ${STATIONS.length}`;
-  const h = document.createElement("h2"); h.textContent = st.name + (st.x == null || st.sure ? "" : "?");
+  const h = document.createElement("h2"); h.className = "ui-head"; h.textContent = st.name + (st.x == null || st.sure ? "" : "?");
   row("Named in", readerLink(st.ref));
   if (st.what) row("What happened", st.what);
   row(st.x != null && st.s >= 700 ? "Site" : "Proposed site", st.site || "Unknown");
@@ -943,7 +934,7 @@ function showCard(i) {
   const kind = document.createElement("div");
   kind.className = "kind";
   kind.textContent = p.cap ? p.cap : "Town";
-  const h = document.createElement("h2");
+  const h = document.createElement("h2"); h.className = "ui-head";
   h.textContent = p.n + (p.c ? "" : "?");
   if (p.m) row(modernName(p) || p.m === p.n ? "Site today" : "Site", p.m);
   row("Location", `${confidence(p)} (score ${p.s.toLocaleString("en-US")} of 1,000)`);
@@ -960,6 +951,9 @@ function showCard(i) {
 
 function openPanel(id) {
   for (const p of document.querySelectorAll(".panel")) p.hidden = p.id !== id || !p.hidden;
+  // A panel opens in the card's place: put the card away.
+  const card = document.getElementById("card");
+  if (id && !document.getElementById(id).hidden && !card.hidden) card.querySelector(".close").click();
   for (const b of document.querySelectorAll("[data-panel]")) b.setAttribute("aria-pressed", String(b.dataset.panel === id && !document.getElementById(id).hidden));
   if (id === "find" && !document.getElementById("find").hidden) document.querySelector("#find input").focus();
 }
@@ -987,7 +981,7 @@ function buildIndex() {
         const rect = svg.node().getBoundingClientRect();
         const k = Math.max(T.k, fitK * 4);
         const t = d3.zoomIdentity.translate(rect.width / 2 - p.x * k, rect.height * 0.42 - p.y * k).scale(k);
-        if (rect.width < 640) openPanel("find");
+        if (UI.phone()) openPanel("find");
         svg.transition().duration(dur(650)).call(zoom.transform, t).on("end", () => showCard(i));
       };
       li.append(b); list.append(li);
@@ -1046,7 +1040,7 @@ function fillJourneyPanel() {
       const rect = svg.node().getBoundingClientRect();
       const k = Math.max(T.k, fitK * 3);
       const t = d3.zoomIdentity.translate(rect.width / 2 - at.x * k, rect.height * 0.42 - at.y * k).scale(k);
-      if (rect.width < 640) openPanel("stations");
+      if (UI.phone()) openPanel("stations");
       svg.transition().duration(dur(650)).call(zoom.transform, t).on("end", () => showStation(j));
     };
     li.append(b); list.append(li);

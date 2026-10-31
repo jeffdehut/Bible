@@ -91,17 +91,13 @@ h2 { margin: 28px 0 6px; font: 500 22px/1.2 var(--read); }
 .list li a { display: block; margin-bottom: 2px; font: 600 12px/1.3 var(--sans); text-decoration: none; letter-spacing: 0.02em; }
 .more { margin: 6px 0 0; }
 .more button { border: 1px solid var(--line); background: var(--surface); color: var(--ink); border-radius: 10px; padding: 8px 14px; font: 600 14px/1.2 var(--sans); cursor: pointer; }
-.card { position: fixed; z-index: 20; left: 0; right: 0; bottom: 0; max-height: 60vh; overflow: auto; background: var(--surface); border-top: 1px solid var(--line);
-  border-radius: 18px 18px 0 0; box-shadow: var(--shadow); padding: 16px max(16px, env(safe-area-inset-right, 0px)) max(18px, env(safe-area-inset-bottom, 0px)) max(16px, env(safe-area-inset-left, 0px)); }
-@media (min-width: 900px) { .card { left: auto; right: 16px; bottom: 16px; width: 380px; border: 1px solid var(--line); border-radius: 16px; } }
-.card[hidden] { display: none; }
 .card .kicker { font: 600 11.5px/1.3 var(--sans); letter-spacing: 0.08em; text-transform: uppercase; color: var(--muted); padding-right: 40px; }
 .card h2 { margin: 6px 0 8px; font: 400 26px/1.1 var(--read); }
 .card .verse { margin: 0 0 12px; font: 400 19px/1.5 var(--read); }
 .card .chips .chip { min-height: 30px; font-size: 12.5px; }
 .card .acts { display: flex; flex-wrap: wrap; gap: 8px; margin-top: 12px; }
 .card .acts a { display: inline-flex; min-height: 36px; align-items: center; padding: 6px 12px; border-radius: 10px; background: var(--lapis); color: var(--surface); font: 600 14px/1.2 var(--sans); text-decoration: none; }
-.card .close { position: absolute; top: 10px; right: 10px; width: 36px; height: 36px; border: 0; border-radius: 10px; background: transparent; color: var(--ink); cursor: pointer; font-size: 16px; }
+.card .close { position: absolute; z-index: 4; top: 10px; right: 10px; width: 36px; height: 36px; border: 0; border-radius: 10px; background: transparent; color: var(--ink); cursor: pointer; font-size: 16px; }
 .note { margin: 30px 0 0; font-size: 13.5px; color: var(--muted); max-width: 72ch; }
 </style>
 
@@ -128,7 +124,7 @@ h2 { margin: 28px 0 6px; font: 500 22px/1.2 var(--read); }
 
   <p class="note">A verse is put under a topic when its Hebrew uses one of the topic's words (by Strong's number, from STEPBible's tagged text) or its English does, so a saying about the tongue is found whether it says tongue, lips, mouth or words. It is a way in, not a commentary: a few verses will be found by a word used in passing.</p>
 </main>
-<article class="card" id="card" hidden aria-live="polite"></article>
+<article class="card ui-sheet" id="card" hidden aria-live="polite"><div class="ui-grab"></div></article>
 
 <script src="themes.js?v=1"></script>
 <!-- DATA -->
@@ -232,8 +228,9 @@ h2 { margin: 28px 0 6px; font: 500 22px/1.2 var(--read); }
     open = d; d[0].setAttribute("aria-pressed", "true");
     const C = D.collections[x.col];
     $("card").replaceChildren(...[
+      el("div", { class: "ui-grab" }),
       el("button", { class: "close", type: "button", "aria-label": "Close", text: "✕", onclick: close }),
-      el("div", { class: "kicker" }, Themes.el(COL_ICONS[x.col]), C.n),
+      el("div", { class: "kicker ui-head" }, Themes.el(COL_ICONS[x.col]), C.n),
       el("h2", { text: ref(x) }),
       el("p", { class: "verse", text: x.t }),
       x.topics.length || x.but ? el("div", { class: "chips" }, ...x.topics.map(k => el("button", { type: "button", class: "chip", onclick: () => { topic = k; showAll = false; update(); close(); $("field").scrollIntoView({ behavior: "smooth" }); } }, Themes.el(iconOf(k)), D.topics[k][1])),
