@@ -506,7 +506,7 @@ Settled while drafting 2 Kings:
 | Units: סְאָה; קַב; כִּכָּר | 細亞；卡布；他連得 | Values in notes (約 7 公升；約 1.2 公升, 和合本「升」；約 34 公斤). |
 | חֲרֵי יוֹנִים / דִּבְיוֹנִים (6:25) | 鴿子糞 | Ketiv and the politer qere noted; perhaps a name for a cheap food. |
 | כֹּה יַעֲשֶׂה־לִּי אֱלֹהִים וְכֹה יוֹסִף (singular verb) | 願神重重懲罰我 | As Ruth 1:17 (6:31). |
-| נְאֻם־יְהוָה (in an oracle) | 這是耶和華的宣告 | *ne'um* noted (9:26). |
+| נְאֻם־יְהוָה (in an oracle) | 這是耶和華說的 | *ne'um* noted (9:26); aligned with the prophets (Isaiah table). |
 | חֲגֹר מָתְנֶיךָ | 你束上腰 | Noted: tucking the robe into the belt (4:29; 9:1). |
 | הֲשָׁלוֹם (Jehu, 9:17–31) | 平安嗎？ | |
 | Israel's synchronisms (10–17) | 猶大王X第N年，Y在撒馬利亞登基作以色列王，作王N年 | Judah's: 以色列王X第N年，Y登基作猶大王; where the length is placed after Samaria, 他在撒馬利亞作王N年 (15:13, 17). Months: 作王六個月, 一個月. |
