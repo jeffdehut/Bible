@@ -556,6 +556,17 @@ Settled while drafting 1 Chronicles:
 | מַשָּׂא (15:22, 27) | 歌唱 | *massa* noted: lifting the voice, or carrying the ark. |
 | The psalm of 16:8–36 | Poetry without quotation marks, one verse per line | 16:7 ends with ：; differences from Psalms 105, 96, 106 noted as 詩篇105篇6節作「……」; those psalms to follow this wording where the Hebrew is the same. |
 | יְהוָה אֱלֹהִים (17:16–17) | 耶和華神 | 2 Samuel 7's 主耶和華 noted. |
+| שָׂטָן (21:1, no article) | 撒但 | 或譯「一個敵對者」 noted, with *ha-satan* and 2 Samuel 24:1. Chapter 21 follows 2 Samuel 24's wording where the Hebrew is the same; מַלְאָךְ alone 天使, מַלְאַךְ יְהוָה 耶和華的使者. |
+| מַחְלְקוֹת; מִשְׁמָרוֹת | 班次、班；職守 | Priests, Levites, singers, gatekeepers, army (1 Chronicles 23–28). |
+| Lots (24:7–18; 25:9–31) | 頭一籤抽出來是X，第二籤是Y | 25:10–31 one line: 第N籤是X，他的兒子和兄弟共十二人. |
+| הָרֹאשׁ; הַשֵּׁנִי; הַבְּכוֹר (lists) | 為首的；第二；長子 | |
+| אֹצְרוֹת; בֵּית הָאֲסֻפִּים; פַּרְבָּר | 府庫；庫房；廊院 | *asuppim*, *parbar* noted (26:15, 18), 廊院 as 2 Kings 23:11. |
+| הַקֳּדָשִׁים (gifts) | 奉獻物 | |
+| גִּבּוֹרֵי חַיִל; בְּנֵי־חַיִל (Levites) | 能幹的人 | As 9:13. |
+| Months in the army list (27:2–15) | 一月班、二月班；第四位，四月的 | Not 正月. |
+| תַּבְנִית | 式樣 | As Exodus 25:9 (28:11–19). |
+| בִּירָה (the temple) | 宮殿 | *birah* noted (29:1). |
+| אֲדַרְכֹנִים | 達利克 | Persian gold coin, noted (29:7). |
 
 ## Style
 
