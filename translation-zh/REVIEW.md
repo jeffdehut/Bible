@@ -28,3 +28,4 @@ Found while drafting; not yet settled across books.
 - בָּרוּךְ הַבָּא (Psalm 118:26) is 是蒙福的 by the Psalms rule, but Mark 11:9 has 是應當稱頌的; settle one rendering for the quotation in both places.
 - *ne'um YHWH*: settled as 耶和華說 (opening) / 這是耶和華說的 (closing) everywhere; Kings and Chronicles brought into line (Isaiah 1–12).
 - Isaiah 7:14 *almah*: 少女 in the text, 童女 (和合本, Matthew 1:23) in a note; Matthew 1:23 itself will read 童女 from the Greek *parthenos*.
+- Isaiah 13–27: animals of the ruins (13:21–22; 14:23 *qippod* 刺蝟, 和合本「箭豬」) are uncertain and rendered loosely; Kir-hareseth and Kir-heres (16:7, 11) both 吉珥‧哈列設 as the Union Version; 23:10 and 24:16 (*razi li*) rest on uncertain Hebrew.

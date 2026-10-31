@@ -876,6 +876,13 @@ Settled while drafting Isaiah (for all the prophets):
 | Numbering of 8:23–9:20 | 8:23 = 和合本 9:1；9:1–20 = 和合本 9:2–21 | Noted at 8:23 and 9:1; other references give both. |
 | NT quotations | The Hebrew in the text | A note where the Greek differs: 1:9; 6:9–10; 7:14; 8:12–14, 17–18; 8:23–9:1; 10:22–23; 11:10. |
 | שְׂרָפִים; צֶמַח (4:2); חֹטֶר, נֵצֶר (11:1) | 撒拉弗；苗；嫩枝、枝子 | *tsemach* and *netser* noted. |
+| מַשָּׂא X (13:1; 15:1; 17:1; 19:1; 21:1, 11, 13; 22:1; 23:1) | X的默示： | Heading as the first words of the verse; *massa* noted at 13:1 (「重擔」), later chapters refer back; 14:28 有這默示; 22:25 the same word 重擔 noted. |
+| Nations and places (13–23) | 推羅、西頓、大馬色、米底亞、迦勒底、古實、瑣安、挪弗、西曷、基提、他施、度瑪、底但、提瑪、基達 | Union Version forms (classic 推羅, 大馬色); modern identifications (塞浦路斯, 孟斐斯, 努比亞) in notes. |
+| הֵילֵל בֶּן־שָׁחַר (14:12) | 晨星，黎明之子 | Long note: *helel*, the Septuagint, the Vulgate's *lucifer*, 和合本「明亮之星，早晨之子」, the later reading of Satan. |
+| יַרְכְּתֵי צָפוֹן (14:13) | 北方的極處 | Psalm 48:3 (北方的高處) cross-referred. |
+| נְאֻם יְהוָה mid-verse (14:22; 22:25) | 這是……說的 after a clause; 萬軍之耶和華說： opening a verse | 22:14 *amar* (not *ne'um*) closing: ……，主萬軍之耶和華說. |
+| לִוְיָתָן; תַּנִּין (27:1) | 利維坦；海怪 | As Job and Psalms; 和合本「鱷魚」 and Ugarit's Litan noted. |
+| NT quotations (22:13; 25:8) | The Hebrew in the text | 22:13 1 Corinthians 15:32 agrees (LXX); 25:8 1 Corinthians 15:54 passive 「死亡被吞滅，得了勝利」 (*lanetsach* as victory) and the Septuagint's different line noted. |
 
 ## Style
 

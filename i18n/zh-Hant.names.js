@@ -2,6 +2,9 @@
 // (public domain) spells them. Written by scripts/names_zh.py: don't edit by hand;
 // corrections go in OVERRIDES there.
 I18N.add({
+"Sargon":"撒珥根",
+"Dimon":"底們",
+"Luhith":"魯希坡",
 "Immanuel":"以馬內利",
 "Shear-jashub":"施亞雅述",
 "Behemoth":"比希摩",
