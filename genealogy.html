@@ -3,7 +3,8 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
-<script src="i18n.js?v=11"></script>
+<script src="i18n.js?v=12"></script>
+<script src="ui.js?v=1"></script>
 <link rel="icon" href="icons/icon.svg" type="image/svg+xml">
 <link rel="apple-touch-icon" href="icons/icon-192.png">
 <meta name="theme-color" content="#fbfaf7" media="(prefers-color-scheme: light)">
@@ -158,15 +159,11 @@ button { font: inherit; color: inherit; }
 .swatch.dot { border-top-style: dotted; border-top-width: 3px; }
 .swatch.lapis { border-top-color: var(--lapis); }
 
-/* The card for the person chosen */
-.card {
-  position: absolute; z-index: 5; top: 64px; right: 12px; max-height: calc(100% - 80px); width: 360px; overflow-y: auto; overscroll-behavior: contain;
-  background: var(--surface); border: 1px solid var(--line); border-radius: 16px; box-shadow: var(--shadow); padding: 16px 16px 18px;
-  display: flex; flex-direction: column; gap: 12px;
-}
+/* The card for the person chosen: a panel of ui.js (a sheet from the bottom on phones, down the
+   right on wider screens) that tucks away instead of closing. */
+.card { display: flex; flex-direction: column; gap: 12px; }
 .card:focus { outline: none; }
-@media (min-width: 761px) { body.card-open .zoom { right: 384px; } }
-.card .grab { display: none; }
+body.ui-panel-open .zoom { right: calc(var(--ui-panel-w) + 16px); }
 .card .close { position: absolute; top: 10px; right: 10px; width: 34px; height: 34px; border: 0; background: transparent; border-radius: 9px; cursor: pointer; display: grid; place-items: center; color: var(--muted); }
 .card .close:hover { background: var(--lapis-soft); }
 .card .kicker { display: flex; align-items: center; gap: 8px; font: 600 11.5px/1.3 var(--sans); letter-spacing: 0.1em; text-transform: uppercase; color: var(--muted); padding-right: 36px; }
@@ -200,12 +197,8 @@ button { font: inherit; color: inherit; }
 .verses a:hover { text-decoration: underline; }
 
 @media (max-width: 760px) {
-  .card {
-    top: auto; left: 0; right: 0; bottom: 0; width: auto; max-height: 52%; border-radius: 18px 18px 0 0; border-bottom: 0;
-    padding: 6px max(16px, env(safe-area-inset-left, 0px)) max(18px, env(safe-area-inset-bottom, 0px));
-  }
-  .card .grab { display: block; flex: none; width: 40px; height: 4px; border-radius: 4px; background: var(--line); margin: 2px auto 4px; }
-  .card .close { top: 12px; }
+  .card .ui-grab { flex: none; }
+  .card .close { top: 24px; }
   .card h2 { font-size: 23px; }
   body.card-open .zoom, body.card-open .key { display: none; }
   .top { flex-wrap: wrap; }
@@ -234,12 +227,7 @@ button { font: inherit; color: inherit; }
 #tree .node.more rect { fill: var(--lapis-soft); stroke: var(--lapis); stroke-dasharray: 3 3; }
 #tree .gen-label { fill: var(--faint); font: 600 10.5px/1 var(--sans); font-variant-numeric: tabular-nums; letter-spacing: 0.08em; }
 
-/* Panels: the line from Adam to Jesus and the largest families; about this chart */
-.panel {
-  position: absolute; z-index: 7; top: 64px; left: 50%; transform: translateX(-50%); width: min(640px, calc(100% - 24px)); max-height: calc(100% - 88px); overflow-y: auto;
-  background: var(--surface); border: 1px solid var(--line); border-radius: 16px; box-shadow: var(--shadow); padding: 18px 20px;
-}
-@media (max-width: 760px) { .panel { top: 112px; max-height: calc(100% - 124px); } }
+/* Panels (ui.js): the line from Adam to Jesus and the largest families; about this chart */
 .panel h2 { margin: 0 0 8px; font: 500 22px/1.2 var(--read); }
 .panel h2 + p { margin-top: 0; }
 .panel p, .panel ul { margin: 0 0 10px; color: var(--ink); font-size: 14.5px; }
@@ -290,27 +278,22 @@ button { font: inherit; color: inherit; }
 .bar i { display: block; height: 100%; background: var(--lapis); }
 .visually-hidden { position: absolute; width: 1px; height: 1px; overflow: hidden; clip: rect(0 0 0 0); white-space: nowrap; }
 
-/* The card slides away: on a phone, drag it down by its top to leave only that showing; on a
-   wide screen, the arrow tucks it to the side. A tap on what's left brings it back. */
-.card { transition: transform 0.3s cubic-bezier(.2, .7, .2, 1); touch-action: pan-y; }
+/* The card tucks away (ui.js, data-tuck): to the bottom edge on a phone, to the right edge on a
+   wide screen. The arrow tucks it; a tap on what's left brings it back. */
 .card .tuck { position: absolute; top: 10px; right: 46px; width: 34px; height: 34px; border: 0; background: transparent; border-radius: 9px; cursor: pointer; display: grid; place-items: center; color: var(--muted); }
 .card .tuck:hover { background: var(--lapis-soft); }
 .card .tuck svg { transition: transform 0.3s; }
 .card.tucked { cursor: pointer; }
 .card.tucked .tuck svg { transform: rotate(180deg); }
-@media (min-width: 761px) {
-  .card.tucked { transform: translateX(calc(100% - 44px)); }
-  .card.tucked > :not(.tuck) { opacity: 0.25; }
+@media (min-width: 760px) {
   .card.tucked .tuck { right: auto; left: 5px; }
   body.card-tucked .zoom { right: 64px !important; }
   body.card-tucked .timebar { right: 64px !important; }
 }
-@media (max-width: 760px) {
-  .card .tuck { top: 12px; }
+@media (max-width: 759px) {
+  .card .tuck { top: 24px; }
   .card .tuck svg { transform: rotate(90deg); }
   .card.tucked .tuck svg { transform: rotate(-90deg); }
-  .card.tucked { transform: translateY(calc(100% - 96px)); }
-  .card .grab, .card .kicker, .card h2 { cursor: grab; touch-action: none; }
 }
 </style>
 
@@ -336,7 +319,7 @@ body::before { content: ""; position: fixed; inset: 0 0 auto; height: env(safe-a
 <header class="appbar">
   <a class="brand" href="index.html"><img src="icons/icon.svg" alt="Plain English Bible"><span aria-hidden="true">Plain English Bible</span></a>
 </header>
-<script src="nav.js?v=33"></script>
+<script src="nav.js?v=34"></script>
 
 <main class="stage" id="stage">
   <canvas id="family" tabindex="0" role="img" aria-label="A chart of the whole family of Adam. Use the search to find someone." aria-describedby="family-desc"></canvas>
@@ -391,11 +374,12 @@ body::before { content: ""; position: fixed; inset: 0 0 auto; height: env(safe-a
     <button type="button" id="zoom-fit" aria-label="Show everyone"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M4 9V4h5M20 9V4h-5M4 15v5h5M20 15v5h-5"/></svg></button>
   </div>
 
-  <article class="card" id="card" tabindex="-1" hidden aria-live="polite"></article>
+  <article class="card ui-sheet" id="card" data-tuck tabindex="-1" hidden aria-live="polite"></article>
 
-  <section class="panel" id="browse" hidden aria-labelledby="line-h">
+  <section class="panel ui-sheet" id="browse" data-detent="full" hidden aria-labelledby="line-h">
+    <div class="ui-grab"></div>
     <button type="button" class="close" data-close aria-label="Close"><svg viewBox="0 0 24 24" width="18" height="18" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M6 6l12 12M18 6 6 18"/></svg></button>
-    <h2 id="line-h">From Adam to Jesus</h2>
+    <h2 class="ui-head" id="line-h">From Adam to Jesus</h2>
     <p class="sub">The father-to-son line through Joseph, as Genesis 5 and 11, Ruth 4, 1 Chronicles and Matthew 1 record it. A name’s size shows how many verses mention that person.</p>
     <ol class="thread" id="thread"></ol>
     <hr>
@@ -404,9 +388,10 @@ body::before { content: ""; position: fixed; inset: 0 0 auto; height: env(safe-a
     <ul class="families" id="families"></ul>
   </section>
 
-  <section class="panel" id="about" hidden aria-labelledby="about-h">
+  <section class="panel ui-sheet" id="about" hidden aria-labelledby="about-h">
+    <div class="ui-grab"></div>
     <button type="button" class="close" data-close aria-label="Close"><svg viewBox="0 0 24 24" width="18" height="18" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M6 6l12 12M18 6 6 18"/></svg></button>
-    <h2 id="about-h">The Generations</h2>
+    <h2 class="ui-head" id="about-h">The Generations</h2>
     <p class="epigraph"><span lang="he" dir="rtl">זֶה סֵפֶר תּוֹלְדֹת אָדָם</span><small>“This is the book of the generations of Adam.” Genesis 5:1</small></p>
     <p>Every family tie the Bible records, from Adam to the apostles.</p>
     <dl class="stats" id="stats"></dl>
@@ -597,48 +582,22 @@ body::before { content: ""; position: fixed; inset: 0 0 auto; height: env(safe-a
   }
 
 
-  /* ---------- The card slides away (see the style above) ---------- */
-  (function slidingCard(card) {
+  /* ---------- The card tucks away (ui.js moves and drags it; see the style above) ---------- */
+  (function tuckingCard(card) {
     const TUCK = '<svg viewBox="0 0 24 24" width="18" height="18" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="m9 6 6 6-6 6"/></svg>';
-    const phone = () => innerWidth <= 760;
-    const set = on => { card.classList.toggle("tucked", on); document.body.classList.toggle("card-tucked", on && !card.hidden); };
+    const mark = () => document.body.classList.toggle("card-tucked", card.classList.contains("tucked") && !card.hidden);
+    card.addEventListener("ui:tuck", mark);
     // Each time the card is filled, it opens fully and gets its arrow.
     new MutationObserver(() => {
       if (card.querySelector(":scope > .tuck")) return;
       const b = document.createElement("button");
-      b.type = "button"; b.className = "tuck"; b.innerHTML = TUCK;
+      b.type = "button"; b.className = "tuck ui-tuck"; b.innerHTML = TUCK;
       b.setAttribute("aria-label", "Slide the card out of the way");
-      b.onclick = e => { e.stopPropagation(); set(!card.classList.contains("tucked")); };
+      b.onclick = e => { e.stopPropagation(); UI.tuck(card, !card.classList.contains("tucked")); };
       card.append(b);
-      set(false);
+      if (card.classList.contains("tucked")) UI.tuck(card, false);
     }).observe(card, { childList: true });
-    new MutationObserver(() => { if (card.hidden) set(false); }).observe(card, { attributes: true, attributeFilter: ["hidden"] });
-    let y0 = null, dy = 0;
-    card.addEventListener("pointerdown", e => {
-      if (!phone() || !e.target.closest(".grab, .kicker, h2") || e.target.closest("button, a")) return;
-      y0 = e.clientY; dy = 0; card.style.transition = "none";
-      card.setPointerCapture(e.pointerId);
-    });
-    card.addEventListener("pointermove", e => {
-      if (y0 == null) return;
-      dy = e.clientY - y0;
-      const base = card.classList.contains("tucked") ? card.offsetHeight - 96 : 0;
-      card.style.transform = `translateY(${Math.max(0, base + dy)}px)`;
-    });
-    const end = () => {
-      if (y0 == null) return;
-      card.style.transition = ""; card.style.transform = "";
-      const tucked = card.classList.contains("tucked");
-      if (!tucked && dy > 60) set(true);
-      else if (tucked && dy < -30) set(false);
-      y0 = null;
-    };
-    card.addEventListener("pointerup", end);
-    card.addEventListener("pointercancel", end);
-    // A tap on the tucked card brings it back, rather than acting on what's under the tap.
-    card.addEventListener("click", e => {
-      if (card.classList.contains("tucked") && !e.target.closest(".close, .tuck") && Math.abs(dy) < 6) { e.preventDefault(); e.stopPropagation(); set(false); }
-    }, true);
+    new MutationObserver(() => { if (card.hidden && card.classList.contains("tucked")) UI.tuck(card, false); else mark(); }).observe(card, { attributes: true, attributeFilter: ["hidden"] });
   })(document.getElementById("card"));
 
   /* ---------- The card ---------- */
@@ -709,10 +668,10 @@ body::before { content: ""; position: fixed; inset: 0 0 auto; height: env(safe-a
         : t ? act({ onclick: () => setView("whole") }, "Whole family", "tree") : null,
       p.v ? act({ href: `graph.html#p${i}` }, "In the web", "web") : null);
     card.replaceChildren(...[
-      el("div", { class: "grab" }),
+      el("div", { class: "ui-grab" }),
       el("button", { type: "button", class: "close", "aria-label": "Close", onclick: () => select(null) }, svgIcon(ICON.close)),
-      el("div", { class: "kicker" }, dotFor(i), kicker),
-      el("h2", {}, name, dis ? el("small", { text: `First named at ${dis}` }) : null),
+      el("div", { class: "kicker ui-head" }, dotFor(i), kicker),
+      el("h2", { class: "ui-head" }, name, dis ? el("small", { text: `First named at ${dis}` }) : null),
       orig.length ? el("div", { class: "orig" }, orig) : null,
       p.b ? el("p", { class: "brief", text: p.b }) : null,
       actions,
@@ -762,7 +721,7 @@ body::before { content: ""; position: fixed; inset: 0 0 auto; height: env(safe-a
   // The part of the stage clear of the controls and the card, where a person is brought into view.
   function clearArea() {
     const phone = W < 760, open = !card.hidden;
-    return { x0: 0, y0: phone ? 112 : 64, x1: open && !phone ? W - 384 : W, y1: open && phone ? H * 0.48 : H - 12 };
+    return { x0: 0, y0: phone ? 112 : 64, x1: open && !phone ? W - (parseFloat(getComputedStyle(document.documentElement).getPropertyValue("--ui-panel-w")) || 400) : W, y1: open && phone ? H * 0.42 : H - 12 };
   }
   let queued = false;
   function schedule() { if (!queued) { queued = true; requestAnimationFrame(() => { queued = false; draw(); }); } }

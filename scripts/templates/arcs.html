@@ -33,8 +33,12 @@ canvas { display: block; width: 100%; touch-action: pan-y; cursor: crosshair; }
 .books button { display: inline-flex; align-items: center; gap: 6px; min-height: 30px; padding: 3px 10px; border-radius: 99px; border: 1px solid var(--line); background: var(--surface); color: var(--ink); font: 500 13px/1.2 var(--sans); cursor: pointer; }
 .books button i { width: 8px; height: 8px; border-radius: 50%; background: var(--c); }
 .books button[aria-pressed="true"] { background: var(--ink); color: var(--bg); border-color: var(--ink); }
-.panel { margin: 16px 0 0; padding: 14px 16px; border: 1px solid var(--line); border-radius: 14px; background: var(--surface); box-shadow: var(--shadow); }
-.panel[hidden] { display: none; }
+/* The chosen book: a panel of ui.js (a sheet from the bottom on phones, down the right on larger
+   screens); the arcs make room for it. */
+@media (min-width: 760px) { body.ui-panel-open main { margin-right: calc(var(--ui-panel-w) + 8px); } }
+.panel .ui-head { position: relative; padding-right: 40px; }
+.panel .close { position: absolute; top: -4px; right: -6px; width: 36px; height: 36px; border: 0; border-radius: 10px; background: transparent; color: var(--ink); cursor: pointer; font-size: 16px; }
+.panel .close:hover { background: var(--lapis-soft); }
 .panel h2 { margin: 0 0 4px; font: 400 26px/1.15 var(--read); }
 .panel p { margin: 0 0 8px; color: var(--muted); font-size: 14px; }
 .panel ol { margin: 0; padding: 0; list-style: none; display: grid; gap: 4px; grid-template-columns: repeat(auto-fill, minmax(220px, 1fr)); }
@@ -57,7 +61,7 @@ canvas { display: block; width: 100%; touch-action: pan-y; cursor: crosshair; }
   <div class="stage" id="stage"><canvas id="arcs" aria-label="Arcs joining chapters that cross-reference each other"></canvas><div class="tip" id="tip" hidden></div></div>
   <p class="loading" id="loading">Loading the cross-references…</p>
   <div class="books" id="books" role="group" aria-label="Choose a book"></div>
-  <section class="panel" id="panel" hidden aria-live="polite"></section>
+  <section class="panel ui-sheet" id="panel" hidden aria-live="polite"></section>
   <p class="note">Cross-references from OpenBible.info (CC BY), counted between chapters, with their strength as readers voted it; the same data as <a href="graph.html">the web of Scripture</a>.</p>
 </main>
 
@@ -157,7 +161,8 @@ canvas { display: block; width: 100%; touch-action: pan-y; cursor: crosshair; }
       if (o !== b) by.set(o, (by.get(o) || 0) + Wt[e]);
     }
     const top = [...by].sort((p, q) => q[1] - p[1]).slice(0, 12), max = top.length ? top[0][1] : 1;
-    panel.replaceChildren(el("h2", { text: bookName(b) }),
+    panel.replaceChildren(el("div", { class: "ui-grab" }),
+      el("div", { class: "ui-head" }, el("h2", { text: bookName(b) }), el("button", { type: "button", class: "close", "data-close": "", "aria-label": "Close", text: "✕", onclick: () => choose(-1) })),
       el("p", { text: `${n.toLocaleString()} threads to chapters elsewhere. Most bound to:` }),
       el("ol", {}, ...top.map(([o, w]) => el("li", { style: `--c:${col(D.books[o][2])}` }, el("i"), el("span", { text: bookName(o) }), el("span", { class: "bar" }, el("b", { style: `width:${(100 * w / max).toFixed(0)}%` })), el("small", { text: String(w) })))),
       el("div", { class: "acts" }, el("a", { href: `index.html#${slug(b)}-1`, text: `Read ${bookName(b)}` }), el("a", { href: `graph.html#${slug(b)}-1`, text: "In the web of Scripture" })));
@@ -176,6 +181,9 @@ canvas { display: block; width: 100%; touch-action: pan-y; cursor: crosshair; }
   cv.addEventListener("click", ev => { if (!D) return; const [i] = pick(ev); choose(bookOf[i] === chosen ? -1 : bookOf[i]); });
   let t = 0;
   addEventListener("resize", () => { clearTimeout(t); t = setTimeout(resize, 120); });
+  // The line narrows when the panel opens beside it.
+  let lastW = 0;
+  new ResizeObserver(() => { if (D && cv.clientWidth !== lastW) { lastW = cv.clientWidth; resize(); } }).observe(cv);
   matchMedia("(prefers-color-scheme: dark)").addEventListener?.("change", draw);
 })();
 </script>

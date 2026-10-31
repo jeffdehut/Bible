@@ -178,7 +178,7 @@ button { font: inherit; color: inherit; }
   border: 1px solid var(--line); border-radius: 14px; box-shadow: var(--shadow); padding: 4px;
 }
 @media (max-width: 760px) { .timebar { top: 116px; } }
-@media (min-width: 761px) { body.card-open .timebar { right: 384px; } }
+body.ui-panel-open .timebar { right: calc(var(--ui-panel-w) + 12px); }
 .timebar .step { width: 34px; height: 90px; border: 0; background: transparent; border-radius: 10px; cursor: pointer; display: grid; place-items: center; color: var(--muted); }
 .timebar .step:hover { background: var(--lapis-soft); color: var(--ink); }
 .timebar .step svg { width: 18px; height: 18px; }
@@ -227,14 +227,10 @@ button { font: inherit; color: inherit; }
 }
 .tip b { display: block; font-weight: 600; }
 
-/* The card for what is chosen */
-.card {
-  position: absolute; z-index: 5; top: 64px; right: 12px; max-height: calc(100% - 80px); width: 360px; overflow-y: auto; overscroll-behavior: contain;
-  background: var(--surface); border: 1px solid var(--line); border-radius: 16px; box-shadow: var(--shadow); padding: 16px 16px 18px;
-  display: flex; flex-direction: column; gap: 12px;
-}
-@media (min-width: 761px) { body.card-open .zoom { right: 384px; } }
-.card .grab { display: none; }
+/* The card for what is chosen: a panel of ui.js (a sheet from the bottom on phones, down the
+   right on wider screens) that tucks away instead of closing. */
+.card { display: flex; flex-direction: column; gap: 12px; }
+body.ui-panel-open .zoom { right: calc(var(--ui-panel-w) + 16px); }
 .card .close { position: absolute; top: 10px; right: 10px; width: 34px; height: 34px; border: 0; background: transparent; border-radius: 9px; cursor: pointer; display: grid; place-items: center; color: var(--muted); }
 .card .close:hover { background: var(--lapis-soft); }
 .card .kicker { display: flex; align-items: center; gap: 8px; font: 600 11.5px/1.3 var(--sans); letter-spacing: 0.1em; text-transform: uppercase; color: var(--muted); padding-right: 36px; }
@@ -260,12 +256,8 @@ button { font: inherit; color: inherit; }
 .node-chip .dot { width: 8px; height: 8px; }
 
 @media (max-width: 760px) {
-  .card {
-    top: auto; left: 0; right: 0; bottom: 0; width: auto; max-height: 52%; border-radius: 18px 18px 0 0; border-bottom: 0;
-    padding: 6px max(16px, env(safe-area-inset-left, 0px)) max(18px, env(safe-area-inset-bottom, 0px));
-  }
-  .card .grab { display: block; flex: none; width: 40px; height: 4px; border-radius: 4px; background: var(--line); margin: 2px auto 4px; }
-  .card .close { top: 12px; }
+  .card .ui-grab { flex: none; }
+  .card .close { top: 24px; }
   .card h2 { font-size: 23px; }
   body.card-open .zoom, body.card-open .key { display: none; }
   .top { flex-wrap: wrap; }
@@ -274,12 +266,7 @@ button { font: inherit; color: inherit; }
   .top .spacer { flex: 1; order: 1; }
 }
 
-/* Panels: the chronicle of what is in view, and about this chart */
-.panel {
-  position: absolute; z-index: 7; top: 64px; left: 50%; transform: translateX(-50%); width: min(720px, calc(100% - 24px)); max-height: calc(100% - 88px); overflow-y: auto;
-  background: var(--surface); border: 1px solid var(--line); border-radius: 16px; box-shadow: var(--shadow); padding: 18px 20px;
-}
-@media (max-width: 760px) { .panel { top: 112px; max-height: calc(100% - 124px); } }
+/* Panels (ui.js): the chronicle of what is in view, and about this chart */
 .panel h2 { margin: 0 0 8px; font: 500 22px/1.2 var(--read); }
 .panel p { margin: 0 0 10px; font-size: 14.5px; }
 .panel .sub { color: var(--muted); }
@@ -303,27 +290,22 @@ button { font: inherit; color: inherit; }
 .century .st i { width: 8px; height: 8px; border-radius: 50%; background: var(--c); flex: none; }
 .visually-hidden { position: absolute; width: 1px; height: 1px; overflow: hidden; clip: rect(0 0 0 0); white-space: nowrap; }
 
-/* The card slides away: on a phone, drag it down by its top to leave only that showing; on a
-   wide screen, the arrow tucks it to the side. A tap on what's left brings it back. */
-.card { transition: transform 0.3s cubic-bezier(.2, .7, .2, 1); touch-action: pan-y; }
+/* The card tucks away (ui.js, data-tuck): to the bottom edge on a phone, to the right edge on a
+   wide screen. The arrow tucks it; a tap on what's left brings it back. */
 .card .tuck { position: absolute; top: 10px; right: 46px; width: 34px; height: 34px; border: 0; background: transparent; border-radius: 9px; cursor: pointer; display: grid; place-items: center; color: var(--muted); }
 .card .tuck:hover { background: var(--lapis-soft); }
 .card .tuck svg { transition: transform 0.3s; }
 .card.tucked { cursor: pointer; }
 .card.tucked .tuck svg { transform: rotate(180deg); }
-@media (min-width: 761px) {
-  .card.tucked { transform: translateX(calc(100% - 44px)); }
-  .card.tucked > :not(.tuck) { opacity: 0.25; }
+@media (min-width: 760px) {
   .card.tucked .tuck { right: auto; left: 5px; }
   body.card-tucked .zoom { right: 64px !important; }
   body.card-tucked .timebar { right: 64px !important; }
 }
-@media (max-width: 760px) {
-  .card .tuck { top: 12px; }
+@media (max-width: 759px) {
+  .card .tuck { top: 24px; }
   .card .tuck svg { transform: rotate(90deg); }
   .card.tucked .tuck svg { transform: rotate(-90deg); }
-  .card.tucked { transform: translateY(calc(100% - 96px)); }
-  .card .grab, .card .kicker, .card h2 { cursor: grab; touch-action: none; }
 }
 </style>
 
@@ -392,18 +374,20 @@ button { font: inherit; color: inherit; }
     <b id="lens-year">AD 30</b><small id="lens-age"></small><span>What was happening ›</span>
   </button>
 
-  <article class="card" id="card" hidden aria-live="polite"></article>
+  <article class="card ui-sheet" id="card" data-tuck hidden aria-live="polite"></article>
 
-  <section class="panel" id="chronicle-panel" hidden aria-labelledby="chron-h">
+  <section class="panel ui-sheet" id="chronicle-panel" data-detent="full" hidden aria-labelledby="chron-h">
+    <div class="ui-grab"></div>
     <button type="button" class="close" data-close aria-label="Close"><svg viewBox="0 0 24 24" width="18" height="18" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M6 6l12 12M18 6 6 18"/></svg></button>
-    <h2 id="chron-h">Chronicle</h2>
+    <h2 class="ui-head" id="chron-h">Chronicle</h2>
     <p class="sub" id="chron-sub">Everything in the years shown, in order.</p>
     <div class="chronicle" id="chronicle"></div>
   </section>
 
-  <section class="panel" id="about" hidden aria-labelledby="about-h">
+  <section class="panel ui-sheet" id="about" hidden aria-labelledby="about-h">
+    <div class="ui-grab"></div>
     <button type="button" class="close" data-close aria-label="Close"><svg viewBox="0 0 24 24" width="18" height="18" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M6 6l12 12M18 6 6 18"/></svg></button>
-    <h2 id="about-h">Streams of Time</h2>
+    <h2 class="ui-head" id="about-h">Streams of Time</h2>
     <p class="epigraph" lang="grc">ὅτε δὲ ἦλθεν τὸ πλήρωμα τοῦ χρόνου<small>“When the fullness of time had come.” Galatians 4:4</small></p>
     <p>History from the <b>death and resurrection of Jesus, about AD 30,</b> to today: the empires, churches, scriptures and thinkers of every continent, side by side. After Sebastian Adams’ <i>Synchronological Chart</i> of 1871, with modern dates throughout.</p>
     <p><b>Sources and method.</b> The rows are curated in this project’s <code>data/</code> tables (periods, rulers, events and lives), using the conventional dates of standard references, with Wikidata identifiers wherever an item’s English label matched exactly. Ancient and early medieval dates are often approximate and are marked so.</p>
@@ -843,7 +827,7 @@ button { font: inherit; color: inherit; }
   }
   // ---- The year lens. It stands in the middle of the part of the chart not under the card.
   let lensYear = 30;
-  function lensX() { return (W - (!card.hidden && innerWidth > 760 && !card.classList.contains("tucked") ? 384 : 0)) / 2; }
+  function lensX() { return (W - (!card.hidden && !UI.phone() && !card.classList.contains("tucked") ? (parseFloat(getComputedStyle(document.documentElement).getPropertyValue("--ui-panel-w")) || 400) : 0)) / 2; }
   function updateLens() {
     const lx = lensX();
     lensYear = Math.round(x.invert(lx));
@@ -933,48 +917,22 @@ button { font: inherit; color: inherit; }
   function hideTip() { tip.hidden = true; }
 
 
-  /* ---------- The card slides away (see the style above) ---------- */
-  (function slidingCard(card) {
+  /* ---------- The card tucks away (ui.js moves and drags it; see the style above) ---------- */
+  (function tuckingCard(card) {
     const TUCK = '<svg viewBox="0 0 24 24" width="18" height="18" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="m9 6 6 6-6 6"/></svg>';
-    const phone = () => innerWidth <= 760;
-    const set = on => { card.classList.toggle("tucked", on); document.body.classList.toggle("card-tucked", on && !card.hidden); };
+    const mark = () => document.body.classList.toggle("card-tucked", card.classList.contains("tucked") && !card.hidden);
+    card.addEventListener("ui:tuck", mark);
     // Each time the card is filled, it opens fully and gets its arrow.
     new MutationObserver(() => {
       if (card.querySelector(":scope > .tuck")) return;
       const b = document.createElement("button");
-      b.type = "button"; b.className = "tuck"; b.innerHTML = TUCK;
+      b.type = "button"; b.className = "tuck ui-tuck"; b.innerHTML = TUCK;
       b.setAttribute("aria-label", "Slide the card out of the way");
-      b.onclick = e => { e.stopPropagation(); set(!card.classList.contains("tucked")); };
+      b.onclick = e => { e.stopPropagation(); UI.tuck(card, !card.classList.contains("tucked")); };
       card.append(b);
-      set(false);
+      if (card.classList.contains("tucked")) UI.tuck(card, false);
     }).observe(card, { childList: true });
-    new MutationObserver(() => { if (card.hidden) set(false); }).observe(card, { attributes: true, attributeFilter: ["hidden"] });
-    let y0 = null, dy = 0;
-    card.addEventListener("pointerdown", e => {
-      if (!phone() || !e.target.closest(".grab, .kicker, h2") || e.target.closest("button, a")) return;
-      y0 = e.clientY; dy = 0; card.style.transition = "none";
-      card.setPointerCapture(e.pointerId);
-    });
-    card.addEventListener("pointermove", e => {
-      if (y0 == null) return;
-      dy = e.clientY - y0;
-      const base = card.classList.contains("tucked") ? card.offsetHeight - 96 : 0;
-      card.style.transform = `translateY(${Math.max(0, base + dy)}px)`;
-    });
-    const end = () => {
-      if (y0 == null) return;
-      card.style.transition = ""; card.style.transform = "";
-      const tucked = card.classList.contains("tucked");
-      if (!tucked && dy > 60) set(true);
-      else if (tucked && dy < -30) set(false);
-      y0 = null;
-    };
-    card.addEventListener("pointerup", end);
-    card.addEventListener("pointercancel", end);
-    // A tap on the tucked card brings it back, rather than acting on what's under the tap.
-    card.addEventListener("click", e => {
-      if (card.classList.contains("tucked") && !e.target.closest(".close, .tuck") && Math.abs(dy) < 6) { e.preventDefault(); e.stopPropagation(); set(false); }
-    }, true);
+    new MutationObserver(() => { if (card.hidden && card.classList.contains("tucked")) UI.tuck(card, false); else mark(); }).observe(card, { attributes: true, attributeFilter: ["hidden"] });
   })(document.getElementById("card"));
 
   // ---- The card
@@ -997,10 +955,10 @@ button { font: inherit; color: inherit; }
     const kind = d.sync ? "Synchronism" : KIND[d.k];
     const ref = d.sync ? d.sync.ref : d.ref;
     const parts = [
-      el("div", { class: "grab" }),
+      el("div", { class: "ui-grab" }),
       el("button", { class: "close", type: "button", "aria-label": "Close", onclick: () => select(null) }, svgIcon(ICON.close)),
-      el("div", { class: "kicker" }, dotFor(d), `${kind} · ${d.s}`),
-      el("h2", {}, d.n, el("small", { text: when(d) })),
+      el("div", { class: "kicker ui-head" }, dotFor(d), `${kind} · ${d.s}`),
+      el("h2", { class: "ui-head" }, d.n, el("small", { text: when(d) })),
     ];
     if (d.sync) {
       const diff = d.sync.us != null ? d.sync.us - d.sync.m : null;
@@ -1084,10 +1042,10 @@ button { font: inherit; color: inherit; }
     const win = Math.max(3, Math.round((domain[1] - domain[0]) * 0.03));
     const order = { pe: 0, pd: 1, r: 2, f: 3, e: 4 };
     const parts = [
-      el("div", { class: "grab" }),
+      el("div", { class: "ui-grab" }),
       el("button", { class: "close", type: "button", "aria-label": "Close", onclick: () => select(null) }, svgIcon(ICON.close)),
-      el("div", { class: "kicker", text: `The world in ${yl(Y)} · ${ageOf(Y)}` }),
-      el("h2", {}, yl(Y), el("small", { text: `Events within ${win} years either side` })),
+      el("div", { class: "kicker ui-head", text: `The world in ${yl(Y)} · ${ageOf(Y)}` }),
+      el("h2", { class: "ui-head" }, yl(Y), el("small", { text: `Events within ${win} years either side` })),
     ];
     const box = el("div", { class: "snap" });
     let any = 0;

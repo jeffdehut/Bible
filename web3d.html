@@ -3,7 +3,8 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
-<script src="i18n.js?v=11"></script>
+<script src="i18n.js?v=12"></script>
+<script src="ui.js?v=1"></script>
 <link rel="icon" href="icons/icon.svg" type="image/svg+xml">
 <link rel="apple-touch-icon" href="icons/icon-192.png">
 <meta name="theme-color" content="#05070d" media="(prefers-color-scheme: light)">
@@ -58,10 +59,9 @@ a { color: var(--lapis); }
 .key span { display: inline-flex; align-items: center; gap: 5px; }
 .key .dot { width: 8px; height: 8px; }
 @media (max-width: 700px) { .key { display: none; } }
-.card { position: absolute; z-index: 5; left: 0; right: 0; bottom: 0; max-height: 58%; overflow: auto; background: color-mix(in srgb, var(--surface) 94%, transparent); backdrop-filter: blur(12px); -webkit-backdrop-filter: blur(12px);
-  border-top: 1px solid var(--line); border-radius: 18px 18px 0 0; padding: 14px max(16px, env(safe-area-inset-right, 0px)) max(18px, env(safe-area-inset-bottom, 0px)) max(16px, env(safe-area-inset-left, 0px)); }
-@media (min-width: 760px) { .card { left: auto; right: 66px; top: 12px; bottom: auto; width: 360px; max-height: calc(100% - 24px); border: 1px solid var(--line); border-radius: 16px; } }
-.card[hidden] { display: none; }
+/* The card: a panel of ui.js (a sheet from the bottom on phones, down the right on larger screens). */
+.card { background: color-mix(in srgb, var(--surface) 94%, transparent); backdrop-filter: blur(12px); -webkit-backdrop-filter: blur(12px); }
+@media (min-width: 760px) { body.ui-panel-open .tools, body.ui-panel-open .key { right: calc(var(--ui-panel-w) + 12px); } }
 .card .kicker { display: flex; align-items: center; gap: 8px; font: 600 11.5px/1.3 var(--sans); letter-spacing: 0.08em; text-transform: uppercase; color: var(--muted); padding-right: 40px; }
 .card h2 { margin: 6px 0 4px; font: 400 28px/1.12 var(--read); }
 .card p { margin: 0 0 10px; color: var(--muted); font-size: 14px; }
@@ -73,7 +73,7 @@ a { color: var(--lapis); }
 .chips button { display: inline-flex; align-items: center; gap: 6px; min-height: 32px; padding: 4px 10px; border: 1px solid var(--line); border-radius: 99px; background: transparent; color: var(--ink); font: 500 13px/1.2 var(--sans); cursor: pointer; }
 .chips button:hover, .chips button:focus-visible { border-color: var(--lapis); }
 .chips .dot { width: 8px; height: 8px; }
-.card .close { position: absolute; top: 10px; right: 10px; width: 36px; height: 36px; border: 0; border-radius: 10px; background: transparent; color: var(--ink); cursor: pointer; font-size: 16px; }
+.card .close { position: absolute; top: 10px; right: 10px; z-index: 4; width: 36px; height: 36px; border: 0; border-radius: 10px; background: transparent; color: var(--ink); cursor: pointer; font-size: 16px; }
 .hint { position: absolute; left: 50%; bottom: calc(max(14px, env(safe-area-inset-bottom, 0px)) + 58px); transform: translateX(-50%); width: max-content; max-width: calc(100% - 32px); padding: 6px 12px; border-radius: 99px; background: rgb(5 7 13 / 70%); color: var(--muted); font-size: 14px; text-align: center; pointer-events: none; transition: opacity 0.6s; }
 .hint.gone { opacity: 0; }
 .nogl { position: absolute; inset: 0; display: grid; place-items: center; padding: 24px; text-align: center; color: var(--muted); }
@@ -101,7 +101,7 @@ body::before { content: ""; position: fixed; inset: 0 0 auto; height: env(safe-a
 <header class="appbar">
   <a class="brand" href="index.html"><img src="icons/icon.svg" alt="Plain English Bible"><span aria-hidden="true">Plain English Bible</span></a>
 </header>
-<script src="nav.js?v=33"></script>
+<script src="nav.js?v=34"></script>
 
 <div class="stage" id="stage">
   <canvas id="gl" aria-label="The web of Scripture in three dimensions. Drag to turn it; drag with two fingers, the right button or Shift held to slide it; pinch or scroll to fly in; tap a point to see it. Arrow keys turn it, and with Shift slide it." role="img"></canvas>
@@ -123,7 +123,7 @@ body::before { content: ""; position: fixed; inset: 0 0 auto; height: env(safe-a
   </div>
   <div class="key" id="key"></div>
   <div class="hint" id="hint">Loading the web …</div>
-  <article class="card" id="card" hidden aria-live="polite"></article>
+  <article class="card ui-sheet" id="card" hidden aria-live="polite"></article>
 </div>
 
 <script src="share.js?v=31"></script>
@@ -493,9 +493,9 @@ body::before { content: ""; position: fixed; inset: 0 0 auto; height: env(safe-a
     const brief = el("p", { text: `${fmt.format(kin.length)} connections` });
     shareInfo = { kicker, sub: brief.textContent };
     $("card").replaceChildren(
+      el("div", { class: "ui-grab" }),
       el("button", { class: "close", type: "button", "aria-label": "Close", text: "✕", onclick: () => select(null, { fly: false }) }),
-      el("div", { class: "kicker" }, dotOf(i), kicker),
-      el("h2", { text: label(i) }), brief,
+      el("div", { class: "ui-head" }, el("div", { class: "kicker" }, dotOf(i), kicker), el("h2", { text: label(i) })), brief,
       el("div", { class: "acts" },
         reader ? el("a", { class: "solid", href: reader, text: k === 0 ? "Read it" : "Read where it’s first named" }) : null,
         el("a", { href: `graph.html#${k === 0 ? `${slug(D.books[bookOf[i]][0])}-${chapterOf[i]}` : `n${i}`}`, text: "In Connections" }),

@@ -3,7 +3,8 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
-<script src="i18n.js?v=11"></script>
+<script src="i18n.js?v=12"></script>
+<script src="ui.js?v=1"></script>
 <link rel="icon" href="icons/icon.svg" type="image/svg+xml">
 <link rel="apple-touch-icon" href="icons/icon-192.png">
 <meta name="theme-color" content="#fbfaf7" media="(prefers-color-scheme: light)">
@@ -155,14 +156,11 @@ button { font: inherit; color: inherit; }
 .key .chip[aria-pressed="false"] .dot { background: transparent; box-shadow: inset 0 0 0 1.5px var(--faint); }
 .key .hint { margin: 6px 6px 2px; font-size: 12px; color: var(--muted); }
 
-/* The card for the node chosen */
-.card {
-  position: absolute; z-index: 5; top: 64px; right: 12px; max-height: calc(100% - 80px); width: 360px; overflow-y: auto; overscroll-behavior: contain;
-  background: var(--surface); border: 1px solid var(--line); border-radius: 16px; box-shadow: var(--shadow); padding: 16px 16px 18px;
-  display: flex; flex-direction: column; gap: 12px;
-}
-@media (min-width: 761px) { body.card-open .zoom { right: 384px; } }
-.card .grab { display: none; }
+/* The card for the node chosen: a panel of ui.js (a sheet from the bottom on phones, down the
+   right on larger screens), which tucks away instead of closing. */
+.card { display: flex; flex-direction: column; gap: 12px; }
+.card .ui-head { display: flex; flex-direction: column; gap: 12px; }
+@media (min-width: 760px) { body.ui-panel-open .zoom { right: calc(var(--ui-panel-w) + 16px); } }
 .card .close { position: absolute; top: 10px; right: 10px; width: 34px; height: 34px; border: 0; background: transparent; border-radius: 9px; cursor: pointer; display: grid; place-items: center; color: var(--muted); }
 .card .close:hover { background: var(--lapis-soft); }
 .card .kicker { display: flex; align-items: center; gap: 8px; font: 600 11.5px/1.3 var(--sans); letter-spacing: 0.1em; text-transform: uppercase; color: var(--muted); padding-right: 36px; }
@@ -189,12 +187,7 @@ button { font: inherit; color: inherit; }
 .more { border: 0; background: transparent; cursor: pointer; font: 600 13px/1.2 var(--sans); color: var(--lapis); padding: 5px 4px; }
 
 @media (max-width: 760px) {
-  .card {
-    top: auto; left: 0; right: 0; bottom: 0; width: auto; max-height: 52%; border-radius: 18px 18px 0 0; border-bottom: 0;
-    padding: 6px max(16px, env(safe-area-inset-left, 0px)) max(18px, env(safe-area-inset-bottom, 0px));
-  }
-  .card .grab { display: block; flex: none; width: 40px; height: 4px; border-radius: 4px; background: var(--line); margin: 2px auto 4px; }
-  .card .close { top: 12px; }
+  .card .close { top: 24px; }
   .card h2 { font-size: 23px; }
   body.card-open .zoom, body.card-open .key { display: none; }
   .top { flex-wrap: wrap; }
@@ -213,27 +206,21 @@ button { font: inherit; color: inherit; }
 .fallback { position: absolute; inset: 0; display: grid; place-content: center; text-align: center; padding: 24px; color: var(--muted); }
 .visually-hidden { position: absolute; width: 1px; height: 1px; overflow: hidden; clip: rect(0 0 0 0); white-space: nowrap; }
 
-/* The card slides away: on a phone, drag it down by its top to leave only that showing; on a
+/* The card tucks away (ui.js): on a phone, drag it down by its handle or press the arrow; on a
    wide screen, the arrow tucks it to the side. A tap on what's left brings it back. */
-.card { transition: transform 0.3s cubic-bezier(.2, .7, .2, 1); touch-action: pan-y; }
 .card .tuck { position: absolute; top: 10px; right: 46px; width: 34px; height: 34px; border: 0; background: transparent; border-radius: 9px; cursor: pointer; display: grid; place-items: center; color: var(--muted); }
 .card .tuck:hover { background: var(--lapis-soft); }
 .card .tuck svg { transition: transform 0.3s; }
 .card.tucked { cursor: pointer; }
 .card.tucked .tuck svg { transform: rotate(180deg); }
-@media (min-width: 761px) {
-  .card.tucked { transform: translateX(calc(100% - 44px)); }
-  .card.tucked > :not(.tuck) { opacity: 0.25; }
-  .card.tucked .tuck { right: auto; left: 5px; }
-  body.card-tucked .zoom { right: 64px !important; }
-  body.card-tucked .timebar { right: 64px !important; }
+@media (min-width: 760px) {
+  .card.tucked .tuck { right: auto; left: 7px; }
+  body:has(.card.tucked:not([hidden])) .zoom { right: 64px; }
 }
-@media (max-width: 760px) {
-  .card .tuck { top: 12px; }
+@media (max-width: 759px) {
+  .card .tuck { top: 24px; }
   .card .tuck svg { transform: rotate(90deg); }
   .card.tucked .tuck svg { transform: rotate(-90deg); }
-  .card.tucked { transform: translateY(calc(100% - 96px)); }
-  .card .grab, .card .kicker, .card h2 { cursor: grab; touch-action: none; }
 }
 </style>
 
@@ -259,7 +246,7 @@ body::before { content: ""; position: fixed; inset: 0 0 auto; height: env(safe-a
 <header class="appbar">
   <a class="brand" href="index.html"><img src="icons/icon.svg" alt="Plain English Bible"><span aria-hidden="true">Plain English Bible</span></a>
 </header>
-<script src="nav.js?v=33"></script>
+<script src="nav.js?v=34"></script>
 
 <main class="stage" id="stage">
   <canvas id="gl" aria-hidden="true"></canvas>
@@ -301,7 +288,7 @@ body::before { content: ""; position: fixed; inset: 0 0 auto; height: env(safe-a
     <button type="button" id="zoom-fit" aria-label="Show everything"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M4 9V4h5M20 9V4h-5M4 15v5h5M20 15v5h-5"/></svg></button>
   </div>
 
-  <article class="card" id="card" hidden aria-live="polite"></article>
+  <article class="card ui-sheet" id="card" data-tuck hidden aria-live="polite"></article>
 
   <section class="about" id="about" hidden aria-labelledby="about-h">
     <button type="button" class="close" data-close aria-label="Close"><svg viewBox="0 0 24 24" width="18" height="18" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M6 6l12 12M18 6 6 18"/></svg></button>
@@ -919,7 +906,7 @@ body::before { content: ""; position: fixed; inset: 0 0 auto; height: env(safe-a
   function select(i, opts = {}) {
     selected = i;
     setStates();
-    if (i < 0) { card.hidden = true; document.body.classList.remove("card-open"); setHash(""); schedule(); return; }
+    if (i < 0) { card.hidden = true; UI.tuck(card, false); document.body.classList.remove("card-open"); setHash(""); schedule(); return; }
     renderCard(i);
     setHash(i < NC ? readerHref(label(i)).split("#")[1] : D.gen.has(i) ? `p${D.gen.get(i)}` : `n${i}`);
     if (opts.fly) flyTo(i);
@@ -940,49 +927,18 @@ body::before { content: ""; position: fixed; inset: 0 0 auto; height: env(safe-a
   }
 
 
-  /* ---------- The card slides away (see the style above) ---------- */
-  (function slidingCard(card) {
-    const TUCK = '<svg viewBox="0 0 24 24" width="18" height="18" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="m9 6 6 6-6 6"/></svg>';
-    const phone = () => innerWidth <= 760;
-    const set = on => { card.classList.toggle("tucked", on); document.body.classList.toggle("card-tucked", on && !card.hidden); };
-    // Each time the card is filled, it opens fully and gets its arrow.
-    new MutationObserver(() => {
-      if (card.querySelector(":scope > .tuck")) return;
-      const b = document.createElement("button");
-      b.type = "button"; b.className = "tuck"; b.innerHTML = TUCK;
-      b.setAttribute("aria-label", "Slide the card out of the way");
-      b.onclick = e => { e.stopPropagation(); set(!card.classList.contains("tucked")); };
-      card.append(b);
-      set(false);
-    }).observe(card, { childList: true });
-    new MutationObserver(() => { if (card.hidden) set(false); }).observe(card, { attributes: true, attributeFilter: ["hidden"] });
-    let y0 = null, dy = 0;
-    card.addEventListener("pointerdown", e => {
-      if (!phone() || !e.target.closest(".grab, .kicker, h2") || e.target.closest("button, a")) return;
-      y0 = e.clientY; dy = 0; card.style.transition = "none";
-      card.setPointerCapture(e.pointerId);
-    });
-    card.addEventListener("pointermove", e => {
-      if (y0 == null) return;
-      dy = e.clientY - y0;
-      const base = card.classList.contains("tucked") ? card.offsetHeight - 96 : 0;
-      card.style.transform = `translateY(${Math.max(0, base + dy)}px)`;
-    });
-    const end = () => {
-      if (y0 == null) return;
-      card.style.transition = ""; card.style.transform = "";
-      const tucked = card.classList.contains("tucked");
-      if (!tucked && dy > 60) set(true);
-      else if (tucked && dy < -30) set(false);
-      y0 = null;
-    };
-    card.addEventListener("pointerup", end);
-    card.addEventListener("pointercancel", end);
-    // A tap on the tucked card brings it back, rather than acting on what's under the tap.
-    card.addEventListener("click", e => {
-      if (card.classList.contains("tucked") && !e.target.closest(".close, .tuck") && Math.abs(dy) < 6) { e.preventDefault(); e.stopPropagation(); set(false); }
-    }, true);
-  })(document.getElementById("card"));
+  /* ---------- The card tucks away (ui.js moves it; see the style above) ---------- */
+  const TUCK = '<svg viewBox="0 0 24 24" width="18" height="18" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="m9 6 6 6-6 6"/></svg>';
+  const tuckButton = () => {
+    const b = el("button", { type: "button", class: "tuck ui-tuck", "aria-label": "Slide the card out of the way" });
+    b.innerHTML = TUCK;
+    b.onclick = e => { e.stopPropagation(); UI.tuck(card, !card.classList.contains("tucked")); };
+    return b;
+  };
+  // A tap on the tucked card brings it back, rather than acting on what's under the tap.
+  card.addEventListener("click", e => {
+    if (card.classList.contains("tucked") && !e.target.closest(".close, .tuck")) { e.preventDefault(); e.stopPropagation(); UI.tuck(card, false); }
+  }, true);
 
   /* ---------- The card ---------- */
   let briefs = null;
@@ -1018,12 +974,13 @@ body::before { content: ""; position: fixed; inset: 0 0 auto; height: env(safe-a
     const ofKind = (list, kk) => list.filter(([j]) => kind[j] === kk);
     const canon = (a, b) => a[0] - b[0];
     const kids = [];
-    kids.push(el("div", { class: "grab" }));
+    kids.push(el("div", { class: "ui-grab" }));
     kids.push(el("button", { type: "button", class: "close", "aria-label": "Close", onclick: () => select(-1) },
       (() => { const s = el("span"); s.innerHTML = '<svg viewBox="0 0 24 24" width="18" height="18" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M6 6l12 12M18 6 6 18"/></svg>'; return s; })()));
+    kids.push(tuckButton());
     const kicker = k === 0 ? `Chapter · ${GROUPS[group[i]].name}` : k === 3 && D.yr[i - NC] != null ? `Event · ${yl(D.yr[i - NC])}` : KIND_NAME[k];
-    kids.push(el("div", { class: "kicker" }, dotFor(group[i]), kicker));
-    kids.push(el("h2", {}, name, dis ? el("small", { text: `First named at ${dis}` }) : null));
+    kids.push(el("div", { class: "ui-head" }, el("div", { class: "kicker" }, dotFor(group[i]), kicker),
+      el("h2", {}, name, dis ? el("small", { text: `First named at ${dis}` }) : null)));
     const brief = el("p", { class: "brief", hidden: true });
     kids.push(brief);
     if (k === 1 || k === 2) loadBriefs().then(b => { if (b && selected === i && b[i - NC]) { brief.textContent = b[i - NC]; brief.hidden = false; } });
@@ -1069,6 +1026,7 @@ body::before { content: ""; position: fixed; inset: 0 0 auto; height: env(safe-a
     share.innerHTML = ICON.share; share.append("Share");
     actions.append(share);
     card.replaceChildren(...kids.filter(Boolean));
+    UI.tuck(card, false);
     card.hidden = false;
     card.scrollTop = 0;
     document.body.classList.add("card-open");

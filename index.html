@@ -2,7 +2,8 @@
 <html lang="en">
 <head>
 <meta charset="utf-8">
-<script src="i18n.js?v=11"></script>
+<script src="i18n.js?v=12"></script>
+<script src="ui.js?v=1"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
 <title>Plain English Bible</title>
 <meta name="claude:viewport-fit-sides" content="cover">
@@ -146,7 +147,7 @@ mark.hlp[data-c="green"] { background: var(--hl-green); }
 mark.hlp[data-c="blue"] { background: var(--hl-blue); }
 mark.hlp[data-c="pink"] { background: var(--hl-pink); }
 mark.hlp[data-c="orange"] { background: var(--hl-orange); }
-.hl-bar { position: fixed; z-index: 12; display: flex; gap: 6px; padding: 6px; border-radius: 99px; background: var(--raised); border: 1px solid var(--line); box-shadow: var(--shadow); }
+.hl-bar { position: fixed; z-index: 65; display: flex; gap: 6px; padding: 6px; border-radius: 99px; background: var(--raised); border: 1px solid var(--line); box-shadow: var(--shadow); }
 .hl-bar .swatch { width: 30px; height: 30px; }
 @keyframes flash { 0%, 30% { background: color-mix(in srgb, var(--gold) 28%, transparent); } }
 .vn { font: 600 0.58em/1 var(--sans); color: var(--gold); vertical-align: 0.55em; margin: 0 0.18em 0 0.1em; font-variant-numeric: tabular-nums; }
@@ -196,44 +197,31 @@ body.panel-open .auto { display: none; }
 .chapnav .btn { font-weight: 600; }
 .loading { color: var(--muted); padding: 40px 0; }
 
-/* Sheets: the verse, a footnote, the picker, search, notes, settings, about */
-.scrim { position: fixed; inset: 0; z-index: 8; background: rgb(10 14 24 / 32%); }
-#verse-scrim { z-index: 6; }
-.sheet {
-  position: fixed; z-index: 9; left: 0; right: 0; bottom: 0; max-height: min(78vh, 760px); overflow: auto;
-  background: var(--raised); border-top: 1px solid var(--line); border-radius: 18px 18px 0 0; box-shadow: var(--shadow);
-  padding: 8px max(16px, env(safe-area-inset-right, 0px)) max(20px, env(safe-area-inset-bottom, 0px)) max(16px, env(safe-area-inset-left, 0px));
-  overscroll-behavior: contain;
-}
-.sheet .grab { width: 40px; height: 4px; border-radius: 4px; background: var(--line); margin: 2px auto 8px; }
-.sheet-head { display: flex; align-items: center; gap: 8px; position: sticky; top: -8px; background: var(--raised); padding: 6px 0 8px; z-index: 1; }
+/* Sheets: the verse, a footnote, the picker, search, notes, settings, about. Each is a panel of
+   ui.js (class ui-sheet): a sheet from the bottom on phones, a panel down the right on larger
+   screens, the same as on every other page. */
+.scrim { position: fixed; inset: 0; z-index: 59; background: rgb(10 14 24 / 32%); }
+#verse-scrim { z-index: 56; }
+#verse.sheet { z-index: 57; }
+.sheet-head { display: flex; align-items: center; gap: 8px; position: sticky; top: 0; background: var(--raised); padding: 6px 0 8px; z-index: 2; }
+@media (max-width: 759px) { .sheet-head { top: 22px; } }
 .sheet-head h2 { margin: 0; flex: 1; font: 600 19px/1.2 var(--read); }
 .sheet-head .sub { font: 500 13px/1.3 var(--sans); color: var(--muted); }
-#verse.sheet { z-index: 7; max-height: min(62vh, 760px); }
-@media (min-width: 1100px) {
-  #verse.sheet {
-    top: calc(var(--bar) + env(safe-area-inset-top, 0px)); bottom: 0; left: auto; right: 0; width: 420px; max-height: none;
-    border-radius: 0; border-top: 0; border-left: 1px solid var(--line); box-shadow: none; padding-top: 14px;
-  }
-  #verse.sheet .grab { display: none; }
-  body.panel-open main { margin-right: calc(420px + max(24px, (100vw - 420px - 680px) / 2)); margin-left: max(0px, (100vw - 420px - 680px) / 2); }
-  body.panel-open #verse-scrim { display: none; }
+@media (min-width: 760px) {
+  #verse-scrim { display: none; }
 }
-@media (min-width: 720px) {
-  .sheet.dialog {
-    left: 50%; right: auto; bottom: auto; top: calc(var(--bar) + 24px); transform: translateX(-50%);
-    width: min(640px, calc(100vw - 48px)); max-height: calc(100vh - var(--bar) - 48px); border-radius: 16px; border: 1px solid var(--line);
-    padding-top: 12px;
-  }
-  .sheet.dialog .grab { display: none; }
+@media (min-width: 760px) and (max-width: 1099px) {
+  body.panel-open main { margin-left: 24px; margin-right: calc(var(--ui-panel-w) + 24px); max-width: none; }
+}
+@media (min-width: 1100px) {
+  body.panel-open main { margin-right: calc(var(--ui-panel-w) + max(24px, (100vw - var(--ui-panel-w) - 680px) / 2)); margin-left: max(0px, (100vw - var(--ui-panel-w) - 680px) / 2); }
 }
 /* A sheet with a list: its title, tabs and search stay put, and only the list scrolls. */
 .sheet.split { display: flex; flex-direction: column; overflow: hidden; }
 .sheet.split > .scroll { flex: 1 1 auto; min-height: 0; overflow-y: auto; overscroll-behavior: contain; margin: 8px calc(-1 * max(16px, env(safe-area-inset-right, 0px))) 0 calc(-1 * max(16px, env(safe-area-inset-left, 0px))); padding: 0 max(16px, env(safe-area-inset-right, 0px)) max(20px, env(safe-area-inset-bottom, 0px)) max(16px, env(safe-area-inset-left, 0px)); }
+@media (min-width: 760px) { .sheet.split > .scroll { margin-inline: -20px; padding-inline: 20px; } }
 .sheet.split .sheet-head { position: static; }
 .sheet.split > :not(.scroll) { flex: none; }
-@media (min-width: 720px) { .sheet.split.dialog { height: calc(100vh - var(--bar) - 48px); } }
-@media (max-width: 719px) { .sheet.split { height: 78vh; } }
 .section { margin-top: 16px; }
 .section > h3 { margin: 0 0 8px; font: 600 12px/1.2 var(--sans); letter-spacing: 0.1em; text-transform: uppercase; color: var(--muted); }
 .swatches { display: flex; flex-wrap: wrap; gap: 8px; align-items: center; }
@@ -241,8 +229,41 @@ body.panel-open .auto { display: none; }
   width: 34px; height: 34px; border-radius: 50%; border: 2px solid var(--line); cursor: pointer; padding: 0;
 }
 .swatch[aria-pressed="true"] { border-color: var(--ink); box-shadow: 0 0 0 2px var(--raised) inset; }
-.swatch.none { background: transparent; position: relative; }
-.swatch.none::after { content: ""; position: absolute; inset: 14px 5px; background: var(--muted); transform: rotate(-45deg); border-radius: 2px; }
+/* "Clear": a white circle struck through in red, the same in the verse panel and over selected words. */
+.swatch.none { background: var(--surface); border-color: color-mix(in srgb, var(--muted) 55%, var(--line)); position: relative; overflow: hidden; }
+.swatch.none::after { content: ""; position: absolute; left: -2px; right: -2px; top: 50%; height: 2.5px; margin-top: -1.25px; background: #d64545; transform: rotate(-45deg); }
+.swatch.none:hover { border-color: #d64545; }
+/* Yours, at the top of the verse panel: highlight, note, your notes on words and markings, actions. */
+.yours { display: grid; gap: 10px; padding: 4px 0 14px; border-bottom: 1px solid var(--line); margin-bottom: 4px; }
+.yours textarea { min-height: 64px; }
+.wnotes { list-style: none; margin: 0; padding: 0; display: grid; gap: 8px; }
+.wnotes li { display: grid; grid-template-columns: 1fr auto; gap: 4px 8px; align-items: start; padding: 8px 10px; border-radius: 12px; background: var(--surface); border: 1px solid var(--line); }
+.wnotes .q { font: 600 13px/1.35 var(--sans); color: var(--muted); }
+.wnotes .q b { color: var(--ink); font-weight: 600; }
+.wnotes textarea { grid-column: 1 / -1; min-height: 52px; font-size: 15px; padding: 8px 10px; }
+.wnotes .rm { width: 32px; height: 32px; border: 0; border-radius: 8px; background: transparent; color: var(--muted); cursor: pointer; font-size: 16px; }
+.wnotes .rm:hover { background: var(--lapis-soft); color: var(--ink); }
+.wnotes .mk-chip { display: inline-flex; align-items: center; gap: 6px; font: 600 13px/1.2 var(--sans); }
+/* In the text: a note on some words is a dotted line under them; your own markings are drawn as
+   you chose them (the rules are written by the page from your markings). */
+mark.wn { background: none; color: inherit; text-decoration: underline dotted var(--lapis); text-decoration-thickness: 2px; text-underline-offset: 4px; }
+mark.um { background: none; color: inherit; }
+.mk-list { list-style: none; margin: 12px 0 0; padding: 0; display: grid; gap: 6px; }
+.mk-list li { display: flex; align-items: center; gap: 10px; padding: 8px 10px; border: 1px solid var(--line); border-radius: 12px; background: var(--surface); }
+.mk-list li b { flex: 1; font: 600 15px/1.3 var(--sans); }
+.mk-list li small { color: var(--muted); font: 500 12.5px/1.2 var(--sans); }
+.mk-edit { display: grid; gap: 10px; margin-top: 14px; padding-top: 14px; border-top: 1px solid var(--line); }
+.mk-edit label, .mk-row .lab { font: 600 12px/1.2 var(--sans); letter-spacing: 0.08em; text-transform: uppercase; color: var(--muted); }
+.mk-row { display: grid; gap: 6px; }
+.mk-grid { display: flex; flex-wrap: wrap; gap: 6px; }
+.mk-grid button { width: 40px; height: 40px; border-radius: 10px; border: 1px solid var(--line); background: var(--surface); font: 600 18px/1 var(--sans); cursor: pointer; color: var(--ink); }
+.mk-grid button[aria-checked="true"] { border-color: var(--ink); box-shadow: 0 0 0 2px var(--raised) inset, 0 0 0 1px var(--ink); }
+.seg { display: inline-flex; flex-wrap: wrap; gap: 6px; }
+.seg button { min-height: 36px; padding: 0 12px; border-radius: 99px; border: 1px solid var(--line); background: var(--surface); color: var(--ink); font: 500 14px/1 var(--sans); cursor: pointer; }
+.seg button[aria-checked="true"] { background: var(--lapis); border-color: var(--lapis); color: #fff; }
+.mk-preview { margin: 0; font: 400 18px/1.6 var(--read); }
+.btn.danger { color: #c0392b; }
+.mk-sym { display: inline-grid; place-items: center; width: 22px; height: 22px; border-radius: 6px; font: 600 14px/1 var(--sans); }
 .actions { display: flex; flex-wrap: wrap; gap: 8px; margin-top: 4px; }
 textarea, input[type="search"], input[type="text"], input[type="email"] {
   width: 100%; font: 400 16px/1.45 var(--sans); color: var(--ink); background: var(--surface);
@@ -381,7 +402,7 @@ textarea { min-height: 88px; resize: vertical; }
 .par .pt small { color: var(--muted); font-weight: 500; margin-right: 4px; }
 .par .refs { margin-bottom: 8px; }
 .par .refs .here { color: var(--ink); border-color: var(--lapis); background: var(--lapis-soft); }
-#parallel.sheet.dialog { width: min(1180px, calc(100vw - 48px)); }
+
 #parallel:not(.compare) #par-cols, #parallel:not(.compare) #par-head { display: none; }
 #parallel.compare #par-list, #parallel.compare .tabs { display: none; }
 #parallel:not(.compare) #par-back { display: none; }
@@ -438,8 +459,8 @@ textarea { min-height: 88px; resize: vertical; }
 /* The book and chapter picker: one screen. The books in one list under their parts; a book's
    chapters open in place beneath it, the book being read open from the start; a rail of the
    parts down the side to jump through the Bible, and a search above that narrows the list. */
-#picker { --pk-h: min(90vh, 820px); height: var(--pk-h); max-height: var(--pk-h); position: fixed; }
-@media (min-width: 720px) { .sheet.dialog#picker { width: min(600px, calc(100vw - 48px)); --pk-h: min(800px, calc(100vh - var(--bar) - 48px)); } }
+/* The picker is a list panel (ui.js: full height on phones). */
+@media (min-width: 760px) { #picker { --ui-panel-w: 440px; } }
 .pk-search { display: flex; align-items: center; gap: 8px; margin: 2px 0 0; padding: 0 12px; border-radius: 12px; background: color-mix(in srgb, var(--ink) 6%, var(--raised)); }
 .pk-search:focus-within { box-shadow: 0 0 0 2px var(--lapis); }
 .pk-search svg { width: 18px; height: 18px; flex: none; color: var(--muted); }
@@ -590,8 +611,13 @@ input[type="range"] { width: 100%; accent-color: var(--lapis); }
 .mk-text { font: 400 14px/1.3 var(--sans); }
 /* Bookmarks: a ribbon by the verse number, and the list. */
 .v.bm > .vn::before { content: ""; display: inline-block; width: 0.55em; height: 0.8em; margin-right: 0.15em; vertical-align: -0.08em; background: var(--lapis); clip-path: polygon(0 0, 100% 0, 100% 100%, 50% 72%, 0 100%); }
-.hl-bar .bmsel { display: grid; place-items: center; background: var(--surface); color: var(--lapis); border: 1px solid var(--line); }
-.hl-bar .bmsel svg { width: 16px; height: 16px; }
+.hl-bar { align-items: center; max-width: calc(100vw - 16px); overflow-x: auto; scrollbar-width: none; }
+.hl-bar .tool { display: grid; place-items: center; background: var(--surface); color: var(--lapis); border: 1px solid var(--line); font: 600 20px/1 var(--sans); flex: none; }
+.hl-bar .tool svg { width: 16px; height: 16px; }
+.hl-bar .sep { width: 1px; align-self: stretch; margin: 4px 2px; background: var(--line); flex: none; }
+.hl-bar .mk-pick { display: inline-flex; align-items: center; gap: 6px; height: 30px; padding: 0 10px 0 4px; border-radius: 99px; border: 1px solid var(--line); background: var(--surface); color: var(--ink); font: 600 13px/1 var(--sans); cursor: pointer; white-space: nowrap; flex: none; }
+.hl-bar .mk-pick .mk-sym { width: 22px; height: 22px; border-radius: 99px; }
+.hl-bar .mk-pick.add { padding: 0 12px; color: var(--lapis); }
 #bm-verse[aria-pressed="true"] { background: var(--lapis-soft); color: var(--lapis); border-color: var(--lapis); }
 #bm-verse[aria-pressed="true"] svg path { fill: currentColor; }
 .bmlist { list-style: none; margin: 0; padding: 0; display: grid; gap: 6px; }
@@ -663,7 +689,7 @@ body.listening .toast { bottom: calc(76px + env(safe-area-inset-bottom, 0px)); }
 .mk-text small { display: block; color: var(--muted); font-size: 12.5px; }
 
 .toast {
-  position: fixed; z-index: 10; left: 50%; bottom: max(24px, env(safe-area-inset-bottom, 0px)); transform: translateX(-50%);
+  position: fixed; z-index: 70; left: 50%; bottom: max(24px, env(safe-area-inset-bottom, 0px)); transform: translateX(-50%);
   background: var(--ink); color: var(--bg); border-radius: 99px; padding: 10px 16px; font: 600 14px/1.2 var(--sans); box-shadow: var(--shadow);
 }
 .account-form { display: grid; gap: 8px; margin-top: 12px; }
@@ -717,7 +743,7 @@ if (/(^#|&)(access_token|error)=/.test(location.hash)) {
 </main>
 
 <div class="scrim" id="verse-scrim" hidden></div>
-<section class="sheet" id="verse" hidden aria-labelledby="verse-title">
+<section class="ui-sheet sheet" id="verse" hidden aria-labelledby="verse-title">
   <div class="grab"></div>
   <div class="sheet-head">
     <div style="flex:1;min-width:0">
@@ -726,14 +752,31 @@ if (/(^#|&)(access_token|error)=/.test(location.hash)) {
     </div>
     <button class="btn" type="button" data-close aria-label="Close"><svg class="icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M6 6l12 12M18 6 6 18"/></svg></button>
   </div>
-  <div class="section" id="vweb-wrap" hidden>
-    <h3>In the web of Scripture</h3>
-    <ul class="webchips" id="vweb"></ul>
+  <div class="yours" id="vyours">
+    <div class="swatches" id="swatches" role="group" aria-label="Highlight"></div>
+    <textarea id="note" aria-label="My note" placeholder="Write a note on this verse. It's saved on this device."></textarea>
+    <ul class="wnotes" id="vwords" hidden></ul>
+  <div class="actions">
+    <button class="btn line" type="button" id="bm-verse"><svg class="icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M6 3h12v18l-6-4.5L6 21Z"/></svg><span>Bookmark</span></button>
+    <button class="btn line" type="button" id="listen-verse"><svg class="icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M4 15v-3a8 8 0 0 1 16 0v3"/><rect x="3" y="14" width="4.5" height="7" rx="1.5"/><rect x="16.5" y="14" width="4.5" height="7" rx="1.5"/></svg>Listen from here</button>
+    <button class="btn line" type="button" id="share-verse"><svg class="icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="18" cy="5" r="2.5"/><circle cx="6" cy="12" r="2.5"/><circle cx="18" cy="19" r="2.5"/><path d="m8.2 10.8 7.6-4.4M8.2 13.2l7.6 4.4"/></svg>Share verse</button>
+    <button class="btn line" type="button" id="copy-verse"><svg class="icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linejoin="round"><rect x="8" y="8" width="12" height="12" rx="2"/><path d="M16 8V5a1 1 0 0 0-1-1H5a1 1 0 0 0-1 1v10a1 1 0 0 0 1 1h3"/></svg>Copy verse</button>
+  </div>
   </div>
   <div class="section">
     <h3 id="orig-label">Original</h3>
     <p class="original" id="orig"></p>
     <p class="lang-note" id="orig-note"></p>
+  </div>
+  <div class="section">
+    <h3>Word by word</h3>
+    <ol class="inter" id="inter"></ol>
+    <div class="variants" id="vvar" hidden></div>
+    <div class="word" id="word" hidden></div>
+  </div>
+  <div class="section" id="vnotes-wrap" hidden>
+    <h3>Translation notes</h3>
+    <ul class="notes-list" id="vnotes"></ul>
   </div>
   <div class="section" id="vpeople-wrap" hidden>
     <h3>People</h3>
@@ -752,6 +795,10 @@ if (/(^#|&)(access_token|error)=/.test(location.hash)) {
     <h3>Related verses</h3>
     <div class="refs" id="vxref"></div>
   </div>
+  <div class="section" id="vpar-wrap" hidden>
+    <h3>Parallel passages</h3>
+    <div id="vpar"></div>
+  </div>
   <div class="section" id="vtopics-wrap" hidden>
     <h3>Topics</h3>
     <ul class="places" id="vtopics"></ul>
@@ -760,44 +807,20 @@ if (/(^#|&)(access_token|error)=/.test(location.hash)) {
     <h3>In the Bible dictionary</h3>
     <ul class="places" id="vdict"></ul>
   </div>
-  <div class="section" id="vpar-wrap" hidden>
-    <h3>Parallel passages</h3>
-    <div id="vpar"></div>
-  </div>
-  <div class="section">
-    <h3>Word by word</h3>
-    <ol class="inter" id="inter"></ol>
-    <div class="variants" id="vvar" hidden></div>
-    <div class="word" id="word" hidden></div>
-  </div>
-  <div class="section" id="vnotes-wrap" hidden>
-    <h3>Translation notes</h3>
-    <ul class="notes-list" id="vnotes"></ul>
-  </div>
-  <div class="section">
-    <h3>Highlight</h3>
-    <div class="swatches" id="swatches"></div>
-  </div>
-  <div class="section">
-    <h3><label for="note">My note</label></h3>
-    <textarea id="note" placeholder="Write a note on this verse. It's saved on this device."></textarea>
-  </div>
-  <div class="section actions">
-    <button class="btn line" type="button" id="bm-verse"><svg class="icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M6 3h12v18l-6-4.5L6 21Z"/></svg><span>Bookmark</span></button>
-    <button class="btn line" type="button" id="listen-verse"><svg class="icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M4 15v-3a8 8 0 0 1 16 0v3"/><rect x="3" y="14" width="4.5" height="7" rx="1.5"/><rect x="16.5" y="14" width="4.5" height="7" rx="1.5"/></svg>Listen from here</button>
-    <button class="btn line" type="button" id="share-verse"><svg class="icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="18" cy="5" r="2.5"/><circle cx="6" cy="12" r="2.5"/><circle cx="18" cy="19" r="2.5"/><path d="m8.2 10.8 7.6-4.4M8.2 13.2l7.6 4.4"/></svg>Share verse</button>
-    <button class="btn line" type="button" id="copy-verse"><svg class="icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linejoin="round"><rect x="8" y="8" width="12" height="12" rx="2"/><path d="M16 8V5a1 1 0 0 0-1-1H5a1 1 0 0 0-1 1v10a1 1 0 0 0 1 1h3"/></svg>Copy verse</button>
+  <div class="section" id="vweb-wrap" hidden>
+    <h3>In the web of Scripture</h3>
+    <ul class="webchips" id="vweb"></ul>
   </div>
 </section>
 
 <div class="scrim" id="scrim" hidden></div>
-<section class="sheet dialog" id="footnote" hidden aria-labelledby="fn-title">
+<section class="ui-sheet sheet dialog" id="footnote" hidden aria-labelledby="fn-title">
   <div class="grab"></div>
   <div class="sheet-head"><h2 id="fn-title">Note</h2><button class="btn" type="button" data-close aria-label="Close"><svg class="icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M6 6l12 12M18 6 6 18"/></svg></button></div>
   <p class="prose" id="fn-text" style="font-family:var(--read);font-size:17px"></p>
 </section>
 
-<section class="sheet dialog split" id="picker" hidden aria-labelledby="picker-title">
+<section class="ui-sheet sheet dialog split" data-detent="full" id="picker" hidden aria-labelledby="picker-title">
   <div class="grab"></div>
   <div class="sheet-head"><h2 id="picker-title">Go to</h2><button class="btn" type="button" data-close aria-label="Close"><svg class="icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M6 6l12 12M18 6 6 18"/></svg></button></div>
   <label class="pk-search">
@@ -813,7 +836,7 @@ if (/(^#|&)(access_token|error)=/.test(location.hash)) {
   <nav class="pk-index" id="pk-index" aria-label="Parts of the Bible"></nav>
 </section>
 
-<section class="sheet dialog split" id="search" hidden aria-labelledby="search-title">
+<section class="ui-sheet sheet dialog split" data-detent="full" id="search" hidden aria-labelledby="search-title">
   <div class="grab"></div>
   <div class="sheet-head"><h2 id="search-title">Search the Bible</h2><button class="btn" type="button" data-close aria-label="Close"><svg class="icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M6 6l12 12M18 6 6 18"/></svg></button></div>
   <input type="search" id="q" placeholder="Words or a reference" autocomplete="off" enterkeyhint="search" aria-label="Search">
@@ -822,7 +845,7 @@ if (/(^#|&)(access_token|error)=/.test(location.hash)) {
   <div class="scroll"><ol class="results" id="results"></ol></div>
 </section>
 
-<section class="sheet dialog split" id="study" hidden aria-labelledby="study-title">
+<section class="ui-sheet sheet dialog split" data-detent="full" id="study" hidden aria-labelledby="study-title">
   <div class="grab"></div>
   <div class="sheet-head">
     <button class="btn" type="button" id="study-back" aria-label="Back to the list"><svg class="icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="m15 5-7 7 7 7"/></svg></button>
@@ -843,7 +866,7 @@ if (/(^#|&)(access_token|error)=/.test(location.hash)) {
   </div>
 </section>
 
-<section class="sheet dialog split" id="parallel" hidden aria-labelledby="par-title">
+<section class="ui-sheet sheet dialog split" data-detent="full" data-size="wide" id="parallel" hidden aria-labelledby="par-title">
   <div class="grab"></div>
   <div class="sheet-head">
     <button class="btn" type="button" id="par-back" aria-label="Back to the list"><svg class="icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="m15 5-7 7 7 7"/></svg></button>
@@ -861,13 +884,13 @@ if (/(^#|&)(access_token|error)=/.test(location.hash)) {
   </div>
 </section>
 
-<section class="sheet dialog split" id="plans" hidden aria-labelledby="plans-title">
+<section class="ui-sheet sheet dialog split" data-detent="full" id="plans" hidden aria-labelledby="plans-title">
   <div class="grab"></div>
   <div class="sheet-head"><h2 id="plans-title">Reading plans</h2><button class="btn" type="button" data-close aria-label="Close"><svg class="icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M6 6l12 12M18 6 6 18"/></svg></button></div>
   <div class="scroll" id="plans-body"></div>
 </section>
 
-<section class="sheet dialog" id="settings" hidden aria-labelledby="settings-title">
+<section class="ui-sheet sheet dialog" id="settings" hidden aria-labelledby="settings-title">
   <div class="grab"></div>
   <div class="sheet-head"><h2 id="settings-title">Display</h2><button class="btn" type="button" data-close aria-label="Close"><svg class="icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M6 6l12 12M18 6 6 18"/></svg></button></div>
   <div class="setting">
@@ -915,7 +938,7 @@ if (/(^#|&)(access_token|error)=/.test(location.hash)) {
   </div>
 </section>
 
-<section class="sheet dialog split" id="marks" hidden aria-labelledby="marks-title">
+<section class="ui-sheet sheet dialog split" data-detent="full" id="marks" hidden aria-labelledby="marks-title">
   <div class="grab"></div>
   <div class="sheet-head"><h2 id="marks-title">Study markings</h2><button class="btn" type="button" data-close aria-label="Close"><svg class="icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M6 6l12 12M18 6 6 18"/></svg></button></div>
   <div class="marks-top">
@@ -924,14 +947,34 @@ if (/(^#|&)(access_token|error)=/.test(location.hash)) {
   <div class="scroll" id="marks-body"></div>
 </section>
 
-<section class="sheet dialog" id="menu" hidden aria-labelledby="menu-title">
+<section class="ui-sheet sheet dialog" id="mymarks" hidden aria-labelledby="mymarks-title">
+  <div class="grab"></div>
+  <div class="sheet-head"><h2 id="mymarks-title">My markings</h2><button class="btn" type="button" data-close aria-label="Close"><svg class="icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M6 6l12 12M18 6 6 18"/></svg></button></div>
+  <p class="hint">Make your own markings to trace words and themes as you study: select some words in the text, tap the star, and choose a marking.</p>
+  <ul class="mk-list" id="mk-list"></ul>
+  <div class="actions"><button class="btn line" type="button" id="mk-new">＋ New marking</button></div>
+  <form class="mk-edit" id="mk-edit" hidden>
+    <label for="mk-name">Name</label>
+    <input type="text" id="mk-name" maxlength="40" placeholder="e.g. Promises" autocomplete="off">
+    <div class="mk-row"><span class="lab">Symbol</span><div class="mk-grid" id="mk-syms" role="radiogroup" aria-label="Symbol"></div></div>
+    <div class="mk-row"><span class="lab">Color</span><div class="mk-grid" id="mk-cols" role="radiogroup" aria-label="Color"></div></div>
+    <div class="mk-row"><span class="lab">Style</span><div class="seg" id="mk-sts" role="radiogroup" aria-label="Style"></div></div>
+    <p class="mk-preview" id="mk-preview" translate="no"></p>
+    <div class="actions">
+      <button class="btn solid" type="submit" id="mk-save">Save</button>
+      <button class="btn line" type="button" id="mk-cancel">Cancel</button>
+      <button class="btn line danger" type="button" id="mk-del" hidden>Delete</button>
+    </div>
+  </form>
+</section>
+<section class="ui-sheet sheet dialog" id="menu" hidden aria-labelledby="menu-title">
   <div class="grab"></div>
   <div class="sheet-head"><h2 id="menu-title">Plain English Bible</h2><button class="btn" type="button" data-close aria-label="Close"><svg class="icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M6 6l12 12M18 6 6 18"/></svg></button></div>
   <div id="site-menu"><!-- nav.js: the site's menu, the same on every page --></div>
 </section>
-<script src="nav.js?v=33"></script>
+<script src="nav.js?v=34"></script>
 
-<section class="sheet dialog" id="mine" hidden aria-labelledby="mine-title">
+<section class="ui-sheet sheet dialog" id="mine" hidden aria-labelledby="mine-title">
   <div class="grab"></div>
   <div class="sheet-head"><h2 id="mine-title">My highlights and notes</h2><button class="btn" type="button" data-close aria-label="Close"><svg class="icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M6 6l12 12M18 6 6 18"/></svg></button></div>
   <p class="hint">Saved in this browser. Make a backup to keep them safe or to move them to another device. <span id="mine-account"></span></p>
@@ -952,13 +995,13 @@ if (/(^#|&)(access_token|error)=/.test(location.hash)) {
   <ol class="mine" id="mine-list"></ol>
 </section>
 
-<section class="sheet dialog" id="account" hidden aria-labelledby="account-title">
+<section class="ui-sheet sheet dialog" id="account" hidden aria-labelledby="account-title">
   <div class="grab"></div>
   <div class="sheet-head"><h2 id="account-title">Sync across devices</h2><button class="btn" type="button" data-close aria-label="Close"><svg class="icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M6 6l12 12M18 6 6 18"/></svg></button></div>
   <div id="account-body"></div>
 </section>
 
-<section class="sheet dialog" id="webmini" hidden aria-labelledby="wm-title">
+<section class="ui-sheet sheet dialog" id="webmini" hidden aria-labelledby="wm-title">
   <div class="grab"></div>
   <div class="sheet-head">
     <button class="btn" type="button" id="wm-back" aria-label="Back" hidden><svg class="icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M19 12H5m0 0 6-6m-6 6 6 6"/></svg></button>
@@ -972,13 +1015,13 @@ if (/(^#|&)(access_token|error)=/.test(location.hash)) {
   <div class="actions" id="wm-actions"></div>
 </section>
 
-<section class="sheet dialog split" id="bookmarks" hidden aria-labelledby="bookmarks-title">
+<section class="ui-sheet sheet dialog split" data-detent="full" id="bookmarks" hidden aria-labelledby="bookmarks-title">
   <div class="grab"></div>
   <div class="sheet-head"><h2 id="bookmarks-title">Bookmarks</h2><button class="btn" type="button" data-close aria-label="Close"><svg class="icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M6 6l12 12M18 6 6 18"/></svg></button></div>
   <div class="scroll"><ul class="bmlist" id="bookmarks-list"></ul></div>
 </section>
 
-<section class="sheet dialog" id="listen-voices" hidden aria-labelledby="lv-title">
+<section class="ui-sheet sheet dialog" id="listen-voices" hidden aria-labelledby="lv-title">
   <div class="grab"></div>
   <div class="sheet-head"><h2 id="lv-title">Voice</h2><button class="btn" type="button" data-close aria-label="Close"><svg class="icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M6 6l12 12M18 6 6 18"/></svg></button></div>
   <div class="seg" role="group" aria-label="Voice" id="lv-kind"><button type="button" data-v="female">Female</button><button type="button" data-v="male">Male</button></div>
@@ -986,7 +1029,7 @@ if (/(^#|&)(access_token|error)=/.test(location.hash)) {
   <p class="hint">These are the voices built into this device and browser, so they differ from one device to another and need no download. The most natural are marked. On some phones the voice pauses when the screen locks; the reader keeps the screen awake while it reads.</p>
 </section>
 
-<section class="sheet dialog" id="project" hidden aria-labelledby="project-title">
+<section class="ui-sheet sheet dialog" id="project" hidden aria-labelledby="project-title">
   <div class="grab"></div>
   <div class="sheet-head"><h2 id="project-title">About this project</h2><button class="btn" type="button" data-close aria-label="Close"><svg class="icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M6 6l12 12M18 6 6 18"/></svg></button></div>
   <div class="prose">
@@ -1008,7 +1051,7 @@ if (/(^#|&)(access_token|error)=/.test(location.hash)) {
   </div>
 </section>
 
-<section class="sheet dialog" id="about" hidden aria-labelledby="about-title">
+<section class="ui-sheet sheet dialog" id="about" hidden aria-labelledby="about-title">
   <div class="grab"></div>
   <div class="sheet-head"><h2 id="about-title">About this translation</h2><button class="btn" type="button" data-close aria-label="Close"><svg class="icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M6 6l12 12M18 6 6 18"/></svg></button></div>
   <div class="prose">
@@ -1649,9 +1692,8 @@ async function openVerse(span) {
   // Highlight and note.
   const id = `${b.osis}.${c}.${n}`;
   const a = notes[id] || {};
-  const sw = $("swatches"); sw.textContent = "";
-  for (const h of HL) sw.append(el("button", { class: "swatch", type: "button", style: `background:var(--hl-${h})`, "aria-label": "Highlight " + h, "aria-pressed": String(a.h === h), onclick: () => setHighlight(id, span, h) }));
-  sw.append(el("button", { class: "swatch none", type: "button", "aria-label": "No highlight", "aria-pressed": String(!a.h), onclick: () => setHighlight(id, span, null) }));
+  $("swatches").replaceChildren(...swatchRow(a.h, h => setHighlight(id, span, h)));
+  renderWordNotes(id, span);
   $("note").value = a.n || "";
   $("note").oninput = () => { setNote(id, span, $("note").value); };
   $("copy-verse").onclick = () => copyVerse(row);
@@ -1670,10 +1712,10 @@ async function openVerse(span) {
   inter.dir = ot ? "rtl" : "ltr";
   inter.append(el("li", { class: "hint", text: "Loading words…" }));
   $("verse").hidden = false;
-  if (innerWidth < 1100) $("verse-scrim").hidden = false;
+  if (UI.phone()) $("verse-scrim").hidden = false;
   document.body.classList.add("panel-open");
   $("verse").scrollTop = 0;
-  if (innerWidth < 1100) {
+  if (UI.phone()) {
     // Keep the verse in view above the sheet.
     // Keep the verse's start just under the bar, above the sheet.
     const r = span.getBoundingClientRect(), top = 64;
@@ -1757,7 +1799,7 @@ function setHighlight(id, span, h) {
   if (h) a.h = h; else delete a.h;
   saveAnnotation(id, a);
   if (h) span.dataset.h = h; else delete span.dataset.h;
-  for (const s of $("swatches").children) s.setAttribute("aria-pressed", String(h ? s.getAttribute("aria-label") === "Highlight " + h : s.classList.contains("none")));
+  for (const s of $("swatches").children) if (s.dataset.h) s.setAttribute("aria-pressed", String(s.dataset.h === h));
 }
 let noteTimer = 0;
 function setNote(id, span, text) {
@@ -2635,14 +2677,17 @@ function renderMine() {
     const b = byOsis[o], a = notes[id];
     list.append(el("li", {}, el("button", { type: "button", onclick: () => { closeSheets(); go(b, +c, +v); } },
       el("span", { class: "r" }, a.h ? el("span", { class: "dot", style: `background:var(--hl-${a.h})` }) : null, `${psName(b)} ${c}:${v}`),
-      a.n ? el("span", { class: "n", text: a.n }) : null)));
+      a.n ? el("span", { class: "n", text: a.n }) : null,
+      // Notes on words, and your markings, in the verse.
+      ...(a.r || []).filter(q => q[2] === "n" && q[3]).map(q => el("span", { class: "n", text: "✎ " + q[3] })),
+      (a.r || []).some(q => q[2] === "m") ? el("span", { class: "n" }, ...[...new Set(a.r.filter(q => q[2] === "m").map(q => q[3]))].map(markById).filter(Boolean).map(mkSym)) : null)));
   }
 }
 const embedded = (() => { try { return window.top !== window.self; } catch (e) { return true; } })();
 $("backup").onclick = () => {
   $("backup-box").hidden = false;
   $("backup-label").textContent = "Your backup: copy it somewhere safe";
-  $("backup-text").value = JSON.stringify({ app: "plain-english-bible", version: 1, saved: new Date().toISOString(), annotations: notes }, null, 1);
+  $("backup-text").value = JSON.stringify({ app: "plain-english-bible", version: 1, saved: new Date().toISOString(), annotations: notes, marks: myMarks }, null, 1);
   $("backup-copy").hidden = false; $("backup-file").hidden = embedded;
   $("restore-apply").hidden = true; $("restore-file-label").hidden = true;
 };
@@ -2682,6 +2727,11 @@ $("restore-apply").onclick = () => {
   }
   store.set("annotations", notes);
   if (added.length) reader.annotations.onChange?.(added);
+  // Markings in the backup that this device doesn't have.
+  if (Array.isArray(data.marks)) {
+    const fresh = data.marks.filter(m => m && m.id && m.n && !markById(m.id));
+    if (fresh.length) { myMarks = [...myMarks, ...fresh]; saveMyMarks(); }
+  }
   toast(added.length ? `Restored ${added.length} ${added.length === 1 ? "highlight or note" : "highlights and notes"}` : "Nothing new in that backup");
   renderMine();
   if (cur) refresh();
@@ -3292,6 +3342,7 @@ async function renderMarksKey() {
 $("marks-on").onchange = () => { settings.marks = $("marks-on").checked ? "on" : "off"; applySettings(); repaintMarks(); };
 $("open-marks").onclick = () => { openSheet("marks"); renderMarksKey(); };
 $("open-marks-2").onclick = () => { openSheet("marks"); renderMarksKey(); };
+$("open-mymarks").onclick = () => openMyMarks(false);
 
 /* ---------- Highlighting part of a verse ---------- */
 // A highlight on part of a verse is stored with the verse as [start, end, color], counting the
@@ -3304,11 +3355,15 @@ function countedText(span) {
   return out;
 }
 function unmarkRanges(span) {
-  for (const m of span.querySelectorAll("mark.hlp")) m.replaceWith(...m.childNodes);
+  for (const m of span.querySelectorAll("mark.hlp, mark.wn, mark.um")) m.replaceWith(...m.childNodes);
   span.normalize();
 }
+// A verse's ranges hold three kinds of thing, kept apart: [start, end, color] a highlight,
+// [start, end, "n", text] a note on those words, [start, end, "m", marking] one of your markings.
+const isHl = r => HL.includes(r[2]);
 function markRanges(span, ranges) {
-  for (const [s, e, c] of ranges) {
+  const order = [...ranges.filter(isHl), ...ranges.filter(r => r[2] === "m"), ...ranges.filter(r => r[2] === "n")];
+  for (const [s, e, c, x] of order) {
     let at = 0;
     for (const node of countedText(span)) {
       const len = node.data.length, a = Math.max(s, at), z = Math.min(e, at + len);
@@ -3316,7 +3371,7 @@ function markRanges(span, ranges) {
         let mid = node;
         if (a > at) mid = mid.splitText(a - at);
         if (z < at + len) mid.splitText(z - a);
-        const m = el("mark", { class: "hlp", "data-c": c });
+        const m = c === "n" ? el("mark", { class: "wn", title: x || "" }) : c === "m" ? el("mark", { class: "um", "data-m": x }) : el("mark", { class: "hlp", "data-c": c });
         mid.replaceWith(m); m.append(mid);
       }
       at += len;
@@ -3356,7 +3411,8 @@ function highlightSelection(color) {
     const a = notes[id] || {};
     // What was marked here before gives way; then the new color, and like neighbors join up.
     let rs = [];
-    for (const [x, y, k] of a.r || []) {
+    const others = (a.r || []).filter(q => !isHl(q));   // notes on words and markings stay as they are
+    for (const [x, y, k] of (a.r || []).filter(isHl)) {
       if (y <= s || x >= e) rs.push([x, y, k]);
       else { if (x < s) rs.push([x, s, k]); if (y > e) rs.push([e, y, k]); }
     }
@@ -3365,7 +3421,7 @@ function highlightSelection(color) {
     rs = rs.reduce((acc, r) => { const l = acc[acc.length - 1]; if (l && l[2] === r[2] && l[1] >= r[0]) l[1] = Math.max(l[1], r[1]); else acc.push(r); return acc; }, []);
     const words = countedText(span).map(n => n.data).join("");
     rs = rs.filter(([x, y]) => words.slice(x, y).trim());   // a leftover space isn't worth keeping
-    a.r = rs;
+    a.r = [...rs, ...others];
     saveAnnotation(id, a);
     unmarkRanges(span); if (a.r) markRanges(span, a.r);
     touched.push(id);
@@ -3374,25 +3430,224 @@ function highlightSelection(color) {
   $("hl-bar").hidden = true;
   if (touched.length) toast(color ? "Highlighted" : "Highlight removed");
 }
+// Highlight colors and "clear": one row, the same in the verse panel and over selected words.
+function swatchRow(current, pick, { pressed = true } = {}) {
+  const keep = e => e.preventDefault();   // keep the selected words selected
+  return [
+    ...HL.map(h => el("button", { class: "swatch", type: "button", "data-h": h, style: `background:var(--hl-${h})`, "aria-label": "Highlight " + h,
+      "aria-pressed": pressed ? String(current === h) : null, onmousedown: keep, onclick: () => pick(h) })),
+    el("button", { class: "swatch none", type: "button", "aria-label": "Clear highlight", title: "Clear highlight", onmousedown: keep, onclick: () => pick(null) }),
+  ];
+}
+
+/* ---------- Your markings ---------- */
+// Markings you make yourself, to mark words through the Bible as you study: each has a name, a
+// symbol, a color and a style (a line under the words, a box round them, or the symbol alone).
+// They are kept on this device, and in your account when signed in (reader.prefs, "marks").
+const MK_SYMBOLS = ["▲", "●", "■", "◆", "★", "♥", "✚", "✝", "☁", "⚑", "✓", "✦"];
+const MK_COLORS = ["#c0392b", "#d35400", "#b7950b", "#27ae60", "#16a085", "#2e86c1", "#6c3483", "#7f8c8d"];
+const MK_STYLES = [["line", "Line under"], ["box", "Box around"], ["sym", "Symbol only"]];
+let myMarks = store.get("mymarks", []);
+let myMarksT = store.get("mymarksT", 0);
+function saveMyMarks() {
+  myMarksT = Date.now();
+  store.set("mymarks", myMarks); store.set("mymarksT", myMarksT);
+  paintMyMarks();
+  reader.prefs.onChange?.("marks");
+}
+function paintMyMarks() {
+  let st = $("mymarks-css");
+  if (!st) { st = el("style", { id: "mymarks-css" }); document.head.append(st); }
+  st.textContent = myMarks.map(markCss).join("\n");
+}
+function markCss(m) {
+  const sel = `mark.um[data-m="${m.id}"]`;
+  const look = m.st === "box" ? `outline: 2px solid ${m.c}; outline-offset: 1px; border-radius: 3px;` : m.st === "line" ? `box-shadow: inset 0 -3px 0 ${m.c};` : "";
+  return `${sel} { ${look} } ${sel}::before { content: "${m.s}︎"; color: ${m.c}; font: 700 0.62em/1 var(--sans); vertical-align: 0.55em; margin-inline-end: 1px; }`;
+}
+const markById = id => myMarks.find(m => m.id === id);
+const mkSym = m => el("span", { class: "mk-sym", style: `color:${m.c};background:color-mix(in srgb, ${m.c} 14%, transparent)`, "aria-hidden": "true", text: m.s + "︎" });
+
+// Apply (or, if it is already there, take off) a marking on the selected words.
+function markSelection(mid, picked = selectedVerses()) {
+  const touched = [];
+  let removed = false;
+  for (const [span, s, e] of picked) {
+    const id = span.dataset.id, a = notes[id] || {};
+    const rs = a.r || [];
+    const same = rs.findIndex(q => q[2] === "m" && q[3] === mid && q[0] === s && q[1] === e);
+    if (same >= 0) { rs.splice(same, 1); removed = true; } else rs.push([s, e, "m", mid]);
+    a.r = rs;
+    saveAnnotation(id, a);
+    unmarkRanges(span); if (a.r) markRanges(span, a.r);
+    touched.push(id);
+  }
+  getSelection().removeAllRanges();
+  hlBar.hidden = true;
+  if (touched.length) toast(removed ? "Marking removed" : L.t("Marked as {name}", { name: markById(mid)?.n || "" }));
+}
+
+// A note on the selected words: the verse panel opens with a box for it at the top.
+function noteSelection() {
+  const vs = selectedVerses();
+  if (!vs.length) return;
+  const [span, s, e] = vs[0];
+  const id = span.dataset.id, a = notes[id] || {};
+  a.r = a.r || [];
+  let q = a.r.find(x => x[2] === "n" && x[0] === s && x[1] === e);
+  if (!q) { q = [s, e, "n", ""]; a.r.push(q); notes[id] = a; }
+  getSelection().removeAllRanges();
+  hlBar.hidden = true;
+  openVerse(span).then(() => {});
+  setTimeout(() => {
+    const box = $("vwords").querySelector(`textarea[data-s="${s}"][data-e="${e}"]`);
+    if (box) { box.focus(); box.scrollIntoView({ block: "nearest" }); }
+  }, 60);
+}
+
+// Your notes on words, and your markings, in this verse: at the top of the verse panel.
+function renderWordNotes(id, span) {
+  const list = $("vwords"), a = notes[id] || {};
+  const words = countedText(span).map(n => n.data).join("");
+  const items = (a.r || []).filter(q => q[2] === "n" || q[2] === "m").sort((p, q) => p[0] - q[0]);
+  list.replaceChildren(...items.map(q => {
+    const quote = el("div", { class: "q" }, "“", el("b", { text: words.slice(q[0], q[1]).trim() }), "”");
+    const rm = el("button", { class: "rm", type: "button", "aria-label": q[2] === "n" ? "Delete this note" : "Remove this marking", text: "✕", onclick: () => {
+      a.r = a.r.filter(x => x !== q); saveAnnotation(id, a); unmarkRanges(span); if (a.r) markRanges(span, a.r); renderWordNotes(id, span);
+    } });
+    if (q[2] === "m") {
+      const m = markById(q[3]);
+      return el("li", {}, el("div", {}, quote, el("div", { class: "mk-chip" }, m ? mkSym(m) : null, m ? m.n : "A marking you deleted")), rm);
+    }
+    const box = el("textarea", { "aria-label": "My note on these words", placeholder: "Write a note on these words.", "data-s": q[0], "data-e": q[1] });
+    box.value = q[3] || "";
+    let t = 0;
+    box.oninput = () => { clearTimeout(t); t = setTimeout(() => { q[3] = box.value; saveAnnotation(id, a); const m = span.querySelector(`mark.wn`); if (m) { unmarkRanges(span); markRanges(span, a.r); } }, 300); };
+    box.onblur = () => { if (!box.value.trim()) { a.r = a.r.filter(x => x !== q); saveAnnotation(id, a); unmarkRanges(span); if (a.r) markRanges(span, a.r); renderWordNotes(id, span); } };
+    return el("li", {}, quote, rm, box);
+  }));
+  list.hidden = !items.length;
+}
+
+/* The bar over selected words: highlight colors and clear, a note, a marking, a bookmark. */
 const hlBar = el("div", { class: "hl-bar", id: "hl-bar", hidden: true, role: "toolbar", "aria-label": "Highlight the selected words" });
-for (const h of HL) hlBar.append(el("button", { type: "button", class: "swatch", style: `background:var(--hl-${h})`, "aria-label": "Highlight in " + h, onmousedown: e => e.preventDefault(), onclick: () => highlightSelection(h) }));
-hlBar.append(el("button", { type: "button", class: "swatch none", "aria-label": "Remove highlighting", onmousedown: e => e.preventDefault(), onclick: () => highlightSelection(null) }));
-hlBar.append(el("button", { type: "button", class: "swatch bmsel", "aria-label": "Bookmark the selected verses", title: "Bookmark these verses", onmousedown: e => e.preventDefault(), onclick: bookmarkSelection }));
-hlBar.lastChild.innerHTML = '<svg class="icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M6 3h12v18l-6-4.5L6 21Z"/></svg>';
+const ICON_NOTE = '<svg class="icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M4 20h4L19 9l-4-4L4 16Z"/><path d="m13.5 6.5 4 4"/></svg>';
+const ICON_MARK = '<svg class="icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="m12 3 2.6 5.6 6.1.7-4.5 4.2 1.2 6L12 16.6 6.6 19.5l1.2-6-4.5-4.2 6.1-.7Z"/></svg>';
+const ICON_BM = '<svg class="icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M6 3h12v18l-6-4.5L6 21Z"/></svg>';
+const keepSel = e => e.preventDefault();
+function barTool(label, icon, onclick) {
+  const b = el("button", { type: "button", class: "swatch tool", "aria-label": label, title: label, onmousedown: keepSel, onclick });
+  b.innerHTML = icon;
+  return b;
+}
+function hlBarMain() {
+  hlBar.classList.remove("marking");
+  hlBar.replaceChildren(...swatchRow(null, highlightSelection, { pressed: false }), el("span", { class: "sep", "aria-hidden": "true" }),
+    barTool("Note on these words", ICON_NOTE, noteSelection), barTool("Mark these words", ICON_MARK, hlBarMarks),
+    barTool("Bookmark the selected verses", ICON_BM, bookmarkSelection));
+}
+// The second step of "mark": your markings, a way to make one, and back.
+function hlBarMarks() {
+  hlBar.classList.add("marking");
+  const back = el("button", { type: "button", class: "swatch tool", "aria-label": "Back", title: "Back", onmousedown: keepSel, onclick: hlBarMain, text: "‹" });
+  const chips = myMarks.map(m => el("button", { type: "button", class: "mk-pick", title: m.n, "aria-label": m.n, onmousedown: keepSel, onclick: () => markSelection(m.id) }, mkSym(m), el("span", { text: m.n })));
+  const add = el("button", { type: "button", class: "mk-pick add", onmousedown: keepSel, onclick: () => openMyMarks(true) }, el("span", { text: myMarks.length ? "＋" : "＋ New marking" }));
+  hlBar.replaceChildren(back, ...chips, add);
+  placeHlBar();
+}
+hlBarMain();
 document.body.append(hlBar);
+/* The "My markings" panel: your markings, and making or changing one. */
+let mkPending = null, mkEditing = null;
+function openMyMarks(fromSelection) {
+  // Words selected when you asked for a new marking get it as soon as it is saved.
+  mkPending = fromSelection ? selectedVerses().map(([span, s, e]) => [span, s, e]) : null;
+  if (fromSelection) { getSelection().removeAllRanges(); hlBar.hidden = true; }
+  renderMyMarks();
+  openSheet("mymarks");
+  if (fromSelection || !myMarks.length) editMark(null);
+}
+function renderMyMarks() {
+  $("mk-list").replaceChildren(...myMarks.map(m => {
+    const used = Object.values(notes).reduce((t, a) => t + (a.r || []).filter(q => q[2] === "m" && q[3] === m.id).length, 0);
+    return el("li", {}, mkSym(m), el("b", { text: m.n }), el("small", { text: L.plural(used, "{n} place", "{n} places") }),
+      el("button", { class: "btn line", type: "button", text: "Edit", onclick: () => editMark(m) }));
+  }));
+  $("mk-list").hidden = !myMarks.length;
+}
+function editMark(m) {
+  mkEditing = m;
+  const d = m ? { ...m } : { n: "", s: MK_SYMBOLS[myMarks.length % MK_SYMBOLS.length], c: MK_COLORS[myMarks.length % MK_COLORS.length], st: "line" };
+  $("mk-edit").hidden = false;
+  $("mk-del").hidden = !m;
+  $("mk-name").value = d.n;
+  const pick = (box, list, key, show) => {
+    box.replaceChildren(...list.map(v => {
+      const val = Array.isArray(v) ? v[0] : v;
+      const b = el("button", { type: "button", role: "radio", "aria-checked": String(d[key] === val), "aria-label": Array.isArray(v) ? v[1] : val,
+        onclick: () => { d[key] = val; for (const x of box.children) x.setAttribute("aria-checked", String(x === b)); preview(); } });
+      show(b, v);
+      return b;
+    }));
+  };
+  const preview = () => {
+    $("mk-preview").replaceChildren(el("style", { text: markCss({ ...d, id: "preview" }) }),
+      "In the beginning ", el("mark", { class: "um", "data-m": "preview", text: "God" }), " created the heavens and the earth.");
+  };
+  pick($("mk-syms"), MK_SYMBOLS, "s", (b, v) => { b.textContent = v + "︎"; });
+  pick($("mk-cols"), MK_COLORS, "c", (b, v) => { b.style.background = v; });
+  pick($("mk-sts"), MK_STYLES, "st", (b, v) => { b.textContent = v[1]; });
+  preview();
+  $("mk-edit").onsubmit = ev => {
+    ev.preventDefault();
+    d.n = $("mk-name").value.trim();
+    if (!d.n) { $("mk-name").focus(); return; }
+    if (m) Object.assign(m, d); else { d.id = "m" + Date.now().toString(36); myMarks.push(d); }
+    saveMyMarks();
+    $("mk-edit").hidden = true;
+    renderMyMarks();
+    if (!m && mkPending && mkPending.length) { markSelection(d.id, mkPending); mkPending = null; closeSheets(); }
+    else toast("Saved");
+  };
+  $("mk-cancel").onclick = () => { $("mk-edit").hidden = true; mkPending = null; };
+  $("mk-del").onclick = () => {
+    if (!confirm(L.t("Delete the marking “{name}”? It will be taken off every word it marks.", { name: m.n }))) return;
+    myMarks = myMarks.filter(x => x !== m);
+    const ids = [];
+    for (const [id, a] of Object.entries(notes)) if ((a.r || []).some(q => q[2] === "m" && q[3] === m.id)) {
+      a.r = a.r.filter(q => !(q[2] === "m" && q[3] === m.id)); saveAnnotation(id, a); ids.push(id);
+    }
+    saveMyMarks();
+    $("mk-edit").hidden = true;
+    renderMyMarks();
+    if (cur) refresh();
+  };
+  setTimeout(() => $("mk-name").focus(), 50);
+}
+$("mk-new").onclick = () => editMark(null);
+paintMyMarks();
+
+function placeHlBar() {
+  const sel = getSelection();
+  if (!sel.rangeCount) return;
+  const rect = sel.getRangeAt(0).getBoundingClientRect();
+  if (!rect.width && !rect.height) return;
+  // Above the words, or below them on touch screens, where the system's own menu sits above.
+  const below = matchMedia("(pointer: coarse)").matches;
+  const top = below ? rect.bottom + 12 : rect.top - hlBar.offsetHeight - 10;
+  hlBar.style.top = `${Math.max(8, Math.min(innerHeight - hlBar.offsetHeight - 8, top))}px`;
+  hlBar.style.left = `${Math.max(8, Math.min(innerWidth - hlBar.offsetWidth - 8, rect.left + rect.width / 2 - hlBar.offsetWidth / 2))}px`;
+}
+
 let hlTimer = 0;
 document.addEventListener("selectionchange", () => {
   clearTimeout(hlTimer);
   hlTimer = setTimeout(() => {
     const vs = selectedVerses();
     if (!vs.length) { hlBar.hidden = true; return; }
-    const rect = getSelection().getRangeAt(0).getBoundingClientRect();
+    if (hlBar.hidden) hlBarMain();
     hlBar.hidden = false;
-    // Above the words, or below them on touch screens, where the system's own menu sits above.
-    const below = matchMedia("(pointer: coarse)").matches;
-    const top = below ? rect.bottom + 12 : rect.top - hlBar.offsetHeight - 10;
-    hlBar.style.top = `${Math.max(8, Math.min(innerHeight - hlBar.offsetHeight - 8, top))}px`;
-    hlBar.style.left = `${Math.max(8, Math.min(innerWidth - hlBar.offsetWidth - 8, rect.left + rect.width / 2 - hlBar.offsetWidth / 2))}px`;
+    placeHlBar();
   }, 180);
 });
 
@@ -3501,7 +3756,7 @@ Promise.all([getJSON("books.json"), !L.en && L.LANGS[LANG].bible ? getJSON(`i18n
   addEventListener("hashchange", route);
   route();
 }).catch(() => { $("loading").textContent = "The Bible couldn't be loaded. Check your connection and reload the page."; });
-if ("serviceWorker" in navigator && /^https?:$/.test(location.protocol) && !embedded) navigator.serviceWorker.register("sw.js?v=52").catch(() => {});
+if ("serviceWorker" in navigator && /^https?:$/.test(location.protocol) && !embedded) navigator.serviceWorker.register("sw.js?v=53").catch(() => {});
 
 /* ---------- For account.js: highlights and notes, and two of the reader's tools ---------- */
 var reader = {
@@ -3529,12 +3784,27 @@ var reader = {
     },
     onChange: null,
   },
+  // Other things kept in the account by key: "marks", your markings. { v, t } here; the account's when newer.
+  prefs: {
+    keys: ["marks"],
+    get: key => key === "marks" ? { v: myMarks, t: myMarksT } : null,
+    apply(key, v, t) {
+      if (key !== "marks" || !Array.isArray(v)) return;
+      myMarks = v; myMarksT = t;
+      store.set("mymarks", myMarks); store.set("mymarksT", myMarksT);
+      paintMyMarks();
+      if (!$("mymarks").hidden) renderMyMarks();
+    },
+    // The first time a device meets the account's markings: both sets, joined by id.
+    merge: (key, mine, theirs) => key === "marks" ? [...theirs, ...mine.filter(m => !theirs.some(x => x.id === m.id))] : theirs,
+    onChange: null,
+  },
   signedIn: false,   // account.js sets it
   openSheet, toast,
 };
 </script>
 <script src="config.js?v=31"></script>
 <script src="share.js?v=31"></script>
-<script src="account.js?v=32"></script>
+<script src="account.js?v=33"></script>
 </body>
 </html>
