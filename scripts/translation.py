@@ -53,7 +53,7 @@ LANGS = {
            "banned": {"Yahweh": "the divine name is written \"the LORD\", not \"Yahweh\""},
            "license": LICENSE_LINE, "guide": "TRANSLATION.md"},
     "zh": {"src": "translation-zh", "out": os.path.join("text", "chinese"), "name": re.compile("耶和華"), "name_text": "「耶和華」",
-           "banned": {"上帝": "God is 「神」 in this translation, not 「上帝」", "裡": "Hong Kong usage writes 「裏」, not 「裡」"},
+           "banned": {"上帝": "God is 「神」 in this translation, not 「上帝」", "裡": "Hong Kong usage writes 「裏」, not 「裡」", "喫": "write 「吃」, not the archaic 「喫」"},
            "license": ("淺白中文譯本（初稿）。授權：CC BY 4.0。新約譯自 SBL 希臘文新約（CC BY 4.0，© 2010 Society of "
                        "Biblical Literature and Logos Bible Software）；舊約譯自列寧格勒抄本（UXLC 2.6，Tanach.us）。"),
            "guide": "TRANSLATION-ZH.md", "reader": "zh-Hant"},

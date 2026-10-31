@@ -338,10 +338,67 @@ Settled while drafting Judges:
 | בְּנֵי־בְלִיַּעַל | 無賴之徒 | As Deuteronomy 13:14; *beliyya'al* noted. |
 | נְבָלָה; זִמָּה וּנְבָלָה | 醜惡的事；淫亂醜惡的事 | *nevalah* noted (19:23; 20:6). |
 
+Settled while drafting Ruth:
+
+| Source | Rendering | Notes |
+|---|---|---|
+| גֹּאֵל; גָּאַל | 至近的親屬；盡至近親屬的本分、贖 | As Leviticus 25; *go'el* noted at 2:20 with 「救贖者」. |
+| חֶסֶד | 慈愛 | The glossary note at 1:8, 2:20, 3:10. |
+| שַׁדַּי (alone) | 全能者 | Noted: *Shaddai*, meaning uncertain (1:20). |
+| כֹּה יַעֲשֶׂה יְהוָה לִי וְכֹה יֹסִיף | 願耶和華（神）重重懲罰我（你） | Oath formula; literal wording in a note (Ruth 1:17; 1 Samuel 3:17). |
+| גִּבּוֹר חַיִל; אֵשֶׁת חַיִל | 有地位的人；賢德的女子 | *chayil* noted and linked (2:1; 3:11; 4:11). |
+| לִקֵּט | 拾麥穗 | Gleaning law noted (2:2). |
+| כָּנָף (2:12; 3:9) | 翅膀；衣襟 | The one word noted. |
+| נָעֳמִי; מָרָא | 拿俄米；瑪拉 | Meanings noted: 「甜美」, 「苦」 (1:20). |
+
+Settled while drafting 1 Samuel:
+
+| Source | Rendering | Notes |
+|---|---|---|
+| יְהוָה צְבָאוֹת | 萬軍之耶和華 | *tseva'ot* noted at the first occurrence in each chapter (1:3, the first in the Bible). |
+| Hannah's song (2:1–10) | Poetry without quotation marks | 2:1 opens 哈拿禱告說：. |
+| שָׁאַל; שָׁאוּל | 求；歸給 | The play on Samuel's and Saul's names noted (1:20, 28; 2:20). |
+| מְשִׁיחוֹ (2:10, 35) | 他的受膏者 | *mashiach* noted: the king. |
+| הֵיכַל יְהוָה | 耶和華的殿 | *heikhal* noted (1:9). |
+| אֲרוֹן בְּרִית יְהוָה; אֲרוֹן הָאֱלֹהִים | 耶和華的約櫃；神的約櫃 | |
+| יֹשֵׁב הַכְּרֻבִים | 坐在基路伯上的 | Noted: or 「坐在……之間」. |
+| עֳפָלִים / טְחֹרִים | 腫瘤 | Ketiv and qere noted (5:6; 6:4); traditionally 痔瘡. |
+| אָשָׁם (1 Samuel 6) | 贖愆祭 | Noted: 賠償祭. |
+| אִי־כָבוֹד | 以迦博 | Noted: 「榮耀在哪裏？」 or 「沒有榮耀」 (4:21). |
+| Text-critical notes | 七十士譯本；4QSam-a（一份撒母耳記的死海古卷） | As the English has them. |
+| שָׁפַט (Samuel; the king, 8:5, 20) | 作以色列的士師；治理 | *shafat* noted. |
+| מֶלֶךְ; מִשְׁפַּט הַמֶּלֶךְ; מִשְׁפַּט הַמְּלֻכָה | 王；王的權利；王位的規例 | *mishpat* noted (8:9; 10:25). |
+| רֹאֶה; נָבִיא | 先見；先知 | 9:9 in （）, both noted. |
+| נָגִיד | 領袖 | Noted: 和合本「君」 (9:16). |
+| מָשַׁח; מְשִׁיחוֹ | 膏；他的受膏者 | Noted 10:1, 16:13; 12:3, 16:6. |
+| נְצִיב; מַצָּב | 駐軍；防營、防軍 | *netsiv* noted (10:5). |
+| יְחִי הַמֶּלֶךְ | 願王萬歲 | |
+| נֹשֵׂא כֵלָיו | 替他拿兵器的人 | |
+| רוּחַ רָעָה מֵאֵת יְהוָה | 從耶和華那裏來的惡靈 | Noted: 使人受害的靈 (16:14). |
+| נִחַם (God, 1 Samuel 15) | 後悔；改變心意 (15:29) | One verb, noted. |
+| אִישׁ הַבֵּנַיִם | 出陣挑戰的勇士 | *ish ha-benayim* noted (17:4). |
+| חֵרֵף; מַעַרְכוֹת; מַעֲרָכָה | 辱罵；軍隊；戰陣 | 1 Samuel 17. |
+| קֶלַע | 機弦 | As Judges 20:16. |
+| The women's song (18:7; 21:12) | 「掃羅殺敵千千，大衛殺敵萬萬。」 | Literal wording and ketiv/qere noted. |
+| מַשְׂכִּיל | 成功 | *maskil* noted (18:5). |
+| הִתְנַבֵּא (Saul, 18:10) | 胡言亂語 | Noted: 「說預言」; 19:20–24 說預言, as 10:5. |
+| מְצוּדָה, מְצָדוֹת | 要塞 | |
+| שָׁאַל בַּיהוָה / בֵּאלֹהִים | 求問耶和華／神 | |
+| לֶחֶם קֹדֶשׁ (21:5–7) | 分別為聖的餅 | Never 聖餅. With 供奉在神面前的餅 (21:7) and the note on Mark 2:26 (亞比亞他). |
+| מְשִׁיחַ יְהוָה | 耶和華的受膏者 | Noted (24:7). |
+| Names the Union Version translates (חֹרְשָׁה, הַיְשִׁימוֹן) | 何烈沙；耶示門 | Transliterated; its 樹林, 曠野 in notes. |
+| נָבָל; נְבָלָה (25:25) | 拿八；愚頑 | The wordplay noted: *Naval*, 「愚頑人」. |
+| אָמָה; שִׁפְחָה (a woman of herself) | 婢女 | Both noted as humble self-reference (25:24, 27; 28:21). |
+| אֵשֶׁת בַּעֲלַת־אוֹב; קָסַם בָּאוֹב | 招魂的婦人；招魂占卜 | As Leviticus 19:31 (招魂的); *ov* noted (28:7–8). Not 「巫婆」. |
+| אֱלֹהִים (28:13) | 神靈 | Noted: god(s) or a spirit being; the verb is plural. |
+| שָׂרֵי פְלִשְׁתִּים; סַרְנֵי פְלִשְׁתִּים | 非利士人的將領；非利士人的首領 | Kept apart (1 Samuel 29). |
+| גְּדוּד | （這幫）匪徒 | *gedud* noted (30:8). |
+| שָׁלָל; אִישׁ חַיִל | 掠物；勇士 | |
+
 ## Style
 
 **Characters and words.** Plain words over the Union Version's literary ones (吊下去, not 縋下來). Hong Kong standard forms: 裏 (not 裡), 着 for the particle (看着、
-帶着; 著 only in 顯著、著作), 衞, 甚麼 (not 什麼), 只 (not 祇). Hong Kong usage where it differs
+帶着; 著 only in 顯著、著作), 衞, 甚麼 (not 什麼), 只 (not 祇), 吃 (not 喫). Hong Kong usage where it differs
 from Taiwan or the mainland. The checker rejects 裡.
 
 **Punctuation.** Full-width: ，。、；：？！ Quotations take 「」, a quotation inside one 『』.
