@@ -16,6 +16,7 @@
     study: '<path d="M12 6.5C10 5 7 4.5 3.5 5v14c3.5-.5 6.5 0 8.5 1.5 2-1.5 5-2 8.5-1.5V5C17 4.5 14 5 12 6.5Z"/><path d="M12 6.5v14"/>',
     parallels: '<rect x="3" y="4" width="7.5" height="16" rx="1.5"/><rect x="13.5" y="4" width="7.5" height="16" rx="1.5"/><path d="M5.5 8.5h2.5M5.5 12h2.5M5.5 15.5h2.5M16 8.5h2.5M16 12h2.5M16 15.5h2.5"/>',
     marks: '<path d="M4 18.5c2-.6 3.2-.6 5 0s3 .6 5 0 3.2-.6 6 0"/><rect x="4" y="5" width="9" height="8" rx="1.5"/><path d="m16.5 6.5 2 3.5h-4z"/>',
+    mymarks: '<path d="m12 3 2.6 5.6 6.1.7-4.5 4.2 1.2 6L12 16.6 6.6 19.5l1.2-6-4.5-4.2 6.1-.7Z"/>',
     sync: '<path d="M19.5 10A8 8 0 0 0 5.6 7.2L4 9"/><path d="M4 4v5h5"/><path d="M4.5 14a8 8 0 0 0 13.9 2.8L20 15"/><path d="M20 20v-5h-5"/>',
     web: '<circle cx="6" cy="7" r="2.2"/><circle cx="18" cy="6" r="2.2"/><circle cx="12" cy="17" r="2.2"/><path d="M8 7.6 15.9 6.4M7.2 9 11 15M16.9 8 13 15"/>',
     web3d: '<path d="M12 2.5 20.5 7v10L12 21.5 3.5 17V7Z"/><path d="M3.5 7 12 11.5 20.5 7M12 11.5v10"/>',
@@ -45,6 +46,7 @@
       ["study", "Topics & dictionary", "study", "reader:study", "Nave’s topics and Easton’s Bible dictionary"],
       ["parallels", "Parallel passages", "parallels", "reader:parallels", "The Gospels side by side; Kings beside Chronicles"],
       ["marks", "Study markings", "marks", "reader:marks", "Key words marked through the whole Bible", { sub: "marks-sub" }],
+      ["mymarks", "My markings", "mymarks", "reader:mymarks", "Your own markings, to trace words as you study"],
       ["account", "Sync devices", "sync", "reader:account", "Keep your highlights and notes on every device", { sub: "account-sub", hidden: true, readerOnly: true }],
     ]],
     ["Explore", "menu-explore", [
@@ -130,13 +132,7 @@
 .sitenav-btn { flex: none; display: inline-grid; place-items: center; width: 40px; height: 40px; border: 0; border-radius: 10px; background: transparent; color: var(--ink, #161b26); cursor: pointer; margin-inline-start: 2px; }
 .sitenav-btn:hover, .sitenav-btn[aria-expanded="true"] { background: var(--lapis-soft, #e7ecf8); }
 .sitenav-btn svg { width: 22px; height: 22px; }
-.sitenav-scrim { position: fixed; inset: 0; z-index: 60; background: rgb(10 14 24 / 32%); }
-.sitenav { position: fixed; z-index: 61; left: 0; right: 0; bottom: 0; max-height: min(82vh, 760px); overflow: auto; overscroll-behavior: contain;
-  background: var(--surface, #fff); color: var(--ink, #161b26); border-top: 1px solid var(--line, #e4e2db); border-radius: 20px 20px 0 0;
-  box-shadow: 0 -10px 30px rgb(22 27 38 / 16%); padding: 8px max(16px, env(safe-area-inset-right, 0px)) max(18px, env(safe-area-inset-bottom, 0px)) max(16px, env(safe-area-inset-left, 0px));
-  font-family: "Libre Franklin", system-ui, -apple-system, "Segoe UI", sans-serif; }
-@media (min-width: 720px) { .sitenav { left: auto; right: 12px; top: 62px; bottom: auto; width: 440px; max-height: calc(100vh - 80px); border: 1px solid var(--line, #e4e2db); border-radius: 18px; box-shadow: 0 12px 40px rgb(22 27 38 / 18%); } }
-.sitenav[hidden], .sitenav-scrim[hidden] { display: none; }
+.sitenav { font-family: "Libre Franklin", system-ui, -apple-system, "Segoe UI", sans-serif; }
 .sitenav-head { display: flex; align-items: center; justify-content: space-between; padding: 4px 0 2px; }
 .sitenav-head b { font: 600 19px/1.2 "Frank Ruhl Libre", Georgia, serif; }
 .sitenav-head button { width: 40px; height: 40px; border: 0; border-radius: 10px; background: transparent; color: inherit; cursor: pointer; font-size: 20px; }
@@ -159,16 +155,20 @@
   btn.type = "button"; btn.className = "sitenav-btn"; btn.setAttribute("aria-label", "Menu: every part of the Plain English Bible");
   btn.setAttribute("aria-expanded", "false"); btn.setAttribute("aria-controls", "sitenav");
   btn.innerHTML = '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M4 7h16M4 12h16M4 17h16"/></svg>';
+  // The menu is a panel of ui.js, as in the reader: a sheet from the bottom on phones, a panel
+  // down the right on larger screens.
   const scrim = document.createElement("div");
-  scrim.className = "sitenav-scrim"; scrim.hidden = true;
+  scrim.className = "ui-scrim sitenav-scrim"; scrim.hidden = true;
   const panel = document.createElement("nav");
-  panel.className = "sitenav"; panel.id = "sitenav"; panel.hidden = true; panel.setAttribute("aria-label", "Plain English Bible");
+  panel.className = "ui-sheet sitenav"; panel.id = "sitenav"; panel.hidden = true; panel.setAttribute("aria-label", "Plain English Bible");
+  const grab = document.createElement("div");
+  grab.className = "ui-grab";
   const head = document.createElement("div");
-  head.className = "sitenav-head";
-  head.innerHTML = '<b>Plain English Bible</b><button type="button" aria-label="Close">✕</button>';
+  head.className = "sitenav-head ui-head";
+  head.innerHTML = '<b>Plain English Bible</b><button type="button" data-close aria-label="Close">✕</button>';
   const body = document.createElement("div");
   render(body);
-  panel.append(head, body);
+  panel.append(grab, head, body);
   const open = on => {
     panel.hidden = scrim.hidden = !on;
     btn.setAttribute("aria-expanded", String(on));

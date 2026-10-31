@@ -113,6 +113,48 @@ $$;
 revoke all on function public.push_plan(jsonb, bigint) from public, anon;
 grant execute on function public.push_plan(jsonb, bigint) to authenticated;
 
+-- Other things a reader keeps, one row each by key: "marks", the markings they made themselves
+-- ([{id, n: name, s: symbol, c: color, st: style}, ...]). Added November 2026; safe to run again.
+create table if not exists public.prefs (
+  user_id    uuid   not null default auth.uid() references auth.users (id) on delete cascade,
+  key        text   not null check (key ~ '^[a-z][a-z0-9_]{0,31}$'),
+  value      jsonb  check (value is null or pg_column_size(value) <= 32000),
+  updated_at bigint not null,                        -- when the device made the change
+  synced_at  timestamptz not null default clock_timestamp(),
+  primary key (user_id, key)
+);
+alter table public.prefs enable row level security;
+drop policy if exists "Read own prefs" on public.prefs;
+drop policy if exists "Add own prefs" on public.prefs;
+drop policy if exists "Change own prefs" on public.prefs;
+create policy "Read own prefs" on public.prefs
+  for select to authenticated using ((select auth.uid()) = user_id);
+create policy "Add own prefs" on public.prefs
+  for insert to authenticated with check ((select auth.uid()) = user_id);
+create policy "Change own prefs" on public.prefs
+  for update to authenticated using ((select auth.uid()) = user_id) with check ((select auth.uid()) = user_id);
+revoke all on public.prefs from anon;
+
+-- Store one of a device's keys if it is newer than the account's. Returns whether it was stored.
+create or replace function public.push_pref(key text, value jsonb, updated_at bigint)
+returns boolean
+language sql
+security invoker
+set search_path = ''
+as $$
+  with written as (
+    insert into public.prefs as p (user_id, key, value, updated_at, synced_at)
+    values ((select auth.uid()), push_pref.key, push_pref.value, push_pref.updated_at, clock_timestamp())
+    on conflict (user_id, key) do update
+      set value = excluded.value, updated_at = excluded.updated_at, synced_at = clock_timestamp()
+      where p.updated_at < excluded.updated_at
+    returning 1
+  )
+  select exists (select 1 from written);
+$$;
+revoke all on function public.push_pref(text, jsonb, bigint) from public, anon;
+grant execute on function public.push_pref(text, jsonb, bigint) to authenticated;
+
 -- Delete the signed-in person's account, and with it all their highlights, notes and plan.
 create or replace function public.delete_account()
 returns void

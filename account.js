@@ -89,6 +89,7 @@
     for (const [id, a] of Object.entries(R.annotations.all())) state.dirty[id] = a.t || Date.now();
     state.planDirty = !!R.plan.get().plan;
     state.planSeen = false;
+    state.prefsSeen = {}; state.prefsDirty = {};
     save();
     render();
     sync();
@@ -146,6 +147,7 @@
         await pull();
         await push();
         await syncPlan();
+        await syncPrefs();
         state.last = Date.now(); save();
         status = "ok"; problem = "";
       } catch (e) {
@@ -215,7 +217,41 @@
     state.planSeen = true;
     save();
   }
+  // Other things kept by key (reader.prefs: your markings): the newer wins, and the first time a
+  // device meets the account's, the two are joined.
+  async function syncPrefs() {
+    const P = R.prefs;
+    if (!P) return;
+    state.prefsDirty = state.prefsDirty || {};
+    state.prefsSeen = state.prefsSeen || {};
+    const rows = await call("/rest/v1/prefs?select=key,value,updated_at");
+    for (const key of P.keys) {
+      const theirs = (rows || []).find(r => r.key === key), mine = P.get(key);
+      if (theirs && theirs.updated_at > mine.t) {
+        if (!state.prefsSeen[key] && mine.t && theirs.value) {
+          P.apply(key, P.merge(key, mine.v, theirs.value), Date.now());
+          state.prefsDirty[key] = true;
+        } else { P.apply(key, theirs.value, theirs.updated_at); delete state.prefsDirty[key]; }
+      } else if (theirs && theirs.updated_at === mine.t) delete state.prefsDirty[key];
+      else if (!theirs && mine.t) state.prefsDirty[key] = true;
+      if (state.prefsDirty[key]) {
+        const sent = P.get(key);
+        await call("/rest/v1/rpc/push_pref", { method: "POST", body: { key, value: sent.v, updated_at: sent.t } });
+        if (P.get(key).t === sent.t) delete state.prefsDirty[key];
+      }
+      state.prefsSeen[key] = true;
+    }
+    save();
+  }
   let soon = 0;
+  if (R.prefs) R.prefs.onChange = key => {
+    if (!state.session) return;
+    state.prefsDirty = state.prefsDirty || {};
+    state.prefsDirty[key] = true;
+    save();
+    clearTimeout(soon);
+    soon = setTimeout(sync, 2000);
+  };
   R.plan.onChange = () => {
     if (!state.session) return;
     state.planDirty = true;
@@ -267,7 +303,7 @@
   const statusText = () => status === "syncing" ? "Syncing…" : status === "offline" ? "Offline: changes will sync when you're back online"
     : status === "error" ? "Couldn't sync just now. It will try again." : state.last ? `Synced ${ago(state.last)}` : "Not synced yet";
   let step = { email: "", sent: false, busy: false, confirmDelete: false };
-  const privacy = () => el("p", { class: "hint" }, "Your account holds your email address, your highlights and notes, and your reading plan, nothing else. ",
+  const privacy = () => el("p", { class: "hint" }, "Your account holds your email address, your highlights, notes and markings, and your reading plan, nothing else. ",
     el("a", { href: "privacy.html", text: "Privacy" }));
   function render() {
     $("open-account").hidden = false;
