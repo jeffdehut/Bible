@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
 <meta charset="utf-8">
-<script src="i18n.js?v=29"></script>
+<script src="i18n.js?v=30"></script>
 <script src="ui.js?v=3"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
 <title>BibleData.org</title>
@@ -241,6 +241,8 @@ body.panel-open .auto { display: none; }
 .auto-speed { font: 600 12px/1 var(--sans); color: var(--muted); min-width: 52px; text-align: center; }
 .auto:not(.on) .auto-btn, .auto:not(.on) .auto-speed { display: none; }
 .lang-note { margin: 6px 0 0; font: 400 13px/1.4 var(--sans); color: var(--muted); }
+.ver-notice { margin: 14px 0 0; font: 400 12px/1.45 var(--sans); color: var(--faint); }
+.ver-notice a { color: var(--muted); font-weight: 600; }
 .plan-bar { display: flex; align-items: center; gap: 10px; flex-wrap: wrap; background: var(--gold-soft); border-radius: 12px; padding: 10px 12px; margin: 0 0 18px; font: 500 14px/1.35 var(--sans); }
 .plan-bar b { display: block; font-weight: 600; }
 .plan-bar .btn { margin-left: auto; }
@@ -585,6 +587,12 @@ textarea { min-height: 88px; resize: vertical; }
 .pk-filtering ~ .pk-index { display: none; }
 .group-label { margin: 16px 0 0; }
 /* Giving: a button for each way, with the handle beneath its name. */
+.welcome-list { margin: 10px 0; padding-left: 20px; }
+.welcome-list li { margin: 6px 0; }
+.welcome-actions { display: flex; flex-wrap: wrap; gap: 8px; margin: 16px 0 4px; }
+.welcome-actions .btn { flex: 1 1 auto; justify-content: center; border: 1px solid var(--line); border-radius: 999px; }
+.welcome-actions .btn.solid { border-color: transparent; }
+.welcome-actions .btn[hidden] { display: none; }
 .give { display: grid; grid-template-columns: repeat(auto-fit, minmax(180px, 1fr)); gap: 8px; margin: 10px 0 0; }
 .give-btn { display: flex; align-items: center; gap: 12px; min-height: 56px; padding: 10px 14px; border: 1px solid var(--line); border-radius: 14px; background: var(--surface); color: var(--ink); text-decoration: none; transition: border-color 0.15s, transform 0.15s; }
 .give-btn[hidden] { display: none; }
@@ -1164,6 +1172,25 @@ if (/(^#|&)(access_token|error)=/.test(location.hash)) {
   <p class="hint">These are the voices built into this device and browser, so they differ from one device to another and need no download. The most natural are marked. On some phones the voice pauses when the screen locks; the reader keeps the screen awake while it reads.</p>
 </section>
 
+<section class="ui-sheet sheet dialog" id="welcome" hidden aria-labelledby="welcome-title">
+  <div class="grab"></div>
+  <div class="sheet-head"><h2 id="welcome-title">Welcome to BibleData.org</h2></div>
+  <div class="prose">
+    <p>One place for Bible translations and Bible data that are open and free of commercial restrictions, made easy to explore and understand through maps, timelines, family trees and connections.</p>
+    <ul class="welcome-list">
+      <li><b>Read</b> a new open translation, or other free versions, with the original words beneath.</li>
+      <li><b>See</b> it visually: Explore, in the menu.</li>
+      <li><b>Mark up</b> what you read: tap a verse or select words. Notes stay on this device.</li>
+    </ul>
+    <p class="hint">Our translation is a draft, made with the help of AI and being reviewed. Questions and ideas are welcome.</p>
+    <div class="welcome-actions">
+      <a class="btn" id="welcome-contact" href="mailto:info@bibledata.org"><svg class="icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="5" width="18" height="14" rx="2"/><path d="m3 7 9 6 9-6"/></svg>Contact</a>
+      <button class="btn" type="button" id="welcome-donate"><svg class="icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M20.8 4.6a5.5 5.5 0 0 0-7.8 0L12 5.7l-1-1.1a5.5 5.5 0 0 0-7.8 7.8l1 1.1L12 21l7.8-7.5 1-1.1a5.5 5.5 0 0 0 0-7.8z"/></svg>Donate</button>
+      <button class="btn solid" type="button" id="welcome-start">Start reading</button>
+    </div>
+  </div>
+</section>
+
 <section class="ui-sheet sheet dialog" id="project" hidden aria-labelledby="project-title">
   <div class="grab"></div>
   <div class="sheet-head"><h2 id="project-title">About this project</h2><button class="btn" type="button" data-close aria-label="Close"><svg class="icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M6 6l12 12M18 6 6 18"/></svg></button></div>
@@ -1183,6 +1210,7 @@ if (/(^#|&)(access_token|error)=/.test(location.hash)) {
       </div>
       <p class="hint">Gifts go to Jeff Dehut personally, to support the project; they are not tax-deductible.</p>
     </div>
+    <p class="hint"><a href="#" id="project-welcome">Show the welcome again</a></p>
   </div>
 </section>
 
@@ -1492,6 +1520,14 @@ function buildChapter(b, c, data) {
     if (row[3] && row[3].p) { sec.append(p); p = para(); }
   }
   if (p.childNodes.length) sec.append(p);
+  // What a version asks to be shown with its words (versions.py, NOTICES): its notice, its
+  // name linked to its own site.
+  const vv = chapter.ver && verOf(chapter.ver);
+  if (vv && vv.notice) {
+    const note = el("p", { class: "ver-notice", translate: "no" });
+    note.append(el("a", { href: vv.url, target: "_blank", rel: "noopener", text: vv.cite || vv.short }), " · ", vv.notice);
+    sec.append(note);
+  }
   const ctx = { b, c, data, chapter, letters, sec, ...neighbors(b, c) };
   ctxOf.set(sec, ctx);
   // Marks made on other wordings, and study markings in a version, once their word maps are in.
@@ -1553,7 +1589,7 @@ async function show(b, c, v, opts = {}) {
     if (v) { target.classList.add("flash"); setTimeout(() => target.classList.remove("flash"), 1700); }
   } else scrollTo({ top: 0, behavior: "instant" });
   if (view.kind === "bible") watchEnds();
-  if ((ctx.chapter.s || "draft") === "draft" && !store.get("seenDraft", false)) {
+  if ((ctx.chapter.s || "draft") === "draft" && !store.get("seenDraft", false) && store.get("welcomed", false)) {
     store.set("seenDraft", true);
     toast("This translation is a first draft. Tap the Draft label to learn more.", 5200);
   }
@@ -1902,7 +1938,7 @@ async function openVerse(span) {
   $("note").oninput = () => { setNote(id, span, $("note").value); };
   $("listen-verse").onclick = () => { closeVerse(); listen.start(span); };
   $("share-verse").onclick = () => window.Share?.verse({ ref: `${bookName} ${c}:${n}`, text: plainVerse(row[1]),
-    note: VER === "ours" ? "Open Plain English Translation · draft" : verOf(VER)?.name || VER, url: Share.here("index.html", refHash(b, c, n)).replace(/index\.html#/, "#") });
+    note: VER === "ours" ? "Open Plain English Translation · draft" : verOf(VER)?.share || verOf(VER)?.name || VER, url: Share.here("index.html", refHash(b, c, n)).replace(/index\.html#/, "#") });
   // Words.
   $("word").hidden = true;
   const inter = $("inter");
@@ -2052,7 +2088,7 @@ function saveAnnotation(id, a) {
 function plainVerse(text) { return (text || "").replace(/\[\^\w+\]/g, "").replace(/\*/g, ""); }
 function copyVerse(row) {
   const { b, c } = cur;
-  const s = `“${plainVerse(row[1])}” (${psName(b)} ${c}:${row[0]}, ${VER === "ours" ? "Open Plain English Translation, draft" : verOf(VER)?.short || VER})`;
+  const s = `“${plainVerse(row[1])}” (${psName(b)} ${c}:${row[0]}, ${VER === "ours" ? "Open Plain English Translation, draft" : verOf(VER)?.cite || verOf(VER)?.short || VER})`;
   const done = () => toast("Copied");
   if (navigator.clipboard) navigator.clipboard.writeText(s).then(done).catch(() => fallbackCopy(s, done));
   else fallbackCopy(s, done);
@@ -4277,7 +4313,7 @@ function copySelection() {
   if (!vs.length) return;
   const words = vs.map(([span, s, e]) => countedText(span).map(n => n.data).join("").slice(s, e).trim()).join(" ").replace(/\s+/g, " ");
   const first = vs[0][0].dataset.id, last = vs[vs.length - 1][0].dataset.id;
-  const ver = VER === "ours" ? "Open Plain English Translation, draft" : verOf(VER)?.short || VER;
+  const ver = VER === "ours" ? "Open Plain English Translation, draft" : verOf(VER)?.cite || verOf(VER)?.short || VER;
   const text = `“${words}” (${passageLabel(first, last)}, ${ver})`;
   clearSel();
   const done = () => toast("Copied");
@@ -4501,6 +4537,11 @@ $("open-menu").onclick = () => openSheet("menu");
 $("open-mine").onclick = () => { renderMine(); $("backup-box").hidden = true; openSheet("mine"); };
 $("open-about").onclick = () => openSheet("about");
 $("open-project").onclick = () => openSheet("project");
+const welcomed = () => store.set("welcomed", true);
+$("welcome-start").onclick = () => { welcomed(); closeSheets(); };
+$("welcome-contact").addEventListener("click", welcomed);
+$("welcome-donate").onclick = () => { welcomed(); openSheet("project"); setTimeout(() => $("support-wrap").scrollIntoView({ behavior: "smooth", block: "start" }), 60); };
+$("project-welcome").onclick = ev => { ev.preventDefault(); openSheet("welcome"); };
 // Feedback and support, from config.js.
 // config.js loads after this script, so read it once the page has loaded.
 addEventListener("DOMContentLoaded", () => {
@@ -4518,9 +4559,15 @@ addEventListener("DOMContentLoaded", () => {
   if (venmo) { $("give-venmo").href = `https://venmo.com/u/${encodeURIComponent(venmo)}`; $("give-venmo-tag").textContent = "@" + venmo; $("give-venmo").hidden = false; }
   if (cfg.support) { $("support-link").href = cfg.support; $("support-link").hidden = false; }
   $("support-wrap").hidden = !(cash || venmo || cfg.support);
+  // The welcome, on a first visit.
+  const giving = cash || venmo || cfg.support;
+  $("welcome-donate").hidden = !giving;
+  if (cfg.feedback) $("welcome-contact").href = `mailto:${cfg.feedback}?subject=${encodeURIComponent("BibleData.org")}`;
+  else $("welcome-contact").hidden = true;
+  if (!store.get("welcomed", false) && !/[?&]embed=1/.test(location.search)) setTimeout(() => { if ($("scrim").hidden) { openSheet("welcome"); store.set("welcomed", true); } }, 400);
 });
 $("home").onclick = ev => { ev.preventDefault(); openPicker(); };
-$("scrim").onclick = closeSheets;
+$("scrim").onclick = () => { if (!$("welcome").hidden) store.set("welcomed", true); closeSheets(); };
 $("verse-scrim").onclick = closeVerse;
 for (const b of document.querySelectorAll("[data-close]")) if (!b.closest("#viewer")) b.onclick = () => { if (b.closest("#verse")) closeVerse(); else closeSheets(); };
 document.addEventListener("keydown", ev => {
@@ -4594,7 +4641,7 @@ Promise.all([getJSON("books.json"), Promise.all(ourLangs.map(k => getJSON(`i18n/
   addEventListener("hashchange", route);
   route();
 }).catch(() => { $("loading").textContent = "The Bible couldn't be loaded. Check your connection and reload the page."; });
-if ("serviceWorker" in navigator && /^https?:$/.test(location.protocol) && !embedded) navigator.serviceWorker.register("sw.js?v=70").catch(() => {});
+if ("serviceWorker" in navigator && /^https?:$/.test(location.protocol) && !embedded) navigator.serviceWorker.register("sw.js?v=71").catch(() => {});
 
 /* ---------- For account.js: highlights and notes, and two of the reader's tools ---------- */
 var reader = {

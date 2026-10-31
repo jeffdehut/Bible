@@ -29,7 +29,21 @@
   "short": "LSV",
   "name": "Literal Standard Version",
   "license": "Literal Standard Version, © 2020 Covenant Press. Licensed CC BY-SA 4.0 (creativecommons.org/licenses/by-sa/4.0).",
-  "url": "https://www.lsvbible.com"
+  "url": "https://www.lsvbible.com",
+  "notice": "Literal Standard Version, © 2020 Covenant Press. Licensed CC BY-SA 4.0.",
+  "cite": "LSV",
+  "share": "Literal Standard Version (CC BY-SA 4.0)"
+ },
+ {
+  "id": "net",
+  "lang": "en",
+  "short": "NET",
+  "name": "NET Bible®",
+  "license": "Scripture quoted by permission. Quotations designated (NET) are from the NET Bible® copyright ©1996, 2019 by Biblical Studies Press, L.L.C. https://netbible.com All rights reserved.",
+  "url": "https://netbible.org",
+  "notice": "Scripture quoted by permission. Quotations designated (NET) are from the NET Bible® copyright ©1996, 2019 by Biblical Studies Press, L.L.C. All rights reserved.",
+  "cite": "NET",
+  "share": "NET Bible® · netbible.com"
  },
  {
   "id": "cuv",
@@ -45,6 +59,9 @@
   "short": "當代譯本",
   "name": "當代譯本（開放資源版）",
   "license": "聖經當代譯本（開放資源版），© 1979, 2005, 2007, 2012, 2023 Biblica, Inc. 按照 CC BY-SA 4.0 授權使用（creativecommons.org/licenses/by-sa/4.0）。",
-  "url": "https://ebible.org/cmncbt/"
+  "url": "https://ebible.org/cmncbt/",
+  "notice": "聖經當代譯本（開放資源版）© Biblica, Inc. 按照 CC BY-SA 4.0 授權使用。",
+  "cite": "當代譯本",
+  "share": "當代譯本（CC BY-SA 4.0）"
  }
 ]
