@@ -634,6 +634,7 @@ I18N.add({
  "Mark these words": "標記這些字",
  "Mark, by early church tradition, drawing on Peter": "早期教會傳統認為是馬可，取材自彼得",
  "Marked as {name}": "已標記為「{name}」",
+ "Marking": "標記",
  "Marking removed": "已移除標記",
  "Married into the family": "嫁娶進入這家族",
  "Matches in each book": "各書卷的符合數目",
