@@ -424,6 +424,15 @@ Settled while drafting 2 Samuel:
 | מַלְאַךְ הָאֱלֹהִים (14:17, 20) | 神的使者 | Noted: 或譯「神的信差」. |
 | כִּכָּר | 他連得 | About 34 kg, noted (12:30). |
 | חֶסֶד (16:17, between friends) | 情義 | The glossary note on *chesed*. |
+| 19:1 (Union Version 18:33) | 我兒押沙龍啊！我兒，我兒押沙龍啊！ | Numbering noted at 18:32 and 19:1 (19:2–44 = 和合本 19:1–43). |
+| הַכּוּשִׁי (18:21–32) | 古實人 | Noted: 和合本 takes it as the name 古示. |
+| David's song (2 Samuel 22) | Poetry without quotation marks, one verse per line | 22:2 opens 他說：. Differences from Psalm 18 noted as 詩篇18篇3節（和合本作18篇2節）; Psalm 18 to follow this wording where the Hebrew is the same. |
+| סַלְעִי; מְצוּדָתִי; מִשְׂגַּבִּי; מָגִנִּי; קֶרֶן יִשְׁעִי (22:2–3) | 我的巖石；我的要塞；我的高臺；我的盾牌；我拯救的角 | צוּר stays 磐石. |
+| נְאֻם (23:1) | 宣告 | As Numbers 24; *ne'um* noted. David's last words (23:1–7) poetry. |
+| הַשְּׁלֹשָׁה; הַשְּׁלֹשִׁים (23:8–39) | 三個勇士；三十個勇士 | Ketiv/qere and *ha-shalishi* (軍官) noted. Names exactly as the Union Version; Chronicles differences noted. |
+| הָרָפָה (21:16–22) | 拉法的後代 | *ha-rapha* noted with 利乏音人; 和合本「偉人」. |
+| הוֹקִיעַ (21:6, 9, 13) | 處決 | Noted: uncertain (impale, hang, expose). |
+| הַמַּלְאָךְ (24:16–17) | 天使 | *mal'akh* noted; מַלְאַךְ יְהוָה stays 耶和華的使者. |
 
 ## Style
 
