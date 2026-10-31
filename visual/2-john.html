@@ -1,0 +1,398 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<script src="../i18n.js?v=14"></script>
+<script src="../ui.js?v=1"></script>
+<link rel="icon" href="../icons/icon.svg" type="image/svg+xml">
+<link rel="apple-touch-icon" href="../icons/icon-192.png">
+<meta name="theme-color" content="#fbfaf7" media="(prefers-color-scheme: light)">
+<meta name="theme-color" content="#0d111b" media="(prefers-color-scheme: dark)">
+<script>try { const t = (JSON.parse(localStorage.getItem("pe.settings")) || {}).theme; if (t === "light" || t === "dark") document.documentElement.setAttribute("data-theme", t); } catch (e) { /* storage unavailable */ }</script>
+</head>
+<body>
+<title>Visual Bible · Plain English Bible</title>
+<meta name="claude:viewport-fit-sides" content="cover">
+<meta name="description" content="A letter of the Bible seen whole, from its own words: the words it uses most, verse by verse, the patterns of its sentences, who it speaks of and to, and the letters beside it.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Frank+Ruhl+Libre:wght@300..700&family=Libre+Franklin:wght@400;500;600;700&display=swap">
+<style>
+/* A letter seen whole, from its own words (scripts/visual.py). Every mark is a count of the
+   letter's own Greek words, and tapping it shows the verse. */
+:root {
+  --bg: #fbfaf7; --surface: #ffffff; --raised: #ffffff; --ink: #161b26; --muted: #5b6475; --faint: #8d95a4; --line: #e4e2db;
+  --lapis: #2646a1; --lapis-soft: #e7ecf8; --gold: #8a640b;
+  --read: "Frank Ruhl Libre", "Noto Serif", Georgia, serif;
+  --sans: "Libre Franklin", system-ui, -apple-system, "Segoe UI", sans-serif;
+}
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) { --bg: #0d111b; --surface: #131a28; --raised: #172033; --ink: #e9ecf3; --muted: #a3acbd; --faint: #6f7a90; --line: #263047; --lapis: #9db3ff; --lapis-soft: #1c2650; --gold: #e2bd5c; color-scheme: dark; }
+}
+:root[data-theme="dark"] { --bg: #0d111b; --surface: #131a28; --raised: #172033; --ink: #e9ecf3; --muted: #a3acbd; --faint: #6f7a90; --line: #263047; --lapis: #9db3ff; --lapis-soft: #1c2650; --gold: #e2bd5c; color-scheme: dark; }
+* { box-sizing: border-box; }
+html { -webkit-text-size-adjust: 100%; }
+body { margin: 0; background: var(--bg); color: var(--ink); font: 400 16px/1.5 var(--sans);
+  padding-left: max(16px, env(safe-area-inset-left, 0px)); padding-right: max(16px, env(safe-area-inset-right, 0px)); }
+a { color: var(--lapis); }
+main { max-width: 980px; margin-inline: auto; padding-block: clamp(20px, 5vw, 40px) 90px; }
+.kicker { font: 600 12px/1.3 var(--sans); letter-spacing: 0.1em; text-transform: uppercase; color: var(--muted); }
+.kicker a { color: inherit; text-decoration: none; }
+.kicker a:hover { color: var(--lapis); }
+h1 { margin: 4px 0 6px; font: 300 clamp(38px, 8vw, 60px)/1.02 var(--read); letter-spacing: -0.02em; }
+.lede { margin: 0 0 14px; max-width: 66ch; color: var(--muted); }
+h2 { margin: 34px 0 4px; font: 500 22px/1.2 var(--read); }
+.sub { margin: 0 0 12px; color: var(--muted); font-size: 14px; max-width: 70ch; }
+.family { display: flex; flex-wrap: wrap; gap: 6px; margin: 0 0 6px; }
+.family a { display: inline-flex; align-items: center; min-height: 34px; padding: 0 14px; border-radius: 99px; border: 1px solid var(--line); background: var(--surface); color: var(--ink); text-decoration: none; font: 600 14px/1 var(--sans); }
+.family a[aria-current="page"] { background: var(--lapis); border-color: var(--lapis); color: #fff; }
+.chips { display: flex; flex-wrap: wrap; gap: 6px; }
+.chip { display: inline-flex; align-items: center; gap: 6px; min-height: 32px; padding: 4px 11px; border: 1px solid var(--line); border-radius: 99px; background: var(--surface); color: var(--ink); font: 500 13px/1.2 var(--sans); cursor: pointer; }
+.chip i { width: 10px; height: 10px; border-radius: 3px; background: var(--c); flex: none; }
+.chip[aria-pressed="true"] { border-color: var(--c, var(--lapis)); box-shadow: inset 0 0 0 1px var(--c, var(--lapis)); }
+.panel { background: var(--surface); border: 1px solid var(--line); border-radius: 16px; padding: 14px; }
+/* Its words: a bar for each, with ticks for the Gospel of John and the rest of the New Testament. */
+.bars { display: grid; gap: 8px; }
+.bar { display: grid; grid-template-columns: minmax(96px, 150px) 1fr auto; align-items: center; gap: 10px; border: 0; background: none; padding: 2px 0; color: var(--ink); text-align: left; cursor: pointer; font: 500 14px/1.2 var(--sans); }
+.bar .track { position: relative; height: 16px; border-radius: 4px; background: color-mix(in srgb, var(--line) 55%, transparent); }
+.bar .fill { position: absolute; inset: 0 auto 0 0; border-radius: 4px; background: var(--c); }
+.bar .tick { position: absolute; top: -3px; bottom: -3px; width: 2px; background: var(--ink); opacity: .55; }
+.bar .tick.nt { background: var(--muted); opacity: .9; height: 22px; width: 2px; top: -3px; border-radius: 1px; }
+.bar .tick.john { background: var(--ink); }
+.bar .n { font: 600 12.5px/1 var(--sans); color: var(--muted); min-width: 34px; text-align: right; }
+.bar[aria-pressed="true"] .lab { color: var(--c); font-weight: 700; }
+.key { display: flex; flex-wrap: wrap; gap: 6px 16px; margin: 10px 0 0; font: 500 12.5px/1.3 var(--sans); color: var(--muted); }
+.key span { display: inline-flex; align-items: center; gap: 6px; }
+.key i { display: inline-block; width: 2px; height: 14px; background: var(--ink); opacity: .55; }
+.key i.nt { background: var(--muted); opacity: .9; }
+/* Verse by verse: a column for each verse, a row for each word. */
+.grid-wrap { display: grid; gap: 14px; }
+.chap h3 { margin: 0 0 4px; font: 600 12px/1 var(--sans); letter-spacing: 0.08em; text-transform: uppercase; color: var(--muted); }
+svg.vis { display: block; width: 100%; max-width: 100%; height: auto; overflow: visible; }
+svg.vis text { font: 500 10px var(--sans); fill: var(--muted); }
+svg.vis .col { cursor: pointer; }
+svg.vis .col:hover rect.hit, svg.vis .col:focus rect.hit { fill: var(--lapis-soft); }
+svg.vis rect.hit { fill: transparent; }
+svg.vis .dim { opacity: .14; }
+.lanes { display: grid; gap: 10px; }
+.lane { display: grid; grid-template-columns: minmax(92px, 32%) 1fr; gap: 10px; align-items: center; }
+.lane .lab { font: 600 13px/1.25 var(--sans); }
+.lane .lab small { display: block; color: var(--muted); font-weight: 500; }
+.lane svg { height: 26px; }
+.list { margin: 8px 0 0; padding: 0; list-style: none; display: grid; gap: 6px; }
+.list li button { display: block; width: 100%; text-align: left; border: 1px solid var(--line); border-radius: 12px; background: var(--surface); color: var(--ink); padding: 10px 12px; cursor: pointer; font: 400 15px/1.45 var(--read); }
+.list li b { font: 700 12px/1 var(--sans); color: var(--lapis); margin-inline-end: 6px; }
+details.more summary { cursor: pointer; font: 600 13px/1.3 var(--sans); color: var(--lapis); margin: 8px 0 0; }
+.voices-key { display: flex; flex-wrap: wrap; gap: 10px 16px; margin: 4px 0 10px; font: 500 13px/1 var(--sans); color: var(--muted); }
+.voices-key span { display: inline-flex; align-items: center; gap: 6px; }
+.voices-key i { width: 12px; height: 12px; border-radius: 3px; }
+.sisters { display: grid; grid-template-columns: 1fr; gap: 18px; }
+.note { font: 500 13px/1.45 var(--sans); color: var(--muted); margin: 10px 0 0; }
+/* The verse card: the site's panel (ui.js). */
+#card .ui-head { display: flex; align-items: center; gap: 8px; padding: 4px 0 6px; }
+#card h3 { flex: 1; margin: 0; font: 600 19px/1.2 var(--read); }
+#card .close { width: 36px; height: 36px; border: 0; border-radius: 10px; background: transparent; color: var(--muted); cursor: pointer; font-size: 18px; }
+#card .close:hover { background: var(--lapis-soft); }
+#card .txt { margin: 4px 0 12px; font: 400 19px/1.55 var(--read); }
+#card .also { font: 500 13.5px/1.4 var(--sans); color: var(--muted); margin: 0 0 12px; }
+#card .tags { display: flex; flex-wrap: wrap; gap: 6px; margin: 0 0 14px; }
+#card .tags span { display: inline-flex; align-items: center; gap: 6px; padding: 4px 10px; border-radius: 99px; background: color-mix(in srgb, var(--c) 14%, transparent); color: var(--ink); font: 600 12.5px/1.2 var(--sans); }
+#card .tags i { width: 8px; height: 8px; border-radius: 2px; background: var(--c); }
+#card .go { display: inline-flex; align-items: center; min-height: 40px; padding: 0 16px; border-radius: 10px; background: var(--lapis); color: #fff; text-decoration: none; font: 600 14px/1 var(--sans); }
+@media (min-width: 760px) { .sisters { grid-template-columns: 1fr 1fr; } .lane { grid-template-columns: minmax(110px, 190px) 1fr; } }
+@media print { .appbar, #card { display: none; } }
+</style>
+<style>
+:root { --bar: 56px; }
+body::before { content: ""; position: fixed; inset: 0 0 auto; height: env(safe-area-inset-top, 0px); z-index: 11; background: var(--bg); }
+.appbar {
+  position: sticky; top: env(safe-area-inset-top, 0px); z-index: 10; height: var(--bar);
+  margin-inline: calc(-1 * max(16px, env(safe-area-inset-left, 0px))) calc(-1 * max(16px, env(safe-area-inset-right, 0px)));
+  padding-inline: max(8px, env(safe-area-inset-left, 0px)) max(8px, env(safe-area-inset-right, 0px));
+  display: flex; align-items: center; gap: 4px; background: color-mix(in srgb, var(--bg) 92%, transparent);
+  backdrop-filter: blur(10px); -webkit-backdrop-filter: blur(10px); border-bottom: 1px solid var(--line);
+}
+.appbar .brand {
+  display: inline-flex; align-items: center; gap: 10px; min-height: 40px; padding: 0 8px; border-radius: 10px;
+  color: var(--ink); text-decoration: none; white-space: nowrap; font: 500 17px/1 "Frank Ruhl Libre", "Noto Serif", Georgia, serif; letter-spacing: 0.01em;
+}
+.appbar .brand img { width: 26px; height: 26px; border-radius: 7px; flex: none; }
+.appbar .sitenav-btn { margin-inline-start: auto; }
+.appbar a:focus-visible { outline: 2px solid var(--lapis); outline-offset: 0; }
+@media print { .appbar { display: none; } }
+</style>
+<header class="appbar">
+  <a class="brand" href="../index.html"><img src="../icons/icon.svg" alt="Plain English Bible"><span aria-hidden="true">Plain English Bible</span></a>
+</header>
+<script src="../nav.js?v=34"></script>
+<main>
+  <div class="kicker"><a href="index.html">Visual Bible</a></div>
+  <h1 id="title"></h1>
+  <p class="lede" id="lede"></p>
+  <nav class="family" id="family" aria-label="The letters of John"></nav>
+
+  <section id="s-words">
+    <h2>The words it uses most</h2>
+    <p class="sub">How often each word comes, for every 1,000 words of the letter in Greek, beside the Gospel of John and the rest of the New Testament. Tap a word to follow it through the letter below.</p>
+    <div class="panel"><div class="bars" id="bars"></div>
+      <div class="key"><span><i class="john"></i>Gospel of John</span><span><i class="nt"></i>Rest of the New Testament</span></div></div>
+  </section>
+
+  <section id="s-grid">
+    <h2>Verse by verse</h2>
+    <p class="sub">Each column is a verse, each row a word; a dot is the word in that verse, larger where it comes more than once. Tap a column to read the verse.</p>
+    <div class="grid-wrap" id="grid"></div>
+  </section>
+
+  <section id="s-pairs" hidden>
+    <h2>Side by side</h2>
+    <p class="sub">Words the letter sets against each other, verse by verse. A ring marks a verse where both stand together.</p>
+    <div class="panel lanes" id="pairs"></div>
+  </section>
+
+  <section id="s-patterns" hidden>
+    <h2>The shape of its sentences</h2>
+    <p class="sub">Ways of speaking the letter comes back to, found by their words in the Greek. Tap one to read them together.</p>
+    <div class="panel lanes" id="patterns"></div>
+    <ul class="list" id="pattern-list" hidden></ul>
+  </section>
+
+  <section id="s-voices">
+    <h2>Who it speaks of, and to</h2>
+    <p class="sub">The person of every verb and pronoun, verse by verse: “I”, “we”, “you”, and “he”, “she”, “they”. Above, the names the writer calls his readers.</p>
+    <div class="voices-key" id="voices-key"></div>
+    <div class="grid-wrap" id="voices"></div>
+  </section>
+
+  <section id="s-people" hidden>
+    <h2>The people in it</h2>
+    <p class="sub">Everyone the letter names or speaks of, and the verses where they are.</p>
+    <div class="panel lanes" id="people"></div>
+  </section>
+
+  <section id="s-sisters">
+    <h2>Beside the other letters of John</h2>
+    <p class="sub">Verses that share at least two words of substance with a verse of the other letters (the small words, such as “and” and “the”, aside). Tap a line to see the words and both verses.</p>
+    <div class="sisters" id="sisters"></div>
+  </section>
+  <p class="note">Counted from the SBL Greek New Testament with the Strong's numbers of STEPBible's tagged text (CC BY 4.0); the verses are the Open Plain English Translation, a draft. The words chosen for the charts are lists of Greek words, not interpretations: “love” counts agapē and agapaō, “know” ginōskō and oida, “truth” alētheia and its adjectives.</p>
+</main>
+<section class="ui-sheet" id="card" hidden aria-labelledby="card-title">
+  <div class="ui-grab"></div>
+  <div class="ui-head"><h3 id="card-title"></h3><button class="close" type="button" data-close aria-label="Close">✕</button></div>
+  <div id="card-body"></div>
+</section>
+<script type="application/json" id="data">{"book":"2 John","slug":"63-2-john","osis":"2John","words":245,"verses":[{"c":1,"v":1,"t":"The elder, to the chosen lady and her children, whom I love in truth, and not only I, but also all who have come to know the truth,","th":{"children":1,"love":1,"truth":2,"know":1},"vo":{"I":3}},{"c":1,"v":2,"t":"because of the truth that remains in us and will be with us forever:","th":{"truth":1,"abide":1},"vo":{"we":2,"they":1}},{"c":1,"v":3,"t":"Grace, mercy and peace will be with us from God the Father and from Jesus Christ, the Father's Son, in truth and love.","th":{"truth":1,"love":1},"vo":{"they":1,"we":1}},{"c":1,"v":4,"t":"I was very glad to find some of your children walking in the truth, just as we were commanded by the Father.","th":{"children":1,"walk":1,"truth":1,"command":1},"vo":{"I":2,"you":1,"we":1}},{"c":1,"v":5,"t":"And now I ask you, lady, not as though I were writing you a new command, but the one we have had from the beginning: let us love one another.","th":{"command":1,"love":1},"vo":{"I":1,"you":2,"we":2}},{"c":1,"v":6,"t":"And this is love: that we walk according to his commands. This is the command, just as you heard from the beginning: that you walk in it.","th":{"love":1,"walk":2,"command":2},"vo":{"they":2,"we":1,"you":2}},{"c":1,"v":7,"t":"For many deceivers have gone out into the world, people who do not acknowledge Jesus Christ as coming in the flesh. Such a person is the deceiver and the antichrist.","th":{"antichrist":3,"world":1,"confess":1},"vo":{"they":2}},{"c":1,"v":8,"t":"Watch yourselves, so that you do not lose what we have worked for, but receive a full reward.","th":{},"vo":{"you":3,"we":1}},{"c":1,"v":9,"t":"Everyone who goes too far and does not remain in the teaching of Christ does not have God. Whoever remains in the teaching has both the Father and the Son.","th":{"abide":2},"vo":{"they":2}},{"c":1,"v":10,"t":"If anyone comes to you and does not bring this teaching, do not receive them into your house, and do not greet them.","th":{},"vo":{"they":2,"you":3}},{"c":1,"v":11,"t":"For whoever greets them shares in their evil works.","th":{},"vo":{"they":1}},{"c":1,"v":12,"t":"I have much to write to you, but I would rather not do it with paper and ink. Instead I hope to be with you and talk face to face, so that your joy may be complete.","th":{},"vo":{"you":3,"I":2,"they":1}},{"c":1,"v":13,"t":"The children of your chosen sister greet you.","th":{"children":1},"vo":{"they":1,"you":2}}],"themes":[{"id":"truth","n":"Truth, true","c":"#7d3c98","k":5,"r":20.41,"john":3.08,"nt":0.74},{"id":"love","n":"Love","c":"#d4495a","k":4,"r":16.33,"john":2.82,"nt":1.35},{"id":"command","n":"Command","c":"#b9770e","k":4,"r":16.33,"john":0.9,"nt":0.41},{"id":"abide","n":"Abide, remain","c":"#16a085","k":3,"r":12.24,"john":2.56,"nt":0.43},{"id":"children","n":"Children","c":"#e67e22","k":3,"r":12.24,"john":0.45,"nt":1.12},{"id":"walk","n":"Walk","c":"#117a65","k":3,"r":12.24,"john":1.09,"nt":0.57},{"id":"antichrist","n":"Antichrist, deceiver","c":"#7b241c","k":3,"r":12.24,"john":0.0,"nt":0.03},{"id":"know","n":"Know","c":"#2e86c1","k":1,"r":4.08,"john":11.41,"nt":5.5},{"id":"world","n":"World","c":"#5d6d7e","k":1,"r":4.08,"john":5.0,"nt":0.7},{"id":"confess","n":"Confess","c":"#2874a6","k":1,"r":4.08,"john":0.26,"nt":0.13}],"patterns":[{"id":"whosays","n":"“Whoever says …”","h":[[1,11]]},{"id":"everyone","n":"“Everyone who …”","h":[[1,9]]}],"address":[],"people":[{"id":"elder","n":"The elder","h":[[1,1]]},{"id":"lady","n":"The chosen lady","h":[[1,1],[1,5]]},{"id":"children","n":"Children","h":[[1,1],[1,4],[1,13]]},{"id":"deceivers","n":"Deceivers","h":[[1,7]]}],"pairs":[["light","dark"],["truth","lie"],["love","hate"],["life","world"]],"links":[{"book":"1 John","slug":"62-1-john","verses":[{"c":1,"v":1,"t":"What was from the beginning, what we have heard, what we have seen with our eyes, what we have looked at and our hands have touched, concerning the word of life"},{"c":1,"v":2,"t":"(and the life was revealed, and we have seen it, and we testify to it and announce to you the eternal life that was with the Father and was revealed to us),"},{"c":1,"v":3,"t":"what we have seen and heard we announce to you too, so that you also may have fellowship with us. And our fellowship is with the Father and with his Son Jesus Christ."},{"c":1,"v":4,"t":"We are writing these things so that our joy may be complete."},{"c":1,"v":5,"t":"This is the message that we have heard from him and announce to you: God is light, and in him there is no darkness at all."},{"c":1,"v":6,"t":"If we say that we have fellowship with him and yet walk in the darkness, we are lying and are not doing what is true."},{"c":1,"v":7,"t":"But if we walk in the light, as he himself is in the light, we have fellowship with one another, and the blood of Jesus his Son cleanses us from all sin."},{"c":1,"v":8,"t":"If we say that we have no sin, we are deceiving ourselves, and the truth is not in us."},{"c":1,"v":9,"t":"If we confess our sins, he is faithful and righteous, and will forgive us our sins and cleanse us from all wrongdoing."},{"c":1,"v":10,"t":"If we say that we have not sinned, we make him a liar, and his word is not in us."},{"c":2,"v":1,"t":"My little children, I am writing these things to you so that you will not sin. But if anyone does sin, we have an Advocate with the Father, Jesus Christ the Righteous One."},{"c":2,"v":2,"t":"He himself is the atoning sacrifice for our sins, and not only for ours but also for the whole world."},{"c":2,"v":3,"t":"This is how we know that we have come to know him: if we keep his commands."},{"c":2,"v":4,"t":"Whoever says, \"I have come to know him,\" but does not keep his commands is a liar, and the truth is not in that person."},{"c":2,"v":5,"t":"But whoever keeps his word, in that person the love of God has truly been made complete. This is how we know that we are in him:"},{"c":2,"v":6,"t":"whoever says that they remain in him ought to walk just as he walked."},{"c":2,"v":7,"t":"Dear friends, I am not writing a new command to you, but an old command that you have had from the beginning. The old command is the word that you have heard."},{"c":2,"v":8,"t":"Yet I am writing a new command to you, which is true in him and in you, because the darkness is passing away and the true light is already shining."},{"c":2,"v":9,"t":"Whoever says that they are in the light but hates their brother or sister is still in the darkness."},{"c":2,"v":10,"t":"Whoever loves their brother or sister remains in the light, and there is nothing in them to make them stumble."},{"c":2,"v":11,"t":"But whoever hates their brother or sister is in the darkness and walks in the darkness, and does not know where they are going, because the darkness has blinded their eyes."},{"c":2,"v":12,"t":"I am writing to you, little children, because your sins have been forgiven for the sake of his name."},{"c":2,"v":13,"t":"I am writing to you, fathers, because you have come to know the one who is from the beginning. I am writing to you, young men, because you have overcome the evil one."},{"c":2,"v":14,"t":"I have written to you, children, because you have come to know the Father. I have written to you, fathers, because you have come to know the one who is from the beginning. I have written to you, young men, because you are strong, and the word of God remains in you, and you have overcome the evil one."},{"c":2,"v":15,"t":"Do not love the world or the things in the world. If anyone loves the world, the love of the Father is not in them."},{"c":2,"v":16,"t":"For everything in the world, the desire of the flesh, the desire of the eyes and pride in one's possessions, does not come from the Father but from the world."},{"c":2,"v":17,"t":"And the world is passing away, and its desire with it, but whoever does the will of God remains forever."},{"c":2,"v":18,"t":"Children, it is the last hour. Just as you heard that antichrist is coming, so now many antichrists have come. This is how we know that it is the last hour."},{"c":2,"v":19,"t":"They went out from us, but they did not belong to us. For if they had belonged to us, they would have remained with us. But they went out so that it might be made plain that none of them belong to us."},{"c":2,"v":20,"t":"But you have an anointing from the Holy One, and you all know."},{"c":2,"v":21,"t":"I have not written to you because you do not know the truth, but because you do know it, and because no lie comes from the truth."},{"c":2,"v":22,"t":"Who is the liar but the one who denies that Jesus is the Messiah? This is the antichrist: the one who denies the Father and the Son."},{"c":2,"v":23,"t":"No one who denies the Son has the Father. Whoever acknowledges the Son has the Father too."},{"c":2,"v":24,"t":"As for you, let what you heard from the beginning remain in you. If what you heard from the beginning remains in you, you too will remain in the Son and in the Father."},{"c":2,"v":25,"t":"And this is the promise that he himself made to us: eternal life."},{"c":2,"v":26,"t":"I have written these things to you about those who are trying to lead you astray."},{"c":2,"v":27,"t":"As for you, the anointing that you received from him remains in you, and you have no need for anyone to teach you. But as his anointing teaches you about everything, and is true and is not a lie, then just as it has taught you, remain in him."},{"c":2,"v":28,"t":"And now, little children, remain in him, so that when he appears we may have confidence and not shrink back from him in shame at his coming."},{"c":2,"v":29,"t":"If you know that he is righteous, you know that everyone who does what is right has been born of him."},{"c":3,"v":1,"t":"See what great love the Father has given us, that we should be called children of God; and so we are! The reason the world does not know us is that it did not know him."},{"c":3,"v":2,"t":"Dear friends, we are God's children now, and what we will be has not yet been revealed. We know that when he appears, we will be like him, because we will see him as he is."},{"c":3,"v":3,"t":"And everyone who has this hope set on him purifies themselves, just as he is pure."},{"c":3,"v":4,"t":"Everyone who commits sin also commits lawlessness; sin is lawlessness."},{"c":3,"v":5,"t":"You know that he appeared in order to take away sins, and in him there is no sin."},{"c":3,"v":6,"t":"No one who remains in him sins. No one who sins has seen him or known him."},{"c":3,"v":7,"t":"Little children, let no one lead you astray. Whoever does what is right is righteous, just as he is righteous."},{"c":3,"v":8,"t":"Whoever commits sin is from the devil, because the devil has been sinning from the beginning. The Son of God appeared for this purpose: to destroy the works of the devil."},{"c":3,"v":9,"t":"No one who has been born of God commits sin, because God's seed remains in them; and they cannot sin, because they have been born of God."},{"c":3,"v":10,"t":"This is how the children of God and the children of the devil are made plain: anyone who does not do what is right is not from God, and neither is anyone who does not love their brother or sister."},{"c":3,"v":11,"t":"For this is the message that you heard from the beginning: that we should love one another."},{"c":3,"v":12,"t":"We must not be like Cain, who was from the evil one and murdered his brother. And why did he murder him? Because his own works were evil, and his brother's were righteous."},{"c":3,"v":13,"t":"Do not be surprised, brothers and sisters, if the world hates you."},{"c":3,"v":14,"t":"We know that we have passed out of death into life, because we love our brothers and sisters. Whoever does not love remains in death."},{"c":3,"v":15,"t":"Everyone who hates their brother or sister is a murderer, and you know that no murderer has eternal life remaining in them."},{"c":3,"v":16,"t":"This is how we have come to know love: he laid down his life for us. And we ought to lay down our lives for our brothers and sisters."},{"c":3,"v":17,"t":"But if anyone has the world's goods and sees their brother or sister in need, yet closes their heart against them, how does the love of God remain in them?"},{"c":3,"v":18,"t":"Little children, let us not love with words or with the tongue, but in action and in truth."},{"c":3,"v":19,"t":"This is how we will know that we are from the truth, and how we will reassure our hearts before him"},{"c":3,"v":20,"t":"whenever our hearts condemn us; for God is greater than our hearts, and he knows everything."},{"c":3,"v":21,"t":"Dear friends, if our hearts do not condemn us, we have confidence before God,"},{"c":3,"v":22,"t":"and we receive from him whatever we ask, because we keep his commands and do what pleases him."},{"c":3,"v":23,"t":"And this is his command: that we believe in the name of his Son Jesus Christ and love one another, just as he commanded us."},{"c":3,"v":24,"t":"Whoever keeps his commands remains in him, and he in them. And this is how we know that he remains in us: by the Spirit whom he has given us."},{"c":4,"v":1,"t":"Dear friends, do not believe every spirit, but test the spirits to see whether they are from God, because many false prophets have gone out into the world."},{"c":4,"v":2,"t":"This is how you know the Spirit of God: every spirit that acknowledges that Jesus Christ has come in the flesh is from God,"},{"c":4,"v":3,"t":"and every spirit that does not acknowledge Jesus is not from God. This is the spirit of the antichrist, which you have heard is coming, and now it is already in the world."},{"c":4,"v":4,"t":"You are from God, little children, and you have overcome them, because the one who is in you is greater than the one who is in the world."},{"c":4,"v":5,"t":"They are from the world. That is why they speak as the world speaks, and the world listens to them."},{"c":4,"v":6,"t":"We are from God. Whoever knows God listens to us; whoever is not from God does not listen to us. This is how we know the Spirit of truth and the spirit of error."},{"c":4,"v":7,"t":"Dear friends, let us love one another, because love comes from God, and everyone who loves has been born of God and knows God."},{"c":4,"v":8,"t":"Whoever does not love has not known God, because God is love."},{"c":4,"v":9,"t":"This is how God's love was revealed among us: God has sent his only Son into the world so that we might live through him."},{"c":4,"v":10,"t":"This is love: not that we have loved God, but that he loved us and sent his Son as the atoning sacrifice for our sins."},{"c":4,"v":11,"t":"Dear friends, if God loved us in this way, we also ought to love one another."},{"c":4,"v":12,"t":"No one has ever seen God. If we love one another, God remains in us, and his love is made complete in us."},{"c":4,"v":13,"t":"This is how we know that we remain in him and he in us: he has given us a share in his Spirit."},{"c":4,"v":14,"t":"And we have seen and we testify that the Father has sent the Son as the Savior of the world."},{"c":4,"v":15,"t":"Whoever acknowledges that Jesus is the Son of God, God remains in them, and they in God."},{"c":4,"v":16,"t":"And we have come to know and have believed the love that God has for us. God is love, and whoever remains in love remains in God, and God remains in them."},{"c":4,"v":17,"t":"This is how love has been made complete among us: we can have confidence on the day of judgment, because as he is, so are we in this world."},{"c":4,"v":18,"t":"There is no fear in love; perfect love drives out fear, because fear has to do with punishment. Whoever is afraid has not been made complete in love."},{"c":4,"v":19,"t":"We love because he first loved us."},{"c":4,"v":20,"t":"If anyone says, \"I love God,\" but hates their brother or sister, that person is a liar. For whoever does not love their brother or sister, whom they have seen, cannot love God, whom they have not seen."},{"c":4,"v":21,"t":"And this is the command that we have from him: whoever loves God must also love their brother or sister."},{"c":5,"v":1,"t":"Everyone who believes that Jesus is the Messiah has been born of God, and everyone who loves the parent also loves the one born of him."},{"c":5,"v":2,"t":"This is how we know that we love the children of God: when we love God and carry out his commands."},{"c":5,"v":3,"t":"For this is the love of God: that we keep his commands. And his commands are not burdensome,"},{"c":5,"v":4,"t":"because everything that has been born of God overcomes the world. And this is the victory that has overcome the world: our faith."},{"c":5,"v":5,"t":"Who is it that overcomes the world, if not the one who believes that Jesus is the Son of God?"},{"c":5,"v":6,"t":"This is the one who came by water and blood, Jesus Christ: not with the water only, but with the water and with the blood. And the Spirit is the one who testifies, because the Spirit is the truth."},{"c":5,"v":7,"t":"For there are three that testify:"},{"c":5,"v":8,"t":"the Spirit, the water and the blood, and the three agree."},{"c":5,"v":9,"t":"If we accept human testimony, the testimony of God is greater; for this is the testimony of God: that he has testified about his Son."},{"c":5,"v":10,"t":"Whoever believes in the Son of God has the testimony in themselves. Whoever does not believe God has made him a liar, because they have not believed the testimony that God has given about his Son."},{"c":5,"v":11,"t":"And this is the testimony: God has given us eternal life, and this life is in his Son."},{"c":5,"v":12,"t":"Whoever has the Son has life; whoever does not have the Son of God does not have life."},{"c":5,"v":13,"t":"I have written these things to you so that you may know that you have eternal life, you who believe in the name of the Son of God."},{"c":5,"v":14,"t":"And this is the confidence that we have before him: if we ask anything according to his will, he hears us."},{"c":5,"v":15,"t":"And if we know that he hears us in whatever we ask, we know that we have what we have asked of him."},{"c":5,"v":16,"t":"If anyone sees their brother or sister committing a sin that does not lead to death, they should ask, and God will give them life: that is, to those who commit sins that do not lead to death. There is sin that leads to death. I am not saying that they should make a request about that."},{"c":5,"v":17,"t":"All wrongdoing is sin, but there is sin that does not lead to death."},{"c":5,"v":18,"t":"We know that no one who has been born of God sins, but the one who was born of God keeps them safe, and the evil one does not touch them."},{"c":5,"v":19,"t":"We know that we are from God, and that the whole world lies in the power of the evil one."},{"c":5,"v":20,"t":"And we know that the Son of God has come and has given us understanding, so that we may know the one who is true. And we are in the one who is true, in his Son Jesus Christ. He is the true God and eternal life."},{"c":5,"v":21,"t":"Little children, keep yourselves from idols."}],"l":[[1,1,2,4,["already knowing","truth"]],[1,1,3,1,["already knowing","children"]],[1,1,3,10,["children","love"]],[1,1,3,18,["love","truth"]],[1,1,3,19,["already knowing","truth"]],[1,1,4,6,["already knowing","truth"]],[1,1,4,7,["already knowing","love"]],[1,1,4,8,["already knowing","love"]],[1,1,5,2,["already knowing","children","love"]],[1,1,5,6,["only","truth"]],[1,2,2,17,["age","is abiding"]],[1,3,1,3,["Christ","Father","Jesus","Son"]],[1,3,1,7,["Jesus","Son"]],[1,3,2,1,["Christ","Father","Jesus"]],[1,3,2,5,["God","love"]],[1,3,2,14,["Father","God"]],[1,3,2,15,["Father","love"]],[1,3,2,22,["Christ","Father","Jesus","Son"]],[1,3,2,23,["Father","Son"]],[1,3,2,24,["Father","Son"]],[1,3,3,1,["Father","God","love"]],[1,3,3,8,["God","Son"]],[1,3,3,17,["God","love"]],[1,3,3,23,["Christ","Jesus","Son"]],[1,3,4,2,["Christ","God","Jesus"]],[1,3,4,3,["God","Jesus"]],[1,3,4,6,["God","truth"]],[1,3,4,7,["God","love"]],[1,3,4,8,["God","love"]],[1,3,4,9,["God","Son","love"]],[1,3,4,10,["God","Son","love"]],[1,3,4,12,["God","love"]],[1,3,4,14,["Father","Son"]],[1,3,4,15,["God","Jesus","Son"]],[1,3,4,16,["God","love"]],[1,3,5,1,["Christ","God","Jesus"]],[1,3,5,3,["God","love"]],[1,3,5,5,["God","Jesus","Son"]],[1,3,5,6,["Christ","Jesus","truth"]],[1,3,5,9,["God","Son"]],[1,3,5,10,["God","Son"]],[1,3,5,12,["God","Son"]],[1,3,5,13,["God","Son"]],[1,3,5,20,["Christ","God","Jesus","Son"]],[1,4,1,6,["truth","walking"]],[1,4,2,4,["commandment","truth"]],[1,4,3,1,["Father","children"]],[1,4,3,22,["commandment","we received"]],[1,4,5,2,["children","commandment"]],[1,5,2,7,["I am writing","a commandment","new","the beginning"]],[1,5,2,8,["I am writing","a commandment","new"]],[1,5,2,13,["I am writing","the beginning"]],[1,5,2,14,["I am writing","the beginning"]],[1,5,3,11,["one another","the beginning","we may love"]],[1,5,3,23,["a commandment","one another","we may love"]],[1,5,4,7,["one another","we may love"]],[1,5,4,11,["one another","we may love"]],[1,5,4,12,["one another","we may love"]],[1,5,4,21,["a commandment","we may love"]],[1,5,5,2,["a commandment","we may love"]],[1,6,1,1,["the beginning","you have heard"]],[1,6,2,7,["commandment","the beginning","you have heard"]],[1,6,2,24,["the beginning","you have heard"]],[1,6,3,11,["the beginning","you have heard"]],[1,6,5,3,["commandment","love"]],[1,6,5,14,["according to","you have heard"]],[1,7,1,3,["Christ","Jesus"]],[1,7,2,1,["Christ","Jesus"]],[1,7,2,16,["flesh","world"]],[1,7,2,18,["antichrist","coming","many"]],[1,7,2,22,["Christ","Jesus","antichrist"]],[1,7,3,23,["Christ","Jesus"]],[1,7,4,1,["have gone out","many","world"]],[1,7,4,2,["Christ","Jesus","coming","confessing","flesh"]],[1,7,4,3,["Jesus","antichrist","coming","confessing","world"]],[1,7,4,15,["Jesus","confessing"]],[1,7,5,1,["Christ","Jesus"]],[1,7,5,5,["Jesus","world"]],[1,7,5,6,["Christ","Jesus","coming"]],[1,7,5,20,["Christ","Jesus"]],[1,9,1,3,["Father","Son","of Christ"]],[1,9,2,1,["Father","of Christ"]],[1,9,2,14,["Father","God","abiding"]],[1,9,2,17,["God","abiding"]],[1,9,2,22,["Father","Son","of Christ"]],[1,9,2,23,["Father","Son"]],[1,9,2,24,["Father","Son","abiding"]],[1,9,3,1,["Father","God"]],[1,9,3,8,["God","Son"]],[1,9,3,9,["God","abiding"]],[1,9,3,17,["God","abiding"]],[1,9,3,23,["Son","of Christ"]],[1,9,4,2,["God","of Christ"]],[1,9,4,9,["God","Son"]],[1,9,4,10,["God","Son"]],[1,9,4,12,["God","abiding"]],[1,9,4,14,["Father","Son"]],[1,9,4,15,["God","Son","abiding"]],[1,9,4,16,["God","abiding"]],[1,9,5,1,["God","of Christ"]],[1,9,5,5,["God","Son"]],[1,9,5,9,["God","Son"]],[1,9,5,10,["God","Son"]],[1,9,5,12,["God","Son"]],[1,9,5,13,["God","Son"]],[1,9,5,20,["God","Son","of Christ"]],[1,11,3,12,["evil","works"]],[1,12,1,4,["completed","joy","to write"]],[1,12,2,18,["Many things","to come"]]]},{"book":"3 John","slug":"64-3-john","verses":[{"c":1,"v":1,"t":"The elder, to my dear friend Gaius, whom I love in truth."},{"c":1,"v":2,"t":"Dear friend, I pray that all may go well with you and that you may be in good health, just as it goes well with your soul."},{"c":1,"v":3,"t":"For I was very glad when some brothers and sisters came and testified to your truth, how you walk in the truth."},{"c":1,"v":4,"t":"I have no greater joy than this, to hear that my children are walking in the truth."},{"c":1,"v":5,"t":"Dear friend, you are acting faithfully in whatever you do for the brothers and sisters, even though they are strangers to you."},{"c":1,"v":6,"t":"They have testified to your love before the church. You will do well to send them on their way in a manner worthy of God."},{"c":1,"v":7,"t":"For they went out for the sake of the Name, accepting nothing from the Gentiles."},{"c":1,"v":8,"t":"So we ought to support such people, so that we may be fellow workers for the truth."},{"c":1,"v":9,"t":"I wrote something to the church, but Diotrephes, who loves to be first among them, does not accept us."},{"c":1,"v":10,"t":"So if I come, I will call attention to what he is doing: talking nonsense against us with evil words. And not content with that, he himself refuses to welcome the brothers and sisters, and he stops those who want to welcome them and throws them out of the church."},{"c":1,"v":11,"t":"Dear friend, do not imitate what is evil but what is good. Whoever does good is from God; whoever does evil has not seen God."},{"c":1,"v":12,"t":"Demetrius has received a good testimony from everyone, and from the truth itself. We also testify for him, and you know that our testimony is true."},{"c":1,"v":13,"t":"I had much to write to you, but I do not want to write to you with pen and ink."},{"c":1,"v":14,"t":"Instead I hope to see you soon, and we will talk face to face."},{"c":1,"v":15,"t":"Peace to you. The friends greet you. Greet the friends by name."}],"l":[[1,1,1,1,["elder","love","truth"]],[1,1,1,4,["children","truth"]],[1,3,1,6,["God","love"]],[1,4,1,3,["I rejoiced","exceedingly","truth","walking"]],[1,4,1,4,["children","truth","walking"]],[1,6,1,4,["you have heard","you may walk"]],[1,10,1,3,["comes","to greet"]],[1,11,1,10,["evil","works"]],[1,12,1,13,["Many things","ink","to write"]],[1,12,1,14,["I hope","mouth","to speak"]]]}],"family":[{"n":"1 John","page":"1-john.html"},{"n":"2 John","page":"2-john.html"},{"n":"3 John","page":"3-john.html"}]}</script>
+<script>
+(() => {
+  const D = JSON.parse(document.getElementById("data").textContent);
+  const $ = id => document.getElementById(id);
+  const T = s => (window.I18N ? I18N.t(s) : s);
+  const NS = "http://www.w3.org/2000/svg";
+  const svg = (tag, attrs = {}, ...kids) => { const n = document.createElementNS(NS, tag); for (const k in attrs) n.setAttribute(k, attrs[k]); n.append(...kids); return n; };
+  const el = (tag, attrs = {}, ...kids) => { const n = document.createElement(tag); for (const k in attrs) { if (k === "text") n.textContent = attrs[k]; else if (k.startsWith("on")) n.addEventListener(k.slice(2), attrs[k]); else if (attrs[k] != null) n.setAttribute(k, attrs[k]); } n.append(...kids.filter(x => x != null)); return n; };
+  const V = D.verses, byRef = new Map(V.map(v => [v.c + ":" + v.v, v]));
+  const theme = new Map(D.themes.map(t => [t.id, t]));
+  const chapters = [...new Set(V.map(v => v.c))];
+  const multi = chapters.length > 1;
+  const ref = (c, v) => (multi ? `${T(D.book)} ${c}:${v}` : `${T(D.book)} ${v}`);
+  const readerHash = (c, v) => `../index.html#${D.book.toLowerCase().replace(/ /g, "-")}-${c}-${v}`;
+
+  document.title = `${T(D.book)} · ${T("Visual Bible")}`;
+  $("title").textContent = T(D.book);
+  $("lede").textContent = (window.I18N ? I18N.t("{v} verses · {w} words in Greek. Every chart counts the letter's own words; tap any mark to read its verse.", { v: V.length, w: D.words.toLocaleString() })
+    : `${V.length} verses · ${D.words.toLocaleString()} words in Greek. Every chart counts the letter's own words; tap any mark to read its verse.`);
+  $("family").replaceChildren(...D.family.map(f => el("a", { href: f.page, "aria-current": f.n === D.book ? "page" : null, text: T(f.n) })));
+
+  /* The verse card */
+  function open(c, v, extra) {
+    const x = byRef.get(c + ":" + v);
+    if (!x) return;
+    $("card-title").textContent = ref(c, v);
+    const tags = Object.keys(x.th).map(id => theme.get(id)).filter(Boolean)
+      .map(t => el("span", { style: `--c:${t.c}` }, el("i"), T(t.n) + (x.th[t.id] > 1 ? " ×" + x.th[t.id] : "")));
+    $("card-body").replaceChildren(el("p", { class: "txt", translate: "no", lang: "en", text: x.t }),
+      extra || null, tags.length ? el("div", { class: "tags" }, ...tags) : null,
+      el("a", { class: "go", href: readerHash(c, v), text: T("Read it in context") }));
+    $("card").hidden = false;
+  }
+  $("card").querySelector("[data-close]").onclick = () => { $("card").hidden = true; };
+  addEventListener("keydown", e => { if (e.key === "Escape") $("card").hidden = true; });
+
+  /* The words it uses most */
+  let focus = null;
+  const max = Math.max(...D.themes.map(t => Math.max(t.r, t.john, t.nt)));
+  function bars() {
+    $("bars").replaceChildren(...D.themes.slice(0, 14).map(t => {
+      const pct = x => (100 * x / max).toFixed(1) + "%";
+      return el("button", { class: "bar", type: "button", style: `--c:${t.c}`, "aria-pressed": String(focus === t.id),
+        title: `${T(t.n)}: ${t.k} · ${t.r} / 1,000 · ${T("Gospel of John")} ${t.john} · ${T("Rest of the New Testament")} ${t.nt}`,
+        onclick: () => { focus = focus === t.id ? null : t.id; bars(); grid(); } },
+        el("span", { class: "lab", text: T(t.n) }),
+        el("span", { class: "track" }, el("span", { class: "fill", style: `width:${pct(t.r)}` }),
+          el("span", { class: "tick john", style: `left:${pct(t.john)}` }), el("span", { class: "tick nt", style: `left:${pct(t.nt)}` })),
+        el("span", { class: "n", text: String(t.k) }));
+    }));
+  }
+
+  /* Verse by verse */
+  const ROWS = D.themes.slice(0, 12);
+  // Every chapter at one scale, as large as the widest fits the screen (and no larger than 1.3×).
+  const scaleFor = (box, widest) => Math.min(1.3, (box.clientWidth || 340) / widest);
+  function grid() {
+    const CW = 14, RH = 15, LW = 92;
+    const longest = Math.max(...chapters.map(c => V.filter(v => v.c === c).length));
+    const k = scaleFor($("grid"), LW + longest * CW);
+    $("grid").replaceChildren(...chapters.map(c => {
+      const vs = V.filter(v => v.c === c);
+      const w = LW + vs.length * CW, h = ROWS.length * RH + 16;
+      const s = svg("svg", { class: "vis", viewBox: `0 0 ${w} ${h}`, role: "img", "aria-label": (multi ? T("Chapter") + " " + c : T(D.book)) });
+      s.style.width = w * k + "px";
+      ROWS.forEach((t, i) => s.append(svg("text", { x: LW - 6, y: i * RH + 11, "text-anchor": "end", class: focus && focus !== t.id ? "dim" : "" }, T(t.n))));
+      vs.forEach((v, j) => {
+        const x = LW + j * CW;
+        const g = svg("g", { class: "col", tabindex: "0", role: "button", "aria-label": ref(v.c, v.v) });
+        g.append(svg("rect", { class: "hit", x, y: 0, width: CW, height: h, rx: 3 }));
+        ROWS.forEach((t, i) => {
+          const n = v.th[t.id];
+          if (n) g.append(svg("circle", { cx: x + CW / 2, cy: i * RH + 7.5, r: Math.min(6.5, 3 + n * 1.3), fill: t.c, class: focus && focus !== t.id ? "dim" : "" }));
+        });
+        if (v.v === 1 || v.v % 5 === 0) g.append(svg("text", { x: x + CW / 2, y: h - 2, "text-anchor": "middle" }, String(v.v)));
+        g.onclick = () => open(v.c, v.v);
+        g.onkeydown = e => { if (e.key === "Enter" || e.key === " ") { e.preventDefault(); open(v.c, v.v); } };
+        s.append(g);
+      });
+      return multi ? el("div", { class: "chap" }, el("h3", { text: T("Chapter") + " " + c }), s) : s;
+    }));
+  }
+
+  /* A lane: a line across the letter, with a mark at each verse. */
+  const order = V.map(v => v.c + ":" + v.v);
+  function lane(label, small, hits, color, opts = {}) {
+    const W = 300, H = 26, pad = 6;
+    const s = svg("svg", { class: "vis", viewBox: `0 0 ${W} ${H}`, preserveAspectRatio: "none" });
+    s.append(svg("line", { x1: 0, x2: W, y1: H / 2, y2: H / 2, stroke: "var(--line)", "stroke-width": 2 }));
+    // chapter ticks
+    chapters.slice(1).forEach(c => { const i = order.indexOf(c + ":1"); const x = pad + (W - 2 * pad) * i / Math.max(1, order.length - 1); s.append(svg("line", { x1: x, x2: x, y1: 4, y2: H - 4, stroke: "var(--faint)", "stroke-width": 1, "stroke-dasharray": "2 2" })); });
+    for (const [c, v] of hits) {
+      const i = order.indexOf(c + ":" + v), x = pad + (W - 2 * pad) * i / Math.max(1, order.length - 1);
+      const both = opts.both && opts.both.has(c + ":" + v);
+      const g = svg("g", { class: "col", role: "button", tabindex: "0", "aria-label": ref(c, v) });
+      g.append(svg("rect", { class: "hit", x: x - 6, y: 0, width: 12, height: H }));
+      g.append(svg("rect", { x: x - 1.75, y: 5, width: 3.5, height: H - 10, rx: 1.5, fill: color }));
+      if (both) g.append(svg("circle", { cx: x, cy: H / 2, r: 7, fill: "none", stroke: "var(--ink)", "stroke-width": 1.5 }));
+      g.onclick = () => (opts.pick ? opts.pick(c, v) : open(c, v));
+      s.append(g);
+    }
+    return el("div", { class: "lane" }, el("div", { class: "lab", style: `color:${color}` }, T(label), small ? el("small", { text: small }) : null), s);
+  }
+
+  /* Side by side: opposites */
+  function pairs() {
+    const rows = [];
+    for (const [a, b] of D.pairs) {
+      const ta = theme.get(a), tb = theme.get(b);
+      if (!ta || !tb) continue;
+      const ha = V.filter(v => v.th[a]).map(v => [v.c, v.v]), hb = V.filter(v => v.th[b]).map(v => [v.c, v.v]);
+      if (ha.length < 2 || hb.length < 2) continue;
+      const both = new Set(V.filter(v => v.th[a] && v.th[b]).map(v => v.c + ":" + v.v));
+      rows.push(lane(ta.n, ha.length + "×", ha, ta.c, { both }), lane(tb.n, hb.length + "×", hb, tb.c, { both }));
+    }
+    if (rows.length) { $("pairs").replaceChildren(...rows); $("s-pairs").hidden = false; }
+  }
+
+  /* The shape of its sentences */
+  function patterns() {
+    if (!D.patterns.length) return;
+    $("s-patterns").hidden = false;
+    const show = p => {
+      $("pattern-list").hidden = false;
+      $("pattern-list").replaceChildren(el("li", {}, el("div", { class: "kicker", text: T(p.n) })),
+        ...p.h.map(([c, v]) => el("li", {}, el("button", { type: "button", onclick: () => open(c, v) }, el("b", { text: multi ? `${c}:${v}` : String(v) }), byRef.get(c + ":" + v).t))));
+    };
+    $("patterns").replaceChildren(...D.patterns.map(p => {
+      const l = lane(p.n, p.h.length + "×", p.h, "var(--lapis)", { pick: (c, v) => open(c, v) });
+      l.querySelector(".lab").style.cursor = "pointer";
+      l.querySelector(".lab").onclick = () => show(p);
+      return l;
+    }));
+  }
+
+  /* Who it speaks of, and to */
+  const VO = [["I", "#c0392b", "“I”"], ["we", "#d4a017", "“we”"], ["you", "#2e86c1", "“you”"], ["they", "#8d95a4", "“he, she, they”"]];
+  function voices() {
+    $("voices-key").replaceChildren(...VO.map(([k, c, l]) => el("span", {}, el("i", { style: `background:${c}` }), T(l))),
+      ...(D.address.length ? [el("span", {}, el("i", { style: "background:var(--ink);border-radius:50%" }), T("a name for the readers"))] : []));
+    const named = new Map();
+    for (const a of D.address) for (const [c, v] of a.h) named.set(c + ":" + v, a.n);
+    const CW = 14, H = 70, LW = 0;
+    const longest = Math.max(...chapters.map(c => V.filter(v => v.c === c).length));
+    const k = scaleFor($("voices"), longest * CW);
+    $("voices").replaceChildren(...chapters.map(c => {
+      const vs = V.filter(v => v.c === c);
+      const w = Math.max(1, vs.length) * CW;
+      const s = svg("svg", { class: "vis", viewBox: `0 0 ${w} ${H + 26}` });
+      s.style.width = w * k + "px";
+      vs.forEach((v, j) => {
+        const x = j * CW, total = VO.reduce((t, [k]) => t + (v.vo[k] || 0), 0) || 1;
+        const g = svg("g", { class: "col", role: "button", tabindex: "0", "aria-label": ref(v.c, v.v) });
+        g.append(svg("rect", { class: "hit", x, y: 0, width: CW, height: H + 26, rx: 3 }));
+        let y = 12;
+        for (const [k, col] of VO) {
+          const hh = (H - 2) * (v.vo[k] || 0) / total;
+          if (hh) g.append(svg("rect", { x: x + 2, y, width: CW - 4, height: hh, fill: col, rx: 1.5 }));
+          y += hh;
+        }
+        if (named.has(v.c + ":" + v.v)) g.append(svg("circle", { cx: x + CW / 2, cy: 5, r: 3.5, fill: "var(--ink)" }));
+        if (v.v === 1 || v.v % 5 === 0) g.append(svg("text", { x: x + CW / 2, y: H + 22, "text-anchor": "middle" }, String(v.v)));
+        const nm = named.get(v.c + ":" + v.v);
+        g.onclick = () => open(v.c, v.v, nm ? el("p", { class: "also", text: T("The writer calls his readers") + " " + T(nm) }) : null);
+        s.append(g);
+      });
+      return multi ? el("div", { class: "chap" }, el("h3", { text: T("Chapter") + " " + c }), s) : s;
+    }));
+  }
+
+  /* The people in it */
+  const PCOL = ["#2646a1", "#c0392b", "#16a085", "#d4a017", "#7d3c98", "#e67e22", "#5d6d7e", "#27ae60", "#a04000", "#1f618d", "#884ea0"];
+  function people() {
+    if (!D.people.length || V.length > 40) return;
+    $("s-people").hidden = false;
+    $("people").replaceChildren(...D.people.map((p, i) => lane(p.n, p.h.map(([c, v]) => v).join(", "), p.h, PCOL[i % PCOL.length])));
+  }
+
+  /* Beside the other letters: two columns of verses, joined where they share words. */
+  function sisters() {
+    $("sisters").replaceChildren(...D.links.map(L => {
+      const A = V, B = L.verses, H = Math.max(A.length, B.length) * 9 + 40, W = 300;
+      const yA = i => 30 + (H - 40) * (i + 0.5) / A.length, yB = i => 30 + (H - 40) * (i + 0.5) / B.length;
+      const ia = new Map(A.map((v, i) => [v.c + ":" + v.v, i])), ib = new Map(B.map((v, i) => [v.c + ":" + v.v, i]));
+      const s = svg("svg", { class: "vis", viewBox: `0 0 ${W} ${H}` });
+      const x1 = 70, x2 = W - 70;
+      s.append(svg("text", { x: x1, y: 12, "text-anchor": "middle", style: "font-weight:700;fill:var(--ink)" }, T(D.book)), svg("text", { x: x2, y: 12, "text-anchor": "middle", style: "font-weight:700;fill:var(--ink)" }, T(L.book)));
+      const counts = new Map();
+      for (const [c, v, c2, v2, words] of L.l) {
+        const a = ia.get(c + ":" + v), b = ib.get(c2 + ":" + v2);
+        if (a == null || b == null) continue;
+        const p = svg("path", { d: `M${x1} ${yA(a)} C${(x1 + x2) / 2} ${yA(a)} ${(x1 + x2) / 2} ${yB(b)} ${x2} ${yB(b)}`, fill: "none",
+          stroke: "var(--lapis)", "stroke-opacity": Math.min(0.85, 0.18 + words.length * 0.14), "stroke-width": 1 + words.length * 0.7, class: "col" });
+        p.style.cursor = "pointer";
+        p.onclick = () => open(c, v, el("div", {}, el("p", { class: "also", text: `${T("Shares with")} ${T(L.book)} ${multiOther(L, c2, v2)}: ${words.join(", ")}` }),
+          el("p", { class: "txt", translate: "no", lang: "en", style: "font-size:16px;opacity:.85", text: B[b].t })));
+        s.append(p);
+      }
+      A.forEach((v, i) => { if (v.v === 1 || v.v % 5 === 0) s.append(svg("text", { x: x1 - 6, y: yA(i) + 3, "text-anchor": "end" }, multi ? `${v.c}:${v.v}` : String(v.v))); s.append(svg("circle", { cx: x1, cy: yA(i), r: 1.8, fill: "var(--faint)" })); });
+      B.forEach((v, i) => { if (v.v === 1 || v.v % 5 === 0 || B.length < 20) s.append(svg("text", { x: x2 + 6, y: yB(i) + 3 }, B.length > 20 ? `${v.c}:${v.v}` : String(v.v))); s.append(svg("circle", { cx: x2, cy: yB(i), r: 1.8, fill: "var(--faint)" })); });
+      s.style.maxWidth = "520px";
+      return el("div", { class: "panel" }, el("div", { class: "kicker", text: `${T(D.book)} · ${T(L.book)} · ${L.l.length} ${T("links")}` }), s);
+    }));
+  }
+  const multiOther = (L, c, v) => (new Set(L.verses.map(x => x.c)).size > 1 ? `${c}:${v}` : String(v));
+
+  bars(); grid(); pairs(); patterns(); voices(); people(); sisters();
+})();
+</script>
+
+</body>
+</html>

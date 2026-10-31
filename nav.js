@@ -24,6 +24,7 @@
     atlas: '<path d="M4 4h7v16H4zM13 4h7v16h-7z"/><path d="M6.5 8h2M15.5 8h2M6.5 11h2M15.5 11h2"/>',
     time: '<path d="M3 6.5c3 0 3-2 6-2s3 2 6 2 3-2 6-2"/><path d="M3 12c3 0 3-2 6-2s3 2 6 2 3-2 6-2"/><path d="M3 17.5c3 0 3-2 6-2s3 2 6 2 3-2 6-2"/><path d="M8 21v-2.5M16 21v-2.5"/>',
     gen: '<circle cx="12" cy="5" r="2.2"/><circle cx="6" cy="19" r="2.2"/><circle cx="18" cy="19" r="2.2"/><path d="M12 7.2V12M6 16.8V12h12v4.8"/>',
+    visual: '<rect x="3.5" y="13" width="3.5" height="7" rx="1"/><rect x="10.25" y="8" width="3.5" height="12" rx="1"/><rect x="17" y="4" width="3.5" height="16" rx="1"/>',
     psalms: '<path d="M6 3.5c7 0 12 4.5 12.5 12"/><path d="M6 3.5V20.5h12.5"/><path d="M9.5 7v13.5M13 9.5v11M16 12.5v8"/>',
     proverbs: '<path d="M3.5 13.5h17c0 3-3.6 5-8.5 5s-8.5-2-8.5-5Z"/><path d="M20.5 13.5c1-.7 1.3-1.6 1.2-2.7"/><path d="M8.5 18.5 7.5 21h9l-1-2.5"/><path d="M12 4c1.2 1.6 2 2.6 2 4a2 2 0 0 1-4 0c0-1.4.8-2.4 2-4Z"/>',
     kings: '<path d="M3 8l4.2 4L12 6l4.8 6L21 8l-2 11H5Z"/>',
@@ -55,8 +56,7 @@
       ["maps", "Maps", "maps", "maps/index.html", "Bible maps, and the 1915 historical atlas"],
       ["history", "Timeline", "time", "history.html", "World history beside the Bible, from Creation"],
       ["genealogy", "Genealogy", "gen", "genealogy.html", "From Adam to Jesus, and every family"],
-      ["psalms", "Psalms", "psalms", "psalms.html", "All 150 psalms by type, author and story"],
-      ["proverbs", "Proverbs", "proverbs", "proverbs.html", "Every proverb, by topic"],
+      ["visual", "Visual Bible", "visual", "visual/index.html", "Each book seen whole, from its own words"],
       ["kings", "Kings", "kings", "kings.html", "The kings of Israel and Judah, with the prophets of their days"],
       ["arcs", "Cross-refs", "arcs", "arcs.html", "Every cross-reference in the Bible as an arc"],
       ["library", "Bookshelf", "shelf", "library.html", "The 66 books as a bookshelf"],
@@ -70,7 +70,8 @@
   ];
   const here = new URL(location.href);
   const inReader = !!document.getElementById("site-menu");
-  const isHere = where => !where.startsWith("reader:") && !where.startsWith("mailto:") && new URL(where, ROOT).pathname === here.pathname;
+  const isVisual = /\/visual\/|\/(psalms|proverbs)\.html$/.test(here.pathname);
+  const isHere = where => (where === "visual/index.html" && isVisual) || !where.startsWith("reader:") && !where.startsWith("mailto:") && new URL(where, ROOT).pathname === here.pathname;
 
   function render(into) {
     into.textContent = "";

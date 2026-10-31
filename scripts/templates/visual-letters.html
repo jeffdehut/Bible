@@ -1,0 +1,359 @@
+<title>Visual Bible · Plain English Bible</title>
+<meta name="claude:viewport-fit-sides" content="cover">
+<meta name="description" content="A letter of the Bible seen whole, from its own words: the words it uses most, verse by verse, the patterns of its sentences, who it speaks of and to, and the letters beside it.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Frank+Ruhl+Libre:wght@300..700&family=Libre+Franklin:wght@400;500;600;700&display=swap">
+<style>
+/* A letter seen whole, from its own words (scripts/visual.py). Every mark is a count of the
+   letter's own Greek words, and tapping it shows the verse. */
+:root {
+  --bg: #fbfaf7; --surface: #ffffff; --raised: #ffffff; --ink: #161b26; --muted: #5b6475; --faint: #8d95a4; --line: #e4e2db;
+  --lapis: #2646a1; --lapis-soft: #e7ecf8; --gold: #8a640b;
+  --read: "Frank Ruhl Libre", "Noto Serif", Georgia, serif;
+  --sans: "Libre Franklin", system-ui, -apple-system, "Segoe UI", sans-serif;
+}
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) { --bg: #0d111b; --surface: #131a28; --raised: #172033; --ink: #e9ecf3; --muted: #a3acbd; --faint: #6f7a90; --line: #263047; --lapis: #9db3ff; --lapis-soft: #1c2650; --gold: #e2bd5c; color-scheme: dark; }
+}
+:root[data-theme="dark"] { --bg: #0d111b; --surface: #131a28; --raised: #172033; --ink: #e9ecf3; --muted: #a3acbd; --faint: #6f7a90; --line: #263047; --lapis: #9db3ff; --lapis-soft: #1c2650; --gold: #e2bd5c; color-scheme: dark; }
+* { box-sizing: border-box; }
+html { -webkit-text-size-adjust: 100%; }
+body { margin: 0; background: var(--bg); color: var(--ink); font: 400 16px/1.5 var(--sans);
+  padding-left: max(16px, env(safe-area-inset-left, 0px)); padding-right: max(16px, env(safe-area-inset-right, 0px)); }
+a { color: var(--lapis); }
+main { max-width: 980px; margin-inline: auto; padding-block: clamp(20px, 5vw, 40px) 90px; }
+.kicker { font: 600 12px/1.3 var(--sans); letter-spacing: 0.1em; text-transform: uppercase; color: var(--muted); }
+.kicker a { color: inherit; text-decoration: none; }
+.kicker a:hover { color: var(--lapis); }
+h1 { margin: 4px 0 6px; font: 300 clamp(38px, 8vw, 60px)/1.02 var(--read); letter-spacing: -0.02em; }
+.lede { margin: 0 0 14px; max-width: 66ch; color: var(--muted); }
+h2 { margin: 34px 0 4px; font: 500 22px/1.2 var(--read); }
+.sub { margin: 0 0 12px; color: var(--muted); font-size: 14px; max-width: 70ch; }
+.family { display: flex; flex-wrap: wrap; gap: 6px; margin: 0 0 6px; }
+.family a { display: inline-flex; align-items: center; min-height: 34px; padding: 0 14px; border-radius: 99px; border: 1px solid var(--line); background: var(--surface); color: var(--ink); text-decoration: none; font: 600 14px/1 var(--sans); }
+.family a[aria-current="page"] { background: var(--lapis); border-color: var(--lapis); color: #fff; }
+.chips { display: flex; flex-wrap: wrap; gap: 6px; }
+.chip { display: inline-flex; align-items: center; gap: 6px; min-height: 32px; padding: 4px 11px; border: 1px solid var(--line); border-radius: 99px; background: var(--surface); color: var(--ink); font: 500 13px/1.2 var(--sans); cursor: pointer; }
+.chip i { width: 10px; height: 10px; border-radius: 3px; background: var(--c); flex: none; }
+.chip[aria-pressed="true"] { border-color: var(--c, var(--lapis)); box-shadow: inset 0 0 0 1px var(--c, var(--lapis)); }
+.panel { background: var(--surface); border: 1px solid var(--line); border-radius: 16px; padding: 14px; }
+/* Its words: a bar for each, with ticks for the Gospel of John and the rest of the New Testament. */
+.bars { display: grid; gap: 8px; }
+.bar { display: grid; grid-template-columns: minmax(96px, 150px) 1fr auto; align-items: center; gap: 10px; border: 0; background: none; padding: 2px 0; color: var(--ink); text-align: left; cursor: pointer; font: 500 14px/1.2 var(--sans); }
+.bar .track { position: relative; height: 16px; border-radius: 4px; background: color-mix(in srgb, var(--line) 55%, transparent); }
+.bar .fill { position: absolute; inset: 0 auto 0 0; border-radius: 4px; background: var(--c); }
+.bar .tick { position: absolute; top: -3px; bottom: -3px; width: 2px; background: var(--ink); opacity: .55; }
+.bar .tick.nt { background: var(--muted); opacity: .9; height: 22px; width: 2px; top: -3px; border-radius: 1px; }
+.bar .tick.john { background: var(--ink); }
+.bar .n { font: 600 12.5px/1 var(--sans); color: var(--muted); min-width: 34px; text-align: right; }
+.bar[aria-pressed="true"] .lab { color: var(--c); font-weight: 700; }
+.key { display: flex; flex-wrap: wrap; gap: 6px 16px; margin: 10px 0 0; font: 500 12.5px/1.3 var(--sans); color: var(--muted); }
+.key span { display: inline-flex; align-items: center; gap: 6px; }
+.key i { display: inline-block; width: 2px; height: 14px; background: var(--ink); opacity: .55; }
+.key i.nt { background: var(--muted); opacity: .9; }
+/* Verse by verse: a column for each verse, a row for each word. */
+.grid-wrap { display: grid; gap: 14px; }
+.chap h3 { margin: 0 0 4px; font: 600 12px/1 var(--sans); letter-spacing: 0.08em; text-transform: uppercase; color: var(--muted); }
+svg.vis { display: block; width: 100%; max-width: 100%; height: auto; overflow: visible; }
+svg.vis text { font: 500 10px var(--sans); fill: var(--muted); }
+svg.vis .col { cursor: pointer; }
+svg.vis .col:hover rect.hit, svg.vis .col:focus rect.hit { fill: var(--lapis-soft); }
+svg.vis rect.hit { fill: transparent; }
+svg.vis .dim { opacity: .14; }
+.lanes { display: grid; gap: 10px; }
+.lane { display: grid; grid-template-columns: minmax(92px, 32%) 1fr; gap: 10px; align-items: center; }
+.lane .lab { font: 600 13px/1.25 var(--sans); }
+.lane .lab small { display: block; color: var(--muted); font-weight: 500; }
+.lane svg { height: 26px; }
+.list { margin: 8px 0 0; padding: 0; list-style: none; display: grid; gap: 6px; }
+.list li button { display: block; width: 100%; text-align: left; border: 1px solid var(--line); border-radius: 12px; background: var(--surface); color: var(--ink); padding: 10px 12px; cursor: pointer; font: 400 15px/1.45 var(--read); }
+.list li b { font: 700 12px/1 var(--sans); color: var(--lapis); margin-inline-end: 6px; }
+details.more summary { cursor: pointer; font: 600 13px/1.3 var(--sans); color: var(--lapis); margin: 8px 0 0; }
+.voices-key { display: flex; flex-wrap: wrap; gap: 10px 16px; margin: 4px 0 10px; font: 500 13px/1 var(--sans); color: var(--muted); }
+.voices-key span { display: inline-flex; align-items: center; gap: 6px; }
+.voices-key i { width: 12px; height: 12px; border-radius: 3px; }
+.sisters { display: grid; grid-template-columns: 1fr; gap: 18px; }
+.note { font: 500 13px/1.45 var(--sans); color: var(--muted); margin: 10px 0 0; }
+/* The verse card: the site's panel (ui.js). */
+#card .ui-head { display: flex; align-items: center; gap: 8px; padding: 4px 0 6px; }
+#card h3 { flex: 1; margin: 0; font: 600 19px/1.2 var(--read); }
+#card .close { width: 36px; height: 36px; border: 0; border-radius: 10px; background: transparent; color: var(--muted); cursor: pointer; font-size: 18px; }
+#card .close:hover { background: var(--lapis-soft); }
+#card .txt { margin: 4px 0 12px; font: 400 19px/1.55 var(--read); }
+#card .also { font: 500 13.5px/1.4 var(--sans); color: var(--muted); margin: 0 0 12px; }
+#card .tags { display: flex; flex-wrap: wrap; gap: 6px; margin: 0 0 14px; }
+#card .tags span { display: inline-flex; align-items: center; gap: 6px; padding: 4px 10px; border-radius: 99px; background: color-mix(in srgb, var(--c) 14%, transparent); color: var(--ink); font: 600 12.5px/1.2 var(--sans); }
+#card .tags i { width: 8px; height: 8px; border-radius: 2px; background: var(--c); }
+#card .go { display: inline-flex; align-items: center; min-height: 40px; padding: 0 16px; border-radius: 10px; background: var(--lapis); color: #fff; text-decoration: none; font: 600 14px/1 var(--sans); }
+@media (min-width: 760px) { .sisters { grid-template-columns: 1fr 1fr; } .lane { grid-template-columns: minmax(110px, 190px) 1fr; } }
+@media print { .appbar, #card { display: none; } }
+</style>
+<!-- APPBAR -->
+<main>
+  <div class="kicker"><a href="index.html">Visual Bible</a></div>
+  <h1 id="title"></h1>
+  <p class="lede" id="lede"></p>
+  <nav class="family" id="family" aria-label="The letters of John"></nav>
+
+  <section id="s-words">
+    <h2>The words it uses most</h2>
+    <p class="sub">How often each word comes, for every 1,000 words of the letter in Greek, beside the Gospel of John and the rest of the New Testament. Tap a word to follow it through the letter below.</p>
+    <div class="panel"><div class="bars" id="bars"></div>
+      <div class="key"><span><i class="john"></i>Gospel of John</span><span><i class="nt"></i>Rest of the New Testament</span></div></div>
+  </section>
+
+  <section id="s-grid">
+    <h2>Verse by verse</h2>
+    <p class="sub">Each column is a verse, each row a word; a dot is the word in that verse, larger where it comes more than once. Tap a column to read the verse.</p>
+    <div class="grid-wrap" id="grid"></div>
+  </section>
+
+  <section id="s-pairs" hidden>
+    <h2>Side by side</h2>
+    <p class="sub">Words the letter sets against each other, verse by verse. A ring marks a verse where both stand together.</p>
+    <div class="panel lanes" id="pairs"></div>
+  </section>
+
+  <section id="s-patterns" hidden>
+    <h2>The shape of its sentences</h2>
+    <p class="sub">Ways of speaking the letter comes back to, found by their words in the Greek. Tap one to read them together.</p>
+    <div class="panel lanes" id="patterns"></div>
+    <ul class="list" id="pattern-list" hidden></ul>
+  </section>
+
+  <section id="s-voices">
+    <h2>Who it speaks of, and to</h2>
+    <p class="sub">The person of every verb and pronoun, verse by verse: “I”, “we”, “you”, and “he”, “she”, “they”. Above, the names the writer calls his readers.</p>
+    <div class="voices-key" id="voices-key"></div>
+    <div class="grid-wrap" id="voices"></div>
+  </section>
+
+  <section id="s-people" hidden>
+    <h2>The people in it</h2>
+    <p class="sub">Everyone the letter names or speaks of, and the verses where they are.</p>
+    <div class="panel lanes" id="people"></div>
+  </section>
+
+  <section id="s-sisters">
+    <h2>Beside the other letters of John</h2>
+    <p class="sub">Verses that share at least two words of substance with a verse of the other letters (the small words, such as “and” and “the”, aside). Tap a line to see the words and both verses.</p>
+    <div class="sisters" id="sisters"></div>
+  </section>
+  <p class="note">Counted from the SBL Greek New Testament with the Strong's numbers of STEPBible's tagged text (CC BY 4.0); the verses are the Open Plain English Translation, a draft. The words chosen for the charts are lists of Greek words, not interpretations: “love” counts agapē and agapaō, “know” ginōskō and oida, “truth” alētheia and its adjectives.</p>
+</main>
+<section class="ui-sheet" id="card" hidden aria-labelledby="card-title">
+  <div class="ui-grab"></div>
+  <div class="ui-head"><h3 id="card-title"></h3><button class="close" type="button" data-close aria-label="Close">✕</button></div>
+  <div id="card-body"></div>
+</section>
+<!-- DATA -->
+<script>
+(() => {
+  const D = JSON.parse(document.getElementById("data").textContent);
+  const $ = id => document.getElementById(id);
+  const T = s => (window.I18N ? I18N.t(s) : s);
+  const NS = "http://www.w3.org/2000/svg";
+  const svg = (tag, attrs = {}, ...kids) => { const n = document.createElementNS(NS, tag); for (const k in attrs) n.setAttribute(k, attrs[k]); n.append(...kids); return n; };
+  const el = (tag, attrs = {}, ...kids) => { const n = document.createElement(tag); for (const k in attrs) { if (k === "text") n.textContent = attrs[k]; else if (k.startsWith("on")) n.addEventListener(k.slice(2), attrs[k]); else if (attrs[k] != null) n.setAttribute(k, attrs[k]); } n.append(...kids.filter(x => x != null)); return n; };
+  const V = D.verses, byRef = new Map(V.map(v => [v.c + ":" + v.v, v]));
+  const theme = new Map(D.themes.map(t => [t.id, t]));
+  const chapters = [...new Set(V.map(v => v.c))];
+  const multi = chapters.length > 1;
+  const ref = (c, v) => (multi ? `${T(D.book)} ${c}:${v}` : `${T(D.book)} ${v}`);
+  const readerHash = (c, v) => `../index.html#${D.book.toLowerCase().replace(/ /g, "-")}-${c}-${v}`;
+
+  document.title = `${T(D.book)} · ${T("Visual Bible")}`;
+  $("title").textContent = T(D.book);
+  $("lede").textContent = (window.I18N ? I18N.t("{v} verses · {w} words in Greek. Every chart counts the letter's own words; tap any mark to read its verse.", { v: V.length, w: D.words.toLocaleString() })
+    : `${V.length} verses · ${D.words.toLocaleString()} words in Greek. Every chart counts the letter's own words; tap any mark to read its verse.`);
+  $("family").replaceChildren(...D.family.map(f => el("a", { href: f.page, "aria-current": f.n === D.book ? "page" : null, text: T(f.n) })));
+
+  /* The verse card */
+  function open(c, v, extra) {
+    const x = byRef.get(c + ":" + v);
+    if (!x) return;
+    $("card-title").textContent = ref(c, v);
+    const tags = Object.keys(x.th).map(id => theme.get(id)).filter(Boolean)
+      .map(t => el("span", { style: `--c:${t.c}` }, el("i"), T(t.n) + (x.th[t.id] > 1 ? " ×" + x.th[t.id] : "")));
+    $("card-body").replaceChildren(el("p", { class: "txt", translate: "no", lang: "en", text: x.t }),
+      extra || null, tags.length ? el("div", { class: "tags" }, ...tags) : null,
+      el("a", { class: "go", href: readerHash(c, v), text: T("Read it in context") }));
+    $("card").hidden = false;
+  }
+  $("card").querySelector("[data-close]").onclick = () => { $("card").hidden = true; };
+  addEventListener("keydown", e => { if (e.key === "Escape") $("card").hidden = true; });
+
+  /* The words it uses most */
+  let focus = null;
+  const max = Math.max(...D.themes.map(t => Math.max(t.r, t.john, t.nt)));
+  function bars() {
+    $("bars").replaceChildren(...D.themes.slice(0, 14).map(t => {
+      const pct = x => (100 * x / max).toFixed(1) + "%";
+      return el("button", { class: "bar", type: "button", style: `--c:${t.c}`, "aria-pressed": String(focus === t.id),
+        title: `${T(t.n)}: ${t.k} · ${t.r} / 1,000 · ${T("Gospel of John")} ${t.john} · ${T("Rest of the New Testament")} ${t.nt}`,
+        onclick: () => { focus = focus === t.id ? null : t.id; bars(); grid(); } },
+        el("span", { class: "lab", text: T(t.n) }),
+        el("span", { class: "track" }, el("span", { class: "fill", style: `width:${pct(t.r)}` }),
+          el("span", { class: "tick john", style: `left:${pct(t.john)}` }), el("span", { class: "tick nt", style: `left:${pct(t.nt)}` })),
+        el("span", { class: "n", text: String(t.k) }));
+    }));
+  }
+
+  /* Verse by verse */
+  const ROWS = D.themes.slice(0, 12);
+  // Every chapter at one scale, as large as the widest fits the screen (and no larger than 1.3×).
+  const scaleFor = (box, widest) => Math.min(1.3, (box.clientWidth || 340) / widest);
+  function grid() {
+    const CW = 14, RH = 15, LW = 92;
+    const longest = Math.max(...chapters.map(c => V.filter(v => v.c === c).length));
+    const k = scaleFor($("grid"), LW + longest * CW);
+    $("grid").replaceChildren(...chapters.map(c => {
+      const vs = V.filter(v => v.c === c);
+      const w = LW + vs.length * CW, h = ROWS.length * RH + 16;
+      const s = svg("svg", { class: "vis", viewBox: `0 0 ${w} ${h}`, role: "img", "aria-label": (multi ? T("Chapter") + " " + c : T(D.book)) });
+      s.style.width = w * k + "px";
+      ROWS.forEach((t, i) => s.append(svg("text", { x: LW - 6, y: i * RH + 11, "text-anchor": "end", class: focus && focus !== t.id ? "dim" : "" }, T(t.n))));
+      vs.forEach((v, j) => {
+        const x = LW + j * CW;
+        const g = svg("g", { class: "col", tabindex: "0", role: "button", "aria-label": ref(v.c, v.v) });
+        g.append(svg("rect", { class: "hit", x, y: 0, width: CW, height: h, rx: 3 }));
+        ROWS.forEach((t, i) => {
+          const n = v.th[t.id];
+          if (n) g.append(svg("circle", { cx: x + CW / 2, cy: i * RH + 7.5, r: Math.min(6.5, 3 + n * 1.3), fill: t.c, class: focus && focus !== t.id ? "dim" : "" }));
+        });
+        if (v.v === 1 || v.v % 5 === 0) g.append(svg("text", { x: x + CW / 2, y: h - 2, "text-anchor": "middle" }, String(v.v)));
+        g.onclick = () => open(v.c, v.v);
+        g.onkeydown = e => { if (e.key === "Enter" || e.key === " ") { e.preventDefault(); open(v.c, v.v); } };
+        s.append(g);
+      });
+      return multi ? el("div", { class: "chap" }, el("h3", { text: T("Chapter") + " " + c }), s) : s;
+    }));
+  }
+
+  /* A lane: a line across the letter, with a mark at each verse. */
+  const order = V.map(v => v.c + ":" + v.v);
+  function lane(label, small, hits, color, opts = {}) {
+    const W = 300, H = 26, pad = 6;
+    const s = svg("svg", { class: "vis", viewBox: `0 0 ${W} ${H}`, preserveAspectRatio: "none" });
+    s.append(svg("line", { x1: 0, x2: W, y1: H / 2, y2: H / 2, stroke: "var(--line)", "stroke-width": 2 }));
+    // chapter ticks
+    chapters.slice(1).forEach(c => { const i = order.indexOf(c + ":1"); const x = pad + (W - 2 * pad) * i / Math.max(1, order.length - 1); s.append(svg("line", { x1: x, x2: x, y1: 4, y2: H - 4, stroke: "var(--faint)", "stroke-width": 1, "stroke-dasharray": "2 2" })); });
+    for (const [c, v] of hits) {
+      const i = order.indexOf(c + ":" + v), x = pad + (W - 2 * pad) * i / Math.max(1, order.length - 1);
+      const both = opts.both && opts.both.has(c + ":" + v);
+      const g = svg("g", { class: "col", role: "button", tabindex: "0", "aria-label": ref(c, v) });
+      g.append(svg("rect", { class: "hit", x: x - 6, y: 0, width: 12, height: H }));
+      g.append(svg("rect", { x: x - 1.75, y: 5, width: 3.5, height: H - 10, rx: 1.5, fill: color }));
+      if (both) g.append(svg("circle", { cx: x, cy: H / 2, r: 7, fill: "none", stroke: "var(--ink)", "stroke-width": 1.5 }));
+      g.onclick = () => (opts.pick ? opts.pick(c, v) : open(c, v));
+      s.append(g);
+    }
+    return el("div", { class: "lane" }, el("div", { class: "lab", style: `color:${color}` }, T(label), small ? el("small", { text: small }) : null), s);
+  }
+
+  /* Side by side: opposites */
+  function pairs() {
+    const rows = [];
+    for (const [a, b] of D.pairs) {
+      const ta = theme.get(a), tb = theme.get(b);
+      if (!ta || !tb) continue;
+      const ha = V.filter(v => v.th[a]).map(v => [v.c, v.v]), hb = V.filter(v => v.th[b]).map(v => [v.c, v.v]);
+      if (ha.length < 2 || hb.length < 2) continue;
+      const both = new Set(V.filter(v => v.th[a] && v.th[b]).map(v => v.c + ":" + v.v));
+      rows.push(lane(ta.n, ha.length + "×", ha, ta.c, { both }), lane(tb.n, hb.length + "×", hb, tb.c, { both }));
+    }
+    if (rows.length) { $("pairs").replaceChildren(...rows); $("s-pairs").hidden = false; }
+  }
+
+  /* The shape of its sentences */
+  function patterns() {
+    if (!D.patterns.length) return;
+    $("s-patterns").hidden = false;
+    const show = p => {
+      $("pattern-list").hidden = false;
+      $("pattern-list").replaceChildren(el("li", {}, el("div", { class: "kicker", text: T(p.n) })),
+        ...p.h.map(([c, v]) => el("li", {}, el("button", { type: "button", onclick: () => open(c, v) }, el("b", { text: multi ? `${c}:${v}` : String(v) }), byRef.get(c + ":" + v).t))));
+    };
+    $("patterns").replaceChildren(...D.patterns.map(p => {
+      const l = lane(p.n, p.h.length + "×", p.h, "var(--lapis)", { pick: (c, v) => open(c, v) });
+      l.querySelector(".lab").style.cursor = "pointer";
+      l.querySelector(".lab").onclick = () => show(p);
+      return l;
+    }));
+  }
+
+  /* Who it speaks of, and to */
+  const VO = [["I", "#c0392b", "“I”"], ["we", "#d4a017", "“we”"], ["you", "#2e86c1", "“you”"], ["they", "#8d95a4", "“he, she, they”"]];
+  function voices() {
+    $("voices-key").replaceChildren(...VO.map(([k, c, l]) => el("span", {}, el("i", { style: `background:${c}` }), T(l))),
+      ...(D.address.length ? [el("span", {}, el("i", { style: "background:var(--ink);border-radius:50%" }), T("a name for the readers"))] : []));
+    const named = new Map();
+    for (const a of D.address) for (const [c, v] of a.h) named.set(c + ":" + v, a.n);
+    const CW = 14, H = 70, LW = 0;
+    const longest = Math.max(...chapters.map(c => V.filter(v => v.c === c).length));
+    const k = scaleFor($("voices"), longest * CW);
+    $("voices").replaceChildren(...chapters.map(c => {
+      const vs = V.filter(v => v.c === c);
+      const w = Math.max(1, vs.length) * CW;
+      const s = svg("svg", { class: "vis", viewBox: `0 0 ${w} ${H + 26}` });
+      s.style.width = w * k + "px";
+      vs.forEach((v, j) => {
+        const x = j * CW, total = VO.reduce((t, [k]) => t + (v.vo[k] || 0), 0) || 1;
+        const g = svg("g", { class: "col", role: "button", tabindex: "0", "aria-label": ref(v.c, v.v) });
+        g.append(svg("rect", { class: "hit", x, y: 0, width: CW, height: H + 26, rx: 3 }));
+        let y = 12;
+        for (const [k, col] of VO) {
+          const hh = (H - 2) * (v.vo[k] || 0) / total;
+          if (hh) g.append(svg("rect", { x: x + 2, y, width: CW - 4, height: hh, fill: col, rx: 1.5 }));
+          y += hh;
+        }
+        if (named.has(v.c + ":" + v.v)) g.append(svg("circle", { cx: x + CW / 2, cy: 5, r: 3.5, fill: "var(--ink)" }));
+        if (v.v === 1 || v.v % 5 === 0) g.append(svg("text", { x: x + CW / 2, y: H + 22, "text-anchor": "middle" }, String(v.v)));
+        const nm = named.get(v.c + ":" + v.v);
+        g.onclick = () => open(v.c, v.v, nm ? el("p", { class: "also", text: T("The writer calls his readers") + " " + T(nm) }) : null);
+        s.append(g);
+      });
+      return multi ? el("div", { class: "chap" }, el("h3", { text: T("Chapter") + " " + c }), s) : s;
+    }));
+  }
+
+  /* The people in it */
+  const PCOL = ["#2646a1", "#c0392b", "#16a085", "#d4a017", "#7d3c98", "#e67e22", "#5d6d7e", "#27ae60", "#a04000", "#1f618d", "#884ea0"];
+  function people() {
+    if (!D.people.length || V.length > 40) return;
+    $("s-people").hidden = false;
+    $("people").replaceChildren(...D.people.map((p, i) => lane(p.n, p.h.map(([c, v]) => v).join(", "), p.h, PCOL[i % PCOL.length])));
+  }
+
+  /* Beside the other letters: two columns of verses, joined where they share words. */
+  function sisters() {
+    $("sisters").replaceChildren(...D.links.map(L => {
+      const A = V, B = L.verses, H = Math.max(A.length, B.length) * 9 + 40, W = 300;
+      const yA = i => 30 + (H - 40) * (i + 0.5) / A.length, yB = i => 30 + (H - 40) * (i + 0.5) / B.length;
+      const ia = new Map(A.map((v, i) => [v.c + ":" + v.v, i])), ib = new Map(B.map((v, i) => [v.c + ":" + v.v, i]));
+      const s = svg("svg", { class: "vis", viewBox: `0 0 ${W} ${H}` });
+      const x1 = 70, x2 = W - 70;
+      s.append(svg("text", { x: x1, y: 12, "text-anchor": "middle", style: "font-weight:700;fill:var(--ink)" }, T(D.book)), svg("text", { x: x2, y: 12, "text-anchor": "middle", style: "font-weight:700;fill:var(--ink)" }, T(L.book)));
+      const counts = new Map();
+      for (const [c, v, c2, v2, words] of L.l) {
+        const a = ia.get(c + ":" + v), b = ib.get(c2 + ":" + v2);
+        if (a == null || b == null) continue;
+        const p = svg("path", { d: `M${x1} ${yA(a)} C${(x1 + x2) / 2} ${yA(a)} ${(x1 + x2) / 2} ${yB(b)} ${x2} ${yB(b)}`, fill: "none",
+          stroke: "var(--lapis)", "stroke-opacity": Math.min(0.85, 0.18 + words.length * 0.14), "stroke-width": 1 + words.length * 0.7, class: "col" });
+        p.style.cursor = "pointer";
+        p.onclick = () => open(c, v, el("div", {}, el("p", { class: "also", text: `${T("Shares with")} ${T(L.book)} ${multiOther(L, c2, v2)}: ${words.join(", ")}` }),
+          el("p", { class: "txt", translate: "no", lang: "en", style: "font-size:16px;opacity:.85", text: B[b].t })));
+        s.append(p);
+      }
+      A.forEach((v, i) => { if (v.v === 1 || v.v % 5 === 0) s.append(svg("text", { x: x1 - 6, y: yA(i) + 3, "text-anchor": "end" }, multi ? `${v.c}:${v.v}` : String(v.v))); s.append(svg("circle", { cx: x1, cy: yA(i), r: 1.8, fill: "var(--faint)" })); });
+      B.forEach((v, i) => { if (v.v === 1 || v.v % 5 === 0 || B.length < 20) s.append(svg("text", { x: x2 + 6, y: yB(i) + 3 }, B.length > 20 ? `${v.c}:${v.v}` : String(v.v))); s.append(svg("circle", { cx: x2, cy: yB(i), r: 1.8, fill: "var(--faint)" })); });
+      s.style.maxWidth = "520px";
+      return el("div", { class: "panel" }, el("div", { class: "kicker", text: `${T(D.book)} · ${T(L.book)} · ${L.l.length} ${T("links")}` }), s);
+    }));
+  }
+  const multiOther = (L, c, v) => (new Set(L.verses.map(x => x.c)).size > 1 ? `${c}:${v}` : String(v));
+
+  bars(); grid(); pairs(); patterns(); voices(); people(); sisters();
+})();
+</script>
