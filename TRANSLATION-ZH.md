@@ -747,6 +747,34 @@ Settled while drafting Psalms:
 | כִּסְאֲךָ אֱלֹהִים (45:7) | 神啊，你的寶座 | Long note: the king addressed as *elohim*, other readings, Septuagint and 希伯來書1章8至9節. |
 | Hebrews quoting the Septuagint (40:7–9) | The Hebrew (你開通了我的耳朵) in the text | The Septuagint 「你卻為我預備了身體」 and Hebrews' other changes in the note. |
 | צָפוֹן (48:3) | 北方的高處 | *Tsaphon*, the mountain of Canaanite myth, noted. |
+| Historical titles taking two verses (51; 52; 54; 60) | 1 交給詩班長。大衛的詩。 2 那時…… | Noted: 希伯來文以標題為第1至2節，所以第3至21節和合本作51篇1至19節，相差兩節. |
+| מַשְׂכִּיל לְדָוִד; לְדָוִד מִכְתָּם | 大衛的瑪斯基勒；屬大衛的。米克坦。 | The Hebrew order, as 16:1 and 32:1. |
+| עַל־מָחֲלַת; עַל־יְדוּתוּן; עַל־נְגִינַת | 按照麻哈拉；按照耶杜頓；用絲弦的樂器 | 麻哈拉 as the Union Version (also 88:1); 和合本「照耶杜頓的作法」 noted. |
+| Tune names: אַל־תַּשְׁחֵת; יוֹנַת אֵלֶם רְחֹקִים; שׁוּשַׁן עֵדוּת | 調用「不要毀壞」；調用「遠方無聲的鴿子」；調用「見證的百合花」 | 57–59, 75; 56; 60, 80. Union Version forms noted. |
+| Psalm 53 (Psalm 14) | Psalm 14's wording wherever the Hebrew agrees, 神 for *Elohim* | Differences noted (53:2 *avel*; 53:4 *sag*; 53:6). |
+| Psalm 108 (= 57:8–12; 60:7–14) | The wording of 57 and 60 | Psalm 108 to follow it where the Hebrew agrees; 60:10–11 note 108's differences. |
+| יְהוָה אֱלֹהִים צְבָאוֹת (59:6) | 耶和華萬軍之神 | As 2 Samuel 5:10; the Hebrew and 「萬軍之神耶和華」 noted. |
+| רוּחַ קָדְשְׁךָ (51:13) | 你聖潔的靈 | 傳統「你的聖靈」 noted. |
+| Psalm 68 | One reading in the text, others in notes | 68:19 受了禮物; Ephesians 4:8 「賜給」 (*edōken*) noted. Its hapax words noted as only here. |
+| Book divisions (72–73; 89) | 72:18–19 and 89:53 noted as closing 第二卷, 第三卷; 72:20 耶西的兒子大衛的禱告完畢了 | 73:1 notes 第三卷 (73–89) and the Asaph psalms (73–83); 83:1 the last of them. |
+| לְאָסָף | 亞薩的詩 (מִזְמוֹר לְאָסָף)；屬亞薩的 (alone or before מִזְמוֹר: 屬亞薩的。一首詩。) | 「或譯『為亞薩作的』」 and the Levite singer (50:1) noted in each psalm. 以斯拉人以探, 希幔 (88; 89). |
+| Psalm 70 (= 40:14–18) | Psalm 40's wording wherever the Hebrew agrees, 神 for *Elohim* | Each difference noted (70:2, 3, 4, 5, 6). |
+| NT quotations where the Greek differs | The Hebrew in the text | 69:10 (John 2:17 future 「將要吞噬」); 69:26 (Acts 1:20 singular); 78:2 (Matthew 13:35 「從創立以來所隱藏的事」); 78:24 (John 6:31 *artos*). 82:6 noted as agreeing. |
+| אֱלֹהִים (82:1, 6) | 神聖的議會；眾神；你們是神 | The divine council in the text; human judges (Exodus 21:6; 22:7–8) and 和合本「有權力者的會」「諸神」 in the notes. |
+| עֵדוּת (78:5, 56; 81:6) | 法度 | As 19:8; noted. |
+| Psalm 89 (2 Samuel 7) | 2 Samuel 7's words: 後裔、王位、堅立、兇惡的人、苦待、杖、鞭打、慈愛不收回 | בְּנֵי אֵלִים 天上的眾生 (89:7); *emunah* 信實. |
+| רַהַב (87:4; 89:11); אֲבַדּוֹן; רְפָאִים | 拉哈伯 (not 喇合)；亞巴頓；陰魂 | As Job 26. |
+| עַל־מָחֲלַת לְעַנּוֹת (88:1) | 按照麻哈拉利暗俄 | The Union Version's form; *le'annot* noted. |
+| Psalm 78 (Exodus, Numbers) | The Pentateuch's words: 嗎哪、成群的蒼蠅、使水直立像牆壁 (Exodus 15:8) | 瑣安 as the Union Version's Psalms (鎖安 in Numbers 13:22, noted). |
+| אִישׁ הָאֱלֹהִים (90:1) | 神人摩西的禱告 | As Deuteronomy 33:1. 90:1 notes 第四卷 (90–106); 106:48 noted as closing it. |
+| יְהוָה מָלָךְ (93:1; 96:10; 97:1; 99:1) | 耶和華作王了 | As 1 Chronicles 16:31; 「耶和華已經作王了」「耶和華是王」 and the 「耶和華作王」詩篇 (93, 95–99) noted at 93:1. הַמֶּלֶךְ יְהוָה (98:6) 君王耶和華. |
+| Psalms 96; 105:1–15; 106:1, 47–48 (1 Chronicles 16:8–36) | 1 Chronicles 16's wording wherever the Hebrew agrees | Differences noted as 歷代志上16章27節作「……」. |
+| מִזְמוֹר לְתוֹדָה (100:1) | 感恩的詩 | 「為感恩祭作的詩」 noted. |
+| כִּי טוֹב כִּי לְעוֹלָם חַסְדּוֹ | 因為他是美善的，他的慈愛永遠長存 | As 1 Chronicles 16:34 (100:5; 106:1); for 107, 118, 136. |
+| בָּרֲכִי נַפְשִׁי אֶת־יְהוָה (103–104) | 我的心哪，你要稱頌耶和華 | *nephesh* noted. |
+| NT quotations (91:11–12; 95:7–11; 102:26–28; 104:4) | The Hebrew in the text | Notes give Matthew 4:6 and Luke 4:10–11's omissions, Hebrews 3's translated place names and 「四十年」, Hebrews 1:10–12's 「主啊」「捲起來」, Hebrews 1:7's 「以他的使者為風」. |
+| Psalms 105–106 (Genesis–Numbers) | The Pentateuch's words: 成群的蒼蠅、蚊子 (*kinnim*)、蝗蟲、蝻子 (*yeleq*)、鵪鶉、天上的糧食、米利巴水、巴力‧毗珥 | 含地 for Egypt, noted. |
+| לִוְיָתָן (104:26) | 利維坦 | As 74:14 and Job; 和合本「鱷魚」 noted. |
 
 ## Style
 
