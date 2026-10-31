@@ -727,6 +727,16 @@ Settled while drafting Psalms:
 | Acrostics | Noted at the first verse | Psalms 9–10 (9:2; 10:1). |
 | עָנִי; עָנָו | 困苦人；謙卑人 | Kept apart, so a ketiv/qere between them is noted (9:13, 19; 10:12). Ketiv/qere differing only in form (5:9; 6:4; 10:5; 11:1) not noted. |
 | שָׁב שְׁבוּת (14:7) | 扭轉……的命運 | As Job 42:10; 「帶回被擄的」 noted. |
+| Psalm 18 (2 Samuel 22) | 2 Samuel 22's wording wherever the Hebrew is the same | Differences noted as 撒母耳記下22章5節作「……」; poetry without quotation marks, 18:2 opens 他說：. |
+| מִזְמוֹר (alone, after לְדָוִד); שִׁיר חֲנֻכַּת הַבַּיִת | 一首詩；為殿行奉獻禮時唱的歌 | 24:1; 30:1, *chanukkah* noted. |
+| Psalm 19:8–10 | 律法；法度；訓詞；誡命；敬畏；典章 | One rendering each for *torah*, *edut*, *piqqudim*, *mitsvah*, *yir'ah*, *mishpatim*; noted. |
+| גֹּאֵל (of God, 19:15) | 救贖者 | As Job 19:25; *go'el* noted with Ruth. |
+| כָּאֲרִי (22:17) | 他們像獅子一樣，撲咬我的手和我的腳 | The verb supplied and noted; 「扎」 (Septuagint, some manuscripts, 和合本) in the note. |
+| בּוֹר; שַׁחַת | 坑 (下坑的人)；墳坑 | Each noted (28:1; 30:4, 10; 16:10). |
+| כְּלָיוֹת | 心腸 | 「腎」 noted (16:7; 26:2). |
+| צַלְמָוֶת (23:4) | 死蔭的幽谷 | As Job 3:5 (死蔭); 「最黑暗的山谷」 noted. |
+| בְּנֵי אֵלִים (29:1) | 天上的眾生 | 「眾神的兒子們」 noted. |
+| Acrostics (Psalm 25) | Noted at verse 1 | The gaps and the closing *pe* verse described. |
 
 ## Style
 
