@@ -4,7 +4,9 @@ gathers them (visual/index.html).
     python3 scripts/visual.py            (after reader.py and wisdom.py)
 
 Reads   data/bible/books.json, data/bible/text/ (our English) and data/bible/words/ (each word of
-        the Hebrew and Greek with its Strong's number and grammar)
+        the Hebrew and Greek with its Strong's number and grammar), and data/books-about.json (who
+        wrote each book, when, to whom, the kind of writing and its theme, as introductions to the
+        Bible commonly give them, with the debated dates marked)
 Writes  visual/index.html               every book of the Bible, and the ones with pages
         visual/<book>.html               a book's page (so far 1, 2 and 3 John), from
                                          scripts/templates/visual-letters.html
@@ -27,6 +29,8 @@ ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 DATA = os.path.join(ROOT, "data", "bible")
 TEMPLATES = os.path.join(ROOT, "scripts", "templates")
 OUT = os.path.join(ROOT, "visual")
+# Who wrote each book, when, to whom, what kind of writing, its theme (data/books-about.json).
+ABOUT = {k: v for k, v in json.load(open(os.path.join(ROOT, "data", "books-about.json"), encoding="utf-8")).items() if not k.startswith("_")}
 
 # The pages there are: book slug -> page (relative to visual/).
 PAGES = {"19-psalms": "../psalms.html", "20-proverbs": "../proverbs.html",
@@ -245,6 +249,7 @@ def main():
         others = [(n, s) for s, n, _ in letters if s != stem]
         data = book_data(stem, name, osis, others, nt_rates)
         data["family"] = [{"n": n, "page": PAGES[s]} for s, n, _ in letters]
+        data["about"] = ABOUT.get(osis)
         write("visual-letters.html", os.path.join(OUT, PAGES[stem]), data)
         print(f"{name}: {len(data['verses'])} verses, {len(data['themes'])} themes, "
               f"{sum(len(p['h']) for p in data['patterns'])} pattern hits, {sum(len(l['l']) for l in data['links'])} links")
