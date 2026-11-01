@@ -14,6 +14,12 @@
 (() => {
   const PAD = 288;
   const PAPER = "#fbfdff";
+  // Papers to sketch on: pale pastels, so every ink still reads on them. A sketch keeps its paper
+  // at the end of its text (";p" and the name), which a reader that doesn't know papers passes over.
+  const PAPERS = { white: PAPER, cream: "#fdf7e7", yellow: "#fff8cf", peach: "#ffeadc", pink: "#fde8ef", lavender: "#f0eafc", blue: "#e6f1fc", mint: "#e5f6ec" };
+  const PAPER_NAMES = { white: "White", cream: "Cream", yellow: "Yellow", peach: "Peach", pink: "Pink", lavender: "Lavender", blue: "Blue", mint: "Mint" };
+  const paperKey = text => { const m = /;p([a-z]+)$/.exec(text || ""); return m && PAPERS[m[1]] ? m[1] : "white"; };
+  const paperOf = text => PAPERS[paperKey(text)];
   // Light blue graph paper: a line every quarter inch, a stronger one every inch.
   const GRID = 24, GRID_MINOR = "#d6e6f7", GRID_MAJOR = "#a9c9ec";
   const gridPath = (size, step, every) => { let d = ""; for (let v = step; v < size; v += step) if (!every || Math.round(v / step) % every === 0) d += `M${v} 0V${size}M0 ${v}H${size}`; return d; };
@@ -97,7 +103,8 @@
     for (let i = 0; i < n; i++) if (keep[i]) out.push(p[i * 3], p[i * 3 + 1], p[i * 3 + 2]);
     return out;
   }
-  function encode(strokes) {
+  function encode(strokes, paper) {
+    const tail = paper && paper !== "white" && PAPERS[paper] ? ";p" + paper : "";
     return "1|" + strokes.filter(s => s.p.length).map(s => {
       const p = simplify(s.p, 0.18), out = [Math.max(0, KEYS.indexOf(s.c)), s.s];
       let px = 0, py = 0, pp = 0;
@@ -106,11 +113,11 @@
         out.push(x - px, y - py, q - pp); px = x; py = y; pp = q;
       }
       return out.join(",");
-    }).join(";");
+    }).join(";") + tail;
   }
   function decode(text) {
     if (!text || typeof text !== "string" || !text.startsWith("1|")) return [];
-    return text.slice(2).split(";").filter(Boolean).map(s => {
+    return text.slice(2).split(";").filter(x => x && !/^p[a-z]/.test(x)).map(s => {
       const v = s.split(",").map(Number);
       const st = { c: KEYS[v[0]] || "ink", s: Math.max(0, Math.min(2, v[1] | 0)), p: [] };
       let x = 0, y = 0, q = 0;
@@ -213,7 +220,7 @@
   // A sketch as a small picture on its paper.
   function picture(data, { size = 96, paper = true } = {}) {
     const svg = svgEl("svg", { viewBox: `0 0 ${PAD} ${PAD}`, width: size, height: size, class: "sk-pic", "aria-hidden": "true" });
-    if (paper) svg.append(svgEl("rect", { width: PAD, height: PAD, fill: PAPER }),
+    if (paper) svg.append(svgEl("rect", { width: PAD, height: PAD, fill: paperOf(data) }),
       svgEl("path", { d: GRID_D.minor, stroke: GRID_MINOR, "stroke-width": 0.8, fill: "none" }), svgEl("path", { d: GRID_D.major, stroke: GRID_MAJOR, "stroke-width": 1, fill: "none" }));
     for (const x of paths(data)) svg.append(svgEl("path", { d: x.d, fill: x.color }));
     return svg;
@@ -234,11 +241,16 @@
 .sk-x:hover { background: var(--lapis-soft, #e7ecf8); }
 .sk-paper { position: relative; justify-self: center; width: min(288px, calc(100vw - 72px)); aspect-ratio: 1; border-radius: 3px;
   background: linear-gradient(${GRID_MAJOR} 1px, transparent 1px) 0 0 / calc(100% / 3) calc(100% / 3), linear-gradient(90deg, ${GRID_MAJOR} 1px, transparent 1px) 0 0 / calc(100% / 3) calc(100% / 3),
-    linear-gradient(${GRID_MINOR} 1px, transparent 1px) 0 0 / calc(100% / 12) calc(100% / 12), linear-gradient(90deg, ${GRID_MINOR} 1px, transparent 1px) 0 0 / calc(100% / 12) calc(100% / 12), ${PAPER};
+    linear-gradient(${GRID_MINOR} 1px, transparent 1px) 0 0 / calc(100% / 12) calc(100% / 12), linear-gradient(90deg, ${GRID_MINOR} 1px, transparent 1px) 0 0 / calc(100% / 12) calc(100% / 12), var(--paper, ${PAPER});
+  transition: background-color .2s;
   box-shadow: 0 1px 2px rgb(0 0 0 / 12%), 0 6px 16px rgb(60 45 10 / 16%); touch-action: none; cursor: crosshair; overflow: hidden; }
 .sk-paper svg { position: absolute; inset: 0; width: 100%; height: 100%; display: block; }
 .sk-paper.erasing { cursor: cell; }
 .sk-ring { position: absolute; border: 1.5px solid rgb(31 36 48 / 45%); border-radius: 50%; pointer-events: none; transform: translate(-50%, -50%); display: none; }
+.sk-papers { display: flex; align-items: center; justify-content: center; gap: 7px; flex-wrap: wrap; }
+.sk-papers span { font: 600 12px/1 var(--sans, system-ui, sans-serif); color: var(--muted, #5b6475); margin-inline-end: 2px; }
+.sk-pp { width: 26px; height: 26px; padding: 0; border-radius: 7px; border: 1px solid rgb(0 0 0 / 14%); background: var(--p); cursor: pointer; }
+.sk-pp[aria-pressed="true"] { box-shadow: 0 0 0 2px var(--surface, #fff), 0 0 0 4px var(--lapis, #2646a1); }
 .sk-tools { display: flex; flex-wrap: wrap; align-items: center; justify-content: center; gap: 6px; }
 .sk-tools .sep { width: 1px; height: 24px; background: var(--line, #e4e2db); margin: 0 2px; }
 .sk-tools .brk { flex-basis: 100%; height: 0; }
@@ -355,12 +367,13 @@
   const tools = { c: "ink", s: 0, es: 1, erase: false };
   try { Object.assign(tools, JSON.parse(localStorage.getItem("pe.sketchTools")) || {}, { erase: false }); } catch (e) { /* storage unavailable */ }
   if (!PICK.includes(tools.c)) tools.c = { purple: "violet", brown: "orange" }[tools.c] || "ink";
-  const keepTools = () => { try { localStorage.setItem("pe.sketchTools", JSON.stringify({ c: tools.c, s: tools.s, es: tools.es })); } catch (e) { /* storage unavailable */ } };
+  const keepTools = () => { try { localStorage.setItem("pe.sketchTools", JSON.stringify({ c: tools.c, s: tools.s, es: tools.es, paper: tools.paper })); } catch (e) { /* storage unavailable */ } };
 
   // Open the pad. opts: {title, href, sub, data, onSave(data or null), onShare(data), onDelete, onGo}.
   function open(opts) {
     css();
     let strokes = decode(opts.data);
+    let pk = opts.data ? paperKey(opts.data) : (PAPERS[tools.paper] ? tools.paper : "white");
     const scrim = document.createElement("div");
     scrim.className = "sk-scrim";
     const box = document.createElement("div");
@@ -379,6 +392,15 @@
     const live = svgEl("path");
     const ring = document.createElement("div"); ring.className = "sk-ring";
     paper.append(svg, ring);
+    const papers = document.createElement("div"); papers.className = "sk-papers";
+    const showPaper = () => { paper.style.setProperty("--paper", PAPERS[pk]); for (const b of papers.querySelectorAll(".sk-pp")) b.setAttribute("aria-pressed", String(b.dataset.p === pk)); };
+    papers.append(Object.assign(document.createElement("span"), { textContent: T("Paper") }));
+    for (const k of Object.keys(PAPERS)) {
+      const b = btn("sk-pp", { "data-p": k, "aria-label": T(PAPER_NAMES[k]) + " " + T("paper"), title: T(PAPER_NAMES[k]) });
+      b.style.setProperty("--p", PAPERS[k]);
+      b.onclick = () => { pk = k; tools.paper = k; keepTools(); showPaper(); };
+      papers.append(b);
+    }
     const draw = () => {
       svg.replaceChildren(...strokes.map(s => svgEl("path", { d: outline(s.p, SIZES[s.s]), fill: COLORS[s.c] || COLORS.ink })), live);
     };
@@ -391,7 +413,8 @@
     const share = btn("", {}, ""); share.textContent = T("Share");
     const done = btn("solid", {}, ""); done.textContent = T("Done");
     foot.append(del, share, done);
-    box.append(head, paper, bar, foot);
+    box.append(head, paper, papers, bar, foot);
+    showPaper();
     scrim.append(box);
     document.body.append(scrim);
     draw();
@@ -443,7 +466,7 @@
     holdStylus(paper, () => true, () => "all");
     paper.addEventListener("pointerleave", () => { if (pid === null) ring.style.display = "none"; });
 
-    const result = () => (strokes.length ? encode(strokes) : null);
+    const result = () => (strokes.length ? encode(strokes, pk) : null);
     let closed = false;
     function close(save = true) {
       if (closed) return;
@@ -463,6 +486,6 @@
     return { close };
   }
 
-  window.Sketch = { holdStylus, PAD, PAPER, GRID, GRID_MINOR, GRID_MAJOR, COLORS, KEYS, PICK, SIZES, ERASERS, outline, encode, decode, erase, pen, paths, picture, toolbar, history, open, css, colorOf, svgEl, tools, keepTools,
+  window.Sketch = { holdStylus, PAD, PAPER, PAPERS, paperOf, GRID, GRID_MINOR, GRID_MAJOR, COLORS, KEYS, PICK, SIZES, ERASERS, outline, encode, decode, erase, pen, paths, picture, toolbar, history, open, css, colorOf, svgEl, tools, keepTools,
     get sawPen() { return sawPen; } };
 })();
