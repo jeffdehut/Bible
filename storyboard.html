@@ -3,7 +3,7 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
-<script src="i18n.js?v=49"></script>
+<script src="i18n.js?v=50"></script>
 <script src="ui.js?v=3"></script>
 <link rel="icon" href="icons/icon.svg" type="image/svg+xml">
 <link rel="apple-touch-icon" href="icons/icon-192.png">
@@ -56,7 +56,6 @@ body::before { content: ""; position: fixed; inset: 0 0 auto; height: env(safe-a
 .sb { user-select: none; -webkit-user-select: none; -webkit-touch-callout: none; position: fixed; inset: calc(var(--bar) + env(safe-area-inset-top, 0px)) 0 0; display: flex; flex-direction: column; background: var(--table); }
 .sb:fullscreen { inset: 0; }
 .sb-head { display: flex; align-items: center; gap: 6px; padding: 8px max(12px, env(safe-area-inset-right, 0px)) 8px max(12px, env(safe-area-inset-left, 0px)); background: var(--bg); border-bottom: 1px solid var(--line); }
-.sb-head h1 { margin: 0 auto 0 4px; font: 500 20px/1.1 var(--read); white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
 .tbtn { display: inline-flex; align-items: center; gap: 6px; height: 38px; padding: 0 12px; border: 1px solid var(--line); border-radius: 10px; background: var(--surface); cursor: pointer; font: 500 14px/1 var(--sans); white-space: nowrap; }
 .tbtn:hover { background: var(--lapis-soft); }
 .tbtn:disabled { opacity: 0.45; cursor: default; background: var(--surface); }
@@ -134,6 +133,83 @@ body::before { content: ""; position: fixed; inset: 0 0 auto; height: env(safe-a
 @media (min-aspect-ratio: 1/1) and (max-height: 520px) { .sb-head { padding-block: 4px; } .sb-head h1 { font-size: 17px; } .tbtn { height: 32px; } .piece { height: 100px; } }
 .turn-tip { display: none; position: absolute; left: 0; right: 0; bottom: 12px; margin: 0; text-align: center; font: 500 13px/1.3 var(--sans); color: var(--muted); pointer-events: none; }
 @media (orientation: portrait) and (max-width: 600px) { .turn-tip { display: block; } }
+/* The name of the board open, and the bar's print menu. */
+.sb-head h1 { margin: 0 auto 0 2px; min-width: 0; font-size: inherit; }
+.sb-head h1 button { max-width: 100%; border: 0; background: transparent; padding: 6px 8px; border-radius: 8px; cursor: text; font: 500 19px/1.1 var(--read); white-space: nowrap; overflow: hidden; text-overflow: ellipsis; display: block; }
+.sb-head h1 button:hover { background: var(--lapis-soft); }
+.menu-wrap { position: relative; }
+.pmenu { position: absolute; right: 0; top: calc(100% + 6px); z-index: 30; min-width: 250px; padding: 6px; border-radius: 14px; background: var(--raised); border: 1px solid var(--line); box-shadow: 0 10px 30px rgba(0, 0, 0, 0.2); }
+.pmenu[hidden] { display: none; }
+.pmenu button { display: flex; align-items: center; gap: 12px; width: 100%; padding: 10px; border: 0; border-radius: 10px; background: transparent; cursor: pointer; text-align: start; }
+.pmenu button:hover, .pmenu button:focus-visible { background: var(--lapis-soft); }
+.pmenu b { display: block; font: 600 15px/1.2 var(--sans); }
+.pmenu small { display: block; font: 400 12px/1.3 var(--sans); color: var(--muted); }
+.sw { width: 34px; height: 26px; border-radius: 6px; flex: none; border: 1px solid var(--line); }
+.sw.color { background: linear-gradient(#7fb2e5 55%, #4f9440 55%); }
+.sw.line { background: #fff; box-shadow: inset 0 0 0 2px #fff; background-image: radial-gradient(circle at 50% 70%, transparent 7px, #222 7.5px, #222 8.5px, transparent 9px), linear-gradient(transparent 54%, #222 54%, #222 58%, transparent 58%); }
+.tbtn.primary { background: var(--lapis); border-color: var(--lapis); color: var(--surface); }
+.tbtn.primary:hover { background: color-mix(in srgb, var(--lapis) 85%, #000); }
+
+/* My boards: folders of boards, each shown as a small picture. */
+dialog { color: var(--ink); background: var(--raised); border: 1px solid var(--line); box-shadow: 0 20px 60px rgba(0, 0, 0, 0.3); padding: 0; }
+dialog::backdrop { background: rgba(10, 14, 22, 0.45); }
+.lib { width: min(860px, calc(100vw - 24px)); max-height: min(88dvh, 900px); border-radius: 20px; display: none; flex-direction: column; overflow: hidden; }
+.lib[open] { display: flex; }
+@media (max-width: 600px) { .lib { width: 100vw; max-width: 100vw; max-height: 92dvh; margin: auto 0 0; border-radius: 20px 20px 0 0; } }
+.lib-head { display: flex; align-items: center; gap: 8px; padding: 16px 16px 4px 20px; }
+.lib-head h2 { margin: 0 auto 0 0; font: 500 24px/1.2 var(--read); }
+.x { display: grid; place-items: center; width: 40px; height: 40px; border: 0; border-radius: 10px; background: transparent; cursor: pointer; }
+.x:hover { background: var(--lapis-soft); }
+.x svg { width: 22px; height: 22px; }
+.lib-status { margin: 0 20px 10px; font: 400 13px/1.4 var(--sans); color: var(--muted); }
+.lib-status[data-s="on"]::before { content: ""; display: inline-block; width: 8px; height: 8px; margin-inline-end: 7px; border-radius: 50%; background: #2f8a3c; vertical-align: 1px; }
+.lib-status a { color: var(--lapis); font-weight: 600; }
+.lib-bar { display: flex; gap: 8px; flex-wrap: wrap; padding: 0 16px 12px 20px; border-bottom: 1px solid var(--line); }
+.lib-list { overflow: auto; padding: 4px 16px 24px 20px; overscroll-behavior: contain; }
+.lib-folder h3 { position: sticky; top: 0; z-index: 2; display: flex; align-items: center; gap: 8px; margin: 0; padding: 16px 0 8px; background: var(--raised); font: 600 13px/1.3 var(--sans); letter-spacing: 0.06em; text-transform: uppercase; color: var(--muted); }
+.lib-folder h3 i { display: inline-grid; place-items: center; width: 24px; height: 24px; border-radius: 7px; background: var(--c); color: var(--raised); }
+.lib-folder h3 i svg { width: 15px; height: 15px; }
+.lib-folder h3 small { font-weight: 500; color: var(--faint); letter-spacing: 0; }
+.lib-factions { margin-inline-start: auto; display: flex; gap: 4px; }
+.lib-factions button, .lib-actions button { border: 0; background: color-mix(in srgb, var(--ink) 6%, var(--raised)); border-radius: 99px; padding: 6px 12px; cursor: pointer; font: 500 13px/1.2 var(--sans); letter-spacing: 0; text-transform: none; color: var(--ink); }
+.lib-factions button:hover, .lib-actions button:hover { background: var(--lapis-soft); }
+.lib-actions .danger { color: #c0392b; }
+.lib-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(180px, 1fr)); gap: 12px; margin: 0; padding: 0; list-style: none; }
+.lib-empty { padding: 14px; border: 1px dashed var(--line); border-radius: 14px; color: var(--faint); font: 400 14px/1.3 var(--sans); }
+.lib-card { position: relative; border: 1px solid var(--line); border-radius: 14px; background: var(--surface); overflow: hidden; }
+.lib-card.cur { border-color: var(--c); box-shadow: inset 0 0 0 1px var(--c); }
+.lib-open { display: block; width: 100%; padding: 0 0 10px; border: 0; background: transparent; cursor: pointer; text-align: start; }
+.lib-open svg { display: block; width: 100%; aspect-ratio: 16 / 10; height: auto; margin-bottom: 8px; }
+.lib-open b { display: block; padding: 0 44px 0 12px; font: 600 15px/1.25 var(--sans); white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+.lib-open small { display: block; padding: 2px 12px 0; font: 400 12px/1.3 var(--sans); color: var(--muted); }
+.lib-more { position: absolute; right: 6px; bottom: 8px; display: grid; place-items: center; width: 34px; height: 34px; border: 0; border-radius: 10px; background: transparent; cursor: pointer; color: var(--muted); }
+.lib-more:hover, .lib-more[aria-expanded="true"] { background: var(--lapis-soft); color: var(--ink); }
+.lib-more svg { width: 18px; height: 18px; }
+.lib-actions { display: flex; flex-wrap: wrap; gap: 6px; padding: 0 10px 10px; }
+
+/* The small form for a name and a folder. */
+.ask { width: min(420px, calc(100vw - 32px)); border-radius: 18px; }
+.ask form { padding: 18px 20px 16px; }
+.ask h2 { margin: 0 0 14px; font: 500 21px/1.2 var(--read); }
+.ask .row { display: grid; gap: 6px; margin: 0 0 14px; font: 600 13px/1.2 var(--sans); color: var(--muted); }
+.ask .row[hidden] { display: none; }
+.ask input, .ask select { width: 100%; height: 44px; padding: 0 12px; border: 1px solid var(--line); border-radius: 10px; background: var(--surface); color: var(--ink); font: 400 16px/1.2 var(--sans); }
+.ask-btns { display: flex; justify-content: flex-end; gap: 8px; margin-top: 4px; }
+
+/* Printing: only the board, on a page laid out sideways. */
+#print { display: none; }
+@media print {
+  @page { size: landscape; margin: 0.4in; }
+  html, body { height: auto; overflow: visible; background: #fff !important; }
+  body::before, body > *:not(#print) { display: none !important; }
+  #print { display: block; color: #111; }
+  #print h1 { margin: 0 0 10px; font: 500 20pt/1.2 var(--read); text-align: center; }
+  #print h1:empty { display: none; }
+  #print svg { display: block; width: 100%; height: auto; max-height: 6.9in; }
+  #print.color svg { border-radius: 10px; }
+  #print.line svg { border: 1.5pt solid #222; }
+}
+
 .ghost { position: fixed; z-index: 50; pointer-events: none; width: 96px; height: 112px; transform: translate(-50%, -60%) scale(1.15); filter: drop-shadow(0 8px 14px rgba(0, 0, 0, 0.3)); }
 .ghost svg { width: 100%; height: 100%; }
 </style>
@@ -146,10 +222,17 @@ body::before { content: ""; position: fixed; inset: 0 0 auto; height: env(safe-a
 
 <main class="sb" id="sb">
   <div class="sb-head">
-    <h1>Story Board</h1>
+    <button class="tbtn" type="button" id="boards" aria-haspopup="dialog"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M3 7a2 2 0 0 1 2-2h4l2 2h8a2 2 0 0 1 2 2v8a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2Z"/></svg><span class="lbl">My boards</span></button>
+    <h1><button type="button" id="doc-name" title="Rename this board">Story Board</button></h1>
     <button class="tbtn" type="button" id="undo" disabled aria-label="Undo"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M9 14 4 9l5-5"/><path d="M4 9h10a6 6 0 0 1 0 12h-3"/></svg><span class="lbl">Undo</span></button>
-    <button class="tbtn" type="button" id="clear" aria-label="Clear the board"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M4 7h16M10 11v6M14 11v6M6 7l1 13h10l1-13M9 7V4h6v3"/></svg><span class="lbl">Clear</span></button>
-    <button class="tbtn" type="button" id="picture" aria-label="Save a picture"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="5" width="18" height="14" rx="2"/><circle cx="9" cy="10" r="2"/><path d="m21 16-5-5-9 8"/></svg><span class="lbl">Picture</span></button>
+    <button class="tbtn" type="button" id="share" aria-label="Share a picture"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 15V3M8 7l4-4 4 4"/><path d="M5 12v7a2 2 0 0 0 2 2h10a2 2 0 0 0 2-2v-7"/></svg><span class="lbl">Share</span></button>
+    <span class="menu-wrap">
+      <button class="tbtn" type="button" id="print-btn" aria-haspopup="menu" aria-expanded="false" aria-controls="print-menu" aria-label="Print"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M7 9V3h10v6"/><rect x="3" y="9" width="18" height="8" rx="2"/><path d="M7 14h10v7H7Z"/></svg><span class="lbl">Print</span></button>
+      <div class="pmenu" id="print-menu" role="menu" hidden>
+        <button type="button" role="menuitem" id="print-color"><i class="sw color"></i><span><b>Full colour</b><small>The scene as you see it</small></span></button>
+        <button type="button" role="menuitem" id="print-line"><i class="sw line"></i><span><b>Colouring page</b><small>Black-and-white line art</small></span></button>
+      </div>
+    </span>
     <button class="tbtn" type="button" id="present" aria-label="Full screen"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M4 9V4h5M20 9V4h-5M4 15v5h5M20 15v5h-5"/></svg><span class="lbl">Full screen</span></button>
   </div>
   <div class="sb-body">
@@ -193,7 +276,33 @@ body::before { content: ""; position: fixed; inset: 0 0 auto; height: env(safe-a
   <p class="sr" id="live" aria-live="polite"></p>
 </main>
 
-<script src="storyboard-art.js?v=1"></script>
-<script src="storyboard.js?v=1"></script>
+<dialog class="lib" id="lib" aria-labelledby="lib-title">
+  <div class="lib-head">
+    <h2 id="lib-title">My boards</h2>
+    <button class="x" type="button" id="lib-close" aria-label="Close"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M6 6l12 12M18 6 6 18"/></svg></button>
+  </div>
+  <p class="lib-status" id="lib-status"></p>
+  <div class="lib-bar">
+    <button class="tbtn primary" type="button" id="lib-new"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round"><path d="M12 5v14M5 12h14"/></svg>New board</button>
+    <button class="tbtn" type="button" id="lib-folder"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M3 7a2 2 0 0 1 2-2h4l2 2h8a2 2 0 0 1 2 2v8a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2Z"/><path d="M12 11v5M9.5 13.5h5"/></svg>New folder</button>
+    <button class="tbtn" type="button" id="lib-clear"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M4 7h16M10 11v6M14 11v6M6 7l1 13h10l1-13M9 7V4h6v3"/></svg>Clear this board</button>
+  </div>
+  <div class="lib-list" id="lib-list"></div>
+</dialog>
+
+<dialog class="ask" id="ask" aria-labelledby="ask-title">
+  <form id="ask-form" method="dialog">
+    <h2 id="ask-title"></h2>
+    <label class="row" id="ask-name-row"><span id="ask-label">Name</span><input type="text" id="ask-name" maxlength="120" autocomplete="off" required></label>
+    <label class="row" id="ask-folder-row"><span>Folder</span><select id="ask-folder"></select></label>
+    <div class="ask-btns"><button type="button" class="tbtn" id="ask-cancel">Cancel</button><button type="submit" class="tbtn primary" id="ask-ok">Save</button></div>
+  </form>
+</dialog>
+
+<div id="print" aria-hidden="true"></div>
+
+<script src="config.js?v=31"></script>
+<script src="storyboard-art.js?v=2"></script>
+<script src="storyboard.js?v=2"></script>
 </body>
 </html>

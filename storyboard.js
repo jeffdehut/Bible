@@ -21,12 +21,54 @@
     defs.append(s);
   }
 
-  /* ---------- The board's state ---------- */
-  let board = load() || { bg: "hills", items: [] };
+  /* ---------- The boards: each a saved document, in folders ---------- */
+  // lib: { docs: {id: {id, name, folder, data: {bg, items}, t, del?}}, cur: the board open,
+  //        folders: [names], foldersT, foldersDirty, dirty: {id: true} not yet sent to the
+  //        account, pulled: the server time of the newest change fetched, user: whose account }
+  const DOCS = "sb.docs.v1";
+  const rid = () => (crypto.randomUUID ? crypto.randomUUID().replace(/-/g, "").slice(0, 20) : Math.random().toString(36).slice(2, 12) + Date.now().toString(36));
+  const blank = () => ({ bg: "hills", items: [] });
+  const newDoc = (name, folder = "", data = null) => ({ id: rid(), name, folder, data: data || blank(), t: Date.now() });
+  const cleanData = d => ({ bg: sceneById[d && d.bg] ? d.bg : "hills", items: ((d && d.items) || []).filter(i => byId[i.a]) });
+  const untitled = () => t("Untitled board");
+  let lib = (() => {
+    try { const l = JSON.parse(localStorage.getItem(DOCS)); if (l && l.docs) return { folders: [], dirty: {}, ...l }; } catch (e) { /* none yet */ }
+    const l = { docs: {}, folders: [], foldersT: 0, dirty: {}, pulled: null };
+    let old = null;
+    try { old = JSON.parse(localStorage.getItem(KEY)); } catch (e) { /* none */ }
+    const d = newDoc(t("My first board"), "", old && Array.isArray(old.items) ? cleanData(old) : null);
+    l.docs[d.id] = d; l.cur = d.id; l.dirty[d.id] = true;
+    return l;
+  })();
+  function persist() { try { localStorage.setItem(DOCS, JSON.stringify(lib)); } catch (e) { /* storage full or blocked */ } }
+  const live = () => Object.values(lib.docs).filter(d => !d.del);
+  function firstDoc() {
+    const d = live().sort((a, b) => b.t - a.t)[0];
+    if (d) return d;
+    const n = newDoc(untitled()); lib.docs[n.id] = n; lib.dirty[n.id] = true; return n;
+  }
+  let doc = lib.docs[lib.cur] && !lib.docs[lib.cur].del ? lib.docs[lib.cur] : firstDoc();
+  lib.cur = doc.id;
+  let board = cleanData(doc.data);
   let sel = null, uid = board.items.reduce((m, i) => Math.max(m, i.k), 0);
   const past = [];
-  function load() { try { const b = JSON.parse(localStorage.getItem(KEY)); return b && Array.isArray(b.items) ? { bg: b.bg, items: b.items.filter(i => byId[i.a]) } : null; } catch (e) { return null; } }
-  function save() { try { localStorage.setItem(KEY, JSON.stringify(board)); } catch (e) { /* storage full or blocked */ } }
+  function save() {
+    doc.data = board; doc.t = Date.now(); lib.dirty[doc.id] = true;
+    persist(); Sync.soon();
+  }
+  function touch(d) { d.t = Date.now(); lib.dirty[d.id] = true; persist(); Sync.soon(); }
+  function openDoc(id, quiet) {
+    const d = lib.docs[id];
+    doc = d && !d.del ? d : firstDoc();
+    lib.cur = doc.id; persist();
+    board = cleanData(doc.data);
+    uid = board.items.reduce((m, i) => Math.max(m, i.k), 0);
+    past.length = 0; $("undo").disabled = true; sel = null;
+    itemsG.textContent = "";
+    render(); showName();
+    if (!quiet) say(t("Opened: ") + doc.name);
+  }
+  function showName() { $("doc-name").textContent = doc.name || untitled(); document.title = (doc.name || untitled()) + " · " + t("Story Board"); }
   function remember() { past.push(JSON.stringify(board)); if (past.length > 60) past.shift(); $("undo").disabled = false; }
   function undo() {
     if (!past.length) return;
@@ -380,11 +422,11 @@
 
   /* ---------- The bar's buttons ---------- */
   $("undo").onclick = undo;
-  $("clear").onclick = () => {
+  function clearBoard() {
     if (!board.items.length) return;
     if (!confirm(t("Take every piece off the board?"))) return;
     remember(); board.items = []; sel = null; render(); save(); say(t("The board is clear"));
-  };
+  }
   $("present").onclick = () => {
     const sb = $("sb");
     if (document.fullscreenElement) document.exitFullscreen?.();
@@ -392,32 +434,302 @@
     else if (sb.webkitRequestFullscreen) sb.webkitRequestFullscreen();
   };
   if (!document.fullscreenEnabled && !document.webkitFullscreenEnabled) $("present").hidden = true;
-  // A picture of the board, as it is, without the selection.
-  $("picture").onclick = () => {
-    const s = sel; pick(null);
-    const clone = stage.cloneNode(true);
-    clone.setAttribute("width", W); clone.setAttribute("height", H);
-    clone.querySelector("#sel")?.remove();
-    const src = new XMLSerializer().serializeToString(clone);
-    const img = new Image();
-    img.onload = () => {
-      const c = document.createElement("canvas"); c.width = W; c.height = H;
-      c.getContext("2d").drawImage(img, 0, 0, W, H);
-      c.toBlob(blob => {
-        if (!blob) return;
-        const a = document.createElement("a");
-        a.href = URL.createObjectURL(blob); a.download = "story-board.png";
-        document.body.append(a); a.click(); a.remove();
-        setTimeout(() => URL.revokeObjectURL(a.href), 4000);
-        say(t("Picture saved"));
-      }, "image/png");
-      if (s) pick(s, false);
-    };
-    img.src = "data:image/svg+xml;charset=utf-8," + encodeURIComponent(src);
-  };
   document.addEventListener("keydown", e => {
-    if ((e.metaKey || e.ctrlKey) && e.key.toLowerCase() === "z") { e.preventDefault(); undo(); }
+    if ((e.metaKey || e.ctrlKey) && e.key.toLowerCase() === "z" && !e.target.closest("input, dialog")) { e.preventDefault(); undo(); }
   });
 
-  renderTabs(); renderTray(); openDrawer(true); render();
+  /* ---------- The board as a picture: to share, and to print ---------- */
+  // The whole board as SVG, with each piece drawn in full (no <use>), so it can become a PNG or
+  // be printed. "line": black outlines on white, for colouring; a piece may bring its own line
+  // art (p.line), otherwise every shape is outlined.
+  const esc = s => String(s).replace(/[&<>"]/g, c => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" }[c]));
+  function boardSVG(mode) {
+    const line = mode === "line";
+    const sc = sceneById[board.bg] || ART.scenes[0];
+    const pieces = board.items.map(it => {
+      const p = byId[it.a];
+      return `<g transform="${xf(it)}"${line ? "" : ' filter="url(#felt)"'}><g transform="translate(${-p.w / 2} ${-p.h / 2})">${line && p.line ? `<g class="own">${p.line}</g>` : p.svg}</g></g>`;
+    }).join("");
+    const style = line ? `<style>:not(.own, .own *){fill:#fff!important;stroke:#1d1d1d!important;stroke-width:2.4px!important;stroke-linejoin:round;stroke-linecap:round;opacity:1!important;fill-opacity:1!important;stroke-opacity:1!important;stroke-dasharray:none!important;vector-effect:non-scaling-stroke}:not(.own *)[fill="none"]{fill:none!important}</style>` : "";
+    const filters = line ? "" : $("felt").outerHTML + $("feltbg").outerHTML;
+    return `<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 ${W} ${H}" width="${W}" height="${H}">${style}<defs>${filters}</defs>` +
+      `<g${line ? "" : ' filter="url(#feltbg)"'}>${sc.svg}</g>${pieces}</svg>`;
+  }
+  function boardPNG(mode = "color") {
+    return new Promise((resolve, reject) => {
+      const img = new Image();
+      img.onload = () => {
+        const c = document.createElement("canvas"); c.width = W; c.height = H;
+        const g = c.getContext("2d"); g.fillStyle = "#fff"; g.fillRect(0, 0, W, H); g.drawImage(img, 0, 0, W, H);
+        c.toBlob(b => (b ? resolve(b) : reject(new Error("no picture"))), "image/png");
+      };
+      img.onerror = reject;
+      img.src = "data:image/svg+xml;charset=utf-8," + encodeURIComponent(boardSVG(mode));
+    });
+  }
+  const fileName = () => (doc.name || "story-board").replace(/[\\/:*?"<>|]+/g, "").trim().slice(0, 60) || "story-board";
+  // Share: the device's own share sheet where it can take a picture (phones, tablets, some
+  // desktops); otherwise the picture is saved.
+  $("share").onclick = async () => {
+    let blob;
+    try { blob = await boardPNG(); } catch (e) { say(t("The picture couldn't be made")); return; }
+    const file = new File([blob], fileName() + ".png", { type: "image/png" });
+    if (navigator.canShare && navigator.canShare({ files: [file] })) {
+      try { await navigator.share({ files: [file], title: doc.name || t("Story Board") }); return; }
+      catch (e) { if (e.name === "AbortError") return; }
+    }
+    const a = document.createElement("a");
+    a.href = URL.createObjectURL(blob); a.download = file.name;
+    document.body.append(a); a.click(); a.remove();
+    setTimeout(() => URL.revokeObjectURL(a.href), 4000);
+    say(t("Picture saved"));
+  };
+  // Print: in full colour, or as line art to colour in. The page is laid out sideways, with the
+  // board's name above it.
+  function printBoard(mode) {
+    closeMenus();
+    const box = $("print");
+    box.innerHTML = `<h1>${esc(doc.name || "")}</h1>` + boardSVG(mode);
+    box.className = mode === "line" ? "line" : "color";
+    const done = () => { box.innerHTML = ""; window.removeEventListener("afterprint", done); };
+    window.addEventListener("afterprint", done);
+    setTimeout(() => window.print(), 60);
+  }
+  function closeMenus() { $("print-menu").hidden = true; $("print-btn").setAttribute("aria-expanded", "false"); }
+  $("print-btn").onclick = e => {
+    e.stopPropagation();
+    const m = $("print-menu"), open = m.hidden;
+    m.hidden = !open; $("print-btn").setAttribute("aria-expanded", String(open));
+    if (open) m.querySelector("button").focus();
+  };
+  $("print-color").onclick = () => printBoard("color");
+  $("print-line").onclick = () => printBoard("line");
+  document.addEventListener("click", e => { if (!e.target.closest("#print-menu")) closeMenus(); });
+  document.addEventListener("keydown", e => { if (e.key === "Escape" && !$("print-menu").hidden) { closeMenus(); $("print-btn").focus(); } });
+
+  /* ---------- Syncing with the account ---------- */
+  // The same sign-in as the reader's (account.js keeps it in "pe.account"). Boards are sent a few
+  // seconds after a change and fetched when the page opens or comes back into view; the newer
+  // copy of each board wins. Without an account, or before the account service has the boards
+  // table, everything stays on this device.
+  const Sync = (() => {
+    const C = (window.SITE_CONFIG || {}).supabase || {}, BASE = (C.url || "").replace(/\/+$/, "");
+    const acct = () => { try { return JSON.parse(localStorage.getItem("pe.account")) || {}; } catch (e) { return {}; } };
+    let state = "off", timer = null, running = false, again = false;
+    async function token() {
+      const s = acct().session;
+      if (!s) return null;
+      if (s.expires_at - 60 > Date.now() / 1000) return s.access_token;
+      const res = await fetch(BASE + "/auth/v1/token?grant_type=refresh_token", { method: "POST", headers: { apikey: C.key, "Content-Type": "application/json" }, body: JSON.stringify({ refresh_token: s.refresh_token }) });
+      if (!res.ok) return null;
+      const j = await res.json(), a = acct();
+      a.session = { access_token: j.access_token, refresh_token: j.refresh_token, expires_at: j.expires_at || Math.floor(Date.now() / 1000) + (+j.expires_in || 3600), user: s.user };
+      try { localStorage.setItem("pe.account", JSON.stringify(a)); } catch (e) { /* storage */ }
+      return j.access_token;
+    }
+    async function call(path, method = "GET", body) {
+      const tk = await token();
+      if (!tk) throw Object.assign(new Error("signed out"), { out: true });
+      const res = await fetch(BASE + path, { method, headers: { apikey: C.key, Authorization: "Bearer " + tk, ...(body ? { "Content-Type": "application/json" } : {}) }, body: body ? JSON.stringify(body) : undefined });
+      if (!res.ok) throw Object.assign(new Error("HTTP " + res.status), { status: res.status });
+      const txt = await res.text();
+      return txt ? JSON.parse(txt) : null;
+    }
+    function soon() { clearTimeout(timer); timer = setTimeout(run, 2500); }
+    async function run() {
+      const who = acct().session;
+      if (!BASE || !who) { state = "off"; changed(); return; }
+      if (running) { again = true; return; }
+      running = true; state = "busy"; changed();
+      // Another account than last time: start over, and add this device's boards to it.
+      if (lib.user !== who.user.id) { lib.user = who.user.id; lib.pulled = null; for (const d of Object.values(lib.docs)) lib.dirty[d.id] = true; lib.foldersDirty = true; }
+      try {
+        let cur = false, any = false;
+        const since = lib.pulled ? "&synced_at=gt." + encodeURIComponent(lib.pulled) : "";
+        const rows = await call("/rest/v1/boards?select=id,name,folder,data,updated_at,deleted,synced_at&order=synced_at.asc" + since);
+        for (const r of rows || []) {
+          const mine = lib.docs[r.id];
+          if (!mine || r.updated_at > mine.t) {
+            lib.docs[r.id] = { id: r.id, name: r.name, folder: r.folder, data: r.data || blank(), t: r.updated_at, ...(r.deleted ? { del: true } : {}) };
+            delete lib.dirty[r.id]; any = true; if (r.id === doc.id) cur = true;
+          } else if (r.updated_at === mine.t) delete lib.dirty[r.id];
+          lib.pulled = r.synced_at;
+        }
+        for (const id of Object.keys(lib.dirty)) {
+          const d = lib.docs[id];
+          if (!d) { delete lib.dirty[id]; continue; }
+          const sent = d.t;
+          await call("/rest/v1/rpc/push_board", "POST", { id: d.id, name: d.name || "", folder: d.folder || "", data: d.del ? null : d.data, updated_at: d.t, deleted: !!d.del });
+          if (lib.docs[id] && lib.docs[id].t === sent) delete lib.dirty[id];
+        }
+        const fr = await call("/rest/v1/prefs?select=value,updated_at&key=eq.board_folders");
+        const theirs = fr && fr[0];
+        if (theirs && theirs.updated_at > (lib.foldersT || 0)) { lib.folders = Array.isArray(theirs.value) ? theirs.value : []; lib.foldersT = theirs.updated_at; lib.foldersDirty = false; any = true; }
+        else if (lib.foldersDirty || (!theirs && lib.folders.length)) {
+          await call("/rest/v1/rpc/push_pref", "POST", { key: "board_folders", value: lib.folders, updated_at: lib.foldersT || Date.now() });
+          lib.foldersDirty = false;
+        }
+        state = "on"; lib.last = Date.now(); persist();
+        if (cur) openDoc(doc.id, true);
+        else if (any && doc.del) openDoc(null, true);
+        if (any) Library.refresh();
+      } catch (e) {
+        state = e.out ? "off" : e.status === 404 ? "waiting" : "error";
+      }
+      running = false; persist(); changed();
+      if (again) { again = false; soon(); }
+    }
+    const listeners = [];
+    function changed() { listeners.forEach(f => f(state)); }
+    document.addEventListener("visibilitychange", () => { if (document.visibilityState === "visible") run(); });
+    window.addEventListener("online", run);
+    return { soon, run, get state() { return state; }, email: () => (acct().session || {}).user?.email || "", on: f => listeners.push(f) };
+  })();
+
+  /* ---------- My boards: the library ---------- */
+  const DEFAULT = "";
+  const folderName = f => f || t("My boards");
+  function setFolders(list) { lib.folders = [...new Set(list.filter(Boolean))]; lib.foldersT = Date.now(); lib.foldersDirty = true; persist(); Sync.soon(); }
+  function allFolders() { return [DEFAULT, ...new Set([...lib.folders, ...live().map(d => d.folder).filter(Boolean)])]; }
+  // A small form: a name, and (for moving or a new board) a folder.
+  function ask({ title, value = "", label = t("Name"), folder = null, ok = t("Save") }) {
+    return new Promise(resolve => {
+      const dlg = $("ask");
+      $("ask-title").textContent = title;
+      $("ask-label").textContent = label;
+      const inp = $("ask-name"); inp.value = value;
+      $("ask-name-row").hidden = value === null;
+      const selRow = $("ask-folder-row"), selEl = $("ask-folder");
+      selRow.hidden = folder === null;
+      if (folder !== null) {
+        selEl.replaceChildren(...allFolders().map(f => Object.assign(document.createElement("option"), { value: f, textContent: folderName(f), selected: f === folder })));
+        selEl.append(Object.assign(document.createElement("option"), { value: "\u0000new", textContent: t("New folder…") }));
+      }
+      $("ask-ok").textContent = ok;
+      const done = v => { dlg.close(); dlg.onclose = null; resolve(v); };
+      $("ask-form").onsubmit = async e => {
+        e.preventDefault();
+        let f = folder === null ? null : selEl.value;
+        if (f === "\u0000new") {
+          dlg.close();
+          const nf = await ask({ title: t("New folder"), label: t("Folder name"), ok: t("Make folder") });
+          if (!nf || !nf.name) { resolve(null); return; }
+          setFolders([...lib.folders, nf.name]); f = nf.name;
+        }
+        done({ name: value === null ? null : inp.value.trim().slice(0, 120), folder: f });
+      };
+      $("ask-cancel").onclick = () => done(null);
+      dlg.onclose = () => resolve(null);
+      dlg.showModal();
+      if (value !== null) { inp.focus(); inp.select(); }
+    });
+  }
+  const Library = (() => {
+    const dlg = $("lib");
+    let openMore = null;
+    function preview(d) {
+      const data = cleanData(d.data), sc = sceneById[data.bg] || ART.scenes[0];
+      return `<svg viewBox="0 0 ${W} ${H}" aria-hidden="true">${sc.svg}${data.items.map(it => { const p = byId[it.a]; return `<use href="#a-${p.id}" x="${-p.w / 2}" y="${-p.h / 2}" width="${p.w}" height="${p.h}" transform="${xf(it)}"/>`; }).join("")}</svg>`;
+    }
+    const when = ms => { try { return new Date(ms).toLocaleDateString(document.documentElement.lang || undefined, { month: "short", day: "numeric", year: "numeric" }); } catch (e) { return ""; } };
+    function status() {
+      const s = Sync.state, el = $("lib-status");
+      el.textContent = "";
+      if (s === "on" || s === "busy") el.append(s === "busy" ? t("Syncing…") : t("Synced with your account") + (Sync.email() ? " (" + Sync.email() + ")" : ""));
+      else if (s === "waiting") el.append(t("Saved on this device. Syncing with your account starts soon."));
+      else if (s === "error") el.append(t("Saved on this device. Your account couldn't be reached just now; it will sync later."));
+      else {
+        el.append(t("Saved on this device. "));
+        const a = Object.assign(document.createElement("a"), { href: "index.html#open=account", textContent: t("Sign in to keep your boards on every device.") });
+        el.append(a);
+      }
+      el.dataset.s = s;
+    }
+    function refresh() {
+      if (!dlg.open) return;
+      status();
+      const box = $("lib-list"); box.textContent = "";
+      for (const f of allFolders()) {
+        const docs = live().filter(d => (d.folder || "") === f).sort((a, b) => b.t - a.t);
+        const sec = document.createElement("section"); sec.className = "lib-folder";
+        const h = document.createElement("h3");
+        h.innerHTML = `<i><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="M3 7a2 2 0 0 1 2-2h4l2 2h8a2 2 0 0 1 2 2v8a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2Z"/></svg></i><span></span><small></small>`;
+        h.querySelector("span").textContent = folderName(f);
+        h.querySelector("small").textContent = String(docs.length);
+        if (f) {
+          const more = document.createElement("span"); more.className = "lib-factions";
+          more.append(btn(t("Rename"), async () => {
+            const r = await ask({ title: t("Rename folder"), value: f, label: t("Folder name") });
+            if (!r || !r.name || r.name === f) return;
+            for (const d of live().filter(d => d.folder === f)) { d.folder = r.name; touch(d); }
+            setFolders(lib.folders.map(x => (x === f ? r.name : x))); refresh();
+          }), btn(t("Delete folder"), () => {
+            if (docs.length && !confirm(t("Delete this folder? Its boards move to My boards."))) return;
+            for (const d of docs) { d.folder = ""; touch(d); }
+            setFolders(lib.folders.filter(x => x !== f)); refresh();
+          }));
+          h.append(more);
+        }
+        sec.append(h);
+        const ul = document.createElement("ul"); ul.className = "lib-grid";
+        if (!docs.length) { const li = document.createElement("li"); li.className = "lib-empty"; li.textContent = t("No boards in this folder yet."); ul.append(li); }
+        for (const d of docs) {
+          const li = document.createElement("li"); li.className = "lib-card" + (d.id === doc.id ? " cur" : "");
+          const open = document.createElement("button");
+          open.type = "button"; open.className = "lib-open";
+          open.innerHTML = preview(d) + "<b></b><small></small>";
+          open.querySelector("b").textContent = d.name || untitled();
+          open.querySelector("small").textContent = (d.id === doc.id ? t("Open now") + " · " : "") + when(d.t);
+          open.onclick = () => { openDoc(d.id); dlg.close(); };
+          const more = document.createElement("button");
+          more.type = "button"; more.className = "lib-more"; more.setAttribute("aria-label", t("More for ") + (d.name || untitled()));
+          more.setAttribute("aria-expanded", String(openMore === d.id));
+          more.innerHTML = '<svg viewBox="0 0 24 24" fill="currentColor"><circle cx="5" cy="12" r="2"/><circle cx="12" cy="12" r="2"/><circle cx="19" cy="12" r="2"/></svg>';
+          more.onclick = () => { openMore = openMore === d.id ? null : d.id; refresh(); };
+          li.append(open, more);
+          if (openMore === d.id) {
+            const acts = document.createElement("div"); acts.className = "lib-actions";
+            acts.append(
+              btn(t("Rename"), async () => { const r = await ask({ title: t("Rename board"), value: d.name }); if (r && r.name) { d.name = r.name; touch(d); if (d === doc) showName(); refresh(); } }),
+              btn(t("Move"), async () => { const r = await ask({ title: t("Move to a folder"), value: null, folder: d.folder || "", ok: t("Move") }); if (r && r.folder !== null && r.folder !== d.folder) { d.folder = r.folder; touch(d); refresh(); } }),
+              btn(t("Duplicate"), () => { const c = newDoc((d.name || untitled()) + " " + t("(copy)"), d.folder, JSON.parse(JSON.stringify(cleanData(d.data)))); lib.docs[c.id] = c; touch(c); openMore = null; refresh(); }),
+              btn(t("Delete"), () => {
+                if (!confirm(t("Delete this board? This can't be undone."))) return;
+                d.del = true; d.data = null; touch(d); openMore = null;
+                if (d === doc) openDoc(null, true);
+                refresh();
+              }, "danger"));
+            li.append(acts);
+          }
+          ul.append(li);
+        }
+        sec.append(ul);
+        box.append(sec);
+      }
+    }
+    function btn(label, fn, cls) { const b = document.createElement("button"); b.type = "button"; b.textContent = label; if (cls) b.className = cls; b.onclick = fn; return b; }
+    $("boards").onclick = () => { openMore = null; dlg.showModal(); refresh(); Sync.run(); };
+    $("lib-close").onclick = () => dlg.close();
+    dlg.addEventListener("click", e => { if (e.target === dlg) dlg.close(); });
+    $("lib-new").onclick = async () => {
+      const r = await ask({ title: t("New board"), value: untitled(), folder: doc.folder || "", ok: t("Make board") });
+      if (!r) return;
+      const d = newDoc(r.name || untitled(), r.folder || "");
+      lib.docs[d.id] = d; touch(d); openDoc(d.id); dlg.close();
+    };
+    $("lib-folder").onclick = async () => {
+      const r = await ask({ title: t("New folder"), label: t("Folder name"), ok: t("Make folder") });
+      if (r && r.name) { setFolders([...lib.folders, r.name]); refresh(); }
+    };
+    $("lib-clear").onclick = () => { dlg.close(); clearBoard(); };
+    Sync.on(() => { if (dlg.open) status(); });
+    return { refresh };
+  })();
+  $("doc-name").onclick = async () => {
+    const r = await ask({ title: t("Rename board"), value: doc.name });
+    if (r && r.name) { doc.name = r.name; touch(doc); showName(); }
+  };
+
+  renderTabs(); renderTray(); openDrawer(true); render(); showName(); persist();
+  Sync.run();
 })();
