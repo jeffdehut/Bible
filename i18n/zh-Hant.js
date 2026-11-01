@@ -2402,5 +2402,8 @@ I18N.add({
  "Orange": "橙色",
  "Yellow": "黃色",
  "Indigo": "靛藍",
- "Violet": "紫色"
+ "Violet": "紫色",
+ "Cross references": "串珠經文",
+ "Three year course": "三年課程",
+ "Every cross reference in the Bible as an arc": "聖經中每一處串珠經文，以弧線呈現"
 });
