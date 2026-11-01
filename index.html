@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
 <meta charset="utf-8">
-<script src="i18n.js?v=42"></script>
+<script src="i18n.js?v=43"></script>
 <script src="ui.js?v=3"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
 <title>BibleData.org</title>
@@ -274,6 +274,14 @@ body.panel-open .auto { display: none; }
 .auto-speed { font: 600 12px/1 var(--sans); color: var(--muted); min-width: 52px; text-align: center; }
 .auto:not(.on) .auto-btn, .auto:not(.on) .auto-speed { display: none; }
 .lang-note { margin: 6px 0 0; font: 400 13px/1.4 var(--sans); color: var(--muted); }
+.chap.par .pair { margin: 0 0 1.05em; }
+.chap.par .pair > p { margin: 0; }
+.chap.par .par-sec { margin: 0.2em 0 0; font-size: 0.88em; line-height: 1.65; color: var(--muted); white-space: pre-line; cursor: pointer; }
+.chap.par .par-sec:lang(zh), .chap.par .par-sec:lang(zh-Hant) { font-size: 0.92em; letter-spacing: 0.02em; }
+.chap.par.poetry .pair { margin-bottom: 1.2em; }
+.ver-two-h { margin: 4px 0 4px; font: 600 15px/1.3 var(--sans); }
+#ver-two + .ver-two-h { margin-top: 18px; }
+#ver-two { margin: 6px 0 4px; }
 .ver-notice { margin: 14px 0 0; font: 400 12px/1.45 var(--sans); color: var(--faint); }
 .ver-notice a { color: var(--muted); font-weight: 600; }
 .plan-bar { display: flex; align-items: center; gap: 10px; flex-wrap: wrap; background: var(--gold-soft); border-radius: 12px; padding: 10px 12px; margin: 0 0 18px; font: 500 14px/1.35 var(--sans); }
@@ -1130,6 +1138,10 @@ if (/(^#|&)(access_token|error)=/.test(location.hash)) {
 <section class="ui-sheet sheet dialog" id="versions" hidden aria-labelledby="versions-title">
   <div class="grab"></div>
   <div class="sheet-head"><h2 id="versions-title">Versions</h2><button class="btn" type="button" data-close aria-label="Close"><svg class="icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M6 6l12 12M18 6 6 18"/></svg></button></div>
+  <h3 class="ver-two-h">Two versions, verse by verse</h3>
+  <p class="hint" style="margin-top:0">Each verse, with the same verse in a second version under it. Choose the first version below.</p>
+  <div class="seg" role="radiogroup" aria-label="Second version" id="ver-two"></div>
+  <h3 class="ver-two-h">Version</h3>
   <ul class="ver-list" id="ver-list"></ul>
   <p class="hint">Your highlights, notes and bookmarks on whole verses show in every version. Highlights and notes on some of a verse's words, and your markings, are kept with our own translation's wording.</p>
 </section>
@@ -1377,21 +1389,39 @@ const psName = b => (b.osis === "Ps" && L.en ? "Psalm" : b.n);
 let VERSIONS = [], VER = store.get("ver." + LANG, "ours");
 const verOf = id => VERSIONS.find(v => v.id === id);
 const ourName = () => L.en ? "Plain English" : "淺白譯本";
-const verShort = () => VER === "ours" ? ourName() : (verOf(VER)?.short || VER);
+const shortOf = id => id === "ours" ? ourName() : (verOf(id)?.short || id);
+// On the button, two versions in brief: our own as 淺白 or Plain.
+const tiny = id => (id === "ours" ? (L.en ? "Plain" : "淺白") : verOf(id)?.ours ? (verOf(id).lang === "en" ? "Plain" : "淺白") : shortOf(id));
+const verShort = () => (VER2 ? tiny(VER) + " · " + tiny(VER2) : shortOf(VER));
+// A second version, shown verse by verse under the first (or null): any two of the versions,
+// in either order.
+let VER2 = store.get("ver2." + LANG, null);
+// A book in the version being read, and in the second version with it. Where the second is our
+// Chinese and has not reached a chapter, the Chinese Union Version stands in.
+function readBook(b) {
+  const main = getBook(b);
+  if (!VER2 || (VER2 !== "ours" && !verOf(VER2))) return main;
+  const two = getBook(b, VER2).catch(() => null);
+  const v2 = VER2 === "ours" ? { ours: true, lang: LANG } : verOf(VER2);
+  const v1 = VER === "ours" ? { ours: true, lang: LANG } : verOf(VER);
+  const zh = x => x && x.ours && x.lang === "zh-Hant";
+  const stand = (zh(v2) || zh(v1)) && verOf("cuv") ? getBook(b, "cuv").catch(() => null) : null;
+  return Promise.all([main, two, stand]).then(([d, d2, cuv]) => (d2 ? { ...d, par: { ver: VER2, data: d2, cuv } } : d));
+}
 const merged = new Map();
 // A book in the version being read: our book file with the version's wording in place of ours.
-function getBook(b) {
-  if (VER === "ours" || !verOf(VER)) return getJSON(textPath(b));
-  const key = VER + "/" + b.slug;
-  const v = verOf(VER);
+function getBook(b, ver = VER) {
+  if (ver === "ours" || !verOf(ver)) return getJSON(textPath(b));
+  const key = ver + "/" + b.slug;
+  const v = verOf(ver);
   if (v.ours) {
-    if (!merged.has(key)) merged.set(key, getJSON(textPathIn(b, v.lang)).then(book => ({ ...book, ver: VER, chapters: book.chapters.map(ch => ({ ...ch, ver: VER })) }))
+    if (!merged.has(key)) merged.set(key, getJSON(textPathIn(b, v.lang)).then(book => ({ ...book, ver: ver, chapters: book.chapters.map(ch => ({ ...ch, ver: ver })) }))
       .catch(e => { merged.delete(key); throw e; }));
     return merged.get(key);
   }
-  if (!merged.has(key)) merged.set(key, Promise.all([getJSON(textPath(b)), getJSON(`versions/${VER}/${b.slug}.json`)]).then(([base, ver]) => {
+  if (!merged.has(key)) merged.set(key, Promise.all([getJSON(textPath(b)), getJSON(`versions/${ver}/${b.slug}.json`)]).then(([base, ver]) => {
     const theirs = new Map(ver.chapters.map(ch => [+ch.c, ch.v]));
-    return { ...base, ver: VER, chapters: base.chapters.map(ch => {
+    return { ...base, ver: ver, chapters: base.chapters.map(ch => {
       const rows = theirs.get(+ch.c) || [];
       const byV = new Map(rows.filter(r => !(r[2] && r[2].x)).map(r => [r[0], r]));
       const out = [];
@@ -1410,7 +1440,7 @@ function getBook(b) {
         const at = out.findIndex(r => r[0] > t[0]);
         out.splice(at < 0 ? out.length : at, 0, [t[0], t[1], "", { ...t[2] }]);
       }
-      return { c: ch.c, s: "", n: {}, v: out, ver: VER };
+      return { c: ch.c, s: "", n: {}, v: out, ver: ver };
     }) };
   }).catch(e => { merged.delete(key); throw e; }));
   return merged.get(key);
@@ -1568,6 +1598,19 @@ function guide(b, c) {
   a.innerHTML = `<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">${g[2]}</svg>` + g[1];
   return a;
 }
+// The second version's verses for a chapter: {rows, lang, name}, or null.
+function parallelOf(b, c, par, first) {
+  let ch = par.data.chapters[c - 1], ver = par.ver;
+  // Our Chinese not yet here: the Union Version in its place, under the verses (and so too when
+  // the first version is our Chinese shown in English, and the second our English).
+  const same = ch && first && ch.v[0] && first.v[0] && ch.v[0][1] === first.v[0][1];
+  if (ch && (untranslated(b, ch) || same) && par.cuv) { ch = par.cuv.chapters[c - 1]; ver = "cuv"; }
+  if (!ch) return null;
+  const v = ver === "ours" ? null : verOf(ver);
+  const lang = ver === "ours" ? (untranslated(b, ch) ? "en" : LANG) : v?.ours ? (untranslated(b, ch) ? "en" : v.lang) : v?.lang || "en";
+  const name = ver === "ours" ? (L.en ? "Open Plain English Translation" : "淺白中文譯本") : v ? (v.ours ? (v.lang === "en" ? "Open Plain English Translation" : "淺白中文譯本") : v.name) : ver;
+  return { rows: ch.v, lang, name: ver === "cuv" && par.ver !== "cuv" ? name + " " + L.t("(our Chinese has not reached this chapter yet)") : name };
+}
 function buildChapter(b, c, data) {
   const chapter = data.chapters[c - 1];
   // Notes are lettered in order of first use.
@@ -1579,6 +1622,9 @@ function buildChapter(b, c, data) {
   // The verses keep their own wording: the page's translation (i18n.js) leaves them alone.
   const para = () => el("p", { translate: "no", lang: untranslated(b, chapter) ? "en" : chapter.ver ? (verOf(chapter.ver)?.lang || "en") : chapter.l || LANG });
   let p = para();
+  // Two versions: each verse, then the same verse in the second version under it.
+  const par = data.par && parallelOf(b, c, data.par, chapter);
+  if (par) sec.classList.add("par");
   for (const row of chapter.v) {
     const [n, en] = row;
     const lab = verseLabel(b, c, row);
@@ -1593,10 +1639,21 @@ function buildChapter(b, c, data) {
     if (a && a.n) span.classList.add("has-note");
     if (a && a.b) span.classList.add("bm");
     if ((a && a.r) || inEmojiSpan(id)) paintMarksOf(span, a || {}, b, wordingOf(chapter, b));
+    if (par) {
+      const to = (row[3] && row[3].to) || n;
+      const words = par.rows.filter(r => r[0] >= n && r[0] <= to && r[1]).map(r => plainVerse(r[1])).join(" ");
+      p.append(span);
+      const pair = el("div", { class: "pair" }, p,
+        el("p", { class: "par-sec", lang: par.lang, translate: "no", "data-for": id, text: words || "—" }));
+      sec.append(pair);
+      p = para();
+      continue;
+    }
     p.append(span);
     if (row[3] && row[3].p) { sec.append(p); p = para(); }
   }
   if (p.childNodes.length) sec.append(p);
+  if (par) sec.append(el("p", { class: "ver-notice par-note", translate: "no", text: L.t("Under each verse: {name}", { name: par.name }) }));
   // What a version asks to be shown with its words (versions.py, NOTICES): its notice, its
   // name linked to its own site.
   const vv = chapter.ver && verOf(chapter.ver);
@@ -1637,7 +1694,7 @@ async function show(b, c, v, opts = {}) {
   if (typeof listen !== "undefined" && listen.on && !opts.keepListening) listen.stop();
   $("loading").hidden = false;
   let data;
-  try { data = await getBook(b); }
+  try { data = await readBook(b); }
   catch (e) { $("loading").textContent = "This chapter couldn't be loaded. Check your connection and try again."; return; }
   if (token !== showToken) return;
   closeVerse();
@@ -1690,7 +1747,7 @@ async function addAfter() {
   const token = showToken;
   try {
     const [b, c] = last.next;
-    const data = await getBook(b);
+    const data = await readBook(b);
     if (token !== showToken) return;
     const ctx = buildChapter(b, c, data);
     $("text").append(ctx.sec);
@@ -1708,7 +1765,7 @@ async function addBefore() {
   const token = showToken;
   try {
     const [b, c] = first.prev;
-    const data = await getBook(b);
+    const data = await readBook(b);
     if (token !== showToken) return;
     const ctx = buildChapter(b, c, data);
     // Keep the words on screen where they were: measure, add above, and scroll by the difference.
@@ -1795,7 +1852,7 @@ async function fillPlan(token) {
   for (let i = 1; i < list.length; i++) {
     const [b, c] = list[i];
     let data;
-    try { data = await getBook(b); } catch (e) { break; }
+    try { data = await readBook(b); } catch (e) { break; }
     if (token !== showToken) return;
     const ctx = buildChapter(b, c, data);
     $("text").append(ctx.sec);
@@ -3885,12 +3942,30 @@ function openVersions() {
   const head = t => el("li", {}, el("h3", { text: t }));
   $("ver-list").replaceChildren(ours, ...mine.map(v => item(v.id, v.short, v.name, v.license)),
     ...(rest.length ? [head("Other languages"), ...rest.map(v => item(v.id, v.short, v.name, v.license))] : []));
+  // A second version under each verse: none, or any version but the one being read.
+  const chip = (id, label) => el("button", { type: "button", role: "radio", "aria-checked": String((VER2 || null) === id), translate: "no", text: label, onclick: () => setSecond(id) });
+  const all = [["ours", ourName()], ...VERSIONS.map(v => [v.id, v.short])].filter(([id]) => id !== VER);
+  $("ver-two").replaceChildren(chip(null, L.t("None")), ...all.map(([id, label]) => chip(id, label)));
   openSheet("versions");
+}
+// Show a second version under each verse (or none), keeping the place.
+function setSecond(id) {
+  closeSheets();
+  if ((VER2 || null) === id) return;
+  VER2 = id;
+  store.set("ver2." + LANG, VER2);
+  $("ver-label").textContent = verShort();
+  if (!cur) return;
+  let v = null;
+  for (const span of cur.sec.querySelectorAll(".v")) if (span.getBoundingClientRect().bottom > 80) { v = +span.dataset.v; break; }
+  show(cur.b, cur.c, v && v > 1 ? v : null);
+  if (id) toast(L.t("Each verse with the {name} under it", { name: id === "ours" ? (L.en ? "Open Plain English Translation" : "淺白中文譯本") : verOf(id)?.name || id }));
 }
 // Switch versions in place: the same chapter and verse, with no reload.
 function setVersion(id) {
   closeSheets();
   if (id === VER) return;
+  if (id === VER2) { VER2 = VER; store.set("ver2." + LANG, VER2); }   // the two change places
   VER = id;
   store.set("ver." + LANG, VER);
   $("ver-label").textContent = verShort();
@@ -5003,6 +5078,8 @@ $("text").addEventListener("click", ev => {
     openSheet("footnote");
     return;
   }
+  const ps = ev.target.closest(".par-sec");
+  if (ps && !hasSel()) { const sp = $("text").querySelector(`.v[data-id="${ps.dataset.for}"]`); if (sp) { if (selected === sp && !$("verse").hidden) closeVerse(); else openVerse(sp); } return; }
   const v = ev.target.closest(".v");
   if (v && !hasSel()) { if (selected === v && !$("verse").hidden) closeVerse(); else openVerse(v); }
 });
@@ -5121,6 +5198,7 @@ Promise.all([getJSON("books.json"), Promise.all(ourLangs.map(k => getJSON(`i18n/
   const others = ["en", ...ourLangs].filter(k => k !== LANG && OURS[k] && (k === "en" || Object.keys(LB[k] || {}).length));
   VERSIONS = [...others.map(k => ({ id: "ours-" + k, lang: k, ours: true, ...OURS[k] })), ...versions];
   if (!verOf(VER)) VER = "ours";
+  if (VER2 && ((VER2 !== "ours" && !verOf(VER2)) || VER2 === VER)) VER2 = null;
   $("ver-label").textContent = verShort();
   // Each book keeps its English name (b.en: addresses, and searching in English) and takes the
   // language's (b.n), with its short forms for "go to" (b.alt), from the dictionary.
@@ -5135,7 +5213,7 @@ Promise.all([getJSON("books.json"), Promise.all(ourLangs.map(k => getJSON(`i18n/
   addEventListener("hashchange", route);
   route();
 }).catch(() => { $("loading").textContent = "The Bible couldn't be loaded. Check your connection and reload the page."; });
-if ("serviceWorker" in navigator && /^https?:$/.test(location.protocol) && !embedded) navigator.serviceWorker.register("sw.js?v=85").catch(() => {});
+if ("serviceWorker" in navigator && /^https?:$/.test(location.protocol) && !embedded) navigator.serviceWorker.register("sw.js?v=86").catch(() => {});
 
 /* ---------- For account.js: highlights and notes, and two of the reader's tools ---------- */
 var reader = {
