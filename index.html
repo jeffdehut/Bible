@@ -4555,10 +4555,13 @@ function wordBox(sp, s, e) {
   if (!set) return null;
   const rc = r.getClientRects()[0] || r.getBoundingClientRect();
   if (!rc || (!rc.width && !rc.height)) return null;
-  return { x: rc.left + scrollX - inkShift, y: rc.top + scrollY };
+  return { x: rc.left + scrollX - liveShift(), y: rc.top + scrollY };
 }
+// How far the page is slid aside this moment (mid-slide too): measured, not the slide's goal,
+// so what is measured on the screen is put back where it is on the page.
+function liveShift() { const t = getComputedStyle($("main")).transform; return t && t !== "none" ? new DOMMatrixReadOnly(t).m41 : 0; }
 // The text's edge on one side, in page coordinates (as if not slid aside).
-function inkEdge(m) { const r = $("text").getBoundingClientRect(); return (m === "l" ? r.left : r.right) + scrollX - inkShift; }
+function inkEdge(m) { const r = $("text").getBoundingClientRect(); return (m === "l" ? r.left : r.right) + scrollX - liveShift(); }
 function drawInk() {
   inkQueued = false;
   const W = document.documentElement.clientWidth, H = document.documentElement.scrollHeight;
@@ -4607,6 +4610,7 @@ function inkAnchor(points) {
   }
   const cy = (y0 + y1) / 2;
   const lh = parseFloat(getComputedStyle($("text")).lineHeight) || 34;
+  const sh = liveShift();
   let best = null;
   for (const sp of $("text").querySelectorAll(".v")) {
     const sr = sp.getBoundingClientRect();
@@ -4618,7 +4622,7 @@ function inkAnchor(points) {
         r.setStart(node, m.index); r.setEnd(node, m.index + m[0].length);
         const rc = r.getClientRects()[0];
         if (!rc) continue;
-        const L = rc.left + scrollX - inkShift, R = rc.right + scrollX - inkShift, T = rc.top + scrollY, B = rc.bottom + scrollY;
+        const L = rc.left + scrollX - sh, R = rc.right + scrollX - sh, T = rc.top + scrollY, B = rc.bottom + scrollY;
         if (B < y0 - lh * 2 || T > y1 + lh * 2) continue;
         const ov = Math.max(0, Math.min(R, x1) - Math.max(L, x0));
         const gap = ov > 0 ? 0 : Math.min(Math.abs(L - x1), Math.abs(x0 - R));
@@ -4729,6 +4733,7 @@ function inkMargins() {
   void r;
 }
 addEventListener("resize", () => inkMargins());
+$("main").addEventListener("transitionend", ev => { if (ev.target === $("main")) inkMargins(); });
 const snapInk = () => { const max = inkSlideMax(); setInkShift(inkShift > max / 3 ? max : inkShift < -max / 3 ? -max : 0); };
 addEventListener("resize", () => { if (inkShift) setInkShift(0, false); });
 // Margin notes off the screen: a small tab at the edge beside them, to slide the page over.
@@ -4812,7 +4817,7 @@ Sketch.holdStylus(inkSvg, () => inking, () => (Sketch.sawPen ? null : "all"));
   let gest = null;
   const need = () => (Sketch.sawPen ? 1 : 2);
   const avg = () => { let x = 0, y = 0; for (const [a, b2] of touches.values()) { x += a; y += b2; } return [x / touches.size, y / touches.size]; };
-  const page = ev => [ev.clientX + scrollX - inkShift, ev.clientY + scrollY];
+  const page = ev => [ev.clientX + scrollX - liveShift(), ev.clientY + scrollY];
   inkSvg.addEventListener("pointerdown", ev => {
     if (!inking) return;
     if (ev.pointerType === "touch") {
@@ -5379,7 +5384,7 @@ Promise.all([getJSON("books.json"), Promise.all(ourLangs.map(k => getJSON(`i18n/
   addEventListener("hashchange", route);
   route();
 }).catch(() => { $("loading").textContent = "The Bible couldn't be loaded. Check your connection and reload the page."; });
-if ("serviceWorker" in navigator && /^https?:$/.test(location.protocol) && !embedded) navigator.serviceWorker.register("sw.js?v=91").catch(() => {});
+if ("serviceWorker" in navigator && /^https?:$/.test(location.protocol) && !embedded) navigator.serviceWorker.register("sw.js?v=92").catch(() => {});
 
 /* ---------- For account.js: highlights and notes, and two of the reader's tools ---------- */
 var reader = {
