@@ -225,7 +225,15 @@
       const rows = ids.slice(k, k + 500).map(id => notes[id]
         ? { verse: id, highlight: notes[id].h || null, ranges: notes[id].r || null, note: notes[id].n || null, bookmark: notes[id].b || null, updated_at: notes[id].t || sent[id], deleted: false }
         : { verse: id, highlight: null, ranges: null, note: null, bookmark: null, updated_at: sent[id], deleted: true });
-      await call("/rest/v1/rpc/push_annotations", { method: "POST", body: { rows } });
+      // An account that keeps only the first five whole-verse colors (before supabase/schema.sql
+      // was run again) refuses the others; then those verses go without their color there, and
+      // everything else is still sent.
+      try { await call("/rest/v1/rpc/push_annotations", { method: "POST", body: { rows } }); }
+      catch (e) {
+        if (!/highlight_check/.test(e.message)) throw e;
+        const OLD = ["yellow", "green", "blue", "pink", "orange"];
+        await call("/rest/v1/rpc/push_annotations", { method: "POST", body: { rows: rows.map(r => (r.highlight && !OLD.includes(r.highlight) ? { ...r, highlight: null } : r)) } });
+      }
       for (const r of rows) if (state.dirty[r.verse] === sent[r.verse]) delete state.dirty[r.verse];
       save();
     }

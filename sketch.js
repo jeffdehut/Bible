@@ -16,8 +16,11 @@
   const PAPER = "#fbf8ef";
   // Inks, the same on the paper in every theme. "ink" is the pen's own black (on the page, the
   // text's color, so it shows in a dark theme too).
-  const COLORS = { ink: "#1f2430", blue: "#2456c9", red: "#c8323a", green: "#2c8a4f", purple: "#7442b8", brown: "#9a6a1c" };
+  // Sketches keep each stroke's color as its place in KEYS, so new colors go at the end; PICK is
+  // the order they are offered in: black, then the rainbow (brown stays for older sketches).
+  const COLORS = { ink: "#1f2430", blue: "#1f6fe0", red: "#e0312b", green: "#1f9e45", purple: "#b03fc6", brown: "#9a6a1c", orange: "#ee7d12", yellow: "#e8b100", violet: "#6a4cf0" };
   const KEYS = Object.keys(COLORS);
+  const PICK = ["ink", "red", "orange", "yellow", "green", "blue", "purple", "violet"];
   const SIZES = [1.5, 2.8, 5.2];          // pen widths, in units
   const ERASERS = [4, 9, 18];             // eraser radii: small, medium, large
 
@@ -279,7 +282,7 @@
     box.className = "sk-tools";
     const render = () => {
       box.replaceChildren();
-      for (const c of KEYS) {
+      for (const c of PICK) {
         const b = btn("sk-c", { "data-c": c, "aria-label": T(c === "ink" ? "Black" : c[0].toUpperCase() + c.slice(1)), title: T(c === "ink" ? "Black" : c[0].toUpperCase() + c.slice(1)), "aria-pressed": String(!state.erase && state.c === c) });
         b.style.setProperty("--c", COLORS[c]);
         b.onclick = () => { state.c = c; state.erase = false; render(); state.changed?.(); };
@@ -435,6 +438,6 @@
     return { close };
   }
 
-  window.Sketch = { holdStylus, PAD, PAPER, COLORS, KEYS, SIZES, ERASERS, outline, encode, decode, erase, pen, paths, picture, toolbar, history, open, css, colorOf, svgEl, tools, keepTools,
+  window.Sketch = { holdStylus, PAD, PAPER, COLORS, KEYS, PICK, SIZES, ERASERS, outline, encode, decode, erase, pen, paths, picture, toolbar, history, open, css, colorOf, svgEl, tools, keepTools,
     get sawPen() { return sawPen; } };
 })();

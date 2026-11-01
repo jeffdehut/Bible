@@ -14,7 +14,7 @@
 create table if not exists public.annotations (
   user_id    uuid    not null default auth.uid() references auth.users (id) on delete cascade,
   verse      text    not null check (verse ~ '^[1-3]?[A-Za-z]+\.[0-9]+\.[0-9]+$'),   -- "John.3.16"
-  highlight  text    check (highlight in ('yellow', 'green', 'blue', 'pink', 'orange')),
+  highlight  text,                                   -- a color's name (see below)
   note       text    check (char_length(note) <= 20000),
   updated_at bigint  not null,                       -- when the device made the change
   deleted    boolean not null default false,         -- removed on a device
@@ -30,6 +30,12 @@ alter table public.annotations add column if not exists ranges jsonb
 -- alone. Added October 2026; safe to run on an older table.
 alter table public.annotations add column if not exists bookmark jsonb
   check (bookmark is null or (jsonb_typeof(bookmark) = 'object' and pg_column_size(bookmark) <= 400));
+
+-- The whole-verse highlight: a color's name, from those the reader has offered (the rainbow
+-- since November 2026, and the earlier pink, teal and gray). Safe to run on an older table.
+alter table public.annotations drop constraint if exists annotations_highlight_check;
+alter table public.annotations add constraint annotations_highlight_check
+  check (highlight in ('red', 'orange', 'yellow', 'green', 'blue', 'purple', 'violet', 'pink', 'teal', 'gray'));
 
 -- Each person sees and changes only their own rows.
 alter table public.annotations enable row level security;
