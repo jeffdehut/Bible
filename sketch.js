@@ -18,9 +18,9 @@
   // text's color, so it shows in a dark theme too).
   // Sketches keep each stroke's color as its place in KEYS, so new colors go at the end; PICK is
   // the order they are offered in: black, then the rainbow (brown stays for older sketches).
-  const COLORS = { ink: "#1f2430", blue: "#1f6fe0", red: "#e0312b", green: "#1f9e45", purple: "#b03fc6", brown: "#9a6a1c", orange: "#ee7d12", yellow: "#e8b100", violet: "#6a4cf0" };
+  const COLORS = { ink: "#1f2430", blue: "#1f6fe0", red: "#e0312b", green: "#1f9e45", purple: "#b03fc6", brown: "#9a6a1c", orange: "#ee7d12", yellow: "#e8b100", violet: "#9b3fd8", indigo: "#3b44c4" };
   const KEYS = Object.keys(COLORS);
-  const PICK = ["ink", "red", "orange", "yellow", "green", "blue", "purple", "violet"];
+  const PICK = ["ink", "red", "orange", "yellow", "green", "blue", "indigo", "violet"];
   const SIZES = [1.5, 2.8, 5.2];          // pen widths, in units
   const ERASERS = [4, 9, 18];             // eraser radii: small, medium, large
 

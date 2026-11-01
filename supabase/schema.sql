@@ -35,7 +35,7 @@ alter table public.annotations add column if not exists bookmark jsonb
 -- since November 2026, and the earlier pink, teal and gray). Safe to run on an older table.
 alter table public.annotations drop constraint if exists annotations_highlight_check;
 alter table public.annotations add constraint annotations_highlight_check
-  check (highlight in ('red', 'orange', 'yellow', 'green', 'blue', 'purple', 'violet', 'pink', 'teal', 'gray'));
+  check (highlight in ('red', 'orange', 'yellow', 'green', 'blue', 'indigo', 'violet', 'purple', 'pink', 'teal', 'gray'));
 
 -- Each person sees and changes only their own rows.
 alter table public.annotations enable row level security;

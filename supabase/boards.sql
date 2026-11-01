@@ -55,4 +55,4 @@ grant execute on function public.push_board(text, text, text, jsonb, bigint, boo
 -- The whole-verse highlight colors: the rainbow, and the earlier pink, teal and gray.
 alter table public.annotations drop constraint if exists annotations_highlight_check;
 alter table public.annotations add constraint annotations_highlight_check
-  check (highlight in ('red', 'orange', 'yellow', 'green', 'blue', 'purple', 'violet', 'pink', 'teal', 'gray'));
+  check (highlight in ('red', 'orange', 'yellow', 'green', 'blue', 'indigo', 'violet', 'purple', 'pink', 'teal', 'gray'));
