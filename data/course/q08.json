@@ -1,0 +1,567 @@
+{
+  "q": 8,
+  "lessons": [
+    {
+      "n": 1,
+      "title": { "en": "The exile of Israel", "zh": "以色列被擄" },
+      "passages": ["2Kgs.17"],
+      "key": "2Kgs.17.13-14",
+      "points": {
+        "en": [
+          "Hoshea king of Israel stops paying tribute to Assyria and sends to Egypt, and the king of Assyria imprisons him.",
+          "Assyria besieges Samaria for three years, captures it, and deports Israel to Assyria.",
+          "This happened because Israel had worshipped other gods and followed the customs of the nations.",
+          "The LORD had warned them through every prophet, “Turn from your evil ways,” but they would not listen.",
+          "They kept walking in the sins of Jeroboam until the LORD removed Israel from his presence.",
+          "The king of Assyria settles people from Babylon and other lands in the towns of Samaria.",
+          "These nations worship the LORD but also serve their own gods."
+        ],
+        "zh": [
+          "以色列王何細亞不再向亞述進貢，又派人去埃及，亞述王就把他囚禁起來。",
+          "亞述圍困撒馬利亞三年，攻取了它，把以色列人擄到亞述。",
+          "這是因為以色列人敬拜別的神，隨從列國的風俗。",
+          "耶和華曾藉眾先知警告他們：「你們要回頭離開惡道」，他們卻不肯聽從。",
+          "他們一直行耶羅波安的罪，直到耶和華把以色列從他面前趕出。",
+          "亞述王把巴比倫和其他地方的人安置在撒馬利亞的城鎮。",
+          "這些民族敬畏耶和華，同時又事奉自己的神。"
+        ]
+      },
+      "readings": [
+        { "ref": "Deut.28.63-64", "about": { "en": "The covenant warns of scattering among the nations", "zh": "約中警告百姓要被分散到萬民中" } },
+        { "ref": "Amos.5.27", "about": { "en": "Amos warns of exile beyond Damascus", "zh": "阿摩司警告要被擄到大馬色以外" } },
+        { "ref": "John.4.7-9", "about": { "en": "Jews and Samaritans have no dealings with each other", "zh": "猶太人和撒馬利亞人沒有來往" } }
+      ],
+      "history": {
+        "en": [
+          "Samaria fell about 722 BC after a three-year siege. Shalmaneser V began it; his successor Sargon II claimed the victory.",
+          "Sargon II’s inscriptions say he deported 27,290 people from Samaria and resettled the city with people from other lands.",
+          "The ruins of Samaria lie at Sebastia, near Nablus. The Samaritans, today a community of under a thousand, still keep their worship on Mount Gerizim."
+        ],
+        "zh": [
+          "撒馬利亞經過三年的圍困，約在公元前722年陷落。圍城的是撒縵以色五世，他的繼任者撒珥根二世則宣稱是他得勝。",
+          "撒珥根二世的碑文說，他從撒馬利亞擄走了27290人，又把別地的人遷入城中。",
+          "撒馬利亞城的遺址在納布盧斯附近的塞巴斯蒂亞。今天的撒馬利亞人不足一千人，仍在基利心山守他們的敬拜。"
+        ]
+      },
+      "maps": ["kingdoms", "empires"],
+      "felt": { "find": "soldier" },
+      "connections": "2Kgs.17"
+    },
+    {
+      "n": 2,
+      "title": { "en": "Hezekiah's prayer", "zh": "希西家的禱告" },
+      "passages": ["2Kgs.18-19"],
+      "key": "2Kgs.19.16-19",
+      "points": {
+        "en": [
+          "Hezekiah trusts in the LORD, removes the high places and rebels against the king of Assyria.",
+          "Sennacherib king of Assyria captures the fortified cities of Judah and sends an army to Jerusalem.",
+          "The Rabshakeh mocks: no god has rescued any land from Assyria, so how could the LORD rescue Jerusalem?",
+          "Hezekiah tears his clothes, puts on sackcloth, goes into the LORD’s house, and sends to the prophet Isaiah.",
+          "He spreads Sennacherib’s letter before the LORD and prays, “Save us… so that all the kingdoms may know you alone are God.”",
+          "Isaiah answers that the king of Assyria will not come into the city or shoot an arrow there.",
+          "That night the angel of the LORD strikes the Assyrian camp, and Sennacherib goes home to Nineveh."
+        ],
+        "zh": [
+          "希西家倚靠耶和華，廢去高處，又背叛亞述王。",
+          "亞述王西拿基立攻取猶大所有堅固的城，又派大軍到耶路撒冷。",
+          "拉伯沙基譏誚說：列國的神沒有一個能救本國脫離亞述，耶和華又怎能救耶路撒冷呢？",
+          "希西家撕裂衣服，披上麻布，進了耶和華的殿，又派人去見以賽亞先知。",
+          "他把西拿基立的信在耶和華面前展開，禱告說：「求你拯救我們……使天下萬國都知道唯有你是神。」",
+          "以賽亞回覆說，亞述王必不得進這城，也不得在這裏射箭。",
+          "當夜，耶和華的使者擊殺亞述的軍營，西拿基立就回尼尼微去了。"
+        ]
+      },
+      "readings": [
+        { "ref": "Isa.36-37", "about": { "en": "Isaiah tells the same events", "zh": "以賽亞書記載同一件事" } },
+        { "ref": "2Chr.32.1-23", "about": { "en": "Chronicles tells of Sennacherib’s invasion", "zh": "歷代志記載西拿基立入侵" } },
+        { "ref": "2Chr.32.30", "about": { "en": "Hezekiah channels the waters of the Gihon into the city", "zh": "希西家把基訓的水引入城中" } }
+      ],
+      "history": {
+        "en": [
+          "Sennacherib invaded Judah in 701 BC. His own record on clay prisms says he shut Hezekiah up in Jerusalem “like a bird in a cage,” but claims no capture.",
+          "Stone reliefs of his siege of Lachish, from his palace at Nineveh, are now in the British Museum in London.",
+          "Hezekiah’s Tunnel, about 533 m long, brought water from the Gihon spring into Jerusalem; an inscription found in it tells how it was dug.",
+          "Babylonian records also report that Sennacherib was murdered by a son, in 681 BC."
+        ],
+        "zh": [
+          "西拿基立在公元前701年入侵猶大。他在泥柱上的記錄說，他把希西家困在耶路撒冷，「像籠中的鳥」，卻沒有說攻下了城。",
+          "記錄他圍攻拉吉的石浮雕原在尼尼微的王宮，現存倫敦大英博物館。",
+          "希西家水道長約533米，把基訓泉的水引入耶路撒冷；在水道中發現的銘文記述了開鑿的經過。",
+          "巴比倫的記錄也記載，西拿基立在公元前681年被他的兒子殺害。"
+        ]
+      },
+      "maps": ["kingdoms", "jerusalem"],
+      "felt": { "find": "king" },
+      "connections": "2Kgs.19"
+    },
+    {
+      "n": 3,
+      "title": { "en": "Josiah finds the law", "zh": "約西亞找到律法書" },
+      "passages": ["2Kgs.22.1-23.30"],
+      "key": "2Kgs.23.2-3",
+      "points": {
+        "en": [
+          "Josiah becomes king at eight years old and does what is right in the eyes of the LORD.",
+          "While the temple is being repaired, Hilkiah the high priest finds the book of the Law.",
+          "When it is read to him, Josiah tears his clothes and sends to inquire of the LORD.",
+          "The prophet Huldah says disaster will come, but Josiah, who humbled himself, will be buried in peace.",
+          "The king reads the book to all the people and makes a covenant to keep the LORD’s commands.",
+          "He removes the idols and high places, even the altar Jeroboam had built at Bethel.",
+          "They keep a Passover like none since the days of the judges."
+        ],
+        "zh": [
+          "約西亞八歲登基，行耶和華眼中看為正的事。",
+          "修理聖殿的時候，希勒家大祭司找到了律法書。",
+          "約西亞聽了書上的話，就撕裂衣服，派人去求問耶和華。",
+          "女先知戶勒大說災禍必要臨到，但約西亞既然自卑，必平平安安歸到墳墓。",
+          "王向眾民宣讀這書，並且立約要遵守耶和華的誡命。",
+          "他除掉偶像和高處，連耶羅波安在伯特利所築的壇也拆毀了。",
+          "他們守逾越節，自士師時代以來沒有守過這樣的逾越節。"
+        ]
+      },
+      "readings": [
+        { "ref": "2Chr.34-35", "about": { "en": "Chronicles tells of Josiah’s reforms and Passover", "zh": "歷代志記載約西亞的改革和逾越節" } },
+        { "ref": "1Kgs.13.1-3", "about": { "en": "A man of God names Josiah long before his birth", "zh": "神人在約西亞出生前很久就提到他的名字" } },
+        { "ref": "Deut.31.9-13", "about": { "en": "Moses commands that the law be read to all the people", "zh": "摩西吩咐向眾民宣讀律法" } }
+      ],
+      "history": {
+        "en": [
+          "Josiah reigned about 640–609 BC; the book was found in his eighteenth year, about 622 BC.",
+          "Many scholars identify the book of the Law found in the temple with Deuteronomy, or part of it.",
+          "Josiah was killed at Megiddo in 609 BC, when Pharaoh Neco marched north to the Euphrates to join Assyria against Babylon."
+        ],
+        "zh": [
+          "約西亞約在公元前640至609年在位；律法書是在他第十八年，約公元前622年找到的。",
+          "許多學者認為，在聖殿裏找到的律法書就是申命記或其中一部分。",
+          "公元前609年，法老尼哥北上伯拉河，要與亞述聯手對抗巴比倫，約西亞在米吉多被殺。"
+        ]
+      },
+      "maps": ["kingdoms", "jerusalem"],
+      "felt": { "find": "book" },
+      "connections": "2Kgs.22"
+    },
+    {
+      "n": 4,
+      "title": { "en": "Jeremiah's calling", "zh": "耶利米蒙召" },
+      "passages": ["Jer.1"],
+      "key": "Jer.1.5-8",
+      "points": {
+        "en": [
+          "The word of the LORD comes to Jeremiah, a priest’s son from Anathoth, in Josiah’s thirteenth year.",
+          "“Before I formed you in the womb I knew you… I appointed you a prophet to the nations.”",
+          "Jeremiah protests, “I am only a boy,” but the LORD says, “Do not be afraid, for I am with you.”",
+          "The LORD touches his mouth: “I have put my words in your mouth.”",
+          "He sees an almond branch: the LORD is watching over his word to carry it out.",
+          "He sees a boiling pot tipped away from the north: disaster will come from the north.",
+          "The LORD makes him a fortified city: “They will fight against you, but they will not overcome you.”"
+        ],
+        "zh": [
+          "約西亞第十三年，耶和華的話臨到亞拿突祭司希勒家的兒子耶利米。",
+          "「我還沒有在母腹中造你，就已經認識你……我已立你作列國的先知。」",
+          "耶利米推辭說：「我只是個孩子。」耶和華卻說：「不要怕，因為我與你同在。」",
+          "耶和華摸他的口，說：「我已把我的話放在你口中。」",
+          "他看見一根杏樹枝：耶和華留意看守他的話，必使它成就。",
+          "他看見一個從北方傾側的燒開的鍋：災禍必從北方來。",
+          "耶和華使他成為堅固的城：「他們要攻擊你，卻不能勝過你。」"
+        ]
+      },
+      "readings": [
+        { "ref": "Exod.4.10-12", "about": { "en": "Moses says he cannot speak well; God will teach him", "zh": "摩西推辭說自己拙口，神要指教他" } },
+        { "ref": "Isa.6.5-8", "about": { "en": "Isaiah’s call: “Here I am. Send me!”", "zh": "以賽亞蒙召：「我在這裏，請差遣我！」" } },
+        { "ref": "Gal.1.15-16", "about": { "en": "Paul: God set me apart from my mother’s womb", "zh": "保羅說神從他在母腹中就分別他" } },
+        { "ref": "Ps.139.13-16", "about": { "en": "God formed me in my mother’s womb", "zh": "我在母腹中，神就編織了我" } }
+      ],
+      "history": {
+        "en": [
+          "Josiah’s thirteenth year was about 627 BC; Jeremiah went on prophesying until after the fall of Jerusalem in 586 BC.",
+          "Anathoth was a town of priests in Benjamin, about 5 km (3 miles) northeast of Jerusalem, near today’s Anata.",
+          "In Hebrew, “almond” (shaqed) sounds like “watching” (shoqed). The almond is the first tree in the land to blossom, in late winter."
+        ],
+        "zh": [
+          "約西亞第十三年約是公元前627年；耶利米一直說預言，直到公元前586年耶路撒冷陷落以後。",
+          "亞拿突是便雅憫境內祭司的城，在耶路撒冷東北約5公里，靠近今天的阿納塔。",
+          "希伯來文「杏樹」（沙克德）和「看守」（索克德）讀音相近。杏樹是這地最早開花的樹，在冬末開花。"
+        ]
+      },
+      "maps": ["kingdoms"],
+      "felt": { "find": "tree" },
+      "connections": "Jer.1"
+    },
+    {
+      "n": 5,
+      "title": { "en": "Jeremiah: the potter and the new covenant", "zh": "耶利米：陶匠和新約" },
+      "passages": ["Jer.18", "Jer.31.31-34"],
+      "key": "Jer.31.33-34",
+      "points": {
+        "en": [
+          "The LORD sends Jeremiah to the potter’s house, where the potter is working at the wheel.",
+          "When a pot is spoiled in his hand, the potter makes it again into another vessel.",
+          "“Like the clay in the potter’s hand, so are you in my hand, house of Israel.”",
+          "If a nation turns from its evil, the LORD will relent of the disaster; Judah is called to turn back.",
+          "The people answer, “It’s hopeless! We will follow our own plans,” and plot against Jeremiah.",
+          "The LORD promises a new covenant with Israel and Judah, not like the covenant they broke.",
+          "“I will write it on their hearts… I will forgive their wrongdoing, and I will remember their sin no more.”"
+        ],
+        "zh": [
+          "耶和華打發耶利米到陶匠的家裏去，陶匠正在轉輪上做器皿。",
+          "器皿在他手中做壞了，陶匠就用那泥另做別的器皿。",
+          "「以色列家啊，泥在陶匠手中怎樣，你們在我手中也怎樣。」",
+          "邦國若回頭離開惡行，耶和華就改變心意，不降災禍；他呼召猶大回頭。",
+          "百姓卻回答：「沒有指望了！我們要照自己的計謀去行。」又設計謀害耶利米。",
+          "耶和華應許與以色列家和猶大家另立新約，不像他們所背棄的那約。",
+          "「我要把律法寫在他們心上……我要赦免他們的罪孽，不再記念他們的罪。」"
+        ]
+      },
+      "readings": [
+        { "ref": "Heb.8.6-13", "about": { "en": "Hebrews quotes the promise of the new covenant", "zh": "希伯來書引用新約的應許" } },
+        { "ref": "Luke.22.20", "about": { "en": "Jesus: this cup is the new covenant in my blood", "zh": "耶穌說這杯是用他的血所立的新約" } },
+        { "ref": "Rom.9.20-21", "about": { "en": "Paul: the potter has rights over the clay", "zh": "保羅論陶匠有權柄支配泥土" } },
+        { "ref": "Ezek.36.26-27", "about": { "en": "God promises a new heart and a new spirit", "zh": "神應許賜新心和新靈" } }
+      ],
+      "history": {
+        "en": [
+          "Clay pots were the everyday containers of the ancient Near East; broken pieces, called potsherds, are the most common find at excavations.",
+          "Potters shaped clay on a turning wheel; while the clay was still soft, a spoiled pot could be pressed down and shaped again.",
+          "Jeremiah 31:31–34 is the longest Old Testament passage quoted in the New Testament (Hebrews 8:8–12)."
+        ],
+        "zh": [
+          "陶器是古代近東日常使用的器皿；陶器碎片是考古發掘中最常見的出土物。",
+          "陶匠在轉輪上塑造泥土；泥土還軟的時候，做壞的器皿可以壓扁重做。",
+          "耶利米書31章31至34節是新約引用最長的一段舊約經文（希伯來書8章8至12節）。"
+        ]
+      },
+      "maps": ["kingdoms"],
+      "felt": { "find": "jar" },
+      "connections": "Jer.31"
+    },
+    {
+      "n": 6,
+      "title": { "en": "Jerusalem falls", "zh": "耶路撒冷陷落" },
+      "passages": ["2Kgs.25", "Lam.3.21-26"],
+      "key": "Lam.3.22-24",
+      "points": {
+        "en": [
+          "Nebuchadnezzar king of Babylon besieges Jerusalem until there is no food left in the city.",
+          "The wall is broken through; King Zedekiah flees but is captured in the plains of Jericho.",
+          "His sons are killed before his eyes; he is blinded and taken to Babylon in bronze shackles.",
+          "Nebuzaradan burns the house of the LORD, the palace and every great house, and the walls are torn down.",
+          "The people are taken into exile; only some of the poorest are left to work the vineyards and fields.",
+          "Years later in Babylon, King Jehoiachin is released from prison and eats at the king’s table.",
+          "Lamentations: “Because of the LORD’s faithful love we are not finished… great is your faithfulness.”"
+        ],
+        "zh": [
+          "巴比倫王尼布甲尼撒圍困耶路撒冷，直到城中斷了糧。",
+          "城牆被攻破；西底家王逃跑，卻在耶利哥平原被擒。",
+          "他的兒子們在他眼前被殺；他被剜了眼睛，用銅鏈鎖着帶到巴比倫。",
+          "尼布撒拉旦焚燒耶和華的殿、王宮和所有大戶的房屋，又拆毀城牆。",
+          "百姓被擄走，只留下一些最窮的人修理葡萄園，耕種田地。",
+          "多年以後，在巴比倫，約雅斤王從監牢裏出來，常在王的席上吃飯。",
+          "耶利米哀歌：「我們沒有滅絕，是出於耶和華的慈愛……你的信實何其廣大！」"
+        ]
+      },
+      "readings": [
+        { "ref": "2Chr.36.15-21", "about": { "en": "The land keeps its Sabbaths for seventy years", "zh": "地享受安息，直滿七十年" } },
+        { "ref": "Ps.137.1-6", "about": { "en": "By the rivers of Babylon we wept", "zh": "我們在巴比倫的河邊哭泣" } },
+        { "ref": "Jer.29.10-14", "about": { "en": "After seventy years God will bring them back", "zh": "七十年滿了，神必領他們回來" } }
+      ],
+      "history": {
+        "en": [
+          "Jerusalem fell in 586 BC (some date it 587 BC), after a siege of about a year and a half.",
+          "Clay ration tablets found in Babylon list oil given to “Jehoiachin, king of Judah,” and his sons.",
+          "Lamentations is traditionally ascribed to Jeremiah. Its first four poems are acrostics on the Hebrew alphabet; chapter 3 gives three verses to each letter.",
+          "Jews mourn the destruction of the temple on the fast of Tisha B’Av, when Lamentations is read."
+        ],
+        "zh": [
+          "耶路撒冷在公元前586年陷落（也有人定為公元前587年），城被圍困約一年半。",
+          "在巴比倫出土的配給泥版，記載了發給「猶大王約雅斤」和他兒子們的油。",
+          "耶利米哀歌傳統上認為是耶利米所寫。前四首詩按希伯來字母順序排列；第3章每個字母佔三節。",
+          "猶太人在猶太曆阿布月九日禁食，哀悼聖殿被毀，並在這天誦讀耶利米哀歌。"
+        ]
+      },
+      "maps": ["empires", "jerusalem"],
+      "felt": { "find": "wall" },
+      "connections": "2Kgs.25"
+    },
+    {
+      "n": 7,
+      "title": { "en": "Ezekiel's calling", "zh": "以西結蒙召" },
+      "passages": ["Ezek.1-3"],
+      "key": "Ezek.3.1-3",
+      "points": {
+        "en": [
+          "Among the exiles by the river Chebar, in the fifth year of King Jehoiachin’s exile, Ezekiel sees visions of God.",
+          "He sees living creatures and wheels, and above them a throne with a likeness like a human being, shining like fire.",
+          "It is the likeness of the glory of the LORD, and Ezekiel falls on his face.",
+          "The LORD sends him to rebellious Israel: whether they listen or not, they will know a prophet has been among them.",
+          "He is given a scroll of laments to eat, and in his mouth it is as sweet as honey.",
+          "He sits among the exiles at Tel-abib for seven days, overwhelmed.",
+          "The LORD makes him a watchman for Israel, to warn the wicked to turn from their way."
+        ],
+        "zh": [
+          "約雅斤王被擄第五年，以西結在迦巴魯河邊被擄的人中，看見了神的異象。",
+          "他看見活物和輪子，上面有寶座，寶座上有彷彿人的形像，四圍發出火的光輝。",
+          "這是耶和華榮耀的形像；以西結看見，就俯伏在地。",
+          "耶和華差他到悖逆的以色列人那裏：他們聽也好，不聽也好，必知道有先知在他們中間。",
+          "神給他一卷寫滿哀歌的書卷吃，在他口中甜如蜜。",
+          "他在提勒‧亞畢被擄的人中間坐了七天，驚愕不已。",
+          "耶和華立他作以色列家的守望者，警告惡人離開惡道。"
+        ]
+      },
+      "readings": [
+        { "ref": "Rev.4.6-8", "about": { "en": "John sees four living creatures around the throne", "zh": "約翰看見寶座周圍的四活物" } },
+        { "ref": "Rev.10.8-11", "about": { "en": "John eats a little scroll, sweet as honey", "zh": "約翰吃下小書卷，口中甜如蜜" } },
+        { "ref": "Ezek.33.1-9", "about": { "en": "The watchman’s duty, given again", "zh": "再次講述守望者的責任" } }
+      ],
+      "history": {
+        "en": [
+          "Ezekiel, a priest, was taken to Babylon with King Jehoiachin in 597 BC; his call came five years later, about 593 BC.",
+          "The Chebar was a canal of the Euphrates near the city of Nippur in southern Iraq; Babylonian documents name it.",
+          "Tel-abib probably meant “mound of the flood,” an old ruin mound. The modern city of Tel Aviv took its name from this verse."
+        ],
+        "zh": [
+          "以西結是祭司，公元前597年與約雅斤王一同被擄到巴比倫；五年後，約公元前593年，他蒙召作先知。",
+          "迦巴魯河是伯拉河的一條運河，在今伊拉克南部的尼普爾城附近，巴比倫的文獻也提到它。",
+          "提勒‧亞畢大概是「洪水丘」的意思，指古老的廢墟土丘。現代城市特拉維夫的名字就是取自這節經文。"
+        ]
+      },
+      "maps": ["empires"],
+      "felt": { "find": "scroll" },
+      "connections": "Ezek.1"
+    },
+    {
+      "n": 8,
+      "title": { "en": "The valley of dry bones", "zh": "枯骨的平原" },
+      "passages": ["Ezek.37"],
+      "key": "Ezek.37.3-6",
+      "points": {
+        "en": [
+          "The Spirit of the LORD sets Ezekiel down in a valley full of very dry bones.",
+          "“Son of man, can these bones live?” Ezekiel answers, “Lord GOD, you know.”",
+          "He prophesies; the bones rattle together, and sinews, flesh and skin cover them, but there is no breath.",
+          "He prophesies to the breath; they come to life and stand on their feet, a very great army.",
+          "The bones are the whole house of Israel, who say, “Our hope is gone”; God will open their graves and put his Spirit in them.",
+          "Two sticks, for Judah and for Joseph, become one: God will make them one nation with one king.",
+          "“My servant David will be king over them,” and God’s sanctuary will be among them forever."
+        ],
+        "zh": [
+          "耶和華的靈把以西結放在一個佈滿枯乾骸骨的平原中。",
+          "「人子啊，這些骸骨能復活嗎？」以西結回答：「主耶和華啊，你是知道的。」",
+          "他說預言，骸骨就互相連接，有筋、有肉、有皮包住，只是還沒有氣息。",
+          "他向氣息說預言，他們就活了，站起來，成為極大的軍隊。",
+          "這些骸骨就是以色列全家，他們說：「我們的指望斷絕了」；神要打開他們的墳墓，把他的靈放在他們裏面。",
+          "寫着猶大和約瑟的兩根木杖合而為一：神要使他們成為一國，歸一個王。",
+          "「我的僕人大衛必作他們的王」，神的聖所必永遠在他們中間。"
+        ]
+      },
+      "readings": [
+        { "ref": "Gen.2.7", "about": { "en": "God breathes the breath of life into the first man", "zh": "神將生命的氣息吹進第一個人" } },
+        { "ref": "Ezek.36.26-27", "about": { "en": "A new heart, and God’s Spirit within", "zh": "新心，以及神的靈在人裏面" } },
+        { "ref": "John.3.5-8", "about": { "en": "Born of the Spirit; the wind blows where it wishes", "zh": "從聖靈生；風隨意而吹" } },
+        { "ref": "John.20.22", "about": { "en": "Jesus breathes on the disciples: “Receive the Holy Spirit”", "zh": "耶穌向門徒吹氣：「受聖靈」" } }
+      ],
+      "history": {
+        "en": [
+          "The Hebrew word ruach means breath, wind and spirit; this chapter uses it in all three senses.",
+          "The vision came to the exiles in Babylon after Jerusalem fell in 586 BC, when both Israel and Judah had lost their land.",
+          "A wall painting of this vision survives from the synagogue at Dura-Europos in Syria, painted in the mid-200s AD."
+        ],
+        "zh": [
+          "希伯來文「魯阿赫」可以指氣息、風和靈；本章三種意思都用到了。",
+          "這異象是在公元前586年耶路撒冷陷落以後，賜給在巴比倫被擄的人；那時以色列和猶大都已失去了故土。",
+          "敘利亞杜拉歐羅普斯的會堂留有一幅描繪這異象的壁畫，約繪於公元三世紀中葉。"
+        ]
+      },
+      "maps": ["empires"],
+      "felt": { "find": "desert" },
+      "connections": "Ezek.37"
+    },
+    {
+      "n": 9,
+      "title": { "en": "Daniel and the vegetables", "zh": "但以理和蔬菜" },
+      "passages": ["Dan.1"],
+      "key": "Dan.1.12-15",
+      "points": {
+        "en": [
+          "Nebuchadnezzar besieges Jerusalem and takes vessels from the house of God to Babylonia.",
+          "Young nobles of Judah, among them Daniel, Hananiah, Mishael and Azariah, are chosen to train for the king’s service.",
+          "They are given new names: Belteshazzar, Shadrach, Meshach and Abednego.",
+          "Daniel resolves not to defile himself with the king’s food and wine.",
+          "He asks for a ten-day test of vegetables and water; at the end they look healthier than the others.",
+          "God gives the four knowledge and wisdom, and Daniel understanding of visions and dreams.",
+          "The king finds them ten times better than all the magicians and enchanters in his kingdom."
+        ],
+        "zh": [
+          "尼布甲尼撒圍困耶路撒冷，把神殿中的器皿帶到巴比倫地。",
+          "猶大的貴族少年被選出來，學習服侍王，其中有但以理、哈拿尼雅、米沙利和亞撒利雅。",
+          "他們被改了名字：伯提沙撒、沙得拉、米煞和亞伯尼歌。",
+          "但以理立志不用王的食物和酒玷污自己。",
+          "他請求用蔬菜和清水試驗十天；十天後，他們比其他少年更健康。",
+          "神賜這四個少年知識和智慧，又使但以理明白各樣的異象和夢。",
+          "王發現他們比全國所有的術士和巫師勝過十倍。"
+        ]
+      },
+      "readings": [
+        { "ref": "2Kgs.24.1-2", "about": { "en": "Jehoiakim becomes Nebuchadnezzar’s servant", "zh": "約雅敬臣服於尼布甲尼撒" } },
+        { "ref": "Lev.11.1-8", "about": { "en": "The law on clean and unclean food", "zh": "律法中潔淨與不潔淨的食物" } },
+        { "ref": "Dan.2.46-49", "about": { "en": "Daniel and his friends promoted after the king’s dream", "zh": "王的夢以後，但以理和三友被提拔" } }
+      ],
+      "history": {
+        "en": [
+          "Nebuchadnezzar’s first campaign against Jerusalem is usually dated 605 BC, the year he became king of Babylon.",
+          "Babylon stood on the Euphrates River about 85 km (55 miles) south of Baghdad, Iraq.",
+          "Daniel 2:4 to 7:28 is written in Aramaic, the common language of the empire; the rest of the book is in Hebrew."
+        ],
+        "zh": [
+          "尼布甲尼撒第一次攻打耶路撒冷，一般定在公元前605年，就是他作巴比倫王的那一年。",
+          "巴比倫城位於伯拉河畔，在今伊拉克巴格達以南約85公里。",
+          "但以理書2章4節至7章28節是用亞蘭文寫的，亞蘭文是當時帝國通用的語言；其餘部分是希伯來文。"
+        ]
+      },
+      "maps": ["empires"],
+      "felt": { "story": "daniel" },
+      "connections": "Dan.1"
+    },
+    {
+      "n": 10,
+      "title": { "en": "The fiery furnace", "zh": "烈火的窯" },
+      "passages": ["Dan.3"],
+      "key": "Dan.3.16-18",
+      "points": {
+        "en": [
+          "Nebuchadnezzar sets up a gold statue sixty cubits high on the plain of Dura.",
+          "All must fall down and worship it when the music sounds, or be thrown into a blazing furnace.",
+          "Some Chaldeans report that Shadrach, Meshach and Abednego do not serve the king’s gods or worship the statue.",
+          "They answer, “Our God is able to rescue us… But even if he does not… we will not serve your gods.”",
+          "The furnace is heated seven times hotter, and the three are thrown in, tied up.",
+          "The king sees four men walking unharmed in the fire, the fourth like a son of the gods.",
+          "They come out without even the smell of fire on them, and the king blesses their God."
+        ],
+        "zh": [
+          "尼布甲尼撒在杜拉平原立了一個高六十肘的金像。",
+          "眾人一聽見樂聲，就要俯伏敬拜金像，否則要被扔進烈火的窯中。",
+          "有幾個迦勒底人控告沙得拉、米煞和亞伯尼歌，不事奉王的神，也不拜金像。",
+          "他們回答：「我們的神能救我們……即或不然……我們也決不事奉你的神。」",
+          "王命人把窯燒熱，比平常熱七倍，把三人捆起來扔進窯裏。",
+          "王看見有四個人在火中行走，毫無損傷，第四個的相貌好像神子。",
+          "他們從火中出來，身上連火燎的氣味也沒有，王就稱頌他們的神。"
+        ]
+      },
+      "readings": [
+        { "ref": "Exod.20.3-5", "about": { "en": "No other gods; do not bow down to images", "zh": "不可有別的神，不可跪拜偶像" } },
+        { "ref": "Isa.43.2", "about": { "en": "When you walk through fire, you will not be burned", "zh": "你從火中行走，必不被燒傷" } },
+        { "ref": "Heb.11.32-34", "about": { "en": "By faith some quenched the power of fire", "zh": "有人藉着信撲滅了烈火的威力" } }
+      ],
+      "history": {
+        "en": [
+          "A cubit was about 45 cm (18 in), so the statue was about 27 m (90 ft) high and 2.7 m wide.",
+          "Babylonian mathematics counted in sixties; we still divide an hour into sixty minutes because of it.",
+          "The site of the plain of Dura is not known for certain; several places in Babylonia bore the name."
+        ],
+        "zh": [
+          "一肘約45厘米，所以金像約高27米，寬2.7米。",
+          "巴比倫的數學以六十進位；今天一小時分為六十分鐘，就是源於此。",
+          "杜拉平原的確切位置不詳；巴比倫有好幾個地方都叫這個名字。"
+        ]
+      },
+      "maps": ["empires"],
+      "felt": { "story": "daniel" },
+      "connections": "Dan.3"
+    },
+    {
+      "n": 11,
+      "title": { "en": "The writing on the wall", "zh": "牆上的字" },
+      "passages": ["Dan.5"],
+      "key": "Dan.5.25-28",
+      "points": {
+        "en": [
+          "King Belshazzar holds a great feast and drinks from the gold vessels taken from the temple in Jerusalem.",
+          "They praise the gods of gold and silver, bronze, iron, wood and stone.",
+          "The fingers of a human hand appear and write on the palace wall, and the king turns pale.",
+          "None of the wise men can read it; the queen tells the king to call Daniel.",
+          "Daniel reminds him how God humbled Nebuchadnezzar, yet Belshazzar has not humbled his heart.",
+          "Mene: God has numbered your kingdom. Tekel: you are weighed and found lacking. Peres: your kingdom goes to the Medes and Persians.",
+          "That very night Belshazzar the Chaldean king is killed."
+        ],
+        "zh": [
+          "伯沙撒王大擺筵席，用從耶路撒冷聖殿帶來的金器喝酒。",
+          "他們讚美金、銀、銅、鐵、木、石所造的神。",
+          "忽然有人的指頭出現，在王宮的牆上寫字，王就臉色大變。",
+          "智慧人都不能讀出那文字；王后請王召但以理來。",
+          "但以理提醒王，神怎樣使尼布甲尼撒降卑，伯沙撒卻沒有自卑。",
+          "彌尼：神已數算你的國；提客勒：你被稱在天平上，顯出不足；毗勒斯：你的國要歸給米底亞人和波斯人。",
+          "當夜，迦勒底王伯沙撒被殺。"
+        ]
+      },
+      "readings": [
+        { "ref": "Jer.51.11", "about": { "en": "The LORD stirs up the kings of the Medes against Babylon", "zh": "耶和華激動米底亞君王攻擊巴比倫" } },
+        { "ref": "Isa.45.1", "about": { "en": "Cyrus, the LORD’s anointed", "zh": "耶和華的受膏者古列" } },
+        { "ref": "Prov.16.18", "about": { "en": "Pride goes before destruction", "zh": "驕傲走在毀滅之前" } }
+      ],
+      "history": {
+        "en": [
+          "Babylon fell to Cyrus of Persia in 539 BC, as Babylonian chronicles and the Cyrus Cylinder record.",
+          "Babylonian texts name Belshazzar as son of King Nabonidus, ruling in Babylon while his father stayed in Arabia; this is often taken to explain “third in the kingdom.”",
+          "Mene, tekel and peres are Aramaic words that also name weights: the mina, the shekel and the half-mina."
+        ],
+        "zh": [
+          "公元前539年，巴比倫被波斯王古列攻陷，巴比倫的編年史和古列圓柱都有記載。",
+          "巴比倫的文獻記載伯沙撒是拿波尼度王的兒子，在父親留居阿拉伯期間治理巴比倫；許多人以此解釋「位列第三」的意思。",
+          "彌尼、提客勒、毗勒斯是亞蘭文，也是重量單位的名稱：彌那、舍客勒和半彌那。"
+        ]
+      },
+      "maps": ["empires"],
+      "felt": { "story": "daniel" },
+      "connections": "Dan.5"
+    },
+    {
+      "n": 12,
+      "title": { "en": "Daniel in the lions' den", "zh": "但以理在獅子坑中" },
+      "passages": ["Dan.6"],
+      "key": "Dan.6.21-23",
+      "points": {
+        "en": [
+          "Darius the Mede makes Daniel one of three chief officials and plans to set him over the whole kingdom.",
+          "The other officials find no fault in him, so they persuade the king to ban requests to anyone but the king for thirty days.",
+          "Daniel still prays three times a day at windows open toward Jerusalem, as he had done before.",
+          "The king is distressed, but the law of the Medes and Persians cannot be changed; Daniel is thrown into the lions’ pit.",
+          "At dawn the king calls, and Daniel answers, “My God sent his angel and shut the lions’ mouths.”",
+          "Daniel is lifted out unharmed, because he trusted in his God; his accusers are thrown in.",
+          "Darius decrees that all must fear the God of Daniel, the living God, whose kingdom will never be destroyed."
+        ],
+        "zh": [
+          "米底亞人大利烏立但以理為三位總長之一，並打算立他治理全國。",
+          "其他官員找不到他的錯處，就勸王下禁令：三十天內，除了向王以外，不可向任何神或人祈求。",
+          "但以理仍像往常一樣，一日三次在開向耶路撒冷的窗前禱告。",
+          "王十分憂愁，但米底亞和波斯的律例不能更改；但以理就被扔進獅子坑。",
+          "天一亮，王呼叫但以理；但以理回答：「我的神差遣使者封住了獅子的口。」",
+          "但以理從坑裏被拉上來，毫無損傷，因為他信靠他的神；控告他的人卻被扔進坑中。",
+          "大利烏下詔，要人人敬畏但以理的神，他是永活的神，他的國永不敗壞。"
+        ]
+      },
+      "readings": [
+        { "ref": "1Kgs.8.46-49", "about": { "en": "Solomon prays for exiles who pray toward the city", "zh": "所羅門為向聖城禱告的被擄者祈求" } },
+        { "ref": "Ps.55.18", "about": { "en": "Evening, morning and noon I cry out", "zh": "晚上、早晨、中午我都要哀訴" } },
+        { "ref": "Esth.8.8", "about": { "en": "A decree sealed with the king’s ring cannot be revoked", "zh": "用王的戒指蓋印的詔書不能收回" } },
+        { "ref": "Heb.11.33", "about": { "en": "By faith some shut the mouths of lions", "zh": "有人藉着信堵住了獅子的口" } }
+      ],
+      "history": {
+        "en": [
+          "“Darius the Mede” is known only from Daniel. Scholars differ on who he was; some identify him with Cyrus, others with Gubaru, a governor of Babylon.",
+          "Kings of the region kept lions; Assyrian palace reliefs show royal lion hunts, and Babylon’s processional way was lined with glazed-brick lions.",
+          "Praying toward Jerusalem follows Solomon’s prayer (1 Kings 8:48). A tomb at Susa, in Iran, is traditionally Daniel’s.",
+          "In this site’s Bible, Daniel 6 follows the Aramaic numbering: English 6:1–28 is 6:2–29 here."
+        ],
+        "zh": [
+          "「米底亞人大利烏」只見於但以理書。學者對他是誰看法不一，有人認為就是古列，也有人認為是巴比倫總督古巴魯。",
+          "這一帶的君王常飼養獅子；亞述王宮的浮雕刻有君王獵獅的場面，巴比倫的遊行大道兩旁飾有琉璃磚獅子。",
+          "向耶路撒冷禱告是照着所羅門的禱告（列王紀上8章48節）。伊朗書珊的一座墳墓相傳是但以理的墓。",
+          "本站聖經依照亞蘭文的節數：英文但以理書6章1至28節在這裏是6章2至29節。"
+        ]
+      },
+      "maps": ["empires"],
+      "felt": { "story": "daniel" },
+      "connections": "Dan.6"
+    }
+  ]
+}
