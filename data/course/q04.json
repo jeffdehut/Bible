@@ -1,0 +1,934 @@
+{
+  "q": 4,
+  "lessons": [
+    {
+      "n": 1,
+      "title": {
+        "en": "Manna and quail",
+        "zh": "嗎哪和鵪鶉"
+      },
+      "passages": [
+        "Exod.16"
+      ],
+      "key": "Exod.16.13-15",
+      "points": {
+        "en": [
+          "In the wilderness of Sin the people grumble, wishing they had died by the pots of meat in Egypt.",
+          "The LORD says he will rain down bread from heaven, to test whether they follow his instructions.",
+          "That evening quail cover the camp; in the morning fine flakes lie on the ground.",
+          "\"What is it?\" they ask. Each gathers an omer per person; what is kept till morning breeds maggots.",
+          "On the sixth day they gather twice as much, for the seventh is a Sabbath, and none is found.",
+          "They call it manna: white like coriander seed, tasting like wafers made with honey.",
+          "A jar of manna is kept before the LORD. The Israelites eat manna for forty years."
+        ],
+        "zh": [
+          "在汛的曠野，百姓發怨言，說寧願死在埃及的肉鍋旁邊。",
+          "耶和華說要從天上降下糧食，考驗他們是否遵行他的律法。",
+          "當晚有鵪鶉遮滿營地；早晨地上有一層細小的薄片。",
+          "他們問：「這是甚麼？」每人收一俄梅珥；留到早晨的就生蟲。",
+          "第六天他們收雙倍，因為第七天是安息日，那天甚麼也找不到。",
+          "他們給它起名叫嗎哪，像白色的芫荽種子，味道像攙蜜的薄餅。",
+          "一罐嗎哪被存放在耶和華面前。以色列人吃嗎哪共四十年。"
+        ]
+      },
+      "readings": [
+        {
+          "ref": "John.6.31-35",
+          "about": {
+            "en": "Jesus: \"I am the bread of life\"",
+            "zh": "耶穌說：「我就是生命的糧。」"
+          }
+        },
+        {
+          "ref": "2Cor.8.15",
+          "about": {
+            "en": "Paul quotes 16:18 on gathering much and little",
+            "zh": "保羅引用16章18節論多收和少收"
+          }
+        },
+        {
+          "ref": "Deut.8.3",
+          "about": {
+            "en": "People do not live on bread alone",
+            "zh": "人活着不是單靠食物"
+          }
+        },
+        {
+          "ref": "Josh.5.12",
+          "about": {
+            "en": "The manna stops when Israel eats the produce of Canaan",
+            "zh": "以色列人吃了迦南的出產，嗎哪就停止了"
+          }
+        }
+      ],
+      "history": {
+        "en": [
+          "Quail migrate across Sinai each spring and autumn; tired flocks landing near the coast have been caught in great numbers.",
+          "An omer, a tenth of an ephah (16:36), was about 2 litres; estimates of ancient measures vary.",
+          "The name manna comes from the people's question in Hebrew, man hu, \"What is it?\" (16:15)."
+        ],
+        "zh": [
+          "鵪鶉每年春秋兩季飛越西奈；疲倦的鳥群在海邊降落時，常被人大量捕捉。",
+          "一俄梅珥是伊法的十分之一（16章36節），約兩公升；古代量器的估算各有不同。",
+          "「嗎哪」這名字來自百姓用希伯來文問的話 man hu，意思是「這是甚麼？」（16章15節）。"
+        ]
+      },
+      "maps": [
+        "exodus"
+      ],
+      "felt": {
+        "story": "moses"
+      },
+      "connections": "Exod.16"
+    },
+    {
+      "n": 2,
+      "title": {
+        "en": "Water from the rock",
+        "zh": "磐石出水"
+      },
+      "passages": [
+        "Exod.17.1-7"
+      ],
+      "key": "Exod.17.5-6",
+      "points": {
+        "en": [
+          "The community camps at Rephidim, and there is no water for the people to drink.",
+          "They quarrel with Moses and grumble: \"Why did you bring us up out of Egypt, to kill us with thirst?\"",
+          "Moses cries out to the LORD: \"A little more and they will stone me!\"",
+          "The LORD tells him to take some elders and the staff that struck the Nile, and go ahead of the people.",
+          "The LORD stands before him on the rock at Horeb; Moses strikes the rock, and water comes out.",
+          "He names the place Massah and Meribah, for they tested the LORD: \"Is the LORD among us or not?\""
+        ],
+        "zh": [
+          "以色列全會眾在利非訂安營，那裏沒有水給百姓喝。",
+          "他們與摩西爭吵，發怨言說：「你為甚麼把我們從埃及領出來，要叫我們渴死呢？」",
+          "摩西向耶和華呼求：「他們幾乎要拿石頭打死我了！」",
+          "耶和華吩咐他帶幾個長老，拿着擊打尼羅河的杖，走在百姓前面。",
+          "耶和華站在何烈的磐石那裏；摩西擊打磐石，水就流出來。",
+          "他給那地方起名叫瑪撒，又叫米利巴，因為他們試探耶和華說：「耶和華是不是在我們中間呢？」"
+        ]
+      },
+      "readings": [
+        {
+          "ref": "Num.20.1-13",
+          "about": {
+            "en": "Water from the rock again at Meribah; Moses strikes it twice",
+            "zh": "在米利巴磐石再次出水；摩西擊打兩次"
+          }
+        },
+        {
+          "ref": "Ps.95.7-11",
+          "about": {
+            "en": "A psalm warns: do not harden your hearts as at Meribah",
+            "zh": "詩篇警告：不要像在米利巴那樣硬着心"
+          }
+        },
+        {
+          "ref": "1Cor.10.4",
+          "about": {
+            "en": "Paul: \"the rock was Christ\"",
+            "zh": "保羅說：「那磐石就是基督。」"
+          }
+        },
+        {
+          "ref": "John.7.37-38",
+          "about": {
+            "en": "Jesus: \"If anyone is thirsty, let him come to me\"",
+            "zh": "耶穌說：「人若渴了，可以到我這裏來喝。」"
+          }
+        }
+      ],
+      "history": {
+        "en": [
+          "Rephidim's location is unknown; it is traditionally placed in Wadi Feiran in southern Sinai, on the way to Jebel Musa.",
+          "In Hebrew Massah means \"testing\" and Meribah means \"quarreling\"."
+        ],
+        "zh": [
+          "利非訂的位置不詳；傳統上認為在西奈半島南部的費蘭谷，位於往穆薩山的路上。",
+          "希伯來文「瑪撒」的意思是「試探」，「米利巴」的意思是「爭吵」。"
+        ]
+      },
+      "maps": [
+        "exodus"
+      ],
+      "felt": {
+        "find": "rock"
+      },
+      "connections": "Exod.17"
+    },
+    {
+      "n": 3,
+      "title": {
+        "en": "God gives the law",
+        "zh": "神頒佈律法"
+      },
+      "passages": [
+        "Exod.19-20"
+      ],
+      "key": "Exod.20.1-3",
+      "points": {
+        "en": [
+          "In the third month after leaving Egypt, Israel camps in front of the mountain in the wilderness of Sinai.",
+          "God says that if they keep his covenant, they will be his treasured possession, a kingdom of priests and a holy nation.",
+          "The people answer, \"We will do everything the LORD has said,\" and prepare themselves for the third day.",
+          "On the third day come thunder, lightning, a thick cloud and a loud ram's horn; the mountain smokes and shakes.",
+          "God speaks: no other gods, no idols, no misuse of his name; keep the Sabbath; honor father and mother.",
+          "Do not murder, commit adultery, steal, give false testimony or covet your neighbor's things.",
+          "Trembling, the people stand at a distance and ask Moses to speak to them instead of God."
+        ],
+        "zh": [
+          "出埃及後第三個月，以色列人來到西奈的曠野，在山前安營。",
+          "神說，他們若遵守他的約，就要作他的珍寶，作祭司的國度、聖潔的國民。",
+          "百姓回答說：「凡耶和華所說的，我們都要遵行。」並且潔淨自己，準備第三天。",
+          "第三天有雷轟、閃電、密雲和很響的角聲；全山冒煙，劇烈震動。",
+          "神說：不可有別的神，不可造偶像，不可妄稱他的名；要守安息日，要孝敬父母。",
+          "不可殺人，不可姦淫，不可偷盜，不可作假見證，不可貪戀鄰舍的東西。",
+          "百姓戰兢，遠遠站着，求摩西代替神對他們說話。"
+        ]
+      },
+      "readings": [
+        {
+          "ref": "Deut.5.1-21",
+          "about": {
+            "en": "Moses repeats the Ten Commandments",
+            "zh": "摩西重述十誡"
+          }
+        },
+        {
+          "ref": "Matt.22.36-40",
+          "about": {
+            "en": "Jesus names the greatest commandments",
+            "zh": "耶穌指出最大的誡命"
+          }
+        },
+        {
+          "ref": "Heb.12.18-24",
+          "about": {
+            "en": "Mount Sinai and Mount Zion compared",
+            "zh": "西奈山與錫安山的對比"
+          }
+        }
+      ],
+      "history": {
+        "en": [
+          "Treaties of the 14th and 13th centuries BC, such as the Hittite ones, open with the great king's name and past deeds before his demands, as 20:2 does.",
+          "Exodus 34:28 calls them the \"ten words\"; Jews and Christians divide and number the ten in different ways.",
+          "Mount Sinai is traditionally Jebel Musa (about 2,285 m) in southern Sinai; others propose sites in northern Sinai or northwest Arabia."
+        ],
+        "zh": [
+          "公元前十四、十三世紀的條約（例如赫人的條約），先寫大君王的名號和他過去的作為，然後才列出要求，與20章2節的寫法相似。",
+          "出埃及記34章28節稱這些為「十句話」；猶太人和基督徒對十誡的劃分和編號各有不同。",
+          "傳統認為西奈山就是西奈半島南部的穆薩山（約2285米）；也有人認為在西奈北部或阿拉伯半島西北部。"
+        ]
+      },
+      "maps": [
+        "exodus"
+      ],
+      "felt": {
+        "find": "tablets"
+      },
+      "connections": "Exod.20"
+    },
+    {
+      "n": 4,
+      "title": {
+        "en": "The golden calf",
+        "zh": "金牛犢"
+      },
+      "passages": [
+        "Exod.32"
+      ],
+      "key": "Exod.32.7-8",
+      "points": {
+        "en": [
+          "Moses is long on the mountain, so the people ask Aaron, \"Make us gods who will go ahead of us.\"",
+          "Aaron makes a calf of cast metal from their gold earrings, and they say, \"These are your gods, Israel.\"",
+          "The LORD tells Moses to go down and says he will destroy the people. Moses pleads, and the LORD relents.",
+          "Seeing the calf and the dancing, Moses throws down the tablets and breaks them.",
+          "He burns the calf, grinds it to powder, scatters it on water and makes the Israelites drink it.",
+          "The Levites rally to Moses, and about three thousand people die that day.",
+          "Moses asks God to forgive them, or else to wipe him out of the book he has written."
+        ],
+        "zh": [
+          "摩西遲遲沒有下山，百姓就對亞倫說：「給我們造神像，在我們前面引路。」",
+          "亞倫用他們的金耳環鑄了一頭牛犢；他們說：「以色列啊，這就是你的神。」",
+          "耶和華叫摩西下山，說要滅絕百姓。摩西懇求，耶和華就改變心意。",
+          "摩西看見牛犢和跳舞的人，就把兩塊版扔下摔碎了。",
+          "他把牛犢燒了，磨成粉末，撒在水面上，叫以色列人喝。",
+          "利未人聚集到摩西那裏；那一天約有三千人倒下。",
+          "摩西求神赦免他們，不然就把他從神所寫的冊子上塗抹掉。"
+        ]
+      },
+      "readings": [
+        {
+          "ref": "Acts.7.39-41",
+          "about": {
+            "en": "Stephen tells how Israel made the calf",
+            "zh": "司提反講述以色列人造牛犢"
+          }
+        },
+        {
+          "ref": "1Cor.10.7",
+          "about": {
+            "en": "Paul quotes 32:6: \"The people sat down to eat and drink\"",
+            "zh": "保羅引用32章6節：「百姓坐下吃喝」"
+          }
+        },
+        {
+          "ref": "Exod.34.1-9",
+          "about": {
+            "en": "Moses cuts new tablets, and the LORD proclaims his name",
+            "zh": "摩西鑿出新的石版，耶和華宣告他的名"
+          }
+        },
+        {
+          "ref": "1Kgs.12.28",
+          "about": {
+            "en": "Jeroboam makes two gold calves: \"Here are your gods\"",
+            "zh": "耶羅波安造了兩頭金牛犢"
+          }
+        }
+      ],
+      "history": {
+        "en": [
+          "Bulls were common religious symbols in Egypt (the Apis bull) and in Canaan; a small bronze and silver calf from about 1550 BC was found at Ashkelon in 1990.",
+          "Ancient idols were carved in wood and overlaid with gold, or cast in metal (compare Isaiah 40:19); 32:4 says Aaron cast the calf and shaped it with a tool."
+        ],
+        "zh": [
+          "公牛在埃及（阿匹斯神牛）和迦南都是常見的宗教象徵；1990年在亞實基倫出土了一頭約公元前1550年的銅鍍銀小牛像。",
+          "古代的偶像有用木頭雕刻再包金的，也有用金屬鑄造的（參看以賽亞書40章19節）；32章4節說亞倫鑄成牛犢，並用工具塑造。"
+        ]
+      },
+      "maps": [
+        "exodus"
+      ],
+      "felt": {
+        "find": "calf"
+      },
+      "connections": "Exod.32"
+    },
+    {
+      "n": 5,
+      "title": {
+        "en": "The tabernacle",
+        "zh": "帳幕"
+      },
+      "passages": [
+        "Exod.25-27",
+        "Exod.40"
+      ],
+      "key": "Exod.25.8-9",
+      "points": {
+        "en": [
+          "The LORD asks for a contribution from all whose hearts move them: gold, silver, bronze, yarn, linen, wood.",
+          "\"Have them make a sanctuary for me, so that I may live among them,\" exactly like the pattern shown.",
+          "An ark of acacia wood overlaid with gold, with a gold cover and two cherubim, will hold the testimony.",
+          "There are also a table, a gold lampstand, curtains and frames, a bronze altar and a courtyard.",
+          "On the first day of the first month in the second year, Moses sets up the tabernacle.",
+          "The cloud covers the tent of meeting, and the glory of the LORD fills the tabernacle.",
+          "When the cloud lifts, the Israelites set out; if it does not lift, they stay."
+        ],
+        "zh": [
+          "耶和華吩咐凡甘心樂意的人獻上禮物：金、銀、銅、各色紗線、細麻和木頭。",
+          "「他們要為我造聖所，好讓我住在他們中間。」一切都要照着所指示的式樣。",
+          "要用皂莢木造櫃，包上精金，上面有金的施恩座和兩個基路伯，櫃裏放法版。",
+          "還要造桌子、金燈臺、幔子和豎板、銅祭壇和院子。",
+          "第二年正月初一，摩西把帳幕立起來。",
+          "雲彩遮蓋會幕，耶和華的榮耀充滿了帳幕。",
+          "雲彩升起，以色列人就起行；雲彩不升起，他們就不起行。"
+        ]
+      },
+      "readings": [
+        {
+          "ref": "John.1.14",
+          "about": {
+            "en": "The Word became flesh and lived among us",
+            "zh": "道成了肉身，住在我們中間"
+          }
+        },
+        {
+          "ref": "Heb.8.1-5",
+          "about": {
+            "en": "The tabernacle as a copy and shadow of what is in heaven",
+            "zh": "帳幕是天上事物的副本和影子"
+          }
+        },
+        {
+          "ref": "Rev.21.3",
+          "about": {
+            "en": "\"God's dwelling is with humankind\"",
+            "zh": "「神的居所在人間」"
+          }
+        }
+      ],
+      "history": {
+        "en": [
+          "A cubit was the length from elbow to fingertip, about 45 cm, so the ark was about 1.1 m long and 0.7 m wide and high.",
+          "The courtyard was 100 by 50 cubits (27:18), about 45 by 23 metres.",
+          "Portable shrines of wooden frames overlaid with gold are known from Egypt, such as those in Tutankhamun's tomb (about 1325 BC)."
+        ],
+        "zh": [
+          "一肘是從手肘到指尖的長度，約45厘米；所以約櫃約長1.1米，寬和高各約0.7米。",
+          "院子長一百肘，寬五十肘（27章18節），約45米長、23米寬。",
+          "埃及也有用木架包金、可以拆卸搬運的神龕，例如圖坦卡門墓（約公元前1325年）中的神龕。"
+        ]
+      },
+      "maps": [
+        "exodus"
+      ],
+      "felt": {
+        "find": "tabernacle"
+      },
+      "connections": "Exod.25"
+    },
+    {
+      "n": 6,
+      "title": {
+        "en": "Spies in the promised land",
+        "zh": "窺探應許之地"
+      },
+      "passages": [
+        "Num.13-14"
+      ],
+      "key": "Num.14.6-9",
+      "points": {
+        "en": [
+          "At the LORD's command Moses sends twelve men, one from each tribe, to explore Canaan.",
+          "In the Valley of Eshcol they cut a single cluster of grapes, which two men carry on a pole.",
+          "After forty days they report: the land flows with milk and honey, but its people are strong and its towns fortified.",
+          "Caleb says, \"Let us go up at once\"; the others say, \"We seemed like grasshoppers.\"",
+          "The people weep and want a leader to take them back to Egypt; Joshua and Caleb urge them not to rebel.",
+          "Moses pleads, and the LORD forgives; but none of that generation will see the land, except Caleb and Joshua.",
+          "Against Moses' word they go up anyway and are beaten back by the Amalekites and Canaanites."
+        ],
+        "zh": [
+          "摩西照耶和華的吩咐，從每個支派派一人，共十二人，去窺探迦南地。",
+          "他們在以實各谷砍下一串葡萄，要兩個人用槓抬着。",
+          "四十天後他們回來報告：那地確實流奶與蜜，但居民強壯，城邑堅固。",
+          "迦勒說：「我們立刻上去吧！」其他人卻說：「我們看自己就像蚱蜢一樣。」",
+          "百姓哭號，要另立首領回埃及去；約書亞和迦勒勸他們不要背叛耶和華。",
+          "摩西懇求，耶和華就赦免了；但那一代人除了迦勒和約書亞，都不得看見那地。",
+          "他們不聽摩西的話，硬要上去，結果被亞瑪力人和迦南人擊退。"
+        ]
+      },
+      "readings": [
+        {
+          "ref": "Josh.14.6-14",
+          "about": {
+            "en": "Forty-five years later, Caleb receives Hebron",
+            "zh": "四十五年後，迦勒得了希伯崙為業"
+          }
+        },
+        {
+          "ref": "Num.32.11-13",
+          "about": {
+            "en": "Only Caleb and Joshua followed the LORD wholeheartedly",
+            "zh": "只有迦勒和約書亞專心跟從耶和華"
+          }
+        },
+        {
+          "ref": "Heb.3.16-19",
+          "about": {
+            "en": "They could not enter because of unbelief",
+            "zh": "他們因為不信，不能進入"
+          }
+        }
+      ],
+      "history": {
+        "en": [
+          "Kadesh (Kadesh-barnea) is usually identified with the springs of Ein el-Qudeirat in northeast Sinai, near today's Egypt–Israel border.",
+          "Hebron lies about 30 km south of Jerusalem; vineyards still grow around it, and the Valley of Eshcol (\"cluster\") is traditionally placed nearby.",
+          "Numbers 13:22 says Hebron was built seven years before Zoan (Tanis), a city in the northeast Nile Delta."
+        ],
+        "zh": [
+          "加低斯（加低斯‧巴尼亞）一般認為是西奈東北部的古德拉泉，靠近今天埃及和以色列的邊界。",
+          "希伯崙在耶路撒冷以南約30公里，周圍至今仍有葡萄園；以實各谷（意思是「一串」）傳統上認為就在附近。",
+          "民數記13章22節說，希伯崙比鎖安（坦尼斯）早七年建造；鎖安是尼羅河三角洲東北部的城。"
+        ]
+      },
+      "maps": [
+        "exodus"
+      ],
+      "felt": {
+        "find": "fruit"
+      },
+      "connections": "Num.13"
+    },
+    {
+      "n": 7,
+      "title": {
+        "en": "Korah's rebellion",
+        "zh": "可拉的叛亂"
+      },
+      "passages": [
+        "Num.16"
+      ],
+      "key": "Num.16.31-33",
+      "points": {
+        "en": [
+          "Korah the Levite, with Dathan, Abiram and On and 250 leaders, rises up against Moses and Aaron.",
+          "They say, \"The whole community is holy. Why do you exalt yourselves?\"",
+          "Moses tells them to bring firepans with incense, so that the LORD will show whom he chooses.",
+          "He asks the Levites: is it not enough to serve the LORD, that you seek the priesthood as well?",
+          "Dathan and Abiram refuse to come, saying Moses brought them from a land of milk and honey to die.",
+          "The ground splits open and swallows them and their households; they go down alive into Sheol.",
+          "Fire from the LORD consumes the 250 men who were offering the incense."
+        ],
+        "zh": [
+          "利未人可拉，聯同大坍、亞比蘭、安和二百五十個領袖，起來反抗摩西和亞倫。",
+          "他們說：「全會眾個個都是聖潔的，你們為甚麼抬高自己？」",
+          "摩西叫他們拿火鼎盛香，看耶和華揀選誰。",
+          "他問利未人：神使你們親近他事奉他，還不夠嗎？你們還要求祭司的職分嗎？",
+          "大坍和亞比蘭不肯來，說摩西把他們從流奶與蜜之地領出來，要害死他們。",
+          "地裂開了，把他們和他們的家都吞下去；他們活活地墜入陰間。",
+          "有火從耶和華那裏出來，燒滅了那二百五十個獻香的人。"
+        ]
+      },
+      "readings": [
+        {
+          "ref": "Num.17.16-26",
+          "about": {
+            "en": "Aaron's staff sprouts, showing the LORD has chosen him",
+            "zh": "亞倫的杖發芽，顯明耶和華揀選他"
+          }
+        },
+        {
+          "ref": "Num.26.9-11",
+          "about": {
+            "en": "\"But the sons of Korah did not die\"",
+            "zh": "「但可拉的兒子們沒有死」"
+          }
+        },
+        {
+          "ref": "Ps.42.1",
+          "about": {
+            "en": "A psalm headed \"of the sons of Korah\"",
+            "zh": "一篇題為「可拉後裔」的詩"
+          }
+        },
+        {
+          "ref": "Jude.1.11",
+          "about": {
+            "en": "Jude warns of those who perish \"in Korah's rebellion\"",
+            "zh": "猶大書警告那些「在可拉的叛亂中滅亡」的人"
+          }
+        }
+      ],
+      "history": {
+        "en": [
+          "Eleven psalms (42, 44–49, 84–85, 87–88) carry the title \"of the sons of Korah\"; the Korahites became Levite singers (2 Chronicles 20:19).",
+          "A firepan carried live coals; incense laid on the coals gave off fragrant smoke.",
+          "This site follows the Hebrew numbering: Numbers 17:1–15 here is 16:36–50 in most English Bibles, and 17:16–28 is 17:1–13."
+        ],
+        "zh": [
+          "有十一篇詩篇（42，44至49，84至85，87至88篇）題為「可拉後裔的詩」；可拉的子孫後來成了利未族的歌唱者（歷代志下20章19節）。",
+          "火鼎是用來盛炭火的器具；把香放在炭火上，就冒出香煙。",
+          "本站依照希伯來文的節數：這裏的民數記17章1至15節，在多數英文聖經是16章36至50節；17章16至28節則是17章1至13節。"
+        ]
+      },
+      "maps": [
+        "exodus"
+      ],
+      "felt": {
+        "find": "priest"
+      },
+      "connections": "Num.16"
+    },
+    {
+      "n": 8,
+      "title": {
+        "en": "Wandering in the wilderness; the bronze serpent",
+        "zh": "曠野漂流；銅蛇"
+      },
+      "passages": [
+        "Num.14.26-35",
+        "Num.21.4-9"
+      ],
+      "key": "Num.21.8-9",
+      "points": {
+        "en": [
+          "The LORD says all of the grumbling community aged twenty and older will die in the wilderness.",
+          "Only Caleb and Joshua will enter; the children will be shepherds in the wilderness for forty years.",
+          "The forty days of exploring become forty years: a year for each day.",
+          "Years later, going around Edom, the people grow impatient and speak against God and Moses.",
+          "The LORD sends fiery snakes; many die, and the people confess their sin and ask Moses to pray.",
+          "Moses makes a bronze snake and puts it on a pole; anyone bitten who looks at it lives."
+        ],
+        "zh": [
+          "耶和華說，那些發怨言的會眾，凡二十歲以上的，都要倒斃在曠野。",
+          "只有迦勒和約書亞能進去；他們的兒女要在曠野放牧四十年。",
+          "窺探那地的四十天，一天算一年，成了四十年。",
+          "多年後，他們繞過以東地，百姓在路上不耐煩，就埋怨神和摩西。",
+          "耶和華使火蛇進入百姓中，死了許多人；百姓認罪，求摩西禱告。",
+          "摩西造了一條銅蛇，掛在杆子上；被蛇咬的人一望銅蛇，就活下來。"
+        ]
+      },
+      "readings": [
+        {
+          "ref": "John.3.14-15",
+          "about": {
+            "en": "Jesus: as Moses lifted up the snake, so the Son of Man",
+            "zh": "耶穌說：摩西怎樣舉蛇，人子也必照樣被舉起"
+          }
+        },
+        {
+          "ref": "2Kgs.18.4",
+          "about": {
+            "en": "Hezekiah breaks up the bronze snake, called Nehushtan",
+            "zh": "希西家打碎那叫尼忽士但的銅蛇"
+          }
+        },
+        {
+          "ref": "Deut.2.14",
+          "about": {
+            "en": "Thirty-eight years until that generation had died out",
+            "zh": "三十八年後，那一代人都死盡了"
+          }
+        },
+        {
+          "ref": "1Cor.10.9-11",
+          "about": {
+            "en": "Paul: those destroyed by the snakes are a warning",
+            "zh": "保羅說：被蛇所滅的事是給我們的警戒"
+          }
+        }
+      ],
+      "history": {
+        "en": [
+          "Edom lay south and southeast of the Dead Sea, in today's southern Jordan.",
+          "Venomous snakes, such as the saw-scaled viper and the horned viper, live in Sinai and the Arabah valley.",
+          "A copper snake about 13 cm long was found in a shrine at Timna, a copper-mining site in the Arabah, from about the 12th century BC."
+        ],
+        "zh": [
+          "以東位於死海的南面和東南面，在今天約旦的南部。",
+          "西奈和亞拉巴谷有毒蛇出沒，例如鋸鱗蝰和角蝰。",
+          "在亞拉巴谷的銅礦遺址亭納，一座約公元前十二世紀的神廟中，出土了一條長約13厘米的銅蛇。"
+        ]
+      },
+      "maps": [
+        "exodus"
+      ],
+      "felt": {
+        "find": "snake"
+      },
+      "connections": "Num.21"
+    },
+    {
+      "n": 9,
+      "title": {
+        "en": "Balaam and Balak",
+        "zh": "巴蘭和巴勒"
+      },
+      "passages": [
+        "Num.22-24"
+      ],
+      "key": "Num.23.19-20",
+      "points": {
+        "en": [
+          "Moab is terrified of Israel, camped on its plains, so King Balak sends for Balaam son of Beor to curse them.",
+          "God tells Balaam, \"You must not curse the people, for they are blessed.\"",
+          "Balak sends more officials. God lets Balaam go, but he must do only what God tells him.",
+          "On the road his donkey sees the angel of the LORD and turns aside three times; the LORD opens the donkey's mouth.",
+          "The LORD opens Balaam's eyes to see the angel, who tells him to say only what he is told.",
+          "Three times Balak builds altars for a curse, and three times Balaam blesses Israel instead.",
+          "Balaam says, \"A star will march out of Jacob; a scepter will rise out of Israel.\" Then each goes home."
+        ],
+        "zh": [
+          "以色列人在摩押平原安營，摩押人非常害怕；摩押王巴勒派人去請比珥的兒子巴蘭來咒詛他們。",
+          "神對巴蘭說：「你不可咒詛那民，因為他們是蒙福的。」",
+          "巴勒又派更多的使臣去。神讓巴蘭去，但他只可照神的吩咐行。",
+          "在路上，母驢看見耶和華的使者，三次轉開；耶和華就開了母驢的口。",
+          "耶和華開了巴蘭的眼睛，他就看見那使者；使者吩咐他只說所吩咐的話。",
+          "巴勒三次築壇要咒詛以色列，巴蘭卻三次為以色列祝福。",
+          "巴蘭說：「必有一顆星從雅各而出，必有一根權杖從以色列興起。」然後各自回去。"
+        ]
+      },
+      "readings": [
+        {
+          "ref": "2Pet.2.15-16",
+          "about": {
+            "en": "Peter: Balaam rebuked by a speaking donkey",
+            "zh": "彼得說：巴蘭被會說話的驢責備"
+          }
+        },
+        {
+          "ref": "Num.31.8",
+          "about": {
+            "en": "Balaam son of Beor is killed with the kings of Midian",
+            "zh": "比珥的兒子巴蘭和米甸諸王一同被殺"
+          }
+        },
+        {
+          "ref": "Rev.2.14",
+          "about": {
+            "en": "\"The teaching of Balaam\", who taught Balak",
+            "zh": "教導巴勒的「巴蘭的教訓」"
+          }
+        },
+        {
+          "ref": "Mic.6.5",
+          "about": {
+            "en": "Micah: remember what Balak planned and Balaam answered",
+            "zh": "彌迦說：要記得巴勒的計謀和巴蘭的回答"
+          }
+        }
+      ],
+      "history": {
+        "en": [
+          "A plaster inscription found at Deir Alla in Jordan, from about 800 BC, tells of \"Balaam son of Beor\", a seer of the gods.",
+          "The plains of Moab lie northeast of the Dead Sea, across the Jordan from Jericho; Moab itself was east of the Dead Sea, in today's central Jordan.",
+          "Pethor (22:5) is usually identified with Pitru on the Euphrates, south of Carchemish, known from Assyrian records."
+        ],
+        "zh": [
+          "在約旦代爾阿拉出土的一段約公元前800年的灰泥銘文，記載了「比珥的兒子巴蘭」，稱他為眾神的先見。",
+          "摩押平原在死海東北，與耶利哥隔着約旦河相望；摩押本土在死海以東，即今天約旦的中部。",
+          "毗奪（22章5節）通常認為就是亞述文獻中的皮特魯，在伯拉河邊、迦基米施以南。"
+        ]
+      },
+      "maps": [
+        "exodus"
+      ],
+      "felt": {
+        "find": "donkey"
+      },
+      "connections": "Num.22"
+    },
+    {
+      "n": 10,
+      "title": {
+        "en": "Moses' last words; Joshua leads",
+        "zh": "摩西的臨別之言；約書亞接續帶領"
+      },
+      "passages": [
+        "Deut.31",
+        "Deut.34",
+        "Josh.1"
+      ],
+      "key": "Josh.1.9",
+      "points": {
+        "en": [
+          "Moses, 120 years old, tells Israel he will not cross the Jordan; the LORD will go ahead of them, with Joshua.",
+          "Before all Israel he tells Joshua, \"Be strong and courageous,\" for the LORD will not abandon him.",
+          "Moses writes the law in a book, and the LORD commissions Joshua at the tent of meeting.",
+          "From Mount Nebo the LORD shows Moses the land he swore to give to Abraham, Isaac and Jacob.",
+          "Moses dies in Moab, and no one knows where his grave is. Israel mourns for him thirty days.",
+          "Joshua is filled with the spirit of wisdom, for Moses had laid his hands on him.",
+          "The LORD tells Joshua to cross the Jordan and keep the law: \"As I was with Moses, so I will be with you.\""
+        ],
+        "zh": [
+          "摩西一百二十歲了，他告訴以色列人：他不能過約旦河，耶和華要親自在前面行，約書亞要帶領他們。",
+          "他在以色列眾人眼前對約書亞說：「你要剛強，要壯膽。」因為耶和華必不丟棄他。",
+          "摩西把律法寫在書上；耶和華在會幕那裏任命約書亞。",
+          "耶和華在尼波山上把他向亞伯拉罕、以撒和雅各起誓應許的地指給摩西看。",
+          "摩西死在摩押地，沒有人知道他的墳墓在哪裏。以色列人為他哀哭了三十天。",
+          "約書亞充滿了智慧的靈，因為摩西曾按手在他頭上。",
+          "耶和華吩咐約書亞過約旦河，遵守律法，又說：「我怎樣與摩西同在，也必照樣與你同在。」"
+        ]
+      },
+      "readings": [
+        {
+          "ref": "Num.27.18-23",
+          "about": {
+            "en": "Moses lays his hands on Joshua and commissions him",
+            "zh": "摩西按手在約書亞頭上，任命他"
+          }
+        },
+        {
+          "ref": "Acts.3.22",
+          "about": {
+            "en": "Peter quotes Moses: God will raise up a prophet like me",
+            "zh": "彼得引用摩西的話：神要興起一位像我的先知"
+          }
+        },
+        {
+          "ref": "Heb.13.5",
+          "about": {
+            "en": "\"I will never fail you or abandon you\" (Deuteronomy 31:6)",
+            "zh": "「我總不撇下你，也不丟棄你」（申31章6節）"
+          }
+        },
+        {
+          "ref": "Matt.17.1-3",
+          "about": {
+            "en": "Moses appears with Elijah, talking with Jesus",
+            "zh": "摩西和以利亞顯現，與耶穌說話"
+          }
+        }
+      ],
+      "history": {
+        "en": [
+          "Mount Nebo, about 800 m high, is in Jordan, northeast of the Dead Sea; on clear days Jericho and the hills of Jerusalem can be seen from it.",
+          "A church built on Nebo by the 4th century AD marks the traditional place of Moses' death; his grave is unknown (34:6).",
+          "The name Deuteronomy means \"second law\" in Greek, from the Greek translation of 17:18."
+        ],
+        "zh": [
+          "尼波山約高800米，在今天約旦境內、死海東北；天晴時可以從山上望見耶利哥和耶路撒冷的山嶺。",
+          "尼波山上有一座最晚建於公元四世紀的教堂，是傳統上紀念摩西去世的地方；他的墳墓卻無人知道（34章6節）。",
+          "「申命記」的英文名 Deuteronomy 來自希臘文，意思是「第二律法」，出自希臘文譯本對17章18節的翻譯。"
+        ]
+      },
+      "maps": [
+        "exodus",
+        "palestine-history"
+      ],
+      "felt": {
+        "story": "moses"
+      },
+      "connections": "Deut.34"
+    },
+    {
+      "n": 11,
+      "title": {
+        "en": "Rahab and the spies",
+        "zh": "喇合和探子"
+      },
+      "passages": [
+        "Josh.2"
+      ],
+      "key": "Josh.2.9-11",
+      "points": {
+        "en": [
+          "Joshua secretly sends two spies from Shittim; they stay in Jericho at the house of a prostitute named Rahab.",
+          "The king of Jericho orders her to bring them out, but she hides them under stalks of flax on her roof.",
+          "She sends the pursuers off on the road to the fords of the Jordan.",
+          "She tells the spies: we heard how the LORD dried up the Red Sea; your God is God in heaven and on earth.",
+          "She asks them to swear to spare her family, and they promise, \"Our lives for yours.\"",
+          "She lets them down by a rope from her window in the town wall, and ties a scarlet cord in the window.",
+          "After three days in the hills they tell Joshua, \"The LORD has given the whole land into our hands.\""
+        ],
+        "zh": [
+          "約書亞從什亭暗中派兩個探子去；他們在耶利哥一個名叫喇合的妓女家裏過夜。",
+          "耶利哥王叫她把那兩人交出來，她卻把他們藏在房頂的麻稈下。",
+          "她打發追趕的人往約旦河渡口的路上去。",
+          "她對探子說：我們聽見耶和華怎樣使紅海的水乾了；耶和華你們的神是上天下地的神。",
+          "她求他們起誓保全她全家，他們答應說：「我們願意替你們死！」",
+          "她用繩子把他們從城牆上的窗戶吊下去，又把朱紅色的繩子繫在窗上。",
+          "他們在山上躲了三天，回去對約書亞說：「耶和華已經把那全地交在我們手中了。」"
+        ]
+      },
+      "readings": [
+        {
+          "ref": "Josh.6.22-25",
+          "about": {
+            "en": "Rahab and her family are spared at Jericho",
+            "zh": "喇合和她全家在耶利哥得以存活"
+          }
+        },
+        {
+          "ref": "Matt.1.5",
+          "about": {
+            "en": "Rahab in the family line of Jesus",
+            "zh": "喇合列在耶穌的家譜中"
+          }
+        },
+        {
+          "ref": "Heb.11.31",
+          "about": {
+            "en": "By faith Rahab did not perish",
+            "zh": "喇合因着信沒有滅亡"
+          }
+        },
+        {
+          "ref": "Jas.2.25",
+          "about": {
+            "en": "James: Rahab welcomed the messengers",
+            "zh": "雅各書說：喇合接待了使者"
+          }
+        }
+      ],
+      "history": {
+        "en": [
+          "Jericho, by a strong spring north of the Dead Sea, is one of the oldest known towns in the world; its ancient mound is Tell es-Sultan.",
+          "Flax was grown for linen; after harvest its stalks were soaked and then dried, often spread on flat roofs.",
+          "Shittim (\"acacias\") was Israel's last camp on the plains of Moab, east of the Jordan."
+        ],
+        "zh": [
+          "耶利哥位於死海以北的一道大泉旁，是世上已知最古老的城鎮之一；古城遺址是蘇丹丘。",
+          "亞麻是用來織細麻布的；收割後，麻稈先浸水，再曬乾，常常鋪在平的房頂上。",
+          "什亭（意思是「皂莢樹」）是以色列人在約旦河東、摩押平原的最後一個營地。"
+        ]
+      },
+      "maps": [
+        "palestine-history"
+      ],
+      "felt": {
+        "find": "wall"
+      },
+      "connections": "Josh.2"
+    },
+    {
+      "n": 12,
+      "title": {
+        "en": "Israel enters the promised land: the Jordan and Jericho",
+        "zh": "以色列進入應許之地：過約旦河，攻取耶利哥"
+      },
+      "passages": [
+        "Josh.3-6"
+      ],
+      "key": "Josh.6.20",
+      "points": {
+        "en": [
+          "The priests carry the ark into the Jordan, flooding at harvest time, and the water stops far upstream at Adam.",
+          "All Israel crosses on dry ground while the priests stand in the middle of the river.",
+          "Twelve stones from the riverbed are set up at Gilgal as a sign for their children.",
+          "At Gilgal they keep the Passover; after they eat the produce of the land, the manna stops.",
+          "Near Jericho the commander of the LORD's army appears to Joshua.",
+          "For six days the soldiers and seven priests with rams' horns march once around the town with the ark.",
+          "On the seventh day they march around seven times; the people shout, and the wall collapses."
+        ],
+        "zh": [
+          "祭司抬着約櫃進入收割時漲滿兩岸的約旦河，上游的水就在遠處的亞當城停住。",
+          "祭司站在河中間的乾地上，以色列眾人都踏着乾地過去。",
+          "他們從河中取了十二塊石頭，立在吉甲，作為給子孫的記號。",
+          "他們在吉甲守逾越節；吃了那地的出產以後，嗎哪就停止了。",
+          "在耶利哥附近，耶和華軍隊的元帥向約書亞顯現。",
+          "一連六天，軍兵和七個拿着羊角號的祭司抬着約櫃，每天繞城一次。",
+          "第七天，他們繞城七次；百姓大聲吶喊，城牆就倒塌了。"
+        ]
+      },
+      "readings": [
+        {
+          "ref": "Ps.114.1-5",
+          "about": {
+            "en": "A psalm: the sea fled and the Jordan turned back",
+            "zh": "詩篇：海看見就逃跑，約旦河也倒流"
+          }
+        },
+        {
+          "ref": "Heb.11.30",
+          "about": {
+            "en": "By faith the walls of Jericho fell",
+            "zh": "耶利哥的城牆因着信倒塌"
+          }
+        },
+        {
+          "ref": "1Kgs.16.34",
+          "about": {
+            "en": "Hiel rebuilds Jericho, as Joshua's curse had said",
+            "zh": "希伊勒重建耶利哥，應驗了約書亞的話"
+          }
+        }
+      ],
+      "history": {
+        "en": [
+          "Adam is usually identified with Tell ed-Damiyeh, about 30 km up the Jordan; landslides there blocked the river for hours in AD 1267 and 1927.",
+          "Archaeologists differ on Jericho in Joshua's day: Kathleen Kenyon dated the fall of its walled city to about 1550 BC; others argue for about 1400 BC.",
+          "Gilgal was east of Jericho (4:19); its exact site has not been identified."
+        ],
+        "zh": [
+          "亞當城一般認為是約旦河上游約30公里的達米耶丘；公元1267年和1927年，那裏的山崩曾把河水截斷了幾個小時。",
+          "考古學家對約書亞時代的耶利哥意見不一：肯揚把這座有城牆的城被毀定在約公元前1550年，也有人主張約公元前1400年。",
+          "吉甲在耶利哥以東（4章19節），確實位置至今未能確定。"
+        ]
+      },
+      "maps": [
+        "palestine-history"
+      ],
+      "felt": {
+        "find": "jericho"
+      },
+      "connections": "Josh.6"
+    }
+  ]
+}
