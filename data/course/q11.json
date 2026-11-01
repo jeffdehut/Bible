@@ -1,0 +1,963 @@
+{
+  "q": 11,
+  "lessons": [
+    {
+      "n": 1,
+      "title": {
+        "en": "Feeding the five thousand",
+        "zh": "五餅二魚餵飽五千人"
+      },
+      "passages": [
+        "John.6.1-15"
+      ],
+      "key": "John.6.9-11",
+      "points": {
+        "en": [
+          "A large crowd follows Jesus across the Sea of Galilee because of the signs he does for the sick.",
+          "Jesus asks Philip where they can buy bread; Philip says two hundred denarii would not be enough.",
+          "Andrew points to a boy with five barley loaves and two fish.",
+          "Jesus has the people sit on the grass, about five thousand men.",
+          "He gives thanks and distributes the bread and fish, as much as they want.",
+          "The disciples gather the leftover pieces and fill twelve baskets.",
+          "The people say he is the Prophet; Jesus withdraws when they want to make him king."
+        ],
+        "zh": [
+          "一大群人因為看見耶穌醫治病人的神蹟，就跟着他到加利利海的對岸。",
+          "耶穌問腓力要從哪裏買餅；腓力說兩百個銀幣買餅也不夠。",
+          "安得烈指出有一個小孩子帶着五個大麥餅和兩條魚。",
+          "耶穌叫眾人坐在草地上，男人約有五千。",
+          "他祝謝了，就把餅和魚分給眾人，大家要多少就給多少。",
+          "門徒把剩下的碎塊收拾起來，裝滿了十二個籃子。",
+          "眾人說他就是那位先知；他們要強逼他作王，耶穌就退到山上去了。"
+        ]
+      },
+      "readings": [
+        {
+          "ref": "Matt.14.13-21",
+          "about": {
+            "en": "Matthew's account of the feeding",
+            "zh": "馬太記載的五餅二魚"
+          }
+        },
+        {
+          "ref": "2Kgs.4.42-44",
+          "about": {
+            "en": "Elisha feeds a hundred men with twenty loaves",
+            "zh": "以利沙用二十個餅餵飽一百人"
+          }
+        },
+        {
+          "ref": "John.6.35",
+          "about": {
+            "en": "Jesus says, I am the bread of life",
+            "zh": "耶穌說他就是生命的糧"
+          }
+        },
+        {
+          "ref": "Exod.16.13-15",
+          "about": {
+            "en": "God gives Israel manna in the wilderness",
+            "zh": "神在曠野賜嗎哪給以色列人"
+          }
+        }
+      ],
+      "history": {
+        "en": [
+          "The Sea of Galilee is a freshwater lake about 21 km long and 13 km wide, lying about 210 m below sea level.",
+          "Herod Antipas founded the city of Tiberias on its western shore about AD 20, so the lake was also called the Sea of Tiberias.",
+          "A denarius was about a day's wage for a laborer (Matthew 20:2). Barley bread was the common food of the poor.",
+          "Apart from the resurrection, this is the only miracle of Jesus told in all four Gospels."
+        ],
+        "zh": [
+          "加利利海是淡水湖，長約21公里，寬約13公里，湖面低於海平面約210公尺。",
+          "希律安提帕約在主後20年在湖的西岸建了提比哩亞城，所以這湖又叫提比哩亞海。",
+          "一個銀幣（第納流斯）約是工人一天的工資（馬太福音20章2節）。大麥餅是窮人的日常食物。",
+          "除了復活以外，這是四本福音書都有記載的唯一神蹟。"
+        ]
+      },
+      "maps": [
+        "palestine"
+      ],
+      "felt": {
+        "story": "ministry"
+      },
+      "connections": "John.6"
+    },
+    {
+      "n": 2,
+      "title": {
+        "en": "Jesus walks on water",
+        "zh": "耶穌在海面上行走"
+      },
+      "passages": [
+        "Matt.14.22-33"
+      ],
+      "key": "Matt.14.30-33",
+      "points": {
+        "en": [
+          "Jesus sends the disciples ahead by boat and goes up the mountain alone to pray.",
+          "Far from land, the boat is battered by waves because the wind is against them.",
+          "Shortly before dawn Jesus comes to them, walking on the sea; they cry out, thinking he is a ghost.",
+          "Jesus says, Take courage! It is I. Don't be afraid.",
+          "Peter walks on the water toward Jesus, but seeing the wind he is afraid and begins to sink.",
+          "Jesus catches him and asks why he doubted.",
+          "The wind dies down, and those in the boat worship him as the Son of God."
+        ],
+        "zh": [
+          "耶穌叫門徒先坐船過去，自己獨自上山禱告。",
+          "船離岸很遠，因為逆風，被風浪打得顛簸。",
+          "天快亮的時候，耶穌在海面上走向他們；他們以為是鬼怪，就驚叫起來。",
+          "耶穌說：「放心！是我，不要怕。」",
+          "彼得在水面上走向耶穌，但看見風大就害怕，開始往下沉。",
+          "耶穌拉住他，問他為甚麼疑惑。",
+          "風就停了，船上的人都拜他，說他真是神的兒子。"
+        ]
+      },
+      "readings": [
+        {
+          "ref": "Mark.6.45-52",
+          "about": {
+            "en": "Mark's account of Jesus walking on the sea",
+            "zh": "馬可記載耶穌在海面上行走"
+          }
+        },
+        {
+          "ref": "John.6.16-21",
+          "about": {
+            "en": "John's account, after the feeding",
+            "zh": "約翰的記載，在五餅二魚之後"
+          }
+        },
+        {
+          "ref": "Job.9.8",
+          "about": {
+            "en": "God treads on the waves of the sea",
+            "zh": "神踐踏海浪"
+          }
+        },
+        {
+          "ref": "Ps.107.28-30",
+          "about": {
+            "en": "The LORD calms the storm for sailors",
+            "zh": "耶和華為航海的人平息風浪"
+          }
+        }
+      ],
+      "history": {
+        "en": [
+          "Winds descending from the hills around the Sea of Galilee can raise sudden, violent storms on the lake.",
+          "In 1986 a fishing boat about 8 m long, dated to about the time of Jesus, was found in the mud near Ginosar on the lake's shore.",
+          "A stadion, the distance in verse 24, was about 185 m."
+        ],
+        "zh": [
+          "從加利利海四周山上吹下來的風，常在湖上掀起突如其來的猛烈風浪。",
+          "1986年，人們在湖邊吉諾薩附近的泥中發現一艘約8公尺長的漁船，年代約在耶穌的時代。",
+          "第24節的「斯塔迪亞」是希臘的長度單位，一斯塔迪約185公尺。"
+        ]
+      },
+      "maps": [
+        "palestine"
+      ],
+      "felt": {
+        "story": "ministry"
+      },
+      "connections": "Matt.14"
+    },
+    {
+      "n": 3,
+      "title": {
+        "en": "Healing on the Sabbath",
+        "zh": "在安息日治病"
+      },
+      "passages": [
+        "Luke.13.10-17"
+      ],
+      "key": "Luke.13.12-13",
+      "points": {
+        "en": [
+          "Jesus is teaching in a synagogue on the Sabbath.",
+          "A woman has been bent over for eighteen years and cannot stand up straight.",
+          "Jesus says she is set free, lays his hands on her, and she stands up and praises God.",
+          "The synagogue leader tells the crowd to come for healing on the six work days, not the Sabbath.",
+          "Jesus answers that they untie an ox or donkey on the Sabbath to give it water.",
+          "He asks whether this daughter of Abraham should not be set free on the Sabbath.",
+          "His opponents are put to shame, and the crowd rejoices."
+        ],
+        "zh": [
+          "耶穌在安息日在一個會堂裏教導人。",
+          "有一個女人駝背十八年，一點也直不起腰來。",
+          "耶穌說她得了釋放，把手按在她身上，她立刻直起腰來，讚美神。",
+          "會堂主管對眾人說，應該在六天做工的日子來求醫治，不要在安息日。",
+          "耶穌回答說，他們在安息日也解開牛和驢，牽去喝水。",
+          "他問：這個亞伯拉罕的女兒難道不應該在安息日得釋放嗎？",
+          "反對他的人都慚愧，眾人卻都歡喜。"
+        ]
+      },
+      "readings": [
+        {
+          "ref": "Deut.5.12-14",
+          "about": {
+            "en": "The Sabbath commandment",
+            "zh": "安息日的誡命"
+          }
+        },
+        {
+          "ref": "Matt.12.9-14",
+          "about": {
+            "en": "Jesus heals a man's withered hand on the Sabbath",
+            "zh": "耶穌在安息日醫好一隻萎縮的手"
+          }
+        },
+        {
+          "ref": "Mark.2.27-28",
+          "about": {
+            "en": "The Sabbath was made for people",
+            "zh": "安息日是為人設立的"
+          }
+        },
+        {
+          "ref": "Luke.14.1-6",
+          "about": {
+            "en": "Jesus heals a man on the Sabbath at a Pharisee's house",
+            "zh": "耶穌在法利賽人家裏於安息日治病"
+          }
+        }
+      ],
+      "history": {
+        "en": [
+          "The Jewish Sabbath runs from sunset on Friday to sunset on Saturday.",
+          "Synagogues from the first century have been excavated at Magdala, Gamla and Masada; they had benches along the walls facing the center.",
+          "The Mishnah, a collection of Jewish law written down about AD 200, lists thirty-nine kinds of work forbidden on the Sabbath."
+        ],
+        "zh": [
+          "猶太人的安息日從星期五日落開始，到星期六日落結束。",
+          "考古學家在抹大拉、迦姆拉和馬撒大發掘出第一世紀的會堂，牆邊都有面向中間的石凳。",
+          "約在主後200年寫成的猶太律法彙編《米示拿》，列出了安息日禁止的三十九類工作。"
+        ]
+      },
+      "maps": [
+        "palestine"
+      ],
+      "felt": {
+        "story": "ministry"
+      },
+      "connections": "Luke.13"
+    },
+    {
+      "n": 4,
+      "title": {
+        "en": "The parable of the mustard seed",
+        "zh": "芥菜種的比喻"
+      },
+      "passages": [
+        "Matt.13.31-32",
+        "Mark.4.30-32"
+      ],
+      "key": "Matt.13.31-32",
+      "points": {
+        "en": [
+          "Jesus tells another parable about the kingdom of heaven.",
+          "The kingdom is like a mustard seed that a man sows in his field.",
+          "It is the smallest of all seeds.",
+          "When it has grown, it is the largest of garden plants and becomes a tree.",
+          "The birds of the sky come and nest in its branches; Mark says, in its shade."
+        ],
+        "zh": [
+          "耶穌又講了一個關於天國的比喻。",
+          "天國好比一粒芥菜種，有人拿來種在自己的田裏。",
+          "它比一切的種子都小。",
+          "長起來以後，卻比一切蔬菜都大，成了一棵樹。",
+          "天空的飛鳥都來在它的枝子上棲息；馬可說是在它的蔭下。"
+        ]
+      },
+      "readings": [
+        {
+          "ref": "Luke.13.18-19",
+          "about": {
+            "en": "Luke's telling of the mustard seed",
+            "zh": "路加記載的芥菜種比喻"
+          }
+        },
+        {
+          "ref": "Ezek.17.22-23",
+          "about": {
+            "en": "A cedar where birds of every kind nest",
+            "zh": "各類飛鳥棲息的香柏樹"
+          }
+        },
+        {
+          "ref": "Dan.4.7-9",
+          "about": {
+            "en": "Nebuchadnezzar dreams of a great tree",
+            "zh": "尼布甲尼撒夢見一棵大樹"
+          }
+        },
+        {
+          "ref": "Matt.13.33",
+          "about": {
+            "en": "The parable of the yeast",
+            "zh": "麵酵的比喻"
+          }
+        }
+      ],
+      "history": {
+        "en": [
+          "Black mustard grows wild in Galilee; in a season it can grow to about 3 m tall.",
+          "A mustard seed is about 1 mm across. Jewish sayings of the time used it as a picture of something very small.",
+          "Matthew 13 gathers seven parables of the kingdom, beginning with the parable of the sower."
+        ],
+        "zh": [
+          "黑芥菜在加利利野地生長，一季可長到約3公尺高。",
+          "芥菜種直徑約1公釐。當時猶太人的俗語常用它來比喻極小的東西。",
+          "馬太福音第13章收集了七個天國的比喻，以撒種的比喻開始。"
+        ]
+      },
+      "maps": [
+        "palestine"
+      ],
+      "felt": {
+        "find": "tree"
+      },
+      "connections": "Matt.13"
+    },
+    {
+      "n": 5,
+      "title": {
+        "en": "The good Samaritan",
+        "zh": "好撒馬利亞人"
+      },
+      "passages": [
+        "Luke.10.25-37"
+      ],
+      "key": "Luke.10.33-35",
+      "points": {
+        "en": [
+          "An expert in the Law asks Jesus what he must do to inherit eternal life.",
+          "He answers from the Law: love God with all your heart, and your neighbor as yourself.",
+          "He asks, Who is my neighbor? Jesus tells of a man beaten by robbers on the road to Jericho.",
+          "A priest and a Levite see him and pass by on the other side.",
+          "A Samaritan has compassion, bandages his wounds, and takes him to an inn.",
+          "He pays the innkeeper two denarii and promises to repay any more he spends.",
+          "The lawyer says the neighbor was the one who showed mercy; Jesus says, Go and do the same."
+        ],
+        "zh": [
+          "一個律法教師問耶穌，他該做甚麼才可以承受永生。",
+          "他引用律法回答：要全心愛主你的神，又要愛鄰舍如同自己。",
+          "他問：「誰是我的鄰舍呢？」耶穌講了一個人在往耶利哥的路上被強盜打傷的故事。",
+          "一個祭司和一個利未人看見了他，都從另一邊走過去了。",
+          "一個撒馬利亞人動了憐憫的心，替他包紮傷口，帶他到旅店裏去。",
+          "他給店主兩個銀幣，又答應回來時償還多用的費用。",
+          "律法教師說，是憐憫他的那一位；耶穌說：「你去照樣做吧。」"
+        ]
+      },
+      "readings": [
+        {
+          "ref": "Deut.6.5",
+          "about": {
+            "en": "Love the LORD your God with all your heart",
+            "zh": "要全心愛耶和華你的神"
+          }
+        },
+        {
+          "ref": "Lev.19.18",
+          "about": {
+            "en": "Love your neighbor as yourself",
+            "zh": "要愛鄰舍如同自己"
+          }
+        },
+        {
+          "ref": "John.4.7-10",
+          "about": {
+            "en": "Jesus asks a Samaritan woman for a drink",
+            "zh": "耶穌向撒馬利亞婦人要水喝"
+          }
+        },
+        {
+          "ref": "2Chr.28.15",
+          "about": {
+            "en": "Men of Samaria care for captives from Judah",
+            "zh": "撒馬利亞人照顧猶大的俘虜"
+          }
+        }
+      ],
+      "history": {
+        "en": [
+          "The road from Jerusalem, about 750 m above sea level, drops about 1,000 m to Jericho in some 27 km of desert.",
+          "Samaritans worshiped on Mount Gerizim, not in Jerusalem; a small Samaritan community still lives near Nablus today.",
+          "Oil and wine were common remedies for wounds; two denarii were about two days' wages."
+        ],
+        "zh": [
+          "耶路撒冷海拔約750公尺；往耶利哥的路穿過曠野，約27公里，下降約1000公尺。",
+          "撒馬利亞人在基利心山敬拜，不在耶路撒冷；今天仍有一小群撒馬利亞人住在納布盧斯附近。",
+          "油和酒是當時常用來處理傷口的東西；兩個銀幣約是兩天的工資。"
+        ]
+      },
+      "maps": [
+        "palestine"
+      ],
+      "felt": {
+        "find": "donkey"
+      },
+      "connections": "Luke.10"
+    },
+    {
+      "n": 6,
+      "title": {
+        "en": "The prodigal son",
+        "zh": "浪子回頭"
+      },
+      "passages": [
+        "Luke.15.11-32"
+      ],
+      "key": "Luke.15.21-24",
+      "points": {
+        "en": [
+          "The younger of two sons asks for his share of the property and wastes it in a distant country.",
+          "In a famine he feeds pigs and longs to eat their carob pods.",
+          "He comes to his senses and goes home to say, Father, I have sinned.",
+          "While he is still far off, his father runs to him, embraces him and kisses him.",
+          "The father gives him the best robe, a ring and sandals, and holds a feast.",
+          "The older son is angry and will not go in.",
+          "The father says, Your brother was dead and has come to life; he was lost and is found."
+        ],
+        "zh": [
+          "兩個兒子中的小兒子要了他應得的家產，到遠方去揮霍淨盡。",
+          "遇上饑荒，他去放豬，恨不得拿豬吃的豆莢充飢。",
+          "他醒悟過來，就回家去，要說：「父親，我得罪了你。」",
+          "他離家還遠，父親就看見他，跑去抱着他，連連親他。",
+          "父親給他穿上上好的袍子，戴上戒指，穿上鞋，又擺設筵席。",
+          "大兒子卻生氣，不肯進去。",
+          "父親說：「你這個弟弟是死而復活，失而又得的。」"
+        ]
+      },
+      "readings": [
+        {
+          "ref": "Luke.15.1-2",
+          "about": {
+            "en": "Pharisees grumble that Jesus eats with sinners",
+            "zh": "法利賽人埋怨耶穌和罪人吃飯"
+          }
+        },
+        {
+          "ref": "Luke.15.4-7",
+          "about": {
+            "en": "The parable of the lost sheep",
+            "zh": "迷羊的比喻"
+          }
+        },
+        {
+          "ref": "Luke.15.8-10",
+          "about": {
+            "en": "The parable of the lost coin",
+            "zh": "失錢的比喻"
+          }
+        },
+        {
+          "ref": "Ps.103.13",
+          "about": {
+            "en": "As a father has compassion on his children",
+            "zh": "父親怎樣憐恤兒女"
+          }
+        }
+      ],
+      "history": {
+        "en": [
+          "Under the Law the firstborn received a double share (Deuteronomy 21:17), so a younger of two sons would receive one third.",
+          "Pigs were unclean animals under the Law (Leviticus 11:7), so feeding them was a degrading job for a Jew.",
+          "Carob pods, from a tree common around the Mediterranean, were used as animal feed and eaten by the very poor."
+        ],
+        "zh": [
+          "按照律法，長子得雙份（申命記21章17節），所以兩個兒子中的小兒子得三分之一。",
+          "按照律法豬是不潔的動物（利未記11章7節），對猶太人來說，放豬是很低賤的工作。",
+          "豆莢是地中海一帶常見的角豆樹的果實，通常用來餵牲口，極窮的人也拿來吃。"
+        ]
+      },
+      "maps": [
+        "palestine"
+      ],
+      "felt": {
+        "find": "ox"
+      },
+      "connections": "Luke.15"
+    },
+    {
+      "n": 7,
+      "title": {
+        "en": "The rich man and Lazarus",
+        "zh": "財主和拉撒路"
+      },
+      "passages": [
+        "Luke.16.19-31"
+      ],
+      "key": "Luke.16.29-31",
+      "points": {
+        "en": [
+          "A rich man dresses in purple and fine linen and lives in luxury every day.",
+          "At his gate lies a poor man named Lazarus, covered with sores, longing for scraps from his table.",
+          "Lazarus dies and is carried by angels to Abraham's side; the rich man dies and is in torment in Hades.",
+          "The rich man begs Abraham to send Lazarus to cool his tongue.",
+          "Abraham says a great chasm lies between them that no one can cross.",
+          "The rich man asks that Lazarus warn his five brothers.",
+          "Abraham says if they will not listen to Moses and the Prophets, they will not be convinced even by one who rises from the dead."
+        ],
+        "zh": [
+          "有一個財主穿着紫色袍和細麻衣，天天奢華宴樂。",
+          "他門口躺着一個名叫拉撒路的窮人，滿身是瘡，想吃財主桌上掉下來的東西。",
+          "拉撒路死了，被天使帶到亞伯拉罕的懷裏；財主也死了，在陰間受痛苦。",
+          "財主求亞伯拉罕打發拉撒路來涼涼他的舌頭。",
+          "亞伯拉罕說，他們中間有深淵隔開，誰也過不去。",
+          "財主又求叫拉撒路去警告他的五個兄弟。",
+          "亞伯拉罕說，若不聽摩西和先知的話，就是有人從死裏復活，他們也不會信服。"
+        ]
+      },
+      "readings": [
+        {
+          "ref": "Luke.16.13-14",
+          "about": {
+            "en": "You cannot serve God and money",
+            "zh": "你們不能又事奉神又事奉錢財"
+          }
+        },
+        {
+          "ref": "Deut.15.7-11",
+          "about": {
+            "en": "Open your hand to the poor",
+            "zh": "要向窮人鬆開你的手"
+          }
+        },
+        {
+          "ref": "John.12.9-11",
+          "about": {
+            "en": "Leaders plot to kill the risen Lazarus of Bethany",
+            "zh": "祭司長圖謀殺死復活的拉撒路"
+          }
+        },
+        {
+          "ref": "Luke.24.27",
+          "about": {
+            "en": "Moses and the Prophets speak of the Messiah",
+            "zh": "摩西和眾先知所寫關於基督的話"
+          }
+        }
+      ],
+      "history": {
+        "en": [
+          "Purple dye came from murex sea snails off the coast of Phoenicia; it was so costly that purple cloth marked the very rich.",
+          "Hades is the Greek word used for the realm of the dead; the Old Testament's Hebrew word is Sheol.",
+          "Lazarus is the Greek form of the Hebrew name Eleazar, meaning God helps. He is the only person given a name in Jesus' parables."
+        ],
+        "zh": [
+          "紫色染料取自腓尼基沿海的骨螺，價錢極高，紫色衣料是富豪的記號。",
+          "「陰間」希臘文是「哈得斯」，指死人所在的地方；舊約希伯來文用「示阿勒」。",
+          "拉撒路是希伯來名字以利亞撒的希臘寫法，意思是「神幫助」。他是耶穌比喻中唯一有名字的人物。"
+        ]
+      },
+      "maps": [],
+      "felt": {
+        "find": "angel"
+      },
+      "connections": "Luke.16"
+    },
+    {
+      "n": 8,
+      "title": {
+        "en": "Jesus raises Lazarus",
+        "zh": "耶穌使拉撒路復活"
+      },
+      "passages": [
+        "John.11"
+      ],
+      "key": "John.11.25-27",
+      "points": {
+        "en": [
+          "Mary and Martha send word that their brother Lazarus is ill; Jesus stays two more days.",
+          "When Jesus reaches Bethany, Lazarus has been in the tomb four days.",
+          "Jesus tells Martha, I am the resurrection and the life; she believes he is the Messiah, the Son of God.",
+          "Seeing Mary and the others weeping, Jesus is deeply moved, and he weeps.",
+          "At the tomb he has the stone taken away, thanks the Father, and calls, Lazarus, come out!",
+          "Lazarus comes out bound in grave cloths, and many believe in Jesus.",
+          "The high priest Caiaphas says one man should die for the people; from then on they plan to kill Jesus."
+        ],
+        "zh": [
+          "馬利亞和馬大派人告訴耶穌，她們的兄弟拉撒路病了；耶穌又停留了兩天。",
+          "耶穌到了伯大尼，拉撒路已經在墳墓裏四天了。",
+          "耶穌對馬大說：「我就是復活，就是生命。」她信他是基督，是神的兒子。",
+          "耶穌看見馬利亞和眾人哭，心裏非常激動，也流淚了。",
+          "他在墳墓前叫人挪開石頭，感謝父，然後大聲呼叫：「拉撒路，出來！」",
+          "拉撒路裹着布條出來了，許多人就信了耶穌。",
+          "大祭司該亞法說一個人替百姓死是好的；從那天起，他們就計劃殺耶穌。"
+        ]
+      },
+      "readings": [
+        {
+          "ref": "John.12.1-2",
+          "about": {
+            "en": "A dinner for Jesus in Bethany with Lazarus",
+            "zh": "在伯大尼為耶穌擺設的筵席，拉撒路也在"
+          }
+        },
+        {
+          "ref": "1Kgs.17.17-24",
+          "about": {
+            "en": "Elijah raises a widow's son",
+            "zh": "以利亞使寡婦的兒子復活"
+          }
+        },
+        {
+          "ref": "Luke.7.11-17",
+          "about": {
+            "en": "Jesus raises a widow's son at Nain",
+            "zh": "耶穌在拿因城使寡婦的兒子復活"
+          }
+        },
+        {
+          "ref": "1Cor.15.20-22",
+          "about": {
+            "en": "Christ, the firstfruits of those who have died",
+            "zh": "基督成為睡了之人初熟的果子"
+          }
+        }
+      ],
+      "history": {
+        "en": [
+          "Bethany is the Arab town of al-Eizariya, on the east slope of the Mount of Olives; its name comes from Lazarus. It is about 3 km from Jerusalem.",
+          "Tombs of this period were cut into the rock and closed with a large stone; bodies were wrapped in linen strips with spices.",
+          "Caiaphas was high priest about AD 18 to 36. An ossuary inscribed Joseph son of Caiaphas was found in Jerusalem in 1990."
+        ],
+        "zh": [
+          "伯大尼就是今天的阿拉伯城鎮艾薩里亞，在橄欖山東坡，名字來自拉撒路，離耶路撒冷約3公里。",
+          "這時期的墳墓是在岩石中鑿成的，用大石頭封口；屍體用細麻布條裹好，加上香料。",
+          "該亞法約在主後18年至36年任大祭司。1990年在耶路撒冷發現一個刻有「該亞法之子約瑟」的骨灰箱。"
+        ]
+      },
+      "maps": [
+        "palestine"
+      ],
+      "felt": {
+        "find": "tomb"
+      },
+      "connections": "John.11"
+    },
+    {
+      "n": 9,
+      "title": {
+        "en": "The widow's offering",
+        "zh": "寡婦的奉獻"
+      },
+      "passages": [
+        "Mark.12.41-44"
+      ],
+      "key": "Mark.12.43-44",
+      "points": {
+        "en": [
+          "Jesus sits opposite the temple treasury and watches the crowd put in money.",
+          "Many rich people put in large amounts.",
+          "A poor widow puts in two small copper coins, worth a fraction of a penny.",
+          "Jesus calls his disciples and says she has put in more than all the others.",
+          "They gave out of their abundance; she gave out of her poverty everything she had to live on."
+        ],
+        "zh": [
+          "耶穌對着聖殿的銀庫坐着，看眾人怎樣把錢投進去。",
+          "有好些財主投了很多錢。",
+          "有一個窮寡婦來了，投了兩個小銅錢，就是一個羅馬小錢。",
+          "耶穌叫門徒來，說她投的比眾人投的都多。",
+          "他們是從自己的富餘中拿出來，她卻是從不足中，把她一切養生的都投上了。"
+        ]
+      },
+      "readings": [
+        {
+          "ref": "Luke.21.1-4",
+          "about": {
+            "en": "Luke's account of the widow's offering",
+            "zh": "路加記載寡婦的奉獻"
+          }
+        },
+        {
+          "ref": "Mark.12.38-40",
+          "about": {
+            "en": "Jesus warns against scribes who devour widows' houses",
+            "zh": "耶穌警告那侵吞寡婦家產的文士"
+          }
+        },
+        {
+          "ref": "2Cor.8.1-5",
+          "about": {
+            "en": "The Macedonians give out of deep poverty",
+            "zh": "馬其頓的教會在極度貧窮中慷慨捐獻"
+          }
+        },
+        {
+          "ref": "1Kgs.17.10-16",
+          "about": {
+            "en": "A poor widow of Zarephath feeds Elijah",
+            "zh": "撒勒法的窮寡婦供養以利亞"
+          }
+        }
+      ],
+      "history": {
+        "en": [
+          "Herod the Great began rebuilding the temple about 20 BC; the work went on for decades.",
+          "The Mishnah describes thirteen trumpet-shaped offering chests in the temple courts.",
+          "The widow's coins were lepta, the smallest Jewish coins; two made a Roman quadrans, one sixty-fourth of a denarius."
+        ],
+        "zh": [
+          "大希律約在主前20年開始重建聖殿，工程延續了幾十年。",
+          "《米示拿》記載聖殿院子裏有十三個喇叭形的奉獻箱。",
+          "寡婦投的是「利普頓」，最小的猶太銅幣；兩個等於一個羅馬「誇德蘭」，即一個銀幣的六十四分之一。"
+        ]
+      },
+      "maps": [
+        "jerusalem"
+      ],
+      "felt": {
+        "find": "jar"
+      },
+      "connections": "Mark.12"
+    },
+    {
+      "n": 10,
+      "title": {
+        "en": "Jesus enters Jerusalem",
+        "zh": "耶穌進耶路撒冷"
+      },
+      "passages": [
+        "Mark.11.1-11"
+      ],
+      "key": "Mark.11.7-10",
+      "points": {
+        "en": [
+          "Near Bethphage and Bethany at the Mount of Olives, Jesus sends two disciples ahead.",
+          "They are to bring a colt no one has ridden, saying, The Lord needs it.",
+          "They find the colt as he said, and the people let them take it.",
+          "They throw cloaks on it, and Jesus sits on it.",
+          "Many spread cloaks and leafy branches on the road.",
+          "The crowds shout, Hosanna! Blessed is the one who comes in the name of the Lord!",
+          "Jesus enters the temple, looks around, and goes out to Bethany with the Twelve."
+        ],
+        "zh": [
+          "到了橄欖山附近的伯法其和伯大尼，耶穌派了兩個門徒先去。",
+          "他們要牽來一匹從來沒有人騎過的驢駒，說：「主要用牠。」",
+          "他們照耶穌所說的找到了驢駒，旁人也讓他們牽走。",
+          "他們把衣服搭在驢駒上，耶穌就騎上去。",
+          "許多人把衣服鋪在路上，也有人把田間砍下的樹枝鋪在路上。",
+          "眾人喊着說：「和散那！奉主名來的是應當稱頌的！」",
+          "耶穌進了聖殿，周圍看了看，就和十二門徒出城往伯大尼去了。"
+        ]
+      },
+      "readings": [
+        {
+          "ref": "Zech.9.9",
+          "about": {
+            "en": "Your king comes, humble and riding on a donkey",
+            "zh": "你的王謙和地騎着驢來到"
+          }
+        },
+        {
+          "ref": "Ps.118.25-26",
+          "about": {
+            "en": "Blessed is the one who comes in the name of the LORD",
+            "zh": "奉耶和華名來的是應當稱頌的"
+          }
+        },
+        {
+          "ref": "John.12.12-15",
+          "about": {
+            "en": "Crowds take palm branches to meet Jesus",
+            "zh": "眾人拿着棕樹枝出來迎接耶穌"
+          }
+        },
+        {
+          "ref": "Mark.11.15-17",
+          "about": {
+            "en": "The next day Jesus clears the temple",
+            "zh": "第二天耶穌潔淨聖殿"
+          }
+        }
+      ],
+      "history": {
+        "en": [
+          "The Mount of Olives rises east of Jerusalem across the Kidron Valley, about 800 m high; the road from Jericho crossed it.",
+          "Hosanna comes from the Hebrew of Psalm 118:25, meaning Save, please.",
+          "At Passover, pilgrims from across the land and beyond filled Jerusalem many times over its usual population.",
+          "Jesus' death is usually dated to AD 30 or 33."
+        ],
+        "zh": [
+          "橄欖山在耶路撒冷東邊，隔着汲淪谷，高約800公尺；從耶利哥來的路要經過這山。",
+          "「和散那」源自詩篇118篇25節的希伯來文，意思是「求你拯救」。",
+          "逾越節期間，各地來的朝聖者擠滿耶路撒冷，人數是平時的好幾倍。",
+          "耶穌受死的年份一般定在主後30年或33年。"
+        ]
+      },
+      "maps": [
+        "jerusalem"
+      ],
+      "felt": {
+        "find": "donkey"
+      },
+      "connections": "Mark.11"
+    },
+    {
+      "n": 11,
+      "title": {
+        "en": "The Lord's Supper; Jesus washes his disciples' feet",
+        "zh": "主的晚餐；耶穌為門徒洗腳"
+      },
+      "passages": [
+        "John.13.1-17",
+        "Luke.22.7-20"
+      ],
+      "key": "Luke.22.19-20",
+      "points": {
+        "en": [
+          "Jesus sends Peter and John to prepare the Passover in a large upstairs room.",
+          "At the meal Jesus says he has eagerly desired to eat this Passover with them before he suffers.",
+          "He takes bread, gives thanks, breaks it and says, This is my body given for you.",
+          "After supper he takes the cup: This cup is the new covenant in my blood.",
+          "In John, Jesus ties a towel around his waist and washes the disciples' feet.",
+          "Peter refuses, then asks Jesus to wash his hands and head too.",
+          "Jesus says, I have given you an example: wash one another's feet."
+        ],
+        "zh": [
+          "耶穌派彼得和約翰在一間寬大的樓房裏預備逾越節的筵席。",
+          "吃飯時耶穌說，他很渴望在受害以前和他們吃這逾越節的筵席。",
+          "他拿起餅來，祝謝了，擘開，說：「這是我的身體，為你們捨的。」",
+          "晚飯以後，他拿起杯來說：「這杯是用我的血所立的新約。」",
+          "約翰記載，耶穌把毛巾束在腰間，為門徒洗腳。",
+          "彼得起先不肯，後來又求耶穌連手和頭也洗。",
+          "耶穌說：「我給你們立了榜樣，你們也應當彼此洗腳。」"
+        ]
+      },
+      "readings": [
+        {
+          "ref": "Exod.12.1-14",
+          "about": {
+            "en": "The first Passover in Egypt",
+            "zh": "在埃及的第一個逾越節"
+          }
+        },
+        {
+          "ref": "Jer.31.31-34",
+          "about": {
+            "en": "God promises a new covenant",
+            "zh": "神應許要立新約"
+          }
+        },
+        {
+          "ref": "1Cor.11.23-26",
+          "about": {
+            "en": "Paul hands on the words of the Lord's Supper",
+            "zh": "保羅傳下主的晚餐的話"
+          }
+        },
+        {
+          "ref": "Mark.14.22-25",
+          "about": {
+            "en": "Mark's account of the bread and the cup",
+            "zh": "馬可記載的餅和杯"
+          }
+        }
+      ],
+      "history": {
+        "en": [
+          "The Passover meal remembered the exodus from Egypt; the lamb was sacrificed at the temple on the afternoon of 14 Nisan.",
+          "At festive meals people reclined on cushions or couches around a low table, leaning on the left elbow.",
+          "Washing guests' feet, dusty from sandals and unpaved roads, was usually a servant's task.",
+          "Tradition places the upper room on Mount Zion; the present Cenacle building there dates from the Crusader period."
+        ],
+        "zh": [
+          "逾越節的筵席是記念出埃及；羔羊在尼散月十四日下午在聖殿宰殺。",
+          "在節期的筵席上，人們斜靠在矮桌旁的墊子或榻上，用左肘支撐身體。",
+          "人穿涼鞋走泥路，腳很髒；為客人洗腳通常是僕人的工作。",
+          "傳統認為那樓房在錫安山上；那裏現存的「最後晚餐廳」建於十字軍時期。"
+        ]
+      },
+      "maps": [
+        "jerusalem"
+      ],
+      "felt": {
+        "find": "bread"
+      },
+      "connections": "John.13"
+    },
+    {
+      "n": 12,
+      "title": {
+        "en": "Jesus' death, burial and resurrection",
+        "zh": "耶穌的死、埋葬和復活"
+      },
+      "passages": [
+        "Luke.23-24"
+      ],
+      "key": "Luke.24.5-7",
+      "points": {
+        "en": [
+          "Pilate finds no basis for a charge, but the crowd shouts, Crucify him! and he hands Jesus over.",
+          "At the place called the Skull Jesus is crucified between two criminals and says, Father, forgive them.",
+          "He promises one criminal, Today you will be with me in paradise.",
+          "Darkness covers the land, the temple veil is torn, and Jesus commits his spirit to the Father and dies.",
+          "Joseph of Arimathea lays his body in a new rock-cut tomb.",
+          "On the first day of the week the women find the tomb empty; two men say, He has been raised.",
+          "Jesus appears to the disciples, eats fish before them, and is carried up into heaven at Bethany."
+        ],
+        "zh": [
+          "彼拉多查不出耶穌有罪，但眾人喊着「釘他十字架！」，他就把耶穌交給他們。",
+          "耶穌在名叫「髑髏地」的地方，和兩個犯人一同被釘十字架；他說：「父啊，赦免他們。」",
+          "他對其中一個犯人說：「今天你要和我一同在樂園裏了。」",
+          "遍地黑暗，聖殿的幔子裂開，耶穌把靈魂交在父手裏，就斷了氣。",
+          "亞利馬太人約瑟把他的身體安放在新鑿的石墓裏。",
+          "七日的第一日，婦女們發現墳墓空了；兩個人對她們說：「他已經復活了。」",
+          "耶穌向門徒顯現，在他們面前吃魚，後來在伯大尼被接到天上去。"
+        ]
+      },
+      "readings": [
+        {
+          "ref": "Isa.53.12",
+          "about": {
+            "en": "He was counted among the rebels",
+            "zh": "他被列在罪犯之中"
+          }
+        },
+        {
+          "ref": "Ps.22.19",
+          "about": {
+            "en": "They divide my clothes and cast lots for my garment",
+            "zh": "他們分了我的外衣，為我的內衣抽籤"
+          }
+        },
+        {
+          "ref": "Luke.24.13-35",
+          "about": {
+            "en": "Jesus meets two disciples on the road to Emmaus",
+            "zh": "耶穌在往以馬忤斯的路上遇見兩個門徒"
+          }
+        },
+        {
+          "ref": "1Cor.15.3-8",
+          "about": {
+            "en": "Christ died, was buried and was raised",
+            "zh": "基督死了，埋葬了，又復活了"
+          }
+        }
+      ],
+      "history": {
+        "en": [
+          "Pontius Pilate governed Judea about AD 26 to 36. A stone inscription naming him prefect of Judea was found at Caesarea in 1961.",
+          "Crucifixion was a Roman punishment for slaves and rebels. A heel bone pierced by an iron nail was found in a Jerusalem tomb in 1968.",
+          "Since the 4th century the Church of the Holy Sepulchre has been the traditional site of the cross and tomb; some prefer the Garden Tomb."
+        ],
+        "zh": [
+          "本丟彼拉多約在主後26年至36年治理猶太。1961年在該撒利亞發現一塊刻有他名字和「猶太總督」頭銜的石碑。",
+          "釘十字架是羅馬人懲罰奴隸和叛亂者的刑罰。1968年在耶路撒冷一個墳墓裏發現一塊被鐵釘穿透的腳跟骨。",
+          "從第四世紀起，聖墓教堂一直是傳統上釘十字架和埋葬的地點；也有人認為是「花園塚」。"
+        ]
+      },
+      "maps": [
+        "jerusalem"
+      ],
+      "felt": {
+        "story": "resurrection"
+      },
+      "connections": "Luke.23"
+    }
+  ]
+}
