@@ -4,7 +4,7 @@ A new translation of the Bible into plain, modern Traditional Chinese for native
 directly from the Hebrew, Aramaic and Greek texts in this repository. It is written for readers
 in Hong Kong, in the standard written Chinese they read every day, not in Cantonese.
 
-**Status:** Mark and Matthew drafted; the rest of the Bible in progress from Genesis (see translation-zh/STATUS.md). Every chapter is an AI draft until native readers have reviewed it.
+**Status:** Mark and Matthew drafted, Luke in progress; the rest of the Bible in progress from Genesis (see translation-zh/STATUS.md). Every chapter is an AI draft until native readers have reviewed it.
 
 ## What carries over from the English translation
 
@@ -1267,6 +1267,25 @@ Settled while drafting Matthew:
 | παρουσία (24:3, 27, 37, 39) | 來臨 | *parousia* noted. |
 | ναός; κορβανᾶς; κουστωδία | 聖殿 (*naos* noted)；庫房 (with 各耳板)；衞兵 | 23:16; 27:5–6, 65. |
 | χαῖρε, χαίρετε | 你好 (26:49; 28:9)；萬歲 (to the king, 27:29, as Mark 15:18) | *chairete* noted. |
+
+Settled while drafting Luke:
+
+| Source | Rendering | Notes |
+|---|---|---|
+| The prologue (1:1–4) | One sentence over four verses; 尊貴的提阿非羅 | The formal style and κράτιστε noted. |
+| κύριος in Luke 1–2 | 主 | Noted at 1:6 as standing for YHWH; 7:13 notes the first time the narrative calls Jesus 主. |
+| ναός (1:9, 21–22) | 聖所 | *naos* noted, kept apart from the courts (ἱερόν 聖殿). |
+| The hymns (1:46–55; 1:68–79; 2:14; 2:29–32) | One verse per line, clauses kept as lines | 1:46 我的心頌揚主的偉大 (傳統「尊主為大」 noted); Latin names 〈尊主頌〉〈頌主歌〉〈西面頌〉 in notes. |
+| Καῖσαρ Αὔγουστος; Τιβέριος Καῖσαρ; Κυρήνιος | 該撒奧古斯都；該撒提庇留；居里扭 | 該撒 first, as the Union Version orders the title. |
+| τετραάρχης | 分封的王 | *tetraarches* noted (3:1). |
+| The genealogy (3:23–38) | The Union Version's Luke forms; 甲是乙的兒子 | Critical-text names the Union Version lacks are transliterated: 約設 (*Iosech*), 約書亞 (*Iesous*, 和合本 約細), 沙拉 (*Sala*, 和合本 撒門), 亞民, 亞尼 (*Admin*, *Arni*; 和合本 亞蘭). |
+| ἐπιστάτης | 師傅 | *epistates* noted (5:5); only Luke uses it. Διδάσκαλε stays 老師. |
+| νομοδιδάσκαλος; νομικός | 律法教師 (5:17)；律法專家 (7:30; 10:25; 11:45–52) | As the glossary and Matthew. |
+| Isaiah 61:1–2 (4:18–19) | 傳好消息給貧窮的人……向被擄的宣告自由……使受欺壓的得自由，宣告主悅納人的年 | Our Isaiah wording kept where the Greek agrees; the differences in the note. |
+| The Lord's Prayer (11:2–4) | 父啊，願人都尊你的名為聖；願你的國降臨；我們每天所需的食物，求你天天賜給我們；赦免我們的罪…… | Matthew 6:9–13's wording where the Greek agrees; 赦免 for sins, 饒恕 for debtors. |
+| 10:27 (Deuteronomy 6:5; Leviticus 19:18) | 全心、全性、全力、全意；要愛你的鄰舍，如同愛自己 | Luke's order of the four. |
+| δοῦλος | 奴僕 (7:2–10, as Matthew 8:9)；僕人 (12:37–47, as Matthew 24:45–51) | 或譯 noted. |
+| λεπτόν (12:59) | 小銅錢 | As Mark 12:42; ¹⁄₁₂₈ of a denarius noted. |
 
 ## Style
 
