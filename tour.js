@@ -34,12 +34,19 @@
     card = document.createElement("div"); card.className = "tour-card"; card.setAttribute("role", "dialog"); card.setAttribute("aria-modal", "true"); card.setAttribute("aria-live", "polite");
     box.append(spot, card);
     document.body.append(box);
+    requestAnimationFrame(() => box.classList.add("in"));
     box.addEventListener("click", e => { if (e.target === box) next(); });
     onKey = e => { if (e.key === "Escape") end(); else if (e.key === "ArrowRight") next(); else if (e.key === "ArrowLeft") back(); };
     addEventListener("keydown", onKey, true);
     addEventListener("resize", place);
   }
+  // Each step: the card fades out, its words change, and it fades in where the light has moved.
+  let swapTimer = 0;
   function show() {
+    clearTimeout(swapTimer);
+    if (card.childElementCount) { card.classList.add("out"); swapTimer = setTimeout(fill, 170); } else fill();
+  }
+  function fill() {
     const s = STEPS[i];
     const moving = menuOpen(!!s.menu);
     card.innerHTML = "";
@@ -61,9 +68,8 @@
     const settle = () => {
       const target = s.at();
       if (target && s.menu) { const r = target.getBoundingClientRect(); if (r.top < 80 || r.bottom > innerHeight - 200) target.scrollIntoView({ block: "center" }); }
-      place(); f.focus();
+      place(); card.classList.remove("out"); f.focus({ preventScroll: true });
     };
-    spot.style.opacity = moving ? 0 : 1;
     if (moving) setTimeout(settle, 420); else requestAnimationFrame(settle);
   }
   function place() {
@@ -99,7 +105,8 @@
     menuOpen(false);
     try { localStorage.setItem("pe.toured", "1"); } catch (e) { /* storage */ }
     removeEventListener("keydown", onKey, true); removeEventListener("resize", place);
-    box?.remove(); box = null;
+    const b = box; box = null;
+    if (b) { b.classList.remove("in"); setTimeout(() => b.remove(), 320); }
     q("#where")?.focus();
   }
   function start() { if (box) return; i = 0; build(); show(); }
