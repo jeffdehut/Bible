@@ -4,7 +4,7 @@ A new translation of the Bible into plain, modern Traditional Chinese for native
 directly from the Hebrew, Aramaic and Greek texts in this repository. It is written for readers
 in Hong Kong, in the standard written Chinese they read every day, not in Cantonese.
 
-**Status:** the four Gospels, Acts, Romans, 1 and 2 Corinthians, Galatians, Ephesians, Philippians, Colossians, 1 and 2 Thessalonians drafted; the rest of the Bible in progress from Genesis (see translation-zh/STATUS.md). Every chapter is an AI draft until native readers have reviewed it.
+**Status:** the four Gospels, Acts, Romans, 1 and 2 Corinthians, Galatians, Ephesians, Philippians, Colossians, 1 and 2 Thessalonians, 1 and 2 Timothy, Titus, Philemon drafted; the rest of the Bible in progress from Genesis (see translation-zh/STATUS.md). Every chapter is an AI draft until native readers have reviewed it.
 
 ## What carries over from the English translation
 
@@ -1543,6 +1543,58 @@ Settled while drafting 2 Thessalonians:
 | 2:2; 3:17 | 好像是我們寄來的書信；我保羅親筆問候你們 | 3:17 as Colossians 4:18; the notes link the signature to 2:2. |
 | 3:10 | 「若有人不肯工作，就不可吃飯。」 | |
 | ἀτάκτως; περιεργάζομαι (3:6–11) | 游手好閒；只管閒事 | As 1 Thessalonians 5:14; 3:11 甚麼事都不做，只管閒事 keeps a wordplay (*ergazomai*/*periergazomai* noted). |
+
+Settled while drafting 1 Timothy:
+
+| Source | Rendering | Notes |
+|---|---|---|
+| πιστὸς ὁ λόγος (1:15; 3:1; 4:9) | 這話是可信的 (1:15 and 4:9 add 值得完全接受) | The formula for all five (also 2 Timothy 2:11; Titus 3:8), noted at 1:15. |
+| εὐσέβεια; εὐσεβέω (5:4); θεοσέβεια (2:10) | 敬虔；盡孝；敬畏神 | *eusebeia* noted at 2:2 (Acts 3:12 虔誠). |
+| σωφροσύνη, σώφρων; νηφάλιος | 自律；頭腦清醒 | 2:9, 15; 3:2, 11. |
+| ὑγιαίνουσα διδασκαλία; ὑγιαίνοντες λόγοι; ἑτεροδιδασκαλέω; μῦθοι | 健全的教導；健全的話；傳別的教義；無稽的傳說 | *hygiaino* noted at 6:3. |
+| σωτήρ | 救主 (我們的救主神) | |
+| μεσίτης (2:5); ἀντίλυτρον (2:6) | 中保；贖價 | Galatians 3:19–20's 中間人 and Mark 10:45 noted. |
+| 2:8–15 | 男人；女人；管轄 (*authenteo*)；在安靜中……順服 | Man/husband, *authenteo* and the readings of 2:15 in notes, as the English. |
+| ἐπίσκοπος, ἐπισκοπή; διάκονοι; γυναῖκες (3:11) | 監督、監督的職分；執事；女人 | As Philippians 1:1; 3:11 wives or women deacons noted. μιᾶς γυναικὸς ἀνήρ 只作一個妻子的丈夫 (直譯 noted). |
+| πρεσβύτερος; πρεσβυτέριον | 長老 (5:17, 19)；年老的人 (5:1)；長老團 (4:14) | As Acts. |
+| 3:16 | 他在肉體裏顯現，在靈裏被證實為義，被天使看見，在外邦人中被傳揚，在世上被人信服，被接到榮耀裏 | Prose; Ὃς as the SBLGNT, the 神 reading (ΟΣ/ΘΣ) noted. |
+| 5:18 | Deuteronomy 25:4 as 1 Corinthians 9:9; 做工的人得工錢是應當的 as Luke 10:7 | |
+| χῆραι (5:3–16) | 真正無依無靠的寡婦 | 直譯「真是寡婦的」 noted. |
+| ὁμολογία (6:12–13); ἐπιφάνεια (6:14) | 宣認；顯現 | 顯現 as 2 Thessalonians 2:8. |
+| ἄνθρωπε θεοῦ (6:11); 6:10 | 屬神的人；貪愛錢財是萬惡之根 | The Old Testament's 神人 noted. |
+
+Settled while drafting 2 Timothy:
+
+| Source | Rendering | Notes |
+|---|---|---|
+| παραθήκη (1:12, 14) | 託付 (我所交託他的；那美好的託付) | As 1 Timothy 6:20; 「他所交託我的」 noted. |
+| 2:11–13 | 這話是可信的：我們若與他同死，也必與他同活…… | Prose; the formula as 1 Timothy 1:15; 2:13 ἀπιστέω/πιστός 不信實／信實. |
+| 2:19 (Numbers 16:5) | 主認識屬他的人 | The Septuagint (神認識) and our Numbers (耶和華必指明誰是屬他的) noted. |
+| θεόπνευστος (3:16); ἱερὰ γράμματα (3:15) | 全部聖經都是神所默示的；聖經 | *theopneustos* 「神所呼出的」 and the two readings of the verbless sentence noted. |
+| 4:6–8 | 像奠祭一樣被澆出來；那美好的仗我已經打過了，當跑的路我已經跑盡了，信仰我已經守住了；義的冠冕……公義的審判者 | 奠祭 as Philippians 2:17; δικαιοσύνη 義, δίκαιος of God's judgment 公義, as Romans. |
+| Names | 羅以、友尼基、腓吉路、黑摩其尼、阿尼色弗、許米乃、腓理徒、雅尼、佯庇、底馬、革勒士、撻馬太、加布、亞歷山大、友布羅、布田、利奴、革老底亞 | 友尼基 the classic Union form (1989 友妮基); the names table changed, and Hermogenes added. |
+
+Settled while drafting Titus:
+
+| Source | Rendering | Notes |
+|---|---|---|
+| πρεσβύτεροι; ἐπίσκοπος (1:5–7); πρεσβῦται (2:2) | 長老；監督；年老的男人 | As 1 Timothy; the shift from elders to overseer and *presbytai* noted. ἐγκρατής 有節制 (as Galatians 5:23). |
+| 1:12 (Epimenides) | 「革哩底人常說謊話，是兇惡的野獸，又懶又貪吃。」 | 革哩底 as Acts 27; the poet noted (埃庇米尼得斯, as the Acts 17:28 note). |
+| 2:13 | 我們偉大的神和救主耶穌基督榮耀的顯現 | One article, as 2 Thessalonians 1:12; the two-person reading noted. |
+| λαὸς περιούσιος (2:14) | 作屬他自己的子民，作他的珍寶 | As our Deuteronomy 14:2. |
+| 3:5 | 重生的洗和聖靈的更新 | *palingenesia* noted, linked to Matthew 19:28 (萬物更新) and kept apart from John 3's *anothen* (從上面生). 3:6 傾倒 as Joel 3:1. |
+| καλῶν ἔργων προΐστασθαι (3:8, 14); αἱρετικός; νομικός (3:13) | 致力行善；分門結黨的人；律法專家 | 「從事正當的職業」 noted; 律法專家 as Matthew 22:35. |
+| Names | 革哩底、尼哥坡里、亞提馬、推基古、西納、亞波羅 | |
+
+Settled while drafting Philemon:
+
+| Source | Rendering | Notes |
+|---|---|---|
+| δέσμιος Χριστοῦ Ἰησοῦ (1, 9) | 為基督耶穌被囚的 | As 2 Timothy 1:8. |
+| Ὀνήσιμος; ἄχρηστος / εὔχρηστος (10–11); ὀναίμην (20) | 阿尼西母；沒有益處／有益處；得益處 | The name's meaning and both wordplays (*chrestos*/*Christos* too) in notes. |
+| σπλάγχνα (7, 12, 20) | 心；我的心肝 (12) | 直譯「心腸」 noted, as Philippians 1:8. |
+| πρεσβύτης (9) | 老人 | 「使者」 (*presbeutes*) noted. |
+| Names | 腓利門、亞腓亞、亞基布、阿尼西母、以巴弗、馬可、亞里達古、底馬、路加 | 阿尼西母 the classic form, as Colossians 4:9. |
 
 ## Style
 
