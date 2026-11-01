@@ -2444,5 +2444,6 @@ I18N.add({
  "Start fresh": "重新開始",
  "Tap the pencil to write and draw right on the page, with a finger or a pen; tap it again when you're done. Two fingers scroll. There's room in the margins beside the text too: on a phone, slide the page sideways to write there.": "點一下鉛筆，就可以用手指或觸控筆直接在經文上書寫和畫畫；畫完再點一下。用兩隻手指捲動。經文兩旁的頁邊也可以寫：在手機上，把頁面往旁邊滑，就能在那裏書寫。",
  "Pinch with two fingers to make it bigger or smaller, and twist to turn it.": "用兩隻手指捏合或張開來縮放，轉動手指來旋轉。",
- "Graph paper": "方格紙"
+ "Graph paper": "方格紙",
+ "Drag to turn": "拖動來旋轉"
 });
