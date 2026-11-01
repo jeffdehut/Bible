@@ -2405,5 +2405,12 @@ I18N.add({
  "Violet": "紫色",
  "Cross references": "串珠經文",
  "Three year course": "三年課程",
- "Every cross reference in the Bible as an arc": "聖經中每一處串珠經文，以弧線呈現"
+ "Every cross reference in the Bible as an arc": "聖經中每一處串珠經文，以弧線呈現",
+ "Teaching Resources": "教學資源",
+ "The Complete Bible Story": "完整的聖經故事",
+ "The Complete Bible Story: the whole Bible in twelve quarters": "完整的聖經故事：十二季讀完整本聖經",
+ "The Bible tells one complete story.": "聖經講述一個完整的故事。",
+ "Review, or catching up": "複習或補課",
+ "New": "新",
+ "Changed": "已修改"
 });
