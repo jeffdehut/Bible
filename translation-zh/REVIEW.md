@@ -66,3 +66,6 @@ Found while drafting; not yet settled across books.
   Zephaniah 1:11 keeps 和合本's name 瑪革提施 for *makhtesh*; 3:8 follows the Septuagint *le'ed* 作見證 (as the English) against the Masoretic *la'ad* and 和合本「擄掠」.
   Haggai and Zechariah use 和合本's 約撒答 for Jehozadak, against Ezra's 約薩達 and the names table's 約薩答 (left alone). Zechariah 1:8 *seruqqim* 栗色 (和合本「黃馬」); 11:7 the staffs translated 恩惠、聯合 (和合本「榮美」「聯索」).
   Difficult Hebrew: Nahum 1:10, 12; 2:9; Habakkuk 1:9, 11; 2:5; 3:9; Zephaniah 2:1–2; 3:18; Haggai 2:16, 19; Zechariah 2:12; 6:6; 9:15; 14:6; Malachi 2:15–16.
+- Matthew 1–10: *magoi* is 占星家 (2:1), a departure from 和合本「博士」 (noted); a reviewer should confirm. 4:15 keeps Isaiah 8:23's 外族人的加利利 (and our Isaiah note's quotation of Matthew), against the New Testament's 外邦人 for *ethne* elsewhere.
+  *Artos* is 食物 in 4:3–4 and 6:11 (as Deuteronomy 8:3) but 餅 in 7:9. 5:5 承受這地 as Psalm 37:11. The genealogy's *Asaph* and *Amos* (critical text) are 亞薩, 阿摩司, the psalmist's and prophet's forms; 和合本 follows *Asa*, *Amon*.
+  The Lord's Prayer (6:9–13) should be read aloud by native readers for prayability. 10:28 *psyche* is 靈魂 (body and soul), 10:39 生命.

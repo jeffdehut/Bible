@@ -1234,6 +1234,22 @@ Settled while drafting Malachi:
 | חֵרֶם (3:24; Zechariah 14:11) | 滅絕的咒詛 | The synagogue's repeat of 3:23 noted. |
 | מִנְחָה (1:10–13; 2:12–13; 3:3–4) | 供物 | *minchah* noted. |
 
+Settled while drafting Matthew:
+
+| Source | Rendering | Notes |
+|---|---|---|
+| ἡ βασιλεία τῶν οὐρανῶν | 天國 | Matthew's own phrase, kept apart from Mark's 神的國; 「諸天的國」 noted at 3:2. |
+| The genealogy (1:2–16) | The Union Version's Matthew forms (亞蘭, 撒拉鐵, 所羅巴伯) | The Old Testament form noted where it differs (蘭; 亞比央; 亞撒利雅). The critical text's *Asaph*, *Amos* are 亞薩, 阿摩司, with 亞撒, 亞們 (和合本) noted. 某人生某人; 從她瑪生. |
+| παρθένος (1:23) | 那童女 | Our Isaiah 7:14 has 少女 (*almah*); both noted. |
+| Old Testament quotations | The Greek in the text, our Old Testament's wording kept where the Greek agrees | Our Old Testament line quoted in the note where it differs (2:6, 18; 4:4–10, 15–16; 8:17; 9:13; 10:35–36); 3:3 as Mark 1:3. |
+| μάγοι | 占星家 | Noted: 傳統譯作「博士」, which now means a doctorate. |
+| μακάριοι | ……的人有福了 | As *ashrei* (Psalms); *makarioi* noted at 5:3. |
+| ὑποκριτής; μαμωνᾶς | 假冒為善的人；錢財 | *hypokrites* noted; 和合本「瑪門」 noted. |
+| The Lord's Prayer (6:9–13) | 我們在天上的父，願人都尊你的名為聖…… 不要帶我們進入試探，救我們脫離那惡者 | *epiousios* and the doxology (not in the critical text) in notes. |
+| ὁ πατὴρ ὑμῶν ὁ ἐν τοῖς οὐρανοῖς; ὁ οὐράνιος | 你們在天上的父；天父 | |
+| ἀσσάριον; κοδράντης | 銅錢；小銅錢 | ¹⁄₁₆ and ¹⁄₆₄ of a denarius, noted. |
+| οὐκ ἔστιν μου ἄξιος (10:37–38) | 就不配屬於我 | Not 和合本's added 「作我的門徒」. |
+
 ## Style
 
 **Characters and words.** Plain words over the Union Version's literary ones (吊下去, not 縋下來). Hong Kong standard forms: 裏 (not 裡), 着 for the particle (看着、
