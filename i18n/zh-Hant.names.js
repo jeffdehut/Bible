@@ -2,6 +2,13 @@
 // (public domain) spells them. Written by scripts/names_zh.py: don't edit by hand;
 // corrections go in OVERRIDES there.
 I18N.add({
+"Rab-mag":"拉墨",
+"Geruth-chimham":"金罕寓",
+"Nebushazban":"尼布沙斯班",
+"Sarsechim":"撒西金",
+"Samgar-nebo":"三甲‧尼波",
+"Jehucal":"猶甲",
+"Igdaliah":"伊基大利",
 "Sheshach":"示沙克",
 "Coniah":"哥尼雅",
 "Pashhur":"巴施戶珥",
