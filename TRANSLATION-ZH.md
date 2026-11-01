@@ -969,6 +969,45 @@ Settled while drafting Jeremiah:
 | פַּחוֹת וּסְגָנִים (51:23, 28, 57) | 省長和地方官 | As Ezra. |
 | Jeremiah 52 (2 Kings 24:18–25:30) | 2 Kings' wording wherever the Hebrew agrees | Differences noted as 列王紀下25章8節作「……」; the parallel noted at 52:1; dates 主前 as Jeremiah. |
 
+Settled while drafting Lamentations:
+
+| Source | Rendering | Notes |
+|---|---|---|
+| Layout | Poetry, one verse per line, cola joined by ，；; no quotation marks for Zion's or the poet's voice | Speakers noted (1:9, 18; 2:11, 20), as in English; words quoted inside the poems 「」 (2:12, 15, 16; 3:18, 24, 54, 57; 4:15, 20). 3:41–47 (the people's prayer) in 「」 after 3:41's colon. |
+| Acrostics (1–4) | Noted at verse 1 of each chapter | `*alef*（א）`…`*tav*（ת）`; *pe* before *ayin* in 2–4 (2:16–17; 3:46–51; 4:16–17); chapter 3 three verses per letter (noted at 3:1); 5:1 notes that chapter 5 has 22 verses but no acrostic. |
+| אֵיכָה (1:1; 2:1; 4:1, 2) | 怎麼……竟……！ | *eikhah* and the book's Hebrew name noted at 1:1; 2:1 and 4:1 refer back. |
+| בַּת־צִיּוֹן; בְּתוּלַת בַּת־יְהוּדָה / צִיּוֹן; בַּת־אֱדוֹם | 錫安的女兒；處女猶大的女兒／處女錫安的女兒；以東的女兒 | As Isaiah 47:1; *bat-tsiyyon* noted at 1:6. |
+| בַּת־עַמִּי | 我的子民 | As Jeremiah; 「我子民的女兒」 noted at 2:11, later chapters refer back. |
+| נִדָּה (1:8, 17) | 人搖頭厭棄的；不潔之物 | *nidah*/*niddah* noted. |
+| חַסְדֵי יְהוָה (3:22) | 我們沒有滅絕，是出於耶和華的慈愛 | The Masoretic reading in the text; the Syriac and Targum 「它沒有窮盡」 noted. |
+| עֶלְיוֹן (3:35, 38) | 至高者 | As Psalms. |
+| מְשִׁיחַ יְהוָה (4:20) | 耶和華的受膏者 | Zedekiah noted. |
+| תַּנִּים (4:3, ketiv *tannin*) | 豺狼 | As Jeremiah 9:10; ketiv noted. |
+
+Settled while drafting Ezekiel:
+
+| Source | Rendering | Notes |
+|---|---|---|
+| Layout | Narrative with the LORD's speeches in 「」, a message inside 『』 (2–5); oracles opening 耶和華的話臨到我說： unmarked (6–7), as in English | A speech running over chapters (3:24–5:17) reopens 「 at each chapter and closes only at its end (noted 4:1). |
+| בֶּן־אָדָם | 人子 | As the Union Version; noted at 2:1 (「人的兒子」, 會死的凡人, used more than ninety times), later chapters refer back (見2章1節). |
+| אֲדֹנָי יְהוִה | 主耶和華 | *Adonai YHWH* noted at its first occurrence in each chapter, with the YHWH note where 耶和華 has not yet appeared; 2:4 says Ezekiel uses it more than two hundred times. אֲהָהּ אֲדֹנָי יְהוִה (4:14) 唉，主耶和華啊！ as Jeremiah 1:6. |
+| כֹּה אָמַר אֲדֹנָי יְהוִה; נְאֻם אֲדֹנָי יְהוִה | 主耶和華這樣說；這是主耶和華說的 | As Isaiah; *ne'um* noted at its first occurrence in each chapter (5:11). חַי־אָנִי (5:11) 我指着我的永生起誓. |
+| אֲנִי יְהוָה דִּבַּרְתִּי | 這是我耶和華說的 | 5:15, 17. |
+| וִידַעְתֶּם / וְיָדְעוּ כִּי־אֲנִי יְהוָה | 你們就知道我是耶和華；他們就知道我是耶和華 | Identical every time (6:7, 10, 13, 14; 7:4, 27), noted at its first occurrence (6:7); expansions keep the opening (5:13 他們就知道是我耶和華……說了這話; 7:9 你們就知道擊打你們的是我耶和華). |
+| וַתְּהִי עָלַי יַד־יְהוָה | 耶和華的手臨到我（他）身上 | 1:3 noted (3:14, 22; 8:1; 37:1; 40:1); 3:14 *chazaqah* 耶和華的手大有能力地臨到我身上. |
+| וַיְהִי דְבַר־יְהוָה אֵלַי לֵאמֹר | 耶和華的話臨到我說： | |
+| The chariot vision (1; 10): חַיּוֹת; אוֹפַן, אוֹפַנִּים; רָקִיעַ; כִּסֵּא; דְּמוּת כְּבוֹד־יְהוָה | 活物；輪；穹蒼；寶座；耶和華榮耀的形象 | For chapter 10 and 43. *chayyot* and the cherubim (10:15, 20), *ofan*, *raqia* (as Genesis 1) noted. דְּמוּת 形象, מַרְאֶה 樣貌, עֵין 光彩 kept apart throughout 1:4–28. |
+| חַשְׁמַל (1:4, 27; 8:2) | 琥珀金 | The Septuagint's *elektron* (amber, electrum) and 和合本「光耀的精金」 noted. *tarshish* 水蒼玉, *sappir* 青金石, *nesher* 鷹, *qerach* 水晶, as earlier books. |
+| רוּחַ (1:12, 20; 2:2; 3:12, 14, 24) | 靈 | *ruach* (靈、風、氣息) noted. |
+| בֵּית מְרִי; מֶרִי | 悖逆的家；悖逆的 | |
+| תּוֹעֵבוֹת; גִּלּוּלִים; שִׁקּוּצִים | 可憎的事；可憎的偶像；可厭之物 | As the Exodus table; each noted at its first occurrence in each chapter. |
+| חַמָּנִים; בָּמוֹת | 香壇；丘壇 | 6:4, 6. |
+| צֹפֶה (3:17) | 守望的人 | For 33:7. |
+| מִכְשׁוֹל עָוֹן | 絆腳石；使……陷入罪孽的絆腳石 | 3:20; 7:19; noted for 14:3–4; 18:30; 44:12. |
+| נָשִׂיא (of the king) | 領袖 | As the Exodus table; noted at 7:27 (12:10; 34:24; 37:25; 44–48). |
+| עַם הָאָרֶץ | 普通百姓 | As Leviticus; 7:27 這地普通百姓. |
+| נִדָּה (7:19–20) | 不潔之物 | As Lamentations 1:17. |
+
 ## Style
 
 **Characters and words.** Plain words over the Union Version's literary ones (吊下去, not 縋下來). Hong Kong standard forms: 裏 (not 裡), 着 for the particle (看着、
