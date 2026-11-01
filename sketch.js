@@ -233,8 +233,8 @@
 .sk-tools .brk { flex-basis: 100%; height: 0; }
 .sk-bar .sk-tools .brk { flex-basis: auto; width: 1px; height: 24px; background: var(--line, #e4e2db); }
 @media (max-width: 520px) { .sk-bar .sk-tools .brk { flex-basis: 100%; width: auto; height: 0; background: none; } }
-.sk-c { width: 28px; height: 28px; border-radius: 50%; border: 2px solid transparent; background-clip: padding-box; cursor: pointer; padding: 0; box-shadow: inset 0 0 0 2px var(--surface, #fff); }
-.sk-c[aria-pressed="true"] { border-color: var(--ink, #161b26); }
+.sk-c { width: 24px; height: 24px; margin: 2px; border-radius: 50%; border: 0; cursor: pointer; padding: 0; background: var(--c); transition: box-shadow .12s; }
+.sk-c[aria-pressed="true"] { box-shadow: 0 0 0 2.5px var(--surface, #fff), 0 0 0 4.5px var(--c); }
 .sk-b { display: inline-grid; place-items: center; min-width: 34px; height: 34px; padding: 0 6px; border: 1px solid transparent; border-radius: 10px; background: transparent; color: inherit; cursor: pointer; }
 .sk-b:hover { background: var(--lapis-soft, #e7ecf8); }
 .sk-b[aria-pressed="true"] { background: var(--lapis-soft, #e7ecf8); border-color: var(--lapis, #2646a1); color: var(--lapis, #2646a1); }
@@ -251,7 +251,7 @@
 .sk-bar { position: fixed; z-index: 70; left: 10px; right: 10px; margin-inline: auto; width: fit-content; bottom: max(14px, env(safe-area-inset-bottom)); display: flex; flex-wrap: wrap; align-items: center; justify-content: center; gap: 6px;
   max-width: calc(100vw - 20px); padding: 8px 10px; border-radius: 16px; background: var(--surface, #fff); color: var(--ink, #161b26); border: 1px solid var(--line, #e4e2db); box-shadow: 0 10px 30px rgb(0 0 0 / 22%); }
 .sk-bar .done { border: 0; border-radius: 10px; padding: 8px 14px; background: var(--lapis, #2646a1); color: var(--surface, #fff); font: 600 14px/1.2 var(--sans, system-ui, sans-serif); cursor: pointer; }
-.sk-bar .sk-c[data-c="ink"] { background: var(--ink, #161b26) !important; }
+.sk-bar .sk-c[data-c="ink"] { --c: var(--ink, #161b26) !important; }
 `;
   function css() {
     if (document.getElementById("sk-style")) return;
@@ -281,7 +281,7 @@
       box.replaceChildren();
       for (const c of KEYS) {
         const b = btn("sk-c", { "data-c": c, "aria-label": T(c === "ink" ? "Black" : c[0].toUpperCase() + c.slice(1)), title: T(c === "ink" ? "Black" : c[0].toUpperCase() + c.slice(1)), "aria-pressed": String(!state.erase && state.c === c) });
-        b.style.background = COLORS[c];
+        b.style.setProperty("--c", COLORS[c]);
         b.onclick = () => { state.c = c; state.erase = false; render(); state.changed?.(); };
         box.append(b);
       }
