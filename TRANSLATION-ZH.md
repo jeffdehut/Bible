@@ -1021,6 +1021,21 @@ Settled while drafting Ezekiel:
 | אֲדֹנָי alone (18:25, 29) | 主 | Noted: not YHWH. |
 | קִינָה (19:1, 14) | 哀歌 | *qinah* noted. Chapters 17 and 19 (parables, lament) one verse per line, cola joined by ，；. |
 | Numbering | Ezekiel 8–19 = 和合本 | No shift in 8–19 (the next is 21:1–5 = 和合本 20:45–49). |
+| Numbering of 20–21 | 21:1–5 = 和合本 20:45–49；21:6–37 = 和合本 21:1–32 | Noted at 20:44, 21:1 and 21:6; 22–32 = 和合本. |
+| Dates | 第七年五月十日；第十一年，某月初一 | Chinese numerals; a month the Hebrew leaves out is 某月 (26:1; 32:17), noted; the year BC in a note. |
+| עָגַב; Oholah and Oholibah (23) | 迷戀；阿荷拉、阿荷利巴 | Chapter 16's 行淫、淫行、愛人、淫蕩、酬金 kept; the imagery as plain as 16 (23:3, 8, 20–21). Names' meanings noted at 23:4. |
+| פַּחוֹת וּסְגָנִים; שָׁלִשִׁים (23) | 省長和地方官；軍官 | As Jeremiah 51:23; *shalishim* noted. |
+| הִנְנִי עָלַיִךְ / אֵלַיִךְ | 看哪，我要與你為敵 | 21:8; 26:3; 28:22; 29:3, 10; 30:22. |
+| נְבוּכַדְרֶאצַּר | 尼布甲尼撒 | *Nevukhadre'tsar* noted at 26:7; 29:18 and 30:10 refer back. |
+| Oracles against the nations (25–32) | Unmarked, as 6–7; names as the Union Version | 推羅 (classic), 西頓, 亞發, 迦巴勒, 大馬色, 雅完, 陀迦瑪, 基抹 (*Kilmad*, noted as not Chemosh), 迦瑪 (*Gammadim*, 和合本「勇士」), 挪弗, 挪, 訓, 瑣安, 巴忒羅, 古實, 古巴, 亞文, 比伯實, 答比匿; 密奪 as Jeremiah (和合本 Ezekiel「色弗尼塔」 noted, 29:10; 30:6). |
+| The stones of 28:13; 27:16 | Exodus 28's names: 肉紅玉髓、貴橄欖石、月長石、水蒼玉、紅瑪瑙、碧玉、青金石、綠松石、綠寶石 | Traditional names noted. 27:16 *nofekh* 綠松石, *ra'mot* 珊瑚, *kadkod* 紅寶石 as Job 28:18 and Isaiah 54:12. |
+| כְּרוּב מִמְשַׁח הַסּוֹכֵךְ (28:14, 16); עֵדֶן גַּן־אֱלֹהִים | 受膏、遮掩的基路伯；伊甸，就是神的園 | *at*/*et*, *mimshach* and the Septuagint's reading noted. 28:12–19 one verse per line, as 19. |
+| אֵל; אֱלֹהִים (the king's claim, 28:2, 6, 9) | 神明 | 或譯「神」 noted. |
+| יְאֹר; יְאֹרִים | 尼羅河；河道 | As Genesis 41 and Exodus 7; 29:3, 9 「尼羅河是我的」. |
+| תַּנִּים (29:3; 32:2) | 大海怪 | Crocodile and 和合本「大魚」 noted. |
+| הָמוֹן (of Egypt) | 群眾 (財富 where it is carried off: 29:19; 30:4, 10) | *hamon* noted at 29:19, later chapters refer back. |
+| בּוֹר; יוֹרְדֵי בוֹר; אֶרֶץ תַּחְתִּיּוֹת; שַׁחַת; שְׁאוֹל | 坑；下坑的人；地底深處；墳坑；陰間 | As Psalms and Isaiah 38 (26:20; 28:8; 31:14–17; 32:18–32). |
+| עֲרֵלִים; חַלְלֵי־חֶרֶב | 未受割禮的人；被刀殺的人 | A death in disgrace, noted at 28:10 (31:18; 32:19–32). |
 
 ## Style
 

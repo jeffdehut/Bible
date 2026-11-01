@@ -2,6 +2,14 @@
 // (public domain) spells them. Written by scripts/names_zh.py: don't edit by hand;
 // corrections go in OVERRIDES there.
 I18N.add({
+"Gammadim":"迦瑪",
+"Kub":"古巴",
+"Vedan":"威但",
+"Kilmad":"基抹",
+"Helbon":"黑本",
+"Canneh":"干尼",
+"Koa":"哥亞",
+"Shoa":"書亞",
 "Tammuz":"搭模斯",
 "Diblah":"第伯拉他",
 "Buzi":"布西",
