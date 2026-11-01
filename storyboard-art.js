@@ -205,9 +205,9 @@
     ["david", "David and Goliath", "1 Samuel 17", "david goliath sling soldier king shepherd-boy sheep", "hills"],
     ["daniel", "Daniel and the lions", "Daniel 6", "daniel lion king soldier", "indoors"],
     ["jonah", "Jonah", "Jonah 1–4", "great-fish boat man cloud water", "sea"],
-    ["nativity", "The first Christmas", "Luke 2; Matthew 2", "baby mary joseph angel shepherd sheep donkey ox manger star wise-man camel", "night town"],
+    ["nativity", "The birth of Jesus", "Luke 2; Matthew 2", "baby mary joseph angel shepherd sheep donkey ox manger star wise-man camel", "night town"],
     ["ministry", "Jesus' ministry", "The Gospels", "jesus peter fisherman boat fish bread zacchaeus tree pharisee man woman boy girl", "sea hills town"],
-    ["easter", "Easter", "The Gospels", "jesus cross tomb soldier mary angel rock", "hills garden"],
+    ["resurrection", "Jesus' death and resurrection", "The Gospels", "jesus cross tomb soldier mary angel rock", "hills garden"],
     ["church", "The early church", "Acts", "peter paul scroll house man woman", "town"],
   ].map(([id, name, ref, pieces, scenes]) => ({ id, name, ref, pieces: pieces.split(" "), scenes: scenes.split(" ") }));
   for (const p of [...people, ...animals, ...things, ...nature]) {
