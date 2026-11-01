@@ -4,7 +4,7 @@ A new translation of the Bible into plain, modern Traditional Chinese for native
 directly from the Hebrew, Aramaic and Greek texts in this repository. It is written for readers
 in Hong Kong, in the standard written Chinese they read every day, not in Cantonese.
 
-**Status:** the four Gospels and Acts drafted; the rest of the Bible in progress from Genesis (see translation-zh/STATUS.md). Every chapter is an AI draft until native readers have reviewed it.
+**Status:** the four Gospels, Acts and Romans drafted; the rest of the Bible in progress from Genesis (see translation-zh/STATUS.md). Every chapter is an AI draft until native readers have reviewed it.
 
 ## What carries over from the English translation
 
@@ -1371,6 +1371,42 @@ Settled while drafting Acts:
 | ἐκκλησία (19:32, 39, 40); γραμματεύς (19:35) | 集會；書記 | The citizens' assembly and the city clerk, both noted apart from 教會 and 經學家. |
 | Names (15–28) | Classic Union forms: 居比路、推羅、該撒利亞、大馬色、革老丟呂西亞、百尼基、革哩底、米利大、非尼基、亞底亞海、丟斯雙子 | No middle dot in compound names (提多猶士都、波求非斯都). The 1989 forms (塞浦路斯、泰爾、凱撒利亞、克勞第、百妮基、克里特、馬耳他) are not used. |
 | The voyage (27) | 船長；船主；救生艇；噚；友拉革羅 | Plain terms; uncertain gear (*boetheiai*, *artemon*, *dithalassos*) explained in notes; 一噚約 1.8 米. |
+
+Settled while drafting Romans (for all of Paul's letters):
+
+| Source | Rendering | Notes |
+|---|---|---|
+| The opening and closing (1:1–7; 16:1–24) | 基督耶穌的僕人保羅……致在羅馬所有為神所愛、蒙召作聖徒的人：願恩典和平安從我們的父神和主耶穌基督歸給你們！ ；問候某某 | 致…… for the addressees, no verb added; greetings 問候 (ἀσπάζομαι), names in the Union Version's forms. *christos* noted at 1:1 as in each book. |
+| δοῦλος (of Paul, 1:1); δουλεύω, δοῦλος (6:6–22) | 僕人；作……的奴僕 | 或譯「奴僕」 at 1:1; the slavery picture of chapter 6 keeps 奴僕. |
+| ἀδελφοί; ἀδελφός (a fellow believer) | 弟兄姊妹 | As the glossary and the Gospels; *adelphoi* noted at the first in each chapter. Paul's fellow Jews (9:3) also 弟兄姊妹, noted. |
+| ἅγιοι | 聖徒 | 直譯「聖潔的人」 noted (1:7; 8:27; 12:13; 15:25; 16:2). |
+| δικαιοσύνη; δικαιοσύνη θεοῦ | 義；神的義 | *dikaiosyne* 「義、公義」 noted at 1:17, with the senses of 神的義 (God's justice and faithfulness, or the standing he gives). 公義 kept for δίκαιος of God's judgment (2:5 δικαιοκρισία 公義審判) and ἀδικία 不義／不公義 (9:14). |
+| δικαιόω; δικαίωσις; δίκαιος | 稱義 (使……稱義、得稱為義)；稱義；義人、義的 | *dikaioo* 「宣告為義」 noted at 2:13, a court word; 3:4 顯為公義 and 6:7 脫離 noted as the same verb. |
+| λογίζομαι (4:3–24) | 算 (算為義) | *logizomai* noted at 4:3. |
+| πίστις; πιστεύω | 信、信心；信 | 1:17 從信到信 (*pistis* 「信心、信實」 noted); 3:3 τὴν πίστιν τοῦ θεοῦ 神的信實. |
+| πίστις Ἰησοῦ Χριστοῦ (3:22, 26) | 信耶穌基督；信耶穌的人 | 或譯「耶穌基督的信實」 in the note, as the English. |
+| Habakkuk 2:4 (1:17) | 義人必因信而活 | As our Habakkuk note; the Hebrew 「他的信實」, the Septuagint 「我的信實」 and 「因信而成為義人的，必得生存」 noted. |
+| χάρις; χάρισμα | 恩典；恩賜 | |
+| ἁμαρτία; παράπτωμα; παράβασις | 罪；過犯；違命、過犯 | Sin personified (5:12–7:25) keeps 罪 as the subject. |
+| σάρξ | 肉體 | Kept for the imagery and for 按肉體 (descent, 1:3; 9:3–8). The moral sense noted at 7:5 and 8:3 (人的本性在軟弱中與神敵對; 或譯「人的本性」); 3:20 πᾶσα σάρξ 沒有一個人 (直譯 noted); 6:19 人性的軟弱 (直譯 noted). σάρκινος 屬肉體的. |
+| πνεῦμα | 聖靈；靈 (the human spirit; ambiguous places noted) | 1:4 聖善的靈; 8:4–13 隨從聖靈, 以聖靈為念; 15:19 SBLGNT's bare *pneuma* 聖靈 with 直譯「靈」 noted. |
+| φρονέω τὰ τῆς σαρκός; φρόνημα (8:5–7) | 以肉體（的事）為念；以聖靈（的事）為念 | |
+| νόμος | 律法 (of Moses)；律 (a principle: 3:27; 7:21–23; 8:2)；法律 (7:1–3) | Each sense noted with *nomos*; 神的律法 (7:22, 25). |
+| ἔργα νόμου | 遵行律法 | 直譯「律法的工作」 noted (2:15; 3:20). |
+| ἱλαστήριον (3:25) | 施恩座 | As our Exodus 25:17 (*kapporet*); the Septuagint's use, 或譯「贖罪祭」, 和合本「挽回祭」 noted. |
+| περὶ ἁμαρτίας (8:3) | 作贖罪祭 | As Leviticus; 或譯「為了罪」 noted. |
+| ἀπολύτρωσις; καταλλαγή, καταλλάσσω | 救贖、得贖；和好 | 5:1 εἰρήνην πρὸς τὸν θεόν 與神相和. |
+| υἱοθεσία | 兒子的名分 | *huiothesia* 「收養為兒子」 noted (8:15, 23; 9:4); 8:14 υἱοί 神的兒子 / 8:19 神的眾子, with *tekna* 兒女 noted. Ἀββα 阿爸 as Mark 14:36. |
+| κληρονόμος | 繼承人 | 4:14; 8:17. |
+| τὰ ἔθνη | 外邦人 | As Mark; 1:5 「萬國」 noted. In Old Testament quotations (15:9–12) 外邦人 too, where our Old Testament has 列國／萬國 (noted). |
+| μὴ γένοιτο | 絕對不是！ | *me genoito* noted at 3:4. |
+| ὦ ἄνθρωπε | 你這（個）人哪 | 2:1, 3; 9:20, noted. |
+| καυχάομαι | 誇口 (2:17, 23; 3:27; 4:2)；誇耀 (5:2–11) | Noted at 5:2. |
+| σπέρμα (of Abraham) | 後裔 | 直譯「種子」 noted; our Genesis has 後代 (noted at 4:18; 9:7). |
+| γράμμα | 條文 (2:29; 7:6)；成文律法 (2:27) | *gramma* noted. |
+| Old Testament quotations | The Greek in the text; our Old Testament line in the note where it differs | Wording our Old Testament notes already give is kept: 2:24 (Isaiah 52:5); 3:4 (Psalm 51:6); 3:15–17 (Isaiah 59:7–8); 9:25 (Hosea 2:25); 9:27–28 (Isaiah 10:22–23); 10:15, 16, 20–21; 11:26–27 (救主從錫安出來); 11:34; 12:19 (伸冤是我的事，我必報應); 14:11 (萬口必向神承認); 15:12. Joel 3:5 (10:13) as Acts 2:21 (凡求告主名的，都必得救). |
+| 16:24; 16:25–27 | 16:24 kept, no 25–27 | As the SBLGNT (Byzantine 16:24); the doxology translated in the note at 16:24, with its place after 14:23 noted there and at 14:23. |
+| Names (16) | 非比、堅革哩、百基拉 (*Priska*)、亞居拉、以拜尼土、安多尼古、猶尼亞 (a woman, noted)、暗伯利、耳巴奴、士大古、亞比利、亞利多布、希羅天、拿其數、土非拿、土富撒、彼息、魯孚、亞遜其土、弗勒干、黑米、八羅巴、黑馬、非羅羅古、猶利亞、尼利亞、阿林巴、路求、耶孫、所西巴德、德提、該猶、以拉都、括土；以利哩古；士班雅 | Union Version forms; 士班雅 the classic form (the 1989 text has 西班牙). |
 
 ## Style
 
