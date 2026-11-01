@@ -69,6 +69,6 @@ Found while drafting; not yet settled across books.
 - Matthew 1–10: *magoi* is 占星家 (2:1), a departure from 和合本「博士」 (noted); a reviewer should confirm. 4:15 keeps Isaiah 8:23's 外族人的加利利 (and our Isaiah note's quotation of Matthew), against the New Testament's 外邦人 for *ethne* elsewhere.
   *Artos* is 食物 in 4:3–4 and 6:11 (as Deuteronomy 8:3) but 餅 in 7:9. 5:5 承受這地 as Psalm 37:11. The genealogy's *Asaph* and *Amos* (critical text) are 亞薩, 阿摩司, the psalmist's and prophet's forms; 和合本 follows *Asa*, *Amon*.
   The Lord's Prayer (6:9–13) should be read aloud by native readers for prayability. 10:28 *psyche* is 靈魂 (body and soul), 10:39 生命.
-- Matthew 11–20: the commandments in 19:18 follow our Exodus 20 and Matthew 5:21, 27 (不可謀殺，不可通姦，不可偷竊), but Mark 10:19 has 不可殺人，不可姦淫，不可偷盜; align Mark. Simon Bar-jona (16:17) is 西門巴約拿 (classic, unbroken; 1989 西門‧巴‧約拿).
+- Matthew 11–20: the commandments in 19:18 follow our Exodus 20 and Matthew 5:21, 27 (不可謀殺，不可通姦，不可偷竊), but Mark 10:19 has 不可殺人，不可姦淫，不可偷盜; align Mark. Simon Bar-jona (16:17) is 西門巴約拿 (classic, unbroken; 1989 西門‧巴‧約拿). (Settled: Mark 10:19 now reads as Exodus 20.)
   Caesarea Philippi is 該撒利亞腓立比 as Mark 8:27 (names table changed from 該撒利亞‧腓立比; Caesarea from the 1989 凱撒利亞 to 該撒利亞). The stater (17:27) is 一塊錢 as 和合本, to keep 銀幣 for the denarius; stadia (14:24) 斯他丟.
   11:12 (*biazetai*) is uncertain; 12:18–21 and 13:35 differ from both the Hebrew and our Old Testament (noted). 13:30 leaves the master's order to the reapers without inner quotation marks.
