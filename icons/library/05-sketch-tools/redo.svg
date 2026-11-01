@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" color="#161b26" data-dark="#e9ecf3" style="--icon-dark:#e9ecf3" fill="none" stroke="currentColor" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="bd-05-sketch-tools-redo-svg-title bd-05-sketch-tools-redo-svg-desc">
+<title id="bd-05-sketch-tools-redo-svg-title">Redo</title>
+<desc id="bd-05-sketch-tools-redo-svg-desc">Sketch toolbar “Redo”.</desc>
+<style>@media(prefers-color-scheme:dark){svg{color:#e9ecf3}}</style>
+<g transform="translate(24 0) scale(-1 1)"><path d="m8 4-4.5 4.5L8 13M3.5 8.5H15a5.5 5.5 0 0 1 0 11h-4"/></g>
+</svg>

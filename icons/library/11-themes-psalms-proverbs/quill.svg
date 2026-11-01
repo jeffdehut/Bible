@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" color="#161b26" data-dark="#e9ecf3" style="--icon-dark:#e9ecf3" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="bd-11-themes-psalms-proverbs-quill-svg-title bd-11-themes-psalms-proverbs-quill-svg-desc">
+<title id="bd-11-themes-psalms-proverbs-quill-svg-title">quill</title>
+<desc id="bd-11-themes-psalms-proverbs-quill-svg-desc">Proverbs collection “Solomon&#x27;s, copied by Hezekiah&#x27;s men”</desc>
+<style>@media(prefers-color-scheme:dark){svg{color:#e9ecf3}}</style>
+<path d="M20.5 3.5c-9 .5-14.4 6.2-15 15 8.8-.6 14.5-6 15-15Z" fill="currentColor" fill-opacity=".09"/><path d="m3 21 12-12"/><path d="M8 16h4M11 13V9" stroke-width="1.15"/>
+</svg>

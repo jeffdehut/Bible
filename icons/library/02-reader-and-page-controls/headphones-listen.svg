@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" color="#161b26" data-dark="#e9ecf3" style="--icon-dark:#e9ecf3" fill="none" stroke="currentColor" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="bd-02-reader-and-page-controls-headphones-listen-svg-title bd-02-reader-and-page-controls-headphones-listen-svg-desc">
+<title id="bd-02-reader-and-page-controls-headphones-listen-svg-title">Listen</title>
+<desc id="bd-02-reader-and-page-controls-headphones-listen-svg-desc">Listen / read aloud: the reading-plan bar, the verse panel (“listen-verse”) and the auto-scroll bar (“Listen: read aloud from here”).</desc>
+<style>@media(prefers-color-scheme:dark){svg{color:#e9ecf3}}</style>
+<path d="M4 14v-2a8 8 0 0 1 16 0v2"/><rect x="3.5" y="12.5" width="4" height="8" rx="1.6" fill="currentColor" fill-opacity=".12"/><rect x="16.5" y="12.5" width="4" height="8" rx="1.6" fill="currentColor" fill-opacity=".12"/>
+</svg>

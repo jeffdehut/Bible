@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" color="#2459c4" data-dark="#6fb0ff" style="--icon-dark:#6fb0ff" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="bd-06-bible-sections-colored-cross-gospels-2459c4-svg-title bd-06-bible-sections-colored-cross-gospels-2459c4-svg-desc">
+<title id="bd-06-bible-sections-colored-cross-gospels-2459c4-svg-title">The Gospels (color)</title>
+<desc id="bd-06-bible-sections-colored-cross-gospels-2459c4-svg-desc">Colored copy for convenience; in the app the color comes from CSS (`--c1`/`--c2` in the picker, `WEB_GROUPS` in the web).</desc>
+<style>@media(prefers-color-scheme:dark){svg{color:#6fb0ff}}</style>
+<path d="M12 3v18M6.5 8.5h11" stroke-width="1.85"/>
+</svg>

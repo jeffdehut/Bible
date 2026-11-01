@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" color="#161b26" data-dark="#e9ecf3" style="--icon-dark:#e9ecf3" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="bd-04-emoji-marks-emoji-praying-hands-prayer-svg-title bd-04-emoji-marks-emoji-praying-hands-prayer-svg-desc">
+<title id="bd-04-emoji-marks-emoji-praying-hands-prayer-svg-title">Prayer</title>
+<desc id="bd-04-emoji-marks-emoji-praying-hands-prayer-svg-desc">Emoji mark “Prayer” (was 🙏).</desc>
+<style>@media(prefers-color-scheme:dark){svg{color:#e9ecf3}}</style>
+<path d="M12 20V9.5L9.5 4.2c-.7-1.4-2.8-.5-2.3 1l1.4 4.4L5 16v4ZM12 20V9.5l2.5-5.3c.7-1.4 2.8-.5 2.3 1l-1.4 4.4L19 16v4Z" fill="currentColor" fill-opacity=".09"/><path d="m5 16 4 2M19 16l-4 2" stroke-width="1.15"/>
+</svg>

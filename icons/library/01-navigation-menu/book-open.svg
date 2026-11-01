@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" color="#161b26" data-dark="#e9ecf3" style="--icon-dark:#e9ecf3" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="bd-01-navigation-menu-book-open-svg-title bd-01-navigation-menu-book-open-svg-desc">
+<title id="bd-01-navigation-menu-book-open-svg-title">Open book</title>
+<desc id="bd-01-navigation-menu-book-open-svg-desc">Menu “Topics &amp; dictionary” (Nave’s topics, Easton’s dictionary); also the emoji mark “Scripture”, the “Classic” color theme, the timeline’s Bible icon, and “Kind of writing” in the Visual Bible card. Timeline “book”: items named bible, testament, vulgate, version, biblia, graece, instrumentum; lives: wycliffe, erasmus, tyndale, tischendorf, jerome; stream “The Bible in world history” (Drawn at stroke-width 1.8, 1.9, 2 in different places.)</desc>
+<style>@media(prefers-color-scheme:dark){svg{color:#e9ecf3}}</style>
+<path d="M12 6.2C9.8 4.6 6.9 4 3.2 4.6v13.9c3.5-.5 6.5.1 8.8 1.7 2.3-1.6 5.3-2.2 8.8-1.7V4.6c-3.7-.6-6.6 0-8.8 1.6Z" fill="currentColor" fill-opacity=".09"/><path d="M12 6.2v14"/>
+</svg>

@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" color="#161b26" data-dark="#e9ecf3" style="--icon-dark:#e9ecf3" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="bd-08-timeline-atom-svg-title bd-08-timeline-atom-svg-desc">
+<title id="bd-08-timeline-atom-svg-title">atom</title>
+<desc id="bd-08-timeline-atom-svg-desc">Timeline “atom”: items named atomic, bombing; lives: newton, einstein</desc>
+<style>@media(prefers-color-scheme:dark){svg{color:#e9ecf3}}</style>
+<circle cx="12" cy="12" r="1.25" fill="currentColor" stroke="none"/><ellipse cx="12" cy="12" rx="9.5" ry="3.6" transform="rotate(0 12 12)" stroke-width="1.2"/><ellipse cx="12" cy="12" rx="9.5" ry="3.6" transform="rotate(60 12 12)" stroke-width="1.2"/><ellipse cx="12" cy="12" rx="9.5" ry="3.6" transform="rotate(120 12 12)" stroke-width="1.2"/>
+</svg>

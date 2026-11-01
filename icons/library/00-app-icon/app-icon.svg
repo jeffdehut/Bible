@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512" color="#161b26" data-dark="#e9ecf3" style="--icon-dark:#e9ecf3" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="bd-00-app-icon-app-icon-svg-title bd-00-app-icon-app-icon-svg-desc">
+<title id="bd-00-app-icon-app-icon-svg-title">BibleData.org app icon</title>
+<desc id="bd-00-app-icon-app-icon-svg-desc">The site’s identity: favicon, brand image beside “BibleData.org” in the bar, home-screen icon, mark on shared images. icon-192.png / icon-512.png are the raster versions (apple-touch-icon, manifest).</desc>
+
+<defs><linearGradient id="lapis" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="512" y2="512"><stop stop-color="#304e9a"/><stop offset="1" stop-color="#152855"/></linearGradient><linearGradient id="gold" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="410" y2="512"><stop stop-color="#f8e5b3"/><stop offset=".5" stop-color="#e3bf70"/><stop offset="1" stop-color="#b88b42"/></linearGradient></defs>
+<rect width="512" height="512" rx="112" fill="url(#lapis)"/>
+<rect x="18" y="18" width="476" height="476" rx="96" fill="none" stroke="#f3d27a" stroke-opacity=".2"/>
+<path d="M256 160c-41-28-92-36-150-27v217c56-7 108 2 150 30 42-28 94-37 150-30V133c-58-9-109-1-150 27Z" fill="#0c193b" opacity=".32" transform="translate(0 9)"/>
+<path d="M256 151c-42-29-92-36-150-27v219c56-7 108 2 150 30 42-28 94-37 150-30V124c-58-9-108-2-150 27Z" fill="none" stroke="url(#gold)" stroke-width="14" stroke-linejoin="round"/>
+<path d="M256 151v222" stroke="url(#gold)" stroke-width="12"/>
+<path d="M126 147c43-3 78 5 108 21v170c-32-15-68-23-108-20Z" fill="#f8e5b3" opacity=".07"/>
+<path d="M278 168c30-16 65-24 108-21v171c-40-3-76 5-108 20Z" fill="#f8e5b3" opacity=".12"/>
+<g fill="none" stroke="#e9cd8d" stroke-width="7" stroke-linecap="round"><path d="M145 187c25 0 47 5 67 14M145 224c25 0 47 5 67 14M145 261c19 0 37 3 53 9"/><path d="M297 200c20-9 42-13 67-13M297 237c20-9 42-13 67-13M297 274c15-7 32-11 50-12"/></g>
+<path d="M106 360c57-6 107 4 150 31 43-27 93-37 150-31" fill="none" stroke="#ddbb77" stroke-opacity=".55" stroke-width="5" stroke-linecap="round"/>
+
+</svg>

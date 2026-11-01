@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" color="#161b26" data-dark="#e9ecf3" style="--icon-dark:#e9ecf3" fill="none" stroke="currentColor" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="bd-02-reader-and-page-controls-text-size-aa-svg-title bd-02-reader-and-page-controls-text-size-aa-svg-desc">
+<title id="bd-02-reader-and-page-controls-text-size-aa-svg-title">Text and display settings</title>
+<desc id="bd-02-reader-and-page-controls-text-size-aa-svg-desc">Opens the Display sheet (text size, font, theme, etc.).</desc>
+<style>@media(prefers-color-scheme:dark){svg{color:#e9ecf3}}</style>
+<path d="M2.5 19 8.2 4l5.7 15M4.4 14h7.6M15 19l3.5-9 3.5 9M16.1 16h4.8"/><path d="M2 19h3M11.5 19h3" stroke-width="1.15"/>
+</svg>

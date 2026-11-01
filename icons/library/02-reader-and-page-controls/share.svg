@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" color="#161b26" data-dark="#e9ecf3" style="--icon-dark:#e9ecf3" fill="none" stroke="currentColor" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="bd-02-reader-and-page-controls-share-svg-title bd-02-reader-and-page-controls-share-svg-desc">
+<title id="bd-02-reader-and-page-controls-share-svg-title">Share</title>
+<desc id="bd-02-reader-and-page-controls-share-svg-desc">Share a verse (verse panel), share a plate (atlas), share a card (Connections), share an item or year (Timeline).</desc>
+<style>@media(prefers-color-scheme:dark){svg{color:#e9ecf3}}</style>
+<path d="m8.1 10.8 7.5-4.4m-7.5 6.8 7.5 4.4"/><circle cx="18" cy="5" r="2.5" fill="currentColor" fill-opacity=".1"/><circle cx="6" cy="12" r="2.5" fill="currentColor" fill-opacity=".1"/><circle cx="18" cy="19" r="2.5" fill="currentColor" fill-opacity=".1"/>
+</svg>

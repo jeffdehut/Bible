@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" width="20" height="20" color="#a8790a" data-dark="#f2c45a" style="--icon-dark:#f2c45a" fill="none" stroke="currentColor" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="bd-03-marking-and-notes-sticky-note-svg-title bd-03-marking-and-notes-sticky-note-svg-desc">
+<title id="bd-03-marking-and-notes-sticky-note-svg-title">Note (sticky note)</title>
+<desc id="bd-03-marking-and-notes-sticky-note-svg-desc">“Note on these words” in the marking menu (`ICON_STICKY`). The same shape (`STICKY_SVG(color)`, lines at 70% opacity) marks a note in the text, colored in the note’s highlight color (yellow, green, blue, pink, orange, purple, red, teal, gray).</desc>
+<style>@media(prefers-color-scheme:dark){svg{color:#f2c45a}}</style>
+<g transform="scale(.8333333333)"><path d="M3.5 3.5h17V15L15 20.5H3.5Z" fill="currentColor" fill-opacity=".09"/><path d="M15 20.5V15h5.5"/><path d="M7 8h10M7 11.5h6" stroke-width="1.15"/></g>
+</svg>

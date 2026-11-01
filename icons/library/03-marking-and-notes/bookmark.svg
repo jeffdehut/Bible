@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" color="#161b26" data-dark="#e9ecf3" style="--icon-dark:#e9ecf3" fill="none" stroke="currentColor" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="bd-03-marking-and-notes-bookmark-svg-title bd-03-marking-and-notes-bookmark-svg-desc">
+<title id="bd-03-marking-and-notes-bookmark-svg-title">Bookmark</title>
+<desc id="bd-03-marking-and-notes-bookmark-svg-desc">Same file as in 03-marking-and-notes/. “Bookmark” in the marking menu (`ICON_BM`); menu “Bookmarks” (the passages you bookmarked). (Drawn at stroke-width 1.8, 2 in different places.)</desc>
+<style>@media(prefers-color-scheme:dark){svg{color:#e9ecf3}}</style>
+<path d="M6.5 3.5h11v17l-5.5-3.7-5.5 3.7Z" fill="currentColor" fill-opacity=".09"/><path d="M9.5 7h5" stroke-width="1.15"/>
+</svg>

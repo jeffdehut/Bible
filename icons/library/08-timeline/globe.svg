@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" color="#161b26" data-dark="#e9ecf3" style="--icon-dark:#e9ecf3" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="bd-08-timeline-globe-svg-title bd-08-timeline-globe-svg-desc">
+<title id="bd-08-timeline-globe-svg-title">globe</title>
+<desc id="bd-08-timeline-globe-svg-desc">Timeline “globe”: stream “World”; stream “World events”</desc>
+<style>@media(prefers-color-scheme:dark){svg{color:#e9ecf3}}</style>
+<circle cx="12" cy="12" r="9"/><path d="M3 12h18"/><path d="M4.3 7.5h15.4M4.3 16.5h15.4M12 3c-5.5 4.5-5.5 13.5 0 18 5.5-4.5 5.5-13.5 0-18Z" stroke-width="1.15"/>
+</svg>

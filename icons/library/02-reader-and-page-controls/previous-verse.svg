@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" color="#161b26" data-dark="#e9ecf3" style="--icon-dark:#e9ecf3" fill="none" stroke="currentColor" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="bd-02-reader-and-page-controls-previous-verse-svg-title bd-02-reader-and-page-controls-previous-verse-svg-desc">
+<title id="bd-02-reader-and-page-controls-previous-verse-svg-title">Previous verse</title>
+<desc id="bd-02-reader-and-page-controls-previous-verse-svg-desc">Listening bar: go to the previous verse.</desc>
+<style>@media(prefers-color-scheme:dark){svg{color:#e9ecf3}}</style>
+<g transform="translate(24 0) scale(-1 1)"><path d="m4.5 5.5 10 6.5-10 6.5Z" fill="currentColor" stroke="none"/><rect x="17" y="5" width="2.5" height="14" rx="0.7" fill="currentColor" stroke="none"/></g>
+</svg>

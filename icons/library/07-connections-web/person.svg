@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" color="#161b26" data-dark="#e9ecf3" style="--icon-dark:#e9ecf3" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="bd-07-connections-web-person-svg-title bd-07-connections-web-person-svg-desc">
+<title id="bd-07-connections-web-person-svg-title">Person</title>
+<desc id="bd-07-connections-web-person-svg-desc">Web point type “People” (share.js `person`): a person in the Connections web (graph.html, reader panel, 3D web). Colors: #6b7385 (light mode) / #97a3c4 (dark mode)</desc>
+<style>@media(prefers-color-scheme:dark){svg{color:#e9ecf3}}</style>
+<circle cx="12" cy="7.4" r="3.4" fill="currentColor" fill-opacity=".09"/><path d="M5 20.5v-1a7 6 0 0 1 14 0v1Z" fill="currentColor" fill-opacity=".09"/>
+</svg>

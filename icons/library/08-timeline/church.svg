@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" color="#161b26" data-dark="#e9ecf3" style="--icon-dark:#e9ecf3" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="bd-08-timeline-church-svg-title bd-08-timeline-church-svg-desc">
+<title id="bd-08-timeline-church-svg-title">church</title>
+<desc id="bd-08-timeline-church-svg-desc">Timeline “church”: items named church, revival, awakening, reformation, apostolic, nicene, vatican, trent</desc>
+<style>@media(prefers-color-scheme:dark){svg{color:#e9ecf3}}</style>
+<path d="M12 2v5M10 4h4"/><path d="m5 12 7-5 7 5v9H5Z" fill="currentColor" fill-opacity=".09"/><path d="M10 21v-6h4v6"/><path d="M3 21h18" stroke-width="1.15"/>
+</svg>

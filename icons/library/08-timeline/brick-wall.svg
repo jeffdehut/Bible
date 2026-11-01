@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" color="#161b26" data-dark="#e9ecf3" style="--icon-dark:#e9ecf3" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="bd-08-timeline-brick-wall-svg-title bd-08-timeline-brick-wall-svg-desc">
+<title id="bd-08-timeline-brick-wall-svg-title">wall</title>
+<desc id="bd-08-timeline-brick-wall-svg-desc">Timeline “wall”: items named berlin wall</desc>
+<style>@media(prefers-color-scheme:dark){svg{color:#e9ecf3}}</style>
+<rect x="3" y="5" width="18" height="14" rx="1" fill="currentColor" fill-opacity=".07"/><path d="M3 9.5h18M3 14h18M8 5v4.5M16 5v4.5M12 9.5V14M7 14v5M17 14v5" stroke-width="1.15"/>
+</svg>

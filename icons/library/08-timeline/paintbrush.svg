@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" color="#161b26" data-dark="#e9ecf3" style="--icon-dark:#e9ecf3" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" role="img" aria-labelledby="bd-08-timeline-paintbrush-svg-title bd-08-timeline-paintbrush-svg-desc">
+<title id="bd-08-timeline-paintbrush-svg-title">brush</title>
+<desc id="bd-08-timeline-paintbrush-svg-desc">Timeline “brush”: items named renaissance</desc>
+<style>@media(prefers-color-scheme:dark){svg{color:#e9ecf3}}</style>
+<path d="m10.5 11 8-8a1.4 1.4 0 0 1 2 2l-8 8Z" fill="currentColor" fill-opacity=".09"/><path d="M10.5 11c-4-1-4.5 3.3-4.5 5-1 1.3-2 1.7-3 1.5 2.5 5 9 3.8 10-1.2.4-2-1-3.8-2.5-5.3Z" fill="currentColor" fill-opacity=".09"/><path d="m8 16 1.5-1.5" stroke-width="1.15"/>
+</svg>
