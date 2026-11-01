@@ -164,6 +164,27 @@
   }
 
   // In the reader: fill its menu sheet, now, before the reader's own script runs.
+  const colors = document.createElement("style");
+  colors.textContent = `
+/* Each part of the menu in its own color: its heading, and the tiles under it (in the reader's
+   own menu too, whatever the theme's accent). */
+.menu-group.menu-read, ul.menu.menu-read { --mc: #1f63d6; } .menu-group.menu-explore, ul.menu.menu-explore { --mc: #c27c00; }
+.menu-group.menu-resources, ul.menu.menu-resources { --mc: #1f9e45; } .menu-group.menu-you, ul.menu.menu-you { --mc: #7a3fd6; }
+.menu-group.menu-about, ul.menu.menu-about { --mc: #d6335f; }
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) :is(.menu-group, ul.menu).menu-read { --mc: #7fa8ff; } :root:not([data-theme="light"]) :is(.menu-group, ul.menu).menu-explore { --mc: #f4b83a; }
+  :root:not([data-theme="light"]) :is(.menu-group, ul.menu).menu-resources { --mc: #5fd47e; } :root:not([data-theme="light"]) :is(.menu-group, ul.menu).menu-you { --mc: #b58cff; }
+  :root:not([data-theme="light"]) :is(.menu-group, ul.menu).menu-about { --mc: #ff7c9c; } }
+:root[data-theme="dark"] :is(.menu-group, ul.menu).menu-read { --mc: #7fa8ff; } :root[data-theme="dark"] :is(.menu-group, ul.menu).menu-explore { --mc: #f4b83a; }
+:root[data-theme="dark"] :is(.menu-group, ul.menu).menu-resources { --mc: #5fd47e; } :root[data-theme="dark"] :is(.menu-group, ul.menu).menu-you { --mc: #b58cff; }
+:root[data-theme="dark"] :is(.menu-group, ul.menu).menu-about { --mc: #ff7c9c; }
+h3.menu-group[class*="menu-"] { color: var(--mc); }
+ul.menu[class*="menu-"] li svg { width: 46px; height: 46px; padding: 11px; border-radius: 14px; box-sizing: border-box; flex: none; background: color-mix(in srgb, var(--mc) 20%, transparent); color: var(--mc); }
+ul.menu[class*="menu-"] li a:hover, ul.menu[class*="menu-"] li button:hover { background: color-mix(in srgb, var(--mc) 10%, transparent); }
+ul.menu[class*="menu-"] li a:hover svg, ul.menu[class*="menu-"] li button:hover svg { background: color-mix(in srgb, var(--mc) 28%, transparent); }
+ul.menu[class*="menu-"] li a[aria-current="page"] { background: color-mix(in srgb, var(--mc) 12%, transparent); box-shadow: inset 0 0 0 1.5px var(--mc); }
+`;
+  document.head.append(colors);
   if (inReader) { render(document.getElementById("site-menu")); window.SiteNav = { MENU, render }; return; }
 
   // Elsewhere: a menu button and a menu of this page's own.
@@ -183,18 +204,6 @@
   font: 500 13px/1.25 "Libre Franklin", system-ui, sans-serif; color: var(--ink, #161b26); text-decoration: none; }
 .sitenav .menu a:hover { background: var(--lapis-soft, #e7ecf8); }
 .sitenav .menu a[aria-current="page"] { background: var(--lapis-soft, #e7ecf8); box-shadow: inset 0 0 0 1.5px var(--lapis, #2646a1); }
-/* Each part of the menu in its own color: its heading, and the tiles under it. */
-.sitenav .menu-read { --mc: #2646a1; } .sitenav .menu-explore { --mc: #8a640b; } .sitenav .menu-resources { --mc: #2f7d3a; }
-.sitenav .menu-you { --mc: #6d43c9; } .sitenav .menu-about { --mc: #b0365a; }
-@media (prefers-color-scheme: dark) {
-  :root:not([data-theme="light"]) .sitenav .menu-read { --mc: #9db3ff; } :root:not([data-theme="light"]) .sitenav .menu-explore { --mc: #e2bd5c; } :root:not([data-theme="light"]) .sitenav .menu-resources { --mc: #6fd27c; }
-  :root:not([data-theme="light"]) .sitenav .menu-you { --mc: #b996ff; } :root:not([data-theme="light"]) .sitenav .menu-about { --mc: #ff8fb0; } }
-:root[data-theme="dark"] .sitenav .menu-read { --mc: #9db3ff; } :root[data-theme="dark"] .sitenav .menu-explore { --mc: #e2bd5c; } :root[data-theme="dark"] .sitenav .menu-resources { --mc: #6fd27c; }
-:root[data-theme="dark"] .sitenav .menu-you { --mc: #b996ff; } :root[data-theme="dark"] .sitenav .menu-about { --mc: #ff8fb0; }
-.sitenav .menu-group[class*="menu-"] { color: var(--mc); }
-.sitenav .menu svg { width: 46px; height: 46px; padding: 11px; border-radius: 14px; box-sizing: border-box; flex: none; background: color-mix(in srgb, var(--mc, #2646a1) 13%, transparent); color: var(--mc, #2646a1); }
-.sitenav .menu a:hover { background: color-mix(in srgb, var(--mc, #2646a1) 8%, transparent); }
-.sitenav .menu a[aria-current="page"] { background: color-mix(in srgb, var(--mc, #2646a1) 10%, transparent); box-shadow: inset 0 0 0 1.5px var(--mc, #2646a1); }
 .sitenav .menu small:empty { display: none; }
 @media print { .sitenav-btn, .sitenav, .sitenav-scrim { display: none !important; } }`;
   document.head.append(css);
